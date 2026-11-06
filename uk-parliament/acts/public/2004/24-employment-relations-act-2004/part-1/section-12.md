@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Employer’s notice to end bargaining arrangements[^key-3f4ed589bbee3ad5143db175d7da3934]
+## 12. Employer’s notice to end bargaining arrangements[^c-3f4ed589bbee3ad5143db175d7da3934]
 
 *Extent: E+W+S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f4ed589bbee3ad5143db175d7da3934]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2004/24/section/12) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 9(1)](https://www.legislation.gov.uk/uksi/2005/872/article/9/1))
+[^c-3f4ed589bbee3ad5143db175d7da3934]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2004/24/section/12) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 9(1)](https://www.legislation.gov.uk/uksi/2005/872/article/9/1))

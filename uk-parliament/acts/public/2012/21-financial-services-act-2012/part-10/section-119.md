@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-55c6db36ef9848fc6a2e8c7307ba0d21] Schedule 20 contains transitional provisions.
+(1)[^c-55c6db36ef9848fc6a2e8c7307ba0d21] Schedule 20 contains transitional provisions.
 
-(2)[^key-55c6db36ef9848fc6a2e8c7307ba0d21] Schedule 21 contains provision about the transfer of property, rights and liabilities.
+(2)[^c-55c6db36ef9848fc6a2e8c7307ba0d21] Schedule 21 contains provision about the transfer of property, rights and liabilities.
 
 (3) The Treasury may by order make such provision as they consider necessary or expedient for transitory, transitional or saving purposes in connection with the commencement of any provision made by or under this Act.
 
@@ -55,4 +55,4 @@ summary: ''
 
 [^c2172474]: Commencement: [S.119](https://www.legislation.gov.uk/ukpga/2012/21/section/119) partly in force; [s. 119(3)-(6)](https://www.legislation.gov.uk/ukpga/2012/21/section/119/3) in force at Royal Assent, see [s. 122(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/1).
 
-[^key-55c6db36ef9848fc6a2e8c7307ba0d21]: Commencement: [S. 119(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/119/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/119/2) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-55c6db36ef9848fc6a2e8c7307ba0d21]: Commencement: [S. 119(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/119/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/119/2) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)

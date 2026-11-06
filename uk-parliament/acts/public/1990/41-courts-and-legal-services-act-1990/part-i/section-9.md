@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Allocation of family proceedings which are within the jurisdiction of county courts.[^key-58427a38a10ab2dc273920aca05a1961]
+## 9. Allocation of family proceedings which are within the jurisdiction of county courts.[^c-58427a38a10ab2dc273920aca05a1961]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58427a38a10ab2dc273920aca05a1961]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1990/41/section/9) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 76(7)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/76/7); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-58427a38a10ab2dc273920aca05a1961]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1990/41/section/9) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 76(7)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/76/7); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

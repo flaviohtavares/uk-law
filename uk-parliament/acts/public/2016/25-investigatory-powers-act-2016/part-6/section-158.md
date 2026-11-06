@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Power to issue bulk acquisition warrants[^key-2b1e618147981db624e83060df71075a][^key-f903b114f016c031c3858c31655a18c5]
+## 158. Power to issue bulk acquisition warrants[^c-2b1e618147981db624e83060df71075a][^c-f903b114f016c031c3858c31655a18c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ For the meaning of “head of an intelligence service”, see section 263.
 
 ## Annotations
 
-[^key-2b1e618147981db624e83060df71075a]: Commencement: [S. 158](https://www.legislation.gov.uk/ukpga/2016/25/section/158) in force at 25.7.2018 for specified purposes by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/b) (with [reg. 6(a)](https://www.legislation.gov.uk/uksi/2018/873/regulation/6/a))
+[^c-2b1e618147981db624e83060df71075a]: Commencement: [S. 158](https://www.legislation.gov.uk/ukpga/2016/25/section/158) in force at 25.7.2018 for specified purposes by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/b) (with [reg. 6(a)](https://www.legislation.gov.uk/uksi/2018/873/regulation/6/a))
 
-[^key-f903b114f016c031c3858c31655a18c5]: Commencement: [S. 158](https://www.legislation.gov.uk/ukpga/2016/25/section/158) in force at 22.8.2018 in so far as not already in force by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/b)
+[^c-f903b114f016c031c3858c31655a18c5]: Commencement: [S. 158](https://www.legislation.gov.uk/ukpga/2016/25/section/158) in force at 22.8.2018 in so far as not already in force by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 5 — RE-GRADING OF SEED[^key-47a55e4c785cb85c28d0381215c6549f]
+## SCHEDULE 5 — RE-GRADING OF SEED[^c-47a55e4c785cb85c28d0381215c6549f]
 
 *Extent: E+W+S+NI*
 
@@ -28,4 +28,4 @@ Regulation 13(1)
 
 ## Annotations
 
-[^key-47a55e4c785cb85c28d0381215c6549f]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2002/3174) revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(d)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/d)
+[^c-47a55e4c785cb85c28d0381215c6549f]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2002/3174) revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(d)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/d)

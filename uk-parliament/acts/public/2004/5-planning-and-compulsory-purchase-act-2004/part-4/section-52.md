@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Temporary stop notice[^key-0bff2b227348d90ff1abfbd5c5f7d5bb][^key-e8293cf3a4123e3b7c9301ac3396d2bd][^key-b3e1d4bd0f71e657419c1bfd8299a2c6]
+## 52. Temporary stop notice[^c-0bff2b227348d90ff1abfbd5c5f7d5bb][^c-e8293cf3a4123e3b7c9301ac3396d2bd][^c-b3e1d4bd0f71e657419c1bfd8299a2c6]
 
 *Extent: E+W*
 
@@ -121,8 +121,8 @@ After section 171D of the principal Act (penalties for non-compliance with plann
 
 ## Annotations
 
-[^key-0bff2b227348d90ff1abfbd5c5f7d5bb]: Commencement: S. 52 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-0bff2b227348d90ff1abfbd5c5f7d5bb]: Commencement: S. 52 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-e8293cf3a4123e3b7c9301ac3396d2bd]: Commencement: S. 52 in force at 7.3.2005 for E. so far as not already in force by [S.I. 2005/204](https://www.legislation.gov.uk/uksi/2005/204), [art. 2](https://www.legislation.gov.uk/uksi/2005/204/article/2)
+[^c-e8293cf3a4123e3b7c9301ac3396d2bd]: Commencement: S. 52 in force at 7.3.2005 for E. so far as not already in force by [S.I. 2005/204](https://www.legislation.gov.uk/uksi/2005/204), [art. 2](https://www.legislation.gov.uk/uksi/2005/204/article/2)
 
-[^key-b3e1d4bd0f71e657419c1bfd8299a2c6]: Commencement: S. 52 in force at 22.6.2015 for W. so far as not already in force by [S.I. 2015/340](https://www.legislation.gov.uk/uksi/2015/340), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/340/article/2/c)
+[^c-b3e1d4bd0f71e657419c1bfd8299a2c6]: Commencement: S. 52 in force at 22.6.2015 for W. so far as not already in force by [S.I. 2015/340](https://www.legislation.gov.uk/uksi/2015/340), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/340/article/2/c)

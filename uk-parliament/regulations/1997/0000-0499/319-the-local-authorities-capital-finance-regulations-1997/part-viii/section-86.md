@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Capital receipts derived from disposals made to assist regeneration[^key-d372e3ff62497f146e4820d9d800bc25]
+## 86. Capital receipts derived from disposals made to assist regeneration[^c-d372e3ff62497f146e4820d9d800bc25]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d372e3ff62497f146e4820d9d800bc25]: Commencement: Reg. 86 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-d372e3ff62497f146e4820d9d800bc25]: Commencement: Reg. 86 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00078]: Footnote: Copies of the publication can be obtained from Floor 5/F2—Eland House, Bressenden Place, London SW1E 5DU.
 

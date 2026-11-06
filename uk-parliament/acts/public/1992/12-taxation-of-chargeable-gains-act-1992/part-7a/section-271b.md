@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271B. Branch or agency treated as UK representative[^key-9d2266cff61c51d6e733a53fa72156c3]
+## 271B. Branch or agency treated as UK representative[^c-9d2266cff61c51d6e733a53fa72156c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) a non-UK resident carries on (alone or in partnership) any trade, profession or vocation through a branch or agency in the United Kingdom, and
 - (b) the branch or agency is to be treated under Chapter 2B of Part 14 of ITA 2007 as the UK representative of the non-UK resident in relation to amounts within section 835E(2) of that Act.
 
-(2) The branch or agency is the UK representative of the non-UK resident in relation to amounts which, by reference to the branch or agency, are chargeable to capital gains tax as a result of section 1A(3)(a)[^key-fae6a16015dbdc02119f37a50e9c15c0] above.
+(2) The branch or agency is the UK representative of the non-UK resident in relation to amounts which, by reference to the branch or agency, are chargeable to capital gains tax as a result of section 1A(3)(a)[^c-fae6a16015dbdc02119f37a50e9c15c0] above.
 
 (3) The following rules are to be applied for the purposes of subsection (2) and Chapter 2 in relation to an amount within that subsection.
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d2266cff61c51d6e733a53fa72156c3]: Textual amendment: Pt. 7A inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/part/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-9d2266cff61c51d6e733a53fa72156c3]: Textual amendment: Pt. 7A inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/part/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-fae6a16015dbdc02119f37a50e9c15c0]: Textual amendment: Words in [s. 271B(2)](https://www.legislation.gov.uk/ukpga/1992/12/section/271B/2) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 81](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/81)
+[^c-fae6a16015dbdc02119f37a50e9c15c0]: Textual amendment: Words in [s. 271B(2)](https://www.legislation.gov.uk/ukpga/1992/12/section/271B/2) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 81](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/81)

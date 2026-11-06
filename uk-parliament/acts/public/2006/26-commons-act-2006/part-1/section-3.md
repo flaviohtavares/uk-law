@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Content of registers[^c1967937][^key-5902705f00477ebfa62dc9f10ff5c89b][^key-714e064f1fbe3d4bd6beeb4a0a927e8a]
+## 3. Content of registers[^c1967937][^c-5902705f00477ebfa62dc9f10ff5c89b][^c-714e064f1fbe3d4bd6beeb4a0a927e8a]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ summary: ''
 
 [^c1967937]: Commencement: S. 3 partly in force; s. 3 not in force at Royal Assent see s. 56(1); s. 3(5) in force for certain purposes for W. at 12.8.2007 by [S.I. 2007/2386](https://www.legislation.gov.uk/uksi/2007/2386), [art. 2](https://www.legislation.gov.uk/uksi/2007/2386/article/2)
 
-[^key-5902705f00477ebfa62dc9f10ff5c89b]: Commencement: S. 3 in force at 1.10.2008 for specified purposes for E. by [S.I. 2008/1960](https://www.legislation.gov.uk/uksi/2008/1960), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/1960/article/2/1/a), [Sch.](https://www.legislation.gov.uk/uksi/2008/1960/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1960/article/3))
+[^c-5902705f00477ebfa62dc9f10ff5c89b]: Commencement: S. 3 in force at 1.10.2008 for specified purposes for E. by [S.I. 2008/1960](https://www.legislation.gov.uk/uksi/2008/1960), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/1960/article/2/1/a), [Sch.](https://www.legislation.gov.uk/uksi/2008/1960/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1960/article/3))
 
-[^key-714e064f1fbe3d4bd6beeb4a0a927e8a]: Commencement: S. 3 in force at 15.12.2014 for specified purposes for E. by [S.I. 2014/3026](https://www.legislation.gov.uk/uksi/2014/3026), [art. 3](https://www.legislation.gov.uk/uksi/2014/3026/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2014/3026/article/4), [5](https://www.legislation.gov.uk/uksi/2014/3026/article/5))
+[^c-714e064f1fbe3d4bd6beeb4a0a927e8a]: Commencement: S. 3 in force at 15.12.2014 for specified purposes for E. by [S.I. 2014/3026](https://www.legislation.gov.uk/uksi/2014/3026), [art. 3](https://www.legislation.gov.uk/uksi/2014/3026/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2014/3026/article/4), [5](https://www.legislation.gov.uk/uksi/2014/3026/article/5))

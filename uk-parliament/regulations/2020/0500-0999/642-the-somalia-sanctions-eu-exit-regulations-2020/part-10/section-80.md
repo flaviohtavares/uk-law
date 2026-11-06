@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Trade: overlapping offences[^key-6c2fe06f9225d74ed512d767c21fdb29]
+## 80. Trade: overlapping offences[^c-6c2fe06f9225d74ed512d767c21fdb29]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ A person is not to be taken to commit an offence under the Export Control Order 
 
 ## Annotations
 
-[^key-6c2fe06f9225d74ed512d767c21fdb29]: Commencement: Reg. 80 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-6c2fe06f9225d74ed512d767c21fdb29]: Commencement: Reg. 80 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
 
 [^c24171781]: Marginal citation: Articles 37 and 38 have been amended by the [Export Control (Amendment) (No. 2) Order 2012 (S.I. 2012/910)](https://www.legislation.gov.uk/uksi/2012/910), [Schedule 1](https://www.legislation.gov.uk/uksi/2012/910/schedule/1), [para 11](https://www.legislation.gov.uk/uksi/2012/910/paragraph/11) and article 38 has also been amended by the [Export Control (Amendment) Order 2017 (S.I. 2017/85)](https://www.legislation.gov.uk/uksi/2017/85), [article 2(7)](https://www.legislation.gov.uk/uksi/2017/85/article/2/7).

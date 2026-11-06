@@ -24,12 +24,12 @@ Section 31
 
 ### Company reconstructions without change of ownership
 
-**1.**[^key-b2abea5639382c32773c366b1ca90112] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b2abea5639382c32773c366b1ca90112] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Sale etc of lessor companies etc
 
-**2.**[^key-b2abea5639382c32773c366b1ca90112] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b2abea5639382c32773c366b1ca90112] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b2abea5639382c32773c366b1ca90112]: Textual amendment: Sch. 6 paras. 1, 2 repealed (1.4.2010) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-b2abea5639382c32773c366b1ca90112]: Textual amendment: Sch. 6 paras. 1, 2 repealed (1.4.2010) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

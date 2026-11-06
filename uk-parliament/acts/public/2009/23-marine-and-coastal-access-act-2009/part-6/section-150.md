@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Inshore fisheries and conservation authorities[^key-e1fc34a32fdd712eda2ee4f206f1e3ad]
+## 150. Inshore fisheries and conservation authorities[^c-e1fc34a32fdd712eda2ee4f206f1e3ad]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1fc34a32fdd712eda2ee4f206f1e3ad]: Commencement: [S. 150](https://www.legislation.gov.uk/ukpga/2009/23/section/150) in force at 1.10.2010 by [S.I. 2010/2195](https://www.legislation.gov.uk/uksi/2010/2195), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2010/2195/article/3/2/a)
+[^c-e1fc34a32fdd712eda2ee4f206f1e3ad]: Commencement: [S. 150](https://www.legislation.gov.uk/ukpga/2009/23/section/150) in force at 1.10.2010 by [S.I. 2010/2195](https://www.legislation.gov.uk/uksi/2010/2195), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2010/2195/article/3/2/a)

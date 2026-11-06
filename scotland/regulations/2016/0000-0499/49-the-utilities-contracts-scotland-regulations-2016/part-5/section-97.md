@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Scope of Chapter[^key-5258fd9517b671c566171b35c6c62c2a]
+## 97. Scope of Chapter[^c-5258fd9517b671c566171b35c6c62c2a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ This Chapter applies to procurement falling within the scope of Parts 1 to 4.
 
 ## Annotations
 
-[^key-5258fd9517b671c566171b35c6c62c2a]: Commencement: [Reg. 97](https://www.legislation.gov.uk/ssi/2016/49/regulation/97) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-5258fd9517b671c566171b35c6c62c2a]: Commencement: [Reg. 97](https://www.legislation.gov.uk/ssi/2016/49/regulation/97) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17C. Annual payments for certain applications in cases of severe ill health[^key-38c62b69cdd278a92ecb06473f824eec]
+## 17C. Annual payments for certain applications in cases of severe ill health[^c-38c62b69cdd278a92ecb06473f824eec]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,7 +62,7 @@ summary: ''
 - (b) the scheme manager may not make—
   - (i) an initial payment under regulation 18 in anticipation of an annual payment being payable under regulation 17(2);
   - (ii) an interim ill health payment under regulation 17B(2); or
-  - (iii) an initial payment for terminal illness by virtue of regulation 18(4)[^key-15a336f995320b025acf758f061d5d7d].
+  - (iii) an initial payment for terminal illness by virtue of regulation 18(4)[^c-15a336f995320b025acf758f061d5d7d].
 
 (9) Where—
 
@@ -85,6 +85,6 @@ that qualifying member shall be entitled to an annual payment in accordance with
 
 ## Annotations
 
-[^key-38c62b69cdd278a92ecb06473f824eec]: Textual amendment: Reg. 17C inserted (27.3.2009) by [The Financial Assistance Scheme and Incapacity Benefit (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/792)](https://www.legislation.gov.uk/uksi/2009/792), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/792/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2009/792/regulation/7)
+[^c-38c62b69cdd278a92ecb06473f824eec]: Textual amendment: Reg. 17C inserted (27.3.2009) by [The Financial Assistance Scheme and Incapacity Benefit (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/792)](https://www.legislation.gov.uk/uksi/2009/792), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/792/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2009/792/regulation/7)
 
-[^key-15a336f995320b025acf758f061d5d7d]: Textual amendment: Words in reg. 17C(8)(b)(iii) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [15](https://www.legislation.gov.uk/uksi/2009/1851/regulation/15) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-15a336f995320b025acf758f061d5d7d]: Textual amendment: Words in reg. 17C(8)(b)(iii) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [15](https://www.legislation.gov.uk/uksi/2009/1851/regulation/15) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))

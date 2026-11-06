@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Local Government Pension Scheme (Administration) (Scotland) Amendment Regulations 2012 (revoked)[^key-bac0aac8d95489fda1a5532113c4b2ce]
+The Local Government Pension Scheme (Administration) (Scotland) Amendment Regulations 2012 (revoked)[^c-bac0aac8d95489fda1a5532113c4b2ce]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 12th October 2012
 
-[^key-bac0aac8d95489fda1a5532113c4b2ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bac0aac8d95489fda1a5532113c4b2ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-bac0aac8d95489fda1a5532113c4b2ce]
+## 1. Citation, commencement and effect[^c-bac0aac8d95489fda1a5532113c4b2ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Local Government Pension Scheme (Administration) (Scotland) Regulations 2008[^key-bac0aac8d95489fda1a5532113c4b2ce]
+## 2. Amendment of the Local Government Pension Scheme (Administration) (Scotland) Regulations 2008[^c-bac0aac8d95489fda1a5532113c4b2ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-bac0aac8d95489fda1a5532113c4b2ce]
+## 3.[^c-bac0aac8d95489fda1a5532113c4b2ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bac0aac8d95489fda1a5532113c4b2ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bac0aac8d95489fda1a5532113c4b2ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bac0aac8d95489fda1a5532113c4b2ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bac0aac8d95489fda1a5532113c4b2ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bac0aac8d95489fda1a5532113c4b2ce]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/236) revoked (1.4.2015) by [The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (S.S.I. 2014/233)](https://www.legislation.gov.uk/ssi/2014/233), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/233/regulation/1/3), [sch. 1](https://www.legislation.gov.uk/ssi/2014/233/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/233/regulation/3), [sch. 2](https://www.legislation.gov.uk/ssi/2014/233/schedule/2))
+[^c-bac0aac8d95489fda1a5532113c4b2ce]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/236) revoked (1.4.2015) by [The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (S.S.I. 2014/233)](https://www.legislation.gov.uk/ssi/2014/233), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/233/regulation/1/3), [sch. 1](https://www.legislation.gov.uk/ssi/2014/233/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/233/regulation/3), [sch. 2](https://www.legislation.gov.uk/ssi/2014/233/schedule/2))

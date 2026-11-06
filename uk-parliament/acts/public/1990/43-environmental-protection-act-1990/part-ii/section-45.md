@@ -24,13 +24,13 @@ summary: ''
 
 - (a) to arrange for the collection of household waste in its area except waste—
   - (i) which is situated at a place which in the opinion of the authority is so isolated or inaccessible that the cost of collecting it would be unreasonably high, and
-  - (ii) as to which the authority is satisfied that adequate arrangements for its disposal have been or can reasonably be expected to be made by a person who controls the waste; and *(Extent: S)* *(affected by repeal, see note)*[^key-dd19c75245e5a17ffa8a654cf2034154]
-- (b) if requested by the occupier of premises in its area to collect any commercial waste from the premises, to arrange for the collection of the waste.; and *(Extent: S)*[^key-c0f3a8b52c6c5722475dd03dee57e53d]
+  - (ii) as to which the authority is satisfied that adequate arrangements for its disposal have been or can reasonably be expected to be made by a person who controls the waste; and *(Extent: S)* *(affected by repeal, see note)*[^c-dd19c75245e5a17ffa8a654cf2034154]
+- (b) if requested by the occupier of premises in its area to collect any commercial waste from the premises, to arrange for the collection of the waste.; and *(Extent: S)*[^c-c0f3a8b52c6c5722475dd03dee57e53d]
 - (c (Extent: S)) if requested by the occupier of premises in its area to collect from the premises dry recyclable waste or food waste presented for collection in accordance with section *(Extent: S)* 34(2E) or (2F), to arrange for the collection of the waste. *(Extent: S)*
 
 *Extent: S*
 
-(1A)[^key-e11fb7c0e0f237ca649b66306740e531] In subsection (1)(c), the reference to “dry recyclable waste or food waste” does not include—
+(1A)[^c-e11fb7c0e0f237ca649b66306740e531] In subsection (1)(c), the reference to “dry recyclable waste or food waste” does not include—
 
 - (a) household waste; and
 - (b) food waste from premises in a rural area.
@@ -75,7 +75,7 @@ and the [^c13737781]Pipe-lines Act 1962 shall not apply to pipes and associated 
 
 (11) In the application of this section to Scotland, subsection (5)(b) and the references to a cesspool occurring in subsection (6) shall be omitted.
 
-(12) In this section “ *(Extent: S)* *(affected by repeal, see note)*[^key-b5572f96c024c0fa1149eddb6e1c995e]**privy *(Extent: S)* *(affected by repeal, see note)*[^key-b5572f96c024c0fa1149eddb6e1c995e]**” means a latrine which has a moveable receptacle and “ *(Extent: S)* *(affected by repeal, see note)*[^key-b5572f96c024c0fa1149eddb6e1c995e]**cesspool *(Extent: S)* *(affected by repeal, see note)*[^key-b5572f96c024c0fa1149eddb6e1c995e]**” includes a settlement tank or other tank for the reception or disposal of foul matter from buildings. *(Extent: S)* *(affected by repeal, see note)*[^key-b5572f96c024c0fa1149eddb6e1c995e]
+(12) In this section “ *(Extent: S)* *(affected by repeal, see note)*[^c-b5572f96c024c0fa1149eddb6e1c995e]**privy *(Extent: S)* *(affected by repeal, see note)*[^c-b5572f96c024c0fa1149eddb6e1c995e]**” means a latrine which has a moveable receptacle and “ *(Extent: S)* *(affected by repeal, see note)*[^c-b5572f96c024c0fa1149eddb6e1c995e]**cesspool *(Extent: S)* *(affected by repeal, see note)*[^c-b5572f96c024c0fa1149eddb6e1c995e]**” includes a settlement tank or other tank for the reception or disposal of foul matter from buildings. *(Extent: S)* *(affected by repeal, see note)*[^c-b5572f96c024c0fa1149eddb6e1c995e]
 
 In this section— *(Extent: S)*
 
@@ -87,11 +87,11 @@ In this section— *(Extent: S)*
 
 [^c13737751]: Commencement: S. 45 partly in force; s. 45 in force for certain purposes at 14.2.1992, s. 45(1)(3)-(12) wholly in force and s. 45(2) in force (S) at 1.4.1992 see s. 164(3) and [S.I. 1992/266](https://www.legislation.gov.uk/uksi/1992/266), [arts. 2](https://www.legislation.gov.uk/uksi/1992/266/article/2), [3](https://www.legislation.gov.uk/uksi/1992/266/article/3).
 
-[^key-dd19c75245e5a17ffa8a654cf2034154]: Textual amendment: Word in s. 45(1)(a) omitted (S.) (17.5.2012) by virtue of [The Waste (Scotland) Regulations 2012 (S.S.I. 2012/148)](https://www.legislation.gov.uk/ssi/2012/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/148/regulation/1/1), [2(4)(a)(i)](https://www.legislation.gov.uk/ssi/2012/148/regulation/2/4/a/i)
+[^c-dd19c75245e5a17ffa8a654cf2034154]: Textual amendment: Word in s. 45(1)(a) omitted (S.) (17.5.2012) by virtue of [The Waste (Scotland) Regulations 2012 (S.S.I. 2012/148)](https://www.legislation.gov.uk/ssi/2012/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/148/regulation/1/1), [2(4)(a)(i)](https://www.legislation.gov.uk/ssi/2012/148/regulation/2/4/a/i)
 
-[^key-c0f3a8b52c6c5722475dd03dee57e53d]: Textual amendment: S. 45(1)(c) and word inserted (S.) (17.5.2012) by [The Waste (Scotland) Regulations 2012 (S.S.I. 2012/148)](https://www.legislation.gov.uk/ssi/2012/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/148/regulation/1/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2012/148/regulation/2/4/a/ii)
+[^c-c0f3a8b52c6c5722475dd03dee57e53d]: Textual amendment: S. 45(1)(c) and word inserted (S.) (17.5.2012) by [The Waste (Scotland) Regulations 2012 (S.S.I. 2012/148)](https://www.legislation.gov.uk/ssi/2012/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/148/regulation/1/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2012/148/regulation/2/4/a/ii)
 
-[^key-e11fb7c0e0f237ca649b66306740e531]: Textual amendment: S. 45(1A) inserted (S.) (17.5.2012) by [The Waste (Scotland) Regulations 2012 (S.S.I. 2012/148)](https://www.legislation.gov.uk/ssi/2012/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/148/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2012/148/regulation/2/4/b)
+[^c-e11fb7c0e0f237ca649b66306740e531]: Textual amendment: S. 45(1A) inserted (S.) (17.5.2012) by [The Waste (Scotland) Regulations 2012 (S.S.I. 2012/148)](https://www.legislation.gov.uk/ssi/2012/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/148/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2012/148/regulation/2/4/b)
 
 [^c13737761]: Marginal citation: [1968 c. 47](https://www.legislation.gov.uk/ukpga/1968/47).
 
@@ -103,4 +103,4 @@ In this section— *(Extent: S)*
 
 [^c17512541]: Textual amendment: S. 45(10A) inserted (S.) (1.4.2002) by [Water Industry (Scotland) Act 2002 (asp 3)](https://www.legislation.gov.uk/asp/2002/3), [s. 71](https://www.legislation.gov.uk/asp/2002/3/section/71), [Sch. 7 para. 20(2)(b)](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/20/2/b); [S.S.I. 2002/118](https://www.legislation.gov.uk/ssi/2002/118), [art. 2(3)](https://www.legislation.gov.uk/ssi/2002/118/article/2/3)
 
-[^key-b5572f96c024c0fa1149eddb6e1c995e]: Textual amendment: S. 45(12) substituted (S.) (17.5.2012) by [The Waste (Scotland) Regulations 2012 (S.S.I. 2012/148)](https://www.legislation.gov.uk/ssi/2012/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/148/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2012/148/regulation/2/4/c)
+[^c-b5572f96c024c0fa1149eddb6e1c995e]: Textual amendment: S. 45(12) substituted (S.) (17.5.2012) by [The Waste (Scotland) Regulations 2012 (S.S.I. 2012/148)](https://www.legislation.gov.uk/ssi/2012/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/148/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2012/148/regulation/2/4/c)

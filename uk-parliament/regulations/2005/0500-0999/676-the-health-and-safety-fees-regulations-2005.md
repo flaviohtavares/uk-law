@@ -61,7 +61,7 @@ The Secretary of State, being the designated [^c12128981] Minister for the purpo
 
   and includes regulations, rules and orders relating to a particular mine (whether they are continued in force by regulation 7(3) of the Mines and Quarries Acts 1954 to 1971 (Repeals and Modifications) Regulations 1974 [^c12129041] or are health and safety regulations);
 - “**original approval**” does not include an amendment of an approval;
-- “renewal of approval”, “renewal of explosives certificate”, “renewal of licence” or “renewal of registration” means respectively the granting of an approval, explosives certificate, licence or registration to follow a previous approval, explosives certificate, licence or registration without any amendment or gap in time; and[^key-bb4dc0e7937ab7fd0be8f4178aba6601]
+- “renewal of approval”, “renewal of explosives certificate”, “renewal of licence” or “renewal of registration” means respectively the granting of an approval, explosives certificate, licence or registration to follow a previous approval, explosives certificate, licence or registration without any amendment or gap in time; and[^c-bb4dc0e7937ab7fd0be8f4178aba6601]
 - “**working days**” does not include weekends or public holidays.
 
 ## 2. Fees payable under the mines and quarries provisions
@@ -152,7 +152,7 @@ and the fee for such work in connection with each matter described in column 1 o
 
 (1) Where any application in relation to a provision specified in column 1 of Part 1 of Schedule 8 is made for a purpose specified in column 2 of that Part, the fee specified in the corresponding entry in column 3 of that Part shall be payable by the applicant to the Executive.
 
-(1A)[^key-a90f68e71ae8468f5745307d4d0fceab] Where any application in relation to a provision specified in column 1 of Part 1A of Schedule 8 is made to the Executive, where it is the licensing authority by virtue of paragraphs 1(b) or (c) or 2 of Schedule 1 to the 2005 Regulations, for a purpose specified in column 2 of that Part, the fee specified in the corresponding entry in column 3 of that Part shall be payable by the applicant to the Executive, save that —
+(1A)[^c-a90f68e71ae8468f5745307d4d0fceab] Where any application in relation to a provision specified in column 1 of Part 1A of Schedule 8 is made to the Executive, where it is the licensing authority by virtue of paragraphs 1(b) or (c) or 2 of Schedule 1 to the 2005 Regulations, for a purpose specified in column 2 of that Part, the fee specified in the corresponding entry in column 3 of that Part shall be payable by the applicant to the Executive, save that —
 
 - (a) in the case of an application referred to in column 2 of that Part for a licence to manufacture ammonium nitrate blasting intermediate, or to vary any such licence, the fee —
   - (i) referred to in column 3 of that Part as an amount per hour, shall be adjusted pro rata for a period worked of less than one hour; and
@@ -162,19 +162,19 @@ and the fee for such work in connection with each matter described in column 1 o
 
 (2) The fee or maximum fee payable under each provision specified in column 1 of Part 2 of Schedule 8 for the purpose described in the corresponding entry in column 2 shall be that specified in the corresponding entry in column 3 of that Part.
 
-(3)[^key-0a20b760ebc9bc11bb627b786aef44bf] A fee shall be payable to the Executive where the Executive requires any work to be carried out by its specialist inspectors in connection with any application in respect of which a fee is payable by virtue of paragraphs (1) or (1A) for any purpose specified in column 2 of each of Parts 1 and 1A of Schedule 8 for which there is a corresponding entry in column 4 of the respective Part, and the fee for work in connection with each such purpose shall be that specified in the corresponding entry in column 4 of that Part for each hour worked, adjusted pro rata for a period worked of less than one hour, and such fee shall be payable prior to the notification of the result of the application.
+(3)[^c-0a20b760ebc9bc11bb627b786aef44bf] A fee shall be payable to the Executive where the Executive requires any work to be carried out by its specialist inspectors in connection with any application in respect of which a fee is payable by virtue of paragraphs (1) or (1A) for any purpose specified in column 2 of each of Parts 1 and 1A of Schedule 8 for which there is a corresponding entry in column 4 of the respective Part, and the fee for work in connection with each such purpose shall be that specified in the corresponding entry in column 4 of that Part for each hour worked, adjusted pro rata for a period worked of less than one hour, and such fee shall be payable prior to the notification of the result of the application.
 
-(4) A fee shall be payable by the applicant to the Executive for each application made for each purpose specified in column 1 of each of Parts 3, 4 and 5 of Schedule 8 and such fee shall be payable on making the application save that, in the case of an application for the purpose referred to in the entry[^key-1d027fab99cabf254f8ed98a8c3ae344] in column 1 of Part 5 of that Schedule, the fee shall be payable prior to notification of the result of the application.
+(4) A fee shall be payable by the applicant to the Executive for each application made for each purpose specified in column 1 of each of Parts 3, 4 and 5 of Schedule 8 and such fee shall be payable on making the application save that, in the case of an application for the purpose referred to in the entry[^c-1d027fab99cabf254f8ed98a8c3ae344] in column 1 of Part 5 of that Schedule, the fee shall be payable prior to notification of the result of the application.
 
 (5) The fee for an application for each purpose specified in column 1 of each of Parts 3, 4 and 5 of Schedule 8 shall be that specified in the corresponding entry in column 2 in the respective Part and, where the fee is determined as an amount per hour, the fee shall be adjusted pro rata for a period worked of less than one hour.
 
-(6) A fee shall be payable to the Executive where the Executive requires any work to be carried out by its specialist inspectors in connection with any application in respect of which a fee is payable by virtue of paragraph (4) for any purpose specified in column 1 of each of Parts 3 and 4[^key-d4fb5ce7ae5b0ef9ee8fdf6ba8c6f883] of Schedule 8 for which there is a corresponding entry in column 3 of the respective Part, and the fee for work in connection with each such purpose shall be that specified in the corresponding entry in column 3 of that Part for each hour worked, adjusted pro rata for a period worked of less than one hour, and such fee shall be payable prior to notification of the result of the application.
+(6) A fee shall be payable to the Executive where the Executive requires any work to be carried out by its specialist inspectors in connection with any application in respect of which a fee is payable by virtue of paragraph (4) for any purpose specified in column 1 of each of Parts 3 and 4[^c-d4fb5ce7ae5b0ef9ee8fdf6ba8c6f883] of Schedule 8 for which there is a corresponding entry in column 3 of the respective Part, and the fee for work in connection with each such purpose shall be that specified in the corresponding entry in column 3 of that Part for each hour worked, adjusted pro rata for a period worked of less than one hour, and such fee shall be payable prior to notification of the result of the application.
 
 (7) A fee shall be payable to the Executive where the Executive requires any testing to be carried out in connection with any purpose specified in column 1 of Part 6 of Schedule 8, and the fee for testing in connection with each such purpose shall be the reasonable cost to the Executive of having the work carried out and such fee shall be payable prior to notification of the result of the application.
 
-(8) Parts 1B and 2[^key-5ae3e8f1d9114e6ca48bcd1f544b4f15] of Schedule 8 shall have effect subject to , respectively, the Notes to Parts 1B and 2[^key-b5c053217410eb90ead9441159b9fcb9].
+(8) Parts 1B and 2[^c-5ae3e8f1d9114e6ca48bcd1f544b4f15] of Schedule 8 shall have effect subject to , respectively, the Notes to Parts 1B and 2[^c-b5c053217410eb90ead9441159b9fcb9].
 
-(9)[^key-cb8c041dec10a78e2dab53d2462e99a3] Where any application in relation to the provision specified in column 1 of Part 7 of Schedule 8 is made for a purpose specified in column 2 of that Part, the fee specified in the corresponding entry in column 3 of that Part shall be payable by the applicant to the chief officer of police.
+(9)[^c-cb8c041dec10a78e2dab53d2462e99a3] Where any application in relation to the provision specified in column 1 of Part 7 of Schedule 8 is made for a purpose specified in column 2 of that Part, the fee specified in the corresponding entry in column 3 of that Part shall be payable by the applicant to the chief officer of police.
 
 (10) Where, in relation to an application for an explosives certificate under the Control of Explosives Regulations 1991, a check is carried out for the purposes of regulation 4(6)(d) of those Regulations to ascertain whether the applicant is a prohibited person or not, a fee shall be payable by the applicant to the chief officer of police and the fee, which shall be payable prior to that check being carried out, shall be that specified in Table 2 to Part 7 of Schedule 8.
 
@@ -194,7 +194,7 @@ Notwithstanding the provisions of section 4 of the Petroleum (Consolidation) Act
 
 (2) The fee on an application for each purpose specified in column 1 of Schedule 9 shall be that specified in column 2 of that Schedule and where the fee is determined as an amount per hour, the fee, which shall be adjusted pro rata for a period worked of less than one hour, so calculated shall be payable prior to notification of the result of the application.
 
-## 12. Fees for certificates and applications for approvals under the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004[^key-b380885679e6dae3bbc46e18dbfa5322]
+## 12. Fees for certificates and applications for approvals under the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004[^c-b380885679e6dae3bbc46e18dbfa5322]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -204,9 +204,9 @@ Where any fee is to be assessed on the reasonable cost to the Executive of carry
 
 ## 14. Fees for notifications and applications under the Genetically Modified Organisms (Contained Use) Regulations 2000
 
-(1) Subject to paragraph (1A) below[^key-0359ac82c548eae8a09ec758fa57f3d1] the fee specified in column 2 of Schedule 13 shall be payable by a notifier to the competent authority on each such notification or application under the 2000 Regulations as is referred to in the corresponding entry in column 1 of that Schedule.
+(1) Subject to paragraph (1A) below[^c-0359ac82c548eae8a09ec758fa57f3d1] the fee specified in column 2 of Schedule 13 shall be payable by a notifier to the competent authority on each such notification or application under the 2000 Regulations as is referred to in the corresponding entry in column 1 of that Schedule.
 
-(1A)[^key-cbe60976e8536b2fcef3cd6ad989439f] No Fee shall be payable by a notifier to the competent authority for a notification of an activity involving genetic modification in class 3 under regulation 11(1), or an application for the written agreement of that authority under regulation 18(2), of the 2000 Regulations in circumstances where—
+(1A)[^c-cbe60976e8536b2fcef3cd6ad989439f] No Fee shall be payable by a notifier to the competent authority for a notification of an activity involving genetic modification in class 3 under regulation 11(1), or an application for the written agreement of that authority under regulation 18(2), of the 2000 Regulations in circumstances where—
 
 - (a) the notifier is of the view, and makes a statement in writing to the effect, that the containment measure for the activity in question has changed as a result of an amendment to any of the containment measures that has been effected by the Genetically Modified Organisms (Contained Use)(Amendment) Regulations 2005; and
 - (b) the application was submitted to the authority no later than 30 November 2005.
@@ -233,12 +233,12 @@ Where any fee is to be assessed on the reasonable cost to the Executive of carry
 
 (1) A fee shall be payable to the Executive by the person referred to in column 2 of Schedule 15 for the performance by the Executive of such functions conferred on the Executive as are specified in column 1 of that Schedule.
 
-(2) A fee shall be payable to the Executive by an operator or owner with regard to[^key-995d715ccb64f5d83a80eaf4de24a6d0] a current safety case[^key-a8057e6ddccbfeafdac8fa8c4c18b9dc] pursuant to the 2005[^key-f17bb840ddc4e59179c366607aed58d5] Regulations for the performance by or on behalf of the Executive, or by an inspector appointed by it, of any function conferred on the Executive or the inspector by the 1974 Act which relates to the enforcement of any of the relevant statutory provisions against—
+(2) A fee shall be payable to the Executive by an operator or owner with regard to[^c-995d715ccb64f5d83a80eaf4de24a6d0] a current safety case[^c-a8057e6ddccbfeafdac8fa8c4c18b9dc] pursuant to the 2005[^c-f17bb840ddc4e59179c366607aed58d5] Regulations for the performance by or on behalf of the Executive, or by an inspector appointed by it, of any function conferred on the Executive or the inspector by the 1974 Act which relates to the enforcement of any of the relevant statutory provisions against—
 
 - (a) that operator or owner in relation to the installation to which the current safety case relates;
 - (b) a contractor in relation to any work carried out by him on or in connection with that installation.
 
-(3) In this regulation, regulation 19 and Schedule 15, “**the 2005[^key-6c50f0d85b90e0ce800d5470ca0761d0] Regulations**” means the Offshore Installations (Safety Case) Regulations 2005, and “**installation**”, “**current safety case[^key-41ae28b75b81ea95eeb024d7dcba02bb]**”, “**operator**” and “**owner**” have the same meanings as in those Regulations.
+(3) In this regulation, regulation 19 and Schedule 15, “**the 2005[^c-6c50f0d85b90e0ce800d5470ca0761d0] Regulations**” means the Offshore Installations (Safety Case) Regulations 2005, and “**installation**”, “**current safety case[^c-41ae28b75b81ea95eeb024d7dcba02bb]**”, “**operator**” and “**owner**” have the same meanings as in those Regulations.
 
 ## 17. Fees payable in respect of railway safety functions
 
@@ -566,16 +566,16 @@ Regulation 9
 | --- | --- | --- | --- |
 | *Provision under which a licence is granted* | *Purpose of application* | *Fee* | *Fee for work by Specialist Inspector* |
 | **Explosives Act** 1875 c. 17 |  |  |  |
-| [^key-3d751a5adeb605900e990c9c53009abe]. . . | [^key-3d751a5adeb605900e990c9c53009abe]. . . | [^key-3d751a5adeb605900e990c9c53009abe]. . . | [^key-3d751a5adeb605900e990c9c53009abe]. . . |
-|  | [^key-3d751a5adeb605900e990c9c53009abe]. . . | [^key-3d751a5adeb605900e990c9c53009abe]. . . | [^key-3d751a5adeb605900e990c9c53009abe]. . . |
-|  | [^key-3d751a5adeb605900e990c9c53009abe]. . . | [^key-3d751a5adeb605900e990c9c53009abe]. . . |  |
-| [^key-3d751a5adeb605900e990c9c53009abe]. . . | [^key-3d751a5adeb605900e990c9c53009abe]. . . | [^key-3d751a5adeb605900e990c9c53009abe]. . . | [^key-3d751a5adeb605900e990c9c53009abe]. . . |
-|  | [^key-3d751a5adeb605900e990c9c53009abe]. . . | [^key-3d751a5adeb605900e990c9c53009abe]. . . | [^key-3d751a5adeb605900e990c9c53009abe]. . . |
-|  | [^key-3d751a5adeb605900e990c9c53009abe]. . . | [^key-3d751a5adeb605900e990c9c53009abe]. . . |  |
+| [^c-3d751a5adeb605900e990c9c53009abe]. . . | [^c-3d751a5adeb605900e990c9c53009abe]. . . | [^c-3d751a5adeb605900e990c9c53009abe]. . . | [^c-3d751a5adeb605900e990c9c53009abe]. . . |
+|  | [^c-3d751a5adeb605900e990c9c53009abe]. . . | [^c-3d751a5adeb605900e990c9c53009abe]. . . | [^c-3d751a5adeb605900e990c9c53009abe]. . . |
+|  | [^c-3d751a5adeb605900e990c9c53009abe]. . . | [^c-3d751a5adeb605900e990c9c53009abe]. . . |  |
+| [^c-3d751a5adeb605900e990c9c53009abe]. . . | [^c-3d751a5adeb605900e990c9c53009abe]. . . | [^c-3d751a5adeb605900e990c9c53009abe]. . . | [^c-3d751a5adeb605900e990c9c53009abe]. . . |
+|  | [^c-3d751a5adeb605900e990c9c53009abe]. . . | [^c-3d751a5adeb605900e990c9c53009abe]. . . | [^c-3d751a5adeb605900e990c9c53009abe]. . . |
+|  | [^c-3d751a5adeb605900e990c9c53009abe]. . . | [^c-3d751a5adeb605900e990c9c53009abe]. . . |  |
 | Section 40(9) [^c12129321] as applied to compressed acetylene by the Compressed Acetylene (Importation) Regulations 1978 [^c12129331] | Licence for importation of compressed acetylene | £34 | £115 per hour worked |
 |  | Replacement of the above licence if lost | £34 |  |
 
-### PART 1A — APPLICATIONS FOR LICENCES, OR VARIATIONS OF LICENCES, TO MANUFACTURE OR STORE EXPLOSIVES MADE TO THE EXECUTIVE WHERE IT IS THE LICENSING AUTHORITY BY VIRTUE OF PARAGRAPHS 1(b) OR (c) OR 2 OF SCHEDULE 1 TO THE MANUFACTURE AND STORAGE OF EXPLOSIVES REGULATIONS 2005[^key-ef7a8020baa6cb011844326592c2e245]
+### PART 1A — APPLICATIONS FOR LICENCES, OR VARIATIONS OF LICENCES, TO MANUFACTURE OR STORE EXPLOSIVES MADE TO THE EXECUTIVE WHERE IT IS THE LICENSING AUTHORITY BY VIRTUE OF PARAGRAPHS 1(b) OR (c) OR 2 OF SCHEDULE 1 TO THE MANUFACTURE AND STORAGE OF EXPLOSIVES REGULATIONS 2005[^c-ef7a8020baa6cb011844326592c2e245]
 
 <table>
 <thead>
@@ -657,10 +657,10 @@ of more than two but less than three years' duration shall be, respectively, the
 | *1* | *2* | *3* |
 | --- | --- | --- |
 | *Provision under which a fee or maximum fee is payable* | *Purpose of application* | *Fee or maximum fee* |
-| [^key-3577a43d7e8053db6332c5910116d653]. . . |  |  |
-| [^key-3577a43d7e8053db6332c5910116d653]. . . | [^key-3577a43d7e8053db6332c5910116d653]. . . | [^key-3577a43d7e8053db6332c5910116d653]. . . |
-| [^key-3577a43d7e8053db6332c5910116d653]. . . | [^key-3577a43d7e8053db6332c5910116d653]. . . | [^key-3577a43d7e8053db6332c5910116d653]. . . |
-| [^key-3577a43d7e8053db6332c5910116d653]. . . | [^key-3577a43d7e8053db6332c5910116d653]. . . | [^key-3577a43d7e8053db6332c5910116d653]. . . |
+| [^c-3577a43d7e8053db6332c5910116d653]. . . |  |  |
+| [^c-3577a43d7e8053db6332c5910116d653]. . . | [^c-3577a43d7e8053db6332c5910116d653]. . . | [^c-3577a43d7e8053db6332c5910116d653]. . . |
+| [^c-3577a43d7e8053db6332c5910116d653]. . . | [^c-3577a43d7e8053db6332c5910116d653]. . . | [^c-3577a43d7e8053db6332c5910116d653]. . . |
+| [^c-3577a43d7e8053db6332c5910116d653]. . . | [^c-3577a43d7e8053db6332c5910116d653]. . . | [^c-3577a43d7e8053db6332c5910116d653]. . . |
 | **Petroleum (Consolidation) Act** 1928 c. 32 |  |  |
 | Section 4 (see notes 1 and 2) | Licence to keep petroleum |  |
 |  | spirit of a quantity— |  |
@@ -701,7 +701,7 @@ of more than two but less than three years' duration shall be, respectively, the
 | --- | --- | --- |
 | *Purpose of the application* | *Fee* | *Fee for work by Specialist Inspector* |
 | - (a) Approval of the classification of an explosive under the Classification and Labelling of Explosives Regulations 1983 [^c12129371] or authorisation of an explosive under section 40(9) of the Explosives Act 1875 [^c12129381] | £58 per hour worked |  |
-| [^key-83e28e4cc223532340f5a453f6669190]. . . | [^key-83e28e4cc223532340f5a453f6669190]. . . | [^key-83e28e4cc223532340f5a453f6669190]. . . |
+| [^c-83e28e4cc223532340f5a453f6669190]. . . | [^c-83e28e4cc223532340f5a453f6669190]. . . | [^c-83e28e4cc223532340f5a453f6669190]. . . |
 
 ### PART 6 — FURTHER FEES PAYABLE IN RESPECT OF CERTAIN TESTING REQUIRED BY THE HEALTH AND SAFETY EXECUTIVE
 
@@ -712,9 +712,9 @@ of more than two but less than three years' duration shall be, respectively, the
 | - (b) Approval of apparatus in which acetylene is to be manufactured or kept (Part 3 above) | ditto |
 | - (c) Comparison of a porous substance with a sample porous substance (Part 4 above) | ditto |
 | - (d) Approval of the classification of an explosive under the Classification and Labelling of Explosives Regulations 1983 (Part 5 above) | ditto |
-| [^key-554d5a50ed6979addfc68427d13d809f]. . . | [^key-554d5a50ed6979addfc68427d13d809f]. . . |
+| [^c-554d5a50ed6979addfc68427d13d809f]. . . | [^c-554d5a50ed6979addfc68427d13d809f]. . . |
 
-### PART 7 — FEES FOR EXPLOSIVES CERTIFICATES UNDER THE CONTROL OF EXPLOSIVES REGULATIONS 1991[^key-e9134223b40f0f290b284de6762aa1eb]
+### PART 7 — FEES FOR EXPLOSIVES CERTIFICATES UNDER THE CONTROL OF EXPLOSIVES REGULATIONS 1991[^c-e9134223b40f0f290b284de6762aa1eb]
 
 Table 1
 
@@ -750,7 +750,7 @@ Regulation 11
 | Grant of an explosives licence or alteration of the terms of an existing explosives licence | £609 plus £115 per hour worked |
 | Change of licence name or address | £49 |
 
-## SCHEDULE 10 — FEE FOR DRIVER TRAINING CERTIFICATE UNDER THE CARRIAGE OF DANGEROUS GOODS AND USE OF TRANSPORTABLE PRESSURE EQUIPMENT REGULATIONS 2004[^key-9d442661d0931a5735687ffced74ecdd]
+## SCHEDULE 10 — FEE FOR DRIVER TRAINING CERTIFICATE UNDER THE CARRIAGE OF DANGEROUS GOODS AND USE OF TRANSPORTABLE PRESSURE EQUIPMENT REGULATIONS 2004[^c-9d442661d0931a5735687ffced74ecdd]
 
 **No longer in force.**
 
@@ -831,11 +831,11 @@ Regulation 16
 | *1* | *2* |
 | --- | --- |
 | *Function* | *Person by whom fee is payable* |
-| Assessing a design notification (sent to the Executive pursuant to regulation 6(1) or 9(1) of the 2005 Regulations) for the purpose of deciding whether to raise matters relating to health and safety and raising such matters[^key-462491e786409152bdada108ac005be2] | The operator or owner who sent the design notification to the Executive pursuant to that provision |
+| Assessing a design notification (sent to the Executive pursuant to regulation 6(1) or 9(1) of the 2005 Regulations) for the purpose of deciding whether to raise matters relating to health and safety and raising such matters[^c-462491e786409152bdada108ac005be2] | The operator or owner who sent the design notification to the Executive pursuant to that provision |
 | Assessing a relocation notification (sent to the Executive pursuant to regulation 6(2) of the 2005 Regulations) for the purpose of deciding whether to raise matters relating to health and safety and raising such matters | The operator who sent the relocation notification to the Executive pursuant to that provision |
-| Assessing a current safety case[^key-ec798cde42d52e967c2b9c3d6a35293f] or a revision to a current safety case (sent to the Executive pursuant to any other provision of the 2005[^key-09f25dfa5caefc3a0dee7ea7db0fc429] Regulations) for the purpose of deciding whether to accept that current safety case or revision and accepting any such current safety case or revision | The operator or owner who sent the current safety case or revision to the Executive pursuant to that provision |
+| Assessing a current safety case[^c-ec798cde42d52e967c2b9c3d6a35293f] or a revision to a current safety case (sent to the Executive pursuant to any other provision of the 2005[^c-09f25dfa5caefc3a0dee7ea7db0fc429] Regulations) for the purpose of deciding whether to accept that current safety case or revision and accepting any such current safety case or revision | The operator or owner who sent the current safety case or revision to the Executive pursuant to that provision |
 | Providing advice with respect to the preparation of a current safety case or a revision to a current safety case which is proposed to be sent to the Executive pursuant to any provision of the 2005 Regulations | The operator or owner who has requested that advice |
-| Assessing whether to grant an exemption pursuant to regulation 23[^key-971766b7da6c24039747cd9a08ae12dd] of the 2005 Regulations and granting any such exemption | The operator or owner who has requested the exemption |
+| Assessing whether to grant an exemption pursuant to regulation 23[^c-971766b7da6c24039747cd9a08ae12dd] of the 2005 Regulations and granting any such exemption | The operator or owner who has requested the exemption |
 
 ## SCHEDULE 16 — FEES PAYABLE IN RESPECT OF RAILWAY SAFETY FUNCTIONS
 
@@ -1104,7 +1104,7 @@ and in respect of—
 
 [^c12129041]: Marginal citation: [S.I. 1974/2013](https://www.legislation.gov.uk/uksi/1974/2013), modified by [S.I.1979/318](https://www.legislation.gov.uk/uksi/1979/318).
 
-[^key-bb4dc0e7937ab7fd0be8f4178aba6601]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/676/regulation/1/2) substituted (26/4/2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(2)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-bb4dc0e7937ab7fd0be8f4178aba6601]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/676/regulation/1/2) substituted (26/4/2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(2)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
 
 [^c12129051]: Marginal citation: [S.I. 1974/2034](https://www.legislation.gov.uk/uksi/1974/2034); relevant amending instruments are [S.I. 1976/1247](https://www.legislation.gov.uk/uksi/1976/1247), 1980/1036, 1981/1414 and 1990/1075.
 
@@ -1120,19 +1120,19 @@ and in respect of—
 
 [^c12129111]: Marginal citation: [S.I. 1999/3232](https://www.legislation.gov.uk/uksi/1999/3232), amended by [S.I. 2001/2975](https://www.legislation.gov.uk/uksi/2001/2975).
 
-[^key-a90f68e71ae8468f5745307d4d0fceab]: Textual amendment: Reg. 9(1A)(1B) inserted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(3)(a)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-a90f68e71ae8468f5745307d4d0fceab]: Textual amendment: Reg. 9(1A)(1B) inserted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(3)(a)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
 
-[^key-0a20b760ebc9bc11bb627b786aef44bf]: Textual amendment: Reg. 9(3) substituted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(3)(b)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-0a20b760ebc9bc11bb627b786aef44bf]: Textual amendment: Reg. 9(3) substituted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(3)(b)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
 
-[^key-1d027fab99cabf254f8ed98a8c3ae344]: Textual amendment: Words in reg. 9(4) substituted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(3)(c)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/3/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-1d027fab99cabf254f8ed98a8c3ae344]: Textual amendment: Words in reg. 9(4) substituted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(3)(c)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/3/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
 
-[^key-d4fb5ce7ae5b0ef9ee8fdf6ba8c6f883]: Textual amendment: Words in reg. 9(6) substituted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(3)(d)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/3/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-d4fb5ce7ae5b0ef9ee8fdf6ba8c6f883]: Textual amendment: Words in reg. 9(6) substituted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(3)(d)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/3/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
 
-[^key-5ae3e8f1d9114e6ca48bcd1f544b4f15]: Textual amendment: Words in reg. 9(8) substituted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(3)(e)(i)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/3/e/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-5ae3e8f1d9114e6ca48bcd1f544b4f15]: Textual amendment: Words in reg. 9(8) substituted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(3)(e)(i)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/3/e/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
 
-[^key-b5c053217410eb90ead9441159b9fcb9]: Textual amendment: Words in reg. 9(8) substituted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/3/e/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-b5c053217410eb90ead9441159b9fcb9]: Textual amendment: Words in reg. 9(8) substituted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/3/e/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
 
-[^key-cb8c041dec10a78e2dab53d2462e99a3]: Textual amendment: Reg. 9(9)-(11) inserted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(3)(f)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/3/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-cb8c041dec10a78e2dab53d2462e99a3]: Textual amendment: Reg. 9(9)-(11) inserted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(3)(f)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/3/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
 
 [^c12129121]: Marginal citation: [1928 c. 32](https://www.legislation.gov.uk/ukpga/1928/32); relevant amending instruments are [S.I. 1974/1942](https://www.legislation.gov.uk/uksi/1974/1942) and 1987/52.
 
@@ -1140,11 +1140,11 @@ and in respect of—
 
 [^c12129141]: Marginal citation: [S.I. 1987/37](https://www.legislation.gov.uk/uksi/1987/37), amended by [S.I.1988/712](https://www.legislation.gov.uk/uksi/1988/712).
 
-[^key-b380885679e6dae3bbc46e18dbfa5322]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2005/676/regulation/12) omitted (22.7.2005) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2005 (S.I. 2005/1732)](https://www.legislation.gov.uk/uksi/2005/1732), [reg. 1](https://www.legislation.gov.uk/uksi/2005/1732/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2005/1732/schedule/4/paragraph/1)
+[^c-b380885679e6dae3bbc46e18dbfa5322]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2005/676/regulation/12) omitted (22.7.2005) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2005 (S.I. 2005/1732)](https://www.legislation.gov.uk/uksi/2005/1732), [reg. 1](https://www.legislation.gov.uk/uksi/2005/1732/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2005/1732/schedule/4/paragraph/1)
 
-[^key-0359ac82c548eae8a09ec758fa57f3d1]: Textual amendment: Words in reg. 14(1) inserted (1.10.2005) by [The Genetically Modified Organisms (Contained Use) (Amendment) Regulations 2005 (S.I. 2005/2466)](https://www.legislation.gov.uk/uksi/2005/2466), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2466/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2005/2466/regulation/3)
+[^c-0359ac82c548eae8a09ec758fa57f3d1]: Textual amendment: Words in reg. 14(1) inserted (1.10.2005) by [The Genetically Modified Organisms (Contained Use) (Amendment) Regulations 2005 (S.I. 2005/2466)](https://www.legislation.gov.uk/uksi/2005/2466), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2466/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2005/2466/regulation/3)
 
-[^key-cbe60976e8536b2fcef3cd6ad989439f]: Textual amendment: Reg. 14(1A) inserted (1.10.2005) by [The Genetically Modified Organisms (Contained Use) (Amendment) Regulations 2005 (S.I. 2005/2466)](https://www.legislation.gov.uk/uksi/2005/2466), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2466/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2005/2466/regulation/3)
+[^c-cbe60976e8536b2fcef3cd6ad989439f]: Textual amendment: Reg. 14(1A) inserted (1.10.2005) by [The Genetically Modified Organisms (Contained Use) (Amendment) Regulations 2005 (S.I. 2005/2466)](https://www.legislation.gov.uk/uksi/2005/2466), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2466/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2005/2466/regulation/3)
 
 [^c12129161]: Marginal citation: [S.I. 2000/2831](https://www.legislation.gov.uk/uksi/2000/2831), to which there are amendments not relevant to these Regulations.
 
@@ -1152,15 +1152,15 @@ and in respect of—
 
 [^c12129181]: Marginal citation: [S.I. 1982/1496](https://www.legislation.gov.uk/uksi/1982/1496), revoked by [S.I. 1993/3050](https://www.legislation.gov.uk/uksi/1993/3050).
 
-[^key-995d715ccb64f5d83a80eaf4de24a6d0]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2005/676/regulation/16/2) substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 7(a)(i)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/7/a/i) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
+[^c-995d715ccb64f5d83a80eaf4de24a6d0]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2005/676/regulation/16/2) substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 7(a)(i)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/7/a/i) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
 
-[^key-a8057e6ddccbfeafdac8fa8c4c18b9dc]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2005/676/regulation/16/2) substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 7(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/7/a/ii/bb) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
+[^c-a8057e6ddccbfeafdac8fa8c4c18b9dc]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2005/676/regulation/16/2) substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 7(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/7/a/ii/bb) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
 
-[^key-f17bb840ddc4e59179c366607aed58d5]: Textual amendment: Word in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2005/676/regulation/16/2) substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 7(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/7/a/ii/aa) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
+[^c-f17bb840ddc4e59179c366607aed58d5]: Textual amendment: Word in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2005/676/regulation/16/2) substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 7(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/7/a/ii/aa) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
 
-[^key-6c50f0d85b90e0ce800d5470ca0761d0]: Textual amendment: Word in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2005/676/regulation/16/3) substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 7(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/7/a/ii/aa) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
+[^c-6c50f0d85b90e0ce800d5470ca0761d0]: Textual amendment: Word in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2005/676/regulation/16/3) substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 7(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/7/a/ii/aa) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
 
-[^key-41ae28b75b81ea95eeb024d7dcba02bb]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2005/676/regulation/16/3) substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 7(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/7/a/ii/bb) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
+[^c-41ae28b75b81ea95eeb024d7dcba02bb]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2005/676/regulation/16/3) substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 7(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/7/a/ii/bb) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
 
 [^c12129201]: Marginal citation: [1987 c. 53](https://www.legislation.gov.uk/ukpga/1987/53).
 
@@ -1186,15 +1186,15 @@ and in respect of—
 
 [^c12129311]: Marginal citation: [S.I. 2004/568](https://www.legislation.gov.uk/uksi/2004/568).
 
-[^key-3d751a5adeb605900e990c9c53009abe]: Textual amendment: Words in Sch. 8 Pt. 1 omitted (26.4.2005) by virtue of [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(4)(a)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/4/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-3d751a5adeb605900e990c9c53009abe]: Textual amendment: Words in Sch. 8 Pt. 1 omitted (26.4.2005) by virtue of [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(4)(a)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/4/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
 
 [^c12129321]: Marginal citation: Section 40(9) was amended by [S.I. 1974/1885](https://www.legislation.gov.uk/uksi/1974/1885) and was applied to compressed acetylene by [S.I. 1978/1723](https://www.legislation.gov.uk/uksi/1978/1723). Save in so far as it applies to acetylene, section 40(9) was modified by [S.I. 1993/2714](https://www.legislation.gov.uk/uksi/1993/2714).
 
 [^c12129331]: Marginal citation: [S.I. 1978/1723](https://www.legislation.gov.uk/uksi/1978/1723), to which there are amendments not relevant to these Regulations.
 
-[^key-ef7a8020baa6cb011844326592c2e245]: Textual amendment: Sch. 8 Pts. 1A, 1B inserted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(4)(b)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/4/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-ef7a8020baa6cb011844326592c2e245]: Textual amendment: Sch. 8 Pts. 1A, 1B inserted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(4)(b)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/4/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
 
-[^key-3577a43d7e8053db6332c5910116d653]: Textual amendment: Words in Sch. 8 Pt. 2 omitted (26.4.2005) by virtue of [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(4)(c)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/4/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-3577a43d7e8053db6332c5910116d653]: Textual amendment: Words in Sch. 8 Pt. 2 omitted (26.4.2005) by virtue of [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(4)(c)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/4/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
 
 [^c12129351]: Marginal citation: S.R. & O. 1937/54; relevant amending instruments are S.R. & O. 1947/805 and [S.I. 1974/1885](https://www.legislation.gov.uk/uksi/1974/1885) and 1984/510.
 
@@ -1204,25 +1204,25 @@ and in respect of—
 
 [^c12129381]: Marginal citation: [1875 c. 17](https://www.legislation.gov.uk/ukpga/1875/17); section 40(9) was modified by regulation 12, and Part I of Schedule 4 to, the Placing on the [Market and Supervision of Transfers of Explosives Regulations 1993 (S.I. 1993/2714)](https://www.legislation.gov.uk/uksi/1993/2714).
 
-[^key-83e28e4cc223532340f5a453f6669190]: Textual amendment: Words in Sch. 8 Pt. 5 omitted (26.4.2005) by virtue of [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(4)(d)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/4/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-83e28e4cc223532340f5a453f6669190]: Textual amendment: Words in Sch. 8 Pt. 5 omitted (26.4.2005) by virtue of [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(4)(d)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/4/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
 
-[^key-554d5a50ed6979addfc68427d13d809f]: Textual amendment: Words in Sch. 8 Pt. 6 omitted (26.4.2005) by virtue of [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(4)(e)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/4/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-554d5a50ed6979addfc68427d13d809f]: Textual amendment: Words in Sch. 8 Pt. 6 omitted (26.4.2005) by virtue of [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(4)(e)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/4/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
 
-[^key-e9134223b40f0f290b284de6762aa1eb]: Textual amendment: Sch. 8 Pt. 7 inserted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(4)(f)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/4/f), (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-e9134223b40f0f290b284de6762aa1eb]: Textual amendment: Sch. 8 Pt. 7 inserted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 45(4)(f)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/45/4/f), (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
 
-[^key-9d442661d0931a5735687ffced74ecdd]: Textual amendment: Sch. 10 omitted (22.7.2005) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2005 (S.I. 2005/1732)](https://www.legislation.gov.uk/uksi/2005/1732), [reg. 1](https://www.legislation.gov.uk/uksi/2005/1732/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2005/1732/schedule/4/paragraph/1)
+[^c-9d442661d0931a5735687ffced74ecdd]: Textual amendment: Sch. 10 omitted (22.7.2005) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2005 (S.I. 2005/1732)](https://www.legislation.gov.uk/uksi/2005/1732), [reg. 1](https://www.legislation.gov.uk/uksi/2005/1732/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2005/1732/schedule/4/paragraph/1)
 
 [^M_F_cb20400f-77a2-4290-ad73-08e0ef00b786]: Textual amendment: Sch. 11 omitted (22.7.2005) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2005 (S.I. 2005/1732)](https://www.legislation.gov.uk/uksi/2005/1732), [reg. 1](https://www.legislation.gov.uk/uksi/2005/1732/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2005/1732/schedule/4/paragraph/1)
 
 [^M_F_bb201870-51d5-49e8-8cbe-0bdc468e1b6a]: Textual amendment: Sch. 12 omitted (22.7.2005) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2005 (S.I. 2005/1732)](https://www.legislation.gov.uk/uksi/2005/1732), [reg. 1](https://www.legislation.gov.uk/uksi/2005/1732/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2005/1732/schedule/4/paragraph/1)
 
-[^key-462491e786409152bdada108ac005be2]: Textual amendment: Words in Sch. 15 substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 7(b)(i)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/7/b/i) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
+[^c-462491e786409152bdada108ac005be2]: Textual amendment: Words in Sch. 15 substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 7(b)(i)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/7/b/i) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
 
-[^key-ec798cde42d52e967c2b9c3d6a35293f]: Textual amendment: Words in Sch. 15 substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 7(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/7/b/iii/bb) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
+[^c-ec798cde42d52e967c2b9c3d6a35293f]: Textual amendment: Words in Sch. 15 substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 7(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/7/b/iii/bb) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
 
-[^key-09f25dfa5caefc3a0dee7ea7db0fc429]: Textual amendment: Word in Sch. 15 substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 7(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/7/b/iii/aa) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
+[^c-09f25dfa5caefc3a0dee7ea7db0fc429]: Textual amendment: Word in Sch. 15 substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 7(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/7/b/iii/aa) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
 
-[^key-971766b7da6c24039747cd9a08ae12dd]: Textual amendment: Word in Sch. 15 substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 7(b)(ii)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/7/b/ii) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
+[^c-971766b7da6c24039747cd9a08ae12dd]: Textual amendment: Word in Sch. 15 substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 7(b)(ii)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/7/b/ii) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
 
 [^c12129401]: Marginal citation: [1983 c. 16](https://www.legislation.gov.uk/ukpga/1983/16); the Act, which was amended by the level [Crossings Regulations 1997 (S.I. 1997/487)](https://www.legislation.gov.uk/uksi/1997/487), is one of the relevant statutory provisions within the meaning of section 53 of the Health and Safety at [Work etc. Act 1974 (c. 37)](https://www.legislation.gov.uk/ukpga/1974/37) by virtue of section 117(1) and (4) of the [Railways Act 1993 (c. 43)](https://www.legislation.gov.uk/ukpga/1993/43).
 

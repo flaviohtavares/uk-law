@@ -35,17 +35,17 @@ summary: ''
 
 (4) Sections 321 to 329 make provision about supplement in relation to losses incurred in carrying on the ring fence trade.
 
-(5) There is a limit (of 10[^key-0aa68bd869991ef1935177e3a79463c8]) on the number of accounting periods in respect of which a company may claim supplement.
+(5) There is a limit (of 10[^c-0aa68bd869991ef1935177e3a79463c8]) on the number of accounting periods in respect of which a company may claim supplement.
 
 (6) In determining the amount of supplement allowable, reductions fall to be made in respect of—
 
 - (a) disposal receipts in respect of any asset representing qualifying pre-commencement expenditure.
 - (b) ring fence losses that could be deducted under section 37 (relief for trade losses against total profits) or section 42 (ring fence trades: further extension of period for relief) from ring fence profits of earlier periods,
-- (c)[^key-1884dd4114d2315764b6610a76a24fdf] relief given under sections 45, 45B, 303B, 303C and 303D for ring fence losses carried forward from earlier periods,
+- (c)[^c-1884dd4114d2315764b6610a76a24fdf] relief given under sections 45, 45B, 303B, 303C and 303D for ring fence losses carried forward from earlier periods,
 - (d) unrelieved group ring fence profits.
 
 ## Annotations
 
-[^key-0aa68bd869991ef1935177e3a79463c8]: Textual amendment: Word in s. 307(5) substituted (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/2)
+[^c-0aa68bd869991ef1935177e3a79463c8]: Textual amendment: Word in s. 307(5) substituted (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/2)
 
-[^key-1884dd4114d2315764b6610a76a24fdf]: Textual amendment: S. 307(6)(c) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 51](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/51)
+[^c-1884dd4114d2315764b6610a76a24fdf]: Textual amendment: S. 307(6)(c) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 51](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/51)

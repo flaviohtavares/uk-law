@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205. Exchange of metering information between undertakers.[^key-ee365ee396faf7f6819a31635437cde9]
+## 205. Exchange of metering information between undertakers.[^c-ee365ee396faf7f6819a31635437cde9]
 
 *Extent: E+W*
 
@@ -40,13 +40,13 @@ shall be referred to the arbitration of a single arbitrator appointed by agreeme
 
 (4) For the purposes of this section, the following are service providers—
 
-- (a) any relevant undertaker; [^key-20e596d819bd5ac8a1d05e4404783a9d]...
-- (b) any water supply licensee[^key-ff8eb1584defe0618a356dc0addf5be2].
-- (c)[^key-643e246a34d03be1797bf227d244aa69] any sewerage licensee.
+- (a) any relevant undertaker; [^c-20e596d819bd5ac8a1d05e4404783a9d]...
+- (b) any water supply licensee[^c-ff8eb1584defe0618a356dc0addf5be2].
+- (c)[^c-643e246a34d03be1797bf227d244aa69] any sewerage licensee.
 
 ## Annotations
 
-[^key-ee365ee396faf7f6819a31635437cde9]: Modification: S. 205 applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 14(8)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/14/8) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
+[^c-ee365ee396faf7f6819a31635437cde9]: Modification: S. 205 applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 14(8)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/14/8) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
 
 [^c19863911]: Textual amendment: Words in s. 205(1)(a) substituted (1.12.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/101/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 8 para. 46(2)(a)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/46/2/a); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
@@ -64,8 +64,8 @@ shall be referred to the arbitration of a single arbitrator appointed by agreeme
 
 [^c19864071]: Textual amendment: S. 205(3)(4) substituted (1.12.2005) for s. 205(3) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/101/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 8 para. 46(4)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/46/4); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c), (with Sch. para. 8)
 
-[^key-20e596d819bd5ac8a1d05e4404783a9d]: Textual amendment: Word in s. 205(4)(a) repealed (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 115(a)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/115/a); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xx)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xx)
+[^c-20e596d819bd5ac8a1d05e4404783a9d]: Textual amendment: Word in s. 205(4)(a) repealed (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 115(a)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/115/a); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xx)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xx)
 
-[^key-ff8eb1584defe0618a356dc0addf5be2]: Textual amendment: Words in s. 205(4)(b) substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 115(b)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/115/b); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(y)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/y) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
+[^c-ff8eb1584defe0618a356dc0addf5be2]: Textual amendment: Words in s. 205(4)(b) substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 115(b)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/115/b); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(y)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/y) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
 
-[^key-643e246a34d03be1797bf227d244aa69]: Textual amendment: S. 205(4)(c) inserted (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 115(c)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/115/c); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xx)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xx)
+[^c-643e246a34d03be1797bf227d244aa69]: Textual amendment: S. 205(4)(c) inserted (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 115(c)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/115/c); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xx)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xx)

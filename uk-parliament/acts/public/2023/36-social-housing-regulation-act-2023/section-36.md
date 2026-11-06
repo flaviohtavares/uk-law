@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Regulatory and enforcement powers: further amendments[^key-6fcdbca45b1fc91f489de942947298fb][^key-67931ffae00013dd2270c96f77002074][^key-225fae0809f308bb62ff2fdda519b4cf]
+## 36. Regulatory and enforcement powers: further amendments[^c-6fcdbca45b1fc91f489de942947298fb][^c-67931ffae00013dd2270c96f77002074][^c-225fae0809f308bb62ff2fdda519b4cf]
 
 *Extent: E+W*
 
@@ -24,8 +24,8 @@ Schedule 3 makes further amendments to the regulatory and enforcement powers of 
 
 ## Annotations
 
-[^key-6fcdbca45b1fc91f489de942947298fb]: Commencement: S. 36 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-6fcdbca45b1fc91f489de942947298fb]: Commencement: S. 36 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-67931ffae00013dd2270c96f77002074]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/36/section/36) in force at 20.9.2023 for specified purposes by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/q)
+[^c-67931ffae00013dd2270c96f77002074]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/36/section/36) in force at 20.9.2023 for specified purposes by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/q)
 
-[^key-225fae0809f308bb62ff2fdda519b4cf]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/36/section/36) in force at 1.4.2024 in so far as not already in force by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/t)
+[^c-225fae0809f308bb62ff2fdda519b4cf]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/36/section/36) in force at 1.4.2024 in so far as not already in force by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/t)

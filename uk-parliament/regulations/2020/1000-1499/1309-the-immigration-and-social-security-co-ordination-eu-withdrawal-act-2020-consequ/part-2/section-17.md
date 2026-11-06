@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Amendment and saving of UK Borders Act 2007[^key-e92be2c96cb85a602d9d509a422a30ff][^M_I_2fdeba7f-5d6f-4cc7-a161-2557b0b00b67]
+## 17. Amendment and saving of UK Borders Act 2007[^c-e92be2c96cb85a602d9d509a422a30ff][^M_I_2fdeba7f-5d6f-4cc7-a161-2557b0b00b67]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e92be2c96cb85a602d9d509a422a30ff]: Commencement: Reg. 17 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-e92be2c96cb85a602d9d509a422a30ff]: Commencement: Reg. 17 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_2fdeba7f-5d6f-4cc7-a161-2557b0b00b67]: Commencement: Reg. 17 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

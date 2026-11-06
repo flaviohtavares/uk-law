@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Disadvantaged areas relief[^key-135d0fd7c35107ec5aaf044ab68735d3][^c5521771]
+## 57. Disadvantaged areas relief[^c-135d0fd7c35107ec5aaf044ab68735d3][^c5521771]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-135d0fd7c35107ec5aaf044ab68735d3]: Textual amendment: S. 57 repealed (with effect in accordance with Sch. 39 para. 10(4) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 8(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/8/1) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-135d0fd7c35107ec5aaf044ab68735d3]: Textual amendment: S. 57 repealed (with effect in accordance with Sch. 39 para. 10(4) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 8(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/8/1) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
 
 [^c5521771]: Commencement: Pt. 4 wholly in force at Royal Assent subject to Sch. 19, see s. 124, [Sch. 19 para. 1(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/19/paragraph/1/1)

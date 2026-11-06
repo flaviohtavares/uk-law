@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Mergers[^key-04a8a48edb87cd6b05b3af0d477e9977]
+## 168. Mergers[^c-04a8a48edb87cd6b05b3af0d477e9977]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04a8a48edb87cd6b05b3af0d477e9977]: Commencement: S. 168 in force at 1.4.2013 by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
+[^c-04a8a48edb87cd6b05b3af0d477e9977]: Commencement: S. 168 in force at 1.4.2013 by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)

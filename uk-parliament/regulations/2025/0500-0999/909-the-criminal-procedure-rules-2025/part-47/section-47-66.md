@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.66. Application to vary or revoke an order[^key-a49a871b7a56a60ae1b5d461e813192c]
+## 47.66. Application to vary or revoke an order[^c-a49a871b7a56a60ae1b5d461e813192c]
 
 *Extent: E+W*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a49a871b7a56a60ae1b5d461e813192c]: Commencement: Rule 47.66 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a49a871b7a56a60ae1b5d461e813192c]: Commencement: Rule 47.66 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Planning permission[^key-eaae5c61f74a387a423dc7ecdffa2112]
+## 9. Planning permission[^c-eaae5c61f74a387a423dc7ecdffa2112]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eaae5c61f74a387a423dc7ecdffa2112]: Commencement: Art. 9 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-eaae5c61f74a387a423dc7ecdffa2112]: Commencement: Art. 9 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
 [^f00034]: Footnote: Section 56 was amended by paragraph 10 of Schedule 6 and paragraph 10(2) of Schedule 7 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), paragraph 2 of Schedule 12 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), paragraph 3 of Schedule 4 to the Infrastructure Act [3025 (c. 7)](https://www.legislation.gov.uk/ukpga/3025/7), paragraph 3(2) of Schedule 14 to the Environment Act [2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30) and sections 113(3) and 114(2) of, and paragraph 10(1) of Schedule 7 to, the Levelling-up and Regeneration Act [2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55).

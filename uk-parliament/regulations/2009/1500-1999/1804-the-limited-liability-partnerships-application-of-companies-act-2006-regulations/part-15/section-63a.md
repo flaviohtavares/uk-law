@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63A. The register[^key-9c1a906c2c8fb256c9472f7913927943]
+## 63A. The register[^c-9c1a906c2c8fb256c9472f7913927943]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Section 1080(2) applies to LLPs, modified so that it reads as follows—
 
 ## Annotations
 
-[^key-9c1a906c2c8fb256c9472f7913927943]: Textual amendment: [Reg. 63A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/63A) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2024/234/regulation/27); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-9c1a906c2c8fb256c9472f7913927943]: Textual amendment: [Reg. 63A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/63A) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2024/234/regulation/27); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)

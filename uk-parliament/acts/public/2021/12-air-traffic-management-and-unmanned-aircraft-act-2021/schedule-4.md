@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — New Schedule A1 to the Transport Act 2000[^key-e2aa075ce90bff7dca3c1f169d29a12f]
+## SCHEDULE 4 — New Schedule A1 to the Transport Act 2000[^c-e2aa075ce90bff7dca3c1f169d29a12f]
 
 *Extent: E+W+S+N.I.*
 
 Section 9
 
-[^key-e2aa075ce90bff7dca3c1f169d29a12f]
+[^c-e2aa075ce90bff7dca3c1f169d29a12f]
 
 This Schedule sets out the new Schedule A1 to the Transport Act 2000, to be inserted before Schedule 1 to that Act—
 
@@ -580,4 +580,4 @@ This Schedule sets out the new Schedule A1 to the Transport Act 2000, to be inse
 
 ## Annotations
 
-[^key-e2aa075ce90bff7dca3c1f169d29a12f]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2021/12/schedule/4) in force at 29.6.2021 by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/g)
+[^c-e2aa075ce90bff7dca3c1f169d29a12f]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2021/12/schedule/4) in force at 29.6.2021 by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/g)

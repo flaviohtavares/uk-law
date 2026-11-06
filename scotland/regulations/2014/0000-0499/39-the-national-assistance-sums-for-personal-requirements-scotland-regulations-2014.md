@@ -32,7 +32,7 @@ summary: ''
 
 National Assistance Services
 
-The National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2014 (revoked)[^key-ca00a950612914b9a22c02d69ebe9c21]
+The National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2014 (revoked)[^c-ca00a950612914b9a22c02d69ebe9c21]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 7th April 2014
 
-[^key-ca00a950612914b9a22c02d69ebe9c21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca00a950612914b9a22c02d69ebe9c21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-ca00a950612914b9a22c02d69ebe9c21]
+## 1. Citation, commencement and extent[^c-ca00a950612914b9a22c02d69ebe9c21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Sum needed for personal requirements[^key-ca00a950612914b9a22c02d69ebe9c21]
+## 2. Sum needed for personal requirements[^c-ca00a950612914b9a22c02d69ebe9c21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-ca00a950612914b9a22c02d69ebe9c21]
+## 3. Revocation[^c-ca00a950612914b9a22c02d69ebe9c21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ca00a950612914b9a22c02d69ebe9c21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca00a950612914b9a22c02d69ebe9c21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ca00a950612914b9a22c02d69ebe9c21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca00a950612914b9a22c02d69ebe9c21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ca00a950612914b9a22c02d69ebe9c21]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/39) revoked (6.4.2015) by [The National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2015 (S.S.I. 2015/65)](https://www.legislation.gov.uk/ssi/2015/65), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/65/regulation/1), [3](https://www.legislation.gov.uk/ssi/2015/65/regulation/3)
+[^c-ca00a950612914b9a22c02d69ebe9c21]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/39) revoked (6.4.2015) by [The National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2015 (S.S.I. 2015/65)](https://www.legislation.gov.uk/ssi/2015/65), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/65/regulation/1), [3](https://www.legislation.gov.uk/ssi/2015/65/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Alignment of closing time for liquor and entertainment[^key-645dccbf1d9b2f18337e926a0be8ace8][^key-4ecdfa22401989075493cd3feaae91ce]
+## 4. Alignment of closing time for liquor and entertainment[^c-645dccbf1d9b2f18337e926a0be8ace8][^c-4ecdfa22401989075493cd3feaae91ce]
 
 *Extent: N.I.*
 
@@ -43,6 +43,6 @@ After Article 44B of the Licensing Order (inserted by section 3(1)) insert—
 
 ## Annotations
 
-[^key-645dccbf1d9b2f18337e926a0be8ace8]: Commencement: S. 4 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-645dccbf1d9b2f18337e926a0be8ace8]: Commencement: S. 4 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-4ecdfa22401989075493cd3feaae91ce]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2021/7/section/4) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-4ecdfa22401989075493cd3feaae91ce]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2021/7/section/4) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)

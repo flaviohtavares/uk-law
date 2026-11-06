@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Recovery of CMA's costs in respect of price control references[^key-74838cb3d4f4b5764abfe0ce97a24aab]
+## 54. Recovery of CMA's costs in respect of price control references[^c-74838cb3d4f4b5764abfe0ce97a24aab]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ After section 193 of the Communications Act 2003 (reference of price control mat
 
 ## Annotations
 
-[^key-74838cb3d4f4b5764abfe0ce97a24aab]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2013/24/section/54) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-74838cb3d4f4b5764abfe0ce97a24aab]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2013/24/section/54) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

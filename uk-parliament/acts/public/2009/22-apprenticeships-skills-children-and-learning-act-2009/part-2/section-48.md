@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Provision of education for persons subject to youth detention[^key-e2e7cf4018531758abc4dbcece070bf9]
+## 48. Provision of education for persons subject to youth detention[^c-e2e7cf4018531758abc4dbcece070bf9]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ After section 18 of the Education Act 1996 insert—
 
 > **18A. Provision of education for persons subject to youth detention**
 >
-> (1) A local authority[^key-539a148a152b679b0b2f5402f58a05e0] must secure that—
+> (1) A local authority[^c-539a148a152b679b0b2f5402f58a05e0] must secure that—
 >
 > - (a) enough suitable education is provided to meet the reasonable needs of children subject to youth detention in their area;
 > - (b) enough suitable education and training is provided to meet the reasonable needs of persons who are—
@@ -37,7 +37,7 @@ After section 18 of the Education Act 1996 insert—
 > - (b) any special educational needs or learning difficulties (within the meaning of section 15ZA(6) and (7)) the persons may have;
 > - (c) the desirability of enabling persons to complete programmes of study or training which they have begun;
 > - (d) any relevant curriculum and the desirability that education received by persons subject to youth detention should be comparable with education which they could be expected to receive if they were attending a school or institution implementing a relevant curriculum;
-> - (e) the desirability of the core entitlement [^key-fb392db82c087562a8f56b9680070587]... being satisfied in relation to persons over compulsory school age but under 19 [^key-fb392db82c087562a8f56b9680070587]....
+> - (e) the desirability of the core entitlement [^c-fb392db82c087562a8f56b9680070587]... being satisfied in relation to persons over compulsory school age but under 19 [^c-fb392db82c087562a8f56b9680070587]....
 >
 > (3) In subsection (2)(d), “**relevant curriculum**” means—
 >
@@ -46,7 +46,7 @@ After section 18 of the Education Act 1996 insert—
 >   - (i) the National Curriculum for Wales established under section 108 of that Act as subsisting for the time being, or
 >   - (ii) any local curriculum formed by the authority under section 116A of the Education Act 2002 (formation of local curricula for pupils in Key Stage 4) or for their area under section 33A of the Learning and Skills Act 2000 (formation of local curricula for students aged 16 to 18).
 >
-> (4)[^key-6692ed7df5b13313cce49ac9e3e2f022] Section 17C (the core entitlement) applies for the purposes of subsection (2)(e).
+> (4)[^c-6692ed7df5b13313cce49ac9e3e2f022] Section 17C (the core entitlement) applies for the purposes of subsection (2)(e).
 >
 > (5) Any arrangements made by a local authority under subsection (1) for the provision by another person (the “learning provider”) of education or training must require the learning provider, in making any determination as to the education or training to be provided for a particular person (“P”), to have regard to any information within subsection (6).
 >
@@ -67,10 +67,10 @@ After section 18 of the Education Act 1996 insert—
 
 ## Annotations
 
-[^key-e2e7cf4018531758abc4dbcece070bf9]: Commencement: S. 48 in force at 1.9.2010 for specified purposes for E. by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-e2e7cf4018531758abc4dbcece070bf9]: Commencement: S. 48 in force at 1.9.2010 for specified purposes for E. by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
 
-[^key-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
+[^c-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
 
-[^key-fb392db82c087562a8f56b9680070587]: Textual amendment: Words in s. 48 omitted (15.1.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 30(7)(a)](https://www.legislation.gov.uk/ukpga/2011/21/section/30/7/a), [82(2)(b)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/2/b)
+[^c-fb392db82c087562a8f56b9680070587]: Textual amendment: Words in s. 48 omitted (15.1.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 30(7)(a)](https://www.legislation.gov.uk/ukpga/2011/21/section/30/7/a), [82(2)(b)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/2/b)
 
-[^key-6692ed7df5b13313cce49ac9e3e2f022]: Textual amendment: Words in s. 48 substituted (15.1.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 30(7)(b)](https://www.legislation.gov.uk/ukpga/2011/21/section/30/7/b), [82(2)(b)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/2/b)
+[^c-6692ed7df5b13313cce49ac9e3e2f022]: Textual amendment: Words in s. 48 substituted (15.1.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 30(7)(b)](https://www.legislation.gov.uk/ukpga/2011/21/section/30/7/b), [82(2)(b)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/2/b)

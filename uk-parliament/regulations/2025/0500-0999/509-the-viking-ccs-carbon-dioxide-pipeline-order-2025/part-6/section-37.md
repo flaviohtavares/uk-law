@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Defence to proceedings in respect of statutory nuisance[^key-ee9e8a703dcae48333510ee4893ec492]
+## 37. Defence to proceedings in respect of statutory nuisance[^c-ee9e8a703dcae48333510ee4893ec492]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ee9e8a703dcae48333510ee4893ec492]: Commencement: Art. 37 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-ee9e8a703dcae48333510ee4893ec492]: Commencement: Art. 37 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
 
 [^f00042]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 

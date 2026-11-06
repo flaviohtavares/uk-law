@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Informing applicants for qualification, candidates and tenderers[^key-18e087329c28bbdd64e1a7b4a2fb9b9b]
+## 73. Informing applicants for qualification, candidates and tenderers[^c-18e087329c28bbdd64e1a7b4a2fb9b9b]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18e087329c28bbdd64e1a7b4a2fb9b9b]: Commencement: [Reg. 73](https://www.legislation.gov.uk/ssi/2016/49/regulation/73) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-18e087329c28bbdd64e1a7b4a2fb9b9b]: Commencement: [Reg. 73](https://www.legislation.gov.uk/ssi/2016/49/regulation/73) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

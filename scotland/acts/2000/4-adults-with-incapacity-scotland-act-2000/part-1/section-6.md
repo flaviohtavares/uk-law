@@ -47,7 +47,7 @@ summary: ''
 - (a) a guardian shall include a reference to a guardian (however called) appointed under the law of any country to, or entitled under the law of any country to act for, an adult during his incapacity, if the guardianship is recognised by the law of Scotland;
 - (b) a continuing attorney shall include a reference to a person granted, under a contract, grant or appointment governed by the law of any country, powers (however expressed), relating to the granter’s property or financial affairs and having continuing effect notwithstanding the granter’s incapacity.
 
-(4)[^key-e5f2766b6a360ed1c4d92e536c3cce28] In subsection 2(f), where a function under this Act is delegated by a local authority to a person in pursuance of an integration scheme prepared under section 1 or 2 of the Public Bodies (Joint Working) (Scotland) Act 2014, the reference to a local authority includes a reference to that person.
+(4)[^c-e5f2766b6a360ed1c4d92e536c3cce28] In subsection 2(f), where a function under this Act is delegated by a local authority to a person in pursuance of an integration scheme prepared under section 1 or 2 of the Public Bodies (Joint Working) (Scotland) Act 2014, the reference to a local authority includes a reference to that person.
 
 ## Annotations
 
@@ -57,4 +57,4 @@ summary: ''
 
 [^c19643091]: Textual amendment: S. 6(2)(da) inserted (5.10.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 67](https://www.legislation.gov.uk/asp/2007/10/section/67), [79](https://www.legislation.gov.uk/asp/2007/10/section/79); [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2) (with savings in [arts. 4-6](https://www.legislation.gov.uk/ssi/2007/334/article/4))
 
-[^key-e5f2766b6a360ed1c4d92e536c3cce28]: Textual amendment: [S. 6(4)](https://www.legislation.gov.uk/asp/2000/4/section/6/4) inserted (1.4.2015) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157)](https://www.legislation.gov.uk/ssi/2015/157), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/157/article/1/1), [sch. para. 4(2)](https://www.legislation.gov.uk/ssi/2015/157/schedule/paragraph/4/2)
+[^c-e5f2766b6a360ed1c4d92e536c3cce28]: Textual amendment: [S. 6(4)](https://www.legislation.gov.uk/asp/2000/4/section/6/4) inserted (1.4.2015) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157)](https://www.legislation.gov.uk/ssi/2015/157), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/157/article/1/1), [sch. para. 4(2)](https://www.legislation.gov.uk/ssi/2015/157/schedule/paragraph/4/2)

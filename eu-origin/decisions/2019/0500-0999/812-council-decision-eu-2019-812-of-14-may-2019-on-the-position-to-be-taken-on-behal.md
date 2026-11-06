@@ -33,42 +33,42 @@ of 14 May 2019
 
 on the position to be taken on behalf of the European Union in the Inter-American Tropical Tuna Commission (IATTC) and the Meeting of the Parties to the Agreement on the International Dolphin Conservation Programme, and repealing the Decision of 12 June 2014 on the position to be adopted, on behalf of the Union, in the IATTC (revoked)
 
-[^key-a6923cb40784917956659ad12addcacc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a6923cb40784917956659ad12addcacc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-a6923cb40784917956659ad12addcacc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a6923cb40784917956659ad12addcacc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a6923cb40784917956659ad12addcacc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a6923cb40784917956659ad12addcacc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-a6923cb40784917956659ad12addcacc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-a6923cb40784917956659ad12addcacc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-a6923cb40784917956659ad12addcacc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-a6923cb40784917956659ad12addcacc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-a6923cb40784917956659ad12addcacc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-a6923cb40784917956659ad12addcacc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a6923cb40784917956659ad12addcacc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a6923cb40784917956659ad12addcacc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — The position to be taken on the Union's behalf in the Inter-American Tropical Tuna Commission (IATTC) and the Meeting of the parties of the Agreement on the International Dolphin Conservation Programme (AIDCP)[^key-a6923cb40784917956659ad12addcacc]
+## ANNEX I — The position to be taken on the Union's behalf in the Inter-American Tropical Tuna Commission (IATTC) and the Meeting of the parties of the Agreement on the International Dolphin Conservation Programme (AIDCP)[^c-a6923cb40784917956659ad12addcacc]
 
-[^key-a6923cb40784917956659ad12addcacc]1.
+[^c-a6923cb40784917956659ad12addcacc]1.
 
 PRINCIPLES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a6923cb40784917956659ad12addcacc]2.
+[^c-a6923cb40784917956659ad12addcacc]2.
 
 ORIENTATIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Year to year specification of the Union's position to be taken at meetings of the Inter-American Tropical Tuna Commission and the Meeting of the Parties to the Agreement on the International Dolphin Conservation Programme[^key-a6923cb40784917956659ad12addcacc]
+## ANNEX II — Year to year specification of the Union's position to be taken at meetings of the Inter-American Tropical Tuna Commission and the Meeting of the Parties to the Agreement on the International Dolphin Conservation Programme[^c-a6923cb40784917956659ad12addcacc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a6923cb40784917956659ad12addcacc]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-a6923cb40784917956659ad12addcacc]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

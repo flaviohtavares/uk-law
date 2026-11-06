@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Temporary use of land for carrying out the authorised project[^key-acbd0163e34fa64a205fcb031fb8cd0b]
+## 26. Temporary use of land for carrying out the authorised project[^c-acbd0163e34fa64a205fcb031fb8cd0b]
 
 *Extent: E+W+S*
 
@@ -61,6 +61,6 @@ unless the undertaker has, before the end of that period, served a notice of ent
 
 ## Annotations
 
-[^key-acbd0163e34fa64a205fcb031fb8cd0b]: Commencement: Art. 26 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-acbd0163e34fa64a205fcb031fb8cd0b]: Commencement: Art. 26 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
 
 [^f00035]: Footnote: Section 13 was amended by Tribunals Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).

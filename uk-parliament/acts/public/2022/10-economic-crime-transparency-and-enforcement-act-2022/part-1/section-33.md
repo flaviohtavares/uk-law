@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Land ownership and transactions[^key-a2b078e4cf14e17ef4046c1dd25eb5d5][^key-44ad354792e217ae5110af312a2133f9]
+## 33. Land ownership and transactions[^c-a2b078e4cf14e17ef4046c1dd25eb5d5][^c-44ad354792e217ae5110af312a2133f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a2b078e4cf14e17ef4046c1dd25eb5d5]: Commencement: S. 33 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-a2b078e4cf14e17ef4046c1dd25eb5d5]: Commencement: S. 33 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-44ad354792e217ae5110af312a2133f9]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/10/section/33) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/a)
+[^c-44ad354792e217ae5110af312a2133f9]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/10/section/33) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/a)

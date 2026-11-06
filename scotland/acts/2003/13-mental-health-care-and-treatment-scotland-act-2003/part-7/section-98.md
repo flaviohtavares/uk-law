@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Reference to Tribunal by Commission[^key-103e47c008d70b65353c6e5a9995d358]
+## 98. Reference to Tribunal by Commission[^c-103e47c008d70b65353c6e5a9995d358]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-103e47c008d70b65353c6e5a9995d358]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2003/13/section/98) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-103e47c008d70b65353c6e5a9995d358]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2003/13/section/98) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

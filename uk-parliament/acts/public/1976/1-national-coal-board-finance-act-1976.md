@@ -35,13 +35,13 @@ An Act to increase the limit on the borrowing powers of the National Coal Board;
 
 ## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c7207191]
 
-## 2. Payments towards mineworkers’ pension scheme deficiency.[^key-b23697c74b14be59d5494b7e5330ac2f]
+## 2. Payments towards mineworkers’ pension scheme deficiency.[^c-b23697c74b14be59d5494b7e5330ac2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c7207411]
 
-## 4. Citation, interpretation and extent.[^key-b5e825a9f4be69e5b7db73f484bef716]
+## 4. Citation, interpretation and extent.[^c-b5e825a9f4be69e5b7db73f484bef716]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -49,8 +49,8 @@ An Act to increase the limit on the borrowing powers of the National Coal Board;
 
 [^c7207191]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1976/1/section/1) repealed by [Coal Industry Act 1977 (c. 39)](https://www.legislation.gov.uk/ukpga/1977/39), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1977/39/schedule/5/part/II)
 
-[^key-b23697c74b14be59d5494b7e5330ac2f]: Textual amendment: S. 2 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-b23697c74b14be59d5494b7e5330ac2f]: Textual amendment: S. 2 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
 [^c7207411]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1976/1/section/3) repealed by [Coal Industry Act 1977 (c. 39)](https://www.legislation.gov.uk/ukpga/1977/39), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1977/39/schedule/5/part/II)
 
-[^key-b5e825a9f4be69e5b7db73f484bef716]: Textual amendment: S. 4 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-b5e825a9f4be69e5b7db73f484bef716]: Textual amendment: S. 4 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)

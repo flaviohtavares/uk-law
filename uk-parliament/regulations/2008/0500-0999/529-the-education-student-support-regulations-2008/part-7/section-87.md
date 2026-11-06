@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Availability of college fee loans[^key-c46c4da06230f68ab6e2323b07265523]
+## 87. Availability of college fee loans[^c-c46c4da06230f68ab6e2323b07265523]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,18 +24,18 @@ summary: ''
 
 To receive a college fee loan, a qualifying student must enter into a contract with the Secretary of State.
 
-**88.**[^key-476011e1fcd25b4da943604af00a4320] A college fee loan is available in respect of each standard academic year of the qualifying course and in respect of one academic year of the qualifying course that is not a standard academic year.
+**88.**[^c-476011e1fcd25b4da943604af00a4320] A college fee loan is available in respect of each standard academic year of the qualifying course and in respect of one academic year of the qualifying course that is not a standard academic year.
 
-**89.**[^key-92efe3468fba1a29db605262d73a88ed] Where a qualifying student is allowed to study the content of one standard academic year of the qualifying course over two or more academic years, for the purpose of determining whether a college fee loan is available to the qualifying student for those years, the first of such years of study is to be treated as a standard academic year and the following academic years of that kind are to be treated as academic years that are not standard academic years.
+**89.**[^c-92efe3468fba1a29db605262d73a88ed] Where a qualifying student is allowed to study the content of one standard academic year of the qualifying course over two or more academic years, for the purpose of determining whether a college fee loan is available to the qualifying student for those years, the first of such years of study is to be treated as a standard academic year and the following academic years of that kind are to be treated as academic years that are not standard academic years.
 
-**90.**[^key-44371ee811dfbe97b41bde390eccab53] For the purposes of this Part, “**standard academic year**” means an academic year of the qualifying course that would be taken by a person who does not repeat any part of the course and who enters the course at the same point as the qualifying student.
+**90.**[^c-44371ee811dfbe97b41bde390eccab53] For the purposes of this Part, “**standard academic year**” means an academic year of the qualifying course that would be taken by a person who does not repeat any part of the course and who enters the course at the same point as the qualifying student.
 
 ## Annotations
 
-[^key-c46c4da06230f68ab6e2323b07265523]: Commencement: Reg. 87 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-c46c4da06230f68ab6e2323b07265523]: Commencement: Reg. 87 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
-[^key-476011e1fcd25b4da943604af00a4320]: Commencement: Reg. 88 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-476011e1fcd25b4da943604af00a4320]: Commencement: Reg. 88 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
-[^key-92efe3468fba1a29db605262d73a88ed]: Commencement: Reg. 89 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-92efe3468fba1a29db605262d73a88ed]: Commencement: Reg. 89 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
-[^key-44371ee811dfbe97b41bde390eccab53]: Commencement: Reg. 90 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-44371ee811dfbe97b41bde390eccab53]: Commencement: Reg. 90 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

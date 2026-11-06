@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 312W. Application of provisions of this Act to this Chapter[^key-324dd5e825c1cf2b2115d54b810555ac]
+## 312W. Application of provisions of this Act to this Chapter[^c-324dd5e825c1cf2b2115d54b810555ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ The following provisions do not apply for the purposes of this Chapter—
 
 ## Annotations
 
-[^key-324dd5e825c1cf2b2115d54b810555ac]: Textual amendment: [Pt. 18 Ch. 3C](https://www.legislation.gov.uk/ukpga/2000/8/part/XVIII/chapter/3C) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 18(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/18/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/m)
+[^c-324dd5e825c1cf2b2115d54b810555ac]: Textual amendment: [Pt. 18 Ch. 3C](https://www.legislation.gov.uk/ukpga/2000/8/part/XVIII/chapter/3C) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 18(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/18/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/m)

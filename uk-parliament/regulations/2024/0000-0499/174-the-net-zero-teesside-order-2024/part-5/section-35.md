@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Recovery of costs of new connections[^key-97ec5be167976d7891a8a08124e8ce85]
+## 35. Recovery of costs of new connections[^c-97ec5be167976d7891a8a08124e8ce85]
 
 *Extent: E+W+S*
 
@@ -38,6 +38,6 @@ is entitled to recover from the undertaker compensation in respect of expenditur
 
 ## Annotations
 
-[^key-97ec5be167976d7891a8a08124e8ce85]: Commencement: Art. 35 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-97ec5be167976d7891a8a08124e8ce85]: Commencement: Art. 35 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
 [^f00041]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Section 151(1) was amended by paragraphs 90(a)(i), (ii), (iii), 90(b), 90(c) and 90(d) of Schedule 1 to the Electronic Communications and Wireless Telegraphy Regulations ([S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210)).

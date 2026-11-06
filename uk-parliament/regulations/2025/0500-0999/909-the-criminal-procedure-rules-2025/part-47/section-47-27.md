@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.27. Information to be included in a warrant[^key-9f03c3774eb6c481b4d607e2560e77bc]
+## 47.27. Information to be included in a warrant[^c-9f03c3774eb6c481b4d607e2560e77bc]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9f03c3774eb6c481b4d607e2560e77bc]: Commencement: Rule 47.27 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-9f03c3774eb6c481b4d607e2560e77bc]: Commencement: Rule 47.27 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01197]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60); section 16 was amended by paragraph 281 of Schedule 8 to the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 2 of the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), sections 113 and 114 of the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15) and article 8 of [S.I. 2005/3496](https://www.legislation.gov.uk/uksi/2005/3496).

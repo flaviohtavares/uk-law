@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Completion certificate[^key-a60784dbf13be61d130c3039924f4ebc]
+## 80. Completion certificate[^c-a60784dbf13be61d130c3039924f4ebc]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a60784dbf13be61d130c3039924f4ebc]: Commencement: [S. 80](https://www.legislation.gov.uk/anaw/2017/2/section/80) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(v)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/v) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-a60784dbf13be61d130c3039924f4ebc]: Commencement: [S. 80](https://www.legislation.gov.uk/anaw/2017/2/section/80) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(v)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/v) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

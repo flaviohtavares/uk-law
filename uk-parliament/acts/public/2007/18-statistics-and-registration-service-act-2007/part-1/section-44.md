@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Information relating to NHS registration: Wales[^key-e16ff9aaf2e791aea31f34c89f9de1fa]
+## 44. Information relating to NHS registration: Wales[^c-e16ff9aaf2e791aea31f34c89f9de1fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e16ff9aaf2e791aea31f34c89f9de1fa]: Commencement: S. 44 in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-e16ff9aaf2e791aea31f34c89f9de1fa]: Commencement: S. 44 in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Compensation orders against persons convicted of relevant offences[^key-e65f4e384501215d6ca6c34a1a52fe23]
+## 34. Compensation orders against persons convicted of relevant offences[^c-e65f4e384501215d6ca6c34a1a52fe23]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e65f4e384501215d6ca6c34a1a52fe23]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2014/3/section/34) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-e65f4e384501215d6ca6c34a1a52fe23]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2014/3/section/34) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

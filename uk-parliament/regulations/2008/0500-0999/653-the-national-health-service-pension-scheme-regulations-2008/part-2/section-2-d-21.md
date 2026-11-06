@@ -22,13 +22,13 @@ summary: ''
 
 (1) This paragraph applies if a member is–
 
-- (a) a member of this Section of[^key-82b1c01a2d3e27ae8bbea5df47ea0ecb] the Scheme of two or more of the kinds specified in paragraph (2),
+- (a) a member of this Section of[^c-82b1c01a2d3e27ae8bbea5df47ea0ecb] the Scheme of two or more of the kinds specified in paragraph (2),
 - (b) a pensioner member in respect of two or more pensions, or
 - (c) a deferred member in respect of two or more pensions.
 
 (2) The kinds of member are–
 
-- (a) an active member or a non-contributing member[^key-50da3624c1b86d3ab04269848601ed35],
+- (a) an active member or a non-contributing member[^c-50da3624c1b86d3ab04269848601ed35],
 - (b) a deferred member,
 - (c) a pensioner member, and
 - (d) a pension credit member.
@@ -41,7 +41,7 @@ summary: ''
 (4) The rule in paragraph (3) is subject to any indication to the contrary and, in particular, does not affect the interpretation of—
 
 - (a) regulation 2.A.2(3) (45 year limit),
-- (b) regulation 2.D.5(9) in a case where a member is both an active member or a non-contributing member[^key-3563e527e6bad054db4be4b4d58f8fc4] and a pensioner member by virtue of that regulation,
+- (b) regulation 2.D.5(9) in a case where a member is both an active member or a non-contributing member[^c-3563e527e6bad054db4be4b4d58f8fc4] and a pensioner member by virtue of that regulation,
 - (c) regulation 2.D.12 (option to have periods of service treated separately where pay is reduced),
 - (d) regulation 2.G.3 (exception to general rule in 2.G.2 about separate treatment of pay and service),
 - (e) regulation 2.G.4 (effect of re-employment on tier 2 ill-health pensions),
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-82b1c01a2d3e27ae8bbea5df47ea0ecb]: Textual amendment: Words in [reg. 2.D.21](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.21) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
+[^c-82b1c01a2d3e27ae8bbea5df47ea0ecb]: Textual amendment: Words in [reg. 2.D.21](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.21) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
 
-[^key-50da3624c1b86d3ab04269848601ed35]: Textual amendment: Words in [reg. 2.D.21(2)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.21/2/a) inserted (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2009/381/regulation/35) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-50da3624c1b86d3ab04269848601ed35]: Textual amendment: Words in [reg. 2.D.21(2)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.21/2/a) inserted (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2009/381/regulation/35) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-3563e527e6bad054db4be4b4d58f8fc4]: Textual amendment: Words in [reg. 2.D.21(4)(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.21/4/b) inserted (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2009/381/regulation/35) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-3563e527e6bad054db4be4b4d58f8fc4]: Textual amendment: Words in [reg. 2.D.21(4)(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.21/4/b) inserted (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2009/381/regulation/35) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))

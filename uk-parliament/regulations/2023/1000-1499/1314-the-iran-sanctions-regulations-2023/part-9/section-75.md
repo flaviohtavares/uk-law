@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. General trade licences: inspection of records[^key-6fdb440f362aef18a78dee56b655666a]
+## 75. General trade licences: inspection of records[^c-6fdb440f362aef18a78dee56b655666a]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fdb440f362aef18a78dee56b655666a]: Commencement: Reg. 75 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-6fdb440f362aef18a78dee56b655666a]: Commencement: Reg. 75 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

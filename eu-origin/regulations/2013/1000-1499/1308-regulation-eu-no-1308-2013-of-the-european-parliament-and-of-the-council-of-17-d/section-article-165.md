@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 165. Financial contributions of non-members[^key-9af15cd0c2923388a0d84f01c1edf8bc]
+## Article 165. Financial contributions of non-members[^c-9af15cd0c2923388a0d84f01c1edf8bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9af15cd0c2923388a0d84f01c1edf8bc]: Textual amendment: [Art. 165](https://www.legislation.gov.uk/eur/2013/1308/article/165) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/828)](https://www.legislation.gov.uk/uksi/2019/828), [regs. 1](https://www.legislation.gov.uk/uksi/2019/828/regulation/1), [23](https://www.legislation.gov.uk/uksi/2019/828/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9af15cd0c2923388a0d84f01c1edf8bc]: Textual amendment: [Art. 165](https://www.legislation.gov.uk/eur/2013/1308/article/165) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/828)](https://www.legislation.gov.uk/uksi/2019/828), [regs. 1](https://www.legislation.gov.uk/uksi/2019/828/regulation/1), [23](https://www.legislation.gov.uk/uksi/2019/828/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

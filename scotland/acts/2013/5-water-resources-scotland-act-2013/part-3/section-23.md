@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Value of water resources[^key-df214d1a291a4456229e4a027979909c]
+## 23. Value of water resources[^c-df214d1a291a4456229e4a027979909c]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In section 25 (Scottish Water's general powers) of the 2002 Act, after subsectio
 
 ## Annotations
 
-[^key-df214d1a291a4456229e4a027979909c]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2013/5/section/23) in force at 21.12.2013 by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)
+[^c-df214d1a291a4456229e4a027979909c]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2013/5/section/23) in force at 21.12.2013 by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)

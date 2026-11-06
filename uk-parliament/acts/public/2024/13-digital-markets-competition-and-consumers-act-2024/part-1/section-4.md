@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Link to the United Kingdom[^key-3f6d02303c85411b573508bf4e103e2d][^key-dda473cd178c61aa5a221962211e080e]
+## 4. Link to the United Kingdom[^c-3f6d02303c85411b573508bf4e103e2d][^c-dda473cd178c61aa5a221962211e080e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ A digital activity is linked to the United Kingdom for the purposes of section 2
 
 ## Annotations
 
-[^key-3f6d02303c85411b573508bf4e103e2d]: Commencement: S. 4 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-3f6d02303c85411b573508bf4e103e2d]: Commencement: S. 4 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-dda473cd178c61aa5a221962211e080e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2024/13/section/4) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-dda473cd178c61aa5a221962211e080e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2024/13/section/4) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

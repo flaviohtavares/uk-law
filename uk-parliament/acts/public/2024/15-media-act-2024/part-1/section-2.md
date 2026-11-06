@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. OFCOM reports: wider review and reporting obligations[^key-243fb7c38cacb4754a43f456a5eb0968][^key-be2cba5314e2db13a935cc710ef85728]
+## 2. OFCOM reports: wider review and reporting obligations[^c-243fb7c38cacb4754a43f456a5eb0968][^c-be2cba5314e2db13a935cc710ef85728]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-243fb7c38cacb4754a43f456a5eb0968]: Commencement: S. 2 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-243fb7c38cacb4754a43f456a5eb0968]: Commencement: S. 2 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-be2cba5314e2db13a935cc710ef85728]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2024/15/section/2) in force at 1.1.2026 by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/b)
+[^c-be2cba5314e2db13a935cc710ef85728]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2024/15/section/2) in force at 1.1.2026 by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Interpretation etc[^key-dd095078c2b14016b99489179ae11a41][^key-352bd0ce10909d5835f11471be98416d]
+## 62. Interpretation etc[^c-dd095078c2b14016b99489179ae11a41][^c-352bd0ce10909d5835f11471be98416d]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,6 +73,6 @@ is to be treated as a decision by the Secretary of State not to revoke, or not t
 
 ## Annotations
 
-[^key-dd095078c2b14016b99489179ae11a41]: Commencement: S. 62 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-dd095078c2b14016b99489179ae11a41]: Commencement: S. 62 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-352bd0ce10909d5835f11471be98416d]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2023/32/section/62) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-352bd0ce10909d5835f11471be98416d]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2023/32/section/62) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

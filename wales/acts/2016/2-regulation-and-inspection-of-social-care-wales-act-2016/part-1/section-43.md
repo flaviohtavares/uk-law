@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Failure to comply with a condition[^key-0243245e87d080165af4d7581bb363d7]
+## 43. Failure to comply with a condition[^c-0243245e87d080165af4d7581bb363d7]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0243245e87d080165af4d7581bb363d7]: Commencement: S. 43 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(e)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/e)
+[^c-0243245e87d080165af4d7581bb363d7]: Commencement: S. 43 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(e)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/e)

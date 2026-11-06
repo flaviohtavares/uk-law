@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S*
 
-A traffic commissioner[^key-d6bbe149ecaf945d7fc15262e5169034] is hereby prescribed for the purposes of section 183(6) of the Traffic Act (discharge of Part IV functions in relation to HM Forces).
+A traffic commissioner[^c-d6bbe149ecaf945d7fc15262e5169034] is hereby prescribed for the purposes of section 183(6) of the Traffic Act (discharge of Part IV functions in relation to HM Forces).
 
 ## Annotations
 
-[^key-d6bbe149ecaf945d7fc15262e5169034]: Textual amendment: Words in reg. 81 substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1644/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-d6bbe149ecaf945d7fc15262e5169034]: Textual amendment: Words in reg. 81 substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1644/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.197. Claim by mortgagee of land[^key-d4285325c40ea2fdb002e3c317907af7]
+## 6.197. Claim by mortgagee of land[^c-d4285325c40ea2fdb002e3c317907af7]
 
 *Extent: E+W*
 
@@ -33,12 +33,12 @@ Directions may be given by the court under this paragraph with respect to any mo
 
 (3) For the purpose of those accounts and enquiries, and of making title to the purchaser, any of the parties may be examined by the court, and shall produce on oath before the court all such documents in their custody or under their control relating to the estate of the bankrupt as the court may direct.
 
-The court may under this paragraph order any of the parties to clarify any matter which is in dispute in the proceedings or give additional information in relation to any such matter and CPR Part 18 (further information) shall apply to any such order.[^key-2a161fcc515d3c966d24ad03a76abc36]
+The court may under this paragraph order any of the parties to clarify any matter which is in dispute in the proceedings or give additional information in relation to any such matter and CPR Part 18 (further information) shall apply to any such order.[^c-2a161fcc515d3c966d24ad03a76abc36]
 
 (4) In any proceedings between a mortgagor and mortgagee, or the trustee of either of them, the court may order accounts to be taken and enquiries made in like manner as in the Chancery Division of the High Court.
 
 ## Annotations
 
-[^key-d4285325c40ea2fdb002e3c317907af7]: Commencement: Rule 6.197 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-d4285325c40ea2fdb002e3c317907af7]: Commencement: Rule 6.197 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-2a161fcc515d3c966d24ad03a76abc36]: Textual amendment: Words in rule 6.197(3) substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/rule/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/2)
+[^c-2a161fcc515d3c966d24ad03a76abc36]: Textual amendment: Words in rule 6.197(3) substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/rule/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/2)

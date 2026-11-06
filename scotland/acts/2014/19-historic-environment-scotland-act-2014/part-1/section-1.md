@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Historic Environment Scotland[^key-2800c96bdc6f4e5396ba44218f808b24][^key-5bb0929319cce1dae6bf83b20b722117][^key-4b0738f8b8a67de2f6edcc81559bfa47]
+## 1. Historic Environment Scotland[^c-2800c96bdc6f4e5396ba44218f808b24][^c-5bb0929319cce1dae6bf83b20b722117][^c-4b0738f8b8a67de2f6edcc81559bfa47]
 
 *Extent: S*
 
@@ -28,8 +28,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2800c96bdc6f4e5396ba44218f808b24]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/19/section/1) in force at 19.1.2015 for specified purposes by [S.S.I. 2014/368](https://www.legislation.gov.uk/ssi/2014/368), [art. 2](https://www.legislation.gov.uk/ssi/2014/368/article/2)
+[^c-2800c96bdc6f4e5396ba44218f808b24]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/19/section/1) in force at 19.1.2015 for specified purposes by [S.S.I. 2014/368](https://www.legislation.gov.uk/ssi/2014/368), [art. 2](https://www.legislation.gov.uk/ssi/2014/368/article/2)
 
-[^key-5bb0929319cce1dae6bf83b20b722117]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/19/section/1) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-5bb0929319cce1dae6bf83b20b722117]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/19/section/1) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-4b0738f8b8a67de2f6edcc81559bfa47]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/19/section/1) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-4b0738f8b8a67de2f6edcc81559bfa47]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/19/section/1) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)

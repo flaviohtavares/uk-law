@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Penalty charges[^key-dbf6ef71248b17f0fc8345e19a87809a]
+## 83. Penalty charges[^c-dbf6ef71248b17f0fc8345e19a87809a]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbf6ef71248b17f0fc8345e19a87809a]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2019/17/section/83) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-dbf6ef71248b17f0fc8345e19a87809a]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2019/17/section/83) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

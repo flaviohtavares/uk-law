@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Records and reports: restrictions[^key-22b90050f4b6ba2330edaa4706f5280b][^key-0239786aba4fe76286ef76da9c305c8d]
+## 27. Records and reports: restrictions[^c-22b90050f4b6ba2330edaa4706f5280b][^c-0239786aba4fe76286ef76da9c305c8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-22b90050f4b6ba2330edaa4706f5280b]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2014/20/section/27) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(k)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/k)
+[^c-22b90050f4b6ba2330edaa4706f5280b]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2014/20/section/27) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(k)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/k)
 
-[^key-0239786aba4fe76286ef76da9c305c8d]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2014/20/section/27) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)
+[^c-0239786aba4fe76286ef76da9c305c8d]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2014/20/section/27) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)

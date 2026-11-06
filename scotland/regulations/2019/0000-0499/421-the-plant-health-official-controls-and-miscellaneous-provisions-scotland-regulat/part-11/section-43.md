@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Defence: reasonable excuse for obstruction etc.[^key-c2afdbaa4730070f714c106b4d71d3a8]
+## 43. Defence: reasonable excuse for obstruction etc.[^c-c2afdbaa4730070f714c106b4d71d3a8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ It is a defence for a person charged with an offence under regulation 42 to show
 
 ## Annotations
 
-[^key-c2afdbaa4730070f714c106b4d71d3a8]: Commencement: Reg. 43 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-c2afdbaa4730070f714c106b4d71d3a8]: Commencement: Reg. 43 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)

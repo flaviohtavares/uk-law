@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Freedom of information[^key-0efe2648e6fffe0670c34328c7c3746d]
+## 40. Freedom of information[^c-0efe2648e6fffe0670c34328c7c3746d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0efe2648e6fffe0670c34328c7c3746d]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2007/18/section/40) in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(f)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/f)
+[^c-0efe2648e6fffe0670c34328c7c3746d]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2007/18/section/40) in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(f)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/f)

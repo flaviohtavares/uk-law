@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Regulations under this Act[^key-64f4c9fc2131d039c5eeef5cb1df70db]
+## 22. Regulations under this Act[^c-64f4c9fc2131d039c5eeef5cb1df70db]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 ## Annotations
 
-[^key-64f4c9fc2131d039c5eeef5cb1df70db]: Commencement: S. 22 in force at 25.6.2024, see [s. 25(1)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/c)
+[^c-64f4c9fc2131d039c5eeef5cb1df70db]: Commencement: S. 22 in force at 25.6.2024, see [s. 25(1)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/c)

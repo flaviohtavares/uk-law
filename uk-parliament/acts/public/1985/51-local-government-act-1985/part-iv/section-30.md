@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. First appointments.[^key-478f78351589eb4284a34899f1825021]
+## 30. First appointments.[^c-478f78351589eb4284a34899f1825021]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-478f78351589eb4284a34899f1825021]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/1985/51/section/30) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-478f78351589eb4284a34899f1825021]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/1985/51/section/30) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3

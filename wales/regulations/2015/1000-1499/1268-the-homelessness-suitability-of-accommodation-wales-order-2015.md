@@ -43,19 +43,19 @@ The Welsh Ministers make the following Order in exercise of the powers conferred
 
 A draft of this instrument was laid before and approved by resolution of the National Assembly for Wales in accordance with section 142(3)(b)(i) of that Act.
 
-## 1. Title and commencement[^key-45bf179a137ce0ce645b3490390fa291]
+## 1. Title and commencement[^c-45bf179a137ce0ce645b3490390fa291]
 
 (1) The title of this Order is the Homelessness (Suitability of Accommodation) (Wales) Order 2015.
 
 (2) This Order comes into force on 27 April 2015.
 
-## 2. Interpretation[^key-298e2fbd0e8d665d415de450f0ef232f]
+## 2. Interpretation[^c-298e2fbd0e8d665d415de450f0ef232f]
 
 In this Order—
 
 - “the 2014 Act” (“*Deddf 2014*”) means the Housing (Wales) Act 2014; and any reference to a numbered section is a reference to a section of that Act;
 - “authority” (“*awdurdod*”) means the relevant local housing authority[^f00002] which owes a duty to a homeless person under sections 68, 75 or 82;
-- “B&B accommodation”[^key-f51d84d5b96a7ed1788d6c199cd60698] *(*“*llety Gwely a Brecwast*”*)* means accommodation (whether or not breakfast is included) which meets the following conditions—
+- “B&B accommodation”[^c-f51d84d5b96a7ed1788d6c199cd60698] *(*“*llety Gwely a Brecwast*”*)* means accommodation (whether or not breakfast is included) which meets the following conditions—
   - (a) the first condition is that—
     - (i) a kitchen is either unavailable to the licensee, or it is available to the licensee but it is shared by people who are not part of the same household, and
     - (ii) the following amenities are available to the licensee but may be shared by people who are not part of the same household—
@@ -87,7 +87,7 @@ In this Order—
 
 ## PART 1 — Matters to be taken into account in determining whether accommodation is suitable for persons who are, or may be in priority need
 
-**3.**[^key-fc8541c29fa17168823156b81e6b3588] In determining for the purposes of Part 2 of the 2014 Act whether accommodation is suitable for a person who is, or may be in priority need[^f00004], there must be taken into account, where appropriate, the following matters relating to a person who is either the applicant, or who is a member of the applicant’s household—
+**3.**[^c-fc8541c29fa17168823156b81e6b3588] In determining for the purposes of Part 2 of the 2014 Act whether accommodation is suitable for a person who is, or may be in priority need[^f00004], there must be taken into account, where appropriate, the following matters relating to a person who is either the applicant, or who is a member of the applicant’s household—
 
 - (a) the specific health needs of the person;
 - (b) the proximity and accessibility of family support;
@@ -101,22 +101,22 @@ In this Order—
 
 ## PART 2 — Circumstances in which B&B and shared accommodation is not to be regarded as suitable for persons who are, or may be in priority need
 
-### 4. B&B accommodation unsuitable unless an exception applies[^key-6433702733cbeef85d2dfecc4d589ff0]
+### 4. B&B accommodation unsuitable unless an exception applies[^c-6433702733cbeef85d2dfecc4d589ff0]
 
 For the purposes of Part 2 of the 2014 Act, B&B accommodation is not to be regarded as suitable for a person who is, or may be in priority need unless at least one of the exceptions in article 6 or article 7(1) applies.
 
-### 5. Shared accommodation unsuitable unless it meets the higher standard or an exception applies[^key-537c24febaa7b401a9c85670f1a912ed]
+### 5. Shared accommodation unsuitable unless it meets the higher standard or an exception applies[^c-537c24febaa7b401a9c85670f1a912ed]
 
 For the purposes of Part 2 of the 2014 Act and subject to the exceptions contained in articles 6 and 7(2), shared accommodation is not to be regarded as suitable for a person who is, or may be in priority need unless it meets the higher standard.
 
-### 6. Exceptions to articles 4 and 5 for all types of accommodation[^key-da5b639439c7985fe8f2dfee2a060f28]
+### 6. Exceptions to articles 4 and 5 for all types of accommodation[^c-da5b639439c7985fe8f2dfee2a060f28]
 
 Articles 4 and 5 do not apply where—
 
 - (a) the authority believes that the applicant may be homeless or threatened with homelessness as a result of an emergency such as fire, flood or other disaster, and no other accommodation is reasonably available to the authority; or
 - (b) the authority has offered suitable accommodation to the applicant, but the applicant wishes to be accommodated in other accommodation.
 
-### 7. Exceptions to articles 4 and 5 where accommodation meets a standard[^key-f87e165e44c043905f076977eb04701b]
+### 7. Exceptions to articles 4 and 5 where accommodation meets a standard[^c-f87e165e44c043905f076977eb04701b]
 
 (1) Article 4 does not apply where—
 
@@ -144,13 +144,13 @@ Articles 4 and 5 do not apply where—
 
 ## PART 3 — Suitability of private rented sector accommodation for ending the section 75 duty to homeless applicants
 
-**8.**[^key-4a3c3ce0b63d83013b0a8d0415a0c48d] For the purposes of a private rented sector offer under section 76 (circumstances when the duty to secure accommodation for applicants in priority need ends), accommodation must not be regarded as suitable where one or more of the following apply—
+**8.**[^c-4a3c3ce0b63d83013b0a8d0415a0c48d] For the purposes of a private rented sector offer under section 76 (circumstances when the duty to secure accommodation for applicants in priority need ends), accommodation must not be regarded as suitable where one or more of the following apply—
 
 - (a) the authority is of the view that the accommodation is not in a reasonable physical condition;
 - (b) the authority is of the view that the accommodation does not comply with all statutory requirements (such as, where applicable, requirements relating to fire, gas, electrical, carbon monoxide and other safety; planning; and licences for houses in multiple occupation); or
 - (c) the authority is of the view that the landlord is not a fit and proper person within the meaning of section 20 to act in the capacity of landlord.
 
-### 9. Revocation, transitional and saving provisions[^key-38042cd5bc264bb2b48979e2992acd31]
+### 9. Revocation, transitional and saving provisions[^c-38042cd5bc264bb2b48979e2992acd31]
 
 (1) Subject to paragraph (2), the following Orders are revoked—
 
@@ -199,11 +199,11 @@ Room sizes where cooking facilities provided within the room
 - (c) All rooms must have a floor to ceiling height of at least 2.1 metres over not less than 75% of the room area. Any part of the room where the ceiling height is less than 1.5 metres must be disregarded when calculating the floor area.
 - (d) Separate kitchens and bathrooms are unsuitable for sleeping accommodation.
 
-### 2. Installation for heating[^key-dbf6e0f18169d09b74c9be57649dcfa5]
+### 2. Installation for heating[^c-dbf6e0f18169d09b74c9be57649dcfa5]
 
 The accommodation must have adequate provision for heating. All habitable rooms and bath- or shower-rooms must be capable of maintaining the room at a minimum temperature of 18°C when the outside temperature is minus 1°C.
 
-### 3. Facilities for storage, preparation and cooking of food within the unit of accommodation[^key-064908fe9d797c6f634ff42f9dd3665f]
+### 3. Facilities for storage, preparation and cooking of food within the unit of accommodation[^c-064908fe9d797c6f634ff42f9dd3665f]
 
 (1) In a unit of accommodation accommodating more than one person, the food preparation area provided within the unit must include the following facilities:
 
@@ -219,7 +219,7 @@ The accommodation must have adequate provision for heating. All habitable rooms 
 
 as (a) – (g) above but (a) to have a minimum of two burners/hobs.
 
-### 4. Storage, preparation and cooking of food in a shared facility[^key-3ddaaaa3fd8dc281710feb2758fee9c9]
+### 4. Storage, preparation and cooking of food in a shared facility[^c-3ddaaaa3fd8dc281710feb2758fee9c9]
 
 (1) Where food preparation areas are shared between more than one household there must be one set of kitchen facilities for:
 
@@ -244,7 +244,7 @@ as (a) – (g) above but (a) to have a minimum of two burners/hobs.
 
 Alternatively, these may be provided elsewhere within the building.
 
-### 5. Toilet and washing facilities[^key-ee57d7a2e1c326841ecd063ea5e24dfd]
+### 5. Toilet and washing facilities[^c-ee57d7a2e1c326841ecd063ea5e24dfd]
 
 (1) Facilities for the exclusive use of the person or household must include:
 
@@ -260,15 +260,15 @@ Alternatively, these may be provided elsewhere within the building.
 
 (3) The number of persons occupying a unit of accommodation with a water closet facility provided for their exclusive use must not be included in the calculation for shared water closets.
 
-### 6. Security[^key-67d1ec80c81f98f88bf615c4ad154fc9]
+### 6. Security[^c-67d1ec80c81f98f88bf615c4ad154fc9]
 
 The entrance door to each unit of accommodation must be lockable and be capable of being unlocked from inside without the use of a key.
 
-### 7. Common Room (s)[^key-a80aeccb008bf248901a2fd28e9e4c63]
+### 7. Common Room (s)[^c-a80aeccb008bf248901a2fd28e9e4c63]
 
 Every premises must have a common room of at least 12 square metres unless all households have a living area separate from their sleeping area that is available for their exclusive use, or the premises are for single person households only.
 
-### 8. Management Standards[^key-ebc281b01102b6872db05a7ee8ae2612][^f00008]
+### 8. Management Standards[^c-ebc281b01102b6872db05a7ee8ae2612][^f00008]
 
 (1) Each household must be issued with written ‘house rules’ which include details as to how sanctions for breach of the rules will be applied. The house rules must be approved by the authority placing homeless households in the premises.
 
@@ -328,29 +328,29 @@ Article 9 makes provision for revocation of the previous suitability Orders in W
 
 [^f00001]: Footnote: [2014 anaw 7](https://www.legislation.gov.uk/anaw/2014/7).
 
-[^key-45bf179a137ce0ce645b3490390fa291]: Commencement: Art. 1 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
+[^c-45bf179a137ce0ce645b3490390fa291]: Commencement: Art. 1 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
 
-[^key-298e2fbd0e8d665d415de450f0ef232f]: Commencement: Art. 2 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
+[^c-298e2fbd0e8d665d415de450f0ef232f]: Commencement: Art. 2 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
 
 [^f00002]: Footnote: *See* the definition of “local housing authority” in section 99 of the Housing (Wales) Act 2014.
 
-[^key-f51d84d5b96a7ed1788d6c199cd60698]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2015/1268/article/2) substituted (30.11.2023) by [The Renting Homes (Wales) Act 2016 and Homelessness (Suitability of Accommodation) (Wales) Order 2015 (Amendment) Regulations 2023 (S.I. 2023/1277)](https://www.legislation.gov.uk/wsi/2023/1277), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/1277/regulation/1/1), [3](https://www.legislation.gov.uk/wsi/2023/1277/regulation/3)
+[^c-f51d84d5b96a7ed1788d6c199cd60698]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2015/1268/article/2) substituted (30.11.2023) by [The Renting Homes (Wales) Act 2016 and Homelessness (Suitability of Accommodation) (Wales) Order 2015 (Amendment) Regulations 2023 (S.I. 2023/1277)](https://www.legislation.gov.uk/wsi/2023/1277), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/1277/regulation/1/1), [3](https://www.legislation.gov.uk/wsi/2023/1277/regulation/3)
 
-[^key-fc8541c29fa17168823156b81e6b3588]: Commencement: Art. 3 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
+[^c-fc8541c29fa17168823156b81e6b3588]: Commencement: Art. 3 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
 
 [^f00004]: Footnote: *See* the definition of “priority need” in section 70 of the Housing (Wales) Act 2014.
 
-[^key-6433702733cbeef85d2dfecc4d589ff0]: Commencement: Art. 4 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
+[^c-6433702733cbeef85d2dfecc4d589ff0]: Commencement: Art. 4 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
 
-[^key-537c24febaa7b401a9c85670f1a912ed]: Commencement: Art. 5 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
+[^c-537c24febaa7b401a9c85670f1a912ed]: Commencement: Art. 5 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
 
-[^key-da5b639439c7985fe8f2dfee2a060f28]: Commencement: Art. 6 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
+[^c-da5b639439c7985fe8f2dfee2a060f28]: Commencement: Art. 6 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
 
-[^key-f87e165e44c043905f076977eb04701b]: Commencement: Art. 7 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
+[^c-f87e165e44c043905f076977eb04701b]: Commencement: Art. 7 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
 
-[^key-4a3c3ce0b63d83013b0a8d0415a0c48d]: Commencement: Art. 8 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
+[^c-4a3c3ce0b63d83013b0a8d0415a0c48d]: Commencement: Art. 8 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
 
-[^key-38042cd5bc264bb2b48979e2992acd31]: Commencement: Art. 9 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
+[^c-38042cd5bc264bb2b48979e2992acd31]: Commencement: Art. 9 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
 
 [^f00005]: Footnote: [S.I. 1996/3204](https://www.legislation.gov.uk/uksi/1996/3204).
 
@@ -360,18 +360,18 @@ Article 9 makes provision for revocation of the previous suitability Orders in W
 
 [^M_I_c6c3c11c-d7b5-4fd7-f101-ed2cd92e2f94]: Commencement: Sch. para. 1 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
 
-[^key-dbf6e0f18169d09b74c9be57649dcfa5]: Commencement: Sch. para. 2 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
+[^c-dbf6e0f18169d09b74c9be57649dcfa5]: Commencement: Sch. para. 2 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
 
-[^key-064908fe9d797c6f634ff42f9dd3665f]: Commencement: Sch. para. 3 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
+[^c-064908fe9d797c6f634ff42f9dd3665f]: Commencement: Sch. para. 3 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
 
-[^key-3ddaaaa3fd8dc281710feb2758fee9c9]: Commencement: Sch. para. 4 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
+[^c-3ddaaaa3fd8dc281710feb2758fee9c9]: Commencement: Sch. para. 4 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
 
-[^key-ee57d7a2e1c326841ecd063ea5e24dfd]: Commencement: Sch. para. 5 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
+[^c-ee57d7a2e1c326841ecd063ea5e24dfd]: Commencement: Sch. para. 5 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
 
-[^key-67d1ec80c81f98f88bf615c4ad154fc9]: Commencement: Sch. para. 6 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
+[^c-67d1ec80c81f98f88bf615c4ad154fc9]: Commencement: Sch. para. 6 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
 
-[^key-a80aeccb008bf248901a2fd28e9e4c63]: Commencement: Sch. para. 7 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
+[^c-a80aeccb008bf248901a2fd28e9e4c63]: Commencement: Sch. para. 7 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
 
-[^key-ebc281b01102b6872db05a7ee8ae2612]: Commencement: Sch. para. 8 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
+[^c-ebc281b01102b6872db05a7ee8ae2612]: Commencement: Sch. para. 8 in force at 27.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2015/1268/article/1/2)
 
 [^f00008]: Footnote: The management standards are in addition to the standards contained in the Housing (Management of Houses in Multiple Occupation) Regulations 1990.

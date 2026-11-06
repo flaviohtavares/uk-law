@@ -32,7 +32,7 @@ summary: ''
 
 (3)[^c17106061] [^c17106071]A recovery plan must comply with any prescribed requirements and must be appropriate having regard to the nature and circumstances of the scheme.
 
-(3A)[^key-d06caa20c74a2e15210d2c62939813d6] Provision may be made by regulations as to the matters to be taken into account, or the principles to be followed, in determining for the purposes of paragraph (3) whether a recovery plan is appropriate having regard to the nature and circumstances of the scheme.
+(3A)[^c-d06caa20c74a2e15210d2c62939813d6] Provision may be made by regulations as to the matters to be taken into account, or the principles to be followed, in determining for the purposes of paragraph (3) whether a recovery plan is appropriate having regard to the nature and circumstances of the scheme.
 
 (4)[^c17106061] [^c17106071]In preparing or revising a recovery plan the trustees or managers must take account of prescribed matters.
 
@@ -50,4 +50,4 @@ The copy of any recovery plan sent to the Regulator must be accompanied by the p
 
 [^c17106071]: Textual amendment: mod. by SR 2005/570
 
-[^key-d06caa20c74a2e15210d2c62939813d6]: Textual amendment: [Art. 205(3A)](https://www.legislation.gov.uk/nisi/2005/255/article/205/3A) inserted (11.2.2021 for specified purposes, 6.4.2024 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/5); [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
+[^c-d06caa20c74a2e15210d2c62939813d6]: Textual amendment: [Art. 205(3A)](https://www.legislation.gov.uk/nisi/2005/255/article/205/3A) inserted (11.2.2021 for specified purposes, 6.4.2024 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/5); [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)

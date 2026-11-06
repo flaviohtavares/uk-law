@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Offence of failing to comply with an access prohibition, etc[^key-742a5afd0d24493e3f00055dae30be0a]
+## 27. Offence of failing to comply with an access prohibition, etc[^c-742a5afd0d24493e3f00055dae30be0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-742a5afd0d24493e3f00055dae30be0a]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2016/2/section/27) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-742a5afd0d24493e3f00055dae30be0a]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2016/2/section/27) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

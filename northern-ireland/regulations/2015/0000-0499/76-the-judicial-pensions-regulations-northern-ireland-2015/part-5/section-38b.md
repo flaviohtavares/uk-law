@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38B. Purported transfer value payment in respect of relevant fee-paid judges[^key-ef17f567688385df64ea35ced2347885]
+## 38B. Purported transfer value payment in respect of relevant fee-paid judges[^c-ef17f567688385df64ea35ced2347885]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef17f567688385df64ea35ced2347885]: Textual amendment: [Reg. 38B](https://www.legislation.gov.uk/nisr/2015/76/regulation/38B) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [2(5)](https://www.legislation.gov.uk/nisr/2024/106/regulation/2/5)
+[^c-ef17f567688385df64ea35ced2347885]: Textual amendment: [Reg. 38B](https://www.legislation.gov.uk/nisr/2015/76/regulation/38B) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [2(5)](https://www.legislation.gov.uk/nisr/2024/106/regulation/2/5)

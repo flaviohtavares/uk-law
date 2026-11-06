@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The aid scheme intended to improve the distribution of agricultural products and improving children's eating habits is aimed at children who regularly attend nurseries, pre-schools or primary or secondary-level educational establishments which are administered or recognised by the relevant authority[^key-3656deb330f0361d3d55c8ed68845fc8].
+The aid scheme intended to improve the distribution of agricultural products and improving children's eating habits is aimed at children who regularly attend nurseries, pre-schools or primary or secondary-level educational establishments which are administered or recognised by the relevant authority[^c-3656deb330f0361d3d55c8ed68845fc8].
 
 ## Annotations
 
 [^c000002]: Textual amendment: Substituted by [Regulation (EU) 2016/791 of the European Parliament and of the Council of 11 May 2016 amending Regulations (EU) No 1308/2013 and (EU) No 1306/2013 as regards the aid scheme for the supply of fruit and vegetables, bananas and milk in educational establishments](https://www.legislation.gov.uk/eur/2016/791).
 
-[^key-3656deb330f0361d3d55c8ed68845fc8]: Textual amendment: Words in [Art. 22](https://www.legislation.gov.uk/eur/2013/1308/article/22) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/821/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3656deb330f0361d3d55c8ed68845fc8]: Textual amendment: Words in [Art. 22](https://www.legislation.gov.uk/eur/2013/1308/article/22) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/821/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

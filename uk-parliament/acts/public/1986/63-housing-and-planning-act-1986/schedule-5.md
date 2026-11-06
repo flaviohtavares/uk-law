@@ -440,20 +440,20 @@ and omit “unless the dwelling-house is subject to a regulated tenancy”.
 
 .
 
-#### Housing Associations Act 1985 (Extent: E+W) (affected by repeal, see note)[^key-19add5d02c342af6daea397dfaf03573]
+#### Housing Associations Act 1985 (Extent: E+W) (affected by repeal, see note)[^c-19add5d02c342af6daea397dfaf03573]
 
 *Extent: E+W+S*
 
-**42.** In Part II of the *(Extent: E+W)* *(affected by repeal, see note)*[^key-19add5d02c342af6daea397dfaf03573] [^c11873581]Housing Associations Act 1985 (financial provisions), after section 69 insert— *(Extent: E+W)* *(affected by repeal, see note)*[^key-19add5d02c342af6daea397dfaf03573]
+**42.** In Part II of the *(Extent: E+W)* *(affected by repeal, see note)*[^c-19add5d02c342af6daea397dfaf03573] [^c11873581]Housing Associations Act 1985 (financial provisions), after section 69 insert— *(Extent: E+W)* *(affected by repeal, see note)*[^c-19add5d02c342af6daea397dfaf03573]
 
-> **69A (Extent: E+W) (affected by repeal, see note). Land subject to housing management agreement. (Extent: E+W) (affected by repeal, see note)[^key-19add5d02c342af6daea397dfaf03573][^key-19add5d02c342af6daea397dfaf03573]**
+> **69A (Extent: E+W) (affected by repeal, see note). Land subject to housing management agreement. (Extent: E+W) (affected by repeal, see note)[^c-19add5d02c342af6daea397dfaf03573][^c-19add5d02c342af6daea397dfaf03573]**
 >
-> A housing association is not entitled to a housing association grant, revenue deficit grant or hostel deficit grant in respect of land comprised in— *(Extent: E+W)* *(affected by repeal, see note)*[^key-19add5d02c342af6daea397dfaf03573]
+> A housing association is not entitled to a housing association grant, revenue deficit grant or hostel deficit grant in respect of land comprised in— *(Extent: E+W)* *(affected by repeal, see note)*[^c-19add5d02c342af6daea397dfaf03573]
 >
-> - (a (Extent: E+W) (affected by repeal, see note))[^key-19add5d02c342af6daea397dfaf03573] a management agreement within the meaning of the Housing Act 1985 (see sections 27(2) and 27B(4) of that Act; delegation of housing management functions by certain authorities), or *(Extent: E+W)* *(affected by repeal, see note)*[^key-19add5d02c342af6daea397dfaf03573]
-> - (b (Extent: E+W) (affected by repeal, see note))[^key-19add5d02c342af6daea397dfaf03573] an agreement to which section 5 of the Housing Rents and Subsidies (Scotland) Act 1975 applies (agreements for exercise by housing co-operatives of certain local authority housing functions). *(Extent: E+W)* *(affected by repeal, see note)*[^key-19add5d02c342af6daea397dfaf03573]
+> - (a (Extent: E+W) (affected by repeal, see note))[^c-19add5d02c342af6daea397dfaf03573] a management agreement within the meaning of the Housing Act 1985 (see sections 27(2) and 27B(4) of that Act; delegation of housing management functions by certain authorities), or *(Extent: E+W)* *(affected by repeal, see note)*[^c-19add5d02c342af6daea397dfaf03573]
+> - (b (Extent: E+W) (affected by repeal, see note))[^c-19add5d02c342af6daea397dfaf03573] an agreement to which section 5 of the Housing Rents and Subsidies (Scotland) Act 1975 applies (agreements for exercise by housing co-operatives of certain local authority housing functions). *(Extent: E+W)* *(affected by repeal, see note)*[^c-19add5d02c342af6daea397dfaf03573]
 
-. *(Extent: E+W)* *(affected by repeal, see note)*[^key-19add5d02c342af6daea397dfaf03573]
+. *(Extent: E+W)* *(affected by repeal, see note)*[^c-19add5d02c342af6daea397dfaf03573]
 
 ## Annotations
 
@@ -539,6 +539,6 @@ and omit “unless the dwelling-house is subject to a regulated tenancy”.
 
 [^c11873571]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
-[^key-19add5d02c342af6daea397dfaf03573]: Textual amendment: [Sch. 5 para. 42 and cross-heading](https://www.legislation.gov.uk/ukpga/1986/63/schedule/5/part/II/crossheading/housing-associations-act-1985) repealed (E.W.) (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-19add5d02c342af6daea397dfaf03573]: Textual amendment: [Sch. 5 para. 42 and cross-heading](https://www.legislation.gov.uk/ukpga/1986/63/schedule/5/part/II/crossheading/housing-associations-act-1985) repealed (E.W.) (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
 [^c11873581]: Marginal citation: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).

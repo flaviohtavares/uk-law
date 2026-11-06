@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51B. Orders under section 51A: supplementary[^key-7a3dec746061a80fae8b0941abf40014]
+## 51B. Orders under section 51A: supplementary[^c-7a3dec746061a80fae8b0941abf40014]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a3dec746061a80fae8b0941abf40014]: Textual amendment: Ss. 51A, 51B and cross-heading inserted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/9/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/889/article/4/a) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-7a3dec746061a80fae8b0941abf40014]: Textual amendment: Ss. 51A, 51B and cross-heading inserted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/9/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/889/article/4/a) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)

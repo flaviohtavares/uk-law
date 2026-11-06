@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 151. Division of unsold assets[^key-0871593eeae8ba5c5f884bb9e7f7a035]
+## 151. Division of unsold assets[^c-0871593eeae8ba5c5f884bb9e7f7a035]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0871593eeae8ba5c5f884bb9e7f7a035]: Commencement: [Rule 151](https://www.legislation.gov.uk/uksi/2011/1301/rule/151) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-0871593eeae8ba5c5f884bb9e7f7a035]: Commencement: [Rule 151](https://www.legislation.gov.uk/uksi/2011/1301/rule/151) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Amendment to regulation 36[^key-3a9077e34d6e7a0960eb819ab34502f1]
+## 14. Amendment to regulation 36[^c-3a9077e34d6e7a0960eb819ab34502f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 36 (conditions for manufacturer’s licence)[^f00021], omit paragr
 
 ## Annotations
 
-[^key-3a9077e34d6e7a0960eb819ab34502f1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2024/832/regulation/14) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-3a9077e34d6e7a0960eb819ab34502f1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2024/832/regulation/14) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00021]: Footnote: Paragraphs (4) to (7) were inserted by [S.I. 2019/62](https://www.legislation.gov.uk/uksi/2019/62).

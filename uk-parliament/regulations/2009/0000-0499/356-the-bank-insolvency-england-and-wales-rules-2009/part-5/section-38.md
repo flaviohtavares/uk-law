@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. General rule as to reporting[^key-da40b8dfc03651fda346a48c82464a67]
+## 38. General rule as to reporting[^c-da40b8dfc03651fda346a48c82464a67]
 
 *Extent: E+W*
 
-(1) Apply rule 4.47 of the 1986 Rules. For “official receiver” substitute “bank liquidator”.[^key-c8a3cd45c13ad66699eb8be486057410]
+(1) Apply rule 4.47 of the 1986 Rules. For “official receiver” substitute “bank liquidator”.[^c-c8a3cd45c13ad66699eb8be486057410]
 
-(2)[^key-880707347170d988ebcd330fb68776f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-880707347170d988ebcd330fb68776f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-880707347170d988ebcd330fb68776f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-880707347170d988ebcd330fb68776f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-da40b8dfc03651fda346a48c82464a67]: Commencement: Rule 38 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-da40b8dfc03651fda346a48c82464a67]: Commencement: Rule 38 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
-[^key-c8a3cd45c13ad66699eb8be486057410]: Textual amendment: Words in [rule 38(1)](https://www.legislation.gov.uk/uksi/2009/356/rule/38/1) added (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [26(a)](https://www.legislation.gov.uk/uksi/2010/2579/rule/26/a)
+[^c-c8a3cd45c13ad66699eb8be486057410]: Textual amendment: Words in [rule 38(1)](https://www.legislation.gov.uk/uksi/2009/356/rule/38/1) added (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [26(a)](https://www.legislation.gov.uk/uksi/2010/2579/rule/26/a)
 
-[^key-880707347170d988ebcd330fb68776f8]: Textual amendment: [Rule 38(2)](https://www.legislation.gov.uk/uksi/2009/356/rule/38/2)[(3)](https://www.legislation.gov.uk/uksi/2009/356/rule/38/3) omitted (15.11.2010) by virtue of [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [26(b)](https://www.legislation.gov.uk/uksi/2010/2579/rule/26/b)
+[^c-880707347170d988ebcd330fb68776f8]: Textual amendment: [Rule 38(2)](https://www.legislation.gov.uk/uksi/2009/356/rule/38/2)[(3)](https://www.legislation.gov.uk/uksi/2009/356/rule/38/3) omitted (15.11.2010) by virtue of [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [26(b)](https://www.legislation.gov.uk/uksi/2010/2579/rule/26/b)

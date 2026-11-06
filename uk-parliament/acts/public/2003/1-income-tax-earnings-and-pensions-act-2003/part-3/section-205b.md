@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205B. Reduction of cost of taxable benefit where asset is shared[^key-3e75142eb4c41209ff368a4aad05ad67]
+## 205B. Reduction of cost of taxable benefit where asset is shared[^c-3e75142eb4c41209ff368a4aad05ad67]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e75142eb4c41209ff368a4aad05ad67]: Textual amendment: [Ss. 205A, 205B](https://www.legislation.gov.uk/ukpga/2003/1/section/205A) inserted (with effect in accordance with s. 8(5) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 8(3)](https://www.legislation.gov.uk/ukpga/2017/10/section/8/3)
+[^c-3e75142eb4c41209ff368a4aad05ad67]: Textual amendment: [Ss. 205A, 205B](https://www.legislation.gov.uk/ukpga/2003/1/section/205A) inserted (with effect in accordance with s. 8(5) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 8(3)](https://www.legislation.gov.uk/ukpga/2017/10/section/8/3)

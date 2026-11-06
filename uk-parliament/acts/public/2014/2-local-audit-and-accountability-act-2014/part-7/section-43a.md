@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43A. Connected entities[^key-d57210d6188f78611f6b7fa9516956ee]
+## 43A. Connected entities[^c-d57210d6188f78611f6b7fa9516956ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d57210d6188f78611f6b7fa9516956ee]: Textual amendment: S. 43A inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 36 para. 23](https://www.legislation.gov.uk/ukpga/2026/23/schedule/36/paragraph/23)
+[^c-d57210d6188f78611f6b7fa9516956ee]: Textual amendment: S. 43A inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 36 para. 23](https://www.legislation.gov.uk/ukpga/2026/23/schedule/36/paragraph/23)

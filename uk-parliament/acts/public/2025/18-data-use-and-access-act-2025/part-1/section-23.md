@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Related subordinate legislation[^key-e3f5766ff1a46cdc1769218a87c7bb16][^key-22c6c15c72dd8e45ace8b0575ee5316e]
+## 23. Related subordinate legislation[^c-e3f5766ff1a46cdc1769218a87c7bb16][^c-22c6c15c72dd8e45ace8b0575ee5316e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e3f5766ff1a46cdc1769218a87c7bb16]: Commencement: S. 23 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-e3f5766ff1a46cdc1769218a87c7bb16]: Commencement: S. 23 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-22c6c15c72dd8e45ace8b0575ee5316e]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2025/18/section/23) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-22c6c15c72dd8e45ace8b0575ee5316e]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2025/18/section/23) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

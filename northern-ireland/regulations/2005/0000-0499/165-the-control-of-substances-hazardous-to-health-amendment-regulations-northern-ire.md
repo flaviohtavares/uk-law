@@ -47,19 +47,19 @@ Regulations 3(a), (c) to (f) and (h) and 4(b)
 
 The Department of Enterprise, Trade and Investment[^f00001], being the Department concerned[^f00002], in exercise of the powers conferred by Articles 2(5), 17(1), (2), (4), (5) and (6), and 55(2) of, and paragraphs 1(1) and (4), 7, 8, 10, 13, 14, 15 and 19 of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00003] and of every other power enabling it in that behalf and for the purpose under Article 46(1)[^f00004] of that Order of giving effect without modifications to proposals submitted to it by the Health and Safety Executive for Northern Ireland[^f00005] under Article 13(1A)[^f00006] of that Order after the carrying out by the said Executive of consultations in accordance with Article 46(3) of that Order, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-cc98aa17261718eb49922dfced785919]
+## 1. Citation and commencement[^c-cc98aa17261718eb49922dfced785919]
 
 These Regulations may be cited as the Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 and shall come into operation on 1st May 2005, except for regulations 3(a), (c) to (f) and (h), and 4(b) which shall come into operation on 1st June 2005.
 
-## 2. Amendment of the Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2002[^key-24910405da3f758bdf660641c1d373c5]
+## 2. Amendment of the Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2002[^c-24910405da3f758bdf660641c1d373c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Control of Substances Hazardous to Health Regulations (Northern Ireland) 2003[^key-3500b94f002d21e5d4a88a36b70e3c3d][^key-4ca1c73dfeaef64f6e97fc0cfbb2d982]
+## 3. Amendment of the Control of Substances Hazardous to Health Regulations (Northern Ireland) 2003[^c-3500b94f002d21e5d4a88a36b70e3c3d][^c-4ca1c73dfeaef64f6e97fc0cfbb2d982]
 
 In the Control of Substances Hazardous to Health Regulations (Northern Ireland) 2003[^f00008] –
 
-- (a)[^key-3500b94f002d21e5d4a88a36b70e3c3d] in regulation 2(1) –
+- (a)[^c-3500b94f002d21e5d4a88a36b70e3c3d] in regulation 2(1) –
   - (i) the definition of “maximum exposure limit” shall be omitted;
   - (ii) the definition of “occupational exposure standard” shall be omitted;
   - (iii) after the definition of “the risk assessment” there shall be added the following definition –
@@ -73,7 +73,7 @@ In the Control of Substances Hazardous to Health Regulations (Northern Ireland) 
     > - “workplace exposure limit” for a substance hazardous to health means the exposure limit approved by the Executive for that substance in relation to the specified reference period when calculated by a method approved by the Executive, as contained in the Great Britain Health and Safety Executive publication “EH/40 Workplace Exposure Limits 2005” as updated from time to time.
 
     ;
-- (b)[^key-4ca1c73dfeaef64f6e97fc0cfbb2d982] in regulation 3, for paragraph (3) there shall be substituted the following paragraph –
+- (b)[^c-4ca1c73dfeaef64f6e97fc0cfbb2d982] in regulation 3, for paragraph (3) there shall be substituted the following paragraph –
 
   > (3) These Regulations shall not apply to the master or crew of a ship or to the employer of such persons in respect of the normal shipboard activities of a ship’s crew which –
   >
@@ -83,8 +83,8 @@ In the Control of Substances Hazardous to Health Regulations (Northern Ireland) 
   > and for the purposes of this paragraph “ship” includes every description of vessel used in navigation, other than a ship forming part of Her Majesty’s Navy.
 
   ;
-- (c)[^key-3500b94f002d21e5d4a88a36b70e3c3d] in regulation 6(2)(f), for the words “occupational exposure standard, maximum exposure limit”, there shall be substituted the words “workplace exposure limit”;
-- (d)[^key-3500b94f002d21e5d4a88a36b70e3c3d] in regulation 7 –
+- (c)[^c-3500b94f002d21e5d4a88a36b70e3c3d] in regulation 6(2)(f), for the words “occupational exposure standard, maximum exposure limit”, there shall be substituted the words “workplace exposure limit”;
+- (d)[^c-3500b94f002d21e5d4a88a36b70e3c3d] in regulation 7 –
   - (i) for paragraph (7), there shall be substituted the following paragraph –
 
     > (7) Without prejudice to the generality of paragraph (1), where there is exposure to a substance hazardous to health, control of that exposure shall only be treated as adequate if –
@@ -99,7 +99,7 @@ In the Control of Substances Hazardous to Health Regulations (Northern Ireland) 
 
     ; and
   - (ii) paragraph (8) shall be omitted;
-- (e)[^key-3500b94f002d21e5d4a88a36b70e3c3d] in regulation 9, for paragraph (1) there shall be substituted the following paragraph –
+- (e)[^c-3500b94f002d21e5d4a88a36b70e3c3d] in regulation 9, for paragraph (1) there shall be substituted the following paragraph –
 
   > (1) Every employer who provides any control measure to meet the requirements of regulation 7 shall ensure that –
   >
@@ -107,10 +107,10 @@ In the Control of Substances Hazardous to Health Regulations (Northern Ireland) 
   > - (b) in the case of the provision of systems of work and supervision and of any other measure, it is reviewed at suitable intervals and revised if necessary.
 
   ;
-- (f)[^key-3500b94f002d21e5d4a88a36b70e3c3d] in regulation 12(2) –
+- (f)[^c-3500b94f002d21e5d4a88a36b70e3c3d] in regulation 12(2) –
   - (i) in sub-paragraph (a)(ii) for the words “occupational exposure standard, maximum exposure limit” there shall be substituted the words “workplace exposure limit”; and
   - (ii) in sub-paragraph (d) for the words “maximum exposure limit”, in each place where they occur, there shall be substituted the words “workplace exposure limit”;
-- (g)[^key-4ca1c73dfeaef64f6e97fc0cfbb2d982] to the end of Schedule 2 there shall be added –
+- (g)[^c-4ca1c73dfeaef64f6e97fc0cfbb2d982] to the end of Schedule 2 there shall be added –
   - (i) in column 1 the entry –
 
     > **13.** Cement and cement-containing preparations which contain, when hydrated, more than 0·0002% soluble chromium (VI) of the total dry weight of the cement.
@@ -121,13 +121,13 @@ In the Control of Substances Hazardous to Health Regulations (Northern Ireland) 
     > - Supply and use for all purposes except for controlled, closed and totally automated processes in which cement and cement-containing preparations are handled solely by machines and in which there is no possibility of contact with the skin.
 
     ; and
-- (h)[^key-3500b94f002d21e5d4a88a36b70e3c3d] after Schedule 2 there shall be inserted the Schedule set out in the Schedule to these Regulations.
+- (h)[^c-3500b94f002d21e5d4a88a36b70e3c3d] after Schedule 2 there shall be inserted the Schedule set out in the Schedule to these Regulations.
 
-## 4. Amendment of the Control of Lead at Work Regulations (Northern Ireland) 2003[^key-6ca6f2e61cccc5a1fa49ebd8f30d98ff][^key-4d9370f88d063ee524193062bb736717]
+## 4. Amendment of the Control of Lead at Work Regulations (Northern Ireland) 2003[^c-6ca6f2e61cccc5a1fa49ebd8f30d98ff][^c-4d9370f88d063ee524193062bb736717]
 
 In the Control of Lead at Work Regulations (Northern Ireland) 2003[^f00010] –
 
-- (a)[^key-6ca6f2e61cccc5a1fa49ebd8f30d98ff] in regulation 3, for paragraph (3) there shall be substituted the following paragraph –
+- (a)[^c-6ca6f2e61cccc5a1fa49ebd8f30d98ff] in regulation 3, for paragraph (3) there shall be substituted the following paragraph –
 
   > (3) These Regulations shall not apply to the master or crew of a ship or to the employer of such persons in respect of the normal shipboard activities of a ship’s crew which –
   >
@@ -137,7 +137,7 @@ In the Control of Lead at Work Regulations (Northern Ireland) 2003[^f00010] –
   > and for the purposes of this paragraph “ship” includes every description of vessel used in navigation, other than a ship forming part of Her Majesty’s Navy.
 
   ; and
-- (b)[^key-4d9370f88d063ee524193062bb736717] in regulation 8, for paragraph (1) there shall be substituted the following paragraph –
+- (b)[^c-4d9370f88d063ee524193062bb736717] in regulation 8, for paragraph (1) there shall be substituted the following paragraph –
 
   > (1) Every employer who provides any control measure to meet the requirements of regulation 6 shall ensure that –
   >
@@ -154,11 +154,11 @@ A senior officer of the
 
 Department of Enterprise, Trade and Investment
 
-## SCHEDULE[^key-f8c5d2c4c9fd87b07cf0e545733a42a6]
+## SCHEDULE[^c-f8c5d2c4c9fd87b07cf0e545733a42a6]
 
 Regulation 3(h)
 
-[^key-f8c5d2c4c9fd87b07cf0e545733a42a6]
+[^c-f8c5d2c4c9fd87b07cf0e545733a42a6]
 
 > **SCHEDULE 2A — PRINCIPLES OF GOOD PRACTICE FOR THE CONTROL OF EXPOSURE TO SUBSTANCES HAZARDOUS TO HEALTH**
 >
@@ -215,22 +215,22 @@ are obtainable from HSE Books, PO Box 1999 Sudbury, Suffolk CO10 2WA.
 
 [^f00006]: Footnote: Article 13(1A) was substituted by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 4
 
-[^key-cc98aa17261718eb49922dfced785919]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1) in operation at 1.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1)
+[^c-cc98aa17261718eb49922dfced785919]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1) in operation at 1.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1)
 
-[^key-24910405da3f758bdf660641c1d373c5]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/165/regulation/2) revoked (27.7.2009) by [The Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2009 (S.R. 2009/238)](https://www.legislation.gov.uk/nisr/2009/238), [regs. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1), [18](https://www.legislation.gov.uk/nisr/2009/238/regulation/18), [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisr/2009/238/schedule/8/part/I)
+[^c-24910405da3f758bdf660641c1d373c5]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/165/regulation/2) revoked (27.7.2009) by [The Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2009 (S.R. 2009/238)](https://www.legislation.gov.uk/nisr/2009/238), [regs. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1), [18](https://www.legislation.gov.uk/nisr/2009/238/regulation/18), [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisr/2009/238/schedule/8/part/I)
 
-[^key-3500b94f002d21e5d4a88a36b70e3c3d]: Commencement: [Reg. 3(a)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/a)[(c)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/c)[(d)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/d)[(e)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/e)[(f)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/f)[(h)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/h) in operation at 1.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1)
+[^c-3500b94f002d21e5d4a88a36b70e3c3d]: Commencement: [Reg. 3(a)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/a)[(c)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/c)[(d)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/d)[(e)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/e)[(f)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/f)[(h)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/h) in operation at 1.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1)
 
-[^key-4ca1c73dfeaef64f6e97fc0cfbb2d982]: Commencement: [Reg. 3(b)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/b)[(g)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/g) in operation at 1.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1)
+[^c-4ca1c73dfeaef64f6e97fc0cfbb2d982]: Commencement: [Reg. 3(b)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/b)[(g)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/g) in operation at 1.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1)
 
 [^f00008]: Footnote: [S.R. 2003 No. 34](https://www.legislation.gov.uk/nisr/2003/34)
 
 [^f00009]: Footnote: HSE Books 1997 ISBN 0 7176 1465 4
 
-[^key-6ca6f2e61cccc5a1fa49ebd8f30d98ff]: Commencement: [Reg. 4(a)](https://www.legislation.gov.uk/nisr/2005/165/regulation/4/a) in operation at 1.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1)
+[^c-6ca6f2e61cccc5a1fa49ebd8f30d98ff]: Commencement: [Reg. 4(a)](https://www.legislation.gov.uk/nisr/2005/165/regulation/4/a) in operation at 1.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1)
 
-[^key-4d9370f88d063ee524193062bb736717]: Commencement: [Reg. 4(b)](https://www.legislation.gov.uk/nisr/2005/165/regulation/4/b) in operation at 1.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1)
+[^c-4d9370f88d063ee524193062bb736717]: Commencement: [Reg. 4(b)](https://www.legislation.gov.uk/nisr/2005/165/regulation/4/b) in operation at 1.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1)
 
 [^f00010]: Footnote: [S.R. 2003 No. 35](https://www.legislation.gov.uk/nisr/2003/35)
 
-[^key-f8c5d2c4c9fd87b07cf0e545733a42a6]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2005/165/schedule) in operation at 1.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1)
+[^c-f8c5d2c4c9fd87b07cf0e545733a42a6]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2005/165/schedule) in operation at 1.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1)

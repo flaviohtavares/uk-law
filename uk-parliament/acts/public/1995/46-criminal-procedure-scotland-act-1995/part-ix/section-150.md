@@ -66,7 +66,7 @@ summary: ''
 
 shall, unless challenged by preliminary objection before his plea is recorded, be held as admitted.
 
-(10)[^key-bf20fd83fa7af96a1a017a176be505a2] At any time before the trial in the prosecution in which the failure to appear occurred, it is competent to amend the complaint to include an additional charge of an offence under subsection (8).
+(10)[^c-bf20fd83fa7af96a1a017a176be505a2] At any time before the trial in the prosecution in which the failure to appear occurred, it is competent to amend the complaint to include an additional charge of an offence under subsection (8).
 
 ## Annotations
 
@@ -88,4 +88,4 @@ shall, unless challenged by preliminary objection before his plea is recorded, b
 
 [^c19810411]: Textual amendment: S. 150(9A)-(9C) inserted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 15(c)](https://www.legislation.gov.uk/asp/2007/6/section/15/c), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (subject to [art. 6](https://www.legislation.gov.uk/ssi/2007/479/article/6)) (as amended by [S.S. I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))
 
-[^key-bf20fd83fa7af96a1a017a176be505a2]: Textual amendment: [S. 150(10)](https://www.legislation.gov.uk/ukpga/1995/46/section/150/10) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 62(2)](https://www.legislation.gov.uk/asp/2010/13/section/62/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-bf20fd83fa7af96a1a017a176be505a2]: Textual amendment: [S. 150(10)](https://www.legislation.gov.uk/ukpga/1995/46/section/150/10) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 62(2)](https://www.legislation.gov.uk/asp/2010/13/section/62/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

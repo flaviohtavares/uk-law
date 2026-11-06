@@ -22,7 +22,7 @@ summary: ''
 
 (1) A deduction is allowed to a company (“the paying company”) if—
 
-- (a) the paying company makes a payment to the trustees of a Schedule 2[^key-36b5ae0ceba5bdf418ffae02ff75ae64] share incentive plan to enable them to acquire shares in the paying company or a company that controls it,
+- (a) the paying company makes a payment to the trustees of a Schedule 2[^c-36b5ae0ceba5bdf418ffae02ff75ae64] share incentive plan to enable them to acquire shares in the paying company or a company that controls it,
 - (aa)[^M_F_79d60a0b-b178-42a6-b798-1fca2b3f536f] the payment is not made pursuant to tax avoidance arrangements,
 - (b) the trustees apply the payment to acquire such shares,
 - (c) the trustees do not acquire the shares from a company, and
@@ -54,7 +54,7 @@ summary: ''
 
 ## Annotations
 
-[^key-36b5ae0ceba5bdf418ffae02ff75ae64]: Textual amendment: Words in s. 989(1)(a) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 78](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/78), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-36b5ae0ceba5bdf418ffae02ff75ae64]: Textual amendment: Words in s. 989(1)(a) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 78](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/78), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
 [^M_F_79d60a0b-b178-42a6-b798-1fca2b3f536f]: Textual amendment: S. 989(1)(aa) inserted (with effect in relation to payments made on or after 24.3.2010) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 42(5)(8)](https://www.legislation.gov.uk/ukpga/2010/13/section/42/5/8)
 

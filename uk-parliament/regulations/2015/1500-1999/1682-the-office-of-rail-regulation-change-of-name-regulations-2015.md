@@ -48,13 +48,13 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by section 15A of the Railways and Transport Safety Act 2003[^f00001]:
 
-## 1. Citation and commencement[^key-3be0ef421b63d756118099b71029e3de]
+## 1. Citation and commencement[^c-3be0ef421b63d756118099b71029e3de]
 
 (1) These Regulations may be cited as the Office of Rail Regulation (Change of Name) Regulations 2015.
 
 (2) These Regulations come into force on 16th October 2015.
 
-## 2. New name for the Office of Rail Regulation[^key-e1624036c42acfcde797871ca95a8e69]
+## 2. New name for the Office of Rail Regulation[^c-e1624036c42acfcde797871ca95a8e69]
 
 (1) The body corporate established under section 15 of the Railways and Transport Safety Act 2003 is to be known as the Office of Rail and Road.
 
@@ -76,7 +76,7 @@ Regulation 2(2)
 
 ### PART 1 — Amendments to primary legislation
 
-#### 1. Railways Act 1993[^key-20e59318e3b4beb3c25ef87018e4e3fd]
+#### 1. Railways Act 1993[^c-20e59318e3b4beb3c25ef87018e4e3fd]
 
 In the following provisions of the Railways Act 1993[^f00002] and, in the case of sections 4, 18, 19A, 67, 72, 74 and 80 in the headings preceding them, for a reference to the Office of Rail Regulation substitute a reference to the Office of Rail and Road—
 
@@ -140,7 +140,7 @@ In the following provisions of the Railways Act 1993[^f00002] and, in the case o
   - (iii) paragraphs 11 to 16[^f00066]; and
 - (ddd) paragraphs 7 to 10 of Schedule 6[^f00067] (railway administration orders).
 
-#### 2. Railways and Transport Safety Act 2003[^key-c0ef412f19aa5e3b71e547224631c7b1]
+#### 2. Railways and Transport Safety Act 2003[^c-c0ef412f19aa5e3b71e547224631c7b1]
 
 In the following provisions of, and headings in, the Railways and Transport Safety Act 2003, for a reference to the Office of Rail Regulation substitute a reference to the Office of Rail and Road—
 
@@ -150,7 +150,7 @@ In the following provisions of, and headings in, the Railways and Transport Safe
 - (d) the heading to, and paragraph 1(1) of, Schedule 1 (Office of Rail Regulation: constitution); and
 - (e) Schedule 3 (abolition of rail regulator: savings).
 
-#### 3. Railways Act 2005[^key-4ee44f61958f60423fd2ac8bed0c03e8]
+#### 3. Railways Act 2005[^c-4ee44f61958f60423fd2ac8bed0c03e8]
 
 In the following provisions of the Railways Act 2005[^f00068], for a reference to the Office of Rail Regulation substitute a reference to the Office of Rail and Road—
 
@@ -185,7 +185,7 @@ In the following provisions of the Railways Act 2005[^f00068], for a reference t
 - (u) paragraph 16(2)(a)[^f00074] of Schedule 5 (admission of public to meetings); and
 - (v) paragraph 34(1) of Schedule 10 (taxation provisions: interpretation of Schedule).
 
-#### 4. Other enactments[^key-29450e0f393ea15977fd9398fdfddaf7]
+#### 4. Other enactments[^c-29450e0f393ea15977fd9398fdfddaf7]
 
 In the following enactments and in the headings referred to, for a reference to the Office of Rail Regulation substitute a reference to the Office of Rail and Road—
 
@@ -253,7 +253,7 @@ In the following enactments and in the headings referred to, for a reference to 
 
 ### PART 2 — Amendments to secondary legislation
 
-#### 5. Railways Infrastructure (Access and Management) Regulations 2005[^key-32acf874ef8850297517e94c7c09d053]
+#### 5. Railways Infrastructure (Access and Management) Regulations 2005[^c-32acf874ef8850297517e94c7c09d053]
 
 In the following provisions of the Railways Infrastructure (Access and Management) Regulations 2005[^f00120], for a reference to the Office of Rail Regulation substitute a reference to the Office of Rail and Road—
 
@@ -281,7 +281,7 @@ In the following provisions of the Railways Infrastructure (Access and Managemen
 - (v) regulation 36(3) (civil proceedings); and
 - (w) paragraph 2 of Schedule 3 (principles of access charging).
 
-#### 6. Railways and Other Guided Transport Systems (Safety) Regulations 2006[^key-4e5a4388a864d0df1122a6d7dd147119]
+#### 6. Railways and Other Guided Transport Systems (Safety) Regulations 2006[^c-4e5a4388a864d0df1122a6d7dd147119]
 
 In the following provisions of the Railways and Other Guided Transport Systems (Safety) Regulations 2006[^f00121], for a reference to the Office of Rail Regulation substitute a reference to the Office of Rail and Road—
 
@@ -311,7 +311,7 @@ In the following provisions of the Railways and Other Guided Transport Systems (
 - (x) paragraph 6(2) of Part 1 of Schedule 3 (indicators to calculate the economic impact of accidents); and
 - (y) paragraph 4(4) of Part 2 of Schedule 3 (indicators relating to precursors of accidents).
 
-#### 7. Railway Safety Levy Regulations 2006[^key-373cf2c09cbf5960e0752188998a1bc7]
+#### 7. Railway Safety Levy Regulations 2006[^c-373cf2c09cbf5960e0752188998a1bc7]
 
 In the following provisions of the Railway Safety Levy Regulations 2006[^f00122] and, in the case of regulation 3 in the heading preceding it, for a reference to the Office of Rail Regulation substitute a reference to the Office of Rail and Road—
 
@@ -321,7 +321,7 @@ In the following provisions of the Railway Safety Levy Regulations 2006[^f00122]
 - (d) regulation 7 (payment of the railway safety levy); and
 - (e) regulation 8 (refunds).
 
-#### 8. REACH Enforcement Regulations 2008[^key-e48c1a1d1e7c18f3f06e9c7f6f74f4bf]
+#### 8. REACH Enforcement Regulations 2008[^c-e48c1a1d1e7c18f3f06e9c7f6f74f4bf]
 
 In the following provisions of the REACH Enforcement Regulations 2008[^f00123] and, in the case of Part 5 of Schedule 3 and Part 2 of Schedule 6 in their headings, for a reference to the Office of Rail Regulation substitute a reference to the Office of Rail and Road—
 
@@ -334,7 +334,7 @@ In the following provisions of the REACH Enforcement Regulations 2008[^f00123] a
 - (g) Part 2 of Schedule 6 (powers of enforcement); and
 - (h) Schedule 7 (authorisations).
 
-#### 9. Railways (Interoperability) Regulations 2011[^key-0789b4041e1cf756838b1b2cf88dd7f6]
+#### 9. Railways (Interoperability) Regulations 2011[^c-0789b4041e1cf756838b1b2cf88dd7f6]
 
 In the following provisions of the Railways (Interoperability) Regulations 2011[^f00124], for a reference to the Office of Rail Regulation substitute a reference to the Office of Rail and Road—
 
@@ -344,7 +344,7 @@ In the following provisions of the Railways (Interoperability) Regulations 2011[
 - (d) regulation 41 (notices relating to interoperability constituents not meeting the essential requirements); and
 - (e) regulation 42 (notice of improper drawing up of the EC declaration of conformity or suitability for use for an interoperability constituent).
 
-#### 10. Other enactments[^key-b65011347df174384527909b5181aa16]
+#### 10. Other enactments[^c-b65011347df174384527909b5181aa16]
 
 In the following enactments and in the headings referred to, for a reference to the Office of Rail Regulation substitute a reference to the Office of Rail and Road—
 
@@ -416,7 +416,7 @@ In the following enactments and in the headings referred to, for a reference to 
 
 ### PART 3 — Amendments to Scottish and Welsh legislation
 
-#### 11. Scotland[^key-4e45d7dd16f881bb2348d11881f12bc5]
+#### 11. Scotland[^c-4e45d7dd16f881bb2348d11881f12bc5]
 
 In the following enactments and in the heading referred to, for a reference to the Office of Rail Regulation substitute a reference to the Office of Rail and Road—
 
@@ -425,7 +425,7 @@ In the following enactments and in the heading referred to, for a reference to t
 - (c) Schedule 3 to the Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Rules 2007[^f00168] (those to be served with a copy of the application and documents); and
 - (d) article 3(2) of the Banchory and Crathes Light Railway Order 2012[^f00169] (the railway).
 
-#### 12. Wales[^key-90b26c2db64a4b16a31da37c9a9f8b76]
+#### 12. Wales[^c-90b26c2db64a4b16a31da37c9a9f8b76]
 
 In Schedule 6 to the Welsh Language (Wales) Measure 2011[^f00170] (public bodies etc: standards)—
 
@@ -448,11 +448,11 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [2003 c.20](https://www.legislation.gov.uk/ukpga/2003/20). Section 15A was inserted by section 10(9) of the Infrastructure Act [2015 (c.7)](https://www.legislation.gov.uk/ukpga/2015/7).
 
-[^key-3be0ef421b63d756118099b71029e3de]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
+[^c-3be0ef421b63d756118099b71029e3de]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
 
-[^key-e1624036c42acfcde797871ca95a8e69]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1682/regulation/2) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
+[^c-e1624036c42acfcde797871ca95a8e69]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1682/regulation/2) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
 
-[^key-20e59318e3b4beb3c25ef87018e4e3fd]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
+[^c-20e59318e3b4beb3c25ef87018e4e3fd]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
 
 [^f00002]: Footnote: [1993 c.43](https://www.legislation.gov.uk/ukpga/1993/43).
 
@@ -586,9 +586,9 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00067]: Footnote: Paragraphs 7 to 10 were amended by the Railways and Transport Safety Act 2003, paragraph 18 of Schedule 2 and [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
 
-[^key-c0ef412f19aa5e3b71e547224631c7b1]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/2) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
+[^c-c0ef412f19aa5e3b71e547224631c7b1]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/2) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
 
-[^key-4ee44f61958f60423fd2ac8bed0c03e8]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/3) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
+[^c-4ee44f61958f60423fd2ac8bed0c03e8]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/3) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
 
 [^f00068]: Footnote: [2005 c.14](https://www.legislation.gov.uk/ukpga/2005/14).
 
@@ -604,7 +604,7 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00074]: Footnote: Sub-paragraph (2)(a) was amended by [S.I. 2010/439](https://www.legislation.gov.uk/uksi/2010/439).
 
-[^key-29450e0f393ea15977fd9398fdfddaf7]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
+[^c-29450e0f393ea15977fd9398fdfddaf7]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
 
 [^f00075]: Footnote: [1962 c.46](https://www.legislation.gov.uk/ukpga/1962/46). Subsection (1A) was inserted by the Railways Act 1993, section 128. Subsections (1A) and (12) were amended by the Railways and Transport Safety Act 2003, paragraph 19(a) of Schedule 2.
 
@@ -696,27 +696,27 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00119]: Footnote: [2015 c.15](https://www.legislation.gov.uk/ukpga/2015/15).
 
-[^key-32acf874ef8850297517e94c7c09d053]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/5) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
+[^c-32acf874ef8850297517e94c7c09d053]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/5) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
 
 [^f00120]: Footnote: [S.I. 2005/3049](https://www.legislation.gov.uk/uksi/2005/3049), amended by [S.I. 2009/1122](https://www.legislation.gov.uk/uksi/2009/1122); there are other amending instruments but none is relevant.
 
-[^key-4e5a4388a864d0df1122a6d7dd147119]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
+[^c-4e5a4388a864d0df1122a6d7dd147119]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
 
 [^f00121]: Footnote: [S.I. 2006/599](https://www.legislation.gov.uk/uksi/2006/599), relevant amending instruments are [S.I. 2011/1860](https://www.legislation.gov.uk/uksi/2011/1860), [2013/950](https://www.legislation.gov.uk/uksi/2013/950).
 
-[^key-373cf2c09cbf5960e0752188998a1bc7]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/7) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
+[^c-373cf2c09cbf5960e0752188998a1bc7]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/7) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
 
 [^f00122]: Footnote: [S.I. 2006/1010](https://www.legislation.gov.uk/uksi/2006/1010).
 
-[^key-e48c1a1d1e7c18f3f06e9c7f6f74f4bf]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/8) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
+[^c-e48c1a1d1e7c18f3f06e9c7f6f74f4bf]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/8) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
 
 [^f00123]: Footnote: [S.I. 2008/2852](https://www.legislation.gov.uk/uksi/2008/2852), amended by [S.I. 2013/2919](https://www.legislation.gov.uk/uksi/2013/2919); there are other amending instruments but none is relevant.
 
-[^key-0789b4041e1cf756838b1b2cf88dd7f6]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/9) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
+[^c-0789b4041e1cf756838b1b2cf88dd7f6]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/9) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
 
 [^f00124]: Footnote: [S.I. 2011/3066](https://www.legislation.gov.uk/uksi/2011/3066).
 
-[^key-b65011347df174384527909b5181aa16]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
+[^c-b65011347df174384527909b5181aa16]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
 
 [^f00125]: Footnote: [S.I. 1990/304](https://www.legislation.gov.uk/uksi/1990/304), amended by [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469); there are other amending instruments but none is relevant.
 
@@ -800,7 +800,7 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00165]: Footnote: [S.I. 2015/786](https://www.legislation.gov.uk/uksi/2015/786).
 
-[^key-4e45d7dd16f881bb2348d11881f12bc5]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/11) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
+[^c-4e45d7dd16f881bb2348d11881f12bc5]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/11) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
 
 [^f00166]: Footnote: [S.S.I. 2006/456](https://www.legislation.gov.uk/ssi/2006/456).
 
@@ -810,6 +810,6 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00169]: Footnote: [S.S.I. 2012/345](https://www.legislation.gov.uk/ssi/2012/345).
 
-[^key-90b26c2db64a4b16a31da37c9a9f8b76]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/12) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
+[^c-90b26c2db64a4b16a31da37c9a9f8b76]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/12) in force at 16.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2)
 
 [^f00170]: Footnote: [2011 nawm 1](https://www.legislation.gov.uk/mwa/2011/1). There are amendments to Schedule 6 but none is relevant to these Regulations.

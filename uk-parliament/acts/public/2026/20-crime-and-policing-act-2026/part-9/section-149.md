@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Electronic devices for use in vehicle offences[^key-d68fd682166417b890ccac9e9ed6e8f4]
+## 149. Electronic devices for use in vehicle offences[^c-d68fd682166417b890ccac9e9ed6e8f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ the court may assume that the accused possessed the electronic device, unless th
 
 ## Annotations
 
-[^key-d68fd682166417b890ccac9e9ed6e8f4]: Commencement: S. 149 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-d68fd682166417b890ccac9e9ed6e8f4]: Commencement: S. 149 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

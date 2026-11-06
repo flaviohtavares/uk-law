@@ -44,17 +44,17 @@ In accordance with section 24(6) of that Act, the Secretary of State has consult
 
 In accordance with section 24(9) of that Act, a draft of this instrument was laid before Parliament and approved by resolution of each House of Parliament.
 
-## 1. Citation, Commencement and Interpretation[^key-58e4b1de390f67827ee8e71751ef3ebd]
+## 1. Citation, Commencement and Interpretation[^c-58e4b1de390f67827ee8e71751ef3ebd]
 
 (1) This Order may be cited as the Legislative and Regulatory Reform (Regulatory Functions) (Amendment) Order 2009 and comes into force five days after the day on which it is made.
 
 (2) In this Order, “the 2007 Order” means the Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^f00002].
 
-## 2. Amendment of the 2007 Order[^key-2367999a3ec578b39e13505941bd7863]
+## 2. Amendment of the 2007 Order[^c-2367999a3ec578b39e13505941bd7863]
 
 The 2007 Order is amended as set out in the following articles.
 
-**3.**[^key-af1587689e452c549937a504e35bbcc6] In article 1(2), omit “and” at the end of paragraph (f) and at the end insert—
+**3.**[^c-af1587689e452c549937a504e35bbcc6] In article 1(2), omit “and” at the end of paragraph (f) and at the end insert—
 
 > - (h) a county or county borough council in Wales;
 > - (i) a fire and rescue authority in Wales (not being a county or county borough council); and
@@ -75,7 +75,7 @@ The 2007 Order is amended as set out in the following articles.
 >   - (f) a subsidiary of a company falling within paragraph (e) above;
 > - “**third sector bodies**” means any organisations that exist wholly or mainly to provide benefits for society or the environment.
 
-**4.**[^key-08b74557e47a4c7d266fb607ce91a920] (1) In Part 1 of the Schedule, omit the entry “A person authorised by the Secretary of State under section 245C of the Companies Act 1985 for the purposes of section 245B of that Act” and insert the following entries at the appropriate place—
+**4.**[^c-08b74557e47a4c7d266fb607ce91a920] (1) In Part 1 of the Schedule, omit the entry “A person authorised by the Secretary of State under section 245C of the Companies Act 1985 for the purposes of section 245B of that Act” and insert the following entries at the appropriate place—
 
 > British Hallmarking Council[^f00005]
 
@@ -288,7 +288,7 @@ The 2007 Order is amended as set out in the following articles.
   - (ii) after the last entry insert “REACH Enforcement Regulations 2008[^f00047]”;
 - (h) under the heading “Road transport” in the entry “Road Traffic Act (Consequential Provisions) Act 1988” omit the word “Act” the first time it occurs.
 
-**5.**[^key-aa8476894f9d261cbf7685342459d14e] After Part 4 of the Schedule to the 2007 Order, insert Parts 5 to 13 as set out in the Schedule to this Order.
+**5.**[^c-aa8476894f9d261cbf7685342459d14e] After Part 4 of the Schedule to the 2007 Order, insert Parts 5 to 13 as set out in the Schedule to this Order.
 
 Ian Lucas
 
@@ -298,7 +298,7 @@ Department for Business, Innovation and Skills
 
 10th November 2009
 
-## SCHEDULE — NEW PARTS 5 TO 13 TO BE INSERTED IN THE SCHEDULE TO THE 2007 ORDER[^key-95584497508ab3650d2c93e4edfde961]
+## SCHEDULE — NEW PARTS 5 TO 13 TO BE INSERTED IN THE SCHEDULE TO THE 2007 ORDER[^c-95584497508ab3650d2c93e4edfde961]
 
 Article 5
 
@@ -341,7 +341,7 @@ Article 5
 > - Motor Cycle Noise Act 1987[^f00075]
 > - Consumer Protection Act 1987[^f00076]
 > - Education Reform Act 1988 (section 215)[^f00077]
-> - [^key-d3ef0bbfb113fc5ffd5293fa08320f5c]...
+> - [^c-d3ef0bbfb113fc5ffd5293fa08320f5c]...
 > - Enterprise Act 2002, Part 8[^f00079]
 > - Fireworks Act 2003[^f00080]
 > - Crystal Glass (Descriptions) Regulations 1973[^f00081]
@@ -475,19 +475,19 @@ A copy of the Regulators’ Compliance Code and a full impact assessment of the 
 
 [^f00001]: Footnote: [2006 c.51](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-58e4b1de390f67827ee8e71751ef3ebd]: Commencement: Art. 1 in force at 15.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2981/article/1/1)
+[^c-58e4b1de390f67827ee8e71751ef3ebd]: Commencement: Art. 1 in force at 15.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2981/article/1/1)
 
 [^f00002]: Footnote: [S.I. 2007/3544](https://www.legislation.gov.uk/uksi/2007/3544) as amended by [S.I. 2008/574](https://www.legislation.gov.uk/uksi/2008/574), [2008/960](https://www.legislation.gov.uk/uksi/2008/960), [2008/1816](https://www.legislation.gov.uk/uksi/2008/1816), [2008/1277](https://www.legislation.gov.uk/uksi/2008/1277), [2008/1284](https://www.legislation.gov.uk/uksi/2008/1284) and [2008/1597](https://www.legislation.gov.uk/uksi/2008/1597).
 
-[^key-2367999a3ec578b39e13505941bd7863]: Commencement: Art. 2 in force at 15.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2981/article/1/1)
+[^c-2367999a3ec578b39e13505941bd7863]: Commencement: Art. 2 in force at 15.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2981/article/1/1)
 
-[^key-af1587689e452c549937a504e35bbcc6]: Commencement: Art. 3 in force at 15.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2981/article/1/1)
+[^c-af1587689e452c549937a504e35bbcc6]: Commencement: Art. 3 in force at 15.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2981/article/1/1)
 
 [^f00003]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39).
 
 [^f00004]: Footnote: [1972 c.9](https://www.legislation.gov.uk/apni/1972/9).
 
-[^key-08b74557e47a4c7d266fb607ce91a920]: Commencement: Art. 4 in force at 15.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2981/article/1/1)
+[^c-08b74557e47a4c7d266fb607ce91a920]: Commencement: Art. 4 in force at 15.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2981/article/1/1)
 
 [^f00005]: Footnote: see section 13 Hallmarking Act [1973 c.43](https://www.legislation.gov.uk/ukpga/1973/43).
 
@@ -575,9 +575,9 @@ A copy of the Regulators’ Compliance Code and a full impact assessment of the 
 
 [^f00047]: Footnote: [S.I. 2008/2852](https://www.legislation.gov.uk/uksi/2008/3852).
 
-[^key-aa8476894f9d261cbf7685342459d14e]: Commencement: Art. 5 in force at 15.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2981/article/1/1)
+[^c-aa8476894f9d261cbf7685342459d14e]: Commencement: Art. 5 in force at 15.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2981/article/1/1)
 
-[^key-95584497508ab3650d2c93e4edfde961]: Commencement: Sch. in force at 15.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2981/article/1/1)
+[^c-95584497508ab3650d2c93e4edfde961]: Commencement: Sch. in force at 15.11.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2981/article/1/1)
 
 [^f00048]: Footnote: [1963 c.41](https://www.legislation.gov.uk/ukpga/1963/41).
 
@@ -639,7 +639,7 @@ A copy of the Regulators’ Compliance Code and a full impact assessment of the 
 
 [^f00077]: Footnote: [1988 c.40](https://www.legislation.gov.uk/ukpga/1988/40).
 
-[^key-d3ef0bbfb113fc5ffd5293fa08320f5c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2009/2981/schedule) omitted (1.10.2013) by virtue of [The Property Misdescriptions Act 1991 (Repeal) Order 2013 (S.I. 2013/1575)](https://www.legislation.gov.uk/uksi/2013/1575), [art. 1](https://www.legislation.gov.uk/uksi/2013/1575/article/1), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2013/1575/schedule/paragraph/24)
+[^c-d3ef0bbfb113fc5ffd5293fa08320f5c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2009/2981/schedule) omitted (1.10.2013) by virtue of [The Property Misdescriptions Act 1991 (Repeal) Order 2013 (S.I. 2013/1575)](https://www.legislation.gov.uk/uksi/2013/1575), [art. 1](https://www.legislation.gov.uk/uksi/2013/1575/article/1), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2013/1575/schedule/paragraph/24)
 
 [^f00079]: Footnote: [2002 c.40](https://www.legislation.gov.uk/ukpga/2002/40).
 

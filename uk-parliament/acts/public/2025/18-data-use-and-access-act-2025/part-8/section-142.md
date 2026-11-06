@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Commencement[^key-91c1830a9efadaa889e472c2dfdb056d]
+## 142. Commencement[^c-91c1830a9efadaa889e472c2dfdb056d]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91c1830a9efadaa889e472c2dfdb056d]: Commencement: S. 142 in force at Royal Assent, see [s. 142(2)(g)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/g)
+[^c-91c1830a9efadaa889e472c2dfdb056d]: Commencement: S. 142 in force at Royal Assent, see [s. 142(2)(g)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/g)

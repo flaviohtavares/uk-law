@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Checking lists of rejected postal petition documents: England and Wales and Scotland[^key-4ac572fc40d41d96c2e214d9c5c4884c][^key-6ee2396998f021a4ef46aa7a0e57b2d3]
+## 111. Checking lists of rejected postal petition documents: England and Wales and Scotland[^c-4ac572fc40d41d96c2e214d9c5c4884c][^c-6ee2396998f021a4ef46aa7a0e57b2d3]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4ac572fc40d41d96c2e214d9c5c4884c]: Commencement: Reg. 111 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-4ac572fc40d41d96c2e214d9c5c4884c]: Commencement: Reg. 111 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-6ee2396998f021a4ef46aa7a0e57b2d3]: Textual amendment: Words in reg. 111 heading substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(14)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/14)
+[^c-6ee2396998f021a4ef46aa7a0e57b2d3]: Textual amendment: Words in reg. 111 heading substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(14)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/14)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. The Quality Schemes (Agricultural Products and Foodstuffs) Regulations 2018[^key-3d9049fdfcd173b3718b9fa4b843fd38]
+## 12. The Quality Schemes (Agricultural Products and Foodstuffs) Regulations 2018[^c-3d9049fdfcd173b3718b9fa4b843fd38]
 
 *Extent: E+W+S*
 
@@ -100,7 +100,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3d9049fdfcd173b3718b9fa4b843fd38]: Commencement: Reg. 12 in force at 31.12.2020, see reg. 1(7)
+[^c-3d9049fdfcd173b3718b9fa4b843fd38]: Commencement: Reg. 12 in force at 31.12.2020, see reg. 1(7)
 
 [^c24414051]: Marginal citation: EUR 2014/664. Prospective amendments were included in [S.I. 2019/865](https://www.legislation.gov.uk/uksi/2019/865). They would have come into force on IP completion day. Those prospective amendments are omitted by regulation 6 of this instrument and replaced, in relation to Great Britain, on IP completion day with the amendments in regulation 22 of, and Schedule 5 to, this instrument.
 

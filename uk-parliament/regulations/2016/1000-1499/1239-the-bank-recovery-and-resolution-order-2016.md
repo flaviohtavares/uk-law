@@ -46,7 +46,7 @@ The Treasury are designated [^c23169211] for the purposes of section 2(2) of the
 
 The Treasury in exercise of the powers conferred by section 2(2) of that Act and sections 28 and 30 of the Small Business, Enterprise and Employment Act 2015 [^c23169231] make the following Order.
 
-A draft of this Order has been laid before and approved by a resolution of each House of Parliament in accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 1972.[^key-f760b29f797a3664cc6f6528fd684d6f]
+A draft of this Order has been laid before and approved by a resolution of each House of Parliament in accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 1972.[^c-f760b29f797a3664cc6f6528fd684d6f]
 
 ## PART 1 — Citation and commencement
 
@@ -1847,7 +1847,7 @@ In the Banking Act 2009 (Exclusion of Investment Firms of a Specified Descriptio
 
 ## PART 6 — Review
 
-### 42. Review[^key-0751dfab48338d87a9a430221bb6c557]
+### 42. Review[^c-0751dfab48338d87a9a430221bb6c557]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1963,7 +1963,7 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^c23169231]: Marginal citation: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-f760b29f797a3664cc6f6528fd684d6f]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-f760b29f797a3664cc6f6528fd684d6f]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^c23169241]: Marginal citation: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1).
 
@@ -2251,4 +2251,4 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^c23170661]: Marginal citation: OJ L173, 12.4.2014, p.84.
 
-[^key-0751dfab48338d87a9a430221bb6c557]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/1239) revoked (14.12.2023 for the revocation of art. 42) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xvi)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xvi)
+[^c-0751dfab48338d87a9a430221bb6c557]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/1239) revoked (14.12.2023 for the revocation of art. 42) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xvi)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xvi)

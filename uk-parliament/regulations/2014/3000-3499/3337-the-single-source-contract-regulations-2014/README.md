@@ -40,7 +40,7 @@ To come into force in accordance with Regulation 1.
 
 A draft of these Regulations has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-The Secretary of State, in exercise of the powers conferred by sections 14(2)(b) and (c), (6) and (8), 15, 16(1), 17(1) and (2), 18(2)(c), (3) and (4), 21, 23(1), (4) and (5), 24(1) to (3) and (4)(a), 25(1), (2), (4) and (6), 27(1) and (3), 28(3)(c) and (d), (4)(c) and (d) and (5), 29, 30(2)(a) and (3) to (5), 31(3)(a) and (b) and (5), 32(5), 33(1) and (6), 35(1), 38, 41, 42(1) and (2), 43(2) of, and paragraph 1(1)(c) of Schedule 5 to, the Defence Reform Act 2014 [^c22306471], makes the following Regulations:[^key-c2d7a42c1402a36900f9898335bd0cee]
+The Secretary of State, in exercise of the powers conferred by sections 14(2)(b) and (c), (6) and (8), 15, 16(1), 17(1) and (2), 18(2)(c), (3) and (4), 21, 23(1), (4) and (5), 24(1) to (3) and (4)(a), 25(1), (2), (4) and (6), 27(1) and (3), 28(3)(c) and (d), (4)(c) and (d) and (5), 29, 30(2)(a) and (3) to (5), 31(3)(a) and (b) and (5), 32(5), 33(1) and (6), 35(1), 38, 41, 42(1) and (2), 43(2) of, and paragraph 1(1)(c) of Schedule 5 to, the Defence Reform Act 2014 [^c22306471], makes the following Regulations:[^c-c2d7a42c1402a36900f9898335bd0cee]
 
 ## Contents
 
@@ -66,12 +66,12 @@ The Secretary of State, in exercise of the powers conferred by sections 14(2)(b)
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — Contract pricing methods[^key-eb6f665700b6e5a2df1f572df10eca06]
+#### Chapter 1 — Contract pricing methods[^c-eb6f665700b6e5a2df1f572df10eca06]
 
 - [Section 9B — Contract pricing methods](part-3/section-9b.md)
 - [Section 9C — Re-determination of contract price](part-3/section-9c.md)
 
-#### Chapter 2 — Default pricing of contracts[^key-222d3130b91494de615021b6dd67a588]
+#### Chapter 2 — Default pricing of contracts[^c-222d3130b91494de615021b6dd67a588]
 
 - [Section 10 — Default pricing of contracts](part-3/section-10.md)
 - [Section 11 — Steps in determining contract profit rate](part-3/section-11.md)
@@ -85,7 +85,7 @@ The Secretary of State, in exercise of the powers conferred by sections 14(2)(b)
 - [Section 18 — Determination of contract profit rate adjustments](part-3/section-18.md)
 - [Section 19 — Determination of allowable costs](part-3/section-19.md)
 
-#### Chapter 3 — Alternative pricing of contracts[^key-034fc8e0c3fd3a42656a30ead6e16a26]
+#### Chapter 3 — Alternative pricing of contracts[^c-034fc8e0c3fd3a42656a30ead6e16a26]
 
 - [Section 19A — Commercial pricing](part-3/section-19a.md)
 - [Section 19B — Prices determined in accordance with law](part-3/section-19b.md)
@@ -219,13 +219,13 @@ Part 11 makes provision for qualifying sub-contracts. Section 30 provides that P
 
 [^c22306471]: Marginal citation: [2014 c. 20](https://www.legislation.gov.uk/ukpga/2014/20).
 
-[^key-c2d7a42c1402a36900f9898335bd0cee]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/3337) continued (16.1.2024) by [The Procurement Act 2023 (Commencement No. 1 and Saving Provision) Regulations 2024 (S.I. 2024/61)](https://www.legislation.gov.uk/uksi/2024/61), [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3)
+[^c-c2d7a42c1402a36900f9898335bd0cee]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/3337) continued (16.1.2024) by [The Procurement Act 2023 (Commencement No. 1 and Saving Provision) Regulations 2024 (S.I. 2024/61)](https://www.legislation.gov.uk/uksi/2024/61), [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3)
 
-[^key-eb6f665700b6e5a2df1f572df10eca06]: Textual amendment: [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2014/3337/part/3/chapter/1) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2024/420/regulation/12)
+[^c-eb6f665700b6e5a2df1f572df10eca06]: Textual amendment: [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2014/3337/part/3/chapter/1) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2024/420/regulation/12)
 
-[^key-222d3130b91494de615021b6dd67a588]: Textual amendment: [Pt. 3 Ch. 2](https://www.legislation.gov.uk/uksi/2014/3337/part/3/chapter/2) heading inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2024/420/regulation/12)
+[^c-222d3130b91494de615021b6dd67a588]: Textual amendment: [Pt. 3 Ch. 2](https://www.legislation.gov.uk/uksi/2014/3337/part/3/chapter/2) heading inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2024/420/regulation/12)
 
-[^key-034fc8e0c3fd3a42656a30ead6e16a26]: Textual amendment: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/uksi/2014/3337/part/3/chapter/3) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2024/420/regulation/24)
+[^c-034fc8e0c3fd3a42656a30ead6e16a26]: Textual amendment: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/uksi/2014/3337/part/3/chapter/3) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2024/420/regulation/24)
 
 [^c22306521]: Marginal citation: https://www.aof.mod.uk/aofcontent/tactical/toolkit/content/topics/sspr.htm - note this requires access to the MOD's Defence Gateway service at
 

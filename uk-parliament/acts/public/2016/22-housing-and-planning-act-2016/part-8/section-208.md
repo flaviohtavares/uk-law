@@ -53,7 +53,7 @@ summary: ''
 - (b) provision specifying information to be included in reports, and
 - (c) provision about their publication.
 
-(10)[^key-d91f167fbdf5545de4a5d6b3e46fa30d] Regulations may not specify a devolved Welsh authority for the purposes of subsection (1).
+(10)[^c-d91f167fbdf5545de4a5d6b3e46fa30d] Regulations may not specify a devolved Welsh authority for the purposes of subsection (1).
 
 (11) Regulations may not specify a public authority for the purposes of subsection (2) unless it is—
 
@@ -66,10 +66,10 @@ summary: ''
 - “**public authority**” means a person with functions of a public nature;
 - “**regulations**” means regulations made by the Secretary of State;
 - “**reporting period**” means the period (not exceeding 12 months) specified by or determined in accordance with regulations.
-- “[^key-2741374db1522827972b70f6bbb82b26]**devolved Welsh authority**” has the same meaning as in the Government of Wales Act 2006 (see section 157A of that Act).
+- “[^c-2741374db1522827972b70f6bbb82b26]**devolved Welsh authority**” has the same meaning as in the Government of Wales Act 2006 (see section 157A of that Act).
 
 ## Annotations
 
-[^key-d91f167fbdf5545de4a5d6b3e46fa30d]: Textual amendment: S. 208(10) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 112(2)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/112/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-d91f167fbdf5545de4a5d6b3e46fa30d]: Textual amendment: S. 208(10) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 112(2)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/112/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
 
-[^key-2741374db1522827972b70f6bbb82b26]: Textual amendment: Words in s. 208(12) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 112(3)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/112/3) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-2741374db1522827972b70f6bbb82b26]: Textual amendment: Words in s. 208(12) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 112(3)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/112/3) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)

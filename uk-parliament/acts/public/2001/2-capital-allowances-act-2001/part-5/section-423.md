@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 423. Sections 421 and 422: amount of disposal value to be brought into account[^key-d09fa3c6765ab6d13d9511a7c79572a6]
+## 423. Sections 421 and 422: amount of disposal value to be brought into account[^c-d09fa3c6765ab6d13d9511a7c79572a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ Disposal value for sections 421 and 422
 | *1. Event* | *2. Disposal value* |
 | --- | --- |
 | 1\. Sale of the asset, except in a case where item 2 applies. | The net proceeds of the sale, together with—<br>(a) any insurance money received in respect of the asset as a result of an event affecting the price obtainable on the sale, and<br>(b) any other compensation of any description so received, so far as it consists of capital sums. |
-| 2\. Sale of the asset where—<br>(a) the sale is at less than market value,<br>(b) there is no charge to tax under ITEPA[^key-edfafecb522d512a2cf194b176636721] 2003, and<br>(c) the condition in subsection (3) is met by the buyer. | The market value of the asset at the time of the sale. |
+| 2\. Sale of the asset where—<br>(a) the sale is at less than market value,<br>(b) there is no charge to tax under ITEPA[^c-edfafecb522d512a2cf194b176636721] 2003, and<br>(c) the condition in subsection (3) is met by the buyer. | The market value of the asset at the time of the sale. |
 | 3\. Demolition or destruction of the asset. | The net amount received for the remains of the asset, together with—<br>(a) any insurance money received in respect of the demolition or destruction, and<br>(b) any other compensation of any description so received, so far as it consists of capital sums. |
 | 4\. Permanent loss of the asset otherwise than as a result of its demolition or destruction. | Any insurance money received in respect of the loss and, so far as it consists of capital sums, any other compensation of any description so received. |
 | 5\. Permanent discontinuance of the trade followed by the occurrence of an event within any of items 1 to 4. | The disposal value for the item in question. |
@@ -44,6 +44,6 @@ Disposal value for sections 421 and 422
 
 ## Annotations
 
-[^key-d09fa3c6765ab6d13d9511a7c79572a6]: Modification: S. 423 excluded (E.W.S.) (8.6.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 10 para. 14(2)(a)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/10/paragraph/14/2/a); [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-d09fa3c6765ab6d13d9511a7c79572a6]: Modification: S. 423 excluded (E.W.S.) (8.6.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 10 para. 14(2)(a)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/10/paragraph/14/2/a); [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-edfafecb522d512a2cf194b176636721]: Textual amendment: Words in s. 423(1) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1) , [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723) , [Sch. 6 para. 254](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/254) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7) )
+[^c-edfafecb522d512a2cf194b176636721]: Textual amendment: Words in s. 423(1) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1) , [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723) , [Sch. 6 para. 254](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/254) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7) )

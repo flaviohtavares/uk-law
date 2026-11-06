@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.2. Application[^key-b506f4b84fc79a94d50dac434385b8f4]
+## 2.2. Application[^c-b506f4b84fc79a94d50dac434385b8f4]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ This Part applies to summary applications.
 
 ## Annotations
 
-[^key-b506f4b84fc79a94d50dac434385b8f4]: Commencement: Rule 2.2 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-b506f4b84fc79a94d50dac434385b8f4]: Commencement: Rule 2.2 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

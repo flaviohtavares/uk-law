@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20A. Transition from jobseeker’s allowance following an extended period of sickness[^key-3d8775c7ec9a116ffc6b1bd199929db3]
+## 20A. Transition from jobseeker’s allowance following an extended period of sickness[^c-3d8775c7ec9a116ffc6b1bd199929db3]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,11 +27,11 @@ summary: ''
 
 (2) Where this regulation applies—
 
-- (a) regulation 28(2) of the Universal Credit Regulations (period for which [^key-ae4e60d78ddf272eb00501d7b6517db3]... LCWRA element is not to be included) does not apply; and
+- (a) regulation 28(2) of the Universal Credit Regulations (period for which [^c-ae4e60d78ddf272eb00501d7b6517db3]... LCWRA element is not to be included) does not apply; and
 - (b) for the purposes of regulation 28 of those Regulations, the relevant period is the period starting with the first day of the period for which the claimant was treated as capable of work or as not having limited capability for work as specified in paragraph (1)(b).
 
 ## Annotations
 
-[^key-3d8775c7ec9a116ffc6b1bd199929db3]: Textual amendment: Reg. 20A inserted (30.3.2015) by [The Jobseeker's Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [6](https://www.legislation.gov.uk/uksi/2015/339/regulation/6)
+[^c-3d8775c7ec9a116ffc6b1bd199929db3]: Textual amendment: Reg. 20A inserted (30.3.2015) by [The Jobseeker's Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [6](https://www.legislation.gov.uk/uksi/2015/339/regulation/6)
 
-[^key-ae4e60d78ddf272eb00501d7b6517db3]: Textual amendment: Words in reg. 20A(2)(a) omitted (3.4.2017) by virtue of [The Employment and Support Allowance and Universal Credit (Miscellaneous Amendments and Transitional and Savings Provisions) Regulations 2017 (S.I. 2017/204)](https://www.legislation.gov.uk/uksi/2017/204), [regs. 1](https://www.legislation.gov.uk/uksi/2017/204/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2017/204/regulation/5/4) (with [Sch. 2 paras. 8-15](https://www.legislation.gov.uk/uksi/2017/204/schedule/2/paragraph/8))
+[^c-ae4e60d78ddf272eb00501d7b6517db3]: Textual amendment: Words in reg. 20A(2)(a) omitted (3.4.2017) by virtue of [The Employment and Support Allowance and Universal Credit (Miscellaneous Amendments and Transitional and Savings Provisions) Regulations 2017 (S.I. 2017/204)](https://www.legislation.gov.uk/uksi/2017/204), [regs. 1](https://www.legislation.gov.uk/uksi/2017/204/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2017/204/regulation/5/4) (with [Sch. 2 paras. 8-15](https://www.legislation.gov.uk/uksi/2017/204/schedule/2/paragraph/8))

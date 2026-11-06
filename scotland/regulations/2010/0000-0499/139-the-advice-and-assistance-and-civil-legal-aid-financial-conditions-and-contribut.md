@@ -32,7 +32,7 @@ summary: ''
 
 Legal Aid And Advice
 
-The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2010 (revoked)[^key-45686e0ccbdec3bf37ed8c15906569ef]
+The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2010 (revoked)[^c-45686e0ccbdec3bf37ed8c15906569ef]
 
 Made
 
@@ -42,44 +42,44 @@ Coming into force
 
 12th April 2010
 
-[^key-45686e0ccbdec3bf37ed8c15906569ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45686e0ccbdec3bf37ed8c15906569ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-45686e0ccbdec3bf37ed8c15906569ef]
+## 1. Citation, commencement and interpretation[^c-45686e0ccbdec3bf37ed8c15906569ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-45686e0ccbdec3bf37ed8c15906569ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-45686e0ccbdec3bf37ed8c15906569ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-45686e0ccbdec3bf37ed8c15906569ef]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Amendment of the Act[^key-45686e0ccbdec3bf37ed8c15906569ef]
+## 3. Application[^c-45686e0ccbdec3bf37ed8c15906569ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Liability to contribute to the Fund under section 17(2)(a) of the Act[^key-45686e0ccbdec3bf37ed8c15906569ef]
+## 4. Amendment of the Act[^c-45686e0ccbdec3bf37ed8c15906569ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Liability to pay fees or outlays under section 11(2) of the Act[^key-45686e0ccbdec3bf37ed8c15906569ef]
+## 5. Liability to contribute to the Fund under section 17(2)(a) of the Act[^c-45686e0ccbdec3bf37ed8c15906569ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-45686e0ccbdec3bf37ed8c15906569ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 8. Revocation[^key-45686e0ccbdec3bf37ed8c15906569ef]
+## 6. Liability to pay fees or outlays under section 11(2) of the Act[^c-45686e0ccbdec3bf37ed8c15906569ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-45686e0ccbdec3bf37ed8c15906569ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-45686e0ccbdec3bf37ed8c15906569ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Revocation[^c-45686e0ccbdec3bf37ed8c15906569ef]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-45686e0ccbdec3bf37ed8c15906569ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-45686e0ccbdec3bf37ed8c15906569ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45686e0ccbdec3bf37ed8c15906569ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-45686e0ccbdec3bf37ed8c15906569ef]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/139) revoked (11.4.2011) by [The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2011 (S.S.I. 2011/217)](https://www.legislation.gov.uk/ssi/2011/217), [regs. 1](https://www.legislation.gov.uk/ssi/2011/217/regulation/1), [9(1)](https://www.legislation.gov.uk/ssi/2011/217/regulation/9/1) (with [reg. 9(2)](https://www.legislation.gov.uk/ssi/2011/217/regulation/9/2))
+[^c-45686e0ccbdec3bf37ed8c15906569ef]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/139) revoked (11.4.2011) by [The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2011 (S.S.I. 2011/217)](https://www.legislation.gov.uk/ssi/2011/217), [regs. 1](https://www.legislation.gov.uk/ssi/2011/217/regulation/1), [9(1)](https://www.legislation.gov.uk/ssi/2011/217/regulation/9/1) (with [reg. 9(2)](https://www.legislation.gov.uk/ssi/2011/217/regulation/9/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131C. Wrongful disclosure[^key-3443ddade7f049f145f778ec7d0d74a1]
+## 131C. Wrongful disclosure[^c-3443ddade7f049f145f778ec7d0d74a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,19 +42,19 @@ summary: ''
 - (a) may be brought in England and Wales only with the consent of the Director of Public Prosecutions;
 - (b) may be brought in Northern Ireland only with the consent of the Director of Public Prosecutions for Northern Ireland.
 
-(5A)[^key-fc93a3fd966cd55b359483991b149252] In the application of this section in England and Wales the reference in subsection (4)(b) to twelve months is to be read as a reference to the general limit in a magistrates’ court (or in relation to an offence committed before 2 May 2022, to six months).
+(5A)[^c-fc93a3fd966cd55b359483991b149252] In the application of this section in England and Wales the reference in subsection (4)(b) to twelve months is to be read as a reference to the general limit in a magistrates’ court (or in relation to an offence committed before 2 May 2022, to six months).
 
 (6) In the application of this section—
 
-- (a)[^key-b594eb7885f64879b56000d38b5461d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b594eb7885f64879b56000d38b5461d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in Northern Ireland,
 
 the reference in subsection (4)(b) to twelve months is to be read as a reference to six months.
 
 ## Annotations
 
-[^key-3443ddade7f049f145f778ec7d0d74a1]: Textual amendment: Ss. 131A-131C inserted (26.1.2009) by [Climate Change Act 2008 (c. 27)](https://www.legislation.gov.uk/ukpga/2008/27), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2008/27/section/100/5), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2008/27/schedule/7/paragraph/6)
+[^c-3443ddade7f049f145f778ec7d0d74a1]: Textual amendment: Ss. 131A-131C inserted (26.1.2009) by [Climate Change Act 2008 (c. 27)](https://www.legislation.gov.uk/ukpga/2008/27), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2008/27/section/100/5), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2008/27/schedule/7/paragraph/6)
 
-[^key-fc93a3fd966cd55b359483991b149252]: Textual amendment: [S. 131C(5A)](https://www.legislation.gov.uk/ukpga/2004/20/section/131C/5A) inserted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/11/2)
+[^c-fc93a3fd966cd55b359483991b149252]: Textual amendment: [S. 131C(5A)](https://www.legislation.gov.uk/ukpga/2004/20/section/131C/5A) inserted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/11/2)
 
-[^key-b594eb7885f64879b56000d38b5461d9]: Textual amendment: [S. 131C(6)(a)](https://www.legislation.gov.uk/ukpga/2004/20/section/131C/6/a) omitted (7.2.2023 at 12.00 p.m.) by virtue of [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2023/149/regulation/11/3)
+[^c-b594eb7885f64879b56000d38b5461d9]: Textual amendment: [S. 131C(6)(a)](https://www.legislation.gov.uk/ukpga/2004/20/section/131C/6/a) omitted (7.2.2023 at 12.00 p.m.) by virtue of [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2023/149/regulation/11/3)

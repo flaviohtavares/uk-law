@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Remuneration of teaching staff.[^key-5ca90e107dfc0a7a0c5bfb16c2ecd1f7]
+## 14. Remuneration of teaching staff.[^c-5ca90e107dfc0a7a0c5bfb16c2ecd1f7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ca90e107dfc0a7a0c5bfb16c2ecd1f7]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/1981/58/section/14) repealed (31.12.2004) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [Sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)
+[^c-5ca90e107dfc0a7a0c5bfb16c2ecd1f7]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/1981/58/section/14) repealed (31.12.2004) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [Sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)

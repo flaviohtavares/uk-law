@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. UK national accreditation body[^M_E_4d5a894f-03c1-4454-ec16-f346d732a95f][^key-6b0a91f0fbfd2f7a675ec012ad9a4534]
+## 54. UK national accreditation body[^M_E_4d5a894f-03c1-4454-ec16-f346d732a95f][^c-6b0a91f0fbfd2f7a675ec012ad9a4534]
 
 *Extent: E+W+S*
 
@@ -42,7 +42,7 @@ summary: ''
 - (a) give notice in writing that the Secretary of State intends to take such action and the reasons for taking such action; and
 - (b) give the notified body an opportunity to make representations within a reasonable period from the date of that notice and consider any such representations.
 
-(5) Where the Secretary of State takes action under paragraph (1) or (2), the Secretary of State must immediately inform the Commission and the other relevant[^key-7c0747b120888d3d15dbc08b9097e8f1] states.
+(5) Where the Secretary of State takes action under paragraph (1) or (2), the Secretary of State must immediately inform the Commission and the other relevant[^c-7c0747b120888d3d15dbc08b9097e8f1] states.
 
 (6) Where the Secretary of State has taken action in respect of a notified body under paragraph (1) or (2), or where a notified body has ceased its activity, the body must—
 
@@ -57,8 +57,8 @@ summary: ''
 
 [^M_E_4d5a894f-03c1-4454-ec16-f346d732a95f]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-6b0a91f0fbfd2f7a675ec012ad9a4534]: Textual amendment: Pt. 5 substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 26 para. 32](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/32) (with [Sch. 26 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/5)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2); [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 paras. 1(o)(v)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/o/v), [(vi)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/o/vi)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6b0a91f0fbfd2f7a675ec012ad9a4534]: Textual amendment: Pt. 5 substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 26 para. 32](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/32) (with [Sch. 26 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/5)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2); [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 paras. 1(o)(v)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/o/v), [(vi)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/o/vi)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_0a62254d-885f-4d75-9143-f6fab1cae612]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-7c0747b120888d3d15dbc08b9097e8f1]: Textual amendment: Word in [reg. 54(5)](https://www.legislation.gov.uk/uksi/2016/1152/regulation/54/5) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 13 para. 5(3)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/13/paragraph/5/3)
+[^c-7c0747b120888d3d15dbc08b9097e8f1]: Textual amendment: Word in [reg. 54(5)](https://www.legislation.gov.uk/uksi/2016/1152/regulation/54/5) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 13 para. 5(3)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/13/paragraph/5/3)

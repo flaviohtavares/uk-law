@@ -46,22 +46,22 @@ Coming into force
 
 The Lord Chancellor, in exercise of the powers conferred by sections 58(3)(b) and (4) and 65(1)(b) of the Mental Capacity Act 2005[^f00001], makes the following Regulations:
 
-## 1. Citation and commencement[^key-4ad1e55f343f2da584c96a2974512d6c]
+## 1. Citation and commencement[^c-4ad1e55f343f2da584c96a2974512d6c]
 
 These Regulations may be cited as the Public Guardian (Fees, etc.) (Amendment) Regulations 2010 and shall come into force on 1st May 2010.
 
-## 2. Amendments to the Public Guardian (Fees, etc.) Regulations 2007[^key-b44e6d948c153f5862274517eb78e43a]
+## 2. Amendments to the Public Guardian (Fees, etc.) Regulations 2007[^c-b44e6d948c153f5862274517eb78e43a]
 
 The Public Guardian (Fees, etc.) Regulations 2007[^f00002] are amended in accordance with regulation 3.
 
-**3.**[^key-c0051ed945d895f3b819653904fc2b06] In regulation 10 (reductions and remissions in exceptional circumstances)—
+**3.**[^c-c0051ed945d895f3b819653904fc2b06] In regulation 10 (reductions and remissions in exceptional circumstances)—
 
 - (a) before “Where it appears” insert “(1)”; and
 - (b) at the end, insert—
 
   > (2) An application for the reduction or remission of any fee paid under regulation 8 (appointment of deputy: supervision fees) must be made to the Public Guardian within 6 months after the date of the invoice in respect of that fee.
 
-## 4. Transitional provision[^key-cbb53fe1f1954d624aa2667b0c36bef0]
+## 4. Transitional provision[^c-cbb53fe1f1954d624aa2667b0c36bef0]
 
 These Regulations apply to applications for the reduction or remission of a fee, the invoice for which is dated 1st May 2010 or later.
 
@@ -85,12 +85,12 @@ These Regulations amend the Public Guardian (Fees. etc.) Regulations 2007 ([SI 2
 
 [^f00001]: Footnote: [2005, c.9](https://www.legislation.gov.uk/ukpga/2005/9). Section 65 was amended by the Mental Health Act 2007, section 50(7) and Schedule 9, Part 1, paragraphs 1 and 11, and by [SI 2006/1016](https://www.legislation.gov.uk/uksi/2006/1016), article 2 and Schedule 1, paragraph 37.
 
-[^key-4ad1e55f343f2da584c96a2974512d6c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/1062/regulation/1) in force at 1.5.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1062/regulation/1)
+[^c-4ad1e55f343f2da584c96a2974512d6c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/1062/regulation/1) in force at 1.5.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1062/regulation/1)
 
-[^key-b44e6d948c153f5862274517eb78e43a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/1062/regulation/2) in force at 1.5.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1062/regulation/1)
+[^c-b44e6d948c153f5862274517eb78e43a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/1062/regulation/2) in force at 1.5.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1062/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2007/2051](https://www.legislation.gov.uk/uksi/2007/2051), to which there are amendments not relevant to these Regulations.
 
-[^key-c0051ed945d895f3b819653904fc2b06]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/1062/regulation/3) in force at 1.5.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1062/regulation/1)
+[^c-c0051ed945d895f3b819653904fc2b06]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/1062/regulation/3) in force at 1.5.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1062/regulation/1)
 
-[^key-cbb53fe1f1954d624aa2667b0c36bef0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/1062/regulation/4) in force at 1.5.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1062/regulation/1)
+[^c-cbb53fe1f1954d624aa2667b0c36bef0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/1062/regulation/4) in force at 1.5.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1062/regulation/1)

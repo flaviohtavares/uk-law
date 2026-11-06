@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Registration fees[^key-f5234e58af193f9040ac36de53a20bda]
+## 24. Registration fees[^c-f5234e58af193f9040ac36de53a20bda]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5234e58af193f9040ac36de53a20bda]: Textual amendment: Pt. 1 repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 14 para. 37](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/37); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule) (with savings and transitional provisions in [S.S.I. 2011/121](https://www.legislation.gov.uk/ssi/2011/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/121/article/1/1), [15-21](https://www.legislation.gov.uk/ssi/2011/121/article/15) and [S.S.I. 2011/169](https://www.legislation.gov.uk/ssi/2011/169), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/169/article/1/1), [2](https://www.legislation.gov.uk/ssi/2011/169/article/2), [3](https://www.legislation.gov.uk/ssi/2011/169/article/3))
+[^c-f5234e58af193f9040ac36de53a20bda]: Textual amendment: Pt. 1 repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 14 para. 37](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/37); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule) (with savings and transitional provisions in [S.S.I. 2011/121](https://www.legislation.gov.uk/ssi/2011/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/121/article/1/1), [15-21](https://www.legislation.gov.uk/ssi/2011/121/article/15) and [S.S.I. 2011/169](https://www.legislation.gov.uk/ssi/2011/169), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/169/article/1/1), [2](https://www.legislation.gov.uk/ssi/2011/169/article/2), [3](https://www.legislation.gov.uk/ssi/2011/169/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.12. Verification of petition[^key-562daf2a6e4ad36b71c7f705f2b0601b]
+## 6.12. Verification of petition[^c-562daf2a6e4ad36b71c7f705f2b0601b]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-562daf2a6e4ad36b71c7f705f2b0601b]: Commencement: [Rule 6.12](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.12) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-562daf2a6e4ad36b71c7f705f2b0601b]: Commencement: [Rule 6.12](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.12) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00128]: Marginal citation: \[FORM 6.13\]

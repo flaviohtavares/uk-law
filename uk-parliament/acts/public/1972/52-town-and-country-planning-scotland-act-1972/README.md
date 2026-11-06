@@ -25,11 +25,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-153c879c0f92d7e667b7a6e19906bbd4]Town and Country Planning (Scotland) Act 1972 [^c14911591](repealed 27.5.1997)
+[^c-153c879c0f92d7e667b7a6e19906bbd4]Town and Country Planning (Scotland) Act 1972 [^c14911591](repealed 27.5.1997)
 
 1972 c. 52
 
-[^key-153c879c0f92d7e667b7a6e19906bbd4][^key-27dd9a2c5fbf628c4c6608b5239b629b]
+[^c-153c879c0f92d7e667b7a6e19906bbd4][^c-27dd9a2c5fbf628c4c6608b5239b629b]
 
 ## Contents
 
@@ -974,11 +974,11 @@ SCHEDULES
 
 ## Annotations
 
-[^key-153c879c0f92d7e667b7a6e19906bbd4]: Modification: Act applied (with modifications) (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/4/paragraph/9/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-153c879c0f92d7e667b7a6e19906bbd4]: Modification: Act applied (with modifications) (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/4/paragraph/9/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c14911591]: Textual amendment: Act repealed (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 3](https://www.legislation.gov.uk/ukpga/1997/11/section/3), [6(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1997/11/schedule/1/part/I) (with [s. 5](https://www.legislation.gov.uk/ukpga/1997/11/section/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/11/schedule/3))
 
-[^key-27dd9a2c5fbf628c4c6608b5239b629b]: Modification: Act applied (with modifications) by S.I. 1984/467, reg. 26A (as inserted (30.6.2014) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/139)](https://www.legislation.gov.uk/ssi/2014/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/139/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2014/139/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/139/regulation/3)))
+[^c-27dd9a2c5fbf628c4c6608b5239b629b]: Modification: Act applied (with modifications) by S.I. 1984/467, reg. 26A (as inserted (30.6.2014) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/139)](https://www.legislation.gov.uk/ssi/2014/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/139/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2014/139/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/139/regulation/3)))
 
 [^c14911801]: Modification: [Pt. II](https://www.legislation.gov.uk/ukpga/1972/52/part/II) amended by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [s. 174(1)](https://www.legislation.gov.uk/ukpga/1973/65/section/174/1)
 

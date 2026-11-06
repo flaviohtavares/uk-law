@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9B. Modification of the Landfill Directive[^key-d0abcf56d4bb11c7ff3bed246d3cdaab]
+## 9B. Modification of the Landfill Directive[^c-d0abcf56d4bb11c7ff3bed246d3cdaab]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0abcf56d4bb11c7ff3bed246d3cdaab]: Textual amendment: [Regs. 9A-9E](https://www.legislation.gov.uk/nisr/2011/127/regulation/9A) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/271)](https://www.legislation.gov.uk/uksi/2019/271), [regs. 1](https://www.legislation.gov.uk/uksi/2019/271/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/271/regulation/5/3) (as amended by [S.I. 2019/1443](https://www.legislation.gov.uk/uksi/2019/1443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1443/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/1443/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) and [S.R. 2020/284](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2020/284/regulation/4/2)[(5)](https://www.legislation.gov.uk/nisr/2020/284/regulation/4/5))
+[^c-d0abcf56d4bb11c7ff3bed246d3cdaab]: Textual amendment: [Regs. 9A-9E](https://www.legislation.gov.uk/nisr/2011/127/regulation/9A) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/271)](https://www.legislation.gov.uk/uksi/2019/271), [regs. 1](https://www.legislation.gov.uk/uksi/2019/271/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/271/regulation/5/3) (as amended by [S.I. 2019/1443](https://www.legislation.gov.uk/uksi/2019/1443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1443/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/1443/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) and [S.R. 2020/284](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2020/284/regulation/4/2)[(5)](https://www.legislation.gov.uk/nisr/2020/284/regulation/4/5))

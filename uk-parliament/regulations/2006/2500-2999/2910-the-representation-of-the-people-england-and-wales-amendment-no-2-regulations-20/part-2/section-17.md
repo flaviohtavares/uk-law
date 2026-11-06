@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Information about register: anonymous entries[^key-d303f00a59c073931bc26f3306a04e84]
+## 17. Information about register: anonymous entries[^c-d303f00a59c073931bc26f3306a04e84]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d303f00a59c073931bc26f3306a04e84]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2006/2910/regulation/17) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-d303f00a59c073931bc26f3306a04e84]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2006/2910/regulation/17) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

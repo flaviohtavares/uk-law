@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Division of undertakings of companies formed under section 59.[^key-cf88b4f7085512c2446c4376b137e07c][^key-27890099608df53aa49f7782fbd18013][^key-27890099608df53aa49f7782fbd18013]
+## 61. Division of undertakings of companies formed under section 59.[^c-cf88b4f7085512c2446c4376b137e07c][^c-27890099608df53aa49f7782fbd18013][^c-27890099608df53aa49f7782fbd18013]
 
 *Extent: E+W+S*
 
@@ -62,9 +62,9 @@ which are to be transferred in accordance with those proposals or (as the case m
 
 ## Annotations
 
-[^key-cf88b4f7085512c2446c4376b137e07c]: Modification: [Ss. 57-62](https://www.legislation.gov.uk/ukpga/1985/67/section/57): functions transferred (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/2) (with [reg. 14(3)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/3))
+[^c-cf88b4f7085512c2446c4376b137e07c]: Modification: [Ss. 57-62](https://www.legislation.gov.uk/ukpga/1985/67/section/57): functions transferred (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/2) (with [reg. 14(3)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/3))
 
-[^key-27890099608df53aa49f7782fbd18013]: Modification: Pt. 4: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
+[^c-27890099608df53aa49f7782fbd18013]: Modification: Pt. 4: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
 
 [^c10878601]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 

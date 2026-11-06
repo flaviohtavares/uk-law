@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Maintenance of privileges of certificates and ratings included in a National Private Pilot’s Licence or Light Aircraft Pilot’s Licence[^key-6008416a659736703c3467f2655cc046]
+## 157. Maintenance of privileges of certificates and ratings included in a National Private Pilot’s Licence or Light Aircraft Pilot’s Licence[^c-6008416a659736703c3467f2655cc046]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6008416a659736703c3467f2655cc046]: Textual amendment: [Art. 157](https://www.legislation.gov.uk/uksi/2016/765/article/157) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [11](https://www.legislation.gov.uk/uksi/2025/850/article/11)
+[^c-6008416a659736703c3467f2655cc046]: Textual amendment: [Art. 157](https://www.legislation.gov.uk/uksi/2016/765/article/157) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [11](https://www.legislation.gov.uk/uksi/2025/850/article/11)

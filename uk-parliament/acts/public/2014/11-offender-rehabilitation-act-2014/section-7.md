@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Minor and consequential provision[^key-a5915790dd95c43d174d3788dbf17120]
+## 7. Minor and consequential provision[^c-a5915790dd95c43d174d3788dbf17120]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5915790dd95c43d174d3788dbf17120]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/11/section/7) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(g)](https://www.legislation.gov.uk/uksi/2015/40/article/2/g)
+[^c-a5915790dd95c43d174d3788dbf17120]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/11/section/7) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(g)](https://www.legislation.gov.uk/uksi/2015/40/article/2/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45G. Power to suspend or vary a broker’s registration or remove a broker from the register[^key-31ae2902cc1b5a0d21f7d2c465d40556]
+## 45G. Power to suspend or vary a broker’s registration or remove a broker from the register[^c-31ae2902cc1b5a0d21f7d2c465d40556]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31ae2902cc1b5a0d21f7d2c465d40556]: Textual amendment: Pt. 3 Chs. 3, 4 inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2013/1855/regulation/16)
+[^c-31ae2902cc1b5a0d21f7d2c465d40556]: Textual amendment: Pt. 3 Chs. 3, 4 inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2013/1855/regulation/16)

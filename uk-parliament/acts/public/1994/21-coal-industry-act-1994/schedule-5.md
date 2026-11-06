@@ -34,7 +34,7 @@ Section 22.
 - “**pension obligation**” means any present, future or contingent obligation to make a payment which is an obligation to which pension rights of the person to whom it is owed give rise;
 - “**pension rights**”, in relation to any person, includes all forms of right to or eligibility for the present or future payment of a pension to or in respect of that person and any right of allocation in respect of the present or future payment of a pension;
 - “**prescribed**” means prescribed by regulations made by the Secretary of State;
-- “**the relevant enactments**” means Part 4 of the Finance Act 2004 (pension schemes[^key-c841c0ce2fe151c5cd2fe9ed65bf6002] etc) and Part III of the [^c10940921]Pension Schemes Act 1993 (so far as relating to occupational pension schemes within the meaning of that Act).
+- “**the relevant enactments**” means Part 4 of the Finance Act 2004 (pension schemes[^c-c841c0ce2fe151c5cd2fe9ed65bf6002] etc) and Part III of the [^c10940921]Pension Schemes Act 1993 (so far as relating to occupational pension schemes within the meaning of that Act).
 
 (2) References in this Schedule to a scheme being approved for the purposes of Part III of the [^c10940931]Pension Schemes Act 1993 are references to its being included in a contracting-out certificate having effect for the purposes of that Part of that Act.
 
@@ -56,7 +56,7 @@ Section 22.
 - (f) for the apportionment and allocation to particular rights and liabilities of assets of the existing scheme and for the transfer of assets to other schemes in connection with any provision made by virtue of this Schedule;
 - (g) for restricting the persons who are to be able on and after the restructuring date to become participants in the existing scheme;
 - (h) for enabling expenses incurred in or in connection with the management or other administration of the existing scheme to be met out of the assets of the scheme;
-- (i) for securing that the existing scheme continues to be registered or[^key-d5b41b22c1c35d0d19607c3037efd217] approved for the purposes of the relevant enactments;
+- (i) for securing that the existing scheme continues to be registered or[^c-d5b41b22c1c35d0d19607c3037efd217] approved for the purposes of the relevant enactments;
 - (j) for enabling the existing scheme to be wound up (in whole or in part) in such circumstances as may be prescribed.
 
 (4) The modifications of an existing scheme that may be made by regulations under this paragraph shall include modifications making such provision as the Secretary of State considers appropriate for cases where either—
@@ -155,7 +155,7 @@ and a person whose employment is affected by a company’s having ceased to be a
 (7) The purposes mentioned in sub-paragraph (6) above are the purposes of securing—
 
 - (a) that no person is able to participate in the new scheme as an employee unless he is a person falling within sub-paragraph (8) below;
-- (b) that the new scheme is and continues to be registered or[^key-511607772a615400133b2419a42cf972] approved for the purposes of the relevant enactments;
+- (b) that the new scheme is and continues to be registered or[^c-511607772a615400133b2419a42cf972] approved for the purposes of the relevant enactments;
 - (c) that the new scheme provides benefits to and in respect of participants in the new scheme which are no less advantageous than the benefits falling to be provided under the previous scheme as at the time immediately before the restructuring date; and
 - (d) that the pension rights under the previous scheme of any person who becomes a participant in the new scheme in respect of any employment are capable, at that person’s option, of being transferred so as to become rights under the new scheme.
 
@@ -182,7 +182,7 @@ and a person whose employment is affected by a company’s having ceased to be a
 - (b) that no person entitled to protection in relation to a scheme to which this paragraph applies is prevented from continuing to participate in or acquire pension rights under the scheme by reason of any change of employer which does not affect his continuity of employment; and
 - (c) that no person entitled to protection in relation to a scheme to which this paragraph applies is prevented (in a case not falling within paragraph (b) above) from continuing to participate in or acquire pension rights under the scheme by reason of his having entered the employment of an employer who—
   - (i) opts to allow that person to continue, in respect of his employment with that employer, as a participant in that scheme; and
-  - (ii) is able to exercise that option without the scheme ceasing to be registered or[^key-0bf097f7b9c4a5d1ac60bf4cab3449a8] approved for the purposes of the relevant enactments.
+  - (ii) is able to exercise that option without the scheme ceasing to be registered or[^c-0bf097f7b9c4a5d1ac60bf4cab3449a8] approved for the purposes of the relevant enactments.
 
 (3) Regulations under this paragraph may make provision for securing that a person entitled to protection in relation to a scheme to which this paragraph applies who—
 
@@ -269,16 +269,16 @@ in a worse position than he or it would have been in if the regulations had been
 
 ## Annotations
 
-[^key-c841c0ce2fe151c5cd2fe9ed65bf6002]: Textual amendment: Words in [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/5/paragraph/1/1) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [9(a)](https://www.legislation.gov.uk/uksi/2006/745/article/9/a)
+[^c-c841c0ce2fe151c5cd2fe9ed65bf6002]: Textual amendment: Words in [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/5/paragraph/1/1) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [9(a)](https://www.legislation.gov.uk/uksi/2006/745/article/9/a)
 
 [^c10940921]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
 [^c10940931]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-d5b41b22c1c35d0d19607c3037efd217]: Textual amendment: Words in [Sch. 5 para. 2(3)(i)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/5/paragraph/2/3/i) inserted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [9(b)](https://www.legislation.gov.uk/uksi/2006/745/article/9/b)
+[^c-d5b41b22c1c35d0d19607c3037efd217]: Textual amendment: Words in [Sch. 5 para. 2(3)(i)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/5/paragraph/2/3/i) inserted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [9(b)](https://www.legislation.gov.uk/uksi/2006/745/article/9/b)
 
-[^key-511607772a615400133b2419a42cf972]: Textual amendment: Words in [Sch. 5 para. 3(7)(b)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/5/paragraph/3/7/b) inserted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [9(b)](https://www.legislation.gov.uk/uksi/2006/745/article/9/b)
+[^c-511607772a615400133b2419a42cf972]: Textual amendment: Words in [Sch. 5 para. 3(7)(b)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/5/paragraph/3/7/b) inserted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [9(b)](https://www.legislation.gov.uk/uksi/2006/745/article/9/b)
 
-[^key-0bf097f7b9c4a5d1ac60bf4cab3449a8]: Textual amendment: Words in [Sch. 5 para. 4(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/5/paragraph/4/2/c/ii) inserted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [9(b)](https://www.legislation.gov.uk/uksi/2006/745/article/9/b)
+[^c-0bf097f7b9c4a5d1ac60bf4cab3449a8]: Textual amendment: Words in [Sch. 5 para. 4(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/5/paragraph/4/2/c/ii) inserted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [9(b)](https://www.legislation.gov.uk/uksi/2006/745/article/9/b)
 
 [^c10940951]: Textual amendment: Words in Sch. 5 para. 4(11) substituted (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 240](https://www.legislation.gov.uk/ukpga/1996/18/section/240), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 1 para. 64](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1/paragraph/64).

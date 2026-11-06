@@ -46,11 +46,11 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-79bb952b1d32a3d3c68cd49ff05e46d4]
+### 1. Citation and commencement[^c-79bb952b1d32a3d3c68cd49ff05e46d4]
 
 These Regulations may be cited as the Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations (Northern Ireland) 2024 and shall come into operation on 6th April 2024.
 
-### 2. Interpretation[^key-71f18db74b503e4f2bb54ee86133bdb9]
+### 2. Interpretation[^c-71f18db74b503e4f2bb54ee86133bdb9]
 
 (1) In these Regulations—
 
@@ -74,7 +74,7 @@ These Regulations may be cited as the Occupational Pension Schemes (Funding and 
 
 ## PART 2 — FUNDING AND INVESTMENT STRATEGY
 
-### 3. Scheme maturity[^key-d7b3fb538a5f6cedf686c7f6d19dc0bb]
+### 3. Scheme maturity[^c-d7b3fb538a5f6cedf686c7f6d19dc0bb]
 
 (1) For the purposes of these Regulations—
 
@@ -89,11 +89,11 @@ These Regulations may be cited as the Occupational Pension Schemes (Funding and 
 
 (5) In determining the future maturity of a scheme, the trustees or managers of the scheme may take into consideration whether new members may be admitted to the scheme and the future accrual of benefits provided that such assumptions are reasonable and based on an assessment of the financial ability of the employer, in relation to its legal obligations to the scheme, to support the scheme, as assessed by considering the matters set out in regulation 6(4).
 
-### 4. Low dependency investment allocation[^key-9807a40b62dc70bc148672e087e70384]
+### 4. Low dependency investment allocation[^c-9807a40b62dc70bc148672e087e70384]
 
 Low dependency investment allocation means the assets of a scheme are invested in such a way that the value of the assets relative to the value of the scheme’s liabilities is highly resilient to short-term adverse changes in market conditions so that further employer contributions are not expected to be required to make provision for the scheme’s liabilities.
 
-### 5. Low dependency funding basis[^key-c6bb3bb6916031c25d4f6693d0b864fa]
+### 5. Low dependency funding basis[^c-c6bb3bb6916031c25d4f6693d0b864fa]
 
 (1) For the purposes of these Regulations, the liabilities of a scheme are calculated on a low dependency funding basis where they are calculated using actuarial assumptions which comply with the requirement in paragraph (2).
 
@@ -104,7 +104,7 @@ Low dependency investment allocation means the assets of a scheme are invested i
 - (a) the funding level[^f00004] of S is 1:1, on a calculation of the liabilities of S which uses those actuarial assumptions, and
 - (b) the assets of S are invested in accordance with a low dependency investment allocation.
 
-### 6. Strength of the employer covenant[^key-b7973285fb53d6b7608ea5f81f16d6ff]
+### 6. Strength of the employer covenant[^c-b7973285fb53d6b7608ea5f81f16d6ff]
 
 (1) For the purposes of these Regulations, the strength of the employer covenant has the meaning given in paragraph (2) and is assessed in accordance with paragraphs (3) to (6).
 
@@ -133,7 +133,7 @@ Low dependency investment allocation means the assets of a scheme are invested i
 
 (6) Where an assessment of the strength of the employer covenant is being carried out for the purposes of a determination, review or revision of a funding and investment strategy, or the subsequent preparation, review or revision of a statement of strategy setting out that funding and investment strategy, the actuary’s estimates referred to in paragraph (5) are the estimates set out in the actuarial valuation to which the funding and investment strategy relates.
 
-### 7. Relevant date[^key-7fc320332bd67bdffa95d65a768f6288]
+### 7. Relevant date[^c-7fc320332bd67bdffa95d65a768f6288]
 
 (1) For the purposes of Article 200A(3)(b) (funding and investment strategy), the trustees or managers of the scheme must set, and from time to time review and revise, a date (the “relevant date”) in accordance with this regulation.
 
@@ -167,7 +167,7 @@ Low dependency investment allocation means the assets of a scheme are invested i
   - (ii) where the funding and investment strategy is being reviewed or revised in a case set out in regulation 12(2)(d), the actuarial valuation specified in the direction or, if no such actuarial valuation is specified, the most recent actuarial valuation, or
   - (iii) where the funding and investment strategy is being reviewed or revised in any other case, the most recent actuarial valuation.
 
-### 8. Actuarial methods and assumptions for purposes of funding level[^key-f766cc25287bd70cade42cf55a5d4e0f]
+### 8. Actuarial methods and assumptions for purposes of funding level[^c-f766cc25287bd70cade42cf55a5d4e0f]
 
 (1) In specifying the funding level they intend the scheme to have achieved as at the relevant date, the trustees or managers of the scheme must follow the requirements in paragraph (2).
 
@@ -178,7 +178,7 @@ Low dependency investment allocation means the assets of a scheme are invested i
 
 (3) Subject to paragraphs (1) and (2), it is for the trustees or managers of a scheme to determine which methods and assumptions are to be used in specifying the funding level they intend the scheme to have achieved as at the relevant date.
 
-### 9. Consistency of assumptions[^key-78226af3d638f7a25db932966618ff98]
+### 9. Consistency of assumptions[^c-78226af3d638f7a25db932966618ff98]
 
 Where the trustees or managers of a scheme are required to use actuarial assumptions to determine or revise a scheme’s funding and investment strategy—
 
@@ -187,11 +187,11 @@ Where the trustees or managers of a scheme are required to use actuarial assumpt
   - (i) in relation to the economic assumptions, the same methodology for calculating those assumptions as is used in paragraph (a), and
   - (ii) in relation to all other assumptions, the same set of assumptions as are used in paragraph (a).
 
-### 10. Matters and principles[^key-dfd9101ff69e35dbe95ce471bfe2ef79]
+### 10. Matters and principles[^c-dfd9101ff69e35dbe95ce471bfe2ef79]
 
 For the purposes of Article 200A(4)(a) (funding and investment strategy), Schedule 1 sets out matters the trustees or managers of a scheme must take into account, and principles they must follow, in determining or revising the scheme’s funding and investment strategy.
 
-### 11. Funding and investment strategy – level of detail[^key-62b58903b4a6892c4b09044bd4079e0a]
+### 11. Funding and investment strategy – level of detail[^c-62b58903b4a6892c4b09044bd4079e0a]
 
 For the purposes of Article 200A(4)(b) (funding and investment strategy), the funding and investment strategy must specify—
 
@@ -206,7 +206,7 @@ For the purposes of Article 200A(4)(b) (funding and investment strategy), the fu
 - (f) how the trustees or managers of the scheme expect the discount rate or rates to change over time, and
 - (g) in respect of the requirement in Article 200A(2)(b) to specify the investments the trustees or managers intend the scheme to hold on the relevant date, the proportion of the assets of the scheme the trustees or managers intend to allocate to different categories of investments.
 
-### 12. Determination, review and revision of funding and investment strategy[^key-907819cbd02faa4acb7c28199536e52a]
+### 12. Determination, review and revision of funding and investment strategy[^c-907819cbd02faa4acb7c28199536e52a]
 
 (1) The first funding and investment strategy for a scheme must be determined within the period of 15 months beginning with the effective date of the first actuarial valuation obtained by the trustees or managers, whether under Article 203[^f00011] (actuarial valuations and reports) or otherwise, on or after 22nd September 2024.
 
@@ -229,15 +229,15 @@ For the purposes of Article 200A(4)(b) (funding and investment strategy), the fu
 
 ## PART 3 — STATEMENT OF STRATEGY
 
-### 13. Supplementary matters[^key-f9ccb3bb4d2bbff7181f05326f354a6f]
+### 13. Supplementary matters[^c-f9ccb3bb4d2bbff7181f05326f354a6f]
 
 For the purposes of Article 200B(2)(d) (statement of strategy), the other supplementary matters prescribed are set out in Schedule 2.
 
-### 14. Review and revision of Part 2 of a scheme’s statement of strategy[^key-37819f6ec336db4edec4f07332e7dbca]
+### 14. Review and revision of Part 2 of a scheme’s statement of strategy[^c-37819f6ec336db4edec4f07332e7dbca]
 
 For the purposes of Article 200B(4) (statement of strategy), the trustees or managers must review and, if necessary in the light of that review, revise Part 2 of the scheme’s statement of strategy and prepare a replacement statement of strategy incorporating it as soon as reasonably practicable after any review of the scheme’s funding and investment strategy, whether or not the scheme’s funding and investment strategy is revised.
 
-### 15. Requirements for chair of trustees[^key-88780ac8fdd1a201fab35a0205cc3f67]
+### 15. Requirements for chair of trustees[^c-88780ac8fdd1a201fab35a0205cc3f67]
 
 A chair of the trustees who signs a statement of strategy prepared for a trust scheme[^f00013] on behalf of the trustees under Article 200B(6) (statement of strategy) must be—
 
@@ -245,7 +245,7 @@ A chair of the trustees who signs a statement of strategy prepared for a trust s
 - (b) a professional trustee body which is a trustee of the scheme, or
 - (c) where a company which is not a professional trustee body is a trustee of the scheme, an individual who is a director of that company and through whom the company exercises its functions as trustee of the scheme, or a professional trustee body which is a director of that company.
 
-### 16. Part 2 of a scheme’s statement of strategy – level of detail[^key-547ca0a971622af73d4f7fc4a1519208]
+### 16. Part 2 of a scheme’s statement of strategy – level of detail[^c-547ca0a971622af73d4f7fc4a1519208]
 
 (1) This regulation makes provision regarding the level of detail required in Part 2 of a statement of strategy.
 
@@ -255,11 +255,11 @@ A chair of the trustees who signs a statement of strategy prepared for a trust s
 
 (4) The Regulator may exercise a discretion as to the level of detail required in respect of each matter set out in Schedule 2, as the Regulator considers appropriate.
 
-### 17. Form of statement of strategy[^key-e4de5d19774af506c28cc6e89d4c7337]
+### 17. Form of statement of strategy[^c-e4de5d19774af506c28cc6e89d4c7337]
 
 The statement of strategy must be submitted in a form as set out by the Regulator.
 
-### 18. Statement of strategy to the Regulator[^key-2b9f7a34c93f4bde5125043ace753152]
+### 18. Statement of strategy to the Regulator[^c-2b9f7a34c93f4bde5125043ace753152]
 
 (1) The trustees or managers of a scheme must send a statement of strategy to the Regulator at such times and on such occasions as are specified in paragraphs (2) to (4).
 
@@ -274,7 +274,7 @@ The statement of strategy must be submitted in a form as set out by the Regulato
 
 ## PART 4 — AMENDMENTS TO REGULATIONS
 
-### 19. Amendments to the Occupational Pension Schemes (Scheme Funding) Regulations[^key-88346f587ddcdfd09e922bfa1a15c07b]
+### 19. Amendments to the Occupational Pension Schemes (Scheme Funding) Regulations[^c-88346f587ddcdfd09e922bfa1a15c07b]
 
 (1) The Occupational Pension Schemes (Scheme Funding) Regulations (Northern Ireland) 2005[^f00014] are amended in accordance with paragraphs (2) to (5).
 
@@ -359,7 +359,7 @@ A senior officer of the Department for Communities
 
 Regulation 10
 
-### 1. Matters[^key-d33db6de5099bc23c8b1d15f536049da]
+### 1. Matters[^c-d33db6de5099bc23c8b1d15f536049da]
 
 In determining or revising a scheme’s funding and investment strategy, the trustees or managers of the scheme must take into account—
 
@@ -367,15 +367,15 @@ In determining or revising a scheme’s funding and investment strategy, the tru
 - (b) the actuary’s estimate of the maturity of the scheme as at the effective date of the actuarial valuation to which the funding and investment strategy relates, as set out in that actuarial valuation, and
 - (c) the objective that on and after the relevant date the assets to which the minimum funding level relates, as provided for in paragraph 3, are invested in accordance with a low dependency investment allocation.
 
-### 2. Principles[^key-44c133cdb172c1aafaa44ba50701dee8]
+### 2. Principles[^c-44c133cdb172c1aafaa44ba50701dee8]
 
 The trustees or managers of a scheme must, in determining or revising the scheme’s funding and investment strategy, follow the principles set out in paragraphs 3 to 5.
 
-### 3. Minimum requirement on and after the relevant date[^key-3171b6ce8bc3b68ff9a7c79f7250a32d]
+### 3. Minimum requirement on and after the relevant date[^c-3171b6ce8bc3b68ff9a7c79f7250a32d]
 
 On and after the relevant date a minimum requirement that a scheme is subject to is that the scheme has sufficient and appropriate assets such that the funding level of the scheme calculated in accordance with the requirements in regulation 8(2) and (3) is as a minimum 1:1 (“the minimum funding level”).
 
-### 4. Risk in relation to calculation of liabilities on journey plan[^key-b92dec28efbe0881183cffbf3c975fb5]
+### 4. Risk in relation to calculation of liabilities on journey plan[^c-b92dec28efbe0881183cffbf3c975fb5]
 
 (1) The principles set out in sub-paragraph (2) relate to the level of risk that can be taken by the trustees or managers of a scheme in determining the actuarial assumptions used for the purposes of calculating the liabilities of the scheme as it moves along its journey plan.
 
@@ -384,7 +384,7 @@ On and after the relevant date a minimum requirement that a scheme is subject to
 - (a) is dependent on the strength of the employer covenant (so that more risk can be taken where the employer covenant is stronger and less risk can be taken where the employer covenant is weaker);
 - (b) subject to head (a), depends on how near the scheme is to reaching the relevant date (so that, subject to the strength of the employer covenant, more risk can be taken where a scheme is a long way from reaching the relevant date and less risk can be taken where a scheme is near to reaching the relevant date).
 
-### 5. Liquidity[^key-acc8c2d21ff0709526cab0f9aa702944]
+### 5. Liquidity[^c-acc8c2d21ff0709526cab0f9aa702944]
 
 The assets of the scheme must be invested in investments with sufficient liquidity to enable the scheme to meet expected cash flow requirements and make reasonable allowance for unexpected cash flow requirements.
 
@@ -392,53 +392,53 @@ The assets of the scheme must be invested in investments with sufficient liquidi
 
 Regulation 13
 
-**1.**[^key-2526064ffa8854bed244896ecacb70eb] For the purposes of Article 200B(2)(d) (statement of strategy), the other supplementary matters are set out in paragraphs 2 to 15.
+**1.**[^c-2526064ffa8854bed244896ecacb70eb] For the purposes of Article 200B(2)(d) (statement of strategy), the other supplementary matters are set out in paragraphs 2 to 15.
 
-### 2. Actuarial valuation and recovery plan[^key-4d16a2da3e0efc9e7d9d057a45658411]
+### 2. Actuarial valuation and recovery plan[^c-4d16a2da3e0efc9e7d9d057a45658411]
 
 A summary of the information contained in the actuarial valuation to which the funding and investment strategy relates.
 
-**3.**[^key-99f8e1d1d7855def60584e96b64fda9f] If a recovery plan has been prepared or revised in relation to the actuarial valuation to which the funding and investment strategy relates, a summary of the information contained in that plan.
+**3.**[^c-99f8e1d1d7855def60584e96b64fda9f] If a recovery plan has been prepared or revised in relation to the actuarial valuation to which the funding and investment strategy relates, a summary of the information contained in that plan.
 
-### 4. Maturity[^key-46dfe7e9f764319498dc94e65ab2f4cc]
+### 4. Maturity[^c-46dfe7e9f764319498dc94e65ab2f4cc]
 
 The actuary’s estimate of the maturity of the scheme as at the effective date of the actuarial valuation to which the funding and investment strategy relates, as set out in that valuation.
 
-**5.**[^key-9e2a0e8f54b0c19190210a97e35ed94e] Where, in accordance with regulation 3(5), the trustees or managers of the scheme have taken into consideration whether new members may be admitted to the scheme and the future accrual of benefits—
+**5.**[^c-9e2a0e8f54b0c19190210a97e35ed94e] Where, in accordance with regulation 3(5), the trustees or managers of the scheme have taken into consideration whether new members may be admitted to the scheme and the future accrual of benefits—
 
 - (a) a calculation of the duration of liabilities and future accrual based on the assumptions used, and
 - (b) the number of years of future accrual that have been allowed for when estimating the date of significant maturity.
 
-**6.**[^key-806e004e6b18e6b2c0690537e24e0fc2] For a scheme which has not reached the relevant date, how the maturity of the scheme is expected to change over time.
+**6.**[^c-806e004e6b18e6b2c0690537e24e0fc2] For a scheme which has not reached the relevant date, how the maturity of the scheme is expected to change over time.
 
-### 7. Investment risk[^key-3b0cfe9d34e3438ee2f65fac9356c567]
+### 7. Investment risk[^c-3b0cfe9d34e3438ee2f65fac9356c567]
 
 The level of risk in relation to the intended investment of the assets of the scheme relating to the actuarial valuation to which the funding and investment strategy relates.
 
-**8.**[^key-d29b7c933bdd658a20a699f4cbb214ee] For a scheme which has not reached the relevant date—
+**8.**[^c-d29b7c933bdd658a20a699f4cbb214ee] For a scheme which has not reached the relevant date—
 
 - (a) the level of risk the trustees or managers of the scheme intend to take in relation to the investment of the assets of the scheme as it moves along its journey plan, and
 - (b) how the trustees or managers intend to achieve compliance with the matter in paragraph 1(c) of Schedule 1 by the relevant date.
 
-**9.**[^key-b0825c7c175ab32425e86356d76a6aec] For a scheme which has reached the relevant date, how the level of risk, in relation to the intended investment of the assets of the scheme relating to the actuarial valuation to which the funding and investment strategy relates, complies with the matter in paragraph 1(c) of Schedule 1.
+**9.**[^c-b0825c7c175ab32425e86356d76a6aec] For a scheme which has reached the relevant date, how the level of risk, in relation to the intended investment of the assets of the scheme relating to the actuarial valuation to which the funding and investment strategy relates, complies with the matter in paragraph 1(c) of Schedule 1.
 
-### 10. Liquidity[^key-26bcdcdf3e8faace7a8411f8275a0ab8]
+### 10. Liquidity[^c-26bcdcdf3e8faace7a8411f8275a0ab8]
 
 How the investment of the assets of the scheme complies with the principle in paragraph 5 of Schedule 1.
 
-### 11. Employer covenant[^key-d78e9ad2ccbee321fecf6277cfe7fb82]
+### 11. Employer covenant[^c-d78e9ad2ccbee321fecf6277cfe7fb82]
 
 An assessment of the strength of the employer covenant.
 
-**12.**[^key-d1757157bdda177b353a88ceacdeeee2] How long it is reasonable to rely on this assessment.
+**12.**[^c-d1757157bdda177b353a88ceacdeeee2] How long it is reasonable to rely on this assessment.
 
-### 13. General[^key-662897e3974a8a0561b51767093924d2]
+### 13. General[^c-662897e3974a8a0561b51767093924d2]
 
 The extent to which the funding and investment strategy is or remains appropriate.
 
-**14.**[^key-680ec189b9581382599afdb2c197bdcf] Confirmation that the trustees or managers have consulted the employer in relation to the scheme in the preparation or revision of Part 2 of the statement of strategy.
+**14.**[^c-680ec189b9581382599afdb2c197bdcf] Confirmation that the trustees or managers have consulted the employer in relation to the scheme in the preparation or revision of Part 2 of the statement of strategy.
 
-**15.**[^key-8874424fb92069ee9fbbff7754ba52cf] Any comments that the employer in relation to the scheme has asked to be included in Part 2 of the statement of strategy.
+**15.**[^c-8874424fb92069ee9fbbff7754ba52cf] Any comments that the employer in relation to the scheme has asked to be included in Part 2 of the statement of strategy.
 
 EXPLANATORY NOTE
 
@@ -488,21 +488,21 @@ An assessment of the cost to business of the Regulations is detailed in a Regula
 
 [^f00002]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); Articles 200A and 200B were inserted by paragraph 2 of Schedule 11 to the Pension Schemes Act [2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1); Article 205(3A) was inserted by paragraph 5 of that Schedule; *see also* Article 288(3)(ha) to (hc) as inserted by paragraph 11 of that Schedule
 
-[^key-79bb952b1d32a3d3c68cd49ff05e46d4]: Commencement: Reg. 1 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-79bb952b1d32a3d3c68cd49ff05e46d4]: Commencement: Reg. 1 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-71f18db74b503e4f2bb54ee86133bdb9]: Commencement: Reg. 2 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-71f18db74b503e4f2bb54ee86133bdb9]: Commencement: Reg. 2 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
 [^f00003]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46)
 
-[^key-d7b3fb538a5f6cedf686c7f6d19dc0bb]: Commencement: Reg. 3 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-d7b3fb538a5f6cedf686c7f6d19dc0bb]: Commencement: Reg. 3 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-9807a40b62dc70bc148672e087e70384]: Commencement: Reg. 4 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-9807a40b62dc70bc148672e087e70384]: Commencement: Reg. 4 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-c6bb3bb6916031c25d4f6693d0b864fa]: Commencement: Reg. 5 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-c6bb3bb6916031c25d4f6693d0b864fa]: Commencement: Reg. 5 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
 [^f00004]: Footnote: *See* the definition of “funding level” in Article 200A(3)(a) of the Pensions (Northern Ireland) Order 2005
 
-[^key-b7973285fb53d6b7608ea5f81f16d6ff]: Commencement: Reg. 6 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-b7973285fb53d6b7608ea5f81f16d6ff]: Commencement: Reg. 6 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
 [^f00005]: Footnote: *See* the definition of “insolvency event” in Article 105 of the Pensions (Northern Ireland) Order 2005 as amended by Schedule 4 to the Insolvency (Amendment) Act (Northern Ireland) [2016 (c. 2 (N.I.))](https://www.legislation.gov.uk/nia/2016/2), Article 2 of [S.R. 2006 No. 529](https://www.legislation.gov.uk/nisr/2006/529) and paragraph 252(7) of Schedule 1 to [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941)
 
@@ -512,41 +512,41 @@ An assessment of the cost to business of the Regulations is detailed in a Regula
 
 [^f00008]: Footnote: Article 75 was amended by Article 248 of the Pensions (Northern Ireland) Order 2005 and paragraph 8 of Schedule 6 to the Pension Schemes Act 2021
 
-[^key-7fc320332bd67bdffa95d65a768f6288]: Commencement: Reg. 7 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-7fc320332bd67bdffa95d65a768f6288]: Commencement: Reg. 7 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
 [^f00009]: Footnote: [2015 c. 8](https://www.legislation.gov.uk/ukpga/2015/8)
 
 [^f00010]: Footnote: [2021 c. 1](https://www.legislation.gov.uk/ukpga/2021/1)
 
-[^key-f766cc25287bd70cade42cf55a5d4e0f]: Commencement: Reg. 8 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-f766cc25287bd70cade42cf55a5d4e0f]: Commencement: Reg. 8 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-78226af3d638f7a25db932966618ff98]: Commencement: Reg. 9 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-78226af3d638f7a25db932966618ff98]: Commencement: Reg. 9 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-dfd9101ff69e35dbe95ce471bfe2ef79]: Commencement: Reg. 10 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-dfd9101ff69e35dbe95ce471bfe2ef79]: Commencement: Reg. 10 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-62b58903b4a6892c4b09044bd4079e0a]: Commencement: Reg. 11 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-62b58903b4a6892c4b09044bd4079e0a]: Commencement: Reg. 11 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-907819cbd02faa4acb7c28199536e52a]: Commencement: Reg. 12 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-907819cbd02faa4acb7c28199536e52a]: Commencement: Reg. 12 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
 [^f00011]: Footnote: Article 203 was amended by paragraph 4 of Schedule 11 to the Pension Schemes Act 2021
 
 [^f00012]: Footnote: Article 210(2)(aa) was inserted by paragraph 7(3) of Schedule 11 to the Pension Schemes Act 2021
 
-[^key-f9ccb3bb4d2bbff7181f05326f354a6f]: Commencement: Reg. 13 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-f9ccb3bb4d2bbff7181f05326f354a6f]: Commencement: Reg. 13 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-37819f6ec336db4edec4f07332e7dbca]: Commencement: Reg. 14 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-37819f6ec336db4edec4f07332e7dbca]: Commencement: Reg. 14 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-88780ac8fdd1a201fab35a0205cc3f67]: Commencement: Reg. 15 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-88780ac8fdd1a201fab35a0205cc3f67]: Commencement: Reg. 15 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
 [^f00013]: Footnote: *See* the definition of “trust scheme” in Article 121(1) of the Pensions (Northern Ireland) Order 1995; *see also* Article 212 of the Pensions (Northern Ireland) Order 2005
 
-[^key-547ca0a971622af73d4f7fc4a1519208]: Commencement: Reg. 16 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-547ca0a971622af73d4f7fc4a1519208]: Commencement: Reg. 16 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-e4de5d19774af506c28cc6e89d4c7337]: Commencement: Reg. 17 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-e4de5d19774af506c28cc6e89d4c7337]: Commencement: Reg. 17 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-2b9f7a34c93f4bde5125043ace753152]: Commencement: Reg. 18 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-2b9f7a34c93f4bde5125043ace753152]: Commencement: Reg. 18 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-88346f587ddcdfd09e922bfa1a15c07b]: Commencement: Reg. 19 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-88346f587ddcdfd09e922bfa1a15c07b]: Commencement: Reg. 19 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
 [^f00014]: Footnote: [S.R. 2005 No. 568](https://www.legislation.gov.uk/nisr/2005/568); relevant amending Regulations are [S.R. 2006 No. 297](https://www.legislation.gov.uk/nisr/2006/297)
 
@@ -556,42 +556,42 @@ An assessment of the cost to business of the Regulations is detailed in a Regula
 
 [^f00017]: Footnote: Article 205(3A) was inserted by paragraph 5 of Schedule 11 to the Pension Schemes Act 2021
 
-[^key-d33db6de5099bc23c8b1d15f536049da]: Commencement: Sch. 1 para. 1 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-d33db6de5099bc23c8b1d15f536049da]: Commencement: Sch. 1 para. 1 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-44c133cdb172c1aafaa44ba50701dee8]: Commencement: Sch. 1 para. 2 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-44c133cdb172c1aafaa44ba50701dee8]: Commencement: Sch. 1 para. 2 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-3171b6ce8bc3b68ff9a7c79f7250a32d]: Commencement: Sch. 1 para. 3 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-3171b6ce8bc3b68ff9a7c79f7250a32d]: Commencement: Sch. 1 para. 3 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-b92dec28efbe0881183cffbf3c975fb5]: Commencement: Sch. 1 para. 4 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-b92dec28efbe0881183cffbf3c975fb5]: Commencement: Sch. 1 para. 4 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-acc8c2d21ff0709526cab0f9aa702944]: Commencement: Sch. 1 para. 5 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-acc8c2d21ff0709526cab0f9aa702944]: Commencement: Sch. 1 para. 5 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-2526064ffa8854bed244896ecacb70eb]: Commencement: Sch. 2 para. 1 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-2526064ffa8854bed244896ecacb70eb]: Commencement: Sch. 2 para. 1 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-4d16a2da3e0efc9e7d9d057a45658411]: Commencement: Sch. 2 para. 2 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-4d16a2da3e0efc9e7d9d057a45658411]: Commencement: Sch. 2 para. 2 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-99f8e1d1d7855def60584e96b64fda9f]: Commencement: Sch. 2 para. 3 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-99f8e1d1d7855def60584e96b64fda9f]: Commencement: Sch. 2 para. 3 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-46dfe7e9f764319498dc94e65ab2f4cc]: Commencement: Sch. 2 para. 4 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-46dfe7e9f764319498dc94e65ab2f4cc]: Commencement: Sch. 2 para. 4 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-9e2a0e8f54b0c19190210a97e35ed94e]: Commencement: Sch. 2 para. 5 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-9e2a0e8f54b0c19190210a97e35ed94e]: Commencement: Sch. 2 para. 5 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-806e004e6b18e6b2c0690537e24e0fc2]: Commencement: Sch. 2 para. 6 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-806e004e6b18e6b2c0690537e24e0fc2]: Commencement: Sch. 2 para. 6 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-3b0cfe9d34e3438ee2f65fac9356c567]: Commencement: Sch. 2 para. 7 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-3b0cfe9d34e3438ee2f65fac9356c567]: Commencement: Sch. 2 para. 7 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-d29b7c933bdd658a20a699f4cbb214ee]: Commencement: Sch. 2 para. 8 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-d29b7c933bdd658a20a699f4cbb214ee]: Commencement: Sch. 2 para. 8 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-b0825c7c175ab32425e86356d76a6aec]: Commencement: Sch. 2 para. 9 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-b0825c7c175ab32425e86356d76a6aec]: Commencement: Sch. 2 para. 9 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-26bcdcdf3e8faace7a8411f8275a0ab8]: Commencement: Sch. 2 para. 10 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-26bcdcdf3e8faace7a8411f8275a0ab8]: Commencement: Sch. 2 para. 10 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-d78e9ad2ccbee321fecf6277cfe7fb82]: Commencement: Sch. 2 para. 11 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-d78e9ad2ccbee321fecf6277cfe7fb82]: Commencement: Sch. 2 para. 11 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-d1757157bdda177b353a88ceacdeeee2]: Commencement: Sch. 2 para. 12 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-d1757157bdda177b353a88ceacdeeee2]: Commencement: Sch. 2 para. 12 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-662897e3974a8a0561b51767093924d2]: Commencement: Sch. 2 para. 13 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-662897e3974a8a0561b51767093924d2]: Commencement: Sch. 2 para. 13 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-680ec189b9581382599afdb2c197bdcf]: Commencement: Sch. 2 para. 14 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-680ec189b9581382599afdb2c197bdcf]: Commencement: Sch. 2 para. 14 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
 
-[^key-8874424fb92069ee9fbbff7754ba52cf]: Commencement: Sch. 2 para. 15 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)
+[^c-8874424fb92069ee9fbbff7754ba52cf]: Commencement: Sch. 2 para. 15 in operation at 6.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/90/regulation/1)

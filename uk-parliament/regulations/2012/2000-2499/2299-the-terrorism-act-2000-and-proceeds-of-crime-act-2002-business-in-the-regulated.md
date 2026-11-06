@@ -48,11 +48,11 @@ Coming into force
 
 The Treasury make the following Order in exercise of the powers conferred on them by paragraph 5 of Schedule 3A to the Terrorism Act 2000[^f00001] and paragraph 5 of Schedule 9 to the Proceeds of Crime Act 2002[^f00002].
 
-## 1. Citation and commencement[^key-643f8c52870d23ba73f8dfb57195cdfc]
+## 1. Citation and commencement[^c-643f8c52870d23ba73f8dfb57195cdfc]
 
 This Order may be cited as the Terrorism Act 2000 and Proceeds of Crime Act 2002 (Business in the Regulated Sector) (No.2) Order 2012 and comes into force on 1st October 2012.
 
-## 2. Amendment of Schedule 3A to the Terrorism Act 2000[^key-43bac6663fad04397389034852699f55]
+## 2. Amendment of Schedule 3A to the Terrorism Act 2000[^c-43bac6663fad04397389034852699f55]
 
 In paragraph 1 of Schedule 3A to the Terrorism Act 2000[^f00003](business in the regulated sector)—
 
@@ -63,7 +63,7 @@ In paragraph 1 of Schedule 3A to the Terrorism Act 2000[^f00003](business in the
 
   .
 
-## 3. Amendment of Schedule 9 to the Proceeds of Crime Act 2002[^key-2590d85414358b281be35e5bf9852a52]
+## 3. Amendment of Schedule 9 to the Proceeds of Crime Act 2002[^c-2590d85414358b281be35e5bf9852a52]
 
 In paragraph 1 of Schedule 9 to the Proceeds of Crime Act 2002[^f00005](business in the regulated sector)—
 
@@ -74,7 +74,7 @@ In paragraph 1 of Schedule 9 to the Proceeds of Crime Act 2002[^f00005](business
 
   .
 
-## 4. Review[^key-246a92abb4c9161418496c0a313b3476]
+## 4. Review[^c-246a92abb4c9161418496c0a313b3476]
 
 (1) The Treasury must from time to time—
 
@@ -82,7 +82,7 @@ In paragraph 1 of Schedule 9 to the Proceeds of Crime Act 2002[^f00005](business
 - (b) set out the conclusions of the review in a report, and
 - (c) publish the report.
 
-(2) In carrying out the review the Treasury must, so far as is reasonable, have regard to how Directive 2015/849/EU of the European Parliament and of the Council of 20th May 2015 on the prevention of the use of the financial system for the purpose of money laundering or terrorist financing[^key-685eaba9acb67e9e661b9eeaf8561933] (which is implemented in part by Part 3 of the Terrorism Act 2000 and Part 7 of the Proceeds of Crime Act 2002) is implemented in other member States.
+(2) In carrying out the review the Treasury must, so far as is reasonable, have regard to how Directive 2015/849/EU of the European Parliament and of the Council of 20th May 2015 on the prevention of the use of the financial system for the purpose of money laundering or terrorist financing[^c-685eaba9acb67e9e661b9eeaf8561933] (which is implemented in part by Part 3 of the Terrorism Act 2000 and Part 7 of the Proceeds of Crime Act 2002) is implemented in other member States.
 
 (3) The report must in particular—
 
@@ -90,7 +90,7 @@ In paragraph 1 of Schedule 9 to the Proceeds of Crime Act 2002[^f00005](business
 - (b) assess the extent to which those objectives are achieved, and
 - (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
 
-(4) The first report under this article must be published before 26th June 2022[^key-4d1dbd311a08e6e82afc04b8296eee73].
+(4) The first report under this article must be published before 26th June 2022[^c-4d1dbd311a08e6e82afc04b8296eee73].
 
 (5) Reports under this article are afterwards to be published at intervals not exceeding five years.
 
@@ -118,20 +118,20 @@ An Impact Assessment of the effect that this Order (and associated amendments to
 
 [^f00002]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 
-[^key-643f8c52870d23ba73f8dfb57195cdfc]: Commencement: Art. 1 in force at 1.10.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2299/article/1)
+[^c-643f8c52870d23ba73f8dfb57195cdfc]: Commencement: Art. 1 in force at 1.10.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2299/article/1)
 
-[^key-43bac6663fad04397389034852699f55]: Commencement: Art. 2 in force at 1.10.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2299/article/1)
+[^c-43bac6663fad04397389034852699f55]: Commencement: Art. 2 in force at 1.10.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2299/article/1)
 
 [^f00003]: Footnote: Part 1 of Schedule 3A was substituted by [S.I. 2007/3288](https://www.legislation.gov.uk/uksi/2007/3288). Paragraph 1 was amended by [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948), [S.I 2011/99](https://www.legislation.gov.uk/uksi/2011/99), [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.I. 2011/2701](https://www.legislation.gov.uk/uksi/2011/2701) and [S.I. 2012/1534](https://www.legislation.gov.uk/uksi/2012/1534).
 
 [^f00004]: Footnote: [1979 c.38](https://www.legislation.gov.uk/ukpga/1979/38);.section 1 was amended by the Planning (Consequential Provisions) Act [1990 (c.11)](https://www.legislation.gov.uk/ukpga/1990/11) section 4 and Schedule 2, paragraph 42; the Planning (Consequential Provisions) (Scotland) Act [1997 (c.11)](https://www.legislation.gov.uk/ukpga/1997/11) section 4 and Schedule 2, paragraph 28; and by [S.I. 1991/1220](https://www.legislation.gov.uk/uksi/1991/1220) and [S.I. 2001/1283](https://www.legislation.gov.uk/uksi/2001/1283).
 
-[^key-2590d85414358b281be35e5bf9852a52]: Commencement: Art. 3 in force at 1.10.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2299/article/1)
+[^c-2590d85414358b281be35e5bf9852a52]: Commencement: Art. 3 in force at 1.10.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2299/article/1)
 
 [^f00005]: Footnote: Part 1 of Schedule 9 was substituted by [S.I. 2007/3287](https://www.legislation.gov.uk/uksi/2007/3287). Paragraph 1 was amended by [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948), [S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99), [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.I. 2011/2701](https://www.legislation.gov.uk/uksi/2011/2701) and [S.I. 2012/1534](https://www.legislation.gov.uk/uksi/2012/1534).
 
-[^key-246a92abb4c9161418496c0a313b3476]: Commencement: Art. 4 in force at 1.10.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2299/article/1)
+[^c-246a92abb4c9161418496c0a313b3476]: Commencement: Art. 4 in force at 1.10.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2299/article/1)
 
-[^key-685eaba9acb67e9e661b9eeaf8561933]: Textual amendment: Words in art. 4(2) substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 29(2)](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/29/2) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+[^c-685eaba9acb67e9e661b9eeaf8561933]: Textual amendment: Words in art. 4(2) substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 29(2)](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/29/2) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
 
-[^key-4d1dbd311a08e6e82afc04b8296eee73]: Textual amendment: Words in art. 4(4) substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 29(3)](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/29/3) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+[^c-4d1dbd311a08e6e82afc04b8296eee73]: Textual amendment: Words in art. 4(4) substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 29(3)](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/29/3) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98. Rule as to reporting[^key-a4d86421354fd42e8f98a5b885ecc874]
+## 98. Rule as to reporting[^c-a4d86421354fd42e8f98a5b885ecc874]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.125A[^f00040] of the 1986 Rules. For “Rule 4.124 or 4.125” subs
 
 ## Annotations
 
-[^key-a4d86421354fd42e8f98a5b885ecc874]: Commencement: Rule 98 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-a4d86421354fd42e8f98a5b885ecc874]: Commencement: Rule 98 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00040]: Footnote: Rule 4.125A was inserted by [S.I. 2004/584](https://www.legislation.gov.uk/uksi/2004/584).

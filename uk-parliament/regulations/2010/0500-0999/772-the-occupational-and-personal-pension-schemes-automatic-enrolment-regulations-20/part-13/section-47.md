@@ -25,7 +25,7 @@ summary: ''
 - (a) the requirements set out in paragraphs (2) and (3) are satisfied, and
 - (b) the requirement set out in one of paragraphs (4), (5), (6) or (7) is satisfied,
 
-section 16(1)(b) of the Act does not apply in relation to an occupational pension scheme[^key-3167972072968098538f47a91b614180] or a personal pension scheme to which section 25 or 27 of the Act applies.
+section 16(1)(b) of the Act does not apply in relation to an occupational pension scheme[^c-3167972072968098538f47a91b614180] or a personal pension scheme to which section 25 or 27 of the Act applies.
 
 (2) The requirements to be satisfied are that—
 
@@ -44,7 +44,7 @@ section 16(1)(b) of the Act does not apply in relation to an occupational pensio
 
 (6) The requirement to be satisfied is that relief from tax is given in respect of contributions made by an individual under an arrangement entered into by the individual for which a deduction of tax is given under Chapter 2 of Part 5 (Employment Income: Deductions allowed from earnings) of the Income Tax (Earnings and Pensions) Act 2003 [^c2019387] for that tax year in accordance with paragraph 51 of Schedule 36 (Pension Schemes etc.) to the Finance Act 2004.
 
-(7) This paragraph applies in relation to any money purchase benefits applicable to the jobholder[^key-1a92b65906441f3d49051ae1e68ed61b] and the requirement to be satisfied is that the employer's contribution, however calculated, includes an additional amount, the value of which represents the value of any relief from tax which would have been applicable in relation to the jobholder's contributions if the scheme had been registered under Chapter 2 of Part 4 (Pension Schemes etc.) of the Finance Act 2004.
+(7) This paragraph applies in relation to any money purchase benefits applicable to the jobholder[^c-1a92b65906441f3d49051ae1e68ed61b] and the requirement to be satisfied is that the employer's contribution, however calculated, includes an additional amount, the value of which represents the value of any relief from tax which would have been applicable in relation to the jobholder's contributions if the scheme had been registered under Chapter 2 of Part 4 (Pension Schemes etc.) of the Finance Act 2004.
 
 (8) For the purposes of this regulation—
 
@@ -53,10 +53,10 @@ section 16(1)(b) of the Act does not apply in relation to an occupational pensio
 
 ## Annotations
 
-[^key-3167972072968098538f47a91b614180]: Textual amendment: Words in reg. 47(1)(3) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [38(a)](https://www.legislation.gov.uk/uksi/2012/215/regulation/38/a)
+[^c-3167972072968098538f47a91b614180]: Textual amendment: Words in reg. 47(1)(3) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [38(a)](https://www.legislation.gov.uk/uksi/2012/215/regulation/38/a)
 
 [^c2019386]: Marginal citation: [1988 c.1](https://www.legislation.gov.uk/ukpga/1988/1).
 
 [^c2019387]: Marginal citation: [2003 c.1](https://www.legislation.gov.uk/ukpga/2003/1).
 
-[^key-1a92b65906441f3d49051ae1e68ed61b]: Textual amendment: Words in reg. 47(7) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [38(b)](https://www.legislation.gov.uk/uksi/2012/215/regulation/38/b)
+[^c-1a92b65906441f3d49051ae1e68ed61b]: Textual amendment: Words in reg. 47(7) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [38(b)](https://www.legislation.gov.uk/uksi/2012/215/regulation/38/b)

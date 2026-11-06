@@ -26,7 +26,7 @@ summary: ''
 
 - (a) any of the Channel Islands,
 - (b) the Isle of Man, or
-- (c)[^c20953941][^key-899cdea5ce4b17113c518ec02650cc3d] any colony.
+- (c)[^c20953941][^c-899cdea5ce4b17113c518ec02650cc3d] any colony.
 
 (3) That power includes power to extend, subject to such exceptions and modifications as may be specified in the Order, any Order in Council made under the following provisions of this Chapter.
 
@@ -41,7 +41,7 @@ summary: ''
 
 [^c20953941]: Modification: S. 157(2)(c) extended (8.4.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 46(4)](https://www.legislation.gov.uk/ukpga/2010/24/section/46/4), [47(2)(c)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/2/c)
 
-[^key-899cdea5ce4b17113c518ec02650cc3d]: Modification: S. 157(2)(c): power to extend conferred (27.4.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 118(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/1), [119(9)](https://www.legislation.gov.uk/ukpga/2017/30/section/119/9)
+[^c-899cdea5ce4b17113c518ec02650cc3d]: Modification: S. 157(2)(c): power to extend conferred (27.4.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 118(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/1), [119(9)](https://www.legislation.gov.uk/ukpga/2017/30/section/119/9)
 
 [^c13757451]: Marginal citation: [1956 c. 74](https://www.legislation.gov.uk/ukpga/1956/74).
 

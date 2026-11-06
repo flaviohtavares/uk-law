@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.C.10. Exercise of options under regulations 3.C.6, 3.C.8 and 3.C.9[^key-578d10c2e2bae4bfcbfab4ba981b0a17][^key-d8b7394b5516cee263fa1805f85422f4]
+## 3.C.10. Exercise of options under regulations 3.C.6, 3.C.8 and 3.C.9[^c-578d10c2e2bae4bfcbfab4ba981b0a17][^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-578d10c2e2bae4bfcbfab4ba981b0a17]: Modification: [Regs. 3.C.6-3.C.13](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.C.6) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/a)[(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/3/b/ii)
+[^c-578d10c2e2bae4bfcbfab4ba981b0a17]: Modification: [Regs. 3.C.6-3.C.13](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.C.6) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/a)[(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/3/b/ii)
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

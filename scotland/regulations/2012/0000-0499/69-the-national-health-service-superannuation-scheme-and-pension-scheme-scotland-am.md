@@ -52,7 +52,7 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consu
 
 ## PART 1 — General
 
-### 1. Citation, commencement and effect[^key-c45068a379523ec30da57189f7ca4b7d]
+### 1. Citation, commencement and effect[^c-c45068a379523ec30da57189f7ca4b7d]
 
 (1) These Regulations may be cited as the National Health Service (Superannuation Scheme and Pension Scheme) (Scotland) Amendment Regulations 2012.
 
@@ -60,9 +60,9 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consu
 
 ## PART 2 — Amendment of the National Health Service Superannuation Scheme (Scotland) Regulations 2011
 
-**2.**[^key-6befbf415785c74bccccc368638f7d3c] The National Health Service Superannuation Scheme (Scotland) Regulations 2011[^f00003] are amended in accordance with this Part.
+**2.**[^c-6befbf415785c74bccccc368638f7d3c] The National Health Service Superannuation Scheme (Scotland) Regulations 2011[^f00003] are amended in accordance with this Part.
 
-**3.**[^key-71a584afdc722919a93be6163de5bf18] In regulation D1 (contribution by members)—
+**3.**[^c-71a584afdc722919a93be6163de5bf18] In regulation D1 (contribution by members)—
 
 - (a) for paragraph (2) substitute—
 
@@ -83,7 +83,7 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consu
 - (c) in paragraph (5) omit sub-paragraph (c); and
 - (d) in paragraphs (8) to (21) and (25), for “relevant table” substitute “table in paragraph (2)”.
 
-**4.**[^key-dcf15a1a4e7340de4dbf4eef74882bfd] In paragraph 14 of Schedule 1 (contributions to this section of the scheme) for sub‑paragraph (2) substitute—
+**4.**[^c-dcf15a1a4e7340de4dbf4eef74882bfd] In paragraph 14 of Schedule 1 (contributions to this section of the scheme) for sub‑paragraph (2) substitute—
 
 > (2) For the purposes of this paragraph, the “relevant table” means—
 >
@@ -117,15 +117,15 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consu
 
 ## PART 3 — Amendment of the National Health Service Pension Scheme(Scotland) Regulations 2008
 
-**5.**[^key-308ef4766cbf690d2537b57d6b42ff78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-308ef4766cbf690d2537b57d6b42ff78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-308ef4766cbf690d2537b57d6b42ff78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-308ef4766cbf690d2537b57d6b42ff78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-308ef4766cbf690d2537b57d6b42ff78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-308ef4766cbf690d2537b57d6b42ff78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-308ef4766cbf690d2537b57d6b42ff78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-308ef4766cbf690d2537b57d6b42ff78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-308ef4766cbf690d2537b57d6b42ff78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-308ef4766cbf690d2537b57d6b42ff78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 JOHN SWINNEY
 
@@ -161,14 +161,14 @@ These Regulations amend various provisions of the 1995 and 2008 Section Regulati
 
 [^f00002]: Footnote: See the Superannuation Act 1972, section 10(1). This function was transferred to the Treasury by virtue of the Transfer of Functions (Minister for the Civil Service and Treasury) Order 1981 ([S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670)), article 2 and is still exercisable by virtue of [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), article 2 and Schedule 1.
 
-[^key-c45068a379523ec30da57189f7ca4b7d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2012/69/regulation/1) in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/69/regulation/1/2)
+[^c-c45068a379523ec30da57189f7ca4b7d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2012/69/regulation/1) in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/69/regulation/1/2)
 
-[^key-6befbf415785c74bccccc368638f7d3c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2012/69/regulation/2) in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/69/regulation/1/2)
+[^c-6befbf415785c74bccccc368638f7d3c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2012/69/regulation/2) in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/69/regulation/1/2)
 
 [^f00003]: Footnote: )[S.S.I. 2011/117](https://www.legislation.gov.uk/ssi/2011/117) as amended by [S.S.I. 2011/173](https://www.legislation.gov.uk/ssi/2011/173) and [364](https://www.legislation.gov.uk/ssi/2011/364).
 
-[^key-71a584afdc722919a93be6163de5bf18]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2012/69/regulation/3) in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/69/regulation/1/2)
+[^c-71a584afdc722919a93be6163de5bf18]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2012/69/regulation/3) in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/69/regulation/1/2)
 
-[^key-dcf15a1a4e7340de4dbf4eef74882bfd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2012/69/regulation/4) in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/69/regulation/1/2)
+[^c-dcf15a1a4e7340de4dbf4eef74882bfd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2012/69/regulation/4) in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/69/regulation/1/2)
 
-[^key-308ef4766cbf690d2537b57d6b42ff78]: Textual amendment: [Regs. 5-9](https://www.legislation.gov.uk/ssi/2012/69/regulation/5) revoked (1.7.2013) by [The National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013 (S.S.I. 2013/174)](https://www.legislation.gov.uk/ssi/2013/174), [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2013/174/part/1/chapter/1.A/regulation/1n1), [sch.](https://www.legislation.gov.uk/ssi/2013/174/schedule) (with [reg. 5.B.1(2)](https://www.legislation.gov.uk/ssi/2013/174/part/5/chapter/5.B/regulation/5))
+[^c-308ef4766cbf690d2537b57d6b42ff78]: Textual amendment: [Regs. 5-9](https://www.legislation.gov.uk/ssi/2012/69/regulation/5) revoked (1.7.2013) by [The National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013 (S.S.I. 2013/174)](https://www.legislation.gov.uk/ssi/2013/174), [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2013/174/part/1/chapter/1.A/regulation/1n1), [sch.](https://www.legislation.gov.uk/ssi/2013/174/schedule) (with [reg. 5.B.1(2)](https://www.legislation.gov.uk/ssi/2013/174/part/5/chapter/5.B/regulation/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 138. Deduction of payments for extra pension under Schedule 1[^key-cf32be69b42d4381e356f1d10a66d088]
+## 138. Deduction of payments for extra pension under Schedule 1[^c-cf32be69b42d4381e356f1d10a66d088]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Schedule 1 has effect for the purpose of enabling deductions of payments for—
 
 ## Annotations
 
-[^key-cf32be69b42d4381e356f1d10a66d088]: Commencement: Reg. 138 in operation at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/2)
+[^c-cf32be69b42d4381e356f1d10a66d088]: Commencement: Reg. 138 in operation at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/2)

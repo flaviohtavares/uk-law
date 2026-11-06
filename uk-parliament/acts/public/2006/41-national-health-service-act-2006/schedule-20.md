@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 20 — Further provision about local social services authorities[^key-9fcba3ed018caa034d7af879caa5fe0d]
+## SCHEDULE 20 — Further provision about local social services authorities[^c-9fcba3ed018caa034d7af879caa5fe0d]
 
 *Extent: E+W*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Section 254
 
-### Care of mothers and young children[^key-9fcba3ed018caa034d7af879caa5fe0d]
+### Care of mothers and young children[^c-9fcba3ed018caa034d7af879caa5fe0d]
 
-**1.**[^key-9fcba3ed018caa034d7af879caa5fe0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9fcba3ed018caa034d7af879caa5fe0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Prevention, care and after-care[^key-9fcba3ed018caa034d7af879caa5fe0d]
+### Prevention, care and after-care[^c-9fcba3ed018caa034d7af879caa5fe0d]
 
-**2.**[^key-9fcba3ed018caa034d7af879caa5fe0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9fcba3ed018caa034d7af879caa5fe0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Home help and laundry facilities[^key-9fcba3ed018caa034d7af879caa5fe0d]
+### Home help and laundry facilities[^c-9fcba3ed018caa034d7af879caa5fe0d]
 
-**3.**[^key-9fcba3ed018caa034d7af879caa5fe0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9fcba3ed018caa034d7af879caa5fe0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Research[^key-9fcba3ed018caa034d7af879caa5fe0d]
+### Research[^c-9fcba3ed018caa034d7af879caa5fe0d]
 
-**4.**[^key-9fcba3ed018caa034d7af879caa5fe0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9fcba3ed018caa034d7af879caa5fe0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9fcba3ed018caa034d7af879caa5fe0d]: Textual amendment: [Sch. 20](https://www.legislation.gov.uk/ukpga/2006/41/schedule/20) omitted (1.4.2015) by virtue of [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 83](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/83) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3))
+[^c-9fcba3ed018caa034d7af879caa5fe0d]: Textual amendment: [Sch. 20](https://www.legislation.gov.uk/ukpga/2006/41/schedule/20) omitted (1.4.2015) by virtue of [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 83](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/83) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3))

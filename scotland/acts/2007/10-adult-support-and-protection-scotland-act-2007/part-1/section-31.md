@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Duty to keep record of detention[^key-b9b8bc77e75fb7a5459851609dd0b989]
+## 31. Duty to keep record of detention[^c-b9b8bc77e75fb7a5459851609dd0b989]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9b8bc77e75fb7a5459851609dd0b989]: Textual amendment: S. 31 repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [reg. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [sch. para. 6(5)](https://www.legislation.gov.uk/ssi/2017/453/schedule/paragraph/6/5)
+[^c-b9b8bc77e75fb7a5459851609dd0b989]: Textual amendment: S. 31 repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [reg. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [sch. para. 6(5)](https://www.legislation.gov.uk/ssi/2017/453/schedule/paragraph/6/5)

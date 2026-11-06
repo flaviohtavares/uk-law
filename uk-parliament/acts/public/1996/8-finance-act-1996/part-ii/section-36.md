@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Repeated misdeclaration penalty.[^key-6000ccae1880d18793a78f03602b1c58]
+## 36. Repeated misdeclaration penalty.[^c-6000ccae1880d18793a78f03602b1c58]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6000ccae1880d18793a78f03602b1c58]: Textual amendment: S. 36 repealed (with effect in accordance with s. 97 of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/5)
+[^c-6000ccae1880d18793a78f03602b1c58]: Textual amendment: S. 36 repealed (with effect in accordance with s. 97 of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/5)

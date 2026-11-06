@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244M. Repayments of charge on subsequent excluding events[^key-8442a960629e1e99ed567cd792d5924f]
+## 244M. Repayments of charge on subsequent excluding events[^c-8442a960629e1e99ed567cd792d5924f]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies if—
 
-- (a) the overseas transfer charge under section 244AC[^key-fc71ffb5324b81539ae589b0e5fffa97] arose on a transfer at the time the transfer was made, and
+- (a) the overseas transfer charge under section 244AC[^c-fc71ffb5324b81539ae589b0e5fffa97] arose on a transfer at the time the transfer was made, and
 - (b) at a time during the relevant period for the transfer, circumstances arise such that, had those circumstances existed at the time the transfer was made, the transfer would at the time it was made have been excluded from the charge by sections 244B to 244F or under section 244H.
 
 (2) Any amount paid in respect of charge on the transfer is to be repaid by the Commissioners for Her Majesty's Revenue and Customs so far as not already repaid.
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8442a960629e1e99ed567cd792d5924f]: Textual amendment: Ss. 244A-244N and cross-heading inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/11)
+[^c-8442a960629e1e99ed567cd792d5924f]: Textual amendment: Ss. 244A-244N and cross-heading inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/11)
 
-[^key-fc71ffb5324b81539ae589b0e5fffa97]: Textual amendment: Words in s. 244M(1)(a) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 58](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/58), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4); and (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [S.I. 2024/1012](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17))
+[^c-fc71ffb5324b81539ae589b0e5fffa97]: Textual amendment: Words in s. 244M(1)(a) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 58](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/58), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4); and (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [S.I. 2024/1012](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4A — Confirmation hearings etc[^key-29e8375832180091d4408f778e24420e]
+## SCHEDULE 4A — Confirmation hearings etc[^c-29e8375832180091d4408f778e24420e]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) he must notify the Assembly of that fact, but
 - (b) the following provisions of this Schedule do not have effect in relation to the appointment of the Mayor to that office.
 
-(3)[^key-f0e0953786a1b8a82bedaf09ca99fffb] This Schedule also has effect where the Mayor's Office for Policing and Crime proposes to make an appointment, under section 19 of the Police Reform and Social Responsibility Act 2011, of a person to be the Deputy Mayor for Policing and Crime.
+(3)[^c-f0e0953786a1b8a82bedaf09ca99fffb] This Schedule also has effect where the Mayor's Office for Policing and Crime proposes to make an appointment, under section 19 of the Police Reform and Social Responsibility Act 2011, of a person to be the Deputy Mayor for Policing and Crime.
 
 (4) In the application of this Schedule in relation to such an appointment, references to the Mayor are to be read as references to the Mayor's Office for Policing and Crime.
 
@@ -39,7 +39,7 @@ summary: ''
 
 (7) Paragraphs 2, 4 and 5 are subject to paragraph 10.
 
-(8)[^key-f24bb5c48381e964aa967520a3fe66bd] Paragraph 9 does not apply in relation to—
+(8)[^c-f24bb5c48381e964aa967520a3fe66bd] Paragraph 9 does not apply in relation to—
 
 - (a) the appointment of a person as the London Fire Commissioner, or
 - (b) the appointment of a person as the Deputy Mayor for Fire under section 67(1)(b),
@@ -150,7 +150,7 @@ to the address for correspondence specified in the Mayor's notification under pa
 - (a) any committee or sub-committee, or
 - (b) a single member of the Assembly.
 
-**10.**[^key-1dca500fabc3f2fe58a5c59f08849834] (1) The London Assembly may veto the appointment of the candidate as Deputy Mayor for Policing and Crime if the candidate is not a member of the London Assembly.
+**10.**[^c-1dca500fabc3f2fe58a5c59f08849834] (1) The London Assembly may veto the appointment of the candidate as Deputy Mayor for Policing and Crime if the candidate is not a member of the London Assembly.
 
 (2) The exercise of that power of veto in relation to an appointment is not valid unless the London Assembly—
 
@@ -163,7 +163,7 @@ to the address for correspondence specified in the Mayor's notification under pa
 
 (5) For that purpose, the London Assembly makes that decision by the required majority if at least two-thirds of the votes given in making that decision are votes in favour of making that decision.
 
-**11.**[^key-f87ec7f774f81d2d666d02bc0fadd613] (1) The Assembly may veto—
+**11.**[^c-f87ec7f774f81d2d666d02bc0fadd613] (1) The Assembly may veto—
 
 - (a) the appointment of the candidate as the London Fire Commissioner, or
 - (b) the appointment of the candidate as the Deputy Mayor for Fire if the candidate is not a member of the Assembly.
@@ -184,12 +184,12 @@ to the address for correspondence specified in the Mayor's notification under pa
 
 ## Annotations
 
-[^key-29e8375832180091d4408f778e24420e]: Textual amendment: Sch. 4A inserted (E.W.) (23.10.2007 for specified purposes, 21.1.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/4/2), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b), [Sch. 1](https://www.legislation.gov.uk/ukpga/2007/24/schedule/1); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
+[^c-29e8375832180091d4408f778e24420e]: Textual amendment: Sch. 4A inserted (E.W.) (23.10.2007 for specified purposes, 21.1.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/4/2), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b), [Sch. 1](https://www.legislation.gov.uk/ukpga/2007/24/schedule/1); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
 
-[^key-f0e0953786a1b8a82bedaf09ca99fffb]: Textual amendment: Sch. 4A para. 1(3)-(7) inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 20(3)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/20/3/a), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2011/3019/article/6))
+[^c-f0e0953786a1b8a82bedaf09ca99fffb]: Textual amendment: Sch. 4A para. 1(3)-(7) inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 20(3)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/20/3/a), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2011/3019/article/6))
 
-[^key-f24bb5c48381e964aa967520a3fe66bd]: Textual amendment: [Sch. 4A para. 1(8)-(10)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/4A/paragraph/1/8) inserted (E.W.) (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/14/2); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/i)
+[^c-f24bb5c48381e964aa967520a3fe66bd]: Textual amendment: [Sch. 4A para. 1(8)-(10)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/4A/paragraph/1/8) inserted (E.W.) (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/14/2); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/i)
 
-[^key-1dca500fabc3f2fe58a5c59f08849834]: Textual amendment: Sch. 4A para. 10 inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 20(3)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/20/3/b), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2011/3019/article/6))
+[^c-1dca500fabc3f2fe58a5c59f08849834]: Textual amendment: Sch. 4A para. 10 inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 20(3)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/20/3/b), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2011/3019/article/6))
 
-[^key-f87ec7f774f81d2d666d02bc0fadd613]: Textual amendment: [Sch. 4A para. 11](https://www.legislation.gov.uk/ukpga/1999/29/schedule/4A/paragraph/11) inserted (E.W.) (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/14/3); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/i)
+[^c-f87ec7f774f81d2d666d02bc0fadd613]: Textual amendment: [Sch. 4A para. 11](https://www.legislation.gov.uk/ukpga/1999/29/schedule/4A/paragraph/11) inserted (E.W.) (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/14/3); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/i)

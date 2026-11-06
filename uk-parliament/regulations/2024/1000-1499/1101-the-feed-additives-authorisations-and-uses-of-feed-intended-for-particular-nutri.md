@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]The Feed Additives (Authorisations) and Uses of Feed Intended for Particular Nutritional Purposes (Amendment of Commission Regulation (EU) 2020/354) (England) Regulations 2024
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]The Feed Additives (Authorisations) and Uses of Feed Intended for Particular Nutritional Purposes (Amendment of Commission Regulation (EU) 2020/354) (England) Regulations 2024
 
 Made
 
@@ -50,147 +50,147 @@ There has been open and transparent public consultation during the preparation a
 
 ## Part 1 — Introductory
 
-### 1. Citation, commencement, extent and application (affected by repeal, see note)[^key-84219490276f9c2ceae49e4a692e1209][^key-a1fb5a36a8280b5b6f13a984ba714da8]
+### 1. Citation, commencement, extent and application (affected by repeal, see note)[^c-84219490276f9c2ceae49e4a692e1209][^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(1) These Regulations may be cited as the Feed Additives (Authorisations) and Uses of Feed Intended for Particular Nutritional Purposes (Amendment of Commission *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] [Regulation (EU) 2020/354 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2020/0354)[^key-a1fb5a36a8280b5b6f13a984ba714da8]) (England) Regulations 2024 and come into force on 20th December 2024. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(1) These Regulations may be cited as the Feed Additives (Authorisations) and Uses of Feed Intended for Particular Nutritional Purposes (Amendment of Commission *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] [Regulation (EU) 2020/354 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2020/0354)[^c-a1fb5a36a8280b5b6f13a984ba714da8]) (England) Regulations 2024 and come into force on 20th December 2024. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(2) These Regulations extend to England and Wales but apply in relation to England only. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(2) These Regulations extend to England and Wales but apply in relation to England only. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-### 2. Interpretation (affected by repeal, see note)[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+### 2. Interpretation (affected by repeal, see note)[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(1) In these Regulations — *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(1) In these Regulations — *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-- “**Regulation *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] [(EC) 152/2009 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2009/0152)[^key-a1fb5a36a8280b5b6f13a984ba714da8]**” means *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] [Commission Regulation (EC) No 152/2009 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2009/0152)[^key-a1fb5a36a8280b5b6f13a984ba714da8] laying down the methods of sampling and analysis for the official control of feed. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+- “**Regulation *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] [(EC) 152/2009 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2009/0152)[^c-a1fb5a36a8280b5b6f13a984ba714da8]**” means *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] [Commission Regulation (EC) No 152/2009 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2009/0152)[^c-a1fb5a36a8280b5b6f13a984ba714da8] laying down the methods of sampling and analysis for the official control of feed. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(2) Any expression used both in these Regulations and in Regulation *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] [(EC) No 1831/2003 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2003/1831)[^key-a1fb5a36a8280b5b6f13a984ba714da8] of the European Parliament and of the Council on additives for use in animal nutrition or *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] Regulation *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] [(EC) No 767/2009 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2009/0767)[^key-a1fb5a36a8280b5b6f13a984ba714da8] of the European Parliament and of the Council on the placing on the market and use of feed, etc. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] has the same meaning as it has in those Regulations. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(2) Any expression used both in these Regulations and in Regulation *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] [(EC) No 1831/2003 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2003/1831)[^c-a1fb5a36a8280b5b6f13a984ba714da8] of the European Parliament and of the Council on additives for use in animal nutrition or *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] Regulation *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] [(EC) No 767/2009 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2009/0767)[^c-a1fb5a36a8280b5b6f13a984ba714da8] of the European Parliament and of the Council on the placing on the market and use of feed, etc. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] has the same meaning as it has in those Regulations. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(3) In Schedules 1 to 20, in the tables, in the row relating to “ *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]*Species or category of animal *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]*”, expressions used that are also used in Annex 4 of *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] [Commission Regulation (EC) No 429/2008 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2008/0429)[^key-a1fb5a36a8280b5b6f13a984ba714da8] on detailed rules for the implementation of Regulation *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] [(EC) 1831/2003 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2003/1831)[^key-a1fb5a36a8280b5b6f13a984ba714da8] of the European Parliament and of the Council as regards the preparation and the presentation of applications and the assessment and the authorisation of feed additives (categories and definitions of target animals etc.) have the same meaning as in that Annex. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(3) In Schedules 1 to 20, in the tables, in the row relating to “ *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]*Species or category of animal *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]*”, expressions used that are also used in Annex 4 of *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] [Commission Regulation (EC) No 429/2008 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2008/0429)[^c-a1fb5a36a8280b5b6f13a984ba714da8] on detailed rules for the implementation of Regulation *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] [(EC) 1831/2003 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2003/1831)[^c-a1fb5a36a8280b5b6f13a984ba714da8] of the European Parliament and of the Council as regards the preparation and the presentation of applications and the assessment and the authorisation of feed additives (categories and definitions of target animals etc.) have the same meaning as in that Annex. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
 ## Part 2 — Feed additive authorisations
 
-### 3. Authorisation of various feed additives[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+### 3. Authorisation of various feed additives[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Part 3 — Uses of feed intended for particular nutritional purposes
 
-### 4. Modification of an essential nutritional characteristic for feed intended to reduce the risk of milk fever and subclinical hypocalcaemia (affected by repeal, see note)[^key-f7762dcc763245d000c8ee23451e5969][^key-a1fb5a36a8280b5b6f13a984ba714da8]
+### 4. Modification of an essential nutritional characteristic for feed intended to reduce the risk of milk fever and subclinical hypocalcaemia (affected by repeal, see note)[^c-f7762dcc763245d000c8ee23451e5969][^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-In Commission *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] [Regulation (EU) 2020/354 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2020/0354)[^key-a1fb5a36a8280b5b6f13a984ba714da8] establishing a list of intended uses of feed intended for particular nutritional purposes, etc. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8][^f00006], in the Annex, in Part B (list of intended uses), in entry 60 (reduction of the risk of milk fever and subclinical hypocalcaemia), in column number 2 (essential nutritional characteristics), in the section of the entry starting “Low cations/anions ratio”, for “Objective: 0\<DCAD *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]<sup>s</sup> (mEq/kg dry matter) \< 100” substitute *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] “Objective: range from -200 mEq/kg dry matter DCAD *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]<sup>s</sup> to \< 100 mEq/kg dry matter DCAD” *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8].
+In Commission *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] [Regulation (EU) 2020/354 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2020/0354)[^c-a1fb5a36a8280b5b6f13a984ba714da8] establishing a list of intended uses of feed intended for particular nutritional purposes, etc. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8][^f00006], in the Annex, in Part B (list of intended uses), in entry 60 (reduction of the risk of milk fever and subclinical hypocalcaemia), in column number 2 (essential nutritional characteristics), in the section of the entry starting “Low cations/anions ratio”, for “Objective: 0\<DCAD *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]<sup>s</sup> (mEq/kg dry matter) \< 100” substitute *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] “Objective: range from -200 mEq/kg dry matter DCAD *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]<sup>s</sup> to \< 100 mEq/kg dry matter DCAD” *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8].
 
 ## Part 4 — Amendment of assimilated direct legislation
 
-### 5. Modification of authorisation: a preparation of Bacillus velezensis (DSM 15544), (identification number 4b1820)[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+### 5. Modification of authorisation: a preparation of Bacillus velezensis (DSM 15544), (identification number 4b1820)[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Modification of authorisation: selenised yeast Saccharomyces cerevisiae (CNCM I-3060), inactivated (identification number 3b810)[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+### 6. Modification of authorisation: selenised yeast Saccharomyces cerevisiae (CNCM I-3060), inactivated (identification number 3b810)[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Changes of authorisation holder: amendment of Commission Implementing [Regulation (EU) No887/2011](https://www.legislation.gov.uk/european/regulation/2011/0887) and Commission Implementing Regulations (EU) 2017/961 and 2020/1395[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+### 7. Changes of authorisation holder: amendment of Commission Implementing [Regulation (EU) No887/2011](https://www.legislation.gov.uk/european/regulation/2011/0887) and Commission Implementing Regulations (EU) 2017/961 and 2020/1395[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendment of Commission Implementing [Regulation (EU) 2016/1095](https://www.legislation.gov.uk/european/regulation/2016/1095)[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+### 8. Amendment of Commission Implementing [Regulation (EU) 2016/1095](https://www.legislation.gov.uk/european/regulation/2016/1095)[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendment of Commission Implementing [Regulation (EU) 2018/1039](https://www.legislation.gov.uk/european/regulation/2018/1039)[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+### 9. Amendment of Commission Implementing [Regulation (EU) 2018/1039](https://www.legislation.gov.uk/european/regulation/2018/1039)[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Part 5 — Transitional Provisions
 
-### 10. Transitional provision: a preparation of (affected by repeal, see note) Bacillus velezensis (affected by repeal, see note) (DSM 15544) (identification number 4b1820) (affected by repeal, see note)[^key-9cd5593c4733adbb0db0a9e25454ec98][^key-a1fb5a36a8280b5b6f13a984ba714da8][^key-a1fb5a36a8280b5b6f13a984ba714da8][^key-a1fb5a36a8280b5b6f13a984ba714da8]
+### 10. Transitional provision: a preparation of (affected by repeal, see note) Bacillus velezensis (affected by repeal, see note) (DSM 15544) (identification number 4b1820) (affected by repeal, see note)[^c-9cd5593c4733adbb0db0a9e25454ec98][^c-a1fb5a36a8280b5b6f13a984ba714da8][^c-a1fb5a36a8280b5b6f13a984ba714da8][^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(1) Any substance or product labelled “ *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]*Bacillus subtilis *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]* C-3102 (DSM 15544)” or as containing “ *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]*Bacillus subtilis *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]* C-3102 (DSM 15544)”, but otherwise produced and labelled in accordance with an authorisation contained in an instrument mentioned in *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] regulation 5 *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8], may continue to be placed on the market and used under that authorisation. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(1) Any substance or product labelled “ *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]*Bacillus subtilis *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]* C-3102 (DSM 15544)” or as containing “ *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]*Bacillus subtilis *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]* C-3102 (DSM 15544)”, but otherwise produced and labelled in accordance with an authorisation contained in an instrument mentioned in *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] regulation 5 *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8], may continue to be placed on the market and used under that authorisation. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(2) Stocks of the relevant feed additive, and premixtures containing it, which are produced and labelled before the end of 19th June 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(2) Stocks of the relevant feed additive, and premixtures containing it, which are produced and labelled before the end of 19th June 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(3) Stocks of feed materials and compound feed containing the relevant feed additive, intended for food-producing animals, which are produced and labelled before the end of 19th December 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(3) Stocks of feed materials and compound feed containing the relevant feed additive, intended for food-producing animals, which are produced and labelled before the end of 19th December 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(4) Stocks of feed materials and compound feed containing the relevant feed additive, intended for non-food-producing animals, which are produced and labelled before the end of 19th December 2026 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(4) Stocks of feed materials and compound feed containing the relevant feed additive, intended for non-food-producing animals, which are produced and labelled before the end of 19th December 2026 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(5) In this regulation— *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(5) In this regulation— *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-- “**relevant feed additive *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]**” means the feed additive of a preparation of *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] *Bacillus velezensis *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]* (DSM 15544), with the identification number 4b1820 authorised under the prior authorisation; *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
-- “**prior authorisation *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]**” means the authorisations contained in Commission Implementing *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] [Regulation (EU) 2016/897 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2016/0897)[^key-a1fb5a36a8280b5b6f13a984ba714da8] concerning the authorisation of a preparation of *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] *Bacillus subtilis *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]* (C-3102) (DSM 1544) as a feed additive for laying hens and ornamental fish, etc., Commission Implementing *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] [Regulation (EU) 2017/2312 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2017/2312)[^key-a1fb5a36a8280b5b6f13a984ba714da8] concerning the authorisation of a new use of the preparation of *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] *Bacillus subtilis *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]* C-3102 (DSM 15544) as a feed additive for sows, suckling piglets and dogs, etc., and Commission Implementing *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] [Regulation (EU) 2018/1081 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2018/1081)[^key-a1fb5a36a8280b5b6f13a984ba714da8] concerning the authorisation of the preparation of *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] *Bacillus subtilis *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]* C-3102 (DSM 15544) as a feed additive for pigs for fattening, etc. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8][^f00016], as the Regulations had effect immediately before 20th December 2024. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+- “**relevant feed additive *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]**” means the feed additive of a preparation of *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] *Bacillus velezensis *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]* (DSM 15544), with the identification number 4b1820 authorised under the prior authorisation; *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
+- “**prior authorisation *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]**” means the authorisations contained in Commission Implementing *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] [Regulation (EU) 2016/897 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2016/0897)[^c-a1fb5a36a8280b5b6f13a984ba714da8] concerning the authorisation of a preparation of *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] *Bacillus subtilis *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]* (C-3102) (DSM 1544) as a feed additive for laying hens and ornamental fish, etc., Commission Implementing *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] [Regulation (EU) 2017/2312 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2017/2312)[^c-a1fb5a36a8280b5b6f13a984ba714da8] concerning the authorisation of a new use of the preparation of *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] *Bacillus subtilis *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]* C-3102 (DSM 15544) as a feed additive for sows, suckling piglets and dogs, etc., and Commission Implementing *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] [Regulation (EU) 2018/1081 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2018/1081)[^c-a1fb5a36a8280b5b6f13a984ba714da8] concerning the authorisation of the preparation of *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] *Bacillus subtilis *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]* C-3102 (DSM 15544) as a feed additive for pigs for fattening, etc. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8][^f00016], as the Regulations had effect immediately before 20th December 2024. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-### 11. Transitional provision: selenised yeast (affected by repeal, see note) Saccharomyces cerevisiae (affected by repeal, see note) (CNCM I-3060), inactivated (identification number 3b810) (affected by repeal, see note)[^key-ab26e24fd1b7871f1bd9d3f6ecac8bd3][^key-a1fb5a36a8280b5b6f13a984ba714da8][^key-a1fb5a36a8280b5b6f13a984ba714da8][^key-a1fb5a36a8280b5b6f13a984ba714da8]
+### 11. Transitional provision: selenised yeast (affected by repeal, see note) Saccharomyces cerevisiae (affected by repeal, see note) (CNCM I-3060), inactivated (identification number 3b810) (affected by repeal, see note)[^c-ab26e24fd1b7871f1bd9d3f6ecac8bd3][^c-a1fb5a36a8280b5b6f13a984ba714da8][^c-a1fb5a36a8280b5b6f13a984ba714da8][^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(1) Stocks of the relevant feed additive, and premixtures containing it, which are produced and labelled before the end of 19th June 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(1) Stocks of the relevant feed additive, and premixtures containing it, which are produced and labelled before the end of 19th June 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(2) Stocks of feed materials and compound feed containing the relevant feed additive, intended for food-producing animals, which are produced and labelled before the end of 19th December 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(2) Stocks of feed materials and compound feed containing the relevant feed additive, intended for food-producing animals, which are produced and labelled before the end of 19th December 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(3) Stocks of feed materials and compound feed containing the relevant feed additive, intended for non-food-producing animals, which are produced and labelled before the end of 19th December 2026 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(3) Stocks of feed materials and compound feed containing the relevant feed additive, intended for non-food-producing animals, which are produced and labelled before the end of 19th December 2026 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(4) In this regulation— *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(4) In this regulation— *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-- “**relevant feed additive *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]**” means the feed additive selenised yeast *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] *Saccharomyces cerevisiae *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]* (CNCM I-3060), inactivated, with the identification number 3b810 authorised under the prior authorisation; *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
-- “**prior authorisation *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]**” means the authorisation contained in Commission Implementing *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] [Regulation (EU) 2019/804 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2019/0804)[^key-a1fb5a36a8280b5b6f13a984ba714da8] concerning the renewal of the authorisation of organic form selenium produced by *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] *Saccharomyces cerevisiae *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]* CNCM I-3060 and of selenomethionine produced by *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] *Saccharomyces cerevisiae *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]* NCYC R397 as feed additives for all animal species *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8][^f00017].
+- “**relevant feed additive *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]**” means the feed additive selenised yeast *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] *Saccharomyces cerevisiae *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]* (CNCM I-3060), inactivated, with the identification number 3b810 authorised under the prior authorisation; *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
+- “**prior authorisation *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]**” means the authorisation contained in Commission Implementing *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] [Regulation (EU) 2019/804 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2019/0804)[^c-a1fb5a36a8280b5b6f13a984ba714da8] concerning the renewal of the authorisation of organic form selenium produced by *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] *Saccharomyces cerevisiae *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]* CNCM I-3060 and of selenomethionine produced by *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] *Saccharomyces cerevisiae *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]* NCYC R397 as feed additives for all animal species *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8][^f00017].
 
-### 12. Transitional provision: butylated hydroxyanisole (identification number 1b320) (affected by repeal, see note)[^key-2b8c613114db67736dae5d79d6b32bb6][^key-a1fb5a36a8280b5b6f13a984ba714da8]
+### 12. Transitional provision: butylated hydroxyanisole (identification number 1b320) (affected by repeal, see note)[^c-2b8c613114db67736dae5d79d6b32bb6][^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(1) Butylated hydroxyanisole (E 320) is authorised to be placed on the market, processed or used as a feed additive for cats only to the extent that it is covered by and meets the conditions of the authorisation contained in Schedule 11 to these Regulations *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8][^f00018], and in consequence of that authorisation butylated hydroxyanisole (E 320) shall no longer be treated as an existing product under, and for the purposes of, Article 10 of Regulation *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] [(EC) No 1831/2003 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2003/1831)[^key-a1fb5a36a8280b5b6f13a984ba714da8].
+(1) Butylated hydroxyanisole (E 320) is authorised to be placed on the market, processed or used as a feed additive for cats only to the extent that it is covered by and meets the conditions of the authorisation contained in Schedule 11 to these Regulations *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8][^f00018], and in consequence of that authorisation butylated hydroxyanisole (E 320) shall no longer be treated as an existing product under, and for the purposes of, Article 10 of Regulation *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] [(EC) No 1831/2003 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2003/1831)[^c-a1fb5a36a8280b5b6f13a984ba714da8].
 
-(2) Stocks of butylated hydroxyanisole as a feed additive for cats, and premixtures containing it, which are produced and labelled before the end of 19th June 2025 in compliance with the conditions of the authorisation and the labelling requirements applicable before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(2) Stocks of butylated hydroxyanisole as a feed additive for cats, and premixtures containing it, which are produced and labelled before the end of 19th June 2025 in compliance with the conditions of the authorisation and the labelling requirements applicable before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(3) Stocks of feed materials and compound feed containing butylated hydroxyanisole, intended for cats, which are produced and labelled before the end of 19th December 2026 in compliance with the conditions of the authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(3) Stocks of feed materials and compound feed containing butylated hydroxyanisole, intended for cats, which are produced and labelled before the end of 19th December 2026 in compliance with the conditions of the authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-### 13. Transitional provision: 6-phytase (EC 3.1.3.26) (identification number 4a16) (affected by repeal, see note)[^key-cc7b77b95f7528b40ac5d931468f65ef][^key-a1fb5a36a8280b5b6f13a984ba714da8]
+### 13. Transitional provision: 6-phytase (EC 3.1.3.26) (identification number 4a16) (affected by repeal, see note)[^c-cc7b77b95f7528b40ac5d931468f65ef][^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(1) Stocks of the relevant feed additive, and premixtures containing it, which are produced and labelled before the end of 19th June 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(1) Stocks of the relevant feed additive, and premixtures containing it, which are produced and labelled before the end of 19th June 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(2) Stocks of feed materials and compound feed containing the relevant feed additive, intended for food-producing animals, which are produced and labelled before the end of 19th June 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(2) Stocks of feed materials and compound feed containing the relevant feed additive, intended for food-producing animals, which are produced and labelled before the end of 19th June 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(3) In this regulation— *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(3) In this regulation— *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-- “**relevant feed additive *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]**” means the feed additive 6-phytase (EC 3.1.3.26), with the identification number 4a16 authorised under the prior authorisation; *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
-- “**prior authorisation *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]**” means the authorisation contained in Commission Implementing *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] [Regulation (EU) No98/2012 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2012/0098)[^key-a1fb5a36a8280b5b6f13a984ba714da8][^f00019], as it had effect immediately before 20th December 2024, concerning the authorisation of 6-phytase (EC 3.1.3.26) produced by *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] *Pichia pastoris *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]* (DSM 23036) as a feed additive for chickens and turkeys for fattening, chickens reared for laying, turkeys reared for breeding, laying hens, other avian species for fattening and laying, weaned piglets, pigs for fattening and sows (holder of authorisation Huvepharma AD) *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8][^f00020].
+- “**relevant feed additive *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]**” means the feed additive 6-phytase (EC 3.1.3.26), with the identification number 4a16 authorised under the prior authorisation; *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
+- “**prior authorisation *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]**” means the authorisation contained in Commission Implementing *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] [Regulation (EU) No98/2012 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2012/0098)[^c-a1fb5a36a8280b5b6f13a984ba714da8][^f00019], as it had effect immediately before 20th December 2024, concerning the authorisation of 6-phytase (EC 3.1.3.26) produced by *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] *Pichia pastoris *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]* (DSM 23036) as a feed additive for chickens and turkeys for fattening, chickens reared for laying, turkeys reared for breeding, laying hens, other avian species for fattening and laying, weaned piglets, pigs for fattening and sows (holder of authorisation Huvepharma AD) *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8][^f00020].
 
-### 14. Transitional provision: copper chelate of hydroxy analogue of methionine (identification number 3b410i) (affected by repeal, see note)[^key-a997fa8347b5c335a4828cb3afe7d9b4][^key-a1fb5a36a8280b5b6f13a984ba714da8]
+### 14. Transitional provision: copper chelate of hydroxy analogue of methionine (identification number 3b410i) (affected by repeal, see note)[^c-a997fa8347b5c335a4828cb3afe7d9b4][^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(1) Stocks of the relevant feed additive, and premixtures containing it, which are produced and labelled before the end of 19th June 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(1) Stocks of the relevant feed additive, and premixtures containing it, which are produced and labelled before the end of 19th June 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(2) Stocks of feed materials and compound feed containing the relevant feed additive, intended for food-producing animals, which are produced and labelled before the end of 19th December 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(2) Stocks of feed materials and compound feed containing the relevant feed additive, intended for food-producing animals, which are produced and labelled before the end of 19th December 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(3) Stocks of feed materials and compound feed containing the relevant feed additive, intended for non-food-producing animals, which are produced and labelled before the end of 19th December 2026 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(3) Stocks of feed materials and compound feed containing the relevant feed additive, intended for non-food-producing animals, which are produced and labelled before the end of 19th December 2026 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(4) In this regulation— *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(4) In this regulation— *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-- “**relevant feed additive *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]**” means copper chelate of hydroxy analogue of methionine, with the identification number 3b410i authorised under the prior authorisation; *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
-- “**prior authorisation *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]**” means the authorisation contained in *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] [Commission Regulation (EU) No 349/2010 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2010/0349)[^key-a1fb5a36a8280b5b6f13a984ba714da8][^f00021], as it had effect immediately before 20th December 2024, concerning the authorisation of copper chelate of hydroxy analogue of methionine as a feed additive for all animal species *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8][^f00022].
+- “**relevant feed additive *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]**” means copper chelate of hydroxy analogue of methionine, with the identification number 3b410i authorised under the prior authorisation; *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
+- “**prior authorisation *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]**” means the authorisation contained in *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] [Commission Regulation (EU) No 349/2010 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2010/0349)[^c-a1fb5a36a8280b5b6f13a984ba714da8][^f00021], as it had effect immediately before 20th December 2024, concerning the authorisation of copper chelate of hydroxy analogue of methionine as a feed additive for all animal species *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8][^f00022].
 
-### 15. Transitional provision: manganese chelate of hydroxy analogue of methionine (identification number 3b510) (affected by repeal, see note)[^key-f708686aaadaaa20902228ad1d172650][^key-a1fb5a36a8280b5b6f13a984ba714da8]
+### 15. Transitional provision: manganese chelate of hydroxy analogue of methionine (identification number 3b510) (affected by repeal, see note)[^c-f708686aaadaaa20902228ad1d172650][^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(1) Stocks of the relevant feed additive, and premixtures containing it, which are produced and labelled before the end of 19th June 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(1) Stocks of the relevant feed additive, and premixtures containing it, which are produced and labelled before the end of 19th June 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(2) Stocks of feed materials and compound feed containing the relevant feed additive, intended for food-producing animals, which are produced and labelled before the end of 19th December 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(2) Stocks of feed materials and compound feed containing the relevant feed additive, intended for food-producing animals, which are produced and labelled before the end of 19th December 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(3) Stocks of feed materials and compound feed containing the relevant feed additive, intended for non-food-producing animals, which are produced and labelled before the end of 19th December 2026 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(3) Stocks of feed materials and compound feed containing the relevant feed additive, intended for non-food-producing animals, which are produced and labelled before the end of 19th December 2026 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(4) In this regulation— *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(4) In this regulation— *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-- “**relevant feed additive *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]**” means manganese chelate of hydroxy analogue of methionine, with the identification number 3b510 authorised under the prior authorisation; *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
-- “**prior authorisation *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]**” means the authorisation contained in *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] [Commission Regulation (EU) No 350/2010 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2010/0350)[^key-a1fb5a36a8280b5b6f13a984ba714da8][^f00023], as it had effect immediately before 20th December 2024, concerning the authorisation of manganese chelate of hydroxy analogue of methionine as a feed additive for all animal species *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8][^f00024].
+- “**relevant feed additive *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]**” means manganese chelate of hydroxy analogue of methionine, with the identification number 3b510 authorised under the prior authorisation; *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
+- “**prior authorisation *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]**” means the authorisation contained in *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] [Commission Regulation (EU) No 350/2010 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2010/0350)[^c-a1fb5a36a8280b5b6f13a984ba714da8][^f00023], as it had effect immediately before 20th December 2024, concerning the authorisation of manganese chelate of hydroxy analogue of methionine as a feed additive for all animal species *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8][^f00024].
 
-### 16. Transitional provision: zinc chelate of hydroxy analogue of methionine (identification number 3b610) (affected by repeal, see note)[^key-a2b1d2431b540e615ab0e379a0c3cbaf][^key-a1fb5a36a8280b5b6f13a984ba714da8]
+### 16. Transitional provision: zinc chelate of hydroxy analogue of methionine (identification number 3b610) (affected by repeal, see note)[^c-a2b1d2431b540e615ab0e379a0c3cbaf][^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(1) Stocks of the relevant feed additive, and premixtures containing it, which are produced and labelled before the end of 19th June 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(1) Stocks of the relevant feed additive, and premixtures containing it, which are produced and labelled before the end of 19th June 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(2) Stocks of feed materials and compound feed containing the relevant feed additive, intended for food-producing animals, which are produced and labelled before the end of 19th December 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(2) Stocks of feed materials and compound feed containing the relevant feed additive, intended for food-producing animals, which are produced and labelled before the end of 19th December 2025 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(3) Stocks of feed materials and compound feed containing the relevant feed additive, intended for non-food-producing animals, which are produced and labelled before the end of 19th December 2026 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(3) Stocks of feed materials and compound feed containing the relevant feed additive, intended for non-food-producing animals, which are produced and labelled before the end of 19th December 2026 in accordance with the conditions of the prior authorisation and the labelling requirements applicable immediately before 20th December 2024, may continue to be placed on the market and used until they are exhausted. *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-(4) In this regulation— *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+(4) In this regulation— *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
-- “**relevant feed additive *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]**” means zinc chelate of hydroxy analogue of methionine, with the identification number 3b610 authorised under the prior authorisation; *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]
-- “**prior authorisation *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8]**” means the authorisation contained in *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8] [Commission Regulation (EU) No 335/2010 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2010/0335)[^key-a1fb5a36a8280b5b6f13a984ba714da8][^f00025], as it had effect immediately before 20th December 2024, concerning the authorisation of zinc chelate of hydroxy analogue of methionine as a feed additive for all animal species *(affected by repeal, see note)*[^key-a1fb5a36a8280b5b6f13a984ba714da8][^f00026].
+- “**relevant feed additive *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]**” means zinc chelate of hydroxy analogue of methionine, with the identification number 3b610 authorised under the prior authorisation; *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]
+- “**prior authorisation *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8]**” means the authorisation contained in *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8] [Commission Regulation (EU) No 335/2010 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2010/0335)[^c-a1fb5a36a8280b5b6f13a984ba714da8][^f00025], as it had effect immediately before 20th December 2024, concerning the authorisation of zinc chelate of hydroxy analogue of methionine as a feed additive for all animal species *(affected by repeal, see note)*[^c-a1fb5a36a8280b5b6f13a984ba714da8][^f00026].
 
 ## Part 6 — Revocation of assimilated direct legislation
 
-### 17. Revocation of assimilated direct legislation[^key-a1fb5a36a8280b5b6f13a984ba714da8]
+### 17. Revocation of assimilated direct legislation[^c-a1fb5a36a8280b5b6f13a984ba714da8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -206,127 +206,127 @@ Department of Health and Social Care
 
 Regulation 3
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 2 — Renewal of authorisation of a preparation of Saccharomyces cerevisiae (MUCL 39885) (identification number 4b1710) as a feed additive for weaned piglets, and its authorisation extending to the use for cats, dogs and all Suidae other than sows and suckling piglets
 
 Regulation 3
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 3 — Authorisation of a preparation of Pediococcus acidilactici (CNCM I-4622) (identification number 4d1712) as a feed additive for all animal species
 
 Regulation 3
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 4 — Renewal of authorisation (with modification) of a preparation of monensin sodium produced by fermentation with Streptomyces cinnamonensis 28682 (NBIMCC 3419) (carrier: perlite, calcium carbonate) (identification number 51701) as a feed additive for chickens for fattening, chickens reared for laying and turkeys for fattening, and its authorisation extending to the use for turkeys reared for breeding
 
 Regulation 3
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 5 — Renewal of authorisation (with modification) of a preparation of monensin sodium produced by fermentation with Streptomyces cinnamonensis 28682 (NBIMCC 3419) (carrier: perlite, wheat bran) (identification number 51701) as a feed additive for chickens for fattening, turkeys for fattening and its authorisation extending to the use for chickens reared for laying and turkeys reared for breeding
 
 Regulation 3
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 6 — Renewal of authorisation (with modification) of a preparation of 6-phytase (EC 3.1.3.26) produced by fermentation with Komagataella phaffii (formerly Komagataella pastoris) (DSM 23036) (identification number 4a16) as a feed additive for chickens for fattening, chickens reared for laying, laying hens, turkeys for fattening, turkeys reared for breeding, other avian species for fattening and laying, sows, pigs for fattening and weaned piglets, and its authorisation extending to the use for all avian species and all Suidae
 
 Regulation 3
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 7 — Renewal of authorisation (with modification) of a preparation of Bacillus velezensis (formerly Bacillus subtilis) (DSM 15544) (identification number 4b1820) as a feed additive for weaned piglets, chickens reared for laying, turkeys, minor avian species, ornamental birds and game birds; consolidation of existing authorised uses for laying hens and chickens for fattening; and its authorisation as a feed additive extending existing authorised uses to cover all other avian species
 
 Regulation 3
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 8 — Authorisation of a preparation of L-histidine monohydrochloride monohydrate produced by fermentation with Escherichia coli K-12 (KCCM 80212) (identification number 3c352i) as a feed additive for all animal species
 
 Regulation 3
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 9 — Authorisation of a preparation of L-tryptophan produced by fermentation with Escherichia coli (KCCM 80210) (identification number 3c440i) as a feed additive for all animal species
 
 Regulation 3
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 10 — Authorisation of a preparation of L-lysine sulphate produced by fermentation with Corynebacterium glutamicum (KCCM 80227) (identification number 3c324i) as a feed additive for all animal species
 
 Regulation 3
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 11 — Authorisation of the substance butylated hydroxyanisole (identification number 1b320) as a feed additive for cats
 
 Regulation 3
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 12 — Authorisation of a preparation of L-lysine base (liquid) produced by fermentation with Corynebacterium glutamicum (KCCM 80183) (identification number 3c320) as a feed additive for all animal species
 
 Regulation 3
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 13 — Authorisation of the substance L-lysine monohydrochloride (technically pure) produced by fermentation with Corynebacterium glutamicum (KCCM 80183) (identification number 3c322ii) as a feed additive for all animal species
 
 Regulation 3
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 14 — Authorisation of the substance disodium 5’ -guanylate (GMP) produced by fermentation with Corynebacterium stationis (KCCM 10530) and Escherichia coli K-12 (KFCC 11067) (identification number 2b627i) as a feed additive for all animal species
 
 Regulation 3
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 15 — Authorisation of a preparation of muramidase (EC 3.2.1.17) produced by fermentation with Trichoderma reesei (DSM 32338) (identification number 4d16) as a feed additive for weaned piglets
 
 Regulation 3
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 16 — Authorisation of the substance of phytomenadione (Vitamin K<sub>1</sub>) (identification number 3a712) as a feed additive for horses
 
 Regulation 3
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 17 — Renewal of authorisation (with modification) of a preparation of copper chelate of hydroxy analogue of methionine (identification number 3b410i (formerly 3b4.10)) as a feed additive for all animal species
 
 Regulation 3
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 18 — Renewal of authorisation (with modification) of a preparation of manganese chelate of hydroxy analogue of methionine (identification number 3b510 (formerly 3b5.10)) as a feed additive for all animal species
 
 Regulation 3
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 19 — Renewal of authorisation (with modification) of a preparation of zinc chelate of hydroxy analogue of methionine (identification number 3b610 (formerly 3b6.10)) as a feed additive for all animal species
 
 Regulation 3
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 20 — Authorisation of a preparation of fumonisin esterase (EC 3.1.1.87) produced by fermentation with Komagataella phaffii (DSM 32159) (identification number 1m03i) as a feed additive for all animal species, for use only in maize-based silages
 
 Regulation 3
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 21 — Revocation of assimilated direct legislation
 
 Regulation 17
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Explanatory Note
 
@@ -401,7 +401,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 ## Annotations
 
-[^key-a1fb5a36a8280b5b6f13a984ba714da8]: Textual amendment: Regulations revoked (except for regs. 4, 10-16 and regs. 1, 2 so far as they relate to regs. 4, 10-16) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2025/361/schedule/3) (j) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-a1fb5a36a8280b5b6f13a984ba714da8]: Textual amendment: Regulations revoked (except for regs. 4, 10-16 and regs. 1, 2 so far as they relate to regs. 4, 10-16) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2025/361/schedule/3) (j) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
 [^f00001]: Footnote: EUR 2003/1831, amended by [S.I. 2019/654](https://www.legislation.gov.uk/uksi/2019/654), [2022/377](https://www.legislation.gov.uk/uksi/2022/377) and [1351](https://www.legislation.gov.uk/uksi/2022/1351). See Article 2 for the definitions of “appropriate authority” and “prescribe”.
 
@@ -409,43 +409,43 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00003]: Footnote: EUR 2002/178, amended by [S.I. 2019/641](https://www.legislation.gov.uk/uksi/2019/641).
 
-[^key-84219490276f9c2ceae49e4a692e1209]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1) in force at 20.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1)
+[^c-84219490276f9c2ceae49e4a692e1209]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1) in force at 20.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1)
 
-[^key-f7762dcc763245d000c8ee23451e5969]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/1101/regulation/4) in force at 20.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1)
+[^c-f7762dcc763245d000c8ee23451e5969]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/1101/regulation/4) in force at 20.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1)
 
 [^f00006]: Footnote: EUR 2020/354.
 
-[^key-9cd5593c4733adbb0db0a9e25454ec98]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/1101/regulation/10) in force at 20.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1)
+[^c-9cd5593c4733adbb0db0a9e25454ec98]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/1101/regulation/10) in force at 20.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1)
 
 [^f00016]: Footnote: EUR 2016/897, EUR 2017/2312, EUR 2018/1081.
 
-[^key-ab26e24fd1b7871f1bd9d3f6ecac8bd3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/1101/regulation/11) in force at 20.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1)
+[^c-ab26e24fd1b7871f1bd9d3f6ecac8bd3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/1101/regulation/11) in force at 20.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1)
 
 [^f00017]: Footnote: EUR 2019/804.
 
-[^key-2b8c613114db67736dae5d79d6b32bb6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/1101/regulation/12) in force at 20.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1)
+[^c-2b8c613114db67736dae5d79d6b32bb6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/1101/regulation/12) in force at 20.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1)
 
 [^f00018]: Footnote: Prior to the coming into force of these Regulations, butylated hydroxyanisole has been treated as an ‘existing product’ for the purposes of Article 10 of Regulation [(EC) 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831).
 
-[^key-cc7b77b95f7528b40ac5d931468f65ef]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/1101/regulation/13) in force at 20.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1)
+[^c-cc7b77b95f7528b40ac5d931468f65ef]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/1101/regulation/13) in force at 20.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1)
 
 [^f00019]: Footnote: EUR 2012/98.
 
 [^f00020]: Footnote: Save to the extent that its continued operation is needed for the operation of this transitional provision, this Regulation is revoked by regulation 17(1) of, and Part 1 of Schedule 21 to, these Regulations.
 
-[^key-a997fa8347b5c335a4828cb3afe7d9b4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2024/1101/regulation/14) in force at 20.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1)
+[^c-a997fa8347b5c335a4828cb3afe7d9b4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2024/1101/regulation/14) in force at 20.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1)
 
 [^f00021]: Footnote: EUR 2010/349.
 
 [^f00022]: Footnote: Save to the extent that its continued operation is needed for the operation of this transitional provision, this Regulation is revoked by regulation 17(1) of, and Part 1 of Schedule 21 to, these Regulations.
 
-[^key-f708686aaadaaa20902228ad1d172650]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2024/1101/regulation/15) in force at 20.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1)
+[^c-f708686aaadaaa20902228ad1d172650]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2024/1101/regulation/15) in force at 20.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1)
 
 [^f00023]: Footnote: EUR 2010/350.
 
 [^f00024]: Footnote: Save to the extent that its continued operation is needed for the operation of this transitional provision, this Regulation is revoked by regulation 17(1) of, and Part 1 of Schedule 21 to, these Regulations.
 
-[^key-a2b1d2431b540e615ab0e379a0c3cbaf]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2024/1101/regulation/16) in force at 20.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1)
+[^c-a2b1d2431b540e615ab0e379a0c3cbaf]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2024/1101/regulation/16) in force at 20.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1)
 
 [^f00025]: Footnote: EUR 2010/335.
 

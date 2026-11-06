@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. District Judges (Magistrates’ Courts) Pensions Act (Northern Ireland) 1960[^key-934bbb2ace6902beba7b64ee30d931e5]
+## 56. District Judges (Magistrates’ Courts) Pensions Act (Northern Ireland) 1960[^c-934bbb2ace6902beba7b64ee30d931e5]
 
 *Extent: N.I.*
 
@@ -61,7 +61,7 @@ summary: ''
 
 ## Annotations
 
-[^key-934bbb2ace6902beba7b64ee30d931e5]: Commencement: Reg. 56 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-934bbb2ace6902beba7b64ee30d931e5]: Commencement: Reg. 56 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00076]: Footnote: [1960 c.2 (N.I.)](https://www.legislation.gov.uk/apni/1960/2), formerly the Resident Magistrates’ Pensions Act (Northern Ireland) 1960, but renamed by [S.R. (N.I.) 2008/154](https://www.legislation.gov.uk/nisr/2008/154).
 

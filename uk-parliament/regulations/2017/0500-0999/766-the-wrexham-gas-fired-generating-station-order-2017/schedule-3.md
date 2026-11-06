@@ -22,11 +22,11 @@ summary: ''
 
 Articles 2 and 3
 
-### 1. Time limits[^key-163f01a769be6bb7e5ab9f53f4b1d069]
+### 1. Time limits[^c-163f01a769be6bb7e5ab9f53f4b1d069]
 
 The authorised development must be commenced within five years of the date that this Order is made.
 
-### 2. Detailed design approval[^key-508f0ac9b2d12a14fc24530638c064ab]
+### 2. Detailed design approval[^c-508f0ac9b2d12a14fc24530638c064ab]
 
 (1) The authorised development must be carried out in accordance with the approved plans, inclusive of any limits of deviation, bearing the references listed below and any other plans, drawings, documents, details, schemes, statements or strategies which are approved by the relevant planning authority pursuant to any requirement (as the same may be amended by approval of the relevant planning authority pursuant to requirement 15(1))—
 
@@ -70,7 +70,7 @@ Table 3
 
 (5) The details to be submitted for approval under sub-paragraph (4) must include appropriately scaled plans and sectional drawings.
 
-### 3. Provision of and implementation and maintenance of landscaping and ecological mitigation[^key-908610377344c6cbca8df1a1eab4e779]
+### 3. Provision of and implementation and maintenance of landscaping and ecological mitigation[^c-908610377344c6cbca8df1a1eab4e779]
 
 (1) No authorised development may commence until a written landscaping and ecological mitigation scheme has been submitted to and approved by the relevant planning authority. The landscaping and ecological mitigation scheme must be substantially in accordance with the illustrative landscape and ecological mitigation master plan and must include details of all proposed hard and soft landscaping and ecological mitigation works, including—
 
@@ -94,7 +94,7 @@ Table 3
 
 (6) The landscaping and ecological mitigation works must be managed and maintained throughout the life of the authorised development to ensure the long term adequacy of the approved landscaping and ecological mitigation scheme.
 
-### 4. Construction and Environment Management Plan[^key-b5785f06ca397dc5a2aae54b8ee79d1a]
+### 4. Construction and Environment Management Plan[^c-b5785f06ca397dc5a2aae54b8ee79d1a]
 
 (1) No authorised development may commence until a construction and environment management plan has been submitted to and approved by the relevant planning authority. The construction and environment management plan must be substantially in accordance with the draft construction and environment management plan forming part of the environmental statement insofar as it relates to the relevant numbered work and must include the following—
 
@@ -122,7 +122,7 @@ Table 3
 
 (4) The undertaker may submit for approval by the relevant planning authority a construction and environment management plan for each of numbered work 1, numbered work 2, numbered work 3, numbered work 4, and numbered work 5 individually, and, in such a case, only those parts of the authorised development forming the numbered work the subject of the construction and environment management plan may be commenced following the approval of such a construction and environment management plan.
 
-### 5. Ground investigation[^key-214f2f0fe70eda6de9195182e7191e62]
+### 5. Ground investigation[^c-214f2f0fe70eda6de9195182e7191e62]
 
 (1) Each of numbered works 1 to 5 must not be commenced until, for that numbered work, a scheme (which may be included in the construction environment management plan) to deal with the contamination of any land, including groundwater, which is likely to cause significant harm to persons or significant pollution of controlled waters or the environment has been submitted to and approved in writing by the relevant planning authority.
 
@@ -132,13 +132,13 @@ Table 3
 
 (4) Any required remediation must be carried out in accordance with the approved scheme.
 
-### 6. Piling[^key-cecf8cbb0859dbcc6e21fa16d72f20dd]
+### 6. Piling[^c-cecf8cbb0859dbcc6e21fa16d72f20dd]
 
 (1) No piling may commence until a piling strategy has been submitted to and approved by the relevant planning authority, such strategy to include a piling risk assessment, the results of such assessment and the piling techniques to be used in carrying out the authorised development.
 
 (2) Piling must be carried out in accordance with the approved strategy.
 
-### 7. Fencing and other means of enclosure[^key-126817ad71e13e5aca15acda829608ab]
+### 7. Fencing and other means of enclosure[^c-126817ad71e13e5aca15acda829608ab]
 
 (1) No authorised development may commence until details of the proposed fencing and other means of enclosure for the authorised development have been submitted to and approved by the relevant planning authority.
 
@@ -148,7 +148,7 @@ Table 3
 
 (4) The undertaker may submit for approval by the relevant planning authority details of the proposed means of enclosure for each of numbered work 1G, numbered work 2A and numbered work 2B individually and, in such a case, only those parts of the authorised development forming the numbered work the subject of the details of the proposed means of enclosure may be commenced following the approval of such details.
 
-### 8. Archaeology[^key-8dfed14fd6549001bf27d42b27679f33]
+### 8. Archaeology[^c-8dfed14fd6549001bf27d42b27679f33]
 
 (1) No authorised development may commence until a written scheme setting out the methodology for the investigation of areas of archaeological interest has been submitted to and approved by the relevant planning authority.
 
@@ -165,7 +165,7 @@ Table 3
 
 (5) The undertaker may submit for approval by the relevant planning authority a scheme for each of numbered work 1, numbered work 2, numbered work 3, numbered work 4, and numbered work 5 individually, and, in such a case, only those parts of the authorised development forming the numbered work the subject of the scheme may be commenced following the approval of such a scheme.
 
-### 9. Construction traffic management plan[^key-1d79d9f283a4248ce0484e9285eae00d]
+### 9. Construction traffic management plan[^c-1d79d9f283a4248ce0484e9285eae00d]
 
 (1) No authorised development may commence until a construction traffic management plan has been submitted to and approved by the relevant planning authority in consultation with the relevant highway authority. The construction traffic management plan must be substantially in accordance with the draft construction traffic management plan forming part of the environmental statement insofar as it relates to the relevant numbered work and must include the following—
 
@@ -189,7 +189,7 @@ Table 3
 
 (5) In this requirement “abnormal indivisible load” has the same meaning as in the Road Vehicles (Authorisation of Special Types) (General) Order 2003[^f00026].
 
-### 10. Travel plan during operational phase[^key-51e7b381fdee1c74236278f947094988]
+### 10. Travel plan during operational phase[^c-51e7b381fdee1c74236278f947094988]
 
 (1) Prior to the date of final commissioning a written operational travel plan must be submitted to and approved by the relevant planning authority. Such operational travel plan to include—
 
@@ -198,7 +198,7 @@ Table 3
 
 (2) The operational travel plan must be carried out as approved.
 
-### 11. Construction hours[^key-ce14f21408d7185e1cc3a7cbf139dd69]
+### 11. Construction hours[^c-ce14f21408d7185e1cc3a7cbf139dd69]
 
 (1) Construction work for the authorised development must not take place outside the hours of—
 
@@ -209,7 +209,7 @@ Table 3
 
 (3) Nothing in sub-paragraph (1) precludes a start-up period from 06:30 to 07:00 and a shut-down period from 19:00 to 19:30 on weekdays (excluding public holidays) and a start-up period from 06:30 to 07:00 and a shut-down period from 13:00 to 13:30 on Saturdays and public holidays.
 
-### 12. Foul and surface water drainage[^key-0248c65c2695057dab51224101b91178]
+### 12. Foul and surface water drainage[^c-0248c65c2695057dab51224101b91178]
 
 (1) Numbered works 1, 2 and 3 must not commence until written details of the surface water drainage system and separate written details of the foul water drainage system for the operation of the authorised development have been submitted to and approved by the relevant planning authority. The submitted details must be substantially in accordance with the illustrative foul and surface water drainage strategy.
 
@@ -217,7 +217,7 @@ Table 3
 
 (3) The surface water drainage system and the foul water drainage system for the authorised development must be constructed and maintained in accordance with the approved details.
 
-### 13. Artificial lighting[^key-a2d546d9282c6cb4174c3718bb8131ef]
+### 13. Artificial lighting[^c-a2d546d9282c6cb4174c3718bb8131ef]
 
 (1) No generation of electricity on a commercial basis is to take place until written details of the control of artificial lighting during maintenance and operation of the authorised development have been submitted to and approved by the relevant planning authority, such details to include the timetable for implementation of the artificial lighting and measures to keep external lighting to the minimum necessary for operational safety and security reasons, incorporating cut-offs to reduce light pollution.
 
@@ -227,7 +227,7 @@ Table 3
 
 (4) The undertaker may submit for approval by the relevant planning authority written details of the artificial lighting during maintenance and operation of the authorised development for each of numbered work 1G and numbered work 2B individually forming the numbered work the subject of the written details of the control of artificial lighting and, in such a case, only those parts of the authorised development may be commenced following the approval of such details.
 
-### 14. Local economic benefit[^key-1567c002140aa355af1c176e3b3ca886]
+### 14. Local economic benefit[^c-1567c002140aa355af1c176e3b3ca886]
 
 (1) No part of the authorised development must commence until a scheme for the promotion of local economic benefit from the authorised development in the County Borough of Wrexham has been submitted to and approved by the relevant planning authority. Such scheme must include—
 
@@ -237,7 +237,7 @@ Table 3
 
 (2) The authorised development must be carried out in accordance with the scheme approved under sub-paragraph (1).
 
-### 15. Amendments to approved details[^key-e0606979d14874daae36e5ab7259e1ca]
+### 15. Amendments to approved details[^c-e0606979d14874daae36e5ab7259e1ca]
 
 (1) Subject to sub-paragraph (2), the undertaker may submit to the relevant planning authority for approval any amendments to any plans, drawings, documents, details, schemes, statements or strategies which require approval by the relevant planning authority pursuant to any requirement (the “Approved Plans, Details or Schemes”). Following any such approval by the relevant planning authority the Approved Plans, Details or Schemes are to be taken to include the amendments approved pursuant to this sub-paragraph (1).
 
@@ -245,7 +245,7 @@ Table 3
 
 (3) Approval under sub-paragraph (1) and requirement 2(2) must not be given except where it has been demonstrated to the satisfaction of the relevant planning authority that the subject-matter of the approval sought is unlikely to give rise to any materially new or materially different environmental effects in comparison with the authorised development as approved (as identified in the environmental statement).
 
-### 16. Combined heat and power[^key-42cd6b452527099c1c098ceb17fa7b1e]
+### 16. Combined heat and power[^c-42cd6b452527099c1c098ceb17fa7b1e]
 
 (1) Prior to the date of final commissioning, a review of potential opportunities for the use of heat from the authorised development must be submitted to and approved by the relevant planning authority.
 
@@ -255,7 +255,7 @@ Table 3
 
 (4) The undertaker must carry out the on-going monitoring, exploration of potential opportunities to use heat from the authorised development and any subsequent reviews in accordance with the review of potential opportunities approved under sub-paragraph (1).
 
-### 17. Decommissioning strategy[^key-52e24943a58cbf1d743cf9def4d28f82]
+### 17. Decommissioning strategy[^c-52e24943a58cbf1d743cf9def4d28f82]
 
 (1) Subject to obtaining the necessary consents and unless otherwise agreed with the relevant planning authority, within twenty four months of the Order land ceasing to be used for the purposes of electricity generation (either actively generating electricity or being available to generate electricity on a standby basis), a scheme for the demolition and removal of numbered work 1 must be submitted to the relevant planning authority.
 
@@ -265,13 +265,13 @@ Table 3
 
 (4) On the one year anniversary of the Order land ceasing to be used for the purposes of electricity generation (either actively generating electricity or being available to generate electricity on a standby basis) the undertaker must notify the relevant planning authority of the same.
 
-### 18. Requirements for written approval, etc.[^key-605532a0f5d0d54312d73ac6337d5e6d]
+### 18. Requirements for written approval, etc.[^c-605532a0f5d0d54312d73ac6337d5e6d]
 
 (1) Where under any of the above requirements the approval or agreement of the relevant planning authority or any other party is required, that approval or agreement must be provided in writing and must not be unreasonably withheld or delayed.
 
 (2) Where under any of the above requirements a written scheme is required it must be accompanied by such illustrations as are necessary and appropriate in the circumstances.
 
-### 19. Date of final commissioning and cessation[^key-16ae6bb3725d18e29fbbbc7372a26c51]
+### 19. Date of final commissioning and cessation[^c-16ae6bb3725d18e29fbbbc7372a26c51]
 
 (1) The undertaker must notify the relevant planning authority of the date of final commissioning as soon as reasonably practicable and in any event within three months after the occurrence of that date.
 
@@ -279,42 +279,42 @@ Table 3
 
 ## Annotations
 
-[^key-163f01a769be6bb7e5ab9f53f4b1d069]: Commencement: Sch. 3 para. 1 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-163f01a769be6bb7e5ab9f53f4b1d069]: Commencement: Sch. 3 para. 1 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
-[^key-508f0ac9b2d12a14fc24530638c064ab]: Commencement: Sch. 3 para. 2 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-508f0ac9b2d12a14fc24530638c064ab]: Commencement: Sch. 3 para. 2 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
-[^key-908610377344c6cbca8df1a1eab4e779]: Commencement: Sch. 3 para. 3 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-908610377344c6cbca8df1a1eab4e779]: Commencement: Sch. 3 para. 3 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
-[^key-b5785f06ca397dc5a2aae54b8ee79d1a]: Commencement: Sch. 3 para. 4 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-b5785f06ca397dc5a2aae54b8ee79d1a]: Commencement: Sch. 3 para. 4 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
-[^key-214f2f0fe70eda6de9195182e7191e62]: Commencement: Sch. 3 para. 5 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-214f2f0fe70eda6de9195182e7191e62]: Commencement: Sch. 3 para. 5 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
-[^key-cecf8cbb0859dbcc6e21fa16d72f20dd]: Commencement: Sch. 3 para. 6 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-cecf8cbb0859dbcc6e21fa16d72f20dd]: Commencement: Sch. 3 para. 6 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
-[^key-126817ad71e13e5aca15acda829608ab]: Commencement: Sch. 3 para. 7 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-126817ad71e13e5aca15acda829608ab]: Commencement: Sch. 3 para. 7 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
-[^key-8dfed14fd6549001bf27d42b27679f33]: Commencement: Sch. 3 para. 8 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-8dfed14fd6549001bf27d42b27679f33]: Commencement: Sch. 3 para. 8 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
-[^key-1d79d9f283a4248ce0484e9285eae00d]: Commencement: Sch. 3 para. 9 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-1d79d9f283a4248ce0484e9285eae00d]: Commencement: Sch. 3 para. 9 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
 [^f00026]: Footnote: [S.I. 2003/1998](https://www.legislation.gov.uk/uksi/2003/1998).
 
-[^key-51e7b381fdee1c74236278f947094988]: Commencement: Sch. 3 para. 10 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-51e7b381fdee1c74236278f947094988]: Commencement: Sch. 3 para. 10 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
-[^key-ce14f21408d7185e1cc3a7cbf139dd69]: Commencement: Sch. 3 para. 11 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-ce14f21408d7185e1cc3a7cbf139dd69]: Commencement: Sch. 3 para. 11 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
-[^key-0248c65c2695057dab51224101b91178]: Commencement: Sch. 3 para. 12 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-0248c65c2695057dab51224101b91178]: Commencement: Sch. 3 para. 12 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
-[^key-a2d546d9282c6cb4174c3718bb8131ef]: Commencement: Sch. 3 para. 13 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-a2d546d9282c6cb4174c3718bb8131ef]: Commencement: Sch. 3 para. 13 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
-[^key-1567c002140aa355af1c176e3b3ca886]: Commencement: Sch. 3 para. 14 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-1567c002140aa355af1c176e3b3ca886]: Commencement: Sch. 3 para. 14 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
-[^key-e0606979d14874daae36e5ab7259e1ca]: Commencement: Sch. 3 para. 15 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-e0606979d14874daae36e5ab7259e1ca]: Commencement: Sch. 3 para. 15 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
-[^key-42cd6b452527099c1c098ceb17fa7b1e]: Commencement: Sch. 3 para. 16 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-42cd6b452527099c1c098ceb17fa7b1e]: Commencement: Sch. 3 para. 16 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
-[^key-52e24943a58cbf1d743cf9def4d28f82]: Commencement: Sch. 3 para. 17 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-52e24943a58cbf1d743cf9def4d28f82]: Commencement: Sch. 3 para. 17 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
-[^key-605532a0f5d0d54312d73ac6337d5e6d]: Commencement: Sch. 3 para. 18 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-605532a0f5d0d54312d73ac6337d5e6d]: Commencement: Sch. 3 para. 18 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
-[^key-16ae6bb3725d18e29fbbbc7372a26c51]: Commencement: Sch. 3 para. 19 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-16ae6bb3725d18e29fbbbc7372a26c51]: Commencement: Sch. 3 para. 19 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)

@@ -421,7 +421,7 @@ In accordance with section 3(5) of that Act, these Regulations are made with the
 - [Section 150 — Appointment of scheme actuary and actuarial valuations](part-11/section-150.md)
 - [Section 150A — Employer cost cap](part-11/section-150a.md)
 
-### PART 12 — Appeals and determinations[^key-48e8ccf125dec4d864669dd0148cc22d]
+### PART 12 — Appeals and determinations[^c-48e8ccf125dec4d864669dd0148cc22d]
 
 *Extent: E+W+S+N.I.*
 
@@ -580,4 +580,4 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00005]: Footnote: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-48e8ccf125dec4d864669dd0148cc22d]: Modification: Pt. 12 applied (1.10.2023) by [The Firefighters’ Pensions (Remediable Service) Regulations 2023 (S.I. 2023/843)](https://www.legislation.gov.uk/uksi/2023/843), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/843/regulation/1/b), [51(7)](https://www.legislation.gov.uk/uksi/2023/843/regulation/51/7)
+[^c-48e8ccf125dec4d864669dd0148cc22d]: Modification: Pt. 12 applied (1.10.2023) by [The Firefighters’ Pensions (Remediable Service) Regulations 2023 (S.I. 2023/843)](https://www.legislation.gov.uk/uksi/2023/843), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/843/regulation/1/b), [51(7)](https://www.legislation.gov.uk/uksi/2023/843/regulation/51/7)

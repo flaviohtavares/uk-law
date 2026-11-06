@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Assimilated direct legislation[^key-1e1c77d7246ceb013e7c221596497bdf]
+## 18. Assimilated direct legislation[^c-1e1c77d7246ceb013e7c221596497bdf]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e1c77d7246ceb013e7c221596497bdf]: Textual amendment: Words in s. 18 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(e)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/e)
+[^c-1e1c77d7246ceb013e7c221596497bdf]: Textual amendment: Words in s. 18 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(e)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/e)

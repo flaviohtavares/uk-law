@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52F. Local producer’s premises: authorisation for on-sales[^key-7771e2648945e6d9642b4c5280d83dd4]
+## 52F. Local producer’s premises: authorisation for on-sales[^c-7771e2648945e6d9642b4c5280d83dd4]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7771e2648945e6d9642b4c5280d83dd4]: Textual amendment: [Art. 52F](https://www.legislation.gov.uk/nisi/1996/3158/article/52E) inserted (1.6.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 11(1)](https://www.legislation.gov.uk/nia/2021/7/section/11/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/133](https://www.legislation.gov.uk/nisr/2022/133), [art. 2](https://www.legislation.gov.uk/nisr/2022/133/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/133/schedule)
+[^c-7771e2648945e6d9642b4c5280d83dd4]: Textual amendment: [Art. 52F](https://www.legislation.gov.uk/nisi/1996/3158/article/52E) inserted (1.6.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 11(1)](https://www.legislation.gov.uk/nia/2021/7/section/11/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/133](https://www.legislation.gov.uk/nisr/2022/133), [art. 2](https://www.legislation.gov.uk/nisr/2022/133/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/133/schedule)

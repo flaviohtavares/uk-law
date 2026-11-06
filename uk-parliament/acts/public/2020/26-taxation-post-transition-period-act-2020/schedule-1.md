@@ -24,13 +24,13 @@ Section 2
 
 ### Amendments of TCTA 2018
 
-**1.**[^c24415781][^key-1e6e8eb3b4a2a7a4d87600c60833ca36] TCTA 2018 is amended in accordance with paragraphs 2 to 11.
+**1.**[^c24415781][^c-1e6e8eb3b4a2a7a4d87600c60833ca36] TCTA 2018 is amended in accordance with paragraphs 2 to 11.
 
-**2.**[^c24415791][^key-7a26449f2e23c33925efa47cb273333c] In section 3 (obligation to declare goods for a customs procedure on import), in subsection (3)(a) for “the United Kingdom” substitute “ Great Britain ”.
+**2.**[^c24415791][^c-7a26449f2e23c33925efa47cb273333c] In section 3 (obligation to declare goods for a customs procedure on import), in subsection (3)(a) for “the United Kingdom” substitute “ Great Britain ”.
 
-**3.**[^c24415801][^key-381076a996412ff8d3f1d1d8b045d5b6] In section 32 (regulations), in subsection (9)(a) after “Part” insert “ or under section 40A or 40B ”.
+**3.**[^c24415801][^c-381076a996412ff8d3f1d1d8b045d5b6] In section 32 (regulations), in subsection (9)(a) after “Part” insert “ or under section 40A or 40B ”.
 
-**4.**[^c24415811][^key-b9d4058741747b7721b029049dbbb192] (1) Section 33 (meaning of “domestic goods”) is amended as follows.
+**4.**[^c24415811][^c-b9d4058741747b7721b029049dbbb192] (1) Section 33 (meaning of “domestic goods”) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -69,12 +69,12 @@ Section 2
 > - (a) they were exported as a result of their removal from Northern Ireland, or
 > - (b) they were exported as a result of their removal from Great Britain and were so exported in accordance with the applicable export provisions.
 
-**5.**[^c24415821][^key-fe278e4d19e94a06c9170ef454d75616] In section 36 (outward processing procedure), in subsection (2)—
+**5.**[^c24415821][^c-fe278e4d19e94a06c9170ef454d75616] In section 36 (outward processing procedure), in subsection (2)—
 
 - (a) in paragraph (a), after “the United Kingdom”, in the first place it occurs, insert “ as a result of the removal of the goods from Great Britain ”;
 - (b) in paragraph (b), after “the United Kingdom” insert “ and removed to Great Britain (whether in the course of that importation or otherwise) ”.
 
-**6.**[^c24415831][^key-87aa6c5b38f3019715098b18d07d9ebe] In section 37 (minor definitions), in subsection (1), at the appropriate places insert—
+**6.**[^c24415831][^c-87aa6c5b38f3019715098b18d07d9ebe] In section 37 (minor definitions), in subsection (1), at the appropriate places insert—
 
 > “**the customs and excise Acts**” has the meaning it has in CEMA 1979 (see section 1(1) of that Act);
 
@@ -92,7 +92,7 @@ Section 2
 
 .
 
-**7.**[^c24415841][^key-2e19741894a8e3acdbe2379cf1b2a574] In section 38 (table of definitions), in the table, at the appropriate places insert—
+**7.**[^c24415841][^c-2e19741894a8e3acdbe2379cf1b2a574] In section 38 (table of definitions), in the table, at the appropriate places insert—
 
 > |  |  |
 > | --- | --- |
@@ -118,7 +118,7 @@ Section 2
 
 .
 
-**8.**[^c24415851][^key-51e351ec6ef4c9f6e2a53689879b404b] (1) Schedule 1 (customs declarations) is amended as follows.
+**8.**[^c24415851][^c-51e351ec6ef4c9f6e2a53689879b404b] (1) Schedule 1 (customs declarations) is amended as follows.
 
 (2) In paragraph 1(4)—
 
@@ -132,7 +132,7 @@ Section 2
   - (i) after “have” insert “ , or do not have, ”;
   - (ii) for “the United Kingdom or to a specified place outside the United Kingdom” substitute “ a specified place ”.
 
-**9.**[^c24415861][^key-267e16283e0271c096518b7727cb43e0] (1) Schedule 2 (special customs procedures) is amended as follows.
+**9.**[^c24415861][^c-267e16283e0271c096518b7727cb43e0] (1) Schedule 2 (special customs procedures) is amended as follows.
 
 (2) In paragraph 1(2)(a) for the words from “in the United Kingdom” to the end substitute “ in, or outside, a specified place ”.
 
@@ -159,7 +159,7 @@ Section 2
 
 (7) In paragraph 19, in sub-paragraph (3)(a) after “provisions” insert “ or are removed to Northern Ireland ”.
 
-**10.**[^c24415871][^key-fbb917574501d7d66bc7c69c764b505a] (1) Schedule 7 (import duty: consequential amendments) is amended as follows.
+**10.**[^c24415871][^c-fbb917574501d7d66bc7c69c764b505a] (1) Schedule 7 (import duty: consequential amendments) is amended as follows.
 
 (2) In paragraph 114, after “Part 1” insert “ or section 40A or 40B ”.
 
@@ -298,7 +298,7 @@ Section 2
 >
 > (8) This paragraph is subject to any provision made by regulations under section 30B(3), 30C(5) or 40B(2) about the application of the customs and excise Acts (which may, for example, include provision for the application of provisions of the customs and excise Acts either as amended or unamended by Parts 2 and 3 of this Schedule).
 
-**11.**[^c24415881][^key-5fd08c9d990147c7d8ee349589b897b7] In Schedule 9 (excise duty amendments connected with withdrawal from EU), after paragraph 9 insert—
+**11.**[^c24415881][^c-5fd08c9d990147c7d8ee349589b897b7] In Schedule 9 (excise duty amendments connected with withdrawal from EU), after paragraph 9 insert—
 
 > **Savings in relation to Northern Ireland**
 >
@@ -311,7 +311,7 @@ Section 2
 
 ### Isle of Man Act 1979
 
-**12.**[^c24415891][^key-f90315ff2bf9e1355e4193fbc9add7dc] (1) The Isle of Man Act 1979 is amended as follows.
+**12.**[^c24415891][^c-f90315ff2bf9e1355e4193fbc9add7dc] (1) The Isle of Man Act 1979 is amended as follows.
 
 (2) In section 8 (removal of goods from Isle of Man to United Kingdom), in subsection (2), before paragraph (a) insert—
 
@@ -325,7 +325,7 @@ Section 2
 
 ### Finance (No.2) Act 1992
 
-**13.**[^c24415901][^key-9ea4c919f3dce77dda38711c6ea13282] (1) Section 4 of F(No.2)A 1992 is amended as follows.
+**13.**[^c24415901][^c-9ea4c919f3dce77dda38711c6ea13282] (1) Section 4 of F(No.2)A 1992 is amended as follows.
 
 (2) In subsection (1)—
 
@@ -347,52 +347,52 @@ Section 2
 
 [^c24415781]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/1) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-1e6e8eb3b4a2a7a4d87600c60833ca36]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/1) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-1e6e8eb3b4a2a7a4d87600c60833ca36]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/1) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24415791]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/2) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-7a26449f2e23c33925efa47cb273333c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/2) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-7a26449f2e23c33925efa47cb273333c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/2) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24415801]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/3) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-381076a996412ff8d3f1d1d8b045d5b6]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/3) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-381076a996412ff8d3f1d1d8b045d5b6]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/3) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24415811]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/4) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-b9d4058741747b7721b029049dbbb192]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/4) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-b9d4058741747b7721b029049dbbb192]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/4) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24415821]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/5) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-fe278e4d19e94a06c9170ef454d75616]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/5) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-fe278e4d19e94a06c9170ef454d75616]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/5) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24415831]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/6) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-87aa6c5b38f3019715098b18d07d9ebe]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/6) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-87aa6c5b38f3019715098b18d07d9ebe]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/6) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24415841]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/7) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-2e19741894a8e3acdbe2379cf1b2a574]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/7) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-2e19741894a8e3acdbe2379cf1b2a574]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/7) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24415851]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/8) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-51e351ec6ef4c9f6e2a53689879b404b]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/8) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-51e351ec6ef4c9f6e2a53689879b404b]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/8) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24415861]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-267e16283e0271c096518b7727cb43e0]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-267e16283e0271c096518b7727cb43e0]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24415871]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-fbb917574501d7d66bc7c69c764b505a]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-fbb917574501d7d66bc7c69c764b505a]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24415881]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/11) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-5fd08c9d990147c7d8ee349589b897b7]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/11) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-5fd08c9d990147c7d8ee349589b897b7]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/11) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24415891]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/12) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-f90315ff2bf9e1355e4193fbc9add7dc]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/12) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-f90315ff2bf9e1355e4193fbc9add7dc]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/12) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c24415901]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/13) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-9ea4c919f3dce77dda38711c6ea13282]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/13) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-9ea4c919f3dce77dda38711c6ea13282]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/13) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)

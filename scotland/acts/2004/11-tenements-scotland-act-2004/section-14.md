@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Former owner’s right to recover costs[^key-e0949a4af55fb14ada42aced8cfba2ee]
+## 14. Former owner’s right to recover costs[^c-e0949a4af55fb14ada42aced8cfba2ee]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ An owner who is entitled, by virtue of the Tenement Management Scheme or any oth
 
 ## Annotations
 
-[^key-e0949a4af55fb14ada42aced8cfba2ee]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2004/11/section/14) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)
+[^c-e0949a4af55fb14ada42aced8cfba2ee]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2004/11/section/14) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)

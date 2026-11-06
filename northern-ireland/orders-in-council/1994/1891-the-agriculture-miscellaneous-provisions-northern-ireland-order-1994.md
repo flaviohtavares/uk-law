@@ -125,52 +125,52 @@ In section 1(1) of the Fish Industry Act (Northern Ireland) 1972[^c5481191] (pow
 
 ### 10. Regulations with respect to welfare of livestock
 
-In section 2(1) of the 1972 Act (regulations with respect to the welfare of livestock), after paragraph (c) there shall be inserted the following paragraphs— *(affected by repeal, see note)*[^key-88ee187a64af2f300b82e283d619965f]
+In section 2(1) of the 1972 Act (regulations with respect to the welfare of livestock), after paragraph (c) there shall be inserted the following paragraphs— *(affected by repeal, see note)*[^c-88ee187a64af2f300b82e283d619965f]
 
-> - (ca (affected by repeal, see note))[^key-88ee187a64af2f300b82e283d619965f] for prohibiting or regulating the movement of livestock; *(affected by repeal, see note)*[^key-88ee187a64af2f300b82e283d619965f]
-> - (cb (affected by repeal, see note))[^key-88ee187a64af2f300b82e283d619965f] for requiring such information as may be prescribed to be made available to persons concerned with livestock by such persons as may be prescribed; *(affected by repeal, see note)*[^key-88ee187a64af2f300b82e283d619965f]
-> - (cc (affected by repeal, see note))[^key-88ee187a64af2f300b82e283d619965f] for ensuring that persons concerned with livestock are aware of any codes under section 3; *(affected by repeal, see note)*[^key-88ee187a64af2f300b82e283d619965f]
+> - (ca (affected by repeal, see note))[^c-88ee187a64af2f300b82e283d619965f] for prohibiting or regulating the movement of livestock; *(affected by repeal, see note)*[^c-88ee187a64af2f300b82e283d619965f]
+> - (cb (affected by repeal, see note))[^c-88ee187a64af2f300b82e283d619965f] for requiring such information as may be prescribed to be made available to persons concerned with livestock by such persons as may be prescribed; *(affected by repeal, see note)*[^c-88ee187a64af2f300b82e283d619965f]
+> - (cc (affected by repeal, see note))[^c-88ee187a64af2f300b82e283d619965f] for ensuring that persons concerned with livestock are aware of any codes under section 3; *(affected by repeal, see note)*[^c-88ee187a64af2f300b82e283d619965f]
 
 .
 
 ### 11. Extension of Part I of 1972 Act to selling of livestock
 
-In section 7 of the 1972 Act (interpretation)— *(affected by repeal, see note)*[^key-88ee187a64af2f300b82e283d619965f]
+In section 7 of the 1972 Act (interpretation)— *(affected by repeal, see note)*[^c-88ee187a64af2f300b82e283d619965f]
 
-- (a) in the definition of “agricultural land”, for the words “or keeping” there shall be substituted the words *(affected by repeal, see note)*[^key-88ee187a64af2f300b82e283d619965f] “, keeping or selling” *(affected by repeal, see note)*[^key-88ee187a64af2f300b82e283d619965f]; and *(affected by repeal, see note)*[^key-88ee187a64af2f300b82e283d619965f]
-- (b) after the definition of “livestock” there shall be inserted the following definition— *(affected by repeal, see note)*[^key-88ee187a64af2f300b82e283d619965f]
+- (a) in the definition of “agricultural land”, for the words “or keeping” there shall be substituted the words *(affected by repeal, see note)*[^c-88ee187a64af2f300b82e283d619965f] “, keeping or selling” *(affected by repeal, see note)*[^c-88ee187a64af2f300b82e283d619965f]; and *(affected by repeal, see note)*[^c-88ee187a64af2f300b82e283d619965f]
+- (b) after the definition of “livestock” there shall be inserted the following definition— *(affected by repeal, see note)*[^c-88ee187a64af2f300b82e283d619965f]
 
-  > “selling” includes exposing for sale and accommodating before or after selling *(affected by repeal, see note)*[^key-88ee187a64af2f300b82e283d619965f]
+  > “selling” includes exposing for sale and accommodating before or after selling *(affected by repeal, see note)*[^c-88ee187a64af2f300b82e283d619965f]
 
   .
 
 ### 12. Sale of animals as pets in street or public place
 
-(1) In section 10 of the 1972 Act (offences and penalties), after subsection (1) there shall be inserted the following subsection— *(affected by repeal, see note)*[^key-88ee187a64af2f300b82e283d619965f]
+(1) In section 10 of the 1972 Act (offences and penalties), after subsection (1) there shall be inserted the following subsection— *(affected by repeal, see note)*[^c-88ee187a64af2f300b82e283d619965f]
 
-> (1A) Any person who carries on a business of selling animals as pets in a street or public place, or from a vehicle, stall or barrow, shall be guilty of an offence. *(affected by repeal, see note)*[^key-88ee187a64af2f300b82e283d619965f]
-
-.
-
-(2) For subsection (2) of that section (penalties) there shall be substituted the following subsection— *(affected by repeal, see note)*[^key-88ee187a64af2f300b82e283d619965f]
-
-> (2) Any person guilty of an offence under subsection (1)(a), (b) or (c) or subsection (1A) shall be liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding level 4 on the standard scale or to both, and any person guilty of an offence under subsection (1)(d) shall be liable on summary conviction to a fine not exceeding level 2 on the standard scale. *(affected by repeal, see note)*[^key-88ee187a64af2f300b82e283d619965f]
+> (1A) Any person who carries on a business of selling animals as pets in a street or public place, or from a vehicle, stall or barrow, shall be guilty of an offence. *(affected by repeal, see note)*[^c-88ee187a64af2f300b82e283d619965f]
 
 .
 
-(3) In section 12(1) of that Act (interpretation), in the definition of “petshop”, the words “structure (whether moveable or not), vehicle, cart or barrow” shall cease to have effect. *(affected by repeal, see note)*[^key-88ee187a64af2f300b82e283d619965f]
+(2) For subsection (2) of that section (penalties) there shall be substituted the following subsection— *(affected by repeal, see note)*[^c-88ee187a64af2f300b82e283d619965f]
 
-### 13. Power to extend provisions of Part II of 1972 Act to livery establishments, etc.[^key-88ee187a64af2f300b82e283d619965f]
+> (2) Any person guilty of an offence under subsection (1)(a), (b) or (c) or subsection (1A) shall be liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding level 4 on the standard scale or to both, and any person guilty of an offence under subsection (1)(d) shall be liable on summary conviction to a fine not exceeding level 2 on the standard scale. *(affected by repeal, see note)*[^c-88ee187a64af2f300b82e283d619965f]
+
+.
+
+(3) In section 12(1) of that Act (interpretation), in the definition of “petshop”, the words “structure (whether moveable or not), vehicle, cart or barrow” shall cease to have effect. *(affected by repeal, see note)*[^c-88ee187a64af2f300b82e283d619965f]
+
+### 13. Power to extend provisions of Part II of 1972 Act to livery establishments, etc.[^c-88ee187a64af2f300b82e283d619965f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 14. Restriction of definition of “zoological establishment”
 
-(1) In section 12(1) of the 1972 Act (interpretation), in the definition of “zoological establishment”, before the word “animals” there shall be inserted the word *(affected by repeal, see note)*[^key-88ee187a64af2f300b82e283d619965f] “wild” *(affected by repeal, see note)*[^key-88ee187a64af2f300b82e283d619965f].
+(1) In section 12(1) of the 1972 Act (interpretation), in the definition of “zoological establishment”, before the word “animals” there shall be inserted the word *(affected by repeal, see note)*[^c-88ee187a64af2f300b82e283d619965f] “wild” *(affected by repeal, see note)*[^c-88ee187a64af2f300b82e283d619965f].
 
-(2) In consequence of paragraph (1), at the end of the definition of “animal” in that subsection there shall be added the words *(affected by repeal, see note)*[^key-88ee187a64af2f300b82e283d619965f] “and “wild animal” means an animal not normally domesticated in Northern Ireland;” *(affected by repeal, see note)*[^key-88ee187a64af2f300b82e283d619965f].
+(2) In consequence of paragraph (1), at the end of the definition of “animal” in that subsection there shall be added the words *(affected by repeal, see note)*[^c-88ee187a64af2f300b82e283d619965f] “and “wild animal” means an animal not normally domesticated in Northern Ireland;” *(affected by repeal, see note)*[^c-88ee187a64af2f300b82e283d619965f].
 
-### 15. Increase of fine for offences of cruelty[^key-88ee187a64af2f300b82e283d619965f]
+### 15. Increase of fine for offences of cruelty[^c-88ee187a64af2f300b82e283d619965f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -319,7 +319,7 @@ In Article 46 of the 1981 Order (general powers of inspectors), for paragraph (7
 
 [^c5481191]: Textual amendment: [1972 c. 4 (NI)](https://www.legislation.gov.uk/apni/1972/4)
 
-[^key-88ee187a64af2f300b82e283d619965f]: Textual amendment: [Arts. 10-15](https://www.legislation.gov.uk/nisi/1994/1891/article/10) repealed (2.4.2012 for the repeal of arts. 13, 15 and otherwise prosp.) by [Welfare of Animals Act (Northern Ireland) 2011 (c. 16)](https://www.legislation.gov.uk/nia/2011/16), [s. 59](https://www.legislation.gov.uk/nia/2011/16/section/59), [Sch. 5](https://www.legislation.gov.uk/nia/2011/16/schedule/5) (with [ss. 1(2)](https://www.legislation.gov.uk/nia/2011/16/section/1/2), [52(1)](https://www.legislation.gov.uk/nia/2011/16/section/52/1), [53](https://www.legislation.gov.uk/nia/2011/16/section/53), [54](https://www.legislation.gov.uk/nia/2011/16/section/54)); [S.R. 2012/154](https://www.legislation.gov.uk/nisr/2012/154), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/154/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/154/schedule/2)
+[^c-88ee187a64af2f300b82e283d619965f]: Textual amendment: [Arts. 10-15](https://www.legislation.gov.uk/nisi/1994/1891/article/10) repealed (2.4.2012 for the repeal of arts. 13, 15 and otherwise prosp.) by [Welfare of Animals Act (Northern Ireland) 2011 (c. 16)](https://www.legislation.gov.uk/nia/2011/16), [s. 59](https://www.legislation.gov.uk/nia/2011/16/section/59), [Sch. 5](https://www.legislation.gov.uk/nia/2011/16/schedule/5) (with [ss. 1(2)](https://www.legislation.gov.uk/nia/2011/16/section/1/2), [52(1)](https://www.legislation.gov.uk/nia/2011/16/section/52/1), [53](https://www.legislation.gov.uk/nia/2011/16/section/53), [54](https://www.legislation.gov.uk/nia/2011/16/section/54)); [S.R. 2012/154](https://www.legislation.gov.uk/nisr/2012/154), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/154/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/154/schedule/2)
 
 [^c5481201]: Textual amendment: [1975 NI 17](https://www.legislation.gov.uk/1975/ni17)
 

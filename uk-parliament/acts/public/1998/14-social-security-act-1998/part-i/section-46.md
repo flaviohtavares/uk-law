@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 46. Vaccine damage payments: appeals to appeal tribunals[^key-dd2d271ac14d1a432ec7fe2ba42e09b9][^key-03ab270db251402ca9cf5c46198cc5f5]
+## 46. Vaccine damage payments: appeals to appeal tribunals[^c-dd2d271ac14d1a432ec7fe2ba42e09b9][^c-03ab270db251402ca9cf5c46198cc5f5]
 
 For section 4 of the Vaccine Damage Payments Act there shall be substituted the following section—
 
@@ -33,6 +33,6 @@ For section 4 of the Vaccine Damage Payments Act there shall be substituted the 
 
 ## Annotations
 
-[^key-dd2d271ac14d1a432ec7fe2ba42e09b9]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/1998/14/section/46) in force at 4.3.1999 for specified purposes by [S.I. 1999/528](https://www.legislation.gov.uk/uksi/1999/528), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/528/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/1999/528/schedule)
+[^c-dd2d271ac14d1a432ec7fe2ba42e09b9]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/1998/14/section/46) in force at 4.3.1999 for specified purposes by [S.I. 1999/528](https://www.legislation.gov.uk/uksi/1999/528), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/528/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/1999/528/schedule)
 
-[^key-03ab270db251402ca9cf5c46198cc5f5]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/1998/14/section/46) in force at 18.10.1999 for specified purposes by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860), [art. 2(c)](https://www.legislation.gov.uk/uksi/1999/2860/article/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2860/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/1999/2860/article/4), [Schs. 16-18](https://www.legislation.gov.uk/uksi/1999/2860/schedule/16))
+[^c-03ab270db251402ca9cf5c46198cc5f5]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/1998/14/section/46) in force at 18.10.1999 for specified purposes by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860), [art. 2(c)](https://www.legislation.gov.uk/uksi/1999/2860/article/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2860/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/1999/2860/article/4), [Schs. 16-18](https://www.legislation.gov.uk/uksi/1999/2860/schedule/16))

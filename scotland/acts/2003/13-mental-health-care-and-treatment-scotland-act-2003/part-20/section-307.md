@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 307. Effect of unauthorised absence ending after expiry of compulsory treatment order[^key-9c081883754edcf5383feeb91ee56b87]
+## 307. Effect of unauthorised absence ending after expiry of compulsory treatment order[^c-9c081883754edcf5383feeb91ee56b87]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ the order shall be treated as having continued in effect and, subject to subsect
 
 ## Annotations
 
-[^key-9c081883754edcf5383feeb91ee56b87]: Commencement: [S. 307](https://www.legislation.gov.uk/asp/2003/13/section/307) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-9c081883754edcf5383feeb91ee56b87]: Commencement: [S. 307](https://www.legislation.gov.uk/asp/2003/13/section/307) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

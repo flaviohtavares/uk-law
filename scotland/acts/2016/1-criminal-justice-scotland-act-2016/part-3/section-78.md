@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Proceedings on petition[^key-900fdfb9234887626a5b2f1089ac078c]
+## 78. Proceedings on petition[^c-900fdfb9234887626a5b2f1089ac078c]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-900fdfb9234887626a5b2f1089ac078c]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2016/1/section/78) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/426/article/3))
+[^c-900fdfb9234887626a5b2f1089ac078c]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2016/1/section/78) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/426/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. New schools proposing to federate[^key-d213fb0c385ba66986fdde86639c2fcb]
+## 11. New schools proposing to federate[^c-d213fb0c385ba66986fdde86639c2fcb]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d213fb0c385ba66986fdde86639c2fcb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/1035/regulation/11) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-d213fb0c385ba66986fdde86639c2fcb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/1035/regulation/11) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

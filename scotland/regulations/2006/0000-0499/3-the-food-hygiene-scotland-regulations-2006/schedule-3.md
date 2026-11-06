@@ -26,17 +26,17 @@ Regulation 29
 
 Any person who contravenes or fails to comply with any of the requirements of this Schedule is guilty of an offence.
 
-### 2. Liquid oils or fats[^key-95211a590144ff5dc90c4d82a11d1800]
+### 2. Liquid oils or fats[^c-95211a590144ff5dc90c4d82a11d1800]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-95211a590144ff5dc90c4d82a11d1800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-95211a590144ff5dc90c4d82a11d1800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-95211a590144ff5dc90c4d82a11d1800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-95211a590144ff5dc90c4d82a11d1800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-95211a590144ff5dc90c4d82a11d1800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-95211a590144ff5dc90c4d82a11d1800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-95211a590144ff5dc90c4d82a11d1800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-95211a590144ff5dc90c4d82a11d1800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 7. Raw sugar
 
@@ -62,16 +62,16 @@ The bulk transport by sea of raw sugar which is not intended for use as food or 
 
 ### 14. Interpretation
 
-(1) For the purposes of this Schedule, any words or expressions used both in this Schedule and in [^key-731395c49ec953cce6cd0c1d4239ba95]...Commission Directive [98/28/EC](https://www.legislation.gov.uk/eudr/1998/28) granting a derogation from certain provisions of Directive [93/43/EEC](https://www.legislation.gov.uk/eudr/1993/43) on the hygiene of foodstuffs as regards the transport by sea of bulk raw sugar [^c15348151] shall bear the same meanings as they respectively have in those Directives.
+(1) For the purposes of this Schedule, any words or expressions used both in this Schedule and in [^c-731395c49ec953cce6cd0c1d4239ba95]...Commission Directive [98/28/EC](https://www.legislation.gov.uk/eudr/1998/28) granting a derogation from certain provisions of Directive [93/43/EEC](https://www.legislation.gov.uk/eudr/1993/43) on the hygiene of foodstuffs as regards the transport by sea of bulk raw sugar [^c15348151] shall bear the same meanings as they respectively have in those Directives.
 
-(2)[^key-3d7966827c504b2e15f46f2467388a1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3d7966827c504b2e15f46f2467388a1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-95211a590144ff5dc90c4d82a11d1800]: Textual amendment: Sch. 3 paras. 2-6 omitted (1.10.2014) by virtue of [The Food Hygiene and Official Feed and Food Controls (Scotland) Amendment Regulations 2014 (S.S.I. 2014/213)](https://www.legislation.gov.uk/ssi/2014/213), [regs. 1](https://www.legislation.gov.uk/ssi/2014/213/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2014/213/regulation/2/5/a)
+[^c-95211a590144ff5dc90c4d82a11d1800]: Textual amendment: Sch. 3 paras. 2-6 omitted (1.10.2014) by virtue of [The Food Hygiene and Official Feed and Food Controls (Scotland) Amendment Regulations 2014 (S.S.I. 2014/213)](https://www.legislation.gov.uk/ssi/2014/213), [regs. 1](https://www.legislation.gov.uk/ssi/2014/213/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2014/213/regulation/2/5/a)
 
-[^key-731395c49ec953cce6cd0c1d4239ba95]: Textual amendment: Words in sch. 3 para. 14(1) omitted (1.10.2014) by virtue of [The Food Hygiene and Official Feed and Food Controls (Scotland) Amendment Regulations 2014 (S.S.I. 2014/213)](https://www.legislation.gov.uk/ssi/2014/213), [regs. 1](https://www.legislation.gov.uk/ssi/2014/213/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2014/213/regulation/2/5/b)
+[^c-731395c49ec953cce6cd0c1d4239ba95]: Textual amendment: Words in sch. 3 para. 14(1) omitted (1.10.2014) by virtue of [The Food Hygiene and Official Feed and Food Controls (Scotland) Amendment Regulations 2014 (S.S.I. 2014/213)](https://www.legislation.gov.uk/ssi/2014/213), [regs. 1](https://www.legislation.gov.uk/ssi/2014/213/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2014/213/regulation/2/5/b)
 
 [^c15348151]: Marginal citation: O.J. No. L 140, 12.5.98, p.10.
 
-[^key-3d7966827c504b2e15f46f2467388a1b]: Textual amendment: Sch. 3 para. 14(2) omitted (1.10.2014) by virtue of [The Food Hygiene and Official Feed and Food Controls (Scotland) Amendment Regulations 2014 (S.S.I. 2014/213)](https://www.legislation.gov.uk/ssi/2014/213), [regs. 1](https://www.legislation.gov.uk/ssi/2014/213/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/ssi/2014/213/regulation/2/5/c)
+[^c-3d7966827c504b2e15f46f2467388a1b]: Textual amendment: Sch. 3 para. 14(2) omitted (1.10.2014) by virtue of [The Food Hygiene and Official Feed and Food Controls (Scotland) Amendment Regulations 2014 (S.S.I. 2014/213)](https://www.legislation.gov.uk/ssi/2014/213), [regs. 1](https://www.legislation.gov.uk/ssi/2014/213/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/ssi/2014/213/regulation/2/5/c)

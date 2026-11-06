@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Goods to match a sample[^key-4613179ba779eef13d541dbbbaab3a44]
+## 13. Goods to match a sample[^c-4613179ba779eef13d541dbbbaab3a44]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4613179ba779eef13d541dbbbaab3a44]: Commencement: S. 13 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-4613179ba779eef13d541dbbbaab3a44]: Commencement: S. 13 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

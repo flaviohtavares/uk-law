@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 870A. Claims for relief made under sections 152 and 153 of TCGA 1992[^key-9f85a3a21afe835a75a1e1e1fe0cbf4a]
+## 870A. Claims for relief made under sections 152 and 153 of TCGA 1992[^c-9f85a3a21afe835a75a1e1e1fe0cbf4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f85a3a21afe835a75a1e1e1fe0cbf4a]: Textual amendment: S. 870A and cross-heading inserted (with effect in accordance with s. 62(4)(5) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 62(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/62/2)
+[^c-9f85a3a21afe835a75a1e1e1fe0cbf4a]: Textual amendment: S. 870A and cross-heading inserted (with effect in accordance with s. 62(4)(5) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 62(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/62/2)

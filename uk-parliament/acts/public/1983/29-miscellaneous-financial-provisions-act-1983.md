@@ -35,7 +35,7 @@ An Act to establish a Development Commission in place of the Commissioners appoi
 
 [^c885525]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. The Development Commission.[^key-8bbc780e28ea7b7d0510b7c66fd48a04]
+## 1. The Development Commission.[^c-8bbc780e28ea7b7d0510b7c66fd48a04]
 
 *Extent: E+W+S*
 
@@ -83,7 +83,7 @@ An Act to establish a Development Commission in place of the Commissioners appoi
 
 In section 3(2) of the [^c885550]Crown Estate Act 1961 (restriction on term for which a lease may be granted by Crown Estate Commissioners) for the words “one hundred years” there shall be substituted the words “one hundred and fifty years”.
 
-## 6. Redemption of certain annuities.[^key-71fde64bbc0e682524750381839e3726]
+## 6. Redemption of certain annuities.[^c-71fde64bbc0e682524750381839e3726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -320,7 +320,7 @@ Section 4.
 
 | Act | Provision amended | Borrowers |
 | --- | --- | --- |
-| [^key-fc952e63244a37ce3b0e4249527dcc04]. . . | [^key-fc952e63244a37ce3b0e4249527dcc04]. . . | [^key-fc952e63244a37ce3b0e4249527dcc04]. . . |
+| [^c-fc952e63244a37ce3b0e4249527dcc04]. . . | [^c-fc952e63244a37ce3b0e4249527dcc04]. . . | [^c-fc952e63244a37ce3b0e4249527dcc04]. . . |
 | The Electricity Act 1957 (c. 48). | Section 17(1). | The Electricity Council, the Central Electricity Generating Board and Area Boards. |
 | The Transport Act 1962 (c. 46). | Section 21(1). | The British Railways Board, the British Transport Docks Board, the British Waterways Board, the National Bus Company[^c885728] and the Scottish Transport Group[^c885729]. |
 | The New Towns (Scotland) Act 1968 (c. 16). | Section 38A(1). | New town development corporations. |
@@ -334,7 +334,7 @@ Section 4.
 | . . . [^c885748] | . . . [^c885748] | . . . [^c885748] |
 | The Airports Authority Act 1975 (c. 78). | Section 7(1). | The British Airports Authority. |
 | [^c885751]. . . | [^c885751]. . . | [^c885751]. . . |
-| [^key-70b723591409d329aabd5780c548d662]. . . | [^key-70b723591409d329aabd5780c548d662]. . . | [^key-70b723591409d329aabd5780c548d662]. . . |
+| [^c-70b723591409d329aabd5780c548d662]. . . | [^c-70b723591409d329aabd5780c548d662]. . . | [^c-70b723591409d329aabd5780c548d662]. . . |
 | The British Airways Board Act 1977 (c. 13). | Section 11(1). | The British Airways Board. |
 | [^c885754]. . . | Schedule 21, paragraph 2(1). | The Land Authority for Wales. |
 | The Local Government, Planning and Land Act 1980 (c. 65). | Schedule 31, paragraph 5(1). | Urban development corporations. |
@@ -371,7 +371,7 @@ Section 8.
 
 [^c885525]: Editorial: The text of the whole Act was taken from S.I.F. Group 99:1 (Public Finance and Economic Controls: Government Finance and Accounting) and the text of ss. 1, 2, 8, 9, 10(1)–(3), 11 and Schs. 1, 3 was also taken from S.I.F. Group 64 (Industrial Development)
 
-[^key-8bbc780e28ea7b7d0510b7c66fd48a04]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1983/29/section/1) omitted (1.10.2006) by virtue of [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/102), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-8bbc780e28ea7b7d0510b7c66fd48a04]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1983/29/section/1) omitted (1.10.2006) by virtue of [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/102), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
 [^c885537]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1983/29/section/3) repealed by [Statute Law (Repeals) Act 1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1989/43/section/1/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1989/43/schedule/1/part/I)
 
@@ -385,7 +385,7 @@ Section 8.
 
 [^c885550]: Marginal citation: [1961 c. 55](https://www.legislation.gov.uk/ukpga/1961/55).
 
-[^key-71fde64bbc0e682524750381839e3726]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1983/29/section/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 1
+[^c-71fde64bbc0e682524750381839e3726]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1983/29/section/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 1
 
 [^c885553]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
@@ -405,7 +405,7 @@ Section 8.
 
 [^c885561]: Marginal citation: [1909 c. 47](https://www.legislation.gov.uk/ukpga/1909/47).
 
-[^key-fc952e63244a37ce3b0e4249527dcc04]: Textual amendment: In Sch. 2, the entry relating to the Coal Industry Nationalisation Act 1946 repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-fc952e63244a37ce3b0e4249527dcc04]: Textual amendment: In Sch. 2, the entry relating to the Coal Industry Nationalisation Act 1946 repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
 [^c885728]: Textual amendment: In Sch. 2, words in entry relating to the Transport Act 1962 repealed (G.B.) (01.04.1991) by [S.I. 1991/510](https://www.legislation.gov.uk/uksi/1991/510), [art. 5](https://www.legislation.gov.uk/uksi/1991/510/article/5), [Sch.](https://www.legislation.gov.uk/uksi/1991/510/schedule)
 
@@ -427,7 +427,7 @@ Section 8.
 
 [^c885751]: Textual amendment: Entry in Sch. 2 repealed (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/IV) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
 
-[^key-70b723591409d329aabd5780c548d662]: Textual amendment: Entry in Sch. 2 omitted (22.3.2013) by virtue of [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2013/687/schedule/1/paragraph/7)
+[^c-70b723591409d329aabd5780c548d662]: Textual amendment: Entry in Sch. 2 omitted (22.3.2013) by virtue of [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2013/687/schedule/1/paragraph/7)
 
 [^c885754]: Textual amendment: Entry in Sch. 2 repealed (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. V](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/V) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
 

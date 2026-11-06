@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. CRR Basel standards[^key-53ec8a2948c212edec5e855eb7f1b774]
+## 4. CRR Basel standards[^c-53ec8a2948c212edec5e855eb7f1b774]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ subject to subsection (4).
 
 ## Annotations
 
-[^key-53ec8a2948c212edec5e855eb7f1b774]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/22/section/4) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/b)
+[^c-53ec8a2948c212edec5e855eb7f1b774]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/22/section/4) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/b)

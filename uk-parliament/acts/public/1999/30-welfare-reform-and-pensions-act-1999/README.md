@@ -36,11 +36,11 @@ An Act to make provision about pensions and social security; to make provision f
 
 \[11th November 1999\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-bd1b0af3930738e90623d18c8b4f77ee][^key-8ff0c77f16d537efc3715ba1bcc25e71][^key-5a962adf1d655081500673c49770d901]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-bd1b0af3930738e90623d18c8b4f77ee][^c-8ff0c77f16d537efc3715ba1bcc25e71][^c-5a962adf1d655081500673c49770d901]
 
 ## Contents
 
-### Part I — Stakeholder pension schemes[^key-b54edf0a624d2ea765958a751a5623e2][^key-77084f4f3fdb7a38870a988899aea488][^key-134ed08f45e4535ea4cf3fb53e250564][^key-3959932e904bbe661e3eb247df88f909]
+### Part I — Stakeholder pension schemes[^c-b54edf0a624d2ea765958a751a5623e2][^c-77084f4f3fdb7a38870a988899aea488][^c-134ed08f45e4535ea4cf3fb53e250564][^c-3959932e904bbe661e3eb247df88f909]
 
 *Extent: E+W+S*
 
@@ -53,7 +53,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 7 — Reduced rates of contributions etc: power to specify different percentages.](part-i/section-7.md)
 - [Section 8 — Interpretation and application of Part I.](part-i/section-8.md)
 
-### Part II — Pensions: general[^key-b54edf0a624d2ea765958a751a5623e2][^key-77084f4f3fdb7a38870a988899aea488][^key-3959932e904bbe661e3eb247df88f909]
+### Part II — Pensions: general[^c-b54edf0a624d2ea765958a751a5623e2][^c-77084f4f3fdb7a38870a988899aea488][^c-3959932e904bbe661e3eb247df88f909]
 
 #### Payments by employers to pension schemes
 
@@ -78,7 +78,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 17 — Compensating occupational pension schemes.](part-ii/section-17.md)
 - [Section 18 — Miscellaneous amendments.](part-ii/section-18.md)
 
-### Part III — Pensions on divorce etc.[^key-b54edf0a624d2ea765958a751a5623e2][^key-77084f4f3fdb7a38870a988899aea488][^key-3959932e904bbe661e3eb247df88f909]
+### Part III — Pensions on divorce etc.[^c-b54edf0a624d2ea765958a751a5623e2][^c-77084f4f3fdb7a38870a988899aea488][^c-3959932e904bbe661e3eb247df88f909]
 
 #### Pension sharing orders
 
@@ -106,9 +106,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 25 — Power to make consequential amendments of Part III.](part-iii/section-25.md)
 - [Section 26 — Interpretation of Part III.](part-iii/section-26.md)
 
-### Part IV — Pension sharing[^key-b54edf0a624d2ea765958a751a5623e2][^key-77084f4f3fdb7a38870a988899aea488][^key-3959932e904bbe661e3eb247df88f909]
+### Part IV — Pension sharing[^c-b54edf0a624d2ea765958a751a5623e2][^c-77084f4f3fdb7a38870a988899aea488][^c-3959932e904bbe661e3eb247df88f909]
 
-#### Chapter I — Sharing of rights under pension arrangements[^key-4b9cd32f35847d9cb1b7ff76910c019e][^key-bca19835abcbcefd89d9802656dd0029]
+#### Chapter I — Sharing of rights under pension arrangements[^c-4b9cd32f35847d9cb1b7ff76910c019e][^c-bca19835abcbcefd89d9802656dd0029]
 
 ##### Pension sharing mechanism
 
@@ -164,7 +164,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 45 — Information.](part-iv/section-45.md)
 - [Section 46 — Interpretation of Chapter I.](part-iv/section-46.md)
 
-#### Chapter II — Sharing of state scheme rights[^key-2c05d80e180d4c302731ad682df897dd]
+#### Chapter II — Sharing of state scheme rights[^c-2c05d80e180d4c302731ad682df897dd]
 
 *Extent: E+W+S*
 
@@ -309,22 +309,22 @@ SCHEDULES
 
 ## Annotations
 
-[^key-bd1b0af3930738e90623d18c8b4f77ee]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/30): transfer of functions (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 7(1)(c)](https://www.legislation.gov.uk/ukpga/2004/35/section/7/1/c), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-bd1b0af3930738e90623d18c8b4f77ee]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/30): transfer of functions (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 7(1)(c)](https://www.legislation.gov.uk/ukpga/2004/35/section/7/1/c), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-8ff0c77f16d537efc3715ba1bcc25e71]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/30) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) Regulations 2010 (S.I. 2010/875)](https://www.legislation.gov.uk/uksi/2010/875), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/875/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2010/875/regulation/16), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/875/schedule/2) (which amending S.I. was revoked (27.8.2010) by SI 2010/1906, reg. 2)
+[^c-8ff0c77f16d537efc3715ba1bcc25e71]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/30) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) Regulations 2010 (S.I. 2010/875)](https://www.legislation.gov.uk/uksi/2010/875), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/875/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2010/875/regulation/16), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/875/schedule/2) (which amending S.I. was revoked (27.8.2010) by SI 2010/1906, reg. 2)
 
-[^key-5a962adf1d655081500673c49770d901]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/30) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(c)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1907/schedule/2)
+[^c-5a962adf1d655081500673c49770d901]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/30) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(c)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1907/schedule/2)
 
-[^key-b54edf0a624d2ea765958a751a5623e2]: Modification: Pts. I-IV modified (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 254(3)(c)](https://www.legislation.gov.uk/ukpga/2004/35/section/254/3/c), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
+[^c-b54edf0a624d2ea765958a751a5623e2]: Modification: Pts. I-IV modified (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 254(3)(c)](https://www.legislation.gov.uk/ukpga/2004/35/section/254/3/c), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
 
-[^key-77084f4f3fdb7a38870a988899aea488]: Modification: Pts. I-IV: power to modify conferred (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 321(1)(d)](https://www.legislation.gov.uk/ukpga/2004/35/section/321/1/d), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
+[^c-77084f4f3fdb7a38870a988899aea488]: Modification: Pts. I-IV: power to modify conferred (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 321(1)(d)](https://www.legislation.gov.uk/ukpga/2004/35/section/321/1/d), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
 
-[^key-134ed08f45e4535ea4cf3fb53e250564]: Modification: Pt. I modified (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/5)
+[^c-134ed08f45e4535ea4cf3fb53e250564]: Modification: Pt. I modified (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/5)
 
-[^key-3959932e904bbe661e3eb247df88f909]: Modification: Pts. I-IV: power to modify conferred (26.11.2008) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 146(2)(c)](https://www.legislation.gov.uk/ukpga/2008/30/section/146/2/c), [149(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/2)
+[^c-3959932e904bbe661e3eb247df88f909]: Modification: Pts. I-IV: power to modify conferred (26.11.2008) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 146(2)(c)](https://www.legislation.gov.uk/ukpga/2008/30/section/146/2/c), [149(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/2)
 
-[^key-4b9cd32f35847d9cb1b7ff76910c019e]: Modification: Pt. IV Ch. I power to apply (with modifications) conferred (1.1.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 220(2)](https://www.legislation.gov.uk/ukpga/2004/35/section/220/2), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/3)
+[^c-4b9cd32f35847d9cb1b7ff76910c019e]: Modification: Pt. IV Ch. I power to apply (with modifications) conferred (1.1.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 220(2)](https://www.legislation.gov.uk/ukpga/2004/35/section/220/2), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/3)
 
-[^key-bca19835abcbcefd89d9802656dd0029]: Modification: Pt. IV Ch. I modified (1.8.2006) by [The Pension Protection Fund (Pension Sharing) Regulations 2006 (S.I. 2006/1690)](https://www.legislation.gov.uk/uksi/2006/1690), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1690/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2006/1690/regulation/2)
+[^c-bca19835abcbcefd89d9802656dd0029]: Modification: Pt. IV Ch. I modified (1.8.2006) by [The Pension Protection Fund (Pension Sharing) Regulations 2006 (S.I. 2006/1690)](https://www.legislation.gov.uk/uksi/2006/1690), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1690/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2006/1690/regulation/2)
 
-[^key-2c05d80e180d4c302731ad682df897dd]: Modification: Pt. IV Ch. II modified (6.4.2016) by [The Social Security (Northern Ireland Reciprocal Arrangements) Regulations 2016 (S.I. 2016/287)](https://www.legislation.gov.uk/uksi/2016/287), [regs. 1](https://www.legislation.gov.uk/uksi/2016/287/regulation/1), [2(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2016/287/regulation/2/2/e/ii), [Sch.](https://www.legislation.gov.uk/uksi/2016/287/schedule)
+[^c-2c05d80e180d4c302731ad682df897dd]: Modification: Pt. IV Ch. II modified (6.4.2016) by [The Social Security (Northern Ireland Reciprocal Arrangements) Regulations 2016 (S.I. 2016/287)](https://www.legislation.gov.uk/uksi/2016/287), [regs. 1](https://www.legislation.gov.uk/uksi/2016/287/regulation/1), [2(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2016/287/regulation/2/2/e/ii), [Sch.](https://www.legislation.gov.uk/uksi/2016/287/schedule)

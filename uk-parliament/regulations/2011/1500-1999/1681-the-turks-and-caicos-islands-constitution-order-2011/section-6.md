@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Existing offices and officers[^key-a09543aa2dcbc6d96c99516c29feb257]
+## 6. Existing offices and officers[^c-a09543aa2dcbc6d96c99516c29feb257]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a09543aa2dcbc6d96c99516c29feb257]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2011/1681/article/6) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)
+[^c-a09543aa2dcbc6d96c99516c29feb257]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2011/1681/article/6) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)

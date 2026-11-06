@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Access to the authorised development[^key-fc764e95243d74a781d105db0fc7d6e1]
+## 18. Access to the authorised development[^c-fc764e95243d74a781d105db0fc7d6e1]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc764e95243d74a781d105db0fc7d6e1]: Commencement: Art. 18 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-fc764e95243d74a781d105db0fc7d6e1]: Commencement: Art. 18 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

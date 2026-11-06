@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 3. Application of rules[^key-749c390c14f3568d4d1483c2f73c3322]
+## 3. Application of rules[^c-749c390c14f3568d4d1483c2f73c3322]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ These rules apply to proceedings under the Clergy Discipline Measure 2003 allegi
 
 ## Annotations
 
-[^key-749c390c14f3568d4d1483c2f73c3322]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2005/2022/rule/3) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-749c390c14f3568d4d1483c2f73c3322]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2005/2022/rule/3) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

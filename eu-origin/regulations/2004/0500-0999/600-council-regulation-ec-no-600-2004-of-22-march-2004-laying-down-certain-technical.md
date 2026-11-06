@@ -31,10 +31,10 @@ Council Regulation (EC) No 600/2004
 
 of 22 March 2004 laying down certain technical measures applicable to fishing activities in the area covered by the Convention on the conservation of Antarctic marine living resources (revoked)
 
-[^key-c02a06789ad6f440f28b3f7d0b4623fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c02a06789ad6f440f28b3f7d0b4623fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-c02a06789ad6f440f28b3f7d0b4623fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-c02a06789ad6f440f28b3f7d0b4623fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c02a06789ad6f440f28b3f7d0b4623fd]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/1)
+[^c-c02a06789ad6f440f28b3f7d0b4623fd]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 235. “Online safety functions” and “online safety matters”[^key-47c537464810621b98cc6ef3824542db]
+## 235. “Online safety functions” and “online safety matters”[^c-47c537464810621b98cc6ef3824542db]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47c537464810621b98cc6ef3824542db]: Commencement: S. 235 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)
+[^c-47c537464810621b98cc6ef3824542db]: Commencement: S. 235 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)

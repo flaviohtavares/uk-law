@@ -35,20 +35,20 @@ on the compliance of 2014 unit rates for charging zones under Article 17 of Impl
 
 *(notified under document C(2015) 882)* (revoked)
 
-[^key-d84ef265c1f70738a35398ec28ab108f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d84ef265c1f70738a35398ec28ab108f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-d84ef265c1f70738a35398ec28ab108f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d84ef265c1f70738a35398ec28ab108f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d84ef265c1f70738a35398ec28ab108f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d84ef265c1f70738a35398ec28ab108f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-d84ef265c1f70738a35398ec28ab108f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-d84ef265c1f70738a35398ec28ab108f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d84ef265c1f70738a35398ec28ab108f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d84ef265c1f70738a35398ec28ab108f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-d84ef265c1f70738a35398ec28ab108f]
+## ANNEX[^c-d84ef265c1f70738a35398ec28ab108f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d84ef265c1f70738a35398ec28ab108f]: Textual amendment: Decision revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [378](https://www.legislation.gov.uk/uksi/2019/459/regulation/378); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d84ef265c1f70738a35398ec28ab108f]: Textual amendment: Decision revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [378](https://www.legislation.gov.uk/uksi/2019/459/regulation/378); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

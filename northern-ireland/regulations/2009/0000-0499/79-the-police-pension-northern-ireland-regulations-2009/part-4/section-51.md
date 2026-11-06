@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Withdrawal of early payment of deferred pension[^key-b03b9d99231288c2daad04f388f631ac]
+## 51. Withdrawal of early payment of deferred pension[^c-b03b9d99231288c2daad04f388f631ac]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ no payment shall be made on account of the pension in respect of the period befo
 
 ## Annotations
 
-[^key-b03b9d99231288c2daad04f388f631ac]: Commencement: Reg. 51 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-b03b9d99231288c2daad04f388f631ac]: Commencement: Reg. 51 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

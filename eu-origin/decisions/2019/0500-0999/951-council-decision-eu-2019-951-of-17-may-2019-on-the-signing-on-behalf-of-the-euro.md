@@ -33,20 +33,20 @@ of 17 May 2019
 
 on the signing, on behalf of the European Union, and provisional application of the Protocol on the implementation of the Fisheries Partnership Agreement between the European Community and the Republic of Cape Verde (2019-2024) (revoked)
 
-[^key-d101ca2d48b1737c434830672a820393]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d101ca2d48b1737c434830672a820393]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-d101ca2d48b1737c434830672a820393] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d101ca2d48b1737c434830672a820393] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d101ca2d48b1737c434830672a820393] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d101ca2d48b1737c434830672a820393] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-d101ca2d48b1737c434830672a820393] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-d101ca2d48b1737c434830672a820393] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-d101ca2d48b1737c434830672a820393] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-d101ca2d48b1737c434830672a820393] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d101ca2d48b1737c434830672a820393]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d101ca2d48b1737c434830672a820393]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d101ca2d48b1737c434830672a820393]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-d101ca2d48b1737c434830672a820393]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

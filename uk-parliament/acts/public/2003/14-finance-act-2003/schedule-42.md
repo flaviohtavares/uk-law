@@ -30,7 +30,7 @@ Section 200
 
 **2.** (1) Paragraph 6 (meaning of “engaged in exempt activities”) is amended as follows.
 
-(2)[^key-6cb996bc8b3af3f8e488fe9c654e4da1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6cb996bc8b3af3f8e488fe9c654e4da1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In sub-paragraph (2A) (persons from whom less than 50% of the gross trading receipts of a wholesale etc business of the controlled foreign company must be derived) omit the word “and” immediately preceding paragraph (c) and at the end of that paragraph add
 
@@ -162,4 +162,4 @@ Section 200
 
 ## Annotations
 
-[^key-6cb996bc8b3af3f8e488fe9c654e4da1]: Textual amendment: [Sch. 42 para. 2(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/42/paragraph/2/2) omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(c)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/c) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))
+[^c-6cb996bc8b3af3f8e488fe9c654e4da1]: Textual amendment: [Sch. 42 para. 2(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/42/paragraph/2/2) omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(c)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/c) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))

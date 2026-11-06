@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 101. Suspension and revocation of licence[^key-9d12bddae0df184fac787f32019ccd98]
+## 101. Suspension and revocation of licence[^c-9d12bddae0df184fac787f32019ccd98]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d12bddae0df184fac787f32019ccd98]: Commencement: S. 101 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)
+[^c-9d12bddae0df184fac787f32019ccd98]: Commencement: S. 101 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)

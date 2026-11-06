@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Records of movements authorised by licence[^key-6232477fe379133820e598b6852a78cf]
+## 73. Records of movements authorised by licence[^c-6232477fe379133820e598b6852a78cf]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6232477fe379133820e598b6852a78cf]: Textual amendment: [Art. 73](https://www.legislation.gov.uk/ssi/2006/336/article/73) substituted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(17)](https://www.legislation.gov.uk/ssi/2023/361/article/2/17)
+[^c-6232477fe379133820e598b6852a78cf]: Textual amendment: [Art. 73](https://www.legislation.gov.uk/ssi/2006/336/article/73) substituted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(17)](https://www.legislation.gov.uk/ssi/2023/361/article/2/17)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Release timed to benefit re-integration[^key-aec63078e507bc3c43c8521de63dcbb6]
+## 49. Release timed to benefit re-integration[^c-aec63078e507bc3c43c8521de63dcbb6]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aec63078e507bc3c43c8521de63dcbb6]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2019/14/section/49) in force at 11.10.2019 by [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
+[^c-aec63078e507bc3c43c8521de63dcbb6]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2019/14/section/49) in force at 11.10.2019 by [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)

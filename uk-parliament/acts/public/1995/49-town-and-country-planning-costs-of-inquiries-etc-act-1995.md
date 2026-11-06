@@ -31,34 +31,34 @@ Town and Country Planning (Costs of Inquiries etc.) Act 1995 (repealed)
 
 1995 c. 49
 
-[^key-49c24f5c6cabe9ce1194538b4414b65e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49c24f5c6cabe9ce1194538b4414b65e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Costs of holding certain inquiries et ceteralaetc.[^key-49c24f5c6cabe9ce1194538b4414b65e][^key-49c24f5c6cabe9ce1194538b4414b65e]
+## 1. Costs of holding certain inquiries et ceteralaetc.[^c-49c24f5c6cabe9ce1194538b4414b65e][^c-49c24f5c6cabe9ce1194538b4414b65e]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Validation, with retrospective effect, of certain requirements to pay, and certain payments made, in connection with past appointments.[^key-49c24f5c6cabe9ce1194538b4414b65e][^key-49c24f5c6cabe9ce1194538b4414b65e]
+## 2. Validation, with retrospective effect, of certain requirements to pay, and certain payments made, in connection with past appointments.[^c-49c24f5c6cabe9ce1194538b4414b65e][^c-49c24f5c6cabe9ce1194538b4414b65e]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-49c24f5c6cabe9ce1194538b4414b65e][^key-49c24f5c6cabe9ce1194538b4414b65e]
+## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-49c24f5c6cabe9ce1194538b4414b65e][^c-49c24f5c6cabe9ce1194538b4414b65e]
 
 *Extent: S*
 
-## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-49c24f5c6cabe9ce1194538b4414b65e][^key-49c24f5c6cabe9ce1194538b4414b65e]
+## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-49c24f5c6cabe9ce1194538b4414b65e][^c-49c24f5c6cabe9ce1194538b4414b65e]
 
 *Extent: S*
 
-## 5. Short title, interpretation, financial provision, and extent[^key-49c24f5c6cabe9ce1194538b4414b65e][^key-49c24f5c6cabe9ce1194538b4414b65e]
+## 5. Short title, interpretation, financial provision, and extent[^c-49c24f5c6cabe9ce1194538b4414b65e][^c-49c24f5c6cabe9ce1194538b4414b65e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-49c24f5c6cabe9ce1194538b4414b65e]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1995/49) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2008/12/schedule/2/paragraph/10))
+[^c-49c24f5c6cabe9ce1194538b4414b65e]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1995/49) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2008/12/schedule/2/paragraph/10))

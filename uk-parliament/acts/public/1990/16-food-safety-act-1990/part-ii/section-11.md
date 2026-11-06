@@ -33,7 +33,7 @@ the court shall by an order impose the appropriate prohibition.
 - (b) the construction of any premises used for the purposes of the business, or the use for those purposes of any equipment; and
 - (c) the state or condition of any premises or equipment used for the purposes of the business.
 
-(2A)[^key-95d1c873679b574340dca65633730dee] In subsection (2) above and in sections 12(4) and 13(1) “injury” includes any impairment, whether permanent or temporary.
+(2A)[^c-95d1c873679b574340dca65633730dee] In subsection (2) above and in sections 12(4) and 13(1) “injury” includes any impairment, whether permanent or temporary.
 
 (3) The appropriate prohibition is—
 
@@ -78,4 +78,4 @@ and any person who knowingly contravenes such an order shall be guilty of an off
 
 ## Annotations
 
-[^key-95d1c873679b574340dca65633730dee]: Textual amendment: S. 11(2A) inserted (1.1.2005) by [General Food Regulations 2004 (S.I. 2004/3279)](https://www.legislation.gov.uk/uksi/2004/3279), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3279/regulation/1), [12](https://www.legislation.gov.uk/uksi/2004/3279/regulation/12)
+[^c-95d1c873679b574340dca65633730dee]: Textual amendment: S. 11(2A) inserted (1.1.2005) by [General Food Regulations 2004 (S.I. 2004/3279)](https://www.legislation.gov.uk/uksi/2004/3279), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3279/regulation/1), [12](https://www.legislation.gov.uk/uksi/2004/3279/regulation/12)

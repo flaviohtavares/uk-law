@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 140. Combined Safeguarding Boards[^key-2c034795f3a34fba9d953f515b79bdcd]
+## 140. Combined Safeguarding Boards[^c-2c034795f3a34fba9d953f515b79bdcd]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c034795f3a34fba9d953f515b79bdcd]: Commencement: S. 140 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-2c034795f3a34fba9d953f515b79bdcd]: Commencement: S. 140 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Appeal to sheriff principal[^key-cae0443c98cbb675a1608b2b7fac78a7]
+## 84. Appeal to sheriff principal[^c-cae0443c98cbb675a1608b2b7fac78a7]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cae0443c98cbb675a1608b2b7fac78a7]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2008/5/section/84) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-cae0443c98cbb675a1608b2b7fac78a7]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2008/5/section/84) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

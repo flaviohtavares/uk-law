@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Principal council account for proceeds of the levy[^key-d0d86f1ae7887e93fbf184e5ba3ea303]
+## 43. Principal council account for proceeds of the levy[^c-d0d86f1ae7887e93fbf184e5ba3ea303]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0d86f1ae7887e93fbf184e5ba3ea303]: Commencement: S. 43 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-d0d86f1ae7887e93fbf184e5ba3ea303]: Commencement: S. 43 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

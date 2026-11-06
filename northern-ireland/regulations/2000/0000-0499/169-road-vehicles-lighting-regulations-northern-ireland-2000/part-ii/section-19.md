@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Restrictions on fitting blue warning beacons, special warning lamps and similar devices[^key-f24aea7375564c1a122f8e8342cdedae]
+## 19. Restrictions on fitting blue warning beacons, special warning lamps and similar devices[^c-f24aea7375564c1a122f8e8342cdedae]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f24aea7375564c1a122f8e8342cdedae]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2000/169/regulation/19) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-f24aea7375564c1a122f8e8342cdedae]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2000/169/regulation/19) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

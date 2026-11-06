@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Power to authorise disclosure to the Board: Northern Ireland[^key-207941198e11d705bafeb20942ab8cb0]
+## 49. Power to authorise disclosure to the Board: Northern Ireland[^c-207941198e11d705bafeb20942ab8cb0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-207941198e11d705bafeb20942ab8cb0]: Textual amendment: S. 49 omitted (1.5.2018) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 79(3)(c)](https://www.legislation.gov.uk/ukpga/2017/30/section/79/3/c), [118(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/4); [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(kk)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/kk)
+[^c-207941198e11d705bafeb20942ab8cb0]: Textual amendment: S. 49 omitted (1.5.2018) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 79(3)(c)](https://www.legislation.gov.uk/ukpga/2017/30/section/79/3/c), [118(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/4); [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(kk)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/kk)

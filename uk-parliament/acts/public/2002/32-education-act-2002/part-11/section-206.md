@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 206. Nuisance or disturbance on educational premises[^c392401][^key-d9c3bb0d7615feb47511d7e4c4f1dea5]
+## 206. Nuisance or disturbance on educational premises[^c392401][^c-d9c3bb0d7615feb47511d7e4c4f1dea5]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 20 (nuisance or disturbance on educational premises) shall have effect.
 
 [^c392401]: Commencement: S. 206 partly in force; s. 206 not in force at Royal Assent, see s. 216; s. 206 in force for certain purposes for E. at 1.10.2002 by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))
 
-[^key-d9c3bb0d7615feb47511d7e4c4f1dea5]: Commencement: S. 206 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
+[^c-d9c3bb0d7615feb47511d7e4c4f1dea5]: Commencement: S. 206 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies where the licensing authority intends to make a public announcement relating to information on pharmacovigilance concerns which relate to products authorised under a UKMA(NI) or[^key-891677e6eb726ff2958cc9f7212d065a] UKMA(UK)(Category 2)[^key-7841b6fb89e3d0d6725bf648ee81bda3].
+(1) This regulation applies where the licensing authority intends to make a public announcement relating to information on pharmacovigilance concerns which relate to products authorised under a UKMA(NI) or[^c-891677e6eb726ff2958cc9f7212d065a] UKMA(UK)(Category 2)[^c-7841b6fb89e3d0d6725bf648ee81bda3].
 
 (2) Subject to paragraph (4), the licensing authority must inform the bodies specified in paragraph (3) not less than 24 hours prior to making the public announcement.
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-891677e6eb726ff2958cc9f7212d065a]: Textual amendment: Words in reg. 204(1) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 165](https://www.legislation.gov.uk/uksi/2019/775/regulation/165) (as amended by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 132](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/132)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-891677e6eb726ff2958cc9f7212d065a]: Textual amendment: Words in reg. 204(1) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 165](https://www.legislation.gov.uk/uksi/2019/775/regulation/165) (as amended by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 132](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/132)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7841b6fb89e3d0d6725bf648ee81bda3]: Textual amendment: Words in [reg. 204(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/204/1) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [94](https://www.legislation.gov.uk/uksi/2024/832/regulation/94)
+[^c-7841b6fb89e3d0d6725bf648ee81bda3]: Textual amendment: Words in [reg. 204(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/204/1) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [94](https://www.legislation.gov.uk/uksi/2024/832/regulation/94)

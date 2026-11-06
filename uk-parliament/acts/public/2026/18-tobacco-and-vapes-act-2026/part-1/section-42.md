@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Power to change amount of fixed penalties: Wales[^key-c90a43fb62691f4d2d949a662e6b8637][^key-345cac91f899c568b8814a5914895e47]
+## 42. Power to change amount of fixed penalties: Wales[^c-c90a43fb62691f4d2d949a662e6b8637][^c-345cac91f899c568b8814a5914895e47]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c90a43fb62691f4d2d949a662e6b8637]: Commencement: S. 42 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-c90a43fb62691f4d2d949a662e6b8637]: Commencement: S. 42 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-345cac91f899c568b8814a5914895e47]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2026/18/section/42) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-345cac91f899c568b8814a5914895e47]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2026/18/section/42) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

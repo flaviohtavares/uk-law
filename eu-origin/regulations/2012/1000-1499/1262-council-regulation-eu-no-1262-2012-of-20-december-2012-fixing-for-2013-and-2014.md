@@ -34,62 +34,62 @@ of 20 December 2012
 
 fixing for 2013 and 2014 the fishing opportunities for EU vessels for certain deep-sea fish stocks (revoked)
 
-[^key-45f7aa5dc129da6fd612f66560f1532b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45f7aa5dc129da6fd612f66560f1532b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-45f7aa5dc129da6fd612f66560f1532b]
+## Article 1. Subject matter[^c-45f7aa5dc129da6fd612f66560f1532b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-45f7aa5dc129da6fd612f66560f1532b]
+## Article 2. Definitions[^c-45f7aa5dc129da6fd612f66560f1532b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. TACs and allocations[^key-45f7aa5dc129da6fd612f66560f1532b]
+## Article 3. TACs and allocations[^c-45f7aa5dc129da6fd612f66560f1532b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Special provisions on allocations of fishing opportunities[^key-45f7aa5dc129da6fd612f66560f1532b]
+## Article 4. Special provisions on allocations of fishing opportunities[^c-45f7aa5dc129da6fd612f66560f1532b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Conditions for landing catches and by-catches[^key-45f7aa5dc129da6fd612f66560f1532b]
+## Article 5. Conditions for landing catches and by-catches[^c-45f7aa5dc129da6fd612f66560f1532b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Entry into force[^key-45f7aa5dc129da6fd612f66560f1532b]
+## Article 6. Entry into force[^c-45f7aa5dc129da6fd612f66560f1532b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-45f7aa5dc129da6fd612f66560f1532b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45f7aa5dc129da6fd612f66560f1532b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-45f7aa5dc129da6fd612f66560f1532b]
+## ANNEX[^c-45f7aa5dc129da6fd612f66560f1532b]
 
-[^key-45f7aa5dc129da6fd612f66560f1532b]
+[^c-45f7aa5dc129da6fd612f66560f1532b]
 
 The references to fishing zones are references to ICES zones, unless otherwise specified.
 
-### PART 1 — Definition of species and species groups[^key-45f7aa5dc129da6fd612f66560f1532b]
+### PART 1 — Definition of species and species groups[^c-45f7aa5dc129da6fd612f66560f1532b]
 
-[^key-45f7aa5dc129da6fd612f66560f1532b]1.
+[^c-45f7aa5dc129da6fd612f66560f1532b]1.
 
 In the list set out in Part 2 of this Annex, fish stocks are referred to following the alphabetical order of the Latin names of the species. However, deep-sea sharks are placed at the beginning of that list. For the purposes of this Regulation, the following comparative table of common names and Latin names is provided:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-45f7aa5dc129da6fd612f66560f1532b]2.
+[^c-45f7aa5dc129da6fd612f66560f1532b]2.
 
 For the purposes of this Regulation, ‘deep-sea sharks’ means the following list of species:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Annual fishing opportunities applicable for EU vessels in areas where TACs exist by species and by area (in tonnes live weight)[^key-45f7aa5dc129da6fd612f66560f1532b]
+### PART 2 — Annual fishing opportunities applicable for EU vessels in areas where TACs exist by species and by area (in tonnes live weight)[^c-45f7aa5dc129da6fd612f66560f1532b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-45f7aa5dc129da6fd612f66560f1532b]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-45f7aa5dc129da6fd612f66560f1532b]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

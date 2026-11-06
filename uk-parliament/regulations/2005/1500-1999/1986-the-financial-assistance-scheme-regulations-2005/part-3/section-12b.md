@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12B. Employer-related condition: multi-employer schemes[^key-1d736403b8bd094d993502c2eda31dc0]
+## 12B. Employer-related condition: multi-employer schemes[^c-1d736403b8bd094d993502c2eda31dc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,8 +42,8 @@ summary: ''
 
 (5) The scheme manager may treat any condition in paragraphs (1) to (4) as being satisfied where—
 
-- (a) it[^key-80a9771c8bb7a89fabfba2dc28ea3db6] is satisfied that an appropriate proportion of the debt was, or is likely to be, discharged; and
-- (b) in its[^key-a32e68a1523c36964e0be83ab2a5403e] opinion, it was reasonable that the debt due under section 144 of the 1993 Act, or section 75 of the 1995 Act as appropriate, or a proportion of that debt has not been discharged.
+- (a) it[^c-80a9771c8bb7a89fabfba2dc28ea3db6] is satisfied that an appropriate proportion of the debt was, or is likely to be, discharged; and
+- (b) in its[^c-a32e68a1523c36964e0be83ab2a5403e] opinion, it was reasonable that the debt due under section 144 of the 1993 Act, or section 75 of the 1995 Act as appropriate, or a proportion of that debt has not been discharged.
 
 (6) In this regulation—
 
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1d736403b8bd094d993502c2eda31dc0]: Textual amendment: Reg. 12A - Reg. 12B inserted (17.7.2008) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/1903)](https://www.legislation.gov.uk/uksi/2008/1903), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1903/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2008/1903/regulation/7/4)
+[^c-1d736403b8bd094d993502c2eda31dc0]: Textual amendment: Reg. 12A - Reg. 12B inserted (17.7.2008) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/1903)](https://www.legislation.gov.uk/uksi/2008/1903), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1903/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2008/1903/regulation/7/4)
 
-[^key-80a9771c8bb7a89fabfba2dc28ea3db6]: Textual amendment: Word in reg. 12B(5)(a) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [7(1)(a)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/7/1/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-80a9771c8bb7a89fabfba2dc28ea3db6]: Textual amendment: Word in reg. 12B(5)(a) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [7(1)(a)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/7/1/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-a32e68a1523c36964e0be83ab2a5403e]: Textual amendment: Word in reg. 12B(5)(b) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/7/2/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-a32e68a1523c36964e0be83ab2a5403e]: Textual amendment: Word in reg. 12B(5)(b) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/7/2/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))

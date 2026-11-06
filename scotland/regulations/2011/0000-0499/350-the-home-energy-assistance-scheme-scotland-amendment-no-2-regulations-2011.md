@@ -32,7 +32,7 @@ summary: ''
 
 Energy Conservation
 
-The Home Energy Assistance Scheme (Scotland) Amendment (No. 2) Regulations 2011 (revoked)[^key-7d4f1e3332873bab7bbb437e46f9348a]
+The Home Energy Assistance Scheme (Scotland) Amendment (No. 2) Regulations 2011 (revoked)[^c-7d4f1e3332873bab7bbb437e46f9348a]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 30th November 2011
 
-[^key-7d4f1e3332873bab7bbb437e46f9348a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d4f1e3332873bab7bbb437e46f9348a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7d4f1e3332873bab7bbb437e46f9348a]
+## 1. Citation and commencement[^c-7d4f1e3332873bab7bbb437e46f9348a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Home Energy Assistance Scheme (Scotland) Regulations 2009[^key-7d4f1e3332873bab7bbb437e46f9348a]
+## 2. Amendments to the Home Energy Assistance Scheme (Scotland) Regulations 2009[^c-7d4f1e3332873bab7bbb437e46f9348a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d4f1e3332873bab7bbb437e46f9348a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d4f1e3332873bab7bbb437e46f9348a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7d4f1e3332873bab7bbb437e46f9348a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d4f1e3332873bab7bbb437e46f9348a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7d4f1e3332873bab7bbb437e46f9348a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2011/350) revoked (1.7.2013) by [The Home Energy Assistance Scheme (Scotland) Regulations 2013 (S.S.I. 2013/148)](https://www.legislation.gov.uk/ssi/2013/148), [reg. 9(1)(e)](https://www.legislation.gov.uk/ssi/2013/148/regulation/9/1/e) (with [reg. 9(2)](https://www.legislation.gov.uk/ssi/2013/148/regulation/9/2))
+[^c-7d4f1e3332873bab7bbb437e46f9348a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2011/350) revoked (1.7.2013) by [The Home Energy Assistance Scheme (Scotland) Regulations 2013 (S.S.I. 2013/148)](https://www.legislation.gov.uk/ssi/2013/148), [reg. 9(1)(e)](https://www.legislation.gov.uk/ssi/2013/148/regulation/9/1/e) (with [reg. 9(2)](https://www.legislation.gov.uk/ssi/2013/148/regulation/9/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Amendment of the Police and Fire Reform (Scotland) Act 2012[^key-235fca33866c2e9ded824728a3170f55]
+## 69. Amendment of the Police and Fire Reform (Scotland) Act 2012[^c-235fca33866c2e9ded824728a3170f55]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the Police and Fire Reform (Scotland) Act 2012 [^c23691641], in section 99 (i
 
 ## Annotations
 
-[^key-235fca33866c2e9ded824728a3170f55]: Commencement: Reg. 69 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-235fca33866c2e9ded824728a3170f55]: Commencement: Reg. 69 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23691641]: Marginal citation: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8).

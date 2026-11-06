@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Union communications with workers after acceptance of application[^key-f306360470f71001d0780eb54fa488e0]
+## 5. Union communications with workers after acceptance of application[^c-f306360470f71001d0780eb54fa488e0]
 
 *Extent: E+W+S*
 
@@ -134,4 +134,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f306360470f71001d0780eb54fa488e0]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2004/24/section/5) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+[^c-f306360470f71001d0780eb54fa488e0]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2004/24/section/5) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/872/article/6))

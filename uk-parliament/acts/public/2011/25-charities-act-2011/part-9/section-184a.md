@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184A. Sections 183 and 184: participation in corporate decisions[^key-51042102eacfaa11bc6436fc96f642b6]
+## 184A. Sections 183 and 184: participation in corporate decisions[^c-51042102eacfaa11bc6436fc96f642b6]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51042102eacfaa11bc6436fc96f642b6]: Textual amendment: [S. 184A](https://www.legislation.gov.uk/ukpga/2011/25/section/184A) inserted (1.8.2018) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 12](https://www.legislation.gov.uk/ukpga/2016/4/section/12), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2018/47](https://www.legislation.gov.uk/uksi/2018/47), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/47/regulation/3/c)
+[^c-51042102eacfaa11bc6436fc96f642b6]: Textual amendment: [S. 184A](https://www.legislation.gov.uk/ukpga/2011/25/section/184A) inserted (1.8.2018) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 12](https://www.legislation.gov.uk/ukpga/2016/4/section/12), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2018/47](https://www.legislation.gov.uk/uksi/2018/47), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/47/regulation/3/c)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15A. CMA's power to veto modifications following report.[^c18902041][^c14099031][^key-34f65939edec8e7b66d199632f5b788e]
+## 15A. CMA's power to veto modifications following report.[^c18902041][^c14099031][^c-34f65939edec8e7b66d199632f5b788e]
 
 *Extent: E+W+S*
 
-(1) The CMA[^key-75a183ef7a22dadfbe2c1a7814a38b2c] may, within the period of four weeks beginning with the day on which they are given notice under section 15(4A) above, give a direction to the Office of Rail and Road[^key-523908732bcdcfdac1d64f7a2505ad9c] [^c18901961]. . . —
+(1) The CMA[^c-75a183ef7a22dadfbe2c1a7814a38b2c] may, within the period of four weeks beginning with the day on which they are given notice under section 15(4A) above, give a direction to the Office of Rail and Road[^c-523908732bcdcfdac1d64f7a2505ad9c] [^c18901961]. . . —
 
 - (a) not to make, or require the making of, the modifications set out in the notice; or
 - (b) not to make such of those modifications as are specified in the direction.
@@ -46,10 +46,10 @@ summary: ''
 
 [^c14099031]: Textual amendment: S. 15A inserted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 242(2)](https://www.legislation.gov.uk/ukpga/2000/38/section/242/2); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-34f65939edec8e7b66d199632f5b788e]: Textual amendment: Word in s. 15A heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 75(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/75/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-34f65939edec8e7b66d199632f5b788e]: Textual amendment: Word in s. 15A heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 75(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/75/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-75a183ef7a22dadfbe2c1a7814a38b2c]: Textual amendment: Words in ss. 15A(1)-(5) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 75(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/75/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-75a183ef7a22dadfbe2c1a7814a38b2c]: Textual amendment: Words in ss. 15A(1)-(5) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 75(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/75/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-523908732bcdcfdac1d64f7a2505ad9c]: Textual amendment: Words in s. 15A(1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(l)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/l)
+[^c-523908732bcdcfdac1d64f7a2505ad9c]: Textual amendment: Words in s. 15A(1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(l)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/l)
 
 [^c18901961]: Textual amendment: Words in s.15(A) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/14/section/59), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 13](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13) (with [s. 14(4)(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)

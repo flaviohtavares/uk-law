@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Amendment of local legislation[^key-a37b028fe02ce17f78233bbc307abb21]
+## 53. Amendment of local legislation[^c-a37b028fe02ce17f78233bbc307abb21]
 
 *Extent: E+W+S*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a37b028fe02ce17f78233bbc307abb21]: Commencement: Art. 53 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-a37b028fe02ce17f78233bbc307abb21]: Commencement: Art. 53 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
 [^f00102]: Footnote: [1845 c. cxii](https://www.legislation.gov.uk/ukla/1845/112).
 

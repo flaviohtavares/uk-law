@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England And Wales
 
-The Personal Injuries (NHS Charges) (Amounts) Amendment Regulations 2018 (revoked)[^key-6d2517d9bc92bf496d134cd31f7d3eb3]
+The Personal Injuries (NHS Charges) (Amounts) Amendment Regulations 2018 (revoked)[^c-6d2517d9bc92bf496d134cd31f7d3eb3]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st April 2018
 
-[^key-6d2517d9bc92bf496d134cd31f7d3eb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d2517d9bc92bf496d134cd31f7d3eb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-6d2517d9bc92bf496d134cd31f7d3eb3]
+## 1. Citation, commencement, application and interpretation[^c-6d2517d9bc92bf496d134cd31f7d3eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 1 to the principal Regulations[^key-6d2517d9bc92bf496d134cd31f7d3eb3]
+## 2. Amendment of Schedule 1 to the principal Regulations[^c-6d2517d9bc92bf496d134cd31f7d3eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-6d2517d9bc92bf496d134cd31f7d3eb3]
+## 3. Revocations[^c-6d2517d9bc92bf496d134cd31f7d3eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6d2517d9bc92bf496d134cd31f7d3eb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d2517d9bc92bf496d134cd31f7d3eb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6d2517d9bc92bf496d134cd31f7d3eb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d2517d9bc92bf496d134cd31f7d3eb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6d2517d9bc92bf496d134cd31f7d3eb3]: Textual amendment: Regulations revoked (1.4.2019) by [The Personal Injuries (NHS Charges) (Amounts) (Amendment) Regulations 2019 (S.I. 2019/285)](https://www.legislation.gov.uk/uksi/2019/285), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/285/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/285/regulation/3)
+[^c-6d2517d9bc92bf496d134cd31f7d3eb3]: Textual amendment: Regulations revoked (1.4.2019) by [The Personal Injuries (NHS Charges) (Amounts) (Amendment) Regulations 2019 (S.I. 2019/285)](https://www.legislation.gov.uk/uksi/2019/285), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/285/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/285/regulation/3)

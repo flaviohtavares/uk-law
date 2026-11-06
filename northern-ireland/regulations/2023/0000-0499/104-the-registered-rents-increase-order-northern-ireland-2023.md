@@ -44,11 +44,11 @@ The Department for Communities makes the following Order in exercise of the powe
 
 The Department has accepted the recommendation of the Rent Officer made under Article 55(4) of that Order that the rents referred to in Article 55(1) of that Order should be increased.
 
-## 1. Citation and commencement[^key-c0aead2d402391334b06ead4228f0398]
+## 1. Citation and commencement[^c-c0aead2d402391334b06ead4228f0398]
 
 This Order may be cited as the Registered Rents (Increase) Order (Northern Ireland) 2023 and shall come into operation on 7th August 2023.
 
-## 2. Increase of registered rents[^key-b44b85d5eed11da43cda28cfe5d6e9f7]
+## 2. Increase of registered rents[^c-b44b85d5eed11da43cda28cfe5d6e9f7]
 
 (1) Subject to paragraph (2) the rents registered under Part IV of the Private Tenancies (Northern Ireland) Order 2006 during the period beginning on 2nd April 2007 and ending on 6th August 2023 shall be increased by 7.0 percent.
 
@@ -72,6 +72,6 @@ A landlord must give a tenant at least 4 weeks’ notice of the increase in acco
 
 [^f00001]: Footnote: [S.I. 2006/1459 (N.I. 10)](https://www.legislation.gov.uk/nisi/2006/1459)
 
-[^key-c0aead2d402391334b06ead4228f0398]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2023/104/article/1) in operation at 7.8.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/104/article/1)
+[^c-c0aead2d402391334b06ead4228f0398]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2023/104/article/1) in operation at 7.8.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/104/article/1)
 
-[^key-b44b85d5eed11da43cda28cfe5d6e9f7]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2023/104/article/2) in operation at 7.8.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/104/article/1)
+[^c-b44b85d5eed11da43cda28cfe5d6e9f7]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2023/104/article/2) in operation at 7.8.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/104/article/1)

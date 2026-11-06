@@ -24,7 +24,7 @@ summary: ''
 
 (2) The Board shall, from time to time, furnish to the Secretary of State such information as he may require relating to its property and to the discharge and proposed discharge of its functions.
 
-(2A)[^key-ffbba6f974db5a50edf44ba2d751b993] The Board is, from time to time, to give the Scottish Ministers such information as they may require relating to the availability and accessibility of legal services in Scotland.
+(2A)[^c-ffbba6f974db5a50edf44ba2d751b993] The Board is, from time to time, to give the Scottish Ministers such information as they may require relating to the availability and accessibility of legal services in Scotland.
 
 (3) It shall be the duty of the Board to provide to the Secretary of State, as soon as possible after 31st March in each year, a report on the exercise of its functions during the preceding 12 months.
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffbba6f974db5a50edf44ba2d751b993]: Textual amendment: S. 3(2A) inserted (1.4.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 141(c)](https://www.legislation.gov.uk/asp/2010/16/section/141/c), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-ffbba6f974db5a50edf44ba2d751b993]: Textual amendment: S. 3(2A) inserted (1.4.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 141(c)](https://www.legislation.gov.uk/asp/2010/16/section/141/c), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

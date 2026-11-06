@@ -50,13 +50,13 @@ The Secretary of State in exercise of the powers conferred by sections 95, 96 an
 
 ## PART 1 — General
 
-### 1. Citation, commencement and application[^key-a2b40d8aeced35f0055bd43ad584259e]
+### 1. Citation, commencement and application[^c-a2b40d8aeced35f0055bd43ad584259e]
 
 (1) This Order may be cited as the Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017 and comes into force on 1st October 2017.
 
 (2) This Order applies to England only.
 
-### 2. Interpretation[^key-b6d989390fb86a5ee145c9460da4e3d5]
+### 2. Interpretation[^c-b6d989390fb86a5ee145c9460da4e3d5]
 
 In this Order—
 
@@ -78,11 +78,11 @@ In this Order—
 
 ### CHAPTER 1 — Appointment
 
-#### 3. Appointment of the chief fire officer[^key-e4b69a86a7e3142694ede8761ade391c][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 3. Appointment of the chief fire officer[^c-e4b69a86a7e3142694ede8761ade391c][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 An Authority must comply with articles 4 to 14 in appointing a person to be chief fire officer[^f00005].
 
-#### 4. No appointment until end of confirmation process[^key-d4b53ee6de85a4a2b98547d9b1efd905][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 4. No appointment until end of confirmation process[^c-d4b53ee6de85a4a2b98547d9b1efd905][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 (1) An Authority must not appoint a person to be chief fire officer unless the end of the confirmation process has been reached.
 
@@ -96,7 +96,7 @@ An Authority must comply with articles 4 to 14 in appointing a person to be chie
 - (a) where the relevant police and crime panel does not make a report in relation to the appointment, at the end of the period of three weeks starting with the day on which the police and crime panel receives the notification from the Authority of the proposed appointment; or
 - (b) where the relevant police and crime panel makes a recommendation in relation to the appointment under article 12, the date on which the Authority notifies the panel of its decision whether or not to accept that recommendation under article 13(b).
 
-#### 5. Notification of proposed appointment[^key-13f16a55061b0b0463a2a81a53af7588][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 5. Notification of proposed appointment[^c-13f16a55061b0b0463a2a81a53af7588][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 (1) An Authority must notify the relevant police and crime panel of each proposed appointment of a chief fire officer by the Authority.
 
@@ -107,7 +107,7 @@ An Authority must comply with articles 4 to 14 in appointing a person to be chie
 - (c) why the candidate satisfies those criteria; and
 - (d) the terms and conditions on which the candidate is to be appointed.
 
-#### 6. Panel to review and report on proposed appointment[^key-a5c65357a4794e3435532507df716964][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 6. Panel to review and report on proposed appointment[^c-a5c65357a4794e3435532507df716964][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 (1) This paragraph applies if a relevant police and crime panel is notified under article 5 of a proposed appointment of a chief fire officer.
 
@@ -128,7 +128,7 @@ An Authority must comply with articles 4 to 14 in appointing a person to be chie
 - (a) begins with the day of the poll at an ordinary election of a police and crime commissioner under section 50 of the Police Reform and Social Responsibility Act 2011[^f00006]; and
 - (b) ends with the day on which the person elected as police and crime commissioner delivers a declaration of acceptance under section 70 of that Act.
 
-#### 7. Power of panel to veto proposed appointment[^key-9be34ed52098187e53622053ecfcd653][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 7. Power of panel to veto proposed appointment[^c-9be34ed52098187e53622053ecfcd653][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 (1) The relevant police and crime panel may, having reviewed the proposed appointment, veto the appointment of the candidate.
 
@@ -140,7 +140,7 @@ An Authority must comply with articles 4 to 14 in appointing a person to be chie
 
 (5) The power conferred by this paragraph is exercisable in relation to a proposed appointment only during the period of three weeks mentioned in article 6(5).
 
-#### 8. Confirmation hearings[^key-b0e709eafad2be6fbd34df58e12cba78][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 8. Confirmation hearings[^c-b0e709eafad2be6fbd34df58e12cba78][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 (1) A relevant police and crime panel must hold a confirmation hearing—
 
@@ -154,7 +154,7 @@ An Authority must comply with articles 4 to 14 in appointing a person to be chie
   - (i) attending the meeting in person; or
   - (ii) not attending the meeting in person, but participating in the proceedings at the meeting by any means that enable the person to hear, and be heard in, those proceedings as they happen.
 
-#### 9. Next steps if no veto[^key-cc6e16118acc83846c8203af61f281e1][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 9. Next steps if no veto[^c-cc6e16118acc83846c8203af61f281e1][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 (1) This article applies if the relevant police and crime panel does not veto the appointment of a candidate.
 
@@ -162,13 +162,13 @@ An Authority must comply with articles 4 to 14 in appointing a person to be chie
 
 (3) The Authority must notify the panel of the decision whether to accept or reject the recommendation.
 
-#### 10. Next steps if veto[^key-f968a4566ebdb322bf7a1c283ee77dfe][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 10. Next steps if veto[^c-f968a4566ebdb322bf7a1c283ee77dfe][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 (1) This article applies if the relevant police and crime panel vetoes the appointment of a candidate.
 
 (2) The Authority must not appoint that candidate as the chief fire officer.
 
-#### 11. Veto: proposal of reserve candidate[^key-315eb88f19314fcd80899a4e94a0edce][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 11. Veto: proposal of reserve candidate[^c-315eb88f19314fcd80899a4e94a0edce][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 (1) Where the relevant police and crime panel exercises the power under article 7 the Authority shall propose another person for appointment as the chief fire officer (“a reserve candidate”).
 
@@ -179,7 +179,7 @@ An Authority must comply with articles 4 to 14 in appointing a person to be chie
 - (c) why the reserve candidate satisfies those criteria; and
 - (d) the terms and conditions on which the reserve candidate is to be appointed.
 
-#### 12. Panel’s consideration of reserve candidate[^key-bc931b63aa88c8b595feb921f6fb100c][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 12. Panel’s consideration of reserve candidate[^c-bc931b63aa88c8b595feb921f6fb100c][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 (1) Within the period of three weeks beginning with the day on which the relevant police and crime panel receives notification under article 11(2) the panel shall—
 
@@ -194,14 +194,14 @@ An Authority must comply with articles 4 to 14 in appointing a person to be chie
 
 (5) In calculating the period of three weeks for the purpose of paragraph (1), any relevant post-election period within the meaning of article 6(8) is to be ignored.
 
-#### 13. Authority’s consideration of report[^key-6741657f1bb9e1cde4eb656ef1472485][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 13. Authority’s consideration of report[^c-6741657f1bb9e1cde4eb656ef1472485][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 On receiving a report under article 12(1)(b) the Authority shall—
 
 - (a) have regard to the report (including the recommendation in the report); and
 - (b) notify the panel of its decision as to whether it accepts or rejects the recommendation.
 
-#### 14. Appointment of the chief fire officer[^key-002f55711f7b8b33b0fa761d96ae2f28][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 14. Appointment of the chief fire officer[^c-002f55711f7b8b33b0fa761d96ae2f28][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 (1) After the Authority gives the notification mentioned in article 13(b) it may then—
 
@@ -212,17 +212,17 @@ On receiving a report under article 12(1)(b) the Authority shall—
 
 ### CHAPTER 2 — Suspension
 
-#### 15. Suspension of the chief fire officer[^key-cd65801b1ef2cb81147737db12f13135][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 15. Suspension of the chief fire officer[^c-cd65801b1ef2cb81147737db12f13135][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 If an Authority suspends the chief fire officer the Authority must notify the relevant police and crime panel of the suspension[^f00007].
 
 ### CHAPTER 3 — Dismissal
 
-#### 16. Dismissal of the chief fire officer[^key-0e3a0c4ad34d0f0b30b0b11a63aa516d][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 16. Dismissal of the chief fire officer[^c-0e3a0c4ad34d0f0b30b0b11a63aa516d][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 An Authority must comply with articles 17 to 23 in relation to the dismissal of the chief fire officer[^f00008].
 
-#### 17. No dismissal until the end of the scrutiny process[^key-ca9e24615b9c44c6defe6fcfb7425f13][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 17. No dismissal until the end of the scrutiny process[^c-ca9e24615b9c44c6defe6fcfb7425f13][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 (1) An Authority must not dismiss the chief fire officer until the end of the scrutiny process has been reached.
 
@@ -231,14 +231,14 @@ An Authority must comply with articles 17 to 23 in relation to the dismissal of 
 - (a) the period of six weeks mentioned in article 22(2) has ended without the relevant police and crime panel having given the Authority any recommendation as to whether or not the Authority should dismiss the chief fire officer;
 - (b) the Authority notifies the relevant police and crime panel under article 23(2) of the decision whether or not the Authority accepts the panel’s recommendation in relation to the proposed dismissal.
 
-#### 18. Authority’s duty to consult chief fire and rescue inspector for England[^key-7e075bf22e06c85172322ae158d5ff9a][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 18. Authority’s duty to consult chief fire and rescue inspector for England[^c-7e075bf22e06c85172322ae158d5ff9a][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 If an Authority is proposing to dismiss the chief fire officer the Authority must—
 
 - (a) obtain the views of the chief fire and rescue inspector for England[^f00009] in writing; and
 - (b) have regard to those written views.
 
-#### 19. Notification and explanation of proposal to dismiss[^key-43640e282bacff6faa896d4dc63059eb][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 19. Notification and explanation of proposal to dismiss[^c-43640e282bacff6faa896d4dc63059eb][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 If, having complied with article 18, the Authority proposes to dismiss the chief fire officer the Authority must —
 
@@ -250,7 +250,7 @@ If, having complied with article 18, the Authority proposes to dismiss the chief
   - (ii) a copy of the reasons given to the chief fire officer in accordance with sub-paragraph (a)(i); and
   - (iii) a copy of the written views of the chief fire and rescue inspector for England obtained by the Authority under article 18.
 
-#### 20. Representations from the chief fire officer[^key-0a530690dda219792e45f5414d075cad][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 20. Representations from the chief fire officer[^c-0a530690dda219792e45f5414d075cad][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 (1) The Authority must give the chief fire officer the opportunity to make written representations in response to the Authority’s proposal to dismiss the chief fire officer.
 
@@ -259,7 +259,7 @@ If, having complied with article 18, the Authority proposes to dismiss the chief
 - (a) consider any such written representations; and
 - (b) give the relevant police and crime panel a copy of any such representations as soon as practicable after the Authority is given them.
 
-#### 21. Authority’s response to representations[^key-1de322e117ab60fcb2201dfe2b2fdbc9][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 21. Authority’s response to representations[^c-1de322e117ab60fcb2201dfe2b2fdbc9][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 (1) An Authority must comply with this article if, after complying with article 20, the Authority is still proposing to dismiss the chief fire officer.
 
@@ -276,7 +276,7 @@ that it is still proposing to dismiss the chief fire officer.
 - (b) give the chief fire and rescue inspector for England a copy of the notification and explanation; and
 - (c) unless the person who is for the time being designated as the head of the Authority’s paid service under section 4 of the Local Government and Housing Act 1989[^f00010] is also the chief fire officer, give the head of the Authority’s paid service a copy of the notification, the explanation and the written views of the chief fire and rescue inspector for England obtained in accordance with article 18.
 
-#### 22. Role of panel[^key-f3d6c894ad96860479596af4ff1fa131][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 22. Role of panel[^c-f3d6c894ad96860479596af4ff1fa131][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 (1) Where the Authority notifies the relevant police and crime panel under article 21 that it is still proposing to dismiss the chief fire officer the panel must make a recommendation to the Authority as to whether or not the Authority should dismiss the chief fire officer.
 
@@ -295,7 +295,7 @@ that it is still proposing to dismiss the chief fire officer.
 
 (7) The panel must publish the recommendation made to the Authority under this article.
 
-#### 23. Authority’s response to panel’s recommendation[^key-ada8af63839e38108a8b6c207aae28ab][^key-1dccdbfb8356397b4e39f5ba52676b1c][^key-c3711e409bf804b90379c6610d0e56f6]
+#### 23. Authority’s response to panel’s recommendation[^c-ada8af63839e38108a8b6c207aae28ab][^c-1dccdbfb8356397b4e39f5ba52676b1c][^c-c3711e409bf804b90379c6610d0e56f6]
 
 (1) The Authority must—
 
@@ -306,13 +306,13 @@ that it is still proposing to dismiss the chief fire officer.
 
 ## PART 3 — Exercise of functions of Chief Fire Officer
 
-### 24. Securing good value for money[^key-7dabbaa9b932fc4de83fb19a7a2c32e0]
+### 24. Securing good value for money[^c-7dabbaa9b932fc4de83fb19a7a2c32e0]
 
 (1) The chief fire officer must secure that good value for money is obtained in exercising the officer’s functions.
 
 (2) The duty in paragraph (1) includes securing that the persons under the direction and control of the chief fire officer obtain good value for money in exercising their functions.
 
-### 25. Regard to the fire and rescue plan[^key-9ff141e4bf1ea6fcdeae8f2defa08a77]
+### 25. Regard to the fire and rescue plan[^c-9ff141e4bf1ea6fcdeae8f2defa08a77]
 
 (1) The chief fire officer must in exercising the officer’s functions have regard to the fire and rescue plan of the Authority in which the officer is employed.
 
@@ -320,7 +320,7 @@ that it is still proposing to dismiss the chief fire officer.
 
 ## PART 4 — Inspection
 
-### 26. Functions to be excluded from inspection[^key-3b1b8a034999f1f370c5ac92991d1830]
+### 26. Functions to be excluded from inspection[^c-3b1b8a034999f1f370c5ac92991d1830]
 
 (1) The following are excluded functions for the purposes of section 28(A6) of the FRS Act 2004[^f00011]—
 
@@ -351,7 +351,7 @@ that it is still proposing to dismiss the chief fire officer.
 
 ## PART 5 — Power to Trade
 
-### 27. Power to trade in function-related activities[^key-666211d5c5058fc0075f5806321105d4]
+### 27. Power to trade in function-related activities[^c-666211d5c5058fc0075f5806321105d4]
 
 (1) Subject to paragraphs (2) and (3), an Authority is authorised to do for a commercial purpose anything which it is authorised to do for the purpose of carrying on any of its ordinary functions.
 
@@ -371,7 +371,7 @@ that it is still proposing to dismiss the chief fire officer.
 
 ## PART 6 — Application with Modifications of Local Policing Enactments
 
-**28.**[^key-1220abdc34f034ffcea2d68a9d0e43e7] The following local policing enactments apply to an Authority with the modifications set out in Schedule 1—
+**28.**[^c-1220abdc34f034ffcea2d68a9d0e43e7] The following local policing enactments apply to an Authority with the modifications set out in Schedule 1—
 
 - (a) the Elected Local Policing Bodies (Specified Information) Order 2011[^f00015];
 - (b) the Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2012[^f00016]; and
@@ -379,7 +379,7 @@ that it is still proposing to dismiss the chief fire officer.
 
 ## PART 7 — Consequential Amendments
 
-**29.**[^key-b302b0550b85018ad0fb25decbb24628] The enactments set out in Schedule 2 are amended as set out in that Schedule.
+**29.**[^c-b302b0550b85018ad0fb25decbb24628] The enactments set out in Schedule 2 are amended as set out in that Schedule.
 
 Nick Hurd
 
@@ -393,11 +393,11 @@ Home Office
 
 Article 28
 
-### 1. Elected Local Policing Bodies (Specified Information) Order 2011[^key-51058417e1b5a15fb98ef60f63182843]
+### 1. Elected Local Policing Bodies (Specified Information) Order 2011[^c-51058417e1b5a15fb98ef60f63182843]
 
 The Elected Local Policing Bodies (Specified Information) Order 2011 is modified as follows.
 
-**2.**[^key-513f3b601bb22139691dc21c29ac14ec] Article 1(2) is to be read as if—
+**2.**[^c-513f3b601bb22139691dc21c29ac14ec] Article 1(2) is to be read as if—
 
 - (a) after the definition of “the 2011 Act” there were inserted—
 
@@ -440,12 +440,12 @@ The Elected Local Policing Bodies (Specified Information) Order 2011 is modified
 
   .
 
-**3.**[^key-858c600f658ddd4015124170183092ab] Article 2 is to be read as if—
+**3.**[^c-858c600f658ddd4015124170183092ab] Article 2 is to be read as if—
 
 - (a) in paragraph (1) after “Police Reform and Social Responsibility Act 2011,” there were inserted “as applied by paragraph 4 of Schedule A2 to the Fire and Rescue Service Act 2004,”; and
 - (b) in paragraph (2) for “the chief constable” in each place it appears there were substituted “the chief fire officer”.
 
-**4.**[^key-1fcaa36d19f555839f1c6ff890e4b541] The Schedule is to be read as if—
+**4.**[^c-1fcaa36d19f555839f1c6ff890e4b541] The Schedule is to be read as if—
 
 - (a) in paragraph 1—
   - (i) for “the elected local policing body” there were substituted “the section 4A fire and rescue authority”; and
@@ -493,7 +493,7 @@ The Elected Local Policing Bodies (Specified Information) Order 2011 is modified
   - (i) for “elected local policing body” there were substituted “section 4A fire and rescue authority”; and
   - (ii) sub-paragraph (c) were omitted.
 
-### 5. Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2012[^key-3f9920eba7f72121a63c19137bab3611]
+### 5. Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2012[^c-3f9920eba7f72121a63c19137bab3611]
 
 The Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2012 have effect as if—
 
@@ -502,7 +502,7 @@ The Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2012 h
   - (ii) the reference to “police and crime commissioner” in the definition of “relevant office holder” were to “a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004”; and
 - (b) in regulation 28(1)(a) the reference to “police and crime commissioner” were to “a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004”.
 
-### 6. Police and Crime Panels (Precepts and Chief Constable Appointments) Regulations 2012[^key-b0f4878c3beddd48f2ae6f21dd13436f]
+### 6. Police and Crime Panels (Precepts and Chief Constable Appointments) Regulations 2012[^c-b0f4878c3beddd48f2ae6f21dd13436f]
 
 The Police and Crime Panels (Precepts and Chief Constable Appointments) Regulations 2012 have effect as if—
 
@@ -513,7 +513,7 @@ The Police and Crime Panels (Precepts and Chief Constable Appointments) Regulati
 
 Article 29
 
-### 1. Amendment of the Local Government Officers (Political Restrictions) Regulations 1990[^key-815654c717e90c6622bd4107b57d840d]
+### 1. Amendment of the Local Government Officers (Political Restrictions) Regulations 1990[^c-815654c717e90c6622bd4107b57d840d]
 
 (1) The Local Government Officers (Political Restrictions) Regulations 1990[^f00018] are amended as follows.
 
@@ -526,7 +526,7 @@ Article 29
 
   .
 
-### 2. Amendment of the Late Payment of Commercial Debts (Interest) Act 1998 (Commencement No. 1) Order 1998[^key-d3c192a2c592f090098aaa3a36f57fcc]
+### 2. Amendment of the Late Payment of Commercial Debts (Interest) Act 1998 (Commencement No. 1) Order 1998[^c-d3c192a2c592f090098aaa3a36f57fcc]
 
 (1) The Late Payment of Commercial Debts (Interest) Act 1998 (Commencement No. 1) Order 1998[^f00019] is amended as follows.
 
@@ -536,7 +536,7 @@ Article 29
 
 .
 
-### 3. Amendment of the Redundancy Payments (Continuity of Employment in Local Government, etc) (Modification) Order 1999[^key-b9662c0b650869eaf4d2d95be139e8bf]
+### 3. Amendment of the Redundancy Payments (Continuity of Employment in Local Government, etc) (Modification) Order 1999[^c-b9662c0b650869eaf4d2d95be139e8bf]
 
 (1) The Redundancy Payments (Continuity of Employment in Local Government, etc) (Modification) Order 1999[^f00020] is amended as follows.
 
@@ -546,13 +546,13 @@ Article 29
 
 .
 
-### 4. Amendment of the Local Government (Best Value) Performance Indicators and Performance Standards (England) Order 2005[^key-1eb66a653ac51934ba297f83f5b58df5]
+### 4. Amendment of the Local Government (Best Value) Performance Indicators and Performance Standards (England) Order 2005[^c-1eb66a653ac51934ba297f83f5b58df5]
 
 (1) The Local Government (Best Value) Performance Indicators and Performance Standards (England) Order 2005[^f00021] is amended as follows.
 
 (2) In article 1(2) (citation, commencement and interpretation) at the end of the definition of “fire and rescue authority” insert “other than an authority created by an order under section 4A of that Act.”.
 
-### 5. Amendment of the Council Tax (Demand Notices) (England) Regulations 2009[^key-c32412d7b23a57c1b3c1244d42131cd5]
+### 5. Amendment of the Council Tax (Demand Notices) (England) Regulations 2009[^c-c32412d7b23a57c1b3c1244d42131cd5]
 
 (1) The Council Tax (Demand Notices) (England) Regulations 2009[^f00022] are amended as follows.
 
@@ -568,7 +568,7 @@ Article 29
 
 .
 
-### 6. Amendment of the Elected Local Policing Bodies (Specified Information) Order 2011[^key-567bd5c44b9c7222382534b169a8aba9]
+### 6. Amendment of the Elected Local Policing Bodies (Specified Information) Order 2011[^c-567bd5c44b9c7222382534b169a8aba9]
 
 (1) The Elected Local Policing Bodies (Specified Information) Order 2011 is amended as follows.
 
@@ -579,7 +579,7 @@ Article 29
 > - (a) in relation to an elected local policing body the information specified in paragraph 1(a), (b), (c) and (e); and
 > - (b) in relation to a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 the information specified in paragraph 1(a),(b), (c) and (e) as applied with modifications to such an authority by the Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017.
 
-### 7. Amendment of the Community Right to Challenge (Fire and Rescue Authorities and Rejection of Expressions of Interest) (England) Regulations 2012[^key-c254d60057837f5fd40e869c2a255e82]
+### 7. Amendment of the Community Right to Challenge (Fire and Rescue Authorities and Rejection of Expressions of Interest) (England) Regulations 2012[^c-c254d60057837f5fd40e869c2a255e82]
 
 (1) The Community Right to Challenge (Fire and Rescue Authorities and Rejection of Expressions of Interest) (England) Regulations 2012[^f00023] are amended as follows.
 
@@ -594,7 +594,7 @@ Article 29
 
   .
 
-### 8. Amendment of the Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012[^key-54f74fc68294267bf21464a2761576af]
+### 8. Amendment of the Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012[^c-54f74fc68294267bf21464a2761576af]
 
 (1) The Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012[^f00024] are amended as follows in relation to council tax reduction schemes[^f00025] made by billing authorities[^f00026] for financial years beginning on or after 1st April 2018.
 
@@ -604,7 +604,7 @@ Article 29
 
 .
 
-### 9. Amendment of the Re-use of Public Sector Information Regulations 2015[^key-c1a838644ef8582207bbd629a47a216f]
+### 9. Amendment of the Re-use of Public Sector Information Regulations 2015[^c-c1a838644ef8582207bbd629a47a216f]
 
 (1) The Re-use of Public Sector Information Regulations 2015[^f00027] are amended as follows.
 
@@ -614,7 +614,7 @@ Article 29
 
 .
 
-### 10. Amendment of the Trade Union (Facility Time Publication Requirements) Regulations 2017[^key-eb3f34e6258d0ed1ab14f43aed5d50b9]
+### 10. Amendment of the Trade Union (Facility Time Publication Requirements) Regulations 2017[^c-eb3f34e6258d0ed1ab14f43aed5d50b9]
 
 (1) The Trade Union (Facility Time Publication Requirements) Regulations 2017[^f00028] are amended as follows.
 
@@ -624,7 +624,7 @@ Article 29
 
 .
 
-### 11. Amendment of the Equality Act 2010 (Specific Duties and Public Authorities) Regulations 2017[^key-7775e51e432a55783074b5b66c1dd95b]
+### 11. Amendment of the Equality Act 2010 (Specific Duties and Public Authorities) Regulations 2017[^c-7775e51e432a55783074b5b66c1dd95b]
 
 (1) The Equality Act 2010 (Specific Duties and Public Authorities) Regulations 2017[^f00029] are amended as follows.
 
@@ -662,75 +662,75 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00003]: Footnote: [2017 c. 3](https://www.legislation.gov.uk/ukpga/2017/3).
 
-[^key-a2b40d8aeced35f0055bd43ad584259e]: Commencement: Art. 1 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-a2b40d8aeced35f0055bd43ad584259e]: Commencement: Art. 1 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-b6d989390fb86a5ee145c9460da4e3d5]: Commencement: Art. 2 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-b6d989390fb86a5ee145c9460da4e3d5]: Commencement: Art. 2 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
 [^f00004]: Footnote: [2004 c. 36](https://www.legislation.gov.uk/ukpga/2004/36). There are amendments to section 2 that are not relevant to this Order.
 
-[^key-e4b69a86a7e3142694ede8761ade391c]: Commencement: Art. 3 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-e4b69a86a7e3142694ede8761ade391c]: Commencement: Art. 3 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-1dccdbfb8356397b4e39f5ba52676b1c]: Modification: [Arts. 3-23](https://www.legislation.gov.uk/uksi/2017/863/article/3) applied (26.6.2020) by [S.I. 2017/469](https://www.legislation.gov.uk/uksi/2017/469), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/6) (as inserted by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [9](https://www.legislation.gov.uk/uksi/2020/641/article/9))
+[^c-1dccdbfb8356397b4e39f5ba52676b1c]: Modification: [Arts. 3-23](https://www.legislation.gov.uk/uksi/2017/863/article/3) applied (26.6.2020) by [S.I. 2017/469](https://www.legislation.gov.uk/uksi/2017/469), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/6) (as inserted by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [9](https://www.legislation.gov.uk/uksi/2020/641/article/9))
 
-[^key-c3711e409bf804b90379c6610d0e56f6]: Modification: [Arts. 3-23](https://www.legislation.gov.uk/uksi/2017/863/article/3) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/46/2), [Sch. 7 para. 15](https://www.legislation.gov.uk/uksi/2023/1432/schedule/7/paragraph/15)
+[^c-c3711e409bf804b90379c6610d0e56f6]: Modification: [Arts. 3-23](https://www.legislation.gov.uk/uksi/2017/863/article/3) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/46/2), [Sch. 7 para. 15](https://www.legislation.gov.uk/uksi/2023/1432/schedule/7/paragraph/15)
 
 [^f00005]: Footnote: The provisions in Chapter 1 of Part 2 correspond to Part 1 of Schedule 8 to the Police Reform and Social Responsibility Act 2011 and Part 3 of [S.I. 2012/2271](https://www.legislation.gov.uk/uksi/2012/2271).
 
-[^key-d4b53ee6de85a4a2b98547d9b1efd905]: Commencement: Art. 4 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-d4b53ee6de85a4a2b98547d9b1efd905]: Commencement: Art. 4 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-13f16a55061b0b0463a2a81a53af7588]: Commencement: Art. 5 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-13f16a55061b0b0463a2a81a53af7588]: Commencement: Art. 5 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-a5c65357a4794e3435532507df716964]: Commencement: Art. 6 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-a5c65357a4794e3435532507df716964]: Commencement: Art. 6 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
 [^f00006]: Footnote: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13).
 
-[^key-9be34ed52098187e53622053ecfcd653]: Commencement: Art. 7 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-9be34ed52098187e53622053ecfcd653]: Commencement: Art. 7 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-b0e709eafad2be6fbd34df58e12cba78]: Commencement: Art. 8 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-b0e709eafad2be6fbd34df58e12cba78]: Commencement: Art. 8 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-cc6e16118acc83846c8203af61f281e1]: Commencement: Art. 9 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-cc6e16118acc83846c8203af61f281e1]: Commencement: Art. 9 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-f968a4566ebdb322bf7a1c283ee77dfe]: Commencement: Art. 10 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-f968a4566ebdb322bf7a1c283ee77dfe]: Commencement: Art. 10 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-315eb88f19314fcd80899a4e94a0edce]: Commencement: Art. 11 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-315eb88f19314fcd80899a4e94a0edce]: Commencement: Art. 11 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-bc931b63aa88c8b595feb921f6fb100c]: Commencement: Art. 12 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-bc931b63aa88c8b595feb921f6fb100c]: Commencement: Art. 12 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-6741657f1bb9e1cde4eb656ef1472485]: Commencement: Art. 13 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-6741657f1bb9e1cde4eb656ef1472485]: Commencement: Art. 13 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-002f55711f7b8b33b0fa761d96ae2f28]: Commencement: Art. 14 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-002f55711f7b8b33b0fa761d96ae2f28]: Commencement: Art. 14 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-cd65801b1ef2cb81147737db12f13135]: Commencement: Art. 15 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-cd65801b1ef2cb81147737db12f13135]: Commencement: Art. 15 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
 [^f00007]: Footnote: This provision corresponds to paragraph 11 of Schedule 8 to the Police Reform and Social Responsibility Act 2011.
 
-[^key-0e3a0c4ad34d0f0b30b0b11a63aa516d]: Commencement: Art. 16 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-0e3a0c4ad34d0f0b30b0b11a63aa516d]: Commencement: Art. 16 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
 [^f00008]: Footnote: The provisions in Chapter 3 of Part 2 correspond or make similar provision to paragraphs 12 to 19 of Schedule 8 to the Police Reform and Social Responsibility Act 2011 and regulation 11A of [S.I. 2003/527](https://www.legislation.gov.uk/uksi/2003/527).
 
-[^key-ca9e24615b9c44c6defe6fcfb7425f13]: Commencement: Art. 17 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-ca9e24615b9c44c6defe6fcfb7425f13]: Commencement: Art. 17 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-7e075bf22e06c85172322ae158d5ff9a]: Commencement: Art. 18 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-7e075bf22e06c85172322ae158d5ff9a]: Commencement: Art. 18 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
 [^f00009]: Footnote: See section 28(A2) of the Fire and Rescue Services Act 2004.
 
-[^key-43640e282bacff6faa896d4dc63059eb]: Commencement: Art. 19 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-43640e282bacff6faa896d4dc63059eb]: Commencement: Art. 19 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-0a530690dda219792e45f5414d075cad]: Commencement: Art. 20 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-0a530690dda219792e45f5414d075cad]: Commencement: Art. 20 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-1de322e117ab60fcb2201dfe2b2fdbc9]: Commencement: Art. 21 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-1de322e117ab60fcb2201dfe2b2fdbc9]: Commencement: Art. 21 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
 [^f00010]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42). Relevant amendments to section 4 were made by section 6 of, and paragraphs 60, 62(1) and (3) of Schedule 1 to, the Policing and Crime Act 2017.
 
-[^key-f3d6c894ad96860479596af4ff1fa131]: Commencement: Art. 22 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-f3d6c894ad96860479596af4ff1fa131]: Commencement: Art. 22 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-ada8af63839e38108a8b6c207aae28ab]: Commencement: Art. 23 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-ada8af63839e38108a8b6c207aae28ab]: Commencement: Art. 23 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-7dabbaa9b932fc4de83fb19a7a2c32e0]: Commencement: Art. 24 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-7dabbaa9b932fc4de83fb19a7a2c32e0]: Commencement: Art. 24 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-9ff141e4bf1ea6fcdeae8f2defa08a77]: Commencement: Art. 25 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-9ff141e4bf1ea6fcdeae8f2defa08a77]: Commencement: Art. 25 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-3b1b8a034999f1f370c5ac92991d1830]: Commencement: Art. 26 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-3b1b8a034999f1f370c5ac92991d1830]: Commencement: Art. 26 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
 [^f00011]: Footnote: See also section 28(A7)(a) to (d) of the Fire and Rescue Services Act 2004.
 
@@ -740,9 +740,9 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00014]: Footnote: The Fire and Rescue National Framework is prepared by the Secretary of State under section 21 of the Fire and Rescue Services Act 2004.
 
-[^key-666211d5c5058fc0075f5806321105d4]: Commencement: Art. 27 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-666211d5c5058fc0075f5806321105d4]: Commencement: Art. 27 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-1220abdc34f034ffcea2d68a9d0e43e7]: Commencement: Art. 28 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-1220abdc34f034ffcea2d68a9d0e43e7]: Commencement: Art. 28 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
 [^f00015]: Footnote: [S.I. 2011/3050](https://www.legislation.gov.uk/uksi/2011/3050) amended by [S.I 2012/2479](https://www.legislation.gov.uk/uksi/2012/2479) and [S.I. 2013/1816](https://www.legislation.gov.uk/uksi/2013/1816).
 
@@ -750,47 +750,47 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00017]: Footnote: [S.I. 2012/2271](https://www.legislation.gov.uk/uksi/2012/2271).
 
-[^key-b302b0550b85018ad0fb25decbb24628]: Commencement: Art. 29 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-b302b0550b85018ad0fb25decbb24628]: Commencement: Art. 29 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-51058417e1b5a15fb98ef60f63182843]: Commencement: Sch. 1 para. 1 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-51058417e1b5a15fb98ef60f63182843]: Commencement: Sch. 1 para. 1 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-513f3b601bb22139691dc21c29ac14ec]: Commencement: Sch. 1 para. 2 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-513f3b601bb22139691dc21c29ac14ec]: Commencement: Sch. 1 para. 2 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-858c600f658ddd4015124170183092ab]: Commencement: Sch. 1 para. 3 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-858c600f658ddd4015124170183092ab]: Commencement: Sch. 1 para. 3 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-1fcaa36d19f555839f1c6ff890e4b541]: Commencement: Sch. 1 para. 4 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-1fcaa36d19f555839f1c6ff890e4b541]: Commencement: Sch. 1 para. 4 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-3f9920eba7f72121a63c19137bab3611]: Commencement: Sch. 1 para. 5 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-3f9920eba7f72121a63c19137bab3611]: Commencement: Sch. 1 para. 5 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-b0f4878c3beddd48f2ae6f21dd13436f]: Commencement: Sch. 1 para. 6 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-b0f4878c3beddd48f2ae6f21dd13436f]: Commencement: Sch. 1 para. 6 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-815654c717e90c6622bd4107b57d840d]: Commencement: Sch. 2 para. 1 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-815654c717e90c6622bd4107b57d840d]: Commencement: Sch. 2 para. 1 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
 [^f00018]: Footnote: [S.I. 1990/851](https://www.legislation.gov.uk/uksi/1990/851).
 
-[^key-d3c192a2c592f090098aaa3a36f57fcc]: Commencement: Sch. 2 para. 2 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-d3c192a2c592f090098aaa3a36f57fcc]: Commencement: Sch. 2 para. 2 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
 [^f00019]: Footnote: [S.I. 1998/2479](https://www.legislation.gov.uk/uksi/1998/2479). Paragraph 1 of Schedule 1 was amended by [S.I. 2004/3168](https://www.legislation.gov.uk/uksi/2004/3168).
 
-[^key-b9662c0b650869eaf4d2d95be139e8bf]: Commencement: Sch. 2 para. 3 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-b9662c0b650869eaf4d2d95be139e8bf]: Commencement: Sch. 2 para. 3 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
 [^f00020]: Footnote: [S.I. 1999/2277](https://www.legislation.gov.uk/uksi/1999/2277). Paragraph 1A of section 6 was inserted in relation to England by [S.I. 2004/3168](https://www.legislation.gov.uk/uksi/2004/3168); paragraph 1B was inserted by [S.I. 2017/469](https://www.legislation.gov.uk/uksi/2017/469) and paragraph 3 was amended by paragraph 10(1) and (2) of Part 1 of Schedule 2 to the Civil Contingencies Act [2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36).
 
-[^key-1eb66a653ac51934ba297f83f5b58df5]: Commencement: Sch. 2 para. 4 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-1eb66a653ac51934ba297f83f5b58df5]: Commencement: Sch. 2 para. 4 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
 [^f00021]: Footnote: [S.I. 2005/598](https://www.legislation.gov.uk/uksi/2005/598).
 
-[^key-c32412d7b23a57c1b3c1244d42131cd5]: Commencement: Sch. 2 para. 5 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-c32412d7b23a57c1b3c1244d42131cd5]: Commencement: Sch. 2 para. 5 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
 [^f00022]: Footnote: [S.I. 2009/3193](https://www.legislation.gov.uk/uksi/2009/3193).
 
-[^key-567bd5c44b9c7222382534b169a8aba9]: Commencement: Sch. 2 para. 6 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-567bd5c44b9c7222382534b169a8aba9]: Commencement: Sch. 2 para. 6 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
-[^key-c254d60057837f5fd40e869c2a255e82]: Commencement: Sch. 2 para. 7 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-c254d60057837f5fd40e869c2a255e82]: Commencement: Sch. 2 para. 7 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
 [^f00023]: Footnote: [S.I. 2012/1647](https://www.legislation.gov.uk/uksi/2012/1647).
 
-[^key-54f74fc68294267bf21464a2761576af]: Commencement: Sch. 2 para. 8 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-54f74fc68294267bf21464a2761576af]: Commencement: Sch. 2 para. 8 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
 [^f00024]: Footnote: [S.I. 2012/2885](https://www.legislation.gov.uk/uksi/2012/2885). Paragraph 3 of Schedule 4 was amended by [S.I. 2013/3181](https://www.legislation.gov.uk/uksi/2013/3181).
 
@@ -798,14 +798,14 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00026]: Footnote: See section 1(2) of the Local Government Finance Act 1992 for the definition of “billing authority”.
 
-[^key-c1a838644ef8582207bbd629a47a216f]: Commencement: Sch. 2 para. 9 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-c1a838644ef8582207bbd629a47a216f]: Commencement: Sch. 2 para. 9 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
 [^f00027]: Footnote: [S.I. 2015/1415](https://www.legislation.gov.uk/uksi/2015/1415).
 
-[^key-eb3f34e6258d0ed1ab14f43aed5d50b9]: Commencement: Sch. 2 para. 10 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-eb3f34e6258d0ed1ab14f43aed5d50b9]: Commencement: Sch. 2 para. 10 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
 [^f00028]: Footnote: [S.I. 2017/328](https://www.legislation.gov.uk/uksi/2017/328).
 
-[^key-7775e51e432a55783074b5b66c1dd95b]: Commencement: Sch. 2 para. 11 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
+[^c-7775e51e432a55783074b5b66c1dd95b]: Commencement: Sch. 2 para. 11 in force at 1.10.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1)
 
 [^f00029]: Footnote: [S.I. 2017/353](https://www.legislation.gov.uk/uksi/2017/353).

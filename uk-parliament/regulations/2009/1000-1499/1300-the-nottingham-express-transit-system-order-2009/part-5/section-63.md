@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Document to be issued in connection with penalty fare requirement[^key-73f3b7eebc1a5b1b2391ca7db3b3f58a]
+## 63. Document to be issued in connection with penalty fare requirement[^c-73f3b7eebc1a5b1b2391ca7db3b3f58a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73f3b7eebc1a5b1b2391ca7db3b3f58a]: Commencement: Art. 63 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-73f3b7eebc1a5b1b2391ca7db3b3f58a]: Commencement: Art. 63 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Child abduction[^key-1bf5c9930c3bf0f1c6aa384ac4731100]
+## 137. Child abduction[^c-1bf5c9930c3bf0f1c6aa384ac4731100]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1bf5c9930c3bf0f1c6aa384ac4731100]: Commencement: S. 137 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-1bf5c9930c3bf0f1c6aa384ac4731100]: Commencement: S. 137 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

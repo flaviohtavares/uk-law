@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 102. Passengers on motor cycles[^key-6a86d258d363d3738f6e102bf61fd07f]
+## 102. Passengers on motor cycles[^c-6a86d258d363d3738f6e102bf61fd07f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ If any person in addition to the driver is carried astride a two-wheeled motor c
 
 ## Annotations
 
-[^key-6a86d258d363d3738f6e102bf61fd07f]: Commencement: [Reg. 102](https://www.legislation.gov.uk/uksi/1986/1078/regulation/102) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-6a86d258d363d3738f6e102bf61fd07f]: Commencement: [Reg. 102](https://www.legislation.gov.uk/uksi/1986/1078/regulation/102) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

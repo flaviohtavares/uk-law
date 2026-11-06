@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.28. Electronic delivery of notices to enforcement officers[^key-209a1d99817607eb065a9c12e11218f2]
+## 7.28. Electronic delivery of notices to enforcement officers[^c-209a1d99817607eb065a9c12e11218f2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where anything in the Act or these Rules provides for the delivery of a notice t
 
 ## Annotations
 
-[^key-209a1d99817607eb065a9c12e11218f2]: Commencement: Rule 7.28 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-209a1d99817607eb065a9c12e11218f2]: Commencement: Rule 7.28 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

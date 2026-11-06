@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 132. Determination of appeal: general[^key-4980c82557c8741009501def5214b64c]
+## 132. Determination of appeal: general[^c-4980c82557c8741009501def5214b64c]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ if they are satisfied that the correction or variation will not cause injustice 
 
 ## Annotations
 
-[^key-4980c82557c8741009501def5214b64c]: Commencement: S. 132 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4980c82557c8741009501def5214b64c]: Commencement: S. 132 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

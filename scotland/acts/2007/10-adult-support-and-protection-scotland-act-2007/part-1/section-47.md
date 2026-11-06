@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Guidance[^key-601c2fc0412239e43cf4832bb0655649]
+## 47. Guidance[^c-601c2fc0412239e43cf4832bb0655649]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Adult Protection Committees, and councils, must have regard to any guidance issu
 
 ## Annotations
 
-[^key-601c2fc0412239e43cf4832bb0655649]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2007/10/section/47) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-601c2fc0412239e43cf4832bb0655649]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2007/10/section/47) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

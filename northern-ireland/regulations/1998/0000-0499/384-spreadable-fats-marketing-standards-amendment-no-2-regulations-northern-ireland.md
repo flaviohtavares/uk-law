@@ -30,7 +30,7 @@ summary: ''
 
 FOOD
 
-Spreadable Fats (Marketing Standards) (Amendment No. 2) Regulations (Northern Ireland) 1998 (revoked)[^key-4193df1fa647b94d81a9e804c4eb0a7e]
+Spreadable Fats (Marketing Standards) (Amendment No. 2) Regulations (Northern Ireland) 1998 (revoked)[^c-4193df1fa647b94d81a9e804c4eb0a7e]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 14th December 1998
 
-[^key-4193df1fa647b94d81a9e804c4eb0a7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4193df1fa647b94d81a9e804c4eb0a7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-4193df1fa647b94d81a9e804c4eb0a7e]
+## 1. Citation, commencement and interpretation[^c-4193df1fa647b94d81a9e804c4eb0a7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-4193df1fa647b94d81a9e804c4eb0a7e]
+## 2. Amendment of the principal Regulations[^c-4193df1fa647b94d81a9e804c4eb0a7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4193df1fa647b94d81a9e804c4eb0a7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4193df1fa647b94d81a9e804c4eb0a7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4193df1fa647b94d81a9e804c4eb0a7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4193df1fa647b94d81a9e804c4eb0a7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4193df1fa647b94d81a9e804c4eb0a7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4193df1fa647b94d81a9e804c4eb0a7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4193df1fa647b94d81a9e804c4eb0a7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4193df1fa647b94d81a9e804c4eb0a7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4193df1fa647b94d81a9e804c4eb0a7e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/384) revoked (1.11.1999) by [Spreadable Fats (Marketing Standards) Regulations (Northern Ireland) 1999 (revoked) 1999 (S.R. 1999/383)](https://www.legislation.gov.uk/nisr/1999/383), [regs. 1](https://www.legislation.gov.uk/nisr/1999/383/regulation/1),
+[^c-4193df1fa647b94d81a9e804c4eb0a7e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/384) revoked (1.11.1999) by [Spreadable Fats (Marketing Standards) Regulations (Northern Ireland) 1999 (revoked) 1999 (S.R. 1999/383)](https://www.legislation.gov.uk/nisr/1999/383), [regs. 1](https://www.legislation.gov.uk/nisr/1999/383/regulation/1),

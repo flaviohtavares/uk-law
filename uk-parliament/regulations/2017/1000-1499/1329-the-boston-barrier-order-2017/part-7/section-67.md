@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Arbitration[^key-223621cbe1f3ef310659da0b887795bc]
+## 67. Arbitration[^c-223621cbe1f3ef310659da0b887795bc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Unless otherwise provided in this Order, any difference under any provision of t
 
 ## Annotations
 
-[^key-223621cbe1f3ef310659da0b887795bc]: Commencement: Art. 67 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-223621cbe1f3ef310659da0b887795bc]: Commencement: Art. 67 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

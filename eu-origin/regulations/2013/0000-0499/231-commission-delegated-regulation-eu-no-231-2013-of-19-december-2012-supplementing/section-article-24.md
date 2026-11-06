@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. AIFMs shall not be regarded as acting honestly, fairly and in accordance with the best interests of the AIFs they manage or the investors in these AIFs if, in relation to the activities performed when carrying out the functions referred to in rule 1.4.7 of the Investment Funds sourcebook[^key-9e74045bc893f81a21a154c6e2199b4d], they pay or are paid any fee or commission, or provide or are provided with any non-monetary benefit, other than the following:
+1. AIFMs shall not be regarded as acting honestly, fairly and in accordance with the best interests of the AIFs they manage or the investors in these AIFs if, in relation to the activities performed when carrying out the functions referred to in rule 1.4.7 of the Investment Funds sourcebook[^c-9e74045bc893f81a21a154c6e2199b4d], they pay or are paid any fee or commission, or provide or are provided with any non-monetary benefit, other than the following:
 
 - (a) a fee, commission or non-monetary benefit paid or provided to or by the AIF or a person on behalf of the AIF;
 - (b) a fee, commission or non-monetary benefit paid or provided to or by a third party or a person acting on behalf of a third party, where the AIFM can demonstrate that the following conditions are satisfied:
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e74045bc893f81a21a154c6e2199b4d]: Textual amendment: Words in Art. 24 substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [24(4)](https://www.legislation.gov.uk/uksi/2019/328/regulation/24) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9e74045bc893f81a21a154c6e2199b4d]: Textual amendment: Words in Art. 24 substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [24(4)](https://www.legislation.gov.uk/uksi/2019/328/regulation/24) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

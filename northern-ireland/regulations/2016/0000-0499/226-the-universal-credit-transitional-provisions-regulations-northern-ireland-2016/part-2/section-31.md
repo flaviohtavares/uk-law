@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Sanctions: transition from old style ESA[^key-0c6c53e98aae1983bf43cd5fa8a8514e]
+## 31. Sanctions: transition from old style ESA[^c-0c6c53e98aae1983bf43cd5fa8a8514e]
 
 *Extent: N.I.*
 
@@ -53,6 +53,6 @@ there were substituted “in accordance with regulation 31 of the Universal Cred
 
 ## Annotations
 
-[^key-0c6c53e98aae1983bf43cd5fa8a8514e]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2016/226/regulation/31) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-0c6c53e98aae1983bf43cd5fa8a8514e]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2016/226/regulation/31) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
 
 [^f00050]: Footnote: Regulation 63 was amended by regulation 10(8) of [S.R. 2011 No. 265](https://www.legislation.gov.uk/nisr/2011/265).

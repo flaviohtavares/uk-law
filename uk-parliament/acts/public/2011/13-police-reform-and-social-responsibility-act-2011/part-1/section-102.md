@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-a7a15cd2bcde12fa5ae3f0c1409dd2bc] In this Part (unless otherwise specified)—
+(1)[^c-a7a15cd2bcde12fa5ae3f0c1409dd2bc] In this Part (unless otherwise specified)—
 
 - “**chief executive**” means—
   - (a) in relation to a police and crime commissioner, the chief executive appointed by the commissioner under Schedule 1;
@@ -42,7 +42,7 @@ summary: ''
   - (b) national security,
   - (c) counter-terrorism, or
   - (d) the provision of services for any other national or international purpose;
-- “[^key-98569379ea70f767e86d842077c6c977]**overseas elector’s declaration**” means a declaration made under and in accordance with section 1C of the Representation of the People Act 1985.
+- “[^c-98569379ea70f767e86d842077c6c977]**overseas elector’s declaration**” means a declaration made under and in accordance with section 1C of the Representation of the People Act 1985.
 - “**police and crime panel**” means—
   - (a) in relation to a police area listed in Schedule 1 to the Police Act 1996, the police and crime panel referred to in subsection (1) of section 28;
   - (b) in relation to the metropolitan police district, the committee established under section 32;
@@ -50,7 +50,7 @@ summary: ''
 - “**police area**” means—
   - (a) a police area listed in Schedule 1 to the Police Act 1996 (police areas outside London), and
   - (b) the metropolitan police district;
-- “[^key-7740a2071d370208c7a398c72e16771c]**qualifying EU citizen**” and “EU citizen with retained rights” have the same meaning as in the Representation of the People Act 1983 (see sections 203A and 203B of that Act);
+- “[^c-7740a2071d370208c7a398c72e16771c]**qualifying EU citizen**” and “EU citizen with retained rights” have the same meaning as in the Representation of the People Act 1983 (see sections 203A and 203B of that Act);
 - “**relevant chief officer of police**”, in relation to—
   - (a) a police area,
   - (b) the police force for a police area,
@@ -58,7 +58,7 @@ summary: ''
   - (d) the police and crime panel for a police area,
 
   means the chief officer of police of the police force for that area;
-- [^key-4b1061591ad162a579afef3ef8328e54]...
+- [^c-4b1061591ad162a579afef3ef8328e54]...
 - “**relevant elected local policing body**”, in relation to—
   - (a) a police area,
   - (b) the police force for a police area,
@@ -81,9 +81,9 @@ summary: ''
 
   means the police force for that area.
 
-(2)[^key-efd8d55bdabf76cf480b1b8e05a9f620] References in this Part to a police and crime commissioner's area are references to the police area for which the commissioner is established.
+(2)[^c-efd8d55bdabf76cf480b1b8e05a9f620] References in this Part to a police and crime commissioner's area are references to the police area for which the commissioner is established.
 
-(3)[^key-efd8d55bdabf76cf480b1b8e05a9f620][^key-b74ea7aa5f92c9a3edeb5c2b6a34d136] References in this Part to a police and crime commissioner's staff are references to the following persons appointed under Schedule 1—
+(3)[^c-efd8d55bdabf76cf480b1b8e05a9f620][^c-b74ea7aa5f92c9a3edeb5c2b6a34d136] References in this Part to a police and crime commissioner's staff are references to the following persons appointed under Schedule 1—
 
 - (a) the commissioner's chief executive;
 - (b) the commissioner's chief finance officer; and
@@ -91,35 +91,35 @@ summary: ''
 
 and to the person (if any) appointed as the deputy police and crime commissioner under section 18.
 
-(4)[^key-a7a15cd2bcde12fa5ae3f0c1409dd2bc][^key-b7381ae82d157d6168e18e1f6c96f5aa] References in this Part to a police force's civilian staff are (except in the case of the metropolitan police force) references to—
+(4)[^c-a7a15cd2bcde12fa5ae3f0c1409dd2bc][^c-b7381ae82d157d6168e18e1f6c96f5aa] References in this Part to a police force's civilian staff are (except in the case of the metropolitan police force) references to—
 
 - (a) the chief finance officer appointed by the chief constable of the force under paragraph 4 of Schedule 2, and
 - (b) the other staff appointed by that chief constable under that Schedule.
 
-(5)[^key-a7a15cd2bcde12fa5ae3f0c1409dd2bc] References in this Part to the staff of the Mayor's Office for Policing and Crime are references to—
+(5)[^c-a7a15cd2bcde12fa5ae3f0c1409dd2bc] References in this Part to the staff of the Mayor's Office for Policing and Crime are references to—
 
 - (a) the Office's chief finance officer appointed under section 127(2) of the Greater London Authority Act 1999;
 - (b) the Office's chief executive appointed under Schedule 3;
 - (c) other staff appointed under Schedule 3; and
 - (d) the person (if any) appointed under section 19 as the Deputy Mayor for Policing and Crime (subject to paragraph 4(4) of Schedule 3 (Deputy Mayor an Assembly member)).
 
-(6)[^key-a7a15cd2bcde12fa5ae3f0c1409dd2bc] References in this Part to the metropolitan police force's civilian staff are references to—
+(6)[^c-a7a15cd2bcde12fa5ae3f0c1409dd2bc] References in this Part to the metropolitan police force's civilian staff are references to—
 
 - (a) the chief finance officer appointed by the Commissioner of Police of the Metropolis under paragraph 1 of Schedule 4, and
 - (b) the other staff appointed by the Commissioner under that Schedule.
 
 ## Annotations
 
-[^key-a7a15cd2bcde12fa5ae3f0c1409dd2bc]: Commencement: S. 102(1)(4)(5)(6) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [arts. 7(2)](https://www.legislation.gov.uk/uksi/2011/3019/article/7/2), [10(3)](https://www.legislation.gov.uk/uksi/2011/3019/article/10/3))
+[^c-a7a15cd2bcde12fa5ae3f0c1409dd2bc]: Commencement: S. 102(1)(4)(5)(6) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [arts. 7(2)](https://www.legislation.gov.uk/uksi/2011/3019/article/7/2), [10(3)](https://www.legislation.gov.uk/uksi/2011/3019/article/10/3))
 
-[^key-98569379ea70f767e86d842077c6c977]: Textual amendment: Words in [s. 102(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/102/1) substituted (16.1.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/9) (with [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/13)); [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1405/regulation/2)
+[^c-98569379ea70f767e86d842077c6c977]: Textual amendment: Words in [s. 102(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/102/1) substituted (16.1.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/9) (with [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/13)); [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1405/regulation/2)
 
-[^key-7740a2071d370208c7a398c72e16771c]: Textual amendment: Words in [s. 102(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/102/1) inserted (1.11.2023 for specified purposes, 7.5.2024 in so far as not already in force) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 6(6)(b)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/6/6/b); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [regs. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)[(iv)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/iv), [5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
+[^c-7740a2071d370208c7a398c72e16771c]: Textual amendment: Words in [s. 102(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/102/1) inserted (1.11.2023 for specified purposes, 7.5.2024 in so far as not already in force) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 6(6)(b)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/6/6/b); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [regs. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)[(iv)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/iv), [5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
 
-[^key-4b1061591ad162a579afef3ef8328e54]: Textual amendment: Words in [s. 102(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/102/1) omitted (1.11.2023 for specified purposes, 7.5.2024 in so far as not already in force) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 6(6)(a)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/6/6/a); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [regs. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)[(iv)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/iv), [5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
+[^c-4b1061591ad162a579afef3ef8328e54]: Textual amendment: Words in [s. 102(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/102/1) omitted (1.11.2023 for specified purposes, 7.5.2024 in so far as not already in force) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 6(6)(a)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/6/6/a); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [regs. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i)[(iv)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/iv), [5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
 
-[^key-efd8d55bdabf76cf480b1b8e05a9f620]: Commencement: S. 102(2)(3) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+[^c-efd8d55bdabf76cf480b1b8e05a9f620]: Commencement: S. 102(2)(3) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
 
-[^key-b74ea7aa5f92c9a3edeb5c2b6a34d136]: Modification: S. 102(3) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 21(e)](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/21/e)
+[^c-b74ea7aa5f92c9a3edeb5c2b6a34d136]: Modification: S. 102(3) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 21(e)](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/21/e)
 
-[^key-b7381ae82d157d6168e18e1f6c96f5aa]: Modification: S. 102(4) modified (with application in accordance with art. 5(1) of the amending S.I.) by [The Police Reform and Social Responsibility Act 2011 (Commencement No. 7 and Transitional Provisions and Commencement No. 3 and Transitional Provisions (Amendment)) Order 2012 (S.I. 2012/2892)](https://www.legislation.gov.uk/uksi/2012/2892), [art. 5(2)](https://www.legislation.gov.uk/uksi/2012/2892/article/5/2)
+[^c-b7381ae82d157d6168e18e1f6c96f5aa]: Modification: S. 102(4) modified (with application in accordance with art. 5(1) of the amending S.I.) by [The Police Reform and Social Responsibility Act 2011 (Commencement No. 7 and Transitional Provisions and Commencement No. 3 and Transitional Provisions (Amendment)) Order 2012 (S.I. 2012/2892)](https://www.legislation.gov.uk/uksi/2012/2892), [art. 5(2)](https://www.legislation.gov.uk/uksi/2012/2892/article/5/2)

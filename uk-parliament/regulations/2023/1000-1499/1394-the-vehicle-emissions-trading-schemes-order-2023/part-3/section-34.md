@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Allocation of CCTS allowances[^key-76bc68a33b5dc90323d4288ea547a38f]
+## 34. Allocation of CCTS allowances[^c-76bc68a33b5dc90323d4288ea547a38f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76bc68a33b5dc90323d4288ea547a38f]: Commencement: Art. 34 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-76bc68a33b5dc90323d4288ea547a38f]: Commencement: Art. 34 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

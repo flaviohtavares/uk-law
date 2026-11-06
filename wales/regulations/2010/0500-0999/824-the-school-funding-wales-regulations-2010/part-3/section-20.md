@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. School re-organisation[^key-30157992910394890554c74a13656805]
+## 20. School re-organisation[^c-30157992910394890554c74a13656805]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ the local authority must include factors or criteria in their formula which enab
 
 ## Annotations
 
-[^key-30157992910394890554c74a13656805]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2010/824/regulation/20) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-30157992910394890554c74a13656805]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2010/824/regulation/20) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)

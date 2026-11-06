@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Police powers for civilian employees under collaboration agreements[^key-a2ba12ee1e433d050e2f42a4d2c4000e]
+## 90. Police powers for civilian employees under collaboration agreements[^c-a2ba12ee1e433d050e2f42a4d2c4000e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 13 (police powers for civilian employees under collaboration agreements
 
 ## Annotations
 
-[^key-a2ba12ee1e433d050e2f42a4d2c4000e]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2011/13/section/90) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-a2ba12ee1e433d050e2f42a4d2c4000e]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2011/13/section/90) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

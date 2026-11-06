@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Infrastructure[^f00001] makes the following Regulations in exercise of the powers conferred by Articles 5(3) and (4A), 5A(6), (7) and (8), 13B, 19C(1) and (2)(b) and 218(1) of the Road Traffic (Northern Ireland) Order 1981[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-1fda07bcd9f38d6e13d02d1e84015dd7]
+## 1. Citation and commencement[^c-1fda07bcd9f38d6e13d02d1e84015dd7]
 
 (1) These Regulations may be cited as the Motor Vehicles (Driving Licences) (Amendment No. 3) Regulations (Northern Ireland) 2026 and shall come into operation on 1st October 2026.
 
-## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations[^key-5014171ab361ea6972f155d08fc5232e]
+## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations[^c-5014171ab361ea6972f155d08fc5232e]
 
 (1) The Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996[^f00004] are amended in accordance with paragraphs (2) to (7).
 
@@ -147,7 +147,7 @@ A senior officer of the
 
 Department for Infrastructure
 
-## SCHEDULE 1[^key-8aed1dfe8fb4e48f868756df64a88069]
+## SCHEDULE 1[^c-8aed1dfe8fb4e48f868756df64a88069]
 
 Regulation 2(6)(c)
 
@@ -208,7 +208,7 @@ Regulation 2(6)(c)
 >
 > **3.** Drive the vehicle backwards and cause it to face in the opposite direction by means of its tracks.
 
-## SCHEDULE 2[^key-2787081646a904f401c18299ff4b1c80]
+## SCHEDULE 2[^c-2787081646a904f401c18299ff4b1c80]
 
 Regulation 2(7)
 
@@ -302,9 +302,9 @@ An Explanatory Memorandum has been produced and is available from Driving, Vehic
 
 [^f00003]: Footnote: *See* Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-1fda07bcd9f38d6e13d02d1e84015dd7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/129/regulation/1) in operation at 1.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/129/regulation/1/1)
+[^c-1fda07bcd9f38d6e13d02d1e84015dd7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/129/regulation/1) in operation at 1.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/129/regulation/1/1)
 
-[^key-5014171ab361ea6972f155d08fc5232e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/129/regulation/2) in operation at 1.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/129/regulation/1/1)
+[^c-5014171ab361ea6972f155d08fc5232e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/129/regulation/2) in operation at 1.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/129/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1996 No. 542](https://www.legislation.gov.uk/nisr/1996/542); relevant amending Regulations are [S.R. 2003 No. 371](https://www.legislation.gov.uk/nisr/2003/371), [S.R. 2003 No. 516](https://www.legislation.gov.uk/nisr/2003/516), [S.R. 2008 No. 418](https://www.legislation.gov.uk/nisr/2008/418), [S.R. 2009 No. 14](https://www.legislation.gov.uk/nisr/2009/14), [S.R. 2011 No. 21](https://www.legislation.gov.uk/nisr/2011/21), [S.R 2012 No. 170](https://www.legislation.gov.uk/nisr/2012/170), [S.R. 2012 No. 451](https://www.legislation.gov.uk/nisr/2012/451), [S.R. 2015 No. 6](https://www.legislation.gov.uk/nisr/2015/6), [S.R. 2015 No. 357](https://www.legislation.gov.uk/nisr/2015/357), [S.R. 2016 No. 135](https://www.legislation.gov.uk/nisr/2016/135)
 
@@ -324,6 +324,6 @@ An Explanatory Memorandum has been produced and is available from Driving, Vehic
 
 [^f00012]: Footnote: Schedule 10B was inserted by [S.R. 2011 No. 21](https://www.legislation.gov.uk/nisr/2011/21), regulation 2(11)
 
-[^key-8aed1dfe8fb4e48f868756df64a88069]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2026/129/schedule/1) in operation at 1.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/129/regulation/1/1)
+[^c-8aed1dfe8fb4e48f868756df64a88069]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2026/129/schedule/1) in operation at 1.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/129/regulation/1/1)
 
-[^key-2787081646a904f401c18299ff4b1c80]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2026/129/schedule/2) in operation at 1.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/129/regulation/1/1)
+[^c-2787081646a904f401c18299ff4b1c80]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2026/129/schedule/2) in operation at 1.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/129/regulation/1/1)

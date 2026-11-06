@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — STREETS TO BE STOPPED UP[^key-36ec32b0c10b3e9a827f064813a842c2]
+## SCHEDULE 3 — STREETS TO BE STOPPED UP[^c-36ec32b0c10b3e9a827f064813a842c2]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Article 11
 
 ### STREETS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED
 
-[^key-36ec32b0c10b3e9a827f064813a842c2]
+[^c-36ec32b0c10b3e9a827f064813a842c2]
 
 <table>
 <thead>
@@ -38,4 +38,4 @@ Article 11
 
 ## Annotations
 
-[^key-36ec32b0c10b3e9a827f064813a842c2]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2015/680/schedule/3) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-36ec32b0c10b3e9a827f064813a842c2]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2015/680/schedule/3) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)

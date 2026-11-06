@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81A. Arrangements for work, education and counselling – coronavirus[^key-cc7f10e97de5545ab1d2cffb1aa9076d]
+## 81A. Arrangements for work, education and counselling – coronavirus[^c-cc7f10e97de5545ab1d2cffb1aa9076d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc7f10e97de5545ab1d2cffb1aa9076d]: Textual amendment: Rule 81A omitted (29.9.2021) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2021 (S.S.I. 2021/289)](https://www.legislation.gov.uk/ssi/2021/289), [rules 1](https://www.legislation.gov.uk/ssi/2021/289/rule/1), [4(f)](https://www.legislation.gov.uk/ssi/2021/289/rule/4/f)
+[^c-cc7f10e97de5545ab1d2cffb1aa9076d]: Textual amendment: Rule 81A omitted (29.9.2021) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2021 (S.S.I. 2021/289)](https://www.legislation.gov.uk/ssi/2021/289), [rules 1](https://www.legislation.gov.uk/ssi/2021/289/rule/1), [4(f)](https://www.legislation.gov.uk/ssi/2021/289/rule/4/f)

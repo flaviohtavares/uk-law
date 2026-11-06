@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Remit from Land Court to sheriff or Court of Session[^key-e65cc66869ddd6d3e9a581d738fc8389]
+## 85. Remit from Land Court to sheriff or Court of Session[^c-e65cc66869ddd6d3e9a581d738fc8389]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ the Land Court may (at its own instance or following a request under subsection 
 
 ## Annotations
 
-[^key-e65cc66869ddd6d3e9a581d738fc8389]: Commencement: S. 85 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-e65cc66869ddd6d3e9a581d738fc8389]: Commencement: S. 85 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

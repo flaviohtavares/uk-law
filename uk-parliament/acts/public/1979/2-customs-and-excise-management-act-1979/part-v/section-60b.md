@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60B. Failure to comply with regulations under section 60A[^key-f746e073215ebf9e678a88b51cbdd054]
+## 60B. Failure to comply with regulations under section 60A[^c-f746e073215ebf9e678a88b51cbdd054]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f746e073215ebf9e678a88b51cbdd054]: Textual amendment: S. 60B inserted (1.4.2015) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 21 paras. 6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/21/paragraph/6), [10](https://www.legislation.gov.uk/ukpga/2014/26/schedule/21/paragraph/10); [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)
+[^c-f746e073215ebf9e678a88b51cbdd054]: Textual amendment: S. 60B inserted (1.4.2015) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 21 paras. 6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/21/paragraph/6), [10](https://www.legislation.gov.uk/ukpga/2014/26/schedule/21/paragraph/10); [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)

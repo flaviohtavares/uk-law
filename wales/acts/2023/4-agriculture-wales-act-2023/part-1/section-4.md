@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Sustainable land management indicators and targets[^key-c3b97a5077549d71700867236a6cff21]
+## 4. Sustainable land management indicators and targets[^c-c3b97a5077549d71700867236a6cff21]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3b97a5077549d71700867236a6cff21]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2023/4/section/4) in force at 17.10.2023, see [s. 56(2)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/a)
+[^c-c3b97a5077549d71700867236a6cff21]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2023/4/section/4) in force at 17.10.2023, see [s. 56(2)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/a)

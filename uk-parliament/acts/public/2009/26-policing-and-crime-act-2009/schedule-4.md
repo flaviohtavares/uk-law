@@ -26,13 +26,13 @@ Section 32
 
 #### Types of mandatory conditions
 
-**1.**[^key-607e5ca17552891b0cdff66fc69b548e] After section 19(3) of the Licensing Act 2003 (c. 17) (mandatory conditions where licence authorises supply of alcohol) insert—
+**1.**[^c-607e5ca17552891b0cdff66fc69b548e] After section 19(3) of the Licensing Act 2003 (c. 17) (mandatory conditions where licence authorises supply of alcohol) insert—
 
 > (4) The other conditions are any conditions specified in an order under section 19A and applicable to the premises licence.
 
 #### Power of Secretary of State to impose section 19(4) mandatory conditions
 
-**2.**[^key-26a83c7938c200f94fe80621349ddcfe] After section 19 of that Act insert—
+**2.**[^c-26a83c7938c200f94fe80621349ddcfe] After section 19 of that Act insert—
 
 > **19A. Power of Secretary of State to impose section 19(4) mandatory conditions**
 >
@@ -70,7 +70,7 @@ Section 32
 
 #### Mandatory conditions relating to the supply of alcohol to members or guests
 
-**3.**[^key-edfc8c0f59a24806922bdbfe2a761ac4] After section 73 of the Licensing Act 2003 (c. 17) (certificate authorising supply of alcohol for consumption off the premises) insert—
+**3.**[^c-edfc8c0f59a24806922bdbfe2a761ac4] After section 73 of the Licensing Act 2003 (c. 17) (certificate authorising supply of alcohol for consumption off the premises) insert—
 
 > **73A. Mandatory conditions relating to the supply of alcohol to members or guests**
 >
@@ -78,7 +78,7 @@ Section 32
 
 #### Power of Secretary of State to impose section 73A mandatory conditions
 
-**4.**[^key-c6e2f474493eb4aacea8c400cf067fc1] After section 73A of that Act (as inserted by paragraph 3 above) insert—
+**4.**[^c-c6e2f474493eb4aacea8c400cf067fc1] After section 73A of that Act (as inserted by paragraph 3 above) insert—
 
 > **73B. Power of Secretary of State to impose section 73A mandatory conditions**
 >
@@ -114,10 +114,10 @@ Section 32
 
 ## Annotations
 
-[^key-607e5ca17552891b0cdff66fc69b548e]: Commencement: Sch. 4 para. 1 in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(r)](https://www.legislation.gov.uk/uksi/2010/125/article/2/r)
+[^c-607e5ca17552891b0cdff66fc69b548e]: Commencement: Sch. 4 para. 1 in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(r)](https://www.legislation.gov.uk/uksi/2010/125/article/2/r)
 
-[^key-26a83c7938c200f94fe80621349ddcfe]: Commencement: Sch. 4 para. 2 in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(r)](https://www.legislation.gov.uk/uksi/2010/125/article/2/r)
+[^c-26a83c7938c200f94fe80621349ddcfe]: Commencement: Sch. 4 para. 2 in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(r)](https://www.legislation.gov.uk/uksi/2010/125/article/2/r)
 
-[^key-edfc8c0f59a24806922bdbfe2a761ac4]: Commencement: Sch. 4 para. 3 in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(r)](https://www.legislation.gov.uk/uksi/2010/125/article/2/r)
+[^c-edfc8c0f59a24806922bdbfe2a761ac4]: Commencement: Sch. 4 para. 3 in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(r)](https://www.legislation.gov.uk/uksi/2010/125/article/2/r)
 
-[^key-c6e2f474493eb4aacea8c400cf067fc1]: Commencement: Sch. 4 para. 4 in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(r)](https://www.legislation.gov.uk/uksi/2010/125/article/2/r)
+[^c-c6e2f474493eb4aacea8c400cf067fc1]: Commencement: Sch. 4 para. 4 in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(r)](https://www.legislation.gov.uk/uksi/2010/125/article/2/r)

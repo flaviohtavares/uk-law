@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.1.12. Right of haver to consult[^key-f03c4367e4f79bffd6dcf50b72e3425a]
+## 3.1.12. Right of haver to consult[^c-f03c4367e4f79bffd6dcf50b72e3425a]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f03c4367e4f79bffd6dcf50b72e3425a]: Textual amendment: Rule 3.1.12 substituted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [6(3)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/6/3) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
+[^c-f03c4367e4f79bffd6dcf50b72e3425a]: Textual amendment: Rule 3.1.12 substituted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [6(3)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/6/3) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))

@@ -24,7 +24,7 @@ summary: ''
 
 (2) Subject to section 71, in relation to any community, foundation or voluntary school—
 
-- (a) the local authority[^key-5177265949adaa73e26402711f36dc2e] and the governing body shall exercise their functions with a view to securing, and
+- (a) the local authority[^c-5177265949adaa73e26402711f36dc2e] and the governing body shall exercise their functions with a view to securing, and
 - (b) the head teacher shall secure,
 
 that subsection (1) is complied with.
@@ -36,4 +36,4 @@ that subsection (1) is complied with.
 
 ## Annotations
 
-[^key-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))

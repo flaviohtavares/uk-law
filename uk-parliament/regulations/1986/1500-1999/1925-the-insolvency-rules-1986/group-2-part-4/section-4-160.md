@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.160. Resignation[^key-0892a1517f9f5ca66ff261dbf11cbb98]
+## 4.160. Resignation[^c-0892a1517f9f5ca66ff261dbf11cbb98]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A member of the liquidation committee may resign by notice in writing delivered 
 
 ## Annotations
 
-[^key-0892a1517f9f5ca66ff261dbf11cbb98]: Commencement: [Rule 4.160](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.160) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-0892a1517f9f5ca66ff261dbf11cbb98]: Commencement: [Rule 4.160](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.160) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

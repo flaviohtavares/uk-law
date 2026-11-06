@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2000[^key-8777a2ddd4295aba4f2ec1f4e87cf570]
+## 95. Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2000[^c-8777a2ddd4295aba4f2ec1f4e87cf570]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 1(2) of the Social Fund Winter Fuel Payment Regulations (Northern 
 
 ## Annotations
 
-[^key-8777a2ddd4295aba4f2ec1f4e87cf570]: Commencement: Reg. 95 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-8777a2ddd4295aba4f2ec1f4e87cf570]: Commencement: Reg. 95 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00158]: Footnote: [S.R. (N.I.) 2000/91](https://www.legislation.gov.uk/nisr/2000/91). In regulation 1(2), the definition of “couple” was inserted by paragraph 26 of Schedule 3 to [S.R. (N.I.) 2005/536](https://www.legislation.gov.uk/nisr/2005/536).

@@ -27,7 +27,7 @@ summary: ''
 - (c) specify, or be accompanied by a copy of the note of, the reasons given by the custody officer for imposing or varying the conditions of bail; and
 - (d) specify the name and address of any surety provided by the applicant before his release on bail to secure his surrender to custody.
 
-(2)[^key-2d70ab4388d2c70eda290105a4f93402] The notice under paragraph (1) shall be served by the applicant—
+(2)[^c-2d70ab4388d2c70eda290105a4f93402] The notice under paragraph (1) shall be served by the applicant—
 
 - (a) on the clerk of petty sessions, and
 - (b) on the custody officer for the police station at which the applicant was granted bail or at which the conditions of his bail were varied.
@@ -52,6 +52,6 @@ summary: ''
 
 [^f00228]: Footnote: Words inserted by [S.R. 2008 No. 251](https://www.legislation.gov.uk/nisr/2008/251) with effect from 08.12.08
 
-[^key-2d70ab4388d2c70eda290105a4f93402]: Textual amendment: [Rule 153A(2)](https://www.legislation.gov.uk/nisr/1984/225/rule/153A/2) substituted (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(34)](https://www.legislation.gov.uk/nisr/2016/304/article/3/34); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-2d70ab4388d2c70eda290105a4f93402]: Textual amendment: [Rule 153A(2)](https://www.legislation.gov.uk/nisr/1984/225/rule/153A/2) substituted (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(34)](https://www.legislation.gov.uk/nisr/2016/304/article/3/34); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00229]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)

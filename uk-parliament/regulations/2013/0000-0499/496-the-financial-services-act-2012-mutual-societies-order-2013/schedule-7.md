@@ -22,9 +22,9 @@ summary: ''
 
 Article 2(b)
 
-**1.**[^key-483a5ff4a49710b34732d384d7d6b572] The Credit Unions (Northern Ireland) Order 1985[^f00135] is amended as follows.
+**1.**[^c-483a5ff4a49710b34732d384d7d6b572] The Credit Unions (Northern Ireland) Order 1985[^f00135] is amended as follows.
 
-**2.**[^key-affcc182ea88bff21881ea7cc0cc81da] (1) Article 2 (interpretation) is amended as follows.
+**2.**[^c-affcc182ea88bff21881ea7cc0cc81da] (1) Article 2 (interpretation) is amended as follows.
 
 (2) In paragraph (2)—
 
@@ -50,7 +50,7 @@ Article 2(b)
 
   .
 
-**3.**[^key-7bb2956cffc6ead77f2f0379c4f2501f] For Article 2A(4) and (5) (the registrar and assistant registrar), substitute—
+**3.**[^c-7bb2956cffc6ead77f2f0379c4f2501f] For Article 2A(4) and (5) (the registrar and assistant registrar), substitute—
 
 > (4) In the exercise of the registrar’s functions under this Order, the registrar must cooperate with the FCA and the PRA in the exercise by those authorities of any of their functions in relation to credit unions.
 >
@@ -58,7 +58,7 @@ Article 2(b)
 
 .
 
-**4.**[^key-ed925c618d923aa5d3e44e6b015d99f2] (1) Article 3 (registration) is amended as follows.
+**4.**[^c-ed925c618d923aa5d3e44e6b015d99f2] (1) Article 3 (registration) is amended as follows.
 
 (2) For paragraph (1)(d) and (e), substitute—
 
@@ -76,19 +76,19 @@ Article 2(b)
 
 .
 
-**5.**[^key-5a97079d1098c6a7c851ffd5ec08a96e] For Article 4(2A) (supplementary provisions as to registration), substitute—
+**5.**[^c-5a97079d1098c6a7c851ffd5ec08a96e] For Article 4(2A) (supplementary provisions as to registration), substitute—
 
 > (2A) The registrar must not issue an acknowledgement of registration under paragraph (2) unless the appropriate regulator (within the meaning of section 55A of the 2000 Act) has confirmed to the registrar that it proposes to give the society permission under Part 4A of that Act to accept deposits.
 
 .
 
-**6.**[^key-b4e394af662a89f976a0859541b3222f] In Article 31(3)(c) (charges on assets of credit unions), for “Authority” substitute “FCA and, if the society is a PRA-authorised person, the PRA”.
+**6.**[^c-b4e394af662a89f976a0859541b3222f] In Article 31(3)(c) (charges on assets of credit unions), for “Authority” substitute “FCA and, if the society is a PRA-authorised person, the PRA”.
 
-**7.**[^key-d9bbaca0fa9dce218bdf4d7c26c313d3] In Article 36(3) (application of surplus), for “Authority under the 2000 Act” substitute “FCA under the 2000 Act and, if the society is a PRA-authorised person, rules made by the PRA under the 2000 Act”.
+**7.**[^c-d9bbaca0fa9dce218bdf4d7c26c313d3] In Article 36(3) (application of surplus), for “Authority under the 2000 Act” substitute “FCA under the 2000 Act and, if the society is a PRA-authorised person, rules made by the PRA under the 2000 Act”.
 
-**8.**[^key-d701e2a3b6f84d5c1b3384243291f410] In Article 49(3)(b) and (4) (annual returns), for “Authority” substitute “appropriate authority”.
+**8.**[^c-d701e2a3b6f84d5c1b3384243291f410] In Article 49(3)(b) and (4) (annual returns), for “Authority” substitute “appropriate authority”.
 
-**9.**[^key-166105731dfa314a9fa4b2188650f0a3] (1) Article 53 (duties of receiver or manager of credit union’s property) is amended as follows.
+**9.**[^c-166105731dfa314a9fa4b2188650f0a3] (1) Article 53 (duties of receiver or manager of credit union’s property) is amended as follows.
 
 (2) Number the existing provision as paragraph (1).
 
@@ -108,20 +108,20 @@ Article 2(b)
 
 .
 
-**10.**[^key-61e7111e7260201cc505823d33f33fae] In Article 60(1) (cancellation of registration), for “the Authority” substitute “the FCA and, if the society is a PRA-authorised person, the PRA”.
+**10.**[^c-61e7111e7260201cc505823d33f33fae] In Article 60(1) (cancellation of registration), for “the Authority” substitute “the FCA and, if the society is a PRA-authorised person, the PRA”.
 
-**11.**[^key-156624ad73e94b575055c55411fa1815] Article 61(1) (suspension of registration), for “Authority” substitute “FCA and, if the society is a PRA-authorised person, the PRA”.
+**11.**[^c-156624ad73e94b575055c55411fa1815] Article 61(1) (suspension of registration), for “Authority” substitute “FCA and, if the society is a PRA-authorised person, the PRA”.
 
-**12.**[^key-ac684398c6d10aa33cf28441f4f4a35d] In Article 62(1) (appeals), for sub-paragraphs (b) and (c), substitute—
+**12.**[^c-ac684398c6d10aa33cf28441f4f4a35d] In Article 62(1) (appeals), for sub-paragraphs (b) and (c), substitute—
 
 > - (b) the society has not made an application under Part 4A of the 2000 Act to accept deposits; or
 > - (c) the FCA or the PRA has not confirmed to the registrar that it is satisfied that, once registered under this Order, the society will satisfy, and continue to satisfy, the threshold conditions (within the meaning of section 55B(1) of the 2000 Act) for which it is responsible in relation to the regulated activity of accepting deposits.
 
 .
 
-**13.**[^key-1ec85c635ba960d4c3d5b416aa1e0e5a] Article 63 (petition for winding-up), for “Authority” substitute “FCA and, if the society is a PRA-authorised person, the PRA”.
+**13.**[^c-1ec85c635ba960d4c3d5b416aa1e0e5a] Article 63 (petition for winding-up), for “Authority” substitute “FCA and, if the society is a PRA-authorised person, the PRA”.
 
-**14.**[^key-9adc728d510e01a9e9ab6f0988e14098] (1) Article 65 (amalgamation of credit unions) is amended as follows.
+**14.**[^c-9adc728d510e01a9e9ab6f0988e14098] (1) Article 65 (amalgamation of credit unions) is amended as follows.
 
 (2) In paragraph (7), for “Authority” substitute “appropriate authority”.
 
@@ -131,7 +131,7 @@ Article 2(b)
 
 .
 
-**15.**[^key-3a59d98a8bf21cb0f269ae7f2c64e0e9] (1) Article 66 (transfer of engagements between credit unions) is amended as follows.
+**15.**[^c-3a59d98a8bf21cb0f269ae7f2c64e0e9] (1) Article 66 (transfer of engagements between credit unions) is amended as follows.
 
 (2) In paragraph (4), for “Authority” substitute “appropriate authority”.
 
@@ -141,7 +141,7 @@ Article 2(b)
 
 .
 
-**16.**[^key-63c07bae6c9f5236774c9ddabfd3f0e5] (1) Schedule 1 (matters to be provided for in rules of credit union) is amended as follows.
+**16.**[^c-63c07bae6c9f5236774c9ddabfd3f0e5] (1) Schedule 1 (matters to be provided for in rules of credit union) is amended as follows.
 
 (2) In paragraph 7, for “the Authority” substitute “each of the FCA and the PRA”.
 
@@ -149,36 +149,36 @@ Article 2(b)
 
 ## Annotations
 
-[^key-483a5ff4a49710b34732d384d7d6b572]: Commencement: Sch. 7 para. 1 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-483a5ff4a49710b34732d384d7d6b572]: Commencement: Sch. 7 para. 1 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00135]: Footnote: [S.I. 1985/1205 (N.I. 12)](https://www.legislation.gov.uk/nisi/1985/1205), as amended by [S.I. 2011/2832](https://www.legislation.gov.uk/uksi/2011/2832). There are other amending instruments, but none is relevant.
 
-[^key-affcc182ea88bff21881ea7cc0cc81da]: Commencement: Sch. 7 para. 2 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-affcc182ea88bff21881ea7cc0cc81da]: Commencement: Sch. 7 para. 2 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
-[^key-7bb2956cffc6ead77f2f0379c4f2501f]: Commencement: Sch. 7 para. 3 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-7bb2956cffc6ead77f2f0379c4f2501f]: Commencement: Sch. 7 para. 3 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
-[^key-ed925c618d923aa5d3e44e6b015d99f2]: Commencement: Sch. 7 para. 4 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-ed925c618d923aa5d3e44e6b015d99f2]: Commencement: Sch. 7 para. 4 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
-[^key-5a97079d1098c6a7c851ffd5ec08a96e]: Commencement: Sch. 7 para. 5 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-5a97079d1098c6a7c851ffd5ec08a96e]: Commencement: Sch. 7 para. 5 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
-[^key-b4e394af662a89f976a0859541b3222f]: Commencement: Sch. 7 para. 6 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-b4e394af662a89f976a0859541b3222f]: Commencement: Sch. 7 para. 6 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
-[^key-d9bbaca0fa9dce218bdf4d7c26c313d3]: Commencement: Sch. 7 para. 7 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-d9bbaca0fa9dce218bdf4d7c26c313d3]: Commencement: Sch. 7 para. 7 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
-[^key-d701e2a3b6f84d5c1b3384243291f410]: Commencement: Sch. 7 para. 8 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-d701e2a3b6f84d5c1b3384243291f410]: Commencement: Sch. 7 para. 8 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
-[^key-166105731dfa314a9fa4b2188650f0a3]: Commencement: Sch. 7 para. 9 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-166105731dfa314a9fa4b2188650f0a3]: Commencement: Sch. 7 para. 9 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
-[^key-61e7111e7260201cc505823d33f33fae]: Commencement: Sch. 7 para. 10 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-61e7111e7260201cc505823d33f33fae]: Commencement: Sch. 7 para. 10 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
-[^key-156624ad73e94b575055c55411fa1815]: Commencement: Sch. 7 para. 11 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-156624ad73e94b575055c55411fa1815]: Commencement: Sch. 7 para. 11 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
-[^key-ac684398c6d10aa33cf28441f4f4a35d]: Commencement: Sch. 7 para. 12 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-ac684398c6d10aa33cf28441f4f4a35d]: Commencement: Sch. 7 para. 12 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
-[^key-1ec85c635ba960d4c3d5b416aa1e0e5a]: Commencement: Sch. 7 para. 13 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-1ec85c635ba960d4c3d5b416aa1e0e5a]: Commencement: Sch. 7 para. 13 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
-[^key-9adc728d510e01a9e9ab6f0988e14098]: Commencement: Sch. 7 para. 14 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-9adc728d510e01a9e9ab6f0988e14098]: Commencement: Sch. 7 para. 14 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
-[^key-3a59d98a8bf21cb0f269ae7f2c64e0e9]: Commencement: Sch. 7 para. 15 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-3a59d98a8bf21cb0f269ae7f2c64e0e9]: Commencement: Sch. 7 para. 15 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
-[^key-63c07bae6c9f5236774c9ddabfd3f0e5]: Commencement: Sch. 7 para. 16 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-63c07bae6c9f5236774c9ddabfd3f0e5]: Commencement: Sch. 7 para. 16 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)

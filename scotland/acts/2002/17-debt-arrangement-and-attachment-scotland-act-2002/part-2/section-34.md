@@ -25,7 +25,7 @@ summary: ''
 - (a) a third party claims to own the article; and
 - (b) either—
   - (i) the officer is satisfied that the claim is valid and neither the debtor nor any other person in possession of the article disputes the claim; or
-  - (ii) the sheriff, on an application by the third party, makes an order stating that the sheriff is satisfied that the claim is valid[^key-5016674c9547245ec68c6a5a10340d46],
+  - (ii) the sheriff, on an application by the third party, makes an order stating that the sheriff is satisfied that the claim is valid[^c-5016674c9547245ec68c6a5a10340d46],
 
 the attachment of that article is to cease to have effect.
 
@@ -35,4 +35,4 @@ the attachment of that article is to cease to have effect.
 
 ## Annotations
 
-[^key-5016674c9547245ec68c6a5a10340d46]: Textual amendment: Words in s. 34(1)(b)(ii) substituted (31.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [s. 227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3), [Sch. 5 para. 30(10)](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/30/10) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(e)(ii)](https://www.legislation.gov.uk/ssi/2007/82/article/4/e/ii)
+[^c-5016674c9547245ec68c6a5a10340d46]: Textual amendment: Words in s. 34(1)(b)(ii) substituted (31.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [s. 227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3), [Sch. 5 para. 30(10)](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/30/10) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(e)(ii)](https://www.legislation.gov.uk/ssi/2007/82/article/4/e/ii)

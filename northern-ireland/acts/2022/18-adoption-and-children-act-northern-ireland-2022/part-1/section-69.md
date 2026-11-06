@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Dispositions depending on date of birth[^key-0d913d9004ec7d7539711b763a1f79bf]
+## 69. Dispositions depending on date of birth[^c-0d913d9004ec7d7539711b763a1f79bf]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ In that example the status of the daughter’s child as T’s eldest grandchild 
 
 ## Annotations
 
-[^key-0d913d9004ec7d7539711b763a1f79bf]: Commencement: S. 69 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-0d913d9004ec7d7539711b763a1f79bf]: Commencement: S. 69 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

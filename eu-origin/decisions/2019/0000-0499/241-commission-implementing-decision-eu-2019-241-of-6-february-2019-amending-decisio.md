@@ -39,26 +39,26 @@ amending Decision 2007/703/EC and Implementing Decisions (EU) 2017/2452 and (EU)
 
 (Text with EEA relevance) (revoked)
 
-[^key-3640cd4697b2e0c206ada6e433389029]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3640cd4697b2e0c206ada6e433389029]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendments to Decision 2007/703/EC[^key-3640cd4697b2e0c206ada6e433389029]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendments to Implementing Decision (EU) 2017/2452[^key-3640cd4697b2e0c206ada6e433389029]
+## Article 1. Amendments to Decision 2007/703/EC[^c-3640cd4697b2e0c206ada6e433389029]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendments to Implementing Decision (EU) 2018/1109[^key-3640cd4697b2e0c206ada6e433389029]
+## Article 2. Amendments to Implementing Decision (EU) 2017/2452[^c-3640cd4697b2e0c206ada6e433389029]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Addressees[^key-3640cd4697b2e0c206ada6e433389029]
+## Article 3. Amendments to Implementing Decision (EU) 2018/1109[^c-3640cd4697b2e0c206ada6e433389029]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3640cd4697b2e0c206ada6e433389029]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 4. Addressees[^c-3640cd4697b2e0c206ada6e433389029]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-3640cd4697b2e0c206ada6e433389029]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3640cd4697b2e0c206ada6e433389029]: Textual amendment: Decision revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/2/paragraph/4)
+[^c-3640cd4697b2e0c206ada6e433389029]: Textual amendment: Decision revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/2/paragraph/4)

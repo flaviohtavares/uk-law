@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture
 
-The Common Agricultural Policy Schemes (Cross-Compliance) (Scotland) Regulations 2011 (revoked)[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+The Common Agricultural Policy Schemes (Cross-Compliance) (Scotland) Regulations 2011 (revoked)[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 Made
 
@@ -46,184 +46,184 @@ Coming into force
 
 1st January 2012
 
-[^key-72e7aad59b74a896ffa7dfc7dc793ad3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72e7aad59b74a896ffa7dfc7dc793ad3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+## 1. Citation, commencement and extent[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+## 2. Interpretation[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+## 3. Designation[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Good agricultural and environmental condition[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+## 4. Good agricultural and environmental condition[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Permanent pasture[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+## 5. Permanent pasture[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Competent control authority[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+## 6. Competent control authority[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Powers of authorised persons[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+## 7. Powers of authorised persons[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Assistance to authorised persons[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+## 8. Assistance to authorised persons[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Offences and penalties[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+## 9. Offences and penalties[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Offences by bodies corporate, etc.[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+## 10. Offences by bodies corporate, etc.[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of the Rural Payments (Appeals) (Scotland) Regulations 2009[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+## 11. Amendment of the Rural Payments (Appeals) (Scotland) Regulations 2009[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Revocation[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+## 12. Revocation[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-72e7aad59b74a896ffa7dfc7dc793ad3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72e7aad59b74a896ffa7dfc7dc793ad3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — GOOD AGRICULTURAL AND ENVIRONMENTAL CONDITION[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+## SCHEDULE — GOOD AGRICULTURAL AND ENVIRONMENTAL CONDITION[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 Regulation 4
 
-### PART I — Protection of soil from erosion[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+### PART I — Protection of soil from erosion[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
-#### Minimum soil cover[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+#### Minimum soil cover[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
-##### 1. Winter soil cover and final seedbeds[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Minimum land management reflecting site-specific conditions[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
-
-##### 2. Wind erosion[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+##### 1. Winter soil cover and final seedbeds[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 3. Capping[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+#### Minimum land management reflecting site-specific conditions[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
+
+##### 2. Wind erosion[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 4. Watercourses, watering points and feeding areas[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+##### 3. Capping[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 5. Field drains[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+##### 4. Watercourses, watering points and feeding areas[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 6. Muirburning[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+##### 5. Field drains[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — Practices to maintain soil organic matter levels[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
-
-#### Standards for crop rotations where applicable[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
-
-##### 7. Arable break crops or the application of organic materials[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+##### 6. Muirburning[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Arable stubble management[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+### PART II — Practices to maintain soil organic matter levels[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
-##### 8. Incorporation of livestock manures[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+#### Standards for crop rotations where applicable[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART III — Maintenance of soil structure[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
-
-#### Appropriate machinery use[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
-
-##### 9. Machinery use for planting or sowing[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+##### 7. Arable break crops or the application of organic materials[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — Minimum level of maintenance and prevention of deterioration of habitats[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+#### Arable stubble management[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
-#### Minimum livestock stocking rates and appropriate regimes[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
-
-##### 10. Undergrazing[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+##### 8. Incorporation of livestock manures[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 11. Overgrazing[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+### PART III — Maintenance of soil structure[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
+
+#### Appropriate machinery use[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
+
+##### 9. Machinery use for planting or sowing[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Protection of permanent pasture[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+### PART IV — Minimum level of maintenance and prevention of deterioration of habitats[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
-##### 12. Pasture land of environmental or archaeological value[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+#### Minimum livestock stocking rates and appropriate regimes[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-##### 13. Works on rough grazings and other semi-natural areas[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+##### 10. Undergrazing[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 14. Pesticides, lime and fertiliser on rough grazings and other semi-natural areas[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+##### 11. Overgrazing[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Retention of landscape features[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+#### Protection of permanent pasture[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
-##### 15. Boundary features[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-##### 16. Landscape features[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+##### 12. Pasture land of environmental or archaeological value[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 17. Protected historic environment[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+##### 13. Works on rough grazings and other semi-natural areas[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Avoiding the encroachment of unwanted vegetation on agricultural land[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
-
-##### 18. Encroachment of vegetation[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+##### 14. Pesticides, lime and fertiliser on rough grazings and other semi-natural areas[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART V — Protection and management of water[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+#### Retention of landscape features[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
-#### Protect water against pollution and run-off, and manage the use of water[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
-
-##### 19. Water abstraction[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+##### 15. Boundary features[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 20. Establishment of buffer strips along water courses[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+##### 16. Landscape features[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 21. Protection of groundwater[^key-72e7aad59b74a896ffa7dfc7dc793ad3]
+##### 17. Protected historic environment[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Avoiding the encroachment of unwanted vegetation on agricultural land[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
+
+##### 18. Encroachment of vegetation[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART V — Protection and management of water[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
+
+#### Protect water against pollution and run-off, and manage the use of water[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
+
+##### 19. Water abstraction[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 20. Establishment of buffer strips along water courses[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 21. Protection of groundwater[^c-72e7aad59b74a896ffa7dfc7dc793ad3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-72e7aad59b74a896ffa7dfc7dc793ad3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72e7aad59b74a896ffa7dfc7dc793ad3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-72e7aad59b74a896ffa7dfc7dc793ad3]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Cross-Compliance) (Scotland) Regulations 2014 (S.S.I. 2014/325)](https://www.legislation.gov.uk/ssi/2014/325), regs. 1(1), [10(1)](https://www.legislation.gov.uk/ssi/2014/325/regulation/10/1) (with [reg. 10(2)](https://www.legislation.gov.uk/ssi/2014/325/regulation/10/2)[(3)](https://www.legislation.gov.uk/ssi/2014/325/regulation/10/3))
+[^c-72e7aad59b74a896ffa7dfc7dc793ad3]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Cross-Compliance) (Scotland) Regulations 2014 (S.S.I. 2014/325)](https://www.legislation.gov.uk/ssi/2014/325), regs. 1(1), [10(1)](https://www.legislation.gov.uk/ssi/2014/325/regulation/10/1) (with [reg. 10(2)](https://www.legislation.gov.uk/ssi/2014/325/regulation/10/2)[(3)](https://www.legislation.gov.uk/ssi/2014/325/regulation/10/3))

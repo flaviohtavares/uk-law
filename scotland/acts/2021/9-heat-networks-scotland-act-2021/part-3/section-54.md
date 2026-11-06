@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Guidance[^key-94c9919f70473f9aff37b268ecf3156e][^key-8e92feb3d3d69a4d2b3075d9b213f919]
+## 54. Guidance[^c-94c9919f70473f9aff37b268ecf3156e][^c-8e92feb3d3d69a4d2b3075d9b213f919]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94c9919f70473f9aff37b268ecf3156e]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2021/9/section/54) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
+[^c-94c9919f70473f9aff37b268ecf3156e]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2021/9/section/54) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
 
-[^key-8e92feb3d3d69a4d2b3075d9b213f919]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2021/9/section/54) in force at 30.5.2023 in so far as not already in force by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(i)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/i)
+[^c-8e92feb3d3d69a4d2b3075d9b213f919]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2021/9/section/54) in force at 30.5.2023 in so far as not already in force by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(i)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/i)

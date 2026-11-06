@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 205. “The court”; “the registrar”[^key-80a8e4ef74d3e25263541420caffb516]
+## 205. “The court”; “the registrar”[^c-80a8e4ef74d3e25263541420caffb516]
 
 *Extent: E+W*
 
@@ -26,11 +26,11 @@ summary: ''
 
 (3) “**the registrar**” means—
 
-- (a)  an Insolvency and Companies Court Judge[^key-0a2b1dc290bca454a4e087900df03fe4]
+- (a)  an Insolvency and Companies Court Judge[^c-0a2b1dc290bca454a4e087900df03fe4]
 - (b) where the proceedings are in the District Registry of Birmingham, Bristol, Caernarfon, Cardiff, Leeds, Liverpool, Manchester, Mold, Newcastle-upon-Tyne or Preston, a district judge attached to the District Registry in question.
 
 ## Annotations
 
-[^key-80a8e4ef74d3e25263541420caffb516]: Commencement: [Rule 205](https://www.legislation.gov.uk/uksi/2013/3208/rule/205) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-80a8e4ef74d3e25263541420caffb516]: Commencement: [Rule 205](https://www.legislation.gov.uk/uksi/2013/3208/rule/205) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
 
-[^key-0a2b1dc290bca454a4e087900df03fe4]: Textual amendment: Words in [rule 205(3)(a)](https://www.legislation.gov.uk/uksi/2013/3208/rule/205/3/a) substituted (26.2.2018) by [The Alteration of Judicial Titles (Registrar in Bankruptcy of the High Court) Order 2018 (S.I. 2018/130)](https://www.legislation.gov.uk/uksi/2018/130), [art. 1](https://www.legislation.gov.uk/uksi/2018/130/article/1), [Sch. para. 12(1)(h)](https://www.legislation.gov.uk/uksi/2018/130/schedule/paragraph/12/1/h)
+[^c-0a2b1dc290bca454a4e087900df03fe4]: Textual amendment: Words in [rule 205(3)(a)](https://www.legislation.gov.uk/uksi/2013/3208/rule/205/3/a) substituted (26.2.2018) by [The Alteration of Judicial Titles (Registrar in Bankruptcy of the High Court) Order 2018 (S.I. 2018/130)](https://www.legislation.gov.uk/uksi/2018/130), [art. 1](https://www.legislation.gov.uk/uksi/2018/130/article/1), [Sch. para. 12(1)(h)](https://www.legislation.gov.uk/uksi/2018/130/schedule/paragraph/12/1/h)

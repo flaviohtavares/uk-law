@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Amendment of section 90 (Welsh text)[^key-c296b8416f749b35a232a8bbc2ad02b0]
+## 135. Amendment of section 90 (Welsh text)[^c-c296b8416f749b35a232a8bbc2ad02b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c296b8416f749b35a232a8bbc2ad02b0]: Commencement: Reg. 135 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-c296b8416f749b35a232a8bbc2ad02b0]: Commencement: Reg. 135 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

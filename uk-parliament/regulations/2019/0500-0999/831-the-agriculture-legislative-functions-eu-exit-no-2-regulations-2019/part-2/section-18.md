@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18.[^key-9e7ec35b86ae5457cc11492b05f0bb5f]
+## 18.[^c-9e7ec35b86ae5457cc11492b05f0bb5f]
 
 *Extent: E+W+S+N.I.*
 
-In Article 76, in paragraph 4, for the words from “Commission” to “Article 227” substitute “ appropriate authority in England, Wales or Scotland[^key-253b110346edc1a363a947df7a13edbd] may make regulations ”.
+In Article 76, in paragraph 4, for the words from “Commission” to “Article 227” substitute “ appropriate authority in England, Wales or Scotland[^c-253b110346edc1a363a947df7a13edbd] may make regulations ”.
 
 ## Annotations
 
-[^key-9e7ec35b86ae5457cc11492b05f0bb5f]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)
+[^c-9e7ec35b86ae5457cc11492b05f0bb5f]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)
 
-[^key-253b110346edc1a363a947df7a13edbd]: Textual amendment: Words in reg. 18 inserted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [12(3)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/12/3)
+[^c-253b110346edc1a363a947df7a13edbd]: Textual amendment: Words in reg. 18 inserted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [12(3)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/12/3)

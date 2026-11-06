@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Power to provide legal assistance[^key-235fb5dcb721561ad7864497a3b52a0f]
+## 117. Power to provide legal assistance[^c-235fb5dcb721561ad7864497a3b52a0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-235fb5dcb721561ad7864497a3b52a0f]: Commencement: S. 117 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-235fb5dcb721561ad7864497a3b52a0f]: Commencement: S. 117 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)

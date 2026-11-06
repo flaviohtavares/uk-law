@@ -45,11 +45,11 @@ Coming into operation
 
 The Secretary of State in exercise of the powers conferred by section 68 of the Justice (Northern Ireland) Act 2002[^f00001] hereby makes the following scheme:
 
-## 1. Citation and commencement[^key-77288fcdefd2a7c554901e9c69ae9a83]
+## 1. Citation and commencement[^c-77288fcdefd2a7c554901e9c69ae9a83]
 
 This scheme may be cited as the Prisoner Release Victim Information (Northern Ireland) Scheme 2003 and shall come into operation on 1st July 2003.
 
-## 2. Application of scheme[^key-65a916680ebfc51a2458709cf1a97b7f]
+## 2. Application of scheme[^c-65a916680ebfc51a2458709cf1a97b7f]
 
 (1) The following persons, not being the actual victim of an offence, are to be regarded as the victim of that offence for the purposes of this scheme instead of the actual victim:
 
@@ -62,8 +62,8 @@ This scheme may be cited as the Prisoner Release Victim Information (Northern Ir
 
 (4) In paragraph (1) “a close family member” means one of the following persons:
 
-- (a) the actual victim’s spouse or civil partner[^key-62cd40b634aa67c5662843eb4cb53482] ;
-- (b) a person with whom the actual victim is living, or as the case may be lived, as the actual victim’s spouse or civil partner[^key-cb5c5228931bde93eaf2321b5b4b90f1] ;
+- (a) the actual victim’s spouse or civil partner[^c-62cd40b634aa67c5662843eb4cb53482] ;
+- (b) a person with whom the actual victim is living, or as the case may be lived, as the actual victim’s spouse or civil partner[^c-cb5c5228931bde93eaf2321b5b4b90f1] ;
 - (c) the actual victim’s parent;
 - (d) the actual victim’s adult child;
 - (e) the actual victim’s sibling;
@@ -71,11 +71,11 @@ This scheme may be cited as the Prisoner Release Victim Information (Northern Ir
 
 (5) In paragraph (1) “a vulnerable person” means a person under the age of eighteen or a person whose physical or mental state is such that the Secretary of State considers that it is reasonable in all the circumstances for a person listed in paragraph (1)(b) to receive the information instead.
 
-## 3. Notification by victim[^key-a0683bf695140a092ee6618db7a99db6]
+## 3. Notification by victim[^c-a0683bf695140a092ee6618db7a99db6]
 
 A victim must indicate that he wishes to receive information under this scheme by applying in writing to the Secretary of State with the information specified in the Schedule to the scheme.
 
-## 4. Information to be made available and timing[^key-048ed68501002b08e51bc7a4f373346d]
+## 4. Information to be made available and timing[^c-048ed68501002b08e51bc7a4f373346d]
 
 (1) The victim of an offence shall be entitled to receive under this scheme the information specified in the following paragraphs in relation to a relevant imprisoned offender.
 
@@ -95,7 +95,7 @@ A victim must indicate that he wishes to receive information under this scheme b
 (4) The information in relation to the discharge of a relevant imprisoned offender sentenced to life imprisonment or detention at the Secretary of State’s pleasure, is –
 
 - (a) the minimum period which he must serve in custody before he can be considered for discharge as set under article 5, 10 or 11 of the Life Sentences (Northern Ireland) Order 2001[^f00002]; and
-- (b) if his discharge[^key-afd10c84ae901c769891dd881523cd42] is being considered, that fact;
+- (b) if his discharge[^c-afd10c84ae901c769891dd881523cd42] is being considered, that fact;
 - (c) that he has been discharged;
 - (d) any license conditions, or other conditions imposed under legislation relating to sex offenders, that is known will be imposed on discharge; and
 - (e) if he is returned to custody as a result of the revocation of his licence or a breach of any of the conditions referred to in paragraph (d), the fact that this has occurred.
@@ -105,9 +105,9 @@ A victim must indicate that he wishes to receive information under this scheme b
 (6)
 
 - (a) Subject to sub-paragraph (b), the victim will be provided with the information to be provided under this Article within a reasonable time of the application for information being made or, if later, of the information being available.
-- (b) The information referred to in Article 4(2)(a) and (b) will be provided to the victim before any decision referred to in Article 4(2)(c) is taken[^key-3c3a92de61a107bbbaae53a3de1c7ca7] where it is reasonably practicable to do so.
+- (b) The information referred to in Article 4(2)(a) and (b) will be provided to the victim before any decision referred to in Article 4(2)(c) is taken[^c-3c3a92de61a107bbbaae53a3de1c7ca7] where it is reasonably practicable to do so.
 
-## 5. Grounds for refusal to release information[^key-61a36fa0cb3ca06c6642c1da107ff700]
+## 5. Grounds for refusal to release information[^c-61a36fa0cb3ca06c6642c1da107ff700]
 
 (1) The following circumstances are specified for the purposes of section 68(8)(c) of the Justice (Northern Ireland) Act 2002 (circumstances in which the Secretary of State is not required to make information available under the scheme).
 
@@ -118,7 +118,7 @@ A victim must indicate that he wishes to receive information under this scheme b
   - (ii) would be contrary to any enactment; or
   - (iii) would constitute an unwarranted interference with the rights of the imprisoned offender;
 - (b) the actual victim of the offence is not a natural person;
-- (c)[^key-1851f951b00a3202c4fe1dab880f40c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-1851f951b00a3202c4fe1dab880f40c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the imprisoned offender was sentenced to a term of imprisonment of less than 6 months; or
 - (e) the Secretary of State has received an application for information under this scheme from a person acting instead of the actual victim under Article 3 and he has accepted that application, and that a subsequent application is made under Article 3 in relation to the same actual victim.
 
@@ -136,15 +136,15 @@ Article 3
 
 The information to be provided by the victim is as follows –
 
-**1.**[^key-4f58616092cc2a436aec47a7b0fe9bc5] The name, full address and date of birth of the actual victim.
+**1.**[^c-4f58616092cc2a436aec47a7b0fe9bc5] The name, full address and date of birth of the actual victim.
 
-**2.**[^key-db385d5ae0b91bc26c6c245ca2c0b89a] Details of the offence.
+**2.**[^c-db385d5ae0b91bc26c6c245ca2c0b89a] Details of the offence.
 
-**3.**[^key-efcb5373124f5fad1484e6e80a1224af] The nature of the information being sought, that is to say either final release information, temporary release information, or both.
+**3.**[^c-efcb5373124f5fad1484e6e80a1224af] The nature of the information being sought, that is to say either final release information, temporary release information, or both.
 
-**4.**[^key-4b982e00e20ef3f890e4438fff6a89c8] The name, organisation, full address and relationship to the actual victim of a person seeking to act as the representative of the actual victim (where applicable).
+**4.**[^c-4b982e00e20ef3f890e4438fff6a89c8] The name, organisation, full address and relationship to the actual victim of a person seeking to act as the representative of the actual victim (where applicable).
 
-**5.**[^key-b0cb328d48bd53486d8783b4618498b1] In the case of an application under Article 2(2), confirmation signed by the actual victim that he consents to the representative acting on his behalf, together with any other relevant information in support of the application.
+**5.**[^c-b0cb328d48bd53486d8783b4618498b1] In the case of an application under Article 2(2), confirmation signed by the actual victim that he consents to the representative acting on his behalf, together with any other relevant information in support of the application.
 
 (This note is not part of the scheme.)
 
@@ -156,34 +156,34 @@ The information provided for in the scheme can be supplied to a person who is no
 
 [^f00001]: Footnote: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
-[^key-77288fcdefd2a7c554901e9c69ae9a83]: Commencement: S. 1 in operation at 1.7.2003, see [s. 1](https://www.legislation.gov.uk/nisr/2003/293/section/1)
+[^c-77288fcdefd2a7c554901e9c69ae9a83]: Commencement: S. 1 in operation at 1.7.2003, see [s. 1](https://www.legislation.gov.uk/nisr/2003/293/section/1)
 
-[^key-65a916680ebfc51a2458709cf1a97b7f]: Commencement: S. 2 in operation at 1.7.2003, see [s. 1](https://www.legislation.gov.uk/nisr/2003/293/section/1)
+[^c-65a916680ebfc51a2458709cf1a97b7f]: Commencement: S. 2 in operation at 1.7.2003, see [s. 1](https://www.legislation.gov.uk/nisr/2003/293/section/1)
 
-[^key-62cd40b634aa67c5662843eb4cb53482]: Textual amendment: Words in [s. 2(4)(a)](https://www.legislation.gov.uk/nisr/2003/293/article/2/4/a) inserted (5.12.2005) by [The Prisoner Release Victim Information (Northern Ireland) (Amendment) Scheme 2005 (S.R. 2005/504)](https://www.legislation.gov.uk/nisr/2005/504), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2005/504/article/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2005/504/article/2/2)
+[^c-62cd40b634aa67c5662843eb4cb53482]: Textual amendment: Words in [s. 2(4)(a)](https://www.legislation.gov.uk/nisr/2003/293/article/2/4/a) inserted (5.12.2005) by [The Prisoner Release Victim Information (Northern Ireland) (Amendment) Scheme 2005 (S.R. 2005/504)](https://www.legislation.gov.uk/nisr/2005/504), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2005/504/article/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2005/504/article/2/2)
 
-[^key-cb5c5228931bde93eaf2321b5b4b90f1]: Textual amendment: Words in [s. 2(4)(b)](https://www.legislation.gov.uk/nisr/2003/293/article/2/4/b) inserted (5.12.2005) by [The Prisoner Release Victim Information (Northern Ireland) (Amendment) Scheme 2005 (S.R. 2005/504)](https://www.legislation.gov.uk/nisr/2005/504), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2005/504/article/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2005/504/article/2/3)
+[^c-cb5c5228931bde93eaf2321b5b4b90f1]: Textual amendment: Words in [s. 2(4)(b)](https://www.legislation.gov.uk/nisr/2003/293/article/2/4/b) inserted (5.12.2005) by [The Prisoner Release Victim Information (Northern Ireland) (Amendment) Scheme 2005 (S.R. 2005/504)](https://www.legislation.gov.uk/nisr/2005/504), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2005/504/article/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2005/504/article/2/3)
 
-[^key-a0683bf695140a092ee6618db7a99db6]: Commencement: S. 3 in operation at 1.7.2003, see [s. 1](https://www.legislation.gov.uk/nisr/2003/293/section/1)
+[^c-a0683bf695140a092ee6618db7a99db6]: Commencement: S. 3 in operation at 1.7.2003, see [s. 1](https://www.legislation.gov.uk/nisr/2003/293/section/1)
 
-[^key-048ed68501002b08e51bc7a4f373346d]: Commencement: S. 4 in operation at 1.7.2003, see [s. 1](https://www.legislation.gov.uk/nisr/2003/293/section/1)
+[^c-048ed68501002b08e51bc7a4f373346d]: Commencement: S. 4 in operation at 1.7.2003, see [s. 1](https://www.legislation.gov.uk/nisr/2003/293/section/1)
 
 [^f00002]: Footnote: [S.I. 2001/2564 (N.I. 2)](https://www.legislation.gov.uk/nisi/2001/2564)
 
-[^key-afd10c84ae901c769891dd881523cd42]: Textual amendment: Word in [s. 4(4)(b)](https://www.legislation.gov.uk/nisr/2003/293/article/4/4/b) substituted (5.12.2005) by [The Prisoner Release Victim Information (Northern Ireland) (Amendment) Scheme 2005 (S.R. 2005/504)](https://www.legislation.gov.uk/nisr/2005/504), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2005/504/article/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2005/504/article/3/2)
+[^c-afd10c84ae901c769891dd881523cd42]: Textual amendment: Word in [s. 4(4)(b)](https://www.legislation.gov.uk/nisr/2003/293/article/4/4/b) substituted (5.12.2005) by [The Prisoner Release Victim Information (Northern Ireland) (Amendment) Scheme 2005 (S.R. 2005/504)](https://www.legislation.gov.uk/nisr/2005/504), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2005/504/article/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2005/504/article/3/2)
 
-[^key-3c3a92de61a107bbbaae53a3de1c7ca7]: Textual amendment: Words in [s. 4(6)(b)](https://www.legislation.gov.uk/nisr/2003/293/article/4/6/b) substituted (5.12.2005) by [The Prisoner Release Victim Information (Northern Ireland) (Amendment) Scheme 2005 (S.R. 2005/504)](https://www.legislation.gov.uk/nisr/2005/504), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2005/504/article/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2005/504/article/3/3)
+[^c-3c3a92de61a107bbbaae53a3de1c7ca7]: Textual amendment: Words in [s. 4(6)(b)](https://www.legislation.gov.uk/nisr/2003/293/article/4/6/b) substituted (5.12.2005) by [The Prisoner Release Victim Information (Northern Ireland) (Amendment) Scheme 2005 (S.R. 2005/504)](https://www.legislation.gov.uk/nisr/2005/504), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2005/504/article/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2005/504/article/3/3)
 
-[^key-61a36fa0cb3ca06c6642c1da107ff700]: Commencement: S. 5 in operation at 1.7.2003, see [s. 1](https://www.legislation.gov.uk/nisr/2003/293/section/1)
+[^c-61a36fa0cb3ca06c6642c1da107ff700]: Commencement: S. 5 in operation at 1.7.2003, see [s. 1](https://www.legislation.gov.uk/nisr/2003/293/section/1)
 
-[^key-1851f951b00a3202c4fe1dab880f40c0]: Textual amendment: [s. 5(2)(c)](https://www.legislation.gov.uk/nisr/2003/293/article/5/2/c) omitted (5.12.2005) by virtue of [The Prisoner Release Victim Information (Northern Ireland) (Amendment) Scheme 2005 (S.R. 2005/504)](https://www.legislation.gov.uk/nisr/2005/504), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2005/504/article/1/1), [4](https://www.legislation.gov.uk/nisr/2005/504/article/4)
+[^c-1851f951b00a3202c4fe1dab880f40c0]: Textual amendment: [s. 5(2)(c)](https://www.legislation.gov.uk/nisr/2003/293/article/5/2/c) omitted (5.12.2005) by virtue of [The Prisoner Release Victim Information (Northern Ireland) (Amendment) Scheme 2005 (S.R. 2005/504)](https://www.legislation.gov.uk/nisr/2005/504), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2005/504/article/1/1), [4](https://www.legislation.gov.uk/nisr/2005/504/article/4)
 
-[^key-4f58616092cc2a436aec47a7b0fe9bc5]: Commencement: Sch. 1 para. 1 in operation at 1.7.2003, see [s. 1](https://www.legislation.gov.uk/nisr/2003/293/section/1)
+[^c-4f58616092cc2a436aec47a7b0fe9bc5]: Commencement: Sch. 1 para. 1 in operation at 1.7.2003, see [s. 1](https://www.legislation.gov.uk/nisr/2003/293/section/1)
 
-[^key-db385d5ae0b91bc26c6c245ca2c0b89a]: Commencement: Sch. 1 para. 2 in operation at 1.7.2003, see [s. 1](https://www.legislation.gov.uk/nisr/2003/293/section/1)
+[^c-db385d5ae0b91bc26c6c245ca2c0b89a]: Commencement: Sch. 1 para. 2 in operation at 1.7.2003, see [s. 1](https://www.legislation.gov.uk/nisr/2003/293/section/1)
 
-[^key-efcb5373124f5fad1484e6e80a1224af]: Commencement: Sch. 1 para. 3 in operation at 1.7.2003, see [s. 1](https://www.legislation.gov.uk/nisr/2003/293/section/1)
+[^c-efcb5373124f5fad1484e6e80a1224af]: Commencement: Sch. 1 para. 3 in operation at 1.7.2003, see [s. 1](https://www.legislation.gov.uk/nisr/2003/293/section/1)
 
-[^key-4b982e00e20ef3f890e4438fff6a89c8]: Commencement: Sch. 1 para. 4 in operation at 1.7.2003, see [s. 1](https://www.legislation.gov.uk/nisr/2003/293/section/1)
+[^c-4b982e00e20ef3f890e4438fff6a89c8]: Commencement: Sch. 1 para. 4 in operation at 1.7.2003, see [s. 1](https://www.legislation.gov.uk/nisr/2003/293/section/1)
 
-[^key-b0cb328d48bd53486d8783b4618498b1]: Commencement: Sch. 1 para. 5 in operation at 1.7.2003, see [s. 1](https://www.legislation.gov.uk/nisr/2003/293/section/1)
+[^c-b0cb328d48bd53486d8783b4618498b1]: Commencement: Sch. 1 para. 5 in operation at 1.7.2003, see [s. 1](https://www.legislation.gov.uk/nisr/2003/293/section/1)

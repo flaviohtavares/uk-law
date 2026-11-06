@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Cycling and Walking Investment Strategies[^key-897239020bd6de7b5d0b9bc5301950af]
+## 21. Cycling and Walking Investment Strategies[^c-897239020bd6de7b5d0b9bc5301950af]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-897239020bd6de7b5d0b9bc5301950af]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2015/7/section/21) in force at 31.7.2015 by [S.I. 2015/1543](https://www.legislation.gov.uk/uksi/2015/1543), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1543/regulation/2)
+[^c-897239020bd6de7b5d0b9bc5301950af]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2015/7/section/21) in force at 31.7.2015 by [S.I. 2015/1543](https://www.legislation.gov.uk/uksi/2015/1543), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1543/regulation/2)

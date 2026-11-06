@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Funding of Ombudsman by professional bodies.[^key-fa4e7cb6294eb92d78d04b3fba905388]
+## 50. Funding of Ombudsman by professional bodies.[^c-fa4e7cb6294eb92d78d04b3fba905388]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa4e7cb6294eb92d78d04b3fba905388]: Textual amendment: Ss. 49, 50 repealed (6.10.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(e)(vii)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/e/vii)
+[^c-fa4e7cb6294eb92d78d04b3fba905388]: Textual amendment: Ss. 49, 50 repealed (6.10.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(e)(vii)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/e/vii)

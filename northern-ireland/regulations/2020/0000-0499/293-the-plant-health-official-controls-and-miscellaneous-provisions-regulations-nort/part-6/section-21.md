@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Authorisations for other purposes[^key-2d4619f00ba7d3075bbcded11b0cd02f]
+## 21. Authorisations for other purposes[^c-2d4619f00ba7d3075bbcded11b0cd02f]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d4619f00ba7d3075bbcded11b0cd02f]: Commencement: Reg. 21 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-2d4619f00ba7d3075bbcded11b0cd02f]: Commencement: Reg. 21 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

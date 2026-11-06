@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Deemed marine licence[^key-af43157712db69623748e4ca785512d4]
+## 34. Deemed marine licence[^c-af43157712db69623748e4ca785512d4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The undertaker is deemed to have been granted the licence contained in Schedule 
 
 ## Annotations
 
-[^key-af43157712db69623748e4ca785512d4]: Commencement: Art. 34 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-af43157712db69623748e4ca785512d4]: Commencement: Art. 34 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

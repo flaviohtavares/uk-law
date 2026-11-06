@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.19. Substitution of creditor or contributory for petitioner[^key-b04c22ba25e834746b89534a47af2c28]
+## 4.19. Substitution of creditor or contributory for petitioner[^c-b04c22ba25e834746b89534a47af2c28]
 
 *Extent: E+W*
 
@@ -28,12 +28,12 @@ summary: ''
 
 (2) The court may, on such terms as it thinks just, substitute as petitioner any creditor or contributory who in its opinion would have a right to present a petition, and who is desirous of prosecuting it.
 
-(2A)[^key-f1568b338cf5d365a8cc70a54d8cfd2b] Where a member State liquidator has been appointed in main proceedings in relation to the company, without prejudice to paragraph (2), the court may, on such terms as it thinks just, substitute the member State liquidator as petitioner, where he is desirous of prosecuting the petition.
+(2A)[^c-f1568b338cf5d365a8cc70a54d8cfd2b] Where a member State liquidator has been appointed in main proceedings in relation to the company, without prejudice to paragraph (2), the court may, on such terms as it thinks just, substitute the member State liquidator as petitioner, where he is desirous of prosecuting the petition.
 
 (3) An order of the court under this Rule may, where a petitioner fails to advertise his petition within the time prescribed by these Rules, or consents to withdraw his petition, be made at any time.
 
 ## Annotations
 
-[^key-b04c22ba25e834746b89534a47af2c28]: Commencement: [Rule 4.19](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.19) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-b04c22ba25e834746b89534a47af2c28]: Commencement: [Rule 4.19](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.19) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-f1568b338cf5d365a8cc70a54d8cfd2b]: Textual amendment: Rule 4.19(2A) inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2002/1307/rule/6/3) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))
+[^c-f1568b338cf5d365a8cc70a54d8cfd2b]: Textual amendment: Rule 4.19(2A) inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2002/1307/rule/6/3) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))

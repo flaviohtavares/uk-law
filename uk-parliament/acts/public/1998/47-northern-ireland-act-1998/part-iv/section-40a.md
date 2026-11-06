@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40A. Undertaking by members[^key-5b6fd87b836a9c9625124b98217d116b]
+## 40A. Undertaking by members[^c-5b6fd87b836a9c9625124b98217d116b]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ until he or she has given the following undertaking:
 
 ## Annotations
 
-[^key-5b6fd87b836a9c9625124b98217d116b]: Textual amendment: S. 40A inserted (4.5.2016) by [Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016 (c. 13)](https://www.legislation.gov.uk/ukpga/2016/13), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2016/13/section/8/1), [11(2)](https://www.legislation.gov.uk/ukpga/2016/13/section/11/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2016/13/schedule/2))
+[^c-5b6fd87b836a9c9625124b98217d116b]: Textual amendment: S. 40A inserted (4.5.2016) by [Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016 (c. 13)](https://www.legislation.gov.uk/ukpga/2016/13), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2016/13/section/8/1), [11(2)](https://www.legislation.gov.uk/ukpga/2016/13/section/11/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2016/13/schedule/2))

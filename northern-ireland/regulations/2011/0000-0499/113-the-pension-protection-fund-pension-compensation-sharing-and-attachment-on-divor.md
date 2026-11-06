@@ -44,7 +44,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 ## PART 1 — General
 
-### 1. Citation, commencement and interpretation[^key-650a6b8afba7760d971ccd966391627b]
+### 1. Citation, commencement and interpretation[^c-650a6b8afba7760d971ccd966391627b]
 
 (1) These Regulations may be cited as the Pension Protection Fund (Pension Compensation Sharing and Attachment on Divorce etc.) Regulations (Northern Ireland) 2011 and shall come into operation on 6th April 2011.
 
@@ -64,7 +64,7 @@ The Department for Social Development makes the following Regulations in exercis
 - “PPF” means the Pension Protection Fund;
 - “qualifying course” means a full time educational or vocational course at a recognised educational establishment where, in pursuit of that course, the time spent receiving instruction or tuition, undertaking supervised study, examination or practical work or taking part in any exercise, experiment or project for which provision is made in the curriculum of the course, exceeds 12 hours per week in normal term time, and includes any gaps between the ending of one course and the commencement of another, where the person is enrolled on and commences the latter course;
 - “relevant compensation” means the payments to which the member is entitled (or will become entitled on attaining normal pension age) under the pension compensation provisions by virtue of the member’s shareable rights to PPF compensation that derive from rights under a specified scheme;
-- “relevant partner” means a person of either sex who was not married to, or in a civil partnership with, the transferee but who was living with the transferee as if spouses of each other[^key-f9ba9cc64098688dc35f685be94faca6];
+- “relevant partner” means a person of either sex who was not married to, or in a civil partnership with, the transferee but who was living with the transferee as if spouses of each other[^c-f9ba9cc64098688dc35f685be94faca6];
 - “surviving dependant” means—
   - (a) a child of the family who was financially dependent on the transferee at the time of the transferee’s death and who is aged less than 18;
   - (b) a child of the family who was financially dependent on the transferee at the time of the transferee’s death, who is aged less than 23 and who is—
@@ -79,7 +79,7 @@ The Department for Social Development makes the following Regulations in exercis
 - (a) Christmas Day or Good Friday, or
 - (b) a day which is, or is to be observed as, a bank holiday under Schedule 1 to the Banking and Financial Dealings Act 1971[^f00006],
 
-and where the Board receives a request or order to provide information, an order or provision, a notification or other documents on a day which falls on one of the days specified in sub-paragraph (a)[^key-461823051f0ba221ff0a71fb5892cd5f] or (b), any period of time specified in regulation 3, 5, 7, 9, 10, 15 or 16 is to run from the next day after the day of receipt which is not a day specified in sub-paragraph (a) or (b).
+and where the Board receives a request or order to provide information, an order or provision, a notification or other documents on a day which falls on one of the days specified in sub-paragraph (a)[^c-461823051f0ba221ff0a71fb5892cd5f] or (b), any period of time specified in regulation 3, 5, 7, 9, 10, 15 or 16 is to run from the next day after the day of receipt which is not a day specified in sub-paragraph (a) or (b).
 
 (4) Without prejudice to any other method of service authorised under section 24 of the Interpretation Act (Northern Ireland) 1954[^f00007], the requirement to send any document under these Regulations may be met by sending it by ordinary post.
 
@@ -90,7 +90,7 @@ and where the Board receives a request or order to provide information, an order
 
 ## PART 2 — Shareable rights
 
-### 2. Rights to PPF compensation which are not shareable[^key-4e64d6fad5195e3294b450a36d2e2969]
+### 2. Rights to PPF compensation which are not shareable[^c-4e64d6fad5195e3294b450a36d2e2969]
 
 Any right of a person to PPF compensation is not shareable if—
 
@@ -99,7 +99,7 @@ Any right of a person to PPF compensation is not shareable if—
 
 ## PART 3 — Supply of information about pension compensation in relation to divorce etc.
 
-### 3. Basic information about pension compensation and divorce or dissolution of a civil partnership[^key-eabe2b131db448969aef2c77754f93c0]
+### 3. Basic information about pension compensation and divorce or dissolution of a civil partnership[^c-eabe2b131db448969aef2c77754f93c0]
 
 (1) The requirements imposed on the Board for the purposes of section 96(1)(a) (supply of information about pension compensation in relation to divorce etc.) are that the Board must supply—
 
@@ -133,7 +133,7 @@ to the member, the spouse or civil partner of the member, or, as the case may be
 
 the Board must supply that information within one month beginning with the day that the Board receives the request or the court order for the provision of the information.
 
-### 4. Valuation of relevant compensation for the purposes of an application for financial relief or financial provision[^key-fbf18eec2425ddb0ba64531bb4f13803]
+### 4. Valuation of relevant compensation for the purposes of an application for financial relief or financial provision[^c-fbf18eec2425ddb0ba64531bb4f13803]
 
 (1) Where the Board is notified that—
 
@@ -149,7 +149,7 @@ the value of the PPF compensation or relevant compensation to which the member i
 - (a) in accordance with actuarial assumptions approved by the Board, and
 - (b) on the assumption that the date on which the valuation is carried out is the date that the Board received the request for the valuation.
 
-### 5. Provision of information in response to a notification that a pension compensation sharing order etc. may be made[^key-059baf87c590181b66edfd941f835849]
+### 5. Provision of information in response to a notification that a pension compensation sharing order etc. may be made[^c-059baf87c590181b66edfd941f835849]
 
 (1) On a direction from the court or a request from the member, the Board must supply the information specified in paragraph (2) to the member or to the court, as the case may be—
 
@@ -179,13 +179,13 @@ the value of the PPF compensation or relevant compensation to which the member i
 - (d) if such information has not already been supplied, details of any charges that the Board will impose in accordance with regulation 16 and the method by which they may be recovered, and
 - (e) whether the Board requires any information additional to that specified in regulation 7 in order to implement the pension sharing order or provision.
 
-### 6. Information to be provided by the Board to pension compensation credit members[^key-6114e3e72a963e5f2ad3df9b6167c575]
+### 6. Information to be provided by the Board to pension compensation credit members[^c-6114e3e72a963e5f2ad3df9b6167c575]
 
 The information to be provided by the Board to pension compensation credit members and to beneficiaries of pension compensation credit members is to be determined in accordance with the provisions of the Schedule.
 
 ## PART 4 — Implementation and discharge of liability
 
-### 7. Information to be supplied in order for the implementation period to begin[^key-fca8540c271c70d449c56c8d8c636409]
+### 7. Information to be supplied in order for the implementation period to begin[^c-fca8540c271c70d449c56c8d8c636409]
 
 (1) Subject to paragraph (2), the information prescribed for the purposes of section 93(1)(b)(ii) (“implementation period”) is—
 
@@ -214,7 +214,7 @@ the prescribed information for the purposes of section 93(1)(b)(ii) is such info
 - (a) the date of the transferee’s death, and
 - (b) the name and address of the executor or personal representative of the deceased transferee.
 
-### 8. Extension of implementation period[^key-153722f553afbf9641bd044f22c7679d]
+### 8. Extension of implementation period[^c-153722f553afbf9641bd044f22c7679d]
 
 The circumstances in which the implementation period for a pension compensation credit is extended for the purposes of section 92 (time for discharge of liability) are that—
 
@@ -222,7 +222,7 @@ The circumstances in which the implementation period for a pension compensation 
 - (b) the Board has not been supplied with such information as it reasonably requires to discharge its liability for the pension compensation credit within the implementation period, or
 - (c) the transferor or the transferee has disputed the amount of the cash equivalent calculated and verified for the purposes of section 89 (creation of pension compensation debits and credits).
 
-### 9. Postponement or cessation of implementation period when an application for leave to appeal out of time is made[^key-cc400dca2a87a763c6557b8dc52dd4ee]
+### 9. Postponement or cessation of implementation period when an application for leave to appeal out of time is made[^c-cc400dca2a87a763c6557b8dc52dd4ee]
 
 (1) Where a pension compensation credit depends on a pension compensation sharing order which is the subject of an application for leave to appeal out of time, the modifications to the effect of section 93 (“implementation period”) are—
 
@@ -241,7 +241,7 @@ The circumstances in which the implementation period for a pension compensation 
 
 it must inform the court, within 21 days from the date on which the notification was received, that the Board’s liability in respect of that pension compensation credit has been discharged.
 
-### 10. Notification about the implementation period by the Board[^key-bf5828dacd4e55d0178ef97590ea9062]
+### 10. Notification about the implementation period by the Board[^c-bf5828dacd4e55d0178ef97590ea9062]
 
 (1) Within a period of 21 days beginning on the day on which the implementation period begins in accordance with section 93(1), the Board must notify the transferor and transferee of the date that the implementation period began.
 
@@ -265,17 +265,17 @@ the Board must, within 21 days of the date of the extension, postponement or ces
 - (d) the method, in accordance with regulation 16(4), by which the charges may be recovered if not paid by the date specified in sub-paragraph (c), and
 - (e) the date, calculated in accordance with regulation 16(6)(e), on or after which the Board may recover the charges if not paid by the date specified in sub-paragraph (c).
 
-### 11. Calculation and verification of cash equivalent[^key-aaae78ec725f6a7ceaf6dd93ee074da5]
+### 11. Calculation and verification of cash equivalent[^c-aaae78ec725f6a7ceaf6dd93ee074da5]
 
 (1) For the purposes of calculating the appropriate amount in accordance with section 89 (creation of pension compensation debits and credits), the cash equivalent of the relevant compensation is the amount that immediately before the transfer day would be required to make provision for the member’s entitlement to relevant compensation under the pension compensation provisions.
 
 (2) The cash equivalent must be calculated and verified in accordance with actuarial assumptions approved by the Board.
 
-### 12. Determination of cash equivalent value of pension compensation credit[^key-a6a52796eea2546e430c34cdb0ecf807]
+### 12. Determination of cash equivalent value of pension compensation credit[^c-a6a52796eea2546e430c34cdb0ecf807]
 
 The Board must calculate the cash equivalent value of the compensation to which the transferee becomes entitled on the sending of a notice under section 94(3) (discharge of liability) using actuarial assumptions which are consistent with the actuarial assumptions used to calculate and verify the cash equivalent of the member’s entitlement to relevant compensation under the pension compensation provisions.
 
-### 13. Discharge of liability where the transferee dies before the Board has discharged liability for a pension compensation credit[^key-c340416d223abdb6b8c4fb67327446ab]
+### 13. Discharge of liability where the transferee dies before the Board has discharged liability for a pension compensation credit[^c-c340416d223abdb6b8c4fb67327446ab]
 
 (1) This regulation applies where—
 
@@ -291,7 +291,7 @@ The Board must calculate the cash equivalent value of the compensation to which 
   - (ii) a relevant partner is entitled to compensation in the circumstances prescribed in regulation 20(2), and
 - (b) a surviving dependant is entitled to compensation in the circumstances prescribed in regulation 20(5).
 
-### 14. Notification of discharge of liability[^key-ed679f3967a520e0ba6ca6275ed2d8cd]
+### 14. Notification of discharge of liability[^c-ed679f3967a520e0ba6ca6275ed2d8cd]
 
 (1) Where the Board discharges liability in respect of a pension compensation credit in accordance with section 94, it must also supply—
 
@@ -301,7 +301,7 @@ The Board must calculate the cash equivalent value of the compensation to which 
 - (b) to the transferee—
   - (i) in a case where the transferee has not attained pension compensation age before or on the transfer day, the information specified in paragraphs (5) and (6), or
   - (ii) in a case where the transferee has attained pension compensation age before or on the transfer day, the information specified in paragraphs (5) and (7), or
-- (c) in a case where the transferee has died prior to discharge of liability by the Board, to the personal representative or executor of the transferee, the information specified in paragraphs (5) (with the exception of the information specified in paragraph (5)(e))[^key-fc8ce9c5777ca3a3a6c4b7fa60cc7af8] and (8).
+- (c) in a case where the transferee has died prior to discharge of liability by the Board, to the personal representative or executor of the transferee, the information specified in paragraphs (5) (with the exception of the information specified in paragraph (5)(e))[^c-fc8ce9c5777ca3a3a6c4b7fa60cc7af8] and (8).
 
 (2) The information specified in this paragraph is—
 
@@ -334,7 +334,7 @@ the relevant compensation is reduced in accordance with section 91 and any charg
 
 (8) The information specified in this paragraph is the fact that compensation may be payable to a surviving partner, relevant partner or surviving dependant in accordance with Part 6.
 
-### 15. Provision of information after receipt of a pension compensation attachment order or provision[^key-2094ab89a2942ab7f9f23b9728950ac5]
+### 15. Provision of information after receipt of a pension compensation attachment order or provision[^c-2094ab89a2942ab7f9f23b9728950ac5]
 
 (1) The Board must, within 21 days beginning with the day that it receives—
 
@@ -367,7 +367,7 @@ issue to the member and to the person entitled to payments by virtue of the pens
 
 ## PART 5 — Charges in respect of pension compensation sharing costs etc.
 
-### 16. Charges in respect of pension compensation sharing costs etc. recoverable by the Board[^key-910c49049447143ed1d332b7afb03ce0]
+### 16. Charges in respect of pension compensation sharing costs etc. recoverable by the Board[^c-910c49049447143ed1d332b7afb03ce0]
 
 (1) Subject to paragraph (3), the Board may recover from a party to proceedings or to a qualifying agreement under any of the provisions specified in section 96(1)(a) (“a party”) charges of the description specified in paragraph (2).
 
@@ -400,13 +400,13 @@ issue to the member and to the person entitled to payments by virtue of the pens
 - (d) the Board has notified the party liable to pay the charges of the method by, and the date on, which the charges may be recovered, and
 - (e) a period of 21 days from the date that the charges were due to be paid has elapsed.
 
-### 17. Reimbursement between parties to pension compensation sharing[^key-67d2697b447a52e3f7d9f022fdb81e41]
+### 17. Reimbursement between parties to pension compensation sharing[^c-67d2697b447a52e3f7d9f022fdb81e41]
 
 A payment in respect of charges in accordance with regulation 16 made by one of the parties to pension compensation sharing on behalf of the other party is recoverable as a debt by the party who made the payment from that other party.
 
 ## PART 6 — Compensation for survivors
 
-### 18. Circumstances where a surviving partner is not entitled to periodic compensation[^key-6d2b4aae84adef4f736157b43718daa9]
+### 18. Circumstances where a surviving partner is not entitled to periodic compensation[^c-6d2b4aae84adef4f736157b43718daa9]
 
 A surviving partner is not entitled to periodic compensation under paragraph 5 or 7 of Schedule 4 (compensation payable to widow, widower or surviving civil partner) or under regulation 13(3)(a)(i) where there is—
 
@@ -415,14 +415,14 @@ A surviving partner is not entitled to periodic compensation under paragraph 5 o
   - (ii) regulation 20(3)(a), or
 - (b) no provision to pay a survivor’s pension under the admissible rules of the scheme.
 
-### 19. Compensation payable on discharge of liability under regulation 13 in the case of surviving partners[^key-8de91e6d000c255889ad950ca539bd90]
+### 19. Compensation payable on discharge of liability under regulation 13 in the case of surviving partners[^c-8de91e6d000c255889ad950ca539bd90]
 
 Where a surviving partner is entitled to compensation under regulation 13(3)(a)(i), the annual rate and duration of the periodic compensation payable to the surviving partner is to be calculated—
 
 - (a) where the transferee, had that transferee not died, would have become entitled to periodic compensation under paragraph 4 of Schedule 4 commencing on the transfer day, in accordance with paragraph 5(2) and (3) of Schedule 4;
 - (b) where the transferee, had that transferee not died, would have become entitled to periodic compensation under paragraph 6 of Schedule 4 commencing at pension compensation age, in accordance with paragraph 7(2) and (3) of Schedule 4.
 
-### 20. Compensation payable in the case of relevant partners and surviving dependants[^key-ae5962428494064abe0e13806ad64bbe]
+### 20. Compensation payable in the case of relevant partners and surviving dependants[^c-ae5962428494064abe0e13806ad64bbe]
 
 (1) This regulation applies where the transferee—
 
@@ -436,7 +436,7 @@ Where a surviving partner is entitled to compensation under regulation 13(3)(a)(
 - (a) the transferee—
   - (i) has supplied the Board with a valid nomination in favour of the relevant partner, and
   - (ii) the relevant partner has demonstrated to the satisfaction of the Board that the relevant partner was living with the transferee at the date of the transferee’s death, or
-- (b) where the transferee has not supplied the Board with a valid nomination in accordance with sub-paragraph (a)(i)[^key-804a422ed72eeb2e597b428aea606895], the relevant partner supplies evidence to the satisfaction of the Board that, at the date of the transferee’s death the relevant partner was—
+- (b) where the transferee has not supplied the Board with a valid nomination in accordance with sub-paragraph (a)(i)[^c-804a422ed72eeb2e597b428aea606895], the relevant partner supplies evidence to the satisfaction of the Board that, at the date of the transferee’s death the relevant partner was—
   - (i) financially dependent or interdependent, on the transferee, and
   - (ii) living with the transferee.
 
@@ -450,7 +450,7 @@ Where a surviving partner is entitled to compensation under regulation 13(3)(a)(
 - (b) in the case of an adopted child of the transferee, the adoption certificate demonstrating that the child is the adopted child of the transferee, or
 - (c) in the case of any other surviving dependant, evidence demonstrating to the satisfaction of the Board that the surviving dependant is a dependant of the transferee.
 
-### 21. Amount and duration of periodic compensation that can be paid in the case of a relevant partner[^key-c2e7f9849a263a20f81f6edab65dabc9]
+### 21. Amount and duration of periodic compensation that can be paid in the case of a relevant partner[^c-c2e7f9849a263a20f81f6edab65dabc9]
 
 (1) Where a relevant partner is entitled to payment of periodic compensation under regulation 20, compensation is to commence on the day following the transferee’s death and is payable for life.
 
@@ -459,7 +459,7 @@ Where a surviving partner is entitled to compensation under regulation 13(3)(a)(
 - (a) where the transferee was entitled to payment of periodic compensation commencing on the transfer day, or would have become so entitled had that transferee not died, in accordance with paragraph 5(3) of Schedule 4, or
 - (b) where the transferee was entitled to payment of periodic compensation commencing at pension compensation age, or would have become so entitled had that transferee not died, in accordance with paragraph 7(3) of Schedule 4.
 
-### 22. Amount of periodic compensation that can be paid in the case of a surviving dependant[^key-84f57fc268085bca8d0682a89d3a1a0c]
+### 22. Amount of periodic compensation that can be paid in the case of a surviving dependant[^c-84f57fc268085bca8d0682a89d3a1a0c]
 
 (1) Subject to paragraphs (2) and (3) and regulation 24, where a surviving dependant is entitled to periodic compensation under regulation 20(5) the amount is to be calculated—
 
@@ -476,7 +476,7 @@ Where a surviving partner is entitled to compensation under regulation 13(3)(a)(
 - (a) there is only one surviving dependant, the amount of periodic compensation is half of the amount calculated under paragraph (1);
 - (b) there are two or more surviving dependants, the amount of periodic compensation is the amount calculated under paragraph (1), divided equally between the surviving dependants.
 
-### 23. Period of payment[^key-04720ef1c6c53a9eb99ec70836942590]
+### 23. Period of payment[^c-04720ef1c6c53a9eb99ec70836942590]
 
 (1) Except in the circumstances prescribed in paragraph (2), where periodic compensation is payable to a surviving dependant under regulation 20(5), it is payable from the day following the transferee’s death.
 
@@ -497,7 +497,7 @@ whichever is the earlier.
 
 (5) Where the surviving dependant is incapable of engaging in full time paid employment due to a condition that falls within the definition of a disability under section 6 of the Equality Act 2010, periodic compensation is payable until the surviving dependant attains the age of 23.
 
-### 24. Change of circumstances and backdating[^key-8749f7442e11fb5a952c397ca02c57e0]
+### 24. Change of circumstances and backdating[^c-8749f7442e11fb5a952c397ca02c57e0]
 
 (1) The amount of periodic compensation payable to a surviving dependant under these Regulations may be varied where—
 
@@ -514,7 +514,7 @@ whichever is the earlier.
 
 ## PART 7 — Commutation of periodic compensation
 
-### 25. Circumstances in which periodic compensation may be commuted[^key-2b0ef4a8351c6a8a1719525336989b1d]
+### 25. Circumstances in which periodic compensation may be commuted[^c-2b0ef4a8351c6a8a1719525336989b1d]
 
 (1) The circumstances prescribed for the purposes of paragraph 9(1) of Schedule 4 (commutation of periodic compensation) are specified in paragraph (2).
 
@@ -526,7 +526,7 @@ whichever is the earlier.
 - (b) the transferee must not have previously exercised an option to commute for a lump sum a portion of the pension compensation credit in respect of which the transferee is entitled to periodic compensation, and
 - (c) the transferee exercises the option to commute within the period of 6 months beginning with the day on which payment of periodic compensation commences.
 
-### 26. Circumstances in which the portion of compensation to be commuted may exceed 25%[^key-654dabda0bce7babe14f3bfe2f5c89e4]
+### 26. Circumstances in which the portion of compensation to be commuted may exceed 25%[^c-654dabda0bce7babe14f3bfe2f5c89e4]
 
 (1) The prescribed circumstances for the purposes of paragraph 9(2) of Schedule 4 (commutation of periodic compensation) are that—
 
@@ -539,7 +539,7 @@ whichever is the earlier.
   - (i) no trivial commutation lump sum or PPF trivial commutation lump sum has previously been paid to the transferee by either a registered pension scheme, or the Board, or
   - (ii) if such a lump sum has previously been paid, the PPF trivial commutation lump sum is paid before the end of the commutation period;
 - (b) on the nominated date the value of the transferee’s pension rights and entitlement to PPF compensation does not exceed the commutation limit;
-- (c) it is paid when all or part of the transferee’s lump sum and death benefit allowance (see section 637R of the Income Tax (Earnings and Pensions) Act 2003)[^key-451c8f2a376d4efd5db063f0e13620a1] is available, and
+- (c) it is paid when all or part of the transferee’s lump sum and death benefit allowance (see section 637R of the Income Tax (Earnings and Pensions) Act 2003)[^c-451c8f2a376d4efd5db063f0e13620a1] is available, and
 - (d) it extinguishes the transferee’s entitlement to PPF compensation.
 
 (3) “The commutation period” is the period beginning with the day on which a trivial commutation lump sum or PPF trivial commutation lump sum was first paid to the transferee and ending 12 months after that day.
@@ -549,7 +549,7 @@ whichever is the earlier.
 - (a) a date nominated by the transferee which is within the period of 3 months ending with the day on which the transferee proposes to exercise the option to commute, or
 - (b) if no date is nominated by the transferee, a date within that period nominated by the Board.
 
-(5) The commutation limit is the amount specified in paragraph 7(4) of Schedule 29 to the Finance Act (trivial commutation lump sum: commutation limit)[^key-250dcd5ce67349d7e02fa0c0b8a52923] .
+(5) The commutation limit is the amount specified in paragraph 7(4) of Schedule 29 to the Finance Act (trivial commutation lump sum: commutation limit)[^c-250dcd5ce67349d7e02fa0c0b8a52923] .
 
 (6) For the purposes of paragraph (2)(b)—
 
@@ -563,17 +563,17 @@ whichever is the earlier.
 (7) For the purposes of paragraph (6)(b)—
 
 - (a) the value of any entitlement to lump sum compensation is the full amount of lump sum compensation to which the transferee is entitled on the nominated date, and
-- (b) the value of periodic compensation is to be calculated by multiplying the annual periodic compensation to which the transferee is[^key-d65f74e61df9639553d8838e1e5bac13] entitled on the nominated date by 20.
+- (b) the value of periodic compensation is to be calculated by multiplying the annual periodic compensation to which the transferee is[^c-d65f74e61df9639553d8838e1e5bac13] entitled on the nominated date by 20.
 
 (8) In this regulation—
 
 - “the Finance Act” means the Finance Act 2004[^f00024];
 - “registered pension scheme” has the same meaning as in section 150(2) of the Finance Act (meaning of “pension scheme”);
-- [^key-7a423df3eb6221c36a9a3790838c4657]...
-- “tax year” has the same meaning as in section 4(2), (3) and (4) of the Income Tax Act 2007 (income tax an annual tax);[^key-2d00e3310e2c50b12d61a9d3abba4646]
+- [^c-7a423df3eb6221c36a9a3790838c4657]...
+- “tax year” has the same meaning as in section 4(2), (3) and (4) of the Income Tax Act 2007 (income tax an annual tax);[^c-2d00e3310e2c50b12d61a9d3abba4646]
 - “trivial commutation lump sum” has the same meaning as in paragraph 7 of Schedule 29 to the Finance Act.
 
-### 27. Manner in which an option to commute may be exercised[^key-25a294f1eb05e7b8238fd183afea8983]
+### 27. Manner in which an option to commute may be exercised[^c-25a294f1eb05e7b8238fd183afea8983]
 
 (1) The manner in which an option to commute periodic compensation under paragraph 9 of Schedule 4 may be exercised is specified in paragraphs (2) to (4).
 
@@ -588,7 +588,7 @@ whichever is the earlier.
 
 ## PART 8 — Early payment of periodic compensation
 
-### 28. Circumstances where a transferee is entitled to early payment of periodic compensation[^key-a44f18a39271d16f5461d7431b037093]
+### 28. Circumstances where a transferee is entitled to early payment of periodic compensation[^c-a44f18a39271d16f5461d7431b037093]
 
 (1) The conditions under which, by virtue of paragraph 10 of Schedule 4 (early payment of compensation), a transferee may become entitled to early payment of lump sum compensation (by virtue of paragraph 9 of Schedule 4 and regulation 25 or 26) and periodic compensation under paragraph 6 of Schedule 4, are specified in paragraph (2).
 
@@ -602,7 +602,7 @@ whichever is the earlier.
 - (a) the transferee’s name, address, date of birth and national insurance number, and
 - (b) the date on which the transferee would like the periodic compensation or lump sum compensation to become payable.
 
-## PART 8A — Postponement of compensation[^key-36f94f4a744331cf80fbb35d6c70940f]
+## PART 8A — Postponement of compensation[^c-36f94f4a744331cf80fbb35d6c70940f]
 
 ### 28A. Postponing compensation
 
@@ -646,7 +646,7 @@ A person who becomes entitled to periodic compensation under paragraph 4 or 6 of
 
 ## PART 9 — Annual increase in periodic compensation
 
-### 29. Determination of indexed proportion[^key-0420ca3cb06be8d33dfe6b82abebf8d3]
+### 29. Determination of indexed proportion[^c-0420ca3cb06be8d33dfe6b82abebf8d3]
 
 In any case where it is unclear whether the pension compensation credit or any part of it is derived from rights of the transferor relating to pensionable service (whether actual or notional) occurring—
 
@@ -657,7 +657,7 @@ the Board may determine as best as it is able, having regard to the admissible r
 
 ## PART 10 — Compensation cap
 
-### 30. Restriction of amount of compensation payable[^key-2262f2f6690ffd1f13a5dca8af09906c]
+### 30. Restriction of amount of compensation payable[^c-2262f2f6690ffd1f13a5dca8af09906c]
 
 (1) This regulation applies where, in respect of a pension compensation credit—
 
@@ -675,7 +675,7 @@ the Board may determine as best as it is able, having regard to the admissible r
 
 (5) In this regulation “the cap fraction” means C/V, where C is the compensation cap and V is the annual value of the periodic compensation payable under the pension compensation credit.
 
-### 31. Application of compensation cap where compensation becomes payable on different dates[^key-0136762da87ccda4218967b61adeeb2e]
+### 31. Application of compensation cap where compensation becomes payable on different dates[^c-0136762da87ccda4218967b61adeeb2e]
 
 (1) This regulation applies where—
 
@@ -705,7 +705,7 @@ the Board may determine as best as it is able, having regard to the admissible r
 
 ## PART 11 — Amendment of Schedule 8 to the 2005 Order
 
-### 32. Amendment of Schedule 8 to the 2005 Order[^key-cb30248c7494f9e81ffe71e5031f74bd]
+### 32. Amendment of Schedule 8 to the 2005 Order[^c-cb30248c7494f9e81ffe71e5031f74bd]
 
 In Schedule 8 to the 2005 Order (reviewable matters) after paragraph 16B[^f00025] insert—
 
@@ -719,7 +719,7 @@ In Schedule 8 to the 2005 Order (reviewable matters) after paragraph 16B[^f00025
 
 .
 
-### 33. Amendment of the Pension Protection Fund (Review and Reconsideration of Reviewable Matters) Regulations[^key-73eb936402ca41afe9f2c7d95ec00d1e]
+### 33. Amendment of the Pension Protection Fund (Review and Reconsideration of Reviewable Matters) Regulations[^c-73eb936402ca41afe9f2c7d95ec00d1e]
 
 In the Schedule to the Pension Protection Fund (Review and Reconsideration of Reviewable Matters) Regulations (Northern Ireland) 2005[^f00026] (interested person[^f00027]) after paragraph 16B[^f00028] insert—
 
@@ -741,13 +741,13 @@ A senior officer of the Department for Social Development
 
 Regulation 6
 
-**1.**[^key-e6cc155807f1e5ef72a5e5f170b7e4ba] In this Schedule—
+**1.**[^c-e6cc155807f1e5ef72a5e5f170b7e4ba] In this Schedule—
 
 - “beneficiary” means any person who is entitled to compensation as a surviving partner, relevant partner or other surviving dependant of a pension compensation credit member;
 - “interested person” has the same meaning as in Article 189(2) of the 2005 Order (review and reconsideration by the Board of reviewable matters);
 - “reviewable matter” has the same meaning as in Article 188(1) of the 2005 Order (meaning of “reviewable matters”).
 
-**2.**[^key-9c65f4e8110f7576f80c10cc122b366e] Information to be provided by the Board to pension compensation credit members and beneficiaries shall be determined in accordance with the provisions of the table of information to be provided by the Board set out below—
+**2.**[^c-9c65f4e8110f7576f80c10cc122b366e] Information to be provided by the Board to pension compensation credit members and beneficiaries shall be determined in accordance with the provisions of the table of information to be provided by the Board set out below—
 
 Table of information to be provided by the Board
 
@@ -758,7 +758,7 @@ Table of information to be provided by the Board
 | Any pension compensation credit member who makes a request in writing to the Board for it to provide—<br>- (i) information about any options to commute which may be exercised by the pension compensation credit member in accordance with paragraph 9 of Schedule 4 and regulations 25 and 26, or<br>- (ii) a forecast of the lump sum payable to the pension compensation credit member on the exercise of any such option. | Details of any options to commute available to the pension compensation credit member, and forecasts of—<br>- (a) the lump sum to be paid to the pension compensation credit member under any such option, and<br>- (b) the reduced level of annual compensation payments which the pension compensation credit member would receive if that member exercised such an option. | The period of 28 days beginning on the day on which the Board receives the request. |
 | Any pension compensation credit member who makes a request in writing to the Board for it to provide information about any entitlement the pension compensation credit member may have to early payment of compensation under paragraph 10 of Schedule 4 (early payment of compensation) and regulation 28. | Details of any entitlement the pension compensation credit member may have to early payment of compensation and a forecast of the periodic compensation and of any lump sum payment payable to the pension compensation credit member. | The period of 28 days beginning on the day on which the Board receives the request. |
 | All pension compensation credit members, surviving or relevant partners or dependants of such members. | Details of any variation in the amount of compensation payable where the variation will result from the operation of paragraph 27 of Schedule 6 to the 2005 Order, or paragraph 17 or 20 of Schedule 4, and the date when the variation will become effective (“the operative date”). | Not less than 28 days before the operative date. |
-| Any pension compensation credit member who makes a request in writing to the Board for it to postpone to a date specified in the request, commencement of the periodic compensation under paragraph 16A of Schedule 4.[^key-f5fa251bf280e8ff873d06ff23339092] | A forecast to the date specified in the request, determined in accordance with Schedule 4, of the periodic compensation payable to the pension compensation credit member under Schedule 4. | The period of 28 days beginning on the day on which the Board receives the request. |
+| Any pension compensation credit member who makes a request in writing to the Board for it to postpone to a date specified in the request, commencement of the periodic compensation under paragraph 16A of Schedule 4.[^c-f5fa251bf280e8ff873d06ff23339092] | A forecast to the date specified in the request, determined in accordance with Schedule 4, of the periodic compensation payable to the pension compensation credit member under Schedule 4. | The period of 28 days beginning on the day on which the Board receives the request. |
 | Any pension compensation credit member who has elected to postpone the commencement of the periodic compensation under paragraph 16A of Schedule 4. | 1\. A forecast to the date the periodic compensation ceases to be postponed, determined in accordance with Schedule 4, of the periodic compensation payable to the pension compensation credit member under Schedule 4.<br>2\. Details of any options to commute which may be exercised by the pension compensation credit member in relation to the periodic compensation in accordance with paragraph 9 of Schedule 4 and forecasts to the date the periodic compensation ceases to be postponed, determined in accordance with Schedule 4, of—<br>- (a) the lump sum to be paid to that member under any such options, and<br>- (b) the reduced level of annual compensation payments which that member would receive if that member exercised any such option. | The period of 6 months beginning 12 months before the day on which the commencement of the periodic compensation ceases to be postponed. |
 | Any pension compensation credit member who is an interested person in relation to a particular reviewable matter. | A statement describing how an application may be made to the Board for the review of the reviewable matter, how the application will be considered and the Board’s powers on making a review decision. | The period of 28 days beginning on the day on which the Board knew or ought to have known that the reviewable matter had occurred. |
 | Any pension compensation credit member who is either a party to matrimonial or civil partnership proceedings, or may be a party to such proceedings, who makes a request in writing to the Board for information about that member’s compensation entitlement. | A statement, determined in accordance with Schedule 4, of the compensation to be paid to the pension compensation credit member. | The period of 3 months beginning on the day on which the Board receives the request, or by the date that the Board must comply with a court order to provide such information, whichever is the sooner. |
@@ -803,31 +803,31 @@ An assessment of the impact of the legislative changes made by Part 3 of the Act
 
 [^f00002]: Footnote: [2008 c. 13 (N.I.)](https://www.legislation.gov.uk/nia/2008/13)
 
-[^key-650a6b8afba7760d971ccd966391627b]: Commencement: Reg. 1 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-650a6b8afba7760d971ccd966391627b]: Commencement: Reg. 1 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
 [^f00003]: Footnote: Paragraph 35(2) and (3) was amended by paragraphs 17 and 18 of Schedule 6 to the Pensions (No. 2) Act (Northern Ireland) 2008
 
 [^f00004]: Footnote: [S.R. 1996 No. 467](https://www.legislation.gov.uk/nisr/1996/467)
 
-[^key-f9ba9cc64098688dc35f685be94faca6]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/2) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [111](https://www.legislation.gov.uk/uksi/2019/1514/regulation/111) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-f9ba9cc64098688dc35f685be94faca6]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/2) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [111](https://www.legislation.gov.uk/uksi/2019/1514/regulation/111) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^f00005]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15)
 
 [^f00006]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80); paragraph 2 of Schedule 1 was amended by section 1 of the St Andrew’s Day Bank Holiday (Scotland) Act [2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2)
 
-[^key-461823051f0ba221ff0a71fb5892cd5f]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/3) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [10(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/10/2)
+[^c-461823051f0ba221ff0a71fb5892cd5f]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/3) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [10(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/10/2)
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-4e64d6fad5195e3294b450a36d2e2969]: Commencement: Reg. 2 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-4e64d6fad5195e3294b450a36d2e2969]: Commencement: Reg. 2 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-eabe2b131db448969aef2c77754f93c0]: Commencement: Reg. 3 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-eabe2b131db448969aef2c77754f93c0]: Commencement: Reg. 3 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-fbf18eec2425ddb0ba64531bb4f13803]: Commencement: Reg. 4 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-fbf18eec2425ddb0ba64531bb4f13803]: Commencement: Reg. 4 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
 [^f00008]: Footnote: [1985 c. 37](https://www.legislation.gov.uk/ukpga/1985/37); section 8 is amended for the purposes of pension compensation on divorce etc. by paragraphs 1 and 2 of Schedule 7 to the Pensions Act [2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30)
 
-[^key-059baf87c590181b66edfd941f835849]: Commencement: Reg. 5 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-059baf87c590181b66edfd941f835849]: Commencement: Reg. 5 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147); Article 25(1) was amended by paragraph 110 of Schedule 29 to the [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33)
 
@@ -857,83 +857,83 @@ An assessment of the impact of the legislative changes made by Part 3 of the Act
 
 [^f00022]: Footnote: [1980 c. 46](https://www.legislation.gov.uk/ukpga/1980/46); section 41 was amended by paragraph 19 of Schedule 1 to the Law Reform (Miscellaneous Provisions) (Scotland) Act [1985 (c. 73)](https://www.legislation.gov.uk/ukpga/1985/73)
 
-[^key-6114e3e72a963e5f2ad3df9b6167c575]: Commencement: Reg. 6 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-6114e3e72a963e5f2ad3df9b6167c575]: Commencement: Reg. 6 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-fca8540c271c70d449c56c8d8c636409]: Commencement: Reg. 7 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-fca8540c271c70d449c56c8d8c636409]: Commencement: Reg. 7 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-153722f553afbf9641bd044f22c7679d]: Commencement: Reg. 8 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-153722f553afbf9641bd044f22c7679d]: Commencement: Reg. 8 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-cc400dca2a87a763c6557b8dc52dd4ee]: Commencement: Reg. 9 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-cc400dca2a87a763c6557b8dc52dd4ee]: Commencement: Reg. 9 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-bf5828dacd4e55d0178ef97590ea9062]: Commencement: Reg. 10 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-bf5828dacd4e55d0178ef97590ea9062]: Commencement: Reg. 10 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-aaae78ec725f6a7ceaf6dd93ee074da5]: Commencement: Reg. 11 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-aaae78ec725f6a7ceaf6dd93ee074da5]: Commencement: Reg. 11 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-a6a52796eea2546e430c34cdb0ecf807]: Commencement: Reg. 12 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-a6a52796eea2546e430c34cdb0ecf807]: Commencement: Reg. 12 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-c340416d223abdb6b8c4fb67327446ab]: Commencement: Reg. 13 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-c340416d223abdb6b8c4fb67327446ab]: Commencement: Reg. 13 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-ed679f3967a520e0ba6ca6275ed2d8cd]: Commencement: Reg. 14 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-ed679f3967a520e0ba6ca6275ed2d8cd]: Commencement: Reg. 14 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-fc8ce9c5777ca3a3a6c4b7fa60cc7af8]: Textual amendment: Words in [reg. 14(1)(c)](https://www.legislation.gov.uk/nisr/2011/113/regulation/14/1/c) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [10(3)](https://www.legislation.gov.uk/nisr/2013/95/regulation/10/3)
+[^c-fc8ce9c5777ca3a3a6c4b7fa60cc7af8]: Textual amendment: Words in [reg. 14(1)(c)](https://www.legislation.gov.uk/nisr/2011/113/regulation/14/1/c) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [10(3)](https://www.legislation.gov.uk/nisr/2013/95/regulation/10/3)
 
-[^key-2094ab89a2942ab7f9f23b9728950ac5]: Commencement: Reg. 15 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-2094ab89a2942ab7f9f23b9728950ac5]: Commencement: Reg. 15 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-910c49049447143ed1d332b7afb03ce0]: Commencement: Reg. 16 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-910c49049447143ed1d332b7afb03ce0]: Commencement: Reg. 16 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-67d2697b447a52e3f7d9f022fdb81e41]: Commencement: Reg. 17 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-67d2697b447a52e3f7d9f022fdb81e41]: Commencement: Reg. 17 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-6d2b4aae84adef4f736157b43718daa9]: Commencement: Reg. 18 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-6d2b4aae84adef4f736157b43718daa9]: Commencement: Reg. 18 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-8de91e6d000c255889ad950ca539bd90]: Commencement: Reg. 19 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-8de91e6d000c255889ad950ca539bd90]: Commencement: Reg. 19 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-ae5962428494064abe0e13806ad64bbe]: Commencement: Reg. 20 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-ae5962428494064abe0e13806ad64bbe]: Commencement: Reg. 20 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-804a422ed72eeb2e597b428aea606895]: Textual amendment: Words in [reg. 20(3)(b)](https://www.legislation.gov.uk/nisr/2011/113/regulation/20/3/b) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [10(4)](https://www.legislation.gov.uk/nisr/2013/95/regulation/10/4)
+[^c-804a422ed72eeb2e597b428aea606895]: Textual amendment: Words in [reg. 20(3)(b)](https://www.legislation.gov.uk/nisr/2011/113/regulation/20/3/b) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [10(4)](https://www.legislation.gov.uk/nisr/2013/95/regulation/10/4)
 
-[^key-c2e7f9849a263a20f81f6edab65dabc9]: Commencement: Reg. 21 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-c2e7f9849a263a20f81f6edab65dabc9]: Commencement: Reg. 21 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-84f57fc268085bca8d0682a89d3a1a0c]: Commencement: Reg. 22 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-84f57fc268085bca8d0682a89d3a1a0c]: Commencement: Reg. 22 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-04720ef1c6c53a9eb99ec70836942590]: Commencement: Reg. 23 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-04720ef1c6c53a9eb99ec70836942590]: Commencement: Reg. 23 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
 [^f00023]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15)
 
-[^key-8749f7442e11fb5a952c397ca02c57e0]: Commencement: Reg. 24 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-8749f7442e11fb5a952c397ca02c57e0]: Commencement: Reg. 24 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-2b0ef4a8351c6a8a1719525336989b1d]: Commencement: Reg. 25 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-2b0ef4a8351c6a8a1719525336989b1d]: Commencement: Reg. 25 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-654dabda0bce7babe14f3bfe2f5c89e4]: Commencement: Reg. 26 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-654dabda0bce7babe14f3bfe2f5c89e4]: Commencement: Reg. 26 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-451c8f2a376d4efd5db063f0e13620a1]: Textual amendment: Words in [reg. 26(2)(c)](https://www.legislation.gov.uk/nisr/2011/113/regulation/26/2/c) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [29(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/29/a)
+[^c-451c8f2a376d4efd5db063f0e13620a1]: Textual amendment: Words in [reg. 26(2)(c)](https://www.legislation.gov.uk/nisr/2011/113/regulation/26/2/c) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [29(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/29/a)
 
-[^key-250dcd5ce67349d7e02fa0c0b8a52923]: Textual amendment: Words in [reg. 26(5)](https://www.legislation.gov.uk/nisr/2011/113/regulation/26/5) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [29(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/29/b)
+[^c-250dcd5ce67349d7e02fa0c0b8a52923]: Textual amendment: Words in [reg. 26(5)](https://www.legislation.gov.uk/nisr/2011/113/regulation/26/5) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [29(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/29/b)
 
-[^key-d65f74e61df9639553d8838e1e5bac13]: Textual amendment: Word in [reg. 26(7)(b)](https://www.legislation.gov.uk/nisr/2011/113/regulation/26/7/b) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [10(5)(a)](https://www.legislation.gov.uk/nisr/2013/95/regulation/10/5/a)
+[^c-d65f74e61df9639553d8838e1e5bac13]: Textual amendment: Word in [reg. 26(7)(b)](https://www.legislation.gov.uk/nisr/2011/113/regulation/26/7/b) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [10(5)(a)](https://www.legislation.gov.uk/nisr/2013/95/regulation/10/5/a)
 
 [^f00024]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12)
 
-[^key-7a423df3eb6221c36a9a3790838c4657]: Textual amendment: Words in [reg. 26(8)](https://www.legislation.gov.uk/nisr/2011/113/regulation/26/8) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [29(c)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/29/c)
+[^c-7a423df3eb6221c36a9a3790838c4657]: Textual amendment: Words in [reg. 26(8)](https://www.legislation.gov.uk/nisr/2011/113/regulation/26/8) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [29(c)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/29/c)
 
-[^key-2d00e3310e2c50b12d61a9d3abba4646]: Textual amendment: Words in [reg. 26(8)](https://www.legislation.gov.uk/nisr/2011/113/regulation/26/8) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [10(5)(b)](https://www.legislation.gov.uk/nisr/2013/95/regulation/10/5/b)
+[^c-2d00e3310e2c50b12d61a9d3abba4646]: Textual amendment: Words in [reg. 26(8)](https://www.legislation.gov.uk/nisr/2011/113/regulation/26/8) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [10(5)(b)](https://www.legislation.gov.uk/nisr/2013/95/regulation/10/5/b)
 
-[^key-25a294f1eb05e7b8238fd183afea8983]: Commencement: Reg. 27 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-25a294f1eb05e7b8238fd183afea8983]: Commencement: Reg. 27 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-a44f18a39271d16f5461d7431b037093]: Commencement: Reg. 28 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-a44f18a39271d16f5461d7431b037093]: Commencement: Reg. 28 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-36f94f4a744331cf80fbb35d6c70940f]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/nisr/2011/113/part/8A) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [10(6)](https://www.legislation.gov.uk/nisr/2013/95/regulation/10/6)
+[^c-36f94f4a744331cf80fbb35d6c70940f]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/nisr/2011/113/part/8A) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [10(6)](https://www.legislation.gov.uk/nisr/2013/95/regulation/10/6)
 
-[^key-0420ca3cb06be8d33dfe6b82abebf8d3]: Commencement: Reg. 29 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-0420ca3cb06be8d33dfe6b82abebf8d3]: Commencement: Reg. 29 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-2262f2f6690ffd1f13a5dca8af09906c]: Commencement: Reg. 30 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-2262f2f6690ffd1f13a5dca8af09906c]: Commencement: Reg. 30 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-0136762da87ccda4218967b61adeeb2e]: Commencement: Reg. 31 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-0136762da87ccda4218967b61adeeb2e]: Commencement: Reg. 31 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-cb30248c7494f9e81ffe71e5031f74bd]: Commencement: Reg. 32 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-cb30248c7494f9e81ffe71e5031f74bd]: Commencement: Reg. 32 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
 [^f00025]: Footnote: Paragraph 16B was inserted by regulation 2(b) of [S.R. 2006 No. 156](https://www.legislation.gov.uk/nisr/2006/156)
 
-[^key-73eb936402ca41afe9f2c7d95ec00d1e]: Commencement: Reg. 33 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-73eb936402ca41afe9f2c7d95ec00d1e]: Commencement: Reg. 33 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
 [^f00026]: Footnote: [S.R. 2005 No. 138](https://www.legislation.gov.uk/nisr/2005/138); relevant amending Regulations are [S.R. 2005 No. 357](https://www.legislation.gov.uk/nisr/2005/357) and [S.R. 2006 No. 156](https://www.legislation.gov.uk/nisr/2006/156)
 
@@ -941,8 +941,8 @@ An assessment of the impact of the legislative changes made by Part 3 of the Act
 
 [^f00028]: Footnote: Paragraph 16B was inserted by regulation 4(3)(b) of [S.R. 2006 No. 156](https://www.legislation.gov.uk/nisr/2006/156)
 
-[^key-e6cc155807f1e5ef72a5e5f170b7e4ba]: Commencement: Sch. para. 1 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-e6cc155807f1e5ef72a5e5f170b7e4ba]: Commencement: Sch. para. 1 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-9c65f4e8110f7576f80c10cc122b366e]: Commencement: Sch. para. 2 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
+[^c-9c65f4e8110f7576f80c10cc122b366e]: Commencement: Sch. para. 2 in operation at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1)
 
-[^key-f5fa251bf280e8ff873d06ff23339092]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2011/113/schedule/paragraph/2) Table inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [10(7)](https://www.legislation.gov.uk/nisr/2013/95/regulation/10/7)
+[^c-f5fa251bf280e8ff873d06ff23339092]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2011/113/schedule/paragraph/2) Table inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [10(7)](https://www.legislation.gov.uk/nisr/2013/95/regulation/10/7)

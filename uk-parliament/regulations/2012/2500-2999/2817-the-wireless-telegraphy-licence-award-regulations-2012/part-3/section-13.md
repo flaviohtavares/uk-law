@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Determination of number of bidders[^key-119133bda8afbe806e848298eb0c1662]
+## 13. Determination of number of bidders[^c-119133bda8afbe806e848298eb0c1662]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-119133bda8afbe806e848298eb0c1662]: Commencement: Reg. 13 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-119133bda8afbe806e848298eb0c1662]: Commencement: Reg. 13 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

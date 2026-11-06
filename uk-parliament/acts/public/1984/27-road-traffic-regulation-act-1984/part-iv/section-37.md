@@ -34,7 +34,7 @@ where the order is, and is stated to be, made by virtue of this section and for 
 - (a) an order to which this section applies in so far as it has effect by virtue of section 1 of this Act, or
 - (b) an order revoking or varying such an order, in so far as the order revoked or varied has effect by virtue of that section,
 
-may, notwithstanding anything in that section, be made so as to apply to a road for which the Secretary of State[^c13551271] or a strategic highways company[^key-7a33d0a6579f15e7b0a587d8f9ee8eb7] is the traffic authority.
+may, notwithstanding anything in that section, be made so as to apply to a road for which the Secretary of State[^c13551271] or a strategic highways company[^c-7a33d0a6579f15e7b0a587d8f9ee8eb7] is the traffic authority.
 
 (4) No authority shall make an order to which this section applies unless they are satisfied that the general scheme of traffic control—
 
@@ -57,6 +57,6 @@ may, notwithstanding anything in that section, be made so as to apply to a road 
 
 [^c13551271]: Textual amendment: Words in s. 37(3) substituted (1.11.1991) by [New Roads and Street Works Act 1991 (c. 22, SIF 59, 108)](https://www.legislation.gov.uk/ukpga/1991/22), [s. 168(1)](https://www.legislation.gov.uk/ukpga/1991/22/section/168/1), [Sch. 8 para. 41(3)](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/41/3); which substitution is in force for Scotland only by [S.I. 1991/2286](https://www.legislation.gov.uk/uksi/1991/2286), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/2286/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/2286/schedule/2), and for England and Wales only by [S.I. 1991/2288](https://www.legislation.gov.uk/uksi/1991/2288), [art. 3](https://www.legislation.gov.uk/uksi/1991/2288/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/2288/schedule)
 
-[^key-7a33d0a6579f15e7b0a587d8f9ee8eb7]: Textual amendment: Words in s. 37(3) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 80](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/80); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-7a33d0a6579f15e7b0a587d8f9ee8eb7]: Textual amendment: Words in s. 37(3) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 80](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/80); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c13551281]: Textual amendment: Words in s. 37(4)(d) repealed (13.9.1996) by [S.I. 1996/1553](https://www.legislation.gov.uk/uksi/1996/1553), [art. 2(1)](https://www.legislation.gov.uk/uksi/1996/1553/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/1996/1553/schedule)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217. Financial terms of licence renewed under s. 216[^key-ba6a1b6d75724296350405b0733d268c]
+## 217. Financial terms of licence renewed under s. 216[^c-ba6a1b6d75724296350405b0733d268c]
 
 *Extent: E+W+S+N.I.*
 
-(1) The determination under section 216(4A)(b)[^key-5322b6eb2fb6cde1d6a41dae440cfbbe] must comprise—
+(1) The determination under section 216(4A)(b)[^c-5322b6eb2fb6cde1d6a41dae440cfbbe] must comprise—
 
 - (a) a determination of the amount which the holder of the renewed licence will be required by the conditions of that licence to pay to OFCOM in respect of the first complete calendar year falling within the renewal period; and
 - (b) a determination of the percentage of qualifying revenue for each accounting period of the licence holder falling within the renewal period which the holder of that licence will be required by those conditions to pay to OFCOM.
@@ -54,6 +54,6 @@ the amounts specified in subsection (5).
 
 ## Annotations
 
-[^key-ba6a1b6d75724296350405b0733d268c]: Commencement: S. 217 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-ba6a1b6d75724296350405b0733d268c]: Commencement: S. 217 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-5322b6eb2fb6cde1d6a41dae440cfbbe]: Textual amendment: Words in s. 217(1) substituted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 24(8)](https://www.legislation.gov.uk/ukpga/2010/24/section/24/8), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-5322b6eb2fb6cde1d6a41dae440cfbbe]: Textual amendment: Words in s. 217(1) substituted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 24(8)](https://www.legislation.gov.uk/ukpga/2010/24/section/24/8), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)

@@ -88,17 +88,17 @@ Section 110
 
 #### Road Traffic Offenders Act 1988 (c. 53)
 
-**8.**[^key-f2d089ffbe42a3c0f4d6d9782fcaaca0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f2d089ffbe42a3c0f4d6d9782fcaaca0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
 
-**9.**[^key-31c8ce5df212780236d1acbf5cad96c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-31c8ce5df212780236d1acbf5cad96c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-31c8ce5df212780236d1acbf5cad96c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-31c8ce5df212780236d1acbf5cad96c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-31c8ce5df212780236d1acbf5cad96c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-31c8ce5df212780236d1acbf5cad96c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-bd88390ecb3811af4c5ff4b3b62b7872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-bd88390ecb3811af4c5ff4b3b62b7872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### International Criminal Court Act 2001 (c. 17)
 
@@ -106,8 +106,8 @@ Section 110
 
 ## Annotations
 
-[^key-f2d089ffbe42a3c0f4d6d9782fcaaca0]: Textual amendment: [Sch. 13 para. 8](https://www.legislation.gov.uk/ukpga/2012/10/schedule/13/paragraph/8) omitted (13.4.2015) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 30(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/30/3), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/25)
+[^c-f2d089ffbe42a3c0f4d6d9782fcaaca0]: Textual amendment: [Sch. 13 para. 8](https://www.legislation.gov.uk/ukpga/2012/10/schedule/13/paragraph/8) omitted (13.4.2015) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 30(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/30/3), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/25)
 
-[^key-31c8ce5df212780236d1acbf5cad96c2]: Textual amendment: [Sch. 13 paras. 9-11](https://www.legislation.gov.uk/ukpga/2012/10/schedule/13/paragraph/9) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-31c8ce5df212780236d1acbf5cad96c2]: Textual amendment: [Sch. 13 paras. 9-11](https://www.legislation.gov.uk/ukpga/2012/10/schedule/13/paragraph/9) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-bd88390ecb3811af4c5ff4b3b62b7872]: Textual amendment: Sch. 13 para. 12 omitted (13.4.2015) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 30(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/30/3), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/25)
+[^c-bd88390ecb3811af4c5ff4b3b62b7872]: Textual amendment: Sch. 13 para. 12 omitted (13.4.2015) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 30(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/30/3), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/25)

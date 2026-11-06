@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Decisions not to investigate complaints or to discontinue investigations[^key-9949db760d87584d50643fc227d4a0b9]
+## 51. Decisions not to investigate complaints or to discontinue investigations[^c-9949db760d87584d50643fc227d4a0b9]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ the Ombudsman must prepare a statement of the reasons for that decision.
 
 ## Annotations
 
-[^key-9949db760d87584d50643fc227d4a0b9]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2019/3/section/51) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-9949db760d87584d50643fc227d4a0b9]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2019/3/section/51) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

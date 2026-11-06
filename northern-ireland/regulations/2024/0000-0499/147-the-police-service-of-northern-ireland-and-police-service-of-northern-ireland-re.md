@@ -46,29 +46,29 @@ In accordance with section 25(9)(a) of the 1998 Act, the Department of Justice h
 
 In accordance with section 72(2A)[^f00003] of the 1998 Act, the Department of Finance[^f00004] has consented to the making of these Regulations.
 
-## 1. Citation and commencement[^key-596cce3b8d87f3314de1cbe7da8e753b]
+## 1. Citation and commencement[^c-596cce3b8d87f3314de1cbe7da8e753b]
 
 These Regulations may be cited as the Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) (Amendment) (No. 2) Regulations 2024.
 
-**2.**[^key-a1522ae317870152a69dd627b2d3a6d1] These Regulations shall come into operation on 2nd July 2024 but regulation 6 shall have effect from 1st April 2021.
+**2.**[^c-a1522ae317870152a69dd627b2d3a6d1] These Regulations shall come into operation on 2nd July 2024 but regulation 6 shall have effect from 1st April 2021.
 
-## 3. Revocation of the Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) (Amendment) Regulations 2024[^key-40fdc1add00d312b89b95a4a47e31afc]
+## 3. Revocation of the Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) (Amendment) Regulations 2024[^c-40fdc1add00d312b89b95a4a47e31afc]
 
 The Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) (Amendment) Regulations 2024[^f00005] are revoked.
 
-## 4. Amendment of the Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) Regulations 2006[^key-3e08dd4d07df4301b7bb2a0d3c091454]
+## 4. Amendment of the Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) Regulations 2006[^c-3e08dd4d07df4301b7bb2a0d3c091454]
 
 The Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) Regulations 2006[^f00006] are amended in accordance with regulations 5 to 10.
 
-## 5. Pensionable and average pensionable pay and aggregate pension contributions[^key-6d1fd77ca7188482d16172a96b78de6c]
+## 5. Pensionable and average pensionable pay and aggregate pension contributions[^c-6d1fd77ca7188482d16172a96b78de6c]
 
 In regulation 3 (pensionable and average pensionable pay and aggregate pension contributions) at paragraph (A1)[^f00007] for “the 198 scheme” substitute “the 1988 scheme”.
 
-## 6. Members with 2015 scheme service[^key-043879917d04fd70e91956b6eb6f5d69][^key-446a2a58fea615f0dc9c734dd1d4afe4]
+## 6. Members with 2015 scheme service[^c-043879917d04fd70e91956b6eb6f5d69][^c-446a2a58fea615f0dc9c734dd1d4afe4]
 
 In regulation 3A (members with 2015 scheme service)[^f00008] at paragraph (5)(b) in the formula for “A x AP” substitute “P x AP”.
 
-## 7. Permanent disablement in relation to a 2015 scheme member[^key-7cdfae93d6a5e3496fa46d78a80845c4]
+## 7. Permanent disablement in relation to a 2015 scheme member[^c-7cdfae93d6a5e3496fa46d78a80845c4]
 
 In regulation 6A (permanent disablement in relation to a 2015 scheme member)[^f00009]–
 
@@ -86,11 +86,11 @@ In regulation 6A (permanent disablement in relation to a 2015 scheme member)[^f0
 
 .
 
-## 8. Abatement of certain gratuities in respect of gratuities otherwise payable[^key-ce82215fa7ca03a4c62d1f548e11b2cc]
+## 8. Abatement of certain gratuities in respect of gratuities otherwise payable[^c-ce82215fa7ca03a4c62d1f548e11b2cc]
 
 In regulation 21 (abatement of certain gratuities in respect of gratuities otherwise payable) at paragraph (2)(a)(iii)[^f00010] for “sums” substitute “sum”.
 
-## 9. Reference of medical questions[^key-7af40cae45472bb0994162647874bcd5]
+## 9. Reference of medical questions[^c-7af40cae45472bb0994162647874bcd5]
 
 In regulation 29 (reference of medical questions)–
 
@@ -102,7 +102,7 @@ In regulation 29 (reference of medical questions)–
 
 .
 
-## 10. Schedule 1 glossary of expressions[^key-e904d416989d51ab8d7a5f2b36a19227]
+## 10. Schedule 1 glossary of expressions[^c-e904d416989d51ab8d7a5f2b36a19227]
 
 In Schedule 1 (glossary of expressions)–
 
@@ -161,38 +161,38 @@ Regulation 3 revokes the Police Service of Northern Ireland and Police Service o
 
 [^f00004]: Footnote: Departments Act (Northern Ireland) [2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5). Section 1(4) renamed the Department of Finance and Personnel as the Department of Finance.
 
-[^key-596cce3b8d87f3314de1cbe7da8e753b]: Commencement: Reg. 1 in operation at 2.7.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2)
+[^c-596cce3b8d87f3314de1cbe7da8e753b]: Commencement: Reg. 1 in operation at 2.7.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2)
 
-[^key-a1522ae317870152a69dd627b2d3a6d1]: Commencement: Reg. 2 in operation at 2.7.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2)
+[^c-a1522ae317870152a69dd627b2d3a6d1]: Commencement: Reg. 2 in operation at 2.7.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2)
 
-[^key-40fdc1add00d312b89b95a4a47e31afc]: Commencement: Reg. 3 in operation at 2.7.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2)
+[^c-40fdc1add00d312b89b95a4a47e31afc]: Commencement: Reg. 3 in operation at 2.7.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2)
 
 [^f00005]: Footnote: The Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) (Amendment) Regulations 2024 whilst made were not laid and so do not have an S.R. number.
 
-[^key-3e08dd4d07df4301b7bb2a0d3c091454]: Commencement: Reg. 4 in operation at 2.7.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2)
+[^c-3e08dd4d07df4301b7bb2a0d3c091454]: Commencement: Reg. 4 in operation at 2.7.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2)
 
 [^f00006]: Footnote: [S.R. 2006 No.268](https://www.legislation.gov.uk/nisr/2006/268) as amended by [SR (NI) 2007/476](https://www.legislation.gov.uk/nisr/2016/476) (rev), [SR (NI) 2009/79](https://www.legislation.gov.uk/nisr/2009/79), [SR (NI) 2009/143](https://www.legislation.gov.uk/nisr/2009/143), [SR (NI) 2010/348](https://www.legislation.gov.uk/nisr/2010/348), [SR (NI) 2012/82](https://www.legislation.gov.uk/nisr/2012/82) (retrospective), [SI 2013/2318](https://www.legislation.gov.uk/uksi/2013/2318), [SR (NI) 2016/236](https://www.legislation.gov.uk/nisr/2016/236), [SR (NI) 2017/36](https://www.legislation.gov.uk/nisr/2017/36), [SR (NI) 2019/54, SI 2019/1514](https://www.legislation.gov.uk/nisr/2019/54), [SR (NI) 2020/13](https://www.legislation.gov.uk/nisr/2020/13), [SR (NI) 2021/43](https://www.legislation.gov.uk/nisr/2021/43), [SR (NI) 2022/129](https://www.legislation.gov.uk/nisr/2022/129), [SR (NI) 2022/217](https://www.legislation.gov.uk/nisr/2022/217), [SR (NI) 2023/64](https://www.legislation.gov.uk/nisr/2023/64) and [SI 2023/1267](https://www.legislation.gov.uk/uksi/2023/1267).
 
-[^key-6d1fd77ca7188482d16172a96b78de6c]: Commencement: Reg. 5 in operation at 2.7.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2)
+[^c-6d1fd77ca7188482d16172a96b78de6c]: Commencement: Reg. 5 in operation at 2.7.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2)
 
 [^f00007]: Footnote: Regulation 3(A1) was inserted by [S.R. (NI) 2021/43](https://www.legislation.gov.uk/nisr/2021/43) regulation 4(1).
 
-[^key-043879917d04fd70e91956b6eb6f5d69]: Commencement: Reg. 6 in operation at 2.7.2024 with effect in accordance with reg. 2
+[^c-043879917d04fd70e91956b6eb6f5d69]: Commencement: Reg. 6 in operation at 2.7.2024 with effect in accordance with reg. 2
 
-[^key-446a2a58fea615f0dc9c734dd1d4afe4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2024/147/regulation/6) in operation at 2.7.2024 with effect in accordance with, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2)
+[^c-446a2a58fea615f0dc9c734dd1d4afe4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2024/147/regulation/6) in operation at 2.7.2024 with effect in accordance with, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2)
 
 [^f00008]: Footnote: Regulation 3A was inserted by [S.R. (NI) 2021/43](https://www.legislation.gov.uk/nisr/2021/43) regulation 4(2).
 
-[^key-7cdfae93d6a5e3496fa46d78a80845c4]: Commencement: Reg. 7 in operation at 2.7.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2)
+[^c-7cdfae93d6a5e3496fa46d78a80845c4]: Commencement: Reg. 7 in operation at 2.7.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2)
 
 [^f00009]: Footnote: Regulation 6A was inserted by [S.R. (NI) 2021/43](https://www.legislation.gov.uk/nisr/2021/43) regulation 6.
 
-[^key-ce82215fa7ca03a4c62d1f548e11b2cc]: Commencement: Reg. 8 in operation at 2.7.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2)
+[^c-ce82215fa7ca03a4c62d1f548e11b2cc]: Commencement: Reg. 8 in operation at 2.7.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2)
 
 [^f00010]: Footnote: Regulation 21(2)(a)(iii) was inserted by [S.R. (NI) 2021/43](https://www.legislation.gov.uk/nisr/2021/43) regulation 10(c).
 
-[^key-7af40cae45472bb0994162647874bcd5]: Commencement: Reg. 9 in operation at 2.7.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2)
+[^c-7af40cae45472bb0994162647874bcd5]: Commencement: Reg. 9 in operation at 2.7.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2)
 
 [^f00011]: Footnote: Regulation 29(2) was amended by [S.R. (NI) 2021/43](https://www.legislation.gov.uk/nisr/2021/43) regulation 15(a).
 
-[^key-e904d416989d51ab8d7a5f2b36a19227]: Commencement: Reg. 10 in operation at 2.7.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2)
+[^c-e904d416989d51ab8d7a5f2b36a19227]: Commencement: Reg. 10 in operation at 2.7.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2)

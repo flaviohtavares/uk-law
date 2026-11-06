@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8.54. Stay of enforcement where appeal pending in state of origin[^key-01b7174459c6aa56f66a4c72a02166bc]
+## 8.54. Stay of enforcement where appeal pending in state of origin[^c-01b7174459c6aa56f66a4c72a02166bc]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-01b7174459c6aa56f66a4c72a02166bc]: Textual amendment: [Rules 8.33-8.63](https://www.legislation.gov.uk/nisr/1996/322/rule/8.33) substituted for [rules 8.33-8.48](https://www.legislation.gov.uk/nisr/1996/322/rule/8.33) (25.3.2011 for specified purposes, 1.11.2012 in so far as not already in operation) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/64)](https://www.legislation.gov.uk/nisr/2011/64), [rules 1](https://www.legislation.gov.uk/nisr/2011/64/article/1), [2(5)](https://www.legislation.gov.uk/nisr/2011/64/article/2/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2011/64/schedule/2)
+[^c-01b7174459c6aa56f66a4c72a02166bc]: Textual amendment: [Rules 8.33-8.63](https://www.legislation.gov.uk/nisr/1996/322/rule/8.33) substituted for [rules 8.33-8.48](https://www.legislation.gov.uk/nisr/1996/322/rule/8.33) (25.3.2011 for specified purposes, 1.11.2012 in so far as not already in operation) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/64)](https://www.legislation.gov.uk/nisr/2011/64), [rules 1](https://www.legislation.gov.uk/nisr/2011/64/article/1), [2(5)](https://www.legislation.gov.uk/nisr/2011/64/article/2/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2011/64/schedule/2)
 
 [^M_F_621fd0f2-4a07-46e8-ac78-ceeb6c7c0107]: Textual amendment: Words in rule 8.54(1)(a) omitted (31.12.2020) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/235)](https://www.legislation.gov.uk/nisr/2019/235), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/235/rule/1/1), [2(31)](https://www.legislation.gov.uk/nisr/2019/235/rule/2/31) (with [rule 3](https://www.legislation.gov.uk/nisr/2019/235/rule/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

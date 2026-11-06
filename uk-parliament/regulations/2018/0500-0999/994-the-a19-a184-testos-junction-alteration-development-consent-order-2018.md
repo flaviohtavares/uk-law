@@ -456,7 +456,7 @@ the undertaker must compensate the owners and occupiers of the building for any 
 
 - (a) survey or investigate the land;
 - (b) without limitation on the scope of sub-paragraph (a), make trial holes in such positions on the land as the undertaker thinks fit to investigate the nature of the surface layer and subsoil and remove soil samples;
-- (c) without limitation on [^key-ebb899bc08b9294970f872132e1643ea]...the scope of sub-paragraph (a), carry out ecological or archaeological investigations on such land; and
+- (c) without limitation on [^c-ebb899bc08b9294970f872132e1643ea]...the scope of sub-paragraph (a), carry out ecological or archaeological investigations on such land; and
 - (d) place on, leave on and remove from the land apparatus for use in connection with the survey and investigation of land and making of trial holes.
 
 (2) No land may be entered or equipment placed or left on or removed from the land under paragraph (1) unless at least 14 days' notice has been served on every owner and occupier of the land.
@@ -646,7 +646,7 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ### 29. Temporary use of land for carrying out the authorised development
 
-(1) The undertaker may, in connection with the carrying out of the authorised development, but subject to article 22[^key-34b2f480943052ec3e3849bf03ce338f] (time limit for the exercise of authority to acquire land compulsorily)—
+(1) The undertaker may, in connection with the carrying out of the authorised development, but subject to article 22[^c-34b2f480943052ec3e3849bf03ce338f] (time limit for the exercise of authority to acquire land compulsorily)—
 
 - (a) enter on and take temporary possession of—
   - (i) the land specified in column (1) of Schedule 7 (land of which temporary possession may be taken) for the purpose specified in relation to that land in column (2) of that Schedule relating to the part of the authorised development specified in column (3) of that Schedule; and
@@ -864,7 +864,7 @@ Schedule 9 (protective provisions) to the Order has effect.
 
 (3) A plan or document so certified will be admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
-(4)[^key-15dfb2e36c3112f2ce6c625363b1ea00]  The Testo’s plans as defined in the A19 Downhill Lane Junction Development Consent Order 2020 (the “latter Order”) are to be taken as plans or documents certified in accordance with paragraph (2) above once certified in accordance with article 41 (certification of documents, etc.) of the latter Order.
+(4)[^c-15dfb2e36c3112f2ce6c625363b1ea00]  The Testo’s plans as defined in the A19 Downhill Lane Junction Development Consent Order 2020 (the “latter Order”) are to be taken as plans or documents certified in accordance with paragraph (2) above once certified in accordance with article 41 (certification of documents, etc.) of the latter Order.
 
 ### 41. Service of notices
 
@@ -934,7 +934,7 @@ A nationally significant infrastructure project as defined in sections 14 and 22
 
 **Work No. 3** —The construction of a new southbound A19 on-slip 1,050 metres in length that originates at Testo's roundabout (Work No. 22) and ties into the new A19 dual carriageway (Work No. 2), as shown between points 2/9 on Sheet 2 and 1/4 on Sheet 1 of the Streets, Rights of Way and Access Plans, and associated works including embankments, cuttings, drainage facilities, roadside furniture, signage, electrical connections and strengthening.
 
-**[^key-f6f3f822d9d2049ae46acc09c613c0f3]...**
+**[^c-f6f3f822d9d2049ae46acc09c613c0f3]...**
 
 **Work No. 5** — The construction of a new northbound link road 1,035 metres in length tying into the existing Downhill Lane junction on-slip and terminating at the realigned Testo's roundabout (Work No. 22), as shown between points 1/2 on Sheet 1 and 2/13 on Sheet 2 of the Streets, Rights of Way and Access Plans, including embankments, cuttings, alterations to existing pavements and kerbs, drainage facilities, roadside furniture, signage, electrical connections and strengthening works.
 
@@ -1019,7 +1019,7 @@ Article 3
 In this Schedule—
 
 - “**contaminated land**” has the same meaning as that given in section 78A [^c23388641] of the Environmental Protection Act 1990;
-- “**European protected species**” has the same meaning as in article 42 and 46 of the Conservation of Habitats and Species Regulations 2017[^key-43abd2b75082784812f8cea237b2050e];
+- “**European protected species**” has the same meaning as in article 42 and 46 of the Conservation of Habitats and Species Regulations 2017[^c-43abd2b75082784812f8cea237b2050e];
 - “**HEMP**” means the handover environmental management plan;
 - “**the Manual of Contract Documents for Highway Works**” means the document of that name published electronically by or on behalf of the strategic highway authority for England or any equivalent replacement published for that document;
 - “**nationally protected species**” means any species protected under the Wildlife and Countryside Act 1981 [^c23388661]; and
@@ -1105,7 +1105,7 @@ The authorised development must commence not later than the expiration of 5 year
 
 #### 7. Protected species
 
-(1) No part of the authorised development is to commence until for that part, final pre-construction survey work has been carried out to establish whether European or nationally protected species are present on any of the land affected or likely to be affected by that part of the authorised development[^key-824927d37d11932819ffb011f5f1c924], or in any of the trees and shrubs to be lopped or felled as part of the relevant works.
+(1) No part of the authorised development is to commence until for that part, final pre-construction survey work has been carried out to establish whether European or nationally protected species are present on any of the land affected or likely to be affected by that part of the authorised development[^c-824927d37d11932819ffb011f5f1c924], or in any of the trees and shrubs to be lopped or felled as part of the relevant works.
 
 (2) Following pre-construction survey work or at any time when carrying out the authorised development, where—
 
@@ -1225,7 +1225,7 @@ Articles 11 and 15
 
 | *(1)**Public right of way* | *(2)**Extent* |
 | --- | --- |
-| Cycle track | [^key-a8613fa9fa753d3a2503650a84e1a0d5]. . . |
+| Cycle track | [^c-a8613fa9fa753d3a2503650a84e1a0d5]. . . |
 | Bridleway (including crossing facilities on the south side of the A184 circulatory carriageway) | Between points 2/2 and 2/19 as shown on Sheet 2 of the Streets, Rights of Way and Access Plans; crossing facilities are located between points 2/8 and 2/14 |
 | Footpath | Between points 2/6 and 2/14 as shown on Sheet 2 of the Streets, Rights of Way and Access Plans |
 | Footway | Between points 2/8 and 2/33 as shown on Sheet 2 of the Streets, Rights of Way and Access Plans |
@@ -1242,7 +1242,7 @@ Article 13
 
 | *(1)**Public right of way to be stopped up* | *(2)**Extent of stopping up* | *(3)**New highway to be substituted* |
 | --- | --- | --- |
-| The stopping up of public right of way B46 | From point 1/7 to 1/9[^key-d6c24e8f0e861ab6840a81bc624f1324] as shown on Sheet 1 of the Streets, Rights of Way and Access Plans | Work No. 6 |
+| The stopping up of public right of way B46 | From point 1/7 to 1/9[^c-d6c24e8f0e861ab6840a81bc624f1324] as shown on Sheet 1 of the Streets, Rights of Way and Access Plans | Work No. 6 |
 | The stopping up of public right of way B27 | From point 2/5 to 2/6 as shown on Sheet 2 of the Streets, Rights of Way and Access Plans | Work Nos. 13, 14 and 15 |
 | The stopping up of public right of way B28 | From point 2/23 to 2/34 as shown on Sheet 2 of the Streets, Rights of Way and Access Plans | Work Nos. 14, 17, 18, 19 and 20 |
 
@@ -1295,7 +1295,7 @@ Article 23(4) and (5)
 > - (b) the acquiring authority is subsequently required by a determination under paragraph 12 of Schedule 2A to the 1965 Act (as substituted by paragraph 5(8) of Schedule 6 to the 2018 Order) to acquire an interest in the land; and
 > - (c) the acquiring authority enters on and takes possession of that land,
 >
-> the authority is deemed for the purposes of subsection (3)(a)[^key-759a7bc583677b9e0564e79f5db29d4b] to have entered on that land when it entered on that land for the purpose of exercising that right.
+> the authority is deemed for the purposes of subsection (3)(a)[^c-759a7bc583677b9e0564e79f5db29d4b] to have entered on that land when it entered on that land for the purpose of exercising that right.
 
 .
 
@@ -1626,7 +1626,7 @@ The reference to a document in the table with a numbered regulation is a referen
 | Location Plan – Regulation 5(2)(o) | TR010020/APP/2.1 | 0 |
 | Scheme Layout Plan – Regulation 5(2)(o) | TR010020/APP/2.2 | 0 |
 | Land Plans – Regulation 5(4) | TR010020/APP/2.3(1) | 1 |
-| Works Plans – Regulation 5(4) | TR010020/APP/2.4(2) | 3[^key-05755a5491a724b7a81cdd48468749ce] |
+| Works Plans – Regulation 5(4) | TR010020/APP/2.4(2) | 3[^c-05755a5491a724b7a81cdd48468749ce] |
 | Streets, Rights of Way and Access Plans – Regulation 5(4) | TR010020/APP/2.5 | 2 |
 | Engineering Drawings and Sections – Regulations 5(2)(o), 5(4) and 6(2) | TR010020/APP/2.6(1) | 2 |
 | Environmental Masterplan – Regulation 5(2)(a) | TR010020 2.7(1) | 1 |
@@ -1729,7 +1729,7 @@ A copy of the plans, engineering drawings and sections, the book of reference, t
 
 [^c23388371]: Marginal citation: [Section 152](https://www.legislation.gov.uk/uksi/2018/994/section/152) was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
-[^key-ebb899bc08b9294970f872132e1643ea]: Textual amendment: Words in [art. 19(1)(c)](https://www.legislation.gov.uk/uksi/2018/994/article/19/1/c) omitted (15.5.2019) by virtue of [The A19/A184 Testos Junction Alteration (Correction) Order 2019 (S.I. 2019/941)](https://www.legislation.gov.uk/uksi/2019/941), [art. 1](https://www.legislation.gov.uk/uksi/2019/941/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/941/schedule)
+[^c-ebb899bc08b9294970f872132e1643ea]: Textual amendment: Words in [art. 19(1)(c)](https://www.legislation.gov.uk/uksi/2018/994/article/19/1/c) omitted (15.5.2019) by virtue of [The A19/A184 Testos Junction Alteration (Correction) Order 2019 (S.I. 2019/941)](https://www.legislation.gov.uk/uksi/2019/941), [art. 1](https://www.legislation.gov.uk/uksi/2019/941/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/941/schedule)
 
 [^c23388381]: Marginal citation: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
@@ -1765,7 +1765,7 @@ A copy of the plans, engineering drawings and sections, the book of reference, t
 
 [^c23388541]: Marginal citation: Subsection (4A) of section 153 was inserted by section 200(1) and (2) of the Housing and Planning Act 2016.
 
-[^key-34b2f480943052ec3e3849bf03ce338f]: Textual amendment: Words in [art. 29(1)](https://www.legislation.gov.uk/uksi/2018/994/article/29/1) substituted (15.5.2019) by [The A19/A184 Testos Junction Alteration (Correction) Order 2019 (S.I. 2019/941)](https://www.legislation.gov.uk/uksi/2019/941), [art. 1](https://www.legislation.gov.uk/uksi/2019/941/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/941/schedule)
+[^c-34b2f480943052ec3e3849bf03ce338f]: Textual amendment: Words in [art. 29(1)](https://www.legislation.gov.uk/uksi/2018/994/article/29/1) substituted (15.5.2019) by [The A19/A184 Testos Junction Alteration (Correction) Order 2019 (S.I. 2019/941)](https://www.legislation.gov.uk/uksi/2019/941), [art. 1](https://www.legislation.gov.uk/uksi/2019/941/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/941/schedule)
 
 [^c23388551]: Marginal citation: Section 13 was amended by sections 62(3) and 139 of, and paragraphs 27 and 28 of Schedule 13, and Part 3 of Schedule 23 to, the [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
@@ -1779,7 +1779,7 @@ A copy of the plans, engineering drawings and sections, the book of reference, t
 
 [^c23388601]: Marginal citation: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40). Section 61(9) was amended by section 162 of, and paragraph 15(1) and (3) of Schedule 3 to, the Environmental Protection Act [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). There are other amendments to this subsection which are not relevant to this Order.
 
-[^key-15dfb2e36c3112f2ce6c625363b1ea00]: Textual amendment: [Art. 40(4)](https://www.legislation.gov.uk/uksi/2018/994/article/40/4) inserted (coming into force in accordance with art. 36(1) of the amending S.I.) by [The A19 Downhill Lane Junction Development Consent Order 2020 (S.I. 2020/746)](https://www.legislation.gov.uk/uksi/2020/746), [art. 1](https://www.legislation.gov.uk/uksi/2020/746/article/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2020/746/schedule/8) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/746/article/5))
+[^c-15dfb2e36c3112f2ce6c625363b1ea00]: Textual amendment: [Art. 40(4)](https://www.legislation.gov.uk/uksi/2018/994/article/40/4) inserted (coming into force in accordance with art. 36(1) of the amending S.I.) by [The A19 Downhill Lane Junction Development Consent Order 2020 (S.I. 2020/746)](https://www.legislation.gov.uk/uksi/2020/746), [art. 1](https://www.legislation.gov.uk/uksi/2020/746/article/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2020/746/schedule/8) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/746/article/5))
 
 [^c23388611]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
@@ -1787,23 +1787,23 @@ A copy of the plans, engineering drawings and sections, the book of reference, t
 
 [^c23388631]: Marginal citation: Section 115(2) was amended by section 160(1) and (3) of the [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22). There are other amendments to section 115(2) but none are relevant.
 
-[^key-f6f3f822d9d2049ae46acc09c613c0f3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2018/994/schedule/1) omitted (coming into force in accordance with art. 36(1) of the amending S.I.) by virtue of [The A19 Downhill Lane Junction Development Consent Order 2020 (S.I. 2020/746)](https://www.legislation.gov.uk/uksi/2020/746), [art. 1](https://www.legislation.gov.uk/uksi/2020/746/article/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2020/746/schedule/8) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/746/article/5))
+[^c-f6f3f822d9d2049ae46acc09c613c0f3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2018/994/schedule/1) omitted (coming into force in accordance with art. 36(1) of the amending S.I.) by virtue of [The A19 Downhill Lane Junction Development Consent Order 2020 (S.I. 2020/746)](https://www.legislation.gov.uk/uksi/2020/746), [art. 1](https://www.legislation.gov.uk/uksi/2020/746/article/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2020/746/schedule/8) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/746/article/5))
 
 [^c23388641]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Section 78A was inserted by section 57 of the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) and amended by section 86(2) of the [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37).
 
-[^key-43abd2b75082784812f8cea237b2050e]: Textual amendment: Words in Sch. 2 para. 1 substituted (15.5.2019) by [The A19/A184 Testos Junction Alteration (Correction) Order 2019 (S.I. 2019/941)](https://www.legislation.gov.uk/uksi/2019/941), [art. 1](https://www.legislation.gov.uk/uksi/2019/941/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/941/schedule)
+[^c-43abd2b75082784812f8cea237b2050e]: Textual amendment: Words in Sch. 2 para. 1 substituted (15.5.2019) by [The A19/A184 Testos Junction Alteration (Correction) Order 2019 (S.I. 2019/941)](https://www.legislation.gov.uk/uksi/2019/941), [art. 1](https://www.legislation.gov.uk/uksi/2019/941/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/941/schedule)
 
 [^c23388661]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-824927d37d11932819ffb011f5f1c924]: Textual amendment: Words in Sch. 2 para. 7(1) substituted (15.5.2019) by [The A19/A184 Testos Junction Alteration (Correction) Order 2019 (S.I. 2019/941)](https://www.legislation.gov.uk/uksi/2019/941), [art. 1](https://www.legislation.gov.uk/uksi/2019/941/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/941/schedule)
+[^c-824927d37d11932819ffb011f5f1c924]: Textual amendment: Words in Sch. 2 para. 7(1) substituted (15.5.2019) by [The A19/A184 Testos Junction Alteration (Correction) Order 2019 (S.I. 2019/941)](https://www.legislation.gov.uk/uksi/2019/941), [art. 1](https://www.legislation.gov.uk/uksi/2019/941/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/941/schedule)
 
 [^c23388671]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-a8613fa9fa753d3a2503650a84e1a0d5]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2018/994/schedule/3) omitted (coming into force in accordance with art. 36(1) of the amending S.I.) by virtue of [The A19 Downhill Lane Junction Development Consent Order 2020 (S.I. 2020/746)](https://www.legislation.gov.uk/uksi/2020/746), [art. 1](https://www.legislation.gov.uk/uksi/2020/746/article/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2020/746/schedule/8) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/746/article/5))
+[^c-a8613fa9fa753d3a2503650a84e1a0d5]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2018/994/schedule/3) omitted (coming into force in accordance with art. 36(1) of the amending S.I.) by virtue of [The A19 Downhill Lane Junction Development Consent Order 2020 (S.I. 2020/746)](https://www.legislation.gov.uk/uksi/2020/746), [art. 1](https://www.legislation.gov.uk/uksi/2020/746/article/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2020/746/schedule/8) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/746/article/5))
 
-[^key-d6c24e8f0e861ab6840a81bc624f1324]: Textual amendment: Word in [Sch. 4](https://www.legislation.gov.uk/uksi/2018/994/schedule/4) substituted (coming into force in accordance with art. 36(1) of the amending S.I.) by [The A19 Downhill Lane Junction Development Consent Order 2020 (S.I. 2020/746)](https://www.legislation.gov.uk/uksi/2020/746), [art. 1](https://www.legislation.gov.uk/uksi/2020/746/article/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2020/746/schedule/8) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/746/article/5))
+[^c-d6c24e8f0e861ab6840a81bc624f1324]: Textual amendment: Word in [Sch. 4](https://www.legislation.gov.uk/uksi/2018/994/schedule/4) substituted (coming into force in accordance with art. 36(1) of the amending S.I.) by [The A19 Downhill Lane Junction Development Consent Order 2020 (S.I. 2020/746)](https://www.legislation.gov.uk/uksi/2020/746), [art. 1](https://www.legislation.gov.uk/uksi/2020/746/article/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2020/746/schedule/8) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/746/article/5))
 
-[^key-759a7bc583677b9e0564e79f5db29d4b]: Textual amendment: Words in Sch. 6 para. 2(2) substituted (15.5.2019) by [The A19/A184 Testos Junction Alteration (Correction) Order 2019 (S.I. 2019/941)](https://www.legislation.gov.uk/uksi/2019/941), [art. 1](https://www.legislation.gov.uk/uksi/2019/941/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/941/schedule)
+[^c-759a7bc583677b9e0564e79f5db29d4b]: Textual amendment: Words in Sch. 6 para. 2(2) substituted (15.5.2019) by [The A19/A184 Testos Junction Alteration (Correction) Order 2019 (S.I. 2019/941)](https://www.legislation.gov.uk/uksi/2019/941), [art. 1](https://www.legislation.gov.uk/uksi/2019/941/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/941/schedule)
 
 [^c23388681]: Marginal citation: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
@@ -1833,4 +1833,4 @@ A copy of the plans, engineering drawings and sections, the book of reference, t
 
 [^c23388811]: Marginal citation: See section 106. Section 106 was amended by section 4(3) to (9) of the [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
 
-[^key-05755a5491a724b7a81cdd48468749ce]: Textual amendment: Words in [Sch. 10](https://www.legislation.gov.uk/uksi/2018/994/schedule/10) substituted (coming into force in accordance with art. 36(1) of the amending S.I.) by [The A19 Downhill Lane Junction Development Consent Order 2020 (S.I. 2020/746)](https://www.legislation.gov.uk/uksi/2020/746), [art. 1](https://www.legislation.gov.uk/uksi/2020/746/article/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2020/746/schedule/8) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/746/article/5))
+[^c-05755a5491a724b7a81cdd48468749ce]: Textual amendment: Words in [Sch. 10](https://www.legislation.gov.uk/uksi/2018/994/schedule/10) substituted (coming into force in accordance with art. 36(1) of the amending S.I.) by [The A19 Downhill Lane Junction Development Consent Order 2020 (S.I. 2020/746)](https://www.legislation.gov.uk/uksi/2020/746), [art. 1](https://www.legislation.gov.uk/uksi/2020/746/article/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2020/746/schedule/8) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/746/article/5))

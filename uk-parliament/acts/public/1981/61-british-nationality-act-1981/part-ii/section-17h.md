@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17H. Acquisition by registration: descendants of those born in British Indian Ocean Territory[^key-c349d7967a5ac13df53208db550758c0]
+## 17H. Acquisition by registration: descendants of those born in British Indian Ocean Territory[^c-c349d7967a5ac13df53208db550758c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c349d7967a5ac13df53208db550758c0]: Textual amendment: [S. 17H](https://www.legislation.gov.uk/ukpga/1981/61/section/17H) inserted (23.11.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 3](https://www.legislation.gov.uk/ukpga/2022/36/section/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/1056](https://www.legislation.gov.uk/uksi/2022/1056), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1056/regulation/2/a)
+[^c-c349d7967a5ac13df53208db550758c0]: Textual amendment: [S. 17H](https://www.legislation.gov.uk/ukpga/1981/61/section/17H) inserted (23.11.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 3](https://www.legislation.gov.uk/ukpga/2022/36/section/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/1056](https://www.legislation.gov.uk/uksi/2022/1056), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1056/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Relationship between schemes and strategies[^key-56c0d8df498b01ba9a04555ad7cbd5ba][^key-89ae643c8fcac9d63e840fd3b07312fa]
+## 153. Relationship between schemes and strategies[^c-56c0d8df498b01ba9a04555ad7cbd5ba][^c-89ae643c8fcac9d63e840fd3b07312fa]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ In section 3 of the Homelessness Act 2002 (homelessness strategy) after subsecti
 
 ## Annotations
 
-[^key-56c0d8df498b01ba9a04555ad7cbd5ba]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2011/20/section/153) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(o)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/o) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-56c0d8df498b01ba9a04555ad7cbd5ba]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2011/20/section/153) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(o)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/o) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-89ae643c8fcac9d63e840fd3b07312fa]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2011/20/section/153) in force at 7.6.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/1463/article/2/g)
+[^c-89ae643c8fcac9d63e840fd3b07312fa]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2011/20/section/153) in force at 7.6.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/1463/article/2/g)

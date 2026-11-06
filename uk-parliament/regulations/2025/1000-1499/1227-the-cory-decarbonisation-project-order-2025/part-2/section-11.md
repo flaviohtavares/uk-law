@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Guarantees in respect of payment of compensation[^key-162bc6d2f54b1aa0f1f52e1c6982358b]
+## 11. Guarantees in respect of payment of compensation[^c-162bc6d2f54b1aa0f1f52e1c6982358b]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-162bc6d2f54b1aa0f1f52e1c6982358b]: Commencement: Art. 11 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-162bc6d2f54b1aa0f1f52e1c6982358b]: Commencement: Art. 11 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

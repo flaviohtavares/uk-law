@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Exemptions[^key-7eb0314457073beffbd5b4fb56c4b3a5]
+## 35. Exemptions[^c-7eb0314457073beffbd5b4fb56c4b3a5]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ it is satisfied that the health and safety of persons who are likely to be affec
 
 ## Annotations
 
-[^key-7eb0314457073beffbd5b4fb56c4b3a5]: Commencement: Reg. 35 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-7eb0314457073beffbd5b4fb56c4b3a5]: Commencement: Reg. 35 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

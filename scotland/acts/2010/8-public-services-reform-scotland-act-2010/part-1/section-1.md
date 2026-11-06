@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Transfer to Scottish Natural Heritage of functions of Deer Commission for Scotland[^key-e7b09c091cea07713a1142b142e22b9a]
+## 1. Transfer to Scottish Natural Heritage of functions of Deer Commission for Scotland[^c-e7b09c091cea07713a1142b142e22b9a]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7b09c091cea07713a1142b142e22b9a]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2010/8/section/1) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-e7b09c091cea07713a1142b142e22b9a]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2010/8/section/1) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

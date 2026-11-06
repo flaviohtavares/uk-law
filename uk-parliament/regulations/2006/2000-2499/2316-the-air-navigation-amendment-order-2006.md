@@ -32,7 +32,7 @@ summary: ''
 
 CIVIL AVIATION
 
-The Air Navigation (Amendment) Order 2006 (revoked)[^key-9d43632399e19564c932d2726310ec87]
+The Air Navigation (Amendment) Order 2006 (revoked)[^c-9d43632399e19564c932d2726310ec87]
 
 Made
 
@@ -52,24 +52,24 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-9d43632399e19564c932d2726310ec87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d43632399e19564c932d2726310ec87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9d43632399e19564c932d2726310ec87]
+## 1. Citation and commencement[^c-9d43632399e19564c932d2726310ec87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Air Navigation Order 2005[^key-9d43632399e19564c932d2726310ec87]
+## 2. Amendment of the Air Navigation Order 2005[^c-9d43632399e19564c932d2726310ec87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d43632399e19564c932d2726310ec87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d43632399e19564c932d2726310ec87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9d43632399e19564c932d2726310ec87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d43632399e19564c932d2726310ec87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9d43632399e19564c932d2726310ec87]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2006/2316) revoked (1.1.2010) by [The Air Navigation Order 2009 (S.I. 2009/3015)](https://www.legislation.gov.uk/uksi/2009/3015), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3015/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/3015/schedule/1)
+[^c-9d43632399e19564c932d2726310ec87]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2006/2316) revoked (1.1.2010) by [The Air Navigation Order 2009 (S.I. 2009/3015)](https://www.legislation.gov.uk/uksi/2009/3015), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3015/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/3015/schedule/1)

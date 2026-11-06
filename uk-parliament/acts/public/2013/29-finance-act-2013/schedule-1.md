@@ -24,9 +24,9 @@ Section 7
 
 ### Chargeable periods which straddle 1 January 2013
 
-**1.** (1) This paragraph applies in relation to a chargeable period which begins before 1 January 2013 and ends on or after that date but not later than the specified date[^key-672248d0131dc79253fe3bd709fc2ca3] (“the first straddling period”).
+**1.** (1) This paragraph applies in relation to a chargeable period which begins before 1 January 2013 and ends on or after that date but not later than the specified date[^c-672248d0131dc79253fe3bd709fc2ca3] (“the first straddling period”).
 
-(1A)[^key-30b3a3f35bf27ffb3317985d0d77b291] The specified date” means—
+(1A)[^c-30b3a3f35bf27ffb3317985d0d77b291] The specified date” means—
 
 - (a) for the purposes of corporation tax, 31 March 2014, and
 - (b) for the purposes of income tax, 5 April 2014.
@@ -75,18 +75,18 @@ were each treated as separate chargeable periods.
 
 ### Chargeable periods which straddle 1 January 2015
 
-**4.**[^key-eb8c93822aabf7c90ba88fb7e875068f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-eb8c93822aabf7c90ba88fb7e875068f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Operation of annual investment allowance where restrictions apply
 
-**5.** (1) Paragraphs 1 to 3[^key-0978e56da9236addab9af503f5e9e5c7] also apply for the purpose of determining the maximum allowance under section 51K of CAA 2001 (operation of annual investment allowance where restrictions apply) in a case where one or more chargeable periods in which the relevant AIA qualifying expenditure is incurred are chargeable periods within paragraph 1(1) [^key-c81d7d2f0c0ac406f68ef8bd63aff1a5]....
+**5.** (1) Paragraphs 1 to 3[^c-0978e56da9236addab9af503f5e9e5c7] also apply for the purpose of determining the maximum allowance under section 51K of CAA 2001 (operation of annual investment allowance where restrictions apply) in a case where one or more chargeable periods in which the relevant AIA qualifying expenditure is incurred are chargeable periods within paragraph 1(1) [^c-c81d7d2f0c0ac406f68ef8bd63aff1a5]....
 
-(2) There is to be taken into account for those purposes only chargeable periods of one year or less (whether or not they are chargeable periods within paragraph 1(1) [^key-8828ad89c22e3dfe5bb02c76365b6486]...), and, if there is more than one such period, only that period which gives rise to the greatest maximum allowance.
+(2) There is to be taken into account for those purposes only chargeable periods of one year or less (whether or not they are chargeable periods within paragraph 1(1) [^c-8828ad89c22e3dfe5bb02c76365b6486]...), and, if there is more than one such period, only that period which gives rise to the greatest maximum allowance.
 
 (3) For the purposes of sub-paragraph (2) any chargeable period which—
 
 - (a) is longer than a year, and
-- (b) ends in the tax year 2012-13, 2013-14, or 2014-15[^key-10979eb4c3a46ffe541d4c93870262ff] ,
+- (b) ends in the tax year 2012-13, 2013-14, or 2014-15[^c-10979eb4c3a46ffe541d4c93870262ff] ,
 
 is to be treated as being a chargeable period of one year ending at the same time as it actually ends.
 
@@ -98,16 +98,16 @@ is to be treated as being a chargeable period of one year ending at the same tim
 
 ## Annotations
 
-[^key-672248d0131dc79253fe3bd709fc2ca3]: Textual amendment: Words in Sch. 1 para. 1(1) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 2 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/2/paragraph/7/2/a)
+[^c-672248d0131dc79253fe3bd709fc2ca3]: Textual amendment: Words in Sch. 1 para. 1(1) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 2 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/2/paragraph/7/2/a)
 
-[^key-30b3a3f35bf27ffb3317985d0d77b291]: Textual amendment: Sch. 1 para. 1(1A) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 2 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/2/paragraph/7/2/b)
+[^c-30b3a3f35bf27ffb3317985d0d77b291]: Textual amendment: Sch. 1 para. 1(1A) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 2 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/2/paragraph/7/2/b)
 
-[^key-eb8c93822aabf7c90ba88fb7e875068f]: Textual amendment: Sch. 1 para. 4 omitted (17.7.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/2/paragraph/7/3)
+[^c-eb8c93822aabf7c90ba88fb7e875068f]: Textual amendment: Sch. 1 para. 4 omitted (17.7.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/2/paragraph/7/3)
 
-[^key-0978e56da9236addab9af503f5e9e5c7]: Textual amendment: Words in Sch. 1 para. 5(1) substituted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 2 para. 7(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/2/paragraph/7/4/a/i)
+[^c-0978e56da9236addab9af503f5e9e5c7]: Textual amendment: Words in Sch. 1 para. 5(1) substituted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 2 para. 7(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/2/paragraph/7/4/a/i)
 
-[^key-c81d7d2f0c0ac406f68ef8bd63aff1a5]: Textual amendment: Words in Sch. 1 para. 5(1) omitted (17.7.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 2 para. 7(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/2/paragraph/7/4/a/ii)
+[^c-c81d7d2f0c0ac406f68ef8bd63aff1a5]: Textual amendment: Words in Sch. 1 para. 5(1) omitted (17.7.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 2 para. 7(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/2/paragraph/7/4/a/ii)
 
-[^key-8828ad89c22e3dfe5bb02c76365b6486]: Textual amendment: Words in Sch. 1 para. 5(2) omitted (17.7.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 2 para. 7(4)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/2/paragraph/7/4/b)
+[^c-8828ad89c22e3dfe5bb02c76365b6486]: Textual amendment: Words in Sch. 1 para. 5(2) omitted (17.7.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 2 para. 7(4)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/2/paragraph/7/4/b)
 
-[^key-10979eb4c3a46ffe541d4c93870262ff]: Textual amendment: Words in Sch. 1 para. 5(3)(b) substituted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 2 para. 7(4)(c)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/2/paragraph/7/4/c)
+[^c-10979eb4c3a46ffe541d4c93870262ff]: Textual amendment: Words in Sch. 1 para. 5(3)(b) substituted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 2 para. 7(4)(c)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/2/paragraph/7/4/c)

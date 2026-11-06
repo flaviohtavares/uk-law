@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121A. Postponement of decree of dissolution where religious impediment to marry exists[^key-099480d663569e147f41adc75a08437d]
+## 121A. Postponement of decree of dissolution where religious impediment to marry exists[^c-099480d663569e147f41adc75a08437d]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ postpone the grant of decree in the action until it is satisfied that the other 
 
 ## Annotations
 
-[^key-099480d663569e147f41adc75a08437d]: Textual amendment: [S. 121A](https://www.legislation.gov.uk/ukpga/2004/33/section/121A) inserted (1.2.2021 for specified purposes, 1.6.2021 in so far as not already in force) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [ss. 11(2)](https://www.legislation.gov.uk/asp/2020/15/section/11/2), [16](https://www.legislation.gov.uk/asp/2020/15/section/16); [S.S.I. 2020/414](https://www.legislation.gov.uk/ssi/2020/414), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2020/414/regulation/2/1/c); [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-099480d663569e147f41adc75a08437d]: Textual amendment: [S. 121A](https://www.legislation.gov.uk/ukpga/2004/33/section/121A) inserted (1.2.2021 for specified purposes, 1.6.2021 in so far as not already in force) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [ss. 11(2)](https://www.legislation.gov.uk/asp/2020/15/section/11/2), [16](https://www.legislation.gov.uk/asp/2020/15/section/16); [S.S.I. 2020/414](https://www.legislation.gov.uk/ssi/2020/414), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2020/414/regulation/2/1/c); [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))

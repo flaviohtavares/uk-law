@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32H. Orders under section 32F: deductions and payments[^key-dc53b5369fd8d40a3547f604c026b30b]
+## 32H. Orders under section 32F: deductions and payments[^c-dc53b5369fd8d40a3547f604c026b30b]
 
 *Extent: E+W+S*
 
 (1) Once the relevant period has ended, an order under section 32F which specifies an account held with a deposit-taker shall operate as an instruction to the deposit-taker—
 
-- (a) if the amount standing to the credit of the account is less than the remaining amount, to pay to the Secretary of State[^key-e6efa0ec2f2e7ca5cebe8cca3ab60484] the amount standing to the credit of the account; and
+- (a) if the amount standing to the credit of the account is less than the remaining amount, to pay to the Secretary of State[^c-e6efa0ec2f2e7ca5cebe8cca3ab60484] the amount standing to the credit of the account; and
 - (b) otherwise, to deduct from the account and pay to the Secretary of State the remaining amount.
 
 (2) If an amount of arrears specified in the order remains unpaid after any payment required by subsection (1) has been made, the order shall operate until the relevant time as an instruction to the deposit-taker—
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc53b5369fd8d40a3547f604c026b30b]: Textual amendment: [Ss. 32E-32K](https://www.legislation.gov.uk/ukpga/1991/48/section/32E) inserted (1.6.2009 for specified purposes, 3.8.2009 in so far as not already in force) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 23](https://www.legislation.gov.uk/ukpga/2008/6/section/23), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2009/1314](https://www.legislation.gov.uk/uksi/2009/1314), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2009/1314/article/2/1/b)
+[^c-dc53b5369fd8d40a3547f604c026b30b]: Textual amendment: [Ss. 32E-32K](https://www.legislation.gov.uk/ukpga/1991/48/section/32E) inserted (1.6.2009 for specified purposes, 3.8.2009 in so far as not already in force) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 23](https://www.legislation.gov.uk/ukpga/2008/6/section/23), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2009/1314](https://www.legislation.gov.uk/uksi/2009/1314), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2009/1314/article/2/1/b)
 
-[^key-e6efa0ec2f2e7ca5cebe8cca3ab60484]: Textual amendment: Words in [s. 32H(1)-(4)](https://www.legislation.gov.uk/ukpga/1991/48/section/32H/1) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 39](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/39)
+[^c-e6efa0ec2f2e7ca5cebe8cca3ab60484]: Textual amendment: Words in [s. 32H(1)-(4)](https://www.legislation.gov.uk/ukpga/1991/48/section/32H/1) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 39](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/39)

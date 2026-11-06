@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Directions under section 12: supplementary provision[^key-3b271483e6955ad167f152c8375c7a73]
+## 13. Directions under section 12: supplementary provision[^c-3b271483e6955ad167f152c8375c7a73]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ as the Scottish Ministers may determine.
 
 ## Annotations
 
-[^key-3b271483e6955ad167f152c8375c7a73]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2010/5/section/13) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)
+[^c-3b271483e6955ad167f152c8375c7a73]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2010/5/section/13) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)

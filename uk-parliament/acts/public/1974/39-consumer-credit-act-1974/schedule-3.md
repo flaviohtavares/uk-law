@@ -44,17 +44,17 @@ Section 192(1).
 
 ### Part III of Act — Licensing of Credit and Hire Businesses
 
-#### ...[^key-02c0c62693623ae72402b52e3492cf27]
+#### ...[^c-02c0c62693623ae72402b52e3492cf27]
 
-**5.**[^key-02c0c62693623ae72402b52e3492cf27] ............................................................
+**5.**[^c-02c0c62693623ae72402b52e3492cf27] ............................................................
 
-#### ...[^key-02c0c62693623ae72402b52e3492cf27]
+#### ...[^c-02c0c62693623ae72402b52e3492cf27]
 
-**6.**[^key-02c0c62693623ae72402b52e3492cf27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-02c0c62693623ae72402b52e3492cf27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ...[^key-02c0c62693623ae72402b52e3492cf27]
+#### ...[^c-02c0c62693623ae72402b52e3492cf27]
 
-**7.**[^key-02c0c62693623ae72402b52e3492cf27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-02c0c62693623ae72402b52e3492cf27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part IV of Act — Seeking Business
 
@@ -70,9 +70,9 @@ Section 192(1).
 
 **10.** Section 50 comes into operation on 1st July 1977[^c2438001].
 
-#### ...[^key-bcd627039a22153c4ae8c4362411f5d7]
+#### ...[^c-bcd627039a22153c4ae8c4362411f5d7]
 
-**11.**[^key-bcd627039a22153c4ae8c4362411f5d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-bcd627039a22153c4ae8c4362411f5d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part V of Act — Entry into Credit or Hire Agreements
 
@@ -212,11 +212,11 @@ Section 192(1).
 
 ### Part X of Act — Ancillary Credit Businesses
 
-#### ...[^key-09aea5df9d4d0ba35cb1e64a17a304d0]
+#### ...[^c-09aea5df9d4d0ba35cb1e64a17a304d0]
 
 **May not be in force at this date. Check the source.**
 
-**44.**[^key-09aea5df9d4d0ba35cb1e64a17a304d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-09aea5df9d4d0ba35cb1e64a17a304d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### ...[^M_F_407bdd96-2da8-45af-9618-d6ede719617a]
 
@@ -224,11 +224,11 @@ Section 192(1).
 
 **45.**[^M_F_407bdd96-2da8-45af-9618-d6ede719617a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ...[^key-99bd7be4d43dc1b4e175bea981931603]
+#### ...[^c-99bd7be4d43dc1b4e175bea981931603]
 
 **May not be in force at this date. Check the source.**
 
-**46.**[^key-99bd7be4d43dc1b4e175bea981931603] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-99bd7be4d43dc1b4e175bea981931603] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Advertisements
 
@@ -263,7 +263,7 @@ section 185(2) shall have effect as respects a notice given before that day in r
 
 [^c2437911]: Textual amendment: Words substituted by [S.I. 1983/1551](https://www.legislation.gov.uk/uksi/1983/1551), [arts. 2(1)](https://www.legislation.gov.uk/uksi/1983/1551/article/2/1), [3](https://www.legislation.gov.uk/uksi/1983/1551/article/3)(*a*)(i)
 
-[^key-02c0c62693623ae72402b52e3492cf27]: Textual amendment: Sch. 3 paras. 5-7 and cross-headings omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(66)(a)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/66/a)
+[^c-02c0c62693623ae72402b52e3492cf27]: Textual amendment: Sch. 3 paras. 5-7 and cross-headings omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(66)(a)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/66/a)
 
 [^c2437981]: Textual amendment: Words substituted by [S.I. 1980/50](https://www.legislation.gov.uk/uksi/1980/50), [art. 3](https://www.legislation.gov.uk/uksi/1980/50/article/3)
 
@@ -271,7 +271,7 @@ section 185(2) shall have effect as respects a notice given before that day in r
 
 [^c2438001]: Textual amendment: Words substituted by [S.I. 1977/802](https://www.legislation.gov.uk/uksi/1977/802), [para. 3](https://www.legislation.gov.uk/uksi/1977/802/paragraph/3)
 
-[^key-bcd627039a22153c4ae8c4362411f5d7]: Textual amendment: Sch. 3 para. 11 and cross-heading omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(66)(b)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/66/b)
+[^c-bcd627039a22153c4ae8c4362411f5d7]: Textual amendment: Sch. 3 para. 11 and cross-heading omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(66)(b)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/66/b)
 
 [^c2438021]: Textual amendment: Words substituted by [S.I. 1977/325](https://www.legislation.gov.uk/uksi/1977/325), [art. 2 Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1977/325/article/2/schedule/1/paragraph/1)
 
@@ -337,10 +337,10 @@ section 185(2) shall have effect as respects a notice given before that day in r
 
 [^c2438431]: Textual amendment: Words substituted by [S.I. 1983/1551](https://www.legislation.gov.uk/uksi/1983/1551), [arts. 2(1)](https://www.legislation.gov.uk/uksi/1983/1551/article/2/1), [3](https://www.legislation.gov.uk/uksi/1983/1551/article/3)(*a*)(i)
 
-[^key-09aea5df9d4d0ba35cb1e64a17a304d0]: Textual amendment: Sch. 3 para. 44 and cross-heading omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(66)(c)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/66/c)
+[^c-09aea5df9d4d0ba35cb1e64a17a304d0]: Textual amendment: Sch. 3 para. 44 and cross-heading omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(66)(c)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/66/c)
 
 [^M_F_407bdd96-2da8-45af-9618-d6ede719617a]: Textual amendment: Sch. 3 para. 45 and cross-heading omitted (26.7.2013 for specified purposes) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(66)(c)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/66/c)
 
-[^key-99bd7be4d43dc1b4e175bea981931603]: Textual amendment: Sch. 3 para. 46 and cross-heading omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(66)(c)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/66/c)
+[^c-99bd7be4d43dc1b4e175bea981931603]: Textual amendment: Sch. 3 para. 46 and cross-heading omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(66)(c)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/66/c)
 
 [^c2438521]: Textual amendment: Words substituted by [S.I. 1983/1551](https://www.legislation.gov.uk/uksi/1983/1551), [art. 3](https://www.legislation.gov.uk/uksi/1983/1551/article/3)(*b*)

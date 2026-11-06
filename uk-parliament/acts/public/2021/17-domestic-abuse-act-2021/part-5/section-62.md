@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Special measures in criminal proceedings for offences involving domestic abuse[^key-1ea39d803f8929a34fec589695f68577]
+## 62. Special measures in criminal proceedings for offences involving domestic abuse[^c-1ea39d803f8929a34fec589695f68577]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ea39d803f8929a34fec589695f68577]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2021/17/section/62) in force at 19.5.2022 for specified purposes by [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [2(1)(a)](https://www.legislation.gov.uk/uksi/2022/553/regulation/2/1/a)
+[^c-1ea39d803f8929a34fec589695f68577]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2021/17/section/62) in force at 19.5.2022 for specified purposes by [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [2(1)(a)](https://www.legislation.gov.uk/uksi/2022/553/regulation/2/1/a)

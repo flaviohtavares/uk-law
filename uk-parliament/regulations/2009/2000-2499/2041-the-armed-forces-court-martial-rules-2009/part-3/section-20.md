@@ -30,7 +30,7 @@ no other person may be present.
 (2) While the court is deliberating on—
 
 - (a) sentence,
-- (aa)[^key-63f2fd005e842d09c648ca044a70e7a0] review of sentence under section 304D or 304E,
+- (aa)[^c-63f2fd005e842d09c648ca044a70e7a0] review of sentence under section 304D or 304E,
 - (b) an issue of fact being tried under rule 112,
 - (c) whether to make an activation order, or
 - (d) any other matter as respects which the judge advocate directs that this paragraph is to apply,
@@ -39,4 +39,4 @@ no other person may be present except a person in attendance for instruction.
 
 ## Annotations
 
-[^key-63f2fd005e842d09c648ca044a70e7a0]: Textual amendment: [Rule 20(2)(aa)](https://www.legislation.gov.uk/uksi/2009/2041/rule/20/2/aa) inserted (16.10.2024) by [The Armed Forces (Court Martial) (Amendment) Rules 2024 (S.I. 2024/1036)](https://www.legislation.gov.uk/uksi/2024/1036), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1036/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2024/1036/rule/5)
+[^c-63f2fd005e842d09c648ca044a70e7a0]: Textual amendment: [Rule 20(2)(aa)](https://www.legislation.gov.uk/uksi/2009/2041/rule/20/2/aa) inserted (16.10.2024) by [The Armed Forces (Court Martial) (Amendment) Rules 2024 (S.I. 2024/1036)](https://www.legislation.gov.uk/uksi/2024/1036), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1036/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2024/1036/rule/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Powers, etc., of licence holders[^key-35380e1bc8b834b482e9fcd45a11bffd]
+## 23. Powers, etc., of licence holders[^c-35380e1bc8b834b482e9fcd45a11bffd]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ In Article 13 (Powers, etc., of licence holders) of the Electricity Order—
 
 ## Annotations
 
-[^key-35380e1bc8b834b482e9fcd45a11bffd]: Commencement: Reg. 23 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-35380e1bc8b834b482e9fcd45a11bffd]: Commencement: Reg. 23 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

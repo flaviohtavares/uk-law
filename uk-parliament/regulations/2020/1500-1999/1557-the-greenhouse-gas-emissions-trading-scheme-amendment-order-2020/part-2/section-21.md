@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Article 37 substituted[^key-0a6a545d8ff0d11b540780714efd654f]
+## 21. Article 37 substituted[^c-0a6a545d8ff0d11b540780714efd654f]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ For article 37 substitute—
 
 ## Annotations
 
-[^key-0a6a545d8ff0d11b540780714efd654f]: Commencement: Art. 21 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-0a6a545d8ff0d11b540780714efd654f]: Commencement: Art. 21 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

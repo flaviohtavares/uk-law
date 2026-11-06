@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Amendments to Part 2 of Schedule 4 (information about related undertakings where LLP preparing non-IAS or IAS group accounts)[^key-e66f936d132ea8cb4041223b667ec7e6]
+## 44. Amendments to Part 2 of Schedule 4 (information about related undertakings where LLP preparing non-IAS or IAS group accounts)[^c-e66f936d132ea8cb4041223b667ec7e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ In Part 2 of Schedule 4 (information about related undertakings where LLP prepar
 
 ## Annotations
 
-[^key-e66f936d132ea8cb4041223b667ec7e6]: Commencement: Reg. 44 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-e66f936d132ea8cb4041223b667ec7e6]: Commencement: Reg. 44 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

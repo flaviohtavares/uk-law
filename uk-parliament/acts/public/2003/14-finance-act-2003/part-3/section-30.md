@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Demands for penalties[^key-a48636d87ac1fdc982243cb27db50b7d][^key-a59d45db876ca5682f6d477df2aff6d9]
+## 30. Demands for penalties[^c-a48636d87ac1fdc982243cb27db50b7d][^c-a59d45db876ca5682f6d477df2aff6d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 This subsection is subject to—
 
-- (a) any appeal under section 33[^key-01699687009adc164d60a0cf019d5631] (appeals to tribunal); and
+- (a) any appeal under section 33[^c-01699687009adc164d60a0cf019d5631] (appeals to tribunal); and
 - (b) subsection (3).
 
 (3) An amount so demanded is not recoverable if or to the extent that—
@@ -36,8 +36,8 @@ This subsection is subject to—
 
 ## Annotations
 
-[^key-a48636d87ac1fdc982243cb27db50b7d]: Commencement: S. 30 in force at 27.11.2003 by [S.I. 2003/2985](https://www.legislation.gov.uk/uksi/2003/2985), [art. 2](https://www.legislation.gov.uk/uksi/2003/2985/article/2)
+[^c-a48636d87ac1fdc982243cb27db50b7d]: Commencement: S. 30 in force at 27.11.2003 by [S.I. 2003/2985](https://www.legislation.gov.uk/uksi/2003/2985), [art. 2](https://www.legislation.gov.uk/uksi/2003/2985/article/2)
 
-[^key-a59d45db876ca5682f6d477df2aff6d9]: Modification: Ss. 29-41 applied (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 102(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/102/2)
+[^c-a59d45db876ca5682f6d477df2aff6d9]: Modification: Ss. 29-41 applied (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 102(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/102/2)
 
-[^key-01699687009adc164d60a0cf019d5631]: Textual amendment: Word in s. 30(2)(a) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 361](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/361)
+[^c-01699687009adc164d60a0cf019d5631]: Textual amendment: Word in s. 30(2)(a) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 361](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/361)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 143. Postponement or cancellation of dividend[^key-633d300b0640f5809955ac8d913d151e]
+## 143. Postponement or cancellation of dividend[^c-633d300b0640f5809955ac8d913d151e]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-633d300b0640f5809955ac8d913d151e]: Commencement: [Rule 143](https://www.legislation.gov.uk/nisr/2026/11/rule/143) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-633d300b0640f5809955ac8d913d151e]: Commencement: [Rule 143](https://www.legislation.gov.uk/nisr/2026/11/rule/143) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

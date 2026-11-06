@@ -53,7 +53,7 @@ These Regulations may be cited as the Registration of Establishments (Laying Hen
 
 —In these Regulations—
 
-- [^key-61c205c1aeb4371acc816d16c22444f3]...
+- [^c-61c205c1aeb4371acc816d16c22444f3]...
 - “establishment” means any site at which 350 or more laying hens are kept;
 - “laying hens” means hens of the species *Gallus gallus* which have reached maturity and are kept for the production of eggs not intended for hatching;
 - “local authority” means—
@@ -69,9 +69,9 @@ These Regulations may be cited as the Registration of Establishments (Laying Hen
 
 (1) The Secretary of State shall create and maintain a register of establishments.
 
-(2) The Secretary of State shall, within a reasonable time after receipt of an application, note an establishment on the register, allocate to the establishment a distinguishing number composed in accordance with paragraph (3)[^key-676f98dce91f8db932eaa3c479209d4e] and communicate that number to the applicant.
+(2) The Secretary of State shall, within a reasonable time after receipt of an application, note an establishment on the register, allocate to the establishment a distinguishing number composed in accordance with paragraph (3)[^c-676f98dce91f8db932eaa3c479209d4e] and communicate that number to the applicant.
 
-(3)[^key-84c4b61f6aaf274d69851a4e3d41cb99] The distinguishing number must be composed of the appropriate farming method code determined in accordance with paragraphs (5) to (7), followed by the letters “UK”, followed by a unique identification number allocated to the establishment by the Secretary of State.
+(3)[^c-84c4b61f6aaf274d69851a4e3d41cb99] The distinguishing number must be composed of the appropriate farming method code determined in accordance with paragraphs (5) to (7), followed by the letters “UK”, followed by a unique identification number allocated to the establishment by the Secretary of State.
 
 (4) Where it appears appropriate to the Secretary of State to do so, the Secretary of State may add further characters to the unique identification number required by paragraph (3) in order to identify single flocks kept in separated buildings of an establishment.
 
@@ -89,7 +89,7 @@ These Regulations may be cited as the Registration of Establishments (Laying Hen
 
 ## 4. Exchange of information
 
-(1) The Food Standards Agency [^key-aeebac5354e1d85b16e6519f2d1b2fa4]... shall have access to the register for the purpose of tracing eggs put on the market for human consumption.
+(1) The Food Standards Agency [^c-aeebac5354e1d85b16e6519f2d1b2fa4]... shall have access to the register for the purpose of tracing eggs put on the market for human consumption.
 
 (2) The local authority shall have access to the register for the purpose of enforcement of these Regulations.
 
@@ -138,9 +138,9 @@ he as well as the body corporate shall be guilty of an offence and be liable to 
 
 ## 10. Enforcement
 
-(1)[^key-2d1c91a4a43b7fcf725459939568aca8] These Regulations shall be enforced by the local authority or the Secretary of State.
+(1)[^c-2d1c91a4a43b7fcf725459939568aca8] These Regulations shall be enforced by the local authority or the Secretary of State.
 
-(2)[^key-efa74022c075fc98f62552bd6302aec9] The Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under these Regulations.
+(2)[^c-efa74022c075fc98f62552bd6302aec9] The Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under these Regulations.
 
 Ben Bradshaw
 
@@ -191,16 +191,16 @@ A Regulatory Impact Assessment has been prepared and placed in the Library of ea
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-61c205c1aeb4371acc816d16c22444f3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/3100/regulation/2) omitted (31.12.2020) by virtue of [The Animal Health and Welfare (Miscellaneous Amendments) (England) (EU Exit) Regulations 2018 (S.I. 2018/1033)](https://www.legislation.gov.uk/uksi/2018/1033), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-61c205c1aeb4371acc816d16c22444f3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/3100/regulation/2) omitted (31.12.2020) by virtue of [The Animal Health and Welfare (Miscellaneous Amendments) (England) (EU Exit) Regulations 2018 (S.I. 2018/1033)](https://www.legislation.gov.uk/uksi/2018/1033), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: S.I. [1994/867](https://www.legislation.gov.uk/uksi/1994/867), to which there are amendments not relevant to these Regulations.
 
-[^key-676f98dce91f8db932eaa3c479209d4e]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2003/3100/regulation/3/2) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (England) (EU Exit) Regulations 2018 (S.I. 2018/1033)](https://www.legislation.gov.uk/uksi/2018/1033), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-676f98dce91f8db932eaa3c479209d4e]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2003/3100/regulation/3/2) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (England) (EU Exit) Regulations 2018 (S.I. 2018/1033)](https://www.legislation.gov.uk/uksi/2018/1033), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-84c4b61f6aaf274d69851a4e3d41cb99]: Textual amendment: [Reg. 3(3)-(7)](https://www.legislation.gov.uk/uksi/2003/3100/regulation/3/3) inserted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (England) (EU Exit) Regulations 2018 (S.I. 2018/1033)](https://www.legislation.gov.uk/uksi/2018/1033), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84c4b61f6aaf274d69851a4e3d41cb99]: Textual amendment: [Reg. 3(3)-(7)](https://www.legislation.gov.uk/uksi/2003/3100/regulation/3/3) inserted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (England) (EU Exit) Regulations 2018 (S.I. 2018/1033)](https://www.legislation.gov.uk/uksi/2018/1033), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aeebac5354e1d85b16e6519f2d1b2fa4]: Textual amendment: Words in reg. 4(1) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 63](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/63)
+[^c-aeebac5354e1d85b16e6519f2d1b2fa4]: Textual amendment: Words in reg. 4(1) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 63](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/63)
 
-[^key-2d1c91a4a43b7fcf725459939568aca8]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/2003/3100/regulation/10/1): reg. 10 renumbered (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2012/2897/article/7/a)
+[^c-2d1c91a4a43b7fcf725459939568aca8]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/2003/3100/regulation/10/1): reg. 10 renumbered (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2012/2897/article/7/a)
 
-[^key-efa74022c075fc98f62552bd6302aec9]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2003/3100/regulation/10/2) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2012/2897/article/7/b)
+[^c-efa74022c075fc98f62552bd6302aec9]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2003/3100/regulation/10/2) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2012/2897/article/7/b)

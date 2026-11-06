@@ -23,7 +23,7 @@ summary: ''
 (1) In this Act—
 
 - “**the abolition date**” has the meaning given in section 1(2) above;
-- “[^key-598dc075b7024aa6fd534735162e8519]**CCA**” means a combined county authority established under Chapter 1 of Part 2 of the Levelling-up and Regeneration Act 2023;
+- “[^c-598dc075b7024aa6fd534735162e8519]**CCA**” means a combined county authority established under Chapter 1 of Part 2 of the Levelling-up and Regeneration Act 2023;
 - “**combined authority**” means a combined authority established under Part 6 of the Local Democracy, Economic Development and Construction Act 2009;
 - “**contract of employment**”, “**employee**” and “**employer**” have the same meaning as in the Employment Rights Act 1996[^c3166241];
 - “**joint authority**” means any authority established by Part IV of this Act;
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-598dc075b7024aa6fd534735162e8519]: Textual amendment: Words in s. 105(1) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 23 para. 5](https://www.legislation.gov.uk/ukpga/2026/23/schedule/23/paragraph/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-598dc075b7024aa6fd534735162e8519]: Textual amendment: Words in s. 105(1) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 23 para. 5](https://www.legislation.gov.uk/ukpga/2026/23/schedule/23/paragraph/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
 [^c3166241]: Textual amendment: Words in definition in s. 105(1) substituted (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 240](https://www.legislation.gov.uk/ukpga/1996/18/section/240), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 1 para. 26(3)](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1/paragraph/26/3) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 

@@ -34,8 +34,8 @@ summary: ''
 
   ,
 
-  [^key-15197b37be89f9c6c1aeef2d200cee44]...
-- (c)[^key-15197b37be89f9c6c1aeef2d200cee44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  [^c-15197b37be89f9c6c1aeef2d200cee44]...
+- (c)[^c-15197b37be89f9c6c1aeef2d200cee44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 56 of that Act (procedural requirements about orders)—
 
@@ -49,4 +49,4 @@ summary: ''
 
 [^c14882891]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-15197b37be89f9c6c1aeef2d200cee44]: Textual amendment: S. 226(1)(c) and preceding word repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-15197b37be89f9c6c1aeef2d200cee44]: Textual amendment: S. 226(1)(c) and preceding word repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)

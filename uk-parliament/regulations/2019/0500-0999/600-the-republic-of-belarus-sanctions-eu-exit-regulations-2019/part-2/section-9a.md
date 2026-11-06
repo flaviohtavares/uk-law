@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9A. Notification and publicity where power to designate by description is used[^key-3ce7498d98e5ce609dc64ff415c5e76f]
+## 9A. Notification and publicity where power to designate by description is used[^c-3ce7498d98e5ce609dc64ff415c5e76f]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ce7498d98e5ce609dc64ff415c5e76f]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2019/600/regulation/9A) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2022/748/regulation/10)
+[^c-3ce7498d98e5ce609dc64ff415c5e76f]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2019/600/regulation/9A) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2022/748/regulation/10)

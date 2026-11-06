@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Amendment of Schedule 1[^key-e16cbd1174803bde906379d62d39172d]
+## 9. Amendment of Schedule 1[^c-e16cbd1174803bde906379d62d39172d]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e16cbd1174803bde906379d62d39172d]: Commencement: Reg. 9 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-e16cbd1174803bde906379d62d39172d]: Commencement: Reg. 9 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)

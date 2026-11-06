@@ -60,7 +60,7 @@ the whole or any part of the costs of the prosecution, including any costs incur
 
 ## 3. Costs of defence in cases of acquittal, dismissal or discharge.
 
-(1) Subject to the provisions of this section and of section 6, any court before which a person is prosecuted or tried (including a magistrates' court conducting the preliminary inquiry into[^key-1831ccbf766d7dec1c0dbf5d2c2970ff] an indictable offence) or a judge of the Crown Court conducting a preparatory hearing under the Criminal Justice (Serious Fraud) (Northern Ireland) Order 1988[^c16856401], if—
+(1) Subject to the provisions of this section and of section 6, any court before which a person is prosecuted or tried (including a magistrates' court conducting the preliminary inquiry into[^c-1831ccbf766d7dec1c0dbf5d2c2970ff] an indictable offence) or a judge of the Crown Court conducting a preparatory hearing under the Criminal Justice (Serious Fraud) (Northern Ireland) Order 1988[^c16856401], if—
 
 - (a) the accused is acquitted; or
 - (b) the charge is dismissed, withdrawn or struck out; or
@@ -210,7 +210,7 @@ Nothing in this Act shall affect any other statutory provision requiring the pay
 
 [^c16856371]: Textual amendment: [2002 c.26](https://www.legislation.gov.uk/ukpga/2002/26)
 
-[^key-1831ccbf766d7dec1c0dbf5d2c2970ff]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/apni/1968/10/section/3/1) substituted (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 3](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/3); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-1831ccbf766d7dec1c0dbf5d2c2970ff]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/apni/1968/10/section/3/1) substituted (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 3](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/3); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
 [^c16856401]: Textual amendment: [1988 NI 16](https://www.legislation.gov.uk/1988/ni16)
 

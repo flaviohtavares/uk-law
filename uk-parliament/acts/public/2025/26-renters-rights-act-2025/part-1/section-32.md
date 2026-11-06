@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Accommodation for homeless people or students[^key-23935146a56e6c6556fe05860f897d9d]
+## 32. Accommodation for homeless people or students[^c-23935146a56e6c6556fe05860f897d9d]
 
 *Extent: E+W*
 
@@ -151,4 +151,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23935146a56e6c6556fe05860f897d9d]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2025/26/section/32) in force at 27.12.2025, see [s. 145(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/a)
+[^c-23935146a56e6c6556fe05860f897d9d]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2025/26/section/32) in force at 27.12.2025, see [s. 145(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/a)

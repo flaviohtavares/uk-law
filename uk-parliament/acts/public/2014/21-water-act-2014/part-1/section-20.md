@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Charges for moving pipes[^key-9b37ccd40546ea3278b72e22e97f991c]
+## 20. Charges for moving pipes[^c-9b37ccd40546ea3278b72e22e97f991c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 185 of the Water Industry Act 1991 (duty to move pipes etc in certain
 
 ## Annotations
 
-[^key-9b37ccd40546ea3278b72e22e97f991c]: Commencement: S. 20 in force at 1.4.2018 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(c)](https://www.legislation.gov.uk/uksi/2017/462/article/5/c) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14))
+[^c-9b37ccd40546ea3278b72e22e97f991c]: Commencement: S. 20 in force at 1.4.2018 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(c)](https://www.legislation.gov.uk/uksi/2017/462/article/5/c) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14))

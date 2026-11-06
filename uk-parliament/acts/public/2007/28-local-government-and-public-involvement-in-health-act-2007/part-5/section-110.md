@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Revision and addition of targets[^key-13a5fd7132922630d077b7d514320ef4]
+## 110. Revision and addition of targets[^c-13a5fd7132922630d077b7d514320ef4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13a5fd7132922630d077b7d514320ef4]: Textual amendment: Ss. 105-113 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 101(1)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/101/1/a), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)
+[^c-13a5fd7132922630d077b7d514320ef4]: Textual amendment: Ss. 105-113 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 101(1)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/101/1/a), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)

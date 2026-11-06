@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 75. Surplus fees[^key-450da682096024de1f6a05447e8aeebb][^key-db4b576c05bf5d5a4a004fba316b15a9]
+## 75. Surplus fees[^c-450da682096024de1f6a05447e8aeebb][^c-db4b576c05bf5d5a4a004fba316b15a9]
 
 *Extent: E+W+S*
 
@@ -31,9 +31,9 @@ summary: ''
 
 ## Annotations
 
-[^key-450da682096024de1f6a05447e8aeebb]: Commencement: Art. 75 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-450da682096024de1f6a05447e8aeebb]: Commencement: Art. 75 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-db4b576c05bf5d5a4a004fba316b15a9]: Commencement: [Art. 75](https://www.legislation.gov.uk/uksi/2018/1253/article/75) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-db4b576c05bf5d5a4a004fba316b15a9]: Commencement: [Art. 75](https://www.legislation.gov.uk/uksi/2018/1253/article/75) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00110]: Footnote: The OLC is the Office for Legal Complaints established by section 114 of the Legal Services Act [2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29).
 

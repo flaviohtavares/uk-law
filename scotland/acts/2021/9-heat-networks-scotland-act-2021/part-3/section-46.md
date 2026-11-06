@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Power to designate heat network zone[^key-dda86a926eb3af5e6ba76c670f020b18]
+## 46. Power to designate heat network zone[^c-dda86a926eb3af5e6ba76c670f020b18]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dda86a926eb3af5e6ba76c670f020b18]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2021/9/section/46) in force at 30.5.2023 by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/a)
+[^c-dda86a926eb3af5e6ba76c670f020b18]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2021/9/section/46) in force at 30.5.2023 by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Upgrading and sharing of apparatus installed before 29 December 2003[^key-8fe162bc92dfc70be8bb44efd6b451b6][^key-71d8706cd0151e638eb49252671d4027]
+## 59. Upgrading and sharing of apparatus installed before 29 December 2003[^c-8fe162bc92dfc70be8bb44efd6b451b6][^c-71d8706cd0151e638eb49252671d4027]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,6 +78,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8fe162bc92dfc70be8bb44efd6b451b6]: Commencement: S. 59 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-8fe162bc92dfc70be8bb44efd6b451b6]: Commencement: S. 59 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-71d8706cd0151e638eb49252671d4027]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2022/46/section/59) in force at 17.4.2023 by [S.I. 2023/109](https://www.legislation.gov.uk/uksi/2023/109), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/109/regulation/3/b)
+[^c-71d8706cd0151e638eb49252671d4027]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2022/46/section/59) in force at 17.4.2023 by [S.I. 2023/109](https://www.legislation.gov.uk/uksi/2023/109), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/109/regulation/3/b)

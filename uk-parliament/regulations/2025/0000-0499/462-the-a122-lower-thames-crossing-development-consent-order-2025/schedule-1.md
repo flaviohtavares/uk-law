@@ -22,7 +22,7 @@ summary: ''
 
 Article 2
 
-### PART 1 — AUTHORISED WORKS[^key-b9ba20041b1f680f74d1e63641a41d5c]
+### PART 1 — AUTHORISED WORKS[^c-b9ba20041b1f680f74d1e63641a41d5c]
 
 A nationally significant infrastructure project as defined in sections 14 (nationally significant infrastructure projects: general), 16 (electric lines)[^f00149], 20 (gas transporter pipe-lines) and 22 (highways)[^f00150] of the 2008 Act, and associated development as defined in section 115(2) (development for which development consent may be granted)[^f00151] of the 2008 Act, comprising—
 
@@ -351,7 +351,7 @@ Work No. 7 – as shown on sheets 26, 28, 29, 31, 32 and 33 of the works plans a
 - (g) Work No. 7G – as shown on sheets 29, 32 and 33 of the works plans and being the construction of new A122 Lower Thames Crossing link roads to the A13, to include—
   - (i) the construction of the new two-lane link road, between the southbound carriageway of the new A122 Lower Thames Crossing (Work No. 7A) and the improved Orsett Cock roundabout (Work No. 7F), 2,500 metres in length, as shown on sheets 32 and 33 of the rights of way and access plans (reference points 1/20 and 1/23);
   - (ii) the construction of a new bridge to carry the new link roads between the northbound carriageway of the new A122 Lower Thames Crossing and the eastbound carriageway of the improved A13 over the existing Baker Street;
-  - (iii) the construction of the new two-lane road, between the new link road (Work No. 7Gi) and the eastbound carriageway of the improved A13 trunk road (Work No. 7F), 600 metres[^key-d205f103e69ca6959f11f496a927f805] in length, as shown on sheet 32 of the rights of way and access plans (reference points 29/5 and 32/12);
+  - (iii) the construction of the new two-lane road, between the new link road (Work No. 7Gi) and the eastbound carriageway of the improved A13 trunk road (Work No. 7F), 600 metres[^c-d205f103e69ca6959f11f496a927f805] in length, as shown on sheet 32 of the rights of way and access plans (reference points 29/5 and 32/12);
   - (iv) the construction of the new two-lane link road, between the northbound carriageway of the new A122 Lower Thames Crossing (Work No. 7A) and the eastbound carriageway of the improved A13 trunk road (Work No. 7F), 2,500 metres in length, as shown on sheets 29 and 33 of the rights of way and access plans (reference points 1/24 and 1/18);
   - (v) the construction of a new bridge to carry the new link road between the northbound carriageway of the new A122 Lower Thames Crossing and the eastbound carriageway of the improved A13 over the new A122 Lower Thames Crossing (Work No. 7A); and
   - (vi) the construction of the new link road between the new A122 Lower Thames Crossing and the existing Orsett Cock roundabout, 450 metre in length, as shown on sheet 32 of the rights of way and access plans (reference points 29/5 and 30/2).
@@ -1175,7 +1175,7 @@ For the purposes of or in connection with the construction of any of the works a
 - (o) the provision of other works including pavement works, carriageway surfacing, kerbing and paved areas works, the modification or demolition of existing gantries, signs, signals road markings, traffic management measures including temporary roads, temporary earthworks and construction site accesses and such other works as are associated with the construction of the authorised development; and
 - (p) such other works, working sites storage areas, works of demolition or works of whatever nature, as may be necessary or expedient for the purposes of, or for purposes associated with or ancillary to, the construction, operation or maintenance of the authorised development.
 
-### PART 2 — WORKS TO SCHEDULED MONUMENTS[^key-e8bcec3646738896edf77dcd65069d1c]
+### PART 2 — WORKS TO SCHEDULED MONUMENTS[^c-e8bcec3646738896edf77dcd65069d1c]
 
 | Scheduled Monument | Archaeological works | Works Nos. |
 | --- | --- | --- |
@@ -1184,7 +1184,7 @@ For the purposes of or in connection with the construction of any of the works a
 
 ## Annotations
 
-[^key-b9ba20041b1f680f74d1e63641a41d5c]: Commencement: Sch. 1 Pt. 1 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-b9ba20041b1f680f74d1e63641a41d5c]: Commencement: Sch. 1 Pt. 1 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00149]: Footnote: Section 16 was amended by section 42(4) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [S.I. 2010/277](https://www.legislation.gov.uk/uksi/2010/277), [S.I. 2013/1479](https://www.legislation.gov.uk/uksi/2013/1479) and [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012).
 
@@ -1192,6 +1192,6 @@ For the purposes of or in connection with the construction of any of the works a
 
 [^f00151]: Footnote: Section 115 (2) was amended by section 106(1) and (3) of the Housing and Planning Act 2016.
 
-[^key-d205f103e69ca6959f11f496a927f805]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2025/462/schedule/1/part/1) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-d205f103e69ca6959f11f496a927f805]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2025/462/schedule/1/part/1) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
 
-[^key-e8bcec3646738896edf77dcd65069d1c]: Commencement: Sch. 1 Pt. 2 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-e8bcec3646738896edf77dcd65069d1c]: Commencement: Sch. 1 Pt. 2 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)

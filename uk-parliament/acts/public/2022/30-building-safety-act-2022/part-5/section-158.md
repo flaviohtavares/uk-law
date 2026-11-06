@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Architects: Appeals Committee[^key-fada1c68cea158a36bfff916655dea01]
+## 158. Architects: Appeals Committee[^c-fada1c68cea158a36bfff916655dea01]
 
 *Extent: E+W+S+N.I.*
 
@@ -108,4 +108,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fada1c68cea158a36bfff916655dea01]: Commencement: [S. 158](https://www.legislation.gov.uk/ukpga/2022/30/section/158) in force at 28.6.2022, see [s. 170(3)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/f)
+[^c-fada1c68cea158a36bfff916655dea01]: Commencement: [S. 158](https://www.legislation.gov.uk/ukpga/2022/30/section/158) in force at 28.6.2022, see [s. 170(3)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/f)

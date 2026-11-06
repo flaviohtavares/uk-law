@@ -382,19 +382,19 @@ Section 151
 
 **47.** (1) Section 140E (merger leaving assets within UK tax charge) is amended as follows.
 
-(2) In subsection (1)(b) for “society registered under the Industrial and Provident Societies Act 1965” substitute “ registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969[^key-9a3d0e300d8be7180da074fe3269c399] ”.
+(2) In subsection (1)(b) for “society registered under the Industrial and Provident Societies Act 1965” substitute “ registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969[^c-9a3d0e300d8be7180da074fe3269c399] ”.
 
-(3) In subsection (9)(a) for “society registered under the Industrial and Provident Societies Act 1965” substitute “ registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 , a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969[^key-65005439c7d1b1674d778da513aea599] ”.
+(3) In subsection (9)(a) for “society registered under the Industrial and Provident Societies Act 1965” substitute “ registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 , a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969[^c-65005439c7d1b1674d778da513aea599] ”.
 
-**48.** In section 140F(1)(b) (merger: assets outside UK tax charge) for “society registered under the Industrial and Provident Societies Act 1965” substitute “ registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969[^key-7ffbad366bea3bfe6e09086e6ecddcb7] ”.
+**48.** In section 140F(1)(b) (merger: assets outside UK tax charge) for “society registered under the Industrial and Provident Societies Act 1965” substitute “ registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969[^c-7ffbad366bea3bfe6e09086e6ecddcb7] ”.
 
-**49.** In section 140G(1)(b) (treatment of securities issued on merger) for “society registered under the Industrial and Provident Societies Act 1965” substitute “ registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969[^key-9a23f2d79d3983590f95768fb6d3618b] ”.
+**49.** In section 140G(1)(b) (treatment of securities issued on merger) for “society registered under the Industrial and Provident Societies Act 1965” substitute “ registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969[^c-9a23f2d79d3983590f95768fb6d3618b] ”.
 
 **50.** (1) Section 170 (interpretation of sections 171 to 181) is amended as follows.
 
-(2) In subsection (2)(c) for “registered industrial and provident society” substitute “ registered society (see section 1119 of that Act)[^key-05e685cb993bca99accc24823345ab35] ”.
+(2) In subsection (2)(c) for “registered industrial and provident society” substitute “ registered society (see section 1119 of that Act)[^c-05e685cb993bca99accc24823345ab35] ”.
 
-(3) In subsection (9)(c) for “registered industrial and provident society” substitute “ registered society (see section 1119 of CTA 2010)[^key-4fd7f92c84e3fbfdde2ce6f008962046] ”.
+(3) In subsection (9)(c) for “registered industrial and provident society” substitute “ registered society (see section 1119 of CTA 2010)[^c-4fd7f92c84e3fbfdde2ce6f008962046] ”.
 
 **51.** In the heading before section 217D for “Industrial and provident societies” substitute “ Registered societies ”.
 
@@ -404,7 +404,7 @@ Section 151
 
 .
 
-**53.** In Schedule 7AC (exemptions for disposals by companies with substantial shareholdings) in paragraph 26(4) for “registered industrial and provident society” substitute “ registered society (see section 1119 of that Act)[^key-ac7fb076d39e08b12cda4cd14cfc674e] ”.
+**53.** In Schedule 7AC (exemptions for disposals by companies with substantial shareholdings) in paragraph 26(4) for “registered industrial and provident society” substitute “ registered society (see section 1119 of that Act)[^c-ac7fb076d39e08b12cda4cd14cfc674e] ”.
 
 #### Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)
 
@@ -611,10 +611,10 @@ Section 151
 > (5) In sub-paragraph (4) “**registered co-operative society**” means—
 >
 > - (a) a society registered as a co-operative society under the Co-operative and Community Benefit Societies Act 2014,
-> - (b) a pre-commencement society (within the meaning of that Act) that is a co-operative society within the meaning of section 2 of that Act, [^key-ef85a0cf7ad53eb9b7a7064631909693]...
+> - (b) a pre-commencement society (within the meaning of that Act) that is a co-operative society within the meaning of section 2 of that Act, [^c-ef85a0cf7ad53eb9b7a7064631909693]...
 > - (c) a society registered or deemed to be registered under the Industrial and Provident Societies Act (Northern Ireland) 1969 that is a co-operative society within the meaning of section 1 of that Act
 >
->   , or[^key-9ca4772c6efaf7c7b2896cd6680ef4e2]
+>   , or[^c-9ca4772c6efaf7c7b2896cd6680ef4e2]
 > - (d) an SCE formed in accordance with Council Regulation [( EC ) No 1435/2003](https://www.legislation.gov.uk/european/regulation/2003/1435) on the Statute for a European Cooperative Society.
 
 y
@@ -699,9 +699,9 @@ y
 
 > “**registered society**” means—
 >
-> - (a) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, [^key-ec9e88150d88396a53f6b9b0053aa5a2]...
+> - (a) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, [^c-ec9e88150d88396a53f6b9b0053aa5a2]...
 > - (b) a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969,
-> - (c)[^key-c80656f7adcb908a215744c9d7c7f587] a society registered as a credit union under the Credit Unions (Northern Ireland) Order 1985 ( S.I. 1985/1205 (N.I. 12)), or
+> - (c)[^c-c80656f7adcb908a215744c9d7c7f587] a society registered as a credit union under the Credit Unions (Northern Ireland) Order 1985 ( S.I. 1985/1205 (N.I. 12)), or
 > - (d) an SCE formed in accordance with Council Regulation [( EC ) No 1435/2003](https://www.legislation.gov.uk/european/regulation/2003/1435) on the Statute for a European Cooperative Society,
 
 .
@@ -786,15 +786,15 @@ y
 
 > “**registered society**” means—
 >
-> - (a) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, [^key-7cb36f5d3474d37252cb0e83fbe63dc0]...
-> - (b) a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969, or[^key-fc5ef5a0671dafa00225db291af21977]
+> - (a) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, [^c-7cb36f5d3474d37252cb0e83fbe63dc0]...
+> - (b) a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969, or[^c-fc5ef5a0671dafa00225db291af21977]
 > - (c) an SCE formed in accordance with Council Regulation [( EC ) No 1435/2003](https://www.legislation.gov.uk/european/regulation/2003/1435) on the Statute for a European Cooperative Society,
 
 .
 
-**106.**[^key-9079970eccf6f618e60dd3531820a5b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**106.**[^c-9079970eccf6f618e60dd3531820a5b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**107.**[^key-9079970eccf6f618e60dd3531820a5b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**107.**[^c-9079970eccf6f618e60dd3531820a5b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **108.** In section 853(2)(b)(iii) (meaning of “deposit-taker”) for “the Industrial and Provident Societies Act 1965” substitute “ the Co-operative and Community Benefit Societies Act 2014 ”.
 
@@ -812,9 +812,9 @@ y
 
 > (5) In this Chapter “**registered society**” means—
 >
-> - (a) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, [^key-deed16b2901fd4f262e3b98ebc3f0e19]...
+> - (a) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, [^c-deed16b2901fd4f262e3b98ebc3f0e19]...
 > - (b) a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969.
-> - (c)[^key-e0d53552c184c758df4b4d87934d1b38] a society registered as a credit union under the Credit Unions (Northern Ireland) Order 1985 ( S.I. 1985/1205 (N.I. 12)), or
+> - (c)[^c-e0d53552c184c758df4b4d87934d1b38] a society registered as a credit union under the Credit Unions (Northern Ireland) Order 1985 ( S.I. 1985/1205 (N.I. 12)), or
 > - (d) an SCE formed in accordance with Council Regulation [( EC ) No 1435/2003](https://www.legislation.gov.uk/european/regulation/2003/1435) on the Statute for a European Cooperative Society.
 
 **111.** In section 991(3)(c) (meaning of “bank”) for “the Industrial and Provident Societies Act 1965” substitute “ the Co-operative and Community Benefit Societies Act 2014 ”.
@@ -1106,8 +1106,8 @@ y
 
 > “**registered society**” means—
 >
-> - (a) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, [^key-318a86f8ea555f6581e9a884aab7a777]...
-> - (b) a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969, or[^key-9351def3f45b2d1c4d158e09053c9a0a]
+> - (a) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, [^c-318a86f8ea555f6581e9a884aab7a777]...
+> - (b) a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969, or[^c-9351def3f45b2d1c4d158e09053c9a0a]
 > - (c) an SCE formed in accordance with Council Regulation [( EC ) No 1435/2003](https://www.legislation.gov.uk/european/regulation/2003/1435) on the Statute for a European Cooperative Society,
 
 .
@@ -1148,7 +1148,7 @@ y
 >
 > - (a) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014,
 > - (b) a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969,
-> - (c)[^key-b82e5dc8a05bae839ec171c2e18fd506] a society registered as a credit union under the Credit Unions (Northern Ireland) Order 1985 ( S.I. 1985/1205 (N.I. 12)), or
+> - (c)[^c-b82e5dc8a05bae839ec171c2e18fd506] a society registered as a credit union under the Credit Unions (Northern Ireland) Order 1985 ( S.I. 1985/1205 (N.I. 12)), or
 > - (d) an SCE formed in accordance with Council Regulation [( EC ) No 1435/2003](https://www.legislation.gov.uk/european/regulation/2003/1435) on the Statute for a European Cooperative Society,
 
 .
@@ -1171,9 +1171,9 @@ y
 
 **171.** (1) Section 118 of the Taxation (International and Other Provisions) Act 2010 (introduction to section 119) is amended as follows.
 
-(2) In subsection (2)(b) for “society registered under the Industrial and Provident Societies Act 1965” substitute “ registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969[^key-b8bc45bc587582b5b2bede37ef8e42bf] ”.
+(2) In subsection (2)(b) for “society registered under the Industrial and Provident Societies Act 1965” substitute “ registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969[^c-b8bc45bc587582b5b2bede37ef8e42bf] ”.
 
-(3) In subsection (11) in the definition of “co-operative society” for “society registered under the Industrial and Provident Societies Act 1965” substitute “ registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 , a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969[^key-80fe6dc5d7abe92cb221828684679886] ”.
+(3) In subsection (11) in the definition of “co-operative society” for “society registered under the Industrial and Provident Societies Act 1965” substitute “ registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 , a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969[^c-80fe6dc5d7abe92cb221828684679886] ”.
 
 #### Finance Act 2010 (c. 13)
 
@@ -1237,44 +1237,44 @@ y
 
 ## Annotations
 
-[^key-9a3d0e300d8be7180da074fe3269c399]: Textual amendment: Words in Sch. 4 para. 47(2) inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 3(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/3/a), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
+[^c-9a3d0e300d8be7180da074fe3269c399]: Textual amendment: Words in Sch. 4 para. 47(2) inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 3(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/3/a), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
 
-[^key-65005439c7d1b1674d778da513aea599]: Textual amendment: Words in Sch. 4 para. 47(3) inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 3(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/3/b), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
+[^c-65005439c7d1b1674d778da513aea599]: Textual amendment: Words in Sch. 4 para. 47(3) inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 3(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/3/b), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
 
-[^key-7ffbad366bea3bfe6e09086e6ecddcb7]: Textual amendment: Words in Sch. 4 para. 48 inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 4](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/4), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
+[^c-7ffbad366bea3bfe6e09086e6ecddcb7]: Textual amendment: Words in Sch. 4 para. 48 inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 4](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/4), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
 
-[^key-9a23f2d79d3983590f95768fb6d3618b]: Textual amendment: Words in Sch. 4 para. 49 inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/5), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
+[^c-9a23f2d79d3983590f95768fb6d3618b]: Textual amendment: Words in Sch. 4 para. 49 inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/5), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
 
-[^key-05e685cb993bca99accc24823345ab35]: Textual amendment: Words in Sch. 4 para. 50(2) substituted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 6(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/6/a),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
+[^c-05e685cb993bca99accc24823345ab35]: Textual amendment: Words in Sch. 4 para. 50(2) substituted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 6(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/6/a),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
 
-[^key-4fd7f92c84e3fbfdde2ce6f008962046]: Textual amendment: Words in Sch. 4 para. 50(3) substituted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 6(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/6/b),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
+[^c-4fd7f92c84e3fbfdde2ce6f008962046]: Textual amendment: Words in Sch. 4 para. 50(3) substituted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 6(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/6/b),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
 
-[^key-ac7fb076d39e08b12cda4cd14cfc674e]: Textual amendment: Words in Sch. 4 para. 53 substituted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 7](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/7)[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
+[^c-ac7fb076d39e08b12cda4cd14cfc674e]: Textual amendment: Words in Sch. 4 para. 53 substituted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 7](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/7)[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
 
-[^key-ef85a0cf7ad53eb9b7a7064631909693]: Textual amendment: Word in Sch. 4 para. 82(3) omitted (1.8.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 8(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/8/a),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
+[^c-ef85a0cf7ad53eb9b7a7064631909693]: Textual amendment: Word in Sch. 4 para. 82(3) omitted (1.8.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 8(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/8/a),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
 
-[^key-9ca4772c6efaf7c7b2896cd6680ef4e2]: Textual amendment: Words in Sch. 4 para. 82(3) inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 8(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/8/b),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
+[^c-9ca4772c6efaf7c7b2896cd6680ef4e2]: Textual amendment: Words in Sch. 4 para. 82(3) inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 8(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/8/b),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
 
-[^key-ec9e88150d88396a53f6b9b0053aa5a2]: Textual amendment: Word in Sch. 4 para. 94(4) omitted (1.8.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 9(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/9/a),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)15
+[^c-ec9e88150d88396a53f6b9b0053aa5a2]: Textual amendment: Word in Sch. 4 para. 94(4) omitted (1.8.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 9(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/9/a),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)15
 
-[^key-c80656f7adcb908a215744c9d7c7f587]: Textual amendment: Words in Sch. 4 para. 94(4) inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 9(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/9/b),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
+[^c-c80656f7adcb908a215744c9d7c7f587]: Textual amendment: Words in Sch. 4 para. 94(4) inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 9(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/9/b),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
 
-[^key-7cb36f5d3474d37252cb0e83fbe63dc0]: Textual amendment: Word in Sch. 4 para. 105(3) omitted (1.8.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 10(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/10/a),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
+[^c-7cb36f5d3474d37252cb0e83fbe63dc0]: Textual amendment: Word in Sch. 4 para. 105(3) omitted (1.8.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 10(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/10/a),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
 
-[^key-fc5ef5a0671dafa00225db291af21977]: Textual amendment: Words in Sch. 4 para. 105(3) inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 10(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/10/b),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
+[^c-fc5ef5a0671dafa00225db291af21977]: Textual amendment: Words in Sch. 4 para. 105(3) inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 10(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/10/b),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
 
-[^key-9079970eccf6f618e60dd3531820a5b3]: Textual amendment: Sch. 4 paras. 106, 107 omitted (with application in accordance with Sch. 6 para. 14 of the commencing Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 6 para. 12(b)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/6/paragraph/12/b)
+[^c-9079970eccf6f618e60dd3531820a5b3]: Textual amendment: Sch. 4 paras. 106, 107 omitted (with application in accordance with Sch. 6 para. 14 of the commencing Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 6 para. 12(b)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/6/paragraph/12/b)
 
-[^key-deed16b2901fd4f262e3b98ebc3f0e19]: Textual amendment: Word in Sch. 4 para. 110(5) omitted (1.8.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 11(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/11/a),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
+[^c-deed16b2901fd4f262e3b98ebc3f0e19]: Textual amendment: Word in Sch. 4 para. 110(5) omitted (1.8.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 11(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/11/a),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
 
-[^key-e0d53552c184c758df4b4d87934d1b38]: Textual amendment: Words in Sch. 4 para. 110(5) inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 11(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/11/b),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
+[^c-e0d53552c184c758df4b4d87934d1b38]: Textual amendment: Words in Sch. 4 para. 110(5) inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 11(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/11/b),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
 
-[^key-318a86f8ea555f6581e9a884aab7a777]: Textual amendment: Word in Sch. 4 para. 158(3) omitted (1.8.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 12(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/12/a),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
+[^c-318a86f8ea555f6581e9a884aab7a777]: Textual amendment: Word in Sch. 4 para. 158(3) omitted (1.8.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 12(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/12/a),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
 
-[^key-9351def3f45b2d1c4d158e09053c9a0a]: Textual amendment: Words in Sch. 4 para. 158(3) inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 12(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/12/b),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
+[^c-9351def3f45b2d1c4d158e09053c9a0a]: Textual amendment: Words in Sch. 4 para. 158(3) inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 12(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/12/b),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
 
-[^key-b82e5dc8a05bae839ec171c2e18fd506]: Textual amendment: Words in Sch. 4 para. 168(3) substituted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/13),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
+[^c-b82e5dc8a05bae839ec171c2e18fd506]: Textual amendment: Words in Sch. 4 para. 168(3) substituted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/13),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
 
-[^key-b8bc45bc587582b5b2bede37ef8e42bf]: Textual amendment: Words in Sch. 4 para. 171(2) inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 14(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/14/a),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
+[^c-b8bc45bc587582b5b2bede37ef8e42bf]: Textual amendment: Words in Sch. 4 para. 171(2) inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 14(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/14/a),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
 
-[^key-80fe6dc5d7abe92cb221828684679886]: Textual amendment: Words in Sch. 4 para. 171(3) inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 14(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/14/b),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
+[^c-80fe6dc5d7abe92cb221828684679886]: Textual amendment: Words in Sch. 4 para. 171(3) inserted (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 14(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/14/b),[15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)

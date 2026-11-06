@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Charges payable to the Commission by controllers[^c23269101][^M_I_3c6a5414-f0bd-4366-fccb-1d6058877e27][^key-453f81593a5d13ebbcd7850ba63760b9]
+## 137. Charges payable to the Commission by controllers[^c23269101][^M_I_3c6a5414-f0bd-4366-fccb-1d6058877e27][^c-453f81593a5d13ebbcd7850ba63760b9]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State may by regulations require controllers to pay charges of an amount specified in the regulations to the Commission[^key-82f519c5141bbdfc84a2936b673a80f3].
+(1) The Secretary of State may by regulations require controllers to pay charges of an amount specified in the regulations to the Commission[^c-82f519c5141bbdfc84a2936b673a80f3].
 
 (2) Regulations under subsection (1) may require a controller to pay a charge regardless of whether the Commission has provided, or proposes to provide, a service to the controller.
 
@@ -31,7 +31,7 @@ summary: ''
 - (c) make provision for cases in which no charge is payable;
 - (d) make provision for cases in which a charge which has been paid is to be refunded.
 
-(4) In making regulations under subsection (1), the Secretary of State must have regard to the desirability of securing that the charges payable to the Commission[^key-3fbbab7184fe1604a43b86cc17776f15] under such regulations are sufficient to offset—
+(4) In making regulations under subsection (1), the Secretary of State must have regard to the desirability of securing that the charges payable to the Commission[^c-3fbbab7184fe1604a43b86cc17776f15] under such regulations are sufficient to offset—
 
 - (a) expenses incurred by the Commission in discharging the Commission's functions—
   - (i) under the data protection legislation,
@@ -56,7 +56,7 @@ for either or both of the purposes mentioned in subsection (7).
 - (a) determining whether a charge is payable by the controller under regulations under subsection (1);
 - (b) determining the amount of a charge payable by the controller.
 
-(8) The provision that may be made under subsection (6)(a) includes provision requiring a controller to notify the Commission[^key-b576b632d7f3a5d164309c1fb92dbf59] of a change in the controller's circumstances of a kind specified in the regulations.
+(8) The provision that may be made under subsection (6)(a) includes provision requiring a controller to notify the Commission[^c-b576b632d7f3a5d164309c1fb92dbf59] of a change in the controller's circumstances of a kind specified in the regulations.
 
 ## Annotations
 
@@ -64,10 +64,10 @@ for either or both of the purposes mentioned in subsection (7).
 
 [^M_I_3c6a5414-f0bd-4366-fccb-1d6058877e27]: Commencement: S. 137 in force at 25.5.2018 in so far as not already in force by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/e)
 
-[^key-453f81593a5d13ebbcd7850ba63760b9]: Textual amendment: Word in s. 137 heading substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-453f81593a5d13ebbcd7850ba63760b9]: Textual amendment: Word in s. 137 heading substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-82f519c5141bbdfc84a2936b673a80f3]: Textual amendment: Word in s. 137(1)(2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-82f519c5141bbdfc84a2936b673a80f3]: Textual amendment: Word in s. 137(1)(2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-3fbbab7184fe1604a43b86cc17776f15]: Textual amendment: Word in s. 137(4)-(6) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-3fbbab7184fe1604a43b86cc17776f15]: Textual amendment: Word in s. 137(4)-(6) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-b576b632d7f3a5d164309c1fb92dbf59]: Textual amendment: Word in s. 137(8) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-b576b632d7f3a5d164309c1fb92dbf59]: Textual amendment: Word in s. 137(8) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

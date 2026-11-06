@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Oversight Committee[^key-048eaf6ce4b1384b1946d75044b6d02f]
+## 3. Oversight Committee[^c-048eaf6ce4b1384b1946d75044b6d02f]
 
 *Extent: E+W+S+N.I.*
 
@@ -122,25 +122,25 @@ summary: ''
 > - (b) the powers of the Financial Policy Committee under paragraph 13 of Schedule 2A, or
 > - (c) the powers of the Monetary Policy Committee under paragraph 13A of Schedule 3.
 
-(3)[^key-49c2192e529f42e7f3d43ade065439a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-49c2192e529f42e7f3d43ade065439a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 16 (functions of court of directors)—
 
-- (a)[^key-fdaf1844c128d5a75b0f9f7013d53340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-fdaf1844c128d5a75b0f9f7013d53340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (2)—
-  - (i)[^key-ff71b8cb163f3eff416f1295e2cb140a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-ff71b8cb163f3eff416f1295e2cb140a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) for “the Committee” substitute “ the Monetary Policy Committee ”,
 - (c) omit subsection (3), and
-- (d)[^key-c76687d18c0ddfd25af574fd771cca94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-c76687d18c0ddfd25af574fd771cca94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-048eaf6ce4b1384b1946d75044b6d02f]: Commencement: S. 3 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-048eaf6ce4b1384b1946d75044b6d02f]: Commencement: S. 3 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-49c2192e529f42e7f3d43ade065439a5]: Textual amendment: [S. 3(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/3/3) repealed (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/68) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(2)(j)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/2/j)
+[^c-49c2192e529f42e7f3d43ade065439a5]: Textual amendment: [S. 3(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/3/3) repealed (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/68) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(2)(j)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/2/j)
 
-[^key-fdaf1844c128d5a75b0f9f7013d53340]: Textual amendment: [S. 3(4)(a)](https://www.legislation.gov.uk/ukpga/2012/21/section/3/4/a) repealed (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/68) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(2)(j)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/2/j)
+[^c-fdaf1844c128d5a75b0f9f7013d53340]: Textual amendment: [S. 3(4)(a)](https://www.legislation.gov.uk/ukpga/2012/21/section/3/4/a) repealed (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/68) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(2)(j)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/2/j)
 
-[^key-ff71b8cb163f3eff416f1295e2cb140a]: Textual amendment: [S. 3(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2012/21/section/3/4/b/i) repealed (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/68) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(2)(j)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/2/j)
+[^c-ff71b8cb163f3eff416f1295e2cb140a]: Textual amendment: [S. 3(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2012/21/section/3/4/b/i) repealed (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/68) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(2)(j)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/2/j)
 
-[^key-c76687d18c0ddfd25af574fd771cca94]: Textual amendment: [S. 3(4)(d)](https://www.legislation.gov.uk/ukpga/2012/21/section/3/4/d) repealed (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/68) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(2)(j)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/2/j)
+[^c-c76687d18c0ddfd25af574fd771cca94]: Textual amendment: [S. 3(4)(d)](https://www.legislation.gov.uk/ukpga/2012/21/section/3/4/d) repealed (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/68) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(2)(j)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/2/j)

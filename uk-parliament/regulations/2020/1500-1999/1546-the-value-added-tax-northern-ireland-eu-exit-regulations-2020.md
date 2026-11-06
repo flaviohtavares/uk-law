@@ -50,11 +50,11 @@ In accordance with section 51(1) of that Act, the Treasury consider it appropria
 
 ## Part 1 — Preliminary
 
-### 1. Citation and commencement[^key-cae89282b9b80d3f9b0141fc855b8147][^key-2a75c2f248bbdd198993f852fb6bfd09]
+### 1. Citation and commencement[^c-cae89282b9b80d3f9b0141fc855b8147][^c-2a75c2f248bbdd198993f852fb6bfd09]
 
 These Regulations may be cited as the Value Added Tax (Northern Ireland) (EU Exit) Regulations 2020 and come into force on such day or days as the Treasury may by regulations made under section 52 of the Taxation (Cross-border Trade) Act 2018 appoint.
 
-### 2. Interpretation[^key-8220fa190e5161caa3d5fabe35644e33][^key-9368aad667cf0322f611a02eb494f2cc]
+### 2. Interpretation[^c-8220fa190e5161caa3d5fabe35644e33][^c-9368aad667cf0322f611a02eb494f2cc]
 
 (1) Terms used in both these Regulations and the Value Added Tax Act 1994 [^c24395951] have the same meaning in these Regulations as they have in that Act.
 
@@ -62,7 +62,7 @@ These Regulations may be cited as the Value Added Tax (Northern Ireland) (EU Exi
 
 ## Part 2 — Liability for VAT on removals: exceptions
 
-### 3. Removals of gold: customer to account[^key-86d347fd26321fbfdc82e6d6fd2e82e1][^key-ea172bd2567909edd97189fb1d67e9ef]
+### 3. Removals of gold: customer to account[^c-86d347fd26321fbfdc82e6d6fd2e82e1][^c-ea172bd2567909edd97189fb1d67e9ef]
 
 (1) Paragraph (2) applies where—
 
@@ -73,9 +73,9 @@ These Regulations may be cited as the Value Added Tax (Northern Ireland) (EU Exi
 
 (2) Where this paragraph applies, P (and only P) is treated as having imported the gold for the purpose of paragraph 4 of Schedule 9ZB [^c24395981] to VATA (liability for VAT on movements between Great Britain and Northern Ireland) instead of the supplier [^c24395991].
 
-(3) This regulation is subject to regulations 6 and 6A[^key-de076333e7786e171363a95a77b71523] (special customs procedures).
+(3) This regulation is subject to regulations 6 and 6A[^c-de076333e7786e171363a95a77b71523] (special customs procedures).
 
-### 4. Removals of investment gold: person to account is the person who would have accounted for VAT on the supply[^key-0e1014ddcda330be4ac16ce0f45c2e2d][^key-0c22d91ca1be47c37aa64302cd9607d0]
+### 4. Removals of investment gold: person to account is the person who would have accounted for VAT on the supply[^c-0e1014ddcda330be4ac16ce0f45c2e2d][^c-0c22d91ca1be47c37aa64302cd9607d0]
 
 (1) Paragraph (2) applies where—
 
@@ -84,9 +84,9 @@ These Regulations may be cited as the Value Added Tax (Northern Ireland) (EU Exi
 
 (2) Where this paragraph applies, the person who is treated as having imported the gold for the purpose of paragraph 4 of Schedule 9ZB to VATA is the person (and only that person) who would be required to account for VAT on the supply of the gold if the supply were a taxable but not a zero-rated supply.
 
-(3) This regulation is subject to regulations 6 and 6A[^key-eafaaac7d113dddaaf49a622c6d4ae46] (special customs procedures).
+(3) This regulation is subject to regulations 6 and 6A[^c-eafaaac7d113dddaaf49a622c6d4ae46] (special customs procedures).
 
-### 5. Section 55A supplies: customer to account[^key-eac77266f6a1f247e3c32fa3641c0831][^key-9b1c66f044e984ff511ab745383605d4]
+### 5. Section 55A supplies: customer to account[^c-eac77266f6a1f247e3c32fa3641c0831][^c-9b1c66f044e984ff511ab745383605d4]
 
 (1) Paragraph (2) applies where—
 
@@ -95,16 +95,16 @@ These Regulations may be cited as the Value Added Tax (Northern Ireland) (EU Exi
 
 (2) Where this paragraph applies, the taxable person who receives the supply (and only that person) is treated as having imported the goods for the purpose of paragraph 4 of Schedule 9ZB to VATA instead of the supplier.
 
-(3) This regulation is subject to regulations 6 and 6A[^key-fe3aae6ed586a252ec919ed82ff8c20e] (special customs procedures).
+(3) This regulation is subject to regulations 6 and 6A[^c-fe3aae6ed586a252ec919ed82ff8c20e] (special customs procedures).
 
-### 6. Removals where goods declared to special customs procedure[^key-739cbcaea32fbeaaf6403d1b281e7a13][^key-874eba2aa4158feb9cc94fa093d811f9]
+### 6. Removals where goods declared to special customs procedure[^c-739cbcaea32fbeaaf6403d1b281e7a13][^c-874eba2aa4158feb9cc94fa093d811f9]
 
 (1) Paragraph (2) applies where goods are—
 
 - (a) removed from Great Britain to Northern Ireland or vice versa; and
 - (b) declared to a special customs procedure on their entry into that other territory.
 
-(2) Where this paragraph applies, the person who is treated as having imported the goods for the purpose of paragraph 4 of Schedule 9ZB to VATA is —[^key-dc452e914b28f1ca001a7f699ee7c8b1]
+(2) Where this paragraph applies, the person who is treated as having imported the goods for the purpose of paragraph 4 of Schedule 9ZB to VATA is —[^c-dc452e914b28f1ca001a7f699ee7c8b1]
 
 - (a) in any case where a person causes goods to be placed into free circulation, that person (and not the person described in paragraph 4(3), (3A) or (4) of that Schedule); and
 - (b) in any other case, the person described in paragraph 4(4) of that Schedule.
@@ -118,11 +118,11 @@ These Regulations may be cited as the Value Added Tax (Northern Ireland) (EU Exi
   - (ii) a procedure listed in section 3(4) of the Taxation (Cross-border Trade) Act 2018;
 - (b) the reference to causing goods to be placed into free circulation is a reference to placing goods on the market, or putting them to private use or consumption, in Northern Ireland or Great Britain, as the case may be.
 
-### 6A.[^key-e70889e68e176b1e9725908c9901ffbf]
+### 6A.[^c-e70889e68e176b1e9725908c9901ffbf]
 
 (1) Paragraph (2) applies where goods are removed from Great Britain to Northern Ireland and in the course of that removal the goods are declared to a special customs procedure in a member State.
 
-(2) Where this paragraph applies, the person who is treated as having imported the goods for the purposes of paragraph 4 of Schedule 9ZB to VATA is —[^key-d67664b3a4f8b8ca3364560caf6da9a9]
+(2) Where this paragraph applies, the person who is treated as having imported the goods for the purposes of paragraph 4 of Schedule 9ZB to VATA is —[^c-d67664b3a4f8b8ca3364560caf6da9a9]
 
 - (a) in any case where a person causes goods to be placed into free circulation, that person (and not the person described in paragraph 4(3) or (4)(b) of that Schedule); and
 - (b) in any other case, the person described in paragraph 4(4)(b) of that Schedule.
@@ -134,7 +134,7 @@ These Regulations may be cited as the Value Added Tax (Northern Ireland) (EU Exi
 - (a) “special customs procedure” means a procedure listed in Article 210 of [Regulation (EU) No 952/2013](https://www.legislation.gov.uk/eur/2013/0952) of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code;
 - (b) the reference to causing goods to be placed into free circulation is a reference to placing goods on the market, or putting them to private use or consumption, in Northern Ireland.
 
-### 7. Movement of own goods and on behalf of third party: remover to account[^key-62654e5cebc52ce7aa6d6d30add575e6][^key-bf4b73200baff833e67494bd139a77f2]
+### 7. Movement of own goods and on behalf of third party: remover to account[^c-62654e5cebc52ce7aa6d6d30add575e6][^c-bf4b73200baff833e67494bd139a77f2]
 
 (1) Paragraph (2) applies where a taxable person (T) makes a relevant removal of goods from Great Britain to Northern Ireland in the course of T's business but otherwise than in the course of a taxable supply and as a result of which ownership in the goods does not pass.
 
@@ -142,9 +142,9 @@ These Regulations may be cited as the Value Added Tax (Northern Ireland) (EU Exi
 
 (3) In this regulation a “**relevant removal of goods**” is a removal by T or under T's direction of goods of which T has possession and in relation to which T exercises control, whether or not T is the owner of the goods, but does not include a removal which consists only of the physical delivery of the goods by a person to whom the goods are consigned for that purpose.
 
-(4) This regulation is subject to regulations 6 and 6A[^key-904f31f6b0c80ccf20cb00f7dd41962c] (special customs procedures).
+(4) This regulation is subject to regulations 6 and 6A[^c-904f31f6b0c80ccf20cb00f7dd41962c] (special customs procedures).
 
-### 8. Removals from Northern Ireland to Great Britain – zero-rating of supplies for export[^key-96524d1b8e6d04f2eba1e3dc4365c441][^key-bb4102dbb2e4cb179eb036f478670616]
+### 8. Removals from Northern Ireland to Great Britain – zero-rating of supplies for export[^c-96524d1b8e6d04f2eba1e3dc4365c441][^c-bb4102dbb2e4cb179eb036f478670616]
 
 (1) Paragraph (2) applies where—
 
@@ -153,7 +153,7 @@ These Regulations may be cited as the Value Added Tax (Northern Ireland) (EU Exi
 
 (2) Where this paragraph applies, P (and only P) is treated as having imported the goods for the purpose of paragraph 4 of Schedule 9ZB to VATA.
 
-### 9.[^key-54294003a67c9d62f5ae231b364c838e][^key-03e989d413a338e4dc60b62ab2756a21]
+### 9.[^c-54294003a67c9d62f5ae231b364c838e][^c-03e989d413a338e4dc60b62ab2756a21]
 
 (1) Paragraph (2) applies where—
 
@@ -162,7 +162,7 @@ These Regulations may be cited as the Value Added Tax (Northern Ireland) (EU Exi
 
 (2) Where this paragraph applies, P (and only P) is treated as having imported the goods for the purpose of paragraph 4 of Schedule 9ZB to VATA.
 
-### 10.[^key-6d646a5b0aa6ea8db72924cf64c1dd6f][^key-14ebd9b255b095e5139f3361e534f30f]
+### 10.[^c-6d646a5b0aa6ea8db72924cf64c1dd6f][^c-14ebd9b255b095e5139f3361e534f30f]
 
 (1) Paragraph (2) applies where—
 
@@ -171,7 +171,7 @@ These Regulations may be cited as the Value Added Tax (Northern Ireland) (EU Exi
 
 (2) Where this paragraph applies, P (and only P) is treated as having imported the goods for the purpose of paragraph 4 of Schedule 9ZB to VATA.
 
-### 11.[^key-534cbbd07cc6668f00b64c60962da3e5][^key-c0e460fdabf7757e71f0c265cbafd2b5]
+### 11.[^c-534cbbd07cc6668f00b64c60962da3e5][^c-c0e460fdabf7757e71f0c265cbafd2b5]
 
 (1) Paragraph (2) applies where—
 
@@ -180,7 +180,7 @@ These Regulations may be cited as the Value Added Tax (Northern Ireland) (EU Exi
 
 (2) Where this regulation applies, P (and only P) is treated as having imported the goods for the purpose of paragraph 4 of Schedule 9ZB to VATA.
 
-### 12. Gifts from Great Britain to Northern Ireland: sender to account[^key-cbf778f16d8ed33c08a18bd27287e384][^key-4c2af5339ea7b637ff932806cd1a420a]
+### 12. Gifts from Great Britain to Northern Ireland: sender to account[^c-cbf778f16d8ed33c08a18bd27287e384][^c-4c2af5339ea7b637ff932806cd1a420a]
 
 (1) Paragraph (3) applies where goods are removed from Great Britain to Northern Ireland in a consignment of a non-commercial character.
 
@@ -192,23 +192,23 @@ These Regulations may be cited as the Value Added Tax (Northern Ireland) (EU Exi
 
 (3) Where this paragraph applies, the sender of the goods (and only the sender) is treated as having imported the goods for the purpose of paragraph 4 of Schedule 9ZB to VATA.
 
-### 13. Other removals by non-taxable persons[^key-c653ae6082bc63b15dae9d38b9fc1c07][^key-ae7b622e1bdcce484ab1a29c9931d4d0]
+### 13. Other removals by non-taxable persons[^c-c653ae6082bc63b15dae9d38b9fc1c07][^c-ae7b622e1bdcce484ab1a29c9931d4d0]
 
 (1) Paragraph (2) applies where goods are removed from Great Britain to Northern Ireland, otherwise than for the purposes of, or in the course or furtherance of, any business carried on by a registered person (but otherwise than as described in regulation 12 (gifts)).
 
 (2) Where this paragraph applies, the person removing the goods (and only that person) is treated as having imported the goods for the purposes of paragraph 4 of Schedule 9ZB to VATA.
 
-### 14. Removals from the Isle of Man to Northern Ireland[^key-c9d0c4b51967abab3e22469fd0dcab4b][^key-3c029d59c9150fdacfcd2ef0d383795a]
+### 14. Removals from the Isle of Man to Northern Ireland[^c-c9d0c4b51967abab3e22469fd0dcab4b][^c-3c029d59c9150fdacfcd2ef0d383795a]
 
 This Part applies to goods removed to Northern Ireland from the Isle of Man as it applies to goods removed from Great Britain to Northern Ireland and, in applying this Part for that purpose, references to provisions in VATA, other than references to Schedule 9ZB, are to be read as the corresponding provisions of an Act of Tynwald.
 
 ## Part 3 — Accounting for VAT on removals: taxable persons
 
-### 15. VAT on removals to be payable by a taxable person as if it were VAT on a supply[^key-e072bec3116388c5b70bb43356272a51][^key-7c7a8467a0cd499a9219199cdda2ae08]
+### 15. VAT on removals to be payable by a taxable person as if it were VAT on a supply[^c-e072bec3116388c5b70bb43356272a51][^c-7c7a8467a0cd499a9219199cdda2ae08]
 
 This Part applies to a taxable person who is treated as having imported goods for the purpose of paragraph 4 of Schedule 9ZB, or paragraph 4A(2) of Schedule 9ZC [^c24396051], to VATA.
 
-### 16.[^key-6ef5e62b962e5d6781237cf075669158][^key-1d0c2705e76894e0bc9257a12c10c86e]
+### 16.[^c-6ef5e62b962e5d6781237cf075669158][^c-1d0c2705e76894e0bc9257a12c10c86e]
 
 (1) A person to whom this Part applies (P) must account for and pay the VAT charged under paragraph 3(2) or, as the case may be, paragraph 3(4) of Schedule 9ZB to VATA as if that VAT were VAT on a supply made by P.
 
@@ -225,7 +225,7 @@ This Part applies to a taxable person who is treated as having imported goods fo
 
 as has effect for the purposes of, or in connection with, the enforcement of any obligation to account for and pay VAT, and includes, without prejudice to the generality of the foregoing, Part 5 of the Value Added Tax Regulations 1995 [^c24396081].
 
-### 17. Requirement to produce import document[^key-fe9bf2b83538121d23ac249f5256d521][^key-ae3968d2a460c465b4d2a7ccf80a3036]
+### 17. Requirement to produce import document[^c-fe9bf2b83538121d23ac249f5256d521][^c-ae3968d2a460c465b4d2a7ccf80a3036]
 
 (1) A taxable person who—
 
@@ -234,7 +234,7 @@ as has effect for the purposes of, or in connection with, the enforcement of any
 
 must provide the person to whom the goods are supplied with an invoice, to be known as an import document, containing the information specified in paragraph (4).
 
-(1A)[^key-b552a5a53fd9f0234cb7857e9d6d18ee] A taxable person who is treated as having imported goods for the purposes of paragraph 4(3A) of Schedule 9ZB to VATA must provide the person to whom the goods are supplied with an invoice, to be known as an import document, containing the information specified in paragraph (4).
+(1A)[^c-b552a5a53fd9f0234cb7857e9d6d18ee] A taxable person who is treated as having imported goods for the purposes of paragraph 4(3A) of Schedule 9ZB to VATA must provide the person to whom the goods are supplied with an invoice, to be known as an import document, containing the information specified in paragraph (4).
 
 (2) A taxable person (T) who is treated by virtue of regulation 7 (movement of own goods and on behalf of third party) as having imported goods for the purposes of paragraph 4 of Schedule 9ZB to VATA must provide the owner of the goods (where that is not T) with an invoice, to be known as an import document, containing the information specified in paragraph (4).
 
@@ -252,8 +252,8 @@ must provide the person to whom the goods are supplied with an invoice, to be kn
 - (d) the name and address of the person to whom the goods are consigned;
 - (e) a description sufficient to identify the goods supplied or removed;
 - (f) for each description, the quantity of the goods and the amount payable excluding VAT;
-- (g) the total amount of VAT chargeable on the removal unless a margin scheme is applied under section 50A of VATA[^key-1635e8f9908f20cdfd625fbc838a446b][^M_F_da9c5ebd-5008-4ddc-c6ec-74a92e8bee66];
-- (h)[^key-3b8fbd2792c33d3c94b8204a0eeebeb9] the name, address and registration number of the supplier;
+- (g) the total amount of VAT chargeable on the removal unless a margin scheme is applied under section 50A of VATA[^c-1635e8f9908f20cdfd625fbc838a446b][^M_F_da9c5ebd-5008-4ddc-c6ec-74a92e8bee66];
+- (h)[^c-3b8fbd2792c33d3c94b8204a0eeebeb9] the name, address and registration number of the supplier;
 - (i) where a margin scheme is applied under section 50A of VATA, the reference “margin scheme: works of art”, “margin scheme: antiques or collectors’ items”, or “margin scheme: second hand goods” as appropriate.
 
 (5) The following provisions of the VAT Regulations 1995 [^c24396091] apply in relation to the import document required to be provided under paragraph (1) and (2) as they apply to a VAT invoice required to be provided under regulation 13(1) of those Regulations—
@@ -262,13 +262,13 @@ must provide the person to whom the goods are supplied with an invoice, to be kn
 - (b) regulation 13A (electronic invoicing);
 - (c) regulation 13B (language).
 
-### 18. Penalties[^key-8b67d50885a1e34146e08f53b04e17e1][^key-8a6a35a0978eaddedcb29d5154dacd9f]
+### 18. Penalties[^c-8b67d50885a1e34146e08f53b04e17e1][^c-8a6a35a0978eaddedcb29d5154dacd9f]
 
 The obligation imposed by regulation 17 is to be treated for the purposes of section 69(1) [^c24396101] of VATA (breaches of regulatory provisions) as if it was imposed pursuant to regulations made under VATA, and section 76 [^c24396111] of VATA (assessment of amounts due by way of penalty, interest or surcharge) and section 83(1) [^c24396121] (appeals) are to be interpreted accordingly.
 
-## Part 4 — Accounting for VAT on removals:...[^key-2106fe2c790ccb1f54bcbdeb0dcb6aee]
+## Part 4 — Accounting for VAT on removals:...[^c-2106fe2c790ccb1f54bcbdeb0dcb6aee]
 
-### 19. Credit for VAT on goods removed from Great Britain to Northern Ireland[^key-72705b6c4f86f8c29e0ccdc18121a28f][^key-16cb4483fdfdcad02ab0b1a1559908ca]
+### 19. Credit for VAT on goods removed from Great Britain to Northern Ireland[^c-72705b6c4f86f8c29e0ccdc18121a28f][^c-16cb4483fdfdcad02ab0b1a1559908ca]
 
 (1) Paragraph (2) applies where—
 
@@ -282,7 +282,7 @@ The obligation imposed by regulation 17 is to be treated for the purposes of sec
 
 (3) The credit referred to in sub-paragraph (2)(a) is—
 
-- (a) the total of the VAT incurred on the purchase or importation of the goods in Great Britain or the Isle of Man[^key-de9fb7bce6bcc286fef39c2fe6452182] by P or, where the goods were given to P, the VAT which was incurred in Great Britain or the Isle of Man on those goods by the person who gave the goods to P; or
+- (a) the total of the VAT incurred on the purchase or importation of the goods in Great Britain or the Isle of Man[^c-de9fb7bce6bcc286fef39c2fe6452182] by P or, where the goods were given to P, the VAT which was incurred in Great Britain or the Isle of Man on those goods by the person who gave the goods to P; or
 - (b) if the goods have been manufactured by P, the total of the VAT incurred on the purchase or importation of the materials used in the manufacture of the goods,
 
 but in either case the credit may not be greater than the VAT payable as a result of the entry.
@@ -293,7 +293,7 @@ but in either case the credit may not be greater than the VAT payable as a resul
 
 (6) This regulation is to be treated, for the purposes of VATA, as if it had been made under that Act.
 
-### 19A. Credit for VAT on goods imported into Great Britain for removal to Northern Ireland[^key-d47af641c6d221667d80bc94e0a6abd7]
+### 19A. Credit for VAT on goods imported into Great Britain for removal to Northern Ireland[^c-d47af641c6d221667d80bc94e0a6abd7]
 
 (1) Paragraph (2) applies where—
 
@@ -316,7 +316,7 @@ but in either case the credit may not be greater than the VAT payable as a resul
 
 ## Part 5 — Entitlement of taxable persons to deduct input tax
 
-### 20.[^key-34830d83b3a75ff6ed8228cce48fad15][^key-07e18d3f882449a17e93ffbed8d85e04]
+### 20.[^c-34830d83b3a75ff6ed8228cce48fad15][^c-07e18d3f882449a17e93ffbed8d85e04]
 
 (1) This regulation applies where a taxable person (T)—
 
@@ -334,13 +334,13 @@ but in either case the credit may not be greater than the VAT payable as a resul
 
 (4) Accordingly, any provision made by or under any enactment that is relevant to the accounting for, or deduction of input VAT, applies in relation to the chargeable VAT that is deductible under paragraph (3) as it does to input VAT as if it were input tax except that references to the date on which input tax becomes chargeable are to be read as referring to the date of the import document provided in accordance with regulation 17.
 
-### 21.[^key-3837b65ac29a935154909a2714d3c683][^key-45c3f9e49e55a891bc590d1bd30d36cc]
+### 21.[^c-3837b65ac29a935154909a2714d3c683][^c-45c3f9e49e55a891bc590d1bd30d36cc]
 
-A[^key-eb5bdb9ed5e5adafe1761a308112cbbd] taxable person (P) who is treated as having imported goods pursuant to paragraph 4(3)[^key-254854b45d781a5f37c148a943088fc4] of Schedule 9ZB to VATA may not treat the VAT payable as a result of that importation as P's input VAT allowable under section 25 VATA (where P would otherwise, apart from this regulation, be permitted to do so).
+A[^c-eb5bdb9ed5e5adafe1761a308112cbbd] taxable person (P) who is treated as having imported goods pursuant to paragraph 4(3)[^c-254854b45d781a5f37c148a943088fc4] of Schedule 9ZB to VATA may not treat the VAT payable as a result of that importation as P's input VAT allowable under section 25 VATA (where P would otherwise, apart from this regulation, be permitted to do so).
 
 ## Part 6 — Identification for the purposes of VAT in Northern Ireland
 
-### 22. Interpretation[^key-95dd41752a0f6a5d900ba4a3ed0de747][^key-54a5efe6e66ec0c2b6f7259f499b4532]
+### 22. Interpretation[^c-95dd41752a0f6a5d900ba4a3ed0de747][^c-54a5efe6e66ec0c2b6f7259f499b4532]
 
 (1) In this Part “**relevant Northern Ireland trader**” means a person of the description referred to in paragraph 7(3) of Schedule 9ZA [^c24396131] to VATA who on any day has in the period of 180 days ending on that day undertaken a relevant transaction.
 
@@ -349,11 +349,11 @@ A[^key-eb5bdb9ed5e5adafe1761a308112cbbd] taxable person (P) who is treated as ha
 - (a) makes any supply of goods which are in Northern Ireland at the time of the supply and the supply does not involve the removal of the goods from or to Northern Ireland;
 - (b) makes any taxable acquisition of goods in Northern Ireland that falls within paragraph 2(3) of Schedule 9ZA to VATA;
 - (c) makes a supply of goods which involves their removal from Northern Ireland to a member State, where the supply is to a person who is identified for the purposes of VAT in a member State;
-- (d) makes a supply of goods which are treated as supplied in the United Kingdom by virtue of paragraph 29 of Schedule 9ZB to VATA; [^key-d61aea9ffeca22031d5d775cd6e4b72f]...
-- (e) makes a supply of goods within paragraph 30 of Schedule 9ZB to VATA or[^key-f03f8efd96c52c99698b7ab2a5d9f1d7]
-- (f)[^key-b82e2a7f43d3d013b323aa5784e88f5f] makes a scheme supply within the meaning of Schedule 9ZD to VATA.
+- (d) makes a supply of goods which are treated as supplied in the United Kingdom by virtue of paragraph 29 of Schedule 9ZB to VATA; [^c-d61aea9ffeca22031d5d775cd6e4b72f]...
+- (e) makes a supply of goods within paragraph 30 of Schedule 9ZB to VATA or[^c-f03f8efd96c52c99698b7ab2a5d9f1d7]
+- (f)[^c-b82e2a7f43d3d013b323aa5784e88f5f] makes a scheme supply within the meaning of Schedule 9ZD to VATA.
 
-### 23. The Commissioners to make arrangements for identification[^key-99a838dfdc0042e1e682fedd237ff6e9][^key-c409bc7391249bf1b785bc544d76263e]
+### 23. The Commissioners to make arrangements for identification[^c-99a838dfdc0042e1e682fedd237ff6e9][^c-c409bc7391249bf1b785bc544d76263e]
 
 (1) The Commissioners must make arrangements to ensure that—
 
@@ -367,7 +367,7 @@ A[^key-eb5bdb9ed5e5adafe1761a308112cbbd] taxable person (P) who is treated as ha
 
 (3) The Commissioners may identify a person with effect from a past date and in respect of a period of time during which the Commissioners are satisfied that the person may have been a relevant Northern Ireland trader, whether or not the person remains a relevant Northern Ireland trader at the time when the Commissioners identify the person.
 
-### 24. Request to be identified and obligation to request to be identified[^key-5ca494e4b37b6e7a02a60276de81f167][^key-8a8840e8cf82afc42834b9115fb718fb]
+### 24. Request to be identified and obligation to request to be identified[^c-5ca494e4b37b6e7a02a60276de81f167][^c-8a8840e8cf82afc42834b9115fb718fb]
 
 (1) A person who has not been notified in accordance with regulation 23 (T) must within 30 days of undertaking a relevant transaction—
 
@@ -378,7 +378,7 @@ A[^key-eb5bdb9ed5e5adafe1761a308112cbbd] taxable person (P) who is treated as ha
 
 (3) In such a case the Commissioners must where they are satisfied that T is a relevant Northern Ireland trader identify T for the purposes of VAT in Northern Ireland with effect from the date on which T first undertook a relevant transaction.
 
-### 25.[^key-0bfd27b6a00b86607f42c3e196a60761][^key-3d9346cd27b4f789aca7fa30070f3804]
+### 25.[^c-0bfd27b6a00b86607f42c3e196a60761][^c-3d9346cd27b4f789aca7fa30070f3804]
 
 Where T—
 
@@ -388,41 +388,41 @@ Where T—
 
 the Commissioners must identify T for the purposes of VAT in Northern Ireland with effect from the date of T's request.
 
-### 26. Communication of the fact of a person's identification for the purposes of VAT in Northern Ireland[^key-31d5c7945147e9771594cdb9edb67e0a][^key-88a3619b73356731dfe5cee9c8f3d34c]
+### 26. Communication of the fact of a person's identification for the purposes of VAT in Northern Ireland[^c-31d5c7945147e9771594cdb9edb67e0a][^c-88a3619b73356731dfe5cee9c8f3d34c]
 
 The use of the prefix “XI” to the number assigned to a person for the purposes of VAT in the United Kingdom is the means by which that person communicates that the person is identified for the purpose of VAT in Northern Ireland.
 
-### 27. Ceasing to be identified[^key-0fb0818275f29cf671ffce57ae09e7da][^key-1b1d78e434a763b2f0c637f5faf667b3]
+### 27. Ceasing to be identified[^c-0fb0818275f29cf671ffce57ae09e7da][^c-1b1d78e434a763b2f0c637f5faf667b3]
 
 Where the Commissioners are satisfied that a person has ceased to be a relevant Northern Ireland trader they may cancel that person's identification for the purposes of VAT in Northern Ireland with effect from the day on which the person so ceased or from such later date as may be agreed between them and the person.
 
-### 28.[^key-d48732ff5e87bbc4b64d70494cbe9a33][^key-6bf18bd3db912f3f01c9f90762492468]
+### 28.[^c-d48732ff5e87bbc4b64d70494cbe9a33][^c-6bf18bd3db912f3f01c9f90762492468]
 
 Where the Commissioners are satisfied that on the date on which a person was identified for the purposes of VAT in Northern Ireland the person was not a relevant Northern Ireland trader, they may cancel the person's identification with effect from that date.
 
-### 29.[^key-ac0d18592d6d494f45401e81b5e088e1][^key-1ca78871214727fdd2d7690f82cbe5f0]
+### 29.[^c-ac0d18592d6d494f45401e81b5e088e1][^c-1ca78871214727fdd2d7690f82cbe5f0]
 
 Where a person satisfies the Commissioners that the person has ceased to be a relevant Northern Ireland trader and the person requests that the person's identification be cancelled, the Commissioners must cancel the person's identification with effect from the day on which the person so ceased or from such later date as may be agreed between them and the person.
 
-### 30.[^key-5ecfa97f5267968242f7bed4fe87da3b][^key-e4eec15b0776808b3231f837bb56f916]
+### 30.[^c-5ecfa97f5267968242f7bed4fe87da3b][^c-e4eec15b0776808b3231f837bb56f916]
 
 Where a person satisfies the Commissioners that the person was not a relevant Northern Ireland trader on the date on which the person was identified for the purposes of VAT in Northern Ireland and the person requests that the person's identification be cancelled, the Commissioners must cancel the person's identification with effect from the date on which the person was identified for the purposes of VAT in Northern Ireland.
 
-### 31. Application of section 9A VATA: treating a person as if identified[^key-e0b1ffd911836f354d95973f68a1669d][^key-37db45286881d9e520c6e9699018d7e6]
+### 31. Application of section 9A VATA: treating a person as if identified[^c-e0b1ffd911836f354d95973f68a1669d][^c-37db45286881d9e520c6e9699018d7e6]
 
 The reference in subsection (1A) of section 9A [^c24396151] of VATA to a person identified for the purposes of VAT in Northern Ireland includes a registered person who is not so identified but who undertakes a business activity from a place in Northern Ireland.
 
-### 32. This Part to be treated as made under VATA[^key-6cbd6a62ac05ac2a1932ccbbae66fbcf][^key-7a2ac6f8abdb0e36a4ff819562412e0e]
+### 32. This Part to be treated as made under VATA[^c-6cbd6a62ac05ac2a1932ccbbae66fbcf][^c-7a2ac6f8abdb0e36a4ff819562412e0e]
 
 The provisions contained in this Part are to be treated for the purposes of VATA as if they had been made under paragraph 7 of Schedule 9ZA to VATA.
 
 ## Part 7 — Accounting for import VAT on low value importations
 
-### 33. VAT return accounting for low value importations[^key-444ab2aacc3ea5b1c7d67af433e1e3b0][^key-b95c27087e0ca1e14642df9000d7503f]
+### 33. VAT return accounting for low value importations[^c-444ab2aacc3ea5b1c7d67af433e1e3b0][^c-b95c27087e0ca1e14642df9000d7503f]
 
 This Part applies to a person who is treated as having imported goods for the purposes of paragraph 4(2) of Schedule 9ZC [^c24396161] to VATA.
 
-### 34.[^key-363a1a92bce4382d82706372215c1f5c][^key-331c17375d1b8e80e2729c64108d79e1]
+### 34.[^c-363a1a92bce4382d82706372215c1f5c][^c-331c17375d1b8e80e2729c64108d79e1]
 
 (1) A person to whom this Part applies (P) must account for and pay the VAT charged under section 1(1)(c) of VATA [^c24396171], as applied by paragraph 1(3) of Schedule 9ZB to VATA, on the importation of those goods into the United Kingdom by reason of their entry into Northern Ireland, as if that VAT were VAT on a supply made by P.
 
@@ -439,7 +439,7 @@ This Part applies to a person who is treated as having imported goods for the pu
 
 as has effect for the purposes of, or in connection with, the enforcement of any obligation to account for and pay VAT, and includes, without prejudice to the generality of the foregoing, Part 5 of the Value Added Tax Regulations 1995.
 
-## Part 8 — VAT relief in respect of goods returning to Great Britain from Northern Ireland[^key-04d142c6cac6f6843cb37b2a37231481]
+## Part 8 — VAT relief in respect of goods returning to Great Britain from Northern Ireland[^c-04d142c6cac6f6843cb37b2a37231481]
 
 **35.** (1) No VAT is payable under paragraph 3(2) of Schedule 9ZB to VATA (VAT charged on goods removed from Northern Ireland to Great Britain) on goods to which regulation 18(3A) of the Customs (Northern Ireland) (EU Exit) Regulations 2020, when read with the relevant modification, applies.
 
@@ -497,19 +497,19 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24395941]: Marginal citation: [2018 c. 22 (“TCTA”)](https://www.legislation.gov.uk/ukpga/2018/22); [section 51(1)(a)](https://www.legislation.gov.uk/uksi/2020/1546/section/51/1/a) permits “the appropriate Minister” to make provision relating to value added tax and under section 51(4)(b) “**the appropriate Minister**” means the Treasury.
 
-[^key-cae89282b9b80d3f9b0141fc855b8147]: Commencement: Reg. 1 not in force at made date, see reg. 1
+[^c-cae89282b9b80d3f9b0141fc855b8147]: Commencement: Reg. 1 not in force at made date, see reg. 1
 
-[^key-2a75c2f248bbdd198993f852fb6bfd09]: Commencement: Reg. 1 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-2a75c2f248bbdd198993f852fb6bfd09]: Commencement: Reg. 1 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-8220fa190e5161caa3d5fabe35644e33]: Commencement: Reg. 2 not in force at made date, see reg. 1
+[^c-8220fa190e5161caa3d5fabe35644e33]: Commencement: Reg. 2 not in force at made date, see reg. 1
 
-[^key-9368aad667cf0322f611a02eb494f2cc]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-9368aad667cf0322f611a02eb494f2cc]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395951]: Marginal citation: [1994 c. 23 (“VATA”)](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-86d347fd26321fbfdc82e6d6fd2e82e1]: Commencement: Reg. 3 not in force at made date, see reg. 1
+[^c-86d347fd26321fbfdc82e6d6fd2e82e1]: Commencement: Reg. 3 not in force at made date, see reg. 1
 
-[^key-ea172bd2567909edd97189fb1d67e9ef]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-ea172bd2567909edd97189fb1d67e9ef]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395961]: Marginal citation: Defined by section 3 VATA.
 
@@ -519,83 +519,83 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24395991]: Marginal citation: See paragraph 4(3) of Schedule 9ZB.
 
-[^key-de076333e7786e171363a95a77b71523]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/3/3) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [60](https://www.legislation.gov.uk/uksi/2021/715/regulation/60)
+[^c-de076333e7786e171363a95a77b71523]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/3/3) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [60](https://www.legislation.gov.uk/uksi/2021/715/regulation/60)
 
-[^key-0e1014ddcda330be4ac16ce0f45c2e2d]: Commencement: Reg. 4 not in force at made date, see reg. 1
+[^c-0e1014ddcda330be4ac16ce0f45c2e2d]: Commencement: Reg. 4 not in force at made date, see reg. 1
 
-[^key-0c22d91ca1be47c37aa64302cd9607d0]: Commencement: Reg. 4 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-0c22d91ca1be47c37aa64302cd9607d0]: Commencement: Reg. 4 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24396001]: Marginal citation: Group 15 was inserted into VATA by [S.I. 1999/3116](https://www.legislation.gov.uk/uksi/1999/3116). Articles 5-7 of [S.I. 1973/173](https://www.legislation.gov.uk/uksi/1973/173) prescribe who is obliged to account for VAT on such a supply.
 
-[^key-eafaaac7d113dddaaf49a622c6d4ae46]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/4/3) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [60](https://www.legislation.gov.uk/uksi/2021/715/regulation/60)
+[^c-eafaaac7d113dddaaf49a622c6d4ae46]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/4/3) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [60](https://www.legislation.gov.uk/uksi/2021/715/regulation/60)
 
-[^key-eac77266f6a1f247e3c32fa3641c0831]: Commencement: Reg. 5 not in force at made date, see reg. 1
+[^c-eac77266f6a1f247e3c32fa3641c0831]: Commencement: Reg. 5 not in force at made date, see reg. 1
 
-[^key-9b1c66f044e984ff511ab745383605d4]: Commencement: Reg. 5 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-9b1c66f044e984ff511ab745383605d4]: Commencement: Reg. 5 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24396011]: Marginal citation: Section 55A was inserted by section 19 of the [Finance Act 2006 (c.25)](https://www.legislation.gov.uk/ukpga/2006/25) and amended by section 50 of the [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [section 203](https://www.legislation.gov.uk/ukpga/2010/13/section/203) of, and paragraph 6 of Schedule 28 to, the [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [section 43](https://www.legislation.gov.uk/ukpga/2012/14/section/43) of, and paragraph 55 of Schedule 8 to, TCTA and section 51 of the [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1). The amendment made by TCTA is not yet in force.
 
-[^key-fe3aae6ed586a252ec919ed82ff8c20e]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/5/3) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [60](https://www.legislation.gov.uk/uksi/2021/715/regulation/60)
+[^c-fe3aae6ed586a252ec919ed82ff8c20e]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/5/3) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [60](https://www.legislation.gov.uk/uksi/2021/715/regulation/60)
 
-[^key-739cbcaea32fbeaaf6403d1b281e7a13]: Commencement: Reg. 6 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1546/regulation/1)
+[^c-739cbcaea32fbeaaf6403d1b281e7a13]: Commencement: Reg. 6 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1546/regulation/1)
 
-[^key-874eba2aa4158feb9cc94fa093d811f9]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-874eba2aa4158feb9cc94fa093d811f9]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-dc452e914b28f1ca001a7f699ee7c8b1]: Textual amendment: Words in reg. 6(2) substituted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [28](https://www.legislation.gov.uk/uksi/2021/1164/regulation/28)
+[^c-dc452e914b28f1ca001a7f699ee7c8b1]: Textual amendment: Words in reg. 6(2) substituted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [28](https://www.legislation.gov.uk/uksi/2021/1164/regulation/28)
 
 [^c24396021]: Marginal citation: OJ L 269 10.10.2013, p 1.
 
 [^c24396031]: Marginal citation: 2018; c. 16. Section 7A was inserted by section 5 of the [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
 
-[^key-e70889e68e176b1e9725908c9901ffbf]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2020/1546/regulation/6A) inserted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [62](https://www.legislation.gov.uk/uksi/2021/715/regulation/62)
+[^c-e70889e68e176b1e9725908c9901ffbf]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2020/1546/regulation/6A) inserted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [62](https://www.legislation.gov.uk/uksi/2021/715/regulation/62)
 
-[^key-d67664b3a4f8b8ca3364560caf6da9a9]: Textual amendment: Words in [reg. 6A(2)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/6A/2) substituted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [29](https://www.legislation.gov.uk/uksi/2021/1164/regulation/29)
+[^c-d67664b3a4f8b8ca3364560caf6da9a9]: Textual amendment: Words in [reg. 6A(2)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/6A/2) substituted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [29](https://www.legislation.gov.uk/uksi/2021/1164/regulation/29)
 
-[^key-62654e5cebc52ce7aa6d6d30add575e6]: Commencement: Reg. 7 not in force at made date, see reg. 1
+[^c-62654e5cebc52ce7aa6d6d30add575e6]: Commencement: Reg. 7 not in force at made date, see reg. 1
 
-[^key-bf4b73200baff833e67494bd139a77f2]: Commencement: Reg. 7 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-bf4b73200baff833e67494bd139a77f2]: Commencement: Reg. 7 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-904f31f6b0c80ccf20cb00f7dd41962c]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/7/4) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [60](https://www.legislation.gov.uk/uksi/2021/715/regulation/60)
+[^c-904f31f6b0c80ccf20cb00f7dd41962c]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/7/4) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [60](https://www.legislation.gov.uk/uksi/2021/715/regulation/60)
 
-[^key-96524d1b8e6d04f2eba1e3dc4365c441]: Commencement: Reg. 8 not in force at made date, see reg. 1
+[^c-96524d1b8e6d04f2eba1e3dc4365c441]: Commencement: Reg. 8 not in force at made date, see reg. 1
 
-[^key-bb4102dbb2e4cb179eb036f478670616]: Commencement: Reg. 8 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-bb4102dbb2e4cb179eb036f478670616]: Commencement: Reg. 8 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24396041]: Marginal citation: [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518); relevantly amended by [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545).
 
-[^key-54294003a67c9d62f5ae231b364c838e]: Commencement: Reg. 9 not in force at made date, see reg. 1
+[^c-54294003a67c9d62f5ae231b364c838e]: Commencement: Reg. 9 not in force at made date, see reg. 1
 
-[^key-03e989d413a338e4dc60b62ab2756a21]: Commencement: Reg. 9 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-03e989d413a338e4dc60b62ab2756a21]: Commencement: Reg. 9 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-6d646a5b0aa6ea8db72924cf64c1dd6f]: Commencement: Reg. 10 not in force at made date, see reg. 1
+[^c-6d646a5b0aa6ea8db72924cf64c1dd6f]: Commencement: Reg. 10 not in force at made date, see reg. 1
 
-[^key-14ebd9b255b095e5139f3361e534f30f]: Commencement: Reg. 10 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-14ebd9b255b095e5139f3361e534f30f]: Commencement: Reg. 10 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-534cbbd07cc6668f00b64c60962da3e5]: Commencement: Reg. 11 not in force at made date, see reg. 1
+[^c-534cbbd07cc6668f00b64c60962da3e5]: Commencement: Reg. 11 not in force at made date, see reg. 1
 
-[^key-c0e460fdabf7757e71f0c265cbafd2b5]: Commencement: Reg. 11 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-c0e460fdabf7757e71f0c265cbafd2b5]: Commencement: Reg. 11 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-cbf778f16d8ed33c08a18bd27287e384]: Commencement: Reg. 12 not in force at made date, see reg. 1
+[^c-cbf778f16d8ed33c08a18bd27287e384]: Commencement: Reg. 12 not in force at made date, see reg. 1
 
-[^key-4c2af5339ea7b637ff932806cd1a420a]: Commencement: Reg. 12 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-4c2af5339ea7b637ff932806cd1a420a]: Commencement: Reg. 12 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-c653ae6082bc63b15dae9d38b9fc1c07]: Commencement: Reg. 13 not in force at made date, see reg. 1
+[^c-c653ae6082bc63b15dae9d38b9fc1c07]: Commencement: Reg. 13 not in force at made date, see reg. 1
 
-[^key-ae7b622e1bdcce484ab1a29c9931d4d0]: Commencement: Reg. 13 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-ae7b622e1bdcce484ab1a29c9931d4d0]: Commencement: Reg. 13 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-c9d0c4b51967abab3e22469fd0dcab4b]: Commencement: Reg. 14 not in force at made date, see reg. 1
+[^c-c9d0c4b51967abab3e22469fd0dcab4b]: Commencement: Reg. 14 not in force at made date, see reg. 1
 
-[^key-3c029d59c9150fdacfcd2ef0d383795a]: Commencement: Reg. 14 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-3c029d59c9150fdacfcd2ef0d383795a]: Commencement: Reg. 14 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-e072bec3116388c5b70bb43356272a51]: Commencement: Reg. 15 not in force at made date, see reg. 1
+[^c-e072bec3116388c5b70bb43356272a51]: Commencement: Reg. 15 not in force at made date, see reg. 1
 
-[^key-7c7a8467a0cd499a9219199cdda2ae08]: Commencement: Reg. 15 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-7c7a8467a0cd499a9219199cdda2ae08]: Commencement: Reg. 15 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24396051]: Marginal citation: Schedule 9ZC was inserted into VATA by paragraph 28 of Schedule 3 to TPTPA and amended by paragraph 29 of Schedule 3 to TPTPA.
 
-[^key-6ef5e62b962e5d6781237cf075669158]: Commencement: Reg. 16 not in force at made date, see reg. 1
+[^c-6ef5e62b962e5d6781237cf075669158]: Commencement: Reg. 16 not in force at made date, see reg. 1
 
-[^key-1d0c2705e76894e0bc9257a12c10c86e]: Commencement: Reg. 16 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-1d0c2705e76894e0bc9257a12c10c86e]: Commencement: Reg. 16 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24396061]: Marginal citation: Defined by section 25(1) VATA.
 
@@ -603,23 +603,23 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24396081]: Marginal citation: [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518); relevantly amended by [S.I. 1996/1198](https://www.legislation.gov.uk/uksi/1996/1198), 1996/1250, 1997/1086, 1999/3114, 2000/258, 2000/794, 2003/1114, 2003/1485, 2003/2096, 2003/3220, 2004/1675, 2005/2231, 2007/1418, 2008/1482, 2009/586, 2009/2978, 2010/559, 2010/2240, 2012/33, 2012/1899, 2014/548, 2014/1497, 2018/261, 2019/59, 2019/60, 2019/1048, 2020/1545. The amendments made by [S.I. 2019/59](https://www.legislation.gov.uk/uksi/2019/59), 2019/60 and 2020/1545 are not yet in force.
 
-[^key-fe9bf2b83538121d23ac249f5256d521]: Commencement: Reg. 17 not in force at made date, see reg. 1
+[^c-fe9bf2b83538121d23ac249f5256d521]: Commencement: Reg. 17 not in force at made date, see reg. 1
 
-[^key-ae3968d2a460c465b4d2a7ccf80a3036]: Commencement: Reg. 17 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-ae3968d2a460c465b4d2a7ccf80a3036]: Commencement: Reg. 17 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-b552a5a53fd9f0234cb7857e9d6d18ee]: Textual amendment: [Reg. 17(1A)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/17/1A) inserted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [63(a)](https://www.legislation.gov.uk/uksi/2021/715/regulation/63/a)
+[^c-b552a5a53fd9f0234cb7857e9d6d18ee]: Textual amendment: [Reg. 17(1A)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/17/1A) inserted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [63(a)](https://www.legislation.gov.uk/uksi/2021/715/regulation/63/a)
 
-[^key-1635e8f9908f20cdfd625fbc838a446b]: Textual amendment: Words in [reg. 17(4)(g)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/17/4/g) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [63(b)(i)](https://www.legislation.gov.uk/uksi/2021/715/regulation/63/b/i)
+[^c-1635e8f9908f20cdfd625fbc838a446b]: Textual amendment: Words in [reg. 17(4)(g)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/17/4/g) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [63(b)(i)](https://www.legislation.gov.uk/uksi/2021/715/regulation/63/b/i)
 
 [^M_F_da9c5ebd-5008-4ddc-c6ec-74a92e8bee66]: Textual amendment: Section 50A was inserted by section 24(1) of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4); provisions in [S.I. 1992/3122](https://www.legislation.gov.uk/uksi/1992/3122) and [1995/1268](https://www.legislation.gov.uk/uksi/1995/1268) that were made under section 50A were amended by [S.I 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545) to make provision in respect of second-hand goods moving from Northern Ireland to Great Britain.
 
-[^key-3b8fbd2792c33d3c94b8204a0eeebeb9]: Textual amendment: [Reg. 17(4)(h)(i)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/17/4/h/i) inserted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [63(b)(ii)](https://www.legislation.gov.uk/uksi/2021/715/regulation/63/b/ii)
+[^c-3b8fbd2792c33d3c94b8204a0eeebeb9]: Textual amendment: [Reg. 17(4)(h)(i)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/17/4/h/i) inserted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [63(b)(ii)](https://www.legislation.gov.uk/uksi/2021/715/regulation/63/b/ii)
 
 [^c24396091]: Marginal citation: Relevantly amended by [S.I. 1996/1250](https://www.legislation.gov.uk/uksi/1996/1250), 2003/3220, 2007/2085, 2012/2951, 2019/59, 2020/1545 and Schedule 3 to TPTA. The amendments made by TPTPA and the last two named instruments are not yet in force.
 
-[^key-8b67d50885a1e34146e08f53b04e17e1]: Commencement: Reg. 18 not in force at made date, see reg. 1
+[^c-8b67d50885a1e34146e08f53b04e17e1]: Commencement: Reg. 18 not in force at made date, see reg. 1
 
-[^key-8a6a35a0978eaddedcb29d5154dacd9f]: Commencement: Reg. 18 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-8a6a35a0978eaddedcb29d5154dacd9f]: Commencement: Reg. 18 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24396101]: Marginal citation: Amended by paragraph 9 of Schedule 3 to the Finance Act 1996, section 136(3) of the [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [section 19](https://www.legislation.gov.uk/ukpga/2000/17/section/19) of the Finance Act 2006, section 203 of, and paragraph 7 of Schedule 28 to, the Finance Act 2012, section 38 of the [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [section 43](https://www.legislation.gov.uk/ukpga/2018/3/section/43) of, and paragraph 61 of Schedule 8 to, TCTA, section 80 of the [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14) and [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571). The amendment made by TCTA is not yet in force.
 
@@ -627,94 +627,94 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24396121]: Marginal citation: Amended by section 31 of, and paragraph 12 of Schedule 3 to, the Finance Act 1996, sections 45, 46 and 47 of the Finance Act 1997, section 16 of, and paragraph 3 of Schedule 2 to, the [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [section 137](https://www.legislation.gov.uk/ukpga/1999/16/section/137) of the Finance Act 2000, sections 23 and 24 of the [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [sections 17](https://www.legislation.gov.uk/ukpga/2002/23/section/17) and 18 of the [Finance Act 2003 (c.14)](https://www.legislation.gov.uk/ukpga/2003/14), [sections 19](https://www.legislation.gov.uk/ukpga/2003/14/section/19) and 22 of, and paragraph 4 of Schedule 2 to, the [Finance Act 2004 (c.12)](https://www.legislation.gov.uk/ukpga/2004/12), [section 4](https://www.legislation.gov.uk/ukpga/2004/12/section/4) of the [Finance (No 2) Act 2005 (c.22)](https://www.legislation.gov.uk/ukpga/2005/22), [section 21](https://www.legislation.gov.uk/ukpga/2005/22/section/21) of the Finance Act 2006, section 93 of the Finance Act 2007, section 77 of the [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [section 200](https://www.legislation.gov.uk/ukpga/2009/10/section/200) of the Finance Act 2012, section 124 of the [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [sections 62](https://www.legislation.gov.uk/ukpga/2016/24/section/62) and 68 of the Finance (No 2) Act 2017, section 43 of, and paragraph 72 of Schedule 8 to, TCTA and [S.I. 1997/2542](https://www.legislation.gov.uk/uksi/1997/2542), 2001/3641, 2003/3075, 2007/2157, 2008/1146, 2009/56. The amendment made by TCTA is not yet in force.
 
-[^key-2106fe2c790ccb1f54bcbdeb0dcb6aee]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1546/part/4) heading omitted (1.4.2022) by virtue of [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [34](https://www.legislation.gov.uk/uksi/2022/226/regulation/34)
+[^c-2106fe2c790ccb1f54bcbdeb0dcb6aee]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1546/part/4) heading omitted (1.4.2022) by virtue of [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [34](https://www.legislation.gov.uk/uksi/2022/226/regulation/34)
 
-[^key-72705b6c4f86f8c29e0ccdc18121a28f]: Commencement: Reg. 19 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1546/regulation/1)
+[^c-72705b6c4f86f8c29e0ccdc18121a28f]: Commencement: Reg. 19 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1546/regulation/1)
 
-[^key-16cb4483fdfdcad02ab0b1a1559908ca]: Commencement: Reg. 19 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-16cb4483fdfdcad02ab0b1a1559908ca]: Commencement: Reg. 19 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-de9fb7bce6bcc286fef39c2fe6452182]: Textual amendment: Words in [reg. 19(3)(a)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/19/3/a) inserted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [30](https://www.legislation.gov.uk/uksi/2021/1164/regulation/30)
+[^c-de9fb7bce6bcc286fef39c2fe6452182]: Textual amendment: Words in [reg. 19(3)(a)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/19/3/a) inserted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [30](https://www.legislation.gov.uk/uksi/2021/1164/regulation/30)
 
-[^key-d47af641c6d221667d80bc94e0a6abd7]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2020/1546/regulation/19A) inserted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [35](https://www.legislation.gov.uk/uksi/2022/226/regulation/35)
+[^c-d47af641c6d221667d80bc94e0a6abd7]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2020/1546/regulation/19A) inserted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [35](https://www.legislation.gov.uk/uksi/2022/226/regulation/35)
 
-[^key-34830d83b3a75ff6ed8228cce48fad15]: Commencement: Reg. 20 not in force at made date, see reg. 1
+[^c-34830d83b3a75ff6ed8228cce48fad15]: Commencement: Reg. 20 not in force at made date, see reg. 1
 
-[^key-07e18d3f882449a17e93ffbed8d85e04]: Commencement: Reg. 20 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-07e18d3f882449a17e93ffbed8d85e04]: Commencement: Reg. 20 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-3837b65ac29a935154909a2714d3c683]: Commencement: Reg. 21 not in force at made date, see reg. 1
+[^c-3837b65ac29a935154909a2714d3c683]: Commencement: Reg. 21 not in force at made date, see reg. 1
 
-[^key-45c3f9e49e55a891bc590d1bd30d36cc]: Commencement: Reg. 21 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-45c3f9e49e55a891bc590d1bd30d36cc]: Commencement: Reg. 21 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-eb5bdb9ed5e5adafe1761a308112cbbd]: Textual amendment: Word in [reg. 21](https://www.legislation.gov.uk/uksi/2020/1546/regulation/21) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [64(a)](https://www.legislation.gov.uk/uksi/2021/715/regulation/64/a)
+[^c-eb5bdb9ed5e5adafe1761a308112cbbd]: Textual amendment: Word in [reg. 21](https://www.legislation.gov.uk/uksi/2020/1546/regulation/21) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [64(a)](https://www.legislation.gov.uk/uksi/2021/715/regulation/64/a)
 
-[^key-254854b45d781a5f37c148a943088fc4]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2020/1546/regulation/21) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [64(b)](https://www.legislation.gov.uk/uksi/2021/715/regulation/64/b)
+[^c-254854b45d781a5f37c148a943088fc4]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2020/1546/regulation/21) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [64(b)](https://www.legislation.gov.uk/uksi/2021/715/regulation/64/b)
 
-[^key-95dd41752a0f6a5d900ba4a3ed0de747]: Commencement: Reg. 22 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1546/regulation/1)
+[^c-95dd41752a0f6a5d900ba4a3ed0de747]: Commencement: Reg. 22 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1546/regulation/1)
 
-[^key-54a5efe6e66ec0c2b6f7259f499b4532]: Commencement: Reg. 22 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-54a5efe6e66ec0c2b6f7259f499b4532]: Commencement: Reg. 22 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24396131]: Marginal citation: Schedule 9ZA was inserted into VATA by paragraph 2 of Schedule 2 to TPTPA.
 
-[^key-d61aea9ffeca22031d5d775cd6e4b72f]: Textual amendment: Word in [reg. 22(2)(d)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/22/2/d) omitted (1.12.2021) by virtue of [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [31(a)](https://www.legislation.gov.uk/uksi/2021/1164/regulation/31/a)
+[^c-d61aea9ffeca22031d5d775cd6e4b72f]: Textual amendment: Word in [reg. 22(2)(d)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/22/2/d) omitted (1.12.2021) by virtue of [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [31(a)](https://www.legislation.gov.uk/uksi/2021/1164/regulation/31/a)
 
-[^key-f03f8efd96c52c99698b7ab2a5d9f1d7]: Textual amendment: Word in [reg. 22(2)(e)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/22/2/e) inserted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [31(b)](https://www.legislation.gov.uk/uksi/2021/1164/regulation/31/b)
+[^c-f03f8efd96c52c99698b7ab2a5d9f1d7]: Textual amendment: Word in [reg. 22(2)(e)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/22/2/e) inserted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [31(b)](https://www.legislation.gov.uk/uksi/2021/1164/regulation/31/b)
 
-[^key-b82e2a7f43d3d013b323aa5784e88f5f]: Textual amendment: [Reg. 22(2)(f)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/22/2/f) inserted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [31(c)](https://www.legislation.gov.uk/uksi/2021/1164/regulation/31/c)
+[^c-b82e2a7f43d3d013b323aa5784e88f5f]: Textual amendment: [Reg. 22(2)(f)](https://www.legislation.gov.uk/uksi/2020/1546/regulation/22/2/f) inserted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [31(c)](https://www.legislation.gov.uk/uksi/2021/1164/regulation/31/c)
 
-[^key-99a838dfdc0042e1e682fedd237ff6e9]: Commencement: Reg. 23 not in force at made date, see reg. 1
+[^c-99a838dfdc0042e1e682fedd237ff6e9]: Commencement: Reg. 23 not in force at made date, see reg. 1
 
-[^key-c409bc7391249bf1b785bc544d76263e]: Commencement: Reg. 23 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-c409bc7391249bf1b785bc544d76263e]: Commencement: Reg. 23 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24396141]: Marginal citation: OJ No. L 268 12.10.2010, p1-18.
 
-[^key-5ca494e4b37b6e7a02a60276de81f167]: Commencement: Reg. 24 not in force at made date, see reg. 1
+[^c-5ca494e4b37b6e7a02a60276de81f167]: Commencement: Reg. 24 not in force at made date, see reg. 1
 
-[^key-8a8840e8cf82afc42834b9115fb718fb]: Commencement: Reg. 24 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-8a8840e8cf82afc42834b9115fb718fb]: Commencement: Reg. 24 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-0bfd27b6a00b86607f42c3e196a60761]: Commencement: Reg. 25 not in force at made date, see reg. 1
+[^c-0bfd27b6a00b86607f42c3e196a60761]: Commencement: Reg. 25 not in force at made date, see reg. 1
 
-[^key-3d9346cd27b4f789aca7fa30070f3804]: Commencement: Reg. 25 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-3d9346cd27b4f789aca7fa30070f3804]: Commencement: Reg. 25 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-31d5c7945147e9771594cdb9edb67e0a]: Commencement: Reg. 26 not in force at made date, see reg. 1
+[^c-31d5c7945147e9771594cdb9edb67e0a]: Commencement: Reg. 26 not in force at made date, see reg. 1
 
-[^key-88a3619b73356731dfe5cee9c8f3d34c]: Commencement: Reg. 26 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-88a3619b73356731dfe5cee9c8f3d34c]: Commencement: Reg. 26 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-0fb0818275f29cf671ffce57ae09e7da]: Commencement: Reg. 27 not in force at made date, see reg. 1
+[^c-0fb0818275f29cf671ffce57ae09e7da]: Commencement: Reg. 27 not in force at made date, see reg. 1
 
-[^key-1b1d78e434a763b2f0c637f5faf667b3]: Commencement: Reg. 27 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-1b1d78e434a763b2f0c637f5faf667b3]: Commencement: Reg. 27 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-d48732ff5e87bbc4b64d70494cbe9a33]: Commencement: Reg. 28 not in force at made date, see reg. 1
+[^c-d48732ff5e87bbc4b64d70494cbe9a33]: Commencement: Reg. 28 not in force at made date, see reg. 1
 
-[^key-6bf18bd3db912f3f01c9f90762492468]: Commencement: Reg. 28 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-6bf18bd3db912f3f01c9f90762492468]: Commencement: Reg. 28 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-ac0d18592d6d494f45401e81b5e088e1]: Commencement: Reg. 29 not in force at made date, see reg. 1
+[^c-ac0d18592d6d494f45401e81b5e088e1]: Commencement: Reg. 29 not in force at made date, see reg. 1
 
-[^key-1ca78871214727fdd2d7690f82cbe5f0]: Commencement: Reg. 29 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-1ca78871214727fdd2d7690f82cbe5f0]: Commencement: Reg. 29 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-5ecfa97f5267968242f7bed4fe87da3b]: Commencement: Reg. 30 not in force at made date, see reg. 1
+[^c-5ecfa97f5267968242f7bed4fe87da3b]: Commencement: Reg. 30 not in force at made date, see reg. 1
 
-[^key-e4eec15b0776808b3231f837bb56f916]: Commencement: Reg. 30 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-e4eec15b0776808b3231f837bb56f916]: Commencement: Reg. 30 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-e0b1ffd911836f354d95973f68a1669d]: Commencement: Reg. 31 not in force at made date, see reg. 1
+[^c-e0b1ffd911836f354d95973f68a1669d]: Commencement: Reg. 31 not in force at made date, see reg. 1
 
-[^key-37db45286881d9e520c6e9699018d7e6]: Commencement: Reg. 31 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-37db45286881d9e520c6e9699018d7e6]: Commencement: Reg. 31 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24396151]: Marginal citation: Section 9A was inserted by section 21 of the Finance Act 2004 and amended by section 20 of the [Finance (No 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [section 43](https://www.legislation.gov.uk/ukpga/2010/33/section/43) of, and paragraph 10 of Schedule 8 to, TCTA and by paragraph 5 of Schedule 2 to TPTPA.
 
-[^key-6cbd6a62ac05ac2a1932ccbbae66fbcf]: Commencement: Reg. 32 not in force at made date, see reg. 1
+[^c-6cbd6a62ac05ac2a1932ccbbae66fbcf]: Commencement: Reg. 32 not in force at made date, see reg. 1
 
-[^key-7a2ac6f8abdb0e36a4ff819562412e0e]: Commencement: Reg. 32 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-7a2ac6f8abdb0e36a4ff819562412e0e]: Commencement: Reg. 32 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-444ab2aacc3ea5b1c7d67af433e1e3b0]: Commencement: Reg. 33 not in force at made date, see reg. 1
+[^c-444ab2aacc3ea5b1c7d67af433e1e3b0]: Commencement: Reg. 33 not in force at made date, see reg. 1
 
-[^key-b95c27087e0ca1e14642df9000d7503f]: Commencement: Reg. 33 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-b95c27087e0ca1e14642df9000d7503f]: Commencement: Reg. 33 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24396161]: Marginal citation: Schedule 9ZC was inserted by Schedule 3 to TPTPA.
 
-[^key-363a1a92bce4382d82706372215c1f5c]: Commencement: Reg. 34 not in force at made date, see reg. 1
+[^c-363a1a92bce4382d82706372215c1f5c]: Commencement: Reg. 34 not in force at made date, see reg. 1
 
-[^key-331c17375d1b8e80e2729c64108d79e1]: Commencement: Reg. 34 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-331c17375d1b8e80e2729c64108d79e1]: Commencement: Reg. 34 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24396171]: Marginal citation: Section 1(1)(c) is amended by section 41 of TCTA but the amendment is not yet fully in force.
 
-[^key-04d142c6cac6f6843cb37b2a37231481]: Textual amendment: Pt. 8 inserted (22.4.2021) by [The Taxation Cross-border Trade (Northern Ireland) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/483)](https://www.legislation.gov.uk/uksi/2021/483), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/483/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/483/regulation/3/2)
+[^c-04d142c6cac6f6843cb37b2a37231481]: Textual amendment: Pt. 8 inserted (22.4.2021) by [The Taxation Cross-border Trade (Northern Ireland) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/483)](https://www.legislation.gov.uk/uksi/2021/483), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/483/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/483/regulation/3/2)

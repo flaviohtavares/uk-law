@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 150. Notice of an order under section 176A(5) of the IA 1986[^key-dda4025c0ab3acee1bcf04a0ed1e062e]
+## 150. Notice of an order under section 176A(5) of the IA 1986[^c-dda4025c0ab3acee1bcf04a0ed1e062e]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dda4025c0ab3acee1bcf04a0ed1e062e]: Commencement: Rule 150 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-dda4025c0ab3acee1bcf04a0ed1e062e]: Commencement: Rule 150 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

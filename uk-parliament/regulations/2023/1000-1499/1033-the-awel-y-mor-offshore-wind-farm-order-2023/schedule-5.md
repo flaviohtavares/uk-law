@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — Access to works[^key-e8a7fc756efa90bc79a4c927e92687e5]
+## SCHEDULE 5 — Access to works[^c-e8a7fc756efa90bc79a4c927e92687e5]
 
 *Extent: E+W*
 
 Article 13
 
-[^key-e8a7fc756efa90bc79a4c927e92687e5]
+[^c-e8a7fc756efa90bc79a4c927e92687e5]
 
 In the County of Denbighshire
 
@@ -57,4 +57,4 @@ In the County of Denbighshire
 
 ## Annotations
 
-[^key-e8a7fc756efa90bc79a4c927e92687e5]: Commencement: Sch. 5 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-e8a7fc756efa90bc79a4c927e92687e5]: Commencement: Sch. 5 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)

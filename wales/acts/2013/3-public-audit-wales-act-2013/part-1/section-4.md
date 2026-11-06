@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Disqualification[^key-4faf6e0c1e0ee92d899c86490cd26bac]
+## 4. Disqualification[^c-4faf6e0c1e0ee92d899c86490cd26bac]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4faf6e0c1e0ee92d899c86490cd26bac]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2013/3/section/4) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-4faf6e0c1e0ee92d899c86490cd26bac]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2013/3/section/4) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

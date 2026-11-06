@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Covered procurement only in accordance with this Act[^key-9e1fc292d75ac739da6e20654ca103ad][^key-0daabe9be3564ba6439bc946e7545464]
+## 11. Covered procurement only in accordance with this Act[^c-9e1fc292d75ac739da6e20654ca103ad][^c-0daabe9be3564ba6439bc946e7545464]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9e1fc292d75ac739da6e20654ca103ad]: Commencement: S. 11 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-9e1fc292d75ac739da6e20654ca103ad]: Commencement: S. 11 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-0daabe9be3564ba6439bc946e7545464]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/54/section/11) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-0daabe9be3564ba6439bc946e7545464]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/54/section/11) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

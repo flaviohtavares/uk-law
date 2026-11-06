@@ -26,7 +26,7 @@ summary: ''
 
 1992 No. 810 (N.I. 6)
 
-The Local Government (Miscellaneous Provisions) (Northern Ireland) Order 1992[^key-64fef30cf47649cf686b25ca159d9ac0]
+The Local Government (Miscellaneous Provisions) (Northern Ireland) Order 1992[^c-64fef30cf47649cf686b25ca159d9ac0]
 
 16th March 1992
 
@@ -95,10 +95,10 @@ In this Part—
 
 (4) The following matters are non-commercial matters as regards the public supply or works contracts of a council, any proposed or any subsisting such contract, as the case may be, that is to say—
 
-- (a)[^key-11b26f425850f20400235ccecec4ade1][^key-0538589ba94b9dd42346143861e38202] the terms and conditions of employment by contractors of their workers or the composition of, the arrangements for the promotion, transfer or training of or the other opportunities afforded to, their workforces;
+- (a)[^c-11b26f425850f20400235ccecec4ade1][^c-0538589ba94b9dd42346143861e38202] the terms and conditions of employment by contractors of their workers or the composition of, the arrangements for the promotion, transfer or training of or the other opportunities afforded to, their workforces;
 - (b) whether the terms on which contractors contract with their sub-contractors constitute, in the case of contracts with individuals, contracts for the provision by them as self-employed persons of their services only;
 - (c) any involvement of the business activities or interests of contractors with irrelevant fields of Government policy;
-- (d)[^key-b0d55b6db37fd513d0b01b80827a6297][^key-fb1f6752e78f209570d495c53a757936] the conduct of contractors or workers in industrial disputes between them or any involvement of the business activities of contractors in industrial disputes between other persons;
+- (d)[^c-b0d55b6db37fd513d0b01b80827a6297][^c-fb1f6752e78f209570d495c53a757936] the conduct of contractors or workers in industrial disputes between them or any involvement of the business activities of contractors in industrial disputes between other persons;
 - (e) the country or territory of origin of supplies to, or the location in any country or territory of the business activities or interests of, contractors;
 - (f) any political, industrial or sectarian affiliations or interests of contractors or their directors, partners or employees;
 - (g) financial support or lack of financial support by contractors for any institution to or from which the council gives or withholds support.
@@ -114,7 +114,7 @@ In this Part—
 
 is also, in relation to the contractor, a non-commercial matter for the purposes of this Article.
 
-(7)[^key-4c3507c4029e95bdd8ea7139cdc253e1] The Department may by order provide, in relation to councils, for a specified matter to cease to be a non-commercial matter for the purposes of this Article.
+(7)[^c-4c3507c4029e95bdd8ea7139cdc253e1] The Department may by order provide, in relation to councils, for a specified matter to cease to be a non-commercial matter for the purposes of this Article.
 
 (8) An order under paragraph (7) may—
 
@@ -294,7 +294,7 @@ the Department may establish a scheme under this Article for the giving of finan
 
 #### 29. Northern Ireland code of local government conduct
 
-(1)[^key-b02bae7e2bdd481bdfe4c2c6c110cf96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-b02bae7e2bdd481bdfe4c2c6c110cf96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In Part I of Schedule 1 to the principal Act (declaration of councillor) at the end of the declaration there shall be added—
 
@@ -306,19 +306,19 @@ the Department may establish a scheme under this Article for the giving of finan
 
 In section 10(a) of the principal Act (declaration of vacancy in office in certain cases) after “conviction” there shall be inserted “or of a determination by the High Court that he has acted in breach of the terms of a declaration against terrorism as defined in section 7 of the Elected Authorities (Northern Ireland) Act 1989,”.
 
-#### 31. Election of chairman or vice-chairman[^key-276ecbb6d84390c1229af520ff82dbb2]
+#### 31. Election of chairman or vice-chairman[^c-276ecbb6d84390c1229af520ff82dbb2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 32. Voting rights of members of committees, sub-committees and joint committees[^key-276ecbb6d84390c1229af520ff82dbb2]
+#### 32. Voting rights of members of committees, sub-committees and joint committees[^c-276ecbb6d84390c1229af520ff82dbb2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 33. Procedural standing orders[^key-276ecbb6d84390c1229af520ff82dbb2]
+#### 33. Procedural standing orders[^c-276ecbb6d84390c1229af520ff82dbb2]
 
 **No longer in force.**
 
@@ -390,7 +390,7 @@ In section 40(3)(i) of the principal Act (appointment of the Staff Commission af
 
 (2) [^c20030031]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-13454e58eb447d2b12899dcc80d58290] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-13454e58eb447d2b12899dcc80d58290] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 37. Auditor's report
 
@@ -635,7 +635,7 @@ SCHEDULES
 
 ## Annotations
 
-[^key-64fef30cf47649cf686b25ca159d9ac0]: Modification: [Order](https://www.legislation.gov.uk/nisi/1992/810): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-64fef30cf47649cf686b25ca159d9ac0]: Modification: [Order](https://www.legislation.gov.uk/nisi/1992/810): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c17264901]: Textual amendment: [1954 c. 33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -649,15 +649,15 @@ SCHEDULES
 
 [^c17265011]: Textual amendment: [1997 NI 6](https://www.legislation.gov.uk/nisi/1997)
 
-[^key-11b26f425850f20400235ccecec4ade1]: Modification: Art. 19(4)(a) modified (4.7.2012) by [Local Government Best Value (Exclusion of Non-commercial Considerations) Order (Northern Ireland) 2012 (S.R. 2012/271)](https://www.legislation.gov.uk/nisr/2012/271), [arts. 1](https://www.legislation.gov.uk/nisr/2012/271/article/1), [2](https://www.legislation.gov.uk/nisr/2012/271/article/2)
+[^c-11b26f425850f20400235ccecec4ade1]: Modification: Art. 19(4)(a) modified (4.7.2012) by [Local Government Best Value (Exclusion of Non-commercial Considerations) Order (Northern Ireland) 2012 (S.R. 2012/271)](https://www.legislation.gov.uk/nisr/2012/271), [arts. 1](https://www.legislation.gov.uk/nisr/2012/271/article/1), [2](https://www.legislation.gov.uk/nisr/2012/271/article/2)
 
-[^key-0538589ba94b9dd42346143861e38202]: Modification: [Art. 19(4)(a)](https://www.legislation.gov.uk/nisi/1992/810/article/19/4/a) modified (30.6.2015) by [The Local Government (Exclusion of Non-commercial Considerations) Order (Northern Ireland) 2015 (S.R. 2015/289)](https://www.legislation.gov.uk/nisr/2015/289), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2015/289/article/1/1), [2](https://www.legislation.gov.uk/nisr/2015/289/article/2)
+[^c-0538589ba94b9dd42346143861e38202]: Modification: [Art. 19(4)(a)](https://www.legislation.gov.uk/nisi/1992/810/article/19/4/a) modified (30.6.2015) by [The Local Government (Exclusion of Non-commercial Considerations) Order (Northern Ireland) 2015 (S.R. 2015/289)](https://www.legislation.gov.uk/nisr/2015/289), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2015/289/article/1/1), [2](https://www.legislation.gov.uk/nisr/2015/289/article/2)
 
-[^key-b0d55b6db37fd513d0b01b80827a6297]: Modification: Art. 19(4)(d) modified (4.7.2012) by [Local Government Best Value (Exclusion of Non-commercial Considerations) Order (Northern Ireland) 2012 (S.R. 2012/271)](https://www.legislation.gov.uk/nisr/2012/271), [arts. 1](https://www.legislation.gov.uk/nisr/2012/271/article/1), [2](https://www.legislation.gov.uk/nisr/2012/271/article/2)
+[^c-b0d55b6db37fd513d0b01b80827a6297]: Modification: Art. 19(4)(d) modified (4.7.2012) by [Local Government Best Value (Exclusion of Non-commercial Considerations) Order (Northern Ireland) 2012 (S.R. 2012/271)](https://www.legislation.gov.uk/nisr/2012/271), [arts. 1](https://www.legislation.gov.uk/nisr/2012/271/article/1), [2](https://www.legislation.gov.uk/nisr/2012/271/article/2)
 
-[^key-fb1f6752e78f209570d495c53a757936]: Modification: [Art. 19(4)(d)](https://www.legislation.gov.uk/nisi/1992/810/article/19/4/d) modified (30.6.2015) by [The Local Government (Exclusion of Non-commercial Considerations) Order (Northern Ireland) 2015 (S.R. 2015/289)](https://www.legislation.gov.uk/nisr/2015/289), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2015/289/article/1/1), [2](https://www.legislation.gov.uk/nisr/2015/289/article/2)
+[^c-fb1f6752e78f209570d495c53a757936]: Modification: [Art. 19(4)(d)](https://www.legislation.gov.uk/nisi/1992/810/article/19/4/d) modified (30.6.2015) by [The Local Government (Exclusion of Non-commercial Considerations) Order (Northern Ireland) 2015 (S.R. 2015/289)](https://www.legislation.gov.uk/nisr/2015/289), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2015/289/article/1/1), [2](https://www.legislation.gov.uk/nisr/2015/289/article/2)
 
-[^key-4c3507c4029e95bdd8ea7139cdc253e1]: Textual amendment: [Art. 19(7)-(9)](https://www.legislation.gov.uk/nisi/1992/810/article/19/7) added (1.2.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 115](https://www.legislation.gov.uk/nia/2014/8/section/115), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/28](https://www.legislation.gov.uk/nisr/2015/28), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/28/article/2/b)
+[^c-4c3507c4029e95bdd8ea7139cdc253e1]: Textual amendment: [Art. 19(7)-(9)](https://www.legislation.gov.uk/nisi/1992/810/article/19/7) added (1.2.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 115](https://www.legislation.gov.uk/nia/2014/8/section/115), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/28](https://www.legislation.gov.uk/nisr/2015/28), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/28/article/2/b)
 
 [^c17265031]: Textual amendment: [1998 NI 21](https://www.legislation.gov.uk/1998/ni21)
 
@@ -665,13 +665,13 @@ SCHEDULES
 
 [^c17265151]: Textual amendment: [1989 c. 32](https://www.legislation.gov.uk/ukpga/1989/32)
 
-[^key-b02bae7e2bdd481bdfe4c2c6c110cf96]: Textual amendment: [Art. 29(1)](https://www.legislation.gov.uk/nisi/1992/810/article/29/1) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-b02bae7e2bdd481bdfe4c2c6c110cf96]: Textual amendment: [Art. 29(1)](https://www.legislation.gov.uk/nisi/1992/810/article/29/1) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
 
-[^key-276ecbb6d84390c1229af520ff82dbb2]: Textual amendment: [Arts. 31-33](https://www.legislation.gov.uk/nisi/1992/810/article/31) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-276ecbb6d84390c1229af520ff82dbb2]: Textual amendment: [Arts. 31-33](https://www.legislation.gov.uk/nisi/1992/810/article/31) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
 
 [^c20030031]: Textual amendment: Art. 36(1)(2) repealed (1.4.2006) by [Local Government (Northern Ireland) Order 2005 (S.I. 2005/1968 (N.I. 18))](https://www.legislation.gov.uk/nisi/2005/1968), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2005/1968/article/1/2), [28(8)](https://www.legislation.gov.uk/nisi/2005/1968/article/28/8), [Sch. 1](https://www.legislation.gov.uk/nisi/2005/1968/schedule/1); [S.R. 2006/151](https://www.legislation.gov.uk/nisr/2006/151), [art. 2](https://www.legislation.gov.uk/nisr/2006/151/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2006/151/schedule) (with [art. 4](https://www.legislation.gov.uk/nisr/2006/151/article/4))
 
-[^key-13454e58eb447d2b12899dcc80d58290]: Textual amendment: [Art. 36(3)](https://www.legislation.gov.uk/nisi/1992/810/article/36/3) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-13454e58eb447d2b12899dcc80d58290]: Textual amendment: [Art. 36(3)](https://www.legislation.gov.uk/nisi/1992/810/article/36/3) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
 
 [^c20030861]: Textual amendment: [Art. 37](https://www.legislation.gov.uk/nisi/1992/810/article/37) repealed (1.4.2006) by [Local Government (Northern Ireland) Order 2005 (S.I. 2005/1968 (N.I. 18))](https://www.legislation.gov.uk/nisi/2005/1968), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2005/1968/article/1/2), [28(8)](https://www.legislation.gov.uk/nisi/2005/1968/article/28/8), [Sch. 1](https://www.legislation.gov.uk/nisi/2005/1968/schedule/1); [S.R. 2006/151](https://www.legislation.gov.uk/nisr/2006/151), [art. 2](https://www.legislation.gov.uk/nisr/2006/151/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2006/151/schedule) (with [art. 4](https://www.legislation.gov.uk/nisr/2006/151/article/4))
 

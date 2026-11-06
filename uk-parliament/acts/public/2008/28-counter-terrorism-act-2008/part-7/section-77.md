@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Terrorist property: disclosure of information about possible offences[^key-21c596104bda393a97c7fbb42a3fb091]
+## 77. Terrorist property: disclosure of information about possible offences[^c-21c596104bda393a97c7fbb42a3fb091]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ In any such case sections 19(2), 21(3) and 21A(4) of that Act (duty to make disc
 
 ## Annotations
 
-[^key-21c596104bda393a97c7fbb42a3fb091]: Commencement: S. 77 in force at 16.2.2009 by [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(e)](https://www.legislation.gov.uk/uksi/2009/58/article/2/e)
+[^c-21c596104bda393a97c7fbb42a3fb091]: Commencement: S. 77 in force at 16.2.2009 by [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(e)](https://www.legislation.gov.uk/uksi/2009/58/article/2/e)

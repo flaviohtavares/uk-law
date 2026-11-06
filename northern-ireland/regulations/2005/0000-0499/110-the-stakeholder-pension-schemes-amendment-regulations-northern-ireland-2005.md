@@ -41,11 +41,11 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by Articles 3(1)(b) and (5) and 73(4) of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-b2d6ed12ee62c35c4651b051f963ff03]
+## 1. Citation and commencement[^c-b2d6ed12ee62c35c4651b051f963ff03]
 
 These Regulations may be cited as the Stakeholder Pension Schemes (Amendment) Regulations (Northern Ireland) 2005 and shall come into operation on 6th April 2005.
 
-## 2. Amendment of the Stakeholder Pension Schemes Regulations[^key-feeb1427ca40f94e4bc6d9b9b2b2f6de]
+## 2. Amendment of the Stakeholder Pension Schemes Regulations[^c-feeb1427ca40f94e4bc6d9b9b2b2f6de]
 
 (1) The Stakeholder Pension Schemes Regulations (Northern Ireland) 2000[^f00003] shall be amended in accordance with paragraphs (2) to (12).
 
@@ -71,7 +71,7 @@ These Regulations may be cited as the Stakeholder Pension Schemes (Amendment) Re
   - (iv) the definition of “investment trust” shall be omitted, and
   - (v) in the definition of “securities”[^f00007] the words “, but does not include shares in an investment trust” shall be omitted;
 - (b) paragraph (7A)[^f00008] shall be omitted, and
-- (c)[^key-ed8004305df0b2275199e5f398c48d5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-ed8004305df0b2275199e5f398c48d5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 3(4) (requirements applying to all stakeholder pension schemes as regards instruments establishing such schemes) for “and 14” there shall be substituted “, 14 and 14B”.
 
@@ -299,9 +299,9 @@ These Regulations may be cited as the Stakeholder Pension Schemes (Amendment) Re
 
 (11) In regulation 16(a)(i) (requirements as regards the provision of other services), for “and 14” there shall be substituted “, 14 and 14B”.
 
-(12)[^key-10d9cce5e3e5ac9b9d3ce15ec3c615a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-10d9cce5e3e5ac9b9d3ce15ec3c615a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-f52ea1d53a282fb35d947edf3c4b0570]
+## 3. Revocations[^c-f52ea1d53a282fb35d947edf3c4b0570]
 
 Regulations 2(3)(a) and (4) and 10 of the Stakeholder Pension Schemes (Amendment No. 2) Regulations (Northern Ireland) 2001[^f00013] and the Stakeholder Pension Schemes (Amendment) Regulations (Northern Ireland) 2002[^f00014] are hereby revoked.
 
@@ -341,9 +341,9 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-b2d6ed12ee62c35c4651b051f963ff03]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/110/regulation/1)
+[^c-b2d6ed12ee62c35c4651b051f963ff03]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/110/regulation/1)
 
-[^key-feeb1427ca40f94e4bc6d9b9b2b2f6de]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/110/regulation/1)
+[^c-feeb1427ca40f94e4bc6d9b9b2b2f6de]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/110/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2000 No. 262](https://www.legislation.gov.uk/nisr/2000/262); relevant amending regulations are [S.R. 2001 No. 119](https://www.legislation.gov.uk/nisr/2001/119), [S.R. 2002 Nos. 216](https://www.legislation.gov.uk/nisr/2002/216) and [268](https://www.legislation.gov.uk/nisr/2002/268) and [S.R. 2003 No. 256](https://www.legislation.gov.uk/nisr/2003/256)
 
@@ -357,7 +357,7 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00008]: Footnote: Paragraph (7A) was inserted as paragraph (8) by regulation 2(4) of [S.R. 2001 No. 119](https://www.legislation.gov.uk/nisr/2001/119) and was renumbered as paragraph (7A) by regulation 2(2) of [S.R. 2002 No. 216](https://www.legislation.gov.uk/nisr/2002/216)
 
-[^key-ed8004305df0b2275199e5f398c48d5c]: Textual amendment: [Reg. 2(2)(c)](https://www.legislation.gov.uk/nisr/2005/110/regulation/2/2/c) revoked (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/373)](https://www.legislation.gov.uk/nisr/2010/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2010/373/regulation/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/373/schedule/2)
+[^c-ed8004305df0b2275199e5f398c48d5c]: Textual amendment: [Reg. 2(2)(c)](https://www.legislation.gov.uk/nisr/2005/110/regulation/2/2/c) revoked (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/373)](https://www.legislation.gov.uk/nisr/2010/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2010/373/regulation/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/373/schedule/2)
 
 [^f00009]: Footnote: Regulation 8(4) and (5) was amended by regulation 18(3) of [S.R. 2003 No. 256](https://www.legislation.gov.uk/nisr/2003/256)
 
@@ -367,9 +367,9 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00012]: Footnote: Paragraph (4) was amended by regulation 11(3) of [S.R. 2001 No. 119](https://www.legislation.gov.uk/nisr/2001/119) and regulation 5 of [S.R. 2002 No. 268](https://www.legislation.gov.uk/nisr/2002/268)
 
-[^key-10d9cce5e3e5ac9b9d3ce15ec3c615a2]: Textual amendment: [Reg. 2(12)](https://www.legislation.gov.uk/nisr/2005/110/regulation/2/12) revoked (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/373)](https://www.legislation.gov.uk/nisr/2010/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2010/373/regulation/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/373/schedule/2)
+[^c-10d9cce5e3e5ac9b9d3ce15ec3c615a2]: Textual amendment: [Reg. 2(12)](https://www.legislation.gov.uk/nisr/2005/110/regulation/2/12) revoked (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/373)](https://www.legislation.gov.uk/nisr/2010/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2010/373/regulation/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/373/schedule/2)
 
-[^key-f52ea1d53a282fb35d947edf3c4b0570]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/110/regulation/1)
+[^c-f52ea1d53a282fb35d947edf3c4b0570]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/110/regulation/1)
 
 [^f00013]: Footnote: [S.R. 2001 No. 119](https://www.legislation.gov.uk/nisr/2001/119)
 

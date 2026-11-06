@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40.6. Consent judgments and orders[^key-a4d462720bd0359461532d4a6b8fbe60]
+## 40.6. Consent judgments and orders[^c-a4d462720bd0359461532d4a6b8fbe60]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4d462720bd0359461532d4a6b8fbe60]: Commencement: [Rule 40.6](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.6) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-a4d462720bd0359461532d4a6b8fbe60]: Commencement: [Rule 40.6](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.6) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

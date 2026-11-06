@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Enforcement of information notice[^key-f577fac9f0183ca69cbf68b084b1896f]
+## 51. Enforcement of information notice[^c-f577fac9f0183ca69cbf68b084b1896f]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f577fac9f0183ca69cbf68b084b1896f]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2012/19/section/51) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-f577fac9f0183ca69cbf68b084b1896f]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2012/19/section/51) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

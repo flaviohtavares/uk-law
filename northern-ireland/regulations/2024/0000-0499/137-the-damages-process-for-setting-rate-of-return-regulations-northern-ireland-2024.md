@@ -44,15 +44,15 @@ Coming into operation
 
 The Department of Justice makes the following Regulations in exercise of the powers conferred by paragraphs 9(2)(b) and 11(1) of Schedule C1 to the Damages Act 1996[^f00001].
 
-## 1. Citation and commencement[^key-26584786c495230509787f2946f36644]
+## 1. Citation and commencement[^c-26584786c495230509787f2946f36644]
 
 These Regulations may be cited as the Damages (Process for Setting Rate of Return) Regulations (Northern Ireland) 2024 and come into operation on 1st July 2024.
 
-## 2. Modification of standard adjustment for impact of taxation and costs of investment advice and management[^key-e4489a5ea72088742e24a2aaf84f3c87]
+## 2. Modification of standard adjustment for impact of taxation and costs of investment advice and management[^c-e4489a5ea72088742e24a2aaf84f3c87]
 
 In paragraph 10(2)(a) of Schedule C1 to the Damages Act 1996 for “0.75 of a percentage point” substitute “1.25 percentage points”.
 
-## 3. Allowance for impact of inflation[^key-68ddac933da3bd4544e8b3677f1dd783]
+## 3. Allowance for impact of inflation[^c-68ddac933da3bd4544e8b3677f1dd783]
 
 (1) Average Weekly Earnings is prescribed as the published information for use instead of the retail prices index for the purposes of paragraph 9(2) of Schedule C1 to the Damages Act 1996.
 
@@ -82,11 +82,11 @@ Regulation 3 changes the basis upon which the rate-assessor is to make allowance
 
 [^f00001]: Footnote: [1996 c.48](https://www.legislation.gov.uk/ukpga/1996/48); Schedule C1 was inserted by section 2 of the Damages (Return on Investment) Act (Northern Ireland) [2022 (c.1)](https://www.legislation.gov.uk/ukpga/2022/1).
 
-[^key-26584786c495230509787f2946f36644]: Commencement: Reg. 1 in operation at 1.7.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/137/regulation/1)
+[^c-26584786c495230509787f2946f36644]: Commencement: Reg. 1 in operation at 1.7.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/137/regulation/1)
 
-[^key-e4489a5ea72088742e24a2aaf84f3c87]: Commencement: Reg. 2 in operation at 1.7.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/137/regulation/1)
+[^c-e4489a5ea72088742e24a2aaf84f3c87]: Commencement: Reg. 2 in operation at 1.7.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/137/regulation/1)
 
-[^key-68ddac933da3bd4544e8b3677f1dd783]: Commencement: Reg. 3 in operation at 1.7.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/137/regulation/1)
+[^c-68ddac933da3bd4544e8b3677f1dd783]: Commencement: Reg. 3 in operation at 1.7.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/137/regulation/1)
 
 [^f00002]: Footnote: The Statistics Board was established by section 1(1) of the Statistics and Registration Service Act [2007 (c.18)](https://www.legislation.gov.uk/ukpga/2007/18).
 

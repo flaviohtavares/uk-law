@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. General duties of the NRBW[^key-f2e81c6e2b464def7f66d204a0dc2677]
+## 63. General duties of the NRBW[^c-f2e81c6e2b464def7f66d204a0dc2677]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2e81c6e2b464def7f66d204a0dc2677]: Textual amendment: Word in [reg. 63](https://www.legislation.gov.uk/wsi/2005/1806/regulation/63) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 32(d)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/32/d) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-f2e81c6e2b464def7f66d204a0dc2677]: Textual amendment: Word in [reg. 63](https://www.legislation.gov.uk/wsi/2005/1806/regulation/63) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 32(d)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/32/d) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

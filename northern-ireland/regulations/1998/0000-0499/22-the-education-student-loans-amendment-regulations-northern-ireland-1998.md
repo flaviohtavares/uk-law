@@ -30,7 +30,7 @@ summary: ''
 
 EDUCATION
 
-The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-33a174004a20b849972ff1671931bb09]
+The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-33a174004a20b849972ff1671931bb09]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 24th February 1998
 
-[^key-33a174004a20b849972ff1671931bb09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33a174004a20b849972ff1671931bb09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-33a174004a20b849972ff1671931bb09]
+## 1. Citation and commencement[^c-33a174004a20b849972ff1671931bb09]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Education (Student Loans) Regulations (Northern Ireland) 1997[^key-33a174004a20b849972ff1671931bb09]
+## 2. Amendment of the Education (Student Loans) Regulations (Northern Ireland) 1997[^c-33a174004a20b849972ff1671931bb09]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-33a174004a20b849972ff1671931bb09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33a174004a20b849972ff1671931bb09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-33a174004a20b849972ff1671931bb09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33a174004a20b849972ff1671931bb09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-33a174004a20b849972ff1671931bb09]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/22) revoked (1.3.1998) by [The Education (Student Loans) Regulations (Northern Ireland) 1998 (S.R. 1998/58)](https://www.legislation.gov.uk/nisr/1998/58), [regs. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1), [2](https://www.legislation.gov.uk/nisr/1998/58/regulation/2)
+[^c-33a174004a20b849972ff1671931bb09]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/22) revoked (1.3.1998) by [The Education (Student Loans) Regulations (Northern Ireland) 1998 (S.R. 1998/58)](https://www.legislation.gov.uk/nisr/1998/58), [regs. 1](https://www.legislation.gov.uk/nisr/1998/58/regulation/1), [2](https://www.legislation.gov.uk/nisr/1998/58/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 330. Criminal behaviour order[^key-822b01cbfa3bc189be2b7796d06374d0]
+## 330. Criminal behaviour order[^c-822b01cbfa3bc189be2b7796d06374d0]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In this Code “**criminal behaviour order**” means an order which, for the pu
 
 ## Annotations
 
-[^key-822b01cbfa3bc189be2b7796d06374d0]: Commencement: [S. 330](https://www.legislation.gov.uk/ukpga/2020/17/section/330) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-822b01cbfa3bc189be2b7796d06374d0]: Commencement: [S. 330](https://www.legislation.gov.uk/ukpga/2020/17/section/330) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

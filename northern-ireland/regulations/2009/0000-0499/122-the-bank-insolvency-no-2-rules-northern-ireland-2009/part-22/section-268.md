@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 268. General provisions as to service[^key-0c49de256adad1891b125196c85094b8]
+## 268. General provisions as to service[^c-0c49de256adad1891b125196c85094b8]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Order 65 of The Rules of the Supreme Court (Northern Ireland) 1980 (service of d
 
 ## Annotations
 
-[^key-0c49de256adad1891b125196c85094b8]: Commencement: Rule 268 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-0c49de256adad1891b125196c85094b8]: Commencement: Rule 268 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

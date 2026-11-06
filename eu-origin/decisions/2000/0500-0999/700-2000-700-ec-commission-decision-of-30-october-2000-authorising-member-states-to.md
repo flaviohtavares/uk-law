@@ -31,10 +31,10 @@ summary: ''
 
 of 30 October 2000 authorising Member States to provide for derogations from certain provisions of Council Directive 2000/29/EC in respect of plants of strawberry (Fragaria L.), intended for planting, other than seeds, originating in the Republic of Chile (notified under document number C(2000) 3141) (revoked)
 
-[^key-792c25147bdf1229ccd3bccb5d48c326]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-792c25147bdf1229ccd3bccb5d48c326]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-792c25147bdf1229ccd3bccb5d48c326] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-792c25147bdf1229ccd3bccb5d48c326] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-792c25147bdf1229ccd3bccb5d48c326]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-792c25147bdf1229ccd3bccb5d48c326]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

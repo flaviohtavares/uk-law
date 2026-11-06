@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**28.**[^key-988bf045008d5ac785a404f5a3f54320] (1) Section 4A[^f00049] is amended as follows.
+**28.**[^c-988bf045008d5ac785a404f5a3f54320] (1) Section 4A[^f00049] is amended as follows.
 
 (2) In the heading, after “Married person” insert “or civil partner”.
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-988bf045008d5ac785a404f5a3f54320]: Commencement: Reg. 28 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-988bf045008d5ac785a404f5a3f54320]: Commencement: Reg. 28 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00049]: Footnote: Section 4A was inserted by the Marriage (Same Sex Couples) Act 2013, Schedule 5, paragraph 4.

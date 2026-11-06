@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Noise Insulation Regulations[^key-ae7b7debe678cb746e90770dfe20d76a]
+## 33. Noise Insulation Regulations[^c-ae7b7debe678cb746e90770dfe20d76a]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Noise Insulation Regulations 1973[^f00024] shall apply to the authorised wor
 
 ## Annotations
 
-[^key-ae7b7debe678cb746e90770dfe20d76a]: Commencement: Art. 33 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-ae7b7debe678cb746e90770dfe20d76a]: Commencement: Art. 33 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
 
 [^f00024]: Footnote: S.I. [1973/1363](https://www.legislation.gov.uk/uksi/1973/1363).

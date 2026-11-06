@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.2. Court officer’s power to refer to a judge[^key-6da939f219375969e0efdfafac4f55c5]
+## 3.2. Court officer’s power to refer to a judge[^c-6da939f219375969e0efdfafac4f55c5]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where a step is to be taken by a court officer—
 
 ## Annotations
 
-[^key-6da939f219375969e0efdfafac4f55c5]: Commencement: [Rule 3.2](https://www.legislation.gov.uk/uksi/1998/3132/rule/3.2) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-6da939f219375969e0efdfafac4f55c5]: Commencement: [Rule 3.2](https://www.legislation.gov.uk/uksi/1998/3132/rule/3.2) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

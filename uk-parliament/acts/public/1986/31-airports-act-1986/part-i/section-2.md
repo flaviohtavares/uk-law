@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Dissolution of BAA and vesting of its property etc. in a successor company.[^key-f23a228899162b85e3ddbc73cbecc167]
+## 2. Dissolution of BAA and vesting of its property etc. in a successor company.[^c-f23a228899162b85e3ddbc73cbecc167]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f23a228899162b85e3ddbc73cbecc167]: Textual amendment: [Ss. 1-3](https://www.legislation.gov.uk/ukpga/1986/31/section/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-f23a228899162b85e3ddbc73cbecc167]: Textual amendment: [Ss. 1-3](https://www.legislation.gov.uk/ukpga/1986/31/section/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)

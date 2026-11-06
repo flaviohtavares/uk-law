@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## A4. Civil partnerships and marriage of same sex couples[^key-9c9de2314466d382bb340f347f25a3ed]
+## A4. Civil partnerships and marriage of same sex couples[^c-9c9de2314466d382bb340f347f25a3ed]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ the member’s widow is to be treated for the purposes of Part G and Part K of t
 
 ## Annotations
 
-[^key-9c9de2314466d382bb340f347f25a3ed]: Textual amendment: Reg. A4 inserted (with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/96/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2015/96/regulation/4)
+[^c-9c9de2314466d382bb340f347f25a3ed]: Textual amendment: Reg. A4 inserted (with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/96/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2015/96/regulation/4)

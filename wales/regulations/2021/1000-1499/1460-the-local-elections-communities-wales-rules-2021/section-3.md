@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Interpretation[^key-b296d2e7bc01f4f2b207f16f73e319a6][^key-0c52b4531127afd686b458226d5c44e1]
+## 3. Interpretation[^c-b296d2e7bc01f4f2b207f16f73e319a6][^c-0c52b4531127afd686b458226d5c44e1]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
   - (d) Christmas Day;
   - (e) Good Friday;
   - (f) a day that is a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971[^f00004];
-  - (g) a day appointed for public thanksgiving or mourning;[^key-5b917bb10c1ecb29721e1d9c8acc3222]
+  - (g) a day appointed for public thanksgiving or mourning;[^c-5b917bb10c1ecb29721e1d9c8acc3222]
 - “**home address information**” (“***gwybodaeth am gyfeiriad cartref***”) in relation to a person nominated—
   - (a) in Schedule 1, has the meaning given by rule 13(3) of that Schedule, and
   - (b) in Schedule 2, has the meaning given by rule 13(3) of that Schedule.
@@ -60,15 +60,15 @@ summary: ''
 
 ## Annotations
 
-[^key-b296d2e7bc01f4f2b207f16f73e319a6]: Commencement: Rule 3 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1460/rule/1)
+[^c-b296d2e7bc01f4f2b207f16f73e319a6]: Commencement: Rule 3 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1460/rule/1)
 
-[^key-0c52b4531127afd686b458226d5c44e1]: Modification: [Rule 3](https://www.legislation.gov.uk/wsi/2021/1460/rule/3) applied (with modifications) (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 3 paras. 26](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/26), [27](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/27) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
+[^c-0c52b4531127afd686b458226d5c44e1]: Modification: [Rule 3](https://www.legislation.gov.uk/wsi/2021/1460/rule/3) applied (with modifications) (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 3 paras. 26](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/26), [27](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/27) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
 
 [^f00003]: Footnote: [S.I. 2004/294](https://www.legislation.gov.uk/uksi/2004/294) as amended by paragraph 17 of Schedule 2 to the Local Government and Elections (Wales) Act 2021 and by [S.I. 2006/3278](https://www.legislation.gov.uk/uksi/2006/3278), [S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917), [S.I. 2014/920](https://www.legislation.gov.uk/uksi/2014/920) and [S.I. 2015/654](https://www.legislation.gov.uk/uksi/2015/654).
 
 [^f00004]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-5b917bb10c1ecb29721e1d9c8acc3222]: Textual amendment: Words in [rule 3(1)](https://www.legislation.gov.uk/wsi/2021/1460/rule/3/1) inserted (10.3.2022) by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [5(3)](https://www.legislation.gov.uk/wsi/2022/263/regulation/5/3) (with [reg. 12(b)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/b))
+[^c-5b917bb10c1ecb29721e1d9c8acc3222]: Textual amendment: Words in [rule 3(1)](https://www.legislation.gov.uk/wsi/2021/1460/rule/3/1) inserted (10.3.2022) by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [5(3)](https://www.legislation.gov.uk/wsi/2022/263/regulation/5/3) (with [reg. 12(b)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/b))
 
 [^f00005]: Footnote: [S.I. 2007/1024](https://www.legislation.gov.uk/uksi/2007/1024); relevant amending instruments are [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172), [S.I. 2011/926](https://www.legislation.gov.uk/uksi/2011/926), [S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917), [S.I. 2014/1370](https://www.legislation.gov.uk/uksi/2014/1370) and [S.I. 2018/1310](https://www.legislation.gov.uk/uksi/2018/1310).
 

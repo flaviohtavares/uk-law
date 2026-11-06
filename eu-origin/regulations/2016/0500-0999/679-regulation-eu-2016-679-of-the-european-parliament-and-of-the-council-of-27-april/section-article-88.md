@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 88. Processing in the context of employment[^key-94301fafdac09d283f0b5baf8aa70024]
+## Article 88. Processing in the context of employment[^c-94301fafdac09d283f0b5baf8aa70024]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94301fafdac09d283f0b5baf8aa70024]: Textual amendment: [Art. 88](https://www.legislation.gov.uk/eur/2016/679/article/88) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 68](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/68) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/80)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-94301fafdac09d283f0b5baf8aa70024]: Textual amendment: [Art. 88](https://www.legislation.gov.uk/eur/2016/679/article/88) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 68](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/68) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/80)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

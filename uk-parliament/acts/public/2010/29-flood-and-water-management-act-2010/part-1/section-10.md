@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Local flood risk management strategies: Wales[^key-bf0c469557e3ae63e1c80aa231e5cbca]
+## 10. Local flood risk management strategies: Wales[^c-bf0c469557e3ae63e1c80aa231e5cbca]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf0c469557e3ae63e1c80aa231e5cbca]: Commencement: S. 10 in force at 1.10.2010 for W. by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-bf0c469557e3ae63e1c80aa231e5cbca]: Commencement: S. 10 in force at 1.10.2010 for W. by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)

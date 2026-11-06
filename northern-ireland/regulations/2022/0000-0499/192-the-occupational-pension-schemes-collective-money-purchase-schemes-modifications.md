@@ -44,7 +44,7 @@ The Department for Communities makes the following Regulations in exercise of th
 
 ## Part 1 — Introduction
 
-### 1. Citation, commencement and interpretation[^key-c481701bb322402593fc93f64745a8fa]
+### 1. Citation, commencement and interpretation[^c-c481701bb322402593fc93f64745a8fa]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 and shall come into operation on 1st August 2022.
 
@@ -52,7 +52,7 @@ The Department for Communities makes the following Regulations in exercise of th
 
 ## Part 2 — Amendments
 
-### 2. Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations[^key-35c388458e4c7d3de379d185b59b2e7f]
+### 2. Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations[^c-35c388458e4c7d3de379d185b59b2e7f]
 
 (1) The Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991[^f00008] are amended in accordance with paragraphs (2) and (3).
 
@@ -87,7 +87,7 @@ The Department for Communities makes the following Regulations in exercise of th
 
 .
 
-### 3. Amendment of the Occupational Pension Schemes (Transfer Values) Regulations[^key-4650ccd5688ad6b23bb0d9aef5692db0]
+### 3. Amendment of the Occupational Pension Schemes (Transfer Values) Regulations[^c-4650ccd5688ad6b23bb0d9aef5692db0]
 
 (1) The Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996[^f00012] are amended in accordance with paragraphs (2) to (9).
 
@@ -182,7 +182,7 @@ The Department for Communities makes the following Regulations in exercise of th
 
 .
 
-### 4. Amendment of the Occupational Pension Schemes (Winding Up) Regulations[^key-f637677e6f3e663ba4dd63bdf75b1458]
+### 4. Amendment of the Occupational Pension Schemes (Winding Up) Regulations[^c-f637677e6f3e663ba4dd63bdf75b1458]
 
 In regulation 13 of the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996[^f00023] (hybrid schemes) for paragraph (2) substitute—
 
@@ -195,7 +195,7 @@ In regulation 13 of the Occupational Pension Schemes (Winding Up) Regulations (N
 
 .
 
-### 5. Amendment of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations[^key-864b3100ea712328183f6a72db516e4e]
+### 5. Amendment of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations[^c-864b3100ea712328183f6a72db516e4e]
 
 In regulation 8 of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations (Northern Ireland) 1997[^f00025] (exemptions from the inalienability and forfeiture provisions)—
 
@@ -210,7 +210,7 @@ In regulation 8 of the Occupational Pension Schemes (Assignment, Forfeiture, Ban
 
   .
 
-### 6. Amendment of the Stakeholder Pension Schemes Regulations[^key-0119011d625c606edb52cc9f4601542b]
+### 6. Amendment of the Stakeholder Pension Schemes Regulations[^c-0119011d625c606edb52cc9f4601542b]
 
 After regulation 19 of the Stakeholder Pension Schemes Regulations (Northern Ireland) 2000[^f00027] (requirement for trustees of a stakeholder pension scheme established under a trust) insert—
 
@@ -220,7 +220,7 @@ After regulation 19 of the Stakeholder Pension Schemes Regulations (Northern Ire
 
 .
 
-### 7. Amendment of the Occupational Pension Schemes (Employer Debt) Regulations[^key-67c9962e74dd4fdd0fc5c306ff5fbf20]
+### 7. Amendment of the Occupational Pension Schemes (Employer Debt) Regulations[^c-67c9962e74dd4fdd0fc5c306ff5fbf20]
 
 In regulation 10(4) of the Occupational Pension Schemes (Employer Debt) Regulations (Northern Ireland) 2005[^f00028] (money purchase schemes: fraud and levy deficiencies etc.)—
 
@@ -231,7 +231,7 @@ In regulation 10(4) of the Occupational Pension Schemes (Employer Debt) Regulati
 
   .
 
-### 8. Amendment of the Occupational Pension Schemes (Winding up, etc.) Regulations[^key-47f70bb9adf11d1fae8b03a403d456d9]
+### 8. Amendment of the Occupational Pension Schemes (Winding up, etc.) Regulations[^c-47f70bb9adf11d1fae8b03a403d456d9]
 
 In regulation 3 of the Occupational Pension Schemes (Winding up, etc.) Regulations (Northern Ireland) 2005[^f00029] (schemes to which Article 73 of the 1995 Order does not apply) after paragraph (1) insert—
 
@@ -239,7 +239,7 @@ In regulation 3 of the Occupational Pension Schemes (Winding up, etc.) Regulatio
 
 .
 
-### 9. Amendment of the Occupational Pension Schemes (Scheme Funding) Regulations[^key-6d1905c0bbab38fdd1b329b9cac1ef9b]
+### 9. Amendment of the Occupational Pension Schemes (Scheme Funding) Regulations[^c-6d1905c0bbab38fdd1b329b9cac1ef9b]
 
 In regulation 17(1) of the Occupational Pension Schemes (Scheme Funding) Regulations (Northern Ireland) 2005[^f00030] (exemptions – general)—
 
@@ -251,7 +251,7 @@ In regulation 17(1) of the Occupational Pension Schemes (Scheme Funding) Regulat
 
   .
 
-### 10. Amendment of the Occupational Pension Schemes (Investment) Regulations[^key-0c3aee9b916c12c78b7d5ecb745ff230]
+### 10. Amendment of the Occupational Pension Schemes (Investment) Regulations[^c-0c3aee9b916c12c78b7d5ecb745ff230]
 
 In regulation 2A of the Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005[^f00031] (additional requirements in relation to default arrangement) after paragraph (6) add—
 
@@ -259,7 +259,7 @@ In regulation 2A of the Occupational Pension Schemes (Investment) Regulations (N
 
 .
 
-### 11. Amendment of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations[^key-02bca04480a8392201249f43f78b9d39]
+### 11. Amendment of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations[^c-02bca04480a8392201249f43f78b9d39]
 
 In regulation 10 of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations (Northern Ireland) 2006[^f00032] (listed changes: exclusions)—
 
@@ -283,7 +283,7 @@ In regulation 10 of the Occupational and Personal Pension Schemes (Consultation 
 
   .
 
-### 12. Amendment of the Occupational Pension Schemes (Modification of Schemes) Regulations[^key-c22d4e5b563233be48d7292673e3fb06]
+### 12. Amendment of the Occupational Pension Schemes (Modification of Schemes) Regulations[^c-c22d4e5b563233be48d7292673e3fb06]
 
 (1) The Occupational Pension Schemes (Modification of Schemes) Regulations (Northern Ireland) 2006[^f00034] are amended in accordance with paragraphs (2) and (3).
 
@@ -310,7 +310,7 @@ In regulation 10 of the Occupational and Personal Pension Schemes (Consultation 
 
   .
 
-### 13. Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations[^key-684dbdffb5c38ccd90166815a0e42963]
+### 13. Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations[^c-684dbdffb5c38ccd90166815a0e42963]
 
 (1) The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014[^f00037] are amended in accordance with paragraphs (2) to (19).
 
@@ -611,7 +611,7 @@ In regulation 10 of the Occupational and Personal Pension Schemes (Consultation 
 
 ## PART 3 — Modifications
 
-### 14. Modifications of treatment of hybrid schemes under the Pensions (Northern Ireland) Order 2005[^key-17adeef1b7d6a35ddd3ec697cf53313f]
+### 14. Modifications of treatment of hybrid schemes under the Pensions (Northern Ireland) Order 2005[^c-17adeef1b7d6a35ddd3ec697cf53313f]
 
 (1) The Pensions (Northern Ireland) Order 2005[^f00057] as it applies in relation to hybrid schemes is modified in accordance with paragraphs (2) to (4).
 
@@ -644,7 +644,7 @@ Anne McCleary
 
 A senior officer of the Department for Communities
 
-## SCHEDULE 1 — Schedule to be inserted after Schedule 6 to the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014[^key-1f8c7665ffe2298102e67c53a3e21110]
+## SCHEDULE 1 — Schedule to be inserted after Schedule 6 to the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014[^c-1f8c7665ffe2298102e67c53a3e21110]
 
 Regulation 13(16)
 
@@ -761,7 +761,7 @@ Regulation 13(16)
 >
 > **30.** A statement that no further contributions are expected to be made to the scheme by, or in respect of, the member after the illustration date.
 
-## SCHEDULE 2 — Schedule to be inserted after Schedule 9A to the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014[^key-7f6f2f227598386bf079df2698457f00]
+## SCHEDULE 2 — Schedule to be inserted after Schedule 9A to the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014[^c-7f6f2f227598386bf079df2698457f00]
 
 Regulation 13(19)
 
@@ -860,11 +860,11 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00006]: Footnote: [2021 c. 1](https://www.legislation.gov.uk/ukpga/2021/1)
 
-[^key-c481701bb322402593fc93f64745a8fa]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2022/192/regulation/1) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
+[^c-c481701bb322402593fc93f64745a8fa]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2022/192/regulation/1) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-35c388458e4c7d3de379d185b59b2e7f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2022/192/regulation/2) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
+[^c-35c388458e4c7d3de379d185b59b2e7f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2022/192/regulation/2) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 1991 No. 37](https://www.legislation.gov.uk/nisr/1991/37); relevant amending Regulations are [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300), [S.R. 1995 No. 441](https://www.legislation.gov.uk/nisr/1995/441) and [S.R. 2018 No. 54](https://www.legislation.gov.uk/nisr/2018/54)
 
@@ -874,7 +874,7 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00011]: Footnote: [S.R. 2022 No. 191](https://www.legislation.gov.uk/nisr/2022/191)
 
-[^key-4650ccd5688ad6b23bb0d9aef5692db0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2022/192/regulation/3) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
+[^c-4650ccd5688ad6b23bb0d9aef5692db0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2022/192/regulation/3) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
 
 [^f00012]: Footnote: [S.R. 1996 No. 619](https://www.legislation.gov.uk/nisr/1996/619); relevant amending provisions are [S.R. 2008 No. 370](https://www.legislation.gov.uk/nisr/2008/370), [S.R. 2014 No. 204](https://www.legislation.gov.uk/nisr/2014/204), [S.R. 2015 No. 164](https://www.legislation.gov.uk/nisr/2015/164), [S.R. 2016 No. 158](https://www.legislation.gov.uk/nisr/2016/158) and [S.R. 2022 No. 121](https://www.legislation.gov.uk/nisr/2022/121)
 
@@ -898,45 +898,45 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00022]: Footnote: Section 95A was inserted by section 76(5) of the Pension Schemes Act 2021
 
-[^key-f637677e6f3e663ba4dd63bdf75b1458]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2022/192/regulation/4) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
+[^c-f637677e6f3e663ba4dd63bdf75b1458]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2022/192/regulation/4) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
 
 [^f00023]: Footnote: [S.R. 1996 No. 621](https://www.legislation.gov.uk/nisr/1996/621); regulation 13 was amended by regulation 4(4) of [S.R. 2002 No. 64](https://www.legislation.gov.uk/nisr/2002/64) and paragraph 3(3) of Schedule 3 to [S.R. 2005 No. 568](https://www.legislation.gov.uk/nisr/2005/568)
 
 [^f00024]: Footnote: *See* the definition of “collective money purchase benefits” in section 176(1) of the Pension Schemes (Northern Ireland) Act 1993 as inserted by paragraph 3(2) of Schedule 4 to the Pension Schemes Act 2021; *see also* Article 2(4) of the Pensions (Northern Ireland) Order 1995
 
-[^key-864b3100ea712328183f6a72db516e4e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2022/192/regulation/5) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
+[^c-864b3100ea712328183f6a72db516e4e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2022/192/regulation/5) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
 
 [^f00025]: Footnote: [S.R. 1997 No. 153](https://www.legislation.gov.uk/nisr/1997/153); regulation 8(7) and (8) was added by regulation 2 of [S.R. 2011 No. 280](https://www.legislation.gov.uk/nisr/2011/280)
 
 [^f00026]: Footnote: Article 89(1) was amended by paragraph 46(2) of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
-[^key-0119011d625c606edb52cc9f4601542b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2022/192/regulation/6) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
+[^c-0119011d625c606edb52cc9f4601542b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2022/192/regulation/6) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
 
 [^f00027]: Footnote: [S.R. 2000 No. 262](https://www.legislation.gov.uk/nisr/2000/262)
 
-[^key-67c9962e74dd4fdd0fc5c306ff5fbf20]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2022/192/regulation/7) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
+[^c-67c9962e74dd4fdd0fc5c306ff5fbf20]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2022/192/regulation/7) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
 
 [^f00028]: Footnote: [S.R. 2005 No. 168](https://www.legislation.gov.uk/nisr/2005/168); regulation 10 was amended by regulation 12 of [S.R. 2006 No. 85](https://www.legislation.gov.uk/nisr/2006/85) and regulation 5 of [S.R. 2014 No. 93](https://www.legislation.gov.uk/nisr/2014/93)
 
-[^key-47f70bb9adf11d1fae8b03a403d456d9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2022/192/regulation/8) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
+[^c-47f70bb9adf11d1fae8b03a403d456d9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2022/192/regulation/8) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
 
 [^f00029]: Footnote: [S.R. 2005 No. 171](https://www.legislation.gov.uk/nisr/2005/171)
 
-[^key-6d1905c0bbab38fdd1b329b9cac1ef9b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2022/192/regulation/9) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
+[^c-6d1905c0bbab38fdd1b329b9cac1ef9b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2022/192/regulation/9) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
 
 [^f00030]: Footnote: [S.R. 2005 No. 568](https://www.legislation.gov.uk/nisr/2005/568); regulation 17 was amended by regulation 5(3) of [S.R. 2006 No. 297](https://www.legislation.gov.uk/nisr/2006/297), regulation 13(2) of [S.R. 2007 No. 185](https://www.legislation.gov.uk/nisr/2007/185), regulation 16(2) of [S.R. 2009 No. 115](https://www.legislation.gov.uk/nisr/2009/115) and regulation 24(3) of [S.I. 2019/193](https://www.legislation.gov.uk/uksi/2019/193)
 
-[^key-0c3aee9b916c12c78b7d5ecb745ff230]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2022/192/regulation/10) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
+[^c-0c3aee9b916c12c78b7d5ecb745ff230]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2022/192/regulation/10) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
 
 [^f00031]: Footnote: [S.R. 2005 No. 569](https://www.legislation.gov.uk/nisr/2005/569); regulation 2A was inserted by regulation 20(3) of [S.R. 2015 No. 309](https://www.legislation.gov.uk/nisr/2015/309) and amended by regulation 4(3) of [S.R. 2018 No. 165](https://www.legislation.gov.uk/nisr/2018/165) and regulation 4(3) of [S.R. 2021 No. 272](https://www.legislation.gov.uk/nisr/2021/272)
 
-[^key-02bca04480a8392201249f43f78b9d39]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2022/192/regulation/11) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
+[^c-02bca04480a8392201249f43f78b9d39]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2022/192/regulation/11) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
 
 [^f00032]: Footnote: [S.R. 2006 No. 48](https://www.legislation.gov.uk/nisr/2006/48); regulation 10 was amended by regulation 13(1) of [S.R. 2015 No. 309](https://www.legislation.gov.uk/nisr/2015/309) and regulation 3 of [S.R. 2016 No. 144](https://www.legislation.gov.uk/nisr/2016/144)
 
 [^f00033]: Footnote: [S.R. 2022 No. 191](https://www.legislation.gov.uk/nisr/2022/191)
 
-[^key-c22d4e5b563233be48d7292673e3fb06]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2022/192/regulation/12) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
+[^c-c22d4e5b563233be48d7292673e3fb06]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2022/192/regulation/12) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
 
 [^f00034]: Footnote: [S.R. 2006 No. 149](https://www.legislation.gov.uk/nisr/2006/149); relevant amending provisions are [S.R. 2012 No. 124](https://www.legislation.gov.uk/nisr/2012/124), [S.R. 2013 No. 72](https://www.legislation.gov.uk/nisr/2013/72), [S.R. 2015 No. 155](https://www.legislation.gov.uk/nisr/2015/155) and [S.I. 2019/1514](https://www.legislation.gov.uk/uksi/2019/1514)
 
@@ -944,7 +944,7 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00036]: Footnote: Regulation 3 was amended by Article 23(3) of [S.R. 2012 No. 124](https://www.legislation.gov.uk/nisr/2012/124), regulation 9 of [S.R. 2013 No. 72](https://www.legislation.gov.uk/nisr/2013/72), regulation 5(3) of [S.R. 2015 No. 155](https://www.legislation.gov.uk/nisr/2015/155) and regulation 106(2) of [S.I. 2019/1514](https://www.legislation.gov.uk/uksi/2019/1514)
 
-[^key-684dbdffb5c38ccd90166815a0e42963]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2022/192/regulation/13) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
+[^c-684dbdffb5c38ccd90166815a0e42963]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2022/192/regulation/13) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
 
 [^f00037]: Footnote: [S.R. 2014 No. 79](https://www.legislation.gov.uk/nisr/2014/79); relevant amending Regulations are [S.R. 2014 No. 204](https://www.legislation.gov.uk/nisr/2014/204), [S.R. 2015 No. 154](https://www.legislation.gov.uk/nisr/2015/154), [S.R. 2018 No. 53](https://www.legislation.gov.uk/nisr/2018/53), [S.R. 2018 No. 165](https://www.legislation.gov.uk/nisr/2018/165), [S.R. 2019 No. 115](https://www.legislation.gov.uk/nisr/2019/115), [S.R. 2021 No. 272](https://www.legislation.gov.uk/nisr/2021/272) and [S.R. 2022 No. 115](https://www.legislation.gov.uk/nisr/2022/115)
 
@@ -986,7 +986,7 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00056]: Footnote: Schedule 9A was inserted by regulation 13 of [S.R. 2015 No. 154](https://www.legislation.gov.uk/nisr/2015/154)
 
-[^key-17adeef1b7d6a35ddd3ec697cf53313f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2022/192/regulation/14) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
+[^c-17adeef1b7d6a35ddd3ec697cf53313f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2022/192/regulation/14) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
 
 [^f00057]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/uksi/2005/255)
 
@@ -996,8 +996,8 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00060]: Footnote: Articles 54C and 54D were inserted by paragraph 6(2) of Schedule 8 to the Pension Schemes Act 2021
 
-[^key-1f8c7665ffe2298102e67c53a3e21110]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2022/192/schedule/1) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
+[^c-1f8c7665ffe2298102e67c53a3e21110]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2022/192/schedule/1) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
 
 [^f00061]: Footnote: [S.R. 2021 No. 244](https://www.legislation.gov.uk/nisr/2021/244)
 
-[^key-7f6f2f227598386bf079df2698457f00]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2022/192/schedule/2) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)
+[^c-7f6f2f227598386bf079df2698457f00]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2022/192/schedule/2) in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Consequential revocations[^key-ac027ce3a444f2e9ca3bbcab001845e0]
+## 32. Consequential revocations[^c-ac027ce3a444f2e9ca3bbcab001845e0]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The provisions specified in column (1) of Schedule 10 are revoked to the extent 
 
 ## Annotations
 
-[^key-ac027ce3a444f2e9ca3bbcab001845e0]: Commencement: Reg. 32 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-ac027ce3a444f2e9ca3bbcab001845e0]: Commencement: Reg. 32 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)

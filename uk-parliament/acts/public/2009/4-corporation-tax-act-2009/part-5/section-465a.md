@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 465A. Power to make regulations where accounting standards change[^key-e975c0920d033929f3d1ee75006809c4]
+## 465A. Power to make regulations where accounting standards change[^c-e975c0920d033929f3d1ee75006809c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e975c0920d033929f3d1ee75006809c4]: Textual amendment: S. 465A and cross-heading inserted (8.4.2010) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/2010/13/schedule/19/paragraph/1)
+[^c-e975c0920d033929f3d1ee75006809c4]: Textual amendment: S. 465A and cross-heading inserted (8.4.2010) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/2010/13/schedule/19/paragraph/1)

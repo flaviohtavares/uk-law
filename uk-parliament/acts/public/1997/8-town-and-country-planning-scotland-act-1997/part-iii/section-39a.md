@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39A. Declining to determine an application: further provision[^key-5a1ee2d1da704780e80235ba6b9f8912]
+## 39A. Declining to determine an application: further provision[^c-5a1ee2d1da704780e80235ba6b9f8912]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers must publish guidance outlining what constitutes a “sim
 
 ## Annotations
 
-[^key-5a1ee2d1da704780e80235ba6b9f8912]: Textual amendment: [S. 39A](https://www.legislation.gov.uk/ukpga/1997/8/section/39A) inserted (1.10.2022) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 38(2)](https://www.legislation.gov.uk/asp/2019/13/section/38/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2022/275](https://www.legislation.gov.uk/ssi/2022/275), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2022/275/regulation/2/2/d) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/275/regulation/3))
+[^c-5a1ee2d1da704780e80235ba6b9f8912]: Textual amendment: [S. 39A](https://www.legislation.gov.uk/ukpga/1997/8/section/39A) inserted (1.10.2022) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 38(2)](https://www.legislation.gov.uk/asp/2019/13/section/38/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2022/275](https://www.legislation.gov.uk/ssi/2022/275), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2022/275/regulation/2/2/d) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/275/regulation/3))

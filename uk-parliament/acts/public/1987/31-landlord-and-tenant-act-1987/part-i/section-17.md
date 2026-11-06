@@ -33,7 +33,7 @@ summary: ''
 (3) Where a period of three months beginning with the date of service of a notice under section 12A, 12B or 12C on the purchaser has expired—
 
 - (a) without any binding contract having been entered into between the purchaser and the nominated person, and
-- (b) without there having been made any application in connection with the notice to the court or to the appropriate tribunal[^key-5bb532b36a1a72109ebc8c06daf0a4c9],
+- (b) without there having been made any application in connection with the notice to the court or to the appropriate tribunal[^c-5bb532b36a1a72109ebc8c06daf0a4c9],
 
 the purchaser may serve on the nominated person a notice stating that the notice, and anything done in pursuance of it, is to be treated as not having been served or done.
 
@@ -55,4 +55,4 @@ the purchaser may serve on the nominated person a notice stating that any notice
 
 [^c10161521]: Textual amendment: Ss. 16, 17 and crossheadings substituted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 92(1)](https://www.legislation.gov.uk/ukpga/1996/52/section/92/1), [Sch. 6 Pt. III](https://www.legislation.gov.uk/ukpga/1996/52/schedule/6/part/III); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with [Sch.](https://www.legislation.gov.uk/uksi/1996/2212/schedule))
 
-[^key-5bb532b36a1a72109ebc8c06daf0a4c9]: Textual amendment: Words in [s. 17(3)(b)](https://www.legislation.gov.uk/ukpga/1987/31/section/17/3/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 65](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/65) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-5bb532b36a1a72109ebc8c06daf0a4c9]: Textual amendment: Words in [s. 17(3)(b)](https://www.legislation.gov.uk/ukpga/1987/31/section/17/3/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 65](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/65) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

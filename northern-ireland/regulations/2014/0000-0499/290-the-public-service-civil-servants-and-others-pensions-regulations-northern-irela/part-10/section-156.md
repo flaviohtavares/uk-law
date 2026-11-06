@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 156. Bulk transfers in[^key-78d50fd4f2c0b00c3a086eb431ce802e]
+## 156. Bulk transfers in[^c-78d50fd4f2c0b00c3a086eb431ce802e]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78d50fd4f2c0b00c3a086eb431ce802e]: Commencement: [Reg. 156](https://www.legislation.gov.uk/nisr/2014/290/regulation/156) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-78d50fd4f2c0b00c3a086eb431ce802e]: Commencement: [Reg. 156](https://www.legislation.gov.uk/nisr/2014/290/regulation/156) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

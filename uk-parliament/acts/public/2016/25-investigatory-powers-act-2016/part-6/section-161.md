@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Requirements that must be met by warrants[^key-be09f2a115cffe5b426c5ed0cd9947de]
+## 161. Requirements that must be met by warrants[^c-be09f2a115cffe5b426c5ed0cd9947de]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be09f2a115cffe5b426c5ed0cd9947de]: Commencement: [S. 161](https://www.legislation.gov.uk/ukpga/2016/25/section/161) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/e)
+[^c-be09f2a115cffe5b426c5ed0cd9947de]: Commencement: [S. 161](https://www.legislation.gov.uk/ukpga/2016/25/section/161) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/e)

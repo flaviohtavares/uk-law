@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 117A. Interpretation and application of this Part in relation to the visitor levy[^key-87c3b5670ca90482ca86002dc53a55f0]
+## 117A. Interpretation and application of this Part in relation to the visitor levy[^c-87c3b5670ca90482ca86002dc53a55f0]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87c3b5670ca90482ca86002dc53a55f0]: Textual amendment: [S. 117A](https://www.legislation.gov.uk/anaw/2016/6/section/117A) inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 37](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/37)
+[^c-87c3b5670ca90482ca86002dc53a55f0]: Textual amendment: [S. 117A](https://www.legislation.gov.uk/anaw/2016/6/section/117A) inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 37](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/37)

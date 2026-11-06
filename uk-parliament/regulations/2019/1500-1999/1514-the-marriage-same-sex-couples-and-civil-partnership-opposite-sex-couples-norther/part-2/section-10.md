@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Recognition of extra-territorial marriages of same-sex couples[^key-ec23ddda08c0b9714da609a490eb44cd]
+## 10. Recognition of extra-territorial marriages of same-sex couples[^c-ec23ddda08c0b9714da609a490eb44cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,7 +56,7 @@ is not prevented from being recognised under the law of Northern Ireland only be
 
 ## Annotations
 
-[^key-ec23ddda08c0b9714da609a490eb44cd]: Commencement: Reg. 10 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-ec23ddda08c0b9714da609a490eb44cd]: Commencement: Reg. 10 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00006]: Footnote: [2013 c.30](https://www.legislation.gov.uk/ukpga/2013/30).
 

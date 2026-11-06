@@ -31,7 +31,7 @@ summary: ''
 
 Plant Health, Wales
 
-The Plant Health (Export Certification) (Wales) (Amendment) Order 2018 (revoked)[^key-61ab594ba38a46ed782b41ecb63ea885]
+The Plant Health (Export Certification) (Wales) (Amendment) Order 2018 (revoked)[^c-61ab594ba38a46ed782b41ecb63ea885]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 25 July 2018
 
-[^key-61ab594ba38a46ed782b41ecb63ea885]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61ab594ba38a46ed782b41ecb63ea885]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-61ab594ba38a46ed782b41ecb63ea885]
+## 1. Title, application and commencement[^c-61ab594ba38a46ed782b41ecb63ea885]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Export Certification) (Wales) Order 2006[^key-61ab594ba38a46ed782b41ecb63ea885]
+## 2. Amendment of the Plant Health (Export Certification) (Wales) Order 2006[^c-61ab594ba38a46ed782b41ecb63ea885]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-61ab594ba38a46ed782b41ecb63ea885]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61ab594ba38a46ed782b41ecb63ea885]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-61ab594ba38a46ed782b41ecb63ea885]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61ab594ba38a46ed782b41ecb63ea885]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-61ab594ba38a46ed782b41ecb63ea885]: Textual amendment: Order revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6)
+[^c-61ab594ba38a46ed782b41ecb63ea885]: Textual amendment: Order revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6)

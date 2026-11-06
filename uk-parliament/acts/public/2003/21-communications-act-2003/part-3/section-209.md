@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 209. Membership of the Service[^key-450ca490ed200c21384f16ab628ab1f6]
+## 209. Membership of the Service[^c-450ca490ed200c21384f16ab628ab1f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ After section 183 of the 1990 Act there shall be inserted—
 
 ## Annotations
 
-[^key-450ca490ed200c21384f16ab628ab1f6]: Commencement: S. 209 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-450ca490ed200c21384f16ab628ab1f6]: Commencement: S. 209 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

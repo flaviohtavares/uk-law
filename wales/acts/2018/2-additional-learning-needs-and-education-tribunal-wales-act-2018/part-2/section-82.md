@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Regulations about disclosure and use of information[^key-5183f8dfff6dae19273dbe5f7c15baf8]
+## 82. Regulations about disclosure and use of information[^c-5183f8dfff6dae19273dbe5f7c15baf8]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5183f8dfff6dae19273dbe5f7c15baf8]: Commencement: S. 82 in force at 2.11.2020 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 2(h)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/2/h)
+[^c-5183f8dfff6dae19273dbe5f7c15baf8]: Commencement: S. 82 in force at 2.11.2020 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 2(h)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/2/h)

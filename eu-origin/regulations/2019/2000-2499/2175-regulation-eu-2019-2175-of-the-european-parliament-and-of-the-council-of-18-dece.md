@@ -27,7 +27,7 @@ summary: ''
 
 **No longer in force.**
 
-[^key-e730a46db7b87fee5f24d5264bb57838]Regulation (EU) 2019/2175 of the European Parliament and of the Council
+[^c-e730a46db7b87fee5f24d5264bb57838]Regulation (EU) 2019/2175 of the European Parliament and of the Council
 
 of 18 December 2019
 
@@ -39,36 +39,36 @@ amending Regulation (EU) No 1093/2010 establishing a European Supervisory Author
 
 **No longer in force.**
 
-## Article 1. Amendments to Regulation (EU) No 1093/2010[^key-e730a46db7b87fee5f24d5264bb57838]
+## Article 1. Amendments to Regulation (EU) No 1093/2010[^c-e730a46db7b87fee5f24d5264bb57838]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Amendments to Regulation (EU) No 1094/2010[^key-e730a46db7b87fee5f24d5264bb57838]
+## Article 2. Amendments to Regulation (EU) No 1094/2010[^c-e730a46db7b87fee5f24d5264bb57838]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendments to Regulation (EU) No 1095/2010[^key-e730a46db7b87fee5f24d5264bb57838]
+## Article 3. Amendments to Regulation (EU) No 1095/2010[^c-e730a46db7b87fee5f24d5264bb57838]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Amendments to Regulation (EU) No 600/2014[^key-e730a46db7b87fee5f24d5264bb57838]
+## Article 4. Amendments to Regulation (EU) No 600/2014[^c-e730a46db7b87fee5f24d5264bb57838]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Amendments to Regulation (EU) 2016/1011[^key-e730a46db7b87fee5f24d5264bb57838]
+## Article 5. Amendments to Regulation (EU) 2016/1011[^c-e730a46db7b87fee5f24d5264bb57838]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Amendments to Regulation (EU) 2015/847[^key-e730a46db7b87fee5f24d5264bb57838]
+## Article 6. Amendments to Regulation (EU) 2015/847[^c-e730a46db7b87fee5f24d5264bb57838]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Entry into force and entry into application[^key-e730a46db7b87fee5f24d5264bb57838]
+## Article 7. Entry into force and entry into application[^c-e730a46db7b87fee5f24d5264bb57838]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e730a46db7b87fee5f24d5264bb57838]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e730a46db7b87fee5f24d5264bb57838]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e730a46db7b87fee5f24d5264bb57838]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1382/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/b), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1382/schedule/1/part/1)
+[^c-e730a46db7b87fee5f24d5264bb57838]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1382/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/b), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1382/schedule/1/part/1)

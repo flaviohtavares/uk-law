@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6A. Law applicable to arbitration agreement[^key-3418cfb7f933abb54f45df51e2c80a66]
+## 6A. Law applicable to arbitration agreement[^c-3418cfb7f933abb54f45df51e2c80a66]
 
 *Extent: E+W+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3418cfb7f933abb54f45df51e2c80a66]: Textual amendment: S. 6A inserted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/1/2), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-3418cfb7f933abb54f45df51e2c80a66]: Textual amendment: S. 6A inserted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/1/2), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)

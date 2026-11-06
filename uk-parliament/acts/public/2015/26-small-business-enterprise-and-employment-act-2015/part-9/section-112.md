@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Provision for Northern Ireland corresponding to sections 104 to 111[^key-1cf3e584b98d44a3ef2b1815c5ec54a4][^key-2f51cb5cc94a9717c25ebeb5973f7bf9]
+## 112. Provision for Northern Ireland corresponding to sections 104 to 111[^c-1cf3e584b98d44a3ef2b1815c5ec54a4][^c-2f51cb5cc94a9717c25ebeb5973f7bf9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 8 makes provision for Northern Ireland which corresponds to that made b
 
 ## Annotations
 
-[^key-1cf3e584b98d44a3ef2b1815c5ec54a4]: Commencement: S. 112 in force for specified purposes at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h)
+[^c-1cf3e584b98d44a3ef2b1815c5ec54a4]: Commencement: S. 112 in force for specified purposes at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h)
 
-[^key-2f51cb5cc94a9717c25ebeb5973f7bf9]: Commencement: S. 112 in force at 6.4.2016 in so far as not already in force by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/c) (with [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/4))
+[^c-2f51cb5cc94a9717c25ebeb5973f7bf9]: Commencement: S. 112 in force at 6.4.2016 in so far as not already in force by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/c) (with [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/4))

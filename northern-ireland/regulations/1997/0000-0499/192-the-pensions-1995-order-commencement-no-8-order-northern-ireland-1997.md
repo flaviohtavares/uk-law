@@ -36,7 +36,7 @@ Made
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Article 1(2) and (5) of the Pensions (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and interpretation[^key-a32f83f577f8800ff4f21c4195b1500b]
+## 1. Citation and interpretation[^c-a32f83f577f8800ff4f21c4195b1500b]
 
 (1) This Order may be cited as the Pensions (1995 Order) (Commencement No. 8) Order (Northern Ireland) 1997.
 
@@ -48,7 +48,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 - “the Order” means the Pensions (Northern Ireland) Order 1995 and references to Articles are references to Articles of the Order;
 - “the principal appointed day” means 6th April 1997.
 
-## 2. Appointed days[^key-5e01279efdbaa6fa7cc687a9fef6165c]
+## 2. Appointed days[^c-5e01279efdbaa6fa7cc687a9fef6165c]
 
 In so far as they are not already in operation, the day appointed for the coming into operation of—
 
@@ -62,23 +62,23 @@ In so far as they are not already in operation, the day appointed for the coming
 
 ## Transitional Adaptions, Modifications and Savings
 
-### 3. Revaluation of earnings factors: early leavers[^key-b555d351dffef2e3c0c8243ff8849b6d]
+### 3. Revaluation of earnings factors: early leavers[^c-b555d351dffef2e3c0c8243ff8849b6d]
 
 Section 12(3) (revaluation of earnings factors: early leavers) shall continue to have effect as if this Order had not come into operation in relation to an earner whose service in contracted-out employment in relation to the scheme in question has terminated before the principal appointed day.
 
-### 4. Termination of contracted-out or appropriate scheme status and state scheme premiums[^key-57112adf494b801290f067a6b4bc0bad]
+### 4. Termination of contracted-out or appropriate scheme status and state scheme premiums[^c-57112adf494b801290f067a6b4bc0bad]
 
-(1)[^key-af1d41215859f06221504efba819a5d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-af1d41215859f06221504efba819a5d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Subject to paragraph (3), sections 51 to 64, 165(1) and 166(1) (state scheme premiums) shall continue to have effect as if this Order had not come into operation in relation to any state scheme premium which has been paid before the principal appointed day or is payable immediately before that day, and nothing in this Order shall affect the operation of any other provision of the Act or any provision of any other enactment in relation to any such premium.
 
 (3) Any function of the Board in relation to state scheme premiums under the provisions referred to in paragraph (2) falling to be exercised after the principal appointed day shall be exercised by the Department.
 
-### 5. Transfer values: extensions granted by the Board[^key-427f7e409596811fbad4d03d4ef6a7b7]
+### 5. Transfer values: extensions granted by the Board[^c-427f7e409596811fbad4d03d4ef6a7b7]
 
 Section 95 (trustees' duties after exercise of option) shall have effect in relation to any extension granted or refused by the Board under section 95(4) before the principal appointed day as though it had been granted or refused by the Authority.
 
-### 6. Payments to employers[^key-fa25f58d21d5e3c32f37fd0a80e29120]
+### 6. Payments to employers[^c-fa25f58d21d5e3c32f37fd0a80e29120]
 
 For the purposes of—
 
@@ -87,23 +87,23 @@ For the purposes of—
 
 section 104 (no payments to employers from non-complying schemes) shall continue to have effect as if this Order had not come into operation.
 
-### 7. Actuarial statements pending the first minimum funding requirements valuation[^key-e949205bbafcf7bcfc70f1be8ca7d42c]
+### 7. Actuarial statements pending the first minimum funding requirements valuation[^c-e949205bbafcf7bcfc70f1be8ca7d42c]
 
 Section 110 (additional documents for members) and regulations 8 and 9 of the Occupational Pensions Schemes (Disclosure of Information) Regulations (Northern Ireland) 1986[^f00004] (actuarial valuations and availability of accounts, statements and other information) shall, in so far as they relate to the actuarial statement, remain in operation in respect of a scheme to which Article 56 applies until such time as the trustees or managers of the scheme are required by regulation 30 of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations (Northern Ireland) 1996[^f00005] to obtain the first valuation.
 
-### 8. Preservation: determinations of the Board[^key-73a553cac25528d06e70a86788832d4b]
+### 8. Preservation: determinations of the Board[^c-73a553cac25528d06e70a86788832d4b]
 
 Where, before the principal appointed day, the Board has determined in accordance with section 130 (determination of questions whether schemes conform with requirements) that any provision of Chapter I of Part IV of the Act (the preservation requirements) shall not apply to a scheme, that determination shall continue to have effect as if this Order had not come into operation until there is an alteration to the rules of the scheme relating to any requirement imposed by that provision.
 
-### 9. Modification of schemes[^key-c69bba914ad5b56b1fb7cb4241a59641]
+### 9. Modification of schemes[^c-c69bba914ad5b56b1fb7cb4241a59641]
 
 Nothing in this Order shall affect the operation of sections 132 to 136 (application to modify schemes other than public service schemes) in relation to an application made to the Board before the principal appointed day, and any functions of the Board exercisable after the principal appointed day under those sections as saved by this Article shall be exercised by the Authority.
 
-### 10. Minimum payments and minimum contributions payable before the principal appointed day[^key-df44bd02af54ce036c8e42fc12b6bd44]
+### 10. Minimum payments and minimum contributions payable before the principal appointed day[^c-df44bd02af54ce036c8e42fc12b6bd44]
 
 Notwithstanding Article 137(3), section 44 shall remain in operation in respect of minimum payments and minimum contributions paid or payable before the principal appointed day.
 
-### 11. Winding up[^key-d64921ab896644e84ce1204bed374441]
+### 11. Winding up[^c-d64921ab896644e84ce1204bed374441]
 
 (1) Articles 73 and 74 (liabilities, etc.) do not apply to any scheme which begins to be wound up before the principal appointed day; and for the purposes of this paragraph the time when a scheme begins to be wound up shall be determined in accordance with regulation 2 of the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996[^f00006] (commencement of winding up).
 
@@ -111,11 +111,11 @@ Notwithstanding Article 137(3), section 44 shall remain in operation in respect 
 
 (3) Section 140 (deficiencies in the assets of a scheme on winding up) shall remain in operation as regards schemes that began to wind up before 19th December 1996 and in respect of debts which arose at any applicable time before the principal appointed day.
 
-### 12. Schedules of payments to money purchase schemes[^key-70a23b8905302d9d1904ad2a6d9ecdb6]
+### 12. Schedules of payments to money purchase schemes[^c-70a23b8905302d9d1904ad2a6d9ecdb6]
 
 The trustees or managers of an occupational pension scheme to which Article 85 (schedules of payments to money purchase schemes) applies, shall not be obliged to secure the preparation, maintenance or revision of a payment schedule in respect of any period before the beginning of the first scheme year which begins on or after the principal appointed day and, for the purposes of this Article, “scheme year” has the same meaning as in regulation 1 of the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^f00007].
 
-### 13. The National Insurance (Non-participation — Certificates) Regulations 1960 — functions of the Board[^key-952d9aae4bbd86f96513a7fbbf76e78d]
+### 13. The National Insurance (Non-participation — Certificates) Regulations 1960 — functions of the Board[^c-952d9aae4bbd86f96513a7fbbf76e78d]
 
 Any function of the Board under the National Insurance (Non-participation — Certificates) Regulations (Northern Ireland) 1960[^f00008] falling to be exercised on or after the principal appointed day, or which fell to be exercised before that day but which has not been exercised, may be exercised by the Department.
 
@@ -271,44 +271,44 @@ The following provisions of the Pensions (Northern Ireland) Order 1995 have been
 
 [^f00001]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-a32f83f577f8800ff4f21c4195b1500b]: Commencement: Art. 1 in operation at made date
+[^c-a32f83f577f8800ff4f21c4195b1500b]: Commencement: Art. 1 in operation at made date
 
 [^f00002]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
-[^key-5e01279efdbaa6fa7cc687a9fef6165c]: Commencement: Art. 2 in operation at made date
+[^c-5e01279efdbaa6fa7cc687a9fef6165c]: Commencement: Art. 2 in operation at made date
 
-[^key-b555d351dffef2e3c0c8243ff8849b6d]: Commencement: Art. 3 in operation at made date
+[^c-b555d351dffef2e3c0c8243ff8849b6d]: Commencement: Art. 3 in operation at made date
 
-[^key-57112adf494b801290f067a6b4bc0bad]: Commencement: Art. 4 in operation at made date
+[^c-57112adf494b801290f067a6b4bc0bad]: Commencement: Art. 4 in operation at made date
 
-[^key-af1d41215859f06221504efba819a5d8]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/nisr/1997/192/article/4/1) omitted (6.4.2016) by virtue of [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [12](https://www.legislation.gov.uk/nisr/2016/158/article/12)
+[^c-af1d41215859f06221504efba819a5d8]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/nisr/1997/192/article/4/1) omitted (6.4.2016) by virtue of [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [12](https://www.legislation.gov.uk/nisr/2016/158/article/12)
 
-[^key-427f7e409596811fbad4d03d4ef6a7b7]: Commencement: Art. 5 in operation at made date
+[^c-427f7e409596811fbad4d03d4ef6a7b7]: Commencement: Art. 5 in operation at made date
 
-[^key-fa25f58d21d5e3c32f37fd0a80e29120]: Commencement: Art. 6 in operation at made date
+[^c-fa25f58d21d5e3c32f37fd0a80e29120]: Commencement: Art. 6 in operation at made date
 
 [^f00003]: Footnote: [S.R. 1990 No. 379](https://www.legislation.gov.uk/nisr/1990/379); relevant amending regulations are [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
-[^key-e949205bbafcf7bcfc70f1be8ca7d42c]: Commencement: Art. 7 in operation at made date
+[^c-e949205bbafcf7bcfc70f1be8ca7d42c]: Commencement: Art. 7 in operation at made date
 
 [^f00004]: Footnote: [S.R. 1986 No. 225](https://www.legislation.gov.uk/nisr/1986/225); relevant amending regulations are [S.R. 1986 No. 319](https://www.legislation.gov.uk/nisr/1986/319), [S.R. 1987 No. 283](https://www.legislation.gov.uk/nisr/1987/283), [S.R. 1988 No. 109](https://www.legislation.gov.uk/nisr/1988/109), [S.R. 1992 No. 304](https://www.legislation.gov.uk/nisr/1992/304) and [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
 [^f00005]: Footnote: [S.R. 1996 No. 570](https://www.legislation.gov.uk/nisr/1996/570); regulation 30 was amended by regulation 7(8) of [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
-[^key-73a553cac25528d06e70a86788832d4b]: Commencement: Art. 8 in operation at made date
+[^c-73a553cac25528d06e70a86788832d4b]: Commencement: Art. 8 in operation at made date
 
-[^key-c69bba914ad5b56b1fb7cb4241a59641]: Commencement: Art. 9 in operation at made date
+[^c-c69bba914ad5b56b1fb7cb4241a59641]: Commencement: Art. 9 in operation at made date
 
-[^key-df44bd02af54ce036c8e42fc12b6bd44]: Commencement: Art. 10 in operation at made date
+[^c-df44bd02af54ce036c8e42fc12b6bd44]: Commencement: Art. 10 in operation at made date
 
-[^key-d64921ab896644e84ce1204bed374441]: Commencement: Art. 11 in operation at made date
+[^c-d64921ab896644e84ce1204bed374441]: Commencement: Art. 11 in operation at made date
 
 [^f00006]: Footnote: [S.R. 1996 No. 621](https://www.legislation.gov.uk/nisr/1996/621)
 
-[^key-70a23b8905302d9d1904ad2a6d9ecdb6]: Commencement: Art. 12 in operation at made date
+[^c-70a23b8905302d9d1904ad2a6d9ecdb6]: Commencement: Art. 12 in operation at made date
 
 [^f00007]: Footnote: [S.R. 1997 No. 94](https://www.legislation.gov.uk/nisr/1997/94); regulation 1 was amended by regulation 16(2) of [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
-[^key-952d9aae4bbd86f96513a7fbbf76e78d]: Commencement: Art. 13 in operation at made date
+[^c-952d9aae4bbd86f96513a7fbbf76e78d]: Commencement: Art. 13 in operation at made date
 
 [^f00008]: Footnote: [S.R. & O. (N.I.) 1960 No. 22](https://www.legislation.gov.uk/nisro/1960/22), amended by [S.R. & O. (N.I.) 1961 No. 241](https://www.legislation.gov.uk/nisro/1961/241), [S.R. & O. (N.I.) 1963 No. 71](https://www.legislation.gov.uk/nisro/1963/71), [S.R. & O. (N.I.) 1965 No. 11](https://www.legislation.gov.uk/nisro/1965/11) and [S.R. 1983 No. 71](https://www.legislation.gov.uk/nisr/1983/71)

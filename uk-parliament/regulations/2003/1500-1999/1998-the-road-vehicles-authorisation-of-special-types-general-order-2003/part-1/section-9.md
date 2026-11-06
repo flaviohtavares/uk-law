@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Authorisation of particular vehicles falling within recognised category of special vehicles[^key-06d287b2f4e9af5e2ecc3981ded1af47]
+## 9. Authorisation of particular vehicles falling within recognised category of special vehicles[^c-06d287b2f4e9af5e2ecc3981ded1af47]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06d287b2f4e9af5e2ecc3981ded1af47]: Commencement: Art. 9 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-06d287b2f4e9af5e2ecc3981ded1af47]: Commencement: Art. 9 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

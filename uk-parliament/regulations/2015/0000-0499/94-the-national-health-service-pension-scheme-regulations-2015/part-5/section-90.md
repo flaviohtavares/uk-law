@@ -27,11 +27,11 @@ summary: ''
 
 (2) The Tier 1 conditions are that—
 
-- (a) M is qualified for retirement benefits and[^key-235ec5eb63b46cdf99776bd5df4e7c97] has not attained normal pension age;
+- (a) M is qualified for retirement benefits and[^c-235ec5eb63b46cdf99776bd5df4e7c97] has not attained normal pension age;
 - (b) M has ceased to be employed in NHS employment;
 - (c) the scheme manager is satisfied that M suffers from a physical or mental infirmity as a result of which M is permanently incapable of efficiently discharging the duties of M's employment;
 - (d) M's employment is terminated because of the physical or mental infirmity; and
-- (e) M [^key-5b2846ab1f1e5bbcbfc182df858d5252]...claims payment of the pension.
+- (e) M [^c-5b2846ab1f1e5bbcbfc182df858d5252]...claims payment of the pension.
 
 (3) The Tier 2 conditions are that—
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-235ec5eb63b46cdf99776bd5df4e7c97]: Textual amendment: Words in [reg. 90(2)(a)](https://www.legislation.gov.uk/uksi/2015/94/regulation/90/2/a) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [39(2)(a)](https://www.legislation.gov.uk/uksi/2017/275/regulation/39/2/a)
+[^c-235ec5eb63b46cdf99776bd5df4e7c97]: Textual amendment: Words in [reg. 90(2)(a)](https://www.legislation.gov.uk/uksi/2015/94/regulation/90/2/a) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [39(2)(a)](https://www.legislation.gov.uk/uksi/2017/275/regulation/39/2/a)
 
-[^key-5b2846ab1f1e5bbcbfc182df858d5252]: Textual amendment: Word in [reg. 90(2)(e)](https://www.legislation.gov.uk/uksi/2015/94/regulation/90/2/e) omitted (1.4.2017) by virtue of [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [39(2)(b)](https://www.legislation.gov.uk/uksi/2017/275/regulation/39/2/b)
+[^c-5b2846ab1f1e5bbcbfc182df858d5252]: Textual amendment: Word in [reg. 90(2)(e)](https://www.legislation.gov.uk/uksi/2015/94/regulation/90/2/e) omitted (1.4.2017) by virtue of [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [39(2)(b)](https://www.legislation.gov.uk/uksi/2017/275/regulation/39/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Withdrawal of authorisation[^c24480911][^key-0edf908687108d25235637bcd917511a]
+## 81. Withdrawal of authorisation[^c24480911][^c-0edf908687108d25235637bcd917511a]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c24480911]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2021/1/section/81) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-0edf908687108d25235637bcd917511a]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2021/1/section/81) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-0edf908687108d25235637bcd917511a]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2021/1/section/81) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

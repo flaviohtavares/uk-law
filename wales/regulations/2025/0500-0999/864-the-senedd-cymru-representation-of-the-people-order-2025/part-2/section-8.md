@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Absent voters lists at Senedd elections[^key-a5e014ad6feebe4661211cee30d28824]
+## 8. Absent voters lists at Senedd elections[^c-a5e014ad6feebe4661211cee30d28824]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ together with the addresses provided by them in their applications under article
 
 ## Annotations
 
-[^key-a5e014ad6feebe4661211cee30d28824]: Commencement: Art. 8 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-a5e014ad6feebe4661211cee30d28824]: Commencement: Art. 8 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

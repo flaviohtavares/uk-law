@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 333. Pay, bounty and allowances[^key-e550b4c48bb6f56180c51b657d840ae1][^key-5665b9c2300d97274fd0731ab42d2542]
+## 333. Pay, bounty and allowances[^c-e550b4c48bb6f56180c51b657d840ae1][^c-5665b9c2300d97274fd0731ab42d2542]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e550b4c48bb6f56180c51b657d840ae1]: Commencement: S. 333 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-e550b4c48bb6f56180c51b657d840ae1]: Commencement: S. 333 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-5665b9c2300d97274fd0731ab42d2542]: Commencement: S. 333 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-5665b9c2300d97274fd0731ab42d2542]: Commencement: S. 333 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

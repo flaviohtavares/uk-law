@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99B. Declarations under Chapter 2 of Part 15 of ITA 2007[^key-4135f23f03ad642b216db582b46a6374]
+## 99B. Declarations under Chapter 2 of Part 15 of ITA 2007[^c-4135f23f03ad642b216db582b46a6374]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where a person fraudulently or negligently gives any incorrect information in a 
 
 ## Annotations
 
-[^key-4135f23f03ad642b216db582b46a6374]: Textual amendment: S. 99B inserted (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 262](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/262) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-4135f23f03ad642b216db582b46a6374]: Textual amendment: S. 99B inserted (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 262](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/262) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

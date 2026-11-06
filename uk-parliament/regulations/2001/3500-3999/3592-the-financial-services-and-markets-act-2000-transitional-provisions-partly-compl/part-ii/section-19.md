@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Notice of grounds of unfitness of person under the Insurance Companies Act[^key-55ec6839570d676e3c1d233bf239146d]
+## 19. Notice of grounds of unfitness of person under the Insurance Companies Act[^c-55ec6839570d676e3c1d233bf239146d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ that notice ceases to have effect on commencement and the Authority must, as soo
 
 ## Annotations
 
-[^key-55ec6839570d676e3c1d233bf239146d]: Commencement: Art. 19 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-55ec6839570d676e3c1d233bf239146d]: Commencement: Art. 19 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

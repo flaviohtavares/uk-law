@@ -52,7 +52,7 @@ Criminal Damage (Compensation) (Northern Ireland) Order 1977
 - “terrorism” means the use of violence for political ends and includes any use of violence for the purpose of putting the public or any section of the public in fear;
 - “unlawful association” means any organisation which is engaged in terrorism and includes an organisation which at any relevant time is a proscribed organisation within the meaning of the Northern Ireland (Emergency Provisions) Act 1973 [^m00002] or any Act re-enacting that Act (whether with or without modifications).
 
-(3)[^key-ac44a1b3b6cfab734232c36562901a21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ac44a1b3b6cfab734232c36562901a21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Compensation to be payable in accordance with this Order
 
@@ -416,7 +416,7 @@ Dated this␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣�
 
 [^m00002]: Marginal citation: 1973 c.53
 
-[^key-ac44a1b3b6cfab734232c36562901a21]: Textual amendment: [Art. 2(3)](https://www.legislation.gov.uk/nisi/1977/1247/article/2/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 72](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/72), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-ac44a1b3b6cfab734232c36562901a21]: Textual amendment: [Art. 2(3)](https://www.legislation.gov.uk/nisi/1977/1247/article/2/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 72](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/72), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^m00003]: Marginal citation: 1971 c.38
 

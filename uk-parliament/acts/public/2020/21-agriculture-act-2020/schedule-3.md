@@ -195,9 +195,9 @@ Section 36
 
 #### Succession on death or retirement: condition relating to occupation of commercial unit
 
-**10.**[^c24383691][^key-51eccb091ebd2e8ba14b3f51f4d1da92][^key-d23135f8410b7f70e44391218768cb3b] In section 35 (application of sections 36 to 48), in subsection (2) omit “(and in Part I of Schedule 6 to this Act)”.
+**10.**[^c24383691][^c-51eccb091ebd2e8ba14b3f51f4d1da92][^c-d23135f8410b7f70e44391218768cb3b] In section 35 (application of sections 36 to 48), in subsection (2) omit “(and in Part I of Schedule 6 to this Act)”.
 
-**11.**[^c24383701][^key-09bbdc28dc836869601c3c00b3789ac0][^key-b46785dd4f8d18edbd776c5c1e6b751a] (1) Section 36 (right of any eligible person to apply for new tenancy on death of tenant) is amended as follows.
+**11.**[^c24383701][^c-09bbdc28dc836869601c3c00b3789ac0][^c-b46785dd4f8d18edbd776c5c1e6b751a] (1) Section 36 (right of any eligible person to apply for new tenancy on death of tenant) is amended as follows.
 
 (2) In subsection (3)—
 
@@ -209,9 +209,9 @@ Section 36
 
 > (5) For the purposes of the condition in subsection (3)(a), any period during which a close relative of the deceased was, in the period of seven years mentioned in that condition, attending a full-time course at a university, college or other establishment of higher or further education shall be treated as a period throughout which the relative's only or principal source of livelihood derived from the relative's agricultural work on the holding; but not more than three years in all shall be so treated by virtue of this subsection.
 
-**12.**[^c24383711][^key-116e01c7e7cb9a837261fd4439b07f92][^key-a03e1a0358c129fb438ef4ae83f1354a] In section 41 (application by not fully eligible person), in subsection (1) omit paragraph (a).
+**12.**[^c24383711][^c-116e01c7e7cb9a837261fd4439b07f92][^c-a03e1a0358c129fb438ef4ae83f1354a] In section 41 (application by not fully eligible person), in subsection (1) omit paragraph (a).
 
-**13.**[^c24383721][^key-809ec877540e0b96b56b19be335423b7][^key-9728861dca8887d4648e3456c1de04f9] (1) Section 50 (right to apply for new tenancy on retirement of tenant) is amended as follows.
+**13.**[^c24383721][^c-809ec877540e0b96b56b19be335423b7][^c-9728861dca8887d4648e3456c1de04f9] (1) Section 50 (right to apply for new tenancy on retirement of tenant) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -223,15 +223,15 @@ Section 36
 
 > (4) For the purposes of the condition in subsection (2)(a), any period during which a close relative of the retiring tenant was, in the period of seven years mentioned in that condition, attending a full-time course at a university, college or other establishment of higher or further education shall be treated as a period throughout which the relative's only or principal source of livelihood derived from the relative's agricultural work on the holding; but not more than three years in all shall be so treated by virtue of this subsection.
 
-**14.**[^c24383731][^key-28e387ae759aa2f2667804cf39ef1a16][^key-0bc7970e1b1644f00d75de07b8b8b324] Omit section 58 (effect of direction under section 53 on succession to other holdings).
+**14.**[^c24383731][^c-28e387ae759aa2f2667804cf39ef1a16][^c-0bc7970e1b1644f00d75de07b8b8b324] Omit section 58 (effect of direction under section 53 on succession to other holdings).
 
-**15.**[^c24383741][^key-819e07301a95da98079d597b43349259][^key-e47e681c1aec51f3ccacf88d8f3877c7] (1) Section 59 (interpretation of Part 4) is amended as follows.
+**15.**[^c24383741][^c-819e07301a95da98079d597b43349259][^c-e47e681c1aec51f3ccacf88d8f3877c7] (1) Section 59 (interpretation of Part 4) is amended as follows.
 
 (2) In subsection (1) omit the words from “(and” to “this Act)”.
 
 (3) In subsection (2) omit the words from “(and” to “above)”.
 
-**16.**[^c24383751][^key-3399f3d9975ae2ee17a449a64468624b][^key-7fc207b93cf94f392239f723a3bcd94c] Omit Schedule 6 (eligibility to apply for new tenancy).
+**16.**[^c24383751][^c-3399f3d9975ae2ee17a449a64468624b][^c-7fc207b93cf94f392239f723a3bcd94c] Omit Schedule 6 (eligibility to apply for new tenancy).
 
 #### Succession on death or retirement: condition relating to suitability
 
@@ -248,7 +248,7 @@ Section 36
 > - (b) criteria relating to the person's physical health, financial standing or character;
 > - (c) criteria relating to the character or condition of the holding or the terms of the tenancy.
 
-**18.**[^c24383761][^key-eedb949fa96c08d24b906a08591e3b2c][^key-639e8530023f97bc72d654b589de23b8] (1) Section 53 (application for tenancy of holding by nominated successor) is amended as follows.
+**18.**[^c24383761][^c-eedb949fa96c08d24b906a08591e3b2c][^c-639e8530023f97bc72d654b589de23b8] (1) Section 53 (application for tenancy of holding by nominated successor) is amended as follows.
 
 (2) In subsection (6) omit the words from “and in making” to the end.
 
@@ -391,53 +391,53 @@ Section 36
 
 [^c24383691]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/10) in force at Royal Assent for specified purposes, see [s. 57(1)(b)(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)
 
-[^key-51eccb091ebd2e8ba14b3f51f4d1da92]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/10) in force at 1.9.2024 for E. in so far as not already in force by [S.I. 2021/597](https://www.legislation.gov.uk/uksi/2021/597), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/597/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/597/regulation/3))
+[^c-51eccb091ebd2e8ba14b3f51f4d1da92]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/10) in force at 1.9.2024 for E. in so far as not already in force by [S.I. 2021/597](https://www.legislation.gov.uk/uksi/2021/597), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/597/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/597/regulation/3))
 
-[^key-d23135f8410b7f70e44391218768cb3b]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/10) in force at 1.9.2024 in force for W. in so far as not already in force by [S.I. 2024/788](https://www.legislation.gov.uk/wsi/2024/788), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2024/788/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2024/788/regulation/3))
+[^c-d23135f8410b7f70e44391218768cb3b]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/10) in force at 1.9.2024 in force for W. in so far as not already in force by [S.I. 2024/788](https://www.legislation.gov.uk/wsi/2024/788), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2024/788/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2024/788/regulation/3))
 
 [^c24383701]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/11) in force at Royal Assent for specified purposes, see [s. 57(1)(b)(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)
 
-[^key-09bbdc28dc836869601c3c00b3789ac0]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/11) in force at 1.9.2024 for E. in so far as not already in force by [S.I. 2021/597](https://www.legislation.gov.uk/uksi/2021/597), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/597/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/597/regulation/3))
+[^c-09bbdc28dc836869601c3c00b3789ac0]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/11) in force at 1.9.2024 for E. in so far as not already in force by [S.I. 2021/597](https://www.legislation.gov.uk/uksi/2021/597), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/597/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/597/regulation/3))
 
-[^key-b46785dd4f8d18edbd776c5c1e6b751a]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/11) in force at 1.9.2024 in force for W. in so far as not already in force by [S.I. 2024/788](https://www.legislation.gov.uk/wsi/2024/788), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2024/788/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2024/788/regulation/3))
+[^c-b46785dd4f8d18edbd776c5c1e6b751a]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/11) in force at 1.9.2024 in force for W. in so far as not already in force by [S.I. 2024/788](https://www.legislation.gov.uk/wsi/2024/788), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2024/788/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2024/788/regulation/3))
 
 [^c24383711]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/12) in force at Royal Assent for specified purposes, see [s. 57(1)(b)(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)
 
-[^key-116e01c7e7cb9a837261fd4439b07f92]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/12) in force at 1.9.2024 for E. in so far as not already in force by [S.I. 2021/597](https://www.legislation.gov.uk/uksi/2021/597), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/597/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/597/regulation/3))
+[^c-116e01c7e7cb9a837261fd4439b07f92]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/12) in force at 1.9.2024 for E. in so far as not already in force by [S.I. 2021/597](https://www.legislation.gov.uk/uksi/2021/597), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/597/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/597/regulation/3))
 
-[^key-a03e1a0358c129fb438ef4ae83f1354a]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/12) in force at 1.9.2024 in force for W. in so far as not already in force by [S.I. 2024/788](https://www.legislation.gov.uk/wsi/2024/788), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2024/788/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2024/788/regulation/3))
+[^c-a03e1a0358c129fb438ef4ae83f1354a]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/12) in force at 1.9.2024 in force for W. in so far as not already in force by [S.I. 2024/788](https://www.legislation.gov.uk/wsi/2024/788), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2024/788/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2024/788/regulation/3))
 
 [^c24383721]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/13) in force at Royal Assent for specified purposes, see [s. 57(1)(b)(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)
 
-[^key-809ec877540e0b96b56b19be335423b7]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/13) in force at 1.9.2024 for E. in so far as not already in force by [S.I. 2021/597](https://www.legislation.gov.uk/uksi/2021/597), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/597/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/597/regulation/3))
+[^c-809ec877540e0b96b56b19be335423b7]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/13) in force at 1.9.2024 for E. in so far as not already in force by [S.I. 2021/597](https://www.legislation.gov.uk/uksi/2021/597), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/597/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/597/regulation/3))
 
-[^key-9728861dca8887d4648e3456c1de04f9]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/13) in force at 1.9.2024 in force for W. in so far as not already in force by [S.I. 2024/788](https://www.legislation.gov.uk/wsi/2024/788), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2024/788/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2024/788/regulation/3))
+[^c-9728861dca8887d4648e3456c1de04f9]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/13) in force at 1.9.2024 in force for W. in so far as not already in force by [S.I. 2024/788](https://www.legislation.gov.uk/wsi/2024/788), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2024/788/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2024/788/regulation/3))
 
 [^c24383731]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/14) in force at Royal Assent for specified purposes, see [s. 57(1)(b)(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)
 
-[^key-28e387ae759aa2f2667804cf39ef1a16]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/14) in force at 1.9.2024 in force for W. in so far as not already in force by [S.I. 2024/788](https://www.legislation.gov.uk/wsi/2024/788), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2024/788/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2024/788/regulation/3))
+[^c-28e387ae759aa2f2667804cf39ef1a16]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/14) in force at 1.9.2024 in force for W. in so far as not already in force by [S.I. 2024/788](https://www.legislation.gov.uk/wsi/2024/788), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2024/788/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2024/788/regulation/3))
 
-[^key-0bc7970e1b1644f00d75de07b8b8b324]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/14) in force at 1.9.2024 for E. in so far as not already in force by [S.I. 2021/597](https://www.legislation.gov.uk/uksi/2021/597), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/597/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/597/regulation/3))
+[^c-0bc7970e1b1644f00d75de07b8b8b324]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/14) in force at 1.9.2024 for E. in so far as not already in force by [S.I. 2021/597](https://www.legislation.gov.uk/uksi/2021/597), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/597/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/597/regulation/3))
 
 [^c24383741]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/15) in force at Royal Assent for specified purposes, see [s. 57(1)(b)(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)
 
-[^key-819e07301a95da98079d597b43349259]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/15) in force at 1.9.2024 in force for W. in so far as not already in force by [S.I. 2024/788](https://www.legislation.gov.uk/wsi/2024/788), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2024/788/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2024/788/regulation/3))
+[^c-819e07301a95da98079d597b43349259]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/15) in force at 1.9.2024 in force for W. in so far as not already in force by [S.I. 2024/788](https://www.legislation.gov.uk/wsi/2024/788), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2024/788/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2024/788/regulation/3))
 
-[^key-e47e681c1aec51f3ccacf88d8f3877c7]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/15) in force at 1.9.2024 for E. in so far as not already in force by [S.I. 2021/597](https://www.legislation.gov.uk/uksi/2021/597), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/597/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/597/regulation/3))
+[^c-e47e681c1aec51f3ccacf88d8f3877c7]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/15) in force at 1.9.2024 for E. in so far as not already in force by [S.I. 2021/597](https://www.legislation.gov.uk/uksi/2021/597), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/597/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/597/regulation/3))
 
 [^c24383751]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/16) in force at Royal Assent for specified purposes, see [s. 57(1)(b)(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)
 
-[^key-3399f3d9975ae2ee17a449a64468624b]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/16) in force at 1.9.2024 for E. in so far as not already in force by [S.I. 2021/597](https://www.legislation.gov.uk/uksi/2021/597), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/597/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/597/regulation/3))
+[^c-3399f3d9975ae2ee17a449a64468624b]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/16) in force at 1.9.2024 for E. in so far as not already in force by [S.I. 2021/597](https://www.legislation.gov.uk/uksi/2021/597), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/597/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/597/regulation/3))
 
-[^key-7fc207b93cf94f392239f723a3bcd94c]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/16) in force at 1.9.2024 in force for W. in so far as not already in force by [S.I. 2024/788](https://www.legislation.gov.uk/wsi/2024/788), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2024/788/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2024/788/regulation/3))
+[^c-7fc207b93cf94f392239f723a3bcd94c]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/16) in force at 1.9.2024 in force for W. in so far as not already in force by [S.I. 2024/788](https://www.legislation.gov.uk/wsi/2024/788), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2024/788/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2024/788/regulation/3))
 
 [^c24383561]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/17) in force at Royal Assent for specified purposes and otherwise at 11.1.2021, see [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1)
 
 [^c24383761]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/18) in force at Royal Assent for specified purposes, see [s. 57(1)(b)(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)
 
-[^key-eedb949fa96c08d24b906a08591e3b2c]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/18) in force at 1.9.2024 in force for W. in so far as not already in force by [S.I. 2024/788](https://www.legislation.gov.uk/wsi/2024/788), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2024/788/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2024/788/regulation/3))
+[^c-eedb949fa96c08d24b906a08591e3b2c]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/18) in force at 1.9.2024 in force for W. in so far as not already in force by [S.I. 2024/788](https://www.legislation.gov.uk/wsi/2024/788), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2024/788/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2024/788/regulation/3))
 
-[^key-639e8530023f97bc72d654b589de23b8]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/18) in force at 1.9.2024 for E. in so far as not already in force by [S.I. 2021/597](https://www.legislation.gov.uk/uksi/2021/597), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/597/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/597/regulation/3))
+[^c-639e8530023f97bc72d654b589de23b8]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/18) in force at 1.9.2024 for E. in so far as not already in force by [S.I. 2021/597](https://www.legislation.gov.uk/uksi/2021/597), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/597/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/597/regulation/3))
 
 [^c24383571]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/19) in force at Royal Assent for specified purposes and otherwise at 11.1.2021, see [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1)
 

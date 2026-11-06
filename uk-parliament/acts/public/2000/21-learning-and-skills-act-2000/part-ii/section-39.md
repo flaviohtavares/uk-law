@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Further education: governors.[^key-e8ace355ce330f855a16153b7ce271eb]
+## 39. Further education: governors.[^c-e8ace355ce330f855a16153b7ce271eb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8ace355ce330f855a16153b7ce271eb]: Textual amendment: S. 39 omitted (1.9.2014) by virtue of [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [s. 11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/2/a); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
+[^c-e8ace355ce330f855a16153b7ce271eb]: Textual amendment: S. 39 omitted (1.9.2014) by virtue of [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [s. 11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/2/a); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)

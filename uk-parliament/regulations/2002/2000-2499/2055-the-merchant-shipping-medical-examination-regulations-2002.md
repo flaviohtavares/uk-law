@@ -31,7 +31,7 @@ summary: ''
 
 MERCHANT SHIPPING
 
-The Merchant Shipping (Medical Examination) Regulations 2002 (revoked)[^key-fe7b140fb50b446c157eeb85dcea28a0]
+The Merchant Shipping (Medical Examination) Regulations 2002 (revoked)[^c-fe7b140fb50b446c157eeb85dcea28a0]
 
 Made
 
@@ -45,84 +45,84 @@ Coming into force
 
 1st September 2002
 
-[^key-fe7b140fb50b446c157eeb85dcea28a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe7b140fb50b446c157eeb85dcea28a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and revocations[^key-fe7b140fb50b446c157eeb85dcea28a0]
+## 1. Citation, commencement and revocations[^c-fe7b140fb50b446c157eeb85dcea28a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation etc[^key-fe7b140fb50b446c157eeb85dcea28a0]
+## 2. Interpretation etc[^c-fe7b140fb50b446c157eeb85dcea28a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-fe7b140fb50b446c157eeb85dcea28a0]
+## 3. Application[^c-fe7b140fb50b446c157eeb85dcea28a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Employment of seafarers[^key-fe7b140fb50b446c157eeb85dcea28a0]
+## 4. Employment of seafarers[^c-fe7b140fb50b446c157eeb85dcea28a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Certificates equivalent to a medical fitness certificate—existing certificates[^key-fe7b140fb50b446c157eeb85dcea28a0]
+## 5. Certificates equivalent to a medical fitness certificate—existing certificates[^c-fe7b140fb50b446c157eeb85dcea28a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Certificates equivalent to a medical fitness certificate—non-United Kingdom certificates[^key-fe7b140fb50b446c157eeb85dcea28a0]
+## 6. Certificates equivalent to a medical fitness certificate—non-United Kingdom certificates[^c-fe7b140fb50b446c157eeb85dcea28a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Issue of medical fitness certificate[^key-fe7b140fb50b446c157eeb85dcea28a0]
+## 7. Issue of medical fitness certificate[^c-fe7b140fb50b446c157eeb85dcea28a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Period of validity of certificate[^key-fe7b140fb50b446c157eeb85dcea28a0]
+## 8. Period of validity of certificate[^c-fe7b140fb50b446c157eeb85dcea28a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Suspension and cancellation of certificate[^key-fe7b140fb50b446c157eeb85dcea28a0]
+## 9. Suspension and cancellation of certificate[^c-fe7b140fb50b446c157eeb85dcea28a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Application for a review[^key-fe7b140fb50b446c157eeb85dcea28a0]
+## 10. Application for a review[^c-fe7b140fb50b446c157eeb85dcea28a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Health assessment and transfer of seafarers on watchkeeping duties to day work[^key-fe7b140fb50b446c157eeb85dcea28a0]
+## 11. Health assessment and transfer of seafarers on watchkeeping duties to day work[^c-fe7b140fb50b446c157eeb85dcea28a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Records and returns[^key-fe7b140fb50b446c157eeb85dcea28a0]
+## 12. Records and returns[^c-fe7b140fb50b446c157eeb85dcea28a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Inspection and detention of a United Kingdom ship[^key-fe7b140fb50b446c157eeb85dcea28a0]
+## 13. Inspection and detention of a United Kingdom ship[^c-fe7b140fb50b446c157eeb85dcea28a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Inspection, detention and other measures in respect of ships other than United Kingdom ships[^key-fe7b140fb50b446c157eeb85dcea28a0]
+## 14. Inspection, detention and other measures in respect of ships other than United Kingdom ships[^c-fe7b140fb50b446c157eeb85dcea28a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Enforcement of detention[^key-fe7b140fb50b446c157eeb85dcea28a0]
+## 15. Enforcement of detention[^c-fe7b140fb50b446c157eeb85dcea28a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Compensation[^key-fe7b140fb50b446c157eeb85dcea28a0]
+## 16. Compensation[^c-fe7b140fb50b446c157eeb85dcea28a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Penalties[^key-fe7b140fb50b446c157eeb85dcea28a0]
+## 17. Penalties[^c-fe7b140fb50b446c157eeb85dcea28a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fe7b140fb50b446c157eeb85dcea28a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe7b140fb50b446c157eeb85dcea28a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fe7b140fb50b446c157eeb85dcea28a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe7b140fb50b446c157eeb85dcea28a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fe7b140fb50b446c157eeb85dcea28a0]: Textual amendment: Regulations revoked (6.4.2010) by [The Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010 (S.I. 2010/737)](https://www.legislation.gov.uk/uksi/2010/737), [reg. 1(1)(2)(a)](https://www.legislation.gov.uk/uksi/2010/737/regulation/1/2/a)
+[^c-fe7b140fb50b446c157eeb85dcea28a0]: Textual amendment: Regulations revoked (6.4.2010) by [The Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010 (S.I. 2010/737)](https://www.legislation.gov.uk/uksi/2010/737), [reg. 1(1)(2)(a)](https://www.legislation.gov.uk/uksi/2010/737/regulation/1/2/a)

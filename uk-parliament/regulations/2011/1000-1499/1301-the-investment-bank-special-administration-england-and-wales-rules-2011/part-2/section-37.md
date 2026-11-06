@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Content of application[^key-983c0ba30ffcefee70fde60bc1370c37]
+## 37. Content of application[^c-983c0ba30ffcefee70fde60bc1370c37]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-983c0ba30ffcefee70fde60bc1370c37]: Commencement: [Rule 37](https://www.legislation.gov.uk/uksi/2011/1301/rule/37) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-983c0ba30ffcefee70fde60bc1370c37]: Commencement: [Rule 37](https://www.legislation.gov.uk/uksi/2011/1301/rule/37) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

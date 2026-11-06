@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Public rights of way[^key-024c8e37a9278450959ab42812ec77b0]
+## 19. Public rights of way[^c-024c8e37a9278450959ab42812ec77b0]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-024c8e37a9278450959ab42812ec77b0]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2014/2935/article/19) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-024c8e37a9278450959ab42812ec77b0]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2014/2935/article/19) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

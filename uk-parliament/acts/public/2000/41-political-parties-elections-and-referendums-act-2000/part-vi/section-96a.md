@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96A. Statement of accounts[^key-0168399265327c393ea6383ad48e1188]
+## 96A. Statement of accounts[^c-0168399265327c393ea6383ad48e1188]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ but which in the Commission's opinion gives a sufficient indication of the third
 
 ## Annotations
 
-[^key-0168399265327c393ea6383ad48e1188]: Textual amendment: S. 96A inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 35(3)](https://www.legislation.gov.uk/ukpga/2014/4/section/35/3), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))
+[^c-0168399265327c393ea6383ad48e1188]: Textual amendment: S. 96A inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 35(3)](https://www.legislation.gov.uk/ukpga/2014/4/section/35/3), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))

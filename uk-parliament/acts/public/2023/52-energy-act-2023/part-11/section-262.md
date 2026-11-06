@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 262. Appeals[^key-c076e33447f61260a2ba9ef5725921a0]
+## 262. Appeals[^c-c076e33447f61260a2ba9ef5725921a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c076e33447f61260a2ba9ef5725921a0]: Commencement: S. 262 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)
+[^c-c076e33447f61260a2ba9ef5725921a0]: Commencement: S. 262 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)

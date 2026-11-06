@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Remuneration, allowances and pensions[^key-ba99a88500962a23a456742469e5067d]
+## 14. Remuneration, allowances and pensions[^c-ba99a88500962a23a456742469e5067d]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ such pensions, allowances or gratuities to any member or employee or former memb
 
 ## Annotations
 
-[^key-ba99a88500962a23a456742469e5067d]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2016/18/section/14) in force at 1.11.2016 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2016/250/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/250/regulation/3))
+[^c-ba99a88500962a23a456742469e5067d]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2016/18/section/14) in force at 1.11.2016 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2016/250/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/250/regulation/3))

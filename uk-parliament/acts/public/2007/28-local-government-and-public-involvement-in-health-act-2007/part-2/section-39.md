@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Resolution for elections by thirds[^key-fb4fc2cc7d125411cce421331761e62e]
+## 39. Resolution for elections by thirds[^c-fb4fc2cc7d125411cce421331761e62e]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ may resolve that it is to revert to being subject to a scheme for elections by t
 
 ## Annotations
 
-[^key-fb4fc2cc7d125411cce421331761e62e]: Commencement: S. 39 in force at 30.12.2007, see s. 245(2)
+[^c-fb4fc2cc7d125411cce421331761e62e]: Commencement: S. 39 in force at 30.12.2007, see s. 245(2)

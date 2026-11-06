@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Food provided for children[^key-b8d7557f61fa19a7d4778aa32d85379f]
+## 13. Food provided for children[^c-b8d7557f61fa19a7d4778aa32d85379f]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8d7557f61fa19a7d4778aa32d85379f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/176/regulation/13) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-b8d7557f61fa19a7d4778aa32d85379f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/176/regulation/13) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)

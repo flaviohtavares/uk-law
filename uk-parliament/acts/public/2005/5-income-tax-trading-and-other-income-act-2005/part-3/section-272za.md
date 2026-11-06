@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 272ZA. Application of trading income rules: cash basis[^key-f7743ba94cf9cc960cbf9df4b7a08f23]
+## 272ZA. Application of trading income rules: cash basis[^c-f7743ba94cf9cc960cbf9df4b7a08f23]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,7 +69,7 @@ summary: ''
 > </tbody>
 > </table>
 >
-> [^key-e8327e0fdec9bb1f088f7b7cae662ffb][^key-e8327e0fdec9bb1f088f7b7cae662ffb][^key-e8327e0fdec9bb1f088f7b7cae662ffb][^key-8576311de826dc42ba6207c737c82527]
+> [^c-e8327e0fdec9bb1f088f7b7cae662ffb][^c-e8327e0fdec9bb1f088f7b7cae662ffb][^c-e8327e0fdec9bb1f088f7b7cae662ffb][^c-8576311de826dc42ba6207c737c82527]
 
 (2) In those provisions, the expression “this Part” is to be read as a reference to those provisions as applied by subsection (1) and to the other provisions of Part 3.
 
@@ -77,8 +77,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f7743ba94cf9cc960cbf9df4b7a08f23]: Textual amendment: S. 272ZA inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/17)
+[^c-f7743ba94cf9cc960cbf9df4b7a08f23]: Textual amendment: S. 272ZA inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/17)
 
-[^key-e8327e0fdec9bb1f088f7b7cae662ffb]: Textual amendment: Words in [s. 272ZA(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/272ZA/1) substituted (1.1.2023 for specified purposes, 6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 33](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/33); [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/b); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-e8327e0fdec9bb1f088f7b7cae662ffb]: Textual amendment: Words in [s. 272ZA(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/272ZA/1) substituted (1.1.2023 for specified purposes, 6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 33](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/33); [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/b); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-8576311de826dc42ba6207c737c82527]: Textual amendment: Words in s. 272ZA(1) Table inserted (with effect in accordance with s. 36(8) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 36(5)](https://www.legislation.gov.uk/ukpga/2018/3/section/36/5)
+[^c-8576311de826dc42ba6207c737c82527]: Textual amendment: Words in s. 272ZA(1) Table inserted (with effect in accordance with s. 36(8) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 36(5)](https://www.legislation.gov.uk/ukpga/2018/3/section/36/5)

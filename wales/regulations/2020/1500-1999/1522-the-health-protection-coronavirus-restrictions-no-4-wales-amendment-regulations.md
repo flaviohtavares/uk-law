@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus Restrictions) (No. 4) (Wales) (Amendment) Regulations 2020 (revoked)[^key-c0adbdf16ae1b2b30e1fdfd64bdbbca1]
+The Health Protection (Coronavirus Restrictions) (No. 4) (Wales) (Amendment) Regulations 2020 (revoked)[^c-c0adbdf16ae1b2b30e1fdfd64bdbbca1]
 
 Approved by Senedd Cymru
 
@@ -47,24 +47,24 @@ Coming into force
 
 at 14 December 2020
 
-[^key-c0adbdf16ae1b2b30e1fdfd64bdbbca1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0adbdf16ae1b2b30e1fdfd64bdbbca1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and coming into force[^key-c0adbdf16ae1b2b30e1fdfd64bdbbca1]
+## 1. Title and coming into force[^c-c0adbdf16ae1b2b30e1fdfd64bdbbca1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus Restrictions) (No. 4) (Wales) Regulations 2020[^key-c0adbdf16ae1b2b30e1fdfd64bdbbca1]
+## 2. Amendment of the Health Protection (Coronavirus Restrictions) (No. 4) (Wales) Regulations 2020[^c-c0adbdf16ae1b2b30e1fdfd64bdbbca1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0adbdf16ae1b2b30e1fdfd64bdbbca1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0adbdf16ae1b2b30e1fdfd64bdbbca1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c0adbdf16ae1b2b30e1fdfd64bdbbca1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0adbdf16ae1b2b30e1fdfd64bdbbca1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c0adbdf16ae1b2b30e1fdfd64bdbbca1]: Textual amendment: Regulations revoked (20.1.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) Regulations 2021 (S.I. 2021/57)](https://www.legislation.gov.uk/wsi/2021/57), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/57/regulation/1), [4(e)](https://www.legislation.gov.uk/wsi/2021/57/regulation/4/e)
+[^c-c0adbdf16ae1b2b30e1fdfd64bdbbca1]: Textual amendment: Regulations revoked (20.1.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) Regulations 2021 (S.I. 2021/57)](https://www.legislation.gov.uk/wsi/2021/57), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/57/regulation/1), [4(e)](https://www.legislation.gov.uk/wsi/2021/57/regulation/4/e)

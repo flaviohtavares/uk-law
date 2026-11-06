@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 74. Affixing of traffic signs to walls.[^c13558641][^c13558651][^key-44564849387a29c67e0168e584135cb7]
+## 74. Affixing of traffic signs to walls.[^c13558641][^c13558651][^c-44564849387a29c67e0168e584135cb7]
 
 *Extent: E+W+S*
 
@@ -58,7 +58,7 @@ summary: ''
 
     S. 74: transfer of functions (25.11.2002) by [The Transfer of Functions (Transport, Local Government and the Regions) Order 2002 (S.I. 2002/2626)](https://www.legislation.gov.uk/uksi/2002/2626), [art. 4(b)](https://www.legislation.gov.uk/uksi/2002/2626/article/4/b) (with [arts. 7](https://www.legislation.gov.uk/uksi/2002/2626/article/7), [8](https://www.legislation.gov.uk/uksi/2002/2626/article/8))
 
-[^key-44564849387a29c67e0168e584135cb7]: Modification: S. 74 modified (18.12.2013) by [London Local Authorities and Transport for London Act 2013 (c. v)](https://www.legislation.gov.uk/ukla/2013/5), [ss. 1(3), 3, 4(2)](https://www.legislation.gov.uk/ukla/2013/5/section/4/2)
+[^c-44564849387a29c67e0168e584135cb7]: Modification: S. 74 modified (18.12.2013) by [London Local Authorities and Transport for London Act 2013 (c. v)](https://www.legislation.gov.uk/ukla/2013/5), [ss. 1(3), 3, 4(2)](https://www.legislation.gov.uk/ukla/2013/5/section/4/2)
 
 [^c13558661]: Textual amendment: Words substituted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [ss. 1](https://www.legislation.gov.uk/ukpga/1985/51/section/1), [2](https://www.legislation.gov.uk/ukpga/1985/51/section/2), [8(1)](https://www.legislation.gov.uk/ukpga/1985/51/section/8/1), [Sch. 5 para. 4(27)](https://www.legislation.gov.uk/ukpga/1985/51/schedule/5/paragraph/4/27)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Index of defined expressions.[^key-a05d0f17da059ad9f6e46fe7e0e3dae6]
+## 126. Index of defined expressions.[^c-a05d0f17da059ad9f6e46fe7e0e3dae6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a05d0f17da059ad9f6e46fe7e0e3dae6]: Textual amendment: [S. 126](https://www.legislation.gov.uk/ukpga/2000/26/section/126) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 50](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/50); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-a05d0f17da059ad9f6e46fe7e0e3dae6]: Textual amendment: [S. 126](https://www.legislation.gov.uk/ukpga/2000/26/section/126) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 50](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/50); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

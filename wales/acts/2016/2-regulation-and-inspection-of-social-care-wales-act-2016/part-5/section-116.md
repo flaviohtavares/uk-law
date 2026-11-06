@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Other functions of SCW in respect of education and training[^key-247b9195bdd17c3041e30f0ad49ee271]
+## 116. Other functions of SCW in respect of education and training[^c-247b9195bdd17c3041e30f0ad49ee271]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-247b9195bdd17c3041e30f0ad49ee271]: Commencement: [S. 116](https://www.legislation.gov.uk/anaw/2016/2/section/116) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(d)](https://www.legislation.gov.uk/wsi/2017/309/article/2/d) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-247b9195bdd17c3041e30f0ad49ee271]: Commencement: [S. 116](https://www.legislation.gov.uk/anaw/2016/2/section/116) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(d)](https://www.legislation.gov.uk/wsi/2017/309/article/2/d) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

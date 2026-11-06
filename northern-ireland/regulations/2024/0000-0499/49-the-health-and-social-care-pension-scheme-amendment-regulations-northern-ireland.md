@@ -48,11 +48,11 @@ In accordance with Article 12(4) of the 1972 Order and section 21(1) of the 2014
 
 In accordance with Article 12(1) of the 1972 Order and section 3(5) of the 2014 Act, these Regulations are made with the consent of the Department of Finance.
 
-## 1. Citation and commencement[^key-2f5aa4b4d271a7d6ebc06a611d1efed5]
+## 1. Citation and commencement[^c-2f5aa4b4d271a7d6ebc06a611d1efed5]
 
 These Regulations may be cited as the Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2024 and come into operation on 1 April 2024.
 
-## 2. Amendment of the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^key-efa308718fc6f24cb73a33c824a983f3]
+## 2. Amendment of the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^c-efa308718fc6f24cb73a33c824a983f3]
 
 In the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^f00003] in regulation 32 (Contributions by employing authorities), in paragraph (1), for “22.5%” substitute “23.2%”.
 
@@ -92,8 +92,8 @@ Regulation 2 makes amendments in respect of the 2015 Regulations in that they in
 
 [^f00002]: Footnote: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2) Section 3(1) and (2) were amended by section 94(2) and (3) of the Public Service Pensions and Judicial Offices Act [2022 (c.7)](https://www.legislation.gov.uk/ukpga/2022/7).
 
-[^key-2f5aa4b4d271a7d6ebc06a611d1efed5]: Commencement: Reg. 1 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/49/regulation/1)
+[^c-2f5aa4b4d271a7d6ebc06a611d1efed5]: Commencement: Reg. 1 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/49/regulation/1)
 
-[^key-efa308718fc6f24cb73a33c824a983f3]: Commencement: Reg. 2 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/49/regulation/1)
+[^c-efa308718fc6f24cb73a33c824a983f3]: Commencement: Reg. 2 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/49/regulation/1)
 
 [^f00003]: Footnote: S R [2015 No 120](https://www.legislation.gov.uk/nisr/2015/120).

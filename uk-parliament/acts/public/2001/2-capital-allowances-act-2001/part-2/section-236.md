@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236. Additional VAT liability generates first-year allowance or annual investment allowance[^key-2df3ec305c268f30e111abfed0716fe1]
+## 236. Additional VAT liability generates first-year allowance or annual investment allowance[^c-2df3ec305c268f30e111abfed0716fe1]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (3) Subsections (3) and (4) of section 52 apply to first-year qualifying expenditure constituted by the additional VAT liability as they apply to other first-year qualifying expenditure.
 
-(3A)[^key-e1465102b877746fa3b95236c46fd129] Subsection (3B) applies if—
+(3A)[^c-e1465102b877746fa3b95236c46fd129] Subsection (3B) applies if—
 
 - (a) the original expenditure was AIA qualifying expenditure, and
 - (b) the additional VAT liability is incurred at a time when the plant or machinery is provided for the purposes of the qualifying activity.
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2df3ec305c268f30e111abfed0716fe1]: Textual amendment: Words in s. 236 heading inserted (with effect in accordance with Sch. 24 para. 23 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 10(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/10/3)
+[^c-2df3ec305c268f30e111abfed0716fe1]: Textual amendment: Words in s. 236 heading inserted (with effect in accordance with Sch. 24 para. 23 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 10(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/10/3)
 
-[^key-e1465102b877746fa3b95236c46fd129]: Textual amendment: S. 236(3A)-(3C) inserted (with effect in accordance with Sch. 24 para. 23 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 10(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/10/2)
+[^c-e1465102b877746fa3b95236c46fd129]: Textual amendment: S. 236(3A)-(3C) inserted (with effect in accordance with Sch. 24 para. 23 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 10(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/10/2)

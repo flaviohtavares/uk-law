@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Permitted leases: marketing restrictions[^key-1977dd133a05624a7d20d93a267d73b4]
+## 9. Permitted leases: marketing restrictions[^c-1977dd133a05624a7d20d93a267d73b4]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1977dd133a05624a7d20d93a267d73b4]: Commencement: S. 9 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-1977dd133a05624a7d20d93a267d73b4]: Commencement: S. 9 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

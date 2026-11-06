@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32L. Alternative quality requirements for UK defined benefits schemes[^key-9e2b0649e7766a790f3c00499f91a081]
+## 32L. Alternative quality requirements for UK defined benefits schemes[^c-9e2b0649e7766a790f3c00499f91a081]
 
 *Extent: E+W+S*
 
@@ -119,7 +119,7 @@ the relevant members are the active members of each such group.
 
 ## Annotations
 
-[^key-9e2b0649e7766a790f3c00499f91a081]: Textual amendment: Pt. 7B inserted (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [11](https://www.legislation.gov.uk/uksi/2015/501/regulation/11)
+[^c-9e2b0649e7766a790f3c00499f91a081]: Textual amendment: Pt. 7B inserted (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [11](https://www.legislation.gov.uk/uksi/2015/501/regulation/11)
 
 [^M_F_bbeb71e0-2147-427a-c1a7-1efab05f2664]: Textual amendment: Words in reg. 32M(3) inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/311)](https://www.legislation.gov.uk/uksi/2016/311), regs. 1(1), 5(2)
 

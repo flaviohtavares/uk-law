@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33.4. Determination of appeal[^key-5a0bbfeeaa48a594108b03d72eea73c7]
+## 33.4. Determination of appeal[^c-5a0bbfeeaa48a594108b03d72eea73c7]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a0bbfeeaa48a594108b03d72eea73c7]: Commencement: Para. 33.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-5a0bbfeeaa48a594108b03d72eea73c7]: Commencement: Para. 33.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

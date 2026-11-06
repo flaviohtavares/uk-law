@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10.1. Appointment of official receivers[^key-19cf9badc04f18ab9c5468fd421def8e]
+## 10.1. Appointment of official receivers[^c-19cf9badc04f18ab9c5468fd421def8e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Judicial notice shall be taken of the appointment under sections 399 to 401 of o
 
 ## Annotations
 
-[^key-19cf9badc04f18ab9c5468fd421def8e]: Commencement: [Rule 10.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/10.1) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-19cf9badc04f18ab9c5468fd421def8e]: Commencement: [Rule 10.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/10.1) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

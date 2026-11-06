@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191. Spaceflight activities: critical national infrastructure and essential services[^key-bd9ee223b1ba251b49e19a5fcf7aee95]
+## 191. Spaceflight activities: critical national infrastructure and essential services[^c-bd9ee223b1ba251b49e19a5fcf7aee95]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd9ee223b1ba251b49e19a5fcf7aee95]: Commencement: Reg. 191 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-bd9ee223b1ba251b49e19a5fcf7aee95]: Commencement: Reg. 191 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00057]: Footnote: The Centre for Protection of National Infrastructure (“the CPNI”) is part of the Security Service.

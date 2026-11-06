@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.47.1. Interpretation[^key-d3599cb8149db72584c2124e037b9487]
+## 3.47.1. Interpretation[^c-d3599cb8149db72584c2124e037b9487]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ In this part—
 
 ## Annotations
 
-[^key-d3599cb8149db72584c2124e037b9487]: Textual amendment: [Ch. 3 Pt. 47](https://www.legislation.gov.uk/uksi/1999/929/part/47) inserted (12.12.2016) by [Act of Sederunt (Rules of the Court of Session 1994 and Summary Application Rules 1999 Amendment) (Serious Crime Prevention Orders etc.) 2016 (S.S.I. 2016/319)](https://www.legislation.gov.uk/ssi/2016/319), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/319/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2016/319/paragraph/3/3)
+[^c-d3599cb8149db72584c2124e037b9487]: Textual amendment: [Ch. 3 Pt. 47](https://www.legislation.gov.uk/uksi/1999/929/part/47) inserted (12.12.2016) by [Act of Sederunt (Rules of the Court of Session 1994 and Summary Application Rules 1999 Amendment) (Serious Crime Prevention Orders etc.) 2016 (S.S.I. 2016/319)](https://www.legislation.gov.uk/ssi/2016/319), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/319/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2016/319/paragraph/3/3)

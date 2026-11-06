@@ -38,7 +38,7 @@ references (whether express or implied) to any relationship between two persons 
 
 nothing in this section shall operate to sever the property or any interest in it from the dignity or title, but the property or interest shall devolve in all respects as if this section had not been enacted.
 
-(5) This section is without prejudice to section 42 of the [^c1014287]Adoption Act 1976 or section 69 of the Adoption and Children Act 2002[^key-8d5b4353a4f62a46b822330e185d63eb] (construction of dispositions in cases of adoption).
+(5) This section is without prejudice to section 42 of the [^c1014287]Adoption Act 1976 or section 69 of the Adoption and Children Act 2002[^c-8d5b4353a4f62a46b822330e185d63eb] (construction of dispositions in cases of adoption).
 
 (6) In this section “**disposition**” means a disposition, including an oral disposition, of real or personal property whether inter vivos or by will or codicil.
 
@@ -52,4 +52,4 @@ nothing in this section shall operate to sever the property or any interest in i
 
 [^c1014287]: Marginal citation: [1976 c. 36](https://www.legislation.gov.uk/ukpga/1976/36).
 
-[^key-8d5b4353a4f62a46b822330e185d63eb]: Textual amendment: Words in s. 19(5) inserted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 52](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/52) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)
+[^c-8d5b4353a4f62a46b822330e185d63eb]: Textual amendment: Words in s. 19(5) inserted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 52](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/52) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)

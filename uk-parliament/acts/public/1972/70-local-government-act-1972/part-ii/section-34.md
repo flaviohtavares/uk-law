@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Chairman and vice-chairman of community council.[^key-399dbfc6b45b6cef78be3dfb4afe3f07]
+## 34. Chairman and vice-chairman of community council.[^c-399dbfc6b45b6cef78be3dfb4afe3f07]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) The chairman shall, unless he resigns or becomes disqualified, continue in office until his successor becomes entitled to act as chairman.
 
-(5)[^key-d4fbb859a7ee08d3d13ed045b5202aa8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d4fbb859a7ee08d3d13ed045b5202aa8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) A community council may appoint a member of the council to be vice-chairman of the council.
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-399dbfc6b45b6cef78be3dfb4afe3f07]: Modification: S. 34 modified (W.) (22.4.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) Regulations 2020 (S.I. 2020/442)](https://www.legislation.gov.uk/wsi/2020/442), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/1/3), [11(5)](https://www.legislation.gov.uk/wsi/2020/442/regulation/11/5)
+[^c-399dbfc6b45b6cef78be3dfb4afe3f07]: Modification: S. 34 modified (W.) (22.4.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) Regulations 2020 (S.I. 2020/442)](https://www.legislation.gov.uk/wsi/2020/442), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/1/3), [11(5)](https://www.legislation.gov.uk/wsi/2020/442/regulation/11/5)
 
-[^key-d4fbb859a7ee08d3d13ed045b5202aa8]: Textual amendment: S. 34(5) repealed (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [s. 75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d), [Sch. 2](https://www.legislation.gov.uk/anaw/2013/4/schedule/2)
+[^c-d4fbb859a7ee08d3d13ed045b5202aa8]: Textual amendment: S. 34(5) repealed (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [s. 75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d), [Sch. 2](https://www.legislation.gov.uk/anaw/2013/4/schedule/2)

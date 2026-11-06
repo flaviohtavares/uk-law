@@ -100,7 +100,7 @@ HAS ADOPTED THIS REGULATION:
 - (a) Tallow derivatives, processed under conditions at least as vigorous as those laid down in Section 3 of Annex I;
 - (b) medical devices referred to in paragraph 1, which are not intended to come into contact with the human body or which are intended to come into contact with intact skin only.
 
-**Article 2.** For the purposes of this Regulation, the following definitions apply in addition to the definitions set out in the Medical Devices Regulations 2002[^key-16d1c44bb5fa1c1be1e16a651ff6764c]:
+**Article 2.** For the purposes of this Regulation, the following definitions apply in addition to the definitions set out in the Medical Devices Regulations 2002[^c-16d1c44bb5fa1c1be1e16a651ff6764c]:
 
 - ((a)) ‘cell’ means the smallest organised unit of any living form which is capable of independent existence and of replacement of its own substance in a suitable environment;
 - ((b)) ‘tissue’ means an organisation of cells, extra-cellular constituents or both;
@@ -113,17 +113,17 @@ HAS ADOPTED THIS REGULATION:
 - ((i)) ‘source country’ means the country or countries in which the animal was born, has been reared and/or has been slaughtered;
 - ((j)) ‘starting materials’ means raw materials or any other product of animal origin out of which, or with the help of which, the devices referred to in Article 1(1) are produced.
 
-**Article 3.** 1.[^key-858e6ff6102fb37566f19c6d9dd86664] Before lodging an application for a conformity assessment for the purpose of complying with regulation 13 or regulation 27 of the Medical Devices Regulations 2002, the manufacturer of medical devices referred to in Article 1(1) of this Regulation or their UK responsible person must carry out the risk analysis and risk management scheme set out in Annex I to this Regulation.
+**Article 3.** 1.[^c-858e6ff6102fb37566f19c6d9dd86664] Before lodging an application for a conformity assessment for the purpose of complying with regulation 13 or regulation 27 of the Medical Devices Regulations 2002, the manufacturer of medical devices referred to in Article 1(1) of this Regulation or their UK responsible person must carry out the risk analysis and risk management scheme set out in Annex I to this Regulation.
 
 2. For custom-made devices and devices intended for clinical investigation which fall under Article 1(1), the statement of the manufacturer or his authorised representative and the documentation in accordance with Annex 6 to Directive 90/385/EEC or Annex VIII to Directive 93/42/EEC, respectively, shall also address compliance with the particular requirements set out in section 1 of Annex I to this Regulation.
 
-**Article 4.** 1.[^key-486448f4dede35b9ee89f5c3e3d5a5e9] The Secretary of State must verify on a regular basis that approved bodies designated under Part 5 of the Medical Devices Regulations 2002 have up-to-date knowledge and expertise of the medical devices referred to in Article 1(1), in order to assess the conformity of those devices with the provisions of those Regulations and with the particular requirements of Annex I to this Regulation.
+**Article 4.** 1.[^c-486448f4dede35b9ee89f5c3e3d5a5e9] The Secretary of State must verify on a regular basis that approved bodies designated under Part 5 of the Medical Devices Regulations 2002 have up-to-date knowledge and expertise of the medical devices referred to in Article 1(1), in order to assess the conformity of those devices with the provisions of those Regulations and with the particular requirements of Annex I to this Regulation.
 
-2.[^key-da857794c8b527b7742fba66af10ece5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-da857794c8b527b7742fba66af10ece5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.** 1. Conformity assessment procedures for medical devices referred to in Article 1(1) shall include the evaluation of compliance of the devices with the essential requirements of Part 3 or Part 2 of the Medical Devices Regulations 2002[^key-ae5d7dcdab907011e48fca404501fc82], respectively, and the particular requirements laid down in Annex I to this Regulation.
+**Article 5.** 1. Conformity assessment procedures for medical devices referred to in Article 1(1) shall include the evaluation of compliance of the devices with the essential requirements of Part 3 or Part 2 of the Medical Devices Regulations 2002[^c-ae5d7dcdab907011e48fca404501fc82], respectively, and the particular requirements laid down in Annex I to this Regulation.
 
-2. Approved bodies[^key-86a014b3c7ddad3a63be33335e4609d9] shall assess the documentation submitted by the manufacturer to verify that the benefits of the device outweigh the residual risks. Particular account shall be taken of:
+2. Approved bodies[^c-86a014b3c7ddad3a63be33335e4609d9] shall assess the documentation submitted by the manufacturer to verify that the benefits of the device outweigh the residual risks. Particular account shall be taken of:
 
 - (a) the manufacturer’s risk analysis and risk management process;
 - (b) the justification for the use of animal tissues or derivatives, taking into consideration lower risk tissues or synthetic alternatives;
@@ -131,11 +131,11 @@ HAS ADOPTED THIS REGULATION:
 - (d) the manufacturer’s control of the sources of raw materials, finished products, production process, testing, and subcontractors;
 - (e) the need to audit matters related to the sourcing and processing of animal tissues and derivatives, processes to eliminate or inactivate pathogens, including those activities carried out by suppliers.
 
-3. Approved bodies[^key-9f2069c6e1587d843aab5c7c1448e37c] shall, during the evaluation of the risk analysis and risk management in the framework of the conformity assessment procedure, take account of the TSE certificate of suitability issued by the European Directorate for the Quality of Medicines, hereinafter ‘TSE certificate of suitability’, for starting materials, where available.
+3. Approved bodies[^c-9f2069c6e1587d843aab5c7c1448e37c] shall, during the evaluation of the risk analysis and risk management in the framework of the conformity assessment procedure, take account of the TSE certificate of suitability issued by the European Directorate for the Quality of Medicines, hereinafter ‘TSE certificate of suitability’, for starting materials, where available.
 
-Where additional information is necessary to assess the suitability of the starting material for a given medical device, approved bodies[^key-c95b078e476aba2a7f3bca3d78f23d33] may require submission of additional information to allow the evaluation as set out in paragraphs 1 and 2.
+Where additional information is necessary to assess the suitability of the starting material for a given medical device, approved bodies[^c-c95b078e476aba2a7f3bca3d78f23d33] may require submission of additional information to allow the evaluation as set out in paragraphs 1 and 2.
 
-4.[^key-7353ecff0477e545eb4dcd843e08a856] Before issuing a design-examination certificate or a type-examination certificate the approved body must inform the Secretary of State of their assessment carried out pursuant to paragraph 2 by means of a summary evaluation report in accordance with Annex II to this Regulation.
+4.[^c-7353ecff0477e545eb4dcd843e08a856] Before issuing a design-examination certificate or a type-examination certificate the approved body must inform the Secretary of State of their assessment carried out pursuant to paragraph 2 by means of a summary evaluation report in accordance with Annex II to this Regulation.
 
 5. The Secretary of State may submit comments on the summary evaluation report referred to in paragraph 4 within the following deadlines:
 
@@ -147,19 +147,19 @@ Where additional information is necessary to assess the suitability of the start
 - (a) give due consideration to any comments received in accordance with paragraph 5;
 - (b) provide an explanation as regards this consideration, including any due justification not to take account of one or more of the comments received, along with their final decisions to the Secretary of State.
 
-7. The manufacturer shall collect, evaluate and submit to the approved body[^key-527ac596bd9f35db48aa92375c764bc5] information regarding changes with regard to the animal tissue or derivatives used for the device or with regard to the TSE risk in relation to the device. Where such information leads to an increase of the overall TSE risk, the provisions of paragraphs 1 to 3[^key-5249266250afacd00f4276d2c06cab07] are applicable.
+7. The manufacturer shall collect, evaluate and submit to the approved body[^c-527ac596bd9f35db48aa92375c764bc5] information regarding changes with regard to the animal tissue or derivatives used for the device or with regard to the TSE risk in relation to the device. Where such information leads to an increase of the overall TSE risk, the provisions of paragraphs 1 to 3[^c-5249266250afacd00f4276d2c06cab07] are applicable.
 
-**Article 6.**[^key-b8f0e5d46bc71328a86342e1a18b841d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-b8f0e5d46bc71328a86342e1a18b841d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-fce9303fbadc693c9d6b892c342f78e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-fce9303fbadc693c9d6b892c342f78e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.** [^key-4a7c28ac4ebb0db4f6139bdbf2c6f5b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.** [^c-4a7c28ac4ebb0db4f6139bdbf2c6f5b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Article 9.** This Regulation enters into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
 It shall apply from 29 August 2013 except for Article 4 which shall apply from the date of entry into force of this Regulation.
 
-[^key-a4ddc3a56bedfcd9d0d06b7432dd709c]...
+[^c-a4ddc3a56bedfcd9d0d06b7432dd709c]...
 
 Done at Brussels, 8 August 2012.
 
@@ -197,7 +197,7 @@ At a minimum, the manufacturer must consider the following key steps:
 
 Furthermore, the manufacturer must take into account the characteristics of the device and its intended use (see 1.2.6, 1.2.7 and 1.2.8).
 
-In performing the risk analysis and risk management strategy, the manufacturer must give due consideration to the relevant published opinions adopted by the relevant international scientific committees or bodies.[^key-2e21fa62b8e8a23eb3ccc1c6b88d7e59]
+In performing the risk analysis and risk management strategy, the manufacturer must give due consideration to the relevant published opinions adopted by the relevant international scientific committees or bodies.[^c-2e21fa62b8e8a23eb3ccc1c6b88d7e59]
 
 1.2.1.
 
@@ -243,7 +243,7 @@ For devices which cannot withstand an inactivation or elimination process withou
 
 For other devices, if claims are made by the manufacturer for the ability of manufacturing processes to remove or inactivate TSE infectious agents, these must be substantiated by appropriate documentation.
 
-Relevant information from an analysis of appropriate scientific literature can be used to support inactivation and elimination factors, where the specific processes referred to in the literature are comparable to those used for the device. This search and analysis shall also cover the available scientific opinions that may have been adopted by an [^key-8291c626e40b853c5bbc676865f0e615]... international scientific committee or body. These opinions are to serve as a reference, in cases where there are conflicting opinions.
+Relevant information from an analysis of appropriate scientific literature can be used to support inactivation and elimination factors, where the specific processes referred to in the literature are comparable to those used for the device. This search and analysis shall also cover the available scientific opinions that may have been adopted by an [^c-8291c626e40b853c5bbc676865f0e615]... international scientific committee or body. These opinions are to serve as a reference, in cases where there are conflicting opinions.
 
 If the literature search fails to substantiate the claims, the manufacturer must set up a specific inactivation or elimination study, as appropriate, on a scientific basis and the following need to be considered:
 
@@ -300,21 +300,21 @@ The results of this evaluation must be documented.
 
 2\.
 
-EVALUATION BY APPROVED BODIES[^key-c9992311599538de1bb1ec2cfbfca1a0]
+EVALUATION BY APPROVED BODIES[^c-c9992311599538de1bb1ec2cfbfca1a0]
 
-For the medical devices referred to in Article 1(1), manufacturers must provide to the approved bodies referred to in Article 4[^key-190923eb36cfe5a6ddc7d88eafa874bc] all relevant information to allow evaluation of their risk analysis and risk management strategy in accordance with Article 5(2).
+For the medical devices referred to in Article 1(1), manufacturers must provide to the approved bodies referred to in Article 4[^c-190923eb36cfe5a6ddc7d88eafa874bc] all relevant information to allow evaluation of their risk analysis and risk management strategy in accordance with Article 5(2).
 
 2.1.
 
-**Information of the Approved Body regarding changes and new information[^key-c3f1ad56b177a83dfa5b7d2c2fdda2ce]**
+**Information of the Approved Body regarding changes and new information[^c-c3f1ad56b177a83dfa5b7d2c2fdda2ce]**
 
-Any change in relation to processes of sourcing, collection, handling, processing and inactivation or elimination and any new information on TSE risk collected by the manufacturer and relevant for the medical device that could modify the result of the manufacturer’s risk assessment must be transmitted to the approved body[^key-47af0ce99e77de9293292a7dc4584a48] and, where applicable, needs to be approved by the approved body prior to its implementation.
+Any change in relation to processes of sourcing, collection, handling, processing and inactivation or elimination and any new information on TSE risk collected by the manufacturer and relevant for the medical device that could modify the result of the manufacturer’s risk assessment must be transmitted to the approved body[^c-47af0ce99e77de9293292a7dc4584a48] and, where applicable, needs to be approved by the approved body prior to its implementation.
 
 2.2.
 
 **Renewal of certificates**
 
-In the context of its decision regarding the extension for a further period of maximum five years of a[^key-b6c3d1b7d0cebfb4b01a9719a939a2a3] design-examination certificate or a type-examination certificate in accordance with regulation 18(3) or regulation 31(3) of the Medical Devices Regulations 2002[^key-0f5a3ad192844aaf83f79636c706002d], respectively, the approved body[^key-0243f552e817f8ed7588855a3b94d8ba] shall review for the purpose of this Regulation at least the following aspects:
+In the context of its decision regarding the extension for a further period of maximum five years of a[^c-b6c3d1b7d0cebfb4b01a9719a939a2a3] design-examination certificate or a type-examination certificate in accordance with regulation 18(3) or regulation 31(3) of the Medical Devices Regulations 2002[^c-0f5a3ad192844aaf83f79636c706002d], respectively, the approved body[^c-0243f552e817f8ed7588855a3b94d8ba] shall review for the purpose of this Regulation at least the following aspects:
 
 - ((a)) updated justification for the use of animal tissue or derivative, including a comparison with lower risk tissues or synthetic alternatives;
 - ((b)) updated risk analysis;
@@ -327,7 +327,7 @@ In the context of its decision regarding the extension for a further period of m
 
 **Increase of the overall TSE risk**
 
-Where on the basis of information submitted in accordance with section 2.1 or 2.2 an approved body[^key-9a234d543781dee5360ee919a9caf26a] establishes that the overall TSE risk in relation to a medical device is increased, this approved body[^key-647dd43ebd34b120731f7b7d89380cc2] shall follow the procedure set out in Article 5.
+Where on the basis of information submitted in accordance with section 2.1 or 2.2 an approved body[^c-9a234d543781dee5360ee919a9caf26a] establishes that the overall TSE risk in relation to a medical device is increased, this approved body[^c-647dd43ebd34b120731f7b7d89380cc2] shall follow the procedure set out in Article 5.
 
 3\.
 
@@ -339,17 +339,17 @@ RIGOROUS PROCESSES FOR TALLOW DERIVATIVES AS REFERRED TO IN ARTICLE 1, PARAGRAPH
   - Continuous process: at not less than 140 °C, under pressure for not less than 8 minutes or equivalent,
 - Distillation at 200 °C.
 
-## ANNEX II — Details relating to the submitting approved body[^key-1907f88563ff265ad0762abbc3d6f2c2]
+## ANNEX II — Details relating to the submitting approved body[^c-1907f88563ff265ad0762abbc3d6f2c2]
 
 **Details relating to the submitting notified body**
 
 1\.
 
-Name of approved body[^key-b64827fbea651da8379a02ffd4d1e7df]
+Name of approved body[^c-b64827fbea651da8379a02ffd4d1e7df]
 
 2\.
 
-Approved body[^key-99f37ea5b00868e438bec3cd3bf371fc] number
+Approved body[^c-99f37ea5b00868e438bec3cd3bf371fc] number
 
 3\.
 
@@ -381,7 +381,7 @@ Client reference (name of manufacturer and, if applicable, of authorised represe
 
 10\.
 
-Confirmation that the submitting approved body has been designated by the Secretary of State for the conformity assessment of[^key-1f6025387b791ec6750b138c5df94e38]
+Confirmation that the submitting approved body has been designated by the Secretary of State for the conformity assessment of[^c-1f6025387b791ec6750b138c5df94e38]
 
 - active implantable medical devices manufactured utilising tissues of animal origin subject to Regulation (EU) No 722/2012,
 - medical devices manufactured utilising tissues of animal origin subject to Regulation (EU) No 722/2012
@@ -433,7 +433,7 @@ A justification for the use of animal tissues or derivatives in the medical devi
 
 The approach to the auditing of source establishments and suppliers for the animal material used by the device manufacturer:
 
-**Approved Body Statement[^key-9b3ec060c4e4894cf30d9e6cda75df46]**
+**Approved Body Statement[^c-9b3ec060c4e4894cf30d9e6cda75df46]**
 
 18\.
 
@@ -441,7 +441,7 @@ Conclusion of this assessment:
 
 Based on the evaluation of data and the assessment process it is our preliminary decision that the application meets the requirements of conformity with
 
- Part 3 of the Medical Devices Regulations 2002[^key-2158f708e1d926a34fe8f8253de76e53]  Part 2 of the Medical Devices Regulations 2002[^key-3cde38f5745d22dc58ecbe114d4af918]
+ Part 3 of the Medical Devices Regulations 2002[^c-2158f708e1d926a34fe8f8253de76e53]  Part 2 of the Medical Devices Regulations 2002[^c-3cde38f5745d22dc58ecbe114d4af918]
 
 and Regulation (EU) No 722/2012.
 
@@ -469,72 +469,72 @@ This report was sent on … to the Coordinating Competent Authority of … to in
 
 [^f00008]: Footnote: See http://ec.europa.eu/health/scientific\_committees/emerging/opinions/scmpmd/index\_en.htm
 
-[^key-16d1c44bb5fa1c1be1e16a651ff6764c]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2012/722/article/2) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/9)
+[^c-16d1c44bb5fa1c1be1e16a651ff6764c]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2012/722/article/2) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/9)
 
 [^f00009]: Footnote: [OJ L 147, 31.5.2001, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.147.01.0001.01.ENG).
 
-[^key-858e6ff6102fb37566f19c6d9dd86664]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/eur/2012/722/article/3/1) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/10)
+[^c-858e6ff6102fb37566f19c6d9dd86664]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/eur/2012/722/article/3/1) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/10)
 
-[^key-486448f4dede35b9ee89f5c3e3d5a5e9]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/eur/2012/722/article/4/1) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/11/a)
+[^c-486448f4dede35b9ee89f5c3e3d5a5e9]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/eur/2012/722/article/4/1) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/11/a)
 
-[^key-da857794c8b527b7742fba66af10ece5]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/eur/2012/722/article/4/2) omitted (11.8.2021) by virtue of [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/11/b)
+[^c-da857794c8b527b7742fba66af10ece5]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/eur/2012/722/article/4/2) omitted (11.8.2021) by virtue of [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/11/b)
 
-[^key-ae5d7dcdab907011e48fca404501fc82]: Textual amendment: Words in [Art. 5(1)](https://www.legislation.gov.uk/eur/2012/722/article/5/1) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 12(a)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/12/a)
+[^c-ae5d7dcdab907011e48fca404501fc82]: Textual amendment: Words in [Art. 5(1)](https://www.legislation.gov.uk/eur/2012/722/article/5/1) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 12(a)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/12/a)
 
-[^key-86a014b3c7ddad3a63be33335e4609d9]: Textual amendment: Words in [Art. 5(2)](https://www.legislation.gov.uk/eur/2012/722/article/5/2) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 12(b)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/12/b)
+[^c-86a014b3c7ddad3a63be33335e4609d9]: Textual amendment: Words in [Art. 5(2)](https://www.legislation.gov.uk/eur/2012/722/article/5/2) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 12(b)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/12/b)
 
-[^key-9f2069c6e1587d843aab5c7c1448e37c]: Textual amendment: Words in [Art. 5(3)](https://www.legislation.gov.uk/eur/2012/722/article/5/3) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 12(c)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/12/c/i)
+[^c-9f2069c6e1587d843aab5c7c1448e37c]: Textual amendment: Words in [Art. 5(3)](https://www.legislation.gov.uk/eur/2012/722/article/5/3) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 12(c)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/12/c/i)
 
-[^key-c95b078e476aba2a7f3bca3d78f23d33]: Textual amendment: Words in [Art. 5(3)](https://www.legislation.gov.uk/eur/2012/722/article/5/3) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 12(c)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/12/c/ii)
+[^c-c95b078e476aba2a7f3bca3d78f23d33]: Textual amendment: Words in [Art. 5(3)](https://www.legislation.gov.uk/eur/2012/722/article/5/3) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 12(c)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/12/c/ii)
 
-[^key-7353ecff0477e545eb4dcd843e08a856]: Textual amendment: [Art. 5(4)-(6)](https://www.legislation.gov.uk/eur/2012/722/article/5/4) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 12(d)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/12/d)
+[^c-7353ecff0477e545eb4dcd843e08a856]: Textual amendment: [Art. 5(4)-(6)](https://www.legislation.gov.uk/eur/2012/722/article/5/4) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 12(d)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/12/d)
 
-[^key-527ac596bd9f35db48aa92375c764bc5]: Textual amendment: Words in [Art. 5(7)](https://www.legislation.gov.uk/eur/2012/722/article/5/7) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 12(e)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/12/e/i)
+[^c-527ac596bd9f35db48aa92375c764bc5]: Textual amendment: Words in [Art. 5(7)](https://www.legislation.gov.uk/eur/2012/722/article/5/7) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 12(e)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/12/e/i)
 
-[^key-5249266250afacd00f4276d2c06cab07]: Textual amendment: Words in [Art. 5(7)](https://www.legislation.gov.uk/eur/2012/722/article/5/7) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 12(e)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/12/e/ii)
+[^c-5249266250afacd00f4276d2c06cab07]: Textual amendment: Words in [Art. 5(7)](https://www.legislation.gov.uk/eur/2012/722/article/5/7) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 12(e)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/12/e/ii)
 
-[^key-b8f0e5d46bc71328a86342e1a18b841d]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2012/722/article/6) omitted (11.8.2021) by virtue of [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/13)
+[^c-b8f0e5d46bc71328a86342e1a18b841d]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2012/722/article/6) omitted (11.8.2021) by virtue of [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/13)
 
-[^key-fce9303fbadc693c9d6b892c342f78e1]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eur/2012/722/article/7) omitted (11.8.2021) by virtue of [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/13)
+[^c-fce9303fbadc693c9d6b892c342f78e1]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eur/2012/722/article/7) omitted (11.8.2021) by virtue of [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/13)
 
-[^key-4a7c28ac4ebb0db4f6139bdbf2c6f5b7]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2012/722/article/8) omitted (11.8.2021) by virtue of [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/13)
+[^c-4a7c28ac4ebb0db4f6139bdbf2c6f5b7]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2012/722/article/8) omitted (11.8.2021) by virtue of [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/13)
 
-[^key-a4ddc3a56bedfcd9d0d06b7432dd709c]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2012/722/signature) omitted (11.8.2021) by virtue of [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/14)
+[^c-a4ddc3a56bedfcd9d0d06b7432dd709c]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2012/722/signature) omitted (11.8.2021) by virtue of [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/14)
 
-[^key-2e21fa62b8e8a23eb3ccc1c6b88d7e59]: Textual amendment: Words in Annex 1 s. 1.2 substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(a)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/a)
+[^c-2e21fa62b8e8a23eb3ccc1c6b88d7e59]: Textual amendment: Words in Annex 1 s. 1.2 substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(a)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/a)
 
 [^f00010]: Footnote: [OJ L 172, 30.6.2007, p. 84](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.172.01.0084.01.ENG).
 
-[^key-8291c626e40b853c5bbc676865f0e615]: Textual amendment: Words in Annex 1 s. 1.2.5.2 omitted (11.8.2021) by virtue of [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(b)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/b)
+[^c-8291c626e40b853c5bbc676865f0e615]: Textual amendment: Words in Annex 1 s. 1.2.5.2 omitted (11.8.2021) by virtue of [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(b)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/b)
 
-[^key-c9992311599538de1bb1ec2cfbfca1a0]: Textual amendment: [Annex 1 Section 2](https://www.legislation.gov.uk/eur/2012/722/annex/I/section/2) heading substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(c)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/c/i)
+[^c-c9992311599538de1bb1ec2cfbfca1a0]: Textual amendment: [Annex 1 Section 2](https://www.legislation.gov.uk/eur/2012/722/annex/I/section/2) heading substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(c)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/c/i)
 
-[^key-190923eb36cfe5a6ddc7d88eafa874bc]: Textual amendment: Words in Annex 1 s. 2 substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(c)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/c/ii)
+[^c-190923eb36cfe5a6ddc7d88eafa874bc]: Textual amendment: Words in Annex 1 s. 2 substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(c)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/c/ii)
 
-[^key-c3f1ad56b177a83dfa5b7d2c2fdda2ce]: Textual amendment: Annex 1 s. 2.1 heading substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(d)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/d/i)
+[^c-c3f1ad56b177a83dfa5b7d2c2fdda2ce]: Textual amendment: Annex 1 s. 2.1 heading substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(d)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/d/i)
 
-[^key-47af0ce99e77de9293292a7dc4584a48]: Textual amendment: Words in Annex 1 s. 2.1 substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(d)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/d/ii)
+[^c-47af0ce99e77de9293292a7dc4584a48]: Textual amendment: Words in Annex 1 s. 2.1 substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(d)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/d/ii)
 
-[^key-b6c3d1b7d0cebfb4b01a9719a939a2a3]: Textual amendment: Word in Annex 1 s. 2.2 substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(e)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/e/i)
+[^c-b6c3d1b7d0cebfb4b01a9719a939a2a3]: Textual amendment: Word in Annex 1 s. 2.2 substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(e)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/e/i)
 
-[^key-0f5a3ad192844aaf83f79636c706002d]: Textual amendment: Words in Annex 1 s. 2.2 substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(e)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/e/ii)
+[^c-0f5a3ad192844aaf83f79636c706002d]: Textual amendment: Words in Annex 1 s. 2.2 substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(e)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/e/ii)
 
-[^key-0243f552e817f8ed7588855a3b94d8ba]: Textual amendment: Words in Annex 1 s. 2.2 substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(e)(iii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/e/iii)
+[^c-0243f552e817f8ed7588855a3b94d8ba]: Textual amendment: Words in Annex 1 s. 2.2 substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(e)(iii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/e/iii)
 
-[^key-9a234d543781dee5360ee919a9caf26a]: Textual amendment: Words in Annex 1 s. 2.3 substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(f)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/f/i)
+[^c-9a234d543781dee5360ee919a9caf26a]: Textual amendment: Words in Annex 1 s. 2.3 substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(f)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/f/i)
 
-[^key-647dd43ebd34b120731f7b7d89380cc2]: Textual amendment: Words in Annex 1 s. 2.3 substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(f)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/f/ii)
+[^c-647dd43ebd34b120731f7b7d89380cc2]: Textual amendment: Words in Annex 1 s. 2.3 substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 15(f)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/15/f/ii)
 
-[^key-1907f88563ff265ad0762abbc3d6f2c2]: Textual amendment: [Annex 2](https://www.legislation.gov.uk/eur/2012/722/annex/II) heading substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 16(a)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/16/a/i)
+[^c-1907f88563ff265ad0762abbc3d6f2c2]: Textual amendment: [Annex 2](https://www.legislation.gov.uk/eur/2012/722/annex/II) heading substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 16(a)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/16/a/i)
 
-[^key-b64827fbea651da8379a02ffd4d1e7df]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2012/722/annex/II) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 16(a)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/16/a/ii)
+[^c-b64827fbea651da8379a02ffd4d1e7df]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2012/722/annex/II) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 16(a)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/16/a/ii)
 
-[^key-99f37ea5b00868e438bec3cd3bf371fc]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2012/722/annex/II) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 16(a)(iii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/16/a/iii)
+[^c-99f37ea5b00868e438bec3cd3bf371fc]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2012/722/annex/II) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 16(a)(iii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/16/a/iii)
 
-[^key-1f6025387b791ec6750b138c5df94e38]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2012/722/annex/II) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 16(a)(iv)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/16/a/iv)
+[^c-1f6025387b791ec6750b138c5df94e38]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2012/722/annex/II) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 16(a)(iv)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/16/a/iv)
 
-[^key-9b3ec060c4e4894cf30d9e6cda75df46]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2012/722/annex/II) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 16(b)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/16/b/i)
+[^c-9b3ec060c4e4894cf30d9e6cda75df46]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2012/722/annex/II) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 16(b)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/16/b/i)
 
-[^key-2158f708e1d926a34fe8f8253de76e53]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2012/722/annex/II) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 16(b)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/16/b/ii)
+[^c-2158f708e1d926a34fe8f8253de76e53]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2012/722/annex/II) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 16(b)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/16/b/ii)
 
-[^key-3cde38f5745d22dc58ecbe114d4af918]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2012/722/annex/II) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 16(b)(iii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/16/b/iii)
+[^c-3cde38f5745d22dc58ecbe114d4af918]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2012/722/annex/II) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 16(b)(iii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/16/b/iii)

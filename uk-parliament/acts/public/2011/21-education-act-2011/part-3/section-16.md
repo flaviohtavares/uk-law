@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Abolition of the TDA: consequential amendments[^key-108005ea369d2dce89c246e2d2941580]
+## 16. Abolition of the TDA: consequential amendments[^c-108005ea369d2dce89c246e2d2941580]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-108005ea369d2dce89c246e2d2941580]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2011/21/section/16) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-108005ea369d2dce89c246e2d2941580]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2011/21/section/16) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. EU and overseas transfers[^key-66089bad30e449abd6a43e4cb204c394]
+## 112. EU and overseas transfers[^c-66089bad30e449abd6a43e4cb204c394]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66089bad30e449abd6a43e4cb204c394]: Commencement: [Reg. 112](https://www.legislation.gov.uk/uksi/2014/2336/regulation/112) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-66089bad30e449abd6a43e4cb204c394]: Commencement: [Reg. 112](https://www.legislation.gov.uk/uksi/2014/2336/regulation/112) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

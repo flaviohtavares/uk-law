@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Accessibility of register of prohibited trustees[^key-e6007b46b2509ffcb04097e0648d4290]
+## 67. Accessibility of register of prohibited trustees[^c-e6007b46b2509ffcb04097e0648d4290]
 
 *Extent: E+W+S*
 
@@ -75,4 +75,4 @@ the Regulator must promptly comply with the request in such manner as it conside
 
 ## Annotations
 
-[^key-e6007b46b2509ffcb04097e0648d4290]: Commencement: S. 67 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-e6007b46b2509ffcb04097e0648d4290]: Commencement: S. 67 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)

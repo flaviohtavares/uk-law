@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Powers in relation to recognised investment exchanges and clearing houses[^key-bdd4bf7138cf94ab2982bb06c5a6be66][^key-c2e2e9792a7ccd383faa0b57ce8e2c72][^key-a700877558a3ae8ab3de3b8b47792a2b]
+## 29. Powers in relation to recognised investment exchanges and clearing houses[^c-bdd4bf7138cf94ab2982bb06c5a6be66][^c-c2e2e9792a7ccd383faa0b57ce8e2c72][^c-a700877558a3ae8ab3de3b8b47792a2b]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bdd4bf7138cf94ab2982bb06c5a6be66]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2012/21/section/29) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-bdd4bf7138cf94ab2982bb06c5a6be66]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2012/21/section/29) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-c2e2e9792a7ccd383faa0b57ce8e2c72]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2012/21/section/29) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
+[^c-c2e2e9792a7ccd383faa0b57ce8e2c72]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2012/21/section/29) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
 
-[^key-a700877558a3ae8ab3de3b8b47792a2b]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2012/21/section/29) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-a700877558a3ae8ab3de3b8b47792a2b]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2012/21/section/29) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

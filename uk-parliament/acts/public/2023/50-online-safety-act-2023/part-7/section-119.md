@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Information for users of regulated services[^key-70a5a41257b93ace4cd2515aaa66f4cb][^key-2101633f657318ee25dc1a82b52a60ef]
+## 119. Information for users of regulated services[^c-70a5a41257b93ace4cd2515aaa66f4cb][^c-2101633f657318ee25dc1a82b52a60ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-70a5a41257b93ace4cd2515aaa66f4cb]: Commencement: S. 119 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-70a5a41257b93ace4cd2515aaa66f4cb]: Commencement: S. 119 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-2101633f657318ee25dc1a82b52a60ef]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2023/50/section/119) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z14)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z14)
+[^c-2101633f657318ee25dc1a82b52a60ef]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2023/50/section/119) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z14)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z14)

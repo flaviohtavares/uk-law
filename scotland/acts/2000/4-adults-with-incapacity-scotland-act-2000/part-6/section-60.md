@@ -24,7 +24,7 @@ summary: ''
 
 (2) Where it appears to the local authority that an application for renewal of a guardianship order under subsection (1) is necessary but that no such application has been made or is likely to be made, they shall apply under subsection (1) for the renewal of such an order and, where such an application is so made, the order shall continue to have effect until the application is determined.
 
-(3)[^key-211bd72da247894154f132fd482cc7ac] There must be lodged in court along with an application under this section—
+(3)[^c-211bd72da247894154f132fd482cc7ac] There must be lodged in court along with an application under this section—
 
 - (a) at least one report, in the prescribed form, of an examination and assessment of the adult carried out by a medical practitioner not more than 30 days before the lodging of the application;
 - (b) where the application relates to the adult's personal welfare, a report, in the prescribed form, from the mental health officer (but where it is in jeopardy only because of the adult's inability to communicate, from the chief social work officer), containing the officer's opinion as to—
@@ -50,7 +50,7 @@ summary: ''
 
   .
 
-(4A)[^key-9a720d9cccb97a6253efbe148c1bcc1f] A sheriff may determine an application made under this section without hearing the parties.
+(4A)[^c-9a720d9cccb97a6253efbe148c1bcc1f] A sheriff may determine an application made under this section without hearing the parties.
 
 (5) Where the sheriff refuses an application under this section, the sheriff clerk shall forthwith send a copy of the interlocutor containing the refusal to the Public Guardian who shall—
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-211bd72da247894154f132fd482cc7ac]: Textual amendment: S. 60(3)(3A) substituted for s. 60(3) (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(3)(a)](https://www.legislation.gov.uk/asp/2007/10/section/60/3/a), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-211bd72da247894154f132fd482cc7ac]: Textual amendment: S. 60(3)(3A) substituted for s. 60(3) (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(3)(a)](https://www.legislation.gov.uk/asp/2007/10/section/60/3/a), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
 
-[^key-9a720d9cccb97a6253efbe148c1bcc1f]: Textual amendment: S. 60(4A) inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(3)(b)](https://www.legislation.gov.uk/asp/2007/10/section/60/3/b), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-9a720d9cccb97a6253efbe148c1bcc1f]: Textual amendment: S. 60(4A) inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(3)(b)](https://www.legislation.gov.uk/asp/2007/10/section/60/3/b), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)

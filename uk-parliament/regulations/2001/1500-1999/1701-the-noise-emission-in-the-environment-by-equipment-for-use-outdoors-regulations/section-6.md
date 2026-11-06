@@ -24,9 +24,9 @@ summary: ''
 
 (2) The exclusion provided in paragraph (1) shall not apply in the case of equipment which—
 
-- (a) unless required to bear the CE marking pursuant to any other EU[^key-f7aca2a6aebfc8e9a8bfce761f140186] obligation, bears the CE marking or an inscription liable to be confused with it; or
+- (a) unless required to bear the CE marking pursuant to any other EU[^c-f7aca2a6aebfc8e9a8bfce761f140186] obligation, bears the CE marking or an inscription liable to be confused with it; or
 - (b) bears or is accompanied by any other indication, howsoever expressed, that it complies with the Directive.
 
 ## Annotations
 
-[^key-f7aca2a6aebfc8e9a8bfce761f140186]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2-6](https://www.legislation.gov.uk/uksi/2011/1043/article/2)
+[^c-f7aca2a6aebfc8e9a8bfce761f140186]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2-6](https://www.legislation.gov.uk/uksi/2011/1043/article/2)

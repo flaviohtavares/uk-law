@@ -31,10 +31,10 @@ Decision No 22/60
 
 of 7 September 1960 on the implementation of Article 15 of the Treaty (revoked)
 
-[^key-00a079f0f4ce4c44db29446569fd5b01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-00a079f0f4ce4c44db29446569fd5b01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-00a079f0f4ce4c44db29446569fd5b01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-00a079f0f4ce4c44db29446569fd5b01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-00a079f0f4ce4c44db29446569fd5b01]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-00a079f0f4ce4c44db29446569fd5b01]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -32,7 +32,7 @@ summary: ''
   and
 - (c) in paragraph (b), after the “age”, where it first occurs, there shall be inserted the words “ to whom paragraph (aa) above does not apply ”.
 
-(3)[^key-5e62fe5758018243bbbf7139f891ad4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5e62fe5758018243bbbf7139f891ad4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) After subsection (4) there shall be inserted the following subsection—
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5e62fe5758018243bbbf7139f891ad4f]: Textual amendment: [S. 56(3)](https://www.legislation.gov.uk/ukpga/1997/48/section/56/3) repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 68](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/68); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-5e62fe5758018243bbbf7139f891ad4f]: Textual amendment: [S. 56(3)](https://www.legislation.gov.uk/ukpga/1997/48/section/56/3) repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 68](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/68); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c441682]: Marginal citation: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36).

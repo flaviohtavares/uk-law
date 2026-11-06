@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Repeal of Local Acts[^key-07a2bfb230d1b827194d482f29647e8c]
+## SCHEDULE 1 — Repeal of Local Acts[^c-07a2bfb230d1b827194d482f29647e8c]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ Article 2
 
 ## Annotations
 
-[^key-07a2bfb230d1b827194d482f29647e8c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1172/schedule/1) in force at 5.5.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1)
+[^c-07a2bfb230d1b827194d482f29647e8c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1172/schedule/1) in force at 5.5.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1)
 
 [^f00005]: Footnote: Section 7 is amended by [S.I.1965/621](https://www.legislation.gov.uk/uksi/1965/621).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Acting under the influence of psychoactive substances or medicines[^key-bd877aed3cf1b9a551cb26c32e4f87b5]
+## 120. Acting under the influence of psychoactive substances or medicines[^c-bd877aed3cf1b9a551cb26c32e4f87b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd877aed3cf1b9a551cb26c32e4f87b5]: Textual amendment: [Arts. 107-123](https://www.legislation.gov.uk/uksi/2015/870/article/107) omitted (1.12.2020) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1280)](https://www.legislation.gov.uk/uksi/2020/1280), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1280/article/1), [8](https://www.legislation.gov.uk/uksi/2020/1280/article/8)
+[^c-bd877aed3cf1b9a551cb26c32e4f87b5]: Textual amendment: [Arts. 107-123](https://www.legislation.gov.uk/uksi/2015/870/article/107) omitted (1.12.2020) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1280)](https://www.legislation.gov.uk/uksi/2020/1280), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1280/article/1), [8](https://www.legislation.gov.uk/uksi/2020/1280/article/8)

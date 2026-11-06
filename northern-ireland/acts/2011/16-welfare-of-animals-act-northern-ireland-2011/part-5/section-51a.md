@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51A. Service animals[^key-4235e2de04b3ffb29bf45686df4b24ed]
+## 51A. Service animals[^c-4235e2de04b3ffb29bf45686df4b24ed]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4235e2de04b3ffb29bf45686df4b24ed]: Textual amendment: [S. 51A](https://www.legislation.gov.uk/nia/2011/16/section/51A) inserted (31.3.2022) by [Animal Welfare (Service Animals) Act (Northern Ireland) 2022 (c. 9)](https://www.legislation.gov.uk/nia/2022/9), [ss. 1](https://www.legislation.gov.uk/nia/2022/9/section/1), [2(1)](https://www.legislation.gov.uk/nia/2022/9/section/2/1)
+[^c-4235e2de04b3ffb29bf45686df4b24ed]: Textual amendment: [S. 51A](https://www.legislation.gov.uk/nia/2011/16/section/51A) inserted (31.3.2022) by [Animal Welfare (Service Animals) Act (Northern Ireland) 2022 (c. 9)](https://www.legislation.gov.uk/nia/2022/9), [ss. 1](https://www.legislation.gov.uk/nia/2022/9/section/1), [2(1)](https://www.legislation.gov.uk/nia/2022/9/section/2/1)

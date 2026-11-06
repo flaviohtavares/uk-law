@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Consultation in relation to guidance under s. 23[^key-57a97a994a1e69396ca038dc0d566cfd]
+## 24. Consultation in relation to guidance under s. 23[^c-57a97a994a1e69396ca038dc0d566cfd]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ the Commission must consult such persons as the Commission considers appropriate
 
 ## Annotations
 
-[^key-57a97a994a1e69396ca038dc0d566cfd]: Commencement: S. 24 in force at 11.12.2009 by [S.I. 2009/3023](https://www.legislation.gov.uk/uksi/2009/3023), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/3023/article/2/b) (with [arts. 3-17](https://www.legislation.gov.uk/uksi/2009/3023/article/3)) (as amended (8.2.2010) by [S.I. 2010/47](https://www.legislation.gov.uk/uksi/2010/47), art. 2)
+[^c-57a97a994a1e69396ca038dc0d566cfd]: Commencement: S. 24 in force at 11.12.2009 by [S.I. 2009/3023](https://www.legislation.gov.uk/uksi/2009/3023), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/3023/article/2/b) (with [arts. 3-17](https://www.legislation.gov.uk/uksi/2009/3023/article/3)) (as amended (8.2.2010) by [S.I. 2010/47](https://www.legislation.gov.uk/uksi/2010/47), art. 2)

@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Agriculture and Rural Development[^f00001], in exercise of the powers conferred by Article 3 of The Bees (Northern Ireland) Order 1980[^f00002] makes the following Order:
 
-## 1. Citation and commencement[^key-38591807748e89b524f284e90526ec50]
+## 1. Citation and commencement[^c-38591807748e89b524f284e90526ec50]
 
 This Order may be cited as The Bee Diseases and Pests Control Order (Northern Ireland) 2007 and comes into operation on 21st May 2007.
 
-## 2. General interpretation[^key-d135df26e4431909e1baa50e4d37dc71]
+## 2. General interpretation[^c-d135df26e4431909e1baa50e4d37dc71]
 
 (1) In this Order—
 
@@ -71,7 +71,7 @@ This Order may be cited as The Bee Diseases and Pests Control Order (Northern Ir
 
 (5) A general licence issued under this Order shall be brought to the attention of those persons whom it is likely to affect by its publication in such newspapers or periodicals or in such other manner as the Department considers necessary.
 
-## 3. Notification of suspicion of a disease or pest[^key-23b9458c987894afb18ad4c716817c97]
+## 3. Notification of suspicion of a disease or pest[^c-23b9458c987894afb18ad4c716817c97]
 
 (1) An owner or person in charge of a hive who knows or suspects that—
 
@@ -88,7 +88,7 @@ shall as soon as is reasonably possible notify that fact to the Department.
 
 a bee pest that he knows or suspects is a notifiable pest shall immediately notify that fact to the Department.
 
-## 4. Prohibition on removal[^key-337bcec16206c89e8eca6ce775743779]
+## 4. Prohibition on removal[^c-337bcec16206c89e8eca6ce775743779]
 
 (1) Where notification has been given under Article 3(1), the owner or person in charge of the hive shall not remove, or permit to be removed, from the premises or vehicle on or in which the hive is situated—
 
@@ -124,13 +124,13 @@ a bee pest that he knows or suspects is a notifiable pest shall immediately noti
 
 (9) Any sample submitted under paragraph (2) or (6) shall be packed so as to prevent as far as possible the risk of the spread of infection during transit.
 
-## 5. Marking of hives and appliances[^key-6ca5637e67fa7846582d67f0e8a2a0e1]
+## 5. Marking of hives and appliances[^c-6ca5637e67fa7846582d67f0e8a2a0e1]
 
 (1) An authorised person may mark any hive or appliance for identification purposes.
 
 (2) No person shall in any way interfere with any identifying mark made under paragraph (1) or permit such a mark to be interfered with.
 
-## 6. Notices prohibiting removal[^key-1f3a0554a8170ee0c4e15a574ef19aba]
+## 6. Notices prohibiting removal[^c-1f3a0554a8170ee0c4e15a574ef19aba]
 
 (1) Where an authorised person has reasonable grounds for suspecting that a notifiable disease or a notifiable pest is present on or in any premises or vehicle, he shall serve on the owner or person in charge of—
 
@@ -148,7 +148,7 @@ a notice prohibiting their removal and the removal of any bee pests contained in
 
 (4) In this Article “the Order” means The Bees (Northern Ireland) Order 1980.
 
-## 7. Disease control measures[^key-e814eb1b1c649d70d406a9893ac88f3a]
+## 7. Disease control measures[^c-e814eb1b1c649d70d406a9893ac88f3a]
 
 (1) The presence of a notifiable disease shall be confirmed by an authorised person on the basis of either a laboratory test result or a field test kit result.
 
@@ -166,7 +166,7 @@ a notice prohibiting their removal and the removal of any bee pests contained in
 
 (4) If, once any treatment required by a notice served under this Article has been carried out, an authorised person confirms by way of a laboratory test result or a field test kit result that the notifiable disease remains, an authorised person may serve further notices under this Article.
 
-## 8. Pest control measures[^key-f4f0ff7049a58b774951417803d83f1a]
+## 8. Pest control measures[^c-f4f0ff7049a58b774951417803d83f1a]
 
 (1) The presence of a notifiable pest shall be confirmed by an authorised person on the basis of a either laboratory test result or an examination.
 
@@ -183,7 +183,7 @@ a notice prohibiting their removal and the removal of any bee pests contained in
 
 (4) If, once any treatment required by a notice served under this article has been carried out, an authorised person confirms on the basis of a laboratory test result or an examination that the notifiable pest remains, an authorised person may serve further notices under this Article.
 
-## 9. Notices served under Article 7 or 8[^key-71a6d2edb0caf459980d88fb5587f270]
+## 9. Notices served under Article 7 or 8[^c-71a6d2edb0caf459980d88fb5587f270]
 
 A notice served under Article 7 or 8 shall specify—
 
@@ -192,7 +192,7 @@ A notice served under Article 7 or 8 shall specify—
 
 and may specify that the destruction or treatment is to be carried out by an authorised person, in the presence of an authorised person or under the supervision of an authorised person.
 
-## 10. Declaration of infected area[^key-f14e7d78ed976a5d5525aa074c8bee98]
+## 10. Declaration of infected area[^c-f14e7d78ed976a5d5525aa074c8bee98]
 
 (1) The Department may by notice declare an area in which it is satisfied that a notifiable pest is present to be an infected area.
 
@@ -200,11 +200,11 @@ and may specify that the destruction or treatment is to be carried out by an aut
 
 (3) The Department shall publish any notice issued under paragraph (1) and any notice amending or revoking such a notice in such manner as it considers appropriate to bring it to the attention of persons likely to be affected by it.
 
-## 11. Imported bees[^key-13c4f9a6e3f082894e9b34e7489817aa][^key-e59e5ea679bdcd20539162309805c7a5]
+## 11. Imported bees[^c-13c4f9a6e3f082894e9b34e7489817aa][^c-e59e5ea679bdcd20539162309805c7a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Provision of facilities and other obligations[^key-1edfc320e521e1bd2b26daf24af1a3b6]
+## 12. Provision of facilities and other obligations[^c-1edfc320e521e1bd2b26daf24af1a3b6]
 
 (1) The owner or person in charge of any hive, bees, combs, bee products or appliances and the owner or occupier of any premises and the owner or person in charge of any vehicle on or in which there is suspected to be a notifiable pest shall—
 
@@ -219,7 +219,7 @@ to an authorised person as that authorised person shall reasonably require for t
 
 (4) Any person upon whom a notice is served under this Order or who is subject to the provisions of a notice declaring an area to be an infected area within the meaning of Article 10 shall comply with the provisions of that notice.
 
-## 13. Action in default[^key-d29c1c0f948ff6aa3f4f5193d926ce62]
+## 13. Action in default[^c-d29c1c0f948ff6aa3f4f5193d926ce62]
 
 (1) Where any person has not complied with a notice served upon him under this Order, an authorised person may arrange for it to be complied with.
 
@@ -227,7 +227,7 @@ to an authorised person as that authorised person shall reasonably require for t
 
 (3) Any action taken by an authorised person under paragraph (1) and any recovery of costs under paragraph (2) shall be without prejudice to any proceedings for an offence arising out of contravention of a notice served under this Order.
 
-## 14. Service of notices[^key-d8ffbb3530ac8a203920d5dc9434dcf7]
+## 14. Service of notices[^c-d8ffbb3530ac8a203920d5dc9434dcf7]
 
 (1) Any notice served under this Order shall be properly served on any person if—
 
@@ -240,11 +240,11 @@ to an authorised person as that authorised person shall reasonably require for t
 - (a) has indicated in writing to the Department (and has not withdrawn the indication) that he is willing to accept service of notices under this Order by e-mail; and
 - (b) has provided in writing to the Department an e-mail address for this purpose.
 
-## 15. Exemptions[^key-f1526915a2641e33aedea33d458ff1d5]
+## 15. Exemptions[^c-f1526915a2641e33aedea33d458ff1d5]
 
-The Department may by licence exempt any person who is involved in research into, or in any course of training relating to, pests or diseases affecting bees from any of the provisions of this Order[^key-f9a85c674970658fab86452bb2d4e2fd]....
+The Department may by licence exempt any person who is involved in research into, or in any course of training relating to, pests or diseases affecting bees from any of the provisions of this Order[^c-f9a85c674970658fab86452bb2d4e2fd]....
 
-## 16. Revocations[^key-b0dc21d80331baefcd7527624fc81426]
+## 16. Revocations[^c-b0dc21d80331baefcd7527624fc81426]
 
 The Importation of Bees Order (Northern Ireland) 1980[^f00004], the Importation of Bees (Amendment) Order (Northern Ireland) 1987[^f00005], and the Bee Disease Control Order (Northern Ireland) 1998[^f00006] are hereby revoked.
 
@@ -260,15 +260,15 @@ A senior officer of the Department of Agriculture and Rural Development
 
 Article 10
 
-**1.**[^key-afab601c565bcb8a2270d0aa4b3c3557] An authorised person may serve on the owner or person in charge of any hive, bees, combs, bee products, hive debris or appliances found to have been exposed to infection with the notifiable pest a notice complying with Article 9 requiring their destruction or treatment in accordance with the notice.
+**1.**[^c-afab601c565bcb8a2270d0aa4b3c3557] An authorised person may serve on the owner or person in charge of any hive, bees, combs, bee products, hive debris or appliances found to have been exposed to infection with the notifiable pest a notice complying with Article 9 requiring their destruction or treatment in accordance with the notice.
 
-**2.**[^key-25ad37829d6389b96c65594eb87c9cde] An authorised person may serve on the owner or occupier of any premises on which a hive found to have been exposed to infection is situated a notice complying with Article 9 requiring the treatment in accordance with the notice of the soil surrounding the hive.
+**2.**[^c-25ad37829d6389b96c65594eb87c9cde] An authorised person may serve on the owner or occupier of any premises on which a hive found to have been exposed to infection is situated a notice complying with Article 9 requiring the treatment in accordance with the notice of the soil surrounding the hive.
 
-**3.**[^key-fd9ea5c014c2321f816126d77f342b51] A person shall not move, or permit to be moved, any hive, bees, bee pests, combs, bee products, hive debris, appliances or other things by which the notifiable pest is liable to be spread into or out of the infected area, except under the authority of a licence granted by the Department.
+**3.**[^c-fd9ea5c014c2321f816126d77f342b51] A person shall not move, or permit to be moved, any hive, bees, bee pests, combs, bee products, hive debris, appliances or other things by which the notifiable pest is liable to be spread into or out of the infected area, except under the authority of a licence granted by the Department.
 
-**4.**[^key-b3d1b0a105ad50be25bc54e01078846d] A person shall not remove, or permit to be removed, any hive, bees, bee pests, combs, bee products, hive debris, appliances or other things by which the notifiable pest is liable to be spread from the premises or vehicle on or in which they are situated, except under the authority of a licence granted by the Department.
+**4.**[^c-b3d1b0a105ad50be25bc54e01078846d] A person shall not remove, or permit to be removed, any hive, bees, bee pests, combs, bee products, hive debris, appliances or other things by which the notifiable pest is liable to be spread from the premises or vehicle on or in which they are situated, except under the authority of a licence granted by the Department.
 
-**5.**[^key-698ba9cf4f0312314e182a74be90206b] The owner or person in charge of any hive, bees, combs, bee products or appliances shall notify the Department as soon as is reasonably practicable of his name and address and the location of any hive, bees, combs, bee products or appliances in his possession or charge.
+**5.**[^c-698ba9cf4f0312314e182a74be90206b] The owner or person in charge of any hive, bees, combs, bee products or appliances shall notify the Department as soon as is reasonably practicable of his name and address and the location of any hive, bees, combs, bee products or appliances in his possession or charge.
 
 EXPLANATORY NOTE
 
@@ -298,41 +298,41 @@ In accordance with Article 7 of The Bees (Northern Ireland) Order 1980, breach o
 
 [^f00002]: Footnote: [S.I. 1980/869 (N.I. 7)](https://www.legislation.gov.uk/nisi/1980/869)
 
-[^key-38591807748e89b524f284e90526ec50]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-38591807748e89b524f284e90526ec50]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
 
-[^key-d135df26e4431909e1baa50e4d37dc71]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2007/246/article/2) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-d135df26e4431909e1baa50e4d37dc71]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2007/246/article/2) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
 
-[^key-23b9458c987894afb18ad4c716817c97]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2007/246/article/3) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-23b9458c987894afb18ad4c716817c97]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2007/246/article/3) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
 
-[^key-337bcec16206c89e8eca6ce775743779]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2007/246/article/4) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-337bcec16206c89e8eca6ce775743779]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2007/246/article/4) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
 
-[^key-6ca5637e67fa7846582d67f0e8a2a0e1]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2007/246/article/5) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-6ca5637e67fa7846582d67f0e8a2a0e1]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2007/246/article/5) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
 
-[^key-1f3a0554a8170ee0c4e15a574ef19aba]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2007/246/article/6) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-1f3a0554a8170ee0c4e15a574ef19aba]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2007/246/article/6) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
 
-[^key-e814eb1b1c649d70d406a9893ac88f3a]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2007/246/article/7) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-e814eb1b1c649d70d406a9893ac88f3a]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2007/246/article/7) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
 
-[^key-f4f0ff7049a58b774951417803d83f1a]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2007/246/article/8) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-f4f0ff7049a58b774951417803d83f1a]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2007/246/article/8) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
 
-[^key-71a6d2edb0caf459980d88fb5587f270]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2007/246/article/9) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-71a6d2edb0caf459980d88fb5587f270]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2007/246/article/9) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
 
-[^key-f14e7d78ed976a5d5525aa074c8bee98]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2007/246/article/10) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-f14e7d78ed976a5d5525aa074c8bee98]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2007/246/article/10) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
 
-[^key-13c4f9a6e3f082894e9b34e7489817aa]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/nisr/2007/246/article/11) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2019/811/regulation/10/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-13c4f9a6e3f082894e9b34e7489817aa]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/nisr/2007/246/article/11) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2019/811/regulation/10/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e59e5ea679bdcd20539162309805c7a5]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2007/246/article/11) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-e59e5ea679bdcd20539162309805c7a5]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2007/246/article/11) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
 
-[^key-1edfc320e521e1bd2b26daf24af1a3b6]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2007/246/article/12) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-1edfc320e521e1bd2b26daf24af1a3b6]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2007/246/article/12) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
 
-[^key-d29c1c0f948ff6aa3f4f5193d926ce62]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2007/246/article/13) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-d29c1c0f948ff6aa3f4f5193d926ce62]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2007/246/article/13) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
 
-[^key-d8ffbb3530ac8a203920d5dc9434dcf7]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2007/246/article/14) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-d8ffbb3530ac8a203920d5dc9434dcf7]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2007/246/article/14) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
 
-[^key-f1526915a2641e33aedea33d458ff1d5]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/2007/246/article/15) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-f1526915a2641e33aedea33d458ff1d5]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/2007/246/article/15) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
 
-[^key-f9a85c674970658fab86452bb2d4e2fd]: Textual amendment: Words in [art. 15](https://www.legislation.gov.uk/nisr/2007/246/article/15) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2019/811/regulation/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f9a85c674970658fab86452bb2d4e2fd]: Textual amendment: Words in [art. 15](https://www.legislation.gov.uk/nisr/2007/246/article/15) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2019/811/regulation/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b0dc21d80331baefcd7527624fc81426]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/2007/246/article/16) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-b0dc21d80331baefcd7527624fc81426]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/2007/246/article/16) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
 
 [^f00004]: Footnote: .R. [1980 No. 211](https://www.legislation.gov.uk/nisr/1980/211)
 
@@ -340,12 +340,12 @@ In accordance with Article 7 of The Bees (Northern Ireland) Order 1980, breach o
 
 [^f00006]: Footnote: [S.R. 1998 No. 191](https://www.legislation.gov.uk/nisr/1998/191)
 
-[^key-afab601c565bcb8a2270d0aa4b3c3557]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/246/schedule/paragraph/1) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-afab601c565bcb8a2270d0aa4b3c3557]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/246/schedule/paragraph/1) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
 
-[^key-25ad37829d6389b96c65594eb87c9cde]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2007/246/schedule/paragraph/2) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-25ad37829d6389b96c65594eb87c9cde]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2007/246/schedule/paragraph/2) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
 
-[^key-fd9ea5c014c2321f816126d77f342b51]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2007/246/schedule/paragraph/3) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-fd9ea5c014c2321f816126d77f342b51]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2007/246/schedule/paragraph/3) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
 
-[^key-b3d1b0a105ad50be25bc54e01078846d]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2007/246/schedule/paragraph/4) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-b3d1b0a105ad50be25bc54e01078846d]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2007/246/schedule/paragraph/4) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
 
-[^key-698ba9cf4f0312314e182a74be90206b]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2007/246/schedule/paragraph/5) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+[^c-698ba9cf4f0312314e182a74be90206b]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2007/246/schedule/paragraph/5) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)

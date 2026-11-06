@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Traffic regulation measures[^key-2d0f9e55e92bf8fd48810427b506d9fa]
+## 18. Traffic regulation measures[^c-2d0f9e55e92bf8fd48810427b506d9fa]
 
 *Extent: E+W+S*
 
@@ -91,7 +91,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2d0f9e55e92bf8fd48810427b506d9fa]: Commencement: Art. 18 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-2d0f9e55e92bf8fd48810427b506d9fa]: Commencement: Art. 18 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24294341]: Marginal citation: [S.I. 2011/935](https://www.legislation.gov.uk/uksi/2011/935).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Referendums relating to council tax increases[^key-297584bd62a67376295ea5f2eaa3fffa]
+## 72. Referendums relating to council tax increases[^c-297584bd62a67376295ea5f2eaa3fffa]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-297584bd62a67376295ea5f2eaa3fffa]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2011/20/section/72) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g)
+[^c-297584bd62a67376295ea5f2eaa3fffa]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2011/20/section/72) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g)

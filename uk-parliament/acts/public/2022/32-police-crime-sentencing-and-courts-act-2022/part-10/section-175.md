@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Sexual harm prevention orders: power to impose positive requirements[^key-2e33a5bec92d6c5778207cd5e0fb420f][^key-e60651fff7361d9b6cb89e664cdcbbf0]
+## 175. Sexual harm prevention orders: power to impose positive requirements[^c-2e33a5bec92d6c5778207cd5e0fb420f][^c-e60651fff7361d9b6cb89e664cdcbbf0]
 
 *Extent: E+W*
 
@@ -225,6 +225,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e33a5bec92d6c5778207cd5e0fb420f]: Commencement: S. 175 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-2e33a5bec92d6c5778207cd5e0fb420f]: Commencement: S. 175 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-e60651fff7361d9b6cb89e664cdcbbf0]: Commencement: [S. 175](https://www.legislation.gov.uk/ukpga/2022/32/section/175) in force at 29.11.2022 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/h)
+[^c-e60651fff7361d9b6cb89e664cdcbbf0]: Commencement: [S. 175](https://www.legislation.gov.uk/ukpga/2022/32/section/175) in force at 29.11.2022 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/h)

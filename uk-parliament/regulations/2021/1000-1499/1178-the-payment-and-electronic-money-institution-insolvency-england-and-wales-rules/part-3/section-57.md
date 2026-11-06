@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Procedure for admitting customers’ relevant funds claims for voting[^key-eb9b0bae2010cbb56360b70d5952264d]
+## 57. Procedure for admitting customers’ relevant funds claims for voting[^c-eb9b0bae2010cbb56360b70d5952264d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb9b0bae2010cbb56360b70d5952264d]: Commencement: Rule 57 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-eb9b0bae2010cbb56360b70d5952264d]: Commencement: Rule 57 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

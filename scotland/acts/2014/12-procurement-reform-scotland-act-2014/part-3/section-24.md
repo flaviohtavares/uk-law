@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Community benefit requirements[^key-2cd441ba7dccf304de72eef7357c9ce6]
+## 24. Community benefit requirements[^c-2cd441ba7dccf304de72eef7357c9ce6]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ For the purposes of this Act, a community benefit requirement is a contractual r
 
 ## Annotations
 
-[^key-2cd441ba7dccf304de72eef7357c9ce6]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2014/12/section/24) in force at 1.6.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 4](https://www.legislation.gov.uk/ssi/2016/30/article/4) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))
+[^c-2cd441ba7dccf304de72eef7357c9ce6]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2014/12/section/24) in force at 1.6.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 4](https://www.legislation.gov.uk/ssi/2016/30/article/4) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))

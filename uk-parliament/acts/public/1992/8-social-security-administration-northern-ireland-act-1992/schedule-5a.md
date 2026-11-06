@@ -22,7 +22,7 @@ summary: ''
 
 **1.** Regulations under section 120(1)(b) of the Contributions and Benefits Act.
 
-**2.** Regulations which state that they contain only provisions in consequence of an order under section 129 , 132 or 132A[^key-f35620a83048c9a777e7619a994bda44] above.
+**2.** Regulations which state that they contain only provisions in consequence of an order under section 129 , 132 or 132A[^c-f35620a83048c9a777e7619a994bda44] above.
 
 **3.** Regulations made within a period of 6 months from the passing of any Act passed after this Act and directed to be construed as one with this Act, where—
 
@@ -43,4 +43,4 @@ and in this paragraph “**Act**” includes an Act of the Northern Ireland Asse
 
 [^c14911361]: Textual amendment: Sch. 5A inserted (2.12.1999) by [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47), [s. 89(8)](https://www.legislation.gov.uk/ukpga/1998/47/section/89/8) (with [s. 95](https://www.legislation.gov.uk/ukpga/1998/47/section/95)); [S.I. 1999/3209](https://www.legislation.gov.uk/uksi/1999/3209), [art. 2](https://www.legislation.gov.uk/uksi/1999/3209/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/3209/schedule)
 
-[^key-f35620a83048c9a777e7619a994bda44]: Textual amendment: Words in Sch. 5A para. 2 substituted (with effect in accordance with s. 5(3)(4) of the amending Act) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/nia/2008/1/schedule/1/paragraph/29)
+[^c-f35620a83048c9a777e7619a994bda44]: Textual amendment: Words in Sch. 5A para. 2 substituted (with effect in accordance with s. 5(3)(4) of the amending Act) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/nia/2008/1/schedule/1/paragraph/29)

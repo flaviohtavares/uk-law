@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Stamp duty reserve tax: intermediaries[^key-17383a640cc0cead7607abe0959edb27]
+## 9. Stamp duty reserve tax: intermediaries[^c-17383a640cc0cead7607abe0959edb27]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-17383a640cc0cead7607abe0959edb27]: Commencement: Art. 9 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-17383a640cc0cead7607abe0959edb27]: Commencement: Art. 9 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00011]: Footnote: Section 88B was inserted, together with section 88A, by section 102(1) of the Finance Act 1997.

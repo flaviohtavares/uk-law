@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Circumvention review[^key-f8f40b5ba739dcf98593cb5fc4857b94]
+## 73. Circumvention review[^c-f8f40b5ba739dcf98593cb5fc4857b94]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,9 +61,9 @@ summary: ''
 - (b) the application of the relevant anti-dumping amount or countervailing amount imposed should be varied—
   - (i) to apply to some or all of the goods subject to review;
   - (ii) to apply to goods from a third country; or
-  - (iii) where circumvention exists in the form described in paragraph (3)(c), to apply an anti-dumping amount[^key-b79281f5297ec985d5c1b060cf9cf6ab] or a countervailing amount at a level less than or equal to that specified in the relevant public notice made under section 13 of the Act.
+  - (iii) where circumvention exists in the form described in paragraph (3)(c), to apply an anti-dumping amount[^c-b79281f5297ec985d5c1b060cf9cf6ab] or a countervailing amount at a level less than or equal to that specified in the relevant public notice made under section 13 of the Act.
 
-(7A)[^key-8e8d5dbb8fb686828b20b0e724486348] Where the TRA proposes to make a determination under paragraph (7)(a) the TRA must notify the Secretary of State of its proposed determination.
+(7A)[^c-8e8d5dbb8fb686828b20b0e724486348] Where the TRA proposes to make a determination under paragraph (7)(a) the TRA must notify the Secretary of State of its proposed determination.
 
 (7B) Where the Secretary of State has been notified in accordance with paragraph (7A), the Secretary of State may, within the relevant period (and subject to paragraph (7C)), request that the TRA reassess its proposed determination by reference to any matter specified in the request.
 
@@ -88,15 +88,15 @@ summary: ''
 
 (10) The TRA may grant an exemption in favour of—
 
-- (a) an overseas exporter, who it determines not to be engaged in circumvention, where the practice, process or work referred to in paragraph (2)(b)[^key-f2344a2ad13aaa16b55a31c3b5bf6972] takes place outside the United Kingdom; or
+- (a) an overseas exporter, who it determines not to be engaged in circumvention, where the practice, process or work referred to in paragraph (2)(b)[^c-f2344a2ad13aaa16b55a31c3b5bf6972] takes place outside the United Kingdom; or
 - (b) an importer, who is not related to an overseas exporter which is subject to the anti-dumping amount or countervailing amount to which the circumvention review relates, where the practice, process or work referred to in paragraph (2)(b) takes place in the United Kingdom.
 
 ## Annotations
 
-[^key-f8f40b5ba739dcf98593cb5fc4857b94]: Commencement: Reg. 73 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-f8f40b5ba739dcf98593cb5fc4857b94]: Commencement: Reg. 73 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
-[^key-b79281f5297ec985d5c1b060cf9cf6ab]: Textual amendment: Word in [reg. 73(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/450/regulation/73/7/b/iii) inserted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2019/1076/regulation/8/2/a)
+[^c-b79281f5297ec985d5c1b060cf9cf6ab]: Textual amendment: Word in [reg. 73(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/450/regulation/73/7/b/iii) inserted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2019/1076/regulation/8/2/a)
 
-[^key-8e8d5dbb8fb686828b20b0e724486348]: Textual amendment: [Reg. 73(7A)-(7F)](https://www.legislation.gov.uk/uksi/2019/450/regulation/73/7A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2024/545/regulation/15) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-8e8d5dbb8fb686828b20b0e724486348]: Textual amendment: [Reg. 73(7A)-(7F)](https://www.legislation.gov.uk/uksi/2019/450/regulation/73/7A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2024/545/regulation/15) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
 
-[^key-f2344a2ad13aaa16b55a31c3b5bf6972]: Textual amendment: Words in [reg. 73(10)](https://www.legislation.gov.uk/uksi/2019/450/regulation/73/10) substituted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2019/1076/regulation/8/2/b)
+[^c-f2344a2ad13aaa16b55a31c3b5bf6972]: Textual amendment: Words in [reg. 73(10)](https://www.legislation.gov.uk/uksi/2019/450/regulation/73/10) substituted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2019/1076/regulation/8/2/b)

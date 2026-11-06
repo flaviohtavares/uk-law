@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Removal from a pharmaceutical list for other reasons[^key-54e09ae41d95709d30ace9e0534c53c3]
+## 40. Removal from a pharmaceutical list for other reasons[^c-54e09ae41d95709d30ace9e0534c53c3]
 
 *Extent: E+W*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54e09ae41d95709d30ace9e0534c53c3]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2020/1073/regulation/40) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-54e09ae41d95709d30ace9e0534c53c3]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2020/1073/regulation/40) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

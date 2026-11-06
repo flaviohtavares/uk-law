@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Death of registered person[^key-f4687ffebc74035db280831f859cdce2]
+## 56. Death of registered person[^c-f4687ffebc74035db280831f859cdce2]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4687ffebc74035db280831f859cdce2]: Commencement: [S. 56](https://www.legislation.gov.uk/mwa/2010/1/section/56) in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/wsi/2010/2582), [art. 2](https://www.legislation.gov.uk/wsi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/wsi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/wsi/2010/2582/schedule/3))
+[^c-f4687ffebc74035db280831f859cdce2]: Commencement: [S. 56](https://www.legislation.gov.uk/mwa/2010/1/section/56) in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/wsi/2010/2582), [art. 2](https://www.legislation.gov.uk/wsi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/wsi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/wsi/2010/2582/schedule/3))

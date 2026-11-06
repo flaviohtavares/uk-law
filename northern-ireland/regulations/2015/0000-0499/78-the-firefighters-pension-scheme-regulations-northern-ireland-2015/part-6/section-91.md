@@ -41,13 +41,13 @@ summary: ''
 
 - (a) that is forfeited—
   - (i) as a result of a conviction for treason, or
-  - (ii) in a case where the relevant offence under regulation 173 (forfeiture: offences committed by members, surviving partners or eligible children) falls under paragraph (b) of the definition in that regulation of “relevant offence” [^key-817620f2827c6f1ace730cbfd80e66b6]...; or
+  - (ii) in a case where the relevant offence under regulation 173 (forfeiture: offences committed by members, surviving partners or eligible children) falls under paragraph (b) of the definition in that regulation of “relevant offence” [^c-817620f2827c6f1ace730cbfd80e66b6]...; or
 - (b) where that pension is commuted under regulation 169 (commutation of small pensions) where the conditions in regulation 60 of the Occupational Pension Schemes (Contracting-out Regulations) (Northern Ireland) 1996 [^c22394381] are met.
 
 ## Annotations
 
 [^c22394371]: Marginal citation: [Section 13](https://www.legislation.gov.uk/nisr/2015/78/section/13) was amended by the [Social Security Contributions (Transfer of Functions, etc) (Northern Ireland) Order 1999 (S.I. 1999/671)](https://www.legislation.gov.uk/uksi/1999/671), [Schedule 1 paragraph 42](https://www.legislation.gov.uk/uksi/1999/671/schedule/1/paragraph/42). The child [Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)](https://www.legislation.gov.uk/nia/2000/4) (NI), Schedule 5 paragraph 1 and Schedule 9 Part 3; the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255](https://www.legislation.gov.uk/uksi/2005/255) (NI 1)) article 261(2); the [Pensions Act (Northern Ireland) 2008 (c.1)](https://www.legislation.gov.uk/nia/2008/1) (NI) section 12(2) and SR 2005 No 433.
 
-[^key-817620f2827c6f1ace730cbfd80e66b6]: Textual amendment: Words in [reg. 91(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2015/78/regulation/91/5/a/ii) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 41(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/41/3)
+[^c-817620f2827c6f1ace730cbfd80e66b6]: Textual amendment: Words in [reg. 91(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2015/78/regulation/91/5/a/ii) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 41(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/41/3)
 
 [^c22394381]: Marginal citation: SR 1996 No 493. Article 60 was substituted by SR 2006 No 223, SR 2009 No 365 and SR 2010 No 108.

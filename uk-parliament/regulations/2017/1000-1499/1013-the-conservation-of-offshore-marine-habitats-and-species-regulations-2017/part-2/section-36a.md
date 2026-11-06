@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. Compensatory measures: relevant offshore wind plans or projects[^key-15797b13333cfd47950569a383df6f3a]
+## 36A. Compensatory measures: relevant offshore wind plans or projects[^c-15797b13333cfd47950569a383df6f3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15797b13333cfd47950569a383df6f3a]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2017/1013/regulation/36A) inserted (21.5.2026) by [The Conservation of Habitats and Species (Offshore Wind) (Amendment etc.) Regulations 2026 (S.I. 2026/508)](https://www.legislation.gov.uk/uksi/2026/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/508/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2026/508/regulation/16)
+[^c-15797b13333cfd47950569a383df6f3a]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2017/1013/regulation/36A) inserted (21.5.2026) by [The Conservation of Habitats and Species (Offshore Wind) (Amendment etc.) Regulations 2026 (S.I. 2026/508)](https://www.legislation.gov.uk/uksi/2026/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/508/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2026/508/regulation/16)

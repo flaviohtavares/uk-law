@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 153. Injunctions restraining breaches of planning control[^key-02f51dc711492d4dfbde5fe88aabfcbf]
+## 153. Injunctions restraining breaches of planning control[^c-02f51dc711492d4dfbde5fe88aabfcbf]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02f51dc711492d4dfbde5fe88aabfcbf]: Commencement: S. 153 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-02f51dc711492d4dfbde5fe88aabfcbf]: Commencement: S. 153 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

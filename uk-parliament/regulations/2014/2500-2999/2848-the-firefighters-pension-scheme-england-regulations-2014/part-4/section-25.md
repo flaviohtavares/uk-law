@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Calculation of “retirement PIA index adjustment”[^key-ab820a2ac1a001b1728bf4eecd9e5441]
+## 25. Calculation of “retirement PIA index adjustment”[^c-ab820a2ac1a001b1728bf4eecd9e5441]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab820a2ac1a001b1728bf4eecd9e5441]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2014/2848/regulation/25) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-ab820a2ac1a001b1728bf4eecd9e5441]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2014/2848/regulation/25) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

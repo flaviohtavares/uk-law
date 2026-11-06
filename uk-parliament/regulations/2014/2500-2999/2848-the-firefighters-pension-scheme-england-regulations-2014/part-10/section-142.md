@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Transfer statement[^key-11eec6f0095627aa7167f9a2413ed058]
+## 142. Transfer statement[^c-11eec6f0095627aa7167f9a2413ed058]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11eec6f0095627aa7167f9a2413ed058]: Commencement: [Reg. 142](https://www.legislation.gov.uk/uksi/2014/2848/regulation/142) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-11eec6f0095627aa7167f9a2413ed058]: Commencement: [Reg. 142](https://www.legislation.gov.uk/uksi/2014/2848/regulation/142) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

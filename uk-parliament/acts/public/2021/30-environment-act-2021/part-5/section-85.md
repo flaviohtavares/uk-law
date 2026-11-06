@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Authority’s power to require information[^key-13942b1f18f8dbf174bb91d7fb98ecdc][^key-dfd91a90a4b877cdf074b808a46c8b04]
+## 85. Authority’s power to require information[^c-13942b1f18f8dbf174bb91d7fb98ecdc][^c-dfd91a90a4b877cdf074b808a46c8b04]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ In the Water Industry Act 1991, after section 27 insert—
 
 ## Annotations
 
-[^key-13942b1f18f8dbf174bb91d7fb98ecdc]: Commencement: S. 85 not in force at Royal Assent, see [s. 147(3)(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3/4)
+[^c-13942b1f18f8dbf174bb91d7fb98ecdc]: Commencement: S. 85 not in force at Royal Assent, see [s. 147(3)(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3/4)
 
-[^key-dfd91a90a4b877cdf074b808a46c8b04]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2021/30/section/85) in force at 10.5.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [2(e)](https://www.legislation.gov.uk/uksi/2022/518/regulation/2/e)
+[^c-dfd91a90a4b877cdf074b808a46c8b04]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2021/30/section/85) in force at 10.5.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [2(e)](https://www.legislation.gov.uk/uksi/2022/518/regulation/2/e)

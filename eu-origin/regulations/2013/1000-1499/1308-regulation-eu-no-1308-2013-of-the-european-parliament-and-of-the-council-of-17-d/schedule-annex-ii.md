@@ -88,7 +88,7 @@ General definitions
 
 4\.
 
-"Inulin syrup" means the immediate product obtained by hydrolysis of inulin or oligofructoses, containing in the dry state at least 10 % fructose in free form or as sucrose, and expressed as sugar/isoglucose equivalents. In order to avoid restrictions on the market for products with low sweetening power produced by inulin fibre processors without inulin syrup quota, this definition may be amended by regulations made under[^key-2fa8d204266f458d91ef9e4d2e7b29ac] Article 125(4).
+"Inulin syrup" means the immediate product obtained by hydrolysis of inulin or oligofructoses, containing in the dry state at least 10 % fructose in free form or as sucrose, and expressed as sugar/isoglucose equivalents. In order to avoid restrictions on the market for products with low sweetening power produced by inulin fibre processors without inulin syrup quota, this definition may be amended by regulations made under[^c-2fa8d204266f458d91ef9e4d2e7b29ac] Article 125(4).
 
 5\.
 
@@ -98,12 +98,12 @@ A "delivery contract" means a contract concluded between a seller and an underta
 
 "Agreement within the trade" means one of the following:
 
-- ((a)) an agreement concluded, prior to the conclusion of any delivery contract, between undertakings or an undertakings' organisation recognised by the Secretary of State[^key-628461ecc20b476f3e7cd2d0f3b48896], or a group of such undertakings' organisations, on the one hand and a sellers' association recognised by the Secretary of State or a group of such sellers' organisations on the other;
+- ((a)) an agreement concluded, prior to the conclusion of any delivery contract, between undertakings or an undertakings' organisation recognised by the Secretary of State[^c-628461ecc20b476f3e7cd2d0f3b48896], or a group of such undertakings' organisations, on the one hand and a sellers' association recognised by the Secretary of State or a group of such sellers' organisations on the other;
 - ((b)) in the absence of any agreement as referred to in point (a), the law on companies and the law on cooperatives, in so far as they govern the delivery of sugar beet by the shareholders or members of a company or cooperative manufacturing sugar.
 
 Section B
 
-[^key-053778074698013054388c610ac21f27]...
+[^c-053778074698013054388c610ac21f27]...
 
 PART III
 
@@ -318,11 +318,11 @@ Honey shall be understood as honey within the meaning of Council Directive 2001/
 
 ## Annotations
 
-[^key-2fa8d204266f458d91ef9e4d2e7b29ac]: Textual amendment: Words in Annex 2 Pt. 2 s. A point 4 substituted (31.12.2020) by The Common Organisation of the Markets in [Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [2(16)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/2/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2fa8d204266f458d91ef9e4d2e7b29ac]: Textual amendment: Words in Annex 2 Pt. 2 s. A point 4 substituted (31.12.2020) by The Common Organisation of the Markets in [Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [2(16)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/2/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-628461ecc20b476f3e7cd2d0f3b48896]: Textual amendment: Words in Annex 2 Pt. 2 s. A point 6(a) substituted (31.12.2020) by [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [5(16)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/5/16); and substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/828)](https://www.legislation.gov.uk/uksi/2019/828), [regs. 1](https://www.legislation.gov.uk/uksi/2019/828/regulation/1), [28](https://www.legislation.gov.uk/uksi/2019/828/regulation/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-628461ecc20b476f3e7cd2d0f3b48896]: Textual amendment: Words in Annex 2 Pt. 2 s. A point 6(a) substituted (31.12.2020) by [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [5(16)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/5/16); and substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/828)](https://www.legislation.gov.uk/uksi/2019/828), [regs. 1](https://www.legislation.gov.uk/uksi/2019/828/regulation/1), [28](https://www.legislation.gov.uk/uksi/2019/828/regulation/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-053778074698013054388c610ac21f27]: Textual amendment: [Annex 2 Pt. 2 s. B](https://www.legislation.gov.uk/eur/2013/1308/annex/II/part/II/section/B) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [79](https://www.legislation.gov.uk/uksi/2019/821/regulation/79); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-053778074698013054388c610ac21f27]: Textual amendment: [Annex 2 Pt. 2 s. B](https://www.legislation.gov.uk/eur/2013/1308/annex/II/part/II/section/B) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [79](https://www.legislation.gov.uk/uksi/2019/821/regulation/79); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007 (Official Journal of the European Union L 347 of 20 December 2013)](https://www.legislation.gov.uk/eur/2013/1308/pdfs/eurcs_20131308_en_002.pdf).
 

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. The management authority[^key-2b4985c5055ddad6443e1ecca244a186] may issue a musical instrument certificate for non-commercial cross-border movement of musical instruments for purposes including, but not limited to, personal use, performance, production (recordings), broadcast, teaching, display or competition, where such instruments meet all of the following requirements:
+1. The management authority[^c-2b4985c5055ddad6443e1ecca244a186] may issue a musical instrument certificate for non-commercial cross-border movement of musical instruments for purposes including, but not limited to, personal use, performance, production (recordings), broadcast, teaching, display or competition, where such instruments meet all of the following requirements:
 
 - (a) they are derived from species listed in Annexes A, B or C of Regulation (EC) No 338/97, other than specimens of species listed in Annex A of Regulation (EC) No 338/97 acquired after the species was included in Appendices to the Convention;
 - (b) the specimen used in the manufacture of the musical instrument has been legally acquired;
@@ -32,4 +32,4 @@ summary: ''
 
 [^c000008]: Textual amendment: Inserted by [Commission Regulation (EU) 2015/870 of 5 June 2015 amending, as regards the trade in species of wild fauna and flora, Regulation (EC) No 865/2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No 338/97](https://www.legislation.gov.uk/eur/2015/870).
 
-[^key-2b4985c5055ddad6443e1ecca244a186]: Textual amendment: Words in [Art. 44h(1)](https://www.legislation.gov.uk/eur/2006/865/article/44h/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(40)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/40)
+[^c-2b4985c5055ddad6443e1ecca244a186]: Textual amendment: Words in [Art. 44h(1)](https://www.legislation.gov.uk/eur/2006/865/article/44h/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(40)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/40)

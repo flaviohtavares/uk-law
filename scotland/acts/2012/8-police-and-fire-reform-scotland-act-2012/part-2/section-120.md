@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Prohibition on employment of police[^key-dde15573efafa91b404393233b90dd1c]
+## 120. Prohibition on employment of police[^c-dde15573efafa91b404393233b90dd1c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In section 51 of the 2005 Act (prohibition on employment of police), after “co
 
 ## Annotations
 
-[^key-dde15573efafa91b404393233b90dd1c]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2012/8/section/120) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-dde15573efafa91b404393233b90dd1c]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2012/8/section/120) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1172. Apportionment to different periods[^key-f4978d6058d0313fd54bd5db95f56034][^key-6fd8cc147333a974a116eaf4eaf6f6dc]
+## 1172. Apportionment to different periods[^c-f4978d6058d0313fd54bd5db95f56034][^c-6fd8cc147333a974a116eaf4eaf6f6dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f4978d6058d0313fd54bd5db95f56034]: Modification: S. 1172 applied (with effect in accordance with s. 33(9)(10) of the amending Act) (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 33(12)](https://www.legislation.gov.uk/ukpga/2015/33/section/33/12)
+[^c-f4978d6058d0313fd54bd5db95f56034]: Modification: S. 1172 applied (with effect in accordance with s. 33(9)(10) of the amending Act) (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 33(12)](https://www.legislation.gov.uk/ukpga/2015/33/section/33/12)
 
-[^key-6fd8cc147333a974a116eaf4eaf6f6dc]: Modification: [S. 1172](https://www.legislation.gov.uk/ukpga/2010/4/section/1172) applied (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 194(5)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/194/5/a)
+[^c-6fd8cc147333a974a116eaf4eaf6f6dc]: Modification: [S. 1172](https://www.legislation.gov.uk/ukpga/2010/4/section/1172) applied (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 194(5)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/194/5/a)

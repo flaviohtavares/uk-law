@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Commission Decision [2003/779/EC](https://www.legislation.gov.uk/european/decision/2003/0779) laying down animal health requirements and the veterinary certification for the import of animal casings from third countries[^key-25a0a14fbfd20ec7750e02729a00de24]
+## 43. Commission Decision [2003/779/EC](https://www.legislation.gov.uk/european/decision/2003/0779) laying down animal health requirements and the veterinary certification for the import of animal casings from third countries[^c-25a0a14fbfd20ec7750e02729a00de24]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25a0a14fbfd20ec7750e02729a00de24]: Commencement: Reg. 43 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-25a0a14fbfd20ec7750e02729a00de24]: Commencement: Reg. 43 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

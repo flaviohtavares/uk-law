@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Introductory[^key-c3e95aeeda4583afe22dba0385b90e2f]
+## 3. Introductory[^c-c3e95aeeda4583afe22dba0385b90e2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Medical Act 1983[^f00004] is amended in accordance with this Chapter.
 
 ## Annotations
 
-[^key-c3e95aeeda4583afe22dba0385b90e2f]: Commencement: Reg. 3 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-c3e95aeeda4583afe22dba0385b90e2f]: Commencement: Reg. 3 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00004]: Footnote: c. 54.

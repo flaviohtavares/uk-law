@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Building warrants: further provisions[^key-b3c3f1ae0df019b2253a960ead1181c5]
+## 13. Building warrants: further provisions[^c-b3c3f1ae0df019b2253a960ead1181c5]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3c3f1ae0df019b2253a960ead1181c5]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2003/8/section/13) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-b3c3f1ae0df019b2253a960ead1181c5]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2003/8/section/13) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

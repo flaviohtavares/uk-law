@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Miscellaneous Food Additives and the Sweeteners in Food (Amendment) (Wales) Regulations 2008 (revoked)[^key-95bc9e1a45c9957dabb7607f9433a899]
+The Miscellaneous Food Additives and the Sweeteners in Food (Amendment) (Wales) Regulations 2008 (revoked)[^c-95bc9e1a45c9957dabb7607f9433a899]
 
 Made
 
@@ -45,77 +45,77 @@ Coming into force
 
 15 February 2008
 
-[^key-95bc9e1a45c9957dabb7607f9433a899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-95bc9e1a45c9957dabb7607f9433a899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-95bc9e1a45c9957dabb7607f9433a899]
+## 1. Title, commencement and application[^c-95bc9e1a45c9957dabb7607f9433a899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Miscellaneous Food Additives Regulations 1995[^key-95bc9e1a45c9957dabb7607f9433a899]
+## 2. Amendments to the Miscellaneous Food Additives Regulations 1995[^c-95bc9e1a45c9957dabb7607f9433a899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-95bc9e1a45c9957dabb7607f9433a899]
+## 3.[^c-95bc9e1a45c9957dabb7607f9433a899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-95bc9e1a45c9957dabb7607f9433a899]
+## 4.[^c-95bc9e1a45c9957dabb7607f9433a899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-95bc9e1a45c9957dabb7607f9433a899]
+## 5.[^c-95bc9e1a45c9957dabb7607f9433a899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-95bc9e1a45c9957dabb7607f9433a899]
+## 6.[^c-95bc9e1a45c9957dabb7607f9433a899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-95bc9e1a45c9957dabb7607f9433a899]
+## 7.[^c-95bc9e1a45c9957dabb7607f9433a899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-95bc9e1a45c9957dabb7607f9433a899]
+## 8.[^c-95bc9e1a45c9957dabb7607f9433a899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-95bc9e1a45c9957dabb7607f9433a899]
+## 9.[^c-95bc9e1a45c9957dabb7607f9433a899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-95bc9e1a45c9957dabb7607f9433a899]
+## 10.[^c-95bc9e1a45c9957dabb7607f9433a899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-95bc9e1a45c9957dabb7607f9433a899]
+## 11.[^c-95bc9e1a45c9957dabb7607f9433a899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-95bc9e1a45c9957dabb7607f9433a899]
+## 12.[^c-95bc9e1a45c9957dabb7607f9433a899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-95bc9e1a45c9957dabb7607f9433a899]
+## 13.[^c-95bc9e1a45c9957dabb7607f9433a899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendments to the Sweeteners in Food Regulations 1995[^key-95bc9e1a45c9957dabb7607f9433a899]
+## 14. Amendments to the Sweeteners in Food Regulations 1995[^c-95bc9e1a45c9957dabb7607f9433a899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-95bc9e1a45c9957dabb7607f9433a899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-95bc9e1a45c9957dabb7607f9433a899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Entries to be substituted in Part C of Schedule 2 to the Additives Regulations[^key-95bc9e1a45c9957dabb7607f9433a899]
+## SCHEDULE 1 — Entries to be substituted in Part C of Schedule 2 to the Additives Regulations[^c-95bc9e1a45c9957dabb7607f9433a899]
 
 Regulation 8
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Entries to be Substituted in Part D of Schedule 2 to the Additives Regulations[^key-95bc9e1a45c9957dabb7607f9433a899]
+## SCHEDULE 2 — Entries to be Substituted in Part D of Schedule 2 to the Additives Regulations[^c-95bc9e1a45c9957dabb7607f9433a899]
 
 Regulation 9
 
@@ -123,8 +123,8 @@ Regulation 9
 
 **May not be in force at this date. Check the source.**
 
-[^key-95bc9e1a45c9957dabb7607f9433a899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-95bc9e1a45c9957dabb7607f9433a899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-95bc9e1a45c9957dabb7607f9433a899]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-95bc9e1a45c9957dabb7607f9433a899]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

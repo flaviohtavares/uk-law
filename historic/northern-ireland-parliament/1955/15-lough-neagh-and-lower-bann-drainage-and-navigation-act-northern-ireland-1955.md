@@ -34,7 +34,7 @@ An Act to make provision for lowering the levels of Lough Neagh and with respect
 
 WHEREAS the consent of the Minister of Transport and Civil Aviation to this Act has been obtained so far as the same is required by the provisions of sub-section (1) of section nine of the Northern Ireland (Miscellaneous Provisions) Act, 1932: [^m00001]
 
-AND WHEREAS the Clerk of the Parliaments has certified accordingly pursuant to the Legislative Procedure Act (Northern Ireland), 1933 :[^m00002][^key-c6b733365bc00c7848c9047ac3a86ec1]
+AND WHEREAS the Clerk of the Parliaments has certified accordingly pursuant to the Legislative Procedure Act (Northern Ireland), 1933 :[^m00002][^c-c6b733365bc00c7848c9047ac3a86ec1]
 
 ## 1. Scheme for controlling Lough Neagh at lower levels.[^c5440531]
 
@@ -45,7 +45,7 @@ AND WHEREAS the Clerk of the Parliaments has certified accordingly pursuant to t
   - (ii) facilitate the execution under the provisions of the Drainage Act (Northern Ireland), 1947 [^m00003][^c5440541], of effective drainage schemes on watercourses discharging into the Lough and on tributaries of such watercourses;
 - (b) maintaining the waters of the Lough at such lower level or levels;
 
-the Ministry of Finance (in this Act referred to as “the Ministry”) [^key-e131f7451dcae99f687fb06c601f66d6]... may, notwithstanding anything to the contrary contained in any transferred provision in force at the commencement of this Act with respect to the Lough, prepare and operate, in accordance with and subject to the provisions of this Act, a scheme for the regulation and control, so far as conditions of rainfall, wind and other natural causes appear to the Ministry from time to time to permit, of the waters of the Lough within such levels as may be specified in the scheme.
+the Ministry of Finance (in this Act referred to as “the Ministry”) [^c-e131f7451dcae99f687fb06c601f66d6]... may, notwithstanding anything to the contrary contained in any transferred provision in force at the commencement of this Act with respect to the Lough, prepare and operate, in accordance with and subject to the provisions of this Act, a scheme for the regulation and control, so far as conditions of rainfall, wind and other natural causes appear to the Ministry from time to time to permit, of the waters of the Lough within such levels as may be specified in the scheme.
 
 (2) The Ministry may also prepare and operate, in accordance with and subject to the provisions of this Act relating to schemes, any further scheme or schemes supplementing or modifying any scheme made by virtue of the powers conferred by this Act.
 
@@ -88,7 +88,7 @@ When the Ministry has made an order confirming a scheme, the Ministry may procee
   - (ii) deposit on any land all spoil or other material obtained in the course of such works; and
   - (iii) utilise or dispose of any earth, sods, gravel, stone, rock or other material removed in the course of such works.
 
-## 5. Further powers of the Ministry.[^key-f7420fc74e05106e728194b5a93fcc2d]
+## 5. Further powers of the Ministry.[^c-f7420fc74e05106e728194b5a93fcc2d]
 
 (1) For the purpose of carrying this Act into effect or for the purposes of carrying out any of its statutory functions in relation to the Lough or to the Lower Bann or to the drainage or navigation thereof (including the settlement of claims for compensation and the carrying out of compensatory works) the Ministry may subject to the provisions of this Act—
 
@@ -107,7 +107,7 @@ When the Ministry has made an order confirming a scheme, the Ministry may procee
 
 *Subs. (1)(2) rep. by 1973 NI 1*
 
-(3)[^key-5708adce76165166b0bd5a59cb58e510] As from such date as the Ministry may by order prescribe for the purposes of this sub-section, all liabilities, if any, of the Ministry as successor …[^c5440611], to the Lower Bann Navigation Trustees for any dredging or navigation work shall cease, except and in so far only as the Ministry is liable, as successor to the Lower Bann Navigation Trustees, for—
+(3)[^c-5708adce76165166b0bd5a59cb58e510] As from such date as the Ministry may by order prescribe for the purposes of this sub-section, all liabilities, if any, of the Ministry as successor …[^c5440611], to the Lower Bann Navigation Trustees for any dredging or navigation work shall cease, except and in so far only as the Ministry is liable, as successor to the Lower Bann Navigation Trustees, for—
 
 - (i) the dredging of the channels and the maintenance of navigation posts or marks at the entrance to the Lower Bann River from the Lough;
 - (ii) the dredging of the channels and the maintenance of navigation posts or marks at the entrance to the Sixmilewater River from the Lough and extending up the Sixmilewater River to the boundary between the townlands of Half Umry and Town Parks in the Baronies of Toome Upper and Antrim Upper and County of Antrim; and
@@ -115,7 +115,7 @@ When the Ministry has made an order confirming a scheme, the Ministry may procee
 
 (4) An order under this section shall be subject to negative resolution and may contain such provision with respect to the future ownership of bridges, culverts, weirs, sluices and other works heretofore vested in the Ministry and such transitional and other provisions as appear to the Ministry to be necessary.
 
-## 7. Compensation.[^key-9d064c92e9e2b77c1685882b8f4bb655]
+## 7. Compensation.[^c-9d064c92e9e2b77c1685882b8f4bb655]
 
 (1) Where any person suffers any loss or damage by reason of—
 
@@ -147,7 +147,7 @@ the Ministry shall, subject to the provisions of this Act, pay to him reasonable
 
 *S. 8 rep. by 1964 c. 29 (NI)*
 
-## 9. Matters to be regarded in assessing compensation.[^key-7fecf43365a9d9c5bf1c6ea3c125a332]
+## 9. Matters to be regarded in assessing compensation.[^c-7fecf43365a9d9c5bf1c6ea3c125a332]
 
 When assessing compensation, \[[^c5440631] the Lands Tribunal\] shall in every case have regard to any benefit to any property (whether such property is or is not the property in respect of which such compensation is claimed) of the person claiming such compensation which is occasioned by or may reasonably be expected to arise from the carrying into effect or operation of a scheme and, in particular, \[[^c5440631] the Lands Tribunal\]—
 
@@ -175,7 +175,7 @@ shall, without prejudice to the provisions of any byelaw in force under section 
 
 (2) Any person guilty of an offence under this section shall be liable on summary conviction thereof to a fine not exceeding level 3 on the standard scale[^c5440761], or at the discretion of the court to imprisonment for any term not exceeding six months or to both such fine and imprisonment, and shall also, in the case of a continuing offence, be liable to a fine (in addition to any such fine as aforesaid) not exceeding five pounds for every day during which the offence continues.
 
-## 12. Entry on land.[^key-5b23f94d6e570806ba5a830b315092fb]
+## 12. Entry on land.[^c-5b23f94d6e570806ba5a830b315092fb]
 
 For the purposes of enabling the Ministry to exercise any power or perform any duty conferred or imposed on it by this Act or otherwise for the purpose of carrying the provisions of this Act into effect, any person authorised in that behalf by the Ministry may, on production (if so required) of his authority, enter on and inspect any land and there carry out such works and do such other things as appear to be reasonably necessary or expedient for any of the purposes aforesaid.
 
@@ -187,7 +187,7 @@ The Ministry in carrying the provisions of this Act into effect shall, after con
 
 *Subs. (1)(2) rep. by 1973 NI 1; SLR 1976*
 
-(3)[^key-ddf37c07587207a0eb02fbf143edd622] The appropriate transferees may replace any swing or swivel bridge in respect of which liabilities are transferred to them under this section by a fixed bridge having such minimum height, span and other dimensions and number of arches as the Ministry of Commerce[^c5440791][^key-366e6a11b03a6806a342ddde7050b6a7]... may approve and where such fixed bridge is so provided the Ministry shall pay compensation to any person who suffers any loss or damage by reason of such replacement operating to restrict any right of navigation theretofore exercised by him.
+(3)[^c-ddf37c07587207a0eb02fbf143edd622] The appropriate transferees may replace any swing or swivel bridge in respect of which liabilities are transferred to them under this section by a fixed bridge having such minimum height, span and other dimensions and number of arches as the Ministry of Commerce[^c5440791][^c-366e6a11b03a6806a342ddde7050b6a7]... may approve and where such fixed bridge is so provided the Ministry shall pay compensation to any person who suffers any loss or damage by reason of such replacement operating to restrict any right of navigation theretofore exercised by him.
 
 (4) Every claim for compensation under sub-section (3) shall be made in writing to the Ministry not later than three years from the date certified by the appropriate transferees as the date of the completion of such replacement and such details of the claim as the Ministry may require shall be furnished in writing to the Ministry within such further period as the Ministry may reasonably determine as being necessary for the expeditious disposal of claims.
 
@@ -242,7 +242,7 @@ This Act may be cited as the Lough Neagh and Lower Bann Drainage and Navigation 
 
 [^m00002]: Marginal citation: 23&24 Geo.5, c.4.
 
-[^key-c6b733365bc00c7848c9047ac3a86ec1]: Modification: [Act](https://www.legislation.gov.uk/apni/1955/15): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-c6b733365bc00c7848c9047ac3a86ec1]: Modification: [Act](https://www.legislation.gov.uk/apni/1955/15): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c5440531]: Textual amendment: [1970 c. 7 (NI)](https://www.legislation.gov.uk/apni/1970/7)
 
@@ -250,7 +250,7 @@ This Act may be cited as the Lough Neagh and Lower Bann Drainage and Navigation 
 
 [^c5440541]: Textual amendment: [1973 NI 1](https://www.legislation.gov.uk/nisi/1973)
 
-[^key-e131f7451dcae99f687fb06c601f66d6]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/apni/1955/15/section/1/1) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 16](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/16) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-e131f7451dcae99f687fb06c601f66d6]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/apni/1955/15/section/1/1) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 16](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/16) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c5440551]: Textual amendment: [1973 NI 1](https://www.legislation.gov.uk/1973/ni1)
 
@@ -262,21 +262,21 @@ This Act may be cited as the Lough Neagh and Lower Bann Drainage and Navigation 
 
 [^c5440581]: Textual amendment: SRO (NI) 1973/343
 
-[^key-f7420fc74e05106e728194b5a93fcc2d]: Modification: [S. 5](https://www.legislation.gov.uk/apni/1955/15/section/5): transfer of functions (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-f7420fc74e05106e728194b5a93fcc2d]: Modification: [S. 5](https://www.legislation.gov.uk/apni/1955/15/section/5): transfer of functions (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c5440601]: Textual amendment: [1973 NI 1](https://www.legislation.gov.uk/1973/ni1)
 
 [^m00004]: Marginal citation: 1973 NI 1
 
-[^key-5708adce76165166b0bd5a59cb58e510]: Modification: [S. 6(3)](https://www.legislation.gov.uk/apni/1955/15/section/6/3): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-5708adce76165166b0bd5a59cb58e510]: Modification: [S. 6(3)](https://www.legislation.gov.uk/apni/1955/15/section/6/3): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c5440611]: Textual amendment: [1973 NI 1](https://www.legislation.gov.uk/1973/ni1)
 
-[^key-9d064c92e9e2b77c1685882b8f4bb655]: Modification: [S. 7](https://www.legislation.gov.uk/apni/1955/15/section/7): transfer of functions (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-9d064c92e9e2b77c1685882b8f4bb655]: Modification: [S. 7](https://www.legislation.gov.uk/apni/1955/15/section/7): transfer of functions (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c5440621]: Textual amendment: [1964 c. 29 (NI)](https://www.legislation.gov.uk/apni/1964/29)
 
-[^key-7fecf43365a9d9c5bf1c6ea3c125a332]: Modification: [S. 9](https://www.legislation.gov.uk/apni/1955/15/section/9): transfer of functions (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-7fecf43365a9d9c5bf1c6ea3c125a332]: Modification: [S. 9](https://www.legislation.gov.uk/apni/1955/15/section/9): transfer of functions (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c5440631]: Textual amendment: [1964 c. 29 (NI)](https://www.legislation.gov.uk/apni/1964/29)
 
@@ -286,7 +286,7 @@ This Act may be cited as the Lough Neagh and Lower Bann Drainage and Navigation 
 
 [^c5440761]: Textual amendment: [1984 NI 3](https://www.legislation.gov.uk/1984/ni3)
 
-[^key-5b23f94d6e570806ba5a830b315092fb]: Modification: S. 12: transfer of functions (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-5b23f94d6e570806ba5a830b315092fb]: Modification: S. 12: transfer of functions (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^M_C_8ccad884-9d0c-4f5f-f3ab-c477001f46aa]: Modification: S. 13: transfer of functions (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
@@ -294,11 +294,11 @@ This Act may be cited as the Lough Neagh and Lower Bann Drainage and Navigation 
 
 [^M_C_80d31f63-8c8e-4741-99c4-97e798b76933]: Modification: S. 14: transfer of functions (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-ddf37c07587207a0eb02fbf143edd622]: Modification: S. 14(3): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-ddf37c07587207a0eb02fbf143edd622]: Modification: S. 14(3): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c5440791]: Textual amendment: Now D/Env., SRO (NI) 1963/29; 1964/205; 1973/504
 
-[^key-366e6a11b03a6806a342ddde7050b6a7]: Textual amendment: Words in [s. 14(3)](https://www.legislation.gov.uk/apni/1955/15/section/14/3) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 71](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/71) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-366e6a11b03a6806a342ddde7050b6a7]: Textual amendment: Words in [s. 14(3)](https://www.legislation.gov.uk/apni/1955/15/section/14/3) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 71](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/71) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c5440801]: Textual amendment: [1964 c. 29 (NI)](https://www.legislation.gov.uk/apni/1964/29)
 

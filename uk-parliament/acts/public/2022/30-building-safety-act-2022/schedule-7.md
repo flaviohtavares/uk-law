@@ -22,14 +22,14 @@ summary: ''
 
 Section 102
 
-### 1. Introductory[^key-b8664f9d4a41355043dda1f717be2d9c][^key-8a5e211f934f364043a9b86c7aff668b]
+### 1. Introductory[^c-b8664f9d4a41355043dda1f717be2d9c][^c-8a5e211f934f364043a9b86c7aff668b]
 
 In this Schedule—
 
 - “**special measures manager**” means a person appointed under paragraph 4;
 - “**special measures order**” means an order under paragraph 4.
 
-### 2. Notification by regulator before applying for special measures order[^key-84f4cbbb0739a2df5cffb976a71b44ec][^key-75820eb620265de499eaf8a197b0d9fb]
+### 2. Notification by regulator before applying for special measures order[^c-84f4cbbb0739a2df5cffb976a71b44ec][^c-75820eb620265de499eaf8a197b0d9fb]
 
 (1) This paragraph applies where the regulator proposes to make an application under paragraph 4 for a special measures order in relation to an occupied higher-risk building.
 
@@ -89,7 +89,7 @@ In this Schedule—
 
 (12) The Secretary of State may by regulations amend the list in sub-paragraph (2).
 
-### 3. Meaning of “financial management proposal”[^key-e73f0f08b249c15e9de87c9b4e3dbfcd][^key-503cbb71f351b864417bba5f9c39fee6]
+### 3. Meaning of “financial management proposal”[^c-e73f0f08b249c15e9de87c9b4e3dbfcd][^c-503cbb71f351b864417bba5f9c39fee6]
 
 (1) In this Schedule “**financial management proposal**”, in relation to a higher-risk building, means a document setting out—
 
@@ -101,7 +101,7 @@ In this Schedule—
 
 (2) In this Schedule “**relevant expenses**” means expenses incurred by the special measures manager for a higher-risk building in connection with the exercise of their functions in relation to the building.
 
-### 4. Special measures order[^key-46d5b6f65a06c4cbd25b2552b00529d6][^key-d15d53e8e26cc5101aa7431ded3e2dc2]
+### 4. Special measures order[^c-46d5b6f65a06c4cbd25b2552b00529d6][^c-d15d53e8e26cc5101aa7431ded3e2dc2]
 
 (1) The regulator may apply to the tribunal for an order under this paragraph in relation to an occupied higher-risk building (a “special measures order”).
 
@@ -123,7 +123,7 @@ In this Schedule—
 
 (8) In this Schedule “**commonhold building safety assessment**” means income raised from commonhold unit-holders by virtue of section 38A of the Commonhold and Leasehold Reform Act 2002.
 
-### 5. Special measures order: supplementary[^key-29acd399e359e1efda49d29d84143655][^key-d4f17a437de234a3b70cb757b9c63caf]
+### 5. Special measures order: supplementary[^c-29acd399e359e1efda49d29d84143655][^c-d4f17a437de234a3b70cb757b9c63caf]
 
 (1) This paragraph applies where a special measures order is made in relation to a higher-risk building.
 
@@ -134,7 +134,7 @@ In this Schedule—
 
 (3) Any compliance notice given under section 99 relating to the building ceases to have effect (but this does not affect any liability incurred as a result of a contravention of a compliance notice occurring before the making of the order).
 
-### 6. Payments received by special measures manager to be held on trust[^key-b745059b01aa19608c5f328ae49957ef][^key-2f098882dcee91c3fa7138328f56930a]
+### 6. Payments received by special measures manager to be held on trust[^c-b745059b01aa19608c5f328ae49957ef][^c-2f098882dcee91c3fa7138328f56930a]
 
 (1) This paragraph applies where a special measures order relating to a higher-risk building requires one or more accountable persons for the building to make payments to the special measures manager for the building.
 
@@ -159,7 +159,7 @@ In this Schedule—
 - (b) an accountable person for the building, or
 - (c) the manager.
 
-### 7. Effect of special measures order on relevant contracts and legal proceedings[^key-5738954a6fb22e41cfe92b6233fe5555][^key-b3e9fc2f805b503994250a1e40510e6d]
+### 7. Effect of special measures order on relevant contracts and legal proceedings[^c-5738954a6fb22e41cfe92b6233fe5555][^c-b3e9fc2f805b503994250a1e40510e6d]
 
 (1) Sub-paragraphs (2) and (6) apply while a special measures order relating to a higher-risk building is in force.
 
@@ -188,7 +188,7 @@ In this Schedule—
 
 (8) Where, by virtue of this paragraph, the special measures manager for the building is subject to a liability to pay damages in respect of anything done (or not done) before the date of their appointment by or on behalf of an accountable person for the building, that person is liable to reimburse to the manager an amount equal to the amount of damages paid by the manager.
 
-### 8. Special measures orders and orders under section 24 of the Landlord and Tenant Act 1987[^key-756851561d82cffe2fed5c720a4a0b76][^key-eda3ecea507c21e29f0ea0636aabe7be]
+### 8. Special measures orders and orders under section 24 of the Landlord and Tenant Act 1987[^c-756851561d82cffe2fed5c720a4a0b76][^c-eda3ecea507c21e29f0ea0636aabe7be]
 
 (1) Sub-paragraph (2) applies where—
 
@@ -206,7 +206,7 @@ In this Schedule—
 > - “**special measures manager**” means a person appointed under paragraph 4 of Schedule 7 to the Building Safety Act 2022;
 > - “**special measures order**” means an order under paragraph 4 of Schedule 7 to the Building Safety Act 2022.
 
-**9.**[^key-3b6f27383d17a6451012fec338fab4a6][^key-e9a1f070df9c7f27ac76134c178acf11] (1) The Landlord and Tenant Act 1987 is amended as follows.
+**9.**[^c-3b6f27383d17a6451012fec338fab4a6][^c-e9a1f070df9c7f27ac76134c178acf11] (1) The Landlord and Tenant Act 1987 is amended as follows.
 
 (2) In section 21(2) after “subsection (3)” insert “and section 24ZA”.
 
@@ -256,7 +256,7 @@ In this Schedule—
 >
 > (5) In this section “**special measures manager**” has the meaning given by section 24(2D).
 
-### 10. Provision of financial assistance by regulator[^key-1654e4b2d55eaac66841c2f9dae51c87][^key-45032f586f348ed43a0b009d5c2d29f2]
+### 10. Provision of financial assistance by regulator[^c-1654e4b2d55eaac66841c2f9dae51c87][^c-45032f586f348ed43a0b009d5c2d29f2]
 
 (1) The regulator may give financial assistance to the special measures manager for a higher-risk building by way of loans or grants.
 
@@ -268,7 +268,7 @@ In this Schedule—
 
 (3) In this paragraph “**special measures manager**”, in relation to a higher-risk building, includes the person who was the special measures manager for that building immediately before the special measures order relating to the building was discharged.
 
-### 11. Special measures order: further directions[^key-e8c095228f019e96d20e5f0bee8aed4b][^key-9964b6630ab290306fb0b1a74d6d46cd]
+### 11. Special measures order: further directions[^c-e8c095228f019e96d20e5f0bee8aed4b][^c-9964b6630ab290306fb0b1a74d6d46cd]
 
 (1) This paragraph applies while a special measures order relating to a higher-risk building is in force.
 
@@ -283,7 +283,7 @@ In this Schedule—
 - (b) an accountable person for the building, or
 - (c) the manager.
 
-### 12. Regulator to keep certain matters under review[^key-e399810f32bafb95d444cb2caf8ef27e][^key-ab642d9096ecba03ae36df5954a3ba64]
+### 12. Regulator to keep certain matters under review[^c-e399810f32bafb95d444cb2caf8ef27e][^c-ab642d9096ecba03ae36df5954a3ba64]
 
 (1) This paragraph applies while a special measures order relating to a higher-risk building is in force.
 
@@ -296,7 +296,7 @@ In this Schedule—
 
 (3) If, on such a review, the regulator considers that any term of the order should be varied, it must make such application under paragraph 14 as it considers appropriate.
 
-### 13. Notification by regulator before applying to vary special measures order[^key-bff5605eaa75de30195b7cb327dd8b39][^key-44ed8e73bd3d6d7eca2905d327b8fc41]
+### 13. Notification by regulator before applying to vary special measures order[^c-bff5605eaa75de30195b7cb327dd8b39][^c-44ed8e73bd3d6d7eca2905d327b8fc41]
 
 (1) This paragraph applies where the regulator proposes to make an application under paragraph 14 to vary a special measures order relating to a higher-risk building.
 
@@ -348,7 +348,7 @@ In this Schedule—
 
 (10) The Secretary of State may by regulations amend the list in sub-paragraph (2).
 
-### 14. Variation or discharge of special measures order[^key-a27b8159fe80c6b43603c0817c4b7a5b][^key-6308bafc3a91adb3745fc7d3b3ebfddb]
+### 14. Variation or discharge of special measures order[^c-a27b8159fe80c6b43603c0817c4b7a5b][^c-6308bafc3a91adb3745fc7d3b3ebfddb]
 
 (1) The tribunal may vary or discharge a special measures order relating to a higher-risk building on an application by—
 
@@ -397,7 +397,7 @@ In this Schedule—
 
 (10) In this paragraph “**special measures manager**”, in relation to a higher-risk building, includes the person who was the special measures manager for that building immediately before the special measures order relating to the building was discharged.
 
-### 15. Notifications about special measures order[^key-70177bd98bd2aea390c73eca933c5f0b][^key-6cba7e8aca693428f2283eadb35a58e8]
+### 15. Notifications about special measures order[^c-70177bd98bd2aea390c73eca933c5f0b][^c-6cba7e8aca693428f2283eadb35a58e8]
 
 (1) The regulator must take all reasonable steps to notify the persons mentioned in sub-paragraph (2) of the making, variation or discharge of a special measures order in relation to a higher-risk building.
 
@@ -418,7 +418,7 @@ In this Schedule—
 
 (4) The Secretary of State may by regulations amend the list in sub-paragraph (2).
 
-### 16. Special measures order: change in accountable person etc[^key-b581076300c9281b0dd7ecdee368f61a][^key-f60536a5804de99f37e7e7facdb63acb]
+### 16. Special measures order: change in accountable person etc[^c-b581076300c9281b0dd7ecdee368f61a][^c-f60536a5804de99f37e7e7facdb63acb]
 
 (1) Sub-paragraphs (2) and (3) apply where at any time (“**the relevant time**”) during which a special measures order relating to a higher-risk building is in force, an accountable person for the building (“the outgoing person”) ceases to be responsible for all or any part of the building (“the relevant part of the building”).
 
@@ -437,7 +437,7 @@ as it applied to the outgoing person in relation to the relevant part or part of
 
 (6) Nothing in this paragraph affects the powers of the tribunal under paragraph 14 (power to vary special measures order etc).
 
-### 17. Interpretation[^key-55ab049cac0a30827ea8a7775bb7ee0b][^key-fa09b1cc2764ac03e1a8a31f704f3f8a]
+### 17. Interpretation[^c-55ab049cac0a30827ea8a7775bb7ee0b][^c-fa09b1cc2764ac03e1a8a31f704f3f8a]
 
 In this Schedule—
 
@@ -455,70 +455,70 @@ In this Schedule—
 
 ## Annotations
 
-[^key-b8664f9d4a41355043dda1f717be2d9c]: Commencement: Sch. 7 para. 1 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-b8664f9d4a41355043dda1f717be2d9c]: Commencement: Sch. 7 para. 1 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-8a5e211f934f364043a9b86c7aff668b]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/1) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
+[^c-8a5e211f934f364043a9b86c7aff668b]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/1) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
 
-[^key-84f4cbbb0739a2df5cffb976a71b44ec]: Commencement: Sch. 7 para. 2 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-84f4cbbb0739a2df5cffb976a71b44ec]: Commencement: Sch. 7 para. 2 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-75820eb620265de499eaf8a197b0d9fb]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/2) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
+[^c-75820eb620265de499eaf8a197b0d9fb]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/2) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
 
-[^key-e73f0f08b249c15e9de87c9b4e3dbfcd]: Commencement: Sch. 7 para. 3 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-e73f0f08b249c15e9de87c9b4e3dbfcd]: Commencement: Sch. 7 para. 3 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-503cbb71f351b864417bba5f9c39fee6]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/3) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
+[^c-503cbb71f351b864417bba5f9c39fee6]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/3) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
 
-[^key-46d5b6f65a06c4cbd25b2552b00529d6]: Commencement: Sch. 7 para. 4 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-46d5b6f65a06c4cbd25b2552b00529d6]: Commencement: Sch. 7 para. 4 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-d15d53e8e26cc5101aa7431ded3e2dc2]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/4) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
+[^c-d15d53e8e26cc5101aa7431ded3e2dc2]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/4) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
 
-[^key-29acd399e359e1efda49d29d84143655]: Commencement: Sch. 7 para. 5 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-29acd399e359e1efda49d29d84143655]: Commencement: Sch. 7 para. 5 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-d4f17a437de234a3b70cb757b9c63caf]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/5) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
+[^c-d4f17a437de234a3b70cb757b9c63caf]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/5) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
 
-[^key-b745059b01aa19608c5f328ae49957ef]: Commencement: Sch. 7 para. 6 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-b745059b01aa19608c5f328ae49957ef]: Commencement: Sch. 7 para. 6 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-2f098882dcee91c3fa7138328f56930a]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/6) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
+[^c-2f098882dcee91c3fa7138328f56930a]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/6) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
 
-[^key-5738954a6fb22e41cfe92b6233fe5555]: Commencement: Sch. 7 para. 7 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-5738954a6fb22e41cfe92b6233fe5555]: Commencement: Sch. 7 para. 7 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-b3e9fc2f805b503994250a1e40510e6d]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/7) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
+[^c-b3e9fc2f805b503994250a1e40510e6d]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/7) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
 
-[^key-756851561d82cffe2fed5c720a4a0b76]: Commencement: Sch. 7 para. 8 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-756851561d82cffe2fed5c720a4a0b76]: Commencement: Sch. 7 para. 8 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-eda3ecea507c21e29f0ea0636aabe7be]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/8) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
+[^c-eda3ecea507c21e29f0ea0636aabe7be]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/8) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
 
-[^key-3b6f27383d17a6451012fec338fab4a6]: Commencement: Sch. 7 para. 9 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-3b6f27383d17a6451012fec338fab4a6]: Commencement: Sch. 7 para. 9 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-e9a1f070df9c7f27ac76134c178acf11]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/9) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
+[^c-e9a1f070df9c7f27ac76134c178acf11]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/9) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
 
-[^key-1654e4b2d55eaac66841c2f9dae51c87]: Commencement: Sch. 7 para. 10 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-1654e4b2d55eaac66841c2f9dae51c87]: Commencement: Sch. 7 para. 10 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-45032f586f348ed43a0b009d5c2d29f2]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/10) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
+[^c-45032f586f348ed43a0b009d5c2d29f2]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/10) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
 
-[^key-e8c095228f019e96d20e5f0bee8aed4b]: Commencement: Sch. 7 para. 11 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-e8c095228f019e96d20e5f0bee8aed4b]: Commencement: Sch. 7 para. 11 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-9964b6630ab290306fb0b1a74d6d46cd]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/11) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
+[^c-9964b6630ab290306fb0b1a74d6d46cd]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/11) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
 
-[^key-e399810f32bafb95d444cb2caf8ef27e]: Commencement: Sch. 7 para. 12 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-e399810f32bafb95d444cb2caf8ef27e]: Commencement: Sch. 7 para. 12 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-ab642d9096ecba03ae36df5954a3ba64]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/12) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
+[^c-ab642d9096ecba03ae36df5954a3ba64]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/12) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
 
-[^key-bff5605eaa75de30195b7cb327dd8b39]: Commencement: Sch. 7 para. 13 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-bff5605eaa75de30195b7cb327dd8b39]: Commencement: Sch. 7 para. 13 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-44ed8e73bd3d6d7eca2905d327b8fc41]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/13) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
+[^c-44ed8e73bd3d6d7eca2905d327b8fc41]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/13) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
 
-[^key-a27b8159fe80c6b43603c0817c4b7a5b]: Commencement: Sch. 7 para. 14 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-a27b8159fe80c6b43603c0817c4b7a5b]: Commencement: Sch. 7 para. 14 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-6308bafc3a91adb3745fc7d3b3ebfddb]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/14) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
+[^c-6308bafc3a91adb3745fc7d3b3ebfddb]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/14) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
 
-[^key-70177bd98bd2aea390c73eca933c5f0b]: Commencement: Sch. 7 para. 15 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-70177bd98bd2aea390c73eca933c5f0b]: Commencement: Sch. 7 para. 15 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-6cba7e8aca693428f2283eadb35a58e8]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/15) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
+[^c-6cba7e8aca693428f2283eadb35a58e8]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/15) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
 
-[^key-b581076300c9281b0dd7ecdee368f61a]: Commencement: Sch. 7 para. 16 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-b581076300c9281b0dd7ecdee368f61a]: Commencement: Sch. 7 para. 16 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-f60536a5804de99f37e7e7facdb63acb]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/16) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
+[^c-f60536a5804de99f37e7e7facdb63acb]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/16) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
 
-[^key-55ab049cac0a30827ea8a7775bb7ee0b]: Commencement: Sch. 7 para. 17 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-55ab049cac0a30827ea8a7775bb7ee0b]: Commencement: Sch. 7 para. 17 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-fa09b1cc2764ac03e1a8a31f704f3f8a]: Commencement: [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/17) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
+[^c-fa09b1cc2764ac03e1a8a31f704f3f8a]: Commencement: [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/17) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)

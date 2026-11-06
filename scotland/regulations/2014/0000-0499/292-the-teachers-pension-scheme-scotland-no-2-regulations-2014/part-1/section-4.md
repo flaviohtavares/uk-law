@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Connected schemes[^key-8f034f5427d81d9214581a5ee4adf898]
+## 4. Connected schemes[^c-8f034f5427d81d9214581a5ee4adf898]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In these Regulations, “connected scheme” means another statutory pension sch
 
 ## Annotations
 
-[^key-8f034f5427d81d9214581a5ee4adf898]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/292/regulation/4) in force at 1.1.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/a)
+[^c-8f034f5427d81d9214581a5ee4adf898]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/292/regulation/4) in force at 1.1.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/a)

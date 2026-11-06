@@ -33,7 +33,7 @@ FIRE SERVICES
 
 SUPERANNUATION
 
-The Firemen’s Pension Scheme (Amendment) Order 1987 (revoked)[^key-1e856ce0794d44bae36b7c910b01a23c]
+The Firemen’s Pension Scheme (Amendment) Order 1987 (revoked)[^c-1e856ce0794d44bae36b7c910b01a23c]
 
 Made
 
@@ -47,26 +47,26 @@ Coming into force
 
 1st October 1987
 
-[^key-1e856ce0794d44bae36b7c910b01a23c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e856ce0794d44bae36b7c910b01a23c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-1e856ce0794d44bae36b7c910b01a23c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1e856ce0794d44bae36b7c910b01a23c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1e856ce0794d44bae36b7c910b01a23c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1e856ce0794d44bae36b7c910b01a23c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1e856ce0794d44bae36b7c910b01a23c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1e856ce0794d44bae36b7c910b01a23c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1e856ce0794d44bae36b7c910b01a23c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1e856ce0794d44bae36b7c910b01a23c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1e856ce0794d44bae36b7c910b01a23c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1e856ce0794d44bae36b7c910b01a23c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e856ce0794d44bae36b7c910b01a23c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e856ce0794d44bae36b7c910b01a23c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1e856ce0794d44bae36b7c910b01a23c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e856ce0794d44bae36b7c910b01a23c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1e856ce0794d44bae36b7c910b01a23c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1987/1302) revoked (1.3.1992) by [The Firemen’s Pension Scheme Order 1992 (S.I. 1992/129)](https://www.legislation.gov.uk/uksi/1992/129), [art. 1](https://www.legislation.gov.uk/uksi/1992/129/article/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1992/129/schedule/1/part/I)
+[^c-1e856ce0794d44bae36b7c910b01a23c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1987/1302) revoked (1.3.1992) by [The Firemen’s Pension Scheme Order 1992 (S.I. 1992/129)](https://www.legislation.gov.uk/uksi/1992/129), [art. 1](https://www.legislation.gov.uk/uksi/1992/129/article/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1992/129/schedule/1/part/I)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 209. Consequential amendments[^key-8813c06d5702196898131cafe764b21e]
+## 209. Consequential amendments[^c-8813c06d5702196898131cafe764b21e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8813c06d5702196898131cafe764b21e]: Textual amendment: S. 209 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 13 para. 6(34)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/6/34/b); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(g)](https://www.legislation.gov.uk/uksi/2015/994/article/6/g)
+[^c-8813c06d5702196898131cafe764b21e]: Textual amendment: S. 209 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 13 para. 6(34)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/6/34/b); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(g)](https://www.legislation.gov.uk/uksi/2015/994/article/6/g)

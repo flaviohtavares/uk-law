@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-7e3a6e773047340b15246183e054f9f9]
+## 2. Interpretation[^c-7e3a6e773047340b15246183e054f9f9]
 
 *Extent: E+W+S*
 
@@ -39,7 +39,7 @@ summary: ''
 - “book of reference” means the document certified as the book of reference by the Secretary of State under article 40 (certification of plans, etc.);
 - “Breesea” means Breesea Limited[^f00013] (company number 07883217);
 - “commence” means commence any material operation (as defined in section 155 of the 2008 Act) forming part of the authorised development other than operations consisting of site clearance, demolition work, archaeological investigations, investigations for the purpose of assessing ground conditions and remedial work in respect of any contamination or other adverse ground conditions; and “commencement” must be construed accordingly;
-- “compensation compound” means a construction working site forming part of the associated development and shown coloured green on the compensation compounds plan, the purpose of which is to compensate the Hornsea Project One undertaker in the event that the use by the Hornsea Project One undertaker of the Hornsea Project One construction compounds is restricted or prevented by the undertaker carrying out the[^key-b557dc6a35bcf0a8ca859fbcc10bb16e] authorised project;
+- “compensation compound” means a construction working site forming part of the associated development and shown coloured green on the compensation compounds plan, the purpose of which is to compensate the Hornsea Project One undertaker in the event that the use by the Hornsea Project One undertaker of the Hornsea Project One construction compounds is restricted or prevented by the undertaker carrying out the[^c-b557dc6a35bcf0a8ca859fbcc10bb16e] authorised project;
 - “compensation compound access” means an access forming part of the associated development and shown coloured pink on the compensation compounds plan, the purpose of which is to access a compensation compound;
 - “compensation compounds plan” means the plans certified as the compensation compounds plan by the Secretary of State under article 40;
 - “connection works” means Work Nos. 5A, 5B, 6A, 6B, 7A, 7B, 8A, 8B, 9A, 9B and 10 and any related associated development;
@@ -125,7 +125,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7e3a6e773047340b15246183e054f9f9]: Commencement: Art. 2 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-7e3a6e773047340b15246183e054f9f9]: Commencement: Art. 2 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
 [^f00003]: Footnote: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -149,7 +149,7 @@ summary: ''
 
 [^f00013]: Footnote: The registered office of Breesea Limited is 5 Howick Place, London SW1P 1WG.
 
-[^key-b557dc6a35bcf0a8ca859fbcc10bb16e]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2016/844/article/2/1) inserted (17.11.2016) by [The Hornsea Two Offshore Wind Farm (Correction) Order 2016 (S.I. 2016/1104)](https://www.legislation.gov.uk/uksi/2016/1104), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1104/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1104/schedule)
+[^c-b557dc6a35bcf0a8ca859fbcc10bb16e]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2016/844/article/2/1) inserted (17.11.2016) by [The Hornsea Two Offshore Wind Farm (Correction) Order 2016 (S.I. 2016/1104)](https://www.legislation.gov.uk/uksi/2016/1104), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1104/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1104/schedule)
 
 [^f00014]: Footnote: “Highway” is defined in section 328(1). For “highway authority”, see section 1.
 

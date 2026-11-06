@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Amendment of the Investigatory Powers (Interception by Businesses etc. for Monitoring and Record-keeping Purposes) Regulations 2018[^key-61ae399946218cddbc3b3c04f2ca9c2d]
+## 133. Amendment of the Investigatory Powers (Interception by Businesses etc. for Monitoring and Record-keeping Purposes) Regulations 2018[^c-61ae399946218cddbc3b3c04f2ca9c2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-61ae399946218cddbc3b3c04f2ca9c2d]: Commencement: Reg. 133 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-61ae399946218cddbc3b3c04f2ca9c2d]: Commencement: Reg. 133 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23692291]: Marginal citation: [S.I. 2018/356](https://www.legislation.gov.uk/uksi/2018/356).

@@ -45,7 +45,7 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred upon Her by the enactments specified in article 2, is pleased, by and with the advice of Her Privy Council, to order as follows:
 
-## 1. Citation, commencement and interpretation[^key-7f9e01ab59f2451b25605e5347c21299]
+## 1. Citation, commencement and interpretation[^c-7f9e01ab59f2451b25605e5347c21299]
 
 (1) This Order may be cited as the Immigration (Jersey) Order 2021 and comes into force on such day or days (after this Order has been registered by the Royal Court of Jersey) as the Minister may by Order appoint, and different days may be appointed for different provisions and for different purposes.
 
@@ -91,7 +91,7 @@ as though this Order and the provisions so extended were a Law.
 - (b) a reference to the Immigration Acts is a reference to the Immigration Acts of the United Kingdom as they have effect for the time being as extended to Jersey;
 - (c) a reference to the standard scale is a reference to the standard scale for the time being in the Schedule to the Criminal Justice (Standard Scale of Fines) (Jersey) Law 1993[^f00020].
 
-## 2. Enabling powers[^key-92d7b50061d19a0a8d726bd315f0f778]
+## 2. Enabling powers[^c-92d7b50061d19a0a8d726bd315f0f778]
 
 The enactments conferring the powers under which this Order is made are—
 
@@ -114,7 +114,7 @@ The enactments conferring the powers under which this Order is made are—
 - (q) section 63(6) of the 2018 Act (extent); and
 - (r) section 8(2) and (3) of the 2020 Act (extent).
 
-## 3. Extension of the 1971 Act to Jersey[^key-e6daa2715ed26c21fcaf649ece866fd5]
+## 3. Extension of the 1971 Act to Jersey[^c-e6daa2715ed26c21fcaf649ece866fd5]
 
 (1) Each of the provisions of the 1971 Act specified in column 1 of Schedule 1 to this Order is extended to Jersey with the modifications (if any) specified in column 2 of the Schedule.
 
@@ -122,7 +122,7 @@ The enactments conferring the powers under which this Order is made are—
 
 (3) Schedule 1A to this Order sets out the provisions of the 1971 Act as extended to Jersey.
 
-## 4. Extension of the 1988 Act to Jersey[^key-1806c879a790fbe3da77cafe9f9c5526]
+## 4. Extension of the 1988 Act to Jersey[^c-1806c879a790fbe3da77cafe9f9c5526]
 
 (1) Each of the provisions of the 1988 Act specified in column 1 of Schedule 2 to this Order is extended to Jersey with the modifications (if any) specified in column 2 of the Schedule.
 
@@ -130,7 +130,7 @@ The enactments conferring the powers under which this Order is made are—
 
 (3) Schedule 2A to this Order sets out the provisions of the 1988 Act as extended to Jersey.
 
-## 5. Extension of the 1993 Act to Jersey[^key-4c99fe021e0b6fbbc404089447b977ed]
+## 5. Extension of the 1993 Act to Jersey[^c-4c99fe021e0b6fbbc404089447b977ed]
 
 (1) Each of the provisions of the 1993 Act specified in column 1 of Schedule 3 to this Order is extended to Jersey with the modifications (if any) specified in column 2 of the Schedule.
 
@@ -138,7 +138,7 @@ The enactments conferring the powers under which this Order is made are—
 
 (3) Schedule 3A to this Order sets out the provisions of the 1988 Act as extended to Jersey.
 
-## 6. Extension of the 1999 Act to Jersey[^key-8e593a6638562cab14f08ade3a907065]
+## 6. Extension of the 1999 Act to Jersey[^c-8e593a6638562cab14f08ade3a907065]
 
 (1) Each of the provisions of the 1999 Act specified in column 1 of Schedule 4 to this Order is extended to Jersey with the modifications (if any) specified in column 2 of the Schedule.
 
@@ -146,7 +146,7 @@ The enactments conferring the powers under which this Order is made are—
 
 (3) Schedule 4A to this Order sets out the provisions of the 1999 Act as extended to Jersey.
 
-## 7. Extension of the 2002 Act to Jersey[^key-b3e1d5223dd34aa8d78f68e47375b942]
+## 7. Extension of the 2002 Act to Jersey[^c-b3e1d5223dd34aa8d78f68e47375b942]
 
 (1) Each of the provisions of the 2002 Act specified in column 1 of Schedule 5 to this Order is extended to Jersey with the modifications (if any) specified in column 2 of the Schedule.
 
@@ -154,7 +154,7 @@ The enactments conferring the powers under which this Order is made are—
 
 (3) Schedule 5A to this Order sets out the provisions of the 2002 Act as extended to Jersey.
 
-## 8. Extension of the 2004 Act to Jersey[^key-ba4e56079305d4a103e67b7d97553b90]
+## 8. Extension of the 2004 Act to Jersey[^c-ba4e56079305d4a103e67b7d97553b90]
 
 (1) Each of the provisions of the 2004 Act specified in column 1 of Schedule 6 to this Order is extended to Jersey with the modifications (if any) specified in column 2 of the Schedule.
 
@@ -162,7 +162,7 @@ The enactments conferring the powers under which this Order is made are—
 
 (3) Schedule 6A to this Order sets out the provisions of the 2004 Act as extended to Jersey.
 
-## 9. Extension of the 2006 Act to Jersey[^key-920070fc435f1b41fc719208dbec2baa]
+## 9. Extension of the 2006 Act to Jersey[^c-920070fc435f1b41fc719208dbec2baa]
 
 (1) Each of the provisions of the 2006 Act specified in column 1 of Schedule 7 to this Order is extended to Jersey with the modifications (if any) specified in column 2 of the Schedule.
 
@@ -170,7 +170,7 @@ The enactments conferring the powers under which this Order is made are—
 
 (3) Schedule 7A to this Order sets out the provisions of the 2006 Act as extended to Jersey.
 
-## 10. Extension of the 2007 Act to Jersey[^key-77897a34977df67e1f4a1a3408874f9b]
+## 10. Extension of the 2007 Act to Jersey[^c-77897a34977df67e1f4a1a3408874f9b]
 
 (1) Each of the provisions of the 2007 Act specified in column 1 of Schedule 8 to this Order is extended to Jersey with the modifications (if any) specified in column 2 of the Schedule.
 
@@ -178,7 +178,7 @@ The enactments conferring the powers under which this Order is made are—
 
 (3) Schedule 8A to this Order sets out the provisions of the 2007 Act as extended to Jersey.
 
-## 11. Extension of the 2009 Act to Jersey[^key-eb245f89df2565595414317a02366b9a]
+## 11. Extension of the 2009 Act to Jersey[^c-eb245f89df2565595414317a02366b9a]
 
 (1) Each of the provisions of the 2009 Act specified in column 1 of Schedule 9 to this Order shall extend to Jersey with the modifications (if any) specified in column 2 of the Schedule.
 
@@ -186,7 +186,7 @@ The enactments conferring the powers under which this Order is made are—
 
 (3) Schedule 9A to this Order sets out the provisions of the 2009 Act as extended to Jersey.
 
-## 12. Extension of the 2014 Act to Jersey[^key-527f10e7620f0e503f13d592edd5daae]
+## 12. Extension of the 2014 Act to Jersey[^c-527f10e7620f0e503f13d592edd5daae]
 
 (1) Each of the provisions of the 2014 Act specified in column 1 of Schedule 10 to this Order is extended to Jersey with the modifications (if any) specified in column 2 of the Schedule.
 
@@ -194,7 +194,7 @@ The enactments conferring the powers under which this Order is made are—
 
 (3) Schedule 10A to this Order sets out the provisions of the 2014 Act as extended to Jersey.
 
-## 13. Extension of the 2015 Act to Jersey[^key-51f47a9d413aba3dba06a86c39a32d7c]
+## 13. Extension of the 2015 Act to Jersey[^c-51f47a9d413aba3dba06a86c39a32d7c]
 
 (1) Each of the provisions of the 2015 Act specified in column 1 of Schedule 11 to this Order is extended to Jersey with the modifications (if any) specified in column 2 of the Schedule.
 
@@ -202,7 +202,7 @@ The enactments conferring the powers under which this Order is made are—
 
 (3) Schedule 11A to this Order sets out the provisions of the 2015 Act as extended to Jersey.
 
-## 14. Extension of the 2016 Act to Jersey[^key-74c98bab25672334ca8fbf59f931b846]
+## 14. Extension of the 2016 Act to Jersey[^c-74c98bab25672334ca8fbf59f931b846]
 
 (1) Each of the provisions of the 2016 Act specified in column 1 of Schedule 12 to this Order is extended to Jersey with the modifications (if any) specified in column 2 of the Schedule.
 
@@ -210,7 +210,7 @@ The enactments conferring the powers under which this Order is made are—
 
 (3) Schedule 12A to this Order sets out the provisions of the 2016 Act as extended to Jersey.
 
-## 15. Revocation of existing Orders[^key-b49d2cb55ec72becdb54459cc24e1135]
+## 15. Revocation of existing Orders[^c-b49d2cb55ec72becdb54459cc24e1135]
 
 (1) The following Orders are revoked—
 
@@ -232,7 +232,7 @@ The enactments conferring the powers under which this Order is made are—
 - (a) any provision made under the said section 5, as so extended, before the coming into force of this Order shall remain in force until amended or revoked;
 - (b) references in the said section 5, as so extended, to provision made on or before the appointed day shall include provision extended by this Order.
 
-## 16. Transitional and saving provisions[^key-c8b56ee1208b1d1a18b6802c02c4bfe9]
+## 16. Transitional and saving provisions[^c-c8b56ee1208b1d1a18b6802c02c4bfe9]
 
 (1) Anything done under or for the purposes of an Act extended to Jersey by the Orders revoked by article 15(1) shall, in so far as any corresponding action could be taken under or for the purposes of an Act extended to Jersey by this Order, have effect as if done by way of action so taken, and in relation to anything so done the Act extended to Jersey by this Order shall apply accordingly.
 
@@ -273,7 +273,7 @@ Ceri King
 
 Deputy Clerk of the Privy Council
 
-## SCHEDULE 1 — Extension and modification of the Immigration Act 1971[^key-5d585ceeef13eb5adf3c914bbdd59de5]
+## SCHEDULE 1 — Extension and modification of the Immigration Act 1971[^c-5d585ceeef13eb5adf3c914bbdd59de5]
 
 Article 3
 
@@ -481,7 +481,7 @@ Article 3
 | Schedule 4A Part 1 paragraph 10: heading | (No modification) |
 | Schedule 4A Part 1 paragraph 10 as inserted by the 2016 Act Schedule 14 paragraph 8 | (No modification) |
 | Schedule 4A Part 1 paragraph 11: heading | (No modification) |
-| Schedule 4A Part 1 paragraph 11 as inserted by the 2016 Act Schedule 14 paragraph 8 | In sub-paragraphs (1) and (2) omit “under the law of England and Wales”.<br>In sub-paragraph (4) for “summary conviction to imprisonment for a term not exceeding 51 weeks, to a fine or to both” substitute “conviction to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-c622d12f9d58c27f591734e953945b9f] or to a fine not exceeding level 3 on the standard scale or to both”.<br>Omit sub-paragraph (5). |
+| Schedule 4A Part 1 paragraph 11 as inserted by the 2016 Act Schedule 14 paragraph 8 | In sub-paragraphs (1) and (2) omit “under the law of England and Wales”.<br>In sub-paragraph (4) for “summary conviction to imprisonment for a term not exceeding 51 weeks, to a fine or to both” substitute “conviction to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-c622d12f9d58c27f591734e953945b9f] or to a fine not exceeding level 3 on the standard scale or to both”.<br>Omit sub-paragraph (5). |
 
 ## SCHEDULE 1A — Provisions of the Immigration Act 1971 as extended to Jersey
 
@@ -491,7 +491,7 @@ Article 3
 | --- |
 | *Provision as extended to Jersey* |
 
-### PART I — REGULATION AND ENTRY INTO AND STAY IN JERSEY[^key-154ce573f8fdb3e054eef75da5e3fc8d]
+### PART I — REGULATION AND ENTRY INTO AND STAY IN JERSEY[^c-154ce573f8fdb3e054eef75da5e3fc8d]
 
 | General Principles |
 | --- |
@@ -528,7 +528,7 @@ Article 3
 | Construction of references to entry, and other phrases relating to travel. |
 | **11**.—(1) A person arriving in Jersey by ship or aircraft shall for purposes of this Act be deemed not to enter Jersey unless and until he disembarks, and on disembarkation at a port shall further be deemed not to enter Jersey so long as he remains in such area (if any) at the port as may be approved for this purpose by an immigration officer; and a person who has not otherwise entered Jersey shall be deemed not to do so as long as he is detained, or temporarily admitted or released while liable to detention, under the powers conferred by Schedule 2 to this Act or section 62 of the Nationality, Immigration and Asylum Act 2002.<br>(2) In this Act “**disembark**” means disembark from a ship or aircraft, and “**embark**” means embark in a ship or aircraft; and, except in subsection (1) above –<br>(a) references to disembarking in Jersey do not apply to disembarking after a local journey from a place in Jersey or elsewhere in the common travel area; and<br>(b) references to embarking in Jersey do not apply to embarking for a local journey to a place in Jersey or elsewhere in the common travel area.<br>(3) Except in so far as the context otherwise requires, references in this Act to arriving in Jersey by ship shall extend to arrival by any floating structure, and “**disembark**” shall be construed accordingly; but the provisions of this Act specially relating to members of the crew of a ship shall not by virtue of this provision apply in relation to any floating structure not being a ship.<br>(4) For purposes of this Act “**common travel area**” has the meaning given by section 1(3), and a journey is, in relation to the common travel area, a local journey if but only if it begins and ends in the common travel area and is not made by a ship or aircraft which—<br>(a) in the case of a journey to a place in Jersey, began its voyage from, or has during its voyage called at, a place not in the common travel area; or<br>(b) in the case of a journey from a place in Jersey, is due to end its voyage in, or call in the course of its voyage at, a place not in the common travel area.<br>(5) A person who enters Jersey lawfully by virtue of section 8(1) above, and seeks to remain beyond the time limited by section 8(1), shall be treated for purposes of this Act as seeking to enter Jersey. |
 
-### PART III — CRIMINAL PROCEEDINGS[^key-11b3549b6828778a58971751c8de6c5f]
+### PART III — CRIMINAL PROCEEDINGS[^c-11b3549b6828778a58971751c8de6c5f]
 
 | Illegal entry and similar offences. |
 | --- |
@@ -585,7 +585,7 @@ Article 3
 | Interpretation of Part III. |
 | **28L.**—(1) In this Part, “**premises**” and “**items subject to legal privilege**” have the same meaning as in the Police Procedures and Criminal Evidence (Jersey) Law 2003.<br>(2) In this Part “**business premises**” means premises (or any part of premises) not used as a dwelling.<br>(3) In this Part “**employee records**” means records which show an employee’s—<br>(a) name,<br>(b) date of birth,<br>(c) address,<br>(d) length of service,<br>(e) rate of pay, or<br>(f) nationality or citizenship. |
 
-### PART 3A — MARITIME ENFORCEMENT[^key-269fc4cf104073982aa5c16d47109317]
+### PART 3A — MARITIME ENFORCEMENT[^c-269fc4cf104073982aa5c16d47109317]
 
 | Enforcement powers in relation to ships. |
 | --- |
@@ -593,7 +593,7 @@ Article 3
 | Interpretation of Part 3A. |
 | **28Q.**—(1) In this Part—<br>“**the Convention**” means the United Nations Convention on the Law of the Sea 1982 (Cmnd 8941) and any modifications of that Convention agreed after the passing of this Act that have entered into force in relation to Jersey;<br>“**enforcement officer**” means—<br>(a) a person who is a commissioned officer of any of Her Majesty’s ships, or<br>(b) a person in command or charge of any aircraft or hovercraft of the Royal Navy, the Army or the Royal Air Force;<br>“**foreign ship**” means a ship which—<br>(a) is registered in a State outside the United Kingdom and Islands, or<br>(b) is not so registered but is entitled to fly the flag of a State outside the United Kingdom and Islands;<br>“**Jersey ship**” means a ship which—<br>(a) is registered under Part 3 of the Shipping (Jersey) Law 2002,<br>(b) is a Government ship within the meaning of that Law, or<br>(c) is not registered in any State or relevant territory but is wholly owned by persons each of whom has a Jersey connection;<br>“**Jersey waters**” has the same meaning as in the Shipping (Jersey) Law 2002;<br>“**Part 1 powers**” means the powers set out in Part 1 of Schedule 4A;<br>“**relevant territory**” means—<br>(a) any of the United Kingdom and Islands other than Jersey;<br>(b) a British overseas territory;<br>“**ship**” includes every description of vessel (including a hovercraft) used in navigation;<br>“**ship without nationality**” means a ship which—<br>(a) is not registered in, or otherwise entitled to fly the flag of, any State or relevant territory, or<br>(b) sails under the flags of two or more States or relevant territories, or under the flags of a State and relevant territory, using them according to convenience.<br>(2) For the purposes of paragraph (c) of the definition of “Jersey ship” in subsection (1), a person has a “Jersey connection” if the person is—<br>(a) a British citizen, a British overseas territories citizen or a British Overseas citizen,<br>(b) an individual who is habitually resident in Jersey, or<br>(c) a body corporate which is established under the law of Jersey and has its principal place of business in Jersey. |
 
-### PART IV — SUPPLEMENTARY[^key-7b39e15341d52b125f6eaa4554131ccb]
+### PART IV — SUPPLEMENTARY[^c-7b39e15341d52b125f6eaa4554131ccb]
 
 | General provisions as to Orders in Council, etc. |
 | --- |
@@ -606,7 +606,7 @@ Article 3
 
 Section 4
 
-### PART I — GENERAL PROVISIONS.[^key-e0a87793cf2b168da20a54dbabd76d97]
+### PART I — GENERAL PROVISIONS.[^c-e0a87793cf2b168da20a54dbabd76d97]
 
 |  |
 | --- |
@@ -668,7 +668,7 @@ Section 4
 | **27BA**.—(1) The Minister may make provision by Order requiring responsible persons in respect of ships or aircraft—<br>(a) which have arrived, or are expected to arrive, in Jersey, or<br>(b) which have left, or are expected to leave, Jersey,<br>to supply information to the Minister or an immigration officer.<br>(2) The following information may be required under sub-paragraph (1)—<br>(a) information about the persons on board;<br>(b) information about the voyage or flight.<br>(3) An Order under this paragraph must—<br>(a) specify or describe the classes of ships or aircraft to which they apply;<br>(b) specify the information required to be supplied;<br>(c) specify the time by which the information must be supplied;<br>(d) specify the form and manner in which the information must be supplied.<br>(4) An Order under this paragraph may require responsible persons to be able to receive, in a specified form and manner, communications sent by the Minister or an immigration officer relating to the information.<br>(5) For the purposes of this paragraph, the following are responsible persons in respect of a ship or aircraft—<br>(a) the owner or agent, and<br>(b) the captain.<br>(6) An Order under this paragraph may make different provision for different purposes, and in particular may make different provision for different types of carrier, journey or person on board. |
 | **27BB**.—(1) The Minister may make provision by Order imposing penalties for failure to comply with—<br>(a) an Order under paragraph 27(2) (Order requiring passenger list or particulars of member of crew),<br>(b) any request or requirement under paragraph 27B (passenger and service information), or<br>(c) an Order under paragraph 27BA (passenger, crew and service information).<br>(2) An Order under sub-paragraph (1) may in particular make provision—<br>(a) about how a penalty is to be calculated;<br>(b) about the procedure for imposing a penalty;<br>(c) about the enforcement of penalties;<br>(d) allowing for an appeal against a decision to impose a penalty;<br>and the Order may make different provision for different purposes.<br>(3) Provision in the Order about the procedure for imposing a penalty must provide for a person to be given an opportunity to object to a proposed penalty in the circumstances set out in the Order.<br>(4) The Order must provide that no penalty may be imposed on a person for failure to comply with an Order under paragraph 27(2), a request or requirement under paragraph 27B or an Order under paragraph 27BA where—<br>(a) proceedings have been instituted against the person under section 27 in respect of the same failure; or<br>(b) the failure consists of a failure to provide information that the person has also been required to provide under section 32 or 32A of the Immigration, Asylum and Nationality Act 2006 and—<br>(i) a penalty has been imposed on the person in respect of a failure to provide that information by virtue of regulations made under section 32B of that Act, or<br>(ii) proceedings have been instituted against the person under section 34 of that Act in respect of a failure to provide that information; or<br>(c) the failure consists of a failure to provide information that the person has also been required to provide under an authority-to-carry scheme made under section 22 of the Counter-Terrorism and Security Act 2015 and a penalty has been imposed on the person in respect of a failure to provide that information by virtue of an Order made under section 24 of that Act.<br>(5) Any penalty paid by virtue of this paragraph must be paid to the Treasurer of the States and credited to the Annual Income of the States. |
 
-## SCHEDULE 3 — SUPPLEMENTARY PROVISIONS AS TO DEPORTATION[^key-2a9310fc3280020ef3e3be1d7b7f1318]
+## SCHEDULE 3 — SUPPLEMENTARY PROVISIONS AS TO DEPORTATION[^c-2a9310fc3280020ef3e3be1d7b7f1318]
 
 Section 5
 
@@ -686,7 +686,7 @@ Section 5
 | **8**.—(1) A person arrested in pursuance of paragraph 7 above shall be brought as soon as practicable and in any event within 24 hours after his arrest before the Bailiff or a Jurat.<br>(2) In reckoning for the purposes of this paragraph any period of 24 hours, no account shall be taken of Christmas Day, Good Friday or any Sunday. |
 | **10**. Where a person is brought before the Bailiff or a Jurat by virtue of paragraph 8 above, the Bailiff or the Jurat, as the case may be—<br>(a) if of the opinion that that person is contravening, has contravened or is likely to contravene any restriction imposed on him by a court under this Schedule, may direct—<br>(i) that he be detained; or<br>(ii) that he be released subject to such restrictions as to his residence and reporting to the police as the Bailiff or, as the case may be, the Jurat may direct; and<br>(b) if not of that opinion, shall release him without altering the restrictions as to his residence and his reporting to the police. |
 
-## SCHEDULE 4 — INTEGRATION WITH JERSEY LAW OF IMMIGRATION LAWS OF THE UNITED KINGDOM, GUERNSEY AND THE ISLE OF MAN[^key-af47f3496e3c111721bd06865b9a3833]
+## SCHEDULE 4 — INTEGRATION WITH JERSEY LAW OF IMMIGRATION LAWS OF THE UNITED KINGDOM, GUERNSEY AND THE ISLE OF MAN[^c-af47f3496e3c111721bd06865b9a3833]
 
 Section 9
 
@@ -704,7 +704,7 @@ Section 9
 
 Section 28M
 
-### PART 1[^key-3ad32776734941da6518c69ed297905b]
+### PART 1[^c-3ad32776734941da6518c69ed297905b]
 
 |  |
 | --- |
@@ -728,7 +728,7 @@ Section 28M
 | *Offences* |
 | **11**.—(1) A person commits an offence if the person—<br>(a) intentionally obstructs a relevant officer in the performance of functions under this Part of this Schedule, or<br>(b) fails without reasonable excuse to comply with a requirement made by a relevant officer in the performance of those functions.<br>(2) A person who provides information in response to a requirement made by a relevant officer in the performance of functions under this Part of this Schedule commits an offence if—<br>(a) the information is false in a material particular, and the person either knows it is or is reckless as to whether it is, or<br>(b) the person intentionally fails to disclose any material particular.<br>(3) A relevant officer may arrest without warrant anyone whom the officer has reasonable grounds for suspecting to be guilty of an offence under this paragraph.<br>(4) A person guilty of an offence under this paragraph is liable on conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding level 3 on the standard scale or to both. |
 
-## SCHEDULE 2 — Extension and modification of the Immigration Act 1988[^key-cd409de05528d89a698f177787fe8a8c]
+## SCHEDULE 2 — Extension and modification of the Immigration Act 1988[^c-cd409de05528d89a698f177787fe8a8c]
 
 Article 4
 
@@ -739,7 +739,7 @@ Article 4
 | Section 12: heading | For “, interpretation, commencement and extent” substitute “and interpretation” |
 | Section 12 | Omit subsections (3), (4) and (5). |
 
-## SCHEDULE 2A — Provisions of the Immigration Act 1988 as extended to Jersey[^key-ab95f385c477d241a67e20f205192b59]
+## SCHEDULE 2A — Provisions of the Immigration Act 1988 as extended to Jersey[^c-ab95f385c477d241a67e20f205192b59]
 
 Article 4
 
@@ -750,7 +750,7 @@ Article 4
 | Short title and interpretation. |
 | **12**.—(1) This Act may be cited as the Immigration Act 1988.<br>(2) In this Act “**the principal Act**” means the Immigration Act 1971 and any expression which is also used in that Act has the same meaning as in that Act. |
 
-## SCHEDULE 3 — Extension and modification of the Asylum and Immigration Appeals Act 1993[^key-e527dd50750ab4284d9cbe1cdf83c4e0]
+## SCHEDULE 3 — Extension and modification of the Asylum and Immigration Appeals Act 1993[^c-e527dd50750ab4284d9cbe1cdf83c4e0]
 
 Article 5
 
@@ -761,7 +761,7 @@ Article 5
 | Section 2: heading | (No modification) |
 | Section 2 | (No modification) |
 
-## SCHEDULE 3A — Provisions of the Asylum and Immigration Appeals Act 1993 as extended to Jersey[^key-6d868b465d94b39de7ab5cbae605a097]
+## SCHEDULE 3A — Provisions of the Asylum and Immigration Appeals Act 1993 as extended to Jersey[^c-6d868b465d94b39de7ab5cbae605a097]
 
 Article 5
 
@@ -772,7 +772,7 @@ Article 5
 | **Primacy of Convention.** |
 | **2**. Nothing in the immigration rules (within the meaning of the 1971 Act) shall lay down any practice which would be contrary to the Convention. |
 
-## SCHEDULE 4 — Extension and modification of the Immigration and Asylum Act 1999[^key-9df99b4063a9555757098bdde894728f]
+## SCHEDULE 4 — Extension and modification of the Immigration and Asylum Act 1999[^c-9df99b4063a9555757098bdde894728f]
 
 Article 6
 
@@ -879,7 +879,7 @@ Article 6
 | --- |
 | *Provision as extended to Jersey* |
 
-### PART I — IMMIGRATION: GENERAL[^key-d093ba55ad461e01baabf66fb45d6e8c]
+### PART I — IMMIGRATION: GENERAL[^c-d093ba55ad461e01baabf66fb45d6e8c]
 
 |  |
 | --- |
@@ -903,7 +903,7 @@ Article 6
 | Defences based on Article 31(1) of the Refugee Convention. |
 | **31**.—(1) It is a defence for a refugee charged with an offence to which this section applies to show that, having come to Jersey directly from a country where his life or freedom was threatened (within the meaning of the Refugee Convention), he—<br>(a) presented himself to the authorities in Jersey without delay;<br>(b) showed good cause for his illegal entry or presence; and<br>(c) made a claim for asylum as soon as was reasonably practicable after his arrival in Jersey.<br>(2) If, in coming from the country where his life or freedom was threatened, the refugee stopped in another country outside Jersey, subsection (1) applies only if he shows that he could not reasonably have expected to be given protection under the Refugee Convention in that other country.<br>(3) The offences to which this section applies are those—<br>(a) of fraud,<br>(b) of uttering a forged document,<br>(c) under section 24A of the 1971 Act (deception), or<br>(d) under section 26(1)(d) of the 1971 Act (falsification of documents),<br>and any attempt to commit any of those offences.<br>(5) A refugee who has made a claim for asylum is not entitled to the defence provided by subsection (1) in relation to any offence committed by him after making that claim.<br>(6) “**Refugee**” has the same meaning as it has for the purposes of the Refugee Convention.<br>(7) If the Minister has refused to grant a claim for asylum made by a person who claims that he has a defence under subsection (1), that person is to be taken not to be a refugee unless he shows that he is.<br>(10) The States may by Regulations amend subsection (3) by adding offences to those for the time being listed there. |
 
-### PART II — CARRIERS’ LIABILITY[^key-5efa2e66cb96505395b76fc618edf71a]
+### PART II — CARRIERS’ LIABILITY[^c-5efa2e66cb96505395b76fc618edf71a]
 
 |  |
 | --- |
@@ -939,7 +939,7 @@ Article 6
 | Interpretation of Part II. |
 | **43**.—(1) In this Part—<br>“**aircraft**” includes hovercraft;<br>“**captain**” means the master of a ship or commander of an aircraft;<br>“**concealed**” includes being concealed in any freight, stores or other thing carried in or on the vehicle, ship or aircraft concerned;<br>“**detached trailer**” means a trailer, semi-trailer, caravan or any other thing which is designed or adapted for towing by a vehicle but which has been detached for transport—<br>(a) in or on the vehicle concerned; or<br>(b) in the ship or aircraft concerned (whether separately or in or on a vehicle);<br>“**equipment**”, in relation to an aircraft, includes—<br>(a) any certificate of registration, maintenance or airworthiness of the aircraft;<br>(b) any log book relating to the use of the aircraft; and<br>(c) any similar document;<br>“**hirer**”, in relation to a vehicle, means any person who has hired the vehicle from another person;<br>“**operating weight**”, in relation to an aircraft, means the maximum total weight of the aircraft and its contents at which the aircraft may take off anywhere in the world, in the most favourable circumstances, in accordance with the certificate of airworthiness in force in respect of the aircraft;<br>“**owner**” includes—<br>(a) in relation to a ship or aircraft, the agent or operator of the ship or aircraft;<br>(b) in relation to a transporter which is the subject of a hire-purchase agreement, the person in possession of it under that agreement;<br>“**penalty notice**” has the meaning given in section 35(2);<br>“**senior officer**” means an immigration officer not below the rank of chief immigration officer;<br>“**ship**” includes every description of vessel used in navigation;<br>“**small aircraft**” means an aircraft which has an operating weight of less than 5,700 kilogrammes;<br>“**small ship**” means a ship which has a gross tonnage of less than 500 tonnes;<br>“**transporter**” means a vehicle, ship or aircraft together with—<br>(a) its equipment; and<br>(b) any stores for use in connection with its operation;<br>“**vehicle**” includes a trailer, semi-trailer, caravan or other thing which is designed or adapted to be towed by another vehicle.<br>(2) A reference in this Part to “**the court**” is a reference to the Petty Debts Court.<br>(3) But the Petty Debts Court may transfer proceedings under this Part to the Royal Court. |
 
-### PART VII — POWER TO ARREST, SEARCH AND FINGERPRINT[^key-b2a0620184dbfe80b898a41cd1371ccd]
+### PART VII — POWER TO ARREST, SEARCH AND FINGERPRINT[^c-b2a0620184dbfe80b898a41cd1371ccd]
 
 |  |
 | --- |
@@ -960,7 +960,7 @@ Article 6
 | Use of force. |
 | **146**.—(1) An immigration officer exercising any power conferred on him by the Immigration Acts may, if necessary, use reasonable force.<br>(2) A person exercising a power under any of the following may if necessary use reasonable force—<br>(a) section 28FB of the 1971 Act (search for personnel records: with warrant),<br>(b) section 141 or 142 of this Act, and<br>(c) Regulations under section 144 of this Act. |
 
-### PART X — MISCELLANEOUS AND SUPPLEMENTAL[^key-bbd078a2d795fe2d804d47aa5b15fe1b]
+### PART X — MISCELLANEOUS AND SUPPLEMENTAL[^c-bbd078a2d795fe2d804d47aa5b15fe1b]
 
 | Regulations and Orders. |
 | --- |
@@ -972,7 +972,7 @@ Article 6
 | Short title. |
 | **170**. This Act may be cited as the Immigration and Asylum Act 1999. |
 
-## SCHEDULE 1 — SALE OF TRANSPORTERS[^key-4559512c19debd992d83c1ce9eccae3e]
+## SCHEDULE 1 — SALE OF TRANSPORTERS[^c-4559512c19debd992d83c1ce9eccae3e]
 
 Section 37(6)
 
@@ -989,7 +989,7 @@ Section 37(6)
 | *Application of proceeds of sale* |
 | **5**.—(1) Any proceeds of sale arising from a sale under section 37 must be applied—<br>(a) in making prescribed payments; and<br>(b) in accordance with such provision as to priority of payments as may be prescribed.<br>(2) The Order may, in particular, provide for proceeds of sale to be applied in payment—<br>(a) of customs or excise duty,<br>(b) of goods and services tax,<br>(c) of expenses incurred by the Minister,<br>(d) of any penalty which the court has found to be due,<br>(f) of any surplus to or among the person or persons whose interests in the transporter have been divested as a result of the sale,<br>but not necessarily in that order of priority. |
 
-## SCHEDULE 15 — TRANSITIONAL PROVISIONS AND SAVINGS[^key-1c9fb8c42674b7ba12a84f257ea84171]
+## SCHEDULE 15 — TRANSITIONAL PROVISIONS AND SAVINGS[^c-1c9fb8c42674b7ba12a84f257ea84171]
 
 Section 169(2)
 
@@ -998,7 +998,7 @@ Section 169(2)
 | *Leave to enter or remain* |
 | **1**.—(1) An Order made under section 3A of the 1971 Act may make provision with respect to leave given before the commencement of section 1.<br>(2) An Order made under section 3B of the 1971 Act may make provision with respect to leave given before the commencement of section 2.<br>(3) In this paragraph “**commencement**” means commencement in accordance with the Immigration (Jersey) Order 2021. |
 
-## SCHEDULE 5 — Extension and modification of the Nationality, Immigration and Asylum Act 2002[^key-f092ce2b5bf2b6cd9476ad0c99974c3b]
+## SCHEDULE 5 — Extension and modification of the Nationality, Immigration and Asylum Act 2002[^c-f092ce2b5bf2b6cd9476ad0c99974c3b]
 
 Article 7
 
@@ -1070,13 +1070,13 @@ Article 7
 | --- |
 | *Provision as extended to Jersey* |
 
-### PART 1 — NATIONALITY[^key-9c74a98100597765569b94c6cb68e8d6]
+### PART 1 — NATIONALITY[^c-9c74a98100597765569b94c6cb68e8d6]
 
 | Right of abode: certificate of entitlement. |
 | --- |
 | **10**.—(1) The Minister may by Order make provision for the issue to a person of a certificate that he has the right of abode in Jersey.<br>(2) An Order may, in particular—<br>(a) specify to whom an application must be made;<br>(b) specify the place (which may be outside Jersey) to which an application must be sent;<br>(c) provide that an application must be accompanied by specified information;<br>(d) provide that an application must be accompanied by specified documents;<br>(e) specify the consequences of failure to comply with a requirement under any of paragraphs (a) to (d) above;<br>(f) provide for a certificate to cease to have effect after a period of time specified in or determined in accordance with the Order;<br>(g) make provision about the revocation of a certificate.<br>(3) An Order may—<br>(a) make provision which applies generally or only in specified cases or circumstances;<br>(b) make different provision for different purposes;<br>(c) include consequential, incidental or transitional provision.<br>(4) An Order under this section may, in particular, include provision saving, with or without modification, the effect of a certificate which is issued before the Order come into force. |
 
-### PART 4 — DETENTION AND REMOVAL[^key-3b6e9d831a9760ffe3f971fab05dfd88]
+### PART 4 — DETENTION AND REMOVAL[^c-3b6e9d831a9760ffe3f971fab05dfd88]
 
 |  |
 | --- |
@@ -1093,13 +1093,13 @@ Article 7
 | No removal while claim for asylum pending. |
 | **77**.—(1) While a person’s claim for asylum is pending he may not be—<br>(a) removed from Jersey in accordance with a provision of the Immigration Acts, or<br>(b) required to leave Jersey in accordance with a provision of the Immigration Acts.<br>(2) In this section—<br>(a) “**claim for asylum**” means a claim by a person that it would be contrary to the obligations by which Jersey is bound under the Refugee Convention to remove him from or require him to leave Jersey, and<br>(b) a person’s claim is pending until he is given notice of the Minister’s decision on it.<br>(3) In subsection (2) “**the Refugee Convention**” means the Convention relating to the Status of Refugees done at Geneva on 28th July 1951 and its Protocol.<br>(4) Nothing in this section shall prevent any of the following while a claim for asylum is pending—<br>(a) the giving of a direction for the claimant’s removal from Jersey,<br>(b) the making of a deportation order in respect of the claimant, or<br>(c) the taking of any other interim or preparatory action. |
 
-### PART 5 — IMMIGRATION AND ASYLUM: LISTED STATES[^key-06354e354bb7cc396679d4bc8083ea24]
+### PART 5 — IMMIGRATION AND ASYLUM: LISTED STATES[^c-06354e354bb7cc396679d4bc8083ea24]
 
 | European Common List of Safe Countries of Origin. |
 | --- |
 | **113**.—(1) In this section “**listed State**” means a State for the time being on the list of States prescribed by the Secretary of State by order under section 94A of this Act in the United Kingdom.<br>(2) Subsection (3) applies where a person makes a protection claim or a human rights claim (or both) and that person is–<br>(a) a national of a listed State, or<br>(b) a Stateless person who was formerly habitually resident in a listed State.<br>(3) The Minister shall consider the claim or claims mentioned in subsection (2) to be unfounded unless satisfied that there are serious grounds for considering that the State in question is not safe in the particular circumstances of the person mentioned in that subsection.<br>(4) In this section—<br>“**human rights claim**” means a claim made by a person to the Minister that to remove the person from or require him to leave Jersey or to refuse him entry into Jersey would be unlawful under Article 7 of the Human Rights (Jersey) Law 2000 (public authority not to act contrary to Convention);<br>“**the Human Rights Convention**” has the same meaning as “**the Convention**” in the Human Rights (Jersey) Law 2000 and “**Convention rights**” shall be construed in accordance with section 1 of that Law;<br>“**immigration rules**” means rules under section 1(4) of the Immigration Act 1971 (general immigration rules);<br>“**protection claim**” means a claim made by a person (“**P**”) that removal of P from Jersey—<br>(a) would breach obligations by which Jersey is bound under the Refugee Convention, or<br>(b) would breach obligations by which Jersey is bound in relation to persons eligible for a grant of humanitarian protection;<br>“**the Refugee Convention**” means the Convention relating to the Status of Refugees done at Geneva on 28th July 1951 and its Protocol. |
 
-### PART 5A — ARTICLE 8 OF THE ECHR: PUBLIC INTEREST CONSIDERATIONS[^key-29a7c6f2b8dbe32509fe2c6968c43486]
+### PART 5A — ARTICLE 8 OF THE ECHR: PUBLIC INTEREST CONSIDERATIONS[^c-29a7c6f2b8dbe32509fe2c6968c43486]
 
 | Application of this Part. |
 | --- |
@@ -1111,7 +1111,7 @@ Article 7
 | Interpretation of this Part. |
 | **117D**.—(1) In this Part—<br>“**Article 8**” means Article 8 of the European Convention on Human Rights;<br>“**qualifying child**” means a person who is under the age of 18 and who-<br>(a) is a British citizen, or<br>(b) has lived in Jersey for a continuous period of seven years or more;<br>“**qualifying partner**” means a partner who—<br>(a) is a British citizen, or<br>(b) who is settled in Jersey (within the meaning of the Immigration Act 1971 - see section 33(2A) of that Act).<br>(2) In this Part, “**foreign criminal**” means a person—<br>(a) who is not a British citizen,<br>(b) who has been convicted in Jersey of an offence, and<br>(c) who—<br>(i) has been sentenced to a period of imprisonment of at least 12 months,<br>(ii) has been convicted of an offence that has caused serious harm, or<br>(iii) is a persistent offender.<br>(4) In this Part, references to a person who has been sentenced to a period of imprisonment of a certain length of time—<br>(a) do not include a person who has received a suspended sentence (unless a court subsequently orders that the sentence or any part of it (of whatever length) is to take effect);<br>(b) do not include a person who has been sentenced to a period of imprisonment of that length of time only by virtue of being sentenced to consecutive sentences amounting in aggregate to that length of time;<br>(c) include a person who is sentenced to detention, or ordered or directed to be detained, in an institution other than a prison (including, in particular, a hospital or an institution for young offenders) for that length of time; and<br>(d) include a person who is sentenced to imprisonment or detention, or ordered or directed to be detained, for an indeterminate period, provided that it may last for at least that length of time.<br>(5) If any question arises for the purposes of this Part as to whether a person is a British citizen, it is for the person asserting that fact to prove it. |
 
-### PART 6 — IMMIGRATION PROCEDURE[^key-f7381a9b46fa3af95b0bd8bb9d84ca32]
+### PART 6 — IMMIGRATION PROCEDURE[^c-f7381a9b46fa3af95b0bd8bb9d84ca32]
 
 |  |
 | --- |
@@ -1135,13 +1135,13 @@ Article 7
 | Privilege against self-incrimination. |
 | **139**.—(1) Information provided by a person pursuant to a requirement under section 134 shall not be admissible in evidence in criminal proceedings against that person.<br>(2) This section shall not apply to proceedings for an offence under section 137. |
 
-### PART 7 — OFFENCES[^key-4dd04c43dcbe8011cca412d4f52deb7f]
+### PART 7 — OFFENCES[^c-4dd04c43dcbe8011cca412d4f52deb7f]
 
 | Traffic in prostitution. |
 | --- |
 | **145**.—(1) A person commits an offence if he arranges or facilitates the arrival in Jersey of an individual (the “passenger”) and—<br>(a) he intends to exercise control over prostitution by the passenger in Jersey or elsewhere, or<br>(b) he believes that another person is likely to exercise control over prostitution by the passenger in Jersey or elsewhere.<br>(2) A person commits an offence if he arranges or facilitates travel within Jersey by an individual (the “passenger”) in respect of whom he believes that an offence under subsection (1) may have been committed and—<br>(a) he intends to exercise control over prostitution by the passenger in Jersey or elsewhere, or<br>(b) he believes that another person is likely to exercise control over prostitution by the passenger in Jersey or elsewhere.<br>(3) A person commits an offence if he arranges or facilitates the departure from Jersey of an individual (the “passenger”) and—<br>(a) he intends to exercise control over prostitution by the passenger outside Jersey, or<br>(b) he believes that another person is likely to exercise control over prostitution by the passenger outside Jersey.<br>(4) For the purposes of subsections (1) to (3) a person exercises control over prostitution by another if for purposes of gain he exercises control, direction or influence over the prostitute’s movements in a way which shows that he is aiding, abetting or compelling the prostitution.<br>(5) A person guilty of an offence under this section shall be liable on conviction to imprisonment for a term not exceeding 14 years, to a fine or to both. |
 
-### PART 8 — GENERAL[^key-cc42c627df76f6c6f9b81c7fd5ee4757]
+### PART 8 — GENERAL[^c-cc42c627df76f6c6f9b81c7fd5ee4757]
 
 | Consequential and incidental provision. |
 | --- |
@@ -1151,7 +1151,7 @@ Article 7
 | Short title. |
 | **164**. This Act may be cited as the Nationality, Immigration and Asylum Act 2002. |
 
-## SCHEDULE 6 — Extension and modification of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004[^key-d99c414bae69b09cafcfe8de0eeaeafb]
+## SCHEDULE 6 — Extension and modification of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004[^c-d99c414bae69b09cafcfe8de0eeaeafb]
 
 Article 8
 
@@ -1194,7 +1194,7 @@ Article 8
 | Schedule 3, paragraph 17 | For “This Part” substitute “Paragraph 18”.<br>For “Secretary of State” substitute “Minister”.<br>For “Secretary of State’s” in both paces substitute “Minister’s”. |
 | Schedule 3, paragraph 17 | For “Part” substitute “paragraph”. |
 
-## SCHEDULE 6A — Provisions of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 as extended to Jersey[^key-633c598f97b5ca63c0b2712d00a5a7cc]
+## SCHEDULE 6A — Provisions of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 as extended to Jersey[^c-633c598f97b5ca63c0b2712d00a5a7cc]
 
 Article 8
 
@@ -1223,7 +1223,7 @@ Article 8
 | Short title. |
 | **50**. This Act may be cited as the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004. |
 
-## SCHEDULE 3 — REMOVAL OF ASYLUM SEEKER TO SAFE COUNTRY[^key-756aaffad15e4768929eb43e1a0ae7c6]
+## SCHEDULE 3 — REMOVAL OF ASYLUM SEEKER TO SAFE COUNTRY[^c-756aaffad15e4768929eb43e1a0ae7c6]
 
 Section 33
 
@@ -1241,7 +1241,7 @@ Section 33
 | **17**. Paragraph 18 applies to a person who has made an asylum claim if the Minister certifies that–<br>(a) it is proposed to remove the person to a specified State,<br>(b) in the Minister’s opinion the person is not a national or citizen of the specified State, and<br>(c) in the Minister’s opinion the specified State is a place–<br>(i) where the person’s life and liberty will not be threatened by reason of his race, religion, nationality, membership of a particular social group or political opinion, and<br>(ii) from which the person will not be sent to another State otherwise than in accordance with the Refugee Convention. |
 | **18**. Where this paragraph applies to a person section 77 of the Nationality, Immigration and Asylum Act 2002 (no removal while claim for asylum pending) shall not prevent his removal to the State specified under paragraph 17. |
 
-## SCHEDULE 7 — Immigration, Asylum and Nationality Act 2006[^key-f60f5dbc37a750a87817c7a080b958a6]
+## SCHEDULE 7 — Immigration, Asylum and Nationality Act 2006[^c-f60f5dbc37a750a87817c7a080b958a6]
 
 Article 9
 
@@ -1276,7 +1276,7 @@ Article 9
 | Section 64: heading | (No modification) |
 | Section 64 | In subsection (1) omit “—(1)”.<br>Omit subsections (2), (3) and (4). |
 
-## SCHEDULE 7A — Provisions of the Immigration, Asylum and Nationality Act 2006 as extended to Jersey[^key-a274e02529ebd266a7e105ce8bd04ad3]
+## SCHEDULE 7A — Provisions of the Immigration, Asylum and Nationality Act 2006 as extended to Jersey[^c-a274e02529ebd266a7e105ce8bd04ad3]
 
 Article 9
 
@@ -1311,7 +1311,7 @@ Article 9
 | Citation. |
 | **64**. This Act may be cited as the Immigration, Asylum and Nationality Act 2006. |
 
-## SCHEDULE 8 — UK Borders Act 2007[^key-b541c5349be694569af9feb020624bba]
+## SCHEDULE 8 — UK Borders Act 2007[^c-b541c5349be694569af9feb020624bba]
 
 Article 10
 
@@ -1375,7 +1375,7 @@ Article 10
 | Section 61: heading | (No modification) |
 | Section 61 | Omit subsection (2). |
 
-## SCHEDULE 8A — Provisions of the UK Borders Act 2007 as extended to Jersey[^key-7f1c52570ea7d3f664c4cba5916bdd2a]
+## SCHEDULE 8A — Provisions of the UK Borders Act 2007 as extended to Jersey[^c-7f1c52570ea7d3f664c4cba5916bdd2a]
 
 Article 10
 
@@ -1439,7 +1439,7 @@ Article 10
 | Citation. |
 | **61**.—(1) This Act may be cited as the UK Borders Act 2007. |
 
-## SCHEDULE 9 — Borders, Citizenship and Immigration Act 2009[^key-8305a2d7fc045ce8b25f031caa796a47]
+## SCHEDULE 9 — Borders, Citizenship and Immigration Act 2009[^c-8305a2d7fc045ce8b25f031caa796a47]
 
 Article 11
 
@@ -1454,7 +1454,7 @@ Article 11
 | Section 59: heading | (No modification) |
 | Section 59 | (No modification) |
 
-## SCHEDULE 9A — Provisions of the Borders, Citizenship and Immigration Act 2009 as extended to Jersey[^key-5c5e24b402620d4624d313f798c34f0e]
+## SCHEDULE 9A — Provisions of the Borders, Citizenship and Immigration Act 2009 as extended to Jersey[^c-5c5e24b402620d4624d313f798c34f0e]
 
 Article 11
 
@@ -1469,7 +1469,7 @@ Article 11
 | Short title. |
 | **59**. This Act may be cited as the Borders, Citizenship and Immigration Act 2009. |
 
-## SCHEDULE 10 — Immigration Act 2014[^key-e88467aaf7ee86b9d6dbcf90e4fa562d]
+## SCHEDULE 10 — Immigration Act 2014[^c-e88467aaf7ee86b9d6dbcf90e4fa562d]
 
 Article 12
 
@@ -1495,7 +1495,7 @@ Article 12
 | Section 77 | (No modification) |
 |  |  |
 
-## SCHEDULE 10A — Provisions of the Immigration Act 2014 as extended to Jersey[^key-45dcb75668521de2f8df1fd81c66de1c]
+## SCHEDULE 10A — Provisions of the Immigration Act 2014 as extended to Jersey[^c-45dcb75668521de2f8df1fd81c66de1c]
 
 Article 12
 
@@ -1520,7 +1520,7 @@ Article 12
 | Short title. |
 | **77**. This Act may be cited as the Immigration Act 2014. |
 
-## SCHEDULE 11 — Counter-Terrorism and Security Act 2015[^key-855620c03c01d19ee8ad724bb63847bd]
+## SCHEDULE 11 — Counter-Terrorism and Security Act 2015[^c-855620c03c01d19ee8ad724bb63847bd]
 
 Article 13
 
@@ -1692,7 +1692,7 @@ Article 13
 | Chapter 2: interpretation. |
 | **14**.—(1) This section applies for the purposes of this Chapter.<br>(2) These expressions have the meanings given –<br>“act” and “conduct” include omissions and statements;<br>“**act of terrorism**” includes anything constituting an action taken for the purposes of terrorism, within the meaning of the Terrorism (Jersey) Law 2002 (see Article 1 of that Law);<br>“condition A”, “condition B”, “condition C”, “condition D” or “**condition E**” means that condition as set out in section 2;<br>“**the Minister**” means the Minister for Home Affairs;<br>“**permit to return**” has the meaning given in section 5;<br>“**temporary exclusion order**” has the meaning given in section 2;<br>“**terrorism**” has the same meaning as in the Terrorism (Jersey) Law 2002 (see Article 1 of that Law).<br>(3) An individual is –<br>(a) subject to a temporary exclusion order if a temporary exclusion order is in force in relation to the individual; and<br>(b) subject to an obligation imposed under section 9 if an obligation is imposed on the individual by a notice in force under that section.<br>(4) Involvement in terrorism-related activity is any one or more of the following –<br>(a) the commission, preparation or instigation of acts of terrorism;<br>(b) conduct that facilitates the commission, preparation or instigation of such acts, or is intended to do so;<br>(c) conduct that gives encouragement to the commission, preparation or instigation of such acts, or is intended to do so;<br>(d) conduct that gives support or assistance to individuals who are known or believed by the individual concerned to be involved in conduct falling within paragraph (a).<br>It is immaterial whether the acts of terrorism in question are specific acts of terrorism or acts of terrorism in general.<br>(5) It is immaterial whether an individual’s involvement in terrorism-related activity occurs before or after the coming into force of section 2.<br>(6) References to an individual’s return to Jersey include, in the case of an individual who has never been in Jersey, a reference to the individual’s coming to Jersey for the first time.<br>(7) References to deportation include references to any other kind of expulsion. |
 
-### PART 4 — AVIATION AND SHIPPING[^key-1442f7d1c6ef03a8ec6cfa9288f5fd87]
+### PART 4 — AVIATION AND SHIPPING[^c-1442f7d1c6ef03a8ec6cfa9288f5fd87]
 
 | Authority-to-carry schemes. |
 | --- |
@@ -1704,7 +1704,7 @@ Article 13
 | Short title. |
 | **53**. This Act may be cited as the Counter-Terrorism and Security Act 2015. |
 
-## SCHEDULE 1 — SEIZURE OF PASSPORTS ETC FROM PERSONS SUSPECTED OF INVOLVEMENT IN TERRORISM[^key-0f250355f93a1d4ab4b997675119300c]
+## SCHEDULE 1 — SEIZURE OF PASSPORTS ETC FROM PERSONS SUSPECTED OF INVOLVEMENT IN TERRORISM[^c-0f250355f93a1d4ab4b997675119300c]
 
 Section 1
 
@@ -1738,7 +1738,7 @@ Section 1
 | **18**.—(1) The Minister must issue a code of practice with regard to the exercise of functions under this Schedule.<br>(2) The code of practice must in particular deal with the following matters –<br>(a) the procedure for making designations under paragraphs 1(4) and 17;<br>(b) training to be undertaken by persons who are to exercise powers under this Schedule;<br>(c) the exercise by police officers, immigration officers and customs officials of functions conferred on them by virtue of this Schedule;<br>(d) information to be given to a person in whose case a power under this Schedule is exercised;<br>(e) how and when that information is to be given;<br>(f) reviews under paragraph 6.<br>(3) A police officer, immigration officer or customs official must perform functions conferred on him or her by virtue of this Schedule in accordance with any relevant provision included in the code by virtue of sub-paragraph (2)(c) to (e).<br>(4) The failure by a police officer, immigration officer or customs official to observe any such provision does not of itself make him or her liable to criminal or civil proceedings.<br>(5) The code of practice –<br>(a) is admissible in evidence in criminal and civil proceedings;<br>(b) is to be taken into account by a court or tribunal in any case in which it appears to the court or tribunal to be relevant. |
 | **20**. The Minister may revise the code of practice and issue the revised code. |
 
-## SCHEDULE 2 — URGENT TEMPORARY EXCLUSION ORDERS: REFERENCE TO THE COURT ETC[^key-eeeec3ba232aa427ed4a8e029648a0f8]
+## SCHEDULE 2 — URGENT TEMPORARY EXCLUSION ORDERS: REFERENCE TO THE COURT ETC[^c-eeeec3ba232aa427ed4a8e029648a0f8]
 
 Section 3
 
@@ -1757,7 +1757,7 @@ Section 3
 | *Interpretation* |
 | **6**.—(1) References in this Schedule to the urgency condition being met are references to condition E being met by virtue of section 2(7)(b) (urgency of the case requires a temporary exclusion order to be imposed without obtaining the permission of the Royal Court).<br>(2) In this Schedule “**the urgent case decisions**” means the relevant decisions and the decision that the urgency condition is met.<br>(3) In this Schedule “**the relevant decisions**” means the decisions that the following conditions are met –<br>(a) condition A;<br>(b) condition B;<br>(c) condition C;<br>(d) condition D. |
 
-## SCHEDULE 3 — TEMPORARY EXCLUSION ORDERS: PROCEEDINGS[^key-4c03d3564a060ebc622b7277dc6d024a]
+## SCHEDULE 3 — TEMPORARY EXCLUSION ORDERS: PROCEEDINGS[^c-4c03d3564a060ebc622b7277dc6d024a]
 
 Section 12
 
@@ -1781,7 +1781,7 @@ Section 12
 | *Relationship with other powers to make rules of court and other proceedings* |
 | **11**. Nothing in this Schedule is to be read as restricting the power to make rules of court or the matters to be taken into account when doing so. |
 
-## SCHEDULE 4 — TEMPORARY EXCLUSION ORDERS: APPEALS AGAINST CONVICTIONS[^key-18f70b4f927a43fb70ba4b71ee35464e]
+## SCHEDULE 4 — TEMPORARY EXCLUSION ORDERS: APPEALS AGAINST CONVICTIONS[^c-18f70b4f927a43fb70ba4b71ee35464e]
 
 Section 12
 
@@ -1796,7 +1796,7 @@ Section 12
 | *The appeal* |
 | **4**.—(1) On an appeal under this Schedule to any court, that court must allow the appeal and quash the conviction.<br>(2) An appeal under this Schedule to the Court of Appeal against a conviction before the Royal Court –<br>(a) may be brought irrespective of whether the appellant has previously appealed against the conviction;<br>(b) may not be brought after the end of the period of 28 days beginning with the day on which the right of appeal arises by virtue of paragraph 3; and<br>(c) is to be treated as an appeal under Article 24 of the Court of Appeal (Jersey) Law 1961, but does not require leave.<br>(5) An appeal under this Schedule to the Royal Court against a conviction before the Magistrate’s Court –<br>(a) may be brought irrespective of whether the appellant pleaded guilty;<br>(b) may be brought irrespective of whether the appellant has previously appealed against the conviction or made an application in respect of the conviction under Article 37 of the Criminal Procedure (Jersey) Law 2018 (case stated);<br>(c) may not be brought after the end of the period of 21 days beginning with the day on which the right of appeal arises by virtue of paragraph 3; and<br>(d) is to be treated as an appeal under Article 33(2)(b) or (c) of that Law. |
 
-## SCHEDULE 12 — Immigration Act 2016[^key-549320854d86f3fe7c711448b93cd997]
+## SCHEDULE 12 — Immigration Act 2016[^c-549320854d86f3fe7c711448b93cd997]
 
 Article 14
 
@@ -1840,7 +1840,7 @@ Article 14
 | --- |
 | *Provision as extended to Jersey* |
 
-### PART 3 — ENFORCEMENT[^key-b07e57e8745f93b794e8912e1cad567b]
+### PART 3 — ENFORCEMENT[^c-b07e57e8745f93b794e8912e1cad567b]
 
 |  |
 | --- |
@@ -1869,7 +1869,7 @@ Article 14
 | Power to charge for passport validation services. |
 | **88**.—(1) The Minister may charge a fee in respect of the provision of passport validation services to persons on request.<br>(2) “Passport validation services” are services in connection with confirming the validity of United Kingdom passports or the accuracy of the information contained in them which are provided for the purpose of preventing or detecting crime.<br>(3) In this section “**United Kingdom passport**” has the same meaning as in the Immigration Act 1971 (see section 33 of that Act).<br>(4) A fee payable under this section may be recovered as a debt due to the Minister.<br>(5) Fees paid to the Minister under this section shall form part of the annual income of the States.<br>(6) This section is without prejudice to any other power to charge a fee. |
 
-### PART 9 — MISCELLANEOUS AND GENERAL[^key-05725324a7c46dfdee5ddeb7fec2678d]
+### PART 9 — MISCELLANEOUS AND GENERAL[^c-05725324a7c46dfdee5ddeb7fec2678d]
 
 |  |
 | --- |
@@ -1908,7 +1908,7 @@ The Order revokes and replaces the Immigration (Jersey) Order 1993 ([S.I. 1993/1
 
 ## Annotations
 
-[^key-7f9e01ab59f2451b25605e5347c21299]: Commencement: Art. 1 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-7f9e01ab59f2451b25605e5347c21299]: Commencement: Art. 1 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
 [^f00001]: Footnote: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77).
 
@@ -1950,33 +1950,33 @@ The Order revokes and replaces the Immigration (Jersey) Order 1993 ([S.I. 1993/1
 
 [^f00020]: Footnote: Revised Edition Chapter 08.360
 
-[^key-92d7b50061d19a0a8d726bd315f0f778]: Commencement: Art. 2 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-92d7b50061d19a0a8d726bd315f0f778]: Commencement: Art. 2 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-e6daa2715ed26c21fcaf649ece866fd5]: Commencement: Art. 3 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-e6daa2715ed26c21fcaf649ece866fd5]: Commencement: Art. 3 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-1806c879a790fbe3da77cafe9f9c5526]: Commencement: Art. 4 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-1806c879a790fbe3da77cafe9f9c5526]: Commencement: Art. 4 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-4c99fe021e0b6fbbc404089447b977ed]: Commencement: Art. 5 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-4c99fe021e0b6fbbc404089447b977ed]: Commencement: Art. 5 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-8e593a6638562cab14f08ade3a907065]: Commencement: Art. 6 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-8e593a6638562cab14f08ade3a907065]: Commencement: Art. 6 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-b3e1d5223dd34aa8d78f68e47375b942]: Commencement: Art. 7 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-b3e1d5223dd34aa8d78f68e47375b942]: Commencement: Art. 7 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-ba4e56079305d4a103e67b7d97553b90]: Commencement: Art. 8 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-ba4e56079305d4a103e67b7d97553b90]: Commencement: Art. 8 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-920070fc435f1b41fc719208dbec2baa]: Commencement: Art. 9 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-920070fc435f1b41fc719208dbec2baa]: Commencement: Art. 9 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-77897a34977df67e1f4a1a3408874f9b]: Commencement: Art. 10 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-77897a34977df67e1f4a1a3408874f9b]: Commencement: Art. 10 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-eb245f89df2565595414317a02366b9a]: Commencement: Art. 11 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-eb245f89df2565595414317a02366b9a]: Commencement: Art. 11 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-527f10e7620f0e503f13d592edd5daae]: Commencement: Art. 12 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-527f10e7620f0e503f13d592edd5daae]: Commencement: Art. 12 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-51f47a9d413aba3dba06a86c39a32d7c]: Commencement: Art. 13 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-51f47a9d413aba3dba06a86c39a32d7c]: Commencement: Art. 13 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-74c98bab25672334ca8fbf59f931b846]: Commencement: Art. 14 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-74c98bab25672334ca8fbf59f931b846]: Commencement: Art. 14 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-b49d2cb55ec72becdb54459cc24e1135]: Commencement: Art. 15 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-b49d2cb55ec72becdb54459cc24e1135]: Commencement: Art. 15 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
 [^f00021]: Footnote: [S.I. 1993/1797](https://www.legislation.gov.uk/uksi/1993/1797).
 
@@ -2002,7 +2002,7 @@ The Order revokes and replaces the Immigration (Jersey) Order 1993 ([S.I. 1993/1
 
 [^f00032]: Footnote: [S.I. 2020/1566](https://www.legislation.gov.uk/uksi/2020/1566).
 
-[^key-c8b56ee1208b1d1a18b6802c02c4bfe9]: Commencement: Art. 16 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-c8b56ee1208b1d1a18b6802c02c4bfe9]: Commencement: Art. 16 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
 [^f00033]: Footnote: MINISTERIAL DECISION REFERENCE: MD-HA-2019-0035
 
@@ -2024,100 +2024,100 @@ The Order revokes and replaces the Immigration (Jersey) Order 1993 ([S.I. 1993/1
 
     https://www.gov.je/SiteCollectionDocuments/Life%20events/ID%20Immigration%20%28Leave%20to%20Enter%20and%20Remain%29%20%28Grace%20Period%29%20%28Jersey%29%20Directions%202020%2020210111%20CB.pdf (Accessed 13 July 2021).
 
-[^key-5d585ceeef13eb5adf3c914bbdd59de5]: Commencement: Sch. 1n1 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-5d585ceeef13eb5adf3c914bbdd59de5]: Commencement: Sch. 1n1 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-c622d12f9d58c27f591734e953945b9f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/1281/schedule/1) table substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
+[^c-c622d12f9d58c27f591734e953945b9f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/1281/schedule/1) table substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
 
-[^key-154ce573f8fdb3e054eef75da5e3fc8d]: Commencement: Sch. 1A Pt. I comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-154ce573f8fdb3e054eef75da5e3fc8d]: Commencement: Sch. 1A Pt. I comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-11b3549b6828778a58971751c8de6c5f]: Commencement: Sch. 1A Pt. III comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-11b3549b6828778a58971751c8de6c5f]: Commencement: Sch. 1A Pt. III comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-269fc4cf104073982aa5c16d47109317]: Commencement: Sch. 1A Pt. 3A comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-269fc4cf104073982aa5c16d47109317]: Commencement: Sch. 1A Pt. 3A comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-7b39e15341d52b125f6eaa4554131ccb]: Commencement: Sch. 1A Pt. IV comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-7b39e15341d52b125f6eaa4554131ccb]: Commencement: Sch. 1A Pt. IV comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-e0a87793cf2b168da20a54dbabd76d97]: Commencement: Sch. 2 Pt. I comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-e0a87793cf2b168da20a54dbabd76d97]: Commencement: Sch. 2 Pt. I comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-2a9310fc3280020ef3e3be1d7b7f1318]: Commencement: Sch. 3n1 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-2a9310fc3280020ef3e3be1d7b7f1318]: Commencement: Sch. 3n1 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-af47f3496e3c111721bd06865b9a3833]: Commencement: Sch. 4n1 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-af47f3496e3c111721bd06865b9a3833]: Commencement: Sch. 4n1 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-3ad32776734941da6518c69ed297905b]: Commencement: Sch. 4A Pt. 1 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-3ad32776734941da6518c69ed297905b]: Commencement: Sch. 4A Pt. 1 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-cd409de05528d89a698f177787fe8a8c]: Commencement: Sch. 2n2 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-cd409de05528d89a698f177787fe8a8c]: Commencement: Sch. 2n2 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-ab95f385c477d241a67e20f205192b59]: Commencement: Sch. 2A comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-ab95f385c477d241a67e20f205192b59]: Commencement: Sch. 2A comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-e527dd50750ab4284d9cbe1cdf83c4e0]: Commencement: Sch. 3n2 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-e527dd50750ab4284d9cbe1cdf83c4e0]: Commencement: Sch. 3n2 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-6d868b465d94b39de7ab5cbae605a097]: Commencement: Sch. 3A comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-6d868b465d94b39de7ab5cbae605a097]: Commencement: Sch. 3A comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-9df99b4063a9555757098bdde894728f]: Commencement: Sch. 4n2 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-9df99b4063a9555757098bdde894728f]: Commencement: Sch. 4n2 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-d093ba55ad461e01baabf66fb45d6e8c]: Commencement: Sch. 4A Pt. I comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-d093ba55ad461e01baabf66fb45d6e8c]: Commencement: Sch. 4A Pt. I comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-5efa2e66cb96505395b76fc618edf71a]: Commencement: Sch. 4A Pt. II comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-5efa2e66cb96505395b76fc618edf71a]: Commencement: Sch. 4A Pt. II comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-b2a0620184dbfe80b898a41cd1371ccd]: Commencement: Sch. 4A Pt. VII comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-b2a0620184dbfe80b898a41cd1371ccd]: Commencement: Sch. 4A Pt. VII comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-bbd078a2d795fe2d804d47aa5b15fe1b]: Commencement: Sch. 4A Pt. X comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-bbd078a2d795fe2d804d47aa5b15fe1b]: Commencement: Sch. 4A Pt. X comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-4559512c19debd992d83c1ce9eccae3e]: Commencement: Sch. 1n2 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-4559512c19debd992d83c1ce9eccae3e]: Commencement: Sch. 1n2 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-1c9fb8c42674b7ba12a84f257ea84171]: Commencement: Sch. 15 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-1c9fb8c42674b7ba12a84f257ea84171]: Commencement: Sch. 15 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-f092ce2b5bf2b6cd9476ad0c99974c3b]: Commencement: Sch. 5 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-f092ce2b5bf2b6cd9476ad0c99974c3b]: Commencement: Sch. 5 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-9c74a98100597765569b94c6cb68e8d6]: Commencement: Sch. 5A Pt. 1 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-9c74a98100597765569b94c6cb68e8d6]: Commencement: Sch. 5A Pt. 1 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-3b6e9d831a9760ffe3f971fab05dfd88]: Commencement: Sch. 5A Pt. 4 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-3b6e9d831a9760ffe3f971fab05dfd88]: Commencement: Sch. 5A Pt. 4 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-06354e354bb7cc396679d4bc8083ea24]: Commencement: Sch. 5A Pt. 5 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-06354e354bb7cc396679d4bc8083ea24]: Commencement: Sch. 5A Pt. 5 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-29a7c6f2b8dbe32509fe2c6968c43486]: Commencement: Sch. 5A Pt. 5A comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-29a7c6f2b8dbe32509fe2c6968c43486]: Commencement: Sch. 5A Pt. 5A comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-f7381a9b46fa3af95b0bd8bb9d84ca32]: Commencement: Sch. 5A Pt. 6 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-f7381a9b46fa3af95b0bd8bb9d84ca32]: Commencement: Sch. 5A Pt. 6 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-4dd04c43dcbe8011cca412d4f52deb7f]: Commencement: Sch. 5A Pt. 7 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-4dd04c43dcbe8011cca412d4f52deb7f]: Commencement: Sch. 5A Pt. 7 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-cc42c627df76f6c6f9b81c7fd5ee4757]: Commencement: Sch. 5A Pt. 8 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-cc42c627df76f6c6f9b81c7fd5ee4757]: Commencement: Sch. 5A Pt. 8 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-d99c414bae69b09cafcfe8de0eeaeafb]: Commencement: Sch. 6 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-d99c414bae69b09cafcfe8de0eeaeafb]: Commencement: Sch. 6 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-633c598f97b5ca63c0b2712d00a5a7cc]: Commencement: Sch. 6A comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-633c598f97b5ca63c0b2712d00a5a7cc]: Commencement: Sch. 6A comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-756aaffad15e4768929eb43e1a0ae7c6]: Commencement: Sch. 3n3 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-756aaffad15e4768929eb43e1a0ae7c6]: Commencement: Sch. 3n3 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-f60f5dbc37a750a87817c7a080b958a6]: Commencement: Sch. 7 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-f60f5dbc37a750a87817c7a080b958a6]: Commencement: Sch. 7 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-a274e02529ebd266a7e105ce8bd04ad3]: Commencement: Sch. 7A comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-a274e02529ebd266a7e105ce8bd04ad3]: Commencement: Sch. 7A comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-b541c5349be694569af9feb020624bba]: Commencement: Sch. 8 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-b541c5349be694569af9feb020624bba]: Commencement: Sch. 8 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-7f1c52570ea7d3f664c4cba5916bdd2a]: Commencement: Sch. 8A comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-7f1c52570ea7d3f664c4cba5916bdd2a]: Commencement: Sch. 8A comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-8305a2d7fc045ce8b25f031caa796a47]: Commencement: Sch. 9 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-8305a2d7fc045ce8b25f031caa796a47]: Commencement: Sch. 9 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-5c5e24b402620d4624d313f798c34f0e]: Commencement: Sch. 9A comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-5c5e24b402620d4624d313f798c34f0e]: Commencement: Sch. 9A comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-e88467aaf7ee86b9d6dbcf90e4fa562d]: Commencement: Sch. 10 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-e88467aaf7ee86b9d6dbcf90e4fa562d]: Commencement: Sch. 10 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-45dcb75668521de2f8df1fd81c66de1c]: Commencement: Sch. 10A comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-45dcb75668521de2f8df1fd81c66de1c]: Commencement: Sch. 10A comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-855620c03c01d19ee8ad724bb63847bd]: Commencement: Sch. 11 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-855620c03c01d19ee8ad724bb63847bd]: Commencement: Sch. 11 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-1442f7d1c6ef03a8ec6cfa9288f5fd87]: Commencement: Sch. 11A Pt. 4 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-1442f7d1c6ef03a8ec6cfa9288f5fd87]: Commencement: Sch. 11A Pt. 4 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-0f250355f93a1d4ab4b997675119300c]: Commencement: Sch. 1n3 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-0f250355f93a1d4ab4b997675119300c]: Commencement: Sch. 1n3 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-eeeec3ba232aa427ed4a8e029648a0f8]: Commencement: Sch. 2n3 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-eeeec3ba232aa427ed4a8e029648a0f8]: Commencement: Sch. 2n3 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-4c03d3564a060ebc622b7277dc6d024a]: Commencement: Sch. 3n4 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-4c03d3564a060ebc622b7277dc6d024a]: Commencement: Sch. 3n4 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-18f70b4f927a43fb70ba4b71ee35464e]: Commencement: Sch. 4n3 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-18f70b4f927a43fb70ba4b71ee35464e]: Commencement: Sch. 4n3 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-549320854d86f3fe7c711448b93cd997]: Commencement: Sch. 12 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-549320854d86f3fe7c711448b93cd997]: Commencement: Sch. 12 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-b07e57e8745f93b794e8912e1cad567b]: Commencement: Sch. 12A Pt. 3 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-b07e57e8745f93b794e8912e1cad567b]: Commencement: Sch. 12A Pt. 3 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
 
-[^key-05725324a7c46dfdee5ddeb7fec2678d]: Commencement: Sch. 12A Pt. 9 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)
+[^c-05725324a7c46dfdee5ddeb7fec2678d]: Commencement: Sch. 12A Pt. 9 comes into force in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1)

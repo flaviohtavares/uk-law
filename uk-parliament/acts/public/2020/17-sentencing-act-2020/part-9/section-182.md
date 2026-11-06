@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Youth rehabilitation order: effect of remand in custody[^key-6544eb66d653a8c844e6742a338be7c8]
+## 182. Youth rehabilitation order: effect of remand in custody[^c-6544eb66d653a8c844e6742a338be7c8]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6544eb66d653a8c844e6742a338be7c8]: Commencement: S. 182 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6544eb66d653a8c844e6742a338be7c8]: Commencement: S. 182 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Fixed penalty notice[^key-4e58cd8439b6586a58e3527be0d40f04]
+## 16. Fixed penalty notice[^c-4e58cd8439b6586a58e3527be0d40f04]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e58cd8439b6586a58e3527be0d40f04]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2013/6/section/16) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-4e58cd8439b6586a58e3527be0d40f04]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2013/6/section/16) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

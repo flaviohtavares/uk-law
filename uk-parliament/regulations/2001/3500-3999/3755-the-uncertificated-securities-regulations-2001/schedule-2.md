@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — PREVENTION OF EXCESSIVE REGULATORY PROVISION[^key-5964770658ac73d07dea7c663706afd4]
+## SCHEDULE 2 — PREVENTION OF EXCESSIVE REGULATORY PROVISION[^c-5964770658ac73d07dea7c663706afd4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,30 +24,30 @@ summary: ''
 
 Regulation 13
 
-### Refusal of approval on ground of excessive regulatory provision[^key-5964770658ac73d07dea7c663706afd4]
+### Refusal of approval on ground of excessive regulatory provision[^c-5964770658ac73d07dea7c663706afd4]
 
-**1.**[^key-5964770658ac73d07dea7c663706afd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5964770658ac73d07dea7c663706afd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Power of the Bank of England to disallow excessive regulatory provision[^key-5964770658ac73d07dea7c663706afd4]
+### Power of the Bank of England to disallow excessive regulatory provision[^c-5964770658ac73d07dea7c663706afd4]
 
-**2.**[^key-5964770658ac73d07dea7c663706afd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5964770658ac73d07dea7c663706afd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Duty to notify proposal to make regulatory provision[^key-5964770658ac73d07dea7c663706afd4]
+### Duty to notify proposal to make regulatory provision[^c-5964770658ac73d07dea7c663706afd4]
 
-**3.**[^key-5964770658ac73d07dea7c663706afd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5964770658ac73d07dea7c663706afd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Restriction on making provision before the Bank of England decides whether to act[^key-5964770658ac73d07dea7c663706afd4]
+### Restriction on making provision before the Bank of England decides whether to act[^c-5964770658ac73d07dea7c663706afd4]
 
-**4.**[^key-5964770658ac73d07dea7c663706afd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5964770658ac73d07dea7c663706afd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Consideration by the Bank of England whether to disallow proposed provision[^key-5964770658ac73d07dea7c663706afd4]
+### Consideration by the Bank of England whether to disallow proposed provision[^c-5964770658ac73d07dea7c663706afd4]
 
-**5.**[^key-5964770658ac73d07dea7c663706afd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5964770658ac73d07dea7c663706afd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Power to disallow excessive regulatory provision: supplementary[^key-5964770658ac73d07dea7c663706afd4]
+### Power to disallow excessive regulatory provision: supplementary[^c-5964770658ac73d07dea7c663706afd4]
 
-**6.**[^key-5964770658ac73d07dea7c663706afd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5964770658ac73d07dea7c663706afd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5964770658ac73d07dea7c663706afd4]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2001/3755/schedule/2) omitted (27.3.2019) by virtue of [The Uncertificated Securities (Amendment and EU Exit) Regulations 2019 (S.I. 2019/679)](https://www.legislation.gov.uk/uksi/2019/679), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/2), [4(10)](https://www.legislation.gov.uk/uksi/2019/679/regulation/4/10) (with [regs. 10-12](https://www.legislation.gov.uk/uksi/2019/679/regulation/10))
+[^c-5964770658ac73d07dea7c663706afd4]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2001/3755/schedule/2) omitted (27.3.2019) by virtue of [The Uncertificated Securities (Amendment and EU Exit) Regulations 2019 (S.I. 2019/679)](https://www.legislation.gov.uk/uksi/2019/679), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/2), [4(10)](https://www.legislation.gov.uk/uksi/2019/679/regulation/4/10) (with [regs. 10-12](https://www.legislation.gov.uk/uksi/2019/679/regulation/10))

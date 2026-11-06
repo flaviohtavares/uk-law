@@ -29,11 +29,11 @@ Gas Act 1986
 
 1986 c. 44
 
-[^c14411481][^M_C_a7e75168-a2db-4396-be9f-af5f012a4a0f][^M_C_ee52f3a8-db2c-4561-b3ed-ae149f3332f3][^key-4f37d01145750bcc42d92b13e44cb45b][^M_C_240209fc-6d14-478c-8626-f3140a7a5a85]An Act to provide for the appointment and functions of a Director General of Gas Supply and the establishment and functions of a Gas Consumers’ Council; to abolish the privilege conferred on the British Gas Corporation by section 29 of the Gas Act 1972; to make new provision with respect to the supply of gas through pipes and certain related matters; to provide for the vesting of the property, rights and liabilities of the British Gas Corporation in a company nominated by the Secretary of State and the subsequent dissolution of that Corporation; to make provision with respect to, and to information furnished in connection with, agreements relating to the initial supply of gas won under the authority of a petroleum production licence; and for connected purposes.
+[^c14411481][^M_C_a7e75168-a2db-4396-be9f-af5f012a4a0f][^M_C_ee52f3a8-db2c-4561-b3ed-ae149f3332f3][^c-4f37d01145750bcc42d92b13e44cb45b][^M_C_240209fc-6d14-478c-8626-f3140a7a5a85]An Act to provide for the appointment and functions of a Director General of Gas Supply and the establishment and functions of a Gas Consumers’ Council; to abolish the privilege conferred on the British Gas Corporation by section 29 of the Gas Act 1972; to make new provision with respect to the supply of gas through pipes and certain related matters; to provide for the vesting of the property, rights and liabilities of the British Gas Corporation in a company nominated by the Secretary of State and the subsequent dissolution of that Corporation; to make provision with respect to, and to information furnished in connection with, agreements relating to the initial supply of gas won under the authority of a petroleum production licence; and for connected purposes.
 
 \[25th July 1986\]
 
-[^c14411471]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^M_C_76ab7dfb-df0f-485b-a462-b2b481a26d04][^key-114ddafd85a9bf22093b8bd39ed7641e]
+[^c14411471]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^M_C_76ab7dfb-df0f-485b-a462-b2b481a26d04][^c-114ddafd85a9bf22093b8bd39ed7641e]
 
 ## Contents
 
@@ -82,7 +82,7 @@ Gas Act 1986
 
 - [Section 8B — The gas code.](part-i/section-8b.md)
 
-#### Gas transmission and the operation of gas interconnectors: independence[^key-762125c0c176f82ef3ca3b8a42776ac8]
+#### Gas transmission and the operation of gas interconnectors: independence[^c-762125c0c176f82ef3ca3b8a42776ac8]
 
 - [Section 8C — Requirement for certain gas transporters and operators of gas interconnectors to be certified as independent](part-i/section-8c.md)
 - [Section 8D — Application for certification](part-i/section-8d.md)
@@ -100,7 +100,7 @@ Gas Act 1986
 - [Section 8P — Validity of acts infringing section 8O](part-i/section-8p.md)
 - [Section 8Q — Interpretation](part-i/section-8q.md)
 
-#### Storage facilities: independence[^key-e750790928227f2c3eda546028b0bbde]
+#### Storage facilities: independence[^c-e750790928227f2c3eda546028b0bbde]
 
 - [Section 8R — Independence of storage facilities](part-i/section-8r.md)
 - [Section 8S — Independence of storage facilities and duty to allow others to use them: exemptions for minor facilities](part-i/section-8s.md)
@@ -114,7 +114,7 @@ Gas Act 1986
 - [Section 10A — Restriction on use of certain pipe-lines for providing a supply.](part-i/section-10a.md)
 - [Section 11 — Power to require security.](part-i/section-11.md)
 
-#### Duties of facility owners and prospective facility owners[^key-3d973d7bdc0265ce6afc649fe3196934]
+#### Duties of facility owners and prospective facility owners[^c-3d973d7bdc0265ce6afc649fe3196934]
 
 - [Section 11A — General duties of facility owners](part-i/section-11a.md)
 - [Section 11B — Duty of current and prospective LNG import or export facility owners to provide information](part-i/section-11b.md)
@@ -140,7 +140,7 @@ Gas Act 1986
 - [Section 18 — Safety regulations.](part-i/section-18.md)
 - [Section 18A — Gas escape regulations.](part-i/section-18a.md)
 
-#### Pipe-line systems, storage facilities and LNG import or export facilities: rights of use etc[^key-c3620b9f82f8e8f3b1e5c2ce2535eaf9]
+#### Pipe-line systems, storage facilities and LNG import or export facilities: rights of use etc[^c-c3620b9f82f8e8f3b1e5c2ce2535eaf9]
 
 *Extent: E+W+S*
 
@@ -167,7 +167,7 @@ Gas Act 1986
 - [Section 23 — Modification of conditions of licences](part-i/section-23.md)
 - [Section 23A — Modification of conditions under section 23: supplementary](part-i/section-23a.md)
 
-#### Appeal from decisions of the Authority[^key-dbbf7d547ce0fb6695291b7a63b32cff]
+#### Appeal from decisions of the Authority[^c-dbbf7d547ce0fb6695291b7a63b32cff]
 
 *Extent: E+W+S+N.I.*
 
@@ -191,7 +191,7 @@ Gas Act 1986
 
 - [Section 27A — Determination of certain disputes.](part-i/section-27a.md)
 
-#### Section 27B disputes[^key-6aaa1928647f96ae7cd83575b1ffe983][^key-9aa891626982a9793f33d4d195b69638]
+#### Section 27B disputes[^c-6aaa1928647f96ae7cd83575b1ffe983][^c-9aa891626982a9793f33d4d195b69638]
 
 *Extent: E+W+S+N.I.*
 
@@ -199,7 +199,7 @@ Gas Act 1986
 - [Section 27C — Determination of disputes](part-i/section-27c.md)
 - [Section 27D — Time limit for determinations](part-i/section-27d.md)
 
-#### Enforcement of obligations of regulated persons[^key-2a66f3a82ac57acaab1da6332a5ff99b]
+#### Enforcement of obligations of regulated persons[^c-2a66f3a82ac57acaab1da6332a5ff99b]
 
 *Extent: E+W+S*
 
@@ -379,7 +379,7 @@ SCHEDULES
 
 [^M_C_ee52f3a8-db2c-4561-b3ed-ae149f3332f3]: Modification: Act: references to a public gas transporter or to the holder of a licence under section 7 of the 1986 Act shall have effect as if they were references to a gas transporter (1.10.2001) by virtue of [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), [s. 76(7)](https://www.legislation.gov.uk/ukpga/2000/27/section/76/7); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (with [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-4f37d01145750bcc42d92b13e44cb45b]: Modification: Act: transfer of functions (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [ss. 30(3)(a)](https://www.legislation.gov.uk/ukpga/2007/17/section/30/3/a), [66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2) (with [s. 6(9)](https://www.legislation.gov.uk/ukpga/2007/17/section/6/9), [Sch. 3](https://www.legislation.gov.uk/ukpga/2007/17/schedule/3)); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-4f37d01145750bcc42d92b13e44cb45b]: Modification: Act: transfer of functions (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [ss. 30(3)(a)](https://www.legislation.gov.uk/ukpga/2007/17/section/30/3/a), [66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2) (with [s. 6(9)](https://www.legislation.gov.uk/ukpga/2007/17/section/6/9), [Sch. 3](https://www.legislation.gov.uk/ukpga/2007/17/schedule/3)); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
 [^M_C_240209fc-6d14-478c-8626-f3140a7a5a85]: Modification: Act: power to amend conferred (24.5.2024 for specified purposes) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
@@ -387,7 +387,7 @@ SCHEDULES
 
 [^M_C_76ab7dfb-df0f-485b-a462-b2b481a26d04]: Modification: Act: power to exclude or modify (including by way of amendment) conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 155(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/155/1)[(2)](https://www.legislation.gov.uk/ukpga/2023/52/section/155/2), [334(3)(e)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/e)
 
-[^key-114ddafd85a9bf22093b8bd39ed7641e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/44): power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-114ddafd85a9bf22093b8bd39ed7641e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/44): power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
 [^c14411531]: Modification: Pt. I: definition of "public gas supplier" applied (E.W.) (1.12.1991) by [Water Resources Act 1991 (c. 57, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/57), [ss. 208(3)(b)](https://www.legislation.gov.uk/ukpga/1991/57/section/208/3/b), [225(2)](https://www.legislation.gov.uk/ukpga/1991/57/section/225/2) (with [ss. 16(6)](https://www.legislation.gov.uk/ukpga/1991/57/section/16/6), [179](https://www.legislation.gov.uk/ukpga/1991/57/section/179), [222(3)](https://www.legislation.gov.uk/ukpga/1991/57/section/222/3), [Sch. 22 para. 1](https://www.legislation.gov.uk/ukpga/1991/57/schedule/22/paragraph/1), [Sch. 23 para. 6](https://www.legislation.gov.uk/ukpga/1991/57/schedule/23/paragraph/6))
 
@@ -401,31 +401,31 @@ SCHEDULES
 
 [^c14413441]: Textual amendment: S. 8B and cross-heading inserted (1.3.1996) by [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45), [s. 9](https://www.legislation.gov.uk/ukpga/1995/45/section/9); [S.I. 1996/218](https://www.legislation.gov.uk/uksi/1996/218), [art. 2](https://www.legislation.gov.uk/uksi/1996/218/article/2)
 
-[^key-762125c0c176f82ef3ca3b8a42776ac8]: Textual amendment: Ss. 8C-8Q and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2011/2704/regulation/4)
+[^c-762125c0c176f82ef3ca3b8a42776ac8]: Textual amendment: Ss. 8C-8Q and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2011/2704/regulation/4)
 
-[^key-e750790928227f2c3eda546028b0bbde]: Textual amendment: Ss. 8R, 8S and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2011/2704/regulation/6)
+[^c-e750790928227f2c3eda546028b0bbde]: Textual amendment: Ss. 8R, 8S and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2011/2704/regulation/6)
 
 [^c14413471]: Textual amendment: Cross-heading substituted (1.3.1996) by [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45), [s. 10(1)](https://www.legislation.gov.uk/ukpga/1995/45/section/10/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1995/45/schedule/3/paragraph/3); [S.I. 1996/218](https://www.legislation.gov.uk/uksi/1996/218), [art. 2](https://www.legislation.gov.uk/uksi/1996/218/article/2)
 
-[^key-3d973d7bdc0265ce6afc649fe3196934]: Textual amendment: Ss. 11A-11C and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/7/2)
+[^c-3d973d7bdc0265ce6afc649fe3196934]: Textual amendment: Ss. 11A-11C and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/7/2)
 
 [^c14413931]: Textual amendment: S. 12 and preceding cross-heading substituted for s. 12 (1.3.1996) by [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45), [s. 10(1)](https://www.legislation.gov.uk/ukpga/1995/45/section/10/1), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/1995/45/schedule/3/paragraph/6); [S.I. 1996/218](https://www.legislation.gov.uk/uksi/1996/218), [art. 2](https://www.legislation.gov.uk/uksi/1996/218/article/2)
 
 [^c14414491]: Textual amendment: S. 16 and cross-heading preceding it substituted (1.3.1996) by [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45), [s. 10(1)](https://www.legislation.gov.uk/ukpga/1995/45/section/10/1), [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/1995/45/schedule/3/paragraph/12); [S.I. 1996/218](https://www.legislation.gov.uk/uksi/1996/218), [art. 2](https://www.legislation.gov.uk/uksi/1996/218/article/2)
 
-[^key-c3620b9f82f8e8f3b1e5c2ce2535eaf9]: Textual amendment: S. 19 cross-heading substituted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [8(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/8/1)
+[^c-c3620b9f82f8e8f3b1e5c2ce2535eaf9]: Textual amendment: S. 19 cross-heading substituted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [8(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/8/1)
 
 [^c14415741]: Textual amendment: S. 23 and preceding cross-heading substituted (1.3.1996) by [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45), [s. 10(1)](https://www.legislation.gov.uk/ukpga/1995/45/section/10/1), [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/1995/45/schedule/3/paragraph/21); [S.I. 1996/218](https://www.legislation.gov.uk/uksi/1996/218), [art. 2](https://www.legislation.gov.uk/uksi/1996/218/article/2)
 
-[^key-dbbf7d547ce0fb6695291b7a63b32cff]: Textual amendment: Ss. 23B-23G and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [41(7)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/41/7) (with [reg. 42](https://www.legislation.gov.uk/uksi/2011/2704/regulation/42))
+[^c-dbbf7d547ce0fb6695291b7a63b32cff]: Textual amendment: Ss. 23B-23G and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [41(7)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/41/7) (with [reg. 42](https://www.legislation.gov.uk/uksi/2011/2704/regulation/42))
 
 [^c14419001]: Textual amendment: S. 27A and the preceding cross-heading inserted (1.3.1996) by [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45), [s. 10(1)](https://www.legislation.gov.uk/ukpga/1995/45/section/10/1), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/1995/45/schedule/3/paragraph/26); [S.I. 1996/218](https://www.legislation.gov.uk/uksi/1996/218), [art. 2](https://www.legislation.gov.uk/uksi/1996/218/article/2)
 
-[^key-6aaa1928647f96ae7cd83575b1ffe983]: Textual amendment: S. 27B cross-heading substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [30](https://www.legislation.gov.uk/uksi/2019/530/regulation/30); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6aaa1928647f96ae7cd83575b1ffe983]: Textual amendment: S. 27B cross-heading substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [30](https://www.legislation.gov.uk/uksi/2019/530/regulation/30); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9aa891626982a9793f33d4d195b69638]: Textual amendment: Ss. 27B-27D and cross-heading inserted (29.6.2009) by [The Gas and Electricity (Dispute Resolution) Regulations 2009 (S.I. 2009/1349)](https://www.legislation.gov.uk/uksi/2009/1349), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1349/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/1349/regulation/2)
+[^c-9aa891626982a9793f33d4d195b69638]: Textual amendment: Ss. 27B-27D and cross-heading inserted (29.6.2009) by [The Gas and Electricity (Dispute Resolution) Regulations 2009 (S.I. 2009/1349)](https://www.legislation.gov.uk/uksi/2009/1349), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1349/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/1349/regulation/2)
 
-[^key-2a66f3a82ac57acaab1da6332a5ff99b]: Textual amendment: S. 28 cross-heading substituted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [37(3)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/37/3)
+[^c-2a66f3a82ac57acaab1da6332a5ff99b]: Textual amendment: S. 28 cross-heading substituted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [37(3)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/37/3)
 
 [^c14422341]: Textual amendment: Cross heading, ss. 33A and 33B inserted (1.7.1992) by [Competition and Service (Utilities) Act 1992 (c. 43)](https://www.legislation.gov.uk/ukpga/1992/43), [s. 11](https://www.legislation.gov.uk/ukpga/1992/43/section/11); Commencement Order No. 1 made on 29.5.1992, art. 3, Sch. Pt.I.
 

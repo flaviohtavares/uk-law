@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Certificates[^key-20e05e319ad3c1e825a8cb61eee0b430]
+## 7. Certificates[^c-20e05e319ad3c1e825a8cb61eee0b430]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The competent authority must grant and register a certificate if—
 
 ## Annotations
 
-[^key-20e05e319ad3c1e825a8cb61eee0b430]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2014/951/regulation/7) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-20e05e319ad3c1e825a8cb61eee0b430]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2014/951/regulation/7) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

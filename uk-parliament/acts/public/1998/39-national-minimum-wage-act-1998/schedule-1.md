@@ -40,7 +40,7 @@ Section 8.
 
 (6) The Secretary of State may by notice to the member concerned remove from office a member who—
 
-- (a) has become bankrupt, has had a debt relief order made in respect of him (under Part 7A of the Insolvency Act 1986),[^key-8bf29be0990cb1b686ef98f5b7ed756f] has made an arrangement with his creditors, has had his estate sequestrated, has granted a trust deed for his creditors or has made a composition contract with his creditors, or
+- (a) has become bankrupt, has had a debt relief order made in respect of him (under Part 7A of the Insolvency Act 1986),[^c-8bf29be0990cb1b686ef98f5b7ed756f] has made an arrangement with his creditors, has had his estate sequestrated, has granted a trust deed for his creditors or has made a composition contract with his creditors, or
 - (b) has been absent from two or more consecutive meetings of the Commission otherwise than for a reason approved by them, or
 - (c) is in the opinion of the Secretary of State unable or unfit to perform his duties as member.
 
@@ -90,7 +90,7 @@ as the Secretary of State may reasonably determine are required by the Commissio
 
 ## Annotations
 
-[^key-8bf29be0990cb1b686ef98f5b7ed756f]: Textual amendment: Words in [Sch. 1 para. 1(6)(a)](https://www.legislation.gov.uk/ukpga/1998/39/schedule/1/paragraph/1/6/a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/40) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-8bf29be0990cb1b686ef98f5b7ed756f]: Textual amendment: Words in [Sch. 1 para. 1(6)(a)](https://www.legislation.gov.uk/ukpga/1998/39/schedule/1/paragraph/1/6/a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/40) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
 
 [^c9532791]: Marginal citation: [1975 c. 24](https://www.legislation.gov.uk/ukpga/1975/24).
 

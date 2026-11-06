@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Required content of schemes[^key-62e36397aa62615c1cecaf4c990141e3]
+## 43. Required content of schemes[^c-62e36397aa62615c1cecaf4c990141e3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A scheme prepared by a local authority under section 48(1) of the 1998 Act must 
 
 ## Annotations
 
-[^key-62e36397aa62615c1cecaf4c990141e3]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2025/42/regulation/43) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-62e36397aa62615c1cecaf4c990141e3]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2025/42/regulation/43) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

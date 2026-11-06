@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — REPEALS[^key-4c29651bf551e0becec83570b37bef54]
+## SCHEDULE 4 — REPEALS[^c-4c29651bf551e0becec83570b37bef54]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ Section 59
 
 ## Annotations
 
-[^key-4c29651bf551e0becec83570b37bef54]: Commencement: Sch. 4 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-4c29651bf551e0becec83570b37bef54]: Commencement: Sch. 4 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

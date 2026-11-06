@@ -44,7 +44,7 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-The Secretary of State makes these Regulations in exercise of the powers in sections 14(5) to (8), 17(7) to (13) and 125(7) and (8) of the Care Act 2014[^f00001].[^key-10a5289350c6918575f3c576d9017436]
+The Secretary of State makes these Regulations in exercise of the powers in sections 14(5) to (8), 17(7) to (13) and 125(7) and (8) of the Care Act 2014[^f00001].[^c-10a5289350c6918575f3c576d9017436]
 
 ## Contents
 
@@ -139,4 +139,4 @@ A separate impact assessment has not been prepared for these Regulations. These 
 
 [^f00001]: Footnote: [2014 c.23](https://www.legislation.gov.uk/ukpga/2014/23). The powers to make regulations are exercisable by the Secretary of State, *see* section 125(1). Sections 14(5) to (8) and 17(7) to (13) were commenced for the purposes of making regulations by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473). Section 17(8) was commenced in modified form.
 
-[^key-10a5289350c6918575f3c576d9017436]: Modification: Regulations applied (with modifications) (coming into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/305/regulation/1/1) of the amending S.I.) by [The Care and Support (Children’s Carers) Regulations 2015 (S.I. 2015/305)](https://www.legislation.gov.uk/uksi/2015/305), [regs. 2](https://www.legislation.gov.uk/uksi/2015/305/regulation/2), [13](https://www.legislation.gov.uk/uksi/2015/305/regulation/13)
+[^c-10a5289350c6918575f3c576d9017436]: Modification: Regulations applied (with modifications) (coming into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/305/regulation/1/1) of the amending S.I.) by [The Care and Support (Children’s Carers) Regulations 2015 (S.I. 2015/305)](https://www.legislation.gov.uk/uksi/2015/305), [regs. 2](https://www.legislation.gov.uk/uksi/2015/305/regulation/2), [13](https://www.legislation.gov.uk/uksi/2015/305/regulation/13)

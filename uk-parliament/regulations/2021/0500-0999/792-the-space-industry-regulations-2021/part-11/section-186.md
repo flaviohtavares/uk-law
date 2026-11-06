@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Duty to report a notifiable incident to the regulator[^key-dfb5889a5d2168435d8715a1517e129d]
+## 186. Duty to report a notifiable incident to the regulator[^c-dfb5889a5d2168435d8715a1517e129d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfb5889a5d2168435d8715a1517e129d]: Commencement: Reg. 186 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-dfb5889a5d2168435d8715a1517e129d]: Commencement: Reg. 186 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

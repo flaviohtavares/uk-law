@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Amendment of regulation R4[^key-76903ab7104ecf7d14a0146965a66697]
+## 53. Amendment of regulation R4[^c-76903ab7104ecf7d14a0146965a66697]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In paragraph (5) of regulation R4 (members doing more than one job), for â€œ70â€
 
 ## Annotations
 
-[^key-76903ab7104ecf7d14a0146965a66697]: Commencement: Reg. 53 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-76903ab7104ecf7d14a0146965a66697]: Commencement: Reg. 53 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

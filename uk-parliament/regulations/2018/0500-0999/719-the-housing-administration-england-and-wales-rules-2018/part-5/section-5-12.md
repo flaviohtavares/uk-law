@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.12. Debts of registered providers to rank equally[^key-f08240a2b515813942d5e66cd61b64aa]
+## 5.12. Debts of registered providers to rank equally[^c-f08240a2b515813942d5e66cd61b64aa]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Debts to registered providers other than preferential debts rank equally between
 
 ## Annotations
 
-[^key-f08240a2b515813942d5e66cd61b64aa]: Commencement: Rule 5.12 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-f08240a2b515813942d5e66cd61b64aa]: Commencement: Rule 5.12 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

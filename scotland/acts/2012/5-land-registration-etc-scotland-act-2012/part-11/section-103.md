@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Appeals[^key-bf46c4aa01b6b2b98d0884712584e6b2]
+## 103. Appeals[^c-bf46c4aa01b6b2b98d0884712584e6b2]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf46c4aa01b6b2b98d0884712584e6b2]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2012/5/section/103) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-bf46c4aa01b6b2b98d0884712584e6b2]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2012/5/section/103) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

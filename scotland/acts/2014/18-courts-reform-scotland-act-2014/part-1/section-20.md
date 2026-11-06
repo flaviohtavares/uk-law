@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Cessation of appointment of judicial officers[^key-030947bf9836d82db5823797a07c9e3d]
+## 20. Cessation of appointment of judicial officers[^c-030947bf9836d82db5823797a07c9e3d]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-030947bf9836d82db5823797a07c9e3d]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2014/18/section/20) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-030947bf9836d82db5823797a07c9e3d]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2014/18/section/20) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-e15d32512248dd7d77fca8089bbb93aa]
+## 1. Citation and commencement[^c-e15d32512248dd7d77fca8089bbb93aa]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Great Yarmouth Third River Crossing Development C
 
 ## Annotations
 
-[^key-e15d32512248dd7d77fca8089bbb93aa]: Commencement: Art. 1 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-e15d32512248dd7d77fca8089bbb93aa]: Commencement: Art. 1 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

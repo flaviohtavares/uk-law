@@ -45,17 +45,17 @@ The Welsh Ministers, in exercise of the powers conferred upon them by sections 1
 
 In accordance with section 47(2) of the Education (Wales) Act 2014 a draft of these Regulations was laid before the National Assembly for Wales and approved by a resolution of the National Assembly for Wales.
 
-## 1. Title, commencement and application[^key-7d1f0d8068146036b7b2b9e93bb37f2f]
+## 1. Title, commencement and application[^c-7d1f0d8068146036b7b2b9e93bb37f2f]
 
 (1) The title of these Regulations is the Education Workforce Council (Registration Fees) Regulations 2017 and they come into force on 1 February 2017 except for regulation 2 which comes into force on 1 April 2017.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Revocation[^key-28bd5ea93e931a002f55ab21c65f2f98]
+## 2. Revocation[^c-28bd5ea93e931a002f55ab21c65f2f98]
 
 The Education Workforce Council (Registration Fees) (Wales) Regulations 2016[^f00002] are revoked.
 
-## 3. Interpretation[^key-ef281b2689b1b79b11c1ba82188ea116]
+## 3. Interpretation[^c-ef281b2689b1b79b11c1ba82188ea116]
 
 In these Regulations—
 
@@ -67,7 +67,7 @@ In these Regulations—
 - “Register” (“*Cofrestr*”) means the register established and maintained under section 9 of the 2014 Act; and “registration” (“*cofrestru*”) means registration on the Register;
 - “work based learning body” (“*corff dysgu seiliedig ar waith*”) has the meaning given to it in article 2 of the Education Workforce Council (Registration of Youth Workers, Youth Support Workers and Work Based Learning Practitioners) Order 2016[^f00003].
 
-## 4. Amount of registration fee payable[^key-068ce907df9984281176ca7be31959b9]
+## 4. Amount of registration fee payable[^c-068ce907df9984281176ca7be31959b9]
 
 (1) The registration fee payable for the year commencing on 1 April 2017 and ending on 31 March 2018 and each subsequent year is—
 
@@ -78,11 +78,11 @@ In these Regulations—
 - (e) £46 per year for a youth worker[^M_M_6db396e8-2800-44c6-9861-cf468247a524];
 - (f) £46 per year for a youth support worker[^M_M_1e4c6599-1da6-4652-add7-48ad2ca3b568];
 - (g) £46 per year for a work based learning practitioner[^M_M_01612c12-d5ce-48a5-d094-503873eb58f9];
-- (h)[^key-3f783882c78db9c030c7d71d79798759] £46 per year for an independent school teacher[^M_M_38c7125a-243d-4abc-e671-ca5ede309ad1];
+- (h)[^c-3f783882c78db9c030c7d71d79798759] £46 per year for an independent school teacher[^M_M_38c7125a-243d-4abc-e671-ca5ede309ad1];
 - (i) £46 per year for an independent school learning support worker[^M_M_0a17b657-5db5-430c-cfaa-426ab8d8f68a];
 - (j) £46 per year for an independent special post-16 institution teacher[^M_M_3be822d7-2351-45d9-a80f-0c2127ce7503];
 - (k) £46 per year for an independent special post-16 institution learning support worker[^M_M_c4f2ef54-1c30-4cc6-9e21-d2a9708d0b46].
-- (l)[^key-60cc2ad6592084bf737766e91d8ea7ed] £46 per year for an adult learning practitioner[^M_M_8f04726d-35b7-4da8-9e96-e500d22aad30];
+- (l)[^c-60cc2ad6592084bf737766e91d8ea7ed] £46 per year for an adult learning practitioner[^M_M_8f04726d-35b7-4da8-9e96-e500d22aad30];
 - (m) £46 per year for a further education principal or senior leader[^M_M_c59202fd-14e9-426b-d15e-8f3d2b918cdb].
 
 (2) The fee payable pursuant to paragraph (1) is to be subsidised by such amount as may be determined by the Welsh Ministers from time to time.
@@ -94,7 +94,7 @@ In these Regulations—
 - (a) only one category of registration fee is payable; and
 - (b) the category of registration fee payable is the higher of those fees after taking into account any subsidy determined pursuant to paragraph (2).
 
-## 5. Provision to be made by the Council in relation to fees[^key-618a9b0de409cadb9550e8421dd80ee3]
+## 5. Provision to be made by the Council in relation to fees[^c-618a9b0de409cadb9550e8421dd80ee3]
 
 The Council may make provision—
 
@@ -103,11 +103,11 @@ The Council may make provision—
   - (ii) the retention of entries in the Register; and
 - (b) for there to be exceptions and exemptions where fees are not charged.
 
-## 6. Information to be supplied by an employer to the Council on request[^key-ec3e08de9168ef87a423b1189e71e488]
+## 6. Information to be supplied by an employer to the Council on request[^c-ec3e08de9168ef87a423b1189e71e488]
 
 An employer must notify the Council upon request of the details specified in the Schedule of any person who is employed or otherwise engaged by that employer to provide relevant services on a date specified by the Council and who is required to be registered by virtue of regulations made under sections 14 to 16 of the 2014 Act.
 
-## 7. Deduction of fee[^key-64282dccdcb2e12d086828d2df6ef167]
+## 7. Deduction of fee[^c-64282dccdcb2e12d086828d2df6ef167]
 
 (1) The employer of a person to whom this regulation applies must secure that the fee is deducted from the payment of salary made to that person immediately following the notification date.
 
@@ -120,15 +120,15 @@ An employer must notify the Council upon request of the details specified in the
 - (a) registered on the Register, or
 - (b) required to be so registered by virtue of regulations made under sections 14 to 16 of the 2014 Act.
 
-## 8. Remittance of fees to the Council[^key-b34a1187528519d1826fd18f1819f4bd]
+## 8. Remittance of fees to the Council[^c-b34a1187528519d1826fd18f1819f4bd]
 
 The employer must within 14 days of the fee being deducted in accordance with regulation 5 remit that fee to the Council.
 
-## 9. Information to be supplied to the Council by the employer with the fee[^key-0e553f1c9b7b9e9e1d98657b9ae47a4d]
+## 9. Information to be supplied to the Council by the employer with the fee[^c-0e553f1c9b7b9e9e1d98657b9ae47a4d]
 
 When remitting the fee the employer must notify the Council of the details specified in the Schedule of the person in relation to whom the fee is remitted.
 
-## 10. Failure to discharge duty[^key-2a6cb624033cff446bd51be58641763b]
+## 10. Failure to discharge duty[^c-2a6cb624033cff446bd51be58641763b]
 
 Failure by a person to discharge a duty within a time limit specified in these Regulations does not relieve that person of that duty.
 
@@ -142,32 +142,32 @@ Cabinet Secretary for Education, one of the Welsh Ministers
 
 Regulation 6
 
-**1.**[^key-685fa4062e94a3e44bfa4f9530871038] The full name of the person.
+**1.**[^c-685fa4062e94a3e44bfa4f9530871038] The full name of the person.
 
-**2.**[^key-7fcb433d6c4a9186ebe747a2d0f39726] If known, any name by which the person was formerly known.
+**2.**[^c-7fcb433d6c4a9186ebe747a2d0f39726] If known, any name by which the person was formerly known.
 
-**3.**[^key-5e656e37f16078098a9a36b78e41620d] Whether the person is male or female.
+**3.**[^c-5e656e37f16078098a9a36b78e41620d] Whether the person is male or female.
 
-**4.**[^key-a7a1c1cda09e0ba0e2a84a3cc8b7c660] The official registration number, if any, assigned to the person.
+**4.**[^c-a7a1c1cda09e0ba0e2a84a3cc8b7c660] The official registration number, if any, assigned to the person.
 
-**5.**[^key-5fbe01ce0538bd8304d602c695172f9b] The name of the school or institution at which the person is employed or engaged to provide relevant services.
+**5.**[^c-5fbe01ce0538bd8304d602c695172f9b] The name of the school or institution at which the person is employed or engaged to provide relevant services.
 
-**6.**[^key-139551ef75dbefdc05b409079e0245a8] In respect of youth workers and youth support workers the name of the person’s employer.
+**6.**[^c-139551ef75dbefdc05b409079e0245a8] In respect of youth workers and youth support workers the name of the person’s employer.
 
-**7.**[^key-ca332d8761f6c072a99d34f8189f5408] In respect of work based learning practitioners—
+**7.**[^c-ca332d8761f6c072a99d34f8189f5408] In respect of work based learning practitioners—
 
 - (a) the name of the person’s employer; and
 - (b) where the employer is not a work based learning body, the name of the work based learning body on whose behalf the employer provides work based learning.
 
-**8.**[^key-90f1211b58aa525201279f153a4feef1] The person’s national insurance number.
+**8.**[^c-90f1211b58aa525201279f153a4feef1] The person’s national insurance number.
 
-**9.**[^key-f4f39d450468b727a3b558a00998c4a5] The person’s home address or other contact address.
+**9.**[^c-f4f39d450468b727a3b558a00998c4a5] The person’s home address or other contact address.
 
-**10.**[^key-5c4469e1c980a57eaa19804961fc1b66] The person’s date of birth.
+**10.**[^c-5c4469e1c980a57eaa19804961fc1b66] The person’s date of birth.
 
-**11.**[^key-08c935a4b9ce77c52eddd3aa8ad47bcb] The person’s telephone number and electronic mail address (if available).
+**11.**[^c-08c935a4b9ce77c52eddd3aa8ad47bcb] The person’s telephone number and electronic mail address (if available).
 
-**12.**[^key-fdcaefd422ff40d902eb0634acde0347] Where the person is engaged to provide relevant services through an agency, the name of that agency.
+**12.**[^c-fdcaefd422ff40d902eb0634acde0347] Where the person is engaged to provide relevant services through an agency, the name of that agency.
 
 EXPLANATORY NOTE
 
@@ -195,17 +195,17 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2014 anaw 5](https://www.legislation.gov.uk/anaw/2014/5).
 
-[^key-7d1f0d8068146036b7b2b9e93bb37f2f]: Commencement: Reg. 1 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-7d1f0d8068146036b7b2b9e93bb37f2f]: Commencement: Reg. 1 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
-[^key-28bd5ea93e931a002f55ab21c65f2f98]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2017/92/regulation/2) in force at 2.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-28bd5ea93e931a002f55ab21c65f2f98]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2017/92/regulation/2) in force at 2.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2016/27 (W. 9)](https://www.legislation.gov.uk/wsi/2016/27).
 
-[^key-ef281b2689b1b79b11c1ba82188ea116]: Commencement: Reg. 3 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-ef281b2689b1b79b11c1ba82188ea116]: Commencement: Reg. 3 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2016/1183 (W.288)](https://www.legislation.gov.uk/wsi/2016/1183).
 
-[^key-068ce907df9984281176ca7be31959b9]: Commencement: Reg. 4 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-068ce907df9984281176ca7be31959b9]: Commencement: Reg. 4 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
 [^M_M_68c4dbe5-23f5-4c26-b51c-b55449f5391e]: Marginal citation: As defined in row 1 of Table 1 in Schedule 2 to the 2014 Act.
 
@@ -221,7 +221,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^M_M_01612c12-d5ce-48a5-d094-503873eb58f9]: Marginal citation: As defined in row 7 of Table 1 in Schedule 2 to the 2014 Act.
 
-[^key-3f783882c78db9c030c7d71d79798759]: Textual amendment: [Reg. 4(1)(h)-(k)](https://www.legislation.gov.uk/wsi/2017/92/regulation/4/1/h) inserted (22.5.2023) by [The Education Workforce Council (Additional Categories of Registration) (Wales) Order 2023 (S.I. 2023/551)](https://www.legislation.gov.uk/wsi/2023/551), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/551/article/1/2), [12](https://www.legislation.gov.uk/wsi/2023/551/article/12)
+[^c-3f783882c78db9c030c7d71d79798759]: Textual amendment: [Reg. 4(1)(h)-(k)](https://www.legislation.gov.uk/wsi/2017/92/regulation/4/1/h) inserted (22.5.2023) by [The Education Workforce Council (Additional Categories of Registration) (Wales) Order 2023 (S.I. 2023/551)](https://www.legislation.gov.uk/wsi/2023/551), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/551/article/1/2), [12](https://www.legislation.gov.uk/wsi/2023/551/article/12)
 
 [^M_M_38c7125a-243d-4abc-e671-ca5ede309ad1]: Marginal citation: As defined in the entry for independent school teacher in Table 1 in Schedule 2 to the 2014 Act.
 
@@ -231,44 +231,44 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^M_M_c4f2ef54-1c30-4cc6-9e21-d2a9708d0b46]: Marginal citation: As defined in the entry for independent special post-16 institution learning support worker in Table 1 in Schedule 2 to the 2014 Act.
 
-[^key-60cc2ad6592084bf737766e91d8ea7ed]: Textual amendment: [Reg. 4(1)(l)](https://www.legislation.gov.uk/wsi/2017/92/regulation/4/1/l)[(m)](https://www.legislation.gov.uk/wsi/2017/92/regulation/4/1/m) inserted (10.5.2024) by [The Education Workforce Council (Additional Categories of Registration and Further Education Teacher Qualifications) (Wales) Order 2024 (S.I. 2024/613)](https://www.legislation.gov.uk/wsi/2024/613), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2), [13](https://www.legislation.gov.uk/wsi/2024/613/article/13)
+[^c-60cc2ad6592084bf737766e91d8ea7ed]: Textual amendment: [Reg. 4(1)(l)](https://www.legislation.gov.uk/wsi/2017/92/regulation/4/1/l)[(m)](https://www.legislation.gov.uk/wsi/2017/92/regulation/4/1/m) inserted (10.5.2024) by [The Education Workforce Council (Additional Categories of Registration and Further Education Teacher Qualifications) (Wales) Order 2024 (S.I. 2024/613)](https://www.legislation.gov.uk/wsi/2024/613), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2), [13](https://www.legislation.gov.uk/wsi/2024/613/article/13)
 
 [^M_M_8f04726d-35b7-4da8-9e96-e500d22aad30]: Marginal citation: As defined in the entry for adult learning practitioner in Table 1 in Schedule 2 to the 2014 Act.
 
 [^M_M_c59202fd-14e9-426b-d15e-8f3d2b918cdb]: Marginal citation: As defined in the entry for principal or senior leader in further education in Table 1 in Schedule 2 to the 2014 Act.
 
-[^key-618a9b0de409cadb9550e8421dd80ee3]: Commencement: Reg. 5 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-618a9b0de409cadb9550e8421dd80ee3]: Commencement: Reg. 5 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
-[^key-ec3e08de9168ef87a423b1189e71e488]: Commencement: Reg. 6 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-ec3e08de9168ef87a423b1189e71e488]: Commencement: Reg. 6 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
-[^key-64282dccdcb2e12d086828d2df6ef167]: Commencement: Reg. 7 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-64282dccdcb2e12d086828d2df6ef167]: Commencement: Reg. 7 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
-[^key-b34a1187528519d1826fd18f1819f4bd]: Commencement: Reg. 8 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-b34a1187528519d1826fd18f1819f4bd]: Commencement: Reg. 8 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
-[^key-0e553f1c9b7b9e9e1d98657b9ae47a4d]: Commencement: Reg. 9 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-0e553f1c9b7b9e9e1d98657b9ae47a4d]: Commencement: Reg. 9 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
-[^key-2a6cb624033cff446bd51be58641763b]: Commencement: Reg. 10 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-2a6cb624033cff446bd51be58641763b]: Commencement: Reg. 10 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
-[^key-685fa4062e94a3e44bfa4f9530871038]: Commencement: Sch. para. 1 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-685fa4062e94a3e44bfa4f9530871038]: Commencement: Sch. para. 1 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
-[^key-7fcb433d6c4a9186ebe747a2d0f39726]: Commencement: Sch. para. 2 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-7fcb433d6c4a9186ebe747a2d0f39726]: Commencement: Sch. para. 2 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
-[^key-5e656e37f16078098a9a36b78e41620d]: Commencement: Sch. para. 3 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-5e656e37f16078098a9a36b78e41620d]: Commencement: Sch. para. 3 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
-[^key-a7a1c1cda09e0ba0e2a84a3cc8b7c660]: Commencement: Sch. para. 4 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-a7a1c1cda09e0ba0e2a84a3cc8b7c660]: Commencement: Sch. para. 4 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
-[^key-5fbe01ce0538bd8304d602c695172f9b]: Commencement: Sch. para. 5 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-5fbe01ce0538bd8304d602c695172f9b]: Commencement: Sch. para. 5 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
-[^key-139551ef75dbefdc05b409079e0245a8]: Commencement: Sch. para. 6 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-139551ef75dbefdc05b409079e0245a8]: Commencement: Sch. para. 6 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
-[^key-ca332d8761f6c072a99d34f8189f5408]: Commencement: Sch. para. 7 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-ca332d8761f6c072a99d34f8189f5408]: Commencement: Sch. para. 7 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
-[^key-90f1211b58aa525201279f153a4feef1]: Commencement: Sch. para. 8 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-90f1211b58aa525201279f153a4feef1]: Commencement: Sch. para. 8 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
-[^key-f4f39d450468b727a3b558a00998c4a5]: Commencement: Sch. para. 9 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-f4f39d450468b727a3b558a00998c4a5]: Commencement: Sch. para. 9 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
-[^key-5c4469e1c980a57eaa19804961fc1b66]: Commencement: Sch. para. 10 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-5c4469e1c980a57eaa19804961fc1b66]: Commencement: Sch. para. 10 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
-[^key-08c935a4b9ce77c52eddd3aa8ad47bcb]: Commencement: Sch. para. 11 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-08c935a4b9ce77c52eddd3aa8ad47bcb]: Commencement: Sch. para. 11 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
 
-[^key-fdcaefd422ff40d902eb0634acde0347]: Commencement: Sch. para. 12 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)
+[^c-fdcaefd422ff40d902eb0634acde0347]: Commencement: Sch. para. 12 in force at 1.2.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1)

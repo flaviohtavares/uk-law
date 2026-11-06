@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food (Pistachios from Iran) (Emergency Control) (Wales) Regulations 2003 (revoked)[^key-3717267aaa7306a824db8c29888ffb8c]
+The Food (Pistachios from Iran) (Emergency Control) (Wales) Regulations 2003 (revoked)[^c-3717267aaa7306a824db8c29888ffb8c]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into force
 
 17th April 2003
 
-[^key-3717267aaa7306a824db8c29888ffb8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3717267aaa7306a824db8c29888ffb8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-3717267aaa7306a824db8c29888ffb8c]
+## 1. Title, commencement and extent[^c-3717267aaa7306a824db8c29888ffb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3717267aaa7306a824db8c29888ffb8c]
+## 2. Interpretation[^c-3717267aaa7306a824db8c29888ffb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on import[^key-3717267aaa7306a824db8c29888ffb8c]
+## 3. Prohibition on import[^c-3717267aaa7306a824db8c29888ffb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-3717267aaa7306a824db8c29888ffb8c]
+## 4. Enforcement[^c-3717267aaa7306a824db8c29888ffb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the Food Safety Act 1990 and sampling and analysis[^key-3717267aaa7306a824db8c29888ffb8c]
+## 5. Application of various provisions of the Food Safety Act 1990 and sampling and analysis[^c-3717267aaa7306a824db8c29888ffb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Re-dispatch or destruction of illegal imports[^key-3717267aaa7306a824db8c29888ffb8c]
+## 6. Re-dispatch or destruction of illegal imports[^c-3717267aaa7306a824db8c29888ffb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation of the Food (Pistachios from Iran) (Emergency Control) Order 1997[^key-3717267aaa7306a824db8c29888ffb8c]
+## 7. Revocation of the Food (Pistachios from Iran) (Emergency Control) Order 1997[^c-3717267aaa7306a824db8c29888ffb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3717267aaa7306a824db8c29888ffb8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3717267aaa7306a824db8c29888ffb8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3717267aaa7306a824db8c29888ffb8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3717267aaa7306a824db8c29888ffb8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3717267aaa7306a824db8c29888ffb8c]: Textual amendment: Regulations revoked (6.9.2003) by [The Food (Pistachios from Iran) (Emergency Control) (Wales) (No.2) Regulations 2003 (S.I. 2003/2288)](https://www.legislation.gov.uk/uksi/2003/2288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2288/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2003/2288/regulation/7)
+[^c-3717267aaa7306a824db8c29888ffb8c]: Textual amendment: Regulations revoked (6.9.2003) by [The Food (Pistachios from Iran) (Emergency Control) (Wales) (No.2) Regulations 2003 (S.I. 2003/2288)](https://www.legislation.gov.uk/uksi/2003/2288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2288/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2003/2288/regulation/7)

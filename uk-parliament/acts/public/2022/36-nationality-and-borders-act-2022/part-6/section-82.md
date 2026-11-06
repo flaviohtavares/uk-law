@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Pre-consolidation amendments of immigration legislation[^key-a0c9bee0b5e697c76977cf7dfb6fb694][^key-e54fdec1d82cc1b9a3baddc95ba7b8f2]
+## 82. Pre-consolidation amendments of immigration legislation[^c-a0c9bee0b5e697c76977cf7dfb6fb694][^c-e54fdec1d82cc1b9a3baddc95ba7b8f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a0c9bee0b5e697c76977cf7dfb6fb694]: Commencement: S. 82 in force at Royal Assent for specified purposes, see [s. 87(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/i)
+[^c-a0c9bee0b5e697c76977cf7dfb6fb694]: Commencement: S. 82 in force at Royal Assent for specified purposes, see [s. 87(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/i)
 
-[^key-e54fdec1d82cc1b9a3baddc95ba7b8f2]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2022/36/section/82) in force at 28.6.2022 in so far as not already in force by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
+[^c-e54fdec1d82cc1b9a3baddc95ba7b8f2]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2022/36/section/82) in force at 28.6.2022 in so far as not already in force by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)

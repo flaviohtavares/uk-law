@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22A. Provision of information to new responsible person[^key-42ad4e0faec7a17ff16db02646fc59bf]
+## 22A. Provision of information to new responsible person[^c-42ad4e0faec7a17ff16db02646fc59bf]
 
 *Extent: E+W*
 
@@ -31,8 +31,8 @@ summary: ''
 - (c) the name of any other person who is a responsible person in relation to the premises and an address in the United Kingdom at which that person, or someone acting on their behalf, will accept notices and other documents (where known);
 - (d) where the premises consist of or include a higher-risk building, the identity of any other person who is an accountable person in relation to the premises (where known);
 - (e) any information given under regulation 38 of the Building Regulations 2010 ([S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214)) (fire safety information);
-- (ea)[^key-037c9c500bc099302b4c562f269ef23e] any information given under regulation 38 or 39 of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (fire safety information);
-- (eb)[^key-a966df281032b4b785c7f103a1ea887b] any information given under regulation 37 or 38 of the Building (Higher-Risk Buildings Procedures) (Wales) Regulations 2025 (fire safety information);
+- (ea)[^c-037c9c500bc099302b4c562f269ef23e] any information given under regulation 38 or 39 of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (fire safety information);
+- (eb)[^c-a966df281032b4b785c7f103a1ea887b] any information given under regulation 37 or 38 of the Building (Higher-Risk Buildings Procedures) (Wales) Regulations 2025 (fire safety information);
 - (f) any other matters specified in regulations made by the relevant authority.
 
 (4) The information is to be provided at such times, and in such form, as may be specified in regulations made by the relevant authority.
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-42ad4e0faec7a17ff16db02646fc59bf]: Textual amendment: Arts. 22A, 22B inserted (1.10.2023 except in relation to W., 1.10.2023 for W. in relation to art. 22A) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 156(8)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/8), [170(4)(b)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 4](https://www.legislation.gov.uk/uksi/2023/362/regulation/4); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 3](https://www.legislation.gov.uk/uksi/2023/914/regulation/3)
+[^c-42ad4e0faec7a17ff16db02646fc59bf]: Textual amendment: Arts. 22A, 22B inserted (1.10.2023 except in relation to W., 1.10.2023 for W. in relation to art. 22A) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 156(8)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/8), [170(4)(b)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 4](https://www.legislation.gov.uk/uksi/2023/362/regulation/4); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 3](https://www.legislation.gov.uk/uksi/2023/914/regulation/3)
 
-[^key-037c9c500bc099302b4c562f269ef23e]: Textual amendment: Art. 22A(3)(ea) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [63](https://www.legislation.gov.uk/uksi/2023/909/regulation/63) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
+[^c-037c9c500bc099302b4c562f269ef23e]: Textual amendment: Art. 22A(3)(ea) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [63](https://www.legislation.gov.uk/uksi/2023/909/regulation/63) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
 
-[^key-a966df281032b4b785c7f103a1ea887b]: Textual amendment: Art. 22A(3)(eb) inserted (1.7.2026) by [The Building Safety Act 2022 (Consequential Amendments) (Wales) Regulations 2026 (W.S.I. 2026/55)](https://www.legislation.gov.uk/wsi/2026/55), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/55/regulation/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2026/55/regulation/9/2) (with [reg. 13](https://www.legislation.gov.uk/wsi/2026/55/regulation/13))
+[^c-a966df281032b4b785c7f103a1ea887b]: Textual amendment: Art. 22A(3)(eb) inserted (1.7.2026) by [The Building Safety Act 2022 (Consequential Amendments) (Wales) Regulations 2026 (W.S.I. 2026/55)](https://www.legislation.gov.uk/wsi/2026/55), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/55/regulation/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2026/55/regulation/9/2) (with [reg. 13](https://www.legislation.gov.uk/wsi/2026/55/regulation/13))

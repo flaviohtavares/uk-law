@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Restriction of proceedings for breach of Regulations[^key-5dd384f7bac2b6e2ed38ec2b5bd85759]
+## 40. Restriction of proceedings for breach of Regulations[^c-5dd384f7bac2b6e2ed38ec2b5bd85759]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5dd384f7bac2b6e2ed38ec2b5bd85759]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2006/261/regulation/40) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-5dd384f7bac2b6e2ed38ec2b5bd85759]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2006/261/regulation/40) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00031]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)

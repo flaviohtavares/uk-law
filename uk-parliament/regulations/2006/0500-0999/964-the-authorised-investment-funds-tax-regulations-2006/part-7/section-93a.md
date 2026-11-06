@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93A. Modifications of TMA 1970[^key-977f5837e94f88fa48439dbbf0edd3e2]
+## 93A. Modifications of TMA 1970[^c-977f5837e94f88fa48439dbbf0edd3e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-977f5837e94f88fa48439dbbf0edd3e2]: Textual amendment: Reg. 93A inserted (6.4.2007) by [The Authorised Investment Funds (Tax) (Amendment No. 2) Regulations 2007 (S.I. 2007/794)](https://www.legislation.gov.uk/uksi/2007/794), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/794/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2007/794/regulation/5)
+[^c-977f5837e94f88fa48439dbbf0edd3e2]: Textual amendment: Reg. 93A inserted (6.4.2007) by [The Authorised Investment Funds (Tax) (Amendment No. 2) Regulations 2007 (S.I. 2007/794)](https://www.legislation.gov.uk/uksi/2007/794), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/794/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2007/794/regulation/5)

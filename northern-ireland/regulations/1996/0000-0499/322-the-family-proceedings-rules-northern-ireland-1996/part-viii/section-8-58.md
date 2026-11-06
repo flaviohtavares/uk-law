@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8.58. Applications for certified copy of judgment and certificate under Article 39 of the Council Regulation[^key-9c9707554e3405848812f4a4497188e8]
+## 8.58. Applications for certified copy of judgment and certificate under Article 39 of the Council Regulation[^c-9c9707554e3405848812f4a4497188e8]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c9707554e3405848812f4a4497188e8]: Textual amendment: [Rule 8.58](https://www.legislation.gov.uk/nisr/1996/322/rule/8.58) omitted (31.12.2020) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/235)](https://www.legislation.gov.uk/nisr/2019/235), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/235/rule/1/1), [2(33)](https://www.legislation.gov.uk/nisr/2019/235/article/2/33) (with [rule 3](https://www.legislation.gov.uk/nisr/2019/235/rule/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9c9707554e3405848812f4a4497188e8]: Textual amendment: [Rule 8.58](https://www.legislation.gov.uk/nisr/1996/322/rule/8.58) omitted (31.12.2020) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/235)](https://www.legislation.gov.uk/nisr/2019/235), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/235/rule/1/1), [2(33)](https://www.legislation.gov.uk/nisr/2019/235/article/2/33) (with [rule 3](https://www.legislation.gov.uk/nisr/2019/235/rule/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

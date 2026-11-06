@@ -44,7 +44,7 @@ The Department of Health, Social Services and Public Safety[^f00001], makes the 
 
 In accordance with Articles 61(4), 62(3) and 63(3) of the 1972 Order, the Department has consulted with such organisations as appear to it to be representative of the dental, ophthalmic and pharmaceutical professions.
 
-## 1. Citation, commencement and interpretation[^key-dd2e8bac67b5690a0d4f7eef9cbe5d76]
+## 1. Citation, commencement and interpretation[^c-dd2e8bac67b5690a0d4f7eef9cbe5d76]
 
 (1) These Regulations may be cited as the Health and Social Care (Disciplinary Procedures) Regulations (Northern Ireland) 2016 and shall come into operation on 1st April 2016.
 
@@ -58,7 +58,7 @@ In accordance with Articles 61(4), 62(3) and 63(3) of the 1972 Order, the Depart
 - “dentist” means a dental practitioner;
 - “drug” includes medicine; Services
 - “estimate” has the same meaning as in the Dental Services Regulations;
-- “[^key-66c71c48fa1cdc3d70327a215e968a74]**Family Practitioner Services Independent Appeal Panel**” means the body established under regulation 3 of the Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022;
+- “[^c-66c71c48fa1cdc3d70327a215e968a74]**Family Practitioner Services Independent Appeal Panel**” means the body established under regulation 3 of the Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022;
 - “ophthalmic list” has the same meaning as in regulation 8 of the Ophthalmic Services Regulations;
 - “ophthalmic medical practitioner” has the same meaning as in the Ophthalmic Services Regulations;
 - “Ophthalmic Services Regulations” means the General Ophthalmic Services Regulations (Northern Ireland) 2007[^f00005];
@@ -90,7 +90,7 @@ In accordance with Articles 61(4), 62(3) and 63(3) of the 1972 Order, the Depart
 - (b) paragraph 11 of Schedule 2 to the Pharmaceutical Services Regulations;
 - (c) paragraphs 10 and 11 of Schedule 1 to the Ophthalmic Services Regulations.
 
-## 2. Provisions relating to the start of disciplinary proceedings[^key-1a26127ba1864d46052ce42cb9e4df58]
+## 2. Provisions relating to the start of disciplinary proceedings[^c-1a26127ba1864d46052ce42cb9e4df58]
 
 (1) Where the Regional Board receives information which it considers could amount to an allegation that a practitioner has failed to comply with their terms of service, hereinafter referred to as the “disciplinary matter”, it shall decide either to take no action or take one or both of the courses of action set out in paragraph (2).
 
@@ -108,7 +108,7 @@ In accordance with Articles 61(4), 62(3) and 63(3) of the 1972 Order, the Depart
 
 (5) Where the Regional Board considers that a payment has been made to a practitioner which was not due and the practitioner does not admit the overpayment, the Regional Board may investigate the matter at any time.
 
-## 3. Time limits[^key-e8419b3e9318107794fe301495bf69dd]
+## 3. Time limits[^c-e8419b3e9318107794fe301495bf69dd]
 
 (1) Where the disciplinary matter concerns an allegation which has been the subject of a complaint the Regional Board shall decide whether to act under regulation 2(2)(a) or (b) within 28 days of the allegation having ceased to be the subject of a complaint which is being investigated.
 
@@ -126,7 +126,7 @@ In accordance with Articles 61(4), 62(3) and 63(3) of the 1972 Order, the Depart
 
 (5) For the purposes of paragraph (3) “treatment” has the same meaning as in regulation 2 of the Dental Services Regulations.
 
-## 4. Determination of the Regional Board[^key-0a6b37160b7ef1e2c8fada860a693580]
+## 4. Determination of the Regional Board[^c-0a6b37160b7ef1e2c8fada860a693580]
 
 (1) The Regional Board, after investigating the disciplinary matter and considering the evidence available to it shall—
 
@@ -148,10 +148,10 @@ In accordance with Articles 61(4), 62(3) and 63(3) of the 1972 Order, the Depart
 
 (3) In acting under sub-paragraphs (a) to (c) of paragraph (2) the Regional Board may take into consideration any previous determination made by the Regional Board, so long as such a determination has not been overturned on appeal and was not made more than 6 years prior to the date of investigation under regulation 2(2), that the practitioner had, on some other occasion, failed to comply with their terms of service.
 
-(4) The Regional Board shall give notice in writing of its determination under paragraph (1) and any determination under paragraph (2) to the practitioner [^key-2ee186e70ca605c329ee292baa0d8d3f]... and shall include with the notice—
+(4) The Regional Board shall give notice in writing of its determination under paragraph (1) and any determination under paragraph (2) to the practitioner [^c-2ee186e70ca605c329ee292baa0d8d3f]... and shall include with the notice—
 
 - (a) a statement of its findings of fact and the inferences drawn from those findings; and
-- (b) a statement as to the rights of appeal to the Family Practitioner Services Independent Appeal Panel[^key-1f5f75ae1c32ec9b5f5fc5d169da1d2e] under regulation 5.
+- (b) a statement as to the rights of appeal to the Family Practitioner Services Independent Appeal Panel[^c-1f5f75ae1c32ec9b5f5fc5d169da1d2e] under regulation 5.
 
 (5) Where, in the case of a dentist, the Regional Board has determined that action should be taken in accordance with paragraph (2)(a), by recovery of an amount from the dentist and is of the opinion that such recovery should be effected by deduction of the amount from the dentist’s remuneration, the Regional Board shall notify the RBSO, and the RBSO shall effect the recovery.
 
@@ -159,19 +159,19 @@ In accordance with Articles 61(4), 62(3) and 63(3) of the 1972 Order, the Depart
 
 (7) A determination made by the Regional Board under the provisions of paragraph (2)(a), (b) or (c) shall not take effect until the expiration of 45 days from and including the date on which notice thereof is served on the practitioner, or, in a case where an appeal has been brought under regulation 5, until the appeal is determined or withdrawn.
 
-## 5. Appeal to the Family Practitioner Services Independent Appeal Panel[^key-5fc8e030568ef863ece9313bc7842370][^key-fb1a234cba81a7bbc977df38efb4b017]
+## 5. Appeal to the Family Practitioner Services Independent Appeal Panel[^c-5fc8e030568ef863ece9313bc7842370][^c-fb1a234cba81a7bbc977df38efb4b017]
 
-(1) An appeal may be made to the Family Practitioner Services Independent Appeal Panel[^key-df410227eaccb0b69d0bf5ed44421e2e] by a practitioner—
+(1) An appeal may be made to the Family Practitioner Services Independent Appeal Panel[^c-df410227eaccb0b69d0bf5ed44421e2e] by a practitioner—
 
 - (a) against a finding of fact, or an inference drawn from a finding of fact which, in either case, is adverse to the practitioner pursuant to regulation 4 (1)(a) or (b);
-- (b) against any determination by the Department[^key-c8e32be5d08d8d8bf251d2a5325349a7] under regulation 4(1)(c)(ii) to take action in accordance with regulation 4(2)(a), (b) or (c);
+- (b) against any determination by the Department[^c-c8e32be5d08d8d8bf251d2a5325349a7] under regulation 4(1)(c)(ii) to take action in accordance with regulation 4(2)(a), (b) or (c);
 - (c) in respect of a determination by the Department that an overpayment has or has not been made in respect of the practitioner’s remuneration;
 
 by giving notice of appeal in accordance with paragraph (2).
 
-(2) A notice of an appeal shall be in writing and sent to the Family Practitioner Services Independent Appeal Panel[^key-6e4c609a91a76932f133bebbc5dd2452] within 45 days beginning on and including the date on which notice of the Department[^key-0101954c2598ac9e19562ddfd20394a1] decision was given to the practitioner under regulation 4(4), and shall contain a concise statement of the grounds of appeal upon which the practitioner intends to rely.
+(2) A notice of an appeal shall be in writing and sent to the Family Practitioner Services Independent Appeal Panel[^c-6e4c609a91a76932f133bebbc5dd2452] within 45 days beginning on and including the date on which notice of the Department[^c-0101954c2598ac9e19562ddfd20394a1] decision was given to the practitioner under regulation 4(4), and shall contain a concise statement of the grounds of appeal upon which the practitioner intends to rely.
 
-(3) On an appeal to which paragraph (1)(a) or (c) applies, the Family Practitioner Services Independent Appeal Panel[^key-bcb0e51eaa2bdbf60ddb2a8e5c36a94f] shall consider the appeal on the basis of such evidence as was available to the Department[^key-d143986a26430d6679c99b82ceb82102] and of such further evidence as shall have been adduced on the appeal, and shall—
+(3) On an appeal to which paragraph (1)(a) or (c) applies, the Family Practitioner Services Independent Appeal Panel[^c-bcb0e51eaa2bdbf60ddb2a8e5c36a94f] shall consider the appeal on the basis of such evidence as was available to the Department[^c-d143986a26430d6679c99b82ceb82102] and of such further evidence as shall have been adduced on the appeal, and shall—
 
 - (a) make such findings of fact as it sees fit;
 - (b) draw such inferences from those findings as it sees fit;
@@ -185,36 +185,36 @@ by giving notice of appeal in accordance with paragraph (2).
     - (bb) the inferences drawn from those findings;
   - (ii) determine in accordance with any one or more of the following provisions, that is, regulation 4(2)(a), (b) and (c) (as modified in accordance with paragraph (4)) or regulations 7 and 8, whether any, and if so what, action should be taken in relation to the practitioner.
 
-(4) For the purposes of paragraphs (3)(c)(ii) and (e)(ii), regulation 4(2)(a), (b) and (c), and (3) shall have effect as if for any reference to “the Department[^key-b1025e10ca5ed50d63e638eac70dd35a]” there were substituted a reference to “the Family Practitioner Services Independent Appeal Panel[^key-cc4006fb6ad46a22a2dfab1eccc42478]”.
+(4) For the purposes of paragraphs (3)(c)(ii) and (e)(ii), regulation 4(2)(a), (b) and (c), and (3) shall have effect as if for any reference to “the Department[^c-b1025e10ca5ed50d63e638eac70dd35a]” there were substituted a reference to “the Family Practitioner Services Independent Appeal Panel[^c-cc4006fb6ad46a22a2dfab1eccc42478]”.
 
 (5) The practitioner may withdraw their appeal at any time before it is determined—
 
 - (a) by giving notice to the Family Practitioner Services Independent Appeal Panel[^M_F_ec23feb4-505a-46fb-c831-08940a2e00d4] of their intention to do so; and
 - (b) with the consent of the Family Practitioner Services Independent Appeal Panel.
 
-(6)[^key-0b351cb1bc8570bc1ade84e59ee3ec09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-0b351cb1bc8570bc1ade84e59ee3ec09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Procedure on appeal[^key-af91f0f9e6ebd6211869ea63c171af1c]
+## 6. Procedure on appeal[^c-af91f0f9e6ebd6211869ea63c171af1c]
 
-(1) The Family Practitioner Services Independent Appeal Panel[^key-56f88e6876762e663a23f9f89a1359be] shall send a copy of the notice of appeal and of any further particulars furnished by the practitioner to the Department[^key-42d1649554cd20769c89866a790d70cc], and shall invite the Department to submit its observations on the appeal within 28 days of being sent the copy of the notice of appeal.
+(1) The Family Practitioner Services Independent Appeal Panel[^c-56f88e6876762e663a23f9f89a1359be] shall send a copy of the notice of appeal and of any further particulars furnished by the practitioner to the Department[^c-42d1649554cd20769c89866a790d70cc], and shall invite the Department to submit its observations on the appeal within 28 days of being sent the copy of the notice of appeal.
 
-(2) Where observations are made under paragraph (1), the Family Practitioner Services Independent Appeal Panel[^key-916d574fc76ecc2f8e1206ef4974dcdd] shall send a copy of those observations to the practitioner and shall invite them to submit their comments on the observations within 28 days of the practitioner being sent that copy.
+(2) Where observations are made under paragraph (1), the Family Practitioner Services Independent Appeal Panel[^c-916d574fc76ecc2f8e1206ef4974dcdd] shall send a copy of those observations to the practitioner and shall invite them to submit their comments on the observations within 28 days of the practitioner being sent that copy.
 
-(3)[^key-bd3441b2f078867f16c58f97dc3d01e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-bd3441b2f078867f16c58f97dc3d01e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-bd3441b2f078867f16c58f97dc3d01e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-bd3441b2f078867f16c58f97dc3d01e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-bd3441b2f078867f16c58f97dc3d01e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-bd3441b2f078867f16c58f97dc3d01e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-bd3441b2f078867f16c58f97dc3d01e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-bd3441b2f078867f16c58f97dc3d01e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-bd3441b2f078867f16c58f97dc3d01e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-bd3441b2f078867f16c58f97dc3d01e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-bd3441b2f078867f16c58f97dc3d01e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-bd3441b2f078867f16c58f97dc3d01e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9) Unless the practitioner and the Department[^key-d9ba3acd06c81665ca3b80c928efbfb1] notify the Family Practitioner Services Independent Appeal Panel[^key-eadd93b5dd3e18497457c68701f303c9], when providing observations under paragraphs (1) and (2), that they are content for the Family Practitioner Services Independent Appeal Panel[^key-d8f2b6002a3b388d55acb70a6bae1208] to determine the appeal on the basis of written representations, paragraphs (10) to (14) shall apply.
+(9) Unless the practitioner and the Department[^c-d9ba3acd06c81665ca3b80c928efbfb1] notify the Family Practitioner Services Independent Appeal Panel[^c-eadd93b5dd3e18497457c68701f303c9], when providing observations under paragraphs (1) and (2), that they are content for the Family Practitioner Services Independent Appeal Panel[^c-d8f2b6002a3b388d55acb70a6bae1208] to determine the appeal on the basis of written representations, paragraphs (10) to (14) shall apply.
 
-(10) The Family Practitioner Services Independent Appeal Panel[^key-35cfe92b8d415196d4ae2d1bf90fcb60] shall appoint a day for the hearing and shall give the practitioner and the Department[^key-225191a92a887cd2cbe3813a3480b4fa] not less than 21 days’ notice in writing of the day, time and place of the hearing.
+(10) The Family Practitioner Services Independent Appeal Panel[^c-35cfe92b8d415196d4ae2d1bf90fcb60] shall appoint a day for the hearing and shall give the practitioner and the Department[^c-225191a92a887cd2cbe3813a3480b4fa] not less than 21 days’ notice in writing of the day, time and place of the hearing.
 
 (11) No person shall, without the consent of the practitioner and the Family Practitioner Services Independent Appeal Panel[^M_F_e9222505-2524-467e-8fd3-b82b39fe4958], be admitted to the hearing unless they are—
 
@@ -228,28 +228,28 @@ by giving notice of appeal in accordance with paragraph (2).
 - (a) not less than seven days before the hearing, notice in writing was given to the Family Practitioner Services Independent Appeal Panel of such facts or contentions; or
 - (b) the Family Practitioner Services Independent Appeal Panel give their consent.
 
-(13) The Family Practitioner Services Independent Appeal Panel[^key-f50a873d009c6826cbd43e6c2b7ec3d7] shall give notice in writing to the practitioner and the Department[^key-218740449210293e754a68ddec861610] of its determination of the matters mentioned in regulation 5(3)(c), (d) or (4)(b) and shall include with the notice a statement of its reasons for the determination.
+(13) The Family Practitioner Services Independent Appeal Panel[^c-f50a873d009c6826cbd43e6c2b7ec3d7] shall give notice in writing to the practitioner and the Department[^c-218740449210293e754a68ddec861610] of its determination of the matters mentioned in regulation 5(3)(c), (d) or (4)(b) and shall include with the notice a statement of its reasons for the determination.
 
-(14)[^key-2ccf761636bcb7b89dbf7634d949f882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-2ccf761636bcb7b89dbf7634d949f882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Recovery of amounts from practitioners following appeal[^key-a7e5712766b81205c4861a81af336501]
+## 7. Recovery of amounts from practitioners following appeal[^c-a7e5712766b81205c4861a81af336501]
 
 (1) Where—
 
-- (a) in the case of an appeal under regulation 5(1)(a) the Family Practitioner Services Independent Appeal Panel[^key-8d49b8be9acb4db1391d102172c4186a] determines that a practitioner has failed to comply with their terms of service in so far as they have failed to exercise a proper degree of skill and attention in the treatment of a patient; or
+- (a) in the case of an appeal under regulation 5(1)(a) the Family Practitioner Services Independent Appeal Panel[^c-8d49b8be9acb4db1391d102172c4186a] determines that a practitioner has failed to comply with their terms of service in so far as they have failed to exercise a proper degree of skill and attention in the treatment of a patient; or
 - (b) an appeal is made under regulation 5(1)(b) or (c);
 
 the Family Practitioner Services Independent Appeal Panel shall, subject to the following provisions of this regulation, determine whether any, and if so what, amount shall be recovered from the practitioner, whether by way of deduction from their remuneration or otherwise.
 
-(2) The Family Practitioner Services Independent Appeal Panel[^key-75a64f7fc88f2a723bb5282205fad0d3] shall give notice in writing of its determination under paragraph (1) to the practitioner and the Department[^key-abcc5b0db9d47893e197572957af14e3], and shall include with the notice a statement of its reasons for its determination.
+(2) The Family Practitioner Services Independent Appeal Panel[^c-75a64f7fc88f2a723bb5282205fad0d3] shall give notice in writing of its determination under paragraph (1) to the practitioner and the Department[^c-abcc5b0db9d47893e197572957af14e3], and shall include with the notice a statement of its reasons for its determination.
 
-(3) Where the Family Practitioner Services Independent Appeal Panel[^key-8e4c591f8c39a285918e2cfd45fb51df] has determined under paragraph (1) that an amount shall be recovered from a practitioner, it shall direct the Department[^key-efcbe904f2b51ee3bdc54e0347f71cb9] to recover that amount either by deduction from the practitioner’s remuneration or otherwise.
+(3) Where the Family Practitioner Services Independent Appeal Panel[^c-8e4c591f8c39a285918e2cfd45fb51df] has determined under paragraph (1) that an amount shall be recovered from a practitioner, it shall direct the Department[^c-efcbe904f2b51ee3bdc54e0347f71cb9] to recover that amount either by deduction from the practitioner’s remuneration or otherwise.
 
-(4) Where the Department[^key-435ca1eb9abc33ee1f13b6593cf72cda] determines that any amount which it has been directed to recover under paragraph (3) is to be recovered by deduction from the practitioner’s remuneration, it shall notify the RBSO of the amount in question and the RBSO shall deduct that amount from the practitioner’s remuneration.
+(4) Where the Department[^c-435ca1eb9abc33ee1f13b6593cf72cda] determines that any amount which it has been directed to recover under paragraph (3) is to be recovered by deduction from the practitioner’s remuneration, it shall notify the RBSO of the amount in question and the RBSO shall deduct that amount from the practitioner’s remuneration.
 
-(5) Any sum which falls by virtue of paragraph (3) to be recovered by the Department[^key-a338281eb8b78b80c624bcae810b598f] shall, to the extent that it is not recovered by deduction from the practitioner’s remuneration, be a debt owed by the practitioner to the Department.
+(5) Any sum which falls by virtue of paragraph (3) to be recovered by the Department[^c-a338281eb8b78b80c624bcae810b598f] shall, to the extent that it is not recovered by deduction from the practitioner’s remuneration, be a debt owed by the practitioner to the Department.
 
-## 8. Prior approval in dental cases[^key-7e09af2e891d19399f888ad836fbc1ae]
+## 8. Prior approval in dental cases[^c-7e09af2e891d19399f888ad836fbc1ae]
 
 (1) Where—
 
@@ -264,36 +264,36 @@ the Department shall, subject to the following provisions of this regulation, de
 - (b) the period (to be specified as a number of months) for which the dentist is to be subject to the requirement; and
 - (c) the date on which that period is to begin, being a date falling no earlier than 28 days after the date on which notice of the requirement is given to the dentist under paragraph (3).
 
-(3) The Department shall give notice in writing of its determination under paragraph (1) to the dentist [^key-5027a1b4cdf7e8e8931141eac1603a9f]... and shall include with the notice a statement of its reasons for the determination.
+(3) The Department shall give notice in writing of its determination under paragraph (1) to the dentist [^c-5027a1b4cdf7e8e8931141eac1603a9f]... and shall include with the notice a statement of its reasons for the determination.
 
 (4) A dentist who is subject to a prior approval requirement under this regulation may at any time after the expiry of a period of 6 months from the date on which notice of the requirement was given under paragraph (3) apply to the Department in accordance with paragraph (5) for a direction that the requirement cease to have effect before the period specified therein has elapsed.
 
 (5) An application under paragraph (4) shall be made in writing and shall state the grounds on which the dentist contends that the requirement should cease to have effect.
 
-(6)[^key-41efad81bbd2e100cac0cd81fb0a2613] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-41efad81bbd2e100cac0cd81fb0a2613] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) The Department shall determine the application under paragraph (4) by—
 
-- (a)[^key-32ec5c7e3015fb9f7c481e32592074f0] terminating the prior approval requirement on a specified date falling before the end of the period specified under paragraph (2)(b); or
+- (a)[^c-32ec5c7e3015fb9f7c481e32592074f0] terminating the prior approval requirement on a specified date falling before the end of the period specified under paragraph (2)(b); or
 - (b) dismissing the application,
 
-and shall give notice in writing to the dentist[^key-fd8c06e46ba990d0204e099e084f6aa3]... and the Dental Committee of the determination and of the reasons for it.
+and shall give notice in writing to the dentist[^c-fd8c06e46ba990d0204e099e084f6aa3]... and the Dental Committee of the determination and of the reasons for it.
 
 (8) Where, on the date specified under paragraph (2)(c), the name of the dentist in respect of whom the relevant determination is made under paragraph (1) is not included in the dental list, the period specified under paragraph (2)(b) shall not begin until the next day on which their name is again included in the dental list.
 
 (9) For the purpose of computing the date on which a period specified under paragraph (2)(b) is to end, no account shall be taken of any day on which the name of a dentist in respect of whom the relevant determination is made is not included in the dental list.
 
-(10)[^key-e88c6fa39b49e5efd9a1fec5809e0cd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-e88c6fa39b49e5efd9a1fec5809e0cd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Death of a practitioner[^key-20b59f43e76404cb0867604adac3c32a]
+## 9. Death of a practitioner[^c-20b59f43e76404cb0867604adac3c32a]
 
 Where at any time after a disciplinary matter has been investigated by the Regional Board but before the Regional Board makes a determination under regulation 4 in relation to that matter, the practitioner to whom the matter relates dies, no further action shall be taken under these Regulations in relation to that practitioner.
 
-## 10. Power to dispense with requirements as to notices[^key-67246ab2a752a1c7bb5ae31d12b00689]
+## 10. Power to dispense with requirements as to notices[^c-67246ab2a752a1c7bb5ae31d12b00689]
 
 The Department may dispense with any requirements of these Regulations respecting notices, applications, documents or otherwise in any case where it appears to the Department just and proper to do so.
 
-## 11. Power to extend time limits[^key-3c1e1678c070e4cf59b9f7c3bbe7e19a]
+## 11. Power to extend time limits[^c-3c1e1678c070e4cf59b9f7c3bbe7e19a]
 
 (1) Where, by virtue of a provision of the Regulations—
 
@@ -317,7 +317,7 @@ the Department may, where it is satisfied that it is in all the circumstances re
 
 and shall include a statement of the grounds for the application.
 
-## 12. Fresh appointments[^key-dba4aef43f113e720a0115c41795f2c0]
+## 12. Fresh appointments[^c-dba4aef43f113e720a0115c41795f2c0]
 
 (1) Where a person appointed by the Department for any purpose of any provision of regulation 6—
 
@@ -330,7 +330,7 @@ the Department may rescind that appointment together with that of any other pers
 
 (3) For the purposes of this regulation a person has completed the purpose for which they were appointed if they have indicated to any other person also appointed for that purpose the decision to be given or recommendation to be made, even if they had not signed a report embodying the decision or recommendation.
 
-## 13. Referral of matters to professional bodies[^key-7ff1f7ec0105780c86db2a1b04dd5942]
+## 13. Referral of matters to professional bodies[^c-7ff1f7ec0105780c86db2a1b04dd5942]
 
 (1) Where the Regional Board has investigated a disciplinary matter and considers that the matter should be brought to the attention of the relevant professional body, it may refer to that body any documents in its possession connected with that disciplinary matter.
 
@@ -351,7 +351,7 @@ it may refer to that body any documents in its possession connected with that di
 - (c) in relation to an optician, the General Optical Council[^f00012];
 - (d) in relation to a pharmacist, the Pharmaceutical Society of Northern Ireland[^f00013].
 
-## 14. Consequential amendments[^key-6d0f9a5cd98a8bd8f67817f4af46feaa]
+## 14. Consequential amendments[^c-6d0f9a5cd98a8bd8f67817f4af46feaa]
 
 (1) In the Dental Services Regulations:
 
@@ -410,7 +410,7 @@ it may refer to that body any documents in its possession connected with that di
 
   .
 
-## 15. Revocations[^key-71d9745288066b082de9ed15aa3dd3c6]
+## 15. Revocations[^c-71d9745288066b082de9ed15aa3dd3c6]
 
 The Health and Social Care (Disciplinary Procedures) Regulations Northern Ireland) 2014[^f00017] and the Health and Social Care (Disciplinary Procedures) (Amendment) Regulations Northern Ireland) 2015[^f00018] are revoked.
 
@@ -436,11 +436,11 @@ The Health and Social Care (Disciplinary Procedures) Regulations (Northern Irela
 
 [^f00003]: Footnote: [S.I. 1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249)
 
-[^key-dd2e8bac67b5690a0d4f7eef9cbe5d76]: Commencement: Reg. 1 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
+[^c-dd2e8bac67b5690a0d4f7eef9cbe5d76]: Commencement: Reg. 1 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1993 No. 326](https://www.legislation.gov.uk/nisr/1993/326) relevant amending instrument is [S.R. 1996 No. 114](https://www.legislation.gov.uk/nisr/1996/114)
 
-[^key-66c71c48fa1cdc3d70327a215e968a74]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/2) inserted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 25(2)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/25/2) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-66c71c48fa1cdc3d70327a215e968a74]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/2) inserted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 25(2)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/25/2) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
 [^f00005]: Footnote: [S.R. 2007 No. 436](https://www.legislation.gov.uk/nisr/2007/436)
 
@@ -450,59 +450,59 @@ The Health and Social Care (Disciplinary Procedures) Regulations (Northern Irela
 
 [^f00008]: Footnote: Paragraphs 31A and 31B are inserted by regulation 2 of [S.R. 1996 No. 114](https://www.legislation.gov.uk/nisr/1996/114)
 
-[^key-1a26127ba1864d46052ce42cb9e4df58]: Commencement: Reg. 2 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
+[^c-1a26127ba1864d46052ce42cb9e4df58]: Commencement: Reg. 2 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
 
-[^key-e8419b3e9318107794fe301495bf69dd]: Commencement: Reg. 3 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
+[^c-e8419b3e9318107794fe301495bf69dd]: Commencement: Reg. 3 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
 
-[^key-0a6b37160b7ef1e2c8fada860a693580]: Commencement: Reg. 4 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
+[^c-0a6b37160b7ef1e2c8fada860a693580]: Commencement: Reg. 4 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
 
-[^key-2ee186e70ca605c329ee292baa0d8d3f]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/nisr/2016/104/regulation/4/4) omitted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 26(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/26/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-2ee186e70ca605c329ee292baa0d8d3f]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/nisr/2016/104/regulation/4/4) omitted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 26(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/26/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-1f5f75ae1c32ec9b5f5fc5d169da1d2e]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/nisr/2016/104/regulation/4/4) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 26(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/26/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-1f5f75ae1c32ec9b5f5fc5d169da1d2e]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/nisr/2016/104/regulation/4/4) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 26(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/26/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-5fc8e030568ef863ece9313bc7842370]: Commencement: Reg. 5 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
+[^c-5fc8e030568ef863ece9313bc7842370]: Commencement: Reg. 5 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
 
-[^key-fb1a234cba81a7bbc977df38efb4b017]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/nisr/2016/104/regulation/5) heading substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(2)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/2) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-fb1a234cba81a7bbc977df38efb4b017]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/nisr/2016/104/regulation/5) heading substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(2)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/2) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-df410227eaccb0b69d0bf5ed44421e2e]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/5/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(3)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/3/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-df410227eaccb0b69d0bf5ed44421e2e]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/5/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(3)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/3/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-c8e32be5d08d8d8bf251d2a5325349a7]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/5/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(3)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/3/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-c8e32be5d08d8d8bf251d2a5325349a7]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/5/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(3)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/3/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-6e4c609a91a76932f133bebbc5dd2452]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/nisr/2016/104/regulation/5/2) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(4)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/4/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-6e4c609a91a76932f133bebbc5dd2452]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/nisr/2016/104/regulation/5/2) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(4)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/4/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-0101954c2598ac9e19562ddfd20394a1]: Textual amendment: Word in [reg. 5(2)](https://www.legislation.gov.uk/nisr/2016/104/regulation/5/2) substituted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(4)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/4/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-0101954c2598ac9e19562ddfd20394a1]: Textual amendment: Word in [reg. 5(2)](https://www.legislation.gov.uk/nisr/2016/104/regulation/5/2) substituted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(4)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/4/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-bcb0e51eaa2bdbf60ddb2a8e5c36a94f]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/nisr/2016/104/regulation/5/3) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(5)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/5/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-bcb0e51eaa2bdbf60ddb2a8e5c36a94f]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/nisr/2016/104/regulation/5/3) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(5)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/5/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-d143986a26430d6679c99b82ceb82102]: Textual amendment: Word in [reg. 5(3)](https://www.legislation.gov.uk/nisr/2016/104/regulation/5/3) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(5)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/5/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-d143986a26430d6679c99b82ceb82102]: Textual amendment: Word in [reg. 5(3)](https://www.legislation.gov.uk/nisr/2016/104/regulation/5/3) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(5)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/5/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-b1025e10ca5ed50d63e638eac70dd35a]: Textual amendment: Word in [reg. 5(4)](https://www.legislation.gov.uk/nisr/2016/104/regulation/5/4) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(6)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/6/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-b1025e10ca5ed50d63e638eac70dd35a]: Textual amendment: Word in [reg. 5(4)](https://www.legislation.gov.uk/nisr/2016/104/regulation/5/4) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(6)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/6/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-cc4006fb6ad46a22a2dfab1eccc42478]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/nisr/2016/104/regulation/5/4) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(6)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/6/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-cc4006fb6ad46a22a2dfab1eccc42478]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/nisr/2016/104/regulation/5/4) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(6)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/6/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
 [^M_F_ec23feb4-505a-46fb-c831-08940a2e00d4]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/nisr/2016/104/regulation/5/4) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(7)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/6/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-0b351cb1bc8570bc1ade84e59ee3ec09]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/nisr/2016/104/regulation/5/6) omitted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(8)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/8) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-0b351cb1bc8570bc1ade84e59ee3ec09]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/nisr/2016/104/regulation/5/6) omitted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 27(8)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/27/8) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-af91f0f9e6ebd6211869ea63c171af1c]: Commencement: Reg. 6 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
+[^c-af91f0f9e6ebd6211869ea63c171af1c]: Commencement: Reg. 6 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
 
-[^key-56f88e6876762e663a23f9f89a1359be]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(2)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/2/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-56f88e6876762e663a23f9f89a1359be]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(2)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/2/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-42d1649554cd20769c89866a790d70cc]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(2)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/2/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-42d1649554cd20769c89866a790d70cc]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(2)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/2/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-916d574fc76ecc2f8e1206ef4974dcdd]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/2) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(3)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/3) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-916d574fc76ecc2f8e1206ef4974dcdd]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/2) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(3)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/3) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-bd3441b2f078867f16c58f97dc3d01e6]: Textual amendment: [Reg. 6(3)-(8)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/3) omitted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(4)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/4) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-bd3441b2f078867f16c58f97dc3d01e6]: Textual amendment: [Reg. 6(3)-(8)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/3) omitted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(4)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/4) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-d9ba3acd06c81665ca3b80c928efbfb1]: Textual amendment: Word in [reg. 6(9)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/9) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(5)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/5/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-d9ba3acd06c81665ca3b80c928efbfb1]: Textual amendment: Word in [reg. 6(9)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/9) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(5)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/5/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-eadd93b5dd3e18497457c68701f303c9]: Textual amendment: Words in [reg. 6(9)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/9) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(5)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/5/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-eadd93b5dd3e18497457c68701f303c9]: Textual amendment: Words in [reg. 6(9)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/9) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(5)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/5/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-d8f2b6002a3b388d55acb70a6bae1208]: Textual amendment: Words in [reg. 6(9)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/9) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(5)(c)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/5/c) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-d8f2b6002a3b388d55acb70a6bae1208]: Textual amendment: Words in [reg. 6(9)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/9) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(5)(c)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/5/c) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-35cfe92b8d415196d4ae2d1bf90fcb60]: Textual amendment: Words in [reg. 6(10)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/10) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(6)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/6/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-35cfe92b8d415196d4ae2d1bf90fcb60]: Textual amendment: Words in [reg. 6(10)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/10) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(6)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/6/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-225191a92a887cd2cbe3813a3480b4fa]: Textual amendment: Word in [reg. 6(10)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/10) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(6)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/6/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-225191a92a887cd2cbe3813a3480b4fa]: Textual amendment: Word in [reg. 6(10)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/10) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(6)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/6/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
 [^M_F_e9222505-2524-467e-8fd3-b82b39fe4958]: Textual amendment: Words in [reg. 6(11)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/11) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(7)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/7/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
@@ -514,49 +514,49 @@ The Health and Social Care (Disciplinary Procedures) Regulations (Northern Irela
 
 [^M_F_1f766b5b-050b-4895-9503-26ce08ec2ab6]: Textual amendment: Word in [reg. 6(12)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/12) substituted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(8)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/8/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-f50a873d009c6826cbd43e6c2b7ec3d7]: Textual amendment: Words in [reg. 6(13)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/13) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(9)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/9/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-f50a873d009c6826cbd43e6c2b7ec3d7]: Textual amendment: Words in [reg. 6(13)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/13) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(9)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/9/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-218740449210293e754a68ddec861610]: Textual amendment: Word in [reg. 6(13)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/13) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(9)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/9/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-218740449210293e754a68ddec861610]: Textual amendment: Word in [reg. 6(13)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/13) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(9)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/9/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-2ccf761636bcb7b89dbf7634d949f882]: Textual amendment: [Reg. 6(14)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/14) omitted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(10)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/10) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-2ccf761636bcb7b89dbf7634d949f882]: Textual amendment: [Reg. 6(14)](https://www.legislation.gov.uk/nisr/2016/104/regulation/6/14) omitted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 28(10)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/28/10) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-a7e5712766b81205c4861a81af336501]: Commencement: Reg. 7 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
+[^c-a7e5712766b81205c4861a81af336501]: Commencement: Reg. 7 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
 
-[^key-8d49b8be9acb4db1391d102172c4186a]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/7/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 29(2)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/29/2) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-8d49b8be9acb4db1391d102172c4186a]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/7/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 29(2)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/29/2) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-75a64f7fc88f2a723bb5282205fad0d3]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2016/104/regulation/7/2) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 29(3)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/29/3/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-75a64f7fc88f2a723bb5282205fad0d3]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2016/104/regulation/7/2) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 29(3)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/29/3/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-abcc5b0db9d47893e197572957af14e3]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2016/104/regulation/7/2) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 29(3)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/29/3/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-abcc5b0db9d47893e197572957af14e3]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2016/104/regulation/7/2) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 29(3)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/29/3/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-8e4c591f8c39a285918e2cfd45fb51df]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/nisr/2016/104/regulation/7/3) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 29(4)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/29/4/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-8e4c591f8c39a285918e2cfd45fb51df]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/nisr/2016/104/regulation/7/3) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 29(4)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/29/4/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-efcbe904f2b51ee3bdc54e0347f71cb9]: Textual amendment: Word in [reg. 7(3)](https://www.legislation.gov.uk/nisr/2016/104/regulation/7/3) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 29(4)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/29/4/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-efcbe904f2b51ee3bdc54e0347f71cb9]: Textual amendment: Word in [reg. 7(3)](https://www.legislation.gov.uk/nisr/2016/104/regulation/7/3) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 29(4)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/29/4/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-435ca1eb9abc33ee1f13b6593cf72cda]: Textual amendment: Word in [reg. 7(4)](https://www.legislation.gov.uk/nisr/2016/104/regulation/7/4) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 29(5)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/29/5) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-435ca1eb9abc33ee1f13b6593cf72cda]: Textual amendment: Word in [reg. 7(4)](https://www.legislation.gov.uk/nisr/2016/104/regulation/7/4) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 29(5)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/29/5) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-a338281eb8b78b80c624bcae810b598f]: Textual amendment: Word in [reg. 7(5)](https://www.legislation.gov.uk/nisr/2016/104/regulation/7/5) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 29(6)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/29/6) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-a338281eb8b78b80c624bcae810b598f]: Textual amendment: Word in [reg. 7(5)](https://www.legislation.gov.uk/nisr/2016/104/regulation/7/5) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 29(6)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/29/6) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-7e09af2e891d19399f888ad836fbc1ae]: Commencement: Reg. 8 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
+[^c-7e09af2e891d19399f888ad836fbc1ae]: Commencement: Reg. 8 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
 
-[^key-5027a1b4cdf7e8e8931141eac1603a9f]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/nisr/2016/104/regulation/8/3) omitted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 30(2)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/30/2) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-5027a1b4cdf7e8e8931141eac1603a9f]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/nisr/2016/104/regulation/8/3) omitted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 30(2)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/30/2) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-41efad81bbd2e100cac0cd81fb0a2613]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/nisr/2016/104/regulation/8/6) omitted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 30(3)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/30/3) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-41efad81bbd2e100cac0cd81fb0a2613]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/nisr/2016/104/regulation/8/6) omitted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 30(3)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/30/3) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-32ec5c7e3015fb9f7c481e32592074f0]: Textual amendment: [Reg. 8(7)(a)](https://www.legislation.gov.uk/nisr/2016/104/regulation/8/7/a) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 30(4)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/30/4/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-32ec5c7e3015fb9f7c481e32592074f0]: Textual amendment: [Reg. 8(7)(a)](https://www.legislation.gov.uk/nisr/2016/104/regulation/8/7/a) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 30(4)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/30/4/a) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-fd8c06e46ba990d0204e099e084f6aa3]: Textual amendment: Words in [reg. 8(7)](https://www.legislation.gov.uk/nisr/2016/104/regulation/8/7) omitted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 30(4)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/30/4/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-fd8c06e46ba990d0204e099e084f6aa3]: Textual amendment: Words in [reg. 8(7)](https://www.legislation.gov.uk/nisr/2016/104/regulation/8/7) omitted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 30(4)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/30/4/b) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-e88c6fa39b49e5efd9a1fec5809e0cd4]: Textual amendment: [Reg. 8(10)](https://www.legislation.gov.uk/nisr/2016/104/regulation/8/10) omitted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 30(5)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/30/5) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
+[^c-e88c6fa39b49e5efd9a1fec5809e0cd4]: Textual amendment: [Reg. 8(10)](https://www.legislation.gov.uk/nisr/2016/104/regulation/8/10) omitted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 30(5)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/30/5) (with [reg. 13](https://www.legislation.gov.uk/nisr/2022/109/regulation/13))
 
-[^key-20b59f43e76404cb0867604adac3c32a]: Commencement: Reg. 9 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
+[^c-20b59f43e76404cb0867604adac3c32a]: Commencement: Reg. 9 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
 
-[^key-67246ab2a752a1c7bb5ae31d12b00689]: Commencement: Reg. 10 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
+[^c-67246ab2a752a1c7bb5ae31d12b00689]: Commencement: Reg. 10 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
 
-[^key-3c1e1678c070e4cf59b9f7c3bbe7e19a]: Commencement: Reg. 11 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
+[^c-3c1e1678c070e4cf59b9f7c3bbe7e19a]: Commencement: Reg. 11 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
 
-[^key-dba4aef43f113e720a0115c41795f2c0]: Commencement: Reg. 12 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
+[^c-dba4aef43f113e720a0115c41795f2c0]: Commencement: Reg. 12 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
 
-[^key-7ff1f7ec0105780c86db2a1b04dd5942]: Commencement: Reg. 13 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
+[^c-7ff1f7ec0105780c86db2a1b04dd5942]: Commencement: Reg. 13 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
 
 [^f00010]: Footnote: *See* Medical Act [1983 (c.54)](https://www.legislation.gov.uk/ukpga/1983/54), section 1
 
@@ -566,7 +566,7 @@ The Health and Social Care (Disciplinary Procedures) Regulations (Northern Irela
 
 [^f00013]: Footnote: *See* Pharmacy (Northern Ireland) Order 1976 ([S.I. 1976/1213 N.I 22)](https://www.legislation.gov.uk/nisi/1976/1213) Article 3
 
-[^key-6d0f9a5cd98a8bd8f67817f4af46feaa]: Commencement: Reg. 14 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
+[^c-6d0f9a5cd98a8bd8f67817f4af46feaa]: Commencement: Reg. 14 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
 
 [^f00014]: Footnote: Regulations 23(1)(b) and 29(b) were amended by regulation 14 of [S.R. 2014 No. 267](https://www.legislation.gov.uk/nisr/2014/267)
 
@@ -574,7 +574,7 @@ The Health and Social Care (Disciplinary Procedures) Regulations (Northern Irela
 
 [^f00016]: Footnote: Regulation 14 was amended by regulation 16 of [S.R. 2014 No. 267](https://www.legislation.gov.uk/nisr/2014/267) and regulation 7 of [S.R. 2015 No. 205](https://www.legislation.gov.uk/nisr/2015/205)
 
-[^key-71d9745288066b082de9ed15aa3dd3c6]: Commencement: Reg. 15 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
+[^c-71d9745288066b082de9ed15aa3dd3c6]: Commencement: Reg. 15 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1)
 
 [^f00017]: Footnote: [S.R. 2014 No. 267](https://www.legislation.gov.uk/nisr/2014/267)
 

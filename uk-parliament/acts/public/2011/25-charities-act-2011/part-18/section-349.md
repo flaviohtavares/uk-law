@@ -23,7 +23,7 @@ summary: ''
 (1) Section 347(2) (negative procedure) does not apply to—
 
 - (a) an order under section 23 (power to amend Schedule 3 so as to add or remove exempt charities);
-- (b)[^key-78f57a1da280418cecf14ba779afd534] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-78f57a1da280418cecf14ba779afd534] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) an order under section 190 (power to amend provisions relating to indemnity insurance for charity trustees and trustees);
 - (d) an order under section 324 (power to amend provisions relating to appeals and applications to Tribunal).
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78f57a1da280418cecf14ba779afd534]: Textual amendment: [S. 349(1)(b)](https://www.legislation.gov.uk/ukpga/2011/25/section/349/1/b) omitted (31.10.2022) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/11); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 11(b)](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/11/b)
+[^c-78f57a1da280418cecf14ba779afd534]: Textual amendment: [S. 349(1)(b)](https://www.legislation.gov.uk/ukpga/2011/25/section/349/1/b) omitted (31.10.2022) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/11); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 11(b)](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/11/b)

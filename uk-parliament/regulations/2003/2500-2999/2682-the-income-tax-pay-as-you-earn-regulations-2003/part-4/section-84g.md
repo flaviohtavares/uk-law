@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84G. Specified information[^key-5c4100ee959ba4e92c9ce917a9b41898]
+## 84G. Specified information[^c-5c4100ee959ba4e92c9ce917a9b41898]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ The specified information is—
 
 ## Annotations
 
-[^key-5c4100ee959ba4e92c9ce917a9b41898]: Textual amendment: [Regs. 84E-84H](https://www.legislation.gov.uk/uksi/2003/2682/regulation/84E) and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2015 (S.I. 2015/171)](https://www.legislation.gov.uk/uksi/2015/171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/171/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2015/171/regulation/2/3)
+[^c-5c4100ee959ba4e92c9ce917a9b41898]: Textual amendment: [Regs. 84E-84H](https://www.legislation.gov.uk/uksi/2003/2682/regulation/84E) and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2015 (S.I. 2015/171)](https://www.legislation.gov.uk/uksi/2015/171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/171/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2015/171/regulation/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Interpretation[^key-19ce082f0ec80a91a592f26ced36b8f4]
+## 5. Interpretation[^c-19ce082f0ec80a91a592f26ced36b8f4]
 
 *Extent: E+W*
 
@@ -38,13 +38,13 @@ summary: ''
 - “the New Schools Regulations” means the School Governance (New Schools) (England) Regulations 2007[^f00010]
 - “parent” includes any individual who has or has had parental responsibility for, or cares or has cared for, a child or young person under the age of 19;
 - “relevant local authority” means the local authority in which a federated school is situated and which is responsible for maintaining that school;
-- “the[^key-9d173412bb710f6b9b041e748323ef0b] Roles and Procedures Regulations” means the School Governance (Roles, Procedures and Allowances) (England) Regulations 2013
+- “the[^c-9d173412bb710f6b9b041e748323ef0b] Roles and Procedures Regulations” means the School Governance (Roles, Procedures and Allowances) (England) Regulations 2013
 - “qualifying foundation school” means a foundation or a foundation special school which has a foundation which meets any one or more of the conditions in section 23A(2),(3) and (4) of the SSFA 1998[^f00012]; and
 - “the Staffing Regulations” means the School Staffing (England) Regulations 2009[^f00013].
 
 ## Annotations
 
-[^key-19ce082f0ec80a91a592f26ced36b8f4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/1035/regulation/5) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-19ce082f0ec80a91a592f26ced36b8f4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/1035/regulation/5) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
 
 [^f00006]: Footnote: [1988 c.40](https://www.legislation.gov.uk/ukpga/1988/40).
 
@@ -56,7 +56,7 @@ summary: ''
 
 [^f00010]: Footnote: [S.I. 2007/958](https://www.legislation.gov.uk/uksi/2007/958) as amended by [S.I. 2007/3464](https://www.legislation.gov.uk/uksi/2007/3464), [S.I. 2009/1924](https://www.legislation.gov.uk/uksi/2009/1924), [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172) and [S.I. 2010/2582](https://www.legislation.gov.uk/uksi/2010/2582).
 
-[^key-9d173412bb710f6b9b041e748323ef0b]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2012/1035/regulation/5) substituted (1.9.2013) by [The School Governance (Roles, Procedures and Allowances) (England) Regulations 2013 (S.I. 2013/1624)](https://www.legislation.gov.uk/uksi/2013/1624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/2/paragraph/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/3))
+[^c-9d173412bb710f6b9b041e748323ef0b]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2012/1035/regulation/5) substituted (1.9.2013) by [The School Governance (Roles, Procedures and Allowances) (England) Regulations 2013 (S.I. 2013/1624)](https://www.legislation.gov.uk/uksi/2013/1624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/2/paragraph/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/3))
 
 [^f00012]: Footnote: Section 23A(1)(a) was inserted by section 33(1) of the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40) and has been amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158) and [S.I. 2011/1396](https://www.legislation.gov.uk/uksi/2011/1396).
 

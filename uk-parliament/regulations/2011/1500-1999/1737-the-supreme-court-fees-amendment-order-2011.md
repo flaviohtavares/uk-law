@@ -32,7 +32,7 @@ summary: ''
 
 Supreme Court Of The United Kingdom
 
-The Supreme Court Fees (Amendment) Order 2011 (revoked)[^key-105ebb9f97f233971a5ac91033023ff5]
+The Supreme Court Fees (Amendment) Order 2011 (revoked)[^c-105ebb9f97f233971a5ac91033023ff5]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 5th August 2011
 
-[^key-105ebb9f97f233971a5ac91033023ff5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-105ebb9f97f233971a5ac91033023ff5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-105ebb9f97f233971a5ac91033023ff5]
+## 1. Citation and commencement[^c-105ebb9f97f233971a5ac91033023ff5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Supreme Court Fees Order 2009[^key-105ebb9f97f233971a5ac91033023ff5]
+## 2. Amendment of the Supreme Court Fees Order 2009[^c-105ebb9f97f233971a5ac91033023ff5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-105ebb9f97f233971a5ac91033023ff5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-105ebb9f97f233971a5ac91033023ff5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-105ebb9f97f233971a5ac91033023ff5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-105ebb9f97f233971a5ac91033023ff5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-105ebb9f97f233971a5ac91033023ff5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-105ebb9f97f233971a5ac91033023ff5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-105ebb9f97f233971a5ac91033023ff5]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1737) revoked (1.4.2024) by [The Supreme Court Fees Order 2024 (S.I. 2024/148)](https://www.legislation.gov.uk/uksi/2024/148), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/3)
+[^c-105ebb9f97f233971a5ac91033023ff5]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1737) revoked (1.4.2024) by [The Supreme Court Fees Order 2024 (S.I. 2024/148)](https://www.legislation.gov.uk/uksi/2024/148), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/3)

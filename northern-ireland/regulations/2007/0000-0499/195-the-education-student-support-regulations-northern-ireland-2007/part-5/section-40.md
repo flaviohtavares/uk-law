@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Students who are treated as in attendance[^key-29a4c81db93cbc38a65087f381097148]
+## 40. Students who are treated as in attendance[^c-29a4c81db93cbc38a65087f381097148]
 
 *Extent: N.I.*
 
 (1) A student to whom this regulation applies is treated as if he were in attendance on the designated course for the purpose of qualifying for the following grants—
 
 - (a) grant for students who have left care;
-- (aa)[^key-699173b4f4efb6d6a75234720f22bb9d] disabled students’ allowance;
+- (aa)[^c-699173b4f4efb6d6a75234720f22bb9d] disabled students’ allowance;
 - (b) grants for dependants;
 - (c) maintenance grant or special support grant;
 - (d) higher education bursary.
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-29a4c81db93cbc38a65087f381097148]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2007/195/regulation/40) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-29a4c81db93cbc38a65087f381097148]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2007/195/regulation/40) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-699173b4f4efb6d6a75234720f22bb9d]: Textual amendment: [Reg. 40(1)(aa)](https://www.legislation.gov.uk/nisr/2007/195/regulation/40/1/aa) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [11](https://www.legislation.gov.uk/nisr/2007/363/regulation/11)
+[^c-699173b4f4efb6d6a75234720f22bb9d]: Textual amendment: [Reg. 40(1)(aa)](https://www.legislation.gov.uk/nisr/2007/195/regulation/40/1/aa) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [11](https://www.legislation.gov.uk/nisr/2007/363/regulation/11)

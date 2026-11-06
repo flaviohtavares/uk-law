@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Electricity Supply Code[^key-4c7f21b46cc79f2c3e697787731acc72]
+## 5. Electricity Supply Code[^c-4c7f21b46cc79f2c3e697787731acc72]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c7f21b46cc79f2c3e697787731acc72]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/321/regulation/5) in operation at 1.11.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/2)
+[^c-4c7f21b46cc79f2c3e697787731acc72]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/321/regulation/5) in operation at 1.11.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/2)

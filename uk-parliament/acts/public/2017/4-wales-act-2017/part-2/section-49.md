@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Modification of water-related functions[^key-5e1b961a3e9d8bde8d0b699586bf7c46]
+## 49. Modification of water-related functions[^c-5e1b961a3e9d8bde8d0b699586bf7c46]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ In section 58 of the Government of Wales Act 2006, after subsection (2) insertâ€
 
 ## Annotations
 
-[^key-5e1b961a3e9d8bde8d0b699586bf7c46]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2017/4/section/49) in force at 8.1.2018 by [S.I. 2017/893](https://www.legislation.gov.uk/uksi/2017/893), [reg. 2](https://www.legislation.gov.uk/uksi/2017/893/regulation/2)
+[^c-5e1b961a3e9d8bde8d0b699586bf7c46]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2017/4/section/49) in force at 8.1.2018 by [S.I. 2017/893](https://www.legislation.gov.uk/uksi/2017/893), [reg. 2](https://www.legislation.gov.uk/uksi/2017/893/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Removal of human remains[^key-4e20e2580ebf759206898d330db819c2]
+## 36. Removal of human remains[^c-4e20e2580ebf759206898d330db819c2]
 
 *Extent: E+W*
 
@@ -68,7 +68,7 @@ subject to paragraph (9) the undertaker is to remove the remains and cause them 
 
 ## Annotations
 
-[^key-4e20e2580ebf759206898d330db819c2]: Commencement: Art. 36 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-4e20e2580ebf759206898d330db819c2]: Commencement: Art. 36 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
 [^c24104401]: Marginal citation: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81). Section 25 was substituted by section 2 of the [Church of England (Miscellaneous Provisions) 2014 (2014 No. 1)](https://www.legislation.gov.uk/ukpga/2014) and amended by section 96(1) of and paragraph 1 in Schedule 3 to, the [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (2018 No. 3)](https://www.legislation.gov.uk/ukpga/2018).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Provision of support and assistance[^key-103c39b62b62e8b143d52813600f2f49]
+## 55. Provision of support and assistance[^c-103c39b62b62e8b143d52813600f2f49]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-103c39b62b62e8b143d52813600f2f49]: Commencement: S. 55 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-103c39b62b62e8b143d52813600f2f49]: Commencement: S. 55 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)

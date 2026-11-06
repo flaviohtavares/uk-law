@@ -35,7 +35,7 @@ Sheriff Appeal Court
 
 Sheriff Court
 
-Act of Sederunt (Electronic Authentication) 2016 (revoked)[^key-44b853ac21ce0ce4b01a580832dc82e8]
+Act of Sederunt (Electronic Authentication) 2016 (revoked)[^c-44b853ac21ce0ce4b01a580832dc82e8]
 
 Made
 
@@ -49,21 +49,21 @@ Coming into force
 
 31st October 2016
 
-[^key-44b853ac21ce0ce4b01a580832dc82e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44b853ac21ce0ce4b01a580832dc82e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement, etc.[^key-44b853ac21ce0ce4b01a580832dc82e8]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Electronic authentication[^key-44b853ac21ce0ce4b01a580832dc82e8]
+## 1. Citation and commencement, etc.[^c-44b853ac21ce0ce4b01a580832dc82e8]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons[^key-44b853ac21ce0ce4b01a580832dc82e8]
+## 2. Electronic authentication[^c-44b853ac21ce0ce4b01a580832dc82e8]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Persons[^c-44b853ac21ce0ce4b01a580832dc82e8]
 
 **No longer in force.**
 
@@ -71,12 +71,12 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-44b853ac21ce0ce4b01a580832dc82e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44b853ac21ce0ce4b01a580832dc82e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-44b853ac21ce0ce4b01a580832dc82e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44b853ac21ce0ce4b01a580832dc82e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-44b853ac21ce0ce4b01a580832dc82e8]: Textual amendment: Act of Sederunt omitted (1.12.2025) by virtue of [Act of Sederunt (Electronic Signature and Electronic Transmission of Documents) 2025 (S.S.I. 2025/302)](https://www.legislation.gov.uk/ssi/2025/302), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2025/302/paragraph/1/2), [6(3)](https://www.legislation.gov.uk/ssi/2025/302/paragraph/6/3) (with [para. 2](https://www.legislation.gov.uk/ssi/2025/302/paragraph/2))
+[^c-44b853ac21ce0ce4b01a580832dc82e8]: Textual amendment: Act of Sederunt omitted (1.12.2025) by virtue of [Act of Sederunt (Electronic Signature and Electronic Transmission of Documents) 2025 (S.S.I. 2025/302)](https://www.legislation.gov.uk/ssi/2025/302), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2025/302/paragraph/1/2), [6(3)](https://www.legislation.gov.uk/ssi/2025/302/paragraph/6/3) (with [para. 2](https://www.legislation.gov.uk/ssi/2025/302/paragraph/2))

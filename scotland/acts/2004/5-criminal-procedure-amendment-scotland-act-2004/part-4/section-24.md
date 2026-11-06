@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Protection of Children (Scotland) Act 2003: references following conviction[^key-2e1ec7ad8b64ccc56909eef80461eeab]
+## 24. Protection of Children (Scotland) Act 2003: references following conviction[^c-2e1ec7ad8b64ccc56909eef80461eeab]
 
 *Extent: S*
 
-(1)[^key-0d6ec518ff6295ea02ea30804790729f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-0d6ec518ff6295ea02ea30804790729f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In subsection (1) of section 110 (note of appeal) of the 1995 Act, after “Act”, where second occurring, insert “ or, in the case of an appeal under section 106(1)(db) or (dc) of this Act, the date on which the proposal to make a reference is made ”.
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e1ec7ad8b64ccc56909eef80461eeab]: Commencement: S. 24 in force at 4.10.2004 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
+[^c-2e1ec7ad8b64ccc56909eef80461eeab]: Commencement: S. 24 in force at 4.10.2004 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
 
-[^key-0d6ec518ff6295ea02ea30804790729f]: Textual amendment: S. 24(1) repealed (28.2.2011) by [Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14), [s. 101(2)](https://www.legislation.gov.uk/asp/2007/14/section/101/2), [sch. 4 para. 43](https://www.legislation.gov.uk/asp/2007/14/schedule/4/paragraph/43) (with [ss. 90](https://www.legislation.gov.uk/asp/2007/14/section/90), [99](https://www.legislation.gov.uk/asp/2007/14/section/99)); [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a) (with [art. 5(2)](https://www.legislation.gov.uk/ssi/2011/157/article/5/2))
+[^c-0d6ec518ff6295ea02ea30804790729f]: Textual amendment: S. 24(1) repealed (28.2.2011) by [Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14), [s. 101(2)](https://www.legislation.gov.uk/asp/2007/14/section/101/2), [sch. 4 para. 43](https://www.legislation.gov.uk/asp/2007/14/schedule/4/paragraph/43) (with [ss. 90](https://www.legislation.gov.uk/asp/2007/14/section/90), [99](https://www.legislation.gov.uk/asp/2007/14/section/99)); [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a) (with [art. 5(2)](https://www.legislation.gov.uk/ssi/2011/157/article/5/2))

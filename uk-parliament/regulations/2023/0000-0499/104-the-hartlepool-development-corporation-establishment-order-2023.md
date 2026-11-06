@@ -48,17 +48,17 @@ The Secretary of State for Levelling Up, Housing and Communities makes this Orde
 
 The Mayor of Tees Valley has notified the Secretary of State of the designation of a Mayoral development area and of the name to be given to the Corporation for the area pursuant to section 197(6)(b) and (c) of the 2011 Act as modified by article 4, and the Schedule to, the 2017 Order.
 
-## 1. Citation and commencement[^key-5f71b9e6368c8c0e5e6cabd2ea381cb9]
+## 1. Citation and commencement[^c-5f71b9e6368c8c0e5e6cabd2ea381cb9]
 
 This Order may be cited as the Hartlepool Development Corporation (Establishment) Order 2023 and comes into force on 27th February 2023.
 
-## 2. Mayoral Development Area[^key-765d73d955598bedbf7ef449dcc44974]
+## 2. Mayoral Development Area[^c-765d73d955598bedbf7ef449dcc44974]
 
 (1) The Mayoral development area is the areas of land shown bounded externally by the inside edge of the black lines on the maps.
 
-(2) In paragraph (1), “**the maps**” means the maps marked “Map 1 of 2 referred to by the Hartlepool Development Corporation (Establishment) Order 2023” and “Map 2 of 2 referred to by the Hartlepool Development Corporation (Establishment) Order 2023” of which prints signed by a Deputy Director in the Department for Levelling Up, Housing and Communities have been deposited, and are available for inspection, at the offices of the Secretary of State for Housing, Communities and Local Government[^key-3d258039c5de07c92240582a6acac1b5] and at the offices of the Tees Valley Combined Authority.
+(2) In paragraph (1), “**the maps**” means the maps marked “Map 1 of 2 referred to by the Hartlepool Development Corporation (Establishment) Order 2023” and “Map 2 of 2 referred to by the Hartlepool Development Corporation (Establishment) Order 2023” of which prints signed by a Deputy Director in the Department for Levelling Up, Housing and Communities have been deposited, and are available for inspection, at the offices of the Secretary of State for Housing, Communities and Local Government[^c-3d258039c5de07c92240582a6acac1b5] and at the offices of the Tees Valley Combined Authority.
 
-## 3. Establishment and naming of the Hartlepool Development Corporation[^key-a9c176995aaae783c9923f6fccb53986]
+## 3. Establishment and naming of the Hartlepool Development Corporation[^c-a9c176995aaae783c9923f6fccb53986]
 
 There is established a corporation for the Mayoral development area named the “Hartlepool Development Corporation”.
 
@@ -90,10 +90,10 @@ A full impact assessment has not been prepared for this Order as no impact on th
 
 [^f00002]: Footnote: [S.I. 2017/250](https://www.legislation.gov.uk/uksi/2017/250). This Order was made under sections 105(3), 105A(1)(b) and (2)(a), 107D(1), 114(1) and (3) and 117(5) of the Local Democracy, Economic Development and Construction Act [2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20). Section 105A was inserted by section 7 of the Cities and Local Government Devolution Act [2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1) (“**the 2016 Act**”). Section 114 was amended by section 23 of, and paragraphs 26 of Schedule 5 to, the 2016 Act, and by [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997). Section 117(5) was inserted by section 23 of, and paragraph 29 of Schedule 5 to, the 2016 Act.
 
-[^key-5f71b9e6368c8c0e5e6cabd2ea381cb9]: Commencement: Art. 1 in force at 27.2.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/104/article/1)
+[^c-5f71b9e6368c8c0e5e6cabd2ea381cb9]: Commencement: Art. 1 in force at 27.2.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/104/article/1)
 
-[^key-765d73d955598bedbf7ef449dcc44974]: Commencement: Art. 2 in force at 27.2.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/104/article/1)
+[^c-765d73d955598bedbf7ef449dcc44974]: Commencement: Art. 2 in force at 27.2.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/104/article/1)
 
-[^key-3d258039c5de07c92240582a6acac1b5]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2023/104/article/2/2) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/25) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-3d258039c5de07c92240582a6acac1b5]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2023/104/article/2/2) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/25) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
 
-[^key-a9c176995aaae783c9923f6fccb53986]: Commencement: Art. 3 in force at 27.2.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/104/article/1)
+[^c-a9c176995aaae783c9923f6fccb53986]: Commencement: Art. 3 in force at 27.2.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/104/article/1)

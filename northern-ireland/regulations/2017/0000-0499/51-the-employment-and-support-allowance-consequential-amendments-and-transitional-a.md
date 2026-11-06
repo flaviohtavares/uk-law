@@ -349,7 +349,7 @@ Regulation 4(2)
 (2) In this Schedule—
 
 - “**assessment phase**” has the same meaning as in the Welfare Reform Act (Northern Ireland) 2007 [^c22871101];
-- “ **claim[^key-eda1de9857a82c056744e6e501189e70]** ” means a claim for an employment and support allowance made[^key-7797e3b18ff4e7412b5e3f7507da7d39] in accordance with regulations 4ZC, 4F, 4G and 4H of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 [^c22871111] or regulations 12 to 16 of the Universal Credit, Personal Independent Payment, Jobseeker's Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland) 2016 [^c22871121];
+- “ **claim[^c-eda1de9857a82c056744e6e501189e70]** ” means a claim for an employment and support allowance made[^c-7797e3b18ff4e7412b5e3f7507da7d39] in accordance with regulations 4ZC, 4F, 4G and 4H of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 [^c22871111] or regulations 12 to 16 of the Universal Credit, Personal Independent Payment, Jobseeker's Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland) 2016 [^c22871121];
 - “**employment and support allowance**” means an allowance under Part 1 of the Welfare Reform Act (Northern Ireland) 2007;
 - “**ESA Regulations 2008**” means the Employment and Support Allowance Regulations (Northern Ireland) 2008 [^c22871131]; and
 - “**ESA Regulations 2016**” means the Employment and Support Allowance Regulations (Northern Ireland) 2016 [^c22871141].
@@ -367,7 +367,7 @@ The second circumstance is where the claimant's current period of limited capabi
 
 ### 4. Claimants on Incapacity Benefits who have or will become notified persons
 
-The third circumstance is where the claimant has been,[^key-d2fc984e5d259333b06a9079261e99a1] is or becomes a notified person within the meaning of regulation 4 of the Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010 [^c22871151] (the notice commencing the conversion phase) and a determination is effective as to whether that person—
+The third circumstance is where the claimant has been,[^c-d2fc984e5d259333b06a9079261e99a1] is or becomes a notified person within the meaning of regulation 4 of the Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010 [^c22871151] (the notice commencing the conversion phase) and a determination is effective as to whether that person—
 
 - (a) has or is to be treated as having limited capability for work under Part 5 of the ESA Regulations 2008;
 - (b) has or is to be treated as having limited capability for work under Part 5 of the ESA Regulations 2016;
@@ -454,9 +454,9 @@ An assessment of the impact of removal of the work-related activity component fr
 
 [^c22871101]: Marginal citation: [2007 c.2](https://www.legislation.gov.uk/ukpga/2007/2)
 
-[^key-eda1de9857a82c056744e6e501189e70]: Textual amendment: Word in Sch. 2 para. 1(2) substituted (31.7.2017) by [The Employment and Support Allowance (Miscellaneous Amendments and Transitional and Savings Provision) Regulations (Northern Ireland) 2017 (S.R. 2017/148)](https://www.legislation.gov.uk/nisr/2017/148), [regs. 1](https://www.legislation.gov.uk/nisr/2017/148/regulation/1), [8(a)(i)](https://www.legislation.gov.uk/nisr/2017/148/regulation/8/a/i)
+[^c-eda1de9857a82c056744e6e501189e70]: Textual amendment: Word in Sch. 2 para. 1(2) substituted (31.7.2017) by [The Employment and Support Allowance (Miscellaneous Amendments and Transitional and Savings Provision) Regulations (Northern Ireland) 2017 (S.R. 2017/148)](https://www.legislation.gov.uk/nisr/2017/148), [regs. 1](https://www.legislation.gov.uk/nisr/2017/148/regulation/1), [8(a)(i)](https://www.legislation.gov.uk/nisr/2017/148/regulation/8/a/i)
 
-[^key-7797e3b18ff4e7412b5e3f7507da7d39]: Textual amendment: Word in Sch. 2 para. 1(2) inserted (31.7.2017) by [The Employment and Support Allowance (Miscellaneous Amendments and Transitional and Savings Provision) Regulations (Northern Ireland) 2017 (S.R. 2017/148)](https://www.legislation.gov.uk/nisr/2017/148), [regs. 1](https://www.legislation.gov.uk/nisr/2017/148/regulation/1), [8(a)(ii)](https://www.legislation.gov.uk/nisr/2017/148/regulation/8/a/ii)
+[^c-7797e3b18ff4e7412b5e3f7507da7d39]: Textual amendment: Word in Sch. 2 para. 1(2) inserted (31.7.2017) by [The Employment and Support Allowance (Miscellaneous Amendments and Transitional and Savings Provision) Regulations (Northern Ireland) 2017 (S.R. 2017/148)](https://www.legislation.gov.uk/nisr/2017/148), [regs. 1](https://www.legislation.gov.uk/nisr/2017/148/regulation/1), [8(a)(ii)](https://www.legislation.gov.uk/nisr/2017/148/regulation/8/a/ii)
 
 [^c22871111]: Marginal citation: S.R. [1987 No. 465](https://www.legislation.gov.uk/ukcm/1987/465); relevant amending Rules are S.R. [2006 No. 203](https://www.legislation.gov.uk/ukcm/2006/203) and S.R. [2008 No. 286](https://www.legislation.gov.uk/ukcm/2008/286); regulation 4ZC was inserted by Article 2(3) of S.R. [2006 No. 203](https://www.legislation.gov.uk/ukcm/2006/203); regulations 4F to H were inserted by regulation 13(5) of S.R. [2008 No. 286](https://www.legislation.gov.uk/ukcm/2008/286)
 
@@ -466,7 +466,7 @@ An assessment of the impact of removal of the work-related activity component fr
 
 [^c22871141]: Marginal citation: S.R. [2016 No. 219](https://www.legislation.gov.uk/ukcm/2016/219)
 
-[^key-d2fc984e5d259333b06a9079261e99a1]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2017/51/schedule/2/paragraph/4) inserted (31.7.2017) by [The Employment and Support Allowance (Miscellaneous Amendments and Transitional and Savings Provision) Regulations (Northern Ireland) 2017 (S.R. 2017/148)](https://www.legislation.gov.uk/nisr/2017/148), [regs. 1](https://www.legislation.gov.uk/nisr/2017/148/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2017/148/regulation/8/b)
+[^c-d2fc984e5d259333b06a9079261e99a1]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2017/51/schedule/2/paragraph/4) inserted (31.7.2017) by [The Employment and Support Allowance (Miscellaneous Amendments and Transitional and Savings Provision) Regulations (Northern Ireland) 2017 (S.R. 2017/148)](https://www.legislation.gov.uk/nisr/2017/148), [regs. 1](https://www.legislation.gov.uk/nisr/2017/148/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2017/148/regulation/8/b)
 
 [^c22871151]: Marginal citation: S.R. [2010 No. 312](https://www.legislation.gov.uk/ukcm/2010/312)
 

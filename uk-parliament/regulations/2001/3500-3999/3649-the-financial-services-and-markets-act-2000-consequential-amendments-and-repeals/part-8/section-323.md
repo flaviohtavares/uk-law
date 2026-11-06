@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 323. Exceptions from restrictions on disclosure of information by the Authorised Conveyancing Practitioners Board[^key-8d827ed636fe3524e7ced7217ac9e7de]
+## 323. Exceptions from restrictions on disclosure of information by the Authorised Conveyancing Practitioners Board[^c-8d827ed636fe3524e7ced7217ac9e7de]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,7 +67,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8d827ed636fe3524e7ced7217ac9e7de]: Commencement: Art. 323 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-8d827ed636fe3524e7ced7217ac9e7de]: Commencement: Art. 323 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00239]: Footnote: Section 50(2)(p)(i) was amended by the Bank of England Act [1998 (c. 11)](https://www.legislation.gov.uk/ukpga/1998/11), Schedule 5, paragraph 67(b).
 

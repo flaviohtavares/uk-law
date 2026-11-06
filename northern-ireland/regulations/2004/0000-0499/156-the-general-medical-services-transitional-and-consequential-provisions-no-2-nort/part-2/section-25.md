@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Inquiries about prescriptions and referrals[^key-959e3aaca23a4d1e9d51b96a49b771ea]
+## 25. Inquiries about prescriptions and referrals[^c-959e3aaca23a4d1e9d51b96a49b771ea]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Where, on or before 31st March 2004, a relevant medical practitioner had receive
 
 ## Annotations
 
-[^key-959e3aaca23a4d1e9d51b96a49b771ea]: Commencement: Art. 25 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-959e3aaca23a4d1e9d51b96a49b771ea]: Commencement: Art. 25 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

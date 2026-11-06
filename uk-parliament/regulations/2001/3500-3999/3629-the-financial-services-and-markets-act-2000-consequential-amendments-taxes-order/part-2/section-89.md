@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Persons not treated as UK representatives[^key-da6143748877982f00cf781471934b3a]
+## 89. Persons not treated as UK representatives[^c-da6143748877982f00cf781471934b3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da6143748877982f00cf781471934b3a]: Textual amendment: [Art. 89](https://www.legislation.gov.uk/uksi/2001/3629/article/89) revoked (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381](https://www.legislation.gov.uk/ukpga/2010/8/section/381), [Sch. 10 Pt. 11](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/11) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1))
+[^c-da6143748877982f00cf781471934b3a]: Textual amendment: [Art. 89](https://www.legislation.gov.uk/uksi/2001/3629/article/89) revoked (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381](https://www.legislation.gov.uk/ukpga/2010/8/section/381), [Sch. 10 Pt. 11](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/11) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1))

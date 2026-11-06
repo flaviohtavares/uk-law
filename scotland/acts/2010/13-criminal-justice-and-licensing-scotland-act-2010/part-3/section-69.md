@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Prohibition of personal conduct of case by accused in certain proceedings[^key-5c6e887a0c7df858ba400984e3d0fee3]
+## 69. Prohibition of personal conduct of case by accused in certain proceedings[^c-5c6e887a0c7df858ba400984e3d0fee3]
 
 *Extent: S*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c6e887a0c7df858ba400984e3d0fee3]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2010/13/section/69) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-5c6e887a0c7df858ba400984e3d0fee3]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2010/13/section/69) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

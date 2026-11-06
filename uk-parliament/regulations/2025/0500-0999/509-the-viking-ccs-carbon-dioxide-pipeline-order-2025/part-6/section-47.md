@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Requirements, appeals, etc.[^key-8f9e96091890aaae1346d5d1ac058eed]
+## 47. Requirements, appeals, etc.[^c-8f9e96091890aaae1346d5d1ac058eed]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f9e96091890aaae1346d5d1ac058eed]: Commencement: Art. 47 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-8f9e96091890aaae1346d5d1ac058eed]: Commencement: Art. 47 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)

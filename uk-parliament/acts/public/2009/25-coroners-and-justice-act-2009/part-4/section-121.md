@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Sentencing ranges[^key-62cdf9f0656dc857e21508d538c6a7c5]
+## 121. Sentencing ranges[^c-62cdf9f0656dc857e21508d538c6a7c5]
 
 *Extent: E+W*
 
@@ -48,8 +48,8 @@ summary: ''
 
 (7) For the purposes of subsection (6)(b) the following are to be disregarded—
 
-- (a) the requirements of section 73 of the Sentencing Code[^key-3c1a7d227f2ed167cf88c74611bba07f] (reduction in sentences for guilty pleas);
-- (b) sections 74, 387 and 388 of the Sentencing Code[^key-efdbcc54daa63d75dda3a9ef026253ff] (assistance by defendants: reduction or review of sentence) and any other rule of law by virtue of which an offender may receive a discounted sentence in consequence of assistance given (or offered to be given) by the offender to the prosecutor or investigator of an offence;
+- (a) the requirements of section 73 of the Sentencing Code[^c-3c1a7d227f2ed167cf88c74611bba07f] (reduction in sentences for guilty pleas);
+- (b) sections 74, 387 and 388 of the Sentencing Code[^c-efdbcc54daa63d75dda3a9ef026253ff] (assistance by defendants: reduction or review of sentence) and any other rule of law by virtue of which an offender may receive a discounted sentence in consequence of assistance given (or offered to be given) by the offender to the prosecutor or investigator of an offence;
 - (c) any rule of law as to the totality of sentences.
 
 (8) The provision made in accordance with subsection (6)(c) should be framed in such manner as the Council considers most appropriate for the purpose of assisting the court, when sentencing an offender for the offence, to determine the appropriate sentence within the offence range.
@@ -67,8 +67,8 @@ summary: ''
 
 ## Annotations
 
-[^key-62cdf9f0656dc857e21508d538c6a7c5]: Commencement: S. 121 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)
+[^c-62cdf9f0656dc857e21508d538c6a7c5]: Commencement: S. 121 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)
 
-[^key-3c1a7d227f2ed167cf88c74611bba07f]: Textual amendment: Words in [s. 121(7)(a)](https://www.legislation.gov.uk/ukpga/2009/25/section/121/7/a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 278(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/278/a) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3c1a7d227f2ed167cf88c74611bba07f]: Textual amendment: Words in [s. 121(7)(a)](https://www.legislation.gov.uk/ukpga/2009/25/section/121/7/a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 278(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/278/a) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-efdbcc54daa63d75dda3a9ef026253ff]: Textual amendment: Words in [s. 121(7)(b)](https://www.legislation.gov.uk/ukpga/2009/25/section/121/7/b) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 278(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/278/b) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-efdbcc54daa63d75dda3a9ef026253ff]: Textual amendment: Words in [s. 121(7)(b)](https://www.legislation.gov.uk/ukpga/2009/25/section/121/7/b) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 278(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/278/b) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

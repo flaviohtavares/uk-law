@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Every credit union must, by the due date, send to the FCA[^key-f74d2292f078b1faf6a44caacb921447] a return relating to its affairs for the year required by this Article to be included in the return together with—
+(1) Every credit union must, by the due date, send to the FCA[^c-f74d2292f078b1faf6a44caacb921447] a return relating to its affairs for the year required by this Article to be included in the return together with—
 
 - (a) a copy of the report of the auditors on the credit union's accounts for the year of account; and
 - (b) subject to paragraph (7), a copy of each balance sheet made during that year and of any report of the auditors on that balance sheet.
@@ -33,7 +33,7 @@ summary: ''
 (3) For the purposes of this Article—
 
 - (a) the end of a credit union's year of account is 30th September; and
-- (b) the due date is the date specified in rules made by the appropriate authority[^key-3facbd747b27ede289e67548dcc1401e] under the 2000 Act or, if no date is specified, 6 months after the end of its year of account.
+- (b) the due date is the date specified in rules made by the appropriate authority[^c-3facbd747b27ede289e67548dcc1401e] under the 2000 Act or, if no date is specified, 6 months after the end of its year of account.
 
 (4) A credit union may alter the date on which its current and subsequent years of account end by notice to the appropriate authority.
 
@@ -51,6 +51,6 @@ summary: ''
 
 [^c22313481]: Textual amendment: Art. 49 substituted (31.3.2012) by [Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011 (S.I. 2011/2832)](https://www.legislation.gov.uk/uksi/2011/2832), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2), [13(25)](https://www.legislation.gov.uk/uksi/2011/2832/article/13/25)
 
-[^key-f74d2292f078b1faf6a44caacb921447]: Textual amendment: Word in art. 49(1) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 2(i)](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/2/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-f74d2292f078b1faf6a44caacb921447]: Textual amendment: Word in art. 49(1) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 2(i)](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/2/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
 
-[^key-3facbd747b27ede289e67548dcc1401e]: Textual amendment: Words in art. 49(3)(b)(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 7 para. 8](https://www.legislation.gov.uk/uksi/2013/496/schedule/7/paragraph/8) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-3facbd747b27ede289e67548dcc1401e]: Textual amendment: Words in art. 49(3)(b)(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 7 para. 8](https://www.legislation.gov.uk/uksi/2013/496/schedule/7/paragraph/8) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))

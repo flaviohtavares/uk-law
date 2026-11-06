@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: N.I.*
 
-((not yet in force: 1)) *(not yet in force: This Article applies where it appears to)* *(not yet in force: an authorised officer of an enforcing authority[^key-1db0222d6778d796361b6daa918463a3])* *(not yet in force: that a person has failed to comply with a duty to furnish documents)* *(not yet in force: to the enforcing authority)* *(not yet in force: imposed under regulations made at any time under Article 5(7).)*
+((not yet in force: 1)) *(not yet in force: This Article applies where it appears to)* *(not yet in force: an authorised officer of an enforcing authority[^c-1db0222d6778d796361b6daa918463a3])* *(not yet in force: that a person has failed to comply with a duty to furnish documents)* *(not yet in force: to the enforcing authority)* *(not yet in force: imposed under regulations made at any time under Article 5(7).)*
 
-((not yet in force: 2)) *(not yet in force: The)* *(not yet in force: authorised officer[^key-5fe0ff3b7498cf1bf98c2754f95c7d1d])* *(not yet in force: may serve on that person a notice offering him the opportunity of discharging any liability to conviction for an offence under Article 5(8) by payment of a fixed penalty.)*
+((not yet in force: 2)) *(not yet in force: The)* *(not yet in force: authorised officer[^c-5fe0ff3b7498cf1bf98c2754f95c7d1d])* *(not yet in force: may serve on that person a notice offering him the opportunity of discharging any liability to conviction for an offence under Article 5(8) by payment of a fixed penalty.)*
 
 ((not yet in force: 3)) *(not yet in force: Where a person is given a notice under this Article in respect of an offence—)*
 
@@ -43,11 +43,11 @@ summary: ''
 
 ((not yet in force: 8)) *(not yet in force: The form of a notice under this Article is to be such as the Department may by order prescribe.)*
 
-((not yet in force: 9)) *(not yet in force: The fixed penalty payable to)* *(not yet in force: an enforcing authority[^key-e0132565b9a0ada8eded4dd1226335d5])* *(not yet in force: under this Article is, subject to paragraph (10), £300.)*
+((not yet in force: 9)) *(not yet in force: The fixed penalty payable to)* *(not yet in force: an enforcing authority[^c-e0132565b9a0ada8eded4dd1226335d5])* *(not yet in force: under this Article is, subject to paragraph (10), £300.)*
 
 ((not yet in force: 10)) *(not yet in force: The Department may by order substitute a different amount for the amount for the time being specified in paragraph (9).)*
 
-((not yet in force: 11)) *(not yet in force: An enforcing authority may[^key-f7404176a0f13ba9a69b3450445ae97f])* *(not yet in force: make provision for treating a fixed penalty as having been paid if a lesser amount is paid before the end of a period specified)* *(not yet in force: by the enforcing authority)* *(not yet in force: .)*
+((not yet in force: 11)) *(not yet in force: An enforcing authority may[^c-f7404176a0f13ba9a69b3450445ae97f])* *(not yet in force: make provision for treating a fixed penalty as having been paid if a lesser amount is paid before the end of a period specified)* *(not yet in force: by the enforcing authority)* *(not yet in force: .)*
 
 ((not yet in force: 12)) *(not yet in force: In any proceedings a certificate which—)*
 
@@ -56,7 +56,7 @@ summary: ''
 
 *(not yet in force: is evidence of the facts stated.)*
 
-((not yet in force: 12A))[^key-f96024e5e5a9175d16da495827c59203] *(not yet in force: Article 22C (use of fixed penalty receipts by a district council) applies in relation to amounts received by a council under this Article as it applies in relation to amounts received under Article 22A.)*
+((not yet in force: 12A))[^c-f96024e5e5a9175d16da495827c59203] *(not yet in force: Article 22C (use of fixed penalty receipts by a district council) applies in relation to amounts received by a council under this Article as it applies in relation to amounts received under Article 22A.)*
 
 ((not yet in force: 13)) *(not yet in force: In this Article—)*
 
@@ -69,12 +69,12 @@ summary: ''
 
 [^c20491731]: Textual amendment: Art. 5A inserted (11.3.2013) by [Waste (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/611 (N.I. 3))](https://www.legislation.gov.uk/nisi/2007/611), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/611/article/1/3), [5](https://www.legislation.gov.uk/nisi/2007/611/article/5); [S.R. 2013/33](https://www.legislation.gov.uk/nisr/2013/33), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/33/article/2/a)
 
-[^key-1db0222d6778d796361b6daa918463a3]: Textual amendment: Words in [art. 5A(1)](https://www.legislation.gov.uk/nisi/1997/2778/article/5A/1) substituted (2.1.2023) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 5(2)(a)](https://www.legislation.gov.uk/nia/2011/5/section/5/2/a), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/289/article/2/b)
+[^c-1db0222d6778d796361b6daa918463a3]: Textual amendment: Words in [art. 5A(1)](https://www.legislation.gov.uk/nisi/1997/2778/article/5A/1) substituted (2.1.2023) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 5(2)(a)](https://www.legislation.gov.uk/nia/2011/5/section/5/2/a), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/289/article/2/b)
 
-[^key-5fe0ff3b7498cf1bf98c2754f95c7d1d]: Textual amendment: Words in [art. 5A(2)](https://www.legislation.gov.uk/nisi/1997/2778/article/5A/2) substituted (2.1.2023) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 5(2)(b)](https://www.legislation.gov.uk/nia/2011/5/section/5/2/b), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/289/article/2/b)
+[^c-5fe0ff3b7498cf1bf98c2754f95c7d1d]: Textual amendment: Words in [art. 5A(2)](https://www.legislation.gov.uk/nisi/1997/2778/article/5A/2) substituted (2.1.2023) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 5(2)(b)](https://www.legislation.gov.uk/nia/2011/5/section/5/2/b), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/289/article/2/b)
 
-[^key-e0132565b9a0ada8eded4dd1226335d5]: Textual amendment: Words in [art. 5A(9)](https://www.legislation.gov.uk/nisi/1997/2778/article/5A/9) substituted (2.1.2023) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 5(2)(c)](https://www.legislation.gov.uk/nia/2011/5/section/5/2/c), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/289/article/2/b)
+[^c-e0132565b9a0ada8eded4dd1226335d5]: Textual amendment: Words in [art. 5A(9)](https://www.legislation.gov.uk/nisi/1997/2778/article/5A/9) substituted (2.1.2023) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 5(2)(c)](https://www.legislation.gov.uk/nia/2011/5/section/5/2/c), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/289/article/2/b)
 
-[^key-f7404176a0f13ba9a69b3450445ae97f]: Textual amendment: Words in [art. 5A(11)](https://www.legislation.gov.uk/nisi/1997/2778/article/5A/11) substituted (2.1.2023) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 5(2)(d)](https://www.legislation.gov.uk/nia/2011/5/section/5/2/d), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/289/article/2/b)
+[^c-f7404176a0f13ba9a69b3450445ae97f]: Textual amendment: Words in [art. 5A(11)](https://www.legislation.gov.uk/nisi/1997/2778/article/5A/11) substituted (2.1.2023) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 5(2)(d)](https://www.legislation.gov.uk/nia/2011/5/section/5/2/d), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/289/article/2/b)
 
-[^key-f96024e5e5a9175d16da495827c59203]: Textual amendment: [Art. 5A(12A)](https://www.legislation.gov.uk/nisi/1997/2778/article/5A/12A)[(13)](https://www.legislation.gov.uk/nisi/1997/2778/article/5A/13) substituted for [art. 5A(13)](https://www.legislation.gov.uk/nisi/1997/2778/article/5A/13) (2.1.2023) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 5(2)(e)](https://www.legislation.gov.uk/nia/2011/5/section/5/2/e), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/289/article/2/b)
+[^c-f96024e5e5a9175d16da495827c59203]: Textual amendment: [Art. 5A(12A)](https://www.legislation.gov.uk/nisi/1997/2778/article/5A/12A)[(13)](https://www.legislation.gov.uk/nisi/1997/2778/article/5A/13) substituted for [art. 5A(13)](https://www.legislation.gov.uk/nisi/1997/2778/article/5A/13) (2.1.2023) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 5(2)(e)](https://www.legislation.gov.uk/nia/2011/5/section/5/2/e), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/289/article/2/b)

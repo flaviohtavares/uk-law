@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Regulations under section 92: enforcement[^key-a07f3c7d6200b615f32adf61a6a0311f][^key-5307e28c00cf4aa0fbbd7978556877c4]
+## 93. Regulations under section 92: enforcement[^c-a07f3c7d6200b615f32adf61a6a0311f][^c-5307e28c00cf4aa0fbbd7978556877c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a07f3c7d6200b615f32adf61a6a0311f]: Commencement: S. 93 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-a07f3c7d6200b615f32adf61a6a0311f]: Commencement: S. 93 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-5307e28c00cf4aa0fbbd7978556877c4]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2022/31/section/93) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-5307e28c00cf4aa0fbbd7978556877c4]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2022/31/section/93) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

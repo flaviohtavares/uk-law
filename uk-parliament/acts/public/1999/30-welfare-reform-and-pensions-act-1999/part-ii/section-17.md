@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Compensating occupational pension schemes.[^key-b4c1cd20d14f687710223e983b6ff103]
+## 17. Compensating occupational pension schemes.[^c-b4c1cd20d14f687710223e983b6ff103]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4c1cd20d14f687710223e983b6ff103]: Textual amendment: S. 17 repealed (1.9.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(16)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/16), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/1720/schedule/part/3)
+[^c-b4c1cd20d14f687710223e983b6ff103]: Textual amendment: S. 17 repealed (1.9.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(16)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/16), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/1720/schedule/part/3)

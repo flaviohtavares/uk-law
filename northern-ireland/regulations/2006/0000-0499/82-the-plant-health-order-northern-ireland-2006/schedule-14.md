@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 14 — Special measures for the control of Potato Wart Disease[^key-d1582697420cbc312935f90ee9f87c1d]
+## SCHEDULE 14 — Special measures for the control of Potato Wart Disease[^c-d1582697420cbc312935f90ee9f87c1d]
 
 *Extent: N.I.*
 
@@ -24,30 +24,30 @@ summary: ''
 
 Article 38(7)
 
-### PART A — Special measures for the control of Potato Wart Disease[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART A — Special measures for the control of Potato Wart Disease[^c-d1582697420cbc312935f90ee9f87c1d]
 
-**1.**[^key-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Wart Disease: Safety Zones[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART B — Wart Disease: Safety Zones[^c-d1582697420cbc312935f90ee9f87c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1582697420cbc312935f90ee9f87c1d]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/82) revoked (1.12.2018) by [The Plant Health Order (Northern Ireland) 2018 (revoked) 2018 (S.R. 2018/184)](https://www.legislation.gov.uk/nisr/2018/184), [art. 1](https://www.legislation.gov.uk/nisr/2018/184/article/1), [Sch. 18](https://www.legislation.gov.uk/nisr/2018/184/schedule/18)
+[^c-d1582697420cbc312935f90ee9f87c1d]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/82) revoked (1.12.2018) by [The Plant Health Order (Northern Ireland) 2018 (revoked) 2018 (S.R. 2018/184)](https://www.legislation.gov.uk/nisr/2018/184), [art. 1](https://www.legislation.gov.uk/nisr/2018/184/article/1), [Sch. 18](https://www.legislation.gov.uk/nisr/2018/184/schedule/18)

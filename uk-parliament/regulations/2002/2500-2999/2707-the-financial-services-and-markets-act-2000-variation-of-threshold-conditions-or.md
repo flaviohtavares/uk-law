@@ -31,7 +31,7 @@ summary: ''
 
 FINANCIAL SERVICES AND MARKETS
 
-The Financial Services and Markets Act 2000 (Variation of Threshold Conditions) Order 2002 (revoked)[^key-b139a6e0531df52806cd0ab16a2c5e23]
+The Financial Services and Markets Act 2000 (Variation of Threshold Conditions) Order 2002 (revoked)[^c-b139a6e0531df52806cd0ab16a2c5e23]
 
 Made
 
@@ -45,22 +45,22 @@ Coming into force
 
 19th January 2003
 
-[^key-b139a6e0531df52806cd0ab16a2c5e23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b139a6e0531df52806cd0ab16a2c5e23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b139a6e0531df52806cd0ab16a2c5e23]
+## 1. Citation and commencement[^c-b139a6e0531df52806cd0ab16a2c5e23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Claims representatives[^key-b139a6e0531df52806cd0ab16a2c5e23]
+## 2. Claims representatives[^c-b139a6e0531df52806cd0ab16a2c5e23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b139a6e0531df52806cd0ab16a2c5e23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b139a6e0531df52806cd0ab16a2c5e23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b139a6e0531df52806cd0ab16a2c5e23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b139a6e0531df52806cd0ab16a2c5e23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b139a6e0531df52806cd0ab16a2c5e23]: Textual amendment: Order revoked (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/472/schedule/1)
+[^c-b139a6e0531df52806cd0ab16a2c5e23]: Textual amendment: Order revoked (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/472/schedule/1)

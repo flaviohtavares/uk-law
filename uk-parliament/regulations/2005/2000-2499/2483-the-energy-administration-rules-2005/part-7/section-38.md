@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Supplementary provisions as to dividend[^key-27458bace854580fc1717eea131fc97d]
+## 38. Supplementary provisions as to dividend[^c-27458bace854580fc1717eea131fc97d]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27458bace854580fc1717eea131fc97d]: Commencement: Rule 38 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-27458bace854580fc1717eea131fc97d]: Commencement: Rule 38 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
 
 [^f00013]: Footnote: [1838 c. 110](https://www.legislation.gov.uk/ukpga/1838/110), as amended by the Civil Procedure Acts Repeal Act 1879, section 2, Schedule 1, Part 1, the Statute Law Revision (No. 2) Act 1888, [S.I. 1993/564](https://www.legislation.gov.uk/uksi/1993/564), article 2, [1998/2940](https://www.legislation.gov.uk/uksi/1998/2940), article 3(a), (b) and (c).

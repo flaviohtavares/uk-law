@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Expiry[^key-9868d4815b7417effe2701258567b22d]
+## 52. Expiry[^c-9868d4815b7417effe2701258567b22d]
 
 *Extent: S*
 
-(1) The temporary modifications to the law in the schedule expire at the end of 30 November 2025[^key-d3e077871307512f192abf9531d88f41].
+(1) The temporary modifications to the law in the schedule expire at the end of 30 November 2025[^c-d3e077871307512f192abf9531d88f41].
 
 (2) Subsection (1) is subject to the power to bring expiry forward under section 53.
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9868d4815b7417effe2701258567b22d]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2022/8/section/52) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-9868d4815b7417effe2701258567b22d]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2022/8/section/52) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
 
-[^key-d3e077871307512f192abf9531d88f41]: Textual amendment: Words in s. 52(1) substituted (30.11.2024) by [The Coronavirus (Recovery and Reform) (Scotland) Act 2022 (Extension of Temporary Justice Measures) Regulations 2024 (S.S.I. 2024/322)](https://www.legislation.gov.uk/ssi/2024/322), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/322/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2024/322/regulation/2/2)
+[^c-d3e077871307512f192abf9531d88f41]: Textual amendment: Words in s. 52(1) substituted (30.11.2024) by [The Coronavirus (Recovery and Reform) (Scotland) Act 2022 (Extension of Temporary Justice Measures) Regulations 2024 (S.S.I. 2024/322)](https://www.legislation.gov.uk/ssi/2024/322), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/322/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2024/322/regulation/2/2)

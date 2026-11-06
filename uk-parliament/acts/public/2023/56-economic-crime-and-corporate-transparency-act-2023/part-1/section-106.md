@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Rectification of register: service addresses[^key-d2f17f2b1e802346262e7809a473bcc2][^key-3bc17ee457ddb3429385f27a91db8036]
+## 106. Rectification of register: service addresses[^c-d2f17f2b1e802346262e7809a473bcc2][^c-3bc17ee457ddb3429385f27a91db8036]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,6 +81,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d2f17f2b1e802346262e7809a473bcc2]: Commencement: S. 106 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-d2f17f2b1e802346262e7809a473bcc2]: Commencement: S. 106 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-3bc17ee457ddb3429385f27a91db8036]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2023/56/section/106) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z43)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z43)
+[^c-3bc17ee457ddb3429385f27a91db8036]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2023/56/section/106) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z43)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z43)

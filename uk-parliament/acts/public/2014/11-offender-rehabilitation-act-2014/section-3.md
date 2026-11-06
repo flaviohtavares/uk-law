@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Breach of supervision requirements[^key-c5f35961653118a49a2b3fe2bcadef47]
+## 3. Breach of supervision requirements[^c-c5f35961653118a49a2b3fe2bcadef47]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5f35961653118a49a2b3fe2bcadef47]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/2014/11/section/3) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1), [Sch. 5 para. 12(3)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/12/3) (with [s. 34(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/5)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-c5f35961653118a49a2b3fe2bcadef47]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/2014/11/section/3) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1), [Sch. 5 para. 12(3)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/12/3) (with [s. 34(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/5)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)

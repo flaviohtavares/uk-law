@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — STREETS SUBJECT TO TEMPORARY ALTERATION OF LAYOUT[^key-b8948da2e25906b8053048a914b5c7a5]
+## SCHEDULE 5 — STREETS SUBJECT TO TEMPORARY ALTERATION OF LAYOUT[^c-b8948da2e25906b8053048a914b5c7a5]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ Table 3
 
 ## Annotations
 
-[^key-b8948da2e25906b8053048a914b5c7a5]: Commencement: Sch. 5 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-b8948da2e25906b8053048a914b5c7a5]: Commencement: Sch. 5 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)

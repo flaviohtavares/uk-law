@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Use or disclosure of directors’ address information by companies[^key-46cf876ec7d25f17bd20dfcfc74b00b6][^key-8b421548313ea45089ed8d8cf1ee5970]
+## 95. Use or disclosure of directors’ address information by companies[^c-46cf876ec7d25f17bd20dfcfc74b00b6][^c-8b421548313ea45089ed8d8cf1ee5970]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ In section 241 of the Companies Act 2006 (protected information: restriction on 
 
 ## Annotations
 
-[^key-46cf876ec7d25f17bd20dfcfc74b00b6]: Commencement: S. 95 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-46cf876ec7d25f17bd20dfcfc74b00b6]: Commencement: S. 95 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-8b421548313ea45089ed8d8cf1ee5970]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2023/56/section/95) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z37)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z37)
+[^c-8b421548313ea45089ed8d8cf1ee5970]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2023/56/section/95) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z37)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z37)

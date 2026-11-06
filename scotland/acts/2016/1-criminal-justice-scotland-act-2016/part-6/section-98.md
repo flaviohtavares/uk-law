@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Meaning of appropriate adult support[^key-f5673b0d6b1bcba815f368c84a284fed]
+## 98. Meaning of appropriate adult support[^c-f5673b0d6b1bcba815f368c84a284fed]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5673b0d6b1bcba815f368c84a284fed]: Commencement: S. 98 in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-f5673b0d6b1bcba815f368c84a284fed]: Commencement: S. 98 in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

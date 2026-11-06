@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Commutation of the pension credit benefit on the ground of serious ill-health[^key-521ef9a3b19126705b3af615980089a9]
+## 59. Commutation of the pension credit benefit on the ground of serious ill-health[^c-521ef9a3b19126705b3af615980089a9]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-521ef9a3b19126705b3af615980089a9]: Commencement: Reg. 59 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-521ef9a3b19126705b3af615980089a9]: Commencement: Reg. 59 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1235. Employees seconded to charities and educational establishments[^key-71f68338a8a2cb390f36669ef84b7c44]
+## 1235. Employees seconded to charities and educational establishments[^c-71f68338a8a2cb390f36669ef84b7c44]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ on a basis that is stated and intended to be temporary.
 
 ## Annotations
 
-[^key-71f68338a8a2cb390f36669ef84b7c44]: Modification: S. 1235 applied (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 81(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/3)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-71f68338a8a2cb390f36669ef84b7c44]: Modification: S. 1235 applied (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 81(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/3)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))

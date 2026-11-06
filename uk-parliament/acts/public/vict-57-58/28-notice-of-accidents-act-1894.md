@@ -70,7 +70,7 @@ Where it appears to the Board of Trade that any accident involving loss of life 
 - (c) Power to require the production of all books, papers, and documents which it considers important for the said purpose;
 - (d) Power to administer an oath and require any person examined to make and sign a declaration of the truth of the statements made by him in his examination:
 
-(4) Every person attending as a witness before the court, and not being the employer of the person killed or injured, or in the employment of that employer, shall be allowed such expenses as would be allowed to a witness attending before a court of record, and in case of dispute as to the amount to be allowed the same shall be referred by the court to a Master (Taxing Office) of the Court of Judicature[^key-ae650493c5630a9df908632970e2675c], who on request signed by the court shall ascertain and certify the proper amount of the expenses:
+(4) Every person attending as a witness before the court, and not being the employer of the person killed or injured, or in the employment of that employer, shall be allowed such expenses as would be allowed to a witness attending before a court of record, and in case of dispute as to the amount to be allowed the same shall be referred by the court to a Master (Taxing Office) of the Court of Judicature[^c-ae650493c5630a9df908632970e2675c], who on request signed by the court shall ascertain and certify the proper amount of the expenses:
 
 (5) The court holding an investigation under this section shall make a report to the Board of Trade, stating the causes of the accident and its circumstances, and adding any observations which the court thinks right to make, and the Board may cause any such report to be made public in such manner as the Board think fit:
 
@@ -99,7 +99,7 @@ In the application of this Act to Scotland—
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5761981]
 
-## 8. Application to Ireland.[^key-0b6e9e94f8e2f90913a323e22b6e9c27]
+## 8. Application to Ireland.[^c-0b6e9e94f8e2f90913a323e22b6e9c27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -137,13 +137,13 @@ This Act may be cited as the Notice of Accidents Act 1894.
 
 [^c5761961]: Textual amendment: Word repealed by [Statute Law (Repeals) Act 1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1986/12/section/1/1), [Sch. 1 Pt. XII](https://www.legislation.gov.uk/ukpga/1986/12/schedule/1/part/XII)
 
-[^key-ae650493c5630a9df908632970e2675c]: Textual amendment: Words in s. 3(4) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 16(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/16/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-ae650493c5630a9df908632970e2675c]: Textual amendment: Words in s. 3(4) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 16(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/16/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c5761971]: Textual amendment: Words substituted by virtue of (E. W. ) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S. ) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 
 [^c5761981]: Textual amendment: Words repealed by [Statute Law (Repeals) Act 1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1986/12/section/1/1), [Sch. 1 Pt. XII](https://www.legislation.gov.uk/ukpga/1986/12/schedule/1/part/XII)
 
-[^key-0b6e9e94f8e2f90913a323e22b6e9c27]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/Vict/57-58/28/section/8) repealed (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 16(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/16/3), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)(f)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d/f)
+[^c-0b6e9e94f8e2f90913a323e22b6e9c27]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/Vict/57-58/28/section/8) repealed (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 16(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/16/3), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)(f)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d/f)
 
 [^c5762001]: Textual amendment: Words repealed by [Factories Act 1937 (c. 67)](https://www.legislation.gov.uk/ukpga/1937/67), [Sch. 4](https://www.legislation.gov.uk/ukpga/1937/67/schedule/4)
 

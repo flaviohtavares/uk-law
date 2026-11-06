@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 288. Article 14 of Commission Implementing Regulation (EU) No 1207/2011[^key-31b26d8ed5bc52b89ab49d6598572817]
+## 288. Article 14 of Commission Implementing Regulation (EU) No 1207/2011[^c-31b26d8ed5bc52b89ab49d6598572817]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31b26d8ed5bc52b89ab49d6598572817]: Textual amendment: Reg. 288 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/784)](https://www.legislation.gov.uk/uksi/2020/784), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/784/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2020/784/regulation/6)
+[^c-31b26d8ed5bc52b89ab49d6598572817]: Textual amendment: Reg. 288 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/784)](https://www.legislation.gov.uk/uksi/2020/784), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/784/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2020/784/regulation/6)

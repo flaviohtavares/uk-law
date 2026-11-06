@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Power to make provision for reconsideration and setting aside of Parole Board decisions[^key-4674d72c2f8d1562ef2777c4666e610a][^key-b6486523982451a3a270079384fd9a90]
+## 133. Power to make provision for reconsideration and setting aside of Parole Board decisions[^c-4674d72c2f8d1562ef2777c4666e610a][^c-b6486523982451a3a270079384fd9a90]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ In section 239 of the Criminal Justice Act 2003 (the Parole Board), after subsec
 
 ## Annotations
 
-[^key-4674d72c2f8d1562ef2777c4666e610a]: Commencement: S. 133 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-4674d72c2f8d1562ef2777c4666e610a]: Commencement: S. 133 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-b6486523982451a3a270079384fd9a90]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2022/32/section/133) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(o)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/o)
+[^c-b6486523982451a3a270079384fd9a90]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2022/32/section/133) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(o)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/o)

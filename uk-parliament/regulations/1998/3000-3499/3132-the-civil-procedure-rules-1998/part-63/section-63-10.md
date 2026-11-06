@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63.10. Application to amend a patent specification in existing proceedings[^key-e9b41ec15b82ceef8274db1f25b38097]
+## 63.10. Application to amend a patent specification in existing proceedings[^c-e9b41ec15b82ceef8274db1f25b38097]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9b41ec15b82ceef8274db1f25b38097]: Textual amendment: [Pt. 63](https://www.legislation.gov.uk/uksi/1998/3132/part/63) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rule 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2092/schedule/1)
+[^c-e9b41ec15b82ceef8274db1f25b38097]: Textual amendment: [Pt. 63](https://www.legislation.gov.uk/uksi/1998/3132/part/63) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rule 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2092/schedule/1)

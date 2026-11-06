@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Commission Implementing Regulation (EU) No 404/2011 laying down detailed rules for the implementation of Council Regulation [(EC) No 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) establishing a Community control system for ensuring compliance with the rules of the Common Fisheries Policy[^key-39c2ac196b92e5a4b072ae365f103594]
+## 5. Commission Implementing Regulation (EU) No 404/2011 laying down detailed rules for the implementation of Council Regulation [(EC) No 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) establishing a Community control system for ensuring compliance with the rules of the Common Fisheries Policy[^c-39c2ac196b92e5a4b072ae365f103594]
 
 *Extent: E+W+S+N.I.*
 
@@ -716,4 +716,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39c2ac196b92e5a4b072ae365f103594]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-39c2ac196b92e5a4b072ae365f103594]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)

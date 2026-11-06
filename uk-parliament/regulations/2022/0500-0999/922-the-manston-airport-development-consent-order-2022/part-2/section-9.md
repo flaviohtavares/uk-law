@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Guarantees in respect of payment of compensation, etc.[^key-d3423015f1eb37da2b47ce3479027b61]
+## 9. Guarantees in respect of payment of compensation, etc.[^c-d3423015f1eb37da2b47ce3479027b61]
 
 *Extent: E+W+S*
 
 (1) The authorised development must not be commenced, and the undertaker must not exercise the powers in articles 19 to 33, until—
 
-- (a) subject to paragraph (3), security of £6.2 million[^key-f3fd0ab1e18671525268f60f904da096] has been provided in respect of the liabilities of the undertaker—
+- (a) subject to paragraph (3), security of £6.2 million[^c-f3fd0ab1e18671525268f60f904da096] has been provided in respect of the liabilities of the undertaker—
   - (i) to pay compensation to landowners in connection with the acquisition of their land or of rights over their land by the undertaker exercising its powers under Part 5 of this Order; and
   - (ii) to pay noise insulation costs and relocation costs as required by requirement 9 of Schedule 2; and
 - (b) the Secretary of State has approved the security in writing.
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d3423015f1eb37da2b47ce3479027b61]: Commencement: Art. 9 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-d3423015f1eb37da2b47ce3479027b61]: Commencement: Art. 9 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-f3fd0ab1e18671525268f60f904da096]: Textual amendment: Sum in art. 9(1)(a) substituted (23.9.2023) by [The Manston Airport Development Consent (Amendment) Order 2023 (S.I. 2023/1038)](https://www.legislation.gov.uk/uksi/2023/1038), [arts. 1](https://www.legislation.gov.uk/uksi/2023/1038/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/1038/article/2/2)
+[^c-f3fd0ab1e18671525268f60f904da096]: Textual amendment: Sum in art. 9(1)(a) substituted (23.9.2023) by [The Manston Airport Development Consent (Amendment) Order 2023 (S.I. 2023/1038)](https://www.legislation.gov.uk/uksi/2023/1038), [arts. 1](https://www.legislation.gov.uk/uksi/2023/1038/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/1038/article/2/2)

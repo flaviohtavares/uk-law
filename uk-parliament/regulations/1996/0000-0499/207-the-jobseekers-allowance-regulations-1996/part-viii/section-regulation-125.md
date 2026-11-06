@@ -14,10 +14,10 @@ summary: ''
 
 > Text as at 2026-04-06.
 
-## ...[^key-fd525a3e22d0b5e4b9947eb0c8b4d628][^key-fd525a3e22d0b5e4b9947eb0c8b4d628]
+## ...[^c-fd525a3e22d0b5e4b9947eb0c8b4d628][^c-fd525a3e22d0b5e4b9947eb0c8b4d628]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fd525a3e22d0b5e4b9947eb0c8b4d628]: Textual amendment: [Pt. VIII Ch. 8](https://www.legislation.gov.uk/uksi/1996/207/part/VIII/chapter/8) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Social Security (Child Maintenance Amendments) Regulations 2008 (S.I. 2008/2111)](https://www.legislation.gov.uk/uksi/2008/2111), [reg. 3(4)(c)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/3/4/c)
+[^c-fd525a3e22d0b5e4b9947eb0c8b4d628]: Textual amendment: [Pt. VIII Ch. 8](https://www.legislation.gov.uk/uksi/1996/207/part/VIII/chapter/8) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Social Security (Child Maintenance Amendments) Regulations 2008 (S.I. 2008/2111)](https://www.legislation.gov.uk/uksi/2008/2111), [reg. 3(4)(c)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/3/4/c)

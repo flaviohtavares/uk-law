@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.46. Notification of appointment of a replacement nominee[^key-a24294a6c677ad37333268cfc6787cfd]
+## 1.46. Notification of appointment of a replacement nominee[^c-a24294a6c677ad37333268cfc6787cfd]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ Where a person is appointed as a replacement nominee, he shall forthwith give no
 
 ## Annotations
 
-[^key-a24294a6c677ad37333268cfc6787cfd]: Textual amendment: Pt. 1 Ch. 9 inserted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/rule/1/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2002/2712/schedule/1/paragraph/21) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/rule/3/2))
+[^c-a24294a6c677ad37333268cfc6787cfd]: Textual amendment: Pt. 1 Ch. 9 inserted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/rule/1/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2002/2712/schedule/1/paragraph/21) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/rule/3/2))
 
 [^m00019]: Marginal citation: \[FORM 2.13\]
 

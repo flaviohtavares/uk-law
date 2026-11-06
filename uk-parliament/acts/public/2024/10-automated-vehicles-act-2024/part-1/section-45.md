@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Related amendments[^key-c7a71c861fcaff3b972d5cbb5b46b780]
+## 45. Related amendments[^c-c7a71c861fcaff3b972d5cbb5b46b780]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ Schedule 2 makes amendments in connection with this Part.
 
 ## Annotations
 
-[^key-c7a71c861fcaff3b972d5cbb5b46b780]: Commencement: S. 45 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-c7a71c861fcaff3b972d5cbb5b46b780]: Commencement: S. 45 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Removal of goods: application of section 95 of CEMA 1979[^M_I_7509c0f8-731f-47ab-8a05-b2f332c6e17e][^key-9ee9b1a743f0af1308b8d6083d0f3c54]
+## 110. Removal of goods: application of section 95 of CEMA 1979[^M_I_7509c0f8-731f-47ab-8a05-b2f332c6e17e][^c-9ee9b1a743f0af1308b8d6083d0f3c54]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^M_I_7509c0f8-731f-47ab-8a05-b2f332c6e17e]: Commencement: S. 110 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-9ee9b1a743f0af1308b8d6083d0f3c54]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2023/30/section/110) in force at 1.2.2025 by [S.I. 2025/96](https://www.legislation.gov.uk/uksi/2025/96), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/96/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/96/regulation/3))
+[^c-9ee9b1a743f0af1308b8d6083d0f3c54]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2023/30/section/110) in force at 1.2.2025 by [S.I. 2025/96](https://www.legislation.gov.uk/uksi/2025/96), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/96/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/96/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60ZB. Immigration and customs enforcement functions[^key-410f36d402d984951d86e016d1216e50]
+## 60ZB. Immigration and customs enforcement functions[^c-410f36d402d984951d86e016d1216e50]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-410f36d402d984951d86e016d1216e50]: Textual amendment: Ss. 60ZB, 60ZC inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 64](https://www.legislation.gov.uk/ukpga/2014/22/section/64), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(s)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/s)
+[^c-410f36d402d984951d86e016d1216e50]: Textual amendment: Ss. 60ZB, 60ZC inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 64](https://www.legislation.gov.uk/ukpga/2014/22/section/64), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(s)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/s)

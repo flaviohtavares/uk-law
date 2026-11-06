@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. Without prejudice to cases where import or export licences are required in accordance with this Regulation, the import for release into free circulation into, or the export of one or more products of the following sectors from, the United Kingdom[^key-df234d91a877f62afd1d8c5b91c51612] may be made subject to the presentation of a licence:
+1. Without prejudice to cases where import or export licences are required in accordance with this Regulation, the import for release into free circulation into, or the export of one or more products of the following sectors from, the United Kingdom[^c-df234d91a877f62afd1d8c5b91c51612] may be made subject to the presentation of a licence:
 
 - (a) cereals;
 - (b) rice;
@@ -41,14 +41,14 @@ summary: ''
 - (q) poultrymeat;
 - (r) ethyl alcohol of agricultural origin.
 
-2.[^key-c7b6286b63ff1215a4564e38238c313f] Without prejudice to the application of Articles 177, 178 and 179 of this Regulation, the Secretary of State must issue licences to any applicant established in the United Kingdom.
+2.[^c-c7b6286b63ff1215a4564e38238c313f] Without prejudice to the application of Articles 177, 178 and 179 of this Regulation, the Secretary of State must issue licences to any applicant established in the United Kingdom.
 
-3. Licences shall be valid throughout the United Kingdom[^key-67c1854b7e1247fb19036a820bac5e3c].
+3. Licences shall be valid throughout the United Kingdom[^c-67c1854b7e1247fb19036a820bac5e3c].
 
 ## Annotations
 
-[^key-df234d91a877f62afd1d8c5b91c51612]: Textual amendment: Words in [Art. 176(1)](https://www.legislation.gov.uk/eur/2013/1308/article/176/1) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/828)](https://www.legislation.gov.uk/uksi/2019/828), [regs. 1](https://www.legislation.gov.uk/uksi/2019/828/regulation/1), [25(a)](https://www.legislation.gov.uk/uksi/2019/828/regulation/25/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df234d91a877f62afd1d8c5b91c51612]: Textual amendment: Words in [Art. 176(1)](https://www.legislation.gov.uk/eur/2013/1308/article/176/1) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/828)](https://www.legislation.gov.uk/uksi/2019/828), [regs. 1](https://www.legislation.gov.uk/uksi/2019/828/regulation/1), [25(a)](https://www.legislation.gov.uk/uksi/2019/828/regulation/25/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c7b6286b63ff1215a4564e38238c313f]: Textual amendment: [Art. 176(2)](https://www.legislation.gov.uk/eur/2013/1308/article/176/2) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/828)](https://www.legislation.gov.uk/uksi/2019/828), [regs. 1](https://www.legislation.gov.uk/uksi/2019/828/regulation/1), [25(b)](https://www.legislation.gov.uk/uksi/2019/828/regulation/25/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c7b6286b63ff1215a4564e38238c313f]: Textual amendment: [Art. 176(2)](https://www.legislation.gov.uk/eur/2013/1308/article/176/2) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/828)](https://www.legislation.gov.uk/uksi/2019/828), [regs. 1](https://www.legislation.gov.uk/uksi/2019/828/regulation/1), [25(b)](https://www.legislation.gov.uk/uksi/2019/828/regulation/25/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-67c1854b7e1247fb19036a820bac5e3c]: Textual amendment: Words in [Art. 176(3)](https://www.legislation.gov.uk/eur/2013/1308/article/176/3) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/828)](https://www.legislation.gov.uk/uksi/2019/828), [regs. 1](https://www.legislation.gov.uk/uksi/2019/828/regulation/1), [25(c)](https://www.legislation.gov.uk/uksi/2019/828/regulation/25/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-67c1854b7e1247fb19036a820bac5e3c]: Textual amendment: Words in [Art. 176(3)](https://www.legislation.gov.uk/eur/2013/1308/article/176/3) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/828)](https://www.legislation.gov.uk/uksi/2019/828), [regs. 1](https://www.legislation.gov.uk/uksi/2019/828/regulation/1), [25(c)](https://www.legislation.gov.uk/uksi/2019/828/regulation/25/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E5. Entitlement to widow's short-term and long-term pensions[^key-a9f0ea69297d4d8832e9fad9cbff67c9]
+## E5. Entitlement to widow's short-term and long-term pensions[^c-a9f0ea69297d4d8832e9fad9cbff67c9]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ she is entitled where sub-paragraph (a) applies to a short-term pension and a lo
 
 ## Annotations
 
-[^key-a9f0ea69297d4d8832e9fad9cbff67c9]: Commencement: [Reg. E5](https://www.legislation.gov.uk/uksi/1986/24/regulation/E5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-a9f0ea69297d4d8832e9fad9cbff67c9]: Commencement: [Reg. E5](https://www.legislation.gov.uk/uksi/1986/24/regulation/E5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

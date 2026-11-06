@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Continuation and termination of limited duration tenancies[^key-7bb212c57c65e0d82cc253ff5237853c]
+## 8. Continuation and termination of limited duration tenancies[^c-7bb212c57c65e0d82cc253ff5237853c]
 
 *Extent: S*
 
@@ -36,7 +36,7 @@ summary: ''
 
 (5) A notice under subsection (3) is of no effect unless the landlord has given written intimation of the landlord’s intention to terminate the tenancy to the tenant not less than two years nor more than three years before the expiry of the term of the tenancy.
 
-(6) If the tenancy is not terminated in accordance with this section, it continues in effect on a cycle of continuations; that is to say, a continuation of three years (a “first short continuation”) followed by a further continuation of three years (a “second short continuation”) followed by a further continuation of 10[^key-68194f944d5a888ac3c028bac52fa884] years (a “long continuation”) (the cycle being repeated without limit to the number of times).
+(6) If the tenancy is not terminated in accordance with this section, it continues in effect on a cycle of continuations; that is to say, a continuation of three years (a “first short continuation”) followed by a further continuation of three years (a “second short continuation”) followed by a further continuation of 10[^c-68194f944d5a888ac3c028bac52fa884] years (a “long continuation”) (the cycle being repeated without limit to the number of times).
 
 (7) During a first short continuation, the landlord may terminate the tenancy by giving a notice under this subsection to the tenant; and subsections (4) and (5) apply to a notice under this subsection as they do to a notice under subsection (3).
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7bb212c57c65e0d82cc253ff5237853c]: Commencement: S. 8 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/548/article/2/a) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-7bb212c57c65e0d82cc253ff5237853c]: Commencement: S. 8 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/548/article/2/a) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
-[^key-68194f944d5a888ac3c028bac52fa884]: Textual amendment: Word in s. 8(6) substituted (22.3.2011) by [The Public Services Reform (Agricultural Holdings) (Scotland) OrderÂ 2011 (S.S.I. 2011/232)](https://www.legislation.gov.uk/ssi/2011/232), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/232/article/1/1), [7(2)](https://www.legislation.gov.uk/ssi/2011/232/article/7/2) (with [art. 10](https://www.legislation.gov.uk/ssi/2011/232/article/10))
+[^c-68194f944d5a888ac3c028bac52fa884]: Textual amendment: Word in s. 8(6) substituted (22.3.2011) by [The Public Services Reform (Agricultural Holdings) (Scotland) OrderÂ 2011 (S.S.I. 2011/232)](https://www.legislation.gov.uk/ssi/2011/232), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/232/article/1/1), [7(2)](https://www.legislation.gov.uk/ssi/2011/232/article/7/2) (with [art. 10](https://www.legislation.gov.uk/ssi/2011/232/article/10))

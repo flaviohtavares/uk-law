@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Other information offences[^key-b189923ba0a50f1de45c28626512ffe5][^key-f97dae10361ec43dd546967dd79a226d]
+## 112. Other information offences[^c-b189923ba0a50f1de45c28626512ffe5][^c-f97dae10361ec43dd546967dd79a226d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b189923ba0a50f1de45c28626512ffe5]: Commencement: S. 112 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-b189923ba0a50f1de45c28626512ffe5]: Commencement: S. 112 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-f97dae10361ec43dd546967dd79a226d]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2023/50/section/112) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z11)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z11)
+[^c-f97dae10361ec43dd546967dd79a226d]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2023/50/section/112) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z11)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — PERMANENT STOPPING UP OF STREETS[^key-c92685208a641400a5c7e4c05af033b7]
+## SCHEDULE 6 — PERMANENT STOPPING UP OF STREETS[^c-c92685208a641400a5c7e4c05af033b7]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Article 14
 
 ## Annotations
 
-[^key-c92685208a641400a5c7e4c05af033b7]: Commencement: Sch. 6 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-c92685208a641400a5c7e4c05af033b7]: Commencement: Sch. 6 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)

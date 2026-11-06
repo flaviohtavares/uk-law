@@ -52,13 +52,13 @@ A draft of this instrument has been laid before Parliament and approved by a res
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement, extent and application[^key-6789bacf3fb6a2f32dbf4959f6fddfa8]
+### 1. Citation, commencement, extent and application[^c-6789bacf3fb6a2f32dbf4959f6fddfa8]
 
 (1) These Regulations may be cited as the Management of Hedgerows (England) Regulations 2024 and come into force on the day after the day on which they are made.
 
 (2) These Regulations extend to England and Wales but apply in relation to England only.
 
-### 2. Interpretation[^key-fd29f25fd59e3241d7f4c729424a83e0]
+### 2. Interpretation[^c-fd29f25fd59e3241d7f4c729424a83e0]
 
 In these Regulations—
 
@@ -95,7 +95,7 @@ In these Regulations—
 
 ## PART 2 — Management of hedgerows
 
-### 3. Hedgerows to which these Regulations apply[^key-39afaa7d334bb21bc0a5b9a0f98dd2c3]
+### 3. Hedgerows to which these Regulations apply[^c-39afaa7d334bb21bc0a5b9a0f98dd2c3]
 
 (1) These Regulations apply to any hedgerow growing on land used for agriculture if that hedgerow has—
 
@@ -122,11 +122,11 @@ is to be treated as part of the hedgerow.
 - “**a hedgerow growing on land used for agriculture**” includes any hedgerow growing on land adjacent to land used for agriculture which is owned by the owner of the hedgerow; and
 - “**gap**”, in relation to a hedgerow, means any opening (whether or not it is filled).
 
-### 4. Prescribed criteria for “important” hedgerows[^key-62a188fddf1d874a61d7890f30c1e219]
+### 4. Prescribed criteria for “important” hedgerows[^c-62a188fddf1d874a61d7890f30c1e219]
 
 For the purposes of section 97 of the Environment Act 1995 (hedgerows) and of these Regulations, an “important” hedgerow is one to which, by virtue of regulation 3, these Regulations apply.
 
-### 5. General maintenance requirements for important hedgerows[^key-78f82675416ede7298db35340bcba8fb][^key-a1031645e7964da7eb6834aca722a3b7]
+### 5. General maintenance requirements for important hedgerows[^c-78f82675416ede7298db35340bcba8fb][^c-a1031645e7964da7eb6834aca722a3b7]
 
 (1) An owner of an important hedgerow or any person employed or engaged by an owner or otherwise acting on an owner’s behalf must, in relation to an important hedgerow or the owner’s agricultural land, comply with the general maintenance requirements set out in paragraphs (2) and (3).
 
@@ -173,7 +173,7 @@ For the purposes of section 97 of the Environment Act 1995 (hedgerows) and of th
 - (a) as regards agricultural land next to an important hedgerow that is not used for crop production, from 1st July 2024; or
 - (b) as regards agricultural land next to an important hedgerow that is used for crop production, from the end of the first harvest of that crop that takes place after 1st July 2024.
 
-### 6. Cutting and trimming of important hedgerows[^key-27358eadd7837ede7ca97ea939c78a5f]
+### 6. Cutting and trimming of important hedgerows[^c-27358eadd7837ede7ca97ea939c78a5f]
 
 (1) The cutting and trimming of an important hedgerow is prohibited during the period beginning with 1st March in any year and ending on 31st August in that year, inclusive of those dates, except in the circumstances described in paragraphs (2) and (3).
 
@@ -203,7 +203,7 @@ For the purposes of section 97 of the Environment Act 1995 (hedgerows) and of th
 
 ## PART 3 — Offences
 
-### 7. Offences[^key-9800a56880398635f0ea4be0eeb392ee]
+### 7. Offences[^c-9800a56880398635f0ea4be0eeb392ee]
 
 (1) Any person to whom the general maintenance requirements in regulation 5 apply who fails to comply with those requirements commits an offence.
 
@@ -222,7 +222,7 @@ For the purposes of section 97 of the Environment Act 1995 (hedgerows) and of th
 
 (7) In these Regulations, a reference to an offence under paragraph (1) or (2) of this regulation is to be read as including an offence committed in circumstances to which paragraph (5) or (6) apply.
 
-### 8. Defence[^key-80bc3a59636b1218efff540344f6466d]
+### 8. Defence[^c-80bc3a59636b1218efff540344f6466d]
 
 (1) In any proceedings for an offence under regulation 7(1) or (2) it is, subject to paragraph (3), a defence for a person to prove that—
 
@@ -240,11 +240,11 @@ For the purposes of section 97 of the Environment Act 1995 (hedgerows) and of th
 
 ## PART 4 — Enforcement
 
-### 9. Enforcement[^key-01351d9185b750ed80b0603db01baa51]
+### 9. Enforcement[^c-01351d9185b750ed80b0603db01baa51]
 
 The Regulator must enforce the requirements of regulations 5 and 6.
 
-### 10. Civil sanctions[^key-90a2ff9844704788f98f18365502776a]
+### 10. Civil sanctions[^c-90a2ff9844704788f98f18365502776a]
 
 (1) The Regulator may impose one or more civil sanctions if, in any case, the Regulator considers that an offence has been committed under regulation 7(1) or (2).
 
@@ -257,7 +257,7 @@ The Regulator must enforce the requirements of regulations 5 and 6.
 
 in connection with an offence.
 
-### 11. Non-compliance penalty[^key-16f26ca73f3a475c593968e20ffb63fa]
+### 11. Non-compliance penalty[^c-16f26ca73f3a475c593968e20ffb63fa]
 
 (1) If a person fails to comply with the requirements of a compliance notice or a restoration notice the Regulator may serve a notice on that person imposing a monetary penalty (“a non-compliance penalty”) in respect of the same offence.
 
@@ -287,7 +287,7 @@ in connection with an offence.
 - (d) that the amount of the penalty was unreasonable;
 - (e) any other reason.
 
-### 12. Enforcement cost recovery notices[^key-60a513c694485e49c2d91389473157af]
+### 12. Enforcement cost recovery notices[^c-60a513c694485e49c2d91389473157af]
 
 (1) The Regulator may serve a notice (“an enforcement cost recovery notice”) on a person on whom a variable monetary penalty notice, compliance notice, restoration notice or stop notice has been served requiring that person to pay the costs incurred by the Regulator in relation to the notice up to—
 
@@ -334,11 +334,11 @@ in connection with an offence.
 - (a) except where sub-paragraph (b) applies, the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short term liquidity in the money markets; or
 - (b) if an order under section 19 of the Bank of England Act 1998[^f00008] (reserve powers) is in force, any equivalent rate determined by the Treasury under that section.
 
-### 13. Recovery of payments[^key-4aaaccad93e9b1686eac441076c60f08]
+### 13. Recovery of payments[^c-4aaaccad93e9b1686eac441076c60f08]
 
 The Regulator may recover any variable monetary penalty or non-compliance penalty, or any costs specified in an enforcement cost recovery notice, on the order of a court, as if payable under a court order.
 
-### 14. Withdrawing or amending a notice[^key-007f620232cbefd34ad0928d1296ba48]
+### 14. Withdrawing or amending a notice[^c-007f620232cbefd34ad0928d1296ba48]
 
 (1) The Regulator may at any time in writing—
 
@@ -347,7 +347,7 @@ The Regulator may recover any variable monetary penalty or non-compliance penalt
 
 (2) Paragraph (1) does not prevent the Regulator from withdrawing a notice and issuing a replacement notice.
 
-### 15. Appeals[^key-df579146e26f7e217ce7bcbf0ef8a86c]
+### 15. Appeals[^c-df579146e26f7e217ce7bcbf0ef8a86c]
 
 (1) Any appeal under these Regulations is to the First-tier Tribunal.
 
@@ -369,7 +369,7 @@ The Regulator may recover any variable monetary penalty or non-compliance penalt
 
 (7) The Tribunal may, in the case of an appeal under paragraph 5(2) of Schedule 1, decide any issue relating to compensation.
 
-### 16. Guidance as to use of civil sanctions and enforcement of relevant offences[^key-e44f638d6e4ab9ea50504cb819f57378]
+### 16. Guidance as to use of civil sanctions and enforcement of relevant offences[^c-e44f638d6e4ab9ea50504cb819f57378]
 
 (1) As regards each power to issue civil sanctions in relation to an offence under these Regulations, the Regulator must publish guidance—
 
@@ -398,7 +398,7 @@ The Regulator may recover any variable monetary penalty or non-compliance penalt
 
 (7) The Regulator must have regard to the current guidance under paragraph (1)(a) when exercising the power to issue a civil sanction to which it relates.
 
-### 17. Guidance as to use of non-compliance penalties[^key-83882318bd726e8d9ba8593772f98d5c]
+### 17. Guidance as to use of non-compliance penalties[^c-83882318bd726e8d9ba8593772f98d5c]
 
 (1) The Regulator must publish guidance about the intended use of non-compliance penalties and enforcement cost recovery notices, which must include the information set out in paragraph (2).
 
@@ -409,14 +409,14 @@ The Regulator may recover any variable monetary penalty or non-compliance penalt
 - (c) rights of appeal;
 - (d) matters to be taken into account by the Regulator in determining amounts.
 
-### 18. Consultation on guidance[^key-dc69d5a1748686ab21a8a191882f5254]
+### 18. Consultation on guidance[^c-dc69d5a1748686ab21a8a191882f5254]
 
 The Regulator—
 
 - (a) may consult such persons as the Regulator considers appropriate before publishing any guidance or revised guidance in relation to the intended use of enforcement cost recovery notices under these Regulations; and
 - (b) must consult such persons as the Regulator considers appropriate before publishing any other guidance or revised guidance under these Regulations,
 
-### 19. Publication of enforcement action[^key-c6b5ef02d22eb68dec674bf6a60e71c2]
+### 19. Publication of enforcement action[^c-c6b5ef02d22eb68dec674bf6a60e71c2]
 
 (1) As regards each power to issue civil sanctions in relation to an offence under these Regulations, the Regulator must, from time to time, publish a document in respect of the relevant period which sets out—
 
@@ -427,7 +427,7 @@ The Regulator—
 
 (3) This regulation does not apply in cases where the Regulator considers that publication would be inappropriate.
 
-### 20. Right to enter and inspect[^key-5ec88063a2fd45a2dbe1e8e0b51eb46f]
+### 20. Right to enter and inspect[^c-5ec88063a2fd45a2dbe1e8e0b51eb46f]
 
 (1) Any person authorised in writing by the Regulator may, on producing the authorisation if required, at any reasonable hour enter any land or premises (other than premises used exclusively as domestic purposes) to undertake an inspection—
 
@@ -443,7 +443,7 @@ The Regulator—
 
 (3) The requirement in paragraph (2) does not apply where, in any case, the authorised person has reason to suspect that an offence under regulation 7(1) or (2) is being committed on the land or premises.
 
-### 21. Right to enter and inspect: supplementary provisions[^key-3551603fd65bf75649795a32c7600eeb]
+### 21. Right to enter and inspect: supplementary provisions[^c-3551603fd65bf75649795a32c7600eeb]
 
 (1) A person authorised to enter and inspect any land or premises in pursuance of a right of entry and inspection conferred under or by virtue of regulation 20 (referred to in this regulation as “**a right of entry**”)—
 
@@ -453,7 +453,7 @@ The Regulator—
 
 (2) Any person who wilfully obstructs a person acting in the exercise of a right of entry is guilty of an offence and liable, on summary conviction, to a fine not exceeding level 3 on the standard scale.
 
-### 22. Powers of entry and examination etc.[^key-9eb0ee89da4affab3dd20f4b548e33b2]
+### 22. Powers of entry and examination etc.[^c-9eb0ee89da4affab3dd20f4b548e33b2]
 
 When entering any premises or land under regulation 20 the Regulator may—
 
@@ -469,7 +469,7 @@ When entering any premises or land under regulation 20 the Regulator may—
 
 ## PART 5 — Review
 
-### 23. Review[^key-cc15b07bcb771de16988f7be2cdbe22e]
+### 23. Review[^c-cc15b07bcb771de16988f7be2cdbe22e]
 
 (1) The Secretary of State must—
 
@@ -509,7 +509,7 @@ SCHEDULES
 
 Regulation 10
 
-### 1. Stop notices[^key-8fcb822df63bf6fbed8840767a5ea817]
+### 1. Stop notices[^c-8fcb822df63bf6fbed8840767a5ea817]
 
 (1) The Regulator may serve a stop notice on any person in accordance with this Schedule in relation to the offence set out in regulation 7(1) or (2).
 
@@ -525,7 +525,7 @@ Regulation 10
 
 (5) The steps referred to in sub-paragraph (2) must be steps to remove or reduce the damage or risk of damage referred to in sub-paragraph (4)(b).
 
-### 2. Contents of a stop notice[^key-82295dd041e20e251b5b4e084bff3cd0]
+### 2. Contents of a stop notice[^c-82295dd041e20e251b5b4e084bff3cd0]
 
 A stop notice must include information as to—
 
@@ -534,7 +534,7 @@ A stop notice must include information as to—
 - (c) rights of appeal;
 - (d) the consequences of non-compliance.
 
-### 3. Appeals[^key-7228d9e345cf2ae900a991bbf965348e]
+### 3. Appeals[^c-7228d9e345cf2ae900a991bbf965348e]
 
 (1) The person on whom a stop notice is served may appeal to the First-tier Tribunal against the decision to serve it in writing before the end of the period specified by the Regulator in the notice which must not be less than 28 days.
 
@@ -548,7 +548,7 @@ A stop notice must include information as to—
 - (f) that the person would not, by reason of any defence, have been liable to be convicted of the offence had the stop notice not been served;
 - (g) any other reason.
 
-### 4. Completion certificates[^key-c7b5a5b867d656ab1b0bb0d88f249cb5]
+### 4. Completion certificates[^c-c7b5a5b867d656ab1b0bb0d88f249cb5]
 
 (1) Where, after service of a stop notice, the Regulator is satisfied that the person has taken the steps specified in the notice, the Regulator must issue a certificate to that effect (a “completion certificate”).
 
@@ -565,7 +565,7 @@ A stop notice must include information as to—
 - (c) unfair or unreasonable;
 - (d) wrong for any other reason.
 
-### 5. Compensation[^key-d708fb95f1fb034b5a87782e38bbf75b]
+### 5. Compensation[^c-d708fb95f1fb034b5a87782e38bbf75b]
 
 (1) The Regulator must compensate a person for loss suffered as the result of the service of the stop notice if that person has suffered loss as a result of the notice and—
 
@@ -579,7 +579,7 @@ A stop notice must include information as to—
 - (b) on the grounds that the amount offered was based on an error of fact;
 - (c) for any other reason.
 
-### 6. Offences[^key-6460bfd1eb2a7830f12e30e27493cb83]
+### 6. Offences[^c-6460bfd1eb2a7830f12e30e27493cb83]
 
 Where a person on whom a stop notice is served does not comply with it within the time limit specified in the notice, the person is guilty of an offence and is liable, on summary conviction, to a fine.
 
@@ -587,7 +587,7 @@ Where a person on whom a stop notice is served does not comply with it within th
 
 Regulation 10
 
-### 1. Imposition of a variable monetary penalty, compliance notice or restoration notice[^key-72f4caa471fc2a4752195122612055f2]
+### 1. Imposition of a variable monetary penalty, compliance notice or restoration notice[^c-72f4caa471fc2a4752195122612055f2]
 
 (1) The Regulator may by notice impose—
 
@@ -604,7 +604,7 @@ Regulation 10
 
 (4) Where a variable monetary penalty is issued, the amount must not exceed £250,000.
 
-### 2. Notice of intent[^key-7dde8d07378cc541380acb269c2e850b]
+### 2. Notice of intent[^c-7dde8d07378cc541380acb269c2e850b]
 
 (1) Where the Regulator proposes to serve a notice under this Schedule on a person, the Regulator must serve on that person a notice of what is proposed (a “notice of intent”).
 
@@ -617,14 +617,14 @@ Regulation 10
   - (i) the right to make representations and objections before the end of the period of 28 days beginning with the day on which the notice of intent was received;
   - (ii) the circumstances in which the Regulator may not impose the proposed notice (including any defences relating to the offence in relation to which the notice is served).
 
-### 3. Notice of intent: representations, objections and undertakings[^key-9891a2015648ce398c4bd7d9737c11ca]
+### 3. Notice of intent: representations, objections and undertakings[^c-9891a2015648ce398c4bd7d9737c11ca]
 
 A person on whom a notice of intent is served may, before the end of the period of 28 days beginning with the day on which the notice was received—
 
 - (a) make written representations and objections to the Regulator in relation to the proposed imposition of a variable monetary penalty, restoration notice or compliance notice; and
 - (b) offer an undertaking as to action to be taken by that person (including the payment of a sum of money) to benefit any person affected by the offence.
 
-### 4. Final notice[^key-98feec345d877d729f1dd09f1c9b3e9e]
+### 4. Final notice[^c-98feec345d877d729f1dd09f1c9b3e9e]
 
 (1) After the end of the period referred to in paragraph 3, the Regulator must decide whether to—
 
@@ -638,7 +638,7 @@ A person on whom a notice of intent is served may, before the end of the period 
 
 (3) Where the Regulator decides to impose a requirement proposed in the notice of intent, the notice imposing it (the “final notice”) must comply with paragraph 5.
 
-### 5. Content of final notice[^key-fd07adf4953f853f3449277b57b58747]
+### 5. Content of final notice[^c-fd07adf4953f853f3449277b57b58747]
 
 A final notice must include information as to—
 
@@ -654,7 +654,7 @@ A final notice must include information as to—
 - (d) rights of appeal;
 - (e) the consequences of failing to comply with the notice.
 
-### 6. Appeals against a final notice[^key-08cf3b76b2ecfb633ee237e697b59d6d]
+### 6. Appeals against a final notice[^c-08cf3b76b2ecfb633ee237e697b59d6d]
 
 (1) The person receiving a final notice may appeal to the First-tier Tribunal against it in writing before the end of the period specified by the Regulator in the notice which must not be less than 28 days.
 
@@ -667,7 +667,7 @@ A final notice must include information as to—
 - (e) that the decision was unreasonable for any other reason;
 - (f) any other reason.
 
-### 7. Criminal proceedings[^key-eea94bb49b2f777f16a766aaad396086]
+### 7. Criminal proceedings[^c-eea94bb49b2f777f16a766aaad396086]
 
 (1) If a variable monetary penalty, compliance notice or restoration notice is imposed on any person, or an undertaking offered by a person is accepted by the Regulator under paragraph 4(2), that person may not at any time be convicted of the offence under regulation 7(1) or (2) in respect of the act or omission giving rise to the variable monetary penalty, compliance notice, restoration notice except in a case referred to in sub-paragraph (2).
 
@@ -709,92 +709,92 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00002]: Footnote: [2008 c. 13](https://www.legislation.gov.uk/ukpga/2008/13).
 
-[^key-6789bacf3fb6a2f32dbf4959f6fddfa8]: Commencement: Reg. 1 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-6789bacf3fb6a2f32dbf4959f6fddfa8]: Commencement: Reg. 1 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-fd29f25fd59e3241d7f4c729424a83e0]: Commencement: Reg. 2 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-fd29f25fd59e3241d7f4c729424a83e0]: Commencement: Reg. 2 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
 [^f00003]: Footnote: [1986 c. 5](https://www.legislation.gov.uk/ukpga/1986/5).
 
 [^f00004]: Footnote: [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8).
 
-[^key-39afaa7d334bb21bc0a5b9a0f98dd2c3]: Commencement: Reg. 3 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-39afaa7d334bb21bc0a5b9a0f98dd2c3]: Commencement: Reg. 3 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160); as amended by the Countryside Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37) and by [S.I. 2003/2155](https://www.legislation.gov.uk/uksi/2003/2155), [2006/1177](https://www.legislation.gov.uk/uksi/2006/1177), [2009/1307](https://www.legislation.gov.uk/uksi/2009/1307), [2013/755](https://www.legislation.gov.uk/uksi/2013/755) and [2015/377](https://www.legislation.gov.uk/uksi/2015/377).
 
-[^key-62a188fddf1d874a61d7890f30c1e219]: Commencement: Reg. 4 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-62a188fddf1d874a61d7890f30c1e219]: Commencement: Reg. 4 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-78f82675416ede7298db35340bcba8fb]: Commencement: Reg. 5 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-78f82675416ede7298db35340bcba8fb]: Commencement: Reg. 5 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-a1031645e7964da7eb6834aca722a3b7]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/680/regulation/5) modified (4.3.2026) by [The Outer Dowsing Offshore Wind Farm Order 2026 (S.I. 2026/138)](https://www.legislation.gov.uk/uksi/2026/138), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/138/article/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2026/138/article/6/4) (with [arts. 6(6)](https://www.legislation.gov.uk/uksi/2026/138/article/6/6), [42](https://www.legislation.gov.uk/uksi/2026/138/article/42), [43](https://www.legislation.gov.uk/uksi/2026/138/article/43), [Sch. 18](https://www.legislation.gov.uk/uksi/2026/138/schedule/18))
+[^c-a1031645e7964da7eb6834aca722a3b7]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/680/regulation/5) modified (4.3.2026) by [The Outer Dowsing Offshore Wind Farm Order 2026 (S.I. 2026/138)](https://www.legislation.gov.uk/uksi/2026/138), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/138/article/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2026/138/article/6/4) (with [arts. 6(6)](https://www.legislation.gov.uk/uksi/2026/138/article/6/6), [42](https://www.legislation.gov.uk/uksi/2026/138/article/42), [43](https://www.legislation.gov.uk/uksi/2026/138/article/43), [Sch. 18](https://www.legislation.gov.uk/uksi/2026/138/schedule/18))
 
 [^f00006]: Footnote: [1925 c. 61](https://www.legislation.gov.uk/ukpga/1925/61). Section 1 was amended by the Statute Law Repeals Act [1993 (c. 50)](https://www.legislation.gov.uk/ukpga/1993/50), Schedule 1, Part 3.
 
-[^key-27358eadd7837ede7ca97ea939c78a5f]: Commencement: Reg. 6 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-27358eadd7837ede7ca97ea939c78a5f]: Commencement: Reg. 6 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-9800a56880398635f0ea4be0eeb392ee]: Commencement: Reg. 7 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-9800a56880398635f0ea4be0eeb392ee]: Commencement: Reg. 7 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
 [^f00007]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-80bc3a59636b1218efff540344f6466d]: Commencement: Reg. 8 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-80bc3a59636b1218efff540344f6466d]: Commencement: Reg. 8 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-01351d9185b750ed80b0603db01baa51]: Commencement: Reg. 9 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-01351d9185b750ed80b0603db01baa51]: Commencement: Reg. 9 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-90a2ff9844704788f98f18365502776a]: Commencement: Reg. 10 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-90a2ff9844704788f98f18365502776a]: Commencement: Reg. 10 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-16f26ca73f3a475c593968e20ffb63fa]: Commencement: Reg. 11 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-16f26ca73f3a475c593968e20ffb63fa]: Commencement: Reg. 11 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-60a513c694485e49c2d91389473157af]: Commencement: Reg. 12 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-60a513c694485e49c2d91389473157af]: Commencement: Reg. 12 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
 [^f00008]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
 
-[^key-4aaaccad93e9b1686eac441076c60f08]: Commencement: Reg. 13 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-4aaaccad93e9b1686eac441076c60f08]: Commencement: Reg. 13 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-007f620232cbefd34ad0928d1296ba48]: Commencement: Reg. 14 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-007f620232cbefd34ad0928d1296ba48]: Commencement: Reg. 14 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-df579146e26f7e217ce7bcbf0ef8a86c]: Commencement: Reg. 15 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-df579146e26f7e217ce7bcbf0ef8a86c]: Commencement: Reg. 15 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-e44f638d6e4ab9ea50504cb819f57378]: Commencement: Reg. 16 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-e44f638d6e4ab9ea50504cb819f57378]: Commencement: Reg. 16 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-83882318bd726e8d9ba8593772f98d5c]: Commencement: Reg. 17 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-83882318bd726e8d9ba8593772f98d5c]: Commencement: Reg. 17 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-dc69d5a1748686ab21a8a191882f5254]: Commencement: Reg. 18 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-dc69d5a1748686ab21a8a191882f5254]: Commencement: Reg. 18 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-c6b5ef02d22eb68dec674bf6a60e71c2]: Commencement: Reg. 19 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-c6b5ef02d22eb68dec674bf6a60e71c2]: Commencement: Reg. 19 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-5ec88063a2fd45a2dbe1e8e0b51eb46f]: Commencement: Reg. 20 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-5ec88063a2fd45a2dbe1e8e0b51eb46f]: Commencement: Reg. 20 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-3551603fd65bf75649795a32c7600eeb]: Commencement: Reg. 21 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-3551603fd65bf75649795a32c7600eeb]: Commencement: Reg. 21 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-9eb0ee89da4affab3dd20f4b548e33b2]: Commencement: Reg. 22 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-9eb0ee89da4affab3dd20f4b548e33b2]: Commencement: Reg. 22 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-cc15b07bcb771de16988f7be2cdbe22e]: Commencement: Reg. 23 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-cc15b07bcb771de16988f7be2cdbe22e]: Commencement: Reg. 23 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
 [^f00009]: Footnote: [2008 c. 13](https://www.legislation.gov.uk/ukpga/2008/13).
 
 [^f00010]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Sections 28 to 30 were amended by the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), sections 19(a) and (b) and 44(5) and article 3(b) of [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695); the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), section 25(4) and Schedule 8, paragraph 36(a); the Advanced Research and Invention Agency Act [2022 (c. 4)](https://www.legislation.gov.uk/ukpga/2022/4), Schedule 3, paragraph 11; and the Retained EU Law (Revocation and Reform) Act [2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), sections 18(3) and 22(2).
 
-[^key-8fcb822df63bf6fbed8840767a5ea817]: Commencement: Sch. 1 para. 1 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-8fcb822df63bf6fbed8840767a5ea817]: Commencement: Sch. 1 para. 1 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-82295dd041e20e251b5b4e084bff3cd0]: Commencement: Sch. 1 para. 2 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-82295dd041e20e251b5b4e084bff3cd0]: Commencement: Sch. 1 para. 2 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-7228d9e345cf2ae900a991bbf965348e]: Commencement: Sch. 1 para. 3 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-7228d9e345cf2ae900a991bbf965348e]: Commencement: Sch. 1 para. 3 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-c7b5a5b867d656ab1b0bb0d88f249cb5]: Commencement: Sch. 1 para. 4 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-c7b5a5b867d656ab1b0bb0d88f249cb5]: Commencement: Sch. 1 para. 4 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-d708fb95f1fb034b5a87782e38bbf75b]: Commencement: Sch. 1 para. 5 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-d708fb95f1fb034b5a87782e38bbf75b]: Commencement: Sch. 1 para. 5 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-6460bfd1eb2a7830f12e30e27493cb83]: Commencement: Sch. 1 para. 6 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-6460bfd1eb2a7830f12e30e27493cb83]: Commencement: Sch. 1 para. 6 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-72f4caa471fc2a4752195122612055f2]: Commencement: Sch. 2 para. 1 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-72f4caa471fc2a4752195122612055f2]: Commencement: Sch. 2 para. 1 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-7dde8d07378cc541380acb269c2e850b]: Commencement: Sch. 2 para. 2 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-7dde8d07378cc541380acb269c2e850b]: Commencement: Sch. 2 para. 2 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-9891a2015648ce398c4bd7d9737c11ca]: Commencement: Sch. 2 para. 3 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-9891a2015648ce398c4bd7d9737c11ca]: Commencement: Sch. 2 para. 3 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-98feec345d877d729f1dd09f1c9b3e9e]: Commencement: Sch. 2 para. 4 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-98feec345d877d729f1dd09f1c9b3e9e]: Commencement: Sch. 2 para. 4 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-fd07adf4953f853f3449277b57b58747]: Commencement: Sch. 2 para. 5 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-fd07adf4953f853f3449277b57b58747]: Commencement: Sch. 2 para. 5 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-08cf3b76b2ecfb633ee237e697b59d6d]: Commencement: Sch. 2 para. 6 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-08cf3b76b2ecfb633ee237e697b59d6d]: Commencement: Sch. 2 para. 6 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
 
-[^key-eea94bb49b2f777f16a766aaad396086]: Commencement: Sch. 2 para. 7 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)
+[^c-eea94bb49b2f777f16a766aaad396086]: Commencement: Sch. 2 para. 7 in force at 23.5.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1)

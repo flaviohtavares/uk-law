@@ -35,18 +35,18 @@ amending Regulation (EC) No 794/2004 as regards the calculation of certain time 
 
 (Text with EEA relevance) (revoked)
 
-[^key-f5c071b12d82b0393cab6822124877c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5c071b12d82b0393cab6822124877c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-f5c071b12d82b0393cab6822124877c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f5c071b12d82b0393cab6822124877c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f5c071b12d82b0393cab6822124877c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f5c071b12d82b0393cab6822124877c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5c071b12d82b0393cab6822124877c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5c071b12d82b0393cab6822124877c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-f5c071b12d82b0393cab6822124877c3]
+## ANNEX[^c-f5c071b12d82b0393cab6822124877c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f5c071b12d82b0393cab6822124877c3]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(k)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/k) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-f5c071b12d82b0393cab6822124877c3]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(k)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/k) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

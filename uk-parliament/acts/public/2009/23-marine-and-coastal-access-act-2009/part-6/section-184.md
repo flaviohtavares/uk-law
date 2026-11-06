@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Minor and consequential amendments[^key-29d56f09f2a74e2539ea4e9225f86699][^key-f9ca06d0aa9c64f6e28472e9dacc83bc]
+## 184. Minor and consequential amendments[^c-29d56f09f2a74e2539ea4e9225f86699][^c-f9ca06d0aa9c64f6e28472e9dacc83bc]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 14 (which contains minor and consequential amendments relating to IFC a
 
 ## Annotations
 
-[^key-29d56f09f2a74e2539ea4e9225f86699]: Commencement: [S. 184](https://www.legislation.gov.uk/ukpga/2009/23/section/184) in force at 1.10.2010 for specified purposes by [S.I. 2010/2195](https://www.legislation.gov.uk/uksi/2010/2195), [art. 3(2)(l)](https://www.legislation.gov.uk/uksi/2010/2195/article/3/2/l)
+[^c-29d56f09f2a74e2539ea4e9225f86699]: Commencement: [S. 184](https://www.legislation.gov.uk/ukpga/2009/23/section/184) in force at 1.10.2010 for specified purposes by [S.I. 2010/2195](https://www.legislation.gov.uk/uksi/2010/2195), [art. 3(2)(l)](https://www.legislation.gov.uk/uksi/2010/2195/article/3/2/l)
 
-[^key-f9ca06d0aa9c64f6e28472e9dacc83bc]: Commencement: [S. 184](https://www.legislation.gov.uk/ukpga/2009/23/section/184) in force at 1.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(k)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/k)
+[^c-f9ca06d0aa9c64f6e28472e9dacc83bc]: Commencement: [S. 184](https://www.legislation.gov.uk/ukpga/2009/23/section/184) in force at 1.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(k)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/k)

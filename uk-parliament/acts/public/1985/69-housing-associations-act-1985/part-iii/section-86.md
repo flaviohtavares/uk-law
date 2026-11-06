@@ -29,7 +29,7 @@ summary: ''
 
 (3) Approval of the Secretary of State under subsection (1) may be given generally in relation to agreements which satisfy specified requirements, or in relation to individual agreements, and with or without conditions, as he thinks fit, and such approval may be withdrawn at any time on one month’s notice.
 
-(4) Before issuing any general approval under subsection (1) the Secretary of State shall consult with such bodies as appear to him to be representative of islands and district councils, and of building societies, and also with Scottish Homes and with the Financial Conduct Authority and the Prudential Regulation Authority[^key-4bedba66ed38b831771996c5f6d412dc].
+(4) Before issuing any general approval under subsection (1) the Secretary of State shall consult with such bodies as appear to him to be representative of islands and district councils, and of building societies, and also with Scottish Homes and with the Financial Conduct Authority and the Prudential Regulation Authority[^c-4bedba66ed38b831771996c5f6d412dc].
 
 (5)[^c11842061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -47,7 +47,7 @@ summary: ''
 
 [^c11842031]: Textual amendment: Words inserted by [Housing (Scotland) Act 1986 (c. 65, SIF 61)](https://www.legislation.gov.uk/ukpga/1986/65), [s. 25(1)](https://www.legislation.gov.uk/ukpga/1986/65/section/25/1), [Sch. 2 para. 4(6)](https://www.legislation.gov.uk/ukpga/1986/65/schedule/2/paragraph/4/6)(*b*)
 
-[^key-4bedba66ed38b831771996c5f6d412dc]: Textual amendment: Words in [s. 86(4)](https://www.legislation.gov.uk/ukpga/1985/69/section/86/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 1(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/1/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-4bedba66ed38b831771996c5f6d412dc]: Textual amendment: Words in [s. 86(4)](https://www.legislation.gov.uk/ukpga/1985/69/section/86/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 1(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/1/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c11842061]: Textual amendment: S. 86(5) repealed (1.3.2000) by [S.I. 2000/311](https://www.legislation.gov.uk/uksi/2000/311), [art. 16](https://www.legislation.gov.uk/uksi/2000/311/article/16)
 

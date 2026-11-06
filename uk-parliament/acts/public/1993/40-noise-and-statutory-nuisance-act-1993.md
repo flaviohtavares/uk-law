@@ -33,7 +33,7 @@ An Act to make provision for noise in a street to be a statutory nuisance; to ma
 
 \[5th November 1993\]
 
-[^c1025646]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-5cd5274371cdedd906ddb53bb470e3b8][^key-27abbd6fb86971244d9230498308241b][^key-0d1241570c5c9c52c004393ca506b9b3]
+[^c1025646]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-5cd5274371cdedd906ddb53bb470e3b8][^c-27abbd6fb86971244d9230498308241b][^c-0d1241570c5c9c52c004393ca506b9b3]
 
 ## Preliminary
 
@@ -286,35 +286,35 @@ In this Act “**the 1974 Act**” means the [^c1025647]Control of Pollution Act
 
 ## Audible intruder alarms
 
-### 9. Audible intruder alarms.[^key-c48442ed32c608ac6a168e132cc232ca]
+### 9. Audible intruder alarms.[^c-c48442ed32c608ac6a168e132cc232ca]
 
-(1 (Extent: E+W) (affected by repeal, see note))[^key-c48442ed32c608ac6a168e132cc232ca] A local authority may, after consulting the chief officer of police, resolve that Schedule 3 is to apply to its area. *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]
+(1 (Extent: E+W) (affected by repeal, see note))[^c-c48442ed32c608ac6a168e132cc232ca] A local authority may, after consulting the chief officer of police, resolve that Schedule 3 is to apply to its area. *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]
 
-(2 (Extent: E+W) (affected by repeal, see note))[^key-c48442ed32c608ac6a168e132cc232ca] If a local authority does so resolve— *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]
+(2 (Extent: E+W) (affected by repeal, see note))[^c-c48442ed32c608ac6a168e132cc232ca] If a local authority does so resolve— *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-c48442ed32c608ac6a168e132cc232ca] Schedule 3 (other than paragraph 4) shall come into force in its area on such date as may be specified for that purpose in the resolution (“the first appointed day”), and *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-c48442ed32c608ac6a168e132cc232ca] paragraph 4 of Schedule 3 shall come into force in its area, and accordingly paragraphs 2 and 3 of that Schedule shall cease to have effect in its area, on such later date as may be so specified (“the second appointed day”). *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-c48442ed32c608ac6a168e132cc232ca] Schedule 3 (other than paragraph 4) shall come into force in its area on such date as may be specified for that purpose in the resolution (“the first appointed day”), and *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-c48442ed32c608ac6a168e132cc232ca] paragraph 4 of Schedule 3 shall come into force in its area, and accordingly paragraphs 2 and 3 of that Schedule shall cease to have effect in its area, on such later date as may be so specified (“the second appointed day”). *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]
 
-(3 (Extent: E+W) (affected by repeal, see note))[^key-c48442ed32c608ac6a168e132cc232ca] The first appointed day shall be at least four months after the date on which the resolution is passed. *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]
+(3 (Extent: E+W) (affected by repeal, see note))[^c-c48442ed32c608ac6a168e132cc232ca] The first appointed day shall be at least four months after the date on which the resolution is passed. *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]
 
-(4 (Extent: E+W) (affected by repeal, see note))[^key-c48442ed32c608ac6a168e132cc232ca] The second appointed day shall be at least nine months after the first appointed day. *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]
+(4 (Extent: E+W) (affected by repeal, see note))[^c-c48442ed32c608ac6a168e132cc232ca] The second appointed day shall be at least nine months after the first appointed day. *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]
 
-(5 (Extent: E+W) (affected by repeal, see note))[^key-c48442ed32c608ac6a168e132cc232ca] Where a local authority has passed a resolution under this section, the authority shall cause a notice to be published, in two consecutive weeks ending at least three months before the first appointed day, in a local newspaper circulating in its area. *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]
+(5 (Extent: E+W) (affected by repeal, see note))[^c-c48442ed32c608ac6a168e132cc232ca] Where a local authority has passed a resolution under this section, the authority shall cause a notice to be published, in two consecutive weeks ending at least three months before the first appointed day, in a local newspaper circulating in its area. *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]
 
-(6 (Extent: E+W) (affected by repeal, see note))[^key-c48442ed32c608ac6a168e132cc232ca] The notice shall— *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]
+(6 (Extent: E+W) (affected by repeal, see note))[^c-c48442ed32c608ac6a168e132cc232ca] The notice shall— *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-c48442ed32c608ac6a168e132cc232ca] state that the resolution has been passed, *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-c48442ed32c608ac6a168e132cc232ca] state the first and second appointed days, and *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]
-- (c (Extent: E+W) (affected by repeal, see note))[^key-c48442ed32c608ac6a168e132cc232ca] set out the general effect of Schedule 3 as it will apply from each of those days. *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-c48442ed32c608ac6a168e132cc232ca] state that the resolution has been passed, *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-c48442ed32c608ac6a168e132cc232ca] state the first and second appointed days, and *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]
+- (c (Extent: E+W) (affected by repeal, see note))[^c-c48442ed32c608ac6a168e132cc232ca] set out the general effect of Schedule 3 as it will apply from each of those days. *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]
 
-(7 (Extent: E+W) (affected by repeal, see note))[^key-c48442ed32c608ac6a168e132cc232ca] In this section— *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]
+(7 (Extent: E+W) (affected by repeal, see note))[^c-c48442ed32c608ac6a168e132cc232ca] In this section— *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]
 
-- “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]**chief officer of police *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]**”, in relation to a local authority, means— *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]
-  - (a) the chief officer of police for the police area in which the area of the local authority is situated, or *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]
-  - (b) where part of the local authority’s area is situated in one police area and part in another, the chief officer of police for each police area in which a part of the local authority’s area is situated; *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]
-- “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]**local authority *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]**” means— *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]
-  - (a) in relation to England and Wales, the council of a district, and *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]
-  - (b) in relation to Scotland, a *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca] council constituted under section 2 of the Local Government[^c1025654] *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca] etc. *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca] (Scotland) Act 1994 *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-c48442ed32c608ac6a168e132cc232ca]
+- “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]**chief officer of police *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]**”, in relation to a local authority, means— *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]
+  - (a) the chief officer of police for the police area in which the area of the local authority is situated, or *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]
+  - (b) where part of the local authority’s area is situated in one police area and part in another, the chief officer of police for each police area in which a part of the local authority’s area is situated; *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]
+- “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]**local authority *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]**” means— *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]
+  - (a) in relation to England and Wales, the council of a district, and *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]
+  - (b) in relation to Scotland, a *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca] council constituted under section 2 of the Local Government[^c1025654] *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca] etc. *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca] (Scotland) Act 1994 *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]. *(Extent: E+W)* *(affected by repeal, see note)*[^c-c48442ed32c608ac6a168e132cc232ca]
 
 ## Expenses to be a charge on premises etc.
 
@@ -583,7 +583,7 @@ Section 8.
 
 ### Local authority consent
 
-**1.** (1) Subject to sub-paragraph (2), on an application made by any person, the local authority may consent to the operation in its area of a loudspeaker in contravention of section 62(1) of the 1974 Act or of section 137(1) of the Serious Organised Crime and Police Act 2005 *(Extent: E+W)*[^key-a0bdbe1e7ed9f7c08c55014745e252d3].
+**1.** (1) Subject to sub-paragraph (2), on an application made by any person, the local authority may consent to the operation in its area of a loudspeaker in contravention of section 62(1) of the 1974 Act or of section 137(1) of the Serious Organised Crime and Police Act 2005 *(Extent: E+W)*[^c-a0bdbe1e7ed9f7c08c55014745e252d3].
 
 (2) A consent shall not be given to the operation of a loudspeaker in connection with any election or for the purpose of advertising any entertainment, trade or business.
 
@@ -607,152 +607,152 @@ Section 8.
 
 **7.** In this Schedule “**a consent**” means a consent under paragraph 1.
 
-## SCHEDULE 3 — Audible Intruder Alarms[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+## SCHEDULE 3 — Audible Intruder Alarms[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
 Section 9.
 
-### Installation of new alarms (Extent: E+W) (affected by repeal, see note)[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+### Installation of new alarms (Extent: E+W) (affected by repeal, see note)[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
 **Not yet in force.**
 
-**1 (Extent: E+W) (affected by repeal, see note).**[^key-6e9191e71fd0d40630473a0ec98fdcfa] (1 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] A person who installs an audible intruder alarm on or in any premises shall ensure— *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+**1 (Extent: E+W) (affected by repeal, see note).**[^c-6e9191e71fd0d40630473a0ec98fdcfa] (1 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] A person who installs an audible intruder alarm on or in any premises shall ensure— *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] that the alarm complies with any prescribed requirements, and *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] that the local authority is notified within 48 hours of the installation. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] that the alarm complies with any prescribed requirements, and *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] that the local authority is notified within 48 hours of the installation. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
-(2 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] A person who without reasonable excuse contravenes sub-paragraph (1) shall be guilty of an offence and liable on summary conviction— *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+(2 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] A person who without reasonable excuse contravenes sub-paragraph (1) shall be guilty of an offence and liable on summary conviction— *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] where the alarm does not comply with any prescribed requirements, to a fine not exceeding level 5 on the standard scale, and *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] in any other case, to a fine not exceeding level 2 on the standard scale. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] where the alarm does not comply with any prescribed requirements, to a fine not exceeding level 5 on the standard scale, and *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] in any other case, to a fine not exceeding level 2 on the standard scale. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
-### Operation of alarms before second appointed day (Extent: E+W) (affected by repeal, see note)[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-**Not yet in force.**
-
-**2 (Extent: E+W) (affected by repeal, see note).**[^key-6e9191e71fd0d40630473a0ec98fdcfa] (1 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] A person who is the occupier of any premises when (on or after the first appointed day) an audible intruder alarm is installed on or in the premises shall not permit the alarm to be operated unless paragraph 5 is satisfied. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-(2 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] A person who without reasonable excuse contravenes sub-paragraph (1) shall be guilty of an offence and liable on summary conviction— *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-- (a (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] where the alarm does not comply with any prescribed requirements, to a fine not exceeding level 5 on the standard scale, and *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] in any other case, to a fine not exceeding level 2 on the standard scale. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-**3 (Extent: E+W) (affected by repeal, see note).**[^key-6e9191e71fd0d40630473a0ec98fdcfa] (1 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] A person who (on or after the first appointed day) becomes the occupier of any premises on or in which an audible intruder alarm has been installed, shall not permit the alarm to be operated unless paragraph 5 is satisfied. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-(2 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] A person who without reasonable excuse contravenes sub-paragraph (1) shall be guilty of an offence and liable on summary conviction— *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-- (a (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] where the alarm does not comply with any prescribed requirements, to a fine not exceeding level 4 on the standard scale, and *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] in any other case, to a fine not exceeding level 2 on the standard scale. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-### Operation of alarms on or after second appointed day (Extent: E+W) (affected by repeal, see note)[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+### Operation of alarms before second appointed day (Extent: E+W) (affected by repeal, see note)[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
 **Not yet in force.**
 
-**4 (Extent: E+W) (affected by repeal, see note).**[^key-6e9191e71fd0d40630473a0ec98fdcfa] (1 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] The occupier of any premises shall not permit any audible intruder alarm installed on or in those premises to be operated unless paragraph 5 is satisfied. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+**2 (Extent: E+W) (affected by repeal, see note).**[^c-6e9191e71fd0d40630473a0ec98fdcfa] (1 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] A person who is the occupier of any premises when (on or after the first appointed day) an audible intruder alarm is installed on or in the premises shall not permit the alarm to be operated unless paragraph 5 is satisfied. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
-(2 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] A person who without reasonable excuse contravenes sub-paragraph (1) shall be guilty of an offence and liable on summary conviction— *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+(2 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] A person who without reasonable excuse contravenes sub-paragraph (1) shall be guilty of an offence and liable on summary conviction— *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] where the alarm does not comply with any prescribed requirements, to a fine not exceeding level 5 on the standard scale, and *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] in any other case, to a fine not exceeding level 2 on the standard scale. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] where the alarm does not comply with any prescribed requirements, to a fine not exceeding level 5 on the standard scale, and *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] in any other case, to a fine not exceeding level 2 on the standard scale. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
-### Requirements for operation of alarms (Extent: E+W) (affected by repeal, see note)[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+**3 (Extent: E+W) (affected by repeal, see note).**[^c-6e9191e71fd0d40630473a0ec98fdcfa] (1 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] A person who (on or after the first appointed day) becomes the occupier of any premises on or in which an audible intruder alarm has been installed, shall not permit the alarm to be operated unless paragraph 5 is satisfied. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
-**Not yet in force.**
+(2 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] A person who without reasonable excuse contravenes sub-paragraph (1) shall be guilty of an offence and liable on summary conviction— *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
-**5 (Extent: E+W) (affected by repeal, see note).**[^key-6e9191e71fd0d40630473a0ec98fdcfa] (1 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] This paragraph is satisfied if— *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] where the alarm does not comply with any prescribed requirements, to a fine not exceeding level 4 on the standard scale, and *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] in any other case, to a fine not exceeding level 2 on the standard scale. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] the alarm complies with any prescribed requirements, *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] the police have been notified in writing of the names, addresses and telephone numbers of the current key-holders, and *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-- (c (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] the local authority has been informed of the address of the police station to which notification has been given under paragraph (b). *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-(2 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] Notification under sub-paragraph (1)(b) may be given to the police at any police station in the local authority’s area. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-### Entry to premises (Extent: E+W) (affected by repeal, see note)[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+### Operation of alarms on or after second appointed day (Extent: E+W) (affected by repeal, see note)[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
 **Not yet in force.**
 
-**6 (Extent: E+W) (affected by repeal, see note).**[^key-6e9191e71fd0d40630473a0ec98fdcfa] (1 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] Where— *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+**4 (Extent: E+W) (affected by repeal, see note).**[^c-6e9191e71fd0d40630473a0ec98fdcfa] (1 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] The occupier of any premises shall not permit any audible intruder alarm installed on or in those premises to be operated unless paragraph 5 is satisfied. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] an intruder alarm installed on or in any premises is operating audibly more than one hour after it was activated, and *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] the audible operation of the alarm is such as to give persons living or working in the vicinity of the premises reasonable cause for annoyance, *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+(2 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] A person who without reasonable excuse contravenes sub-paragraph (1) shall be guilty of an offence and liable on summary conviction— *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
-an officer of the local authority who has been authorised (whether generally or specially) for that purpose may, on production (if so required) of his authority, enter the premises to turn off the alarm. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] where the alarm does not comply with any prescribed requirements, to a fine not exceeding level 5 on the standard scale, and *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] in any other case, to a fine not exceeding level 2 on the standard scale. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
-(2 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] An officer may not enter premises by force under this paragraph. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-**7 (Extent: E+W) (affected by repeal, see note).**[^key-6e9191e71fd0d40630473a0ec98fdcfa] (1 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] If, on an application made by an officer of the local authority who has been authorised (whether generally or specially) for that purpose, a justice of the peace is satisfied— *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-- (a (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] that an intruder alarm installed on or in any premises is operating audibly more than one hour after it was activated, *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] that the audible operation of the alarm is such as to give persons living or working in the vicinity of the premises reasonable cause for annoyance, *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-- (c (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] where notification of any current key-holders has been given in accordance with paragraph 5(1)(b), that the officer has taken steps to obtain access to the premises with their assistance, and *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-- (d (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] that the officer has been unable to obtain access to the premises without the use of force, *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-the justice may issue a warrant authorising the officer to enter the premises, if need be by force. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-(2 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] Before applying for such a warrant, an officer shall leave a notice at the premises stating— *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-- (a (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] that the audible operation of the alarm is such as to give persons living or working in the vicinity reasonable cause for annoyance, and *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] that an application is to be made to a justice of the peace for a warrant authorising the officer to enter the premises and turn off the alarm. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-(3 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] An officer shall not enter premises by virtue of this paragraph unless he is accompanied by a constable. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-(4 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] A warrant under this paragraph shall continue in force until the alarm has been turned off and the officer has complied with paragraph 10. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-**8 (Extent: E+W) (affected by repeal, see note).**[^key-6e9191e71fd0d40630473a0ec98fdcfa] An officer who enters premises by virtue of paragraph 6 or 7 may take with him such other persons and such equipment as may be necessary to turn off the alarm. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-**9 (Extent: E+W) (affected by repeal, see note).**[^key-6e9191e71fd0d40630473a0ec98fdcfa] A person who enters premises by virtue of paragraph 6, 7 or 8 shall not cause more damage or disturbance than is necessary. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-**10 (Extent: E+W) (affected by repeal, see note).**[^key-6e9191e71fd0d40630473a0ec98fdcfa] An officer who has entered premises by virtue of paragraph 6 or 7 which are unoccupied or from which the occupier is temporarily absent shall— *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-- (a (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] after the alarm has been turned off, re-set it if reasonably practicable, *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] leave a notice at the premises stating what action has been taken on the premises under this Schedule, and *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-- (c (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] leave the premises, so far as reasonably practicable, as effectually secured against trespassers as he found them. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-
-### Recovery of expenses (Extent: E+W) (affected by repeal, see note)[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+### Requirements for operation of alarms (Extent: E+W) (affected by repeal, see note)[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
 **Not yet in force.**
 
-**11 (Extent: E+W) (affected by repeal, see note).**[^key-6e9191e71fd0d40630473a0ec98fdcfa] Where any premises are entered by virtue of paragraph 6 or 7 in a case where the occupier of those premises has committed an offence under paragraph 2, 3 or 4, any expenses reasonably incurred by the local authority in connection with the entry, turning off the alarm or complying with paragraph 10 may be recovered by the authority from that occupier. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+**5 (Extent: E+W) (affected by repeal, see note).**[^c-6e9191e71fd0d40630473a0ec98fdcfa] (1 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] This paragraph is satisfied if— *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
-### Protection from personal liability (Extent: E+W) (affected by repeal, see note)[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] the alarm complies with any prescribed requirements, *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] the police have been notified in writing of the names, addresses and telephone numbers of the current key-holders, and *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+- (c (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] the local authority has been informed of the address of the police station to which notification has been given under paragraph (b). *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+(2 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] Notification under sub-paragraph (1)(b) may be given to the police at any police station in the local authority’s area. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+### Entry to premises (Extent: E+W) (affected by repeal, see note)[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
 **Not yet in force.**
 
-**12 (Extent: E+W) (affected by repeal, see note).**[^key-6e9191e71fd0d40630473a0ec98fdcfa] Nothing done by, or by a member of, a local authority or by an officer of or another person authorised by a local authority shall, if done in good faith for the purposes of this Schedule, subject them or any of them personally to any action, liability, claim or demand whatsoever, other than any liability under *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa] section 17 or 18 of the Audit Commission Act 1998[^c1025662] *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa] (powers of district auditor and court). *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+**6 (Extent: E+W) (affected by repeal, see note).**[^c-6e9191e71fd0d40630473a0ec98fdcfa] (1 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] Where— *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
-### Interpretation (Extent: E+W) (affected by repeal, see note)[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] an intruder alarm installed on or in any premises is operating audibly more than one hour after it was activated, and *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] the audible operation of the alarm is such as to give persons living or working in the vicinity of the premises reasonable cause for annoyance, *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+an officer of the local authority who has been authorised (whether generally or specially) for that purpose may, on production (if so required) of his authority, enter the premises to turn off the alarm. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+(2 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] An officer may not enter premises by force under this paragraph. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+**7 (Extent: E+W) (affected by repeal, see note).**[^c-6e9191e71fd0d40630473a0ec98fdcfa] (1 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] If, on an application made by an officer of the local authority who has been authorised (whether generally or specially) for that purpose, a justice of the peace is satisfied— *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+- (a (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] that an intruder alarm installed on or in any premises is operating audibly more than one hour after it was activated, *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] that the audible operation of the alarm is such as to give persons living or working in the vicinity of the premises reasonable cause for annoyance, *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+- (c (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] where notification of any current key-holders has been given in accordance with paragraph 5(1)(b), that the officer has taken steps to obtain access to the premises with their assistance, and *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+- (d (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] that the officer has been unable to obtain access to the premises without the use of force, *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+the justice may issue a warrant authorising the officer to enter the premises, if need be by force. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+(2 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] Before applying for such a warrant, an officer shall leave a notice at the premises stating— *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+- (a (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] that the audible operation of the alarm is such as to give persons living or working in the vicinity reasonable cause for annoyance, and *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] that an application is to be made to a justice of the peace for a warrant authorising the officer to enter the premises and turn off the alarm. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+(3 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] An officer shall not enter premises by virtue of this paragraph unless he is accompanied by a constable. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+(4 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] A warrant under this paragraph shall continue in force until the alarm has been turned off and the officer has complied with paragraph 10. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+**8 (Extent: E+W) (affected by repeal, see note).**[^c-6e9191e71fd0d40630473a0ec98fdcfa] An officer who enters premises by virtue of paragraph 6 or 7 may take with him such other persons and such equipment as may be necessary to turn off the alarm. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+**9 (Extent: E+W) (affected by repeal, see note).**[^c-6e9191e71fd0d40630473a0ec98fdcfa] A person who enters premises by virtue of paragraph 6, 7 or 8 shall not cause more damage or disturbance than is necessary. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+**10 (Extent: E+W) (affected by repeal, see note).**[^c-6e9191e71fd0d40630473a0ec98fdcfa] An officer who has entered premises by virtue of paragraph 6 or 7 which are unoccupied or from which the occupier is temporarily absent shall— *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+- (a (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] after the alarm has been turned off, re-set it if reasonably practicable, *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] leave a notice at the premises stating what action has been taken on the premises under this Schedule, and *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+- (c (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] leave the premises, so far as reasonably practicable, as effectually secured against trespassers as he found them. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+### Recovery of expenses (Extent: E+W) (affected by repeal, see note)[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
 **Not yet in force.**
 
-**13 (Extent: E+W) (affected by repeal, see note).**[^key-6e9191e71fd0d40630473a0ec98fdcfa] (1 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] In this Schedule references to the first appointed day or the second appointed day are to be read in accordance with section 9(2). *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+**11 (Extent: E+W) (affected by repeal, see note).**[^c-6e9191e71fd0d40630473a0ec98fdcfa] Where any premises are entered by virtue of paragraph 6 or 7 in a case where the occupier of those premises has committed an offence under paragraph 2, 3 or 4, any expenses reasonably incurred by the local authority in connection with the entry, turning off the alarm or complying with paragraph 10 may be recovered by the authority from that occupier. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
-(2 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] In this Schedule— *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+### Protection from personal liability (Extent: E+W) (affected by repeal, see note)[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
-- “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]**justice of the peace *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]**”, in relation to Scotland, includes a sheriff; *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-- “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]**key-holders *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]**”, in relation to an alarm, means— *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-  - (a) two persons, other than the occupier of the premises on or in which the alarm is installed, each of whom holds keys sufficient to obtain access to those premises, or *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-  - (b) a company which holds keys sufficient to obtain access to those premises, from which those keys can be obtained at any time and the business of which consists of or includes the service of holding keys for occupiers of premises; *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-- “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]**occupier *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]**”— *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-  - (a) in relation to premises that are unoccupied, means any person entitled to occupy the premises, and *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-  - (b) in relation to premises comprising a building that is being erected, constructed, altered, improved, maintained, cleaned or repaired, does not include a person whose occupancy— *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-- (i (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] is connected with the erection, construction, alteration, improvement, maintenance, cleaning or repair, and *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-  - (ii (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] is by virtue of a licence granted for less than four weeks; *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
-  - “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]**prescribed *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]**” means prescribed in regulations made by the Secretary of State for the purposes of this Schedule. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+**Not yet in force.**
 
-(3 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] The Secretary of State’s power to make such regulations shall be exercisable by statutory instrument, and an instrument containing such regulations shall be subject to annulment in pursuance of a resolution of either House of Parliament. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+**12 (Extent: E+W) (affected by repeal, see note).**[^c-6e9191e71fd0d40630473a0ec98fdcfa] Nothing done by, or by a member of, a local authority or by an officer of or another person authorised by a local authority shall, if done in good faith for the purposes of this Schedule, subject them or any of them personally to any action, liability, claim or demand whatsoever, other than any liability under *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa] section 17 or 18 of the Audit Commission Act 1998[^c1025662] *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa] (powers of district auditor and court). *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
-(4 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] Such regulations may make different provision for different cases, circumstances or areas. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+### Interpretation (Extent: E+W) (affected by repeal, see note)[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
-(5 (Extent: E+W) (affected by repeal, see note))[^key-6e9191e71fd0d40630473a0ec98fdcfa] Nothing in this Schedule applies to an audible intruder alarm installed on or in a vehicle. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6e9191e71fd0d40630473a0ec98fdcfa]
+**Not yet in force.**
+
+**13 (Extent: E+W) (affected by repeal, see note).**[^c-6e9191e71fd0d40630473a0ec98fdcfa] (1 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] In this Schedule references to the first appointed day or the second appointed day are to be read in accordance with section 9(2). *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+(2 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] In this Schedule— *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+- “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]**justice of the peace *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]**”, in relation to Scotland, includes a sheriff; *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+- “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]**key-holders *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]**”, in relation to an alarm, means— *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+  - (a) two persons, other than the occupier of the premises on or in which the alarm is installed, each of whom holds keys sufficient to obtain access to those premises, or *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+  - (b) a company which holds keys sufficient to obtain access to those premises, from which those keys can be obtained at any time and the business of which consists of or includes the service of holding keys for occupiers of premises; *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+- “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]**occupier *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]**”— *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+  - (a) in relation to premises that are unoccupied, means any person entitled to occupy the premises, and *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+  - (b) in relation to premises comprising a building that is being erected, constructed, altered, improved, maintained, cleaned or repaired, does not include a person whose occupancy— *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+- (i (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] is connected with the erection, construction, alteration, improvement, maintenance, cleaning or repair, and *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+  - (ii (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] is by virtue of a licence granted for less than four weeks; *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+  - “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]**prescribed *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]**” means prescribed in regulations made by the Secretary of State for the purposes of this Schedule. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+(3 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] The Secretary of State’s power to make such regulations shall be exercisable by statutory instrument, and an instrument containing such regulations shall be subject to annulment in pursuance of a resolution of either House of Parliament. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+(4 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] Such regulations may make different provision for different cases, circumstances or areas. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
+
+(5 (Extent: E+W) (affected by repeal, see note))[^c-6e9191e71fd0d40630473a0ec98fdcfa] Nothing in this Schedule applies to an audible intruder alarm installed on or in a vehicle. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6e9191e71fd0d40630473a0ec98fdcfa]
 
 ## Annotations
 
 [^c1025646]: Modification: Act: transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2 Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/article/2/schedule/1)
 
-[^key-5cd5274371cdedd906ddb53bb470e3b8]: Modification: Act modified (E.) (6.4.2010) by [Bristol Port Health Authority Order 2010 (S.I. 2010/1214)](https://www.legislation.gov.uk/uksi/2010/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1214/article/1), [4](https://www.legislation.gov.uk/uksi/2010/1214/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1214/schedule)
+[^c-5cd5274371cdedd906ddb53bb470e3b8]: Modification: Act modified (E.) (6.4.2010) by [Bristol Port Health Authority Order 2010 (S.I. 2010/1214)](https://www.legislation.gov.uk/uksi/2010/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1214/article/1), [4](https://www.legislation.gov.uk/uksi/2010/1214/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1214/schedule)
 
-[^key-27abbd6fb86971244d9230498308241b]: Modification: Act applied (with modifications) (E.) (24.3.2011) by [Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
+[^c-27abbd6fb86971244d9230498308241b]: Modification: Act applied (with modifications) (E.) (24.3.2011) by [Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
 
-[^key-0d1241570c5c9c52c004393ca506b9b3]: Modification: Act: functions transferred and modified (E.) (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
+[^c-0d1241570c5c9c52c004393ca506b9b3]: Modification: Act: functions transferred and modified (E.) (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
 
 [^c1025647]: Marginal citation: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 
@@ -768,7 +768,7 @@ the justice may issue a warrant authorising the officer to enter the premises, i
 
 [^c1025653]: Textual amendment: Words in [s. 8(5)(b)](https://www.legislation.gov.uk/ukpga/1993/40/section/8/5/b) substituted (S.) (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 183(2)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/183/2); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(b)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/b/c)
 
-[^key-c48442ed32c608ac6a168e132cc232ca]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1993/40/section/9) repealed (E.W.) (6.4.2006 for E., 18.1.2008 for W.) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/1)[(2)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/2), [Sch. 5 Pt. 7](https://www.legislation.gov.uk/ukpga/2005/16/schedule/5/part/7); [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2); [S.I. 2007/3371](https://www.legislation.gov.uk/wsi/2007/3371), [art. 2(c)](https://www.legislation.gov.uk/wsi/2007/3371/article/2/c)
+[^c-c48442ed32c608ac6a168e132cc232ca]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1993/40/section/9) repealed (E.W.) (6.4.2006 for E., 18.1.2008 for W.) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/1)[(2)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/2), [Sch. 5 Pt. 7](https://www.legislation.gov.uk/ukpga/2005/16/schedule/5/part/7); [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2); [S.I. 2007/3371](https://www.legislation.gov.uk/wsi/2007/3371), [art. 2(c)](https://www.legislation.gov.uk/wsi/2007/3371/article/2/c)
 
 [^c1025654]: Textual amendment: Words in s. 9(7) substituted (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 183(3)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/183/3); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(b)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/b/c)
 
@@ -786,8 +786,8 @@ the justice may issue a warrant authorising the officer to enter the premises, i
 
     [Sch. 2](https://www.legislation.gov.uk/ukpga/1993/40/schedule/2): functions of a local authority may be the responsibility of an executive of the authority (E.)(16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2853/schedule/2)
 
-[^key-a0bdbe1e7ed9f7c08c55014745e252d3]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/1993/40/schedule/2/paragraph/1/1) added (E.W.) (1.8.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 137(6)](https://www.legislation.gov.uk/ukpga/2005/15/section/137/6), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 4(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/4/1)
+[^c-a0bdbe1e7ed9f7c08c55014745e252d3]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/1993/40/schedule/2/paragraph/1/1) added (E.W.) (1.8.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 137(6)](https://www.legislation.gov.uk/ukpga/2005/15/section/137/6), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 4(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/4/1)
 
-[^key-6e9191e71fd0d40630473a0ec98fdcfa]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1993/40/schedule/3) repealed (E.W.) (6.4.2006 for E., 18.1.2008 for W.) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/1)[(2)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/2), [Sch. 5 Pt. 7](https://www.legislation.gov.uk/ukpga/2005/16/schedule/5/part/7); [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2); [S.I. 2007/3371](https://www.legislation.gov.uk/wsi/2007/3371), [art. 2(c)](https://www.legislation.gov.uk/wsi/2007/3371/article/2/c)
+[^c-6e9191e71fd0d40630473a0ec98fdcfa]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1993/40/schedule/3) repealed (E.W.) (6.4.2006 for E., 18.1.2008 for W.) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/1)[(2)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/2), [Sch. 5 Pt. 7](https://www.legislation.gov.uk/ukpga/2005/16/schedule/5/part/7); [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2); [S.I. 2007/3371](https://www.legislation.gov.uk/wsi/2007/3371), [art. 2(c)](https://www.legislation.gov.uk/wsi/2007/3371/article/2/c)
 
 [^c1025662]: Textual amendment: Words in Sch. 3 para. 12 substituted (11.9.1998) by [1998 c. 18](https://www.legislation.gov.uk/ukpga/1998/18) ss. 54(1), 55(2), Sch. 3 para. 26

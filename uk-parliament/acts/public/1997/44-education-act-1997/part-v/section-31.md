@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Other functions of the Authority.[^key-4c73ff37db1f9af29ea901c5a125b4e1]
+## 31. Other functions of the Authority.[^c-4c73ff37db1f9af29ea901c5a125b4e1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c73ff37db1f9af29ea901c5a125b4e1]: Textual amendment: S. 31 omitted (1.4.2006) by virtue of [Qualifications, Curriculum and Assessment Authority for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3239)](https://www.legislation.gov.uk/uksi/2005/3239), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3239/article/1/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2005/3239/schedule/1/paragraph/16) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3239/article/7))
+[^c-4c73ff37db1f9af29ea901c5a125b4e1]: Textual amendment: S. 31 omitted (1.4.2006) by virtue of [Qualifications, Curriculum and Assessment Authority for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3239)](https://www.legislation.gov.uk/uksi/2005/3239), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3239/article/1/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2005/3239/schedule/1/paragraph/16) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3239/article/7))

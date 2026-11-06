@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 136. Value of security[^key-28105dca83fff33877b63fe299bccd1f]
+## 136. Value of security[^c-28105dca83fff33877b63fe299bccd1f]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28105dca83fff33877b63fe299bccd1f]: Commencement: [Rule 136](https://www.legislation.gov.uk/nisr/2026/11/rule/136) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-28105dca83fff33877b63fe299bccd1f]: Commencement: [Rule 136](https://www.legislation.gov.uk/nisr/2026/11/rule/136) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

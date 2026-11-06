@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232. Taking account of planning permission when assessing compensation[^key-0d07889507c7d7e6c23c70f7c07addc8]
+## 232. Taking account of planning permission when assessing compensation[^c-0d07889507c7d7e6c23c70f7c07addc8]
 
 *Extent: E+W*
 
@@ -190,4 +190,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d07889507c7d7e6c23c70f7c07addc8]: Commencement: [S. 232](https://www.legislation.gov.uk/ukpga/2011/20/section/232) in force at 6.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(d)](https://www.legislation.gov.uk/uksi/2012/628/article/8/d) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
+[^c-0d07889507c7d7e6c23c70f7c07addc8]: Commencement: [S. 232](https://www.legislation.gov.uk/ukpga/2011/20/section/232) in force at 6.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(d)](https://www.legislation.gov.uk/uksi/2012/628/article/8/d) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)

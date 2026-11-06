@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Temporary listing in urgent cases[^key-30f6e06e24892c997d19c48209b7193d][^key-2f674b7bd85c8286fba5aa95464da00e]
+## 84. Temporary listing in urgent cases[^c-30f6e06e24892c997d19c48209b7193d][^c-2f674b7bd85c8286fba5aa95464da00e]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-30f6e06e24892c997d19c48209b7193d]: Commencement: S. 84 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-30f6e06e24892c997d19c48209b7193d]: Commencement: S. 84 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-2f674b7bd85c8286fba5aa95464da00e]: Commencement: [S. 84](https://www.legislation.gov.uk/asc/2023/3/section/84) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-2f674b7bd85c8286fba5aa95464da00e]: Commencement: [S. 84](https://www.legislation.gov.uk/asc/2023/3/section/84) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

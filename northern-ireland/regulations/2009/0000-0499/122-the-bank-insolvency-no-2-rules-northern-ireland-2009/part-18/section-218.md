@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 218. Costs and expenses of witnesses[^key-642c88d63e9f10ad920be392ac5c31d7]
+## 218. Costs and expenses of witnesses[^c-642c88d63e9f10ad920be392ac5c31d7]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-642c88d63e9f10ad920be392ac5c31d7]: Commencement: Rule 218 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-642c88d63e9f10ad920be392ac5c31d7]: Commencement: Rule 218 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

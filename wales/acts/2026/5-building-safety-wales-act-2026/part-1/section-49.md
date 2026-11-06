@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Duty of accountable person to give information and documents to other persons[^key-09a2f7b738e61ea6d3343c97e408df2e]
+## 49. Duty of accountable person to give information and documents to other persons[^c-09a2f7b738e61ea6d3343c97e408df2e]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09a2f7b738e61ea6d3343c97e408df2e]: Commencement: S. 49 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-09a2f7b738e61ea6d3343c97e408df2e]: Commencement: S. 49 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

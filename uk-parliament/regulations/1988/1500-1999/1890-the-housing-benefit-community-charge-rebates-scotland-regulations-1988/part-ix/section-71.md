@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 71. Decisions upon further review[^key-83a3dff6e20810b5a210eac5165c23a5]
+## 71. Decisions upon further review[^c-83a3dff6e20810b5a210eac5165c23a5]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83a3dff6e20810b5a210eac5165c23a5]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/1988/1890/regulation/71) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-83a3dff6e20810b5a210eac5165c23a5]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/1988/1890/regulation/71) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269DC. Meaning of “non-banking or pre-2016 loss relief”[^key-3e03660a4275e6ae3aa881f06df8542c]
+## 269DC. Meaning of “non-banking or pre-2016 loss relief”[^c-3e03660a4275e6ae3aa881f06df8542c]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,14 +41,14 @@ summary: ''
 (3) “**A non-banking or pre-2016 carried-forward trading loss**” means a loss which—
 
 - (a) was made in a trade of the company in a non-banking or pre-2016 accounting period, and
-- (b) is carried forward to the chargeable accounting period under section 45, 45A or 45B[^key-8640edb54d05355bccec10b1e76554ae] (carry forward of trade loss against subsequent [^key-43bd29ccbd4d11458f9b78dadde08502]... profits).
+- (b) is carried forward to the chargeable accounting period under section 45, 45A or 45B[^c-8640edb54d05355bccec10b1e76554ae] (carry forward of trade loss against subsequent [^c-43bd29ccbd4d11458f9b78dadde08502]... profits).
 
 (4) “**A non-banking or pre-2016 carried-forward non-trading deficit**” means a non-trading deficit—
 
 - (a) which the company had from its loan relationships under section 301(6) of CTA 2009 for a non-banking or pre-2016 accounting period, and
-- (b) which is carried forward under section 457 , 463G or 463H[^key-bbb409e93dfac241c87f913a82bd9b60] of that Act (carry forward of deficits to accounting periods after deficit period) to be set off against [^key-1acc516f019f626dc9b529379f7491c9]... profits of the chargeable accounting period.
+- (b) which is carried forward under section 457 , 463G or 463H[^c-bbb409e93dfac241c87f913a82bd9b60] of that Act (carry forward of deficits to accounting periods after deficit period) to be set off against [^c-1acc516f019f626dc9b529379f7491c9]... profits of the chargeable accounting period.
 
-(5)[^key-132d0fcf31f2eddb4622647ab990cc9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-132d0fcf31f2eddb4622647ab990cc9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) “**Non-banking or pre-2016 management expenses**” means amounts that fall within subsection (7) or (8).
 
@@ -87,12 +87,12 @@ summary: ''
 
 (13) “**A non-banking or pre-2016 carried-forward capital loss**” means an allowable loss which—
 
-- (a) accrued to the company in a non-banking or pre-2016 accounting period [^key-9f30072cb4f2608e0659db1de68b013d]..., and
-- (b) is to be deducted under section 2A(1)(b)[^key-6c14efc6c33926ebb5e71a2c67e1fde2] of TCGA 1992 (deduction of allowable losses from previous accounting periods) from the total amount of chargeable gains accruing to the company in the chargeable accounting period.
+- (a) accrued to the company in a non-banking or pre-2016 accounting period [^c-9f30072cb4f2608e0659db1de68b013d]..., and
+- (b) is to be deducted under section 2A(1)(b)[^c-6c14efc6c33926ebb5e71a2c67e1fde2] of TCGA 1992 (deduction of allowable losses from previous accounting periods) from the total amount of chargeable gains accruing to the company in the chargeable accounting period.
 
-(14)[^key-f92a429ac51e83c4b406e2178f453d5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-f92a429ac51e83c4b406e2178f453d5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(15)[^key-4843c0d84bc1fbbc0fba365af3b9101c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-4843c0d84bc1fbbc0fba365af3b9101c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (16) The company has “a non-banking or pre-2016 non-trading loss on intangible fixed assets” if it had a non-trading loss under section 751 of CTA 2009 (non-trading gains and losses) on intangible fixed assets in the relevant accounting period.
 
@@ -124,22 +124,22 @@ the used amount, for that period, in respect of the non-banking or pre-2016 non-
 
 ## Annotations
 
-[^key-3e03660a4275e6ae3aa881f06df8542c]: Textual amendment: Pt. 7A Ch. 4 inserted (with effect in accordance with Sch. 3 Pt. 3 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/33/schedule/3/paragraph/1)
+[^c-3e03660a4275e6ae3aa881f06df8542c]: Textual amendment: Pt. 7A Ch. 4 inserted (with effect in accordance with Sch. 3 Pt. 3 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/33/schedule/3/paragraph/1)
 
-[^key-8640edb54d05355bccec10b1e76554ae]: Textual amendment: Words in s. 269DC(3)(b) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 163(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/163/2/a)
+[^c-8640edb54d05355bccec10b1e76554ae]: Textual amendment: Words in s. 269DC(3)(b) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 163(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/163/2/a)
 
-[^key-43bd29ccbd4d11458f9b78dadde08502]: Textual amendment: Word in s. 269DC(3)(b) omitted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 163(2)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/163/2/b)
+[^c-43bd29ccbd4d11458f9b78dadde08502]: Textual amendment: Word in s. 269DC(3)(b) omitted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 163(2)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/163/2/b)
 
-[^key-bbb409e93dfac241c87f913a82bd9b60]: Textual amendment: Words in s. 269DC(4)(b) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 163(3)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/163/3/a)
+[^c-bbb409e93dfac241c87f913a82bd9b60]: Textual amendment: Words in s. 269DC(4)(b) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 163(3)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/163/3/a)
 
-[^key-1acc516f019f626dc9b529379f7491c9]: Textual amendment: Words in s. 269DC(4)(b) omitted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 163(3)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/163/3/b)
+[^c-1acc516f019f626dc9b529379f7491c9]: Textual amendment: Words in s. 269DC(4)(b) omitted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 163(3)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/163/3/b)
 
-[^key-132d0fcf31f2eddb4622647ab990cc9d]: Textual amendment: S. 269DC(5) omitted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 163(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/163/4)
+[^c-132d0fcf31f2eddb4622647ab990cc9d]: Textual amendment: S. 269DC(5) omitted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 163(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/163/4)
 
-[^key-9f30072cb4f2608e0659db1de68b013d]: Textual amendment: Words in s. 269DC(13)(a) omitted (with effect in accordance with s. 33(6) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 33(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2020/14/section/33/4/a/i)
+[^c-9f30072cb4f2608e0659db1de68b013d]: Textual amendment: Words in s. 269DC(13)(a) omitted (with effect in accordance with s. 33(6) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 33(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2020/14/section/33/4/a/i)
 
-[^key-6c14efc6c33926ebb5e71a2c67e1fde2]: Textual amendment: Word in s. 269DC(13)(b) substituted (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 33(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2020/14/section/33/4/a/ii)
+[^c-6c14efc6c33926ebb5e71a2c67e1fde2]: Textual amendment: Word in s. 269DC(13)(b) substituted (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 33(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2020/14/section/33/4/a/ii)
 
-[^key-f92a429ac51e83c4b406e2178f453d5f]: Textual amendment: S. 269DC(14) omitted (with effect in accordance with s. 33(6) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 33(4)(b)](https://www.legislation.gov.uk/ukpga/2020/14/section/33/4/b)
+[^c-f92a429ac51e83c4b406e2178f453d5f]: Textual amendment: S. 269DC(14) omitted (with effect in accordance with s. 33(6) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 33(4)(b)](https://www.legislation.gov.uk/ukpga/2020/14/section/33/4/b)
 
-[^key-4843c0d84bc1fbbc0fba365af3b9101c]: Textual amendment: S. 269DC(15) omitted (with effect in accordance with s. 33(6) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 33(4)(b)](https://www.legislation.gov.uk/ukpga/2020/14/section/33/4/b)
+[^c-4843c0d84bc1fbbc0fba365af3b9101c]: Textual amendment: S. 269DC(15) omitted (with effect in accordance with s. 33(6) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 33(4)(b)](https://www.legislation.gov.uk/ukpga/2020/14/section/33/4/b)

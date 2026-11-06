@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10B (Extent: S). Exceptions to s. 10A (Extent: S)[^key-1cd147c44c5ce66fc224a08af194a631]
+## 10B (Extent: S). Exceptions to s. 10A (Extent: S)[^c-1cd147c44c5ce66fc224a08af194a631]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cd147c44c5ce66fc224a08af194a631]: Textual amendment: Ss. 10A, 10B inserted (S.) (29.6.2011 for specified purposes, 1.1.2012 in so far as not already in force) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 6(2)](https://www.legislation.gov.uk/asp/2011/6/section/6/2), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/d); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)
+[^c-1cd147c44c5ce66fc224a08af194a631]: Textual amendment: Ss. 10A, 10B inserted (S.) (29.6.2011 for specified purposes, 1.1.2012 in so far as not already in force) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 6(2)](https://www.legislation.gov.uk/asp/2011/6/section/6/2), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/d); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)

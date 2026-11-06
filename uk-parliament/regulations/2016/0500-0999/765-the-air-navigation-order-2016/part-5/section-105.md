@@ -24,7 +24,7 @@ summary: ''
 
 (2) This article does not apply to a flight under and in accordance with the terms of a police air operator's certificate.
 
-(3) Subject to paragraph (6)[^key-d421c54e76dda9983f693dcfa2938f7f], in the case of a flight in an aircraft which is not a seaplane and on which it is intended to reach a point more than 30 minutes flying time from the nearest land, the pilot in command must take all reasonable steps to ensure that before take-off all passengers are given a demonstration of the method of use of the lifejackets required by or under this Order for the use of passengers.
+(3) Subject to paragraph (6)[^c-d421c54e76dda9983f693dcfa2938f7f], in the case of a flight in an aircraft which is not a seaplane and on which it is intended to reach a point more than 30 minutes flying time from the nearest land, the pilot in command must take all reasonable steps to ensure that before take-off all passengers are given a demonstration of the method of use of the lifejackets required by or under this Order for the use of passengers.
 
 (4) Subject to paragraph (6), and if the circumstances described in paragraph (5) apply, in the case of an aircraft which is not a seaplane and which is required by article 112(2) to carry cabin crew, the pilot in command must take all reasonable steps to ensure that before take-off all passengers are given a demonstration of the method of use of the lifejackets required by or under this Order for the use of passengers.
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d421c54e76dda9983f693dcfa2938f7f]: Textual amendment: Word in [art. 105(3)](https://www.legislation.gov.uk/uksi/2016/765/article/105/3) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [24](https://www.legislation.gov.uk/uksi/2017/1112/article/24)
+[^c-d421c54e76dda9983f693dcfa2938f7f]: Textual amendment: Word in [art. 105(3)](https://www.legislation.gov.uk/uksi/2016/765/article/105/3) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [24](https://www.legislation.gov.uk/uksi/2017/1112/article/24)

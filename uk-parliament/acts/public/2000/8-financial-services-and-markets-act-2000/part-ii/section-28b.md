@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28B. Decisions under section 28A: procedure[^key-b891dcf407684f82258b3faed29f0bc2]
+## 28B. Decisions under section 28A: procedure[^c-b891dcf407684f82258b3faed29f0bc2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b891dcf407684f82258b3faed29f0bc2]: Textual amendment: Ss. 28A, 28B inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2012/21/schedule/9/paragraph/8) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-b891dcf407684f82258b3faed29f0bc2]: Textual amendment: Ss. 28A, 28B inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2012/21/schedule/9/paragraph/8) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

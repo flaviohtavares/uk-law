@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40.4. Service of judgments and orders[^key-e842a846054c4dc1475b42feb657c8d0]
+## 40.4. Service of judgments and orders[^c-e842a846054c4dc1475b42feb657c8d0]
 
 *Extent: E+W*
 
@@ -30,14 +30,14 @@ summary: ''
 - (a) the applicant and the respondent; and
 - (b) any other person on whom the court orders it to be served.
 
-(Rule 6.21 sets out who is to serve a document other than the claim form.)[^key-fcc6f04a8edf5d53e96f3295cf429743]
+(Rule 6.21 sets out who is to serve a document other than the claim form.)[^c-fcc6f04a8edf5d53e96f3295cf429743]
 
-[^key-c190cde2660d9d8744b8344856c3e060]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c190cde2660d9d8744b8344856c3e060]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e842a846054c4dc1475b42feb657c8d0]: Commencement: [Rule 40.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.4) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-e842a846054c4dc1475b42feb657c8d0]: Commencement: [Rule 40.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.4) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-fcc6f04a8edf5d53e96f3295cf429743]: Textual amendment: Words in [rule 40](https://www.legislation.gov.uk/uksi/1998/3132/rule/40).4 substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [20](https://www.legislation.gov.uk/uksi/2008/2178/rule/20)
+[^c-fcc6f04a8edf5d53e96f3295cf429743]: Textual amendment: Words in [rule 40](https://www.legislation.gov.uk/uksi/1998/3132/rule/40).4 substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [20](https://www.legislation.gov.uk/uksi/2008/2178/rule/20)
 
-[^key-c190cde2660d9d8744b8344856c3e060]: Textual amendment: Words in [rule 40.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.4) omitted (2.12.2002) by virtue of [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rules 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [13](https://www.legislation.gov.uk/uksi/2002/2058/rule/13)
+[^c-c190cde2660d9d8744b8344856c3e060]: Textual amendment: Words in [rule 40.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.4) omitted (2.12.2002) by virtue of [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rules 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [13](https://www.legislation.gov.uk/uksi/2002/2058/rule/13)

@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-4a1f44abf5cbee564364faf346561b95] The Secretary of State may acquire compulsorily land outside the limits of deviation for the scheduled works and the limits of land to be acquired or used which is required for or in connection with the works authorised by this Act or otherwise for or in connection with Crossrail.
+(1)[^c-4a1f44abf5cbee564364faf346561b95] The Secretary of State may acquire compulsorily land outside the limits of deviation for the scheduled works and the limits of land to be acquired or used which is required for or in connection with the works authorised by this Act or otherwise for or in connection with Crossrail.
 
-(2)[^key-4a1f44abf5cbee564364faf346561b95] The Secretary of State may acquire compulsorily land within the limits of deviation for the scheduled works or the limits of land to be acquired or used which—
+(2)[^c-4a1f44abf5cbee564364faf346561b95] The Secretary of State may acquire compulsorily land within the limits of deviation for the scheduled works or the limits of land to be acquired or used which—
 
 - (a) is required for or in connection with the works authorised by this Act or otherwise for or in connection with Crossrail, and
 - (b) is not land in relation to which the power conferred by section 6(1) is exercisable.
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a1f44abf5cbee564364faf346561b95]: Modification: S. 7(1)(2) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [3](https://www.legislation.gov.uk/uksi/2010/988/article/3/1) (with [art. 13](https://www.legislation.gov.uk/uksi/2010/988/article/13))
+[^c-4a1f44abf5cbee564364faf346561b95]: Modification: S. 7(1)(2) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [3](https://www.legislation.gov.uk/uksi/2010/988/article/3/1) (with [art. 13](https://www.legislation.gov.uk/uksi/2010/988/article/13))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240. Period of custody awaiting extradition: effect on term of detention and training order[^key-545d8810a00e0265668e0ba408e610f5]
+## 240. Period of custody awaiting extradition: effect on term of detention and training order[^c-545d8810a00e0265668e0ba408e610f5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-545d8810a00e0265668e0ba408e610f5]: Textual amendment: [S. 240](https://www.legislation.gov.uk/ukpga/2020/17/section/240) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(s)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/s), [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2022/32/schedule/16/paragraph/6)
+[^c-545d8810a00e0265668e0ba408e610f5]: Textual amendment: [S. 240](https://www.legislation.gov.uk/ukpga/2020/17/section/240) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(s)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/s), [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2022/32/schedule/16/paragraph/6)

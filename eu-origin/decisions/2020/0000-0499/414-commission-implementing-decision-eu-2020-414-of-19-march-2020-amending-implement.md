@@ -37,22 +37,22 @@ amending Implementing Decision (EU) 2019/570 as regards medical stockpiling resc
 
 (Text with EEA relevance) (revoked)
 
-[^key-d3fca5fcc66b896d5092d8136056f0ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3fca5fcc66b896d5092d8136056f0ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-d3fca5fcc66b896d5092d8136056f0ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d3fca5fcc66b896d5092d8136056f0ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d3fca5fcc66b896d5092d8136056f0ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d3fca5fcc66b896d5092d8136056f0ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d3fca5fcc66b896d5092d8136056f0ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3fca5fcc66b896d5092d8136056f0ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-d3fca5fcc66b896d5092d8136056f0ee]
+## ANNEX[^c-d3fca5fcc66b896d5092d8136056f0ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d3fca5fcc66b896d5092d8136056f0ee]: Textual amendment: Decision revoked (14.8.2021) by [The Union Civil Protection Mechanism (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/896)](https://www.legislation.gov.uk/uksi/2021/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/896/regulation/1/2), [2(j)](https://www.legislation.gov.uk/uksi/2021/896/regulation/2/j)
+[^c-d3fca5fcc66b896d5092d8136056f0ee]: Textual amendment: Decision revoked (14.8.2021) by [The Union Civil Protection Mechanism (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/896)](https://www.legislation.gov.uk/uksi/2021/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/896/regulation/1/2), [2(j)](https://www.legislation.gov.uk/uksi/2021/896/regulation/2/j)

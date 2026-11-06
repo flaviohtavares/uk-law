@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. Enforcement of local land charges[^key-4d0763245fe850895492900276eab949]
+## 107. Enforcement of local land charges[^c-4d0763245fe850895492900276eab949]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ of its intention to enforce the charge.
 
 ## Annotations
 
-[^key-4d0763245fe850895492900276eab949]: Commencement: Reg. 107 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-4d0763245fe850895492900276eab949]: Commencement: Reg. 107 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
 [^f00053]: Footnote: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).

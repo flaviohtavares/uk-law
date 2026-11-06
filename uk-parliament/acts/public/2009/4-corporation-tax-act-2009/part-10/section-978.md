@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 978. Exemption for payments by persons liable to pool betting duty[^key-8cb9046e3efd58750408a3db8e9e8441]
+## 978. Exemption for payments by persons liable to pool betting duty[^c-8cb9046e3efd58750408a3db8e9e8441]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8cb9046e3efd58750408a3db8e9e8441]: Textual amendment: S. 978 repealed (with effect in accordance with Sch. 39 para. 21(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 22(1)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/22/1/b)
+[^c-8cb9046e3efd58750408a3db8e9e8441]: Textual amendment: S. 978 repealed (with effect in accordance with Sch. 39 para. 21(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 22(1)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/22/1/b)

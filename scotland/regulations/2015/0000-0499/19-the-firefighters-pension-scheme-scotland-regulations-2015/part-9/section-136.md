@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 136. Requirement for scheme manager to provide a certificate[^key-558cbdea2e7c4ffa59665ae810f3fc87]
+## 136. Requirement for scheme manager to provide a certificate[^c-558cbdea2e7c4ffa59665ae810f3fc87]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-558cbdea2e7c4ffa59665ae810f3fc87]: Commencement: [Reg. 136](https://www.legislation.gov.uk/ssi/2015/19/regulation/136) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-558cbdea2e7c4ffa59665ae810f3fc87]: Commencement: [Reg. 136](https://www.legislation.gov.uk/ssi/2015/19/regulation/136) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

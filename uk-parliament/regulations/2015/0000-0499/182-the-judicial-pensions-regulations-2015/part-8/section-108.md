@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Provisional awards of eligible child’s pensions: later adjustments[^key-61946966a04864e423459cfd509c1032]
+## 108. Provisional awards of eligible child’s pensions: later adjustments[^c-61946966a04864e423459cfd509c1032]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61946966a04864e423459cfd509c1032]: Commencement: [Reg. 108](https://www.legislation.gov.uk/uksi/2015/182/regulation/108) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-61946966a04864e423459cfd509c1032]: Commencement: [Reg. 108](https://www.legislation.gov.uk/uksi/2015/182/regulation/108) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

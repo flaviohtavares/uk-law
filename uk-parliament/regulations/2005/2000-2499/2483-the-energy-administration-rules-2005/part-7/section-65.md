@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Declaration of dividend[^key-8e94d52e3ab0fc4508463cc184ad26c8]
+## 65. Declaration of dividend[^c-8e94d52e3ab0fc4508463cc184ad26c8]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e94d52e3ab0fc4508463cc184ad26c8]: Commencement: Rule 65 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-8e94d52e3ab0fc4508463cc184ad26c8]: Commencement: Rule 65 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

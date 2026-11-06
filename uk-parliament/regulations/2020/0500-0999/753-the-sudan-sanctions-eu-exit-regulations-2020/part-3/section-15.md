@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Making economic resources available to designated persons[^key-72d578122d41d0dc6908dd44f964e306]
+## 15. Making economic resources available to designated persons[^c-72d578122d41d0dc6908dd44f964e306]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72d578122d41d0dc6908dd44f964e306]: Commencement: Reg. 15 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
+[^c-72d578122d41d0dc6908dd44f964e306]: Commencement: Reg. 15 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)

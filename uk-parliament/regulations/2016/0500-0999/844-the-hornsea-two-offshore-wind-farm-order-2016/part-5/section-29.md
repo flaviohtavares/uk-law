@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Recovery of costs of new connections[^key-20ec5c01e796b1572ab240c5aa5ce25f]
+## 29. Recovery of costs of new connections[^c-20ec5c01e796b1572ab240c5aa5ce25f]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ is entitled to recover from the undertaker compensation in respect of expenditur
 
 ## Annotations
 
-[^key-20ec5c01e796b1572ab240c5aa5ce25f]: Commencement: Art. 29 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-20ec5c01e796b1572ab240c5aa5ce25f]: Commencement: Art. 29 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
 [^f00040]: Footnote: “Public utility undertaker” is defined in section 329.

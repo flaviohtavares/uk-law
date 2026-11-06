@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Power to change or revoke infrastructure consent orders[^key-d21544a693f945b124bbd126970cc623][^key-56a8c4878a0fcf0cbcec506e6821e8e1]
+## 90. Power to change or revoke infrastructure consent orders[^c-d21544a693f945b124bbd126970cc623][^c-56a8c4878a0fcf0cbcec506e6821e8e1]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d21544a693f945b124bbd126970cc623]: Commencement: S. 90 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-d21544a693f945b124bbd126970cc623]: Commencement: S. 90 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-56a8c4878a0fcf0cbcec506e6821e8e1]: Commencement: [S. 90](https://www.legislation.gov.uk/asc/2024/3/section/90) in force at 16.3.2026 by [S.I. 2025/1306](https://www.legislation.gov.uk/wsi/2025/1306), [art. 2(b)](https://www.legislation.gov.uk/wsi/2025/1306/article/2/b)
+[^c-56a8c4878a0fcf0cbcec506e6821e8e1]: Commencement: [S. 90](https://www.legislation.gov.uk/asc/2024/3/section/90) in force at 16.3.2026 by [S.I. 2025/1306](https://www.legislation.gov.uk/wsi/2025/1306), [art. 2(b)](https://www.legislation.gov.uk/wsi/2025/1306/article/2/b)

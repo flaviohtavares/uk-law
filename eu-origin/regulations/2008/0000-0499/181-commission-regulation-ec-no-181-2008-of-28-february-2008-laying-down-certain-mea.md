@@ -37,50 +37,50 @@ laying down certain measures for implementing Council Regulation (EC) No 718/199
 
 (Codified version) (revoked)
 
-[^key-c01883337d1ab64a358d304270623b50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c01883337d1ab64a358d304270623b50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-c01883337d1ab64a358d304270623b50]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Special contributions[^key-c01883337d1ab64a358d304270623b50]
+## Article 1. Subject matter[^c-c01883337d1ab64a358d304270623b50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Equivalent tonnage[^key-c01883337d1ab64a358d304270623b50]
+## Article 2. Special contributions[^c-c01883337d1ab64a358d304270623b50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. ‘Old for new’ ratios[^key-c01883337d1ab64a358d304270623b50]
+## Article 3. Equivalent tonnage[^c-c01883337d1ab64a358d304270623b50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Mutual financial support[^key-c01883337d1ab64a358d304270623b50]
+## Article 4. ‘Old for new’ ratios[^c-c01883337d1ab64a358d304270623b50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Consulting[^key-c01883337d1ab64a358d304270623b50]
+## Article 5. Mutual financial support[^c-c01883337d1ab64a358d304270623b50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Repeal[^key-c01883337d1ab64a358d304270623b50]
+## Article 6. Consulting[^c-c01883337d1ab64a358d304270623b50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force[^key-c01883337d1ab64a358d304270623b50]
+## Article 7. Repeal[^c-c01883337d1ab64a358d304270623b50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c01883337d1ab64a358d304270623b50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-c01883337d1ab64a358d304270623b50]
+## Article 8. Entry into force[^c-c01883337d1ab64a358d304270623b50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-c01883337d1ab64a358d304270623b50]
+[^c-c01883337d1ab64a358d304270623b50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-c01883337d1ab64a358d304270623b50]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c-c01883337d1ab64a358d304270623b50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c01883337d1ab64a358d304270623b50]: Textual amendment: Regulation revoked (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [5(h)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c01883337d1ab64a358d304270623b50]: Textual amendment: Regulation revoked (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [5(h)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

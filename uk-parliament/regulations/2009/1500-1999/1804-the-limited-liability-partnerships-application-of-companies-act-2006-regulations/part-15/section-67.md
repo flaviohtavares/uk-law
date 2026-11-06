@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Correction or removal of material ...[^key-c85e3ce770f27d2b92f5302d03c3bdd7]
+## 67. Correction or removal of material ...[^c-c85e3ce770f27d2b92f5302d03c3bdd7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ Sections 1093 to 1098 apply to LLPs, modified so that they read as follows—
 
 > **1093. Registrar's notice to resolve inconsistency on the register**
 >
-> (1)[^key-6a7690dddb3dd355288c09247379efed] Where it appears to the registrar that the information contained in a document delivered to the registrar in relation to an LLP is inconsistent with other information contained in records kept by the registrar under section 1080, the registrar may give notice to the LLP to which the document relates—
+> (1)[^c-6a7690dddb3dd355288c09247379efed] Where it appears to the registrar that the information contained in a document delivered to the registrar in relation to an LLP is inconsistent with other information contained in records kept by the registrar under section 1080, the registrar may give notice to the LLP to which the document relates—
 >
 > - (a) stating in what respects the information contained in it appears to be inconsistent with other information in records kept by the registrar under section 1080, and
 > - (b) requiring the LLP, within the period of 14 days beginning with the date on which the notice is issued, to take all such steps as are reasonably open to it to resolve the inconsistency by delivering replacement or additional documents or in any other way.
@@ -36,9 +36,9 @@ Sections 1093 to 1098 apply to LLPs, modified so that they read as follows—
 > - (a) the LLP, and
 > - (b) every member of the LLP who is in default.
 >
-> (4) A person guilty of an offence under subsection (3) is liable on summary conviction to a fine not exceeding level 5 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^key-539813c6cb7ad3ae29075babbe8cd62b]one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)*.
+> (4) A person guilty of an offence under subsection (3) is liable on summary conviction to a fine not exceeding level 5 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^c-539813c6cb7ad3ae29075babbe8cd62b]one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)*.
 >
-> **1094. Removal of material from the register[^key-effdc902a58f0c5cd4012e450b3dbbc1]**
+> **1094. Removal of material from the register[^c-effdc902a58f0c5cd4012e450b3dbbc1]**
 >
 > (1) The registrar may remove from the register anything that appears to the registrar to be—
 >
@@ -62,11 +62,11 @@ Sections 1093 to 1098 apply to LLPs, modified so that they read as follows—
 >
 > (2) In this section the reference to the registrar removing material from the register includes the registrar determining that anything purported to be delivered to the registrar under any enactment was not in fact delivered under an enactment and therefore does not form part of the register.
 >
-> **1095. Rectification of register on application to registrar[^key-effdc902a58f0c5cd4012e450b3dbbc1]**
+> **1095. Rectification of register on application to registrar[^c-effdc902a58f0c5cd4012e450b3dbbc1]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **1095A. Rectification of register to resolve a discrepancy[^key-82f42ada72d2efd420b398531ce14a24]**
+> **1095A. Rectification of register to resolve a discrepancy[^c-82f42ada72d2efd420b398531ce14a24]**
 >
 > (1) This section applies where—
 >
@@ -86,18 +86,18 @@ Sections 1093 to 1098 apply to LLPs, modified so that they read as follows—
 >
 > (2) The court order must specify what is to be removed from the register and indicate where on the register it is.
 >
-> (3)[^key-dcfe5c35e68ab6d4cbcf5a8ead9b8a27] The court may make an order for the removal from the register of anything the registration of which had legal consequences only if satisfied that the interest of the LLP, or (if different) the applicant, in removing the material outweighs any interest of other persons in the material continuing to appear on the register.
+> (3)[^c-dcfe5c35e68ab6d4cbcf5a8ead9b8a27] The court may make an order for the removal from the register of anything the registration of which had legal consequences only if satisfied that the interest of the LLP, or (if different) the applicant, in removing the material outweighs any interest of other persons in the material continuing to appear on the register.
 >
 > (4) Where in such a case the court does make an order for removal, it may make such consequential orders as appear just with respect to the legal effect (if any) to be accorded to the material by virtue of its having appeared on the register.
 >
 > (5) A copy of the court's order must be sent to the registrar for registration.
 >
-> (5A)[^key-a01ee2665656c2286a475d052db297b3] This section does not apply to any material delivered to the registrar under provisions of Part 15 that have been applied to LLPs.
+> (5A)[^c-a01ee2665656c2286a475d052db297b3] This section does not apply to any material delivered to the registrar under provisions of Part 15 that have been applied to LLPs.
 >
 > (6) This section does not apply where the court has other, specific, powers to deal with the matter, for example under—
 >
-> - (a)[^key-d198df4395cf0f18acd758fb5cab650f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-> - (b) section 859M (rectification of register)[^key-dcaf6179befe32f8909b14d28c033369].
+> - (a)[^c-d198df4395cf0f18acd758fb5cab650f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (b) section 859M (rectification of register)[^c-dcaf6179befe32f8909b14d28c033369].
 >
 > **1097. Powers of court on ordering removal of material from the register**
 >
@@ -121,7 +121,7 @@ Sections 1093 to 1098 apply to LLPs, modified so that they read as follows—
 >   may cause damage to the LLP, and
 > - (b) that the LLP's interest in non-disclosure outweighs any interest of other persons in disclosure.
 >
-> **1097A. Rectification of register relating to LLP registered office[^key-3ed41bae38516f526cbc9067a266aa98][^key-795df82e96577928d84c4637a774376d]**
+> **1097A. Rectification of register relating to LLP registered office[^c-3ed41bae38516f526cbc9067a266aa98][^c-795df82e96577928d84c4637a774376d]**
 >
 > (1) The provisions of regulations 2 to 23 and 25 of the Registered Office Address (Rectification of Register) Regulations 2024 ([S.I. 2024/233](https://www.legislation.gov.uk/uksi/2024/233)) apply to LLPs with the modifications set out in paragraphs (2) to (7).
 >
@@ -136,7 +136,7 @@ Sections 1093 to 1098 apply to LLPs, modified so that they read as follows—
 > > (1) Where the registrar changes the address of an LLP’s registered office address from an address which is not a default address to a default address, the following duties do not apply in relation to the LLP during the suspension period (see paragraphs (2) and (3))—
 > >
 > > - (a) the duty under any of the following sections of the Act, as they are applied to LLPs, to make LLP records available for public inspection—
-> >   - (i)[^key-043f67ff4ded821ac9cf82d3da69b01e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> >   - (i)[^c-043f67ff4ded821ac9cf82d3da69b01e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 > >   - (ii) section 388 (accounting records);
 > >   - (iii) section 743 (register of debenture holders);
 > >   - (iv) sections 859P and 859Q (instruments creating and amending charges);
@@ -171,7 +171,7 @@ Sections 1093 to 1098 apply to LLPs, modified so that they read as follows—
 >
 > (8) On an appeal under regulation 13 or 14, the court must direct the registrar to register such address as the registered office of the LLP as the court considers appropriate in all the circumstances of the case.
 >
-> **1097B. Rectification of register relating to LLP relevant persons' service addresses[^key-587205d6fccb42ab28f158ab1521754b]**
+> **1097B. Rectification of register relating to LLP relevant persons' service addresses[^c-587205d6fccb42ab28f158ab1521754b]**
 >
 > (1) Regulations 2 to 19 of the Service Address (Rectification of Register) Regulations 2024 ([S.I. 2024/235](https://www.legislation.gov.uk/uksi/2024/235)) apply to LLPs with the modifications set out in paragraphs (2) to (5).
 >
@@ -198,7 +198,7 @@ Sections 1093 to 1098 apply to LLPs, modified so that they read as follows—
 >
 > (6) On an appeal under regulation 13 or 14 of those Regulations, the court must direct the registrar to register such an address as the relevant person’s service address as the court considers appropriate in all the circumstances of the case.
 >
-> **1097C. Rectification of register relating to LLP relevant persons’ principal office addresses[^key-f290b7ab3b05a26fc1ac3324855d8739]**
+> **1097C. Rectification of register relating to LLP relevant persons’ principal office addresses[^c-f290b7ab3b05a26fc1ac3324855d8739]**
 >
 > (1) Regulations 2 to 19 of the Principal Office Address (Rectification of Register) Regulations 2024 ([S.I. 2024/236](https://www.legislation.gov.uk/uksi/2024/236)) apply to LLPs with the modifications set out in paragraphs (3) to (5).
 >
@@ -241,30 +241,30 @@ Sections 1093 to 1098 apply to LLPs, modified so that they read as follows—
 
 ## Annotations
 
-[^key-c85e3ce770f27d2b92f5302d03c3bdd7]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [37(2)(b)](https://www.legislation.gov.uk/uksi/2024/234/regulation/37/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-c85e3ce770f27d2b92f5302d03c3bdd7]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [37(2)(b)](https://www.legislation.gov.uk/uksi/2024/234/regulation/37/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-6a7690dddb3dd355288c09247379efed]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [37(2)(a)](https://www.legislation.gov.uk/uksi/2024/234/regulation/37/2/a); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-6a7690dddb3dd355288c09247379efed]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [37(2)(a)](https://www.legislation.gov.uk/uksi/2024/234/regulation/37/2/a); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-539813c6cb7ad3ae29075babbe8cd62b]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 14(6)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/14/6) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-539813c6cb7ad3ae29075babbe8cd62b]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 14(6)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/14/6) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-effdc902a58f0c5cd4012e450b3dbbc1]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) substituted (4.3.2024) by [The Registrar (Annotation, Removal and Disclosure Restrictions) Regulations 2024 (S.I. 2024/54)](https://www.legislation.gov.uk/uksi/2024/54), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a), [16](https://www.legislation.gov.uk/uksi/2024/54/regulation/16); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2](https://www.legislation.gov.uk/uksi/2024/269/regulation/2)
+[^c-effdc902a58f0c5cd4012e450b3dbbc1]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) substituted (4.3.2024) by [The Registrar (Annotation, Removal and Disclosure Restrictions) Regulations 2024 (S.I. 2024/54)](https://www.legislation.gov.uk/uksi/2024/54), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a), [16](https://www.legislation.gov.uk/uksi/2024/54/regulation/16); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2](https://www.legislation.gov.uk/uksi/2024/269/regulation/2)
 
-[^key-82f42ada72d2efd420b398531ce14a24]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [17(4)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/17/4)
+[^c-82f42ada72d2efd420b398531ce14a24]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [17(4)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/17/4)
 
-[^key-dcfe5c35e68ab6d4cbcf5a8ead9b8a27]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [38(2)(a)](https://www.legislation.gov.uk/uksi/2024/234/regulation/38/2/a); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-dcfe5c35e68ab6d4cbcf5a8ead9b8a27]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [38(2)(a)](https://www.legislation.gov.uk/uksi/2024/234/regulation/38/2/a); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-a01ee2665656c2286a475d052db297b3]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [38(2)(b)](https://www.legislation.gov.uk/uksi/2024/234/regulation/38/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-a01ee2665656c2286a475d052db297b3]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [38(2)(b)](https://www.legislation.gov.uk/uksi/2024/234/regulation/38/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-d198df4395cf0f18acd758fb5cab650f]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [38(2)(c)](https://www.legislation.gov.uk/uksi/2024/234/regulation/38/2/c); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-d198df4395cf0f18acd758fb5cab650f]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [38(2)(c)](https://www.legislation.gov.uk/uksi/2024/234/regulation/38/2/c); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-dcaf6179befe32f8909b14d28c033369]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) substituted (6.4.2013) by [The Limited Liability Partnerships (Application of Companies Act 2006) (Amendment) Regulations 2013 (S.I. 2013/618)](https://www.legislation.gov.uk/uksi/2013/618), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/618/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2013/618/regulation/5) (with [reg. 8(4)](https://www.legislation.gov.uk/uksi/2013/618/regulation/8/4))
+[^c-dcaf6179befe32f8909b14d28c033369]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) substituted (6.4.2013) by [The Limited Liability Partnerships (Application of Companies Act 2006) (Amendment) Regulations 2013 (S.I. 2013/618)](https://www.legislation.gov.uk/uksi/2013/618), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/618/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2013/618/regulation/5) (with [reg. 8(4)](https://www.legislation.gov.uk/uksi/2013/618/regulation/8/4))
 
-[^key-3ed41bae38516f526cbc9067a266aa98]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) inserted (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2016/423/regulation/21)
+[^c-3ed41bae38516f526cbc9067a266aa98]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) inserted (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2016/423/regulation/21)
 
-[^key-795df82e96577928d84c4637a774376d]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2024/234/regulation/39); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-795df82e96577928d84c4637a774376d]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2024/234/regulation/39); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-043f67ff4ded821ac9cf82d3da69b01e]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) omitted (18.11.2025) by virtue of [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4/4); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+[^c-043f67ff4ded821ac9cf82d3da69b01e]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) omitted (18.11.2025) by virtue of [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4/4); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
 
-[^key-587205d6fccb42ab28f158ab1521754b]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [40](https://www.legislation.gov.uk/uksi/2024/234/regulation/40); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-587205d6fccb42ab28f158ab1521754b]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [40](https://www.legislation.gov.uk/uksi/2024/234/regulation/40); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-f290b7ab3b05a26fc1ac3324855d8739]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2024/234/regulation/41); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-f290b7ab3b05a26fc1ac3324855d8739]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2024/234/regulation/41); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)

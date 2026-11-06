@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Studies as to economy, efficiency etc.[^key-bb9f98c87f530c6aed64e264c7bd37a9]
+## 70. Studies as to economy, efficiency etc.[^c-bb9f98c87f530c6aed64e264c7bd37a9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ SCW may promote or undertake comparative or other studies designed to enable it 
 
 ## Annotations
 
-[^key-bb9f98c87f530c6aed64e264c7bd37a9]: Commencement: [S. 70](https://www.legislation.gov.uk/anaw/2016/2/section/70) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/309/article/2/b) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-bb9f98c87f530c6aed64e264c7bd37a9]: Commencement: [S. 70](https://www.legislation.gov.uk/anaw/2016/2/section/70) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/309/article/2/b) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

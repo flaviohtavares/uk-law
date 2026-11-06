@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Notice of changes[^key-7878e8135dc292d13da1810208f057f2]
+## 32. Notice of changes[^c-7878e8135dc292d13da1810208f057f2]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7878e8135dc292d13da1810208f057f2]: Commencement: Reg. 32 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-7878e8135dc292d13da1810208f057f2]: Commencement: Reg. 32 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

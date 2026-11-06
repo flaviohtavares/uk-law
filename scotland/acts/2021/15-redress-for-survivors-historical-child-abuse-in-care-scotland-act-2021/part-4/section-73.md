@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Nominated beneficiary's death etc.[^key-d63eb7b2b7afbaf187dc07949d912267]
+## 73. Nominated beneficiary's death etc.[^c-d63eb7b2b7afbaf187dc07949d912267]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ the redress payment is to be paid to the individual's estate.
 
 ## Annotations
 
-[^key-d63eb7b2b7afbaf187dc07949d912267]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2021/15/section/73) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-d63eb7b2b7afbaf187dc07949d912267]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2021/15/section/73) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

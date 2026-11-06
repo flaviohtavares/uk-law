@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Powers of local weights and measures authorities[^key-53a34dad7250cb37741a289288ed8403]
+## 39. Powers of local weights and measures authorities[^c-53a34dad7250cb37741a289288ed8403]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ Schedule 2 makes provision about the powers of a local weights and measures auth
 
 ## Annotations
 
-[^key-53a34dad7250cb37741a289288ed8403]: Commencement: S. 39 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-53a34dad7250cb37741a289288ed8403]: Commencement: S. 39 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

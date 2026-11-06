@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Triggering events: notification requirements[^key-49fe455b9592f7d2f8c44a474351911a]
+## 25. Triggering events: notification requirements[^c-49fe455b9592f7d2f8c44a474351911a]
 
 *Extent: N.I.*
 
 (1) For the purposes of section 84(4)(b) of the 2021 Act (notification of triggering events), a trustee who is required to give a required notification under section 84(3) of the 2021 Act must notify each employer and any relevant former employer of the following matters—
 
-- (a)[^key-b6c0fe12fef41a3452c3bc885021d1bc] that, unless not required to submit an implementation strategy by virtue of section 90(2)(a) or (3)(a) of the 2021 Act (implementation strategy), the trustees—
+- (a)[^c-b6c0fe12fef41a3452c3bc885021d1bc] that, unless not required to submit an implementation strategy by virtue of section 90(2)(a) or (3)(a) of the 2021 Act (implementation strategy), the trustees—
   - (i) have submitted an implementation strategy to the Regulator and the date on which they did so, or (as the case may be) will submit an implementation strategy to the Regulator before the end of the period specified in regulation 26; and
   - (ii) will make the implementation strategy available to each employer and any relevant former employer after it has been approved by the Regulator;
 - (b) the timetable for future communications with each employer and any relevant former employer.
@@ -49,6 +49,6 @@ beginning with the date specified in paragraph (3).
 
 ## Annotations
 
-[^key-49fe455b9592f7d2f8c44a474351911a]: Commencement: Reg. 25 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-49fe455b9592f7d2f8c44a474351911a]: Commencement: Reg. 25 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-b6c0fe12fef41a3452c3bc885021d1bc]: Textual amendment: [Reg. 25(1)(a)](https://www.legislation.gov.uk/nisr/2024/15/regulation/25/1/a) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(15)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/15)
+[^c-b6c0fe12fef41a3452c3bc885021d1bc]: Textual amendment: [Reg. 25(1)(a)](https://www.legislation.gov.uk/nisr/2024/15/regulation/25/1/a) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(15)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/15)

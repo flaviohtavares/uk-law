@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Discretionary payments and assistance[^key-d7f3e706ca878bb7a84a5b85a3d9a530]
+## 26. Discretionary payments and assistance[^c-d7f3e706ca878bb7a84a5b85a3d9a530]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ In Section F1 of Part 2 of Schedule 5 to the Scotland Act 1998, in the Exception
 
 ## Annotations
 
-[^key-d7f3e706ca878bb7a84a5b85a3d9a530]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2016/11/section/26) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/d)
+[^c-d7f3e706ca878bb7a84a5b85a3d9a530]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2016/11/section/26) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/d)

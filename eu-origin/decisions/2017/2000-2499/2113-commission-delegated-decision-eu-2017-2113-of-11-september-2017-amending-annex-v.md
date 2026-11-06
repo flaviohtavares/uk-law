@@ -37,18 +37,18 @@ amending Annex V to Directive 2005/36/EC of the European Parliament and of the
 
 (Text with EEA relevance) (revoked)
 
-[^key-3b59a8b9512421e1e7189652c1ee7d58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b59a8b9512421e1e7189652c1ee7d58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-3b59a8b9512421e1e7189652c1ee7d58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-3b59a8b9512421e1e7189652c1ee7d58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-3b59a8b9512421e1e7189652c1ee7d58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-3b59a8b9512421e1e7189652c1ee7d58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3b59a8b9512421e1e7189652c1ee7d58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b59a8b9512421e1e7189652c1ee7d58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-3b59a8b9512421e1e7189652c1ee7d58]
+## ANNEX[^c-3b59a8b9512421e1e7189652c1ee7d58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3b59a8b9512421e1e7189652c1ee7d58]: Textual amendment: Decision revoked (31.12.2020) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/4), [13(c)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/13/c)
+[^c-3b59a8b9512421e1e7189652c1ee7d58]: Textual amendment: Decision revoked (31.12.2020) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/4), [13(c)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/13/c)

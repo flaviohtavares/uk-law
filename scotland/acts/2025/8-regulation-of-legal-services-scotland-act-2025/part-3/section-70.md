@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Compensation funds: setting of minimum standards by the Commission[^key-98d97e8ecce943a01e022b0ebbba5bdb]
+## 70. Compensation funds: setting of minimum standards by the Commission[^c-98d97e8ecce943a01e022b0ebbba5bdb]
 
 *Extent: S*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98d97e8ecce943a01e022b0ebbba5bdb]: Commencement: S. 70 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-98d97e8ecce943a01e022b0ebbba5bdb]: Commencement: S. 70 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

@@ -48,7 +48,7 @@ The Treasury believe that action constituting a threat to the life of one or mor
 
 The Treasury, in exercise of the powers conferred by sections 4 and 14 of and Schedule 3 to the Anti-terrorism, Crime and Security Act 2001 [^c23963911], and having consulted the Secretary of State in accordance with section 10(5) of that Act, make the following Order.
 
-## 1. Citation, commencement, extent and application[^key-1625025730758215cbae66cf439badb2]
+## 1. Citation, commencement, extent and application[^c-1625025730758215cbae66cf439badb2]
 
 (1) This Order may be cited as the Andrey Lugovoy and Dmitri Kovtun Freezing Order 2020 and shall come into force on 19th January 2020.
 
@@ -63,7 +63,7 @@ The Treasury, in exercise of the powers conferred by sections 4 and 14 of and Sc
   - (iii) a British protected person within the meaning of that Act;
   - (iv) a body incorporated under the law of any part of the United Kingdom.
 
-## 2. Interpretation[^key-1a3e614b61e347b6262ebe82bfabd41e]
+## 2. Interpretation[^c-1a3e614b61e347b6262ebe82bfabd41e]
 
 (1) In this Order—
 
@@ -81,8 +81,8 @@ The Treasury, in exercise of the powers conferred by sections 4 and 14 of and Sc
 
 (2) In this Order “**relevant institution**” means—
 
-- (a) a person who has permission under Part 4A of the 2000 Act [^c23963941] (permission to carry on regulated activities); [^key-8f2aad7c9ccf649ced72b36ad48f216b]...
-- (b)[^key-8f2aad7c9ccf649ced72b36ad48f216b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a person who has permission under Part 4A of the 2000 Act [^c23963941] (permission to carry on regulated activities); [^c-8f2aad7c9ccf649ced72b36ad48f216b]...
+- (b)[^c-8f2aad7c9ccf649ced72b36ad48f216b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The definition of “relevant institution” in paragraph (2) must be read with—
 
@@ -90,7 +90,7 @@ The Treasury, in exercise of the powers conferred by sections 4 and 14 of and Sc
 - (b) any relevant order under that section [^c23963991], and
 - (c) Schedule 2 [^c23964001] to the 2000 Act (regulated activities).
 
-## 3. Specified persons[^key-274f5ffcb221af860c77915e15061a2a]
+## 3. Specified persons[^c-274f5ffcb221af860c77915e15061a2a]
 
 (1) The following are specified persons for the purposes of this Order (being persons believed by the Treasury to have taken action constituting a threat to the life of one or more nationals or residents of the United Kingdom)—
 
@@ -99,7 +99,7 @@ The Treasury, in exercise of the powers conferred by sections 4 and 14 of and Sc
 
 (2) If a specified person makes a written request, the Treasury must as soon as is practicable, and in writing, give him the reason why he has been specified.
 
-## 4. Freezing prohibitions[^key-b22d03c180c6c476ff404c18f1e976ce]
+## 4. Freezing prohibitions[^c-b22d03c180c6c476ff404c18f1e976ce]
 
 (1) The provisions of this article apply in relation to the following funds (“frozen funds”)—
 
@@ -127,7 +127,7 @@ The Treasury, in exercise of the powers conferred by sections 4 and 14 of and Sc
 - (b) deal with in any other way that would result in any change in volume, amount, location, ownership, possession, character or destination; or
 - (c) make any other change that would enable use, including portfolio management.
 
-## 5. Freezing prohibitions: offences[^key-6d0a6e989df669d83dfec9abd0f37020]
+## 5. Freezing prohibitions: offences[^c-6d0a6e989df669d83dfec9abd0f37020]
 
 (1) A person referred to in article 1(3) who fails to comply with a prohibition imposed by article 4 commits an offence.
 
@@ -141,7 +141,7 @@ The Treasury, in exercise of the powers conferred by sections 4 and 14 of and Sc
 
 was a specified person.
 
-## 6. Licensing[^key-d519fe4e827570a4ed98b4a301fc38c2]
+## 6. Licensing[^c-d519fe4e827570a4ed98b4a301fc38c2]
 
 (1) The Treasury may, by licence, authorise frozen funds to be made available.
 
@@ -168,7 +168,7 @@ was a specified person.
 - (a) in the case of a licence granted to a particular person, give written notice of the licence, variation or revocation to that person, and
 - (b) in the case of a general licence or a licence granted to a category of persons, take such steps as the Treasury consider appropriate to publicise the licence, variation or revocation.
 
-## 7. Licensing procedure and offences[^key-40b9825530f347c7584d26b082ff0d5b]
+## 7. Licensing procedure and offences[^c-40b9825530f347c7584d26b082ff0d5b]
 
 (1) A person applying for a licence must—
 
@@ -188,17 +188,17 @@ was a specified person.
 
 (6) A person who recklessly provides information, or produces a document, which is false in a material particular with a view to obtaining a licence is guilty of an offence.
 
-## 8. Information[^key-af6824ac71c63685f485f212f5ebc40b]
+## 8. Information[^c-af6824ac71c63685f485f212f5ebc40b]
 
 The Schedule (which contains provisions concerning information and documents, and disclosure) has effect.
 
-## 9. Penalties[^key-351f488b36b59e28c4d9cbb32565f7a9]
+## 9. Penalties[^c-351f488b36b59e28c4d9cbb32565f7a9]
 
 (1) A person guilty of an offence under article 5 is liable—
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding 7 years or to a fine, or to both;
 - (b) on summary conviction—
-  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-1fef9397ed05c26aae6a5ebc3e36e350] (or, in relation to offences committed before 2nd May 2022[^key-c8b73ab1fa2918a08423bd03580ba349], 6 months) or to a fine, or to both;
+  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-1fef9397ed05c26aae6a5ebc3e36e350] (or, in relation to offences committed before 2nd May 2022[^c-c8b73ab1fa2918a08423bd03580ba349], 6 months) or to a fine, or to both;
   - (ii) in Scotland, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding the statutory maximum, or to both;
   - (iii) in Northern Ireland, to imprisonment for a term not exceeding 6 months, or to a fine not exceeding the statutory maximum, or to both.
 
@@ -206,11 +206,11 @@ The Schedule (which contains provisions concerning information and documents, an
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine, or to both;
 - (b) on summary conviction—
-  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-32df92705310c9c303220ea5b330d5e9] (or, in relation to offences committed before 2nd May 2022[^key-9ce4eff86a69804092c9b4e7dff1c914], 6 months) or to a fine, or to both;
+  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-32df92705310c9c303220ea5b330d5e9] (or, in relation to offences committed before 2nd May 2022[^c-9ce4eff86a69804092c9b4e7dff1c914], 6 months) or to a fine, or to both;
   - (ii) in Scotland, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding the statutory maximum, or to both;
   - (iii) in Northern Ireland, to imprisonment for a term not exceeding 6 months, or to a fine not exceeding the statutory maximum, or to both.
 
-## 10. Offences: procedure[^key-3e86444e8edba4ca60693214e6eb54d5]
+## 10. Offences: procedure[^c-3e86444e8edba4ca60693214e6eb54d5]
 
 (1) Proceedings for an offence under this Order are not to be instituted in England and Wales except by or with the consent of the Treasury or the Director of Public Prosecutions.
 
@@ -222,7 +222,7 @@ The Schedule (which contains provisions concerning information and documents, an
 
 (5) In its application to an offence under this Order article 19(1)(a) of the Magistrates' Courts (Northern Ireland) Order 1981 [^c23964031] (time limit within which complaint charging offence must be made) is to have effect as if the reference to six months were a reference to twelve months.
 
-## 11. Offences by bodies corporate etc.[^key-8c6568f7cb651c628ea6ae69d00b6878]
+## 11. Offences by bodies corporate etc.[^c-8c6568f7cb651c628ea6ae69d00b6878]
 
 (1) If an offence under this Order—
 
@@ -239,7 +239,7 @@ the officer as well as the body corporate is guilty of the offence and liable to
 
 (3) If the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with the member's functions of management as if the member were an officer of the body.
 
-## 12. Notices[^key-9fd6b12c120f9f4c4fe217e01023184c]
+## 12. Notices[^c-9fd6b12c120f9f4c4fe217e01023184c]
 
 (1) This article has effect in relation to any notice to be given to a person (“P”) by the Treasury under article 6.
 
@@ -250,7 +250,7 @@ the officer as well as the body corporate is guilty of the offence and liable to
 
 (3) Where the Treasury do not have an address for P, they must make arrangements for the notice to be given to P at the first available opportunity.
 
-## 13. Supplemental amendments[^key-e6f8f6380f40327b89292da5ae2581a2]
+## 13. Supplemental amendments[^c-e6f8f6380f40327b89292da5ae2581a2]
 
 (1) Part 3 of the Schedule to the EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 [^c23964041] is amended as follows.
 
@@ -271,15 +271,15 @@ Two of the Lords Commissioners of Her Majesty's Treasury
 
 Article 8
 
-**1.**[^key-84e64fa8244bf131c1f5ac9bd5f25535] (1) The Treasury may, in writing, request a person to provide information or produce documentation to them which they may reasonably need for the purpose of ascertaining whether an offence has been committed under this Order.
+**1.**[^c-84e64fa8244bf131c1f5ac9bd5f25535] (1) The Treasury may, in writing, request a person to provide information or produce documentation to them which they may reasonably need for the purpose of ascertaining whether an offence has been committed under this Order.
 
 (2) The request may be made by the Treasury or by a person authorised by the Treasury.
 
 (3) Any person to whom a request is made under sub-paragraph (1) must comply with it within 14 days and in such manner as may be specified in the request.
 
-**2.**[^key-5d540b6db3218e25b1536df781eec896] A relevant institution must disclose information to the Treasury as soon as practicable if the conditions in paragraph 3 are satisfied.
+**2.**[^c-5d540b6db3218e25b1536df781eec896] A relevant institution must disclose information to the Treasury as soon as practicable if the conditions in paragraph 3 are satisfied.
 
-**3.**[^key-fcf3de8c22da0a216d322272a2fb093f] (1) The conditions are that—
+**3.**[^c-fcf3de8c22da0a216d322272a2fb093f] (1) The conditions are that—
 
 - (a) the relevant institution knows or suspects, or has grounds for knowing or suspecting, that a specified person—
   - (i) is or has been a customer of the institution at any time since this Order came into force, or
@@ -292,7 +292,7 @@ came to the relevant institution in the course of a business in the regulated se
 
 (2) For the purpose of this paragraph, Schedule 3A to the Terrorism Act 2000 [^c23964051] is to have effect for the purpose of determining what is a business in the regulated sector.
 
-**4.**[^key-78edc628b2c3aca59633e7a53d7fa6d1] (1) Disclosure of information in accordance with this Schedule is not to be taken to breach any restrictions on the disclosure of information (however imposed).
+**4.**[^c-78edc628b2c3aca59633e7a53d7fa6d1] (1) Disclosure of information in accordance with this Schedule is not to be taken to breach any restrictions on the disclosure of information (however imposed).
 
 (2) But nothing in this Schedule authorises a disclosure that—
 
@@ -312,13 +312,13 @@ came to the relevant institution in the course of a business in the regulated se
 - “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 [^c23964081] (see section 3 of that Act);
 - “**privileged information**” means information with respect to which a claim to legal professional privilege (in Scotland, to confidentiality of communications) could be maintained in legal proceedings.
 
-**5.**[^key-a4c0e67dd28295121f5a6e6152de6a0f] (1) This Schedule does not require any person to provide information or produce documentation which is privileged.
+**5.**[^c-a4c0e67dd28295121f5a6e6152de6a0f] (1) This Schedule does not require any person to provide information or produce documentation which is privileged.
 
 (2) Information and documentation is privileged if the person asked to provide or produce it would be entitled to refuse to do so on grounds of legal professional privilege in proceedings in the High Court or (in Scotland) on grounds of confidentiality of communications in proceedings in the Court of Session.
 
 (3) But information or documentation held with the intention of furthering a criminal purpose is not privileged.
 
-**6.**[^key-e603e6d47a563d79f5167a98e74a28e4] A person (“P”) who—
+**6.**[^c-e603e6d47a563d79f5167a98e74a28e4] A person (“P”) who—
 
 - (a) fails without reasonable excuse to provide information, or to produce a document, in response to a requirement in this Schedule;
 - (b) provides information, or produces a document, which P knows is false in a material particular in response to a requirement in this Schedule;
@@ -327,7 +327,7 @@ came to the relevant institution in the course of a business in the regulated se
 
 is guilty of an offence.
 
-**7.**[^key-8defa0eea42b85b0f3669f893ee3379c] (1) The Treasury may disclose any information given or documentation produced under this Order (including any copy or extract made of any such document)—
+**7.**[^c-8defa0eea42b85b0f3669f893ee3379c] (1) The Treasury may disclose any information given or documentation produced under this Order (including any copy or extract made of any such document)—
 
 - (a) to a police officer;
 - (b) to any person holding or acting in any office under or in the service of—
@@ -350,7 +350,7 @@ is guilty of an offence.
 
 (4) In sub-paragraph (3) “**in their own right**” means not merely in the capacity as a servant or agent of another person.
 
-**8.**[^key-15eb885a66241d00bb8fde06f447d546] Where a person is convicted of an offence under paragraph 6 of this Schedule the court may make an order requiring that person, within such period as may be specified in the order, to give the requested information or to produce the requested document.
+**8.**[^c-15eb885a66241d00bb8fde06f447d546] Where a person is convicted of an offence under paragraph 6 of this Schedule the court may make an order requiring that person, within such period as may be specified in the order, to give the requested information or to produce the requested document.
 
 *(This note is not part of the Order)*
 
@@ -378,17 +378,17 @@ A full impact assessment has not been prepared for this instrument as no, or no 
 
 [^c23963911]: Marginal citation: [2001 c.24](https://www.legislation.gov.uk/ukpga/2001/24).
 
-[^key-1625025730758215cbae66cf439badb2]: Commencement: Art. 1 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-1625025730758215cbae66cf439badb2]: Commencement: Art. 1 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
 
 [^c23963921]: Marginal citation: [1981 c.61](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^key-1a3e614b61e347b6262ebe82bfabd41e]: Commencement: Art. 2 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-1a3e614b61e347b6262ebe82bfabd41e]: Commencement: Art. 2 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
 
 [^c23963931]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
 [^c23963941]: Marginal citation: [Part 4A](https://www.legislation.gov.uk/uksi/2020/36/part/4A) was inserted by the Financial Services Act 2012(c.21), section 11(2) and amended by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504), [S.I](https://www.legislation.gov.uk/uksi/2013/504/section/I). 2013/1773, [S.I. 2013/1797](https://www.legislation.gov.uk/uksi/2013/1797), [S.I](https://www.legislation.gov.uk/uksi/2013/1797/section/I). 2013/3115, [S.I. 2015/486](https://www.legislation.gov.uk/uksi/2015/486), [S.I](https://www.legislation.gov.uk/uksi/2015/486/section/I). 2015/575, [S.I. 2015/910](https://www.legislation.gov.uk/uksi/2015/910), [S.I](https://www.legislation.gov.uk/uksi/2015/910/section/I). 2015/1882, [S.I. 2016/225](https://www.legislation.gov.uk/uksi/2016/225), [S.I](https://www.legislation.gov.uk/uksi/2016/225/section/I). 2016/680, [S.I. 2016/1239](https://www.legislation.gov.uk/uksi/2016/1239), [S.I](https://www.legislation.gov.uk/uksi/2016/1239/section/I). 2017/701, [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064), [S.I](https://www.legislation.gov.uk/uksi/2017/1064/section/I). 2017/1212, [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135), [S.I](https://www.legislation.gov.uk/uksi/2018/135/section/I). 2018/546 and [S.I. 2018/698](https://www.legislation.gov.uk/uksi/2018/698).
 
-[^key-8f2aad7c9ccf649ced72b36ad48f216b]: Textual amendment: [Art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/36/article/2/2/b) and word omitted (30.12.2020) by virtue of S.I. 2018/1149, Sch. para. 93(b) (as amended by [The Andrey Lugovoy and Dmitri Kovtun Freezing Order 2020 (S.I. 2020/36)](https://www.legislation.gov.uk/uksi/2020/36), [arts. 1](https://www.legislation.gov.uk/uksi/2020/36/article/1), [13](https://www.legislation.gov.uk/uksi/2020/36/article/13) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2020/36/article/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-8f2aad7c9ccf649ced72b36ad48f216b]: Textual amendment: [Art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/36/article/2/2/b) and word omitted (30.12.2020) by virtue of S.I. 2018/1149, Sch. para. 93(b) (as amended by [The Andrey Lugovoy and Dmitri Kovtun Freezing Order 2020 (S.I. 2020/36)](https://www.legislation.gov.uk/uksi/2020/36), [arts. 1](https://www.legislation.gov.uk/uksi/2020/36/article/1), [13](https://www.legislation.gov.uk/uksi/2020/36/article/13) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2020/36/article/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
 [^c23963981]: Marginal citation: [Section 22](https://www.legislation.gov.uk/uksi/2020/36/section/22) was amended by the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), [section 7(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/7/1); [section 27(4)](https://www.legislation.gov.uk/uksi/2020/36/section/27/4) of the [Financial Guidance and Claims Act 2018 (c.10)](https://www.legislation.gov.uk/ukpga/2018/10); and [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135).
 
@@ -396,51 +396,51 @@ A full impact assessment has not been prepared for this instrument as no, or no 
 
 [^c23964001]: Marginal citation: [Schedule 2](https://www.legislation.gov.uk/uksi/2020/36/schedule/2) was amended by the [Regulation of Financial Services (Land Transactions) Act 2005 (c.24)](https://www.legislation.gov.uk/ukpga/2005/24), [section 1](https://www.legislation.gov.uk/ukpga/2005/24/section/1), the [Dormant Bank and Building Society Accounts Act 2008 (c.31)](https://www.legislation.gov.uk/ukpga/2008/31), [section 15](https://www.legislation.gov.uk/ukpga/2008/31/section/15), [Schedule 2](https://www.legislation.gov.uk/ukpga/2008/31/schedule/2), [paragraph 1](https://www.legislation.gov.uk/ukpga/2008/31/paragraph/1), the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), [section 7(2) to (5)](https://www.legislation.gov.uk/ukpga/2012/21/section/7/2) and section 8, the [Financial Guidance and Claims Act 2018 (c.10)](https://www.legislation.gov.uk/ukpga/2018/10), [section 27(1)](https://www.legislation.gov.uk/ukpga/2018/10/section/27/1) and (13) and [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881); it is prospectively amended by [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135).
 
-[^key-274f5ffcb221af860c77915e15061a2a]: Commencement: Art. 3 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-274f5ffcb221af860c77915e15061a2a]: Commencement: Art. 3 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
 
-[^key-b22d03c180c6c476ff404c18f1e976ce]: Commencement: Art. 4 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-b22d03c180c6c476ff404c18f1e976ce]: Commencement: Art. 4 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
 
-[^key-6d0a6e989df669d83dfec9abd0f37020]: Commencement: Art. 5 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-6d0a6e989df669d83dfec9abd0f37020]: Commencement: Art. 5 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
 
-[^key-d519fe4e827570a4ed98b4a301fc38c2]: Commencement: Art. 6 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-d519fe4e827570a4ed98b4a301fc38c2]: Commencement: Art. 6 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
 
-[^key-40b9825530f347c7584d26b082ff0d5b]: Commencement: Art. 7 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-40b9825530f347c7584d26b082ff0d5b]: Commencement: Art. 7 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
 
-[^key-af6824ac71c63685f485f212f5ebc40b]: Commencement: Art. 8 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-af6824ac71c63685f485f212f5ebc40b]: Commencement: Art. 8 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
 
-[^key-351f488b36b59e28c4d9cbb32565f7a9]: Commencement: Art. 9 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-351f488b36b59e28c4d9cbb32565f7a9]: Commencement: Art. 9 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
 
-[^key-1fef9397ed05c26aae6a5ebc3e36e350]: Textual amendment: Words in [art. 9(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/36/article/9/1/b/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
+[^c-1fef9397ed05c26aae6a5ebc3e36e350]: Textual amendment: Words in [art. 9(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/36/article/9/1/b/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
 
-[^key-c8b73ab1fa2918a08423bd03580ba349]: Textual amendment: Words in [art. 9(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/36/article/9/1/b/i) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/2)
+[^c-c8b73ab1fa2918a08423bd03580ba349]: Textual amendment: Words in [art. 9(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/36/article/9/1/b/i) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/2)
 
-[^key-32df92705310c9c303220ea5b330d5e9]: Textual amendment: Words in [art. 9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/36/article/9/2/b/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
+[^c-32df92705310c9c303220ea5b330d5e9]: Textual amendment: Words in [art. 9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/36/article/9/2/b/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
 
-[^key-9ce4eff86a69804092c9b4e7dff1c914]: Textual amendment: Words in [art. 9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/36/article/9/2/b/i) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/2)
+[^c-9ce4eff86a69804092c9b4e7dff1c914]: Textual amendment: Words in [art. 9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/36/article/9/2/b/i) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/2)
 
-[^key-3e86444e8edba4ca60693214e6eb54d5]: Commencement: Art. 10 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-3e86444e8edba4ca60693214e6eb54d5]: Commencement: Art. 10 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
 
 [^c23964021]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
 
 [^c23964031]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-8c6568f7cb651c628ea6ae69d00b6878]: Commencement: Art. 11 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-8c6568f7cb651c628ea6ae69d00b6878]: Commencement: Art. 11 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
 
-[^key-9fd6b12c120f9f4c4fe217e01023184c]: Commencement: Art. 12 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-9fd6b12c120f9f4c4fe217e01023184c]: Commencement: Art. 12 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
 
-[^key-e6f8f6380f40327b89292da5ae2581a2]: Commencement: Art. 13 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-e6f8f6380f40327b89292da5ae2581a2]: Commencement: Art. 13 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
 
 [^c23964041]: Marginal citation: [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149).
 
-[^key-84e64fa8244bf131c1f5ac9bd5f25535]: Commencement: Sch. para. 1 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-84e64fa8244bf131c1f5ac9bd5f25535]: Commencement: Sch. para. 1 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
 
-[^key-5d540b6db3218e25b1536df781eec896]: Commencement: Sch. para. 2 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-5d540b6db3218e25b1536df781eec896]: Commencement: Sch. para. 2 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
 
-[^key-fcf3de8c22da0a216d322272a2fb093f]: Commencement: Sch. para. 3 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-fcf3de8c22da0a216d322272a2fb093f]: Commencement: Sch. para. 3 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
 
 [^c23964051]: Marginal citation: [2000 c.11](https://www.legislation.gov.uk/ukpga/2000/11). Schedule 3A was inserted by paragraph 5(6) of Schedule 2 to the Anti-terrorism, Crime and Security Act [2001 c.24](https://www.legislation.gov.uk/ukpga/2001/24).
 
-[^key-78edc628b2c3aca59633e7a53d7fa6d1]: Commencement: Sch. para. 4 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-78edc628b2c3aca59633e7a53d7fa6d1]: Commencement: Sch. para. 4 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
 
 [^c23964061]: Marginal citation: [2016 c.25](https://www.legislation.gov.uk/ukpga/2016/25). Parts 1 to 7 were amended by the [Policing and Crime Act 2017 (c.3)](https://www.legislation.gov.uk/ukpga/2017/3), [section 33(9)](https://www.legislation.gov.uk/ukpga/2017/3/section/33/9), [Schedule 9](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9), [Data Protection Act 2018 (c.12)](https://www.legislation.gov.uk/ukpga/2018/12), [section 211(1)(a)](https://www.legislation.gov.uk/ukpga/2018/12/section/211/1/a), [Schedule 19](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19), the Counter-[Terrorism and Border Security Act 2019 (c.3)](https://www.legislation.gov.uk/ukpga/2019/3), [section 23](https://www.legislation.gov.uk/ukpga/2019/3/section/23), [Schedule 4](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4), the Crime (Overseas Production Orders) Act 2019, section 16, [S.I. 2017/730](https://www.legislation.gov.uk/uksi/2017/730), [S.I](https://www.legislation.gov.uk/uksi/2017/730/section/I). 2018/1123, [S.I. 2018/1310](https://www.legislation.gov.uk/uksi/2018/1310), [S.I](https://www.legislation.gov.uk/uksi/2018/1310/section/I). 2019/419 and [S.I. 2019/939](https://www.legislation.gov.uk/uksi/2019/939).
 
@@ -448,10 +448,10 @@ A full impact assessment has not been prepared for this instrument as no, or no 
 
 [^c23964081]: Marginal citation: [2018 c.12](https://www.legislation.gov.uk/ukpga/2018/12).
 
-[^key-a4c0e67dd28295121f5a6e6152de6a0f]: Commencement: Sch. para. 5 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-a4c0e67dd28295121f5a6e6152de6a0f]: Commencement: Sch. para. 5 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
 
-[^key-e603e6d47a563d79f5167a98e74a28e4]: Commencement: Sch. para. 6 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-e603e6d47a563d79f5167a98e74a28e4]: Commencement: Sch. para. 6 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
 
-[^key-8defa0eea42b85b0f3669f893ee3379c]: Commencement: Sch. para. 7 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-8defa0eea42b85b0f3669f893ee3379c]: Commencement: Sch. para. 7 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
 
-[^key-15eb885a66241d00bb8fde06f447d546]: Commencement: Sch. para. 8 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)
+[^c-15eb885a66241d00bb8fde06f447d546]: Commencement: Sch. para. 8 in force at 19.1.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/36/article/1/1)

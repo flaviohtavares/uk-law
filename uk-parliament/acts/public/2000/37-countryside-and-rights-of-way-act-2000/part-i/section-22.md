@@ -48,10 +48,10 @@ summary: ''
 
 *Extent: E*
 
-(9)[^key-1edb7ab2391f2ac4f67575a6ff3cd635] Nothing in this section applies in relation to land which is coastal margin.
+(9)[^c-1edb7ab2391f2ac4f67575a6ff3cd635] Nothing in this section applies in relation to land which is coastal margin.
 
 ## Annotations
 
 [^c1057027]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-1edb7ab2391f2ac4f67575a6ff3cd635]: Textual amendment: [S. 22(9)](https://www.legislation.gov.uk/ukpga/2000/37/section/22/9) added (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/16)
+[^c-1edb7ab2391f2ac4f67575a6ff3cd635]: Textual amendment: [S. 22(9)](https://www.legislation.gov.uk/ukpga/2000/37/section/22/9) added (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/16)

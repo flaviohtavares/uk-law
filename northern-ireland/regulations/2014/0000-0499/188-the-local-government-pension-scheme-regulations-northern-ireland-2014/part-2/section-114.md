@@ -25,7 +25,7 @@ summary: ''
 (2) Those persons are—
 
 - (a) a person who became employed by an EU institution after having been employed in local government employment; or
-- (b) a surviving spouse, civil partner, [^key-c25ab0d8381c15adaae8e627321f66e8]... co-habiting partner, dependant or eligible child of such a person.
+- (b) a surviving spouse, civil partner, [^c-c25ab0d8381c15adaae8e627321f66e8]... co-habiting partner, dependant or eligible child of such a person.
 
 (3) In this regulation—
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c25ab0d8381c15adaae8e627321f66e8]: Textual amendment: Word in [reg. 114(2)(b)](https://www.legislation.gov.uk/nisr/2014/188/regulation/114/2/b) omitted (with effect in accordance with reg. 1(2)(c) of the amending Rule) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [30](https://www.legislation.gov.uk/nisr/2019/206/regulation/30)
+[^c-c25ab0d8381c15adaae8e627321f66e8]: Textual amendment: Word in [reg. 114(2)(b)](https://www.legislation.gov.uk/nisr/2014/188/regulation/114/2/b) omitted (with effect in accordance with reg. 1(2)(c) of the amending Rule) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [30](https://www.legislation.gov.uk/nisr/2019/206/regulation/30)

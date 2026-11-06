@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36B. Deadline for completion of reviews[^key-beb022627dea8fc39848a16a10eeb022]
+## 36B. Deadline for completion of reviews[^c-beb022627dea8fc39848a16a10eeb022]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-beb022627dea8fc39848a16a10eeb022]: Textual amendment: S. 36B inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 48(2)](https://www.legislation.gov.uk/asc/2024/5/section/48/2), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))
+[^c-beb022627dea8fc39848a16a10eeb022]: Textual amendment: S. 36B inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 48(2)](https://www.legislation.gov.uk/asc/2024/5/section/48/2), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))

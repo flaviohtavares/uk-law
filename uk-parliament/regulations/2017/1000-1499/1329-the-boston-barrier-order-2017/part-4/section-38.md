@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Temporary possession of land for construction purposes[^key-5db01e40e4892b1373af708718a72f6b]
+## 38. Temporary possession of land for construction purposes[^c-5db01e40e4892b1373af708718a72f6b]
 
 *Extent: E+W*
 
@@ -55,7 +55,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5db01e40e4892b1373af708718a72f6b]: Commencement: Art. 38 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-5db01e40e4892b1373af708718a72f6b]: Commencement: Art. 38 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
 [^f00057]: Footnote: Section 11 was amended by sections 186(2), 187(2) and 188 of, and Schedule 14 to, the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), Schedule 4 to, the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67) and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

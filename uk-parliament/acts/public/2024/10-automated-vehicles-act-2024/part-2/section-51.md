@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Supplementary provision[^key-2399032415fd15077f637ed85617cf6b]
+## 51. Supplementary provision[^c-2399032415fd15077f637ed85617cf6b]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2399032415fd15077f637ed85617cf6b]: Commencement: S. 51 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-2399032415fd15077f637ed85617cf6b]: Commencement: S. 51 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

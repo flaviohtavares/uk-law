@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Determinations[^key-be71d72dfb83d1ef48042c987fd14d1a]
+## 74. Determinations[^c-be71d72dfb83d1ef48042c987fd14d1a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be71d72dfb83d1ef48042c987fd14d1a]: Commencement: [Art. 74](https://www.legislation.gov.uk/nisi/2015/2006/article/74) in operation at 31.10.2016 by [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/d)
+[^c-be71d72dfb83d1ef48042c987fd14d1a]: Commencement: [Art. 74](https://www.legislation.gov.uk/nisi/2015/2006/article/74) in operation at 31.10.2016 by [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/d)

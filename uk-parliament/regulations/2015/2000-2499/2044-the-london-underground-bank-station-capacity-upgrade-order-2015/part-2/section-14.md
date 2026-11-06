@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Access to works[^key-d73bf64b392c143452611f4f399ee4e9]
+## 14. Access to works[^c-d73bf64b392c143452611f4f399ee4e9]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The Company may, for the purposes of the construction of the authorised works—
 
 ## Annotations
 
-[^key-d73bf64b392c143452611f4f399ee4e9]: Commencement: Art. 14 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-d73bf64b392c143452611f4f399ee4e9]: Commencement: Art. 14 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

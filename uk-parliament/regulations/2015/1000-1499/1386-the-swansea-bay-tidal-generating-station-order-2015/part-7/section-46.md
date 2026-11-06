@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Licences relating to water, etc.[^key-ab06fe0895624e7ca81d7bdbafaa71ef]
+## 46. Licences relating to water, etc.[^c-ab06fe0895624e7ca81d7bdbafaa71ef]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The requirement under section 25 of the Water Resources Act 1991[^f00028] to obt
 
 ## Annotations
 
-[^key-ab06fe0895624e7ca81d7bdbafaa71ef]: Commencement: Art. 46 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-ab06fe0895624e7ca81d7bdbafaa71ef]: Commencement: Art. 46 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
 [^f00028]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).

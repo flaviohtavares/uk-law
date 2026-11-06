@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Enforcement of s. 133.[^c15572871][^key-7a4d24576ebd8308b9867f56664f822b][^key-5ed24ba9fe795edfb1a99e72a515ed7c]
+## 134. Enforcement of s. 133.[^c15572871][^c-7a4d24576ebd8308b9867f56664f822b][^c-5ed24ba9fe795edfb1a99e72a515ed7c]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 [^c15572871]: Modification: S. 134 applied (with modifications) (S.) (6.4.2001) by [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), [reg. 4(1)](https://www.legislation.gov.uk/ssi/2001/128/regulation/4/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2001/128/schedule/2)
 
-[^key-7a4d24576ebd8308b9867f56664f822b]: Modification: S. 134 applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-7a4d24576ebd8308b9867f56664f822b]: Modification: S. 134 applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
 
-[^key-5ed24ba9fe795edfb1a99e72a515ed7c]: Modification: [Ss. 133-135](https://www.legislation.gov.uk/ukpga/1986/45/section/133) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/3) (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
+[^c-5ed24ba9fe795edfb1a99e72a515ed7c]: Modification: [Ss. 133-135](https://www.legislation.gov.uk/ukpga/1986/45/section/133) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/3) (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))

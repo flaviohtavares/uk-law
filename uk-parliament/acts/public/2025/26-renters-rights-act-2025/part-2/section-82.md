@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Restrictions on marketing, advertising and letting dwellings[^key-0aeaef60981f8f99bab73a35e8a335ec]
+## 82. Restrictions on marketing, advertising and letting dwellings[^c-0aeaef60981f8f99bab73a35e8a335ec]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0aeaef60981f8f99bab73a35e8a335ec]: Commencement: S. 82 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-0aeaef60981f8f99bab73a35e8a335ec]: Commencement: S. 82 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)

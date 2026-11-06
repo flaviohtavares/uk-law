@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Requirements before making a deduction from earnings order[^key-982dae1195ecc1377894b450d7ba96de][^key-f261212ab02b1c506517a02c26ca989f]
+## 41. Requirements before making a deduction from earnings order[^c-982dae1195ecc1377894b450d7ba96de][^c-f261212ab02b1c506517a02c26ca989f]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-982dae1195ecc1377894b450d7ba96de]: Commencement: S. 41 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-982dae1195ecc1377894b450d7ba96de]: Commencement: S. 41 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-f261212ab02b1c506517a02c26ca989f]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2025/28/section/41) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-f261212ab02b1c506517a02c26ca989f]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2025/28/section/41) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

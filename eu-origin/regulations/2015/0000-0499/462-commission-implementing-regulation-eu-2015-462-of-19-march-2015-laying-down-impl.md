@@ -35,154 +35,154 @@ laying down implementing technical standards with regard to the procedures for s
 
 (Text with EEA relevance) (revoked)
 
-[^key-552c43ad53c96fa7d40de7b394b95099]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-552c43ad53c96fa7d40de7b394b95099]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-552c43ad53c96fa7d40de7b394b95099]
+## Article 1. Subject matter[^c-552c43ad53c96fa7d40de7b394b95099]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definition[^key-552c43ad53c96fa7d40de7b394b95099]
+## Article 2. Definition[^c-552c43ad53c96fa7d40de7b394b95099]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Supervisory approval to establish special purpose vehicles[^key-552c43ad53c96fa7d40de7b394b95099]
+## Article 3. Supervisory approval to establish special purpose vehicles[^c-552c43ad53c96fa7d40de7b394b95099]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Decision of the supervisory authority[^key-552c43ad53c96fa7d40de7b394b95099]
+## Article 4. Decision of the supervisory authority[^c-552c43ad53c96fa7d40de7b394b95099]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Demonstration and documentation requirements[^key-552c43ad53c96fa7d40de7b394b95099]
+## Article 5. Demonstration and documentation requirements[^c-552c43ad53c96fa7d40de7b394b95099]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Withdrawal of authorisation[^key-552c43ad53c96fa7d40de7b394b95099]
+## Article 6. Withdrawal of authorisation[^c-552c43ad53c96fa7d40de7b394b95099]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Multi-arrangement special purpose vehicle[^key-552c43ad53c96fa7d40de7b394b95099]
+## Article 7. Multi-arrangement special purpose vehicle[^c-552c43ad53c96fa7d40de7b394b95099]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Ongoing cooperation between supervisory authorities[^key-552c43ad53c96fa7d40de7b394b95099]
+## Article 8. Ongoing cooperation between supervisory authorities[^c-552c43ad53c96fa7d40de7b394b95099]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Prior consultation before granting an authorisation[^key-552c43ad53c96fa7d40de7b394b95099]
+## Article 9. Prior consultation before granting an authorisation[^c-552c43ad53c96fa7d40de7b394b95099]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Communication of changes[^key-552c43ad53c96fa7d40de7b394b95099]
+## Article 10. Communication of changes[^c-552c43ad53c96fa7d40de7b394b95099]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Communication of withdrawal of authorisation[^key-552c43ad53c96fa7d40de7b394b95099]
+## Article 11. Communication of withdrawal of authorisation[^c-552c43ad53c96fa7d40de7b394b95099]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Communication of the annual report[^key-552c43ad53c96fa7d40de7b394b95099]
+## Article 12. Communication of the annual report[^c-552c43ad53c96fa7d40de7b394b95099]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Quantitative content of the annual report[^key-552c43ad53c96fa7d40de7b394b95099]
+## Article 13. Quantitative content of the annual report[^c-552c43ad53c96fa7d40de7b394b95099]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Qualitative content of the annual report[^key-552c43ad53c96fa7d40de7b394b95099]
+## Article 14. Qualitative content of the annual report[^c-552c43ad53c96fa7d40de7b394b95099]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Description of the risks assumed by the special purpose vehicle[^key-552c43ad53c96fa7d40de7b394b95099]
+## Article 15. Description of the risks assumed by the special purpose vehicle[^c-552c43ad53c96fa7d40de7b394b95099]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Information on debt instruments issued or other financing mechanism entered into[^key-552c43ad53c96fa7d40de7b394b95099]
+## Article 16. Information on debt instruments issued or other financing mechanism entered into[^c-552c43ad53c96fa7d40de7b394b95099]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Means for reporting[^key-552c43ad53c96fa7d40de7b394b95099]
+## Article 17. Means for reporting[^c-552c43ad53c96fa7d40de7b394b95099]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 18. Currency and units[^key-552c43ad53c96fa7d40de7b394b95099]
+## Article 18. Currency and units[^c-552c43ad53c96fa7d40de7b394b95099]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 19. Entry into force[^key-552c43ad53c96fa7d40de7b394b95099]
+## Article 19. Entry into force[^c-552c43ad53c96fa7d40de7b394b95099]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-552c43ad53c96fa7d40de7b394b95099]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-552c43ad53c96fa7d40de7b394b95099]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-552c43ad53c96fa7d40de7b394b95099]
+## ANNEX I[^c-552c43ad53c96fa7d40de7b394b95099]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Special Purpose Vehicles reporting templates[^key-552c43ad53c96fa7d40de7b394b95099]
+## ANNEX II — Special Purpose Vehicles reporting templates[^c-552c43ad53c96fa7d40de7b394b95099]
 
-[^key-552c43ad53c96fa7d40de7b394b95099]**SPV.01.01 — Content of the submission**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-552c43ad53c96fa7d40de7b394b95099]**SPV.01.02 — Basic information**
+[^c-552c43ad53c96fa7d40de7b394b95099]**SPV.01.01 — Content of the submission**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-552c43ad53c96fa7d40de7b394b95099]**SPV.02.01 — Balance sheet**
+[^c-552c43ad53c96fa7d40de7b394b95099]**SPV.01.02 — Basic information**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-552c43ad53c96fa7d40de7b394b95099]**SPV.02.02 — Off-Balance sheet**
+[^c-552c43ad53c96fa7d40de7b394b95099]**SPV.02.01 — Balance sheet**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-552c43ad53c96fa7d40de7b394b95099]**SPV.03.01 — Risks assumed**
+[^c-552c43ad53c96fa7d40de7b394b95099]**SPV.02.02 — Off-Balance sheet**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-552c43ad53c96fa7d40de7b394b95099]**SPV.03.02 — Debt or other financing mechanism**
+[^c-552c43ad53c96fa7d40de7b394b95099]**SPV.03.01 — Risks assumed**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-552c43ad53c96fa7d40de7b394b95099]
+[^c-552c43ad53c96fa7d40de7b394b95099]**SPV.03.02 — Debt or other financing mechanism**
 
-[^key-552c43ad53c96fa7d40de7b394b95099]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III[^c-552c43ad53c96fa7d40de7b394b95099]
+
+[^c-552c43ad53c96fa7d40de7b394b95099]
 
 This Annex contains additional instructions in relation to the templates included in Annex II to this Regulation. The first column of the tables identifies the items to be reported by identifying the cells as presented in the template in Annex II.
 
-[^key-552c43ad53c96fa7d40de7b394b95099]
+[^c-552c43ad53c96fa7d40de7b394b95099]
 
 Where the special purpose vehicle is requested to complement the quantitative reporting with a particular justification, the explanation is not to be submitted within the reporting template, but shall be included within the narrative part of the submission of information by the special purpose vehicle to the supervisory authority.
 
-[^key-552c43ad53c96fa7d40de7b394b95099]**SPV.01.01 — Content of the submission**
+[^c-552c43ad53c96fa7d40de7b394b95099]**SPV.01.01 — Content of the submission**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-552c43ad53c96fa7d40de7b394b95099]**SPV.01.02 — Basic information**
+[^c-552c43ad53c96fa7d40de7b394b95099]**SPV.01.02 — Basic information**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-552c43ad53c96fa7d40de7b394b95099]**SPV.02.01 — Balance sheet**
+[^c-552c43ad53c96fa7d40de7b394b95099]**SPV.02.01 — Balance sheet**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-552c43ad53c96fa7d40de7b394b95099]**SPV.02.02 — Off-Balance sheet**
+[^c-552c43ad53c96fa7d40de7b394b95099]**SPV.02.02 — Off-Balance sheet**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-552c43ad53c96fa7d40de7b394b95099]**SPV.03.01 — Risks assumed**
+[^c-552c43ad53c96fa7d40de7b394b95099]**SPV.03.01 — Risks assumed**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-552c43ad53c96fa7d40de7b394b95099]**SPV.03.02 — Debt or other financing mechanism**
+[^c-552c43ad53c96fa7d40de7b394b95099]**SPV.03.02 — Debt or other financing mechanism**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-552c43ad53c96fa7d40de7b394b95099]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))
+[^c-552c43ad53c96fa7d40de7b394b95099]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))

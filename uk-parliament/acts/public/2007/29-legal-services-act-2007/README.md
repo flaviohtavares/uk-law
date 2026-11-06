@@ -277,15 +277,15 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 110 — Reporting requirements relating to Part 5](part-5/section-110.md)
 - [Section 111 — Interpretation of Part 5](part-5/section-111.md)
 
-### PART 5A — Approved regulators: information powers[^key-c8c57bb4639c4012352379746653e604]
+### PART 5A — Approved regulators: information powers[^c-c8c57bb4639c4012352379746653e604]
 
-#### The Law Society’s information powers relating to economic crime[^key-c8c57bb4639c4012352379746653e604]
+#### The Law Society’s information powers relating to economic crime[^c-c8c57bb4639c4012352379746653e604]
 
 - [Section 111A — The Law Society’s information powers relating to economic crime](part-5a/section-111a.md)
 - [Section 111B — Enforcement of information powers relating to economic crime](part-5a/section-111b.md)
 - [Section 111C — Provision of information relating to economic crime by other persons](part-5a/section-111c.md)
 
-#### Other approved regulators: information powers relating to economic crime[^key-c8c57bb4639c4012352379746653e604]
+#### Other approved regulators: information powers relating to economic crime[^c-c8c57bb4639c4012352379746653e604]
 
 - [Section 111D — Order to confer information powers on other approved regulators](part-5a/section-111d.md)
 - [Section 111E — The Board’s power to recommend orders under section 111D](part-5a/section-111e.md)
@@ -420,7 +420,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 173 — The levy](part-7/section-173.md)
 - [Section 174 — The levy: supplementary provisions](part-7/section-174.md)
 
-#### OLC expenditure relating to claims management services[^key-d85519caa3619d3878776f65b0779064]
+#### OLC expenditure relating to claims management services[^c-d85519caa3619d3878776f65b0779064]
 
 - [Section 174A — OLC expenditure relating to claims management services](part-7/section-174a.md)
 
@@ -572,6 +572,6 @@ SCHEDULES
 
 [^c21016151]: Modification: Act modified (28.11.2008) by [The Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [reg. 12(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/12/1/a/ii) (with [reg.1](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1))
 
-[^key-c8c57bb4639c4012352379746653e604]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukpga/2007/29/part/5A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 210(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/210/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z64)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z64)
+[^c-c8c57bb4639c4012352379746653e604]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukpga/2007/29/part/5A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 210(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/210/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z64)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z64)
 
-[^key-d85519caa3619d3878776f65b0779064]: Textual amendment: S.174A and cross-heading inserted (21.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 140(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/140/5), [148(4)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/4); [S.I. 2014/785](https://www.legislation.gov.uk/uksi/2014/785), [art. 2](https://www.legislation.gov.uk/uksi/2014/785/article/2)
+[^c-d85519caa3619d3878776f65b0779064]: Textual amendment: S.174A and cross-heading inserted (21.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 140(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/140/5), [148(4)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/4); [S.I. 2014/785](https://www.legislation.gov.uk/uksi/2014/785), [art. 2](https://www.legislation.gov.uk/uksi/2014/785/article/2)

@@ -55,7 +55,7 @@ summary: ''
 - (a) in a case where section 35 applies, the required period for the purposes of section 35(3) is 10 days starting with the day on which the judge receives the undertaking;
 - (b) in a case where section 36 applies, the required period for the purposes of section 36(2) is 10 days starting with the day on which the decision of the relevant court on the appeal becomes final (within the meaning of that section) or (if later) the day on which the judge receives the undertaking.
 
-Paragraph (a) applies only if the day mentioned in that paragraph is later than the day mentioned in[^c2086802] section 35(4)(a)(i) or (ii)[^key-3007f03dc0996114b6e71f0d752b9618].
+Paragraph (a) applies only if the day mentioned in that paragraph is later than the day mentioned in[^c2086802] section 35(4)(a)(i) or (ii)[^c-3007f03dc0996114b6e71f0d752b9618].
 
 ## Annotations
 
@@ -69,4 +69,4 @@ Paragraph (a) applies only if the day mentioned in that paragraph is later than 
 
 [^c2086802]: Textual amendment: Words in s. 37(8) inserted (15.1.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 42](https://www.legislation.gov.uk/ukpga/2006/48/section/42), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 13 para. 9(2)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/9/2); [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(d)(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/d/e)
 
-[^key-3007f03dc0996114b6e71f0d752b9618]: Textual amendment: Words in s. 37(8) substituted (15.4.2015) by [The Extradition Act 2003 (Amendment to Designations and Appeals) Order 2015 (S.I. 2015/992)](https://www.legislation.gov.uk/uksi/2015/992), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/992/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2015/992/article/3/4) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2015/992/article/1/4))
+[^c-3007f03dc0996114b6e71f0d752b9618]: Textual amendment: Words in s. 37(8) substituted (15.4.2015) by [The Extradition Act 2003 (Amendment to Designations and Appeals) Order 2015 (S.I. 2015/992)](https://www.legislation.gov.uk/uksi/2015/992), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/992/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2015/992/article/3/4) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2015/992/article/1/4))

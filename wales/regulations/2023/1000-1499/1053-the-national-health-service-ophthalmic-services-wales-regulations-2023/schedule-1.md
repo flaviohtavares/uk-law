@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 5, 6 and 7
 
-### 1. Eligibility criteria[^key-9349bdb8a37d7846b05e277597c9f430]
+### 1. Eligibility criteria[^c-9349bdb8a37d7846b05e277597c9f430]
 
 (1) The eligibility criteria are—
 
@@ -126,7 +126,7 @@ Regulations 5, 6 and 7
   - (b) is a prism-controlled multifocal lens;
 - “**notice of entitlement**” (“***hysbysiad o hawlogaeth***”) means a notice issued under regulation 8 of the National Health Service (Travelling Expenses and Remission of Charges) (Wales) Regulations 2007 (notices of entitlement).
 
-### 2. Specific evidence of eligibility for certain persons[^key-6957682bd4a883a6cc68522ffacf8e3c]
+### 2. Specific evidence of eligibility for certain persons[^c-6957682bd4a883a6cc68522ffacf8e3c]
 
 (1) Subject to sub-paragraph (2), the specific evidence mentioned in regulation 6(5) is—
 
@@ -138,7 +138,7 @@ Regulations 5, 6 and 7
 
 ## Annotations
 
-[^key-9349bdb8a37d7846b05e277597c9f430]: Commencement: Sch. 1 para. 1 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-9349bdb8a37d7846b05e277597c9f430]: Commencement: Sch. 1 para. 1 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00030]: Footnote: [2014 c. 23](https://www.legislation.gov.uk/ukpga/2014/23).
 
@@ -178,4 +178,4 @@ Regulations 5, 6 and 7
 
 [^f00048]: Footnote: *See* section 1(1) of the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17) which states that Parts 2 to 13 of that Act together make up a code called the “Sentencing Code”.
 
-[^key-6957682bd4a883a6cc68522ffacf8e3c]: Commencement: Sch. 1 para. 2 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-6957682bd4a883a6cc68522ffacf8e3c]: Commencement: Sch. 1 para. 2 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

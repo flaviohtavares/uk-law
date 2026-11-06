@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 13. Panel of assessors: period for inclusion[^key-68accb9b4bdb65cc5d389e85b8ce0677]
+## 13. Panel of assessors: period for inclusion[^c-68accb9b4bdb65cc5d389e85b8ce0677]
 
 *Extent: E*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68accb9b4bdb65cc5d389e85b8ce0677]: Commencement: S. 13 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-68accb9b4bdb65cc5d389e85b8ce0677]: Commencement: S. 13 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

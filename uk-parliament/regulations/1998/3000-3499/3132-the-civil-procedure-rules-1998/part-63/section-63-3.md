@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63.3. Specialist list[^key-e9b41ec15b82ceef8274db1f25b38097]
+## 63.3. Specialist list[^c-e9b41ec15b82ceef8274db1f25b38097]
 
 *Extent: E+W*
 
-Claims in the Patents Court form a specialist list[^key-68a369e3d24d11377e593904b0f35ce9] for the purpose of rule 30.5.
+Claims in the Patents Court form a specialist list[^c-68a369e3d24d11377e593904b0f35ce9] for the purpose of rule 30.5.
 
 ## Annotations
 
-[^key-e9b41ec15b82ceef8274db1f25b38097]: Textual amendment: [Pt. 63](https://www.legislation.gov.uk/uksi/1998/3132/part/63) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rule 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2092/schedule/1)
+[^c-e9b41ec15b82ceef8274db1f25b38097]: Textual amendment: [Pt. 63](https://www.legislation.gov.uk/uksi/1998/3132/part/63) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rule 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2092/schedule/1)
 
-[^key-68a369e3d24d11377e593904b0f35ce9]: Textual amendment: Words in [rule 63.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/63.3) substituted (1.10.2013) by [The Civil Procedure (Amendment No.7) Rules 2013 (S.I. 2013/1974)](https://www.legislation.gov.uk/uksi/2013/1974), [rules 2](https://www.legislation.gov.uk/uksi/2013/1974/article/2), [26(e)](https://www.legislation.gov.uk/uksi/2013/1974/rule/26/e)
+[^c-68a369e3d24d11377e593904b0f35ce9]: Textual amendment: Words in [rule 63.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/63.3) substituted (1.10.2013) by [The Civil Procedure (Amendment No.7) Rules 2013 (S.I. 2013/1974)](https://www.legislation.gov.uk/uksi/2013/1974), [rules 2](https://www.legislation.gov.uk/uksi/2013/1974/article/2), [26(e)](https://www.legislation.gov.uk/uksi/2013/1974/rule/26/e)

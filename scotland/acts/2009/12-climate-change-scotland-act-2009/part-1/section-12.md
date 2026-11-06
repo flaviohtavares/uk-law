@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Baselines for additional greenhouses gases[^key-45f2cebbeaf8d32a693031921a3545af]
+## 12. Baselines for additional greenhouses gases[^c-45f2cebbeaf8d32a693031921a3545af]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45f2cebbeaf8d32a693031921a3545af]: Commencement: S. 12 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-45f2cebbeaf8d32a693031921a3545af]: Commencement: S. 12 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

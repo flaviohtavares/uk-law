@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 92. Amount of loan for living costs payable to certain type 1 and type 2 teacher training students[^key-2e8cb13c54a7581cf491df6e9c35a2aa]
+## 92. Amount of loan for living costs payable to certain type 1 and type 2 teacher training students[^c-2e8cb13c54a7581cf491df6e9c35a2aa]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ where
 
 ## Annotations
 
-[^key-2e8cb13c54a7581cf491df6e9c35a2aa]: Commencement: Reg. 92 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-2e8cb13c54a7581cf491df6e9c35a2aa]: Commencement: Reg. 92 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

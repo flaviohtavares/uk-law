@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Public Service Vehicles (Conditions of Fitness, Equipment and Use) (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^key-8288033dff786ed66757e74e296b26b0]
+Public Service Vehicles (Conditions of Fitness, Equipment and Use) (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^c-8288033dff786ed66757e74e296b26b0]
 
 Made
 
@@ -41,23 +41,23 @@ Coming into operation
 
 1st June 2000
 
-[^key-8288033dff786ed66757e74e296b26b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8288033dff786ed66757e74e296b26b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8288033dff786ed66757e74e296b26b0]
+## 1. Citation and commencement[^c-8288033dff786ed66757e74e296b26b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Public Service Vehicles (Conditions of Fitness, Equipment and Use) Regulations (Northern Ireland) 1995[^key-8288033dff786ed66757e74e296b26b0]
+## 2. Amendment of the Public Service Vehicles (Conditions of Fitness, Equipment and Use) Regulations (Northern Ireland) 1995[^c-8288033dff786ed66757e74e296b26b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8288033dff786ed66757e74e296b26b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8288033dff786ed66757e74e296b26b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-8288033dff786ed66757e74e296b26b0]
+## SCHEDULE[^c-8288033dff786ed66757e74e296b26b0]
 
 Regulation 2
 
@@ -65,8 +65,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-8288033dff786ed66757e74e296b26b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8288033dff786ed66757e74e296b26b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8288033dff786ed66757e74e296b26b0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/136) revoked (1.11.2004) by [Public Service Vehicles (Conditions of Fitness, Equipment and Use) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/414)](https://www.legislation.gov.uk/nisr/2004/414), [regs. 1](https://www.legislation.gov.uk/nisr/2004/414/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2004/414/regulation/2/2)
+[^c-8288033dff786ed66757e74e296b26b0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/136) revoked (1.11.2004) by [Public Service Vehicles (Conditions of Fitness, Equipment and Use) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/414)](https://www.legislation.gov.uk/nisr/2004/414), [regs. 1](https://www.legislation.gov.uk/nisr/2004/414/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2004/414/regulation/2/2)

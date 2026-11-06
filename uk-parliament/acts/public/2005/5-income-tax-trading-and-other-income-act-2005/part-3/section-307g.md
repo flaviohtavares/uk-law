@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 307G. Property allowance[^key-0050abaa6b3cb6a1909c081a8d0d35f1]
+## 307G. Property allowance[^c-0050abaa6b3cb6a1909c081a8d0d35f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0050abaa6b3cb6a1909c081a8d0d35f1]: Textual amendment: S. 307G and cross-heading inserted (16.11.2017) (with effect in accordance with Sch. 3 para. 13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2017/32/schedule/3/paragraph/8)
+[^c-0050abaa6b3cb6a1909c081a8d0d35f1]: Textual amendment: S. 307G and cross-heading inserted (16.11.2017) (with effect in accordance with Sch. 3 para. 13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2017/32/schedule/3/paragraph/8)

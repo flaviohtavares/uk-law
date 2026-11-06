@@ -48,13 +48,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 140(6) of that Act[^f00002], they have published notices in the London Gazette and in the Edinburgh Gazette and have considered the representations made to them in accordance with those notices.
 
-## 1. Citation, commencement and extent[^key-3618c6be43297126ef046d8f54dc8011]
+## 1. Citation, commencement and extent[^c-3618c6be43297126ef046d8f54dc8011]
 
 (1) These Regulations may be cited as the Environmental Protection (Cotton Buds) (Scotland) Regulations 2019 and come into force on 12 October 2019.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-47ff3a6e34b67e3825fd406ff633f716]
+## 2. Interpretation[^c-47ff3a6e34b67e3825fd406ff633f716]
 
 In these Regulations—
 
@@ -65,7 +65,7 @@ In these Regulations—
 - “plastic-stemmed cotton bud” means a rod of plastic which has cotton wrapped around both ends, and
 - “supply” means supply by way of sale or by presentation as a promotional prize or gift in the course of a business.
 
-## 3. Offences[^key-577c34dca4e2bf3ac1b4a4a0c2199de2]
+## 3. Offences[^c-577c34dca4e2bf3ac1b4a4a0c2199de2]
 
 (1) A person who uses plastic to manufacture plastic-stemmed cotton buds commits an offence.
 
@@ -76,7 +76,7 @@ In these Regulations—
 - (a) on summary conviction, to a fine not exceeding £5,000,
 - (b) on conviction on indictment, to a term of imprisonment not exceeding 2 years or a fine not exceeding £5,000 or both.
 
-## 4. Offences by bodies corporate[^key-5302f5794de0f48087490f5adee79b8f]
+## 4. Offences by bodies corporate[^c-5302f5794de0f48087490f5adee79b8f]
 
 (1) Where—
 
@@ -95,13 +95,13 @@ In these Regulations—
 - (b) in relation to a Scottish partnership, a partner,
 - (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
 
-## 5. Enforcement[^key-9c4e1f6c22173cc5f74e671f35857881]
+## 5. Enforcement[^c-9c4e1f6c22173cc5f74e671f35857881]
 
 (1) A local authority may authorise any person to exercise in its area, for an authorised purpose and in accordance with the terms of the authorisation, any of the powers specified in regulation 6, if that person appears suitable to exercise them.
 
 (2) An authorisation under paragraph (1) must be in writing.
 
-## 6. Powers of entry and examination etc.[^key-b2f9de789ce84951ddc04987b46356d3]
+## 6. Powers of entry and examination etc.[^c-b2f9de789ce84951ddc04987b46356d3]
 
 (1) The powers which an enforcement officer may be authorised to exercise are—
 
@@ -163,7 +163,7 @@ the sheriff, summary sheriff or justice of the peace may by warrant authorise th
 
 and immediate entry to any premises is necessary to verify the existence of that risk or those circumstances or to ascertain the cause of that risk or those circumstances or to effect a remedy.
 
-## 7. Power to give a fixed penalty notice[^key-1df63bd91abe9210ba53fc8389a789c4]
+## 7. Power to give a fixed penalty notice[^c-1df63bd91abe9210ba53fc8389a789c4]
 
 (1) An enforcement officer may, if having reason to believe that a person is committing or has committed an offence under regulation 3(1) or (2) of these Regulations, give that person a fixed penalty notice.
 
@@ -250,18 +250,18 @@ Regulation 6 makes provision for enforcement officer powers of entry and associa
 
 [^f00002]: Footnote: The requirement to consult the Advisory Committee on Hazardous Substances formerly established under section 140(5) of the Environmental Protection Act 1990 was removed by [S.I. 2012/1923](https://www.legislation.gov.uk/uksi/2012/1923).
 
-[^key-3618c6be43297126ef046d8f54dc8011]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/271/regulation/1) in force at 12.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/271/regulation/1/1)
+[^c-3618c6be43297126ef046d8f54dc8011]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/271/regulation/1) in force at 12.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/271/regulation/1/1)
 
-[^key-47ff3a6e34b67e3825fd406ff633f716]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/271/regulation/2) in force at 12.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/271/regulation/1/1)
+[^c-47ff3a6e34b67e3825fd406ff633f716]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/271/regulation/2) in force at 12.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/271/regulation/1/1)
 
 [^f00003]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39). Section 2 was amended by paragraph 232(1) of schedule 22 of the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-577c34dca4e2bf3ac1b4a4a0c2199de2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/271/regulation/3) in force at 12.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/271/regulation/1/1)
+[^c-577c34dca4e2bf3ac1b4a4a0c2199de2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/271/regulation/3) in force at 12.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/271/regulation/1/1)
 
-[^key-5302f5794de0f48087490f5adee79b8f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2019/271/regulation/4) in force at 12.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/271/regulation/1/1)
+[^c-5302f5794de0f48087490f5adee79b8f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2019/271/regulation/4) in force at 12.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/271/regulation/1/1)
 
-[^key-9c4e1f6c22173cc5f74e671f35857881]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2019/271/regulation/5) in force at 12.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/271/regulation/1/1)
+[^c-9c4e1f6c22173cc5f74e671f35857881]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2019/271/regulation/5) in force at 12.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/271/regulation/1/1)
 
-[^key-b2f9de789ce84951ddc04987b46356d3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2019/271/regulation/6) in force at 12.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/271/regulation/1/1)
+[^c-b2f9de789ce84951ddc04987b46356d3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2019/271/regulation/6) in force at 12.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/271/regulation/1/1)
 
-[^key-1df63bd91abe9210ba53fc8389a789c4]: Textual amendment: [Regs. 7-9](https://www.legislation.gov.uk/ssi/2019/271/regulation/7) inserted (31.3.2025) by [The Environmental Protection (Injurious Articles) (Fixed Penalty Notices and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/28)](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2025/28/regulation/4/2)
+[^c-1df63bd91abe9210ba53fc8389a789c4]: Textual amendment: [Regs. 7-9](https://www.legislation.gov.uk/ssi/2019/271/regulation/7) inserted (31.3.2025) by [The Environmental Protection (Injurious Articles) (Fixed Penalty Notices and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/28)](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2025/28/regulation/4/2)

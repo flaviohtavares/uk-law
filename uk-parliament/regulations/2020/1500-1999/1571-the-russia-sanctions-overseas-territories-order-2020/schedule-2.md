@@ -22,12 +22,12 @@ summary: ''
 
 Article 2
 
-**1.**[^key-5463a8b5118a6156eeaca94f56a871e4] In regulation 1 (citation and commencement)—
+**1.**[^c-5463a8b5118a6156eeaca94f56a871e4] In regulation 1 (citation and commencement)—
 
 - (a) in the heading, omit “and commencement”;
 - (b) omit paragraphs (2) and (3).
 
-**2.**[^key-963f0632f95783fb1f3fe9d3174f3868] In regulation 2 (interpretation)—
+**2.**[^c-963f0632f95783fb1f3fe9d3174f3868] In regulation 2 (interpretation)—
 
 - (a) the existing text becomes paragraph (1);
 - (b) in that paragraph—
@@ -37,7 +37,7 @@ Article 2
 
     ;
 
-    > “[^key-2c14dfadb005ac4ba16c05adcab219c8]**authorised officer**” means, in relation to the Territory—
+    > “[^c-2c14dfadb005ac4ba16c05adcab219c8]**authorised officer**” means, in relation to the Territory—
     >
     > - (a) a member of Her Majesty's forces in the Territory,
     > - (b) a police or customs officer of the Territory,
@@ -48,7 +48,7 @@ Article 2
     >   - (iv) regulation 77 (general trade licences: inspection of records),
     >   - (v) regulation 78 (disclosure of information),
     >   - (vi) regulation 79A (suspected ships, aircraft or vehicles),
-    >   - (via)[^key-16c4deceff5d6df48c0ebe4a3763bd7c] regulation 78A (finance: disclosure to the Governor), or
+    >   - (via)[^c-16c4deceff5d6df48c0ebe4a3763bd7c] regulation 78A (finance: disclosure to the Governor), or
     >   - (vii) regulation 79B (search warrants), or
     > - (d) any person acting under the authority of a person falling within any of paragraphs (a) to (c);
 
@@ -114,19 +114,19 @@ Article 2
 
   > (2) In the application of these Regulations to a particular British overseas territory, the expression “**the Territory**” means that territory.
 
-**3.**[^key-6986021e213816f576dade3564ea8963] In regulation 3 (application of prohibitions and requirements outside the United Kingdom)—
+**3.**[^c-6986021e213816f576dade3564ea8963] In regulation 3 (application of prohibitions and requirements outside the United Kingdom)—
 
 - (a) in the heading, for “United Kingdom” substitute “ Territory ”;
 - (b) in paragraphs (1) and (4), for “United Kingdom person” substitute “ Territory person ”;
 - (c) in paragraphs (1), (4) and (7), for “United Kingdom” substitute “ Territory ”;
 - (d) in paragraphs (2) and (5), after “in the territorial sea” insert “ of the Territory ”;
 - (e) in paragraphs (3) and (6), for “Treasury licence” substitute “ financial sanctions licence ”.
-- (f)[^key-69fa3e40ef1f182cde4c88341e4ae746] in paragraph (3)(da), for “regulation 57L(6) (disclosure of confidential information)” substitute “regulation 57L(7) (disclosure of confidential information)”;
+- (f)[^c-69fa3e40ef1f182cde4c88341e4ae746] in paragraph (3)(da), for “regulation 57L(6) (disclosure of confidential information)” substitute “regulation 57L(7) (disclosure of confidential information)”;
 - (g) in paragraph (5), for “regulation 57J(3) (direction by air traffic control to operator or pilot of Russian aircraft)” substitute “regulation 57J(3)(a) or (b) (certain directions by air traffic control to operator or pilot of Russian aircraft)”.
 
-**4.**[^key-f9617b27db761ccf260e3c9d8142d083] In regulation 4 (purposes), for “The regulations contained in this instrument that are made under section 1 of the Act” substitute “ These Regulations ”.
+**4.**[^c-f9617b27db761ccf260e3c9d8142d083] In regulation 4 (purposes), for “The regulations contained in this instrument that are made under section 1 of the Act” substitute “ These Regulations ”.
 
-**5.**[^key-c3d4f3e97ee984df50cd95383c6020ca] At the end of Part 1 (General), insert—
+**5.**[^c-c3d4f3e97ee984df50cd95383c6020ca] At the end of Part 1 (General), insert—
 
 > **4A. Functions of the Governor**
 >
@@ -136,15 +136,15 @@ Article 2
 >
 > (3) In the exercise of any power conferred on the Governor by these Regulations, the Governor is to act in their discretion.
 
-**6.**[^key-0d16e8135df2edc92693bc7640120988] Omit regulation 5 (power to designate persons) (including the heading).
+**6.**[^c-0d16e8135df2edc92693bc7640120988] Omit regulation 5 (power to designate persons) (including the heading).
 
-**6A.**[^key-141d1aca325558c26215cedc05dbb3c8] Omit regulation 5A (conditions for the designation of persons by name) (including the heading).
+**6A.**[^c-141d1aca325558c26215cedc05dbb3c8] Omit regulation 5A (conditions for the designation of persons by name) (including the heading).
 
-**7.**[^key-505b21719f7da93f3bb429e04d62d611] Omit regulation 6 (designation criteria) (including the heading).
+**7.**[^c-505b21719f7da93f3bb429e04d62d611] Omit regulation 6 (designation criteria) (including the heading).
 
-**7A.**[^key-cdf216d54b3ceb97a2dfd6676361ceee] Omit regulation 6A (conditions for the designation of persons by description) (including the heading).
+**7A.**[^c-cdf216d54b3ceb97a2dfd6676361ceee] Omit regulation 6A (conditions for the designation of persons by description) (including the heading).
 
-**8.**[^key-a004da2cfc11841e05c11a2389935fd9] For regulation 8 (notification and publicity where designation power used) substitute—
+**8.**[^c-a004da2cfc11841e05c11a2389935fd9] For regulation 8 (notification and publicity where designation power used) substitute—
 
 > **8. Requirement to publish a list of persons designated by name**
 >
@@ -159,7 +159,7 @@ Article 2
 >
 > (4) For the purpose of this regulation, “**designated person**” means any person for the time being designated by name by the Secretary of State under regulation 5(1) (power to designate persons by name)(as it has effect in the United Kingdom).
 
-**9.**[^key-a9d4addc6ef012ce796f1d97c912a254] In regulation 9 (confidential information in certain cases where designation power used)—
+**9.**[^c-a9d4addc6ef012ce796f1d97c912a254] In regulation 9 (confidential information in certain cases where designation power used)—
 
 - (a) in the heading, omit “where designation power used”;
 - (b) omit paragraph (1);
@@ -176,7 +176,7 @@ Article 2
   > - (c) in relation to the British Antarctic Territory, the British Indian Ocean Territory, the Falkland Islands, Pitcairn, Henderson, Ducie and Oeno Islands, St Helena, Ascension and Tristan da Cunha, South Georgia and the South Sandwich Islands and the Turks and Caicos Islands, the Supreme Court of that territory;
   > - (d) in relation to the Sovereign Base Areas of Akrotiri and Dhekelia in the Island of Cyprus, the Senior Judges' Court of those Areas.
 
-**9A.**[^key-e16a78774eaaeb27140a9223b567b8a5] For regulation 9A (notification and publicity where power to designate by description is used) substitute—
+**9A.**[^c-e16a78774eaaeb27140a9223b567b8a5] For regulation 9A (notification and publicity where power to designate by description is used) substitute—
 
 > **9A. Requirement to publish a list of designations by description**
 >
@@ -191,14 +191,14 @@ Article 2
 >
 > (4) For the purposes of this regulation, “**designations by description**” means where the Secretary of State has for the time being provided that persons of a specified description are designated persons under regulation 5(1A) (power to designate persons by description)(as it has effect in the United Kingdom).
 
-**10.**[^key-87f7491bd68d19859266fbd2359c97a9] For regulation 10 (meaning of “**designated person**”) substitute—
+**10.**[^c-87f7491bd68d19859266fbd2359c97a9] For regulation 10 (meaning of “**designated person**”) substitute—
 
 > **10.** In this Chapter, a “**designated person**” means a person who is designated from time to time by the Secretary of State under regulation 5 (power to designate persons)(as it has effect in the United Kingdom) for the purposes of regulations 11 to 15 (asset-freeze etc.)(as they have effect in the United Kingdom).
 
-**11.**[^key-b402bd058616b27ebac19a30dc7abdb8] In regulation 16 (dealing with transferable securities or money-market instruments)—
+**11.**[^c-b402bd058616b27ebac19a30dc7abdb8] In regulation 16 (dealing with transferable securities or money-market instruments)—
 
 - (a) in paragraph (2)(b)(i) and paragraph (4)(b)(i), for “non-UK country” substitute “ non-Territory country ”;
-- (aa)[^key-7981f6efad32a7ef46ee5d6978ef31d6] in paragraph (4B)—
+- (aa)[^c-7981f6efad32a7ef46ee5d6978ef31d6] in paragraph (4B)—
   - (i) for “1st March 2022” substitute “14th April 2022”;
   - (ii) in sub-paragraph (a)(i), for “United Kingdom” substitute “Territory”;
 - (b) in paragraph (10), for the definition of “non-UK country”, substitute—
@@ -207,33 +207,33 @@ Article 2
 
   .
 
-**12.**[^key-58fea4d76fc102bd28904c61ccb3b7fe] In regulation 17 (loans and credit arrangements), in paragraph (5)—
+**12.**[^c-58fea4d76fc102bd28904c61ccb3b7fe] In regulation 17 (loans and credit arrangements), in paragraph (5)—
 
 - (a) for the definition of “non-UK country”, substitute—
 
   > “**non-Territory country**” means a country that is not the Territory;
 
   ;
-- (b)[^key-9b0fe24d8460c8124c6c905a37d246c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-b575ee563b85e3354cfcf08f68838762] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-43f4b72ea6fc38d3345fd922f39f1ec2] in the definition of “category 1 loan”—
+- (b)[^c-9b0fe24d8460c8124c6c905a37d246c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b575ee563b85e3354cfcf08f68838762] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-43f4b72ea6fc38d3345fd922f39f1ec2] in the definition of “category 1 loan”—
   - (i) in paragraph (b)(ii)(aa), for “non-UK country” substitute “non-Territory country”;
   - (ii) in paragraph (c), for “IP completion day” substitute “Part 3 first came into force”;
 - (e) in the definition of “category 2 loan”—
   - (i) in paragraph (b)(i), for “United Kingdom” substitute “Territory”;
   - (ii) in paragraph (c), for “1st March 2022” substitute “14th April 2022”.
 
-**12A.**[^key-70e611a3925f493ef7e9ebf9304d174c] In regulation 17A (correspondent banking relationships and processing payments[^key-e9437a6caa9d8bdd697b83d09f4214fc])—
+**12A.**[^c-70e611a3925f493ef7e9ebf9304d174c] In regulation 17A (correspondent banking relationships and processing payments[^c-e9437a6caa9d8bdd697b83d09f4214fc])—
 
 - (a) in paragraph (1)—
   - (i) for “UK credit or financial institution”, in both places it occurs, substitute “Territory credit or financial institution”;
   - (ii) in sub-paragraph (c), for “non-UK credit or financial institution” substitute “non-Territory credit or financial institution”;
 - (b) in paragraph (2)—
-  - (i)[^key-adb032de4fc587a0dc33a28dfb5b6b72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-adb032de4fc587a0dc33a28dfb5b6b72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) in sub-paragraph (b), for “UK credit or financial institution” substitute “Territory credit or financial institution”;
   - (iii) in sub-paragraph (c), for “non-UK credit or financial institution” substitute “non-Territory credit or financial institution”;
-  - (iv)[^key-ce3b1de19010b3d329a7d5a929921f2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-3f52647562f414ded570cf1e14dcf3f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-ce3b1de19010b3d329a7d5a929921f2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-3f52647562f414ded570cf1e14dcf3f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in paragraph (6)—
   - (i) for the definition of “designated person” substitute—
 
@@ -246,7 +246,7 @@ Article 2
 
     ;
 
-    > - [^key-8be0f0780596dfa1a5d01a0f9319cd30]...
+    > - [^c-8be0f0780596dfa1a5d01a0f9319cd30]...
 
     ;
   - (iii) for the definition of “non-UK credit or financial institution” substitute—
@@ -268,7 +268,7 @@ Article 2
     >     - (ii) transmits money (or any representation of monetary value) by any means, or
     >     - (iii) cashes cheques that are made payable to customers.
 
-**12AA.**[^key-11008f6765f27414102b3aeeebf3292c] In regulation 18C (trust services), in paragraph (7) for the definition of “designated person” substitute—
+**12AA.**[^c-11008f6765f27414102b3aeeebf3292c] In regulation 18C (trust services), in paragraph (7) for the definition of “designated person” substitute—
 
 > - “**designated person**” means a person who is designated from time to time by the Secretary of State under regulation 5 (power to designate persons)(as it has effect in the United Kingdom) for the purposes of regulation 18C (trust services)(as it has effect in the United Kingdom);
 
@@ -285,7 +285,7 @@ Article 2
   - (i) in sub-paragraph (a), for “non-UK credit or financial institution” substitute “non-Territory credit or financial institution”;
   - (ii) in sub-paragraph (b), for “UK credit or financial institution” substitute “Territory credit or financial institution”.
 
-**13.**[^key-adc4e45ff78fedd794d5ca132c4ca8e3] For regulation 20 (immigration) substitute—
+**13.**[^c-adc4e45ff78fedd794d5ca132c4ca8e3] For regulation 20 (immigration) substitute—
 
 > **20.** (1) A person who is designated from time to time by the Secretary of State under regulation 5 (power to designate persons) (as it has effect in the United Kingdom) for the purposes of regulation 20 (immigration) (as it has effect in the United Kingdom) must not enter, transit or remain in the Territory.
 >
@@ -320,10 +320,10 @@ Article 2
 > - “**Pitcairn**” means Pitcairn, Henderson, Ducie and Oeno Islands;
 > - “**the Sovereign Base Areas**” means the Sovereign Base Areas of Akrotiri and Dhekelia in the Island of Cyprus.
 
-**14.**[^key-ec3fdf3194b4a7e3f843b76362348a8a] In regulation 21 (interpretation of other expressions used in this Part)—
+**14.**[^c-ec3fdf3194b4a7e3f843b76362348a8a] In regulation 21 (interpretation of other expressions used in this Part)—
 
 - (a) in paragraph (4), for “Paragraphs 32 to 36” substitute “ Paragraphs 35 and 36 ”;
-- (aa)[^key-153a82f43fd929bee61b9adb526adb8c] after paragraph 4D insert—
+- (aa)[^c-153a82f43fd929bee61b9adb526adb8c] after paragraph 4D insert—
 
   > (4E) For the purposes of this Part—
   >
@@ -333,30 +333,30 @@ Article 2
   > (4F) For the purposes of this Part, “**import**” means import into the Territory.
 
   ;
-- (b)[^key-2780684e54d05ce6b80f990061ce37cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ba)[^key-2780684e54d05ce6b80f990061ce37cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-2780684e54d05ce6b80f990061ce37cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ba)[^c-2780684e54d05ce6b80f990061ce37cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) for paragraph (5) substitute—
 
   > (5) In this Part, any reference to the Territory includes a reference to the territorial sea of the Territory.
 
-**15.**[^key-02c12dc44591b8b62025fe9047128ff8] In regulation 22 (export of restricted goods)[^key-bfade99ea2b9a83f30bfcd4c9089c16e], at the end insert—
+**15.**[^c-02c12dc44591b8b62025fe9047128ff8] In regulation 22 (export of restricted goods)[^c-bfade99ea2b9a83f30bfcd4c9089c16e], at the end insert—
 
 > (3) A person who contravenes a prohibition in paragraph (1) commits an offence, but it is a defence for a person charged with the offence of contravening paragraph (1) to show that the person did not know and had no reasonable cause to suspect that the export was to, or the goods were for use in, Russia.
 >
 > (4)[^M_F_5e084465-e167-4e3e-b40e-47067be3d7ed] A person who contravenes the prohibition in paragraph (1A) commits an offence, but it is a defence for a person charged with the offence of contravening paragraph (1A) to show that the person did not know and had no reasonable cause to suspect that the export was for the placing on board of a Russian-flagged vessel.
 
-**16.**[^key-d8f2e6fa53f8d519374fba05fef922f0] In regulation 23 (import of arms and related materiel), after paragraph (4) insert—
+**16.**[^c-d8f2e6fa53f8d519374fba05fef922f0] In regulation 23 (import of arms and related materiel), after paragraph (4) insert—
 
 > (4A) A person who contravenes a prohibition in paragraphs (1) or (2) commits an offence, but—
 >
 > - (a) it is a defence for a person charged with the offence of contravening paragraph (1) to show that the person did not know and had no reasonable cause to suspect that the goods were consigned from Russia;
 > - (b) it a defence for a person charged with the offence of contravening paragraph (2) to show that the person did not know and had no reasonable cause to suspect that the goods originated in Russia.
 
-**17.**[^key-5a13db0568f796eeb043c1ec89ccffe4] In regulation 24 (supply and delivery of restricted goods)[^key-4a8550c8c8b1c6c5d1bc2312ddb78db7], in paragraph (4) for “United Kingdom, the Isle of Man” substitute “ Territory ”.
+**17.**[^c-5a13db0568f796eeb043c1ec89ccffe4] In regulation 24 (supply and delivery of restricted goods)[^c-4a8550c8c8b1c6c5d1bc2312ddb78db7], in paragraph (4) for “United Kingdom, the Isle of Man” substitute “ Territory ”.
 
-**18.**[^key-c60bb29a944b90040c70e6f8e68ef86f] In regulation 26 (transfer of restricted technology)[^key-8c081ebb080b18b5e72352f26fdbad3b], in paragraph (1)(c), for “United Kingdom”, in both places it occurs, substitute “ Territory ”.
+**18.**[^c-c60bb29a944b90040c70e6f8e68ef86f] In regulation 26 (transfer of restricted technology)[^c-8c081ebb080b18b5e72352f26fdbad3b], in paragraph (1)(c), for “United Kingdom”, in both places it occurs, substitute “ Territory ”.
 
-**19.**[^key-4e9ebf00085de173321e04531c1961ec] In regulation 29 (brokering services: non-UK activity relating to restricted goods and restricted technology)[^key-2f1a63aa41deaf77acb17f98ed377daf]—
+**19.**[^c-4e9ebf00085de173321e04531c1961ec] In regulation 29 (brokering services: non-UK activity relating to restricted goods and restricted technology)[^c-2f1a63aa41deaf77acb17f98ed377daf]—
 
 - (a) in the heading, for “non-UK” substitute “ non-Territory ”;
 - (b) in paragraph (1), for “non-UK country”, in each place it occurs, substitute “ non-Territory country ”;
@@ -367,7 +367,7 @@ Article 2
   > - “**non-Territory country**” means a country that is not the Territory;
   > - “**third country**” means a country that is not the Territory or Russia.
 
-**20.**[^key-d2de396142fee030b27097e15792c3c9] In regulation 30 (enabling or facilitating military activities)—
+**20.**[^c-d2de396142fee030b27097e15792c3c9] In regulation 30 (enabling or facilitating military activities)—
 
 - (a) in paragraph (1)(d), for “non-UK country” substitute “ non-Territory country ”;
 - (b) in paragraph (4), for the definition of “non-UK country” substitute—
@@ -376,7 +376,7 @@ Article 2
 
   .
 
-**20A.**[^key-47f4019e4b5e18301876054fb05b489f] For regulation 30B (export of relevant restricted goods), substitute—
+**20A.**[^c-47f4019e4b5e18301876054fb05b489f] For regulation 30B (export of relevant restricted goods), substitute—
 
 > **30B.** (1) The export of relevant restricted goods to, or for use in, non-government controlled Ukrainian territory, is prohibited.
 >
@@ -384,21 +384,21 @@ Article 2
 >
 > (3) A person who contravenes the prohibition in paragraph (1) commits an offence, but it is a defence for a person charged with the offence of contravening paragraph (1) to show that the person did not know and had no reasonable cause to suspect that the export was to, or the goods were for use in, non-government controlled Ukrainian territory.
 
-**20B.**[^key-1888ab695753bf393b0e9c3af4e249e4] In regulation 30C (supply and delivery of relevant restricted goods), in paragraph (4) for “United Kingdom or the Isle of Man” substitute “Territory”.
+**20B.**[^c-1888ab695753bf393b0e9c3af4e249e4] In regulation 30C (supply and delivery of relevant restricted goods), in paragraph (4) for “United Kingdom or the Isle of Man” substitute “Territory”.
 
-**21.**[^key-6baefcc3ad5e09e12d19157b9f0a71b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-6baefcc3ad5e09e12d19157b9f0a71b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-cd9dcad7f8c3c130244d77a1b907a3e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-cd9dcad7f8c3c130244d77a1b907a3e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-e6fac84801b51f39c00e6ca50ccabce2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-e6fac84801b51f39c00e6ca50ccabce2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-e7abf844c6683ae372e01ea4babc287f] In regulation 40 (export of energy-related goods), at the end insert—
+**24.**[^c-e7abf844c6683ae372e01ea4babc287f] In regulation 40 (export of energy-related goods), at the end insert—
 
 > (3) A person who contravenes a prohibition in paragraph (1) commits an offence, but it is a defence for a person charged with the offence of contravening paragraph (1) to show that the person did not know and had no reasonable cause to suspect that the export was to, or the goods were for use in, Russia.
 
-**25.**[^key-75d37127f2032367d07ca39609a8b22b] In regulation 41 (supply and delivery of energy-related goods), in paragraph (4) for “United Kingdom, the Isle of Man” substitute “ Territory ”.
+**25.**[^c-75d37127f2032367d07ca39609a8b22b] In regulation 41 (supply and delivery of energy-related goods), in paragraph (4) for “United Kingdom, the Isle of Man” substitute “ Territory ”.
 
-**26.**[^key-5c67c09745a641c1abdb7ea2984d4680] In regulation 45 (brokering services: non-UK activity relating to energy-related goods [^key-1c406e0456ce67772398a2be3148fd44]...)—
+**26.**[^c-5c67c09745a641c1abdb7ea2984d4680] In regulation 45 (brokering services: non-UK activity relating to energy-related goods [^c-1c406e0456ce67772398a2be3148fd44]...)—
 
 - (a) in the heading, for “non-UK” substitute “ non-Territory ”;
 - (b) in paragraph (1), for “non-UK country”, in each place it occurs, substitute “ non-Territory country ”;
@@ -409,13 +409,13 @@ Article 2
   > - “**non-Territory country**” means a country that is not the Territory;
   > - “**third country**” means a country that is not the Territory or Russia.
 
-**26A.**[^key-bd48487b9b87871e0a9300bc0c042d0f] In regulation 46A (technical assistance relating to aircraft and ships), in paragraph (5) for the definition of “designated person” substitute—
+**26A.**[^c-bd48487b9b87871e0a9300bc0c042d0f] In regulation 46A (technical assistance relating to aircraft and ships), in paragraph (5) for the definition of “designated person” substitute—
 
 > - “**designated person**” means a person for the time being designated by the Secretary of State under regulation 5 (power to designate persons)(as it has effect in the United Kingdom) for the purposes of regulation 46A (technical assistance relating to aircraft and ships)(as it has effect in the United Kingdom);
 
 .
 
-**26B.**[^key-ffe5ceb512d0c801a36020b83411b98d] In regulation 46B (luxury goods)—
+**26B.**[^c-ffe5ceb512d0c801a36020b83411b98d] In regulation 46B (luxury goods)—
 
 - (a) after paragraph (3) insert—
 
@@ -424,7 +424,7 @@ Article 2
   ;
 - (b) in paragraph (5), for “United Kingdom, the Isle of Man” substitute “Territory”.
 
-**26BA.**[^key-2fab0579d640172a0b785f08552d3b16] In regulation 46C (interpretation) for “United Kingdom, the Isle of Man” substitute “Territory”.
+**26BA.**[^c-2fab0579d640172a0b785f08552d3b16] In regulation 46C (interpretation) for “United Kingdom, the Isle of Man” substitute “Territory”.
 
 **26C.** In regulation 46D (import of iron and steel products), at the end insert—
 
@@ -435,15 +435,15 @@ Article 2
 
 **26D.** In regulation 46F (supply and delivery of iron and steel products), in paragraph (4), for “United Kingdom, the Isle of Man” substitute “Territory”.
 
-**26DA.**[^key-5f52fd4c4de14c86eb54d4f1a8bd8325] In regulation 46IA (interpretation), in paragraph (1), in the definition of “third country”, for “United Kingdom, the Isle of Man” substitute “Territory”.
+**26DA.**[^c-5f52fd4c4de14c86eb54d4f1a8bd8325] In regulation 46IA (interpretation), in paragraph (1), in the definition of “third country”, for “United Kingdom, the Isle of Man” substitute “Territory”.
 
 **26DB.** In regulation 46IB (import of relevant processed iron or steel products), after paragraph (2) insert—
 
 > (3) A person who contravenes a prohibition in paragraph (1) commits an offence, but it is a defence for a person charged with the offence of contravening paragraph (1) to show that the person did not know and had no reasonable cause to suspect that the goods were relevant processed iron or steel products.
 
-**26DC.**[^key-e84180db3fa6cbd7af05aa9a9dd705d0] In regulation 46IF (interpretation), in the definition of “third country”, for “United Kingdom, the Isle of Man” substitute “Territory”.
+**26DC.**[^c-e84180db3fa6cbd7af05aa9a9dd705d0] In regulation 46IF (interpretation), in the definition of “third country”, for “United Kingdom, the Isle of Man” substitute “Territory”.
 
-**26E.**[^key-aeec3ec465eeca034e895e4bfb478765] In regulation 46L (banknotes), in paragraph (5)—
+**26E.**[^c-aeec3ec465eeca034e895e4bfb478765] In regulation 46L (banknotes), in paragraph (5)—
 
 - (a) omit the “and” after sub-paragraph (a);
 - (b) in sub-paragraph (b), at the end insert “; and”;
@@ -464,13 +464,13 @@ Article 2
 
 **26I.** In regulation 46T (acquisition of revenue generating goods), in paragraph (1) for “United Kingdom” substitute “Territory”.
 
-**26J.**[^key-cb68a230cb7769379f98b889d1423a84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26J.**[^c-cb68a230cb7769379f98b889d1423a84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26K.** In regulation 46V (technical assistance relating to revenue generating goods), in paragraph (1) for “United Kingdom” [^key-e411506fcc2129c5e46a3718874134ff]... substitute “Territory”.
+**26K.** In regulation 46V (technical assistance relating to revenue generating goods), in paragraph (1) for “United Kingdom” [^c-e411506fcc2129c5e46a3718874134ff]... substitute “Territory”.
 
-**26L.** In regulation 46W (financial services and funds relating to revenue generating goods), in paragraph (1) for “United Kingdom” [^key-e4bd24516b658c95f41f83038b724f5b]... substitute “Territory”.
+**26L.** In regulation 46W (financial services and funds relating to revenue generating goods), in paragraph (1) for “United Kingdom” [^c-e4bd24516b658c95f41f83038b724f5b]... substitute “Territory”.
 
-**26LA.**[^key-dac16e8ea17aa6883bb97057a3fb5b4c] In regulation 46XA (interpretation), in the definition of “third country” for “United Kingdom, the Isle of Man” substitute “Territory”.
+**26LA.**[^c-dac16e8ea17aa6883bb97057a3fb5b4c] In regulation 46XA (interpretation), in the definition of “third country” for “United Kingdom, the Isle of Man” substitute “Territory”.
 
 **26LB.** In regulation 46XB (import of Schedule 3DA revenue generating goods), after paragraph (3) insert—
 
@@ -497,13 +497,13 @@ Article 2
 
 **26P.** In regulation 46Z5 (acquisition of oil and oil products), in paragraph (1) for “United Kingdom” substitute “Territory”.
 
-**26Q.**[^key-4330c1dacc9ead9900f618c59eb1004f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26Q.**[^c-4330c1dacc9ead9900f618c59eb1004f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26R.** In regulation 46Z7 (technical assistance relating to oil and oil products), in paragraph (1) for “United Kingdom” [^key-c482cca87f01a9723a887f8019295a8a]... substitute “Territory”.
+**26R.** In regulation 46Z7 (technical assistance relating to oil and oil products), in paragraph (1) for “United Kingdom” [^c-c482cca87f01a9723a887f8019295a8a]... substitute “Territory”.
 
-**26S.** In regulation 46Z8 (financial services and funds relating to oil and oil products), in paragraph (1) for “United Kingdom” [^key-6cb9534784615a54545d640a22d9dd5c]... substitute “Territory”.
+**26S.** In regulation 46Z8 (financial services and funds relating to oil and oil products), in paragraph (1) for “United Kingdom” [^c-6cb9534784615a54545d640a22d9dd5c]... substitute “Territory”.
 
-**26SA.**[^key-951c712f999093314fd2b93ce0e9b9a0] In regulation 46Z9A (interpretation), in paragraph (1), in the definition of “third country”, for “United Kingdom, the Isle of Man” substitute “Territory”.
+**26SA.**[^c-951c712f999093314fd2b93ce0e9b9a0] In regulation 46Z9A (interpretation), in paragraph (1), in the definition of “third country”, for “United Kingdom, the Isle of Man” substitute “Territory”.
 
 **26T.** In regulation 46Z11 (prohibition on the import of gold from Russia), after paragraph (3), insert—
 
@@ -511,18 +511,18 @@ Article 2
 
 **26U.** In regulation 46Z12 (acquisition of gold from Russia), in paragraph (1) for “United Kingdom” substitute “Territory”.
 
-**26V.**[^key-b1b6391e5742da0cab0f8b92ffb9f71a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26V.**[^c-b1b6391e5742da0cab0f8b92ffb9f71a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26W.** In regulation 46Z14 (technical assistance relating to gold), in paragraph (1), for “United Kingdom” [^key-afb0ab673fdb1607a603053260e4be22]... substitute “Territory”.
+**26W.** In regulation 46Z14 (technical assistance relating to gold), in paragraph (1), for “United Kingdom” [^c-afb0ab673fdb1607a603053260e4be22]... substitute “Territory”.
 
 **26X.** In regulation 46Z15 (financial services and funds relating to gold)—
 
-- (a) in paragraph (1), for “United Kingdom” [^key-22fae5a1370574fe1a4c3ed4878a712d]... substitute “Territory”;
+- (a) in paragraph (1), for “United Kingdom” [^c-22fae5a1370574fe1a4c3ed4878a712d]... substitute “Territory”;
 - (b) after paragraph (3), insert—
 
   > (4) In this regulation, “**third country**” means a country that is not the Territory or Russia.
 
-**26XA.**[^key-04fc9f4f8811b07f166ef4fd4e070671] In regulation 46Z16A (interpretation), in paragraph (1), in the definition of “third country”, for “United Kingdom, the Isle of Man” substitute “Territory”.
+**26XA.**[^c-04fc9f4f8811b07f166ef4fd4e070671] In regulation 46Z16A (interpretation), in paragraph (1), in the definition of “third country”, for “United Kingdom, the Isle of Man” substitute “Territory”.
 
 **26XB.** In regulation 46Z16B (prohibition on the import of gold jewellery from Russia), after paragraph (2) insert—
 
@@ -538,11 +538,11 @@ Article 2
 
 **26XF.** In regulation 46Z16G (financial services and funds relating to gold jewellery), in paragraph (1), for “United Kingdom” substitute “Territory”.
 
-**26XG.**[^key-939593c4fa4ddbae702335e7eb87dcd0] In regulation 46Z16J (interpretation), in the definition of “third country”, for “United Kingdom, the Isle of Man” substitute “Territory”.
+**26XG.**[^c-939593c4fa4ddbae702335e7eb87dcd0] In regulation 46Z16J (interpretation), in the definition of “third country”, for “United Kingdom, the Isle of Man” substitute “Territory”.
 
 **26XH.** In regulation 46Z16Q (interpretation), in the definition of “third country”, for “United Kingdom, the Isle of Man” substitute “Territory”.
 
-**26XI.**[^key-2ee5987e31814223634479050ebecde6] In regulation 46Z16V (interpretation), in the definition of “third country”, for “United Kingdom, the Isle of Man” substitute “Territory”.
+**26XI.**[^c-2ee5987e31814223634479050ebecde6] In regulation 46Z16V (interpretation), in the definition of “third country”, for “United Kingdom, the Isle of Man” substitute “Territory”.
 
 **26Y.** In regulation 46Z18 (import of coal and coal products), after paragraph (3) insert—
 
@@ -553,13 +553,13 @@ Article 2
 
 **26Z.** In regulation 46Z19 (acquisition of coal and coal products), in paragraph (1), for “United Kingdom” substitute “Territory”.
 
-**26Z1.**[^key-bd934aa644a8a23c6b1e7177ab39c2c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26Z1.**[^c-bd934aa644a8a23c6b1e7177ab39c2c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26Z2.** In regulation 46Z21 (technical assistance relating to coal and coal products), in paragraph (1), for “United Kingdom” [^key-8d829c00608078584344b44174cc4c77]... substitute “Territory”.
+**26Z2.** In regulation 46Z21 (technical assistance relating to coal and coal products), in paragraph (1), for “United Kingdom” [^c-8d829c00608078584344b44174cc4c77]... substitute “Territory”.
 
-**26Z3.** In regulation 46Z22 (financial services and funds relating to coal and coal products), in paragraph (1), for “United Kingdom” [^key-01c62fe3d9dadd03184eb791cc0d9fd3]... substitute “Territory”.
+**26Z3.** In regulation 46Z22 (financial services and funds relating to coal and coal products), in paragraph (1), for “United Kingdom” [^c-01c62fe3d9dadd03184eb791cc0d9fd3]... substitute “Territory”.
 
-**26Z4.**[^key-e12eb7912ddaea16af41c20eaa76b77d] In regulation 46Z25 (import of liquefied natural gas), after paragraph (3) insert—
+**26Z4.**[^c-e12eb7912ddaea16af41c20eaa76b77d] In regulation 46Z25 (import of liquefied natural gas), after paragraph (3) insert—
 
 > (4) A person who contravenes a prohibition in paragraph (1) or (2) commits an offence, but—
 >
@@ -583,12 +583,12 @@ Article 2
 
 **26Z9.** In regulation 46Z33 (brokering services relating to Russia’s vulnerable goods)—
 
-- (a) in paragraph (1), for “non-UK country”, in each place it occurs, substitute “non-Territory country[^key-86e36a604f3d0e10bcb1e83f3b78cdb5]”;
+- (a) in paragraph (1), for “non-UK country”, in each place it occurs, substitute “non-Territory country[^c-86e36a604f3d0e10bcb1e83f3b78cdb5]”;
 - (b) for paragraph (4) substitute—
 
   > (4) In this regulation, “**non-Territory country**” means a country that is not the Territory.
 
-**26Z10.**[^key-0a29224683a412ad964cb1f8382a2a2b] In regulation 46Z38 (brokering services: non-UK activity relating to sectoral software and technology)—
+**26Z10.**[^c-0a29224683a412ad964cb1f8382a2a2b] In regulation 46Z38 (brokering services: non-UK activity relating to sectoral software and technology)—
 
 - (a) for the heading substitute “Brokering services: non-Territory activity relating to sectoral software and technology”;
 - (b) in paragraph (1), in sub-paragraphs (c), (d), (e) and (f), for “non-UK country” substitute “non-Territory country”;
@@ -601,11 +601,11 @@ Article 2
 
   .
 
-**27.**[^key-63ea7e35f9c2983c0015d6caaaf1d850] In regulation 47 (import from non-government controlled Ukrainian territory), at the end insert—
+**27.**[^c-63ea7e35f9c2983c0015d6caaaf1d850] In regulation 47 (import from non-government controlled Ukrainian territory), at the end insert—
 
 > (3) A person who contravenes the prohibition in paragraph (1) commits an offence, but it is a defence for a person charged with the offence of contravening paragraph (1) to show that the person did not know and had no reasonable cause to suspect that the goods originated in non-government controlled Ukrainian territory.
 
-**28.**[^key-d1738e75fa3f4d70c62418faba9f4b01] For regulation 48 (export of infrastructure-related goods to non-government controlled Ukrainian territory), substitute—
+**28.**[^c-d1738e75fa3f4d70c62418faba9f4b01] For regulation 48 (export of infrastructure-related goods to non-government controlled Ukrainian territory), substitute—
 
 > **48.** (1) The export of infrastructure-related goods to, or for use in, non-government controlled Ukrainian territory, is prohibited.
 >
@@ -613,36 +613,36 @@ Article 2
 >
 > (3) A person who contravenes the prohibition in paragraph (1) commits an offence, but it is a defence for a person charged with the offence of contravening paragraph (1) to show that the person did not know and had no reasonable cause to suspect that the export was to, or the goods were for use in, non-government controlled Ukrainian territory.
 
-**29.**[^key-e0c7f65bff288c3357d423916bb94edb] In regulation 49 (supply and delivery of infrastructure-related goods), in paragraph (4), for “United Kingdom, the Isle of Man” substitute “Territory”.
+**29.**[^c-e0c7f65bff288c3357d423916bb94edb] In regulation 49 (supply and delivery of infrastructure-related goods), in paragraph (4), for “United Kingdom, the Isle of Man” substitute “Territory”.
 
-**30.**[^key-2626213bc2b7c1d7eed913d6333b20bb] In regulation 53 (brokering services: non-UK activity relating to infrastructure-related goods and goods from non-government controlled Ukrainian territory)[^key-4b55f1a49633725e264691f4d6fad5b7]—
+**30.**[^c-2626213bc2b7c1d7eed913d6333b20bb] In regulation 53 (brokering services: non-UK activity relating to infrastructure-related goods and goods from non-government controlled Ukrainian territory)[^c-4b55f1a49633725e264691f4d6fad5b7]—
 
 - (a) in the heading, for “non-UK” substitute “non-Territory”;
 - (b) in paragraph (1), for “non-UK country”, in each place it occurs, substitute “non-Territory country”;
 - (c) for paragraph (4) substitute—
 
-  > (4)[^key-1c2575536feb534bf3603d9957f57e11] In this regulation—
+  > (4)[^c-1c2575536feb534bf3603d9957f57e11] In this regulation—
   >
   > - “**non-Territory country**” means a country that is not the Territory;
   > - “**third country**” means a country that is not the Territory or non-government controlled Ukrainian territory.
 
-**30A.**[^key-ec73520f39b51b2301d001daefd0dd9a] In regulation 53A (application of prohibitions and requirements in Chapter 2 of Part 5 to non-government controlled Ukrainian territory) omit paragraphs (2) and (3).
+**30A.**[^c-ec73520f39b51b2301d001daefd0dd9a] In regulation 53A (application of prohibitions and requirements in Chapter 2 of Part 5 to non-government controlled Ukrainian territory) omit paragraphs (2) and (3).
 
 **30B.** In regulation 54D (legal advisory services)—
 
 - (a) in paragraph (1)—
   - (i) for “United Kingdom person” substitute “Territory person”;
-  - (ii) for “United Kingdom”, in the second and third places[^key-7d3166ba52c2198d46d736da4b9de016] it occurs, substitute “Territory”;
+  - (ii) for “United Kingdom”, in the second and third places[^c-7d3166ba52c2198d46d736da4b9de016] it occurs, substitute “Territory”;
 - (b) in paragraph (2)(a)(i) and (2)(b)(i), for “United Kingdom person” substitute “Territory person”;
 - (c) in paragraph (2)(a)(ii) and (2)(b)(ii), for “United Kingdom” substitute “Territory”
 
-**31.**[^key-a67479262976e6a46e6a79e1994ae9c6] In regulation 57 (Crimean ports direction or Donetsk ports direction)[^key-cb9d827198e417a4bb380cd44d1fd9fe]—
+**31.**[^c-a67479262976e6a46e6a79e1994ae9c6] In regulation 57 (Crimean ports direction or Donetsk ports direction)[^c-cb9d827198e417a4bb380cd44d1fd9fe]—
 
 - (a) for “British ship”, in each place it occurs, substitute “Territory ship”;
 - (b) in paragraph (4)(a), for “British ships” substitute “Territory ships”.
-- (c)[^key-815f0c76099844e8cfcadf39ed829267] omit paragraph (7).
+- (c)[^c-815f0c76099844e8cfcadf39ed829267] omit paragraph (7).
 
-**31A.**[^key-f06213a5196bb89a25ddde07cfb47245] In regulation 57A (prohibition on port entry)—
+**31A.**[^c-f06213a5196bb89a25ddde07cfb47245] In regulation 57A (prohibition on port entry)—
 
 - (a) in paragraphs (1) and (2), for “United Kingdom”, in both places it occurs, substitute “Territory”;
 - (b) for paragraph (6) substitute—
@@ -718,7 +718,7 @@ Article 2
 
     .
 
-**31EA.**[^key-fbd9fea8c989daf01dfaad0fae021e28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31EA.**[^c-fbd9fea8c989daf01dfaad0fae021e28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **31F.** Omit regulation 57F (specification of ships) (including the heading).
 
@@ -838,7 +838,7 @@ Article 2
     ;
 - (b) in paragraph (4), after “in that section” insert “, unless otherwise provided in this regulation”.
 
-**32.**[^key-f74f95fe23e764d1f5f11008367ea1a4] In regulation 58 (asset-freeze etc.: exceptions from prohibitions)—
+**32.**[^c-f74f95fe23e764d1f5f11008367ea1a4] In regulation 58 (asset-freeze etc.: exceptions from prohibitions)—
 
 - (a) omit paragraph (6);
 - (b) in paragraph (7), for the definition of “relevant institution” substitute—
@@ -848,7 +848,7 @@ Article 2
   ;
 - (c) omit paragraph (8).
 
-**32A.**[^key-8c395636488f83307d20d0f2ae7054e6] For regulation 58A (asset-freeze etc.: exception from prohibitions for required payments) substitute—
+**32A.**[^c-8c395636488f83307d20d0f2ae7054e6] For regulation 58A (asset-freeze etc.: exception from prohibitions for required payments) substitute—
 
 > **58A. Asset-freeze etc.: exception from prohibitions for required payments**
 >
@@ -879,7 +879,7 @@ Article 2
 
 .
 
-**33.**[^key-b8ce7b26a486873ebf6d6a66cae5775f][^key-162f84fe5e8726f3e9a8ede4fbbeed69] In regulation 59 (exceptions relating to loans and credit arrangements)—
+**33.**[^c-b8ce7b26a486873ebf6d6a66cae5775f][^c-162f84fe5e8726f3e9a8ede4fbbeed69] In regulation 59 (exceptions relating to loans and credit arrangements)—
 
 - (a) in paragraph (1)(c)—
   - (i) after paragraph (i) insert—
@@ -897,15 +897,15 @@ Article 2
   - (ii) in sub-paragraph (bb), omit “a category 2 loan,”;
 - (c) in paragraph (3), in the definition of “relevant subsidiary”, for “United Kingdom” substitute “Territory”.
 
-**33A.**[^key-c54cd499af1c5a5edd821237956a50db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33A.**[^c-c54cd499af1c5a5edd821237956a50db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33B.**[^key-f9294398a8283a678b83328fdfeae0c7] In regulation 59A(2)(b) (exceptions relating to processing payments), for “United Kingdom” substitute “Territory”.
+**33B.**[^c-f9294398a8283a678b83328fdfeae0c7] In regulation 59A(2)(b) (exceptions relating to processing payments), for “United Kingdom” substitute “Territory”.
 
-**34.**[^key-d016dc8d459ab1695d0996452301ea3c] In regulation 60 (exceptions relating to investments in relation to non-government controlled Ukrainian territory)[^key-f43b543f2aeceb3dd0b6aaca0629660a], for “Treasury” substitute “Governor”.
+**34.**[^c-d016dc8d459ab1695d0996452301ea3c] In regulation 60 (exceptions relating to investments in relation to non-government controlled Ukrainian territory)[^c-f43b543f2aeceb3dd0b6aaca0629660a], for “Treasury” substitute “Governor”.
 
-**34ZA.**[^key-7a48b13cba7d965efb144d397926853d] In regulation 60ZZA (exceptions relating to investments in relation to Russia), in paragraph (1) for “Treasury” substitute “Governor”.
+**34ZA.**[^c-7a48b13cba7d965efb144d397926853d] In regulation 60ZZA (exceptions relating to investments in relation to Russia), in paragraph (1) for “Treasury” substitute “Governor”.
 
-**34ZB.**[^key-b52dc52ae0a6dec7094ae341de7ae6f9] For regulation 60ZZB substitute—
+**34ZB.**[^c-b52dc52ae0a6dec7094ae341de7ae6f9] For regulation 60ZZB substitute—
 
 > **60ZZB.** (1) The prohibitions in regulation 18C (trust services) are not contravened by any act done by a person (“**P**”)—
 >
@@ -948,24 +948,24 @@ Article 2
 > - “**trustee**” has the meaning given in section 237 of the Financial Services and Markets Act 2000;
 > - “**unit trust scheme**” means a collective investment scheme under which the property is held on trust for the participants, except that it does not include a contractual scheme.
 
-**34A.**[^key-fee2acc903476feac2b04c745edac80c] In regulation 60ZA (trade: exceptions relating to non-government controlled areas of the Donetsk and Luhansk oblasts), in paragraphs (2)(b), (3(b) and (5)(b), for “Secretary of State”, in each place it occurs, substitute “Governor”.
+**34A.**[^c-fee2acc903476feac2b04c745edac80c] In regulation 60ZA (trade: exceptions relating to non-government controlled areas of the Donetsk and Luhansk oblasts), in paragraphs (2)(b), (3(b) and (5)(b), for “Secretary of State”, in each place it occurs, substitute “Governor”.
 
-**34AA.**[^key-ea4e3ea11ea9b5bdbc8b5311878672f1] In regulation 60A (trade: exceptions in relation to personal effects etc.), in paragraph (1D), for “United Kingdom” substitute “Territory”.
+**34AA.**[^c-ea4e3ea11ea9b5bdbc8b5311878672f1] In regulation 60A (trade: exceptions in relation to personal effects etc.), in paragraph (1D), for “United Kingdom” substitute “Territory”.
 
 **34B.** In regulation 60C (trade: exceptions in relation to aircraft and vessels)—
 
 - (a) in paragraph (1), for “United Kingdom” substitute “Territory”;
-- (aa)[^key-5f2132914bab54d87f1751e1d7871d86] in paragraph (2AA), for “at a UK airport” substitute “at an airport in the Territory”;
+- (aa)[^c-5f2132914bab54d87f1751e1d7871d86] in paragraph (2AA), for “at a UK airport” substitute “at an airport in the Territory”;
 - (b) in paragraph (3), in the definition of “qualifying removal”, for “United Kingdom” substitute “Territory”.
 
-**34C.**[^key-2227e635d376ecd5513213d1e00295b4] In regulation 60DA (trade: exception relating to professional and business services)—
+**34C.**[^c-2227e635d376ecd5513213d1e00295b4] In regulation 60DA (trade: exception relating to professional and business services)—
 
 - (a) in paragraph (1), for “UK statutory or regulatory obligations” substitute “applicable statutory or regulatory obligations in the Territory”;
 - (b) in paragraph (2)(b), for “Secretary of State” substitute “Governor”;
 - (c) in paragraph (3)(b)(iii), for “Secretary of State” substitute “Governor”;
-- (ca)[^key-78188143dcbd60972aec8b9650732e01] in paragraph (5)(a), for “UK subsidiary undertaking” substitute “Territory subsidiary undertaking”;
+- (ca)[^c-78188143dcbd60972aec8b9650732e01] in paragraph (5)(a), for “UK subsidiary undertaking” substitute “Territory subsidiary undertaking”;
 - (d) in paragraph (5)(a), for “UK statutory or regulatory obligations” substitute “applicable statutory or regulatory obligations in the Territory”;
-- (da)[^key-03173c051948929cc961e99267ffae2f] in paragraph (5A), in sub-paragraph (a)—
+- (da)[^c-03173c051948929cc961e99267ffae2f] in paragraph (5A), in sub-paragraph (a)—
   - (i) for “UK undertaking” substitute “Territory undertaking”;
   - (ii) for “UK statutory or regulatory obligations” substitute “applicable statutory or regulatory obligations in the Territory”;
 - (e) in paragraph (9)—
@@ -977,7 +977,7 @@ Article 2
   - (ii) for the definition of “credit institution” substitute—
 
     > - “**credit institution**” means a body incorporated under the law of the Territory, the business of which is to take deposits or other repayable funds from the public and to grant credits for its own account;
-  - (iii)[^key-efe63bb0f53a6147b8364578abf7de24] for the definition of “UK subsidiary undertaking” substitute—
+  - (iii)[^c-efe63bb0f53a6147b8364578abf7de24] for the definition of “UK subsidiary undertaking” substitute—
 
     > - “**Territory subsidiary undertaking**” means a subsidiary undertaking that is incorporated or formed under the law of the Territory;
 
@@ -988,7 +988,7 @@ Article 2
 
     .
 
-**34CZA.**[^key-a288b024894b54e210f18d88dd738a34] In regulation 60DZA—
+**34CZA.**[^c-a288b024894b54e210f18d88dd738a34] In regulation 60DZA—
 
 - (a) for “Secretary of State”, in each place it occurs, substitute “Governor”;
 - (b) in paragraph (1), for “UK statutory or regulatory obligations” substitute “statutory or regulatory obligations of the Territory”;
@@ -996,15 +996,15 @@ Article 2
   - (i) in the opening words for “23rd April 2025” substitute “11th December 2025”;
   - (ii) in sub-paragraph (a) and (b) for “22nd July 2025” substitute “10th March 2026”.
 
-**34CA.**[^key-8fe06329ae3cd7e6691d90d351696b72] In regulation 60DB (trade: exception relating to legal advisory services), in paragraph (2) for “UK statutory or regulatory obligations” substitute “applicable statutory or regulatory obligations in the Territory”
+**34CA.**[^c-8fe06329ae3cd7e6691d90d351696b72] In regulation 60DB (trade: exception relating to legal advisory services), in paragraph (2) for “UK statutory or regulatory obligations” substitute “applicable statutory or regulatory obligations in the Territory”
 
-**34D.**[^key-1b975ea88a3b640f6ed696b4306e3bfa] In regulation 60F (trade: exceptions in relation to banknotes), in paragraph (2), after “European Union” insert “or the Territory”.
+**34D.**[^c-1b975ea88a3b640f6ed696b4306e3bfa] In regulation 60F (trade: exceptions in relation to banknotes), in paragraph (2), after “European Union” insert “or the Territory”.
 
-**34DA.**[^key-22ff5450dca7264be7329cfc4794d1cb] In regulation 60G (trade: exception in relation to certain goods consigned from Russia), in paragraph (1A)(b) and (1E)(b)[^key-946267e08533e9d65a98116210758312], for “United Kingdom” substitute “Territory”.
+**34DA.**[^c-22ff5450dca7264be7329cfc4794d1cb] In regulation 60G (trade: exception in relation to certain goods consigned from Russia), in paragraph (1A)(b) and (1E)(b)[^c-946267e08533e9d65a98116210758312], for “United Kingdom” substitute “Territory”.
 
 **34DB.** In regulation 60GA (trade: exception in respect of the acquisition of iron and steel products), in paragraph (1), for “United Kingdom or the Isle of Man” substitute “Territory”.
 
-**34DBA.**[^key-691c56f84c532615af0bc8c45e6ab331] In regulation 60GAA (trade: exception in respect of iron and steel products, relevant processed iron or steel products and metals exported from Russia before the relevant day)—
+**34DBA.**[^c-691c56f84c532615af0bc8c45e6ab331] In regulation 60GAA (trade: exception in respect of iron and steel products, relevant processed iron or steel products and metals exported from Russia before the relevant day)—
 
 - (a) in paragraph (1)(b), for “United Kingdom or the Isle of Man” substitute “Territory”;
 - (b) in paragraph (7), for the words from “Section 3” to “applies” substitute “Any rules imposing an obligation to declare goods for a customs procedure on import into the Territory apply”.
@@ -1014,27 +1014,27 @@ Article 2
 - (a) for “United Kingdom or the Isle of Man” substitute “Territory”;
 - (b) for “United Kingdom national”, in both places it occurs, substitute “Territory person, who is an individual,”.
 
-**34DD.**[^key-b82eaa2ceaad36a3206dc560da5d3ba7] In regulation 60GC (trade: exception in respect of the acquisition of diamonds and diamond jewellery), in paragraph (1), for “United Kingdom or the Isle of Man” substitute “Territory”.
+**34DD.**[^c-b82eaa2ceaad36a3206dc560da5d3ba7] In regulation 60GC (trade: exception in respect of the acquisition of diamonds and diamond jewellery), in paragraph (1), for “United Kingdom or the Isle of Man” substitute “Territory”.
 
 **34E.** In regulation 60I (trade: exceptions in relation to Energy-related Goods), in paragraph (1), for “non-UK” substitute “non-Territory”.
 
-**35.**[^key-b108863f9ad7f2e3b76da82ee04780fe] In regulation 61 (trade: exception for emergencies in certain cases)—
+**35.**[^c-b108863f9ad7f2e3b76da82ee04780fe] In regulation 61 (trade: exception for emergencies in certain cases)—
 
 - (a) in paragraph (1), for “Secretary of State” substitute “Governor”;
 - (b) in paragraph (1B), for “Treasury” substitute “Governor”.
 
-**35ZA.**[^key-85bb300341b35174fb781ebda4968b9c] In regulation 61ZA (trade: exception for humanitarian assistance activity in non-government controlled areas of the Donetsk and Luhansk oblasts), in paragraph (2), in the definition of “relevant prohibition”, for “non-UK” substitute “non-Territory”.
+**35ZA.**[^c-85bb300341b35174fb781ebda4968b9c] In regulation 61ZA (trade: exception for humanitarian assistance activity in non-government controlled areas of the Donetsk and Luhansk oblasts), in paragraph (2), in the definition of “relevant prohibition”, for “non-UK” substitute “non-Territory”.
 
-**35A.**[^key-408dc034996ce04b7e055af48465c8c2] In regulation 61B (aircraft: exceptions from prohibitions)—
+**35A.**[^c-408dc034996ce04b7e055af48465c8c2] In regulation 61B (aircraft: exceptions from prohibitions)—
 
 - (a) in paragraphs (1) and (2), for “United Kingdom”, in both places it occurs, substitute “Territory”;
 - (b) in paragraph (4A)(a), for “regulation 57J(3)(b)” substitute “regulation 57J(3)(b) or (d)”.
 
-**36.**[^key-422126083eba7e7e8a10b252e3fc497a] For regulation 62A (exception for authorised conduct in a relevant country) substitute—
+**36.**[^c-422126083eba7e7e8a10b252e3fc497a] For regulation 62A (exception for authorised conduct in a relevant country) substitute—
 
 > **62A. Exceptions for authorised conduct outside the Territory**
 >
-> (1) Where a person’s conduct outside the Territory would, in the absence of this paragraph, contravene a prohibition in any of Chapters 1 and 2 of Part 3 (Finance) or Chapters 2 to 6 and Chapter 6B[^key-4fc210df8af000e54d860c8f0d5dff9b] of Part 5 (Trade), the prohibition is not contravened if the conduct is authorised by a licence issued under regulation 64 (Treasury licences) (as it has effect in the United Kingdom) or regulation 65 (trade licences) (as it has effect in the United Kingdom).
+> (1) Where a person’s conduct outside the Territory would, in the absence of this paragraph, contravene a prohibition in any of Chapters 1 and 2 of Part 3 (Finance) or Chapters 2 to 6 and Chapter 6B[^c-4fc210df8af000e54d860c8f0d5dff9b] of Part 5 (Trade), the prohibition is not contravened if the conduct is authorised by a licence issued under regulation 64 (Treasury licences) (as it has effect in the United Kingdom) or regulation 65 (trade licences) (as it has effect in the United Kingdom).
 >
 > (2) Where a person’s conduct in a relevant country would, in the absence of this paragraph, contravene a prohibition in any of Chapters 1 and 2 of Part 3 or Chapters 2 to 6 and Chapter 6B of Part 5 (“the relevant prohibition”), the relevant prohibition is not contravened if the conduct is authorised by a licence or other authorisation which is issued—
 >
@@ -1048,7 +1048,7 @@ Article 2
 >   - (b) the Isle of Man, or
 >   - (c) any British overseas territory other than the Territory.
 
-**37.**[^key-499917a66a2e321799719f49bc7b62a2] For regulation 63 (exception for acts done for purposes of national security or prevention of serious crime) substitute—
+**37.**[^c-499917a66a2e321799719f49bc7b62a2] For regulation 63 (exception for acts done for purposes of national security or prevention of serious crime) substitute—
 
 > **63.** (1) Where an act would, in the absence of this paragraph, be prohibited by regulation 9(2) or 9B(2) (confidentiality) or any prohibition in Part 3 (Finance) or Part 5 (Trade) or under or by virtue of Part 6 (Ships) or Part 6A (Aircraft), that prohibition does not apply to the act if the act is one which—
 >
@@ -1066,13 +1066,13 @@ Article 2
 >
 > (3) In this regulation, “**responsible officer**” means a person in the service of the Crown or holding office under the Crown in the United Kingdom, acting in the course of that person’s duty.
 
-**38.**[^key-0b0fac2dd5548dad6bbbcc708d2d3cf5] For regulation 64 (Treasury licences) substitute—
+**38.**[^c-0b0fac2dd5548dad6bbbcc708d2d3cf5] For regulation 64 (Treasury licences) substitute—
 
 > **64. Financial sanctions licences**
 >
-> (1) The prohibitions in Chapters 1 and 2 of Part 3 (Finance) and regulations 46Z9B to 46Z9D (maritime transportation of certain oil and oil products)[^key-0c8db2808460ffaaabe593abce9e48bf] do not apply to anything done under the authority of a licence issued by the Governor under this paragraph.
+> (1) The prohibitions in Chapters 1 and 2 of Part 3 (Finance) and regulations 46Z9B to 46Z9D (maritime transportation of certain oil and oil products)[^c-0c8db2808460ffaaabe593abce9e48bf] do not apply to anything done under the authority of a licence issued by the Governor under this paragraph.
 >
-> (2) Without prejudice to the generality of the powers conferred by paragraph (1), a financial sanctions licence issued by the Governor may, in particular, authorise acts which would otherwise be prohibited by any of regulations 11 to[^key-2690d47b84c674e8e9ace32cb41baeb2] 18C[^key-7bcf3978ebb37e7a0a66bbc3a33b8824] (financial restrictions) or 46Z9B to 46Z9D (maritime transportation of certain oil and oil products)[^key-19168ea71ff1ccf571b315419f97814d] for a particular period beginning with—
+> (2) Without prejudice to the generality of the powers conferred by paragraph (1), a financial sanctions licence issued by the Governor may, in particular, authorise acts which would otherwise be prohibited by any of regulations 11 to[^c-2690d47b84c674e8e9ace32cb41baeb2] 18C[^c-7bcf3978ebb37e7a0a66bbc3a33b8824] (financial restrictions) or 46Z9B to 46Z9D (maritime transportation of certain oil and oil products)[^c-19168ea71ff1ccf571b315419f97814d] for a particular period beginning with—
 >
 > - (a) the coming into force of the prohibition, or
 > - (b) where the prohibition relates to a person designated for the purposes of regulations 11 to 15 (asset-freeze etc.) or regulation 17A (correspondent banking relationships etc.), the date on which the person was designated.
@@ -1080,21 +1080,21 @@ Article 2
 > (3) The Governor may issue a financial sanctions licence which authorises acts by a particular person only—
 >
 > - (a) in the case of acts which would otherwise be prohibited by regulations 11 to 15, where the Governor considers that it is appropriate to issue the licence for a purpose set out in Part 1 (Asset-freeze etc.) of Schedule 5 (Financial sanctions licences: purposes),
-> - (aa)[^key-eb3df580ba9beb40f39ae8715c910dd7] in the case of acts which would otherwise be prohibited by regulations 11 to 15, 16, 17, 17A, 18A and 18C, where the Governor considers that it is appropriate to issue the licence for a purpose set out in Part 1ZA of Schedule 5,
+> - (aa)[^c-eb3df580ba9beb40f39ae8715c910dd7] in the case of acts which would otherwise be prohibited by regulations 11 to 15, 16, 17, 17A, 18A and 18C, where the Governor considers that it is appropriate to issue the licence for a purpose set out in Part 1ZA of Schedule 5,
 > - (b) in the case of acts which would otherwise be prohibited by regulation 17 (loans and credit arrangements), where the Governor considers that it is appropriate to issue the licence for a purpose set out in Part 1A (Loans and credit arrangements) of Schedule 5,
 > - (c) in the case of acts which would otherwise be prohibited by regulation 17A, where the Governor considers that it is appropriate to issue the licence for a purpose set out in Part 1B (Correspondent banking relationships etc.) of Schedule 5,
-> - (d) in the case of acts which would otherwise be prohibited by regulation 17A(2) (processing payments)[^key-896af77fd3b1780a11b6520032fd9a3a], where the Governor considers that it is appropriate to issue the licence for a purpose set out in Part 1C (Processing payments)[^key-c481833db302272a7ebc7f99012981f5] of Schedule 5,
-> - (e) in the case of acts which would otherwise be prohibited by regulation 18 (investments in relation to non-government controlled Ukrainian territory), where the Governor considers that it is appropriate to issue the licence for a purpose set out in Part 2 (Investment in non-government controlled Ukrainian territory) of Schedule 5, [^key-eb7ce14f713562859d2b33918cdd4227]...
-> - (f) in the case of acts which would otherwise be prohibited by regulation 18A (provision of financial services relating to foreign exchange reserve and asset management), where the Governor considers that it is appropriate to issue the licence for a purpose set out in Part 1D (Foreign exchange reserve and asset management services) of Schedule 5, [^key-cfbe67630631db980dca558b0aff5b91]...
-> - (g)[^key-01ce654868ade8d293e4a1abccb4968c] in the case of acts which would otherwise be prohibited by regulation 18B (investments in relation to Russia), where the Governor considers that it is appropriate to issue the licence for a purpose set out in Part 3 of Schedule 5 , and[^key-91dc08ab785a9f755f0626b98f74d926]
-> - (ga)[^key-e8130e46c465b389b1d841281fc7fa2f] in the case of acts which would otherwise be prohibited by regulation 18C (trust services), where the Governor considers that it is appropriate to issue the licence for a purpose set out in Part 3A of Schedule 5, and
-> - (h)[^key-379ad8dd42d760583ea8c57b07f80ee6] in the case of acts which would otherwise be prohibited by regulations 46Z9B to 46Z9D (maritime transportation of certain oil and oil products), where the Governor considers that it is appropriate to issue the licence for the purpose set out in Part 4 (maritime transportation of certain oil and oil products) of Schedule 5.
+> - (d) in the case of acts which would otherwise be prohibited by regulation 17A(2) (processing payments)[^c-896af77fd3b1780a11b6520032fd9a3a], where the Governor considers that it is appropriate to issue the licence for a purpose set out in Part 1C (Processing payments)[^c-c481833db302272a7ebc7f99012981f5] of Schedule 5,
+> - (e) in the case of acts which would otherwise be prohibited by regulation 18 (investments in relation to non-government controlled Ukrainian territory), where the Governor considers that it is appropriate to issue the licence for a purpose set out in Part 2 (Investment in non-government controlled Ukrainian territory) of Schedule 5, [^c-eb7ce14f713562859d2b33918cdd4227]...
+> - (f) in the case of acts which would otherwise be prohibited by regulation 18A (provision of financial services relating to foreign exchange reserve and asset management), where the Governor considers that it is appropriate to issue the licence for a purpose set out in Part 1D (Foreign exchange reserve and asset management services) of Schedule 5, [^c-cfbe67630631db980dca558b0aff5b91]...
+> - (g)[^c-01ce654868ade8d293e4a1abccb4968c] in the case of acts which would otherwise be prohibited by regulation 18B (investments in relation to Russia), where the Governor considers that it is appropriate to issue the licence for a purpose set out in Part 3 of Schedule 5 , and[^c-91dc08ab785a9f755f0626b98f74d926]
+> - (ga)[^c-e8130e46c465b389b1d841281fc7fa2f] in the case of acts which would otherwise be prohibited by regulation 18C (trust services), where the Governor considers that it is appropriate to issue the licence for a purpose set out in Part 3A of Schedule 5, and
+> - (h)[^c-379ad8dd42d760583ea8c57b07f80ee6] in the case of acts which would otherwise be prohibited by regulations 46Z9B to 46Z9D (maritime transportation of certain oil and oil products), where the Governor considers that it is appropriate to issue the licence for the purpose set out in Part 4 (maritime transportation of certain oil and oil products) of Schedule 5.
 >
 > (4) Part A1 (Interpretation) of Schedule 5 has effect for the interpretation of terms in that Schedule.
 >
 > (5) The Governor may issue a financial sanctions licence only with the consent of the Secretary of State.
 
-**39.**[^key-feeb14f77fbc77f65b57f40ca3b43a3f] In regulation 65 (trade licences)—
+**39.**[^c-feeb14f77fbc77f65b57f40ca3b43a3f] In regulation 65 (trade licences)—
 
 - (a) the existing text becomes paragraph (1);
 - (b) in that paragraph, for “Secretary of State” substitute “ Governor ”;
@@ -1102,7 +1102,7 @@ Article 2
 
   > (2) The Governor may issue a licence under paragraph (1) only with the consent of the Secretary of State.
 
-**39A.**[^key-203bec8c5d3019b602417993b436458d] In regulation 65A (aircraft licences)—
+**39A.**[^c-203bec8c5d3019b602417993b436458d] In regulation 65A (aircraft licences)—
 
 - (a) the existing text becomes paragraph (1);
 - (b) in that paragraph, for “Secretary of State” substitute “Governor”;
@@ -1110,14 +1110,14 @@ Article 2
 
   > (2) The Governor may issue a licence under paragraph (1) only with the consent of the Secretary of State.
 
-**40.**[^key-18282a6ef726a2b0a8532549d307a8ab] In regulation 66 (licences: general provisions)—
+**40.**[^c-18282a6ef726a2b0a8532549d307a8ab] In regulation 66 (licences: general provisions)—
 
 - (a) in paragraph (1), for “Treasury licences” substitute “ financial sanctions licences ”;
 - (b) in paragraph (5), after “a licence may” insert “ , with the consent of the Secretary of State, ”.
 
-**41.**[^key-f01823171089c93ab7f7a866750d556f] In regulation 67 (finance: licensing offences), for “Treasury licence”, in both places it occurs, substitute “ financial sanctions licence ”.
+**41.**[^c-f01823171089c93ab7f7a866750d556f] In regulation 67 (finance: licensing offences), for “Treasury licence”, in both places it occurs, substitute “ financial sanctions licence ”.
 
-**42.**[^key-bb9e810f679eb851310ad259c127cfda] For regulation 69 (section 8B(1) to (3) of Immigration Act 1971: directions) substitute—
+**42.**[^c-bb9e810f679eb851310ad259c127cfda] For regulation 69 (section 8B(1) to (3) of Immigration Act 1971: directions) substitute—
 
 > **69. Immigration directions**
 >
@@ -1134,14 +1134,14 @@ Article 2
 >
 > (5) In this regulation, “**specified**” means specified in a direction under this regulation.
 
-**43.**[^key-2753f203b5eca2531311bb89cff03f4d] In regulation 70 (finance: reporting obligations)—
+**43.**[^c-2753f203b5eca2531311bb89cff03f4d] In regulation 70 (finance: reporting obligations)—
 
 - (a) for “Treasury”, in each place it occurs, substitute “ Governor ”;
 - (b) for paragraph (5) substitute—
 
   > (5) A relevant institution must inform the Governor without delay if that institution credits a frozen account in accordance with regulation 58(4) (finance: exceptions from prohibitions).
 
-**43A.**[^key-36bbdff6f19aa80e68ae677ffb866905] In regulation 70A (designated persons: reporting obligations)—
+**43A.**[^c-36bbdff6f19aa80e68ae677ffb866905] In regulation 70A (designated persons: reporting obligations)—
 
 - (a) for “Treasury”, in each place it occurs, substitute “Governor”;
 - (b) in paragraph (1), for “United Kingdom person” substitute “Territory person”;
@@ -1149,12 +1149,12 @@ Article 2
   - (i) in the opening words, for “United Kingdom person” substitute “Territory person”;
   - (ii) in sub-paragraph (a), for “United Kingdom” substitute “Territory”.
 
-**43A.**[^key-3746b7507ebde209e98246020aa3f748] In regulation 70ZA (finance: reporting obligations for required payments)—
+**43A.**[^c-3746b7507ebde209e98246020aa3f748] In regulation 70ZA (finance: reporting obligations for required payments)—
 
 - (a) in paragraphs (1), (2) and (3), for “Treasury” substitute “Governor”;
 - (b) in paragraph (5), for “58A(8)”, in both places it occurs, substitute “58A(7)”.
 
-**44.**[^key-b198bd83e7a18d8a7ac278fb8d4455bf] For regulation 71 (“relevant firm”) substitute—
+**44.**[^c-b198bd83e7a18d8a7ac278fb8d4455bf] For regulation 71 (“relevant firm”) substitute—
 
 > **71.** (1) The following are relevant firms for the purposes of regulation 70 (finance: reporting obligations)—
 >
@@ -1168,14 +1168,14 @@ Article 2
 >   - (ii) advice about tax affairs,
 >   - (iii) auditing services,
 >   - (iv) legal or notarial services, or
->   - (v)[^key-ca592cad8afd71153295d882cd2184db] company services, or
+>   - (v)[^c-ca592cad8afd71153295d882cd2184db] company services, or
 >   - (vi) trust services;
 > - (d) a firm or sole practitioner that carries out, or whose employees carry out, estate agency work;
 > - (e) the holder of a licence to operate a casino in the Territory;
 > - (f) a person engaged in the business of making, supplying, selling (including selling by auction) or exchanging—
 >   - (i) articles made from gold, silver, platinum or palladium, or
 >   - (ii) precious stones or pearls;
-> - (g)[^key-0c85198e3ad0f3608074247ad1197efe] a cryptoasset exchange provider;
+> - (g)[^c-0c85198e3ad0f3608074247ad1197efe] a cryptoasset exchange provider;
 > - (h) a custodian wallet provider;
 > - (i) a high value dealer;
 > - (j) an art market participant;
@@ -1184,21 +1184,21 @@ Article 2
 >
 > (2) For the purposes of paragraph (1), the following definitions apply—
 >
-> - “[^key-37e02a3514650060066d65f45dea678e]**company services**” means any of the following services—
+> - “[^c-37e02a3514650060066d65f45dea678e]**company services**” means any of the following services—
 >   - (a) forming companies or other legal persons;
 >   - (b) acting, or arranging for another person to act—
 >     - (i) as a director or secretary of a company,
 >     - (ii) as a partner of a partnership, or
 >     - (iii) in a similar capacity in relation to other legal persons;
 >   - (c) providing a registered office, business address, correspondence or administrative address or other related services for a company, partnership or any other legal person or arrangement;
->   - (d) acting, or arranging for another person to act, as a nominee shareholder for a person (other than acting as a nominee shareholder within the meaning of regulation 18C(8) (trust services))[^key-c280b535c6acfcaec9f4c3f473bfe5bb];
+>   - (d) acting, or arranging for another person to act, as a nominee shareholder for a person (other than acting as a nominee shareholder within the meaning of regulation 18C(8) (trust services))[^c-c280b535c6acfcaec9f4c3f473bfe5bb];
 > - “**estate agency work**”, in relation to the Territory, is to be read in accordance with section 1 of the Estate Agents Act 1979 [^c24388531], but as if references in that section to disposing of or acquiring an interest in land included (despite anything in section 2 of that Act) references to disposing of or acquiring an estate or interest in land outside the Territory where that estate or interest is capable of being owned or held as a separate interest;
 > - “**firm**” means any entity that, whether or not a legal person, is not an individual, and includes a body corporate and a partnership or other unincorporated body;
 > - “**relevant institution**” has the same meaning as it has in regulation 58;
-> - [^key-aa65ee7abf47b8b9de1e71dbc3380654]...
+> - [^c-aa65ee7abf47b8b9de1e71dbc3380654]...
 > - “**trust services**” has the meaning given in regulation 18C(7) (trust services).
 >
-> (2A)[^key-03ce21134c6a95048f5ffc0e7ac3bb09] In paragraph (1), a “**cryptoasset exchange provider**” means a firm or sole practitioner that by way of business provides one or more of the following services, including where the firm or sole practitioner does so as creator or issuer of any of the cryptoassets involved—
+> (2A)[^c-03ce21134c6a95048f5ffc0e7ac3bb09] In paragraph (1), a “**cryptoasset exchange provider**” means a firm or sole practitioner that by way of business provides one or more of the following services, including where the firm or sole practitioner does so as creator or issuer of any of the cryptoassets involved—
 >
 > - (a) exchanging, or arranging or making arrangements with a view to the exchange of, cryptoassets for money or money for cryptoassets,
 > - (b) exchanging, or arranging or making arrangements with a view to the exchange of, one cryptoasset for another, or
@@ -1275,13 +1275,13 @@ Article 2
 >
 > (3) For the purposes of regulation 70(1), information or another matter comes to a relevant firm “in the course of carrying on its business” if the information or other matter comes to the firm—
 >
-> - (a) in the case of a relevant firm within paragraph (1)(a), in the course of carrying on an activity in respect of which permission under Part 4A of the Financial Services and Markets Act 2000 would be required if it had its registered office (or if it does not have one, its head office) in the United Kingdom, [^key-d55931f90e01f7dcea2cb9962a5352de]...
-> - (aa)[^key-617c25886c4ecef74068c31598af5a2b] in the case of a relevant firm within paragraph (1)(j)—
+> - (a) in the case of a relevant firm within paragraph (1)(a), in the course of carrying on an activity in respect of which permission under Part 4A of the Financial Services and Markets Act 2000 would be required if it had its registered office (or if it does not have one, its head office) in the United Kingdom, [^c-d55931f90e01f7dcea2cb9962a5352de]...
+> - (aa)[^c-617c25886c4ecef74068c31598af5a2b] in the case of a relevant firm within paragraph (1)(j)—
 >   - (i) in the course of trading, or acting as an intermediary in the sale or purchase of, works of art when the value of the transaction, or a series of linked transactions, amounts to 10,000 euros or more, or
 >   - (ii) in the course of storing works of art where the value of the works of art so stored for a person amounts to 10,000 euros or more, and
 > - (b) in the case of a relevant firm within any other provision of paragraph (1), in the course of carrying on an activity mentioned in that provision.
 
-**45.**[^key-db3ce1b6b7abc77f6036700ea6be8025] In regulation 72 (finance: powers to request information)—
+**45.**[^c-db3ce1b6b7abc77f6036700ea6be8025] In regulation 72 (finance: powers to request information)—
 
 - (a) in paragraph (1), for “The Treasury” substitute “ An authorised officer ”;
 - (b) in paragraph (2)—
@@ -1302,7 +1302,7 @@ Article 2
 - (g) in paragraph (8), for “The Treasury” substitute “ The authorised officer ”;
 - (h) in paragraph (10), for “the Treasury”, in both places it occurs, substitute “ the authorised officer ”.
 
-**46.**[^key-81cbf6504a27e645d93bc76cf362baba] In regulation 73 (finance: production of documents)—
+**46.**[^c-81cbf6504a27e645d93bc76cf362baba] In regulation 73 (finance: production of documents)—
 
 - (a) in paragraph (2), for “the Treasury request that documents be produced, the Treasury” substitute “ an authorised officer requests that documents be produced, the authorised officer ”;
 - (b) for paragraph (3), substitute—
@@ -1312,9 +1312,9 @@ Article 2
   > - (a) take reasonable steps to obtain the documents (if they are not already in the person's possession or control);
   > - (b) keep the documents under the person's possession or control (except for the purpose of providing them to the authorised officer or as the authorised officer may otherwise permit).
 
-**47.**[^key-a2a934ceafa28240d5d11ac10e3d2730] In regulation 74 (finance: information offences), in paragraph (1)(d), for “the Treasury” substitute “ an authorised officer ”.
+**47.**[^c-a2a934ceafa28240d5d11ac10e3d2730] In regulation 74 (finance: information offences), in paragraph (1)(d), for “the Treasury” substitute “ an authorised officer ”.
 
-**48.**[^key-c74af3e0de6211cfbba4e3c973643188] For regulation 75 (trade: application of information powers in CEMA) substitute—
+**48.**[^c-c74af3e0de6211cfbba4e3c973643188] For regulation 75 (trade: application of information powers in CEMA) substitute—
 
 > **75. Trade: information powers**
 >
@@ -1346,10 +1346,10 @@ Article 2
 >
 > (8) For the purposes of paragraph (1), a “**relevant activity**” means an activity—
 >
-> - (a) which would, unless done under the authority of a trade licence, constitute a contravention of any prohibition in Chapters 2 to 6 and Chapter 6B[^key-4881916f625fe823632c397c920d8de6] of Part 5 (Trade), or
+> - (a) which would, unless done under the authority of a trade licence, constitute a contravention of any prohibition in Chapters 2 to 6 and Chapter 6B[^c-4881916f625fe823632c397c920d8de6] of Part 5 (Trade), or
 > - (b) which would constitute a contravention of the prohibition in regulation 55 (circumventing etc. prohibitions).
 
-**49.**[^key-d6ac2922ca39574f5854fa5ae75214fc] After regulation 75 (trade: information powers) insert—
+**49.**[^c-d6ac2922ca39574f5854fa5ae75214fc] After regulation 75 (trade: information powers) insert—
 
 > **75A. Trade: information offences**
 >
@@ -1362,17 +1362,17 @@ Article 2
 >
 > (2) Where a person is convicted of an offence under this regulation, the court may make an order requiring that person, within such period as may be specified in the order, to comply with the request.
 
-**50.**[^key-85f42f34dff6dc5fd92bd9ad2416e7aa] In regulation 76(4) (general trade licences: records), for “Secretary of State” substitute “ Governor ”.
+**50.**[^c-85f42f34dff6dc5fd92bd9ad2416e7aa] In regulation 76(4) (general trade licences: records), for “Secretary of State” substitute “ Governor ”.
 
-**51.**[^key-306bd266ba07eb95872536bedd4a5e59] In regulation 77 (general trade licences: inspection of records)—
+**51.**[^c-306bd266ba07eb95872536bedd4a5e59] In regulation 77 (general trade licences: inspection of records)—
 
 - (a) in paragraph (1), for “A person authorised by the Secretary of State or the Commissioners (an “official”)” substitute “ An authorised officer ”;
 - (b) in paragraphs (2) to (5), for “official”, in each place it occurs, substitute “ authorised officer ”;
 - (c) in paragraph (5)(a), for “official's functions” substitute “ authorised officer's functions ”.
 
-**52.**[^key-b09b51e42fd38673ba94f6552a2514c8] In regulation 78 (disclosure of information)—
+**52.**[^c-b09b51e42fd38673ba94f6552a2514c8] In regulation 78 (disclosure of information)—
 
-- (a)[^key-173cea6a83ad7a4fec7f0fdc474a6dab] in paragraph (1), for “Secretary of State, the Treasury, OFCOM or the Commissioners” substitute “Governor or an authorised officer”;
+- (a)[^c-173cea6a83ad7a4fec7f0fdc474a6dab] in paragraph (1), for “Secretary of State, the Treasury, OFCOM or the Commissioners” substitute “Governor or an authorised officer”;
 - (b) in paragraph (2)—
   - (i) after sub-paragraph (c) insert—
 
@@ -1382,12 +1382,12 @@ Article 2
   - (ii) in sub-paragraph (d)—
     - (aa) in paragraph (i), after “Regulations” insert “ (as they have effect in the United Kingdom) ”;
     - (bb) in paragraph (ii), after “any prohibition in Part 5 on imports or exports” insert “ (as it has effect in the United Kingdom) ”;
-    - (cc)[^key-053915bf045ee9e4780baddb46a9f46d] in paragraph (v), for “Treasury: power to impose monetary penalties” substitute “power to impose monetary penalties”;
+    - (cc)[^c-053915bf045ee9e4780baddb46a9f46d] in paragraph (v), for “Treasury: power to impose monetary penalties” substitute “power to impose monetary penalties”;
   - (iii) in sub-paragraph (e), after “any British overseas territory” insert “ other than the Territory ”;
   - (iv) in sub-paragraph (g), for “United Kingdom” substitute “ Territory ”;
 - (c) in paragraph (3)(j), for “Secretary of State, the Treasury or the Commissioners (as the case may be) consider” substitute “ Governor considers ”.
 
-**52A.**[^key-cc6feecda4fc3cf9c4f3011d7500bc5f] For regulation 78A (finance: disclosure to the Treasury) substitute—
+**52A.**[^c-cc6feecda4fc3cf9c4f3011d7500bc5f] For regulation 78A (finance: disclosure to the Treasury) substitute—
 
 > **78A. Finance: disclosure to the Governor**
 >
@@ -1402,7 +1402,7 @@ Article 2
 
 .
 
-**53.**[^key-2a0f48ebb7b477d8bd7353028a6d37ab] In regulation 79 (Part 8: supplementary)—
+**53.**[^c-2a0f48ebb7b477d8bd7353028a6d37ab] In regulation 79 (Part 8: supplementary)—
 
 - (a) for paragraph (2) substitute—
 
@@ -1417,7 +1417,7 @@ Article 2
   ;
 - (d) in paragraph (6), in the definition of “privileged information”, omit “(in Scotland, to confidentiality of communications)”.
 
-**54.**[^key-608b792d00907a9c9de2495a1cf1edb0] In Part 9 (Enforcement), at the beginning insert—
+**54.**[^c-608b792d00907a9c9de2495a1cf1edb0] In Part 9 (Enforcement), at the beginning insert—
 
 > **79A. Suspected ships, aircraft or vehicles**
 >
@@ -1507,7 +1507,7 @@ Article 2
 > - “**prohibited goods**” means goods which have been, or are being, dealt with in contravention of any prohibition in Chapters 2 to 5 of Part 5 (Trade);
 > - “**relevant offence**” means an offence which is punishable with a term of imprisonment of more than 6 months.
 
-**55.**[^key-0fba52ca6610da39c7d0f766b0b8eace] For regulation 80 (penalties for offences) substitute—
+**55.**[^c-0fba52ca6610da39c7d0f766b0b8eace] For regulation 80 (penalties for offences) substitute—
 
 > **80.** (1) Paragraphs (3) to (8) apply to—
 >
@@ -1547,7 +1547,7 @@ Article 2
 > - (a) on summary conviction, to a fine not exceeding £50,000 or its equivalent in the currency of the Territory;
 > - (b) on conviction on indictment, to a fine.
 >
-> (7) A person who commits an offence under regulation 57B(6) (directions prohibiting port entry: confidentiality), 57C(5) (movement of ships: confidentiality), 57N(5) (aircraft: confidentiality), 70(6) , 70A(6)[^key-e87840b5aaa1f8cff26aade04b382044] or 74 (information offences in connection with Part 3) is liable, on summary conviction, to imprisonment for a term not exceeding 6 months, or a fine not exceeding £5,000 or its equivalent in the currency of the Territory, or both.
+> (7) A person who commits an offence under regulation 57B(6) (directions prohibiting port entry: confidentiality), 57C(5) (movement of ships: confidentiality), 57N(5) (aircraft: confidentiality), 70(6) , 70A(6)[^c-e87840b5aaa1f8cff26aade04b382044] or 74 (information offences in connection with Part 3) is liable, on summary conviction, to imprisonment for a term not exceeding 6 months, or a fine not exceeding £5,000 or its equivalent in the currency of the Territory, or both.
 >
 > (8) A person who commits an offence under regulation 75A (trade: information offences) is liable, on summary conviction, to a fine not exceeding £1,000 or its equivalent in the currency of the Territory.
 >
@@ -1565,14 +1565,14 @@ Article 2
 >
 > (15) Where a fine in this regulation is expressed to be a sum in sterling or its equivalent in the currency of the Territory, the Governor may issue guidance specifying how to calculate the amount in the currency of the Territory which is to be considered equivalent to that sum in sterling.
 
-**56.**[^key-c0230553762dd1e13fd4c7b8aba27026] In regulation 81 (liability of officers of bodies corporate etc.), omit paragraph (4).
+**56.**[^c-c0230553762dd1e13fd4c7b8aba27026] In regulation 81 (liability of officers of bodies corporate etc.), omit paragraph (4).
 
-**57.**[^key-f23aeb8c39f8879d6eca4e4d341dc7a8] In regulation 82 (jurisdiction to try offences)—
+**57.**[^c-f23aeb8c39f8879d6eca4e4d341dc7a8] In regulation 82 (jurisdiction to try offences)—
 
 - (a) in paragraphs (1) and (2), for “United Kingdom”, in each place it occurs, substitute “ Territory ”;
 - (b) omit paragraphs (3) and (4).
 
-**58.**[^key-9756826cf5005019104c9dba5eebfc29] After regulation 82 (jurisdiction to try offences), insert—
+**58.**[^c-9756826cf5005019104c9dba5eebfc29] After regulation 82 (jurisdiction to try offences), insert—
 
 > **82A. Consent to prosecutions**
 >
@@ -1583,35 +1583,35 @@ Article 2
 > - (a) the arrest, or the issue or execution of a warrant for the arrest, of any person in respect of an offence under these Regulations, or
 > - (b) the remand in custody or on bail of any person charged with such an offence.
 
-**59.**[^key-41fbec7f09ac50f6d5ac88c556d5ca98] For regulation 83 (procedure for offences by unincorporated bodies) substitute—
+**59.**[^c-41fbec7f09ac50f6d5ac88c556d5ca98] For regulation 83 (procedure for offences by unincorporated bodies) substitute—
 
 > **83.** Any provision in an enactment which applies in the Territory in relation to criminal proceedings brought against a body corporate, applies also for the purposes of proceedings in the Territory for an offence under these Regulations brought against an unincorporated body.
 
-**60.**[^key-b60e2d439c9ec40764683c344a7210be] In regulation 84 (time limit for proceedings for summary offences), omit paragraph (4).
+**60.**[^c-b60e2d439c9ec40764683c344a7210be] In regulation 84 (time limit for proceedings for summary offences), omit paragraph (4).
 
-**61.**[^key-67c7b69e634f3803af13c7642099ad44] Omit regulation 85 (trade enforcement: application of CEMA) (including the heading).
+**61.**[^c-67c7b69e634f3803af13c7642099ad44] Omit regulation 85 (trade enforcement: application of CEMA) (including the heading).
 
-**62.**[^key-fadafa03a554cd1058eb81a9da09a98d] Omit regulation 86 (trade offences in CEMA: modification of penalty) (including the heading).
+**62.**[^c-fadafa03a554cd1058eb81a9da09a98d] Omit regulation 86 (trade offences in CEMA: modification of penalty) (including the heading).
 
-**63.**[^key-a33a1293080127e4c77754aae3ca6080] Omit regulation 87 (application of Chapter 1 of Part 2 of the Serious Organised Crime and Police Act 2005 [^c24388541]) (including the heading).
+**63.**[^c-a33a1293080127e4c77754aae3ca6080] Omit regulation 87 (application of Chapter 1 of Part 2 of the Serious Organised Crime and Police Act 2005 [^c24388541]) (including the heading).
 
-**64.**[^key-17f443b9fb538322c79b4cd867919a51][^key-da7b98519cc25e1fa8567fdb05a6c35a] (1) Omit regulation 88 (monetary penalties) (including the heading).
+**64.**[^c-17f443b9fb538322c79b4cd867919a51][^c-da7b98519cc25e1fa8567fdb05a6c35a] (1) Omit regulation 88 (monetary penalties) (including the heading).
 
 (2) Omit regulation 88A (OFCOM: power to impose monetary penalties) (including the heading).
 
 (3) Omit regulation 88B (OFCOM: monetary penalties: procedural rights) (including the heading).
 
-**64A.**[^key-9cfcc9d93149e3e55c1b26230366254a] In regulation 88C (Treasury: power to impose monetary penalties)—
+**64A.**[^c-9cfcc9d93149e3e55c1b26230366254a] In regulation 88C (Treasury: power to impose monetary penalties)—
 
 - (a) in the heading, for “Treasury: power to impose monetary penalties” substitute “power to impose monetary penalties”;
-- (b) in paragraphs (1), (1A),[^key-2c62e6de0894998790c73c9104c4f84f] (1B),[^key-bd44c5d6c8b5e5e85f1533fbb1985f1d] (3) , (3A)[^key-6f3fa48b3c2bed2bee326db5a8e9c46d] and (10), for “The Treasury” substitute “The Governor or an authorised person”;
+- (b) in paragraphs (1), (1A),[^c-2c62e6de0894998790c73c9104c4f84f] (1B),[^c-bd44c5d6c8b5e5e85f1533fbb1985f1d] (3) , (3A)[^c-6f3fa48b3c2bed2bee326db5a8e9c46d] and (10), for “The Treasury” substitute “The Governor or an authorised person”;
 - (c) in paragraphs (5), (8), and 10(b), for “the Treasury” substitute “the Governor or the authorised person”;
 - (d) in paragraph 6(a), after “£1,000,000,” insert “or its equivalent in the currency of the Territory,”;
-- (da)[^key-28d3844474c3507436a109548b8c9437] in paragraph (6A)—
+- (da)[^c-28d3844474c3507436a109548b8c9437] in paragraph (6A)—
   - (i) for “the Treasury have”, in both places it occurs, substitute “the Governor has”;
   - (ii) in sub-paragraph (a), after “£1,000,000”, insert “or its equivalent in the currency of the Territory”;
 - (e) in paragraph (7), after “£1,000,000” insert “, or its equivalent in the currency of the Territory”;
-- (f)[^key-524dc5a7824d5ed538fbccf49c4a0624] for paragraph (9) substitute—
+- (f)[^c-524dc5a7824d5ed538fbccf49c4a0624] for paragraph (9) substitute—
 
   > (9) Any monetary penalty imposed in the Territory must be paid into the account determined by the competent authority in the Territory.
 
@@ -1628,7 +1628,7 @@ Article 2
 >
 > (1) Before imposing a monetary penalty on a person under regulation 88C, the Governor or an authorised person must inform the person of the intention to do so.
 >
-> (2) The Governor or the authorised person[^key-d872c94456361d1bfe2d1f7e422a1d37] must also—
+> (2) The Governor or the authorised person[^c-d872c94456361d1bfe2d1f7e422a1d37] must also—
 >
 > - (a) explain the grounds for imposing the penalty;
 > - (b) specify the amount of the penalty;
@@ -1638,7 +1638,7 @@ Article 2
 > (3) If (having considered any representations), the Governor or an authorised person decides to impose the penalty, the Governor or the authorised person must—
 >
 > - (a) inform the person of the decision; and
-> - (b) explain that the person is entitled to appeal (on any ground) to the Supreme Court of the Territory[^key-ef8cb8072ff94acb0d8c12b8656156ed].
+> - (b) explain that the person is entitled to appeal (on any ground) to the Supreme Court of the Territory[^c-ef8cb8072ff94acb0d8c12b8656156ed].
 >
 > (4) On an appeal under paragraph 3(b), the Supreme Court of the Territory may—
 >
@@ -1650,7 +1650,7 @@ Article 2
 > - “**authorised person**” has the same meaning as it has in regulation 88C (power to impose monetary penalties);
 > - “ **Supreme Court of the Territory**” has the same meaning as it has in regulation 9 (confidential information in certain cases).
 
-**65.**[^key-e43cf5ff5fd10251e21f0f8c18f4d221] In regulation 89 (exercise of maritime enforcement powers)—
+**65.**[^c-e43cf5ff5fd10251e21f0f8c18f4d221] In regulation 89 (exercise of maritime enforcement powers)—
 
 - (a) for paragraph (1) substitute—
 
@@ -1662,7 +1662,7 @@ Article 2
 
   > (6) In this Part, “**a relevant ship**” means, in relation to the Territory, a Territory ship.
 
-**66.**[^key-65b35b180a942a658e6dc4b07db79ce0] For regulation 90 (maritime enforcement officers)—
+**66.**[^c-65b35b180a942a658e6dc4b07db79ce0] For regulation 90 (maritime enforcement officers)—
 
 - (a) in paragraph (1)—
   - (i) omit sub-paragraphs (b), (d), (e), (f) and (h);
@@ -1678,23 +1678,23 @@ Article 2
     ;
 - (b) omit paragraph (2).
 
-**67.**[^key-10f1e4dff1eeac985d6fd637c544efba] In regulation 91(2)(c) (power to stop, board, search etc.), for “United Kingdom” substitute “ Territory ”.
+**67.**[^c-10f1e4dff1eeac985d6fd637c544efba] In regulation 91(2)(c) (power to stop, board, search etc.), for “United Kingdom” substitute “ Territory ”.
 
-**68.**[^key-c3c9bf30d907d9c1362d2af3e64a51e3] Omit regulation 93 (restrictions on exercise of maritime enforcement powers) (including the heading).
+**68.**[^c-c3c9bf30d907d9c1362d2af3e64a51e3] Omit regulation 93 (restrictions on exercise of maritime enforcement powers) (including the heading).
 
-**69.**[^key-4ac5b781c0865d3f3e6ebd1191b401f1] In regulation 95 (notices), for “United Kingdom”, in each place it occurs, substitute “ Territory ”.
+**69.**[^c-4ac5b781c0865d3f3e6ebd1191b401f1] In regulation 95 (notices), for “United Kingdom”, in each place it occurs, substitute “ Territory ”.
 
-**70.**[^key-69ebfd76ac1cc89cc2fbfebaaa628bd9] Omit regulation 96 (article 20 of the Export Control Order 2008) (including the heading).
+**70.**[^c-69ebfd76ac1cc89cc2fbfebaaa628bd9] Omit regulation 96 (article 20 of the Export Control Order 2008) (including the heading).
 
-**71.**[^key-2d36b37439983e32f26c47bcb9b2940b] Omit regulation 97 (trade: overlapping offences) (including the heading).
+**71.**[^c-2d36b37439983e32f26c47bcb9b2940b] Omit regulation 97 (trade: overlapping offences) (including the heading).
 
-**71A.**[^key-1a84828da05832910e9dbf73b1b8d65a] Omit regulation 97A.
+**71A.**[^c-1a84828da05832910e9dbf73b1b8d65a] Omit regulation 97A.
 
-**72.**[^key-2174d36d4434a0740aaccaa9c2ae6000] Omit regulation 98 (revocation of relevant retained EU law) (including the heading).
+**72.**[^c-2174d36d4434a0740aaccaa9c2ae6000] Omit regulation 98 (revocation of relevant retained EU law) (including the heading).
 
-**73.**[^key-d477362823c13ead3dc9927e4958c383] Omit regulation 99 (other revocations and amendments) (including the heading).
+**73.**[^c-d477362823c13ead3dc9927e4958c383] Omit regulation 99 (other revocations and amendments) (including the heading).
 
-**74.**[^key-c9db7bb664dd997076c66a3782324bf5] In regulation 100 (transitional provision: Treasury licences)—
+**74.**[^c-c9db7bb664dd997076c66a3782324bf5] In regulation 100 (transitional provision: Treasury licences)—
 
 - (a) in the heading, for “Treasury licences” substitute “ financial sanctions licences ”;
 - (b) for “IP completion day”, wherever it occurs, substitute “ the relevant date ”;
@@ -1717,7 +1717,7 @@ Article 2
   >   - (a) The Ukraine (Sanctions) (Overseas Territories) (No. 3) Order 2014 [^c24388551];
   >   - (b) The Russia, Crimea and Sevastopol (Sanctions) (Overseas Territories) Order 2014 [^c24388561].
 
-**75.**[^key-9a1f7afa50479b3757f54e8fed5c38a0] For regulation 101 (transitional provision: trade licences) substitute—
+**75.**[^c-9a1f7afa50479b3757f54e8fed5c38a0] For regulation 101 (transitional provision: trade licences) substitute—
 
 > **101.** (1) Paragraphs (2) and (3) apply to a licence which—
 >
@@ -1736,7 +1736,7 @@ Article 2
 > - “**the 2014 Order**” means The Russia, Crimea and Sevastopol (Sanctions) (Overseas Territories) Order 2014;
 > - “**the relevant date**” means the date on which Part 5 comes into force.
 
-**76.**[^key-1f9b7c8cae24692022411fdfe14062a2] For regulation 102 (transitional provision: pending applications for trade licences) substitute—
+**76.**[^c-1f9b7c8cae24692022411fdfe14062a2] For regulation 102 (transitional provision: pending applications for trade licences) substitute—
 
 > **102.** (1) Paragraph (2) applies where—
 >
@@ -1751,7 +1751,7 @@ Article 2
 > - “**the 2014 Order**” has the meaning it has in regulation 101 (transitional provision: trade licences);
 > - “**the relevant date**” means the date on which Part 5 comes into force.
 
-**76A.**[^key-57904998c1e29d3675760584c25d0074] After regulation 102 (transitional provision: pending applications for trade licences) insert—
+**76A.**[^c-57904998c1e29d3675760584c25d0074] After regulation 102 (transitional provision: pending applications for trade licences) insert—
 
 > **102A. Transitional provision: Chapter 3 trade licences**
 >
@@ -1775,7 +1775,7 @@ Article 2
 >   - (b) which has effect as if it were a licence which had been issued by the Governor under regulation 65 in accordance with regulation 101(2) (transitional provision: trade licences);
 > - “**relevant time**” means the time at which the Russia (Sanctions) (EU Exit) (Amendment) (No. 3) Regulations 2022 come into force.
 
-**77.**[^key-459d6f1272a0b4a444d9956e0a3ea241] In regulation 103 (transitional provision: prior obligations)—
+**77.**[^c-459d6f1272a0b4a444d9956e0a3ea241] In regulation 103 (transitional provision: prior obligations)—
 
 - (a) in paragraph (1)(b), for “IP completion day”, substitute “ the relevant date ”;
 - (b) for paragraph (3), substitute—
@@ -1785,14 +1785,14 @@ Article 2
   > - “**designated person**” has the same meaning as it has in Chapter 1 of Part 3 (Finance);
   > - “**the relevant date**” means the date on which Part 3 comes into force.
 
-**78.**[^key-2ae019605524170cb7ab835d2da12ec2] In Schedule 5 (Treasury licences: purposes)—
+**78.**[^c-2ae019605524170cb7ab835d2da12ec2] In Schedule 5 (Treasury licences: purposes)—
 
 - (a) in the heading, for “Treasury licences” substitute “ Financial sanctions licences ”;
 - (b) in the shoulder note, for “Regulation 64(2)” substitute “ Regulation 64(3) ”;
-- (c) in the definition of “frozen funds or economic resources” in paragraph 1(1)[^key-7f87a8cadc16ab07348440595146aac7], for “the designation of that person for the purpose of that regulation” substitute “ that person being a designated person for the purposes of Part 3 (Finance) as defined in regulation 10 (meaning of “designated person” in Part 3) ”;
-- (d)[^key-38a995a1316e0f5c04d9781cbe19c047] in paragraph 6 (judicial decisions etc.), for “United Kingdom” substitute “Territory”;
-- (e)[^key-65beec3d7386dfe50b14381b557c6fe8] in paragraph 9D(2) (diplomatic missions etc.), for “diplomatic mission or consular post of Russia in the United Kingdom” substitute “consular post of Russia in the Territory”;
-- (ea)[^key-89294a749256f9ff9059f5fc4b64c613] in paragraph 9DA (interpretation of Part 1ZA)—
+- (c) in the definition of “frozen funds or economic resources” in paragraph 1(1)[^c-7f87a8cadc16ab07348440595146aac7], for “the designation of that person for the purpose of that regulation” substitute “ that person being a designated person for the purposes of Part 3 (Finance) as defined in regulation 10 (meaning of “designated person” in Part 3) ”;
+- (d)[^c-38a995a1316e0f5c04d9781cbe19c047] in paragraph 6 (judicial decisions etc.), for “United Kingdom” substitute “Territory”;
+- (e)[^c-65beec3d7386dfe50b14381b557c6fe8] in paragraph 9D(2) (diplomatic missions etc.), for “diplomatic mission or consular post of Russia in the United Kingdom” substitute “consular post of Russia in the Territory”;
+- (ea)[^c-89294a749256f9ff9059f5fc4b64c613] in paragraph 9DA (interpretation of Part 1ZA)—
   - (i) for the definition of “non-UK country” substitute—
 
     > - “**non-Territory country**” means a country that is not the Territory;
@@ -1820,7 +1820,7 @@ Article 2
     - (aa) for “non-UK credit or financial institution” substitute “non-Territory credit or financial institution”;
     - (bb) for “non-UK country” substitute “non-Territory country”;
   - (iii) in sub-paragraph (4)(c), for “non-UK country” substitute “non-Territory country”;
-- (ed)[^key-0d08e97d6f2bb835912599a13f2a643f] for paragraph 9DD (insolvency) substitute—
+- (ed)[^c-0d08e97d6f2bb835912599a13f2a643f] for paragraph 9DD (insolvency) substitute—
 
   > **9DD. Insolvency**
   >
@@ -1855,454 +1855,454 @@ Article 2
 - (i) in the heading of Part 1C (Sterling payments), at the end insert “etc.”;
 - (j) in paragraph 9S(2) (diplomatic missions etc.), for “diplomatic mission or consular post of Russia in the United Kingdom” substitute “consular post of Russia in the Territory”;
 - (k) in paragraph 9T (space), for “United Kingdom person” substitute “Territory person”;
-- (ka)[^key-cbd23fb7705083e7ee9604238103b065] in paragraph 9TA (other licensing purposes), for “Treasury” substitute “Governor”;
+- (ka)[^c-cbd23fb7705083e7ee9604238103b065] in paragraph 9TA (other licensing purposes), for “Treasury” substitute “Governor”;
 - (l) in paragraph 9V(2) (financial regulation), for “United Kingdom, including the Financial Conduct Authority, the Prudential Regulation Authority and the Bank of England” substitute “Territory”;
 - (m) in paragraph 9W (financial stability), for “Bank of England, that is necessary or expedient in order to protect or enhance the stability of the financial system of United Kingdom” substitute “central monetary authority for the Territory, that is necessary or expedient in order to protect or enhance the stability of the financial system of the Territory”;
 - (n) in paragraph 9X (safety and soundness of a firm), for “the relevant supervising authority or authorities, that is necessary or expedient in order to promote the safety and soundness of a firm which is supervised by the Bank of England, the Prudential Regulation Authority or the Financial Conduct Authority” substitute “the authority responsible for the regulation of financial services in the Territory, that is necessary or expedient in order to promote the safety and soundness of a firm which is supervised by that authority”.
-- (o)[^key-df471fdce54ec97b8d3565d2738a3634] in paragraph 18(2) (diplomatic missions etc.), for “diplomatic mission or consular post of Russia in the United Kingdom” substitute “consular post of Russia in the Territory”;
+- (o)[^c-df471fdce54ec97b8d3565d2738a3634] in paragraph 18(2) (diplomatic missions etc.), for “diplomatic mission or consular post of Russia in the United Kingdom” substitute “consular post of Russia in the Territory”;
 - (p) in paragraph 19 (safety and soundness of a firm), for “the relevant supervising authority or authorities, that is necessary or expedient in order to promote the safety and soundness of a firm which is supervised by the Bank of England, the Prudential Regulation Authority or the Financial Conduct Authority” substitute “the authority responsible for the regulation of financial services in the Territory, that is necessary or expedient in order to promote the safety and soundness of a firm which is supervised by that authority;”
 - (q) in paragraph 20 (space), for “United Kingdom person” substitute “Territory person”;
-- (r)[^key-f6db187b0c70b1340951ced8b301b5d3] in paragraph 20F (safety and soundness of a firm), for “the Bank of England, the Prudential Regulation Authority or the Financial Conduct Authority” substitute “the relevant authority of the Territory;
+- (r)[^c-f6db187b0c70b1340951ced8b301b5d3] in paragraph 20F (safety and soundness of a firm), for “the Bank of England, the Prudential Regulation Authority or the Financial Conduct Authority” substitute “the relevant authority of the Territory;
 - (s) for paragraph 20H (financial stability), substitute—
 
   > **20H.** To enable anything to be done by a person, following consultation by that person (or a person acting on their behalf) with the relevant financial authority of the Territory, that is necessary or expedient in order to protect or enhance the stability of the financial system of the Territory.
 
 ## Annotations
 
-[^key-5463a8b5118a6156eeaca94f56a871e4]: Commencement: Sch. 2 para. 1 comes into force in accordance with art. 1(1)
+[^c-5463a8b5118a6156eeaca94f56a871e4]: Commencement: Sch. 2 para. 1 comes into force in accordance with art. 1(1)
 
-[^key-963f0632f95783fb1f3fe9d3174f3868]: Commencement: Sch. 2 para. 2 comes into force in accordance with art. 1(1)
+[^c-963f0632f95783fb1f3fe9d3174f3868]: Commencement: Sch. 2 para. 2 comes into force in accordance with art. 1(1)
 
-[^key-2c14dfadb005ac4ba16c05adcab219c8]: Textual amendment: Words in [Sch. 2 para. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/2/b/i) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [3](https://www.legislation.gov.uk/uksi/2022/453/article/3)
+[^c-2c14dfadb005ac4ba16c05adcab219c8]: Textual amendment: Words in [Sch. 2 para. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/2/b/i) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [3](https://www.legislation.gov.uk/uksi/2022/453/article/3)
 
-[^key-16c4deceff5d6df48c0ebe4a3763bd7c]: Textual amendment: Words in [Sch. 2 para. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/2/b/i) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 1](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/1)
+[^c-16c4deceff5d6df48c0ebe4a3763bd7c]: Textual amendment: Words in [Sch. 2 para. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/2/b/i) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 1](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/1)
 
 [^c24388491]: Marginal citation: [1981 c.61](https://www.legislation.gov.uk/ukpga/1981/61). Part IV has been amended by the [British Overseas Territories Act 2002 (c.8)](https://www.legislation.gov.uk/ukpga/2002/8), [section 1(1)(b)](https://www.legislation.gov.uk/ukpga/2002/8/section/1/1/b); and the [Nationality, Immigration and Asylum Act 2002 (c.41)](https://www.legislation.gov.uk/ukpga/2002/41), [Schedule 2](https://www.legislation.gov.uk/ukpga/2002/41/schedule/2), [paragraph 1(i)](https://www.legislation.gov.uk/ukpga/2002/41/paragraph/1/i).
 
-[^key-6986021e213816f576dade3564ea8963]: Commencement: Sch. 2 para. 3 comes into force in accordance with art. 1(1)
+[^c-6986021e213816f576dade3564ea8963]: Commencement: Sch. 2 para. 3 comes into force in accordance with art. 1(1)
 
-[^key-69fa3e40ef1f182cde4c88341e4ae746]: Textual amendment: [Sch. 2 para. 3(f)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/3/f)[(g)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/3/g) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [4](https://www.legislation.gov.uk/uksi/2022/453/article/4)
+[^c-69fa3e40ef1f182cde4c88341e4ae746]: Textual amendment: [Sch. 2 para. 3(f)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/3/f)[(g)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/3/g) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [4](https://www.legislation.gov.uk/uksi/2022/453/article/4)
 
-[^key-f9617b27db761ccf260e3c9d8142d083]: Commencement: Sch. 2 para. 4 comes into force in accordance with art. 1(1)
+[^c-f9617b27db761ccf260e3c9d8142d083]: Commencement: Sch. 2 para. 4 comes into force in accordance with art. 1(1)
 
-[^key-c3d4f3e97ee984df50cd95383c6020ca]: Commencement: Sch. 2 para. 5 comes into force in accordance with art. 1(1)
+[^c-c3d4f3e97ee984df50cd95383c6020ca]: Commencement: Sch. 2 para. 5 comes into force in accordance with art. 1(1)
 
-[^key-0d16e8135df2edc92693bc7640120988]: Commencement: Sch. 2 para. 6 comes into force in accordance with art. 1(1)
+[^c-0d16e8135df2edc92693bc7640120988]: Commencement: Sch. 2 para. 6 comes into force in accordance with art. 1(1)
 
-[^key-141d1aca325558c26215cedc05dbb3c8]: Textual amendment: [Sch. 2 para. 6A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/6A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 2](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/2)
+[^c-141d1aca325558c26215cedc05dbb3c8]: Textual amendment: [Sch. 2 para. 6A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/6A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 2](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/2)
 
-[^key-505b21719f7da93f3bb429e04d62d611]: Commencement: Sch. 2 para. 7 comes into force in accordance with art. 1(1)
+[^c-505b21719f7da93f3bb429e04d62d611]: Commencement: Sch. 2 para. 7 comes into force in accordance with art. 1(1)
 
-[^key-cdf216d54b3ceb97a2dfd6676361ceee]: Textual amendment: [Sch. 2 para. 7A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/7A) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [5](https://www.legislation.gov.uk/uksi/2022/453/article/5)
+[^c-cdf216d54b3ceb97a2dfd6676361ceee]: Textual amendment: [Sch. 2 para. 7A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/7A) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [5](https://www.legislation.gov.uk/uksi/2022/453/article/5)
 
-[^key-a004da2cfc11841e05c11a2389935fd9]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/8) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [6](https://www.legislation.gov.uk/uksi/2022/453/article/6)
+[^c-a004da2cfc11841e05c11a2389935fd9]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/8) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [6](https://www.legislation.gov.uk/uksi/2022/453/article/6)
 
-[^key-a9d4addc6ef012ce796f1d97c912a254]: Commencement: Sch. 2 para. 9 comes into force in accordance with art. 1(1)
+[^c-a9d4addc6ef012ce796f1d97c912a254]: Commencement: Sch. 2 para. 9 comes into force in accordance with art. 1(1)
 
-[^key-e16a78774eaaeb27140a9223b567b8a5]: Textual amendment: [Sch. 2 para. 9A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/9A) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [7](https://www.legislation.gov.uk/uksi/2022/453/article/7)
+[^c-e16a78774eaaeb27140a9223b567b8a5]: Textual amendment: [Sch. 2 para. 9A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/9A) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [7](https://www.legislation.gov.uk/uksi/2022/453/article/7)
 
-[^key-87f7491bd68d19859266fbd2359c97a9]: Textual amendment: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/10) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [8](https://www.legislation.gov.uk/uksi/2022/453/article/8)
+[^c-87f7491bd68d19859266fbd2359c97a9]: Textual amendment: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/10) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [8](https://www.legislation.gov.uk/uksi/2022/453/article/8)
 
-[^key-b402bd058616b27ebac19a30dc7abdb8]: Commencement: Sch. 2 para. 11 comes into force in accordance with art. 1(1)
+[^c-b402bd058616b27ebac19a30dc7abdb8]: Commencement: Sch. 2 para. 11 comes into force in accordance with art. 1(1)
 
-[^key-7981f6efad32a7ef46ee5d6978ef31d6]: Textual amendment: [Sch. 2 para. 11(aa)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/11/aa) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [9](https://www.legislation.gov.uk/uksi/2022/453/article/9)
+[^c-7981f6efad32a7ef46ee5d6978ef31d6]: Textual amendment: [Sch. 2 para. 11(aa)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/11/aa) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [9](https://www.legislation.gov.uk/uksi/2022/453/article/9)
 
-[^key-58fea4d76fc102bd28904c61ccb3b7fe]: Commencement: Sch. 2 para. 12 comes into force in accordance with art. 1(1)
+[^c-58fea4d76fc102bd28904c61ccb3b7fe]: Commencement: Sch. 2 para. 12 comes into force in accordance with art. 1(1)
 
-[^key-9b0fe24d8460c8124c6c905a37d246c6]: Textual amendment: [Sch. 2 para. 12(b)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12/b) omitted (14.4.2022) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2022/453/article/10/a)
+[^c-9b0fe24d8460c8124c6c905a37d246c6]: Textual amendment: [Sch. 2 para. 12(b)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12/b) omitted (14.4.2022) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2022/453/article/10/a)
 
-[^key-b575ee563b85e3354cfcf08f68838762]: Textual amendment: [Sch. 2 para. 12(c)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12/c) omitted (14.4.2022) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2022/453/article/10/a)
+[^c-b575ee563b85e3354cfcf08f68838762]: Textual amendment: [Sch. 2 para. 12(c)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12/c) omitted (14.4.2022) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2022/453/article/10/a)
 
-[^key-43f4b72ea6fc38d3345fd922f39f1ec2]: Textual amendment: [Sch. 2 para. 12(d)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12/d)[(e)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12/e) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2022/453/article/10/b)
+[^c-43f4b72ea6fc38d3345fd922f39f1ec2]: Textual amendment: [Sch. 2 para. 12(d)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12/d)[(e)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12/e) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2022/453/article/10/b)
 
-[^key-70e611a3925f493ef7e9ebf9304d174c]: Textual amendment: [Sch. 2 paras. 12A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12A), [12B](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12B) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [11](https://www.legislation.gov.uk/uksi/2022/453/article/11)
+[^c-70e611a3925f493ef7e9ebf9304d174c]: Textual amendment: [Sch. 2 paras. 12A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12A), [12B](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12B) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [11](https://www.legislation.gov.uk/uksi/2022/453/article/11)
 
-[^key-e9437a6caa9d8bdd697b83d09f4214fc]: Textual amendment: Words in [Sch. 2 para. 12A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12A) substituted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/370/article/3/a)
+[^c-e9437a6caa9d8bdd697b83d09f4214fc]: Textual amendment: Words in [Sch. 2 para. 12A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12A) substituted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/370/article/3/a)
 
-[^key-adb032de4fc587a0dc33a28dfb5b6b72]: Textual amendment: [Sch. 2 para. 12A(b)(i)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12A/b/i) omitted (14.3.2024) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2024/370/article/3/b)
+[^c-adb032de4fc587a0dc33a28dfb5b6b72]: Textual amendment: [Sch. 2 para. 12A(b)(i)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12A/b/i) omitted (14.3.2024) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2024/370/article/3/b)
 
-[^key-ce3b1de19010b3d329a7d5a929921f2a]: Textual amendment: [Sch. 2 para. 12A(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12A/b/iv) omitted (14.3.2024) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2024/370/article/3/b)
+[^c-ce3b1de19010b3d329a7d5a929921f2a]: Textual amendment: [Sch. 2 para. 12A(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12A/b/iv) omitted (14.3.2024) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2024/370/article/3/b)
 
-[^key-3f52647562f414ded570cf1e14dcf3f2]: Textual amendment: [Sch. 2 para. 12A(c)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12A/c) omitted (14.3.2024) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2024/370/article/3/c)
+[^c-3f52647562f414ded570cf1e14dcf3f2]: Textual amendment: [Sch. 2 para. 12A(c)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12A/c) omitted (14.3.2024) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2024/370/article/3/c)
 
-[^key-8be0f0780596dfa1a5d01a0f9319cd30]: Textual amendment: Words in [Sch. 2 para. 12A(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12A/d/ii) omitted (14.3.2024) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2024/370/article/3/d)
+[^c-8be0f0780596dfa1a5d01a0f9319cd30]: Textual amendment: Words in [Sch. 2 para. 12A(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12A/d/ii) omitted (14.3.2024) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2024/370/article/3/d)
 
-[^key-11008f6765f27414102b3aeeebf3292c]: Textual amendment: [Sch. 2 para. 12AA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12AA) inserted (9.3.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2023 (S.I. 2023/291)](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [3](https://www.legislation.gov.uk/uksi/2023/291/article/3)
+[^c-11008f6765f27414102b3aeeebf3292c]: Textual amendment: [Sch. 2 para. 12AA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/12AA) inserted (9.3.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2023 (S.I. 2023/291)](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [3](https://www.legislation.gov.uk/uksi/2023/291/article/3)
 
-[^key-adc4e45ff78fedd794d5ca132c4ca8e3]: Commencement: Sch. 2 para. 13 comes into force in accordance with art. 1(1)
+[^c-adc4e45ff78fedd794d5ca132c4ca8e3]: Commencement: Sch. 2 para. 13 comes into force in accordance with art. 1(1)
 
 [^c24388501]: Marginal citation: ETS Numbers 005, 009, 046, 114, 117, 177, 187 and CETS Numbers 194, 213 and 214.
 
 [^c24388511]: Marginal citation: United Nations Treaty Series, vol. 189, p. 137 and vol. 606, p. 267.
 
-[^key-ec3fdf3194b4a7e3f843b76362348a8a]: Commencement: Sch. 2 para. 14 comes into force in accordance with art. 1(1)
+[^c-ec3fdf3194b4a7e3f843b76362348a8a]: Commencement: Sch. 2 para. 14 comes into force in accordance with art. 1(1)
 
-[^key-153a82f43fd929bee61b9adb526adb8c]: Textual amendment: [Sch. 2 para. 14(aa)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/14/aa) inserted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2022/1167/article/3/a)
+[^c-153a82f43fd929bee61b9adb526adb8c]: Textual amendment: [Sch. 2 para. 14(aa)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/14/aa) inserted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2022/1167/article/3/a)
 
-[^key-2780684e54d05ce6b80f990061ce37cb]: Textual amendment: [Sch. 2 para. 14(b)(ba)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/14/b/ba) omitted (10.11.2022) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2022/1167/article/3/b)
+[^c-2780684e54d05ce6b80f990061ce37cb]: Textual amendment: [Sch. 2 para. 14(b)(ba)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/14/b/ba) omitted (10.11.2022) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2022/1167/article/3/b)
 
-[^key-02c12dc44591b8b62025fe9047128ff8]: Commencement: Sch. 2 para. 15 comes into force in accordance with art. 1(1)
+[^c-02c12dc44591b8b62025fe9047128ff8]: Commencement: Sch. 2 para. 15 comes into force in accordance with art. 1(1)
 
-[^key-bfade99ea2b9a83f30bfcd4c9089c16e]: Textual amendment: Words in [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/15) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [13](https://www.legislation.gov.uk/uksi/2022/453/article/13)
+[^c-bfade99ea2b9a83f30bfcd4c9089c16e]: Textual amendment: Words in [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/15) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [13](https://www.legislation.gov.uk/uksi/2022/453/article/13)
 
 [^M_F_5e084465-e167-4e3e-b40e-47067be3d7ed]: Textual amendment: Words in [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/15) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [4](https://www.legislation.gov.uk/uksi/2022/1167/article/4)
 
-[^key-d8f2e6fa53f8d519374fba05fef922f0]: Commencement: Sch. 2 para. 16 comes into force in accordance with art. 1(1)
+[^c-d8f2e6fa53f8d519374fba05fef922f0]: Commencement: Sch. 2 para. 16 comes into force in accordance with art. 1(1)
 
-[^key-5a13db0568f796eeb043c1ec89ccffe4]: Commencement: Sch. 2 para. 17 comes into force in accordance with art. 1(1)
+[^c-5a13db0568f796eeb043c1ec89ccffe4]: Commencement: Sch. 2 para. 17 comes into force in accordance with art. 1(1)
 
-[^key-4a8550c8c8b1c6c5d1bc2312ddb78db7]: Textual amendment: Words in [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/17) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [14](https://www.legislation.gov.uk/uksi/2022/453/article/14)
+[^c-4a8550c8c8b1c6c5d1bc2312ddb78db7]: Textual amendment: Words in [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/17) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [14](https://www.legislation.gov.uk/uksi/2022/453/article/14)
 
-[^key-c60bb29a944b90040c70e6f8e68ef86f]: Commencement: Sch. 2 para. 18 comes into force in accordance with art. 1(1)
+[^c-c60bb29a944b90040c70e6f8e68ef86f]: Commencement: Sch. 2 para. 18 comes into force in accordance with art. 1(1)
 
-[^key-8c081ebb080b18b5e72352f26fdbad3b]: Textual amendment: Words in [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/18) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [15](https://www.legislation.gov.uk/uksi/2022/453/article/15)
+[^c-8c081ebb080b18b5e72352f26fdbad3b]: Textual amendment: Words in [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/18) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [15](https://www.legislation.gov.uk/uksi/2022/453/article/15)
 
-[^key-4e9ebf00085de173321e04531c1961ec]: Commencement: Sch. 2 para. 19 comes into force in accordance with art. 1(1)
+[^c-4e9ebf00085de173321e04531c1961ec]: Commencement: Sch. 2 para. 19 comes into force in accordance with art. 1(1)
 
-[^key-2f1a63aa41deaf77acb17f98ed377daf]: Textual amendment: Words in [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/19) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [16](https://www.legislation.gov.uk/uksi/2022/453/article/16)
+[^c-2f1a63aa41deaf77acb17f98ed377daf]: Textual amendment: Words in [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/19) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [16](https://www.legislation.gov.uk/uksi/2022/453/article/16)
 
-[^key-d2de396142fee030b27097e15792c3c9]: Commencement: Sch. 2 para. 20 comes into force in accordance with art. 1(1)
+[^c-d2de396142fee030b27097e15792c3c9]: Commencement: Sch. 2 para. 20 comes into force in accordance with art. 1(1)
 
-[^key-47f4019e4b5e18301876054fb05b489f]: Textual amendment: [Sch. 2 para. 20A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/20A) substituted (20.7.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [3](https://www.legislation.gov.uk/uksi/2023/846/article/3)
+[^c-47f4019e4b5e18301876054fb05b489f]: Textual amendment: [Sch. 2 para. 20A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/20A) substituted (20.7.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [3](https://www.legislation.gov.uk/uksi/2023/846/article/3)
 
-[^key-1888ab695753bf393b0e9c3af4e249e4]: Textual amendment: [Sch. 2 paras. 20A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/20A), [20B](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/20B) inserted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [5](https://www.legislation.gov.uk/uksi/2022/1167/article/5)
+[^c-1888ab695753bf393b0e9c3af4e249e4]: Textual amendment: [Sch. 2 paras. 20A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/20A), [20B](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/20B) inserted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [5](https://www.legislation.gov.uk/uksi/2022/1167/article/5)
 
-[^key-6baefcc3ad5e09e12d19157b9f0a71b6]: Textual amendment: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/21) omitted (14.4.2022) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [17](https://www.legislation.gov.uk/uksi/2022/453/article/17)
+[^c-6baefcc3ad5e09e12d19157b9f0a71b6]: Textual amendment: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/21) omitted (14.4.2022) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [17](https://www.legislation.gov.uk/uksi/2022/453/article/17)
 
-[^key-cd9dcad7f8c3c130244d77a1b907a3e2]: Textual amendment: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/22) omitted (14.4.2022) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [18](https://www.legislation.gov.uk/uksi/2022/453/article/18)
+[^c-cd9dcad7f8c3c130244d77a1b907a3e2]: Textual amendment: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/22) omitted (14.4.2022) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [18](https://www.legislation.gov.uk/uksi/2022/453/article/18)
 
-[^key-e6fac84801b51f39c00e6ca50ccabce2]: Textual amendment: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/23) omitted (14.4.2022) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [19](https://www.legislation.gov.uk/uksi/2022/453/article/19)
+[^c-e6fac84801b51f39c00e6ca50ccabce2]: Textual amendment: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/23) omitted (14.4.2022) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [19](https://www.legislation.gov.uk/uksi/2022/453/article/19)
 
-[^key-e7abf844c6683ae372e01ea4babc287f]: Commencement: Sch. 2 para. 24 comes into force in accordance with art. 1(1)
+[^c-e7abf844c6683ae372e01ea4babc287f]: Commencement: Sch. 2 para. 24 comes into force in accordance with art. 1(1)
 
-[^key-75d37127f2032367d07ca39609a8b22b]: Commencement: Sch. 2 para. 25 comes into force in accordance with art. 1(1)
+[^c-75d37127f2032367d07ca39609a8b22b]: Commencement: Sch. 2 para. 25 comes into force in accordance with art. 1(1)
 
-[^key-5c67c09745a641c1abdb7ea2984d4680]: Commencement: Sch. 2 para. 26 comes into force in accordance with art. 1(1)
+[^c-5c67c09745a641c1abdb7ea2984d4680]: Commencement: Sch. 2 para. 26 comes into force in accordance with art. 1(1)
 
-[^key-1c406e0456ce67772398a2be3148fd44]: Textual amendment: Words in [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26) omitted (10.11.2022) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [6](https://www.legislation.gov.uk/uksi/2022/1167/article/6)
+[^c-1c406e0456ce67772398a2be3148fd44]: Textual amendment: Words in [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26) omitted (10.11.2022) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [6](https://www.legislation.gov.uk/uksi/2022/1167/article/6)
 
-[^key-bd48487b9b87871e0a9300bc0c042d0f]: Textual amendment: [Sch. 2 para. 26A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26A) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [20](https://www.legislation.gov.uk/uksi/2022/453/article/20)
+[^c-bd48487b9b87871e0a9300bc0c042d0f]: Textual amendment: [Sch. 2 para. 26A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26A) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [20](https://www.legislation.gov.uk/uksi/2022/453/article/20)
 
-[^key-ffe5ceb512d0c801a36020b83411b98d]: Textual amendment: [Sch. 2 paras. 26B-26D](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26B) inserted (20.7.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2022 (S.I. 2022/843)](https://www.legislation.gov.uk/uksi/2022/843), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/843/article/1/1), [3](https://www.legislation.gov.uk/uksi/2022/843/article/3)
+[^c-ffe5ceb512d0c801a36020b83411b98d]: Textual amendment: [Sch. 2 paras. 26B-26D](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26B) inserted (20.7.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2022 (S.I. 2022/843)](https://www.legislation.gov.uk/uksi/2022/843), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/843/article/1/1), [3](https://www.legislation.gov.uk/uksi/2022/843/article/3)
 
-[^key-2fab0579d640172a0b785f08552d3b16]: Textual amendment: [Sch. 2 para. 26BA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26BA) inserted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [7](https://www.legislation.gov.uk/uksi/2022/1167/article/7)
+[^c-2fab0579d640172a0b785f08552d3b16]: Textual amendment: [Sch. 2 para. 26BA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26BA) inserted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [7](https://www.legislation.gov.uk/uksi/2022/1167/article/7)
 
-[^key-5f52fd4c4de14c86eb54d4f1a8bd8325]: Textual amendment: Sch. 2 paras. 26DA, 26DB inserted (30.9.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/846/article/1/2), [4](https://www.legislation.gov.uk/uksi/2023/846/article/4)
+[^c-5f52fd4c4de14c86eb54d4f1a8bd8325]: Textual amendment: Sch. 2 paras. 26DA, 26DB inserted (30.9.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/846/article/1/2), [4](https://www.legislation.gov.uk/uksi/2023/846/article/4)
 
-[^key-e84180db3fa6cbd7af05aa9a9dd705d0]: Textual amendment: [Sch. 2 para. 26DC](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26DC) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [4](https://www.legislation.gov.uk/uksi/2024/370/article/4)
+[^c-e84180db3fa6cbd7af05aa9a9dd705d0]: Textual amendment: [Sch. 2 para. 26DC](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26DC) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [4](https://www.legislation.gov.uk/uksi/2024/370/article/4)
 
-[^key-aeec3ec465eeca034e895e4bfb478765]: Textual amendment: [Sch. 2 paras. 26E-26Z3](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26E) inserted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [8](https://www.legislation.gov.uk/uksi/2022/1167/article/8)
+[^c-aeec3ec465eeca034e895e4bfb478765]: Textual amendment: [Sch. 2 paras. 26E-26Z3](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26E) inserted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [8](https://www.legislation.gov.uk/uksi/2022/1167/article/8)
 
-[^key-cb68a230cb7769379f98b889d1423a84]: Textual amendment: [Sch. 2 para. 26J](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26J) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [5](https://www.legislation.gov.uk/uksi/2023/846/article/5)
+[^c-cb68a230cb7769379f98b889d1423a84]: Textual amendment: [Sch. 2 para. 26J](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26J) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [5](https://www.legislation.gov.uk/uksi/2023/846/article/5)
 
-[^key-e411506fcc2129c5e46a3718874134ff]: Textual amendment: Words in [Sch. 2 para. 26K](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26K) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [6](https://www.legislation.gov.uk/uksi/2023/846/article/6)
+[^c-e411506fcc2129c5e46a3718874134ff]: Textual amendment: Words in [Sch. 2 para. 26K](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26K) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [6](https://www.legislation.gov.uk/uksi/2023/846/article/6)
 
-[^key-e4bd24516b658c95f41f83038b724f5b]: Textual amendment: Words in [Sch. 2 para. 26L](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26L) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [7](https://www.legislation.gov.uk/uksi/2023/846/article/7)
+[^c-e4bd24516b658c95f41f83038b724f5b]: Textual amendment: Words in [Sch. 2 para. 26L](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26L) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [7](https://www.legislation.gov.uk/uksi/2023/846/article/7)
 
-[^key-dac16e8ea17aa6883bb97057a3fb5b4c]: Textual amendment: [Sch. 2 paras. 26LA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26LA), [26LB](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26LB) inserted (20.7.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [8](https://www.legislation.gov.uk/uksi/2023/846/article/8)
+[^c-dac16e8ea17aa6883bb97057a3fb5b4c]: Textual amendment: [Sch. 2 paras. 26LA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26LA), [26LB](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26LB) inserted (20.7.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [8](https://www.legislation.gov.uk/uksi/2023/846/article/8)
 
-[^key-4330c1dacc9ead9900f618c59eb1004f]: Textual amendment: [Sch. 2 para. 26Q](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26Q) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [9](https://www.legislation.gov.uk/uksi/2023/846/article/9)
+[^c-4330c1dacc9ead9900f618c59eb1004f]: Textual amendment: [Sch. 2 para. 26Q](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26Q) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [9](https://www.legislation.gov.uk/uksi/2023/846/article/9)
 
-[^key-c482cca87f01a9723a887f8019295a8a]: Textual amendment: Words in [Sch. 2 para. 26R](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26R) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [10](https://www.legislation.gov.uk/uksi/2023/846/article/10)
+[^c-c482cca87f01a9723a887f8019295a8a]: Textual amendment: Words in [Sch. 2 para. 26R](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26R) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [10](https://www.legislation.gov.uk/uksi/2023/846/article/10)
 
-[^key-6cb9534784615a54545d640a22d9dd5c]: Textual amendment: Words in [Sch. 2 para. 26S](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26S) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [11](https://www.legislation.gov.uk/uksi/2023/846/article/11)
+[^c-6cb9534784615a54545d640a22d9dd5c]: Textual amendment: Words in [Sch. 2 para. 26S](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26S) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [11](https://www.legislation.gov.uk/uksi/2023/846/article/11)
 
-[^key-951c712f999093314fd2b93ce0e9b9a0]: Textual amendment: [Sch. 2 para. 26SA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26SA) inserted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [3](https://www.legislation.gov.uk/uksi/2022/1338/article/3)
+[^c-951c712f999093314fd2b93ce0e9b9a0]: Textual amendment: [Sch. 2 para. 26SA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26SA) inserted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [3](https://www.legislation.gov.uk/uksi/2022/1338/article/3)
 
-[^key-b1b6391e5742da0cab0f8b92ffb9f71a]: Textual amendment: [Sch. 2 para. 26V](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26V) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [12](https://www.legislation.gov.uk/uksi/2023/846/article/12)
+[^c-b1b6391e5742da0cab0f8b92ffb9f71a]: Textual amendment: [Sch. 2 para. 26V](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26V) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [12](https://www.legislation.gov.uk/uksi/2023/846/article/12)
 
-[^key-afb0ab673fdb1607a603053260e4be22]: Textual amendment: Words in [Sch. 2 para. 26W](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26W) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [13](https://www.legislation.gov.uk/uksi/2023/846/article/13)
+[^c-afb0ab673fdb1607a603053260e4be22]: Textual amendment: Words in [Sch. 2 para. 26W](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26W) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [13](https://www.legislation.gov.uk/uksi/2023/846/article/13)
 
-[^key-22fae5a1370574fe1a4c3ed4878a712d]: Textual amendment: Words in [Sch. 2 para. 26X](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26X) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [14](https://www.legislation.gov.uk/uksi/2023/846/article/14)
+[^c-22fae5a1370574fe1a4c3ed4878a712d]: Textual amendment: Words in [Sch. 2 para. 26X](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26X) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [14](https://www.legislation.gov.uk/uksi/2023/846/article/14)
 
-[^key-04fc9f4f8811b07f166ef4fd4e070671]: Textual amendment: [Sch. 2 paras. 26XA-26XF](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26XA) inserted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [4](https://www.legislation.gov.uk/uksi/2022/1338/article/4)
+[^c-04fc9f4f8811b07f166ef4fd4e070671]: Textual amendment: [Sch. 2 paras. 26XA-26XF](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26XA) inserted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [4](https://www.legislation.gov.uk/uksi/2022/1338/article/4)
 
-[^key-939593c4fa4ddbae702335e7eb87dcd0]: Textual amendment: [Sch. 2 paras. 26XG](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26XG), [26XH](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26XH) inserted (3.10.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2024 (S.I. 2024/987)](https://www.legislation.gov.uk/uksi/2024/987), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/987/article/1/1), [3](https://www.legislation.gov.uk/uksi/2024/987/article/3)
+[^c-939593c4fa4ddbae702335e7eb87dcd0]: Textual amendment: [Sch. 2 paras. 26XG](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26XG), [26XH](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26XH) inserted (3.10.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2024 (S.I. 2024/987)](https://www.legislation.gov.uk/uksi/2024/987), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/987/article/1/1), [3](https://www.legislation.gov.uk/uksi/2024/987/article/3)
 
-[^key-2ee5987e31814223634479050ebecde6]: Textual amendment: [Sch. 2 para. 26XI](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26XI) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/3)
+[^c-2ee5987e31814223634479050ebecde6]: Textual amendment: [Sch. 2 para. 26XI](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26XI) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/3)
 
-[^key-bd934aa644a8a23c6b1e7177ab39c2c8]: Textual amendment: [Sch. 2 para. 26Z1](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26Z1) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [15](https://www.legislation.gov.uk/uksi/2023/846/article/15)
+[^c-bd934aa644a8a23c6b1e7177ab39c2c8]: Textual amendment: [Sch. 2 para. 26Z1](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26Z1) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [15](https://www.legislation.gov.uk/uksi/2023/846/article/15)
 
-[^key-8d829c00608078584344b44174cc4c77]: Textual amendment: Words in [Sch. 2 para. 26Z2](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26Z2) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [16](https://www.legislation.gov.uk/uksi/2023/846/article/16)
+[^c-8d829c00608078584344b44174cc4c77]: Textual amendment: Words in [Sch. 2 para. 26Z2](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26Z2) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [16](https://www.legislation.gov.uk/uksi/2023/846/article/16)
 
-[^key-01c62fe3d9dadd03184eb791cc0d9fd3]: Textual amendment: Words in [Sch. 2 para. 26Z3](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26Z3) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [17](https://www.legislation.gov.uk/uksi/2023/846/article/17)
+[^c-01c62fe3d9dadd03184eb791cc0d9fd3]: Textual amendment: Words in [Sch. 2 para. 26Z3](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26Z3) omitted (20.7.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [17](https://www.legislation.gov.uk/uksi/2023/846/article/17)
 
-[^key-e12eb7912ddaea16af41c20eaa76b77d]: Textual amendment: [Sch. 2 paras. 26Z4-26Z9](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26Z4) inserted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [5](https://www.legislation.gov.uk/uksi/2022/1338/article/5)
+[^c-e12eb7912ddaea16af41c20eaa76b77d]: Textual amendment: [Sch. 2 paras. 26Z4-26Z9](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26Z4) inserted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [5](https://www.legislation.gov.uk/uksi/2022/1338/article/5)
 
-[^key-86e36a604f3d0e10bcb1e83f3b78cdb5]: Textual amendment: Word in [Sch. 2 para. 26Z9(a)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26Z9/a) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 4](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/4)
+[^c-86e36a604f3d0e10bcb1e83f3b78cdb5]: Textual amendment: Word in [Sch. 2 para. 26Z9(a)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26Z9/a) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 4](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/4)
 
-[^key-0a29224683a412ad964cb1f8382a2a2b]: Textual amendment: [Sch. 2 para. 26Z10](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26Z10) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 5](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/5)
+[^c-0a29224683a412ad964cb1f8382a2a2b]: Textual amendment: [Sch. 2 para. 26Z10](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/26Z10) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 5](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/5)
 
-[^key-63ea7e35f9c2983c0015d6caaaf1d850]: Textual amendment: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/27) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [21](https://www.legislation.gov.uk/uksi/2022/453/article/21)
+[^c-63ea7e35f9c2983c0015d6caaaf1d850]: Textual amendment: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/27) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [21](https://www.legislation.gov.uk/uksi/2022/453/article/21)
 
-[^key-d1738e75fa3f4d70c62418faba9f4b01]: Textual amendment: [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/28) substituted (20.7.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [18](https://www.legislation.gov.uk/uksi/2023/846/article/18)
+[^c-d1738e75fa3f4d70c62418faba9f4b01]: Textual amendment: [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/28) substituted (20.7.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [18](https://www.legislation.gov.uk/uksi/2023/846/article/18)
 
-[^key-e0c7f65bff288c3357d423916bb94edb]: Textual amendment: [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/29) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [23](https://www.legislation.gov.uk/uksi/2022/453/article/23)
+[^c-e0c7f65bff288c3357d423916bb94edb]: Textual amendment: [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/29) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [23](https://www.legislation.gov.uk/uksi/2022/453/article/23)
 
-[^key-2626213bc2b7c1d7eed913d6333b20bb]: Commencement: Sch. 2 para. 30 comes into force in accordance with art. 1(1)
+[^c-2626213bc2b7c1d7eed913d6333b20bb]: Commencement: Sch. 2 para. 30 comes into force in accordance with art. 1(1)
 
-[^key-4b55f1a49633725e264691f4d6fad5b7]: Textual amendment: Words in [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/30) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [24(a)](https://www.legislation.gov.uk/uksi/2022/453/article/24/a)
+[^c-4b55f1a49633725e264691f4d6fad5b7]: Textual amendment: Words in [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/30) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [24(a)](https://www.legislation.gov.uk/uksi/2022/453/article/24/a)
 
-[^key-1c2575536feb534bf3603d9957f57e11]: Textual amendment: Words in [Sch. 2 para. 30(c)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/30/c) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [24(b)](https://www.legislation.gov.uk/uksi/2022/453/article/24/b)
+[^c-1c2575536feb534bf3603d9957f57e11]: Textual amendment: Words in [Sch. 2 para. 30(c)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/30/c) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [24(b)](https://www.legislation.gov.uk/uksi/2022/453/article/24/b)
 
-[^key-ec73520f39b51b2301d001daefd0dd9a]: Textual amendment: [Sch. 2 paras. 30A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/30A), [30B](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/30B) inserted (20.7.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [19](https://www.legislation.gov.uk/uksi/2023/846/article/19)
+[^c-ec73520f39b51b2301d001daefd0dd9a]: Textual amendment: [Sch. 2 paras. 30A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/30A), [30B](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/30B) inserted (20.7.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [19](https://www.legislation.gov.uk/uksi/2023/846/article/19)
 
-[^key-7d3166ba52c2198d46d736da4b9de016]: Textual amendment: Words in [Sch. 2 para. 30B(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/30B/a/ii) substituted (3.10.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2024 (S.I. 2024/987)](https://www.legislation.gov.uk/uksi/2024/987), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/987/article/1/1), [4](https://www.legislation.gov.uk/uksi/2024/987/article/4)
+[^c-7d3166ba52c2198d46d736da4b9de016]: Textual amendment: Words in [Sch. 2 para. 30B(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/30B/a/ii) substituted (3.10.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2024 (S.I. 2024/987)](https://www.legislation.gov.uk/uksi/2024/987), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/987/article/1/1), [4](https://www.legislation.gov.uk/uksi/2024/987/article/4)
 
-[^key-a67479262976e6a46e6a79e1994ae9c6]: Commencement: Sch. 2 para. 31 comes into force in accordance with art. 1(1)
+[^c-a67479262976e6a46e6a79e1994ae9c6]: Commencement: Sch. 2 para. 31 comes into force in accordance with art. 1(1)
 
-[^key-cb9d827198e417a4bb380cd44d1fd9fe]: Textual amendment: Words in [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/31) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [25(a)](https://www.legislation.gov.uk/uksi/2022/453/article/25/a)
+[^c-cb9d827198e417a4bb380cd44d1fd9fe]: Textual amendment: Words in [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/31) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [25(a)](https://www.legislation.gov.uk/uksi/2022/453/article/25/a)
 
-[^key-815f0c76099844e8cfcadf39ed829267]: Textual amendment: [Sch. 2 para. 31(c)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/31/c) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [25(b)](https://www.legislation.gov.uk/uksi/2022/453/article/25/b)
+[^c-815f0c76099844e8cfcadf39ed829267]: Textual amendment: [Sch. 2 para. 31(c)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/31/c) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [25(b)](https://www.legislation.gov.uk/uksi/2022/453/article/25/b)
 
-[^key-f06213a5196bb89a25ddde07cfb47245]: Textual amendment: [Sch. 2 paras. 31A-31O](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/31A) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [26](https://www.legislation.gov.uk/uksi/2022/453/article/26)
+[^c-f06213a5196bb89a25ddde07cfb47245]: Textual amendment: [Sch. 2 paras. 31A-31O](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/31A) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [26](https://www.legislation.gov.uk/uksi/2022/453/article/26)
 
-[^key-fbd9fea8c989daf01dfaad0fae021e28]: Textual amendment: [Sch. 2 para. 31EA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/31EA) omitted (11.12.2025) by virtue of [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 6](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/6)
+[^c-fbd9fea8c989daf01dfaad0fae021e28]: Textual amendment: [Sch. 2 para. 31EA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/31EA) omitted (11.12.2025) by virtue of [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 6](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/6)
 
-[^key-f74f95fe23e764d1f5f11008367ea1a4]: Commencement: Sch. 2 para. 32 comes into force in accordance with art. 1(1)
+[^c-f74f95fe23e764d1f5f11008367ea1a4]: Commencement: Sch. 2 para. 32 comes into force in accordance with art. 1(1)
 
 [^c24388521]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Part 4A was inserted by the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), [section 11(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/11/2) and most recently amended by [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149); it is prospectively amended by [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
 
-[^key-8c395636488f83307d20d0f2ae7054e6]: Textual amendment: [Sch. 2 para. 32A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/32A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 7](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/7)
+[^c-8c395636488f83307d20d0f2ae7054e6]: Textual amendment: [Sch. 2 para. 32A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/32A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 7](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/7)
 
-[^key-b8ce7b26a486873ebf6d6a66cae5775f]: Commencement: Sch. 2 para. 33 comes into force in accordance with art. 1(1)
+[^c-b8ce7b26a486873ebf6d6a66cae5775f]: Commencement: Sch. 2 para. 33 comes into force in accordance with art. 1(1)
 
-[^key-162f84fe5e8726f3e9a8ede4fbbeed69]: Textual amendment: [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/33) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [27](https://www.legislation.gov.uk/uksi/2022/453/article/27)
+[^c-162f84fe5e8726f3e9a8ede4fbbeed69]: Textual amendment: [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/33) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [27](https://www.legislation.gov.uk/uksi/2022/453/article/27)
 
-[^key-c54cd499af1c5a5edd821237956a50db]: Textual amendment: [Sch. 2 para. 33A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/33A) omitted (14.3.2024) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [5](https://www.legislation.gov.uk/uksi/2024/370/article/5)
+[^c-c54cd499af1c5a5edd821237956a50db]: Textual amendment: [Sch. 2 para. 33A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/33A) omitted (14.3.2024) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [5](https://www.legislation.gov.uk/uksi/2024/370/article/5)
 
-[^key-f9294398a8283a678b83328fdfeae0c7]: Textual amendment: [Sch. 2 para. 33B](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/33B) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [6](https://www.legislation.gov.uk/uksi/2024/370/article/6)
+[^c-f9294398a8283a678b83328fdfeae0c7]: Textual amendment: [Sch. 2 para. 33B](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/33B) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [6](https://www.legislation.gov.uk/uksi/2024/370/article/6)
 
-[^key-d016dc8d459ab1695d0996452301ea3c]: Commencement: Sch. 2 para. 34 comes into force in accordance with art. 1(1)
+[^c-d016dc8d459ab1695d0996452301ea3c]: Commencement: Sch. 2 para. 34 comes into force in accordance with art. 1(1)
 
-[^key-f43b543f2aeceb3dd0b6aaca0629660a]: Textual amendment: Words in [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [29](https://www.legislation.gov.uk/uksi/2022/453/article/29)
+[^c-f43b543f2aeceb3dd0b6aaca0629660a]: Textual amendment: Words in [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [29](https://www.legislation.gov.uk/uksi/2022/453/article/29)
 
-[^key-7a48b13cba7d965efb144d397926853d]: Textual amendment: [Sch. 2 para. 34ZA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34ZA) inserted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [9](https://www.legislation.gov.uk/uksi/2022/1167/article/9)
+[^c-7a48b13cba7d965efb144d397926853d]: Textual amendment: [Sch. 2 para. 34ZA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34ZA) inserted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [9](https://www.legislation.gov.uk/uksi/2022/1167/article/9)
 
-[^key-b52dc52ae0a6dec7094ae341de7ae6f9]: Textual amendment: [Sch. 2 para. 34ZB](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34ZB) inserted (9.3.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2023 (S.I. 2023/291)](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/291/article/4)
+[^c-b52dc52ae0a6dec7094ae341de7ae6f9]: Textual amendment: [Sch. 2 para. 34ZB](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34ZB) inserted (9.3.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2023 (S.I. 2023/291)](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/291/article/4)
 
-[^key-fee2acc903476feac2b04c745edac80c]: Textual amendment: [Sch. 2 paras. 34A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34A), [34B](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34B) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [30](https://www.legislation.gov.uk/uksi/2022/453/article/30)
+[^c-fee2acc903476feac2b04c745edac80c]: Textual amendment: [Sch. 2 paras. 34A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34A), [34B](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34B) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [30](https://www.legislation.gov.uk/uksi/2022/453/article/30)
 
-[^key-ea4e3ea11ea9b5bdbc8b5311878672f1]: Textual amendment: [Sch. 2 para. 34AA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34AA) inserted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [6](https://www.legislation.gov.uk/uksi/2022/1338/article/6)
+[^c-ea4e3ea11ea9b5bdbc8b5311878672f1]: Textual amendment: [Sch. 2 para. 34AA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34AA) inserted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [6](https://www.legislation.gov.uk/uksi/2022/1338/article/6)
 
-[^key-5f2132914bab54d87f1751e1d7871d86]: Textual amendment: [Sch. 2 para. 34B(aa)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34B/aa) inserted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [10](https://www.legislation.gov.uk/uksi/2022/1167/article/10)
+[^c-5f2132914bab54d87f1751e1d7871d86]: Textual amendment: [Sch. 2 para. 34B(aa)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34B/aa) inserted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [10](https://www.legislation.gov.uk/uksi/2022/1167/article/10)
 
-[^key-2227e635d376ecd5513213d1e00295b4]: Textual amendment: [Sch. 2 para. 34C](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34C) substituted (9.3.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2023 (S.I. 2023/291)](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [5](https://www.legislation.gov.uk/uksi/2023/291/article/5)
+[^c-2227e635d376ecd5513213d1e00295b4]: Textual amendment: [Sch. 2 para. 34C](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34C) substituted (9.3.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2023 (S.I. 2023/291)](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [5](https://www.legislation.gov.uk/uksi/2023/291/article/5)
 
-[^key-78188143dcbd60972aec8b9650732e01]: Textual amendment: [Sch. 2 para. 34C(ca)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34C/ca) inserted (20.7.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [20(a)](https://www.legislation.gov.uk/uksi/2023/846/article/20/a)
+[^c-78188143dcbd60972aec8b9650732e01]: Textual amendment: [Sch. 2 para. 34C(ca)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34C/ca) inserted (20.7.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [20(a)](https://www.legislation.gov.uk/uksi/2023/846/article/20/a)
 
-[^key-03173c051948929cc961e99267ffae2f]: Textual amendment: [Sch. 2 para. 34C(da)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34C/da) inserted (20.7.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [20(b)](https://www.legislation.gov.uk/uksi/2023/846/article/20/b)
+[^c-03173c051948929cc961e99267ffae2f]: Textual amendment: [Sch. 2 para. 34C(da)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34C/da) inserted (20.7.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [20(b)](https://www.legislation.gov.uk/uksi/2023/846/article/20/b)
 
-[^key-efe63bb0f53a6147b8364578abf7de24]: Textual amendment: [Sch. 2 para. 34C(e)(iii)(iv)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34C/e/iii/iv) inserted (20.7.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [20(c)](https://www.legislation.gov.uk/uksi/2023/846/article/20/c)
+[^c-efe63bb0f53a6147b8364578abf7de24]: Textual amendment: [Sch. 2 para. 34C(e)(iii)(iv)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34C/e/iii/iv) inserted (20.7.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [20(c)](https://www.legislation.gov.uk/uksi/2023/846/article/20/c)
 
-[^key-a288b024894b54e210f18d88dd738a34]: Textual amendment: [Sch. 2 para. 34CZA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34CZA) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 8](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/8)
+[^c-a288b024894b54e210f18d88dd738a34]: Textual amendment: [Sch. 2 para. 34CZA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34CZA) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 8](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/8)
 
-[^key-8fe06329ae3cd7e6691d90d351696b72]: Textual amendment: [Sch. 2 para. 34CA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34CA) inserted (20.7.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [21](https://www.legislation.gov.uk/uksi/2023/846/article/21)
+[^c-8fe06329ae3cd7e6691d90d351696b72]: Textual amendment: [Sch. 2 para. 34CA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34CA) inserted (20.7.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [21](https://www.legislation.gov.uk/uksi/2023/846/article/21)
 
-[^key-1b975ea88a3b640f6ed696b4306e3bfa]: Textual amendment: [Sch. 2 paras. 34C-34E](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34C) inserted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [11](https://www.legislation.gov.uk/uksi/2022/1167/article/11)
+[^c-1b975ea88a3b640f6ed696b4306e3bfa]: Textual amendment: [Sch. 2 paras. 34C-34E](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34C) inserted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [11](https://www.legislation.gov.uk/uksi/2022/1167/article/11)
 
-[^key-22ff5450dca7264be7329cfc4794d1cb]: Textual amendment: [Sch. 2 paras. 34DA-34DC](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34DA) inserted (20.7.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [22](https://www.legislation.gov.uk/uksi/2023/846/article/22)
+[^c-22ff5450dca7264be7329cfc4794d1cb]: Textual amendment: [Sch. 2 paras. 34DA-34DC](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34DA) inserted (20.7.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2023 (S.I. 2023/846)](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [22](https://www.legislation.gov.uk/uksi/2023/846/article/22)
 
-[^key-946267e08533e9d65a98116210758312]: Textual amendment: Words in [Sch. 2 para. 34DA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34DA) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [7](https://www.legislation.gov.uk/uksi/2024/370/article/7)
+[^c-946267e08533e9d65a98116210758312]: Textual amendment: Words in [Sch. 2 para. 34DA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34DA) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [7](https://www.legislation.gov.uk/uksi/2024/370/article/7)
 
-[^key-691c56f84c532615af0bc8c45e6ab331]: Textual amendment: [Sch. 2 para. 34DBA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34DBA) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [8](https://www.legislation.gov.uk/uksi/2024/370/article/8)
+[^c-691c56f84c532615af0bc8c45e6ab331]: Textual amendment: [Sch. 2 para. 34DBA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34DBA) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [8](https://www.legislation.gov.uk/uksi/2024/370/article/8)
 
-[^key-b82eaa2ceaad36a3206dc560da5d3ba7]: Textual amendment: [Sch. 2 para. 34DD](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34DD) inserted (3.10.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2024 (S.I. 2024/987)](https://www.legislation.gov.uk/uksi/2024/987), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/987/article/1/1), [6](https://www.legislation.gov.uk/uksi/2024/987/article/6)
+[^c-b82eaa2ceaad36a3206dc560da5d3ba7]: Textual amendment: [Sch. 2 para. 34DD](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/34DD) inserted (3.10.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2024 (S.I. 2024/987)](https://www.legislation.gov.uk/uksi/2024/987), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/987/article/1/1), [6](https://www.legislation.gov.uk/uksi/2024/987/article/6)
 
-[^key-b108863f9ad7f2e3b76da82ee04780fe]: Textual amendment: [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/35) substituted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [7](https://www.legislation.gov.uk/uksi/2022/1338/article/7)
+[^c-b108863f9ad7f2e3b76da82ee04780fe]: Textual amendment: [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/35) substituted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [7](https://www.legislation.gov.uk/uksi/2022/1338/article/7)
 
-[^key-85bb300341b35174fb781ebda4968b9c]: Textual amendment: [Sch. 2 para. 35ZA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/35ZA) inserted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [12](https://www.legislation.gov.uk/uksi/2022/1167/article/12)
+[^c-85bb300341b35174fb781ebda4968b9c]: Textual amendment: [Sch. 2 para. 35ZA](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/35ZA) inserted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [12](https://www.legislation.gov.uk/uksi/2022/1167/article/12)
 
-[^key-408dc034996ce04b7e055af48465c8c2]: Textual amendment: [Sch. 2 para. 35A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/35A) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [31](https://www.legislation.gov.uk/uksi/2022/453/article/31)
+[^c-408dc034996ce04b7e055af48465c8c2]: Textual amendment: [Sch. 2 para. 35A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/35A) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [31](https://www.legislation.gov.uk/uksi/2022/453/article/31)
 
-[^key-422126083eba7e7e8a10b252e3fc497a]: Textual amendment: [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/36) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [32](https://www.legislation.gov.uk/uksi/2022/453/article/32)
+[^c-422126083eba7e7e8a10b252e3fc497a]: Textual amendment: [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/36) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [32](https://www.legislation.gov.uk/uksi/2022/453/article/32)
 
-[^key-4fc210df8af000e54d860c8f0d5dff9b]: Textual amendment: Words in [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/36) substituted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [13](https://www.legislation.gov.uk/uksi/2022/1167/article/13)
+[^c-4fc210df8af000e54d860c8f0d5dff9b]: Textual amendment: Words in [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/36) substituted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [13](https://www.legislation.gov.uk/uksi/2022/1167/article/13)
 
-[^key-499917a66a2e321799719f49bc7b62a2]: Textual amendment: [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/37) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [33](https://www.legislation.gov.uk/uksi/2022/453/article/33)
+[^c-499917a66a2e321799719f49bc7b62a2]: Textual amendment: [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/37) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [33](https://www.legislation.gov.uk/uksi/2022/453/article/33)
 
-[^key-0b0fac2dd5548dad6bbbcc708d2d3cf5]: Textual amendment: [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [34](https://www.legislation.gov.uk/uksi/2022/453/article/34)
+[^c-0b0fac2dd5548dad6bbbcc708d2d3cf5]: Textual amendment: [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [34](https://www.legislation.gov.uk/uksi/2022/453/article/34)
 
-[^key-0c8db2808460ffaaabe593abce9e48bf]: Textual amendment: Words in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) inserted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2022/1338/article/8/a)
+[^c-0c8db2808460ffaaabe593abce9e48bf]: Textual amendment: Words in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) inserted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2022/1338/article/8/a)
 
-[^key-2690d47b84c674e8e9ace32cb41baeb2]: Textual amendment: Words in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) substituted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [14(a)](https://www.legislation.gov.uk/uksi/2022/1167/article/14/a)
+[^c-2690d47b84c674e8e9ace32cb41baeb2]: Textual amendment: Words in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) substituted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [14(a)](https://www.legislation.gov.uk/uksi/2022/1167/article/14/a)
 
-[^key-7bcf3978ebb37e7a0a66bbc3a33b8824]: Textual amendment: Word in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) substituted (9.3.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2023 (S.I. 2023/291)](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2023/291/article/6/a)
+[^c-7bcf3978ebb37e7a0a66bbc3a33b8824]: Textual amendment: Word in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) substituted (9.3.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2023 (S.I. 2023/291)](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2023/291/article/6/a)
 
-[^key-19168ea71ff1ccf571b315419f97814d]: Textual amendment: Words in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) inserted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2022/1338/article/8/b)
+[^c-19168ea71ff1ccf571b315419f97814d]: Textual amendment: Words in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) inserted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2022/1338/article/8/b)
 
-[^key-eb3df580ba9beb40f39ae8715c910dd7]: Textual amendment: Words in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2024/370/article/9/a)
+[^c-eb3df580ba9beb40f39ae8715c910dd7]: Textual amendment: Words in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2024/370/article/9/a)
 
-[^key-896af77fd3b1780a11b6520032fd9a3a]: Textual amendment: Words in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) substituted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [9(b)(i)](https://www.legislation.gov.uk/uksi/2024/370/article/9/b/i)
+[^c-896af77fd3b1780a11b6520032fd9a3a]: Textual amendment: Words in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) substituted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [9(b)(i)](https://www.legislation.gov.uk/uksi/2024/370/article/9/b/i)
 
-[^key-c481833db302272a7ebc7f99012981f5]: Textual amendment: Words in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) substituted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2024/370/article/9/b/ii)
+[^c-c481833db302272a7ebc7f99012981f5]: Textual amendment: Words in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) substituted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2024/370/article/9/b/ii)
 
-[^key-eb7ce14f713562859d2b33918cdd4227]: Textual amendment: Word in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) omitted (10.11.2022) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [14(b)(i)](https://www.legislation.gov.uk/uksi/2022/1167/article/14/b/i)
+[^c-eb7ce14f713562859d2b33918cdd4227]: Textual amendment: Word in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) omitted (10.11.2022) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [14(b)(i)](https://www.legislation.gov.uk/uksi/2022/1167/article/14/b/i)
 
-[^key-cfbe67630631db980dca558b0aff5b91]: Textual amendment: Word in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) omitted (15.12.2022) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [8(c)(i)](https://www.legislation.gov.uk/uksi/2022/1338/article/8/c/i)
+[^c-cfbe67630631db980dca558b0aff5b91]: Textual amendment: Word in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) omitted (15.12.2022) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [8(c)(i)](https://www.legislation.gov.uk/uksi/2022/1338/article/8/c/i)
 
-[^key-01ce654868ade8d293e4a1abccb4968c]: Textual amendment: Words in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) inserted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [14(b)(iii)](https://www.legislation.gov.uk/uksi/2022/1167/article/14/b/iii)
+[^c-01ce654868ade8d293e4a1abccb4968c]: Textual amendment: Words in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) inserted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [14(b)(iii)](https://www.legislation.gov.uk/uksi/2022/1167/article/14/b/iii)
 
-[^key-91dc08ab785a9f755f0626b98f74d926]: Textual amendment: Word in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) inserted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [8(c)(ii)](https://www.legislation.gov.uk/uksi/2022/1338/article/8/c/ii)
+[^c-91dc08ab785a9f755f0626b98f74d926]: Textual amendment: Word in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) inserted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [8(c)(ii)](https://www.legislation.gov.uk/uksi/2022/1338/article/8/c/ii)
 
-[^key-e8130e46c465b389b1d841281fc7fa2f]: Textual amendment: Words in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) inserted (9.3.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2023 (S.I. 2023/291)](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2023/291/article/6/b)
+[^c-e8130e46c465b389b1d841281fc7fa2f]: Textual amendment: Words in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) inserted (9.3.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2023 (S.I. 2023/291)](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2023/291/article/6/b)
 
-[^key-379ad8dd42d760583ea8c57b07f80ee6]: Textual amendment: Words in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) inserted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [8(c)(iii)](https://www.legislation.gov.uk/uksi/2022/1338/article/8/c/iii)
+[^c-379ad8dd42d760583ea8c57b07f80ee6]: Textual amendment: Words in [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/38) inserted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [8(c)(iii)](https://www.legislation.gov.uk/uksi/2022/1338/article/8/c/iii)
 
-[^key-feeb14f77fbc77f65b57f40ca3b43a3f]: Commencement: Sch. 2 para. 39 comes into force in accordance with art. 1(1)
+[^c-feeb14f77fbc77f65b57f40ca3b43a3f]: Commencement: Sch. 2 para. 39 comes into force in accordance with art. 1(1)
 
-[^key-203bec8c5d3019b602417993b436458d]: Textual amendment: [Sch. 2 para. 39A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/39A) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [35](https://www.legislation.gov.uk/uksi/2022/453/article/35)
+[^c-203bec8c5d3019b602417993b436458d]: Textual amendment: [Sch. 2 para. 39A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/39A) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [35](https://www.legislation.gov.uk/uksi/2022/453/article/35)
 
-[^key-18282a6ef726a2b0a8532549d307a8ab]: Commencement: Sch. 2 para. 40 comes into force in accordance with art. 1(1)
+[^c-18282a6ef726a2b0a8532549d307a8ab]: Commencement: Sch. 2 para. 40 comes into force in accordance with art. 1(1)
 
-[^key-f01823171089c93ab7f7a866750d556f]: Commencement: Sch. 2 para. 41 comes into force in accordance with art. 1(1)
+[^c-f01823171089c93ab7f7a866750d556f]: Commencement: Sch. 2 para. 41 comes into force in accordance with art. 1(1)
 
-[^key-bb9e810f679eb851310ad259c127cfda]: Commencement: Sch. 2 para. 42 comes into force in accordance with art. 1(1)
+[^c-bb9e810f679eb851310ad259c127cfda]: Commencement: Sch. 2 para. 42 comes into force in accordance with art. 1(1)
 
-[^key-2753f203b5eca2531311bb89cff03f4d]: Commencement: Sch. 2 para. 43 comes into force in accordance with art. 1(1)
+[^c-2753f203b5eca2531311bb89cff03f4d]: Commencement: Sch. 2 para. 43 comes into force in accordance with art. 1(1)
 
-[^key-36bbdff6f19aa80e68ae677ffb866905]: Textual amendment: [Sch. 2 para. 43A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/43A) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [10](https://www.legislation.gov.uk/uksi/2024/370/article/10)
+[^c-36bbdff6f19aa80e68ae677ffb866905]: Textual amendment: [Sch. 2 para. 43A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/43A) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [10](https://www.legislation.gov.uk/uksi/2024/370/article/10)
 
-[^key-3746b7507ebde209e98246020aa3f748]: Textual amendment: [Sch. 2 para. 43A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/43A) inserted (11.12.2025) by virtue of [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 9](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/9)
+[^c-3746b7507ebde209e98246020aa3f748]: Textual amendment: [Sch. 2 para. 43A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/43A) inserted (11.12.2025) by virtue of [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 9](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/9)
 
-[^key-b198bd83e7a18d8a7ac278fb8d4455bf]: Commencement: Sch. 2 para. 44 comes into force in accordance with art. 1(1)
+[^c-b198bd83e7a18d8a7ac278fb8d4455bf]: Commencement: Sch. 2 para. 44 comes into force in accordance with art. 1(1)
 
-[^key-ca592cad8afd71153295d882cd2184db]: Textual amendment: Words in [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/44) substituted (9.3.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2023 (S.I. 2023/291)](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2023/291/article/7/a)
+[^c-ca592cad8afd71153295d882cd2184db]: Textual amendment: Words in [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/44) substituted (9.3.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2023 (S.I. 2023/291)](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2023/291/article/7/a)
 
-[^key-0c85198e3ad0f3608074247ad1197efe]: Textual amendment: Words in [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/44) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 10(a)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/10/a)
+[^c-0c85198e3ad0f3608074247ad1197efe]: Textual amendment: Words in [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/44) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 10(a)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/10/a)
 
-[^key-37e02a3514650060066d65f45dea678e]: Textual amendment: Words in [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/44) inserted (9.3.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2023 (S.I. 2023/291)](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2023/291/article/7/b)
+[^c-37e02a3514650060066d65f45dea678e]: Textual amendment: Words in [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/44) inserted (9.3.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2023 (S.I. 2023/291)](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2023/291/article/7/b)
 
-[^key-c280b535c6acfcaec9f4c3f473bfe5bb]: Textual amendment: Words in [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/44) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 10(b)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/10/b)
+[^c-c280b535c6acfcaec9f4c3f473bfe5bb]: Textual amendment: Words in [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/44) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 10(b)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/10/b)
 
 [^c24388531]: Marginal citation: [1979 c. 38](https://www.legislation.gov.uk/ukpga/1979/38). Section 1 was amended by the [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c.73)](https://www.legislation.gov.uk/ukpga/1985/73), [Schedule 1](https://www.legislation.gov.uk/ukpga/1985/73/schedule/1), [paragraph 40](https://www.legislation.gov.uk/ukpga/1985/73/paragraph/40); the [Planning (Consequential Provisions) Act 1990 (c.11)](https://www.legislation.gov.uk/ukpga/1990/11), [Schedule 2](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2), [paragraph 42](https://www.legislation.gov.uk/ukpga/1990/11/paragraph/42); the [Planning (Consequential Provisions) (Scotland) Act 1997 (c.11)](https://www.legislation.gov.uk/ukpga/1997/11), [Schedule 2](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2), [paragraph 28](https://www.legislation.gov.uk/ukpga/1997/11/paragraph/28); the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24), [section 70](https://www.legislation.gov.uk/ukpga/2013/24/section/70); [S.I. 1991/2684](https://www.legislation.gov.uk/uksi/1991/2684); [S.I. 2000/121](https://www.legislation.gov.uk/uksi/2000/121); and [S.I. 2001/1283](https://www.legislation.gov.uk/uksi/2001/1283).
 
-[^key-aa65ee7abf47b8b9de1e71dbc3380654]: Textual amendment: Words in [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/44) omitted (9.3.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2023 (S.I. 2023/291)](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2023/291/article/7/b)
+[^c-aa65ee7abf47b8b9de1e71dbc3380654]: Textual amendment: Words in [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/44) omitted (9.3.2023) by virtue of [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2023 (S.I. 2023/291)](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2023/291/article/7/b)
 
-[^key-03ce21134c6a95048f5ffc0e7ac3bb09]: Textual amendment: Words in [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/44) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 10(c)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/10/c)
+[^c-03ce21134c6a95048f5ffc0e7ac3bb09]: Textual amendment: Words in [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/44) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 10(c)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/10/c)
 
-[^key-d55931f90e01f7dcea2cb9962a5352de]: Textual amendment: Word in [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/44) omitted (11.12.2025) by virtue of [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 10(d)(i)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/10/d/i)
+[^c-d55931f90e01f7dcea2cb9962a5352de]: Textual amendment: Word in [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/44) omitted (11.12.2025) by virtue of [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 10(d)(i)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/10/d/i)
 
-[^key-617c25886c4ecef74068c31598af5a2b]: Textual amendment: Words in [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/44) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 10(d)(ii)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/10/d/ii)
+[^c-617c25886c4ecef74068c31598af5a2b]: Textual amendment: Words in [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/44) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 10(d)(ii)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/10/d/ii)
 
-[^key-db3ce1b6b7abc77f6036700ea6be8025]: Commencement: Sch. 2 para. 45 comes into force in accordance with art. 1(1)
+[^c-db3ce1b6b7abc77f6036700ea6be8025]: Commencement: Sch. 2 para. 45 comes into force in accordance with art. 1(1)
 
-[^key-81cbf6504a27e645d93bc76cf362baba]: Commencement: Sch. 2 para. 46 comes into force in accordance with art. 1(1)
+[^c-81cbf6504a27e645d93bc76cf362baba]: Commencement: Sch. 2 para. 46 comes into force in accordance with art. 1(1)
 
-[^key-a2a934ceafa28240d5d11ac10e3d2730]: Commencement: Sch. 2 para. 47 comes into force in accordance with art. 1(1)
+[^c-a2a934ceafa28240d5d11ac10e3d2730]: Commencement: Sch. 2 para. 47 comes into force in accordance with art. 1(1)
 
-[^key-c74af3e0de6211cfbba4e3c973643188]: Commencement: Sch. 2 para. 48 comes into force in accordance with art. 1(1)
+[^c-c74af3e0de6211cfbba4e3c973643188]: Commencement: Sch. 2 para. 48 comes into force in accordance with art. 1(1)
 
-[^key-4881916f625fe823632c397c920d8de6]: Textual amendment: Words in [Sch. 2 para. 48](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/48) substituted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [15](https://www.legislation.gov.uk/uksi/2022/1167/article/15)
+[^c-4881916f625fe823632c397c920d8de6]: Textual amendment: Words in [Sch. 2 para. 48](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/48) substituted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [15](https://www.legislation.gov.uk/uksi/2022/1167/article/15)
 
-[^key-d6ac2922ca39574f5854fa5ae75214fc]: Commencement: Sch. 2 para. 49 comes into force in accordance with art. 1(1)
+[^c-d6ac2922ca39574f5854fa5ae75214fc]: Commencement: Sch. 2 para. 49 comes into force in accordance with art. 1(1)
 
-[^key-85f42f34dff6dc5fd92bd9ad2416e7aa]: Commencement: Sch. 2 para. 50 comes into force in accordance with art. 1(1)
+[^c-85f42f34dff6dc5fd92bd9ad2416e7aa]: Commencement: Sch. 2 para. 50 comes into force in accordance with art. 1(1)
 
-[^key-306bd266ba07eb95872536bedd4a5e59]: Commencement: Sch. 2 para. 51 comes into force in accordance with art. 1(1)
+[^c-306bd266ba07eb95872536bedd4a5e59]: Commencement: Sch. 2 para. 51 comes into force in accordance with art. 1(1)
 
-[^key-b09b51e42fd38673ba94f6552a2514c8]: Commencement: Sch. 2 para. 52 comes into force in accordance with art. 1(1)
+[^c-b09b51e42fd38673ba94f6552a2514c8]: Commencement: Sch. 2 para. 52 comes into force in accordance with art. 1(1)
 
-[^key-173cea6a83ad7a4fec7f0fdc474a6dab]: Textual amendment: [Sch. 2 para. 52(a)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/52) substituted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [16](https://www.legislation.gov.uk/uksi/2022/1167/article/16)
+[^c-173cea6a83ad7a4fec7f0fdc474a6dab]: Textual amendment: [Sch. 2 para. 52(a)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/52) substituted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [16](https://www.legislation.gov.uk/uksi/2022/1167/article/16)
 
-[^key-053915bf045ee9e4780baddb46a9f46d]: Textual amendment: [Sch. 2 para. 52(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/52/b/ii/cc) inserted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [9](https://www.legislation.gov.uk/uksi/2022/1338/article/9)
+[^c-053915bf045ee9e4780baddb46a9f46d]: Textual amendment: [Sch. 2 para. 52(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/52/b/ii/cc) inserted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [9](https://www.legislation.gov.uk/uksi/2022/1338/article/9)
 
-[^key-cc6feecda4fc3cf9c4f3011d7500bc5f]: Textual amendment: [Sch. 2 para. 52A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/52A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 11](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/11)
+[^c-cc6feecda4fc3cf9c4f3011d7500bc5f]: Textual amendment: [Sch. 2 para. 52A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/52A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 11](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/11)
 
-[^key-2a0f48ebb7b477d8bd7353028a6d37ab]: Commencement: Sch. 2 para. 53 comes into force in accordance with art. 1(1)
+[^c-2a0f48ebb7b477d8bd7353028a6d37ab]: Commencement: Sch. 2 para. 53 comes into force in accordance with art. 1(1)
 
-[^key-608b792d00907a9c9de2495a1cf1edb0]: Commencement: Sch. 2 para. 54 comes into force in accordance with art. 1(1)
+[^c-608b792d00907a9c9de2495a1cf1edb0]: Commencement: Sch. 2 para. 54 comes into force in accordance with art. 1(1)
 
-[^key-0fba52ca6610da39c7d0f766b0b8eace]: Textual amendment: [Sch. 2 para. 55](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/55) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [36](https://www.legislation.gov.uk/uksi/2022/453/article/36)
+[^c-0fba52ca6610da39c7d0f766b0b8eace]: Textual amendment: [Sch. 2 para. 55](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/55) substituted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [36](https://www.legislation.gov.uk/uksi/2022/453/article/36)
 
-[^key-e87840b5aaa1f8cff26aade04b382044]: Textual amendment: Word in [Sch. 2 para. 55](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/55) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [11](https://www.legislation.gov.uk/uksi/2024/370/article/11)
+[^c-e87840b5aaa1f8cff26aade04b382044]: Textual amendment: Word in [Sch. 2 para. 55](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/55) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [11](https://www.legislation.gov.uk/uksi/2024/370/article/11)
 
-[^key-c0230553762dd1e13fd4c7b8aba27026]: Commencement: Sch. 2 para. 56 comes into force in accordance with art. 1(1)
+[^c-c0230553762dd1e13fd4c7b8aba27026]: Commencement: Sch. 2 para. 56 comes into force in accordance with art. 1(1)
 
-[^key-f23aeb8c39f8879d6eca4e4d341dc7a8]: Commencement: Sch. 2 para. 57 comes into force in accordance with art. 1(1)
+[^c-f23aeb8c39f8879d6eca4e4d341dc7a8]: Commencement: Sch. 2 para. 57 comes into force in accordance with art. 1(1)
 
-[^key-9756826cf5005019104c9dba5eebfc29]: Commencement: Sch. 2 para. 58 comes into force in accordance with art. 1(1)
+[^c-9756826cf5005019104c9dba5eebfc29]: Commencement: Sch. 2 para. 58 comes into force in accordance with art. 1(1)
 
-[^key-41fbec7f09ac50f6d5ac88c556d5ca98]: Commencement: Sch. 2 para. 59 comes into force in accordance with art. 1(1)
+[^c-41fbec7f09ac50f6d5ac88c556d5ca98]: Commencement: Sch. 2 para. 59 comes into force in accordance with art. 1(1)
 
-[^key-b60e2d439c9ec40764683c344a7210be]: Commencement: Sch. 2 para. 60 comes into force in accordance with art. 1(1)
+[^c-b60e2d439c9ec40764683c344a7210be]: Commencement: Sch. 2 para. 60 comes into force in accordance with art. 1(1)
 
-[^key-67c7b69e634f3803af13c7642099ad44]: Commencement: Sch. 2 para. 61 comes into force in accordance with art. 1(1)
+[^c-67c7b69e634f3803af13c7642099ad44]: Commencement: Sch. 2 para. 61 comes into force in accordance with art. 1(1)
 
-[^key-fadafa03a554cd1058eb81a9da09a98d]: Commencement: Sch. 2 para. 62 comes into force in accordance with art. 1(1)
+[^c-fadafa03a554cd1058eb81a9da09a98d]: Commencement: Sch. 2 para. 62 comes into force in accordance with art. 1(1)
 
-[^key-a33a1293080127e4c77754aae3ca6080]: Commencement: Sch. 2 para. 63 comes into force in accordance with art. 1(1)
+[^c-a33a1293080127e4c77754aae3ca6080]: Commencement: Sch. 2 para. 63 comes into force in accordance with art. 1(1)
 
 [^c24388541]: Marginal citation: [2005 c.15](https://www.legislation.gov.uk/ukpga/2005/15). Chapter 1 of Part 2 has been amended by the [Terrorism Act 2006 (c.11)](https://www.legislation.gov.uk/ukpga/2006/11), [section 33(2) to (4)](https://www.legislation.gov.uk/ukpga/2006/11/section/33/2); the [Northern Ireland (Miscellaneous Provisions) Act 2006 (c.33)](https://www.legislation.gov.uk/ukpga/2006/33), [sections 26(2)](https://www.legislation.gov.uk/ukpga/2006/33/section/26/2) and 30(2) and Schedules 3 and 5; the [Bribery Act 2010 (c.23)](https://www.legislation.gov.uk/ukpga/2010/23), [section 17(2)](https://www.legislation.gov.uk/ukpga/2010/23/section/17/2) and Schedule 1; the Criminal Justice and Licensing (Scotland) Act 2010 (asp.13), section 203 and Schedule 7, paragraph 77; the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), [section 15](https://www.legislation.gov.uk/ukpga/2013/22/section/15) and Schedule 8, paragraphs 157 and 159; the [Criminal Finances Act 2017 (c.22)](https://www.legislation.gov.uk/ukpga/2017/22), [section 51(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/51/1); the Sanctions and Anti-Money Laundering Act 2018, section 59(4) and Schedule 3, paragraph 4; and [S.I. 2014/834](https://www.legislation.gov.uk/uksi/2014/834).
 
-[^key-17f443b9fb538322c79b4cd867919a51]: Commencement: Sch. 2 para. 64 comes into force in accordance with art. 1(1)
+[^c-17f443b9fb538322c79b4cd867919a51]: Commencement: Sch. 2 para. 64 comes into force in accordance with art. 1(1)
 
-[^key-da7b98519cc25e1fa8567fdb05a6c35a]: Textual amendment: [Sch. 2 para. 64](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/64) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 12](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/12)
+[^c-da7b98519cc25e1fa8567fdb05a6c35a]: Textual amendment: [Sch. 2 para. 64](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/64) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 12](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/12)
 
-[^key-9cfcc9d93149e3e55c1b26230366254a]: Textual amendment: [Sch. 2 paras. 64A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/64A), [64B](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/64B) inserted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [10](https://www.legislation.gov.uk/uksi/2022/1338/article/10)
+[^c-9cfcc9d93149e3e55c1b26230366254a]: Textual amendment: [Sch. 2 paras. 64A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/64A), [64B](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/64B) inserted (15.12.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 4) Order 2022 (S.I. 2022/1338)](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [10](https://www.legislation.gov.uk/uksi/2022/1338/article/10)
 
-[^key-2c62e6de0894998790c73c9104c4f84f]: Textual amendment: Word in [Sch. 2 para. 64A(b)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/64A/b) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2024/370/article/12/a)
+[^c-2c62e6de0894998790c73c9104c4f84f]: Textual amendment: Word in [Sch. 2 para. 64A(b)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/64A/b) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2024/370/article/12/a)
 
-[^key-bd44c5d6c8b5e5e85f1533fbb1985f1d]: Textual amendment: Word in [Sch. 2 para. 64A(b)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/64A/b) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 13(a)(i)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/13/a/i)
+[^c-bd44c5d6c8b5e5e85f1533fbb1985f1d]: Textual amendment: Word in [Sch. 2 para. 64A(b)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/64A/b) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 13(a)(i)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/13/a/i)
 
-[^key-6f3fa48b3c2bed2bee326db5a8e9c46d]: Textual amendment: Word in [Sch. 2 para. 64A(b)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/64A/b) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 13(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/13/a/ii)
+[^c-6f3fa48b3c2bed2bee326db5a8e9c46d]: Textual amendment: Word in [Sch. 2 para. 64A(b)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/64A/b) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 13(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/13/a/ii)
 
-[^key-28d3844474c3507436a109548b8c9437]: Textual amendment: [Sch. 2 para. 64A(da)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/64A/da) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2024/370/article/12/b)
+[^c-28d3844474c3507436a109548b8c9437]: Textual amendment: [Sch. 2 para. 64A(da)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/64A/da) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2024/370/article/12/b)
 
-[^key-524dc5a7824d5ed538fbccf49c4a0624]: Textual amendment: [Sch. 2 para. 64A(f)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/64A/f) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 13(b)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/13/b)
+[^c-524dc5a7824d5ed538fbccf49c4a0624]: Textual amendment: [Sch. 2 para. 64A(f)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/64A/f) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 13(b)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/13/b)
 
-[^key-d872c94456361d1bfe2d1f7e422a1d37]: Textual amendment: Words in [Sch. 2 para. 64B](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/64B) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 14(a)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/14/a)
+[^c-d872c94456361d1bfe2d1f7e422a1d37]: Textual amendment: Words in [Sch. 2 para. 64B](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/64B) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 14(a)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/14/a)
 
-[^key-ef8cb8072ff94acb0d8c12b8656156ed]: Textual amendment: Words in [Sch. 2 para. 64B](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/64B) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 14(b)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/14/b)
+[^c-ef8cb8072ff94acb0d8c12b8656156ed]: Textual amendment: Words in [Sch. 2 para. 64B](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/64B) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 14(b)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/14/b)
 
-[^key-e43cf5ff5fd10251e21f0f8c18f4d221]: Commencement: Sch. 2 para. 65 comes into force in accordance with art. 1(1)
+[^c-e43cf5ff5fd10251e21f0f8c18f4d221]: Commencement: Sch. 2 para. 65 comes into force in accordance with art. 1(1)
 
-[^key-65b35b180a942a658e6dc4b07db79ce0]: Commencement: Sch. 2 para. 66 comes into force in accordance with art. 1(1)
+[^c-65b35b180a942a658e6dc4b07db79ce0]: Commencement: Sch. 2 para. 66 comes into force in accordance with art. 1(1)
 
-[^key-10f1e4dff1eeac985d6fd637c544efba]: Commencement: Sch. 2 para. 67 comes into force in accordance with art. 1(1)
+[^c-10f1e4dff1eeac985d6fd637c544efba]: Commencement: Sch. 2 para. 67 comes into force in accordance with art. 1(1)
 
-[^key-c3c9bf30d907d9c1362d2af3e64a51e3]: Commencement: Sch. 2 para. 68 comes into force in accordance with art. 1(1)
+[^c-c3c9bf30d907d9c1362d2af3e64a51e3]: Commencement: Sch. 2 para. 68 comes into force in accordance with art. 1(1)
 
-[^key-4ac5b781c0865d3f3e6ebd1191b401f1]: Commencement: Sch. 2 para. 69 comes into force in accordance with art. 1(1)
+[^c-4ac5b781c0865d3f3e6ebd1191b401f1]: Commencement: Sch. 2 para. 69 comes into force in accordance with art. 1(1)
 
-[^key-69ebfd76ac1cc89cc2fbfebaaa628bd9]: Commencement: Sch. 2 para. 70 comes into force in accordance with art. 1(1)
+[^c-69ebfd76ac1cc89cc2fbfebaaa628bd9]: Commencement: Sch. 2 para. 70 comes into force in accordance with art. 1(1)
 
-[^key-2d36b37439983e32f26c47bcb9b2940b]: Commencement: Sch. 2 para. 71 comes into force in accordance with art. 1(1)
+[^c-2d36b37439983e32f26c47bcb9b2940b]: Commencement: Sch. 2 para. 71 comes into force in accordance with art. 1(1)
 
-[^key-1a84828da05832910e9dbf73b1b8d65a]: Textual amendment: [Sch. 2 para. 71A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/71A) inserted (9.3.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2023 (S.I. 2023/291)](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [8](https://www.legislation.gov.uk/uksi/2023/291/article/8)
+[^c-1a84828da05832910e9dbf73b1b8d65a]: Textual amendment: [Sch. 2 para. 71A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/71A) inserted (9.3.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2023 (S.I. 2023/291)](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [8](https://www.legislation.gov.uk/uksi/2023/291/article/8)
 
-[^key-2174d36d4434a0740aaccaa9c2ae6000]: Commencement: Sch. 2 para. 72 comes into force in accordance with art. 1(1)
+[^c-2174d36d4434a0740aaccaa9c2ae6000]: Commencement: Sch. 2 para. 72 comes into force in accordance with art. 1(1)
 
-[^key-d477362823c13ead3dc9927e4958c383]: Commencement: Sch. 2 para. 73 comes into force in accordance with art. 1(1)
+[^c-d477362823c13ead3dc9927e4958c383]: Commencement: Sch. 2 para. 73 comes into force in accordance with art. 1(1)
 
-[^key-c9db7bb664dd997076c66a3782324bf5]: Commencement: Sch. 2 para. 74 comes into force in accordance with art. 1(1)
+[^c-c9db7bb664dd997076c66a3782324bf5]: Commencement: Sch. 2 para. 74 comes into force in accordance with art. 1(1)
 
 [^c24388551]: Marginal citation: [S.I. 2014/1098](https://www.legislation.gov.uk/uksi/2014/1098), as amended by S.1. 2018/1076.
 
 [^c24388561]: Marginal citation: [S.I. 2014/2710](https://www.legislation.gov.uk/uksi/2014/2710), as amended by [S.I. 2015/213](https://www.legislation.gov.uk/uksi/2015/213) and by [S.I. 2014/2919](https://www.legislation.gov.uk/uksi/2014/2919).
 
-[^key-9a1f7afa50479b3757f54e8fed5c38a0]: Commencement: Sch. 2 para. 75 comes into force in accordance with art. 1(1)
+[^c-9a1f7afa50479b3757f54e8fed5c38a0]: Commencement: Sch. 2 para. 75 comes into force in accordance with art. 1(1)
 
-[^key-1f9b7c8cae24692022411fdfe14062a2]: Commencement: Sch. 2 para. 76 comes into force in accordance with art. 1(1)
+[^c-1f9b7c8cae24692022411fdfe14062a2]: Commencement: Sch. 2 para. 76 comes into force in accordance with art. 1(1)
 
-[^key-57904998c1e29d3675760584c25d0074]: Textual amendment: [Sch. 2 para. 76A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/76A) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [37](https://www.legislation.gov.uk/uksi/2022/453/article/37)
+[^c-57904998c1e29d3675760584c25d0074]: Textual amendment: [Sch. 2 para. 76A](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/76A) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [37](https://www.legislation.gov.uk/uksi/2022/453/article/37)
 
-[^key-459d6f1272a0b4a444d9956e0a3ea241]: Commencement: Sch. 2 para. 77 comes into force in accordance with art. 1(1)
+[^c-459d6f1272a0b4a444d9956e0a3ea241]: Commencement: Sch. 2 para. 77 comes into force in accordance with art. 1(1)
 
-[^key-2ae019605524170cb7ab835d2da12ec2]: Commencement: Sch. 2 para. 78 comes into force in accordance with art. 1(1)
+[^c-2ae019605524170cb7ab835d2da12ec2]: Commencement: Sch. 2 para. 78 comes into force in accordance with art. 1(1)
 
-[^key-7f87a8cadc16ab07348440595146aac7]: Textual amendment: Words in [Sch. 2 para. 78(c)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/78/c) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 15(a)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/15/a)
+[^c-7f87a8cadc16ab07348440595146aac7]: Textual amendment: Words in [Sch. 2 para. 78(c)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/78/c) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 15(a)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/15/a)
 
-[^key-38a995a1316e0f5c04d9781cbe19c047]: Textual amendment: [Sch. 2 para. 78(d)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/78/d) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 15(b)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/15/b)
+[^c-38a995a1316e0f5c04d9781cbe19c047]: Textual amendment: [Sch. 2 para. 78(d)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/78/d) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 15(b)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/15/b)
 
-[^key-65beec3d7386dfe50b14381b557c6fe8]: Textual amendment: [Sch. 2 para. 78(e)-(n)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/78/e) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [38](https://www.legislation.gov.uk/uksi/2022/453/article/38)
+[^c-65beec3d7386dfe50b14381b557c6fe8]: Textual amendment: [Sch. 2 para. 78(e)-(n)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/78/e) inserted (14.4.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/453)](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [38](https://www.legislation.gov.uk/uksi/2022/453/article/38)
 
-[^key-89294a749256f9ff9059f5fc4b64c613]: Textual amendment: [Sch. 2 paras. 78(ea)-(ec)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/78/ea) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2024/370/article/13/a)
+[^c-89294a749256f9ff9059f5fc4b64c613]: Textual amendment: [Sch. 2 paras. 78(ea)-(ec)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/78/ea) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2024/370/article/13/a)
 
-[^key-0d08e97d6f2bb835912599a13f2a643f]: Textual amendment: [Sch. 2 para. 78(ed)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/78/ed) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 15(c)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/15/c)
+[^c-0d08e97d6f2bb835912599a13f2a643f]: Textual amendment: [Sch. 2 para. 78(ed)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/78/ed) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15 para. 15(c)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15/paragraph/15/c)
 
-[^key-cbd23fb7705083e7ee9604238103b065]: Textual amendment: [Sch. 2 para. 78(ka)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/78/ka) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2024/370/article/13/b)
+[^c-cbd23fb7705083e7ee9604238103b065]: Textual amendment: [Sch. 2 para. 78(ka)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/78/ka) inserted (14.3.2024) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/370)](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/370/article/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2024/370/article/13/b)
 
-[^key-df471fdce54ec97b8d3565d2738a3634]: Textual amendment: [Sch. 2 para. 78(o)-(q)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/78) inserted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [17](https://www.legislation.gov.uk/uksi/2022/1167/article/17)
+[^c-df471fdce54ec97b8d3565d2738a3634]: Textual amendment: [Sch. 2 para. 78(o)-(q)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/78) inserted (10.11.2022) by [The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 3) Order 2022 (S.I. 2022/1167)](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [17](https://www.legislation.gov.uk/uksi/2022/1167/article/17)
 
-[^key-f6db187b0c70b1340951ced8b301b5d3]: Textual amendment: [Sch. 2 para. 78(r)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/78/r)[(s)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/78/s) inserted (9.3.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2023 (S.I. 2023/291)](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [9](https://www.legislation.gov.uk/uksi/2023/291/article/9)
+[^c-f6db187b0c70b1340951ced8b301b5d3]: Textual amendment: [Sch. 2 para. 78(r)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/78/r)[(s)](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2/paragraph/78/s) inserted (9.3.2023) by [The Russia (Sanctions) (Overseas Territories) (Amendment) Order 2023 (S.I. 2023/291)](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [9](https://www.legislation.gov.uk/uksi/2023/291/article/9)

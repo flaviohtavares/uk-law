@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Harbour reorganisation schemes.[^c7737961][^key-d66f41d68f2b2c05ebafe83bf1be15b4]
+## 18. Harbour reorganisation schemes.[^c7737961][^c-d66f41d68f2b2c05ebafe83bf1be15b4]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ summary: ''
 - (g) dissolving any body of constables maintained by any of the relevant authorities, and transferring—
   - (i) the members of that body to another such body or bodies (whether or not maintained by another or other of those authorities or by a body constituted by the scheme);
   - (ii) property, rights or liabilities vested for the purposes of the dissolved body in the authority by whom it was maintained to an authority by whom is or is to be maintained a body of constables to which any of the members of the dissolved body are transferred;
-- (h)[^c7737991] preserving (with or without adjustment) or otherwise securing[^c7738001] the rights, as respects pensions, gratuities or other like benefits, of persons transferred by the scheme and their spouses , civil partners *(Extent: E+W)*[^key-fcb61cdbed6b2d76c40ae2837a33bc12] and dependents and of persons who are determined in accordance with the scheme to be such as would have been transferred thereby had they been serving when it comes into operation and their spouses , civil partners *(Extent: E+W)* and dependents;
+- (h)[^c7737991] preserving (with or without adjustment) or otherwise securing[^c7738001] the rights, as respects pensions, gratuities or other like benefits, of persons transferred by the scheme and their spouses , civil partners *(Extent: E+W)*[^c-fcb61cdbed6b2d76c40ae2837a33bc12] and dependents and of persons who are determined in accordance with the scheme to be such as would have been transferred thereby had they been serving when it comes into operation and their spouses , civil partners *(Extent: E+W)* and dependents;
 - (i)[^c7738011] making such provision as appears to the Minister necessary of expedient for rendering of full effect any provision of the scheme having effect by virtue of any of the foregoing paragraphs and such other supplementary, consequential or incidental[^c7738021] provision as appears to him necessary or expedient for any of the purposes of the scheme, including, but without prejudice to the generality of the foregoing words, provision for repealing or amending any statutory provision of local application affecting the group or any of the harbours comprised therein.
 
 (3)[^c7738031] Where a harbour reorganisation scheme provides for transferring interests in land, there must, in the case of each parcel of land interests in which are proposed to be transferred, be annexed to the scheme a map of a scale not less than 1:2500[^c7738041] on which the boundaries of that parcel are plainly delineated.
@@ -45,7 +45,7 @@ summary: ''
 - (a) Part I of that Schedule shall have effect with respect to the procedure for confirming schemes submitted to the Secretary of State;
 - (b) Part 1 of that Schedule shall, subject to the modifications specified in Part II thereof, have effect with respect to the procedure for the making of schemes by the Secretary of State of his own motion;
 
-and a harbour reorganisation scheme as confirmed or made by the Secretary of State shall be subject to special parliamentary procedure *(Extent: S)* *(affected by repeal, see note)*[^key-e37f8f66a232da3657909ccd40e8f926].
+and a harbour reorganisation scheme as confirmed or made by the Secretary of State shall be subject to special parliamentary procedure *(Extent: S)* *(affected by repeal, see note)*[^c-e37f8f66a232da3657909ccd40e8f926].
 
 (5) The Minister shall not confirm or make[^c7738061] a harbour reorganisation scheme containing such provision as is authorised by subsection (2)(e) above unless it also includes provision for the payment of compensation in respect of the transfer of the interests in question.
 
@@ -57,7 +57,7 @@ and a harbour reorganisation scheme as confirmed or made by the Secretary of Sta
 
 [^c7737961]: Modification: S. 18 amended by [Docks and Harbours Act 1966 (c. 28, SIF 58)](https://www.legislation.gov.uk/ukpga/1966/28), [s. 36(4)](https://www.legislation.gov.uk/ukpga/1966/28/section/36/4)
 
-[^key-d66f41d68f2b2c05ebafe83bf1be15b4]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/1964/40/section/18): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(b)(iii)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/b/iii), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in [S.I. 2018/278](https://www.legislation.gov.uk/uksi/2018/278), [reg. 2](https://www.legislation.gov.uk/uksi/2018/278/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/278/schedule))
+[^c-d66f41d68f2b2c05ebafe83bf1be15b4]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/1964/40/section/18): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(b)(iii)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/b/iii), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in [S.I. 2018/278](https://www.legislation.gov.uk/uksi/2018/278), [reg. 2](https://www.legislation.gov.uk/uksi/2018/278/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/278/schedule))
 
 [^c7737971]: Textual amendment: Words repealed by [Transport Act 1981 (c. 56, SIF 58)](https://www.legislation.gov.uk/ukpga/1981/56), [Sch. 12 Pt. II](https://www.legislation.gov.uk/ukpga/1981/56/schedule/12/part/II)
 
@@ -67,7 +67,7 @@ and a harbour reorganisation scheme as confirmed or made by the Secretary of Sta
 
 [^c7738001]: Textual amendment: Words inserted by [Docks and Harbours Act 1966 (c. 28, SIF 58)](https://www.legislation.gov.uk/ukpga/1966/28), [s. 43(1)](https://www.legislation.gov.uk/ukpga/1966/28/section/43/1)
 
-[^key-fcb61cdbed6b2d76c40ae2837a33bc12]: Textual amendment: Words in s. 18(2)(h) inserted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/10)
+[^c-fcb61cdbed6b2d76c40ae2837a33bc12]: Textual amendment: Words in s. 18(2)(h) inserted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/10)
 
 [^c7738011]: Modification: [S. 18(2)(i)](https://www.legislation.gov.uk/ukpga/1964/40/section/18/2/i) extended by [Docks and Harbours Act 1966 (c. 28, SIF 58)](https://www.legislation.gov.uk/ukpga/1966/28), [ss. 42(4)(a)](https://www.legislation.gov.uk/ukpga/1966/28/section/42/4/a), [43(3)](https://www.legislation.gov.uk/ukpga/1966/28/section/43/3); and explained by [Docks and Harbours Act 1966 (c. 28, SIF 58)](https://www.legislation.gov.uk/ukpga/1966/28), [s. 45](https://www.legislation.gov.uk/ukpga/1966/28/section/45)
 
@@ -79,6 +79,6 @@ and a harbour reorganisation scheme as confirmed or made by the Secretary of Sta
 
 [^c7738051]: Textual amendment: S. 18(4) substituted by [Transport Act 1981 (c. 56, SIF 58)](https://www.legislation.gov.uk/ukpga/1981/56), [Sch. 6 para. 6(2)](https://www.legislation.gov.uk/ukpga/1981/56/schedule/6/paragraph/6/2)
 
-[^key-e37f8f66a232da3657909ccd40e8f926]: Textual amendment: Words in s. 18(4) repealed (S.) (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [Sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-e37f8f66a232da3657909ccd40e8f926]: Textual amendment: Words in s. 18(4) repealed (S.) (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [Sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
 [^c7738061]: Textual amendment: Words inserted by [Transport Act 1981 (c. 56)](https://www.legislation.gov.uk/ukpga/1981/56), [Sch. 6 para. 6(3)](https://www.legislation.gov.uk/ukpga/1981/56/schedule/6/paragraph/6/3)

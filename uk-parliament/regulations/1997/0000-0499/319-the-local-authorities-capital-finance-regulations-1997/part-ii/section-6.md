@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Housing disposal costs[^key-5d5cbbba5f752d2d9f4905f122bb7fcf]
+## 6. Housing disposal costs[^c-5d5cbbba5f752d2d9f4905f122bb7fcf]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ Where an amount in respect of interest is included in any instalment of a dispos
 
 ## Annotations
 
-[^key-5d5cbbba5f752d2d9f4905f122bb7fcf]: Commencement: Reg. 6 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-5d5cbbba5f752d2d9f4905f122bb7fcf]: Commencement: Reg. 6 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00003]: Footnote: [S.I. 1990/1019](https://www.legislation.gov.uk/uksi/1990/1019). There are amendments which are not relevant to this regulation. Part IV of the Housing Act 1988, under which the Regulations were made, was repealed by section 222 of, and paragraph 1 of Part I of Schedule 18 to, the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52) subject to the savings contained in paragraph 12 of the Schedule to the Housing Act 1996 (Commencement No. 3 and Transitional Provisions) Order 1996 ([S.I. 1996/2402 (C. 62)](https://www.legislation.gov.uk/uksi/1996/2402)).

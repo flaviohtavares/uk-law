@@ -34,17 +34,17 @@ Section 51
 
 (2) In subsection (2)—
 
-- (a) for “an order under section 39B, the court” substitute “ a disqualification order, the Secretary of State[^key-2e631ad0a236101ddd1e9edeb17a8fa2] ”, and
+- (a) for “an order under section 39B, the court” substitute “ a disqualification order, the Secretary of State[^c-2e631ad0a236101ddd1e9edeb17a8fa2] ”, and
 - (b) for “as the court” substitute “ as the Secretary of State ”.
 
 (3) In subsection (3)—
 
-- (a) for “such an order the court” substitute “ a disqualification order, the Secretary of State[^key-a5ea84fa47cf0c20691dc6f4d6d1c180] ”, and
+- (a) for “such an order the court” substitute “ a disqualification order, the Secretary of State[^c-a5ea84fa47cf0c20691dc6f4d6d1c180] ”, and
 - (b) for “as the court” substitute “ as the Secretary of State ”.
 
 (4) In subsection (4)—
 
-- (a) for “court” (in both places) substitute “ Secretary of State[^key-e328a43de68a5f868cf5e10a62395e8b] ”, and
+- (a) for “court” (in both places) substitute “ Secretary of State[^c-e328a43de68a5f868cf5e10a62395e8b] ”, and
 - (b) in paragraph (a), for “the order under section 39B” substitute “ the disqualification order ”.
 
 (5) In subsection (5)—
@@ -65,18 +65,18 @@ Section 51
 (2) In subsection (1)—
 
 - (a) for “an order under section 39B” substitute “ a disqualification order ”,
-- (b) for “court” substitute “ Secretary of State[^key-8dd49bdfa5f863e6f617e319c83243e2] ”,
+- (b) for “court” substitute “ Secretary of State[^c-8dd49bdfa5f863e6f617e319c83243e2] ”,
 - (c) omit “the Secretary of State or”, and
 - (d) in paragraphs (a) and (b), for “the order under section 39B” substitute “ the disqualification order ”.
 
 (3) After that subsection insert—
 
-> (1A) The power conferred by subsection (1) shall be exercisable by the court instead of by the Secretary of State[^key-59523563978c6e1d0d666ddb6bb1345d] at any time when an appeal brought under section 39CB against the order has not been determined, withdrawn or discontinued.
+> (1A) The power conferred by subsection (1) shall be exercisable by the court instead of by the Secretary of State[^c-59523563978c6e1d0d666ddb6bb1345d] at any time when an appeal brought under section 39CB against the order has not been determined, withdrawn or discontinued.
 
 (4) In subsection (2)—
 
 - (a) for “an order under section 39B” substitute “ a disqualification order ”,
-- (b) for “court” substitute “ Secretary of State[^key-153d9c39af29e6010a9f39fc9451c5f7] ”,
+- (b) for “court” substitute “ Secretary of State[^c-153d9c39af29e6010a9f39fc9451c5f7] ”,
 - (c) omit “the Secretary of State or”, and
 - (d) for “the order under section 39B” substitute “ the disqualification order ”.
 
@@ -98,7 +98,7 @@ Section 51
 > - (b) as to the surrender of documents under section 39CA and their return when the period for which a disqualification order has effect is suspended or has ended;
 > - (c) that a statement in writing to the effect that wages of any amount have been paid to a person during any period, purporting to be signed by or on behalf of the person's employer, shall be evidence (or, in Scotland, sufficient evidence) of the facts stated for the purposes of an appeal under section 39CB;
 > - (d) permitting or requiring the court to dismiss an appeal brought under that section where the person who brought it fails to appear at the hearing;
-> - (e) requiring the court to send notice to the Secretary of State[^key-f8450a6b9af720ac5bd11acd8c32f28f] of any order made on an appeal under that section;
+> - (e) requiring the court to send notice to the Secretary of State[^c-f8450a6b9af720ac5bd11acd8c32f28f] of any order made on an appeal under that section;
 > - (f) as to the exercise by the Secretary of State and the court of the power conferred by section 39E(1);
 > - (g) as to the revival of a disqualification order in such circumstances as may be prescribed;
 > - (h) for sections 39C to 39E to have effect with prescribed modifications in cases where a person against whom a disqualification order has effect is outside the United Kingdom.
@@ -115,16 +115,16 @@ Section 51
 
 ## Annotations
 
-[^key-2e631ad0a236101ddd1e9edeb17a8fa2]: Textual amendment: Words in Sch. 5 para. 3(2)(a)(b) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 100(2)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/100/2)
+[^c-2e631ad0a236101ddd1e9edeb17a8fa2]: Textual amendment: Words in Sch. 5 para. 3(2)(a)(b) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 100(2)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/100/2)
 
-[^key-a5ea84fa47cf0c20691dc6f4d6d1c180]: Textual amendment: Words in Sch. 5 para. 3(3)(a)(b) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 100(2)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/100/2)
+[^c-a5ea84fa47cf0c20691dc6f4d6d1c180]: Textual amendment: Words in Sch. 5 para. 3(3)(a)(b) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 100(2)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/100/2)
 
-[^key-e328a43de68a5f868cf5e10a62395e8b]: Textual amendment: Words in Sch. 5 para. 3(4)(a) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 100(2)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/100/2)
+[^c-e328a43de68a5f868cf5e10a62395e8b]: Textual amendment: Words in Sch. 5 para. 3(4)(a) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 100(2)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/100/2)
 
-[^key-8dd49bdfa5f863e6f617e319c83243e2]: Textual amendment: Words in Sch. 5 para. 5(2)(b)(c) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 100(3)(a)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/100/3/a)
+[^c-8dd49bdfa5f863e6f617e319c83243e2]: Textual amendment: Words in Sch. 5 para. 5(2)(b)(c) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 100(3)(a)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/100/3/a)
 
-[^key-59523563978c6e1d0d666ddb6bb1345d]: Textual amendment: Words in Sch. 5 para. 5(3) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 100(3)(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/100/3/b)
+[^c-59523563978c6e1d0d666ddb6bb1345d]: Textual amendment: Words in Sch. 5 para. 5(3) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 100(3)(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/100/3/b)
 
-[^key-153d9c39af29e6010a9f39fc9451c5f7]: Textual amendment: Words in Sch. 5 para. 5(4)(b)(c) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 100(3)(c)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/100/3/c)
+[^c-153d9c39af29e6010a9f39fc9451c5f7]: Textual amendment: Words in Sch. 5 para. 5(4)(b)(c) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 100(3)(c)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/100/3/c)
 
-[^key-f8450a6b9af720ac5bd11acd8c32f28f]: Textual amendment: Words in Sch. 5 para. 6 substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 100(4)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/100/4)
+[^c-f8450a6b9af720ac5bd11acd8c32f28f]: Textual amendment: Words in Sch. 5 para. 6 substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 100(4)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/100/4)

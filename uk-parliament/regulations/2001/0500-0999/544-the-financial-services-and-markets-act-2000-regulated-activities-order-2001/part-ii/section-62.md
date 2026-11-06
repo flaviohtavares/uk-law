@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Arranging administration by authorised person[^key-5c9886cdd7969a2591033dfcf8bd039a]
+## 62. Arranging administration by authorised person[^c-5c9886cdd7969a2591033dfcf8bd039a]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A person who is not an authorised person does not carry on an activity of the ki
 
 ## Annotations
 
-[^key-5c9886cdd7969a2591033dfcf8bd039a]: Commencement: Art. 62 in force at 31.10.2004, see art. 1(2)(b) (as read with Treasury notice dated 9.7.2003)
+[^c-5c9886cdd7969a2591033dfcf8bd039a]: Commencement: Art. 62 in force at 31.10.2004, see art. 1(2)(b) (as read with Treasury notice dated 9.7.2003)

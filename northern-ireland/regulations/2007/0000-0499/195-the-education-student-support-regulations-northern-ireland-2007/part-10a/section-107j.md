@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 107J. Declarations provided by academic authorities[^key-b68c562ac9b0692a1dd949a9d88cea5e]
+## 107J. Declarations provided by academic authorities[^c-b68c562ac9b0692a1dd949a9d88cea5e]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b68c562ac9b0692a1dd949a9d88cea5e]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/nisr/2007/195/part/10A/regulation/107A) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [17](https://www.legislation.gov.uk/nisr/2007/363/regulation/17)
+[^c-b68c562ac9b0692a1dd949a9d88cea5e]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/nisr/2007/195/part/10A/regulation/107A) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [17](https://www.legislation.gov.uk/nisr/2007/363/regulation/17)

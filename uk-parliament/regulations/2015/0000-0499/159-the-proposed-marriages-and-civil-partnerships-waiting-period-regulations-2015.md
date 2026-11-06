@@ -45,13 +45,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 31(5ED) and 74(3) of the Marriage Act 1949[^f00001] and sections 12(7) and 258(2) of the Civil Partnership Act 2004[^f00002], and having consulted the Registrar General[^f00003], makes the following Regulations:
 
-## 1. Citation and commencement[^key-dba42cc00562414f32da067ec8d9c9ee]
+## 1. Citation and commencement[^c-dba42cc00562414f32da067ec8d9c9ee]
 
 (1) These Regulations may be cited as the Proposed Marriages and Civil Partnerships (Waiting Period) Regulations 2015.
 
 (2) They come into force on 2nd March 2015.
 
-## 2. Proposed marriage: application to reduce 28 or 70 day period[^key-c4131cb96ffaa2e452f6ef00b0f32f29]
+## 2. Proposed marriage: application to reduce 28 or 70 day period[^c-c4131cb96ffaa2e452f6ef00b0f32f29]
 
 (1) An application made to the Secretary of State under section 31(5A), and in accordance with section 31(5EA), of the 1949 Act[^f00004] must be made—
 
@@ -64,9 +64,9 @@ The Secretary of State, in exercise of the powers conferred by sections 31(5ED) 
 (3) In this regulation—
 
 - “1949 Act” means the Marriage Act 1949,
-- “**fee**” means the fee specified in regulations made under section 71A of the 1949 Act[^key-00fc3c0e9711e04e32414bd22ed21401].
+- “**fee**” means the fee specified in regulations made under section 71A of the 1949 Act[^c-00fc3c0e9711e04e32414bd22ed21401].
 
-## 3. Proposed civil partnership: application to shorten the 28 or 70 day period[^key-c61c4191811e9ec3418baf2b9b0d35f8]
+## 3. Proposed civil partnership: application to shorten the 28 or 70 day period[^c-c61c4191811e9ec3418baf2b9b0d35f8]
 
 (1) An application made to the Secretary of State under section 12(1), and in accordance with section 12(4), of the 2004 Act[^f00006] must be made—
 
@@ -81,7 +81,7 @@ The Secretary of State, in exercise of the powers conferred by sections 31(5ED) 
 - “2004 Act” means the Civil Partnership Act 2004,
 - “**fee**” means the fee specified in an order made under section 34(1)(b) of the 2004 Act[^f00007].
 
-## 4. Further information or evidence[^key-f2e05e75879bec71a84f7fbc3caf5605]
+## 4. Further information or evidence[^c-f2e05e75879bec71a84f7fbc3caf5605]
 
 (1) The Secretary of State may request further information or evidence from a party for the purposes of determining an application mentioned in regulation 2 or 3.
 
@@ -95,25 +95,25 @@ Home Office
 
 2nd February 2015
 
-## SCHEDULE 1[^key-54a13ec4672efd0542e3e95173425172]
+## SCHEDULE 1[^c-54a13ec4672efd0542e3e95173425172]
 
 Regulation 2
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/159/images/uksi_20150159_en_001)
 
-## SCHEDULE 2[^key-a27927235ee064b7e008c183b9ee01bc]
+## SCHEDULE 2[^c-a27927235ee064b7e008c183b9ee01bc]
 
 Regulation 2
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/159/images/uksi_20150159_en_002)
 
-## SCHEDULE 3[^key-21238880c620babbed1c6bb635149803]
+## SCHEDULE 3[^c-21238880c620babbed1c6bb635149803]
 
 Regulation 3
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/159/images/uksi_20150159_en_003)
 
-## SCHEDULE 4[^key-0c4009b58e54ff205e2957ab7fe88cca]
+## SCHEDULE 4[^c-0c4009b58e54ff205e2957ab7fe88cca]
 
 Regulation 3
 
@@ -141,28 +141,28 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00003]: Footnote: See section 31(5EE) of the Marriage Act 1949, which was inserted by paragraphs 1 and 10(1) and (3) of Schedule 4 to the Immigration Act 2014, and section 12(8) of the Civil Partnership Act 2004, which was inserted by paragraphs 18 and 23(1) and (2) of Schedule 4 to the Immigration Act 2014.
 
-[^key-dba42cc00562414f32da067ec8d9c9ee]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/159/regulation/1) in force at 2.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/159/regulation/1/2)
+[^c-dba42cc00562414f32da067ec8d9c9ee]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/159/regulation/1) in force at 2.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/159/regulation/1/2)
 
-[^key-c4131cb96ffaa2e452f6ef00b0f32f29]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/159/regulation/2) in force at 2.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/159/regulation/1/2)
+[^c-c4131cb96ffaa2e452f6ef00b0f32f29]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/159/regulation/2) in force at 2.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/159/regulation/1/2)
 
 [^f00004]: Footnote: Section 31(5A) was inserted by section 160(6) of the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33) and amended by paragraphs 1 and 10(1) and (2)(c) of Schedule 4 to the Immigration Act 2014 . Section 31(5EA) was inserted by paragraphs 1 and 10(1) and (3) of Schedule 4 to the Immigration Act 2014. In a case where the Secretary of State notifies the superintendent registrar of his or her decision to investigate whether the proposed marriage is a sham, the waiting period referred to in section 31 of the Marriage Act 1949 is extended from 28 days to 70 days (see the modifications in paragraph 3 of Schedule 3A to the Marriage Act 1949; Schedule 3A was inserted by paragraphs 1 and 9 of Schedule 4 to the Immigration Act 2014).
 
-[^key-00fc3c0e9711e04e32414bd22ed21401]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2015/159/regulation/2/3) substituted (1.11.2017) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) Regulations 2017 (S.I. 2017/947)](https://www.legislation.gov.uk/uksi/2017/947), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/947/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2017/947/regulation/4)
+[^c-00fc3c0e9711e04e32414bd22ed21401]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2015/159/regulation/2/3) substituted (1.11.2017) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) Regulations 2017 (S.I. 2017/947)](https://www.legislation.gov.uk/uksi/2017/947), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/947/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2017/947/regulation/4)
 
-[^key-c61c4191811e9ec3418baf2b9b0d35f8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/159/regulation/3) in force at 2.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/159/regulation/1/2)
+[^c-c61c4191811e9ec3418baf2b9b0d35f8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/159/regulation/3) in force at 2.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/159/regulation/1/2)
 
 [^f00006]: Footnote: Section 12(1) was amended by paragraphs 18 and 23(1) and (2) of Schedule 4 to the Immigration Act 2014 and section 12(4) was inserted by paragraphs 18 and 23(1) and (2) of Schedule 4 to that Act. In a case where the Secretary of State notifies the registration authority of his or her decision to investigate whether the proposed civil partnership is a sham, the waiting period referred to in section 12 of the Civil Partnership Act 2004 is extended from 28 days to 70 days (see the modifications in paragraph 3 of Schedule 3A to the Civil Partnership Act 2004; Schedule 3A was inserted by paragraphs 18 and 25 of Schedule 4 to the Immigration Act 2014).
 
 [^f00007]: Footnote: Section 8(1) was amended by [S.I. 2008/678](https://www.legislation.gov.uk/uksi/2008/678). A fee has been specified by virtue of [S.I. 2014 / 1789](https://www.legislation.gov.uk/uksi/2014/1789) and is amended by [S.I. 2015/117](https://www.legislation.gov.uk/uksi/2015/117).
 
-[^key-f2e05e75879bec71a84f7fbc3caf5605]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/159/regulation/4) in force at 2.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/159/regulation/1/2)
+[^c-f2e05e75879bec71a84f7fbc3caf5605]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/159/regulation/4) in force at 2.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/159/regulation/1/2)
 
-[^key-54a13ec4672efd0542e3e95173425172]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/159/schedule/1) in force at 2.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/159/regulation/1/2)
+[^c-54a13ec4672efd0542e3e95173425172]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/159/schedule/1) in force at 2.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/159/regulation/1/2)
 
-[^key-a27927235ee064b7e008c183b9ee01bc]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/159/schedule/2) in force at 2.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/159/regulation/1/2)
+[^c-a27927235ee064b7e008c183b9ee01bc]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/159/schedule/2) in force at 2.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/159/regulation/1/2)
 
-[^key-21238880c620babbed1c6bb635149803]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2015/159/schedule/3) in force at 2.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/159/regulation/1/2)
+[^c-21238880c620babbed1c6bb635149803]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2015/159/schedule/3) in force at 2.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/159/regulation/1/2)
 
-[^key-0c4009b58e54ff205e2957ab7fe88cca]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2015/159/schedule/4) in force at 2.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/159/regulation/1/2)
+[^c-0c4009b58e54ff205e2957ab7fe88cca]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2015/159/schedule/4) in force at 2.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/159/regulation/1/2)
 
 [^f00008]: Footnote: The minimum waiting period was increased from 15 to 28 days by paragraphs 1 and 10 of Schedule 4 to the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22) in respect of proposed marriages and by paragraphs 18 and 22 of Schedule 4 to that Act in respect of proposed civil partnerships.

@@ -59,12 +59,12 @@ Section 203.
 
 - (a) the income receivable by the local authority from standard rents;
 - (b) any income receivable by the local authority for that year in respect of service charges, supplementary charges, feuduties and any other charges in respect of houses and other property to which the account relates;
-- (c)[^key-22df5c1927bc021f8abe32aec2b7fa72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-22df5c1927bc021f8abe32aec2b7fa72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) any income receivable by the local authority for that year in respect of all such buildings as are referred to in paragraph 1(1)(e);
 - (e) any payments received by the local authority from another local authority in pursuance of any overspill agreement, being payments such as are mentioned in paragraph 3(f) of this Schedule;
 - (f)[^c12784111] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) income, and receipts in the nature of income, being income or receipts arising for that year from the investment or other use of money carried to the account;
-- (h) any other income of any description, including[^key-2639ad249f4ca77b1704f40bb34f4ae2] a contribution out of the general fund kept under section 93 of the Local Government (Scotland) Act 1973, receivable by the local authority for that year, being income relating to expenditure falling to be debited to the account for that year;
+- (h) any other income of any description, including[^c-2639ad249f4ca77b1704f40bb34f4ae2] a contribution out of the general fund kept under section 93 of the Local Government (Scotland) Act 1973, receivable by the local authority for that year, being income relating to expenditure falling to be debited to the account for that year;
 - (i) such other income of the local authority as the Secretary of State may direct.
 
 (2) Subject to sub-paragraph (3), where any house or other property to which the account relates has been sold or otherwise disposed of, an amount equal to any income of the local authority arising from the investment or other use of capital money received by the authority in respect of the transaction shall be carried to the credit of the account.
@@ -76,7 +76,7 @@ Section 203.
 
 (4) An amount equal to any income of the local authority arising from an investment or other use of borrowed moneys in respect of which the authority are required under paragraph 3 below to debit loan charges to the account shall be carried to the credit of the account.
 
-(5) For any year, the local authority may [^key-11f653b9c9709a785265fa6fe57768b2]... carry to the credit of the account, in addition to the amounts required by the foregoing provisions of this Schedule, such further amounts, if any, as they think fit.
+(5) For any year, the local authority may [^c-11f653b9c9709a785265fa6fe57768b2]... carry to the credit of the account, in addition to the amounts required by the foregoing provisions of this Schedule, such further amounts, if any, as they think fit.
 
 #### Debits
 
@@ -139,15 +139,15 @@ Provided that nothing in sub-paragraph (a) shall apply to expenditure on the pro
 
 [^c12784081]: Modification: [Sch. 15 para. 1(1)(e)](https://www.legislation.gov.uk/ukpga/1987/26/schedule/15/paragraph/1/1/e) extended (1.4.1999) by [S.I. 1999/828](https://www.legislation.gov.uk/uksi/1999/828), [art. 3(3)](https://www.legislation.gov.uk/uksi/1999/828/article/3/3)
 
-[^key-22df5c1927bc021f8abe32aec2b7fa72]: Textual amendment: Sch. 15 para. 2(1)(c) repealed (1.4.2013) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 4(a)(iii)](https://www.legislation.gov.uk/asp/2012/11/section/4/a/iii), [5(2)](https://www.legislation.gov.uk/asp/2012/11/section/5/2)
+[^c-22df5c1927bc021f8abe32aec2b7fa72]: Textual amendment: Sch. 15 para. 2(1)(c) repealed (1.4.2013) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 4(a)(iii)](https://www.legislation.gov.uk/asp/2012/11/section/4/a/iii), [5(2)](https://www.legislation.gov.uk/asp/2012/11/section/5/2)
 
 [^c12784111]: Textual amendment: Sch. 15 para. 2(1)(f) repealed (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4](https://www.legislation.gov.uk/uksi/1996/323/article/4)
 
-[^key-2639ad249f4ca77b1704f40bb34f4ae2]: Textual amendment: Word in Sch. 15 para. 2(1)(h) substituted (12.1.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 78(2)(a)](https://www.legislation.gov.uk/asp/2025/13/section/78/2/a), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/408](https://www.legislation.gov.uk/ssi/2025/408), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2025/408/regulation/2/c)
+[^c-2639ad249f4ca77b1704f40bb34f4ae2]: Textual amendment: Word in Sch. 15 para. 2(1)(h) substituted (12.1.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 78(2)(a)](https://www.legislation.gov.uk/asp/2025/13/section/78/2/a), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/408](https://www.legislation.gov.uk/ssi/2025/408), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2025/408/regulation/2/c)
 
 [^c12784121]: Marginal citation: [1975 c. 30](https://www.legislation.gov.uk/ukpga/1975/30).
 
-[^key-11f653b9c9709a785265fa6fe57768b2]: Textual amendment: Words in Sch. 15 para. 2(5) repealed (12.1.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 78(2)(b)](https://www.legislation.gov.uk/asp/2025/13/section/78/2/b), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/408](https://www.legislation.gov.uk/ssi/2025/408), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2025/408/regulation/2/c)
+[^c-11f653b9c9709a785265fa6fe57768b2]: Textual amendment: Words in Sch. 15 para. 2(5) repealed (12.1.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 78(2)(b)](https://www.legislation.gov.uk/asp/2025/13/section/78/2/b), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/408](https://www.legislation.gov.uk/ssi/2025/408), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2025/408/regulation/2/c)
 
 [^c12784131]: Marginal citation: [1950 c. 34](https://www.legislation.gov.uk/ukpga/1950/34).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Part 4A permissions: variation or cancellation on initiative of FCA[^key-000e5ac99c7ff5799eceb607ffe7e2bb]
+## 28. Part 4A permissions: variation or cancellation on initiative of FCA[^c-000e5ac99c7ff5799eceb607ffe7e2bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 11 amends Part 4A of the Financial Services and Markets Act 2000 (permi
 
 ## Annotations
 
-[^key-000e5ac99c7ff5799eceb607ffe7e2bb]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2021/22/section/28) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/p)
+[^c-000e5ac99c7ff5799eceb607ffe7e2bb]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2021/22/section/28) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/p)

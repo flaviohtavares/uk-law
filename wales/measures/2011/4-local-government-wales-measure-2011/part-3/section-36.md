@@ -23,8 +23,8 @@ summary: ''
 (1) In the Local Government Act 2000—
 
 - (a) in section 29 (operation of, and publicity for, executive arrangements), omit subsection (3);
-- (b)[^key-6a69b457f6bef28c4f23b8a85e9b8548] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-6a69b457f6bef28c4f23b8a85e9b8548] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6a69b457f6bef28c4f23b8a85e9b8548] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-6a69b457f6bef28c4f23b8a85e9b8548] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) omit section 33 (operation of alternative arrangements);
 - (e) in section 34 (referendum following petition), in subsection (3), for “29 or 33” substitute “ or 29 ”;
 - (f) in section 35 (referendum following direction), in subsection (3), for “29 or 33” substitute “ or 29 ”;
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a69b457f6bef28c4f23b8a85e9b8548]: Textual amendment: [S. 36(1)(b)](https://www.legislation.gov.uk/mwa/2011/4/section/36/1/b)[(c)](https://www.legislation.gov.uk/mwa/2011/4/section/36/1/c) repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)
+[^c-6a69b457f6bef28c4f23b8a85e9b8548]: Textual amendment: [S. 36(1)(b)](https://www.legislation.gov.uk/mwa/2011/4/section/36/1/b)[(c)](https://www.legislation.gov.uk/mwa/2011/4/section/36/1/c) repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)

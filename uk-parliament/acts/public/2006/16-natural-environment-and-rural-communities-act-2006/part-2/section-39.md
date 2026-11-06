@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Interpretation[^key-039bff7bf72e9cd8a9ae2441dc43af6b]
+## 39. Interpretation[^c-039bff7bf72e9cd8a9ae2441dc43af6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In this Part—
 
 ## Annotations
 
-[^key-039bff7bf72e9cd8a9ae2441dc43af6b]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2006/16/section/39) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-039bff7bf72e9cd8a9ae2441dc43af6b]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2006/16/section/39) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

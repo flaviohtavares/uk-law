@@ -131,46 +131,46 @@ Section 1(1).
 
 **1.** In this Schedule—
 
-- “[^key-775aed781a48239283b8765ddd9c1ffe] **alcohol** ” has the same meaning as in the Licensing Act 2003,
+- “[^c-775aed781a48239283b8765ddd9c1ffe] **alcohol** ” has the same meaning as in the Licensing Act 2003,
 - “**large shop**” means a shop which has a relevant floor area exceeding 280 square metres,
 - “**medicinal product**” and “**registered pharmacy**” have the same meaning as in the [^c862534]Medicines Act1968,
 - “**relevant floor area**”, in relation to a shop, means the internal floor area of so much of the shop as consists of or is comprised in a building, but excluding any part of the shop which, throughout the week ending with the Sunday in question, is used neither for the serving of customers in connection with the sale of goods nor for the display of goods,
 - “**retail customer**” means a person who purchases goods retail,
 - “**retail sale**” means any sale other than a sale for use or resale in the course of a trade or business, and references to retail purchase shall be construed accordingly,
 - “**sale of goods**” does not include—
-  - (a) the sale of meals, refreshments or alcohol[^key-70e9efa863130aa42d5bb0f94241b482] for consumption on the premises on which they are sold, or
+  - (a) the sale of meals, refreshments or alcohol[^c-70e9efa863130aa42d5bb0f94241b482] for consumption on the premises on which they are sold, or
   - (b) the sale of meals or refreshments prepared to order for immediate consumption off those premises,
 - “**shop**” means any premises where there is carried on a trade or business consisting wholly or mainly of the sale of goods, and
 - “**stand**”, in relation to an exhibition, means any platform, structure, space or other area provided for exhibition purposes.
-- “[^key-cc992ff9d88dcb2bd04c28a0138984d1] **veterinary medicinal product** ” has the same meaning as in regulation 2 of the Veterinary Medicines Regulations 2006.
+- “[^c-cc992ff9d88dcb2bd04c28a0138984d1] **veterinary medicinal product** ” has the same meaning as in regulation 2 of the Veterinary Medicines Regulations 2006.
 
 ### Restrictions on Sunday opening hours of large shops[^M_F_78adabf0-eba3-440a-c1d9-952325067483]
 
-**2.** (1)[^c862535][^key-737d81c602ba8708a6b128aade195641] Subject to sub-paragraphs (2) and (3) below, a large shop shall not be open on Sunday for the serving of retail customers.
+**2.** (1)[^c862535][^c-737d81c602ba8708a6b128aade195641] Subject to sub-paragraphs (2) and (3) below, a large shop shall not be open on Sunday for the serving of retail customers.
 
 (2) Sub-paragraph (1) above does not apply in relation to—
 
 - (a) any of the shops mentioned in paragraph 3(1) below, or
 - (b) any shop in respect of which a notice under paragraph 8(1) of Schedule 2 to this Act (shops occupied by persons observing the Jewish Sabbath) has effect.
 
-(3)[^key-745afd1521644e26c43a956bac1d9df2] Sub-paragraph (1) above does not apply in relation to the opening of a large shop during any continuous period of six hours on a Sunday beginning no earlier than 10 am and ending no later than 6 pm, but this sub-paragraph has effect subject to sub-paragraph (4) below.
+(3)[^c-745afd1521644e26c43a956bac1d9df2] Sub-paragraph (1) above does not apply in relation to the opening of a large shop during any continuous period of six hours on a Sunday beginning no earlier than 10 am and ending no later than 6 pm, but this sub-paragraph has effect subject to sub-paragraph (4) below.
 
-(4) The exemption conferred by sub-paragraph (3) above does not apply where the Sunday is Easter Day [^key-5d17bcae267b0a0de8c097438495efdd]....
+(4) The exemption conferred by sub-paragraph (3) above does not apply where the Sunday is Easter Day [^c-5d17bcae267b0a0de8c097438495efdd]....
 
-(5)[^key-606e8fe73306e93e3101fe0bb23a5a6a] Nothing in this paragraph applies where the Sunday is Christmas Day (the opening of large shops on Christmas Day being prohibited by section 1 of the Christmas Day (Trading) Act 2004).
+(5)[^c-606e8fe73306e93e3101fe0bb23a5a6a] Nothing in this paragraph applies where the Sunday is Christmas Day (the opening of large shops on Christmas Day being prohibited by section 1 of the Christmas Day (Trading) Act 2004).
 
 ### Exemptions
 
 **3.** (1) The shops referred to in paragraph 2(2)(a) above are—
 
 - (a) any shop which is at a farm and where the trade or business carried on consists wholly or mainly of the sale of produce from that farm,
-- (b) any shop where the trade or business carried on consists wholly or mainly of the sale of alcohol[^key-bd976b4285dcf05deaa7082963ea7a06],
+- (b) any shop where the trade or business carried on consists wholly or mainly of the sale of alcohol[^c-bd976b4285dcf05deaa7082963ea7a06],
 - (c) any shop where the trade or business carried on consists wholly or mainly of the sale of any one or more of the following—
   - (i) motor supplies and accessories, and
   - (ii) cycle supplies and accessories,
 - (d) any shop which—
   - (i) is a registered pharmacy, and
-  - (ii) is not open for the retail sale of any goods other than medicinal products, veterinary medicinal products[^key-f636f6091c04b3977f20c2ce4f8b4a01] and medical and surgical appliances,
+  - (ii) is not open for the retail sale of any goods other than medicinal products, veterinary medicinal products[^c-f636f6091c04b3977f20c2ce4f8b4a01] and medical and surgical appliances,
 - (e) any shop at a designated airport which is situated in a part of the airport to which sub-paragraph (3) below applies,
 - (f) any shop in a railway station,
 - (g) any shop at a service area within the meaning of the [^c862536]Highways Act1980,
@@ -178,7 +178,7 @@ Section 1(1).
 - (j) any shop which is not open for the retail sale of any goods other than food, stores or other necessaries required by any person for a vessel or aircraft on its arrival at, or immediately before its departure from, a port, harbour or airport, and
 - (k) any stand used for the retail sale of goods during the course of an exhibition.
 
-(2)[^key-31c36c9108dee8ae29e6848b68a0b5f0] In determining whether a shop falls within sub-paragraph (1)(a), (b) or (c) above, regard shall be had to the nature of the trade or business carried on there on weekdays as well as to the nature of the trade or business carried on there on Sunday.
+(2)[^c-31c36c9108dee8ae29e6848b68a0b5f0] In determining whether a shop falls within sub-paragraph (1)(a), (b) or (c) above, regard shall be had to the nature of the trade or business carried on there on weekdays as well as to the nature of the trade or business carried on there on Sunday.
 
 (3) This sub-paragraph applies to every part of a designated airport, except any part which is not ordinarily used by persons travelling by air to or from the airport.
 
@@ -190,11 +190,11 @@ Section 1(1).
 
 ### Notice of proposed Sunday opening
 
-**4.**[^key-a95a1592a30a27eaaf32e4f7b73d5204] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a95a1592a30a27eaaf32e4f7b73d5204] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Register of shops
 
-**5.**[^key-2d43a6d36681d1d9a70fb8f296e6ef1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2d43a6d36681d1d9a70fb8f296e6ef1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Duty to display notice
 
@@ -203,19 +203,19 @@ Section 1(1).
 - (a) a large shop is open on Sunday for the serving of retail customers, and
 - (b) the prohibition in sub-paragraph (1) of paragraph 2 above is excluded only by sub-paragraph (3) of that paragraph,
 
-a notice specifying the Sunday opening hours[^key-bb473ed2bf1f04d4098f5516865e5b40] shall be displayed in a conspicuous position inside and outside the shop.
+a notice specifying the Sunday opening hours[^c-bb473ed2bf1f04d4098f5516865e5b40] shall be displayed in a conspicuous position inside and outside the shop.
 
 ### Offences
 
-**7.** (1) If paragraph 2(1) above is contravened in relation to a shop, the occupier of the shop shall be liable on summary conviction to a fine[^key-85615115dd06f93beb7877c840fbf098].
+**7.** (1) If paragraph 2(1) above is contravened in relation to a shop, the occupier of the shop shall be liable on summary conviction to a fine[^c-85615115dd06f93beb7877c840fbf098].
 
 (2) If paragraph 6 above is contravened in relation to a shop, the occupier of the shop shall be liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
-**8.**[^key-497d98eed720f334135878e45d3bbd5b] Where a person is charged with having contravened paragraph 2(1) above, in relation to a large shop which was permitted to be open for the serving of retail customers on the Sunday in question, by reason of his having served a retail customer after the end of the period during which the shop is permitted to be open by virtue of paragraph 2(3) above, it shall be a defence to prove that the customer was in the shop before the end of that period and left not later than half an hour after the end of that period.
+**8.**[^c-497d98eed720f334135878e45d3bbd5b] Where a person is charged with having contravened paragraph 2(1) above, in relation to a large shop which was permitted to be open for the serving of retail customers on the Sunday in question, by reason of his having served a retail customer after the end of the period during which the shop is permitted to be open by virtue of paragraph 2(3) above, it shall be a defence to prove that the customer was in the shop before the end of that period and left not later than half an hour after the end of that period.
 
 ### Transitional provision
 
-**9.**[^key-820e033aa0d7e3df3373094fd58208b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-820e033aa0d7e3df3373094fd58208b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Supplementary Provisions
 
@@ -233,29 +233,29 @@ Section 1(1).
 
 #### Powers of entry
 
-**3.**[^key-bd755d70bc52b72f095854bd9a85dc2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-bd755d70bc52b72f095854bd9a85dc2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Obstruction of inspectors
 
 **4.**[^M_F_9c042116-6d01-4750-e027-bc3b8b379915] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Investigatory powers[^key-fbfc38d2cb26252d24c36bc42ac20e48]
+#### Investigatory powers[^c-fbfc38d2cb26252d24c36bc42ac20e48]
 
 **4A.** For the investigatory powers available to a local authority and the inspectors appointed by it under paragraph 2 for the purposes of the duty in paragraph 1, see Schedule 5 to the Consumer Rights Act 2015.
 
 #### Offences due to fault of other person
 
-**5.**[^key-f8cdee422b98cf456a77fff0815aef4b] Where the commission by any person of an offence under this Act is due to the act or default of some other person, that other person shall be guilty of the offence, and a person may be charged with and convicted of the offence by virtue of this paragraph whether or not proceedings are taken against the first-mentioned person.
+**5.**[^c-f8cdee422b98cf456a77fff0815aef4b] Where the commission by any person of an offence under this Act is due to the act or default of some other person, that other person shall be guilty of the offence, and a person may be charged with and convicted of the offence by virtue of this paragraph whether or not proceedings are taken against the first-mentioned person.
 
 #### Offences by bodies corporate
 
-**6.**[^key-f8cdee422b98cf456a77fff0815aef4b] (1) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+**6.**[^c-f8cdee422b98cf456a77fff0815aef4b] (1) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
 (2) Where the affairs of a body corporate are managed by its members, sub-paragraph (1) above shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
 #### Defence of due diligence
 
-**7.**[^key-f8cdee422b98cf456a77fff0815aef4b] (1) In any proceedings for an offence under this Act it shall, subject to sub-paragraph (2) below, be a defence for the person charged to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence by himself or by a person under his control.
+**7.**[^c-f8cdee422b98cf456a77fff0815aef4b] (1) In any proceedings for an offence under this Act it shall, subject to sub-paragraph (2) below, be a defence for the person charged to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence by himself or by a person under his control.
 
 (2) If in any case the defence provided by sub-paragraph (1) above involves the allegation that the commission of the offence was due to the act or default of another person, the person charged shall not, without leave of the court, be entitled to rely on that defence unless, at least seven clear days before the hearing, he has served on the prosecutor a notice in writing giving such information identifying or assisting in the identification of that other person as was then in his possession.
 
@@ -321,7 +321,7 @@ the notice shall be taken to be cancelled at the end of the period of 14 days be
 
 (2) In paragraph 8(8) above, the reference to a certificate provided in connection with a former notice includes a reference to a statutory declaration provided under subsection (2) of section 53 of the Shops Act 1950 in connection with the registration of a shop under that section before the commencement of this Schedule.
 
-## SCHEDULE 3 — Loading and Unloading at Large Shops on Sunday Morning[^key-25dcb29ca7c368c1af85f923435723ea]
+## SCHEDULE 3 — Loading and Unloading at Large Shops on Sunday Morning[^c-25dcb29ca7c368c1af85f923435723ea]
 
 Section 2.
 
@@ -329,7 +329,7 @@ Section 2.
 
 **1.** This Schedule applies to any shop—
 
-- (a) which is a large shop, within the meaning of Schedule 1 to this Act, that is permitted to be open on a Sunday by virtue of paragraph 2(3) of that Schedule and which the occupier opens on Sunday for the serving of retail customers[^key-80564b5c3e6bba599fbf4a3f87d8d1d8], and
+- (a) which is a large shop, within the meaning of Schedule 1 to this Act, that is permitted to be open on a Sunday by virtue of paragraph 2(3) of that Schedule and which the occupier opens on Sunday for the serving of retail customers[^c-80564b5c3e6bba599fbf4a3f87d8d1d8], and
 - (b) which is situated in an area designated as a loading control area under section 2 of this Act.
 
 ### Consent required for early Sunday loading and unloading
@@ -339,17 +339,17 @@ Section 2.
 - (a) with the consent of the local authority for the area in which the shop is situated granted under this Schedule, and
 - (b) in accordance with any conditions subject to which that consent is granted.
 
-**3.**[^key-7a87ae58eb17a7e6a7d00afc41c0d470] (1) A consent under this Schedule may be granted subject to such conditions as the local authority consider appropriate.
+**3.**[^c-7a87ae58eb17a7e6a7d00afc41c0d470] (1) A consent under this Schedule may be granted subject to such conditions as the local authority consider appropriate.
 
 (2) The local authority may at any time vary the conditions subject to which a consent is granted, and shall give notice of the variation to the person to whom the consent was granted.
 
 ### Application for consent
 
-**4.**[^key-7a87ae58eb17a7e6a7d00afc41c0d470] An application for a consent under this Schedule shall be made in writing and shall contain such information as the local authority may reasonably require.
+**4.**[^c-7a87ae58eb17a7e6a7d00afc41c0d470] An application for a consent under this Schedule shall be made in writing and shall contain such information as the local authority may reasonably require.
 
-**5.**[^key-7a87ae58eb17a7e6a7d00afc41c0d470] An applicant for a consent under this Schedule shall pay such reasonable fee in respect of his application as the local authority may determine.
+**5.**[^c-7a87ae58eb17a7e6a7d00afc41c0d470] An applicant for a consent under this Schedule shall pay such reasonable fee in respect of his application as the local authority may determine.
 
-**6.**[^key-7a87ae58eb17a7e6a7d00afc41c0d470] (1) Where an application is duly made to the local authority for a consent under this Schedule, the authority shall grant the consent unless they are satisfied that the loading or unloading of goods from vehicles before 9 a.m. on Sunday at the shop to which the application relates, in connection with the trade or business carried on at the shop, has caused, or would be likely to cause, undue annoyance to local residents.
+**6.**[^c-7a87ae58eb17a7e6a7d00afc41c0d470] (1) Where an application is duly made to the local authority for a consent under this Schedule, the authority shall grant the consent unless they are satisfied that the loading or unloading of goods from vehicles before 9 a.m. on Sunday at the shop to which the application relates, in connection with the trade or business carried on at the shop, has caused, or would be likely to cause, undue annoyance to local residents.
 
 (2) The authority shall determine the application and notify the applicant in writing of their decision within the period of 21 days beginning with the day on which the application is received by the authority.
 
@@ -357,7 +357,7 @@ Section 2.
 
 ### Revocation of consent
 
-**7.**[^key-7a87ae58eb17a7e6a7d00afc41c0d470] Where—
+**7.**[^c-7a87ae58eb17a7e6a7d00afc41c0d470] Where—
 
 - (a) the occupier of a shop in respect of which a consent under this Schedule is in force is convicted of an offence under paragraph 9 below by reason of his failure to comply with the conditions subject to which the consent was granted, or
 - (b) the local authority are satisfied that the loading or unloading authorised by virtue of a consent under this Schedule has caused undue annoyance to local residents,
@@ -366,13 +366,13 @@ the local authority may revoke the consent.
 
 ### Publication of consent
 
-**8.**[^key-7a87ae58eb17a7e6a7d00afc41c0d470] Where a local authority grant a consent under this Schedule, the authority may cause a notice giving details of that consent to be published in a local newspaper circulating in their area.
+**8.**[^c-7a87ae58eb17a7e6a7d00afc41c0d470] Where a local authority grant a consent under this Schedule, the authority may cause a notice giving details of that consent to be published in a local newspaper circulating in their area.
 
 ### Offence
 
 **9.** A person who contravenes paragraph 2 above shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### Christmas Day[^key-38cbcf0c100a3cd8908053d20b361c8b]
+### Christmas Day[^c-38cbcf0c100a3cd8908053d20b361c8b]
 
 **10.** Paragraph 2 does not apply where the Sunday is Christmas Day (loading and unloading at large shops on Christmas Day being regulated by section 2 of the Christmas Day (Trading) Act 2004).
 
@@ -498,67 +498,67 @@ Section 9(2).
 
 [^c862532]: Commencement: [S. 9(2)](https://www.legislation.gov.uk/ukpga/1994/20/section/9/2) not in force until the appointed day: S. 9(3).
 
-[^key-775aed781a48239283b8765ddd9c1ffe]: Textual amendment: Definition in Sch. 1 para. 1 substituted (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 110(2)(a)](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/110/2/a) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
+[^c-775aed781a48239283b8765ddd9c1ffe]: Textual amendment: Definition in Sch. 1 para. 1 substituted (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 110(2)(a)](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/110/2/a) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
 
 [^c862534]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
 
-[^key-70e9efa863130aa42d5bb0f94241b482]: Textual amendment: Word in Sch. 1 para. 1 substituted (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 110(2)(b)](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/110/2/b) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
+[^c-70e9efa863130aa42d5bb0f94241b482]: Textual amendment: Word in Sch. 1 para. 1 substituted (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 110(2)(b)](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/110/2/b) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
 
-[^key-cc992ff9d88dcb2bd04c28a0138984d1]: Textual amendment: Definition in Sch. 1 para. 1 added (1.10.2006) by [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1), [Sch. 9 para. 9(a)](https://www.legislation.gov.uk/uksi/2006/2407/schedule/9/paragraph/9/a) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))
+[^c-cc992ff9d88dcb2bd04c28a0138984d1]: Textual amendment: Definition in Sch. 1 para. 1 added (1.10.2006) by [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1), [Sch. 9 para. 9(a)](https://www.legislation.gov.uk/uksi/2006/2407/schedule/9/paragraph/9/a) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))
 
 [^M_F_78adabf0-eba3-440a-c1d9-952325067483]: Textual amendment: Sch. 1 para. 2 cross-heading substituted (27.2.2004) by [Regulatory Reform (Sunday Trading) Order 2004 (S.I. 2004/470)](https://www.legislation.gov.uk/uksi/2004/470), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/470/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2004/470/article/2/2/a)
 
 [^c862535]: Modification: Sch. 1 para. 2(1) excluded (19.1.1995) by [S.I. 1994/3286](https://www.legislation.gov.uk/uksi/1994/3286), [art. 3](https://www.legislation.gov.uk/uksi/1994/3286/article/3)
 
-[^key-737d81c602ba8708a6b128aade195641]: Modification: Sch. 1 para. 2(1) excluded (22.7.2012) by [Sunday Trading (London Olympic Games and Paralympic Games) Act 2012 (c. 12)](https://www.legislation.gov.uk/ukpga/2012/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2012/12/section/1/1)[(3)](https://www.legislation.gov.uk/ukpga/2012/12/section/1/3), [3(1)](https://www.legislation.gov.uk/ukpga/2012/12/section/3/1)
+[^c-737d81c602ba8708a6b128aade195641]: Modification: Sch. 1 para. 2(1) excluded (22.7.2012) by [Sunday Trading (London Olympic Games and Paralympic Games) Act 2012 (c. 12)](https://www.legislation.gov.uk/ukpga/2012/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2012/12/section/1/1)[(3)](https://www.legislation.gov.uk/ukpga/2012/12/section/1/3), [3(1)](https://www.legislation.gov.uk/ukpga/2012/12/section/3/1)
 
-[^key-745afd1521644e26c43a956bac1d9df2]: Textual amendment: Sch. 1 para. 2(3) substituted (27.2.2004) by [Regulatory Reform (Sunday Trading) Order 2004 (S.I. 2004/470)](https://www.legislation.gov.uk/uksi/2004/470), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/470/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2004/470/article/2/2/b)
+[^c-745afd1521644e26c43a956bac1d9df2]: Textual amendment: Sch. 1 para. 2(3) substituted (27.2.2004) by [Regulatory Reform (Sunday Trading) Order 2004 (S.I. 2004/470)](https://www.legislation.gov.uk/uksi/2004/470), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/470/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2004/470/article/2/2/b)
 
-[^key-5d17bcae267b0a0de8c097438495efdd]: Textual amendment: Words in Sch. 1 para. 2(4) omitted (9.12.2004) by virtue of [Christmas Day (Trading) Act 2004 (c. 26)](https://www.legislation.gov.uk/ukpga/2004/26), [ss. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2004/26/section/4/2/a), [6(3)](https://www.legislation.gov.uk/ukpga/2004/26/section/6/3); [S.I. 2004/3235](https://www.legislation.gov.uk/uksi/2004/3235), [art. 2](https://www.legislation.gov.uk/uksi/2004/3235/article/2)
+[^c-5d17bcae267b0a0de8c097438495efdd]: Textual amendment: Words in Sch. 1 para. 2(4) omitted (9.12.2004) by virtue of [Christmas Day (Trading) Act 2004 (c. 26)](https://www.legislation.gov.uk/ukpga/2004/26), [ss. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2004/26/section/4/2/a), [6(3)](https://www.legislation.gov.uk/ukpga/2004/26/section/6/3); [S.I. 2004/3235](https://www.legislation.gov.uk/uksi/2004/3235), [art. 2](https://www.legislation.gov.uk/uksi/2004/3235/article/2)
 
-[^key-606e8fe73306e93e3101fe0bb23a5a6a]: Textual amendment: Sch. 1 para. 2(5) inserted (9.12.2004) by [Christmas Day (Trading) Act 2004 (c. 26)](https://www.legislation.gov.uk/ukpga/2004/26), [ss. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2004/26/section/4/2/b), [6(3)](https://www.legislation.gov.uk/ukpga/2004/26/section/6/3); [S.I. 2004/3235](https://www.legislation.gov.uk/uksi/2004/3235), [art. 2](https://www.legislation.gov.uk/uksi/2004/3235/article/2)
+[^c-606e8fe73306e93e3101fe0bb23a5a6a]: Textual amendment: Sch. 1 para. 2(5) inserted (9.12.2004) by [Christmas Day (Trading) Act 2004 (c. 26)](https://www.legislation.gov.uk/ukpga/2004/26), [ss. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2004/26/section/4/2/b), [6(3)](https://www.legislation.gov.uk/ukpga/2004/26/section/6/3); [S.I. 2004/3235](https://www.legislation.gov.uk/uksi/2004/3235), [art. 2](https://www.legislation.gov.uk/uksi/2004/3235/article/2)
 
-[^key-bd976b4285dcf05deaa7082963ea7a06]: Textual amendment: Words in Sch. 1 para. 3(1)(b) substituted (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 110(3)](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/110/3) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
+[^c-bd976b4285dcf05deaa7082963ea7a06]: Textual amendment: Words in Sch. 1 para. 3(1)(b) substituted (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 110(3)](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/110/3) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
 
-[^key-f636f6091c04b3977f20c2ce4f8b4a01]: Textual amendment: Words in [Sch. 1 para. 3(1)(d)(ii)](https://www.legislation.gov.uk/ukpga/1994/20/schedule/1/paragraph/3/1/d/ii) added (1.10.2006) by [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1), [Sch. 9 para. 9(b)](https://www.legislation.gov.uk/uksi/2006/2407/schedule/9/paragraph/9/b) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))
+[^c-f636f6091c04b3977f20c2ce4f8b4a01]: Textual amendment: Words in [Sch. 1 para. 3(1)(d)(ii)](https://www.legislation.gov.uk/ukpga/1994/20/schedule/1/paragraph/3/1/d/ii) added (1.10.2006) by [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1), [Sch. 9 para. 9(b)](https://www.legislation.gov.uk/uksi/2006/2407/schedule/9/paragraph/9/b) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))
 
 [^c862536]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
-[^key-31c36c9108dee8ae29e6848b68a0b5f0]: Modification: Sch. 1 para. 3(2) modified (9.12.2004) by [Christmas Day (Trading) Act 2004 (c. 26)](https://www.legislation.gov.uk/ukpga/2004/26), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2004/26/section/1/4), [6(3)](https://www.legislation.gov.uk/ukpga/2004/26/section/6/3); [S.I. 2004/3235](https://www.legislation.gov.uk/uksi/2004/3235), [art. 2](https://www.legislation.gov.uk/uksi/2004/3235/article/2)
+[^c-31c36c9108dee8ae29e6848b68a0b5f0]: Modification: Sch. 1 para. 3(2) modified (9.12.2004) by [Christmas Day (Trading) Act 2004 (c. 26)](https://www.legislation.gov.uk/ukpga/2004/26), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2004/26/section/1/4), [6(3)](https://www.legislation.gov.uk/ukpga/2004/26/section/6/3); [S.I. 2004/3235](https://www.legislation.gov.uk/uksi/2004/3235), [art. 2](https://www.legislation.gov.uk/uksi/2004/3235/article/2)
 
 [^c862537]: Marginal citation: [1962 c. 35](https://www.legislation.gov.uk/ukpga/1962/35).
 
-[^key-a95a1592a30a27eaaf32e4f7b73d5204]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/1994/20/schedule/1/paragraph/4) omitted (27.2.2004) by virtue of [Regulatory Reform (Sunday Trading) Order 2004 (S.I. 2004/470)](https://www.legislation.gov.uk/uksi/2004/470), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/470/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2004/470/article/2/2/c)
+[^c-a95a1592a30a27eaaf32e4f7b73d5204]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/1994/20/schedule/1/paragraph/4) omitted (27.2.2004) by virtue of [Regulatory Reform (Sunday Trading) Order 2004 (S.I. 2004/470)](https://www.legislation.gov.uk/uksi/2004/470), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/470/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2004/470/article/2/2/c)
 
-[^key-2d43a6d36681d1d9a70fb8f296e6ef1a]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/1994/20/schedule/1/paragraph/5) omitted (27.2.2004) by virtue of [Regulatory Reform (Sunday Trading) Order 2004 (S.I. 2004/470)](https://www.legislation.gov.uk/uksi/2004/470), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/470/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2004/470/article/2/2/c)
+[^c-2d43a6d36681d1d9a70fb8f296e6ef1a]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/1994/20/schedule/1/paragraph/5) omitted (27.2.2004) by virtue of [Regulatory Reform (Sunday Trading) Order 2004 (S.I. 2004/470)](https://www.legislation.gov.uk/uksi/2004/470), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/470/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2004/470/article/2/2/c)
 
-[^key-bb473ed2bf1f04d4098f5516865e5b40]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/1994/20/schedule/1/paragraph/6) substituted (27.2.2004) by [Regulatory Reform (Sunday Trading) Order 2004 (S.I. 2004/470)](https://www.legislation.gov.uk/uksi/2004/470), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/470/article/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2004/470/article/2/2/d)
+[^c-bb473ed2bf1f04d4098f5516865e5b40]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/1994/20/schedule/1/paragraph/6) substituted (27.2.2004) by [Regulatory Reform (Sunday Trading) Order 2004 (S.I. 2004/470)](https://www.legislation.gov.uk/uksi/2004/470), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/470/article/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2004/470/article/2/2/d)
 
-[^key-85615115dd06f93beb7877c840fbf098]: Textual amendment: Words in [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/ukpga/1994/20/schedule/1/paragraph/7/1) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 26](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/26) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-85615115dd06f93beb7877c840fbf098]: Textual amendment: Words in [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/ukpga/1994/20/schedule/1/paragraph/7/1) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 26](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/26) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-497d98eed720f334135878e45d3bbd5b]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1994/20/schedule/1/paragraph/8) substituted (27.2.2004) by [Regulatory Reform (Sunday Trading) Order 2004 (S.I. 2004/470)](https://www.legislation.gov.uk/uksi/2004/470), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/470/article/1/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2004/470/article/2/2/e)
+[^c-497d98eed720f334135878e45d3bbd5b]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1994/20/schedule/1/paragraph/8) substituted (27.2.2004) by [Regulatory Reform (Sunday Trading) Order 2004 (S.I. 2004/470)](https://www.legislation.gov.uk/uksi/2004/470), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/470/article/1/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2004/470/article/2/2/e)
 
-[^key-820e033aa0d7e3df3373094fd58208b4]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/1994/20/schedule/1/paragraph/9) omitted (27.2.2004) by virtue of [Regulatory Reform (Sunday Trading) Order 2004 (S.I. 2004/470)](https://www.legislation.gov.uk/uksi/2004/470), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/470/article/1/1), [2(2)(f)](https://www.legislation.gov.uk/uksi/2004/470/article/2/2/f)
+[^c-820e033aa0d7e3df3373094fd58208b4]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/1994/20/schedule/1/paragraph/9) omitted (27.2.2004) by virtue of [Regulatory Reform (Sunday Trading) Order 2004 (S.I. 2004/470)](https://www.legislation.gov.uk/uksi/2004/470), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/470/article/1/1), [2(2)(f)](https://www.legislation.gov.uk/uksi/2004/470/article/2/2/f)
 
-[^key-bd755d70bc52b72f095854bd9a85dc2e]: Textual amendment: Sch. 2 para. 3 omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 58(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/58/2); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-bd755d70bc52b72f095854bd9a85dc2e]: Textual amendment: Sch. 2 para. 3 omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 58(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/58/2); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
 [^M_F_9c042116-6d01-4750-e027-bc3b8b379915]: Textual amendment: Sch. 2 para. 4 omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 58(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/58/2); [S.I.](https://www.legislation.gov.uk/uksi/2015/1630)
 
-[^key-fbfc38d2cb26252d24c36bc42ac20e48]: Textual amendment: Pare. 4A and cross-heading inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 58(3)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/58/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
+[^c-fbfc38d2cb26252d24c36bc42ac20e48]: Textual amendment: Pare. 4A and cross-heading inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 58(3)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/58/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
 
-[^key-f8cdee422b98cf456a77fff0815aef4b]: Modification: Sch. 2 paras. 5, 6, 7 applied (9.12.2004) by [Christmas Day (Trading) Act 2004 (c. 26)](https://www.legislation.gov.uk/ukpga/2004/26), [ss. 3(4)](https://www.legislation.gov.uk/ukpga/2004/26/section/3/4), [6(3)](https://www.legislation.gov.uk/ukpga/2004/26/section/6/3); [S.I. 2004/3235](https://www.legislation.gov.uk/uksi/2004/3235), [art. 2](https://www.legislation.gov.uk/uksi/2004/3235/article/2); [S.I. 2004/3235](https://www.legislation.gov.uk/uksi/2004/3235), [art. 2](https://www.legislation.gov.uk/uksi/2004/3235/article/2); [S.I. 2004/3235](https://www.legislation.gov.uk/uksi/2004/3235), [art. 2](https://www.legislation.gov.uk/uksi/2004/3235/article/2)
+[^c-f8cdee422b98cf456a77fff0815aef4b]: Modification: Sch. 2 paras. 5, 6, 7 applied (9.12.2004) by [Christmas Day (Trading) Act 2004 (c. 26)](https://www.legislation.gov.uk/ukpga/2004/26), [ss. 3(4)](https://www.legislation.gov.uk/ukpga/2004/26/section/3/4), [6(3)](https://www.legislation.gov.uk/ukpga/2004/26/section/6/3); [S.I. 2004/3235](https://www.legislation.gov.uk/uksi/2004/3235), [art. 2](https://www.legislation.gov.uk/uksi/2004/3235/article/2); [S.I. 2004/3235](https://www.legislation.gov.uk/uksi/2004/3235), [art. 2](https://www.legislation.gov.uk/uksi/2004/3235/article/2); [S.I. 2004/3235](https://www.legislation.gov.uk/uksi/2004/3235), [art. 2](https://www.legislation.gov.uk/uksi/2004/3235/article/2)
 
 [^c862538]: Marginal citation: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76).
 
 [^c862539]: Marginal citation: [1950 c. 28](https://www.legislation.gov.uk/ukpga/1950/28).
 
-[^key-25dcb29ca7c368c1af85f923435723ea]: Modification: Sch. 3 applied (22.7.2012) by [Sunday Trading (London Olympic Games and Paralympic Games) Act 2012 (c. 12)](https://www.legislation.gov.uk/ukpga/2012/12), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2012/12/section/1/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/12/section/1/3), [3(1)](https://www.legislation.gov.uk/ukpga/2012/12/section/3/1)
+[^c-25dcb29ca7c368c1af85f923435723ea]: Modification: Sch. 3 applied (22.7.2012) by [Sunday Trading (London Olympic Games and Paralympic Games) Act 2012 (c. 12)](https://www.legislation.gov.uk/ukpga/2012/12), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2012/12/section/1/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/12/section/1/3), [3(1)](https://www.legislation.gov.uk/ukpga/2012/12/section/3/1)
 
-[^key-80564b5c3e6bba599fbf4a3f87d8d1d8]: Textual amendment: Words in Sch. 3 para. 1(a) substituted (27.2.2004) by [Regulatory Reform (Sunday Trading) Order 2004 (S.I. 2004/470)](https://www.legislation.gov.uk/uksi/2004/470), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/470/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2004/470/article/2/3)
+[^c-80564b5c3e6bba599fbf4a3f87d8d1d8]: Textual amendment: Words in Sch. 3 para. 1(a) substituted (27.2.2004) by [Regulatory Reform (Sunday Trading) Order 2004 (S.I. 2004/470)](https://www.legislation.gov.uk/uksi/2004/470), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/470/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2004/470/article/2/3)
 
-[^key-7a87ae58eb17a7e6a7d00afc41c0d470]: Modification: Sch. 3 paras. 3-8 applied (with modifications) (9.12.2004) by [Christmas Day (Trading) Act 2004 (c. 26)](https://www.legislation.gov.uk/ukpga/2004/26), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2004/26/section/2/2), [6(3)](https://www.legislation.gov.uk/ukpga/2004/26/section/6/3); [S.I. 2004/3235](https://www.legislation.gov.uk/uksi/2004/3235), [art. 2](https://www.legislation.gov.uk/uksi/2004/3235/article/2)
+[^c-7a87ae58eb17a7e6a7d00afc41c0d470]: Modification: Sch. 3 paras. 3-8 applied (with modifications) (9.12.2004) by [Christmas Day (Trading) Act 2004 (c. 26)](https://www.legislation.gov.uk/ukpga/2004/26), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2004/26/section/2/2), [6(3)](https://www.legislation.gov.uk/ukpga/2004/26/section/6/3); [S.I. 2004/3235](https://www.legislation.gov.uk/uksi/2004/3235), [art. 2](https://www.legislation.gov.uk/uksi/2004/3235/article/2)
 
-[^key-38cbcf0c100a3cd8908053d20b361c8b]: Textual amendment: Para.10 and cross-heading inserted (9.12.2004) by [Christmas Day (Trading) Act 2004 (c. 26)](https://www.legislation.gov.uk/ukpga/2004/26), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2004/26/section/4/3), [6(3)](https://www.legislation.gov.uk/ukpga/2004/26/section/6/3); [S.I. 2004/3235](https://www.legislation.gov.uk/uksi/2004/3235), [art. 2](https://www.legislation.gov.uk/uksi/2004/3235/article/2)
+[^c-38cbcf0c100a3cd8908053d20b361c8b]: Textual amendment: Para.10 and cross-heading inserted (9.12.2004) by [Christmas Day (Trading) Act 2004 (c. 26)](https://www.legislation.gov.uk/ukpga/2004/26), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2004/26/section/4/3), [6(3)](https://www.legislation.gov.uk/ukpga/2004/26/section/6/3); [S.I. 2004/3235](https://www.legislation.gov.uk/uksi/2004/3235), [art. 2](https://www.legislation.gov.uk/uksi/2004/3235/article/2)
 
 [^c862545]: Textual amendment: [Sch. 4 paras. 1-20](https://www.legislation.gov.uk/ukpga/1994/20/schedule/4/paragraph/1) repealed (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 242](https://www.legislation.gov.uk/ukpga/1996/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 

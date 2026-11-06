@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Opening of covering envelopes[^key-44356c7896f214d6bbed686f25f18296]
+## 104. Opening of covering envelopes[^c-44356c7896f214d6bbed686f25f18296]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44356c7896f214d6bbed686f25f18296]: Commencement: Reg. 104 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-44356c7896f214d6bbed686f25f18296]: Commencement: Reg. 104 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

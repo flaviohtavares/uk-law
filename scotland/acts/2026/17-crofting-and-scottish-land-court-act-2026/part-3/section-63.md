@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Minor and consequential provision[^key-6fbf2a4c70c1f95b9c64b7f70a079f5f][^key-117e07635e21b3464b38332162d12443]
+## 63. Minor and consequential provision[^c-6fbf2a4c70c1f95b9c64b7f70a079f5f][^c-117e07635e21b3464b38332162d12443]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Schedule 2 contains minor and consequential amendments.
 
 ## Annotations
 
-[^key-6fbf2a4c70c1f95b9c64b7f70a079f5f]: Commencement: S. 63 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-6fbf2a4c70c1f95b9c64b7f70a079f5f]: Commencement: S. 63 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
 
-[^key-117e07635e21b3464b38332162d12443]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2026/17/section/63) in force at 26.10.2026 for specified purposes by [S.S.I. 2026/283](https://www.legislation.gov.uk/ssi/2026/283), [reg. 2](https://www.legislation.gov.uk/ssi/2026/283/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/283/schedule)
+[^c-117e07635e21b3464b38332162d12443]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2026/17/section/63) in force at 26.10.2026 for specified purposes by [S.S.I. 2026/283](https://www.legislation.gov.uk/ssi/2026/283), [reg. 2](https://www.legislation.gov.uk/ssi/2026/283/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/283/schedule)

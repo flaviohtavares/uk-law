@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Application for variation or discharge of conditions.[^key-0481d14bae1c8a1056cb3179ae30282c]
+## 17. Application for variation or discharge of conditions.[^c-0481d14bae1c8a1056cb3179ae30282c]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0481d14bae1c8a1056cb3179ae30282c]: Modification: Ss. 6-25 applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
+[^c-0481d14bae1c8a1056cb3179ae30282c]: Modification: Ss. 6-25 applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))

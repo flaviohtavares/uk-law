@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Ending of membership[^key-4910b64d00e52362289c4c5b34a335ec]
+## 14. Ending of membership[^c-4910b64d00e52362289c4c5b34a335ec]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4910b64d00e52362289c4c5b34a335ec]: Commencement: Reg. 14 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-4910b64d00e52362289c4c5b34a335ec]: Commencement: Reg. 14 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

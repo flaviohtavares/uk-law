@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Unresponsive occupiers[^key-dcb193d72e5eada5d44fa0a7b0242016]
+## 67. Unresponsive occupiers[^c-dcb193d72e5eada5d44fa0a7b0242016]
 
 *Extent: E+W+S+N.I.*
 
@@ -216,4 +216,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcb193d72e5eada5d44fa0a7b0242016]: Commencement: S. 67 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
+[^c-dcb193d72e5eada5d44fa0a7b0242016]: Commencement: S. 67 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Finance: licensing offences[^key-b80506cb61734c1fd24844d879a73f70]
+## 47. Finance: licensing offences[^c-b80506cb61734c1fd24844d879a73f70]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ for the purpose of obtaining a Treasury licence (whether for P or anyone else).
 
 ## Annotations
 
-[^key-b80506cb61734c1fd24844d879a73f70]: Commencement: Reg. 47 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-b80506cb61734c1fd24844d879a73f70]: Commencement: Reg. 47 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

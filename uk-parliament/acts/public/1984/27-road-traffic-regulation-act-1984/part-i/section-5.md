@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Contravention of traffic regulation order.[^c13544491][^c13544501][^key-725ea49afe373d9ff82c67da483b7e4f]
+## 5. Contravention of traffic regulation order.[^c13544491][^c13544501][^c-725ea49afe373d9ff82c67da483b7e4f]
 
 *Extent: E+W+S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 [^c13544501]: Modification: S. 5 applied (with modifications)(6.3.1992) by [Aberdeen Harbour Order Confirmation Act 1992 (c. ii)](https://www.legislation.gov.uk/ukla/1992/2), [s. 1](https://www.legislation.gov.uk/ukla/1992/2/section/1), [Sch. s. 3(2)](https://www.legislation.gov.uk/ukla/1992/2/schedule/section/3/2).
 
-[^key-725ea49afe373d9ff82c67da483b7e4f]: Modification: Pt. 1 applied (E.W.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/ukpga/1991/22/article/1/2), [17(3)](https://www.legislation.gov.uk/ukpga/1991/22/article/17/3)
+[^c-725ea49afe373d9ff82c67da483b7e4f]: Modification: Pt. 1 applied (E.W.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/ukpga/1991/22/article/1/2), [17(3)](https://www.legislation.gov.uk/ukpga/1991/22/article/17/3)
 
 [^c13544511]: Textual amendment: S. 5(2) repealed (1.11.1991) by [New Roads and Street Works Act 1991 (c. 22, SIF 59, 108)](https://www.legislation.gov.uk/ukpga/1991/22), [s. 168(1)(2)](https://www.legislation.gov.uk/ukpga/1991/22/section/168/1/2), [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/20), [Sch.9](https://www.legislation.gov.uk/ukpga/1991/22/schedule/9); which repeal is in force for Scotland only by [S.I. 1991/2286](https://www.legislation.gov.uk/uksi/1991/2286), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/2286/article/2/2), [Sch.2](https://www.legislation.gov.uk/uksi/1991/2286/schedule/2). and for England and Wales by [S.I. 1991/2288](https://www.legislation.gov.uk/uksi/1991/2288), [art. 3](https://www.legislation.gov.uk/uksi/1991/2288/article/3),Sch.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Revocation provisions[^key-68f562a8759a89a2e42b07735c8c79ad]
+## 41. Revocation provisions[^c-68f562a8759a89a2e42b07735c8c79ad]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to the savings in regulation 42, the regulations listed in Schedule 7 ar
 
 ## Annotations
 
-[^key-68f562a8759a89a2e42b07735c8c79ad]: Commencement: Reg. 41 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-68f562a8759a89a2e42b07735c8c79ad]: Commencement: Reg. 41 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Purposes referred to in section 44[^key-e492ce1154f2c557e2eedd5880a8bf46][^key-688bc360b427403dab6d25708731e2ff]
+## 45. Purposes referred to in section 44[^c-e492ce1154f2c557e2eedd5880a8bf46][^c-688bc360b427403dab6d25708731e2ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,14 +54,14 @@ summary: ''
 - (e) a local government election within the meaning of section 191, 203 or 204 of the Representation of the People Act 1983,
 - (f) an election under Part 1A or 2 of the Local Government Act 2000 for the return of an elected mayor,
 - (g) an election for the return of a mayor for the area of a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009,
-- (ga)[^key-6d95b2d417587e721aa012f91ea7d7d7] an election for the return of a mayor for the area of a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023,
+- (ga)[^c-6d95b2d417587e721aa012f91ea7d7d7] an election for the return of a mayor for the area of a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023,
 - (h) a local election within the meaning of the Electoral Law Act (Northern Ireland) 1962 (see section 130(1) of that Act), or
 - (i) an election of a police and crime commissioner.
 
 ## Annotations
 
-[^key-e492ce1154f2c557e2eedd5880a8bf46]: Commencement: S. 45 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-e492ce1154f2c557e2eedd5880a8bf46]: Commencement: S. 45 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-688bc360b427403dab6d25708731e2ff]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2022/37/section/45) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-688bc360b427403dab6d25708731e2ff]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2022/37/section/45) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
 
-[^key-6d95b2d417587e721aa012f91ea7d7d7]: Textual amendment: [S. 45(9)(ga)](https://www.legislation.gov.uk/ukpga/2022/37/section/45/9/ga) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/b/ii), [Sch. 4 para. 228](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/228) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 7(b)](https://www.legislation.gov.uk/uksi/2023/1405/regulation/7/b)
+[^c-6d95b2d417587e721aa012f91ea7d7d7]: Textual amendment: [S. 45(9)(ga)](https://www.legislation.gov.uk/ukpga/2022/37/section/45/9/ga) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/b/ii), [Sch. 4 para. 228](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/228) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 7(b)](https://www.legislation.gov.uk/uksi/2023/1405/regulation/7/b)

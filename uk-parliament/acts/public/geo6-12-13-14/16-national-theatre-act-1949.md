@@ -37,7 +37,7 @@ An Act to authorise the Treasury to contribute towards the cost of a national th
 
 And whereas it is expedient to make provision for authorising the payment out of public funds of contributions towards the erection and equipment of such a theatre by the Trustees:
 
-## 1. Power of Treasury to contribute to cost of national theatre.[^key-778d6cc2f103137411a59994ce676b19]
+## 1. Power of Treasury to contribute to cost of national theatre.[^c-778d6cc2f103137411a59994ce676b19]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -57,7 +57,7 @@ This Act may be cited as the National Theatre Act 1949.
 
 [^c597552]: Modification: Functions of the Treasury under this Act exercisable as at 1.2.1991 and until 2.7.1992 by the Lord President of the Council, and from 3.7.1992 those functions under ss. 1, 2(1) are exercisable by the Secretary of State: [S.I. 1965/603](https://www.legislation.gov.uk/uksi/1965/603), [art. 2(1)](https://www.legislation.gov.uk/uksi/1965/603/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/1965/603/schedule); 1979/907, art. 2(1), Sch. 1 Pt. I; 1981/207, art. 2, Sch. 1 Pt. I; 1983/879, art. 2(1), Sch. 1 Pt. I; 1984/1814, art. 2(1), Sch. 1 Pt. I; 1986/600, art. 2(1), Sch. 1 Pt. I and 1992/1311, arts. 3(1), 12(4), Sch. 1 Pt.I
 
-[^key-778d6cc2f103137411a59994ce676b19]: Textual amendment: S. 1 repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/6) Group 5
+[^c-778d6cc2f103137411a59994ce676b19]: Textual amendment: S. 1 repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/6) Group 5
 
 [^c597556]: Modification: [S. 2(1)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/16/section/2/1): Functions of the Treasury under s. 2(1) exercisable as at 1.2.1991 and until 2.7.1992 by the Lord President of the Council, and from 3.7.1992 those functions are exercisable by the Secretary of State: [S.I. 1965/603](https://www.legislation.gov.uk/uksi/1965/603), [art. 2(1)](https://www.legislation.gov.uk/uksi/1965/603/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/1965/603/schedule); 1979/907, art. 2(1), Sch. 1 Pt. I; 1981/207, art. 2, Sch. 1 Pt. I; 1983/879, art. 2(1), Sch. 1 Pt. I; 1984/1814, art. 2(1), Sch. 1 Pt. I; 1986/600, art. 2(1), Sch. 1 Pt. I and 1992/1311, arts. 3(1), 12(4), Sch. 1 Pt. I
 

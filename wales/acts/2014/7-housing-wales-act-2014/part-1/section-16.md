@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Duty to update information[^key-349c6938321811eadb6b9f3d4ec7570a][^key-b03583cdb2831f91e8bfbf67fdb91e27]
+## 16. Duty to update information[^c-349c6938321811eadb6b9f3d4ec7570a][^c-b03583cdb2831f91e8bfbf67fdb91e27]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-349c6938321811eadb6b9f3d4ec7570a]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2014/7/section/16) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+[^c-349c6938321811eadb6b9f3d4ec7570a]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2014/7/section/16) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
 
-[^key-b03583cdb2831f91e8bfbf67fdb91e27]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2014/7/section/16) in force at 23.11.2015 in so far as not already in force by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(f)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/f)
+[^c-b03583cdb2831f91e8bfbf67fdb91e27]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2014/7/section/16) in force at 23.11.2015 in so far as not already in force by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(f)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/f)

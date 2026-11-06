@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24F. Rights and remedies of exclusive licensee[^key-1100f7756af3f614817029d759c5864c]
+## 24F. Rights and remedies of exclusive licensee[^c-1100f7756af3f614817029d759c5864c]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ and these provisions apply whether or not the proprietor and the exclusive licen
 
 ## Annotations
 
-[^key-1100f7756af3f614817029d759c5864c]: Textual amendment: Ss. 24A-24G inserted (29.4.2006) by [Intellectual Property (Enforcement, etc) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [art. 1](https://www.legislation.gov.uk/uksi/2006/1028/article/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2006/1028/schedule/1/paragraph/3)
+[^c-1100f7756af3f614817029d759c5864c]: Textual amendment: Ss. 24A-24G inserted (29.4.2006) by [Intellectual Property (Enforcement, etc) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [art. 1](https://www.legislation.gov.uk/uksi/2006/1028/article/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2006/1028/schedule/1/paragraph/3)

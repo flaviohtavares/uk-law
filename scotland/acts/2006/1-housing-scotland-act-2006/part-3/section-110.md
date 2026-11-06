@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 110. Power to require production of prescribed documents[^key-20d4fc47464bc3bb15cc140912eae855]
+## 110. Power to require production of prescribed documents[^c-20d4fc47464bc3bb15cc140912eae855]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20d4fc47464bc3bb15cc140912eae855]: Commencement: S. 110 in force at 1.12.2008 by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))
+[^c-20d4fc47464bc3bb15cc140912eae855]: Commencement: S. 110 in force at 1.12.2008 by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))

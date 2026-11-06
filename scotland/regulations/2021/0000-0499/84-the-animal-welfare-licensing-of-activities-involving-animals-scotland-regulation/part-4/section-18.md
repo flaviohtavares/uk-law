@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Procedure for suspension or variation without consent[^key-ed765d410bad4004e530e8dd04920475]
+## 18. Procedure for suspension or variation without consent[^c-ed765d410bad4004e530e8dd04920475]
 
 *Extent: S*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed765d410bad4004e530e8dd04920475]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2021/84/regulation/18) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-ed765d410bad4004e530e8dd04920475]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2021/84/regulation/18) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

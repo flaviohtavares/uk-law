@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State may delegate to the Regulator of Social Housing any function of the Secretary of State under section 653 in a case where the function is exercisable in relation to a society whose registered office for the purposes of the Co-operative and Community Benefit Societies Act 2014[^key-d449f88a46828acf4d61d4f5183baefd] is in England.
+(1) The Secretary of State may delegate to the Regulator of Social Housing any function of the Secretary of State under section 653 in a case where the function is exercisable in relation to a society whose registered office for the purposes of the Co-operative and Community Benefit Societies Act 2014[^c-d449f88a46828acf4d61d4f5183baefd] is in England.
 
 (2) The function may be delegated—
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d449f88a46828acf4d61d4f5183baefd]: Textual amendment: Words in [s. 654(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/654/1) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 162](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/162) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-d449f88a46828acf4d61d4f5183baefd]: Textual amendment: Words in [s. 654(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/654/1) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 162](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/162) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

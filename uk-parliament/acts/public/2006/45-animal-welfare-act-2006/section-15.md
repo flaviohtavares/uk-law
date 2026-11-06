@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Making and approval of codes of practice: England[^key-9f96e9ff65b1d094aa9ae0fb58a7504c]
+## 15. Making and approval of codes of practice: England[^c-9f96e9ff65b1d094aa9ae0fb58a7504c]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ no account being taken of any period during which Parliament is dissolved or pro
 
 ## Annotations
 
-[^key-9f96e9ff65b1d094aa9ae0fb58a7504c]: Commencement: S. 15 in force at 1.10.2007 for E. by [S.I. 2007/2711](https://www.legislation.gov.uk/uksi/2007/2711), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2711/article/2/a)
+[^c-9f96e9ff65b1d094aa9ae0fb58a7504c]: Commencement: S. 15 in force at 1.10.2007 for E. by [S.I. 2007/2711](https://www.legislation.gov.uk/uksi/2007/2711), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2711/article/2/a)

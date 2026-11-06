@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Development consent for projects that involve housing[^key-bf14fc332e5905f8c515815d47d94e00]
+## 160. Development consent for projects that involve housing[^c-bf14fc332e5905f8c515815d47d94e00]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf14fc332e5905f8c515815d47d94e00]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2016/22/section/160) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(i)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/281/regulation/7))
+[^c-bf14fc332e5905f8c515815d47d94e00]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2016/22/section/160) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(i)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/281/regulation/7))

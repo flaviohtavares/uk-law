@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Discharge of water[^key-8919cf7d2cbe6228515f47e4a079f9ca]
+## 13. Discharge of water[^c-8919cf7d2cbe6228515f47e4a079f9ca]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) Network Rail must take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain pursuant to this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension.
 
-(7) Nothing in this article overrides the requirement for an environmental permit under regulation 12(1)(b) of the Environmental Permitting (England and Wales) Regulations 2016[^key-126742c825521cae3bb73e405e786bda].
+(7) Nothing in this article overrides the requirement for an environmental permit under regulation 12(1)(b) of the Environmental Permitting (England and Wales) Regulations 2016[^c-126742c825521cae3bb73e405e786bda].
 
 (8) If a person who receives an application for consent or approval fails to notify Network Rail of a decision within 28 days of receiving an application for consent under paragraph (3) or approval under paragraph (4)(a) that person is deemed to have granted consent or given approval, as the case may be.
 
@@ -46,10 +46,10 @@ summary: ''
 
 ## Annotations
 
-[^key-8919cf7d2cbe6228515f47e4a079f9ca]: Commencement: Art. 13 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-8919cf7d2cbe6228515f47e4a079f9ca]: Commencement: Art. 13 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
 [^f00016]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-126742c825521cae3bb73e405e786bda]: Textual amendment: Words in art. 13(7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 42](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/42) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-126742c825521cae3bb73e405e786bda]: Textual amendment: Words in art. 13(7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 42](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/42) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^f00018]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).

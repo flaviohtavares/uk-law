@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32K. Lump sum deduction orders: offences[^key-ef0b1567322ef55493deea201619f5d4]
+## 32K. Lump sum deduction orders: offences[^c-ef0b1567322ef55493deea201619f5d4]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ commits an offence.
 
 ## Annotations
 
-[^key-ef0b1567322ef55493deea201619f5d4]: Textual amendment: [Arts. 32E-32K](https://www.legislation.gov.uk/nisi/1991/2628/article/32E) inserted (1.6.2009 for specified purposes, 3.8.2009 in so far as not already in operation) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 15](https://www.legislation.gov.uk/nia/2008/10/section/15), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 40(2)](https://www.legislation.gov.uk/nia/2008/10/section/40/2)[(3)](https://www.legislation.gov.uk/nia/2008/10/section/40/3)); [S.R. 2009/216](https://www.legislation.gov.uk/nisr/2009/216), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2009/216/article/2/1/b)
+[^c-ef0b1567322ef55493deea201619f5d4]: Textual amendment: [Arts. 32E-32K](https://www.legislation.gov.uk/nisi/1991/2628/article/32E) inserted (1.6.2009 for specified purposes, 3.8.2009 in so far as not already in operation) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 15](https://www.legislation.gov.uk/nia/2008/10/section/15), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 40(2)](https://www.legislation.gov.uk/nia/2008/10/section/40/2)[(3)](https://www.legislation.gov.uk/nia/2008/10/section/40/3)); [S.R. 2009/216](https://www.legislation.gov.uk/nisr/2009/216), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2009/216/article/2/1/b)

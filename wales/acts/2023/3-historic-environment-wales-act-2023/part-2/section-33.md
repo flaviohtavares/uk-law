@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Offence of breaching temporary stop notice[^key-34a77f373446ed90ae20429b8cc85aa7][^key-25c4986f940ed601af949af8be410912]
+## 33. Offence of breaching temporary stop notice[^c-34a77f373446ed90ae20429b8cc85aa7][^c-25c4986f940ed601af949af8be410912]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-34a77f373446ed90ae20429b8cc85aa7]: Commencement: S. 33 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-34a77f373446ed90ae20429b8cc85aa7]: Commencement: S. 33 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-25c4986f940ed601af949af8be410912]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2023/3/section/33) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-25c4986f940ed601af949af8be410912]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2023/3/section/33) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

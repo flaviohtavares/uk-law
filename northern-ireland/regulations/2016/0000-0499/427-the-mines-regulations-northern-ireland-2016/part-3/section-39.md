@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Inspection, maintenance and testing[^key-c26980778877116a9c091931d44909fc]
+## 39. Inspection, maintenance and testing[^c-c26980778877116a9c091931d44909fc]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c26980778877116a9c091931d44909fc]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2016/427/regulation/39) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-c26980778877116a9c091931d44909fc]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2016/427/regulation/39) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Action plans following inspections by the Chief Inspector[^key-1af728511e1f9875dc376b335b074053][^key-e3b1039e64afdfe0732547f51fb5f0f1]
+## 62. Action plans following inspections by the Chief Inspector[^c-1af728511e1f9875dc376b335b074053][^c-e3b1039e64afdfe0732547f51fb5f0f1]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1af728511e1f9875dc376b335b074053]: Commencement: S. 62 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-1af728511e1f9875dc376b335b074053]: Commencement: S. 62 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-e3b1039e64afdfe0732547f51fb5f0f1]: Commencement: [S. 62](https://www.legislation.gov.uk/asc/2022/1/section/62) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(f)](https://www.legislation.gov.uk/wsi/2026/62/article/2/f)
+[^c-e3b1039e64afdfe0732547f51fb5f0f1]: Commencement: [S. 62](https://www.legislation.gov.uk/asc/2022/1/section/62) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(f)](https://www.legislation.gov.uk/wsi/2026/62/article/2/f)

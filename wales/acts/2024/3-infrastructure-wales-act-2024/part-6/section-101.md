@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 101. Compensation in case where defence of statutory authority applies[^key-1a84f2e16831e89915626644b1fc5ad5][^key-f787064cd636e5e1f3299d6dca848637]
+## 101. Compensation in case where defence of statutory authority applies[^c-1a84f2e16831e89915626644b1fc5ad5][^c-f787064cd636e5e1f3299d6dca848637]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a84f2e16831e89915626644b1fc5ad5]: Commencement: S. 101 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-1a84f2e16831e89915626644b1fc5ad5]: Commencement: S. 101 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-f787064cd636e5e1f3299d6dca848637]: Commencement: [S. 101](https://www.legislation.gov.uk/asc/2024/3/section/101) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-f787064cd636e5e1f3299d6dca848637]: Commencement: [S. 101](https://www.legislation.gov.uk/asc/2024/3/section/101) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

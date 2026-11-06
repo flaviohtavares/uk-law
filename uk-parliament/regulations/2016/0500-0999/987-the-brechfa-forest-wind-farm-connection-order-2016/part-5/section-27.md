@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Temporary use of land by the undertaker[^key-9c0b4eae33f69111cda073ae151f4017]
+## 27. Temporary use of land by the undertaker[^c-9c0b4eae33f69111cda073ae151f4017]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c0b4eae33f69111cda073ae151f4017]: Commencement: Art. 27 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-9c0b4eae33f69111cda073ae151f4017]: Commencement: Art. 27 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)

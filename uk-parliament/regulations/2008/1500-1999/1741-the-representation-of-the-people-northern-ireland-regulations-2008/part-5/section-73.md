@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Agents of candidates who may attend proceedings on issue or receipt of postal ballot papers[^key-2a54373aa19e251bf5f5dc14d31eb8b6]
+## 73. Agents of candidates who may attend proceedings on issue or receipt of postal ballot papers[^c-2a54373aa19e251bf5f5dc14d31eb8b6]
 
 *Extent: N.I.*
 
@@ -38,10 +38,10 @@ summary: ''
 
 (9) Where in this Part of these Regulations any act or thing is required or authorised to be done in the presence of the candidates or their agents, the non-attendance of any such persons or person at the time and place appointed for the purpose shall not, if the act or thing is otherwise duly done, invalidate the act or thing done.
 
-(10)[^key-118e6202cb6be5a75e53b4adadc78331] Nothing in this regulation applies to the issue or receipt of tendered postal ballot papers under rule 40ZA of the elections rules.
+(10)[^c-118e6202cb6be5a75e53b4adadc78331] Nothing in this regulation applies to the issue or receipt of tendered postal ballot papers under rule 40ZA of the elections rules.
 
 ## Annotations
 
-[^key-2a54373aa19e251bf5f5dc14d31eb8b6]: Modification: [Reg. 73](https://www.legislation.gov.uk/uksi/2008/1741/regulation/73) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 84](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/84)
+[^c-2a54373aa19e251bf5f5dc14d31eb8b6]: Modification: [Reg. 73](https://www.legislation.gov.uk/uksi/2008/1741/regulation/73) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 84](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/84)
 
-[^key-118e6202cb6be5a75e53b4adadc78331]: Textual amendment: [Reg. 73(10)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/73/10) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2014/1808/regulation/23)
+[^c-118e6202cb6be5a75e53b4adadc78331]: Textual amendment: [Reg. 73(10)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/73/10) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2014/1808/regulation/23)

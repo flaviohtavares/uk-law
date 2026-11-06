@@ -49,13 +49,13 @@ These Regulations may be cited as the Child Support (Northern Ireland Reciprocal
 
 ### 2. Adaptation of the Child Support Act 1991 and regulations in respect of child support
 
-(1) The provisions contained in the Memorandum of Arrangements set out in Schedule 1 as amended by the[^M_F_63951b1e-380f-442e-f312-98a59213f1cb] Exchanges of Letters set out in Schedules[^key-29c61b5a4562e1110be3e0fe4f9789ba] 1A, 1B, 1C and 1D[^key-26786cccc97dcb721c807d70f3da31a0] to these Regulations shall have effect so far as the same relate to Great Britain.
+(1) The provisions contained in the Memorandum of Arrangements set out in Schedule 1 as amended by the[^M_F_63951b1e-380f-442e-f312-98a59213f1cb] Exchanges of Letters set out in Schedules[^c-29c61b5a4562e1110be3e0fe4f9789ba] 1A, 1B, 1C and 1D[^c-26786cccc97dcb721c807d70f3da31a0] to these Regulations shall have effect so far as the same relate to Great Britain.
 
-(2) In particular and without prejudice to paragraph (1) above any act, omission and event which has effect for the purposes of the provision of the Northern Ireland legislation specified in column 2 of Schedule 2 or column 2 of Schedule 3[^key-292d66370710f0d8e76556c04674b624] to these Regulations shall also have effect as an act, omission and event for the purposes of the provision of the Child Support Act 1991 specified in the corresponding paragraph of column 1 of Schedule 2 or column 1 of Schedule 3 and for the purposes of the provision of the Family Law Act 1986 specified in the corresponding paragraph of column 1 of Schedule 3[^key-952339891132517e20cc3ea333aff43f] to the said Regulations; and in the provisions specified in column 1 of Schedule 2 to these Regulations the references to—
+(2) In particular and without prejudice to paragraph (1) above any act, omission and event which has effect for the purposes of the provision of the Northern Ireland legislation specified in column 2 of Schedule 2 or column 2 of Schedule 3[^c-292d66370710f0d8e76556c04674b624] to these Regulations shall also have effect as an act, omission and event for the purposes of the provision of the Child Support Act 1991 specified in the corresponding paragraph of column 1 of Schedule 2 or column 1 of Schedule 3 and for the purposes of the provision of the Family Law Act 1986 specified in the corresponding paragraph of column 1 of Schedule 3[^c-952339891132517e20cc3ea333aff43f] to the said Regulations; and in the provisions specified in column 1 of Schedule 2 to these Regulations the references to—
 
 - (a) “the Act” shall be construed as including references to the Child Support (Northern Ireland) Order 1991 [^c1822137];
-- (b) “the Secretary of State” shall be construed as including references to the Department for Social Development[^key-5da64b9854c66c0f10b72438065f4a04];
-- (c)[^key-7d43b03c4c36e2dcc9c4d7cc4cd37271] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) “the Secretary of State” shall be construed as including references to the Department for Social Development[^c-5da64b9854c66c0f10b72438065f4a04];
+- (c)[^c-7d43b03c4c36e2dcc9c4d7cc4cd37271] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) “child support maintenance” shall be construed as including references to child support maintenance within the meaning of the Child Support (Northern Ireland) Order 1991;
 
 and cognate expressions shall be construed accordingly.
@@ -244,7 +244,7 @@ Sealed with the Official Seal of the Department of Health and Social Services fo
 
 Permanent Secretary.
 
-## SCHEDULE 1B — EXCHANGE OF LETTERS AMENDING THE MEMORANDUM OF ARRANGEMENTS RELATING TO THE PROVISION MADE FOR CHILD SUPPORT MAINTENANCE IN THE UNITED KINGDOM[^key-6d3d05bd9822a4e41855273417e0d1d2]
+## SCHEDULE 1B — EXCHANGE OF LETTERS AMENDING THE MEMORANDUM OF ARRANGEMENTS RELATING TO THE PROVISION MADE FOR CHILD SUPPORT MAINTENANCE IN THE UNITED KINGDOM[^c-6d3d05bd9822a4e41855273417e0d1d2]
 
 Regulation 2(1)
 
@@ -366,7 +366,7 @@ Article 12A shall be amended as follows—
 
 I have the honour to confirm, with the consent of the Department of Finance and Personnel, that the foregoing proposals are acceptable to the Minister for Social Development, and agree that your letter and this reply shall constitute a Memorandum of Arrangements between us which shall come into effect on 16th April 2002.
 
-## SCHEDULE 1C — EXCHANGE OF LETTERS AMENDING THE MEMORANDUM OF ARRANGEMENTS RELATING TO THE PROVISION MADE FOR CHILD SUPPORT MAINTENANCE IN THE UNITED KINGDOM[^key-63ee37d98637695371084d4cc19be6ff]
+## SCHEDULE 1C — EXCHANGE OF LETTERS AMENDING THE MEMORANDUM OF ARRANGEMENTS RELATING TO THE PROVISION MADE FOR CHILD SUPPORT MAINTENANCE IN THE UNITED KINGDOM[^c-63ee37d98637695371084d4cc19be6ff]
 
 Regulation 2(1)
 
@@ -481,7 +481,7 @@ John McKibbin
 
 Senior Officer of the Department of Finance and Personnel.
 
-## Schedule 1D — EXCHANGE OF LETTERS AMENDING THE MEMORANDUM OF ARRANGEMENTS RELATING TO THE PROVISION MADE FOR CHILD SUPPORT MAINTENANCE IN THE UNITED KINGDOM[^key-f60ecbc72a716ab524e3cb667bd99c34]
+## Schedule 1D — EXCHANGE OF LETTERS AMENDING THE MEMORANDUM OF ARRANGEMENTS RELATING TO THE PROVISION MADE FOR CHILD SUPPORT MAINTENANCE IN THE UNITED KINGDOM[^c-f60ecbc72a716ab524e3cb667bd99c34]
 
 Regulation 2(1)
 
@@ -673,13 +673,13 @@ Regulation 2(2)
 | Section 8 | Article 10 | Role of the courts with respect to maintenance for children |
 | Section 9 | Article 11 | Agreements about maintenance |
 | Section 10 | Article 12 | Relationship between maintenance assessments and certain court orders and related matters |
-| Section 14A[^key-b5ba3d7925a0f1f1368dc7e85b2134aa] | Article 16A | Information — offences |
+| Section 14A[^c-b5ba3d7925a0f1f1368dc7e85b2134aa] | Article 16A | Information — offences |
 | Section 15 | Article 17 | Powers of inspectors |
-| [^key-43138bb8f6e4b98beccdfc2df83ced4b]. . . |  |  |
+| [^c-43138bb8f6e4b98beccdfc2df83ced4b]. . . |  |  |
 | Section 29 | Article 29 | Collection of child support maintenance |
 | Section 30 | Article 30 | Collection and enforcement of other forms of maintenance |
 
-## SCHEDULE 3 — ADAPTATION OF THE CHILD SUPPORT ACT 1991 AND THE FAMILY LAW ACT 1986 FOR THE PURPOSES OF THE CHILD SUPPORT ACT 1991[^key-ac39f04066b6f7ea0b0133ec8211eb04]
+## SCHEDULE 3 — ADAPTATION OF THE CHILD SUPPORT ACT 1991 AND THE FAMILY LAW ACT 1986 FOR THE PURPOSES OF THE CHILD SUPPORT ACT 1991[^c-ac39f04066b6f7ea0b0133ec8211eb04]
 
 Regulation 2(2)
 
@@ -701,19 +701,19 @@ The Regulations provide that certain matters to which the provisions of the Nort
 
 [^M_F_63951b1e-380f-442e-f312-98a59213f1cb]: Textual amendment: Words in reg. 2(1) inserted (22.1.1996) by The Child Support (Miscellaneous Amendments)(No. 2) Regulations 1995, [S.I. 1995/3261](https://www.legislation.gov.uk/uksi/1995/3261), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/3261/regulation/1/2), [53](https://www.legislation.gov.uk/uksi/1995/3261/regulation/53)
 
-[^key-29c61b5a4562e1110be3e0fe4f9789ba]: Textual amendment: Words in reg. 2(1) substituted (16.4.2002) by [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2002 (S.I. 2002/771)](https://www.legislation.gov.uk/uksi/2002/771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/771/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2002/771/regulation/2/2)
+[^c-29c61b5a4562e1110be3e0fe4f9789ba]: Textual amendment: Words in reg. 2(1) substituted (16.4.2002) by [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2002 (S.I. 2002/771)](https://www.legislation.gov.uk/uksi/2002/771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/771/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2002/771/regulation/2/2)
 
-[^key-26786cccc97dcb721c807d70f3da31a0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1993/584/regulation/2/1) substituted (30.6.2014) by [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2014 (S.I. 2014/1423)](https://www.legislation.gov.uk/uksi/2014/1423), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1423/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1423/regulation/2/2)
+[^c-26786cccc97dcb721c807d70f3da31a0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1993/584/regulation/2/1) substituted (30.6.2014) by [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2014 (S.I. 2014/1423)](https://www.legislation.gov.uk/uksi/2014/1423), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1423/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1423/regulation/2/2)
 
-[^key-292d66370710f0d8e76556c04674b624]: Textual amendment: Words in reg. 2(2) inserted (16.4.2002) by [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2002 (S.I. 2002/771)](https://www.legislation.gov.uk/uksi/2002/771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/771/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2002/771/regulation/2/3/a)
+[^c-292d66370710f0d8e76556c04674b624]: Textual amendment: Words in reg. 2(2) inserted (16.4.2002) by [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2002 (S.I. 2002/771)](https://www.legislation.gov.uk/uksi/2002/771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/771/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2002/771/regulation/2/3/a)
 
-[^key-952339891132517e20cc3ea333aff43f]: Textual amendment: Words in reg. 2(2) inserted (16.4.2002) by [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2002 (S.I. 2002/771)](https://www.legislation.gov.uk/uksi/2002/771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/771/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2002/771/regulation/2/3/b)
+[^c-952339891132517e20cc3ea333aff43f]: Textual amendment: Words in reg. 2(2) inserted (16.4.2002) by [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2002 (S.I. 2002/771)](https://www.legislation.gov.uk/uksi/2002/771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/771/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2002/771/regulation/2/3/b)
 
 [^c1822137]: Marginal citation: [S.I. 1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628).
 
-[^key-5da64b9854c66c0f10b72438065f4a04]: Textual amendment: Words in reg. 2(2) substituted (16.4.2002) by [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2002 (S.I. 2002/771)](https://www.legislation.gov.uk/uksi/2002/771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/771/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2002/771/regulation/2/3/c)
+[^c-5da64b9854c66c0f10b72438065f4a04]: Textual amendment: Words in reg. 2(2) substituted (16.4.2002) by [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2002 (S.I. 2002/771)](https://www.legislation.gov.uk/uksi/2002/771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/771/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2002/771/regulation/2/3/c)
 
-[^key-7d43b03c4c36e2dcc9c4d7cc4cd37271]: Textual amendment: Reg. 2(2)(c) omitted (16.4.2002) by virtue of [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2002 (S.I. 2002/771)](https://www.legislation.gov.uk/uksi/2002/771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/771/regulation/1/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2002/771/regulation/2/3/d)
+[^c-7d43b03c4c36e2dcc9c4d7cc4cd37271]: Textual amendment: Reg. 2(2)(c) omitted (16.4.2002) by virtue of [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2002 (S.I. 2002/771)](https://www.legislation.gov.uk/uksi/2002/771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/771/regulation/1/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2002/771/regulation/2/3/d)
 
 [^M_F_6296c6de-3cc5-4b5b-b5b9-70482f83ee10]: Textual amendment: Art. 5(5)-(7) of Sch. 1 added (22.1.96) by The Child Support (Miscellaneous Amendments) (No. 2) Regulations 1995 [S.I. 1995/3261](https://www.legislation.gov.uk/uksi/1995/3261), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/3261/regulation/1/2), [Sch. 1A](https://www.legislation.gov.uk/uksi/1995/3261/schedule/1A)
 
@@ -721,14 +721,14 @@ The Regulations provide that certain matters to which the provisions of the Nort
 
 [^M_F_48844641-4e54-4e2c-bc6a-f83eb72467bf]: Textual amendment: Sch. 1A added (22.1.96) by The Child Support (Miscellaneous Amendments) (No. 2) Regulations 1995 [S.I. 1995/3261](https://www.legislation.gov.uk/uksi/1995/3261), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/3261/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/1995/3261/schedule)
 
-[^key-6d3d05bd9822a4e41855273417e0d1d2]: Textual amendment: Sch. 1B inserted (16.4.2002) by [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2002 (S.I. 2002/771)](https://www.legislation.gov.uk/uksi/2002/771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/771/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2002/771/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2002/771/schedule/1)
+[^c-6d3d05bd9822a4e41855273417e0d1d2]: Textual amendment: Sch. 1B inserted (16.4.2002) by [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2002 (S.I. 2002/771)](https://www.legislation.gov.uk/uksi/2002/771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/771/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2002/771/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2002/771/schedule/1)
 
-[^key-63ee37d98637695371084d4cc19be6ff]: Textual amendment: Sch. 1C inserted (29.10.2012) by [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2012 (S.I. 2012/2380)](https://www.legislation.gov.uk/uksi/2012/2380), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2380/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/2380/regulation/2/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2380/schedule/1)
+[^c-63ee37d98637695371084d4cc19be6ff]: Textual amendment: Sch. 1C inserted (29.10.2012) by [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2012 (S.I. 2012/2380)](https://www.legislation.gov.uk/uksi/2012/2380), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2380/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/2380/regulation/2/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2380/schedule/1)
 
-[^key-f60ecbc72a716ab524e3cb667bd99c34]: Textual amendment: [Sch. 1D](https://www.legislation.gov.uk/uksi/1993/584/schedule/1D) inserted (30.6.2014) by [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2014 (S.I. 2014/1423)](https://www.legislation.gov.uk/uksi/2014/1423), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1423/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/1423/regulation/2/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/1423/schedule/1)
+[^c-f60ecbc72a716ab524e3cb667bd99c34]: Textual amendment: [Sch. 1D](https://www.legislation.gov.uk/uksi/1993/584/schedule/1D) inserted (30.6.2014) by [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2014 (S.I. 2014/1423)](https://www.legislation.gov.uk/uksi/2014/1423), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1423/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/1423/regulation/2/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/1423/schedule/1)
 
-[^key-b5ba3d7925a0f1f1368dc7e85b2134aa]: Textual amendment: Words in Sch. 2 inserted (16.4.2002) by [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2002 (S.I. 2002/771)](https://www.legislation.gov.uk/uksi/2002/771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/771/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2002/771/regulation/4/2)
+[^c-b5ba3d7925a0f1f1368dc7e85b2134aa]: Textual amendment: Words in Sch. 2 inserted (16.4.2002) by [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2002 (S.I. 2002/771)](https://www.legislation.gov.uk/uksi/2002/771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/771/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2002/771/regulation/4/2)
 
-[^key-43138bb8f6e4b98beccdfc2df83ced4b]: Textual amendment: Words in Sch. 2 omitted (16.4.2002) by virtue of [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2002 (S.I. 2002/771)](https://www.legislation.gov.uk/uksi/2002/771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/771/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2002/771/regulation/4/3)
+[^c-43138bb8f6e4b98beccdfc2df83ced4b]: Textual amendment: Words in Sch. 2 omitted (16.4.2002) by virtue of [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2002 (S.I. 2002/771)](https://www.legislation.gov.uk/uksi/2002/771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/771/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2002/771/regulation/4/3)
 
-[^key-ac39f04066b6f7ea0b0133ec8211eb04]: Textual amendment: Sch. 3 inserted (16.4.2002) by [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2002 (S.I. 2002/771)](https://www.legislation.gov.uk/uksi/2002/771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/771/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2002/771/regulation/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2002/771/schedule/2)
+[^c-ac39f04066b6f7ea0b0133ec8211eb04]: Textual amendment: Sch. 3 inserted (16.4.2002) by [The Child Support (Northern Ireland Reciprocal Arrangements) Amendment Regulations 2002 (S.I. 2002/771)](https://www.legislation.gov.uk/uksi/2002/771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/771/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2002/771/regulation/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2002/771/schedule/2)

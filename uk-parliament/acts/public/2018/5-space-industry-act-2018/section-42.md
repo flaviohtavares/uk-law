@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Power of entry for purposes of survey[^key-9094182a04de42756ecab95a754d91f0]
+## 42. Power of entry for purposes of survey[^c-9094182a04de42756ecab95a754d91f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9094182a04de42756ecab95a754d91f0]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2018/5/section/42) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 78](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/78) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-9094182a04de42756ecab95a754d91f0]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2018/5/section/42) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 78](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/78) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

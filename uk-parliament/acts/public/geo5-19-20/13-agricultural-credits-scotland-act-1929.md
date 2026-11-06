@@ -61,7 +61,7 @@ An Act to secure in Scotland by means of the formation of a company and the assi
 
 (1) An agricultural charge shall, so long as the charge continues in force, confer on the bank a right of security over the property affected by the charge which, subject as hereinafter provided, may, on the happening of any event specified in the instrument creating the charge as an event authorising such enforcement, be enforced by sequestration and sale of such property in like manner in all respects as in the case of the hypothec of a landlord.
 
-(2) The right of security conferred by the foregoing subsection shall rank after any right of hypothec competent to the landlord of the society [^key-6670646badcf4ceecc54cac9f9bddbc1]..., and on any sequestration and sale at the instance of the bank, the bank shall be bound to pay out of the proceeds of such sequestration and sale to such landlord [^key-6670646badcf4ceecc54cac9f9bddbc1]... any sums then due in name of rent [^key-6670646badcf4ceecc54cac9f9bddbc1]....
+(2) The right of security conferred by the foregoing subsection shall rank after any right of hypothec competent to the landlord of the society [^c-6670646badcf4ceecc54cac9f9bddbc1]..., and on any sequestration and sale at the instance of the bank, the bank shall be bound to pay out of the proceeds of such sequestration and sale to such landlord [^c-6670646badcf4ceecc54cac9f9bddbc1]... any sums then due in name of rent [^c-6670646badcf4ceecc54cac9f9bddbc1]....
 
 (3) An agricultural charge shall be no protection in respect of the property affected by it against any process, execution, or diligences for recovery of taxes or rates.
 
@@ -90,9 +90,9 @@ An Act to secure in Scotland by means of the formation of a company and the assi
 “Bank” means—[^c606807]
 
 - (a) the Bank of England,
-- (b) a person who has permission under Part 4A[^key-5369f73dd425414efcb01dcf61fca8dc] of the Financial Services and Markets Act 2000 to accept deposits,
+- (b) a person who has permission under Part 4A[^c-5369f73dd425414efcb01dcf61fca8dc] of the Financial Services and Markets Act 2000 to accept deposits,
 - (c) an EEA firm of the kind mentioned in paragraph 5(b) of Schedule 3 to that Act which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12 of that Schedule) to accept deposits, or
-- (d) a Post Office company within the meaning of Part 1 of the Postal Services Act 2011 in the exercise of its powers to provide banking services[^key-c8efdccb0c76d8d6c4de1d97a7ddf47d],
+- (d) a Post Office company within the meaning of Part 1 of the Postal Services Act 2011 in the exercise of its powers to provide banking services[^c-c8efdccb0c76d8d6c4de1d97a7ddf47d],
 
 and the expressions used in paragraphs (b) and (c) of this definition must be read with section 22 of the Financial Services and Markets Act 2000, any relevant order under that section and Schedule 2 to that Act;
 
@@ -123,7 +123,7 @@ and the expressions used in paragraphs (b) and (c) of this definition must be re
 
 [^c606794]: Modification: Part II applied by [Agricultural Marketing Act 1958 (c. 47)](https://www.legislation.gov.uk/ukpga/1958/47), [s. 15(6)](https://www.legislation.gov.uk/ukpga/1958/47/section/15/6)
 
-[^key-6670646badcf4ceecc54cac9f9bddbc1]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/Geo5/19-20/13/section/6/2) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-6670646badcf4ceecc54cac9f9bddbc1]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/Geo5/19-20/13/section/6/2) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c606798]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/Geo5/19-20/13/section/8) repealed (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [216](https://www.legislation.gov.uk/uksi/2001/3649/article/216)
 
@@ -131,9 +131,9 @@ and the expressions used in paragraphs (b) and (c) of this definition must be re
 
 [^c606807]: Textual amendment: Definition of "**bank**" in s. 9 substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [217](https://www.legislation.gov.uk/uksi/2001/3649/article/217)
 
-[^key-5369f73dd425414efcb01dcf61fca8dc]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/ukpga/Geo5/19-20/13/section/9/2) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 29](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/29) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-5369f73dd425414efcb01dcf61fca8dc]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/ukpga/Geo5/19-20/13/section/9/2) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 29](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/29) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-c8efdccb0c76d8d6c4de1d97a7ddf47d]: Textual amendment: Words in s. 9 substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/1)
+[^c-c8efdccb0c76d8d6c4de1d97a7ddf47d]: Textual amendment: Words in s. 9 substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/1)
 
 [^c606808]: Modification: A dagger appended to a marginal note means that it is no longer accurate
 

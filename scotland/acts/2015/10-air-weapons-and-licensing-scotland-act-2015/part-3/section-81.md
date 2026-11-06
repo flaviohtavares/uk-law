@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Conditions for Part 3 licences: displays or advertising[^key-f687a581cf937f47839e48287f484e26]
+## 81. Conditions for Part 3 licences: displays or advertising[^c-f687a581cf937f47839e48287f484e26]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In paragraph 9(2) of Schedule 2 to the 1982 Act (examples of conditions which ma
 
 ## Annotations
 
-[^key-f687a581cf937f47839e48287f484e26]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2015/10/section/81) in force at 1.11.2016 by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)
+[^c-f687a581cf937f47839e48287f484e26]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2015/10/section/81) in force at 1.11.2016 by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)

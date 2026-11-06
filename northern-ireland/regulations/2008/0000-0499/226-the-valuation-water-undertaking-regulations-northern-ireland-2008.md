@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Finance and Personnel makes the following Regulations in exercise of the powers conferred by Article 37(4) of the Rates (Northern Ireland) Order 1977[^f00001].
 
-## 1. Citation and commencement[^key-6cf79dbc0253554052ead32f8508bd9d]
+## 1. Citation and commencement[^c-6cf79dbc0253554052ead32f8508bd9d]
 
 These Regulations may be cited as the Valuation (Water Undertaking) Regulations (Northern Ireland) 2008 and shall come into operation on 7th July 2008.
 
-## 2. Interpretation[^key-441790552ee5b481651e167bea6e37b1]
+## 2. Interpretation[^c-441790552ee5b481651e167bea6e37b1]
 
 (1) In these Regulations any reference to hereditaments used for any purpose includes a reference to hereditaments which are unused but in relation to which it appears that when next in use they will be used for such a purpose.
 
@@ -57,7 +57,7 @@ These Regulations may be cited as the Valuation (Water Undertaking) Regulations 
 - “water fittings” includes pipes (other than water mains), taps, cocks, valves, ferrules, cisterns, baths, water closets, soil pans and other similar apparatus (other than meters) used in any particular place in connection with the supply of water to and use of water in that place;
 - “water main” has the same meaning as in the 2006 Order.
 
-## 3. Northern Ireland Water Limited[^key-7332a38bda003c719f9c2926fc736445]
+## 3. Northern Ireland Water Limited[^c-7332a38bda003c719f9c2926fc736445]
 
 (1) Anything which would (apart from these Regulations) be more than one hereditament shall be treated as one hereditament if it is—
 
@@ -72,9 +72,9 @@ These Regulations may be cited as the Valuation (Water Undertaking) Regulations 
 
 (3) In this regulation “operational land”, in relation to Northern Ireland Water Limited, means land which is used for any purpose referred to in paragraph (1)(b) not being land which, in respect of its nature and situation, is comparable rather with land in general than with land which is used for that particular purpose.
 
-(4)[^key-09f79cd5770db90dbd9149e588e00088] The hereditament described in paragraph (1) shall be treated as occupied by Northern Ireland Water Limited.
+(4)[^c-09f79cd5770db90dbd9149e588e00088] The hereditament described in paragraph (1) shall be treated as occupied by Northern Ireland Water Limited.
 
-## 4. Revocation[^key-cef857847452be419ecd53be7397c241]
+## 4. Revocation[^c-cef857847452be419ecd53be7397c241]
 
 The Valuation (Water Undertaking) Regulations (Northern Ireland) 2003[^f00003] are revoked.
 
@@ -96,16 +96,16 @@ The Regulations also revoke the Valuation (Water Undertaking) Regulations (North
 
 [^f00001]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 37(4) was substituted by Article 6(1) of the Rates (Amendment) (Northern Ireland) Order 1996 ([S.I. 1996/3162 (N.I. 25)](https://www.legislation.gov.uk/nisi/1996/3162))
 
-[^key-6cf79dbc0253554052ead32f8508bd9d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/226/regulation/1) in operation at 7.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/226/regulation/1)
+[^c-6cf79dbc0253554052ead32f8508bd9d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/226/regulation/1) in operation at 7.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/226/regulation/1)
 
-[^key-441790552ee5b481651e167bea6e37b1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/226/regulation/2) in operation at 7.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/226/regulation/1)
+[^c-441790552ee5b481651e167bea6e37b1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/226/regulation/2) in operation at 7.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/226/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2006/3336 (N.I. 21)](https://www.legislation.gov.uk/nisi/2006/3336)
 
-[^key-7332a38bda003c719f9c2926fc736445]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/226/regulation/3) in operation at 7.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/226/regulation/1)
+[^c-7332a38bda003c719f9c2926fc736445]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/226/regulation/3) in operation at 7.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/226/regulation/1)
 
-[^key-09f79cd5770db90dbd9149e588e00088]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2008/226/regulation/3/4) added (31.1.2011) by [Valuation (Telecommunications, Natural Gas and Water) Regulations (Northern Ireland) 2010 (S.R. 2010/431)](https://www.legislation.gov.uk/nisr/2010/431), [regs. 1](https://www.legislation.gov.uk/nisr/2010/431/regulation/1), [5](https://www.legislation.gov.uk/nisr/2010/431/regulation/5)
+[^c-09f79cd5770db90dbd9149e588e00088]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2008/226/regulation/3/4) added (31.1.2011) by [Valuation (Telecommunications, Natural Gas and Water) Regulations (Northern Ireland) 2010 (S.R. 2010/431)](https://www.legislation.gov.uk/nisr/2010/431), [regs. 1](https://www.legislation.gov.uk/nisr/2010/431/regulation/1), [5](https://www.legislation.gov.uk/nisr/2010/431/regulation/5)
 
-[^key-cef857847452be419ecd53be7397c241]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/226/regulation/4) in operation at 7.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/226/regulation/1)
+[^c-cef857847452be419ecd53be7397c241]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/226/regulation/4) in operation at 7.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/226/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2003 No. 186](https://www.legislation.gov.uk/nisr/2003/186)

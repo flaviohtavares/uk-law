@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Notices[^key-c47a0cdae8960d6e2086a1603ba40e88]
+## 26. Notices[^c-c47a0cdae8960d6e2086a1603ba40e88]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c47a0cdae8960d6e2086a1603ba40e88]: Commencement: S. 26 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-c47a0cdae8960d6e2086a1603ba40e88]: Commencement: S. 26 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

@@ -26,7 +26,7 @@ summary: ''
 
 (3)[^c2571561] In this section “**ecclesiastical corporation**” means a capitular body within the meaning of the [^c2571571]Cathedrals Measure 1963 or the incumbent of a benefice and “[^c20823771]**appropriate authority**” means, in the case of funds held in trust for a cathedral, the corporate body of that cathedral established under section 9(1)(a) of the Cathedrals Measure 1999 and in the case of funds held in trust for a benefice the Diocesan Board of Finance for the diocese in which that benefice is situated.
 
-(4)[^key-563f028b022d07b08bd0dca60071d4ab] The preceding provisions of this section cease to apply to the case of funds held in trust for a cathedral on the commencement in relation to that cathedral of the charity provisions within the meaning of section 53(7) of the Cathedrals Measure 2021
+(4)[^c-563f028b022d07b08bd0dca60071d4ab] The preceding provisions of this section cease to apply to the case of funds held in trust for a cathedral on the commencement in relation to that cathedral of the charity provisions within the meaning of section 53(7) of the Cathedrals Measure 2021
 
 ## Annotations
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c20823771]: Textual amendment: Words in s. 41(3) added (Provinces of Canterbury and York) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [ss. 14](https://www.legislation.gov.uk/ukcm/2006/1/section/14), [16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 25(b)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/25/b); [Instrument dated 11.9.2006 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/2006-09-11)
 
-[^key-563f028b022d07b08bd0dca60071d4ab]: Textual amendment: [S. 41(4)](https://www.legislation.gov.uk/ukpga/1982/53/section/41/4) inserted (coming into force in accordance with s. 53(3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukcm/2021/2/schedule/4/paragraph/21) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
+[^c-563f028b022d07b08bd0dca60071d4ab]: Textual amendment: [S. 41(4)](https://www.legislation.gov.uk/ukpga/1982/53/section/41/4) inserted (coming into force in accordance with s. 53(3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukcm/2021/2/schedule/4/paragraph/21) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))

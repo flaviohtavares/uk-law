@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Changes of programme policy[^key-650174d83f1d1f5f76aafcee574b39ba][^key-01ad38dc4edf7f93ccb2f85ac54591c6][^key-d0e42512d002aec41d495d5e51b45f81]
+## 5. Changes of programme policy[^c-650174d83f1d1f5f76aafcee574b39ba][^c-01ad38dc4edf7f93ccb2f85ac54591c6][^c-d0e42512d002aec41d495d5e51b45f81]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,8 +33,8 @@ In section 267 of the Communications Act 2003 (changes of programme policy for C
 
 ## Annotations
 
-[^key-650174d83f1d1f5f76aafcee574b39ba]: Commencement: S. 5 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-650174d83f1d1f5f76aafcee574b39ba]: Commencement: S. 5 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-01ad38dc4edf7f93ccb2f85ac54591c6]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2024/15/section/5) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
+[^c-01ad38dc4edf7f93ccb2f85ac54591c6]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2024/15/section/5) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
 
-[^key-d0e42512d002aec41d495d5e51b45f81]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2024/15/section/5) in force at 1.1.2026 in so far as not already in force by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/e)
+[^c-d0e42512d002aec41d495d5e51b45f81]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2024/15/section/5) in force at 1.1.2026 in so far as not already in force by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/e)

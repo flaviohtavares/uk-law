@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94A. Appointments not subject to section 85: courts[^key-eb7cc75567850050aa8396850c928518]
+## 94A. Appointments not subject to section 85: courts[^c-eb7cc75567850050aa8396850c928518]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb7cc75567850050aa8396850c928518]: Textual amendment: [S. 94A](https://www.legislation.gov.uk/ukpga/2005/4/section/94A) omitted (10.3.2022 for specified purposes, 1.10.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/c), [Sch. 4 para. 11(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/4/paragraph/11/3); [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1014/regulation/3))
+[^c-eb7cc75567850050aa8396850c928518]: Textual amendment: [S. 94A](https://www.legislation.gov.uk/ukpga/2005/4/section/94A) omitted (10.3.2022 for specified purposes, 1.10.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/c), [Sch. 4 para. 11(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/4/paragraph/11/3); [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1014/regulation/3))

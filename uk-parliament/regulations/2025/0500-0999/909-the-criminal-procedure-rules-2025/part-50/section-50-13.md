@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.13. Extradition hearing[^key-42db543298ad67ce5f4c32df998f36b4]
+## 50.13. Extradition hearing[^c-42db543298ad67ce5f4c32df998f36b4]
 
 *Extent: E+W*
 
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-42db543298ad67ce5f4c32df998f36b4]: Commencement: [Rule 50.13](https://www.legislation.gov.uk/uksi/2025/909/rule/50.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-42db543298ad67ce5f4c32df998f36b4]: Commencement: [Rule 50.13](https://www.legislation.gov.uk/uksi/2025/909/rule/50.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01343]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41); section 79 was amended by paragraphs 4 and 5 of Schedule 20 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22). Section 103 was amended by section 160 of the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12). Section 118A and 118B were inserted by section 161 of the 2014 Act. Section 137 was amended by sections 164 and 181 of, and paragraph 117 of Schedule 11 to, the 2014 Act. Section 138 was amended by sections 164 and 181 of, and paragraph 118 of Schedule 11 to, the 2014 Act.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Opening of signing sheet envelopes[^key-fa98cd77f8000dd563b8b4a28bd44331]
+## 108. Opening of signing sheet envelopes[^c-fa98cd77f8000dd563b8b4a28bd44331]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa98cd77f8000dd563b8b4a28bd44331]: Commencement: Reg. 108 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-fa98cd77f8000dd563b8b4a28bd44331]: Commencement: Reg. 108 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

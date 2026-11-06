@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-5e09efde35c899c27ee9b26b32588a44] Subject to subsection (4) below, the Minister may, with the approval of the Treasury, make advances to a highway authority for any of the purposes mentioned in paragraphs (a) to (k) below, or in respect of the expenses mentioned in paragraph (l) or (m) below:—
+(1)[^c-5e09efde35c899c27ee9b26b32588a44] Subject to subsection (4) below, the Minister may, with the approval of the Treasury, make advances to a highway authority for any of the purposes mentioned in paragraphs (a) to (k) below, or in respect of the expenses mentioned in paragraph (l) or (m) below:—
 
 - (a) the construction of a highway which is to be a highway maintainable at the public expense;
 - (b) the maintenance of a highway;
@@ -56,7 +56,7 @@ In paragraph (e) above “**highway land**” means land which the Minister is s
 
 ## Annotations
 
-[^key-5e09efde35c899c27ee9b26b32588a44]: Modification: [S. 272(1)](https://www.legislation.gov.uk/ukpga/1980/66/section/272/1) modified (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [12(g)(viii)](https://www.legislation.gov.uk/uksi/2018/103/regulation/12/g/viii)
+[^c-5e09efde35c899c27ee9b26b32588a44]: Modification: [S. 272(1)](https://www.legislation.gov.uk/ukpga/1980/66/section/272/1) modified (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [12(g)(viii)](https://www.legislation.gov.uk/uksi/2018/103/regulation/12/g/viii)
 
 [^c13431201]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4 Sch. 2 para. 45(16)](https://www.legislation.gov.uk/ukpga/1990/11/section/4/schedule/2/paragraph/45/16)
 

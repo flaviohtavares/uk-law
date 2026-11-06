@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26.7. Allocation and assignment[^key-62406252147bc7fc9cba2c32481e196d]
+## 26.7. Allocation and assignment[^c-62406252147bc7fc9cba2c32481e196d]
 
 *Extent: E+W*
 
 (1) Subject to rule 26.8, the court shall allocate the claim to a track and, where applicable, assign it to a complexity band—
 
-- (a) after[^key-fd6640393547abf3b7bc9c19c1683bcb] all parties have filed their directions questionnaires; or
+- (a) after[^c-fd6640393547abf3b7bc9c19c1683bcb] all parties have filed their directions questionnaires; or
 - (b) when giving directions pursuant to rule 26.4(10),
 
 unless it has stayed the proceedings under rule 26.5.
@@ -49,6 +49,6 @@ the claim shall be allocated to a track and, where applicable, assigned to a com
 
 ## Annotations
 
-[^key-62406252147bc7fc9cba2c32481e196d]: Textual amendment: Pt. 26 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/572/schedule/1) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-62406252147bc7fc9cba2c32481e196d]: Textual amendment: Pt. 26 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/572/schedule/1) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-fd6640393547abf3b7bc9c19c1683bcb]: Textual amendment: Word in [rule 26.7(1)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/26.7/1/a) substituted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/6/1)
+[^c-fd6640393547abf3b7bc9c19c1683bcb]: Textual amendment: Word in [rule 26.7(1)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/26.7/1/a) substituted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/6/1)

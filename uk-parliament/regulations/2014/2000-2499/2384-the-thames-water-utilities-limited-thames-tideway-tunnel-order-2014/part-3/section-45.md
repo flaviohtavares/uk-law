@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Time limit for exercise of authority to acquire land compulsorily[^key-6288dabccfede0f7493c1b2e33d62c9d]
+## 45. Time limit for exercise of authority to acquire land compulsorily[^c-6288dabccfede0f7493c1b2e33d62c9d]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6288dabccfede0f7493c1b2e33d62c9d]: Commencement: Art. 45 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-6288dabccfede0f7493c1b2e33d62c9d]: Commencement: Art. 45 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
 [^f00030]: Footnote: [1981 c.66](https://www.legislation.gov.uk/ukpga/1981/66).

@@ -22,7 +22,7 @@ summary: ''
 
 Article 92
 
-### 99. The Judicial Pensions (Additional Voluntary Contributions) Regulations (Northern Ireland) 1995[^key-9faf0de4c49e9b44ad7f6cd6459739b8][^f00030]
+### 99. The Judicial Pensions (Additional Voluntary Contributions) Regulations (Northern Ireland) 1995[^c-9faf0de4c49e9b44ad7f6cd6459739b8][^f00030]
 
 (1) The Judicial Pensions (Additional Voluntary Contributions) Regulations (Northern Ireland) 1995 in their application to members of the judicial pension schemes constituted—
 
@@ -51,6 +51,6 @@ are amended as follows.
 
 ## Annotations
 
-[^key-9faf0de4c49e9b44ad7f6cd6459739b8]: Commencement: Sch. 1 para. 99 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-9faf0de4c49e9b44ad7f6cd6459739b8]: Commencement: Sch. 1 para. 99 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
 
 [^f00030]: Footnote: [S.R. 1995/189](https://www.legislation.gov.uk/nisr/1995/189) as amended by [S.R. 1996/10](https://www.legislation.gov.uk/nisr/1996/10).

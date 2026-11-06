@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Data matching[^key-96ec18ed70fee059629b6bd8242bf96d]
+## 33. Data matching[^c-96ec18ed70fee059629b6bd8242bf96d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 9 (data matching) has effect.
 
 ## Annotations
 
-[^key-96ec18ed70fee059629b6bd8242bf96d]: Commencement: S. 33 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(u)](https://www.legislation.gov.uk/uksi/2015/841/article/3/u)
+[^c-96ec18ed70fee059629b6bd8242bf96d]: Commencement: S. 33 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(u)](https://www.legislation.gov.uk/uksi/2015/841/article/3/u)

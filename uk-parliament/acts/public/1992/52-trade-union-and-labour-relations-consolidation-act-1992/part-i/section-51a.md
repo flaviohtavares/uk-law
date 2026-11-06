@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51A. Postal voting: counting of votes etc. by independent person[^c14514221][^key-00cf3e22a75ea4a64506a2a21bc4f046]
+## 51A. Postal voting: counting of votes etc. by independent person[^c14514221][^c-00cf3e22a75ea4a64506a2a21bc4f046]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ are undertaken by one or more independent persons appointed by the union.
 
 [^c14514221]: Textual amendment: S. 51A inserted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 2(1)](https://www.legislation.gov.uk/ukpga/1993/19/section/2/1); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)
 
-[^key-00cf3e22a75ea4a64506a2a21bc4f046]: Textual amendment: S. 51A heading substituted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(8)](https://www.legislation.gov.uk/uksi/2026/881/article/3/8) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-00cf3e22a75ea4a64506a2a21bc4f046]: Textual amendment: S. 51A heading substituted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(8)](https://www.legislation.gov.uk/uksi/2026/881/article/3/8) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

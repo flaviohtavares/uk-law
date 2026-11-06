@@ -38,13 +38,13 @@ An Act to amend and consolidate the law relating to coroners.
 
 ## 2. Appointment of coroners, etc.
 
-(1)[^c21711161] The Northern Ireland Judicial Appointments Commission may appoint one, or more than one, coroner and deputy coroner for a district or districts on such conditions as to remuneration, superannuation the payment of allowances[^key-c5d089c865e236df18e6a1e6b830e847] or otherwise as the Lord Chancellor may determine after consultation with the Treasury.
+(1)[^c21711161] The Northern Ireland Judicial Appointments Commission may appoint one, or more than one, coroner and deputy coroner for a district or districts on such conditions as to remuneration, superannuation the payment of allowances[^c-c5d089c865e236df18e6a1e6b830e847] or otherwise as the Lord Chancellor may determine after consultation with the Treasury.
 
 Salaries and other amounts payable under this subsection shall be paid by the Department of Justice.[^c21711961]
 
 (1A)[^c19789631] The Lord Chief Justice must be consulted before a determination (or a revision of a determination) is made under Part 3 of Schedule 3 to the Justice (Northern Ireland) Act 2002 in relation to[^c21711941] coroners or deputy coroners.
 
-(1B)[^key-a0e5a56bad8221e91b7c4694b1218919] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1B)[^c-a0e5a56bad8221e91b7c4694b1218919] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) [^c19789661]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -61,7 +61,7 @@ Salaries and other amounts payable under this subsection shall be paid by the De
 
 (7) A coroner who is a registered medical practitioner shall not conduct any inquest upon the body of, or hold any inquiry into the death of, any person on whom he had, within one month prior to the death of such person, attended in his capacity as such practitioner.
 
-## 2A. Appointment of Presiding coroner[^key-c72d1bce8e5f5f2956a835c9f53f24f4]
+## 2A. Appointment of Presiding coroner[^c-c72d1bce8e5f5f2956a835c9f53f24f4]
 
 (1) The Lord Chief Justice must appoint one of the coroners to be the Presiding coroner with responsibility for the coroners' courts and the other coroners.
 
@@ -77,11 +77,11 @@ Salaries and other amounts payable under this subsection shall be paid by the De
 
 (2)[^c19790691] The Lord Chief Justice must be consulted before any date is appointed and before any order is made under subsection (1).
 
-(3)[^key-61a0051f65638268da66a72af559247a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-61a0051f65638268da66a72af559247a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *S. 4 rep. by 1978 c. 23*
 
-## 5. Administrative expenses.[^key-71c07cb7133a1fcadae7daca287d16ae]
+## 5. Administrative expenses.[^c-71c07cb7133a1fcadae7daca287d16ae]
 
 All expenses reasonably and properly incurred in connection with coroners and in relation to the holding of coroners' courts (including expenses so incurred by coroners in the course of their duties) shall be defrayed out of \[[^c16950721] moneys provided by the Assembly[^c21712281]\].
 
@@ -102,7 +102,7 @@ All expenses reasonably and properly incurred in connection with coroners and in
 
 (2) Where the coroner for any district is unable owing to illness, absence or for any other cause to discharge his duties as such or neglects or fails to discharge those duties the Lord Chief Justice may, after consultation with the Lord Chancellor,[^c19793261] in writing direct any coroner or other person possessing the qualifications referred to in sub-section (3) of section two to act, during such period or periods as the Lord Chief Justice may, after consultation with the Lord Chancellor, specify, in that district, and such coroner or other person shall during that period or periods have the same powers and perform the same duties within that district as the coroner appointed therefor.
 
-(3)[^key-c340c77452914f93db01cae0142b4233] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c340c77452914f93db01cae0142b4233] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 7. Duty to give information to coroner.
 
@@ -172,7 +172,7 @@ Where the body of any person upon whom it is necessary to hold an inquest has be
 
 Where a coroner is satisfied that the death of any person has occurred within the district for which he is appointed but, either from the nature of the event causing the death or for some other reason, neither the body nor any part thereof can be found or recovered, he may proceed to hold an inquest.
 
-## 16A. Death resulting directly from the Troubles: closure of existing inquest[^key-01071272231130656d60a9111c9f3a18]
+## 16A. Death resulting directly from the Troubles: closure of existing inquest[^c-01071272231130656d60a9111c9f3a18]
 
 (1) This section applies to an inquest into a death that resulted directly from the Troubles that was initiated before 1 May 2024 unless, on that day, the only part of the inquest that remains to be carried out is the coroner or any jury making or giving the final determination, verdict or findings, or something subsequent to that.
 
@@ -205,7 +205,7 @@ On and after the day on which section 44 of the Northern Ireland Troubles (Legac
 - (a) by a coroner deciding to hold the inquest, or
 - (b) by a direction under section 14 being given for the conduct of the inquest.
 
-## 17A. Power to require evidence to be given or produced[^key-01884c9bc89e7b6f831580e49e39ac12]
+## 17A. Power to require evidence to be given or produced[^c-01884c9bc89e7b6f831580e49e39ac12]
 
 (1) A coroner who proceeds to hold an inquest may by notice require a person to attend at a time and place stated in the notice and—
 
@@ -252,7 +252,7 @@ But a person may not be fined under that section and also be punished under any 
 (2) A person may not be required to give or produce any evidence or document under section 17A if—
 
 - (a) he could not be required to do so in civil proceedings in a court in Northern Ireland, or
-- (b) the requirement would be incompatible with a retained[^key-f987c44ec09440bfd8fc36f45297c1f7] EU obligation.
+- (b) the requirement would be incompatible with a retained[^c-f987c44ec09440bfd8fc36f45297c1f7] EU obligation.
 
 (3) The rules of law under which evidence or documents are permitted or required to be withheld on grounds of public interest immunity apply in relation to an inquest as they apply in relation to civil proceedings in a court in Northern Ireland.
 
@@ -298,15 +298,15 @@ he shall instruct the Juries Officer to summon a sufficient number of persons in
 
 (2) If in any case other than those referred to in sub-section (1) it appears to the coroner, either before or in the course of an inquest begun without a jury, that it is desirable to summon a jury, he may proceed to cause a jury to be summoned in accordance with the said sub-section.
 
-(3)[^key-81b9fb46d69ffe6d2fcc066a44a00b24] In subsection (1) the reference to the Juries Officer is a reference to the Juries Officer for the division which includes the place specified by the coroner under that subsection; and “**Juries Officer**” and “**division**” have the same meanings as in the Juries (Northern Ireland) Order 1996.
+(3)[^c-81b9fb46d69ffe6d2fcc066a44a00b24] In subsection (1) the reference to the Juries Officer is a reference to the Juries Officer for the division which includes the place specified by the coroner under that subsection; and “**Juries Officer**” and “**division**” have the same meanings as in the Juries (Northern Ireland) Order 1996.
 
 (4)[^c21298411][^c19784301] This section and section 39(3) of the Prison Act (Northern Ireland) 1953 (prison officers etc not to be jurors) shall apply where a death occurs on service custody premises within the meaning of section 300 of the Armed Forces Act 2006 as they apply where a death occurs in prison.
 
-## 19. Service of summonses.[^key-6009ad0d85cb6918ba49e005e35ba6c2]
+## 19. Service of summonses.[^c-6009ad0d85cb6918ba49e005e35ba6c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Provisions as to Jurymen and witnesses.[^key-5f7c23258cb517d4856f6afca42c54f0]
+## 20. Provisions as to Jurymen and witnesses.[^c-5f7c23258cb517d4856f6afca42c54f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -366,7 +366,7 @@ A coroner who considers an analysis of any matter or thing of or concerning any 
 
 (1) Where all members of the jury at an inquest are agreed they shall give, in the form prescribed by rules under section thirty-six, their verdict setting forth, so far as such particulars have been proved to them, who the deceased person was and how, when and where he came to his death.
 
-(2) Where all members of the jury at an inquest fail, within such reasonable time as the coroner may determine, to agree upon a verdict as aforesaid, the coroner may discharge the jury and instruct Juries Officer for the[^c16951111] [^key-dd2fae32cade03bca387314491d1e40b]... division where the inquest is held to summon another jury in accordance with the Juries (Northern Ireland) Order 1996, and thereupon the inquest shall proceed in all respects as if the proceedings which terminated in the disagreement had not taken place (save that none of the former jurors shall be eligible to serve on it) ; and in this subsection “[^key-0c73d8b8fbb7da7740eb423c9b1d3a38]**Juries Officer**” and “**division**” have the same meanings as in the Juries (Northern Ireland) Order 1996. .
+(2) Where all members of the jury at an inquest fail, within such reasonable time as the coroner may determine, to agree upon a verdict as aforesaid, the coroner may discharge the jury and instruct Juries Officer for the[^c16951111] [^c-dd2fae32cade03bca387314491d1e40b]... division where the inquest is held to summon another jury in accordance with the Juries (Northern Ireland) Order 1996, and thereupon the inquest shall proceed in all respects as if the proceedings which terminated in the disagreement had not taken place (save that none of the former jurors shall be eligible to serve on it) ; and in this subsection “[^c-0c73d8b8fbb7da7740eb423c9b1d3a38]**Juries Officer**” and “**division**” have the same meanings as in the Juries (Northern Ireland) Order 1996. .
 
 ## 32. Power of coroner to arrange for removal of body out of his jurisdiction.
 
@@ -418,7 +418,7 @@ he shall be guilty of contempt of court, and any officer of the court or constab
 
 (1B) It is for the Lord Chief Justice to make rules under subsection (1)(b), in accordance with subsections (1C) to (1G).
 
-(1C)[^key-08bd8b568d0715dce5be391e345d222f] After making rules under subsection (1)(b) the Lord Chief Justice must submit them to the relevant authority.
+(1C)[^c-08bd8b568d0715dce5be391e345d222f] After making rules under subsection (1)(b) the Lord Chief Justice must submit them to the relevant authority.
 
 (1CA) The relevant authority must allow or disallow rules submitted to it.
 
@@ -435,7 +435,7 @@ he shall be guilty of contempt of court, and any officer of the court or constab
 - (a) made within a reasonable period after the relevant authority gives notice under subsection (1E);
 - (b) made in accordance with the relevant provisions of this section.
 
-(1H)[^key-b0411206d75140e66ca0ed6dc22640f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1H)[^c-b0411206d75140e66ca0ed6dc22640f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) [^c21720171]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -443,7 +443,7 @@ he shall be guilty of contempt of court, and any officer of the court or constab
 
 (4) For the purposes of this section “ **deal with** ” and “ **excepted matter** ” have the same meanings as in the Northern Ireland Act 1998.
 
-## 36A. Control of rules[^key-7f2e2e8c2f1f6677f6f577de99c34034]
+## 36A. Control of rules[^c-7f2e2e8c2f1f6677f6f577de99c34034]
 
 (1) The following rules are subject to annulment in pursuance of a resolution of either House of Parliament in the same manner as a statutory instrument—
 
@@ -501,7 +501,7 @@ This Act may be cited as the Coroners Act (Northern Ireland), 1959.
 
 [^c21711161]: Textual amendment: S. 2(1) substituted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2009/3/section/2/3), [5(7)(a)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7/a), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/2/2) (with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-c5d089c865e236df18e6a1e6b830e847]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/apni/1959/15/section/2/1) inserted (10.3.2022 for specified purposes, 10.5.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/b/ii), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2022/7/schedule/2/paragraph/4)
+[^c-c5d089c865e236df18e6a1e6b830e847]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/apni/1959/15/section/2/1) inserted (10.3.2022 for specified purposes, 10.5.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/b/ii), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2022/7/schedule/2/paragraph/4)
 
 [^c21711961]: Textual amendment: Words in s. 2(1) inserted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2010/976/article/15/5), [Sch. 18 para. 100](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/100) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
@@ -509,7 +509,7 @@ This Act may be cited as the Coroners Act (Northern Ireland), 1959.
 
 [^c21711941]: Textual amendment: Words in s. 2(1A) substituted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2009/3/section/2/3), [5(7)(a)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7/a), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/2/3) (with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-a0e5a56bad8221e91b7c4694b1218919]: Textual amendment: S. 2(1B) repealed (1.11.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [ss. 8(3)(a)](https://www.legislation.gov.uk/nia/2014/11/section/8/3/a), [12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nia/2014/11/schedule/3/part/2) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 paras. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/359](https://www.legislation.gov.uk/nisr/2015/359), [art. 2(b)(d)](https://www.legislation.gov.uk/nisr/2015/359/article/2/b/d)
+[^c-a0e5a56bad8221e91b7c4694b1218919]: Textual amendment: S. 2(1B) repealed (1.11.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [ss. 8(3)(a)](https://www.legislation.gov.uk/nia/2014/11/section/8/3/a), [12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nia/2014/11/schedule/3/part/2) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 paras. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/359](https://www.legislation.gov.uk/nisr/2015/359), [art. 2(b)(d)](https://www.legislation.gov.uk/nisr/2015/359/article/2/b/d)
 
 [^c19789661]: Textual amendment: S. 2(2) repealed (3.4.2006) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 86](https://www.legislation.gov.uk/ukpga/2002/26/section/86), [87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2006/124](https://www.legislation.gov.uk/nisr/2006/124), [art. 2](https://www.legislation.gov.uk/nisr/2006/124/article/2), [Sch. para. 11(a)](https://www.legislation.gov.uk/nisr/2006/124/schedule/paragraph/11/a)
 
@@ -521,7 +521,7 @@ This Act may be cited as the Coroners Act (Northern Ireland), 1959.
 
 [^c16950671]: Textual amendment: [1974 NI 6](https://www.legislation.gov.uk/nisi/1974)
 
-[^key-c72d1bce8e5f5f2956a835c9f53f24f4]: Textual amendment: S. 2A inserted (1.11.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [ss. 8(2)](https://www.legislation.gov.uk/nia/2014/11/section/8/2), [12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 paras. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/359](https://www.legislation.gov.uk/nisr/2015/359), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/359/article/2/b)
+[^c-c72d1bce8e5f5f2956a835c9f53f24f4]: Textual amendment: S. 2A inserted (1.11.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [ss. 8(2)](https://www.legislation.gov.uk/nia/2014/11/section/8/2), [12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 paras. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/359](https://www.legislation.gov.uk/nisr/2015/359), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/359/article/2/b)
 
 [^c19790671]: Textual amendment: S. 3 renumbered (3.4.2006) as subsection (1) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 4(1)(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/4/1/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/a)
 
@@ -529,9 +529,9 @@ This Act may be cited as the Coroners Act (Northern Ireland), 1959.
 
 [^c19790691]: Textual amendment: S. 3(2)(3) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/4/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/a)
 
-[^key-61a0051f65638268da66a72af559247a]: Textual amendment: S. 3(3) repealed (1.11.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [ss. 8(3)(a)](https://www.legislation.gov.uk/nia/2014/11/section/8/3/a), [12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nia/2014/11/schedule/3/part/2) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 paras. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/359](https://www.legislation.gov.uk/nisr/2015/359), [art. 2(b)(d)](https://www.legislation.gov.uk/nisr/2015/359/article/2/b/d)
+[^c-61a0051f65638268da66a72af559247a]: Textual amendment: S. 3(3) repealed (1.11.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [ss. 8(3)(a)](https://www.legislation.gov.uk/nia/2014/11/section/8/3/a), [12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nia/2014/11/schedule/3/part/2) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 paras. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/359](https://www.legislation.gov.uk/nisr/2015/359), [art. 2(b)(d)](https://www.legislation.gov.uk/nisr/2015/359/article/2/b/d)
 
-[^key-71c07cb7133a1fcadae7daca287d16ae]: Modification: S. 5 applied by 1959 c. 15, s. 36A(1) (as inserted (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [s. 28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4), [Sch. para. 5(2)](https://www.legislation.gov.uk/ukpga/2014/13/schedule/paragraph/5/2))
+[^c-71c07cb7133a1fcadae7daca287d16ae]: Modification: S. 5 applied by 1959 c. 15, s. 36A(1) (as inserted (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [s. 28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4), [Sch. para. 5(2)](https://www.legislation.gov.uk/ukpga/2014/13/schedule/paragraph/5/2))
 
 [^c16950721]: Textual amendment: [1978 c.23](https://www.legislation.gov.uk/ukpga/1978/23)
 
@@ -541,7 +541,7 @@ This Act may be cited as the Coroners Act (Northern Ireland), 1959.
 
 [^c19793261]: Textual amendment: Words in s. 6(2) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch 5 para. 5(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/5/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/a)
 
-[^key-c340c77452914f93db01cae0142b4233]: Textual amendment: S. 6(3) repealed (1.11.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [ss. 8(3)(a)](https://www.legislation.gov.uk/nia/2014/11/section/8/3/a), [12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nia/2014/11/schedule/3/part/2) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 paras. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/359](https://www.legislation.gov.uk/nisr/2015/359), [art. 2(b)(d)](https://www.legislation.gov.uk/nisr/2015/359/article/2/b/d)
+[^c-c340c77452914f93db01cae0142b4233]: Textual amendment: S. 6(3) repealed (1.11.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [ss. 8(3)(a)](https://www.legislation.gov.uk/nia/2014/11/section/8/3/a), [12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nia/2014/11/schedule/3/part/2) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 paras. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/359](https://www.legislation.gov.uk/nisr/2015/359), [art. 2(b)(d)](https://www.legislation.gov.uk/nisr/2015/359/article/2/b/d)
 
 [^c16950801]: Textual amendment: Now superintendent or chief superintendent, SRO (NI) 1970/111
 
@@ -561,11 +561,11 @@ This Act may be cited as the Coroners Act (Northern Ireland), 1959.
 
 [^c21712401]: Textual amendment: S. 14(2)(3) inserted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [12](https://www.legislation.gov.uk/uksi/2010/976/article/12), [Sch. 14 para. 1(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/1/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-01071272231130656d60a9111c9f3a18]: Textual amendment: [Ss. 16A-16C](https://www.legislation.gov.uk/apni/1959/15/section/16A) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [ss. 44(1)](https://www.legislation.gov.uk/ukpga/2023/41/section/44/1), [63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+[^c-01071272231130656d60a9111c9f3a18]: Textual amendment: [Ss. 16A-16C](https://www.legislation.gov.uk/apni/1959/15/section/16A) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [ss. 44(1)](https://www.legislation.gov.uk/ukpga/2023/41/section/44/1), [63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
 
-[^key-01884c9bc89e7b6f831580e49e39ac12]: Textual amendment: Ss. 17A-17C substituted for s. 17 (29.2.2016) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/11/paragraph/1) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.R. 2016/23](https://www.legislation.gov.uk/nisr/2016/23), [art. 2](https://www.legislation.gov.uk/nisr/2016/23/article/2)
+[^c-01884c9bc89e7b6f831580e49e39ac12]: Textual amendment: Ss. 17A-17C substituted for s. 17 (29.2.2016) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/11/paragraph/1) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.R. 2016/23](https://www.legislation.gov.uk/nisr/2016/23), [art. 2](https://www.legislation.gov.uk/nisr/2016/23/article/2)
 
-[^key-f987c44ec09440bfd8fc36f45297c1f7]: Textual amendment: Words in [s. 17B(2)(b)](https://www.legislation.gov.uk/apni/1959/15/section/17B/2/b) substituted (31.12.2020) by [The Inquiries and Coroners (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1252)](https://www.legislation.gov.uk/uksi/2018/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1252/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2018/1252/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f987c44ec09440bfd8fc36f45297c1f7]: Textual amendment: Words in [s. 17B(2)(b)](https://www.legislation.gov.uk/apni/1959/15/section/17B/2/b) substituted (31.12.2020) by [The Inquiries and Coroners (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1252)](https://www.legislation.gov.uk/uksi/2018/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1252/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2018/1252/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c16950911]: Textual amendment: [1969 c.28 (NI)](https://www.legislation.gov.uk/apni/1969/28)
 
@@ -575,15 +575,15 @@ This Act may be cited as the Coroners Act (Northern Ireland), 1959.
 
 [^c16950931]: Textual amendment: [1996 NI 6](https://www.legislation.gov.uk/nisi/1996)
 
-[^key-81b9fb46d69ffe6d2fcc066a44a00b24]: Textual amendment: S. 18(3) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 50(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/50/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-81b9fb46d69ffe6d2fcc066a44a00b24]: Textual amendment: S. 18(3) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 50(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/50/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c21298411]: Modification: S. 18(4) modified (24.4.2009 for certain purposes otherwise 31.10.2009) by [Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [205](https://www.legislation.gov.uk/uksi/2009/1059/article/205), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/7)
 
 [^c19784301]: Textual amendment: S. 18(4) inserted (28.3.2009 for certain purposes otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/1), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch.16 para. 44](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/44); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-6009ad0d85cb6918ba49e005e35ba6c2]: Textual amendment: [S. 19](https://www.legislation.gov.uk/apni/1959/15/section/19) repealed (29.2.2016) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/11/paragraph/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/1) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.R. 2016/23](https://www.legislation.gov.uk/nisr/2016/23), [art. 2](https://www.legislation.gov.uk/nisr/2016/23/article/2)
+[^c-6009ad0d85cb6918ba49e005e35ba6c2]: Textual amendment: [S. 19](https://www.legislation.gov.uk/apni/1959/15/section/19) repealed (29.2.2016) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/11/paragraph/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/1) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.R. 2016/23](https://www.legislation.gov.uk/nisr/2016/23), [art. 2](https://www.legislation.gov.uk/nisr/2016/23/article/2)
 
-[^key-5f7c23258cb517d4856f6afca42c54f0]: Textual amendment: [S. 20](https://www.legislation.gov.uk/apni/1959/15/section/20) repealed (29.2.2016) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/11/paragraph/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/1) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.R. 2016/23](https://www.legislation.gov.uk/nisr/2016/23), [art. 2](https://www.legislation.gov.uk/nisr/2016/23/article/2)
+[^c-5f7c23258cb517d4856f6afca42c54f0]: Textual amendment: [S. 20](https://www.legislation.gov.uk/apni/1959/15/section/20) repealed (29.2.2016) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/11/paragraph/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/1) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.R. 2016/23](https://www.legislation.gov.uk/nisr/2016/23), [art. 2](https://www.legislation.gov.uk/nisr/2016/23/article/2)
 
 [^c16951041]: Textual amendment: [1967 c.25 (NI)](https://www.legislation.gov.uk/apni/1967/25)
 
@@ -603,9 +603,9 @@ This Act may be cited as the Coroners Act (Northern Ireland), 1959.
 
 [^c16951111]: Textual amendment: [1996 NI 6](https://www.legislation.gov.uk/nisi/1996)
 
-[^key-dd2fae32cade03bca387314491d1e40b]: Textual amendment: Words in s. 31(2) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 50(2)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/50/2/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-dd2fae32cade03bca387314491d1e40b]: Textual amendment: Words in s. 31(2) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 50(2)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/50/2/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-0c73d8b8fbb7da7740eb423c9b1d3a38]: Textual amendment: Words in s. 31(2) added (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 50(2)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/50/2/b) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-0c73d8b8fbb7da7740eb423c9b1d3a38]: Textual amendment: Words in s. 31(2) added (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 50(2)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/50/2/b) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c16951131]: Textual amendment: [1996 NI 6](https://www.legislation.gov.uk/nisi/1996)
 
@@ -635,17 +635,17 @@ This Act may be cited as the Coroners Act (Northern Ireland), 1959.
 
 [^c21720071]: Textual amendment: Words in s. 36(1A) inserted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2010/976/article/15/5), [Sch. 18 para. 102(d)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/102/d) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-08bd8b568d0715dce5be391e345d222f]: Textual amendment: S. 36(1C)-(1CB) (1D) substituted for s. 36(1C)(1D) (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [s. 28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4), [Sch. para. 5(1)](https://www.legislation.gov.uk/ukpga/2014/13/schedule/paragraph/5/1)
+[^c-08bd8b568d0715dce5be391e345d222f]: Textual amendment: S. 36(1C)-(1CB) (1D) substituted for s. 36(1C)(1D) (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [s. 28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4), [Sch. para. 5(1)](https://www.legislation.gov.uk/ukpga/2014/13/schedule/paragraph/5/1)
 
 [^c21720141]: Textual amendment: Word in s. 36(1D)(1E) substituted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2010/976/article/15/5), [Sch. 18 para. 102(e)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/102/e) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-b0411206d75140e66ca0ed6dc22640f2]: Textual amendment: S. 36(1H) repealed (1.11.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [ss. 8(3)(a)](https://www.legislation.gov.uk/nia/2014/11/section/8/3/a), [12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 3 Pts. 2](https://www.legislation.gov.uk/nia/2014/11/schedule/3/part/2) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 paras. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/359](https://www.legislation.gov.uk/nisr/2015/359), [art. 2(b)(d)](https://www.legislation.gov.uk/nisr/2015/359/article/2/b/d)
+[^c-b0411206d75140e66ca0ed6dc22640f2]: Textual amendment: S. 36(1H) repealed (1.11.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [ss. 8(3)(a)](https://www.legislation.gov.uk/nia/2014/11/section/8/3/a), [12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 3 Pts. 2](https://www.legislation.gov.uk/nia/2014/11/schedule/3/part/2) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 paras. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/359](https://www.legislation.gov.uk/nisr/2015/359), [art. 2(b)(d)](https://www.legislation.gov.uk/nisr/2015/359/article/2/b/d)
 
 [^c21720171]: Textual amendment: S. 36(2) omitted (12.4.2010) by virtue of [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2010/976/article/15/5), [Sch. 18 para. 102(f)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/102/f) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
 [^c21720191]: Textual amendment: S. 36(3)(4) inserted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2010/976/article/15/5), [Sch. 18 para. 102(g)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/102/g) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-7f2e2e8c2f1f6677f6f577de99c34034]: Textual amendment: S. 36A inserted (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [s. 28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4), [Sch. para. 5(2)](https://www.legislation.gov.uk/ukpga/2014/13/schedule/paragraph/5/2)
+[^c-7f2e2e8c2f1f6677f6f577de99c34034]: Textual amendment: S. 36A inserted (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [s. 28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4), [Sch. para. 5(2)](https://www.legislation.gov.uk/ukpga/2014/13/schedule/paragraph/5/2)
 
 [^m00007]: Marginal citation: 1880 c.13(43 & 44 Vict.)
 

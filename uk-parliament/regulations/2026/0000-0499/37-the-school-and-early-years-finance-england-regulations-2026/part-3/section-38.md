@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Early years 97% requirement[^key-fdd12d5064d9f652688eb0e8f7508f99]
+## 38. Early years 97% requirement[^c-fdd12d5064d9f652688eb0e8f7508f99]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fdd12d5064d9f652688eb0e8f7508f99]: Commencement: Reg. 38 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-fdd12d5064d9f652688eb0e8f7508f99]: Commencement: Reg. 38 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
 
 [^f00098]: Footnote: The table can be found in the spreadsheet entitled “Local authority funding rates under the 3 and 4-year-old funding formula, 2-year-old and under 2s funding formula and maintained nursery school (MNS) funding formula” published by the Secretary of State on 15th December 2025 at https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fassets.publishing.service.gov.uk%2Fmedia%2F693ffb70adb5707d9f33d776%2F2026-27\_Early\_Years\_Funding\_Rates\_and\_Step\_by\_Step\_calculations.xlsx&wdOrigin=BROWSELINK. A printed copy may also be inspected at the Department for Education, Sanctuary Buildings, Great Smith Street, London SW1P 3BT, on request.

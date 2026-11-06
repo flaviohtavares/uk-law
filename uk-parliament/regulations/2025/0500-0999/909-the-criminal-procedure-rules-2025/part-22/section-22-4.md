@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22.4. Application for permission to introduce evidence or cross-examine[^key-5e4e9096cf1e0751912b532d1644ad77]
+## 22.4. Application for permission to introduce evidence or cross-examine[^c-5e4e9096cf1e0751912b532d1644ad77]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e4e9096cf1e0751912b532d1644ad77]: Commencement: [Rule 22.4](https://www.legislation.gov.uk/uksi/2025/909/rule/22.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-5e4e9096cf1e0751912b532d1644ad77]: Commencement: [Rule 22.4](https://www.legislation.gov.uk/uksi/2025/909/rule/22.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -35,90 +35,90 @@ amending Regulation (EC) No 1126/2008 adopting certain international accounting 
 
 (Text with EEA relevance) (revoked)
 
-[^key-2d0ad00bb4f4a790c95ef711943b1774]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d0ad00bb4f4a790c95ef711943b1774]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-2d0ad00bb4f4a790c95ef711943b1774] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2d0ad00bb4f4a790c95ef711943b1774] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2d0ad00bb4f4a790c95ef711943b1774] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2d0ad00bb4f4a790c95ef711943b1774] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-2d0ad00bb4f4a790c95ef711943b1774] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-2d0ad00bb4f4a790c95ef711943b1774] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d0ad00bb4f4a790c95ef711943b1774]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d0ad00bb4f4a790c95ef711943b1774]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — INTERNATIONAL ACCOUNTING STANDARDS[^key-2d0ad00bb4f4a790c95ef711943b1774]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-2d0ad00bb4f4a790c95ef711943b1774]AMENDMENTS TO IFRIC 14
+## ANNEX — INTERNATIONAL ACCOUNTING STANDARDS[^c-2d0ad00bb4f4a790c95ef711943b1774]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-2d0ad00bb4f4a790c95ef711943b1774]BACKGROUND
+[^c-2d0ad00bb4f4a790c95ef711943b1774]AMENDMENTS TO IFRIC 14
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d0ad00bb4f4a790c95ef711943b1774]3A
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-2d0ad00bb4f4a790c95ef711943b1774]BACKGROUND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d0ad00bb4f4a790c95ef711943b1774]CONSENSUS
+[^c-2d0ad00bb4f4a790c95ef711943b1774]3A
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d0ad00bb4f4a790c95ef711943b1774] The economic benefit available as a contribution reduction
+[^c-2d0ad00bb4f4a790c95ef711943b1774]CONSENSUS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d0ad00bb4f4a790c95ef711943b1774]16
+[^c-2d0ad00bb4f4a790c95ef711943b1774] The economic benefit available as a contribution reduction
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-2d0ad00bb4f4a790c95ef711943b1774]16
 
 If there is no minimum funding requirement for contributions relating to future service, the economic benefit available as a reduction in future contributions is
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d0ad00bb4f4a790c95ef711943b1774]17
+[^c-2d0ad00bb4f4a790c95ef711943b1774]17
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d0ad00bb4f4a790c95ef711943b1774] The effect of a minimum funding requirement on the economic benefit available as a reduction in future contributions
+[^c-2d0ad00bb4f4a790c95ef711943b1774] The effect of a minimum funding requirement on the economic benefit available as a reduction in future contributions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d0ad00bb4f4a790c95ef711943b1774]18
+[^c-2d0ad00bb4f4a790c95ef711943b1774]18
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d0ad00bb4f4a790c95ef711943b1774]20
+[^c-2d0ad00bb4f4a790c95ef711943b1774]20
 
 If there is a minimum funding requirement for contributions relating to future service, the economic benefit available as a reduction in future contributions is the sum of:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d0ad00bb4f4a790c95ef711943b1774]21
+[^c-2d0ad00bb4f4a790c95ef711943b1774]21
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d0ad00bb4f4a790c95ef711943b1774]22
+[^c-2d0ad00bb4f4a790c95ef711943b1774]22
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d0ad00bb4f4a790c95ef711943b1774]EFFECTIVE DATE
+[^c-2d0ad00bb4f4a790c95ef711943b1774]EFFECTIVE DATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d0ad00bb4f4a790c95ef711943b1774]27B
+[^c-2d0ad00bb4f4a790c95ef711943b1774]27B
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d0ad00bb4f4a790c95ef711943b1774]TRANSITION
+[^c-2d0ad00bb4f4a790c95ef711943b1774]TRANSITION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d0ad00bb4f4a790c95ef711943b1774]29
+[^c-2d0ad00bb4f4a790c95ef711943b1774]29
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2d0ad00bb4f4a790c95ef711943b1774]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/28) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2d0ad00bb4f4a790c95ef711943b1774]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/28) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-6850265383e6d49538324829a6456bf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-6850265383e6d49538324829a6456bf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the Licensing [^c1365689](Scotland) Act 1976, after section 63 there shall be inserted—
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6850265383e6d49538324829a6456bf2]: Textual amendment: [S. 18(1)](https://www.legislation.gov.uk/ukpga/1994/40/section/18/1) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-6850265383e6d49538324829a6456bf2]: Textual amendment: [S. 18(1)](https://www.legislation.gov.uk/ukpga/1994/40/section/18/1) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c1365689]: Marginal citation: [1976 c. 66](https://www.legislation.gov.uk/ukpga/1976/66).

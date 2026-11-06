@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Rent review: limited duration tenancies[^key-cfc256be58e48f6b6dd80c6221e62f1e]
+## 36. Rent review: limited duration tenancies[^c-cfc256be58e48f6b6dd80c6221e62f1e]
 
 *Extent: S*
 
@@ -98,4 +98,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfc256be58e48f6b6dd80c6221e62f1e]: Commencement: S. 36 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-cfc256be58e48f6b6dd80c6221e62f1e]: Commencement: S. 36 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

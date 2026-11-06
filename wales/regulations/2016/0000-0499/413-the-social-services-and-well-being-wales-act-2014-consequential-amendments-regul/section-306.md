@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**306.**[^key-f8f181cc9c8687755907755b6e457512] In section 122 (visitors for children notified to a local authority under section 120 or 121)—
+**306.**[^c-f8f181cc9c8687755907755b6e457512] In section 122 (visitors for children notified to a local authority under section 120 or 121)—
 
 - (a) in subsection (1)(a) after “section 120(2)(a) or 121(2)(a),” insert “or under section 85(1) of the Children Act 1989 (children accommodated by health authorities and local education authorities),”;
 - (b) in subsection (1)(b) after “section 120(2)(b) or section 121(2)(b)” insert “, or under section 85(2) of the Children Act 1989”;
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8f181cc9c8687755907755b6e457512]: Commencement: Reg. 306 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-f8f181cc9c8687755907755b6e457512]: Commencement: Reg. 306 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

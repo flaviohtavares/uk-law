@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 309. Appeals where previous convictions set aside or previous sentences modified[^key-1e140c9f5631e7d0c1e8191949fa82bd]
+## 309. Appeals where previous convictions set aside or previous sentences modified[^c-1e140c9f5631e7d0c1e8191949fa82bd]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ For this purpose, references to the earlier offence condition and the 4 year ter
 
 ## Annotations
 
-[^key-1e140c9f5631e7d0c1e8191949fa82bd]: Commencement: S. 309 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-1e140c9f5631e7d0c1e8191949fa82bd]: Commencement: S. 309 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

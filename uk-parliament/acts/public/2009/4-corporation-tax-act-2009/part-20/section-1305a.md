@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1305A. Avoidance schemes involving the transfer of corporate profits[^key-4e2250e03c3c0006c0aa5a6b3f50333f]
+## 1305A. Avoidance schemes involving the transfer of corporate profits[^c-4e2250e03c3c0006c0aa5a6b3f50333f]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e2250e03c3c0006c0aa5a6b3f50333f]: Textual amendment: S. 1305A inserted (with effect in accordance with s. 30(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 30(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/30/1)
+[^c-4e2250e03c3c0006c0aa5a6b3f50333f]: Textual amendment: S. 1305A inserted (with effect in accordance with s. 30(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 30(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/30/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 148. Application for restricted notification order and non-attendance order[^key-a4d1276c2d8319dd0f10df66b9aa862c]
+## 148. Application for restricted notification order and non-attendance order[^c-a4d1276c2d8319dd0f10df66b9aa862c]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4d1276c2d8319dd0f10df66b9aa862c]: Commencement: S. 148 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/178/article/3) )
+[^c-a4d1276c2d8319dd0f10df66b9aa862c]: Commencement: S. 148 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/178/article/3) )

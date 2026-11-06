@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Information to be contained in pharmaceutical needs assessments[^key-076371a6f9d6d0421330f5f9d227802c]
+## 4. Information to be contained in pharmaceutical needs assessments[^c-076371a6f9d6d0421330f5f9d227802c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-076371a6f9d6d0421330f5f9d227802c]: Commencement: Reg. 4 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-076371a6f9d6d0421330f5f9d227802c]: Commencement: Reg. 4 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)

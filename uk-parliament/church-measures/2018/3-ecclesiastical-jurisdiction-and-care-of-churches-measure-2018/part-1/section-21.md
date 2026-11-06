@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 21. Appellate jurisdiction of Her Majesty in Council[^key-39be89fa3e07663bb010611f01f445ca]
+## 21. Appellate jurisdiction of Her Majesty in Council[^c-39be89fa3e07663bb010611f01f445ca]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39be89fa3e07663bb010611f01f445ca]: Commencement: [S. 21](https://www.legislation.gov.uk/ukcm/2018/3/section/21) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-39be89fa3e07663bb010611f01f445ca]: Commencement: [S. 21](https://www.legislation.gov.uk/ukcm/2018/3/section/21) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

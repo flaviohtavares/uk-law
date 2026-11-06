@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. General false statement offences[^key-d6fd48e5c7410cfd54e4e7a2cc3df94f]
+## 146. General false statement offences[^c-d6fd48e5c7410cfd54e4e7a2cc3df94f]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ After section 33 of the Limited Partnerships Act 1907 (inserted by section 145 o
 
 ## Annotations
 
-[^key-d6fd48e5c7410cfd54e4e7a2cc3df94f]: Commencement: S. 146 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-d6fd48e5c7410cfd54e4e7a2cc3df94f]: Commencement: S. 146 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

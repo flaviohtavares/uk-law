@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Interpretation[^key-c67766cb21ec30cb4599eb3b9f41d7a4][^key-7cecdf25600e7807f493370bb7f0355c]
+## 39. Interpretation[^c-c67766cb21ec30cb4599eb3b9f41d7a4][^c-7cecdf25600e7807f493370bb7f0355c]
 
 *Extent: E+W+S*
 
@@ -42,9 +42,9 @@ summary: ''
 
 ## Annotations
 
-[^key-c67766cb21ec30cb4599eb3b9f41d7a4]: Commencement: Art. 39 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-c67766cb21ec30cb4599eb3b9f41d7a4]: Commencement: Art. 39 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-7cecdf25600e7807f493370bb7f0355c]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2018/1253/article/39) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-7cecdf25600e7807f493370bb7f0355c]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2018/1253/article/39) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00065]: Footnote: [2006 c. 29](https://www.legislation.gov.uk/ukpga/2006/29).
 

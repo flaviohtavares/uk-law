@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Saving: disclosure of information and records[^key-19c7b5d1264c0866964a6999df2453ab]
+## 67. Saving: disclosure of information and records[^c-19c7b5d1264c0866964a6999df2453ab]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Nothing in this Part limits any power that exists otherwise than under this Act 
 
 ## Annotations
 
-[^key-19c7b5d1264c0866964a6999df2453ab]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2020/13/section/67) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-19c7b5d1264c0866964a6999df2453ab]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2020/13/section/67) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

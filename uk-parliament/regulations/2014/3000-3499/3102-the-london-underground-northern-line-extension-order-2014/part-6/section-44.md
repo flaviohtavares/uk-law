@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Disclosure of confidential information[^key-f6e5b155b8cef6d367cb8b1f1c98bee0]
+## 44. Disclosure of confidential information[^c-f6e5b155b8cef6d367cb8b1f1c98bee0]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-f6e5b155b8cef6d367cb8b1f1c98bee0]: Commencement: Art. 44 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-f6e5b155b8cef6d367cb8b1f1c98bee0]: Commencement: Art. 44 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)

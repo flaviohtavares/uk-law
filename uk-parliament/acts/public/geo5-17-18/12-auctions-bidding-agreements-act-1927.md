@@ -45,7 +45,7 @@ Provided that, where it was proved that a dealer has previously to an auction en
 
 ## 2. Right of vendors to treat certain sales as fraudulent.
 
-[^key-b10fda5b4a97e746a5960f7f2c7fada2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b10fda5b4a97e746a5960f7f2c7fada2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Copy of Act to be exhibited at sale.[^c588056]
 
@@ -69,7 +69,7 @@ The particulars which under section seven of the [^c588057]Auctioneers Act, 1845
 
 [^c588054]: Textual amendment: Words in [s. 1(3)](https://www.legislation.gov.uk/ukpga/Geo5/17-18/12/section/1/3) repealed (30.9.1997) by [1997 c. 60](https://www.legislation.gov.uk/ukpga/1997/60), [s. 3(2)(3)](https://www.legislation.gov.uk/ukpga/1997/60/section/3/2/3),Sch.
 
-[^key-b10fda5b4a97e746a5960f7f2c7fada2]: Textual amendment: S. 2 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17 Group 11(2)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17)
+[^c-b10fda5b4a97e746a5960f7f2c7fada2]: Textual amendment: S. 2 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17 Group 11(2)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17)
 
 [^c588056]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/Geo5/17-18/12/section/3) extended by [Auctions (Bidding Agreements) Act 1969 (c. 56)](https://www.legislation.gov.uk/ukpga/1969/56), [s. 4](https://www.legislation.gov.uk/ukpga/1969/56/section/4)
 

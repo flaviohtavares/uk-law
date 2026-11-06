@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Drainage and sewerage management plans[^key-c9609058a7461f0556a1e43275aa84c1][^key-17769e744655953d30e6f843203125e8][^key-3ac5f2e72c437b9e0b6024f8b76ce265]
+## 79. Drainage and sewerage management plans[^c-c9609058a7461f0556a1e43275aa84c1][^c-17769e744655953d30e6f843203125e8][^c-3ac5f2e72c437b9e0b6024f8b76ce265]
 
 *Extent: E+W+S+N.I.*
 
@@ -170,8 +170,8 @@ In the Water Industry Act 1991, after section 94 insert—
 
 ## Annotations
 
-[^key-c9609058a7461f0556a1e43275aa84c1]: Commencement: S. 79 not in force at Royal Assent, see [s. 147(3)(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3/4)
+[^c-c9609058a7461f0556a1e43275aa84c1]: Commencement: S. 79 not in force at Royal Assent, see [s. 147(3)(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3/4)
 
-[^key-17769e744655953d30e6f843203125e8]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2021/30/section/79) in force at 1.9.2024 for E. by [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 3](https://www.legislation.gov.uk/uksi/2024/639/regulation/3)
+[^c-17769e744655953d30e6f843203125e8]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2021/30/section/79) in force at 1.9.2024 for E. by [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 3](https://www.legislation.gov.uk/uksi/2024/639/regulation/3)
 
-[^key-3ac5f2e72c437b9e0b6024f8b76ce265]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2021/30/section/79) in force at 1.3.2025 for W. by [S.I. 2025/175](https://www.legislation.gov.uk/wsi/2025/175), [reg. 3](https://www.legislation.gov.uk/wsi/2025/175/regulation/3)
+[^c-3ac5f2e72c437b9e0b6024f8b76ce265]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2021/30/section/79) in force at 1.3.2025 for W. by [S.I. 2025/175](https://www.legislation.gov.uk/wsi/2025/175), [reg. 3](https://www.legislation.gov.uk/wsi/2025/175/regulation/3)

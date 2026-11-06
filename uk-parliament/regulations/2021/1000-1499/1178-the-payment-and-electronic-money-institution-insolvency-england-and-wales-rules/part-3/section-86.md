@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Formal defects[^key-d3d35eb0326f25ddc34b281b0c271bb9]
+## 86. Formal defects[^c-d3d35eb0326f25ddc34b281b0c271bb9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The acts of the creditors’ committee established for a special administration 
 
 ## Annotations
 
-[^key-d3d35eb0326f25ddc34b281b0c271bb9]: Commencement: Rule 86 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-d3d35eb0326f25ddc34b281b0c271bb9]: Commencement: Rule 86 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

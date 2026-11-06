@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 129. Notice of termination: sublease by allotment association etc.[^key-5bc902c31fb9b9975dc79481d70146b7]
+## 129. Notice of termination: sublease by allotment association etc.[^c-5bc902c31fb9b9975dc79481d70146b7]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bc902c31fb9b9975dc79481d70146b7]: Commencement: [S. 129](https://www.legislation.gov.uk/asp/2015/6/section/129) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
+[^c-5bc902c31fb9b9975dc79481d70146b7]: Commencement: [S. 129](https://www.legislation.gov.uk/asp/2015/6/section/129) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Payments made by the scheme manager in error may be provided for in setting a levy by virtue of section 213, 214A, 214B , 214E[^key-cea63e65e86e2bda7616d3c9eaff3cc0] or 223B.
+(1) Payments made by the scheme manager in error may be provided for in setting a levy by virtue of section 213, 214A, 214B , 214E[^c-cea63e65e86e2bda7616d3c9eaff3cc0] or 223B.
 
 (2) This section does not apply to payments made in bad faith.
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^c2080242]: Textual amendment: S. 223C inserted (17.2.2009 for certain purposes and 21.2.2009 otherwise) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 177](https://www.legislation.gov.uk/ukpga/2009/1/section/177), [263(1)(2)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/296/schedule)
 
-[^key-cea63e65e86e2bda7616d3c9eaff3cc0]: Textual amendment: Word in s. 223C(1) inserted (16.7.2025) by [Bank Resolution (Recapitalisation) Act 2025 (c. 15)](https://www.legislation.gov.uk/ukpga/2025/15), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2025/15/section/6/4), [8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2); [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/f)
+[^c-cea63e65e86e2bda7616d3c9eaff3cc0]: Textual amendment: Word in s. 223C(1) inserted (16.7.2025) by [Bank Resolution (Recapitalisation) Act 2025 (c. 15)](https://www.legislation.gov.uk/ukpga/2025/15), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2025/15/section/6/4), [8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2); [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/f)

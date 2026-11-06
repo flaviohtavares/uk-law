@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Notice of vacation of office when postal administrator ceases to be qualified to act[^key-6944c0bfe219491534110251d04862c6]
+## 88. Notice of vacation of office when postal administrator ceases to be qualified to act[^c-6944c0bfe219491534110251d04862c6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the postal administrator who has ceased to be qualified to act as an insol
 
 ## Annotations
 
-[^key-6944c0bfe219491534110251d04862c6]: Commencement: [Rule 88](https://www.legislation.gov.uk/uksi/2013/3208/rule/88) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-6944c0bfe219491534110251d04862c6]: Commencement: [Rule 88](https://www.legislation.gov.uk/uksi/2013/3208/rule/88) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. People trafficking[^key-837003cda308ee4a5e8b55ebb63fc0c2]
+## 46. People trafficking[^c-837003cda308ee4a5e8b55ebb63fc0c2]
 
 *Extent: S*
 
@@ -135,4 +135,4 @@ summary: ''
 
 ## Annotations
 
-[^key-837003cda308ee4a5e8b55ebb63fc0c2]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2010/13/section/46) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-837003cda308ee4a5e8b55ebb63fc0c2]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2010/13/section/46) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

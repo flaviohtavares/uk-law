@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Participation at meetings of community councils[^key-f6c862c061ce59bbcb45139cde84835c]
+## 48. Participation at meetings of community councils[^c-f6c862c061ce59bbcb45139cde84835c]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ In Part 4 of Schedule 12 to the 1972 Act (meetings and proceedings of community 
 
 ## Annotations
 
-[^key-f6c862c061ce59bbcb45139cde84835c]: Commencement: [S. 48](https://www.legislation.gov.uk/asc/2021/1/section/48) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(g)](https://www.legislation.gov.uk/wsi/2021/231/article/6/g)
+[^c-f6c862c061ce59bbcb45139cde84835c]: Commencement: [S. 48](https://www.legislation.gov.uk/asc/2021/1/section/48) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(g)](https://www.legislation.gov.uk/wsi/2021/231/article/6/g)

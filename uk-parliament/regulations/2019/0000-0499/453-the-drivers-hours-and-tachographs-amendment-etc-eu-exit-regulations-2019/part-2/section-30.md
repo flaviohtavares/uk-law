@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Road Safety (Financial Penalty Deposit) (Appropriate Amount) Order 2009[^key-25c73f9cd9d6a942ba5cde8568990cf3]
+## 30. Road Safety (Financial Penalty Deposit) (Appropriate Amount) Order 2009[^c-25c73f9cd9d6a942ba5cde8568990cf3]
 
 *Extent: E+W+S*
 
@@ -85,6 +85,6 @@ summary: ''
 
 ## Annotations
 
-[^key-25c73f9cd9d6a942ba5cde8568990cf3]: Commencement: Reg. 30 in force at 26.3.2019, see reg. 1(2)
+[^c-25c73f9cd9d6a942ba5cde8568990cf3]: Commencement: Reg. 30 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620901]: Marginal citation: [S.I. 2009/492](https://www.legislation.gov.uk/uksi/2009/492), amended by [S.I. 2013/2025](https://www.legislation.gov.uk/uksi/2013/2025), 2016/248. There are other amendments which are not relevant to these Regulations.

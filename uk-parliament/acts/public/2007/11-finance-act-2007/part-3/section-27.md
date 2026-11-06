@@ -54,10 +54,10 @@ summary: ''
 
 (4) In section 288(1) (interpretation), in the definition of “allowable loss”, after “16” insert “ , 16A ”.
 
-(5)[^key-d2ebe238cc3dc35deef3b936ea970976] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d2ebe238cc3dc35deef3b936ea970976] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The amendments made by this section have effect in relation to losses accruing on disposals made on or after 6th December 2006.
 
 ## Annotations
 
-[^key-d2ebe238cc3dc35deef3b936ea970976]: Textual amendment: S. 27(5) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d2ebe238cc3dc35deef3b936ea970976]: Textual amendment: S. 27(5) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

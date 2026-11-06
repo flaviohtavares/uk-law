@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Valuation of other land in drainage district: England[^key-2383615a25f2939b12e698f38a96c15e][^key-e739e5be435503623a0ab04a2c97af15]
+## 94. Valuation of other land in drainage district: England[^c-2383615a25f2939b12e698f38a96c15e][^c-e739e5be435503623a0ab04a2c97af15]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2383615a25f2939b12e698f38a96c15e]: Commencement: S. 94 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-2383615a25f2939b12e698f38a96c15e]: Commencement: S. 94 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-e739e5be435503623a0ab04a2c97af15]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2021/30/section/94) in force at 29.9.2022 by [S.I. 2022/988](https://www.legislation.gov.uk/uksi/2022/988), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/988/regulation/2/a)
+[^c-e739e5be435503623a0ab04a2c97af15]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2021/30/section/94) in force at 29.9.2022 by [S.I. 2022/988](https://www.legislation.gov.uk/uksi/2022/988), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/988/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Review[^key-96a0a6f4b8831cc4523c0657df8e1e19]
+## 49. Review[^c-96a0a6f4b8831cc4523c0657df8e1e19]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96a0a6f4b8831cc4523c0657df8e1e19]: Textual amendment: Reg. 49 inserted (1.10.2012) by [The Waste (England and Wales) (Amendment) Regulations 2012 (S.I. 2012/1889)](https://www.legislation.gov.uk/uksi/2012/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1889/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2012/1889/regulation/2/5)
+[^c-96a0a6f4b8831cc4523c0657df8e1e19]: Textual amendment: Reg. 49 inserted (1.10.2012) by [The Waste (England and Wales) (Amendment) Regulations 2012 (S.I. 2012/1889)](https://www.legislation.gov.uk/uksi/2012/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1889/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2012/1889/regulation/2/5)

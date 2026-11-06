@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Preferential rates given unilaterally[^key-9809d82bfc4d4bb9c42ed665e06788aa][^key-1d8605de9d27b7c25fb7be3cf109acfa][^key-bf06c60818863d542eeb77879ce03116]
+## 10. Preferential rates given unilaterally[^c-9809d82bfc4d4bb9c42ed665e06788aa][^c-1d8605de9d27b7c25fb7be3cf109acfa][^c-bf06c60818863d542eeb77879ce03116]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9809d82bfc4d4bb9c42ed665e06788aa]: Commencement: S. 10 in force at 23.1.2019 by [S.I. 2019/69](https://www.legislation.gov.uk/uksi/2019/69), [reg. 2](https://www.legislation.gov.uk/uksi/2019/69/regulation/2)
+[^c-9809d82bfc4d4bb9c42ed665e06788aa]: Commencement: S. 10 in force at 23.1.2019 by [S.I. 2019/69](https://www.legislation.gov.uk/uksi/2019/69), [reg. 2](https://www.legislation.gov.uk/uksi/2019/69/regulation/2)
 
-[^key-1d8605de9d27b7c25fb7be3cf109acfa]: Modification: Ss. 9-15 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/1605/regulation/7); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-1d8605de9d27b7c25fb7be3cf109acfa]: Modification: Ss. 9-15 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/1605/regulation/7); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-bf06c60818863d542eeb77879ce03116]: Modification: Ss. 9-15 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2020/1605/regulation/13); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-bf06c60818863d542eeb77879ce03116]: Modification: Ss. 9-15 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2020/1605/regulation/13); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.16. Defendant’s application to be discharged[^key-39a2ebfeea99da8c1d0e0576f31c1776]
+## 50.16. Defendant’s application to be discharged[^c-39a2ebfeea99da8c1d0e0576f31c1776]
 
 *Extent: E+W*
 
@@ -55,7 +55,7 @@ summary: ''
 
 ## Annotations
 
-[^key-39a2ebfeea99da8c1d0e0576f31c1776]: Commencement: [Rule 50.16](https://www.legislation.gov.uk/uksi/2025/909/rule/50.16) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-39a2ebfeea99da8c1d0e0576f31c1776]: Commencement: [Rule 50.16](https://www.legislation.gov.uk/uksi/2025/909/rule/50.16) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01346]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41); section 6 was amended by section 77 of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26).
 

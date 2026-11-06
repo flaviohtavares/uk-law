@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 620. Meaning of “settlement” and “settlor”[^key-230f9108fa1d4dcc913ec5df18a4623c]
+## 620. Meaning of “settlement” and “settlor”[^c-230f9108fa1d4dcc913ec5df18a4623c]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,18 +41,18 @@ summary: ''
   - (a) for no consideration, or
   - (b) for a consideration which consists only of interest, and
 - “**charity**” includes
-  - (a) the Trustees of the National Heritage Memorial Fund,[^c19752841] and[^key-5ecd7cc6d5ea7eb6d02980bc063f742c]
-  - (b) the Historic Buildings and Monuments Commission for England[^key-6d5a8a0684191e56bc20a2e062349433]...
-  - (c) [^key-6d5a8a0684191e56bc20a2e062349433]...
+  - (a) the Trustees of the National Heritage Memorial Fund,[^c19752841] and[^c-5ecd7cc6d5ea7eb6d02980bc063f742c]
+  - (b) the Historic Buildings and Monuments Commission for England[^c-6d5a8a0684191e56bc20a2e062349433]...
+  - (c) [^c-6d5a8a0684191e56bc20a2e062349433]...
 
   .
 
 ## Annotations
 
-[^key-230f9108fa1d4dcc913ec5df18a4623c]: Modification: S. 620 applied (with effect in accordance with Sch. 23 para. 65 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 23 paras. 26(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/26/2)[65(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/a) (with [Sch. 23 paras. 50](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/50)[65(1)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/b))
+[^c-230f9108fa1d4dcc913ec5df18a4623c]: Modification: S. 620 applied (with effect in accordance with Sch. 23 para. 65 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 23 paras. 26(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/26/2)[65(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/a) (with [Sch. 23 paras. 50](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/50)[65(1)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/b))
 
 [^c19752841]: Textual amendment: Words in s. 620(5) substituted (6.4.2007 with effect as stated in [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [ss. 1027](https://www.legislation.gov.uk/ukpga/2007/3/section/1027), [1034](https://www.legislation.gov.uk/ukpga/2007/3/section/1034), [Sch. 1 para. 552](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/552) (with transitional provisions and savings in [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-5ecd7cc6d5ea7eb6d02980bc063f742c]: Textual amendment: Word in s. 620(5) inserted (1.4.2012) by [The Public Bodies (Abolition of the National Endowment for Science, Technology and the Arts) Order 2012 (S.I. 2012/964)](https://www.legislation.gov.uk/uksi/2012/964), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/964/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2012/964/article/3/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/964/schedule)
+[^c-5ecd7cc6d5ea7eb6d02980bc063f742c]: Textual amendment: Word in s. 620(5) inserted (1.4.2012) by [The Public Bodies (Abolition of the National Endowment for Science, Technology and the Arts) Order 2012 (S.I. 2012/964)](https://www.legislation.gov.uk/uksi/2012/964), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/964/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2012/964/article/3/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/964/schedule)
 
-[^key-6d5a8a0684191e56bc20a2e062349433]: Textual amendment: Words in s. 620(5) omitted (1.4.2012) by virtue of [The Public Bodies (Abolition of the National Endowment for Science, Technology and the Arts) Order 2012 (S.I. 2012/964)](https://www.legislation.gov.uk/uksi/2012/964), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/964/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2012/964/article/3/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/964/schedule)
+[^c-6d5a8a0684191e56bc20a2e062349433]: Textual amendment: Words in s. 620(5) omitted (1.4.2012) by virtue of [The Public Bodies (Abolition of the National Endowment for Science, Technology and the Arts) Order 2012 (S.I. 2012/964)](https://www.legislation.gov.uk/uksi/2012/964), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/964/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2012/964/article/3/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/964/schedule)

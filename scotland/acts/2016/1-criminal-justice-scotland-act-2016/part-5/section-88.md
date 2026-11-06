@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Preliminary diets in solemn cases[^key-699381aa9bafe52b46326e2fa57560d9]
+## 88. Preliminary diets in solemn cases[^c-699381aa9bafe52b46326e2fa57560d9]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ In section 74 (appeals in connection with preliminary diets) of the 1995 Act—
 
 ## Annotations
 
-[^key-699381aa9bafe52b46326e2fa57560d9]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2016/1/section/88) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-699381aa9bafe52b46326e2fa57560d9]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2016/1/section/88) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

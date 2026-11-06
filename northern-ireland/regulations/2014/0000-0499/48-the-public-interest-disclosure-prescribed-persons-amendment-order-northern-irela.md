@@ -32,7 +32,7 @@ summary: ''
 
 Employment
 
-The Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2014 (revoked)[^key-9925b8e14fac13c6b97a728191d34ffe]
+The Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2014 (revoked)[^c-9925b8e14fac13c6b97a728191d34ffe]
 
 Made
 
@@ -42,34 +42,34 @@ Coming into operation
 
 6th April 2014
 
-[^key-9925b8e14fac13c6b97a728191d34ffe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9925b8e14fac13c6b97a728191d34ffe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9925b8e14fac13c6b97a728191d34ffe]
+## 1. Citation and commencement[^c-9925b8e14fac13c6b97a728191d34ffe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-9925b8e14fac13c6b97a728191d34ffe]
+## 2. Amendment[^c-9925b8e14fac13c6b97a728191d34ffe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-9925b8e14fac13c6b97a728191d34ffe]
+## 3. Revocation[^c-9925b8e14fac13c6b97a728191d34ffe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9925b8e14fac13c6b97a728191d34ffe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9925b8e14fac13c6b97a728191d34ffe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-9925b8e14fac13c6b97a728191d34ffe]
+## SCHEDULE[^c-9925b8e14fac13c6b97a728191d34ffe]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9925b8e14fac13c6b97a728191d34ffe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9925b8e14fac13c6b97a728191d34ffe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9925b8e14fac13c6b97a728191d34ffe]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2014/48/schedule) revoked (23.3.2022) by [The Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/72)](https://www.legislation.gov.uk/nisr/2022/72), [arts. 1](https://www.legislation.gov.uk/nisr/2022/72/article/1), [3](https://www.legislation.gov.uk/nisr/2022/72/article/3)
+[^c-9925b8e14fac13c6b97a728191d34ffe]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2014/48/schedule) revoked (23.3.2022) by [The Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/72)](https://www.legislation.gov.uk/nisr/2022/72), [arts. 1](https://www.legislation.gov.uk/nisr/2022/72/article/1), [3](https://www.legislation.gov.uk/nisr/2022/72/article/3)

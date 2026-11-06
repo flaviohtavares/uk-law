@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Restriction on availability of powers: claimed amounts[^key-96e5022f9fd51765746cb1fcfb3e5d48][^key-7ecbd13909996e542118d9c35552dde3]
+## 12. Restriction on availability of powers: claimed amounts[^c-96e5022f9fd51765746cb1fcfb3e5d48][^c-7ecbd13909996e542118d9c35552dde3]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ that the amount is a recoverable amount.
 
 ## Annotations
 
-[^key-96e5022f9fd51765746cb1fcfb3e5d48]: Commencement: S. 12 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-96e5022f9fd51765746cb1fcfb3e5d48]: Commencement: S. 12 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-7ecbd13909996e542118d9c35552dde3]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2025/28/section/12) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-7ecbd13909996e542118d9c35552dde3]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2025/28/section/12) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

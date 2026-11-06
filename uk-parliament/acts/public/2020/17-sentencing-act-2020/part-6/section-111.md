@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Requirement to consider report before making a reparation order[^key-a9ed214b83d7814467440cc982f2f39d]
+## 111. Requirement to consider report before making a reparation order[^c-a9ed214b83d7814467440cc982f2f39d]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9ed214b83d7814467440cc982f2f39d]: Commencement: S. 111 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-a9ed214b83d7814467440cc982f2f39d]: Commencement: S. 111 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

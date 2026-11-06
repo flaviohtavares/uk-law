@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 359A. Power of the Secretary of State to give financial assistance for radio[^key-c76f8fe0105bff8cfdcc46873263b04e]
+## 359A. Power of the Secretary of State to give financial assistance for radio[^c-c76f8fe0105bff8cfdcc46873263b04e]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c76f8fe0105bff8cfdcc46873263b04e]: Textual amendment: S. 359A and cross-heading inserted (17.10.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 45](https://www.legislation.gov.uk/ukpga/2024/15/section/45), [55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/e)
+[^c-c76f8fe0105bff8cfdcc46873263b04e]: Textual amendment: S. 359A and cross-heading inserted (17.10.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 45](https://www.legislation.gov.uk/ukpga/2024/15/section/45), [55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/e)

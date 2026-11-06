@@ -35,7 +35,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The TSE (Scotland) Amendment Regulations 2003 (revoked)[^key-6a10b45475c48eb2b65ea2adc1f1c097]
+The TSE (Scotland) Amendment Regulations 2003 (revoked)[^c-6a10b45475c48eb2b65ea2adc1f1c097]
 
 Made
 
@@ -49,24 +49,24 @@ Coming into force
 
 26th May 2003
 
-[^key-6a10b45475c48eb2b65ea2adc1f1c097]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a10b45475c48eb2b65ea2adc1f1c097]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6a10b45475c48eb2b65ea2adc1f1c097]
+## 1. Citation and commencement[^c-6a10b45475c48eb2b65ea2adc1f1c097]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the TSE (Scotland) Regulations 2002[^key-6a10b45475c48eb2b65ea2adc1f1c097]
+## 2. Amendment of the TSE (Scotland) Regulations 2002[^c-6a10b45475c48eb2b65ea2adc1f1c097]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6a10b45475c48eb2b65ea2adc1f1c097]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a10b45475c48eb2b65ea2adc1f1c097]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6a10b45475c48eb2b65ea2adc1f1c097]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a10b45475c48eb2b65ea2adc1f1c097]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6a10b45475c48eb2b65ea2adc1f1c097]: Textual amendment: Regulations revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)
+[^c-6a10b45475c48eb2b65ea2adc1f1c097]: Textual amendment: Regulations revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)

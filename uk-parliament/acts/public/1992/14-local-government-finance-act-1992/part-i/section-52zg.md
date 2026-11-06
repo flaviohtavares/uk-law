@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52ZG. Arrangements for referendum[^key-6e7ef88ffa521f0c646645ea0a191527]
+## 52ZG. Arrangements for referendum[^c-6e7ef88ffa521f0c646645ea0a191527]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 - (a) would be entitled to vote as electors at an election for members for an electoral area of the billing authority, and
 - (b) are registered in the register of local government electors at an address within the billing authority's area.
 
-(5A)[^key-422c1b910a103fb4b12f100ad2a459db] As soon as is reasonably practicable after determining that it is required to hold a referendum in relation to its relevant basic amount of council tax for the financial year, the billing authority must notify that fact in writing to any body that has issued a levy or a special levy to it for the financial year.
+(5A)[^c-422c1b910a103fb4b12f100ad2a459db] As soon as is reasonably practicable after determining that it is required to hold a referendum in relation to its relevant basic amount of council tax for the financial year, the billing authority must notify that fact in writing to any body that has issued a levy or a special levy to it for the financial year.
 
 (6) In this section—
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6e7ef88ffa521f0c646645ea0a191527]: Textual amendment: Pt. 1 Ch. 4ZA inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 72(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/72/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/5); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/2))
+[^c-6e7ef88ffa521f0c646645ea0a191527]: Textual amendment: Pt. 1 Ch. 4ZA inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 72(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/72/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/5); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/2))
 
-[^key-422c1b910a103fb4b12f100ad2a459db]: Textual amendment: S. 52ZG(5A) inserted (30.1.2014) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2014/2/section/41/2), [49(3)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/3)
+[^c-422c1b910a103fb4b12f100ad2a459db]: Textual amendment: S. 52ZG(5A) inserted (30.1.2014) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2014/2/section/41/2), [49(3)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/3)

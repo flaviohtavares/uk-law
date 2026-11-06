@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Export performance[^key-7e633d15d7638568413e922727bc918c][^key-35cc3be9f7523c2b4290ae5c9be7517a]
+## 16. Export performance[^c-7e633d15d7638568413e922727bc918c][^c-35cc3be9f7523c2b4290ae5c9be7517a]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7e633d15d7638568413e922727bc918c]: Commencement: S. 16 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
+[^c-7e633d15d7638568413e922727bc918c]: Commencement: S. 16 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
 
-[^key-35cc3be9f7523c2b4290ae5c9be7517a]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2022/23/section/16) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-35cc3be9f7523c2b4290ae5c9be7517a]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2022/23/section/16) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

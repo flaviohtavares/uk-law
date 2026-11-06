@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — PROVISION OF SERVICES: MANDATORY SERVICES, ADVANCED MANDATORY SERVICES AND UNITS OF ORTHODONTIC ACTIVITY[^key-96894e1949af7294c789cca18a5bd64b]
+## SCHEDULE 2 — PROVISION OF SERVICES: MANDATORY SERVICES, ADVANCED MANDATORY SERVICES AND UNITS OF ORTHODONTIC ACTIVITY[^c-96894e1949af7294c789cca18a5bd64b]
 
 *Extent: E+W*
 
 Regulations 13 and 14
 
-### Part 1 — MANDATORY SERVICES AND ADVANCED MANDATORY SERVICES[^key-153778a53396d7025875c4610333f871]
+### Part 1 — MANDATORY SERVICES AND ADVANCED MANDATORY SERVICES[^c-153778a53396d7025875c4610333f871]
 
 Where the contractor provides mandatory services or advanced mandatory services as part of the agreement, the appointment or care package must be of a type listed in and in accordance with the relevant description set out in Table A below—
 
@@ -49,7 +49,7 @@ Table A
 
 ### PART 2 — UNITS OF ORTHODONTIC ACTIVITY
 
-**3.**[^key-119edfb261ba7166ead97aa0e095455d] (1) Where the contractor provides an orthodontic course of treatment to a patient that solely consist of a case assessment, the contractor provides 1.0 units of orthodontic activity.
+**3.**[^c-119edfb261ba7166ead97aa0e095455d] (1) Where the contractor provides an orthodontic course of treatment to a patient that solely consist of a case assessment, the contractor provides 1.0 units of orthodontic activity.
 
 (2) Where the contractor provides an orthodontic course of treatment to a patient aged under ten years that consists of—
 
@@ -81,8 +81,8 @@ the contractor provides 0.8 units of orthodontic activity.
 
 ## Annotations
 
-[^key-96894e1949af7294c789cca18a5bd64b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2006/489/schedule/2) heading substituted (1.4.2026) by [The National Health Service (General Dental Services Contracts and Patient Charges) (Wales) Regulations 2026 (W.S.I. 2026/37)](https://www.legislation.gov.uk/wsi/2026/37), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2), [Sch. 6 para. 2(9)(a)](https://www.legislation.gov.uk/wsi/2026/37/schedule/6/paragraph/2/9/a) (with [regs. 34-41](https://www.legislation.gov.uk/wsi/2026/37/regulation/34))
+[^c-96894e1949af7294c789cca18a5bd64b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2006/489/schedule/2) heading substituted (1.4.2026) by [The National Health Service (General Dental Services Contracts and Patient Charges) (Wales) Regulations 2026 (W.S.I. 2026/37)](https://www.legislation.gov.uk/wsi/2026/37), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2), [Sch. 6 para. 2(9)(a)](https://www.legislation.gov.uk/wsi/2026/37/schedule/6/paragraph/2/9/a) (with [regs. 34-41](https://www.legislation.gov.uk/wsi/2026/37/regulation/34))
 
-[^key-153778a53396d7025875c4610333f871]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/wsi/2006/489/schedule/2/part/1) substituted (1.4.2026) by [The National Health Service (General Dental Services Contracts and Patient Charges) (Wales) Regulations 2026 (W.S.I. 2026/37)](https://www.legislation.gov.uk/wsi/2026/37), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2), [Sch. 6 para. 2(9)(b)](https://www.legislation.gov.uk/wsi/2026/37/schedule/6/paragraph/2/9/b) (with [regs. 34-41](https://www.legislation.gov.uk/wsi/2026/37/regulation/34))
+[^c-153778a53396d7025875c4610333f871]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/wsi/2006/489/schedule/2/part/1) substituted (1.4.2026) by [The National Health Service (General Dental Services Contracts and Patient Charges) (Wales) Regulations 2026 (W.S.I. 2026/37)](https://www.legislation.gov.uk/wsi/2026/37), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2), [Sch. 6 para. 2(9)(b)](https://www.legislation.gov.uk/wsi/2026/37/schedule/6/paragraph/2/9/b) (with [regs. 34-41](https://www.legislation.gov.uk/wsi/2026/37/regulation/34))
 
-[^key-119edfb261ba7166ead97aa0e095455d]: Commencement: Sch. 2 para. 3 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-119edfb261ba7166ead97aa0e095455d]: Commencement: Sch. 2 para. 3 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)

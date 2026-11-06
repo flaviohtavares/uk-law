@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Undertakings under section 185: procedural requirements[^key-0a36815453389c92beee56e73a59d551][^key-2d470d1686a0a852ff8c91ec0e8ea316]
+## 187. Undertakings under section 185: procedural requirements[^c-0a36815453389c92beee56e73a59d551][^c-2d470d1686a0a852ff8c91ec0e8ea316]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ and the proposed variation or release has not been requested by the person who g
 
 ## Annotations
 
-[^key-0a36815453389c92beee56e73a59d551]: Commencement: S. 187 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-0a36815453389c92beee56e73a59d551]: Commencement: S. 187 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-2d470d1686a0a852ff8c91ec0e8ea316]: Commencement: [S. 187](https://www.legislation.gov.uk/ukpga/2024/13/section/187) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-2d470d1686a0a852ff8c91ec0e8ea316]: Commencement: [S. 187](https://www.legislation.gov.uk/ukpga/2024/13/section/187) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

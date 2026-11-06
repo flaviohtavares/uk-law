@@ -22,11 +22,11 @@ summary: ''
 
 Section 52
 
-**1.**[^key-8880c0422580ca4453974e25aee9b656] The Bail Act 1976 (c. 63) is amended as follows.
+**1.**[^c-8880c0422580ca4453974e25aee9b656] The Bail Act 1976 (c. 63) is amended as follows.
 
-**2.**[^key-10917e55887ae24645061328f359e928] In section 3(6D)(a) (condition to be imposed on person in relation to whom paragraph 6B(1)(a) to (c) of Part 1 of Schedule 1 to that Act apply), after “apply” insert “ (including where P is a person to whom the provisions of Part 1A of Schedule 1 apply) ”.
+**2.**[^c-10917e55887ae24645061328f359e928] In section 3(6D)(a) (condition to be imposed on person in relation to whom paragraph 6B(1)(a) to (c) of Part 1 of Schedule 1 to that Act apply), after “apply” insert “ (including where P is a person to whom the provisions of Part 1A of Schedule 1 apply) ”.
 
-**3.**[^key-61cd8b8bd54451703f41a04ed59907af] After section 9 (offence of agreeing to indemnify sureties in criminal proceedings) insert—
+**3.**[^c-61cd8b8bd54451703f41a04ed59907af] After section 9 (offence of agreeing to indemnify sureties in criminal proceedings) insert—
 
 > **9A. Bail decisions relating to persons aged under 18 who are accused of offences mentioned in Schedule 2 to the Magistrates' Courts Act 1980**
 >
@@ -50,9 +50,9 @@ Section 52
 > - (b) “**scheduled offence**” means an offence mentioned in Schedule 2 to that Act (offences for which the value involved is relevant to the mode of trial); and
 > - (c) “**the value involved**” is to be construed in accordance with section 22(10) to (12) of that Act.
 
-**4.**[^key-d4d806dc454255069c34b769fa5a2635] Schedule 1 (persons entitled to bail: supplementary provisions) is amended as follows.
+**4.**[^c-d4d806dc454255069c34b769fa5a2635] Schedule 1 (persons entitled to bail: supplementary provisions) is amended as follows.
 
-**5.**[^key-a154dd2f3721e1e3c50405793c9edbc6] (1) Paragraph 1 (defendants to whom Part 1 applies) becomes sub-paragraph (1) of that paragraph.
+**5.**[^c-a154dd2f3721e1e3c50405793c9edbc6] (1) Paragraph 1 (defendants to whom Part 1 applies) becomes sub-paragraph (1) of that paragraph.
 
 (2) In that sub-paragraph at the beginning insert “ Subject to sub-paragraph (2), ”.
 
@@ -65,7 +65,7 @@ Section 52
 >   - (i) a determination has been made under section 22(2) of that Act (certain either way offences to be tried summarily if value involved is less than the relevant sum) that it is clear that the value does not exceed the relevant sum for the purposes of that section; or
 >   - (ii) a determination has been made under section 9A(4) of this Act to the same effect.
 
-**6.**[^key-796a6201cdbbc8b6cc503523aabc5e3d] After Part 1 insert—
+**6.**[^c-796a6201cdbbc8b6cc503523aabc5e3d] After Part 1 insert—
 
 > **Part 1A — Defendants Accused or Convicted of Imprisonable Offences to which Part 1 does not apply**
 >
@@ -110,14 +110,14 @@ Section 52
 
 ## Annotations
 
-[^key-8880c0422580ca4453974e25aee9b656]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/12/paragraph/1) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/27)
+[^c-8880c0422580ca4453974e25aee9b656]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/12/paragraph/1) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/27)
 
-[^key-10917e55887ae24645061328f359e928]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/12/paragraph/2) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/27)
+[^c-10917e55887ae24645061328f359e928]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/12/paragraph/2) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/27)
 
-[^key-61cd8b8bd54451703f41a04ed59907af]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/12/paragraph/3) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/27)
+[^c-61cd8b8bd54451703f41a04ed59907af]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/12/paragraph/3) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/27)
 
-[^key-d4d806dc454255069c34b769fa5a2635]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/12/paragraph/4) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/27)
+[^c-d4d806dc454255069c34b769fa5a2635]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/12/paragraph/4) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/27)
 
-[^key-a154dd2f3721e1e3c50405793c9edbc6]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/12/paragraph/5) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/27)
+[^c-a154dd2f3721e1e3c50405793c9edbc6]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/12/paragraph/5) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/27)
 
-[^key-796a6201cdbbc8b6cc503523aabc5e3d]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2008/4/schedule/12/paragraph/6) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/27)
+[^c-796a6201cdbbc8b6cc503523aabc5e3d]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2008/4/schedule/12/paragraph/6) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/27)

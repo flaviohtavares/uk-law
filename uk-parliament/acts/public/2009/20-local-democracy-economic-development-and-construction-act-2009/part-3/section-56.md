@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Review of electoral arrangements[^key-9a592bd5dd1607a4abfa238612b1514f]
+## 56. Review of electoral arrangements[^c-9a592bd5dd1607a4abfa238612b1514f]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a592bd5dd1607a4abfa238612b1514f]: Commencement: S. 56 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(e)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/e)
+[^c-9a592bd5dd1607a4abfa238612b1514f]: Commencement: S. 56 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(e)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/e)

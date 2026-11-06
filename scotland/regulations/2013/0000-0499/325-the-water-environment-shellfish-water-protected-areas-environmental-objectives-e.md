@@ -50,11 +50,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 8(5), 9(4) to (6), 10(2)(b), 19(1) and 36(2) and (3) of the Water Environment and Water Services (Scotland) Act 2003[^f00001] (“the Act”) and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-ed3b88060c177e853c6c823b979f4947]
+## 1. Citation and commencement[^c-ed3b88060c177e853c6c823b979f4947]
 
 These Regulations may be cited as the Water Environment (Shellfish Water Protected Areas: Environmental Objectives etc.) (Scotland) Regulations 2013 and come into force on 22nd December 2013.
 
-## 2. Interpretation[^key-782f4ed752c3c9343587d6c5600441d4]
+## 2. Interpretation[^c-782f4ed752c3c9343587d6c5600441d4]
 
 In these Regulations—
 
@@ -64,14 +64,14 @@ In these Regulations—
 - “shellfish water protected area” means the coastal water or transitional water within an area of coastal water or transitional water designated under section 5A(1) of the Act; and
 - “shellfish water quality” means the quality of a shellfish water protected area, assessed in accordance with any quality standards and criteria which the Scottish Ministers direct (in exercise of powers conferred by the Act or any other enactment) SEPA to apply for those purposes.
 
-## 3. Setting of environmental objectives[^key-be3d27e82d0a9d3e7e9e11f90ce819e9]
+## 3. Setting of environmental objectives[^c-be3d27e82d0a9d3e7e9e11f90ce819e9]
 
 The objectives set under section 9(1)(a)(ii) of the Act must, subject to the application of regulations 4 to 7—
 
 - (a) prevent deterioration of the shellfish water quality of each shellfish water protected area; and
 - (b) protect and improve each shellfish water protected area with the aim of achieving good shellfish water quality by 22nd December 2015.
 
-## 4. Environmental objectives: phased achievement[^key-0dca69d65d63a831883c580c3869b3fb]
+## 4. Environmental objectives: phased achievement[^c-0dca69d65d63a831883c580c3869b3fb]
 
 The deadline by which an environmental objective set pursuant to regulation 3(b) must be achieved may be extended for the purposes of the phased achievement of the environmental objectives for a shellfish water protected area, if the following conditions are met—
 
@@ -87,7 +87,7 @@ The deadline by which an environmental objective set pursuant to regulation 3(b)
   - (iii) the reasons for any significant delay in making these measures operational, and the expected timetable for their implementation; and
 - (e) a review of the implementation of the measures referred to in paragraph (d) and a summary of any additional measures is included in updates of the river basin management plan.
 
-## 5. Environmental objectives: human activity or natural condition[^key-ffb69e7de3d01450251d40b53cb79b91]
+## 5. Environmental objectives: human activity or natural condition[^c-ffb69e7de3d01450251d40b53cb79b91]
 
 Less stringent environmental objectives may be set under section 9(1)(a)(ii) of the Act for a shellfish water protected area instead of those required pursuant to regulation 3 when the area is so affected by human activity, or the natural condition of the area is such that the achievement of the environmental objectives required pursuant to regulation 3 would be infeasible or disproportionately expensive, and the following conditions are met—
 
@@ -96,7 +96,7 @@ Less stringent environmental objectives may be set under section 9(1)(a)(ii) of 
 - (c) no further deterioration occurs in the shellfish water quality of the affected area; and
 - (d) the establishment of less stringent environmental objectives, and the reasons for it, are set out in the river basin management plan (or the next update of it) and those objectives are reviewed every 6 years.
 
-## 6. Environmental objectives: natural cause or force majeure[^key-ab5ca95f88e28c4c98189d5e7796a5f8]
+## 6. Environmental objectives: natural cause or force majeure[^c-ab5ca95f88e28c4c98189d5e7796a5f8]
 
 For the purposes of these Regulations and Part 1 of the Act (in particular section 9(7)(b)), a temporary deterioration in the shellfish water quality of a shellfish water protected area is not a breach of the environmental objectives set pursuant to regulation 3 if the deterioration is the result of circumstances of natural cause or force majeure which are exceptional or could not reasonably have been foreseen, or the result of circumstances due to accidents which could not reasonably have been foreseen, and the following conditions are met—
 
@@ -106,14 +106,14 @@ For the purposes of these Regulations and Part 1 of the Act (in particular secti
 - (b) all practicable measures are taken with the aim of restoring the area to the shellfish water quality it had before the effects of the circumstances as soon as reasonably practicable; and
 - (c) a summary of the effects of the circumstances and of such measures taken or to be taken in accordance with paragraphs (a) and (b) are included in the next update of the river basin management plan.
 
-## 7. Environmental objectives: application of regulations 4 to 6[^key-7fffa619c35e078138b8cca8b83dae2a]
+## 7. Environmental objectives: application of regulations 4 to 6[^c-7fffa619c35e078138b8cca8b83dae2a]
 
 Regulations 4 to 6 must not be applied in a way that—
 
 - (a) permanently excludes or compromises the achievement of the objectives set pursuant to section 9(1)(a)(i) of the Act in relation to any body of water in a river basin district; or
-- (b) is inconsistent with the implementation of any assimilated[^key-317176bcd14b2dce4510550abdecd5f5][^key-d5c07db22c951e49a5c3fa763971d47c] law relating to the environment.
+- (b) is inconsistent with the implementation of any assimilated[^c-317176bcd14b2dce4510550abdecd5f5][^c-d5c07db22c951e49a5c3fa763971d47c] law relating to the environment.
 
-## 8. Content of monitoring programme[^key-c144af3c4187aac3c6040c0013a94306]
+## 8. Content of monitoring programme[^c-c144af3c4187aac3c6040c0013a94306]
 
 (1) The monitoring programme prepared by SEPA under section 8(2) of the Act must (without prejudice to any other requirement of the programme) for each shellfish water protected area in a river basin district—
 
@@ -126,7 +126,7 @@ Regulations 4 to 6 must not be applied in a way that—
 
 (2) Monitoring in relation to each shellfish water protected area pursuant to paragraph (1) must be commenced within the period of 3 months beginning with the date on which the area is designated under section 5A(1) of the Act (instead of the date specified in section 8(3) of the Act).
 
-## 9. Preparation of programme of measures[^key-1f833d3f68d8da148bcc7e290d84cab8]
+## 9. Preparation of programme of measures[^c-1f833d3f68d8da148bcc7e290d84cab8]
 
 (1) Each programme of measures under section 9(1)(b) of the Act must include measures to achieve the environmental objectives set for each shellfish water protected area pursuant to regulation 3.
 
@@ -147,7 +147,7 @@ Regulations 4 to 6 must not be applied in a way that—
 
 (5) Where a programme of measures is updated under paragraph (4), any new or revised measure to achieve an environmental objective which is included in the updated programme must be implemented within 3 years of the date on which that measure was added or revised.
 
-## 10. Content of river basin management plans[^key-ff63c2484b2d77857323c516fa1ec6bb]
+## 10. Content of river basin management plans[^c-ff63c2484b2d77857323c516fa1ec6bb]
 
 (1) In addition to the matters in Part 1 of schedule 1 to the Act, the river basin management plan (or the next update of it) must include—
 
@@ -161,7 +161,7 @@ Regulations 4 to 6 must not be applied in a way that—
 
 (2) In addition to the matters in Part 2 of schedule 1 to the Act, updates of the river basin management plan must include, along with the summary required by paragraph 12 of that schedule, a summary of any reviews carried out under regulations 4(e) and 5(d).
 
-## 11. Modification of the Water Environment (Controlled Activities) (Scotland) Regulations 2011[^key-b95e236e1aa68c0886367907029fef44]
+## 11. Modification of the Water Environment (Controlled Activities) (Scotland) Regulations 2011[^c-b95e236e1aa68c0886367907029fef44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -189,28 +189,28 @@ These provisions have effect only in relation to shellfish water protected areas
 
 [^f00001]: Footnote: [2003 asp 3](https://www.legislation.gov.uk/asp/2003/3); section 9 was amended by section 47(4) of the Aquaculture and Fisheries (Scotland) Act [2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7).
 
-[^key-ed3b88060c177e853c6c823b979f4947]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
+[^c-ed3b88060c177e853c6c823b979f4947]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
 
-[^key-782f4ed752c3c9343587d6c5600441d4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/325/regulation/2) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
+[^c-782f4ed752c3c9343587d6c5600441d4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/325/regulation/2) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
 
-[^key-be3d27e82d0a9d3e7e9e11f90ce819e9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2013/325/regulation/3) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
+[^c-be3d27e82d0a9d3e7e9e11f90ce819e9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2013/325/regulation/3) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
 
-[^key-0dca69d65d63a831883c580c3869b3fb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2013/325/regulation/4) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
+[^c-0dca69d65d63a831883c580c3869b3fb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2013/325/regulation/4) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
 
-[^key-ffb69e7de3d01450251d40b53cb79b91]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2013/325/regulation/5) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
+[^c-ffb69e7de3d01450251d40b53cb79b91]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2013/325/regulation/5) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
 
-[^key-ab5ca95f88e28c4c98189d5e7796a5f8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2013/325/regulation/6) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
+[^c-ab5ca95f88e28c4c98189d5e7796a5f8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2013/325/regulation/6) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
 
-[^key-7fffa619c35e078138b8cca8b83dae2a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2013/325/regulation/7) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
+[^c-7fffa619c35e078138b8cca8b83dae2a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2013/325/regulation/7) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
 
-[^key-317176bcd14b2dce4510550abdecd5f5]: Textual amendment: Word in [reg. 7(b)](https://www.legislation.gov.uk/ssi/2013/325/regulation/7/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 25(2)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/25/2)
+[^c-317176bcd14b2dce4510550abdecd5f5]: Textual amendment: Word in [reg. 7(b)](https://www.legislation.gov.uk/ssi/2013/325/regulation/7/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 25(2)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/25/2)
 
-[^key-d5c07db22c951e49a5c3fa763971d47c]: Textual amendment: Words in [reg. 7(b)](https://www.legislation.gov.uk/ssi/2013/325/regulation/7/b) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [5](https://www.legislation.gov.uk/ssi/2022/138/regulation/5)
+[^c-d5c07db22c951e49a5c3fa763971d47c]: Textual amendment: Words in [reg. 7(b)](https://www.legislation.gov.uk/ssi/2013/325/regulation/7/b) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [5](https://www.legislation.gov.uk/ssi/2022/138/regulation/5)
 
-[^key-c144af3c4187aac3c6040c0013a94306]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2013/325/regulation/8) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
+[^c-c144af3c4187aac3c6040c0013a94306]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2013/325/regulation/8) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
 
-[^key-1f833d3f68d8da148bcc7e290d84cab8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2013/325/regulation/9) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
+[^c-1f833d3f68d8da148bcc7e290d84cab8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2013/325/regulation/9) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
 
-[^key-ff63c2484b2d77857323c516fa1ec6bb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2013/325/regulation/10) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
+[^c-ff63c2484b2d77857323c516fa1ec6bb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2013/325/regulation/10) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
 
-[^key-b95e236e1aa68c0886367907029fef44]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2013/325/regulation/11) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-b95e236e1aa68c0886367907029fef44]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2013/325/regulation/11) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86C. Role of combined county authorities in relation to action plans[^key-5f929981d4a6b4a2b83d2394dc18dec2]
+## 86C. Role of combined county authorities in relation to action plans[^c-5f929981d4a6b4a2b83d2394dc18dec2]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f929981d4a6b4a2b83d2394dc18dec2]: Textual amendment: S. 86C inserted (E.W.) (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 118](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/118) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-5f929981d4a6b4a2b83d2394dc18dec2]: Textual amendment: S. 86C inserted (E.W.) (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 118](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/118) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

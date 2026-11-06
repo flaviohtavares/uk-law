@@ -57,7 +57,7 @@ summary: ''
   - (iii) sections 60 and 63 of the [^c4766601]Criminal Justice Act 1967 (in their application to persons for the time being in Northern Ireland or in the Channel Islands or the Isle of Man),
 
   extend to Northern Ireland, the Channel Islands and the Isle of Man (as well as, by virtue of paragraph (*a*) above, to Scotland;
-- (e)[^key-ebf94acaf03f1f0aaf18bfb5ba61d68e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-ebf94acaf03f1f0aaf18bfb5ba61d68e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 but save as aforesaid, this Act extends to England and Wales only.
 
@@ -83,4 +83,4 @@ but save as aforesaid, this Act extends to England and Wales only.
 
 [^c4766601]: Marginal citation: [1967 c. 80](https://www.legislation.gov.uk/ukpga/1967/80).
 
-[^key-ebf94acaf03f1f0aaf18bfb5ba61d68e]: Textual amendment: [S. 65(10)(e)](https://www.legislation.gov.uk/ukpga/1977/45/section/65/10/e) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
+[^c-ebf94acaf03f1f0aaf18bfb5ba61d68e]: Textual amendment: [S. 65(10)(e)](https://www.legislation.gov.uk/ukpga/1977/45/section/65/10/e) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))

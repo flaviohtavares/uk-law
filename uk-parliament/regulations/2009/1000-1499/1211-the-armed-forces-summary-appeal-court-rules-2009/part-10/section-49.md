@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-5cc3ec315042445566c0a600b2da4bc7] Where any person is required to give evidence in any proceedings, the person must be notified of the time and place at which they are required to attend by—
+(1)[^c-5cc3ec315042445566c0a600b2da4bc7] Where any person is required to give evidence in any proceedings, the person must be notified of the time and place at which they are required to attend by—
 
 - (a) the Director, if the person is required to give evidence by the Director; or
 - (b) the court administration officer.
@@ -29,12 +29,12 @@ summary: ''
 
 (3) Where a witness summons is issued under rule 50 or 52, the court administration officer shall serve it on the person to whom it is directed.
 
-(4)[^key-9255170a0bafa6964ba53546e136c7f4] Where the Director is required to notify a person under this rule and in the opinion of the Director it is not reasonably practicable to do so, the Director must give notice of that fact to the judge advocate.
+(4)[^c-9255170a0bafa6964ba53546e136c7f4] Where the Director is required to notify a person under this rule and in the opinion of the Director it is not reasonably practicable to do so, the Director must give notice of that fact to the judge advocate.
 
 (5) Where the court administration officer is required to notify a person under this rule or serve a witness summons on a person and in the opinion of the court administration officer it is not reasonably practicable to do so, the court administration officer must give notice of that fact to the judge advocate and the party who wishes the person to attend.
 
 ## Annotations
 
-[^key-5cc3ec315042445566c0a600b2da4bc7]: Textual amendment: [Rule 49(1)](https://www.legislation.gov.uk/uksi/2009/1211/rule/49/1) substituted (1.1.2023) by [The Armed Forces (Service Court Rules) (Amendment) (No. 2) Rules 2022 (S.I. 2022/1263)](https://www.legislation.gov.uk/uksi/2022/1263), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/1263/rule/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2022/1263/rule/12/2)
+[^c-5cc3ec315042445566c0a600b2da4bc7]: Textual amendment: [Rule 49(1)](https://www.legislation.gov.uk/uksi/2009/1211/rule/49/1) substituted (1.1.2023) by [The Armed Forces (Service Court Rules) (Amendment) (No. 2) Rules 2022 (S.I. 2022/1263)](https://www.legislation.gov.uk/uksi/2022/1263), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/1263/rule/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2022/1263/rule/12/2)
 
-[^key-9255170a0bafa6964ba53546e136c7f4]: Textual amendment: [Rule 49(4)](https://www.legislation.gov.uk/uksi/2009/1211/rule/49/4)[(5)](https://www.legislation.gov.uk/uksi/2009/1211/rule/49/5) substituted for [rule 49(4)](https://www.legislation.gov.uk/uksi/2009/1211/rule/49/4) (1.1.2023) by [The Armed Forces (Service Court Rules) (Amendment) (No. 2) Rules 2022 (S.I. 2022/1263)](https://www.legislation.gov.uk/uksi/2022/1263), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/1263/rule/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2022/1263/rule/12/3)
+[^c-9255170a0bafa6964ba53546e136c7f4]: Textual amendment: [Rule 49(4)](https://www.legislation.gov.uk/uksi/2009/1211/rule/49/4)[(5)](https://www.legislation.gov.uk/uksi/2009/1211/rule/49/5) substituted for [rule 49(4)](https://www.legislation.gov.uk/uksi/2009/1211/rule/49/4) (1.1.2023) by [The Armed Forces (Service Court Rules) (Amendment) (No. 2) Rules 2022 (S.I. 2022/1263)](https://www.legislation.gov.uk/uksi/2022/1263), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/1263/rule/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2022/1263/rule/12/3)

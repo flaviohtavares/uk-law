@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 138. Powers of search, examination, etc.[^key-8a949dee6462260ea49e3ed7a5c8b50d]
+## 138. Powers of search, examination, etc.[^c-8a949dee6462260ea49e3ed7a5c8b50d]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a949dee6462260ea49e3ed7a5c8b50d]: Commencement: [S. 138](https://www.legislation.gov.uk/asp/2010/5/section/138) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)
+[^c-8a949dee6462260ea49e3ed7a5c8b50d]: Commencement: [S. 138](https://www.legislation.gov.uk/asp/2010/5/section/138) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)

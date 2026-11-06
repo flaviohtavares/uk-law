@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Section 804ZA: prescribed schemes and arrangements[^key-c5d1a1694aa62be76d2a46d9a990d547]
+## SCHEDULE 5 — Section 804ZA: prescribed schemes and arrangements[^c-c5d1a1694aa62be76d2a46d9a990d547]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,10 +24,10 @@ summary: ''
 
 Section 87
 
-[^key-c5d1a1694aa62be76d2a46d9a990d547]
+[^c-c5d1a1694aa62be76d2a46d9a990d547]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c5d1a1694aa62be76d2a46d9a990d547]: Textual amendment: Sch. 5 repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-c5d1a1694aa62be76d2a46d9a990d547]: Textual amendment: Sch. 5 repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Restrictions on persons taking part in proceedings[^key-a30ffb30ee9e7add3afbf15f4d8d659c]
+## 75. Restrictions on persons taking part in proceedings[^c-a30ffb30ee9e7add3afbf15f4d8d659c]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ that person, if present at a meeting of the federation or a federated school at 
 
 ## Annotations
 
-[^key-a30ffb30ee9e7add3afbf15f4d8d659c]: Commencement: Reg. 75 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-a30ffb30ee9e7add3afbf15f4d8d659c]: Commencement: Reg. 75 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

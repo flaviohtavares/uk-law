@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Annual rate of full retirement pension[^key-c5464826905f2864fce5ca39d53890c9]
+## 65. Annual rate of full retirement pension[^c-c5464826905f2864fce5ca39d53890c9]
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies if an active member of this scheme (P) exercises the partial retirement option in respect of the whole of P’s accrued pensions in the office from which P is taking partial retirement[^key-937092ab95b84f60b96cbf5ded8a7db5].
+(1) This regulation applies if an active member of this scheme (P) exercises the partial retirement option in respect of the whole of P’s accrued pensions in the office from which P is taking partial retirement[^c-937092ab95b84f60b96cbf5ded8a7db5].
 
 (2) The annual rate of each description of full retirement pension is calculated under regulation 57 by reference to the amount of that description of full retirement pension specified in the full retirement account.
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c5464826905f2864fce5ca39d53890c9]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2015/182/regulation/65) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-c5464826905f2864fce5ca39d53890c9]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2015/182/regulation/65) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
 
-[^key-937092ab95b84f60b96cbf5ded8a7db5]: Textual amendment: Words in [reg. 65(1)](https://www.legislation.gov.uk/uksi/2015/182/regulation/65/1) inserted (1.4.2022) by [The Judicial Pensions Regulations 2022 (S.I. 2022/319)](https://www.legislation.gov.uk/uksi/2022/319), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4), [Sch. 3 para. 4(11)](https://www.legislation.gov.uk/uksi/2022/319/schedule/3/paragraph/4/11) (with [reg. 120](https://www.legislation.gov.uk/uksi/2022/319/regulation/120))
+[^c-937092ab95b84f60b96cbf5ded8a7db5]: Textual amendment: Words in [reg. 65(1)](https://www.legislation.gov.uk/uksi/2015/182/regulation/65/1) inserted (1.4.2022) by [The Judicial Pensions Regulations 2022 (S.I. 2022/319)](https://www.legislation.gov.uk/uksi/2022/319), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4), [Sch. 3 para. 4(11)](https://www.legislation.gov.uk/uksi/2022/319/schedule/3/paragraph/4/11) (with [reg. 120](https://www.legislation.gov.uk/uksi/2022/319/regulation/120))

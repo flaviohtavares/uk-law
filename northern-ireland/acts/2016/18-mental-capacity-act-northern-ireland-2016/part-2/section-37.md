@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. First extension of period of authorisation[^key-ebe3a1d62e1b604c0b7f12aab84c3f2d]
+## 37. First extension of period of authorisation[^c-ebe3a1d62e1b604c0b7f12aab84c3f2d]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebe3a1d62e1b604c0b7f12aab84c3f2d]: Commencement: [S. 37](https://www.legislation.gov.uk/nia/2016/18/section/37) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-ebe3a1d62e1b604c0b7f12aab84c3f2d]: Commencement: [S. 37](https://www.legislation.gov.uk/nia/2016/18/section/37) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

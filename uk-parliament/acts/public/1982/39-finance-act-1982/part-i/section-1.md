@@ -24,7 +24,7 @@ summary: ''
 
 (2) In section 36 of that Act (excise duty on beer) for “£18.00” and “£0.60” there shall be substituted “ £20.40 ” and “ £0.68 ” respectively.
 
-(3)[^key-68ab74d86a6e98e6cd6c075f7a0e4685] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-68ab74d86a6e98e6cd6c075f7a0e4685] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c13231801]
 
@@ -38,6 +38,6 @@ summary: ''
 
 [^c13231791]: Marginal citation: [1979 c. 4](https://www.legislation.gov.uk/ukpga/1979/4)
 
-[^key-68ab74d86a6e98e6cd6c075f7a0e4685]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/1982/39/section/1/3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-68ab74d86a6e98e6cd6c075f7a0e4685]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/1982/39/section/1/3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
 [^c13231801]: Textual amendment: S. 1(4) repealed by [Finance Act 1984 (c. 43, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1984/43), [s. 128(6)](https://www.legislation.gov.uk/ukpga/1984/43/section/128/6), [Sch. 23 Pt. I](https://www.legislation.gov.uk/ukpga/1984/43/schedule/23/part/I)

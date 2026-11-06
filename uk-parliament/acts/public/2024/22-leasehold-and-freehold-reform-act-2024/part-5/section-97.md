@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Enforcement of sections 95 and 96[^key-df97184c7d938971ea0a4e73d2dc18a6]
+## 97. Enforcement of sections 95 and 96[^c-df97184c7d938971ea0a4e73d2dc18a6]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df97184c7d938971ea0a4e73d2dc18a6]: Commencement: S. 97 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-df97184c7d938971ea0a4e73d2dc18a6]: Commencement: S. 97 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

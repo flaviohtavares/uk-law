@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE B1 — Enforcement of duties under section 8 and licence conditions[^key-914afb05c899987bcff06b459c393fdd]
+## SCHEDULE B1 — Enforcement of duties under section 8 and licence conditions[^c-914afb05c899987bcff06b459c393fdd]
 
 *Extent: E+W+S+N.I.*
 
@@ -586,4 +586,4 @@ Section 20
 
 ## Annotations
 
-[^key-914afb05c899987bcff06b459c393fdd]: Textual amendment: Sch. B1 inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [ss. 10(7)(a)](https://www.legislation.gov.uk/ukpga/2021/12/section/10/7/a), [21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2021/12/schedule/5); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/b)
+[^c-914afb05c899987bcff06b459c393fdd]: Textual amendment: Sch. B1 inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [ss. 10(7)(a)](https://www.legislation.gov.uk/ukpga/2021/12/section/10/7/a), [21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2021/12/schedule/5); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/b)

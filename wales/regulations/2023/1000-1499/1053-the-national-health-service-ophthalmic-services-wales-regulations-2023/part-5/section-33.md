@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Payments for partial services[^key-607655d826b8a55610138aad3e3abe60]
+## 33. Payments for partial services[^c-607655d826b8a55610138aad3e3abe60]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-607655d826b8a55610138aad3e3abe60]: Commencement: Reg. 33 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-607655d826b8a55610138aad3e3abe60]: Commencement: Reg. 33 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

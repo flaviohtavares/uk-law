@@ -30,7 +30,7 @@ summary: ''
 
 EDUCATION
 
-Education and Libraries (Defined Activities) (Exemptions) (Amendment) Order (Northern Ireland) 1998 (revoked)[^key-aa8e65504345f4f4840bffb7b39712ee]
+Education and Libraries (Defined Activities) (Exemptions) (Amendment) Order (Northern Ireland) 1998 (revoked)[^c-aa8e65504345f4f4840bffb7b39712ee]
 
 Made
 
@@ -40,36 +40,36 @@ Coming into operation
 
 27th October 1998
 
-[^key-aa8e65504345f4f4840bffb7b39712ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa8e65504345f4f4840bffb7b39712ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-aa8e65504345f4f4840bffb7b39712ee]
+## 1. Citation, commencement and interpretation[^c-aa8e65504345f4f4840bffb7b39712ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application[^key-aa8e65504345f4f4840bffb7b39712ee]
+## 2. Application[^c-aa8e65504345f4f4840bffb7b39712ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Activities not to be treated as a defined activity[^key-aa8e65504345f4f4840bffb7b39712ee]
+## 3. Activities not to be treated as a defined activity[^c-aa8e65504345f4f4840bffb7b39712ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Education and Libraries (Defined Activities) (Exemptions) Order (Northern Ireland) 1994[^key-aa8e65504345f4f4840bffb7b39712ee]
+## 4. Amendment of the Education and Libraries (Defined Activities) (Exemptions) Order (Northern Ireland) 1994[^c-aa8e65504345f4f4840bffb7b39712ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation and saving[^key-aa8e65504345f4f4840bffb7b39712ee]
+## 5. Revocation and saving[^c-aa8e65504345f4f4840bffb7b39712ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa8e65504345f4f4840bffb7b39712ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa8e65504345f4f4840bffb7b39712ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-aa8e65504345f4f4840bffb7b39712ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa8e65504345f4f4840bffb7b39712ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aa8e65504345f4f4840bffb7b39712ee]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/320) revoked (1.5.2000) by [Education and Libraries (Defined Activities) (Exemptions) (Amendment) Order (Northern Ireland) 2000 (S.R. 2000/70)](https://www.legislation.gov.uk/nisr/2000/70), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2000/70/article/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2000/70/article/3/b)
+[^c-aa8e65504345f4f4840bffb7b39712ee]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/320) revoked (1.5.2000) by [Education and Libraries (Defined Activities) (Exemptions) (Amendment) Order (Northern Ireland) 2000 (S.R. 2000/70)](https://www.legislation.gov.uk/nisr/2000/70), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2000/70/article/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2000/70/article/3/b)

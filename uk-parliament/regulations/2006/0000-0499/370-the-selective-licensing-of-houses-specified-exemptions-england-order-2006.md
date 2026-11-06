@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 79(4) of the Housing Act 2004[^f00001], makes the following Order:
 
-## 1. Citation, commencement and application[^key-fdd56b47990f64fae3b9b8c52907c11b]
+## 1. Citation, commencement and application[^c-fdd56b47990f64fae3b9b8c52907c11b]
 
 (1) This Order may be cited as The Selective Licensing of Houses (Specified Exemptions) (England) Order 2006 and shall come into force on 6th April 2006.
 
 (2) This Order applies to houses[^f00002] in England only.
 
-## 2. Exempt tenancies or licences for the purposes of Part 3 of the Housing Act 2004[^key-fbbc1d30c9d675f979d343647ee40ebb]
+## 2. Exempt tenancies or licences for the purposes of Part 3 of the Housing Act 2004[^c-fbbc1d30c9d675f979d343647ee40ebb]
 
 (1) A tenancy or licence of a house or a dwelling contained in a house is an exempt tenancy or licence for the purposes of Part 3 of the Housing Act 2004 (“the Act”) if it falls within any of the following descriptions—
 
@@ -70,7 +70,7 @@ The Secretary of State, in exercise of the powers conferred by section 79(4) of 
   - (v) a health service body within the meaning of section 4 of the National Health Service and Community Care Act 1990[^f00008];
 - (d) a tenancy or licence of a house which is not a house in multiple occupation for any purposes of the Act (except Part 1) by virtue of—
   - (i) paragraph 3 of Schedule 14 to the Act (buildings regulated otherwise than under the Act); or
-  - (ii) paragraph 3A[^key-dcdca5a3cac18777849a085b947f4ec1] of that Schedule (buildings occupied by students : England[^key-a1d9d88351e8766c11308d285c4741d3])[^f00009];
+  - (ii) paragraph 3A[^c-dcdca5a3cac18777849a085b947f4ec1] of that Schedule (buildings occupied by students : England[^c-a1d9d88351e8766c11308d285c4741d3])[^f00009];
 - (e) a tenancy of a house or a dwelling where—
   - (i) the full term of the tenancy is more than 21 years;
   - (ii) the lease does not contain a provision enabling the landlord to determine the tenancy, other than by forfeiture, earlier than at end of the term; and
@@ -88,7 +88,7 @@ The Secretary of State, in exercise of the powers conferred by section 79(4) of 
   - (i) those persons live as a couple;
   - (ii) one of them is the relative of the other; or
   - (iii) one of them is, or is a relative of, one member of a couple and the other is a relative of the other member of the couple;
-- (b) “couple” means two persons who are married to , or civil partners of, each other or live together as if they were a married couple or civil partners[^key-1ee609150214c2052e05a4de623d15be];
+- (b) “couple” means two persons who are married to , or civil partners of, each other or live together as if they were a married couple or civil partners[^c-1ee609150214c2052e05a4de623d15be];
 - (c) “relative” means parent, grandparent, child, grandchild, brother, sister, uncle, aunt, nephew, niece or cousin;
 - (d) a relationship of the half-blood is to be treated as a relationship of the whole blood;
 - (e) a stepchild of a person is to be treated as his child;
@@ -115,11 +115,11 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00001]: Footnote: [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34). The powers conferred by section 79(4) of the Act are exercisable as respects England, by the Secretary of State and, as respects Wales by the National Assembly for Wales. See the definition of the appropriate national authority in section 261(1).
 
-[^key-fdd56b47990f64fae3b9b8c52907c11b]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2006/370/article/1) in force at 6.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/370/article/1/2)
+[^c-fdd56b47990f64fae3b9b8c52907c11b]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2006/370/article/1) in force at 6.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/370/article/1/2)
 
 [^f00002]: Footnote: For the meaning of house see section 99 of the Act.
 
-[^key-fbbc1d30c9d675f979d343647ee40ebb]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2006/370/article/2) in force at 6.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/370/article/1/2)
+[^c-fbbc1d30c9d675f979d343647ee40ebb]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2006/370/article/2) in force at 6.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/370/article/1/2)
 
 [^f00003]: Footnote: [1988 c. 50](https://www.legislation.gov.uk/ukpga/1988/50).
 
@@ -133,10 +133,10 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00008]: Footnote: [1990 c. 19](https://www.legislation.gov.uk/ukpga/1990/19).
 
-[^key-dcdca5a3cac18777849a085b947f4ec1]: Textual amendment: Word in art. 2(1)(d)(ii) substituted (1.5.2026) by [The Renters’ Rights Act 2025 (Consequential Amendments) and Tenancies (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/325)](https://www.legislation.gov.uk/uksi/2026/325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2026/325/regulation/6/a)
+[^c-dcdca5a3cac18777849a085b947f4ec1]: Textual amendment: Word in art. 2(1)(d)(ii) substituted (1.5.2026) by [The Renters’ Rights Act 2025 (Consequential Amendments) and Tenancies (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/325)](https://www.legislation.gov.uk/uksi/2026/325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2026/325/regulation/6/a)
 
-[^key-a1d9d88351e8766c11308d285c4741d3]: Textual amendment: Word in art. 2(1)(d)(ii) inserted (1.5.2026) by [The Renters’ Rights Act 2025 (Consequential Amendments) and Tenancies (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/325)](https://www.legislation.gov.uk/uksi/2026/325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2026/325/regulation/6/b)
+[^c-a1d9d88351e8766c11308d285c4741d3]: Textual amendment: Word in art. 2(1)(d)(ii) inserted (1.5.2026) by [The Renters’ Rights Act 2025 (Consequential Amendments) and Tenancies (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/325)](https://www.legislation.gov.uk/uksi/2026/325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2026/325/regulation/6/b)
 
 [^f00009]: Footnote: See section 254(5) of the Act.
 
-[^key-1ee609150214c2052e05a4de623d15be]: Textual amendment: Words in art. 2(2)(b) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 85](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/85)
+[^c-1ee609150214c2052e05a4de623d15be]: Textual amendment: Words in art. 2(2)(b) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 85](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/85)

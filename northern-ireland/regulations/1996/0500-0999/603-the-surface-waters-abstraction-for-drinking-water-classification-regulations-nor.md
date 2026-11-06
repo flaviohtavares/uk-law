@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by section 4B of the Water Act (Northern Ireland) 1972[^f00001] and now vested in it[^f00002], section 56B of the Water and Sewerage Services Order (Northern Ireland) Order 1973[^f00003] and, being a department designated[^f00004] for the purposes of section 2(2) of the European Communities Act 1972[^f00005] in relation to measures relating to the prevention, reduction and elimination of pollution of water, in exercise of the powers conferred on it by that section and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-dd1cf60ca76b74a1d2fe3a67faf56c7c]
+## 1. Citation and commencement[^c-dd1cf60ca76b74a1d2fe3a67faf56c7c]
 
 These Regulations may be cited as the Surface Waters (Abstraction for Drinking Water) (Classification) Regulations (Northern Ireland) 1996 and shall come into operation on 20th February 1997.
 
-## 2. Interpretation[^key-6cd3240f542ca010d7e479a05e177387]
+## 2. Interpretation[^c-6cd3240f542ca010d7e479a05e177387]
 
 (1) In these Regulations—
 
@@ -62,11 +62,11 @@ These Regulations may be cited as the Surface Waters (Abstraction for Drinking W
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00008] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 3. Classification of waters[^key-303ae5647a1588c8b41c0295c51eb304]
+## 3. Classification of waters[^c-303ae5647a1588c8b41c0295c51eb304]
 
 The classifications DW1, DW2 and DW3 and the criteria for those classifications set out in Schedule 1 shall apply for classifying waters by reference to their suitability for abstraction by the Department for supply (after treatment) as drinking water.
 
-## 4. Compliance with relevant limits[^key-c67aeb40f7ff9d6dcbd9d3aa6f754aaa]
+## 4. Compliance with relevant limits[^c-c67aeb40f7ff9d6dcbd9d3aa6f754aaa]
 
 (1) Subject to paragraphs (2) and (3), any waters classified under these Regulations shall be treated in any year as complying with the limits specified in column I of Schedule 1 for waters of the relevant class in relation to a parameter if—
 
@@ -79,14 +79,14 @@ The classifications DW1, DW2 and DW3 and the criteria for those classifications 
 
 (3) Paragraph 1(*b*) shall not apply in the case of any standard adopted by the Department in relation to temperature.
 
-## 5. Guideline values and no deterioration principle[^key-e6d5d3e9d26a9ae6868bd21482ed477e]
+## 5. Guideline values and no deterioration principle[^c-e6d5d3e9d26a9ae6868bd21482ed477e]
 
 In discharging its pollution control functions in relation to any waters classified under these Regulations, the Department shall—
 
 - (a) endeavour to respect the guideline values specified in column G of Schedule 1 for waters of the relevant class;
 - (b) act in accordance with the principle that implementation of measures taken pursuant to Directive [75/440/EEC](https://www.legislation.gov.uk/european/directive/1975/0440)[^f00009] may under no circumstances lead directly or indirectly to deterioration of the current quality of surface water.
 
-## 6. Compliance with standards[^key-eb4315da3ee2b2dd579e177749ad3ae3]
+## 6. Compliance with standards[^c-eb4315da3ee2b2dd579e177749ad3ae3]
 
 (1) Subject to paragraphs (2) and (3), any waters classified under these Regulations shall be treated as complying with any standard in relation to any parameter adopted by the Department as a result of regulation 5 in relation to those waters if—
 
@@ -99,7 +99,7 @@ In discharging its pollution control functions in relation to any waters classif
 
 (3) Paragraph 1(*b*) shall not apply in the case of any standard adopted by the Department in relation to temperature, pH, dissolved oxygen and microbiological parameters
 
-## 7. Waivers[^key-fdc35a5157f974152331728c877eff09]
+## 7. Waivers[^c-fdc35a5157f974152331728c877eff09]
 
 (1) Subject to the provisions of this regulation, the Department may waive any requirement to comply with the relevant limit value for any parameter in relation to waters classified under these Regulations or any standard adopted as a result of regulation 5 for any parameter in relation to any water classified under these Regulations if it considers it appropriate to do so—
 
@@ -118,7 +118,7 @@ In discharging its pollution control functions in relation to any waters classif
 
 (4) In this regulation “natural enrichment” means a process whereby without human intervention a given body of water receives from the soil certain substances contained therein.
 
-## 8. Sampling and analysis[^key-770c281dfe5cab3e627183eafb0e6eaf]
+## 8. Sampling and analysis[^c-770c281dfe5cab3e627183eafb0e6eaf]
 
 (1) Subject to Regulation 9, the Department shall ensure that waters classified under these Regulations are sampled and samples are analysed in accordance with paragraphs (2) to (5).
 
@@ -137,7 +137,7 @@ In discharging its pollution control functions in relation to any waters classif
 
 (5) The containers used for samples, the agents or methods used to preserve part of the sample for the analysis of one or more parameters, the conveyance and storage of the samples and the preparation of samples for analysis must not be such as to bring about any significant change in the results of the analysis.
 
-## 9. Reduction of frequency of sampling, etc.[^key-5652ee407087354154bec05191675e48]
+## 9. Reduction of frequency of sampling, etc.[^c-5652ee407087354154bec05191675e48]
 
 (1) Where a survey of any waters classified for the purposes of these Regulations shows that the values obtained for any parameters are considerably superior to—
 
@@ -153,18 +153,18 @@ the Department may reduce the frequency of sampling of the waters in relation to
 - (c) there is no risk of the quality of the waters deteriorating; and
 - (d) the quality of the waters is superior to the minimum required for waters classified as DW1.
 
-## 10. Modification of section 4C of the Water Act (Northern Ireland) 1972[^key-e2f875504a7cba1a2b7b5355eac7ad65]
+## 10. Modification of section 4C of the Water Act (Northern Ireland) 1972[^c-e2f875504a7cba1a2b7b5355eac7ad65]
 
 Section 4C of the Water Act (Northern Ireland) shall have effect—
 
 - (a) as if it imposed a duty on the Department to exercise the powers conferred on it by that section to classify under these Regulations such waters as are necessary to give effect to Directive [75/440/EEC](https://www.legislation.gov.uk/european/directive/1975/0440); and
 - (b) in relation to the performance of that duty, as if subsections (4), (5) and (7) of that section were omitted.
 
-## 11. Systematic plan of action[^key-f809153ac773e4260d268f09be422f5a]
+## 11. Systematic plan of action[^c-f809153ac773e4260d268f09be422f5a]
 
 The Department shall draw up a systematic plan of action including a timetable for the improvement of surface water and especially that falling within category DW3.
 
-## 12. Revocation of the Surface Waters (Classification) Regulations (Northern Ireland) 1995[^key-aa63748f4aff0397833573e7bf58863d]
+## 12. Revocation of the Surface Waters (Classification) Regulations (Northern Ireland) 1995[^c-aa63748f4aff0397833573e7bf58863d]
 
 The Surface Waters (Classification) Regulations (Northern Ireland) 1995[^f00010] are hereby revoked.
 
@@ -174,7 +174,7 @@ R. W. Rogers
 
 Assistant Secretary
 
-## SCHEDULE 1 — Characteristics of Surface Water intended for the Abstraction of Drinking Water[^key-0a598a3659dc562d40c228d3fc6e56fb]
+## SCHEDULE 1 — Characteristics of Surface Water intended for the Abstraction of Drinking Water[^c-0a598a3659dc562d40c228d3fc6e56fb]
 
 regulations 3, 4, 5, 7, 8 and 9
 
@@ -358,9 +358,9 @@ Copies of the Directives may be obtained from The Stationery Office Ltd, 16 Arth
 
 [^f00005]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-dd1cf60ca76b74a1d2fe3a67faf56c7c]: Commencement: Reg. 1 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
+[^c-dd1cf60ca76b74a1d2fe3a67faf56c7c]: Commencement: Reg. 1 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
 
-[^key-6cd3240f542ca010d7e479a05e177387]: Commencement: Reg. 2 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
+[^c-6cd3240f542ca010d7e479a05e177387]: Commencement: Reg. 2 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
 
 [^f00006]: Footnote: O.J. No. L194, 25.7.75, p. 26
 
@@ -368,31 +368,31 @@ Copies of the Directives may be obtained from The Stationery Office Ltd, 16 Arth
 
 [^f00008]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-303ae5647a1588c8b41c0295c51eb304]: Commencement: Reg. 3 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
+[^c-303ae5647a1588c8b41c0295c51eb304]: Commencement: Reg. 3 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
 
-[^key-c67aeb40f7ff9d6dcbd9d3aa6f754aaa]: Commencement: Reg. 4 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
+[^c-c67aeb40f7ff9d6dcbd9d3aa6f754aaa]: Commencement: Reg. 4 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
 
-[^key-e6d5d3e9d26a9ae6868bd21482ed477e]: Commencement: Reg. 5 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
+[^c-e6d5d3e9d26a9ae6868bd21482ed477e]: Commencement: Reg. 5 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
 
 [^f00009]: Footnote: O.J. No. L194, 25.7.75, p. 26
 
-[^key-eb4315da3ee2b2dd579e177749ad3ae3]: Commencement: Reg. 6 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
+[^c-eb4315da3ee2b2dd579e177749ad3ae3]: Commencement: Reg. 6 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
 
-[^key-fdc35a5157f974152331728c877eff09]: Commencement: Reg. 7 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
+[^c-fdc35a5157f974152331728c877eff09]: Commencement: Reg. 7 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
 
-[^key-770c281dfe5cab3e627183eafb0e6eaf]: Commencement: Reg. 8 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
+[^c-770c281dfe5cab3e627183eafb0e6eaf]: Commencement: Reg. 8 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
 
-[^key-5652ee407087354154bec05191675e48]: Commencement: Reg. 9 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
+[^c-5652ee407087354154bec05191675e48]: Commencement: Reg. 9 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
 
-[^key-e2f875504a7cba1a2b7b5355eac7ad65]: Commencement: Reg. 10 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
+[^c-e2f875504a7cba1a2b7b5355eac7ad65]: Commencement: Reg. 10 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
 
-[^key-f809153ac773e4260d268f09be422f5a]: Commencement: Reg. 11 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
+[^c-f809153ac773e4260d268f09be422f5a]: Commencement: Reg. 11 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
 
-[^key-aa63748f4aff0397833573e7bf58863d]: Commencement: Reg. 12 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
+[^c-aa63748f4aff0397833573e7bf58863d]: Commencement: Reg. 12 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
 
 [^f00010]: Footnote: [S.R. 1995 No. 11](https://www.legislation.gov.uk/nisr/1995/11)
 
-[^key-0a598a3659dc562d40c228d3fc6e56fb]: Commencement: Sch. 1 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
+[^c-0a598a3659dc562d40c228d3fc6e56fb]: Commencement: Sch. 1 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/603/regulation/1)
 
 [^f01003]: Footnote: (O)
 

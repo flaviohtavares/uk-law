@@ -22,9 +22,9 @@ summary: ''
 
 (1) Where—
 
-- (a) an application for planning permission to develop land to which this subsection applies is made by statutory undertakers and is referred to the Scottish Ministers[^c950268] under Part III, or[^key-93d2b43ae807ebf80358d2be176471f5]
-- (b) an appeal is made to the Scottish Ministers under that Part from the decision on such an application, [^key-5e2203f4b0e62406f34a06b8fba21508]...
-- (c)[^key-5e2203f4b0e62406f34a06b8fba21508] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) an application for planning permission to develop land to which this subsection applies is made by statutory undertakers and is referred to the Scottish Ministers[^c950268] under Part III, or[^c-93d2b43ae807ebf80358d2be176471f5]
+- (b) an appeal is made to the Scottish Ministers under that Part from the decision on such an application, [^c-5e2203f4b0e62406f34a06b8fba21508]...
+- (c)[^c-5e2203f4b0e62406f34a06b8fba21508] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 the application or appeal shall be dealt with by the Scottish Ministers[^c950270].
 
@@ -41,9 +41,9 @@ the application or appeal shall be dealt with by the Scottish Ministers[^c950270
 
 [^c950268]: Textual amendment: Words in s. 218(1) substituted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 127(4)(a)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/127/4/a); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
-[^key-93d2b43ae807ebf80358d2be176471f5]: Textual amendment: Word in [s. 218(1)(a)](https://www.legislation.gov.uk/ukpga/1997/8/section/218/1/a) inserted (2.2.2013) by [The Planning etc. (Scotland) Act 2006 (Supplementary and Consequential Provisions) Order 2013 (S.S.I. 2013/26)](https://www.legislation.gov.uk/ssi/2013/26), [arts. 1](https://www.legislation.gov.uk/ssi/2013/26/article/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2013/26/article/2/6/a)
+[^c-93d2b43ae807ebf80358d2be176471f5]: Textual amendment: Word in [s. 218(1)(a)](https://www.legislation.gov.uk/ukpga/1997/8/section/218/1/a) inserted (2.2.2013) by [The Planning etc. (Scotland) Act 2006 (Supplementary and Consequential Provisions) Order 2013 (S.S.I. 2013/26)](https://www.legislation.gov.uk/ssi/2013/26), [arts. 1](https://www.legislation.gov.uk/ssi/2013/26/article/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2013/26/article/2/6/a)
 
-[^key-5e2203f4b0e62406f34a06b8fba21508]: Textual amendment: [S. 218(1)(c)](https://www.legislation.gov.uk/ukpga/1997/8/section/218/1/c) omitted (2.2.2013) by virtue of [The Planning etc. (Scotland) Act 2006 (Supplementary and Consequential Provisions) Order 2013 (S.S.I. 2013/26)](https://www.legislation.gov.uk/ssi/2013/26), [arts. 1](https://www.legislation.gov.uk/ssi/2013/26/article/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2013/26/article/2/6/b)
+[^c-5e2203f4b0e62406f34a06b8fba21508]: Textual amendment: [S. 218(1)(c)](https://www.legislation.gov.uk/ukpga/1997/8/section/218/1/c) omitted (2.2.2013) by virtue of [The Planning etc. (Scotland) Act 2006 (Supplementary and Consequential Provisions) Order 2013 (S.S.I. 2013/26)](https://www.legislation.gov.uk/ssi/2013/26), [arts. 1](https://www.legislation.gov.uk/ssi/2013/26/article/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2013/26/article/2/6/b)
 
 [^c950270]: Textual amendment: Words in s. 218(1) substituted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 127(4)(a)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/127/4/a); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178)
 

@@ -148,7 +148,7 @@ after “fire” insert “ and rescue ”.
 
 ### The Housing (Scotland) Act 1987 (c. 26)
 
-**13.**[^key-f098bf0a4d4a632c749a52b78f3c5fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-f098bf0a4d4a632c749a52b78f3c5fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Housing (Scotland) Act 1988 (c. 43)
 
@@ -239,4 +239,4 @@ after “fire” insert “ and rescue ”.
 
 ## Annotations
 
-[^key-f098bf0a4d4a632c749a52b78f3c5fb1]: Textual amendment: [Sch. 3 para. 13](https://www.legislation.gov.uk/asp/2005/5/schedule/3/paragraph/13) repealed (1.8.2016) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 2 para. 16](https://www.legislation.gov.uk/asp/2014/14/schedule/2/paragraph/16); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2014/264/article/4))
+[^c-f098bf0a4d4a632c749a52b78f3c5fb1]: Textual amendment: [Sch. 3 para. 13](https://www.legislation.gov.uk/asp/2005/5/schedule/3/paragraph/13) repealed (1.8.2016) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 2 para. 16](https://www.legislation.gov.uk/asp/2014/14/schedule/2/paragraph/16); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2014/264/article/4))

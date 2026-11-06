@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Out-of-area placement[^key-4bbaf53aafc100d7322cadf03a22c051]
+## 91. Out-of-area placement[^c-4bbaf53aafc100d7322cadf03a22c051]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bbaf53aafc100d7322cadf03a22c051]: Commencement: [S. 91](https://www.legislation.gov.uk/anaw/2014/7/section/91) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 42](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/42)
+[^c-4bbaf53aafc100d7322cadf03a22c051]: Commencement: [S. 91](https://www.legislation.gov.uk/anaw/2014/7/section/91) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 42](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/42)

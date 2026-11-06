@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Leaving eligible employment[^key-e9c7286c57c48b290df9856b94b2f84f]
+## 6. Leaving eligible employment[^c-e9c7286c57c48b290df9856b94b2f84f]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9c7286c57c48b290df9856b94b2f84f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/292/regulation/6) in force at 1.1.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/a)
+[^c-e9c7286c57c48b290df9856b94b2f84f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/292/regulation/6) in force at 1.1.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/a)

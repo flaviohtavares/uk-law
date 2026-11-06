@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53A. Stamp duty land tax[^key-05ccc86aec92912e64c5246f35c86655]
+## 53A. Stamp duty land tax[^c-05ccc86aec92912e64c5246f35c86655]
 
 *Extent: E+W+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05ccc86aec92912e64c5246f35c86655]: Textual amendment: S. 53A inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/26)
+[^c-05ccc86aec92912e64c5246f35c86655]: Textual amendment: S. 53A inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/26)

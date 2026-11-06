@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10A — Variations to a UK marketing authorisation[^key-ca0b896e8612cedd3ad822a7c9ddb60e]
+## SCHEDULE 10A — Variations to a UK marketing authorisation[^c-ca0b896e8612cedd3ad822a7c9ddb60e]
 
 *Extent: E+W+S+N.I.*
 
@@ -263,4 +263,4 @@ Where requested to do so by the licensing authority, the holder must supply to t
 
 ## Annotations
 
-[^key-ca0b896e8612cedd3ad822a7c9ddb60e]: Textual amendment: [Sch. 10A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/10A) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2019/775/schedule/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ca0b896e8612cedd3ad822a7c9ddb60e]: Textual amendment: [Sch. 10A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/10A) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2019/775/schedule/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

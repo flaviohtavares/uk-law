@@ -44,10 +44,10 @@ summary: ''
 - (a) in the case of a complaint permitted by paragraph (3)(a), the date on which the employee is notified of the decision on the appeal, and
 - (b) in the case of a complaint permitted by paragraph (3)(b), the date on which the breach concerned was committed.
 
-(7)[^key-10ffb203deda0d5ceb73a278219dc292] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (5)(a).
+(7)[^c-10ffb203deda0d5ceb73a278219dc292] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (5)(a).
 
 ## Annotations
 
 [^c22340191]: Textual amendment: [2002 NI 2](https://www.legislation.gov.uk/nisi/2002)
 
-[^key-10ffb203deda0d5ceb73a278219dc292]: Textual amendment: [Art. 112H(7)](https://www.legislation.gov.uk/nisi/1996/1919/article/112H/7) added (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 36](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/36); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-10ffb203deda0d5ceb73a278219dc292]: Textual amendment: [Art. 112H(7)](https://www.legislation.gov.uk/nisi/1996/1919/article/112H/7) added (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 36](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/36); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)

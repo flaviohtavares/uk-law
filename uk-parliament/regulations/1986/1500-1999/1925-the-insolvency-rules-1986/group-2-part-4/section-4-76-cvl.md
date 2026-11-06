@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.76-CVL. Particulars of creditor's claim[^key-d071d7aaabc0a4216e2b123a38f090ae]
+## 4.76-CVL. Particulars of creditor's claim[^c-d071d7aaabc0a4216e2b123a38f090ae]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The liquidator, or the convener or chairman of any meeting, may, if he thinks it
 
 ## Annotations
 
-[^key-d071d7aaabc0a4216e2b123a38f090ae]: Commencement: [Rule 4.76CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.76CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-d071d7aaabc0a4216e2b123a38f090ae]: Commencement: [Rule 4.76CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.76CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

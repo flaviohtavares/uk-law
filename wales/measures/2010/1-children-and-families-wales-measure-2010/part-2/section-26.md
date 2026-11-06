@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Applications for registration: day care for children[^key-a2c4a8b2f038a9468036ce61bdba0a1e]
+## 26. Applications for registration: day care for children[^c-a2c4a8b2f038a9468036ce61bdba0a1e]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2c4a8b2f038a9468036ce61bdba0a1e]: Commencement: [S. 26](https://www.legislation.gov.uk/mwa/2010/1/section/26) in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/wsi/2010/2582), [art. 2](https://www.legislation.gov.uk/wsi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/wsi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/wsi/2010/2582/schedule/3))
+[^c-a2c4a8b2f038a9468036ce61bdba0a1e]: Commencement: [S. 26](https://www.legislation.gov.uk/mwa/2010/1/section/26) in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/wsi/2010/2582), [art. 2](https://www.legislation.gov.uk/wsi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/wsi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/wsi/2010/2582/schedule/3))

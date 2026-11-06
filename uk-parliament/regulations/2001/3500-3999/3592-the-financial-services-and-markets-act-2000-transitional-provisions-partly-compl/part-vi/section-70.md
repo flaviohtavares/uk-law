@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Power to order restitution[^key-02a5afcdf04adcdc3d02fbd6b5fc0d13]
+## 70. Power to order restitution[^c-02a5afcdf04adcdc3d02fbd6b5fc0d13]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02a5afcdf04adcdc3d02fbd6b5fc0d13]: Commencement: Art. 70 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-02a5afcdf04adcdc3d02fbd6b5fc0d13]: Commencement: Art. 70 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

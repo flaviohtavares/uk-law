@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Deprivation[^key-70d1138137305a631e8194682c602088]
+## 32. Deprivation[^c-70d1138137305a631e8194682c602088]
 
 *Extent: N.I.*
 
-(1) If the person convicted of an offence under any of sections 4, 5, 6(1), (2), (11) and (15), 7, 8[^key-8d877346553fbbac5a71b53d12c39964] , 9, 10(6), 12(6) and 14 is the owner of an animal in relation to which the offence was committed, the court by or before which that person is convicted may, instead of or in addition to dealing with that person in any other way, make an order depriving that person of ownership of the animal and for its disposal.
+(1) If the person convicted of an offence under any of sections 4, 5, 6(1), (2), (11) and (15), 7, 8[^c-8d877346553fbbac5a71b53d12c39964] , 9, 10(6), 12(6) and 14 is the owner of an animal in relation to which the offence was committed, the court by or before which that person is convicted may, instead of or in addition to dealing with that person in any other way, make an order depriving that person of ownership of the animal and for its disposal.
 
 (2) Where the owner of an animal is convicted of an offence under section 33(9) because ownership of the animal is in breach of a disqualification under section 33(2), the court by or before which that person is convicted may, instead of or in addition to dealing with that person in any other way, make an order depriving that person of ownership of the animal and for its disposal.
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-70d1138137305a631e8194682c602088]: Modification: S. 32 applied (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [17](https://www.legislation.gov.uk/nisr/2013/43/regulation/17)
+[^c-70d1138137305a631e8194682c602088]: Modification: S. 32 applied (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [17](https://www.legislation.gov.uk/nisr/2013/43/regulation/17)
 
-[^key-8d877346553fbbac5a71b53d12c39964]: Textual amendment: Word in [s. 32(1)](https://www.legislation.gov.uk/nia/2011/16/section/32/1) substituted (1.8.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 48(5)(a)](https://www.legislation.gov.uk/nia/2016/21/section/48/5/a), [61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2); [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 2](https://www.legislation.gov.uk/nisr/2016/248/article/2)
+[^c-8d877346553fbbac5a71b53d12c39964]: Textual amendment: Word in [s. 32(1)](https://www.legislation.gov.uk/nia/2011/16/section/32/1) substituted (1.8.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 48(5)(a)](https://www.legislation.gov.uk/nia/2016/21/section/48/5/a), [61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2); [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 2](https://www.legislation.gov.uk/nisr/2016/248/article/2)

@@ -33,28 +33,28 @@ of 21 November 2017
 
 establishing a discard plan as regards salmon in the Baltic Sea (revoked)
 
-[^key-f01e3e1dbe4d04607a99f7a234a12bd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f01e3e1dbe4d04607a99f7a234a12bd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter and scope[^key-f01e3e1dbe4d04607a99f7a234a12bd7]
+## Article 1. Subject matter and scope[^c-f01e3e1dbe4d04607a99f7a234a12bd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-f01e3e1dbe4d04607a99f7a234a12bd7]
+## Article 2. Definitions[^c-f01e3e1dbe4d04607a99f7a234a12bd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Survivability exemption[^key-f01e3e1dbe4d04607a99f7a234a12bd7]
+## Article 3. Survivability exemption[^c-f01e3e1dbe4d04607a99f7a234a12bd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force[^key-f01e3e1dbe4d04607a99f7a234a12bd7]
+## Article 4. Entry into force[^c-f01e3e1dbe4d04607a99f7a234a12bd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f01e3e1dbe4d04607a99f7a234a12bd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f01e3e1dbe4d04607a99f7a234a12bd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f01e3e1dbe4d04607a99f7a234a12bd7]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-f01e3e1dbe4d04607a99f7a234a12bd7]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

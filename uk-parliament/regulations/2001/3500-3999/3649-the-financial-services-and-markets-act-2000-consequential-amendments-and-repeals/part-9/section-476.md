@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 476. Assets of persons connected with Bosnian Serb controlled areas: definition of “investments”[^key-32636fb5087237134426e13d1418d051]
+## 476. Assets of persons connected with Bosnian Serb controlled areas: definition of “investments”[^c-32636fb5087237134426e13d1418d051]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In paragraph (4) of article 6 of the Former Yugoslavia (United Nations Sanctions
 
 ## Annotations
 
-[^key-32636fb5087237134426e13d1418d051]: Commencement: Art. 476 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-32636fb5087237134426e13d1418d051]: Commencement: Art. 476 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -28,7 +28,7 @@ summary: ''
 - (d) any sums received by the Board in its capacity as an approved regulator by virtue of rules within section 64(2)(f) (practising fees etc);
 - (e) any sums received by the Board in its capacity as a licensing authority by virtue of its licensing rules within paragraph 1, 4, 6, 7 or 21 of Schedule 11 or by virtue of paragraph 17 or 18 of Schedule 14;
 - (f) any sums received by the Board in its capacity as a licensing authority under sections 95 to 97 (financial penalties and interest);
-- (g)[^key-0399f2c961589be714ee2993601d8b77] any charges received by the OLC by virtue of rules under section 136 (charges payable by respondents), together with any interest payable in accordance with those rules;
+- (g)[^c-0399f2c961589be714ee2993601d8b77] any charges received by the OLC by virtue of rules under section 136 (charges payable by respondents), together with any interest payable in accordance with those rules;
 - (h) any amount payable to the OLC in accordance with scheme rules within subsection (3)(i) of section 133 (costs of OLC payable by the complainant or the respondent in relation to a complaint), together with any interest payable on such an amount under subsection (6) of that section;
 - (i) any amount payable to the OLC by virtue of standard terms within section 166(8);
 - (j) any sum received by the Board in accordance with rules under section 173 (the levy);
@@ -41,16 +41,16 @@ summary: ''
 
 - (a) paragraph 3(3)(d) of Schedule 4 (application fees in respect of designation as approved regulator);
 - (b) section 45(3)(b) (application fees in respect of cancellation of designation as approved regulator);
-- (c)[^key-8148b5d852655626e7e238c0b2d1aeba] paragraph 1(4)(d) of Schedule 10 (application fees in respect of designation as licensing authority);
-- (d)[^key-8148b5d852655626e7e238c0b2d1aeba] section 76(3)(b) (application fees in respect of cancellation of designation as licensing authority);
-- (e)[^key-0b3124e8150a7c3da44d48d17d961d79] paragraph 3(4)(c) of Schedule 18 (application fees in respect of designation as qualifying regulator for the purposes of Part 5 of the Immigration and Asylum Act 1999 (c. 33)).
+- (c)[^c-8148b5d852655626e7e238c0b2d1aeba] paragraph 1(4)(d) of Schedule 10 (application fees in respect of designation as licensing authority);
+- (d)[^c-8148b5d852655626e7e238c0b2d1aeba] section 76(3)(b) (application fees in respect of cancellation of designation as licensing authority);
+- (e)[^c-0b3124e8150a7c3da44d48d17d961d79] paragraph 3(4)(c) of Schedule 18 (application fees in respect of designation as qualifying regulator for the purposes of Part 5 of the Immigration and Asylum Act 1999 (c. 33)).
 
 ## Annotations
 
 [^c20334631]: Commencement: S. 175 partly in force; s. 175 not in force at Royal Assent see s. 211; s. 175(1)(c)(k)(m)(n) in force at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(f)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/f); s. 175(1)(a)(b)(d)(j)(l)(2)(a)(b) in force at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(e)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/e) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
-[^key-0399f2c961589be714ee2993601d8b77]: Commencement: S. 175(1)(g)(h)(i) in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
+[^c-0399f2c961589be714ee2993601d8b77]: Commencement: S. 175(1)(g)(h)(i) in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
 
-[^key-8148b5d852655626e7e238c0b2d1aeba]: Commencement: S. 175(2)(c)(d) in force at 2.8.2010 by [S.I. 2010/1118](https://www.legislation.gov.uk/uksi/2010/1118), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1118/article/2/a)
+[^c-8148b5d852655626e7e238c0b2d1aeba]: Commencement: S. 175(2)(c)(d) in force at 2.8.2010 by [S.I. 2010/1118](https://www.legislation.gov.uk/uksi/2010/1118), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1118/article/2/a)
 
-[^key-0b3124e8150a7c3da44d48d17d961d79]: Commencement: S. 175(2)(e) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/720/article/2/a)
+[^c-0b3124e8150a7c3da44d48d17d961d79]: Commencement: S. 175(2)(e) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/720/article/2/a)

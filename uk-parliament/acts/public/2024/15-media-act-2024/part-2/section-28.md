@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Prominence on television selection services[^key-f076850bd9c0fd9adc0cbc9e9bf5e69f]
+## 28. Prominence on television selection services[^c-f076850bd9c0fd9adc0cbc9e9bf5e69f]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-e16c11ea963cf8a1682730ebfe9bbb7d] In the Communications Act 2003, after Part 3 insert—
+(1)[^c-e16c11ea963cf8a1682730ebfe9bbb7d] In the Communications Act 2003, after Part 3 insert—
 
 > **Part 3A — Prominence on television selection services**
 >
@@ -1098,12 +1098,12 @@ summary: ''
 > - (a) is made available for use only by persons who subscribe to the service (whether for a period or in relation to a particular occasion) or who otherwise request its provision, but
 > - (b) is a service the facility of subscribing to which, or of otherwise requesting its provision, is offered or made available to members of the public.
 
-(2)[^key-b1916cb12538d83b61a7e18cb994b649] Schedule 3 contains further amendments relating to prominence on television selection services.
+(2)[^c-b1916cb12538d83b61a7e18cb994b649] Schedule 3 contains further amendments relating to prominence on television selection services.
 
 ## Annotations
 
-[^key-f076850bd9c0fd9adc0cbc9e9bf5e69f]: Commencement: S. 28 in force at Royal Assent for specified purposes, see [s. 55(1)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/a)
+[^c-f076850bd9c0fd9adc0cbc9e9bf5e69f]: Commencement: S. 28 in force at Royal Assent for specified purposes, see [s. 55(1)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/a)
 
-[^key-e16c11ea963cf8a1682730ebfe9bbb7d]: Commencement: [S. 28(1)](https://www.legislation.gov.uk/ukpga/2024/15/section/28/1) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/h) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/2))
+[^c-e16c11ea963cf8a1682730ebfe9bbb7d]: Commencement: [S. 28(1)](https://www.legislation.gov.uk/ukpga/2024/15/section/28/1) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/h) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/2))
 
-[^key-b1916cb12538d83b61a7e18cb994b649]: Commencement: [S. 28(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/28/2) in force at 23.8.2024 in so far as not already in force by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/h)
+[^c-b1916cb12538d83b61a7e18cb994b649]: Commencement: [S. 28(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/28/2) in force at 23.8.2024 in so far as not already in force by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/h)

@@ -38,166 +38,166 @@ laying down implementing technical standards with regard to the procedures, form
 
 (Text with EEA relevance) (revoked)
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-befbc2c281b819047f37718b4c1eb4f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-befbc2c281b819047f37718b4c1eb4f6]
+## Article 1. Subject matter[^c-befbc2c281b819047f37718b4c1eb4f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Public disclosure formats[^key-befbc2c281b819047f37718b4c1eb4f6]
+## Article 2. Public disclosure formats[^c-befbc2c281b819047f37718b4c1eb4f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Currency[^key-befbc2c281b819047f37718b4c1eb4f6]
+## Article 3. Currency[^c-befbc2c281b819047f37718b4c1eb4f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Templates for the solvency and financial condition report of individual undertakings[^key-befbc2c281b819047f37718b4c1eb4f6]
+## Article 4. Templates for the solvency and financial condition report of individual undertakings[^c-befbc2c281b819047f37718b4c1eb4f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Templates for the solvency and financial condition report of groups[^key-befbc2c281b819047f37718b4c1eb4f6]
+## Article 5. Templates for the solvency and financial condition report of groups[^c-befbc2c281b819047f37718b4c1eb4f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. References to other documents in the solvency and financial condition report[^key-befbc2c281b819047f37718b4c1eb4f6]
+## Article 6. References to other documents in the solvency and financial condition report[^c-befbc2c281b819047f37718b4c1eb4f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Consistency of information[^key-befbc2c281b819047f37718b4c1eb4f6]
+## Article 7. Consistency of information[^c-befbc2c281b819047f37718b4c1eb4f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Means of disclosure of the group and single solvency and financial condition report[^key-befbc2c281b819047f37718b4c1eb4f6]
+## Article 8. Means of disclosure of the group and single solvency and financial condition report[^c-befbc2c281b819047f37718b4c1eb4f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Involvement of the subsidiaries in the single solvency and financial condition report[^key-befbc2c281b819047f37718b4c1eb4f6]
+## Article 9. Involvement of the subsidiaries in the single solvency and financial condition report[^c-befbc2c281b819047f37718b4c1eb4f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Entry into force[^key-befbc2c281b819047f37718b4c1eb4f6]
+## Article 10. Entry into force[^c-befbc2c281b819047f37718b4c1eb4f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-befbc2c281b819047f37718b4c1eb4f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-befbc2c281b819047f37718b4c1eb4f6]
+## ANNEX I[^c-befbc2c281b819047f37718b4c1eb4f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Instructions regarding the templates for the solvency and condition report of individual undertakings[^key-befbc2c281b819047f37718b4c1eb4f6]
+## ANNEX II — Instructions regarding the templates for the solvency and condition report of individual undertakings[^c-befbc2c281b819047f37718b4c1eb4f6]
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]
+[^c-befbc2c281b819047f37718b4c1eb4f6]
 
 This Annex contains additional instructions in relation to the templates included in Annex I of this Regulation. The first column of the tables identifies the items to be disclosed by identifying the columns and rows as showed in the template in Annex I.
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]
+[^c-befbc2c281b819047f37718b4c1eb4f6]
 
 Templates which shall be filled in in accordance with the instructions of the different sections of this Annex are referred to as ‘this template’ throughout the text of the Annex.
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.02.01. — Balance sheet**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.02.01. — Balance sheet**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.05.01. — Premiums, claims and expenses by line of business**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.05.01. — Premiums, claims and expenses by line of business**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.05.02 — Premiums, claims and expenses by country**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.05.02 — Premiums, claims and expenses by country**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.12.01 — Life and Health SLT Technical Provisions**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.12.01 — Life and Health SLT Technical Provisions**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.17.01 — Non–life Technical Provisions**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.17.01 — Non–life Technical Provisions**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.19.01. — Non–life insurance claims**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.19.01. — Non–life insurance claims**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.22.01 — Impact of long term guarantees measures and transitionals**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.22.01 — Impact of long term guarantees measures and transitionals**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.23.01. Own Funds**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.23.01. Own Funds**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.25.01. — Solvency Capital Requirement — for undertakings on Standard Formula**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.25.01. — Solvency Capital Requirement — for undertakings on Standard Formula**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.25.02. — Solvency Capital Requirement — for undertakings using the standard formula and partial internal model**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.25.02. — Solvency Capital Requirement — for undertakings using the standard formula and partial internal model**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.25.03. — Solvency Capital Requirement — for undertakings using full internal model**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.25.03. — Solvency Capital Requirement — for undertakings using full internal model**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.28.01. — Minimum Capital Requirement — Only life or only non–life insurance or reinsurance activity**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.28.01. — Minimum Capital Requirement — Only life or only non–life insurance or reinsurance activity**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.28.02. — Minimum Capital Requirement — Both life and non–life insurance activity**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.28.02. — Minimum Capital Requirement — Both life and non–life insurance activity**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Instructions regarding the templates for the solvency and condition report of groups[^key-befbc2c281b819047f37718b4c1eb4f6]
+## ANNEX III — Instructions regarding the templates for the solvency and condition report of groups[^c-befbc2c281b819047f37718b4c1eb4f6]
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]
+[^c-befbc2c281b819047f37718b4c1eb4f6]
 
 This Annex contains additional instructions in relation to the templates included in Annex I of this Regulation. The first column of the tables identifies the items to be disclosed by identifying the columns and rows as showed in the template in Annex I.
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]
+[^c-befbc2c281b819047f37718b4c1eb4f6]
 
 Templates which shall be filled in in accordance with the instructions of the different sections of this Annex are referred to as ‘this template’ throughout the text of the Annex.
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.02.01. — Balance sheet**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.02.01. — Balance sheet**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.05.01. — Premiums, claims and expenses by line of business**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.05.01. — Premiums, claims and expenses by line of business**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.05.02 — Premiums, claims and expenses by country**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.05.02 — Premiums, claims and expenses by country**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.22.01 — Impact of long term guarantees measures and transitional**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.22.01 — Impact of long term guarantees measures and transitional**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.23.01. Own Funds**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.23.01. Own Funds**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.25.01. — Solvency Capital Requirement — for groups on Standard Formula**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.25.01. — Solvency Capital Requirement — for groups on Standard Formula**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.25.02. — Solvency Capital Requirement — for groups using the standard formula and partial internal model**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.25.02. — Solvency Capital Requirement — for groups using the standard formula and partial internal model**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.25.03. — Solvency Capital Requirement — for groups using full internal model**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.25.03. — Solvency Capital Requirement — for groups using full internal model**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]**S.32.01 — Undertakings in the scope of the group**
+[^c-befbc2c281b819047f37718b4c1eb4f6]**S.32.01 — Undertakings in the scope of the group**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-befbc2c281b819047f37718b4c1eb4f6]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))
+[^c-befbc2c281b819047f37718b4c1eb4f6]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))

@@ -46,7 +46,7 @@ Coming into force
 
 The Lord Chancellor, in exercise of the powers conferred upon him by sections 92 and 108(6) of the Courts Act 2003[^f00001], and section 128 of the Finance Act 1990[^f00002] with the consent of the Treasury under section 92(1) of the Courts Act 2003 and after consultation with the Lord Chief Justice, the Master of the Rolls, the President of the Family Division, the Vice-Chancellor, the Head of Civil Justice and the Deputy Head of Civil Justice and the Civil Justice Council under section 92(5) and (6) of the Courts Act 2003, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-2bde0905b6b09938767b815971ceefa5]
+## 1. Citation, commencement and interpretation[^c-2bde0905b6b09938767b815971ceefa5]
 
 (1) This Order may be cited as the Non-Contentious Probate Fees Order 2004 and shall come into force on the 4th January 2005.
 
@@ -64,15 +64,15 @@ The Lord Chancellor, in exercise of the powers conferred upon him by sections 92
 - (e) “district registry” includes the probate registry of Wales, any district probate registry and any sub-registry attached to it;
 - (f) “the principal registry” means the Principal Registry of the Family Division and any sub-registry attached to it.
 
-## 2. Fees to be taken[^key-1a17ce39a6a5d81efa4ac75e05895088]
+## 2. Fees to be taken[^c-1a17ce39a6a5d81efa4ac75e05895088]
 
 The fees set out in column 2 of Schedule 1 to this Order shall be taken in the principal registry and in each district registry in respect of the items described in column 1 in accordance with and subject to any directions specified in column 1.
 
-## 3. Exclusion of certain death gratuities[^key-80ba2f2c27000f4fb5c0012f80def15d]
+## 3. Exclusion of certain death gratuities[^c-80ba2f2c27000f4fb5c0012f80def15d]
 
 In determining the value of any personal estate for the purposes of this Order there shall be excluded the value of a death gratuity payable under section 17(2) of the Judicial Pensions Act 1981[^f00005] or section 4(3) of the Judicial Pensions and Retirement Act 1993[^f00006], or payable to the personal representatives of a deceased civil servant by virtue of a scheme made under section 1 of the Superannuation Act 1972[^f00007].
 
-## 4. Remission of fees[^key-01ebdce8f67c50d06aa5ddc8add68b03]
+## 4. Remission of fees[^c-01ebdce8f67c50d06aa5ddc8add68b03]
 
 Schedule 1A applies for the purpose of ascertaining whether a party is entitled to a remission or part remission of a fee prescribed by this Order.
 
@@ -80,19 +80,19 @@ Schedule 1A applies for the purpose of ascertaining whether a party is entitled 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-bb6cf8ad450f5f76d364ae620f3aad4a]
+## 6.[^c-bb6cf8ad450f5f76d364ae620f3aad4a]
 
 (1) Where by any convention entered into by Her Majesty with any foreign power it is provided that no fee shall be required to be paid in respect of any proceedings, the fees specified in this Order shall not be taken in respect of those proceedings.
 
 (2) Where any application for a grant is withdrawn before the issue of a grant, a registrar may reduce or remit a fee.
 
-(3)[^key-18d3248cee8ad3b6b1caf91e06afa168] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-18d3248cee8ad3b6b1caf91e06afa168] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Special exemption—Armed Forces[^key-c3378071871a6642b64e2909a1c02d42]
+## 7. Special exemption—Armed Forces[^c-c3378071871a6642b64e2909a1c02d42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7A. Special exemption – emergency service personnel and armed forces[^key-30eb78be5ab0a487af3ede70956ed10d]
+## 7A. Special exemption – emergency service personnel and armed forces[^c-30eb78be5ab0a487af3ede70956ed10d]
 
 No fee is payable on an application for a grant relating to an estate where reliefs apply under one of the following sections of the Inheritance Tax Act 1984[^f00007]—
 
@@ -100,7 +100,7 @@ No fee is payable on an application for a grant relating to an estate where reli
 - (b) section 154 (death on active service, etc.);
 - (c) section 155A (death of constables and service personnel targeted because of their status).
 
-## 8. Revocation[^key-17a3ef6f4d134a2d62bf0bed59969569]
+## 8. Revocation[^c-17a3ef6f4d134a2d62bf0bed59969569]
 
 The Order specified in Schedule 2 in so far as it was made under section 128 of the Finance Act 1990 shall be revoked.
 
@@ -118,31 +118,31 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Dated 25th November 2004
 
-## SCHEDULE 1 — Fees to be taken[^key-f997a0f6373e128d0afa45185debf329]
+## SCHEDULE 1 — Fees to be taken[^c-f997a0f6373e128d0afa45185debf329]
 
 Article 2
 
 | *Column 1*<br>*Number and description of fee* | *Column 2*<br>*Amount of fee* |
 | --- | --- |
-| **1 Application for a grant**<br>On an application for a grant (or for resealing a grant) other than on an application to which fee 3 applies, where the assessed value of the estate exceeds £5,000. | £526[^key-34478c25ff85aa5f4aa4fe3f7c6f82ed] |
-| [^key-c45a27763f3c4739be7f18b265042502]... | [^key-c45a27763f3c4739be7f18b265042502]. . . |
-| **3 Special applications**<br>3.1 For a duplicate or second or subsequent grant (including one following a revoked grant) in respect of the same deceased person, other than a grant preceded only by a grant limited to settled land, to trust property, or to part of the estate. | £22[^key-6346a1b276d6ceb5ce63f78085c03ac3] |
-| [^key-163416bf12f94b8e449057ae84fb483e]. . . | [^key-163416bf12f94b8e449057ae84fb483e]. . . |
-| **4 Caveats**<br>For the entry or the extension of a caveat. | £4[^key-942839d023c5801ff24e13aa63f3fce0] |
-| **5 Search**<br>On an application for a standing search to be carried out in an estate, for each period of six months including the issue of a copy grant and will, if any (irrespective of the number of pages). | £4[^key-c02e4a6b5a92e3ac403fe87f27276f4b] |
-| **6 Deposit of wills**<br>On depositing a will for safe custody in the principal registry or a district registry. | £24[^key-35f30c0aefa3a58a2cb9c3bc318ab83e] |
-| **7 Inspection**<br>On inspection of any will or other document retained by the registry (in the presence of an officer of the registry). | £24[^key-73772efda22892401c50aa77851c7eec] |
-| **8 Copy documents[^key-e84a2503221e037750a22e533381a1c8]**<br>On a request for— |  |
-| (a) a copy of a document of a specific individual named in the request—[^key-7b9bd64a2ede63148110987a049bc895] |  |
+| **1 Application for a grant**<br>On an application for a grant (or for resealing a grant) other than on an application to which fee 3 applies, where the assessed value of the estate exceeds £5,000. | £526[^c-34478c25ff85aa5f4aa4fe3f7c6f82ed] |
+| [^c-c45a27763f3c4739be7f18b265042502]... | [^c-c45a27763f3c4739be7f18b265042502]. . . |
+| **3 Special applications**<br>3.1 For a duplicate or second or subsequent grant (including one following a revoked grant) in respect of the same deceased person, other than a grant preceded only by a grant limited to settled land, to trust property, or to part of the estate. | £22[^c-6346a1b276d6ceb5ce63f78085c03ac3] |
+| [^c-163416bf12f94b8e449057ae84fb483e]. . . | [^c-163416bf12f94b8e449057ae84fb483e]. . . |
+| **4 Caveats**<br>For the entry or the extension of a caveat. | £4[^c-942839d023c5801ff24e13aa63f3fce0] |
+| **5 Search**<br>On an application for a standing search to be carried out in an estate, for each period of six months including the issue of a copy grant and will, if any (irrespective of the number of pages). | £4[^c-c02e4a6b5a92e3ac403fe87f27276f4b] |
+| **6 Deposit of wills**<br>On depositing a will for safe custody in the principal registry or a district registry. | £24[^c-35f30c0aefa3a58a2cb9c3bc318ab83e] |
+| **7 Inspection**<br>On inspection of any will or other document retained by the registry (in the presence of an officer of the registry). | £24[^c-73772efda22892401c50aa77851c7eec] |
+| **8 Copy documents[^c-e84a2503221e037750a22e533381a1c8]**<br>On a request for— |  |
+| (a) a copy of a document of a specific individual named in the request—[^c-7b9bd64a2ede63148110987a049bc895] |  |
 | (i) where the request accompanies an application to which fee 1 or 3.1 applies; | £2 (for each copy provided, whether or not as a sealed or certified copy) |
 | (ii) in any other case; | £16 (for each copy provided, whether or not as a sealed or certified copy) |
 | (b) copies of documents of individuals not named in the request, where the copies are made available in electronic form. | £1.50 (for each copy made available, whether or not as a certified copy) |
-| [^key-1cb28d225e875b6befe81e9d94745130]. . . | [^key-1cb28d225e875b6befe81e9d94745130]. . . |
-| [^key-9a6391c391f060d829758616c9ea60bf]. . . | [^key-9a6391c391f060d829758616c9ea60bf]. . . |
+| [^c-1cb28d225e875b6befe81e9d94745130]. . . | [^c-1cb28d225e875b6befe81e9d94745130]. . . |
+| [^c-9a6391c391f060d829758616c9ea60bf]. . . | [^c-9a6391c391f060d829758616c9ea60bf]. . . |
 | **10 Determination of costs**<br>For determining costs. | The same fees as are payable from time to time for determining costs under the Civil Proceedings Fees Order 2008, (the relevant fees are set out in fee 5 in Schedule 1 to that Order) |
-| **11 Settling documents**<br>For perusing and settling citations, advertisements, oaths, affidavits, or other documents, for each document settled. | £5[^key-16917f00bde7a192cf40a8337f4303ad] |
+| **11 Settling documents**<br>For perusing and settling citations, advertisements, oaths, affidavits, or other documents, for each document settled. | £5[^c-16917f00bde7a192cf40a8337f4303ad] |
 
-## SCHEDULE 1A — Remissions and Part Remissions[^key-127dce9d51fe963af86847827d87f700]
+## SCHEDULE 1A — Remissions and Part Remissions[^c-127dce9d51fe963af86847827d87f700]
 
 Article 4
 
@@ -164,7 +164,7 @@ Article 4
 - “child support maintenance” has the meaning given in section 3(6) of the Child Support Act 1991;
 - “couple” has the meaning given in section 3(5A) of the Tax Credits Act 2002;
 - “disposable capital” has the meaning given in paragraph 5;
-- “excluded benefits” means any of the following—[^key-680d77caf50046c5c2fbc6ab657aaa02]
+- “excluded benefits” means any of the following—[^c-680d77caf50046c5c2fbc6ab657aaa02]
   - (a) any of the following benefits payable under the Social Security Contributions and Benefits Act 1992 or the corresponding provisions of the Social Security Contributions and Benefits (Northern Ireland) Act 1992—
     - (i) attendance allowance under section 64;
     - (ii) severe disablement allowance;
@@ -173,17 +173,17 @@ Article 4
     - (v) constant attendance allowance under section 104 as an increase to a disablement pension;
     - (vi) any payment made out of the social fund;
     - (vii) housing benefit;
-    - (viii) [^key-d1b8d806017b8c655cf3cf1f85ab3e2d]...
+    - (viii) [^c-d1b8d806017b8c655cf3cf1f85ab3e2d]...
   - (b) any of the following benefit payable under the Tax Credits Act 2002—
     - (i) any disabled child element or severely disabled child element of the child tax credit;
-    - (ii) any childcare element , disabled element or severely disabled element[^key-dab68582b644a443e04ffdea128f1718] of the working tax credit;
-  - (c) any direct payment made under the Community Care, Services for Carers and Children’s Services (Direct Payments) (England) Regulations 2009, [^key-7500e08bc98a0f9b035b680ef66d36a8]... the Carers and Direct Payments Act (Northern Ireland) 2002, [^key-83c8cdf3eee5c3d5ae09bf2f8b0af4e0]... section 12B(1) of the Social Work (Scotland) Act 1968 or under regulations made under sections 50 to 53 of the Social Services and Well-being (Wales) Act 2014[^key-84e8967c489eb945b3b291f2fb564e42];
-  - (d) [^key-05e1b01825c5babe3f1dc374ed8e781a]...
+    - (ii) any childcare element , disabled element or severely disabled element[^c-dab68582b644a443e04ffdea128f1718] of the working tax credit;
+  - (c) any direct payment made under the Community Care, Services for Carers and Children’s Services (Direct Payments) (England) Regulations 2009, [^c-7500e08bc98a0f9b035b680ef66d36a8]... the Carers and Direct Payments Act (Northern Ireland) 2002, [^c-83c8cdf3eee5c3d5ae09bf2f8b0af4e0]... section 12B(1) of the Social Work (Scotland) Act 1968 or under regulations made under sections 50 to 53 of the Social Services and Well-being (Wales) Act 2014[^c-84e8967c489eb945b3b291f2fb564e42];
+  - (d) [^c-05e1b01825c5babe3f1dc374ed8e781a]...
   - (e) any exceptionally severe disablement allowance paid under the Personal Injuries (Civilians) Scheme 1983;
   - (f) any payments from the Industrial Injuries Disablement Benefit;
   - (g) any pension paid under the Naval, Military and Air Forces etc. (Disablement and Death) Service Pension Order 2006;
   - (h) any payment made from the Independent Living Funds;
-  - (i) any payment of bereavement support payment under section 30 of the Pensions Act 2014;[^key-6569a4dc12955501d0dcf09828858c18]
+  - (i) any payment of bereavement support payment under section 30 of the Pensions Act 2014;[^c-6569a4dc12955501d0dcf09828858c18]
   - (j) any financial support paid under an agreement for the care of a foster child;
   - (k) any housing credit element of pension credit;
   - (l) any armed forces independence payment;
@@ -229,15 +229,15 @@ Subject to paragraph 4, a party satisfies the disposable capital test if the fee
 - (b) £1,421 to £5,000 and the party’s disposal capital is less than three times the amount of the fee payable;
 - (c) £5,001 or more and the party’s disposable capital is less than £16,000.
 
-#### 4. Disposable capital test - deeming provisions for those aged 66 or over[^key-ec5dc7f124f1a9ab912c2825e3ad9e92]
+#### 4. Disposable capital test - deeming provisions for those aged 66 or over[^c-ec5dc7f124f1a9ab912c2825e3ad9e92]
 
-Subject to paragraph 14, if a party or their partner is aged 66[^key-77aea00b2fa8a5d8d4554c4c5b2f1b16] or over, that party satisfies the disposable capital test if that party’s disposable capital is less than £16,000.
+Subject to paragraph 14, if a party or their partner is aged 66[^c-77aea00b2fa8a5d8d4554c4c5b2f1b16] or over, that party satisfies the disposable capital test if that party’s disposable capital is less than £16,000.
 
 #### 5. Disposable capital
 
-(1)[^key-392fba334ee6e7b92c9b3bda9ca44da7] Subject to paragraph 14, disposable capital is the value of any savings and investments[^key-be28eed5cd00bdf2a850db8f0e3da703] belonging to the party on the date on which the application for remission is made, unless it is treated as income by this Order, or it is disregarded as excluded disposable capital.
+(1)[^c-392fba334ee6e7b92c9b3bda9ca44da7] Subject to paragraph 14, disposable capital is the value of any savings and investments[^c-be28eed5cd00bdf2a850db8f0e3da703] belonging to the party on the date on which the application for remission is made, unless it is treated as income by this Order, or it is disregarded as excluded disposable capital.
 
-(2)[^key-7d6b429e32c4422444822ee205dfdc07] In sub-paragraph (1), reference to “**savings and investments**” includes, but is not limited to—
+(2)[^c-7d6b429e32c4422444822ee205dfdc07] In sub-paragraph (1), reference to “**savings and investments**” includes, but is not limited to—
 
 - (a) bonds;
 - (b) stocks and shares; and
@@ -245,12 +245,12 @@ Subject to paragraph 14, if a party or their partner is aged 66[^key-77aea00b2fa
 
 #### 6. Disposable capital - non-money resources
 
-The value of any savings and investments that do[^key-72ed65d9e3dba678ec3121120eebf5b9] not consist of money is calculated as the amount which that resource would realise if sold, less—
+The value of any savings and investments that do[^c-72ed65d9e3dba678ec3121120eebf5b9] not consist of money is calculated as the amount which that resource would realise if sold, less—
 
 - (a) 10% of the sale value; and
 - (b) the amount of any borrowing secured against that resource that would be repayable on sale.
 
-#### 7. Disposable Capital - resources held outside the United Kingdom[^key-0cb7f39464a164e8201a94ea2678b4e9]
+#### 7. Disposable Capital - resources held outside the United Kingdom[^c-0cb7f39464a164e8201a94ea2678b4e9]
 
 (1) Capital resources in a country outside the United Kingdom count towards disposable capital.
 
@@ -264,17 +264,17 @@ Where disposable capital is held in currency other than sterling, the cost of an
 
 #### 9. Disposable capital - jointly owned resources
 
-Where any savings and investments are[^key-673aac296f4c5560842c0135a3148499] owned jointly or in common, there is a presumption that the resource is owned in equal shares, unless evidence to the contrary is produced.
+Where any savings and investments are[^c-673aac296f4c5560842c0135a3148499] owned jointly or in common, there is a presumption that the resource is owned in equal shares, unless evidence to the contrary is produced.
 
 #### 10. Excluded disposable capital
 
 The following things are excluded disposable capital—
 
 - (a) a property which is the main or only dwelling occupied by the party;
-- (b)[^key-744680234f42d75dee8a12ef80589dad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-b267fde318b67161ab295e01d5058fa7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-744680234f42d75dee8a12ef80589dad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b267fde318b67161ab295e01d5058fa7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) any vehicle, the sale of which would leave the party, or their partner, without motor transport;
-- (e)[^key-d82b721f3c14575621c1fa92e59fc024] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-d82b721f3c14575621c1fa92e59fc024] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) the capital value of the party’s or their partner’s business, where the party or their partner is self-employed;
 - (g) the capital value of any funds or other assets held in trust, where the party or their partner is a beneficiary without entitlement to advances of any trust capital;
 - (h) a jobseeker’s back to work bonus;
@@ -283,11 +283,11 @@ The following things are excluded disposable capital—
 - (k) the capital held in any personal or occupational pension scheme;
 - (l) any cash value payable on surrender of a contract of insurance;
 - (m) any capital payment made out of the Independent Living Funds;
-- (n)[^key-065d33e9916b03374996fa36e3e7cc43] any bereavement support payment in respect of the rate set out in regulation 3(2) or (5) of the Bereavement Support Payment Regulations 2017 (rate of bereavement support payment);
+- (n)[^c-065d33e9916b03374996fa36e3e7cc43] any bereavement support payment in respect of the rate set out in regulation 3(2) or (5) of the Bereavement Support Payment Regulations 2017 (rate of bereavement support payment);
 - (o) any capital insurance or endowment lump sum payments that have been paid as a result of illness, disability or death;
 - (p) any student loan or student grant;
 - (q) any payments under the criminal injuries compensation scheme;
-- (r)[^key-416540a2ff7a99dff38c8c519cf3a143] any payments under the Armed Forces Compensation Scheme;
+- (r)[^c-416540a2ff7a99dff38c8c519cf3a143] any payments under the Armed Forces Compensation Scheme;
 - (s) any compensation paid as a result of the Grenfell Tower fire;
 - (t) any payments under the Lambeth Children’s Homes Redress Scheme;
 - (u) any payments from the London Emergencies Trust;
@@ -303,7 +303,7 @@ The following things are excluded disposable capital—
 - (ze) any payments under the We Love Manchester Emergency Fund; and
 - (zf) any compensation paid under the Windrush Compensation Scheme (Expenditure) Act 2020.
 
-### Remission of fees - gross monthly income[^key-920c7351961cd4f93d8e675c88daaacf]
+### Remission of fees - gross monthly income[^c-920c7351961cd4f93d8e675c88daaacf]
 
 *Extent: E+W+S+N.I.*
 
@@ -353,7 +353,7 @@ The result is the applicable threshold for a party that is part of a couple and 
 
 (6) No party is required to pay an amount that is more than the fee payable for which the application for remission has been made, if no remission had been granted.
 
-#### 11A. Gross monthly income— passporting benefits[^key-b4ed6f3812296fdf988ee13c5a179d36]
+#### 11A. Gross monthly income— passporting benefits[^c-b4ed6f3812296fdf988ee13c5a179d36]
 
 (1) If a party satisfies the disposable capital test, no fee is payable under this Order if, at the time when the fee would otherwise be payable, the party is in receipt of any passporting benefits.
 
@@ -365,11 +365,11 @@ The result is the applicable threshold for a party that is part of a couple and 
 - (d) pension credit (Guarantee Credit); and
 - (e) universal credit with additional gross annual earnings of less than £6,000.
 
-#### 12. Gross monthly income cap[^key-503889cab01757c9d84eb90adb55db3d]
+#### 12. Gross monthly income cap[^c-503889cab01757c9d84eb90adb55db3d]
 
 No remission is available if a party’s gross monthly income exceeds the applicable threshold determined in accordance with paragraph 11(2), plus the sum of £3,000.
 
-#### 13. Gross monthly income[^key-e9398772e352468a4fb482e8450e67ef]
+#### 13. Gross monthly income[^c-e9398772e352468a4fb482e8450e67ef]
 
 (1) Subject to paragraph 14, “**gross monthly income**” means the total sum of—
 
@@ -403,13 +403,13 @@ No remission is available if a party’s gross monthly income exceeds the applic
 
 - (a) indicate the fee to which the application relates;
 - (b) declare the amount of their disposable capital; and
-- (c) provide documentary evidence of their gross monthly income and the number of children relevant for the purposes of paragraph 11[^key-37d294933b8cdb389f001bedd2c4bbe3].
+- (c) provide documentary evidence of their gross monthly income and the number of children relevant for the purposes of paragraph 11[^c-37d294933b8cdb389f001bedd2c4bbe3].
 
-(3) Where an application for remission of a fee is made on [^key-51953a648eab50aab511ab01ad41ff09]... the date on which a fee is payable, the date for payment of the fee is disapplied.
+(3) Where an application for remission of a fee is made on [^c-51953a648eab50aab511ab01ad41ff09]... the date on which a fee is payable, the date for payment of the fee is disapplied.
 
 (4) Where an application for remission is refused, or if part remission of a fee is granted, the amount of the fee which remains unremitted must be paid within the period notified in writing to the party.
 
-(5)[^key-88365a41d346d6759359512f938f6442] The Lord Chancellor may by written notice request such additional information or evidence as is required to assess the party’s entitlement to fee remission under this Order, and the period specified by such notice must not be less than 7 days, beginning with the day after the date on which the notice is sent.
+(5)[^c-88365a41d346d6759359512f938f6442] The Lord Chancellor may by written notice request such additional information or evidence as is required to assess the party’s entitlement to fee remission under this Order, and the period specified by such notice must not be less than 7 days, beginning with the day after the date on which the notice is sent.
 
 (6) An application for remission of a fee may be treated as abandoned and no further action taken, if a party fails to provide the information requested under sub-paragraph (5) within the period specified by that notice, or such other extended period as may be agreed in writing at the Lord Chancellor’s discretion.
 
@@ -421,7 +421,7 @@ A fee specified in this Order may be remitted where the Lord Chancellor is satis
 
 (1) Subject to sub-paragraph (3), where a party pays a fee at a time when that party would have been entitled to a remission if they had provided the documentary evidence required by paragraph 15, the fee, or the amount by which the fee would have been reduced as the case may be, must be refunded if documentary evidence relating to the time when the fee became payable is provided at a later date.
 
-(2) Subject to sub-paragraph (3), where a fee has been paid at a time when the Lord Chancellor, if all the circumstances had been known, would have remitted the fee under paragraph 16[^key-51d85a47e9c021cf8ebeb79d6ec82c31], the fee or the amount by which the fee would have been reduced, as the case may be, must be refunded to the party.
+(2) Subject to sub-paragraph (3), where a fee has been paid at a time when the Lord Chancellor, if all the circumstances had been known, would have remitted the fee under paragraph 16[^c-51d85a47e9c021cf8ebeb79d6ec82c31], the fee or the amount by which the fee would have been reduced, as the case may be, must be refunded to the party.
 
 (3) No refund shall be made under this paragraph unless the party who paid the fee applies within 3 months of the date on which the fee was paid.
 
@@ -459,7 +459,7 @@ No remissions or refunds are available in respect of the fee payable for—
 - (a) copy or duplicate documents;
 - (b) searches.
 
-## SCHEDULE 2 — ORDER REVOKED[^key-04a205042b75095f52c761ff2c9e6269]
+## SCHEDULE 2 — ORDER REVOKED[^c-04a205042b75095f52c761ff2c9e6269]
 
 Article 8
 
@@ -489,15 +489,15 @@ A Regulatory Impact Assessment of the costs and benefits of this Order (and othe
 
 [^f00002]: Footnote: [1990 c. 29](https://www.legislation.gov.uk/ukpga/1990/29).
 
-[^key-2bde0905b6b09938767b815971ceefa5]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2004/3120/article/1) in force at 4.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/article/1/1)
+[^c-2bde0905b6b09938767b815971ceefa5]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2004/3120/article/1) in force at 4.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/article/1/1)
 
 [^f00003]: Footnote: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51).
 
 [^f00004]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
 
-[^key-1a17ce39a6a5d81efa4ac75e05895088]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2004/3120/article/2) in force at 4.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/article/1/1)
+[^c-1a17ce39a6a5d81efa4ac75e05895088]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2004/3120/article/2) in force at 4.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/article/1/1)
 
-[^key-80ba2f2c27000f4fb5c0012f80def15d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2004/3120/article/3) in force at 4.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/article/1/1)
+[^c-80ba2f2c27000f4fb5c0012f80def15d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2004/3120/article/3) in force at 4.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/article/1/1)
 
 [^f00005]: Footnote: [1981 c. 20](https://www.legislation.gov.uk/ukpga/1981/20).
 
@@ -505,108 +505,108 @@ A Regulatory Impact Assessment of the costs and benefits of this Order (and othe
 
 [^f00007]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 
-[^key-01ebdce8f67c50d06aa5ddc8add68b03]: Textual amendment: [Arts. 4](https://www.legislation.gov.uk/uksi/2004/3120/article/4), [5](https://www.legislation.gov.uk/uksi/2004/3120/article/5) substituted (1.10.2007) by [The Non-Contentious Probate Fees (Amendment) Order 2007 (S.I. 2007/2174)](https://www.legislation.gov.uk/uksi/2007/2174), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2174/article/1), [3](https://www.legislation.gov.uk/uksi/2007/2174/article/3)
+[^c-01ebdce8f67c50d06aa5ddc8add68b03]: Textual amendment: [Arts. 4](https://www.legislation.gov.uk/uksi/2004/3120/article/4), [5](https://www.legislation.gov.uk/uksi/2004/3120/article/5) substituted (1.10.2007) by [The Non-Contentious Probate Fees (Amendment) Order 2007 (S.I. 2007/2174)](https://www.legislation.gov.uk/uksi/2007/2174), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2174/article/1), [3](https://www.legislation.gov.uk/uksi/2007/2174/article/3)
 
 [^M_F_b9d21fc6-25d0-4ecd-e412-b7faaddbf174]: Textual amendment: Art. 5 omitted (7.10.2013) by [The Courts and Tribunals Fee Remissions Order 2013 (S.I. 2013/2302)](https://www.legislation.gov.uk/uksi/2013/2302), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/2302/article/3/3) (with [art. 13](https://www.legislation.gov.uk/uksi/2013/2302/article/13))
 
-[^key-bb6cf8ad450f5f76d364ae620f3aad4a]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2004/3120/article/6) in force at 4.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/article/1/1)
+[^c-bb6cf8ad450f5f76d364ae620f3aad4a]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2004/3120/article/6) in force at 4.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/article/1/1)
 
-[^key-18d3248cee8ad3b6b1caf91e06afa168]: Textual amendment: [Art. 6(3)](https://www.legislation.gov.uk/uksi/2004/3120/article/6/3) omitted (1.5.2024) by virtue of [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2024 (S.I. 2024/476)](https://www.legislation.gov.uk/uksi/2024/476), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/476/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2024/476/article/3/2)
+[^c-18d3248cee8ad3b6b1caf91e06afa168]: Textual amendment: [Art. 6(3)](https://www.legislation.gov.uk/uksi/2004/3120/article/6/3) omitted (1.5.2024) by virtue of [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2024 (S.I. 2024/476)](https://www.legislation.gov.uk/uksi/2024/476), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/476/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2024/476/article/3/2)
 
-[^key-c3378071871a6642b64e2909a1c02d42]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2004/3120/article/7) omitted (1.5.2024) by virtue of [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2024 (S.I. 2024/476)](https://www.legislation.gov.uk/uksi/2024/476), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/476/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2024/476/article/3/3)
+[^c-c3378071871a6642b64e2909a1c02d42]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2004/3120/article/7) omitted (1.5.2024) by virtue of [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2024 (S.I. 2024/476)](https://www.legislation.gov.uk/uksi/2024/476), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/476/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2024/476/article/3/3)
 
-[^key-30eb78be5ab0a487af3ede70956ed10d]: Textual amendment: [Art. 7A](https://www.legislation.gov.uk/uksi/2004/3120/article/7A) inserted (17.11.2025) by [The Court and Public Guardian Fees (Miscellaneous Amendments) Order 2025 (S.I. 2025/1126)](https://www.legislation.gov.uk/uksi/2025/1126), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2025/1126/article/2/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/1126/article/3/2)
+[^c-30eb78be5ab0a487af3ede70956ed10d]: Textual amendment: [Art. 7A](https://www.legislation.gov.uk/uksi/2004/3120/article/7A) inserted (17.11.2025) by [The Court and Public Guardian Fees (Miscellaneous Amendments) Order 2025 (S.I. 2025/1126)](https://www.legislation.gov.uk/uksi/2025/1126), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2025/1126/article/2/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/1126/article/3/2)
 
-[^key-17a3ef6f4d134a2d62bf0bed59969569]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2004/3120/article/8) in force at 4.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/article/1/1)
+[^c-17a3ef6f4d134a2d62bf0bed59969569]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2004/3120/article/8) in force at 4.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/article/1/1)
 
-[^key-f997a0f6373e128d0afa45185debf329]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) substituted (4.4.2011) by [The Non-Contentious Probate Fees (Amendment) Order 2011 (S.I. 2011/588)](https://www.legislation.gov.uk/uksi/2011/588), [art. 1](https://www.legislation.gov.uk/uksi/2011/588/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/588/schedule)
+[^c-f997a0f6373e128d0afa45185debf329]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) substituted (4.4.2011) by [The Non-Contentious Probate Fees (Amendment) Order 2011 (S.I. 2011/588)](https://www.legislation.gov.uk/uksi/2011/588), [art. 1](https://www.legislation.gov.uk/uksi/2011/588/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/588/schedule)
 
-[^key-34478c25ff85aa5f4aa4fe3f7c6f82ed]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) substituted (13.7.2026) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2026 (S.I. 2026/642)](https://www.legislation.gov.uk/uksi/2026/642), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2026/642/article/3/2/a) (as amended by [S.I. 2026/665](https://www.legislation.gov.uk/uksi/2026/665), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/665/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/665/article/2))
+[^c-34478c25ff85aa5f4aa4fe3f7c6f82ed]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) substituted (13.7.2026) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2026 (S.I. 2026/642)](https://www.legislation.gov.uk/uksi/2026/642), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2026/642/article/3/2/a) (as amended by [S.I. 2026/665](https://www.legislation.gov.uk/uksi/2026/665), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/665/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/665/article/2))
 
-[^key-c45a27763f3c4739be7f18b265042502]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) Table omitted (26.1.2022) by virtue of [The Non-Contentious Probate Fees (Amendment) Order 2021 (S.I. 2021/1451)](https://www.legislation.gov.uk/uksi/2021/1451), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1451/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/1451/article/2/3)
+[^c-c45a27763f3c4739be7f18b265042502]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) Table omitted (26.1.2022) by virtue of [The Non-Contentious Probate Fees (Amendment) Order 2021 (S.I. 2021/1451)](https://www.legislation.gov.uk/uksi/2021/1451), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1451/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/1451/article/2/3)
 
-[^key-6346a1b276d6ceb5ce63f78085c03ac3]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) substituted (13.7.2026) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2026 (S.I. 2026/642)](https://www.legislation.gov.uk/uksi/2026/642), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2026/642/article/3/2/b) (as amended by [S.I. 2026/665](https://www.legislation.gov.uk/uksi/2026/665), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/665/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/665/article/2))
+[^c-6346a1b276d6ceb5ce63f78085c03ac3]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) substituted (13.7.2026) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2026 (S.I. 2026/642)](https://www.legislation.gov.uk/uksi/2026/642), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2026/642/article/3/2/b) (as amended by [S.I. 2026/665](https://www.legislation.gov.uk/uksi/2026/665), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/665/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/665/article/2))
 
-[^key-163416bf12f94b8e449057ae84fb483e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) Table omitted (8.4.2025) by virtue of [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2025 (S.I. 2025/351)](https://www.legislation.gov.uk/uksi/2025/351), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/351/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2025/351/article/2/a)
+[^c-163416bf12f94b8e449057ae84fb483e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) Table omitted (8.4.2025) by virtue of [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2025 (S.I. 2025/351)](https://www.legislation.gov.uk/uksi/2025/351), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/351/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2025/351/article/2/a)
 
-[^key-942839d023c5801ff24e13aa63f3fce0]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) substituted (13.7.2026) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2026 (S.I. 2026/642)](https://www.legislation.gov.uk/uksi/2026/642), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2026/642/article/3/2/c) (as amended by [S.I. 2026/665](https://www.legislation.gov.uk/uksi/2026/665), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/665/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/665/article/2))
+[^c-942839d023c5801ff24e13aa63f3fce0]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) substituted (13.7.2026) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2026 (S.I. 2026/642)](https://www.legislation.gov.uk/uksi/2026/642), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2026/642/article/3/2/c) (as amended by [S.I. 2026/665](https://www.legislation.gov.uk/uksi/2026/665), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/665/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/665/article/2))
 
-[^key-c02e4a6b5a92e3ac403fe87f27276f4b]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) substituted (13.7.2026) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2026 (S.I. 2026/642)](https://www.legislation.gov.uk/uksi/2026/642), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2), [3(2)(d)](https://www.legislation.gov.uk/uksi/2026/642/article/3/2/d) (as amended by [S.I. 2026/665](https://www.legislation.gov.uk/uksi/2026/665), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/665/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/665/article/2))
+[^c-c02e4a6b5a92e3ac403fe87f27276f4b]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) substituted (13.7.2026) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2026 (S.I. 2026/642)](https://www.legislation.gov.uk/uksi/2026/642), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2), [3(2)(d)](https://www.legislation.gov.uk/uksi/2026/642/article/3/2/d) (as amended by [S.I. 2026/665](https://www.legislation.gov.uk/uksi/2026/665), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/665/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/665/article/2))
 
-[^key-35f30c0aefa3a58a2cb9c3bc318ab83e]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) substituted (13.7.2026) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2026 (S.I. 2026/642)](https://www.legislation.gov.uk/uksi/2026/642), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2), [3(2)(e)](https://www.legislation.gov.uk/uksi/2026/642/article/3/2/e) (as amended by [S.I. 2026/665](https://www.legislation.gov.uk/uksi/2026/665), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/665/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/665/article/2))
+[^c-35f30c0aefa3a58a2cb9c3bc318ab83e]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) substituted (13.7.2026) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2026 (S.I. 2026/642)](https://www.legislation.gov.uk/uksi/2026/642), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2), [3(2)(e)](https://www.legislation.gov.uk/uksi/2026/642/article/3/2/e) (as amended by [S.I. 2026/665](https://www.legislation.gov.uk/uksi/2026/665), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/665/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/665/article/2))
 
-[^key-73772efda22892401c50aa77851c7eec]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) substituted (13.7.2026) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2026 (S.I. 2026/642)](https://www.legislation.gov.uk/uksi/2026/642), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2), [3(2)(f)](https://www.legislation.gov.uk/uksi/2026/642/article/3/2/f) (as amended by [S.I. 2026/665](https://www.legislation.gov.uk/uksi/2026/665), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/665/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/665/article/2))
+[^c-73772efda22892401c50aa77851c7eec]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) substituted (13.7.2026) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2026 (S.I. 2026/642)](https://www.legislation.gov.uk/uksi/2026/642), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2), [3(2)(f)](https://www.legislation.gov.uk/uksi/2026/642/article/3/2/f) (as amended by [S.I. 2026/665](https://www.legislation.gov.uk/uksi/2026/665), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/665/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/665/article/2))
 
-[^key-e84a2503221e037750a22e533381a1c8]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) substituted (17.11.2025) by [The Court and Public Guardian Fees (Miscellaneous Amendments) Order 2025 (S.I. 2025/1126)](https://www.legislation.gov.uk/uksi/2025/1126), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2025/1126/article/2/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/1126/article/3/3)
+[^c-e84a2503221e037750a22e533381a1c8]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) substituted (17.11.2025) by [The Court and Public Guardian Fees (Miscellaneous Amendments) Order 2025 (S.I. 2025/1126)](https://www.legislation.gov.uk/uksi/2025/1126), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2025/1126/article/2/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/1126/article/3/3)
 
-[^key-7b9bd64a2ede63148110987a049bc895]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) substituted (13.7.2026) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2026 (S.I. 2026/642)](https://www.legislation.gov.uk/uksi/2026/642), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2), [3(2)(g)](https://www.legislation.gov.uk/uksi/2026/642/article/3/2/g) (as amended by [S.I. 2026/665](https://www.legislation.gov.uk/uksi/2026/665), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/665/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/665/article/2))
+[^c-7b9bd64a2ede63148110987a049bc895]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) substituted (13.7.2026) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2026 (S.I. 2026/642)](https://www.legislation.gov.uk/uksi/2026/642), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2), [3(2)(g)](https://www.legislation.gov.uk/uksi/2026/642/article/3/2/g) (as amended by [S.I. 2026/665](https://www.legislation.gov.uk/uksi/2026/665), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/665/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/665/article/2))
 
-[^key-1cb28d225e875b6befe81e9d94745130]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) Table omitted (3.8.2020) by virtue of [The Court Fees (Miscellaneous Amendments) Order 2020 (S.I. 2020/720)](https://www.legislation.gov.uk/uksi/2020/720), [arts. 1](https://www.legislation.gov.uk/uksi/2020/720/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/720/article/2/4/b)
+[^c-1cb28d225e875b6befe81e9d94745130]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) Table omitted (3.8.2020) by virtue of [The Court Fees (Miscellaneous Amendments) Order 2020 (S.I. 2020/720)](https://www.legislation.gov.uk/uksi/2020/720), [arts. 1](https://www.legislation.gov.uk/uksi/2020/720/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/720/article/2/4/b)
 
-[^key-9a6391c391f060d829758616c9ea60bf]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) Table omitted (8.4.2025) by virtue of [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2025 (S.I. 2025/351)](https://www.legislation.gov.uk/uksi/2025/351), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/351/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2025/351/article/2/b)
+[^c-9a6391c391f060d829758616c9ea60bf]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) Table omitted (8.4.2025) by virtue of [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2025 (S.I. 2025/351)](https://www.legislation.gov.uk/uksi/2025/351), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/351/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2025/351/article/2/b)
 
-[^key-16917f00bde7a192cf40a8337f4303ad]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) Table substituted (8.4.2025) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2025 (S.I. 2025/351)](https://www.legislation.gov.uk/uksi/2025/351), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/351/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/351/schedule/1)
+[^c-16917f00bde7a192cf40a8337f4303ad]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1) Table substituted (8.4.2025) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2025 (S.I. 2025/351)](https://www.legislation.gov.uk/uksi/2025/351), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/351/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/351/schedule/1)
 
-[^key-127dce9d51fe963af86847827d87f700]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A) substituted (7.10.2013) by [The Courts and Tribunals Fee Remissions Order 2013 (S.I. 2013/2302)](https://www.legislation.gov.uk/uksi/2013/2302), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2302/article/3/2) (with [art. 13](https://www.legislation.gov.uk/uksi/2013/2302/article/13))
+[^c-127dce9d51fe963af86847827d87f700]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A) substituted (7.10.2013) by [The Courts and Tribunals Fee Remissions Order 2013 (S.I. 2013/2302)](https://www.legislation.gov.uk/uksi/2013/2302), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2302/article/3/2) (with [art. 13](https://www.legislation.gov.uk/uksi/2013/2302/article/13))
 
-[^key-680d77caf50046c5c2fbc6ab657aaa02]: Textual amendment: Words in [Sch. 1A para. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/1/1) substituted (6.4.2014) by [The Courts and Tribunals Fees (Miscellaneous Amendments) Order 2014 (S.I. 2014/590)](https://www.legislation.gov.uk/uksi/2014/590), [arts. 1](https://www.legislation.gov.uk/uksi/2014/590/article/1), [6](https://www.legislation.gov.uk/uksi/2014/590/article/6)
+[^c-680d77caf50046c5c2fbc6ab657aaa02]: Textual amendment: Words in [Sch. 1A para. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/1/1) substituted (6.4.2014) by [The Courts and Tribunals Fees (Miscellaneous Amendments) Order 2014 (S.I. 2014/590)](https://www.legislation.gov.uk/uksi/2014/590), [arts. 1](https://www.legislation.gov.uk/uksi/2014/590/article/1), [6](https://www.legislation.gov.uk/uksi/2014/590/article/6)
 
-[^key-d1b8d806017b8c655cf3cf1f85ab3e2d]: Textual amendment: Words in [Sch. 1A para. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/1/1) omitted (27.11.2023) by virtue of [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/2/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-d1b8d806017b8c655cf3cf1f85ab3e2d]: Textual amendment: Words in [Sch. 1A para. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/1/1) omitted (27.11.2023) by virtue of [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/2/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-dab68582b644a443e04ffdea128f1718]: Textual amendment: Word in [Sch. 1A para. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/1/1) inserted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/2/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-dab68582b644a443e04ffdea128f1718]: Textual amendment: Word in [Sch. 1A para. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/1/1) inserted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/2/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-7500e08bc98a0f9b035b680ef66d36a8]: Textual amendment: Words in [Sch. 1A para. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/1/1) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 189(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/189/a)
+[^c-7500e08bc98a0f9b035b680ef66d36a8]: Textual amendment: Words in [Sch. 1A para. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/1/1) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 189(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/189/a)
 
-[^key-83c8cdf3eee5c3d5ae09bf2f8b0af4e0]: Textual amendment: Word in [Sch. 1A para. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/1/1) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 189(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/189/b)
+[^c-83c8cdf3eee5c3d5ae09bf2f8b0af4e0]: Textual amendment: Word in [Sch. 1A para. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/1/1) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 189(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/189/b)
 
-[^key-84e8967c489eb945b3b291f2fb564e42]: Textual amendment: Words in [Sch. 1A para. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/1/1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 189(c)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/189/c)
+[^c-84e8967c489eb945b3b291f2fb564e42]: Textual amendment: Words in [Sch. 1A para. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/1/1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 189(c)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/189/c)
 
-[^key-05e1b01825c5babe3f1dc374ed8e781a]: Textual amendment: Words in [Sch. 1A para. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/1/1) omitted (27.11.2023) by virtue of [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/2/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-05e1b01825c5babe3f1dc374ed8e781a]: Textual amendment: Words in [Sch. 1A para. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/1/1) omitted (27.11.2023) by virtue of [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/2/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-6569a4dc12955501d0dcf09828858c18]: Textual amendment: Words in [Sch. 1A para. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/1/1) substituted (6.4.2017) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [23(a)](https://www.legislation.gov.uk/uksi/2017/422/article/23/a) (with [arts. 2](https://www.legislation.gov.uk/uksi/2017/422/article/2), [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)); [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2017/297/article/3/1/b)
+[^c-6569a4dc12955501d0dcf09828858c18]: Textual amendment: Words in [Sch. 1A para. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/1/1) substituted (6.4.2017) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [23(a)](https://www.legislation.gov.uk/uksi/2017/422/article/23/a) (with [arts. 2](https://www.legislation.gov.uk/uksi/2017/422/article/2), [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)); [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2017/297/article/3/1/b)
 
 [^M_F_324759b4-f918-4c1c-fae5-390bd231597b]: Textual amendment: Sch. 1A para. 3 substituted (27.11.2023) by virtue of [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)(3)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-ec5dc7f124f1a9ab912c2825e3ad9e92]: Textual amendment: [Sch. 1A para. 4](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/4) heading inserted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(4)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/4/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-ec5dc7f124f1a9ab912c2825e3ad9e92]: Textual amendment: [Sch. 1A para. 4](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/4) heading inserted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(4)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/4/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-77aea00b2fa8a5d8d4554c4c5b2f1b16]: Textual amendment: Word in [Sch. 1A para. 4](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/4) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(4)(b)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/4/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-77aea00b2fa8a5d8d4554c4c5b2f1b16]: Textual amendment: Word in [Sch. 1A para. 4](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/4) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(4)(b)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/4/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-392fba334ee6e7b92c9b3bda9ca44da7]: Textual amendment: [Sch. 1A para. 5](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/5/1) renumbered as Sch. 1A para. 5(1) (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(5)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/5/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-392fba334ee6e7b92c9b3bda9ca44da7]: Textual amendment: [Sch. 1A para. 5](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/5/1) renumbered as Sch. 1A para. 5(1) (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(5)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/5/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-be28eed5cd00bdf2a850db8f0e3da703]: Textual amendment: Words in [Sch. 1A para. 5(1)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/5/1) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(5)(b)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/5/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-be28eed5cd00bdf2a850db8f0e3da703]: Textual amendment: Words in [Sch. 1A para. 5(1)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/5/1) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(5)(b)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/5/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-7d6b429e32c4422444822ee205dfdc07]: Textual amendment: [Sch. 1A para. 5(2)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/5/2) inserted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(5)(c)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/5/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-7d6b429e32c4422444822ee205dfdc07]: Textual amendment: [Sch. 1A para. 5(2)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/5/2) inserted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(5)(c)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/5/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-72ed65d9e3dba678ec3121120eebf5b9]: Textual amendment: Words in [Sch. 1A para. 6](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/6) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(6)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/6) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-72ed65d9e3dba678ec3121120eebf5b9]: Textual amendment: Words in [Sch. 1A para. 6](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/6) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(6)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/6) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-0cb7f39464a164e8201a94ea2678b4e9]: Textual amendment: [Sch. 1A para. 7](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/7) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(7)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/7) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-0cb7f39464a164e8201a94ea2678b4e9]: Textual amendment: [Sch. 1A para. 7](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/7) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(7)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/7) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-673aac296f4c5560842c0135a3148499]: Textual amendment: Words in [Sch. 1A para. 9](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/9) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(8)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/8) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-673aac296f4c5560842c0135a3148499]: Textual amendment: Words in [Sch. 1A para. 9](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/9) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(8)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/8) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-744680234f42d75dee8a12ef80589dad]: Textual amendment: [Sch. 1A para. 10(b)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/10/b) omitted (27.11.2023) by virtue of [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(9)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/9/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-744680234f42d75dee8a12ef80589dad]: Textual amendment: [Sch. 1A para. 10(b)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/10/b) omitted (27.11.2023) by virtue of [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(9)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/9/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-b267fde318b67161ab295e01d5058fa7]: Textual amendment: [Sch. 1A para. 10(c)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/10/c) omitted (27.11.2023) by virtue of [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(9)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/9/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-b267fde318b67161ab295e01d5058fa7]: Textual amendment: [Sch. 1A para. 10(c)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/10/c) omitted (27.11.2023) by virtue of [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(9)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/9/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-d82b721f3c14575621c1fa92e59fc024]: Textual amendment: [Sch. 1A para. 10(e)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/10/e) omitted (27.11.2023) by virtue of [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(9)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/9/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-d82b721f3c14575621c1fa92e59fc024]: Textual amendment: [Sch. 1A para. 10(e)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/10/e) omitted (27.11.2023) by virtue of [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(9)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/9/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-065d33e9916b03374996fa36e3e7cc43]: Textual amendment: [Sch. 1A para. 10(n)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/10/n) substituted (6.4.2017) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [23(b)](https://www.legislation.gov.uk/uksi/2017/422/article/23/b) (with [arts. 2](https://www.legislation.gov.uk/uksi/2017/422/article/2), [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)); [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2017/297/article/3/1/b)
+[^c-065d33e9916b03374996fa36e3e7cc43]: Textual amendment: [Sch. 1A para. 10(n)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/10/n) substituted (6.4.2017) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [23(b)](https://www.legislation.gov.uk/uksi/2017/422/article/23/b) (with [arts. 2](https://www.legislation.gov.uk/uksi/2017/422/article/2), [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)); [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2017/297/article/3/1/b)
 
-[^key-416540a2ff7a99dff38c8c519cf3a143]: Textual amendment: [Sch. 1A para. 10(r)-(zf)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/10/r) inserted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(9)(b)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/9/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-416540a2ff7a99dff38c8c519cf3a143]: Textual amendment: [Sch. 1A para. 10(r)-(zf)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/10/r) inserted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(9)(b)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/9/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-920c7351961cd4f93d8e675c88daaacf]: Textual amendment: [Sch. 1A para. 11](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/11) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(10)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/10) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-920c7351961cd4f93d8e675c88daaacf]: Textual amendment: [Sch. 1A para. 11](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/11) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(10)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/10) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-b4ed6f3812296fdf988ee13c5a179d36]: Textual amendment: [Sch. 1A para. 11A](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/11A) inserted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(11)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/11) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-b4ed6f3812296fdf988ee13c5a179d36]: Textual amendment: [Sch. 1A para. 11A](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/11A) inserted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(11)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/11) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-503889cab01757c9d84eb90adb55db3d]: Textual amendment: [Sch. 1A para. 12](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/12) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(12)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/12) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-503889cab01757c9d84eb90adb55db3d]: Textual amendment: [Sch. 1A para. 12](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/12) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(12)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/12) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-e9398772e352468a4fb482e8450e67ef]: Textual amendment: [Sch. 1A para. 13](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/13) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(13)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/13) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-e9398772e352468a4fb482e8450e67ef]: Textual amendment: [Sch. 1A para. 13](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/13) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(13)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/13) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-37d294933b8cdb389f001bedd2c4bbe3]: Textual amendment: Words in [Sch. 1A para. 15(2)(c)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/15/2/c) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(14)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/14/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-37d294933b8cdb389f001bedd2c4bbe3]: Textual amendment: Words in [Sch. 1A para. 15(2)(c)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/15/2/c) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(14)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/14/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-51953a648eab50aab511ab01ad41ff09]: Textual amendment: Words in [Sch. 1A para. 15(3)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/15/3) omitted (27.11.2023) by virtue of [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(14)(b)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/14/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-51953a648eab50aab511ab01ad41ff09]: Textual amendment: Words in [Sch. 1A para. 15(3)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/15/3) omitted (27.11.2023) by virtue of [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(14)(b)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/14/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-88365a41d346d6759359512f938f6442]: Textual amendment: [Sch. 1A para. 15(5)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/15/5)[(6)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/15/6) inserted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(14)(c)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/14/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-88365a41d346d6759359512f938f6442]: Textual amendment: [Sch. 1A para. 15(5)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/15/5)[(6)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/15/6) inserted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(14)(c)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/14/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-51d85a47e9c021cf8ebeb79d6ec82c31]: Textual amendment: Words in [Sch. 1A para. 17(2)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/17/2) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(15)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/15) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+[^c-51d85a47e9c021cf8ebeb79d6ec82c31]: Textual amendment: Words in [Sch. 1A para. 17(2)](https://www.legislation.gov.uk/uksi/2004/3120/schedule/1A/paragraph/17/2) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(15)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/15) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
 
-[^key-04a205042b75095f52c761ff2c9e6269]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3120/schedule/2) in force at 4.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/article/1/1)
+[^c-04a205042b75095f52c761ff2c9e6269]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3120/schedule/2) in force at 4.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3120/article/1/1)

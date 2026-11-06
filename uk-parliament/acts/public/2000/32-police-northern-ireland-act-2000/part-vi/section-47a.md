@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47A. Appointments to Police Service of Northern Ireland in special circumstances[^key-cccdaf30e962257ec1fdc97c2d42e216]
+## 47A. Appointments to Police Service of Northern Ireland in special circumstances[^c-cccdaf30e962257ec1fdc97c2d42e216]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cccdaf30e962257ec1fdc97c2d42e216]: Textual amendment: S. 47A inserted (8.4.2003) (temp. until 7.4.2005) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 23(3)](https://www.legislation.gov.uk/ukpga/2003/6/section/23/3)
+[^c-cccdaf30e962257ec1fdc97c2d42e216]: Textual amendment: S. 47A inserted (8.4.2003) (temp. until 7.4.2005) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 23(3)](https://www.legislation.gov.uk/ukpga/2003/6/section/23/3)

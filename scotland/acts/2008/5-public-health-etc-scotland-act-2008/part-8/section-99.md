@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Medical use of sunbeds[^key-0c1b2b60181f18ba7aadb668695a1fa7]
+## 99. Medical use of sunbeds[^c-0c1b2b60181f18ba7aadb668695a1fa7]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c1b2b60181f18ba7aadb668695a1fa7]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2008/5/section/99) in force at 1.12.2009 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)
+[^c-0c1b2b60181f18ba7aadb668695a1fa7]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2008/5/section/99) in force at 1.12.2009 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)

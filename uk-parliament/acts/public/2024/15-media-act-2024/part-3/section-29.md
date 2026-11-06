@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Sustainability duty of C4C[^key-6f96643f25167d36581fb6bf37eee4f3][^key-2199dd3734bfae335ee018d615e5ac30]
+## 29. Sustainability duty of C4C[^c-6f96643f25167d36581fb6bf37eee4f3][^c-2199dd3734bfae335ee018d615e5ac30]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6f96643f25167d36581fb6bf37eee4f3]: Commencement: S. 29 not in force at Royal Assent, see [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c)
+[^c-6f96643f25167d36581fb6bf37eee4f3]: Commencement: S. 29 not in force at Royal Assent, see [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c)
 
-[^key-2199dd3734bfae335ee018d615e5ac30]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2024/15/section/29) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/i)
+[^c-2199dd3734bfae335ee018d615e5ac30]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2024/15/section/29) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/i)

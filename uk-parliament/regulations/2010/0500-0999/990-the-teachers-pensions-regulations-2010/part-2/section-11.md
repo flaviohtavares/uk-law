@@ -22,14 +22,14 @@ summary: ''
 
 (1) Where—
 
-- (a) an election under regulation 10 (election for employment to be pensionable) is made by a person in respect of an[^key-99eda3afdb8322904fe89e8a0d1d623f] employment in a capacity mentioned in Part 2 or 3 of Schedule 2, in non-pensionable part-time employment or in non-pensionable post-retirement employment,
+- (a) an election under regulation 10 (election for employment to be pensionable) is made by a person in respect of an[^c-99eda3afdb8322904fe89e8a0d1d623f] employment in a capacity mentioned in Part 2 or 3 of Schedule 2, in non-pensionable part-time employment or in non-pensionable post-retirement employment,
 - (b) (except where the election is made by a person in non-pensionable post-retirement employment) at the same time as notice of the election is given the person making the election and the person's employer request that the Secretary of State backdate the election (by making a determination in accordance with paragraph (2)(b) or (4)(b)) and the Secretary of State agrees to do so,
 - (c) the person making the election and the person's employer inform the Secretary of State that they agree that contributions in accordance with sub-paragraph (d) be paid, and
 - (d) the sum mentioned in paragraph (8) together with interest at the standard rate is paid to the Secretary of State,
 
 the person's relevant employment during the back period is to be treated as pensionable employment.
 
-(2) Where the election is made by a person in respect of an[^key-cbcd0588f618e5a07448712b85d4f68e] employment in a capacity mentioned in Part 2 or 3 of Schedule 2—
+(2) Where the election is made by a person in respect of an[^c-cbcd0588f618e5a07448712b85d4f68e] employment in a capacity mentioned in Part 2 or 3 of Schedule 2—
 
 - (a) “**relevant employment**” means the employment in respect of which the election is made, and
 - (b) the “**back period**” means the period beginning on a date determined by the Secretary of State and ending on the day on which the election has effect.
@@ -55,7 +55,7 @@ the person's relevant employment during the back period is to be treated as pens
 
 - (a) must not be before 1st April 2000, and
 - (b) must be such that the back period does not begin before or during—
-  - (i)[^key-06a5a976f435817f7fa848d5e7cde9a0] any period of any of the person’s opted-out employments, or
+  - (i)[^c-06a5a976f435817f7fa848d5e7cde9a0] any period of any of the person’s opted-out employments, or
   - (ii) any period during which the person was employed in relevant employment by an employer who does not inform the Secretary of State as mentioned in paragraph (1)(c).
 
 (8) The sum is a sum equal to the contributions (due from both the person making the election and the person's employer or employers) which would have been payable to the Secretary of State if the person's relevant employment during the back period had been pensionable employment.
@@ -79,8 +79,8 @@ the person's relevant employment during the back period is to be treated as pens
 
 ## Annotations
 
-[^key-99eda3afdb8322904fe89e8a0d1d623f]: Textual amendment: Words in [reg. 11(1)(a)](https://www.legislation.gov.uk/uksi/2010/990/regulation/11/1/a) inserted (1.10.2012) by [The Teachers’ Pensions (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2270)](https://www.legislation.gov.uk/uksi/2012/2270), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2270/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2012/2270/regulation/8/a)
+[^c-99eda3afdb8322904fe89e8a0d1d623f]: Textual amendment: Words in [reg. 11(1)(a)](https://www.legislation.gov.uk/uksi/2010/990/regulation/11/1/a) inserted (1.10.2012) by [The Teachers’ Pensions (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2270)](https://www.legislation.gov.uk/uksi/2012/2270), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2270/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2012/2270/regulation/8/a)
 
-[^key-cbcd0588f618e5a07448712b85d4f68e]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2010/990/regulation/11/2) inserted (1.10.2012) by [The Teachers’ Pensions (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2270)](https://www.legislation.gov.uk/uksi/2012/2270), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2270/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2012/2270/regulation/8/b)
+[^c-cbcd0588f618e5a07448712b85d4f68e]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2010/990/regulation/11/2) inserted (1.10.2012) by [The Teachers’ Pensions (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2270)](https://www.legislation.gov.uk/uksi/2012/2270), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2270/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2012/2270/regulation/8/b)
 
-[^key-06a5a976f435817f7fa848d5e7cde9a0]: Textual amendment: [Reg. 11(7)(b)(i)](https://www.legislation.gov.uk/uksi/2010/990/regulation/11/7/b/i) substituted (1.10.2012) by [The Teachers’ Pensions (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2270)](https://www.legislation.gov.uk/uksi/2012/2270), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2270/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2012/2270/regulation/8/c)
+[^c-06a5a976f435817f7fa848d5e7cde9a0]: Textual amendment: [Reg. 11(7)(b)(i)](https://www.legislation.gov.uk/uksi/2010/990/regulation/11/7/b/i) substituted (1.10.2012) by [The Teachers’ Pensions (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2270)](https://www.legislation.gov.uk/uksi/2012/2270), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2270/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2012/2270/regulation/8/c)

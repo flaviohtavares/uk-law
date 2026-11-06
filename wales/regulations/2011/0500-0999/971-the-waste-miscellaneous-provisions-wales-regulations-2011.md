@@ -64,7 +64,7 @@ The Schedule, which provides for amendment of the Hazardous Waste (Wales) Regula
 
 In regulation 2(1) of the Landfill Allowances Scheme (Wales) Regulations 2004 [^c20849771], in the definition of “**waste facility**” (“***cyfleuster gwastraff***”), for “Article 1(e) and (f) of Council Directive [75/442/EEC](https://www.legislation.gov.uk/european/directive/1975/0442) on waste”, substitute “ Article 3(19) and (15) of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste ”.
 
-## 4. Amendment of the List of Wastes (Wales) Regulations) 2005[^key-0a0808b67974466c3811880951f0deb6]
+## 4. Amendment of the List of Wastes (Wales) Regulations) 2005[^c-0a0808b67974466c3811880951f0deb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -400,7 +400,7 @@ A full impact assessment of the effect that the provisions of the England and Wa
 
 [^c20849771]: Marginal citation: [S.I. 2004/1490](https://www.legislation.gov.uk/uksi/2004/1490) (W.155), to which there are amendments not relevant to these Regulations.
 
-[^key-0a0808b67974466c3811880951f0deb6]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2011/971/regulation/4) revoked (20.7.2015) by [The Hazardous Waste (Miscellaneous Amendments) (Wales) Regulations 2015 (S.I. 2015/1417)](https://www.legislation.gov.uk/wsi/2015/1417), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1417/regulation/1/2), [7(b)](https://www.legislation.gov.uk/wsi/2015/1417/regulation/7/b)
+[^c-0a0808b67974466c3811880951f0deb6]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2011/971/regulation/4) revoked (20.7.2015) by [The Hazardous Waste (Miscellaneous Amendments) (Wales) Regulations 2015 (S.I. 2015/1417)](https://www.legislation.gov.uk/wsi/2015/1417), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1417/regulation/1/2), [7(b)](https://www.legislation.gov.uk/wsi/2015/1417/regulation/7/b)
 
 [^c20849791]: Marginal citation: [S.I. 2005/2839](https://www.legislation.gov.uk/uksi/2005/2839) (W.203).
 

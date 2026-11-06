@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Modified application of section 59 of the 1965 Act[^key-32a265c75dab5bff37ba374884a5b186]
+## 16. Modified application of section 59 of the 1965 Act[^c-32a265c75dab5bff37ba374884a5b186]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32a265c75dab5bff37ba374884a5b186]: Textual amendment: Arts. 13-15 substituted for arts. 13-16 (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [4](https://www.legislation.gov.uk/uksi/2014/1822/article/4)
+[^c-32a265c75dab5bff37ba374884a5b186]: Textual amendment: Arts. 13-15 substituted for arts. 13-16 (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [4](https://www.legislation.gov.uk/uksi/2014/1822/article/4)

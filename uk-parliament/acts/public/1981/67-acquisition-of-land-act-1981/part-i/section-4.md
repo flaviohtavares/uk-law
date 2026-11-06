@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Assessment of compensation.[^c3309701][^c3309711][^c3309721][^c3309731][^c3309741][^c4448651][^key-5babcc3069b845d02646ecbbf9ad0913][^key-41e9476de8d55924fd897b6738324415][^key-a6b7569363c7a4c3b72548d3e90b1cec]
+## 4. Assessment of compensation.[^c3309701][^c3309711][^c3309721][^c3309731][^c3309741][^c4448651][^c-5babcc3069b845d02646ecbbf9ad0913][^c-41e9476de8d55924fd897b6738324415][^c-a6b7569363c7a4c3b72548d3e90b1cec]
 
 *Extent: E+W*
 
 (1) In relation to a compulsory purchase the [^c3309751]Land Compensation Act 1961 shall have effect subject to the provisions of this section.
 
-(2) The Upper Tribunal[^key-de183540a023e32e79d984d5bbcac0fe] shall not take into account any interest in land, or any enhancement of the value of any interest in land, by reason of any building erected, work done or improvement or alteration made, whether on the land purchased or on any other land with which the claimant is, or was at the time of the erection, doing or making of the building, works, improvement or alteration, directly or indirectly concerned, if the Upper Tribunal is satisfied that the creation of the interest, the erection of the building, the doing of the work, the making of the improvement or the alteration, as the case may be, was not reasonably necessary and was undertaken with a view to obtaining compensation or increased compensation.
+(2) The Upper Tribunal[^c-de183540a023e32e79d984d5bbcac0fe] shall not take into account any interest in land, or any enhancement of the value of any interest in land, by reason of any building erected, work done or improvement or alteration made, whether on the land purchased or on any other land with which the claimant is, or was at the time of the erection, doing or making of the building, works, improvement or alteration, directly or indirectly concerned, if the Upper Tribunal is satisfied that the creation of the interest, the erection of the building, the doing of the work, the making of the improvement or the alteration, as the case may be, was not reasonably necessary and was undertaken with a view to obtaining compensation or increased compensation.
 
 ## Annotations
 
@@ -44,12 +44,12 @@ summary: ''
 
 [^c4448651]: Modification: S. 4 applied (12.8.2002) by [The Channel Tunnel Rail Link (Thames Tunnel Approach) Order 2002 (S.I. 2002/1943)](https://www.legislation.gov.uk/uksi/2002/1943), [art. 7](https://www.legislation.gov.uk/uksi/2002/1943/article/7)
 
-[^key-5babcc3069b845d02646ecbbf9ad0913]: Modification: S. 4 applied (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2008/18/schedule/6/paragraph/20)
+[^c-5babcc3069b845d02646ecbbf9ad0913]: Modification: S. 4 applied (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2008/18/schedule/6/paragraph/20)
 
-[^key-41e9476de8d55924fd897b6738324415]: Modification: S. 4 modified (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 6 para. 4(1)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/6/paragraph/4/1)
+[^c-41e9476de8d55924fd897b6738324415]: Modification: S. 4 modified (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 6 para. 4(1)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/6/paragraph/4/1)
 
-[^key-a6b7569363c7a4c3b72548d3e90b1cec]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1981/67/section/4) modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 7 para. 4(1)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/7/paragraph/4/1)
+[^c-a6b7569363c7a4c3b72548d3e90b1cec]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1981/67/section/4) modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 7 para. 4(1)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/7/paragraph/4/1)
 
 [^c3309751]: Marginal citation: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
-[^key-de183540a023e32e79d984d5bbcac0fe]: Textual amendment: Words in s. 4(2) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 150](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/150) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-de183540a023e32e79d984d5bbcac0fe]: Textual amendment: Words in s. 4(2) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 150](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/150) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Decision of employer void if appeal against decision of selected medical practitioner is successful[^key-48b7b45bc283c317edf70fa0e21f32c0]
+## 99. Decision of employer void if appeal against decision of selected medical practitioner is successful[^c-48b7b45bc283c317edf70fa0e21f32c0]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ A decision of the employer under this Chapter is void if—
 
 ## Annotations
 
-[^key-48b7b45bc283c317edf70fa0e21f32c0]: Commencement: Reg. 99 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-48b7b45bc283c317edf70fa0e21f32c0]: Commencement: Reg. 99 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

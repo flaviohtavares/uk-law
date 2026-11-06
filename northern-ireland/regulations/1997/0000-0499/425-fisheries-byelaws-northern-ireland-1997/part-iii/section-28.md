@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**28.**[^key-4e8e443044d5b4e22bf04c51a1b6aea2] An appeal under this Part shall be initiated by notice to be signed by the appellant or his agent and delivered or sent to the Department and the Board.
+**28.**[^c-4e8e443044d5b4e22bf04c51a1b6aea2] An appeal under this Part shall be initiated by notice to be signed by the appellant or his agent and delivered or sent to the Department and the Board.
 
 ## Annotations
 
-[^key-4e8e443044d5b4e22bf04c51a1b6aea2]: Commencement: S. 28 in operation at 1.11.1997, see byelaw 1
+[^c-4e8e443044d5b4e22bf04c51a1b6aea2]: Commencement: S. 28 in operation at 1.11.1997, see byelaw 1

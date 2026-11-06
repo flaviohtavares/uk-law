@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 154. Appeal to sheriff against decision of children's hearing[^key-de5bd7e2605c24fdbae6c3fcff09316e]
+## 154. Appeal to sheriff against decision of children's hearing[^c-de5bd7e2605c24fdbae6c3fcff09316e]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de5bd7e2605c24fdbae6c3fcff09316e]: Commencement: S. 154 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-de5bd7e2605c24fdbae6c3fcff09316e]: Commencement: S. 154 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

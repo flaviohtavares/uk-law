@@ -32,7 +32,7 @@ AGRICULTURE
 
 COMMON AGRICULTURAL POLICY
 
-The Organic Products (Amendment) Regulations 1997 (revoked)[^key-63aa1c6c3ef5529aa983eda7b1c9782f]
+The Organic Products (Amendment) Regulations 1997 (revoked)[^c-63aa1c6c3ef5529aa983eda7b1c9782f]
 
 Made
 
@@ -46,45 +46,45 @@ Coming into force
 
 24th February 1997
 
-[^key-63aa1c6c3ef5529aa983eda7b1c9782f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63aa1c6c3ef5529aa983eda7b1c9782f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and interpretation[^key-63aa1c6c3ef5529aa983eda7b1c9782f]
+## 1. Title, commencement and interpretation[^c-63aa1c6c3ef5529aa983eda7b1c9782f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-63aa1c6c3ef5529aa983eda7b1c9782f]
+## 2. Amendment of the principal Regulations[^c-63aa1c6c3ef5529aa983eda7b1c9782f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-63aa1c6c3ef5529aa983eda7b1c9782f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-63aa1c6c3ef5529aa983eda7b1c9782f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-63aa1c6c3ef5529aa983eda7b1c9782f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-63aa1c6c3ef5529aa983eda7b1c9782f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-63aa1c6c3ef5529aa983eda7b1c9782f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-63aa1c6c3ef5529aa983eda7b1c9782f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-63aa1c6c3ef5529aa983eda7b1c9782f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-63aa1c6c3ef5529aa983eda7b1c9782f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-63aa1c6c3ef5529aa983eda7b1c9782f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63aa1c6c3ef5529aa983eda7b1c9782f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — CONTAINING NEW SCHEDULE TO THE principal Regulations[^key-63aa1c6c3ef5529aa983eda7b1c9782f]
+## SCHEDULE — CONTAINING NEW SCHEDULE TO THE principal Regulations[^c-63aa1c6c3ef5529aa983eda7b1c9782f]
 
 Regulation 6
 
-> **SCHEDULE — SPECIFIED COMMUNITY PROVISIONS[^key-63aa1c6c3ef5529aa983eda7b1c9782f]**
+> **SCHEDULE — SPECIFIED COMMUNITY PROVISIONS[^c-63aa1c6c3ef5529aa983eda7b1c9782f]**
 >
 > Regulation 2(1)
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-63aa1c6c3ef5529aa983eda7b1c9782f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63aa1c6c3ef5529aa983eda7b1c9782f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-63aa1c6c3ef5529aa983eda7b1c9782f]: Textual amendment: Regulations revoked (19.7.2004) by [The Organic Products Regulations 2004 (S.I. 2004/1604)](https://www.legislation.gov.uk/uksi/2004/1604), [reg. 1](https://www.legislation.gov.uk/uksi/2004/1604/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/1604/schedule/3)
+[^c-63aa1c6c3ef5529aa983eda7b1c9782f]: Textual amendment: Regulations revoked (19.7.2004) by [The Organic Products Regulations 2004 (S.I. 2004/1604)](https://www.legislation.gov.uk/uksi/2004/1604), [reg. 1](https://www.legislation.gov.uk/uksi/2004/1604/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/1604/schedule/3)
 
     Regulations revoked (E.) (19.3.2001) by [The Organic Products Regulations 2001 (S.I. 2001/430)](https://www.legislation.gov.uk/uksi/2001/430), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/430/regulation/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2001/430/regulation/15/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2001/430/schedule/4)
 

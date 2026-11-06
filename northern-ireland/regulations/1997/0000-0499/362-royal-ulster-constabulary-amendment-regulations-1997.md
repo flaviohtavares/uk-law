@@ -30,7 +30,7 @@ summary: ''
 
 POLICE
 
-Royal Ulster Constabulary (Amendment) Regulations 1997 (revoked)[^key-15eb7f891f26341a889b939434196e47]
+Royal Ulster Constabulary (Amendment) Regulations 1997 (revoked)[^c-15eb7f891f26341a889b939434196e47]
 
 Made
 
@@ -42,52 +42,52 @@ Coming into operation
 
 1st September 1997
 
-[^key-15eb7f891f26341a889b939434196e47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-15eb7f891f26341a889b939434196e47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-15eb7f891f26341a889b939434196e47]
+## 1. Citation, commencement and effect[^c-15eb7f891f26341a889b939434196e47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-15eb7f891f26341a889b939434196e47]
+## 2. Interpretation[^c-15eb7f891f26341a889b939434196e47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Qualifications for appointment to the force[^key-15eb7f891f26341a889b939434196e47]
+## 3. Qualifications for appointment to the force[^c-15eb7f891f26341a889b939434196e47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Reckoning by constables of service in certain constabularies[^key-15eb7f891f26341a889b939434196e47]
+## 4. Reckoning by constables of service in certain constabularies[^c-15eb7f891f26341a889b939434196e47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Subsistence, refreshment and lodging allowances[^key-15eb7f891f26341a889b939434196e47]
+## 5. Subsistence, refreshment and lodging allowances[^c-15eb7f891f26341a889b939434196e47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Replacement allowance[^key-15eb7f891f26341a889b939434196e47]
+## 6. Replacement allowance[^c-15eb7f891f26341a889b939434196e47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocations and transitional provisions[^key-15eb7f891f26341a889b939434196e47]
+## 7. Revocations and transitional provisions[^c-15eb7f891f26341a889b939434196e47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Modification for part-time service[^key-15eb7f891f26341a889b939434196e47]
+## 8. Modification for part-time service[^c-15eb7f891f26341a889b939434196e47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Determination of pay[^key-15eb7f891f26341a889b939434196e47]
+## 9. Determination of pay[^c-15eb7f891f26341a889b939434196e47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-15eb7f891f26341a889b939434196e47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-15eb7f891f26341a889b939434196e47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-15eb7f891f26341a889b939434196e47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-15eb7f891f26341a889b939434196e47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-15eb7f891f26341a889b939434196e47]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/362) revoked (13.1.2006) by [Police Service of Northern Ireland Regulations 2005 (S.R. 2005/547)](https://www.legislation.gov.uk/nisr/2005/547), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2), [2(b)](https://www.legislation.gov.uk/nisr/2005/547/regulation/2/b)
+[^c-15eb7f891f26341a889b939434196e47]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/362) revoked (13.1.2006) by [Police Service of Northern Ireland Regulations 2005 (S.R. 2005/547)](https://www.legislation.gov.uk/nisr/2005/547), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2), [2(b)](https://www.legislation.gov.uk/nisr/2005/547/regulation/2/b)

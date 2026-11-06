@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Regulatory powers exercisable during postal administration[^key-e3aa980c77f522003e9cf558f3d5a8a1]
+## 82. Regulatory powers exercisable during postal administration[^c-e3aa980c77f522003e9cf558f3d5a8a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ An order under this subsection is subject to negative resolution procedure.
 - (a) OFCOM, and
 - (b) such other persons as the Secretary of State considers appropriate.
 
-(4)[^key-7886d3b35c74e8d993bf00b07ff345d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7886d3b35c74e8d993bf00b07ff345d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The Secretary of State may by order amend section 31.
 
@@ -67,6 +67,6 @@ apply in relation to the modification or revocation by the Secretary of State of
 
 ## Annotations
 
-[^key-e3aa980c77f522003e9cf558f3d5a8a1]: Commencement: S. 82 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-e3aa980c77f522003e9cf558f3d5a8a1]: Commencement: S. 82 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-7886d3b35c74e8d993bf00b07ff345d7]: Textual amendment: [S. 82(4)](https://www.legislation.gov.uk/ukpga/2011/5/section/82/4) omitted (31.1.2020) by virtue of [The Postal and Parcel Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1417)](https://www.legislation.gov.uk/uksi/2018/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1417/regulation/1), [3(4)(d)](https://www.legislation.gov.uk/uksi/2018/1417/regulation/3/4/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7886d3b35c74e8d993bf00b07ff345d7]: Textual amendment: [S. 82(4)](https://www.legislation.gov.uk/ukpga/2011/5/section/82/4) omitted (31.1.2020) by virtue of [The Postal and Parcel Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1417)](https://www.legislation.gov.uk/uksi/2018/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1417/regulation/1), [3(4)(d)](https://www.legislation.gov.uk/uksi/2018/1417/regulation/3/4/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

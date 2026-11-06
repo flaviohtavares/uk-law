@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Additional powers[^key-22b70d0f90aa23b61ced7c9bcaf3d952]
+## 17. Additional powers[^c-22b70d0f90aa23b61ced7c9bcaf3d952]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ in such manner and to such extent as may appear to it to be necessary or conveni
 
 ## Annotations
 
-[^key-22b70d0f90aa23b61ced7c9bcaf3d952]: Commencement: Art. 17 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-22b70d0f90aa23b61ced7c9bcaf3d952]: Commencement: Art. 17 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

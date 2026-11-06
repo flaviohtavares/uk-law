@@ -34,50 +34,50 @@ of 18 December 2013
 
 on the application of Articles 107 and 108 of the Treaty on the Functioning of the European Union to *de minimis* aid in the agriculture sector (revoked)
 
-[^key-add66ea341fac982b95a1ecd89c224d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-add66ea341fac982b95a1ecd89c224d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Scope[^key-add66ea341fac982b95a1ecd89c224d3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-add66ea341fac982b95a1ecd89c224d3]
+## Article 1. Scope[^c-add66ea341fac982b95a1ecd89c224d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. De minimis aid[^key-add66ea341fac982b95a1ecd89c224d3]
+## Article 2. Definitions[^c-add66ea341fac982b95a1ecd89c224d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Calculation of gross grant equivalent[^key-add66ea341fac982b95a1ecd89c224d3]
+## Article 3. De minimis aid[^c-add66ea341fac982b95a1ecd89c224d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Cumulation[^key-add66ea341fac982b95a1ecd89c224d3]
+## Article 4. Calculation of gross grant equivalent[^c-add66ea341fac982b95a1ecd89c224d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Monitoring[^key-add66ea341fac982b95a1ecd89c224d3]
+## Article 5. Cumulation[^c-add66ea341fac982b95a1ecd89c224d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Transitional provisions[^key-add66ea341fac982b95a1ecd89c224d3]
+## Article 6. Monitoring[^c-add66ea341fac982b95a1ecd89c224d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force and period of application[^key-add66ea341fac982b95a1ecd89c224d3]
+## Article 7. Transitional provisions[^c-add66ea341fac982b95a1ecd89c224d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-add66ea341fac982b95a1ecd89c224d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I — Maximum cumulative amounts of de minimis aid granted per Member State to undertakings active in the primary production of agricultural products referred to in Article 3(3)[^key-add66ea341fac982b95a1ecd89c224d3]
+## Article 8. Entry into force and period of application[^c-add66ea341fac982b95a1ecd89c224d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Maximum cumulative amounts of de minimis aid granted per Member State to undertakings active in the primary production of agricultural products referred to in Article 3(3a)[^key-add66ea341fac982b95a1ecd89c224d3]
+[^c-add66ea341fac982b95a1ecd89c224d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — Maximum cumulative amounts of de minimis aid granted per Member State to undertakings active in the primary production of agricultural products referred to in Article 3(3)[^c-add66ea341fac982b95a1ecd89c224d3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II — Maximum cumulative amounts of de minimis aid granted per Member State to undertakings active in the primary production of agricultural products referred to in Article 3(3a)[^c-add66ea341fac982b95a1ecd89c224d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-add66ea341fac982b95a1ecd89c224d3]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(j)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/j) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-add66ea341fac982b95a1ecd89c224d3]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(j)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/j) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

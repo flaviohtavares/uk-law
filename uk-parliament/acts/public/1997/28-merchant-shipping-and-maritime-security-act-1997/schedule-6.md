@@ -26,7 +26,7 @@ Section 29(1).
 
 **1.** In section 1(1)(i)(ii) of the Hovercraft Act 1968 (power to apply sections 185 and 186 of the 1995 Act in relation to the carriage of property by hovercraft), before “sections 185 and 186” there is inserted “ and ”.
 
-### The Senior Courts Act 1981 (c. 54)[^key-325c7c714d8ac7298d28c53c6a0d056e]
+### The Senior Courts Act 1981 (c. 54)[^c-325c7c714d8ac7298d28c53c6a0d056e]
 
 **2.** In section 20 of the Senior Courts Act 1981 (Admiralty jurisdiction of High Court), in subsection (5)(b) for “International Oil Compensation Fund 1984” there is substituted “ International Oil Pollution Compensation Fund 1992 ”.
 
@@ -174,7 +174,7 @@ Section 29(1).
 
 ## Annotations
 
-[^key-325c7c714d8ac7298d28c53c6a0d056e]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-325c7c714d8ac7298d28c53c6a0d056e]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c8633981]: Commencement: [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/1997/28/schedule/6/paragraph/18) wholly in force at 17.7.1997; [Sch. 6 para. 18(1)(3)(5)](https://www.legislation.gov.uk/ukpga/1997/28/schedule/6/paragraph/18/1/3/5) in force at 23.3.1997 by [S.I. 1997/1082](https://www.legislation.gov.uk/uksi/1997/1082), [art. 2](https://www.legislation.gov.uk/uksi/1997/1082/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1082/schedule); [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/1997/28/schedule/6/paragraph/18) in force at 17.7.1997 insofar as not already in force by [S.I. 1997/1539](https://www.legislation.gov.uk/uksi/1997/1539), [art. 2](https://www.legislation.gov.uk/uksi/1997/1539/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1539/schedule)
 

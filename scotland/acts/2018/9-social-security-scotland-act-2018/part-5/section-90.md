@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Local authorities' duty to provide information about payments[^key-0978bce4991c1b32abaeada6b82bde74]
+## 90. Local authorities' duty to provide information about payments[^c-0978bce4991c1b32abaeada6b82bde74]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ Each local authority must make available to the public resident in its area info
 
 ## Annotations
 
-[^key-0978bce4991c1b32abaeada6b82bde74]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2018/9/section/90) in force at 1.4.2024 by [S.S.I. 2024/57](https://www.legislation.gov.uk/ssi/2024/57), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/57/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/57/regulation/3))
+[^c-0978bce4991c1b32abaeada6b82bde74]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2018/9/section/90) in force at 1.4.2024 by [S.S.I. 2024/57](https://www.legislation.gov.uk/ssi/2024/57), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/57/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/57/regulation/3))

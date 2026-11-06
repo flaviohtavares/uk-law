@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Expenses of statement of affairs[^key-ba9ed8861ff7d90ffa692a85ed56662e]
+## 24. Expenses of statement of affairs[^c-ba9ed8861ff7d90ffa692a85ed56662e]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba9ed8861ff7d90ffa692a85ed56662e]: Commencement: Rule 24 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-ba9ed8861ff7d90ffa692a85ed56662e]: Commencement: Rule 24 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -250,11 +250,11 @@ Article 39.
 
 **20.** Omit Article 39B (adjusted net annual value).
 
-**21.**[^key-c40d0422af96106c278595e474ae19b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-c40d0422af96106c278595e474ae19b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-c40d0422af96106c278595e474ae19b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-c40d0422af96106c278595e474ae19b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-c40d0422af96106c278595e474ae19b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-c40d0422af96106c278595e474ae19b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **24.**[^c20233541] (1) Amend Article 41 (distinguishment in valuation list of hereditaments used for public, charitable or certain other purposes) as follows.
 
@@ -341,7 +341,7 @@ Article 39.
 
 (2) For “the valuation list” in each place where it occurs substitute “ a valuation list ”.
 
-(3)[^key-8f646e782019e9248e0c83fd6403e5bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8f646e782019e9248e0c83fd6403e5bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In the heading to that Article omit “the”.
 
@@ -685,7 +685,7 @@ Article 39.
 
 .
 
-(5)[^key-15c8308f6b50620eef7159ab3432b211] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-15c8308f6b50620eef7159ab3432b211] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In Part XIII (caravan sites)—
 
@@ -743,11 +743,11 @@ Article 39.
 
 [^c20233501]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nisi/2006/2954/schedule/2/paragraph/18) wholly in operation at 1.4.2007; [Sch. 2 para. 18](https://www.legislation.gov.uk/nisi/2006/2954/schedule/2/paragraph/18) not in operation at date of making see [art. 1(3)](https://www.legislation.gov.uk/nisi/2006/2954/article/1/3); [Sch. 2 para. 18(1)(2)(b)(3)(4)](https://www.legislation.gov.uk/nisi/2006/2954/schedule/2/paragraph/18/1/2/b/3/4) in operation at 1.12.2006 by [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(2)](https://www.legislation.gov.uk/nisr/2006/464/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2006/464/schedule/2) (with transitional provisions in [S.R. 2006/468](https://www.legislation.gov.uk/nisr/2006/468), [art. 3(1)](https://www.legislation.gov.uk/nisr/2006/468/article/3/1), [Sch.](https://www.legislation.gov.uk/nisr/2006/468/schedule)); [Sch. 2 para. 18](https://www.legislation.gov.uk/nisi/2006/2954/schedule/2/paragraph/18) in operation at 1.4.2007 in so far as not already in operation by [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(4)](https://www.legislation.gov.uk/nisr/2006/464/article/2/4)
 
-[^key-c40d0422af96106c278595e474ae19b3]: Textual amendment: [Sch. 2 paras. 21-23](https://www.legislation.gov.uk/nisi/2006/2954/schedule/2/paragraph/21) repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [s. 19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)
+[^c-c40d0422af96106c278595e474ae19b3]: Textual amendment: [Sch. 2 paras. 21-23](https://www.legislation.gov.uk/nisi/2006/2954/schedule/2/paragraph/21) repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [s. 19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)
 
 [^c20233541]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/nisi/2006/2954/schedule/2/paragraph/24) wholly in operation at 1.12.2006, see [art. 1(3)](https://www.legislation.gov.uk/nisi/2006/2954/article/1/3) and [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(2)](https://www.legislation.gov.uk/nisr/2006/464/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2006/464/schedule/2) (with transitional provisions in [S.R. 2006/468](https://www.legislation.gov.uk/nisr/2006/468), [art. 3(1)](https://www.legislation.gov.uk/nisr/2006/468/article/3/1), [Sch](https://www.legislation.gov.uk/nisr/2006/468/schedule))
 
-[^key-8f646e782019e9248e0c83fd6403e5bf]: Textual amendment: [Sch. 2 para. 31(3)](https://www.legislation.gov.uk/nisi/2006/2954/schedule/2/paragraph/31/3) repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [s. 19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)
+[^c-8f646e782019e9248e0c83fd6403e5bf]: Textual amendment: [Sch. 2 para. 31(3)](https://www.legislation.gov.uk/nisi/2006/2954/schedule/2/paragraph/31/3) repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [s. 19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)
 
 [^c20233571]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/nisi/2006/2954/schedule/2/paragraph/37) wholly in operation at 1.4.2007; [Sch. 2 para. 37](https://www.legislation.gov.uk/nisi/2006/2954/schedule/2/paragraph/37) not in operation at date of making see [art. 1(3)](https://www.legislation.gov.uk/nisi/2006/2954/article/1/3); [Sch. 2 para. 37(1)(3)(a)(c)](https://www.legislation.gov.uk/nisi/2006/2954/schedule/2/paragraph/37/1/3/a/c) in operation at 1.12.2006 by [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(2)](https://www.legislation.gov.uk/nisr/2006/464/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2006/464/schedule/2); [Sch. 2 para. 37](https://www.legislation.gov.uk/nisi/2006/2954/schedule/2/paragraph/37) in operation at 1.4.2007 in so far as not already in operation by [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(4)](https://www.legislation.gov.uk/nisr/2006/464/article/2/4)
 
@@ -763,4 +763,4 @@ Article 39.
 
 [^c20233621]: Commencement: Sch. 2 para. 48 wholly in operation at 1.4.2007; Sch. 2 para. 48 not in operation at date of making see art. 1(3); Sch. 2 para. 48(1)(3)(4)(6) in operation for certain purposes at 1.12.2006 by [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(2)](https://www.legislation.gov.uk/nisr/2006/464/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2006/464/schedule/2) (with transitional provisions in [S.R. 2006/468](https://www.legislation.gov.uk/nisr/2006/468), [art. 3(1)](https://www.legislation.gov.uk/nisr/2006/468/article/3/1), [Sch.](https://www.legislation.gov.uk/nisr/2006/468/schedule)); Sch. 2 para. 48 in operation at 1.4.2007 in so far as not already in operation by [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(4)](https://www.legislation.gov.uk/nisr/2006/464/article/2/4)
 
-[^key-15c8308f6b50620eef7159ab3432b211]: Textual amendment: [Sch. 2 para. 48(5)](https://www.legislation.gov.uk/nisi/2006/2954/schedule/2/paragraph/48/5) repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [s. 19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)
+[^c-15c8308f6b50620eef7159ab3432b211]: Textual amendment: [Sch. 2 para. 48(5)](https://www.legislation.gov.uk/nisi/2006/2954/schedule/2/paragraph/48/5) repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [s. 19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)

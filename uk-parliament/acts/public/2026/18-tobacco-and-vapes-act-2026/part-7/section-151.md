@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Heated tobacco-free premises in Scotland[^key-fee8bb7a08c490a0bbdd08ac60cb7531]
+## 151. Heated tobacco-free premises in Scotland[^c-fee8bb7a08c490a0bbdd08ac60cb7531]
 
 *Extent: E+W+S+N.I.*
 
@@ -94,4 +94,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fee8bb7a08c490a0bbdd08ac60cb7531]: Commencement: S. 151 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
+[^c-fee8bb7a08c490a0bbdd08ac60cb7531]: Commencement: S. 151 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)

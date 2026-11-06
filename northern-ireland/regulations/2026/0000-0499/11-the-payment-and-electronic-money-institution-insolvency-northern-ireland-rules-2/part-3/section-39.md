@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Content of notice for meetings[^key-9b801bfa2e10aafc6baab02c3d5ceee3]
+## 39. Content of notice for meetings[^c-9b801bfa2e10aafc6baab02c3d5ceee3]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ unless the court orders that it be given by advertisement only in accordance wit
 
 ## Annotations
 
-[^key-9b801bfa2e10aafc6baab02c3d5ceee3]: Commencement: [Rule 39](https://www.legislation.gov.uk/nisr/2026/11/rule/39) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-9b801bfa2e10aafc6baab02c3d5ceee3]: Commencement: [Rule 39](https://www.legislation.gov.uk/nisr/2026/11/rule/39) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

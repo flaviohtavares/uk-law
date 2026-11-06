@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 122(3) of that Act they have consulted such persons as they consider appropriate.
 
-## 1. Citation, commencement and interpretation[^key-ec72ba6faf61ae5c98f443c47f9cf744]
+## 1. Citation, commencement and interpretation[^c-ec72ba6faf61ae5c98f443c47f9cf744]
 
 (1) These Regulations may be cited as the Public Health etc. (Scotland) Act 2008 Designation of Competent Persons Regulations 2009 and shall come in to force on 1st October 2009.
 
@@ -57,11 +57,11 @@ In accordance with section 122(3) of that Act they have consulted such persons 
 - “Specialist Register” means a register maintained by the General Medical Council pursuant to article 13(1) of the General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003[^f00002]; and
 - “UK Public Health Register” means the register of public health specialists established in 2003 by the Faculty of Public Health, the Royal Institute of Public Health and the Multidisciplinary Public Health Forum.
 
-## 2. Designation of Health Board Competent Persons[^key-c4ea1ed1e04ff8a8a4f2cf560148b461]
+## 2. Designation of Health Board Competent Persons[^c-c4ea1ed1e04ff8a8a4f2cf560148b461]
 
 A person who meets the criteria and is in receipt of the relevant qualifications set out in regulation 3 may be designated as a health board competent person.
 
-## 3. Criteria and Qualifications for Health Board Competent Persons[^key-209bf72e2f2eedfc973941af63f6bda0]
+## 3. Criteria and Qualifications for Health Board Competent Persons[^c-209bf72e2f2eedfc973941af63f6bda0]
 
 To be eligible for designation as a health board competent person, a person must—
 
@@ -73,18 +73,18 @@ To be eligible for designation as a health board competent person, a person must
   - (iv) be registered as a public health specialist on the UK Public Health Register, having gained access to the Register through education and training, with a minimum of 6 months’ work experience in health protection; or
   - (v) be registered as a public health specialist on the UK Public Health Register, having gained access to the Register by portfolio assessment, with a minimum of 2 years’ work experience in health protection.
 
-## 4. Definition of work experience in health protection[^key-387f90c46b2382cb9199d17cbe99a915]
+## 4. Definition of work experience in health protection[^c-387f90c46b2382cb9199d17cbe99a915]
 
 For the purposes of these Regulations ‘work experience in health protection’ means—
 
-- (a) work experience in a health protection team in a health board , Healthcare Improvement Scotland[^key-692e3e1d233286b55be8acdf82da6bd4] or the common services agency, or equivalent; or
+- (a) work experience in a health protection team in a health board , Healthcare Improvement Scotland[^c-692e3e1d233286b55be8acdf82da6bd4] or the common services agency, or equivalent; or
 - (b) work experience in health protection in a special health board, or equivalent.
 
-## 5. Designation of Local Authority Competent Persons[^key-0c0be9443286ff4ee15ac792e1bb96f3]
+## 5. Designation of Local Authority Competent Persons[^c-0c0be9443286ff4ee15ac792e1bb96f3]
 
 A person who meets the criteria and is in receipt of the relevant qualifications set out in regulation 6 may be designated as a local authority competent person.
 
-## 6. Criteria and Qualifications for Local Authority Competent Persons[^key-79ff71856f109a29aa117249f0f78d8e]
+## 6. Criteria and Qualifications for Local Authority Competent Persons[^c-79ff71856f109a29aa117249f0f78d8e]
 
 To be eligible for designation as a local authority competent person, a person must—
 
@@ -122,18 +122,18 @@ Regulation 6 provides the criteria which a local authority competent person mus
 
 [^f00001]: Footnote: [2008 asp 5](https://www.legislation.gov.uk/asp/2008/5).
 
-[^key-ec72ba6faf61ae5c98f443c47f9cf744]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2009/301/regulation/1) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/301/regulation/1/1)
+[^c-ec72ba6faf61ae5c98f443c47f9cf744]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2009/301/regulation/1) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/301/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2003/1250](https://www.legislation.gov.uk/uksi/2003/1250).
 
-[^key-c4ea1ed1e04ff8a8a4f2cf560148b461]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2009/301/regulation/2) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/301/regulation/1/1)
+[^c-c4ea1ed1e04ff8a8a4f2cf560148b461]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2009/301/regulation/2) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/301/regulation/1/1)
 
-[^key-209bf72e2f2eedfc973941af63f6bda0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2009/301/regulation/3) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/301/regulation/1/1)
+[^c-209bf72e2f2eedfc973941af63f6bda0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2009/301/regulation/3) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/301/regulation/1/1)
 
-[^key-387f90c46b2382cb9199d17cbe99a915]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2009/301/regulation/4) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/301/regulation/1/1)
+[^c-387f90c46b2382cb9199d17cbe99a915]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2009/301/regulation/4) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/301/regulation/1/1)
 
-[^key-692e3e1d233286b55be8acdf82da6bd4]: Textual amendment: Words in [reg. 4(a)](https://www.legislation.gov.uk/ssi/2009/301/regulation/4/a) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 34](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/34)
+[^c-692e3e1d233286b55be8acdf82da6bd4]: Textual amendment: Words in [reg. 4(a)](https://www.legislation.gov.uk/ssi/2009/301/regulation/4/a) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 34](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/34)
 
-[^key-0c0be9443286ff4ee15ac792e1bb96f3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2009/301/regulation/5) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/301/regulation/1/1)
+[^c-0c0be9443286ff4ee15ac792e1bb96f3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2009/301/regulation/5) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/301/regulation/1/1)
 
-[^key-79ff71856f109a29aa117249f0f78d8e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2009/301/regulation/6) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/301/regulation/1/1)
+[^c-79ff71856f109a29aa117249f0f78d8e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2009/301/regulation/6) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/301/regulation/1/1)

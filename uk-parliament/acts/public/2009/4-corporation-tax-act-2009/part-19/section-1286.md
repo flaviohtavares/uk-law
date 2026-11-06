@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1286. VAT repayment supplements[^key-a1acbba08040e9ab1a2eb17283158445]
+## 1286. VAT repayment supplements[^c-a1acbba08040e9ab1a2eb17283158445]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1acbba08040e9ab1a2eb17283158445]: Textual amendment: [S. 1286](https://www.legislation.gov.uk/ukpga/2009/4/section/1286) omitted (with effect in accordance with art. 1(3)(b) of the amending S.I.) by virtue of [The Finance Act 2009, Sections 101 and 102 (Value Added Tax) (Late Payment Interest and Repayment Interest) (Exceptions and Consequential Amendments) Order 2022 (S.I. 2022/1298)](https://www.legislation.gov.uk/uksi/2022/1298), [arts. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/3/a), [5(2)](https://www.legislation.gov.uk/uksi/2022/1298/article/5/2)
+[^c-a1acbba08040e9ab1a2eb17283158445]: Textual amendment: [S. 1286](https://www.legislation.gov.uk/ukpga/2009/4/section/1286) omitted (with effect in accordance with art. 1(3)(b) of the amending S.I.) by virtue of [The Finance Act 2009, Sections 101 and 102 (Value Added Tax) (Late Payment Interest and Repayment Interest) (Exceptions and Consequential Amendments) Order 2022 (S.I. 2022/1298)](https://www.legislation.gov.uk/uksi/2022/1298), [arts. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/3/a), [5(2)](https://www.legislation.gov.uk/uksi/2022/1298/article/5/2)

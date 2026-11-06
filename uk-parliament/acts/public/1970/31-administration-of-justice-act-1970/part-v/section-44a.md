@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44A. Interest on judgment debts expressed in currencies other than sterling.[^key-4e5ed7748bdd41f914b797ccf485a7c2][^c9992561]
+## 44A. Interest on judgment debts expressed in currencies other than sterling.[^c-4e5ed7748bdd41f914b797ccf485a7c2][^c9992561]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e5ed7748bdd41f914b797ccf485a7c2]: Modification: S. 44A modified (with effect in accordance with s. 52(12) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/33/section/52/5)
+[^c-4e5ed7748bdd41f914b797ccf485a7c2]: Modification: S. 44A modified (with effect in accordance with s. 52(12) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/33/section/52/5)
 
 [^c9992561]: Textual amendment: S. 44A inserted (1.11.1996) by [1995 c. 42](https://www.legislation.gov.uk/ukpga/1995/42), [s. 1(1)(2)](https://www.legislation.gov.uk/ukpga/1995/42/section/1/1/2); [S.I. 1996/2515](https://www.legislation.gov.uk/uksi/1996/2515), [art. 2](https://www.legislation.gov.uk/uksi/1996/2515/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Application of prohibitions and requirements outside the United Kingdom[^key-e3c3a29bc52af60b1a41dd81d92ed0c0]
+## 3. Application of prohibitions and requirements outside the United Kingdom[^c-e3c3a29bc52af60b1a41dd81d92ed0c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3c3a29bc52af60b1a41dd81d92ed0c0]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-e3c3a29bc52af60b1a41dd81d92ed0c0]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

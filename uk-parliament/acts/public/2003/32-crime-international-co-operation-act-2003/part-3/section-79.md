@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Disability and prospective disability[^key-36d507de82bd6b4b44349bf62c301552]
+## 79. Disability and prospective disability[^c-36d507de82bd6b4b44349bf62c301552]
 
 *Extent: E+W+S+N.I.*
 
@@ -113,4 +113,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36d507de82bd6b4b44349bf62c301552]: Commencement: S. 79 in force at 11.10.2004 by [S.I. 2004/2624](https://www.legislation.gov.uk/uksi/2004/2624), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/2/a)
+[^c-36d507de82bd6b4b44349bf62c301552]: Commencement: S. 79 in force at 11.10.2004 by [S.I. 2004/2624](https://www.legislation.gov.uk/uksi/2004/2624), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/2/a)

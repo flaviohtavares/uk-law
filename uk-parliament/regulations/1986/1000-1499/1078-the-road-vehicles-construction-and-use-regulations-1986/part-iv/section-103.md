@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 103. Obstruction[^key-5a1d1451419e69169744d8b63aa5ce14]
+## 103. Obstruction[^c-5a1d1451419e69169744d8b63aa5ce14]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ No person in charge of a motor vehicle or trailer shall cause or permit the vehi
 
 ## Annotations
 
-[^key-5a1d1451419e69169744d8b63aa5ce14]: Commencement: [Reg. 103](https://www.legislation.gov.uk/uksi/1986/1078/regulation/103) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-5a1d1451419e69169744d8b63aa5ce14]: Commencement: [Reg. 103](https://www.legislation.gov.uk/uksi/1986/1078/regulation/103) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

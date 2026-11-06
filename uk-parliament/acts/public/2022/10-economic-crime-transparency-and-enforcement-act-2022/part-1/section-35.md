@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Liability of officers in default[^key-9683b77e90411f164dbb548ec35e3533][^key-e55ab9e58f00864667d603ed2b018119][^key-1c26646ae565458f6db6bf01ec911243]
+## 35. Liability of officers in default[^c-9683b77e90411f164dbb548ec35e3533][^c-e55ab9e58f00864667d603ed2b018119][^c-1c26646ae565458f6db6bf01ec911243]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,8 +28,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9683b77e90411f164dbb548ec35e3533]: Commencement: S. 35 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-9683b77e90411f164dbb548ec35e3533]: Commencement: S. 35 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-e55ab9e58f00864667d603ed2b018119]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/10/section/35) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/j)
+[^c-e55ab9e58f00864667d603ed2b018119]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/10/section/35) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/j)
 
-[^key-1c26646ae565458f6db6bf01ec911243]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/10/section/35) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
+[^c-1c26646ae565458f6db6bf01ec911243]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/10/section/35) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)

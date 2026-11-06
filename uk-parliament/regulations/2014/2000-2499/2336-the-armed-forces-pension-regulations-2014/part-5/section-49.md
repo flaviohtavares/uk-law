@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Pension credit member’s rights[^key-93b7979741763ddccd042e7403d36ace]
+## 49. Pension credit member’s rights[^c-93b7979741763ddccd042e7403d36ace]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-93b7979741763ddccd042e7403d36ace]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2014/2336/regulation/49) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-93b7979741763ddccd042e7403d36ace]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2014/2336/regulation/49) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
 
 [^f00016]: Footnote: [S.I. 2000/1054](https://www.legislation.gov.uk/uksi/2000/1054)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46ZA. Enforcement of household waste requirements: Scotland[^key-99d89304a753a6554e1acf180bf120b1]
+## 46ZA. Enforcement of household waste requirements: Scotland[^c-99d89304a753a6554e1acf180bf120b1]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99d89304a753a6554e1acf180bf120b1]: Textual amendment: [Ss. 46ZA-46ZE](https://www.legislation.gov.uk/ukpga/1990/43/section/46ZA) inserted (S.) (1.8.2025 for specified purposes) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 15(2)](https://www.legislation.gov.uk/asp/2024/13/section/15/2), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-99d89304a753a6554e1acf180bf120b1]: Textual amendment: [Ss. 46ZA-46ZE](https://www.legislation.gov.uk/ukpga/1990/43/section/46ZA) inserted (S.) (1.8.2025 for specified purposes) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 15(2)](https://www.legislation.gov.uk/asp/2024/13/section/15/2), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)

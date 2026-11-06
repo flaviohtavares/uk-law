@@ -16,70 +16,70 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX XVI — METHODOLOGY FOR ESTABLISHING THE SAMPLING PLANS REFERRED TO IN ARTICLES 16(1) AND 25(1) OF THE CONTROL REGULATION[^key-b9b09242d466a359c3d02d36a6f92138]
+## ANNEX XVI — METHODOLOGY FOR ESTABLISHING THE SAMPLING PLANS REFERRED TO IN ARTICLES 16(1) AND 25(1) OF THE CONTROL REGULATION[^c-b9b09242d466a359c3d02d36a6f92138]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-b9b09242d466a359c3d02d36a6f92138]
+[^c-b9b09242d466a359c3d02d36a6f92138]
 
 This Annex lays down the methodology on the basis of which Member States shall establish the sampling plans referred to in Articles 16(1) and 25(1) of the Control Regulation for vessels not subject to fishing logbook requirements and landing declaration requirements.
 
-[^key-b9b09242d466a359c3d02d36a6f92138]1.
+[^c-b9b09242d466a359c3d02d36a6f92138]1.
 
 For the purpose of this Annex the following definitions shall apply:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9b09242d466a359c3d02d36a6f92138]2.
+[^c-b9b09242d466a359c3d02d36a6f92138]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9b09242d466a359c3d02d36a6f92138]3.
+[^c-b9b09242d466a359c3d02d36a6f92138]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9b09242d466a359c3d02d36a6f92138]4.
+[^c-b9b09242d466a359c3d02d36a6f92138]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9b09242d466a359c3d02d36a6f92138]5.
+[^c-b9b09242d466a359c3d02d36a6f92138]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9b09242d466a359c3d02d36a6f92138]6.
+[^c-b9b09242d466a359c3d02d36a6f92138]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9b09242d466a359c3d02d36a6f92138]7.
+[^c-b9b09242d466a359c3d02d36a6f92138]7.
 
 In establishing the level of risk of non compliance with the rules of the Common Fisheries Policy, Member States shall take account of all relevant criteria. These shall include, but not be limited to:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9b09242d466a359c3d02d36a6f92138]8.
+[^c-b9b09242d466a359c3d02d36a6f92138]8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9b09242d466a359c3d02d36a6f92138]9.
+[^c-b9b09242d466a359c3d02d36a6f92138]9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9b09242d466a359c3d02d36a6f92138]10.
+[^c-b9b09242d466a359c3d02d36a6f92138]10.
 
 Where fisheries products are landed in standardized boxes, the minimum number boxes to be sampled shall be proportionate to the risk levels identified by Member States and as set out in the example below:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9b09242d466a359c3d02d36a6f92138]11.
+[^c-b9b09242d466a359c3d02d36a6f92138]11.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9b09242d466a359c3d02d36a6f92138]12.
+[^c-b9b09242d466a359c3d02d36a6f92138]12.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b9b09242d466a359c3d02d36a6f92138]: Textual amendment: [Annex 16](https://www.legislation.gov.uk/eur/2011/404/annex/XVI) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(109)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/109); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b9b09242d466a359c3d02d36a6f92138]: Textual amendment: [Annex 16](https://www.legislation.gov.uk/eur/2011/404/annex/XVI) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(109)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/109); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -51,9 +51,9 @@ summary: ''
 
 (9) For the purposes of this regulation—
 
-- (a)[^key-6cd039830e59369c2b459984b40a6db7] in calculating assumed pensionable pay in accordance with regulation 21(4) (assumed pensionable pay) no account is to be taken of any reduction in the pensionable pay the member received if an IRMP has certified that the member was working reduced contractual hours wholly or partly as a result of the condition that caused or contributed to the member’s ill-health retirement; and
+- (a)[^c-6cd039830e59369c2b459984b40a6db7] in calculating assumed pensionable pay in accordance with regulation 21(4) (assumed pensionable pay) no account is to be taken of any reduction in the pensionable pay the member received if an IRMP has certified that the member was working reduced contractual hours wholly or partly as a result of the condition that caused or contributed to the member’s ill-health retirement; and
 - (b) no adjustment is to be made to any sum by virtue of regulation 21(6) for any period after the date of termination of employment under regulation 35 (early payment of retirement pension on ill-health grounds: active members).
 
 ## Annotations
 
-[^key-6cd039830e59369c2b459984b40a6db7]: Textual amendment: [Reg. 39(9)(a)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/39/9/a) substituted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [14](https://www.legislation.gov.uk/uksi/2015/755/regulation/14)
+[^c-6cd039830e59369c2b459984b40a6db7]: Textual amendment: [Reg. 39(9)(a)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/39/9/a) substituted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [14](https://www.legislation.gov.uk/uksi/2015/755/regulation/14)

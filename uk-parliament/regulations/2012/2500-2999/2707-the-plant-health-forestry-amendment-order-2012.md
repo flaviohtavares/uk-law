@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health
 
-The Plant Health (Forestry) (Amendment) Order 2012 (revoked)[^key-a9ad773a9a0e4a8ae7a91f1be2480105]
+The Plant Health (Forestry) (Amendment) Order 2012 (revoked)[^c-a9ad773a9a0e4a8ae7a91f1be2480105]
 
 Made
 
@@ -44,19 +44,19 @@ Laid before Parliament
 
 Coming into force in accordance with article 1(2)
 
-[^key-a9ad773a9a0e4a8ae7a91f1be2480105]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9ad773a9a0e4a8ae7a91f1be2480105]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-a9ad773a9a0e4a8ae7a91f1be2480105]
+## 1. Title and commencement[^c-a9ad773a9a0e4a8ae7a91f1be2480105]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Forestry) Order 2005[^key-a9ad773a9a0e4a8ae7a91f1be2480105]
+## 2. Amendment of the Plant Health (Forestry) Order 2005[^c-a9ad773a9a0e4a8ae7a91f1be2480105]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a9ad773a9a0e4a8ae7a91f1be2480105]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9ad773a9a0e4a8ae7a91f1be2480105]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the Order)*
 
@@ -80,4 +80,4 @@ The Explanatory Memorandum for this instrument is available alongside the instru
 
 ## Annotations
 
-[^key-a9ad773a9a0e4a8ae7a91f1be2480105]: Textual amendment: Order revoked (S.) (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 6](https://www.legislation.gov.uk/ssi/2019/421/schedule/6), (E.) (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2707/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2012/2707/schedule/6) and (W.) (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6)
+[^c-a9ad773a9a0e4a8ae7a91f1be2480105]: Textual amendment: Order revoked (S.) (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 6](https://www.legislation.gov.uk/ssi/2019/421/schedule/6), (E.) (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2707/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2012/2707/schedule/6) and (W.) (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6)

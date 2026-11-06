@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 125. Interpretation of Part 4[^key-9144f393480cf3b52620e72513196c7e][^key-509c0b19c98fc381ee9821caedd35a0a]
+## 125. Interpretation of Part 4[^c-9144f393480cf3b52620e72513196c7e][^c-509c0b19c98fc381ee9821caedd35a0a]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ In this Part—
 
 ## Annotations
 
-[^key-9144f393480cf3b52620e72513196c7e]: Commencement: S. 125 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-9144f393480cf3b52620e72513196c7e]: Commencement: S. 125 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-509c0b19c98fc381ee9821caedd35a0a]: Commencement: [S. 125](https://www.legislation.gov.uk/asc/2022/1/section/125) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ll)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ll)
+[^c-509c0b19c98fc381ee9821caedd35a0a]: Commencement: [S. 125](https://www.legislation.gov.uk/asc/2022/1/section/125) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ll)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ll)

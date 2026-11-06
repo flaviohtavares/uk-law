@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Contentious business agreements by certain representatives.[^c13351381][^key-05d87b085e236eeee9dc637375bb8bf6]
+## 62. Contentious business agreements by certain representatives.[^c13351381][^c-05d87b085e236eeee9dc637375bb8bf6]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
     [S. 62](https://www.legislation.gov.uk/ukpga/1974/47/section/62) extended (22.5.2000) by [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1119/regulation/1), [37(3)](https://www.legislation.gov.uk/uksi/2000/1119/regulation/37/3), [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/uksi/2000/1119/schedule/4/paragraph/7/2)
 
-[^key-05d87b085e236eeee9dc637375bb8bf6]: Modification: [S. 62](https://www.legislation.gov.uk/ukpga/1974/47/section/62) applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 1 paras. 1](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/1), [3](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/5)
+[^c-05d87b085e236eeee9dc637375bb8bf6]: Modification: [S. 62](https://www.legislation.gov.uk/ukpga/1974/47/section/62) applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 1 paras. 1](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/1), [3](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/5)
 
 [^c19667971]: Textual amendment: Words in [s. 62(1)](https://www.legislation.gov.uk/ukpga/1974/47/section/62/1) substituted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 58(a)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/58/a) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/f/ii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 

@@ -31,7 +31,7 @@ and the increase shall, subject to subsection (2) below, be of an amount equal t
 
 (3) In subsection (2) above the “**relevant amount**” means an amount equal to the additional pension, reduced by the amount of any reduction in the weekly rate of the Category A retirement pension made by virtue of section 42 of the Pensions Act[^c16386451].
 
-(3A)[^key-509e3cfa48ff55c54a03f924842333a0] In subsections (2) and (3) above references to additional pension do not include any amount of additional pension attributable to units of additional pension.
+(3A)[^c-509e3cfa48ff55c54a03f924842333a0] In subsections (2) and (3) above references to additional pension do not include any amount of additional pension attributable to units of additional pension.
 
 (3B) For units of additional pension, see section 14A.
 
@@ -55,4 +55,4 @@ and the increase shall, subject to subsection (2) below, be of an amount equal t
 
 [^c16386451]: Textual amendment: Words in [s. 47(3)](https://www.legislation.gov.uk/ukpga/1992/7/section/47/3) substituted (7.2.1994) by [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49), [s. 184](https://www.legislation.gov.uk/ukpga/1993/49/section/184), [Sch. 7 para. 33](https://www.legislation.gov.uk/ukpga/1993/49/schedule/7/paragraph/33); [S.R. 1994/17](https://www.legislation.gov.uk/nisr/1994/17), [art. 2](https://www.legislation.gov.uk/nisr/1994/17/article/2)
 
-[^key-509e3cfa48ff55c54a03f924842333a0]: Textual amendment: [S. 47(3A)](https://www.legislation.gov.uk/ukpga/1992/7/section/47/3A)[(3B)](https://www.legislation.gov.uk/ukpga/1992/7/section/47/3B) inserted (12.10.2015) by [The Pensions (2015 Act) (Consequential Amendments) (Units of Additional Pension) Order (Northern Ireland) 2015 (S.R. 2015/308)](https://www.legislation.gov.uk/nisr/2015/308), [arts. 1](https://www.legislation.gov.uk/nisr/2015/308/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2015/308/article/2/2)
+[^c-509e3cfa48ff55c54a03f924842333a0]: Textual amendment: [S. 47(3A)](https://www.legislation.gov.uk/ukpga/1992/7/section/47/3A)[(3B)](https://www.legislation.gov.uk/ukpga/1992/7/section/47/3B) inserted (12.10.2015) by [The Pensions (2015 Act) (Consequential Amendments) (Units of Additional Pension) Order (Northern Ireland) 2015 (S.R. 2015/308)](https://www.legislation.gov.uk/nisr/2015/308), [arts. 1](https://www.legislation.gov.uk/nisr/2015/308/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2015/308/article/2/2)

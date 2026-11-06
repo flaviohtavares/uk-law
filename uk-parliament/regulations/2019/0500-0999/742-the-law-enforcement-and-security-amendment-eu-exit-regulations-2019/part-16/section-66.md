@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Revocation of retained law relating to football disorder[^key-03394b9c80b8b5a27d4567fb245c76ed]
+## 66. Revocation of retained law relating to football disorder[^c-03394b9c80b8b5a27d4567fb245c76ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The following Decisions are revoked—
 
 ## Annotations
 
-[^key-03394b9c80b8b5a27d4567fb245c76ed]: Commencement: Reg. 66 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-03394b9c80b8b5a27d4567fb245c76ed]: Commencement: Reg. 66 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Modification of Part 4 under Enterprise Act 2002[^key-7529866cfcac949b94573a3dda5df068]
+## 84. Modification of Part 4 under Enterprise Act 2002[^c-7529866cfcac949b94573a3dda5df068]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ includes power to make such consequential modifications of this Part as the Secr
 
 ## Annotations
 
-[^key-7529866cfcac949b94573a3dda5df068]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2011/5/section/84) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-7529866cfcac949b94573a3dda5df068]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2011/5/section/84) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

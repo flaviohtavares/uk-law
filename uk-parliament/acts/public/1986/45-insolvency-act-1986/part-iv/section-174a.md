@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174A. Moratorium debts etc: priority[^key-5ace08d8b9b0e7d617b59018518fa938]
+## 174A. Moratorium debts etc: priority[^c-5ace08d8b9b0e7d617b59018518fa938]
 
 *Extent: E+W+S*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ace08d8b9b0e7d617b59018518fa938]: Textual amendment: S. 174A and cross-heading inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/13) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-5ace08d8b9b0e7d617b59018518fa938]: Textual amendment: S. 174A and cross-heading inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/13) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

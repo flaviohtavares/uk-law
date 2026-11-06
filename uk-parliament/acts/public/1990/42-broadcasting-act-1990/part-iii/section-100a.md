@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100A. Licence conditions relating to simulcast radio services[^key-aa33313e48ab0c2a61e34f67d3c89b49]
+## 100A. Licence conditions relating to simulcast radio services[^c-aa33313e48ab0c2a61e34f67d3c89b49]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Where OFCOM award a national licence to a person whose application for that lice
 
 ## Annotations
 
-[^key-aa33313e48ab0c2a61e34f67d3c89b49]: Textual amendment: S. 100A inserted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 257(6)](https://www.legislation.gov.uk/ukpga/2003/21/section/257/6), [411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-aa33313e48ab0c2a61e34f67d3c89b49]: Textual amendment: S. 100A inserted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 257(6)](https://www.legislation.gov.uk/ukpga/2003/21/section/257/6), [411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

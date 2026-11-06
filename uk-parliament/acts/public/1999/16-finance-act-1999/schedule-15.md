@@ -24,13 +24,13 @@ Section 113(1).
 
 ### Part I — Charging provisions
 
-#### ...[^key-924d4cd4996c034c39861b77fc80d12d]
+#### ...[^c-924d4cd4996c034c39861b77fc80d12d]
 
-**1.**[^key-924d4cd4996c034c39861b77fc80d12d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-924d4cd4996c034c39861b77fc80d12d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Charge on transfer of stock by means of instrument
 
-**2.** Stamp duty is chargeable on the transfer in the United Kingdom of the stock constituted by or transferable by means of a bearer instrument if [^key-08c173c27184c8f7e0d0fd23fac91bfc]...—
+**2.** Stamp duty is chargeable on the transfer in the United Kingdom of the stock constituted by or transferable by means of a bearer instrument if [^c-08c173c27184c8f7e0d0fd23fac91bfc]...—
 
 - (a) duty would be chargeable under Part I of Schedule 13 (conveyance or transfer on sale) if the transfer were effected by an instrument other than a bearer instrument, or
 - (b) the stock constituted by or transferable by means of a bearer instrument consists of units under a unit trust scheme.
@@ -47,7 +47,7 @@ Section 113(1).
 
 #### Rates of duty
 
-**4.** The duty chargeable under this Schedule is 1.5% of the market value of the stock constituted by or transferable by means of the instrument, unless paragraph 5 [^key-88978aed653a362ab50e5cda6540d7cd]... applies.
+**4.** The duty chargeable under this Schedule is 1.5% of the market value of the stock constituted by or transferable by means of the instrument, unless paragraph 5 [^c-88978aed653a362ab50e5cda6540d7cd]... applies.
 
 **5.** In the case of—
 
@@ -56,11 +56,11 @@ Section 113(1).
 
 the duty is 0.2% of the market value of the stock constituted by or transferable by means of the instrument.
 
-**6.**[^key-ecf648b0ca9f4195647fbabc4896b6be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ecf648b0ca9f4195647fbabc4896b6be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Ascertainment of market value
 
-**7.**[^key-6e5d54429196a2340a4b4ef6460dd2fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-6e5d54429196a2340a4b4ef6460dd2fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** (1) For the purposes of duty under paragraph 2 (charge on transfer of stock by means of instrument) the market value of the stock constituted by or transferable by means of the instrument is ascertained as follows.
 
@@ -89,9 +89,9 @@ the duty is 0.2% of the market value of the stock constituted by or transferable
 **11.** In this Schedule—
 
 - “**company**” includes any body of persons, corporate or unincorporate;
-- “[^key-abdfcca3d85d3888d5602acb14e40fb0]**UK company**” means—
+- “[^c-abdfcca3d85d3888d5602acb14e40fb0]**UK company**” means—
   - ((a)) a company that is formed or established in the United Kingdom (other than an SE which has its registered office outside the United Kingdom following a transfer in accordance with Article 8 of Council Regulation [(EC) 2157/2001](https://www.legislation.gov.uk/eur/2001/2157) on the Statute for a European Company (Societas Europaea)), or
-  - ((b)) a UK Societas;[^key-baa30d0dc42f55e76daf9716f2dd7aab]
+  - ((b)) a UK Societas;[^c-baa30d0dc42f55e76daf9716f2dd7aab]
 - “**non-UK company**” means a company that is not a UK company.
 
 #### Meaning of “stock” and “transfer”
@@ -104,13 +104,13 @@ the duty is 0.2% of the market value of the stock constituted by or transferable
 
 ### Part II — Exemptions
 
-#### Substitute instruments[^key-dc0c3caadafe607e35372c2541a60c65]
+#### Substitute instruments[^c-dc0c3caadafe607e35372c2541a60c65]
 
 **12A.** (1) Stamp duty is not chargeable on a substitute instrument.
 
 (2) A substitute instrument is a bearer instrument given in substitution for a like instrument stamped *ad valorem* (whether under this Schedule or otherwise) (“the original instrument”).
 
-(3) The substitute instrument shall not be treated as duly stamped unless it appears by some stamp [^key-7de68857426c6e0012c97c0f62643087]... on it that the full and proper duty has been paid on the original instrument.
+(3) The substitute instrument shall not be treated as duly stamped unless it appears by some stamp [^c-7de68857426c6e0012c97c0f62643087]... on it that the full and proper duty has been paid on the original instrument.
 
 #### Foreign loan securities
 
@@ -136,12 +136,12 @@ the duty is 0.2% of the market value of the stock constituted by or transferable
 
 #### Instruments relating to non-sterling stock
 
-**17.** (1) Stamp duty is not chargeable under this Schedule on [^key-a080bfaee13e18ee881fd9fb4749a8c9]... an instrument which relates to stock expressed—
+**17.** (1) Stamp duty is not chargeable under this Schedule on [^c-a080bfaee13e18ee881fd9fb4749a8c9]... an instrument which relates to stock expressed—
 
 - (a) in a currency other than sterling, or
 - (b) in units of account defined by reference to more than one currency (whether or not including sterling).
 
-[^key-c981d30cf828d8fcb3320dc475049d73]...
+[^c-c981d30cf828d8fcb3320dc475049d73]...
 
 (2) Where the stock to which the instrument relates consists of a loan for the repayment of which there is an option between sterling and one or more other currencies, sub-paragraph (1) applies if the option is exercisable only by the holder of the stock and does not apply in any other case.
 
@@ -158,18 +158,18 @@ the duty is 0.2% of the market value of the stock constituted by or transferable
 **20.** Where a bearer instrument issued by or on behalf of a non-UK company in respect of a loan expressed in sterling—
 
 - (a) has been stamped*ad valorem*, or
-- (b)[^key-095f65fa80042903b485ae1763e083de] has been stamped in accordance with paragraph 12A, or
+- (b)[^c-095f65fa80042903b485ae1763e083de] has been stamped in accordance with paragraph 12A, or
 - (c) has been stamped with the denoting stamp referred to in paragraph 21(2)(b) below,
 
 duty is not chargeable under this Schedule by reason only that the instrument is amended on its face pursuant to an agreement for the variation of any of its original terms or conditions.
 
 ### Part III — Supplementary provisions
 
-#### ...[^key-9ae3b4d9a1eae94fe4d137590afea0b7]
+#### ...[^c-9ae3b4d9a1eae94fe4d137590afea0b7]
 
-**21.**[^key-3ef516835d3a9df37adf6af11b471c21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-3ef516835d3a9df37adf6af11b471c21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-6a9f0f3bbfdee2bd3eae00cb0b45c49b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-6a9f0f3bbfdee2bd3eae00cb0b45c49b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Duty chargeable on transfer of stock by means of instrument
 
@@ -214,8 +214,8 @@ No interest is payable if the amount is less than £25.
 
 **26.** An instrument in respect of which duty is chargeable under paragraph 2 of this Schedule which—
 
-- (a) has been stamped*ad valorem*, [^key-a7097c41339e31adf2eb92a5ea09a93a]...
-- (b)[^key-a7097c41339e31adf2eb92a5ea09a93a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) has been stamped*ad valorem*, [^c-a7097c41339e31adf2eb92a5ea09a93a]...
+- (b)[^c-a7097c41339e31adf2eb92a5ea09a93a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 shall be treated as duly stamped for all purposes other than paragraph 25.
 
@@ -223,23 +223,23 @@ shall be treated as duly stamped for all purposes other than paragraph 25.
 
 [^c1126503]: Modification: [Sch. 15](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15) modified (27.7.1999 with effect as mentioned in s. 113(4) of [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16)) by [1988 c. 39](https://www.legislation.gov.uk/ukpga/1988/39), [s. 143(4)(a)](https://www.legislation.gov.uk/ukpga/1988/39/section/143/4/a) (as inserted (27.7.1999 with effect as mentioned in [s. 113(4)](https://www.legislation.gov.uk/ukpga/1999/16/section/113/4) of the amending Act) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 113(3)](https://www.legislation.gov.uk/ukpga/1999/16/section/113/3), [Sch. 16 para. 11](https://www.legislation.gov.uk/ukpga/1999/16/schedule/16/paragraph/11))
 
-[^key-924d4cd4996c034c39861b77fc80d12d]: Textual amendment: [Sch. 15 para. 1 and cross-heading](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/part/I/crossheading/charge-on-issue-of-instrument) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 19(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/19/2)
+[^c-924d4cd4996c034c39861b77fc80d12d]: Textual amendment: [Sch. 15 para. 1 and cross-heading](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/part/I/crossheading/charge-on-issue-of-instrument) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 19(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/19/2)
 
-[^key-08c173c27184c8f7e0d0fd23fac91bfc]: Textual amendment: Words in [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/paragraph/2) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 19(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/19/3) (with [Sch. 11 para. 28](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/28))
+[^c-08c173c27184c8f7e0d0fd23fac91bfc]: Textual amendment: Words in [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/paragraph/2) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 19(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/19/3) (with [Sch. 11 para. 28](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/28))
 
-[^key-88978aed653a362ab50e5cda6540d7cd]: Textual amendment: Words in [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/paragraph/4) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 19(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/19/4)
+[^c-88978aed653a362ab50e5cda6540d7cd]: Textual amendment: Words in [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/paragraph/4) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 19(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/19/4)
 
-[^key-ecf648b0ca9f4195647fbabc4896b6be]: Textual amendment: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/paragraph/6) omitted (with effect in accordance with s. 99(2) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 32 para. 11(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/11/2)
+[^c-ecf648b0ca9f4195647fbabc4896b6be]: Textual amendment: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/paragraph/6) omitted (with effect in accordance with s. 99(2) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 32 para. 11(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/11/2)
 
-[^key-6e5d54429196a2340a4b4ef6460dd2fd]: Textual amendment: [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/paragraph/7) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 19(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/19/5)
+[^c-6e5d54429196a2340a4b4ef6460dd2fd]: Textual amendment: [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/paragraph/7) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 19(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/19/5)
 
-[^key-abdfcca3d85d3888d5602acb14e40fb0]: Textual amendment: Words in Sch. 15 para. 11 substituted (with effect in accordance with s. 58(4) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 58(3)](https://www.legislation.gov.uk/ukpga/2005/22/section/58/3)
+[^c-abdfcca3d85d3888d5602acb14e40fb0]: Textual amendment: Words in Sch. 15 para. 11 substituted (with effect in accordance with s. 58(4) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 58(3)](https://www.legislation.gov.uk/ukpga/2005/22/section/58/3)
 
-[^key-baa30d0dc42f55e76daf9716f2dd7aab]: Textual amendment: [Sch. 15 para. 11(b)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/paragraph/11/b) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2019/689/regulation/9/2) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-baa30d0dc42f55e76daf9716f2dd7aab]: Textual amendment: [Sch. 15 para. 11(b)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/paragraph/11/b) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2019/689/regulation/9/2) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dc0c3caadafe607e35372c2541a60c65]: Textual amendment: Sch. 15 para. 12A and cross-heading inserted (with effect in accordance with s. 99(2) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 32 para. 11(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/11/3)
+[^c-dc0c3caadafe607e35372c2541a60c65]: Textual amendment: Sch. 15 para. 12A and cross-heading inserted (with effect in accordance with s. 99(2) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 32 para. 11(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/11/3)
 
-[^key-7de68857426c6e0012c97c0f62643087]: Textual amendment: Word in [Sch. 15 para. 12A(3)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/paragraph/12A/3) omitted (22.4.2019) by virtue of [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2019/719/regulation/4/a/ii)
+[^c-7de68857426c6e0012c97c0f62643087]: Textual amendment: Word in [Sch. 15 para. 12A(3)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/paragraph/12A/3) omitted (22.4.2019) by virtue of [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2019/719/regulation/4/a/ii)
 
 [^c1126507]: Marginal citation: [1971 c.68](https://www.legislation.gov.uk/ukpga/1971/68).
 
@@ -247,20 +247,20 @@ shall be treated as duly stamped for all purposes other than paragraph 25.
 
 [^c1126509]: Marginal citation: [1989 c.26](https://www.legislation.gov.uk/ukpga/1989/26).
 
-[^key-a080bfaee13e18ee881fd9fb4749a8c9]: Textual amendment: Words in [Sch. 15 para. 17(1)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/paragraph/17/1) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 19(6)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/19/6/a)
+[^c-a080bfaee13e18ee881fd9fb4749a8c9]: Textual amendment: Words in [Sch. 15 para. 17(1)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/paragraph/17/1) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 19(6)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/19/6/a)
 
-[^key-c981d30cf828d8fcb3320dc475049d73]: Textual amendment: Words in [Sch. 15 para. 17(1)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/paragraph/17/1) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 19(6)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/19/6/b)
+[^c-c981d30cf828d8fcb3320dc475049d73]: Textual amendment: Words in [Sch. 15 para. 17(1)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/paragraph/17/1) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 19(6)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/19/6/b)
 
-[^key-095f65fa80042903b485ae1763e083de]: Textual amendment: Sch. 15 para. 20(b) substituted (with effect in accordance with s. 99(2) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 32 para. 11(4)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/11/4)
+[^c-095f65fa80042903b485ae1763e083de]: Textual amendment: Sch. 15 para. 20(b) substituted (with effect in accordance with s. 99(2) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 32 para. 11(4)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/11/4)
 
-[^key-9ae3b4d9a1eae94fe4d137590afea0b7]: Textual amendment: [Sch. 15 para. 21 cross-heading](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/part/III/crossheading/duty-chargeable-on-issue-of-instrument) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 19(7)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/19/7)
+[^c-9ae3b4d9a1eae94fe4d137590afea0b7]: Textual amendment: [Sch. 15 para. 21 cross-heading](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/part/III/crossheading/duty-chargeable-on-issue-of-instrument) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 19(7)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/19/7)
 
-[^key-3ef516835d3a9df37adf6af11b471c21]: Textual amendment: [Sch. 15 para. 21](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/paragraph/21) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 19(8)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/19/8)
+[^c-3ef516835d3a9df37adf6af11b471c21]: Textual amendment: [Sch. 15 para. 21](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/paragraph/21) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 19(8)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/19/8)
 
-[^key-6a9f0f3bbfdee2bd3eae00cb0b45c49b]: Textual amendment: [Sch. 15 para. 22](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/paragraph/22) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 19(9)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/19/9)
+[^c-6a9f0f3bbfdee2bd3eae00cb0b45c49b]: Textual amendment: [Sch. 15 para. 22](https://www.legislation.gov.uk/ukpga/1999/16/schedule/15/paragraph/22) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 19(9)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/19/9)
 
 [^c1126510]: Marginal citation: [1989 c.26](https://www.legislation.gov.uk/ukpga/1989/26).
 
 [^c1126511]: Marginal citation: [1891 c.39](https://www.legislation.gov.uk/ukpga/1891/39).
 
-[^key-a7097c41339e31adf2eb92a5ea09a93a]: Textual amendment: Sch. 15 para. 26(b) and word omitted (with effect in accordance with s. 99(2) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 32 para. 11(5)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/11/5)
+[^c-a7097c41339e31adf2eb92a5ea09a93a]: Textual amendment: Sch. 15 para. 26(b) and word omitted (with effect in accordance with s. 99(2) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 32 para. 11(5)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/11/5)

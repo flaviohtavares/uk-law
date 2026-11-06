@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Monetary penalties[^key-065eebd4c898c234d5f6646389eaeb13]
+## 58. Monetary penalties[^c-065eebd4c898c234d5f6646389eaeb13]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ The following provisions are to be regarded as not being financial sanctions leg
 
 ## Annotations
 
-[^key-065eebd4c898c234d5f6646389eaeb13]: Commencement: Reg. 58 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
+[^c-065eebd4c898c234d5f6646389eaeb13]: Commencement: Reg. 58 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
 
 [^c24239811]: Marginal citation: See section 143(4)(f) and (4A), as inserted by the Sanctions and Anti Money Laundering Act 2018, Schedule 3, paragraph 8(1) and (3).

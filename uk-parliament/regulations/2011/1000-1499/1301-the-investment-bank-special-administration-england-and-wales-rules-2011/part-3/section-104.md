@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Constitution of committee[^key-f4866242e04e9325eed58b2b9e523b46]
+## 104. Constitution of committee[^c-f4866242e04e9325eed58b2b9e523b46]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4866242e04e9325eed58b2b9e523b46]: Commencement: [Rule 104](https://www.legislation.gov.uk/uksi/2011/1301/rule/104) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-f4866242e04e9325eed58b2b9e523b46]: Commencement: [Rule 104](https://www.legislation.gov.uk/uksi/2011/1301/rule/104) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

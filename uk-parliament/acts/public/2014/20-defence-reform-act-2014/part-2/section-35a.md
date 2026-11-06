@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35A. Guidance[^key-9849484e424c7c0198587c73966a7de8]
+## 35A. Guidance[^c-9849484e424c7c0198587c73966a7de8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The SSRO may issue such guidance as it considers appropriate in relation to the 
 
 ## Annotations
 
-[^key-9849484e424c7c0198587c73966a7de8]: Textual amendment: [S. 35A](https://www.legislation.gov.uk/ukpga/2014/20/section/35A) inserted (1.4.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 10 para. 19](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/19); [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/2/b/iii)
+[^c-9849484e424c7c0198587c73966a7de8]: Textual amendment: [S. 35A](https://www.legislation.gov.uk/ukpga/2014/20/section/35A) inserted (1.4.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 10 para. 19](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/19); [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/2/b/iii)

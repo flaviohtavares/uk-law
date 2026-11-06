@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Vehicles for tests, trials or non-UK use etc: recognised category[^key-d5f08a132bfe40485bb3516401274983]
+## 36. Vehicles for tests, trials or non-UK use etc: recognised category[^c-d5f08a132bfe40485bb3516401274983]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5f08a132bfe40485bb3516401274983]: Commencement: Art. 36 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-d5f08a132bfe40485bb3516401274983]: Commencement: Art. 36 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

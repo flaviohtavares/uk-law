@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Temporary closure of streets, cycle tracks and public rights of way[^key-6ac83ab244279586e2e0e5e4dcc95cc4]
+## 14. Temporary closure of streets, cycle tracks and public rights of way[^c-6ac83ab244279586e2e0e5e4dcc95cc4]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ac83ab244279586e2e0e5e4dcc95cc4]: Commencement: Art. 14 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-6ac83ab244279586e2e0e5e4dcc95cc4]: Commencement: Art. 14 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

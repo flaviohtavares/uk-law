@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Safety regulations[^key-934dbc10dc9215da8f0771642026df4c]
+## 19. Safety regulations[^c-934dbc10dc9215da8f0771642026df4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ That Schedule does not limit subsection (1).
 
 ## Annotations
 
-[^key-934dbc10dc9215da8f0771642026df4c]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2018/5/section/19) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ee)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ee)
+[^c-934dbc10dc9215da8f0771642026df4c]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2018/5/section/19) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ee)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ee)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Dormant accounts of charities[^key-b6b6605ce690884b64d377eb1f4c97d4]
+## 47. Dormant accounts of charities[^c-b6b6605ce690884b64d377eb1f4c97d4]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ in respect of the amount.
 
 ## Annotations
 
-[^key-b6b6605ce690884b64d377eb1f4c97d4]: Commencement: S. 47 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-b6b6605ce690884b64d377eb1f4c97d4]: Commencement: S. 47 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)

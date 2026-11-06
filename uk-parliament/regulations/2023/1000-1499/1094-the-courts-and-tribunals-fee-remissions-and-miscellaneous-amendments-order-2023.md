@@ -66,7 +66,7 @@ The Lord Chancellor has consulted in accordance with section 92(5) and (6) of th
 
 In accordance with section 92(1) of the Courts Act 2003, sections 414(1) and 415(1) of the Insolvency Act 1986, section 52(1) of the Constitutional Reform Act 2005, section 54(1) of the Mental Capacity Act 2005 and section 42(6) of the Tribunals, Courts and Enforcement Act 2007, the Lord Chancellor has obtained the agreement, consent and sanction of the Treasury.
 
-## 1. Citation, commencement and extent[^key-dec6876fda870cd37afd8c68fa69d649]
+## 1. Citation, commencement and extent[^c-dec6876fda870cd37afd8c68fa69d649]
 
 (1) This Order may be cited as the Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023.
 
@@ -74,7 +74,7 @@ In accordance with section 92(1) of the Courts Act 2003, sections 414(1) and 415
 
 (3) This Order has the same extent as the instruments it amends.
 
-## 2. Amendments to fee remissions[^key-b2366634858c42e2026613a9e5ff1076]
+## 2. Amendments to fee remissions[^c-b2366634858c42e2026613a9e5ff1076]
 
 (1) Schedule 1A (remissions and part remissions) to the Non-contentious Probate Fees Order 2004[^f00007], the Schedule (remissions and part remissions) to the Gender Recognition (Application Fees) Order 2006[^f00008], and Schedule 2 (remissions and part remissions) to—
 
@@ -272,15 +272,15 @@ are amended as follows.
 
 (15) In paragraph 17(2) (refunds) for “paragraph 15” substitute “paragraph 16”.
 
-## 3. Amendments to the Civil Proceedings Fees Order 2008[^key-360d1db670c45f5e3d68bb071ac2db18][^key-257f251321214f9f7876d2543e06bde4]
+## 3. Amendments to the Civil Proceedings Fees Order 2008[^c-360d1db670c45f5e3d68bb071ac2db18][^c-257f251321214f9f7876d2543e06bde4]
 
 *Extent: E+W*
 
-(1)[^key-360d1db670c45f5e3d68bb071ac2db18] The Civil Proceedings Fees Order 2008[^f00017] is amended as follows.
+(1)[^c-360d1db670c45f5e3d68bb071ac2db18] The Civil Proceedings Fees Order 2008[^f00017] is amended as follows.
 
-(2)[^key-257f251321214f9f7876d2543e06bde4] In Schedule 1 (fees to be taken), in the entry for fee 2.1(a) for “the multi-track” substitute “the intermediate track or the multi-track”.
+(2)[^c-257f251321214f9f7876d2543e06bde4] In Schedule 1 (fees to be taken), in the entry for fee 2.1(a) for “the multi-track” substitute “the intermediate track or the multi-track”.
 
-(3)[^key-360d1db670c45f5e3d68bb071ac2db18] In Schedule 2 (remissions and part remissions)—
+(3)[^c-360d1db670c45f5e3d68bb071ac2db18] In Schedule 2 (remissions and part remissions)—
 
 - (a) in paragraph 1(1) (interpretation) in the definition of “excluded benefits”—
   - (i) in sub-paragraph (a) omit paragraph (viii);
@@ -448,11 +448,11 @@ are amended as follows.
     ;
 - (n) in paragraph 17(2) (refunds) for “paragraph 15” substitute “paragraph 16”.
 
-## 4. Amendments to the Supreme Court Fees Order 2009[^key-cf99574b24f6bc76df0995bcfe0c5933]
+## 4. Amendments to the Supreme Court Fees Order 2009[^c-cf99574b24f6bc76df0995bcfe0c5933]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the First-tier Tribunal (Immigration and Asylum Chamber) Fees Order 2011[^key-55e4ca37f3ab1ad1226fb05ec6c422e5]
+## 5. Amendments to the First-tier Tribunal (Immigration and Asylum Chamber) Fees Order 2011[^c-55e4ca37f3ab1ad1226fb05ec6c422e5]
 
 (1) The Schedule (remissions and reductions) to the First-tier Tribunal (Immigration and Asylum Chamber) Fees Order 2011[^f00019] is amended as follows.
 
@@ -638,7 +638,7 @@ are amended as follows.
 
   .
 
-## 6. Saving provisions[^key-5bd13f4e162549b409583e80bc813290]
+## 6. Saving provisions[^c-5bd13f4e162549b409583e80bc813290]
 
 The instruments amended by articles 2 to 5 of this Order and in force immediately before 27th November 2023, continue to apply as if this Order had not been made in respect of—
 
@@ -724,9 +724,9 @@ No impact assessment has been carried out for amendments to Fee 2.1(a) of the Ci
 
 [^f00006]: Footnote: [2004 c. 7](https://www.legislation.gov.uk/ukpga/2004/7); there are amendments to section 7, but none is relevant.
 
-[^key-dec6876fda870cd37afd8c68fa69d649]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2023/1094/article/1) in force at 27.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2)
+[^c-dec6876fda870cd37afd8c68fa69d649]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2023/1094/article/1) in force at 27.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2)
 
-[^key-b2366634858c42e2026613a9e5ff1076]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2023/1094/article/2) in force at 27.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2)
+[^c-b2366634858c42e2026613a9e5ff1076]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2023/1094/article/2) in force at 27.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2)
 
 [^f00007]: Footnote: [S.I. 2004/3120](https://www.legislation.gov.uk/uksi/2004/3120); relevant amending instruments are [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302), [2014/590](https://www.legislation.gov.uk/uksi/2014/590), [2016/211](https://www.legislation.gov.uk/uksi/2016/211), [2017/422](https://www.legislation.gov.uk/uksi/2017/422) and [2021/985](https://www.legislation.gov.uk/uksi/2021/985).
 
@@ -748,16 +748,16 @@ No impact assessment has been carried out for amendments to Fee 2.1(a) of the Ci
 
 [^f00016]: Footnote: [2020 c. 8](https://www.legislation.gov.uk/ukpga/2020/8).
 
-[^key-360d1db670c45f5e3d68bb071ac2db18]: Commencement: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/3/1)[(3)](https://www.legislation.gov.uk/uksi/2023/1094/article/3/3) in force at 27.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2)
+[^c-360d1db670c45f5e3d68bb071ac2db18]: Commencement: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/3/1)[(3)](https://www.legislation.gov.uk/uksi/2023/1094/article/3/3) in force at 27.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2)
 
-[^key-257f251321214f9f7876d2543e06bde4]: Commencement: Art. 3(2) in force at 6.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2)
+[^c-257f251321214f9f7876d2543e06bde4]: Commencement: Art. 3(2) in force at 6.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2)
 
 [^f00017]: Footnote: [S.I. 2018/1053](https://www.legislation.gov.uk/uksi/2018/1053); relevant amending instruments are [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302), [2014/590](https://www.legislation.gov.uk/uksi/2014/590), [2014/874](https://www.legislation.gov.uk/uksi/2014/874), [2014/1834](https://www.legislation.gov.uk/uksi/2014/1834), [2015/576](https://www.legislation.gov.uk/uksi/2015/576), [2016/211](https://www.legislation.gov.uk/uksi/2016/211), [2016/1191](https://www.legislation.gov.uk/uksi/2016/1191), [2017/422](https://www.legislation.gov.uk/uksi/2017/422) and [2021/985](https://www.legislation.gov.uk/uksi/2021/985).
 
-[^key-cf99574b24f6bc76df0995bcfe0c5933]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2023/1094/article/4) revoked (1.4.2024) by [The Supreme Court Fees Order 2024 (S.I. 2024/148)](https://www.legislation.gov.uk/uksi/2024/148), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/3)
+[^c-cf99574b24f6bc76df0995bcfe0c5933]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2023/1094/article/4) revoked (1.4.2024) by [The Supreme Court Fees Order 2024 (S.I. 2024/148)](https://www.legislation.gov.uk/uksi/2024/148), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/3)
 
-[^key-55e4ca37f3ab1ad1226fb05ec6c422e5]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2023/1094/article/5) in force at 27.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2)
+[^c-55e4ca37f3ab1ad1226fb05ec6c422e5]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2023/1094/article/5) in force at 27.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2)
 
 [^f00019]: Footnote: [S.I. 2011/2841](https://www.legislation.gov.uk/uksi/2011/2841); relevant amending instruments are [S.I. 2020/314](https://www.legislation.gov.uk/uksi/2020/314) and [S.I. 2021/985](https://www.legislation.gov.uk/uksi/2021/985).
 
-[^key-5bd13f4e162549b409583e80bc813290]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6) in force at 27.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2)
+[^c-5bd13f4e162549b409583e80bc813290]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6) in force at 27.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2)

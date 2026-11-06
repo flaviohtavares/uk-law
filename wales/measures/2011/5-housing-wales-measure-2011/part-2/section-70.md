@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Enforcement[^key-3eb2ddbf16acf09787112bf16fe5a77e]
+## 70. Enforcement[^c-3eb2ddbf16acf09787112bf16fe5a77e]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ After section 50T of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-3eb2ddbf16acf09787112bf16fe5a77e]: Commencement: [S. 70](https://www.legislation.gov.uk/mwa/2011/5/section/70) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(n)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/n)
+[^c-3eb2ddbf16acf09787112bf16fe5a77e]: Commencement: [S. 70](https://www.legislation.gov.uk/mwa/2011/5/section/70) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(n)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/n)

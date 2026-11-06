@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Notification of a decision to impose conditions[^key-d5b37b2034b012cdfea6eee4fe14f487]
+## 42. Notification of a decision to impose conditions[^c-d5b37b2034b012cdfea6eee4fe14f487]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ it must notify the persons and bodies specified in paragraph (2) and additionall
 - (e) the Northern Ireland Executive,
 - (f) the General Pharmaceutical Council, the Pharmaceutical Society of Northern Ireland or any other appropriate regulatory body,
 - (g) the Local Pharmaceutical Committee for the Local Health Board’s area,
-- (h) NHS England[^key-0eada485f4f77833693574d76266d559], and
+- (h) NHS England[^c-0eada485f4f77833693574d76266d559], and
 - (i) in the case of fraud, the NHS Business Services Authority.
 
 (3) The persons or bodies who may request to be additionally notified in accordance with paragraph (1) are—
@@ -73,6 +73,6 @@ it must notify the persons and bodies specified in paragraph (2) and additionall
 
 ## Annotations
 
-[^key-d5b37b2034b012cdfea6eee4fe14f487]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2020/1073/regulation/42) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-d5b37b2034b012cdfea6eee4fe14f487]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2020/1073/regulation/42) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
 
-[^key-0eada485f4f77833693574d76266d559]: Textual amendment: Words in reg. 42(2)(h) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [103(3)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/103/3)
+[^c-0eada485f4f77833693574d76266d559]: Textual amendment: Words in reg. 42(2)(h) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [103(3)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/103/3)

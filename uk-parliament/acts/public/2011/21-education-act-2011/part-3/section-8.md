@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Functions of Secretary of State in relation to teachers[^key-68738cf046c4d8ebf1cd34b6e6288c92]
+## 8. Functions of Secretary of State in relation to teachers[^c-68738cf046c4d8ebf1cd34b6e6288c92]
 
 *Extent: E+W*
 
@@ -186,4 +186,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68738cf046c4d8ebf1cd34b6e6288c92]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2011/21/section/8) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-68738cf046c4d8ebf1cd34b6e6288c92]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2011/21/section/8) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

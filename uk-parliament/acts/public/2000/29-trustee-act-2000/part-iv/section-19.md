@@ -28,9 +28,9 @@ summary: ''
 - (b) the person is a body corporate which is controlled by the trustees;
 - (c) the person is a body corporate recognised under section 9 of the [^c1055521]Administration of Justice Act 1985.
 
-(3) The question whether a body corporate is controlled by trustees is to be determined in accordance with section 1124 of the Corporation Tax Act 2010[^key-91c637f15729e37c0372fa939b032247].
+(3) The question whether a body corporate is controlled by trustees is to be determined in accordance with section 1124 of the Corporation Tax Act 2010[^c-91c637f15729e37c0372fa939b032247].
 
-(4) The trustees of a charitable trust which is not an exempt charity must act in accordance with any guidance given by the Charity Commission[^key-ef4b7585c70192bf5ad2952f18dfc16b] concerning the selection of a person for appointment as a nominee or custodian under section 16, 17 or 18.
+(4) The trustees of a charitable trust which is not an exempt charity must act in accordance with any guidance given by the Charity Commission[^c-ef4b7585c70192bf5ad2952f18dfc16b] concerning the selection of a person for appointment as a nominee or custodian under section 16, 17 or 18.
 
 (5) Subject to subsections (1) and (4), the persons whom the trustees may under section 16, 17 or 18 appoint as a nominee or custodian include—
 
@@ -51,6 +51,6 @@ summary: ''
 
 [^c1055521]: Marginal citation: [1985 c. 61](https://www.legislation.gov.uk/ukpga/1985/61).
 
-[^key-91c637f15729e37c0372fa939b032247]: Textual amendment: Words in s. 19(3) substituted (1.4.2010 with effect in accordance with s. 1184(1)) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 319](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/319) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-91c637f15729e37c0372fa939b032247]: Textual amendment: Words in s. 19(3) substituted (1.4.2010 with effect in accordance with s. 1184(1)) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 319](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/319) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-ef4b7585c70192bf5ad2952f18dfc16b]: Textual amendment: Words in s. 19(4) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 197](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/197); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-ef4b7585c70192bf5ad2952f18dfc16b]: Textual amendment: Words in s. 19(4) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 197](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/197); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)

@@ -42,7 +42,7 @@ The Health Services (Primary Care) (Northern Ireland) Order 1997
 
 (4) An order under paragraph (2) may contain such transitional provisions or savings as the Department considers appropriate.
 
-(5) An[^key-91093954fcf63c5013c5b6e9944986fc] HSC[^c2142584] trust is to be taken as having, at any time before the coming into operation of any provision of this Order, power to prepare for that coming into operation.
+(5) An[^c-91093954fcf63c5013c5b6e9944986fc] HSC[^c2142584] trust is to be taken as having, at any time before the coming into operation of any provision of this Order, power to prepare for that coming into operation.
 
 ### 2. Interpretation
 
@@ -52,7 +52,7 @@ The Health Services (Primary Care) (Northern Ireland) Order 1997
 
 (3) In this Order—
 
-[^key-13f5fd9554d96dba49a090ab39e6ca17]...
+[^c-13f5fd9554d96dba49a090ab39e6ca17]...
 
 “the 1972 Order” means the [^m00002] Health and Personal Social Services (Northern Ireland) Order 1972;
 
@@ -71,34 +71,34 @@ The Health Services (Primary Care) (Northern Ireland) Order 1997
 
 #### 3. Pilot schemes
 
-(1) In this Order “pilot scheme” means one or more agreements made by the Department[^key-cd59852c46fc3a7acd81a9b42021f60e] in accordance with this Part under which—
+(1) In this Order “pilot scheme” means one or more agreements made by the Department[^c-cd59852c46fc3a7acd81a9b42021f60e] in accordance with this Part under which—
 
-- (a)[^key-a62b30e7afc0166f5a93445166eaa91e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) personal dental services are provided (otherwise than by the Department[^key-dee75462bea511bc5d21d99544c6aa40] ).
+- (a)[^c-a62b30e7afc0166f5a93445166eaa91e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) personal dental services are provided (otherwise than by the Department[^c-dee75462bea511bc5d21d99544c6aa40] ).
 
-(2)[^key-40e910aa075a1bb1927dcd727bd622a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-40e910aa075a1bb1927dcd727bd622a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) A pilot scheme may include arrangements for the provision of health care[^c2142585]—
 
-- (a) which are not [^key-700ef5fa669154989a41ed4c1866286f]... personal dental services; but
+- (a) which are not [^c-700ef5fa669154989a41ed4c1866286f]... personal dental services; but
 - (b) which may be provided under Part II of the 1972 Order.
 
 (4) In this Order “piloted services” means services provided in accordance with a pilot scheme (including any services to which the scheme applies by virtue of paragraph (3)).
 
 (5) Except to such extent as may be prescribed—
 
-- (a)[^key-9f27289e0599b2d4da7b1438d81918c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) a patient for whom personal dental services am provided under a pilot scheme is not to count as a person for whom arrangements must be made by the Department[^key-24a3ff6bbe3361a40026aca3d5881b5c] under Article 61 of the 1972 Order.
+- (a)[^c-9f27289e0599b2d4da7b1438d81918c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) a patient for whom personal dental services am provided under a pilot scheme is not to count as a person for whom arrangements must be made by the Department[^c-24a3ff6bbe3361a40026aca3d5881b5c] under Article 61 of the 1972 Order.
 
 (6) The functions of an HSC[^c2142586] trust include power to provide piloted services, and to do so as a member of a qualifying body (within the meaning of Article 4 or 5).
 
 (7) For the purposes of this Part—
 
-[^key-eaae702d167ae11f2b7c665015f88f4b]...
+[^c-eaae702d167ae11f2b7c665015f88f4b]...
 
 “personal dental services” means dental services of a kind that may be provided by a general dental practitioner in accordance with arrangements made under Part VI of the 1972 Order.
 
-#### 4. Provision of personal medical services under a pilot scheme[^key-56c814c6e5162e33b2d172684aa86942]
+#### 4. Provision of personal medical services under a pilot scheme[^c-56c814c6e5162e33b2d172684aa86942]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -106,7 +106,7 @@ The Health Services (Primary Care) (Northern Ireland) Order 1997
 
 (1) This Article applies to any pilot scheme under which personal dental services are provided.
 
-(2) An agreement which constitutes, or is one of the agreements which together constitute, a pilot scheme may be made by the Department[^key-279d1dd00c9054d0853ddd7cd0e60179] only with one or more of the following—
+(2) An agreement which constitutes, or is one of the agreements which together constitute, a pilot scheme may be made by the Department[^c-279d1dd00c9054d0853ddd7cd0e60179] only with one or more of the following—
 
 - (a) an HSC[^c2142594] trust;
 - (b) a dental practitioner whose name is included in a dental list;
@@ -131,15 +131,15 @@ The Health Services (Primary Care) (Northern Ireland) Order 1997
 - (a) a body corporate which, in accordance with the provisions of Part IV of the [^m00006] Dentists Act 1984, is entitled to carry on the business of dentistry; or
 - (b) a company which is limited by shares all of which are legally and beneficially owned by persons falling within sub-paragraph (a), (b), (c) or (e) of paragraph (2).
 
-#### 6. Proposals for pilot schemes[^key-c59b5d39ba7b1ecadc7c38c76660be5b]
+#### 6. Proposals for pilot schemes[^c-c59b5d39ba7b1ecadc7c38c76660be5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Approval of pilot schemes[^key-9d03b641c95aa9e0123778a2a174a693]
+#### 7. Approval of pilot schemes[^c-9d03b641c95aa9e0123778a2a174a693]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Implementation of pilot schemes[^key-88fcbf8228d0ad4a9d24c5d2dfa7711e]
+#### 8. Implementation of pilot schemes[^c-88fcbf8228d0ad4a9d24c5d2dfa7711e]
 
 (1) Before implementing a pilot scheme the Department must—
 
@@ -162,7 +162,7 @@ The Health Services (Primary Care) (Northern Ireland) Order 1997
 
 (3) When conducting a review of a pilot scheme, the Department must give—
 
-- (a)[^key-2f6514f4d83df80686d7b72963306c22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-2f6514f4d83df80686d7b72963306c22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) any person providing services under the scheme,
 
 an opportunity to comment on any matter relevant to the review.
@@ -173,47 +173,47 @@ an opportunity to comment on any matter relevant to the review.
 
 #### 10. Variation and termination of pilot schemes
 
-(1) The Department may vary a pilot scheme that has been implemented.[^key-f3494b19ccbd28e0704d428aaca6f1a4]
+(1) The Department may vary a pilot scheme that has been implemented.[^c-f3494b19ccbd28e0704d428aaca6f1a4]
 
-(2) The Department may vary a pilot scheme under paragraph (1)[^key-d934e9ea7424451d7b40ec19d7e4270b] —
+(2) The Department may vary a pilot scheme under paragraph (1)[^c-d934e9ea7424451d7b40ec19d7e4270b] —
 
-- (a) in response to a request made by any[^key-f50a13d7a6b7fd3ad0672d41ecab3a1b] participant in the scheme; or
+- (a) in response to a request made by any[^c-f50a13d7a6b7fd3ad0672d41ecab3a1b] participant in the scheme; or
 - (b) on the Department's own initiative.
 
-(3)[^key-2b7ccf8c9aaf747e5fb1b68902bfcae4] A participant in a pilot scheme (other than the Department) may withdraw at any time before a variation of the scheme is implemented in relation to that person.
+(3)[^c-2b7ccf8c9aaf747e5fb1b68902bfcae4] A participant in a pilot scheme (other than the Department) may withdraw at any time before a variation of the scheme is implemented in relation to that person.
 
 (3A) As soon as is reasonably practical after implementing a variation, the Department must publish such details of the scheme as varied as it considers to be appropriate.
 
-(4) If the Department is satisfied that a pilot scheme is (for any reason) unsatisfactory, it may bring the scheme to an end.[^key-7301a89547297fba06dfc20d354e65e0]
+(4) If the Department is satisfied that a pilot scheme is (for any reason) unsatisfactory, it may bring the scheme to an end.[^c-7301a89547297fba06dfc20d354e65e0]
 
 ### General
 
 #### 11. Relationship between this Part and the 1972 Order
 
-(1) The provisions of the 1972 Order[^key-69c5dc6ca114aae517db5fa99e8b5156]... apply in relation to functions of the Department under this Part as if they were functions of the Department under Part II of that Order.
+(1) The provisions of the 1972 Order[^c-69c5dc6ca114aae517db5fa99e8b5156]... apply in relation to functions of the Department under this Part as if they were functions of the Department under Part II of that Order.
 
 (2) The 1972 Order has effect in relation to piloted services—
 
-- (a) subject to any provision of, or made under, this Part; [^key-1f8577f2ca7887c63e1f3f6cdc87aa1a]...
-- (b)[^key-1f8577f2ca7887c63e1f3f6cdc87aa1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) subject to any provision of, or made under, this Part; [^c-1f8577f2ca7887c63e1f3f6cdc87aa1a]...
+- (b)[^c-1f8577f2ca7887c63e1f3f6cdc87aa1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-9ee679b05e6b4c5517388524249e121a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9ee679b05e6b4c5517388524249e121a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Medical practitioners to be suitably experienced[^key-77a1716cafb487960c2ec7f3ee0b52bd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 13. Leaving medical lists[^key-963bea638d017e052b4d924b739aa739]
+#### 12. Medical practitioners to be suitably experienced[^c-77a1716cafb487960c2ec7f3ee0b52bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Preferential treatment on transferring to medical lists[^key-82a45ac85d4ca18df7e8fdf471b1cd5e]
+#### 13. Leaving medical lists[^c-963bea638d017e052b4d924b739aa739]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 14. Preferential treatment on transferring to medical lists[^c-82a45ac85d4ca18df7e8fdf471b1cd5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Art. 15 rep. by 2001 c. 3 (NI)*
 
-#### 16. Liabilities and obligations in relation to deputies[^key-7c40f9639f9c84373ca092bc68a50685]
+#### 16. Liabilities and obligations in relation to deputies[^c-7c40f9639f9c84373ca092bc68a50685]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -256,7 +256,7 @@ a health care body for the purposes of Article 8 of the 1991 Order (HSC contract
 
 #### 18. Funding of preparatory work
 
-(1) Provision may be made by regulations for the Department[^key-28330063c22ccc9ee79ded9febc9ed71] to make payments of financial assistance for preparatory work.
+(1) Provision may be made by regulations for the Department[^c-28330063c22ccc9ee79ded9febc9ed71] to make payments of financial assistance for preparatory work.
 
 (2) “Preparatory work” means work which it is reasonable for a person to undertake—
 
@@ -266,7 +266,7 @@ a health care body for the purposes of Article 8 of the 1991 Order (HSC contract
 (3) Regulations under this Article may, in particular, include provision—
 
 - (a) prescribing the circumstances in which payments of financial assistance may be made;
-- (b) imposing a limit on the amount of any payment of financial assistance which the Department[^key-bc42b303f9d3d0317b2927e6e8b8228b] may make in any prescribed period in respect of any one person or any one pilot scheme;
+- (b) imposing a limit on the amount of any payment of financial assistance which the Department[^c-bc42b303f9d3d0317b2927e6e8b8228b] may make in any prescribed period in respect of any one person or any one pilot scheme;
 - (c) imposing a limit on the aggregate amount which the Department may pay by way of financial assistance in any one financial year;
 - (d) requiring a person to whom assistance is given under this Article to comply with such conditions as may be imposed in accordance with prescribed requirements; and
 - (e) for repayment in the case of a failure to comply with any condition so imposed.
@@ -505,11 +505,11 @@ In Schedule 15 to the 1972 Order, after paragraph 1 A insert—
 
 ### Pharmaceutical services
 
-#### 27. Provision of additional pharmaceutical services[^key-8003f361f8db0ccf78361a329c4e1d17]
+#### 27. Provision of additional pharmaceutical services[^c-8003f361f8db0ccf78361a329c4e1d17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 28. Terms and conditions etc.[^key-b4cbab335781c61d9c8bcdf4ef5cbcb5]
+#### 28. Terms and conditions etc.[^c-b4cbab335781c61d9c8bcdf4ef5cbcb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -568,9 +568,9 @@ In the 1991 Order, after Article 8 (HSC contracts) insert—
 
 (3) Regulations under this Order shall be subject to negative resolution.
 
-(4)[^key-2210433d766ca572487d3c0b3006d6c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2210433d766ca572487d3c0b3006d6c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-edc432ec1a37eec416bc6bc13c1c35f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-edc432ec1a37eec416bc6bc13c1c35f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 32. Amendments and repeals
 
@@ -586,27 +586,27 @@ In the 1991 Order, after Article 8 (HSC contracts) insert—
 
 SCHEDULES
 
-## SCHEDULE 1 — PREFERENTIAL TREATMENT ON TRANSFERRING TO MEDICAL LISTS[^key-dd9f9e41e9c7a219d163bf6cb9ecc737]
+## SCHEDULE 1 — PREFERENTIAL TREATMENT ON TRANSFERRING TO MEDICAL LISTS[^c-dd9f9e41e9c7a219d163bf6cb9ecc737]
 
 Article 14.
 
-#### ...[^key-dd9f9e41e9c7a219d163bf6cb9ecc737]
+#### ...[^c-dd9f9e41e9c7a219d163bf6cb9ecc737]
 
-[^key-dd9f9e41e9c7a219d163bf6cb9ecc737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd9f9e41e9c7a219d163bf6cb9ecc737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd9f9e41e9c7a219d163bf6cb9ecc737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd9f9e41e9c7a219d163bf6cb9ecc737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd9f9e41e9c7a219d163bf6cb9ecc737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd9f9e41e9c7a219d163bf6cb9ecc737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd9f9e41e9c7a219d163bf6cb9ecc737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd9f9e41e9c7a219d163bf6cb9ecc737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd9f9e41e9c7a219d163bf6cb9ecc737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd9f9e41e9c7a219d163bf6cb9ecc737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd9f9e41e9c7a219d163bf6cb9ecc737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd9f9e41e9c7a219d163bf6cb9ecc737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd9f9e41e9c7a219d163bf6cb9ecc737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd9f9e41e9c7a219d163bf6cb9ecc737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd9f9e41e9c7a219d163bf6cb9ecc737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd9f9e41e9c7a219d163bf6cb9ecc737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Schedule 2—Amendments*
 
@@ -618,13 +618,13 @@ Article 14.
 
 [^c2142583]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(b)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/b) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-91093954fcf63c5013c5b6e9944986fc]: Textual amendment: Word in [art. 1(5)](https://www.legislation.gov.uk/nisi/1997/1177/article/1/5) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 172](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/172); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-91093954fcf63c5013c5b6e9944986fc]: Textual amendment: Word in [art. 1(5)](https://www.legislation.gov.uk/nisi/1997/1177/article/1/5) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 172](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/172); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c2142584]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(d)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/d) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
 [^m00001]: Marginal citation: 1954 c. 33 (N.I.).
 
-[^key-13f5fd9554d96dba49a090ab39e6ca17]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/nisi/1997/1177/article/2/3) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 173](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/173); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-13f5fd9554d96dba49a090ab39e6ca17]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/nisi/1997/1177/article/2/3) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 173](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/173); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^m00002]: Marginal citation: 1972 NI 14.
 
@@ -632,29 +632,29 @@ Article 14.
 
 [^c2115864]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1997/1177/part/II) (arts. 3-20) modified (prosp.) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2008 (c. 2)](https://www.legislation.gov.uk/nia/2008/2), [ss. 6](https://www.legislation.gov.uk/nia/2008/2/section/6), [18(2)(a)](https://www.legislation.gov.uk/nia/2008/2/section/18/2/a)
 
-[^key-cd59852c46fc3a7acd81a9b42021f60e]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisi/1997/1177/article/3/1) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 174(2)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/174/2/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-cd59852c46fc3a7acd81a9b42021f60e]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisi/1997/1177/article/3/1) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 174(2)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/174/2/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-a62b30e7afc0166f5a93445166eaa91e]: Textual amendment: [Art. 3(1)(a)](https://www.legislation.gov.uk/nisi/1997/1177/article/3/1/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 174(2)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/174/2/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-a62b30e7afc0166f5a93445166eaa91e]: Textual amendment: [Art. 3(1)(a)](https://www.legislation.gov.uk/nisi/1997/1177/article/3/1/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 174(2)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/174/2/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-dee75462bea511bc5d21d99544c6aa40]: Textual amendment: Words in [art. 3(1)(b)](https://www.legislation.gov.uk/nisi/1997/1177/article/3/1/b) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 174(2)(c)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/174/2/c); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-dee75462bea511bc5d21d99544c6aa40]: Textual amendment: Words in [art. 3(1)(b)](https://www.legislation.gov.uk/nisi/1997/1177/article/3/1/b) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 174(2)(c)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/174/2/c); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-40e910aa075a1bb1927dcd727bd622a8]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/nisi/1997/1177/article/3/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 174(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/174/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-40e910aa075a1bb1927dcd727bd622a8]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/nisi/1997/1177/article/3/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 174(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/174/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c2142585]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(b)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/b) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-700ef5fa669154989a41ed4c1866286f]: Textual amendment: Words in [art. 3(3)(a)](https://www.legislation.gov.uk/nisi/1997/1177/article/3/3/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 174(4)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/174/4); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-700ef5fa669154989a41ed4c1866286f]: Textual amendment: Words in [art. 3(3)(a)](https://www.legislation.gov.uk/nisi/1997/1177/article/3/3/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 174(4)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/174/4); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-9f27289e0599b2d4da7b1438d81918c0]: Textual amendment: [Art. 3(5)(a)](https://www.legislation.gov.uk/nisi/1997/1177/article/3/5/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 174(5)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/174/5/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-9f27289e0599b2d4da7b1438d81918c0]: Textual amendment: [Art. 3(5)(a)](https://www.legislation.gov.uk/nisi/1997/1177/article/3/5/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 174(5)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/174/5/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-24a3ff6bbe3361a40026aca3d5881b5c]: Textual amendment: Words in [art. 3(5)(b)](https://www.legislation.gov.uk/nisi/1997/1177/article/3/5/b) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 174(5)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/174/5/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-24a3ff6bbe3361a40026aca3d5881b5c]: Textual amendment: Words in [art. 3(5)(b)](https://www.legislation.gov.uk/nisi/1997/1177/article/3/5/b) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 174(5)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/174/5/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c2142586]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(d)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/d) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-eaae702d167ae11f2b7c665015f88f4b]: Textual amendment: Words in [art. 3(7)](https://www.legislation.gov.uk/nisi/1997/1177/article/3/7) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 174(6)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/174/6); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-eaae702d167ae11f2b7c665015f88f4b]: Textual amendment: Words in [art. 3(7)](https://www.legislation.gov.uk/nisi/1997/1177/article/3/7) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 174(6)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/174/6); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-56c814c6e5162e33b2d172684aa86942]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/nisi/1997/1177/article/4) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 175](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/175); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-56c814c6e5162e33b2d172684aa86942]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/nisi/1997/1177/article/4) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 175](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/175); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-279d1dd00c9054d0853ddd7cd0e60179]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/nisi/1997/1177/article/5/2) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 176](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/176); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-279d1dd00c9054d0853ddd7cd0e60179]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/nisi/1997/1177/article/5/2) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 176](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/176); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c2142594]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(d)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/d) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
@@ -664,45 +664,45 @@ Article 14.
 
 [^m00006]: Marginal citation: 1984 c. 24.
 
-[^key-c59b5d39ba7b1ecadc7c38c76660be5b]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/nisi/1997/1177/article/6) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 177](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/177); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-c59b5d39ba7b1ecadc7c38c76660be5b]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/nisi/1997/1177/article/6) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 177](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/177); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-9d03b641c95aa9e0123778a2a174a693]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/nisi/1997/1177/article/7) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 177](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/177); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-9d03b641c95aa9e0123778a2a174a693]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/nisi/1997/1177/article/7) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 177](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/177); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-88fcbf8228d0ad4a9d24c5d2dfa7711e]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/nisi/1997/1177/article/8) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 178](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/178); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-88fcbf8228d0ad4a9d24c5d2dfa7711e]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/nisi/1997/1177/article/8) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 178](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/178); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-2f6514f4d83df80686d7b72963306c22]: Textual amendment: [Art. 9(3)(a)](https://www.legislation.gov.uk/nisi/1997/1177/article/9/3/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 179](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/179); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-2f6514f4d83df80686d7b72963306c22]: Textual amendment: [Art. 9(3)(a)](https://www.legislation.gov.uk/nisi/1997/1177/article/9/3/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 179](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/179); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-f3494b19ccbd28e0704d428aaca6f1a4]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/nisi/1997/1177/article/10/1) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 180(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/180/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f3494b19ccbd28e0704d428aaca6f1a4]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/nisi/1997/1177/article/10/1) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 180(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/180/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-d934e9ea7424451d7b40ec19d7e4270b]: Textual amendment: Words in [art. 10(2)](https://www.legislation.gov.uk/nisi/1997/1177/article/10/2) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 180(3)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/180/3/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-d934e9ea7424451d7b40ec19d7e4270b]: Textual amendment: Words in [art. 10(2)](https://www.legislation.gov.uk/nisi/1997/1177/article/10/2) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 180(3)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/180/3/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-f50a13d7a6b7fd3ad0672d41ecab3a1b]: Textual amendment: Word in [art. 10(2)(a)](https://www.legislation.gov.uk/nisi/1997/1177/article/10/2/a) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 180(3)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/180/3/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f50a13d7a6b7fd3ad0672d41ecab3a1b]: Textual amendment: Word in [art. 10(2)(a)](https://www.legislation.gov.uk/nisi/1997/1177/article/10/2/a) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 180(3)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/180/3/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-2b7ccf8c9aaf747e5fb1b68902bfcae4]: Textual amendment: [Art. 10(3)](https://www.legislation.gov.uk/nisi/1997/1177/article/10/3)[(3A)](https://www.legislation.gov.uk/nisi/1997/1177/article/10/3A) substituted for [art. 10(3)](https://www.legislation.gov.uk/nisi/1997/1177/article/10/3) (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 180(4)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/180/4); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-2b7ccf8c9aaf747e5fb1b68902bfcae4]: Textual amendment: [Art. 10(3)](https://www.legislation.gov.uk/nisi/1997/1177/article/10/3)[(3A)](https://www.legislation.gov.uk/nisi/1997/1177/article/10/3A) substituted for [art. 10(3)](https://www.legislation.gov.uk/nisi/1997/1177/article/10/3) (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 180(4)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/180/4); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-7301a89547297fba06dfc20d354e65e0]: Textual amendment: Words in [art. 10(4)](https://www.legislation.gov.uk/nisi/1997/1177/article/10/4) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 180(5)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/180/5); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-7301a89547297fba06dfc20d354e65e0]: Textual amendment: Words in [art. 10(4)](https://www.legislation.gov.uk/nisi/1997/1177/article/10/4) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 180(5)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/180/5); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-69c5dc6ca114aae517db5fa99e8b5156]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/nisi/1997/1177/article/11/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 181(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/181/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-69c5dc6ca114aae517db5fa99e8b5156]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/nisi/1997/1177/article/11/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 181(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/181/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-1f8577f2ca7887c63e1f3f6cdc87aa1a]: Textual amendment: [Art. 11(2)(b)](https://www.legislation.gov.uk/nisi/1997/1177/article/11/2/b) and word omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 181(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/181/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-1f8577f2ca7887c63e1f3f6cdc87aa1a]: Textual amendment: [Art. 11(2)(b)](https://www.legislation.gov.uk/nisi/1997/1177/article/11/2/b) and word omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 181(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/181/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-9ee679b05e6b4c5517388524249e121a]: Textual amendment: [Art. 11(3)](https://www.legislation.gov.uk/nisi/1997/1177/article/11/3) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 181(4)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/181/4); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-9ee679b05e6b4c5517388524249e121a]: Textual amendment: [Art. 11(3)](https://www.legislation.gov.uk/nisi/1997/1177/article/11/3) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 181(4)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/181/4); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-77a1716cafb487960c2ec7f3ee0b52bd]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/nisi/1997/1177/article/12) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 182](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/182); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-77a1716cafb487960c2ec7f3ee0b52bd]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/nisi/1997/1177/article/12) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 182](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/182); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-963bea638d017e052b4d924b739aa739]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/nisi/1997/1177/article/13) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 182](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/182); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-963bea638d017e052b4d924b739aa739]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/nisi/1997/1177/article/13) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 182](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/182); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-82a45ac85d4ca18df7e8fdf471b1cd5e]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/nisi/1997/1177/article/14) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 182](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/182); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-82a45ac85d4ca18df7e8fdf471b1cd5e]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/nisi/1997/1177/article/14) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 182](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/182); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-7c40f9639f9c84373ca092bc68a50685]: Textual amendment: [Art. 16](https://www.legislation.gov.uk/nisi/1997/1177/article/16) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 182](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/182); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-7c40f9639f9c84373ca092bc68a50685]: Textual amendment: [Art. 16](https://www.legislation.gov.uk/nisi/1997/1177/article/16) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 182](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/182); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c2142891]: Textual amendment: Words in Order substituted (1.4.2009) by virtue of [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(e)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/e) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
 [^c2142876]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(b)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/b) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-28330063c22ccc9ee79ded9febc9ed71]: Textual amendment: Words in [art. 18(1)](https://www.legislation.gov.uk/nisi/1997/1177/article/18/1) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 183(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/183/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-28330063c22ccc9ee79ded9febc9ed71]: Textual amendment: Words in [art. 18(1)](https://www.legislation.gov.uk/nisi/1997/1177/article/18/1) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 183(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/183/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-bc42b303f9d3d0317b2927e6e8b8228b]: Textual amendment: Words in [art. 18(3)](https://www.legislation.gov.uk/nisi/1997/1177/article/18/3) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 183(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/183/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-bc42b303f9d3d0317b2927e6e8b8228b]: Textual amendment: Words in [art. 18(3)](https://www.legislation.gov.uk/nisi/1997/1177/article/18/3) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 183(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/183/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c2142903]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(b)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/b) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
@@ -714,9 +714,9 @@ Article 14.
 
 [^m00010]: Marginal citation: 1978 NI 26.
 
-[^key-8003f361f8db0ccf78361a329c4e1d17]: Textual amendment: [Art. 27](https://www.legislation.gov.uk/nisi/1997/1177/article/27) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 184](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/184); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-8003f361f8db0ccf78361a329c4e1d17]: Textual amendment: [Art. 27](https://www.legislation.gov.uk/nisi/1997/1177/article/27) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 184](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/184); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-b4cbab335781c61d9c8bcdf4ef5cbcb5]: Textual amendment: [Art. 28](https://www.legislation.gov.uk/nisi/1997/1177/article/28) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 184](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/184); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-b4cbab335781c61d9c8bcdf4ef5cbcb5]: Textual amendment: [Art. 28](https://www.legislation.gov.uk/nisi/1997/1177/article/28) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 184](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/184); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c2143018]: Textual amendment: Words in Order substituted (1.4.2009) by virtue of [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(e)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/e) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
@@ -726,8 +726,8 @@ Article 14.
 
 [^c2143023]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(e)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/e) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-2210433d766ca572487d3c0b3006d6c7]: Textual amendment: [Art. 31(4)](https://www.legislation.gov.uk/nisi/1997/1177/article/31/4) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 185](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/185); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-2210433d766ca572487d3c0b3006d6c7]: Textual amendment: [Art. 31(4)](https://www.legislation.gov.uk/nisi/1997/1177/article/31/4) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 185](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/185); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-edc432ec1a37eec416bc6bc13c1c35f5]: Textual amendment: [Art. 31(5)](https://www.legislation.gov.uk/nisi/1997/1177/article/31/5) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 185](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/185); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-edc432ec1a37eec416bc6bc13c1c35f5]: Textual amendment: [Art. 31(5)](https://www.legislation.gov.uk/nisi/1997/1177/article/31/5) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 185](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/185); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-dd9f9e41e9c7a219d163bf6cb9ecc737]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisi/1997/1177/schedule/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 186](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/186); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-dd9f9e41e9c7a219d163bf6cb9ecc737]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisi/1997/1177/schedule/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 186](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/186); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Qualifications bodies[^key-0426f88ec5be28b74ebc00c2680a6eb1]
+## 20. Qualifications bodies[^c-0426f88ec5be28b74ebc00c2680a6eb1]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0426f88ec5be28b74ebc00c2680a6eb1]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/261/regulation/20) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-0426f88ec5be28b74ebc00c2680a6eb1]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/261/regulation/20) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

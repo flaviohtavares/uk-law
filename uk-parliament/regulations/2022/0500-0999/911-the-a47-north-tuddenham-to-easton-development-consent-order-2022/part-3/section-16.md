@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Permanent stopping up and restriction of use of streets and private means of access[^key-385dba9610cf78176b59a16141047bf7]
+## 16. Permanent stopping up and restriction of use of streets and private means of access[^c-385dba9610cf78176b59a16141047bf7]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-385dba9610cf78176b59a16141047bf7]: Commencement: Art. 16 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
+[^c-385dba9610cf78176b59a16141047bf7]: Commencement: Art. 16 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)

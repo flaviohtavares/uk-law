@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Services to promote diversity in persons seeking elected office[^key-d747f38f064cb608ec1f5064d8b942e2][^key-c65f3c63416439e2440c80e2e89efff1]
+## 27. Services to promote diversity in persons seeking elected office[^c-d747f38f064cb608ec1f5064d8b942e2][^c-c65f3c63416439e2440c80e2e89efff1]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d747f38f064cb608ec1f5064d8b942e2]: Commencement: S. 27 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-d747f38f064cb608ec1f5064d8b942e2]: Commencement: S. 27 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-c65f3c63416439e2440c80e2e89efff1]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2024/5/section/27) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/a)
+[^c-c65f3c63416439e2440c80e2e89efff1]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2024/5/section/27) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/a)

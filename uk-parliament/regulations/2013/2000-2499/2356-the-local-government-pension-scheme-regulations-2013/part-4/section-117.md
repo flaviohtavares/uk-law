@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 117. Elected Members[^key-8701481b966d53af56dd7684a7d1c5ab]
+## 117. Elected Members[^c-8701481b966d53af56dd7684a7d1c5ab]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8701481b966d53af56dd7684a7d1c5ab]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2013/2356/part/4) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2026/346/regulation/3)
+[^c-8701481b966d53af56dd7684a7d1c5ab]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2013/2356/part/4) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2026/346/regulation/3)

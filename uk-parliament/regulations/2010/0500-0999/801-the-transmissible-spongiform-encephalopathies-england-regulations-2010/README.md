@@ -34,7 +34,7 @@ Animals, England
 
 Animal Health
 
-The Transmissible Spongiform Encephalopathies (England) Regulations 2010 (revoked)[^key-98834ffb26298673be328a7c80ecba98]
+The Transmissible Spongiform Encephalopathies (England) Regulations 2010 (revoked)[^c-98834ffb26298673be328a7c80ecba98]
 
 Made
 
@@ -48,11 +48,11 @@ Coming into force
 
 6th April 2010
 
-[^key-98834ffb26298673be328a7c80ecba98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98834ffb26298673be328a7c80ecba98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General Provisions[^key-98834ffb26298673be328a7c80ecba98]
+### PART 1 — General Provisions[^c-98834ffb26298673be328a7c80ecba98]
 
 *Extent: E+W+S+NI*
 
@@ -63,7 +63,7 @@ Coming into force
 - [Section 3 — Appointment of competent authority](part-1/section-3.md)
 - [Section 4 — Exception for research](part-1/section-4.md)
 
-### PART 2 — Introduction of Schedules[^key-98834ffb26298673be328a7c80ecba98]
+### PART 2 — Introduction of Schedules[^c-98834ffb26298673be328a7c80ecba98]
 
 *Extent: E+W+S+NI*
 
@@ -71,7 +71,7 @@ Coming into force
 
 - [Section 5 — The Schedules](part-2/section-5.md)
 
-### PART 3 — Administration and Enforcement[^key-98834ffb26298673be328a7c80ecba98]
+### PART 3 — Administration and Enforcement[^c-98834ffb26298673be328a7c80ecba98]
 
 *Extent: E+W+S+NI*
 
@@ -102,7 +102,7 @@ Coming into force
 
 **No longer in force.**
 
-[^key-98834ffb26298673be328a7c80ecba98]SCHEDULES
+[^c-98834ffb26298673be328a7c80ecba98]SCHEDULES
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)
@@ -117,13 +117,13 @@ Coming into force
 
 **No longer in force.**
 
-[^key-98834ffb26298673be328a7c80ecba98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98834ffb26298673be328a7c80ecba98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+NI*
 
 **No longer in force.**
 
-[^key-98834ffb26298673be328a7c80ecba98]EXPLANATORY NOTE
+[^c-98834ffb26298673be328a7c80ecba98]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -131,47 +131,47 @@ These Regulations, which apply in England, revoke and remake with amendments the
 
 These Regulations enforce Regulation [(EC) No 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999) of the European Parliament and of the Council laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies (OJ No L 147, 31.5.2001, p 1) as amended (“the EU TSE Regulation”). They also enforce—
 
-- (a)[^key-98834ffb26298673be328a7c80ecba98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-98834ffb26298673be328a7c80ecba98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-98834ffb26298673be328a7c80ecba98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-98834ffb26298673be328a7c80ecba98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-98834ffb26298673be328a7c80ecba98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-98834ffb26298673be328a7c80ecba98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-98834ffb26298673be328a7c80ecba98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-98834ffb26298673be328a7c80ecba98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## The main Regulations[^key-98834ffb26298673be328a7c80ecba98]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Schedule 1[^key-98834ffb26298673be328a7c80ecba98]
+## The main Regulations[^c-98834ffb26298673be328a7c80ecba98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Schedule 2[^key-98834ffb26298673be328a7c80ecba98]
+## Schedule 1[^c-98834ffb26298673be328a7c80ecba98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Schedule 3[^key-98834ffb26298673be328a7c80ecba98]
+## Schedule 2[^c-98834ffb26298673be328a7c80ecba98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Schedule 4[^key-98834ffb26298673be328a7c80ecba98]
+## Schedule 3[^c-98834ffb26298673be328a7c80ecba98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Schedule 5[^key-98834ffb26298673be328a7c80ecba98]
+## Schedule 4[^c-98834ffb26298673be328a7c80ecba98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Schedule 6[^key-98834ffb26298673be328a7c80ecba98]
+## Schedule 5[^c-98834ffb26298673be328a7c80ecba98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Schedule 7[^key-98834ffb26298673be328a7c80ecba98]
+## Schedule 6[^c-98834ffb26298673be328a7c80ecba98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Schedule 8[^key-98834ffb26298673be328a7c80ecba98]
+## Schedule 7[^c-98834ffb26298673be328a7c80ecba98]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Schedule 8[^c-98834ffb26298673be328a7c80ecba98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-98834ffb26298673be328a7c80ecba98]: Textual amendment: Regulations revoked (19.7.2018) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2018 (S.I. 2018/731)](https://www.legislation.gov.uk/uksi/2018/731), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/731/regulation/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2018/731/schedule/9) (with [reg. 23](https://www.legislation.gov.uk/uksi/2018/731/regulation/23))
+[^c-98834ffb26298673be328a7c80ecba98]: Textual amendment: Regulations revoked (19.7.2018) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2018 (S.I. 2018/731)](https://www.legislation.gov.uk/uksi/2018/731), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/731/regulation/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2018/731/schedule/9) (with [reg. 23](https://www.legislation.gov.uk/uksi/2018/731/regulation/23))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 276B. Data protection[^key-3a9e390293f5f2c2d92f582759bf729a]
+## 276B. Data protection[^c-3a9e390293f5f2c2d92f582759bf729a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a9e390293f5f2c2d92f582759bf729a]: Textual amendment: [S. 276B](https://www.legislation.gov.uk/ukpga/2008/17/section/276B) inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 5 para. 44](https://www.legislation.gov.uk/ukpga/2023/36/schedule/5/paragraph/44); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(y)(xiv)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/y/xiv)
+[^c-3a9e390293f5f2c2d92f582759bf729a]: Textual amendment: [S. 276B](https://www.legislation.gov.uk/ukpga/2008/17/section/276B) inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 5 para. 44](https://www.legislation.gov.uk/ukpga/2023/36/schedule/5/paragraph/44); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(y)(xiv)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/y/xiv)

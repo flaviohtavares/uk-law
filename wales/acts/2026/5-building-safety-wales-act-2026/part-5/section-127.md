@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127. Issue of guidance by the Welsh Ministers about the exercise of functions[^key-f2ac59a4b727183959e5ec741632d0db]
+## 127. Issue of guidance by the Welsh Ministers about the exercise of functions[^c-f2ac59a4b727183959e5ec741632d0db]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2ac59a4b727183959e5ec741632d0db]: Commencement: S. 127 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-f2ac59a4b727183959e5ec741632d0db]: Commencement: S. 127 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

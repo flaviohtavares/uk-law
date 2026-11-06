@@ -105,9 +105,9 @@ These Regulations shall be cited as the Social Security Amendment (Capital Disre
 
 .
 
-(2)[^key-fa73c45ff59b9263d965ebb833ced2a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-fa73c45ff59b9263d965ebb833ced2a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations 1987[^key-1d5b5a2cfd8a47217d9d93794ac5c8d6]
+## 3. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations 1987[^c-1d5b5a2cfd8a47217d9d93794ac5c8d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -158,8 +158,8 @@ These Regulations do not impose any charge on business.
 
 [^c1554152]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207); the preceding paragraph was inserted by [S.I. 2001/22](https://www.legislation.gov.uk/uksi/2001/22).
 
-[^key-fa73c45ff59b9263d965ebb833ced2a3]: Textual amendment: Reg. 2(2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-fa73c45ff59b9263d965ebb833ced2a3]: Textual amendment: Reg. 2(2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
-[^key-1d5b5a2cfd8a47217d9d93794ac5c8d6]: Textual amendment: Reg. 3 revoked (5.12.2005) by [The Social Fund Maternity and Funeral Expenses (General) Regulations 2005 (S.I. 2005/3061)](https://www.legislation.gov.uk/uksi/2005/3061), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3061/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3061/schedule)
+[^c-1d5b5a2cfd8a47217d9d93794ac5c8d6]: Textual amendment: Reg. 3 revoked (5.12.2005) by [The Social Fund Maternity and Funeral Expenses (General) Regulations 2005 (S.I. 2005/3061)](https://www.legislation.gov.uk/uksi/2005/3061), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3061/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3061/schedule)
 
 [^c1554156]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2001/1118/section/I) 1997/2205 to which there are amendments which are not relevant to these Regulations.

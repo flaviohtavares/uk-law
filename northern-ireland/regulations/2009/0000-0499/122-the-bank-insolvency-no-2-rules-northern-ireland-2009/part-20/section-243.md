@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 243. Record of examination[^key-55b99483810c9eeb35afc459d9c91aa6]
+## 243. Record of examination[^c-55b99483810c9eeb35afc459d9c91aa6]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 9.5 of the 1991 Rules.
 
 ## Annotations
 
-[^key-55b99483810c9eeb35afc459d9c91aa6]: Commencement: Rule 243 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-55b99483810c9eeb35afc459d9c91aa6]: Commencement: Rule 243 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

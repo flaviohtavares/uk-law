@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 902. Meaning of “applicable rate” in section 901[^key-40b82b89a10580407caa0f1e78d0ccc9]
+## 902. Meaning of “applicable rate” in section 901[^c-40b82b89a10580407caa0f1e78d0ccc9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40b82b89a10580407caa0f1e78d0ccc9]: Textual amendment: S. 902 omitted (21.7.2008 with effect in accordance with Sch. 1 para. 65 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/30)
+[^c-40b82b89a10580407caa0f1e78d0ccc9]: Textual amendment: S. 902 omitted (21.7.2008 with effect in accordance with Sch. 1 para. 65 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/30)

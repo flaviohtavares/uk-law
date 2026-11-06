@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Quorum[^key-1d4499fec8f084bf2a8b8ada8139871a]
+## 65. Quorum[^c-1d4499fec8f084bf2a8b8ada8139871a]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d4499fec8f084bf2a8b8ada8139871a]: Commencement: Rule 65 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-1d4499fec8f084bf2a8b8ada8139871a]: Commencement: Rule 65 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

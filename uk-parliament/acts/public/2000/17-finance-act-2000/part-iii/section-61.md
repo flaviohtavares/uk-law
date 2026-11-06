@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Occupational and personal pension schemes.[^key-3f1e09102f0f1fd6774aa068002798ef]
+## 61. Occupational and personal pension schemes.[^c-3f1e09102f0f1fd6774aa068002798ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f1e09102f0f1fd6774aa068002798ef]: Textual amendment: [S. 61](https://www.legislation.gov.uk/ukpga/2000/17/section/61) repealed (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3)
+[^c-3f1e09102f0f1fd6774aa068002798ef]: Textual amendment: [S. 61](https://www.legislation.gov.uk/ukpga/2000/17/section/61) repealed (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3)

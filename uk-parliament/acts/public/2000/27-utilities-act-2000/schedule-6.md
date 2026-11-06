@@ -93,7 +93,7 @@ The repeal of subsection (4)(d) of section 7B is without prejudice to the genera
 
 *Extent: E+W+S*
 
-**9.**[^key-5f44562e35a3e96a651cf5e80ff2eacb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-5f44562e35a3e96a651cf5e80ff2eacb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.**[^c1259283] In section 27A(1) (determination of certain disputes) for “domestic customer” there is substituted “ customer of a person authorised by a licence or exemption to supply gas ”.
 
@@ -108,7 +108,7 @@ The repeal of subsection (4)(d) of section 7B is without prejudice to the genera
 - (c) after “33B,” there is inserted “ 33BA, 33C, ”;
 - (d) “33BB” is omitted;
 - (e) for “or 33E” there is substituted “ , 33F, 41A or 41B ”; and
-- (f)[^key-38fbb6322ad14353f010133915c9c2d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-38fbb6322ad14353f010133915c9c2d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **13.**[^c1259286] In section 33A (standards of performance in individual cases)—
 
@@ -184,7 +184,7 @@ The repeal of subsection (4)(d) of section 7B is without prejudice to the genera
   ;
 
   and
-- (b)[^key-4839cfbb0e3587b5d85b6b6f3a852e15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4839cfbb0e3587b5d85b6b6f3a852e15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **23.**[^c1259296] In Schedule 2B (the gas code), in paragraph 8—
 
@@ -276,7 +276,7 @@ The repeal of subsection (4)(d) of section 7B is without prejudice to the genera
 
 (2) In subsection (2)—
 
-- (a)[^key-8074ae23ecaa54050b76354dad5918d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8074ae23ecaa54050b76354dad5918d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (b) after “transmission” there is inserted “ , distribution ”;
 - (c) in paragraph (c) for “supply of electricity through or by” there is substituted “ conveyance of electricity through ”.
 
@@ -370,7 +370,7 @@ The repeal of subsection (4)(d) of section 7B is without prejudice to the genera
   ;
 
   and
-- (b)[^key-27c6eafd73d84cdcf73c42cc3c232cbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-27c6eafd73d84cdcf73c42cc3c232cbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part III — Other Acts
 
@@ -408,7 +408,7 @@ The repeal of subsection (4)(d) of section 7B is without prejudice to the genera
 
 #### Public Records Act 1958 (c. 51)
 
-**42.**[^key-07f05ad31e9a80543f90cf285eb25781] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-07f05ad31e9a80543f90cf285eb25781] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Parliamentary Commissioner Act 1967 (c. 13)
 
@@ -438,7 +438,7 @@ The repeal of subsection (4)(d) of section 7B is without prejudice to the genera
 
 #### Bankruptcy (Scotland) Act 1985 (c. 66)
 
-**46.**[^key-6de3f7cc0336897456113e1f8681fc69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-6de3f7cc0336897456113e1f8681fc69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Insolvency Act 1986 (c. 45)
 
@@ -486,7 +486,7 @@ The repeal of subsection (4)(d) of section 7B is without prejudice to the genera
 
 [^c1259279]: Commencement: Sch. 6 para. 8(1) in force for specified purposes and s. 8(3) in force at 20.12.2000 by [S.I. 2000/3343](https://www.legislation.gov.uk/uksi/2000/3343), [art. 2](https://www.legislation.gov.uk/uksi/2000/3343/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/3343/schedule) (subject to transitional provisions in [arts. 3-15](https://www.legislation.gov.uk/uksi/2000/3343/article/3)); Sch. 6 para. 8(1) in force for all remaining purposes and Sch. 6 para. 8(2)(4) in force for all purposes at 1.10.2001 by [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-5f44562e35a3e96a651cf5e80ff2eacb]: Textual amendment: Sch. 6 para. 9 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-5f44562e35a3e96a651cf5e80ff2eacb]: Textual amendment: Sch. 6 para. 9 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
 [^c1259283]: Commencement: Sch. 6 para. 10 in force at 1.10.2001 by [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
@@ -494,7 +494,7 @@ The repeal of subsection (4)(d) of section 7B is without prejudice to the genera
 
 [^c1259285]: Commencement: Sch. 6 para. 12(f) in force at 7.11.2000 by [S.I. 2000/2974](https://www.legislation.gov.uk/uksi/2000/2974), [art. 2](https://www.legislation.gov.uk/uksi/2000/2974/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/2974/schedule)(subject to transitional provisions in arts. 3-12); Sch. 6 para. 12(a)-(e) in force at 1.10.2001 by [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-38fbb6322ad14353f010133915c9c2d0]: Textual amendment: Sch. 6 para. 12(f) repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-38fbb6322ad14353f010133915c9c2d0]: Textual amendment: Sch. 6 para. 12(f) repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
 [^c1259286]: Commencement: Sch. 6 para. 13 in force for specified purposes at 16.5.2001 by [S.I. 2001/1781](https://www.legislation.gov.uk/uksi/2001/1781), [art. 2](https://www.legislation.gov.uk/uksi/2001/1781/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/1781/schedule) (subject to transitional provisions in [arts. 3-10](https://www.legislation.gov.uk/uksi/2001/1781/article/3)); Sch. 6 para. 13 in force for all remaining purposes at 1.10.2001 by [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
@@ -516,7 +516,7 @@ The repeal of subsection (4)(d) of section 7B is without prejudice to the genera
 
 [^c1259295]: Commencement: Sch. 6 para. 22(b) in force at 7.11.2000 by [S.I. 2000/2974](https://www.legislation.gov.uk/uksi/2000/2974), [art. 2](https://www.legislation.gov.uk/uksi/2000/2974/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/2974/schedule)(subject to transitional provisions in arts. 3-12); Sch. 6 para. 22(a) in force at 20.12.2000 by [S.I. 2000/3343](https://www.legislation.gov.uk/uksi/2000/3343), [art. 2](https://www.legislation.gov.uk/uksi/2000/3343/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/3343/schedule)(subject to transitional provisions in arts. 3-15)
 
-[^key-4839cfbb0e3587b5d85b6b6f3a852e15]: Textual amendment: Sch. 6 para. 22(b) repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-4839cfbb0e3587b5d85b6b6f3a852e15]: Textual amendment: Sch. 6 para. 22(b) repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
 [^c1259296]: Commencement: Sch. 6 para. 23 in force at 1.10.2001 by [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
@@ -538,7 +538,7 @@ The repeal of subsection (4)(d) of section 7B is without prejudice to the genera
 
 [^c1259305]: Commencement: Sch. 6 para. 31 in force at 1.10.2001 by [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-8074ae23ecaa54050b76354dad5918d6]: Textual amendment: Sch. 6 para. 31(2)(a) repealed (1.9.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2184/schedule/2)
+[^c-8074ae23ecaa54050b76354dad5918d6]: Textual amendment: Sch. 6 para. 31(2)(a) repealed (1.9.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2184/schedule/2)
 
 [^c1259306]: Commencement: Sch. 6 para. 32 in force for specified purposes at 16.5.2001 by [S.I. 2001/1781](https://www.legislation.gov.uk/uksi/2001/1781), [art. 2](https://www.legislation.gov.uk/uksi/2001/1781/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/1781/schedule) (subject to transitional provisions in [arts. 3-10](https://www.legislation.gov.uk/uksi/2001/1781/article/3)); Sch. 6 para. 32 in force for all remaining purposes at 1.10.2001 by [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
@@ -558,14 +558,14 @@ The repeal of subsection (4)(d) of section 7B is without prejudice to the genera
 
 [^c1259314]: Commencement: Sch. 6 para. 40(b) in force at 7.11.2000 by [S.I. 2000/2974](https://www.legislation.gov.uk/uksi/2000/2974), [art. 2](https://www.legislation.gov.uk/uksi/2000/2974/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/2974/schedule)(subject to transitional provisions in arts. 3-12); Sch. 6 para. 40(a) in force at 20.12.2000 by [S.I. 2000/3343](https://www.legislation.gov.uk/uksi/2000/3343), [art. 2](https://www.legislation.gov.uk/uksi/2000/3343/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/3343/schedule)(subject to transitional provisions in arts. 3-15)
 
-[^key-27c6eafd73d84cdcf73c42cc3c232cbd]: Textual amendment: Sch. 6 para. 40(b) repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-27c6eafd73d84cdcf73c42cc3c232cbd]: Textual amendment: Sch. 6 para. 40(b) repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
 [^c1259315]: Commencement: Sch. 6 para. 41 in force at 1.10.2001 by [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-07f05ad31e9a80543f90cf285eb25781]: Textual amendment: Sch. 6 para. 42 repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-07f05ad31e9a80543f90cf285eb25781]: Textual amendment: Sch. 6 para. 42 repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
 [^c1259316]: Commencement: Sch. 6 para. 45 in force at 1.11.2000 for certain purposes by [S.I. 2000/2917](https://www.legislation.gov.uk/uksi/2000/2917), [art. 2](https://www.legislation.gov.uk/uksi/2000/2917/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/2917/schedule); Sch. 6 para. 45 in force at 7.11.2000 by [S.I. 2000/2974](https://www.legislation.gov.uk/uksi/2000/2974), [art. 2](https://www.legislation.gov.uk/uksi/2000/2974/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/2974/schedule)(subject to transitional provisions in arts. 3-12)
 
-[^key-6de3f7cc0336897456113e1f8681fc69]: Textual amendment: Sch. 6 para. 46 repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-6de3f7cc0336897456113e1f8681fc69]: Textual amendment: Sch. 6 para. 46 repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
 
 [^c1259318]: Commencement: Sch. 6 para. 47 in force at 1.10.2001 by [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))

@@ -49,13 +49,13 @@ In accordance with section 7(5) of that Act, they have consulted such associati
 
 ## Preliminary
 
-### 1. Citation and commencement[^key-a67d54baa2a7e3dd4debb7d7a5dd6511]
+### 1. Citation and commencement[^c-a67d54baa2a7e3dd4debb7d7a5dd6511]
 
 (1) These Regulations may be cited as the Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Regulations 2010.
 
 (2) These Regulations come into force on 5th July 2010.
 
-### 2. General definitions[^key-6d0f33bb02fe1eacc85faf900f33fd4a]
+### 2. General definitions[^c-6d0f33bb02fe1eacc85faf900f33fd4a]
 
 (1) In these Regulations—
 
@@ -76,7 +76,7 @@ In accordance with section 7(5) of that Act, they have consulted such associati
 - (b) any relevant order under that section; and
 - (c) Schedule 2 to that Act[^f00006] (regulated activities).
 
-### 3. Definition of “investment”[^key-33cab5973f22b73dbdf7b0caff9ff0e4]
+### 3. Definition of “investment”[^c-33cab5973f22b73dbdf7b0caff9ff0e4]
 
 (1) In these Regulations “investment” and similar expressions have their normal meaning.
 
@@ -99,7 +99,7 @@ In accordance with section 7(5) of that Act, they have consulted such associati
 - (a) a contract of insurance on human life or a contract to pay an annuity on human life where the benefits are wholly or partly to be determined by reference to the value of, or the income from, property of any description (whether or not specified in the contract) or by reference to fluctuations in, or in an index of, the value of property of any description (whether or not so specified); or
 - (b) a contract to manage the investments of pension funds, whether or not combined with contracts of insurance covering either conservation of capital or payment of a minimum interest.
 
-(8) A stock lending arrangement is an investment only if, in respect of it, the conditions in rules 5.4.4R and 5.4.6R, modified as specified in paragraph (9) of this regulation[^f00009] in the Collective Investment Schemes Sourcebook made by the Financial Conduct Authority[^key-22b9e8235c29d53498231af25e0a763f] are fulfilled in relation to that arrangement.
+(8) A stock lending arrangement is an investment only if, in respect of it, the conditions in rules 5.4.4R and 5.4.6R, modified as specified in paragraph (9) of this regulation[^f00009] in the Collective Investment Schemes Sourcebook made by the Financial Conduct Authority[^c-22b9e8235c29d53498231af25e0a763f] are fulfilled in relation to that arrangement.
 
 (9) The modifications mentioned in paragraph (8) are that—
 
@@ -123,7 +123,7 @@ In accordance with section 7(5) of that Act, they have consulted such associati
 
 ## Management of pension fund
 
-### 4. Management of pension fund[^key-c93cc5ccdf5c08fc2aee51d18e8dbd52]
+### 4. Management of pension fund[^c-c93cc5ccdf5c08fc2aee51d18e8dbd52]
 
 (1) This regulation is about the sums which an administering authority must pay or credit to, and may pay from, the pension fund which it administers.
 
@@ -149,7 +149,7 @@ In accordance with section 7(5) of that Act, they have consulted such associati
 - “the Benefits Regulations” means the Local Government Pension Scheme (Benefits, Membership and Contributions) (Scotland) Regulations 2008[^f00014]; and
 - “the Transitional Regulations” means the Local Government Pension Scheme (Transitional Provisions) (Scotland) Regulations 2008[^f00015].
 
-### 5. Power to borrow[^key-9eadb28b151861e8f0e35f63542ff6ed]
+### 5. Power to borrow[^c-9eadb28b151861e8f0e35f63542ff6ed]
 
 (1) Except as provided in this regulation, an administering authority must not borrow money where the borrowing is liable to be repaid out of its pension fund.
 
@@ -160,7 +160,7 @@ In accordance with section 7(5) of that Act, they have consulted such associati
 
 (3) An administering authority may only borrow money under paragraph (2) if, at the time of borrowing, the authority reasonably believes that the sum borrowed and any interest to be charged in respect of that sum can be repaid out of its pension fund within 90 days from the date of borrowing.
 
-### 6. Separate bank account[^key-39ed3efd420d6f8b942fe39a3628b2cf]
+### 6. Separate bank account[^c-39ed3efd420d6f8b942fe39a3628b2cf]
 
 (1) On or after 1st April 2011, an administering authority must hold in a separate account kept by it with a deposit taker in accordance with this regulation—
 
@@ -180,7 +180,7 @@ In accordance with section 7(5) of that Act, they have consulted such associati
 
 ## Investment managers
 
-### 7. Definition of “investment manager”[^key-f2c0416354a610ae0b7884e91a06b361]
+### 7. Definition of “investment manager”[^c-f2c0416354a610ae0b7884e91a06b361]
 
 For the purposes of regulations 8 to 10, an “investment manager” is—
 
@@ -193,7 +193,7 @@ For the purposes of regulations 8 to 10, an “investment manager” is—
   - (iv) who is authorised under that law to carry on one or more regulated activities (within the meaning of the 2000 Act); and
   - (v) who is not prevented by that law from managing the assets of occupational pension schemes or assets belonging to another person.
 
-### 8. Choice of investment managers[^key-ae143472fa096f554c3ace1ebe51faf2]
+### 8. Choice of investment managers[^c-ae143472fa096f554c3ace1ebe51faf2]
 
 (1) Instead of managing and investing fund money for itself, an administering authority may appoint one or more investment managers to manage and invest fund money, or any part of such money, on its behalf.
 
@@ -210,7 +210,7 @@ For the purposes of regulations 8 to 10, an “investment manager” is—
 
 (6) The authority must have taken proper advice in relation to the appointment.
 
-### 9. Terms of appointment of investment managers[^key-500f63210e8989b2d1bb6fe79a9d8c91]
+### 9. Terms of appointment of investment managers[^c-500f63210e8989b2d1bb6fe79a9d8c91]
 
 (1) An investment manager must be appointed on the terms set out in paragraphs (2) to (7).
 
@@ -232,7 +232,7 @@ For the purposes of regulations 8 to 10, an “investment manager” is—
 
 (8) In determining the investment manager’s terms of appointment, the authority must take proper advice.
 
-### 10. Review of investment manager’s performance[^key-c8a501934480ab60c7890fcb2735f968]
+### 10. Review of investment manager’s performance[^c-c8a501934480ab60c7890fcb2735f968]
 
 (1) Where an administering authority has appointed an investment manager it must keep the investment manager’s performance under review.
 
@@ -247,7 +247,7 @@ For the purposes of regulations 8 to 10, an “investment manager” is—
 
 ## Investment and use of pension fund money
 
-### 11. Investment policy and investment of pension fund money[^key-9c43d6c23795b289ee7fb374432e0144]
+### 11. Investment policy and investment of pension fund money[^c-9c43d6c23795b289ee7fb374432e0144]
 
 (1) An administering authority must formulate a policy for the investment of its fund money.
 
@@ -264,7 +264,7 @@ For the purposes of regulations 8 to 10, an “investment manager” is—
 
 (6) The authority must consider such advice in taking any steps in relation to its investments.
 
-### 12. Statement of investment principles[^key-8ed0f4ee6d553bee112c040026e15d04]
+### 12. Statement of investment principles[^c-8ed0f4ee6d553bee112c040026e15d04]
 
 (1) An administering authority must, after consultation with such persons as it considers appropriate, prepare, maintain (in accordance with paragraph (5)) and publish a written statement of the principles governing its decisions about the investment of fund money.
 
@@ -287,11 +287,11 @@ For the purposes of regulations 8 to 10, an “investment manager” is—
 
 (6) A statement revised under paragraph (5) must be published.
 
-### 13. Investments under section 11 of the Trustee Investments Act 1961[^key-69585669782af9173cd0fecdc808fe87]
+### 13. Investments under section 11 of the Trustee Investments Act 1961[^c-69585669782af9173cd0fecdc808fe87]
 
 An administering authority may invest, without any restriction as to quantity, in any investment made in accordance with a scheme under section 11 of the Trustee Investments Act 1961[^f00018] (which enables the Treasury to approve schemes for local authorities to invest in collectively).
 
-### 14. Restrictions on investments[^key-49a48636ea1fd24b4f8e8411fe1dd239]
+### 14. Restrictions on investments[^c-49a48636ea1fd24b4f8e8411fe1dd239]
 
 (1) The table in Part 1 of Schedule 1 and the exceptions specified in Part 2 of that Schedule (“the exceptions”) shall have effect for the purpose of limiting the making of investments of the types described in the table[^f00019].
 
@@ -305,7 +305,7 @@ An administering authority may invest, without any restriction as to quantity, i
 
 (6) Part 3 of Schedule 1 applies for interpreting Parts 1 and 2.
 
-### 15. Requirements for increased limits[^key-f9e9cf0eb394c92c389b359f7238edb1]
+### 15. Requirements for increased limits[^c-f9e9cf0eb394c92c389b359f7238edb1]
 
 (1) An administering authority which decides to increase a limit by virtue of regulation 14(3) must comply with the requirements of this regulation.
 
@@ -333,7 +333,7 @@ An administering authority may invest, without any restriction as to quantity, i
 
 (8) Before a decision under regulation 14(3) or under paragraph (7) of this regulation can take effect, the administering authority must revise and publish the written statement of investment principles which it is required to maintain under regulation 12 so as to include the matters specified in paragraph (5) of this regulation.
 
-### 16. Use of fund money by an administering authority[^key-f4c831b463ba5c4cd51266f8b9ef5a42]
+### 16. Use of fund money by an administering authority[^c-f4c831b463ba5c4cd51266f8b9ef5a42]
 
 (1) An administering authority must pay interest on the total from day to day of any fund money used by them under regulation 3(4) and not repaid.
 
@@ -341,7 +341,7 @@ An administering authority may invest, without any restriction as to quantity, i
 
 ## Supplementary
 
-### 17. Consequential amendments and revocations[^key-2f10d9645d4b8e85b8390e6f7dfce9a2]
+### 17. Consequential amendments and revocations[^c-2f10d9645d4b8e85b8390e6f7dfce9a2]
 
 (1) The provisions in Schedule 2 are amended as set out in that Schedule.
 
@@ -361,7 +361,7 @@ Edinburgh
 
 Regulation 14(1)
 
-### PART 1 — Table[^key-e9e2864490e18b3254630354aa0c6822]
+### PART 1 — Table[^c-e9e2864490e18b3254630354aa0c6822]
 
 <table>
 <thead>
@@ -390,18 +390,18 @@ Regulation 14(1)
 </tbody>
 </table>
 
-[^key-40dcf77381be101ff4cf4d1ad6d3f7df]
+[^c-40dcf77381be101ff4cf4d1ad6d3f7df]
 
 ### PART 2 — Exceptions to limits in the table in Part 1
 
-**14.**[^key-acbe1ed03ef32ef16923fa4aa36ade72] The limit in paragraph 4 of the table does not apply to a Government loan.
+**14.**[^c-acbe1ed03ef32ef16923fa4aa36ade72] The limit in paragraph 4 of the table does not apply to a Government loan.
 
-**15.**[^key-f5d7020c4573972777dad5f359d5c252] The limit in paragraph 6 of the table does not apply if—
+**15.**[^c-f5d7020c4573972777dad5f359d5c252] The limit in paragraph 6 of the table does not apply if—
 
 - (a) the investment is made by an investment manager appointed under regulation 8; and
 - (b) the single holding is in units or other shares of the investments subject to the trusts of any one unit trust scheme.
 
-**16.**[^key-08cd4b60b12bc7cdecdb48cd8a4bc4a0] The limits in paragraphs 6, 9 and 11 of the table do not apply to—
+**16.**[^c-08cd4b60b12bc7cdecdb48cd8a4bc4a0] The limits in paragraphs 6, 9 and 11 of the table do not apply to—
 
 - (a) National Savings Certificates;
 - (b) fixed-interest securities issued by Her Majesty’s Government in the United Kingdom, the Government of Northern Ireland or the Government of the Isle of Man and registered in the United Kingdom or the Isle of Man or Treasury Bills;
@@ -410,7 +410,7 @@ Regulation 14(1)
 
 ### PART 3 — Interpretation
 
-**17.**[^key-dbf7ee7514964d8687f05262341b025c] In this Schedule—
+**17.**[^c-dbf7ee7514964d8687f05262341b025c] In this Schedule—
 
 - “collective investment scheme” has the meaning given in section 235 of the 2000 Act;
 - “companies” includes companies established under the law of any territory outside the United Kingdom;
@@ -438,12 +438,12 @@ Regulation 14(1)
 
 Regulation 17(1)
 
-**1.**[^key-097c83c09aa34bc298ec6ad064cd3052] In the Local Government Pension Scheme (Administration) (Scotland) Regulations 2008[^f00024]—
+**1.**[^c-097c83c09aa34bc298ec6ad064cd3052] In the Local Government Pension Scheme (Administration) (Scotland) Regulations 2008[^f00024]—
 
 - (a) in regulation 31(2)(b)(ii) (funding strategy statement), for “regulation 9A of the Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Regulations 1998” substitute “regulation 12 of the Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Regulations 2010”; and
 - (b) in regulation 38(2)(b) (payment by employing authorities to appropriate administering authorities), for “regulation 5(6) of the Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Regulations 1998” substitute “regulation 4(6) of the Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Regulations 2010”.
 
-## SCHEDULE 3 — REVOCATIONS[^key-d1cc04fd8e3abe393fe97c4b61be2ef3]
+## SCHEDULE 3 — REVOCATIONS[^c-d1cc04fd8e3abe393fe97c4b61be2ef3]
 
 Regulation 17(2)
 
@@ -476,9 +476,9 @@ Tables of Derivations and Destinations have been prepared identifying individual
 
 [^f00001]: Footnote: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11). The functions of the Secretary of State exercised in the making of these Regulations were transferred to the Scottish Ministers as regards Scotland by virtue of the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 1999 ([S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)).
 
-[^key-a67d54baa2a7e3dd4debb7d7a5dd6511]: Commencement: Reg. 1 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-a67d54baa2a7e3dd4debb7d7a5dd6511]: Commencement: Reg. 1 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
-[^key-6d0f33bb02fe1eacc85faf900f33fd4a]: Commencement: Reg. 2 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-6d0f33bb02fe1eacc85faf900f33fd4a]: Commencement: Reg. 2 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
 [^f00002]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
@@ -490,7 +490,7 @@ Tables of Derivations and Destinations have been prepared identifying individual
 
 [^f00006]: Footnote: Amended by the Regulation of Financial Services (Land Transactions) Act [2005 (c.24)](https://www.legislation.gov.uk/ukpga/2005/24), section 1 and the Dormant Bank and Building Society Accounts Act [2008 (c.31)](https://www.legislation.gov.uk/ukpga/2008/31), Schedule 2, paragraph 1.
 
-[^key-33cab5973f22b73dbdf7b0caff9ff0e4]: Commencement: Reg. 3 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-33cab5973f22b73dbdf7b0caff9ff0e4]: Commencement: Reg. 3 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
 [^f00007]: Footnote: Amended by [S.I. 2004/3379](https://www.legislation.gov.uk/uksi/2004/3379).
 
@@ -498,9 +498,9 @@ Tables of Derivations and Destinations have been prepared identifying individual
 
 [^f00009]: Footnote: The Department for Communities and Local Government has produced a document setting out rules 5.4.4R and 5.4.6R of the Collective Investment Schemes Sourcebook, modified as specified in regulation 3(9). A copy of this document may be obtained by contacting the Departments Workforce Pay and Pensions Division (tel. 0303 444 2167 or e-mail robert.holloway@communities.gsi.gov.uk).
 
-[^key-22b9e8235c29d53498231af25e0a763f]: Textual amendment: Words in [reg. 3(8)](https://www.legislation.gov.uk/ssi/2010/233/regulation/3/8) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 183](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/183)
+[^c-22b9e8235c29d53498231af25e0a763f]: Textual amendment: Words in [reg. 3(8)](https://www.legislation.gov.uk/ssi/2010/233/regulation/3/8) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 183](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/183)
 
-[^key-c93cc5ccdf5c08fc2aee51d18e8dbd52]: Commencement: Reg. 4 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-c93cc5ccdf5c08fc2aee51d18e8dbd52]: Commencement: Reg. 4 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
 [^f00011]: Footnote: [1999 c.30](https://www.legislation.gov.uk/ukpga/1999/30); sections 23 and 24 were amended by the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), Schedule 27, paragraphs 157 and 158 and Schedule 30.
 
@@ -512,51 +512,51 @@ Tables of Derivations and Destinations have been prepared identifying individual
 
 [^f00015]: Footnote: [S.S.I. 2008/229](https://www.legislation.gov.uk/ssi/2008/229), as amended by [S.S.I. 2009/93](https://www.legislation.gov.uk/ssi/2009/93) and [2009/187](https://www.legislation.gov.uk/ssi/2009/187).
 
-[^key-9eadb28b151861e8f0e35f63542ff6ed]: Commencement: Reg. 5 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-9eadb28b151861e8f0e35f63542ff6ed]: Commencement: Reg. 5 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
-[^key-39ed3efd420d6f8b942fe39a3628b2cf]: Commencement: Reg. 6 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-39ed3efd420d6f8b942fe39a3628b2cf]: Commencement: Reg. 6 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
 [^f00016]: Footnote: Amended by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126) and [S.I. 2007/3253](https://www.legislation.gov.uk/uksi/2007/3253).
 
-[^key-f2c0416354a610ae0b7884e91a06b361]: Commencement: Reg. 7 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-f2c0416354a610ae0b7884e91a06b361]: Commencement: Reg. 7 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
 [^f00017]: Footnote: Amended by [S.I. 2003/1473](https://www.legislation.gov.uk/uksi/2003/1473), [S.I. 2006/3221](https://www.legislation.gov.uk/uksi/2006/3221) and [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
 
-[^key-ae143472fa096f554c3ace1ebe51faf2]: Commencement: Reg. 8 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-ae143472fa096f554c3ace1ebe51faf2]: Commencement: Reg. 8 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
-[^key-500f63210e8989b2d1bb6fe79a9d8c91]: Commencement: Reg. 9 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-500f63210e8989b2d1bb6fe79a9d8c91]: Commencement: Reg. 9 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
-[^key-c8a501934480ab60c7890fcb2735f968]: Commencement: Reg. 10 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-c8a501934480ab60c7890fcb2735f968]: Commencement: Reg. 10 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
-[^key-9c43d6c23795b289ee7fb374432e0144]: Commencement: Reg. 11 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-9c43d6c23795b289ee7fb374432e0144]: Commencement: Reg. 11 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
-[^key-8ed0f4ee6d553bee112c040026e15d04]: Commencement: Reg. 12 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-8ed0f4ee6d553bee112c040026e15d04]: Commencement: Reg. 12 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
-[^key-69585669782af9173cd0fecdc808fe87]: Commencement: Reg. 13 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-69585669782af9173cd0fecdc808fe87]: Commencement: Reg. 13 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
 [^f00018]: Footnote: [1961 c.62](https://www.legislation.gov.uk/ukpga/1961/62).
 
-[^key-49a48636ea1fd24b4f8e8411fe1dd239]: Commencement: Reg. 14 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-49a48636ea1fd24b4f8e8411fe1dd239]: Commencement: Reg. 14 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
 [^f00019]: Footnote: [The Occupational Pension Schemes (Investment) Regulations 2005 (S.I. 2005/3378](https://www.legislation.gov.uk/uksi/2005/3378), amended by [S.I. 2007/814](https://www.legislation.gov.uk/uksi/2007/814), [2009/615](https://www.legislation.gov.uk/uksi/2009/615)) which, in particular, prescribe certain investments as employer-related investments in addition to those specified in section 40(2) of the Pensions Act 1995, set out restrictions on employer-related investments and make provision as regards the application of the restrictions to schemes in relation to which there is more than one employer, may further restrict or limit investment of fund money.
 
-[^key-f9e9cf0eb394c92c389b359f7238edb1]: Commencement: Reg. 15 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-f9e9cf0eb394c92c389b359f7238edb1]: Commencement: Reg. 15 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
-[^key-f4c831b463ba5c4cd51266f8b9ef5a42]: Commencement: Reg. 16 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-f4c831b463ba5c4cd51266f8b9ef5a42]: Commencement: Reg. 16 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
-[^key-2f10d9645d4b8e85b8390e6f7dfce9a2]: Commencement: Reg. 17 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-2f10d9645d4b8e85b8390e6f7dfce9a2]: Commencement: Reg. 17 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
-[^key-e9e2864490e18b3254630354aa0c6822]: Commencement: Sch. 1 Pt. 1 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-e9e2864490e18b3254630354aa0c6822]: Commencement: Sch. 1 Pt. 1 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
-[^key-40dcf77381be101ff4cf4d1ad6d3f7df]: Textual amendment: Word in [sch. 1](https://www.legislation.gov.uk/ssi/2010/233/schedule/1) substituted (1.4.2016) by [The Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/74)](https://www.legislation.gov.uk/ssi/2016/74), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/74/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2016/74/regulation/2)
+[^c-40dcf77381be101ff4cf4d1ad6d3f7df]: Textual amendment: Word in [sch. 1](https://www.legislation.gov.uk/ssi/2010/233/schedule/1) substituted (1.4.2016) by [The Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/74)](https://www.legislation.gov.uk/ssi/2016/74), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/74/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2016/74/regulation/2)
 
-[^key-acbe1ed03ef32ef16923fa4aa36ade72]: Commencement: Sch. 1 para. 14 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-acbe1ed03ef32ef16923fa4aa36ade72]: Commencement: Sch. 1 para. 14 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
-[^key-f5d7020c4573972777dad5f359d5c252]: Commencement: Sch. 1 para. 15 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-f5d7020c4573972777dad5f359d5c252]: Commencement: Sch. 1 para. 15 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
-[^key-08cd4b60b12bc7cdecdb48cd8a4bc4a0]: Commencement: Sch. 1 para. 16 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-08cd4b60b12bc7cdecdb48cd8a4bc4a0]: Commencement: Sch. 1 para. 16 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
-[^key-dbf7ee7514964d8687f05262341b025c]: Commencement: Sch. 1 para. 17 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-dbf7ee7514964d8687f05262341b025c]: Commencement: Sch. 1 para. 17 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
 [^f00020]: Footnote: [1963 c.18](https://www.legislation.gov.uk/ukpga/1963/18).
 
@@ -566,8 +566,8 @@ Tables of Derivations and Destinations have been prepared identifying individual
 
 [^f00023]: Footnote: Amended by [S.I. 2007/3253](https://www.legislation.gov.uk/uksi/2007/3253).
 
-[^key-097c83c09aa34bc298ec6ad064cd3052]: Commencement: Sch. 2 para. 1 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-097c83c09aa34bc298ec6ad064cd3052]: Commencement: Sch. 2 para. 1 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
 
 [^f00024]: Footnote: [S.S.I. 2008/228](https://www.legislation.gov.uk/ssi/2008/228).
 
-[^key-d1cc04fd8e3abe393fe97c4b61be2ef3]: Commencement: Sch. 3 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+[^c-d1cc04fd8e3abe393fe97c4b61be2ef3]: Commencement: Sch. 3 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)

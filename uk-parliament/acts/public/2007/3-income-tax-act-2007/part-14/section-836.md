@@ -38,7 +38,7 @@ summary: ''
 - *Exception C*
 
   Income to which Part 9 of ITTOIA 2005 applies (partnerships).
-- *[^key-0cd9de28c1aeb4f7bf43d126a59f0369]...*
+- *[^c-0cd9de28c1aeb4f7bf43d126a59f0369]...*
 - *Exception E*
 
   Income consisting of a distribution arising from property consisting of—
@@ -46,7 +46,7 @@ summary: ''
   - (a) shares in or securities of a close company to which one of the individuals is beneficially entitled to the exclusion of the other, or
   - (b) such shares or securities to which the individuals are beneficially entitled in equal or unequal shares.
 
-  “**Shares**” and “**securities**” have the same meaning as in section 1117 of CTA 2010[^key-8a282ebf8048d3f4225854e94ee8aca0].
+  “**Shares**” and “**securities**” have the same meaning as in section 1117 of CTA 2010[^c-8a282ebf8048d3f4225854e94ee8aca0].
 - *Exception F*
 
   Income to which one of the individuals is beneficially entitled so far as it is treated as a result of any other provision of the Income Tax Acts as—
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0cd9de28c1aeb4f7bf43d126a59f0369]: Textual amendment: Words in [s. 836(3)](https://www.legislation.gov.uk/ukpga/2007/3/section/836/3) omitted (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 3(7)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/3/7), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [16](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/16), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-0cd9de28c1aeb4f7bf43d126a59f0369]: Textual amendment: Words in [s. 836(3)](https://www.legislation.gov.uk/ukpga/2007/3/section/836/3) omitted (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 3(7)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/3/7), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [16](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/16), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
 
-[^key-8a282ebf8048d3f4225854e94ee8aca0]: Textual amendment: Words in s. 836(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 553](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/553) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-8a282ebf8048d3f4225854e94ee8aca0]: Textual amendment: Words in s. 836(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 553](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/553) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Exemption: production for personal consumption[^M_I_d564ec1a-cf1a-41e0-e487-9a7958324cb0][^key-cbe2883f5132518432647c619c77b872]
+## 72. Exemption: production for personal consumption[^M_I_d564ec1a-cf1a-41e0-e487-9a7958324cb0][^c-cbe2883f5132518432647c619c77b872]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Alcohol duty is not charged on alcoholic products which—
 
 [^M_I_d564ec1a-cf1a-41e0-e487-9a7958324cb0]: Commencement: S. 72 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-cbe2883f5132518432647c619c77b872]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2023/30/section/72) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-cbe2883f5132518432647c619c77b872]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2023/30/section/72) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.41.3. Representations[^key-5e873d681686b174c9286dbf0f22f8ec][^key-fc018f3e942a366752b588b1a1d461de]
+## 3.41.3. Representations[^c-5e873d681686b174c9286dbf0f22f8ec][^c-fc018f3e942a366752b588b1a1d461de]
 
 *Extent: S*
 
-(1)[^key-c027cbedb1cc8e964a3011e7783541be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-c027cbedb1cc8e964a3011e7783541be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) An interested person who would be directly affected by the making of an order shall have an opportunity to make representations to the sheriff before an order is made.
 
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5e873d681686b174c9286dbf0f22f8ec]: Textual amendment: Ch. 3 Pt. 41 substituted (1.4.2015) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 3) (Reporting Restrictions) 2015 (S.S.I. 2015/85)](https://www.legislation.gov.uk/ssi/2015/85), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/85/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2015/85/paragraph/4/2)
+[^c-5e873d681686b174c9286dbf0f22f8ec]: Textual amendment: Ch. 3 Pt. 41 substituted (1.4.2015) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 3) (Reporting Restrictions) 2015 (S.S.I. 2015/85)](https://www.legislation.gov.uk/ssi/2015/85), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/85/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2015/85/paragraph/4/2)
 
-[^key-fc018f3e942a366752b588b1a1d461de]: Textual amendment: [Rule 3.41.3](https://www.legislation.gov.uk/uksi/1999/929/rule/3.41.3) heading substituted (2.3.2020) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Reporting Restrictions) 2020 (S.S.I. 2020/28)](https://www.legislation.gov.uk/ssi/2020/28), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/1/2), [5(2)(b)(i)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/5/2/b/i)
+[^c-fc018f3e942a366752b588b1a1d461de]: Textual amendment: [Rule 3.41.3](https://www.legislation.gov.uk/uksi/1999/929/rule/3.41.3) heading substituted (2.3.2020) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Reporting Restrictions) 2020 (S.S.I. 2020/28)](https://www.legislation.gov.uk/ssi/2020/28), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/1/2), [5(2)(b)(i)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/5/2/b/i)
 
-[^key-c027cbedb1cc8e964a3011e7783541be]: Textual amendment: [Rule 3.41.3(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/3.41.3/1) omitted (2.3.2020) by virtue of [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Reporting Restrictions) 2020 (S.S.I. 2020/28)](https://www.legislation.gov.uk/ssi/2020/28), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/1/2), [5(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/5/2/b/ii)
+[^c-c027cbedb1cc8e964a3011e7783541be]: Textual amendment: [Rule 3.41.3(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/3.41.3/1) omitted (2.3.2020) by virtue of [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Reporting Restrictions) 2020 (S.S.I. 2020/28)](https://www.legislation.gov.uk/ssi/2020/28), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/1/2), [5(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/5/2/b/ii)

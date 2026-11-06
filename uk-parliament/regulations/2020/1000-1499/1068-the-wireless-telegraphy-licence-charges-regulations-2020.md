@@ -43,16 +43,16 @@ The Office of Communications (“OFCOM”), in exercise of the powers conferred 
 
 Before making these Regulations OFCOM have given notice of their proposal to do so in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act, and have considered the representations made to them before the time specified in the notice in accordance with section 122(4)(c) of the Act.
 
-## 1. Citation and commencement[^key-243d47efa028f6d6538a42b9c2d0de00]
+## 1. Citation and commencement[^c-243d47efa028f6d6538a42b9c2d0de00]
 
 These Regulations may be cited as the Wireless Telegraphy (Licence Charges) Regulations 2020 and shall come into force on 21st October 2020.
 
-## 2. Interpretation[^key-fdb9942c6c8037eb0d43596f34cdd109]
+## 2. Interpretation[^c-fdb9942c6c8037eb0d43596f34cdd109]
 
 (1) In these Regulations—
 
 - “the 2000 Regulations” means the Wireless Telegraphy (Broadband Fixed Wireless Access Licences) Regulations 2000[^f00003];
-- “the 2007 Regulations” means the Wireless Telegraphy (Licence Award) (No. 2) Regulations 2007;[^key-70a969c436bbbfa533de65ecceb5ec04]
+- “the 2007 Regulations” means the Wireless Telegraphy (Licence Award) (No. 2) Regulations 2007;[^c-70a969c436bbbfa533de65ecceb5ec04]
 - “the 2012 Regulations” means the Wireless Telegraphy (Spectrum Trading) Regulations 2012[^f00004];
 - “the Act” means the Wireless Telegraphy Act 2006;
 - “apparatus” means apparatus for wireless telegraphy;
@@ -76,7 +76,7 @@ These Regulations may be cited as the Wireless Telegraphy (Licence Charges) Regu
 - “exclusive basis” means authorised use of a channel which is not shared with any other licensee;
 - “fixed link” means a connection by wireless telegraphy designed for use between two fixed points;
 - “fixed mobile station” means a control point configured to operate in the manner of a mobile station;
-- “Geographic Region” means any one of the Regions A to N as described in Part 1 of the Schedule to the 2000 Regulations;[^key-628aed088033831181b5e01626b8ee4c]
+- “Geographic Region” means any one of the Regions A to N as described in Part 1 of the Schedule to the 2000 Regulations;[^c-628aed088033831181b5e01626b8ee4c]
 - “grid square” means a National Grid square of the 2nd series of Landranger maps published by the Ordnance Survey;
 - “heavy congestion area” means such part of the British Islands being in an area listed in Schedule 8 and identified by reference to a grid square which is considered by OFCOM to have a heavily congested use of the electromagnetic spectrum for a specified class of licence;
 - “high population area” means such part of the British Islands being in an area listed in Schedule 5 and identified by reference to a grid square which is considered by OFCOM to have a high proportion of the population;
@@ -203,13 +203,13 @@ and for the purpose of determining “population coverage” as referred to abov
 - (d) “designated operational coverage” means a three-dimensional portion of airspace within which the provision of a wireless telegraphy service is authorised; and
 - (e) “excluded channels” means channels 121.5 MHz, 121.6 MHz and 123.1 MHz.
 
-## 3. Revocation[^key-f91bc4e81c47d71e5f7ded9674bd123f]
+## 3. Revocation[^c-f91bc4e81c47d71e5f7ded9674bd123f]
 
 The Regulations set out in Schedule 1 are hereby revoked.
 
-## 4. Licence charges and time of payment[^key-931b36d94c6c9552802a1e9063f6e3fd]
+## 4. Licence charges and time of payment[^c-931b36d94c6c9552802a1e9063f6e3fd]
 
-(1) Subject to paragraphs (2) to (11) and to regulations 5 to 10[^key-91c96d21602c241a137da7008163386a], there shall be paid to OFCOM by the licensee—
+(1) Subject to paragraphs (2) to (11) and to regulations 5 to 10[^c-91c96d21602c241a137da7008163386a], there shall be paid to OFCOM by the licensee—
 
 - (a) on the issue of the licence and on the variation of the licence where such variation is prescribed in Schedule 2; and
 - (b) on the last day of the period of twelve, twenty-four, thirty-six or (as the case may be) sixty months prescribed in Schedule 2, if any, in respect of the class of licence in question (the “prescribed payment interval”) and on the last day of each subsequent prescribed payment interval thereafter (the first prescribed payment interval having begun on the day of the issue of the licence) for which the licence continues in force,
@@ -244,25 +244,25 @@ that Schedule.
 
 (6) Paragraph (8) shall apply to a licensee where—
 
-- (a) a prescribed sum is payable by that licensee in respect of a licence under paragraph (1),[^key-489fddc9850d8db86956c1734acd96fd] regulation 6A(1), regulation 7(1), regulation 8(1), regulation 9(1) or regulation 10(1)[^key-fd2a4709fc87ea69e96a533636004bb3];
+- (a) a prescribed sum is payable by that licensee in respect of a licence under paragraph (1),[^c-489fddc9850d8db86956c1734acd96fd] regulation 6A(1), regulation 7(1), regulation 8(1), regulation 9(1) or regulation 10(1)[^c-fd2a4709fc87ea69e96a533636004bb3];
 - (b) the licence is of one of the following classes—
   - (i) the classes listed under the heading “Broadcasting” in Schedule 2;
   - (ii) the classes listed under the heading “Business Radio” in Schedule 2;
   - (iii) the classes listed under the heading “Fixed Links” in Schedule 2;
   - (iv) the classes listed under the heading “Public Wireless Networks” in Schedule 2;
   - (v) the classes listed under the heading “Satellite Services” in Schedule 2;
-  - (vi) the classes Shared Access (Low Power) and Shared Access (Medium Power) listed under the heading “Spectrum Access” in Schedule 2; [^key-aeec31af9d7a418c8d0acf29308cf782]...
-  - (vii) the class “Spectrum Access 28 GHz” under regulation 6A(1) or regulation 7(1)[^key-d4420e6679b51b56f51b8ccfbc317d33]; [^key-b4a1eea9e59c08d00160e8aaac388af9]...
-  - (viii)[^key-ebd94ddf219d610bdf55c9478fb176bd] the class “Spectrum Access Licence 412 MHz Band” under regulation 8(1);
-  - (ix)[^key-a2cbdfbfb338551dde7eba11068c6d20] the class “Spectrum Access Licence 10 MHz Band” under regulation 9(1); or
+  - (vi) the classes Shared Access (Low Power) and Shared Access (Medium Power) listed under the heading “Spectrum Access” in Schedule 2; [^c-aeec31af9d7a418c8d0acf29308cf782]...
+  - (vii) the class “Spectrum Access 28 GHz” under regulation 6A(1) or regulation 7(1)[^c-d4420e6679b51b56f51b8ccfbc317d33]; [^c-b4a1eea9e59c08d00160e8aaac388af9]...
+  - (viii)[^c-ebd94ddf219d610bdf55c9478fb176bd] the class “Spectrum Access Licence 412 MHz Band” under regulation 8(1);
+  - (ix)[^c-a2cbdfbfb338551dde7eba11068c6d20] the class “Spectrum Access Licence 10 MHz Band” under regulation 9(1); or
   - (x) the class “Spectrum Access Licence 32 MHz Band” under regulation 10(1).
 - (c) the licence is granted for a period of a year or longer; and
 - (d) the prescribed sum due for payment by the licensee is in excess of £100,000.
 
 (7) Paragraph (8) shall also apply to a licensee where—
 
-- (a) prescribed sums are payable by that licensee under paragraph (1) , regulation 6A(1), regulation 7(1), regulation 9(1) or regulation 10(1)[^key-8196cb3667dd5b8772d9b01b3cec7bf8] in respect of more than one licence where all of those licences are of the same class and that class is one of the classes listed in paragraph (6)(b);
-- (b) each of those prescribed sums is due for payment by the licensee at the same prescribed time in accordance with paragraph (1) , regulation 6A(1), regulation 7(1), regulation 9(1) or regulation 10(1)[^key-48d7e4a591b88c2bf23dbcab56b784dc];
+- (a) prescribed sums are payable by that licensee under paragraph (1) , regulation 6A(1), regulation 7(1), regulation 9(1) or regulation 10(1)[^c-8196cb3667dd5b8772d9b01b3cec7bf8] in respect of more than one licence where all of those licences are of the same class and that class is one of the classes listed in paragraph (6)(b);
+- (b) each of those prescribed sums is due for payment by the licensee at the same prescribed time in accordance with paragraph (1) , regulation 6A(1), regulation 7(1), regulation 9(1) or regulation 10(1)[^c-48d7e4a591b88c2bf23dbcab56b784dc];
 - (c) each of the prescribed sums is in respect of licences granted for a period of a year or longer; and
 - (d) the total of the prescribed sums due for payment by the licensee is in excess of £100,000.
 
@@ -277,7 +277,7 @@ that Schedule.
 
 (11) For any licence issued in order to effect a transfer under the 2012 Regulations, the prescribed payment interval shall be treated so as to commence and expire at the times when the corresponding prescribed payment interval would have commenced and expired under the licence from which the rights and obligations were transferred had the transfer not been made.
 
-## 5. Concessionary licence charges[^key-a128be40249e50faa0d3ae5d4fa7ecd5]
+## 5. Concessionary licence charges[^c-a128be40249e50faa0d3ae5d4fa7ecd5]
 
 (1) This regulation applies where a relevant licence is granted to an applicant, or held by a licensee, which—
 
@@ -299,11 +299,11 @@ that Schedule.
   - (b) all of the classes listed under the heading “Business Radio” in Schedule 2; and
   - (c) all of the classes listed under the heading “Maritime” in Schedule 2 apart from Ship Radio and Ship Portable Radio.
 
-## 6. Other licence charges[^key-2aa43120c83dfc340b3a0a9e4379785c]
+## 6. Other licence charges[^c-2aa43120c83dfc340b3a0a9e4379785c]
 
 Where a sum is not prescribed by regulations made under section 12 of the Act whether on the issue of a licence or subsequently, there shall be paid to OFCOM such sum as OFCOM may in the particular case determine.
 
-## 6A. Licence Charges payable for the 28 GHz frequency band on 17th April 2023[^key-797908ea6060c961dd1cbfacb4296cad]
+## 6A. Licence Charges payable for the 28 GHz frequency band on 17th April 2023[^c-797908ea6060c961dd1cbfacb4296cad]
 
 (1) On 17th April 2023 each holder of a licence of the Spectrum Access 28 GHz licence class granted under the procedure set out in a notice made under the 2007 Regulations which authorises use of frequencies within the frequency bands 27.8285-28.4445 GHz and 28.8365-29.4525 GHz shall pay to OFCOM the sum specified in paragraph (2).
 
@@ -338,7 +338,7 @@ Where—
 
 (4) If the amount calculated in accordance with paragraph (3) is a fraction of a whole number, it shall be rounded to the nearest whole penny.
 
-## 7. Licence charges payable for the 28GHz frequency band for each subsequent payment[^key-80812e2567466d7ee89c82b4b727275e]
+## 7. Licence charges payable for the 28GHz frequency band for each subsequent payment[^c-80812e2567466d7ee89c82b4b727275e]
 
 (1) On 5th January 2024 and on each anniversary of that date, each holder of a licence of the Spectrum Access 28 GHz licence class granted under the procedure set out in a notice made under the 2000 Regulations or the 2007 Regulations which authorises use of frequencies within the frequency bands 27.8285–28.4445 GHz and 28.8365–29.4525 GHz shall pay to OFCOM the sum specified in paragraph (2).
 
@@ -390,13 +390,13 @@ Where—
 
 (5) If the amount calculated in accordance with paragraph (3) is a fraction of a whole number, it shall be rounded to the nearest whole penny.
 
-## 8. Licence charges payable for the 412 MHz frequency band[^key-3dc23e2c699f74032d7f85f2a6a80bd4]
+## 8. Licence charges payable for the 412 MHz frequency band[^c-3dc23e2c699f74032d7f85f2a6a80bd4]
 
 (1) On 31st October 2021 and on each anniversary of that date, each holder of a licence of the Spectrum Access Licence 412 MHz Band licence class shall pay to OFCOM the total sum specified in paragraph (2).
 
 (2) The total sum to be paid is £396,000 for each authorisation under the licence of the use of a 1 MHz national channel within the frequency bands 412.0 – 414.0 MHz and 422.0 to 424.0 MHz.
 
-## 9. Licence charges payable for the 10 GHz frequency band[^key-94d8d1085a4a872a885efa1559f0ffff]
+## 9. Licence charges payable for the 10 GHz frequency band[^c-94d8d1085a4a872a885efa1559f0ffff]
 
 (1) On 17th April 2023 and on each anniversary of that date, each holder of a licence of the Spectrum Access 10 GHz licence class which authorises use of frequencies within the frequency bands 10.125-10.225 GHz and 10.475-10.575 GHz shall pay to OFCOM the sum specified in paragraph (2).
 
@@ -414,7 +414,7 @@ Group Director, Spectrum Group
 
 For and by the authority of the Office of Communications
 
-## SCHEDULE 1 — REVOCATIONS[^key-f7c22e34d1068aa1e8b4fba136faa75e]
+## SCHEDULE 1 — REVOCATIONS[^c-f7c22e34d1068aa1e8b4fba136faa75e]
 
 Regulation 3
 
@@ -428,7 +428,7 @@ Regulation 3
 | The Wireless Telegraphy (Licence Charges) (Amendment) (No 2) Regulations 2015 | [S.I. 2015/1995](https://www.legislation.gov.uk/uksi/2015/1995) |
 | The Wireless Telegraphy (Licence Charges)<br>(Amendment) Regulations 2016 | [S.I. 2016/643](https://www.legislation.gov.uk/uksi/2016/643) |
 
-## SCHEDULE 2 — LICENCE CHARGES AND PAYMENT INTERVALS[^key-b793a262b8ec772f5171fd68769c0f23]
+## SCHEDULE 2 — LICENCE CHARGES AND PAYMENT INTERVALS[^c-b793a262b8ec772f5171fd68769c0f23]
 
 Regulation 4
 
@@ -602,7 +602,7 @@ Regulation 4
 </tbody>
 </table>
 
-[^key-9cc0e3f23599fce1f074916965af671f][^key-c95cfa9ea621d8034c61c6a90e8a06ec][^key-beb15f775c2dfe78f9682525174e69a8][^key-0b0e5236813eef7cb7cc5bd1cab8456d][^key-0b0e5236813eef7cb7cc5bd1cab8456d][^key-0b0e5236813eef7cb7cc5bd1cab8456d][^key-702e7e5339f18d300df02623cff66613][^key-2e4cc758c497ae90cbe3703bfc4384d5][^key-e3b82295d54b3ded5d01ef8785691b42][^key-588bd0c74bd7ccbeb55399c275abb32a][^key-66bf0d1f2a1814d6d7ba5db1a1f69104][^key-0438bb5e369498709641362da898a58e][^key-67091a94c6be85bfed3687dcc1138341][^key-6912a0e4e597d330c966882b345ca415]
+[^c-9cc0e3f23599fce1f074916965af671f][^c-c95cfa9ea621d8034c61c6a90e8a06ec][^c-beb15f775c2dfe78f9682525174e69a8][^c-0b0e5236813eef7cb7cc5bd1cab8456d][^c-0b0e5236813eef7cb7cc5bd1cab8456d][^c-0b0e5236813eef7cb7cc5bd1cab8456d][^c-702e7e5339f18d300df02623cff66613][^c-2e4cc758c497ae90cbe3703bfc4384d5][^c-e3b82295d54b3ded5d01ef8785691b42][^c-588bd0c74bd7ccbeb55399c275abb32a][^c-66bf0d1f2a1814d6d7ba5db1a1f69104][^c-0438bb5e369498709641362da898a58e][^c-67091a94c6be85bfed3687dcc1138341][^c-6912a0e4e597d330c966882b345ca415]
 
 ## SCHEDULE 3 — FORMULA FOR CALCULATING THE APPROPRIATE SUM FOR THE POINT TO POINT FIXED LINKS LICENCE
 
@@ -610,12 +610,12 @@ Schedule 2
 
 ### PART 1 — FORMULA
 
-**1.**[^key-cf554e487d1804e2715c6d8bf5e76965] In this Schedule—
+**1.**[^c-cf554e487d1804e2715c6d8bf5e76965] In this Schedule—
 
 - (a) “the appropriate sum” means the amount in pounds sterling, which is payable for a Point to Point Fixed Links licence, calculated in accordance with the formula set out in paragraph 2; and
 - (b) “Availability” means the minimum percentage of time that the fixed link is capable of functioning as set out in the licensee’s licence.
 
-**2.**[^key-e901d48911ec078038851b1d673334b7] The formula is—
+**2.**[^c-e901d48911ec078038851b1d673334b7] The formula is—
 
 [image: see source](https://www.legislation.gov.uk/uksi/2020/1068/images/uksi_20201068_en_001)
 
@@ -629,9 +629,9 @@ Schedule 2
   - *“Plf”* means the Path Length Factor, being the number in Column 2 of the table set out in Part 3 as determined by the relationship between the PL and the MPL as set out in Column 1 of that table except for the Channel Islands and the Isle of Man, where Plf is 1; and
   - *“Sp”* means the Spectrum Price, being a fixed sum of £88 per 2 x 1 MHz bandwidth for each co-ordinated two-way fixed link.
 
-**3.**[^key-0c3013df5707ecc92869e0ace7d8eba1] Where the number of the bandwidth (in MHz) of a co-ordinated two-way fixed link (or a part thereof) as set out in the licensee’s licence is less than 1.0, the number of the Bandwidth Factor shall be 1.0.
+**3.**[^c-0c3013df5707ecc92869e0ace7d8eba1] Where the number of the bandwidth (in MHz) of a co-ordinated two-way fixed link (or a part thereof) as set out in the licensee’s licence is less than 1.0, the number of the Bandwidth Factor shall be 1.0.
 
-### PART 2 — BAND FACTOR[^key-2426695470c40ece75b8195fe697fd0c]
+### PART 2 — BAND FACTOR[^c-2426695470c40ece75b8195fe697fd0c]
 
 | Column 1: Range of frequency band (fb)(in GHz) | Column 2: Band Factor |
 | --- | --- |
@@ -649,14 +649,14 @@ Schedule 2
 | 37.00 ≤ fb \< 39.50 | 0.26 |
 | 49.20 ≤ fb \< 57.00 | 0.17 |
 
-### PART 3 — PATH LENGTH FACTOR[^key-13c1cf6fccaff27727fdc23d849e6f0a]
+### PART 3 — PATH LENGTH FACTOR[^c-13c1cf6fccaff27727fdc23d849e6f0a]
 
 | Column 1: Relationship between PL and MPL | Column 2: Path Length Factor |
 | --- | --- |
 | MPL ≤ PL | 1 |
 | MPL > PL | Smaller of (MPL / PL)<sup>0.5</sup> and 4 |
 
-### PART 4 — MINIMUM PATH LENGTH[^key-e82bbf3d1626d25697aac114654427e2]
+### PART 4 — MINIMUM PATH LENGTH[^c-e82bbf3d1626d25697aac114654427e2]
 
 Table 1
 
@@ -681,7 +681,7 @@ Table 2
 | 37.00 ≤ fb \< 39.50 | 0 | 0 |
 | 49.20 ≤ fb \< 57.00 | 0 | 0 |
 
-### PART 5 — AVAILABILITY FACTOR[^key-7a358d7e03213e9e71e8ce639fc8ae02]
+### PART 5 — AVAILABILITY FACTOR[^c-7a358d7e03213e9e71e8ce639fc8ae02]
 
 | Column 1: The percentage of Availability | Column 2: Availability Factor |
 | --- | --- |
@@ -695,9 +695,9 @@ Schedule 2
 
 ### PART 1 — FORMULA FOR CALCULATING THE APPROPRIATE SUM FOR A SATELLITE (PERMANENT EARTH STATION) LICENCE
 
-**1.**[^key-ceb7f47e0f6c2767118d0bdda45a2e05] In this Part, subject to paragraph 3, “the appropriate sum” means the amount in pounds sterling, which is payable for a Satellite (Permanent Earth Station) licence, calculated in accordance with the formula set out in paragraph 2.
+**1.**[^c-ceb7f47e0f6c2767118d0bdda45a2e05] In this Part, subject to paragraph 3, “the appropriate sum” means the amount in pounds sterling, which is payable for a Satellite (Permanent Earth Station) licence, calculated in accordance with the formula set out in paragraph 2.
 
-**2.**[^key-ee6a67ae4084bc36d6f9e833bb04f250] The formula is—
+**2.**[^c-ee6a67ae4084bc36d6f9e833bb04f250] The formula is—
 
 [image: see source](https://www.legislation.gov.uk/uksi/2020/1068/images/uksi_20201068_en_002)
 
@@ -710,9 +710,9 @@ Schedule 2
   - *“BW**<sub>path</sub>**”* means the authorised transmit bandwidth (in MHz) for each transmission path; and
   - *“transmission path”* means a combination of a satellite earth station transmitter, a satellite receiver, a transmission frequency, and polarisation for which transmissions are authorised by the licence.
 
-**3.**[^key-fd271e0790033a3842446f1bfc2fe138] Where the amount in pounds sterling calculated in accordance with the formula set out in paragraph 2 is less than £500, the appropriate sum shall be £500.
+**3.**[^c-fd271e0790033a3842446f1bfc2fe138] Where the amount in pounds sterling calculated in accordance with the formula set out in paragraph 2 is less than £500, the appropriate sum shall be £500.
 
-### PART 2 — BAND FACTOR FOR CALCULATING THE APPROPRIATE SUM FOR A SATELLITE (PERMANENT EARTH STATION) LICENCE[^key-466e46563c268a883bac48120dcb206b]
+### PART 2 — BAND FACTOR FOR CALCULATING THE APPROPRIATE SUM FOR A SATELLITE (PERMANENT EARTH STATION) LICENCE[^c-466e46563c268a883bac48120dcb206b]
 
 | Column 1: band | Column 2: Range of frequency band (fb) (in GHz) | Column 3: Band factor |
 | --- | --- | --- |
@@ -724,9 +724,9 @@ Schedule 2
 
 ### PART 3 — FEES PAYABLE FOR SATELLITE (TRANSPORTABLE EARTH STATION) LICENCES
 
-**4.**[^key-3182eaa43de785d62f507180414240c5] The appropriate sum is the amount in pounds sterling which is payable for each earth station operating in one of the bands specified in Columns 2, 3 or 4 of the table below as determined by the range of p specified in Column 1 of that table in which the licensee’s network falls.
+**4.**[^c-3182eaa43de785d62f507180414240c5] The appropriate sum is the amount in pounds sterling which is payable for each earth station operating in one of the bands specified in Columns 2, 3 or 4 of the table below as determined by the range of p specified in Column 1 of that table in which the licensee’s network falls.
 
-**5.**[^key-02f538ad8eca00f36f0ffe1849c62925] In this Part—
+**5.**[^c-02f538ad8eca00f36f0ffe1849c62925] In this Part—
 
 - (a) *“OMP”* means the number corresponding to the number of the Operational Maximum Power (in Watts) as declared by the licensee on application for the earth station licence;
 - (b) *“p”* means the product of *OMP* multiplied by *WBW*; and
@@ -738,7 +738,7 @@ Schedule 2
   | 100 \< p ≤ = 2,500 | 2,400 | 1,400 | 800 |
   | p > 2,500 | 7,400 | 4,300 | 2,600 |
 
-## SCHEDULE 5 — HIGH POPULATION AREAS, MEDIUM POPULATION AREAS AND LOW POPULATION AREAS[^key-909a673f5a36e4ee397df83043f2c77f]
+## SCHEDULE 5 — HIGH POPULATION AREAS, MEDIUM POPULATION AREAS AND LOW POPULATION AREAS[^c-909a673f5a36e4ee397df83043f2c77f]
 
 Regulation 2(1)
 
@@ -764,7 +764,7 @@ Regulation 2(1)
 </tbody>
 </table>
 
-## SCHEDULE 6 — CHARGES FOR THE BUSINESS RADIO (AREA DEFINED) LICENCE CLASS FOR EACH 6.25 kHz CHANNEL[^key-1d1c47f0f878ce931114046b14a56b09]
+## SCHEDULE 6 — CHARGES FOR THE BUSINESS RADIO (AREA DEFINED) LICENCE CLASS FOR EACH 6.25 kHz CHANNEL[^c-1d1c47f0f878ce931114046b14a56b09]
 
 Schedule 2
 
@@ -789,7 +789,7 @@ Schedule 2
 
 Schedule 2
 
-### PART 1 — CHARGES FOR EACH 6.25 kHz CHANNEL AUTHORISED IN A HIGH USAGE BAND[^key-c42b0ca016180dffac1c247187999dc3]
+### PART 1 — CHARGES FOR EACH 6.25 kHz CHANNEL AUTHORISED IN A HIGH USAGE BAND[^c-c42b0ca016180dffac1c247187999dc3]
 
 <table>
 <thead>
@@ -803,7 +803,7 @@ Schedule 2
 </tbody>
 </table>
 
-### PART 2 — CHARGES FOR EACH 6.25 kHz CHANNEL AUTHORISED IN A MEDIUM USAGE BAND[^key-671aa621f8790a95024e5ecc8d69a734]
+### PART 2 — CHARGES FOR EACH 6.25 kHz CHANNEL AUTHORISED IN A MEDIUM USAGE BAND[^c-671aa621f8790a95024e5ecc8d69a734]
 
 <table>
 <thead>
@@ -817,7 +817,7 @@ Schedule 2
 </tbody>
 </table>
 
-### PART 3 — CHARGES FOR EACH 6.25 kHz CHANNEL AUTHORISED IN A LOW USAGE BAND[^key-f04b9e07d11a2b92ec1b7b23c58b952b]
+### PART 3 — CHARGES FOR EACH 6.25 kHz CHANNEL AUTHORISED IN A LOW USAGE BAND[^c-f04b9e07d11a2b92ec1b7b23c58b952b]
 
 <table>
 <thead>
@@ -831,7 +831,7 @@ Schedule 2
 </tbody>
 </table>
 
-## SCHEDULE 8 — HEAVY CONGESTION AREAS, MEDIUM CONGESTION AREAS, LIGHT CONGESTION AREAS AND NON-CONGESTION AREAS[^key-d751720230e8f7e1a2184cbf79cb40a5]
+## SCHEDULE 8 — HEAVY CONGESTION AREAS, MEDIUM CONGESTION AREAS, LIGHT CONGESTION AREAS AND NON-CONGESTION AREAS[^c-d751720230e8f7e1a2184cbf79cb40a5]
 
 Regulation 2(1)
 
@@ -863,7 +863,7 @@ Regulation 2(1)
 </tbody>
 </table>
 
-## SCHEDULE 9 — CHARGES FOR THE COASTAL STATION RADIO (INTERNATIONAL) LICENCE CLASS FOR INTERNATIONAL MARITIME CHANNELS 9 (156.450 MHz), 11 (156.550 MHz), 12 (156.600 MHz), 14 (156.700 MHz), 68 (156.425 MHz), 69 (156.475 MHz), 71 (156.575 MHz) AND 74 (156.725 MHz) FOR EACH 6.25 kHz CHANNEL[^key-d21cccaf2b67a84b38742d1953966321]
+## SCHEDULE 9 — CHARGES FOR THE COASTAL STATION RADIO (INTERNATIONAL) LICENCE CLASS FOR INTERNATIONAL MARITIME CHANNELS 9 (156.450 MHz), 11 (156.550 MHz), 12 (156.600 MHz), 14 (156.700 MHz), 68 (156.425 MHz), 69 (156.475 MHz), 71 (156.575 MHz) AND 74 (156.725 MHz) FOR EACH 6.25 kHz CHANNEL[^c-d21cccaf2b67a84b38742d1953966321]
 
 Schedule 2
 
@@ -880,7 +880,7 @@ Schedule 2
 </tbody>
 </table>
 
-## SCHEDULE 10 — CHARGES FOR THE COASTAL STATION RADIO (INTERNATIONAL) AREA DEFINED LICENCE CLASS FOR INTERNATIONAL MARITIME CHANNELS 9 (156.450 MHz), 11 (156.550 MHz), 12 (156.600 MHz), 14 (156.700 MHz), 68 (156.425 MHz), 69 (156.475 MHz), 71 (156.575 MHz) AND 74 (156.725 MHz) FOR EACH 6.25 kHz CHANNEL[^key-e374351cce667e5a1a75f88b4b93bf66]
+## SCHEDULE 10 — CHARGES FOR THE COASTAL STATION RADIO (INTERNATIONAL) AREA DEFINED LICENCE CLASS FOR INTERNATIONAL MARITIME CHANNELS 9 (156.450 MHz), 11 (156.550 MHz), 12 (156.600 MHz), 14 (156.700 MHz), 68 (156.425 MHz), 69 (156.475 MHz), 71 (156.575 MHz) AND 74 (156.725 MHz) FOR EACH 6.25 kHz CHANNEL[^c-e374351cce667e5a1a75f88b4b93bf66]
 
 Schedule 2
 
@@ -898,7 +898,7 @@ Schedule 2
 </tbody>
 </table>
 
-## SCHEDULE 11 — CHARGES FOR THE COASTAL STATION RADIO (INTERNATIONAL) AREA DEFINED LICENCE CLASS FOR INTERNATIONAL MARITIME CHANNELS 87 (157.375 MHz) AND 88 (157.425 MHz) FOR EACH 6.25 kHz CHANNEL[^key-9d23c09d990791fbf165af30dc6ec564]
+## SCHEDULE 11 — CHARGES FOR THE COASTAL STATION RADIO (INTERNATIONAL) AREA DEFINED LICENCE CLASS FOR INTERNATIONAL MARITIME CHANNELS 87 (157.375 MHz) AND 88 (157.425 MHz) FOR EACH 6.25 kHz CHANNEL[^c-9d23c09d990791fbf165af30dc6ec564]
 
 Schedule 2
 
@@ -918,7 +918,7 @@ Schedule 2
 </tbody>
 </table>
 
-## SCHEDULE 12 — CHARGES FOR THE COASTAL STATION RADIO (INTERNATIONAL) AREA DEFINED LICENCE CLASS FOR INTERNATIONAL MARITIME CHANNELS OTHER THAN CHANNELS 9 (156.450 MHz), 11 (156.550 MHz), 12 (156.600 MHz), 14 (156.700 MHz), 68 (156.425 MHz), 69 (156.475 MHz), 71 (156.575 MHz), 74 (156.725 MHz), 87 (157.375 MHz) AND 88 (157.425 MHz) FOR EACH 2 × 25 kHz CHANNEL[^key-85dca7e668cd7905ec48c37e69920fc6]
+## SCHEDULE 12 — CHARGES FOR THE COASTAL STATION RADIO (INTERNATIONAL) AREA DEFINED LICENCE CLASS FOR INTERNATIONAL MARITIME CHANNELS OTHER THAN CHANNELS 9 (156.450 MHz), 11 (156.550 MHz), 12 (156.600 MHz), 14 (156.700 MHz), 68 (156.425 MHz), 69 (156.475 MHz), 71 (156.575 MHz), 74 (156.725 MHz), 87 (157.375 MHz) AND 88 (157.425 MHz) FOR EACH 2 × 25 kHz CHANNEL[^c-85dca7e668cd7905ec48c37e69920fc6]
 
 Schedule 2
 
@@ -938,7 +938,7 @@ Schedule 2
 </tbody>
 </table>
 
-## SCHEDULE 13 — CHARGES FOR THE COASTAL STATION RADIO (UK) LICENCE CLASS FOR EACH 6.25 kHz CHANNEL[^key-2dc4c3daac1e2fe118091068175c1aa7]
+## SCHEDULE 13 — CHARGES FOR THE COASTAL STATION RADIO (UK) LICENCE CLASS FOR EACH 6.25 kHz CHANNEL[^c-2dc4c3daac1e2fe118091068175c1aa7]
 
 Schedule 2
 
@@ -954,7 +954,7 @@ Schedule 2
 </tbody>
 </table>
 
-## SCHEDULE 14 — CHARGES FOR THE COASTAL STATION RADIO (UK) AREA DEFINED LICENCE CLASS FOR EACH 6.25 kHz CHANNEL[^key-2fb73242507cb300bc4dccb8ee4714b5]
+## SCHEDULE 14 — CHARGES FOR THE COASTAL STATION RADIO (UK) AREA DEFINED LICENCE CLASS FOR EACH 6.25 kHz CHANNEL[^c-2fb73242507cb300bc4dccb8ee4714b5]
 
 Schedule 2
 
@@ -977,9 +977,9 @@ Schedule 2
 
 ### PART 1 — FORMULA FOR CALCULATING THE APPROPRIATE SUM FOR A LICENCE FOR AN AREA SERVICE
 
-**1.**[^key-34eb1a8170ca24c807f308d4fd8a827c] For an area service the appropriate sum is the amount in pounds sterling calculated in accordance with the formula set out in paragraph 2.
+**1.**[^c-34eb1a8170ca24c807f308d4fd8a827c] For an area service the appropriate sum is the amount in pounds sterling calculated in accordance with the formula set out in paragraph 2.
 
-**2.**[^key-095e6d81796fbab427238d4b209ebe5c] The formula is—
+**2.**[^c-095e6d81796fbab427238d4b209ebe5c] The formula is—
 
 [image: see source](https://www.legislation.gov.uk/uksi/2020/1068/images/uksi_20201068_en_003)
 
@@ -993,12 +993,12 @@ Schedule 2
 
 ### PART 2 — FORMULA FOR CALCULATING THE APPROPRIATE SUM FOR A LICENCE FOR AN AERONAUTICAL BROADCAST SERVICE
 
-**3.**[^key-9fa72cd18c69907e745a29505436d390] For an aeronautical broadcast service the appropriate sum is the amount in pounds sterling which is the lesser of—
+**3.**[^c-9fa72cd18c69907e745a29505436d390] For an aeronautical broadcast service the appropriate sum is the amount in pounds sterling which is the lesser of—
 
 - (a) the sum calculated in accordance with the formula set out in paragraph 4; and
 - (b) the sum calculated in accordance with the formula set out in paragraph 5.
 
-**4.**[^key-17d397568d348c25455f6a8a6dc7b68c] The formula referred to in paragraph 3(a) is—
+**4.**[^c-17d397568d348c25455f6a8a6dc7b68c] The formula referred to in paragraph 3(a) is—
 
 [image: see source](https://www.legislation.gov.uk/uksi/2020/1068/images/uksi_20201068_en_003)
 
@@ -1010,7 +1010,7 @@ Schedule 2
   - “h” means the number corresponding to the height (in feet) of the designated operational coverage specified in the licence granted to the licensee; and
   - “r” means the number corresponding to the radius (in nautical miles) of the designated operational coverage specified in the licence.
 
-**5.**[^key-041661bca1a490c8fa50081ee27f445a] The formula referred to in paragraph 3(b) is—
+**5.**[^c-041661bca1a490c8fa50081ee27f445a] The formula referred to in paragraph 3(b) is—
 
 [image: see source](https://www.legislation.gov.uk/uksi/2020/1068/images/uksi_20201068_en_004)
 
@@ -1023,7 +1023,7 @@ Schedule 2
 
 ### PART 3 — FORMULA FOR CALCULATING THE APPROPRIATE SUM FOR A LICENCE FOR A CIRCULAR SERVICE
 
-**6.**[^key-aa080615827ef9d4ac88c2394254d32b] (1) For a circular service the appropriate sum is the amount in pounds sterling which is the greater of the sums specified in paragraphs 6(2) and 6(3).
+**6.**[^c-aa080615827ef9d4ac88c2394254d32b] (1) For a circular service the appropriate sum is the amount in pounds sterling which is the greater of the sums specified in paragraphs 6(2) and 6(3).
 
 (2) The sum specified in this paragraph is the lesser of—
 
@@ -1032,7 +1032,7 @@ Schedule 2
 
 (3) The sum specified in this paragraph is the sum in pounds sterling equal to a quarter of the sum calculated in accordance with the formula set out in paragraph 4.
 
-**7.**[^key-297791112513c784a11193409933ac42] The formula referred to in paragraph 6(2)(b) is—
+**7.**[^c-297791112513c784a11193409933ac42] The formula referred to in paragraph 6(2)(b) is—
 
 [image: see source](https://www.legislation.gov.uk/uksi/2020/1068/images/uksi_20201068_en_005)
 
@@ -1077,142 +1077,142 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^f00002]: Footnote: Sections 12, 13(2) and 122(7) were extended to the Bailiwick of Guernsey by article 2 of the Wireless Telegraphy (Guernsey) Order 2006 ([S.I. 2006/3325](https://www.legislation.gov.uk/uksi/2006/3325)); to the Bailiwick of Jersey by article 2 of the Wireless Telegraphy (Jersey) Order 2006 ([S.I. 2006/3324](https://www.legislation.gov.uk/uksi/2006/3324)); and to the Isle of Man by article 2 of the Wireless Telegraphy (Isle of Man) Order 2007 ([S.I. 2007/278](https://www.legislation.gov.uk/uksi/2007/278)).
 
-[^key-243d47efa028f6d6538a42b9c2d0de00]: Commencement: Reg. 1 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-243d47efa028f6d6538a42b9c2d0de00]: Commencement: Reg. 1 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-fdb9942c6c8037eb0d43596f34cdd109]: Commencement: Reg. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-fdb9942c6c8037eb0d43596f34cdd109]: Commencement: Reg. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2000/2039](https://www.legislation.gov.uk/uksi/2000/2039)
 
-[^key-70a969c436bbbfa533de65ecceb5ec04]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/2/1) inserted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/2/a)
+[^c-70a969c436bbbfa533de65ecceb5ec04]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/2/1) inserted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/2/a)
 
 [^f00004]: Footnote: [S.I. 2012//2187](https://www.legislation.gov.uk/uksi/2012/2187), amended by [S.I. 2015/1338](https://www.legislation.gov.uk/uksi/2015/1338) and [S.I. 2019/950](https://www.legislation.gov.uk/uksi/2019/950)
 
-[^key-628aed088033831181b5e01626b8ee4c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/2/1) inserted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/2/b)
+[^c-628aed088033831181b5e01626b8ee4c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/2/1) inserted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/2/b)
 
-[^key-f91bc4e81c47d71e5f7ded9674bd123f]: Commencement: Reg. 3 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-f91bc4e81c47d71e5f7ded9674bd123f]: Commencement: Reg. 3 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-931b36d94c6c9552802a1e9063f6e3fd]: Commencement: Reg. 4 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-931b36d94c6c9552802a1e9063f6e3fd]: Commencement: Reg. 4 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-91c96d21602c241a137da7008163386a]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/1) substituted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/a)
+[^c-91c96d21602c241a137da7008163386a]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/1) substituted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/a)
 
-[^key-489fddc9850d8db86956c1734acd96fd]: Textual amendment: Words in [reg. 4(6)(a)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/a) substituted (27.10.2021) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2021 (S.I. 2021/1117)](https://www.legislation.gov.uk/uksi/2021/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1117/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1117/regulation/2/2/a)
+[^c-489fddc9850d8db86956c1734acd96fd]: Textual amendment: Words in [reg. 4(6)(a)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/a) substituted (27.10.2021) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2021 (S.I. 2021/1117)](https://www.legislation.gov.uk/uksi/2021/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1117/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1117/regulation/2/2/a)
 
-[^key-fd2a4709fc87ea69e96a533636004bb3]: Textual amendment: Words in [reg. 4(6)(a)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/a) substituted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/b)
+[^c-fd2a4709fc87ea69e96a533636004bb3]: Textual amendment: Words in [reg. 4(6)(a)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/a) substituted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/b)
 
-[^key-aeec31af9d7a418c8d0acf29308cf782]: Textual amendment: Word in [reg. 4(6)(b)(vi)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/b/vi) omitted (27.10.2021) by virtue of [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2021 (S.I. 2021/1117)](https://www.legislation.gov.uk/uksi/2021/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1117/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1117/regulation/2/2/b)
+[^c-aeec31af9d7a418c8d0acf29308cf782]: Textual amendment: Word in [reg. 4(6)(b)(vi)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/b/vi) omitted (27.10.2021) by virtue of [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2021 (S.I. 2021/1117)](https://www.legislation.gov.uk/uksi/2021/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1117/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1117/regulation/2/2/b)
 
-[^key-d4420e6679b51b56f51b8ccfbc317d33]: Textual amendment: Words in [reg. 4(6)(b)(vii)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/b/vii) substituted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/c)
+[^c-d4420e6679b51b56f51b8ccfbc317d33]: Textual amendment: Words in [reg. 4(6)(b)(vii)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/b/vii) substituted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/c)
 
-[^key-b4a1eea9e59c08d00160e8aaac388af9]: Textual amendment: Word in [reg. 4(6)(b)(vii)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/b/vii) omitted (17.4.2023) by virtue of [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/d)
+[^c-b4a1eea9e59c08d00160e8aaac388af9]: Textual amendment: Word in [reg. 4(6)(b)(vii)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/b/vii) omitted (17.4.2023) by virtue of [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/d)
 
-[^key-ebd94ddf219d610bdf55c9478fb176bd]: Textual amendment: [Reg. 4(6)(b)(viii)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/b/viii) inserted (27.10.2021) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2021 (S.I. 2021/1117)](https://www.legislation.gov.uk/uksi/2021/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1117/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2021/1117/regulation/2/2/d)
+[^c-ebd94ddf219d610bdf55c9478fb176bd]: Textual amendment: [Reg. 4(6)(b)(viii)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/b/viii) inserted (27.10.2021) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2021 (S.I. 2021/1117)](https://www.legislation.gov.uk/uksi/2021/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1117/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2021/1117/regulation/2/2/d)
 
-[^key-a2cbdfbfb338551dde7eba11068c6d20]: Textual amendment: [Reg. 4(6)(b)(ix)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/b/ix)[(x)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/b/x) inserted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(e)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/e)
+[^c-a2cbdfbfb338551dde7eba11068c6d20]: Textual amendment: [Reg. 4(6)(b)(ix)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/b/ix)[(x)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/b/x) inserted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(e)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/e)
 
-[^key-8196cb3667dd5b8772d9b01b3cec7bf8]: Textual amendment: Words in [reg. 4(7)(a)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/7/a) substituted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(f)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/f)
+[^c-8196cb3667dd5b8772d9b01b3cec7bf8]: Textual amendment: Words in [reg. 4(7)(a)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/7/a) substituted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(f)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/f)
 
-[^key-48d7e4a591b88c2bf23dbcab56b784dc]: Textual amendment: Words in [reg. 4(7)(b)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/7/b) substituted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(g)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/g)
+[^c-48d7e4a591b88c2bf23dbcab56b784dc]: Textual amendment: Words in [reg. 4(7)(b)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/7/b) substituted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(g)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/g)
 
-[^key-a128be40249e50faa0d3ae5d4fa7ecd5]: Commencement: Reg. 5 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-a128be40249e50faa0d3ae5d4fa7ecd5]: Commencement: Reg. 5 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-2aa43120c83dfc340b3a0a9e4379785c]: Commencement: Reg. 6 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-2aa43120c83dfc340b3a0a9e4379785c]: Commencement: Reg. 6 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-797908ea6060c961dd1cbfacb4296cad]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2020/1068/regulation/6A) inserted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/4)
+[^c-797908ea6060c961dd1cbfacb4296cad]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2020/1068/regulation/6A) inserted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/4)
 
-[^key-80812e2567466d7ee89c82b4b727275e]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1068/regulation/7) substituted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/5)
+[^c-80812e2567466d7ee89c82b4b727275e]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1068/regulation/7) substituted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/5)
 
-[^key-3dc23e2c699f74032d7f85f2a6a80bd4]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1068/regulation/8) inserted (27.10.2021) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2021 (S.I. 2021/1117)](https://www.legislation.gov.uk/uksi/2021/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1117/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/1117/regulation/2/3)
+[^c-3dc23e2c699f74032d7f85f2a6a80bd4]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1068/regulation/8) inserted (27.10.2021) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2021 (S.I. 2021/1117)](https://www.legislation.gov.uk/uksi/2021/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1117/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/1117/regulation/2/3)
 
-[^key-94d8d1085a4a872a885efa1559f0ffff]: Textual amendment: [Regs. 9](https://www.legislation.gov.uk/uksi/2020/1068/regulation/9), [10](https://www.legislation.gov.uk/uksi/2020/1068/regulation/10) inserted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/6)
+[^c-94d8d1085a4a872a885efa1559f0ffff]: Textual amendment: [Regs. 9](https://www.legislation.gov.uk/uksi/2020/1068/regulation/9), [10](https://www.legislation.gov.uk/uksi/2020/1068/regulation/10) inserted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/6)
 
-[^key-f7c22e34d1068aa1e8b4fba136faa75e]: Commencement: Sch. 1 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-f7c22e34d1068aa1e8b4fba136faa75e]: Commencement: Sch. 1 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-b793a262b8ec772f5171fd68769c0f23]: Commencement: Sch. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-b793a262b8ec772f5171fd68769c0f23]: Commencement: Sch. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-9cc0e3f23599fce1f074916965af671f]: Textual amendment: Words in Sch. 2 inserted (13.1.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2024 (S.I. 2024/1318)](https://www.legislation.gov.uk/uksi/2024/1318), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1318/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1318/regulation/2/2)
+[^c-9cc0e3f23599fce1f074916965af671f]: Textual amendment: Words in Sch. 2 inserted (13.1.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2024 (S.I. 2024/1318)](https://www.legislation.gov.uk/uksi/2024/1318), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1318/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1318/regulation/2/2)
 
-[^key-c95cfa9ea621d8034c61c6a90e8a06ec]: Textual amendment: Words in Sch. 2 substituted (29.12.2022) by virtue of [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2022 (S.I. 2022/1310)](https://www.legislation.gov.uk/uksi/2022/1310), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1310/regulation/1), [2(2)(3)](https://www.legislation.gov.uk/uksi/2022/1310/regulation/2/2)
+[^c-c95cfa9ea621d8034c61c6a90e8a06ec]: Textual amendment: Words in Sch. 2 substituted (29.12.2022) by virtue of [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2022 (S.I. 2022/1310)](https://www.legislation.gov.uk/uksi/2022/1310), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1310/regulation/1), [2(2)(3)](https://www.legislation.gov.uk/uksi/2022/1310/regulation/2/2)
 
-[^key-beb15f775c2dfe78f9682525174e69a8]: Textual amendment: Words in Sch. 2 substituted (29.12.2022) by virtue of [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2022 (S.I. 2022/1310)](https://www.legislation.gov.uk/uksi/2022/1310), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1310/regulation/1), [2(4)(5)](https://www.legislation.gov.uk/uksi/2022/1310/regulation/2/4)
+[^c-beb15f775c2dfe78f9682525174e69a8]: Textual amendment: Words in Sch. 2 substituted (29.12.2022) by virtue of [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2022 (S.I. 2022/1310)](https://www.legislation.gov.uk/uksi/2022/1310), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1310/regulation/1), [2(4)(5)](https://www.legislation.gov.uk/uksi/2022/1310/regulation/2/4)
 
-[^key-0b0e5236813eef7cb7cc5bd1cab8456d]: Textual amendment: Words in Sch. 2 omitted (13.1.2025) by virtue of [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2024 (S.I. 2024/1318)](https://www.legislation.gov.uk/uksi/2024/1318), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1318/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/1318/regulation/2/3/a)
+[^c-0b0e5236813eef7cb7cc5bd1cab8456d]: Textual amendment: Words in Sch. 2 omitted (13.1.2025) by virtue of [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2024 (S.I. 2024/1318)](https://www.legislation.gov.uk/uksi/2024/1318), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1318/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/1318/regulation/2/3/a)
 
-[^key-702e7e5339f18d300df02623cff66613]: Textual amendment: Words in Sch. 2 inserted (13.1.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2024 (S.I. 2024/1318)](https://www.legislation.gov.uk/uksi/2024/1318), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1318/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/1318/regulation/2/3/b)
+[^c-702e7e5339f18d300df02623cff66613]: Textual amendment: Words in Sch. 2 inserted (13.1.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2024 (S.I. 2024/1318)](https://www.legislation.gov.uk/uksi/2024/1318), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1318/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/1318/regulation/2/3/b)
 
-[^key-2e4cc758c497ae90cbe3703bfc4384d5]: Textual amendment: Words in Sch. 2 inserted (29.12.2022) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2022 (S.I. 2022/1310)](https://www.legislation.gov.uk/uksi/2022/1310), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1310/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2022/1310/regulation/2/6)
+[^c-2e4cc758c497ae90cbe3703bfc4384d5]: Textual amendment: Words in Sch. 2 inserted (29.12.2022) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2022 (S.I. 2022/1310)](https://www.legislation.gov.uk/uksi/2022/1310), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1310/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2022/1310/regulation/2/6)
 
-[^key-e3b82295d54b3ded5d01ef8785691b42]: Textual amendment: Words in Sch. 2 inserted (13.10.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2025 (S.I. 2025/1038)](https://www.legislation.gov.uk/uksi/2025/1038), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1038/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/1038/regulation/2/2)
+[^c-e3b82295d54b3ded5d01ef8785691b42]: Textual amendment: Words in Sch. 2 inserted (13.10.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2025 (S.I. 2025/1038)](https://www.legislation.gov.uk/uksi/2025/1038), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1038/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/1038/regulation/2/2)
 
-[^key-588bd0c74bd7ccbeb55399c275abb32a]: Textual amendment: Words in Sch. 2 substituted (13.1.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2024 (S.I. 2024/1318)](https://www.legislation.gov.uk/uksi/2024/1318), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1318/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/1318/regulation/2/4)
+[^c-588bd0c74bd7ccbeb55399c275abb32a]: Textual amendment: Words in Sch. 2 substituted (13.1.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2024 (S.I. 2024/1318)](https://www.legislation.gov.uk/uksi/2024/1318), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1318/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/1318/regulation/2/4)
 
-[^key-66bf0d1f2a1814d6d7ba5db1a1f69104]: Textual amendment: Words in Sch. 2 substituted (13.10.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2025 (S.I. 2025/1038)](https://www.legislation.gov.uk/uksi/2025/1038), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1038/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/1038/regulation/2/3/a)
+[^c-66bf0d1f2a1814d6d7ba5db1a1f69104]: Textual amendment: Words in Sch. 2 substituted (13.10.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2025 (S.I. 2025/1038)](https://www.legislation.gov.uk/uksi/2025/1038), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1038/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/1038/regulation/2/3/a)
 
-[^key-0438bb5e369498709641362da898a58e]: Textual amendment: Words in Sch. 2 inserted (13.10.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2025 (S.I. 2025/1038)](https://www.legislation.gov.uk/uksi/2025/1038), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1038/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/1038/regulation/2/3/b)
+[^c-0438bb5e369498709641362da898a58e]: Textual amendment: Words in Sch. 2 inserted (13.10.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2025 (S.I. 2025/1038)](https://www.legislation.gov.uk/uksi/2025/1038), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1038/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/1038/regulation/2/3/b)
 
-[^key-67091a94c6be85bfed3687dcc1138341]: Textual amendment: Words in Sch. 2 inserted (13.1.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2024 (S.I. 2024/1318)](https://www.legislation.gov.uk/uksi/2024/1318), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1318/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2024/1318/regulation/2/5)
+[^c-67091a94c6be85bfed3687dcc1138341]: Textual amendment: Words in Sch. 2 inserted (13.1.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2024 (S.I. 2024/1318)](https://www.legislation.gov.uk/uksi/2024/1318), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1318/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2024/1318/regulation/2/5)
 
-[^key-6912a0e4e597d330c966882b345ca415]: Textual amendment: Words in Sch. 2 inserted (13.10.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2025 (S.I. 2025/1038)](https://www.legislation.gov.uk/uksi/2025/1038), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1038/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2025/1038/regulation/2/4)
+[^c-6912a0e4e597d330c966882b345ca415]: Textual amendment: Words in Sch. 2 inserted (13.10.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2025 (S.I. 2025/1038)](https://www.legislation.gov.uk/uksi/2025/1038), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1038/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2025/1038/regulation/2/4)
 
-[^key-cf554e487d1804e2715c6d8bf5e76965]: Commencement: Sch. 3 para. 1 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-cf554e487d1804e2715c6d8bf5e76965]: Commencement: Sch. 3 para. 1 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-e901d48911ec078038851b1d673334b7]: Commencement: Sch. 3 para. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-e901d48911ec078038851b1d673334b7]: Commencement: Sch. 3 para. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-0c3013df5707ecc92869e0ace7d8eba1]: Commencement: Sch. 3 para. 3 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-0c3013df5707ecc92869e0ace7d8eba1]: Commencement: Sch. 3 para. 3 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-2426695470c40ece75b8195fe697fd0c]: Commencement: Sch. 3 Pt. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-2426695470c40ece75b8195fe697fd0c]: Commencement: Sch. 3 Pt. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-13c1cf6fccaff27727fdc23d849e6f0a]: Commencement: Sch. 3 Pt. 3 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-13c1cf6fccaff27727fdc23d849e6f0a]: Commencement: Sch. 3 Pt. 3 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-e82bbf3d1626d25697aac114654427e2]: Commencement: Sch. 3 Pt. 4 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-e82bbf3d1626d25697aac114654427e2]: Commencement: Sch. 3 Pt. 4 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-7a358d7e03213e9e71e8ce639fc8ae02]: Commencement: Sch. 3 Pt. 5 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-7a358d7e03213e9e71e8ce639fc8ae02]: Commencement: Sch. 3 Pt. 5 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-ceb7f47e0f6c2767118d0bdda45a2e05]: Commencement: Sch. 4 para. 1 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-ceb7f47e0f6c2767118d0bdda45a2e05]: Commencement: Sch. 4 para. 1 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-ee6a67ae4084bc36d6f9e833bb04f250]: Commencement: Sch. 4 para. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-ee6a67ae4084bc36d6f9e833bb04f250]: Commencement: Sch. 4 para. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-fd271e0790033a3842446f1bfc2fe138]: Commencement: Sch. 4 para. 3 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-fd271e0790033a3842446f1bfc2fe138]: Commencement: Sch. 4 para. 3 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-466e46563c268a883bac48120dcb206b]: Commencement: Sch. 4 Pt. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-466e46563c268a883bac48120dcb206b]: Commencement: Sch. 4 Pt. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-3182eaa43de785d62f507180414240c5]: Commencement: Sch. 4 para. 4 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-3182eaa43de785d62f507180414240c5]: Commencement: Sch. 4 para. 4 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-02f538ad8eca00f36f0ffe1849c62925]: Commencement: Sch. 4 para. 5 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-02f538ad8eca00f36f0ffe1849c62925]: Commencement: Sch. 4 para. 5 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-909a673f5a36e4ee397df83043f2c77f]: Commencement: Sch. 5 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-909a673f5a36e4ee397df83043f2c77f]: Commencement: Sch. 5 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-1d1c47f0f878ce931114046b14a56b09]: Commencement: Sch. 6 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-1d1c47f0f878ce931114046b14a56b09]: Commencement: Sch. 6 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-c42b0ca016180dffac1c247187999dc3]: Commencement: Sch. 7 Pt. 1 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-c42b0ca016180dffac1c247187999dc3]: Commencement: Sch. 7 Pt. 1 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-671aa621f8790a95024e5ecc8d69a734]: Commencement: Sch. 7 Pt. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-671aa621f8790a95024e5ecc8d69a734]: Commencement: Sch. 7 Pt. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-f04b9e07d11a2b92ec1b7b23c58b952b]: Commencement: Sch. 7 Pt. 3 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-f04b9e07d11a2b92ec1b7b23c58b952b]: Commencement: Sch. 7 Pt. 3 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-d751720230e8f7e1a2184cbf79cb40a5]: Commencement: Sch. 8 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-d751720230e8f7e1a2184cbf79cb40a5]: Commencement: Sch. 8 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-d21cccaf2b67a84b38742d1953966321]: Commencement: Sch. 9 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-d21cccaf2b67a84b38742d1953966321]: Commencement: Sch. 9 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-e374351cce667e5a1a75f88b4b93bf66]: Commencement: Sch. 10 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-e374351cce667e5a1a75f88b4b93bf66]: Commencement: Sch. 10 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-9d23c09d990791fbf165af30dc6ec564]: Commencement: Sch. 11 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-9d23c09d990791fbf165af30dc6ec564]: Commencement: Sch. 11 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-85dca7e668cd7905ec48c37e69920fc6]: Commencement: Sch. 12 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-85dca7e668cd7905ec48c37e69920fc6]: Commencement: Sch. 12 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-2dc4c3daac1e2fe118091068175c1aa7]: Commencement: Sch. 13 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-2dc4c3daac1e2fe118091068175c1aa7]: Commencement: Sch. 13 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-2fb73242507cb300bc4dccb8ee4714b5]: Commencement: Sch. 14 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-2fb73242507cb300bc4dccb8ee4714b5]: Commencement: Sch. 14 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-34eb1a8170ca24c807f308d4fd8a827c]: Commencement: Sch. 15 para. 1 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-34eb1a8170ca24c807f308d4fd8a827c]: Commencement: Sch. 15 para. 1 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-095e6d81796fbab427238d4b209ebe5c]: Commencement: Sch. 15 para. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-095e6d81796fbab427238d4b209ebe5c]: Commencement: Sch. 15 para. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-9fa72cd18c69907e745a29505436d390]: Commencement: Sch. 15 para. 3 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-9fa72cd18c69907e745a29505436d390]: Commencement: Sch. 15 para. 3 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-17d397568d348c25455f6a8a6dc7b68c]: Commencement: Sch. 15 para. 4 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-17d397568d348c25455f6a8a6dc7b68c]: Commencement: Sch. 15 para. 4 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-041661bca1a490c8fa50081ee27f445a]: Commencement: Sch. 15 para. 5 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-041661bca1a490c8fa50081ee27f445a]: Commencement: Sch. 15 para. 5 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-aa080615827ef9d4ac88c2394254d32b]: Commencement: Sch. 15 para. 6 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-aa080615827ef9d4ac88c2394254d32b]: Commencement: Sch. 15 para. 6 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
 
-[^key-297791112513c784a11193409933ac42]: Commencement: Sch. 15 para. 7 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+[^c-297791112513c784a11193409933ac42]: Commencement: Sch. 15 para. 7 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)

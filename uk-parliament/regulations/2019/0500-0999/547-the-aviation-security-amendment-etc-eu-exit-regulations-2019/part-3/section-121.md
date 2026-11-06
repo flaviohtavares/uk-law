@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Amendment of Chapter 7 (air carrier mail and air carrier materials)[^key-be7b2604f9afd3ea3b3f652f4345b51b]
+## 121. Amendment of Chapter 7 (air carrier mail and air carrier materials)[^c-be7b2604f9afd3ea3b3f652f4345b51b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Chapter 7 of the Annex omit point 7.1.3.
 
 ## Annotations
 
-[^key-be7b2604f9afd3ea3b3f652f4345b51b]: Commencement: Reg. 121 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-be7b2604f9afd3ea3b3f652f4345b51b]: Commencement: Reg. 121 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

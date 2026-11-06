@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Computation of time for purposes of Part 3[^key-4331572bed818aa1632e1ee4a8ee5395]
+## 81. Computation of time for purposes of Part 3[^c-4331572bed818aa1632e1ee4a8ee5395]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4331572bed818aa1632e1ee4a8ee5395]: Commencement: Art. 81 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-4331572bed818aa1632e1ee4a8ee5395]: Commencement: Art. 81 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00047]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Continuation of leave: repeals[^key-a8dbb813ac0d340245ef8bc1b41c1649]
+## 64. Continuation of leave: repeals[^c-a8dbb813ac0d340245ef8bc1b41c1649]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8dbb813ac0d340245ef8bc1b41c1649]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2016/19/section/64) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/h)
+[^c-a8dbb813ac0d340245ef8bc1b41c1649]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2016/19/section/64) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/h)

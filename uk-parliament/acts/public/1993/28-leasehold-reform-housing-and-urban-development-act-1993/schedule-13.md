@@ -111,7 +111,7 @@ Section 56.
 (5) Sub-paragraph (4) shall not apply to any transaction which falls within paragraph (a) of that sub-paragraph if—
 
 - (a) the transaction is entered into in pursuance of a contract entered into on or before the date mentioned in that paragraph; and
-- (b) the amount of the premium payable by the tenant in respect of the grant of the new lease was determined on or before that date either by agreement or by the appropriate tribunal[^key-17560c852fd23c42d84a7bf9e254bc18] under this Chapter.
+- (b) the amount of the premium payable by the tenant in respect of the grant of the new lease was determined on or before that date either by agreement or by the appropriate tribunal[^c-17560c852fd23c42d84a7bf9e254bc18] under this Chapter.
 
 **4B.**[^c17028691] (1) Subject to the provisions of this paragraph, the value of the interest to be held by the tenant under the new lease is the amount which at the relevant date[^c17109071] that interest (assuming it to have been granted to him at that date) might be expected to realise if sold on the open market by a willing seller (with the owner of any interest superior to the interest of the tenant not buying or seeking to buy) on the following assumptions—
 
@@ -134,7 +134,7 @@ Section 56.
 (5) Sub-paragraph (4) shall not apply to any transaction which falls within paragraph (a) of that sub-paragraph if—
 
 - (a) the transaction is entered into in pursuance of a contract entered into on or before the date mentioned in that paragraph; and
-- (b) the amount of the premium payable by the tenant in respect of the grant of the new lease was determined on or before that date either by agreement or by the appropriate tribunal[^key-8e2d5e0988c90b529bdc5f2a6613f6f1] under this Chapter.
+- (b) the amount of the premium payable by the tenant in respect of the grant of the new lease was determined on or before that date either by agreement or by the appropriate tribunal[^c-8e2d5e0988c90b529bdc5f2a6613f6f1] under this Chapter.
 
 #### Compensation for loss arising out of grant of new lease
 
@@ -171,7 +171,7 @@ Section 56.
 
 **8.** (1) Subject to sub-paragraph (2), paragraph 3(2) to (6) shall apply for determining the value of any intermediate leasehold interest for the purposes of any provision of this Schedule with such modifications as are appropriate to relate those provisions of paragraph 3 to a sale of the interest in question subject to the tenant’s lease for the time being and to any leases intermediate between the interest in question and that lease.
 
-(2)[^key-c0e2d6b2fca247d85454f8a83b0c2913] The value of an intermediate leasehold interest which is the interest of the tenant under a minor intermediate lease is to be calculated in accordance with regulations made by the appropriate national authority instead of in accordance with sub-paragraph (1).
+(2)[^c-c0e2d6b2fca247d85454f8a83b0c2913] The value of an intermediate leasehold interest which is the interest of the tenant under a minor intermediate lease is to be calculated in accordance with regulations made by the appropriate national authority instead of in accordance with sub-paragraph (1).
 
 (3) “**A minor intermediate lease**” means a lease complying with the following requirements, namely—
 
@@ -182,9 +182,9 @@ Section 56.
 
 (5) Where the minor intermediate lease or that on which it is in immediate reversion comprises property other than the tenant’s flat, then in sub-paragraph (4) the reference to the rent payable under it means so much of that rent as is apportioned to that flat.
 
-(6)[^key-91eddc7eed87df43849d3056adf0ecfb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-91eddc7eed87df43849d3056adf0ecfb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-91eddc7eed87df43849d3056adf0ecfb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-91eddc7eed87df43849d3056adf0ecfb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) For the purposes of this paragraph the expectation of possession carried by a lease is the expectation which it carries at the relevant date[^c17109171] of possession after the tenant’s lease, on the basis that—
 
@@ -193,7 +193,7 @@ Section 56.
 
 (9) In a case where before the relevant date for the purposes of this Chapter the immediate landlord of the tenant had given notice to quit terminating the tenant’s lease on a date earlier than that date, the date specified in the notice to quit shall be substituted for the date specified in sub-paragraph (8)(a) above.
 
-(10)[^key-955b291f32f779c737d15002aa7b0043] In sub-paragraph (2) “**appropriate national authority**” means—
+(10)[^c-955b291f32f779c737d15002aa7b0043] In sub-paragraph (2) “**appropriate national authority**” means—
 
 - (a) in relation to a leasehold interest of land in England, the Secretary of State;
 - (b) in relation to a leasehold interest of land in Wales, the Welsh Ministers.
@@ -244,20 +244,20 @@ Section 56.
 
 [^c17109011]: Textual amendment: Words in Sch. 13 para. 4A substituted (26.7.2002 for E. and 1.1.2003 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 134](https://www.legislation.gov.uk/ukpga/2002/15/section/134); [S.I. 2002/1912](https://www.legislation.gov.uk/uksi/2002/1912), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2002/1912/article/2/b/i) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2002/1912/schedule/2)); [S.I. 2002/3012](https://www.legislation.gov.uk/uksi/2002/3012), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2002/3012/article/2/b/i) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3012/schedule/2))
 
-[^key-17560c852fd23c42d84a7bf9e254bc18]: Textual amendment: Words in Sch. 13 para. 4A(5)(b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 128](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/128) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-17560c852fd23c42d84a7bf9e254bc18]: Textual amendment: Words in Sch. 13 para. 4A(5)(b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 128](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/128) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c17028691]: Textual amendment: Sch. 13 para. 4B inserted (24.7.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [ss. 110(4)(5)](https://www.legislation.gov.uk/ukpga/1996/52/section/110/4/5), [232(1)](https://www.legislation.gov.uk/ukpga/1996/52/section/232/1)
 
 [^c17109071]: Textual amendment: Words in Sch. 13 para. 4B substituted (26.7.2002 for E. and 1.1.2003 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 134](https://www.legislation.gov.uk/ukpga/2002/15/section/134); [S.I. 2002/1912](https://www.legislation.gov.uk/uksi/2002/1912), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2002/1912/article/2/b/i) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2002/1912/schedule/2)); [S.I. 2002/3012](https://www.legislation.gov.uk/uksi/2002/3012), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2002/3012/article/2/b/i) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3012/schedule/2))
 
-[^key-8e2d5e0988c90b529bdc5f2a6613f6f1]: Textual amendment: Words in [Sch. 13 para. 4B(5)(b)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/13/paragraph/4B/5/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 128](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/128) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-8e2d5e0988c90b529bdc5f2a6613f6f1]: Textual amendment: Words in [Sch. 13 para. 4B(5)(b)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/13/paragraph/4B/5/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 128](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/128) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c17109131]: Textual amendment: Words in [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/1993/28/schedule/13/paragraph/7) substituted (26.7.2002 for E. and 1.1.2003 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 134](https://www.legislation.gov.uk/ukpga/2002/15/section/134); [S.I. 2002/1912](https://www.legislation.gov.uk/uksi/2002/1912), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2002/1912/article/2/b/i) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2002/1912/schedule/2)); [S.I. 2002/3012](https://www.legislation.gov.uk/uksi/2002/3012), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2002/3012/article/2/b/i) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3012/schedule/2))
 
-[^key-c0e2d6b2fca247d85454f8a83b0c2913]: Textual amendment: [Sch. 13 para. 8(2)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/13/paragraph/8/2) substituted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 5(2)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/5/2) (with [Sch. 10 para. 5(5)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/5/5))
+[^c-c0e2d6b2fca247d85454f8a83b0c2913]: Textual amendment: [Sch. 13 para. 8(2)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/13/paragraph/8/2) substituted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 5(2)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/5/2) (with [Sch. 10 para. 5(5)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/5/5))
 
-[^key-91eddc7eed87df43849d3056adf0ecfb]: Textual amendment: [Sch. 13 para. 8(6)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/13/paragraph/8/6)[(7)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/13/paragraph/8/7) omitted (12.5.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 5(3)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/5/3) (with [Sch. 10 para. 5(5)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/5/5))
+[^c-91eddc7eed87df43849d3056adf0ecfb]: Textual amendment: [Sch. 13 para. 8(6)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/13/paragraph/8/6)[(7)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/13/paragraph/8/7) omitted (12.5.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 5(3)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/5/3) (with [Sch. 10 para. 5(5)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/5/5))
 
 [^c17109171]: Textual amendment: Words in Sch. 13 para. 8 substituted (26.7.2002 for E. and 1.1.2003 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 134](https://www.legislation.gov.uk/ukpga/2002/15/section/134); [S.I. 2002/1912](https://www.legislation.gov.uk/uksi/2002/1912), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2002/1912/article/2/b/i) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2002/1912/schedule/2)); [S.I. 2002/3012](https://www.legislation.gov.uk/uksi/2002/3012), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2002/3012/article/2/b/i) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3012/schedule/2))
 
-[^key-955b291f32f779c737d15002aa7b0043]: Textual amendment: [Sch. 13 para. 8(10)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/13/paragraph/8/10) inserted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 5(4)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/5/4) (with [Sch. 10 para. 5(5)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/5/5))
+[^c-955b291f32f779c737d15002aa7b0043]: Textual amendment: [Sch. 13 para. 8(10)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/13/paragraph/8/10) inserted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 5(4)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/5/4) (with [Sch. 10 para. 5(5)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/5/5))

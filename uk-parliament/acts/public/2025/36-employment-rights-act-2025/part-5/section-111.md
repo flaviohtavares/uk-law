@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Withdrawal of notice of underpayment[^key-337d3a3095c06a4173b076e4361ce9c3][^key-ef9e0c504e10617e420082a73eb88b4a]
+## 111. Withdrawal of notice of underpayment[^c-337d3a3095c06a4173b076e4361ce9c3][^c-ef9e0c504e10617e420082a73eb88b4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ the Secretary of State may withdraw it by giving a notice of withdrawal to the p
 
 ## Annotations
 
-[^key-337d3a3095c06a4173b076e4361ce9c3]: Commencement: S. 111 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-337d3a3095c06a4173b076e4361ce9c3]: Commencement: S. 111 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-ef9e0c504e10617e420082a73eb88b4a]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2025/36/section/111) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(16)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/16)
+[^c-ef9e0c504e10617e420082a73eb88b4a]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2025/36/section/111) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(16)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/16)

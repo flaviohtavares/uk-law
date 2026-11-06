@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 137. Furnishing to workers of information with respect to this Act and orders and regulations thereunder.[^key-911ae09a50b6a0c64f4e04ec9671b697]
+## 137. Furnishing to workers of information with respect to this Act and orders and regulations thereunder.[^c-911ae09a50b6a0c64f4e04ec9671b697]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-911ae09a50b6a0c64f4e04ec9671b697]: Textual amendment: [S. 137](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/70/section/137) repealed (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-911ae09a50b6a0c64f4e04ec9671b697]: Textual amendment: [S. 137](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/70/section/137) repealed (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))

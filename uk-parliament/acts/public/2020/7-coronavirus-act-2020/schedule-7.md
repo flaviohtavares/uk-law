@@ -24,23 +24,23 @@ summary: ''
 
 Section 8
 
-### PART 1 — Entitlement to emergency volunteering leave[^key-b2e275451b65e5139bced9eeaf0b95b9]
+### PART 1 — Entitlement to emergency volunteering leave[^c-b2e275451b65e5139bced9eeaf0b95b9]
 
 #### Entitlement to emergency volunteering leave
 
-**1.**[^key-b2e275451b65e5139bced9eeaf0b95b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b2e275451b65e5139bced9eeaf0b95b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Meaning of “volunteering period”
 
-**2.**[^key-b2e275451b65e5139bced9eeaf0b95b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b2e275451b65e5139bced9eeaf0b95b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Exceptions to entitlement to emergency volunteering leave
 
-**3.**[^key-b2e275451b65e5139bced9eeaf0b95b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b2e275451b65e5139bced9eeaf0b95b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Meaning of “appropriate authority”
 
-**4.**[^key-b2e275451b65e5139bced9eeaf0b95b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b2e275451b65e5139bced9eeaf0b95b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 2 — Effect of taking emergency volunteering leave
 
@@ -320,4 +320,4 @@ if it were contained in an Act of that Assembly.
 
 ## Annotations
 
-[^key-b2e275451b65e5139bced9eeaf0b95b9]: Textual amendment: Sch. 7 Pt. 1 expires (17.7.2021) by [The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856)](https://www.legislation.gov.uk/uksi/2021/856), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/856/regulation/2/1/a) (see [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89(2)(n)](https://www.legislation.gov.uk/ukpga/2020/7/section/89/2/n))
+[^c-b2e275451b65e5139bced9eeaf0b95b9]: Textual amendment: Sch. 7 Pt. 1 expires (17.7.2021) by [The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856)](https://www.legislation.gov.uk/uksi/2021/856), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/856/regulation/2/1/a) (see [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89(2)(n)](https://www.legislation.gov.uk/ukpga/2020/7/section/89/2/n))

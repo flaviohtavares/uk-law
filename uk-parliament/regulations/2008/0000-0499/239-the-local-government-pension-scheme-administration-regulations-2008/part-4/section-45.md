@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Deduction and recovery of member’s contributions[^key-f1c8f96661fa5a3b0732851575beb5fa]
+## 45. Deduction and recovery of member’s contributions[^c-f1c8f96661fa5a3b0732851575beb5fa]
 
 *Extent: E+W+S*
 
@@ -49,6 +49,6 @@ the appropriate body must pay him interest on that amount; and the due date for 
 
 ## Annotations
 
-[^key-f1c8f96661fa5a3b0732851575beb5fa]: Commencement: Reg. 45 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-f1c8f96661fa5a3b0732851575beb5fa]: Commencement: Reg. 45 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00040]: Footnote: [1951c.65](https://www.legislation.gov.uk/ukpga/1951/65).

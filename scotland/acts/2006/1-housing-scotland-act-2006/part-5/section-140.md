@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 140. Delivery of HMO licence[^key-6c7c3d73999fc5c97dcb147f52fe3090]
+## 140. Delivery of HMO licence[^c-6c7c3d73999fc5c97dcb147f52fe3090]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c7c3d73999fc5c97dcb147f52fe3090]: Commencement: [S. 140](https://www.legislation.gov.uk/asp/2006/1/section/140) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-6c7c3d73999fc5c97dcb147f52fe3090]: Commencement: [S. 140](https://www.legislation.gov.uk/asp/2006/1/section/140) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

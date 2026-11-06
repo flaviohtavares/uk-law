@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144ZD. Section 144ZB: alteration of value to obtain tax advantage[^key-b7c0de1881827f5f517a0ea996a748b2]
+## 144ZD. Section 144ZB: alteration of value to obtain tax advantage[^c-b7c0de1881827f5f517a0ea996a748b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ would obtain or might be expected to obtain an advantage (see subsection (9)) in
 
 ## Annotations
 
-[^key-b7c0de1881827f5f517a0ea996a748b2]: Textual amendment: Ss. 144ZB-144ZD inserted (with effect in accordance with Sch. 5 para. 6(1) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2005/22/schedule/5/paragraph/2)
+[^c-b7c0de1881827f5f517a0ea996a748b2]: Textual amendment: Ss. 144ZB-144ZD inserted (with effect in accordance with Sch. 5 para. 6(1) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2005/22/schedule/5/paragraph/2)

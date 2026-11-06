@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Responses to recommendations of the Treasury[^key-dcc3c7fc670f061523bb439d0c3d78d2][^key-353eba411f4cdfbaaba59a56d1cf254d]
+## 35. Responses to recommendations of the Treasury[^c-dcc3c7fc670f061523bb439d0c3d78d2][^c-353eba411f4cdfbaaba59a56d1cf254d]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dcc3c7fc670f061523bb439d0c3d78d2]: Commencement: S. 35 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-dcc3c7fc670f061523bb439d0c3d78d2]: Commencement: S. 35 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-353eba411f4cdfbaaba59a56d1cf254d]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2023/29/section/35) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(y)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/y)
+[^c-353eba411f4cdfbaaba59a56d1cf254d]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2023/29/section/35) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(y)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/y)

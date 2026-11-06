@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62. Closets etc[^key-e713ad15ebc90ffe2987cae790a1055d]
+## 62. Closets etc[^c-e713ad15ebc90ffe2987cae790a1055d]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e713ad15ebc90ffe2987cae790a1055d]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/1986/1078/regulation/62) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-e713ad15ebc90ffe2987cae790a1055d]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/1986/1078/regulation/62) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

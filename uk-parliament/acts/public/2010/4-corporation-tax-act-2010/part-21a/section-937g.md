@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 937G. Ring-fenced scheme loss: treatment in period in which made[^key-3019443254d7be55117d27a28013ee4a]
+## 937G. Ring-fenced scheme loss: treatment in period in which made[^c-3019443254d7be55117d27a28013ee4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ B is the total of the ring-fenced scheme losses made in the period in relation t
 
 ## Annotations
 
-[^key-3019443254d7be55117d27a28013ee4a]: Textual amendment: Pt. 21A inserted (with effect in accordance with Sch. 16 para. 5 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2010/13/schedule/16/paragraph/3)
+[^c-3019443254d7be55117d27a28013ee4a]: Textual amendment: Pt. 21A inserted (with effect in accordance with Sch. 16 para. 5 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2010/13/schedule/16/paragraph/3)

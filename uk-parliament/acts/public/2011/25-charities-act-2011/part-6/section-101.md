@@ -29,8 +29,8 @@ summary: ''
 
 (3) In this section “**appropriate body**” means—
 
-- (a) a Scottish recognised body, [^key-672991e9e89332fa1f1f2968830f2360]...
-- (b) a Northern Ireland charity ; or[^key-0df3f87bc2290a5758c067dfe681f210]
+- (a) a Scottish recognised body, [^c-672991e9e89332fa1f1f2968830f2360]...
+- (b) a Northern Ireland charity ; or[^c-0df3f87bc2290a5758c067dfe681f210]
 - (c) any body of persons or trust that—
   - (i) is established in an EEA state other than the United Kingdom, and
   - (ii) is a charity as defined by paragraph 1 of Schedule 6 to the Finance Act 2010.
@@ -46,6 +46,6 @@ and, in the application of the relevant provisions in relation to a scheme which
 
 ## Annotations
 
-[^key-672991e9e89332fa1f1f2968830f2360]: Textual amendment: Word in s. 101(3)(a) omitted (22.7.2013) by virtue of [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 1 para. 44(a)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/44/a)
+[^c-672991e9e89332fa1f1f2968830f2360]: Textual amendment: Word in s. 101(3)(a) omitted (22.7.2013) by virtue of [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 1 para. 44(a)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/44/a)
 
-[^key-0df3f87bc2290a5758c067dfe681f210]: Textual amendment: S. 101(3)(c) and preceding word inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 1 para. 44(b)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/44/b)
+[^c-0df3f87bc2290a5758c067dfe681f210]: Textual amendment: S. 101(3)(c) and preceding word inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 1 para. 44(b)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/44/b)

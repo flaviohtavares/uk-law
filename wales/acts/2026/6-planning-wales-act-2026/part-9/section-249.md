@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 249. Register of notices of intention to carry out works[^key-57fba9ad710847e9be31198f7c2a9625]
+## 249. Register of notices of intention to carry out works[^c-57fba9ad710847e9be31198f7c2a9625]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57fba9ad710847e9be31198f7c2a9625]: Commencement: S. 249 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-57fba9ad710847e9be31198f7c2a9625]: Commencement: S. 249 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

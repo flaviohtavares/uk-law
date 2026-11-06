@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Wales[^key-e7738425bd2df4c870b9e514b5f58e8b][^key-15d4f6403189b9a60b6b0396d9a3b640]
+## 96. Wales[^c-e7738425bd2df4c870b9e514b5f58e8b][^c-15d4f6403189b9a60b6b0396d9a3b640]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ are to be treated as references to those Acts as amended by this Act.
 
 ## Annotations
 
-[^key-e7738425bd2df4c870b9e514b5f58e8b]: Commencement: S. 96 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/d)
+[^c-e7738425bd2df4c870b9e514b5f58e8b]: Commencement: S. 96 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/d)
 
-[^key-15d4f6403189b9a60b6b0396d9a3b640]: Commencement: S. 96 in force at 29.6.2007 for E. by [S.I. 2007/1890](https://www.legislation.gov.uk/uksi/2007/1890), [art. 2](https://www.legislation.gov.uk/uksi/2007/1890/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1890/schedule)
+[^c-15d4f6403189b9a60b6b0396d9a3b640]: Commencement: S. 96 in force at 29.6.2007 for E. by [S.I. 2007/1890](https://www.legislation.gov.uk/uksi/2007/1890), [art. 2](https://www.legislation.gov.uk/uksi/2007/1890/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1890/schedule)

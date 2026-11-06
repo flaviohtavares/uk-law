@@ -48,11 +48,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 94A(2)(a)[^f00002] of the Civil Partnership Act 2004 the bodies prescribed in regulation 2 have requested the Scottish Ministers to prescribe them.
 
-## 1. Citation and commencement[^key-4d25859186467587919223fd7a38c7bc]
+## 1. Citation and commencement[^c-4d25859186467587919223fd7a38c7bc]
 
 These Regulations may be cited as the Civil Partnership (Prescribed Bodies) (Scotland) Regulations 2014 and come into force on 16th December 2014.
 
-## 2. Prescribed bodies[^key-fc27a7f96bdec4622966872b7b73194d]
+## 2. Prescribed bodies[^c-fc27a7f96bdec4622966872b7b73194d]
 
 The body prescribed for the purposes of section 94A(1)(a)(i) of the Civil Partnership Act 2004 is listed in the Schedule to these Regulations.
 
@@ -66,13 +66,13 @@ Edinburgh
 
 11th November 2014
 
-## SCHEDULE[^key-a1115901263bf34b321104b09b40b4c2]
+## SCHEDULE[^c-a1115901263bf34b321104b09b40b4c2]
 
 Regulation 2
 
-Humanist Society Scotland[^key-773e62169d18a3470823c367133195f1]
+Humanist Society Scotland[^c-773e62169d18a3470823c367133195f1]
 
-[^key-a1115901263bf34b321104b09b40b4c2]
+[^c-a1115901263bf34b321104b09b40b4c2]
 
 The Scottish Unitarian Association
 
@@ -90,10 +90,10 @@ Regulation 2 of these Regulations prescribes the Scottish Unitarian Association.
 
 [^f00002]: Footnote: Section 94A(2)(a) was inserted by section 24(13) of the 2014 Act.
 
-[^key-4d25859186467587919223fd7a38c7bc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/303/regulation/1) in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/303/regulation/1)
+[^c-4d25859186467587919223fd7a38c7bc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/303/regulation/1) in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/303/regulation/1)
 
-[^key-fc27a7f96bdec4622966872b7b73194d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/303/regulation/2) in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/303/regulation/1)
+[^c-fc27a7f96bdec4622966872b7b73194d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/303/regulation/2) in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/303/regulation/1)
 
-[^key-a1115901263bf34b321104b09b40b4c2]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2014/303/schedule) in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/303/regulation/1)
+[^c-a1115901263bf34b321104b09b40b4c2]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2014/303/schedule) in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/303/regulation/1)
 
-[^key-773e62169d18a3470823c367133195f1]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/303/schedule) inserted (14.2.2017) by [The Civil Partnership, Marriage Between Persons of Different Sexes and Same Sex Marriage (Prescribed Bodies) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/427)](https://www.legislation.gov.uk/ssi/2016/427), [regs. 1](https://www.legislation.gov.uk/ssi/2016/427/regulation/1), [2](https://www.legislation.gov.uk/ssi/2016/427/regulation/2)
+[^c-773e62169d18a3470823c367133195f1]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/303/schedule) inserted (14.2.2017) by [The Civil Partnership, Marriage Between Persons of Different Sexes and Same Sex Marriage (Prescribed Bodies) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/427)](https://www.legislation.gov.uk/ssi/2016/427), [regs. 1](https://www.legislation.gov.uk/ssi/2016/427/regulation/1), [2](https://www.legislation.gov.uk/ssi/2016/427/regulation/2)

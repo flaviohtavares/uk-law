@@ -22,13 +22,13 @@ summary: ''
 
 Article 9
 
-### PART 1 — STREET FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-5ab542f92c847fd432b172eeaedca3af]
+### PART 1 — STREET FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-5ab542f92c847fd432b172eeaedca3af]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street to be stopped up* | *(3)*<br>*Extent of stopping up* | *(4)*<br>*New street to be substituted* |
 | --- | --- | --- | --- |
 | County of Oxfordshire District of Cherwell | Footpath FP 129/3 | Between points F1 and F2 | Footpath between point F1, Work No. 8 and point F2 |
 
-### PART 2 — STREETS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-4728489d507fae7148f3ae0edf3e8601]
+### PART 2 — STREETS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-4728489d507fae7148f3ae0edf3e8601]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street to be stopped up* | *(3)*<br>*Extent of stopping up* |
 | --- | --- | --- |
@@ -36,6 +36,6 @@ Article 9
 
 ## Annotations
 
-[^key-5ab542f92c847fd432b172eeaedca3af]: Commencement: Sch. 4 Pt. 1 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-5ab542f92c847fd432b172eeaedca3af]: Commencement: Sch. 4 Pt. 1 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
 
-[^key-4728489d507fae7148f3ae0edf3e8601]: Commencement: Sch. 4 Pt. 2 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-4728489d507fae7148f3ae0edf3e8601]: Commencement: Sch. 4 Pt. 2 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

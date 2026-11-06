@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Contract terms that may have different meanings[^key-5263732cd284428189e859d9c69362ec]
+## 69. Contract terms that may have different meanings[^c-5263732cd284428189e859d9c69362ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5263732cd284428189e859d9c69362ec]: Commencement: S. 69 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/c) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-5263732cd284428189e859d9c69362ec]: Commencement: S. 69 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/c) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

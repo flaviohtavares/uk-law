@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. Application for a project licence[^key-f384459c14b6ded10dae88821049a40e]
+## 5A. Application for a project licence[^c-f384459c14b6ded10dae88821049a40e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,11 +24,11 @@ summary: ''
 
 - (a) specify the programme of work the applicant wishes to be specified in the project licence;
 - (b) specify the regulated procedures, the descriptions of animal and the place or places the applicant wishes to be specified in the project licence;
-- (c) include information on the matters set out in subsection (1A)[^key-e836ff550def4ba1884f525fa9af6170];
+- (c) include information on the matters set out in subsection (1A)[^c-e836ff550def4ba1884f525fa9af6170];
 - (d) include such other information as the Secretary of State may reasonably require; and
 - (e) be accompanied by a project summary.
 
-(1A)[^key-ddf4e44d5d3533287889ff478293a685] The matters referred to in subsection (1)(c) are—
+(1A)[^c-ddf4e44d5d3533287889ff478293a685] The matters referred to in subsection (1)(c) are—
 
 - (a) the relevance of, and justification for, the regulated procedures specified in the application;
 - (b) the proposed application of methods to replace, reduce or refine the use of animals in those procedures;
@@ -86,8 +86,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f384459c14b6ded10dae88821049a40e]: Textual amendment: Ss. 5-5G substituted for s. 5 (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [9(1)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/9/1) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-f384459c14b6ded10dae88821049a40e]: Textual amendment: Ss. 5-5G substituted for s. 5 (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [9(1)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/9/1) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
 
-[^key-e836ff550def4ba1884f525fa9af6170]: Textual amendment: Words in s. 5A(1)(c) substituted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2026/663/regulation/4/a)
+[^c-e836ff550def4ba1884f525fa9af6170]: Textual amendment: Words in s. 5A(1)(c) substituted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2026/663/regulation/4/a)
 
-[^key-ddf4e44d5d3533287889ff478293a685]: Textual amendment: S. 5A(1A) inserted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2026/663/regulation/4/b)
+[^c-ddf4e44d5d3533287889ff478293a685]: Textual amendment: S. 5A(1A) inserted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2026/663/regulation/4/b)

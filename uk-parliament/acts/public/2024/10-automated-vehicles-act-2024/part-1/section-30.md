@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Offences of impeding execution of warrant[^key-40395e2dee82e3b0140984a904738a5c]
+## 30. Offences of impeding execution of warrant[^c-40395e2dee82e3b0140984a904738a5c]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40395e2dee82e3b0140984a904738a5c]: Commencement: S. 30 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-40395e2dee82e3b0140984a904738a5c]: Commencement: S. 30 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

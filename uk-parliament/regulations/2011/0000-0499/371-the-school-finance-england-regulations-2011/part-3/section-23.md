@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Pupils permanently excluded from, or leaving, maintained schools[^key-fc058d9fa1a3a0788735bf46f78f4a5e]
+## 23. Pupils permanently excluded from, or leaving, maintained schools[^c-fc058d9fa1a3a0788735bf46f78f4a5e]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc058d9fa1a3a0788735bf46f78f4a5e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2011/371/regulation/23) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-fc058d9fa1a3a0788735bf46f78f4a5e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2011/371/regulation/23) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)

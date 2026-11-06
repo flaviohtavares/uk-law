@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Disregard of certain interests and improvements[^key-61121a0381b6b730bfe7a4e9e08c4cdb]
+## 25. Disregard of certain interests and improvements[^c-61121a0381b6b730bfe7a4e9e08c4cdb]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ if the tribunal is satisfied that the creation of the interest, the erection of 
 
 ## Annotations
 
-[^key-61121a0381b6b730bfe7a4e9e08c4cdb]: Commencement: Art. 25 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
+[^c-61121a0381b6b730bfe7a4e9e08c4cdb]: Commencement: Art. 25 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Duty of principal council to respond to Auditor General's recommendations[^key-774949d238f804e1bb02895e4d27c480]
+## 96. Duty of principal council to respond to Auditor General's recommendations[^c-774949d238f804e1bb02895e4d27c480]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-774949d238f804e1bb02895e4d27c480]: Commencement: S. 96 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)
+[^c-774949d238f804e1bb02895e4d27c480]: Commencement: S. 96 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)

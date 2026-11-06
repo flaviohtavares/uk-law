@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Penalties for persistent misuse[^M_C_c5b1f674-e40f-4fb7-f542-d3960ba7b870][^key-3bf25a5f1f5710980f485d0998c74512][^key-e56e58dd036c9ee8762e1accb9df966a]
+## 130. Penalties for persistent misuse[^M_C_c5b1f674-e40f-4fb7-f542-d3960ba7b870][^c-3bf25a5f1f5710980f485d0998c74512][^c-e56e58dd036c9ee8762e1accb9df966a]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) OFCOM may also impose a penalty on the notified misuser if he has contravened a requirement of an enforcement notification given in respect of the notified misuse.
 
-(4) The amount of a penalty imposed is to be such amount not exceeding £2,000,000[^key-a7971ee1722b41ba9a34744a399548a7] as OFCOM determine to be—
+(4) The amount of a penalty imposed is to be such amount not exceeding £2,000,000[^c-a7971ee1722b41ba9a34744a399548a7] as OFCOM determine to be—
 
 - (a) appropriate; and
 - (b) proportionate to the misuse in respect of which it is imposed.
@@ -61,8 +61,8 @@ summary: ''
 
 [^M_C_c5b1f674-e40f-4fb7-f542-d3960ba7b870]: Modification: Ss. 128-131 modified (31.12.2020) by [The Communications Act (e-Commerce) (EU Exit) Regulations 2020 (S.I. 2020/1420)](https://www.legislation.gov.uk/uksi/2020/1420), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1420/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1420/regulation/2)
 
-[^key-3bf25a5f1f5710980f485d0998c74512]: Commencement: S. 130 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-3bf25a5f1f5710980f485d0998c74512]: Commencement: S. 130 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-e56e58dd036c9ee8762e1accb9df966a]: Commencement: S. 130 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-e56e58dd036c9ee8762e1accb9df966a]: Commencement: S. 130 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-a7971ee1722b41ba9a34744a399548a7]: Textual amendment: Word in s. 130(4) substituted (25.9.2010) by [Communications Act 2003 (Maximum Penalty for Persistent Misuse of Network or Service) Order 2010 (S.I. 2010/2291)](https://www.legislation.gov.uk/uksi/2010/2291), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2291/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2010/2291/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/2291/article/2/2))
+[^c-a7971ee1722b41ba9a34744a399548a7]: Textual amendment: Word in s. 130(4) substituted (25.9.2010) by [Communications Act 2003 (Maximum Penalty for Persistent Misuse of Network or Service) Order 2010 (S.I. 2010/2291)](https://www.legislation.gov.uk/uksi/2010/2291), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2291/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2010/2291/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/2291/article/2/2))

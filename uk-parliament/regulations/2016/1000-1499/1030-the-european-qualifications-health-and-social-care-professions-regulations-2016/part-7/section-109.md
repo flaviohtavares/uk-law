@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Amendment of section 68[^key-0da5a88e9c6112160612c6279aea545c]
+## 109. Amendment of section 68[^c-0da5a88e9c6112160612c6279aea545c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0da5a88e9c6112160612c6279aea545c]: Commencement: Reg. 109 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-0da5a88e9c6112160612c6279aea545c]: Commencement: Reg. 109 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00088]: Footnote: Section 68 was amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101). There are other amendments but these are not relevant to these Regulations.

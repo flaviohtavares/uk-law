@@ -46,20 +46,20 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 3(1) of the Census Act 1920 [^c24093831] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and extent[^key-3d121628d099ad0234e4ecd43624fef2]
+## 1. Citation, commencement and extent[^c-3d121628d099ad0234e4ecd43624fef2]
 
 (1) These Regulations may be cited as the Census (Scotland) Regulations 2020 and come into force on 16 June 2020.
 
 (2) They extend to Scotland only.
 
-## 2. Interpretation[^key-4c22347d22810889f098bdf53a3d1422]
+## 2. Interpretation[^c-4c22347d22810889f098bdf53a3d1422]
 
 (1) In these Regulations—
 
 - “**the Census Order**” means the Census (Scotland) Order 2020 [^c24093841],
 - “**the Registrar General**” means the Registrar General of Births, Deaths and Marriages for Scotland.
 
-## 3. Methods of making a return[^key-40b4573e3e1da2a12cce7e911c8b9c85]
+## 3. Methods of making a return[^c-40b4573e3e1da2a12cce7e911c8b9c85]
 
 (1) A return mentioned in article 5(1) or (2) of the Census Order is to be made by submitting—
 
@@ -116,7 +116,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - (b) records the declaration of the person making the return as to the accuracy of the return, and
 - (c) is received by the Registrar General.
 
-(13) A submission under any of paragraphs (1), (2), and (6) to (8) must be submitted to the Registrar General by 1 May 2022[^key-90f7a086606e21b737a29df0c56d0738] or as soon thereafter as is reasonably practicable.
+(13) A submission under any of paragraphs (1), (2), and (6) to (8) must be submitted to the Registrar General by 1 May 2022[^c-90f7a086606e21b737a29df0c56d0738] or as soon thereafter as is reasonably practicable.
 
 (14) For the purpose of making it easier for a person submitting an A1 submission, an A3 submission, a B1 submission, a B3 submission, a C1 submission, a C3 submission, a D1 submission, or a D3 submission to understand the questions, instructions, and response options contained in the table set out in (as the case may be) schedule 1, 2, 3, or 4, the Registrar General may do either or both of the following—
 
@@ -143,7 +143,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - “**relevant questions, instructions and response options**” in relation to a numbered schedule means the questions in column (1) of the table in that schedule to which a person making a return is required to respond so as to state the particulars required by article 6 of the Census Order, together with the corresponding instructions in column (2) and response options in column (3) of that table,
 - “**telephone operator**” means a person employed for the purposes of the census directed to be taken by the Census Order to, among other things, record, in an electronic system provided by the Registrar General, the responses of a person making an A3 submission, a B3 submission, a C3 submission or a D3 submission.
 
-## 4. Duties on persons in charge of communal establishments[^key-c340466155e2530fd3ffceff1e44c9f8]
+## 4. Duties on persons in charge of communal establishments[^c-c340466155e2530fd3ffceff1e44c9f8]
 
 (1) This regulation applies where a person (“P”) is required to make a return under article 5(6) of the Census Order and has received access codes or paper questionnaires from the Registrar General in respect of returns to be made under article 5(7) of the Census Order.
 
@@ -154,7 +154,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - (a) aged under 16 years, or
 - (b) for any other reason, incapable of making a return.
 
-(4) Where P has issued paper questionnaires under paragraph (2), P must collect the completed questionnaires and deliver them to the Registrar General by 1 May 2022[^key-862f58d2db0a924397695826521d0745] or as soon thereafter as is reasonably practicable.
+(4) Where P has issued paper questionnaires under paragraph (2), P must collect the completed questionnaires and deliver them to the Registrar General by 1 May 2022[^c-862f58d2db0a924397695826521d0745] or as soon thereafter as is reasonably practicable.
 
 (5) In this regulation—
 
@@ -162,13 +162,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - “**completed questionnaire**” means a paper questionnaire which states the particulars required to be specified by article 6(1) and (5) of the Census Order in respect of the person making the return,
 - “**paper questionnaire**” means the questionnaire set out in schedule 8.
 
-## 5. Giving of information[^key-13505f2e7717370c2cfee369f61fc1ea]
+## 5. Giving of information[^c-13505f2e7717370c2cfee369f61fc1ea]
 
 (1) Where a person (“A”) is required by article 5(2), (6), (7), (8), (9), or (11) of the Census Order to make a return in respect of another person (“B”), B must give to A such information as A may reasonably require to make that return.
 
 (2) But A may not require B to give information with respect to B's age or sex for the purposes of A stating the particulars specified in paragraph 2 of schedule 3 of the Census Order in a return mentioned in article 5(6) of the Census Order.
 
-## 6. Misuse of information[^key-5ed903cf4b3100ee409e09b7e3c3f9c9]
+## 6. Misuse of information[^c-5ed903cf4b3100ee409e09b7e3c3f9c9]
 
 A person to whom information is given pursuant to the Census Order or these Regulations must not, other than for the purposes of the Census Act 1920, the Census Order, or these Regulations—
 
@@ -176,7 +176,7 @@ A person to whom information is given pursuant to the Census Order or these Regu
 - (b) publish it, or
 - (c) communicate it to any other person.
 
-## 7. Revocation[^key-a140c8a85972702995fc257a2a9555de]
+## 7. Revocation[^c-a140c8a85972702995fc257a2a9555de]
 
 The following instruments are revoked—
 
@@ -191,7 +191,7 @@ St Andrew's House,
 
 Edinburgh
 
-## SCHEDULE 1 — Electronic Questionnaire - Household Questions[^key-b699adef42a7ffa5acf83bc1e487b597][^key-0317eeaff27cb63fb42809d575476a3f][^key-3f7c0de5da23f9cf3d34ff75d3f92fa3][^key-3dd3f5f163d4b94a24a4cf9c1740ffbe][^key-d4e072c29024938178b97ae7fd701ead][^key-70860e4bc5a3d9be2dfe9528d67f4a85][^key-6fd083b04c8607f351a5a74518dd79ca][^M_I_2b7822fb-f67d-40d0-b80e-07d449838220]
+## SCHEDULE 1 — Electronic Questionnaire - Household Questions[^c-b699adef42a7ffa5acf83bc1e487b597][^c-0317eeaff27cb63fb42809d575476a3f][^c-3f7c0de5da23f9cf3d34ff75d3f92fa3][^c-3dd3f5f163d4b94a24a4cf9c1740ffbe][^c-d4e072c29024938178b97ae7fd701ead][^c-70860e4bc5a3d9be2dfe9528d67f4a85][^c-6fd083b04c8607f351a5a74518dd79ca][^M_I_2b7822fb-f67d-40d0-b80e-07d449838220]
 
 Regulation 3(16)
 
@@ -205,7 +205,7 @@ Regulation 3(16)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_sld_005)
 
-## SCHEDULE 2 — Electronic Questionnaire – Household Individual Questions[^key-ed9827886997019030e1a513d2db18f3][^key-d8479d6ea79a6e69515e8bd4a810a994][^key-125855bccafe435be8f67ead2f1e4c5d][^M_I_2d316f9e-e51b-4d4a-9a88-ed4bbd46af17]
+## SCHEDULE 2 — Electronic Questionnaire – Household Individual Questions[^c-ed9827886997019030e1a513d2db18f3][^c-d8479d6ea79a6e69515e8bd4a810a994][^c-125855bccafe435be8f67ead2f1e4c5d][^M_I_2d316f9e-e51b-4d4a-9a88-ed4bbd46af17]
 
 Regulation 3(16)
 
@@ -245,7 +245,7 @@ Regulation 3(16)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_sld_021)
 
-## SCHEDULE 4 — Electronic Questionnaire - Communal Establishment - Individual Questions[^key-5307111571bc0a5f785366fd9728de70][^key-37a0dd72263f92b7c796ebb41a9cd4a4][^key-1eafdea717d903b079f7e54a20c722ee][^M_I_767f379d-50d7-4bc4-908f-38348b5459c9]
+## SCHEDULE 4 — Electronic Questionnaire - Communal Establishment - Individual Questions[^c-5307111571bc0a5f785366fd9728de70][^c-37a0dd72263f92b7c796ebb41a9cd4a4][^c-1eafdea717d903b079f7e54a20c722ee][^M_I_767f379d-50d7-4bc4-908f-38348b5459c9]
 
 Regulation 3(16)
 
@@ -277,25 +277,25 @@ Regulation 3(16)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_sld_035)
 
-## SCHEDULE 5 — Paper Household Questionnaire[^key-3172138fcda660acb190ccb8fb95ebd8][^key-db4d4c322b8dfb632b03a0bef8162abe]
+## SCHEDULE 5 — Paper Household Questionnaire[^c-3172138fcda660acb190ccb8fb95ebd8][^c-db4d4c322b8dfb632b03a0bef8162abe]
 
 Regulation 3(16)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_136.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_137.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_138.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_139.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_142.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_143.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_144.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_145.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_146.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_147.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_148.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_149.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_150.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_151.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_152.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_153.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_154.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_155.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_156.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_157.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_158.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_159.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_160.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_161.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_162.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_163.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_164.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_165.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_166.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_167.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_168.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_169.gif)
 
-## SCHEDULE 6 — Paper Household Individual Questionnaire[^key-013b33aad832a6742a67d6e15bc43ec0][^key-0f4e85869748917b53bcd322be7dad43]
+## SCHEDULE 6 — Paper Household Individual Questionnaire[^c-013b33aad832a6742a67d6e15bc43ec0][^c-0f4e85869748917b53bcd322be7dad43]
 
 Regulation 3(16)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_085.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_079.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_080.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_081.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_082.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_083.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_084.gif)
 
-## SCHEDULE 7 — Paper Communal Establishment Questionnaire[^key-73bcf6e398bed09a0eb48298415d305e][^key-4041eb925c398f4c74dab4cfe9377c5e]
+## SCHEDULE 7 — Paper Communal Establishment Questionnaire[^c-73bcf6e398bed09a0eb48298415d305e][^c-4041eb925c398f4c74dab4cfe9377c5e]
 
 Regulation 3(16)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_086.gif)[image: see source](https://www.legislation.gov.uk/ssi/2020/143/images/ssi_20200143_en_epp_087.gif)
 
-## SCHEDULE 8 — Paper Communal Establishment Individual Questionnaire[^key-d5df0c6a11f2c776936c15642115c14f][^key-118e1c59e450c513419562e2d95cbb35]
+## SCHEDULE 8 — Paper Communal Establishment Individual Questionnaire[^c-d5df0c6a11f2c776936c15642115c14f][^c-118e1c59e450c513419562e2d95cbb35]
 
 Regulation 3(16)
 
@@ -319,76 +319,76 @@ Regulation 7 revokes the Census (Scotland) Regulations 2010 and the Census (Scot
 
 [^c24093831]: Marginal citation: [1920 c.41](https://www.legislation.gov.uk/ukpga/1920/41). Section 3(1) is relevantly amended by the [Statute Law (Repeals) Act 1993 (c.50)](https://www.legislation.gov.uk/ukpga/1993/50), [schedule 1](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1), [Part 16](https://www.legislation.gov.uk/ukpga/1993/50/part/16), [paragraph 1](https://www.legislation.gov.uk/ukpga/1993/50/paragraph/1) and the [Statistics and Registration Service Act 2007 (c.18)](https://www.legislation.gov.uk/ukpga/2007/18), [schedule 1](https://www.legislation.gov.uk/ukpga/2007/18/schedule/1), [paragraph 3(2)](https://www.legislation.gov.uk/ukpga/2007/18/paragraph/3/2) and (3).
 
-[^key-3d121628d099ad0234e4ecd43624fef2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2020/143/regulation/1) in force at 16.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/143/regulation/1/1)
+[^c-3d121628d099ad0234e4ecd43624fef2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2020/143/regulation/1) in force at 16.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/143/regulation/1/1)
 
-[^key-4c22347d22810889f098bdf53a3d1422]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2020/143/regulation/2) in force at 16.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/143/regulation/1/1)
+[^c-4c22347d22810889f098bdf53a3d1422]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2020/143/regulation/2) in force at 16.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/143/regulation/1/1)
 
 [^c24093841]: Marginal citation: [S.S.I. 2020/76](https://www.legislation.gov.uk/ssi/2020/76).
 
-[^key-40b4573e3e1da2a12cce7e911c8b9c85]: Commencement: Reg. 3 in force at 16.6.2020, see reg. 1(1)
+[^c-40b4573e3e1da2a12cce7e911c8b9c85]: Commencement: Reg. 3 in force at 16.6.2020, see reg. 1(1)
 
-[^key-90f7a086606e21b737a29df0c56d0738]: Textual amendment: Words in [reg. 3(13)](https://www.legislation.gov.uk/ssi/2020/143/regulation/3/13) substituted (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/2)
+[^c-90f7a086606e21b737a29df0c56d0738]: Textual amendment: Words in [reg. 3(13)](https://www.legislation.gov.uk/ssi/2020/143/regulation/3/13) substituted (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/2)
 
-[^key-c340466155e2530fd3ffceff1e44c9f8]: Commencement: Reg. 4 in force at 16.6.2020, see reg. 1(1)
+[^c-c340466155e2530fd3ffceff1e44c9f8]: Commencement: Reg. 4 in force at 16.6.2020, see reg. 1(1)
 
-[^key-862f58d2db0a924397695826521d0745]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/ssi/2020/143/regulation/4/4) substituted (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/3)
+[^c-862f58d2db0a924397695826521d0745]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/ssi/2020/143/regulation/4/4) substituted (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/3)
 
-[^key-13505f2e7717370c2cfee369f61fc1ea]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2020/143/regulation/5) in force at 16.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/143/regulation/1/1)
+[^c-13505f2e7717370c2cfee369f61fc1ea]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2020/143/regulation/5) in force at 16.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/143/regulation/1/1)
 
-[^key-5ed903cf4b3100ee409e09b7e3c3f9c9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2020/143/regulation/6) in force at 16.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/143/regulation/1/1)
+[^c-5ed903cf4b3100ee409e09b7e3c3f9c9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2020/143/regulation/6) in force at 16.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/143/regulation/1/1)
 
-[^key-a140c8a85972702995fc257a2a9555de]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2020/143/regulation/7) in force at 16.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/143/regulation/1/1)
+[^c-a140c8a85972702995fc257a2a9555de]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2020/143/regulation/7) in force at 16.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/143/regulation/1/1)
 
 [^c24093851]: Marginal citation: [S.S.I. 2010/211](https://www.legislation.gov.uk/ssi/2010/211) as amended by [S.S.I. 2010/215](https://www.legislation.gov.uk/ssi/2010/215).
 
 [^c24093861]: Marginal citation: [S.S.I. 2010/215](https://www.legislation.gov.uk/ssi/2010/215).
 
-[^key-b699adef42a7ffa5acf83bc1e487b597]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2020/143/schedule/1): in the third entry, in column 2, the words “20 March 2022” substituted for “21 March 2021” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/4/a)
+[^c-b699adef42a7ffa5acf83bc1e487b597]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2020/143/schedule/1): in the third entry, in column 2, the words “20 March 2022” substituted for “21 March 2021” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/4/a)
 
-[^key-0317eeaff27cb63fb42809d575476a3f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2020/143/schedule/1): in the fourth entry, in column 2, the words “20 March 2022” substituted for “21 March 2021” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/4/b)
+[^c-0317eeaff27cb63fb42809d575476a3f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2020/143/schedule/1): in the fourth entry, in column 2, the words “20 March 2022” substituted for “21 March 2021” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/4/b)
 
-[^key-3f7c0de5da23f9cf3d34ff75d3f92fa3]: Textual amendment: Sch. 1: in the sixth entry, in column 2, the words “20 March 2022” substituted for “21 March 2021” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/4/c)
+[^c-3f7c0de5da23f9cf3d34ff75d3f92fa3]: Textual amendment: Sch. 1: in the sixth entry, in column 2, the words “20 March 2022” substituted for “21 March 2021” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/4/c)
 
-[^key-3dd3f5f163d4b94a24a4cf9c1740ffbe]: Textual amendment: Sch. 1: in the eighth entry, in column 1, the words “20 March 2022” substituted for “21 March 2021” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/4/d)
+[^c-3dd3f5f163d4b94a24a4cf9c1740ffbe]: Textual amendment: Sch. 1: in the eighth entry, in column 1, the words “20 March 2022” substituted for “21 March 2021” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/4/d)
 
-[^key-d4e072c29024938178b97ae7fd701ead]: Textual amendment: Sch. 1: in the eighth entry, in column 3, the words “20 March 2022” substituted for “21 March 2021” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(4)(e)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/4/e)
+[^c-d4e072c29024938178b97ae7fd701ead]: Textual amendment: Sch. 1: in the eighth entry, in column 3, the words “20 March 2022” substituted for “21 March 2021” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(4)(e)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/4/e)
 
-[^key-70860e4bc5a3d9be2dfe9528d67f4a85]: Textual amendment: Sch. 1: in the ninth entry, in column 1, the words “20 March 2022” substituted for “21 March 2021” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(4)(f)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/4/f)
+[^c-70860e4bc5a3d9be2dfe9528d67f4a85]: Textual amendment: Sch. 1: in the ninth entry, in column 1, the words “20 March 2022” substituted for “21 March 2021” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(4)(f)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/4/f)
 
-[^key-6fd083b04c8607f351a5a74518dd79ca]: Textual amendment: Sch. 1: in the ninth entry, in column 2, the words “20 March 2022” substituted for “21 March 2021” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(4)(g)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/4/g)
+[^c-6fd083b04c8607f351a5a74518dd79ca]: Textual amendment: Sch. 1: in the ninth entry, in column 2, the words “20 March 2022” substituted for “21 March 2021” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(4)(g)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/4/g)
 
 [^M_I_2b7822fb-f67d-40d0-b80e-07d449838220]: Commencement: Sch. 1 in force at 16.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/143/regulation/1/1)
 
-[^key-ed9827886997019030e1a513d2db18f3]: Textual amendment: Sch. 2: before the first entry in a new row, in column 1 the words "What is your name?" are inserted and in column 2 the words "The respondent is required to state their first and last names in the boxes provided." are inserted (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/5/a)
+[^c-ed9827886997019030e1a513d2db18f3]: Textual amendment: Sch. 2: before the first entry in a new row, in column 1 the words "What is your name?" are inserted and in column 2 the words "The respondent is required to state their first and last names in the boxes provided." are inserted (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/5/a)
 
-[^key-d8479d6ea79a6e69515e8bd4a810a994]: Textual amendment: Sch. 2: in the fourth entry, in column 1, the words “20 March 2022” are substituted for the words “21 March 2021” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/5/b)
+[^c-d8479d6ea79a6e69515e8bd4a810a994]: Textual amendment: Sch. 2: in the fourth entry, in column 1, the words “20 March 2022” are substituted for the words “21 March 2021” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/5/b)
 
-[^key-125855bccafe435be8f67ead2f1e4c5d]: Textual amendment: Sch. 2: in the tenth entry, in column 2, the words “20 March 2021” are substituted for the words “21 March 2020” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/5/c)
+[^c-125855bccafe435be8f67ead2f1e4c5d]: Textual amendment: Sch. 2: in the tenth entry, in column 2, the words “20 March 2021” are substituted for the words “21 March 2020” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/5/c)
 
 [^M_I_2d316f9e-e51b-4d4a-9a88-ed4bbd46af17]: Commencement: Sch. 2 in force at 16.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/143/regulation/1/1)
 
 [^M_I_77dffbf3-51c4-47e2-f8fe-5a918af0c4a2]: Commencement: Sch. 3 in force at 16.6.2020, see reg. 1(1)
 
-[^key-5307111571bc0a5f785366fd9728de70]: Textual amendment: Sch. 4: before the first entry in a new row, in column 1 the words "What is your name?" are inserted and in column 2 the words "The respondent is required to state their first and last names in the boxes provided." are inserted (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/6/a)
+[^c-5307111571bc0a5f785366fd9728de70]: Textual amendment: Sch. 4: before the first entry in a new row, in column 1 the words "What is your name?" are inserted and in column 2 the words "The respondent is required to state their first and last names in the boxes provided." are inserted (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/6/a)
 
-[^key-37a0dd72263f92b7c796ebb41a9cd4a4]: Textual amendment: Sch. 4: in the fifth entry, in column 1, the words “20 March 2022” are substituted for the words “21 March 2021” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/6/b)
+[^c-37a0dd72263f92b7c796ebb41a9cd4a4]: Textual amendment: Sch. 4: in the fifth entry, in column 1, the words “20 March 2022” are substituted for the words “21 March 2021” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/6/b)
 
-[^key-1eafdea717d903b079f7e54a20c722ee]: Textual amendment: Sch. 4: in the eleventh entry, in column 2, the words “20 March 2021” are substituted for the words “21 March 2020” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(6)(c)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/6/c)
+[^c-1eafdea717d903b079f7e54a20c722ee]: Textual amendment: Sch. 4: in the eleventh entry, in column 2, the words “20 March 2021” are substituted for the words “21 March 2020” (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [2(6)(c)](https://www.legislation.gov.uk/ssi/2020/450/regulation/2/6/c)
 
 [^M_I_767f379d-50d7-4bc4-908f-38348b5459c9]: Commencement: Sch. 4 in force at 16.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/143/regulation/1/1)
 
-[^key-3172138fcda660acb190ccb8fb95ebd8]: Commencement: Sch. 5 in force at 16.6.2020, see reg. 1(1)
+[^c-3172138fcda660acb190ccb8fb95ebd8]: Commencement: Sch. 5 in force at 16.6.2020, see reg. 1(1)
 
-[^key-db4d4c322b8dfb632b03a0bef8162abe]: Textual amendment: Sch. 5: Form substituted (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/450/schedule/1)
+[^c-db4d4c322b8dfb632b03a0bef8162abe]: Textual amendment: Sch. 5: Form substituted (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/450/schedule/1)
 
-[^key-013b33aad832a6742a67d6e15bc43ec0]: Commencement: Sch. 6 in force at 16.6.2020, see reg. 1(1)
+[^c-013b33aad832a6742a67d6e15bc43ec0]: Commencement: Sch. 6 in force at 16.6.2020, see reg. 1(1)
 
-[^key-0f4e85869748917b53bcd322be7dad43]: Textual amendment: Sch. 6: Form substituted (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2020/450/schedule/2)
+[^c-0f4e85869748917b53bcd322be7dad43]: Textual amendment: Sch. 6: Form substituted (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2020/450/schedule/2)
 
-[^key-73bcf6e398bed09a0eb48298415d305e]: Commencement: Sch. 7 in force at 16.6.2020, see reg. 1(1)
+[^c-73bcf6e398bed09a0eb48298415d305e]: Commencement: Sch. 7 in force at 16.6.2020, see reg. 1(1)
 
-[^key-4041eb925c398f4c74dab4cfe9377c5e]: Textual amendment: Sch. 7: Form substituted (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2020/450/schedule/3)
+[^c-4041eb925c398f4c74dab4cfe9377c5e]: Textual amendment: Sch. 7: Form substituted (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2020/450/schedule/3)
 
-[^key-d5df0c6a11f2c776936c15642115c14f]: Commencement: Sch. 8 in force at 16.6.2020, see reg. 1(1)
+[^c-d5df0c6a11f2c776936c15642115c14f]: Commencement: Sch. 8 in force at 16.6.2020, see reg. 1(1)
 
-[^key-118e1c59e450c513419562e2d95cbb35]: Textual amendment: Sch. 8: Form substituted (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [sch. 4](https://www.legislation.gov.uk/ssi/2020/450/schedule/4)
+[^c-118e1c59e450c513419562e2d95cbb35]: Textual amendment: Sch. 8: Form substituted (1.3.2021) by [The Census (Scotland) Amendment Regulations 2020 (S.S.I. 2020/450)](https://www.legislation.gov.uk/ssi/2020/450), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/450/regulation/1/1), [sch. 4](https://www.legislation.gov.uk/ssi/2020/450/schedule/4)

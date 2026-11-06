@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214A. Appeal against a section 208A penalty[^key-89b27d137ccad1a7c115145e54f13fe1]
+## 214A. Appeal against a section 208A penalty[^c-89b27d137ccad1a7c115145e54f13fe1]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89b27d137ccad1a7c115145e54f13fe1]: Textual amendment: [S. 214A](https://www.legislation.gov.uk/ukpga/2014/26/section/214A) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 8](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/8)
+[^c-89b27d137ccad1a7c115145e54f13fe1]: Textual amendment: [S. 214A](https://www.legislation.gov.uk/ukpga/2014/26/section/214A) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 8](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/8)

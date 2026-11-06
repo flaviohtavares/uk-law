@@ -35,22 +35,22 @@ authorising the placing on the market of dried *Euglena gracilis* as a novel foo
 
 (Text with EEA relevance) (revoked)
 
-[^key-c5a286be25044ab0ca1e6915f0f4911e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5a286be25044ab0ca1e6915f0f4911e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c5a286be25044ab0ca1e6915f0f4911e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c5a286be25044ab0ca1e6915f0f4911e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c5a286be25044ab0ca1e6915f0f4911e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c5a286be25044ab0ca1e6915f0f4911e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-c5a286be25044ab0ca1e6915f0f4911e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-c5a286be25044ab0ca1e6915f0f4911e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-c5a286be25044ab0ca1e6915f0f4911e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-c5a286be25044ab0ca1e6915f0f4911e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c5a286be25044ab0ca1e6915f0f4911e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5a286be25044ab0ca1e6915f0f4911e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-c5a286be25044ab0ca1e6915f0f4911e]
+## ANNEX[^c-c5a286be25044ab0ca1e6915f0f4911e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c5a286be25044ab0ca1e6915f0f4911e]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 52](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/52) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-c5a286be25044ab0ca1e6915f0f4911e]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 52](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/52) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

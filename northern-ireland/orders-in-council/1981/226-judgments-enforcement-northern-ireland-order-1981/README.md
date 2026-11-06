@@ -27,7 +27,7 @@ summary: ''
 
 1981 No. 226 (N.I. 6)
 
-Judgments Enforcement (Northern Ireland) Order 1981[^key-1f1e9686f55bbb201ac6b9fc792515b8]
+Judgments Enforcement (Northern Ireland) Order 1981[^c-1f1e9686f55bbb201ac6b9fc792515b8]
 
 18th February 1981 [^c19948271][^c21080741][^c22018261]
 
@@ -284,7 +284,7 @@ SCHEDULES
 
 ## Annotations
 
-[^key-1f1e9686f55bbb201ac6b9fc792515b8]: Modification: [Order](https://www.legislation.gov.uk/nisi/1981/226) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 3 paras. 2, 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/b)[(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
+[^c-1f1e9686f55bbb201ac6b9fc792515b8]: Modification: [Order](https://www.legislation.gov.uk/nisi/1981/226) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 3 paras. 2, 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/b)[(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
 
 [^c19948271]: Modification: Order applied (with mods.) (30.10.2006) by [Traffic Management (Northern Ireland) Order 2005 (S.I. 2005/1964 (N.I. 14))](https://www.legislation.gov.uk/nisi/2005/1964), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1964/article/1/3), [15(5)](https://www.legislation.gov.uk/nisi/2005/1964/article/15/5); [S.R. 2006/347](https://www.legislation.gov.uk/nisr/2006/347), [art. 2](https://www.legislation.gov.uk/nisr/2006/347/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2006/347/schedule)
 

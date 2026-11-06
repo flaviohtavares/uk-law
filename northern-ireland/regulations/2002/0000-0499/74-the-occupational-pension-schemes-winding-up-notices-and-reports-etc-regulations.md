@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by section 109(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and Articles 10(2)(*b*) and (3), 23(2), 26B(3)(*b*), 26C(2) and (3), 49A(1), (2)(*b*) and (3), 71A(4), 72A(1)(*b*), (2), (7) and (8)(*a*), 72B(2)(*c*)(iii), (3), (5)(*c*), (6)(*c*) and (8)(*b*), 115(2), 121(8) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-f9748ae2260373f74a324a8dcdf70dca]
+## 1. Citation, commencement and interpretation[^c-f9748ae2260373f74a324a8dcdf70dca]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Winding Up Notices and Reports, etc.) Regulations (Northern Ireland) 2002 and shall come into operation on 1st April 2002.
 
@@ -56,22 +56,22 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (5) In these Regulations any reference to a numbered Article is a reference to the Article of the Pensions (Northern Ireland) Order 1995 bearing that number.
 
-## 2. Schemes within Article 22: appointment of independent trustee[^key-6195ac3218af5dd0e1953ee9daae1baf]
+## 2. Schemes within Article 22: appointment of independent trustee[^c-6195ac3218af5dd0e1953ee9daae1baf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Other schemes: notice to the Authority that Article 26B applies[^key-6195ac3218af5dd0e1953ee9daae1baf]
+## 3. Other schemes: notice to the Authority that Article 26B applies[^c-6195ac3218af5dd0e1953ee9daae1baf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Persons exempted from duty to give notices to the Authority under Article 26A or 26B[^key-7b1f013229fdc31350f5e71af025ba9b]
+## 4. Persons exempted from duty to give notices to the Authority under Article 26A or 26B[^c-7b1f013229fdc31350f5e71af025ba9b]
 
 In Article 26C (construction of Articles 26A and 26B) references, in relation to a scheme, to a person involved in the administration of the scheme do not include any person whose only involvement with the scheme is in connection with—
 
 - (a) underwriting policies of insurance that are specifically allocated to the provision of benefits for individual members or other persons with rights to benefits under the scheme or annuity contracts, or
 - (b) providing advice about the management of investments.
 
-## 5. Schemes disapplied from Articles 26A and 26B[^key-cb2e339efa04ab054c1456aae5fe9da1]
+## 5. Schemes disapplied from Articles 26A and 26B[^c-cb2e339efa04ab054c1456aae5fe9da1]
 
 (1) Article 26A (information to be given to the Authority in relation to a scheme to which Article 22 applies) does not apply to any scheme within paragraph (2)(*a*) or (*b*), and Article 26B does not apply to any scheme within paragraph (2).
 
@@ -86,7 +86,7 @@ In Article 26C (construction of Articles 26A and 26B) references, in relation to
 
 (3) In this regulation “member” means a deferred member or a pensioner member.
 
-## 6. Penalties for failing to give notice to the Authority under Article 26A or 26B[^key-7370ee404c0cbae71cf514565f20de95]
+## 6. Penalties for failing to give notice to the Authority under Article 26A or 26B[^c-7370ee404c0cbae71cf514565f20de95]
 
 (1) This regulation applies for the purpose of prescribing the meaning of “the maximum amount” in Article 10 (civil penalties) in cases where that Article applies to any person by virtue of Article 26A(7) or (8) or 26B(4) (failure to give certain notices to the Authority).
 
@@ -94,7 +94,7 @@ In Article 26C (construction of Articles 26A and 26B) references, in relation to
 
 (3) Where that person is not an individual, the maximum amount is £10,000.
 
-## 7. Applications to the Authority to modify schemes to secure winding up[^key-b6a5b0ab98cab1a5cf18ebceee49fde3]
+## 7. Applications to the Authority to modify schemes to secure winding up[^c-b6a5b0ab98cab1a5cf18ebceee49fde3]
 
 (1) This regulation applies where an application is made to the Authority under Article 71A (modification by Authority to secure winding up) to make an order modifying a scheme with a view to ensuring that it is properly wound up.
 
@@ -112,12 +112,12 @@ In Article 26C (construction of Articles 26A and 26B) references, in relation to
 
 (3) Before making the application the trustees or managers of the scheme shall give notice in writing that the application is being made—
 
-- (a)[^key-de488f53bb2d7a671038908aef4d790e] to all members of the scheme (except a member mentioned in paragraph (3A)) in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents), and
+- (a)[^c-de488f53bb2d7a671038908aef4d790e] to all members of the scheme (except a member mentioned in paragraph (3A)) in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents), and
 - (b) if the modification would reduce the value of the assets which might otherwise be distributed to the employer on the winding up, to the person acting as an insolvency practitioner in relation to the employer or, as the case may be, the official receiver,
 
 and the references in sub-paragraph (*b*) to “acting as an insolvency practitioner” and “official receiver” shall be construed in accordance with Articles 3 and 2 of the Insolvency (Northern Ireland) Order 1989[^f00010].
 
-(3A)[^key-426e3e909707d438842c2151fba5cbdc] A member referred to in paragraph (3)(a) is a member—
+(3A)[^c-426e3e909707d438842c2151fba5cbdc] A member referred to in paragraph (3)(a) is a member—
 
 - (a) whose present postal address and electronic address are not known to the trustees or managers of the scheme, and
 - (b) in respect of whom the trustees or managers of the scheme have sent correspondence to that member’s last known—
@@ -150,7 +150,7 @@ and the references in sub-paragraph (*b*) to “acting as an insolvency practiti
 
 (9) Nothing in paragraph (7)(*c*) or (8) requires a person to produce a document if he would be entitled to refuse to produce it in any proceedings in any court on the grounds that it was the subject of legal professional privilege.
 
-## 8. Reports to the Authority about winding up: time limits[^key-850bb6f011f3999ac1112eac46154d84]
+## 8. Reports to the Authority about winding up: time limits[^c-850bb6f011f3999ac1112eac46154d84]
 
 (1) Article 72A (reports to Authority about winding up) applies to a winding up beginning on or after 1st April 1973.
 
@@ -169,17 +169,17 @@ and the references in sub-paragraph (*b*) to “acting as an insolvency practiti
 - (a) after the end of the period of 3 years beginning with the day on which the winding up begins, and
 - (b) before the end of the period of one year beginning with the end of the period that applies under sub-paragraph (*a*).
 
-(5) In the case of a winding up which begins on or after 1st April 2003 but before 1st October 2007[^key-216ac161ac61c65809b7acbfdf75a5dd], the first report to be made under Article 72A shall be made—
+(5) In the case of a winding up which begins on or after 1st April 2003 but before 1st October 2007[^c-216ac161ac61c65809b7acbfdf75a5dd], the first report to be made under Article 72A shall be made—
 
 - (a) after the end of the period of 3 years beginning with the day on which the winding up begins, and
 - (b) before the end of the period of 3 months beginning with the end of the period that applies under sub-paragraph (*a*).
 
-(6)[^key-1f76ba96c9367ad036b27c34ea5a9dc5] In the case of a winding-up which begins on or after 1st October 2007, the first report to be made under Article 72A shall be made—
+(6)[^c-1f76ba96c9367ad036b27c34ea5a9dc5] In the case of a winding-up which begins on or after 1st October 2007, the first report to be made under Article 72A shall be made—
 
 - (a) after the end of the period of two years beginning with the day on which the winding up begins, and
 - (b) before the end of the period of three months beginning with the end of the period that applies under sub-paragraph (a).
 
-## 9. Contents of reports to the Authority about winding up[^key-6504ec0cc01e719256932815b536241a]
+## 9. Contents of reports to the Authority about winding up[^c-6504ec0cc01e719256932815b536241a]
 
 (1) In the case of each winding up, the first report to the Authority under Article 72A(1) shall contain—
 
@@ -210,7 +210,7 @@ and the references in sub-paragraph (*b*) to “acting as an insolvency practiti
   - (iv) when the person making the later report estimates that each of those steps will be completed, and
 - (f) a statement as to whether any particular difficulties are hindering or delaying completion of the winding up.
 
-## 10. Exemption from requirement to make reports to the Authority about winding up[^key-c217ac95ba546f85dd292b737eba0fb8]
+## 10. Exemption from requirement to make reports to the Authority about winding up[^c-c217ac95ba546f85dd292b737eba0fb8]
 
 (1) There is no obligation to make a report to the Authority under Article 72A(1) if on the latest date for the making of the report the scheme is within paragraph (2).
 
@@ -225,14 +225,14 @@ and the references in sub-paragraph (*b*) to “acting as an insolvency practiti
 
 (3) In this regulation “member” means a deferred member or a pensioner member.
 
-## 11. Time when winding up taken to begin[^key-eb587796ed590d23522feb1c557949be][^key-44d6c1a3d53792b589afaf99828c3013]
+## 11. Time when winding up taken to begin[^c-eb587796ed590d23522feb1c557949be][^c-44d6c1a3d53792b589afaf99828c3013]
 
 Article 121(4) to (7)[^f00012] (time when winding up of a scheme in pursuance of an order of the Authority is to be taken to begin) does not apply for the purposes of—
 
 - (a) Articles 73 and 74[^f00013] (preferential liabilities on winding up and discharge of liabilities by insurance, etc.), or
 - (b) the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996[^f00014].
 
-## 12. Records of decisions about winding up[^key-2b03a05a7fef6bc3f9b1ecfb6dd9212d]
+## 12. Records of decisions about winding up[^c-2b03a05a7fef6bc3f9b1ecfb6dd9212d]
 
 (1) The obligations imposed on trustees, managers and other persons by Article 49A (record of winding up decisions) and this regulation do not apply in relation to determinations and decisions made before 1st April 2002.
 
@@ -269,7 +269,7 @@ as is specified in a notice in writing from the Authority requiring him to pay t
 
 (8) Such a penalty shall be paid within 28 days beginning with the date on which the notice is given.
 
-## 13. Directions by the Authority for facilitating winding up[^key-03cc3d813be1d175739c054831d48747]
+## 13. Directions by the Authority for facilitating winding up[^c-03cc3d813be1d175739c054831d48747]
 
 (1) For the purposes of Article 72B(2)(*c*)(iii) (by virtue of which the Authority may give directions during the winding up of a scheme if they consider that it is being obstructed or unreasonably delayed by the failure of any person to provide information to a person of a prescribed description), the persons in paragraph (2) are prescribed.
 
@@ -300,7 +300,7 @@ as is specified in a notice in writing from the Authority requiring him to pay t
 
 (7) An application under Article 72B(7) for the extension (or further extension) of a period within which steps required by a direction under Article 72B are to be taken shall be made in writing no later than 2 months before the date on which, apart from any extension (or further extension) as a result of the application, the period would end.
 
-## 14. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^key-92e179465a97d0822168df8037b27646]
+## 14. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^c-92e179465a97d0822168df8037b27646]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -346,7 +346,7 @@ Articles 26B, 26C, 49A, 71A, 72A, 72B, 115(2) and 121(8) of the 1995 Order, some
 
 [^f00003]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-f9748ae2260373f74a324a8dcdf70dca]: Commencement: Reg. 1 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+[^c-f9748ae2260373f74a324a8dcdf70dca]: Commencement: Reg. 1 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
 
 [^f00004]: Footnote: Definition of “member” was amended by paragraph 50(2) of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)); definition of “pensioner member” was amended by paragraph 5(3) of Schedule 5 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
 
@@ -354,37 +354,37 @@ Articles 26B, 26C, 49A, 71A, 72A, 72B, 115(2) and 121(8) of the 1995 Order, some
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-6195ac3218af5dd0e1953ee9daae1baf]: Textual amendment: [Regs. 2](https://www.legislation.gov.uk/nisr/2002/74/regulation/2), [3](https://www.legislation.gov.uk/nisr/2002/74/regulation/3) revoked (11.4.2005) by [The Occupational Pension Schemes (Independent Trustee) Regulations (Northern Ireland) 2005 (S.R. 2005/169)](https://www.legislation.gov.uk/nisr/2005/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1), [14(c)](https://www.legislation.gov.uk/nisr/2005/169/regulation/14/c)
+[^c-6195ac3218af5dd0e1953ee9daae1baf]: Textual amendment: [Regs. 2](https://www.legislation.gov.uk/nisr/2002/74/regulation/2), [3](https://www.legislation.gov.uk/nisr/2002/74/regulation/3) revoked (11.4.2005) by [The Occupational Pension Schemes (Independent Trustee) Regulations (Northern Ireland) 2005 (S.R. 2005/169)](https://www.legislation.gov.uk/nisr/2005/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1), [14(c)](https://www.legislation.gov.uk/nisr/2005/169/regulation/14/c)
 
-[^key-7b1f013229fdc31350f5e71af025ba9b]: Commencement: Reg. 4 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+[^c-7b1f013229fdc31350f5e71af025ba9b]: Commencement: Reg. 4 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
 
-[^key-cb2e339efa04ab054c1456aae5fe9da1]: Commencement: Reg. 5 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+[^c-cb2e339efa04ab054c1456aae5fe9da1]: Commencement: Reg. 5 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
 
-[^key-7370ee404c0cbae71cf514565f20de95]: Commencement: Reg. 6 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+[^c-7370ee404c0cbae71cf514565f20de95]: Commencement: Reg. 6 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
 
-[^key-b6a5b0ab98cab1a5cf18ebceee49fde3]: Commencement: Reg. 7 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+[^c-b6a5b0ab98cab1a5cf18ebceee49fde3]: Commencement: Reg. 7 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
 
-[^key-de488f53bb2d7a671038908aef4d790e]: Textual amendment: [Reg. 7(3)(a)](https://www.legislation.gov.uk/nisr/2002/74/regulation/7/3/a) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 11(a)](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/11/a)
+[^c-de488f53bb2d7a671038908aef4d790e]: Textual amendment: [Reg. 7(3)(a)](https://www.legislation.gov.uk/nisr/2002/74/regulation/7/3/a) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 11(a)](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/11/a)
 
 [^f00010]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
-[^key-426e3e909707d438842c2151fba5cbdc]: Textual amendment: [Reg. 7(3A)](https://www.legislation.gov.uk/nisr/2002/74/regulation/7/3A) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 11(b)](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/11/b)
+[^c-426e3e909707d438842c2151fba5cbdc]: Textual amendment: [Reg. 7(3A)](https://www.legislation.gov.uk/nisr/2002/74/regulation/7/3A) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 11(b)](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/11/b)
 
-[^key-850bb6f011f3999ac1112eac46154d84]: Commencement: Reg. 8 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+[^c-850bb6f011f3999ac1112eac46154d84]: Commencement: Reg. 8 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
 
-[^key-216ac161ac61c65809b7acbfdf75a5dd]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/nisr/2002/74/regulation/8/5) inserted (1.10.2007) by [The Occupational Pension Schemes (Winding Up, Winding Up Notices and Reports, etc.) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/338)](https://www.legislation.gov.uk/nisr/2007/338), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/338/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2007/338/regulation/4/a)
+[^c-216ac161ac61c65809b7acbfdf75a5dd]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/nisr/2002/74/regulation/8/5) inserted (1.10.2007) by [The Occupational Pension Schemes (Winding Up, Winding Up Notices and Reports, etc.) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/338)](https://www.legislation.gov.uk/nisr/2007/338), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/338/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2007/338/regulation/4/a)
 
-[^key-1f76ba96c9367ad036b27c34ea5a9dc5]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/nisr/2002/74/regulation/8/6) added (1.10.2007) by [The Occupational Pension Schemes (Winding Up, Winding Up Notices and Reports, etc.) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/338)](https://www.legislation.gov.uk/nisr/2007/338), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/338/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2007/338/regulation/4/b)
+[^c-1f76ba96c9367ad036b27c34ea5a9dc5]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/nisr/2002/74/regulation/8/6) added (1.10.2007) by [The Occupational Pension Schemes (Winding Up, Winding Up Notices and Reports, etc.) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/338)](https://www.legislation.gov.uk/nisr/2007/338), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/338/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2007/338/regulation/4/b)
 
-[^key-6504ec0cc01e719256932815b536241a]: Commencement: Reg. 9 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+[^c-6504ec0cc01e719256932815b536241a]: Commencement: Reg. 9 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
 
 [^f00011]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48); section 6 was amended by paragraph 23 of Schedule 3 to, and paragraph 20 of Schedule 5 to, the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26)
 
-[^key-c217ac95ba546f85dd292b737eba0fb8]: Commencement: Reg. 10 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+[^c-c217ac95ba546f85dd292b737eba0fb8]: Commencement: Reg. 10 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
 
-[^key-eb587796ed590d23522feb1c557949be]: Commencement: Reg. 11 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+[^c-eb587796ed590d23522feb1c557949be]: Commencement: Reg. 11 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
 
-[^key-44d6c1a3d53792b589afaf99828c3013]: Modification: [Reg. 11](https://www.legislation.gov.uk/nisr/2002/74/regulation/11) excluded (6.4.2005) by [The Occupational Pension Schemes (Winding up, etc. ) Regulations (Northern Ireland) 2005 (S.R. 2005/171)](https://www.legislation.gov.uk/nisr/2005/171), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2), [12(1)](https://www.legislation.gov.uk/nisr/2005/171/regulation/12/1) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/3))
+[^c-44d6c1a3d53792b589afaf99828c3013]: Modification: [Reg. 11](https://www.legislation.gov.uk/nisr/2002/74/regulation/11) excluded (6.4.2005) by [The Occupational Pension Schemes (Winding up, etc. ) Regulations (Northern Ireland) 2005 (S.R. 2005/171)](https://www.legislation.gov.uk/nisr/2005/171), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2), [12(1)](https://www.legislation.gov.uk/nisr/2005/171/regulation/12/1) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/3))
 
 [^f00012]: Footnote: Article 121(4) to (7) was added by section 45(2) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
 
@@ -392,8 +392,8 @@ Articles 26B, 26C, 49A, 71A, 72A, 72B, 115(2) and 121(8) of the 1995 Order, some
 
 [^f00014]: Footnote: [S.R. 1996 No. 621](https://www.legislation.gov.uk/nisr/1996/621), amended by [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160), [S.R. 1999 No. 486](https://www.legislation.gov.uk/nisr/1999/486), [S.R. 2000 No. 335](https://www.legislation.gov.uk/nisr/2000/335) and [S.R. 2002 No. 64](https://www.legislation.gov.uk/nisr/2002/64)
 
-[^key-2b03a05a7fef6bc3f9b1ecfb6dd9212d]: Commencement: Reg. 12 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+[^c-2b03a05a7fef6bc3f9b1ecfb6dd9212d]: Commencement: Reg. 12 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
 
-[^key-03cc3d813be1d175739c054831d48747]: Commencement: Reg. 13 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+[^c-03cc3d813be1d175739c054831d48747]: Commencement: Reg. 13 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
 
-[^key-92e179465a97d0822168df8037b27646]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2002/74/regulation/14) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+[^c-92e179465a97d0822168df8037b27646]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2002/74/regulation/14) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)

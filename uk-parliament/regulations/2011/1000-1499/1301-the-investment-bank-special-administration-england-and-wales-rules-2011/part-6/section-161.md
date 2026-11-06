@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 161. Negotiable instruments[^key-aec9c69c2f88edbb32ba6808f2437cec]
+## 161. Negotiable instruments[^c-aec9c69c2f88edbb32ba6808f2437cec]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Unless the administrator allows, a proof in respect of money owed on a bill of e
 
 ## Annotations
 
-[^key-aec9c69c2f88edbb32ba6808f2437cec]: Commencement: [Rule 161](https://www.legislation.gov.uk/uksi/2011/1301/rule/161) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-aec9c69c2f88edbb32ba6808f2437cec]: Commencement: [Rule 161](https://www.legislation.gov.uk/uksi/2011/1301/rule/161) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

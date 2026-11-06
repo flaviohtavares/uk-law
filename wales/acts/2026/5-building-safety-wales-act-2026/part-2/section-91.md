@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Co-operation and co-ordination by duty holders[^key-5147872911a9d8d09c365ba1d25c0bfe]
+## 91. Co-operation and co-ordination by duty holders[^c-5147872911a9d8d09c365ba1d25c0bfe]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5147872911a9d8d09c365ba1d25c0bfe]: Commencement: S. 91 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-5147872911a9d8d09c365ba1d25c0bfe]: Commencement: S. 91 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

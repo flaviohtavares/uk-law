@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Allocation election[^key-72e3dd010dfa3be601b42ab833898fd5]
+## 63. Allocation election[^c-72e3dd010dfa3be601b42ab833898fd5]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72e3dd010dfa3be601b42ab833898fd5]: Commencement: Reg. 63 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-72e3dd010dfa3be601b42ab833898fd5]: Commencement: Reg. 63 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

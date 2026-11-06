@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Notices under the ISD Regulations or the 2BCD Regulations[^key-a334668e5ed812f5fc328b54bc06a299]
+## 20. Notices under the ISD Regulations or the 2BCD Regulations[^c-a334668e5ed812f5fc328b54bc06a299]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ the notice has effect after commencement as if it were a notice given under sect
 
 ## Annotations
 
-[^key-a334668e5ed812f5fc328b54bc06a299]: Commencement: Art. 20 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-a334668e5ed812f5fc328b54bc06a299]: Commencement: Art. 20 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

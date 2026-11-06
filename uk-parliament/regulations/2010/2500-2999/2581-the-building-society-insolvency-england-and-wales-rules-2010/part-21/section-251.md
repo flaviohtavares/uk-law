@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 251. Debt payable at future time[^key-3914f647705051ba985df480efd1f734]
+## 251. Debt payable at future time[^c-3914f647705051ba985df480efd1f734]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ Apply rule 11.13 of the 1986 Rules[^f00090]. For paragraph (3) substitute—
 
 ## Annotations
 
-[^key-3914f647705051ba985df480efd1f734]: Commencement: Rule 251 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-3914f647705051ba985df480efd1f734]: Commencement: Rule 251 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00090]: Footnote: Paragraph (2) and (3) were substituted for the original paragraph (2) by [S.I. 2005/527](https://www.legislation.gov.uk/uksi/2005/527).

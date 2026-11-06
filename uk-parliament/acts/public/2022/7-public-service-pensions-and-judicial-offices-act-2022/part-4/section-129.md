@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Regulations and directions[^key-4b996863ee27348d011fbe986723b507]
+## 129. Regulations and directions[^c-4b996863ee27348d011fbe986723b507]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b996863ee27348d011fbe986723b507]: Commencement: S. 129 in force at Royal Assent, see [s. 131(5)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/5)
+[^c-4b996863ee27348d011fbe986723b507]: Commencement: S. 129 in force at Royal Assent, see [s. 131(5)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/5)

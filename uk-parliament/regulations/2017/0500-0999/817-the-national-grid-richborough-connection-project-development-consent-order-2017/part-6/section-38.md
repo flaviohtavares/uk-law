@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Temporary closure of, and works in, the river Stour[^key-c07baba6399f60dcbae546aa054f489e]
+## 38. Temporary closure of, and works in, the river Stour[^c-c07baba6399f60dcbae546aa054f489e]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c07baba6399f60dcbae546aa054f489e]: Commencement: Art. 38 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-c07baba6399f60dcbae546aa054f489e]: Commencement: Art. 38 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

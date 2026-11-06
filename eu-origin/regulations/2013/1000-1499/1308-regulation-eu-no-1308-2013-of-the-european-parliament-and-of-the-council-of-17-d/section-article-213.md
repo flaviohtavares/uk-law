@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 213. National payments for reindeer in Finland and Sweden[^key-83ba901de9452da1f31cf436c2debdff]
+## Article 213. National payments for reindeer in Finland and Sweden[^c-83ba901de9452da1f31cf436c2debdff]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83ba901de9452da1f31cf436c2debdff]: Textual amendment: [Arts. 212-214a](https://www.legislation.gov.uk/eur/2013/1308/article/212) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [69](https://www.legislation.gov.uk/uksi/2019/821/regulation/69); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-83ba901de9452da1f31cf436c2debdff]: Textual amendment: [Arts. 212-214a](https://www.legislation.gov.uk/eur/2013/1308/article/212) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [69](https://www.legislation.gov.uk/uksi/2019/821/regulation/69); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

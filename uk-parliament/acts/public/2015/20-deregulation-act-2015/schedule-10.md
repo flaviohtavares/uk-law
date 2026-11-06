@@ -42,9 +42,9 @@ Section 51
 
 ### PART 2 — Permit schemes: removal of requirement for Secretary of State approval
 
-**4.**[^c22549061][^key-d0f31eac0844006f227fb31872bf990f] Part 3 of the Traffic Management Act 2004 (permit schemes) is amended as follows.
+**4.**[^c22549061][^c-d0f31eac0844006f227fb31872bf990f] Part 3 of the Traffic Management Act 2004 (permit schemes) is amended as follows.
 
-**5.**[^c22549071][^key-ce572c2ff7b61f712ea5989332d13751] (1) Section 33 (preparation of permit schemes) is amended as follows.
+**5.**[^c22549071][^c-ce572c2ff7b61f712ea5989332d13751] (1) Section 33 (preparation of permit schemes) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -68,7 +68,7 @@ Section 51
 >
 > (2A) The Welsh Ministers may direct a local highway authority in Wales, or two or more such authorities acting together, to prepare and submit to them a permit scheme which takes such form as the Welsh Ministers may direct.
 
-**6.**[^key-d99fcda15e383729c423f3765d5626b0] After section 33 insert—
+**6.**[^c-d99fcda15e383729c423f3765d5626b0] After section 33 insert—
 
 > **33A. Implementation of permit schemes of strategic highway companies and local highway authorities in England**
 >
@@ -87,7 +87,7 @@ Section 51
 > - (a) must set out the scheme and specify the date on which the scheme is to come into effect, and
 > - (b) may (in accordance with permit regulations) include provisions which disapply or modify enactments to the extent specified in the order.
 
-**7.**[^key-5bd359c9baeff6f311e413c464217e7d] (1) Section 34 (implementation of local highway authority permit schemes) is amended as follows.
+**7.**[^c-5bd359c9baeff6f311e413c464217e7d] (1) Section 34 (implementation of local highway authority permit schemes) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -103,7 +103,7 @@ Section 51
 
 (6) In the heading, at the end insert “ : Wales ”.
 
-**8.**[^key-d49aa9369fa59d6edd6402efaf09608a] For section 36 (variation and revocation of permit schemes) substitute—
+**8.**[^c-d49aa9369fa59d6edd6402efaf09608a] For section 36 (variation and revocation of permit schemes) substitute—
 
 > **36. Variation and revocation of permit schemes**
 >
@@ -131,7 +131,7 @@ Section 51
 >
 > (12) An order under this section may (in accordance with permit regulations) include provisions which disapply or modify enactments to the extent specified in the order.
 
-**9.**[^key-89055a574d4c445c1b487bfbe56f2c42] (1) Section 37 (permit regulations) is amended as follows.
+**9.**[^c-89055a574d4c445c1b487bfbe56f2c42] (1) Section 37 (permit regulations) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -147,7 +147,7 @@ Section 51
 
 > (3A) Permit regulations made by the Secretary of State may impose requirements for the purpose of securing that permit schemes are kept under review.
 
-**10.**[^key-e672120e292ddee46921974cc3a07888] (1) Section 39 (interpretation of Part 3) is amended as follows.
+**10.**[^c-e672120e292ddee46921974cc3a07888] (1) Section 39 (interpretation of Part 3) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -164,11 +164,11 @@ Section 51
 
 > (6) A statutory instrument containing regulations under this Part made by the Welsh Ministers is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
 
-**11.**[^key-b278619c473214d26ac3754a319f2e71] (1) This paragraph applies to a permit scheme prepared by a local highway authority in England or a strategic highways company which, by virtue of an order made by the Secretary of State under section 34(4) of the Traffic Management Act 2004, has effect immediately before the date on which paragraphs 4 to 10 come into force.
+**11.**[^c-b278619c473214d26ac3754a319f2e71] (1) This paragraph applies to a permit scheme prepared by a local highway authority in England or a strategic highways company which, by virtue of an order made by the Secretary of State under section 34(4) of the Traffic Management Act 2004, has effect immediately before the date on which paragraphs 4 to 10 come into force.
 
 (2) On and after that date, the scheme is to be treated as if it had effect by virtue of an order made by the local highway authority or a strategic highways company under section 33A(2) of that Act.
 
-**12.**[^key-c0f03fb346bb73bd5fd2eb68f0780b72] In consequence of the amendments made by paragraph 5, in the Infrastructure Act 2015, in Schedule 1, omit paragraph 148.
+**12.**[^c-c0f03fb346bb73bd5fd2eb68f0780b72] In consequence of the amendments made by paragraph 5, in the Infrastructure Act 2015, in Schedule 1, omit paragraph 148.
 
 ### PART 3 — Road humps
 
@@ -331,7 +331,7 @@ Section 51
 
 ### PART 6 — Testing of vehicles
 
-**25.**[^key-3bb36b7051e5da543840f6840ec69d25] In section 52 of the Road Traffic Act 1988 (supplementary provisions about tests etc of goods vehicles), in subsection (2) (which confers power on the Secretary of State to provide and maintain stations and apparatus for the carrying out of examinations of certain goods vehicles), for the words from “provide and maintain” to the end of the subsection substitute
+**25.**[^c-3bb36b7051e5da543840f6840ec69d25] In section 52 of the Road Traffic Act 1988 (supplementary provisions about tests etc of goods vehicles), in subsection (2) (which confers power on the Secretary of State to provide and maintain stations and apparatus for the carrying out of examinations of certain goods vehicles), for the words from “provide and maintain” to the end of the subsection substitute
 
 > —
 >
@@ -339,7 +339,7 @@ Section 51
 > - (b) designate premises as stations where such examinations may be carried out, and
 > - (c) provide and maintain apparatus for the carrying out of such examinations.
 
-**26.**[^key-af256490126a3a2d8022c343c8f006b1] (1) Section 46 of that Act (provision which may be included in regulations under section 45 of that Act about tests of the condition of vehicles other than certain goods vehicles) is amended as follows.
+**26.**[^c-af256490126a3a2d8022c343c8f006b1] (1) Section 46 of that Act (provision which may be included in regulations under section 45 of that Act about tests of the condition of vehicles other than certain goods vehicles) is amended as follows.
 
 (2) In subsection (1), after paragraph (j) insert—
 
@@ -365,7 +365,7 @@ Section 51
 
 (5) In subsection (4), after “subsection (1)(j)” insert “ or (ja) ”.
 
-**27.**[^key-8175d2dccacff253253c467482ac78fa] (1) Section 51 of that Act (particular aspects of regulations under section 49 of that Act dealing with the testing of certain goods vehicles etc) is amended as follows.
+**27.**[^c-8175d2dccacff253253c467482ac78fa] (1) Section 51 of that Act (particular aspects of regulations under section 49 of that Act dealing with the testing of certain goods vehicles etc) is amended as follows.
 
 (2) In subsection (1), after paragraph (k) insert—
 
@@ -395,9 +395,9 @@ Section 51
 
 ### PART 7 — Rail vehicle accessibility regulations: exemption orders
 
-**28.**[^key-e649e80a6a328131a4dd0f406b84380e] The Equality Act 2010 is amended as follows.
+**28.**[^c-e649e80a6a328131a4dd0f406b84380e] The Equality Act 2010 is amended as follows.
 
-**29.**[^key-8d23f0b1fc3e780ee75095bb35c3f6b5] (1) Section 183 (exemptions from rail vehicle accessibility regulations) is amended as follows.
+**29.**[^c-8d23f0b1fc3e780ee75095bb35c3f6b5] (1) Section 183 (exemptions from rail vehicle accessibility regulations) is amended as follows.
 
 (2) Omit subsection (3) (power to make regulations as to exemption orders: applications etc).
 
@@ -405,7 +405,7 @@ Section 51
 
 > (7) Section 207(2) does not require an exemption order to be made by statutory instrument; but such an order is as capable of being amended or revoked as an order made by statutory instrument.
 
-**30.**[^key-747b830357e11eabc461ce6d5a1ea9fc] In consequence of paragraph 29—
+**30.**[^c-747b830357e11eabc461ce6d5a1ea9fc] In consequence of paragraph 29—
 
 - (a) omit section 184 (procedure for making exemption orders);
 - (b) in section 185 (annual report on exemption orders)—
@@ -415,7 +415,7 @@ Section 51
   - (i) omit subsection (5)(g);
   - (ii) omit subsection (7)(a).
 
-**31.**[^key-fe1ad83701263b11f484c61b606f316a] (1) This paragraph applies to an exemption order made by statutory instrument under section 183(1) of the Equality Act 2010, or treated as so made, before the date on which paragraph 29(3) comes into force.
+**31.**[^c-fe1ad83701263b11f484c61b606f316a] (1) This paragraph applies to an exemption order made by statutory instrument under section 183(1) of the Equality Act 2010, or treated as so made, before the date on which paragraph 29(3) comes into force.
 
 (2) The order is to be treated as having been made otherwise than by statutory instrument; but is to be as capable of being amended or revoked as an order made by statutory instrument.
 
@@ -423,36 +423,36 @@ Section 51
 
 [^c22549061]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/4) in force for certain purposes at Royal Assent and at 26.5.2015 in so far as not already in force
 
-[^key-d0f31eac0844006f227fb31872bf990f]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/4) in force at 30.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 9(b)](https://www.legislation.gov.uk/uksi/2015/994/article/9/b)
+[^c-d0f31eac0844006f227fb31872bf990f]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/4) in force at 30.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 9(b)](https://www.legislation.gov.uk/uksi/2015/994/article/9/b)
 
 [^c22549071]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/5) in force for certain purposes at Royal Assent and at 26.5.2015 in so far as not already in force
 
-[^key-ce572c2ff7b61f712ea5989332d13751]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/5) in force at 30.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 9(b)](https://www.legislation.gov.uk/uksi/2015/994/article/9/b)
+[^c-ce572c2ff7b61f712ea5989332d13751]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/5) in force at 30.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 9(b)](https://www.legislation.gov.uk/uksi/2015/994/article/9/b)
 
-[^key-d99fcda15e383729c423f3765d5626b0]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/6) in force at 30.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 9(b)](https://www.legislation.gov.uk/uksi/2015/994/article/9/b)
+[^c-d99fcda15e383729c423f3765d5626b0]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/6) in force at 30.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 9(b)](https://www.legislation.gov.uk/uksi/2015/994/article/9/b)
 
-[^key-5bd359c9baeff6f311e413c464217e7d]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/7) in force at 30.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 9(b)](https://www.legislation.gov.uk/uksi/2015/994/article/9/b)
+[^c-5bd359c9baeff6f311e413c464217e7d]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/7) in force at 30.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 9(b)](https://www.legislation.gov.uk/uksi/2015/994/article/9/b)
 
-[^key-d49aa9369fa59d6edd6402efaf09608a]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/8) in force at 30.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 9(b)](https://www.legislation.gov.uk/uksi/2015/994/article/9/b)
+[^c-d49aa9369fa59d6edd6402efaf09608a]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/8) in force at 30.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 9(b)](https://www.legislation.gov.uk/uksi/2015/994/article/9/b)
 
-[^key-89055a574d4c445c1b487bfbe56f2c42]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/9) in force at 30.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 9(b)](https://www.legislation.gov.uk/uksi/2015/994/article/9/b)
+[^c-89055a574d4c445c1b487bfbe56f2c42]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/9) in force at 30.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 9(b)](https://www.legislation.gov.uk/uksi/2015/994/article/9/b)
 
-[^key-e672120e292ddee46921974cc3a07888]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/10) in force at 30.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 9(b)](https://www.legislation.gov.uk/uksi/2015/994/article/9/b)
+[^c-e672120e292ddee46921974cc3a07888]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/10) in force at 30.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 9(b)](https://www.legislation.gov.uk/uksi/2015/994/article/9/b)
 
-[^key-b278619c473214d26ac3754a319f2e71]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/11) in force at 30.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 9(b)](https://www.legislation.gov.uk/uksi/2015/994/article/9/b)
+[^c-b278619c473214d26ac3754a319f2e71]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/11) in force at 30.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 9(b)](https://www.legislation.gov.uk/uksi/2015/994/article/9/b)
 
-[^key-c0f03fb346bb73bd5fd2eb68f0780b72]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/12) in force at 30.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 9(b)](https://www.legislation.gov.uk/uksi/2015/994/article/9/b)
+[^c-c0f03fb346bb73bd5fd2eb68f0780b72]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/12) in force at 30.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 9(b)](https://www.legislation.gov.uk/uksi/2015/994/article/9/b)
 
-[^key-3bb36b7051e5da543840f6840ec69d25]: Commencement: [Sch. 10 para. 25](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/25) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(b)](https://www.legislation.gov.uk/uksi/2015/994/article/7/b) (with [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/4))
+[^c-3bb36b7051e5da543840f6840ec69d25]: Commencement: [Sch. 10 para. 25](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/25) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(b)](https://www.legislation.gov.uk/uksi/2015/994/article/7/b) (with [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/4))
 
-[^key-af256490126a3a2d8022c343c8f006b1]: Commencement: [Sch. 10 para. 26](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/26) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(b)](https://www.legislation.gov.uk/uksi/2015/994/article/7/b) (with [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/4))
+[^c-af256490126a3a2d8022c343c8f006b1]: Commencement: [Sch. 10 para. 26](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/26) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(b)](https://www.legislation.gov.uk/uksi/2015/994/article/7/b) (with [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/4))
 
-[^key-8175d2dccacff253253c467482ac78fa]: Commencement: [Sch. 10 para. 27](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/27) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(b)](https://www.legislation.gov.uk/uksi/2015/994/article/7/b) (with [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/4))
+[^c-8175d2dccacff253253c467482ac78fa]: Commencement: [Sch. 10 para. 27](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/27) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(b)](https://www.legislation.gov.uk/uksi/2015/994/article/7/b) (with [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/4))
 
-[^key-e649e80a6a328131a4dd0f406b84380e]: Commencement: [Sch. 10 para. 28](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/28) in force at 1.10.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(p)](https://www.legislation.gov.uk/uksi/2015/994/article/11/p)
+[^c-e649e80a6a328131a4dd0f406b84380e]: Commencement: [Sch. 10 para. 28](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/28) in force at 1.10.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(p)](https://www.legislation.gov.uk/uksi/2015/994/article/11/p)
 
-[^key-8d23f0b1fc3e780ee75095bb35c3f6b5]: Commencement: [Sch. 10 para. 29](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/29) in force at 1.10.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(p)](https://www.legislation.gov.uk/uksi/2015/994/article/11/p)
+[^c-8d23f0b1fc3e780ee75095bb35c3f6b5]: Commencement: [Sch. 10 para. 29](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/29) in force at 1.10.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(p)](https://www.legislation.gov.uk/uksi/2015/994/article/11/p)
 
-[^key-747b830357e11eabc461ce6d5a1ea9fc]: Commencement: [Sch. 10 para. 30](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/30) in force at 1.10.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(p)](https://www.legislation.gov.uk/uksi/2015/994/article/11/p)
+[^c-747b830357e11eabc461ce6d5a1ea9fc]: Commencement: [Sch. 10 para. 30](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/30) in force at 1.10.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(p)](https://www.legislation.gov.uk/uksi/2015/994/article/11/p)
 
-[^key-fe1ad83701263b11f484c61b606f316a]: Commencement: [Sch. 10 para. 31](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/31) in force at 1.10.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(p)](https://www.legislation.gov.uk/uksi/2015/994/article/11/p)
+[^c-fe1ad83701263b11f484c61b606f316a]: Commencement: [Sch. 10 para. 31](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/31) in force at 1.10.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(p)](https://www.legislation.gov.uk/uksi/2015/994/article/11/p)

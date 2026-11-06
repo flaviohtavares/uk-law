@@ -22,21 +22,21 @@ summary: ''
 
 Section 56.
 
-### PART A1 — Non-Domestic Rating Multipliers: England[^key-fae50322d524ddcce1b757c5f27d25b5]
+### PART A1 — Non-Domestic Rating Multipliers: England[^c-fae50322d524ddcce1b757c5f27d25b5]
 
 #### CHAPTER 1 — Introduction
 
 **A1.** This Part of this Schedule has effect to determine, in relation to England, for each chargeable financial year—
 
-- (a) the non-domestic rating multiplier, [^key-c7f652594f55241334e58df688329fe3]...
-- (b) the small business non-domestic rating multiplier , and[^key-5ac1bcf7f2a30da1676fb1ef7d91d5f0]
+- (a) the non-domestic rating multiplier, [^c-c7f652594f55241334e58df688329fe3]...
+- (b) the small business non-domestic rating multiplier , and[^c-5ac1bcf7f2a30da1676fb1ef7d91d5f0]
 - (c) together with regulations under this Part, other non-domestic rating multipliers.
 
 **A2.** In this Part—
 
 - (a) Chapter 2 makes provision about the calculation of the non-domestic rating multiplier;
 - (b) Chapter 3 makes provision about the calculation of the small business non-domestic rating multiplier;
-- (ba)[^key-f9cb3d0f1c9fb2bb616e18ee2b684c08] Chapter 3A makes provision about the making of regulations which provide for the calculation of other non-domestic rating multipliers;
+- (ba)[^c-f9cb3d0f1c9fb2bb616e18ee2b684c08] Chapter 3A makes provision about the making of regulations which provide for the calculation of other non-domestic rating multipliers;
 - (c) Chapter 4 makes provision about the making, and the giving of notice, of such calculations;
 - (d) Chapter 5 makes provision about the interpretation of terms used in this Part;
 - (e) Chapter 6 makes provision about regulations under this Part.
@@ -83,7 +83,7 @@ The small business non-domestic rating multiplier for a revaluation year is to b
 
 (3) The Secretary of State makes an adjustment to the default amount by adjusting it to reflect the extent to which the Secretary of State’s last estimate of the total mentioned in paragraph A10(6) or (7) appears to the Secretary of State to differ from the actual total.
 
-#### Chapter 3A — Other non-domestic rating multipliers[^key-b516670dabdc0053d2af293a6e76ee68]
+#### Chapter 3A — Other non-domestic rating multipliers[^c-b516670dabdc0053d2af293a6e76ee68]
 
 **A6A.** (1) The Treasury may by regulations make provision for the calculation of multipliers applicable in relation to England that produce multipliers for a given financial year that are—
 
@@ -99,7 +99,7 @@ The small business non-domestic rating multiplier for a revaluation year is to b
 
 **A7.** (1) The Secretary of State must—
 
-- (a) calculate each multiplier about which provision is made by or under this Part of this Schedule[^key-627e5c10e30dd886b80a1922241aa50b] for a chargeable financial year, and
+- (a) calculate each multiplier about which provision is made by or under this Part of this Schedule[^c-627e5c10e30dd886b80a1922241aa50b] for a chargeable financial year, and
 - (b) as soon as reasonably practicable after doing so, serve on each billing authority a notice stating the multipliers as so calculated.
 
 (2) A notice under sub-paragraph (1)(b) must show how any calculation has been made and contain details of—
@@ -156,13 +156,13 @@ The small business non-domestic rating multiplier for a revaluation year is to b
 
 #### CHAPTER 6 — Regulations
 
-**A12.** (1) Regulations under this Part of this Schedule[^key-752bd6e7333555d67b5d86dc34add4f6] are to be made by statutory instrument.
+**A12.** (1) Regulations under this Part of this Schedule[^c-752bd6e7333555d67b5d86dc34add4f6] are to be made by statutory instrument.
 
-(2)[^key-7c743157286519bc13fc81bc0844235c] A statutory instrument containing (whether alone or with other provision) regulations under paragraph A6A(1)(a) may not be made unless a draft of the instrument has been laid before and approved by a resolution of the House of Commons.
+(2)[^c-7c743157286519bc13fc81bc0844235c] A statutory instrument containing (whether alone or with other provision) regulations under paragraph A6A(1)(a) may not be made unless a draft of the instrument has been laid before and approved by a resolution of the House of Commons.
 
 (3) A statutory instrument to which sub-paragraph (2) or paragraph 9B(3) does not apply containing regulations under paragraph A6A or A10(4)(b) is subject to annulment in pursuance of a resolution of the House of Commons.
 
-### PART A2 — NON-DOMESTIC RATING MULTIPLIERS: WALES[^key-844bff7fbf77fa278076756373fca5e7]
+### PART A2 — NON-DOMESTIC RATING MULTIPLIERS: WALES[^c-844bff7fbf77fa278076756373fca5e7]
 
 #### A13. Introduction
 
@@ -304,39 +304,39 @@ The Welsh Ministers may by regulations amend, repeal or disapply paragraph A14 o
 
 (2) In this Part “revaluation year means a chargeable financial year at the beginning of which new lists must be compiled (see sections 41ZA(3) and 52ZA(3)).
 
-### Part I — Non-Domestic Rating Multipliers : Wales[^key-1ce7049d1ca0570c7d1b70ec6237a328]
+### Part I — Non-Domestic Rating Multipliers : Wales[^c-1ce7049d1ca0570c7d1b70ec6237a328]
 
 **No longer in force.**
 
-#### Introduction[^key-1ce7049d1ca0570c7d1b70ec6237a328]
+#### Introduction[^c-1ce7049d1ca0570c7d1b70ec6237a328]
 
-**1.**[^key-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### General provisions[^key-1ce7049d1ca0570c7d1b70ec6237a328]
+#### General provisions[^c-1ce7049d1ca0570c7d1b70ec6237a328]
 
-**2.**[^key-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3A.**[^key-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3A.**[^c-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3B.**[^key-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3B.**[^c-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4A.**[^key-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4A.**[^c-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4B.**[^key-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4B.**[^c-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Special provision for 1990-95[^key-1ce7049d1ca0570c7d1b70ec6237a328]
+#### Special provision for 1990-95[^c-1ce7049d1ca0570c7d1b70ec6237a328]
 
-**7.**[^key-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1ce7049d1ca0570c7d1b70ec6237a328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Special Authority’s Multipliers
 
@@ -352,11 +352,11 @@ The Welsh Ministers may by regulations amend, repeal or disapply paragraph A14 o
 
 where—
 
-A is the non-domestic rating multiplier for the year [^key-bc45a5bdb8ed8aa76f10f59aaabe6c70]... determined in accordance with Part A1[^key-d630ceb86899c3c454db2754961b4803] of this Schedule,
+A is the non-domestic rating multiplier for the year [^c-bc45a5bdb8ed8aa76f10f59aaabe6c70]... determined in accordance with Part A1[^c-d630ceb86899c3c454db2754961b4803] of this Schedule,
 
 B is a percentage prescribed for the year by order made by the Secretary of State,
 
-C is the amount calculated (or last calculated) for the year by the authority under section 31A(4)[^key-a29393d4fb4d3495104af0d959ab6115] of the Local Government Finance Act 1992,
+C is the amount calculated (or last calculated) for the year by the authority under section 31A(4)[^c-a29393d4fb4d3495104af0d959ab6115] of the Local Government Finance Act 1992,
 
 D is an amount determined by the Secretary of State for the year and notified by him to the authority before 1 March in the preceding financial year,
 
@@ -366,19 +366,19 @@ F is a factor determined by the Secretary of State for the year and notified by 
 
 (5) An order under sub-paragraph (4) above in its application to a particular financial year (including an order amending or revoking another) shall not be effective unless it comes into force before 1 March in the preceding financial year.
 
-**9A.**[^key-041e5a7d69eea571dc3d1e44147f3f69] (1) A special authority’s small business non-domestic rating multiplier for a chargeable financial year shall be set by it in accordance with the formula—
+**9A.**[^c-041e5a7d69eea571dc3d1e44147f3f69] (1) A special authority’s small business non-domestic rating multiplier for a chargeable financial year shall be set by it in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/ukpga/1988/41)
 
 (2) In sub-paragraph (1) above—
 
 - (a) A is the special authority’s non-domestic rating multiplier for the year under paragraph 9 above,
-- (b) B is the small business non-domestic rating multiplier for the year determined in accordance with Part A1[^key-7cd78d45ccc46d8253f6e3871d9bbed8] of this Schedule, and
-- (c) C is the non-domestic rating multiplier for the year [^key-3540a75ee11f36558d29965d10fe93e2]... determined in accordance with that Part.
+- (b) B is the small business non-domestic rating multiplier for the year determined in accordance with Part A1[^c-7cd78d45ccc46d8253f6e3871d9bbed8] of this Schedule, and
+- (c) C is the non-domestic rating multiplier for the year [^c-3540a75ee11f36558d29965d10fe93e2]... determined in accordance with that Part.
 
 (3) The multiplier must be expressed as a figure in which a part of a whole (if any) is expressed to three decimal points only.
 
-**9B.**[^key-bcf465fa772d95b4445b4d97b9eb5379] (1) The Treasury may by regulations make provision in accordance with which a special authority is to set multipliers for a given financial year—
+**9B.**[^c-bcf465fa772d95b4445b4d97b9eb5379] (1) The Treasury may by regulations make provision in accordance with which a special authority is to set multipliers for a given financial year—
 
 - (a) that are—
   - (i) higher, but not more than 0.1 higher, than the authority’s non-domestic rating multiplier for that year, or
@@ -391,9 +391,9 @@ F is a factor determined by the Secretary of State for the year and notified by 
 
 (4) A statutory instrument to which paragraph A12(2) or sub-paragraph (3) of this paragraph does not apply containing regulations under this paragraph is subject to annulment in pursuance of a resolution of the House of Commons.
 
-**10.** (1)[^key-11fc14e20e35812ce561f70a3b4892f1] Where a special authority has set multipliers for a financial year (whether originally or by way of substitute) it may set multipliers in substitution if, and only if, they have been quashed.
+**10.** (1)[^c-11fc14e20e35812ce561f70a3b4892f1] Where a special authority has set multipliers for a financial year (whether originally or by way of substitute) it may set multipliers in substitution if, and only if, they have been quashed.
 
-(2) Any multiplier set in substitution must be set in accordance with paragraph 9 or 9A[^key-0822b9e117b326d8159854578de7d453] , or regulations under paragraph 9B,[^key-e79e86e512cad7794169b50f8eed6b39] above.
+(2) Any multiplier set in substitution must be set in accordance with paragraph 9 or 9A[^c-0822b9e117b326d8159854578de7d453] , or regulations under paragraph 9B,[^c-e79e86e512cad7794169b50f8eed6b39] above.
 
 (3) Where a special authority sets a multiplier in substitution under this paragraph (a new multiplier) anything paid to it by reference to the multiplier for which it is substituted (the old multiplier) shall be treated as paid by reference to the new multiplier.
 
@@ -402,54 +402,54 @@ F is a factor determined by the Secretary of State for the year and notified by 
 - (a) it shall be repaid if the person by whom it was paid so requires;
 - (b) in any other case it shall (as the authority determines) either be repaid or be credited against any subsequent liability of the person to pay anything to it by way of a non-domestic rate.
 
-**11.** (1) Where a special authority has set a multiplier in accordance with paragraph 9 or 9A[^key-f1c2c295e2863f4b6921820a5a0378bb] , or regulations under paragraph 9B,[^key-e8be8bbda0758ae48367a62c9e792785] above (whether originally or by way of substitute) it shall, before the end of the period of 21 days beginning with the day of doing so, publish a notice of the multiplier in at least one newspaper circulating in its area.
+**11.** (1) Where a special authority has set a multiplier in accordance with paragraph 9 or 9A[^c-f1c2c295e2863f4b6921820a5a0378bb] , or regulations under paragraph 9B,[^c-e8be8bbda0758ae48367a62c9e792785] above (whether originally or by way of substitute) it shall, before the end of the period of 21 days beginning with the day of doing so, publish a notice of the multiplier in at least one newspaper circulating in its area.
 
 (2) Failure to comply with sub-paragraph (1) above does not make a multiplier invalid.
 
 ## Annotations
 
-[^key-fae50322d524ddcce1b757c5f27d25b5]: Textual amendment: Sch. 7 Pt. A1 inserted (22.11.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2023/53/section/15/2), [19(6)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/6); [S.I. 2023/1248](https://www.legislation.gov.uk/uksi/2023/1248), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1248/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1248/regulation/3))
+[^c-fae50322d524ddcce1b757c5f27d25b5]: Textual amendment: Sch. 7 Pt. A1 inserted (22.11.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2023/53/section/15/2), [19(6)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/6); [S.I. 2023/1248](https://www.legislation.gov.uk/uksi/2023/1248), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1248/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1248/regulation/3))
 
-[^key-c7f652594f55241334e58df688329fe3]: Textual amendment: Word in Sch. 7 para. A1(a) omitted (in respect of financial years beginning on or after 1.4.2026) by virtue of [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 1(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/12/section/1/2/a/i), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
+[^c-c7f652594f55241334e58df688329fe3]: Textual amendment: Word in Sch. 7 para. A1(a) omitted (in respect of financial years beginning on or after 1.4.2026) by virtue of [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 1(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/12/section/1/2/a/i), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
 
-[^key-5ac1bcf7f2a30da1676fb1ef7d91d5f0]: Textual amendment: Sch. 7 para. A1(c) and word inserted (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 1(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/12/section/1/2/a/ii), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
+[^c-5ac1bcf7f2a30da1676fb1ef7d91d5f0]: Textual amendment: Sch. 7 para. A1(c) and word inserted (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 1(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/12/section/1/2/a/ii), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
 
-[^key-f9cb3d0f1c9fb2bb616e18ee2b684c08]: Textual amendment: Sch. 7 para. A2(ba) inserted (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2025/12/section/1/2/b), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
+[^c-f9cb3d0f1c9fb2bb616e18ee2b684c08]: Textual amendment: Sch. 7 para. A2(ba) inserted (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2025/12/section/1/2/b), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
 
-[^key-b516670dabdc0053d2af293a6e76ee68]: Textual amendment: Sch. 7 Pt. A1 Ch. 3A inserted (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2025/12/section/1/3), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
+[^c-b516670dabdc0053d2af293a6e76ee68]: Textual amendment: Sch. 7 Pt. A1 Ch. 3A inserted (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2025/12/section/1/3), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
 
-[^key-627e5c10e30dd886b80a1922241aa50b]: Textual amendment: Words in Sch. 7 para. A7(1)(a) substituted (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2025/12/section/1/4), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
+[^c-627e5c10e30dd886b80a1922241aa50b]: Textual amendment: Words in Sch. 7 para. A7(1)(a) substituted (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2025/12/section/1/4), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
 
-[^key-752bd6e7333555d67b5d86dc34add4f6]: Textual amendment: Words in [Sch. 7 para. A12(1)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7/paragraph/A12/1) substituted (in respect of financial years beginning on or after 1.4.2026) by Non-[Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 1(5)(a)](https://www.legislation.gov.uk/ukpga/2025/12/section/1/5/a), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
+[^c-752bd6e7333555d67b5d86dc34add4f6]: Textual amendment: Words in [Sch. 7 para. A12(1)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7/paragraph/A12/1) substituted (in respect of financial years beginning on or after 1.4.2026) by Non-[Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 1(5)(a)](https://www.legislation.gov.uk/ukpga/2025/12/section/1/5/a), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
 
-[^key-7c743157286519bc13fc81bc0844235c]: Textual amendment: Sch. 7 para. A12(2)(3) substituted for Sch. 7 para. A12(2) (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 1(5)(b)](https://www.legislation.gov.uk/ukpga/2025/12/section/1/5/b), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
+[^c-7c743157286519bc13fc81bc0844235c]: Textual amendment: Sch. 7 para. A12(2)(3) substituted for Sch. 7 para. A12(2) (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 1(5)(b)](https://www.legislation.gov.uk/ukpga/2025/12/section/1/5/b), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
 
-[^key-844bff7fbf77fa278076756373fca5e7]: Textual amendment: [Sch. 7 Pt. A2](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7/part/A2) inserted (1.4.2025) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 10](https://www.legislation.gov.uk/asc/2024/6/section/10), [23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
+[^c-844bff7fbf77fa278076756373fca5e7]: Textual amendment: [Sch. 7 Pt. A2](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7/part/A2) inserted (1.4.2025) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 10](https://www.legislation.gov.uk/asc/2024/6/section/10), [23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
 
-[^key-1ce7049d1ca0570c7d1b70ec6237a328]: Textual amendment: [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7/part/1) omitted (1.4.2025) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a), [Sch. para. 9(5)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/9/5)
+[^c-1ce7049d1ca0570c7d1b70ec6237a328]: Textual amendment: [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7/part/1) omitted (1.4.2025) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a), [Sch. para. 9(5)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/9/5)
 
 [^c13079051]: Textual amendment: Sch. 7 Pt. II para. 9(3)-(5) substituted (6.3.1992) for para. 9(3)(4) by [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14), [s. 104](https://www.legislation.gov.uk/ukpga/1992/14/section/104), [Sch. 10 Pt. I para.5](https://www.legislation.gov.uk/ukpga/1992/14/schedule/10/part/I/paragraph/5) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4))
 
-[^key-bc45a5bdb8ed8aa76f10f59aaabe6c70]: Textual amendment: Words in [Sch. 7 para. 9(4)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7/paragraph/9/4) omitted (22.11.2023) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(6)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/6), [Sch. para. 67(2)(a)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/67/2/a); [S.I. 2023/1248](https://www.legislation.gov.uk/uksi/2023/1248), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1248/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1248/regulation/3))
+[^c-bc45a5bdb8ed8aa76f10f59aaabe6c70]: Textual amendment: Words in [Sch. 7 para. 9(4)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7/paragraph/9/4) omitted (22.11.2023) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(6)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/6), [Sch. para. 67(2)(a)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/67/2/a); [S.I. 2023/1248](https://www.legislation.gov.uk/uksi/2023/1248), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1248/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1248/regulation/3))
 
-[^key-d630ceb86899c3c454db2754961b4803]: Textual amendment: Words in Sch. 7 para. 9(4) substituted (22.11.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(6)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/6), [Sch. para. 67(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/67/2/b); [S.I. 2023/1248](https://www.legislation.gov.uk/uksi/2023/1248), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1248/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1248/regulation/3))
+[^c-d630ceb86899c3c454db2754961b4803]: Textual amendment: Words in Sch. 7 para. 9(4) substituted (22.11.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(6)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/6), [Sch. para. 67(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/67/2/b); [S.I. 2023/1248](https://www.legislation.gov.uk/uksi/2023/1248), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1248/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1248/regulation/3))
 
-[^key-a29393d4fb4d3495104af0d959ab6115]: Textual amendment: Word in Sch. 7 para. 9(4) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/6); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-a29393d4fb4d3495104af0d959ab6115]: Textual amendment: Word in Sch. 7 para. 9(4) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/6); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-041e5a7d69eea571dc3d1e44147f3f69]: Textual amendment: Sch. 7 para. 9A inserted (25.11.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 62(11)](https://www.legislation.gov.uk/ukpga/2003/26/section/62/11), [128(3)(a)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/a); [S.I. 2004/3132](https://www.legislation.gov.uk/uksi/2004/3132), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/3132/article/2/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/3132/article/4))
+[^c-041e5a7d69eea571dc3d1e44147f3f69]: Textual amendment: Sch. 7 para. 9A inserted (25.11.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 62(11)](https://www.legislation.gov.uk/ukpga/2003/26/section/62/11), [128(3)(a)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/a); [S.I. 2004/3132](https://www.legislation.gov.uk/uksi/2004/3132), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/3132/article/2/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/3132/article/4))
 
-[^key-7cd78d45ccc46d8253f6e3871d9bbed8]: Textual amendment: Words in Sch. 7 para. 9A(2)(b) substituted (22.11.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(6)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/6), [Sch. para. 67(3)(a)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/67/3/a); [S.I. 2023/1248](https://www.legislation.gov.uk/uksi/2023/1248), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1248/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1248/regulation/3))
+[^c-7cd78d45ccc46d8253f6e3871d9bbed8]: Textual amendment: Words in Sch. 7 para. 9A(2)(b) substituted (22.11.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(6)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/6), [Sch. para. 67(3)(a)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/67/3/a); [S.I. 2023/1248](https://www.legislation.gov.uk/uksi/2023/1248), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1248/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1248/regulation/3))
 
-[^key-3540a75ee11f36558d29965d10fe93e2]: Textual amendment: Words in Sch. 7 para. 9A(2)(c) omitted (22.11.2023) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(6)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/6), [Sch. para. 67(3)(b)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/67/3/b); [S.I. 2023/1248](https://www.legislation.gov.uk/uksi/2023/1248), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1248/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1248/regulation/3))
+[^c-3540a75ee11f36558d29965d10fe93e2]: Textual amendment: Words in Sch. 7 para. 9A(2)(c) omitted (22.11.2023) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(6)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/6), [Sch. para. 67(3)(b)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/67/3/b); [S.I. 2023/1248](https://www.legislation.gov.uk/uksi/2023/1248), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1248/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1248/regulation/3))
 
-[^key-bcf465fa772d95b4445b4d97b9eb5379]: Textual amendment: Sch. 7 para. 9B inserted (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2025/12/section/2/2), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
+[^c-bcf465fa772d95b4445b4d97b9eb5379]: Textual amendment: Sch. 7 para. 9B inserted (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2025/12/section/2/2), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
 
-[^key-11fc14e20e35812ce561f70a3b4892f1]: Textual amendment: Sch. 7 para. 10(1) substituted (25.11.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(3)(e)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/e), [Sch. 7 para. 25(5)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/25/5); [S.I. 2004/3132](https://www.legislation.gov.uk/uksi/2004/3132), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/3132/article/2/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/3132/article/4))
+[^c-11fc14e20e35812ce561f70a3b4892f1]: Textual amendment: Sch. 7 para. 10(1) substituted (25.11.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(3)(e)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/e), [Sch. 7 para. 25(5)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/25/5); [S.I. 2004/3132](https://www.legislation.gov.uk/uksi/2004/3132), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/3132/article/2/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/3132/article/4))
 
-[^key-0822b9e117b326d8159854578de7d453]: Textual amendment: Words in Sch. 7 para. 10(2) inserted (25.11.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(3)(e)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/e), [Sch. 7 para. 25(6)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/25/6); [S.I. 2004/3132](https://www.legislation.gov.uk/uksi/2004/3132), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/3132/article/2/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/3132/article/4))
+[^c-0822b9e117b326d8159854578de7d453]: Textual amendment: Words in Sch. 7 para. 10(2) inserted (25.11.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(3)(e)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/e), [Sch. 7 para. 25(6)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/25/6); [S.I. 2004/3132](https://www.legislation.gov.uk/uksi/2004/3132), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/3132/article/2/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/3132/article/4))
 
-[^key-e79e86e512cad7794169b50f8eed6b39]: Textual amendment: Words in Sch. 7 para. 10 inserted (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2025/12/section/2/3), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
+[^c-e79e86e512cad7794169b50f8eed6b39]: Textual amendment: Words in Sch. 7 para. 10 inserted (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2025/12/section/2/3), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
 
-[^key-f1c2c295e2863f4b6921820a5a0378bb]: Textual amendment: Words in Sch. 7 para. 11(1) inserted (25.11.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(3)(e)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/e), [Sch. 7 para. 25(6)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/25/6); [S.I. 2004/3132](https://www.legislation.gov.uk/uksi/2004/3132), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/3132/article/2/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/3132/article/4))
+[^c-f1c2c295e2863f4b6921820a5a0378bb]: Textual amendment: Words in Sch. 7 para. 11(1) inserted (25.11.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(3)(e)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/e), [Sch. 7 para. 25(6)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/25/6); [S.I. 2004/3132](https://www.legislation.gov.uk/uksi/2004/3132), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/3132/article/2/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/3132/article/4))
 
-[^key-e8be8bbda0758ae48367a62c9e792785]: Textual amendment: Words in Sch. 7 para. 11(1) inserted (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2025/12/section/2/3), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
+[^c-e8be8bbda0758ae48367a62c9e792785]: Textual amendment: Words in Sch. 7 para. 11(1) inserted (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2025/12/section/2/3), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)

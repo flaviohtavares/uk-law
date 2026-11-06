@@ -32,7 +32,7 @@ summary: ''
 
 Sports Grounds And Sporting Events, England And Wales
 
-The Football Spectators (Prescription) (Amendment) Order 2010 (revoked)[^key-4c0c579e1cf7907d6e0ba42131699140]
+The Football Spectators (Prescription) (Amendment) Order 2010 (revoked)[^c-4c0c579e1cf7907d6e0ba42131699140]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 1st April 2010
 
-[^key-4c0c579e1cf7907d6e0ba42131699140]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c0c579e1cf7907d6e0ba42131699140]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4c0c579e1cf7907d6e0ba42131699140]
+## 1. Citation and commencement[^c-4c0c579e1cf7907d6e0ba42131699140]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the 2004 Order[^key-4c0c579e1cf7907d6e0ba42131699140]
+## 2. Amendments to the 2004 Order[^c-4c0c579e1cf7907d6e0ba42131699140]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c0c579e1cf7907d6e0ba42131699140]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c0c579e1cf7907d6e0ba42131699140]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c0c579e1cf7907d6e0ba42131699140]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c0c579e1cf7907d6e0ba42131699140]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4c0c579e1cf7907d6e0ba42131699140]: Textual amendment: Order revoked (1.7.2022) by [The Football Spectators (Prescription) Order 2022 (S.I. 2022/617)](https://www.legislation.gov.uk/uksi/2022/617), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/617/article/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2022/617/article/2/c)
+[^c-4c0c579e1cf7907d6e0ba42131699140]: Textual amendment: Order revoked (1.7.2022) by [The Football Spectators (Prescription) Order 2022 (S.I. 2022/617)](https://www.legislation.gov.uk/uksi/2022/617), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/617/article/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2022/617/article/2/c)

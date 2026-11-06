@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38.2. Application for an Article 5 certificate[^key-0715a553cbb90b52bfedf34e7a56f020]
+## 38.2. Application for an Article 5 certificate[^c-0715a553cbb90b52bfedf34e7a56f020]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0715a553cbb90b52bfedf34e7a56f020]: Textual amendment: Pt. 38 Ch. 2 omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [21(3)](https://www.legislation.gov.uk/uksi/2019/517/regulation/21/3) (with [reg. 28A](https://www.legislation.gov.uk/uksi/2019/517/regulation/28A)) (as inserted by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0715a553cbb90b52bfedf34e7a56f020]: Textual amendment: Pt. 38 Ch. 2 omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [21(3)](https://www.legislation.gov.uk/uksi/2019/517/regulation/21/3) (with [reg. 28A](https://www.legislation.gov.uk/uksi/2019/517/regulation/28A)) (as inserted by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

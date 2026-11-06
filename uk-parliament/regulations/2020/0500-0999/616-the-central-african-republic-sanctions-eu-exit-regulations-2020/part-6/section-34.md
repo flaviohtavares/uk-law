@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Trade licences[^key-279299d043fb6ec9779a2bfef7a84e55]
+## 34. Trade licences[^c-279299d043fb6ec9779a2bfef7a84e55]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The prohibitions in Chapters 2 and 3 of Part 5 (Trade) do not apply to anything 
 
 ## Annotations
 
-[^key-279299d043fb6ec9779a2bfef7a84e55]: Commencement: Reg. 34 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-279299d043fb6ec9779a2bfef7a84e55]: Commencement: Reg. 34 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)

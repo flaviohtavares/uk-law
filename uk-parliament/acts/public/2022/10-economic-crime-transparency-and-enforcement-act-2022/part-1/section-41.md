@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Applications in the transitional period: information about land transactions[^key-e3ee6340f6a8c3ff2648de24e5c08479][^key-0e2705fc5df3800c1f11446dcc9bbad0][^key-0a427a511d4f9203ee16ab1c1b3c05b9]
+## 41. Applications in the transitional period: information about land transactions[^c-e3ee6340f6a8c3ff2648de24e5c08479][^c-0e2705fc5df3800c1f11446dcc9bbad0][^c-0a427a511d4f9203ee16ab1c1b3c05b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,8 +75,8 @@ of which the overseas entity became a registered proprietor in pursuance of an a
 
 ## Annotations
 
-[^key-e3ee6340f6a8c3ff2648de24e5c08479]: Commencement: S. 41 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-e3ee6340f6a8c3ff2648de24e5c08479]: Commencement: S. 41 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-0e2705fc5df3800c1f11446dcc9bbad0]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2022/10/section/41) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/m)
+[^c-0e2705fc5df3800c1f11446dcc9bbad0]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2022/10/section/41) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/m)
 
-[^key-0a427a511d4f9203ee16ab1c1b3c05b9]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2022/10/section/41) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
+[^c-0a427a511d4f9203ee16ab1c1b3c05b9]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2022/10/section/41) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)

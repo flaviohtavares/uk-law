@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271. Detention in a young offender institution: place of detention[^key-df1a690885eed068b9bf86856e1f45cb]
+## 271. Detention in a young offender institution: place of detention[^c-df1a690885eed068b9bf86856e1f45cb]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ This is subject to section 22(2)(b) of the Prison Act 1952 (removal to hospital 
 
 ## Annotations
 
-[^key-df1a690885eed068b9bf86856e1f45cb]: Commencement: S. 271 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-df1a690885eed068b9bf86856e1f45cb]: Commencement: S. 271 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

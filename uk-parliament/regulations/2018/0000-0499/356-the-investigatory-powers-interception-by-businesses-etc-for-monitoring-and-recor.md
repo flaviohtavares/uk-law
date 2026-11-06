@@ -56,8 +56,8 @@ In these Regulations—
   - (b) other communications relating to the relevant activities or taking place in the course of the carrying on of those activities;
 - “**regulatory or self-regulatory practices or procedures**” means—
   - (a) practices or procedures compliance with which is required or recommended by, or by virtue of—
-    - (i) any enactment[^key-24c148c0005debea982ed67cd894c245], or
-    - (ii) any standard or code of practice established by or on behalf of a body established in the United Kingdom[^key-70db41d247a350e8e774b133640d8874] which includes amongst its objectives the publication of standards or codes of practice for the carrying on of relevant activities, or
+    - (i) any enactment[^c-24c148c0005debea982ed67cd894c245], or
+    - (ii) any standard or code of practice established by or on behalf of a body established in the United Kingdom[^c-70db41d247a350e8e774b133640d8874] which includes amongst its objectives the publication of standards or codes of practice for the carrying on of relevant activities, or
   - (b) practices or procedures which are otherwise applied for the purpose of ensuring compliance with anything so required or recommended;
 - “**system controller**” means, in relation to a particular telecommunication system, a person with a right to control its operation or use.
 
@@ -94,7 +94,7 @@ In these Regulations—
 - (c) the system controller has made all reasonable efforts to inform every person who may use the telecommunication system that communications transmitted by means of that system may be intercepted, and
 - (d) in a case to which regulation 3(2)(d) applies, the person by or on whose behalf the interception is effected is one of the persons listed in section 18(1)(a) to (g) of the Act.
 
-(2)[^key-215682ee48150989f854489e21b0d8b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-215682ee48150989f854489e21b0d8b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Ben Wallace
 
@@ -116,8 +116,8 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c22927721]: Marginal citation: [2016 c. 25](https://www.legislation.gov.uk/ukpga/2016/25).
 
-[^key-24c148c0005debea982ed67cd894c245]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2018/356/regulation/2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [133(2)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/133/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-24c148c0005debea982ed67cd894c245]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2018/356/regulation/2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [133(2)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/133/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-70db41d247a350e8e774b133640d8874]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/356/regulation/2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [133(2)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/133/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-70db41d247a350e8e774b133640d8874]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/356/regulation/2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [133(2)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/133/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-215682ee48150989f854489e21b0d8b1]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2018/356/regulation/4/2) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [133(3)](https://www.legislation.gov.uk/uksi/2019/742/regulation/133/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-215682ee48150989f854489e21b0d8b1]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2018/356/regulation/4/2) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [133(3)](https://www.legislation.gov.uk/uksi/2019/742/regulation/133/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Extended possession order against sub-holder[^key-5d2ed69a054ec1273acba2a8b35e4235]
+## 65. Extended possession order against sub-holder[^c-5d2ed69a054ec1273acba2a8b35e4235]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (3) The requirements are as follows—
 
-- (a) C's landlord must have given S a notice in accordance with section 64(2)[^key-c1ed692e33e5cd8910072d059cd1b5c8], and
+- (a) C's landlord must have given S a notice in accordance with section 64(2)[^c-c1ed692e33e5cd8910072d059cd1b5c8], and
 - (b) at the same time, C's landlord must have given S notice—
   - (i) of C's landlord's intention to apply for an extended possession order in the proceedings on the claim against C, and
   - (ii) of S's right to be a party to proceedings on the possession claim against C.
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5d2ed69a054ec1273acba2a8b35e4235]: Commencement: [S. 65](https://www.legislation.gov.uk/anaw/2016/1/section/65) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-5d2ed69a054ec1273acba2a8b35e4235]: Commencement: [S. 65](https://www.legislation.gov.uk/anaw/2016/1/section/65) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-c1ed692e33e5cd8910072d059cd1b5c8]: Textual amendment: Words in [s. 65(3)(a)](https://www.legislation.gov.uk/anaw/2016/1/section/65/3/a) substituted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 6 para. 8](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/8)
+[^c-c1ed692e33e5cd8910072d059cd1b5c8]: Textual amendment: Words in [s. 65(3)(a)](https://www.legislation.gov.uk/anaw/2016/1/section/65/3/a) substituted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 6 para. 8](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/8)

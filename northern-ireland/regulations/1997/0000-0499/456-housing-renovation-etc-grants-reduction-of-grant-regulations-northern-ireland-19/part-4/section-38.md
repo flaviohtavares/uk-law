@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Capital jointly held[^key-cd78fe26f73e4c8e7e3bcbc635c868ed]
+## 38. Capital jointly held[^c-cd78fe26f73e4c8e7e3bcbc635c868ed]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ Except where a relevant person possesses capital which is disregarded under regu
 
 ## Annotations
 
-[^key-cd78fe26f73e4c8e7e3bcbc635c868ed]: Commencement: Reg. 38 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-cd78fe26f73e4c8e7e3bcbc635c868ed]: Commencement: Reg. 38 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

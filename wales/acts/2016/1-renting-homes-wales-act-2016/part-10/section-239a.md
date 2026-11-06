@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 239A. Power to make provision about certain tenancies and licences[^key-df722abd26d8753eeebbe041f44e2e37][^key-e522a308c658ea4e6323b8d77d6a4541]
+## 239A. Power to make provision about certain tenancies and licences[^c-df722abd26d8753eeebbe041f44e2e37][^c-e522a308c658ea4e6323b8d77d6a4541]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-df722abd26d8753eeebbe041f44e2e37]: Commencement: [S. 239A](https://www.legislation.gov.uk/anaw/2016/1/section/239A) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-df722abd26d8753eeebbe041f44e2e37]: Commencement: [S. 239A](https://www.legislation.gov.uk/anaw/2016/1/section/239A) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-e522a308c658ea4e6323b8d77d6a4541]: Textual amendment: [S. 239A](https://www.legislation.gov.uk/anaw/2016/1/section/239A) inserted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 5 para. 6(1)](https://www.legislation.gov.uk/asc/2021/3/schedule/5/paragraph/6/1)
+[^c-e522a308c658ea4e6323b8d77d6a4541]: Textual amendment: [S. 239A](https://www.legislation.gov.uk/anaw/2016/1/section/239A) inserted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 5 para. 6(1)](https://www.legislation.gov.uk/asc/2021/3/schedule/5/paragraph/6/1)

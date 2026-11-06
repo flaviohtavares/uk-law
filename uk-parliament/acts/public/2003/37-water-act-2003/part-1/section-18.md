@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Register of certain protected rights[^key-ad9f86a9a772c9c890a765d1301ea63f]
+## 18. Register of certain protected rights[^c-ad9f86a9a772c9c890a765d1301ea63f]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ After section 39A of the WRA (inserted by section 17) there is inserted—
 
 ## Annotations
 
-[^key-ad9f86a9a772c9c890a765d1301ea63f]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2003/37/section/18) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(f)](https://www.legislation.gov.uk/uksi/2004/641/article/3/f) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/3)[7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-ad9f86a9a772c9c890a765d1301ea63f]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2003/37/section/18) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(f)](https://www.legislation.gov.uk/uksi/2004/641/article/3/f) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/3)[7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

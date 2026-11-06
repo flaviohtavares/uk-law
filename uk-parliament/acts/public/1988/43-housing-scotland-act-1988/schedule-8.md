@@ -45,13 +45,13 @@ Section 72.
 
 **3.** In section 151 (interpretation of Part VII) in the definition of “house” the words from “, not being” to the end of the definition shall cease to have effect.
 
-**4.**[^key-a6c8e83dce56328c8975fcabd536fb49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a6c8e83dce56328c8975fcabd536fb49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-982df37f741dec7e076030f21007a50d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-982df37f741dec7e076030f21007a50d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-92c3b69a00a06f414462b1c1d35bba72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-92c3b69a00a06f414462b1c1d35bba72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-8c25522c46b3f86c8b62a500a36c9c61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-8c25522c46b3f86c8b62a500a36c9c61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** In section 255 (exchequer contributions in respect of amenities) in subsection (7) after “(6)” there shall be inserted the words “ or for such other amount as may be substituted under this subsection ”.
 
@@ -109,10 +109,10 @@ The amendments made by sub-paragraphs (b) to (d) of this paragraph do not have e
 
 ## Annotations
 
-[^key-a6c8e83dce56328c8975fcabd536fb49]: Textual amendment: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/1988/43/schedule/8/paragraph/4) repealed (1.4.2013) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 4(b)](https://www.legislation.gov.uk/asp/2012/11/section/4/b), [5(2)](https://www.legislation.gov.uk/asp/2012/11/section/5/2)
+[^c-a6c8e83dce56328c8975fcabd536fb49]: Textual amendment: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/1988/43/schedule/8/paragraph/4) repealed (1.4.2013) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 4(b)](https://www.legislation.gov.uk/asp/2012/11/section/4/b), [5(2)](https://www.legislation.gov.uk/asp/2012/11/section/5/2)
 
-[^key-982df37f741dec7e076030f21007a50d]: Textual amendment: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/1988/43/schedule/8/paragraph/5) repealed (1.4.2013) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 4(b)](https://www.legislation.gov.uk/asp/2012/11/section/4/b), [5(2)](https://www.legislation.gov.uk/asp/2012/11/section/5/2)
+[^c-982df37f741dec7e076030f21007a50d]: Textual amendment: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/1988/43/schedule/8/paragraph/5) repealed (1.4.2013) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 4(b)](https://www.legislation.gov.uk/asp/2012/11/section/4/b), [5(2)](https://www.legislation.gov.uk/asp/2012/11/section/5/2)
 
-[^key-92c3b69a00a06f414462b1c1d35bba72]: Textual amendment: Sch. 8 para. 6 repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [Sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-92c3b69a00a06f414462b1c1d35bba72]: Textual amendment: Sch. 8 para. 6 repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [Sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
-[^key-8c25522c46b3f86c8b62a500a36c9c61]: Textual amendment: Sch. 8 para. 7 repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [Sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-8c25522c46b3f86c8b62a500a36c9c61]: Textual amendment: Sch. 8 para. 7 repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [Sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

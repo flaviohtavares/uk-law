@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Duty to deliver further information for transitional cases[^key-62c84ac99a9a97bec2d1442846668d0e]
+## SCHEDULE 6 — Duty to deliver further information for transitional cases[^c-62c84ac99a9a97bec2d1442846668d0e]
 
 *Extent: E+W+S+N.I.*
 
@@ -185,4 +185,4 @@ Section 8 (offence of failure to comply with updating duty) applies in relation 
 
 ## Annotations
 
-[^key-62c84ac99a9a97bec2d1442846668d0e]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ukpga/2022/10/schedule/6) inserted (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2023/56/schedule/7/paragraph/4)
+[^c-62c84ac99a9a97bec2d1442846668d0e]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ukpga/2022/10/schedule/6) inserted (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2023/56/schedule/7/paragraph/4)

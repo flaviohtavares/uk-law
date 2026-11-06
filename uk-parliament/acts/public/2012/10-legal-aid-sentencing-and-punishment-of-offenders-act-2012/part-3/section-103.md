@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Secretary of State may make arrangements for or in connection with the provision of accommodation of a kind listed in section 102(2) for[^key-e0bde3e343d88e5f7f4814933ce687c9] children remanded to youth detention accommodation.
+(1) The Secretary of State may make arrangements for or in connection with the provision of accommodation of a kind listed in section 102(2) for[^c-e0bde3e343d88e5f7f4814933ce687c9] children remanded to youth detention accommodation.
 
 (2) The Secretary of State may by regulations make provision about the recovery from the designated authority by a person mentioned in subsection (3) of the costs of—
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c22554361]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2012/10/section/103) wholly in force at 3.12.2012, see [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) and [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/c) (with [art. 7(1)(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/1/3))
 
-[^key-e0bde3e343d88e5f7f4814933ce687c9]: Textual amendment: Words in [s. 103(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/103/1) substituted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 9 para. 30](https://www.legislation.gov.uk/ukpga/2015/2/schedule/9/paragraph/30); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/c)
+[^c-e0bde3e343d88e5f7f4814933ce687c9]: Textual amendment: Words in [s. 103(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/103/1) substituted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 9 para. 30](https://www.legislation.gov.uk/ukpga/2015/2/schedule/9/paragraph/30); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/c)

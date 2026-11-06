@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Slaughter: control of carcases[^key-8784942fe1b3cd12eabd581a83d1b507]
+## 24. Slaughter: control of carcases[^c-8784942fe1b3cd12eabd581a83d1b507]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8784942fe1b3cd12eabd581a83d1b507]: Commencement: Reg. 24 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-8784942fe1b3cd12eabd581a83d1b507]: Commencement: Reg. 24 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

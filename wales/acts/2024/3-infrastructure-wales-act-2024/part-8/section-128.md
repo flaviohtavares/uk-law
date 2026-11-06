@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 128. Register of applications and pre-application services[^key-4c83690dee2e3b6c242a7b3f8e39143f][^key-d3c0ad700ffb7a1d64b11dd985c630f9]
+## 128. Register of applications and pre-application services[^c-4c83690dee2e3b6c242a7b3f8e39143f][^c-d3c0ad700ffb7a1d64b11dd985c630f9]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4c83690dee2e3b6c242a7b3f8e39143f]: Commencement: S. 128 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-4c83690dee2e3b6c242a7b3f8e39143f]: Commencement: S. 128 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-d3c0ad700ffb7a1d64b11dd985c630f9]: Commencement: [S. 128](https://www.legislation.gov.uk/asc/2024/3/section/128) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(i)](https://www.legislation.gov.uk/wsi/2025/698/article/3/i)
+[^c-d3c0ad700ffb7a1d64b11dd985c630f9]: Commencement: [S. 128](https://www.legislation.gov.uk/asc/2024/3/section/128) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(i)](https://www.legislation.gov.uk/wsi/2025/698/article/3/i)

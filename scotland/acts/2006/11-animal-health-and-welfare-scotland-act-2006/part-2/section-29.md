@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Abandonment[^key-980d3995174c6b2a0c8787f3bf763724]
+## 29. Abandonment[^c-980d3995174c6b2a0c8787f3bf763724]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-980d3995174c6b2a0c8787f3bf763724]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2006/11/section/29) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-980d3995174c6b2a0c8787f3bf763724]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2006/11/section/29) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

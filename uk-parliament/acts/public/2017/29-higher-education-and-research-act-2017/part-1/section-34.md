@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Review of decisions on approval or variation[^key-595a96f6bc33d11cc104c9fceb99b6d0]
+## 34. Review of decisions on approval or variation[^c-595a96f6bc33d11cc104c9fceb99b6d0]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ Regulations made by virtue of section 29 or 33 must include provision—
 
 ## Annotations
 
-[^key-595a96f6bc33d11cc104c9fceb99b6d0]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2017/29/section/34) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/d)
+[^c-595a96f6bc33d11cc104c9fceb99b6d0]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2017/29/section/34) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/d)

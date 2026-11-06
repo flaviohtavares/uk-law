@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80. Functions of appellate bodies[^key-c96cb878db93b050a05bff6b65a0c0ed]
+## 80. Functions of appellate bodies[^c-c96cb878db93b050a05bff6b65a0c0ed]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c96cb878db93b050a05bff6b65a0c0ed]: Commencement: S. 80 in force at 30.11.2010 by [S.I. 2010/2842](https://www.legislation.gov.uk/uksi/2010/2842), [art. 2](https://www.legislation.gov.uk/uksi/2010/2842/article/2)
+[^c-c96cb878db93b050a05bff6b65a0c0ed]: Commencement: S. 80 in force at 30.11.2010 by [S.I. 2010/2842](https://www.legislation.gov.uk/uksi/2010/2842), [art. 2](https://www.legislation.gov.uk/uksi/2010/2842/article/2)

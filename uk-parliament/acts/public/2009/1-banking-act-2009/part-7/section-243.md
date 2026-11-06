@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 243. Tenure[^key-2fbe429f84707e2cf2d1de705053f00c]
+## 243. Tenure[^c-2fbe429f84707e2cf2d1de705053f00c]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fbe429f84707e2cf2d1de705053f00c]: Commencement: S. 243 in force at 1.6.2009 by [S.I. 2009/1296](https://www.legislation.gov.uk/uksi/2009/1296), [art. 2](https://www.legislation.gov.uk/uksi/2009/1296/article/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2009/1296/schedule/paragraph/6)
+[^c-2fbe429f84707e2cf2d1de705053f00c]: Commencement: S. 243 in force at 1.6.2009 by [S.I. 2009/1296](https://www.legislation.gov.uk/uksi/2009/1296), [art. 2](https://www.legislation.gov.uk/uksi/2009/1296/article/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2009/1296/schedule/paragraph/6)

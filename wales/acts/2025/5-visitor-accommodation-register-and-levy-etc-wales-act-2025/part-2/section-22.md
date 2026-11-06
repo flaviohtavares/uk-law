@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Liability of personal representatives[^key-b38f61d48b530b7f0f5e3c11b2085d6e]
+## 22. Liability of personal representatives[^c-b38f61d48b530b7f0f5e3c11b2085d6e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b38f61d48b530b7f0f5e3c11b2085d6e]: Commencement: S. 22 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
+[^c-b38f61d48b530b7f0f5e3c11b2085d6e]: Commencement: S. 22 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)

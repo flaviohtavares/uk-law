@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Application and modification of legislative provisions[^key-97404d5da35be9d27e0e5577d367f35a]
+## 8. Application and modification of legislative provisions[^c-97404d5da35be9d27e0e5577d367f35a]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ The following enactments do not apply in relation to the construction of any wor
 
 ## Annotations
 
-[^key-97404d5da35be9d27e0e5577d367f35a]: Commencement: Art. 8 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-97404d5da35be9d27e0e5577d367f35a]: Commencement: Art. 8 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
 [^f00026]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57). Paragraph 5 was amended by section 100(1) and (2) of the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), section 84 of, and paragraph 3 of Schedule 11 to, the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), paragraph 49 of Schedule 25 to the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29) and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755). Paragraph 6 was amended by paragraph 26 of Schedule 15 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), section 224 of, and paragraph 24 of Schedule 16 and Part 5(B) of Schedule 22 to, the Marine and Coastal Access Act 2009 and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755). Paragraph 6A was inserted by section 103(3) of the Environment Act 1995.
 

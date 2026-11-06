@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the power conferred by paragraph 14A(1) of Schedule 23 to the Sentencing Act 2020[^f00001].
 
-## 1. Citation, commencement and extent[^key-0d98fe992f2b6ea6c544303f7c5310cb]
+## 1. Citation, commencement and extent[^c-0d98fe992f2b6ea6c544303f7c5310cb]
 
 (1) These Regulations may be cited as the Sentencing Act 2020 (Magistrates’ Court Sentencing Powers) (Amendment) Regulations 2023.
 
@@ -54,7 +54,7 @@ The Secretary of State makes the following Regulations in exercise of the power 
 
 (3) These Regulations come into force on 30th March 2023.
 
-## 2. Amendment of section 224(1A)(b) of the Sentencing Act 2020[^key-b45a2493c9d7a832d6df6a5fcee8d2da]
+## 2. Amendment of section 224(1A)(b) of the Sentencing Act 2020[^c-b45a2493c9d7a832d6df6a5fcee8d2da]
 
 In section 224(1A)(b) of the Sentencing Act 2020[^f00002] for “12 months” substitute “6 months”.
 
@@ -78,8 +78,8 @@ A full impact assessment of the effect of changes in magistrates’ court’s se
 
 [^f00001]: Footnote: [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17). Paragraph 14A of Schedule 23 was inserted by section 13(2) of the Judicial Review and Courts Act [2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35).
 
-[^key-0d98fe992f2b6ea6c544303f7c5310cb]: Commencement: Reg. 1 in force at 30.3.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/298/regulation/1/3)
+[^c-0d98fe992f2b6ea6c544303f7c5310cb]: Commencement: Reg. 1 in force at 30.3.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/298/regulation/1/3)
 
-[^key-b45a2493c9d7a832d6df6a5fcee8d2da]: Commencement: Reg. 2 in force at 30.3.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/298/regulation/1/3)
+[^c-b45a2493c9d7a832d6df6a5fcee8d2da]: Commencement: Reg. 2 in force at 30.3.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/298/regulation/1/3)
 
 [^f00002]: Footnote: [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17). Section 224(1A) was inserted by section 13(1)(b) of the Judicial Review and Courts Act [2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35).

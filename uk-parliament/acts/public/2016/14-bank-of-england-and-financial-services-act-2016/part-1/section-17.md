@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Saving and transitional provision relating to Part 1[^key-905ee3ae80641ef5cac03c9db18ba1c8][^key-fe7d851b5b66c6a7ca560cdabb3db654]
+## 17. Saving and transitional provision relating to Part 1[^c-905ee3ae80641ef5cac03c9db18ba1c8][^c-fe7d851b5b66c6a7ca560cdabb3db654]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 3 makes saving and transitional provision relating to this Part.
 
 ## Annotations
 
-[^key-905ee3ae80641ef5cac03c9db18ba1c8]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2016/14/section/17) in force at 6.7.2016 for specified purposes by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/3)
+[^c-905ee3ae80641ef5cac03c9db18ba1c8]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2016/14/section/17) in force at 6.7.2016 for specified purposes by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/3)
 
-[^key-fe7d851b5b66c6a7ca560cdabb3db654]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2016/14/section/17) in force at 1.3.2017 in so far as not already in force by [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/h)
+[^c-fe7d851b5b66c6a7ca560cdabb3db654]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2016/14/section/17) in force at 1.3.2017 in so far as not already in force by [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/h)

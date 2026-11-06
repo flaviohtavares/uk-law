@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 314. Works detrimental to navigation[^c2008205][^key-f91c701ad70f79542db74fc7c7f2a961]
+## 314. Works detrimental to navigation[^c2008205][^c-f91c701ad70f79542db74fc7c7f2a961]
 
 *Extent: E+W*
 
@@ -404,4 +404,4 @@ summary: ''
 
 [^c2008205]: Commencement: [S. 314](https://www.legislation.gov.uk/ukpga/2009/23/section/314) partly in force; [s. 314](https://www.legislation.gov.uk/ukpga/2009/23/section/314) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-f91c701ad70f79542db74fc7c7f2a961]: Commencement: [S. 314](https://www.legislation.gov.uk/ukpga/2009/23/section/314) in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/c)
+[^c-f91c701ad70f79542db74fc7c7f2a961]: Commencement: [S. 314](https://www.legislation.gov.uk/ukpga/2009/23/section/314) in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/c)

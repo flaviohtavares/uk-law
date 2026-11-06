@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Interpretation[^key-d6d0d7e3390561c156856d2d06fe0498]
+## 64. Interpretation[^c-d6d0d7e3390561c156856d2d06fe0498]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ In this Part—
 
 ## Annotations
 
-[^key-d6d0d7e3390561c156856d2d06fe0498]: Commencement: Reg. 64 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-d6d0d7e3390561c156856d2d06fe0498]: Commencement: Reg. 64 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Powers under warrants[^key-9c6e8b253eae4448c17becf716a9b969]
+## 26. Powers under warrants[^c-9c6e8b253eae4448c17becf716a9b969]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c6e8b253eae4448c17becf716a9b969]: Commencement: S. 26 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-9c6e8b253eae4448c17becf716a9b969]: Commencement: S. 26 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)

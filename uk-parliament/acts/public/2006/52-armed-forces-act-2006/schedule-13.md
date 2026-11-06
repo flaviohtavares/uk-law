@@ -22,7 +22,7 @@ summary: ''
 
 Section 353
 
-**1.**[^key-38ab62a0f4a7ad1752d679c180eb4538][^key-25e02848fcad03dacc0ae0ce4051e5b5] (1) Section 17 of the Armed Forces Act 1991 (power to make service family child assessment orders) is amended as follows.
+**1.**[^c-38ab62a0f4a7ad1752d679c180eb4538][^c-25e02848fcad03dacc0ae0ce4051e5b5] (1) Section 17 of the Armed Forces Act 1991 (power to make service family child assessment orders) is amended as follows.
 
 (2) In subsection (1)(a) for “civilian in a corresponding position” substitute “ civilian subject to service discipline ”
 
@@ -33,7 +33,7 @@ Section 353
 - (a) for “the officer” substitute “ the judge advocate ”;
 - (b) for “an officer” substitute “ a judge advocate ”.
 
-**2.**[^key-f99d635ee1a2bcbd096bf5c96026c071][^key-bd9630149c857e8b93a754f3b8682827] (1) Section 18 of that Act (content, effect, variation and discharge of assessment orders) is amended as follows.
+**2.**[^c-f99d635ee1a2bcbd096bf5c96026c071][^c-bd9630149c857e8b93a754f3b8682827] (1) Section 18 of that Act (content, effect, variation and discharge of assessment orders) is amended as follows.
 
 (2) In subsection (2)(b) for “officer” substitute “ judge advocate ”.
 
@@ -55,7 +55,7 @@ Section 353
 
 (6) Omit subsection (9).
 
-**3.**[^key-8ffc00ffc205ef7c4d3e672cb0ac23d5][^key-bac8bd03aa4d3f31c86dc3de4c65f641] (1) Section 19 of that Act (power to make orders for the emergency protection of children of service families) is amended as follows.
+**3.**[^c-8ffc00ffc205ef7c4d3e672cb0ac23d5][^c-bac8bd03aa4d3f31c86dc3de4c65f641] (1) Section 19 of that Act (power to make orders for the emergency protection of children of service families) is amended as follows.
 
 (2) In subsection (1)(a) for “civilian in a corresponding position” substitute “ civilian subject to service discipline ”.
 
@@ -63,7 +63,7 @@ Section 353
 
 (4) In subsection (4) for “officer”, in both places, substitute “ judge advocate ”.
 
-**4.**[^key-909a1dc9dff1049da0ec6d4af92c07d7][^key-5a77749e1338ca1894c229e082d7da5d] (1) Section 20 of that Act (content and effect of protection orders) is amended as follows.
+**4.**[^c-909a1dc9dff1049da0ec6d4af92c07d7][^c-5a77749e1338ca1894c229e082d7da5d] (1) Section 20 of that Act (content and effect of protection orders) is amended as follows.
 
 (2) In subsection (4) for “officer” substitute “ judge advocate ”.
 
@@ -82,7 +82,7 @@ Section 353
 >
 > (9C) For the purposes of determining the court's powers when sentencing an offender to whom Part 2 of that Schedule applies (ex-servicemen etc) for an offence under this section, subsection (9A) has effect as if the reference to rows 5 to 12 were to rows 5 to 10.
 
-**5.**[^key-6e935a748b5c35b34391c7f5648f842d][^key-d4795a2494a766f3a275970c27f1f166] After that section insert—
+**5.**[^c-6e935a748b5c35b34391c7f5648f842d][^c-d4795a2494a766f3a275970c27f1f166] After that section insert—
 
 > **20A. Power to include exclusion requirement in protection order**
 >
@@ -120,7 +120,7 @@ Section 353
 >
 > (8) Who is the relevant person's “**commanding officer**” for the purposes of subsection (5)(b) shall be determined by or under regulations made by the Defence Council.
 
-**6.**[^key-3bec786d5f7b2a1c9c181d6438003c92][^key-12c4da58cd8696356015ef96805d910a] (1) Section 21 of that Act (duration of protection orders) is amended as follows.
+**6.**[^c-3bec786d5f7b2a1c9c181d6438003c92][^c-12c4da58cd8696356015ef96805d910a] (1) Section 21 of that Act (duration of protection orders) is amended as follows.
 
 (2) In subsection (1) for the words from “being” to the end substitute “ which must be a period of not more than 28 days beginning with the date of the order. ”
 
@@ -134,7 +134,7 @@ Section 353
 
 (5) In subsection (5) for “an officer” substitute “ a judge advocate ”.
 
-**7.**[^key-7e12f75b86a96a1aea527ddbcd0e474d][^key-a29f8bbf65c9ad59bbf80837e96b49f3] (1) Section 22 of that Act (review and discharge of protection orders) is amended as follows.
+**7.**[^c-7e12f75b86a96a1aea527ddbcd0e474d][^c-a29f8bbf65c9ad59bbf80837e96b49f3] (1) Section 22 of that Act (review and discharge of protection orders) is amended as follows.
 
 (2) In subsection (2) for “superior officer” substitute “ judge advocate ”.
 
@@ -158,7 +158,7 @@ Section 353
 
 (6) In subsection (7) for “officer” substitute “ judge advocate ”.
 
-**8.**[^key-eb1a01d75ca6431c73290f7867fd1193][^key-6ff0e822a6bdc688d9f2eb83bfb70ec2] After that section insert—
+**8.**[^c-eb1a01d75ca6431c73290f7867fd1193][^c-6ff0e822a6bdc688d9f2eb83bfb70ec2] After that section insert—
 
 > **22A. Removal and accommodation of children by service police in emergency**
 >
@@ -212,7 +212,7 @@ Section 353
 > - “**relevant child**” means a child who falls within paragraph (a) or (b) of section 19(1) above;
 > - “**service policeman**” has the same meaning as in the Armed Forces Act 1996.
 
-**9.**[^key-f9bf458615f8e624bdd4e912212f2823][^key-2900e3b53857ee04a77d6fc1640c1703] (1) Section 23 of that Act (interpretation) is amended as follows.
+**9.**[^c-f9bf458615f8e624bdd4e912212f2823][^c-2900e3b53857ee04a77d6fc1640c1703] (1) Section 23 of that Act (interpretation) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -250,38 +250,38 @@ Section 353
 
 ## Annotations
 
-[^key-38ab62a0f4a7ad1752d679c180eb4538]: Commencement: Sch. 13 para. 1 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-38ab62a0f4a7ad1752d679c180eb4538]: Commencement: Sch. 13 para. 1 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-25e02848fcad03dacc0ae0ce4051e5b5]: Commencement: Sch. 13 para. 1 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-25e02848fcad03dacc0ae0ce4051e5b5]: Commencement: Sch. 13 para. 1 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-f99d635ee1a2bcbd096bf5c96026c071]: Commencement: Sch. 13 para. 2 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-f99d635ee1a2bcbd096bf5c96026c071]: Commencement: Sch. 13 para. 2 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-bd9630149c857e8b93a754f3b8682827]: Commencement: Sch. 13 para. 2 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-bd9630149c857e8b93a754f3b8682827]: Commencement: Sch. 13 para. 2 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-8ffc00ffc205ef7c4d3e672cb0ac23d5]: Commencement: Sch. 13 para. 3 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-8ffc00ffc205ef7c4d3e672cb0ac23d5]: Commencement: Sch. 13 para. 3 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-bac8bd03aa4d3f31c86dc3de4c65f641]: Commencement: Sch. 13 para. 3 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-bac8bd03aa4d3f31c86dc3de4c65f641]: Commencement: Sch. 13 para. 3 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-909a1dc9dff1049da0ec6d4af92c07d7]: Commencement: Sch. 13 para. 4 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-909a1dc9dff1049da0ec6d4af92c07d7]: Commencement: Sch. 13 para. 4 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-5a77749e1338ca1894c229e082d7da5d]: Commencement: Sch. 13 para. 4 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-5a77749e1338ca1894c229e082d7da5d]: Commencement: Sch. 13 para. 4 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-6e935a748b5c35b34391c7f5648f842d]: Commencement: Sch. 13 para. 5 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-6e935a748b5c35b34391c7f5648f842d]: Commencement: Sch. 13 para. 5 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-d4795a2494a766f3a275970c27f1f166]: Commencement: Sch. 13 para. 5 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-d4795a2494a766f3a275970c27f1f166]: Commencement: Sch. 13 para. 5 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-3bec786d5f7b2a1c9c181d6438003c92]: Commencement: Sch. 13 para. 6 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-3bec786d5f7b2a1c9c181d6438003c92]: Commencement: Sch. 13 para. 6 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-12c4da58cd8696356015ef96805d910a]: Commencement: Sch. 13 para. 6 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-12c4da58cd8696356015ef96805d910a]: Commencement: Sch. 13 para. 6 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-7e12f75b86a96a1aea527ddbcd0e474d]: Commencement: Sch. 13 para. 7 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-7e12f75b86a96a1aea527ddbcd0e474d]: Commencement: Sch. 13 para. 7 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-a29f8bbf65c9ad59bbf80837e96b49f3]: Commencement: Sch. 13 para. 7 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-a29f8bbf65c9ad59bbf80837e96b49f3]: Commencement: Sch. 13 para. 7 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-eb1a01d75ca6431c73290f7867fd1193]: Commencement: Sch. 13 para. 8 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-eb1a01d75ca6431c73290f7867fd1193]: Commencement: Sch. 13 para. 8 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-6ff0e822a6bdc688d9f2eb83bfb70ec2]: Commencement: Sch. 13 para. 8 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-6ff0e822a6bdc688d9f2eb83bfb70ec2]: Commencement: Sch. 13 para. 8 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-f9bf458615f8e624bdd4e912212f2823]: Commencement: Sch. 13 para. 9 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-f9bf458615f8e624bdd4e912212f2823]: Commencement: Sch. 13 para. 9 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-2900e3b53857ee04a77d6fc1640c1703]: Commencement: Sch. 13 para. 9 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-2900e3b53857ee04a77d6fc1640c1703]: Commencement: Sch. 13 para. 9 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

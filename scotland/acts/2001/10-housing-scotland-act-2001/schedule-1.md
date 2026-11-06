@@ -30,12 +30,12 @@ summary: ''
 
 ### 2. Police and fire service accommodation
 
-[^key-c945af9b5d618e1923ed6891dcd265b3]...
+[^c-c945af9b5d618e1923ed6891dcd265b3]...
 
-(2)[^key-c90d6e5c7ca71966e3c94d9f87f3c6cd] A tenancy is not a Scottish secure tenancy if the landlord is a local authority landlord and—
+(2)[^c-c90d6e5c7ca71966e3c94d9f87f3c6cd] A tenancy is not a Scottish secure tenancy if the landlord is a local authority landlord and—
 
-- (a) the house occupied by the tenant is provided[^key-ac59de4fa919cf9c0254002211d37ee0] by the landlord for the purposes of the Police Service of Scotland[^key-0db67715929fb700650756304e605bf1] , or
-- (b) the tenant is let the house expressly on a temporary basis pending its being required for the purposes of the Police Service of Scotland[^key-b275be82035f61f290d2768f4698c309] .
+- (a) the house occupied by the tenant is provided[^c-ac59de4fa919cf9c0254002211d37ee0] by the landlord for the purposes of the Police Service of Scotland[^c-0db67715929fb700650756304e605bf1] , or
+- (b) the tenant is let the house expressly on a temporary basis pending its being required for the purposes of the Police Service of Scotland[^c-b275be82035f61f290d2768f4698c309] .
 
 (3) Sub-paragraph (2)(a) does not prevent a tenancy from being a Scottish secure tenancy if—
 
@@ -94,7 +94,7 @@ A tenancy is not a Scottish secure tenancy if the house—
 
 - (a) is let together with agricultural land exceeding two acres in extent,
 - (b) consists of or includes premises which are used as a shop or office for business, trade or professional purposes,
-- (c) consists of or includes premises licensed for the sale of alcohol (within the meaning of section 2 of the Licensing (Scotland) Act 2005)[^key-8d2c24c49947ff292b479c96f8c858e1] , or
+- (c) consists of or includes premises licensed for the sale of alcohol (within the meaning of section 2 of the Licensing (Scotland) Act 2005)[^c-8d2c24c49947ff292b479c96f8c858e1] , or
 - (d) is let in conjunction with any purpose mentioned in sub-paragraph (b) or (c).
 
 ### 9. Houses part of, or within curtilage of, certain other buildings
@@ -108,7 +108,7 @@ A tenancy is not a Scottish secure tenancy if the house forms part of, or is wit
 
 A tenancy is not a Scottish secure tenancy if the house is leased by the landlord from another body and the terms of the lease preclude the letting of the house by the landlord under a Scottish secure tenancy.
 
-### 11. ...[^key-5c22bf11e8411bc233d4b81f86d7b720][^key-5c22bf11e8411bc233d4b81f86d7b720]
+### 11. ...[^c-5c22bf11e8411bc233d4b81f86d7b720][^c-5c22bf11e8411bc233d4b81f86d7b720]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -116,16 +116,16 @@ A tenancy is not a Scottish secure tenancy if the house is leased by the landlor
 
 [^c1582220]: Commencement: Sch. 1 wholly in force at 30.9.2002, see s. 113(1)(2) and [S.S.I. 2002/321](https://www.legislation.gov.uk/ssi/2002/321), [art. 2](https://www.legislation.gov.uk/ssi/2002/321/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2002/321/schedule) (subject to transitional provisions and savings in [arts. 3-5](https://www.legislation.gov.uk/ssi/2002/321/article/3))
 
-[^key-c945af9b5d618e1923ed6891dcd265b3]: Textual amendment: Words in sch. 1 para. 2 repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-c945af9b5d618e1923ed6891dcd265b3]: Textual amendment: Words in sch. 1 para. 2 repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-c90d6e5c7ca71966e3c94d9f87f3c6cd]: Textual amendment: Sch. 1 para. 2(2)-(4) inserted (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 154(c)](https://www.legislation.gov.uk/asp/2010/17/section/154/c), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-c90d6e5c7ca71966e3c94d9f87f3c6cd]: Textual amendment: Sch. 1 para. 2(2)-(4) inserted (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 154(c)](https://www.legislation.gov.uk/asp/2010/17/section/154/c), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
 
-[^key-ac59de4fa919cf9c0254002211d37ee0]: Textual amendment: Word in sch. 1 para. 2(2)(a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 18(a)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/18/a)
+[^c-ac59de4fa919cf9c0254002211d37ee0]: Textual amendment: Word in sch. 1 para. 2(2)(a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 18(a)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/18/a)
 
-[^key-0db67715929fb700650756304e605bf1]: Textual amendment: Words in sch. 1 para. 2(2)(a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 18(b)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/18/b)
+[^c-0db67715929fb700650756304e605bf1]: Textual amendment: Words in sch. 1 para. 2(2)(a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 18(b)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/18/b)
 
-[^key-b275be82035f61f290d2768f4698c309]: Textual amendment: Words in sch. 1 para. 2(2)(b) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 18(b)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/18/b)
+[^c-b275be82035f61f290d2768f4698c309]: Textual amendment: Words in sch. 1 para. 2(2)(b) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 18(b)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/18/b)
 
-[^key-8d2c24c49947ff292b479c96f8c858e1]: Textual amendment: Words in [sch. 1 para. 8](https://www.legislation.gov.uk/asp/2001/10/schedule/1/paragraph/8) substituted (1.9.2009 at 5.00 a.m.) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [sch. 1 para. 9](https://www.legislation.gov.uk/ssi/2009/248/schedule/1/paragraph/9) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/248/article/3))
+[^c-8d2c24c49947ff292b479c96f8c858e1]: Textual amendment: Words in [sch. 1 para. 8](https://www.legislation.gov.uk/asp/2001/10/schedule/1/paragraph/8) substituted (1.9.2009 at 5.00 a.m.) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [sch. 1 para. 9](https://www.legislation.gov.uk/ssi/2009/248/schedule/1/paragraph/9) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/248/article/3))
 
-[^key-5c22bf11e8411bc233d4b81f86d7b720]: Textual amendment: Sch. 1 para. 11 and heading repealed (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2019/745/schedule/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5c22bf11e8411bc233d4b81f86d7b720]: Textual amendment: Sch. 1 para. 11 and heading repealed (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2019/745/schedule/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -62,7 +62,7 @@ The Secretary of State for Work and Pensions makes the following Regulations in 
 
 The instruments specified in the Schedule, which relate to the European Network of Employment Services, are revoked.
 
-## 3. Transitional and consequential provisions on the revocation of retained EU instruments[^key-0438d68ad9a4c21cc396e61f9c49f37c]
+## 3. Transitional and consequential provisions on the revocation of retained EU instruments[^c-0438d68ad9a4c21cc396e61f9c49f37c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -107,6 +107,6 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23480351]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1283/regulation/2) in force on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1283/regulation/1) and [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0438d68ad9a4c21cc396e61f9c49f37c]: Textual amendment: Reg. 3 omitted (31.7.2021) by virtue of [The Social Security (Reciprocal Agreements) (Miscellaneous Amendments) (EU Exit) Regulations 2021 (S.I. 2021/811)](https://www.legislation.gov.uk/uksi/2021/811), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/811/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2021/811/regulation/5/2)
+[^c-0438d68ad9a4c21cc396e61f9c49f37c]: Textual amendment: Reg. 3 omitted (31.7.2021) by virtue of [The Social Security (Reciprocal Agreements) (Miscellaneous Amendments) (EU Exit) Regulations 2021 (S.I. 2021/811)](https://www.legislation.gov.uk/uksi/2021/811), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/811/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2021/811/regulation/5/2)
 
 [^c23480371]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2018/1283/schedule) in force on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1283/regulation/1) and [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

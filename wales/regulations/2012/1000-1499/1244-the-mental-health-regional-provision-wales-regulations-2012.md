@@ -41,7 +41,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 A draft of this instrument, has been laid before the National Assembly for Wales in accordance with section 52(5)(b) of the Measure, and approved by resolution of the National Assembly for Wales.
 
-## 1. Title, commencement and application[^key-4dda4a854ac6a464e1cd8404dc29e846][^key-ef25bd7818760c16d7f92ff75df67bb4]
+## 1. Title, commencement and application[^c-4dda4a854ac6a464e1cd8404dc29e846][^c-ef25bd7818760c16d7f92ff75df67bb4]
 
 (1) The title of these Regulations is the Mental Health (Regional Provision) (Wales) Regulations 2012.
 
@@ -52,11 +52,11 @@ A draft of this instrument, has been laid before the National Assembly for Wales
 
 (3) These Regulations apply in relation to Wales.
 
-## 2. Interpretation[^key-d5b66205f1736234cbd0623b7787626c][^key-e615faa1b74d5d86a64248a790c87a5f]
+## 2. Interpretation[^c-d5b66205f1736234cbd0623b7787626c][^c-e615faa1b74d5d86a64248a790c87a5f]
 
 In these Regulations “the Measure” (“*y Mesur*”) means the Mental Health (Wales) Measure 2010.
 
-## 3. Regional provision for Part 1 of the Measure[^key-8bacf40baab08cd798a725a36b89cab2][^key-847d6eadf3a917429bcead87b3fc5fb1]
+## 3. Regional provision for Part 1 of the Measure[^c-8bacf40baab08cd798a725a36b89cab2][^c-847d6eadf3a917429bcead87b3fc5fb1]
 
 (1) Subject to paragraph (4), in order to secure regional provision as provided in section 45 of the Measure Part 1 (local primary mental health support services) of the Measure is disapplied in relation to the local authority areas which are identified in Schedule 1 to these Regulations.
 
@@ -66,7 +66,7 @@ In these Regulations “the Measure” (“*y Mesur*”) means the Mental Health
 
 (4) Sections 6 (duties to carry out primary mental health assessments: referrals for registered patients in primary care), 7 (duties to carry out primary mental health assessments: other primary care referrals) and 8 (duties to carry out primary mental health assessments: secondary mental health care referrals) are not disapplied for the purposes of paragraph (1) or applied for the purposes of paragraph (2) except to the extent to which they relate to the scheme referred to in section 2(4) or 2(5) (joint schemes for the provision of local primary mental health support services) for the region in sections 7(6) and 8(2) and (5).
 
-## 4. Regional provision for Part 3 of the Measure[^key-4994eece6cb6d9049eb70edabe0c0036][^M_I_8ac3dfd4-6540-4485-c74b-aade7e80a770]
+## 4. Regional provision for Part 3 of the Measure[^c-4994eece6cb6d9049eb70edabe0c0036][^M_I_8ac3dfd4-6540-4485-c74b-aade7e80a770]
 
 (1) Subject to paragraph (4), in order to secure regional provision as provided in section 46 of the Measure Part 3 (assessments of former users of secondary mental health services) of the Measure is disapplied in relation to the local authority areas which are identified in Schedule 1 to these Regulations.
 
@@ -85,11 +85,11 @@ Minister for Health and Social Services, one of the Welsh Ministers
 
 8 May 2012
 
-## SCHEDULE 1 — Local authority areas which are disapplied in order to secure regional provision for Parts 1 and 3 of the Measure[^key-59652ef72ca112889a964ecd86013545][^key-7e9bc67a36809e3a86e9cbcba96cbe38]
+## SCHEDULE 1 — Local authority areas which are disapplied in order to secure regional provision for Parts 1 and 3 of the Measure[^c-59652ef72ca112889a964ecd86013545][^c-7e9bc67a36809e3a86e9cbcba96cbe38]
 
 Regulations 3(1) and 4(1)
 
-[^key-59652ef72ca112889a964ecd86013545][^key-7e9bc67a36809e3a86e9cbcba96cbe38]
+[^c-59652ef72ca112889a964ecd86013545][^c-7e9bc67a36809e3a86e9cbcba96cbe38]
 
 - Blaenau Gwent County Borough Council
 - Bridgend County Borough Council
@@ -113,7 +113,7 @@ Regulations 3(1) and 4(1)
 - Vale of Glamorgan Council
 - Wrexham County Borough Council
 
-## SCHEDULE 2 — Regional provision and assigned local mental health partners for Parts 1 and 3 of the Measure[^key-552291da82e75fe1c14b4d77ef3d479e][^key-0e8e63a005d320ea433b085f8537e477]
+## SCHEDULE 2 — Regional provision and assigned local mental health partners for Parts 1 and 3 of the Measure[^c-552291da82e75fe1c14b4d77ef3d479e][^c-0e8e63a005d320ea433b085f8537e477]
 
 Regulations 3(2) and (3) and 4(2) and (3)
 
@@ -157,7 +157,7 @@ Regulations 3(2) and (3) and 4(2) and (3)
 </tbody>
 </table>
 
-[^key-823befb3198527b515b4155fd4bf607e][^key-bcff575b6e36cf7c59c2eb0971f23ef1][^key-30e52a2286cccc7bedaf5615b3ae9845][^key-ff070b2b764c62f1d472631f6d858fad][^key-af41590c8d7b4c15cda6be30e1b2b2c8][^key-90e0f784173104dacfa1d04187f49c5b][^key-f6392cd33202edd70c9db235c4908bda]
+[^c-823befb3198527b515b4155fd4bf607e][^c-bcff575b6e36cf7c59c2eb0971f23ef1][^c-30e52a2286cccc7bedaf5615b3ae9845][^c-ff070b2b764c62f1d472631f6d858fad][^c-af41590c8d7b4c15cda6be30e1b2b2c8][^c-90e0f784173104dacfa1d04187f49c5b][^c-f6392cd33202edd70c9db235c4908bda]
 
 (This note is not part of the Regulations)
 
@@ -179,40 +179,40 @@ Regulations 3(2) and (3) and 4(2) and (3)
 
 [^f00001]: Footnote: [2010 nawm 7](https://www.legislation.gov.uk/mwa/2010/7).
 
-[^key-4dda4a854ac6a464e1cd8404dc29e846]: Commencement: Reg. 1 in force at 8.5.2012 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/a)
+[^c-4dda4a854ac6a464e1cd8404dc29e846]: Commencement: Reg. 1 in force at 8.5.2012 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/a)
 
-[^key-ef25bd7818760c16d7f92ff75df67bb4]: Commencement: Reg. 1 in force at 6.6.2012 in force in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/b)
+[^c-ef25bd7818760c16d7f92ff75df67bb4]: Commencement: Reg. 1 in force at 6.6.2012 in force in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/b)
 
-[^key-d5b66205f1736234cbd0623b7787626c]: Commencement: Reg. 2 in force at 8.5.2012 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/a)
+[^c-d5b66205f1736234cbd0623b7787626c]: Commencement: Reg. 2 in force at 8.5.2012 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/a)
 
-[^key-e615faa1b74d5d86a64248a790c87a5f]: Commencement: Reg. 2 in force at 6.6.2012 in force in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/b)
+[^c-e615faa1b74d5d86a64248a790c87a5f]: Commencement: Reg. 2 in force at 6.6.2012 in force in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/b)
 
-[^key-8bacf40baab08cd798a725a36b89cab2]: Commencement: Reg. 3 in force at 8.5.2012 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/a)
+[^c-8bacf40baab08cd798a725a36b89cab2]: Commencement: Reg. 3 in force at 8.5.2012 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/a)
 
-[^key-847d6eadf3a917429bcead87b3fc5fb1]: Commencement: Reg. 3 in force at 6.6.2012 in force in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/b)
+[^c-847d6eadf3a917429bcead87b3fc5fb1]: Commencement: Reg. 3 in force at 6.6.2012 in force in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/b)
 
-[^key-4994eece6cb6d9049eb70edabe0c0036]: Commencement: Reg. 4 in force at 8.5.2012 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/a)
+[^c-4994eece6cb6d9049eb70edabe0c0036]: Commencement: Reg. 4 in force at 8.5.2012 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/a)
 
 [^M_I_8ac3dfd4-6540-4485-c74b-aade7e80a770]: Commencement: Reg. 4 in force at 6.6.2012 in force in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/b)
 
-[^key-59652ef72ca112889a964ecd86013545]: Commencement: Sch. 1 in force at 8.5.2012 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/a)
+[^c-59652ef72ca112889a964ecd86013545]: Commencement: Sch. 1 in force at 8.5.2012 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/a)
 
-[^key-7e9bc67a36809e3a86e9cbcba96cbe38]: Commencement: Sch. 1 in force at 6.6.2012 in force in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/b)
+[^c-7e9bc67a36809e3a86e9cbcba96cbe38]: Commencement: Sch. 1 in force at 6.6.2012 in force in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/b)
 
-[^key-552291da82e75fe1c14b4d77ef3d479e]: Commencement: Sch. 2 in force at 8.5.2012 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/a)
+[^c-552291da82e75fe1c14b4d77ef3d479e]: Commencement: Sch. 2 in force at 8.5.2012 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/a)
 
-[^key-0e8e63a005d320ea433b085f8537e477]: Commencement: Sch. 2 in force at 6.6.2012 in force in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/b)
+[^c-0e8e63a005d320ea433b085f8537e477]: Commencement: Sch. 2 in force at 6.6.2012 in force in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2012/1244/regulation/1/2/b)
 
-[^key-823befb3198527b515b4155fd4bf607e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2012/1244/schedule/2) omitted (1.4.2019) by virtue of [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/wsi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/349/article/1/1), [8(2)(a)](https://www.legislation.gov.uk/wsi/2019/349/article/8/2/a)
+[^c-823befb3198527b515b4155fd4bf607e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2012/1244/schedule/2) omitted (1.4.2019) by virtue of [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/wsi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/349/article/1/1), [8(2)(a)](https://www.legislation.gov.uk/wsi/2019/349/article/8/2/a)
 
-[^key-bcff575b6e36cf7c59c2eb0971f23ef1]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2012/1244/schedule/2) omitted (1.4.2019) by virtue of [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/wsi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/349/article/1/1), [8(3)(a)(i)](https://www.legislation.gov.uk/wsi/2019/349/article/8/3/a/i)
+[^c-bcff575b6e36cf7c59c2eb0971f23ef1]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2012/1244/schedule/2) omitted (1.4.2019) by virtue of [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/wsi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/349/article/1/1), [8(3)(a)(i)](https://www.legislation.gov.uk/wsi/2019/349/article/8/3/a/i)
 
-[^key-30e52a2286cccc7bedaf5615b3ae9845]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2012/1244/schedule/2) omitted (1.4.2019) by virtue of [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/wsi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/349/article/1/1), [8(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2019/349/article/8/3/a/ii)
+[^c-30e52a2286cccc7bedaf5615b3ae9845]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2012/1244/schedule/2) omitted (1.4.2019) by virtue of [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/wsi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/349/article/1/1), [8(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2019/349/article/8/3/a/ii)
 
-[^key-ff070b2b764c62f1d472631f6d858fad]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2012/1244/schedule/2) inserted (1.4.2019) by [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/wsi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/349/article/1/1), [8(3)(a)(i)](https://www.legislation.gov.uk/wsi/2019/349/article/8/3/a/i)
+[^c-ff070b2b764c62f1d472631f6d858fad]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2012/1244/schedule/2) inserted (1.4.2019) by [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/wsi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/349/article/1/1), [8(3)(a)(i)](https://www.legislation.gov.uk/wsi/2019/349/article/8/3/a/i)
 
-[^key-af41590c8d7b4c15cda6be30e1b2b2c8]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2012/1244/schedule/2) inserted (1.4.2019) by [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/wsi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/349/article/1/1), [8(2)(b)](https://www.legislation.gov.uk/wsi/2019/349/article/8/2/b)
+[^c-af41590c8d7b4c15cda6be30e1b2b2c8]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2012/1244/schedule/2) inserted (1.4.2019) by [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/wsi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/349/article/1/1), [8(2)(b)](https://www.legislation.gov.uk/wsi/2019/349/article/8/2/b)
 
-[^key-90e0f784173104dacfa1d04187f49c5b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2012/1244/schedule/2) inserted (1.4.2019) by [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/wsi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/349/article/1/1), [8(3)(b)(i)](https://www.legislation.gov.uk/wsi/2019/349/article/8/3/b/i)
+[^c-90e0f784173104dacfa1d04187f49c5b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2012/1244/schedule/2) inserted (1.4.2019) by [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/wsi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/349/article/1/1), [8(3)(b)(i)](https://www.legislation.gov.uk/wsi/2019/349/article/8/3/b/i)
 
-[^key-f6392cd33202edd70c9db235c4908bda]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2012/1244/schedule/2) substituted (1.4.2019) by [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/wsi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/349/article/1/1), [8(3)(b)(ii)](https://www.legislation.gov.uk/wsi/2019/349/article/8/3/b/ii)
+[^c-f6392cd33202edd70c9db235c4908bda]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2012/1244/schedule/2) substituted (1.4.2019) by [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/wsi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/349/article/1/1), [8(3)(b)(ii)](https://www.legislation.gov.uk/wsi/2019/349/article/8/3/b/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Indemnities: repayment by registered provider etc[^key-10f8b81f907c9dce2c91daec3318352f]
+## 111. Indemnities: repayment by registered provider etc[^c-10f8b81f907c9dce2c91daec3318352f]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10f8b81f907c9dce2c91daec3318352f]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2016/22/section/111) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
+[^c-10f8b81f907c9dce2c91daec3318352f]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2016/22/section/111) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)

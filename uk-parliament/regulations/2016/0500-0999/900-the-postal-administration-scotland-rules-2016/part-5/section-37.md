@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Submission of claims[^key-ac86b36369146a4172f2c3abce551828]
+## 37. Submission of claims[^c-ac86b36369146a4172f2c3abce551828]
 
 *Extent: S*
 
@@ -36,10 +36,10 @@ but the postal administrator may dispense with any requirement of this paragraph
 
 (4) A creditor, who has submitted a claim, may at any time submit a further claim specifying a different amount for the creditor’s claim;
 
-Provided that a secured creditor shall not be entitled to produce a further claim specifying a different value for the security at any time after the postal administrator has required the creditor to discharge, or convey or assign, the security under Rule 38(2)[^key-8b2d0f60e8c39180025bfb9bc59fcb2e].
+Provided that a secured creditor shall not be entitled to produce a further claim specifying a different value for the security at any time after the postal administrator has required the creditor to discharge, or convey or assign, the security under Rule 38(2)[^c-8b2d0f60e8c39180025bfb9bc59fcb2e].
 
 ## Annotations
 
-[^key-ac86b36369146a4172f2c3abce551828]: Commencement: Rule 37 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-ac86b36369146a4172f2c3abce551828]: Commencement: Rule 37 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
-[^key-8b2d0f60e8c39180025bfb9bc59fcb2e]: Textual amendment: Words in [rule 37(4)](https://www.legislation.gov.uk/uksi/2016/900/rule/37/4) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
+[^c-8b2d0f60e8c39180025bfb9bc59fcb2e]: Textual amendment: Words in [rule 37(4)](https://www.legislation.gov.uk/uksi/2016/900/rule/37/4) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)

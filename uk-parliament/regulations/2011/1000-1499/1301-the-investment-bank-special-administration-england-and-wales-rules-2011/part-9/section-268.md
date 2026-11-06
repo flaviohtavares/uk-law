@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 268. Costs and expenses of witnesses[^key-10a9a92e0d23318845d9e60e041420af]
+## 268. Costs and expenses of witnesses[^c-10a9a92e0d23318845d9e60e041420af]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Except as directed by the court, no allowance as a witness in any examination or
 
 ## Annotations
 
-[^key-10a9a92e0d23318845d9e60e041420af]: Commencement: [Rule 268](https://www.legislation.gov.uk/uksi/2011/1301/rule/268) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-10a9a92e0d23318845d9e60e041420af]: Commencement: [Rule 268](https://www.legislation.gov.uk/uksi/2011/1301/rule/268) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 85 and 163
 
-**1.**[^key-28a038e5b71100e49fd9d72c41f9d768] In this Schedule—
+**1.**[^c-28a038e5b71100e49fd9d72c41f9d768] In this Schedule—
 
 - “**emergency response plan**” means the plan referred to in regulation 104 (in the case of a spaceflight operator) and in regulation 165 (in the case of a spaceport licensee);
 - “**licensed activities**” means the activities which a person is authorised to carry out by virtue of a launch operator licence, a return operator licence or a spaceport licence;
@@ -36,14 +36,14 @@ Regulations 85 and 163
   - (b) regulation 171(5)(f), in the case of a spaceflight operator, and
   - (c) regulation 185(2)(f), in the case of either a spaceport licensee or a spaceflight operator.
 
-**2.**[^key-8c31dc904ebd3f53cadc17458df8b260] A safety management system must—
+**2.**[^c-8c31dc904ebd3f53cadc17458df8b260] A safety management system must—
 
 - (a) be proportionate to the hazards, licensed activities and complexity of the licensee’s organisation,
 - (b) be based on an assessment of the risks,
 - (c) include within its scope the general management system, including the organisational structure, responsibilities, practices, procedures, processes and resources for determining and implementing the licensee’s spaceflight safety policy, and
 - (d) be coordinated with the safety management system of any other licensee or other organisation with whom the licensee must interact during the provision of its licensed activities.
 
-**3.**[^key-d51759682d202c2be96069aaa7c0e137] A safety management system must include a written spaceflight safety policy which—
+**3.**[^c-d51759682d202c2be96069aaa7c0e137] A safety management system must include a written spaceflight safety policy which—
 
 - (a) is proportionate to the licensee’s safety duty,
 - (b) sets out the licensee’s overall aims and principles of action,
@@ -51,7 +51,7 @@ Regulations 85 and 163
 - (d) sets out a direct accountability for safety on the part of senior management, and
 - (e) is signed by the accountable manager.
 
-**4.**[^key-69c3470d33c07918d1a7bcedc19f4833] The following matters must be addressed by the safety management system—
+**4.**[^c-69c3470d33c07918d1a7bcedc19f4833] The following matters must be addressed by the safety management system—
 
 - (a) in relation to the organisation and personnel—
   - (i) the safety roles and responsibilities of personnel involved in the management of major accident hazards at all levels in the organisation,
@@ -87,19 +87,19 @@ Regulations 85 and 163
   - (i) the adoption and implementation of procedures for periodic systematic assessment of the licensee’s spaceflight safety policy and the effectiveness and suitability of the safety management system;
   - (ii) the documented review of performance of the safety policy and safety management system and its updating by senior management, including consideration and incorporation of necessary changes indicated by the audit and review.
 
-**5.**[^key-d7c8ad1945f83899d6927f147509d8a9] The procedures referred to in paragraph 4(g)—
+**5.**[^c-d7c8ad1945f83899d6927f147509d8a9] The procedures referred to in paragraph 4(g)—
 
 - (a) must cover the licensee’s system for internal reporting of occurrences, particularly those involving failure of protective measures, and their investigation and follow-up on the basis of lessons learned, and
 - (b) may include performance indicators such as safety performance indicators or other relevant indicators.
 
 ## Annotations
 
-[^key-28a038e5b71100e49fd9d72c41f9d768]: Commencement: Sch. 4 para. 1 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-28a038e5b71100e49fd9d72c41f9d768]: Commencement: Sch. 4 para. 1 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-8c31dc904ebd3f53cadc17458df8b260]: Commencement: Sch. 4 para. 2 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-8c31dc904ebd3f53cadc17458df8b260]: Commencement: Sch. 4 para. 2 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-d51759682d202c2be96069aaa7c0e137]: Commencement: Sch. 4 para. 3 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-d51759682d202c2be96069aaa7c0e137]: Commencement: Sch. 4 para. 3 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-69c3470d33c07918d1a7bcedc19f4833]: Commencement: Sch. 4 para. 4 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-69c3470d33c07918d1a7bcedc19f4833]: Commencement: Sch. 4 para. 4 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-d7c8ad1945f83899d6927f147509d8a9]: Commencement: Sch. 4 para. 5 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-d7c8ad1945f83899d6927f147509d8a9]: Commencement: Sch. 4 para. 5 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

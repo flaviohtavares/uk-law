@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State for Levelling Up, Housing and Communities makes this Order in exercise of the powers conferred by sections 59(1), (2)(a) and (3)(b) and 60(1), (1A) and (2A) of the Town and Country Planning Act 1990[^f00001].
 
-## 1. Citation, commencement, extent and application[^key-298dd5727fd9b136b895333e138ccbd7]
+## 1. Citation, commencement, extent and application[^c-298dd5727fd9b136b895333e138ccbd7]
 
 (1) This Order may be cited as the Town and Country Planning (Former RAF Airfield Wethersfield) (Accommodation for Asylum-Seekers etc.) Special Development Order 2024.
 
@@ -56,7 +56,7 @@ The Secretary of State for Levelling Up, Housing and Communities makes this Orde
 
 (4) This Order applies to the land at Former RAF Airfield Wethersfield, Braintree, Essex CM7 4AZ, shown bounded externally by the outer edge of a bold red line on the Map (excluding land shown on the Map hatched red) (the “Order land”).
 
-## 2. Interpretation[^key-df6a4b93dea2220c9ef29745c0ea3cd0]
+## 2. Interpretation[^c-df6a4b93dea2220c9ef29745c0ea3cd0]
 
 (1) In this Order—
 
@@ -95,7 +95,7 @@ The Secretary of State for Levelling Up, Housing and Communities makes this Orde
 - “**relevant risk**” means a relevant contamination risk or a relevant ordnance risk;
 - “**remedial step**” means any step, the taking of which by the Home Secretary secures compliance with a duty imposed on the Home Secretary, by an enactment (other than this Order) or a rule of common law, to prevent or mitigate a relevant risk;
 - “**resident service user**” means a service user who is accommodated on the Order land;
-- “**the Secretary of State**” means, except in the definition of “Home Secretary”, the Secretary of State for Housing, Communities and Local Government[^key-6c65cfb61753d16c50f84a8f4bad6be8];
+- “**the Secretary of State**” means, except in the definition of “Home Secretary”, the Secretary of State for Housing, Communities and Local Government[^c-6c65cfb61753d16c50f84a8f4bad6be8];
 - “**service user**” means a person in respect of whom the Home Secretary carries out relevant functions;
 - “**site operator**” means the person designated as such under condition 1 (site operator);
 - “**subsequent approval**” means the Secretary of State’s approval, after the date on which this Order is made, in respect of a plan, report, scheme or programme that this Order requires or permits the Home Secretary to submit for the Secretary of State’s approval, where—
@@ -111,7 +111,7 @@ The Secretary of State for Levelling Up, Housing and Communities makes this Orde
 - (a) the level of the surface of the ground adjoining the building or structure;
 - (b) if the level of the surface of the ground where the building or structure is situated or is to be situated is not uniform, the level of the highest part of the surface of the ground adjacent to it.
 
-## 3. Application of the 2015 Order[^key-a335fc53e67679a568c2f54556048b1c]
+## 3. Application of the 2015 Order[^c-a335fc53e67679a568c2f54556048b1c]
 
 (1) Subject to the provisions of this Order, the 2015 Order applies to the Order land.
 
@@ -125,7 +125,7 @@ The Secretary of State for Levelling Up, Housing and Communities makes this Orde
 - (a) ceases to apply on 11th April 2024;
 - (b) applies again on and from 11th April 2027, but only if, and to the extent that, the planning permission granted for it by article 3(1) of the 2015 Order would not, but for this Order, have ceased before that date.
 
-## 4. Grant of temporary planning permission[^key-9315647fbb95aff5622a82a508cf62dc]
+## 4. Grant of temporary planning permission[^c-9315647fbb95aff5622a82a508cf62dc]
 
 (1) Subject to the provisions of this Order, planning permission is granted for—
 
@@ -152,7 +152,7 @@ The Secretary of State for Levelling Up, Housing and Communities makes this Orde
 
 (6) The planning permission granted by paragraph (1)(c) ceases at, and reinstatement works must be completed by, the end of 10th October 2027.
 
-## 5. Subsequent approval and variation approval[^key-6484f23035a57076edac1d31e5d832b5]
+## 5. Subsequent approval and variation approval[^c-6484f23035a57076edac1d31e5d832b5]
 
 (1) A replacement for an approved document has no effect for the purposes of this Order unless the Home Secretary has submitted it for subsequent approval under sub-paragraph (3) of condition 2, and the Secretary of State has given subsequent approval in respect of the replacement.
 
@@ -165,7 +165,7 @@ The Secretary of State for Levelling Up, Housing and Communities makes this Orde
 
 (4) No subsequent approval or variation approval may be sought or given in respect of any replacement of, or amendment to, the Map.
 
-## 6. Authorised development: decisions of the Secretary of State[^key-f355ce388152493fad2b97a142152cff]
+## 6. Authorised development: decisions of the Secretary of State[^c-f355ce388152493fad2b97a142152cff]
 
 (1) When giving or declining to give subsequent approval or variation approval, the Secretary of State must give the Home Secretary a written notice of the Secretary of State’s decision on the application made under article 5(3) (subsequent approval and variation approval).
 
@@ -186,7 +186,7 @@ The Secretary of State for Levelling Up, Housing and Communities makes this Orde
 
 (5) The condition is that the Secretary of State has directed under regulation 63(1) of the 2017 Regulations (exemptions) that the authorised development is exempt from the requirements of those Regulations.
 
-## 7. Documents to be made available by the Secretary of State[^key-4e6e010ce6db7196affadd529819768f]
+## 7. Documents to be made available by the Secretary of State[^c-4e6e010ce6db7196affadd529819768f]
 
 (1) This paragraph applies to—
 
@@ -196,7 +196,7 @@ The Secretary of State for Levelling Up, Housing and Communities makes this Orde
 (2) Subject to paragraph (4), the Secretary of State must arrange for a copy of each document to which paragraph (1) applies to be made available for inspection by the public—
 
 - (a) on a website maintained by or on behalf of the Secretary of State[^f00009];
-- (b) in person, upon giving reasonable notice to the Ministry of Housing, Communities and Local Government[^key-d8c0ca79a1da0fb070c9127d98306b65], at 2 Marsham Street, London SW1P 4DF.
+- (b) in person, upon giving reasonable notice to the Ministry of Housing, Communities and Local Government[^c-d8c0ca79a1da0fb070c9127d98306b65], at 2 Marsham Street, London SW1P 4DF.
 
 (3) This paragraph applies to information contained in a document to which paragraph (1) applies, where the Secretary of State is satisfied that that information relates to—
 
@@ -222,7 +222,7 @@ Department for Levelling Up, Housing and Communities
 
 Article 2(1)
 
-### Part 1– Map and plans[^key-134b8375dc8b731b9028a82f9c489ccb]
+### Part 1– Map and plans[^c-134b8375dc8b731b9028a82f9c489ccb]
 
 | Number | Title | Scale | Paper size |
 | --- | --- | --- | --- |
@@ -231,7 +231,7 @@ Article 2(1)
 | Figure 3b | Proposed site plans – Proposed Fencing | 1:7,000 | A3 |
 | Figure 3e | Proposed site Plans – Proposed Site Uses | 1:7,000 | A3 |
 
-### Part 2 – Initial operational management plan[^key-089d6c31dc6e1a9650f71f3b72f9ae3c]
+### Part 2 – Initial operational management plan[^c-089d6c31dc6e1a9650f71f3b72f9ae3c]
 
 | Title | Version or issue number (if applicable) |
 | --- | --- |
@@ -258,7 +258,7 @@ Article 2(1)
 
 Article 4(1)(a) and (b)
 
-**1.**[^key-01fa0a0b4215de28451151880660c375] The making of material changes in the use of any buildings in, on, under or over the Order land, or of any other part of the Order land, in connection with the carrying out, in relation to resident service users, of relevant functions, or functions incidental or ancillary to such functions, including the provision, by making such a change in use, of—
+**1.**[^c-01fa0a0b4215de28451151880660c375] The making of material changes in the use of any buildings in, on, under or over the Order land, or of any other part of the Order land, in connection with the carrying out, in relation to resident service users, of relevant functions, or functions incidental or ancillary to such functions, including the provision, by making such a change in use, of—
 
 - (a) living accommodation;
 - (b) catering or dining facilities;
@@ -275,7 +275,7 @@ Article 4(1)(a) and (b)
 - (m) facilities for providing legal and other advice to resident service users;
 - (n) facilities for those carrying out police and security activities.
 
-**2.**[^key-821923bf175f1ea3ee4778546c9d925c] Building, engineering or other operations, in, on, under or over the Order land, in connection with the carrying out, in relation to resident service users, of relevant functions, or functions incidental or ancillary to such functions, comprising the construction of—
+**2.**[^c-821923bf175f1ea3ee4778546c9d925c] Building, engineering or other operations, in, on, under or over the Order land, in connection with the carrying out, in relation to resident service users, of relevant functions, or functions incidental or ancillary to such functions, comprising the construction of—
 
 - (a) buildings or structures to be used in providing any accommodation or other facility of a kind referred to in paragraph 1, including any works of refurbishment to a building or structure, where planning permission is required for the refurbishment;
 - (b) any artificial surfacing, including—
@@ -300,7 +300,7 @@ Article 4(1)(a) and (b)
   to be used for the benefit of resident service users or persons involved in the carrying out of relevant functions;
 - (m) other plant or machinery.
 
-**3.**[^key-40a840aa353cbf6faa1a6c8db32f2346] The making of material changes in the use of a building in, on, under or over the Order land, or of any other part of the Order land, or the construction of any building or structure, including any works of refurbishment to a building or structure, where planning permission is required for the refurbishment, to provide—
+**3.**[^c-40a840aa353cbf6faa1a6c8db32f2346] The making of material changes in the use of a building in, on, under or over the Order land, or of any other part of the Order land, or the construction of any building or structure, including any works of refurbishment to a building or structure, where planning permission is required for the refurbishment, to provide—
 
 - (a) indoor or outdoor training and education facilities;
 - (b) parking space for vehicles,
@@ -313,7 +313,7 @@ Article 4(2)(a)(i)
 
 ### Part 1 – General
 
-#### 1. Site operator[^key-e5c6f6994ec525ce2de2db029bf4c647]
+#### 1. Site operator[^c-e5c6f6994ec525ce2de2db029bf4c647]
 
 (1) The Home Secretary must ensure that, during the whole period beginning with 11th April 2024 and ending with the date on which reinstatement works are completed in accordance with this Order, a named member of the Senior Civil Service in the Home Secretary’s department is designated in writing as the principal point of contact for the Secretary of State in the Home Secretary’s department on all matters connected with this Order (the “site operator”).
 
@@ -321,7 +321,7 @@ Article 4(2)(a)(i)
 
 (3) Whenever a person is designated as the site operator, the Home Secretary must promptly inform the Secretary of State, in writing, that that person has been so designated.
 
-#### 2. Approved documents[^key-61eeba2d5f42960b2a2fef458b987d38]
+#### 2. Approved documents[^c-61eeba2d5f42960b2a2fef458b987d38]
 
 (1) The authorised development must be carried out in accordance with each of the approved documents, and in particular—
 
@@ -343,7 +343,7 @@ Article 4(2)(a)(i)
 
 (3) The Home Secretary may submit for subsequent approval a replacement for any approved document other than the Map, provided that, in the case of a plan, report, scheme or programme provided for in this Schedule, the proposed replacement plan, report, scheme or programme complies with the relevant provisions of this Schedule.
 
-#### 3. Height of buildings and other structures[^key-759dc8796044e366e7095f28d5f88eaf]
+#### 3. Height of buildings and other structures[^c-759dc8796044e366e7095f28d5f88eaf]
 
 (1) Subject to sub-paragraphs (2), (3) and (4), the height of any building or structure constructed as part of the authorised development must not exceed 4.5 metres.
 
@@ -356,7 +356,7 @@ Article 4(2)(a)(i)
 
 (4) A building or structure that comprises development of a type specified in paragraph 3 of Schedule 2 must not, except with the prior written consent of the Secretary of State, exceed a height of 6.5 metres.
 
-#### 4. Floorspace of certain buildings and structures[^key-5f0c0f1b4e2efd9c09868f99c5910af7]
+#### 4. Floorspace of certain buildings and structures[^c-5f0c0f1b4e2efd9c09868f99c5910af7]
 
 (1) The combined floorspace of all buildings or structures—
 
@@ -369,7 +369,7 @@ must not exceed the baseline by more than 4,631 square metres.
 
 (3) Construction of a building or structure of a type specified in paragraph 3 of Schedule 2 may not commence until the Home Secretary has submitted to the Secretary of State, and the Secretary of State has approved, plans showing its design, dimensions and location.
 
-#### 5. Artificial lighting and its impacts[^key-0aed395bfd05fc8b3259312df4549692]
+#### 5. Artificial lighting and its impacts[^c-0aed395bfd05fc8b3259312df4549692]
 
 (1) Any exterior artificial lighting installed on or after 17th April 2023 must be arranged so that the main beam angle of each installation is directed—
 
@@ -378,7 +378,7 @@ must not exceed the baseline by more than 4,631 square metres.
 
 (2) The windows of any sleeping accommodation must be fitted with blackout blinds or blackout curtains.
 
-#### 6. Drainage and drinking water[^key-8b74cd1f5b3509d079c7f56835c9808c]
+#### 6. Drainage and drinking water[^c-8b74cd1f5b3509d079c7f56835c9808c]
 
 (1) There must be no net increase in the rate or volume of surface water discharge from the Order land as a result of the authorised development.
 
@@ -394,7 +394,7 @@ must not exceed the baseline by more than 4,631 square metres.
 - (b) the Secretary of State has approved the report;
 - (c) any steps identified in the approved report as necessary to be taken before more than 580, and up to 1,700, service users are accommodated have been taken.
 
-#### 7. Storage of fuel and hazardous substances[^key-3a0d289061309d09a3099dc7a35d8446]
+#### 7. Storage of fuel and hazardous substances[^c-3a0d289061309d09a3099dc7a35d8446]
 
 Any storage for fuel or other hazardous substances installed on or after 17th April 2023 must be so arranged as to ensure that—
 
@@ -403,7 +403,7 @@ Any storage for fuel or other hazardous substances installed on or after 17th Ap
 - (c) any associated pipe work is located above ground and protected from accidental damage;
 - (d) all filling points and tank overflow pipe outlets are designed to discharge into a sump, collector or bunded compound.
 
-#### 8. Removal of trees, hedges and existing buildings[^key-10fa4f7d34db7669a2781ca9d630efe0]
+#### 8. Removal of trees, hedges and existing buildings[^c-10fa4f7d34db7669a2781ca9d630efe0]
 
 (1) Subject to sub-paragraph (2), no—
 
@@ -417,11 +417,11 @@ as part of the authorised development unless the Home Secretary has submitted to
 - (a) cut down, uproot, top or lop a tree, to the extent that such works are urgently necessary to remove an immediate risk of serious harm;
 - (b) demolish a building or structure that is at risk of imminent collapse or otherwise poses an immediate threat to safety.
 
-#### 9. Fencing[^key-aeb72293bf81fa5a39f2296b00855f69]
+#### 9. Fencing[^c-aeb72293bf81fa5a39f2296b00855f69]
 
 No service users may be accommodated on the Order land as part of the authorised development unless privacy mesh screening is installed between the Order land and properties in Sculpins Lane that are immediately adjacent to the Order land.
 
-#### 10. Travel plan[^key-8d039742d0b8abe3a94b8efa7a2bcef6]
+#### 10. Travel plan[^c-8d039742d0b8abe3a94b8efa7a2bcef6]
 
 The Home Secretary must, before 11th July 2024, submit to the Secretary of State for approval a plan setting out how the use of private cars by those travelling to the Order land—
 
@@ -430,7 +430,7 @@ The Home Secretary must, before 11th July 2024, submit to the Secretary of State
 
 will be minimised.
 
-#### 11. Noise[^key-52a1b4525c43b505816c1b543da0bc70]
+#### 11. Noise[^c-52a1b4525c43b505816c1b543da0bc70]
 
 Any building services or other plant installed on the Order land must be so located and installed as to ensure that—
 
@@ -441,13 +441,13 @@ Any building services or other plant installed on the Order land must be so loca
 
   do not exceed 30dB LAr, Tr, assessed in accordance with British Standard BS 4142:2014+A1:2019[^f00011].
 
-#### 12. Fruit and vegetables[^key-89bd2b5ae6dd5224e05a2d2f26ff027c]
+#### 12. Fruit and vegetables[^c-89bd2b5ae6dd5224e05a2d2f26ff027c]
 
 No fruit or vegetables may be grown on the Order land unless the Secretary of State gives prior written consent to their being grown.
 
 ### Part 2 – Construction and related matters
 
-#### 13. Construction and environmental management plan[^key-20af7de3742637766048598379fb86dc]
+#### 13. Construction and environmental management plan[^c-20af7de3742637766048598379fb86dc]
 
 (1) No works of construction for which planning permission is required, and is granted by article 4(1) (“construction work”), may—
 
@@ -487,7 +487,7 @@ until the Home Secretary has submitted a construction and environmental manageme
 
 (4) The CEMP must be kept up to date during any period in which construction takes place in relation to the authorised development.
 
-#### 14. Land contamination: site control measures[^key-33b4bef20c68e7182e62b82dfb11fe5f]
+#### 14. Land contamination: site control measures[^c-33b4bef20c68e7182e62b82dfb11fe5f]
 
 No service users may be accommodated on the Order land unless the following are in place, and the Home Secretary has provided the Secretary of State with evidence that they are in place—
 
@@ -498,7 +498,7 @@ No service users may be accommodated on the Order land unless the following are 
   which may include the installation of metal mesh screens to enclose the void beneath any modular building;
 - (b) signage and other materials (including materials for use in the induction of service users when they are first accommodated on the Order land) that are intelligible to users and those working on and visiting the Order land, encouraging good hygiene procedures such as hand washing or sanitation before eating.
 
-#### 15. Land contamination: monitoring programme and intrusive investigation[^key-d8d66473111c4b31de1f91d18e466945]
+#### 15. Land contamination: monitoring programme and intrusive investigation[^c-d8d66473111c4b31de1f91d18e466945]
 
 (1) The Home Secretary must carry out a programme of intrusive ground investigations to assess relevant contamination risks in accordance with British Standard BS 10175:2011[^f00012], comprising—
 
@@ -524,7 +524,7 @@ No service users may be accommodated on the Order land unless the following are 
 - (a) a notice from the Home Secretary under sub-paragraph (4)(b)(ii), or
 - (b) a report, prepared by a contamination expert for the Home Secretary, confirming that the Home Secretary has taken the steps set out in a notice under sub-paragraph (4)(b)(i).
 
-#### 16. Radiological walkover survey[^key-528e578c2b35028766c230c5dc13bd80]
+#### 16. Radiological walkover survey[^c-528e578c2b35028766c230c5dc13bd80]
 
 (1) No service users may be accommodated on the Order land until—
 
@@ -543,7 +543,7 @@ No service users may be accommodated on the Order land unless the following are 
 - (a) a notice from the Home Secretary under sub-paragraph (2)(b)(ii), or
 - (b) a report, prepared by a contamination expert for the Home Secretary, confirming that the Home Secretary has taken the steps set out in a notice under sub-paragraph (2)(b)(i).
 
-#### 17. Unexploded ordnance[^key-03b17cb54513f47181a49e09078c8511]
+#### 17. Unexploded ordnance[^c-03b17cb54513f47181a49e09078c8511]
 
 (1) No service users may be accommodated on the Order land until—
 
@@ -562,7 +562,7 @@ No service users may be accommodated on the Order land unless the following are 
 - (a) a notice from the Home Secretary under sub-paragraph (2)(b)(ii), or
 - (b) a report, prepared by an ordnance specialist for the Home Secretary, confirming that the Home Secretary has taken the steps set out in a notice under sub-paragraph (2)(b)(i).
 
-#### 18. Relevant risks identified unexpectedly[^key-61889a6c9668d2d10f176f22f8774590]
+#### 18. Relevant risks identified unexpectedly[^c-61889a6c9668d2d10f176f22f8774590]
 
 (1) If a relevant risk that has not been identified as a result of work undertaken in compliance with a policy, procedure or standard under sub-paragraph (2)(g) or (j) of condition 13, or another condition in this Part, is identified during the construction or operation of the authorised development—
 
@@ -583,7 +583,7 @@ No service users may be accommodated on the Order land unless the following are 
 
 ### Part 3 – Operation and related matters
 
-#### 19. Full OMP: establishment and review[^key-569ca8a36c7beb033d2c74a64fa81ec7]
+#### 19. Full OMP: establishment and review[^c-569ca8a36c7beb033d2c74a64fa81ec7]
 
 (1) No more than 580 service users may be accommodated on the Order land until—
 
@@ -618,7 +618,7 @@ must be kept on the Order land.
 
     make the necessary application for variation approval or subsequent approval.
 
-#### 20. Full OMP: contents[^key-90368b593b009923efaaf40d622e8ff1]
+#### 20. Full OMP: contents[^c-90368b593b009923efaaf40d622e8ff1]
 
 The full OMP must include policies, procedures or standards relating to—
 
@@ -651,7 +651,7 @@ The full OMP must include policies, procedures or standards relating to—
     - (ff) areas where children are present;
 - (h) providing information about the operation of the authorised development to persons affected, or likely to be affected, by it, and handling complaints about it from them.
 
-#### 21. Phasing scheme[^key-fcdf556bdd640a8dd0afca6452bca211]
+#### 21. Phasing scheme[^c-fcdf556bdd640a8dd0afca6452bca211]
 
 (1) No more than 580 service users may be accommodated on the Order land until a phasing scheme has been submitted by the Home Secretary and approved by the Secretary of State, that sets out—
 
@@ -662,7 +662,7 @@ so as to ensure that the provision made for the needs of resident service users 
 
 (2) Where a scheme approved under sub-paragraph (1) indicates that particular steps are to be taken before the number or proportion of resident service users that meet an unsuitability criterion increases to or by a certain amount, the Home Secretary must, before that increase occurs, provide to the Secretary of State written confirmation that those steps have been taken.
 
-#### 22. Accommodation on the Order land[^key-0b05fb60b87a3bd8380a8b4771735cf7]
+#### 22. Accommodation on the Order land[^c-0b05fb60b87a3bd8380a8b4771735cf7]
 
 (1) A service user must not be accommodated on the Order land unless—
 
@@ -695,7 +695,7 @@ so as to ensure that the provision made for the needs of resident service users 
   - (ii) in any other case, since the end of the period covered by the previous such report;
 - (c) setting out the average and maximum numbers of resident service users meeting each unsuitability criterion in each month of the period covered by the report.
 
-#### 23. General limit on number of resident service users[^key-7e8905e99ea841c207bcdfa984a54aa8]
+#### 23. General limit on number of resident service users[^c-7e8905e99ea841c207bcdfa984a54aa8]
 
 (1) The Home Secretary must—
 
@@ -704,7 +704,7 @@ so as to ensure that the provision made for the needs of resident service users 
 
 (2) No more than 1,700 service users may be accommodated on the Order land at any time.
 
-#### 24. Core facilities and services to be provided[^key-8f2ff136fb2c77604747dfd12a89a808]
+#### 24. Core facilities and services to be provided[^c-8f2ff136fb2c77604747dfd12a89a808]
 
 (1) No service users may be accommodated on the Order land unless—
 
@@ -746,7 +746,7 @@ so as to ensure that the provision made for the needs of resident service users 
   - (ii) each bus having the capacity to seat at least 16 service users;
 - (b) such other transport services as are necessary to enable resident service users to access the services specified in sub-paragraph (4), or hospital appointments.
 
-#### 25. Multi-Agency Forum[^key-b6d937eb8f3f74eac045cf7122c80c1d]
+#### 25. Multi-Agency Forum[^c-b6d937eb8f3f74eac045cf7122c80c1d]
 
 (1) The Home Secretary must establish a group of persons (the “Multi-Agency Forum”)—
 
@@ -771,7 +771,7 @@ so as to ensure that the provision made for the needs of resident service users 
 
 (3) The purpose of the Multi-Agency Forum is to facilitate the exchange of information and views between the Home Secretary and the persons and bodies represented on the Multi-Agency Forum about interactions between the performance of their functions and the Home Secretary’s performance of relevant functions in relation to resident service users.
 
-#### 26. Local services programme[^key-3a21d424baa8ff8cef93a13c9fb26764]
+#### 26. Local services programme[^c-3a21d424baa8ff8cef93a13c9fb26764]
 
 (1) In this paragraph—
 
@@ -810,7 +810,7 @@ so as to ensure that the provision made for the needs of resident service users 
 
 ### Part 4 – Reinstatement
 
-#### 27. Reinstatement plan[^key-82be0dac09b6201f053e5511f01a9aed]
+#### 27. Reinstatement plan[^c-82be0dac09b6201f053e5511f01a9aed]
 
 (1) In this condition, “**reinstatement plan**” means a plan detailing reinstatement works, including a method statement and timetable for carrying them out.
 
@@ -851,9 +851,9 @@ For illustrative purposes only a plan of the land to which this Order applies is
 
 [^f00001]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 60 was amended by section 4(1) of the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27) and section 152(1) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22). There are further amendments to sections 59 and 60 which are not relevant to this Order.
 
-[^key-298dd5727fd9b136b895333e138ccbd7]: Commencement: Art. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-298dd5727fd9b136b895333e138ccbd7]: Commencement: Art. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-df6a4b93dea2220c9ef29745c0ea3cd0]: Commencement: Art. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-df6a4b93dea2220c9ef29745c0ea3cd0]: Commencement: Art. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
 [^f00002]: Footnote: [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/596), amended by [S.I. 2016/332](https://www.legislation.gov.uk/uksi/2016/332), [2016/765](https://www.legislation.gov.uk/uksi/2016/765), [2016/772](https://www.legislation.gov.uk/uksi/2016/772), [2016/1040](https://www.legislation.gov.uk/uksi/2016/1040), [2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), [2017/391](https://www.legislation.gov.uk/uksi/2017/391), [2017/571](https://www.legislation.gov.uk/uksi/2017/571), [2017/619](https://www.legislation.gov.uk/uksi/2017/619), [2017/1011](https://www.legislation.gov.uk/uksi/2017/1011), [2017/1012](https://www.legislation.gov.uk/uksi/2017/1012), [2018/119](https://www.legislation.gov.uk/uksi/2018/119), [2018/343](https://www.legislation.gov.uk/uksi/2018/343), [2018/695](https://www.legislation.gov.uk/uksi/2018/695), [2019/907](https://www.legislation.gov.uk/uksi/2019/907), [2020/330](https://www.legislation.gov.uk/uksi/2020/330), [2020/412](https://www.legislation.gov.uk/uksi/2020/412), [2020/632](https://www.legislation.gov.uk/uksi/2020/632), [2020/755](https://www.legislation.gov.uk/uksi/2020/755), [2020/756](https://www.legislation.gov.uk/uksi/2020/756), [2020/1243](https://www.legislation.gov.uk/uksi/2020/1243), [2020/1459](https://www.legislation.gov.uk/uksi/2020/1459), [2021/428](https://www.legislation.gov.uk/uksi/2021/428), [2021/467](https://www.legislation.gov.uk/uksi/2021/467), [2021/814](https://www.legislation.gov.uk/uksi/2021/814), [2022/278](https://www.legislation.gov.uk/uksi/2022/278), [2023/747](https://www.legislation.gov.uk/uksi/2023/747), [2023/1279](https://www.legislation.gov.uk/uksi/2023/1279), [2024/141](https://www.legislation.gov.uk/uksi/2024/141).
 
@@ -865,89 +865,89 @@ For illustrative purposes only a plan of the land to which this Order applies is
 
 [^f00006]: Footnote: Section 94 was amended by the 2002 Act, sections 44, 60(2), 161 and Schedule 9, the 2022 Act, sections 17(1) and (3) and 49(5), and [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833).
 
-[^key-6c65cfb61753d16c50f84a8f4bad6be8]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2024/411/article/2/1) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 30(2)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/30/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-6c65cfb61753d16c50f84a8f4bad6be8]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2024/411/article/2/1) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 30(2)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/30/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
 
 [^f00007]: Footnote: See https://assets.publishing.service.gov.uk/media/65c6483d14b83c000ca71658/Allocation+of+accommodation.pdf. Hard copies are available from the Home Office, 2 Marsham Street, London SW1P 4DF.
 
-[^key-a335fc53e67679a568c2f54556048b1c]: Commencement: Art. 3 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-a335fc53e67679a568c2f54556048b1c]: Commencement: Art. 3 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-9315647fbb95aff5622a82a508cf62dc]: Commencement: Art. 4 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-9315647fbb95aff5622a82a508cf62dc]: Commencement: Art. 4 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-6484f23035a57076edac1d31e5d832b5]: Commencement: Art. 5 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-6484f23035a57076edac1d31e5d832b5]: Commencement: Art. 5 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-f355ce388152493fad2b97a142152cff]: Commencement: Art. 6 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-f355ce388152493fad2b97a142152cff]: Commencement: Art. 6 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
 [^f00008]: Footnote: [S.I. 2017/571](https://www.legislation.gov.uk/uksi/2017/571), amended by [S.I. 2018/575](https://www.legislation.gov.uk/uksi/2018/575), [2018/695](https://www.legislation.gov.uk/uksi/2018/695); there are other amending instruments but none is relevant.
 
-[^key-4e6e010ce6db7196affadd529819768f]: Commencement: Art. 7 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-4e6e010ce6db7196affadd529819768f]: Commencement: Art. 7 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
 [^f00009]: Footnote: This will be within www.gov.uk, and capable of being quickly located through its search page.
 
-[^key-d8c0ca79a1da0fb070c9127d98306b65]: Textual amendment: Words in [art. 7(2)(b)](https://www.legislation.gov.uk/uksi/2024/411/article/7/2/b) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 30(3)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/30/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-d8c0ca79a1da0fb070c9127d98306b65]: Textual amendment: Words in [art. 7(2)(b)](https://www.legislation.gov.uk/uksi/2024/411/article/7/2/b) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 30(3)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/30/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
 
-[^key-134b8375dc8b731b9028a82f9c489ccb]: Commencement: Sch. 1 Pt. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-134b8375dc8b731b9028a82f9c489ccb]: Commencement: Sch. 1 Pt. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-089d6c31dc6e1a9650f71f3b72f9ae3c]: Commencement: Sch. 1 Pt. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-089d6c31dc6e1a9650f71f3b72f9ae3c]: Commencement: Sch. 1 Pt. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-01fa0a0b4215de28451151880660c375]: Commencement: Sch. 2 para. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-01fa0a0b4215de28451151880660c375]: Commencement: Sch. 2 para. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-821923bf175f1ea3ee4778546c9d925c]: Commencement: Sch. 2 para. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-821923bf175f1ea3ee4778546c9d925c]: Commencement: Sch. 2 para. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-40a840aa353cbf6faa1a6c8db32f2346]: Commencement: Sch. 2 para. 3 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-40a840aa353cbf6faa1a6c8db32f2346]: Commencement: Sch. 2 para. 3 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-e5c6f6994ec525ce2de2db029bf4c647]: Commencement: Sch. 3 para. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-e5c6f6994ec525ce2de2db029bf4c647]: Commencement: Sch. 3 para. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-61eeba2d5f42960b2a2fef458b987d38]: Commencement: Sch. 3 para. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-61eeba2d5f42960b2a2fef458b987d38]: Commencement: Sch. 3 para. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-759dc8796044e366e7095f28d5f88eaf]: Commencement: Sch. 3 para. 3 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-759dc8796044e366e7095f28d5f88eaf]: Commencement: Sch. 3 para. 3 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-5f0c0f1b4e2efd9c09868f99c5910af7]: Commencement: Sch. 3 para. 4 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-5f0c0f1b4e2efd9c09868f99c5910af7]: Commencement: Sch. 3 para. 4 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-0aed395bfd05fc8b3259312df4549692]: Commencement: Sch. 3 para. 5 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-0aed395bfd05fc8b3259312df4549692]: Commencement: Sch. 3 para. 5 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-8b74cd1f5b3509d079c7f56835c9808c]: Commencement: Sch. 3 para. 6 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-8b74cd1f5b3509d079c7f56835c9808c]: Commencement: Sch. 3 para. 6 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-3a0d289061309d09a3099dc7a35d8446]: Commencement: Sch. 3 para. 7 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-3a0d289061309d09a3099dc7a35d8446]: Commencement: Sch. 3 para. 7 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-10fa4f7d34db7669a2781ca9d630efe0]: Commencement: Sch. 3 para. 8 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-10fa4f7d34db7669a2781ca9d630efe0]: Commencement: Sch. 3 para. 8 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-aeb72293bf81fa5a39f2296b00855f69]: Commencement: Sch. 3 para. 9 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-aeb72293bf81fa5a39f2296b00855f69]: Commencement: Sch. 3 para. 9 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-8d039742d0b8abe3a94b8efa7a2bcef6]: Commencement: Sch. 3 para. 10 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-8d039742d0b8abe3a94b8efa7a2bcef6]: Commencement: Sch. 3 para. 10 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-52a1b4525c43b505816c1b543da0bc70]: Commencement: Sch. 3 para. 11 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-52a1b4525c43b505816c1b543da0bc70]: Commencement: Sch. 3 para. 11 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
 [^f00010]: Footnote: Guidance on sound insulation and noise reduction for buildings (ISBN 978 0 580 74378 8), published by the British Standards Institution on 28th February 2014.
 
 [^f00011]: Footnote: Methods for rating and assessing industrial and commercial sound (ISBN 978 0 539 02069 4), published by the British Standards Institution on 30th June 2019.
 
-[^key-89bd2b5ae6dd5224e05a2d2f26ff027c]: Commencement: Sch. 3 para. 12 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-89bd2b5ae6dd5224e05a2d2f26ff027c]: Commencement: Sch. 3 para. 12 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-20af7de3742637766048598379fb86dc]: Commencement: Sch. 3 para. 13 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-20af7de3742637766048598379fb86dc]: Commencement: Sch. 3 para. 13 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-33b4bef20c68e7182e62b82dfb11fe5f]: Commencement: Sch. 3 para. 14 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-33b4bef20c68e7182e62b82dfb11fe5f]: Commencement: Sch. 3 para. 14 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-d8d66473111c4b31de1f91d18e466945]: Commencement: Sch. 3 para. 15 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-d8d66473111c4b31de1f91d18e466945]: Commencement: Sch. 3 para. 15 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
 [^f00012]: Footnote: Investigation of potentially contaminated sites – Code of practice (ISBN 978 0 580 98996 4), published by the British Standards Institution on 31st December 2017.
 
-[^key-528e578c2b35028766c230c5dc13bd80]: Commencement: Sch. 3 para. 16 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-528e578c2b35028766c230c5dc13bd80]: Commencement: Sch. 3 para. 16 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-03b17cb54513f47181a49e09078c8511]: Commencement: Sch. 3 para. 17 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-03b17cb54513f47181a49e09078c8511]: Commencement: Sch. 3 para. 17 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-61889a6c9668d2d10f176f22f8774590]: Commencement: Sch. 3 para. 18 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-61889a6c9668d2d10f176f22f8774590]: Commencement: Sch. 3 para. 18 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-569ca8a36c7beb033d2c74a64fa81ec7]: Commencement: Sch. 3 para. 19 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-569ca8a36c7beb033d2c74a64fa81ec7]: Commencement: Sch. 3 para. 19 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-90368b593b009923efaaf40d622e8ff1]: Commencement: Sch. 3 para. 20 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-90368b593b009923efaaf40d622e8ff1]: Commencement: Sch. 3 para. 20 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-fcdf556bdd640a8dd0afca6452bca211]: Commencement: Sch. 3 para. 21 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-fcdf556bdd640a8dd0afca6452bca211]: Commencement: Sch. 3 para. 21 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-0b05fb60b87a3bd8380a8b4771735cf7]: Commencement: Sch. 3 para. 22 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-0b05fb60b87a3bd8380a8b4771735cf7]: Commencement: Sch. 3 para. 22 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-7e8905e99ea841c207bcdfa984a54aa8]: Commencement: Sch. 3 para. 23 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-7e8905e99ea841c207bcdfa984a54aa8]: Commencement: Sch. 3 para. 23 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-8f2ff136fb2c77604747dfd12a89a808]: Commencement: Sch. 3 para. 24 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-8f2ff136fb2c77604747dfd12a89a808]: Commencement: Sch. 3 para. 24 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
 [^f00013]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54). Section 34C was inserted by [S.I. 2010/234](https://www.legislation.gov.uk/uksi/2010/234).
 
@@ -957,12 +957,12 @@ For illustrative purposes only a plan of the land to which this Order applies is
 
 [^f00016]: Footnote: [1989 c. 44](https://www.legislation.gov.uk/ukpga/1989/44). Section 7 was amended by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848).
 
-[^key-b6d937eb8f3f74eac045cf7122c80c1d]: Commencement: Sch. 3 para. 25 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-b6d937eb8f3f74eac045cf7122c80c1d]: Commencement: Sch. 3 para. 25 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
 [^f00017]: Footnote: [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21). Section 1 was amended by the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), Schedule 1, Part 1, and Schedule 2, paragraphs 110 and 111; the Civil Contingencies Act [2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), Schedule 2, paragraphs 10(1) and (2); the Levelling-up and Regeneration Act [2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), Schedule 4, paragraph 157.
 
 [^f00018]: Footnote: [2006 c. 43](https://www.legislation.gov.uk/ukpga/2006/43). Section 14Z25 was inserted by the Health and Care Act [2022 c. 31](https://www.legislation.gov.uk/ukpga/2022/31)), section 19. NHS England has made the Integrated Care Boards (Establishment) Order 2022, which is published at https://www.england.nhs.uk/wp-content/uploads/2022/05/B1770-integrated-care-boards-establishment-order-2022.pdf, under section 14Z25.
 
-[^key-3a21d424baa8ff8cef93a13c9fb26764]: Commencement: Sch. 3 para. 26 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-3a21d424baa8ff8cef93a13c9fb26764]: Commencement: Sch. 3 para. 26 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
 
-[^key-82be0dac09b6201f053e5511f01a9aed]: Commencement: Sch. 3 para. 27 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)
+[^c-82be0dac09b6201f053e5511f01a9aed]: Commencement: Sch. 3 para. 27 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/411/article/1/2)

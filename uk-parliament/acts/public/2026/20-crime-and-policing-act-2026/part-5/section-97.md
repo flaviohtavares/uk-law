@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Guidance about disclosure of information by police for purpose of preventing sex offending[^key-0f140f4a7980658ba6b1013454380961][^key-f10d0299011bfc677a0c04efbd446142]
+## 97. Guidance about disclosure of information by police for purpose of preventing sex offending[^c-0f140f4a7980658ba6b1013454380961][^c-f10d0299011bfc677a0c04efbd446142]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0f140f4a7980658ba6b1013454380961]: Commencement: S. 97 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-0f140f4a7980658ba6b1013454380961]: Commencement: S. 97 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-f10d0299011bfc677a0c04efbd446142]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2026/20/section/97) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/g)
+[^c-f10d0299011bfc677a0c04efbd446142]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2026/20/section/97) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/g)

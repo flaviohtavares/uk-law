@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 10 — Transitional and Savings Provisions[^key-f63c80a43c296ab662fc98491d25ecd7]
+## SCHEDULE 10 — Transitional and Savings Provisions[^c-f63c80a43c296ab662fc98491d25ecd7]
 
 *Extent: S*
 
@@ -24,46 +24,46 @@ summary: ''
 
 Regulations 7, 8 and 58
 
-### PART 1 — Water Environment[^key-f63c80a43c296ab662fc98491d25ecd7]
+### PART 1 — Water Environment[^c-f63c80a43c296ab662fc98491d25ecd7]
 
-**1.**[^key-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Pollution Control[^key-f63c80a43c296ab662fc98491d25ecd7]
+### PART 2 — Pollution Control[^c-f63c80a43c296ab662fc98491d25ecd7]
 
-**7.**[^key-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f63c80a43c296ab662fc98491d25ecd7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2011/209) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-f63c80a43c296ab662fc98491d25ecd7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2011/209) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

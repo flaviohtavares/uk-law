@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Living accommodation: assessment of energy performance and emissions[^key-8eb7c172c5ad980b203235f3bb03ee78]
+## 64. Living accommodation: assessment of energy performance and emissions[^c-8eb7c172c5ad980b203235f3bb03ee78]
 
 *Extent: S*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8eb7c172c5ad980b203235f3bb03ee78]: Commencement: S. 64 in force at 1.4.2010 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)
+[^c-8eb7c172c5ad980b203235f3bb03ee78]: Commencement: S. 64 in force at 1.4.2010 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)

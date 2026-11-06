@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Retention of things seized under Part 3 of the Immigration Act 1971[^key-041c2ce348e6299b9796b9ad458a0616]
+## 50. Retention of things seized under Part 3 of the Immigration Act 1971[^c-041c2ce348e6299b9796b9ad458a0616]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ After section 28H of the Immigration Act 1971 insert—
 
 ## Annotations
 
-[^key-041c2ce348e6299b9796b9ad458a0616]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2016/19/section/50) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/g)
+[^c-041c2ce348e6299b9796b9ad458a0616]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2016/19/section/50) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/g)

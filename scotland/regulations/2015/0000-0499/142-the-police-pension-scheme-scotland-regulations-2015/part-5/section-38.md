@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Calculation of “retirement PIA index adjustment”[^key-4509792df96336742a7a5267399d77c0]
+## 38. Calculation of “retirement PIA index adjustment”[^c-4509792df96336742a7a5267399d77c0]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4509792df96336742a7a5267399d77c0]: Commencement: Reg. 38 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-4509792df96336742a7a5267399d77c0]: Commencement: Reg. 38 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

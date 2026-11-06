@@ -27,7 +27,7 @@ Section 111
 **1.** In section 35A of the Road Traffic Offenders Act 1988 (extension of disqualification where custodial sentence also imposed)—
 
 - (a) in subsection (8), after “section” insert “ 243A(3)(a), ”;
-- (b)[^key-a47a2d1b5f5dfcfa61a746e0bd0d9a01] in subsection (9)(a), after “in respect of section” insert *(affected by repeal, see note)*[^key-a47a2d1b5f5dfcfa61a746e0bd0d9a01] “ 243A(3)(a) or ” *(affected by repeal, see note)*[^key-a47a2d1b5f5dfcfa61a746e0bd0d9a01].
+- (b)[^c-a47a2d1b5f5dfcfa61a746e0bd0d9a01] in subsection (9)(a), after “in respect of section” insert *(affected by repeal, see note)*[^c-a47a2d1b5f5dfcfa61a746e0bd0d9a01] “ 243A(3)(a) or ” *(affected by repeal, see note)*[^c-a47a2d1b5f5dfcfa61a746e0bd0d9a01].
 
 ### Crime (Sentences) Act 1997 (c. 43)
 
@@ -35,7 +35,7 @@ Section 111
 
 ### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
 
-**3.**[^key-b3b343697054b0bbbe409a516ed9eccc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b3b343697054b0bbbe409a516ed9eccc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### International Criminal Court Act 2001 (c. 17)
 
@@ -55,9 +55,9 @@ Section 111
 (3) In subsection (3)—
 
 - (a) for “In this section” substitute “ For the purposes of this section ”;
-- (b)[^key-4dc881ea435fe38f74368ddc30421810] in paragraph (a)— *(affected by repeal, see note)*[^key-4dc881ea435fe38f74368ddc30421810]
-  - (i) for “any” substitute *(affected by repeal, see note)*[^key-4dc881ea435fe38f74368ddc30421810] “ a ”;
-  - (ii (affected by repeal, see note))[^key-4dc881ea435fe38f74368ddc30421810] after “the Sentencing Act” insert *(affected by repeal, see note)*[^key-4dc881ea435fe38f74368ddc30421810] “ for such a term ” *(affected by repeal, see note)*[^key-4dc881ea435fe38f74368ddc30421810].
+- (b)[^c-4dc881ea435fe38f74368ddc30421810] in paragraph (a)— *(affected by repeal, see note)*[^c-4dc881ea435fe38f74368ddc30421810]
+  - (i) for “any” substitute *(affected by repeal, see note)*[^c-4dc881ea435fe38f74368ddc30421810] “ a ”;
+  - (ii (affected by repeal, see note))[^c-4dc881ea435fe38f74368ddc30421810] after “the Sentencing Act” insert *(affected by repeal, see note)*[^c-4dc881ea435fe38f74368ddc30421810] “ for such a term ” *(affected by repeal, see note)*[^c-4dc881ea435fe38f74368ddc30421810].
 
 **7.** In section 246(6) (power to release prisoners early: definitions), in the definition of “the requisite custodial period”, after “has the meaning given by” insert “ paragraph (a) or (b) of section 243A(3) or (as the case may be) ”.
 
@@ -136,8 +136,8 @@ and paragraph 14 of Schedule 2 to the Criminal Justice Act 2003 (Commencement No
 
 ## Annotations
 
-[^key-a47a2d1b5f5dfcfa61a746e0bd0d9a01]: Textual amendment: [Sch. 14 para. 1(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/14/paragraph/1/b) omitted (1.10.2026 except in relation to sentences for excluded offences listed in Sch.) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 24(6)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/24/6/a), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 24(7)](https://www.legislation.gov.uk/ukpga/2026/2/section/24/7)); [S.I. 2026/953](https://www.legislation.gov.uk/uksi/2026/953), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2026/953/regulation/2/c), [5](https://www.legislation.gov.uk/uksi/2026/953/regulation/5), [Sch.](https://www.legislation.gov.uk/uksi/2026/953/schedule)
+[^c-a47a2d1b5f5dfcfa61a746e0bd0d9a01]: Textual amendment: [Sch. 14 para. 1(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/14/paragraph/1/b) omitted (1.10.2026 except in relation to sentences for excluded offences listed in Sch.) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 24(6)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/24/6/a), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 24(7)](https://www.legislation.gov.uk/ukpga/2026/2/section/24/7)); [S.I. 2026/953](https://www.legislation.gov.uk/uksi/2026/953), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2026/953/regulation/2/c), [5](https://www.legislation.gov.uk/uksi/2026/953/regulation/5), [Sch.](https://www.legislation.gov.uk/uksi/2026/953/schedule)
 
-[^key-b3b343697054b0bbbe409a516ed9eccc]: Textual amendment: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2012/10/schedule/14/paragraph/3) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-b3b343697054b0bbbe409a516ed9eccc]: Textual amendment: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2012/10/schedule/14/paragraph/3) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-4dc881ea435fe38f74368ddc30421810]: Textual amendment: [Sch. 14 para. 6(3)(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/14/paragraph/6/3/b) omitted (1.10.2026 except in relation to sentences for excluded offences listed in Sch. and with phased commencement in accordance with regs. 3, 4 in relation to a person serving a sentence imposed before that date) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 23(11)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/23/11/a), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 23(12)-(15)](https://www.legislation.gov.uk/ukpga/2026/2/section/23/12)); [S.I. 2026/953](https://www.legislation.gov.uk/uksi/2026/953), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2026/953/regulation/2/b), [3-5](https://www.legislation.gov.uk/uksi/2026/953/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2026/953/schedule)
+[^c-4dc881ea435fe38f74368ddc30421810]: Textual amendment: [Sch. 14 para. 6(3)(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/14/paragraph/6/3/b) omitted (1.10.2026 except in relation to sentences for excluded offences listed in Sch. and with phased commencement in accordance with regs. 3, 4 in relation to a person serving a sentence imposed before that date) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 23(11)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/23/11/a), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 23(12)-(15)](https://www.legislation.gov.uk/ukpga/2026/2/section/23/12)); [S.I. 2026/953](https://www.legislation.gov.uk/uksi/2026/953), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2026/953/regulation/2/b), [3-5](https://www.legislation.gov.uk/uksi/2026/953/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2026/953/schedule)

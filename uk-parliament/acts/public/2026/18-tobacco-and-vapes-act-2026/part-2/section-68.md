@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Alignment of definition of “vaping product”[^key-7c57d19d7b8d7cd1ca5da4927221c610]
+## 68. Alignment of definition of “vaping product”[^c-7c57d19d7b8d7cd1ca5da4927221c610]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 8 contains provision for the purposes of aligning the definition of “
 
 ## Annotations
 
-[^key-7c57d19d7b8d7cd1ca5da4927221c610]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2026/18/section/68) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-7c57d19d7b8d7cd1ca5da4927221c610]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2026/18/section/68) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

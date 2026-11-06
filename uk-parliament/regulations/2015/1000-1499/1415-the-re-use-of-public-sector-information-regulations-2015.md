@@ -100,7 +100,7 @@ In these Regulations—
 - (j) Welsh Ministers;
 - (k) a local authority;
 - (l) a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 [^c22646431] or a scheme to which section 4 of that Act applies;
-- (la)[^key-f0eb121a9f534f2b9377efedcbb591bf] a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004;
+- (la)[^c-f0eb121a9f534f2b9377efedcbb591bf] a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004;
 - (m) the Northern Ireland Fire and Rescue Service Board;
 - (n) a police and crime commissioner elected under section 1 of the Police Reform and Social Responsibility Act 2011 [^c22646441];
 - (o) a chief constable of a police force appointed under section 2 of that Act;
@@ -110,7 +110,7 @@ In these Regulations—
 - (s) the Police Service of Scotland established under section 6 of that Act;
 - (t) the Northern Ireland Policing Board;
 - (u) an authority established under section 10 of the Local Government Act 1985 [^c22646461];
-- (v)[^key-6fcde9f8f7de8e821bcb0eac22137c14] a joint authority established by Part IV of that Act;
+- (v)[^c-6fcde9f8f7de8e821bcb0eac22137c14] a joint authority established by Part IV of that Act;
 - (w) any body established pursuant to an order under section 67 of that Act;
 - (x) the Broads Authority;
 - (y) any joint board the constituent members of which consist of any of the bodies specified in paragraphs (k) and (l), (n) to (s) and (u) to (x);
@@ -393,7 +393,7 @@ if the same applicant has been charged in respect of those same costs by that pu
 
 (2) In this regulation, “**the relevant enforcement and appeals provisions of the 2000 Act**” means the following sections of the 2000 Act—
 
-- (a) section 50 (application for decision by Commission[^key-b208f325cc2581c848b633dee4e1d0ef]);
+- (a) section 50 (application for decision by Commission[^c-b208f325cc2581c848b633dee4e1d0ef]);
 - (b) section 51 (information notices);
 - (c) section 52 (enforcement notices);
 - (d) section 54 (failure to comply with notice);
@@ -435,7 +435,7 @@ if the same applicant has been charged in respect of those same costs by that pu
 
 (3) In this regulation, “**the relevant enforcement and appeals provisions of the 2000 Act**” means the following sections of the 2000 Act—
 
-- (a) section 50 (application for decision by Commission[^key-bf5e7366422a63e6cec9d9e8fffdccc4] );
+- (a) section 50 (application for decision by Commission[^c-bf5e7366422a63e6cec9d9e8fffdccc4] );
 - (b) section 56 (no action against public authority);
 - (c) section 57 (appeal against notices served under Part IV);
 - (d) section 58 (determination of appeals).
@@ -454,7 +454,7 @@ if the same applicant has been charged in respect of those same costs by that pu
     > (4) Where a recommendation notice has been served, the public sector body shall—
     >
     > - (a) decide what action, if any, it will take as a result of the recommendation and the date by which any such action will be taken; and
-    > - (b) notify the Commission[^key-05118c481d3ead8c709d980df065ae36] and the complainant of its decision and the reasons for it.
+    > - (b) notify the Commission[^c-05118c481d3ead8c709d980df065ae36] and the complainant of its decision and the reasons for it.
     >
     > (5) Action referred to in subsection (4) may include (but is not limited to)—
     >
@@ -494,11 +494,11 @@ if the same applicant has been charged in respect of those same costs by that pu
 
 ## 20. Information sharing
 
-(1) The Information Commission[^key-d16589e6c533edd12afb46a9233c530a] must notify the Scottish Information Commissioner [^c22646551] on receipt of an appeal brought under regulations 18 or 19 that relates to a Scottish Public Authority designated as such by or under the 2002 Act, and must provide an opportunity for the Scottish Information Commissioner to provide information relating to the appeal.
+(1) The Information Commission[^c-d16589e6c533edd12afb46a9233c530a] must notify the Scottish Information Commissioner [^c22646551] on receipt of an appeal brought under regulations 18 or 19 that relates to a Scottish Public Authority designated as such by or under the 2002 Act, and must provide an opportunity for the Scottish Information Commissioner to provide information relating to the appeal.
 
-(2) The Information Commission[^key-61535a0c9cf80f97e9cf80b847c7fbb2] may disclose to the Scottish Information Commissioner any information obtained under or for the purposes of these Regulations which is considered to be necessary in order to carry out any of the functions conferred by or under them.
+(2) The Information Commission[^c-61535a0c9cf80f97e9cf80b847c7fbb2] may disclose to the Scottish Information Commissioner any information obtained under or for the purposes of these Regulations which is considered to be necessary in order to carry out any of the functions conferred by or under them.
 
-(3) The Scottish Information Commissioner may disclose to the Information Commission[^key-fe420322851d64c5f436eaf797685833] any information obtained under or for the purposes of the 2002 Act, the 2004 Regulations or these Regulations which is considered to be necessary in order to carry out any of the functions conferred by or under these Regulations.
+(3) The Scottish Information Commissioner may disclose to the Information Commission[^c-fe420322851d64c5f436eaf797685833] any information obtained under or for the purposes of the 2002 Act, the 2004 Regulations or these Regulations which is considered to be necessary in order to carry out any of the functions conferred by or under these Regulations.
 
 ## 21. Amendments to the Freedom of Information Act 2000
 
@@ -641,7 +641,7 @@ A full impact assessment has been prepared for these Regulations together with a
 
 [^c22646431]: Marginal citation: [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21). Sections 2 and 4 were amended by the Local Government and Public Involvement in [Health Act 2007 (c. 28) and the Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20).
 
-[^key-f0eb121a9f534f2b9377efedcbb591bf]: Textual amendment: [Reg. 3(1)(la)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/3/1/la) inserted (E.) (1.10.2017) by [The Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017 (S.I. 2017/863)](https://www.legislation.gov.uk/uksi/2017/863), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1), [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/2017/863/schedule/2/paragraph/9/2)
+[^c-f0eb121a9f534f2b9377efedcbb591bf]: Textual amendment: [Reg. 3(1)(la)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/3/1/la) inserted (E.) (1.10.2017) by [The Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017 (S.I. 2017/863)](https://www.legislation.gov.uk/uksi/2017/863), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1), [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/2017/863/schedule/2/paragraph/9/2)
 
 [^c22646441]: Marginal citation: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13).
 
@@ -649,7 +649,7 @@ A full impact assessment has been prepared for these Regulations together with a
 
 [^c22646461]: Marginal citation: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51). Section 10 was amended by the [Environmental Protection Act 1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43).
 
-[^key-6fcde9f8f7de8e821bcb0eac22137c14]: Modification: [Reg. 3(1)(v)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/3/1/v) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(z1)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/z1) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
+[^c-6fcde9f8f7de8e821bcb0eac22137c14]: Modification: [Reg. 3(1)(v)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/3/1/v) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(z1)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/z1) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
 
 [^c22646471]: Marginal citation: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
@@ -665,19 +665,19 @@ A full impact assessment has been prepared for these Regulations together with a
 
 [^c22646531]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-b208f325cc2581c848b633dee4e1d0ef]: Textual amendment: Word in [reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/18/2/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 17(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/17/2); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-b208f325cc2581c848b633dee4e1d0ef]: Textual amendment: Word in [reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/18/2/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 17(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/17/2); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-bf5e7366422a63e6cec9d9e8fffdccc4]: Textual amendment: Word in [reg. 19(3)(a)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/19/3/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 17(3)(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/17/3/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-bf5e7366422a63e6cec9d9e8fffdccc4]: Textual amendment: Word in [reg. 19(3)(a)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/19/3/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 17(3)(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/17/3/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-05118c481d3ead8c709d980df065ae36]: Textual amendment: Word in [reg. 19(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/19/4/c/iii) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 17(3)(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/17/3/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-05118c481d3ead8c709d980df065ae36]: Textual amendment: Word in [reg. 19(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/19/4/c/iii) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 17(3)(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/17/3/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-d16589e6c533edd12afb46a9233c530a]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/20/1) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 17(4)(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/17/4/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-d16589e6c533edd12afb46a9233c530a]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/20/1) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 17(4)(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/17/4/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
 [^c22646551]: Marginal citation: The Scottish Information Commissioner is appointed under section 42 of the 2002 Act.
 
-[^key-61535a0c9cf80f97e9cf80b847c7fbb2]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/20/2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 17(4)(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/17/4/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-61535a0c9cf80f97e9cf80b847c7fbb2]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/20/2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 17(4)(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/17/4/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-fe420322851d64c5f436eaf797685833]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/20/3) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 17(4)(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/17/4/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-fe420322851d64c5f436eaf797685833]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/20/3) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 17(4)(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/17/4/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
 [^c22646561]: Marginal citation: [Section 11A](https://www.legislation.gov.uk/uksi/2015/1415/section/11A) was inserted by the [Protection of Freedoms Act 2012 (c.9)](https://www.legislation.gov.uk/ukpga/2012/9), [sections 102(1)](https://www.legislation.gov.uk/ukpga/2012/9/section/102/1) and (3).
 

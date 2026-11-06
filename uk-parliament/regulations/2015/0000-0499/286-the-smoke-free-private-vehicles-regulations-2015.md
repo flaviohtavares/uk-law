@@ -42,7 +42,7 @@ Coming into force
 
 The Secretary of State for Health, in exercise of the powers conferred by sections 5, 6(2)(b), 9(1A) and 10(1) and (2) of, and paragraph 5 of Schedule 1 to, the Health Act 2006[^f00001], makes the following Regulations, a draft of which was laid before Parliament in accordance with section 79(4) of that Act and approved by a resolution of each House of Parliament:
 
-## 1. Citation, commencement and application[^key-35e9f5904314382ba622dcd316bb195f]
+## 1. Citation, commencement and application[^c-35e9f5904314382ba622dcd316bb195f]
 
 (1) These Regulations may be cited as the Smoke-free (Private Vehicles) Regulations 2015 and shall come into force on 1st October 2015.
 
@@ -50,7 +50,7 @@ The Secretary of State for Health, in exercise of the powers conferred by sectio
 
 (3) Regulation 5 applies in relation to England and Wales.
 
-## 2. Private vehicles with children present – amendment of the Smoke-free (Exemptions and Vehicles) Regulations 2007[^key-185fd11cb409188c35aa42ab5870831b]
+## 2. Private vehicles with children present – amendment of the Smoke-free (Exemptions and Vehicles) Regulations 2007[^c-185fd11cb409188c35aa42ab5870831b]
 
 (1) Regulation 11 of the Smoke-free (Exemptions and Vehicles) Regulations 2007[^f00002] is amended as follows.
 
@@ -79,7 +79,7 @@ The Secretary of State for Health, in exercise of the powers conferred by sectio
 > - “motor caravan” means a motor vehicle which is constructed or adapted for the carriage of passengers and their effects and which contains, as permanently installed equipment, the facilities which are reasonably necessary for enabling the vehicle to provide mobile living accommodation for its users.
 > - “road” has the same meaning as in section 192(1) of the Road Traffic Act 1988[^f00003].
 
-## 3. No-smoking signs – amendment of the Smoke-free (Signs) Regulations 2012[^key-fb728f37dc51d5ea1b24675c6df744df]
+## 3. No-smoking signs – amendment of the Smoke-free (Signs) Regulations 2012[^c-fb728f37dc51d5ea1b24675c6df744df]
 
 (1) The Smoke-free (Signs) Regulations 2012[^f00004] are amended as follows.
 
@@ -87,17 +87,17 @@ The Secretary of State for Health, in exercise of the powers conferred by sectio
 
 (3) In regulation 2, for “a smoke-free vehicle” substitute “a vehicle that is smoke-free by virtue of regulation 11(1) of the Smoke-free (Exemptions and Vehicles) Regulations 2007,”.
 
-## 4. Fixed penalties[^key-c039e7466eb9cb7284a1d95afb803173]
+## 4. Fixed penalties[^c-c039e7466eb9cb7284a1d95afb803173]
 
 An authorised officer of an enforcement authority who has reason to believe that a person has committed an offence under section 8(4) of the Health Act 2006 in relation to a vehicle that is smoke-free by virtue of regulation 11(1A) of the Smoke-Free (Exemptions and Vehicles) Regulations 2007, may give that person a penalty notice in respect of the offence.
 
-## 5. Penalties and discounted amounts - amendment of the Smoke-free (Penalties and Discounted Amounts) Regulations 2007[^key-a2f05608c34dab96df54c5a3e154cf5f]
+## 5. Penalties and discounted amounts - amendment of the Smoke-free (Penalties and Discounted Amounts) Regulations 2007[^c-a2f05608c34dab96df54c5a3e154cf5f]
 
 (1) The Smoke-free (Penalties and Discounted Amounts) Regulations 2007[^f00005] are amended as follows.
 
 (2) In paragraph (5) of regulation 2, after “under section 7(2)” insert “or 8(4)”.
 
-## 6. Enforcement – amendment of the Smoke-free (Premises and Enforcement) Regulations 2006[^key-51f0554490382a030294f0d388206d2d]
+## 6. Enforcement – amendment of the Smoke-free (Premises and Enforcement) Regulations 2006[^c-51f0554490382a030294f0d388206d2d]
 
 (1) The Smoke-free (Premises and Enforcement) Regulations 2006[^f00006] are amended as follows.
 
@@ -112,7 +112,7 @@ An authorised officer of an enforcement authority who has reason to believe that
 
 [^f00007]
 
-## 7. Review[^key-823edb580f240395376f554ff0ed39c0]
+## 7. Review[^c-823edb580f240395376f554ff0ed39c0]
 
 (1) Before the end of the review period the Secretary of State must—
 
@@ -162,28 +162,28 @@ An Impact Assessment has been prepared for these Regulations and is published wi
 
 [^f00001]: Footnote: [2006 c.28](https://www.legislation.gov.uk/ukpga/2006/28). Sections 5, 9, 10(1) and 79 were amended by section 95 of the Children and Families Act [2014 (c.6)](https://www.legislation.gov.uk/ukpga/2014/6). As to the meaning of “appropriate national authority” see section 82(1).
 
-[^key-35e9f5904314382ba622dcd316bb195f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/286/regulation/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1)
+[^c-35e9f5904314382ba622dcd316bb195f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/286/regulation/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1)
 
-[^key-185fd11cb409188c35aa42ab5870831b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/286/regulation/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1)
+[^c-185fd11cb409188c35aa42ab5870831b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/286/regulation/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2007/765](https://www.legislation.gov.uk/uksi/2007/765)
 
 [^f00003]: Footnote: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52). Section 192(1) was amended by the New Roads and Street Works Act [1991 (c.22)](https://www.legislation.gov.uk/ukpga/1991/22). Schedule 8(IV) paragraph 121(4); the Treaty of Lisbon (Changes in Terminology) Order ([S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043)), Part 2, article 6(1)(d); the Access to Justice Act [1999 (c.22)](https://www.legislation.gov.uk/ukpga/1999/22) schedule 15(V)(1), paragraph 1, and by the Road Traffic Act [1991 (c.40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 4, paragraph 78(2) and (3).
 
-[^key-fb728f37dc51d5ea1b24675c6df744df]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/286/regulation/3) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1)
+[^c-fb728f37dc51d5ea1b24675c6df744df]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/286/regulation/3) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2012/1536](https://www.legislation.gov.uk/uksi/2012/1536)
 
-[^key-c039e7466eb9cb7284a1d95afb803173]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/286/regulation/4) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1)
+[^c-c039e7466eb9cb7284a1d95afb803173]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/286/regulation/4) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1)
 
-[^key-a2f05608c34dab96df54c5a3e154cf5f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/286/regulation/5) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1)
+[^c-a2f05608c34dab96df54c5a3e154cf5f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/286/regulation/5) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2007/764](https://www.legislation.gov.uk/uksi/2007/764).
 
-[^key-51f0554490382a030294f0d388206d2d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/286/regulation/6) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1)
+[^c-51f0554490382a030294f0d388206d2d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/286/regulation/6) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2006/3368](https://www.legislation.gov.uk/uksi/2006/3368).
 
 [^f00007]: Footnote: The expressions “chief officer of police”, “police area” and “police force” are defined, in relation to England and Wales, in section 101 of the Police Act [1996 (c.16)](https://www.legislation.gov.uk/ukpga/1996/16).
 
-[^key-823edb580f240395376f554ff0ed39c0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/286/regulation/7) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1)
+[^c-823edb580f240395376f554ff0ed39c0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/286/regulation/7) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1)

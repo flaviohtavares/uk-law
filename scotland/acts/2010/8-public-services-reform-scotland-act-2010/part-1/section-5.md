@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Dissolution of Scottish Industrial Development Advisory Board[^key-7edb59ce6f9b6a6716b30c524c638fc9]
+## 5. Dissolution of Scottish Industrial Development Advisory Board[^c-7edb59ce6f9b6a6716b30c524c638fc9]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7edb59ce6f9b6a6716b30c524c638fc9]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2010/8/section/5) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-7edb59ce6f9b6a6716b30c524c638fc9]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2010/8/section/5) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

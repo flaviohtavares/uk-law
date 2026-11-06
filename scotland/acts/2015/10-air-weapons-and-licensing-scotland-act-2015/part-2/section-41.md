@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Licensing objectives: protecting young persons from harm[^key-862d1c2d1fdcfd951eff990bf006b49f]
+## 41. Licensing objectives: protecting young persons from harm[^c-862d1c2d1fdcfd951eff990bf006b49f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In section 4 of the Licensing (Scotland) Act 2005 (“**the 2005 Act**”) (the 
 
 ## Annotations
 
-[^key-862d1c2d1fdcfd951eff990bf006b49f]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2015/10/section/41) in force at 15.5.2017 by [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)
+[^c-862d1c2d1fdcfd951eff990bf006b49f]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2015/10/section/41) in force at 15.5.2017 by [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)

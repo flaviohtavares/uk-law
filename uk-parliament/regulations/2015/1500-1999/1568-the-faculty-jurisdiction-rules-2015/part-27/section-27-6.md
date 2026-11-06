@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 27.6. Addition of parties[^key-13647a63ce4a96385b056a5da00a5b98]
+## 27.6. Addition of parties[^c-13647a63ce4a96385b056a5da00a5b98]
 
 *Extent: E*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13647a63ce4a96385b056a5da00a5b98]: Commencement: [Rule 27.6](https://www.legislation.gov.uk/uksi/2015/1568/article/27.6) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-13647a63ce4a96385b056a5da00a5b98]: Commencement: [Rule 27.6](https://www.legislation.gov.uk/uksi/2015/1568/article/27.6) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

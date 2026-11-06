@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Objections to admissibility of evidence raised without due notice[^key-e679a0e3efa2228731c0f4e479efcfd0]
+## 14. Objections to admissibility of evidence raised without due notice[^c-e679a0e3efa2228731c0f4e479efcfd0]
 
 *Extent: S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e679a0e3efa2228731c0f4e479efcfd0]: Commencement: S. 14 in force at 1.2.2005 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
+[^c-e679a0e3efa2228731c0f4e479efcfd0]: Commencement: S. 14 in force at 1.2.2005 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))

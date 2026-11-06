@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Police: complaints[^key-0ca43df8ab8e67d5d26f2dde1786680f][^key-aa1e21601547997b5282ad03f6f92f03][^key-ec71157e4c6ee3ca361c539e0085a377]
+## 95. Police: complaints[^c-0ca43df8ab8e67d5d26f2dde1786680f][^c-aa1e21601547997b5282ad03f6f92f03][^c-ec71157e4c6ee3ca361c539e0085a377]
 
 *Extent: E+W*
 
@@ -24,8 +24,8 @@ Schedule 14 (police: complaints) has effect.
 
 ## Annotations
 
-[^key-0ca43df8ab8e67d5d26f2dde1786680f]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2011/13/section/95) in force at 15.11.2011 for specified purposes by [S.I. 2011/2515](https://www.legislation.gov.uk/uksi/2011/2515), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2515/article/3/c)
+[^c-0ca43df8ab8e67d5d26f2dde1786680f]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2011/13/section/95) in force at 15.11.2011 for specified purposes by [S.I. 2011/2515](https://www.legislation.gov.uk/uksi/2011/2515), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2515/article/3/c)
 
-[^key-aa1e21601547997b5282ad03f6f92f03]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2011/13/section/95) in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (as amended by [S.I. 2012/75](https://www.legislation.gov.uk/uksi/2012/75), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/75/article/2/2/a))
+[^c-aa1e21601547997b5282ad03f6f92f03]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2011/13/section/95) in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (as amended by [S.I. 2012/75](https://www.legislation.gov.uk/uksi/2012/75), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/75/article/2/2/a))
 
-[^key-ec71157e4c6ee3ca361c539e0085a377]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2011/13/section/95) in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+[^c-ec71157e4c6ee3ca361c539e0085a377]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2011/13/section/95) in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)

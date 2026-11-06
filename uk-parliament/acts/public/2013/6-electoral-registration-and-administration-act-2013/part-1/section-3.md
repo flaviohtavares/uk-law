@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Proxies to be registered electors[^key-7c62ab2801680c91b089a55373cb452b]
+## 3. Proxies to be registered electors[^c-7c62ab2801680c91b089a55373cb452b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In paragraph 6 of Schedule 4 to the Representation of the People Act 2000 (absen
 
 ## Annotations
 
-[^key-7c62ab2801680c91b089a55373cb452b]: Commencement: S. 3 in force at 10.6.2014 for E.W. and 19.9.2014 for S. by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/414/article/5/c)
+[^c-7c62ab2801680c91b089a55373cb452b]: Commencement: S. 3 in force at 10.6.2014 for E.W. and 19.9.2014 for S. by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/414/article/5/c)

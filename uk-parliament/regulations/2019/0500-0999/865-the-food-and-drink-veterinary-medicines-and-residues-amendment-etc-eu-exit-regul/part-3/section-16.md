@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Revocations[^key-c6db6db924806ac87b3d7baf779633ad]
+## 16. Revocations[^c-c6db6db924806ac87b3d7baf779633ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The retained direct EU legislation listed in Schedule 7 is revoked.
 
 ## Annotations
 
-[^key-c6db6db924806ac87b3d7baf779633ad]: Commencement: Reg. 16 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-c6db6db924806ac87b3d7baf779633ad]: Commencement: Reg. 16 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

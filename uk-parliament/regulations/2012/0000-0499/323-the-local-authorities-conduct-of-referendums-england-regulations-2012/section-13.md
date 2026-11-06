@@ -33,7 +33,7 @@ summary: ''
   - (iv) where the proceedings on the issue and receipt of postal ballot papers at the referendums are taken together under regulation 65 of the Representation of the People Regulations (as applied by paragraph (5)), rule 13 (postal ballot papers);
   - (v) rule 14 (provision of polling stations);
   - (vi) rule 15(1) and (2) (appointment of presiding officers and clerks) to the extent that that rule concerns the appointment of presiding officers and clerks to assist them;
-  - (vii) rule 17 (equipment of polling stations) , except the functions in rule 17(5A)[^key-d82b5bd36bf971573b89f4011512e679];
+  - (vii) rule 17 (equipment of polling stations) , except the functions in rule 17(5A)[^c-d82b5bd36bf971573b89f4011512e679];
   - (viii) rule 20 (notification of requirement of secrecy in relation to polling stations);
   - (ix) where the proceedings on the issue and receipt of postal ballot papers at the referendums are taken together under regulation 65 of the Representation of the People Regulations (as applied by paragraph (5)), rule 22 (return of postal ballot papers);
   - (x) rule 23(3) (signature as to certificate of employment);
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d82b5bd36bf971573b89f4011512e679]: Textual amendment: Words in [reg. 13(3)(a)(vii)](https://www.legislation.gov.uk/uksi/2012/323/regulation/13/3/a/vii) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [47](https://www.legislation.gov.uk/uksi/2022/1382/regulation/47) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-d82b5bd36bf971573b89f4011512e679]: Textual amendment: Words in [reg. 13(3)(a)(vii)](https://www.legislation.gov.uk/uksi/2012/323/regulation/13/3/a/vii) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [47](https://www.legislation.gov.uk/uksi/2022/1382/regulation/47) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))

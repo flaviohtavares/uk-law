@@ -44,7 +44,7 @@ Coming into force
 
 28th February 2005
 
-[^key-111d076e3a8439d9929593a4a99fa979]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-111d076e3a8439d9929593a4a99fa979]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 1. Citation, commencement and duration
 
@@ -72,10 +72,10 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-111d076e3a8439d9929593a4a99fa979]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-111d076e3a8439d9929593a4a99fa979]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-111d076e3a8439d9929593a4a99fa979]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-111d076e3a8439d9929593a4a99fa979]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-111d076e3a8439d9929593a4a99fa979]: Textual amendment: Instrument revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-111d076e3a8439d9929593a4a99fa979]: Textual amendment: Instrument revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)

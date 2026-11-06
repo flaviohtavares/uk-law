@@ -44,7 +44,7 @@ A draft of the instrument has been laid before Parliament and a period of forty 
 
 The Commission makes the following Order in exercise of the power conferred by section 59(1) of the Act.
 
-## 1. Citation, commencement, extent and application[^key-b8fb1ed6b7648dc1e4d08984dd0976fb]
+## 1. Citation, commencement, extent and application[^c-b8fb1ed6b7648dc1e4d08984dd0976fb]
 
 (1) This Order may be cited as the Norfolk (Electoral Changes) Order 2021.
 
@@ -53,7 +53,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 (3) Article 3 comes into force—
 
 - (a) for the purpose of proceedings preliminary or relating to the election of councillors, on 15th October 2024;
-- (b) for all other purposes, on the ordinary day of election of councillors in England[^f00003] in 2026[^key-02c59f5f773a48ddaeb07636b85b9ec4].
+- (b) for all other purposes, on the ordinary day of election of councillors in England[^f00003] in 2026[^c-02c59f5f773a48ddaeb07636b85b9ec4].
 
 (4) Article 4 comes into force—
 
@@ -62,13 +62,13 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (5) This Order extends to England and Wales but applies in relation to England only.
 
-## 2. Interpretation[^key-bcbb74f383506668bc5b66f0634a6450]
+## 2. Interpretation[^c-bcbb74f383506668bc5b66f0634a6450]
 
 (1) In this Order, “**the map**” means the map marked “Map referred to in the Norfolk (Electoral Changes) Order 2021”, held by the Local Government Boundary Commission for England[^f00004].
 
 (2) Where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature.
 
-## 3. Divisions of the county of Norfolk and number of councillors[^key-aa619b0aadeb972b75ea329921146597][^key-f77d89785e32337ee81786d6d7238cf9]
+## 3. Divisions of the county of Norfolk and number of councillors[^c-aa619b0aadeb972b75ea329921146597][^c-f77d89785e32337ee81786d6d7238cf9]
 
 (1) The existing divisions of the county of Norfolk are abolished.
 
@@ -78,7 +78,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (4) The number of councillors to be elected for each division is one.
 
-## 4. Wards of the parishes of Attleborough, Bradwell, Costessey, Thorpe St Andrew, and Wymondham[^key-e7c50f388faddd0265691572b188810c][^key-901dcc6ae339abd359c9299a2d32c383]
+## 4. Wards of the parishes of Attleborough, Bradwell, Costessey, Thorpe St Andrew, and Wymondham[^c-e7c50f388faddd0265691572b188810c][^c-901dcc6ae339abd359c9299a2d32c383]
 
 **Not yet in force.**
 
@@ -108,7 +108,7 @@ Local Government Boundary Commission for England
 
 1st November 2021
 
-## SCHEDULE 1 — Divisions of the county of Norfolk[^key-366475be5ffc03343ac3d87f5d883f4e][^key-80f7bbf60e25f25ca7f29f5530327f98]
+## SCHEDULE 1 — Divisions of the county of Norfolk[^c-366475be5ffc03343ac3d87f5d883f4e][^c-80f7bbf60e25f25ca7f29f5530327f98]
 
 Article 3
 
@@ -280,7 +280,7 @@ Article 3
 
 **84.** Yarmouth North & Central
 
-## SCHEDULE 2 — Names of parish wards and number of councillors[^key-b1c9391fdcc16b0eaf96a4a2698b6d93][^key-48a70ae04bc4b83c165469225b1aa8a4]
+## SCHEDULE 2 — Names of parish wards and number of councillors[^c-b1c9391fdcc16b0eaf96a4a2698b6d93][^c-48a70ae04bc4b83c165469225b1aa8a4]
 
 **Not yet in force.**
 
@@ -361,28 +361,28 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: The Local Government Boundary Commission for England was established on 1st April 2010 by section 55(1) of the Local Democracy, Economic Development and Construction Act 2009.
 
-[^key-b8fb1ed6b7648dc1e4d08984dd0976fb]: Commencement: Art. 1 in force at 15.10.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/2)
+[^c-b8fb1ed6b7648dc1e4d08984dd0976fb]: Commencement: Art. 1 in force at 15.10.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/2)
 
 [^f00003]: Footnote: The ordinary day of election of councillors in England is prescribed by section 37(1) of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2), as amended by section 18(2) of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), renumbered by paragraph 5 of Schedule 3 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), and further amended by section 6(16) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
 
-[^key-02c59f5f773a48ddaeb07636b85b9ec4]: Textual amendment: Word in art. 1(3)(b) substituted (4.3.2025) by [The Local Authorities (Changes to Years of Ordinary Elections) (England) Order 2025 (S.I. 2025/137)](https://www.legislation.gov.uk/uksi/2025/137), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/137/article/1/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/a)
+[^c-02c59f5f773a48ddaeb07636b85b9ec4]: Textual amendment: Word in art. 1(3)(b) substituted (4.3.2025) by [The Local Authorities (Changes to Years of Ordinary Elections) (England) Order 2025 (S.I. 2025/137)](https://www.legislation.gov.uk/uksi/2025/137), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/137/article/1/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/a)
 
-[^key-bcbb74f383506668bc5b66f0634a6450]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2021/1219/article/2) in force at 15.10.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/2)
+[^c-bcbb74f383506668bc5b66f0634a6450]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2021/1219/article/2) in force at 15.10.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/2)
 
 [^f00004]: Footnote: Prints of the map are available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London SW1H 0TL. It is also accessible online at https://www.lgbce.org.uk/all-reviews/eastern/norfolk/norfolk-county-council.
 
-[^key-aa619b0aadeb972b75ea329921146597]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2021/1219/article/3) in force at 15.10.2024 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/3/a)
+[^c-aa619b0aadeb972b75ea329921146597]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2021/1219/article/3) in force at 15.10.2024 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/3/a)
 
-[^key-f77d89785e32337ee81786d6d7238cf9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2021/1219/article/3) in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/a))
+[^c-f77d89785e32337ee81786d6d7238cf9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2021/1219/article/3) in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/a))
 
-[^key-e7c50f388faddd0265691572b188810c]: Commencement: Art. 4 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/4/a)
+[^c-e7c50f388faddd0265691572b188810c]: Commencement: Art. 4 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/4/a)
 
-[^key-901dcc6ae339abd359c9299a2d32c383]: Commencement: Art. 4 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/4/b)
+[^c-901dcc6ae339abd359c9299a2d32c383]: Commencement: Art. 4 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/4/b)
 
-[^key-366475be5ffc03343ac3d87f5d883f4e]: Commencement: Sch. 1 in force at 15.10.2024 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/3/a)
+[^c-366475be5ffc03343ac3d87f5d883f4e]: Commencement: Sch. 1 in force at 15.10.2024 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/3/a)
 
-[^key-80f7bbf60e25f25ca7f29f5530327f98]: Commencement: Sch. 1 in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/a))
+[^c-80f7bbf60e25f25ca7f29f5530327f98]: Commencement: Sch. 1 in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/a))
 
-[^key-b1c9391fdcc16b0eaf96a4a2698b6d93]: Commencement: Sch. 2 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/4/a)
+[^c-b1c9391fdcc16b0eaf96a4a2698b6d93]: Commencement: Sch. 2 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/4/a)
 
-[^key-48a70ae04bc4b83c165469225b1aa8a4]: Commencement: Sch. 2 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/4/b)
+[^c-48a70ae04bc4b83c165469225b1aa8a4]: Commencement: Sch. 2 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/4/b)

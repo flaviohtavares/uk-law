@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 806A. Meaning of providing shared lives care[^key-2328006e3dd69437df7e18357b296b85]
+## 806A. Meaning of providing shared lives care[^c-2328006e3dd69437df7e18357b296b85]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2328006e3dd69437df7e18357b296b85]: Textual amendment: Ss. 806A, 806B inserted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/7) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))
+[^c-2328006e3dd69437df7e18357b296b85]: Textual amendment: Ss. 806A, 806B inserted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/7) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))

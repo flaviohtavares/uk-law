@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**115.**[^key-048931da2a4e29c8fdafed672e4e6954] In Schedule 2, in paragraph 19B[^f00138] (additional functions in relation to eligible children)—
+**115.**[^c-048931da2a4e29c8fdafed672e4e6954] In Schedule 2, in paragraph 19B[^f00138] (additional functions in relation to eligible children)—
 
 - (a) in sub-paragraph (2)(b) after “a local authority” insert “or by a local authority in Wales”;
 - (b) in sub-paragraph (3) for “appropriate national authority” substitute “Secretary of State”;
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-048931da2a4e29c8fdafed672e4e6954]: Commencement: Reg. 115 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-048931da2a4e29c8fdafed672e4e6954]: Commencement: Reg. 115 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00138]: Footnote: Paragraphs 19A to 19C were inserted by the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35), section 1; paragraph 19B was amended by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), Schedule 3, paragraphs 1 and 27(1) and (3).

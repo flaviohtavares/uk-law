@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 33. Vexatious litigant: operation of restraint order[^key-2b8b77b0a66d56ac594965a4fb4b50b1]
+## 33. Vexatious litigant: operation of restraint order[^c-2b8b77b0a66d56ac594965a4fb4b50b1]
 
 *Extent: E*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b8b77b0a66d56ac594965a4fb4b50b1]: Commencement: S. 33 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-2b8b77b0a66d56ac594965a4fb4b50b1]: Commencement: S. 33 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

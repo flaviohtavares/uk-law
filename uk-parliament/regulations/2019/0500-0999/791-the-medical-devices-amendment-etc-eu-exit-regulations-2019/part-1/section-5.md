@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Amendment of Part III of the 2002 Regulations[^key-2811005c1c34ae64151f35e466e150d5]
+## 5. Amendment of Part III of the 2002 Regulations[^c-2811005c1c34ae64151f35e466e150d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,16 +31,16 @@ summary: ''
 
   .
 
-(3)[^key-44697cf35d687eac05e1c62803a0ab4b] After regulation 21 insert—
+(3)[^c-44697cf35d687eac05e1c62803a0ab4b] After regulation 21 insert—
 
 > **21A. Registration of persons placing active implantable medical devices on the market**
 >
-> (1) No person may place a relevant device on the market in accordance with this Part [^key-c0c2e704492e5d429377020ca37a4f21]... unless that person—
+> (1) No person may place a relevant device on the market in accordance with this Part [^c-c0c2e704492e5d429377020ca37a4f21]... unless that person—
 >
-> - (a) is established in Great Britain[^key-945697f0ad37f5612e637dec88ee9e85]; and
+> - (a) is established in Great Britain[^c-945697f0ad37f5612e637dec88ee9e85]; and
 > - (b) has complied with paragraph (2).
 >
-> (2)[^key-f25c7343c795cec845cfcab187f88854] A person who places a relevant device on the market complies with this paragraph if, before placing the relevant device on the market—
+> (2)[^c-f25c7343c795cec845cfcab187f88854] A person who places a relevant device on the market complies with this paragraph if, before placing the relevant device on the market—
 >
 > - (a) where—
 >   - (i) that person is the manufacturer of that device and is based in Great Britain, the person informs the Secretary of State of the address of their registered place of business in Great Britain;
@@ -49,14 +49,14 @@ summary: ''
 > - (b) that person supplies the Secretary of State with a description of the relevant device; and
 > - (c) that person pays to the Secretary of State the relevant fee in accordance with regulation 53.
 >
-> (2A)[^key-639b78abd6ccb14bfae2fbee93384f29] The person responsible for providing information in accordance with paragraph (2) must inform the Secretary of State of any changes to that information.
+> (2A)[^c-639b78abd6ccb14bfae2fbee93384f29] The person responsible for providing information in accordance with paragraph (2) must inform the Secretary of State of any changes to that information.
 >
-> (3) The UK responsible person appointed in accordance with paragraph (2)(a)(ii) must—[^key-989da94084e551396e3d825ff815e3e9]
+> (3) The UK responsible person appointed in accordance with paragraph (2)(a)(ii) must—[^c-989da94084e551396e3d825ff815e3e9]
 >
 > - (a) ensure that the declaration of conformity and technical documentation have been drawn up and, where applicable, that an appropriate conformity assessment procedure has been carried out by the manufacturer;
 > - (b) keep available to the Secretary of State a copy of the technical documentation, a copy of the declaration of conformity and, if applicable, a copy of the relevant certificate, including any amendments and supplements;
 > - (c) in response to a request from the Secretary of State, provide the Secretary of State with all the information and documentation necessary to demonstrate the conformity of a device;
-> - (d)[^key-701c3c8a55fa9af7fda5dfbd2c000f7a] where they have samples of the device or access to the device, comply with any request from the Secretary of State to provide such samples or access;
+> - (d)[^c-701c3c8a55fa9af7fda5dfbd2c000f7a] where they have samples of the device or access to the device, comply with any request from the Secretary of State to provide such samples or access;
 > - (e) where they have neither samples of the device nor access to the device, communicate to the manufacturer any request from the Secretary of State to provide such samples or access, and communicate to the Secretary of State whether the manufacturer intends to comply with that request;
 > - (f) cooperate with the Secretary of State on any preventive or corrective action taken to eliminate or, if that is not possible, mitigate the risks posed by devices;
 > - (g) immediately inform the manufacturer about complaints and reports from healthcare professionals, patients and users about suspected incidents related to a device for which they have been appointed;
@@ -64,7 +64,7 @@ summary: ''
 >   - (i) terminate the legal relationship with the manufacturer; and
 >   - (ii) inform the Secretary of State and, if applicable, the relevant approved body of that termination.
 >
-> (4)[^key-d2399d26051a2276ee7d7897f0096385] In this regulation—
+> (4)[^c-d2399d26051a2276ee7d7897f0096385] In this regulation—
 >
 > - (a) the references to “technical documentation” are to be construed in accordance with Annex 2, 3 or 5;
 > - (b) the references to “declaration of conformity” are to be construed in accordance with Annexes 2, 3 and 5.
@@ -76,7 +76,7 @@ summary: ''
 - (a) in sub-paragraph (i), omit “or another Community language, and”;
 - (b) omit sub-paragraph (ii).
 
-(4A)[^key-6b450495505e765c31f4af1bb971b6db] In regulation 24 (CE marking of active implantable medical devices)—
+(4A)[^c-6b450495505e765c31f4af1bb971b6db] In regulation 24 (CE marking of active implantable medical devices)—
 
 - (a) in the heading for “CE marking” substitute “UK marking”;
 - (b) for “CE marking” each time those words occur substitute “UK marking”;
@@ -87,7 +87,7 @@ summary: ''
 
 substitute “approved body”.
 
-(4B)[^key-9fba16f0e100dd9ff23a5e16b14ef614] For regulation 25 (CE marking of active implantable medical devices that come within the scope of more than one Directive) substitute—
+(4B)[^c-9fba16f0e100dd9ff23a5e16b14ef614] For regulation 25 (CE marking of active implantable medical devices that come within the scope of more than one Directive) substitute—
 
 > **25. UK marking of active implantable medical devices that come within the scope of this Part and other legislation**
 >
@@ -95,7 +95,7 @@ substitute “approved body”.
 
 .
 
-(5)[^key-d115930c823e03e12c894ab852825a95] In regulation 26 (exemptions from regulations 22 and 24)—
+(5)[^c-d115930c823e03e12c894ab852825a95] In regulation 26 (exemptions from regulations 22 and 24)—
 
 - (a) in paragraph (1) omit “Directive 90/385 or”;
 - (b) in paragraph (3) for “CE marking” substitute “UK marking”;
@@ -107,7 +107,7 @@ substitute “approved body”.
 
   .
 
-(5A)[^key-7818e4a0cc121d51289447c927c9bbb2] In regulation 27 (procedures for affixing a CE marking to active implantable medical devices)—
+(5A)[^c-7818e4a0cc121d51289447c927c9bbb2] In regulation 27 (procedures for affixing a CE marking to active implantable medical devices)—
 
 - (a) in the heading for “CE marking” substitute “UK marking”;
 - (b) in the opening words for—
@@ -115,16 +115,16 @@ substitute “approved body”.
   - (ii) “his authorised representative” substitute “their UK responsible person”;
 - (c) in sub-paragraphs (b) and (c) for “Directive 90/385” substitute “this Part”.
 
-(5B)[^key-9d8d511393ede6d6c36ea6943e9917b3] In regulation 28 (procedures for custom-made active implantable medical devices), in the opening words, for “his authorised representative” substitute “their UK responsible person.
+(5B)[^c-9d8d511393ede6d6c36ea6943e9917b3] In regulation 28 (procedures for custom-made active implantable medical devices), in the opening words, for “his authorised representative” substitute “their UK responsible person.
 
-(5C)[^key-916602f96ad62fa99facaec70ced2e13] In regulation 29 (procedures for active implantable medical devices for clinical investigations)—
+(5C)[^c-916602f96ad62fa99facaec70ced2e13] In regulation 29 (procedures for active implantable medical devices for clinical investigations)—
 
 - (a) for “his authorised representative” each time those words occur, substitute “their UK responsible person”;
 - (b) in paragraph (1), in the opening words, for “the United Kingdom” substitute “Great Britain”;
 - (c) in paragraph (3), for “or authorised representative” substitute “or UK responsible person”;
 - (d) in paragraph (10) for “single authorised representative” substitute “single UK responsible person”.
 
-(6)[^key-f0a7674783b3e45906c864712971dfdd] In regulation 30 (manufacturers etc. and conformity assessment procedures for active implantable medical devices)—
+(6)[^c-f0a7674783b3e45906c864712971dfdd] In regulation 30 (manufacturers etc. and conformity assessment procedures for active implantable medical devices)—
 
 - (a) in paragraphs (1) and (2) for the words “his authorised representative” both times they occur substitute “their UK responsible person”;
 - (b) in paragraph (3) for the opening words substitute——
@@ -134,7 +134,7 @@ substitute “approved body”.
   ;
 - (c) omit paragraphs (4) and (5).
 
-(7)[^key-b9ada8524fc17a58f81d095163ecb021] In regulation 31 (UK notified bodies and the conformity assessment procedures for active implantable medical devices)—
+(7)[^c-b9ada8524fc17a58f81d095163ecb021] In regulation 31 (UK notified bodies and the conformity assessment procedures for active implantable medical devices)—
 
 - (a) in the heading, for “UK notified bodies” substitute “Approved bodies”
 - (b) in paragraph (1)—
@@ -146,7 +146,7 @@ substitute “approved body”.
   - (i) for the words from “Where” to “representative” substitute “Where an approved body and a manufacturer or the manufacturer’s UK responsible person”;
   - (ii) for “his authorised representative” substitute “the manufacturer’s UK responsible person”.
 
-(8)[^key-d77f3fd3e8faf572c43ab695c3f1fb65] After regulation 30 (manufacturers etc. and conformity assessment procedures for active implantable medical devices), insert—
+(8)[^c-d77f3fd3e8faf572c43ab695c3f1fb65] After regulation 30 (manufacturers etc. and conformity assessment procedures for active implantable medical devices), insert—
 
 > **30A. Obligations in Part III which are met by complying with obligations in Directive 90/385**
 >
@@ -200,40 +200,40 @@ substitute “approved body”.
 
 ## Annotations
 
-[^key-2811005c1c34ae64151f35e466e150d5]: Commencement: Reg. 5(1)(2)(4)-(7) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-2811005c1c34ae64151f35e466e150d5]: Commencement: Reg. 5(1)(2)(4)-(7) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23697451]: Marginal citation: Regulation 21 was amended by [S.I. 2008/2936](https://www.legislation.gov.uk/uksi/2008/2936).
 
-[^key-44697cf35d687eac05e1c62803a0ab4b]: Commencement: Reg. 5(3) in force at 1.5.2021, see reg. 1(2)(b) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2/c))
+[^c-44697cf35d687eac05e1c62803a0ab4b]: Commencement: Reg. 5(3) in force at 1.5.2021, see reg. 1(2)(b) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2/c))
 
-[^key-c0c2e704492e5d429377020ca37a4f21]: Textual amendment: Words in reg. 5(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 25(a)(i)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/25/a/i)
+[^c-c0c2e704492e5d429377020ca37a4f21]: Textual amendment: Words in reg. 5(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 25(a)(i)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/25/a/i)
 
-[^key-945697f0ad37f5612e637dec88ee9e85]: Textual amendment: Words in reg. 5(3) substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 25(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/25/a/ii)
+[^c-945697f0ad37f5612e637dec88ee9e85]: Textual amendment: Words in reg. 5(3) substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 25(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/25/a/ii)
 
-[^key-f25c7343c795cec845cfcab187f88854]: Textual amendment: Words in reg. 5(3) substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 25(b)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/25/b)
+[^c-f25c7343c795cec845cfcab187f88854]: Textual amendment: Words in reg. 5(3) substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 25(b)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/25/b)
 
-[^key-639b78abd6ccb14bfae2fbee93384f29]: Textual amendment: Words in reg. 5(3) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1385)](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2019/1385/schedule/2/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-639b78abd6ccb14bfae2fbee93384f29]: Textual amendment: Words in reg. 5(3) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1385)](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2019/1385/schedule/2/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-989da94084e551396e3d825ff815e3e9]: Textual amendment: Words in reg. 5(3) substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 25(c)(i)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/25/c/i)
+[^c-989da94084e551396e3d825ff815e3e9]: Textual amendment: Words in reg. 5(3) substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 25(c)(i)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/25/c/i)
 
-[^key-701c3c8a55fa9af7fda5dfbd2c000f7a]: Textual amendment: Words in reg. 5(3) substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 25(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/25/c/ii)
+[^c-701c3c8a55fa9af7fda5dfbd2c000f7a]: Textual amendment: Words in reg. 5(3) substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 25(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/25/c/ii)
 
-[^key-d2399d26051a2276ee7d7897f0096385]: Textual amendment: Words in reg. 5(3) substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 25(d)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/25/d)
+[^c-d2399d26051a2276ee7d7897f0096385]: Textual amendment: Words in reg. 5(3) substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 25(d)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/25/d)
 
-[^key-6b450495505e765c31f4af1bb971b6db]: Textual amendment: Reg. 5(4A) inserted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/26)
+[^c-6b450495505e765c31f4af1bb971b6db]: Textual amendment: Reg. 5(4A) inserted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/26)
 
-[^key-9fba16f0e100dd9ff23a5e16b14ef614]: Textual amendment: Reg. 5(4B) inserted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/27)
+[^c-9fba16f0e100dd9ff23a5e16b14ef614]: Textual amendment: Reg. 5(4B) inserted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/27)
 
-[^key-d115930c823e03e12c894ab852825a95]: Textual amendment: Reg. 5(5) substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/28)
+[^c-d115930c823e03e12c894ab852825a95]: Textual amendment: Reg. 5(5) substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/28)
 
-[^key-7818e4a0cc121d51289447c927c9bbb2]: Textual amendment: Reg. 5(5A) inserted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/29)
+[^c-7818e4a0cc121d51289447c927c9bbb2]: Textual amendment: Reg. 5(5A) inserted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/29)
 
-[^key-9d8d511393ede6d6c36ea6943e9917b3]: Textual amendment: Reg. 5(5B) inserted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/30)
+[^c-9d8d511393ede6d6c36ea6943e9917b3]: Textual amendment: Reg. 5(5B) inserted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/30)
 
-[^key-916602f96ad62fa99facaec70ced2e13]: Textual amendment: Reg. 5(5C) inserted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/31)
+[^c-916602f96ad62fa99facaec70ced2e13]: Textual amendment: Reg. 5(5C) inserted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/31)
 
-[^key-f0a7674783b3e45906c864712971dfdd]: Textual amendment: Reg. 5(6) substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/32)
+[^c-f0a7674783b3e45906c864712971dfdd]: Textual amendment: Reg. 5(6) substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/32)
 
-[^key-b9ada8524fc17a58f81d095163ecb021]: Textual amendment: Reg. 5(7) substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/33)
+[^c-b9ada8524fc17a58f81d095163ecb021]: Textual amendment: Reg. 5(7) substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/33)
 
-[^key-d77f3fd3e8faf572c43ab695c3f1fb65]: Textual amendment: Reg. 5(8) inserted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/34)
+[^c-d77f3fd3e8faf572c43ab695c3f1fb65]: Textual amendment: Reg. 5(8) inserted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/34)

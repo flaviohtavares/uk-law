@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 229. Regulations: the Scottish Ministers[^key-f3914082a744415b18f66c2a217dcb59]
+## Article 229. Regulations: the Scottish Ministers[^c-f3914082a744415b18f66c2a217dcb59]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3914082a744415b18f66c2a217dcb59]: Textual amendment: [Arts. 227-229A](https://www.legislation.gov.uk/eur/2013/1308/article/227) substituted for Arts. 227-229 (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [37](https://www.legislation.gov.uk/uksi/2019/831/regulation/37) (as amended by [S.I. 2020/1661](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [15(2)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/15/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f3914082a744415b18f66c2a217dcb59]: Textual amendment: [Arts. 227-229A](https://www.legislation.gov.uk/eur/2013/1308/article/227) substituted for Arts. 227-229 (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [37](https://www.legislation.gov.uk/uksi/2019/831/regulation/37) (as amended by [S.I. 2020/1661](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [15(2)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/15/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

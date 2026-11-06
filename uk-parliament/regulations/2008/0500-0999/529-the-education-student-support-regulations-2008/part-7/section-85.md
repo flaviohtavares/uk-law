@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Disabled students[^key-21755862a2611f7c4547d68cad8b1846]
+## 85. Disabled students[^c-21755862a2611f7c4547d68cad8b1846]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ A disabled student who is undertaking a qualifying course in the United Kingdom 
 
 ## Annotations
 
-[^key-21755862a2611f7c4547d68cad8b1846]: Commencement: Reg. 85 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-21755862a2611f7c4547d68cad8b1846]: Commencement: Reg. 85 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

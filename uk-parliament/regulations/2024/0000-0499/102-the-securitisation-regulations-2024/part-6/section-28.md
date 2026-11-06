@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Register of third party verifiers[^key-88533bb7b9923cdf77996028fa71e6c3]
+## 28. Register of third party verifiers[^c-88533bb7b9923cdf77996028fa71e6c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88533bb7b9923cdf77996028fa71e6c3]: Commencement: Reg. 28 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-88533bb7b9923cdf77996028fa71e6c3]: Commencement: Reg. 28 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

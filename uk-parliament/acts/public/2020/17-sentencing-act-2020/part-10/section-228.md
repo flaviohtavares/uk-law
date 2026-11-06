@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228. Other restrictions on custodial sentence[^key-3f8d02ca570ff3a30f871f651d37ed05]
+## 228. Other restrictions on custodial sentence[^c-3f8d02ca570ff3a30f871f651d37ed05]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f8d02ca570ff3a30f871f651d37ed05]: Commencement: S. 228 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3f8d02ca570ff3a30f871f651d37ed05]: Commencement: S. 228 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

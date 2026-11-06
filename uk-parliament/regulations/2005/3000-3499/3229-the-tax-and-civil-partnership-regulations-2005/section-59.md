@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59.[^key-d788025747d91fd6e6d67b4cf7166e8d]
+## 59.[^c-d788025747d91fd6e6d67b4cf7166e8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 273 (payments securing annuities), in subsection (1), after “widowe
 
 ## Annotations
 
-[^key-d788025747d91fd6e6d67b4cf7166e8d]: Commencement: Reg. 59 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-d788025747d91fd6e6d67b4cf7166e8d]: Commencement: Reg. 59 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Temporary suspension for events[^key-ca3f4e1a2e42ca02afd57a02cec34d6b]
+## 24. Temporary suspension for events[^c-ca3f4e1a2e42ca02afd57a02cec34d6b]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca3f4e1a2e42ca02afd57a02cec34d6b]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2019/17/section/24) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-ca3f4e1a2e42ca02afd57a02cec34d6b]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2019/17/section/24) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

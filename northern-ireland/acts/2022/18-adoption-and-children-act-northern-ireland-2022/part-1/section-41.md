@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Notice of intention to adopt[^key-0707d4c2fbee57d4f57002e9c9f88dbf]
+## 41. Notice of intention to adopt[^c-0707d4c2fbee57d4f57002e9c9f88dbf]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ the adoption authority is not to be treated as keeping the child with them as pr
 
 ## Annotations
 
-[^key-0707d4c2fbee57d4f57002e9c9f88dbf]: Commencement: S. 41 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-0707d4c2fbee57d4f57002e9c9f88dbf]: Commencement: S. 41 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

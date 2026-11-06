@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Staffing - overarching requirements[^key-74353087bc1002f4f4d7221d4be25586]
+## 29. Staffing - overarching requirements[^c-74353087bc1002f4f4d7221d4be25586]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ The service provider must ensure that at all times a sufficient number of suitab
 
 ## Annotations
 
-[^key-74353087bc1002f4f4d7221d4be25586]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2019/169/regulation/29) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-74353087bc1002f4f4d7221d4be25586]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2019/169/regulation/29) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

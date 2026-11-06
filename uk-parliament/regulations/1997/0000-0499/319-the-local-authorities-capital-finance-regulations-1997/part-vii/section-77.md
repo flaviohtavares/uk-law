@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Disposal of shared ownership leases[^key-6baa06564440a1abd13516714605bb86]
+## 77. Disposal of shared ownership leases[^c-6baa06564440a1abd13516714605bb86]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ The reserved part shall be nil per cent. in the case of a capital receipt which 
 
 ## Annotations
 
-[^key-6baa06564440a1abd13516714605bb86]: Commencement: Reg. 77 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-6baa06564440a1abd13516714605bb86]: Commencement: Reg. 77 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

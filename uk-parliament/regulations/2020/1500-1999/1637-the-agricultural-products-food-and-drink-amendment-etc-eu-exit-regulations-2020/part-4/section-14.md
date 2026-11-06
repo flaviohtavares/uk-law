@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. The Wine Regulations 2011[^key-a5045b790d7a77654a04425976b7be49]
+## 14. The Wine Regulations 2011[^c-a5045b790d7a77654a04425976b7be49]
 
 *Extent: N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 - (a) for paragraph (1) substitute—
 
-  > (1) The local authority enforces the European Regulations and the 1416/2006 prohibition[^key-496b87c2b8cf195ed088da5b2c115c1b] in relation to retail sale.
+  > (1) The local authority enforces the European Regulations and the 1416/2006 prohibition[^c-496b87c2b8cf195ed088da5b2c115c1b] in relation to retail sale.
 
   ;
 - (b) in paragraph (2), for “Secretary of State” substitute “ Department of Agriculture, Environment and Rural Affairs ”;
@@ -80,9 +80,9 @@ summary: ''
 
 ## Annotations
 
-[^key-a5045b790d7a77654a04425976b7be49]: Commencement: Reg. 14 in force at 31.12.2020, see reg. 1(7)
+[^c-a5045b790d7a77654a04425976b7be49]: Commencement: Reg. 14 in force at 31.12.2020, see reg. 1(7)
 
-[^key-496b87c2b8cf195ed088da5b2c115c1b]: Textual amendment: Words in [reg. 14(4)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/4/a) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(4)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/4)
+[^c-496b87c2b8cf195ed088da5b2c115c1b]: Textual amendment: Words in [reg. 14(4)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/4/a) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(4)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/4)
 
 [^c24414091]: Marginal citation: [2009 c. 11](https://www.legislation.gov.uk/ukpga/2009/11).
 

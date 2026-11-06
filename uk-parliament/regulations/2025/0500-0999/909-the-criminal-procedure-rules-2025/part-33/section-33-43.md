@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.43. Disclosure of documents in criminal proceedings[^key-764468c182a964d4d57ece78724fdbc6]
+## 33.43. Disclosure of documents in criminal proceedings[^c-764468c182a964d4d57ece78724fdbc6]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-764468c182a964d4d57ece78724fdbc6]: Commencement: [Rule 33.43](https://www.legislation.gov.uk/uksi/2025/909/rule/33.43) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-764468c182a964d4d57ece78724fdbc6]: Commencement: [Rule 33.43](https://www.legislation.gov.uk/uksi/2025/909/rule/33.43) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

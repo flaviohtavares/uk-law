@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 112. Approval by the creditors’ committee[^key-151c69a3838d44b087c80841e11c1fb9]
+## 112. Approval by the creditors’ committee[^c-151c69a3838d44b087c80841e11c1fb9]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-151c69a3838d44b087c80841e11c1fb9]: Commencement: [Rule 112](https://www.legislation.gov.uk/nisr/2026/11/rule/112) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-151c69a3838d44b087c80841e11c1fb9]: Commencement: [Rule 112](https://www.legislation.gov.uk/nisr/2026/11/rule/112) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

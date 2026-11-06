@@ -28,9 +28,9 @@ summary: ''
 
 about the discharge of their functions under this Part in relation to him.
 
-(1A)[^c15162471] Regulations may be made by the Secretary of State[^key-825ec7f0387d6d2e7aecdbec0aa45784] imposing time limits on the making of representations under subsection (1).
+(1A)[^c15162471] Regulations may be made by the Secretary of State[^c-825ec7f0387d6d2e7aecdbec0aa45784] imposing time limits on the making of representations under subsection (1).
 
-(2) In considering representations under subsection (1), a local authority shall comply with regulations (if any) made by the Secretary of State[^key-a419c105adefec0821b24ba4d89d150f] for the purposes of this subsection.
+(2) In considering representations under subsection (1), a local authority shall comply with regulations (if any) made by the Secretary of State[^c-a419c105adefec0821b24ba4d89d150f] for the purposes of this subsection.
 
 ## Annotations
 
@@ -40,6 +40,6 @@ about the discharge of their functions under this Part in relation to him.
 
 [^c15162471]: Textual amendment: S. 24D(1A) inserted (7.12.2004) by [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 117(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/117/1), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(m)(xi)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/m/xi)
 
-[^key-825ec7f0387d6d2e7aecdbec0aa45784]: Textual amendment: Words in s. 24D(1A) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [85(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/85/a)
+[^c-825ec7f0387d6d2e7aecdbec0aa45784]: Textual amendment: Words in s. 24D(1A) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [85(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/85/a)
 
-[^key-a419c105adefec0821b24ba4d89d150f]: Textual amendment: Words in s. 24D(2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [85(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/85/b)
+[^c-a419c105adefec0821b24ba4d89d150f]: Textual amendment: Words in s. 24D(2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [85(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/85/b)

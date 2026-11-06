@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131A. Compensation in respect of suspension[^key-cc840d2f3ee802d137482fc4836a2b7d]
+## 131A. Compensation in respect of suspension[^c-cc840d2f3ee802d137482fc4836a2b7d]
 
 *Extent: E+W+S*
 
@@ -60,4 +60,4 @@ in respect of which payments are to be made but need not provide for the making 
 
 ## Annotations
 
-[^key-cc840d2f3ee802d137482fc4836a2b7d]: Textual amendment: S. 131A and crossheading inserted (8.6.2012 for specified purposes, 6.7.2012 so far as not already in force) by [Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17)](https://www.legislation.gov.uk/ukpga/2009/17), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2009/17/section/7/3), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/7); [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [arts. 3(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/3/b), 4(a)
+[^c-cc840d2f3ee802d137482fc4836a2b7d]: Textual amendment: S. 131A and crossheading inserted (8.6.2012 for specified purposes, 6.7.2012 so far as not already in force) by [Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17)](https://www.legislation.gov.uk/ukpga/2009/17), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2009/17/section/7/3), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/7); [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [arts. 3(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/3/b), 4(a)

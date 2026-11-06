@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Amendment of the Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019[^key-947d9f51498792e1a3744385f785ecfb]
+## 104. Amendment of the Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019[^c-947d9f51498792e1a3744385f785ecfb]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-947d9f51498792e1a3744385f785ecfb]: Commencement: Reg. 104 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-947d9f51498792e1a3744385f785ecfb]: Commencement: Reg. 104 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395701]: Marginal citation: [S.I. 2019/59](https://www.legislation.gov.uk/uksi/2019/59), amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495). Neither of these instruments is yet in force.
 

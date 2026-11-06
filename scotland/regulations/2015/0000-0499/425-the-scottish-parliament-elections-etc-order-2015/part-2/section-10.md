@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Proxies at Scottish parliamentary elections[^key-4eaf4143f7d62401a0bdbe1fa483d57e]
+## 10. Proxies at Scottish parliamentary elections[^c-4eaf4143f7d62401a0bdbe1fa483d57e]
 
 *Extent: S*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) A person is not capable of voting as proxy at a Scottish parliamentary election unless on the date of the poll that person has attained the age of 16.
 
-(4A)[^key-e18ae3d9d1f32994245a9b0700e65f9c] A person is not capable of voting as proxy at a Scottish parliamentary election if on the date of the election the person is a person to whom section 3(1A) of the 1983 Act (exception to disenfranchisement for offenders sentenced to term not exceeding 12 months) applies.
+(4A)[^c-e18ae3d9d1f32994245a9b0700e65f9c] A person is not capable of voting as proxy at a Scottish parliamentary election if on the date of the election the person is a person to whom section 3(1A) of the 1983 Act (exception to disenfranchisement for offenders sentenced to term not exceeding 12 months) applies.
 
 (5) A person is not entitled to vote as proxy in any constituency at the same Scottish parliamentary election on behalf of more than two electors of whom that person is not the spouse, civil partner, parent, grandparent, brother, sister, child or grandchild.
 
@@ -68,6 +68,6 @@ and that the proxy is capable of being, and willing to be, appointed.
 
 ## Annotations
 
-[^key-4eaf4143f7d62401a0bdbe1fa483d57e]: Commencement: Art. 10 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-4eaf4143f7d62401a0bdbe1fa483d57e]: Commencement: Art. 10 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-e18ae3d9d1f32994245a9b0700e65f9c]: Textual amendment: [Art. 10(4A)](https://www.legislation.gov.uk/ssi/2015/425/article/10/4A) inserted (2.4.2020) by [Scottish Elections (Franchise and Representation) Act 2020 (asp 6)](https://www.legislation.gov.uk/asp/2020/6), [s. 12(1)](https://www.legislation.gov.uk/asp/2020/6/section/12/1), [sch. para. 2(4)](https://www.legislation.gov.uk/asp/2020/6/schedule/paragraph/2/4)
+[^c-e18ae3d9d1f32994245a9b0700e65f9c]: Textual amendment: [Art. 10(4A)](https://www.legislation.gov.uk/ssi/2015/425/article/10/4A) inserted (2.4.2020) by [Scottish Elections (Franchise and Representation) Act 2020 (asp 6)](https://www.legislation.gov.uk/asp/2020/6), [s. 12(1)](https://www.legislation.gov.uk/asp/2020/6/section/12/1), [sch. para. 2(4)](https://www.legislation.gov.uk/asp/2020/6/schedule/paragraph/2/4)

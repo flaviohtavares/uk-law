@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Rates (Northern Ireland) Order 1977[^key-36d1cf102b5f5f46158a9334e0af5b11]
+## 135. Rates (Northern Ireland) Order 1977[^c-36d1cf102b5f5f46158a9334e0af5b11]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-36d1cf102b5f5f46158a9334e0af5b11]: Commencement: Reg. 135 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-36d1cf102b5f5f46158a9334e0af5b11]: Commencement: Reg. 135 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00219]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157).
 

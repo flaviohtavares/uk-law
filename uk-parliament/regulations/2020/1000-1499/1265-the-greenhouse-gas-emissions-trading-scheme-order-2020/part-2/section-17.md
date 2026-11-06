@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Review of UK ETS[^key-697e8fbef37d8c3ba4f55b6be222d03e]
+## 17. Review of UK ETS[^c-697e8fbef37d8c3ba4f55b6be222d03e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-697e8fbef37d8c3ba4f55b6be222d03e]: Commencement: Art. 17 in force at 12.11.2020, see art. 2(1)
+[^c-697e8fbef37d8c3ba4f55b6be222d03e]: Commencement: Art. 17 in force at 12.11.2020, see art. 2(1)

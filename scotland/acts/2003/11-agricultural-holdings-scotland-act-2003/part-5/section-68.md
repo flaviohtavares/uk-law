@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Restoration of agricultural holding following mineral exploitation[^key-775393752c84f332f7ef88a9113479a8]
+## 68. Restoration of agricultural holding following mineral exploitation[^c-775393752c84f332f7ef88a9113479a8]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ After section 29 (notice to quit part of holding to be valid in certain cases) o
 
 ## Annotations
 
-[^key-775393752c84f332f7ef88a9113479a8]: Commencement: S. 68 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/548/article/2/e) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-775393752c84f332f7ef88a9113479a8]: Commencement: S. 68 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/548/article/2/e) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

@@ -22,7 +22,7 @@ summary: ''
 
 (1) The applicable provisions of the Carriage by Air Conventions have the force of law in the United Kingdom in relation to any carriage by air to which they apply, irrespective of the nationality of the aircraft performing that carriage.
 
-(2) Subsection (1) does not apply in relation to UK air carriers[^key-01887e21d5f68109ebc233c179c1fc29] to the extent that the provisions of the Council Regulation have the force of law in the United Kingdom.
+(2) Subsection (1) does not apply in relation to UK air carriers[^c-01887e21d5f68109ebc233c179c1fc29] to the extent that the provisions of the Council Regulation have the force of law in the United Kingdom.
 
 (3) Subsection (1) is subject to the other provisions of this Act.
 
@@ -50,4 +50,4 @@ so far as they relate to the rights and liabilities of carriers, carriers’ ser
 
 [^c12406021]: Textual amendment: S. 1 substituted (coming into force in accordance with art. 1(2)) by [S.I. 2002/263](https://www.legislation.gov.uk/uksi/2002/263), [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/263/article/2/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/263/article/1/3))
 
-[^key-01887e21d5f68109ebc233c179c1fc29]: Textual amendment: Words in [s. 1(2)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/1/2) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2019/278/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-01887e21d5f68109ebc233c179c1fc29]: Textual amendment: Words in [s. 1(2)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/1/2) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2019/278/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-c1ccab6a3c06302891530753b4532acd] The permitted methods of publication referred to in section 47(4)(b) are—
+(1)[^c-c1ccab6a3c06302891530753b4532acd] The permitted methods of publication referred to in section 47(4)(b) are—
 
 - (a) in the case of a relevant body which is a corporate joint committee, electronic publication;
 - (b) in the case of a relevant body which is not a corporate joint committee, the methods mentioned in subsections (2) and (3).
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1ccab6a3c06302891530753b4532acd]: Textual amendment: [S. 48(1)](https://www.legislation.gov.uk/ukpga/2004/23/section/48/1) substituted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2022/797/regulation/3/4)
+[^c-c1ccab6a3c06302891530753b4532acd]: Textual amendment: [S. 48(1)](https://www.legislation.gov.uk/ukpga/2004/23/section/48/1) substituted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2022/797/regulation/3/4)

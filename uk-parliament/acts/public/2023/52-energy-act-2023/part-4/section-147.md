@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Administration of scheme[^key-0fb0060fe145a062b751e72ad96648b8]
+## 147. Administration of scheme[^c-0fb0060fe145a062b751e72ad96648b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fb0060fe145a062b751e72ad96648b8]: Commencement: S. 147 in force at Royal Assent, see [s. 334(2)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/c)
+[^c-0fb0060fe145a062b751e72ad96648b8]: Commencement: S. 147 in force at Royal Assent, see [s. 334(2)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/c)

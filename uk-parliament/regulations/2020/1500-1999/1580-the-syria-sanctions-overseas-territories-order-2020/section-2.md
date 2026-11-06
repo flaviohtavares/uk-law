@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Extension of the Syria (Sanctions) (EU Exit) Regulations 2019[^key-290e949c53dedf050f74afd70d83eb87]
+## 2. Extension of the Syria (Sanctions) (EU Exit) Regulations 2019[^c-290e949c53dedf050f74afd70d83eb87]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Syria (Sanctions) (EU Exit) Regulations 2019[^f00004] as amended from time t
 
 ## Annotations
 
-[^key-290e949c53dedf050f74afd70d83eb87]: Commencement: Art. 2 in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1580/article/1/1)
+[^c-290e949c53dedf050f74afd70d83eb87]: Commencement: Art. 2 in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1580/article/1/1)
 
 [^f00004]: Footnote: [S.I. 2019/792](https://www.legislation.gov.uk/uksi/2019/792), as amended by [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590) and [S.I. 2020/951](https://www.legislation.gov.uk/uksi/2020/951).

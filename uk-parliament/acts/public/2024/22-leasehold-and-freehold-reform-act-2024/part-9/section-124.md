@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Commencement[^key-8d7c12ffb25d8e275a208ab9b0f9e437]
+## 124. Commencement[^c-8d7c12ffb25d8e275a208ab9b0f9e437]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d7c12ffb25d8e275a208ab9b0f9e437]: Commencement: S. 124 in force at Royal Assent, see [s. 124(1)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/1)
+[^c-8d7c12ffb25d8e275a208ab9b0f9e437]: Commencement: S. 124 in force at Royal Assent, see [s. 124(1)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/1)

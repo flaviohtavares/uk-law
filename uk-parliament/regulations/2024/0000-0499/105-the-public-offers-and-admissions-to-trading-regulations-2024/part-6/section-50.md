@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Decisions to refuse to accept applications etc[^key-505e43d128c2bec63dc0103e88859ea3]
+## 50. Decisions to refuse to accept applications etc[^c-505e43d128c2bec63dc0103e88859ea3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-505e43d128c2bec63dc0103e88859ea3]: Commencement: Reg. 50 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-505e43d128c2bec63dc0103e88859ea3]: Commencement: Reg. 50 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

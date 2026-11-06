@@ -31,7 +31,7 @@ summary: ''
 
 EMPLOYMENT
 
-Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2004 (revoked)[^key-2a5468f6af0b2384dff9dd1b131b476c]
+Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2004 (revoked)[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 Made
 
@@ -41,7 +41,7 @@ Coming into operation
 
 4th April 2004
 
-[^key-2a5468f6af0b2384dff9dd1b131b476c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a5468f6af0b2384dff9dd1b131b476c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -72,14 +72,14 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-2a5468f6af0b2384dff9dd1b131b476c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a5468f6af0b2384dff9dd1b131b476c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-2a5468f6af0b2384dff9dd1b131b476c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a5468f6af0b2384dff9dd1b131b476c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2a5468f6af0b2384dff9dd1b131b476c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/165) revoked (3.4.2005) by [The Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2005 (S.R. 2005/150)](https://www.legislation.gov.uk/nisr/2005/150), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/2)[(3)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/3) (with [reg. 15](https://www.legislation.gov.uk/nisr/2005/150/regulation/15))
+[^c-2a5468f6af0b2384dff9dd1b131b476c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/165) revoked (3.4.2005) by [The Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2005 (S.R. 2005/150)](https://www.legislation.gov.uk/nisr/2005/150), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/2)[(3)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/3) (with [reg. 15](https://www.legislation.gov.uk/nisr/2005/150/regulation/15))

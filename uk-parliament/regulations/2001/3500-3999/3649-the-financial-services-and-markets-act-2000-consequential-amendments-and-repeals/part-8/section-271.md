@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271. Meaning of “securities”: units of a collective investment scheme[^key-df36facc98286eb30420f64424c890f5]
+## 271. Meaning of “securities”: units of a collective investment scheme[^c-df36facc98286eb30420f64424c890f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 4(1)[^f00191] of the Stock Transfer Act 1963 (interpretation), in the
 
 ## Annotations
 
-[^key-df36facc98286eb30420f64424c890f5]: Commencement: Art. 271 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-df36facc98286eb30420f64424c890f5]: Commencement: Art. 271 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00191]: Footnote: The words being substituted were in turn substituted by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60) Schedule 16, paragraph 4.

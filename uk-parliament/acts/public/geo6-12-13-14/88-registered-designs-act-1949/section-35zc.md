@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35ZC. Section 35ZA: forfeiture in England and Wales or Northern Ireland[^key-c8480483b68d5cf2ff06a2709180a5f5]
+## 35ZC. Section 35ZA: forfeiture in England and Wales or Northern Ireland[^c-c8480483b68d5cf2ff06a2709180a5f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8480483b68d5cf2ff06a2709180a5f5]: Textual amendment: Ss. 35ZA-35ZD inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 13](https://www.legislation.gov.uk/ukpga/2014/18/section/13), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (as amended by [The Intellectual Property Act 2014 (Amendment) Regulations 2014 (S.I. 2014/2329)](https://www.legislation.gov.uk/uksi/2014/2329), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2329/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/2329/regulation/3)) (as amended (1.10.2014) by [The Intellectual Property Act 2014 (Amendment) Regulations 2014 (S.I. 2014/2329)](https://www.legislation.gov.uk/uksi/2014/2329), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2329/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/2329/regulation/3))
+[^c-c8480483b68d5cf2ff06a2709180a5f5]: Textual amendment: Ss. 35ZA-35ZD inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 13](https://www.legislation.gov.uk/ukpga/2014/18/section/13), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (as amended by [The Intellectual Property Act 2014 (Amendment) Regulations 2014 (S.I. 2014/2329)](https://www.legislation.gov.uk/uksi/2014/2329), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2329/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/2329/regulation/3)) (as amended (1.10.2014) by [The Intellectual Property Act 2014 (Amendment) Regulations 2014 (S.I. 2014/2329)](https://www.legislation.gov.uk/uksi/2014/2329), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2329/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/2329/regulation/3))

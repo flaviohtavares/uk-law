@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Rate (affected by repeal, see note)[^c17822281][^key-a2531265b08f7ca2190513c24c66a27e][^key-a2531265b08f7ca2190513c24c66a27e]
+## 13. Rate (affected by repeal, see note)[^c17822281][^c-a2531265b08f7ca2190513c24c66a27e][^c-a2531265b08f7ca2190513c24c66a27e]
 
 *Extent: E+W+S+N.I.*
 
-(1) Where, in the case of a person or persons entitled to a tax credit, the relevant income does not exceed the income threshold (or his or their entitlement arises by virtue of section 7(2)), the rate at which he is or they are entitled to the tax credit is the maximum rate for his or their case. *(affected by repeal, see note)*[^key-a2531265b08f7ca2190513c24c66a27e]
+(1) Where, in the case of a person or persons entitled to a tax credit, the relevant income does not exceed the income threshold (or his or their entitlement arises by virtue of section 7(2)), the rate at which he is or they are entitled to the tax credit is the maximum rate for his or their case. *(affected by repeal, see note)*[^c-a2531265b08f7ca2190513c24c66a27e]
 
-(2) Regulations shall make provision as to the manner of determining the rate (if any) at which a person is, or persons are, entitled to a tax credit in any other case. *(affected by repeal, see note)*[^key-a2531265b08f7ca2190513c24c66a27e]
+(2) Regulations shall make provision as to the manner of determining the rate (if any) at which a person is, or persons are, entitled to a tax credit in any other case. *(affected by repeal, see note)*[^c-a2531265b08f7ca2190513c24c66a27e]
 
-(3) The manner of determination prescribed under subsection (2)— *(affected by repeal, see note)*[^key-a2531265b08f7ca2190513c24c66a27e]
+(3) The manner of determination prescribed under subsection (2)— *(affected by repeal, see note)*[^c-a2531265b08f7ca2190513c24c66a27e]
 
-- (a) may involve the making of adjustments so as to avoid fractional amounts, and *(affected by repeal, see note)*[^key-a2531265b08f7ca2190513c24c66a27e]
-- (b) may include provision for securing that, where the rate at which a person or persons would be entitled to a tax credit would be less than a prescribed rate, there is no rate in his or their case. *(affected by repeal, see note)*[^key-a2531265b08f7ca2190513c24c66a27e]
+- (a) may involve the making of adjustments so as to avoid fractional amounts, and *(affected by repeal, see note)*[^c-a2531265b08f7ca2190513c24c66a27e]
+- (b) may include provision for securing that, where the rate at which a person or persons would be entitled to a tax credit would be less than a prescribed rate, there is no rate in his or their case. *(affected by repeal, see note)*[^c-a2531265b08f7ca2190513c24c66a27e]
 
 ## Annotations
 
 [^c17822281]: Commencement: S. 13 wholly in force at 6.4.2003; s. 13 not in force at Royal Assent, see s. 61; s. 13 in force for certain purposes at 9.7.2002, 1.8.2002 and 1.1.2003 and otherwise in force at 6.4.2003 by [S.I. 2002/1727](https://www.legislation.gov.uk/uksi/2002/1727), [art. 2](https://www.legislation.gov.uk/uksi/2002/1727/article/2)
 
-[^key-a2531265b08f7ca2190513c24c66a27e]: Textual amendment: Pt. 1 repealed (1.2.2019 with savings in relation to specified cases in [art. 3](https://www.legislation.gov.uk/uksi/2019/167/article/3) of the commencing S.I.) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2019/167](https://www.legislation.gov.uk/uksi/2019/167), [arts. 2](https://www.legislation.gov.uk/uksi/2019/167/article/2), [3](https://www.legislation.gov.uk/uksi/2019/167/article/3)
+[^c-a2531265b08f7ca2190513c24c66a27e]: Textual amendment: Pt. 1 repealed (1.2.2019 with savings in relation to specified cases in [art. 3](https://www.legislation.gov.uk/uksi/2019/167/article/3) of the commencing S.I.) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2019/167](https://www.legislation.gov.uk/uksi/2019/167), [arts. 2](https://www.legislation.gov.uk/uksi/2019/167/article/2), [3](https://www.legislation.gov.uk/uksi/2019/167/article/3)

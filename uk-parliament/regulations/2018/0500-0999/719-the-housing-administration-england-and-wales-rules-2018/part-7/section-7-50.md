@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.50. Housing administrator to provide information to creditors on opting-out[^key-1769e676071a650fb455921379619f8a]
+## 7.50. Housing administrator to provide information to creditors on opting-out[^c-1769e676071a650fb455921379619f8a]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1769e676071a650fb455921379619f8a]: Commencement: Rule 7.50 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-1769e676071a650fb455921379619f8a]: Commencement: Rule 7.50 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -31,7 +31,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Deposits in the Sea (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^key-7b247f3966c2ac25065f751c4311503a]
+The Deposits in the Sea (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^c-7b247f3966c2ac25065f751c4311503a]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 29th January 2007
 
-[^key-7b247f3966c2ac25065f751c4311503a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b247f3966c2ac25065f751c4311503a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7b247f3966c2ac25065f751c4311503a]
+## 1. Citation and commencement[^c-7b247f3966c2ac25065f751c4311503a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to Deposits in the Sea (Exemptions) Order (Northern Ireland) 1995[^key-7b247f3966c2ac25065f751c4311503a]
+## 2. Amendment to Deposits in the Sea (Exemptions) Order (Northern Ireland) 1995[^c-7b247f3966c2ac25065f751c4311503a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b247f3966c2ac25065f751c4311503a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b247f3966c2ac25065f751c4311503a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7b247f3966c2ac25065f751c4311503a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b247f3966c2ac25065f751c4311503a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7b247f3966c2ac25065f751c4311503a]: Textual amendment: Reulations revoked (8.2.2008) by [The Deposits in the Sea (Exemptions) (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/20)](https://www.legislation.gov.uk/nisr/2008/20), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2008/20/article/1/1), [3](https://www.legislation.gov.uk/nisr/2008/20/article/3)
+[^c-7b247f3966c2ac25065f751c4311503a]: Textual amendment: Reulations revoked (8.2.2008) by [The Deposits in the Sea (Exemptions) (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/20)](https://www.legislation.gov.uk/nisr/2008/20), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2008/20/article/1/1), [3](https://www.legislation.gov.uk/nisr/2008/20/article/3)

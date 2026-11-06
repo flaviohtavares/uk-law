@@ -22,7 +22,7 @@ summary: ''
 
 (introduced by section 128(2))
 
-### PART 1 — Repeals relating to Part 1[^key-4af589a00d6bff075699f0e113e4d042]
+### PART 1 — Repeals relating to Part 1[^c-4af589a00d6bff075699f0e113e4d042]
 
 <table>
 <tbody>
@@ -108,7 +108,7 @@ summary: ''
 </tbody>
 </table>
 
-### PART 2 — Repeals relating to Part 2[^key-b98112682757c756408c28037c33ad41]
+### PART 2 — Repeals relating to Part 2[^c-b98112682757c756408c28037c33ad41]
 
 <table>
 <tbody>
@@ -151,7 +151,7 @@ summary: ''
 </tbody>
 </table>
 
-### PART 3 — Repeals relating to both Parts[^key-b94e5a7155c7cc41902e85817df527f0]
+### PART 3 — Repeals relating to both Parts[^c-b94e5a7155c7cc41902e85817df527f0]
 
 <table>
 <tbody>
@@ -167,8 +167,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4af589a00d6bff075699f0e113e4d042]: Commencement: [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-4af589a00d6bff075699f0e113e4d042]: Commencement: [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
 
-[^key-b98112682757c756408c28037c33ad41]: Commencement: [Sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-b98112682757c756408c28037c33ad41]: Commencement: [Sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
 
-[^key-b94e5a7155c7cc41902e85817df527f0]: Commencement: [Sch. 8 Pt. 3](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/3) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-b94e5a7155c7cc41902e85817df527f0]: Commencement: [Sch. 8 Pt. 3](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/3) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

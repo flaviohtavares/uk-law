@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 249. Section 248: duty to make progress report[^key-59ea7154a3c2a57039c63cb24ee296a9]
+## 249. Section 248: duty to make progress report[^c-59ea7154a3c2a57039c63cb24ee296a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59ea7154a3c2a57039c63cb24ee296a9]: Commencement: S. 249 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
+[^c-59ea7154a3c2a57039c63cb24ee296a9]: Commencement: S. 249 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)

@@ -24,17 +24,17 @@ Section 27
 
 ### Introduction
 
-**1.**[^key-b8a8c77b7992594db7a0bf5aa61bcd1f] The Markets in Financial Instruments Regulation is amended as follows.
+**1.**[^c-b8a8c77b7992594db7a0bf5aa61bcd1f] The Markets in Financial Instruments Regulation is amended as follows.
 
 ### Scope
 
-**2.**[^key-2282e125e70d85ba18116ca41c3c6f10] In Article 1 (subject matter and scope), after paragraph 4 insert—
+**2.**[^c-2282e125e70d85ba18116ca41c3c6f10] In Article 1 (subject matter and scope), after paragraph 4 insert—
 
 > **4A.** Chapter 1 of Title 7 of this Regulation also applies to third-country firms providing investment services or performing investment activities in the United Kingdom.
 
 ### Definitions
 
-**3.**[^key-704482f0fb5385270d3c35e10c6cc388] In Article 2(1) (definitions), after point (61) insert—
+**3.**[^c-704482f0fb5385270d3c35e10c6cc388] In Article 2(1) (definitions), after point (61) insert—
 
 > (61A) “***Directive 2013/36/EU***” means Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms;
 
@@ -42,9 +42,9 @@ Section 27
 
 ### Provision of services by third-country firms following equivalence determination
 
-**4.**[^key-1d02e19726c2927bb26b784242c3b970] In the heading of Title 8, for “DECISION” substitute “ DETERMINATION ”.
+**4.**[^c-1d02e19726c2927bb26b784242c3b970] In the heading of Title 8, for “DECISION” substitute “ DETERMINATION ”.
 
-**5.**[^key-bddb0467c231f60d1c64ff7a77f015a8] (1) Article 46 (general provision about provision of services etc by third-country firms following an equivalence decision) is amended as follows.
+**5.**[^c-bddb0467c231f60d1c64ff7a77f015a8] (1) Article 46 (general provision about provision of services etc by third-country firms following an equivalence decision) is amended as follows.
 
 (2) In paragraph 1, for “Article 47” substitute “ Article 48 ”.
 
@@ -95,7 +95,7 @@ Section 27
 
 ### Equivalence determination
 
-**6.**[^key-628d366b92a1c581cb8314fa8c226682] (1) Article 47 (equivalence determination) is amended as follows.
+**6.**[^c-628d366b92a1c581cb8314fa8c226682] (1) Article 47 (equivalence determination) is amended as follows.
 
 (2) For paragraph 1 substitute—
 
@@ -144,7 +144,7 @@ Section 27
 
 ### Requirements
 
-**7.**[^key-a36dfc4e9f6f0cd98f7e6bc81887ae91] After Article 48 insert—
+**7.**[^c-a36dfc4e9f6f0cd98f7e6bc81887ae91] After Article 48 insert—
 
 > **Article 48A — Requirements**
 >
@@ -184,7 +184,7 @@ Section 27
 
 ### Temporary prohibitions and restrictions and withdrawal of registration
 
-**8.**[^key-f15a4fdb3bd2015fcb4725db6582c2e7] (1) Article 49 (withdrawal of registration) is amended as follows.
+**8.**[^c-f15a4fdb3bd2015fcb4725db6582c2e7] (1) Article 49 (withdrawal of registration) is amended as follows.
 
 (2) For the heading substitute— “ **Temporary prohibitions and restrictions and withdrawal of registration** ”.
 
@@ -232,7 +232,7 @@ Section 27
 
 ### Temporary prohibitions and restrictions and withdrawal of registration: procedure
 
-**9.**[^key-da6ff1ebec55ee57226760b272e8fe2f] After Article 49 insert—
+**9.**[^c-da6ff1ebec55ee57226760b272e8fe2f] After Article 49 insert—
 
 > **Article 49A — Temporary prohibitions and restrictions: procedure**
 >
@@ -323,11 +323,11 @@ Section 27
 
 ### FCA directions and rules
 
-**10.**[^key-ccfac41b80a02aab53e4d15f531fe291] In the heading of Title 9, after “DIRECTIONS” insert “ , RULES ”.
+**10.**[^c-ccfac41b80a02aab53e4d15f531fe291] In the heading of Title 9, after “DIRECTIONS” insert “ , RULES ”.
 
-**11.**[^key-e4287bf32b98679c82a80c4f7855a213] In the heading of Article 50B (FCA Directions), at the end insert “ identifying relevant area of the UK ”.
+**11.**[^c-e4287bf32b98679c82a80c4f7855a213] In the heading of Article 50B (FCA Directions), at the end insert “ identifying relevant area of the UK ”.
 
-**12.**[^key-e10e86743116b35ffbe8b2097ce7b04e] After that Article insert—
+**12.**[^c-e10e86743116b35ffbe8b2097ce7b04e] After that Article insert—
 
 > **Article 50C — Other FCA directions**
 >
@@ -354,38 +354,38 @@ Section 27
 >
 > **3.** Section 137T applies as if the reference to authorised persons were a reference to third-country firms providing services or performing activities in accordance with Article 46.
 
-**13.**[^key-de52e1fba1ad9bb7e73dd92f2a1dbaf7] The requirements of section 138I of the Financial Services and Markets Act 2000, in so far as they apply in connection with rules made under Article 46(6B) or 48A of the Markets in Financial Instruments Regulation, may be satisfied by things done before paragraph 12 of this Schedule comes into force (as well as by things done after that time).
+**13.**[^c-de52e1fba1ad9bb7e73dd92f2a1dbaf7] The requirements of section 138I of the Financial Services and Markets Act 2000, in so far as they apply in connection with rules made under Article 46(6B) or 48A of the Markets in Financial Instruments Regulation, may be satisfied by things done before paragraph 12 of this Schedule comes into force (as well as by things done after that time).
 
 ### Transitional provisions
 
-**14.**[^key-6580074249667d520ee826dc9f510715] Omit Article 54 (transitional provisions).
+**14.**[^c-6580074249667d520ee826dc9f510715] Omit Article 54 (transitional provisions).
 
 ## Annotations
 
-[^key-b8a8c77b7992594db7a0bf5aa61bcd1f]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/1) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
+[^c-b8a8c77b7992594db7a0bf5aa61bcd1f]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/1) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
 
-[^key-2282e125e70d85ba18116ca41c3c6f10]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/2) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
+[^c-2282e125e70d85ba18116ca41c3c6f10]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/2) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
 
-[^key-704482f0fb5385270d3c35e10c6cc388]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/3) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
+[^c-704482f0fb5385270d3c35e10c6cc388]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/3) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
 
-[^key-1d02e19726c2927bb26b784242c3b970]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/4) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
+[^c-1d02e19726c2927bb26b784242c3b970]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/4) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
 
-[^key-bddb0467c231f60d1c64ff7a77f015a8]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/5) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
+[^c-bddb0467c231f60d1c64ff7a77f015a8]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/5) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
 
-[^key-628d366b92a1c581cb8314fa8c226682]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/6) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
+[^c-628d366b92a1c581cb8314fa8c226682]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/6) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
 
-[^key-a36dfc4e9f6f0cd98f7e6bc81887ae91]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/7) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
+[^c-a36dfc4e9f6f0cd98f7e6bc81887ae91]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/7) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
 
-[^key-f15a4fdb3bd2015fcb4725db6582c2e7]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/8) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
+[^c-f15a4fdb3bd2015fcb4725db6582c2e7]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/8) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
 
-[^key-da6ff1ebec55ee57226760b272e8fe2f]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/9) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
+[^c-da6ff1ebec55ee57226760b272e8fe2f]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/9) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
 
-[^key-ccfac41b80a02aab53e4d15f531fe291]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/10) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
+[^c-ccfac41b80a02aab53e4d15f531fe291]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/10) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
 
-[^key-e4287bf32b98679c82a80c4f7855a213]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/11) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
+[^c-e4287bf32b98679c82a80c4f7855a213]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/11) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
 
-[^key-e10e86743116b35ffbe8b2097ce7b04e]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/12) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
+[^c-e10e86743116b35ffbe8b2097ce7b04e]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/12) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
 
-[^key-de52e1fba1ad9bb7e73dd92f2a1dbaf7]: Commencement: [Sch. 10 para. 13](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/13) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
+[^c-de52e1fba1ad9bb7e73dd92f2a1dbaf7]: Commencement: [Sch. 10 para. 13](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/13) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
 
-[^key-6580074249667d520ee826dc9f510715]: Commencement: [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/14) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
+[^c-6580074249667d520ee826dc9f510715]: Commencement: [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/14) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)

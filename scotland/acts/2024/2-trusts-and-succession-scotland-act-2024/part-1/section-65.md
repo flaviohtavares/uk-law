@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Alteration of trust purposes on material change in circumstances[^key-aa20331e888907b51f1accf44bccbecc]
+## 65. Alteration of trust purposes on material change in circumstances[^c-aa20331e888907b51f1accf44bccbecc]
 
 *Extent: S*
 
@@ -112,4 +112,4 @@ determine that the period provided for in subsection (6) began to run, not from 
 
 ## Annotations
 
-[^key-aa20331e888907b51f1accf44bccbecc]: Commencement: S. 65 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-aa20331e888907b51f1accf44bccbecc]: Commencement: S. 65 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

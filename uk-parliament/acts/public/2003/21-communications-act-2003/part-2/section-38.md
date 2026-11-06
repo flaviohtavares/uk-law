@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Fixing of charges[^key-33e4441d3d78e0d1e6c6232aa5d433c1][^key-d74d1ffe1cbfee2f96ea258d55d986ca]
+## 38. Fixing of charges[^c-33e4441d3d78e0d1e6c6232aa5d433c1][^c-d74d1ffe1cbfee2f96ea258d55d986ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,10 +67,10 @@ pay to OFCOM the administrative charge (if any) that is fixed by them for the ca
 - (c) the supervision, as respects the requirements of sections 33 to 37 and of any such conditions, of communications providers and of persons who make associated facilities available;
 - (d) the monitoring of compliance with those requirements and with any such conditions;
 - (e) the functions conferred on OFCOM by or under section 55;
-- (ea)[^key-b603dee29eae229e580cde56dfc2ff70] their functions under sections 93A to 93D;
+- (ea)[^c-b603dee29eae229e580cde56dfc2ff70] their functions under sections 93A to 93D;
 - (eb) the monitoring of compliance with commitments that are made binding by a commitments decision;
-- (ec)[^key-7319b9900530bd8d1158c3fe3ee7cbcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-6e1519df7ae16e06c058b7cc7b6e68bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ec)[^c-7319b9900530bd8d1158c3fe3ee7cbcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-6e1519df7ae16e06c058b7cc7b6e68bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) their functions under sections 106 to 119;
 - (h) their functions under sections 185 to 191;
 - (i) securing international co-operation in relation to the regulation of electronic communications networks, electronic communications services and associated facilities;
@@ -101,7 +101,7 @@ pay to OFCOM the administrative charge (if any) that is fixed by them for the ca
 
 (11) Section 34 applies in relation to the making and withdrawal of a designation for the purposes of this section as it applies to the making and withdrawal of a designation for the purposes of section 33.
 
-(11A)[^key-88d8d23799da3856a48cd3ede6ead854] For the purposes of this section, the cost to OFCOM of carrying out the functions mentioned in subsection (5) does not include the cost to OFCOM of doing anything for which they charge a fee under section 28A.
+(11A)[^c-88d8d23799da3856a48cd3ede6ead854] For the purposes of this section, the cost to OFCOM of carrying out the functions mentioned in subsection (5) does not include the cost to OFCOM of doing anything for which they charge a fee under section 28A.
 
 (12) In this section “**charging year**” means—
 
@@ -110,14 +110,14 @@ pay to OFCOM the administrative charge (if any) that is fixed by them for the ca
 
 ## Annotations
 
-[^key-33e4441d3d78e0d1e6c6232aa5d433c1]: Commencement: S. 38 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-33e4441d3d78e0d1e6c6232aa5d433c1]: Commencement: S. 38 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-d74d1ffe1cbfee2f96ea258d55d986ca]: Commencement: S. 38 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-d74d1ffe1cbfee2f96ea258d55d986ca]: Commencement: S. 38 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-b603dee29eae229e580cde56dfc2ff70]: Textual amendment: S. 38(6)(ea)-(ec) inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/9)
+[^c-b603dee29eae229e580cde56dfc2ff70]: Textual amendment: S. 38(6)(ea)-(ec) inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/9)
 
-[^key-7319b9900530bd8d1158c3fe3ee7cbcc]: Textual amendment: [S. 38(6)(ec)](https://www.legislation.gov.uk/ukpga/2003/21/section/38/6/ec) omitted (1.10.2022) by virtue of [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/25/2), [28(2)(d)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/2/d); [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/d)
+[^c-7319b9900530bd8d1158c3fe3ee7cbcc]: Textual amendment: [S. 38(6)(ec)](https://www.legislation.gov.uk/ukpga/2003/21/section/38/6/ec) omitted (1.10.2022) by virtue of [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/25/2), [28(2)(d)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/2/d); [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/d)
 
-[^key-6e1519df7ae16e06c058b7cc7b6e68bb]: Textual amendment: S. 38(6)(f) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/14) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-6e1519df7ae16e06c058b7cc7b6e68bb]: Textual amendment: S. 38(6)(f) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/14) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
 
-[^key-88d8d23799da3856a48cd3ede6ead854]: Textual amendment: S. 38(11A) inserted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 101(3)](https://www.legislation.gov.uk/ukpga/2017/30/section/101/3), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/cc)
+[^c-88d8d23799da3856a48cd3ede6ead854]: Textual amendment: S. 38(11A) inserted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 101(3)](https://www.legislation.gov.uk/ukpga/2017/30/section/101/3), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/cc)

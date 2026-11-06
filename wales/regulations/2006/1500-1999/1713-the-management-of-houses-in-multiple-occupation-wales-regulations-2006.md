@@ -41,13 +41,13 @@ Coming into force
 
 The National Assembly for Wales, in exercise of the powers conferred by section 234(1) of the Housing Act 2004[^f00001], makes the following Regulations:
 
-## 1. Title, commencement and application[^key-92edcaa001da9ccfeaef45e7af8eec66]
+## 1. Title, commencement and application[^c-92edcaa001da9ccfeaef45e7af8eec66]
 
 (1) The title of these Regulations is The Management of Houses in Multiple Occupation (Wales) Regulations 2006 and they come into force on 30 June 2006.
 
 (2) These Regulations apply to any HMO in Wales other than a converted block of flats to which section 257 of the Act applies.
 
-## 2. Interpretation[^key-7f86bed9a83071129ff16d18b89b8616]
+## 2. Interpretation[^c-7f86bed9a83071129ff16d18b89b8616]
 
 (1) In these Regulations—
 
@@ -60,14 +60,14 @@ The National Assembly for Wales, in exercise of the powers conferred by section 
 - (c) “HMO” (“*ty amlfeddiannaeth*”) means a house of multiple occupation as defined by sections 254 to 259 of the Act; and
 - (d) the “manager” (“*rheolwr*”), in relation to an HMO, means the person managing the HMO[^f00002].
 
-## 3. Duty of manager to provide information to occupier[^key-50b39db41029ea979232458041b040f3]
+## 3. Duty of manager to provide information to occupier[^c-50b39db41029ea979232458041b040f3]
 
 The manager must ensure that—
 
 - (a) the manager’s name, address and any telephone contact number are made available to each household in the HMO; and
 - (b) such details are clearly displayed in a prominent position in the HMO.
 
-## 4. Duty of manager to take safety measures[^key-ba8a3410ca4afa9fb35aa78f93f58cd0]
+## 4. Duty of manager to take safety measures[^c-ba8a3410ca4afa9fb35aa78f93f58cd0]
 
 (1) The manager must ensure that all means of escape from fire in the HMO are—
 
@@ -91,7 +91,7 @@ The manager must ensure that—
 
 (6) The duty imposed by paragraph (3) does not apply where the HMO has four or fewer occupiers.
 
-## 5. Duty of manager to maintain water supply and drainage[^key-6e7bdbccbc3c8120c7f706a1eb0eab52]
+## 5. Duty of manager to maintain water supply and drainage[^c-6e7bdbccbc3c8120c7f706a1eb0eab52]
 
 (1) The manager must ensure that the water supply and drainage system serving the HMO is maintained in good, clean and working condition and in particular the manager must ensure that—
 
@@ -102,11 +102,11 @@ The manager must ensure that—
 
 (3) In this regulation “water fitting” means a pipe, tap, cock, valve, ferrule, meter, cistern, bath, water closet or soil pan used in connection with the supply or use of water, but the reference in this definition to a pipe does not include an overflow pipe or the mains supply pipe.
 
-## 6. Duty of manager to supply and maintain gas and electricity[^key-6d0a61c9ced5fd768c00549e680cced6]
+## 6. Duty of manager to supply and maintain gas and electricity[^c-6d0a61c9ced5fd768c00549e680cced6]
 
 (1) The manager must supply to the local housing authority within 7 days of receiving a request in writing from that authority the latest gas appliance test certificate which the manager has received in relation to the testing of any gas appliance at the HMO by a recognised engineer.
 
-(2)[^key-b8e6a23c061545a135056b4b5ce425b9] In paragraph (1), “recognised engineer” (“*peiriannydd cydnabyddedig*”) means an engineer approved under regulation 3 of the Gas Safety (Installation and Use) Regulations 1998.
+(2)[^c-b8e6a23c061545a135056b4b5ce425b9] In paragraph (1), “recognised engineer” (“*peiriannydd cydnabyddedig*”) means an engineer approved under regulation 3 of the Gas Safety (Installation and Use) Regulations 1998.
 
 (3) The manager must—
 
@@ -116,7 +116,7 @@ The manager must ensure that—
 
 (4) The manager must not unreasonably cause the gas or electricity supply that is used by any occupier within the HMO to be interrupted.
 
-## 7. Duty of manager to maintain common parts, fixtures, fittings and appliances[^key-629153b923ca4214648e42a69b6e5259]
+## 7. Duty of manager to maintain common parts, fixtures, fittings and appliances[^c-629153b923ca4214648e42a69b6e5259]
 
 (1) The manager must ensure that all common parts of the HMO are—
 
@@ -149,7 +149,7 @@ The manager must ensure that—
 - (ii) all such parts of the HMO as comprise staircases, passageways, corridors, halls, lobbies, entrances, balconies, porches and steps that are used by the occupiers of the units of living accommodation within the HMO to gain access to the entrance doors of their respective unit of living accommodation; and
 - (iii) any other part of an HMO the use of which is shared by two or more households living in the HMO, with the knowledge of the landlord.
 
-## 8. Duty of manager to maintain living accommodation[^key-ef923f549fd6f64af680f137cd01b210]
+## 8. Duty of manager to maintain living accommodation[^c-ef923f549fd6f64af680f137cd01b210]
 
 (1) Subject to paragraph (4), the manager must ensure that each unit of living accommodation within the HMO and any furniture supplied with it are in clean condition at the beginning of a person’s occupation of it.
 
@@ -165,14 +165,14 @@ The manager must ensure that—
 
 (5) For the purpose of this regulation a person shall be regarded as using the living accommodation otherwise than in a tenant-like manner where the person fails to treat the property in accordance with the covenants or conditions contained in the lease or licence or otherwise fails to act as a reasonable tenant or licensee would do.
 
-## 9. Duty to provide waste disposal facilities[^key-e93b302884a24d3ef6435e6c8508e3ab]
+## 9. Duty to provide waste disposal facilities[^c-e93b302884a24d3ef6435e6c8508e3ab]
 
 The manager must—
 
 - (a) ensure that sufficient bins or other suitable receptacles are provided which are adequate for the requirements of each household occupying the HMO for the storage of refuse and litter pending their disposal; and
 - (b) make such further arrangements for the disposal of refuse and litter from the HMO as may be necessary, having regard to any service for such disposal provided by the local authority.
 
-## 10. Duties of occupiers of HMOs[^key-a1a3ce1dfb2e29ab4a4a4d6051e63917]
+## 10. Duties of occupiers of HMOs[^c-a1a3ce1dfb2e29ab4a4a4d6051e63917]
 
 Every occupier of the HMO must—
 
@@ -183,7 +183,7 @@ Every occupier of the HMO must—
 - (e) store and dispose of litter in accordance with the arrangements made by the manager under regulation 9; and
 - (f) comply with the reasonable instructions of the manager in respect of any means of escape from fire, the prevention of fire and the use of fire equipment.
 
-## 11. General[^key-36113314a4abea998b8850935f0a305a]
+## 11. General[^c-36113314a4abea998b8850935f0a305a]
 
 (1) Nothing in these Regulations shall—
 
@@ -224,30 +224,30 @@ A regulatory appraisal of the effect that these Regulations will have is availab
 
 [^f00001]: Footnote: [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34). The powers conferred by section 234(1) of the Act are exercisable, as respects Wales, by the National Assembly for Wales and, as respects England, by the Secretary of State. *See* the definition of “the appropriate national authority” in section 261(1) of the Act.
 
-[^key-92edcaa001da9ccfeaef45e7af8eec66]: Commencement: Reg. 1 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
+[^c-92edcaa001da9ccfeaef45e7af8eec66]: Commencement: Reg. 1 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
 
-[^key-7f86bed9a83071129ff16d18b89b8616]: Commencement: Reg. 2 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
+[^c-7f86bed9a83071129ff16d18b89b8616]: Commencement: Reg. 2 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
 
 [^f00002]: Footnote: For the meaning of “person managing” *see* section 263(3) of the Act.
 
-[^key-50b39db41029ea979232458041b040f3]: Commencement: Reg. 3 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
+[^c-50b39db41029ea979232458041b040f3]: Commencement: Reg. 3 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
 
-[^key-ba8a3410ca4afa9fb35aa78f93f58cd0]: Commencement: Reg. 4 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
+[^c-ba8a3410ca4afa9fb35aa78f93f58cd0]: Commencement: Reg. 4 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
 
-[^key-6e7bdbccbc3c8120c7f706a1eb0eab52]: Commencement: Reg. 5 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
+[^c-6e7bdbccbc3c8120c7f706a1eb0eab52]: Commencement: Reg. 5 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
 
-[^key-6d0a61c9ced5fd768c00549e680cced6]: Commencement: Reg. 6 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
+[^c-6d0a61c9ced5fd768c00549e680cced6]: Commencement: Reg. 6 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
 
-[^key-b8e6a23c061545a135056b4b5ce425b9]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/6/2) substituted (10.8.2009) by [The Houses in Multiple Occupation (Management) (Wales) Regulations 2009 (S.I. 2009/1915)](https://www.legislation.gov.uk/wsi/2009/1915), [regs. 1](https://www.legislation.gov.uk/wsi/2009/1915/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2009/1915/regulation/2/2)
+[^c-b8e6a23c061545a135056b4b5ce425b9]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/6/2) substituted (10.8.2009) by [The Houses in Multiple Occupation (Management) (Wales) Regulations 2009 (S.I. 2009/1915)](https://www.legislation.gov.uk/wsi/2009/1915), [regs. 1](https://www.legislation.gov.uk/wsi/2009/1915/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2009/1915/regulation/2/2)
 
-[^key-629153b923ca4214648e42a69b6e5259]: Commencement: Reg. 7 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
+[^c-629153b923ca4214648e42a69b6e5259]: Commencement: Reg. 7 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
 
-[^key-ef923f549fd6f64af680f137cd01b210]: Commencement: Reg. 8 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
+[^c-ef923f549fd6f64af680f137cd01b210]: Commencement: Reg. 8 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
 
-[^key-e93b302884a24d3ef6435e6c8508e3ab]: Commencement: Reg. 9 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
+[^c-e93b302884a24d3ef6435e6c8508e3ab]: Commencement: Reg. 9 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
 
-[^key-a1a3ce1dfb2e29ab4a4a4d6051e63917]: Commencement: Reg. 10 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
+[^c-a1a3ce1dfb2e29ab4a4a4d6051e63917]: Commencement: Reg. 10 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
 
-[^key-36113314a4abea998b8850935f0a305a]: Commencement: Reg. 11 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
+[^c-36113314a4abea998b8850935f0a305a]: Commencement: Reg. 11 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1713/regulation/1/1)
 
 [^f00003]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

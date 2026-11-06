@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42ZA. Power to request assistance etc from TRA[^key-810943b40c83001358f6d130097d34ec]
+## 42ZA. Power to request assistance etc from TRA[^c-810943b40c83001358f6d130097d34ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-810943b40c83001358f6d130097d34ec]: Textual amendment: [Reg. 42ZA](https://www.legislation.gov.uk/uksi/2019/449/regulation/42ZA) inserted (25.9.2023) by [The Trade Remedies (Increase in Imports Causing Serious Injury to UK Producers) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/954)](https://www.legislation.gov.uk/uksi/2023/954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/954/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2023/954/regulation/19) (with [reg. 2](https://www.legislation.gov.uk/uksi/2023/954/regulation/2))
+[^c-810943b40c83001358f6d130097d34ec]: Textual amendment: [Reg. 42ZA](https://www.legislation.gov.uk/uksi/2019/449/regulation/42ZA) inserted (25.9.2023) by [The Trade Remedies (Increase in Imports Causing Serious Injury to UK Producers) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/954)](https://www.legislation.gov.uk/uksi/2023/954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/954/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2023/954/regulation/19) (with [reg. 2](https://www.legislation.gov.uk/uksi/2023/954/regulation/2))

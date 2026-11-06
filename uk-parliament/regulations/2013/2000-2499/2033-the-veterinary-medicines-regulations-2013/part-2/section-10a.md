@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## 10A. Inducements and hospitality[^key-7ee4dc119560c21543a19bd0179e82e2]
+## 10A. Inducements and hospitality[^c-7ee4dc119560c21543a19bd0179e82e2]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ee4dc119560c21543a19bd0179e82e2]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2013/2033/regulation/10A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2024/567/regulation/8)
+[^c-7ee4dc119560c21543a19bd0179e82e2]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2013/2033/regulation/10A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2024/567/regulation/8)

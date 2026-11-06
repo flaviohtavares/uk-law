@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Unincorporated associations[^key-90518c035848575266b478e61fc8af67]
+## 32. Unincorporated associations[^c-90518c035848575266b478e61fc8af67]
 
 *Extent: E+W+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 - (a) rules of court relating to the service of documents have effect as if the association were a body corporate; and
 - (b) the following provisions apply as they apply in relation to a body corporate—
   - (i) section 33 of the Criminal Justice Act 1925 (c. 86) and Schedule 3 to the Magistrates' Courts Act 1980 (c. 43);
-  - (ii)[^key-3b5f9890abdd59e756097b366c3d3fad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-3b5f9890abdd59e756097b366c3d3fad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) section 18 of the Criminal Justice Act (Northern Ireland) 1945 (c. 15 (N.I.)) and Schedule 4 to the Magistrates' Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I.26)).
 
 (6) A fine imposed on the association on its conviction for an offence under section 25 is to be paid out of the funds of the association.
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-90518c035848575266b478e61fc8af67]: Commencement: S. 32 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/f)
+[^c-90518c035848575266b478e61fc8af67]: Commencement: S. 32 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/f)
 
-[^key-3b5f9890abdd59e756097b366c3d3fad]: Textual amendment: [S. 32(5)(b)(iii)](https://www.legislation.gov.uk/ukpga/2007/27/section/32/5/b/iii) omitted (1.3.2016) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/23); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)
+[^c-3b5f9890abdd59e756097b366c3d3fad]: Textual amendment: [S. 32(5)(b)(iii)](https://www.legislation.gov.uk/ukpga/2007/27/section/32/5/b/iii) omitted (1.3.2016) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/23); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)

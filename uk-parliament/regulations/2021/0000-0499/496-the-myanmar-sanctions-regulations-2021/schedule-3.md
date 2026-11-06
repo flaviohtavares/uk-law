@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 19
 
-### 1. Interception and monitoring equipment[^key-1832b3685db87e02ab5f236742190913]
+### 1. Interception and monitoring equipment[^c-1832b3685db87e02ab5f236742190913]
 
 Any goods which can perform any of the following functions (whether individually or as part of a system)—
 
@@ -41,13 +41,13 @@ Any goods which can perform any of the following functions (whether individually
 - (m) WEP and WPA code breaking;
 - (n) interception of VoIP (including proprietary and standard protocols).
 
-**2.**[^key-418b49b6f7be4d46beb726921d141a15] Any software which can perform any of the functions described in paragraph 1(a) to (n) (whether individually or as part of a system).
+**2.**[^c-418b49b6f7be4d46beb726921d141a15] Any software which can perform any of the functions described in paragraph 1(a) to (n) (whether individually or as part of a system).
 
-### 3. Other software and other technology[^key-82f25884c86488000a097d993c02786f]
+### 3. Other software and other technology[^c-82f25884c86488000a097d993c02786f]
 
 Any software or other technology which is specially designed for the development, production or use of any goods or software described in paragraph 1 or 2.
 
-### 4. Interpretation[^key-a281d08accbb2dfb099a1d2dc061cc01]
+### 4. Interpretation[^c-a281d08accbb2dfb099a1d2dc061cc01]
 
 For the purposes of this Schedule, the following terms have the meaning given to them in the Dual-Use Regulation—
 
@@ -57,7 +57,7 @@ For the purposes of this Schedule, the following terms have the meaning given to
 - “technology”;
 - “use”.
 
-### 5. Acronyms and abbreviations used in this Schedule[^key-39be3caa1995efa0a6fb208b8d475a54]
+### 5. Acronyms and abbreviations used in this Schedule[^c-39be3caa1995efa0a6fb208b8d475a54]
 
 The acronyms and abbreviations used in this Schedule have the following meaning—
 
@@ -70,7 +70,7 @@ The acronyms and abbreviations used in this Schedule have the following meaning�
 | SMS | Short Message System |  |
 | GSM | Global System for Mobile Communications |  |
 | GPS | Global Positioning System |  |
-| GPRS | General Packet Radio Service[^key-af8ed31c94e47a97718bcf3bc5068c8d] |  |
+| GPRS | General Packet Radio Service[^c-af8ed31c94e47a97718bcf3bc5068c8d] |  |
 | UMTS | Universal Mobile Telecommunications System |  |
 | CDMA | Code Division Multiple Access |  |
 | PSTN | Public Switch Telephone Networks |  |
@@ -80,21 +80,21 @@ The acronyms and abbreviations used in this Schedule have the following meaning�
 | WEP | Wired Equivalent Privacy |  |
 | WPA | Wi-Fi Protected Access |  |
 | VoIP | Voice over Internet Protocol |  |
-| WCDMA[^key-738b8ff552b877c52e3ef5537b6fa3d1] | Wideband Code Division Multiple Access |  |
+| WCDMA[^c-738b8ff552b877c52e3ef5537b6fa3d1] | Wideband Code Division Multiple Access |  |
 | IDEN | Integrated Digital Enhanced Network |  |
 
 ## Annotations
 
-[^key-1832b3685db87e02ab5f236742190913]: Commencement: Sch. 3 para. 1 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-1832b3685db87e02ab5f236742190913]: Commencement: Sch. 3 para. 1 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
 
-[^key-418b49b6f7be4d46beb726921d141a15]: Commencement: Sch. 3 para. 2 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-418b49b6f7be4d46beb726921d141a15]: Commencement: Sch. 3 para. 2 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
 
-[^key-82f25884c86488000a097d993c02786f]: Commencement: Sch. 3 para. 3 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-82f25884c86488000a097d993c02786f]: Commencement: Sch. 3 para. 3 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
 
-[^key-a281d08accbb2dfb099a1d2dc061cc01]: Commencement: Sch. 3 para. 4 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-a281d08accbb2dfb099a1d2dc061cc01]: Commencement: Sch. 3 para. 4 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
 
-[^key-39be3caa1995efa0a6fb208b8d475a54]: Commencement: Sch. 3 para. 5 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-39be3caa1995efa0a6fb208b8d475a54]: Commencement: Sch. 3 para. 5 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
 
-[^key-af8ed31c94e47a97718bcf3bc5068c8d]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2021/496/schedule/3/paragraph/5) substituted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2022 (S.I. 2022/818)](https://www.legislation.gov.uk/uksi/2022/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/818/regulation/1/2), [18(5)(a)](https://www.legislation.gov.uk/uksi/2022/818/regulation/18/5/a)
+[^c-af8ed31c94e47a97718bcf3bc5068c8d]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2021/496/schedule/3/paragraph/5) substituted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2022 (S.I. 2022/818)](https://www.legislation.gov.uk/uksi/2022/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/818/regulation/1/2), [18(5)(a)](https://www.legislation.gov.uk/uksi/2022/818/regulation/18/5/a)
 
-[^key-738b8ff552b877c52e3ef5537b6fa3d1]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2021/496/schedule/3/paragraph/5) inserted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2022 (S.I. 2022/818)](https://www.legislation.gov.uk/uksi/2022/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/818/regulation/1/2), [18(5)(b)](https://www.legislation.gov.uk/uksi/2022/818/regulation/18/5/b)
+[^c-738b8ff552b877c52e3ef5537b6fa3d1]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2021/496/schedule/3/paragraph/5) inserted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2022 (S.I. 2022/818)](https://www.legislation.gov.uk/uksi/2022/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/818/regulation/1/2), [18(5)(b)](https://www.legislation.gov.uk/uksi/2022/818/regulation/18/5/b)

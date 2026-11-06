@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 453. Use of credit risk mitigation techniques[^key-ac58e313ee63ecb402f11e38214570e2]
+## Article 453. Use of credit risk mitigation techniques[^c-ac58e313ee63ecb402f11e38214570e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac58e313ee63ecb402f11e38214570e2]: Textual amendment: Pt. 8 omitted (1.1.2022) by [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2021/1078/regulation/10) (as substituted by [S.I. 2021/1376](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(4)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/4))
+[^c-ac58e313ee63ecb402f11e38214570e2]: Textual amendment: Pt. 8 omitted (1.1.2022) by [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2021/1078/regulation/10) (as substituted by [S.I. 2021/1376](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(4)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/4))

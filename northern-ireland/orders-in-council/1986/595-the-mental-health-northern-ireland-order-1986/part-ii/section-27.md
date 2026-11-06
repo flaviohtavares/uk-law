@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Duty of authority to give information to patients and nearest relatives[^key-2e9ff2148278b98d3c45b101368514ea][^key-03ddd964de0c0e59b50ce0045d434b33][^c17123841]
+## 27. Duty of authority to give information to patients and nearest relatives[^c-2e9ff2148278b98d3c45b101368514ea][^c-03ddd964de0c0e59b50ce0045d434b33][^c17123841]
 
 *Extent: N.I.*
 
@@ -45,9 +45,9 @@ and those steps shall be taken as soon as practicable after the commencement of 
 
 ## Annotations
 
-[^key-2e9ff2148278b98d3c45b101368514ea]: Modification: [Art. 27](https://www.legislation.gov.uk/nisi/1986/595/article/27) applied (with modifications.) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(o)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/o), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-2e9ff2148278b98d3c45b101368514ea]: Modification: [Art. 27](https://www.legislation.gov.uk/nisi/1986/595/article/27) applied (with modifications.) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(o)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/o), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
 
-[^key-03ddd964de0c0e59b50ce0045d434b33]: Modification: [Art. 27](https://www.legislation.gov.uk/nisi/1986/595/article/27) applied (with modifications) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(o)-(x)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/o), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
+[^c-03ddd964de0c0e59b50ce0045d434b33]: Modification: [Art. 27](https://www.legislation.gov.uk/nisi/1986/595/article/27) applied (with modifications) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(o)-(x)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/o), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
 
 [^c17123841]: Textual amendment: [1994 NI 2](https://www.legislation.gov.uk/1994/ni2)
 

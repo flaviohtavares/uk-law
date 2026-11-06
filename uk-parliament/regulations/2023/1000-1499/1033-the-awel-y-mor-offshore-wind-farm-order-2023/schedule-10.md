@@ -22,7 +22,7 @@ summary: ''
 
 Article 33
 
-### PART 1 — Removal of hedgerows[^key-9fa49a40142e209ef1ef82eb5c596199]
+### PART 1 — Removal of hedgerows[^c-9fa49a40142e209ef1ef82eb5c596199]
 
 In the County of Denbighshire:
 
@@ -139,7 +139,7 @@ In the County of Denbighshire:
 </tbody>
 </table>
 
-### PART 2 — Removal of important hedgerows[^key-a5d9793fda2fb61f892508582d5bc9ad]
+### PART 2 — Removal of important hedgerows[^c-a5d9793fda2fb61f892508582d5bc9ad]
 
 In the county of Denbighshire
 
@@ -210,6 +210,6 @@ In the county of Denbighshire
 
 ## Annotations
 
-[^key-9fa49a40142e209ef1ef82eb5c596199]: Commencement: Sch. 10 Pt. 1 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-9fa49a40142e209ef1ef82eb5c596199]: Commencement: Sch. 10 Pt. 1 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
 
-[^key-a5d9793fda2fb61f892508582d5bc9ad]: Commencement: Sch. 10 Pt. 2 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-a5d9793fda2fb61f892508582d5bc9ad]: Commencement: Sch. 10 Pt. 2 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)

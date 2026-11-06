@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**30A.**[^key-b8002d1005c17f87a93edab8b2c1c0d9] After regulation 33 insert
+**30A.**[^c-b8002d1005c17f87a93edab8b2c1c0d9] After regulation 33 insert
 
 > **PART 4A — NI CERTIFIED CONSIGNEES**
 >
@@ -169,4 +169,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8002d1005c17f87a93edab8b2c1c0d9]: Textual amendment: Reg. 30A inserted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/15)
+[^c-b8002d1005c17f87a93edab8b2c1c0d9]: Textual amendment: Reg. 30A inserted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/15)

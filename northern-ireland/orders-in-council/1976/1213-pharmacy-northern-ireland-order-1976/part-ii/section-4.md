@@ -22,7 +22,7 @@ summary: ''
 
 (1) There shall continue to be a Council of the Society ( “the Council”) with a President and a Vice-President.
 
-(2)[^key-7a7c625cf0456890a93704f9a1620353] The provisions of Schedule 2 shall have effect with respect to the Council.
+(2)[^c-7a7c625cf0456890a93704f9a1620353] The provisions of Schedule 2 shall have effect with respect to the Council.
 
 (3) The Council may on behalf, and for the benefit, of the Society—
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a7c625cf0456890a93704f9a1620353]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/nisi/1976/1213/article/4/2) substituted (1.10.2012) by [The Pharmacy (1976 Order) (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/308)](https://www.legislation.gov.uk/nisr/2012/308), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2012/308/article/1/1), [3](https://www.legislation.gov.uk/nisr/2012/308/article/3) (with [Sch. 3](https://www.legislation.gov.uk/nisr/2012/308/schedule/3))
+[^c-7a7c625cf0456890a93704f9a1620353]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/nisi/1976/1213/article/4/2) substituted (1.10.2012) by [The Pharmacy (1976 Order) (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/308)](https://www.legislation.gov.uk/nisr/2012/308), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2012/308/article/1/1), [3](https://www.legislation.gov.uk/nisr/2012/308/article/3) (with [Sch. 3](https://www.legislation.gov.uk/nisr/2012/308/schedule/3))

@@ -50,11 +50,11 @@ A draft of this Order was laid before the House of Commons in accordance with se
 
 Accordingly, Her Majesty, in exercise of the powers conferred upon Her by section 2 of the Taxation (International and Other Provisions) Act 2010 and section 173(1) to (3) of the Finance Act 2006, by and with the advice of Her Privy Council, orders as follows—
 
-## 1. Citation[^key-61b8c3404469749b2856bb9cf7ad2123]
+## 1. Citation[^c-61b8c3404469749b2856bb9cf7ad2123]
 
 This Order may be cited as the Double Taxation Relief and International Tax Enforcement (China) Order 2011.
 
-## 2. Double taxation and international tax enforcement agreement to have effect[^key-3d2bfcc2506bc68ba19db38b61a23c5e]
+## 2. Double taxation and international tax enforcement agreement to have effect[^c-3d2bfcc2506bc68ba19db38b61a23c5e]
 
 It is declared that—
 
@@ -66,7 +66,7 @@ Judith Simpson
 
 Clerk of the Privy Council
 
-## SCHEDULE[^key-996e5851b1b33c5fe03eae5f5479e47d]
+## SCHEDULE[^c-996e5851b1b33c5fe03eae5f5479e47d]
 
 Article 2
 
@@ -101,8 +101,8 @@ A Tax Information and Impact Note has not been prepared for this Order as it giv
 
 [^f00002]: Footnote: [2006 c. 25](https://www.legislation.gov.uk/ukpga/2006/25).
 
-[^key-61b8c3404469749b2856bb9cf7ad2123]: Commencement: Art. 1 in force at made date
+[^c-61b8c3404469749b2856bb9cf7ad2123]: Commencement: Art. 1 in force at made date
 
-[^key-3d2bfcc2506bc68ba19db38b61a23c5e]: Commencement: Art. 2 in force at made date
+[^c-3d2bfcc2506bc68ba19db38b61a23c5e]: Commencement: Art. 2 in force at made date
 
-[^key-996e5851b1b33c5fe03eae5f5479e47d]: Commencement: Sch. in force at made date
+[^c-996e5851b1b33c5fe03eae5f5479e47d]: Commencement: Sch. in force at made date

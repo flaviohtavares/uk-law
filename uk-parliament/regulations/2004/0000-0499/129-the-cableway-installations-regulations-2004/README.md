@@ -31,7 +31,7 @@ summary: ''
 
 TRANSPORT
 
-The Cableway Installations Regulations 2004 (revoked)[^key-12b586cc1abd1828e2b0ba53b2b299b6]
+The Cableway Installations Regulations 2004 (revoked)[^c-12b586cc1abd1828e2b0ba53b2b299b6]
 
 Made
 
@@ -45,11 +45,11 @@ Coming into force
 
 3rd May 2004
 
-[^key-12b586cc1abd1828e2b0ba53b2b299b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12b586cc1abd1828e2b0ba53b2b299b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — Preliminary[^key-12b586cc1abd1828e2b0ba53b2b299b6]
+### PART I — Preliminary[^c-12b586cc1abd1828e2b0ba53b2b299b6]
 
 **No longer in force.**
 
@@ -57,7 +57,7 @@ Coming into force
 - [Section 2 — Interpretation etc.](part-i/section-2.md)
 - [Section 3 — Application of the Regulations](part-i/section-3.md)
 
-### PART II — General Requirements[^key-12b586cc1abd1828e2b0ba53b2b299b6]
+### PART II — General Requirements[^c-12b586cc1abd1828e2b0ba53b2b299b6]
 
 **No longer in force.**
 
@@ -71,7 +71,7 @@ Coming into force
 - [Section 11 — Subsystems and safety components–exceptions to placing on the market](part-ii/section-11.md)
 - [Section 12 — Conformity of cableway installations, subsystems and safety components with the provisions of these Regulations](part-ii/section-12.md)
 
-### PART III — Authorisation Procedures and Notified Bodies[^key-12b586cc1abd1828e2b0ba53b2b299b6]
+### PART III — Authorisation Procedures and Notified Bodies[^c-12b586cc1abd1828e2b0ba53b2b299b6]
 
 **No longer in force.**
 
@@ -86,7 +86,7 @@ Coming into force
 - [Section 21 — Notified body’s refusal to indicate conformity](part-iii/section-21.md)
 - [Section 22 — Requirement on notified bodies to carry out functions](part-iii/section-22.md)
 
-### PART IV — Enforcement[^key-12b586cc1abd1828e2b0ba53b2b299b6]
+### PART IV — Enforcement[^c-12b586cc1abd1828e2b0ba53b2b299b6]
 
 **No longer in force.**
 
@@ -99,7 +99,7 @@ Coming into force
 - [Section 29 — Defence of Due Diligence](part-iv/section-29.md)
 - [Section 30 — Liability of persons other than the principal offender](part-iv/section-30.md)
 
-### PART V — Supplementary provisions[^key-12b586cc1abd1828e2b0ba53b2b299b6]
+### PART V — Supplementary provisions[^c-12b586cc1abd1828e2b0ba53b2b299b6]
 
 **No longer in force.**
 
@@ -120,14 +120,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-12b586cc1abd1828e2b0ba53b2b299b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12b586cc1abd1828e2b0ba53b2b299b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-12b586cc1abd1828e2b0ba53b2b299b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12b586cc1abd1828e2b0ba53b2b299b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-12b586cc1abd1828e2b0ba53b2b299b6]: Textual amendment: Regulations revoked (30.7.2018) by [The Cableway Installations Regulations 2018 (S.I. 2018/816)](https://www.legislation.gov.uk/uksi/2018/816), [regs. 1](https://www.legislation.gov.uk/uksi/2018/816/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/816/regulation/2/a) (with [regs. 5(4)](https://www.legislation.gov.uk/uksi/2018/816/regulation/5/4), [6(4)](https://www.legislation.gov.uk/uksi/2018/816/regulation/6/4))
+[^c-12b586cc1abd1828e2b0ba53b2b299b6]: Textual amendment: Regulations revoked (30.7.2018) by [The Cableway Installations Regulations 2018 (S.I. 2018/816)](https://www.legislation.gov.uk/uksi/2018/816), [regs. 1](https://www.legislation.gov.uk/uksi/2018/816/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/816/regulation/2/a) (with [regs. 5(4)](https://www.legislation.gov.uk/uksi/2018/816/regulation/5/4), [6(4)](https://www.legislation.gov.uk/uksi/2018/816/regulation/6/4))

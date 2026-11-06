@@ -781,7 +781,7 @@ Article 4
 
 .
 
-**38.**[^key-07f001b81a21f7cb537fedb68185e6e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-07f001b81a21f7cb537fedb68185e6e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **39.** (1) Paragraph 32A [^c20635241] is amended as follows.
 
@@ -1530,7 +1530,7 @@ Article 4
 
 [^c20635231]: Marginal citation: [Paragraph 25](https://www.legislation.gov.uk/uksi/2010/2977/paragraph/25) was amended by Schedule 3 to the [Elected Authorities (Northern Ireland) Act 1989 (c.3)](https://www.legislation.gov.uk/ukpga/1989/3).
 
-[^key-07f001b81a21f7cb537fedb68185e6e1]: Textual amendment: [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2010/2977/schedule/1/paragraph/38) revoked (12.12.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 34(d)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/34/d); [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(e)(iv)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/e/iv) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
+[^c-07f001b81a21f7cb537fedb68185e6e1]: Textual amendment: [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2010/2977/schedule/1/paragraph/38) revoked (12.12.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 34(d)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/34/d); [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(e)(iv)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/e/iv) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
 
 [^c20635241]: Marginal citation: [Paragraph 32A](https://www.legislation.gov.uk/uksi/2010/2977/paragraph/32A) was inserted by [S.I. 1987/168](https://www.legislation.gov.uk/uksi/1987/168).
 

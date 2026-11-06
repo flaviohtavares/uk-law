@@ -44,19 +44,19 @@ The Secretary of State, as respects England, and the National Assembly for Wales
 
 A draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament in accordance with section 250(6) of that Act.
 
-## 1. Citation and commencement[^key-22cb1129476e590dfbd3a92ba777a411]
+## 1. Citation and commencement[^c-22cb1129476e590dfbd3a92ba777a411]
 
 This Order may be cited as the Housing (Tenancy Deposit Schemes) Order 2007 and shall come into force on 6th April 2007.
 
-## 1A. Application[^key-6f1c8882a3d003bd04c90a591a7319d1]
+## 1A. Application[^c-6f1c8882a3d003bd04c90a591a7319d1]
 
 This Order applies in relation to England only.
 
-## 2. Amendments to Schedule 10 to the Housing Act 2004[^key-8b129d77d333e50a99cb5837edde1e22]
+## 2. Amendments to Schedule 10 to the Housing Act 2004[^c-8b129d77d333e50a99cb5837edde1e22]
 
 Schedule 10 to the Housing Act 2004 (provisions relating to tenancy deposit schemes) is amended as follows.
 
-## 3. Further provision about custodial schemes[^key-90e64478fef84debb34e863cdc34c1c6]
+## 3. Further provision about custodial schemes[^c-90e64478fef84debb34e863cdc34c1c6]
 
 (1) Paragraph 4 (Custodial Schemes: general) is amended as follows.
 
@@ -186,7 +186,7 @@ Schedule 10 to the Housing Act 2004 (provisions relating to tenancy deposit sche
 >
 > (8) In this paragraph “the relevant period”, in relation to the application, means the period of 14 days beginning with the day on which the notice mentioned in sub-paragraph (2) is received by the other party.
 
-## 4. Further provision about insurance schemes[^key-bd063b312b8c0c793bba84c163b8adcd]
+## 4. Further provision about insurance schemes[^c-bd063b312b8c0c793bba84c163b8adcd]
 
 (1) Paragraph 5 (insurance schemes: general) is amended as follows.
 
@@ -223,7 +223,7 @@ Schedule 10 to the Housing Act 2004 (provisions relating to tenancy deposit sche
 > - (a) the duty to comply with a direction mentioned in sub-paragraph (2); or
 > - (b) any obligation under the scheme which is specified in the scheme as a relevant obligation for the purposes of this paragraph.
 
-**5.**[^key-87e2d55cffa81c5ed7473ebbecdd51b6] After paragraph 5 insert—
+**5.**[^c-87e2d55cffa81c5ed7473ebbecdd51b6] After paragraph 5 insert—
 
 > **5A. Requirements where deposit is to cease to be retained under an insurance scheme**
 >
@@ -273,7 +273,7 @@ Schedule 10 to the Housing Act 2004 (provisions relating to tenancy deposit sche
 > - (b) subsection (3) has effect as if for the words “within the period of 14 days beginning with the date on which it is received” there were substituted “before the deposit ceases to be retained under the old scheme”; and
 > - (c) subsection (6)(b) has effect as if the reference to the date on which the landlord receives the deposit were a reference to the date on which the deposit ceases to be retained under the old scheme.
 
-**6.**[^key-9a1cfe553007efba58eb45883603075f] (1) Paragraph 6 is amended as follows.
+**6.**[^c-9a1cfe553007efba58eb45883603075f] (1) Paragraph 6 is amended as follows.
 
 (2) In sub-paragraph (1), for “7 and” substitute “6A to”.
 
@@ -292,7 +292,7 @@ Schedule 10 to the Housing Act 2004 (provisions relating to tenancy deposit sche
 
 (5) In sub-paragraph (5) for “or (b)” substitute “, (b) or (c)”.
 
-**7.**[^key-82c86c42916686c275046d9257bae220] After paragraph 6 insert—
+**7.**[^c-82c86c42916686c275046d9257bae220] After paragraph 6 insert—
 
 > **6A. Notice to be sent to landlord when a direction under paragraph 6(3) is given**
 >
@@ -324,7 +324,7 @@ Schedule 10 to the Housing Act 2004 (provisions relating to tenancy deposit sche
 > - “the relevant period” means the period of 10 working days beginning with the day after that on which the notice referred to in sub-paragraph (2) is sent; and
 > - “working days” shall be taken to exclude Saturdays, Sundays, Christmas Day, Good Friday and any day which, under the Banking and Financial Dealings Act 1971[^f00004], is a bank holiday in England and Wales.
 
-## 8. General[^key-9000bb015599679ad216fefb4b3991eb]
+## 8. General[^c-9000bb015599679ad216fefb4b3991eb]
 
 In paragraph 10 (dispute resolution procedures), after sub-paragraph (2) insert—
 
@@ -332,7 +332,7 @@ In paragraph 10 (dispute resolution procedures), after sub-paragraph (2) insert�
 >
 > (4) In this Schedule, in relation to a custodial scheme or an insurance scheme, “the dispute resolution service” means the facilities provided by the scheme in accordance with this paragraph.
 
-**9.**[^key-fb7344db0e4588b0f096cc9756fef162] After paragraph 10 insert—
+**9.**[^c-fb7344db0e4588b0f096cc9756fef162] After paragraph 10 insert—
 
 > **10A. Service of documents: general**
 >
@@ -369,16 +369,16 @@ In paragraph 10 (dispute resolution procedures), after sub-paragraph (2) insert�
 >
 > before sending a document which is to be treated as having been received as mentioned in that sub-paragraph
 
-## 10. Consequential amendments[^key-d490ae9758c3b6485766f17ed1fed6e7]
+## 10. Consequential amendments[^c-d490ae9758c3b6485766f17ed1fed6e7]
 
 In paragraph 2—
 
 - (a) in sub-paragraph (1), for “and 4” substitute “to 4C” and for “and 10” substitute “to 10C”; and
 - (b) in sub-paragraph (2), for “and 10” substitute “to 10C”.
 
-**11.**[^key-8a9e73276b8482e68ee1b9f7436548fc] In paragraph 3, in sub-paragraph (5), after “paragraph 4” insert “or 4C”.
+**11.**[^c-8a9e73276b8482e68ee1b9f7436548fc] In paragraph 3, in sub-paragraph (5), after “paragraph 4” insert “or 4C”.
 
-**12.**[^key-b7c2b2af7842d5fc81a9f0da9caee195] Before paragraph 7 insert—
+**12.**[^c-b7c2b2af7842d5fc81a9f0da9caee195] Before paragraph 7 insert—
 
 > Insurance schemes – supplementary provisions
 
@@ -428,34 +428,34 @@ Finally, the Order makes some minor consequential amendments to paragraphs 2, 3 
 
 [^f00001]: Footnote: [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34). The powers conferred by paragraph 11 of Schedule 10 to the Housing Act 2004 are exercisable, as respects England, by the Secretary of State and, as respects Wales, by the National Assembly for Wales. See the definition of the appropriate national authority in section 261(1) of the Act.
 
-[^key-22cb1129476e590dfbd3a92ba777a411]: Commencement: Art. 1 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
+[^c-22cb1129476e590dfbd3a92ba777a411]: Commencement: Art. 1 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
 
-[^key-6f1c8882a3d003bd04c90a591a7319d1]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/uksi/2007/796/article/1A) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/24)
+[^c-6f1c8882a3d003bd04c90a591a7319d1]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/uksi/2007/796/article/1A) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/24)
 
-[^key-8b129d77d333e50a99cb5837edde1e22]: Commencement: Art. 2 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
+[^c-8b129d77d333e50a99cb5837edde1e22]: Commencement: Art. 2 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
 
-[^key-90e64478fef84debb34e863cdc34c1c6]: Commencement: Art. 3 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
+[^c-90e64478fef84debb34e863cdc34c1c6]: Commencement: Art. 3 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
 
 [^f00002]: Footnote: [1911. c 6](https://www.legislation.gov.uk/ukpga/1911/6).
 
 [^f00003]: Footnote: [1911. c 6](https://www.legislation.gov.uk/ukpga/1911/6).
 
-[^key-bd063b312b8c0c793bba84c163b8adcd]: Commencement: Art. 4 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
+[^c-bd063b312b8c0c793bba84c163b8adcd]: Commencement: Art. 4 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
 
-[^key-87e2d55cffa81c5ed7473ebbecdd51b6]: Commencement: Art. 5 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
+[^c-87e2d55cffa81c5ed7473ebbecdd51b6]: Commencement: Art. 5 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
 
-[^key-9a1cfe553007efba58eb45883603075f]: Commencement: Art. 6 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
+[^c-9a1cfe553007efba58eb45883603075f]: Commencement: Art. 6 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
 
-[^key-82c86c42916686c275046d9257bae220]: Commencement: Art. 7 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
+[^c-82c86c42916686c275046d9257bae220]: Commencement: Art. 7 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
 
 [^f00004]: Footnote: [1971 c 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-9000bb015599679ad216fefb4b3991eb]: Commencement: Art. 8 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
+[^c-9000bb015599679ad216fefb4b3991eb]: Commencement: Art. 8 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
 
-[^key-fb7344db0e4588b0f096cc9756fef162]: Commencement: Art. 9 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
+[^c-fb7344db0e4588b0f096cc9756fef162]: Commencement: Art. 9 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
 
-[^key-d490ae9758c3b6485766f17ed1fed6e7]: Commencement: Art. 10 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
+[^c-d490ae9758c3b6485766f17ed1fed6e7]: Commencement: Art. 10 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
 
-[^key-8a9e73276b8482e68ee1b9f7436548fc]: Commencement: Art. 11 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
+[^c-8a9e73276b8482e68ee1b9f7436548fc]: Commencement: Art. 11 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
 
-[^key-b7c2b2af7842d5fc81a9f0da9caee195]: Commencement: Art. 12 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)
+[^c-b7c2b2af7842d5fc81a9f0da9caee195]: Commencement: Art. 12 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/796/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Time limit for human rights actions against Scottish Ministers etc[^key-d81d03cfffdfbc7d55147923801b8f21]
+## 14. Time limit for human rights actions against Scottish Ministers etc[^c-d81d03cfffdfbc7d55147923801b8f21]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d81d03cfffdfbc7d55147923801b8f21]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2012/11/section/14) in force at 3.7.2012 by [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/g)
+[^c-d81d03cfffdfbc7d55147923801b8f21]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2012/11/section/14) in force at 3.7.2012 by [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/g)

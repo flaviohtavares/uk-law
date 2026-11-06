@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Cessation following a determination by the FCA[^key-d29b4b909ae478f330ebbc5ca5fb39ed]
+## 32. Cessation following a determination by the FCA[^c-d29b4b909ae478f330ebbc5ca5fb39ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d29b4b909ae478f330ebbc5ca5fb39ed]: Commencement: Reg. 32 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)
+[^c-d29b4b909ae478f330ebbc5ca5fb39ed]: Commencement: Reg. 32 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)

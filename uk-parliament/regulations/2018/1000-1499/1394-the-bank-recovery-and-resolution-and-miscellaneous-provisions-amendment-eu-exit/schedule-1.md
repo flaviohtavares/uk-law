@@ -80,7 +80,7 @@ Section 3 (interpretation of Part 1) is amended in accordance with paragraphs 3 
 
 **6.**[^c23938861] After subsection (3) insert—
 
-> (4) In this Part a reference to the PRA rulebook is to the rulebook published by the PRA containing rules made by the PRA under the Financial Services and Markets Act 2000 as the rulebook has effect on IP completion day[^key-2d2706da69ae4be21414a58a7b406901].
+> (4) In this Part a reference to the PRA rulebook is to the rulebook published by the PRA containing rules made by the PRA under the Financial Services and Markets Act 2000 as the rulebook has effect on IP completion day[^c-2d2706da69ae4be21414a58a7b406901].
 
 .
 
@@ -126,11 +126,11 @@ Section 3 (interpretation of Part 1) is amended in accordance with paragraphs 3 
 
 (3) In subsection (4)(b) for “State or a government entity” substitute “ Treasury ”.
 
-(4) In subsection (4)(d), for the words from “complies” to the end substitute “ represents appropriate compensation to the affected creditor for any loss incurred in consequence of the conversion of that instrument or liability[^key-50e1de270852d6266e48bd5e77e3582f]. ”.
+(4) In subsection (4)(d), for the words from “complies” to the end substitute “ represents appropriate compensation to the affected creditor for any loss incurred in consequence of the conversion of that instrument or liability[^c-50e1de270852d6266e48bd5e77e3582f]. ”.
 
 (5) After subsection (4) insert—
 
-> (4A) Where different conversion rates are applied to different classes of instrument or liability[^key-9d6be9b0a91a3082eb6485db488325a6], a lower conversion rate must be applied to subordinated debt than is applied to debts ranking higher in the hierarchy of claims in normal insolvency proceedings.
+> (4A) Where different conversion rates are applied to different classes of instrument or liability[^c-9d6be9b0a91a3082eb6485db488325a6], a lower conversion rate must be applied to subordinated debt than is applied to debts ranking higher in the hierarchy of claims in normal insolvency proceedings.
 
 .
 
@@ -276,7 +276,7 @@ In section 35 (transferable property), in subsection (1)—
 
 (2) In the definition of “credit institution” for “Article 2.5(2) to (23)” substitute “ Article 2.5(2), (3) or (23) ”.
 
-(3)[^key-d404ebbc9145627a1af36c656024714a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d404ebbc9145627a1af36c656024714a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In the definition of “investment firm”—
 
@@ -311,7 +311,7 @@ In section 35 (transferable property), in subsection (1)—
 
 (2) In subsection (1)—
 
-- (a)[^key-83c33ea519abaacd83ddd9e27652accf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-83c33ea519abaacd83ddd9e27652accf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the definition of “crisis prevention measure”—
   - (i) omit the words from “has” to “Kingdom”;
   - (ii) in paragraph (a), for the words from “of a” to the end substitute “ under the Bank Recovery and Resolution (No 2) Order 2014 (SI 2014/3348) of a requirement to take relevant measures as described in article 15, 16, or 23 of that Order, ”;
@@ -462,7 +462,7 @@ In section 70A (suspension of obligations), in subsection (7)—
 
 ### 35. Appointment of investigators[^c23939151]
 
-In section 83ZD (appointment of person to carry out investigations in particular cases), in subsection (3)(b) for “gives” substitute “ , immediately before IP completion day[^key-760faca083389cb86627c4a8ec32457d], gave ”.
+In section 83ZD (appointment of person to carry out investigations in particular cases), in subsection (3)(b) for “gives” substitute “ , immediately before IP completion day[^c-760faca083389cb86627c4a8ec32457d], gave ”.
 
 **36.**[^c23939161] (1) Section 83ZE (investigations etc in support of foreign resolution authorities) is amended as follows.
 
@@ -484,7 +484,7 @@ In section 83ZD (appointment of person to carry out investigations in particular
 
 In section 83ZY (publication of information relating to certain Bank of England decisions etc), in subsection (10) omit paragraph (b) (with the “and” preceding it).
 
-**38.**[^c23939181] In section 83ZZ (co-operation), in paragraph (c) for “giving” substitute “ which, immediately before IP completion day[^key-eb57fe572c9fedec1f818c8638e0ad27], gave ”.
+**38.**[^c23939181] In section 83ZZ (co-operation), in paragraph (c) for “giving” substitute “ which, immediately before IP completion day[^c-eb57fe572c9fedec1f818c8638e0ad27], gave ”.
 
 ### 39. Special cases[^c23939191]
 
@@ -547,7 +547,7 @@ In section 83ZY (publication of information relating to certain Bank of England 
 - (a) in the modified subsection (3), after “United Kingdom and the”, for “third-country” substitute “ country or territory ”;
 - (b) in the modified subsection (3A) for “ “third-country group company” and “third country”” substitute “and “third-country group company””.
 
-(4)[^key-f0cdbb8653ac3f0ee34c50028965e55e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f0cdbb8653ac3f0ee34c50028965e55e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 43. Resolution of UK branches of third-country institutions[^c23939231]
 
@@ -660,7 +660,7 @@ Section 89JA (resolution of UK branches of third-country institutions) is amende
 
 (2) In the entry relating to section 44C(4), for “ third country)” substitute “ country or territory outside the United Kingdom) ”.
 
-(3)[^key-04c3a6807b7648ace006c04fba4df5a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-04c3a6807b7648ace006c04fba4df5a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In the entry relating to section 60B(4) for “third country” substitute “ country or territory outside the United Kingdom ”;
 
@@ -687,7 +687,7 @@ In section 251 (financial assistance to building societies), in subsection (1)�
 
 ### 54. General[^c23939341]
 
-In section 258A (“investment firm”), in subsection (1) at the end insert “ as it forms part of retained EU law[^key-74b536c973405bc9f52b48fcf884cf57]”.
+In section 258A (“investment firm”), in subsection (1) at the end insert “ as it forms part of retained EU law[^c-74b536c973405bc9f52b48fcf884cf57]”.
 
 **55.**[^c23939351] (1) In section 259 (statutory instruments), in subsection (3), the Table is amended as follows.
 
@@ -749,7 +749,7 @@ In section 258A (“investment firm”), in subsection (1) at the end insert “
 
 [^c23938861]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-2d2706da69ae4be21414a58a7b406901]: Textual amendment: Words in Sch. 1 para. 6 substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 10(b)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/10/b/i)
+[^c-2d2706da69ae4be21414a58a7b406901]: Textual amendment: Words in Sch. 1 para. 6 substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 10(b)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/10/b/i)
 
 [^c23938871]: Commencement: Sch. 1 para. 7(2)(b) in force at 21.12.2018 and Sch. 1 para. 7 in force otherwise at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(3)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/3/b)
 
@@ -759,9 +759,9 @@ In section 258A (“investment firm”), in subsection (1) at the end insert “
 
 [^c23938901]: Commencement: Sch. 1 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-50e1de270852d6266e48bd5e77e3582f]: Textual amendment: Words in Sch. 1 para. 10(4) inserted (30.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [76(2)(a)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/76/2/a)
+[^c-50e1de270852d6266e48bd5e77e3582f]: Textual amendment: Words in Sch. 1 para. 10(4) inserted (30.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [76(2)(a)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/76/2/a)
 
-[^key-9d6be9b0a91a3082eb6485db488325a6]: Textual amendment: Words in Sch. 1 para. 10(5) inserted (30.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [76(2)(b)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/76/2/b)
+[^c-9d6be9b0a91a3082eb6485db488325a6]: Textual amendment: Words in Sch. 1 para. 10(5) inserted (30.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [76(2)(b)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/76/2/b)
 
 [^c23938911]: Commencement: Sch. 1 para. 11 in force at 31.12.2020 at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -785,13 +785,13 @@ In section 258A (“investment firm”), in subsection (1) at the end insert “
 
 [^c23939011]: Commencement: Sch. 1 para. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-d404ebbc9145627a1af36c656024714a]: Textual amendment: Sch. 1 para. 21(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2019/710/regulation/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d404ebbc9145627a1af36c656024714a]: Textual amendment: Sch. 1 para. 21(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2019/710/regulation/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23939021]: Commencement: Sch. 1 para. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23939031]: Commencement: Sch. 1 para. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-83c33ea519abaacd83ddd9e27652accf]: Textual amendment: Sch. 1 para. 23(2)(a) omitted (28.12.2020) by virtue of [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [76(3)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/76/3)
+[^c-83c33ea519abaacd83ddd9e27652accf]: Textual amendment: Sch. 1 para. 23(2)(a) omitted (28.12.2020) by virtue of [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [76(3)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/76/3)
 
 [^c23939041]: Commencement: Sch. 1 para. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -817,7 +817,7 @@ In section 258A (“investment firm”), in subsection (1) at the end insert “
 
 [^c23939151]: Commencement: Sch. 1 para. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-760faca083389cb86627c4a8ec32457d]: Textual amendment: Words in Sch. 1 para. 35 substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 10(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/10/b/ii)
+[^c-760faca083389cb86627c4a8ec32457d]: Textual amendment: Words in Sch. 1 para. 35 substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 10(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/10/b/ii)
 
 [^c23939161]: Commencement: Sch. 1 para. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -825,7 +825,7 @@ In section 258A (“investment firm”), in subsection (1) at the end insert “
 
 [^c23939181]: Commencement: Sch. 1 para. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-eb57fe572c9fedec1f818c8638e0ad27]: Textual amendment: Words in Sch. 1 para. 38 substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 10(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/10/b/iii)
+[^c-eb57fe572c9fedec1f818c8638e0ad27]: Textual amendment: Words in Sch. 1 para. 38 substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 10(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/10/b/iii)
 
 [^c23939191]: Commencement: Sch. 1 para. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -835,7 +835,7 @@ In section 258A (“investment firm”), in subsection (1) at the end insert “
 
 [^c23939221]: Commencement: Sch. 1 para. 42 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-f0cdbb8653ac3f0ee34c50028965e55e]: Textual amendment: [Sch. 1 para. 42(4)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/1/paragraph/42/4) omitted (8.7.2021) by virtue of [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [regs. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [49(1)](https://www.legislation.gov.uk/uksi/2021/716/regulation/49/1)
+[^c-f0cdbb8653ac3f0ee34c50028965e55e]: Textual amendment: [Sch. 1 para. 42(4)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/1/paragraph/42/4) omitted (8.7.2021) by virtue of [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [regs. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [49(1)](https://www.legislation.gov.uk/uksi/2021/716/regulation/49/1)
 
 [^c23939231]: Commencement: Sch. 1 para. 43 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -851,7 +851,7 @@ In section 258A (“investment firm”), in subsection (1) at the end insert “
 
 [^c23939291]: Commencement: Sch. 1 para. 49 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-04c3a6807b7648ace006c04fba4df5a3]: Textual amendment: [Sch. 1 para. 49(3)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/1/paragraph/49/3) omitted (17.8.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2022/838/regulation/14) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
+[^c-04c3a6807b7648ace006c04fba4df5a3]: Textual amendment: [Sch. 1 para. 49(3)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/1/paragraph/49/3) omitted (17.8.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2022/838/regulation/14) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
 
 [^c23939301]: Commencement: Sch. 1 para. 50 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -863,7 +863,7 @@ In section 258A (“investment firm”), in subsection (1) at the end insert “
 
 [^c23939341]: Commencement: Sch. 1 para. 54 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-74b536c973405bc9f52b48fcf884cf57]: Textual amendment: Words in Sch. 1 para. 54 substituted (31.12.2020 immediately before IP completiton day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)(2)(k)(i)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1)
+[^c-74b536c973405bc9f52b48fcf884cf57]: Textual amendment: Words in Sch. 1 para. 54 substituted (31.12.2020 immediately before IP completiton day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)(2)(k)(i)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1)
 
 [^c23939351]: Commencement: Sch. 1 para. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 

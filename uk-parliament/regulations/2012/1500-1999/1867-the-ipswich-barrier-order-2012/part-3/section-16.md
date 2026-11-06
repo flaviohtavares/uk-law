@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Lights on tidal works during construction[^key-9d68c7ba2797cd66af022d162c2f3e6d]
+## 16. Lights on tidal works during construction[^c-9d68c7ba2797cd66af022d162c2f3e6d]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d68c7ba2797cd66af022d162c2f3e6d]: Commencement: Art. 16 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-9d68c7ba2797cd66af022d162c2f3e6d]: Commencement: Art. 16 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

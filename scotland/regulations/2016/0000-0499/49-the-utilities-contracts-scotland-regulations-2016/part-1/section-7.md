@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Common Provisions[^key-40f5f2a582159cf1175342fec61d1086]
+## 7. Common Provisions[^c-40f5f2a582159cf1175342fec61d1086]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40f5f2a582159cf1175342fec61d1086]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/49/regulation/7) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-40f5f2a582159cf1175342fec61d1086]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/49/regulation/7) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

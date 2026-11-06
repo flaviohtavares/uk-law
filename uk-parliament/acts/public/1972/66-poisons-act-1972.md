@@ -33,11 +33,11 @@ An Act to consolidate certain enactments relating to poisons.
 
 \[9th August 1972\][^c823698][^c823699][^c823700][^c823701]
 
-## 1. Poisons Board.[^key-6762dd2178d65d69698194920bc03cc5]
+## 1. Poisons Board.[^c-6762dd2178d65d69698194920bc03cc5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Regulated substances and reportable substances[^key-ce5b50a81ad7bc190b1a168fb3b7a7d6]
+## 2. Regulated substances and reportable substances[^c-ce5b50a81ad7bc190b1a168fb3b7a7d6]
 
 (1) This section defines some key terms used in this Act.
 
@@ -117,7 +117,7 @@ but, in each case, only if the substance or mixture is not excluded.
 - (a) they are in common use, or are likely to come into common use, for purposes other than the treatment of human ailments, and
 - (b) it is reasonably necessary to include them in one of those Parts if members of the general public are to have adequate facilities for obtaining them.
 
-## 3. Activities prohibited without a licence[^key-c071c1e290c8f05d275c1282a000c2da]
+## 3. Activities prohibited without a licence[^c-c071c1e290c8f05d275c1282a000c2da]
 
 (1) A member of the general public commits an offence if he or she does anything listed in subsection (2) without having a licence, or a recognised non-GB licence, to do that thing with respect to that substance.
 
@@ -140,7 +140,7 @@ but, in each case, only if the substance or mixture is not excluded.
 
 (5) This section does not apply to the possession or use of a regulated substance at any time before 3 March 2016.
 
-## 3A. Supply of regulated substances[^key-d093cb43318e6626459f0b6de60aef7c]
+## 3A. Supply of regulated substances[^c-d093cb43318e6626459f0b6de60aef7c]
 
 (1) A person commits an offence if the person supplies a regulated substance to a member of the general public without first verifying that the member of the general public has a licence, or a recognised non-GB licence, to acquire, possess and use that substance.
 
@@ -216,11 +216,11 @@ but, in each case, only if the substance or mixture is not excluded.
 
 (9) A person does not commit an offence under subsection (8) if the requirements of subsection (1) or, as the case may be, (5) do not apply to the person's case by virtue of regulations made under section 9B.
 
-## 4. Exclusion of sales by wholesale and certain other sales.[^key-9ff1af3050ec1a8140a2452ff21f3759][^c823710]
+## 4. Exclusion of sales by wholesale and certain other sales.[^c-9ff1af3050ec1a8140a2452ff21f3759][^c823710]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4A. Licences[^key-a0f22b5e7a66e1bc2667aaea049cb8b2]
+## 4A. Licences[^c-a0f22b5e7a66e1bc2667aaea049cb8b2]
 
 (1) The Secretary of State may grant a licence to a person on application by that person in accordance with this section.
 
@@ -235,7 +235,7 @@ but, in each case, only if the substance or mixture is not excluded.
 
 (5) The amount of any fees to be charged under subsection (4) must be specified in regulations made under subsection (10), and the amount specified must not exceed the reasonable cost of processing such applications.
 
-(6)[^key-e86809132063d202d3d5f7a89d21ebd5] In deciding whether to grant or amend a licence with respect to a substance, the Secretary of State must have regard to all the circumstances of the case, including in particular—
+(6)[^c-e86809132063d202d3d5f7a89d21ebd5] In deciding whether to grant or amend a licence with respect to a substance, the Secretary of State must have regard to all the circumstances of the case, including in particular—
 
 - (a) the use intended to be made of the substance,
 - (b) the availability of alternative substances that would achieve the same purpose,
@@ -243,11 +243,11 @@ but, in each case, only if the substance or mixture is not excluded.
 - (d) any danger to public safety or public order that may be caused by possession of the substance, and
 - (e) whether the applicant is a fit and proper person to possess the substance.
 
-(7)[^key-e86809132063d202d3d5f7a89d21ebd5] But if there are reasonable grounds for doubting the legitimacy of the use intended to be made of the substance or the intentions of the user to use the substance for a legitimate purpose, the Secretary of State must in any event refuse the application so far as it relates to that substance.
+(7)[^c-e86809132063d202d3d5f7a89d21ebd5] But if there are reasonable grounds for doubting the legitimacy of the use intended to be made of the substance or the intentions of the user to use the substance for a legitimate purpose, the Secretary of State must in any event refuse the application so far as it relates to that substance.
 
-(8)[^key-e86809132063d202d3d5f7a89d21ebd5] A licence may be granted or amended subject to such terms and conditions as may be specified in the licence.
+(8)[^c-e86809132063d202d3d5f7a89d21ebd5] A licence may be granted or amended subject to such terms and conditions as may be specified in the licence.
 
-(9)[^key-e86809132063d202d3d5f7a89d21ebd5] Examples of terms and conditions that may be specified include, for any substances with respect to which the licence is granted, terms and conditions about—
+(9)[^c-e86809132063d202d3d5f7a89d21ebd5] Examples of terms and conditions that may be specified include, for any substances with respect to which the licence is granted, terms and conditions about—
 
 - (a) storage,
 - (b) use,
@@ -292,11 +292,11 @@ but, in each case, only if the substance or mixture is not excluded.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Supplementary provisions as to local authorities’ lists.[^key-144146a28551974a9d55c4ba5a7dff29][^c823715]
+## 6. Supplementary provisions as to local authorities’ lists.[^c-144146a28551974a9d55c4ba5a7dff29][^c823715]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Regulations about poisons and explosives precursors[^key-4f54856f084743fa5a5423078e8c7dd1]
+## 7. Regulations about poisons and explosives precursors[^c-4f54856f084743fa5a5423078e8c7dd1]
 
 (1) The Secretary of State may make provision by regulations about—
 
@@ -317,7 +317,7 @@ but, in each case, only if the substance or mixture is not excluded.
 
 (6) References in this section to “substances” are to regulated substances and reportable substances.
 
-## 7A. Proof of lack of knowledge[^key-c9e1864f64e248680987261ce631ab60]
+## 7A. Proof of lack of knowledge[^c-c9e1864f64e248680987261ce631ab60]
 
 (1) This section applies to the following offences—
 
@@ -343,7 +343,7 @@ but, in each case, only if the substance or mixture is not excluded.
 
 (6) Nothing in this section affects any defence that it is open to a person accused of an offence to which this section applies to raise apart from this section.
 
-## 8. Penalties[^key-b870302702401a4ffb31e10160213966]
+## 8. Penalties[^c-b870302702401a4ffb31e10160213966]
 
 (1) A person guilty of an offence under section 3(1), 3A(1) or 3B(1) is liable—
 
@@ -414,13 +414,13 @@ that person, as well as the partnership, is guilty of the offence and liable to 
 
 ## 9. Inspection and enforcement.
 
-(1)[^key-99b46b09296712e8c4feee5a02d62899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-99b46b09296712e8c4feee5a02d62899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-99b46b09296712e8c4feee5a02d62899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-99b46b09296712e8c4feee5a02d62899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-99b46b09296712e8c4feee5a02d62899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-99b46b09296712e8c4feee5a02d62899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-10c4830451b5646a79264282e32fd34f] An inspector appointed by the General Pharmaceutical Council under article 8(1) of the Pharmacy Order 2010 may at all reasonable times—
+(4)[^c-10c4830451b5646a79264282e32fd34f] An inspector appointed by the General Pharmaceutical Council under article 8(1) of the Pharmacy Order 2010 may at all reasonable times—
 
 - (a) enter any registered pharmacy to ascertain whether an offence under section 3A, 3B, 3C or 7(4) has been committed by a pharmacist or a person carrying on a retail pharmacy business;
 - (b) enter any suspicious premises to ascertain whether either of the following offences has been committed—
@@ -431,13 +431,13 @@ that person, as well as the partnership, is guilty of the offence and liable to 
 
 (4B) An inspector appointed by the General Pharmaceutical Council under article 8(1) of the Pharmacy Order 2010 may also make such examination and inquiry and do such other things (including the taking, on payment, of samples) as may be necessary for ascertaining any of the things mentioned in subsection (4)(a) and (b).
 
-(5)[^key-c6d5ba0ee950944d71ee9bf839ecd553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c6d5ba0ee950944d71ee9bf839ecd553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5A)[^key-c6d5ba0ee950944d71ee9bf839ecd553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5A)[^c-c6d5ba0ee950944d71ee9bf839ecd553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-c6d5ba0ee950944d71ee9bf839ecd553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c6d5ba0ee950944d71ee9bf839ecd553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-c6d5ba0ee950944d71ee9bf839ecd553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-c6d5ba0ee950944d71ee9bf839ecd553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) If a person—
 
@@ -449,11 +449,11 @@ he shall in respect of each offence be liable on summary conviction to a fine no
 
 (9) Nothing in this section shall authorise any inspector to enter or inspect the premises, not being a shop, of a doctor, a dentist, a veterinary surgeon or a veterinary practitioner.
 
-## 9A. Application of PACE powers[^key-4d5bf5ac84f2fbc1d2a8f65620a0f35c]
+## 9A. Application of PACE powers[^c-4d5bf5ac84f2fbc1d2a8f65620a0f35c]
 
 As regards England and Wales, sections 8, 17 and 18 of the Police and Criminal Evidence Act 1984 (powers of entry and search) apply in relation to an offence under section 3A(3) or (4), 3B(3), 3C(8) or 7(4) of this Act as in relation to an indictable offence.
 
-## 9B. Power to disapply requirements or exclusions in specified circumstances[^key-6cbbd3a98ad72a8e8396e6fd9df6f09d]
+## 9B. Power to disapply requirements or exclusions in specified circumstances[^c-6cbbd3a98ad72a8e8396e6fd9df6f09d]
 
 (1) The Secretary of State may by regulations provide—
 
@@ -479,7 +479,7 @@ As regards England and Wales, sections 8, 17 and 18 of the Police and Criminal E
 - (d) references to a substance also include a mixture, and
 - (e) references to a group of substances includes a group comprising all the substances listed in Schedule 1A.
 
-## 10. Regulations[^key-781ea4f61eb1e483bc8e26bd50b18966]
+## 10. Regulations[^c-781ea4f61eb1e483bc8e26bd50b18966]
 
 (1) Any power to make regulations under this Act includes power—
 
@@ -493,39 +493,39 @@ As regards England and Wales, sections 8, 17 and 18 of the Police and Criminal E
 
 ## 11. Interpretation.[^c823757]
 
-(1)[^key-b082e383eaf67ea5c891cb7a86ae8658] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-b082e383eaf67ea5c891cb7a86ae8658] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In this Act, unless the context otherwise requires, the following expressions have the following meanings, that is to say—
 
-- [^key-1e21becc33f72881eb8b5c659a8ad188]...
-- “**dentist**” means a person registered in the dentists register kept under the Dentists Act 1984[^c823759] [^key-a763d6e3b87436f8bdbd0c3c6d090949]...;
+- [^c-1e21becc33f72881eb8b5c659a8ad188]...
+- “**dentist**” means a person registered in the dentists register kept under the Dentists Act 1984[^c823759] [^c-a763d6e3b87436f8bdbd0c3c6d090949]...;
 - “[^c823761] **doctor** ” means a registered medical practitioner within the meaning of Schedule 1 to the Interpretation Act 1978
-- “[^key-bc6633c187329e442df4c8688a1c3155]**Great Britain**” includes the territorial sea of the United Kingdom other than the part adjacent to Northern Ireland;
+- “[^c-bc6633c187329e442df4c8688a1c3155]**Great Britain**” includes the territorial sea of the United Kingdom other than the part adjacent to Northern Ireland;
 - “licence” (other than in the expression “recognised non-GB licence” and in section 4B) means a licence granted under section 4A;
 - “**local authority**” means—
   - (a) in relation to England [^c823762]. . ., the council of a county metropolitan district[^c823763], . . . [^c823764] or London borough or the Common Council of the City of London,
   - (aa) in relation to Wales, the council of a county or county borough,[^c823765] and
   - (b) in relation to Scotland,[^c823766] a council constituted under section 2 of the Local Government[^c823767] etc. (Scotland) Act 1994 ;
-- [^key-1e21becc33f72881eb8b5c659a8ad188]...
+- [^c-1e21becc33f72881eb8b5c659a8ad188]...
 - “**member of the general public**” has the meaning given in section 3;
 - “**mixture**” means a mixture or solution composed of two or more substances;
 - “**person lawfully conducting a retail pharmacy business**” shall be construed in accordance with section 69 of the [^c823768]Medicines Act 1968;
-- “[^key-52279bb00b0d1efbea8d23e3c9cab266]**pharmacist**” means a person registered in Part 1 of the register maintained under article 19 of the Pharmacy Order 2010 (pharmacists other than visiting practitioners);
-- [^key-1e21becc33f72881eb8b5c659a8ad188]...
-- [^key-1e21becc33f72881eb8b5c659a8ad188]...
+- “[^c-52279bb00b0d1efbea8d23e3c9cab266]**pharmacist**” means a person registered in Part 1 of the register maintained under article 19 of the Pharmacy Order 2010 (pharmacists other than visiting practitioners);
+- [^c-1e21becc33f72881eb8b5c659a8ad188]...
+- [^c-1e21becc33f72881eb8b5c659a8ad188]...
 - “**recognised non-GB licence**” has the meaning given in section 4B;
 - “**registered pharmacy**” has the meaning assigned to it by section 74 of the [^c823771]Medicines Act 1968;
 - “**regulated substance**”, “**regulated explosives precursor**” and “**regulated poison**” have the meanings given in section 2;
 - “**reportable substance**”, “**reportable explosives precursor**” and “**reportable poison**” have the meanings given in section 2;
-- “**retail pharmacy business**” has the meaning assigned to it by regulation 8 of the Human Medicines Regulations 2012 ([^key-eb09e0df69cb40a2c42651442738134c]S.I. 2012/1916) ;
-- [^key-1e21becc33f72881eb8b5c659a8ad188]...
+- “**retail pharmacy business**” has the meaning assigned to it by regulation 8 of the Human Medicines Regulations 2012 ([^c-eb09e0df69cb40a2c42651442738134c]S.I. 2012/1916) ;
+- [^c-1e21becc33f72881eb8b5c659a8ad188]...
 - “**substance**” means a chemical element and its compounds in the natural state or obtained by any manufacturing process—
   - (a) including any additive necessary to preserve its stability and any impurity deriving from the process used, but
   - (b) excluding any solvent that may be separated without affecting the stability of the substance or changing its composition;
 - “**veterinary practitioner**” means a person registered in the supplementary veterinary register kept under section 8 of the [^c823773]Veterinary Surgeons Act 1966;
 - “**veterinary surgeon**” means a person registered in the register of veterinary surgeons kept under section 2 of the [^c823774]Veterinary Surgeons Act 1966.
 
-(3)[^key-01bd68222e672bb0f3bc260c84e01c8b] In relation to a regulated substance or a reportable substance, any reference to the substance is a reference to the substance or the mixture, as the case may be.
+(3)[^c-01bd68222e672bb0f3bc260c84e01c8b] In relation to a regulated substance or a reportable substance, any reference to the substance is a reference to the substance or the mixture, as the case may be.
 
 (4) References in this Act to supplying something include any kind of supply or making available, whether in return for payment or free of charge.
 
@@ -581,66 +581,66 @@ Section 1.
 
 [^M_F_0697b2dc-32d7-45df-82db-9a0b3f5584f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 1A — Regulated substances and reportable substances[^key-02a5c7e66e7b5c5f46170fcadf73ae81]
+## SCHEDULE 1A — Regulated substances and reportable substances[^c-02a5c7e66e7b5c5f46170fcadf73ae81]
 
 ### PART 1 — Regulated explosives precursors
 
 | *Name of substance and Chemical Abstracts Service Registry number (CAS RN)* | *Concentration limit (weight in weight)* |
 | --- | --- |
-| Ammonium nitrate (CAS RN 6484-52-2) in concentration of 16% by weight of nitrogen in relation to ammonium nitrate or higher[^key-b42de6e58fcde12e986c713f24d2cdc6] | \- |
+| Ammonium nitrate (CAS RN 6484-52-2) in concentration of 16% by weight of nitrogen in relation to ammonium nitrate or higher[^c-b42de6e58fcde12e986c713f24d2cdc6] | \- |
 | Hexamine (CAS RN 100-97-0) | \- |
 | Hydrochloric acid (CAS RN 7647-01-0) | 10% w/w |
 | Hydrogen peroxide (CAS RN 7722-84-1) | 12% w/w |
 | Nitromethane (CAS RN 75-52-5) | 30% w/w |
 | Nitric acid (CAS RN 7697-37-2) | 3% w/w |
-| Phosphoric acid (CAS RN 7664-38-2)[^key-daa586f57b4223a095cb49170e91a01c] | 30% w/w |
+| Phosphoric acid (CAS RN 7664-38-2)[^c-daa586f57b4223a095cb49170e91a01c] | 30% w/w |
 | Potassium chlorate (CAS RN 3811-04-9) | 40% w/w |
 | Potassium perchlorate (CAS RN 7778-74-7) | 40% w/w |
 | Sodium chlorate (CAS RN 7775-09-9) | 40% w/w |
 | Sodium perchlorate (CAS RN 7601-89-0) | 40% w/w |
-| Sulfuric acid ([^key-d250ec03ac0fcd3dd70d98bd405b86e9]CAS RN 7664-93-9) | 15% w/w[^key-f0a7c16ab1e8c531d5d6053d8b1897e1] |
+| Sulfuric acid ([^c-d250ec03ac0fcd3dd70d98bd405b86e9]CAS RN 7664-93-9) | 15% w/w[^c-f0a7c16ab1e8c531d5d6053d8b1897e1] |
 
 ### PART 2 — Regulated poisons
 
 | *Name of substance and Chemical Abstracts Service Registry number (CAS RN)* | *Concentration limit (weight in weight)* |
 | --- | --- |
 | Aluminium phosphide (CAS RN 20859-73-8) |  |
-| Aluminium sulfide (CAS RN 1302-81-4)[^key-197db45642bfed13e4bba3d0a917ef7e] | \- |
-| Arsenic (CAS RN 7440-38-2); its compounds [^key-a4067b42d93308388c9c8791b6fc91a3]... |  |
+| Aluminium sulfide (CAS RN 1302-81-4)[^c-197db45642bfed13e4bba3d0a917ef7e] | \- |
+| Arsenic (CAS RN 7440-38-2); its compounds [^c-a4067b42d93308388c9c8791b6fc91a3]... |  |
 | Barium (CAS RN 7440-39-3), salts of, other than barium sulphate (CAS RN 7727-43-7) and the salts of barium listed in Part 4 of this Schedule) |  |
 | Bromomethane (CAS RN 74-83-9) |  |
-| Calcium phosphide (CAS RN 1305-99-3)[^key-114293e9053f8008ca8e0dece2cc9045] | \- |
+| Calcium phosphide (CAS RN 1305-99-3)[^c-114293e9053f8008ca8e0dece2cc9045] | \- |
 | Calcium sulfide (CAS RN 20548-54-3) | \- |
 | Chloropicrin (CAS RN 76-06-2) |  |
 | Fluoroacetic acid (CAS RN 144-49-0); its salts; fluoroacetamide |  |
 | Hydrogen cyanide (CAS RN 74-90-8); metal cyanides, other than ferrocyanides and ferricyanides |  |
 | Lead acetates (CAS RN 15347-57-6); compounds of lead with acids from fixed oils |  |
 | Magnesium phosphide (CAS RN 12057-74-8) |  |
-| Magnesium sulfide (CAS RN 12032-36-9)[^key-02f47102e835dd6556c8a92c66380021] | \- |
-| Mercury (CAS RN 7439-97-6) ; its compounds[^key-6bd20912f922cbee60d51328724b6bc1] |  |
+| Magnesium sulfide (CAS RN 12032-36-9)[^c-02f47102e835dd6556c8a92c66380021] | \- |
+| Mercury (CAS RN 7439-97-6) ; its compounds[^c-6bd20912f922cbee60d51328724b6bc1] |  |
 | Oxalic acid (CAS RN 144-62-7) | 10% w/w |
 | Phenols (phenol; phenolic isomers of the following—cresols, xylenols, monoethylphenols); compounds of phenols with a metal | 60% w/w of phenols or, for compounds of phenols with a metal, the equivalent of 60% w/w of phenols |
 | Phosphorus, yellow (CAS RN 7223-14-0) |  |
-| Sodium sulfide (CAS RN 1313-82-2)[^key-0e937f370e00354b6980027e74a29e11] | \- |
+| Sodium sulfide (CAS RN 1313-82-2)[^c-0e937f370e00354b6980027e74a29e11] | \- |
 | Strychnine (CAS RN 57-24-9); its salts; its quaternary compounds |  |
 | Thallium (CAS RN 7440-28-0), salts of |  |
-| Zinc phosphide (CAS RN 1314-84-7)[^key-96d9ccccf1571db228c3da638aebc610] | \- |
+| Zinc phosphide (CAS RN 1314-84-7)[^c-96d9ccccf1571db228c3da638aebc610] | \- |
 | 2,4-Dinitrophenol (CAS RN 51-28-5) and compounds including sodium dinitrophenolate (CAS RN 1011-73-0) | \- |
 
 ### PART 3 — Reportable explosives precursors
 
-- [^key-c1082e68a41bd74391894a7437df51b2]...
-- [^key-f0cef7add882ae10551b218057c8b1eb]...
+- [^c-c1082e68a41bd74391894a7437df51b2]...
+- [^c-f0cef7add882ae10551b218057c8b1eb]...
 - Acetone (CAS RN 67-64-1)
 - Potassium nitrate (CAS RN 7757-79-1)
 - Sodium nitrate (CAS RN 7631-99-4)
 - Calcium nitrate (CAS RN 10124-37-5)
 - Calcium ammonium nitrate (CAS RN 15245-12-2)
-- [^key-c1082e68a41bd74391894a7437df51b2]...
-- Aluminium powders ([^key-63f377bff5d3321ce0e6d873ae56b907]CAS RN 7429-90-5) with a particle size less than 200μm, as a substance or in mixtures containing 70% or more, by weight, of aluminium and/or magnesium
+- [^c-c1082e68a41bd74391894a7437df51b2]...
+- Aluminium powders ([^c-63f377bff5d3321ce0e6d873ae56b907]CAS RN 7429-90-5) with a particle size less than 200μm, as a substance or in mixtures containing 70% or more, by weight, of aluminium and/or magnesium
 - Magnesium nitrate hexahydrate (CAS RN 13446-18-9)
 - Magnesium powders (CAS RN 7439-95-4) with a particle size less than 200μm, as a substance or in mixtures containing 70% or more, by weight, of aluminium and/or magnesium
-- Sulfur (CAS RN 7704-34-9)[^key-8e007056fcd7757d7ca294c3565d19b1]
+- Sulfur (CAS RN 7704-34-9)[^c-8e007056fcd7757d7ca294c3565d19b1]
 
 ### PART 4 — Reportable poisons
 
@@ -690,7 +690,7 @@ Section 1.
 </tbody>
 </table>
 
-[^key-8434fa78b8bfff7228bedf8f6b10ea8a][^key-8434fa78b8bfff7228bedf8f6b10ea8a][^key-8434fa78b8bfff7228bedf8f6b10ea8a][^key-8434fa78b8bfff7228bedf8f6b10ea8a][^key-4651ff9265ecbb9c3cd08c182f8e011d][^key-8434fa78b8bfff7228bedf8f6b10ea8a][^key-d3de293947dc9343f95618ebf2082689][^key-8434fa78b8bfff7228bedf8f6b10ea8a]
+[^c-8434fa78b8bfff7228bedf8f6b10ea8a][^c-8434fa78b8bfff7228bedf8f6b10ea8a][^c-8434fa78b8bfff7228bedf8f6b10ea8a][^c-8434fa78b8bfff7228bedf8f6b10ea8a][^c-4651ff9265ecbb9c3cd08c182f8e011d][^c-8434fa78b8bfff7228bedf8f6b10ea8a][^c-d3de293947dc9343f95618ebf2082689][^c-8434fa78b8bfff7228bedf8f6b10ea8a]
 
 ## SCHEDULE 2 — Enactments Repealed.
 
@@ -708,63 +708,63 @@ Section 12. [^c823787]
 
 [^c823701]: Modification: Act (except s. 1(2)): Powers transferred (W.) (1.7.1999) by virtue of [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-6762dd2178d65d69698194920bc03cc5]: Textual amendment: S. 1 omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/1/2/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+[^c-6762dd2178d65d69698194920bc03cc5]: Textual amendment: S. 1 omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/1/2/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
 
-[^key-ce5b50a81ad7bc190b1a168fb3b7a7d6]: Textual amendment: Ss. 2-2A substituted for s. 2 (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/3); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+[^c-ce5b50a81ad7bc190b1a168fb3b7a7d6]: Textual amendment: Ss. 2-2A substituted for s. 2 (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/3); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
 
-[^key-c071c1e290c8f05d275c1282a000c2da]: Textual amendment: Ss. 3-3C substituted for s. 3 (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/4); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+[^c-c071c1e290c8f05d275c1282a000c2da]: Textual amendment: Ss. 3-3C substituted for s. 3 (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/4); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
 
-[^key-d093cb43318e6626459f0b6de60aef7c]: Modification: S. 3A modified (26.5.2015) by [The Control of Poisons and Explosives Precursors Regulations 2015 (S.I. 2015/966)](https://www.legislation.gov.uk/uksi/2015/966), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/966/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2015/966/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2015/966/regulation/5))
+[^c-d093cb43318e6626459f0b6de60aef7c]: Modification: S. 3A modified (26.5.2015) by [The Control of Poisons and Explosives Precursors Regulations 2015 (S.I. 2015/966)](https://www.legislation.gov.uk/uksi/2015/966), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/966/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2015/966/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2015/966/regulation/5))
 
-[^key-9ff1af3050ec1a8140a2452ff21f3759]: Textual amendment: S. 4 omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+[^c-9ff1af3050ec1a8140a2452ff21f3759]: Textual amendment: S. 4 omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
 
 [^c823710]: Modification: S. 4 excluded by [S.I. 1982/218](https://www.legislation.gov.uk/uksi/1982/218), [rule 3](https://www.legislation.gov.uk/uksi/1982/218/rule/3)
 
-[^key-a0f22b5e7a66e1bc2667aaea049cb8b2]: Textual amendment: S. 4A - S. 4B inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/6); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+[^c-a0f22b5e7a66e1bc2667aaea049cb8b2]: Textual amendment: S. 4A - S. 4B inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/6); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
 
-[^key-e86809132063d202d3d5f7a89d21ebd5]: Modification: Ss. 4A(6)-(9) applied (20.4.2015) by [The Control of Poisons and Explosives Precursors Regulations 2015 (S.I. 2015/966)](https://www.legislation.gov.uk/uksi/2015/966), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/966/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2015/966/regulation/4/5) (with [reg. 5](https://www.legislation.gov.uk/uksi/2015/966/regulation/5))
+[^c-e86809132063d202d3d5f7a89d21ebd5]: Modification: Ss. 4A(6)-(9) applied (20.4.2015) by [The Control of Poisons and Explosives Precursors Regulations 2015 (S.I. 2015/966)](https://www.legislation.gov.uk/uksi/2015/966), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/966/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2015/966/regulation/4/5) (with [reg. 5](https://www.legislation.gov.uk/uksi/2015/966/regulation/5))
 
 [^M_F_db73b3a9-546c-4964-8219-92b5a02fe3f5]: Textual amendment: S. 5 omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposesc) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
 
 [^c823711]: Modification: Ss. 3(1)(b)(ii), 5, 6, 11: functions of local authority not to be responsibility of an executive of the authority (E.) (16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1)
 
-[^key-144146a28551974a9d55c4ba5a7dff29]: Textual amendment: S. 6 omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+[^c-144146a28551974a9d55c4ba5a7dff29]: Textual amendment: S. 6 omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
 
 [^c823715]: Modification: Ss. 3(1)(b)(ii), 5, 6, 11: functions of local authority not to be responsibility of an executive of the authority (E.) (16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1)
 
-[^key-4f54856f084743fa5a5423078e8c7dd1]: Textual amendment: S. 7 substituted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/8); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+[^c-4f54856f084743fa5a5423078e8c7dd1]: Textual amendment: S. 7 substituted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/8); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
 
-[^key-c9e1864f64e248680987261ce631ab60]: Textual amendment: S. 7A inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/9); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+[^c-c9e1864f64e248680987261ce631ab60]: Textual amendment: S. 7A inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/9); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
 
-[^key-b870302702401a4ffb31e10160213966]: Textual amendment: Ss. 8-8A substituted for s. 8 substituted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/10); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+[^c-b870302702401a4ffb31e10160213966]: Textual amendment: Ss. 8-8A substituted for s. 8 substituted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/10); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
 
-[^key-99b46b09296712e8c4feee5a02d62899]: Textual amendment: S. 9(1)-(3) omitted (27.9.2010) by virtue of [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/2/2/a); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-99b46b09296712e8c4feee5a02d62899]: Textual amendment: S. 9(1)-(3) omitted (27.9.2010) by virtue of [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/2/2/a); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
-[^key-10c4830451b5646a79264282e32fd34f]: Textual amendment: S. 9(4)-(4B) substituted for s. 9(4) (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 11(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/11/2); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+[^c-10c4830451b5646a79264282e32fd34f]: Textual amendment: S. 9(4)-(4B) substituted for s. 9(4) (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 11(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/11/2); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
 
-[^key-c6d5ba0ee950944d71ee9bf839ecd553]: Textual amendment: S. 9(5)-(7) omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 11(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/11/3); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+[^c-c6d5ba0ee950944d71ee9bf839ecd553]: Textual amendment: S. 9(5)-(7) omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 11(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/11/3); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
 
 [^c823727]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 3](https://www.legislation.gov.uk/ukpga/1995/40/section/3), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/ukpga/1995/40/schedule/1/paragraph/3/1), [Sch. 2 Pt.II](https://www.legislation.gov.uk/ukpga/1995/40/schedule/2/part/II)
 
-[^key-4d5bf5ac84f2fbc1d2a8f65620a0f35c]: Textual amendment: S. 9A inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/12); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+[^c-4d5bf5ac84f2fbc1d2a8f65620a0f35c]: Textual amendment: S. 9A inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/12); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
 
-[^key-6cbbd3a98ad72a8e8396e6fd9df6f09d]: Textual amendment: S. 9B inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/13); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+[^c-6cbbd3a98ad72a8e8396e6fd9df6f09d]: Textual amendment: S. 9B inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/13); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
 
-[^key-781ea4f61eb1e483bc8e26bd50b18966]: Textual amendment: S. 10 substituted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/14); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+[^c-781ea4f61eb1e483bc8e26bd50b18966]: Textual amendment: S. 10 substituted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/14); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
 
 [^c823757]: Modification: Ss. 3(1)(b)(ii), 5, 6, 11: functions of local authority not to be responsibility of an executive of the authority (E.) (16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1)
 
-[^key-b082e383eaf67ea5c891cb7a86ae8658]: Textual amendment: S. 11(1) omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes,26.5.2015 in force in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 15(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/15/2); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2010/1621/article/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2010/1621/article/5)
+[^c-b082e383eaf67ea5c891cb7a86ae8658]: Textual amendment: S. 11(1) omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes,26.5.2015 in force in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 15(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/15/2); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2010/1621/article/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2010/1621/article/5)
 
-[^key-1e21becc33f72881eb8b5c659a8ad188]: Textual amendment: Words in s. 11(2) omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes,26.5.2015 in force in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 15(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/15/3); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2010/1621/article/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2010/1621/article/5)
+[^c-1e21becc33f72881eb8b5c659a8ad188]: Textual amendment: Words in s. 11(2) omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes,26.5.2015 in force in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 15(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/15/3); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2010/1621/article/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2010/1621/article/5)
 
 [^c823759]: Textual amendment: Words substituted by [Dentists Act 1984 (c. 24, SIF 83:1)](https://www.legislation.gov.uk/ukpga/1984/24), [s. 54(1)](https://www.legislation.gov.uk/ukpga/1984/24/section/54/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/1984/24/schedule/5/paragraph/4)
 
-[^key-a763d6e3b87436f8bdbd0c3c6d090949]: Textual amendment: Words in s. 11(2) omitted (3.12.2007) by virtue of [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [153](https://www.legislation.gov.uk/uksi/2007/3101/regulation/153)
+[^c-a763d6e3b87436f8bdbd0c3c6d090949]: Textual amendment: Words in s. 11(2) omitted (3.12.2007) by virtue of [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [153](https://www.legislation.gov.uk/uksi/2007/3101/regulation/153)
 
 [^c823761]: Textual amendment: Definition substituted by [Medical Act 1983 (c. 54, SIF 83:1)](https://www.legislation.gov.uk/ukpga/1983/54), [s. 56(1)](https://www.legislation.gov.uk/ukpga/1983/54/section/56/1), [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/1983/54/schedule/5/paragraph/12)
 
-[^key-bc6633c187329e442df4c8688a1c3155]: Textual amendment: Words in s. 11(2) inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 15(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/15/4); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2010/1621/article/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2010/1621/article/5)
+[^c-bc6633c187329e442df4c8688a1c3155]: Textual amendment: Words in s. 11(2) inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 15(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/15/4); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2010/1621/article/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2010/1621/article/5)
 
 [^c823762]: Textual amendment: S. 11(2): words in para. (a) of the definition of “local authority” repealed (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)(8)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6/8), [Sch. 16 para. 39](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/39) (with [ss.54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
@@ -780,17 +780,17 @@ Section 12. [^c823787]
 
 [^c823768]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
 
-[^key-52279bb00b0d1efbea8d23e3c9cab266]: Textual amendment: Words in s. 11(2) substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/2/3); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-52279bb00b0d1efbea8d23e3c9cab266]: Textual amendment: Words in s. 11(2) substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/2/3); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^c823771]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
 
-[^key-eb09e0df69cb40a2c42651442738134c]: Textual amendment: Words in s. 11(2) substituted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 15(5)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/15/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2010/1621/article/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2010/1621/article/5)
+[^c-eb09e0df69cb40a2c42651442738134c]: Textual amendment: Words in s. 11(2) substituted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 15(5)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/15/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2010/1621/article/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2010/1621/article/5)
 
 [^c823773]: Marginal citation: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36).
 
 [^c823774]: Marginal citation: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36).
 
-[^key-01bd68222e672bb0f3bc260c84e01c8b]: Textual amendment: S. 11(3)(4) inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 15(6)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/15/6); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2010/1621/article/5)
+[^c-01bd68222e672bb0f3bc260c84e01c8b]: Textual amendment: S. 11(3)(4) inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 15(6)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/15/6); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2010/1621/article/5)
 
 [^c823775]: Modification: The text of s. 12(1)(2), Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -810,42 +810,42 @@ Section 12. [^c823787]
 
 [^M_F_0697b2dc-32d7-45df-82db-9a0b3f5584f2]: Textual amendment: Sch. 1 omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/1/2/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
 
-[^key-02a5c7e66e7b5c5f46170fcadf73ae81]: Textual amendment: Sch. 1A inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/16); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
+[^c-02a5c7e66e7b5c5f46170fcadf73ae81]: Textual amendment: Sch. 1A inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/16); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
 
-[^key-b42de6e58fcde12e986c713f24d2cdc6]: Textual amendment: Words in [Sch. 1A Pt. 1](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/1) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/2/a) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+[^c-b42de6e58fcde12e986c713f24d2cdc6]: Textual amendment: Words in [Sch. 1A Pt. 1](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/1) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/2/a) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
 
-[^key-daa586f57b4223a095cb49170e91a01c]: Textual amendment: Words in [Sch. 1A Pt. 1](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/1) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/2/b) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+[^c-daa586f57b4223a095cb49170e91a01c]: Textual amendment: Words in [Sch. 1A Pt. 1](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/1) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/2/b) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
 
-[^key-d250ec03ac0fcd3dd70d98bd405b86e9]: Textual amendment: Words in Sch. 1A Pt. 1 inserted (1.5.2018 for specified purposes, 1.7.2018 for specified purposes, 1.11.2018 in so far as not already in force) by [The Poisons Act 1972 (Explosives Precursors) (Amendment) Regulations 2018 (S.I. 2018/451)](https://www.legislation.gov.uk/uksi/2018/451), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2018/451/regulation/2/1/a)
+[^c-d250ec03ac0fcd3dd70d98bd405b86e9]: Textual amendment: Words in Sch. 1A Pt. 1 inserted (1.5.2018 for specified purposes, 1.7.2018 for specified purposes, 1.11.2018 in so far as not already in force) by [The Poisons Act 1972 (Explosives Precursors) (Amendment) Regulations 2018 (S.I. 2018/451)](https://www.legislation.gov.uk/uksi/2018/451), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2018/451/regulation/2/1/a)
 
-[^key-f0a7c16ab1e8c531d5d6053d8b1897e1]: Textual amendment: Words in Sch. 1A Pt. 1 inserted (1.5.2018 for specified purposes, 1.7.2018 for specified purposes, 1.11.2018 in so far as not already in force) by [The Poisons Act 1972 (Explosives Precursors) (Amendment) Regulations 2018 (S.I. 2018/451)](https://www.legislation.gov.uk/uksi/2018/451), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/451/regulation/2/1/b)
+[^c-f0a7c16ab1e8c531d5d6053d8b1897e1]: Textual amendment: Words in Sch. 1A Pt. 1 inserted (1.5.2018 for specified purposes, 1.7.2018 for specified purposes, 1.11.2018 in so far as not already in force) by [The Poisons Act 1972 (Explosives Precursors) (Amendment) Regulations 2018 (S.I. 2018/451)](https://www.legislation.gov.uk/uksi/2018/451), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/451/regulation/2/1/b)
 
-[^key-197db45642bfed13e4bba3d0a917ef7e]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(a)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/a) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+[^c-197db45642bfed13e4bba3d0a917ef7e]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(a)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/a) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
 
-[^key-a4067b42d93308388c9c8791b6fc91a3]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) omitted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(b)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/b) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+[^c-a4067b42d93308388c9c8791b6fc91a3]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) omitted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(b)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/b) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
 
-[^key-114293e9053f8008ca8e0dece2cc9045]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(c)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/c) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+[^c-114293e9053f8008ca8e0dece2cc9045]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(c)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/c) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
 
-[^key-02f47102e835dd6556c8a92c66380021]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(d)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/d) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+[^c-02f47102e835dd6556c8a92c66380021]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(d)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/d) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
 
-[^key-6bd20912f922cbee60d51328724b6bc1]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) substituted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(e)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/e) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+[^c-6bd20912f922cbee60d51328724b6bc1]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) substituted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(e)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/e) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
 
-[^key-0e937f370e00354b6980027e74a29e11]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(f)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/f) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+[^c-0e937f370e00354b6980027e74a29e11]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(f)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/f) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
 
-[^key-96d9ccccf1571db228c3da638aebc610]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(g)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/g) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+[^c-96d9ccccf1571db228c3da638aebc610]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(g)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/g) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
 
-[^key-c1082e68a41bd74391894a7437df51b2]: Textual amendment: Words in [Sch. 1A Pt. 3](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/3) omitted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(4)(a)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/4/a) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+[^c-c1082e68a41bd74391894a7437df51b2]: Textual amendment: Words in [Sch. 1A Pt. 3](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/3) omitted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(4)(a)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/4/a) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
 
-[^key-f0cef7add882ae10551b218057c8b1eb]: Textual amendment: Words in Sch. 1A Pt. 3 omitted (1.5.2018 for specified purposes, 1.7.2018 for specified purposes, 1.11.2018 in so far as not already in force) by virtue of [The Poisons Act 1972 (Explosives Precursors) (Amendment) Regulations 2018 (S.I. 2018/451)](https://www.legislation.gov.uk/uksi/2018/451), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/451/regulation/2/2/a)
+[^c-f0cef7add882ae10551b218057c8b1eb]: Textual amendment: Words in Sch. 1A Pt. 3 omitted (1.5.2018 for specified purposes, 1.7.2018 for specified purposes, 1.11.2018 in so far as not already in force) by virtue of [The Poisons Act 1972 (Explosives Precursors) (Amendment) Regulations 2018 (S.I. 2018/451)](https://www.legislation.gov.uk/uksi/2018/451), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/451/regulation/2/2/a)
 
-[^key-63f377bff5d3321ce0e6d873ae56b907]: Textual amendment: Words in Sch. 1A Pt. 3 inserted (1.5.2018) by [The Poisons Act 1972 (Explosives Precursors) (Amendment) Regulations 2018 (S.I. 2018/451)](https://www.legislation.gov.uk/uksi/2018/451), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/451/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/451/regulation/2/2/b)
+[^c-63f377bff5d3321ce0e6d873ae56b907]: Textual amendment: Words in Sch. 1A Pt. 3 inserted (1.5.2018) by [The Poisons Act 1972 (Explosives Precursors) (Amendment) Regulations 2018 (S.I. 2018/451)](https://www.legislation.gov.uk/uksi/2018/451), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/451/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/451/regulation/2/2/b)
 
-[^key-8e007056fcd7757d7ca294c3565d19b1]: Textual amendment: Words in [Sch. 1A Pt. 3](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/3) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(4)(b)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/4/b) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+[^c-8e007056fcd7757d7ca294c3565d19b1]: Textual amendment: Words in [Sch. 1A Pt. 3](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/3) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(4)(b)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/4/b) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
 
-[^key-8434fa78b8bfff7228bedf8f6b10ea8a]: Textual amendment: Words in [Sch. 1A Pt. 4](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/4) omitted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(5)(a)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/5/a) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+[^c-8434fa78b8bfff7228bedf8f6b10ea8a]: Textual amendment: Words in [Sch. 1A Pt. 4](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/4) omitted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(5)(a)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/5/a) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
 
-[^key-4651ff9265ecbb9c3cd08c182f8e011d]: Textual amendment: Words in [Sch. 1A Pt. 4](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/4) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(5)(b)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/5/b) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+[^c-4651ff9265ecbb9c3cd08c182f8e011d]: Textual amendment: Words in [Sch. 1A Pt. 4](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/4) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(5)(b)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/5/b) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
 
-[^key-d3de293947dc9343f95618ebf2082689]: Textual amendment: Words in [Sch. 1A Pt. 4](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/4) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(5)(c)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/5/c) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+[^c-d3de293947dc9343f95618ebf2082689]: Textual amendment: Words in [Sch. 1A Pt. 4](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/4) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(5)(c)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/5/c) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
 
 [^c823787]: Modification: The text of s. 12(1)(2), Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

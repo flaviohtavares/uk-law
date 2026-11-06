@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Period over which payments other than periodical payments are to be taken into account[^key-8ed4eff88c0ded5228c902eaf0679b45]
+## 57. Period over which payments other than periodical payments are to be taken into account[^c-8ed4eff88c0ded5228c902eaf0679b45]
 
 *Extent: E+W+S*
 
@@ -26,8 +26,8 @@ summary: ''
 
 (3) The amount is the aggregate of £2 and—
 
-- (a) the amount of income support that would be payable had no payment been made, [^key-abe690e663ec42d2afafdd1d8ac7088f]...
-- (b)[^key-abe690e663ec42d2afafdd1d8ac7088f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the amount of income support that would be payable had no payment been made, [^c-abe690e663ec42d2afafdd1d8ac7088f]...
+- (b)[^c-abe690e663ec42d2afafdd1d8ac7088f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) This paragraph applies in a case where a liable relative makes a periodical payment and a non-periodical payment concurrently and the weekly amount of the periodical payment (as calculated in accordance with regulation 58) is less than B.
 
@@ -53,7 +53,7 @@ the amount of the non-periodical payment;
 
 B
 
-the aggregate of £2 and the amount of income support that would be payable had the periodical payment not been made [^key-f2246a432d1e79400d9cb4c9cec6defb]...;
+the aggregate of £2 and the amount of income support that would be payable had the periodical payment not been made [^c-f2246a432d1e79400d9cb4c9cec6defb]...;
 
 C
 
@@ -69,8 +69,8 @@ the weekly amount of any subsequent periodical payment.
 
 ## Annotations
 
-[^key-8ed4eff88c0ded5228c902eaf0679b45]: Textual amendment: [Reg. 57](https://www.legislation.gov.uk/uksi/1987/1967/regulation/57) substituted (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Social Security (Child Maintenance Amendments) Regulations 2008 (S.I. 2008/2111)](https://www.legislation.gov.uk/uksi/2008/2111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/2/8)
+[^c-8ed4eff88c0ded5228c902eaf0679b45]: Textual amendment: [Reg. 57](https://www.legislation.gov.uk/uksi/1987/1967/regulation/57) substituted (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Social Security (Child Maintenance Amendments) Regulations 2008 (S.I. 2008/2111)](https://www.legislation.gov.uk/uksi/2008/2111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/2/8)
 
-[^key-abe690e663ec42d2afafdd1d8ac7088f]: Textual amendment: [Reg. 57(3)(b)](https://www.legislation.gov.uk/uksi/1987/1967/regulation/57/3/b) and word omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(a)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/a), [2(12)(a)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/2/12/a)
+[^c-abe690e663ec42d2afafdd1d8ac7088f]: Textual amendment: [Reg. 57(3)(b)](https://www.legislation.gov.uk/uksi/1987/1967/regulation/57/3/b) and word omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(a)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/a), [2(12)(a)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/2/12/a)
 
-[^key-f2246a432d1e79400d9cb4c9cec6defb]: Textual amendment: Words in [reg. 57(10)](https://www.legislation.gov.uk/uksi/1987/1967/regulation/57/10) omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(a)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/a), [2(12)(b)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/2/12/b)
+[^c-f2246a432d1e79400d9cb4c9cec6defb]: Textual amendment: Words in [reg. 57(10)](https://www.legislation.gov.uk/uksi/1987/1967/regulation/57/10) omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(a)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/a), [2(12)(b)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/2/12/b)

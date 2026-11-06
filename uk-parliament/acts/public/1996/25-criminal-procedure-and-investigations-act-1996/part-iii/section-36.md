@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Appeals to Supreme Court.[^key-8f0c4db8ff21d70516780a2184f399b4]
+## 36. Appeals to Supreme Court.[^c-8f0c4db8ff21d70516780a2184f399b4]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ after “1987” there shall be inserted “ or section 35 of the Criminal Proce
 
 ## Annotations
 
-[^key-8f0c4db8ff21d70516780a2184f399b4]: Textual amendment: Words in s. 36 sidenote substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 61(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/61/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-8f0c4db8ff21d70516780a2184f399b4]: Textual amendment: Words in s. 36 sidenote substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 61(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/61/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c11039381]: Marginal citation: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19).
 

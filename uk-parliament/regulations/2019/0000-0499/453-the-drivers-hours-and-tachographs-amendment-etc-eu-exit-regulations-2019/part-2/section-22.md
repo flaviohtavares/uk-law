@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Passenger and Goods Vehicles (Recording Equipment) Regulations 1979[^key-70ba9e6ab1ec9c716cdf883cbf0c42fd]
+## 22. Passenger and Goods Vehicles (Recording Equipment) Regulations 1979[^c-70ba9e6ab1ec9c716cdf883cbf0c42fd]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ In regulation 4(1)(b) of the Passenger and Goods Vehicles (Recording Equipment) 
 
 ## Annotations
 
-[^key-70ba9e6ab1ec9c716cdf883cbf0c42fd]: Commencement: Reg. 22 in force at 26.3.2019, see reg. 1(2)
+[^c-70ba9e6ab1ec9c716cdf883cbf0c42fd]: Commencement: Reg. 22 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620781]: Marginal citation: [S.I. 1979/1746](https://www.legislation.gov.uk/uksi/1979/1746), amended by [S.I. 1984/144](https://www.legislation.gov.uk/uksi/1984/144), 2016/248; there are other amendments which are not relevant to these Regulations.

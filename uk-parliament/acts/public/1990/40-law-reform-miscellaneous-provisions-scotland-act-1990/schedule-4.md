@@ -24,11 +24,11 @@ Section 35.
 
 ### Appointments of sheriffs principal, sheriffs and solicitors as judges of the Court of Session
 
-**1.**[^key-5aca1b8adb472931f34338e95dc79387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5aca1b8adb472931f34338e95dc79387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5aca1b8adb472931f34338e95dc79387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5aca1b8adb472931f34338e95dc79387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5aca1b8adb472931f34338e95dc79387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5aca1b8adb472931f34338e95dc79387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Further provision as to Inner House and exchequer causes
 
@@ -47,19 +47,19 @@ Section 35.
 
 ### Temporary judges
 
-**5.**[^key-14d095241033e93d0e911ccc955804b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-14d095241033e93d0e911ccc955804b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-14d095241033e93d0e911ccc955804b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-14d095241033e93d0e911ccc955804b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-14d095241033e93d0e911ccc955804b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-14d095241033e93d0e911ccc955804b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-14d095241033e93d0e911ccc955804b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-14d095241033e93d0e911ccc955804b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-14d095241033e93d0e911ccc955804b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-14d095241033e93d0e911ccc955804b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-14d095241033e93d0e911ccc955804b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-14d095241033e93d0e911ccc955804b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-14d095241033e93d0e911ccc955804b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-14d095241033e93d0e911ccc955804b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Amendments to the Small Landholders (Scotland) Act 1911 (c.49)
 
@@ -67,12 +67,12 @@ Section 35.
 
 ## Annotations
 
-[^key-5aca1b8adb472931f34338e95dc79387]: Textual amendment: [Sch. 4 paras. 1-3](https://www.legislation.gov.uk/ukpga/1990/40/schedule/4/paragraph/1) repealed (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 37(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/37/3); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-5aca1b8adb472931f34338e95dc79387]: Textual amendment: [Sch. 4 paras. 1-3](https://www.legislation.gov.uk/ukpga/1990/40/schedule/4/paragraph/1) repealed (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 37(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/37/3); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
 [^c13715161]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/1990/40/schedule/4/paragraph/4) wholly in force at 1.4.1991 see [s. 75(2)](https://www.legislation.gov.uk/ukpga/1990/40/section/75/2) and [S.I. 1991/822](https://www.legislation.gov.uk/uksi/1991/822), [art. 3](https://www.legislation.gov.uk/uksi/1991/822/article/3), [Sch](https://www.legislation.gov.uk/uksi/1991/822/schedule)edule
 
 [^c13715171]: Marginal citation: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36).
 
-[^key-14d095241033e93d0e911ccc955804b0]: Textual amendment: Sch. 4 paras. 5-11 repealed (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 37(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/37/3); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-14d095241033e93d0e911ccc955804b0]: Textual amendment: Sch. 4 paras. 5-11 repealed (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 37(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/37/3); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
 [^c13715381]: Textual amendment: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/1990/40/schedule/4/paragraph/12) repealed (5.1.1994) by [1993 c. 45](https://www.legislation.gov.uk/ukpga/1993/45), [s. 2(2)(3)](https://www.legislation.gov.uk/ukpga/1993/45/section/2/2/3), [Sch.2](https://www.legislation.gov.uk/ukpga/1993/45/schedule/2).

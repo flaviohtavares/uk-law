@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Restriction on applications for variation or removal of conditions[^key-cb208ab360809b6d92d3ca92d5bbdb35]
+## 86. Restriction on applications for variation or removal of conditions[^c-cb208ab360809b6d92d3ca92d5bbdb35]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb208ab360809b6d92d3ca92d5bbdb35]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2014/23/section/86) in force at 1.10.2014 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2473/article/3/a)
+[^c-cb208ab360809b6d92d3ca92d5bbdb35]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2014/23/section/86) in force at 1.10.2014 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2473/article/3/a)

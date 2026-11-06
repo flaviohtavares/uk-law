@@ -46,7 +46,7 @@ summary: ''
 (7) If, taking into account any recommendation made by the fostering panel, the fostering service provider are no longer satisfied that the foster parent or the foster parent's household continue to be suitable, or that the terms of the approval are appropriate, they must (subject to paragraph (8))—
 
 - (a) give written notice to the foster parent that they propose to terminate, or (as the case may be) revise the terms of, the foster parent's approval (a “qualifying determination”), together with their reasons and a copy of any recommendation made by the fostering panel, and
-- (aa)[^key-b1323d0e8a64d93f9b8aa45ddf4f086d] in any case where the fostering service provider propose only to revise the terms of the foster parent’s approval—
+- (aa)[^c-b1323d0e8a64d93f9b8aa45ddf4f086d] in any case where the fostering service provider propose only to revise the terms of the foster parent’s approval—
   - (i) provide a statement setting out whether the fostering service provider considers that the foster parent or members of the foster parent’s household (including any children placed there) may have additional support needs as a result of the proposed revision and, if so, how those needs will be met, and
   - (ii) request the foster parent’s agreement in writing to the proposed revision of terms,
 - (b) advise the foster parent that, within 28 days of the date of the qualifying determination, the foster parent may—
@@ -55,12 +55,12 @@ summary: ''
 
 (8) Paragraph (7)(b)(ii) does not apply in a case where, in accordance with regulation 26(8), the fostering service provider are no longer satisfied that the foster parent or the foster parent's household continue to be suitable, or that the terms of the approval are appropriate.
 
-(9) Subject to paragraph (9A)[^key-81c424ac37bd33242133b584f2cca10b] if within the period referred to in paragraph (7)(b)—
+(9) Subject to paragraph (9A)[^c-81c424ac37bd33242133b584f2cca10b] if within the period referred to in paragraph (7)(b)—
 
 - (a) the fostering service provider do not receive any representations, and
 - (b) the foster parent does not apply to the Secretary of State for a review by an independent review panel of the qualifying determination, the fostering service provider may proceed to make their decision.
 
-(9A)[^key-1e2d23d3aa200ef41edc96c35f5f0ad0] In a case falling within paragraph (7)(aa), where the fostering service provider receive the foster parent’s agreement in writing to the proposed revision of terms, the fostering service provider may proceed to make their decision, taking into account the statement referred to in paragraph (7)(aa)(i), notwithstanding that the period referred to in paragraph (7)(b) has not expired.
+(9A)[^c-1e2d23d3aa200ef41edc96c35f5f0ad0] In a case falling within paragraph (7)(aa), where the fostering service provider receive the foster parent’s agreement in writing to the proposed revision of terms, the fostering service provider may proceed to make their decision, taking into account the statement referred to in paragraph (7)(aa)(i), notwithstanding that the period referred to in paragraph (7)(b) has not expired.
 
 (10) If, within the period referred to in paragraph (7)(b), the fostering service provider receive any written representations, they must—
 
@@ -69,7 +69,7 @@ summary: ''
 
 (11) If, within the period referred to in paragraph (7)(b), the foster parent applies to the Secretary of State for a review by an independent review panel of the qualifying determination, the fostering service provider must make their decision taking into account any recommendation made by the fostering panel and the recommendation of the independent review panel.
 
-(12) As soon as practicable after making the decision referred to in paragraph (9), (9A)[^key-4413be888a4e388892b66dc0a134de8c], (10)(b) or (11), the fostering service provider must give written notice to the foster parent stating (as the case may be)—
+(12) As soon as practicable after making the decision referred to in paragraph (9), (9A)[^c-4413be888a4e388892b66dc0a134de8c], (10)(b) or (11), the fostering service provider must give written notice to the foster parent stating (as the case may be)—
 
 - (a) that the foster parent and the foster parent's household continue to be suitable, and that the terms of the approval continue to be appropriate,
 - (b) that the foster parent's approval is terminated from a specified date, and the reasons for the termination, or
@@ -83,10 +83,10 @@ summary: ''
 
 ## Annotations
 
-[^key-b1323d0e8a64d93f9b8aa45ddf4f086d]: Textual amendment: Reg. 28(7)(aa) inserted (1.7.2013) by [The Care Planning, Placement and Case Review and Fostering Services (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/984)](https://www.legislation.gov.uk/uksi/2013/984), [regs. 1](https://www.legislation.gov.uk/uksi/2013/984/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2013/984/regulation/8/a)
+[^c-b1323d0e8a64d93f9b8aa45ddf4f086d]: Textual amendment: Reg. 28(7)(aa) inserted (1.7.2013) by [The Care Planning, Placement and Case Review and Fostering Services (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/984)](https://www.legislation.gov.uk/uksi/2013/984), [regs. 1](https://www.legislation.gov.uk/uksi/2013/984/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2013/984/regulation/8/a)
 
-[^key-81c424ac37bd33242133b584f2cca10b]: Textual amendment: Words in reg. 28(9) inserted (1.7.2013) by [The Care Planning, Placement and Case Review and Fostering Services (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/984)](https://www.legislation.gov.uk/uksi/2013/984), [regs. 1](https://www.legislation.gov.uk/uksi/2013/984/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2013/984/regulation/8/b)
+[^c-81c424ac37bd33242133b584f2cca10b]: Textual amendment: Words in reg. 28(9) inserted (1.7.2013) by [The Care Planning, Placement and Case Review and Fostering Services (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/984)](https://www.legislation.gov.uk/uksi/2013/984), [regs. 1](https://www.legislation.gov.uk/uksi/2013/984/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2013/984/regulation/8/b)
 
-[^key-1e2d23d3aa200ef41edc96c35f5f0ad0]: Textual amendment: Reg. 28(9A) inserted (1.7.2013) by [The Care Planning, Placement and Case Review and Fostering Services (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/984)](https://www.legislation.gov.uk/uksi/2013/984), [regs. 1](https://www.legislation.gov.uk/uksi/2013/984/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2013/984/regulation/8/c)
+[^c-1e2d23d3aa200ef41edc96c35f5f0ad0]: Textual amendment: Reg. 28(9A) inserted (1.7.2013) by [The Care Planning, Placement and Case Review and Fostering Services (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/984)](https://www.legislation.gov.uk/uksi/2013/984), [regs. 1](https://www.legislation.gov.uk/uksi/2013/984/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2013/984/regulation/8/c)
 
-[^key-4413be888a4e388892b66dc0a134de8c]: Textual amendment: Word in reg. 28(12) inserted (1.7.2013) by [The Care Planning, Placement and Case Review and Fostering Services (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/984)](https://www.legislation.gov.uk/uksi/2013/984), [regs. 1](https://www.legislation.gov.uk/uksi/2013/984/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2013/984/regulation/8/d)
+[^c-4413be888a4e388892b66dc0a134de8c]: Textual amendment: Word in reg. 28(12) inserted (1.7.2013) by [The Care Planning, Placement and Case Review and Fostering Services (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/984)](https://www.legislation.gov.uk/uksi/2013/984), [regs. 1](https://www.legislation.gov.uk/uksi/2013/984/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2013/984/regulation/8/d)

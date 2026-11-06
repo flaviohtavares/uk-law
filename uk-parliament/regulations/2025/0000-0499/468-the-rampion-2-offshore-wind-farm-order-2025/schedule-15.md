@@ -22,7 +22,7 @@ summary: ''
 
 Article 46
 
-### 1. Primary objective[^key-046277d1422b0fbc21791868176cc67e]
+### 1. Primary objective[^c-046277d1422b0fbc21791868176cc67e]
 
 (1) The primary objective of these arbitration rules is to achieve a fair, impartial, final and binding award on the substantive difference between the parties (save as to costs) within four months from the date the arbitrator is appointed pursuant to article 46 (arbitration) of the Order.
 
@@ -30,7 +30,7 @@ Article 46
 
 (3) The arbitration will be deemed to have commenced when a party (“**the claimant**”) serves a written notice of arbitration on the other party (“**the respondent**”).
 
-### 2. Time periods[^key-48f80cfe144beb03f98bbbe0dadf58c4]
+### 2. Time periods[^c-48f80cfe144beb03f98bbbe0dadf58c4]
 
 (1) All time periods in these arbitration rules will be measured in business days and this will exclude weekends, bank and public holidays.
 
@@ -39,7 +39,7 @@ Article 46
 - (a) the date the arbitrator notifies the parties in writing of his/her acceptance of an appointment by agreement of the parties; or
 - (b) the date the arbitrator is appointed by the Secretary of State.
 
-### 3. Timetable[^key-c1ae8846d8ec7db6b3d9fc9c399d88fd]
+### 3. Timetable[^c-c1ae8846d8ec7db6b3d9fc9c399d88fd]
 
 (1) The timetable for the arbitration will be that set out in sub-paragraphs (2) to (4)unless amended in accordance with paragraph 5(3).
 
@@ -62,7 +62,7 @@ Article 46
 - (d) any objections to the statements of evidence, expert reports or other documents submitted by the respondent; and
 - (e) its written submissions in response to the legal and factual issues involved.
 
-### 4. Procedure[^key-6f2bcbd802f9fe2d997967d8008c4918]
+### 4. Procedure[^c-6f2bcbd802f9fe2d997967d8008c4918]
 
 (1) The arbitrator is to make an award on the substantive difference based solely on the written material submitted by the parties unless the arbitrator decides that a hearing is necessary to explain or resolve any matters.
 
@@ -88,7 +88,7 @@ Article 46
 
 (10) The arbitrator’s award must include reasons. The parties will accept that the extent to which reasons are given is to be proportionate to the issues in dispute and the time available to the arbitrator to deliver the award.
 
-### 5. Arbitrator’s powers[^key-f2809ef3010f71679d743c23456bcb9f]
+### 5. Arbitrator’s powers[^c-f2809ef3010f71679d743c23456bcb9f]
 
 (1) The arbitrator has all the powers of the Arbitration Act 1996[^f00063], including the non- mandatory sections, save where modified by these Rules.
 
@@ -101,7 +101,7 @@ Article 46
 
 (4) On the date the award is made, the arbitrator will notify the parties that the award is completed, signed and dated, and that it will be issued to the parties on receipt of cleared funds for the arbitrator’s fees and expenses.
 
-### 6. Costs[^key-1998de0b4b26338d6c91f564cee23336]
+### 6. Costs[^c-1998de0b4b26338d6c91f564cee23336]
 
 (1) The costs of the arbitration are to include the fees and expenses of the arbitrator, the reasonable fees and expenses of any experts and the reasonable legal and other costs incurred by the parties for the arbitration.
 
@@ -109,7 +109,7 @@ Article 46
 
 (3) The arbitrator may depart from the general principle in sub-paragraph (2) and make such other costs award as it considers reasonable where a party has behaved unreasonably as defined within the National Planning Practice Guidance or such other guidance as may replace it.
 
-### 7. Confidentiality[^key-8cbfb19c820b58f024de5ffacf3f1646]
+### 7. Confidentiality[^c-8cbfb19c820b58f024de5ffacf3f1646]
 
 (1) Subject to sub-paragraphs (2) and (3), any arbitration hearing and documentation is to be open to and accessible by the public.
 
@@ -119,18 +119,18 @@ Article 46
 
 ## Annotations
 
-[^key-046277d1422b0fbc21791868176cc67e]: Commencement: Sch. 15 para. 1 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-046277d1422b0fbc21791868176cc67e]: Commencement: Sch. 15 para. 1 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-48f80cfe144beb03f98bbbe0dadf58c4]: Commencement: Sch. 15 para. 2 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-48f80cfe144beb03f98bbbe0dadf58c4]: Commencement: Sch. 15 para. 2 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-c1ae8846d8ec7db6b3d9fc9c399d88fd]: Commencement: Sch. 15 para. 3 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-c1ae8846d8ec7db6b3d9fc9c399d88fd]: Commencement: Sch. 15 para. 3 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-6f2bcbd802f9fe2d997967d8008c4918]: Commencement: Sch. 15 para. 4 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-6f2bcbd802f9fe2d997967d8008c4918]: Commencement: Sch. 15 para. 4 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-f2809ef3010f71679d743c23456bcb9f]: Commencement: Sch. 15 para. 5 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-f2809ef3010f71679d743c23456bcb9f]: Commencement: Sch. 15 para. 5 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
 [^f00063]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23).
 
-[^key-1998de0b4b26338d6c91f564cee23336]: Commencement: Sch. 15 para. 6 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-1998de0b4b26338d6c91f564cee23336]: Commencement: Sch. 15 para. 6 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-8cbfb19c820b58f024de5ffacf3f1646]: Commencement: Sch. 15 para. 7 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-8cbfb19c820b58f024de5ffacf3f1646]: Commencement: Sch. 15 para. 7 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

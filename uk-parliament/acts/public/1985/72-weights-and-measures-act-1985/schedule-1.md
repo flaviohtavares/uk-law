@@ -38,7 +38,7 @@ Sections 1(2), 8(1).
 |  |  |
 | --- | --- |
 | Kilometre = | 1000 metres. |
-| METRE | for which the symbol “m” is used, is the SI unit of length, defined by taking the fixed numerical value of the speed of light in vacuum[^key-40a11ac0519ef42d67cfea74ff7e84b7] *c* to be 299 792 458 when expressed in the unit m/s, where the second is defined by taking the fixed numerical value of the caesium frequency Δ*v*<sub>Cs</sub>, the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9 192 631 770 when expressed in the unit Hz, which is equal to s<sup>-1</sup>. |
+| METRE | for which the symbol “m” is used, is the SI unit of length, defined by taking the fixed numerical value of the speed of light in vacuum[^c-40a11ac0519ef42d67cfea74ff7e84b7] *c* to be 299 792 458 when expressed in the unit m/s, where the second is defined by taking the fixed numerical value of the caesium frequency Δ*v*<sub>Cs</sub>, the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9 192 631 770 when expressed in the unit Hz, which is equal to s<sup>-1</sup>. |
 | Decimetre = | 1/10 metre. |
 | Centimetre = | 1/100 metre. |
 | Millimetre = | 1/1000 metre. |
@@ -118,7 +118,7 @@ Sections 1(2), 8(1).
 | --- | --- |
 | Tonne, metric tonne = | 1000 kilograms. |
 |  |  |
-| KILOGRAM | for which the symbol “kg” is used, is the SI unit of mass, defined by taking the fixed numerical value of the Planck constant[^key-28523f0ae99f4c05c56d24f5c8713449] *h* to be 6.626 070 15 x 10<sup>-34</sup> when expressed in the unit J s, which is equal to kg m<sup>2</sup> s<sup>-1</sup>, where the second is defined by taking the fixed numerical value of the caesium frequency Δ*v*<sub>Cs</sub>, the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9 192 631 770 when expressed in the unit Hz, which is equal to s<sup>-1</sup>. |
+| KILOGRAM | for which the symbol “kg” is used, is the SI unit of mass, defined by taking the fixed numerical value of the Planck constant[^c-28523f0ae99f4c05c56d24f5c8713449] *h* to be 6.626 070 15 x 10<sup>-34</sup> when expressed in the unit J s, which is equal to kg m<sup>2</sup> s<sup>-1</sup>, where the second is defined by taking the fixed numerical value of the caesium frequency Δ*v*<sub>Cs</sub>, the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9 192 631 770 when expressed in the unit Hz, which is equal to s<sup>-1</sup>. |
 | Hectogram = | 1/10 kilogram. |
 | Gram = | 1/1000 kilogram. |
 | Carat (metric) = | 1/5 gram. |
@@ -181,10 +181,10 @@ Sections 1(2), 8(1).
 |  |  |  |
 | --- | --- | --- |
 |  |  |  |
-| 1\. | (a) AMPERE | for which the symbol “A” is used, is the SI unit of electric current, defined by taking the fixed numerical value of the elementary charge[^key-0e66d46c317252a8acdaab434318741b] *e* to be 1.602 176 634 × 10<sup>-19</sup> when expressed in the unit C, which is equal to A s, where the second is defined by taking the fixed numerical value of the caesium frequency Δ*v*<sub>Cs</sub>, the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9 192 631 770 when expressed in the unit Hz, which is equal to s<sup>-1</sup>. |
+| 1\. | (a) AMPERE | for which the symbol “A” is used, is the SI unit of electric current, defined by taking the fixed numerical value of the elementary charge[^c-0e66d46c317252a8acdaab434318741b] *e* to be 1.602 176 634 × 10<sup>-19</sup> when expressed in the unit C, which is equal to A s, where the second is defined by taking the fixed numerical value of the caesium frequency Δ*v*<sub>Cs</sub>, the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9 192 631 770 when expressed in the unit Hz, which is equal to s<sup>-1</sup>. |
 |  | (b) OHM | is the electric resistance between two points of a conductor when a constant potential difference of 1 volt, applied between the two points, produces in the conductor a current of 1 ampere, the conductor not being the seat of any electromotive force. |
 |  | (c) VOLT | is the difference of electric potential between two points of a conducting wire carrying a constant current of 1 ampere when the power dissipated between these points is equal to 1 watt. |
-|  | (d) WATT | is the power which in one second gives rise to energy of 1 joule , where the second has the meaning given in the definition of “AMPERE”[^key-4857f0269e04f402d8a55f8b2572f15d]. |
+|  | (d) WATT | is the power which in one second gives rise to energy of 1 joule , where the second has the meaning given in the definition of “AMPERE”[^c-4857f0269e04f402d8a55f8b2572f15d]. |
 | 2\. | Kilowatt | \= 1000 watts. |
 |  | Megawatt | \= one million watts. |
 
@@ -192,7 +192,7 @@ Sections 1(2), 8(1).
 
 [^c13370531]: Textual amendment: Sch. 1 Pts. I, II: entries omitted (1.10.1995) by virtue of [S.I. 1994/2867](https://www.legislation.gov.uk/uksi/1994/2867), [reg. 6(5)(a)](https://www.legislation.gov.uk/uksi/1994/2867/regulation/6/5/a)
 
-[^key-40a11ac0519ef42d67cfea74ff7e84b7]: Textual amendment: Words in Sch. 1 Pt. 1 substituted (13.6.2020) by [The Weights and Measures Act 1985 (Definitions of Metre and Kilogram) (Amendment) Order 2020 (S.I. 2020/586)](https://www.legislation.gov.uk/uksi/2020/586), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2020/586/article/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2020/586/article/2/2)
+[^c-40a11ac0519ef42d67cfea74ff7e84b7]: Textual amendment: Words in Sch. 1 Pt. 1 substituted (13.6.2020) by [The Weights and Measures Act 1985 (Definitions of Metre and Kilogram) (Amendment) Order 2020 (S.I. 2020/586)](https://www.legislation.gov.uk/uksi/2020/586), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2020/586/article/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2020/586/article/2/2)
 
 [^c13370611]: Textual amendment: Sch. 1 Pts. I, II: entries omitted (1.10.1995) by virtue of [S.I. 1994/2867](https://www.legislation.gov.uk/uksi/1994/2867), [reg. 6(5)(a)](https://www.legislation.gov.uk/uksi/1994/2867/regulation/6/5/a)
 
@@ -210,7 +210,7 @@ Sections 1(2), 8(1).
 
 [^c13370901]: Textual amendment: Sch. 1 Pt. V: definition of “ounce troy” substituted (1.1.2000) by [S.I. 1994/2867](https://www.legislation.gov.uk/uksi/1994/2867), [reg. 7(3)(b)(iii)](https://www.legislation.gov.uk/uksi/1994/2867/regulation/7/3/b/iii)
 
-[^key-28523f0ae99f4c05c56d24f5c8713449]: Textual amendment: Words in Sch. 1 Pt. 5 substituted (13.6.2020) by [The Weights and Measures Act 1985 (Definitions of Metre and Kilogram) (Amendment) Order 2020 (S.I. 2020/586)](https://www.legislation.gov.uk/uksi/2020/586), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2020/586/article/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2020/586/article/2/3)
+[^c-28523f0ae99f4c05c56d24f5c8713449]: Textual amendment: Words in Sch. 1 Pt. 5 substituted (13.6.2020) by [The Weights and Measures Act 1985 (Definitions of Metre and Kilogram) (Amendment) Order 2020 (S.I. 2020/586)](https://www.legislation.gov.uk/uksi/2020/586), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2020/586/article/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2020/586/article/2/3)
 
 [^c13370921]: Textual amendment: Sch. 1 Pt. VI substituted (1.10.1995) by [S.I. 1994/2867](https://www.legislation.gov.uk/uksi/1994/2867), [reg. 6(5)(c)](https://www.legislation.gov.uk/uksi/1994/2867/regulation/6/5/c)
 
@@ -220,6 +220,6 @@ Sections 1(2), 8(1).
 
 [^c13371011]: Textual amendment: Sch. 1 Pt. VI: definition of “ounce” inserted (1.1.2000) by [S.I. 1994/2867](https://www.legislation.gov.uk/uksi/1994/2867), [reg. 7(3)(c)(ii)](https://www.legislation.gov.uk/uksi/1994/2867/regulation/7/3/c/ii)
 
-[^key-0e66d46c317252a8acdaab434318741b]: Textual amendment: Words in Sch. 1 Pt. 7 substituted (13.6.2020) by [The Weights and Measures Act 1985 (Amendment) and Units of Measurement Regulations 1986 (Amendment) Regulations 2019 (S.I. 2019/1211)](https://www.legislation.gov.uk/uksi/2019/1211), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2019/1211/regulation/1/b), [2(a)](https://www.legislation.gov.uk/uksi/2019/1211/regulation/2/a)
+[^c-0e66d46c317252a8acdaab434318741b]: Textual amendment: Words in Sch. 1 Pt. 7 substituted (13.6.2020) by [The Weights and Measures Act 1985 (Amendment) and Units of Measurement Regulations 1986 (Amendment) Regulations 2019 (S.I. 2019/1211)](https://www.legislation.gov.uk/uksi/2019/1211), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2019/1211/regulation/1/b), [2(a)](https://www.legislation.gov.uk/uksi/2019/1211/regulation/2/a)
 
-[^key-4857f0269e04f402d8a55f8b2572f15d]: Textual amendment: Words in Sch. 1 Pt. 7 inserted (13.6.2020) by [The Weights and Measures Act 1985 (Amendment) and Units of Measurement Regulations 1986 (Amendment) Regulations 2019 (S.I. 2019/1211)](https://www.legislation.gov.uk/uksi/2019/1211), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2019/1211/regulation/1/b), [2(b)](https://www.legislation.gov.uk/uksi/2019/1211/regulation/2/b)
+[^c-4857f0269e04f402d8a55f8b2572f15d]: Textual amendment: Words in Sch. 1 Pt. 7 inserted (13.6.2020) by [The Weights and Measures Act 1985 (Amendment) and Units of Measurement Regulations 1986 (Amendment) Regulations 2019 (S.I. 2019/1211)](https://www.legislation.gov.uk/uksi/2019/1211), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2019/1211/regulation/1/b), [2(b)](https://www.legislation.gov.uk/uksi/2019/1211/regulation/2/b)

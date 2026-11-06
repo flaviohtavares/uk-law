@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Provision where designation of operator to cease[^key-bbbfabf35cf92741539d45b1ec347c62][^key-03e63b88dcd25d75a1df75c2df449890]
+## 18. Provision where designation of operator to cease[^c-bbbfabf35cf92741539d45b1ec347c62][^c-03e63b88dcd25d75a1df75c2df449890]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ the Secretary of State (in relation to England) or, as the case requires, the As
 
 ## Annotations
 
-[^key-bbbfabf35cf92741539d45b1ec347c62]: Commencement: S. 18 in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
+[^c-bbbfabf35cf92741539d45b1ec347c62]: Commencement: S. 18 in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
 
-[^key-03e63b88dcd25d75a1df75c2df449890]: Commencement: S. 18 in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/uksi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2004/3144/schedule/part/1)
+[^c-03e63b88dcd25d75a1df75c2df449890]: Commencement: S. 18 in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/uksi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2004/3144/schedule/part/1)

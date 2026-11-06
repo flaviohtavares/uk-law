@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 15 — Documents to be certified[^key-5bba05c32b5bde7825f8cf4c4942ae9b]
+## SCHEDULE 15 — Documents to be certified[^c-5bba05c32b5bde7825f8cf4c4942ae9b]
 
 *Extent: E+W*
 
 Article 41
 
-[^key-5bba05c32b5bde7825f8cf4c4942ae9b]
+[^c-5bba05c32b5bde7825f8cf4c4942ae9b]
 
 The following documents, including those listed in Table 5, are the list referred to in article 41—
 
@@ -201,7 +201,7 @@ Outline code of construction practice
 
 | Document Reference Number | Planning Inspectorate Reference | Document Name | Revision | Date |
 | --- | --- | --- | --- | --- |
-| S\_RFI1\_03[^key-0c76fade662f4a7b7b86b7ebabde4a9c] | C1-008c | Outline Code of Construction Practice | F01 | May 2025[^key-1229ca20145d7d69a91d20311b6beeb5] |
+| S\_RFI1\_03[^c-0c76fade662f4a7b7b86b7ebabde4a9c] | C1-008c | Outline Code of Construction Practice | F01 | May 2025[^c-1229ca20145d7d69a91d20311b6beeb5] |
 | J26.1 | REP6-036 | Outline Spillage and Emergency Response Plan | F03 | December 2024 |
 | J26.2 | REP6-038 | Outline Dust Management Plan | F03 | December 2024 |
 | S\_RFI1\_04 | C1-008e | Outline Construction Noise and Vibration Management Plan | F01 | May 2025 |
@@ -246,8 +246,8 @@ Other outline documents
 
 ## Annotations
 
-[^key-5bba05c32b5bde7825f8cf4c4942ae9b]: Commencement: Sch. 15 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-5bba05c32b5bde7825f8cf4c4942ae9b]: Commencement: Sch. 15 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
-[^key-0c76fade662f4a7b7b86b7ebabde4a9c]: Textual amendment: Word in [Sch. 15](https://www.legislation.gov.uk/uksi/2025/870/schedule/15) Table 7 substituted (24.10.2025) by [The Mona Offshore Wind Farm (Correction) Order 2025 (S.I. 2025/1123)](https://www.legislation.gov.uk/uksi/2025/1123), [art. 1](https://www.legislation.gov.uk/uksi/2025/1123/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1123/schedule)
+[^c-0c76fade662f4a7b7b86b7ebabde4a9c]: Textual amendment: Word in [Sch. 15](https://www.legislation.gov.uk/uksi/2025/870/schedule/15) Table 7 substituted (24.10.2025) by [The Mona Offshore Wind Farm (Correction) Order 2025 (S.I. 2025/1123)](https://www.legislation.gov.uk/uksi/2025/1123), [art. 1](https://www.legislation.gov.uk/uksi/2025/1123/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1123/schedule)
 
-[^key-1229ca20145d7d69a91d20311b6beeb5]: Textual amendment: Words in [Sch. 15](https://www.legislation.gov.uk/uksi/2025/870/schedule/15) Table 7 substituted (24.10.2025) by [The Mona Offshore Wind Farm (Correction) Order 2025 (S.I. 2025/1123)](https://www.legislation.gov.uk/uksi/2025/1123), [art. 1](https://www.legislation.gov.uk/uksi/2025/1123/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1123/schedule)
+[^c-1229ca20145d7d69a91d20311b6beeb5]: Textual amendment: Words in [Sch. 15](https://www.legislation.gov.uk/uksi/2025/870/schedule/15) Table 7 substituted (24.10.2025) by [The Mona Offshore Wind Farm (Correction) Order 2025 (S.I. 2025/1123)](https://www.legislation.gov.uk/uksi/2025/1123), [art. 1](https://www.legislation.gov.uk/uksi/2025/1123/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1123/schedule)

@@ -42,13 +42,13 @@ Coming into operation
 
 The Department of Health, makes the following Regulations in exercise of the powers conferred by sections 7, 10, 22 and 31 of the Misuse of Drugs Act 1971[^f00001] as adapted by sections 7(9), 31(4) and 38 of that Act and now vested in it[^f00002] and after consultation with the Advisory Council on the Misuse of Drugs in accordance with section 31(3) of that Act.
 
-## 1. Citation, commencement and interpretation[^key-75c44300a94f00e6f82c378b259446a6]
+## 1. Citation, commencement and interpretation[^c-75c44300a94f00e6f82c378b259446a6]
 
 (1) These Regulations may be cited as the Misuse of Drugs (Amendment No. 2) Regulations (Northern Ireland) 2024 and shall come into operation on 15th January 2025.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 2. Amendment of the Misuse of Drugs Regulations (Northern Ireland) 2002[^key-63d7df01cd33820dc8d79174a791f05a]
+## 2. Amendment of the Misuse of Drugs Regulations (Northern Ireland) 2002[^c-63d7df01cd33820dc8d79174a791f05a]
 
 (1) The Misuse of Drugs Regulations (Northern Ireland) 2002[^f00004] are amended as follows.
 
@@ -149,10 +149,10 @@ The Schedule in which a controlled drug is placed affects the extent to which th
 
 [^f00002]: Footnote: [S.R. & O. (N. I.) No. 1973 No. 504](https://www.legislation.gov.uk/nisro/1973/504), Article 5(a) and [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3(6).
 
-[^key-75c44300a94f00e6f82c378b259446a6]: Commencement: Reg. 1 in operation at 15.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/222/regulation/1/1)
+[^c-75c44300a94f00e6f82c378b259446a6]: Commencement: Reg. 1 in operation at 15.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/222/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-63d7df01cd33820dc8d79174a791f05a]: Commencement: Reg. 2 in operation at 15.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/222/regulation/1/1)
+[^c-63d7df01cd33820dc8d79174a791f05a]: Commencement: Reg. 2 in operation at 15.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/222/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2002 No. 1](https://www.legislation.gov.uk/nisr/2002/1), amended by [SR 2015 No. 227](https://www.legislation.gov.uk/nisr/2015/227) and [2024 No. 36](https://www.legislation.gov.uk/nisr/2024/36). There are other amending instruments but none are relevant.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Temporary use of land for carrying out the authorised development[^key-b26d296f42f7c001a590a649811f4e78]
+## 40. Temporary use of land for carrying out the authorised development[^c-b26d296f42f7c001a590a649811f4e78]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b26d296f42f7c001a590a649811f4e78]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2014/2935/article/40) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-b26d296f42f7c001a590a649811f4e78]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2014/2935/article/40) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Registration and absent voting[^key-6b77aa244b46fc3c7d8edb99bf30da28]
+## 3. Registration and absent voting[^c-6b77aa244b46fc3c7d8edb99bf30da28]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ as may be required to give effect to the decision.
 
 ## Annotations
 
-[^key-6b77aa244b46fc3c7d8edb99bf30da28]: Commencement: Art. 3 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-6b77aa244b46fc3c7d8edb99bf30da28]: Commencement: Art. 3 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00026]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2). The functions of the Secretary of State, insofar as they are exercisable within devolved competence, were transferred to the Welsh Ministers by article 45 of, and paragraph 1 of Schedule 1 to, the Welsh Ministers (Transfer of Functions) Order 2018 ([S.I. 2018/644](https://www.legislation.gov.uk/uksi/2018/644)).
 

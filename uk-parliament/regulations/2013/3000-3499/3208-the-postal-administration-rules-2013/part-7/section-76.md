@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Debt payable at future time[^key-ea5b832b477e024c0a93a263641571fc]
+## 76. Debt payable at future time[^c-ea5b832b477e024c0a93a263641571fc]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ where—
 
 ## Annotations
 
-[^key-ea5b832b477e024c0a93a263641571fc]: Commencement: [Rule 76](https://www.legislation.gov.uk/uksi/2013/3208/rule/76) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-ea5b832b477e024c0a93a263641571fc]: Commencement: [Rule 76](https://www.legislation.gov.uk/uksi/2013/3208/rule/76) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

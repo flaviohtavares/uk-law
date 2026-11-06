@@ -24,7 +24,7 @@ Section 13
 
 ### Preparation and revision of plan
 
-**1.**[^key-212950146e4cec74c969bc4ca3e57801] (1) A plan prepared or revised by the NDA has effect only if it is approved—
+**1.**[^c-212950146e4cec74c969bc4ca3e57801] (1) A plan prepared or revised by the NDA has effect only if it is approved—
 
 - (a) by the Secretary of State; and
 - (b) to the extent that it relates to responsibilities of the NDA falling within section 6(2), also by the Scottish Ministers.
@@ -33,12 +33,12 @@ Section 13
 
 ### Consultation by NDA
 
-**2.**[^key-0d7b458b055fd6641bb44052ce454ee3] (1) Before preparing or revising a plan the NDA must consult—
+**2.**[^c-0d7b458b055fd6641bb44052ce454ee3] (1) Before preparing or revising a plan the NDA must consult—
 
-- (za)[^key-5790dfe0fccaa1e7ca73075fdcf7ad51] the Office for Nuclear Regulation;
+- (za)[^c-5790dfe0fccaa1e7ca73075fdcf7ad51] the Office for Nuclear Regulation;
 - (a) the Health and Safety Executive;
 - (b) the Environment Agency;
-- (ba)[^key-6a4f06168bb3b13300350970dab03e71] the Natural Resources Body for Wales;
+- (ba)[^c-6a4f06168bb3b13300350970dab03e71] the Natural Resources Body for Wales;
 - (c) the Scottish Environment Protection Agency;
 - (d) such persons with responsibilities in relation to nuclear security as have been nominated for the purposes of this sub-paragraph by the Secretary of State;
 - (e) every local authority whose area includes a designated installation, designated site or designated facility or a locality affected by activities at such an installation, site or facility;
@@ -64,7 +64,7 @@ Section 13
 
 ### Approval of annual plan
 
-**3.**[^key-558f7ee538dc589162f35c50777702c4] (1) This paragraph applies where a draft of the NDA’s plan for a financial year, or of a revision of such a plan, is submitted for approval—
+**3.**[^c-558f7ee538dc589162f35c50777702c4] (1) This paragraph applies where a draft of the NDA’s plan for a financial year, or of a revision of such a plan, is submitted for approval—
 
 - (a) to the Secretary of State; or
 - (b) to the Secretary of State and the Scottish Ministers.
@@ -98,10 +98,10 @@ it takes effect, in relation to the financial year to which it relates, as an ap
 (8) Before giving a direction under sub-paragraph (7), the Secretary of State or (as the case may be) the Secretary of State and the Scottish Ministers must consult —
 
 - (a) the NDA;
-- (aa)[^key-373f025327ef9dc2b9a2502aa9243283] the Office for Nuclear Regulation;
+- (aa)[^c-373f025327ef9dc2b9a2502aa9243283] the Office for Nuclear Regulation;
 - (b) the Health and Safety Executive;
 - (c) the Environment Agency;
-- (ca)[^key-704809a69f71a71c20bcf98115b89dd6] the Natural Resources Body for Wales;
+- (ca)[^c-704809a69f71a71c20bcf98115b89dd6] the Natural Resources Body for Wales;
 - (d) the Scottish Environment Protection Agency; and
 - (e) such persons with responsibilities in relation to nuclear security as have been nominated for the purposes of this sub-paragraph by the Secretary of State.
 
@@ -109,7 +109,7 @@ it takes effect, in relation to the financial year to which it relates, as an ap
 
 ### Publication of plan
 
-**4.**[^key-4bdfac4d14ba839c9d1830f30a107756] (1) The NDA must publish its plan for a financial year in the manner which, in its opinion, is most appropriate for bringing it to the attention of persons likely to be affected by it.
+**4.**[^c-4bdfac4d14ba839c9d1830f30a107756] (1) The NDA must publish its plan for a financial year in the manner which, in its opinion, is most appropriate for bringing it to the attention of persons likely to be affected by it.
 
 (2) Where it revises that plan, it must so publish the revised plan.
 
@@ -128,18 +128,18 @@ it takes effect, in relation to the financial year to which it relates, as an ap
 
 ## Annotations
 
-[^key-212950146e4cec74c969bc4ca3e57801]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/3/paragraph/1) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
+[^c-212950146e4cec74c969bc4ca3e57801]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/3/paragraph/1) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
 
-[^key-0d7b458b055fd6641bb44052ce454ee3]: Commencement: Sch. 3 para. 2 in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
+[^c-0d7b458b055fd6641bb44052ce454ee3]: Commencement: Sch. 3 para. 2 in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
 
-[^key-5790dfe0fccaa1e7ca73075fdcf7ad51]: Textual amendment: [Sch. 3 para. 2(1)(za)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/3/paragraph/2/1/za) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 80(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/80/2); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-5790dfe0fccaa1e7ca73075fdcf7ad51]: Textual amendment: [Sch. 3 para. 2(1)(za)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/3/paragraph/2/1/za) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 80(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/80/2); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-6a4f06168bb3b13300350970dab03e71]: Textual amendment: Sch. 3 para. 2(1)(ba) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 428(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/428/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-6a4f06168bb3b13300350970dab03e71]: Textual amendment: Sch. 3 para. 2(1)(ba) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 428(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/428/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-558f7ee538dc589162f35c50777702c4]: Commencement: Sch. 3 para. 3 in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
+[^c-558f7ee538dc589162f35c50777702c4]: Commencement: Sch. 3 para. 3 in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
 
-[^key-373f025327ef9dc2b9a2502aa9243283]: Textual amendment: [Sch. 3 para. 3(8)(aa)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/3/paragraph/3/8/aa) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 80(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/80/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-373f025327ef9dc2b9a2502aa9243283]: Textual amendment: [Sch. 3 para. 3(8)(aa)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/3/paragraph/3/8/aa) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 80(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/80/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-704809a69f71a71c20bcf98115b89dd6]: Textual amendment: Sch. 3 para. 3(8)(ca) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 428(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/428/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-704809a69f71a71c20bcf98115b89dd6]: Textual amendment: Sch. 3 para. 3(8)(ca) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 428(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/428/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-4bdfac4d14ba839c9d1830f30a107756]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2004/20/schedule/3/paragraph/4) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
+[^c-4bdfac4d14ba839c9d1830f30a107756]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2004/20/schedule/3/paragraph/4) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Welsh Ministers: restrictions on the exercise of powers[^key-6fed3aab8bf900dc8de7e0c9372f78f2][^key-d8ac5879aa936b5b0bc8c56a694bec7f]
+## 111. Welsh Ministers: restrictions on the exercise of powers[^c-6fed3aab8bf900dc8de7e0c9372f78f2][^c-d8ac5879aa936b5b0bc8c56a694bec7f]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6fed3aab8bf900dc8de7e0c9372f78f2]: Commencement: S. 111 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-6fed3aab8bf900dc8de7e0c9372f78f2]: Commencement: S. 111 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-d8ac5879aa936b5b0bc8c56a694bec7f]: Commencement: S. 111 in force at 12.3.2024 by [S.I. 2024/361](https://www.legislation.gov.uk/uksi/2024/361), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/361/regulation/2/m)
+[^c-d8ac5879aa936b5b0bc8c56a694bec7f]: Commencement: S. 111 in force at 12.3.2024 by [S.I. 2024/361](https://www.legislation.gov.uk/uksi/2024/361), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/361/regulation/2/m)

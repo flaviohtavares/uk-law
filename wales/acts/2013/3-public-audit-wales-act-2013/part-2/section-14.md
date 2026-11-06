@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Powers[^key-4e164d26830ee5259deece9824d58db0]
+## 14. Powers[^c-4e164d26830ee5259deece9824d58db0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The WAO may do anything (including acquiring or disposing of any property or rig
 
 ## Annotations
 
-[^key-4e164d26830ee5259deece9824d58db0]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2013/3/section/14) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(f)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/f)
+[^c-4e164d26830ee5259deece9824d58db0]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2013/3/section/14) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(f)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/f)

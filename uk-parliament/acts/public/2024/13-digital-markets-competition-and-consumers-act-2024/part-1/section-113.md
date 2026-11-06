@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Consultation and publication of documents[^key-44fb2930a988e8d661a86916ddd26b59][^key-fc4404f8c736b8a4bc93c5b85349bb8e]
+## 113. Consultation and publication of documents[^c-44fb2930a988e8d661a86916ddd26b59][^c-fc4404f8c736b8a4bc93c5b85349bb8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-44fb2930a988e8d661a86916ddd26b59]: Commencement: S. 113 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-44fb2930a988e8d661a86916ddd26b59]: Commencement: S. 113 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-fc4404f8c736b8a4bc93c5b85349bb8e]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2024/13/section/113) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-fc4404f8c736b8a4bc93c5b85349bb8e]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2024/13/section/113) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

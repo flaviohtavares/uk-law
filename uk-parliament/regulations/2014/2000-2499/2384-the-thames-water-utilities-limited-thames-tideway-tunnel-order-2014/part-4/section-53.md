@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Provisions for protection of specified undertakers[^key-90adbf1264aaef737a927b8d7938f491]
+## 53. Provisions for protection of specified undertakers[^c-90adbf1264aaef737a927b8d7938f491]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 16 (provisions for protection of specified undertakers) to this Order h
 
 ## Annotations
 
-[^key-90adbf1264aaef737a927b8d7938f491]: Commencement: Art. 53 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-90adbf1264aaef737a927b8d7938f491]: Commencement: Art. 53 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

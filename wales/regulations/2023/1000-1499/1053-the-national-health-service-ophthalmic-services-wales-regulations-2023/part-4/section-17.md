@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Removal from a list[^key-1e1875be68f9feb2123db9f8c9220f0e]
+## 17. Removal from a list[^c-1e1875be68f9feb2123db9f8c9220f0e]
 
 *Extent: E+W*
 
@@ -85,7 +85,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1e1875be68f9feb2123db9f8c9220f0e]: Commencement: Reg. 17 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-1e1875be68f9feb2123db9f8c9220f0e]: Commencement: Reg. 17 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00019]: Footnote: Section 35D was inserted by article 13 of [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), and the title of the section was further amended by article 5 of [S.I. 2015/794](https://www.legislation.gov.uk/uksi/2015/794). Section 35D(2) was amended by [S.I. 2014/1101](https://www.legislation.gov.uk/uksi/2014/1101), article 7 and [S.I. 2015/794](https://www.legislation.gov.uk/uksi/2015/794), article 5. There are other amendments to this section which are not relevant to these Regulations.
 

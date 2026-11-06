@@ -36,26 +36,26 @@ implementing Council Regulation (EEC) No 3924/91 on the establishment of a Commu
 
 (Text with EEA relevance) (revoked)
 
-[^key-29f1dfcb9e26f47cf6f7dda25325f10d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-29f1dfcb9e26f47cf6f7dda25325f10d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-29f1dfcb9e26f47cf6f7dda25325f10d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-29f1dfcb9e26f47cf6f7dda25325f10d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-29f1dfcb9e26f47cf6f7dda25325f10d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-29f1dfcb9e26f47cf6f7dda25325f10d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-29f1dfcb9e26f47cf6f7dda25325f10d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-29f1dfcb9e26f47cf6f7dda25325f10d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-29f1dfcb9e26f47cf6f7dda25325f10d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-29f1dfcb9e26f47cf6f7dda25325f10d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-29f1dfcb9e26f47cf6f7dda25325f10d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-29f1dfcb9e26f47cf6f7dda25325f10d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-29f1dfcb9e26f47cf6f7dda25325f10d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-29f1dfcb9e26f47cf6f7dda25325f10d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-29f1dfcb9e26f47cf6f7dda25325f10d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-29f1dfcb9e26f47cf6f7dda25325f10d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-29f1dfcb9e26f47cf6f7dda25325f10d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-29f1dfcb9e26f47cf6f7dda25325f10d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-29f1dfcb9e26f47cf6f7dda25325f10d]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/45)
+[^c-29f1dfcb9e26f47cf6f7dda25325f10d]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/45)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111A. Monitoring of employers’ payments to personal pension schemes.[^key-4b7e71dbb7245883102c17f076b3635d]
+## 111A. Monitoring of employers’ payments to personal pension schemes.[^c-4b7e71dbb7245883102c17f076b3635d]
 
 *Extent: E+W+S*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) on the employer’s own account (but in respect of the employee); or
 - (b) on behalf of the employee out of deductions from the employee’s earnings.
 
-(3)[^key-08caec8f9129a835045f39bf53c469a0] The trustees or managers of the scheme must monitor the payment of contributions by or on behalf of the employer under the direct payment arrangements.
+(3)[^c-08caec8f9129a835045f39bf53c469a0] The trustees or managers of the scheme must monitor the payment of contributions by or on behalf of the employer under the direct payment arrangements.
 
 (4) The trustees or managers may request the employer to provide them, (or arrange for them to be provided) with the payment information specified in the request.
 
@@ -49,14 +49,14 @@ they must give notice to that effect to the Regulatory Authority and the employe
 
 (8) If—
 
-- (a) the employer fails to take all such steps as are reasonable to secure compliance with subsection (6) and as a result the trustees or managers of the scheme are unable to discharge the duty imposed by subsection (3)[^key-f2119b892dc9d4b5f3f04f8ce54b3a82], or
+- (a) the employer fails to take all such steps as are reasonable to secure compliance with subsection (6) and as a result the trustees or managers of the scheme are unable to discharge the duty imposed by subsection (3)[^c-f2119b892dc9d4b5f3f04f8ce54b3a82], or
 - (b) a contribution payable under the direct payment arrangements is not paid to the trustees or managers of the scheme on or before its due date,
 
 section 10 of the Pensions Act 1995 (power of the Regulatory Authority to impose civil penalties) applies to the employer.
 
-(9) If subsection (7) or (7A)[^key-dbd2537d83e25f41d76a1fc769d9bbc5] is not complied with, section 10 of the Pensions Act 1995 applies to any trustee or manager of the scheme who has failed to take all such steps as are reasonable to secure compliance.
+(9) If subsection (7) or (7A)[^c-dbd2537d83e25f41d76a1fc769d9bbc5] is not complied with, section 10 of the Pensions Act 1995 applies to any trustee or manager of the scheme who has failed to take all such steps as are reasonable to secure compliance.
 
-(10)[^key-ab388d8b6e69d5bd6c8674b22d650217] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-ab388d8b6e69d5bd6c8674b22d650217] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) A person shall not be required by virtue of subsection (8)(b) above to pay a penalty under section 10 of the Pensions Act 1995 in respect of a failure if in respect of that failure he has been—
 
@@ -84,18 +84,18 @@ section 10 of the Pensions Act 1995 (power of the Regulatory Authority to impose
 
 (17) Nothing in this section shall be taken as varying the provisions of the direct payment arrangements or as affecting their enforceability.
 
-(18)[^key-38226802028376c8a06b5f654ada88d8] In this section, “**employee**” includes a jobholder within the meaning of section 1 of the Pensions Act 2008 and “employer” is to be read accordingly.
+(18)[^c-38226802028376c8a06b5f654ada88d8] In this section, “**employee**” includes a jobholder within the meaning of section 1 of the Pensions Act 2008 and “employer” is to be read accordingly.
 
 ## Annotations
 
-[^key-4b7e71dbb7245883102c17f076b3635d]: Textual amendment: [Ss. 111A](https://www.legislation.gov.uk/ukpga/1993/48/section/111A), [111B](https://www.legislation.gov.uk/ukpga/1993/48/section/111B) inserted (11.11.1999 for specified purposes, 6.4.2001 in so far as not already in force) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [ss. 9](https://www.legislation.gov.uk/ukpga/1999/30/section/9), [89(5)(a)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/5/a); [S.I. 2000/2958](https://www.legislation.gov.uk/uksi/2000/2958), [art. 2(1)](https://www.legislation.gov.uk/uksi/2000/2958/article/2/1)
+[^c-4b7e71dbb7245883102c17f076b3635d]: Textual amendment: [Ss. 111A](https://www.legislation.gov.uk/ukpga/1993/48/section/111A), [111B](https://www.legislation.gov.uk/ukpga/1993/48/section/111B) inserted (11.11.1999 for specified purposes, 6.4.2001 in so far as not already in force) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [ss. 9](https://www.legislation.gov.uk/ukpga/1999/30/section/9), [89(5)(a)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/5/a); [S.I. 2000/2958](https://www.legislation.gov.uk/uksi/2000/2958), [art. 2(1)](https://www.legislation.gov.uk/uksi/2000/2958/article/2/1)
 
-[^key-08caec8f9129a835045f39bf53c469a0]: Textual amendment: [S. 111A(3)-(7A)](https://www.legislation.gov.uk/ukpga/1993/48/section/111A/3) substituted for s. 111A(3)-(7) (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 268(2)](https://www.legislation.gov.uk/ukpga/2004/35/section/268/2), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
+[^c-08caec8f9129a835045f39bf53c469a0]: Textual amendment: [S. 111A(3)-(7A)](https://www.legislation.gov.uk/ukpga/1993/48/section/111A/3) substituted for s. 111A(3)-(7) (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 268(2)](https://www.legislation.gov.uk/ukpga/2004/35/section/268/2), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
 
-[^key-f2119b892dc9d4b5f3f04f8ce54b3a82]: Textual amendment: Words in [s. 111A(8)](https://www.legislation.gov.uk/ukpga/1993/48/section/111A/8) substituted (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 268(3)](https://www.legislation.gov.uk/ukpga/2004/35/section/268/3), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
+[^c-f2119b892dc9d4b5f3f04f8ce54b3a82]: Textual amendment: Words in [s. 111A(8)](https://www.legislation.gov.uk/ukpga/1993/48/section/111A/8) substituted (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 268(3)](https://www.legislation.gov.uk/ukpga/2004/35/section/268/3), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
 
-[^key-dbd2537d83e25f41d76a1fc769d9bbc5]: Textual amendment: Words in [s. 111A(9)](https://www.legislation.gov.uk/ukpga/1993/48/section/111A/9) substituted (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 268(4)](https://www.legislation.gov.uk/ukpga/2004/35/section/268/4), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
+[^c-dbd2537d83e25f41d76a1fc769d9bbc5]: Textual amendment: Words in [s. 111A(9)](https://www.legislation.gov.uk/ukpga/1993/48/section/111A/9) substituted (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 268(4)](https://www.legislation.gov.uk/ukpga/2004/35/section/268/4), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
 
-[^key-ab388d8b6e69d5bd6c8674b22d650217]: Textual amendment: [S. 111A(10)](https://www.legislation.gov.uk/ukpga/1993/48/section/111A/10) repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 16](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/16), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
+[^c-ab388d8b6e69d5bd6c8674b22d650217]: Textual amendment: [S. 111A(10)](https://www.legislation.gov.uk/ukpga/1993/48/section/111A/10) repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 16](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/16), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
 
-[^key-38226802028376c8a06b5f654ada88d8]: Textual amendment: [S. 111A(18)](https://www.legislation.gov.uk/ukpga/1993/48/section/111A/18) inserted (3.1.2012 for specified purposes, 30.6.2012 in so far as not already in force) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 49](https://www.legislation.gov.uk/ukpga/2008/30/section/49), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2011/3033](https://www.legislation.gov.uk/uksi/2011/3033), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/3033/article/2/a); [S.I. 2012/1682](https://www.legislation.gov.uk/uksi/2012/1682), [art. 2](https://www.legislation.gov.uk/uksi/2012/1682/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1682/schedule/1)
+[^c-38226802028376c8a06b5f654ada88d8]: Textual amendment: [S. 111A(18)](https://www.legislation.gov.uk/ukpga/1993/48/section/111A/18) inserted (3.1.2012 for specified purposes, 30.6.2012 in so far as not already in force) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 49](https://www.legislation.gov.uk/ukpga/2008/30/section/49), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2011/3033](https://www.legislation.gov.uk/uksi/2011/3033), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/3033/article/2/a); [S.I. 2012/1682](https://www.legislation.gov.uk/uksi/2012/1682), [art. 2](https://www.legislation.gov.uk/uksi/2012/1682/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1682/schedule/1)

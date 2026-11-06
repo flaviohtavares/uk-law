@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**65.**[^key-bf4be4166fc998ec305c0fa245093284] In Schedule 1 (certain Supreme Court and County Court officers, and President of Transport Tribunal), in paragraph 15(2), after paragraph (a) insert—
+**65.**[^c-bf4be4166fc998ec305c0fa245093284] In Schedule 1 (certain Supreme Court and County Court officers, and President of Transport Tribunal), in paragraph 15(2), after paragraph (a) insert—
 
 > - (aa) his or her surviving civil partner,
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf4be4166fc998ec305c0fa245093284]: Commencement: Art. 65 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-bf4be4166fc998ec305c0fa245093284]: Commencement: Art. 65 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

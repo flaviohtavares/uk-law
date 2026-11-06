@@ -35,14 +35,14 @@ amending Regulation (EU) No 702/2014 declaring certain categories of aid in the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-027ba223345a80b353524381785f296e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-027ba223345a80b353524381785f296e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-027ba223345a80b353524381785f296e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-027ba223345a80b353524381785f296e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-027ba223345a80b353524381785f296e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-027ba223345a80b353524381785f296e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-027ba223345a80b353524381785f296e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-027ba223345a80b353524381785f296e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-027ba223345a80b353524381785f296e]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(x)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/x) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-027ba223345a80b353524381785f296e]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(x)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/x) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

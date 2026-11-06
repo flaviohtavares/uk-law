@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3ZA. Consideration of revision before appeal[^key-1faaff6b48e3a578415877d4110da258]
+## 3ZA. Consideration of revision before appeal[^c-1faaff6b48e3a578415877d4110da258]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1faaff6b48e3a578415877d4110da258]: Textual amendment: Reg. 3ZA inserted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/4/3)
+[^c-1faaff6b48e3a578415877d4110da258]: Textual amendment: Reg. 3ZA inserted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/4/3)

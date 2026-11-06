@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**83A.**[^key-4be80134c98ee3a8faeb61519290f50a] (1) Where the Regulator is satisfied that by reason of an act this Article applies to a person, the Regulator may issue a notice to the person requiring the person to pay a penalty in respect of that act of an amount specified in the notice within a period specified in the notice.
+**83A.**[^c-4be80134c98ee3a8faeb61519290f50a] (1) Where the Regulator is satisfied that by reason of an act this Article applies to a person, the Regulator may issue a notice to the person requiring the person to pay a penalty in respect of that act of an amount specified in the notice within a period specified in the notice.
 
 (2) The amount of the penalty is to be an amount, not exceeding £1 million, determined by the Regulator.
 
@@ -57,4 +57,4 @@ this Article applies to that person.
 
 ## Annotations
 
-[^key-4be80134c98ee3a8faeb61519290f50a]: Textual amendment: [Arts. 83A-83C](https://www.legislation.gov.uk/nisi/2005/255/article/83A) and cross-heading inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/14); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(i)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/i) (with [art. 3(5)](https://www.legislation.gov.uk/nisr/2021/271/article/3/5))
+[^c-4be80134c98ee3a8faeb61519290f50a]: Textual amendment: [Arts. 83A-83C](https://www.legislation.gov.uk/nisi/2005/255/article/83A) and cross-heading inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/14); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(i)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/i) (with [art. 3(5)](https://www.legislation.gov.uk/nisr/2021/271/article/3/5))

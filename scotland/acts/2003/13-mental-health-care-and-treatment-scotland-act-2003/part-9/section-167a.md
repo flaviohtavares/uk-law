@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 167A. Duties of Tribunal on application under section 164A[^key-07b42f4b428b9ad61b8c5d79602af531]
+## 167A. Duties of Tribunal on application under section 164A[^c-07b42f4b428b9ad61b8c5d79602af531]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07b42f4b428b9ad61b8c5d79602af531]: Textual amendment: [Ss. 167A](https://www.legislation.gov.uk/asp/2003/13/section/167A), [167B](https://www.legislation.gov.uk/asp/2003/13/section/167B) inserted (30.11.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 26(5)](https://www.legislation.gov.uk/asp/2019/14/section/26/5), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
+[^c-07b42f4b428b9ad61b8c5d79602af531]: Textual amendment: [Ss. 167A](https://www.legislation.gov.uk/asp/2003/13/section/167A), [167B](https://www.legislation.gov.uk/asp/2003/13/section/167B) inserted (30.11.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 26(5)](https://www.legislation.gov.uk/asp/2019/14/section/26/5), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))

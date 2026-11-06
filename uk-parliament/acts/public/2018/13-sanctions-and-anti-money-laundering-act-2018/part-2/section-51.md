@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Public registers of beneficial ownership of companies registered in British Overseas Territories[^key-1c72614f173edb5eeda11f8260992564]
+## 51. Public registers of beneficial ownership of companies registered in British Overseas Territories[^c-1c72614f173edb5eeda11f8260992564]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c72614f173edb5eeda11f8260992564]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2018/13/section/51) in force at 15.12.2020 by [S.I. 2020/1535](https://www.legislation.gov.uk/uksi/2020/1535), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1535/regulation/2)
+[^c-1c72614f173edb5eeda11f8260992564]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2018/13/section/51) in force at 15.12.2020 by [S.I. 2020/1535](https://www.legislation.gov.uk/uksi/2020/1535), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1535/regulation/2)

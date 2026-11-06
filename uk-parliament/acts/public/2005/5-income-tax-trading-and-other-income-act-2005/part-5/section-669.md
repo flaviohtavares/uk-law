@@ -29,12 +29,12 @@ summary: ''
 
 (3) A person's extra liability is the amount by which the person's liability to income tax exceeds the amount it would be if—
 
-- (a)[^key-acf48a70be59c23222fe354666d076b0] income charged at an applicable[^key-94b7ee92fbf05bc881f80d6830016099] rate were charged at the basic rate, [^key-795f51aa8e45c6c69c40e82ac5d4a6a6]...
+- (a)[^c-acf48a70be59c23222fe354666d076b0] income charged at an applicable[^c-94b7ee92fbf05bc881f80d6830016099] rate were charged at the basic rate, [^c-795f51aa8e45c6c69c40e82ac5d4a6a6]...
 - (b) income charged at the dividend additional rate or the dividend upper rate were charged at the dividend ordinary rate,
-- (c)[^key-fcbca9583a8935208bab058fdca1598a] income charged at the property additional rate or the property higher rate were charged at the property basic rate, and
+- (c)[^c-fcbca9583a8935208bab058fdca1598a] income charged at the property additional rate or the property higher rate were charged at the property basic rate, and
 - (d) income charged at the savings additional rate or the savings higher rate were charged at the savings basic rate.
 
-(3A)[^key-b59d4327c0b11f62eb38ebfcee6e79fd] For the purposes of subsection (3), each of the following is an “applicable rate”—
+(3A)[^c-b59d4327c0b11f62eb38ebfcee6e79fd] For the purposes of subsection (3), each of the following is an “applicable rate”—
 
 - (a) the higher rate,
 - (b) the additional rate,
@@ -79,14 +79,14 @@ Gross up the inheritance tax attributable to net pre-death income by reference t
 
 ## Annotations
 
-[^key-acf48a70be59c23222fe354666d076b0]: Textual amendment: S. 669(3)(a)(b) substituted (with effect in accordance with s. 4(18) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 4(13)](https://www.legislation.gov.uk/ukpga/2016/24/section/4/13)
+[^c-acf48a70be59c23222fe354666d076b0]: Textual amendment: S. 669(3)(a)(b) substituted (with effect in accordance with s. 4(18) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 4(13)](https://www.legislation.gov.uk/ukpga/2016/24/section/4/13)
 
-[^key-94b7ee92fbf05bc881f80d6830016099]: Textual amendment: Words in s. 669(3)(a) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Devolved Income Tax Rates (Consequential Amendments) Order 2019 (S.I. 2019/201)](https://www.legislation.gov.uk/uksi/2019/201), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/201/article/1/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2019/201/article/10/3/a)
+[^c-94b7ee92fbf05bc881f80d6830016099]: Textual amendment: Words in s. 669(3)(a) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Devolved Income Tax Rates (Consequential Amendments) Order 2019 (S.I. 2019/201)](https://www.legislation.gov.uk/uksi/2019/201), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/201/article/1/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2019/201/article/10/3/a)
 
-[^key-795f51aa8e45c6c69c40e82ac5d4a6a6]: Textual amendment: Word in [s. 669(3)](https://www.legislation.gov.uk/ukpga/2005/5/section/669/3) omitted (for the tax year 2027-28 and subsequent tax years) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 50](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/50)
+[^c-795f51aa8e45c6c69c40e82ac5d4a6a6]: Textual amendment: Word in [s. 669(3)](https://www.legislation.gov.uk/ukpga/2005/5/section/669/3) omitted (for the tax year 2027-28 and subsequent tax years) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 50](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/50)
 
-[^key-fcbca9583a8935208bab058fdca1598a]: Textual amendment: [S. 669(3)(c)](https://www.legislation.gov.uk/ukpga/2005/5/section/669/3/c)[(d)](https://www.legislation.gov.uk/ukpga/2005/5/section/669/3/d) inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 50](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/50)
+[^c-fcbca9583a8935208bab058fdca1598a]: Textual amendment: [S. 669(3)(c)](https://www.legislation.gov.uk/ukpga/2005/5/section/669/3/c)[(d)](https://www.legislation.gov.uk/ukpga/2005/5/section/669/3/d) inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 50](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/50)
 
-[^key-b59d4327c0b11f62eb38ebfcee6e79fd]: Textual amendment: S. 669(3A) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Devolved Income Tax Rates (Consequential Amendments) Order 2019 (S.I. 2019/201)](https://www.legislation.gov.uk/uksi/2019/201), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/201/article/1/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2019/201/article/10/3/b)
+[^c-b59d4327c0b11f62eb38ebfcee6e79fd]: Textual amendment: S. 669(3A) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Devolved Income Tax Rates (Consequential Amendments) Order 2019 (S.I. 2019/201)](https://www.legislation.gov.uk/uksi/2019/201), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/201/article/1/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2019/201/article/10/3/b)
 
 [^c19141841]: Textual amendment: Words in s. 669(7)(8) substituted (18.4.2005) by Commissioners for Revenue and Customs Act 2005 ss. 50, 53(1), Sch. 4 para. 132(1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/h)

@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1150. No relief if company responsible for contamination or dereliction or polluter has interest[^key-561b22773a78101ef2b442abcc8c544f]
+## 1150. No relief if company responsible for contamination or dereliction or polluter has interest[^c-561b22773a78101ef2b442abcc8c544f]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-82fa8519f4745602c0625440dc3bc922] A company is not entitled to relief under this Chapter in respect of expenditure on land all or part of which is in a contaminated or derelict state if the land is in a contaminated or derelict[^key-e9355d08446b08375128c3fe3df03e79] state wholly or partly as a result of any thing done, or omitted to be done, at any time by—
+(1)[^c-82fa8519f4745602c0625440dc3bc922] A company is not entitled to relief under this Chapter in respect of expenditure on land all or part of which is in a contaminated or derelict state if the land is in a contaminated or derelict[^c-e9355d08446b08375128c3fe3df03e79] state wholly or partly as a result of any thing done, or omitted to be done, at any time by—
 
 - (a) the company, or
 - (b) a person with a relevant connection to the company (see section 1178).
 
-(2)[^key-60664548c5b89396b5412fb33a4be762] A company is not entitled to relief under this Chapter in respect of expenditure on land all or part of which is in a contaminated or derelict state if—
+(2)[^c-60664548c5b89396b5412fb33a4be762] A company is not entitled to relief under this Chapter in respect of expenditure on land all or part of which is in a contaminated or derelict state if—
 
 - (a) the land is in that state wholly or partly as a result of any thing done, or omitted to be done, by a person not within subsection (1), and
 - (b) that person, or a person connected with that person, has a relevant interest in the land.
@@ -37,10 +37,10 @@ summary: ''
 
 ## Annotations
 
-[^key-561b22773a78101ef2b442abcc8c544f]: Textual amendment: Words in s. 1150 heading inserted (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 11(5)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/11/5)
+[^c-561b22773a78101ef2b442abcc8c544f]: Textual amendment: Words in s. 1150 heading inserted (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 11(5)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/11/5)
 
-[^key-82fa8519f4745602c0625440dc3bc922]: Textual amendment: S. 1150(1): s. 1150 renumbered as s. 1150(1) (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 11(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/11/2)
+[^c-82fa8519f4745602c0625440dc3bc922]: Textual amendment: S. 1150(1): s. 1150 renumbered as s. 1150(1) (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 11(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/11/2)
 
-[^key-e9355d08446b08375128c3fe3df03e79]: Textual amendment: Words in s. 1150(1) substituted (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 11(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/11/3)
+[^c-e9355d08446b08375128c3fe3df03e79]: Textual amendment: Words in s. 1150(1) substituted (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 11(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/11/3)
 
-[^key-60664548c5b89396b5412fb33a4be762]: Textual amendment: S. 1150(2)(3) inserted (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 11(4)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/11/4)
+[^c-60664548c5b89396b5412fb33a4be762]: Textual amendment: S. 1150(2)(3) inserted (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 11(4)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/11/4)

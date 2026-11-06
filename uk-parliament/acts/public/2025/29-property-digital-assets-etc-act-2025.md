@@ -35,14 +35,14 @@ An Act to make provision about the types of things that are not prevented from b
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Objects of personal property rights[^key-8e798cd36fcd46837916f726b57dd5f1]
+## 1. Objects of personal property rights[^c-8e798cd36fcd46837916f726b57dd5f1]
 
 A thing (including a thing that is digital or electronic in nature) is not prevented from being the object of personal property rights merely because it is neither—
 
 - (a) a thing in possession, nor
 - (b) a thing in action.
 
-## 2. Extent, commencement and short title[^key-c5b22d99db9700dd0181154ba4419c71]
+## 2. Extent, commencement and short title[^c-c5b22d99db9700dd0181154ba4419c71]
 
 (1) This Act extends to England and Wales and Northern Ireland.
 
@@ -52,6 +52,6 @@ A thing (including a thing that is digital or electronic in nature) is not preve
 
 ## Annotations
 
-[^key-8e798cd36fcd46837916f726b57dd5f1]: Commencement: S. 1 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2025/29/section/2/2)
+[^c-8e798cd36fcd46837916f726b57dd5f1]: Commencement: S. 1 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2025/29/section/2/2)
 
-[^key-c5b22d99db9700dd0181154ba4419c71]: Commencement: S. 2 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2025/29/section/2/2)
+[^c-c5b22d99db9700dd0181154ba4419c71]: Commencement: S. 2 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2025/29/section/2/2)

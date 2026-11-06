@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Tribunal charging power in respect of wasted resources[^key-8401324f7afebf211f456f9f4fa451c4]
+## 80. Tribunal charging power in respect of wasted resources[^c-8401324f7afebf211f456f9f4fa451c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8401324f7afebf211f456f9f4fa451c4]: Commencement: S. 80 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-8401324f7afebf211f456f9f4fa451c4]: Commencement: S. 80 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)

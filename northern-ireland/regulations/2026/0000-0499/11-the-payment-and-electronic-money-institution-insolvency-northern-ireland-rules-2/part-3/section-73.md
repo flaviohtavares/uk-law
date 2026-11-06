@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Creditors’ committee members’ representatives[^key-d5f5dd0880bc78051873a5f2011729cc]
+## 73. Creditors’ committee members’ representatives[^c-d5f5dd0880bc78051873a5f2011729cc]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5f5dd0880bc78051873a5f2011729cc]: Commencement: [Rule 73](https://www.legislation.gov.uk/nisr/2026/11/rule/73) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-d5f5dd0880bc78051873a5f2011729cc]: Commencement: [Rule 73](https://www.legislation.gov.uk/nisr/2026/11/rule/73) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

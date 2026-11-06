@@ -76,18 +76,18 @@ on pharmacologically active substances and their classification regarding maximu
 
 (Text with EEA relevance) (revoked)
 
-[^key-65898164d4f68d31c910ed053e9a665a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65898164d4f68d31c910ed053e9a665a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-65898164d4f68d31c910ed053e9a665a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-65898164d4f68d31c910ed053e9a665a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-65898164d4f68d31c910ed053e9a665a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-65898164d4f68d31c910ed053e9a665a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-65898164d4f68d31c910ed053e9a665a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65898164d4f68d31c910ed053e9a665a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Pharmacologically active substances and their classification regarding maximum residue limits (MRL)[^key-65898164d4f68d31c910ed053e9a665a]
+## ANNEX — Pharmacologically active substances and their classification regarding maximum residue limits (MRL)[^c-65898164d4f68d31c910ed053e9a665a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-65898164d4f68d31c910ed053e9a665a]: Textual amendment: Regulation revoked (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [7](https://www.legislation.gov.uk/uksi/2019/676/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-65898164d4f68d31c910ed053e9a665a]: Textual amendment: Regulation revoked (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [7](https://www.legislation.gov.uk/uksi/2019/676/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

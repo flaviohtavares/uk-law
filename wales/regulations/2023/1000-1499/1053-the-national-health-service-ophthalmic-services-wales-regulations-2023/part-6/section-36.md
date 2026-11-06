@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Disclosure of information[^key-c33b84d10441e7b8d83eb648138c2a58]
+## 36. Disclosure of information[^c-c33b84d10441e7b8d83eb648138c2a58]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c33b84d10441e7b8d83eb648138c2a58]: Commencement: Reg. 36 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-c33b84d10441e7b8d83eb648138c2a58]: Commencement: Reg. 36 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

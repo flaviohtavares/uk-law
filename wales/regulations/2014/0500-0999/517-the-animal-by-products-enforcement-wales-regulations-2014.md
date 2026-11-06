@@ -55,7 +55,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 ## PART 1 — Introduction
 
-### 1. Title, commencement and application[^key-eb6cfd5c5e02fbd25eaa03a0c102f8c6]
+### 1. Title, commencement and application[^c-eb6cfd5c5e02fbd25eaa03a0c102f8c6]
 
 (1) The title of these Regulations is the Animal By-Products (Enforcement) (Wales) Regulations 2014.
 
@@ -65,7 +65,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (4) These Regulations apply in relation to Wales.
 
-### 2. Interpretation[^key-9fd4d9f49a72a8520a09a5fc49eb3035]
+### 2. Interpretation[^c-9fd4d9f49a72a8520a09a5fc49eb3035]
 
 (1) In these Regulations—
 
@@ -88,11 +88,11 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 ## PART 2 — The competent authority and miscellaneous provisions
 
-### 3. The competent authority[^key-52762937aa1a2db96be1fa4f862e3b87]
+### 3. The competent authority[^c-52762937aa1a2db96be1fa4f862e3b87]
 
 The competent authority for the purposes of the EU Control Regulation and the EU Implementing Regulation is the Welsh Ministers.
 
-### 4. Restrictions on access to animal by-products[^key-0db2a34bd2fcdc365588c28e9b989816]
+### 4. Restrictions on access to animal by-products[^c-0db2a34bd2fcdc365588c28e9b989816]
 
 (1) Animal by-products, including catering waste, must not be brought on to any premises if farmed animals would have access to such animal by-products.
 
@@ -103,7 +103,7 @@ The competent authority for the purposes of the EU Control Regulation and the EU
 
 (3) The body or part of a body of any farmed animal that has not been slaughtered for human consumption must be held by an operator, pending consignment or disposal, in such manner as to ensure that no animal or bird will have access to it.
 
-### 5. Use of organic fertilisers and soil improvers[^key-2e20c66ff4aa3854d44da7968400b375]
+### 5. Use of organic fertilisers and soil improvers[^c-2e20c66ff4aa3854d44da7968400b375]
 
 (1) Where organic fertilisers or soil improvers are applied to land, no person may allow pigs to have access to that land or to be fed cut herbage from such land for a period of 60 days beginning with the day on which the organic fertiliser or soil improver is applied.
 
@@ -117,11 +117,11 @@ The competent authority for the purposes of the EU Control Regulation and the EU
 - (f) colostrum products; or
 - (g) digestive tract content.
 
-### 6. Collection centres[^key-c471e228db57d4bb14cf2c306f9b699d]
+### 6. Collection centres[^c-c471e228db57d4bb14cf2c306f9b699d]
 
 A processing plant for Category 2 material which is approved for the purpose of being a collection centre for Category 2 material is authorised as a collection centre.
 
-### 7. Remote areas[^key-97f9e0c1c37001f53c10c7c25cec6525]
+### 7. Remote areas[^c-97f9e0c1c37001f53c10c7c25cec6525]
 
 The following areas are remote areas for the purposes of Article 19(1)(b) of the EU Control Regulation (collection, transport and disposal)—
 
@@ -130,11 +130,11 @@ The following areas are remote areas for the purposes of Article 19(1)(b) of the
 - (c) Ramsey Island; and
 - (d) Flatholm Island.
 
-### 8. Placing on the market[^key-2e72f854b9e23a55570a5a6d437f48a6]
+### 8. Placing on the market[^c-2e72f854b9e23a55570a5a6d437f48a6]
 
 The placing on the market of untreated wool and untreated hair from farms or from establishments or plants is authorised except where they present a risk of any disease communicable through those products to humans or animals.
 
-### 9. Reporting of test results[^key-588fe0c1b413068470b5614c99096b2a]
+### 9. Reporting of test results[^c-588fe0c1b413068470b5614c99096b2a]
 
 Operators must report to the Welsh Ministers the results of any tests carried out pursuant to any of the following Articles of the EU Implementing Regulation which fail to meet the standards required by those Articles—
 
@@ -145,7 +145,7 @@ Operators must report to the Welsh Ministers the results of any tests carried ou
 
 ## PART 3 — Staining
 
-### 10. Staining[^key-8503e5ce12db1383311b87d0f3672e1f]
+### 10. Staining[^c-8503e5ce12db1383311b87d0f3672e1f]
 
 (1) This regulation applies to the operators of—
 
@@ -187,20 +187,20 @@ Operators must report to the Welsh Ministers the results of any tests carried ou
 - (d) any animal by-product which is moved immediately after generation to a processing or incineration establishment or plant approved under the EU Control Regulation via a sealed and leak-proof pipe; or
 - (e) a whole animal body, except a whole poultry body.
 
-(6)[^key-a8a57aa74a7a49b2f2cddaef1c4bd3e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-a8a57aa74a7a49b2f2cddaef1c4bd3e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In paragraph (5)(b) of this regulation “green offal” means the stomach and intestines of an animal and the contents of the digestive tract.
 
 ## PART 4 — Registration and approval
 
-### 11. Procedure for registration of plants and establishments[^key-009f1ca7503aaa6c62d8024b485e8e1f]
+### 11. Procedure for registration of plants and establishments[^c-009f1ca7503aaa6c62d8024b485e8e1f]
 
 A notification must be made in writing to the competent authority where it is made—
 
 - (a) with a view to registration in accordance with Article 23(1) (registration of operators, establishments or plants) of the EU Control Regulation; or
 - (b) to inform the authority of changes in accordance with Article 23(2) of that Regulation.
 
-### 12. Notifications of competent authority in respect of registration[^key-2bda37797a8bb512faba2301c6f5f712]
+### 12. Notifications of competent authority in respect of registration[^c-2bda37797a8bb512faba2301c6f5f712]
 
 The competent authority must give notice in writing to—
 
@@ -212,11 +212,11 @@ The competent authority must give notice in writing to—
   - (ii) a requirement to comply with Article 23(1)(b) or (2) of the EU Control Regulation (information on activities and up-to-date information); or
   - (iii) the amendment of the registration or the ending of the registration where an operator has notified the competent authority of the closure of an establishment in accordance with Article 23(2) (up-to-date information) of the EU Control Regulation.
 
-### 13. Procedure for approval[^key-6d418c0f2d30fb3ea9a8974aa93045c4]
+### 13. Procedure for approval[^c-6d418c0f2d30fb3ea9a8974aa93045c4]
 
 Operators to whom Article 24(1) (approval of establishments or plants) of the EU Control Regulation applies, must apply in writing to the competent authority for approval, including approval after the grant of temporary approval where Article 33 of the EU Implementing Regulation (re-approval of plants and establishments after the grant of temporary approval) applies.
 
-### 14. Notification in respect of decisions on approval[^key-5d78bba0c9ff92867745ec561e9e406c]
+### 14. Notification in respect of decisions on approval[^c-5d78bba0c9ff92867745ec561e9e406c]
 
 The competent authority must give notice in writing to—
 
@@ -238,7 +238,7 @@ The competent authority must give notice in writing to—
   - (iii) making of a prohibition in accordance with Article 46(2) of the EU Control Regulation; or
   - (iv) withdrawal of such approval in accordance with Article 46(1)(b) of the EU Control Regulation.
 
-### 15. Reasons for decisions[^key-f9ace9535cb9d6b64fcff9569df7a9da]
+### 15. Reasons for decisions[^c-f9ace9535cb9d6b64fcff9569df7a9da]
 
 (1) Where a decision is made by the competent authority and notified in accordance with regulation 12 or regulation 14, the competent authority must give reasons in writing for that decision.
 
@@ -248,7 +248,7 @@ The competent authority must give notice in writing to—
 - (b) regulation 14(a)(i); or
 - (c) regulation 14(b)(i) or (ii).
 
-### 16. Appeals procedure[^key-62f367c817c568876102215d211ae303]
+### 16. Appeals procedure[^c-62f367c817c568876102215d211ae303]
 
 (1) Where the competent authority has made a notification to which regulation 15(1) applies, a person may appeal against it by making written representations, within 21 days of the issuing of notification of that decision, to a person appointed for the purpose by the Welsh Ministers.
 
@@ -260,11 +260,11 @@ The competent authority must give notice in writing to—
 
 ## PART 5 — Offences and penalties
 
-### 17. Compliance with animal by-product requirements[^key-e28c851d15e37e361157412f80ea6dd8]
+### 17. Compliance with animal by-product requirements[^c-e28c851d15e37e361157412f80ea6dd8]
 
 A person who fails to comply with an animal by-product requirement commits an offence.
 
-### 18. Obstruction[^key-662f66dab5fc551a3b17f41b0093a182]
+### 18. Obstruction[^c-662f66dab5fc551a3b17f41b0093a182]
 
 It is an offence—
 
@@ -273,7 +273,7 @@ It is an offence—
 - (c) knowingly or recklessly to give false or misleading information to an authorised person; or
 - (d) to fail to produce a record or document when required to do so by an authorised person.
 
-### 19. Corporate, partnership and unincorporated association offences[^key-4ff65330cd5999fcf9910f9eca9dbef5]
+### 19. Corporate, partnership and unincorporated association offences[^c-4ff65330cd5999fcf9910f9eca9dbef5]
 
 (1) Where—
 
@@ -300,16 +300,16 @@ the relevant individual as well as the body corporate, partnership, Scottish par
 
 (5) A fine imposed on a partnership or unincorporated association on its conviction of an offence under these Regulations is to be paid out of the funds of the partnership or association.
 
-### 20. Penalties[^key-2f86e33dac303db70e6feda1e947bdd3]
+### 20. Penalties[^c-2f86e33dac303db70e6feda1e947bdd3]
 
 A person guilty of an offence under these Regulations is liable—
 
-- (a) on summary conviction, to a fine [^key-469b2935d5a6196101570d3e60961b9d]... or to imprisonment not exceeding three months or both; or
+- (a) on summary conviction, to a fine [^c-469b2935d5a6196101570d3e60961b9d]... or to imprisonment not exceeding three months or both; or
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years, or both.
 
 ## PART 6 — Enforcement
 
-### 21. Enforcement authority[^key-cecf292980dce024885df8d19b4bd583]
+### 21. Enforcement authority[^c-cecf292980dce024885df8d19b4bd583]
 
 (1) Regulation 10 is enforced by—
 
@@ -328,11 +328,11 @@ A person guilty of an offence under these Regulations is liable—
 
 (5) In paragraph (2)(c) “food hygiene establishment” means an establishment referred to in regulation 5(2) of the Food Hygiene (Wales) Regulations 2006[^f00010] in respect of which the Food Standards Agency has enforcement functions under those Regulations.
 
-### 22. Authorised person[^key-7dfea1dd215e2df0a1f1ffb0af3ff71d]
+### 22. Authorised person[^c-7dfea1dd215e2df0a1f1ffb0af3ff71d]
 
 An enforcement authority may authorise in writing such persons as the authority considers appropriate to act for the purpose of enforcing these Regulations.
 
-### 23. Powers of entry and additional powers[^key-99ee7a72a4fce10c8c53c92251fff6c5]
+### 23. Powers of entry and additional powers[^c-99ee7a72a4fce10c8c53c92251fff6c5]
 
 (1) An authorised person may, on production of that person’s authority if so required for the purpose of enforcing these Regulations, the EU Control Regulation and the EU Implementing Regulation—
 
@@ -370,7 +370,7 @@ An enforcement authority may authorise in writing such persons as the authority 
 
 (7) Nothing in this regulation compels the production by any person of a document which that person would be entitled to withhold production of on the grounds of legal professional privilege on an order for discovery in an action in the High Court.
 
-### 24. Warrant[^key-fce7aa8d9709f699aa8fbd3d57a55548]
+### 24. Warrant[^c-fce7aa8d9709f699aa8fbd3d57a55548]
 
 (1) If, in relation to the power to enter premises under regulation 23, a justice of the peace, on written information on oath—
 
@@ -392,7 +392,7 @@ An enforcement authority may authorise in writing such persons as the authority 
 
 (3) Where an authorised person has been authorised under paragraph (2) to enter by warrant, the authorised person has the powers conferred by regulation 23(1)(b) to (i).
 
-### 25. Notices served by an authorised person[^key-1a82b7b2c7fd68b5ba9756a06a9e47ac]
+### 25. Notices served by an authorised person[^c-1a82b7b2c7fd68b5ba9756a06a9e47ac]
 
 (1) An authorised person may serve a notice in accordance with paragraph (2) where that person—
 
@@ -415,7 +415,7 @@ An enforcement authority may authorise in writing such persons as the authority 
 
 (5) Any person on whom a notice is served who intentionally contravenes or fails to comply with the provisions of that notice is guilty of an offence.
 
-### 26. Power to disclose information for enforcement purposes[^key-371b19ccfb5a194ef685b2164e0706b3]
+### 26. Power to disclose information for enforcement purposes[^c-371b19ccfb5a194ef685b2164e0706b3]
 
 (1) This regulation applies to information received by an enforcement authority or an authorised person in the course of enforcing these Regulations.
 
@@ -423,13 +423,13 @@ An enforcement authority may authorise in writing such persons as the authority 
 
 ## PART 7 — Consequential amendments
 
-### 27. Consequential amendments[^key-7cf199e45a667aae9183b54f6fdd9d2a]
+### 27. Consequential amendments[^c-7cf199e45a667aae9183b54f6fdd9d2a]
 
 Schedule 2 to these Regulations provides for consequential amendments.
 
 ## PART 8 — Revocations and transitional provision
 
-### 28. Revocations[^key-0189cbd286aec42f887ca21a18c6ee8d]
+### 28. Revocations[^c-0189cbd286aec42f887ca21a18c6ee8d]
 
 The following instruments are revoked—
 
@@ -441,9 +441,9 @@ The following instruments are revoked—
   - (i) the Animal By-Products (Identification) Regulations 1995[^f00015];
   - (ii) the Animal By-Products (Identification) (Amendment) Regulations 1997[^f00016].
 
-### 29. Transitional provision[^key-0b45fd514b0cf5aebca21ef5c3778972]
+### 29. Transitional provision[^c-0b45fd514b0cf5aebca21ef5c3778972]
 
-(1) The collection, transport and disposal of Category 3 material in Article 10(f) of the EU Control Regulation (Category 3 material) is authorised [^key-9f174d2f8566b0a3f3abedb1db1b148a]... where the requirements of paragraph (2) are satisfied.
+(1) The collection, transport and disposal of Category 3 material in Article 10(f) of the EU Control Regulation (Category 3 material) is authorised [^c-9f174d2f8566b0a3f3abedb1db1b148a]... where the requirements of paragraph (2) are satisfied.
 
 (2) The requirements are—
 
@@ -458,7 +458,7 @@ one of the Welsh Ministers
 
 Minister for Natural Resources and Food,
 
-## SCHEDULE 1 — Animal By-Product Requirements[^key-58aa09928cca18deea18d1e282e5e589]
+## SCHEDULE 1 — Animal By-Product Requirements[^c-58aa09928cca18deea18d1e282e5e589]
 
 Regulation 2
 
@@ -480,7 +480,7 @@ Regulation 2
 | 14\. Own checks | Article 28 of the EU Control Regulation |  |
 | 15\. Hazard analysis and critical control points | Article 29(1) to (3) of the EU Control Regulation |  |
 | 16\. Placing on the market animal by-products and derived products for feeding to farmed animals excluding fur animals | Article 31(1) of the EU Control Regulation | Articles 21 and 24(2) of the EU Implementing Regulation |
-| 17\. Placing on the market and use of organic fertilisers and soil improvers | Article 32(1) and (2) of the EU Control Regulation | Regulation 5 of these Regulations and Articles 22(1) to (3) [^key-567d7b56c71d7897d78292a4bf69c5ac]... of the EU Implementing Regulation |
+| 17\. Placing on the market and use of organic fertilisers and soil improvers | Article 32(1) and (2) of the EU Control Regulation | Regulation 5 of these Regulations and Articles 22(1) to (3) [^c-567d7b56c71d7897d78292a4bf69c5ac]... of the EU Implementing Regulation |
 | 18\. Collection and movement for manufacture of derived products | Article 34 of the EU Control Regulation except in so far as it relates to imports | Article 33 of the EU Control Regulation and Article 23 of the EU Implementing Regulation |
 | 19\. Prohibition on use for manufacture for products not within Article 33 or 36 of the EU Control Regulation | Article 24(1) of the EU Implementing Regulation | Articles 33 and 36 of the EU Control Regulation |
 | 20\. Placing on the market of pet food | Article 35 of the EU Control Regulation | Articles 3 and 24(3) of the EU Implementing Regulation |
@@ -494,7 +494,7 @@ Regulation 2
 
 Regulation 27
 
-### 1. The Foot-and-Mouth Disease (Wales) Order 2006[^key-4077a6fce51499bbd7f0727d9b365a5d]
+### 1. The Foot-and-Mouth Disease (Wales) Order 2006[^c-4077a6fce51499bbd7f0727d9b365a5d]
 
 (1) The Foot-and-Mouth Disease (Wales) Order 2006[^f00017] is amended as follows.
 
@@ -523,7 +523,7 @@ Regulation 27
 - (e) for paragraph 7, substitute “Petfood and dog chews fall within this paragraph if they comply with Chapter II of Annex XIII to Regulation (EU) No. 142/2011”; and
 - (f) for paragraph 8, substitute “Game trophies of ungulates fall within this paragraph if they comply with the requirements of Chapter VI of Annex XIII to Regulation (EU) No. 142/2011”.
 
-### 2. The Foot-and-Mouth Disease (Control of Vaccination) (Wales) Regulations 2006[^key-161a616378306b00ac606097def7599f]
+### 2. The Foot-and-Mouth Disease (Control of Vaccination) (Wales) Regulations 2006[^c-161a616378306b00ac606097def7599f]
 
 For paragraph 18(4) of the Schedule to the Foot-and-Mouth Disease (Control of Vaccination) (Wales) Regulations 2006[^f00018] substitute—
 
@@ -532,7 +532,7 @@ For paragraph 18(4) of the Schedule to the Foot-and-Mouth Disease (Control of Va
 > - (a) Articles 15 and 32 of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council; and
 > - (b) Articles 10 and 22 of and Section 2 of Chapter I of Annex XI to Commission Regulation (EU) No. 142/2011 implementing Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council.
 
-### 3. The Avian Influenza (H5N1 in Poultry) (Wales) Order 2006[^key-2344c837d2096a55e59389f84931b41d]
+### 3. The Avian Influenza (H5N1 in Poultry) (Wales) Order 2006[^c-2344c837d2096a55e59389f84931b41d]
 
 (1) The Avian Influenza (H5N1 in Poultry) (Wales) Order 2006[^f00019] is amended as follows.
 
@@ -589,7 +589,7 @@ For paragraph 18(4) of the Schedule to the Foot-and-Mouth Disease (Control of Va
 - (b) for paragraph (3), substitute “No person is to move any bird by-product referred to in paragraph (2)(a) to (i) unless it has been processed at a processing plant in accordance with Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) and Annex IV to Regulation (EU) No. 142/2011;” and
 - (c) for paragraph (4), substitute “By-products from poultry referred to in paragraphs (2)(p) and (q), must be accompanied by the commercial document in accordance with Chapter III of Annex VIII to Regulation (EU) No. 142/2011.”
 
-### 4. The Avian Influenza (H5N1 in Wild Birds) (Wales) Order 2006[^key-0488d80f0a995fcd5aa042390555ad7c]
+### 4. The Avian Influenza (H5N1 in Wild Birds) (Wales) Order 2006[^c-0488d80f0a995fcd5aa042390555ad7c]
 
 (1) The Avian Influenza (H5N1 in Wild Birds) (Wales) Order 2006[^f00020] is amended as follows.
 
@@ -650,7 +650,7 @@ For paragraph 18(4) of the Schedule to the Foot-and-Mouth Disease (Control of Va
 - (d) for paragraph 14(a), substitute “the movement is to an establishment for treatment in accordance with Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011”;
 - (e) for paragraph 15(a), substitute “it has been treated in accordance with Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011”.
 
-### 5. The Cattle Identification (Wales) Regulations 2007[^key-88c623eb61d335a21fa569e7fcd9d22a]
+### 5. The Cattle Identification (Wales) Regulations 2007[^c-88c623eb61d335a21fa569e7fcd9d22a]
 
 For paragraph 3(3) of Schedule 3 to the Cattle Identification (Wales) Regulations 2007[^f00021], substitute—
 
@@ -661,19 +661,19 @@ For paragraph 3(3) of Schedule 3 to the Cattle Identification (Wales) Regulation
 
 .
 
-### 6. The Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^key-59cef2c32edfe733ef4abf45e4861090]
+### 6. The Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^c-59cef2c32edfe733ef4abf45e4861090]
 
 In Part 2 of the Schedule to the Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^f00022], under the cross-heading “animal health and welfare” after the entry “Animal By-Products (Enforcement) (England) Regulations 2013” insert “Animal By-Products (Enforcement) (Wales) Regulations 2014”.
 
-### 7. The Transmissible Spongiform Encephalopathies (Wales) Regulations 2008[^key-ad0675603e3b41a27d131265f47e9c8c]
+### 7. The Transmissible Spongiform Encephalopathies (Wales) Regulations 2008[^c-ad0675603e3b41a27d131265f47e9c8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. The Animal Gatherings (Wales) Order 2010[^key-b2986a8f84a7049a71268f3be80d96a8]
+### 8. The Animal Gatherings (Wales) Order 2010[^c-b2986a8f84a7049a71268f3be80d96a8]
 
 For article 8(2) of the Animal Gatherings (Wales) Order 2010[^f00024], insert “This article does not apply to any material required to be disposed of under Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council”.
 
-### 9. The Environmental Permitting (England and Wales) Regulations 2010[^key-655b3fa7b5c9bf5a2f601279d2aac6c4]
+### 9. The Environmental Permitting (England and Wales) Regulations 2010[^c-655b3fa7b5c9bf5a2f601279d2aac6c4]
 
 (1) The Environmental Permitting (England and Wales) Regulations 2010[^f00025] are amended as follows.
 
@@ -719,79 +719,79 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: OJ No. L 54 26.2.2011, p. 1, last amended by Commission Regulation (EU) No. 717/2013 (OJ No. L 201, 26.7.2013, p. 31).
 
-[^key-eb6cfd5c5e02fbd25eaa03a0c102f8c6]: Commencement: Reg. 1 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-eb6cfd5c5e02fbd25eaa03a0c102f8c6]: Commencement: Reg. 1 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-9fd4d9f49a72a8520a09a5fc49eb3035]: Commencement: Reg. 2 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-9fd4d9f49a72a8520a09a5fc49eb3035]: Commencement: Reg. 2 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
 [^f00004]: Footnote: OJ No. L 300, 14.11.2009, p. 1, amended by Directive No. 2010/63/EU of the European Parliament and of the Council (OJ No. 276, 20.10.2010, p. 33).
 
 [^f00005]: Footnote: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32).
 
-[^key-52762937aa1a2db96be1fa4f862e3b87]: Commencement: Reg. 3 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-52762937aa1a2db96be1fa4f862e3b87]: Commencement: Reg. 3 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-0db2a34bd2fcdc365588c28e9b989816]: Commencement: Reg. 4 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-0db2a34bd2fcdc365588c28e9b989816]: Commencement: Reg. 4 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-2e20c66ff4aa3854d44da7968400b375]: Commencement: Reg. 5 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-2e20c66ff4aa3854d44da7968400b375]: Commencement: Reg. 5 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-c471e228db57d4bb14cf2c306f9b699d]: Commencement: Reg. 6 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-c471e228db57d4bb14cf2c306f9b699d]: Commencement: Reg. 6 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-97f9e0c1c37001f53c10c7c25cec6525]: Commencement: Reg. 7 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-97f9e0c1c37001f53c10c7c25cec6525]: Commencement: Reg. 7 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-2e72f854b9e23a55570a5a6d437f48a6]: Commencement: Reg. 8 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-2e72f854b9e23a55570a5a6d437f48a6]: Commencement: Reg. 8 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-588fe0c1b413068470b5614c99096b2a]: Commencement: Reg. 9 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-588fe0c1b413068470b5614c99096b2a]: Commencement: Reg. 9 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-8503e5ce12db1383311b87d0f3672e1f]: Commencement: Reg. 10 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-8503e5ce12db1383311b87d0f3672e1f]: Commencement: Reg. 10 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2006/31 (W. 5)](https://www.legislation.gov.uk/wsi/2006/31) to which there are amendments not relevant to these Regulations.
 
-[^key-a8a57aa74a7a49b2f2cddaef1c4bd3e2]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/wsi/2014/517/regulation/10/6) omitted (31.12.2020) by virtue of [The Animal By-Products and Transmissible Spongiform Encephalopathies (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/94)](https://www.legislation.gov.uk/wsi/2019/94), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/94/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2019/94/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a8a57aa74a7a49b2f2cddaef1c4bd3e2]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/wsi/2014/517/regulation/10/6) omitted (31.12.2020) by virtue of [The Animal By-Products and Transmissible Spongiform Encephalopathies (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/94)](https://www.legislation.gov.uk/wsi/2019/94), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/94/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2019/94/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-009f1ca7503aaa6c62d8024b485e8e1f]: Commencement: Reg. 11 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-009f1ca7503aaa6c62d8024b485e8e1f]: Commencement: Reg. 11 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-2bda37797a8bb512faba2301c6f5f712]: Commencement: Reg. 12 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-2bda37797a8bb512faba2301c6f5f712]: Commencement: Reg. 12 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-6d418c0f2d30fb3ea9a8974aa93045c4]: Commencement: Reg. 13 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-6d418c0f2d30fb3ea9a8974aa93045c4]: Commencement: Reg. 13 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-5d78bba0c9ff92867745ec561e9e406c]: Commencement: Reg. 14 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-5d78bba0c9ff92867745ec561e9e406c]: Commencement: Reg. 14 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-f9ace9535cb9d6b64fcff9569df7a9da]: Commencement: Reg. 15 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-f9ace9535cb9d6b64fcff9569df7a9da]: Commencement: Reg. 15 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-62f367c817c568876102215d211ae303]: Commencement: Reg. 16 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-62f367c817c568876102215d211ae303]: Commencement: Reg. 16 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-e28c851d15e37e361157412f80ea6dd8]: Commencement: Reg. 17 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-e28c851d15e37e361157412f80ea6dd8]: Commencement: Reg. 17 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-662f66dab5fc551a3b17f41b0093a182]: Commencement: Reg. 18 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-662f66dab5fc551a3b17f41b0093a182]: Commencement: Reg. 18 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-4ff65330cd5999fcf9910f9eca9dbef5]: Commencement: Reg. 19 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-4ff65330cd5999fcf9910f9eca9dbef5]: Commencement: Reg. 19 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
 [^f00007]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Subsections (1), (2) and (5) of section 33 were repealed by the Magistrates Courts Act [1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55) section 132 and Schedule 6; subsection (3) was amended by the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), section 56(1) and Schedule 8, Part 2, paragraph 19; subsection (4) was partially repealed by the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) section 109(1) and (3), Schedule 8, paragraph 71 and Schedule 10
 
 [^f00008]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Paragraphs 2(a) and 5 were repealed by the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44); paragraph 2(a) was repealed by sections 41, 332, Schedule 3 Part 2, paragraph 51(1), (13)(a) and Schedule 37, Part 4; paragraph 5 was repealed by, sections 25(2) and 101(2) and Schedule 13; paragraph 6 of Schedule 3 was amended by the Criminal Justice Act 2003 section 41, Schedule 3, Part 2, paragraphs 51(1) and (13)(b).
 
-[^key-2f86e33dac303db70e6feda1e947bdd3]: Commencement: Reg. 20 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-2f86e33dac303db70e6feda1e947bdd3]: Commencement: Reg. 20 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-469b2935d5a6196101570d3e60961b9d]: Textual amendment: Words in [reg. 20(a)](https://www.legislation.gov.uk/wsi/2014/517/regulation/20/a) omitted (1.10.2018) by virtue of [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2018 (S.I. 2018/968)](https://www.legislation.gov.uk/wsi/2018/968), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/968/regulation/1/3), [23(2)(a)](https://www.legislation.gov.uk/wsi/2018/968/regulation/23/2/a)
+[^c-469b2935d5a6196101570d3e60961b9d]: Textual amendment: Words in [reg. 20(a)](https://www.legislation.gov.uk/wsi/2014/517/regulation/20/a) omitted (1.10.2018) by virtue of [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2018 (S.I. 2018/968)](https://www.legislation.gov.uk/wsi/2018/968), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/968/regulation/1/3), [23(2)(a)](https://www.legislation.gov.uk/wsi/2018/968/regulation/23/2/a)
 
-[^key-cecf292980dce024885df8d19b4bd583]: Commencement: Reg. 21 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-cecf292980dce024885df8d19b4bd583]: Commencement: Reg. 21 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
 [^f00009]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
 [^f00010]: Footnote: [S.I. 2006/31 (W. 5)](https://www.legislation.gov.uk/wsi/2006/31).
 
-[^key-7dfea1dd215e2df0a1f1ffb0af3ff71d]: Commencement: Reg. 22 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-7dfea1dd215e2df0a1f1ffb0af3ff71d]: Commencement: Reg. 22 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-99ee7a72a4fce10c8c53c92251fff6c5]: Commencement: Reg. 23 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-99ee7a72a4fce10c8c53c92251fff6c5]: Commencement: Reg. 23 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-fce7aa8d9709f699aa8fbd3d57a55548]: Commencement: Reg. 24 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-fce7aa8d9709f699aa8fbd3d57a55548]: Commencement: Reg. 24 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-1a82b7b2c7fd68b5ba9756a06a9e47ac]: Commencement: Reg. 25 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-1a82b7b2c7fd68b5ba9756a06a9e47ac]: Commencement: Reg. 25 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-371b19ccfb5a194ef685b2164e0706b3]: Commencement: Reg. 26 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-371b19ccfb5a194ef685b2164e0706b3]: Commencement: Reg. 26 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-7cf199e45a667aae9183b54f6fdd9d2a]: Commencement: Reg. 27 in force at 28.3.2014 immediately after the coming into force of the other regulations and schedule, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3)
+[^c-7cf199e45a667aae9183b54f6fdd9d2a]: Commencement: Reg. 27 in force at 28.3.2014 immediately after the coming into force of the other regulations and schedule, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3)
 
-[^key-0189cbd286aec42f887ca21a18c6ee8d]: Commencement: Reg. 28 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-0189cbd286aec42f887ca21a18c6ee8d]: Commencement: Reg. 28 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 2002/1472 (W. 146)](https://www.legislation.gov.uk/wsi/2002/1472).
 
@@ -805,44 +805,44 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00016]: Footnote: [S.I. 1997/2073](https://www.legislation.gov.uk/uksi/1997/2073).
 
-[^key-0b45fd514b0cf5aebca21ef5c3778972]: Commencement: Reg. 29 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-0b45fd514b0cf5aebca21ef5c3778972]: Commencement: Reg. 29 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-9f174d2f8566b0a3f3abedb1db1b148a]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/wsi/2014/517/regulation/29/1) omitted (1.10.2018) by virtue of [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2018 (S.I. 2018/968)](https://www.legislation.gov.uk/wsi/2018/968), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/968/regulation/1/3), [23(2)(b)](https://www.legislation.gov.uk/wsi/2018/968/regulation/23/2/b)
+[^c-9f174d2f8566b0a3f3abedb1db1b148a]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/wsi/2014/517/regulation/29/1) omitted (1.10.2018) by virtue of [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2018 (S.I. 2018/968)](https://www.legislation.gov.uk/wsi/2018/968), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/968/regulation/1/3), [23(2)(b)](https://www.legislation.gov.uk/wsi/2018/968/regulation/23/2/b)
 
-[^key-58aa09928cca18deea18d1e282e5e589]: Commencement: Sch. 1 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
+[^c-58aa09928cca18deea18d1e282e5e589]: Commencement: Sch. 1 in force at 28.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)
 
-[^key-567d7b56c71d7897d78292a4bf69c5ac]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2014/517/schedule/1) omitted (28.3.2019) by virtue of [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [14](https://www.legislation.gov.uk/wsi/2019/463/regulation/14)
+[^c-567d7b56c71d7897d78292a4bf69c5ac]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2014/517/schedule/1) omitted (28.3.2019) by virtue of [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [14](https://www.legislation.gov.uk/wsi/2019/463/regulation/14)
 
-[^key-4077a6fce51499bbd7f0727d9b365a5d]: Commencement: Sch. 2 para. 1 in force at 28.3.2014 immediately after the coming into force of the other regulations and schedule, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3)
+[^c-4077a6fce51499bbd7f0727d9b365a5d]: Commencement: Sch. 2 para. 1 in force at 28.3.2014 immediately after the coming into force of the other regulations and schedule, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3)
 
 [^f00017]: Footnote: [S.I. 2006/179 (W. 30)](https://www.legislation.gov.uk/wsi/2006/179), to which there are amendments not relevant to these Regulations.
 
-[^key-161a616378306b00ac606097def7599f]: Commencement: Sch. 2 para. 2 in force at 28.3.2014 immediately after the coming into force of the other regulations and schedule, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3)
+[^c-161a616378306b00ac606097def7599f]: Commencement: Sch. 2 para. 2 in force at 28.3.2014 immediately after the coming into force of the other regulations and schedule, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3)
 
 [^f00018]: Footnote: [S.I. 2006/180 (W. 31)](https://www.legislation.gov.uk/wsi/2006/180), to which there are amendments not relevant to these Regulations.
 
-[^key-2344c837d2096a55e59389f84931b41d]: Commencement: Sch. 2 para. 3 in force at 28.3.2014 immediately after the coming into force of the other regulations and schedule, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3)
+[^c-2344c837d2096a55e59389f84931b41d]: Commencement: Sch. 2 para. 3 in force at 28.3.2014 immediately after the coming into force of the other regulations and schedule, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3)
 
 [^f00019]: Footnote: [S.I. 2006/3309.(W. 299)](https://www.legislation.gov.uk/wsi/2006/3309), to which there are amendments not relevant to these Regulations.
 
-[^key-0488d80f0a995fcd5aa042390555ad7c]: Commencement: Sch. 2 para. 4 in force at 28.3.2014 immediately after the coming into force of the other regulations and schedule, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3)
+[^c-0488d80f0a995fcd5aa042390555ad7c]: Commencement: Sch. 2 para. 4 in force at 28.3.2014 immediately after the coming into force of the other regulations and schedule, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3)
 
 [^f00020]: Footnote: [S.I. 2006/3310 (W. 300)](https://www.legislation.gov.uk/wsi/2006/3310), to which there are amendments not relevant to these Regulations.
 
-[^key-88c623eb61d335a21fa569e7fcd9d22a]: Commencement: Sch. 2 para. 5 in force at 28.3.2014 immediately after the coming into force of the other regulations and schedule, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3)
+[^c-88c623eb61d335a21fa569e7fcd9d22a]: Commencement: Sch. 2 para. 5 in force at 28.3.2014 immediately after the coming into force of the other regulations and schedule, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3)
 
 [^f00021]: Footnote: [S.I. 2007/842 (W. 74)](https://www.legislation.gov.uk/wsi/2007/842), to which there are amendments not relevant to these Regulations.
 
-[^key-59cef2c32edfe733ef4abf45e4861090]: Commencement: Sch. 2 para. 6 in force at 28.3.2014 immediately after the coming into force of the other regulations and schedule, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3)
+[^c-59cef2c32edfe733ef4abf45e4861090]: Commencement: Sch. 2 para. 6 in force at 28.3.2014 immediately after the coming into force of the other regulations and schedule, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3)
 
 [^f00022]: Footnote: [S.I. 2007/3544](https://www.legislation.gov.uk/uksi/2007/3544), amended by [S.I. 2009/ 2981](https://www.legislation.gov.uk/uksi/2009/2981); there are other amending instruments but none is relevant.
 
-[^key-ad0675603e3b41a27d131265f47e9c8c]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/7) omitted (1.10.2018) by virtue of [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2018 (S.I. 2018/968)](https://www.legislation.gov.uk/wsi/2018/968), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/968/regulation/1/3), [23(2)(c)](https://www.legislation.gov.uk/wsi/2018/968/regulation/23/2/c)
+[^c-ad0675603e3b41a27d131265f47e9c8c]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/7) omitted (1.10.2018) by virtue of [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2018 (S.I. 2018/968)](https://www.legislation.gov.uk/wsi/2018/968), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/968/regulation/1/3), [23(2)(c)](https://www.legislation.gov.uk/wsi/2018/968/regulation/23/2/c)
 
-[^key-b2986a8f84a7049a71268f3be80d96a8]: Commencement: Sch. 2 para. 8 in force at 28.3.2014 immediately after the coming into force of the other regulations and schedule, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3)
+[^c-b2986a8f84a7049a71268f3be80d96a8]: Commencement: Sch. 2 para. 8 in force at 28.3.2014 immediately after the coming into force of the other regulations and schedule, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3)
 
 [^f00024]: Footnote: [S.I. 2010/900 (W. 93)](https://www.legislation.gov.uk/wsi/2010/900).
 
-[^key-655b3fa7b5c9bf5a2f601279d2aac6c4]: Commencement: Sch. 2 para. 9 in force at 28.3.2014 immediately after the coming into force of the other regulations and schedule, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3)
+[^c-655b3fa7b5c9bf5a2f601279d2aac6c4]: Commencement: Sch. 2 para. 9 in force at 28.3.2014 immediately after the coming into force of the other regulations and schedule, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3)
 
 [^f00025]: Footnote: [S.I. 2010/675](https://www.legislation.gov.uk/uksi/2010/675) amended by [S.I. 2010/2172](https://www.legislation.gov.uk/uksi/2010/2172), [2011/988](https://www.legislation.gov.uk/uksi/2011/988) and [2013/390](https://www.legislation.gov.uk/uksi/2013/390); there are other amending instruments but none is relevant.

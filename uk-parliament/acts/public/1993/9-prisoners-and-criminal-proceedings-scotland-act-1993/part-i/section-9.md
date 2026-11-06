@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-00459c6d50b6a2bedbfda63810f7ca15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-00459c6d50b6a2bedbfda63810f7ca15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-b27a4fe967c6c9ac3366dd93bcfa0771] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-b27a4fe967c6c9ac3366dd93bcfa0771] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In relation to a person who is liable to removal from the United Kingdom, section 12 of this Act shall have effect as if subsection (2) were omitted.
 
@@ -42,9 +42,9 @@ summary: ''
 
     Ss. 1, 1A, 2(4), 3A, 5, 6(1)(a)(b)(i)(iii), 7, 9, 16, 20, 21, 26A, 27, Schs. 2, 6 extended (30.9.1998) by [1997 c. 43](https://www.legislation.gov.uk/ukpga/1997/43), [ss. 41](https://www.legislation.gov.uk/ukpga/1997/43/section/41), [56(1)](https://www.legislation.gov.uk/ukpga/1997/43/section/56/1), [Sch. 1 Pt. II paras. 10(2)(a)(5)(a)(6)(7)](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/part/II/paragraph/10/2/a/5/a/6/7), [11(2)(a)(4)(a)(6)](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/part/II/paragraph/11/2/a/4/a/6) (subject to [art. 5](https://www.legislation.gov.uk/ukpga/1997/43/article/5)) (as amended (30.9.1998) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [s. 119](https://www.legislation.gov.uk/ukpga/1998/37/section/119), [Sch. 8 paras. 135(5)(a)(d)(f)(6)(a)(b)](https://www.legislation.gov.uk/ukpga/1998/37/schedule/8/paragraph/135/5/a/d/f/6/a/b); [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [art. 2(1)(y)(2)(oo)](https://www.legislation.gov.uk/uksi/1998/2327/article/2/1/y/2/oo) (subject to [arts. 5-8](https://www.legislation.gov.uk/uksi/1998/2327/article/5)))
 
-[^key-00459c6d50b6a2bedbfda63810f7ca15]: Textual amendment: S. 9(1) repealed (1.10.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 54(3)](https://www.legislation.gov.uk/asp/2019/14/section/54/3), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(p)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/p)
+[^c-00459c6d50b6a2bedbfda63810f7ca15]: Textual amendment: S. 9(1) repealed (1.10.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 54(3)](https://www.legislation.gov.uk/asp/2019/14/section/54/3), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(p)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/p)
 
-[^key-b27a4fe967c6c9ac3366dd93bcfa0771]: Textual amendment: S. 9(1A) omitted (30.4.2021) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 52(14)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/52/14)
+[^c-b27a4fe967c6c9ac3366dd93bcfa0771]: Textual amendment: S. 9(1A) omitted (30.4.2021) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 52(14)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/52/14)
 
 [^c12924431]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 

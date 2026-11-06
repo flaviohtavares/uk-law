@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 255. Secured creditors[^key-3775c6342129647b3bb6e91668da3b46]
+## 255. Secured creditors[^c-3775c6342129647b3bb6e91668da3b46]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 11.9 of the 1986 Rules.
 
 ## Annotations
 
-[^key-3775c6342129647b3bb6e91668da3b46]: Commencement: Rule 255 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-3775c6342129647b3bb6e91668da3b46]: Commencement: Rule 255 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 112. Power of court to set aside certain transactions[^key-2372acd26126bd66025750cedd7e57fd]
+## 112. Power of court to set aside certain transactions[^c-2372acd26126bd66025750cedd7e57fd]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2372acd26126bd66025750cedd7e57fd]: Commencement: Rule 112 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-2372acd26126bd66025750cedd7e57fd]: Commencement: Rule 112 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

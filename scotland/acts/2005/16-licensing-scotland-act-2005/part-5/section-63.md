@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Prohibition of sale, consumption and taking away of alcohol outwith licensed hours[^key-f24b112f102c08f95f13b45936662c25]
+## 63. Prohibition of sale, consumption and taking away of alcohol outwith licensed hours[^c-f24b112f102c08f95f13b45936662c25]
 
 *Extent: S*
 
@@ -40,7 +40,7 @@ summary: ''
   - (i) during that period,
   - (ii) at the same time as the meal, and
   - (iii) for consumption at the meal,
-- (f) sell alcohol or allow alcohol to be sold on or taken from[^key-f70df8511e97eacb3c609cb561682367] licensed premises outwith licensed hours if the alcohol is sold to—
+- (f) sell alcohol or allow alcohol to be sold on or taken from[^c-f70df8511e97eacb3c609cb561682367] licensed premises outwith licensed hours if the alcohol is sold to—
   - (i) a person who is a trader for the purposes of the person's trade, or
   - (ii) a person for supply to or on any premises which are occupied for the purposes of the armed forces of the Crown.
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f24b112f102c08f95f13b45936662c25]: Commencement: S. 63 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-f24b112f102c08f95f13b45936662c25]: Commencement: S. 63 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
-[^key-f70df8511e97eacb3c609cb561682367]: Textual amendment: Words in s. 63(2)(f) inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 188(2)](https://www.legislation.gov.uk/asp/2010/13/section/188/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-f70df8511e97eacb3c609cb561682367]: Textual amendment: Words in s. 63(2)(f) inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 188(2)](https://www.legislation.gov.uk/asp/2010/13/section/188/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

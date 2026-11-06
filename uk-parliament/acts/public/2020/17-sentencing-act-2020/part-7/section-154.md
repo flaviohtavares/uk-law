@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Vehicle to be treated as used for purpose of certain offences[^key-130dd201e0aca5ccc5feafe649f63061]
+## 154. Vehicle to be treated as used for purpose of certain offences[^c-130dd201e0aca5ccc5feafe649f63061]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-130dd201e0aca5ccc5feafe649f63061]: Commencement: S. 154 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-130dd201e0aca5ccc5feafe649f63061]: Commencement: S. 154 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

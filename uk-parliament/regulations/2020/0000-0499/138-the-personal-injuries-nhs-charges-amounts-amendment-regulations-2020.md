@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England And Wales
 
-The Personal Injuries (NHS Charges) (Amounts) (Amendment) Regulations 2020 (revoked)[^key-b927293b2001a367c4ab0d31be9cfea6]
+The Personal Injuries (NHS Charges) (Amounts) (Amendment) Regulations 2020 (revoked)[^c-b927293b2001a367c4ab0d31be9cfea6]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st April 2020
 
-[^key-b927293b2001a367c4ab0d31be9cfea6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b927293b2001a367c4ab0d31be9cfea6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-b927293b2001a367c4ab0d31be9cfea6]
+## 1. Citation, commencement, application and interpretation[^c-b927293b2001a367c4ab0d31be9cfea6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 1 to the principal Regulations[^key-b927293b2001a367c4ab0d31be9cfea6]
+## 2. Amendment of Schedule 1 to the principal Regulations[^c-b927293b2001a367c4ab0d31be9cfea6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-b927293b2001a367c4ab0d31be9cfea6]
+## 3. Revocation[^c-b927293b2001a367c4ab0d31be9cfea6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b927293b2001a367c4ab0d31be9cfea6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b927293b2001a367c4ab0d31be9cfea6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b927293b2001a367c4ab0d31be9cfea6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b927293b2001a367c4ab0d31be9cfea6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b927293b2001a367c4ab0d31be9cfea6]: Textual amendment: Regulations revoked (1.4.2021) by [The Personal Injuries (NHS Charges) (Amounts) (Amendment) Regulations 2021 (S.I. 2021/186)](https://www.legislation.gov.uk/uksi/2021/186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/186/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/186/regulation/3)
+[^c-b927293b2001a367c4ab0d31be9cfea6]: Textual amendment: Regulations revoked (1.4.2021) by [The Personal Injuries (NHS Charges) (Amounts) (Amendment) Regulations 2021 (S.I. 2021/186)](https://www.legislation.gov.uk/uksi/2021/186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/186/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/186/regulation/3)

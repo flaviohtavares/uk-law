@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 23. Amendment of proposals and preparation of draft scheme[^key-e470825e1600832e94e8190055dbc161]
+## 23. Amendment of proposals and preparation of draft scheme[^c-e470825e1600832e94e8190055dbc161]
 
 *Extent: E*
 
@@ -39,4 +39,4 @@ the Commissioners shall consult the Church Buildings Council through its Statuto
 
 ## Annotations
 
-[^key-e470825e1600832e94e8190055dbc161]: Commencement: S. 23 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-e470825e1600832e94e8190055dbc161]: Commencement: S. 23 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

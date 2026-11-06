@@ -46,10 +46,10 @@ a care service, whether by virtue of a contract of employment or any other contr
 
 (4) In this section—
 
-- “care service” has the meaning given by subsection (1)(a), (b), (d), (f), (g), (j) and (m) of section 47 of the[^key-bc110ba7fad3256a551c55cc0a186e64] [Public Services Reform (Scotland) Act 2010 (asp 8](https://www.legislation.gov.uk/asp/2010/8)) as read with paragraphs 1, 2, 4, 6, 7, 11 and 19 of schedule 12 to that Act,
+- “care service” has the meaning given by subsection (1)(a), (b), (d), (f), (g), (j) and (m) of section 47 of the[^c-bc110ba7fad3256a551c55cc0a186e64] [Public Services Reform (Scotland) Act 2010 (asp 8](https://www.legislation.gov.uk/asp/2010/8)) as read with paragraphs 1, 2, 4, 6, 7, 11 and 19 of schedule 12 to that Act,
 - “hospital” and “independent health care service” have the meanings given in section 44, and
 - “**state hospital**” means a hospital provided under section 102(1) of the National Health Service (Scotland) Act 1978 (c. 29).
 
 ## Annotations
 
-[^key-bc110ba7fad3256a551c55cc0a186e64]: Textual amendment: Definition in [s. 46(4)](https://www.legislation.gov.uk/asp/2009/9/section/46/4) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [Sch. 1 para. 20(3)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/20/3)
+[^c-bc110ba7fad3256a551c55cc0a186e64]: Textual amendment: Definition in [s. 46(4)](https://www.legislation.gov.uk/asp/2009/9/section/46/4) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [Sch. 1 para. 20(3)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/20/3)

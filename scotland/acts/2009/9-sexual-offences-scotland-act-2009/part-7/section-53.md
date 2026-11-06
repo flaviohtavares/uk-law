@@ -30,10 +30,10 @@ summary: ''
 
 (2) The offences referred to in subsection (1)(a) are—
 
-- (a)[^key-7780da9dfb142cef4ea67872f768ee5f] rape (at common law),
-- (b)[^key-7780da9dfb142cef4ea67872f768ee5f] clandestine injury to women,
-- (c)[^key-7780da9dfb142cef4ea67872f768ee5f] lewd, indecent or libidinous practice or behaviour,
-- (d)[^key-7780da9dfb142cef4ea67872f768ee5f] any other common law offence which is replaced by an offence under this Act,
+- (a)[^c-7780da9dfb142cef4ea67872f768ee5f] rape (at common law),
+- (b)[^c-7780da9dfb142cef4ea67872f768ee5f] clandestine injury to women,
+- (c)[^c-7780da9dfb142cef4ea67872f768ee5f] lewd, indecent or libidinous practice or behaviour,
+- (d)[^c-7780da9dfb142cef4ea67872f768ee5f] any other common law offence which is replaced by an offence under this Act,
 - (e) an offence under section 3 of the Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39) (intercourse of person in position of trust with child under 16),
 - (f) an offence under section 5(1), (2) or (3) (intercourse with girl under 16) or 6 (indecent behaviour towards girl between 12 and 16) of that Act,
 - (g) an offence under section 3 of the Sexual Offences (Amendment) Act 2000 (c. 44) (abuse of position of trust).
@@ -57,4 +57,4 @@ summary: ''
 
 [^c21053531]: Commencement: S. 53 partly in force; s. 53 not in force at Royal Assent, see s. 62; s. 53(1)(2)(e)-(g)(3)-(5) in force at 1.12.2010 by [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/357/article/2/a)
 
-[^key-7780da9dfb142cef4ea67872f768ee5f]: Commencement: S. 53(2)(a)-(d) in force at 16.12.2013 by [S.S.I. 2013/341](https://www.legislation.gov.uk/ssi/2013/341), [art. 2(b)](https://www.legislation.gov.uk/ssi/2013/341/article/2/b)
+[^c-7780da9dfb142cef4ea67872f768ee5f]: Commencement: S. 53(2)(a)-(d) in force at 16.12.2013 by [S.S.I. 2013/341](https://www.legislation.gov.uk/ssi/2013/341), [art. 2(b)](https://www.legislation.gov.uk/ssi/2013/341/article/2/b)

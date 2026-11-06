@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Notice requirements: decisions to revoke a designation[^key-d0486340fdf27b5c12dd9a698ad9927f][^key-35030f187b2373701a50d320f8e82b79]
+## 16. Notice requirements: decisions to revoke a designation[^c-d0486340fdf27b5c12dd9a698ad9927f][^c-35030f187b2373701a50d320f8e82b79]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d0486340fdf27b5c12dd9a698ad9927f]: Commencement: S. 16 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-d0486340fdf27b5c12dd9a698ad9927f]: Commencement: S. 16 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-35030f187b2373701a50d320f8e82b79]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2024/13/section/16) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-35030f187b2373701a50d320f8e82b79]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2024/13/section/16) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

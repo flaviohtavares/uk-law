@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 143. Notifying potential claimants after bar date has passed[^key-268d9d6c21dabbd79f5a8477349efd1a]
+## 143. Notifying potential claimants after bar date has passed[^c-268d9d6c21dabbd79f5a8477349efd1a]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ unless P submits a claim in accordance with rule 140 within 14 business days of 
 
 ## Annotations
 
-[^key-268d9d6c21dabbd79f5a8477349efd1a]: Commencement: [Rule 143](https://www.legislation.gov.uk/uksi/2011/1301/rule/143) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-268d9d6c21dabbd79f5a8477349efd1a]: Commencement: [Rule 143](https://www.legislation.gov.uk/uksi/2011/1301/rule/143) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

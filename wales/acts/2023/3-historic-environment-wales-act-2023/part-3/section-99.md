@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Application for variation or removal of conditions[^key-7fc1918fcca6826db675436085921323][^key-fdec3871c4ce6ada1553da01c01cb105]
+## 99. Application for variation or removal of conditions[^c-7fc1918fcca6826db675436085921323][^c-fdec3871c4ce6ada1553da01c01cb105]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7fc1918fcca6826db675436085921323]: Commencement: S. 99 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-7fc1918fcca6826db675436085921323]: Commencement: S. 99 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-fdec3871c4ce6ada1553da01c01cb105]: Commencement: [S. 99](https://www.legislation.gov.uk/asc/2023/3/section/99) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-fdec3871c4ce6ada1553da01c01cb105]: Commencement: [S. 99](https://www.legislation.gov.uk/asc/2023/3/section/99) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

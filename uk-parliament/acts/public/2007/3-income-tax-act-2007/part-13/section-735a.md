@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 735A. Section 735: relevant income and benefits relating to foreign deemed income[^key-034b89edf55597b7c3d36c3adf90516f]
+## 735A. Section 735: relevant income and benefits relating to foreign deemed income[^c-034b89edf55597b7c3d36c3adf90516f]
 
 *Extent: E+W+S+N.I.*
 
 (1) For the purposes of section 735—
 
 - (a) place the benefits mentioned in Step 1 in the order in which they were received by the individual (starting with the earliest benefit received),
-- (b)[^key-6ac063735f49e4f25c711766e79b228a] deduct from those benefits any benefit so far as—
+- (b)[^c-6ac063735f49e4f25c711766e79b228a] deduct from those benefits any benefit so far as—
   - (i) chargeable gains (or offshore income gains) are treated as mentioned in section 734(1)(d) as accruing by reference to the benefit,
   - (ii) income is treated as mentioned in section 735AG(1)(b) as arising by reference to the benefit under section 643A, 643J or 643L of ITTOIA 2005 (settlements: benefits charge), or
   - (iii) income is treated as arising by reference to the benefit under section 732(2) and that income is identified in a foreign income claim,
@@ -62,12 +62,12 @@ For this purpose, read references to the relevant income for the earliest tax ye
 
 (5) For those purposes treat income for a period as arising immediately before the end of the period.
 
-(6) Subsection (1)(d) does not apply if the income may not be taken into account because a person[^key-fecd9e39293b4e75169fcb5548983e30] has been charged to income tax under section 731 by reason of the income.
+(6) Subsection (1)(d) does not apply if the income may not be taken into account because a person[^c-fecd9e39293b4e75169fcb5548983e30] has been charged to income tax under section 731 by reason of the income.
 
 ## Annotations
 
-[^key-034b89edf55597b7c3d36c3adf90516f]: Textual amendment: Ss. 735, 735A substituted for s. 735 (with effect in accordance with [Sch. 7 para. 170](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/170) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 169](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/169)
+[^c-034b89edf55597b7c3d36c3adf90516f]: Textual amendment: Ss. 735, 735A substituted for s. 735 (with effect in accordance with [Sch. 7 para. 170](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/170) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 169](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/169)
 
-[^key-6ac063735f49e4f25c711766e79b228a]: Textual amendment: [S. 735A(1)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/735A/1/b) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 43(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/43/2), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-6ac063735f49e4f25c711766e79b228a]: Textual amendment: [S. 735A(1)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/735A/1/b) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 43(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/43/2), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
 
-[^key-fecd9e39293b4e75169fcb5548983e30]: Textual amendment: Words in [s. 735A(6)](https://www.legislation.gov.uk/ukpga/2007/3/section/735A/6) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 43(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/43/3), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-fecd9e39293b4e75169fcb5548983e30]: Textual amendment: Words in [s. 735A(6)](https://www.legislation.gov.uk/ukpga/2007/3/section/735A/6) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 43(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/43/3), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)

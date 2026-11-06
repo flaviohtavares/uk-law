@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Requirements under section 75: undertakings[^key-02c3693b4d8d52bfe9fe722de9e2ac08]
+## 77. Requirements under section 75: undertakings[^c-02c3693b4d8d52bfe9fe722de9e2ac08]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02c3693b4d8d52bfe9fe722de9e2ac08]: Textual amendment: [Ss. 75-78](https://www.legislation.gov.uk/ukpga/2012/7/section/75) omitted (1.1.2024) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 80(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/80/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/1431/regulation/5))
+[^c-02c3693b4d8d52bfe9fe722de9e2ac08]: Textual amendment: [Ss. 75-78](https://www.legislation.gov.uk/ukpga/2012/7/section/75) omitted (1.1.2024) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 80(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/80/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/1431/regulation/5))

@@ -33,7 +33,7 @@ The following Table shows provisions defining or otherwise explaining expression
 | bank | section 622 |
 | building society | section 622 |
 | charge (in Part III of Schedule 20) | paragraph 11(2)(a) of Schedule 20 |
-| contract-holder[^key-7f9dce48f57e4c8fb290417c8766e85f] | section 558 |
+| contract-holder[^c-7f9dce48f57e4c8fb290417c8766e85f] | section 558 |
 | the conveyance (in Part III of Schedule 20) | paragraph 11(1) of Schedule 20 |
 | co-operative housing association | section 5(2) |
 | [^c15082061]. . . | [^c15082061]. . . |
@@ -89,7 +89,7 @@ The following Table shows provisions defining or otherwise explaining expression
 
 [^c15082021]: Textual amendment: Entries inserted by [Housing Act 1988 (c. 50, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 140(1)](https://www.legislation.gov.uk/ukpga/1988/50/section/140/1), [Sch. 17 Pt. I para. 62](https://www.legislation.gov.uk/ukpga/1988/50/schedule/17/part/I/paragraph/62)
 
-[^key-7f9dce48f57e4c8fb290417c8766e85f]: Textual amendment: Words in [s. 577](https://www.legislation.gov.uk/ukpga/1985/68/section/577) Table inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [11(26)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/11/26) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 2](https://www.legislation.gov.uk/uksi/2022/1172/regulation/2), [11](https://www.legislation.gov.uk/uksi/2022/1172/regulation/11), [12](https://www.legislation.gov.uk/uksi/2022/1172/regulation/12), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
+[^c-7f9dce48f57e4c8fb290417c8766e85f]: Textual amendment: Words in [s. 577](https://www.legislation.gov.uk/ukpga/1985/68/section/577) Table inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [11(26)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/11/26) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 2](https://www.legislation.gov.uk/uksi/2022/1172/regulation/2), [11](https://www.legislation.gov.uk/uksi/2022/1172/regulation/11), [12](https://www.legislation.gov.uk/uksi/2022/1172/regulation/12), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
 
 [^c15082061]: Textual amendment: Entry in the Table in s. 577 repealed (1.11.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [ss. 140](https://www.legislation.gov.uk/ukpga/1998/38/section/140), [152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 16 para. 20(a)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/20/a), [Sch. 18 Pt. VI](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/VI) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [141(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/141/1), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 5](https://www.legislation.gov.uk/uksi/1998/2244/article/5)
 

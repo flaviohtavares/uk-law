@@ -22,7 +22,7 @@ summary: ''
 
 (1) In the case of a deferred member—
 
-- (a)[^key-3a5d0c5ad39e818c376d92bed22cbab0] who left pensionable service less than 12 months before the date of death, and
+- (a)[^c-3a5d0c5ad39e818c376d92bed22cbab0] who left pensionable service less than 12 months before the date of death, and
 - (b) whose surviving adult dependant would have been the member's surviving adult dependant if the member had died on the member's last day of pensionable service,
 
 the rate of the pension payable under regulation 194(1) is equal to the appropriate proportion of the tier 2 ill-health pension under regulation 182 to which the member would have been entitled if on the date the member's pensionable service ceased the member had become entitled to such a pension under regulation 182 (but disregarding any additional pension).
@@ -31,4 +31,4 @@ the rate of the pension payable under regulation 194(1) is equal to the appropri
 
 ## Annotations
 
-[^key-3a5d0c5ad39e818c376d92bed22cbab0]: Modification: [Reg. 198(1)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/198/1/a) modified (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [38(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/38/1) Table Pt. 2
+[^c-3a5d0c5ad39e818c376d92bed22cbab0]: Modification: [Reg. 198(1)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/198/1/a) modified (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [38(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/38/1) Table Pt. 2

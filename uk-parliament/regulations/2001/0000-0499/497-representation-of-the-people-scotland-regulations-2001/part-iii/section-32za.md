@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32ZA. Annual canvass: register of local government electors[^key-c89060838308e34df714ec7c42669f74]
+## 32ZA. Annual canvass: register of local government electors[^c-c89060838308e34df714ec7c42669f74]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c89060838308e34df714ec7c42669f74]: Textual amendment: [Reg. 32ZA](https://www.legislation.gov.uk/uksi/2001/497/regulation/32ZA) revoked (27.4.2020) by [The Representation of the People (Annual Canvass) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/113)](https://www.legislation.gov.uk/ssi/2020/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/113/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2020/113/regulation/5)
+[^c-c89060838308e34df714ec7c42669f74]: Textual amendment: [Reg. 32ZA](https://www.legislation.gov.uk/uksi/2001/497/regulation/32ZA) revoked (27.4.2020) by [The Representation of the People (Annual Canvass) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/113)](https://www.legislation.gov.uk/ssi/2020/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/113/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2020/113/regulation/5)

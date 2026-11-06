@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 221. The contractual control purpose[^key-cac24a5c6c30fa65711991656d4312d6]
+## 221. The contractual control purpose[^c-cac24a5c6c30fa65711991656d4312d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cac24a5c6c30fa65711991656d4312d6]: Commencement: S. 221 in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/8)
+[^c-cac24a5c6c30fa65711991656d4312d6]: Commencement: S. 221 in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/8)

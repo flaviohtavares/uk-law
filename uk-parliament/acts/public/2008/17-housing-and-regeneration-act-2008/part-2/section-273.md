@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 273. Disposal[^key-567a23b4523582fee463ca8f469a2026]
+## 273. Disposal[^c-567a23b4523582fee463ca8f469a2026]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-567a23b4523582fee463ca8f469a2026]: Commencement: S. 273 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-567a23b4523582fee463ca8f469a2026]: Commencement: S. 273 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

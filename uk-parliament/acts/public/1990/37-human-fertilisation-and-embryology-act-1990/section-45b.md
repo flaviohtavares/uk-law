@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45B. Orders[^key-9bdfadf63776a9be86aa3b95fe2482b5]
+## 45B. Orders[^c-9bdfadf63776a9be86aa3b95fe2482b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bdfadf63776a9be86aa3b95fe2482b5]: Textual amendment: S. 45B inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 32](https://www.legislation.gov.uk/ukpga/2008/22/section/32), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(p)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/p)
+[^c-9bdfadf63776a9be86aa3b95fe2482b5]: Textual amendment: S. 45B inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 32](https://www.legislation.gov.uk/ukpga/2008/22/section/32), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(p)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/p)

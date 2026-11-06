@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Powers of an inspector[^key-aa4b621bb7d1b0e5584d92fbce28dec4]
+## 8. Powers of an inspector[^c-aa4b621bb7d1b0e5584d92fbce28dec4]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa4b621bb7d1b0e5584d92fbce28dec4]: Commencement: Reg. 8 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)
+[^c-aa4b621bb7d1b0e5584d92fbce28dec4]: Commencement: Reg. 8 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)

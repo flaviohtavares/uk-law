@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Offences relating to relevant permanent sites[^key-febf2a70186ee71652144cbde67b24ec]
+## 74. Offences relating to relevant permanent sites[^c-febf2a70186ee71652144cbde67b24ec]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ After section 32Q of the 1960 Act (inserted by section 73), insert—
 
 ## Annotations
 
-[^key-febf2a70186ee71652144cbde67b24ec]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2014/14/section/74) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-febf2a70186ee71652144cbde67b24ec]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2014/14/section/74) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

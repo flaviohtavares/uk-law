@@ -22,7 +22,7 @@ summary: ''
 
 Articles 28 and 29
 
-### PART 1 — NATIONAL GRID[^key-33898a9a0663840231ae0af9e61e6156]
+### PART 1 — NATIONAL GRID[^c-33898a9a0663840231ae0af9e61e6156]
 
 Canterbury City Council
 
@@ -149,7 +149,7 @@ Thanet District Council and Dover District Council
 </tbody>
 </table>
 
-### PART 2 — UK POWER NETWORKS[^key-c17c4fbc93b92d2b131e003a0188ae2a]
+### PART 2 — UK POWER NETWORKS[^c-c17c4fbc93b92d2b131e003a0188ae2a]
 
 Canterbury City Council
 
@@ -279,6 +279,6 @@ Thanet District Council and Dover District Council
 
 ## Annotations
 
-[^key-33898a9a0663840231ae0af9e61e6156]: Commencement: Sch. 11 Pt. 1 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-33898a9a0663840231ae0af9e61e6156]: Commencement: Sch. 11 Pt. 1 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
 
-[^key-c17c4fbc93b92d2b131e003a0188ae2a]: Commencement: Sch. 11 Pt. 2 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-c17c4fbc93b92d2b131e003a0188ae2a]: Commencement: Sch. 11 Pt. 2 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

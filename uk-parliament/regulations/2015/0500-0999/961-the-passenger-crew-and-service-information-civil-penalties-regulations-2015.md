@@ -46,30 +46,30 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with paragraph 27BB(6) of that Schedule and subsection (6) of that section, a draft of these Regulations was laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-a028999f4f87ad791fc6b63f6ee8f0fc][^key-d6fb487c2cae9b0acff9bc66db7597c7]
+## 1. Citation and commencement[^c-a028999f4f87ad791fc6b63f6ee8f0fc][^c-d6fb487c2cae9b0acff9bc66db7597c7]
 
 (1) These Regulations may be cited as the Passenger, Crew and Service Information (Civil Penalties) Regulations 2015.
 
 (2) These Regulations come into force on the seventh day after the day on which they are made.
 
-(3)[^key-ebddff50a22a2386d3deefd91c024e8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ebddff50a22a2386d3deefd91c024e8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-62a3caf6ab34f938299608fed91c75e3]
+## 2. Interpretation[^c-62a3caf6ab34f938299608fed91c75e3]
 
 In these Regulations—
 
-- “[^key-0307449c60ce20ea42fb286404b3adfd]**2024 Regulations**” means the General Aviation (Persons on Board, Flight Information and Civil Penalties) Regulations 2024;
+- “[^c-0307449c60ce20ea42fb286404b3adfd]**2024 Regulations**” means the General Aviation (Persons on Board, Flight Information and Civil Penalties) Regulations 2024;
 - “authority-to-carry scheme” means a scheme made under section 22 of CTSA 2015;
 - “CTSA 2015” means the Counter-Terrorism and Security Act 2015;
 - “IA 1971” means the Immigration Act 1971;
 - “IANA 2006” means the Immigration, Asylum and Nationality Act 2006;
 - “notice of objection” has the meaning given in regulation 6;
 - “penalty notice” has the meaning given in regulation 5.
-- “[^key-443fad07fc9868989c5d8c7192f72846]**shuttle train**” and “**through train**” have the same meanings as in the Channel Tunnel (International Arrangements) Order 1993.
+- “[^c-443fad07fc9868989c5d8c7192f72846]**shuttle train**” and “**through train**” have the same meanings as in the Channel Tunnel (International Arrangements) Order 1993.
 
-## 3. Penalty for failure to comply with paragraph 27 or 27B of Schedule 2 to IA 1971 or the 2024 Regulations[^key-100d74c3778b5e704166cb59ec7df2c9][^key-53867cb479fd0b83dbf3a112f81cb439]
+## 3. Penalty for failure to comply with paragraph 27 or 27B of Schedule 2 to IA 1971 or the 2024 Regulations[^c-100d74c3778b5e704166cb59ec7df2c9][^c-53867cb479fd0b83dbf3a112f81cb439]
 
-(1) Paragraph (2) applies to a person who is required by an order under paragraph 27(2) of Schedule 2 to IA 1971[^f00003] to supply information about passengers or crew on board a ship , aircraft, shuttle train or through train[^key-6cb3ac33322e7095561871ab51177e50].
+(1) Paragraph (2) applies to a person who is required by an order under paragraph 27(2) of Schedule 2 to IA 1971[^f00003] to supply information about passengers or crew on board a ship , aircraft, shuttle train or through train[^c-6cb3ac33322e7095561871ab51177e50].
 
 (2) The Secretary of State may require the person to pay a penalty if satisfied that the person has failed to comply with any of the following requirements of the order—
 
@@ -90,7 +90,7 @@ In these Regulations—
 - (b) the person has failed to provide the information in the form and manner directed by the Secretary of State under paragraph 27B(8)(a), or
 - (c) the person has failed to comply with a requirement under paragraph 27B(8A) to be able to receive communications from the immigration officer.
 
-(5A)[^key-d3a3e0bdf04e66df441b2050df8129f0] Paragraph (5B) applies to a person who is required to supply information under regulation 2(2) of the 2024 Regulations.
+(5A)[^c-d3a3e0bdf04e66df441b2050df8129f0] Paragraph (5B) applies to a person who is required to supply information under regulation 2(2) of the 2024 Regulations.
 
 (5B) The Secretary of State may require the person to pay a penalty if satisfied that—
 
@@ -117,11 +117,11 @@ In these Regulations—
 
 (9) The penalty is payable to the Secretary of State on demand.
 
-## 4. Penalty for failure to comply with section 32 of IANA 2006[^key-870ff6ce53cc5dc60d4846201a0cdbbc]
+## 4. Penalty for failure to comply with section 32 of IANA 2006[^c-870ff6ce53cc5dc60d4846201a0cdbbc]
 
 (1) Paragraph (2) applies to a person who is required by a constable under section 32(2) of IANA 2006—
 
-- (a) to provide passenger information or service information relating to a ship , aircraft, shuttle train or through train[^key-fbd3e035cba1e942e86e3b00a0e9f484], or
+- (a) to provide passenger information or service information relating to a ship , aircraft, shuttle train or through train[^c-fbd3e035cba1e942e86e3b00a0e9f484], or
 - (b) to be able to receive, in a specified form and manner, communications relating to the information (see section 32(6)(e))[^f00007].
 
 (2) The Secretary of State may require the person to pay a penalty if satisfied that—
@@ -138,7 +138,7 @@ In these Regulations—
 (4) This paragraph applies where—
 
 - (a) proceedings have been instituted against the person, under section 34 of IANA 2006 or (in the case of a failure consisting of the provision of false information) under section 5 of the Perjury Act 1911, in respect of the same failure;
-- (b) the failure consists of a failure to comply with a requirement that the person is also obliged to comply with by virtue of paragraph 27 or 27B of Schedule 2 to IA 1971 or regulation 2(2) of the 2024 Regulations[^key-404c39ebfa1531c003067880f1ac4e76] and—
+- (b) the failure consists of a failure to comply with a requirement that the person is also obliged to comply with by virtue of paragraph 27 or 27B of Schedule 2 to IA 1971 or regulation 2(2) of the 2024 Regulations[^c-404c39ebfa1531c003067880f1ac4e76] and—
   - (i) a penalty has been imposed on the person under regulation 3 in respect of the same failure, or
   - (ii) proceedings have been instituted against the person under section 27 of IA 1971 in respect of the same failure; or
 - (c) the failure consists of a failure to comply with a requirement that the person is also obliged to comply with by virtue of an authority-to-carry scheme, and a penalty has been imposed on that person, under regulations made under section 24 of CTSA 2015, in respect of the same failure.
@@ -147,7 +147,7 @@ In these Regulations—
 
 (6) The penalty is payable to the Secretary of State on demand.
 
-## 5. Notification of penalty decision[^key-df595ed2db3b62541e289865b12aaab9]
+## 5. Notification of penalty decision[^c-df595ed2db3b62541e289865b12aaab9]
 
 (1) If the Secretary of State decides to require a person to pay a penalty under these Regulations, the Secretary of State must give the person a penalty notice.
 
@@ -162,7 +162,7 @@ In these Regulations—
 - (g) include an explanation of the steps that the person may take if the person objects to the penalty (including specifying the manner and form in which any notice of objection must be given to the Secretary of State), and
 - (h) include an explanation of the steps the Secretary of State may take to recover any unpaid penalty.
 
-## 6. Objection to penalty decision[^key-fe0239839cbe867d4bb3bffefd515885]
+## 6. Objection to penalty decision[^c-fe0239839cbe867d4bb3bffefd515885]
 
 (1) The recipient of a penalty notice (the “recipient”) may object to the penalty notice by giving a notice of objection to the Secretary of State.
 
@@ -193,7 +193,7 @@ In these Regulations—
 - (e) include an explanation of the person’s rights of appeal, and
 - (f) include an explanation of the steps the Secretary of State may take to recover any unpaid penalty.
 
-## 7. Appeals[^key-047bee76f4a0ac28d5f79893e853228d]
+## 7. Appeals[^c-047bee76f4a0ac28d5f79893e853228d]
 
 (1) A person (the “appellant”) may appeal to the court against a decision to require the person to pay a penalty under these Regulations.
 
@@ -229,7 +229,7 @@ In these Regulations—
 - (a) the county court in England and Wales, or a county court in Northern Ireland, may transfer proceedings under this regulation to the High Court, and
 - (b) the sheriff may transfer proceedings under this regulation to the Court of Session.
 
-## 8. Enforcement of penalty decision[^key-ceac30a16d572198e824cba1069ac5de]
+## 8. Enforcement of penalty decision[^c-ceac30a16d572198e824cba1069ac5de]
 
 (1) This regulation applies where a sum is payable to the Secretary of State as a penalty under these Regulations.
 
@@ -244,7 +244,7 @@ In these Regulations—
 - (a) in relation to England and Wales, to be treated for the purposes of section 98 of the Courts Act 2003[^f00008] (register of judgments and orders etc) as if it were a judgment entered in the county court;
 - (b) in relation to Northern Ireland, to be treated for the purposes of Article 116 of the Judgments Enforcement (Northern Ireland) Order 1981[^f00009] (register of judgments) as if it were a judgment in respect of which an application has been accepted under Article 22 or 23(1) of that Order.
 
-## 9. Service[^key-95bd75055c26ca3ddb79c33fba4a5905]
+## 9. Service[^c-95bd75055c26ca3ddb79c33fba4a5905]
 
 (1) This regulation applies where a document is authorised or required to be given to a person, other than the Secretary of State, for the purpose of these Regulations.
 
@@ -283,52 +283,52 @@ Regulation 5 contains provision about the contents of a penalty notice. Regulati
 
 [^f00002]: Footnote: [2006 c. 13](https://www.legislation.gov.uk/ukpga/2006/13); section 32B was inserted by the Counter-Terrorism and Security Act 2015, paragraph 7 of Schedule 5.
 
-[^key-a028999f4f87ad791fc6b63f6ee8f0fc]: Commencement: Reg. 1 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
+[^c-a028999f4f87ad791fc6b63f6ee8f0fc]: Commencement: Reg. 1 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
 
-[^key-d6fb487c2cae9b0acff9bc66db7597c7]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/961/regulation/1) heading substituted (31.3.2022) by [The Passenger, Crew and Service Information (Civil Penalties) (Amendment) Regulations 2022 (S.I. 2022/262)](https://www.legislation.gov.uk/uksi/2022/262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/262/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/262/regulation/2/3)
+[^c-d6fb487c2cae9b0acff9bc66db7597c7]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/961/regulation/1) heading substituted (31.3.2022) by [The Passenger, Crew and Service Information (Civil Penalties) (Amendment) Regulations 2022 (S.I. 2022/262)](https://www.legislation.gov.uk/uksi/2022/262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/262/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/262/regulation/2/3)
 
-[^key-ebddff50a22a2386d3deefd91c024e8d]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/3) omitted (31.3.2022) by virtue of [The Passenger, Crew and Service Information (Civil Penalties) (Amendment) Regulations 2022 (S.I. 2022/262)](https://www.legislation.gov.uk/uksi/2022/262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/262/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/262/regulation/2/3)
+[^c-ebddff50a22a2386d3deefd91c024e8d]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/3) omitted (31.3.2022) by virtue of [The Passenger, Crew and Service Information (Civil Penalties) (Amendment) Regulations 2022 (S.I. 2022/262)](https://www.legislation.gov.uk/uksi/2022/262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/262/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/262/regulation/2/3)
 
-[^key-62a3caf6ab34f938299608fed91c75e3]: Commencement: Reg. 2 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
+[^c-62a3caf6ab34f938299608fed91c75e3]: Commencement: Reg. 2 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
 
-[^key-0307449c60ce20ea42fb286404b3adfd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/961/regulation/2) inserted (6.4.2024) by [The General Aviation (Persons on Board, Flight Information and Civil Penalties) Regulations 2024 (S.I. 2024/470)](https://www.legislation.gov.uk/uksi/2024/470), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/470/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2024/470/regulation/6/2)
+[^c-0307449c60ce20ea42fb286404b3adfd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/961/regulation/2) inserted (6.4.2024) by [The General Aviation (Persons on Board, Flight Information and Civil Penalties) Regulations 2024 (S.I. 2024/470)](https://www.legislation.gov.uk/uksi/2024/470), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/470/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2024/470/regulation/6/2)
 
-[^key-443fad07fc9868989c5d8c7192f72846]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/961/regulation/2) inserted (31.3.2022) by [The Passenger, Crew and Service Information (Civil Penalties) (Amendment) Regulations 2022 (S.I. 2022/262)](https://www.legislation.gov.uk/uksi/2022/262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/262/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2022/262/regulation/2/4)
+[^c-443fad07fc9868989c5d8c7192f72846]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/961/regulation/2) inserted (31.3.2022) by [The Passenger, Crew and Service Information (Civil Penalties) (Amendment) Regulations 2022 (S.I. 2022/262)](https://www.legislation.gov.uk/uksi/2022/262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/262/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2022/262/regulation/2/4)
 
-[^key-100d74c3778b5e704166cb59ec7df2c9]: Commencement: Reg. 3 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
+[^c-100d74c3778b5e704166cb59ec7df2c9]: Commencement: Reg. 3 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
 
-[^key-53867cb479fd0b83dbf3a112f81cb439]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2015/961/regulation/3) heading inserted (6.4.2024) by [The General Aviation (Persons on Board, Flight Information and Civil Penalties) Regulations 2024 (S.I. 2024/470)](https://www.legislation.gov.uk/uksi/2024/470), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/470/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2024/470/regulation/6/3/a)
+[^c-53867cb479fd0b83dbf3a112f81cb439]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2015/961/regulation/3) heading inserted (6.4.2024) by [The General Aviation (Persons on Board, Flight Information and Civil Penalties) Regulations 2024 (S.I. 2024/470)](https://www.legislation.gov.uk/uksi/2024/470), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/470/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2024/470/regulation/6/3/a)
 
 [^f00003]: Footnote: Paragraph 27(2) was substituted by IANA 2006, section 31.
 
-[^key-6cb3ac33322e7095561871ab51177e50]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/961/regulation/3/1) substituted (31.3.2022) by [The Passenger, Crew and Service Information (Civil Penalties) (Amendment) Regulations 2022 (S.I. 2022/262)](https://www.legislation.gov.uk/uksi/2022/262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/262/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2022/262/regulation/2/5)
+[^c-6cb3ac33322e7095561871ab51177e50]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/961/regulation/3/1) substituted (31.3.2022) by [The Passenger, Crew and Service Information (Civil Penalties) (Amendment) Regulations 2022 (S.I. 2022/262)](https://www.legislation.gov.uk/uksi/2022/262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/262/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2022/262/regulation/2/5)
 
 [^f00004]: Footnote: Paragraph 27B was inserted by the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), section 18.
 
 [^f00005]: Footnote: Paragraph 27B(8A) was inserted by CTSA 2015, paragraph 1 of Schedule 5.
 
-[^key-d3a3e0bdf04e66df441b2050df8129f0]: Textual amendment: [Reg. 3(5A)-(5C)](https://www.legislation.gov.uk/uksi/2015/961/regulation/3/5A) inserted (6.4.2024) by [The General Aviation (Persons on Board, Flight Information and Civil Penalties) Regulations 2024 (S.I. 2024/470)](https://www.legislation.gov.uk/uksi/2024/470), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/470/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2024/470/regulation/6/3/b)
+[^c-d3a3e0bdf04e66df441b2050df8129f0]: Textual amendment: [Reg. 3(5A)-(5C)](https://www.legislation.gov.uk/uksi/2015/961/regulation/3/5A) inserted (6.4.2024) by [The General Aviation (Persons on Board, Flight Information and Civil Penalties) Regulations 2024 (S.I. 2024/470)](https://www.legislation.gov.uk/uksi/2024/470), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/470/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2024/470/regulation/6/3/b)
 
 [^f00006]: Footnote: [1911 c. 6](https://www.legislation.gov.uk/ukpga/1911/6) (1 & 2 Geo 5); section 5 was amended by the Criminal Justice Act [1948 (c. 58)](https://www.legislation.gov.uk/ukpga/1948/58), section 1(2).
 
-[^key-870ff6ce53cc5dc60d4846201a0cdbbc]: Commencement: Reg. 4 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
+[^c-870ff6ce53cc5dc60d4846201a0cdbbc]: Commencement: Reg. 4 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
 
-[^key-fbd3e035cba1e942e86e3b00a0e9f484]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2015/961/regulation/4/1/a) substituted (31.3.2022) by [The Passenger, Crew and Service Information (Civil Penalties) (Amendment) Regulations 2022 (S.I. 2022/262)](https://www.legislation.gov.uk/uksi/2022/262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/262/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2022/262/regulation/2/6)
+[^c-fbd3e035cba1e942e86e3b00a0e9f484]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2015/961/regulation/4/1/a) substituted (31.3.2022) by [The Passenger, Crew and Service Information (Civil Penalties) (Amendment) Regulations 2022 (S.I. 2022/262)](https://www.legislation.gov.uk/uksi/2022/262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/262/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2022/262/regulation/2/6)
 
 [^f00007]: Footnote: Section 32(6)(e) was inserted by CTSA 2015, paragraph 6 of Schedule 5.
 
-[^key-404c39ebfa1531c003067880f1ac4e76]: Textual amendment: Words in [reg. 4(4)(b)](https://www.legislation.gov.uk/uksi/2015/961/regulation/4/4/b) inserted (6.4.2024) by [The General Aviation (Persons on Board, Flight Information and Civil Penalties) Regulations 2024 (S.I. 2024/470)](https://www.legislation.gov.uk/uksi/2024/470), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/470/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2024/470/regulation/6/4)
+[^c-404c39ebfa1531c003067880f1ac4e76]: Textual amendment: Words in [reg. 4(4)(b)](https://www.legislation.gov.uk/uksi/2015/961/regulation/4/4/b) inserted (6.4.2024) by [The General Aviation (Persons on Board, Flight Information and Civil Penalties) Regulations 2024 (S.I. 2024/470)](https://www.legislation.gov.uk/uksi/2024/470), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/470/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2024/470/regulation/6/4)
 
-[^key-df595ed2db3b62541e289865b12aaab9]: Commencement: Reg. 5 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
+[^c-df595ed2db3b62541e289865b12aaab9]: Commencement: Reg. 5 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
 
-[^key-fe0239839cbe867d4bb3bffefd515885]: Commencement: Reg. 6 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
+[^c-fe0239839cbe867d4bb3bffefd515885]: Commencement: Reg. 6 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
 
-[^key-047bee76f4a0ac28d5f79893e853228d]: Commencement: Reg. 7 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
+[^c-047bee76f4a0ac28d5f79893e853228d]: Commencement: Reg. 7 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
 
-[^key-ceac30a16d572198e824cba1069ac5de]: Commencement: Reg. 8 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
+[^c-ceac30a16d572198e824cba1069ac5de]: Commencement: Reg. 8 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
 
 [^f00008]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39).
 
 [^f00009]: Footnote: [S.I. 1981/226 (N.I. 6)](https://www.legislation.gov.uk/nisi/1981/226).
 
-[^key-95bd75055c26ca3ddb79c33fba4a5905]: Commencement: Reg. 9 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
+[^c-95bd75055c26ca3ddb79c33fba4a5905]: Commencement: Reg. 9 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)

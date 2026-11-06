@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 143(1) and (2) and 146(6) of, paragraph 6(5) and (6) of Schedule 8 to, and paragraphs 1 to 4 of Schedule 9 to, the Local Government Finance Act 1988[^f00001], makes the following Regulations:
 
-## 1. Citation, application and commencement[^key-93c29519a323e850f6ff350d1116f9e0]
+## 1. Citation, application and commencement[^c-93c29519a323e850f6ff350d1116f9e0]
 
 These Regulations, which apply to England only, may be cited as the Non-Domestic Rating (Deferred Payments) (England) Regulations 2009 and come into force on 31st July 2009.
 
-## 2. Amendment of the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989[^key-1d9b2c5ad0603b2d5e0468bc84cd4574]
+## 2. Amendment of the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989[^c-1d9b2c5ad0603b2d5e0468bc84cd4574]
 
 (1) The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Regulations 1989[^f00002] are amended as follows.
 
@@ -66,7 +66,7 @@ These Regulations, which apply to England only, may be cited as the Non-Domestic
 
 (4) After Schedule 1B, as inserted by paragraph (3), insert Schedule 1C set out in Schedule 2 to these Regulations.
 
-## 3. Amendment of the Non-Domestic Rating (Collection and Enforcement) (Central List) Regulations 1989[^key-089654d74a56ec96fc93e03668e7d9d9]
+## 3. Amendment of the Non-Domestic Rating (Collection and Enforcement) (Central List) Regulations 1989[^c-089654d74a56ec96fc93e03668e7d9d9]
 
 (1) The Non-Domestic Rating (Collection and Enforcement) (Central Lists) Regulations 1989[^f00003] are amended as follows.
 
@@ -80,7 +80,7 @@ These Regulations, which apply to England only, may be cited as the Non-Domestic
 
 (3) Renumber the Schedule as Schedule 1, and after that Schedule, insert Schedule 1A set out in Schedule 3 to these Regulations.
 
-## 4. Modification of the Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003[^key-8501df7175f38746a978a4680c880df6]
+## 4. Modification of the Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003[^c-8501df7175f38746a978a4680c880df6]
 
 The Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003[^f00004] shall apply in relation to the financial years beginning on 1st April 2010 and 1st April 2011 as if for the definition of “the relevant year” in paragraph (2) of regulation 1 (citation, commencement and interpretation) there were substituted—
 
@@ -88,7 +88,7 @@ The Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2
 
 .
 
-## 5. Modification of the Non-Domestic Rating Contributions (England) Regulations 1992[^key-ae5e3100f5ac6bf631ffd2a9d84c422d]
+## 5. Modification of the Non-Domestic Rating Contributions (England) Regulations 1992[^c-ae5e3100f5ac6bf631ffd2a9d84c422d]
 
 For the financial year beginning on 1st April 2009, regulation 6 (recalculation of provisional amounts) of the Non-Domestic Rating Contributions (England) Regulations 1992[^f00005] shall have effect as if there were omitted paragraphs (2)(b) and (4).
 
@@ -102,7 +102,7 @@ Department for Communities and Local Government
 
 30th June 2009
 
-## SCHEDULE 1[^key-7109d1cf4a064bb87666e17acbbdc3a4]
+## SCHEDULE 1[^c-7109d1cf4a064bb87666e17acbbdc3a4]
 
 Regulation 2
 
@@ -434,7 +434,7 @@ Regulation 2
 >
 > .
 
-## SCHEDULE 2[^key-208fe08ad083ac93fa7aedea66fcf02d]
+## SCHEDULE 2[^c-208fe08ad083ac93fa7aedea66fcf02d]
 
 Regulation 2
 
@@ -442,7 +442,7 @@ Regulation 2
 >
 > Regulation 7B
 
-## SCHEDULE 3[^key-2d7dcb1fc18cc5dc31472c59216ec548]
+## SCHEDULE 3[^c-2d7dcb1fc18cc5dc31472c59216ec548]
 
 Regulation 3
 
@@ -785,33 +785,33 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Paragraph 1 of Schedule 9 is prospectively amended by Schedule 13 to the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15). Paragraph 2(2)(ga) was inserted by paragraph 44(2) of Schedule 5 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42); paragraph 2(2)(h) was amended by paragraph 44(3) of that Schedule. These powers are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales. They were previously transferred to the National Assembly for Wales by article 2 of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)); *see* the entry in Schedule 1 for the Local Government Finance Act 1988. By virtue of paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), they were transferred to the Welsh Ministers.
 
-[^key-93c29519a323e850f6ff350d1116f9e0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1) in force at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1)
+[^c-93c29519a323e850f6ff350d1116f9e0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1) in force at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1)
 
-[^key-1d9b2c5ad0603b2d5e0468bc84cd4574]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/1597/regulation/2) in force at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1)
+[^c-1d9b2c5ad0603b2d5e0468bc84cd4574]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/1597/regulation/2) in force at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1989/1058](https://www.legislation.gov.uk/uksi/1989/1058), to which there are amendments not relevant to these Regulations.
 
-[^key-089654d74a56ec96fc93e03668e7d9d9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/1597/regulation/3) in force at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1)
+[^c-089654d74a56ec96fc93e03668e7d9d9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/1597/regulation/3) in force at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1989/2260](https://www.legislation.gov.uk/uksi/1989/2260), to which there are amendments not relevant to these Regulations.
 
-[^key-8501df7175f38746a978a4680c880df6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1597/regulation/4) in force at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1)
+[^c-8501df7175f38746a978a4680c880df6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1597/regulation/4) in force at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2003/2613](https://www.legislation.gov.uk/uksi/2003/2613), to which there are amendments not relevant to these Regulations.
 
-[^key-ae5e3100f5ac6bf631ffd2a9d84c422d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/1597/regulation/5) in force at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1)
+[^c-ae5e3100f5ac6bf631ffd2a9d84c422d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/1597/regulation/5) in force at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1)
 
 [^f00005]: Footnote: [S.I. 1992/3082](https://www.legislation.gov.uk/uksi/1992/3082), to which there are amendments not relevant to these Regulations.
 
-[^key-7109d1cf4a064bb87666e17acbbdc3a4]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2009/1597/schedule/1) in force at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1)
+[^c-7109d1cf4a064bb87666e17acbbdc3a4]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2009/1597/schedule/1) in force at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1)
 
 [^f00006]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
 [^f00007]: Footnote: [S.I 1990/1904](https://www.legislation.gov.uk/uksi/1990/1904), to which there are amendments not relevant to these Regulations.
 
-[^key-208fe08ad083ac93fa7aedea66fcf02d]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1597/schedule/2) in force at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1)
+[^c-208fe08ad083ac93fa7aedea66fcf02d]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1597/schedule/2) in force at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1)
 
-[^key-2d7dcb1fc18cc5dc31472c59216ec548]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2009/1597/schedule/3) in force at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1)
+[^c-2d7dcb1fc18cc5dc31472c59216ec548]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2009/1597/schedule/3) in force at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1)
 
 [^f00008]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 

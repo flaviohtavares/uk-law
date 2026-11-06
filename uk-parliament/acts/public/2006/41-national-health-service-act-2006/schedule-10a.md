@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10A — Intervention powers in relation to the reconfiguration of NHS services[^key-1f5bd77631033301d182c8a6d5369a36]
+## SCHEDULE 10A — Intervention powers in relation to the reconfiguration of NHS services[^c-1f5bd77631033301d182c8a6d5369a36]
 
 *Extent: E+W*
 
@@ -96,4 +96,4 @@ An NHS commissioning body, NHS trust or NHS foundation trust must give the Secre
 
 ## Annotations
 
-[^key-1f5bd77631033301d182c8a6d5369a36]: Textual amendment: [Sch. 10A](https://www.legislation.gov.uk/ukpga/2006/41/schedule/10A) inserted (31.1.2024 for specified purposes) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 6](https://www.legislation.gov.uk/ukpga/2022/31/schedule/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/4/c)
+[^c-1f5bd77631033301d182c8a6d5369a36]: Textual amendment: [Sch. 10A](https://www.legislation.gov.uk/ukpga/2006/41/schedule/10A) inserted (31.1.2024 for specified purposes) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 6](https://www.legislation.gov.uk/ukpga/2022/31/schedule/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/4/c)

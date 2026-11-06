@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Power of Secretary of State to require information[^key-6acf46f3204ccb3bd8edc2563ca67636]
+## 27. Power of Secretary of State to require information[^c-6acf46f3204ccb3bd8edc2563ca67636]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6acf46f3204ccb3bd8edc2563ca67636]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2023/52/section/27) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-6acf46f3204ccb3bd8edc2563ca67636]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2023/52/section/27) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

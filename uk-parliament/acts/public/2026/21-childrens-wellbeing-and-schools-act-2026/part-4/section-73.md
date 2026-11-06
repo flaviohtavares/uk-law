@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Power to make consequential provision[^key-bfc0563f70fd68c2982e8e42861dc906]
+## 73. Power to make consequential provision[^c-bfc0563f70fd68c2982e8e42861dc906]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfc0563f70fd68c2982e8e42861dc906]: Commencement: S. 73 in force at Royal Assent, see [s. 78(1)(c)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/c)
+[^c-bfc0563f70fd68c2982e8e42861dc906]: Commencement: S. 73 in force at Royal Assent, see [s. 78(1)(c)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Commencement[^key-8a06f65b8247875d2a468aad5e66c703]
+## 2. Commencement[^c-8a06f65b8247875d2a468aad5e66c703]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8a06f65b8247875d2a468aad5e66c703]: Commencement: Reg. 2 in force at 30.1.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/1/a)
+[^c-8a06f65b8247875d2a468aad5e66c703]: Commencement: Reg. 2 in force at 30.1.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/1/a)
 
 [^f00003]: Footnote: Section 55A was inserted by section 11 of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and amended by [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135) and [S.I. 2018//1149](https://www.legislation.gov.uk/uksi/2018/1149).
 

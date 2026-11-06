@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Agreements with owners of land and others for construction of works[^key-de19ac25027bf5a43fe12c988703ac7f]
+## 10. Agreements with owners of land and others for construction of works[^c-de19ac25027bf5a43fe12c988703ac7f]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de19ac25027bf5a43fe12c988703ac7f]: Commencement: Art. 10 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-de19ac25027bf5a43fe12c988703ac7f]: Commencement: Art. 10 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

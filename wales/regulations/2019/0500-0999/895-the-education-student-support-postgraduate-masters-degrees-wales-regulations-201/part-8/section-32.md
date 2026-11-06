@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Payment based on provisional assessment[^key-33fdcc1150ac8faedbe24b3cf1d26fb4]
+## 32. Payment based on provisional assessment[^c-33fdcc1150ac8faedbe24b3cf1d26fb4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the Welsh Ministers make a provisional decision on an application made und
 
 ## Annotations
 
-[^key-33fdcc1150ac8faedbe24b3cf1d26fb4]: Commencement: Reg. 32 in force at 27.5.2019, see reg. 1(2)
+[^c-33fdcc1150ac8faedbe24b3cf1d26fb4]: Commencement: Reg. 32 in force at 27.5.2019, see reg. 1(2)

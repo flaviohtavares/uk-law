@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 124. Evaluation[^key-a6158ea89e4adc9ce97e605b44725e06]
+## Article 124. Evaluation[^c-a6158ea89e4adc9ce97e605b44725e06]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6158ea89e4adc9ce97e605b44725e06]: Textual amendment: [Art. 124](https://www.legislation.gov.uk/eur/2018/1139/article/124) omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [167(f)](https://www.legislation.gov.uk/uksi/2019/645/regulation/167/f) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a6158ea89e4adc9ce97e605b44725e06]: Textual amendment: [Art. 124](https://www.legislation.gov.uk/eur/2018/1139/article/124) omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [167(f)](https://www.legislation.gov.uk/uksi/2019/645/regulation/167/f) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

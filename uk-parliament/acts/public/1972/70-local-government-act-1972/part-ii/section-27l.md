@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27L (Extent: W.). Orders separating a community from a group of communities (Extent: W.)[^key-dcf7f4348e9cad19f3df5e242b69f8b3]
+## 27L (Extent: W.). Orders separating a community from a group of communities (Extent: W.)[^c-dcf7f4348e9cad19f3df5e242b69f8b3]
 
 *Extent: E+W.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcf7f4348e9cad19f3df5e242b69f8b3]: Textual amendment: S. 27L inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 112](https://www.legislation.gov.uk/mwa/2011/4/section/112), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))
+[^c-dcf7f4348e9cad19f3df5e242b69f8b3]: Textual amendment: S. 27L inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 112](https://www.legislation.gov.uk/mwa/2011/4/section/112), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))

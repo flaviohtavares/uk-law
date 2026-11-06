@@ -29,7 +29,7 @@ summary: ''
 
 which apply for the purposes of this Chapter as they apply for the purposes of Chapter 18 of Part 2 (but as if any reference to a trade were to a UK property business).
 
-(3)[^key-40c889e4dc3bd7428507e6fc5808d2b5] Further to subsection (2), section 254 applies for the purposes of this Chapter as if for subsection (2A) of that section there were substituted—
+(3)[^c-40c889e4dc3bd7428507e6fc5808d2b5] Further to subsection (2), section 254 applies for the purposes of this Chapter as if for subsection (2A) of that section there were substituted—
 
 > (2A) If the time immediately before the person permanently ceases to carry on the UK property business falls in a cash basis tax year, assume for the purposes of subsection (2) that the profits of the business are calculated on the cash basis.
 
@@ -37,4 +37,4 @@ which apply for the purposes of this Chapter as they apply for the purposes of C
 
 ## Annotations
 
-[^key-40c889e4dc3bd7428507e6fc5808d2b5]: Textual amendment: [S. 351(3)](https://www.legislation.gov.uk/ukpga/2005/5/section/351/3)[(4)](https://www.legislation.gov.uk/ukpga/2005/5/section/351/4) inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/30) (with [Sch. 2 para. 30(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/30/3)[(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/30/4))
+[^c-40c889e4dc3bd7428507e6fc5808d2b5]: Textual amendment: [S. 351(3)](https://www.legislation.gov.uk/ukpga/2005/5/section/351/3)[(4)](https://www.legislation.gov.uk/ukpga/2005/5/section/351/4) inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/30) (with [Sch. 2 para. 30(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/30/3)[(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/30/4))

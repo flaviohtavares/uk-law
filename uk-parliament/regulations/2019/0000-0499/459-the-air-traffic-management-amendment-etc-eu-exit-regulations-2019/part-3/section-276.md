@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 276. Annex 7 to Commission Implementing Regulation (EU) No 1206/2011[^key-b8f536528bb9cece4e42137e9a98b6fc]
+## 276. Annex 7 to Commission Implementing Regulation (EU) No 1206/2011[^c-b8f536528bb9cece4e42137e9a98b6fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8f536528bb9cece4e42137e9a98b6fc]: Commencement: Reg. 276 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-b8f536528bb9cece4e42137e9a98b6fc]: Commencement: Reg. 276 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

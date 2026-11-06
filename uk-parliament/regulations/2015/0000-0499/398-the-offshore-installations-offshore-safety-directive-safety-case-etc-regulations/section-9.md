@@ -28,7 +28,7 @@ summary: ''
 (2) The means are—
 
 - (a) examination, including testing where appropriate, of the safety and environmental-critical elements and the specified plant by a verifier;
-- (b)[^key-da38a6bc2a6b1608f203f8d0e03005cb] examination of any design, specification, certificate, marking or other document, or standard relating to those elements or that plant by a verifier;
+- (b)[^c-da38a6bc2a6b1608f203f8d0e03005cb] examination of any design, specification, certificate, marking or other document, or standard relating to those elements or that plant by a verifier;
 - (c) examination by a verifier of work in progress;
 - (d) the creation of reports by a verifier on—
   - (i) the examination and testing carried out;
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da38a6bc2a6b1608f203f8d0e03005cb]: Textual amendment: [Reg. 9(2)(b)](https://www.legislation.gov.uk/uksi/2015/398/regulation/9/2/b) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 18 para. 1(2)](https://www.legislation.gov.uk/uksi/2019/696/schedule/18/paragraph/1/2) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-da38a6bc2a6b1608f203f8d0e03005cb]: Textual amendment: [Reg. 9(2)(b)](https://www.legislation.gov.uk/uksi/2015/398/regulation/9/2/b) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 18 para. 1(2)](https://www.legislation.gov.uk/uksi/2019/696/schedule/18/paragraph/1/2) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

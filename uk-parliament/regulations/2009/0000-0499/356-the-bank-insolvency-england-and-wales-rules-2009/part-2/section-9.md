@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Proof of service[^key-86ea28828d17c89561e2f83f85d5bce0]
+## 9. Proof of service[^c-86ea28828d17c89561e2f83f85d5bce0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.9 of the 1986 Rules.
 
 ## Annotations
 
-[^key-86ea28828d17c89561e2f83f85d5bce0]: Commencement: Rule 9 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-86ea28828d17c89561e2f83f85d5bce0]: Commencement: Rule 9 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

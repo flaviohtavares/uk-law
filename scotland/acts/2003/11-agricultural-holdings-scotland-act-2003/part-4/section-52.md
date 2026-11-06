@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Compensation for disturbance[^key-dc43c61bd25d4ee08a3004bd46cf1856]
+## 52. Compensation for disturbance[^c-dc43c61bd25d4ee08a3004bd46cf1856]
 
 *Extent: S*
 
 (1) Where—
 
 - (a) any land is resumed under section 17; or
-- (b) a short limited duration tenancy , a limited duration tenancy or a modern limited duration tenancy[^key-38f43faf60c0c74369f9d10b79a18cdc] terminates by notice under subsection (3) of that section,
+- (b) a short limited duration tenancy , a limited duration tenancy or a modern limited duration tenancy[^c-38f43faf60c0c74369f9d10b79a18cdc] terminates by notice under subsection (3) of that section,
 
 compensation for disturbance is payable by the landlord to the tenant.
 
@@ -31,7 +31,7 @@ compensation for disturbance is payable by the landlord to the tenant.
 
 - (a) in those subsections, the references to the holding were references to the land;
 - (b) in subsection (6)—
-  - (i) the reference to the tenant of an agricultural holding were a reference to the tenant of the short limited duration tenancy , limited duration tenancy or modern limited duration tenancy[^key-c777f18baccb5e795fb0cec76f03e476] ; and
+  - (i) the reference to the tenant of an agricultural holding were a reference to the tenant of the short limited duration tenancy , limited duration tenancy or modern limited duration tenancy[^c-c777f18baccb5e795fb0cec76f03e476] ; and
   - (ii) the reference to a notice to quit given by the landlord were a reference to the termination of the tenancy; and
 - (c) where the resumption under section 17 is of part of the land—
   - (i) the references to the land in those subsections of section 43 of that Act by virtue of paragraph (a) of this subsection were references to that part; and
@@ -52,8 +52,8 @@ compensation is payable under subsection (1) only in respect of the part of the 
 
 ## Annotations
 
-[^key-dc43c61bd25d4ee08a3004bd46cf1856]: Commencement: S. 52 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-dc43c61bd25d4ee08a3004bd46cf1856]: Commencement: S. 52 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
-[^key-38f43faf60c0c74369f9d10b79a18cdc]: Textual amendment: Words in s. 52(1)(b) substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(19)(a)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/19/a) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
+[^c-38f43faf60c0c74369f9d10b79a18cdc]: Textual amendment: Words in s. 52(1)(b) substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(19)(a)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/19/a) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
 
-[^key-c777f18baccb5e795fb0cec76f03e476]: Textual amendment: Words in s. 52(2)(b)(i) substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(19)(b)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/19/b) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
+[^c-c777f18baccb5e795fb0cec76f03e476]: Textual amendment: Words in s. 52(2)(b)(i) substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(19)(b)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/19/b) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)

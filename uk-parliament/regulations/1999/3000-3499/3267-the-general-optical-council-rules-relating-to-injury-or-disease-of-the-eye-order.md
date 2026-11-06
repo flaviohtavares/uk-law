@@ -75,7 +75,7 @@ The General Optical Council, in exercise of their powers under sections 31(5) an
 - “the eye” means the organ of vision and associated structures involved in normal vision;
 - “injury or disease” means any abnormality of the eye of an anatomical, pathological or physiological nature.
 
-**3.** Where it appears to a registered optometrist or registered dispensing optician[^key-6230df1fc268ccd03cc73719e00b72e1] that a person consulting him is suffering from an injury or disease of the eye the registered optometrist or registered dispensing optician shall, subject to rules 5 to 8 below, refer that person to a registered medical practitioner, unless he is acting on the advice or instructions of a registered medical practitioner (other than a medical recommendation for a sight test) in testing the sight of such a person or in fitting and supplying such a person with an optical appliance, but in such case the optometrist or dispensing optician[^key-a232dc8090f8d1f6d3d1a6e3ec24c7c6] shall forthwith report to that practitioner any findings of injury or disease of the eye of which the practitioner may be unaware.
+**3.** Where it appears to a registered optometrist or registered dispensing optician[^c-6230df1fc268ccd03cc73719e00b72e1] that a person consulting him is suffering from an injury or disease of the eye the registered optometrist or registered dispensing optician shall, subject to rules 5 to 8 below, refer that person to a registered medical practitioner, unless he is acting on the advice or instructions of a registered medical practitioner (other than a medical recommendation for a sight test) in testing the sight of such a person or in fitting and supplying such a person with an optical appliance, but in such case the optometrist or dispensing optician[^c-a232dc8090f8d1f6d3d1a6e3ec24c7c6] shall forthwith report to that practitioner any findings of injury or disease of the eye of which the practitioner may be unaware.
 
 **4.** In referring a person to a registered medical practitioner, a registered optometrist or registered dispensing optician shall take the following steps:
 
@@ -83,18 +83,18 @@ The General Optical Council, in exercise of their powers under sections 31(5) an
 - (b) he shall wherever practicable furnish a registered medical practitioner named by the person with a written report of his findings indicating his grounds for thinking the person may be suffering from injury or disease of the eye; and
 - (c) where action appears urgent, he shall also take such measures as are open to him to inform a registered medical practitioner immediately.
 
-**5.** If a person who appears to a registered optometrist or registered dispensing optician to be suffering from injury or disease of the eye is unwilling, on concientious or other grounds, to consult a registered medical practitioner, the optometrist or dispensing optician[^key-2a2ccfc9c9c927afddbde0d517941c63] shall record that fact and the grounds which the person gives for his unwillingness to consult a registered medical practitioner.
+**5.** If a person who appears to a registered optometrist or registered dispensing optician to be suffering from injury or disease of the eye is unwilling, on concientious or other grounds, to consult a registered medical practitioner, the optometrist or dispensing optician[^c-2a2ccfc9c9c927afddbde0d517941c63] shall record that fact and the grounds which the person gives for his unwillingness to consult a registered medical practitioner.
 
 **6.** If in the professional judgement of a registered optometrist or registered dispensing optician there is no justification to refer a person consulting him to a registered medical practitioner, or that it would be impracticable or inexpedient to do so, the registered optometrist or registered dispensing optician may at his discretion decide not to refer that person on that occasion; but in that event he:–
 
 - (a) shall record in respect of the person consulting him:–
   - (i) a sufficient description of the injury or disease from which that person appears to be suffering;
   - (ii) his reason for deciding not to refer on that occasion;
-  - (iii) details of advice or medical or clinical treatment[^key-4b23a5eed4b468e3c98a2bee091326c1] tendered to the patient;
+  - (iii) details of advice or medical or clinical treatment[^c-4b23a5eed4b468e3c98a2bee091326c1] tendered to the patient;
   - (iv) an account of any action taken under the provisions of rule 7; and
 - (b) if appropriate, and with the consent of the person consulting him, shall inform that person’s general medical practitioner of those matters recorded in accordance with rule 6(a).
 
-**7.**[^key-1b5fbcdb5f3933383bb9ba3d7432f84c] As an exception to the duty to refer to a registered medical practitioner under rule 3—
+**7.**[^c-1b5fbcdb5f3933383bb9ba3d7432f84c] As an exception to the duty to refer to a registered medical practitioner under rule 3—
 
 - (a) a registered dispensing optician may refer the person consulting him to a registered optometrist; or
 - (b) a registered optometrist or dispensing optician may refer the person consulting him to—
@@ -119,7 +119,7 @@ provided that he is satisfied that the referral to that person or body is approp
 **7B.** The duty to refer under rule 3 shall not apply to a registered optometrist who—
 
 - (a) has the supplementary prescriber specialty entered on the register against his name under rule 10 of the General Optical Council (Registration Rules) 2005; and
-- (b) is acting under and in accordance with regulation 215 (prescribing and administration by supplementary prescribers) of the Human Medicines Regulations 2012[^key-e20bc9bd3f6684efb25e1e69045dc219].
+- (b) is acting under and in accordance with regulation 215 (prescribing and administration by supplementary prescribers) of the Human Medicines Regulations 2012[^c-e20bc9bd3f6684efb25e1e69045dc219].
 
 **8.** Nothing in these rules shall operate to prevent a registered optometrist or registered dispensing optician from:
 
@@ -158,16 +158,16 @@ This Order also revokes a previous Order of Council which becomes spent on the r
 
 [^f00003]: Footnote: [1989 c. 44](https://www.legislation.gov.uk/ukpga/1989/44). Section 31(5) was amended by, and section 31(5A) was inserted by, section 30 of the National Health Service (Primary Care) Act [1997 (c. 46)](https://www.legislation.gov.uk/ukpga/1997/46).
 
-[^key-6230df1fc268ccd03cc73719e00b72e1]: Textual amendment: Words in Sch. Rules substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 29(a)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/29/a)
+[^c-6230df1fc268ccd03cc73719e00b72e1]: Textual amendment: Words in Sch. Rules substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 29(a)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/29/a)
 
-[^key-a232dc8090f8d1f6d3d1a6e3ec24c7c6]: Textual amendment: Words in Sch. rule 3 substituted (30.6.2005) by [The General Optical Council (Injury or Disease of the Eye and Contact Lens (Qualifications)) (Amendment) Rules Order of Council 2005 (S.I. 2005/1476)](https://www.legislation.gov.uk/uksi/2005/1476), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2005/1476/schedule/rule/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/1476/schedule/rule/2/2)
+[^c-a232dc8090f8d1f6d3d1a6e3ec24c7c6]: Textual amendment: Words in Sch. rule 3 substituted (30.6.2005) by [The General Optical Council (Injury or Disease of the Eye and Contact Lens (Qualifications)) (Amendment) Rules Order of Council 2005 (S.I. 2005/1476)](https://www.legislation.gov.uk/uksi/2005/1476), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2005/1476/schedule/rule/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/1476/schedule/rule/2/2)
 
-[^key-2a2ccfc9c9c927afddbde0d517941c63]: Textual amendment: Words in Sch. rule 5 substituted (30.6.2005) by [The General Optical Council (Injury or Disease of the Eye and Contact Lens (Qualifications)) (Amendment) Rules Order of Council 2005 (S.I. 2005/1476)](https://www.legislation.gov.uk/uksi/2005/1476), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2005/1476/schedule/rule/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/1476/schedule/rule/2/2)
+[^c-2a2ccfc9c9c927afddbde0d517941c63]: Textual amendment: Words in Sch. rule 5 substituted (30.6.2005) by [The General Optical Council (Injury or Disease of the Eye and Contact Lens (Qualifications)) (Amendment) Rules Order of Council 2005 (S.I. 2005/1476)](https://www.legislation.gov.uk/uksi/2005/1476), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2005/1476/schedule/rule/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/1476/schedule/rule/2/2)
 
-[^key-4b23a5eed4b468e3c98a2bee091326c1]: Textual amendment: Words in Sch. rule 6(a)(iii) inserted (30.6.2005) by [The General Optical Council (Injury or Disease of the Eye and Contact Lens (Qualifications)) (Amendment) Rules Order of Council 2005 (S.I. 2005/1476)](https://www.legislation.gov.uk/uksi/2005/1476), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2005/1476/schedule/rule/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/1476/schedule/rule/2/3)
+[^c-4b23a5eed4b468e3c98a2bee091326c1]: Textual amendment: Words in Sch. rule 6(a)(iii) inserted (30.6.2005) by [The General Optical Council (Injury or Disease of the Eye and Contact Lens (Qualifications)) (Amendment) Rules Order of Council 2005 (S.I. 2005/1476)](https://www.legislation.gov.uk/uksi/2005/1476), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2005/1476/schedule/rule/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/1476/schedule/rule/2/3)
 
-[^key-1b5fbcdb5f3933383bb9ba3d7432f84c]: Textual amendment: Sch. rules 7-7B substituted for Sch. rule 7 (30.6.2005) by [The General Optical Council (Injury or Disease of the Eye and Contact Lens (Qualifications)) (Amendment) Rules Order of Council 2005 (S.I. 2005/1476)](https://www.legislation.gov.uk/uksi/2005/1476), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2005/1476/schedule/rule/1), [2(4)](https://www.legislation.gov.uk/uksi/2005/1476/schedule/rule/2/4)
+[^c-1b5fbcdb5f3933383bb9ba3d7432f84c]: Textual amendment: Sch. rules 7-7B substituted for Sch. rule 7 (30.6.2005) by [The General Optical Council (Injury or Disease of the Eye and Contact Lens (Qualifications)) (Amendment) Rules Order of Council 2005 (S.I. 2005/1476)](https://www.legislation.gov.uk/uksi/2005/1476), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2005/1476/schedule/rule/1), [2(4)](https://www.legislation.gov.uk/uksi/2005/1476/schedule/rule/2/4)
 
-[^key-e20bc9bd3f6684efb25e1e69045dc219]: Textual amendment: Words in Sch. rule 7B substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 72](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/72) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-e20bc9bd3f6684efb25e1e69045dc219]: Textual amendment: Words in Sch. rule 7B substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 72](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/72) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
 [^f00004]: Footnote: Scheduled to the General Optical Council (Rules relating to Injury or Disease of the Eye) Order of Council 1960 (S.I. [1960/1936](https://www.legislation.gov.uk/uksi/1960/1936)).

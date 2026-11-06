@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Notice requiring provision of information to the Welsh Ministers[^key-7e591a16fcc4c5e711bcdd78de9c7fc9]
+## 19. Notice requiring provision of information to the Welsh Ministers[^c-7e591a16fcc4c5e711bcdd78de9c7fc9]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e591a16fcc4c5e711bcdd78de9c7fc9]: Commencement: Reg. 19 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-7e591a16fcc4c5e711bcdd78de9c7fc9]: Commencement: Reg. 19 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

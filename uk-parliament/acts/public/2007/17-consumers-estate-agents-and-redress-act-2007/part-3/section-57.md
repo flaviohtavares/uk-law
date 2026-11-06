@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Powers of entry and inspection[^key-2866306d245b210f9a133424c424a46f]
+## 57. Powers of entry and inspection[^c-2866306d245b210f9a133424c424a46f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2866306d245b210f9a133424c424a46f]: Textual amendment: [S. 57](https://www.legislation.gov.uk/ukpga/2007/17/section/57) repealed (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(i)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/i); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-2866306d245b210f9a133424c424a46f]: Textual amendment: [S. 57](https://www.legislation.gov.uk/ukpga/2007/17/section/57) repealed (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(i)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/i); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))

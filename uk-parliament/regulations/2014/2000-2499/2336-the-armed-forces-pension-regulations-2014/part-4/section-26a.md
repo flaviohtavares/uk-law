@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26A. Calculation of “retirement index supplement”[^key-83f3f2e70d7944c6bec134b0904f1de2]
+## 26A. Calculation of “retirement index supplement”[^c-83f3f2e70d7944c6bec134b0904f1de2]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ B means the retirement index adjustment calculated by reference to the percentag
 
 ## Annotations
 
-[^key-83f3f2e70d7944c6bec134b0904f1de2]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/2014/2336/regulation/26A) inserted (6.5.2024) by [The Armed Forces Pensions (Amendment) Regulations 2024 (S.I. 2024/491)](https://www.legislation.gov.uk/uksi/2024/491), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/491/regulation/1/b), [7](https://www.legislation.gov.uk/uksi/2024/491/regulation/7)
+[^c-83f3f2e70d7944c6bec134b0904f1de2]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/2014/2336/regulation/26A) inserted (6.5.2024) by [The Armed Forces Pensions (Amendment) Regulations 2024 (S.I. 2024/491)](https://www.legislation.gov.uk/uksi/2024/491), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/491/regulation/1/b), [7](https://www.legislation.gov.uk/uksi/2024/491/regulation/7)

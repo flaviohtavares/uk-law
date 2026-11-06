@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Local authority role in policing[^key-11c3150f48484bec184c907bf07709a4]
+## 45. Local authority role in policing[^c-11c3150f48484bec184c907bf07709a4]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ as the local authority may reasonably require.
 
 ## Annotations
 
-[^key-11c3150f48484bec184c907bf07709a4]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2012/8/section/45) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-11c3150f48484bec184c907bf07709a4]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2012/8/section/45) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

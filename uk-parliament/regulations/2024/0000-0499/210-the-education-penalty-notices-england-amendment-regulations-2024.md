@@ -47,23 +47,23 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 444A(6), 444B(1), (2) and (4) and 569 of the Education Act 1996[^f00001] and sections 105(5), 106(1), (2) and (4) and 181 of the Education and Inspections Act 2006[^f00002].
 
-## 1. Citation and commencement[^key-11123d35b6f65a7075d565a008680a8f]
+## 1. Citation and commencement[^c-11123d35b6f65a7075d565a008680a8f]
 
 (1) These Regulations may be cited as the Education (Penalty Notices) (England) (Amendment) Regulations 2024.
 
 (2) These Regulations come into force on 19th August 2024.
 
-## 2. Extent and application[^key-f53e04673507ec34bcac9271d3d70c6f]
+## 2. Extent and application[^c-f53e04673507ec34bcac9271d3d70c6f]
 
 (1) These Regulations extend to England and Wales.
 
 (2) These Regulations apply in relation to England only.
 
-## 3. Amendment of the Education (Penalty Notices) (England) Regulations 2007[^key-1fea5f9d5111a86dab78f33160b36c6b]
+## 3. Amendment of the Education (Penalty Notices) (England) Regulations 2007[^c-1fea5f9d5111a86dab78f33160b36c6b]
 
 The Education (Penalty Notices) (England) Regulations 2007[^f00003] are amended in accordance with regulations 4 to 8.
 
-## 4. Increased amount of penalty for penalty notices issued under section 444A(1) of the Education Act 1996[^key-f3875166a35d3d3477d191732ccb6c68]
+## 4. Increased amount of penalty for penalty notices issued under section 444A(1) of the Education Act 1996[^c-f3875166a35d3d3477d191732ccb6c68]
 
 (1) In regulation 4—
 
@@ -97,9 +97,9 @@ The Education (Penalty Notices) (England) Regulations 2007[^f00003] are amended 
 
 .
 
-(3) The amendments made by this regulation do not apply for the purposes of determining the amount of the penalty to be paid under a penalty notice issued in respect of an offence committed over a period that begins[^key-1d2c86a59964999f94645de1b794ef69] before 19th August 2024.
+(3) The amendments made by this regulation do not apply for the purposes of determining the amount of the penalty to be paid under a penalty notice issued in respect of an offence committed over a period that begins[^c-1d2c86a59964999f94645de1b794ef69] before 19th August 2024.
 
-## 5. Duty to consider issuing penalty notice under section 444A(1) of the Education Act 1996 in respect of absence during period of 10 school weeks[^key-1a926cd79a686485383c16370a3bd79a]
+## 5. Duty to consider issuing penalty notice under section 444A(1) of the Education Act 1996 in respect of absence during period of 10 school weeks[^c-1a926cd79a686485383c16370a3bd79a]
 
 (1) After the heading “**Issue of penalty notices**” (before regulation 10) insert—
 
@@ -138,7 +138,7 @@ The Education (Penalty Notices) (England) Regulations 2007[^f00003] are amended 
 
 (2) For the purposes of regulation 9A of the Education (Penalty Notices) (England) Regulations 2007 (as inserted by paragraph (1) of this regulation), no account is to be taken of any absence which took place before 19th August 2024.
 
-## 6. Limitation on number of penalty notices which may be issued under section 444A(1) of the Education Act 1996 in respect of the same parent and child[^key-5c5c0768cc6834d171e2c93dd9ce10c2]
+## 6. Limitation on number of penalty notices which may be issued under section 444A(1) of the Education Act 1996 in respect of the same parent and child[^c-5c5c0768cc6834d171e2c93dd9ce10c2]
 
 (1) After regulation 12 insert—
 
@@ -166,7 +166,7 @@ The Education (Penalty Notices) (England) Regulations 2007[^f00003] are amended 
 
   .
 
-## 7. Use of sums received under section 444A of the Education Act 1996 to include supporting attendance at schools[^key-39ddf48e561dd550a7a908349bae2626]
+## 7. Use of sums received under section 444A of the Education Act 1996 to include supporting attendance at schools[^c-39ddf48e561dd550a7a908349bae2626]
 
 For regulation 23 substitute—
 
@@ -187,7 +187,7 @@ For regulation 23 substitute—
 
 .
 
-## 8. Omission of spent provisions[^key-a24f835767e8860706da01ee17bdfae2]
+## 8. Omission of spent provisions[^c-a24f835767e8860706da01ee17bdfae2]
 
 (1) In regulation 1 omit paragraph (3).
 
@@ -222,24 +222,24 @@ An Explanatory Memorandum is published alongside this instrument on www.legislat
 
 [^f00002]: Footnote: [2006 c. 40](https://www.legislation.gov.uk/ukpga/2006/40). The Education and Inspections Act 2006 was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). There are other amendments but none is relevant. For the meaning of “regulations” in section 105(5) of the Education and Inspections Act 2006, see subsection (6) of that section.
 
-[^key-11123d35b6f65a7075d565a008680a8f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/210/regulation/1) in force at 19.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/210/regulation/1/2)
+[^c-11123d35b6f65a7075d565a008680a8f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/210/regulation/1) in force at 19.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/210/regulation/1/2)
 
-[^key-f53e04673507ec34bcac9271d3d70c6f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/210/regulation/2) in force at 19.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/210/regulation/1/2)
+[^c-f53e04673507ec34bcac9271d3d70c6f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/210/regulation/2) in force at 19.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/210/regulation/1/2)
 
-[^key-1fea5f9d5111a86dab78f33160b36c6b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/210/regulation/3) in force at 19.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/210/regulation/1/2)
+[^c-1fea5f9d5111a86dab78f33160b36c6b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/210/regulation/3) in force at 19.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/210/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2007/1867](https://www.legislation.gov.uk/uksi/2007/1867), amended by [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172), [2012/1046](https://www.legislation.gov.uk/uksi/2012/1046) and [2013/757](https://www.legislation.gov.uk/uksi/2013/757).
 
-[^key-f3875166a35d3d3477d191732ccb6c68]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/210/regulation/4) in force at 19.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/210/regulation/1/2)
+[^c-f3875166a35d3d3477d191732ccb6c68]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/210/regulation/4) in force at 19.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/210/regulation/1/2)
 
-[^key-1d2c86a59964999f94645de1b794ef69]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2024/210/regulation/4/3) inserted (19.8.2024) by [The Education (Penalty Notices) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/717)](https://www.legislation.gov.uk/uksi/2024/717), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/717/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/717/regulation/5/2)
+[^c-1d2c86a59964999f94645de1b794ef69]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2024/210/regulation/4/3) inserted (19.8.2024) by [The Education (Penalty Notices) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/717)](https://www.legislation.gov.uk/uksi/2024/717), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/717/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/717/regulation/5/2)
 
-[^key-1a926cd79a686485383c16370a3bd79a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/210/regulation/5) in force at 19.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/210/regulation/1/2)
+[^c-1a926cd79a686485383c16370a3bd79a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/210/regulation/5) in force at 19.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/210/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2024/208](https://www.legislation.gov.uk/uksi/2024/208).
 
-[^key-5c5c0768cc6834d171e2c93dd9ce10c2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/210/regulation/6) in force at 19.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/210/regulation/1/2)
+[^c-5c5c0768cc6834d171e2c93dd9ce10c2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/210/regulation/6) in force at 19.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/210/regulation/1/2)
 
-[^key-39ddf48e561dd550a7a908349bae2626]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/210/regulation/7) in force at 19.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/210/regulation/1/2)
+[^c-39ddf48e561dd550a7a908349bae2626]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/210/regulation/7) in force at 19.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/210/regulation/1/2)
 
-[^key-a24f835767e8860706da01ee17bdfae2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/210/regulation/8) in force at 19.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/210/regulation/1/2)
+[^c-a24f835767e8860706da01ee17bdfae2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/210/regulation/8) in force at 19.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/210/regulation/1/2)

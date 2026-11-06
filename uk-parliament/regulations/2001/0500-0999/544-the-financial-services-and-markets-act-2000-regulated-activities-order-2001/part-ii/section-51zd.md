@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51ZD. Acting as trustee or depositary of an AIF[^key-dc40b2381edc494a102ae76de171ecc0]
+## 51ZD. Acting as trustee or depositary of an AIF[^c-dc40b2381edc494a102ae76de171ecc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,12 +30,12 @@ is a specified kind of activity.
 
 (2) An AIF falls within this paragraph if it is—
 
-- (a) an AIF managed by a full-scope UK AIFM; [^key-6b2cbb7b79cf74d1661bd138f46bfc8f]...
-- (b)[^key-6b2cbb7b79cf74d1661bd138f46bfc8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) an AIF managed by a full-scope UK AIFM; [^c-6b2cbb7b79cf74d1661bd138f46bfc8f]...
+- (b)[^c-6b2cbb7b79cf74d1661bd138f46bfc8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph (1)(a) “**depositary**” means—
 
-- (a)[^key-b0841d8324892f96a67c52f9b1aad9e4] a person appointed as a depositary by the AIFM in compliance with a requirement imposed by rule 3.11.10, 3.11.12 or 3.11.33 of the Investment Funds sourcebook; or
+- (a)[^c-b0841d8324892f96a67c52f9b1aad9e4] a person appointed as a depositary by the AIFM in compliance with a requirement imposed by rule 3.11.10, 3.11.12 or 3.11.33 of the Investment Funds sourcebook; or
 - (b) an Article 36 custodian as defined in regulation 57(5)(a) of the Alternative Investment Fund Managers Regulations 2013.
 
 (4) In paragraph (1)(b) “authorised unit trust scheme” and “trustee” have the meanings given by section 237 of the Act.
@@ -46,8 +46,8 @@ is a specified kind of activity.
 
 ## Annotations
 
-[^key-dc40b2381edc494a102ae76de171ecc0]: Textual amendment: Arts. 51ZA-51ZG substituted for arts. 51 and cross-heading (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 1(12)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/1/12)
+[^c-dc40b2381edc494a102ae76de171ecc0]: Textual amendment: Arts. 51ZA-51ZG substituted for arts. 51 and cross-heading (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 1(12)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/1/12)
 
-[^key-6b2cbb7b79cf74d1661bd138f46bfc8f]: Textual amendment: Art. 51ZD(2)(b) and word omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [134(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/134/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6b2cbb7b79cf74d1661bd138f46bfc8f]: Textual amendment: Art. 51ZD(2)(b) and word omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [134(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/134/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b0841d8324892f96a67c52f9b1aad9e4]: Textual amendment: Art. 51ZD(3)(a) substituted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [134(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/134/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b0841d8324892f96a67c52f9b1aad9e4]: Textual amendment: Art. 51ZD(3)(a) substituted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [134(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/134/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

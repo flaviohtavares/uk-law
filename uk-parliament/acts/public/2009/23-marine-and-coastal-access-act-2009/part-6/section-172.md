@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Development, etc of fisheries[^key-e59c38f93aa2e007bb042fc88e743c47]
+## 172. Development, etc of fisheries[^c-e59c38f93aa2e007bb042fc88e743c47]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e59c38f93aa2e007bb042fc88e743c47]: Commencement: [S. 172](https://www.legislation.gov.uk/ukpga/2009/23/section/172) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/f)
+[^c-e59c38f93aa2e007bb042fc88e743c47]: Commencement: [S. 172](https://www.legislation.gov.uk/ukpga/2009/23/section/172) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/f)

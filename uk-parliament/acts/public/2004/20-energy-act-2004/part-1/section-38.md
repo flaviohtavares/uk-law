@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Nuclear transfer schemes[^key-55a1b6800fe7279019b9a560b82f56b8]
+## 38. Nuclear transfer schemes[^c-55a1b6800fe7279019b9a560b82f56b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ the Secretary of State must consult the UKAEA.
 
 ## Annotations
 
-[^key-55a1b6800fe7279019b9a560b82f56b8]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2004/20/section/38) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-55a1b6800fe7279019b9a560b82f56b8]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2004/20/section/38) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

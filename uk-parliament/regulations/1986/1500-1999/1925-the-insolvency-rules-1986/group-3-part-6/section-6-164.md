@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.164. Expenses of members etc[^key-7ba76ee4eb7f6877c4ba5d8d24fc01bf]
+## 6.164. Expenses of members etc[^c-7ba76ee4eb7f6877c4ba5d8d24fc01bf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The trustee shall defray out of the estate, in the prescribed order of priority,
 
 ## Annotations
 
-[^key-7ba76ee4eb7f6877c4ba5d8d24fc01bf]: Commencement: [Rule 6.164](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.164) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-7ba76ee4eb7f6877c4ba5d8d24fc01bf]: Commencement: [Rule 6.164](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.164) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

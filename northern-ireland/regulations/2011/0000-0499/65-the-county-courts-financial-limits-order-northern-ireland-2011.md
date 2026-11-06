@@ -42,15 +42,15 @@ Coming into operation
 
 The Department of Justice, in exercise of the powers conferred by Article 22(1) of the County Courts (Northern Ireland) Order 1980[^f00001], after consultation with the Lord Chief Justice, makes the following Order.
 
-## 1. Citation and Commencement[^key-e90f5d8ad5653ee54fbfa52355bf83a8]
+## 1. Citation and Commencement[^c-e90f5d8ad5653ee54fbfa52355bf83a8]
 
 This Order may be cited as the County Courts (Financial Limits) Order (Northern Ireland) 2011 and shall come into operation on 2nd May 2011.
 
-## 2. Increase of financial limits of civil jurisdiction of county courts[^key-a4fffa2d137e7e1d2bbf8faee4aa5ac4]
+## 2. Increase of financial limits of civil jurisdiction of county courts[^c-a4fffa2d137e7e1d2bbf8faee4aa5ac4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-0de7c676d3195e1bb814bd83705d8e0b]
+## 3. Revocation[^c-0de7c676d3195e1bb814bd83705d8e0b]
 
 Article 3(b) of the County Courts (Financial Limits) Order (Northern Ireland) Order 2001[^f00002] is revoked.
 
@@ -70,10 +70,10 @@ This Order increases the jurisdiction of district judges in the county courts in
 
 [^f00001]: Footnote: [S.I. 1980/397 (N.I. 3)](https://www.legislation.gov.uk/nisi/1980/397)
 
-[^key-e90f5d8ad5653ee54fbfa52355bf83a8]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2011/65/article/1) in operation at 2.5.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/65/article/1)
+[^c-e90f5d8ad5653ee54fbfa52355bf83a8]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2011/65/article/1) in operation at 2.5.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/65/article/1)
 
-[^key-a4fffa2d137e7e1d2bbf8faee4aa5ac4]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/nisr/2011/65/article/2) revoked (3.10.2022) by [The County Courts (Financial Limits) Order (Northern Ireland) 2022 (S.R. 2022/158)](https://www.legislation.gov.uk/nisr/2022/158), [arts. 1](https://www.legislation.gov.uk/nisr/2022/158/article/1), [3](https://www.legislation.gov.uk/nisr/2022/158/article/3)
+[^c-a4fffa2d137e7e1d2bbf8faee4aa5ac4]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/nisr/2011/65/article/2) revoked (3.10.2022) by [The County Courts (Financial Limits) Order (Northern Ireland) 2022 (S.R. 2022/158)](https://www.legislation.gov.uk/nisr/2022/158), [arts. 1](https://www.legislation.gov.uk/nisr/2022/158/article/1), [3](https://www.legislation.gov.uk/nisr/2022/158/article/3)
 
-[^key-0de7c676d3195e1bb814bd83705d8e0b]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2011/65/article/3) in operation at 2.5.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/65/article/1)
+[^c-0de7c676d3195e1bb814bd83705d8e0b]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2011/65/article/3) in operation at 2.5.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/65/article/1)
 
 [^f00002]: Footnote: [S.R. 2001 No.67](https://www.legislation.gov.uk/nisr/2001/67)

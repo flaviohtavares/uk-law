@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5A. Complaint as respects breach of the statutory conditions[^key-5d012823728ecdb744765d85eebfc8d4]
+## 5A. Complaint as respects breach of the statutory conditions[^c-5d012823728ecdb744765d85eebfc8d4]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) that no proceedings—
   - (i) such as are mentioned in subsection (1) above; or
-  - (ii) under section 26C[^key-e9d62ed0bddf5921ab276b46c040c248] of this Act,
+  - (ii) under section 26C[^c-e9d62ed0bddf5921ab276b46c040c248] of this Act,
 
   have been initiated; and
 - (b) that the period allowed the crofter by virtue of subsection (4) below has elapsed,
@@ -58,6 +58,6 @@ the Commission may make an application to the Land Court in relation to the brea
 
 ## Annotations
 
-[^key-5d012823728ecdb744765d85eebfc8d4]: Textual amendment: Ss. 5A, 5B inserted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 8](https://www.legislation.gov.uk/asp/2007/7/section/8), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-5d012823728ecdb744765d85eebfc8d4]: Textual amendment: Ss. 5A, 5B inserted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 8](https://www.legislation.gov.uk/asp/2007/7/section/8), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-e9d62ed0bddf5921ab276b46c040c248]: Textual amendment: Words in [s. 5A(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/1993/44/section/5A/2/a/ii) substituted (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [s. 57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2), [sch. 4 para. 3(7)](https://www.legislation.gov.uk/asp/2010/14/schedule/4/paragraph/3/7) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
+[^c-e9d62ed0bddf5921ab276b46c040c248]: Textual amendment: Words in [s. 5A(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/1993/44/section/5A/2/a/ii) substituted (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [s. 57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2), [sch. 4 para. 3(7)](https://www.legislation.gov.uk/asp/2010/14/schedule/4/paragraph/3/7) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))

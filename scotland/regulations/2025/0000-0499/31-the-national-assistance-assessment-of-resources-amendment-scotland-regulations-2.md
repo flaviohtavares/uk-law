@@ -46,21 +46,21 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 22(5) of the National Assistance Act 1948[^f00001], as applied by section 87(3) and (4) of the Social Work (Scotland) Act 1968[^f00002], and all other powers enabling them to do so.
 
-## 1. Citation, commencement and extent[^key-e722641ba72a04e599f0283edf31c3af]
+## 1. Citation, commencement and extent[^c-e722641ba72a04e599f0283edf31c3af]
 
 (1) These Regulations may be cited as the National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2025 and come into force on 7 April 2025.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Amendment of the National Assistance (Assessment of Resources) Regulations 1992[^key-f0cae6048d1a2803e616fcc40fbd49e4]
+## 2. Amendment of the National Assistance (Assessment of Resources) Regulations 1992[^c-f0cae6048d1a2803e616fcc40fbd49e4]
 
 (1) The National Assistance (Assessment of Resources) Regulations 1992[^f00003] are amended in accordance with this regulation.
 
-(2)[^key-f3c4b001738972811f8c14c75d66e1d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f3c4b001738972811f8c14c75d66e1d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-f3c4b001738972811f8c14c75d66e1d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f3c4b001738972811f8c14c75d66e1d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-f3c4b001738972811f8c14c75d66e1d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f3c4b001738972811f8c14c75d66e1d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) After paragraph 35 of schedule 4 (capital to be disregarded)[^f00007] insert—
 
@@ -95,7 +95,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 .
 
-## 3. Revocation[^key-dbd2938d54c3f159f145660a1cbf21cc]
+## 3. Revocation[^c-dbd2938d54c3f159f145660a1cbf21cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -137,13 +137,13 @@ Equality Impact Assessments have been carried out for each of the new payments d
 
 [^f00002]: Footnote: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49) (“**the 1968 Act**”). Section 87(3) of the 1968 Act was amended by section 28(1) of the Mental Health (Care and Treatment) (Scotland) Act [2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13) (“**the 2003 Act**”) and by section 62(2) of the Adult Support and Protection (Scotland) Act [2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10). Section 87(4) of the 1968 Act was amended by section 28(1) of the 2003 Act. By virtue of section 87(3) of the 1968 Act, accommodation provided under that Act or under section 25 of the 2003 Act is regarded as accommodation provided under Part III of the 1948 Act.
 
-[^key-e722641ba72a04e599f0283edf31c3af]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2025/31/regulation/1) in force at 7.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/31/regulation/1/1)
+[^c-e722641ba72a04e599f0283edf31c3af]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2025/31/regulation/1) in force at 7.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/31/regulation/1/1)
 
-[^key-f0cae6048d1a2803e616fcc40fbd49e4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2025/31/regulation/2) in force at 7.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/31/regulation/1/1)
+[^c-f0cae6048d1a2803e616fcc40fbd49e4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2025/31/regulation/2) in force at 7.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/31/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1992/2977](https://www.legislation.gov.uk/uksi/1992/2977).
 
-[^key-f3c4b001738972811f8c14c75d66e1d2]: Textual amendment: [Reg. 2(2)-(4)](https://www.legislation.gov.uk/ssi/2025/31/regulation/2/2) revoked (6.4.2026) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2026 (S.S.I. 2026/42)](https://www.legislation.gov.uk/ssi/2026/42), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/42/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2026/42/regulation/3)
+[^c-f3c4b001738972811f8c14c75d66e1d2]: Textual amendment: [Reg. 2(2)-(4)](https://www.legislation.gov.uk/ssi/2025/31/regulation/2/2) revoked (6.4.2026) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2026 (S.S.I. 2026/42)](https://www.legislation.gov.uk/ssi/2026/42), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/42/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2026/42/regulation/3)
 
 [^f00007]: Footnote: Paragraph 35 as it relates to Scotland was inserted by [S.S.I. 2023/19](https://www.legislation.gov.uk/ssi/2023/19).
 
@@ -153,4 +153,4 @@ Equality Impact Assessments have been carried out for each of the new payments d
 
 [^f00010]: Footnote: [1979 c. 17](https://www.legislation.gov.uk/ukpga/1979/17).
 
-[^key-dbd2938d54c3f159f145660a1cbf21cc]: Textual amendment: Reg. 3 revoked (6.4.2026) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2026 (S.S.I. 2026/42)](https://www.legislation.gov.uk/ssi/2026/42), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/42/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2026/42/regulation/3)
+[^c-dbd2938d54c3f159f145660a1cbf21cc]: Textual amendment: Reg. 3 revoked (6.4.2026) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2026 (S.S.I. 2026/42)](https://www.legislation.gov.uk/ssi/2026/42), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/42/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2026/42/regulation/3)

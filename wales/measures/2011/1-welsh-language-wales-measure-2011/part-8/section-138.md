@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 138. Regulations[^key-3239f878c43b49273c34e9c4ba77634e][^key-813e711c109cc2e1a316d223405afbca]
+## 138. Regulations[^c-3239f878c43b49273c34e9c4ba77634e][^c-813e711c109cc2e1a316d223405afbca]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3239f878c43b49273c34e9c4ba77634e]: Commencement: [S. 138](https://www.legislation.gov.uk/mwa/2011/1/section/138) in force at 28.6.2011 by [S.I. 2011/1586](https://www.legislation.gov.uk/wsi/2011/1586), [art. 2(b)](https://www.legislation.gov.uk/wsi/2011/1586/article/2/b)
+[^c-3239f878c43b49273c34e9c4ba77634e]: Commencement: [S. 138](https://www.legislation.gov.uk/mwa/2011/1/section/138) in force at 28.6.2011 by [S.I. 2011/1586](https://www.legislation.gov.uk/wsi/2011/1586), [art. 2(b)](https://www.legislation.gov.uk/wsi/2011/1586/article/2/b)
 
-[^key-813e711c109cc2e1a316d223405afbca]: Commencement: [S. 138](https://www.legislation.gov.uk/mwa/2011/1/section/138) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/969/article/2/a)
+[^c-813e711c109cc2e1a316d223405afbca]: Commencement: [S. 138](https://www.legislation.gov.uk/mwa/2011/1/section/138) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/969/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Transfers involving multiple dwellings[^key-0be2d0bb14c730768ef70471467efca9]
+## 83. Transfers involving multiple dwellings[^c-0be2d0bb14c730768ef70471467efca9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0be2d0bb14c730768ef70471467efca9]: Textual amendment: S. 83 omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance (No. 2) Act 2024 (c. 12)](https://www.legislation.gov.uk/ukpga/2024/12), [s. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2024/12/section/7/2/c) (with [s. 7(4)-(10)](https://www.legislation.gov.uk/ukpga/2024/12/section/7/4))
+[^c-0be2d0bb14c730768ef70471467efca9]: Textual amendment: S. 83 omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance (No. 2) Act 2024 (c. 12)](https://www.legislation.gov.uk/ukpga/2024/12), [s. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2024/12/section/7/2/c) (with [s. 7(4)-(10)](https://www.legislation.gov.uk/ukpga/2024/12/section/7/4))

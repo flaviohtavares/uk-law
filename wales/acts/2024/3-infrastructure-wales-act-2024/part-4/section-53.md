@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Power to direct further examination[^key-a95e3d832e2bd02fd40bc385c853fad7][^key-3835d8aaed49b42381ac097126d30fee]
+## 53. Power to direct further examination[^c-a95e3d832e2bd02fd40bc385c853fad7][^c-3835d8aaed49b42381ac097126d30fee]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a95e3d832e2bd02fd40bc385c853fad7]: Commencement: S. 53 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-a95e3d832e2bd02fd40bc385c853fad7]: Commencement: S. 53 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-3835d8aaed49b42381ac097126d30fee]: Commencement: [S. 53](https://www.legislation.gov.uk/asc/2024/3/section/53) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)
+[^c-3835d8aaed49b42381ac097126d30fee]: Commencement: [S. 53](https://www.legislation.gov.uk/asc/2024/3/section/53) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)

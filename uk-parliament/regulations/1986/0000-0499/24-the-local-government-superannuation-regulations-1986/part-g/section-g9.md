@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## G9. Transfers from and to Scotland[^key-a1cdf123aa2431661d1a7138e773e4ca]
+## G9. Transfers from and to Scotland[^c-a1cdf123aa2431661d1a7138e773e4ca]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a1cdf123aa2431661d1a7138e773e4ca]: Commencement: [Reg. G9](https://www.legislation.gov.uk/uksi/1986/24/regulation/G9) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-a1cdf123aa2431661d1a7138e773e4ca]: Commencement: [Reg. G9](https://www.legislation.gov.uk/uksi/1986/24/regulation/G9) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00056]: Footnote: [1937 c.69](https://www.legislation.gov.uk/ukpga/1937/69).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Being equipped for searching for or pursuing hares with dogs etc[^key-5f3feadb4182a50f2e282055d541dec1][^key-81220dac7fa51c42e6b482d9959aa958]
+## 64. Being equipped for searching for or pursuing hares with dogs etc[^c-5f3feadb4182a50f2e282055d541dec1][^c-81220dac7fa51c42e6b482d9959aa958]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f3feadb4182a50f2e282055d541dec1]: Commencement: S. 64 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-5f3feadb4182a50f2e282055d541dec1]: Commencement: S. 64 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-81220dac7fa51c42e6b482d9959aa958]: Commencement: S. 64 in force at 1.8.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 7](https://www.legislation.gov.uk/uksi/2022/520/regulation/7)
+[^c-81220dac7fa51c42e6b482d9959aa958]: Commencement: S. 64 in force at 1.8.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 7](https://www.legislation.gov.uk/uksi/2022/520/regulation/7)

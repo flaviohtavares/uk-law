@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128U. Reduction of FPJAYS purchase where additional reckonable service taken into account[^key-73af1ad52439faa59a794455bec473bf]
+## 128U. Reduction of FPJAYS purchase where additional reckonable service taken into account[^c-73af1ad52439faa59a794455bec473bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ the additional reckonable service to be taken into account means that the number
 
 ## Annotations
 
-[^key-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)
+[^c-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)

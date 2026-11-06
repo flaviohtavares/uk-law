@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Supplementary provisions[^key-fb4af54d8c2e743451e082b485c44f04][^key-fcbf3fe1f4e91be53c5117bcddc83e1a]
+## 23. Supplementary provisions[^c-fb4af54d8c2e743451e082b485c44f04][^c-fcbf3fe1f4e91be53c5117bcddc83e1a]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fb4af54d8c2e743451e082b485c44f04]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2016/1/section/23) in force at 5.8.2016 for specified purposes by [S.I. 2016/813](https://www.legislation.gov.uk/wsi/2016/813), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/813/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2016/813/schedule/part/1)
+[^c-fb4af54d8c2e743451e082b485c44f04]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2016/1/section/23) in force at 5.8.2016 for specified purposes by [S.I. 2016/813](https://www.legislation.gov.uk/wsi/2016/813), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/813/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2016/813/schedule/part/1)
 
-[^key-fcbf3fe1f4e91be53c5117bcddc83e1a]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2016/1/section/23) in force at 1.12.2022 in so far as not already in force by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-fcbf3fe1f4e91be53c5117bcddc83e1a]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2016/1/section/23) in force at 1.12.2022 in so far as not already in force by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

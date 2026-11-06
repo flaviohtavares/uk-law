@@ -45,10 +45,10 @@ unless the person to whom the notice would be given is a party to the proceeding
 
 (7) In this section “**the appropriate authority**” means—
 
-- (a) in relation to proceedings in Northern Ireland, the Advocate General for Northern Ireland and[^key-3e54bdc25b957b54b87daa72e5751e15] ;
+- (a) in relation to proceedings in Northern Ireland, the Advocate General for Northern Ireland and[^c-3e54bdc25b957b54b87daa72e5751e15] ;
 - (b) in relation to proceedings in England and Wales, the Attorney General;
 - (c) in relation to proceedings in Scotland, the Lord Advocate and the Advocate General for Scotland.
 
 ## Annotations
 
-[^key-3e54bdc25b957b54b87daa72e5751e15]: Textual amendment: Words in s. 81(7) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/8); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/a)
+[^c-3e54bdc25b957b54b87daa72e5751e15]: Textual amendment: Words in s. 81(7) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/8); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/a)

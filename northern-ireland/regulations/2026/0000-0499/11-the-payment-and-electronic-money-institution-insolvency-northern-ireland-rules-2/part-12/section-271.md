@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 271. Application of Chapter 4[^key-0ff454586a5dc62d0c8c20d6413d4efc]
+## 271. Application of Chapter 4[^c-0ff454586a5dc62d0c8c20d6413d4efc]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ This Chapter applies where a return, notice, document or other information is to
 
 ## Annotations
 
-[^key-0ff454586a5dc62d0c8c20d6413d4efc]: Commencement: [Rule 271](https://www.legislation.gov.uk/nisr/2026/11/rule/271) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-0ff454586a5dc62d0c8c20d6413d4efc]: Commencement: [Rule 271](https://www.legislation.gov.uk/nisr/2026/11/rule/271) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. The Building Regulations 2010[^key-d7fbae4841a1cee1b802563509edab9c]
+## 49. The Building Regulations 2010[^c-d7fbae4841a1cee1b802563509edab9c]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Building Regulations 2010[^f00033] are amended as follows.
 
 ## Annotations
 
-[^key-d7fbae4841a1cee1b802563509edab9c]: Commencement: [Reg. 49](https://www.legislation.gov.uk/wsi/2024/924/regulation/49) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-d7fbae4841a1cee1b802563509edab9c]: Commencement: [Reg. 49](https://www.legislation.gov.uk/wsi/2024/924/regulation/49) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00033]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214); relevant amending instruments are [S.I. 2013/2730 (W. 264)](https://www.legislation.gov.uk/wsi/2013/2730), [S.I. 2018/558 (W. 97)](https://www.legislation.gov.uk/wsi/2018/558).

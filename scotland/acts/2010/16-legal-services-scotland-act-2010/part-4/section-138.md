@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 138. Accounts rules fee[^key-8e5c8af80127035acc9e4057384328f3]
+## 138. Accounts rules fee[^c-8e5c8af80127035acc9e4057384328f3]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e5c8af80127035acc9e4057384328f3]: Commencement: [S. 138](https://www.legislation.gov.uk/asp/2010/16/section/138) in force at 1.5.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(a)](https://www.legislation.gov.uk/ssi/2011/180/article/4/a)
+[^c-8e5c8af80127035acc9e4057384328f3]: Commencement: [S. 138](https://www.legislation.gov.uk/asp/2010/16/section/138) in force at 1.5.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(a)](https://www.legislation.gov.uk/ssi/2011/180/article/4/a)

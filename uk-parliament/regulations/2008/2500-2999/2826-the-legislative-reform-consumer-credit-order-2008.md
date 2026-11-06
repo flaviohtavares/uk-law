@@ -51,15 +51,15 @@ Pursuant to section 15 of that Act, the affirmative resolution procedure (within
 
 In accordance with section 17(2) of that Act, the draft has been approved by resolution of each House of Parliament after the expiry of the 40 day period referred to in that provision.
 
-## 1. Citation and commencement[^key-be44e8721c8392cb41896df7e5ff8c43]
+## 1. Citation and commencement[^c-be44e8721c8392cb41896df7e5ff8c43]
 
 This Order may be cited as the Legislative Reform (Consumer Credit) Order 2008 and shall come into force on the day after the day on which it is made.
 
-## 2. Interpretation[^key-bcfaa7acf3baf9c8fcbf0ef1fea23a55]
+## 2. Interpretation[^c-bcfaa7acf3baf9c8fcbf0ef1fea23a55]
 
 In this Order “the 1974 Act” means the Consumer Credit Act 1974[^f00002].
 
-## 3. Exemption relating to investment properties[^key-28a4b2be4bb027eca4c3c7c3fa259ced]
+## 3. Exemption relating to investment properties[^c-28a4b2be4bb027eca4c3c7c3fa259ced]
 
 (1) After section 16B of the 1974 Act insert—
 
@@ -92,7 +92,7 @@ In this Order “the 1974 Act” means the Consumer Credit Act 1974[^f00002].
 
 (4) In section 189(1) of the 1974 Act (definitions) in the definition of “exempt agreement” for “or 16B” substitute “, 16B or 16C”.
 
-## 4. Statements to be provided in relation to fixed-sum credit agreements[^key-0f7e7ff097409d17892bf363069aa303]
+## 4. Statements to be provided in relation to fixed-sum credit agreements[^c-0f7e7ff097409d17892bf363069aa303]
 
 In section 77A of the 1974 Act (statements to be provided in relation to fixed-sum credit agreements)—
 
@@ -119,7 +119,7 @@ In section 77A of the 1974 Act (statements to be provided in relation to fixed-s
   - (ii) paragraph (b) and the “or” immediately preceding it shall cease to have effect; and
 - (c) in subsection (7) omit the words “paragraph (a) or (as the case may be) paragraph (b) of”.
 
-## 5.[^key-e4701e6893b4aac0dee1be215a84aa2b]
+## 5.[^c-e4701e6893b4aac0dee1be215a84aa2b]
 
 (1) Section 77A of the 1974 Act, as amended by this Order, applies to agreements whenever made.
 
@@ -128,15 +128,15 @@ In section 77A of the 1974 Act (statements to be provided in relation to fixed-s
 - (a) the period mentioned in subsection (1B) were a period beginning no later than the day of the commencement of section 6 and ending no later than the day before the first anniversary of that day; and
 - (b) subsection (1C) did not apply.
 
-## 6.[^key-c861bed133dc9ba5760fd2124235d4d4]
+## 6.[^c-c861bed133dc9ba5760fd2124235d4d4]
 
 Paragraph 2 of Schedule 3 to the Consumer Credit Act 2006 is repealed.
 
-## 7.[^key-6abab3b4294ffb61c09b67b5f893a280]
+## 7.[^c-6abab3b4294ffb61c09b67b5f893a280]
 
 Regulation 11 of the Consumer Credit (Information Requirements and Duration of Licences and Charges) Regulations 2007[^f00004] is revoked.
 
-## 8. Interpretation of s.86B of the 1974 Act[^key-36eb498c77fea06cf43cc281cd5b0660]
+## 8. Interpretation of s.86B of the 1974 Act[^c-36eb498c77fea06cf43cc281cd5b0660]
 
 In section 86B of the 1974 Act (notice of sums in arrears under fixed-sum credit agreements etc.)—
 
@@ -150,7 +150,7 @@ In section 86B of the 1974 Act (notice of sums in arrears under fixed-sum credit
 
   .
 
-## 9. Interpretation of s.86C of the 1974 Act[^key-994df22bf1c57499406861288c1048b4]
+## 9. Interpretation of s.86C of the 1974 Act[^c-994df22bf1c57499406861288c1048b4]
 
 In section 86C of the 1974 Act (notice of sums in arrears under running-account credit agreements) after subsection (7) insert—
 
@@ -196,26 +196,26 @@ An Impact Assessment has been prepared in respect of this Order and may be viewe
 
 [^f00001]: Footnote: [2006 c.51](https://www.legislation.gov.uk/ukpga/2006/51); see section 32 for the definition of “Minister of the Crown”.
 
-[^key-be44e8721c8392cb41896df7e5ff8c43]: Commencement: Art. 1 in force at 31.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2826/article/1)
+[^c-be44e8721c8392cb41896df7e5ff8c43]: Commencement: Art. 1 in force at 31.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2826/article/1)
 
-[^key-bcfaa7acf3baf9c8fcbf0ef1fea23a55]: Commencement: Art. 2 in force at 31.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2826/article/1)
+[^c-bcfaa7acf3baf9c8fcbf0ef1fea23a55]: Commencement: Art. 2 in force at 31.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2826/article/1)
 
 [^f00002]: Footnote: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39). Relevant amendments were made to the 1974 Act by the Consumer Credit Act [2006 c.14](https://www.legislation.gov.uk/ukpga/2006/14). Sections 77A, 86B and 86C of the 1974 Act were inserted by sections 6, 9 and 10 respectively of the Consumer Credit Act 2006.
 
-[^key-28a4b2be4bb027eca4c3c7c3fa259ced]: Commencement: Art. 3 in force at 31.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2826/article/1)
+[^c-28a4b2be4bb027eca4c3c7c3fa259ced]: Commencement: Art. 3 in force at 31.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2826/article/1)
 
-[^key-0f7e7ff097409d17892bf363069aa303]: Commencement: Art. 4 in force at 31.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2826/article/1)
+[^c-0f7e7ff097409d17892bf363069aa303]: Commencement: Art. 4 in force at 31.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2826/article/1)
 
-[^key-e4701e6893b4aac0dee1be215a84aa2b]: Commencement: Art. 5 in force at 31.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2826/article/1)
+[^c-e4701e6893b4aac0dee1be215a84aa2b]: Commencement: Art. 5 in force at 31.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2826/article/1)
 
 [^f00003]: Footnote: [2006 c.14](https://www.legislation.gov.uk/ukpga/2006/14).
 
-[^key-c861bed133dc9ba5760fd2124235d4d4]: Commencement: Art. 6 in force at 31.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2826/article/1)
+[^c-c861bed133dc9ba5760fd2124235d4d4]: Commencement: Art. 6 in force at 31.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2826/article/1)
 
-[^key-6abab3b4294ffb61c09b67b5f893a280]: Commencement: Art. 7 in force at 31.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2826/article/1)
+[^c-6abab3b4294ffb61c09b67b5f893a280]: Commencement: Art. 7 in force at 31.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2826/article/1)
 
 [^f00004]: Footnote: [S.I. 2007/1167](https://www.legislation.gov.uk/uksi/2007/1167).
 
-[^key-36eb498c77fea06cf43cc281cd5b0660]: Commencement: Art. 8 in force at 31.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2826/article/1)
+[^c-36eb498c77fea06cf43cc281cd5b0660]: Commencement: Art. 8 in force at 31.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2826/article/1)
 
-[^key-994df22bf1c57499406861288c1048b4]: Commencement: Art. 9 in force at 31.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2826/article/1)
+[^c-994df22bf1c57499406861288c1048b4]: Commencement: Art. 9 in force at 31.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2826/article/1)

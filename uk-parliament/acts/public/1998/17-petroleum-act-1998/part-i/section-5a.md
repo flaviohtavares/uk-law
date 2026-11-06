@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. Rights transferred without the consent of appropriate authority[^M_C_d6422e1b-df75-4a00-bfde-83a81b5f226b][^key-bda428a0e81b1fcb525a25ab39783148][^key-61a85705c49225f3127fb9ef33757415][^key-ba2636d05a532dfbf325ee43cebb2def]
+## 5A. Rights transferred without the consent of appropriate authority[^M_C_d6422e1b-df75-4a00-bfde-83a81b5f226b][^c-bda428a0e81b1fcb525a25ab39783148][^c-61a85705c49225f3127fb9ef33757415][^c-ba2636d05a532dfbf325ee43cebb2def]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,8 +46,8 @@ summary: ''
 
 [^M_C_d6422e1b-df75-4a00-bfde-83a81b5f226b]: Modification: S. 5A modified (temp.) (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), regs. 1(2), 2
 
-[^key-bda428a0e81b1fcb525a25ab39783148]: Textual amendment: Ss. 5A-5C inserted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 76](https://www.legislation.gov.uk/ukpga/2008/32/section/76), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/i)
+[^c-bda428a0e81b1fcb525a25ab39783148]: Textual amendment: Ss. 5A-5C inserted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 76](https://www.legislation.gov.uk/ukpga/2008/32/section/76), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/i)
 
-[^key-61a85705c49225f3127fb9ef33757415]: Textual amendment: Words in s. 5A substituted (9.2.2018) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 48(12)](https://www.legislation.gov.uk/ukpga/2016/11/section/48/12), [72(4)(c)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/c); [S.I. 2018/163](https://www.legislation.gov.uk/uksi/2018/163), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/163/regulation/2/b)
+[^c-61a85705c49225f3127fb9ef33757415]: Textual amendment: Words in s. 5A substituted (9.2.2018) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 48(12)](https://www.legislation.gov.uk/ukpga/2016/11/section/48/12), [72(4)(c)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/c); [S.I. 2018/163](https://www.legislation.gov.uk/uksi/2018/163), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/163/regulation/2/b)
 
-[^key-ba2636d05a532dfbf325ee43cebb2def]: Textual amendment: Word in s. 5A substituted (9.2.2018) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/3), [3(5)](https://www.legislation.gov.uk/uksi/2016/898/regulation/3/5) (with [reg. 2](https://www.legislation.gov.uk/uksi/2016/898/regulation/2)); [S.I. 2018/163](https://www.legislation.gov.uk/uksi/2018/163), reg. 2(b)
+[^c-ba2636d05a532dfbf325ee43cebb2def]: Textual amendment: Word in s. 5A substituted (9.2.2018) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/3), [3(5)](https://www.legislation.gov.uk/uksi/2016/898/regulation/3/5) (with [reg. 2](https://www.legislation.gov.uk/uksi/2016/898/regulation/2)); [S.I. 2018/163](https://www.legislation.gov.uk/uksi/2018/163), reg. 2(b)

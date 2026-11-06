@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Incidents involving serious violence: powers to stop and search[^key-f10496d984fbcb1cd188741584d9a35a]
+## 87. Incidents involving serious violence: powers to stop and search[^c-f10496d984fbcb1cd188741584d9a35a]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f10496d984fbcb1cd188741584d9a35a]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2007/27/section/87) in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 18](https://www.legislation.gov.uk/uksi/2008/755/article/18)
+[^c-f10496d984fbcb1cd188741584d9a35a]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2007/27/section/87) in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 18](https://www.legislation.gov.uk/uksi/2008/755/article/18)

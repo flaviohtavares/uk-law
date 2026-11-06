@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Interpretation[^key-ab53b69c32e3bf4f9ce5b17eb1e36987]
+## 52. Interpretation[^c-ab53b69c32e3bf4f9ce5b17eb1e36987]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab53b69c32e3bf4f9ce5b17eb1e36987]: Commencement: S. 52 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-ab53b69c32e3bf4f9ce5b17eb1e36987]: Commencement: S. 52 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Appointment of liquidators etc.[^key-09db03bcd6d9f85f19b245c915904536]
+## 57. Appointment of liquidators etc.[^c-09db03bcd6d9f85f19b245c915904536]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ An appointed person [^c23552601] must—
 
 ## Annotations
 
-[^key-09db03bcd6d9f85f19b245c915904536]: Commencement: [Reg. 57](https://www.legislation.gov.uk/wsi/2019/165/regulation/57) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-09db03bcd6d9f85f19b245c915904536]: Commencement: [Reg. 57](https://www.legislation.gov.uk/wsi/2019/165/regulation/57) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
 
 [^c23552601]: Marginal citation: “**Appointed person**” has the same meaning as in section 30 of the Act.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55.8. The hearing[^key-6d372728ca614d30331c2a6aa037d325]
+## 55.8. The hearing[^c-6d372728ca614d30331c2a6aa037d325]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) Except where—
 
-- (a) the claim is allocated to the fast track , the intermediate track[^key-600b3844f45c81b545e201ef8f84ae41] or the multi-track; or
+- (a) the claim is allocated to the fast track , the intermediate track[^c-600b3844f45c81b545e201ef8f84ae41] or the multi-track; or
 - (b) the court orders otherwise,
 
 any fact that needs to be proved by the evidence of witnesses at a hearing referred to in paragraph (1) may be proved by evidence in writing.
@@ -40,14 +40,14 @@ any fact that needs to be proved by the evidence of witnesses at a hearing refer
 
 (5) In a possession claim against trespassers all witness statements on which the claimant intends to rely must be filed and served with the claim form.
 
-(6) Where the claimant serves the claim form and particulars of claim, the claimant[^key-074730cd6c11e8fb076fbd855722b61c] must produce at the hearing a certificate of service of those documents and rule 6.17(2)(a)[^key-d842f677b90d5f59267e6f00b679933b] does not apply.
+(6) Where the claimant serves the claim form and particulars of claim, the claimant[^c-074730cd6c11e8fb076fbd855722b61c] must produce at the hearing a certificate of service of those documents and rule 6.17(2)(a)[^c-d842f677b90d5f59267e6f00b679933b] does not apply.
 
 ## Annotations
 
-[^key-6d372728ca614d30331c2a6aa037d325]: Textual amendment: Pt. 55 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/256/schedule/1) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
+[^c-6d372728ca614d30331c2a6aa037d325]: Textual amendment: Pt. 55 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/256/schedule/1) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
 
-[^key-600b3844f45c81b545e201ef8f84ae41]: Textual amendment: Words in [rule 55.8(3)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.8/3/a) inserted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [19(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/19/1) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-600b3844f45c81b545e201ef8f84ae41]: Textual amendment: Words in [rule 55.8(3)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.8/3/a) inserted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [19(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/19/1) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-074730cd6c11e8fb076fbd855722b61c]: Textual amendment: Words in [rule 55.8(6)](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.8/6) substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [28(a)(i)](https://www.legislation.gov.uk/uksi/2008/2178/rule/28/a/i)
+[^c-074730cd6c11e8fb076fbd855722b61c]: Textual amendment: Words in [rule 55.8(6)](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.8/6) substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [28(a)(i)](https://www.legislation.gov.uk/uksi/2008/2178/rule/28/a/i)
 
-[^key-d842f677b90d5f59267e6f00b679933b]: Textual amendment: Word in [rule 55.8(6)](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.8/6) substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [28(a)(ii)](https://www.legislation.gov.uk/uksi/2008/2178/rule/28/a/ii)
+[^c-d842f677b90d5f59267e6f00b679933b]: Textual amendment: Word in [rule 55.8(6)](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.8/6) substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [28(a)(ii)](https://www.legislation.gov.uk/uksi/2008/2178/rule/28/a/ii)

@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Miscellaneous Food Additives (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^key-088ca220d2e3d5394e35ef2ae87e7d01]
+Miscellaneous Food Additives (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^c-088ca220d2e3d5394e35ef2ae87e7d01]
 
 Made
 
@@ -41,33 +41,33 @@ Coming into operation
 
 30th March 2001
 
-[^key-088ca220d2e3d5394e35ef2ae87e7d01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-088ca220d2e3d5394e35ef2ae87e7d01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation —[^key-088ca220d2e3d5394e35ef2ae87e7d01]
+## 1. Citation, commencement and interpretation —[^c-088ca220d2e3d5394e35ef2ae87e7d01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-088ca220d2e3d5394e35ef2ae87e7d01]
+## 2. Amendment of the principal Regulations[^c-088ca220d2e3d5394e35ef2ae87e7d01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-088ca220d2e3d5394e35ef2ae87e7d01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-088ca220d2e3d5394e35ef2ae87e7d01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-088ca220d2e3d5394e35ef2ae87e7d01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-088ca220d2e3d5394e35ef2ae87e7d01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-088ca220d2e3d5394e35ef2ae87e7d01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-088ca220d2e3d5394e35ef2ae87e7d01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Consequential amendments[^key-088ca220d2e3d5394e35ef2ae87e7d01]
+## 6. Consequential amendments[^c-088ca220d2e3d5394e35ef2ae87e7d01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-088ca220d2e3d5394e35ef2ae87e7d01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-088ca220d2e3d5394e35ef2ae87e7d01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Miscellaneous additives for which specific purity criteria specified or referred to in Schedule 5 to the principal Regulations are omitted[^key-088ca220d2e3d5394e35ef2ae87e7d01]
+## SCHEDULE — Miscellaneous additives for which specific purity criteria specified or referred to in Schedule 5 to the principal Regulations are omitted[^c-088ca220d2e3d5394e35ef2ae87e7d01]
 
 Regulation 5
 
@@ -75,8 +75,8 @@ Regulation 5
 
 **May not be in force at this date. Check the source.**
 
-[^key-088ca220d2e3d5394e35ef2ae87e7d01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-088ca220d2e3d5394e35ef2ae87e7d01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-088ca220d2e3d5394e35ef2ae87e7d01]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/46) revoked (20.1.2010) by [The Food Additives Regulations (Northern Ireland) 2009 (S.R. 2009/416)](https://www.legislation.gov.uk/nisr/2009/416), [regs. 1](https://www.legislation.gov.uk/nisr/2009/416/regulation/1), [20](https://www.legislation.gov.uk/nisr/2009/416/regulation/20), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/416/schedule/2)
+[^c-088ca220d2e3d5394e35ef2ae87e7d01]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/46) revoked (20.1.2010) by [The Food Additives Regulations (Northern Ireland) 2009 (S.R. 2009/416)](https://www.legislation.gov.uk/nisr/2009/416), [regs. 1](https://www.legislation.gov.uk/nisr/2009/416/regulation/1), [20](https://www.legislation.gov.uk/nisr/2009/416/regulation/20), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/416/schedule/2)

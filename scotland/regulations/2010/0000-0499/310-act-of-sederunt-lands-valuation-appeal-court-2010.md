@@ -31,7 +31,7 @@ summary: ''
 
 Court Of Session
 
-Act of Sederunt (Lands Valuation Appeal Court) 2010 (revoked)[^key-fa2e9e6aad2079bbd153e88b8de088d5]
+Act of Sederunt (Lands Valuation Appeal Court) 2010 (revoked)[^c-fa2e9e6aad2079bbd153e88b8de088d5]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 1st October 2010
 
-[^key-fa2e9e6aad2079bbd153e88b8de088d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa2e9e6aad2079bbd153e88b8de088d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fa2e9e6aad2079bbd153e88b8de088d5]
+## 1. Citation and commencement[^c-fa2e9e6aad2079bbd153e88b8de088d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Lands Valuation Appeal Court[^key-fa2e9e6aad2079bbd153e88b8de088d5]
+## 2. Lands Valuation Appeal Court[^c-fa2e9e6aad2079bbd153e88b8de088d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa2e9e6aad2079bbd153e88b8de088d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa2e9e6aad2079bbd153e88b8de088d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fa2e9e6aad2079bbd153e88b8de088d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa2e9e6aad2079bbd153e88b8de088d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fa2e9e6aad2079bbd153e88b8de088d5]: Textual amendment: [Instrument](https://www.legislation.gov.uk/ssi/2010/310) revoked (22.11.2011) by [Act of Sederunt (Lands Valuation Appeal Court) 2011 (S.S.I. 2011/400)](https://www.legislation.gov.uk/ssi/2011/400), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/400/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/400/paragraph/2/2)
+[^c-fa2e9e6aad2079bbd153e88b8de088d5]: Textual amendment: [Instrument](https://www.legislation.gov.uk/ssi/2010/310) revoked (22.11.2011) by [Act of Sederunt (Lands Valuation Appeal Court) 2011 (S.S.I. 2011/400)](https://www.legislation.gov.uk/ssi/2011/400), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/400/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/400/paragraph/2/2)

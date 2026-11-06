@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Assisting unlawful immigration or asylum seeker[^key-e719fd28b1e43c915bb3686589e38914][^key-f8e813d7fa38da4217d82320ca35f34f]
+## 41. Assisting unlawful immigration or asylum seeker[^c-e719fd28b1e43c915bb3686589e38914][^c-f8e813d7fa38da4217d82320ca35f34f]
 
 *Extent: E+W+S+N.I.*
 
@@ -105,6 +105,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e719fd28b1e43c915bb3686589e38914]: Commencement: S. 41 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-e719fd28b1e43c915bb3686589e38914]: Commencement: S. 41 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-f8e813d7fa38da4217d82320ca35f34f]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2022/36/section/41) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/21) (with [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/7))
+[^c-f8e813d7fa38da4217d82320ca35f34f]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2022/36/section/41) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/21) (with [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/7))

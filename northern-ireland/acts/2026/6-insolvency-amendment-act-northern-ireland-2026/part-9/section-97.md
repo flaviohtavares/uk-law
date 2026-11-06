@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 97. Further protection of essential supplies[^key-ae341881d9795efc816bcd6afba9b6cd][^key-4066242f4dc1cb0e9144520df9382ff1]
+## 97. Further protection of essential supplies[^c-ae341881d9795efc816bcd6afba9b6cd][^c-4066242f4dc1cb0e9144520df9382ff1]
 
 *Extent: N.I.*
 
@@ -74,6 +74,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae341881d9795efc816bcd6afba9b6cd]: Commencement: S. 97 in operation at 25.6.2026, see [s. 120(01)](https://www.legislation.gov.uk/nia/2026/6/section/120/01)
+[^c-ae341881d9795efc816bcd6afba9b6cd]: Commencement: S. 97 in operation at 25.6.2026, see [s. 120(01)](https://www.legislation.gov.uk/nia/2026/6/section/120/01)
 
-[^key-4066242f4dc1cb0e9144520df9382ff1]: Commencement: [S. 97](https://www.legislation.gov.uk/nia/2026/6/section/97) in operation at 25.6.2026, see [s. 120(1)](https://www.legislation.gov.uk/nia/2026/6/section/120/1)
+[^c-4066242f4dc1cb0e9144520df9382ff1]: Commencement: [S. 97](https://www.legislation.gov.uk/nia/2026/6/section/97) in operation at 25.6.2026, see [s. 120(1)](https://www.legislation.gov.uk/nia/2026/6/section/120/1)

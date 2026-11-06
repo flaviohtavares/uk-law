@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Classification, supply and possession of the product[^key-f1e58b3ee8dcfc0a846e5909b02d8f84]
+## 7. Classification, supply and possession of the product[^c-f1e58b3ee8dcfc0a846e5909b02d8f84]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1e58b3ee8dcfc0a846e5909b02d8f84]: Commencement: Reg. 7 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-f1e58b3ee8dcfc0a846e5909b02d8f84]: Commencement: Reg. 7 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

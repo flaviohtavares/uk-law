@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 130. Meaning of “death grant beneficiary”[^key-7ec40e84f9698d1e157769600a4c4588]
+## 130. Meaning of “death grant beneficiary”[^c-7ec40e84f9698d1e157769600a4c4588]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ec40e84f9698d1e157769600a4c4588]: Commencement: [Reg. 130](https://www.legislation.gov.uk/ssi/2014/292/regulation/130) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-7ec40e84f9698d1e157769600a4c4588]: Commencement: [Reg. 130](https://www.legislation.gov.uk/ssi/2014/292/regulation/130) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

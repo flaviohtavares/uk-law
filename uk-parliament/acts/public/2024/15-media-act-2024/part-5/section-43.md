@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Character of local services[^key-be56ba7e8b87514d7ab1066c54b301d6][^key-b5446152339c2793fbacf8a753512a5c]
+## 43. Character of local services[^c-be56ba7e8b87514d7ab1066c54b301d6][^c-b5446152339c2793fbacf8a753512a5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be56ba7e8b87514d7ab1066c54b301d6]: Commencement: S. 43 not in force at Royal Assent, see [s. 55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e)
+[^c-be56ba7e8b87514d7ab1066c54b301d6]: Commencement: S. 43 not in force at Royal Assent, see [s. 55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e)
 
-[^key-b5446152339c2793fbacf8a753512a5c]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2024/15/section/43) in force at 17.10.2024 by [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/c) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/5/1))
+[^c-b5446152339c2793fbacf8a753512a5c]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2024/15/section/43) in force at 17.10.2024 by [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/c) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/5/1))

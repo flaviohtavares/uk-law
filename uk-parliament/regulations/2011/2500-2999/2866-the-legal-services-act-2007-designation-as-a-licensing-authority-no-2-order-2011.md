@@ -105,7 +105,7 @@ which it would not incur, or be under, or be deemed to have, in the case of an a
 - (a) “**bank**” means—
   - (i) the Bank of England;
   - (ii) a person (other than a building society) who under Part 4 of the Financial Services and Markets Act 2000 [^c21108541] has permission to accept deposits;
-  - (iii) [^key-4aa8d61efd8200751aa0429ed4cdf383]... and
+  - (iii) [^c-4aa8d61efd8200751aa0429ed4cdf383]... and
 - (b) “**building society**” means a building society incorporated (or deemed to be incorporated) under the Building Societies Act 1986 [^c21108581].
 
 ## 5. Provision of information as to compliance with licensed body's licence
@@ -132,7 +132,7 @@ which it would not incur, or be under, or be deemed to have, in the case of an a
 
 ## 6. Powers of Solicitors Disciplinary Tribunal in respect of legal aid complaints
 
-Where the Solicitors Disciplinary Tribunal makes an order under section 47(2A) of the 1974 Act [^c21108591] in the case of a solicitor who is a manager or employee of a licensed body, the Solicitors Disciplinary Tribunal may, if it thinks fit, order that any other solicitor who is for the time being a manager or employee of that body shall also be excluded (either permanently or for a specified period) from providing representation funded by the Legal Services Commission as part of the Criminal Defence Service or from providing criminal legal aid work (within the meaning of section 47(3C) of the 1974 Act)[^key-15741ec8cd866bff4896bb9a53f388d2].
+Where the Solicitors Disciplinary Tribunal makes an order under section 47(2A) of the 1974 Act [^c21108591] in the case of a solicitor who is a manager or employee of a licensed body, the Solicitors Disciplinary Tribunal may, if it thinks fit, order that any other solicitor who is for the time being a manager or employee of that body shall also be excluded (either permanently or for a specified period) from providing representation funded by the Legal Services Commission as part of the Criminal Defence Service or from providing criminal legal aid work (within the meaning of section 47(3C) of the 1974 Act)[^c-15741ec8cd866bff4896bb9a53f388d2].
 
 ## 7. Application of Part 3 of the Solicitors Act 1974 to licensed bodies
 
@@ -243,7 +243,7 @@ any party to, or the representative of any party to, the agreement may apply to 
 - (a) a resolution for a voluntary winding-up of the body is passed without a declaration of solvency under section 89 of the Insolvency Act 1986 [^c21108651];
 - (b) the body enters administration within the meaning of paragraph 1(2)(b) of Schedule B1 to that Act;
 - (c) an administrative receiver within the meaning of section 251 [^c21108661] of that Act is appointed;
-- (d)[^key-06e8d0cdba7c6496eb4a16fbf7ed1d54] a winding up becomes a creditors’ voluntary winding up under section 96 of that Act (conversion to creditors’ voluntary winding up);
+- (d)[^c-06e8d0cdba7c6496eb4a16fbf7ed1d54] a winding up becomes a creditors’ voluntary winding up under section 96 of that Act (conversion to creditors’ voluntary winding up);
 - (e) an order for the winding up of the body is made.
 
 ### 9. Power of court to order delivery of bill of costs, etc
@@ -337,7 +337,7 @@ Article 8(1)
 </tbody>
 </table>
 
-[^c21108681][^key-f841b5c0be9595e542d578e69196c14e][^key-f841b5c0be9595e542d578e69196c14e][^c21108701][^c21108711][^c21108721][^key-d265386ee329f56e0dd51602aab35ecb][^key-d265386ee329f56e0dd51602aab35ecb][^c21108731][^c21108741][^key-5731d9dd2baed883bb61ff0b901ebbeb][^c21108751][^c21108761][^c21108771][^key-bb715d3add4bd278310c5c0ec9283ebc][^key-bb715d3add4bd278310c5c0ec9283ebc][^c21108791][^c21108801][^c21108811][^key-e13e404c2500fc90682cc3267118d38c][^key-e13e404c2500fc90682cc3267118d38c][^key-21e36be8252bee5bd75b1843b38a63a6][^key-21e36be8252bee5bd75b1843b38a63a6][^key-21e36be8252bee5bd75b1843b38a63a6][^key-21e36be8252bee5bd75b1843b38a63a6][^key-047ab65366030fce0bb5c92a5adbc647][^c21108831][^c21108841][^c21108851][^c21108861][^c21108871][^key-fafb170e6735f0c716f0ce58c3c1a837][^key-fafb170e6735f0c716f0ce58c3c1a837][^c21108891][^key-547206d02e34d400a12aadce9d182405]
+[^c21108681][^c-f841b5c0be9595e542d578e69196c14e][^c-f841b5c0be9595e542d578e69196c14e][^c21108701][^c21108711][^c21108721][^c-d265386ee329f56e0dd51602aab35ecb][^c-d265386ee329f56e0dd51602aab35ecb][^c21108731][^c21108741][^c-5731d9dd2baed883bb61ff0b901ebbeb][^c21108751][^c21108761][^c21108771][^c-bb715d3add4bd278310c5c0ec9283ebc][^c-bb715d3add4bd278310c5c0ec9283ebc][^c21108791][^c21108801][^c21108811][^c-e13e404c2500fc90682cc3267118d38c][^c-e13e404c2500fc90682cc3267118d38c][^c-21e36be8252bee5bd75b1843b38a63a6][^c-21e36be8252bee5bd75b1843b38a63a6][^c-21e36be8252bee5bd75b1843b38a63a6][^c-21e36be8252bee5bd75b1843b38a63a6][^c-047ab65366030fce0bb5c92a5adbc647][^c21108831][^c21108841][^c21108851][^c21108861][^c21108871][^c-fafb170e6735f0c716f0ce58c3c1a837][^c-fafb170e6735f0c716f0ce58c3c1a837][^c21108891][^c-547206d02e34d400a12aadce9d182405]
 
 ## SCHEDULE 3
 
@@ -390,13 +390,13 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c21108541]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-4aa8d61efd8200751aa0429ed4cdf383]: Textual amendment: [Words in art. 4(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2011/2866/article/4/4/a/iii) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 65](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/65) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4aa8d61efd8200751aa0429ed4cdf383]: Textual amendment: [Words in art. 4(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2011/2866/article/4/4/a/iii) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 65](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/65) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21108581]: Marginal citation: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).
 
 [^c21108591]: Marginal citation: Section 47(2A) was inserted by sections 44 and 69(5) of the [Administration of Justice Act 1985 (c. 61)](https://www.legislation.gov.uk/ukpga/1985/61).
 
-[^key-15741ec8cd866bff4896bb9a53f388d2]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2011/2866/article/6) inserted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/11)
+[^c-15741ec8cd866bff4896bb9a53f388d2]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2011/2866/article/6) inserted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/11)
 
 [^c21108601]: Marginal citation: In section 87(1), the definition of “client” is amended by Schedule 4 to the [Arbitration Act 1996 (c. 23)](https://www.legislation.gov.uk/ukpga/1996/23); [paragraph 12(a)](https://www.legislation.gov.uk/uksi/2011/2866/paragraph/12/a) of Schedule 1 to the [Administration of Justice Act 1985 (c. 61)](https://www.legislation.gov.uk/ukpga/1985/61) and paragraph 21(1) and (6) of Schedule 11 to the [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4). There are other amendments to section 87 but none are relevant to this Order.
 
@@ -412,11 +412,11 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c21108661]: Marginal citation: Section 251 is inserted by Schedule 16 to the [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40).
 
-[^key-06e8d0cdba7c6496eb4a16fbf7ed1d54]: Textual amendment: [Sch. 1 para. 8(4)(d)](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/8/4/d) substituted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/12/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
+[^c-06e8d0cdba7c6496eb4a16fbf7ed1d54]: Textual amendment: [Sch. 1 para. 8(4)(d)](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/8/4/d) substituted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/12/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
 
 [^c21108681]: Marginal citation: The provisions listed in this Schedule, except the Civil Procedure Rules 1998, are modified by article 2(1) of and Schedule 1 to the [Solicitors' Recognised Bodies Order 1991 (S.I. 1991/2684)](https://www.legislation.gov.uk/uksi/1991/2684).
 
-[^key-f841b5c0be9595e542d578e69196c14e]: Textual amendment: Sch. 2 entry omitted (1.10.2015) by virtue of [The Deregulation Act 2015 (Insolvency) (Consequential Amendments and Transitional and Savings Provisions) Order 2015 (S.I. 2015/1641)](https://www.legislation.gov.uk/uksi/2015/1641), [art. 3](https://www.legislation.gov.uk/uksi/2015/1641/article/3), [Sch. 3 para. 3(10)(a)](https://www.legislation.gov.uk/uksi/2015/1641/schedule/3/paragraph/3/10/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2015/1641/article/10))
+[^c-f841b5c0be9595e542d578e69196c14e]: Textual amendment: Sch. 2 entry omitted (1.10.2015) by virtue of [The Deregulation Act 2015 (Insolvency) (Consequential Amendments and Transitional and Savings Provisions) Order 2015 (S.I. 2015/1641)](https://www.legislation.gov.uk/uksi/2015/1641), [art. 3](https://www.legislation.gov.uk/uksi/2015/1641/article/3), [Sch. 3 para. 3(10)(a)](https://www.legislation.gov.uk/uksi/2015/1641/schedule/3/paragraph/3/10/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2015/1641/article/10))
 
 [^c21108701]: Marginal citation: There are amendments to paragraph 16(1) which are not relevant to this Order.
 
@@ -424,13 +424,13 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c21108721]: Marginal citation: Section 3 is amended by the paragraph 23 of Schedule 21 to the 2007 Act.
 
-[^key-d265386ee329f56e0dd51602aab35ecb]: Textual amendment: Sch. 2 entry revoked (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-d265386ee329f56e0dd51602aab35ecb]: Textual amendment: Sch. 2 entry revoked (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
 [^c21108731]: Marginal citation: There are amendments to this Act which are not relevant to this Order.
 
 [^c21108741]: Marginal citation: There are amendments to paragraph 4 which are not relevant to this Order.
 
-[^key-5731d9dd2baed883bb61ff0b901ebbeb]: Textual amendment: Words in Sch. 2 omitted (1.10.2015) by virtue of [The Deregulation Act 2015 (Insolvency) (Consequential Amendments and Transitional and Savings Provisions) Order 2015 (S.I. 2015/1641)](https://www.legislation.gov.uk/uksi/2015/1641), [art. 3](https://www.legislation.gov.uk/uksi/2015/1641/article/3), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2015/1641/schedule/1/paragraph/7) (with [arts. 8](https://www.legislation.gov.uk/uksi/2015/1641/article/8), [9](https://www.legislation.gov.uk/uksi/2015/1641/article/9))
+[^c-5731d9dd2baed883bb61ff0b901ebbeb]: Textual amendment: Words in Sch. 2 omitted (1.10.2015) by virtue of [The Deregulation Act 2015 (Insolvency) (Consequential Amendments and Transitional and Savings Provisions) Order 2015 (S.I. 2015/1641)](https://www.legislation.gov.uk/uksi/2015/1641), [art. 3](https://www.legislation.gov.uk/uksi/2015/1641/article/3), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2015/1641/schedule/1/paragraph/7) (with [arts. 8](https://www.legislation.gov.uk/uksi/2015/1641/article/8), [9](https://www.legislation.gov.uk/uksi/2015/1641/article/9))
 
 [^c21108751]: Marginal citation: Section 82 is amended, in so far as relevant, by [S.I. 2010/866](https://www.legislation.gov.uk/uksi/2010/866).
 
@@ -438,7 +438,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c21108771]: Marginal citation: There are amendments to section 47 which are not relevant to this Order.
 
-[^key-bb715d3add4bd278310c5c0ec9283ebc]: Textual amendment: Sch. 2 entry omitted (1.10.2015) by virtue of [The Deregulation Act 2015 (Insolvency) (Consequential Amendments and Transitional and Savings Provisions) Order 2015 (S.I. 2015/1641)](https://www.legislation.gov.uk/uksi/2015/1641), [art. 3](https://www.legislation.gov.uk/uksi/2015/1641/article/3), [Sch. 3 para. 3(10)(b)](https://www.legislation.gov.uk/uksi/2015/1641/schedule/3/paragraph/3/10/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2015/1641/article/10))
+[^c-bb715d3add4bd278310c5c0ec9283ebc]: Textual amendment: Sch. 2 entry omitted (1.10.2015) by virtue of [The Deregulation Act 2015 (Insolvency) (Consequential Amendments and Transitional and Savings Provisions) Order 2015 (S.I. 2015/1641)](https://www.legislation.gov.uk/uksi/2015/1641), [art. 3](https://www.legislation.gov.uk/uksi/2015/1641/article/3), [Sch. 3 para. 3(10)(b)](https://www.legislation.gov.uk/uksi/2015/1641/schedule/3/paragraph/3/10/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2015/1641/article/10))
 
 [^c21108791]: Marginal citation: There are amendments to these Rules which are not relevant to this Order.
 
@@ -446,11 +446,11 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c21108811]: Marginal citation: There are amendments to these Rules which are not relevant to this Order.
 
-[^key-e13e404c2500fc90682cc3267118d38c]: Textual amendment: Sch. 2 entry revoked (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/879/schedule)
+[^c-e13e404c2500fc90682cc3267118d38c]: Textual amendment: Sch. 2 entry revoked (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/879/schedule)
 
-[^key-21e36be8252bee5bd75b1843b38a63a6]: Textual amendment: Sch. 2 entry revoked (10.3.2013) by [The Competition Act 1998 (Consequential Provisions) Order 2013 (S.I. 2013/294)](https://www.legislation.gov.uk/uksi/2013/294), [arts. 1](https://www.legislation.gov.uk/uksi/2013/294/article/1), [2](https://www.legislation.gov.uk/uksi/2013/294/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/294/schedule)
+[^c-21e36be8252bee5bd75b1843b38a63a6]: Textual amendment: Sch. 2 entry revoked (10.3.2013) by [The Competition Act 1998 (Consequential Provisions) Order 2013 (S.I. 2013/294)](https://www.legislation.gov.uk/uksi/2013/294), [arts. 1](https://www.legislation.gov.uk/uksi/2013/294/article/1), [2](https://www.legislation.gov.uk/uksi/2013/294/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/294/schedule)
 
-[^key-047ab65366030fce0bb5c92a5adbc647]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2) inserted (31.12.2020) by [The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 (S.I. 2020/1342)](https://www.legislation.gov.uk/uksi/2020/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1342/regulation/1/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/18) (with [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/13))
+[^c-047ab65366030fce0bb5c92a5adbc647]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2) inserted (31.12.2020) by [The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 (S.I. 2020/1342)](https://www.legislation.gov.uk/uksi/2020/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1342/regulation/1/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/18) (with [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/13))
 
 [^c21108831]: Marginal citation: There is an amendment to these Articles which is not relevant to this Order.
 
@@ -462,11 +462,11 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c21108871]: Marginal citation: There are amendments to this regulation which are not relevant to this Order.
 
-[^key-fafb170e6735f0c716f0ce58c3c1a837]: Textual amendment: Sch. 2 entry omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) Rules 2016 (Consequential Amendments and Savings) Rules 2017 (S.I. 2017/369)](https://www.legislation.gov.uk/uksi/2017/369), [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1), [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2017/369/schedule/2/paragraph/9/2/a)
+[^c-fafb170e6735f0c716f0ce58c3c1a837]: Textual amendment: Sch. 2 entry omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) Rules 2016 (Consequential Amendments and Savings) Rules 2017 (S.I. 2017/369)](https://www.legislation.gov.uk/uksi/2017/369), [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1), [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2017/369/schedule/2/paragraph/9/2/a)
 
 [^c21108891]: Marginal citation: There are amendments to the Civil Procedure Rules Schedule 1, RSC Orders 46 and 79 and Schedule 2, CCR Order 28 which are not relevant to this Order.
 
-[^key-547206d02e34d400a12aadce9d182405]: Textual amendment: Sch. 2 entry inserted (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (Consequential Amendments and Savings) Rules 2017 (S.I. 2017/369)](https://www.legislation.gov.uk/uksi/2017/369), [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1), [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/uksi/2017/369/schedule/2/paragraph/9/2/b)
+[^c-547206d02e34d400a12aadce9d182405]: Textual amendment: Sch. 2 entry inserted (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (Consequential Amendments and Savings) Rules 2017 (S.I. 2017/369)](https://www.legislation.gov.uk/uksi/2017/369), [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1), [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/uksi/2017/369/schedule/2/paragraph/9/2/b)
 
 [^c21108901]: Marginal citation: The enactments and instruments listed in this Schedule, except the Parliamentary Costs Act 2006 and [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544), are modified by article 2(2) of and Schedule 2 to the [Solicitors' Recognised Bodies Order 1991 (S.I. 1991/2684)](https://www.legislation.gov.uk/uksi/1991/2684).
 

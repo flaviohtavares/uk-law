@@ -29,7 +29,7 @@ summary: ''
 
 (2) Without prejudice to subsection (1), and to avoid any doubt, each of the following is a serious intervention for the purposes of this Part—
 
-- (a)[^key-a7c9f8c30f97afedf176c1d777a2b4ca] any deprivation of liberty;
+- (a)[^c-a7c9f8c30f97afedf176c1d777a2b4ca] any deprivation of liberty;
 - (b) the imposition of a requirement mentioned in section 28(1)(a) (requirements to attend at particular times or intervals for certain treatment);
 - (c) the imposition of a community residence requirement (see section 31).
 
@@ -47,4 +47,4 @@ that act is to be treated for the purposes of this Part as if the intervention w
 
 ## Annotations
 
-[^key-a7c9f8c30f97afedf176c1d777a2b4ca]: Commencement: [S. 63(2)(a)](https://www.legislation.gov.uk/nia/2016/18/section/63/2/a) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-a7c9f8c30f97afedf176c1d777a2b4ca]: Commencement: [S. 63(2)(a)](https://www.legislation.gov.uk/nia/2016/18/section/63/2/a) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

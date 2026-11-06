@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Amendments of the PRIIPs Regulation etc[^key-25050101133a4d144032e2eff94f4559]
+## 38. Amendments of the PRIIPs Regulation etc[^c-25050101133a4d144032e2eff94f4559]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25050101133a4d144032e2eff94f4559]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2021/22/section/38) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(t)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/t)
+[^c-25050101133a4d144032e2eff94f4559]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2021/22/section/38) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(t)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/t)

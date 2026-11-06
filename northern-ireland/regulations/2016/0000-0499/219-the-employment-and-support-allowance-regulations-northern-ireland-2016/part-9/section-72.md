@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 72. Calculation of payment made other than weekly[^key-43e1177182045c31fd768803e10f4f39]
+## 72. Calculation of payment made other than weekly[^c-43e1177182045c31fd768803e10f4f39]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43e1177182045c31fd768803e10f4f39]: Commencement: [Reg. 72](https://www.legislation.gov.uk/nisr/2016/219/regulation/72) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-43e1177182045c31fd768803e10f4f39]: Commencement: [Reg. 72](https://www.legislation.gov.uk/nisr/2016/219/regulation/72) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

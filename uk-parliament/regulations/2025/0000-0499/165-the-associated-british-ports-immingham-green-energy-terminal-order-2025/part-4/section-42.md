@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Limits of dock master’s jurisdiction[^key-0535f6675fad95e8e2fc162e9f8e9912]
+## 42. Limits of dock master’s jurisdiction[^c-0535f6675fad95e8e2fc162e9f8e9912]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0535f6675fad95e8e2fc162e9f8e9912]: Commencement: Art. 42 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-0535f6675fad95e8e2fc162e9f8e9912]: Commencement: Art. 42 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

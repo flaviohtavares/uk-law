@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 152. Role of special counsel[^key-40dfa96f12056da705d2ee6aff3df418]
+## 152. Role of special counsel[^c-40dfa96f12056da705d2ee6aff3df418]
 
 *Extent: S*
 
@@ -44,7 +44,7 @@ summary: ''
 
 an opportunity to be heard.
 
-(5A)[^key-9e13947bd4f46fe5a0d4f383f836dd6c] In subsection (1), the reference to the accused receiving a fair trial includes reference to the respondent receiving a fair hearing in the 2011 Act proceedings.
+(5A)[^c-9e13947bd4f46fe5a0d4f383f836dd6c] In subsection (1), the reference to the accused receiving a fair trial includes reference to the respondent receiving a fair hearing in the 2011 Act proceedings.
 
 (6) In this section—
 
@@ -55,6 +55,6 @@ an opportunity to be heard.
 
 ## Annotations
 
-[^key-40dfa96f12056da705d2ee6aff3df418]: Commencement: S. 152 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-40dfa96f12056da705d2ee6aff3df418]: Commencement: S. 152 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-9e13947bd4f46fe5a0d4f383f836dd6c]: Textual amendment: [S. 152(5A)](https://www.legislation.gov.uk/asp/2010/13/section/152/5A) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 26](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/26); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-9e13947bd4f46fe5a0d4f383f836dd6c]: Textual amendment: [S. 152(5A)](https://www.legislation.gov.uk/asp/2010/13/section/152/5A) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 26](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/26); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)

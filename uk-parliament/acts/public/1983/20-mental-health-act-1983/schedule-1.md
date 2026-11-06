@@ -63,7 +63,7 @@ Sections 40(1), 41(3) and (5), and 55(4).
 **9.** In section 66—
 
 - (a) in subsection (1), paragraphs (a), (b), (c), (g) and (h), the words in parenthesis in paragraph (i) and paragraph (ii) shall be omitted; and
-- (b) in subsection (2), paragraphs (a), (b), (c) , (d) and (g)[^key-dc528f6dce765257b18e3bfe3ecfa747] shall be omitted.[^c10395231].
+- (b) in subsection (2), paragraphs (a), (b), (c) , (d) and (g)[^c-dc528f6dce765257b18e3bfe3ecfa747] shall be omitted.[^c10395231].
 
 **10.**[^c19867231] In section 68—
 
@@ -145,7 +145,7 @@ Sections 40(1), 41(3) and (5), and 55(4).
 
 [^c19867201]: Textual amendment: [Sch. 1 Pt. 1 para. 8A](https://www.legislation.gov.uk/ukpga/1983/20/schedule/1/part/1/paragraph/8A) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [ss. 55](https://www.legislation.gov.uk/ukpga/2007/12/section/55), [56](https://www.legislation.gov.uk/ukpga/2007/12/section/56), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5) (with [Sch. 10](https://www.legislation.gov.uk/ukpga/2007/12/schedule/10)); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/1210/article/4))
 
-[^key-dc528f6dce765257b18e3bfe3ecfa747]: Textual amendment: Words in Sch. 1 para. 9(b) substituted (18.2.2026) by [Mental Health Act 2025 (c. 33)](https://www.legislation.gov.uk/ukpga/2025/33), [ss. 39](https://www.legislation.gov.uk/ukpga/2025/33/section/39), [56(1)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/1)
+[^c-dc528f6dce765257b18e3bfe3ecfa747]: Textual amendment: Words in Sch. 1 para. 9(b) substituted (18.2.2026) by [Mental Health Act 2025 (c. 33)](https://www.legislation.gov.uk/ukpga/2025/33), [ss. 39](https://www.legislation.gov.uk/ukpga/2025/33/section/39), [56(1)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/1)
 
 [^c10395231]: Textual amendment: Words in Sch. 1 para. 9(b) substituted (1.4.1996) by [1995 c. 52](https://www.legislation.gov.uk/ukpga/1995/52), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1995/52/section/1/2), [7(2)](https://www.legislation.gov.uk/ukpga/1995/52/section/7/2), [Sch. 1](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1), [para. 14](https://www.legislation.gov.uk/ukpga/1995/52/paragraph/14)
 

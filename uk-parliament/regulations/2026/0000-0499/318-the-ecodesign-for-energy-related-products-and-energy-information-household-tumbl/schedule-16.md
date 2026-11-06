@@ -22,14 +22,14 @@ summary: ''
 
 Regulation 16(2)
 
-**1.**[^key-af4e226e3634c4ded9d7c64eeac93d29] The product information sheet (without repairability information) referred to in regulation 16(2)(b) is set out in Table 14.
+**1.**[^c-af4e226e3634c4ded9d7c64eeac93d29] The product information sheet (without repairability information) referred to in regulation 16(2)(b) is set out in Table 14.
 
 Table 14: Product information sheet without repairability information [image: see source](https://www.legislation.gov.uk/uksi/2026/318/images/uksi_20260318_en_013) [image: see source](https://www.legislation.gov.uk/uksi/2026/318/images/uksi_20260318_en_014)
 
-**2.**[^key-5c4746cec069c29336248a375baac479] In Table 14 “**guarantee**” means any undertaking by the dealer or supplier to the consumer to either reimburse the price paid, or replace, repair or handle the household tumble dryer in any way if it does not meet the specifications set out in the guarantee statement or in the relevant advertising.
+**2.**[^c-5c4746cec069c29336248a375baac479] In Table 14 “**guarantee**” means any undertaking by the dealer or supplier to the consumer to either reimburse the price paid, or replace, repair or handle the household tumble dryer in any way if it does not meet the specifications set out in the guarantee statement or in the relevant advertising.
 
 ## Annotations
 
-[^key-af4e226e3634c4ded9d7c64eeac93d29]: Commencement: [Sch. 16 para. 1](https://www.legislation.gov.uk/uksi/2026/318/schedule/16/paragraph/1) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
+[^c-af4e226e3634c4ded9d7c64eeac93d29]: Commencement: [Sch. 16 para. 1](https://www.legislation.gov.uk/uksi/2026/318/schedule/16/paragraph/1) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
 
-[^key-5c4746cec069c29336248a375baac479]: Commencement: [Sch. 16 para. 2](https://www.legislation.gov.uk/uksi/2026/318/schedule/16/paragraph/2) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
+[^c-5c4746cec069c29336248a375baac479]: Commencement: [Sch. 16 para. 2](https://www.legislation.gov.uk/uksi/2026/318/schedule/16/paragraph/2) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)

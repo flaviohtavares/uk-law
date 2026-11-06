@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225. Byelaws: emergency procedures[^key-0e98d49cc0cc9977b3ea7adc5fbdddd8]
+## 225. Byelaws: emergency procedures[^c-0e98d49cc0cc9977b3ea7adc5fbdddd8]
 
 *Extent: E+W*
 
@@ -121,4 +121,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e98d49cc0cc9977b3ea7adc5fbdddd8]: Commencement: [S. 225](https://www.legislation.gov.uk/ukpga/2009/23/section/225) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/14)
+[^c-0e98d49cc0cc9977b3ea7adc5fbdddd8]: Commencement: [S. 225](https://www.legislation.gov.uk/ukpga/2009/23/section/225) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/14)

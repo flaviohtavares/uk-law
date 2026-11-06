@@ -39,18 +39,18 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(a) and (d), 129(4), 131(1), 132(3) and (4)(b), 133(2)(d) and 171(1) and (3) to (5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], sections 1(1), 5(1)(a) and (b), 74(2) and 165(1), (4) and (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and Articles 2(4), 28 and 36 of the Jobseekers (Northern Ireland) Order 1995[^f00003], and now vested in it[^f00004], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00005], in so far as regulations 3 and 7 are concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of those regulations should not be referred to it[^f00006], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-4557405fd7e5ae95c8ddeb2d2bdf39a3]
+## 1. Citation, commencement and interpretation[^c-4557405fd7e5ae95c8ddeb2d2bdf39a3]
 
 (1) These Regulations may be cited as the Social Security (Back to Work Bonus and Lone Parent Run-on Amendment and Revocation) Regulations (Northern Ireland) 2003 and shall come into operation on 25th October 2004 with the exception of regulation 5 which shall come into operation on 29th January 2005 and regulation 7 which shall come into operation on 28th January 2006.
 
 (2) In these Regulations –
 
 - “the Back to Work Bonus Regulations” means the Social Security (Back to Work Bonus) (No. 2) Regulations (Northern Ireland) 1996[^f00007];
-- [^key-cf1264ba0a310a8497f8e6ad8c1fc786]...
+- [^c-cf1264ba0a310a8497f8e6ad8c1fc786]...
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00009] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support Regulations[^key-ed031c92b1465ab746ae87d7237f50fb]
+## 2. Amendment of the Income Support Regulations[^c-ed031c92b1465ab746ae87d7237f50fb]
 
 In the Income Support (General) Regulations (Northern Ireland) 1987[^f00010] –
 
@@ -66,35 +66,35 @@ In the Income Support (General) Regulations (Northern Ireland) 1987[^f00010] –
   - (iii) paragraph 68[^f00016] of Schedule 9 (sums to be disregarded in the calculation of income other than earnings);
   - (iv) paragraph 55[^f00017] of Schedule 10 (capital to be disregarded).
 
-## 3. Amendment of the Housing Benefit Regulations[^key-ea06bd14f90ac9011eb14cad50d127c8]
+## 3. Amendment of the Housing Benefit Regulations[^c-ea06bd14f90ac9011eb14cad50d127c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security (Claims and Payments) Regulations[^key-61a5e7bd7c7c2d86c346ead8d6edde6f]
+## 4. Amendment of the Social Security (Claims and Payments) Regulations[^c-61a5e7bd7c7c2d86c346ead8d6edde6f]
 
 In regulation 3 of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00030] (claims not required for entitlement to benefit in certain cases) –
 
 - (a) in paragraph (h)(i) “6(2) or” shall be omitted;
 - (b) in paragraph (h)(iii) “regulation 6(3) or, as the case may be,” shall be omitted.
 
-## 5. Amendment of the Social Fund (Recovery by Deductions from Benefits) Regulations[^key-baffcb58786e57cf94116a016a3e8075]
+## 5. Amendment of the Social Fund (Recovery by Deductions from Benefits) Regulations[^c-baffcb58786e57cf94116a016a3e8075]
 
 In regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regulations (Northern Ireland) 1988[^f00031] (benefits from which an award may be recovered) –
 
 - (a) in paragraph (a) “, other than a back to work bonus payable by way of income support or jobseeker’s allowance in pursuance of Article 28 of the Jobseekers (Northern Ireland) Order 1995” shall be omitted;
 - (b) in paragraph (c) “other than a back to work bonus payable by way of income support or jobseeker’s allowance in pursuance of Article 28 of the Jobseekers (Northern Ireland) Order 1995” shall be omitted.
 
-## 6. Revocation of the Back to Work Bonus Regulations[^key-4b04ba9300c4e46c63e30d12929693b3]
+## 6. Revocation of the Back to Work Bonus Regulations[^c-4b04ba9300c4e46c63e30d12929693b3]
 
 Subject to regulation 8 the Back to Work Bonus Regulations are hereby revoked.
 
-## 7. Revocation of provisions relating to the Back to Work Bonus Regulations[^key-b062f179d144039847ecc1cb2959c233]
+## 7. Revocation of provisions relating to the Back to Work Bonus Regulations[^c-b062f179d144039847ecc1cb2959c233]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Transitional provisions[^key-3cdfad52171b0daae3c8f989762196cd]
+## 8. Transitional provisions[^c-3cdfad52171b0daae3c8f989762196cd]
 
-(1) Subject to the amendments made by paragraphs (2) and (3)[^key-27e10b55f4318c87c6ddaf93b35ce32b], the Back to Work Bonus Regulations shall continue to have effect as if regulation 6 of these Regulations had not been made, in relation to a person who –
+(1) Subject to the amendments made by paragraphs (2) and (3)[^c-27e10b55f4318c87c6ddaf93b35ce32b], the Back to Work Bonus Regulations shall continue to have effect as if regulation 6 of these Regulations had not been made, in relation to a person who –
 
 - (a) satisfies the requirements of regulation 6 of the Back to Work Bonus Regulations (waiting period) on 24th October 2004, and either
 - (b) satisfies regulation 7[^f00033] (requirements for a bonus) or regulation 17 (persons attaining pensionable age) of the Back to Work Bonus Regulations on 24th October 2004 but whose claim for a bonus had not been determined on or before that date, or
@@ -106,7 +106,7 @@ Subject to regulation 8 the Back to Work Bonus Regulations are hereby revoked.
   - (iv) for a person who satisfies the conditions in regulation 7(5), the period specified in regulation 7(5)(e), and
   - (v) for a person who satisfies the conditions in regulation 17, the period specified in regulation 17(5),
 
-  but who satisfies the requirements set out in regulation 23(6) of the Back to Work Bonus Regulations , or who makes a claim for a bonus after 28th January 2005 within the appropriate specified period[^key-d6452afe9e9c0287df809319013d78b3].
+  but who satisfies the requirements set out in regulation 23(6) of the Back to Work Bonus Regulations , or who makes a claim for a bonus after 28th January 2005 within the appropriate specified period[^c-d6452afe9e9c0287df809319013d78b3].
 
 (2) For the purposes of paragraph (1), in regulation 1 of the Back to Work Bonus Regulations (citation, commencement and interpretation) –
 
@@ -184,15 +184,15 @@ These Regulations do not impose a charge on business.
 
 [^f00006]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-4557405fd7e5ae95c8ddeb2d2bdf39a3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/367/regulation/1) in operation at 25.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/367/regulation/1/1)
+[^c-4557405fd7e5ae95c8ddeb2d2bdf39a3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/367/regulation/1) in operation at 25.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/367/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1996 No. 519](https://www.legislation.gov.uk/nisr/1996/519); relevant amending Regulations are [S.R. 2001 No. 78](https://www.legislation.gov.uk/nisr/2001/78)
 
-[^key-cf1264ba0a310a8497f8e6ad8c1fc786]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/367/regulation/1/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-cf1264ba0a310a8497f8e6ad8c1fc786]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/367/regulation/1/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-ed031c92b1465ab746ae87d7237f50fb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2003/367/regulation/2) in operation at 25.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/367/regulation/1/1)
+[^c-ed031c92b1465ab746ae87d7237f50fb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2003/367/regulation/2) in operation at 25.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/367/regulation/1/1)
 
 [^f00010]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1999 No. 381](https://www.legislation.gov.uk/nisr/1999/381), [S.R. 2001 Nos. 78](https://www.legislation.gov.uk/nisr/2001/78) and [134](https://www.legislation.gov.uk/nisr/2001/134) and [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195)
 
@@ -210,24 +210,24 @@ These Regulations do not impose a charge on business.
 
 [^f00017]: Footnote: Paragraph 55 was added by regulation 2(11) of [S.R. 1999 No. 381](https://www.legislation.gov.uk/nisr/1999/381)
 
-[^key-ea06bd14f90ac9011eb14cad50d127c8]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/367/regulation/3) revoked (5.4.2004) by [The Housing Benefit (Abolition of Benefit Periods Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/144)](https://www.legislation.gov.uk/nisr/2004/144), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/144/regulation/1/1), [32(1)](https://www.legislation.gov.uk/nisr/2004/144/regulation/32/1)
+[^c-ea06bd14f90ac9011eb14cad50d127c8]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/367/regulation/3) revoked (5.4.2004) by [The Housing Benefit (Abolition of Benefit Periods Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/144)](https://www.legislation.gov.uk/nisr/2004/144), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/144/regulation/1/1), [32(1)](https://www.legislation.gov.uk/nisr/2004/144/regulation/32/1)
 
-[^key-61a5e7bd7c7c2d86c346ead8d6edde6f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/367/regulation/4) in operation at 25.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/367/regulation/1/1)
+[^c-61a5e7bd7c7c2d86c346ead8d6edde6f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/367/regulation/4) in operation at 25.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/367/regulation/1/1)
 
 [^f00030]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); regulation 3(h) was added by regulation 5 of [S.R. 1999 No. 381](https://www.legislation.gov.uk/nisr/1999/381) and amended by regulation 11(2) of [S.R. 2001 No. 78](https://www.legislation.gov.uk/nisr/2001/78)
 
-[^key-baffcb58786e57cf94116a016a3e8075]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/367/regulation/5) in operation at 29.1.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/367/regulation/1/1)
+[^c-baffcb58786e57cf94116a016a3e8075]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/367/regulation/5) in operation at 29.1.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/367/regulation/1/1)
 
 [^f00031]: Footnote: [S.R. 1988 No. 21](https://www.legislation.gov.uk/nisr/1988/21); regulation 2(a) and (c) was amended by regulation 6 of [S.R. 1996 No. 405](https://www.legislation.gov.uk/nisr/1996/405)
 
-[^key-4b04ba9300c4e46c63e30d12929693b3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2003/367/regulation/6) in operation at 25.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/367/regulation/1/1)
+[^c-4b04ba9300c4e46c63e30d12929693b3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2003/367/regulation/6) in operation at 25.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/367/regulation/1/1)
 
-[^key-b062f179d144039847ecc1cb2959c233]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2003/367/regulation/7) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-b062f179d144039847ecc1cb2959c233]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2003/367/regulation/7) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-3cdfad52171b0daae3c8f989762196cd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2003/367/regulation/8) in operation at 25.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/367/regulation/1/1)
+[^c-3cdfad52171b0daae3c8f989762196cd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2003/367/regulation/8) in operation at 25.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/367/regulation/1/1)
 
-[^key-27e10b55f4318c87c6ddaf93b35ce32b]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/nisr/2003/367/regulation/8/1) substituted (25.10.2004) by [The Back to Work Bonus (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/296)](https://www.legislation.gov.uk/nisr/2004/296), [regs. 1](https://www.legislation.gov.uk/nisr/2004/296/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2004/296/regulation/2/a)
+[^c-27e10b55f4318c87c6ddaf93b35ce32b]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/nisr/2003/367/regulation/8/1) substituted (25.10.2004) by [The Back to Work Bonus (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/296)](https://www.legislation.gov.uk/nisr/2004/296), [regs. 1](https://www.legislation.gov.uk/nisr/2004/296/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2004/296/regulation/2/a)
 
 [^f00033]: Footnote: Regulation 7 was amended by regulation 13(a) of [S.R 2001 No. 78](https://www.legislation.gov.uk/nisr/2001/78)
 
-[^key-d6452afe9e9c0287df809319013d78b3]: Textual amendment: Words in [reg. 8(1)(d)](https://www.legislation.gov.uk/nisr/2003/367/regulation/8/1/d) inserted (25.10.2004) by [The Back to Work Bonus (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/296)](https://www.legislation.gov.uk/nisr/2004/296), [regs. 1](https://www.legislation.gov.uk/nisr/2004/296/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2004/296/regulation/2/b)
+[^c-d6452afe9e9c0287df809319013d78b3]: Textual amendment: Words in [reg. 8(1)(d)](https://www.legislation.gov.uk/nisr/2003/367/regulation/8/1/d) inserted (25.10.2004) by [The Back to Work Bonus (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/296)](https://www.legislation.gov.uk/nisr/2004/296), [regs. 1](https://www.legislation.gov.uk/nisr/2004/296/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2004/296/regulation/2/b)

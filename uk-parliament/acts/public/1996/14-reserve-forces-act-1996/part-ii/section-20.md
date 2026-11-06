@@ -25,7 +25,7 @@ summary: ''
 (2) Men of the reserve forces in permanent service may, without their consent—
 
 - (a) in the case of the reserve naval and marine forces, be drafted or posted, appointed or transferred to any naval or marine body or unit;
-- (b) in the case of the reserve land forces, be posted, appointed or transferred to any military body or unit (including, in the case of a man of the Army Reserve[^key-d33cdaf006f8a5629a1ffd9c03fe5b52], transfer to any corps);
+- (b) in the case of the reserve land forces, be posted, appointed or transferred to any military body or unit (including, in the case of a man of the Army Reserve[^c-d33cdaf006f8a5629a1ffd9c03fe5b52], transfer to any corps);
 - (c) in the case of the reserve air forces, be posted, appointed or transferred to any air-force unit or body,
 
 by order of the Defence Council or an authorised officer.
@@ -36,4 +36,4 @@ by order of the Defence Council or an authorised officer.
 
 ## Annotations
 
-[^key-d33cdaf006f8a5629a1ffd9c03fe5b52]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1996/14) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(b)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
+[^c-d33cdaf006f8a5629a1ffd9c03fe5b52]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1996/14) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(b)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)

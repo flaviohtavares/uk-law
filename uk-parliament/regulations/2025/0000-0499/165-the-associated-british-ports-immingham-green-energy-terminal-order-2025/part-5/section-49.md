@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Provision against danger to navigation[^key-8142fdd0e6f28be735fd7a2c258eda61]
+## 49. Provision against danger to navigation[^c-8142fdd0e6f28be735fd7a2c258eda61]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In case of damage to, or destruction or decay of, a tidal work or any part of it
 
 ## Annotations
 
-[^key-8142fdd0e6f28be735fd7a2c258eda61]: Commencement: Art. 49 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-8142fdd0e6f28be735fd7a2c258eda61]: Commencement: Art. 49 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

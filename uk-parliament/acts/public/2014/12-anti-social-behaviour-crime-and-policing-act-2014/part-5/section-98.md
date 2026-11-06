@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Conduct causing nuisance to landlord etc[^key-92d065f8735e66f2469530fea2aa7556][^key-fe40cc8c6a2a98629a68992185554cd8]
+## 98. Conduct causing nuisance to landlord etc[^c-92d065f8735e66f2469530fea2aa7556][^c-fe40cc8c6a2a98629a68992185554cd8]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-92d065f8735e66f2469530fea2aa7556]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2014/12/section/98) in force at 13.5.2014 for E. by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/949/article/2/a)
+[^c-92d065f8735e66f2469530fea2aa7556]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2014/12/section/98) in force at 13.5.2014 for E. by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/949/article/2/a)
 
-[^key-fe40cc8c6a2a98629a68992185554cd8]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2014/12/section/98) in force at 13.5.2014 for W. by [S.I. 2014/1241](https://www.legislation.gov.uk/wsi/2014/1241), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/1241/article/2/a)
+[^c-fe40cc8c6a2a98629a68992185554cd8]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2014/12/section/98) in force at 13.5.2014 for W. by [S.I. 2014/1241](https://www.legislation.gov.uk/wsi/2014/1241), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/1241/article/2/a)

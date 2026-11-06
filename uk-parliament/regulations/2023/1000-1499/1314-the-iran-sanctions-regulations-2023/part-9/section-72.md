@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Finance: information offences[^key-1ab35c938ec1a2db8e22a995f66bcc6b]
+## 72. Finance: information offences[^c-1ab35c938ec1a2db8e22a995f66bcc6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ab35c938ec1a2db8e22a995f66bcc6b]: Commencement: Reg. 72 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-1ab35c938ec1a2db8e22a995f66bcc6b]: Commencement: Reg. 72 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Old system students who are on end-on courses[^key-0bacd4b1a68ab76f5cccd2ca8e61e4e0]
+## 24. Old system students who are on end-on courses[^c-0bacd4b1a68ab76f5cccd2ca8e61e4e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ where
 
 ## Annotations
 
-[^key-0bacd4b1a68ab76f5cccd2ca8e61e4e0]: Commencement: Reg. 24 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-0bacd4b1a68ab76f5cccd2ca8e61e4e0]: Commencement: Reg. 24 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

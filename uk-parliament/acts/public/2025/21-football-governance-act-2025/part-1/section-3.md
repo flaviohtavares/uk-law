@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Meaning of “owner” etc[^key-aa9155fc10c17f4b2e16a7006d053123]
+## 3. Meaning of “owner” etc[^c-aa9155fc10c17f4b2e16a7006d053123]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa9155fc10c17f4b2e16a7006d053123]: Commencement: S. 3 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
+[^c-aa9155fc10c17f4b2e16a7006d053123]: Commencement: S. 3 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)

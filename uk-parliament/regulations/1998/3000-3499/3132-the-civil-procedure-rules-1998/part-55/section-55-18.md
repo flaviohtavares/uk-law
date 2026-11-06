@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55.18. Postponement of possession[^key-6d372728ca614d30331c2a6aa037d325]
+## 55.18. Postponement of possession[^c-6d372728ca614d30331c2a6aa037d325]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6d372728ca614d30331c2a6aa037d325]: Textual amendment: Pt. 55 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/256/schedule/1) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
+[^c-6d372728ca614d30331c2a6aa037d325]: Textual amendment: Pt. 55 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/256/schedule/1) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
 
 [^f00015]: Footnote: [1968 c. 48](https://www.legislation.gov.uk/ukpga/1968/48); [1981 c. 9](https://www.legislation.gov.uk/ukpga/1981/9).

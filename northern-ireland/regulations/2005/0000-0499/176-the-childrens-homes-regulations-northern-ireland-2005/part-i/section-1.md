@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-15aa1b72cf635617b4b62d99c3a0ece0]
+## 1. Citation and commencement[^c-15aa1b72cf635617b4b62d99c3a0ece0]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Children’s Homes Regulations (Northern I
 
 ## Annotations
 
-[^key-15aa1b72cf635617b4b62d99c3a0ece0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-15aa1b72cf635617b4b62d99c3a0ece0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)

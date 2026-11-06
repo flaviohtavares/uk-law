@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 113. Surviving scheme partner[^key-257b8f223951b020a16edf8afb795a3e]
+## 113. Surviving scheme partner[^c-257b8f223951b020a16edf8afb795a3e]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-257b8f223951b020a16edf8afb795a3e]: Textual amendment: [Reg. 113](https://www.legislation.gov.uk/nisr/2015/120/regulation/113) substituted (with effect in accordance with reg. 1(8) of the amending Rule) by [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [61](https://www.legislation.gov.uk/nisr/2022/196/regulation/61)
+[^c-257b8f223951b020a16edf8afb795a3e]: Textual amendment: [Reg. 113](https://www.legislation.gov.uk/nisr/2015/120/regulation/113) substituted (with effect in accordance with reg. 1(8) of the amending Rule) by [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [61](https://www.legislation.gov.uk/nisr/2022/196/regulation/61)

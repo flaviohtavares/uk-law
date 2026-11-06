@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.M.6. 75% Pensionable Pay Threshold and Contribution Surcharge[^key-6c284d686fcbdf2d525783ae68d80711]
+## 2.M.6. 75% Pensionable Pay Threshold and Contribution Surcharge[^c-6c284d686fcbdf2d525783ae68d80711]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) Where the 75% threshold is exceeded, the Independent Provider must pay the Secretary of State an employer contribution surcharge on that part of the total pensionable pay of that Independent Provider’s employees in excess of the 75% threshold.
 
-This is subject to paragraph[^key-1e489871224f172c3199f2343921c068] (4).
+This is subject to paragraph[^c-1e489871224f172c3199f2343921c068] (4).
 
 (4) Where the Secretary of State is satisfied that the Independent Provider has provided a reasonable explanation or justification for the threshold being exceeded, the Secretary of State may require the Independent Provider to a pay an employer contribution surcharge on such part of that excess as the Secretary of State considers reasonable having regard to its declared NHS income, profits, losses and expenses for the scheme year in question.
 
@@ -44,9 +44,9 @@ This is subject to paragraph[^key-1e489871224f172c3199f2343921c068] (4).
 
 ## Annotations
 
-[^key-6c284d686fcbdf2d525783ae68d80711]: Textual amendment: [Ch. 2.M](https://www.legislation.gov.uk/uksi/2008/653/chapter/2.M) inserted (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2014/570/regulation/35) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))
+[^c-6c284d686fcbdf2d525783ae68d80711]: Textual amendment: [Ch. 2.M](https://www.legislation.gov.uk/uksi/2008/653/chapter/2.M) inserted (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2014/570/regulation/35) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))
 
-[^key-1e489871224f172c3199f2343921c068]: Textual amendment: Word in [reg. 2.M.6(3)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.M.6/3) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2015/96/regulation/37)
+[^c-1e489871224f172c3199f2343921c068]: Textual amendment: Word in [reg. 2.M.6(3)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.M.6/3) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2015/96/regulation/37)
 
 [^M_F_6624294d-411a-478c-a3b1-30c0ac5d6325]: Textual amendment: Words in reg. 2.M.6(7) substituted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [21(2)(a)](https://www.legislation.gov.uk/uksi/2017/275/regulation/21/2/a)
 

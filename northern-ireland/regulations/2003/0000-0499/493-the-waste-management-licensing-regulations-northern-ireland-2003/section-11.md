@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Mobile plant[^key-7ef3814ca162e7cb4f8d646f814c84b1]
+## 11. Mobile plant[^c-7ef3814ca162e7cb4f8d646f814c84b1]
 
 *Extent: N.I.*
 
@@ -32,15 +32,15 @@ summary: ''
 - (e) plant for the treatment of waste soil;
 - (f) plant for the dewatering of muds, sludges, soils and dredgings;
 - (g) plant for the treatment by lime stabilisation of sludge;
-- (h) plant for the treatment of contaminated material, substances or products, for the purpose of remedial action with respect to land or a waterway;[^key-46ac8ac0ac0b2a55eceaf80a1302fc4e]
-- (i)[^key-4dd63dcea9c79429719aab8b495bd89c] plant for the crushing of gas discharge lamps.
+- (h) plant for the treatment of contaminated material, substances or products, for the purpose of remedial action with respect to land or a waterway;[^c-46ac8ac0ac0b2a55eceaf80a1302fc4e]
+- (i)[^c-4dd63dcea9c79429719aab8b495bd89c] plant for the crushing of gas discharge lamps.
 
 (2) In this regulation “controlled substance” means any one of the following: – chlorofluorocarbons, other fully halogenated chlorofluorocarbons, halons, carbon tetrachloride, 1.1.1 trichloroethane, methyl bromide, hydrobromofluorocarbons, hydrochlorofluorocarbons.
 
 ## Annotations
 
-[^key-7ef3814ca162e7cb4f8d646f814c84b1]: Commencement: Reg. 11 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-7ef3814ca162e7cb4f8d646f814c84b1]: Commencement: Reg. 11 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-46ac8ac0ac0b2a55eceaf80a1302fc4e]: Textual amendment: Word in reg. 11(1)(h) substituted (5.1.2007) by [Waste Electrical and Electronic Equipment (Waste Management Licensing) Regulations (Northern Ireland) 2006 (S.R. 2006/519)](https://www.legislation.gov.uk/nisr/2006/519), [reg. 1](https://www.legislation.gov.uk/nisr/2006/519/regulation/1), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/nisr/2006/519/schedule/1/paragraph/3/a) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2006/519/schedule/2))
+[^c-46ac8ac0ac0b2a55eceaf80a1302fc4e]: Textual amendment: Word in reg. 11(1)(h) substituted (5.1.2007) by [Waste Electrical and Electronic Equipment (Waste Management Licensing) Regulations (Northern Ireland) 2006 (S.R. 2006/519)](https://www.legislation.gov.uk/nisr/2006/519), [reg. 1](https://www.legislation.gov.uk/nisr/2006/519/regulation/1), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/nisr/2006/519/schedule/1/paragraph/3/a) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2006/519/schedule/2))
 
-[^key-4dd63dcea9c79429719aab8b495bd89c]: Textual amendment: Reg. 11(1)(i) inserted (5.1.2007) by [Waste Electrical and Electronic Equipment (Waste Management Licensing) Regulations (Northern Ireland) 2006 (S.R. 2006/519)](https://www.legislation.gov.uk/nisr/2006/519), [reg. 1](https://www.legislation.gov.uk/nisr/2006/519/regulation/1), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/nisr/2006/519/schedule/1/paragraph/3/b) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2006/519/schedule/2))
+[^c-4dd63dcea9c79429719aab8b495bd89c]: Textual amendment: Reg. 11(1)(i) inserted (5.1.2007) by [Waste Electrical and Electronic Equipment (Waste Management Licensing) Regulations (Northern Ireland) 2006 (S.R. 2006/519)](https://www.legislation.gov.uk/nisr/2006/519), [reg. 1](https://www.legislation.gov.uk/nisr/2006/519/regulation/1), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/nisr/2006/519/schedule/1/paragraph/3/b) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2006/519/schedule/2))

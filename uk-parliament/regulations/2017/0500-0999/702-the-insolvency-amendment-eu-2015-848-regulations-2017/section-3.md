@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Temporal application[^key-3a3b6e1a6a90d80771ebfbaa41e37eb5]
+## 3. Temporal application[^c-3a3b6e1a6a90d80771ebfbaa41e37eb5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a3b6e1a6a90d80771ebfbaa41e37eb5]: Commencement: Reg. 3 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-3a3b6e1a6a90d80771ebfbaa41e37eb5]: Commencement: Reg. 3 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00003]: Footnote: OJEU L.141 of 5.6.2015 p.19.

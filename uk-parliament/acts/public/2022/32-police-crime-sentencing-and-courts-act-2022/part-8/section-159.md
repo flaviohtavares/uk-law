@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Consecutive detention and training order and sentence of detention: effect of early release decision[^key-a100324534990a5fc0b951de6b9e7395]
+## 159. Consecutive detention and training order and sentence of detention: effect of early release decision[^c-a100324534990a5fc0b951de6b9e7395]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a100324534990a5fc0b951de6b9e7395]: Commencement: S. 159 in force at 28.6.2022, see [s. 208(5)(t)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/t)
+[^c-a100324534990a5fc0b951de6b9e7395]: Commencement: S. 159 in force at 28.6.2022, see [s. 208(5)(t)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/t)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32A. Suspension of contract terms or of enforcement of contract terms while a disease is or in anticipation of a disease being imminently pandemic etc.[^key-b0169eec7423201221c2eb6037fbd790]
+## 32A. Suspension of contract terms or of enforcement of contract terms while a disease is or in anticipation of a disease being imminently pandemic etc.[^c-b0169eec7423201221c2eb6037fbd790]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
   - (i) pandemic, and
   - (ii) a serious risk or potentially a serious risk to human health,
 
-  NHS England[^key-27a783e1510d45f884edbc32ee2f5c83] with the agreement of the Secretary of State has made an announcement in respect of the prioritisation of services to be provided in, or in any part of, England as part of the health service;
+  NHS England[^c-27a783e1510d45f884edbc32ee2f5c83] with the agreement of the Secretary of State has made an announcement in respect of the prioritisation of services to be provided in, or in any part of, England as part of the health service;
 - (b) the prioritisation is in order to assist in the management of the serious risk or potentially serious risk to human health;
 - (c) as part of the announcement, NHS England with the agreement of the Secretary of State has issued advice to the effect that contractors are not to comply with a specified type of term of general medical services contracts—
   - (i) in the area to which the announcement relates,
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b0169eec7423201221c2eb6037fbd790]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/uksi/2015/1862/regulation/32A) inserted (27.3.2020) by [The National Health Service (Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/351)](https://www.legislation.gov.uk/uksi/2020/351), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/351/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2020/351/regulation/15)
+[^c-b0169eec7423201221c2eb6037fbd790]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/uksi/2015/1862/regulation/32A) inserted (27.3.2020) by [The National Health Service (Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/351)](https://www.legislation.gov.uk/uksi/2020/351), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/351/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2020/351/regulation/15)
 
-[^key-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

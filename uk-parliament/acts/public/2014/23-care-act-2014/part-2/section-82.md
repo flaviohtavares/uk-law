@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Warning notice[^key-7da1ba615550c918316fd0891ed70404]
+## 82. Warning notice[^c-7da1ba615550c918316fd0891ed70404]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7da1ba615550c918316fd0891ed70404]: Commencement: S. 82 in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(v)](https://www.legislation.gov.uk/uksi/2015/993/article/2/v)
+[^c-7da1ba615550c918316fd0891ed70404]: Commencement: S. 82 in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(v)](https://www.legislation.gov.uk/uksi/2015/993/article/2/v)

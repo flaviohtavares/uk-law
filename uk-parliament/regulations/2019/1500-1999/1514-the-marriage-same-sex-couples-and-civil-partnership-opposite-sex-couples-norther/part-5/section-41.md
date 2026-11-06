@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Amendments of the Gender Recognition Act 2004: introductory[^key-109a203beb6edcf70ac200fe5339236e]
+## 41. Amendments of the Gender Recognition Act 2004: introductory[^c-109a203beb6edcf70ac200fe5339236e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Gender Recognition Act 2004[^f00059] is amended in accordance with regulatio
 
 ## Annotations
 
-[^key-109a203beb6edcf70ac200fe5339236e]: Commencement: Reg. 41 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-109a203beb6edcf70ac200fe5339236e]: Commencement: Reg. 41 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00059]: Footnote: [2004 c.7](https://www.legislation.gov.uk/ukpga/2004/7).

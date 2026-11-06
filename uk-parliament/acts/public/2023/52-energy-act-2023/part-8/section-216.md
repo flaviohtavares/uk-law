@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 216. Relevant heat network[^key-a607ae58b0192922c9d0056d1c11c842]
+## 216. Relevant heat network[^c-a607ae58b0192922c9d0056d1c11c842]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a607ae58b0192922c9d0056d1c11c842]: Commencement: S. 216 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-a607ae58b0192922c9d0056d1c11c842]: Commencement: S. 216 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

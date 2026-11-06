@@ -280,7 +280,7 @@ and must continue to so comply while in United Kingdom waters.
 
 ### 16. Right of appeal and compensation
 
-Regulations 19, 20 and 21[^key-a1505281703b23c0798b7fa99e17cea5] (right of appeal and compensation, arbitration and compensation for unjustified detention) of the Merchant Shipping (Port State Control) Regulations 2026 apply to a detention notice served under these Regulations as they apply to a detention order under those Regulations.
+Regulations 19, 20 and 21[^c-a1505281703b23c0798b7fa99e17cea5] (right of appeal and compensation, arbitration and compensation for unjustified detention) of the Merchant Shipping (Port State Control) Regulations 2026 apply to a detention notice served under these Regulations as they apply to a detention order under those Regulations.
 
 ## PART 5 — Supplementary provisions
 
@@ -290,8 +290,8 @@ Regulations 19, 20 and 21[^key-a1505281703b23c0798b7fa99e17cea5] (right of appea
 
 (2) For the purposes of the applicable Code of Practice, the Secretary of State must accept a fitting, material, appliance, apparatus, type or provision as being at least as effective as the fitting, material, appliance, apparatus, type or provision required by the applicable Code of Practice if it is verified as such—
 
-- (a) in accordance with the applicable Code of Practice or with a Code of Practice, specification or technical description of an EEA State [^key-562b3e23191afdb04a7da2908c976a3b]... offering equivalent levels of safety, suitability and fitness for the purpose; and
-- (b) by a body or laboratory of an EEA State [^key-562b3e23191afdb04a7da2908c976a3b]...offering suitable and satisfactory guarantees of technical and professional competence and independence.
+- (a) in accordance with the applicable Code of Practice or with a Code of Practice, specification or technical description of an EEA State [^c-562b3e23191afdb04a7da2908c976a3b]... offering equivalent levels of safety, suitability and fitness for the purpose; and
+- (b) by a body or laboratory of an EEA State [^c-562b3e23191afdb04a7da2908c976a3b]...offering suitable and satisfactory guarantees of technical and professional competence and independence.
 
 ### 18. Exemptions
 
@@ -445,9 +445,9 @@ Regulation 21 requires the Secretary of State to review the operation and effect
 
 [^c23043851]: Marginal citation: [Section 284(1)(b)](https://www.legislation.gov.uk/uksi/2017/943/section/284/1/b) was substituted by the Merchant Shipping and Maritime Security Act 1997, Schedule 1, paragraph 5(2).
 
-[^key-a1505281703b23c0798b7fa99e17cea5]: Textual amendment: Words in reg. 16 substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-a1505281703b23c0798b7fa99e17cea5]: Textual amendment: Words in reg. 16 substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-562b3e23191afdb04a7da2908c976a3b]: Textual amendment: Words in [reg. 17(2)(a)](https://www.legislation.gov.uk/uksi/2017/943/regulation/17/2/a)[(b)](https://www.legislation.gov.uk/uksi/2017/943/regulation/17/2/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 28](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-562b3e23191afdb04a7da2908c976a3b]: Textual amendment: Words in [reg. 17(2)(a)](https://www.legislation.gov.uk/uksi/2017/943/regulation/17/2/a)[(b)](https://www.legislation.gov.uk/uksi/2017/943/regulation/17/2/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 28](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23043871]: Marginal citation: [S.I. 1975/330](https://www.legislation.gov.uk/uksi/1975/330).
 

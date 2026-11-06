@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3 — Determination of certain appeals by person appointed by Secretary of State[^key-433b47fb4d8cffae5373dc1adc9a67a9]
+## SCHEDULE 3 — Determination of certain appeals by person appointed by Secretary of State[^c-433b47fb4d8cffae5373dc1adc9a67a9]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ Sections 20(4) and 35(5).
 
 ### Determination of appeals by appointed person
 
-**1.** (1) The Secretary of State may by regulations prescribe classes of appeals under sections 5B,[^key-c05fd804df8d58e273c8fc0de1400059] 18 and 35 which are to be determined by a person appointed by the Secretary of State for the purpose instead of by the Secretary of State.
+**1.** (1) The Secretary of State may by regulations prescribe classes of appeals under sections 5B,[^c-c05fd804df8d58e273c8fc0de1400059] 18 and 35 which are to be determined by a person appointed by the Secretary of State for the purpose instead of by the Secretary of State.
 
 (2) Those classes of appeals shall be so determined except in such classes of case—
 
@@ -41,15 +41,15 @@ Sections 20(4) and 35(5).
 
 **2.** (1) An appointed person shall have the same powers and duties—
 
-- (za)[^key-af3daa6c4fc164e98ef00a5738439bde] in relation to an appeal under section 5B as the Scottish Ministers have under section 5C and paragraph 2(1A) of schedule 1,
+- (za)[^c-af3daa6c4fc164e98ef00a5738439bde] in relation to an appeal under section 5B as the Scottish Ministers have under section 5C and paragraph 2(1A) of schedule 1,
 - (a) in relation to an appeal under section 18 as the Secretary of State has under subsection (1) of section 20 and paragraph 2 of Schedule 1, and
 - (b) in relation to an appeal under section 35, as he has under section 37(1), (2) and (4) and paragraph 2 of Schedule 1.
 
-(2)[^key-970b85e7fba45427b1d454fbde51ba18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-970b85e7fba45427b1d454fbde51ba18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-970b85e7fba45427b1d454fbde51ba18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-970b85e7fba45427b1d454fbde51ba18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-970b85e7fba45427b1d454fbde51ba18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-970b85e7fba45427b1d454fbde51ba18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Where an appeal has been determined by an appointed person, his decision shall be treated as that of the Secretary of State.
 
@@ -61,11 +61,11 @@ Sections 20(4) and 35(5).
 
 (2) Such a direction shall state the reasons for which it is given and shall be served on the appellant, the planning authority, any person who made representations relating to the subject matter of the appeal which the authority are required to take into account by regulations made under section 10(2) and, if any person has been appointed under paragraph 1, on him.
 
-(3) Where in consequence of such a direction an appeal under section 5B,[^key-65578084e91115ebee63cb9bdb0d9604] 18 or 35 falls to be determined by the Secretary of State himself, the provisions of this Act which are relevant to the appeal shall, subject to the following provisions of this paragraph, apply to the appeal as if this Schedule had never applied to it.
+(3) Where in consequence of such a direction an appeal under section 5B,[^c-65578084e91115ebee63cb9bdb0d9604] 18 or 35 falls to be determined by the Secretary of State himself, the provisions of this Act which are relevant to the appeal shall, subject to the following provisions of this paragraph, apply to the appeal as if this Schedule had never applied to it.
 
-(4)[^key-9f35e6d13b33d07fda6e9247df3db928] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9f35e6d13b33d07fda6e9247df3db928] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-9f35e6d13b33d07fda6e9247df3db928] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-9f35e6d13b33d07fda6e9247df3db928] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In determining the appeal the Secretary of State may take into account any report made to him by any person previously appointed to determine it.
 
@@ -88,7 +88,7 @@ Sections 20(4) and 35(5).
 
 (3) Nothing in sub-paragraph (2) shall require—
 
-- (a)[^key-07f7090ca646aa706e919c3a0e5d7063] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-07f7090ca646aa706e919c3a0e5d7063] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) any person to be given an opportunity of making fresh representations or modifying or withdrawing any representations already made.
 
 ### Local inquiries and hearings
@@ -100,7 +100,7 @@ Sections 20(4) and 35(5).
 
 (2) Where an appointed person—
 
-- (a) holds a hearing [^key-3d779f9f349bc085010da27be47818e0]..., or
+- (a) holds a hearing [^c-3d779f9f349bc085010da27be47818e0]..., or
 - (b) holds an inquiry by virtue of this paragraph,
 
 an assessor may be appointed by the Secretary of State to sit with the appointed person at the hearing or inquiry to advise him on any matters arising, notwithstanding that the appointed person is to determine the appeal.
@@ -113,7 +113,7 @@ an assessor may be appointed by the Secretary of State to sit with the appointed
 
 (6) For the purposes of this paragraph, references to the Minister in subsections (9) and (12) of that section shall be read as references to the appointed person.
 
-(7)[^key-6dfa7d5b1da87ec26d3b44fe4cda8e2a] Subsections (2) to (13) of section 265A of the principal Act apply to the holding of an inquiry under this paragraph as they apply to the holding of an inquiry under section 265 of that Act.
+(7)[^c-6dfa7d5b1da87ec26d3b44fe4cda8e2a] Subsections (2) to (13) of section 265A of the principal Act apply to the holding of an inquiry under this paragraph as they apply to the holding of an inquiry under section 265 of that Act.
 
 ### Supplementary provisions[^c262081]
 
@@ -123,23 +123,23 @@ an assessor may be appointed by the Secretary of State to sit with the appointed
 
 ## Annotations
 
-[^key-433b47fb4d8cffae5373dc1adc9a67a9]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/9/schedule/3) savings for effects of 2011 asp 3 s. 21 (1.12.2011) by [The Historic Environment (Amendment) (Scotland) Act 2011 (Saving, Transitional and Consequential Provisions) Order2011 (S.S.I. 2011/377)](https://www.legislation.gov.uk/ssi/2011/377), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/377/article/1/1), [6(b)](https://www.legislation.gov.uk/ssi/2011/377/article/6/b)
+[^c-433b47fb4d8cffae5373dc1adc9a67a9]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/9/schedule/3) savings for effects of 2011 asp 3 s. 21 (1.12.2011) by [The Historic Environment (Amendment) (Scotland) Act 2011 (Saving, Transitional and Consequential Provisions) Order2011 (S.S.I. 2011/377)](https://www.legislation.gov.uk/ssi/2011/377), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/377/article/1/1), [6(b)](https://www.legislation.gov.uk/ssi/2011/377/article/6/b)
 
-[^key-c05fd804df8d58e273c8fc0de1400059]: Textual amendment: Word in [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/ukpga/1997/9/schedule/3/paragraph/1/1) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 3 para. 23(a)](https://www.legislation.gov.uk/asp/2014/19/schedule/3/paragraph/23/a) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)
+[^c-c05fd804df8d58e273c8fc0de1400059]: Textual amendment: Word in [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/ukpga/1997/9/schedule/3/paragraph/1/1) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 3 para. 23(a)](https://www.legislation.gov.uk/asp/2014/19/schedule/3/paragraph/23/a) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)
 
-[^key-af3daa6c4fc164e98ef00a5738439bde]: Textual amendment: [Sch. 3 para. 2(1)(za)](https://www.legislation.gov.uk/ukpga/1997/9/schedule/3/paragraph/2/1/za) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 3 para. 23(b)](https://www.legislation.gov.uk/asp/2014/19/schedule/3/paragraph/23/b) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)
+[^c-af3daa6c4fc164e98ef00a5738439bde]: Textual amendment: [Sch. 3 para. 2(1)(za)](https://www.legislation.gov.uk/ukpga/1997/9/schedule/3/paragraph/2/1/za) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 3 para. 23(b)](https://www.legislation.gov.uk/asp/2014/19/schedule/3/paragraph/23/b) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)
 
-[^key-970b85e7fba45427b1d454fbde51ba18]: Textual amendment: Sch. 3 para. 2(2)-(4) repealed (1.12.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 21(b)(i)](https://www.legislation.gov.uk/asp/2011/3/section/21/b/i), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-970b85e7fba45427b1d454fbde51ba18]: Textual amendment: Sch. 3 para. 2(2)-(4) repealed (1.12.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 21(b)(i)](https://www.legislation.gov.uk/asp/2011/3/section/21/b/i), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-65578084e91115ebee63cb9bdb0d9604]: Textual amendment: Word in [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/ukpga/1997/9/schedule/3/paragraph/3/3) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 3 para. 23(c)](https://www.legislation.gov.uk/asp/2014/19/schedule/3/paragraph/23/c) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)
+[^c-65578084e91115ebee63cb9bdb0d9604]: Textual amendment: Word in [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/ukpga/1997/9/schedule/3/paragraph/3/3) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 3 para. 23(c)](https://www.legislation.gov.uk/asp/2014/19/schedule/3/paragraph/23/c) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)
 
-[^key-9f35e6d13b33d07fda6e9247df3db928]: Textual amendment: Sch. 3 para. 3(4)(5) repealed (1.12.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 21(b)(ii)](https://www.legislation.gov.uk/asp/2011/3/section/21/b/ii), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-9f35e6d13b33d07fda6e9247df3db928]: Textual amendment: Sch. 3 para. 3(4)(5) repealed (1.12.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 21(b)(ii)](https://www.legislation.gov.uk/asp/2011/3/section/21/b/ii), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-07f7090ca646aa706e919c3a0e5d7063]: Textual amendment: Sch. 3 para. 5(3)(a) and word repealed (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 3 para. 23(d)](https://www.legislation.gov.uk/asp/2014/19/schedule/3/paragraph/23/d) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); S.S.I. 2015/196, art. 2, sch.
+[^c-07f7090ca646aa706e919c3a0e5d7063]: Textual amendment: Sch. 3 para. 5(3)(a) and word repealed (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 3 para. 23(d)](https://www.legislation.gov.uk/asp/2014/19/schedule/3/paragraph/23/d) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); S.S.I. 2015/196, art. 2, sch.
 
-[^key-3d779f9f349bc085010da27be47818e0]: Textual amendment: Words in [Sch. 3 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/1997/9/schedule/3/paragraph/6/2/a) repealed (1.12.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 21(b)(iii)](https://www.legislation.gov.uk/asp/2011/3/section/21/b/iii), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-3d779f9f349bc085010da27be47818e0]: Textual amendment: Words in [Sch. 3 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/1997/9/schedule/3/paragraph/6/2/a) repealed (1.12.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 21(b)(iii)](https://www.legislation.gov.uk/asp/2011/3/section/21/b/iii), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-6dfa7d5b1da87ec26d3b44fe4cda8e2a]: Textual amendment: Sch. 3 para. 6(7) inserted (6.8.2004 for specified purposes, 7.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 91(2)](https://www.legislation.gov.uk/ukpga/2004/5/section/91/2) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 3](https://www.legislation.gov.uk/uksi/2006/1281/article/3)
+[^c-6dfa7d5b1da87ec26d3b44fe4cda8e2a]: Textual amendment: Sch. 3 para. 6(7) inserted (6.8.2004 for specified purposes, 7.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 91(2)](https://www.legislation.gov.uk/ukpga/2004/5/section/91/2) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 3](https://www.legislation.gov.uk/uksi/2006/1281/article/3)
 
 [^c262081]: Modification: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/1997/9/schedule/3/paragraph/7) modified (1.7.1999) by [S.I. 1999/1351](https://www.legislation.gov.uk/uksi/1999/1351), [art. 17(7)(b)](https://www.legislation.gov.uk/uksi/1999/1351/article/17/7/b); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 

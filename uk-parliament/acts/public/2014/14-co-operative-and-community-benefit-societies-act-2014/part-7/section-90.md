@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Duty to provide copy of annual return on demand[^key-cf3f15d94bea754bb3548fb0b70d0b35]
+## 90. Duty to provide copy of annual return on demand[^c-cf3f15d94bea754bb3548fb0b70d0b35]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf3f15d94bea754bb3548fb0b70d0b35]: Modification: S. 90 excluded by 1979 c. 34, s. 31(4) (as amended (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 16(5)(b)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/16/5/b) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))
+[^c-cf3f15d94bea754bb3548fb0b70d0b35]: Modification: S. 90 excluded by 1979 c. 34, s. 31(4) (as amended (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 16(5)(b)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/16/5/b) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))

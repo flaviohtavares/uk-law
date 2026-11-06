@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Liquidators etc.[^c12426421][^c21097281][^key-a0b5434f1a1c3ee14e98fdc51b97b73a][^key-8a307a2f8056f993f097d1a6142a251e][^key-fdd7053652b1137f28b5102c924dbcde]
+## 34. Liquidators etc.[^c12426421][^c21097281][^c-a0b5434f1a1c3ee14e98fdc51b97b73a][^c-8a307a2f8056f993f097d1a6142a251e][^c-fdd7053652b1137f28b5102c924dbcde]
 
 *Extent: E+W*
 
@@ -43,8 +43,8 @@ summary: ''
 
 [^c21097281]: Modification: S. 34 applied (with modifications) (E.) (2.8.2004) by [The Care Standards Act 2000 (Extension of the Application of Part 2 to Adult Placement Schemes) (England) Regulations 2004 (S.I. 2004/1972)](https://www.legislation.gov.uk/uksi/2004/1972), [regs. 2(2)(g)](https://www.legislation.gov.uk/uksi/2004/1972/regulation/2/2/g), [3](https://www.legislation.gov.uk/uksi/2004/1972/regulation/3)
 
-[^key-a0b5434f1a1c3ee14e98fdc51b97b73a]: Modification: S. 34 applied (with modifications) (4.3.2013) by [The Care Standards Act 2000 (Extension of the Application of Part 2 to Holiday Schemes for Disabled Children) (England) Regulations 2013 (S.I. 2013/253)](https://www.legislation.gov.uk/uksi/2013/253), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/253/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2013/253/regulation/2/1)[(2)(l)](https://www.legislation.gov.uk/uksi/2013/253/regulation/2/2/l), [Sch.](https://www.legislation.gov.uk/uksi/2013/253/schedule)
+[^c-a0b5434f1a1c3ee14e98fdc51b97b73a]: Modification: S. 34 applied (with modifications) (4.3.2013) by [The Care Standards Act 2000 (Extension of the Application of Part 2 to Holiday Schemes for Disabled Children) (England) Regulations 2013 (S.I. 2013/253)](https://www.legislation.gov.uk/uksi/2013/253), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/253/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2013/253/regulation/2/1)[(2)(l)](https://www.legislation.gov.uk/uksi/2013/253/regulation/2/2/l), [Sch.](https://www.legislation.gov.uk/uksi/2013/253/schedule)
 
-[^key-8a307a2f8056f993f097d1a6142a251e]: Modification: S. 34 applied (with modifications) (31.3.2017) by [The Care Standards Act 2000 (Extension of the Application of Part 2 to Private Dental Practices) (Wales) Regulations 2017 (S.I. 2017/200)](https://www.legislation.gov.uk/wsi/2017/200), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/200/regulation/1/2), [3(2)(l)](https://www.legislation.gov.uk/wsi/2017/200/regulation/3/2/l), [Sch.](https://www.legislation.gov.uk/wsi/2017/200/schedule)
+[^c-8a307a2f8056f993f097d1a6142a251e]: Modification: S. 34 applied (with modifications) (31.3.2017) by [The Care Standards Act 2000 (Extension of the Application of Part 2 to Private Dental Practices) (Wales) Regulations 2017 (S.I. 2017/200)](https://www.legislation.gov.uk/wsi/2017/200), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/200/regulation/1/2), [3(2)(l)](https://www.legislation.gov.uk/wsi/2017/200/regulation/3/2/l), [Sch.](https://www.legislation.gov.uk/wsi/2017/200/schedule)
 
-[^key-fdd7053652b1137f28b5102c924dbcde]: Modification: [S. 34](https://www.legislation.gov.uk/ukpga/2000/14/section/34) applied (with modifications) (8.8.2022) by [The Care Standards Act 2000 (Extension of the Application of Part 2 to Supported Accommodation) (England) Regulations 2022 (S.I. 2022/808)](https://www.legislation.gov.uk/uksi/2022/808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/808/regulation/3/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/808/schedule)
+[^c-fdd7053652b1137f28b5102c924dbcde]: Modification: [S. 34](https://www.legislation.gov.uk/ukpga/2000/14/section/34) applied (with modifications) (8.8.2022) by [The Care Standards Act 2000 (Extension of the Application of Part 2 to Supported Accommodation) (England) Regulations 2022 (S.I. 2022/808)](https://www.legislation.gov.uk/uksi/2022/808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/808/regulation/3/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/808/schedule)

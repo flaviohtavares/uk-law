@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Conditions on the admission of diseased or injured animals[^key-d807bfa2803540f0421e8872355be738]
+## 16. Conditions on the admission of diseased or injured animals[^c-d807bfa2803540f0421e8872355be738]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d807bfa2803540f0421e8872355be738]: Commencement: Reg. 16 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-d807bfa2803540f0421e8872355be738]: Commencement: Reg. 16 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

@@ -61,8 +61,8 @@ Now, therefore, the said Minister, in exercise of the powers conferred on him by
 
 (2) In this Order—
 
-- “the Authority” means the inshore fisheries and conservation authority for the Devon and Severn Inshore Fisheries and Conservation District established under section 149(1) of the Marine and Coastal Access Act 2009;[^key-fc0527fa8f25537420ae729bd1bd85d5]
-- “the definitive map” means the map duly sealed in duplicate with the Minister’s seal and marked “Map referred to in the Waddeton Fisheries Order 2001” one copy of which is in the possession of the Authority[^key-0aded24f78d022c17da259b80c8d233c] and the other copy of which is in the possession of the Minister;
+- “the Authority” means the inshore fisheries and conservation authority for the Devon and Severn Inshore Fisheries and Conservation District established under section 149(1) of the Marine and Coastal Access Act 2009;[^c-fc0527fa8f25537420ae729bd1bd85d5]
+- “the definitive map” means the map duly sealed in duplicate with the Minister’s seal and marked “Map referred to in the Waddeton Fisheries Order 2001” one copy of which is in the possession of the Authority[^c-0aded24f78d022c17da259b80c8d233c] and the other copy of which is in the possession of the Minister;
 - “exclusive licence” means a licence issued by the Authority under article 6 of this Order which grants exclusive authorisation to the person named in the licence to cultivate, dredge, fish for or take prescribed species from such part of the fishery as is specified in the licence;
 - “the fishery” means that part of the River Dart in the county of Devon which lies below the line of mean high water and is shown coloured pink on the definitive map;
 - “the prescribed species” are oysters, mussels, cockles, clams and crabs;
@@ -130,7 +130,7 @@ The Authority shall permit any person authorised in that behalf by the Minister 
 
 (12) Without limiting the generality of the Authority’s powers under this article, the Authority may refuse to grant a licence if any person to whom it would be issued in accordance with paragraph (4) or (5) above has been convicted of a relevant offence within the previous twelve months.
 
-(13) In this regulation “relevant offence” means either an offence under section 3(3) of the Sea Fisheries (Shellfish) Act 1967 or an offence under section 163(1) of the Marine and Coastal Access Act 2009[^key-898716f4e5202537ab5dd861855d25ac].
+(13) In this regulation “relevant offence” means either an offence under section 3(3) of the Sea Fisheries (Shellfish) Act 1967 or an offence under section 163(1) of the Marine and Coastal Access Act 2009[^c-898716f4e5202537ab5dd861855d25ac].
 
 ## 7. Tolls and fees payable for fishing
 
@@ -191,7 +191,7 @@ The Authority shall render to the Minister annual accounts of its income and exp
 (2) The undertakings referred to in paragraph (1) above are—
 
 - (a) the undertakings of any water undertaker or sewage undertaker;
-- (b)[^key-1c3194f03282d15239d6b6aa50414636] any undertaking consisting in the operation of an electronic communications code network (within the meaning given in paragraph 1(1) of Schedule 17 to the Communications Act 2003);
+- (b)[^c-1c3194f03282d15239d6b6aa50414636] any undertaking consisting in the operation of an electronic communications code network (within the meaning given in paragraph 1(1) of Schedule 17 to the Communications Act 2003);
 - (c) the undertaking of any public gas transporter or gas supplier within the meaning of Part I of the Gas Act 1986[^f00006];
 - (d) the undertaking of any person authorised by a licence under Part I of the Electricity Act 1989[^f00007] to generate, transmit or supply electricity;
 - (e) the undertaking of any navigation, harbour, general lighthouse or conservancy authority.
@@ -210,17 +210,17 @@ The situation and extent of the area within which the rights are conferred are s
 
 [^f00001]: Footnote: [1967 c. 83](https://www.legislation.gov.uk/ukpga/1967/83); section 1 was amended by section 15(2) of the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77), paragraph 15 of Schedule 2 to the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86) and paragraph 42(2) of Schedule 2 to the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), and is to be read with section 15(3) to (5) of the Sea Fisheries Act 1968 and S.I. [1987/218](https://www.legislation.gov.uk/uksi/1987/218) and S.I. [2001/1381](https://www.legislation.gov.uk/uksi/2001/1381); Schedule 1 was amended by section 15(7) of the Sea Fisheries Act 1968 and sections 38 and 46 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48); section 22(1) contains a definition of “the Minister”, as amended by paragraph 42(10) of Schedule 2 to S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), and is to be read subject to the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)), Article 2 and Schedule 1.
 
-[^key-fc0527fa8f25537420ae729bd1bd85d5]: Textual amendment: Words in art. 1(2) substituted (1.4.2011) by [The Marine and Coastal Access Act 2009 (Transitional and Savings Provisions) Order 2011 (S.I. 2011/603)](https://www.legislation.gov.uk/uksi/2011/603), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2011/603/schedule/2/paragraph/8/2)
+[^c-fc0527fa8f25537420ae729bd1bd85d5]: Textual amendment: Words in art. 1(2) substituted (1.4.2011) by [The Marine and Coastal Access Act 2009 (Transitional and Savings Provisions) Order 2011 (S.I. 2011/603)](https://www.legislation.gov.uk/uksi/2011/603), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2011/603/schedule/2/paragraph/8/2)
 
-[^key-0aded24f78d022c17da259b80c8d233c]: Textual amendment: Word in Order substituted (1.4.2011) by [The Marine and Coastal Access Act 2009 (Transitional and Savings Provisions) Order 2011 (S.I. 2011/603)](https://www.legislation.gov.uk/uksi/2011/603), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2), [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/uksi/2011/603/schedule/2/paragraph/8/4)
+[^c-0aded24f78d022c17da259b80c8d233c]: Textual amendment: Word in Order substituted (1.4.2011) by [The Marine and Coastal Access Act 2009 (Transitional and Savings Provisions) Order 2011 (S.I. 2011/603)](https://www.legislation.gov.uk/uksi/2011/603), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2), [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/uksi/2011/603/schedule/2/paragraph/8/4)
 
 [^f00003]: Footnote: This is to be read in the light of the duties conferred on local fisheries committees by the Sea Fisheries (Wildlife Conservation) Act [1992 (c. 36)](https://www.legislation.gov.uk/ukpga/1992/36).
 
 [^f00004]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-898716f4e5202537ab5dd861855d25ac]: Textual amendment: Words in art. 6(13) substituted (1.4.2011) by [The Marine and Coastal Access Act 2009 (Transitional and Savings Provisions) Order 2011 (S.I. 2011/603)](https://www.legislation.gov.uk/uksi/2011/603), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/uksi/2011/603/schedule/2/paragraph/8/3)
+[^c-898716f4e5202537ab5dd861855d25ac]: Textual amendment: Words in art. 6(13) substituted (1.4.2011) by [The Marine and Coastal Access Act 2009 (Transitional and Savings Provisions) Order 2011 (S.I. 2011/603)](https://www.legislation.gov.uk/uksi/2011/603), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/uksi/2011/603/schedule/2/paragraph/8/3)
 
-[^key-1c3194f03282d15239d6b6aa50414636]: Textual amendment: Art. 14(2)(b) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 26(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/26/2); (see [S.I](https://www.legislation.gov.uk/uksi/2017/1011/section/I). 2017/1286, reg. 2)
+[^c-1c3194f03282d15239d6b6aa50414636]: Textual amendment: Art. 14(2)(b) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 26(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/26/2); (see [S.I](https://www.legislation.gov.uk/uksi/2017/1011/section/I). 2017/1286, reg. 2)
 
 [^f00006]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44).
 

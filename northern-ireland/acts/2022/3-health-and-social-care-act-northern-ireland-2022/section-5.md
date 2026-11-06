@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Schemes for transfer of assets and liabilities[^key-d2ae7f2bb4a04c3eba5255ecb9996def]
+## 5. Schemes for transfer of assets and liabilities[^c-d2ae7f2bb4a04c3eba5255ecb9996def]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2ae7f2bb4a04c3eba5255ecb9996def]: Commencement: S. 5 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)
+[^c-d2ae7f2bb4a04c3eba5255ecb9996def]: Commencement: S. 5 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)

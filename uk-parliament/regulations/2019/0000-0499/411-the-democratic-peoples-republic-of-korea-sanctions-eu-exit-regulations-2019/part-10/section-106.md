@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. General trade licences: records[^key-4335d9a84d436be24afd41db33bbfbf6][^key-31e94335cc0c2376ea2337a99b1dd697]
+## 106. General trade licences: records[^c-4335d9a84d436be24afd41db33bbfbf6][^c-31e94335cc0c2376ea2337a99b1dd697]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4335d9a84d436be24afd41db33bbfbf6]: Commencement: Reg. 106 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-4335d9a84d436be24afd41db33bbfbf6]: Commencement: Reg. 106 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-31e94335cc0c2376ea2337a99b1dd697]: Commencement: [Reg. 106](https://www.legislation.gov.uk/uksi/2019/411/regulation/106) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-31e94335cc0c2376ea2337a99b1dd697]: Commencement: [Reg. 106](https://www.legislation.gov.uk/uksi/2019/411/regulation/106) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

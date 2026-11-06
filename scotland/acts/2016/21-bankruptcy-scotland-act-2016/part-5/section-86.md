@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Further provision as regards vesting of estate[^key-64a87bb37fd57fb035310223b5b22dcf]
+## 86. Further provision as regards vesting of estate[^c-64a87bb37fd57fb035310223b5b22dcf]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64a87bb37fd57fb035310223b5b22dcf]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2016/21/section/86) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-64a87bb37fd57fb035310223b5b22dcf]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2016/21/section/86) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

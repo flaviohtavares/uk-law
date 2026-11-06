@@ -26,13 +26,13 @@ summary: ''
 - “accessibility plan” has the meanings given in Article 18;
 - “the Department” means the Department of Education;
 - “disabled pupil” means a pupil who is a disabled person;
-- “prescribed” means, except in Article 23, prescribed by regulations made by the Department;[^key-868fad322dd1de69c46214a4c4101332]
+- “prescribed” means, except in Article 23, prescribed by regulations made by the Department;[^c-868fad322dd1de69c46214a4c4101332]
 - “responsible body” has (subject to Article 20(5)) the meaning given in Article 14(5);
 - “the Tribunal” has the meaning given in Article 21(2).
 
 (2) In this Chapter the following have the meaning given in Article 2(2) of the 1986 Order—
 
-- [^key-d422e885b1fbccbb55aeaf099e4d4ef7]...
+- [^c-d422e885b1fbccbb55aeaf099e4d4ef7]...
 - “Board of Governors”;
 - “grant-aided school”;
 - “independent school”;
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-868fad322dd1de69c46214a4c4101332]: Textual amendment: Words in [art. 13(1)](https://www.legislation.gov.uk/nisi/2005/1117/article/13/1) substituted (2.6.2021) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2021 (S.R. 2021/114)](https://www.legislation.gov.uk/nisr/2021/114), [art. 1(2)](https://www.legislation.gov.uk/nisr/2021/114/article/1/2), [Sch. para. 3(1)](https://www.legislation.gov.uk/nisr/2021/114/schedule/paragraph/3/1) (with [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/b))
+[^c-868fad322dd1de69c46214a4c4101332]: Textual amendment: Words in [art. 13(1)](https://www.legislation.gov.uk/nisi/2005/1117/article/13/1) substituted (2.6.2021) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2021 (S.R. 2021/114)](https://www.legislation.gov.uk/nisr/2021/114), [art. 1(2)](https://www.legislation.gov.uk/nisr/2021/114/article/1/2), [Sch. para. 3(1)](https://www.legislation.gov.uk/nisr/2021/114/schedule/paragraph/3/1) (with [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/b))
 
-[^key-d422e885b1fbccbb55aeaf099e4d4ef7]: Textual amendment: Word in art. 13(2) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-d422e885b1fbccbb55aeaf099e4d4ef7]: Textual amendment: Word in art. 13(2) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

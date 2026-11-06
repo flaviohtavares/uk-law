@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Disregarding convictions and cautions for loitering or soliciting when under 18[^key-a926c249ab2944c5a960ec66689f71fc]
+## 116. Disregarding convictions and cautions for loitering or soliciting when under 18[^c-a926c249ab2944c5a960ec66689f71fc]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a926c249ab2944c5a960ec66689f71fc]: Commencement: S. 116 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-a926c249ab2944c5a960ec66689f71fc]: Commencement: S. 116 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

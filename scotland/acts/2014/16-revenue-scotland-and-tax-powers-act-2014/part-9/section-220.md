@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 220. Rates of interest[^key-f05620cf7038b84fc745fd7731da9e56][^key-2264ff7658aea75cab14736b67254864]
+## 220. Rates of interest[^c-f05620cf7038b84fc745fd7731da9e56][^c-2264ff7658aea75cab14736b67254864]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f05620cf7038b84fc745fd7731da9e56]: Commencement: [S. 220](https://www.legislation.gov.uk/asp/2014/16/section/220) in force at 7.11.2014 for specified purposes by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-f05620cf7038b84fc745fd7731da9e56]: Commencement: [S. 220](https://www.legislation.gov.uk/asp/2014/16/section/220) in force at 7.11.2014 for specified purposes by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-2264ff7658aea75cab14736b67254864]: Commencement: [S. 220](https://www.legislation.gov.uk/asp/2014/16/section/220) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-2264ff7658aea75cab14736b67254864]: Commencement: [S. 220](https://www.legislation.gov.uk/asp/2014/16/section/220) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Decisions under Pensions Act[^key-03649ee8c5259630bbcbd6a202748db8]
+## 15. Decisions under Pensions Act[^c-03649ee8c5259630bbcbd6a202748db8]
 
 *Extent: N.I.*
 
@@ -62,7 +62,7 @@ summary: ''
 
 ## Annotations
 
-[^key-03649ee8c5259630bbcbd6a202748db8]: Commencement: Art. 15 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-03649ee8c5259630bbcbd6a202748db8]: Commencement: Art. 15 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
 [^f00017]: Footnote: Section 165 was amended by paragraph 34 of Schedule 1 to, and paragraph 60 of Schedule 3 to, the Pensions (Northern Ireland) Order 1995.
 

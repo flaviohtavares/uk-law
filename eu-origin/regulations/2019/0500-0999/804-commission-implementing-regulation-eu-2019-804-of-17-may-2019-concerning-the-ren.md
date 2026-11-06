@@ -35,26 +35,26 @@ concerning the renewal of the authorisation of organic form of selenium produced
 
 (Text with EEA relevance) (revoked)
 
-[^key-e93c99cd0641d0cfde5c2e469a1d8519]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e93c99cd0641d0cfde5c2e469a1d8519]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-e93c99cd0641d0cfde5c2e469a1d8519] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e93c99cd0641d0cfde5c2e469a1d8519] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e93c99cd0641d0cfde5c2e469a1d8519] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e93c99cd0641d0cfde5c2e469a1d8519] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-e93c99cd0641d0cfde5c2e469a1d8519] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-e93c99cd0641d0cfde5c2e469a1d8519] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-e93c99cd0641d0cfde5c2e469a1d8519] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-e93c99cd0641d0cfde5c2e469a1d8519] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e93c99cd0641d0cfde5c2e469a1d8519]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e93c99cd0641d0cfde5c2e469a1d8519]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-e93c99cd0641d0cfde5c2e469a1d8519]
+## ANNEX[^c-e93c99cd0641d0cfde5c2e469a1d8519]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e93c99cd0641d0cfde5c2e469a1d8519]: Textual amendment: Regulation revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 5 para. 314](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/314) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-e93c99cd0641d0cfde5c2e469a1d8519]: Textual amendment: Regulation revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 5 para. 314](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/314) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

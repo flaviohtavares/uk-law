@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37ZB. Appeals to Supreme Court: permission to appeal[^key-3d9ee3770a9f7891405c46e4a63199cf]
+## 37ZB. Appeals to Supreme Court: permission to appeal[^c-3d9ee3770a9f7891405c46e4a63199cf]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d9ee3770a9f7891405c46e4a63199cf]: Textual amendment: [Ss. 37ZA-37ZC](https://www.legislation.gov.uk/ukpga/1996/17/section/37ZA) inserted (8.8.2016) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 65](https://www.legislation.gov.uk/ukpga/2015/2/section/65), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(b)](https://www.legislation.gov.uk/uksi/2016/717/article/3/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2016/717/article/5))
+[^c-3d9ee3770a9f7891405c46e4a63199cf]: Textual amendment: [Ss. 37ZA-37ZC](https://www.legislation.gov.uk/ukpga/1996/17/section/37ZA) inserted (8.8.2016) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 65](https://www.legislation.gov.uk/ukpga/2015/2/section/65), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(b)](https://www.legislation.gov.uk/uksi/2016/717/article/3/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2016/717/article/5))

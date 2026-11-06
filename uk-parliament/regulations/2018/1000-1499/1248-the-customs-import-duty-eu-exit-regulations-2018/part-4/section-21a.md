@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21A. Application for approval to make oral declaration under regulation 21(2)[^key-30649b0d40dd137aef2f9cba11821976]
+## 21A. Application for approval to make oral declaration under regulation 21(2)[^c-30649b0d40dd137aef2f9cba11821976]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ the application will be treated as refused.
 
 ## Annotations
 
-[^key-30649b0d40dd137aef2f9cba11821976]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2018/1248/regulation/21A) inserted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2025/745/regulation/4/4)
+[^c-30649b0d40dd137aef2f9cba11821976]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2018/1248/regulation/21A) inserted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2025/745/regulation/4/4)

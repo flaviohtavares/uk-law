@@ -20,17 +20,17 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The appropriate authority must [^key-f3ca06377d5531287d7f8331fa8cf313]... —
+(1) The appropriate authority must [^c-f3ca06377d5531287d7f8331fa8cf313]... —
 
 - (a) evaluate the usefulness of the waste prevention measures set out as examples in Annex IV of the Waste Framework Directive and any other such measures the authority thinks fit; and
 - (b) establish one or more programmes of waste prevention measures (each a “waste prevention programme”).
 
 (2) A programme established before the coming into force of these Regulations may be a waste prevention programme.
 
-(3)[^key-a8eecc84398b45f489ca3478fb818bc4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a8eecc84398b45f489ca3478fb818bc4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f3ca06377d5531287d7f8331fa8cf313]: Textual amendment: Words in reg. 4(1) omitted (1.10.2020) by virtue of [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [15(3)(a)](https://www.legislation.gov.uk/uksi/2020/904/regulation/15/3/a)
+[^c-f3ca06377d5531287d7f8331fa8cf313]: Textual amendment: Words in reg. 4(1) omitted (1.10.2020) by virtue of [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [15(3)(a)](https://www.legislation.gov.uk/uksi/2020/904/regulation/15/3/a)
 
-[^key-a8eecc84398b45f489ca3478fb818bc4]: Textual amendment: Reg. 4(3) omitted (1.10.2020) by virtue of [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [15(3)(b)](https://www.legislation.gov.uk/uksi/2020/904/regulation/15/3/b)
+[^c-a8eecc84398b45f489ca3478fb818bc4]: Textual amendment: Reg. 4(3) omitted (1.10.2020) by virtue of [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [15(3)(b)](https://www.legislation.gov.uk/uksi/2020/904/regulation/15/3/b)

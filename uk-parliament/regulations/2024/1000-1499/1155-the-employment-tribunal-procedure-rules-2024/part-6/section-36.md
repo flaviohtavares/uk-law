@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Other persons[^key-6faf66dde586273712871557dc74c669]
+## 36. Other persons[^c-6faf66dde586273712871557dc74c669]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Tribunal may permit any person to participate in proceedings, on such terms 
 
 ## Annotations
 
-[^key-6faf66dde586273712871557dc74c669]: Commencement: [Rule 36](https://www.legislation.gov.uk/uksi/2024/1155/rule/36) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-6faf66dde586273712871557dc74c669]: Commencement: [Rule 36](https://www.legislation.gov.uk/uksi/2024/1155/rule/36) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

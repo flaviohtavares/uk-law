@@ -58,7 +58,7 @@ summary: ''
 
 (6) In section 210 (penalties for non-compliance with tree preservation order)—
 
-- (a)[^key-e21b2f475206c3a0fdeabc59503db448] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e21b2f475206c3a0fdeabc59503db448] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (3) “on indictment” is omitted; and
 - (c) subsection (5) is omitted.
 
@@ -148,4 +148,4 @@ summary: ''
 
 [^c15658441]: Commencement: S. 23 wholly in force: s.23(7) in force for certain purposes at 25.11.1991, see s. 84(2)(3) and [S.I. 1991/2728](https://www.legislation.gov.uk/uksi/1991/2728), [art. 2](https://www.legislation.gov.uk/uksi/1991/2728/article/2); s. 23 (so far as not already in force) in force at 2.1.1992 by [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [arts. 3](https://www.legislation.gov.uk/uksi/1991/2905/article/3), [5](https://www.legislation.gov.uk/uksi/1991/2905/article/5).
 
-[^key-e21b2f475206c3a0fdeabc59503db448]: Textual amendment: [S. 23(6)(a)](https://www.legislation.gov.uk/ukpga/1991/34/section/23/6/a) omitted (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 96(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/96/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-e21b2f475206c3a0fdeabc59503db448]: Textual amendment: [S. 23(6)(a)](https://www.legislation.gov.uk/ukpga/1991/34/section/23/6/a) omitted (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 96(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/96/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

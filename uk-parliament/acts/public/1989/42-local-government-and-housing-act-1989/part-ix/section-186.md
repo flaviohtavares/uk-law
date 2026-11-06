@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Schedule 10 to this Act shall have effect (in place of Part I of the [^c15280001]Landlord and Tenant Act 1954) to confer security of tenure on certain tenants under long tenancies and, in particular, to establish assured periodic tenancies or standard occupation contracts[^key-2e6a333c05e9631580243e3215375a40] when such long tenancies come to an end.
+(1) Schedule 10 to this Act shall have effect (in place of Part I of the [^c15280001]Landlord and Tenant Act 1954) to confer security of tenure on certain tenants under long tenancies and, in particular, to establish assured periodic tenancies or standard occupation contracts[^c-2e6a333c05e9631580243e3215375a40] when such long tenancies come to an end.
 
-(1A)[^key-4e4fbb744f88841e2bfe589f9e9d5b2e] In this section, “**standard occupation contract**” has the same meaning as in section 8 of the Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1).
+(1A)[^c-4e4fbb744f88841e2bfe589f9e9d5b2e] In this section, “**standard occupation contract**” has the same meaning as in section 8 of the Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1).
 
 (2) Schedule 10 to this Act applies, and section 1 of the Landlord and TenantAct 1954 does not apply, to a tenancy of a dwelling-house—
 
@@ -49,6 +49,6 @@ then, on and after that date (and so far as concerns any notice specifying a dat
 
 [^c15280001]: Marginal citation: [1954 c. 56](https://www.legislation.gov.uk/ukpga/1954/56).
 
-[^key-2e6a333c05e9631580243e3215375a40]: Textual amendment: Words in [s. 186(1)](https://www.legislation.gov.uk/ukpga/1989/42/section/186/1) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [18(4)(a)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/18/4/a)
+[^c-2e6a333c05e9631580243e3215375a40]: Textual amendment: Words in [s. 186(1)](https://www.legislation.gov.uk/ukpga/1989/42/section/186/1) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [18(4)(a)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/18/4/a)
 
-[^key-4e4fbb744f88841e2bfe589f9e9d5b2e]: Textual amendment: [S. 186(1A)](https://www.legislation.gov.uk/ukpga/1989/42/section/186/1A) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [18(4)(b)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/18/4/b)
+[^c-4e4fbb744f88841e2bfe589f9e9d5b2e]: Textual amendment: [S. 186(1A)](https://www.legislation.gov.uk/ukpga/1989/42/section/186/1A) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [18(4)(b)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/18/4/b)

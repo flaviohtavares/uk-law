@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Cancellation of registration under section 41, 42 or 43[^key-6493577d269a77e3b57f9569bb1af3e5]
+## 46. Cancellation of registration under section 41, 42 or 43[^c-6493577d269a77e3b57f9569bb1af3e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6493577d269a77e3b57f9569bb1af3e5]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2017/10/section/46) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-6493577d269a77e3b57f9569bb1af3e5]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2017/10/section/46) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)

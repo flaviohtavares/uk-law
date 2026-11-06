@@ -31,7 +31,7 @@ summary: ''
 
 Environmental Protection
 
-The Pollution Prevention and Control (Designation of the Industrial Emissions Directive) (Offshore) Order 2013 (revoked)[^key-7376f03bb2edb9e59bb546fedfc865d4]
+The Pollution Prevention and Control (Designation of the Industrial Emissions Directive) (Offshore) Order 2013 (revoked)[^c-7376f03bb2edb9e59bb546fedfc865d4]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 15th March 2013
 
-[^key-7376f03bb2edb9e59bb546fedfc865d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7376f03bb2edb9e59bb546fedfc865d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-7376f03bb2edb9e59bb546fedfc865d4]
+## 1. Citation, commencement and application[^c-7376f03bb2edb9e59bb546fedfc865d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation[^key-7376f03bb2edb9e59bb546fedfc865d4]
+## 2. Designation[^c-7376f03bb2edb9e59bb546fedfc865d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7376f03bb2edb9e59bb546fedfc865d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7376f03bb2edb9e59bb546fedfc865d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7376f03bb2edb9e59bb546fedfc865d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7376f03bb2edb9e59bb546fedfc865d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7376f03bb2edb9e59bb546fedfc865d4]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/669) revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 65](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/65); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7376f03bb2edb9e59bb546fedfc865d4]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/669) revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 65](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/65); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

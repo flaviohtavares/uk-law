@@ -46,7 +46,7 @@ for the purposes of regulation 2(2)(c)
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1)(a), 132(3) and (4)(a) and (b) and 171(1), (3) and (4) of the Social Security Contributions and Benefits Act (Northern Ireland) 1992[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-c2e21b4c4f92e694a37dba2d510757c2]
+## 1. Citation, commencement and interpretation[^c-c2e21b4c4f92e694a37dba2d510757c2]
 
 (1) These Regulations may be cited as the Income Support (General) (Amendment) Regulations (Northern Ireland) 1999 and shall come into operation—
 
@@ -55,16 +55,16 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-2205635c30e341142590a52c9a3ae70d][^key-7cb23ef07e63437fe803b5ff7952a22c]
+## 2. Amendment of the Income Support (General) Regulations[^c-2205635c30e341142590a52c9a3ae70d][^c-7cb23ef07e63437fe803b5ff7952a22c]
 
-(1)[^key-2205635c30e341142590a52c9a3ae70d] The Income Support (General) Regulations (Northern Ireland) 1987[^f00003] shall be amended in accordance with paragraphs (2) and (3).
+(1)[^c-2205635c30e341142590a52c9a3ae70d] The Income Support (General) Regulations (Northern Ireland) 1987[^f00003] shall be amended in accordance with paragraphs (2) and (3).
 
 (2) In regulation 42 (notional income)—
 
-- (a)[^key-2205635c30e341142590a52c9a3ae70d] in paragraph (6)[^f00004]—
+- (a)[^c-2205635c30e341142590a52c9a3ae70d] in paragraph (6)[^f00004]—
   - (i) at the beginning, there shall be inserted “Subject to paragraph (6A),”;
   - (ii) the words from “; but this paragraph” to the end shall be omitted;
-- (b)[^key-2205635c30e341142590a52c9a3ae70d] after paragraph (6) there shall be inserted the following paragraphs—
+- (b)[^c-2205635c30e341142590a52c9a3ae70d] after paragraph (6) there shall be inserted the following paragraphs—
 
   > (6A) Paragraph (6) shall not apply—
   >
@@ -86,9 +86,9 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
   > (6C) In determining the number of hours of work experience which the claimant has completed for the purposes of paragraph (6B)(b), no account shall be taken of any time allowed to that claimant by his employer for a meal.
 
   ;
-- (c)[^key-7cb23ef07e63437fe803b5ff7952a22c] in paragraph (6A)(a), for “adjudication officer” there shall be substituted “Department”.
+- (c)[^c-7cb23ef07e63437fe803b5ff7952a22c] in paragraph (6A)(a), for “adjudication officer” there shall be substituted “Department”.
 
-(3)[^key-2205635c30e341142590a52c9a3ae70d] In Schedule 9 (sums to be disregarded in the calculation of income other than earnings) in paragraph 13[^f00006] for sub-paragraph (d) there shall be substituted the following sub-paragraph—
+(3)[^c-2205635c30e341142590a52c9a3ae70d] In Schedule 9 (sums to be disregarded in the calculation of income other than earnings) in paragraph 13[^f00006] for sub-paragraph (d) there shall be substituted the following sub-paragraph—
 
 > - (d) any child care expenses reimbursed to the claimant in respect of his participation in—
 >   - (i) an employment programme specified in regulation 75(1)(a) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 or in a training scheme specified in regulation 75(1)(b)(ii) of those Regulations, or
@@ -96,7 +96,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 .
 
-## 3. Amendment of the Social Security (New Deal Pilot) Regulations[^key-03bd82de3a5b51afd7cedd72a5eafa0a]
+## 3. Amendment of the Social Security (New Deal Pilot) Regulations[^c-03bd82de3a5b51afd7cedd72a5eafa0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -125,13 +125,13 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
-[^key-c2e21b4c4f92e694a37dba2d510757c2]: Commencement: Reg. 1 in operation at 4.10.1999, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/390/regulation/1/1/a)
+[^c-c2e21b4c4f92e694a37dba2d510757c2]: Commencement: Reg. 1 in operation at 4.10.1999, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/390/regulation/1/1/a)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-2205635c30e341142590a52c9a3ae70d]: Commencement: Reg. 2(1)(2)(a)(b)(3) in operation at 4.10.1999, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/390/regulation/1/1/a)
+[^c-2205635c30e341142590a52c9a3ae70d]: Commencement: Reg. 2(1)(2)(a)(b)(3) in operation at 4.10.1999, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/390/regulation/1/1/a)
 
-[^key-7cb23ef07e63437fe803b5ff7952a22c]: Commencement: [Reg. 2(2)(c)](https://www.legislation.gov.uk/nisr/1999/390/regulation/2/2/c) in operation at 29.11.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/390/regulation/1/1/b)
+[^c-7cb23ef07e63437fe803b5ff7952a22c]: Commencement: [Reg. 2(2)(c)](https://www.legislation.gov.uk/nisr/1999/390/regulation/2/2/c) in operation at 29.11.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/390/regulation/1/1/b)
 
 [^f00003]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1990 No. 387](https://www.legislation.gov.uk/nisr/1990/387); [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86) and [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541)
 
@@ -141,4 +141,4 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00006]: Footnote: Paragraph 13 was substituted by regulation 3(8)(b) of [S.R. 1990 No. 387](https://www.legislation.gov.uk/nisr/1990/387) and amended by regulation 17(7)(a) and (b) of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541)
 
-[^key-03bd82de3a5b51afd7cedd72a5eafa0a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/390/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-03bd82de3a5b51afd7cedd72a5eafa0a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/390/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))

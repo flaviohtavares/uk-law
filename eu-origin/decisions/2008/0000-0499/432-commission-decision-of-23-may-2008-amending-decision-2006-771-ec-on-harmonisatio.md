@@ -40,16 +40,16 @@ amending Decision 2006/771/EC on harmonisation of the radio spectrum for use by 
 
 (2008/432/EC) (revoked)
 
-[^key-12a96051d237d1bc7db6f93161dfc057]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12a96051d237d1bc7db6f93161dfc057]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-12a96051d237d1bc7db6f93161dfc057] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-12a96051d237d1bc7db6f93161dfc057] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-12a96051d237d1bc7db6f93161dfc057] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-12a96051d237d1bc7db6f93161dfc057] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-12a96051d237d1bc7db6f93161dfc057]
+## ANNEX[^c-12a96051d237d1bc7db6f93161dfc057]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-12a96051d237d1bc7db6f93161dfc057]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-12a96051d237d1bc7db6f93161dfc057]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

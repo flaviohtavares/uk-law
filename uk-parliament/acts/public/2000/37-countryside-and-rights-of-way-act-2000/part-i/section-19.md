@@ -34,8 +34,8 @@ summary: ''
 
 (4) An access authority may also, as respects any access land in their area, defray or contribute towards, or undertake to defray or contribute towards, expenditure incurred or to be incurred in relation to the land by any person in displaying such notices as are mentioned in subsection (1)(a) and (b).
 
-(5)[^key-1d047093f5833d0489bcfaa72748f9fb] In the case of access land that is coastal margin, the powers conferred on an access authority by this section are also exercisable by Natural England.
+(5)[^c-1d047093f5833d0489bcfaa72748f9fb] In the case of access land that is coastal margin, the powers conferred on an access authority by this section are also exercisable by Natural England.
 
 ## Annotations
 
-[^key-1d047093f5833d0489bcfaa72748f9fb]: Textual amendment: [S. 19(5)](https://www.legislation.gov.uk/ukpga/2000/37/section/19/5) inserted (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d), [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/2009/23/schedule/20/paragraph/7) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))
+[^c-1d047093f5833d0489bcfaa72748f9fb]: Textual amendment: [S. 19(5)](https://www.legislation.gov.uk/ukpga/2000/37/section/19/5) inserted (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d), [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/2009/23/schedule/20/paragraph/7) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))

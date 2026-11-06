@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Disapplication of paragraphs 2, 3, 4 and 6 of Schedule 23 to the Income and Corporation Taxes Act 1988—further provision[^key-b40131b2a63a8ef9951d9e0324b3846d]
+## 119. Disapplication of paragraphs 2, 3, 4 and 6 of Schedule 23 to the Income and Corporation Taxes Act 1988—further provision[^c-b40131b2a63a8ef9951d9e0324b3846d]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b40131b2a63a8ef9951d9e0324b3846d]: Commencement: Art. 119 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-b40131b2a63a8ef9951d9e0324b3846d]: Commencement: Art. 119 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00112]: Footnote: Regulation 4ZA was inserted by regulation 4 of S.I. [1996/3115](https://www.legislation.gov.uk/uksi/1996/3115).

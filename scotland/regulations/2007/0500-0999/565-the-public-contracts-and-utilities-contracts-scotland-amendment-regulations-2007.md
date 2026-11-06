@@ -32,7 +32,7 @@ summary: ''
 
 PUBLIC PROCUREMENT
 
-The Public Contracts and Utilities Contracts (Scotland) Amendment Regulations 2007 (revoked)[^key-6134f3acfa717abf4b73ccdb3376583f]
+The Public Contracts and Utilities Contracts (Scotland) Amendment Regulations 2007 (revoked)[^c-6134f3acfa717abf4b73ccdb3376583f]
 
 Made
 
@@ -46,30 +46,30 @@ Coming into force
 
 1st January 2008
 
-[^key-6134f3acfa717abf4b73ccdb3376583f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6134f3acfa717abf4b73ccdb3376583f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and extent[^key-6134f3acfa717abf4b73ccdb3376583f]
+## 1. Citation, commencement, interpretation and extent[^c-6134f3acfa717abf4b73ccdb3376583f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Public Contracts Regulations[^key-6134f3acfa717abf4b73ccdb3376583f]
+## 2. Amendments to the Public Contracts Regulations[^c-6134f3acfa717abf4b73ccdb3376583f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Utilities Contracts Regulations[^key-6134f3acfa717abf4b73ccdb3376583f]
+## 3. Amendments to the Utilities Contracts Regulations[^c-6134f3acfa717abf4b73ccdb3376583f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6134f3acfa717abf4b73ccdb3376583f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6134f3acfa717abf4b73ccdb3376583f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6134f3acfa717abf4b73ccdb3376583f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6134f3acfa717abf4b73ccdb3376583f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6134f3acfa717abf4b73ccdb3376583f]: Textual amendment: Regulations revoked in part (1.5.2012) by [The Public Contracts (Scotland) Regulations 2012 (S.S.I. 2012/88)](https://www.legislation.gov.uk/ssi/2012/88), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/88/regulation/1/1), [51](https://www.legislation.gov.uk/ssi/2012/88/regulation/51), [53](https://www.legislation.gov.uk/ssi/2012/88/regulation/53), [sch. 7 Pt. A](https://www.legislation.gov.uk/ssi/2012/88/schedule/7/part/A) (with [regs. 4](https://www.legislation.gov.uk/ssi/2012/88/regulation/4), [5](https://www.legislation.gov.uk/ssi/2012/88/regulation/5), [6](https://www.legislation.gov.uk/ssi/2012/88/regulation/6), [8](https://www.legislation.gov.uk/ssi/2012/88/regulation/8), [52](https://www.legislation.gov.uk/ssi/2012/88/regulation/52))
+[^c-6134f3acfa717abf4b73ccdb3376583f]: Textual amendment: Regulations revoked in part (1.5.2012) by [The Public Contracts (Scotland) Regulations 2012 (S.S.I. 2012/88)](https://www.legislation.gov.uk/ssi/2012/88), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/88/regulation/1/1), [51](https://www.legislation.gov.uk/ssi/2012/88/regulation/51), [53](https://www.legislation.gov.uk/ssi/2012/88/regulation/53), [sch. 7 Pt. A](https://www.legislation.gov.uk/ssi/2012/88/schedule/7/part/A) (with [regs. 4](https://www.legislation.gov.uk/ssi/2012/88/regulation/4), [5](https://www.legislation.gov.uk/ssi/2012/88/regulation/5), [6](https://www.legislation.gov.uk/ssi/2012/88/regulation/6), [8](https://www.legislation.gov.uk/ssi/2012/88/regulation/8), [52](https://www.legislation.gov.uk/ssi/2012/88/regulation/52))
 
     [Regulations](https://www.legislation.gov.uk/ssi/2007/565) revoked in part (1.5.2012) by [The Utilities Contracts (Scotland) Regulations 2012 (S.S.I. 2012/89)](https://www.legislation.gov.uk/ssi/2012/89), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/89/regulation/1/1), [48](https://www.legislation.gov.uk/ssi/2012/89/regulation/48), [sch. 5 Pt. A](https://www.legislation.gov.uk/ssi/2012/89/schedule/5/part/A) (with [regs. 3-7](https://www.legislation.gov.uk/ssi/2012/89/regulation/3), [9](https://www.legislation.gov.uk/ssi/2012/89/regulation/9), [11](https://www.legislation.gov.uk/ssi/2012/89/regulation/11), [49](https://www.legislation.gov.uk/ssi/2012/89/regulation/49))

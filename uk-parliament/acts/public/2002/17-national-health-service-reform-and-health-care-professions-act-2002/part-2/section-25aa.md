@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25AA. Funding of the Authority by Social Work England[^key-0f3371cec43f8cd4f6643d6591e40b89]
+## 25AA. Funding of the Authority by Social Work England[^c-0f3371cec43f8cd4f6643d6591e40b89]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f3371cec43f8cd4f6643d6591e40b89]: Textual amendment: S. 25AA inserted (15.1.2018 for the insertion of s. 25AA(12), 1.4.2018 in so far as not already in force) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2017/16/schedule/4/paragraph/4); [S.I. 2017/1217](https://www.legislation.gov.uk/uksi/2017/1217), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1217/regulation/2/b/ii); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(cc)(ii)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/cc/ii)
+[^c-0f3371cec43f8cd4f6643d6591e40b89]: Textual amendment: S. 25AA inserted (15.1.2018 for the insertion of s. 25AA(12), 1.4.2018 in so far as not already in force) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2017/16/schedule/4/paragraph/4); [S.I. 2017/1217](https://www.legislation.gov.uk/uksi/2017/1217), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1217/regulation/2/b/ii); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(cc)(ii)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/cc/ii)

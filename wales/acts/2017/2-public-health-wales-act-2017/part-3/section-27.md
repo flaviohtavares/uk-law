@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Fixed penalty notices[^key-b3214af6d140839668e7f001ae9fc8b4][^key-f7d45e0ac344fd7d9ee5487ff671b17f]
+## 27. Fixed penalty notices[^c-b3214af6d140839668e7f001ae9fc8b4][^c-f7d45e0ac344fd7d9ee5487ff671b17f]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ the officer may give that person a fixed penalty notice in respect of the offenc
 
 ## Annotations
 
-[^key-b3214af6d140839668e7f001ae9fc8b4]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2017/2/section/27) in force at 29.9.2020 for specified purposes by [S.I. 2020/1048](https://www.legislation.gov.uk/wsi/2020/1048), [art. 2(1)(f)](https://www.legislation.gov.uk/wsi/2020/1048/article/2/1/f)
+[^c-b3214af6d140839668e7f001ae9fc8b4]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2017/2/section/27) in force at 29.9.2020 for specified purposes by [S.I. 2020/1048](https://www.legislation.gov.uk/wsi/2020/1048), [art. 2(1)(f)](https://www.legislation.gov.uk/wsi/2020/1048/article/2/1/f)
 
-[^key-f7d45e0ac344fd7d9ee5487ff671b17f]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2017/2/section/27) in force at 1.3.2021 in so far as not already in force by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-f7d45e0ac344fd7d9ee5487ff671b17f]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2017/2/section/27) in force at 1.3.2021 in so far as not already in force by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

@@ -40,7 +40,7 @@ summary: ''
 - (a) has an established written safety verification scheme which meets the requirements and contains the elements set out in Schedule 4; and
 - (b) has appointed a competent person to undertake that safety verification and the competent person has undertaken that safety verification in relation to the new or altered vehicle or infrastructure.
 
-(5)[^key-27111432c2f51648abd53445cacc8bac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-27111432c2f51648abd53445cacc8bac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In this regulation the requirements of paragraph (4) shall apply in the absence of a transport operator to a responsible person as they would apply to a transport operator.
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27111432c2f51648abd53445cacc8bac]: Textual amendment: [Reg. 6(5)](https://www.legislation.gov.uk/uksi/2006/599/regulation/6/5) omitted (26.8.2011) by virtue of [The Railways and Other Guided Transport Systems (Safety) (Amendment) Regulations 2011 (S.I. 2011/1860)](https://www.legislation.gov.uk/uksi/2011/1860), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1860/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2011/1860/regulation/2/4)
+[^c-27111432c2f51648abd53445cacc8bac]: Textual amendment: [Reg. 6(5)](https://www.legislation.gov.uk/uksi/2006/599/regulation/6/5) omitted (26.8.2011) by virtue of [The Railways and Other Guided Transport Systems (Safety) (Amendment) Regulations 2011 (S.I. 2011/1860)](https://www.legislation.gov.uk/uksi/2011/1860), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1860/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2011/1860/regulation/2/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 118. Programme of the Commission controls in Member States[^key-6cfaddd56a97b27337d6a17d19b699b6]
+## Article 118. Programme of the Commission controls in Member States[^c-6cfaddd56a97b27337d6a17d19b699b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cfaddd56a97b27337d6a17d19b699b6]: Textual amendment: [Arts. 116-119](https://www.legislation.gov.uk/eur/2017/625/article/116) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [21(3)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/21/3) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-6cfaddd56a97b27337d6a17d19b699b6]: Textual amendment: [Arts. 116-119](https://www.legislation.gov.uk/eur/2017/625/article/116) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [21(3)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/21/3) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

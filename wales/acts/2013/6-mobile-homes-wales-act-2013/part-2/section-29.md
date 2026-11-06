@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Decision whether person is fit and proper[^key-58a08b539377735f6c7ed79c093c42cd]
+## 29. Decision whether person is fit and proper[^c-58a08b539377735f6c7ed79c093c42cd]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 (3) Evidence is within this subsection if it shows that the person has—
 
 - (a) committed any offence involving fraud or other dishonesty, violence, firearms or drugs or any offence listed in Schedule 3 to the Sexual Offences Act 2003 (offences attracting notification requirements),
-- (b)[^key-ded8bb622562bb77730fc4303bc0d814] practised unlawful discrimination or harassment on the grounds of any characteristic which is a protected characteristic under section 4 of the Equality Act 2010, or victimised another person contrary to that Act, in or in connection with the carrying on of any business, or
+- (b)[^c-ded8bb622562bb77730fc4303bc0d814] practised unlawful discrimination or harassment on the grounds of any characteristic which is a protected characteristic under section 4 of the Equality Act 2010, or victimised another person contrary to that Act, in or in connection with the carrying on of any business, or
 - (c) contravened any provision of the law relating to housing (including mobile homes) or landlord and tenant.
 
 (4) Evidence is within this subsection if—
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-58a08b539377735f6c7ed79c093c42cd]: Commencement: S. 29 in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-58a08b539377735f6c7ed79c093c42cd]: Commencement: S. 29 in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-ded8bb622562bb77730fc4303bc0d814]: Textual amendment: S. 29(3)(b) substituted (1.12.2014) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 30(2)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/30/2); [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-ded8bb622562bb77730fc4303bc0d814]: Textual amendment: S. 29(3)(b) substituted (1.12.2014) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 30(2)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/30/2); [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

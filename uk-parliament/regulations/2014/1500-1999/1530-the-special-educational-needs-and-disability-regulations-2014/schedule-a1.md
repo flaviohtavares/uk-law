@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE A1 — Providers of the National Professional Qualification for Special Educational Needs Co-ordinators[^key-cfc016e03cb3b9dc9a82f99f073213a0]
+## SCHEDULE A1 — Providers of the National Professional Qualification for Special Educational Needs Co-ordinators[^c-cfc016e03cb3b9dc9a82f99f073213a0]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ Regulation 49(9)
 
 ## Annotations
 
-[^key-cfc016e03cb3b9dc9a82f99f073213a0]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2014/1530/schedule/A1) inserted (1.9.2024) by [The Special Educational Needs and Disability (Amendment) Regulations 2024 (S.I. 2024/535)](https://www.legislation.gov.uk/uksi/2024/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/535/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/535/schedule)
+[^c-cfc016e03cb3b9dc9a82f99f073213a0]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2014/1530/schedule/A1) inserted (1.9.2024) by [The Special Educational Needs and Disability (Amendment) Regulations 2024 (S.I. 2024/535)](https://www.legislation.gov.uk/uksi/2024/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/535/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/535/schedule)

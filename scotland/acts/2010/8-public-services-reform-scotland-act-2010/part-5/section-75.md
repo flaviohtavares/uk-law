@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Appeal against decision to implement proposal[^key-bbcf9dd02c88833094db6c43a2777bf2][^key-cafb53ad50dd9cc9ab86d5ad91c09fb5]
+## 75. Appeal against decision to implement proposal[^c-bbcf9dd02c88833094db6c43a2777bf2][^c-cafb53ad50dd9cc9ab86d5ad91c09fb5]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bbcf9dd02c88833094db6c43a2777bf2]: Commencement: S. 75 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-bbcf9dd02c88833094db6c43a2777bf2]: Commencement: S. 75 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-cafb53ad50dd9cc9ab86d5ad91c09fb5]: Commencement: S. 75 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-cafb53ad50dd9cc9ab86d5ad91c09fb5]: Commencement: S. 75 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

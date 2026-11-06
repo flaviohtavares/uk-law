@@ -31,42 +31,42 @@ Copyright (Visually Impaired Persons) Act 2002 (repealed)
 
 2002 c. 33
 
-[^key-7e7415ab19d17550cc9a70e76b2393a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e7415ab19d17550cc9a70e76b2393a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Accessible copies of copyright work for visually impaired persons[^key-7e7415ab19d17550cc9a70e76b2393a2][^key-7e7415ab19d17550cc9a70e76b2393a2]
+## 1. Accessible copies of copyright work for visually impaired persons[^c-7e7415ab19d17550cc9a70e76b2393a2][^c-7e7415ab19d17550cc9a70e76b2393a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Multiple copies for visually impaired persons[^key-7e7415ab19d17550cc9a70e76b2393a2][^key-7e7415ab19d17550cc9a70e76b2393a2]
+## 2. Multiple copies for visually impaired persons[^c-7e7415ab19d17550cc9a70e76b2393a2][^c-7e7415ab19d17550cc9a70e76b2393a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Intermediate copies and records[^key-7e7415ab19d17550cc9a70e76b2393a2][^key-7e7415ab19d17550cc9a70e76b2393a2]
+## 3. Intermediate copies and records[^c-7e7415ab19d17550cc9a70e76b2393a2][^c-7e7415ab19d17550cc9a70e76b2393a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Licensing schemes[^key-7e7415ab19d17550cc9a70e76b2393a2][^key-7e7415ab19d17550cc9a70e76b2393a2]
+## 4. Licensing schemes[^c-7e7415ab19d17550cc9a70e76b2393a2][^c-7e7415ab19d17550cc9a70e76b2393a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Limitations, et ceteralaetc. following infringement of copyright[^key-7e7415ab19d17550cc9a70e76b2393a2][^key-7e7415ab19d17550cc9a70e76b2393a2]
+## 5. Limitations, et ceteralaetc. following infringement of copyright[^c-7e7415ab19d17550cc9a70e76b2393a2][^c-7e7415ab19d17550cc9a70e76b2393a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Interpretation[^key-7e7415ab19d17550cc9a70e76b2393a2][^key-7e7415ab19d17550cc9a70e76b2393a2]
+## 6. Interpretation[^c-7e7415ab19d17550cc9a70e76b2393a2][^c-7e7415ab19d17550cc9a70e76b2393a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Consequential amendments[^key-7e7415ab19d17550cc9a70e76b2393a2][^key-7e7415ab19d17550cc9a70e76b2393a2]
+## 7. Consequential amendments[^c-7e7415ab19d17550cc9a70e76b2393a2][^c-7e7415ab19d17550cc9a70e76b2393a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Short title, commencement and extent[^key-7e7415ab19d17550cc9a70e76b2393a2][^key-7e7415ab19d17550cc9a70e76b2393a2]
+## 8. Short title, commencement and extent[^c-7e7415ab19d17550cc9a70e76b2393a2][^c-7e7415ab19d17550cc9a70e76b2393a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7e7415ab19d17550cc9a70e76b2393a2]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2002/33) repealed (1.6.2014) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/1384/schedule/paragraph/8) Table
+[^c-7e7415ab19d17550cc9a70e76b2393a2]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2002/33) repealed (1.6.2014) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/1384/schedule/paragraph/8) Table

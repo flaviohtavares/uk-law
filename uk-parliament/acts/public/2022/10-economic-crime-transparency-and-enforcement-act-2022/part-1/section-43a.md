@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43A. Duty to deliver further information for transitional cases[^key-be836d2ecbdff5551ccc1d7d7703019f]
+## 43A. Duty to deliver further information for transitional cases[^c-be836d2ecbdff5551ccc1d7d7703019f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 6 (duty to deliver further information for transitional cases) imposes 
 
 ## Annotations
 
-[^key-be836d2ecbdff5551ccc1d7d7703019f]: Textual amendment: [S. 43A](https://www.legislation.gov.uk/ukpga/2022/10/section/43A) inserted (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2023/56/schedule/7/paragraph/3)
+[^c-be836d2ecbdff5551ccc1d7d7703019f]: Textual amendment: [S. 43A](https://www.legislation.gov.uk/ukpga/2022/10/section/43A) inserted (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2023/56/schedule/7/paragraph/3)

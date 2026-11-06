@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Grounds not accepted: application to sheriff or discharge[^key-ae3c177c66ca9547e34663ad1f913d4a][^key-a2c8c9b397e5b1d5d789a289ed1e3d12]
+## 93. Grounds not accepted: application to sheriff or discharge[^c-ae3c177c66ca9547e34663ad1f913d4a][^c-a2c8c9b397e5b1d5d789a289ed1e3d12]
 
 *Extent: S*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae3c177c66ca9547e34663ad1f913d4a]: Commencement: S. 93 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-ae3c177c66ca9547e34663ad1f913d4a]: Commencement: S. 93 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-a2c8c9b397e5b1d5d789a289ed1e3d12]: Modification: S. 93 applied (with modifications) (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Rules of Procedure in Children's Hearings) Rules 2013 (S.S.I. 2013/194)](https://www.legislation.gov.uk/ssi/2013/194), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/194/article/1/1), [68(3)(a)](https://www.legislation.gov.uk/ssi/2013/194/article/68/3/a) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2013/194/article/1/2))
+[^c-a2c8c9b397e5b1d5d789a289ed1e3d12]: Modification: S. 93 applied (with modifications) (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Rules of Procedure in Children's Hearings) Rules 2013 (S.S.I. 2013/194)](https://www.legislation.gov.uk/ssi/2013/194), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/194/article/1/1), [68(3)(a)](https://www.legislation.gov.uk/ssi/2013/194/article/68/3/a) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2013/194/article/1/2))

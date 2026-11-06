@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Temporary use of land for carrying out the authorised development[^key-5b8dadd05216ad2b85d34915041b9da7]
+## 26. Temporary use of land for carrying out the authorised development[^c-5b8dadd05216ad2b85d34915041b9da7]
 
 *Extent: E+W+S*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5b8dadd05216ad2b85d34915041b9da7]: Commencement: Art. 26 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-5b8dadd05216ad2b85d34915041b9da7]: Commencement: Art. 26 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
 [^f00022]: Footnote: Section 13 is amended by section 139 of the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).

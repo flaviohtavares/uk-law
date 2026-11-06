@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Supplementary provision for purposes of section 25[^key-85ff95e0bdb2aa38de6e443d7ad43694]
+## 32. Supplementary provision for purposes of section 25[^c-85ff95e0bdb2aa38de6e443d7ad43694]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85ff95e0bdb2aa38de6e443d7ad43694]: Textual amendment: S. 32 omitted (1.1.2025) by virtue of [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 146(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/146/2/b), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 18](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/18), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-85ff95e0bdb2aa38de6e443d7ad43694]: Textual amendment: S. 32 omitted (1.1.2025) by virtue of [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 146(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/146/2/b), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 18](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/18), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

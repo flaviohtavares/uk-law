@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Exclusion of general duties[^key-7b0d443e184ac08a014f8ddd4a414caf]
+## 65. Exclusion of general duties[^c-7b0d443e184ac08a014f8ddd4a414caf]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b0d443e184ac08a014f8ddd4a414caf]: Commencement: S. 65 in force at 1.4.2014 by [S.I. 2014/823](https://www.legislation.gov.uk/uksi/2014/823), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/823/article/2/e)
+[^c-7b0d443e184ac08a014f8ddd4a414caf]: Commencement: S. 65 in force at 1.4.2014 by [S.I. 2014/823](https://www.legislation.gov.uk/uksi/2014/823), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/823/article/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75B. Additional adoption leave[^key-6a39798887edd1157552a3dd33f832b6][^key-dbf4c75455751d2eaced897a7a21a798][^c16407471][^c16328681]
+## 75B. Additional adoption leave[^c-6a39798887edd1157552a3dd33f832b6][^c-dbf4c75455751d2eaced897a7a21a798][^c16407471][^c16328681]
 
 *Extent: E+W+S*
 
@@ -26,11 +26,11 @@ summary: ''
 
 (3)[^c20102591] Regulations under subsection (2)—
 
-- (a) may allow an employee to bring forward the date on which an additional adoption leave period ends, subject to prescribed restrictions and subject to satisfying prescribed conditions;[^key-023f71077394457781d63def31cb1909]
-- (aa)[^key-75c97a291006c90d0bd59dbb75bdec6e] may allow an employee in prescribed circumstances to revoke, or to be treated as revoking, the bringing forward of that date;
+- (a) may allow an employee to bring forward the date on which an additional adoption leave period ends, subject to prescribed restrictions and subject to satisfying prescribed conditions;[^c-023f71077394457781d63def31cb1909]
+- (aa)[^c-75c97a291006c90d0bd59dbb75bdec6e] may allow an employee in prescribed circumstances to revoke, or to be treated as revoking, the bringing forward of that date;
 - (b) may specify circumstances in which an employee may work for his employer during an additional adoption leave period without bringing the period to an end.
 
-(3A)[^key-dfe67b64a0e5d6355d7cb4011759b817] Provision under subsection (3)(a) is to secure that an employee may bring forward the date on which an additional adoption leave period ends only if the employee or another person has taken, or is taking, prescribed steps as regards leave under section 75G or statutory shared parental pay in respect of the child.
+(3A)[^c-dfe67b64a0e5d6355d7cb4011759b817] Provision under subsection (3)(a) is to secure that an employee may bring forward the date on which an additional adoption leave period ends only if the employee or another person has taken, or is taking, prescribed steps as regards leave under section 75G or statutory shared parental pay in respect of the child.
 
 (4) Subject to section 75C, an employee who exercises his right under subsection (1)—
 
@@ -57,16 +57,16 @@ or to both.
 - (a) seniority, pension rights and similar rights;
 - (b) terms and conditions of employment on return.
 
-(9)[^key-ec57b9e87c5c3eb76f3d8adc3ea2a2f7] The Secretary of State may by regulations provide for this section to have effect, with such modifications as the regulations may prescribe, in relation to—
+(9)[^c-ec57b9e87c5c3eb76f3d8adc3ea2a2f7] The Secretary of State may by regulations provide for this section to have effect, with such modifications as the regulations may prescribe, in relation to—
 
 - (a) cases which involve an employee who has applied, or intends to apply, with another person for a parental order under section 54 of the Human Fertilisation and Embryology Act 2008 and a child who is, or will be, the subject of the order,
 - (b) cases which involve an employee who has applied, or intends to apply, for a parental order under section 54A of that Act and a child who is, or will be, the subject of the order.
 
 ## Annotations
 
-[^key-6a39798887edd1157552a3dd33f832b6]: Modification: S. 75B applied (25.11.2014) by [The Employment Rights Act 1996 (Application of Sections 75A, 75B, 75G, 75H, 80A and 80B to Parental Order Cases) Regulations 2014 (S.I. 2014/3095)](https://www.legislation.gov.uk/uksi/2014/3095), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/3095/regulation/2)
+[^c-6a39798887edd1157552a3dd33f832b6]: Modification: S. 75B applied (25.11.2014) by [The Employment Rights Act 1996 (Application of Sections 75A, 75B, 75G, 75H, 80A and 80B to Parental Order Cases) Regulations 2014 (S.I. 2014/3095)](https://www.legislation.gov.uk/uksi/2014/3095), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/3095/regulation/2)
 
-[^key-dbf4c75455751d2eaced897a7a21a798]: Modification: S. 75B amendment to earlier affecting provision S.I. 2014/3095, reg. 2 (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8)
+[^c-dbf4c75455751d2eaced897a7a21a798]: Modification: S. 75B amendment to earlier affecting provision S.I. 2014/3095, reg. 2 (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8)
 
 [^c16407471]: Textual amendment: Pt. 8 Ch. 1A inserted (8.12.2002) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [s. 3](https://www.legislation.gov.uk/ukpga/2002/22/section/3); [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/2)
 
@@ -74,10 +74,10 @@ or to both.
 
 [^c20102591]: Textual amendment: S. 75B(3) substituted (27.6.2006 for certain purposes, otherwise 1.10.2006) by [Work and Families Act 2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18), [ss. 11](https://www.legislation.gov.uk/ukpga/2006/18/section/11), [19](https://www.legislation.gov.uk/ukpga/2006/18/section/19), [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/34); [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/c), [3(c)(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/c/d)
 
-[^key-023f71077394457781d63def31cb1909]: Textual amendment: Words in s. 75B(3)(a) substituted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 118(5)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/118/5/a), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/b)
+[^c-023f71077394457781d63def31cb1909]: Textual amendment: Words in s. 75B(3)(a) substituted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 118(5)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/118/5/a), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/b)
 
-[^key-75c97a291006c90d0bd59dbb75bdec6e]: Textual amendment: S. 75B(3)(aa) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 118(5)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/118/5/b), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/b)
+[^c-75c97a291006c90d0bd59dbb75bdec6e]: Textual amendment: S. 75B(3)(aa) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 118(5)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/118/5/b), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/b)
 
-[^key-dfe67b64a0e5d6355d7cb4011759b817]: Textual amendment: S. 75B(3A) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 118(5)(c)](https://www.legislation.gov.uk/ukpga/2014/6/section/118/5/c), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/b)
+[^c-dfe67b64a0e5d6355d7cb4011759b817]: Textual amendment: S. 75B(3A) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 118(5)(c)](https://www.legislation.gov.uk/ukpga/2014/6/section/118/5/c), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/b)
 
-[^key-ec57b9e87c5c3eb76f3d8adc3ea2a2f7]: Textual amendment: S. 75B(9) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 11(11)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/11/11)
+[^c-ec57b9e87c5c3eb76f3d8adc3ea2a2f7]: Textual amendment: S. 75B(9) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 11(11)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/11/11)

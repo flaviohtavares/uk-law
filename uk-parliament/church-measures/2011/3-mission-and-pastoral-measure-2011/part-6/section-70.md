@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 70. Restoration of building closed for regular public worship to use as church building[^key-353adc250a90f235bfb10991857667fa]
+## 70. Restoration of building closed for regular public worship to use as church building[^c-353adc250a90f235bfb10991857667fa]
 
 *Extent: E*
 
@@ -29,4 +29,4 @@ A pastoral church buildings scheme may provide that a building closed for regula
 
 ## Annotations
 
-[^key-353adc250a90f235bfb10991857667fa]: Commencement: S. 70 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-353adc250a90f235bfb10991857667fa]: Commencement: S. 70 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

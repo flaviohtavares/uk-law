@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Review of modifications to the Deer (Scotland) Act 1996[^key-00517a6e87c825c96a91137855511311][^key-5ac8150ae9938c703866ea551a82b76f]
+## 40. Review of modifications to the Deer (Scotland) Act 1996[^c-00517a6e87c825c96a91137855511311][^c-5ac8150ae9938c703866ea551a82b76f]
 
 *Extent: S*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-00517a6e87c825c96a91137855511311]: Commencement: S. 40 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-00517a6e87c825c96a91137855511311]: Commencement: S. 40 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-5ac8150ae9938c703866ea551a82b76f]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2026/6/section/40) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(x)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/x)
+[^c-5ac8150ae9938c703866ea551a82b76f]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2026/6/section/40) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(x)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/x)

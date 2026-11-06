@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10B. Prohibition on the use of a trade mark registered in the name of an agent or representative[^key-63987a2fe69c810fd72fc3bf6ea0ca72]
+## 10B. Prohibition on the use of a trade mark registered in the name of an agent or representative[^c-63987a2fe69c810fd72fc3bf6ea0ca72]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63987a2fe69c810fd72fc3bf6ea0ca72]: Textual amendment: Ss. 10A, 10B inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2018/825/regulation/11) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-63987a2fe69c810fd72fc3bf6ea0ca72]: Textual amendment: Ss. 10A, 10B inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2018/825/regulation/11) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Taxation of counting officers’ accounts[^key-dc955f98c9140a7fcd16dcea90cbe630]
+## 14. Taxation of counting officers’ accounts[^c-dc955f98c9140a7fcd16dcea90cbe630]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc955f98c9140a7fcd16dcea90cbe630]: Commencement: Art. 14 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-dc955f98c9140a7fcd16dcea90cbe630]: Commencement: Art. 14 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

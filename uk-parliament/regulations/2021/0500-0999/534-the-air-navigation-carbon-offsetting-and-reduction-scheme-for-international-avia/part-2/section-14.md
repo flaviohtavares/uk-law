@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Equivalent procedures[^key-4088aa533278cabd6d0c5c89da667640]
+## 14. Equivalent procedures[^c-4088aa533278cabd6d0c5c89da667640]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4088aa533278cabd6d0c5c89da667640]: Commencement: Art. 14 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-4088aa533278cabd6d0c5c89da667640]: Commencement: Art. 14 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

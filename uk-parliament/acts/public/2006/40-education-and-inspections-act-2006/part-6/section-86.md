@@ -28,7 +28,7 @@ summary: ''
 >
 > (1) Regulations may prescribe requirements which, subject to such exceptions as may be provided for by or under the regulations, are to be complied with in connection with—
 >
-> - (a) food or drink provided on the premises of any school maintained by a local authority[^key-0ea7acc4831332590d0c9da4689eca3c], or
+> - (a) food or drink provided on the premises of any school maintained by a local authority[^c-0ea7acc4831332590d0c9da4689eca3c], or
 > - (b) food or drink provided at a place other than school premises by a local authority or the governing body of a school maintained by such an authority to any registered pupil at the school.
 >
 > (2) Regulations under this section may in particular—
@@ -68,12 +68,12 @@ summary: ''
 >
 > (10) References in this section to food or drink provided by a local authority or the governing body of a school include references to food or drink provided in pursuance of an agreement or other arrangement made by such an authority or body for the provision of food or drink.
 
-(2) In section 512(4) of EA 1996 ( local authority[^key-81ffb0eb20e62c98df124b83aeaf3944] functions concerning provision of meals), for “section 114(2) of the School Standards and Framework Act 1998 (lunches provided by local authorities to meet nutritional standards)” substitute “ section 114A(4) of the School Standards and Framework Act 1998 (requirements for food and drink provided on school premises etc) ”.
+(2) In section 512(4) of EA 1996 ( local authority[^c-81ffb0eb20e62c98df124b83aeaf3944] functions concerning provision of meals), for “section 114(2) of the School Standards and Framework Act 1998 (lunches provided by local authorities to meet nutritional standards)” substitute “ section 114A(4) of the School Standards and Framework Act 1998 (requirements for food and drink provided on school premises etc) ”.
 
 (3) Any regulations made under section 114 of SSFA 1998 which have effect immediately before the commencement of this section have effect after that commencement as if made under section 114A of that Act (as substituted by subsection (1)).
 
 ## Annotations
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
 
-[^key-81ffb0eb20e62c98df124b83aeaf3944]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/3)
+[^c-81ffb0eb20e62c98df124b83aeaf3944]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/3)

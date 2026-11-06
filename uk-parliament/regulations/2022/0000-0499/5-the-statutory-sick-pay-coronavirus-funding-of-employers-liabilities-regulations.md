@@ -48,11 +48,11 @@ The Commissioners for Her Majesty’s Revenue and Customs, with the concurrence 
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-becb9cac8bc3cd8066699b50ba2096e0]
+### 1. Citation and commencement[^c-becb9cac8bc3cd8066699b50ba2096e0]
 
 These Regulations may be cited as the Statutory Sick Pay (Coronavirus) (Funding of Employers’ Liabilities) Regulations 2022 and come into force on 14th January 2022.
 
-### 2. Interpretation[^key-1f13c7a2dee2118f6fafe9cc4d470ad5]
+### 2. Interpretation[^c-1f13c7a2dee2118f6fafe9cc4d470ad5]
 
 In these Regulations—
 
@@ -67,14 +67,14 @@ In these Regulations—
 
 ## PART 2 — Eligibility for funding
 
-### 3. Funding of eligible employers’ liabilities by HMRC[^key-d147422633808e1157fdb246391cf7c5]
+### 3. Funding of eligible employers’ liabilities by HMRC[^c-d147422633808e1157fdb246391cf7c5]
 
 (1) An eligible employer who has made a payment of statutory sick pay[^f00003] to an employee where—
 
 - (a) that employee’s period of incapacity for work[^f00004] is related to coronavirus; and
 - (b) any day of incapacity for work in that period falls on or after 21st December 2021,
 
-is, subject to paragraphs (2) and (3), entitled to recover the amount paid to the employee in respect of those days of incapacity for work which fall on or after 21st December 2021 and on or before 17th March 2022[^key-97011e9b5d8b8c2e43d880518d7acefb] (the “reimbursement amount”) from HMRC.
+is, subject to paragraphs (2) and (3), entitled to recover the amount paid to the employee in respect of those days of incapacity for work which fall on or after 21st December 2021 and on or before 17th March 2022[^c-97011e9b5d8b8c2e43d880518d7acefb] (the “reimbursement amount”) from HMRC.
 
 (2) An eligible employer is not entitled to recover a reimbursement amount from HMRC—
 
@@ -96,7 +96,7 @@ is, subject to paragraphs (2) and (3), entitled to recover the amount paid to th
   - (i) official monthly accounting rate for the euro; and
   - (ii) conversion rate for December 2021[^f00005].
 
-### 4. Meaning of eligible employer[^key-b89b9ec91ed1b7df50d1fb1291393bfc]
+### 4. Meaning of eligible employer[^c-b89b9ec91ed1b7df50d1fb1291393bfc]
 
 (1) An eligible employer is an employer who—
 
@@ -127,7 +127,7 @@ the limit in paragraph (1)(a) applies to the total number of employees enrolled 
 - “**General Block Exemption Regulation**” means [Commission Regulation (EU) No. 651/2014](https://www.legislation.gov.uk/european/regulation/2014/0651) of 17 June 2014 declaring certain categories of aid compatible with the internal market in application of Articles 107 and 108 of the Treaty[^f00009];
 - “**micro or small enterprise**” means an employer who is a micro-enterprise or a small enterprise within the meaning of Article 2 of Annex 1 of the General Block Exemption Regulation.
 
-### 5. When an employee’s incapacity for work is related to coronavirus[^key-62fcb3d4b34c7a28a5d08e9dee52cd2a]
+### 5. When an employee’s incapacity for work is related to coronavirus[^c-62fcb3d4b34c7a28a5d08e9dee52cd2a]
 
 (1) An employee’s incapacity for work is related to coronavirus if the employee is—
 
@@ -140,7 +140,7 @@ of doing work which the employee can reasonably be expected to do under the empl
 
 ## PART 3 — Claims
 
-### 6. Making a claim[^key-a4481acd7c95cc94143b8c89dfcbfa5a]
+### 6. Making a claim[^c-a4481acd7c95cc94143b8c89dfcbfa5a]
 
 (1) An employer who makes a claim for the recovery of a reimbursement amount must do so in accordance with this regulation.
 
@@ -178,17 +178,17 @@ of doing work which the employee can reasonably be expected to do under the empl
 
 (8) In this regulation “**Government Gateway**” means the secure online facility for accessing government services.
 
-### 7. Time limit for making a claim[^key-9ed86b46bf943efcf228705cdd19f14d]
+### 7. Time limit for making a claim[^c-9ed86b46bf943efcf228705cdd19f14d]
 
 A claim may not be made after the end of 24th March 2022.
 
 ## PART 4 — Payments, corrections and overpayments
 
-### 8. Payments[^key-285ef17ac79e7aed2387f3b5258e7f60]
+### 8. Payments[^c-285ef17ac79e7aed2387f3b5258e7f60]
 
 Where HMRC accept a claim, HMRC must pay the amount specified in the claim by the employer in accordance with regulation 6(3)(c), less any amount repayable under regulation 9(3), to the account specified by the employer in accordance with regulation 6(3)(e) as soon as reasonably practicable.
 
-### 9. Correcting a claim when the amount has been mistakenly overstated[^key-03695d3b1540d4840b6cb3ba8febb7f4]
+### 9. Correcting a claim when the amount has been mistakenly overstated[^c-03695d3b1540d4840b6cb3ba8febb7f4]
 
 (1) Where an employer—
 
@@ -217,11 +217,11 @@ the employer must correct the error in accordance with this regulation.
 
 (9) The employer must repay to HMRC the amount referred to in paragraph 6(b) within the period of 30 days beginning on the day on which the employer provides the information under paragraph (6) and the declaration under paragraph (7).
 
-### 10. Correcting a claim when the amount has been mistakenly understated[^key-4c849a8664a76b46bf91bae778a89956]
+### 10. Correcting a claim when the amount has been mistakenly understated[^c-4c849a8664a76b46bf91bae778a89956]
 
 Where an employer becomes aware that the employer mistakenly understated the amount in a claim (the “understated claim”), the employer may submit a claim in accordance with regulation 6 for the amount understated in respect of the same period, PAYE scheme and employees specified in the understated claim.
 
-### 11. Recovery of overpayments[^key-343347b6fe8fbe480d2ef462d96a61d1]
+### 11. Recovery of overpayments[^c-343347b6fe8fbe480d2ef462d96a61d1]
 
 (1) Where any sum has been overpaid to an employer under these Regulations (an “overpayment”), HMRC may recover it in accordance with this regulation.
 
@@ -239,7 +239,7 @@ Where an employer becomes aware that the employer mistakenly understated the amo
 
 ## PART 5 — Records and information requests
 
-### 12. Preservation of records[^key-9747e346b4b6494412afa189a593e2ff]
+### 12. Preservation of records[^c-9747e346b4b6494412afa189a593e2ff]
 
 (1) An employer who makes a claim for a reimbursement amount must keep a record of the following in respect of the employee, or former employee, in relation to whom the amount was claimed—
 
@@ -256,7 +256,7 @@ Where an employer becomes aware that the employer mistakenly understated the amo
 
 (5) In paragraph (4), “**the confirmation of State aid letter**” means the letter containing confirmation of receipt of State aid under these Regulations sent by HMRC to the employer once a claim is made.
 
-### 13. Provision of information and records[^key-fdebad8d30eae040f2aa57f0c56fde71]
+### 13. Provision of information and records[^c-fdebad8d30eae040f2aa57f0c56fde71]
 
 (1) HMRC may by notice require an employer who has made a claim for a reimbursement amount—
 
@@ -319,23 +319,23 @@ An Impact Assessment has not been produced for this instrument because it is cov
 
 [^f00001]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). By virtue of section 39(1) of the Coronavirus Act [2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), the Social Security Contributions and Benefits Act 1992 (“**the 1992 Act**”) has effect as if a new section 159B were inserted after section 159A. Section 159B(7) allows these Regulations to have retrospective effect in relation to a day of incapacity for work that falls on or after 13th March 2020. Section 175(4) was amended by paragraph 29(4) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2). By virtue of section 41(2) of the Coronavirus Act 2020, the 1992 Act has effect as if a new section 175(5A) were inserted after section 175(5).
 
-[^key-becb9cac8bc3cd8066699b50ba2096e0]: Commencement: Reg. 1 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
+[^c-becb9cac8bc3cd8066699b50ba2096e0]: Commencement: Reg. 1 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
 
-[^key-1f13c7a2dee2118f6fafe9cc4d470ad5]: Commencement: Reg. 2 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
+[^c-1f13c7a2dee2118f6fafe9cc4d470ad5]: Commencement: Reg. 2 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
 
 [^f00002]: Footnote: OJ C 91I, 20.3.2020, p. 1, amended by Communication from the Commission of 3 April 2020 OJ C 112I, 4.4.2020, p.1, Communication from the Commission of 8 May 2020 OJ C 164, 13.5.2020, p.3, Communication from the Commission of 29 June 2020 OJ C 218, 2.7.2020, p.3, Communication from the Commission of 13 October 2020 OJ C 340I, 13.10.2020, p.1, Communication from the Commission of 28 January 2021 OJ C 34, 1.2.2021, p.6 and Communication from the Commission of 21 November 2021 OJ C 473, 24.11.2021, p.1.
 
-[^key-d147422633808e1157fdb246391cf7c5]: Commencement: Reg. 3 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
+[^c-d147422633808e1157fdb246391cf7c5]: Commencement: Reg. 3 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
 
 [^f00003]: Footnote: “Statutory sick pay” is defined in section 151(1) of the 1992 Act.
 
 [^f00004]: Footnote: “Period of incapacity for work” is defined in section 152(2) of the 1992 Act.
 
-[^key-97011e9b5d8b8c2e43d880518d7acefb]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/5/regulation/3/1) inserted (17.3.2022) by [The Statutory Sick Pay (Coronavirus) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/176)](https://www.legislation.gov.uk/uksi/2022/176), [regs. 1](https://www.legislation.gov.uk/uksi/2022/176/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/176/regulation/2/2)
+[^c-97011e9b5d8b8c2e43d880518d7acefb]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/5/regulation/3/1) inserted (17.3.2022) by [The Statutory Sick Pay (Coronavirus) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/176)](https://www.legislation.gov.uk/uksi/2022/176), [regs. 1](https://www.legislation.gov.uk/uksi/2022/176/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/176/regulation/2/2)
 
 [^f00005]: Footnote: The European Commission’s official rates are available at https://ec.europa.eu/info/funding-tenders/how-eu-funding-works/information-contractors-and-beneficiaries/exchange-rate-inforeuro\_en.
 
-[^key-b89b9ec91ed1b7df50d1fb1291393bfc]: Commencement: Reg. 4 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
+[^c-b89b9ec91ed1b7df50d1fb1291393bfc]: Commencement: Reg. 4 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
 
 [^f00006]: Footnote: [2014 c. 7](https://www.legislation.gov.uk/ukpga/2014/7).
 
@@ -345,21 +345,21 @@ An Impact Assessment has not been produced for this instrument because it is cov
 
 [^f00009]: Footnote: OJ No. L 187, 26.6.2014, p. 1, to which there are amendments not relevant to these Regulations.
 
-[^key-62fcb3d4b34c7a28a5d08e9dee52cd2a]: Commencement: Reg. 5 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
+[^c-62fcb3d4b34c7a28a5d08e9dee52cd2a]: Commencement: Reg. 5 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
 
 [^f00010]: Footnote: [S.I. 1982/894](https://www.legislation.gov.uk/uksi/1982/894). Paragraph (1)(c) was inserted by [S.I. 2020/287](https://www.legislation.gov.uk/uksi/2020/287) and amended by [S.I. 2020/304](https://www.legislation.gov.uk/uksi/2020/304), [2020/374](https://www.legislation.gov.uk/uksi/2020/374), [2020/681](https://www.legislation.gov.uk/uksi/2020/681). Paragraph (1)(d) was inserted by [S.I. 2020/681](https://www.legislation.gov.uk/uksi/2020/681).
 
-[^key-a4481acd7c95cc94143b8c89dfcbfa5a]: Commencement: Reg. 6 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
+[^c-a4481acd7c95cc94143b8c89dfcbfa5a]: Commencement: Reg. 6 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
 
-[^key-9ed86b46bf943efcf228705cdd19f14d]: Commencement: Reg. 7 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
+[^c-9ed86b46bf943efcf228705cdd19f14d]: Commencement: Reg. 7 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
 
-[^key-285ef17ac79e7aed2387f3b5258e7f60]: Commencement: Reg. 8 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
+[^c-285ef17ac79e7aed2387f3b5258e7f60]: Commencement: Reg. 8 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
 
-[^key-03695d3b1540d4840b6cb3ba8febb7f4]: Commencement: Reg. 9 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
+[^c-03695d3b1540d4840b6cb3ba8febb7f4]: Commencement: Reg. 9 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
 
-[^key-4c849a8664a76b46bf91bae778a89956]: Commencement: Reg. 10 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
+[^c-4c849a8664a76b46bf91bae778a89956]: Commencement: Reg. 10 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
 
-[^key-343347b6fe8fbe480d2ef462d96a61d1]: Commencement: Reg. 11 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
+[^c-343347b6fe8fbe480d2ef462d96a61d1]: Commencement: Reg. 11 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
 
 [^f00011]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
@@ -367,8 +367,8 @@ An Impact Assessment has not been produced for this instrument because it is cov
 
 [^f00013]: Footnote: [2009 c. 10](https://www.legislation.gov.uk/ukpga/2009/10).
 
-[^key-9747e346b4b6494412afa189a593e2ff]: Commencement: Reg. 12 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
+[^c-9747e346b4b6494412afa189a593e2ff]: Commencement: Reg. 12 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
 
 [^f00014]: Footnote: “Qualifying day” is defined in section 154 of the 1992 Act.
 
-[^key-fdebad8d30eae040f2aa57f0c56fde71]: Commencement: Reg. 13 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)
+[^c-fdebad8d30eae040f2aa57f0c56fde71]: Commencement: Reg. 13 in force at 14.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/5/regulation/1)

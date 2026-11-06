@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 167. Recovery orders[^key-3984dbbe2c9b1b5a581db74077a6b80c]
+## 167. Recovery orders[^c-3984dbbe2c9b1b5a581db74077a6b80c]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3984dbbe2c9b1b5a581db74077a6b80c]: Commencement: Reg. 167 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-3984dbbe2c9b1b5a581db74077a6b80c]: Commencement: Reg. 167 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00128]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Meaning of other terms relating to earned income[^key-a0a644e7650ae88eed2c1111d3a842b5]
+## 52. Meaning of other terms relating to earned income[^c-a0a644e7650ae88eed2c1111d3a842b5]
 
 *Extent: N.I.*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a0a644e7650ae88eed2c1111d3a842b5]: Modification: Pt. 6 Ch. 2 applied (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/223)](https://www.legislation.gov.uk/nisr/2016/223), [regs. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h), [13(7)](https://www.legislation.gov.uk/nisr/2016/223/regulation/13/7)
+[^c-a0a644e7650ae88eed2c1111d3a842b5]: Modification: Pt. 6 Ch. 2 applied (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/223)](https://www.legislation.gov.uk/nisr/2016/223), [regs. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h), [13(7)](https://www.legislation.gov.uk/nisr/2016/223/regulation/13/7)
 
 [^c22824441]: Marginal citation: [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2); section 268A was inserted by section 30 of the Finance Act [2009 c. 10](https://www.legislation.gov.uk/ukpga/2009/10).
 

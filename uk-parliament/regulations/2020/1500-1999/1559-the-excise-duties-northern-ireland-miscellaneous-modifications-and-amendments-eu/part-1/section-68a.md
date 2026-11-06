@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**68A.**[^key-dc0a608b437342fe4b3a05c1c6d619d7] After regulation 77 insert—
+**68A.**[^c-dc0a608b437342fe4b3a05c1c6d619d7] After regulation 77 insert—
 
 > **77A. EU consignors – procedure, accounting and payment**
 >
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc0a608b437342fe4b3a05c1c6d619d7]: Textual amendment: [Reg. 68A](https://www.legislation.gov.uk/uksi/2020/1559/regulation/68A) inserted (1.10.2024) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) (Amendment) Regulations 2024 (S.I. 2024/941)](https://www.legislation.gov.uk/uksi/2024/941), [regs. 1](https://www.legislation.gov.uk/uksi/2024/941/regulation/1), [13](https://www.legislation.gov.uk/uksi/2024/941/regulation/13)
+[^c-dc0a608b437342fe4b3a05c1c6d619d7]: Textual amendment: [Reg. 68A](https://www.legislation.gov.uk/uksi/2020/1559/regulation/68A) inserted (1.10.2024) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) (Amendment) Regulations 2024 (S.I. 2024/941)](https://www.legislation.gov.uk/uksi/2024/941), [regs. 1](https://www.legislation.gov.uk/uksi/2024/941/regulation/1), [13](https://www.legislation.gov.uk/uksi/2024/941/regulation/13)

@@ -31,10 +31,10 @@ summary: ''
 
 of 2 March 1998 amending Council Decision 97/602/EC concerning the list referred to in the second subparagraph of Article 3(1) of Regulation (EEC) No 3254/91 and in Article 1(1)(a) of Commission Regulation (EC) No 35/97 (revoked)
 
-[^key-5c41f881748409773a74160405811c1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c41f881748409773a74160405811c1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-5c41f881748409773a74160405811c1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-5c41f881748409773a74160405811c1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5c41f881748409773a74160405811c1a]: Textual amendment: Decision revoked (31.12.2020) by [The Leghold Trap and Pelt Imports (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/16)](https://www.legislation.gov.uk/uksi/2019/16), [regs. 1](https://www.legislation.gov.uk/uksi/2019/16/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2019/16/regulation/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5c41f881748409773a74160405811c1a]: Textual amendment: Decision revoked (31.12.2020) by [The Leghold Trap and Pelt Imports (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/16)](https://www.legislation.gov.uk/uksi/2019/16), [regs. 1](https://www.legislation.gov.uk/uksi/2019/16/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2019/16/regulation/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

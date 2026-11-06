@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Requirements about the use of headlamps and front fog lamps[^key-32f7612f12730f7f313d2061b1d7cbba]
+## 25. Requirements about the use of headlamps and front fog lamps[^c-32f7612f12730f7f313d2061b1d7cbba]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32f7612f12730f7f313d2061b1d7cbba]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1989/1796/regulation/25) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-32f7612f12730f7f313d2061b1d7cbba]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1989/1796/regulation/25) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)

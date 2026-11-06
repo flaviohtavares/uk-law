@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 130. Liquidator’s reports[^key-f5719127609442e09416ae5bdb3cf7a7]
+## 130. Liquidator’s reports[^c-f5719127609442e09416ae5bdb3cf7a7]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.176 of the 1991 Rules.
 
 ## Annotations
 
-[^key-f5719127609442e09416ae5bdb3cf7a7]: Commencement: Rule 130 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-f5719127609442e09416ae5bdb3cf7a7]: Commencement: Rule 130 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Power to alter judicial titles: Northern Ireland[^key-a256d8de8a9329713ed9befb03583cb2][^key-a256d8de8a9329713ed9befb03583cb2]
+## 102. Power to alter judicial titles: Northern Ireland[^c-a256d8de8a9329713ed9befb03583cb2][^c-a256d8de8a9329713ed9befb03583cb2]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,13 +63,13 @@ summary: ''
 
 (7) The power to make an order under this section is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
 
-(8) An order under this section is subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954)[^key-bea1cb1feba67d3d8646392b9aad8da1].
+(8) An order under this section is subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954)[^c-bea1cb1feba67d3d8646392b9aad8da1].
 
 (9) “**The 1978 Act**” means the Judicature (Northern Ireland) Act 1978 (c. 23).
 
 ## Annotations
 
-[^key-a256d8de8a9329713ed9befb03583cb2]: Modification: S. 102 transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 19(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/19/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-a256d8de8a9329713ed9befb03583cb2]: Modification: S. 102 transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 19(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/19/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c19153811]: Textual amendment: Words in s. 102(1)(a) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
@@ -85,4 +85,4 @@ summary: ''
 
 [^c19154071]: Textual amendment: S. 102(6A)(6B) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [Sch. 4 para. 346(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/346/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(bb)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/bb)
 
-[^key-bea1cb1feba67d3d8646392b9aad8da1]: Textual amendment: Words in s. 102(8) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 69(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/69/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-bea1cb1feba67d3d8646392b9aad8da1]: Textual amendment: Words in s. 102(8) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 69(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/69/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

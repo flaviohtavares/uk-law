@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Entry for purpose of arrest etc by other persons[^key-31677bf6e4d3154c39f0bd34691a57b6][^key-eab335afa9fea37562ea46c2addf2bb6]
+## 91. Entry for purpose of arrest etc by other persons[^c-31677bf6e4d3154c39f0bd34691a57b6][^c-eab335afa9fea37562ea46c2addf2bb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-31677bf6e4d3154c39f0bd34691a57b6]: Commencement: S. 91 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-31677bf6e4d3154c39f0bd34691a57b6]: Commencement: S. 91 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-eab335afa9fea37562ea46c2addf2bb6]: Commencement: S. 91 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-eab335afa9fea37562ea46c2addf2bb6]: Commencement: S. 91 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

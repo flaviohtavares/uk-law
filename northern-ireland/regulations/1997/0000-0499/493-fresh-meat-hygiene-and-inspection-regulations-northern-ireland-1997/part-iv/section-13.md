@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Transport documentation[^key-ae17310539ff8f050cd2e264fd5244ba]
+## 13. Transport documentation[^c-ae17310539ff8f050cd2e264fd5244ba]
 
 *Extent: N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae17310539ff8f050cd2e264fd5244ba]: Commencement: Reg. 13 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-ae17310539ff8f050cd2e264fd5244ba]: Commencement: Reg. 13 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
 [^f00017]: Footnote: [S.I. 1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115)

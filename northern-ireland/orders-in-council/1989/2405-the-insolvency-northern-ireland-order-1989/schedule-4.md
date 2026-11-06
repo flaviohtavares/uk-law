@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — THE CATEGORIES OF PREFERENTIAL DEBTS[^key-7ee5b9f2944cf48540c76c047c300a09]
+## SCHEDULE 4 — THE CATEGORIES OF PREFERENTIAL DEBTS[^c-7ee5b9f2944cf48540c76c047c300a09]
 
 *Extent: N.I.*
 
@@ -103,8 +103,8 @@ as does not exceed such amount as may be specified in an order made by the Depar
 
 **15.** Without prejudice to paragraphs 13 and 14—
 
-- (a) any remuneration payable by the debtor to a person in respect of a period of holiday or of absence from work through sickness or other good cause is deemed to be wages or (as the case may be) salary in respect of services rendered to the debtor in that period, [^key-6c3a82012c262ecf7165f3fcb774aae5]...
-- (b)[^key-6c3a82012c262ecf7165f3fcb774aae5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) any remuneration payable by the debtor to a person in respect of a period of holiday or of absence from work through sickness or other good cause is deemed to be wages or (as the case may be) salary in respect of services rendered to the debtor in that period, [^c-6c3a82012c262ecf7165f3fcb774aae5]...
+- (b)[^c-6c3a82012c262ecf7165f3fcb774aae5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Orders under Category 5
 
@@ -120,11 +120,11 @@ as does not exceed such amount as may be specified in an order made by the Depar
 - (a) the levies on the production of coal and steel referred to in Articles 49 and 50 of the E.C.S.C. Treaty, or
 - (b) any surcharge for delay provided for in Article 50(3) of that Treaty and Article 6 of Decision 3/52 of the High Authority of the Coal and Steel Community.
 
-### Category 6A: Debts owed to the Financial Services Compensation Scheme[^key-6812b5e5be9bf80f64944fb16c8238c6]
+### Category 6A: Debts owed to the Financial Services Compensation Scheme[^c-6812b5e5be9bf80f64944fb16c8238c6]
 
 **17A.** Any debt owed by the debtor to the scheme manager of the Financial Services Compensation Scheme under section 215(2A) of the Financial Services and Markets Act 2000.
 
-### Category 7: Deposits covered by Financial Services Compensation Scheme[^key-9fcde11903107374fa0847b3ca142660]
+### Category 7: Deposits covered by Financial Services Compensation Scheme[^c-9fcde11903107374fa0847b3ca142660]
 
 **18.** So much of any amount owed at the relevant date by the debtor in respect of an eligible deposit as does not exceed the compensation that would be payable in respect of the deposit under the Financial Services Compensation Scheme to the person or persons to whom the amount is owed.
 
@@ -134,12 +134,12 @@ as does not exceed such amount as may be specified in an order made by the Depar
 
 **20.** An amount owed at the relevant date by the debtor to one or more eligible persons in respect of a deposit that—
 
-- (a) was made through a non-UK[^key-d3ecd8410d5007f223b7c5df36634da2] branch of a credit institution authorised by the competent authority of the United Kingdom[^key-b78128c913b7e9c3fb9d9b56fb966051], and
-- (b) would have been an eligible deposit if it had been made through a UK[^key-1d080be400d3943faa9bc2906883440f] branch of that credit institution.
+- (a) was made through a non-UK[^c-d3ecd8410d5007f223b7c5df36634da2] branch of a credit institution authorised by the competent authority of the United Kingdom[^c-b78128c913b7e9c3fb9d9b56fb966051], and
+- (b) would have been an eligible deposit if it had been made through a UK[^c-1d080be400d3943faa9bc2906883440f] branch of that credit institution.
 
 ### Interpretation for Categories 6A, 7 and 8[^M_F_432489a1-6228-4f26-eb8e-a8f014320e25]
 
-**21.** (A1)[^key-0f9ad423b6384a3a62e4533bb91e9f1e] In paragraph 17A “**the scheme manager**” has the meaning given in section 212(1) of the Financial Services and Markets Act 2000.
+**21.** (A1)[^c-0f9ad423b6384a3a62e4533bb91e9f1e] In paragraph 17A “**the scheme manager**” has the meaning given in section 212(1) of the Financial Services and Markets Act 2000.
 
 (1) In paragraphs 18 to 20 “eligible deposit” means a deposit in respect of which the person, or any of the persons, to whom it is owed would be eligible for compensation under the Financial Services Compensation Scheme.
 
@@ -151,17 +151,17 @@ as does not exceed such amount as may be specified in an order made by the Depar
 (3) In paragraphs 19 and 20, “eligible person” means—
 
 - (a) an individual, or
-- (b)[^key-30a71000cad7001a4548f6b76ab2a601] any micro, small or medium-sized enterprise, as defined with regard to the annual turnover criterion referred to in Article 2(1) of the Annex to Commission Recommendation 2003/361/EC.
+- (b)[^c-30a71000cad7001a4548f6b76ab2a601] any micro, small or medium-sized enterprise, as defined with regard to the annual turnover criterion referred to in Article 2(1) of the Annex to Commission Recommendation 2003/361/EC.
 
 (4) In paragraph 20—
 
 - (a) “credit institution” has the meaning given in Article 4.1(1) of the capital requirements regulation;
-- (b)[^key-517c128b4b35afb79b7b79921c1e356b] “**non-UK branch**” means a branch, as defined in Article 4(1)(17) of the capital requirements regulation, which is established outside the United Kingdom;
+- (b)[^c-517c128b4b35afb79b7b79921c1e356b] “**non-UK branch**” means a branch, as defined in Article 4(1)(17) of the capital requirements regulation, which is established outside the United Kingdom;
 - (c) “**UK branch**” means a branch, as so defined, which is established in the United Kingdom;
 
-and for this purpose “[^key-7b2120f9771ce0b4d0dff908bd66b3ea]**the capital requirements regulation**” means [Regulation (EU) No. 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending [Regulation (EU) No. 648/2012](https://www.legislation.gov.uk/european/regulation/2012/0648).
+and for this purpose “[^c-7b2120f9771ce0b4d0dff908bd66b3ea]**the capital requirements regulation**” means [Regulation (EU) No. 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending [Regulation (EU) No. 648/2012](https://www.legislation.gov.uk/european/regulation/2012/0648).
 
-### Category 9: Certain HMRC debts[^key-0fc4a0ac9507dffcc24f031ed56f65b7]
+### Category 9: Certain HMRC debts[^c-0fc4a0ac9507dffcc24f031ed56f65b7]
 
 **22.** (1) Any amount owed at the relevant date by the debtor to the Commissioners in respect of—
 
@@ -180,7 +180,7 @@ and for this purpose “[^key-7b2120f9771ce0b4d0dff908bd66b3ea]**the capital req
 
 ## Annotations
 
-[^key-7ee5b9f2944cf48540c76c047c300a09]: Modification: [Sch. 4](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
+[^c-7ee5b9f2944cf48540c76c047c300a09]: Modification: [Sch. 4](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
 
 [^c20171291]: Textual amendment: [Sch. 4 paras. 1](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/1) - 2 repealed (27.3.2006) by [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](https://www.legislation.gov.uk/nisi/2005/1455), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [6(1)(a)](https://www.legislation.gov.uk/nisi/2005/1455/article/6/1/a), [31](https://www.legislation.gov.uk/nisi/2005/1455/article/31), [Sch. 9](https://www.legislation.gov.uk/nisi/2005/1455/schedule/9) (with [art. 4](https://www.legislation.gov.uk/nisi/2005/1455/article/4)); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (with [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2](https://www.legislation.gov.uk/nisr/2006/22/article/2) - 7)
 
@@ -216,26 +216,26 @@ and for this purpose “[^key-7b2120f9771ce0b4d0dff908bd66b3ea]**the capital req
 
 [^c21116391]: Textual amendment: Words in [Sch. 4 para. 14(1)(b)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/14/1/b) substituted (6.4.2008) by [Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2008/948/article/3/1/b), [Sch. 1 para. 170](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/170) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-6c3a82012c262ecf7165f3fcb774aae5]: Textual amendment: [Sch. 4 para. 15(b)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/15/b) and word repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 10(5)](https://www.legislation.gov.uk/nia/2016/2/section/10/5), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-6c3a82012c262ecf7165f3fcb774aae5]: Textual amendment: [Sch. 4 para. 15(b)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/15/b) and word repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 10(5)](https://www.legislation.gov.uk/nia/2016/2/section/10/5), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
-[^key-6812b5e5be9bf80f64944fb16c8238c6]: Textual amendment: [Sch. 4 para. 17A](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/17A) and cross-heading inserted (26.3.2015) by [The Deposit Guarantee Scheme Regulations 2015 (S.I. 2015/486)](https://www.legislation.gov.uk/uksi/2015/486), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/486/regulation/1/2), [15(3)(a)](https://www.legislation.gov.uk/uksi/2015/486/regulation/15/3/a)
+[^c-6812b5e5be9bf80f64944fb16c8238c6]: Textual amendment: [Sch. 4 para. 17A](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/17A) and cross-heading inserted (26.3.2015) by [The Deposit Guarantee Scheme Regulations 2015 (S.I. 2015/486)](https://www.legislation.gov.uk/uksi/2015/486), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/486/regulation/1/2), [15(3)(a)](https://www.legislation.gov.uk/uksi/2015/486/regulation/15/3/a)
 
-[^key-9fcde11903107374fa0847b3ca142660]: Textual amendment: [Sch. 4 paras. 18-21](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/18) inserted (1.1.2015) by [The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486)](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [23](https://www.legislation.gov.uk/uksi/2014/3486/article/23) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3))
+[^c-9fcde11903107374fa0847b3ca142660]: Textual amendment: [Sch. 4 paras. 18-21](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/18) inserted (1.1.2015) by [The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486)](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [23](https://www.legislation.gov.uk/uksi/2014/3486/article/23) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3))
 
-[^key-d3ecd8410d5007f223b7c5df36634da2]: Textual amendment: Word in [Sch. 4 para. 20(a)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/20/a) substituted (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2022/838/regulation/2/2/a/i) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
+[^c-d3ecd8410d5007f223b7c5df36634da2]: Textual amendment: Word in [Sch. 4 para. 20(a)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/20/a) substituted (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2022/838/regulation/2/2/a/i) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
 
-[^key-b78128c913b7e9c3fb9d9b56fb966051]: Textual amendment: Words in [Sch. 4 para. 20(a)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/20/a) substituted (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/838/regulation/2/2/a/ii) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
+[^c-b78128c913b7e9c3fb9d9b56fb966051]: Textual amendment: Words in [Sch. 4 para. 20(a)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/20/a) substituted (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/838/regulation/2/2/a/ii) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
 
-[^key-1d080be400d3943faa9bc2906883440f]: Textual amendment: Words in [Sch. 4 para. 20(b)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/20/b) substituted (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/838/regulation/2/2/b) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
+[^c-1d080be400d3943faa9bc2906883440f]: Textual amendment: Words in [Sch. 4 para. 20(b)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/20/b) substituted (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/838/regulation/2/2/b) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
 
 [^M_F_432489a1-6228-4f26-eb8e-a8f014320e25]: Textual amendment: Words in Sch. 4 para. 21 heading substituted (26.3.2015) by [The Deposit Guarantee Scheme Regulations 2015 (S.I. 2015/486)](https://www.legislation.gov.uk/uksi/2015/486), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/486/regulation/1/2), [15(3)(b)](https://www.legislation.gov.uk/uksi/2015/486/regulation/15/3/b)
 
-[^key-0f9ad423b6384a3a62e4533bb91e9f1e]: Textual amendment: [Sch. 4 para. 21(A1)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/21/A1) inserted (26.3.2015) by [The Deposit Guarantee Scheme Regulations 2015 (S.I. 2015/486)](https://www.legislation.gov.uk/uksi/2015/486), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/486/regulation/1/2), [15(3)(c)](https://www.legislation.gov.uk/uksi/2015/486/regulation/15/3/c)
+[^c-0f9ad423b6384a3a62e4533bb91e9f1e]: Textual amendment: [Sch. 4 para. 21(A1)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/21/A1) inserted (26.3.2015) by [The Deposit Guarantee Scheme Regulations 2015 (S.I. 2015/486)](https://www.legislation.gov.uk/uksi/2015/486), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/486/regulation/1/2), [15(3)(c)](https://www.legislation.gov.uk/uksi/2015/486/regulation/15/3/c)
 
-[^key-30a71000cad7001a4548f6b76ab2a601]: Textual amendment: [Sch. 4 para. 21(3)(b)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/21/3/b) substituted (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/838/regulation/2/3/a) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
+[^c-30a71000cad7001a4548f6b76ab2a601]: Textual amendment: [Sch. 4 para. 21(3)(b)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/21/3/b) substituted (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/838/regulation/2/3/a) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
 
-[^key-517c128b4b35afb79b7b79921c1e356b]: Textual amendment: [Sch. 4 para. 21(4)(b)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/21/4/b)[(c)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/21/4/c) substituted (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/838/regulation/2/3/b) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
+[^c-517c128b4b35afb79b7b79921c1e356b]: Textual amendment: [Sch. 4 para. 21(4)(b)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/21/4/b)[(c)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/21/4/c) substituted (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/838/regulation/2/3/b) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
 
-[^key-7b2120f9771ce0b4d0dff908bd66b3ea]: Textual amendment: Words in [Sch. 4 para. 21(4)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/21/4) substituted (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2022/838/regulation/2/3/c) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
+[^c-7b2120f9771ce0b4d0dff908bd66b3ea]: Textual amendment: Words in [Sch. 4 para. 21(4)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/21/4) substituted (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2022/838/regulation/2/3/c) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
 
-[^key-0fc4a0ac9507dffcc24f031ed56f65b7]: Textual amendment: [Sch. 4 para. 22](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/22) and cross-heading inserted (with application in accordance with s. 98(7) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 98(6)](https://www.legislation.gov.uk/ukpga/2020/14/section/98/6)
+[^c-0fc4a0ac9507dffcc24f031ed56f65b7]: Textual amendment: [Sch. 4 para. 22](https://www.legislation.gov.uk/nisi/1989/2405/schedule/4/paragraph/22) and cross-heading inserted (with application in accordance with s. 98(7) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 98(6)](https://www.legislation.gov.uk/ukpga/2020/14/section/98/6)

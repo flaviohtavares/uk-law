@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Interpretation: “the Immigration Acts”[^key-4d8c6628b213898bc6951a23773a204a]
+## 44. Interpretation: “the Immigration Acts”[^c-4d8c6628b213898bc6951a23773a204a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d8c6628b213898bc6951a23773a204a]: Textual amendment: [S. 44](https://www.legislation.gov.uk/ukpga/2004/19/section/44) repealed (30.3.2006) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [s. 62(1)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/2)[64(3)(d)](https://www.legislation.gov.uk/ukpga/2006/13/section/64/3/d), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/13/schedule/3)
+[^c-4d8c6628b213898bc6951a23773a204a]: Textual amendment: [S. 44](https://www.legislation.gov.uk/ukpga/2004/19/section/44) repealed (30.3.2006) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [s. 62(1)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/2)[64(3)(d)](https://www.legislation.gov.uk/ukpga/2006/13/section/64/3/d), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/13/schedule/3)

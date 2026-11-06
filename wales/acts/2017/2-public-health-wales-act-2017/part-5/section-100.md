@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Warrant to enter dwelling[^key-79eb19601556c1dde3dc858ef5de7db7]
+## 100. Warrant to enter dwelling[^c-79eb19601556c1dde3dc858ef5de7db7]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79eb19601556c1dde3dc858ef5de7db7]: Commencement: [S. 100](https://www.legislation.gov.uk/anaw/2017/2/section/100) in force at 1.2.2018 by [S.I. 2018/1](https://www.legislation.gov.uk/wsi/2018/1), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1/article/2/a)
+[^c-79eb19601556c1dde3dc858ef5de7db7]: Commencement: [S. 100](https://www.legislation.gov.uk/anaw/2017/2/section/100) in force at 1.2.2018 by [S.I. 2018/1](https://www.legislation.gov.uk/wsi/2018/1), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1/article/2/a)

@@ -34,7 +34,7 @@ Environmental Protection
 
 Water
 
-The Water Environment (Controlled Activities) (Scotland) Amendment Regulations 2021 (revoked)[^key-b9c51486a0e65f69dd2393c341b3e3f8]
+The Water Environment (Controlled Activities) (Scotland) Amendment Regulations 2021 (revoked)[^c-b9c51486a0e65f69dd2393c341b3e3f8]
 
 Made
 
@@ -54,60 +54,60 @@ for the purpose of regulation 1(3)
 
 1st January 2023
 
-[^key-b9c51486a0e65f69dd2393c341b3e3f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b9c51486a0e65f69dd2393c341b3e3f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b9c51486a0e65f69dd2393c341b3e3f8]
+## 1. Citation and commencement[^c-b9c51486a0e65f69dd2393c341b3e3f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b9c51486a0e65f69dd2393c341b3e3f8]
+## 2. Interpretation[^c-b9c51486a0e65f69dd2393c341b3e3f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the 2011 Regulations[^key-b9c51486a0e65f69dd2393c341b3e3f8]
+## 3. Amendment of the 2011 Regulations[^c-b9c51486a0e65f69dd2393c341b3e3f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provision: general binding rules activity 18[^key-b9c51486a0e65f69dd2393c341b3e3f8]
+## 4. Transitional provision: general binding rules activity 18[^c-b9c51486a0e65f69dd2393c341b3e3f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transitional provision: general binding rules activity 31[^key-b9c51486a0e65f69dd2393c341b3e3f8]
+## 5. Transitional provision: general binding rules activity 31[^c-b9c51486a0e65f69dd2393c341b3e3f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transitional provision: general binding rules activity 32[^key-b9c51486a0e65f69dd2393c341b3e3f8]
+## 6. Transitional provision: general binding rules activity 32[^c-b9c51486a0e65f69dd2393c341b3e3f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Transitional provision: general binding rules activity 34[^key-b9c51486a0e65f69dd2393c341b3e3f8]
+## 7. Transitional provision: general binding rules activity 34[^c-b9c51486a0e65f69dd2393c341b3e3f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Consequential amendment[^key-b9c51486a0e65f69dd2393c341b3e3f8]
+## 8. Consequential amendment[^c-b9c51486a0e65f69dd2393c341b3e3f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Revocations[^key-b9c51486a0e65f69dd2393c341b3e3f8]
+## 9. Revocations[^c-b9c51486a0e65f69dd2393c341b3e3f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9c51486a0e65f69dd2393c341b3e3f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b9c51486a0e65f69dd2393c341b3e3f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — REVOCATIONS[^key-b9c51486a0e65f69dd2393c341b3e3f8]
+## SCHEDULE — REVOCATIONS[^c-b9c51486a0e65f69dd2393c341b3e3f8]
 
 Regulation 9
 
-**1.**[^key-b9c51486a0e65f69dd2393c341b3e3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b9c51486a0e65f69dd2393c341b3e3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b9c51486a0e65f69dd2393c341b3e3f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b9c51486a0e65f69dd2393c341b3e3f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b9c51486a0e65f69dd2393c341b3e3f8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2021/412) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-b9c51486a0e65f69dd2393c341b3e3f8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2021/412) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

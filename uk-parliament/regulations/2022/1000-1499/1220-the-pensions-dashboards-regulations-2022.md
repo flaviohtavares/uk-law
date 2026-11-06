@@ -48,7 +48,7 @@ In accordance with section 316(2)(ka), (kb) and (kc) of the Act, a draft of this
 
 ## PART 1 — General
 
-### 1. Citation, commencement and extent[^key-eb9d6bcb5b156054de51b4c958d77fcc]
+### 1. Citation, commencement and extent[^c-eb9d6bcb5b156054de51b4c958d77fcc]
 
 (1) These Regulations may be cited as the Pensions Dashboards Regulations 2022.
 
@@ -56,11 +56,11 @@ In accordance with section 316(2)(ka), (kb) and (kc) of the Act, a draft of this
 
 (3) These Regulations extend to England and Wales and Scotland.
 
-### 2. Interpretation[^key-65b9ef0b0f90b65948b99d34833e787e]
+### 2. Interpretation[^c-65b9ef0b0f90b65948b99d34833e787e]
 
 Schedule 1 (interpretation) contains definitions of terms used in these Regulations.
 
-### 3. Application[^key-1f922ca2c80bc2355bd7f4410dcdb391]
+### 3. Application[^c-1f922ca2c80bc2355bd7f4410dcdb391]
 
 (1) Part 2 of these Regulations applies—
 
@@ -83,7 +83,7 @@ Schedule 1 (interpretation) contains definitions of terms used in these Regulati
 
 (5) Subject to paragraph (4), Parts 3 and 4 of these Regulations also apply to a trustee or manager of a relevant occupational pension scheme which has fewer than 100 relevant members but which is permitted to connect on a voluntary basis under regulation 16(1)(b).
 
-### 4. Dashboards Available Point[^key-72269022c1e43d4ca45aaac3ee29a919]
+### 4. Dashboards Available Point[^c-72269022c1e43d4ca45aaac3ee29a919]
 
 (1) Qualifying pensions dashboard services[^f00007] are to be available for use by the general public from a date to be specified (“the Dashboards Available Point”) in a notice issued by the Secretary of State.
 
@@ -100,7 +100,7 @@ Schedule 1 (interpretation) contains definitions of terms used in these Regulati
 
 (6) After publishing the notice, the Secretary of State must take all reasonable steps to publicise the Dashboards Available Point.
 
-### 5. Oversight of standards[^key-040aed453318e35a275630fda5909a53]
+### 5. Oversight of standards[^c-040aed453318e35a275630fda5909a53]
 
 Standards published from time to time by the Money and Pensions Service or by the Regulator or by the Financial Conduct Authority count as standards for the purposes of these Regulations only if—
 
@@ -111,15 +111,15 @@ Standards published from time to time by the Money and Pensions Service or by th
 
 ## PART 2 — Prescribed requirements for qualifying pensions dashboard services
 
-### 6. Qualifying pensions dashboard services[^key-60ce3837c412fb4bef61226824ecdc31]
+### 6. Qualifying pensions dashboard services[^c-60ce3837c412fb4bef61226824ecdc31]
 
 This Part prescribes the requirements to be satisfied in order for a pensions dashboard service to come within the meaning of “**qualifying pensions dashboard service**” for the purposes of sections 238A(2) and 238F(3) of the Pensions Act 2004.
 
-### 7. Cooperation - providers[^key-0a3a82d74cfd69bd0bef0632999769c9]
+### 7. Cooperation - providers[^c-0a3a82d74cfd69bd0bef0632999769c9]
 
 A provider of a pensions dashboard service (referred to in this Part as “**a provider**”) must cooperate with the Money and Pensions Service to assist with the exercise of its functions in relation to pensions dashboard services, including providing information in accordance with standards referred to in this Part.
 
-### 8. Connection and functionality[^key-4240e8d51f6c7cddc018dd2e02ef9460]
+### 8. Connection and functionality[^c-4240e8d51f6c7cddc018dd2e02ef9460]
 
 (1) A provider must—
 
@@ -164,7 +164,7 @@ published from time to time by the Money and Pensions Service.
 
 (9) For the purposes of this regulation and regulations 9 and 11, “view data” also includes similar data provided by a personal or stakeholder pension scheme pursuant to rules made under section 137FAA (FCA general rules: pensions dashboards).
 
-### 9. View data[^key-5c502a81336e01dc1ece8f0584215d48]
+### 9. View data[^c-5c502a81336e01dc1ece8f0584215d48]
 
 (1) A pensions dashboard service must display to the individual concerned the view data provided by a pension scheme—
 
@@ -175,7 +175,7 @@ published from time to time by the Money and Pensions Service.
 
 (3) A pensions dashboard service must not store view data, unless the view data is stored in the form of temporary caching and for the sole purpose of displaying the view data in a single session.
 
-### 10. State pension information[^key-feb0f21890c7400111dc04dc93af7809]
+### 10. State pension information[^c-feb0f21890c7400111dc04dc93af7809]
 
 (1) A pensions dashboard service must display to the individual concerned whichever of the following information is provided by the Secretary of State—
 
@@ -211,7 +211,7 @@ published from time to time by the Money and Pensions Service.
   - (i) messages relating to state pension information;
   - (ii) messages to be displayed when state pension information, or an element of state pension information, is unavailable.
 
-### 11. Operational information and reporting[^key-ef0895189d7fd3b10f61b4beafb13a8b]
+### 11. Operational information and reporting[^c-ef0895189d7fd3b10f61b4beafb13a8b]
 
 (1) A provider must provide operational information upon request to any of the following—
 
@@ -240,7 +240,7 @@ in accordance with reporting standards published from time to time by the Money 
 
 (4) Information referred to in this regulation must be retained on record by the provider for at least 6 years from the end of the calendar year to which it relates.
 
-### 12. Information on making a complaint[^key-4771e107a8ee944ecd466df1257e7f18]
+### 12. Information on making a complaint[^c-4771e107a8ee944ecd466df1257e7f18]
 
 (1) A provider must provide users with information on how to make a complaint relating to the pensions dashboard service that it provides, or to acts or omissions of the provider.
 
@@ -248,7 +248,7 @@ in accordance with reporting standards published from time to time by the Money 
 
 (3) In this regulation, “**the central complaints process for the Money and Pensions Service**” means a service to help users understand what help is available if things go wrong and their available routes to redress.
 
-### 13. Enabling auditing[^key-cd6a8616891e0f722c5c180d59805748]
+### 13. Enabling auditing[^c-cd6a8616891e0f722c5c180d59805748]
 
 (1) A provider must—
 
@@ -279,34 +279,34 @@ in accordance with reporting standards published from time to time by the Money 
 
 ### CHAPTER 1 — Requirements relating to cooperation and connection
 
-#### 14. Cooperation - trustees or managers[^key-328b5eeb0e2b96461b84ede495f29563]
+#### 14. Cooperation - trustees or managers[^c-328b5eeb0e2b96461b84ede495f29563]
 
 (1) Subject to paragraph (2), trustees or managers must comply with the requirement specified in paragraph (3) from the day after the date on which these Regulations come into force.
 
-(2) Trustees or managers of a pension scheme which is not covered by regulation 15(1)[^key-9850395b7ae6450eca0fd67df5d72ac8], but who are granted permission to connect that scheme to the Money and Pensions Service on a voluntary basis under regulation 16(1)(b), must comply with the requirement specified in paragraph (3) from the day after the date on which that permission is granted.
+(2) Trustees or managers of a pension scheme which is not covered by regulation 15(1)[^c-9850395b7ae6450eca0fd67df5d72ac8], but who are granted permission to connect that scheme to the Money and Pensions Service on a voluntary basis under regulation 16(1)(b), must comply with the requirement specified in paragraph (3) from the day after the date on which that permission is granted.
 
 (3) The requirement is to cooperate with the Money and Pensions Service to assist with the exercise of its functions in relation to pensions dashboard services, including providing information in accordance with service standards and operational standards published from time to time by the Money and Pensions Service.
 
-#### 15. Connection according to the connection deadline[^key-a7f2218723c59c54be6dac0975de820f][^key-5475ab63228f6ea7fd7693c1766d2247]
+#### 15. Connection according to the connection deadline[^c-a7f2218723c59c54be6dac0975de820f][^c-5475ab63228f6ea7fd7693c1766d2247]
 
 (1) Trustees or managers of a pension scheme which exists at the reference date and which has 100 or more relevant members at the reference date must—
 
 - (a) register the scheme with the Money and Pensions Service, having regard to the guidance referred to in paragraph (2)(d), and
 - (b) meet the requirements in paragraphs (2), (4) and (5).
 
-(2) Unless a different deadline for connecting to the Money and Pensions Service already applies pursuant to regulation [^key-e0297da4a212cfe0b4a0aeb5d1fe904d]... 17, 19 or 20, trustees or managers must connect the pension scheme to the Money and Pensions Service—
+(2) Unless a different deadline for connecting to the Money and Pensions Service already applies pursuant to regulation [^c-e0297da4a212cfe0b4a0aeb5d1fe904d]... 17, 19 or 20, trustees or managers must connect the pension scheme to the Money and Pensions Service—
 
-- (a)[^key-ab9340c0eadfe776f7314886ddc7ac9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-0a0c1661cb32ff21302cff2a8b538217] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (aa)[^key-ecfecbdbe7569ead0dffb5b15ad47e86] by no later than the connection deadline;
+- (a)[^c-ab9340c0eadfe776f7314886ddc7ac9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-0a0c1661cb32ff21302cff2a8b538217] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-ecfecbdbe7569ead0dffb5b15ad47e86] by no later than the connection deadline;
 - (c) in compliance with—
   - (i) connection and security standards, and
   - (ii) technical standards,
 
   published from time to time by the Money and Pensions Service;
-- (d) having regard to guidance on connection issued from time to time by the Secretary of State,[^key-2544832f016ea17b12477ebda0ad0f4e] the Money and Pensions Service and the Regulator either separately or by at least two of them[^key-8d8c7b3739028de58fa3c45382325a0b] jointly.
+- (d) having regard to guidance on connection issued from time to time by the Secretary of State,[^c-2544832f016ea17b12477ebda0ad0f4e] the Money and Pensions Service and the Regulator either separately or by at least two of them[^c-8d8c7b3739028de58fa3c45382325a0b] jointly.
 
-(3)[^key-9795b1bfb721be7ebd81cbdabc0c206b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9795b1bfb721be7ebd81cbdabc0c206b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Trustees or managers must keep a record of how they have carried out the steps set out in the guidance on connection referred to in paragraph (2)(d), or of alternative steps they have taken in order to comply with the requirements in this Part on connecting their pension scheme to the Money and Pensions Service, for at least 6 years from the end of the scheme year to which they relate.
 
@@ -317,77 +317,77 @@ in accordance with reporting standards published from time to time by the Money 
   - (ii) systemic issues, such as cyber-attacks that could affect the security of the dashboards ecosystem;
 - (b) notify the Money and Pensions Service of any change in connection arrangements.
 
-(6)[^key-9cf2ada2565bf4e4ef5104b514e2c042] The connection deadline that applies to a pension scheme under paragraph (2)(aa) remains fixed, unless—
+(6)[^c-9cf2ada2565bf4e4ef5104b514e2c042] The connection deadline that applies to a pension scheme under paragraph (2)(aa) remains fixed, unless—
 
 - (a) the deadline changes pursuant to regulation 17, 19 or 20, or
 - (b) all the members of the scheme become pensioner members.
 
 (7) Once a scheme has connected to the Money and Pensions Service, trustees or managers must use every endeavour to ensure that the scheme remains connected at all times.
 
-#### 16. ... Voluntary connection[^key-3931641adb686b32f0efbf05b1ef6280][^key-1b0a1e15d7e6cab11f31220779097321]
+#### 16. ... Voluntary connection[^c-3931641adb686b32f0efbf05b1ef6280][^c-1b0a1e15d7e6cab11f31220779097321]
 
 (1) Where trustees or managers—
 
-- (a)[^key-dd8c9013e7c61850fe805a7c6c4b7036] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-dd8c9013e7c61850fe805a7c6c4b7036] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) wish to connect a pension scheme to the Money and Pensions Service on a voluntary basis in circumstances where the scheme has fewer than 100 relevant members,
 
-they must apply to the Money and Pensions Service for permission for the pension scheme to connect to the Money and Pensions Service [^key-9bd0a6501c5ba561a92e9ca449ca0d43]... on a voluntary basis.
+they must apply to the Money and Pensions Service for permission for the pension scheme to connect to the Money and Pensions Service [^c-9bd0a6501c5ba561a92e9ca449ca0d43]... on a voluntary basis.
 
-(2) When applying for permission to connect under paragraph (1), trustees or managers must have regard to guidance on [^key-bbfd2314e2ea9657d06cb08819beb5ce]... voluntary connection issued from time to time by the Money and Pensions Service.
+(2) When applying for permission to connect under paragraph (1), trustees or managers must have regard to guidance on [^c-bbfd2314e2ea9657d06cb08819beb5ce]... voluntary connection issued from time to time by the Money and Pensions Service.
 
-(3) Subject to consultation with the Regulator, except where the Money and Pensions Service and the Regulator agree that such consultation is not needed, the Money and Pensions Service may grant permission for [^key-93710bdebb5c4d2de9f6dd8e873ca428]... voluntary connection by such a date as the Money and Pensions Service considers appropriate (referred to in this regulation as the “**agreed deadline**”).
+(3) Subject to consultation with the Regulator, except where the Money and Pensions Service and the Regulator agree that such consultation is not needed, the Money and Pensions Service may grant permission for [^c-93710bdebb5c4d2de9f6dd8e873ca428]... voluntary connection by such a date as the Money and Pensions Service considers appropriate (referred to in this regulation as the “**agreed deadline**”).
 
-(4) Where permission is granted for [^key-e610e021fdc79a290ff32ab51fc44baf]... voluntary connection under paragraph (3)—
+(4) Where permission is granted for [^c-e610e021fdc79a290ff32ab51fc44baf]... voluntary connection under paragraph (3)—
 
-- (a) the agreed deadline remains fixed, [^key-4a0a726af56964c2462c90db16342ed6]... unless—
+- (a) the agreed deadline remains fixed, [^c-4a0a726af56964c2462c90db16342ed6]... unless—
   - (i) permission to defer connection is given under regulation 17, or
-  - (ii) all the members of the scheme become pensioner members .[^key-792acba66d2d79ec04eec91f899083c4]
-- (b)[^key-bf582cb220039b2911802dbf855a854c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) all the members of the scheme become pensioner members .[^c-792acba66d2d79ec04eec91f899083c4]
+- (b)[^c-bf582cb220039b2911802dbf855a854c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) Once permission to connect [^key-746246c86de3e90f9a233383258a6b0c]... on a voluntary basis has been granted under paragraph (4), trustees or managers must—
+(5) Once permission to connect [^c-746246c86de3e90f9a233383258a6b0c]... on a voluntary basis has been granted under paragraph (4), trustees or managers must—
 
 - (a) register the scheme with the Money and Pensions Service, having regard to the guidance referred to in regulation 15(2)(d);
-- (b) connect the pension scheme to the Money and Pensions Service by no later than the agreed deadline[^key-fc688cd008625adb2fceb2a2306995c4], in compliance with the standards referred to in regulation 15(2)(c) and having regard to the guidance referred to in regulation 15(2)(d);
+- (b) connect the pension scheme to the Money and Pensions Service by no later than the agreed deadline[^c-fc688cd008625adb2fceb2a2306995c4], in compliance with the standards referred to in regulation 15(2)(c) and having regard to the guidance referred to in regulation 15(2)(d);
 - (c) meet the requirements in regulation 15(4) and (5).
 
-#### 17. Deferred connection[^key-c24126d5783adc458817456b80eaac32]
+#### 17. Deferred connection[^c-c24126d5783adc458817456b80eaac32]
 
-(1) Where the trustees or managers wish to defer the connection deadline that applies to a pension scheme by virtue of regulation 15(2)(aa)[^key-0a3e7c86dc9b0756a7b7bfdddf4efb8b], they may apply to the Secretary of State for permission to do this if—
+(1) Where the trustees or managers wish to defer the connection deadline that applies to a pension scheme by virtue of regulation 15(2)(aa)[^c-0a3e7c86dc9b0756a7b7bfdddf4efb8b], they may apply to the Secretary of State for permission to do this if—
 
-- (a)[^key-10d9460ab5aabbd17816caa18b49a297] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (aa)[^key-f6d397e1afb3d4b48595fd555c410c78] no more than 12 months has passed since the coming into force of regulation 15(2)(aa);
-- (b) a deferral has not been permitted in respect of the pension scheme previously .[^key-6b739292d3910b6cfd5ab6e0d6dee2ab]
-- (c)[^key-2f882fc00a31730d01cbfb29e5f06828] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-10d9460ab5aabbd17816caa18b49a297] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-f6d397e1afb3d4b48595fd555c410c78] no more than 12 months has passed since the coming into force of regulation 15(2)(aa);
+- (b) a deferral has not been permitted in respect of the pension scheme previously .[^c-6b739292d3910b6cfd5ab6e0d6dee2ab]
+- (c)[^c-2f882fc00a31730d01cbfb29e5f06828] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) If applying to defer the connection deadline[^key-51261931b39b48d5a8353477519196ae] that applies to a pension scheme, trustees or managers must—
+(2) If applying to defer the connection deadline[^c-51261931b39b48d5a8353477519196ae] that applies to a pension scheme, trustees or managers must—
 
-- (a)[^key-29851326a2bb7246db40958fb22c138a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (aa)[^key-f425538f644c7ddcb06c0e30109fa1c3] submit evidence to demonstrate that at least one of the following conditions applies—
+- (a)[^c-29851326a2bb7246db40958fb22c138a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-f425538f644c7ddcb06c0e30109fa1c3] submit evidence to demonstrate that at least one of the following conditions applies—
   - (i) that before the coming into force of regulation 15(2)(aa), they had embarked on a programme to transfer the data held by the pension scheme to a new administrator;
   - (ii) that before the coming into force of regulation 15(2)(aa), they had entered into a contract containing an obligation to retender the administration of the scheme, and that the timetable for this is reasonable and conflicts with the connection deadline;
-- (b) submit evidence to demonstrate that complying with the connection deadline[^key-17cb0da03eb29f0888cab446fab5e02e]—
+- (b) submit evidence to demonstrate that complying with the connection deadline[^c-17cb0da03eb29f0888cab446fab5e02e]—
   - (i) would be disproportionately burdensome, or
   - (ii) would put the personal data of members at risk;
 - (c) set out the steps being taken to ensure that the pension scheme can connect to the Money and Pensions Service at the earliest opportunity.
 
 (3) The Secretary of State, following consultation with the Regulator and with the Money and Pensions Service, may by notice—
 
-- (a) grant permission to defer the connection deadline[^key-b380de4c77dbd79d6b055405301d198f] until such a date within 12 months of the connection deadline as the Secretary of State considers appropriate (referred to in this regulation as the “**agreed deadline**”), or
+- (a) grant permission to defer the connection deadline[^c-b380de4c77dbd79d6b055405301d198f] until such a date within 12 months of the connection deadline as the Secretary of State considers appropriate (referred to in this regulation as the “**agreed deadline**”), or
 - (b) refuse to grant permission to defer the connection deadline.
 
-(4)[^key-000ff579b1ffed0f80b4126b3a584c27] Where permission is granted to defer the connection deadline under paragraph (3)(a), the agreed deadline remains fixed, unless all the members of the scheme become pensioner members.
+(4)[^c-000ff579b1ffed0f80b4126b3a584c27] Where permission is granted to defer the connection deadline under paragraph (3)(a), the agreed deadline remains fixed, unless all the members of the scheme become pensioner members.
 
-(5) Once permission has been granted to defer the connection deadline[^key-399690d9a9c5f6bb36cbf2e417964231] under paragraph (3)(a), trustees or managers must—
+(5) Once permission has been granted to defer the connection deadline[^c-399690d9a9c5f6bb36cbf2e417964231] under paragraph (3)(a), trustees or managers must—
 
 - (a) register the scheme with the Money and Pensions Service, having regard to the guidance referred to in regulation 15(2)(d);
-- (b) connect the pension scheme to the Money and Pensions Service by no later than the agreed deadline[^key-25c42ec5898524387ad9a9aea07515fc], in compliance with the standards referred to in regulation 15(2)(c) and having regard to the guidance referred to in regulation 15(2)(d);
+- (b) connect the pension scheme to the Money and Pensions Service by no later than the agreed deadline[^c-25c42ec5898524387ad9a9aea07515fc], in compliance with the standards referred to in regulation 15(2)(c) and having regard to the guidance referred to in regulation 15(2)(d);
 - (c) meet the requirements in regulation 15(4) and (5).
 
-#### 18. Connection for new or growing schemes[^key-eb2379d941c80880ee1cf7a04676ed69][^key-188377c4b1c152dba2951b12dbb7912a]
+#### 18. Connection for new or growing schemes[^c-eb2379d941c80880ee1cf7a04676ed69][^c-188377c4b1c152dba2951b12dbb7912a]
 
 (1) If—
 
-- (a)[^key-e3d77da768c6a11c0beb903d4742dd14] a pension scheme does not exist at the reference date or has fewer than 100 relevant members at the reference date, but is established (if it did not exist previously) and has 100 or more relevant members at a scheme year end date on or after 1st April 2024
+- (a)[^c-e3d77da768c6a11c0beb903d4742dd14] a pension scheme does not exist at the reference date or has fewer than 100 relevant members at the reference date, but is established (if it did not exist previously) and has 100 or more relevant members at a scheme year end date on or after 1st April 2024
 - (b) the trustees or managers have not been granted permission for the scheme to connect on a voluntary basis under regulation 16,
 
 then the deadline for connecting to the Money and Pensions Service is as provided for in paragraph (2).
@@ -395,11 +395,11 @@ then the deadline for connecting to the Money and Pensions Service is as provide
 (2) The deadline is whichever is the later of the following—
 
 - (a) 6 months from the end of the scheme year in which the scheme first exists and has 100 or more relevant members, or
-- (b) the connection deadline that applies to a scheme which is covered by regulation 15(1)[^key-c49ab4088920c29caefd043b01961fdd].
+- (b) the connection deadline that applies to a scheme which is covered by regulation 15(1)[^c-c49ab4088920c29caefd043b01961fdd].
 
-(3)[^key-fd46119e37573d9cf5de2b50f81b4397] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-fd46119e37573d9cf5de2b50f81b4397] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-968f250b4ceb210123d2e96c3e63a6b3] Once a deadline applies pursuant to paragraph (2), that deadline remains fixed, unless—
+(4)[^c-968f250b4ceb210123d2e96c3e63a6b3] Once a deadline applies pursuant to paragraph (2), that deadline remains fixed, unless—
 
 - (a) permission to defer connection is given under regulation 17, or
 - (b) all the members of the scheme become pensioner members.
@@ -407,10 +407,10 @@ then the deadline for connecting to the Money and Pensions Service is as provide
 (5) Trustees or managers must—
 
 - (a) register the scheme with the Money and Pensions Service, having regard to the guidance referred to in regulation 15(2)(d);
-- (b) connect the pension scheme to the Money and Pensions Service by no later than the deadline pursuant to paragraph (2)[^key-6942900261a95f6130ed425dfe764798], in compliance with the standards referred to in regulation 15(2)(c) and having regard to the guidance referred to in regulation 15(2)(d);
+- (b) connect the pension scheme to the Money and Pensions Service by no later than the deadline pursuant to paragraph (2)[^c-6942900261a95f6130ed425dfe764798], in compliance with the standards referred to in regulation 15(2)(c) and having regard to the guidance referred to in regulation 15(2)(d);
 - (c) meet the requirements in regulation 15(4) and (5).
 
-#### 19. Connection where these Regulations cease to apply and then apply again[^key-60f1a76ab404150b85acaa158977fff7]
+#### 19. Connection where these Regulations cease to apply and then apply again[^c-60f1a76ab404150b85acaa158977fff7]
 
 (1) Paragraph (2) applies in cases where—
 
@@ -422,7 +422,7 @@ then the deadline for connecting to the Money and Pensions Service is as provide
 - (a) 6 months from the end of the scheme year end in which the scheme comes back into scope, or
 - (b) the deadline for connecting to the Money and Pensions Service that applied previously, under whichever of regulation 15 to 18 or 20 is relevant in the circumstances.
 
-(3)[^key-996c2fbf4dd868ae3d75df08ae4d5b20] Once a deadline applies pursuant to paragraph (2), the deadline remains fixed, unless—
+(3)[^c-996c2fbf4dd868ae3d75df08ae4d5b20] Once a deadline applies pursuant to paragraph (2), the deadline remains fixed, unless—
 
 - (a) permission to defer connection is given under regulation 17 (in which case the rules in that provision apply instead), or
 - (b) all the members of the scheme become pensioner members.
@@ -430,10 +430,10 @@ then the deadline for connecting to the Money and Pensions Service is as provide
 (4) Trustees or managers must—
 
 - (a) register the scheme with the Money and Pensions Service, having regard to the guidance referred to in regulation 15(2)(d);
-- (b) connect the pension scheme to the Money and Pensions Service by no later than the deadline pursuant to paragraph (2)[^key-cb0152092367e1a12a24b8e7f6b57762], in compliance with the standards referred to in regulation 15(2)(c) and having regard to the guidance referred to in regulation 15(2)(d);
+- (b) connect the pension scheme to the Money and Pensions Service by no later than the deadline pursuant to paragraph (2)[^c-cb0152092367e1a12a24b8e7f6b57762], in compliance with the standards referred to in regulation 15(2)(c) and having regard to the guidance referred to in regulation 15(2)(d);
 - (c) meet the requirements in regulation 15(4) and (5).
 
-#### 20. Connection affected by an assessment period[^key-14e195b23be1a905d7444330ead407d2]
+#### 20. Connection affected by an assessment period[^c-14e195b23be1a905d7444330ead407d2]
 
 (1) If an assessment period in relation to a pension scheme begins before the scheme has connected to the Money and Pensions Service—
 
@@ -442,7 +442,7 @@ then the deadline for connecting to the Money and Pensions Service is as provide
   - (i) 6 months beginning with the day after the date on which the assessment period ends, or
   - (ii) the deadline for connecting to the Money and Pensions Service that applied previously, under whichever of regulations 15 to 19 is relevant in the circumstances.
 
-(2)[^key-8206865b95c396cecbbd94a5134372f1] Once a deadline applies pursuant to paragraph (1)(b), the deadline remains fixed, unless—
+(2)[^c-8206865b95c396cecbbd94a5134372f1] Once a deadline applies pursuant to paragraph (1)(b), the deadline remains fixed, unless—
 
 - (a) permission to defer connection is given under regulation 17, or
 - (b) all the members of the scheme become pensioner members.
@@ -450,18 +450,18 @@ then the deadline for connecting to the Money and Pensions Service is as provide
 (3) Trustees or managers must—
 
 - (a) register the scheme with the Money and Pensions Service, having regard to the guidance referred to in regulation 15(2)(d);
-- (b) connect the pension scheme to the Money and Pensions Service by no later than the deadline pursuant to paragraph (1)(b)[^key-293f7862762e17bc2fe1665184473805], in compliance with the standards referred to in regulation 15(2)(c) and having regard to the guidance referred to in regulation 15(2)(d);
+- (b) connect the pension scheme to the Money and Pensions Service by no later than the deadline pursuant to paragraph (1)(b)[^c-293f7862762e17bc2fe1665184473805], in compliance with the standards referred to in regulation 15(2)(c) and having regard to the guidance referred to in regulation 15(2)(d);
 - (c) meet the requirements in regulation 15(4) and (5).
 
 (4) If an assessment period in relation to a section of a scheme or a segregated part of a scheme begins before the scheme has connected to the Money and Pensions Service, this does not affect the requirement for the scheme to connect to the Money and Pensions Service unless all the sections or segregated parts of the scheme are subject to the assessment period.
 
-#### 21. Notification of disconnection[^key-7c8052bd5eeca403932edbb2f32a67ad]
+#### 21. Notification of disconnection[^c-7c8052bd5eeca403932edbb2f32a67ad]
 
 The trustees or managers of a pension scheme which disconnects from the Money and Pensions Service must notify the Money and Pensions Service as soon as possible.
 
 ### CHAPTER 2 — Requirements following connection of a pension scheme
 
-#### 22. Requirements relating to the provision of pensions information[^key-5851a68a76373dc9d594cc8f893a3ca8]
+#### 22. Requirements relating to the provision of pensions information[^c-5851a68a76373dc9d594cc8f893a3ca8]
 
 (1) Subject to paragraphs (2) to (5), once trustees or managers have connected a pension scheme to the Money and Pensions Service in accordance with Chapter 1, they must comply with the requirements in this Chapter on providing, or facilitating the provision of, pensions information to—
 
@@ -495,7 +495,7 @@ unless the pension scheme enters an assessment period, in which case the require
     - (aa) as far as possible in accordance with regulations 25 to 27, provide value data, along with corresponding contextual information and signpost data, and
     - (bb) return a message, in accordance with data standards published from time to time by the Money and Pensions Service, explaining that the scheme, section of the scheme, or segregated part of the scheme is winding up.
 
-#### 23. Find requests, matching, pension identifiers and view requests[^key-8e85776c7e59b416509c2c57bb72eda8]
+#### 23. Find requests, matching, pension identifiers and view requests[^c-8e85776c7e59b416509c2c57bb72eda8]
 
 (1) Trustees or managers must decide on criteria to use for matching (“the matching criteria”), and they must keep a record of this for at least 6 years from the end of the scheme year in which the decision is taken.
 
@@ -533,7 +533,7 @@ unless the pension scheme enters an assessment period, in which case the require
 
 (6) In a case where a match is made but the member subsequently ceases to be a relevant member, trustees or managers must de-register the pension identifier from the Money and Pensions Service as soon as possible.
 
-#### 24. Administrative data[^key-f455d0066830ebb90278ef81bf56b1b9]
+#### 24. Administrative data[^c-f455d0066830ebb90278ef81bf56b1b9]
 
 (1) Administrative data is comprised of the following—
 
@@ -561,7 +561,7 @@ unless the pension scheme enters an assessment period, in which case the require
 
 (4) When providing administrative data under this regulation, trustees or manager must also provide the date of birth of the individual concerned.
 
-#### 25. Signpost data[^key-4d80ff4ba1b71f3545e26b2fd94d0689]
+#### 25. Signpost data[^c-4d80ff4ba1b71f3545e26b2fd94d0689]
 
 (1) Signpost data is comprised of the following—
 
@@ -576,7 +576,7 @@ unless the pension scheme enters an assessment period, in which case the require
 - (a) “**statement of investment principles**” has the same meaning as in regulation 29A(2A)(a) of the 2013 Regulations[^f00015];
 - (b) “**implementation statement**” has the same meaning as in paragraph 30(1)(f)(i) of Part 5 of Schedule 3 to the 2013 Regulations.
 
-#### 26. Value data[^key-0307b75355ed4c09d4dd860e77c52f52]
+#### 26. Value data[^c-0307b75355ed4c09d4dd860e77c52f52]
 
 (1) Value data is the information required by this regulation and by Schedule 3.
 
@@ -618,7 +618,7 @@ unless the pension scheme enters an assessment period, in which case the require
 - (a) “**statement**” means a statement of benefits produced in relation to Part 5 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013;
 - (b) “**working day**” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday, or a day which is a bank holiday under the Banking and Financial Dealings Act 1971[^f00017] in any part of the United Kingdom.
 
-#### 27. Contextual information[^key-c2987a2b7f6e908cc136fd9f8d637d15]
+#### 27. Contextual information[^c-c2987a2b7f6e908cc136fd9f8d637d15]
 
 (1) Alongside value data referred to in regulation 26(1), the following information must be provided where relevant in the circumstances—
 
@@ -642,7 +642,7 @@ unless the pension scheme enters an assessment period, in which case the require
 
 (3) In this regulation, “**safeguarded benefits**” has the meaning given by section 48(8) of the Pension Schemes Act 2015[^f00018].
 
-#### 28. Operational information and reporting[^key-484068c0a15d91751ddc603ea974b31c]
+#### 28. Operational information and reporting[^c-484068c0a15d91751ddc603ea974b31c]
 
 (1) Trustees or managers must provide operational information upon request to any of the following—
 
@@ -679,7 +679,7 @@ in accordance with reporting standards as published from time to time by the Mon
 
 ## PART 4 — Compliance and enforcement
 
-### 29. Compliance notices[^key-3c7d04bf26482be1ee0b1519356ef0c7]
+### 29. Compliance notices[^c-3c7d04bf26482be1ee0b1519356ef0c7]
 
 (1) A compliance notice is a notice directing trustees or managers to take, or to refrain from taking, the steps specified in the notice.
 
@@ -703,7 +703,7 @@ in accordance with reporting standards as published from time to time by the Mon
 - (b) the evidence on which that opinion is based;
 - (c) that if the Regulator is of the opinion that trustees or managers have failed to comply with the compliance notice, then the Regulator may issue a penalty notice under regulation 31.
 
-### 30. Third party compliance notices[^key-4c4545fa90f3a71d0b7ab0203eb3d02e]
+### 30. Third party compliance notices[^c-4c4545fa90f3a71d0b7ab0203eb3d02e]
 
 (1) A third party compliance notice is a notice directing the third party to whom it is issued (as referred to in paragraph (2)) to take, or to refrain from taking, the steps specified in the notice.
 
@@ -736,7 +736,7 @@ in accordance with reporting standards as published from time to time by the Mon
   - (ii) the evidence on which that opinion is based;
 - (d) that if the Regulator is of the opinion that the third party has failed to comply with the third party compliance notice, then the Regulator may issue a penalty notice under regulation 31.
 
-### 31. Penalty notices[^key-1250185168faf875d3b035ecfbdc202e]
+### 31. Penalty notices[^c-1250185168faf875d3b035ecfbdc202e]
 
 (1) A penalty notice is a notice requiring the person to whom it is issued to pay a penalty within the period specified in the notice.
 
@@ -770,7 +770,7 @@ the penalty notices may be issued in a single document.
 
 (6) If a single document is issued as mentioned in paragraph (5), the information required by paragraph (4) may be provided in the document by reference to more than one penalty.
 
-### 32. Penalty notices: recovery[^key-9ecb7d460d8261560cc330b695a65f93]
+### 32. Penalty notices: recovery[^c-9ecb7d460d8261560cc330b695a65f93]
 
 (1) A penalty payable under a penalty notice is recoverable by the Regulator.
 
@@ -780,7 +780,7 @@ the penalty notices may be issued in a single document.
 
 (4) The Regulator must pay into the Consolidated Fund any penalty recovered under this regulation.
 
-### 33. Penalty notices: recovery from bodies corporate and Scottish partnerships[^key-64c897c82c9145442d3c3dd068e60bf6]
+### 33. Penalty notices: recovery from bodies corporate and Scottish partnerships[^c-64c897c82c9145442d3c3dd068e60bf6]
 
 (1) Where—
 
@@ -801,7 +801,7 @@ the Regulator may issue the penalty notice to each of those persons who consente
 - (a) may not also require the relevant body corporate or Scottish partnership to pay a penalty in respect of the same act or omission, and
 - (b) must issue a penalty notice to the person who is required to pay, but may also notify the relevant body corporate or Scottish partnership.
 
-### 34. Review of notices[^key-758c808e1984490494d5a93f3f688b61]
+### 34. Review of notices[^c-758c808e1984490494d5a93f3f688b61]
 
 (1) The Regulator may review a notice to which this paragraph applies—
 
@@ -830,7 +830,7 @@ the Regulator may issue the penalty notice to each of those persons who consente
 - (a) confirm, vary or revoke the notice;
 - (b) substitute a different notice.
 
-### 35. References to the First-tier Tribunal or Upper Tribunal[^key-08d933e057851efb408d88d85886a55b]
+### 35. References to the First-tier Tribunal or Upper Tribunal[^c-08d933e057851efb408d88d85886a55b]
 
 (1) A person to whom a penalty notice is issued under regulation 31 or 33 may, if one of the conditions in paragraph (2) is satisfied, make a reference to the Tribunal in respect of—
 
@@ -864,7 +864,7 @@ the Regulator may issue the penalty notice to each of those persons who consente
 
 ## PART 5 — Disclosure of information
 
-### 36. Disclosure of information[^key-6e56aa1c196e3ddab05dc1f1b6ecf33a]
+### 36. Disclosure of information[^c-6e56aa1c196e3ddab05dc1f1b6ecf33a]
 
 (1) The Money and Pensions Service may disclose information to the Regulator[^f00022], provided that the disclosure is for the purpose of enabling or assisting the Money and Pensions Service or the Regulator to exercise its functions in connection with these Regulations.
 
@@ -887,20 +887,20 @@ Department for Work and Pensions
 
 21st November 2022
 
-## SCHEDULE 1 — Interpretation[^key-296772731cfcc05329424d0afa3ffbd1]
+## SCHEDULE 1 — Interpretation[^c-296772731cfcc05329424d0afa3ffbd1]
 
 Regulation 2
 
-[^key-296772731cfcc05329424d0afa3ffbd1]In these Regulations—
+[^c-296772731cfcc05329424d0afa3ffbd1]In these Regulations—
 
 - “**the 2013 Regulations**” means the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013[^f00024];
 - “administrator”, in the case of a relevant occupational pension scheme, means a person other than a trustee or a manager of the pension scheme or a member of the pension board for a public service pension scheme, who is involved in the administration of the scheme;
 - “**assessment period**” has the same meaning as in section 132 of the Pensions Act 2004, as modified by the Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations 2005[^f00025];
-- [^key-da1b516211a3f61d704ceda15fe64f9c]...
+- [^c-da1b516211a3f61d704ceda15fe64f9c]...
 - “**collective money purchase benefit**” has the meaning given by section 1 of the Pension Schemes Act 2021;
 - “**connect to the Money and Pensions Service**” means connect to the information technology systems delivered by or on behalf of the Money and Pensions Service which enable the dashboards ecosystem to work;
 - “**connection and security standards**” means standards on connecting to the Money and Pensions Service and on data security assessment procedures, in particular the minimum amount of assurance that providers of pensions dashboard services or trustees or managers of pension schemes must provide to the Money and Pensions Service (where “**minimum amount of assurance**” refers to a baseline level of confirmation that relevant requirements in these Regulations are met);
-- “[^key-b6c0cb34131bc681e39a787774d1bad6]**connection deadline**” means 31st October 2026, being the latest date by which relevant occupational pension schemes must be connected to the Money and Pensions Service (unless a different deadline applies pursuant to regulation 16, 17, 18, 19 or 20);
+- “[^c-b6c0cb34131bc681e39a787774d1bad6]**connection deadline**” means 31st October 2026, being the latest date by which relevant occupational pension schemes must be connected to the Money and Pensions Service (unless a different deadline applies pursuant to regulation 16, 17, 18, 19 or 20);
 - “**dashboards ecosystem**” means the interconnected system that enables pensions dashboard services to work in accordance with these Regulations, comprised of—
   - (a) the Money and Pensions Service,
   - (b) the pensions dashboard services that connect to the Money and Pensions Service,
@@ -916,11 +916,11 @@ Regulation 2
   - (b) self-asserted data, and
   - (c) any other data that the Money and Pensions Service may add as part of the service that it provides;
 - “**find request**” means a message containing find data relating to an individual, sent from the Money and Pensions Service to all relevant occupational pension schemes, asking them to search the records of the scheme for information on pensions relating to the individual concerned;
-- “**guidance**” means further information or guidelines to which trustees or managers of pension schemes must have regard in complying with requirements relating to matching, data (including value data), connection, and [^key-0f19aa9acf4cd5c1a7379a8a9e087fe0]... voluntary connection;
+- “**guidance**” means further information or guidelines to which trustees or managers of pension schemes must have regard in complying with requirements relating to matching, data (including value data), connection, and [^c-0f19aa9acf4cd5c1a7379a8a9e087fe0]... voluntary connection;
 - “**hybrid benefit**” means a benefit the rate or amount of which depends on which of two or more alternative methods of calculation produces the highest, or lowest, rate or amount;
-- [^key-379f10499d6c41e3a5091c3f5419b92e]...
+- [^c-379f10499d6c41e3a5091c3f5419b92e]...
 - “**illustration date**” means the date specified by the trustees or managers of a pension scheme as being the date by reference to which the value data provided to an individual relates;
-- [^key-bf5b75c8de68f8d8244b4d200d3e11be]...
+- [^c-bf5b75c8de68f8d8244b4d200d3e11be]...
 - “**match made**” means a positive match where the elements of personal data provided by an individual for the purposes of matching meet the matching criteria referred to in regulation 23(1) to a degree which enables the trustees or managers of the scheme to determine that the individual is a member of the scheme;
 - “**matching**” means the process of searching the records of a relevant occupational pension scheme—
   - (a) using such elements of personal data provided in a find request as the trustees or managers consider to be suitable, and
@@ -939,7 +939,7 @@ Regulation 2
 - “**pot value**” means an accrued pot value or a projected pot value (where “accrued pot value” and “projected pot value” have the meaning given in paragraph 6 of Part 1 of Schedule 3);
 - “**processing**”, in relation to information, has the same meaning as in section 3(4) of the Data Protection Act 2018[^f00032];
 - “**public service pension scheme**” has the meaning given by paragraph (a) and (c) of the definition of the term in section 318 of the Pensions Act 2004;
-- “**reference date**” means the scheme year end date falling between 1st April 2023 and 31st March 2024[^key-2bff09e04ba3b4897047d325a7dadc48], inclusive of both these dates;
+- “**reference date**” means the scheme year end date falling between 1st April 2023 and 31st March 2024[^c-2bff09e04ba3b4897047d325a7dadc48], inclusive of both these dates;
 - “**registrable**”, in relation to a pension scheme referred to in these Regulations, has the same meaning as in section 59(2) of the Pensions Act 2004, as supplemented by regulation 2 of the Register of Occupational and Personal Pension Schemes Regulations 2005[^f00033];
 - “**relevant member**” means a member of a relevant occupational pension scheme who is an active member or a deferred member or a pension credit member;
 - “**reporting standards**” means standards about the way in which operational information (as defined in the provisions in which this term is used) is to be generated for reporting purposes, in particular the content of the information, the manner in which it should be provided, the period of time it should cover, and the frequency of reports;
@@ -948,8 +948,8 @@ Regulation 2
 - “**scheme without money purchase benefits**” means a pension scheme under which none of the benefits provided are money purchase benefits;
 - “**self-asserted data**” means additional person details volunteered by an individual, including their national insurance number, previous names and addresses, email address and mobile phone number;
 - “**service standards**” means standards regarding the service to be provided by, and the behaviour expected of, those connecting or connected to the Money and Pensions Service, in particular service availability, software compliance, software interoperability, how to deal with failed requests, connection state changes (such as scheduled downtime or maintenance), and when to notify the Money and Pensions Service of personnel changes;
-- [^key-c9ecaa459f52990fe98ff62e29a6ee72]...
-- [^key-97a829799253dbaedc5686a03952468c]...
+- [^c-c9ecaa459f52990fe98ff62e29a6ee72]...
+- [^c-97a829799253dbaedc5686a03952468c]...
 - “**technical standards**” means standards concerning technical matters, in particular specifications regarding pension identifiers, the mechanism to be used to connect to the Money and Pensions Service, and the access management protocol to be used for this;
 - “**trustees or managers**” means, unless otherwise indicated, the trustees or managers of a relevant occupational pension scheme covered by these Regulations, being—
   - (a) in the case of a scheme established under a trust, the trustees of the scheme, and
@@ -966,7 +966,7 @@ Regulation 2
   - (a) to the trustees or managers of a relevant occupational pension scheme who have registered a pension identifier with the Money and Pensions Service in respect of that individual, for view data in respect of the individual, and
   - (b) to the Secretary of State, for state pension information in respect of the individual.
 
-## SCHEDULE 2 — Staging profile[^key-cafa253f77cf841d4fd05069765708c6]
+## SCHEDULE 2 — Staging profile[^c-cafa253f77cf841d4fd05069765708c6]
 
 ### PART 1 — Large schemes
 
@@ -986,7 +986,7 @@ Regulation 26(1) and (2)
 
 ### PART 1 — Value data requirements
 
-**1.**[^key-4d8789255873b6184038f9862a6b96f1] (1) For members with money purchase benefits other than collective money purchase benefits, trustees or managers of the pension scheme must provide the value data referred to in sub-paragraph (2).
+**1.**[^c-4d8789255873b6184038f9862a6b96f1] (1) For members with money purchase benefits other than collective money purchase benefits, trustees or managers of the pension scheme must provide the value data referred to in sub-paragraph (2).
 
 (2) The value data required is—
 
@@ -998,7 +998,7 @@ Regulation 26(1) and (2)
 
 (3) The value data referred to in sub-paragraph (b)(i) to (iii) may be provided on a voluntary basis before 1st October 2023, or between that date and a scheme producing a pension illustration, using the version of the relevant guidance available at the illustration date.
 
-**2.**[^key-99d01a9b4bf4eb42e4a9353d02db93b6] (1) For members with benefits that are not money purchase benefits other than cash balance benefits, trustees or managers of the pension scheme must provide the following value data—
+**2.**[^c-99d01a9b4bf4eb42e4a9353d02db93b6] (1) For members with benefits that are not money purchase benefits other than cash balance benefits, trustees or managers of the pension scheme must provide the following value data—
 
 - (a) for active members—
   - (i) an accrued value calculated in accordance with the scheme’s rules and valued to the illustration date, as if the individual has reached their retirement date on the illustration date and without regard to possible increases in earnings;
@@ -1038,7 +1038,7 @@ Regulation 26(1) and (2)
 
 (5) In this paragraph “**Chapter 1 scheme**” means a public service pension scheme other than a scheme for the judiciary or for local government workers.
 
-**3.**[^key-8037ee3ac765626022990bd2a860c901] (1) For members with cash balance benefits, trustees or managers of the pension scheme must provide the following value data—
+**3.**[^c-8037ee3ac765626022990bd2a860c901] (1) For members with cash balance benefits, trustees or managers of the pension scheme must provide the following value data—
 
 - (a) for active members—
   - (i) an accrued fund value calculated in accordance with the scheme’s rules, valued to the illustration date and without regard to possible increases in earnings;
@@ -1057,16 +1057,16 @@ Regulation 26(1) and (2)
 - (a) may be provided on a voluntary basis before 1st October 2023, using the version of the relevant guidance available prior to 1st October 2023;
 - (b) need not be provided if the cash balance benefit was set up in a way that was designed to provide a lump sum on retirement.
 
-**4.**[^key-b7b1d4d721e4f377cc8199857d130741] For members with collective money purchase benefits, trustees or managers of the pension scheme must provide the following value data—
+**4.**[^c-b7b1d4d721e4f377cc8199857d130741] For members with collective money purchase benefits, trustees or managers of the pension scheme must provide the following value data—
 
 - (a) for active members—
   - (i) an annualised accrued value, calculated as if the individual has reached their retirement date on the illustration date and valued to the illustration date;
   - (ii) an annualised projected value based on the scheme’s rules and calculated as if the individual has reached their retirement date on the illustration date, as if future contributions continue, and without regard to future increases in earnings;
 - (b) for deferred members, an annualised projected value based on the scheme’s rules and valued to the illustration date.
 
-**5.**[^key-bf9b5909ca64f11b59ade77cd1e2009e] For members with hybrid benefits, trustees or managers of the pension scheme must supply value data which they consider best represents the value of the member’s benefits under the scheme, calculated in accordance with what the trustees or managers consider to be the appropriate methodology from paragraphs 1 to 4 and indicating which methodology they have applied to the calculation for each benefit.
+**5.**[^c-bf9b5909ca64f11b59ade77cd1e2009e] For members with hybrid benefits, trustees or managers of the pension scheme must supply value data which they consider best represents the value of the member’s benefits under the scheme, calculated in accordance with what the trustees or managers consider to be the appropriate methodology from paragraphs 1 to 4 and indicating which methodology they have applied to the calculation for each benefit.
 
-**6.**[^key-f1a33fa21caa7fbc5e434006f8d32077] In this Schedule—
+**6.**[^c-f1a33fa21caa7fbc5e434006f8d32077] In this Schedule—
 
 - (a) references to deferred members are to be treated as including pension credit members;
 - (b) the following definitions apply—
@@ -1086,7 +1086,7 @@ Regulation 26(1) and (2)
 
 ### PART 2 — Exemption from certain projected value data requirements
 
-**7.**[^key-8f152823d1874118e103522d3d3c4acb] (1) In respect of members with—
+**7.**[^c-8f152823d1874118e103522d3d3c4acb] (1) In respect of members with—
 
 - (a) money purchase benefits other than collective money purchase benefits, or
 - (b) hybrid benefits, where the benefit is calculated with reference to both money purchase benefits and benefits other than money purchase benefits,
@@ -1136,11 +1136,11 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00001]: Footnote: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35). See section 318(1) for the definitions of “prescribed” and “regulations”. Section 118 of the Pension Schemes Act [2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1) inserted sections 238A and 238B, and section 119 of the Pension Schemes Act 2021 inserted sections 238D, 238E and 238G.
 
-[^key-eb9d6bcb5b156054de51b4c958d77fcc]: Commencement: Reg. 1 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-eb9d6bcb5b156054de51b4c958d77fcc]: Commencement: Reg. 1 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-65b9ef0b0f90b65948b99d34833e787e]: Commencement: Reg. 2 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-65b9ef0b0f90b65948b99d34833e787e]: Commencement: Reg. 2 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-1f922ca2c80bc2355bd7f4410dcdb391]: Commencement: Reg. 3 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-1f922ca2c80bc2355bd7f4410dcdb391]: Commencement: Reg. 3 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
 [^f00002]: Footnote: “pensions dashboard service” is defined in section 238A(1) of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35).
 
@@ -1152,17 +1152,17 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00006]: Footnote: [S.I. 2016/326](https://www.legislation.gov.uk/uksi/2016/326), as amended by regulations 3 to 5 of [S.I. 2019/906](https://www.legislation.gov.uk/uksi/2019/906). Regulation 2 of [S.I. 2016/326](https://www.legislation.gov.uk/uksi/2016/326) defines “the agencies” as meaning the Secret Intelligence Service and the Security Service, and defines “GCHQ eligible person” as meaning a person who meets the conditions of eligibility set out in regulation 2A of that instrument.
 
-[^key-72269022c1e43d4ca45aaac3ee29a919]: Commencement: Reg. 4 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-72269022c1e43d4ca45aaac3ee29a919]: Commencement: Reg. 4 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
 [^f00007]: Footnote: “qualifying pensions dashboard service” is defined in section 238A(2) of the Pensions Act 2004.
 
-[^key-040aed453318e35a275630fda5909a53]: Commencement: Reg. 5 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-040aed453318e35a275630fda5909a53]: Commencement: Reg. 5 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-60ce3837c412fb4bef61226824ecdc31]: Commencement: Reg. 6 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-60ce3837c412fb4bef61226824ecdc31]: Commencement: Reg. 6 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-0a3a82d74cfd69bd0bef0632999769c9]: Commencement: Reg. 7 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-0a3a82d74cfd69bd0bef0632999769c9]: Commencement: Reg. 7 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-4240e8d51f6c7cddc018dd2e02ef9460]: Commencement: Reg. 8 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-4240e8d51f6c7cddc018dd2e02ef9460]: Commencement: Reg. 8 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
 [^f00008]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Part 4A was substituted for sections 40 to 55 by section 11(2) of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
@@ -1172,193 +1172,193 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00011]: Footnote: Section 137FAA was inserted by section 121(2) of the Pension Schemes Act 2021.
 
-[^key-5c502a81336e01dc1ece8f0584215d48]: Commencement: Reg. 9 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-5c502a81336e01dc1ece8f0584215d48]: Commencement: Reg. 9 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-feb0f21890c7400111dc04dc93af7809]: Commencement: Reg. 10 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-feb0f21890c7400111dc04dc93af7809]: Commencement: Reg. 10 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
 [^f00012]: Footnote: Section 238C(2)(a) of the Pensions Act 2004 defines “state pension information” by reference to section 42(7) of the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19); regulation 10(6)(a) of these Regulations expands on that.
 
 [^f00013]: Footnote: [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19).
 
-[^key-ef0895189d7fd3b10f61b4beafb13a8b]: Commencement: Reg. 11 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-ef0895189d7fd3b10f61b4beafb13a8b]: Commencement: Reg. 11 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-4771e107a8ee944ecd466df1257e7f18]: Commencement: Reg. 12 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-4771e107a8ee944ecd466df1257e7f18]: Commencement: Reg. 12 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-cd6a8616891e0f722c5c180d59805748]: Commencement: Reg. 13 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-cd6a8616891e0f722c5c180d59805748]: Commencement: Reg. 13 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-328b5eeb0e2b96461b84ede495f29563]: Commencement: Reg. 14 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-328b5eeb0e2b96461b84ede495f29563]: Commencement: Reg. 14 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-9850395b7ae6450eca0fd67df5d72ac8]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/14/2) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/858/regulation/3)
+[^c-9850395b7ae6450eca0fd67df5d72ac8]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/14/2) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/858/regulation/3)
 
-[^key-a7f2218723c59c54be6dac0975de820f]: Commencement: Reg. 15 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-a7f2218723c59c54be6dac0975de820f]: Commencement: Reg. 15 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-5475ab63228f6ea7fd7693c1766d2247]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2022/1220/regulation/15) heading substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/858/regulation/4/a)
+[^c-5475ab63228f6ea7fd7693c1766d2247]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2022/1220/regulation/15) heading substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/858/regulation/4/a)
 
-[^key-e0297da4a212cfe0b4a0aeb5d1fe904d]: Textual amendment: Word in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/15/2) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [4(b)(i)](https://www.legislation.gov.uk/uksi/2023/858/regulation/4/b/i)
+[^c-e0297da4a212cfe0b4a0aeb5d1fe904d]: Textual amendment: Word in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/15/2) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [4(b)(i)](https://www.legislation.gov.uk/uksi/2023/858/regulation/4/b/i)
 
-[^key-ab9340c0eadfe776f7314886ddc7ac9a]: Textual amendment: [Reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/15/2/a) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/4/b/ii)
+[^c-ab9340c0eadfe776f7314886ddc7ac9a]: Textual amendment: [Reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/15/2/a) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/4/b/ii)
 
-[^key-0a0c1661cb32ff21302cff2a8b538217]: Textual amendment: [Reg. 15(2)(b)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/15/2/b) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/4/b/ii)
+[^c-0a0c1661cb32ff21302cff2a8b538217]: Textual amendment: [Reg. 15(2)(b)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/15/2/b) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/4/b/ii)
 
-[^key-ecfecbdbe7569ead0dffb5b15ad47e86]: Textual amendment: [Reg. 15(2)(aa)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/15/2/aa) inserted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [4(b)(iii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/4/b/iii)
+[^c-ecfecbdbe7569ead0dffb5b15ad47e86]: Textual amendment: [Reg. 15(2)(aa)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/15/2/aa) inserted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [4(b)(iii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/4/b/iii)
 
-[^key-2544832f016ea17b12477ebda0ad0f4e]: Textual amendment: Words in [reg. 15(2)(d)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/15/2/d) inserted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [4(b)(iv)(aa)](https://www.legislation.gov.uk/uksi/2023/858/regulation/4/b/iv/aa)
+[^c-2544832f016ea17b12477ebda0ad0f4e]: Textual amendment: Words in [reg. 15(2)(d)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/15/2/d) inserted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [4(b)(iv)(aa)](https://www.legislation.gov.uk/uksi/2023/858/regulation/4/b/iv/aa)
 
-[^key-8d8c7b3739028de58fa3c45382325a0b]: Textual amendment: Words in [reg. 15(2)(d)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/15/2/d) inserted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [4(b)(iv)(bb)](https://www.legislation.gov.uk/uksi/2023/858/regulation/4/b/iv/bb)
+[^c-8d8c7b3739028de58fa3c45382325a0b]: Textual amendment: Words in [reg. 15(2)(d)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/15/2/d) inserted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [4(b)(iv)(bb)](https://www.legislation.gov.uk/uksi/2023/858/regulation/4/b/iv/bb)
 
-[^key-9795b1bfb721be7ebd81cbdabc0c206b]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/15/3) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2023/858/regulation/4/c)
+[^c-9795b1bfb721be7ebd81cbdabc0c206b]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/15/3) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2023/858/regulation/4/c)
 
-[^key-9cf2ada2565bf4e4ef5104b514e2c042]: Textual amendment: [Reg. 15(6)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/15/6) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [4(d)](https://www.legislation.gov.uk/uksi/2023/858/regulation/4/d)
+[^c-9cf2ada2565bf4e4ef5104b514e2c042]: Textual amendment: [Reg. 15(6)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/15/6) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [4(d)](https://www.legislation.gov.uk/uksi/2023/858/regulation/4/d)
 
-[^key-3931641adb686b32f0efbf05b1ef6280]: Commencement: Reg. 16 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-3931641adb686b32f0efbf05b1ef6280]: Commencement: Reg. 16 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-1b0a1e15d7e6cab11f31220779097321]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16) heading omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/a)
+[^c-1b0a1e15d7e6cab11f31220779097321]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16) heading omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/a)
 
-[^key-dd8c9013e7c61850fe805a7c6c4b7036]: Textual amendment: [reg. 16(1)(a)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16/1/a) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(b)(i)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/b/i)
+[^c-dd8c9013e7c61850fe805a7c6c4b7036]: Textual amendment: [reg. 16(1)(a)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16/1/a) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(b)(i)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/b/i)
 
-[^key-9bd0a6501c5ba561a92e9ca449ca0d43]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16/1) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/b/ii)
+[^c-9bd0a6501c5ba561a92e9ca449ca0d43]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16/1) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/b/ii)
 
-[^key-bbfd2314e2ea9657d06cb08819beb5ce]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16/2) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/c)
+[^c-bbfd2314e2ea9657d06cb08819beb5ce]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16/2) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/c)
 
-[^key-93710bdebb5c4d2de9f6dd8e873ca428]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16/3) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/c)
+[^c-93710bdebb5c4d2de9f6dd8e873ca428]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16/3) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/c)
 
-[^key-e610e021fdc79a290ff32ab51fc44baf]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16/4) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(d)(i)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/d/i)
+[^c-e610e021fdc79a290ff32ab51fc44baf]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16/4) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(d)(i)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/d/i)
 
-[^key-4a0a726af56964c2462c90db16342ed6]: Textual amendment: Words in [reg. 16(4)(a)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16/4/a) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(d)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/d/ii/aa)
+[^c-4a0a726af56964c2462c90db16342ed6]: Textual amendment: Words in [reg. 16(4)(a)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16/4/a) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(d)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/d/ii/aa)
 
-[^key-792acba66d2d79ec04eec91f899083c4]: Textual amendment: Full stop in [reg. 16(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16/4/a/ii) substituted for semicolon (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(d)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/d/ii/bb)
+[^c-792acba66d2d79ec04eec91f899083c4]: Textual amendment: Full stop in [reg. 16(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16/4/a/ii) substituted for semicolon (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(d)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/d/ii/bb)
 
-[^key-bf582cb220039b2911802dbf855a854c]: Textual amendment: [Reg. 16(4)(b)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16/4/b) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(d)(iii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/d/iii)
+[^c-bf582cb220039b2911802dbf855a854c]: Textual amendment: [Reg. 16(4)(b)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16/4/b) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(d)(iii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/d/iii)
 
-[^key-746246c86de3e90f9a233383258a6b0c]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16/5) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(e)(i)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/e/i)
+[^c-746246c86de3e90f9a233383258a6b0c]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16/5) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(e)(i)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/e/i)
 
-[^key-fc688cd008625adb2fceb2a2306995c4]: Textual amendment: Words in [reg. 16(5)(b)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16/5/b) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(e)(ii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/e/ii)
+[^c-fc688cd008625adb2fceb2a2306995c4]: Textual amendment: Words in [reg. 16(5)(b)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/16/5/b) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [5(e)(ii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/5/e/ii)
 
-[^key-c24126d5783adc458817456b80eaac32]: Commencement: Reg. 17 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-c24126d5783adc458817456b80eaac32]: Commencement: Reg. 17 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-0a3e7c86dc9b0756a7b7bfdddf4efb8b]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/1) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(a)(i)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/a/i)
+[^c-0a3e7c86dc9b0756a7b7bfdddf4efb8b]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/1) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(a)(i)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/a/i)
 
-[^key-10d9460ab5aabbd17816caa18b49a297]: Textual amendment: [Reg. 17(1)(a)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/1/a) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/a/ii)
+[^c-10d9460ab5aabbd17816caa18b49a297]: Textual amendment: [Reg. 17(1)(a)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/1/a) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/a/ii)
 
-[^key-f6d397e1afb3d4b48595fd555c410c78]: Textual amendment: [Reg. 17(1)(aa)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/1/aa) inserted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(a)(iii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/a/iii)
+[^c-f6d397e1afb3d4b48595fd555c410c78]: Textual amendment: [Reg. 17(1)(aa)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/1/aa) inserted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(a)(iii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/a/iii)
 
-[^key-6b739292d3910b6cfd5ab6e0d6dee2ab]: Textual amendment: Full stop in reg. 17(1)(b) substituted for semicolon (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(a)(iv)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/a/iv)
+[^c-6b739292d3910b6cfd5ab6e0d6dee2ab]: Textual amendment: Full stop in reg. 17(1)(b) substituted for semicolon (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(a)(iv)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/a/iv)
 
-[^key-2f882fc00a31730d01cbfb29e5f06828]: Textual amendment: [Reg. 17(1)(c)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/1/c) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(a)(v)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/a/v)
+[^c-2f882fc00a31730d01cbfb29e5f06828]: Textual amendment: [Reg. 17(1)(c)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/1/c) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(a)(v)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/a/v)
 
-[^key-51261931b39b48d5a8353477519196ae]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/2) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(b)(i)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/b/i)
+[^c-51261931b39b48d5a8353477519196ae]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/2) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(b)(i)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/b/i)
 
-[^key-29851326a2bb7246db40958fb22c138a]: Textual amendment: [Reg. 17(2)(a)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/2/a) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(b)(ii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/b/ii)
+[^c-29851326a2bb7246db40958fb22c138a]: Textual amendment: [Reg. 17(2)(a)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/2/a) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(b)(ii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/b/ii)
 
-[^key-f425538f644c7ddcb06c0e30109fa1c3]: Textual amendment: [Reg. 17(2)(aa)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/2/aa) inserted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(b)(iii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/b/iii)
+[^c-f425538f644c7ddcb06c0e30109fa1c3]: Textual amendment: [Reg. 17(2)(aa)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/2/aa) inserted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(b)(iii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/b/iii)
 
-[^key-17cb0da03eb29f0888cab446fab5e02e]: Textual amendment: Words in [reg. 17(2)(b)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/2/b) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(b)(iv)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/b/iv)
+[^c-17cb0da03eb29f0888cab446fab5e02e]: Textual amendment: Words in [reg. 17(2)(b)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/2/b) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(b)(iv)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/b/iv)
 
-[^key-b380de4c77dbd79d6b055405301d198f]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/3) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/c)
+[^c-b380de4c77dbd79d6b055405301d198f]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/3) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/c)
 
-[^key-000ff579b1ffed0f80b4126b3a584c27]: Textual amendment: [Reg. 17(4)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/4) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(d)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/d)
+[^c-000ff579b1ffed0f80b4126b3a584c27]: Textual amendment: [Reg. 17(4)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/4) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(d)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/d)
 
-[^key-399690d9a9c5f6bb36cbf2e417964231]: Textual amendment: Words in [reg. 17(5)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/5) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(e)(i)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/e/i)
+[^c-399690d9a9c5f6bb36cbf2e417964231]: Textual amendment: Words in [reg. 17(5)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/5) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(e)(i)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/e/i)
 
-[^key-25c42ec5898524387ad9a9aea07515fc]: Textual amendment: Words in [reg. 17(5)(b)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/5/b) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(e)(ii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/e/ii)
+[^c-25c42ec5898524387ad9a9aea07515fc]: Textual amendment: Words in [reg. 17(5)(b)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/17/5/b) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [6(e)(ii)](https://www.legislation.gov.uk/uksi/2023/858/regulation/6/e/ii)
 
-[^key-eb2379d941c80880ee1cf7a04676ed69]: Commencement: Reg. 18 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-eb2379d941c80880ee1cf7a04676ed69]: Commencement: Reg. 18 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-188377c4b1c152dba2951b12dbb7912a]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2022/1220/regulation/18) heading substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2023/858/regulation/7/a)
+[^c-188377c4b1c152dba2951b12dbb7912a]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2022/1220/regulation/18) heading substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2023/858/regulation/7/a)
 
-[^key-e3d77da768c6a11c0beb903d4742dd14]: Textual amendment: [Reg. 18(1)(a)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/18/1/a) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2023/858/regulation/7/b)
+[^c-e3d77da768c6a11c0beb903d4742dd14]: Textual amendment: [Reg. 18(1)(a)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/18/1/a) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2023/858/regulation/7/b)
 
-[^key-c49ab4088920c29caefd043b01961fdd]: Textual amendment: Words in [reg. 18(2)(b)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/18/2/b) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2023/858/regulation/7/c)
+[^c-c49ab4088920c29caefd043b01961fdd]: Textual amendment: Words in [reg. 18(2)(b)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/18/2/b) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2023/858/regulation/7/c)
 
-[^key-fd46119e37573d9cf5de2b50f81b4397]: Textual amendment: [Reg. 18(3)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/18/3) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [7(d)](https://www.legislation.gov.uk/uksi/2023/858/regulation/7/d)
+[^c-fd46119e37573d9cf5de2b50f81b4397]: Textual amendment: [Reg. 18(3)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/18/3) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [7(d)](https://www.legislation.gov.uk/uksi/2023/858/regulation/7/d)
 
-[^key-968f250b4ceb210123d2e96c3e63a6b3]: Textual amendment: [Reg. 18(4)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/18/4) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [7(e)](https://www.legislation.gov.uk/uksi/2023/858/regulation/7/e)
+[^c-968f250b4ceb210123d2e96c3e63a6b3]: Textual amendment: [Reg. 18(4)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/18/4) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [7(e)](https://www.legislation.gov.uk/uksi/2023/858/regulation/7/e)
 
-[^key-6942900261a95f6130ed425dfe764798]: Textual amendment: Words in [reg. 18(5)(b)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/18/5/b) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [7(f)](https://www.legislation.gov.uk/uksi/2023/858/regulation/7/f)
+[^c-6942900261a95f6130ed425dfe764798]: Textual amendment: Words in [reg. 18(5)(b)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/18/5/b) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [7(f)](https://www.legislation.gov.uk/uksi/2023/858/regulation/7/f)
 
-[^key-60f1a76ab404150b85acaa158977fff7]: Commencement: Reg. 19 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-60f1a76ab404150b85acaa158977fff7]: Commencement: Reg. 19 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-996c2fbf4dd868ae3d75df08ae4d5b20]: Textual amendment: [Reg. 19(3)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/19/3) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2023/858/regulation/8/a)
+[^c-996c2fbf4dd868ae3d75df08ae4d5b20]: Textual amendment: [Reg. 19(3)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/19/3) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2023/858/regulation/8/a)
 
-[^key-cb0152092367e1a12a24b8e7f6b57762]: Textual amendment: Words in [reg. 19(4)(b)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/19/4/b) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2023/858/regulation/8/b)
+[^c-cb0152092367e1a12a24b8e7f6b57762]: Textual amendment: Words in [reg. 19(4)(b)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/19/4/b) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2023/858/regulation/8/b)
 
-[^key-14e195b23be1a905d7444330ead407d2]: Commencement: Reg. 20 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-14e195b23be1a905d7444330ead407d2]: Commencement: Reg. 20 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-8206865b95c396cecbbd94a5134372f1]: Textual amendment: [Reg. 20(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/20/2) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2023/858/regulation/9/a)
+[^c-8206865b95c396cecbbd94a5134372f1]: Textual amendment: [Reg. 20(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/20/2) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2023/858/regulation/9/a)
 
-[^key-293f7862762e17bc2fe1665184473805]: Textual amendment: Words in [reg. 20(3)(b)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/20/3/b) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2023/858/regulation/9/b)
+[^c-293f7862762e17bc2fe1665184473805]: Textual amendment: Words in [reg. 20(3)(b)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/20/3/b) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2023/858/regulation/9/b)
 
-[^key-7c8052bd5eeca403932edbb2f32a67ad]: Commencement: Reg. 21 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-7c8052bd5eeca403932edbb2f32a67ad]: Commencement: Reg. 21 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-5851a68a76373dc9d594cc8f893a3ca8]: Commencement: Reg. 22 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-5851a68a76373dc9d594cc8f893a3ca8]: Commencement: Reg. 22 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-8e85776c7e59b416509c2c57bb72eda8]: Commencement: Reg. 23 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-8e85776c7e59b416509c2c57bb72eda8]: Commencement: Reg. 23 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-f455d0066830ebb90278ef81bf56b1b9]: Commencement: Reg. 24 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-f455d0066830ebb90278ef81bf56b1b9]: Commencement: Reg. 24 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-4d80ff4ba1b71f3545e26b2fd94d0689]: Commencement: Reg. 25 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-4d80ff4ba1b71f3545e26b2fd94d0689]: Commencement: Reg. 25 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
 [^f00014]: Footnote: “money purchase scheme” is defined in section 318(1) of the Pensions Act 2004.
 
 [^f00015]: Footnote: [S.I. 2013/2734](https://www.legislation.gov.uk/uksi/2013/2734); regulation 29A was inserted by regulation 3(1) and (6) of [S.I. 2018/233](https://www.legislation.gov.uk/uksi/2018/233); regulation 29A(2A) was inserted by regulation 5(1) and (4)(b) of [S.I. 2018/988](https://www.legislation.gov.uk/uksi/2018/988).
 
-[^key-0307b75355ed4c09d4dd860e77c52f52]: Commencement: Reg. 26 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-0307b75355ed4c09d4dd860e77c52f52]: Commencement: Reg. 26 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
 [^f00016]: Footnote: “money purchase benefit” is defined in section 318(1) of the Pensions Act 2004.
 
 [^f00017]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-c2987a2b7f6e908cc136fd9f8d637d15]: Commencement: Reg. 27 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-c2987a2b7f6e908cc136fd9f8d637d15]: Commencement: Reg. 27 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
 [^f00018]: Footnote: [2015 c. 8](https://www.legislation.gov.uk/ukpga/2015/8).
 
-[^key-484068c0a15d91751ddc603ea974b31c]: Commencement: Reg. 28 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-484068c0a15d91751ddc603ea974b31c]: Commencement: Reg. 28 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-3c7d04bf26482be1ee0b1519356ef0c7]: Commencement: Reg. 29 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-3c7d04bf26482be1ee0b1519356ef0c7]: Commencement: Reg. 29 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-4c4545fa90f3a71d0b7ab0203eb3d02e]: Commencement: Reg. 30 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-4c4545fa90f3a71d0b7ab0203eb3d02e]: Commencement: Reg. 30 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-1250185168faf875d3b035ecfbdc202e]: Commencement: Reg. 31 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-1250185168faf875d3b035ecfbdc202e]: Commencement: Reg. 31 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-9ecb7d460d8261560cc330b695a65f93]: Commencement: Reg. 32 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-9ecb7d460d8261560cc330b695a65f93]: Commencement: Reg. 32 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
 [^f00019]: Footnote: [1984 c. 28](https://www.legislation.gov.uk/ukpga/1984/28).
 
-[^key-64c897c82c9145442d3c3dd068e60bf6]: Commencement: Reg. 33 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-64c897c82c9145442d3c3dd068e60bf6]: Commencement: Reg. 33 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-758c808e1984490494d5a93f3f688b61]: Commencement: Reg. 34 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-758c808e1984490494d5a93f3f688b61]: Commencement: Reg. 34 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-08d933e057851efb408d88d85886a55b]: Commencement: Reg. 35 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-08d933e057851efb408d88d85886a55b]: Commencement: Reg. 35 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
 [^f00020]: Footnote: [S.I. 2009/1976](https://www.legislation.gov.uk/uksi/2009/1976).
 
 [^f00021]: Footnote: [S.I. 2008/2698](https://www.legislation.gov.uk/uksi/2008/2698).
 
-[^key-6e56aa1c196e3ddab05dc1f1b6ecf33a]: Commencement: Reg. 36 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-6e56aa1c196e3ddab05dc1f1b6ecf33a]: Commencement: Reg. 36 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
 [^f00022]: Footnote: In the Pensions Act 2004, section 84 allows the Regulator to disclose information to facilitate the exercise of functions by the Regulator, and section 86 allows for Schedule 3 to be amended by order to enable the Regulator to disclose information to facilitate the exercise of functions by other supervisory authorities.
 
 [^f00023]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12).
 
-[^key-296772731cfcc05329424d0afa3ffbd1]: Commencement: Sch. 1 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-296772731cfcc05329424d0afa3ffbd1]: Commencement: Sch. 1 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
 [^f00024]: Footnote: [S.I. 2013/2734](https://www.legislation.gov.uk/uksi/2013/2734).
 
 [^f00025]: Footnote: [S.I. 2005/441](https://www.legislation.gov.uk/uksi/2005/441).
 
-[^key-da1b516211a3f61d704ceda15fe64f9c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1220/schedule/1) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2023/858/regulation/10/a)
+[^c-da1b516211a3f61d704ceda15fe64f9c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1220/schedule/1) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2023/858/regulation/10/a)
 
-[^key-b6c0cb34131bc681e39a787774d1bad6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1220/schedule/1) inserted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2023/858/regulation/10/b)
+[^c-b6c0cb34131bc681e39a787774d1bad6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1220/schedule/1) inserted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2023/858/regulation/10/b)
 
 [^f00027]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
 
 [^f00028]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Part 1A (sections 1A to 3S) was substituted for Part 1 by section 6(1) of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-0f19aa9acf4cd5c1a7379a8a9e087fe0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1220/schedule/1) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [10(c)](https://www.legislation.gov.uk/uksi/2023/858/regulation/10/c)
+[^c-0f19aa9acf4cd5c1a7379a8a9e087fe0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1220/schedule/1) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [10(c)](https://www.legislation.gov.uk/uksi/2023/858/regulation/10/c)
 
-[^key-379f10499d6c41e3a5091c3f5419b92e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1220/schedule/1) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [10(d)](https://www.legislation.gov.uk/uksi/2023/858/regulation/10/d)
+[^c-379f10499d6c41e3a5091c3f5419b92e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1220/schedule/1) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [10(d)](https://www.legislation.gov.uk/uksi/2023/858/regulation/10/d)
 
-[^key-bf5b75c8de68f8d8244b4d200d3e11be]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1220/schedule/1) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [10(e)](https://www.legislation.gov.uk/uksi/2023/858/regulation/10/e)
+[^c-bf5b75c8de68f8d8244b4d200d3e11be]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1220/schedule/1) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [10(e)](https://www.legislation.gov.uk/uksi/2023/858/regulation/10/e)
 
 [^f00030]: Footnote: [2010 c. 25](https://www.legislation.gov.uk/ukpga/2010/25).
 
@@ -1366,30 +1366,30 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00032]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12).
 
-[^key-2bff09e04ba3b4897047d325a7dadc48]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1220/schedule/1) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [10(f)](https://www.legislation.gov.uk/uksi/2023/858/regulation/10/f)
+[^c-2bff09e04ba3b4897047d325a7dadc48]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1220/schedule/1) substituted (9.8.2023) by [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [10(f)](https://www.legislation.gov.uk/uksi/2023/858/regulation/10/f)
 
 [^f00033]: Footnote: [S.I. 2005/597](https://www.legislation.gov.uk/uksi/2005/597); regulation 2 was amended by [S.I. 2006/467](https://www.legislation.gov.uk/uksi/2006/467) and [S.I. 2019/192](https://www.legislation.gov.uk/uksi/2019/192).
 
-[^key-c9ecaa459f52990fe98ff62e29a6ee72]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1220/schedule/1) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [10(g)](https://www.legislation.gov.uk/uksi/2023/858/regulation/10/g)
+[^c-c9ecaa459f52990fe98ff62e29a6ee72]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1220/schedule/1) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [10(g)](https://www.legislation.gov.uk/uksi/2023/858/regulation/10/g)
 
-[^key-97a829799253dbaedc5686a03952468c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1220/schedule/1) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [10(h)](https://www.legislation.gov.uk/uksi/2023/858/regulation/10/h)
+[^c-97a829799253dbaedc5686a03952468c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1220/schedule/1) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [10(h)](https://www.legislation.gov.uk/uksi/2023/858/regulation/10/h)
 
-[^key-cafa253f77cf841d4fd05069765708c6]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2022/1220/schedule/2) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2023/858/regulation/11)
+[^c-cafa253f77cf841d4fd05069765708c6]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2022/1220/schedule/2) omitted (9.8.2023) by virtue of [The Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/858)](https://www.legislation.gov.uk/uksi/2023/858), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/858/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2023/858/regulation/11)
 
-[^key-4d8789255873b6184038f9862a6b96f1]: Commencement: Sch. 3 para. 1 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-4d8789255873b6184038f9862a6b96f1]: Commencement: Sch. 3 para. 1 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-99d01a9b4bf4eb42e4a9353d02db93b6]: Commencement: Sch. 3 para. 2 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-99d01a9b4bf4eb42e4a9353d02db93b6]: Commencement: Sch. 3 para. 2 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
 [^f00034]: Footnote: For example, see [S.I. 2021/1308](https://www.legislation.gov.uk/uksi/2021/1308)
 
 [^f00035]: Footnote: [2022 c. 7](https://www.legislation.gov.uk/ukpga/2022/7).
 
-[^key-8037ee3ac765626022990bd2a860c901]: Commencement: Sch. 3 para. 3 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-8037ee3ac765626022990bd2a860c901]: Commencement: Sch. 3 para. 3 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-b7b1d4d721e4f377cc8199857d130741]: Commencement: Sch. 3 para. 4 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-b7b1d4d721e4f377cc8199857d130741]: Commencement: Sch. 3 para. 4 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-bf9b5909ca64f11b59ade77cd1e2009e]: Commencement: Sch. 3 para. 5 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-bf9b5909ca64f11b59ade77cd1e2009e]: Commencement: Sch. 3 para. 5 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-f1a33fa21caa7fbc5e434006f8d32077]: Commencement: Sch. 3 para. 6 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-f1a33fa21caa7fbc5e434006f8d32077]: Commencement: Sch. 3 para. 6 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
 
-[^key-8f152823d1874118e103522d3d3c4acb]: Commencement: Sch. 3 para. 7 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)
+[^c-8f152823d1874118e103522d3d3c4acb]: Commencement: Sch. 3 para. 7 in force at 12.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1220/regulation/1/2)

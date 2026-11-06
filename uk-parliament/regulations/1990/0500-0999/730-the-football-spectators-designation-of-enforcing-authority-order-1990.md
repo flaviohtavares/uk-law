@@ -41,9 +41,9 @@ Coming into force
 
 In exercise of the powers conferred upon me by section 14(7) of the Football Spectators Act 1989[^f00001], I hereby make the following Order:
 
-**1.**[^key-e5b1e38f8ed2d08ceae06fe5abc3e543] This Order may be cited as the Football Spectators (Designation of Enforcing Authority) Order 1990 and shall come into force on 24th April 1990.
+**1.**[^c-e5b1e38f8ed2d08ceae06fe5abc3e543] This Order may be cited as the Football Spectators (Designation of Enforcing Authority) Order 1990 and shall come into force on 24th April 1990.
 
-**2.**[^key-4fc8ade1e04d00a82c59af172528cc60] The organisation established under section 41 of the Police Act 1964[^f00002] which is known as the Football Spectators Restriction Orders Authority is hereby designated as the enforcing authority for the purposes of Part II of the Football Spectators Act 1989.
+**2.**[^c-4fc8ade1e04d00a82c59af172528cc60] The organisation established under section 41 of the Police Act 1964[^f00002] which is known as the Football Spectators Restriction Orders Authority is hereby designated as the enforcing authority for the purposes of Part II of the Football Spectators Act 1989.
 
 David Waddington
 
@@ -61,8 +61,8 @@ This Order designates the organisation referred to in article 2 as the enforcing
 
 [^f00001]: Footnote: [1989 c. 37](https://www.legislation.gov.uk/ukpga/1989/37).
 
-[^key-e5b1e38f8ed2d08ceae06fe5abc3e543]: Commencement: Art. 1 in force at 24.4.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/730/article/1)
+[^c-e5b1e38f8ed2d08ceae06fe5abc3e543]: Commencement: Art. 1 in force at 24.4.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/730/article/1)
 
-[^key-4fc8ade1e04d00a82c59af172528cc60]: Commencement: Art. 2 in force at 24.4.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/730/article/1)
+[^c-4fc8ade1e04d00a82c59af172528cc60]: Commencement: Art. 2 in force at 24.4.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/730/article/1)
 
 [^f00002]: Footnote: [1964 c. 48](https://www.legislation.gov.uk/ukpga/1964/48).

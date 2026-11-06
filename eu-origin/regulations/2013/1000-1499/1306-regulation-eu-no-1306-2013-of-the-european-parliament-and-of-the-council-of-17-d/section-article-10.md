@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 10. Admissibility of payments made by the paying agencies[^key-8a59a3255aaa3ff385af6381bf4450df]
+## Article 10. Admissibility of payments made by the paying agencies[^c-8a59a3255aaa3ff385af6381bf4450df]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a59a3255aaa3ff385af6381bf4450df]: Textual amendment: Arts. 8-10 omitted (31.1.2020 in so far as it relates to the Common Agricultural Policy direct payment schemes) by virtue of [The Financing, Management and Monitoring of Direct Payments to Farmers (Amendment) Regulations 2020 (S.I. 2020/90)](https://www.legislation.gov.uk/uksi/2020/90), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2020/90/regulation/4/3); and Art. 10 omitted (31.12.2020 in so far as it relates to common organisation of the markets and rural development measures) by virtue of [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/763/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8a59a3255aaa3ff385af6381bf4450df]: Textual amendment: Arts. 8-10 omitted (31.1.2020 in so far as it relates to the Common Agricultural Policy direct payment schemes) by virtue of [The Financing, Management and Monitoring of Direct Payments to Farmers (Amendment) Regulations 2020 (S.I. 2020/90)](https://www.legislation.gov.uk/uksi/2020/90), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2020/90/regulation/4/3); and Art. 10 omitted (31.12.2020 in so far as it relates to common organisation of the markets and rural development measures) by virtue of [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/763/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. London borough council exercising powers under Road Traffic Regulation Act 1984 so as to affect strategic roads[^key-57744433fb7baabbb53784ccab0bc0e4]
+## 63. London borough council exercising powers under Road Traffic Regulation Act 1984 so as to affect strategic roads[^c-57744433fb7baabbb53784ccab0bc0e4]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57744433fb7baabbb53784ccab0bc0e4]: Commencement: S. 63 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/e)
+[^c-57744433fb7baabbb53784ccab0bc0e4]: Commencement: S. 63 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/e)

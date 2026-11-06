@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 234. Use of proxies at meetings[^key-7c428c0b14395fd7f5079bf35643c5b0]
+## 234. Use of proxies at meetings[^c-7c428c0b14395fd7f5079bf35643c5b0]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c428c0b14395fd7f5079bf35643c5b0]: Commencement: Rule 234 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-7c428c0b14395fd7f5079bf35643c5b0]: Commencement: Rule 234 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

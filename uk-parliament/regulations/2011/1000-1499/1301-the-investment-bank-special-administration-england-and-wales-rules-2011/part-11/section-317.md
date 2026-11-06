@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 317. Notifications relating to other events[^key-c1e89103739e99d62968ad726792956e]
+## 317. Notifications relating to other events[^c-c1e89103739e99d62968ad726792956e]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In addition to the information required by rule 313, a notification relating to 
 
 ## Annotations
 
-[^key-c1e89103739e99d62968ad726792956e]: Commencement: [Rule 317](https://www.legislation.gov.uk/uksi/2011/1301/rule/317) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-c1e89103739e99d62968ad726792956e]: Commencement: [Rule 317](https://www.legislation.gov.uk/uksi/2011/1301/rule/317) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

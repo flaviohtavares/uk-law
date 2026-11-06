@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Transfer of staff etc. to the undertaking[^key-2d4ff3d3d700c84c345cf4e454a4807a]
+## 15. Transfer of staff etc. to the undertaking[^c-2d4ff3d3d700c84c345cf4e454a4807a]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ as Scottish Water may, with the consent of the Scottish Ministers, determine.
 
 ## Annotations
 
-[^key-2d4ff3d3d700c84c345cf4e454a4807a]: Commencement: S. 15 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-2d4ff3d3d700c84c345cf4e454a4807a]: Commencement: S. 15 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)

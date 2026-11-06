@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Re-assessment of recovery plans by the PRA or FCA where it is not the consolidating supervisor[^key-b795e4beb79cbf0abc08f81a4c90933b]
+## 104. Re-assessment of recovery plans by the PRA or FCA where it is not the consolidating supervisor[^c-b795e4beb79cbf0abc08f81a4c90933b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b795e4beb79cbf0abc08f81a4c90933b]: Textual amendment: [Art. 104](https://www.legislation.gov.uk/uksi/2014/3348/article/104) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 59](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/59); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b795e4beb79cbf0abc08f81a4c90933b]: Textual amendment: [Art. 104](https://www.legislation.gov.uk/uksi/2014/3348/article/104) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 59](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/59); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

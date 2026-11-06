@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 550C. Guidance on use of mobile phones etc in schools in England[^key-06b7a37f3ea415f611387c7b2787bc87]
+## 550C. Guidance on use of mobile phones etc in schools in England[^c-06b7a37f3ea415f611387c7b2787bc87]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06b7a37f3ea415f611387c7b2787bc87]: Textual amendment: Pt. 10 Ch. 2A inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/36/1), [78(2)(d)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/d)
+[^c-06b7a37f3ea415f611387c7b2787bc87]: Textual amendment: Pt. 10 Ch. 2A inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/36/1), [78(2)(d)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/d)

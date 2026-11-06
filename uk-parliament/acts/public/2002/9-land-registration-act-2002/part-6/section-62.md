@@ -44,8 +44,8 @@ summary: ''
 
 (8) In determining for the purposes of this section whether he is satisfied as to any title, the registrar is to apply the same standards as those which apply under section 9 or 10 to first registration of title.
 
-(9) The Secretary of State[^key-53413187640a3e0de75ee713ddb22f90] may by order amend subsection (4) or (5) by substituting for the number of years for the time being specified in that subsection such number of years as the order may provide.
+(9) The Secretary of State[^c-53413187640a3e0de75ee713ddb22f90] may by order amend subsection (4) or (5) by substituting for the number of years for the time being specified in that subsection such number of years as the order may provide.
 
 ## Annotations
 
-[^key-53413187640a3e0de75ee713ddb22f90]: Textual amendment: Words in [s. 62(9)](https://www.legislation.gov.uk/ukpga/2002/9/section/62/9) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/4/2)
+[^c-53413187640a3e0de75ee713ddb22f90]: Textual amendment: Words in [s. 62(9)](https://www.legislation.gov.uk/ukpga/2002/9/section/62/9) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/4/2)

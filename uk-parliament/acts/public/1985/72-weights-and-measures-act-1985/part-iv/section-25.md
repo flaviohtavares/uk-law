@@ -51,7 +51,7 @@ any goods to which subsection (3) below applies, whether the sale is or is to be
 
 (6) The preceding provisions of this section have effect subject to sections 33 to 37 below.
 
-(7)[^key-f2fc365f0084146242840db5109a77f0] For the purposes of this section the quantity of goods in a package, or of a loaf of bread, to which the packaged goods regulations apply shall be deemed to be the nominal quantity (within the meaning of those regulations) of the package or the loaf of bread.
+(7)[^c-f2fc365f0084146242840db5109a77f0] For the purposes of this section the quantity of goods in a package, or of a loaf of bread, to which the packaged goods regulations apply shall be deemed to be the nominal quantity (within the meaning of those regulations) of the package or the loaf of bread.
 
 (8) In this section “**required**” means required by or under this Part of this Act.
 
@@ -63,4 +63,4 @@ any goods to which subsection (3) below applies, whether the sale is or is to be
 
 [^c13369661]: Modification: S. 25(2)(3) applied with modifications by [S.I. 1988/2040](https://www.legislation.gov.uk/uksi/1988/2040), [art. 18](https://www.legislation.gov.uk/uksi/1988/2040/article/18)
 
-[^key-f2fc365f0084146242840db5109a77f0]: Textual amendment: [S. 25(7)](https://www.legislation.gov.uk/ukpga/1985/72/section/25/7) substituted (6.4.2006) by [The Weights and Measures (Packaged Goods) Regulations 2006 (S.I. 2006/659)](https://www.legislation.gov.uk/uksi/2006/659), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/659/regulation/1/1), [Sch. 1 Pt. 2(3)](https://www.legislation.gov.uk/uksi/2006/659/schedule/1/part/2/3) (with [reg. 21](https://www.legislation.gov.uk/uksi/2006/659/regulation/21))
+[^c-f2fc365f0084146242840db5109a77f0]: Textual amendment: [S. 25(7)](https://www.legislation.gov.uk/ukpga/1985/72/section/25/7) substituted (6.4.2006) by [The Weights and Measures (Packaged Goods) Regulations 2006 (S.I. 2006/659)](https://www.legislation.gov.uk/uksi/2006/659), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/659/regulation/1/1), [Sch. 1 Pt. 2(3)](https://www.legislation.gov.uk/uksi/2006/659/schedule/1/part/2/3) (with [reg. 21](https://www.legislation.gov.uk/uksi/2006/659/regulation/21))

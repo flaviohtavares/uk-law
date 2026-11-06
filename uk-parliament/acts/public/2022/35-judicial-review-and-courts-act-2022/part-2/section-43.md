@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Phased transition to new coroner areas[^key-689aa2d13ce1aef134430313c8789370]
+## 43. Phased transition to new coroner areas[^c-689aa2d13ce1aef134430313c8789370]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ In Schedule 22 to the Coroners and Justice Act 2009 (transitional provision etc)
 
 ## Annotations
 
-[^key-689aa2d13ce1aef134430313c8789370]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2022/35/section/43) in force at 28.6.2022, see [s. 51(3)(c)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3/c)
+[^c-689aa2d13ce1aef134430313c8789370]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2022/35/section/43) in force at 28.6.2022, see [s. 51(3)(c)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3/c)

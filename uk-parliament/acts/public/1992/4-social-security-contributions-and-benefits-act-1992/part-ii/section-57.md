@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Determination of days for which benefit is payable.[^key-048623dce5f08b4c6977e7c5e1ebf9ca]
+## 57. Determination of days for which benefit is payable.[^c-048623dce5f08b4c6977e7c5e1ebf9ca]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-048623dce5f08b4c6977e7c5e1ebf9ca]: Textual amendment: S. 57 repealed (13.4.1995) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [s. 16(3)](https://www.legislation.gov.uk/ukpga/1995/18/section/16/3), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/1995/18/schedule/1/paragraph/14), [Sch. 2](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(4)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/4)
+[^c-048623dce5f08b4c6977e7c5e1ebf9ca]: Textual amendment: S. 57 repealed (13.4.1995) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [s. 16(3)](https://www.legislation.gov.uk/ukpga/1995/18/section/16/3), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/1995/18/schedule/1/paragraph/14), [Sch. 2](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(4)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/4)

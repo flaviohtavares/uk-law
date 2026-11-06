@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Directions[^key-c25381d84228f709508f7dd807383d28]
+## 18. Directions[^c-c25381d84228f709508f7dd807383d28]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c25381d84228f709508f7dd807383d28]: Commencement: [S. 18](https://www.legislation.gov.uk/mwa/2010/1/section/18) in force at 10.1.2011 by [S.I. 2010/2994](https://www.legislation.gov.uk/wsi/2010/2994), [art. 2(f)](https://www.legislation.gov.uk/wsi/2010/2994/article/2/f)
+[^c-c25381d84228f709508f7dd807383d28]: Commencement: [S. 18](https://www.legislation.gov.uk/mwa/2010/1/section/18) in force at 10.1.2011 by [S.I. 2010/2994](https://www.legislation.gov.uk/wsi/2010/2994), [art. 2(f)](https://www.legislation.gov.uk/wsi/2010/2994/article/2/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Power to extend exceptions relating to recognised exchanges[^key-35d22867961e5b2a11a138a9b0ac296a]
+## 50. Power to extend exceptions relating to recognised exchanges[^c-35d22867961e5b2a11a138a9b0ac296a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35d22867961e5b2a11a138a9b0ac296a]: Textual amendment: [S. 50](https://www.legislation.gov.uk/ukpga/2005/22/section/50) repealed (1.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 21 para. 8(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/21/paragraph/8/1)[(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/21/paragraph/8/2), [Sch. 27 Pt. 4(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/4/2)
+[^c-35d22867961e5b2a11a138a9b0ac296a]: Textual amendment: [S. 50](https://www.legislation.gov.uk/ukpga/2005/22/section/50) repealed (1.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 21 para. 8(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/21/paragraph/8/1)[(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/21/paragraph/8/2), [Sch. 27 Pt. 4(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/4/2)

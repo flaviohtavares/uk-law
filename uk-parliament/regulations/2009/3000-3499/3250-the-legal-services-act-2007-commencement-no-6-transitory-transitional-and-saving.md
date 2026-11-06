@@ -46,7 +46,7 @@ Coming into force
 
 The Lord Chancellor makes the following Order in exercise of the powers conferred by sections 204, 208(2) and (4) and 211(2) of the Legal Services Act 2007[^f00001]:
 
-## 1. Citation, commencement and interpretation[^key-92f35d2da1e0b3eec336e25437e1b19d]
+## 1. Citation, commencement and interpretation[^c-92f35d2da1e0b3eec336e25437e1b19d]
 
 (1) This Order may be cited as the Legal Services Act 2007 (Commencement No. 6, Transitory, Transitional and Saving Provisions) Order 2009.
 
@@ -60,7 +60,7 @@ The Lord Chancellor makes the following Order in exercise of the powers conferre
 - (d) “the 2007 Act” means the Legal Services Act 2007; and
 - (e) a reference to a section, Schedule or paragraph of a Schedule by number alone is a reference to that section, Schedule or paragraph in the 2007 Act.
 
-## 2. Commencement of provisions[^key-825e5fd8c5daabe2647c2aaed058e7c2]
+## 2. Commencement of provisions[^c-825e5fd8c5daabe2647c2aaed058e7c2]
 
 The following provisions of the 2007 Act, to the extent that they are not already in force, come into force on 1st January 2010—
 
@@ -148,11 +148,11 @@ The following provisions of the 2007 Act, to the extent that they are not alread
   - (xii) the entries relating to the Trustee Act 2000[^f00031], the Enterprise Act 2002[^f00032], the Pensions Act 2004[^f00033], the Constitutional Reform Act 2005[^f00034], the Mental Capacity Act 2005[^f00035], the Serious Organised Crime and Police Act 2005[^f00036], the Natural Environment and Rural Communities Act 2006[^f00037], the Compensation Act 2006[^f00038], the National Health Service Act 2006[^f00039] and the National Health Service (Wales) Act 2006[^f00040];
 - (j) Schedule 24 (Index of defined expressions).
 
-## 3. Transitory and transitional provisions[^key-03138a4eaba62ed9b3c88f70050973ea]
+## 3. Transitory and transitional provisions[^c-03138a4eaba62ed9b3c88f70050973ea]
 
 (1) Until section 18(2) comes into force, section 18(1)(a) is to be read as if the words “(other than by virtue of a licence under Part 5), or” were omitted.
 
-(2) Until section 73(1)(a)[^key-4460eaecdcbcca42975d8de7b34ab652] comes into force—
+(2) Until section 73(1)(a)[^c-4460eaecdcbcca42975d8de7b34ab652] comes into force—
 
 - (a) section 25(3)(a) is to be read as if sub-paragraph (ii) were omitted;
 - (b) section 25(3)(b) is to be read as if the words “, or by the Board in its capacity as a licensing authority,” were omitted;
@@ -162,15 +162,15 @@ The following provisions of the 2007 Act, to the extent that they are not alread
 - (f) sections 168(2) and 169(1) are to be read as if the words “, a licensing authority” were omitted; and
 - (g) section 171 is to be read as if the words “or licensing authority” were omitted.
 
-**4.**[^key-92689dd89ab66f45a7153ec823854624] Until 1st April 2010, paragraph 4 of Schedule 5 has effect as if the following sub-paragraph were inserted after paragraph 4(4)—
+**4.**[^c-92689dd89ab66f45a7153ec823854624] Until 1st April 2010, paragraph 4 of Schedule 5 has effect as if the following sub-paragraph were inserted after paragraph 4(4)—
 
 > (5) For the purposes of this paragraph, a barrister will be deemed to have in force a practising certificate issued by the General Council of the Bar if the only reason that a practising certificate has not been issued is that the barrister has not paid the prescribed practising certificate fee.
 
 .
 
-**5.**[^key-482b83b170e7f1485d3347e9dc60fd3f] Notwithstanding the repeal of sections 22 and 23 of the 1974 Act, those sections and the references to those sections in sections 24 and 26 of that Act will continue to have effect where the offence was committed before 1st January 2010*.*
+**5.**[^c-482b83b170e7f1485d3347e9dc60fd3f] Notwithstanding the repeal of sections 22 and 23 of the 1974 Act, those sections and the references to those sections in sections 24 and 26 of that Act will continue to have effect where the offence was committed before 1st January 2010*.*
 
-**6.**[^key-4cee03c81250237e8d4acfb0737f2330] (1) Where, at the date this Order comes into force, the Secretary of State is in receipt of an application made under any of the following provisions, that application will continue to be treated, and any question of interpretation or as to consideration of that application will be determined, as if the 2007 Act had not been passed—
+**6.**[^c-4cee03c81250237e8d4acfb0737f2330] (1) Where, at the date this Order comes into force, the Secretary of State is in receipt of an application made under any of the following provisions, that application will continue to be treated, and any question of interpretation or as to consideration of that application will be determined, as if the 2007 Act had not been passed—
 
 - (a) section 55 of the 1990 Act;
 - (b) paragraph 1(1) of Schedule 4 to the 1990 Act;
@@ -193,7 +193,7 @@ that matter will be treated, and any question of interpretation or as to conside
   - (ii) the Legal Services Consultative Panel has not yet completed its consideration; or
 - (b) the Secretary of State has decided that the advice of the Legal Services Consultative Panel is required but has not yet sought that advice.
 
-## 7. Modification of provisions relating to the office of the Legal Services Ombudsman[^key-b5b05527aaa503b69fd89507daf7d0eb]
+## 7. Modification of provisions relating to the office of the Legal Services Ombudsman[^c-b5b05527aaa503b69fd89507daf7d0eb]
 
 (1) Until section 159 of the 2007 Act comes into force in so far as it relates to the office of the Legal Services Ombudsman, the following provisions of the 1990 Act have effect as modified by this article.
 
@@ -257,7 +257,7 @@ that matter will be treated, and any question of interpretation or as to conside
 
 (11) In section 24(2) for “any professional body” substitute “any approved regulator”.
 
-## 8. Modification of provisions relating to the office of the Legal Services Complaints Commissioner[^key-314e213e766bb84af79be7c729a09751]
+## 8. Modification of provisions relating to the office of the Legal Services Complaints Commissioner[^c-314e213e766bb84af79be7c729a09751]
 
 (1) Until section 159 of the 2007 Act comes into force in so far as it relates to the office of the Legal Services Complaints Commissioner, the following provisions of the 1999 Act have effect as modified by this article.
 
@@ -301,11 +301,11 @@ that matter will be treated, and any question of interpretation or as to conside
 
 (10) In section 52(10) and paragraph 7(1) of Schedule 8, for the words “professional body” in each place in which they appear substitute “approved regulator”.
 
-## 9. Savings[^key-59a775086ad39209877dff8b56e285c5]
+## 9. Savings[^c-59a775086ad39209877dff8b56e285c5]
 
 Any instrument made under section 81A of the 1974 Act or section 113 of the 1990 Act that is in force immediately before the day on which this Order comes into force continues in force, and any question as to its application or interpretation shall be determined, as if the 2007 Act had not been passed.
 
-## 10. Revocations[^key-5c00789e579a7d4308d947dfd5611f14]
+## 10. Revocations[^c-5c00789e579a7d4308d947dfd5611f14]
 
 The instruments listed in the Schedule to this Order are revoked.
 
@@ -319,7 +319,7 @@ Ministry of Justice
 
 8th December 2009
 
-## SCHEDULE — REVOCATIONS[^key-71d60ae7dcc9813e95045d2467e8bfb9]
+## SCHEDULE — REVOCATIONS[^c-71d60ae7dcc9813e95045d2467e8bfb9]
 
 Article 10
 
@@ -432,7 +432,7 @@ The following provisions of the 2007 Act have been brought into force by commenc
 
 [^f00001]: Footnote: [2007 c. 29](https://www.legislation.gov.uk/ukpga/2007/29).
 
-[^key-92f35d2da1e0b3eec336e25437e1b19d]: Commencement: Art. 1 in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
+[^c-92f35d2da1e0b3eec336e25437e1b19d]: Commencement: Art. 1 in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
 
 [^f00002]: Footnote: [1974 c. 47](https://www.legislation.gov.uk/ukpga/1974/47).
 
@@ -440,7 +440,7 @@ The following provisions of the 2007 Act have been brought into force by commenc
 
 [^f00004]: Footnote: [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22).
 
-[^key-825e5fd8c5daabe2647c2aaed058e7c2]: Commencement: Art. 2 in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
+[^c-825e5fd8c5daabe2647c2aaed058e7c2]: Commencement: Art. 2 in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
 
 [^f00005]: Footnote: [1801 c. 79](https://www.legislation.gov.uk/ukpga/1801/79).
 
@@ -514,22 +514,22 @@ The following provisions of the 2007 Act have been brought into force by commenc
 
 [^f00040]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
 
-[^key-03138a4eaba62ed9b3c88f70050973ea]: Commencement: Art. 3 in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
+[^c-03138a4eaba62ed9b3c88f70050973ea]: Commencement: Art. 3 in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
 
-[^key-4460eaecdcbcca42975d8de7b34ab652]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/3/2) substituted (30.9.2011) by [The Legal Services Act 2007 (Commencement No. 11, Transitory and Transitional Provisions and Related Amendments) Order 2011 (S.I. 2011/2196)](https://www.legislation.gov.uk/uksi/2011/2196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/2196/article/1/2), [5](https://www.legislation.gov.uk/uksi/2011/2196/article/5)
+[^c-4460eaecdcbcca42975d8de7b34ab652]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/3/2) substituted (30.9.2011) by [The Legal Services Act 2007 (Commencement No. 11, Transitory and Transitional Provisions and Related Amendments) Order 2011 (S.I. 2011/2196)](https://www.legislation.gov.uk/uksi/2011/2196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/2196/article/1/2), [5](https://www.legislation.gov.uk/uksi/2011/2196/article/5)
 
-[^key-92689dd89ab66f45a7153ec823854624]: Commencement: Art. 4 in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
+[^c-92689dd89ab66f45a7153ec823854624]: Commencement: Art. 4 in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
 
-[^key-482b83b170e7f1485d3347e9dc60fd3f]: Commencement: Art. 5 in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
+[^c-482b83b170e7f1485d3347e9dc60fd3f]: Commencement: Art. 5 in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
 
-[^key-4cee03c81250237e8d4acfb0737f2330]: Commencement: Art. 6 in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
+[^c-4cee03c81250237e8d4acfb0737f2330]: Commencement: Art. 6 in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
 
-[^key-b5b05527aaa503b69fd89507daf7d0eb]: Commencement: Art. 7 in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
+[^c-b5b05527aaa503b69fd89507daf7d0eb]: Commencement: Art. 7 in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
 
-[^key-314e213e766bb84af79be7c729a09751]: Commencement: Art. 8 in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
+[^c-314e213e766bb84af79be7c729a09751]: Commencement: Art. 8 in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
 
-[^key-59a775086ad39209877dff8b56e285c5]: Commencement: Art. 9 in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
+[^c-59a775086ad39209877dff8b56e285c5]: Commencement: Art. 9 in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
 
-[^key-5c00789e579a7d4308d947dfd5611f14]: Commencement: Art. 10 in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
+[^c-5c00789e579a7d4308d947dfd5611f14]: Commencement: Art. 10 in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
 
-[^key-71d60ae7dcc9813e95045d2467e8bfb9]: Commencement: Sch. in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)
+[^c-71d60ae7dcc9813e95045d2467e8bfb9]: Commencement: Sch. in force at 1.1.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/1/2)

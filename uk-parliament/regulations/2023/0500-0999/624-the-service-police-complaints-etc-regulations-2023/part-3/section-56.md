@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Final reports on investigations: complaints, conduct matters and certain DSI matters[^key-3219d152a127b06683a12e276c3df10a]
+## 56. Final reports on investigations: complaints, conduct matters and certain DSI matters[^c-3219d152a127b06683a12e276c3df10a]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3219d152a127b06683a12e276c3df10a]: Commencement: Reg. 56 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-3219d152a127b06683a12e276c3df10a]: Commencement: Reg. 56 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

@@ -81,16 +81,16 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (4) Transfer arrangements may include provision for the Secretary of State to pay compensation to the loan purchaser—
 
-- (a)[^key-a2d208e648412b7288a480a71acf898b] to reflect regulations under section 186 of the Education Act 2002 (c. 32) (reduction of balances, &c.),
+- (a)[^c-a2d208e648412b7288a480a71acf898b] to reflect regulations under section 186 of the Education Act 2002 (c. 32) (reduction of balances, &c.),
 - (b) in connection with amendments of loan regulations, or
 - (c) in other specified circumstances.
 
-(5)[^key-11eff4f033fb4c548d0af78df23b75d2] Transfer arrangements may include undertakings by the Secretary of State about the power to make loan regulations; in particular—
+(5)[^c-11eff4f033fb4c548d0af78df23b75d2] Transfer arrangements may include undertakings by the Secretary of State about the power to make loan regulations; in particular—
 
 - (a) the Secretary of State may undertake to exercise the power so as to achieve a specified result,
 - (b) the Secretary of State may undertake not to exercise the power so as to achieve a specified result,
 - (c) the Secretary of State may undertake to follow, or not to follow, a specified procedure in connection with the power,
-- (d) [^key-7e1bc028745b085c9fda5047d9c3825f]...
+- (d) [^c-7e1bc028745b085c9fda5047d9c3825f]...
 
   and
 - (e) a loan purchaser may enforce an undertaking by way of legal proceedings in public law, private law or both.
@@ -220,13 +220,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 >
 > (11) In the application of section 19 of that Act by virtue of subsection (7) above “**revenue and customs information**” means information provided by the Commissioners (but subject to the express exclusion in section 19(2)).
 
-## 8. Consumer credit[^key-47d5aa5931aaf44e3e738d4fbd0f1d28]
+## 8. Consumer credit[^c-47d5aa5931aaf44e3e738d4fbd0f1d28]
 
 (1) The Consumer Credit Act 1974 (c. 39) does not regulate loans made in accordance with regulations under section 22 of the Teaching and Higher Education Act 1998 (c. 30).
 
 (1A) The Financial Services and Markets Act 2000 does not regulate loans made in accordance with those regulations.
 
-(2)[^key-6efd36c8e56db532a650ff999f3f0541] Subsection (1) shall be treated as always having had effect.
+(2)[^c-6efd36c8e56db532a650ff999f3f0541] Subsection (1) shall be treated as always having had effect.
 
 ## 9. Wales
 
@@ -279,12 +279,12 @@ This Act comes into force on the day on which it receives Royal Assent.
 
 ## Annotations
 
-[^key-a2d208e648412b7288a480a71acf898b]: Modification: [S. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2008/10/section/2/4/a) modified (30.9.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/644/article/1/2), [39(7)](https://www.legislation.gov.uk/uksi/2018/644/article/39/7)[(8)(a)](https://www.legislation.gov.uk/uksi/2018/644/article/39/8/a)
+[^c-a2d208e648412b7288a480a71acf898b]: Modification: [S. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2008/10/section/2/4/a) modified (30.9.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/644/article/1/2), [39(7)](https://www.legislation.gov.uk/uksi/2018/644/article/39/7)[(8)(a)](https://www.legislation.gov.uk/uksi/2018/644/article/39/8/a)
 
-[^key-11eff4f033fb4c548d0af78df23b75d2]: Modification: [S. 2(5)](https://www.legislation.gov.uk/ukpga/2008/10/section/2/5) modified (30.9.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/644/article/1/2), [39(7)](https://www.legislation.gov.uk/uksi/2018/644/article/39/7)[(8)(b)](https://www.legislation.gov.uk/uksi/2018/644/article/39/8/b)
+[^c-11eff4f033fb4c548d0af78df23b75d2]: Modification: [S. 2(5)](https://www.legislation.gov.uk/ukpga/2008/10/section/2/5) modified (30.9.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/644/article/1/2), [39(7)](https://www.legislation.gov.uk/uksi/2018/644/article/39/7)[(8)(b)](https://www.legislation.gov.uk/uksi/2018/644/article/39/8/b)
 
-[^key-7e1bc028745b085c9fda5047d9c3825f]: Textual amendment: [S. 2(5)(d)](https://www.legislation.gov.uk/ukpga/2008/10/section/2/5/d) omitted (15.11.2011) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 76(2)(b)](https://www.legislation.gov.uk/ukpga/2011/21/section/76/2/b), [82(1)(g)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/1/g) (with [s. 76(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/76/3))
+[^c-7e1bc028745b085c9fda5047d9c3825f]: Textual amendment: [S. 2(5)(d)](https://www.legislation.gov.uk/ukpga/2008/10/section/2/5/d) omitted (15.11.2011) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 76(2)(b)](https://www.legislation.gov.uk/ukpga/2011/21/section/76/2/b), [82(1)(g)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/1/g) (with [s. 76(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/76/3))
 
-[^key-47d5aa5931aaf44e3e738d4fbd0f1d28]: Textual amendment: [S. 8(1A)](https://www.legislation.gov.uk/ukpga/2008/10/section/8/1A) inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2), [Sch. para. 14(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/14/a)
+[^c-47d5aa5931aaf44e3e738d4fbd0f1d28]: Textual amendment: [S. 8(1A)](https://www.legislation.gov.uk/ukpga/2008/10/section/8/1A) inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2), [Sch. para. 14(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/14/a)
 
-[^key-6efd36c8e56db532a650ff999f3f0541]: Textual amendment: Words in [s. 8(2)](https://www.legislation.gov.uk/ukpga/2008/10/section/8/2) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2), [Sch. para. 14(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/14/b)
+[^c-6efd36c8e56db532a650ff999f3f0541]: Textual amendment: Words in [s. 8(2)](https://www.legislation.gov.uk/ukpga/2008/10/section/8/2) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2), [Sch. para. 14(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/14/b)

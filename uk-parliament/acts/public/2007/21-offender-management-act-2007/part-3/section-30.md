@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Use in criminal proceedings of evidence from polygraph sessions[^key-8f05aa1e9f0f6b2d43d2434b1fec9403]
+## 30. Use in criminal proceedings of evidence from polygraph sessions[^c-8f05aa1e9f0f6b2d43d2434b1fec9403]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f05aa1e9f0f6b2d43d2434b1fec9403]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2007/21/section/30) in force at 19.1.2009 by [S.I. 2009/32](https://www.legislation.gov.uk/uksi/2009/32), [art. 2](https://www.legislation.gov.uk/uksi/2009/32/article/2)
+[^c-8f05aa1e9f0f6b2d43d2434b1fec9403]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2007/21/section/30) in force at 19.1.2009 by [S.I. 2009/32](https://www.legislation.gov.uk/uksi/2009/32), [art. 2](https://www.legislation.gov.uk/uksi/2009/32/article/2)

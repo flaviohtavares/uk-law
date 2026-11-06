@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 150. Search and inspection of the register by adoption agencies[^key-158d34a6d537c5cf0745ed31d23c7c76]
+## 150. Search and inspection of the register by adoption agencies[^c-158d34a6d537c5cf0745ed31d23c7c76]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-158d34a6d537c5cf0745ed31d23c7c76]: Commencement: S. 150 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-158d34a6d537c5cf0745ed31d23c7c76]: Commencement: S. 150 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

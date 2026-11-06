@@ -24,11 +24,11 @@ Regulation 26
 
 ### PART 1 — Introductory
 
-#### 1. Interpretation[^key-ae7253f5c70e3aac965711ba08f1cda7]
+#### 1. Interpretation[^c-ae7253f5c70e3aac965711ba08f1cda7]
 
 In this Schedule, “animal” (“*anifail*”) means solipeds, ruminants, pigs, rabbits, poultry or ratites.
 
-#### 2. Scope[^key-5ff697d58f24df78ff7126fdb3f56776]
+#### 2. Scope[^c-5ff697d58f24df78ff7126fdb3f56776]
 
 (1) This Schedule applies to—
 
@@ -41,7 +41,7 @@ In this Schedule, “animal” (“*anifail*”) means solipeds, ruminants, pigs
 - (a) Parts 2 and 3 do not apply; and
 - (b) Part 4 does not apply unless the animal is killed by bleeding.
 
-#### 3. Exemptions[^key-5714da01afa3a8e487fdd941b308920c]
+#### 3. Exemptions[^c-5714da01afa3a8e487fdd941b308920c]
 
 (1) Nothing in this Schedule applies to—
 
@@ -50,11 +50,11 @@ In this Schedule, “animal” (“*anifail*”) means solipeds, ruminants, pigs
 - (c) the killing of a pig, sheep or goat by its owner for the owner’s private domestic consumption unless it is killed by bleeding in which case it must be stunned and bled in accordance with Part 5; or
 - (d) the killing of surplus chicks which are less than 72 hours old or embryos in hatchery waste provided that paragraph 44 is complied with.
 
-(2) In this paragraph, “disease control” (“*rheoli clefyd*”) means the control by the competent authority of any disease which is notifiable by or under the provisions of the Animal Health Act 1981[^f00018] or in pursuance of any[^key-709bb8ecd0ef2c42a79378df5ba12e17] assimilated[^key-8906d7b5d1ab9f124db69806bfcc9c2e] obligation.
+(2) In this paragraph, “disease control” (“*rheoli clefyd*”) means the control by the competent authority of any disease which is notifiable by or under the provisions of the Animal Health Act 1981[^f00018] or in pursuance of any[^c-709bb8ecd0ef2c42a79378df5ba12e17] assimilated[^c-8906d7b5d1ab9f124db69806bfcc9c2e] obligation.
 
 ### PART 2 — Layout, construction and equipment of premises
 
-#### 4. General requirements[^key-2942fbe869a7f292f513d073af202f90]
+#### 4. General requirements[^c-2942fbe869a7f292f513d073af202f90]
 
 The business operator must ensure that—
 
@@ -64,7 +64,7 @@ The business operator must ensure that—
 - (d) any instrument, restraining equipment, other equipment or installation which is used for stunning or killing is designed, constructed and maintained so as to facilitate rapid and effective stunning or killing; and
 - (e) any defect found in back-up stunning or killing equipment is rectified forthwith.
 
-#### 5. Animals delivered other than in containers[^key-bce801ff5758cb561e052668d422c0ec]
+#### 5. Animals delivered other than in containers[^c-bce801ff5758cb561e052668d422c0ec]
 
 The business operator must ensure that—
 
@@ -73,7 +73,7 @@ The business operator must ensure that—
 - (c) exit and entry ramps have the minimum possible incline; and
 - (d) all passageways are constructed to minimise the risk of injury to an animal and arranged to take account of the gregarious tendencies of the animals which use them.
 
-#### 6. Lairages other than field lairages[^key-db57545a5ee78a521980fa4aa7b33785]
+#### 6. Lairages other than field lairages[^c-db57545a5ee78a521980fa4aa7b33785]
 
 The business operator must ensure that—
 
@@ -86,7 +86,7 @@ The business operator must ensure that—
   - (v) where necessary, suitable equipment for tethering animals; and
   - (vi) drinking facilities and racks, mangers or other equipment adequate in number and size for the watering and feeding of all animals confined in the lairage, fixed where practicable, and constructed and placed so that they are easily accessible to all the animals, can readily be filled and cannot readily be fouled.
 
-#### 7. Field lairages[^key-15c28c94d795b97ffd568e248a12836d]
+#### 7. Field lairages[^c-15c28c94d795b97ffd568e248a12836d]
 
 The business operator must ensure that a field lairage—
 
@@ -96,7 +96,7 @@ The business operator must ensure that a field lairage—
 - (d) has adequate lighting (whether fixed or portable) available to enable the animals to be thoroughly inspected at any time; and
 - (e) is provided with drinking facilities and, if necessary, with racks, mangers or other equipment adequate in number and size for the watering and feeding of all animals confined in the field lairage, fixed where practicable, and constructed and placed so that they are easily accessible to all the animals, can readily be filled and cannot readily be fouled.
 
-#### 8. Shackle lines[^key-0621d7c9365e3252b6cc54ae502f7d8f]
+#### 8. Shackle lines[^c-0621d7c9365e3252b6cc54ae502f7d8f]
 
 The business operator must ensure that—
 
@@ -104,7 +104,7 @@ The business operator must ensure that—
 - (b) the whole length of the shackle line up to the point of entry into the scald tank is immediately accessible to any person so that poultry may, if necessary, receive attention; and
 - (c) there is ready access to any shackle line or processing equipment used for live poultry and to any controls of such equipment.
 
-#### 9. Stunning pens[^key-976632bb881bf2f1ecba8fda18a98394]
+#### 9. Stunning pens[^c-976632bb881bf2f1ecba8fda18a98394]
 
 The business operator must ensure that a stunning pen used to restrain adult bovine animals for the purpose of stunning is constructed so as to—
 
@@ -113,7 +113,7 @@ The business operator must ensure that a stunning pen used to restrain adult bov
 - (c) restrict the movement of the head of an animal confined in it so as to permit accurate stunning and allow the head of an animal to be released immediately after the animal has been stunned; and
 - (d) allow unimpeded access to the forehead of an animal confined in it.
 
-#### 10. Facilities for horses[^key-1046d75a33ff91c739d6b837902e61a1]
+#### 10. Facilities for horses[^c-1046d75a33ff91c739d6b837902e61a1]
 
 Where a knacker’s yard is one in which horses are killed, the business operator must ensure that—
 
@@ -122,7 +122,7 @@ Where a knacker’s yard is one in which horses are killed, the business operato
 
 ### PART 3 — Handling operations
 
-#### 11. General requirements[^key-ab6f9cb9ca1be03f655fd8671acdcad3]
+#### 11. General requirements[^c-ab6f9cb9ca1be03f655fd8671acdcad3]
 
 The business operator and any person engaged in the movement or lairaging of animals must ensure that—
 
@@ -132,25 +132,25 @@ The business operator and any person engaged in the movement or lairaging of ani
 - (d) pending the killing of a sick or disabled animal it is kept apart from any animal which is not sick or disabled; and
 - (e) no person drags an animal which has been stunned or killed over any other animal which has not been stunned or killed.
 
-#### 12. Inspection of animals[^key-ecc6c366d723b2c3e8ef3ca0a1bb7f67]
+#### 12. Inspection of animals[^c-ecc6c366d723b2c3e8ef3ca0a1bb7f67]
 
 The business operator must ensure that the condition and state of health of every animal is inspected at least every morning and evening by the business operator or by a competent person acting on the business operator’s behalf.
 
-#### 13. Animals which have experienced pain or suffering and unweaned animals[^key-826e07de39aca1afef4bdcce7b3109f5]
+#### 13. Animals which have experienced pain or suffering and unweaned animals[^c-826e07de39aca1afef4bdcce7b3109f5]
 
 The business operator and any person engaged in the movement or lairaging of animals must ensure that the following animals are killed immediately—
 
 - (a) animals which have experienced pain or suffering during transport or following arrival; and
 - (b) animals which are too young to take solid feed.
 
-#### 14. Emergency killing[^key-8c4592c646fe429d8eb3d4a2169a1e80]
+#### 14. Emergency killing[^c-8c4592c646fe429d8eb3d4a2169a1e80]
 
 The business operator and any person engaged in the movement or lairaging of animals must ensure that an animal which is unable to walk is not dragged to its place of killing but—
 
 - (a) is killed where it lies; or
 - (b) if it is possible and to do so would not cause any unnecessary pain or suffering, is transported on a trolley or movable platform to a place of emergency killing where it is then immediately killed.
 
-#### 15. Animals delivered other than in containers[^key-955de7317e97ec95258297d6c2071dbd]
+#### 15. Animals delivered other than in containers[^c-955de7317e97ec95258297d6c2071dbd]
 
 The business operator and any person engaged in the movement or lairaging of animals which are delivered other than in a container must ensure that—
 
@@ -159,23 +159,23 @@ The business operator and any person engaged in the movement or lairaging of ani
 - (c) if an animal is not killed immediately on arrival, it is lairaged; and
 - (d) no animal is taken to the place of killing unless it can be killed without delay.
 
-#### 16. The lifting or dragging of animals[^key-f1441fc4f5a4abb81d8e8ff2c945bfd5]
+#### 16. The lifting or dragging of animals[^c-f1441fc4f5a4abb81d8e8ff2c945bfd5]
 
 No person may lift or drag an animal by the head, horns, ears, feet, tail, fleece or any other part of its body in such a way as to cause it unnecessary pain or suffering.
 
-#### 17. The driving of animals[^key-d360bb2adf187a602d7d986365feac2a]
+#### 17. The driving of animals[^c-d360bb2adf187a602d7d986365feac2a]
 
 No person may lead or drive an animal over ground or floor, the nature or condition of which is likely to cause the animal to slip or fall.
 
-#### 18. Moving animals with care[^key-e138e5504ce6133c477099cfce356aca]
+#### 18. Moving animals with care[^c-e138e5504ce6133c477099cfce356aca]
 
 The business operator and any person engaged in the movement of animals must ensure that every animal is moved with care and, when necessary, that animals are led individually.
 
-#### 19. Instruments to guide animals[^key-52ab14cb10d89e5964abdbcff6960842]
+#### 19. Instruments to guide animals[^c-52ab14cb10d89e5964abdbcff6960842]
 
 The business operator and any person engaged in the movement of animals must ensure that any instrument intended for guiding an animal is used solely for that purpose and only for short periods on individual animals.
 
-#### 20. Instruments to make animals move[^key-f1ea575f1842437bff3f63c210e515d0]
+#### 20. Instruments to make animals move[^c-f1ea575f1842437bff3f63c210e515d0]
 
 No person may use an instrument which administers an electric shock to make an animal move, except that such an instrument which has been designed for the purpose of making an animal move may be used on adult bovine animals and adult pigs which refuse to move, provided that—
 
@@ -184,7 +184,7 @@ No person may use an instrument which administers an electric shock to make an a
 - (c) the animal has room ahead of it in which to move; and
 - (d) such shocks are applied only to the muscles of the hindquarters.
 
-#### 21. Treatment of animals[^key-6551831f7ac547aede1b8d230fa9e9a8]
+#### 21. Treatment of animals[^c-6551831f7ac547aede1b8d230fa9e9a8]
 
 No person may—
 
@@ -192,7 +192,7 @@ No person may—
 - (b) crush, twist or break the tail of an animal or grasp the eyes of an animal; or
 - (c) inflict any blow or kick to an animal.
 
-#### 22. Lairaging of animals[^key-e1006099843154ec226d26961e22c760]
+#### 22. Lairaging of animals[^c-e1006099843154ec226d26961e22c760]
 
 The business operator and any person engaged in the lairaging of an animal must ensure that—
 
@@ -203,7 +203,7 @@ The business operator and any person engaged in the lairaging of an animal must 
 - (e) an animal which is lairaged untethered is able to lie down, stand up and turn round without difficulty; and
 - (f) an animal which is lairaged tethered is able to lie down and stand up without difficulty.
 
-#### 23. Handling of animals delivered in containers[^key-1267f255b4e166e0b63c61c00717ce5f]
+#### 23. Handling of animals delivered in containers[^c-1267f255b4e166e0b63c61c00717ce5f]
 
 The business operator and any person engaged in the movement of animals delivered in containers must ensure that—
 
@@ -212,7 +212,7 @@ The business operator and any person engaged in the movement of animals delivere
 - (c) any animal delivered in a container with a perforated or flexible bottom is unloaded with particular care in order to avoid injury; and
 - (d) where appropriate, animals are unloaded from containers individually.
 
-#### 24. Killing of animals delivered in containers[^key-42c1eeb71e97cc52ee7340a4830890af]
+#### 24. Killing of animals delivered in containers[^c-42c1eeb71e97cc52ee7340a4830890af]
 
 The business operator and any person engaged in the movement or handling of animals delivered in containers must ensure that—
 
@@ -221,7 +221,7 @@ The business operator and any person engaged in the movement or handling of anim
   - (i) the animals have drinking water available to them from appropriate facilities at all times; and
   - (ii) a sufficient quantity of wholesome food is provided for the animals on arrival at the lairage and twice daily thereafter, except that no animal need be fed within 12 hours of the time at which it is killed.
 
-#### 25. Poultry awaiting killing at place of purchase[^key-d220a4637487f1e7a49eab74225e562b]
+#### 25. Poultry awaiting killing at place of purchase[^c-d220a4637487f1e7a49eab74225e562b]
 
 The business operator or person in charge of any premises at which poultry are offered or exposed for sale prior to being killed there must ensure that, on arrival at the premises, the poultry are without delay—
 
@@ -230,18 +230,18 @@ The business operator or person in charge of any premises at which poultry are o
 
 ### PART 4 — Restraining operations
 
-#### 26. General requirement[^key-72b34a03444d4168511563f1d199cada]
+#### 26. General requirement[^c-72b34a03444d4168511563f1d199cada]
 
 No person may stun or kill an animal without restraining it in an appropriate manner.
 
-#### 27. Restraining bovine animals[^key-eb3c180202a097d0d3b0ca5b91056f43]
+#### 27. Restraining bovine animals[^c-eb3c180202a097d0d3b0ca5b91056f43]
 
 Without prejudice to the generality of paragraph 26, no person may stun an adult bovine animal in a knacker’s yard unless at the time it is stunned—
 
 - (a) it is confined in a stunning pen which is in good working order; or
 - (b) its head is securely fastened in such a position so as to enable it to be stunned without infliction of avoidable pain, distress or suffering.
 
-#### 28. Electric currents[^key-c82f7b97998787454cb58fe7f05f66da]
+#### 28. Electric currents[^c-c82f7b97998787454cb58fe7f05f66da]
 
 No person may use electrical stunning or killing equipment or any other instrument which applies an electric current to an animal—
 
@@ -249,11 +249,11 @@ No person may use electrical stunning or killing equipment or any other instrume
 - (b) as a means of immobilising an animal; or
 - (c) except in accordance with paragraph 20 of this Schedule, as a means of making an animal move.
 
-#### 29. Tying legs[^key-6e8f088d3e18564266589e0c54379c42]
+#### 29. Tying legs[^c-6e8f088d3e18564266589e0c54379c42]
 
 No person may tie the legs of an animal.
 
-#### 30. Suspending animals[^key-4ac2e9f6d74ab9c3fadebf3bf682ce32]
+#### 30. Suspending animals[^c-4ac2e9f6d74ab9c3fadebf3bf682ce32]
 
 (1) No person may suspend an animal before stunning or killing.
 
@@ -262,7 +262,7 @@ No person may tie the legs of an animal.
 - (a) appropriate measures are taken to ensure that, at the point of being stunned or killed, the poultry are in a sufficiently relaxed state for stunning or killing to be carried out effectively and without undue delay; and
 - (b) no poultry are suspended for more than 3 minutes in the case of a turkey or 2 minutes in other cases before being stunned or killed.
 
-#### 31. Shackle lines[^key-d068c1376584f6e54bd93ef1af8d71ef]
+#### 31. Shackle lines[^c-d068c1376584f6e54bd93ef1af8d71ef]
 
 (1) No person may operate a shackle line unless—
 
@@ -272,19 +272,19 @@ No person may tie the legs of an animal.
 
 (2) No person may, in connection with the stunning or killing of poultry, use a shackle line, machine or other equipment unless it is used in connection with the stunning or killing of poultry of the type, size and weight for which it was designed, save in an emergency where it is used to relieve suffering.
 
-#### 32. Restraining operations[^key-492d97e82f1ec54adce51a5c2c729ffe]
+#### 32. Restraining operations[^c-492d97e82f1ec54adce51a5c2c729ffe]
 
 The business operator and any person engaged in the stunning or killing of an animal must ensure that an animal which is to be stunned or killed by mechanical or electrical means applied to the head is presented in such a position that the equipment can be applied and operated easily, accurately and for the appropriate time.
 
 ### PART 5 — Stunning and killing operations
 
-#### 33. General requirements[^key-9d7cbe0d3e749e7fe7ac69143f1c7ba1]
+#### 33. General requirements[^c-9d7cbe0d3e749e7fe7ac69143f1c7ba1]
 
 (1) The business operator and any person engaged in the stunning or killing of an animal must ensure that any instrument, restraining equipment, installation or other equipment which is used for stunning or killing is used in such a way as to facilitate rapid and effective stunning or killing.
 
 (2) In the case of simple stunning, no person may stun an animal unless it is possible to kill it without delay.
 
-#### 34. Penetrative captive bolts[^key-6141526ca01cd3ca743df392ba355c80]
+#### 34. Penetrative captive bolts[^c-6141526ca01cd3ca743df392ba355c80]
 
 (1) No person may use a penetrative captive bolt device to stun an animal unless—
 
@@ -300,17 +300,17 @@ The business operator and any person engaged in the stunning or killing of an an
 
 (4) A person who uses a captive bolt device must check that the bolt is retracted to its full extent after each shot and if it is not so retracted must ensure that the device is not used again until it has been repaired.
 
-#### 35. Non-penetrative captive bolts[^key-372b69d215a7e85d017344a1b6896e00]
+#### 35. Non-penetrative captive bolts[^c-372b69d215a7e85d017344a1b6896e00]
 
 No person may stun an animal using a non-penetrative captive bolt except by an instrument which is applied in the proper position and which is used with the correct strength of cartridge or other propellant in accordance with the manufacturer’s instructions to produce an effective stun.
 
-#### 36. Percussive blow to the head[^key-ba741de028aef5a7f7ee913793f26cbe]
+#### 36. Percussive blow to the head[^c-ba741de028aef5a7f7ee913793f26cbe]
 
 (1) No person may stun an animal using a non-mechanical percussive blow to the head.
 
 (2) But the prohibition in sub-paragraph (1) does not apply to rabbits, provided that the operation is carried out in such a way that the rabbit is immediately rendered unconscious and remains so until it is dead.
 
-#### 37. Electrical stunning other than by waterbath[^key-b2a326dfe368d9c931f4e669ce5e7fa5]
+#### 37. Electrical stunning other than by waterbath[^c-b2a326dfe368d9c931f4e669ce5e7fa5]
 
 (1) No person may use electrodes to stun an animal unless—
 
@@ -322,7 +322,7 @@ No person may stun an animal using a non-penetrative captive bolt except by an i
 - (a) incorporates an audible or visible device indicating the length of time of its application to an animal; and
 - (b) is connected to a device indicating the voltage and the current under load, positioned so as to be clearly visible to the operator.
 
-#### 38. Electrical stunning by waterbath[^key-32e4c531243ffe6fa71293a63037a05f]
+#### 38. Electrical stunning by waterbath[^c-32e4c531243ffe6fa71293a63037a05f]
 
 No person may use a waterbath stunner to stun poultry unless—
 
@@ -335,7 +335,7 @@ No person may use a waterbath stunner to stun poultry unless—
 - (g) the electrode which is immersed in the water extends the length of the waterbath; and
 - (h) a person is available to ascertain whether the waterbath stunner has been effective in stunning the poultry and, if it has not been effective, will either stun or kill the poultry without delay.
 
-#### 39. Exposure to gas – prohibition[^key-d4303d2247a5b585df73a1fb620f55cb]
+#### 39. Exposure to gas – prohibition[^c-d4303d2247a5b585df73a1fb620f55cb]
 
 (1) No person may stun an animal outside a slaughterhouse by exposure to gas.
 
@@ -346,7 +346,7 @@ No person may use a waterbath stunner to stun poultry unless—
 
 provided that pigs or poultry are stunned in accordance with paragraphs 40 or 41, as appropriate.
 
-#### 40. Exposure to gas – pigs[^key-b46c707bcea53643feb14cec6a934b0f]
+#### 40. Exposure to gas – pigs[^c-b46c707bcea53643feb14cec6a934b0f]
 
 (1) No person may stun pigs by exposure to gas unless each pig is exposed to the gas for long enough to ensure it is killed.
 
@@ -374,7 +374,7 @@ provided that pigs or poultry are stunned in accordance with paragraphs 40 or 41
 - (a) no pig enters the gas stunner if the displayed concentration by volume of carbon dioxide in the gas mixture falls below 80%; and
 - (b) once a pig enters the gas stunner it is conveyed to the point in the gas stunner of maximum concentration of the gas mixture within a maximum period of 30 seconds.
 
-#### 41. Exposure to gas – poultry[^key-a9d36cec5d4b68e241406a82e44d37aa]
+#### 41. Exposure to gas – poultry[^c-a9d36cec5d4b68e241406a82e44d37aa]
 
 (1) No person may stun poultry by exposure to gas unless—
 
@@ -407,7 +407,7 @@ provided that pigs or poultry are stunned in accordance with paragraphs 40 or 41
 
 (5) In sub-paragraph (4), “poultry shed” (“*sied dofednod*”) means a building designed and constructed to house poultry that has been previously sealed so as to be capable of containing the gas mixtures in Table 3 of Chapter I of Annex 1.
 
-#### 42. Bleeding or pithing[^key-fed9f8d57bb3c02a1ed30b7f228a3758]
+#### 42. Bleeding or pithing[^c-fed9f8d57bb3c02a1ed30b7f228a3758]
 
 (1) A person engaged in the bleeding or pithing of an animal which has been simple stunned must ensure that the animal is bled or pithed without delay after it has been simple stunned.
 
@@ -430,7 +430,7 @@ provided that pigs or poultry are stunned in accordance with paragraphs 40 or 41
 
 (6) Where one person is responsible for the simple stunning and bleeding of birds or rabbits, those operations must be carried out by that person consecutively in respect of one bird or rabbit before being so carried out by that person in respect of another bird or rabbit.
 
-#### 43. Horses[^key-a74ddc5a2b65b851107a785080150483]
+#### 43. Horses[^c-a74ddc5a2b65b851107a785080150483]
 
 No person may kill a horse in a knacker’s yard—
 
@@ -438,7 +438,7 @@ No person may kill a horse in a knacker’s yard—
 - (b) in a room or bay in which there are the remains of a horse or other animal; or
 - (c) within sight of any other horse.
 
-#### 44. Surplus chicks in hatchery waste[^key-b3a20e9a9962e8ae2ab3b9655dd0cb5e]
+#### 44. Surplus chicks in hatchery waste[^c-b3a20e9a9962e8ae2ab3b9655dd0cb5e]
 
 (1) No person may kill surplus chicks which are less than 72 hours old in hatchery waste except by one of the following methods—
 
@@ -452,96 +452,96 @@ No person may kill a horse in a knacker’s yard—
 
 ## Annotations
 
-[^key-ae7253f5c70e3aac965711ba08f1cda7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/1) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-ae7253f5c70e3aac965711ba08f1cda7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/1) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-5ff697d58f24df78ff7126fdb3f56776]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/2) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-5ff697d58f24df78ff7126fdb3f56776]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/2) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-5714da01afa3a8e487fdd941b308920c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/3) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-5714da01afa3a8e487fdd941b308920c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/3) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
 [^f00018]: Footnote: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22).
 
-[^key-709bb8ecd0ef2c42a79378df5ba12e17]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/3/2) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [5(7)](https://www.legislation.gov.uk/wsi/2019/684/regulation/5/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-709bb8ecd0ef2c42a79378df5ba12e17]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/3/2) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [5(7)](https://www.legislation.gov.uk/wsi/2019/684/regulation/5/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8906d7b5d1ab9f124db69806bfcc9c2e]: Textual amendment: Word in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/3/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [17](https://www.legislation.gov.uk/wsi/2023/1332/regulation/17)
+[^c-8906d7b5d1ab9f124db69806bfcc9c2e]: Textual amendment: Word in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/3/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [17](https://www.legislation.gov.uk/wsi/2023/1332/regulation/17)
 
-[^key-2942fbe869a7f292f513d073af202f90]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/4) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-2942fbe869a7f292f513d073af202f90]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/4) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-bce801ff5758cb561e052668d422c0ec]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/5) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-bce801ff5758cb561e052668d422c0ec]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/5) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-db57545a5ee78a521980fa4aa7b33785]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/6) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-db57545a5ee78a521980fa4aa7b33785]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/6) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-15c28c94d795b97ffd568e248a12836d]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/7) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-15c28c94d795b97ffd568e248a12836d]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/7) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-0621d7c9365e3252b6cc54ae502f7d8f]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/8) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-0621d7c9365e3252b6cc54ae502f7d8f]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/8) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-976632bb881bf2f1ecba8fda18a98394]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/9) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-976632bb881bf2f1ecba8fda18a98394]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/9) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-1046d75a33ff91c739d6b837902e61a1]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/10) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-1046d75a33ff91c739d6b837902e61a1]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/10) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-ab6f9cb9ca1be03f655fd8671acdcad3]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/11) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-ab6f9cb9ca1be03f655fd8671acdcad3]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/11) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-ecc6c366d723b2c3e8ef3ca0a1bb7f67]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/12) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-ecc6c366d723b2c3e8ef3ca0a1bb7f67]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/12) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-826e07de39aca1afef4bdcce7b3109f5]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/13) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-826e07de39aca1afef4bdcce7b3109f5]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/13) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-8c4592c646fe429d8eb3d4a2169a1e80]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/14) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-8c4592c646fe429d8eb3d4a2169a1e80]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/14) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-955de7317e97ec95258297d6c2071dbd]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/15) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-955de7317e97ec95258297d6c2071dbd]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/15) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-f1441fc4f5a4abb81d8e8ff2c945bfd5]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/16) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-f1441fc4f5a4abb81d8e8ff2c945bfd5]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/16) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-d360bb2adf187a602d7d986365feac2a]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/17) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-d360bb2adf187a602d7d986365feac2a]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/17) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-e138e5504ce6133c477099cfce356aca]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/18) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-e138e5504ce6133c477099cfce356aca]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/18) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-52ab14cb10d89e5964abdbcff6960842]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/19) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-52ab14cb10d89e5964abdbcff6960842]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/19) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-f1ea575f1842437bff3f63c210e515d0]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/20) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-f1ea575f1842437bff3f63c210e515d0]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/20) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-6551831f7ac547aede1b8d230fa9e9a8]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/21) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-6551831f7ac547aede1b8d230fa9e9a8]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/21) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-e1006099843154ec226d26961e22c760]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/22) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-e1006099843154ec226d26961e22c760]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/22) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-1267f255b4e166e0b63c61c00717ce5f]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/23) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-1267f255b4e166e0b63c61c00717ce5f]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/23) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-42c1eeb71e97cc52ee7340a4830890af]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/24) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-42c1eeb71e97cc52ee7340a4830890af]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/24) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-d220a4637487f1e7a49eab74225e562b]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/25) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-d220a4637487f1e7a49eab74225e562b]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/25) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-72b34a03444d4168511563f1d199cada]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/26) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-72b34a03444d4168511563f1d199cada]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/26) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-eb3c180202a097d0d3b0ca5b91056f43]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/27) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-eb3c180202a097d0d3b0ca5b91056f43]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/27) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-c82f7b97998787454cb58fe7f05f66da]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/28) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-c82f7b97998787454cb58fe7f05f66da]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/28) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-6e8f088d3e18564266589e0c54379c42]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/29) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-6e8f088d3e18564266589e0c54379c42]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/29) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-4ac2e9f6d74ab9c3fadebf3bf682ce32]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/30) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-4ac2e9f6d74ab9c3fadebf3bf682ce32]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/30) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-d068c1376584f6e54bd93ef1af8d71ef]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/31) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-d068c1376584f6e54bd93ef1af8d71ef]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/31) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-492d97e82f1ec54adce51a5c2c729ffe]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/32) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-492d97e82f1ec54adce51a5c2c729ffe]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/32) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-9d7cbe0d3e749e7fe7ac69143f1c7ba1]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/33) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-9d7cbe0d3e749e7fe7ac69143f1c7ba1]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/33) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-6141526ca01cd3ca743df392ba355c80]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/34) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-6141526ca01cd3ca743df392ba355c80]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/34) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-372b69d215a7e85d017344a1b6896e00]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/35) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-372b69d215a7e85d017344a1b6896e00]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/35) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-ba741de028aef5a7f7ee913793f26cbe]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/36) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-ba741de028aef5a7f7ee913793f26cbe]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/36) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-b2a326dfe368d9c931f4e669ce5e7fa5]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/37) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-b2a326dfe368d9c931f4e669ce5e7fa5]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/37) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-32e4c531243ffe6fa71293a63037a05f]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/38) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-32e4c531243ffe6fa71293a63037a05f]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/38) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-d4303d2247a5b585df73a1fb620f55cb]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/39) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-d4303d2247a5b585df73a1fb620f55cb]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/39) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-b46c707bcea53643feb14cec6a934b0f]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/40) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-b46c707bcea53643feb14cec6a934b0f]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/40) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-a9d36cec5d4b68e241406a82e44d37aa]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/41) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-a9d36cec5d4b68e241406a82e44d37aa]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/41) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-fed9f8d57bb3c02a1ed30b7f228a3758]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/42) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-fed9f8d57bb3c02a1ed30b7f228a3758]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/42) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-a74ddc5a2b65b851107a785080150483]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/43) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-a74ddc5a2b65b851107a785080150483]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/43) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-b3a20e9a9962e8ae2ab3b9655dd0cb5e]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/44) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-b3a20e9a9962e8ae2ab3b9655dd0cb5e]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/wsi/2014/951/schedule/2/paragraph/44) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

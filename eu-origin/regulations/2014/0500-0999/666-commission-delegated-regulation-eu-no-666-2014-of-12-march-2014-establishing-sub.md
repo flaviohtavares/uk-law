@@ -35,44 +35,44 @@ establishing substantive requirements for a Union inventory system and taking in
 
 (Text with EEA relevance) (revoked)
 
-[^key-7ff8871c536d93ca67872f46e35315d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ff8871c536d93ca67872f46e35315d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-7ff8871c536d93ca67872f46e35315d6]
+## Article 1. Subject matter[^c-7ff8871c536d93ca67872f46e35315d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Union greenhouse gas inventory[^key-7ff8871c536d93ca67872f46e35315d6]
+## Article 2. Union greenhouse gas inventory[^c-7ff8871c536d93ca67872f46e35315d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Union greenhouse gas inventory quality assurance and quality control programme[^key-7ff8871c536d93ca67872f46e35315d6]
+## Article 3. Union greenhouse gas inventory quality assurance and quality control programme[^c-7ff8871c536d93ca67872f46e35315d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Gap filling[^key-7ff8871c536d93ca67872f46e35315d6]
+## Article 4. Gap filling[^c-7ff8871c536d93ca67872f46e35315d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Timescales for cooperation and coordination during the annual reporting process and the UNFCCC review[^key-7ff8871c536d93ca67872f46e35315d6]
+## Article 5. Timescales for cooperation and coordination during the annual reporting process and the UNFCCC review[^c-7ff8871c536d93ca67872f46e35315d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Greenhouse Gas Inventory Guidelines[^key-7ff8871c536d93ca67872f46e35315d6]
+## Article 6. Greenhouse Gas Inventory Guidelines[^c-7ff8871c536d93ca67872f46e35315d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Global Warming Potentials[^key-7ff8871c536d93ca67872f46e35315d6]
+## Article 7. Global Warming Potentials[^c-7ff8871c536d93ca67872f46e35315d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force and application[^key-7ff8871c536d93ca67872f46e35315d6]
+## Article 8. Entry into force and application[^c-7ff8871c536d93ca67872f46e35315d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7ff8871c536d93ca67872f46e35315d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ff8871c536d93ca67872f46e35315d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7ff8871c536d93ca67872f46e35315d6]: Textual amendment: Regulation revoked (20.5.2021) by [The Climate and Energy (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/519)](https://www.legislation.gov.uk/uksi/2021/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/519/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/519/schedule)
+[^c-7ff8871c536d93ca67872f46e35315d6]: Textual amendment: Regulation revoked (20.5.2021) by [The Climate and Energy (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/519)](https://www.legislation.gov.uk/uksi/2021/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/519/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/519/schedule)

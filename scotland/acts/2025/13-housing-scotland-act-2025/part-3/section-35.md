@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Private residential tenancies: keeping pets and making changes to let property[^key-27d059f8625463a1f10cc96b43338799][^key-0b35a0eaa10eb282b897b312e2a5cb32]
+## 35. Private residential tenancies: keeping pets and making changes to let property[^c-27d059f8625463a1f10cc96b43338799][^c-0b35a0eaa10eb282b897b312e2a5cb32]
 
 *Extent: S*
 
@@ -329,6 +329,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27d059f8625463a1f10cc96b43338799]: Commencement: S. 35 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-27d059f8625463a1f10cc96b43338799]: Commencement: S. 35 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-0b35a0eaa10eb282b897b312e2a5cb32]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2025/13/section/35) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-0b35a0eaa10eb282b897b312e2a5cb32]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2025/13/section/35) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

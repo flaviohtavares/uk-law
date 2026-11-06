@@ -22,7 +22,7 @@ summary: ''
 
 Article 39
 
-### 1. Applications made under Requirements[^key-728883b0e9fa9d0d517082e7f19c0b62]
+### 1. Applications made under Requirements[^c-728883b0e9fa9d0d517082e7f19c0b62]
 
 (1) Where an application has been made to the relevant planning authority for any consent, agreement or approval required by a Requirement (including agreement or approval in respect of part of a Requirement) included in this Order the relevant planning authority must give notice to the undertaker of their decision on the application within a period of eight (8) weeks beginning with—
 
@@ -38,7 +38,7 @@ Article 39
 - (b) the relevant planning authority does not determine such application within the period set out in sub-paragraph (1); and
 - (c) such application is accompanied by a report that considers it likely that the subject matter of such application will give rise to any materially new or materially different environmental effects in comparison with the authorised development as approved, then the application is to be taken to have been refused by the relevant planning authority at the end of that period.
 
-### 2. Further information[^key-ae3e1a662c7129771f0e8d6dd1803d94]
+### 2. Further information[^c-ae3e1a662c7129771f0e8d6dd1803d94]
 
 (1) In relation to any part of the application to which this Schedule applies, the relevant planning authority has the right to request such further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -46,7 +46,7 @@ Article 39
 
 (3) Where further information is requested under this paragraph in relation to part only of an application, that part is to be treated as separate from the remainder of the application for the purposes of calculating time periods in paragraph 1(1)(b), paragraph 1(3) and this paragraph.
 
-### 3. Appeals[^key-d6a143a14995155d64aafa9ee4ba8901]
+### 3. Appeals[^c-d6a143a14995155d64aafa9ee4ba8901]
 
 (1) The undertaker may appeal in the event that—
 
@@ -91,8 +91,8 @@ and may deal with the application as if it had been made to him in the first ins
 
 ## Annotations
 
-[^key-728883b0e9fa9d0d517082e7f19c0b62]: Commencement: Sch. 10 para. 1 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-728883b0e9fa9d0d517082e7f19c0b62]: Commencement: Sch. 10 para. 1 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
 
-[^key-ae3e1a662c7129771f0e8d6dd1803d94]: Commencement: Sch. 10 para. 2 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-ae3e1a662c7129771f0e8d6dd1803d94]: Commencement: Sch. 10 para. 2 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
 
-[^key-d6a143a14995155d64aafa9ee4ba8901]: Commencement: Sch. 10 para. 3 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-d6a143a14995155d64aafa9ee4ba8901]: Commencement: Sch. 10 para. 3 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)

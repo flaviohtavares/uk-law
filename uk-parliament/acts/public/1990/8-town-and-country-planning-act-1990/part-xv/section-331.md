@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 331. Offences by corporations.[^c14032061][^key-b19c61150636ddcce18407ad43612040][^c14032051]
+## 331. Offences by corporations.[^c14032061][^c-b19c61150636ddcce18407ad43612040][^c14032051]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ means a member of that body corporate.
 
     S. 331 restricted (E.) (13.4.2001) by [S.I. 2001/1478](https://www.legislation.gov.uk/uksi/2001/1478), [art. 3(a)](https://www.legislation.gov.uk/uksi/2001/1478/article/3/a)
 
-[^key-b19c61150636ddcce18407ad43612040]: Modification: [S. 331](https://www.legislation.gov.uk/ukpga/1990/8/section/331) applied (23.5.2024) by [The Management of Hedgerows (England) Regulations 2024 (S.I. 2024/680)](https://www.legislation.gov.uk/uksi/2024/680), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2024/680/regulation/7/5)
+[^c-b19c61150636ddcce18407ad43612040]: Modification: [S. 331](https://www.legislation.gov.uk/ukpga/1990/8/section/331) applied (23.5.2024) by [The Management of Hedgerows (England) Regulations 2024 (S.I. 2024/680)](https://www.legislation.gov.uk/uksi/2024/680), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/680/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2024/680/regulation/7/5)
 
 [^c14032051]: Modification: S. 331 applied by [Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1990/9), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1990/9/section/89/1); excluded by [Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1990/9), [s. 89(2)](https://www.legislation.gov.uk/ukpga/1990/9/section/89/2); applied (11.3.1992 so far as to confer on the Secretary of State a power to impose on him a duty to make regulations, or make provision with respect to the exercise of any such power or duty, 1.6.1992 so far as not already in force) by [Planning (Hazardous Substances) Act 1990 (c. 10, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1990/10), [s. 37(2)](https://www.legislation.gov.uk/ukpga/1990/10/section/37/2); [S.I. 1992/725](https://www.legislation.gov.uk/uksi/1992/725), [arts. 2](https://www.legislation.gov.uk/uksi/1992/725/article/2), [3](https://www.legislation.gov.uk/uksi/1992/725/article/3)

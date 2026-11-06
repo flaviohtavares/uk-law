@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Effect of bankruptcy on pension rights: unapproved arrangements.[^c1314215][^key-395e01f2d8e1e8c5af9d53686c10bad4][^key-851be2417ff683b63e4200eea2579b4b]
+## 12. Effect of bankruptcy on pension rights: unapproved arrangements.[^c1314215][^c-395e01f2d8e1e8c5af9d53686c10bad4][^c-851be2417ff683b63e4200eea2579b4b]
 
 *Extent: E+W+S*
 
@@ -49,8 +49,8 @@ summary: ''
 
 [^c1314215]: Commencement: S. 12 wholly in force at 6.4.2002; s. 12 in force for certain purposes at Royal Assent see s. 89(1)(5); s. 12 in force at 6.4.2002 insofar as not already in force by [S.I. 2002/153](https://www.legislation.gov.uk/uksi/2002/153), [art. 2(b)](https://www.legislation.gov.uk/uksi/2002/153/article/2/b)
 
-[^key-395e01f2d8e1e8c5af9d53686c10bad4]: Modification: Ss. 11-13 modified (30.12.2005) by [Occupational Pension Schemes (Cross-border Activities) Regulations 2005 (S.I. 2005/3381)](https://www.legislation.gov.uk/uksi/2005/3381), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3381/regulation/1), [16](https://www.legislation.gov.uk/uksi/2005/3381/regulation/16), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2005/3381/schedule/2/paragraph/5)
+[^c-395e01f2d8e1e8c5af9d53686c10bad4]: Modification: Ss. 11-13 modified (30.12.2005) by [Occupational Pension Schemes (Cross-border Activities) Regulations 2005 (S.I. 2005/3381)](https://www.legislation.gov.uk/uksi/2005/3381), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3381/regulation/1), [16](https://www.legislation.gov.uk/uksi/2005/3381/regulation/16), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2005/3381/schedule/2/paragraph/5)
 
-[^key-851be2417ff683b63e4200eea2579b4b]: Modification: S. 12 excluded by 1985 c. 66, s. 32A(5) (as inserted (30.6.2014 for specified purposes, 1.4.2015 in so far as not already in force) by [Bankruptcy and Debt Advice (Scotland) Act 2014 (asp 11)](https://www.legislation.gov.uk/asp/2014/11), [ss. 4](https://www.legislation.gov.uk/asp/2014/11/section/4), [57(2)](https://www.legislation.gov.uk/asp/2014/11/section/57/2); [S.S.I. 2014/172](https://www.legislation.gov.uk/ssi/2014/172), [art. 2](https://www.legislation.gov.uk/ssi/2014/172/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/172/schedule); [S.S.I. 2014/261](https://www.legislation.gov.uk/ssi/2014/261), [art. 3](https://www.legislation.gov.uk/ssi/2014/261/article/3) (with [arts. 4-7](https://www.legislation.gov.uk/ssi/2014/261/article/4) [12](https://www.legislation.gov.uk/ssi/2014/261/article/12)) (as amended by [S.S.I. 2015/54](https://www.legislation.gov.uk/ssi/2015/54), art. 2))
+[^c-851be2417ff683b63e4200eea2579b4b]: Modification: S. 12 excluded by 1985 c. 66, s. 32A(5) (as inserted (30.6.2014 for specified purposes, 1.4.2015 in so far as not already in force) by [Bankruptcy and Debt Advice (Scotland) Act 2014 (asp 11)](https://www.legislation.gov.uk/asp/2014/11), [ss. 4](https://www.legislation.gov.uk/asp/2014/11/section/4), [57(2)](https://www.legislation.gov.uk/asp/2014/11/section/57/2); [S.S.I. 2014/172](https://www.legislation.gov.uk/ssi/2014/172), [art. 2](https://www.legislation.gov.uk/ssi/2014/172/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/172/schedule); [S.S.I. 2014/261](https://www.legislation.gov.uk/ssi/2014/261), [art. 3](https://www.legislation.gov.uk/ssi/2014/261/article/3) (with [arts. 4-7](https://www.legislation.gov.uk/ssi/2014/261/article/4) [12](https://www.legislation.gov.uk/ssi/2014/261/article/12)) (as amended by [S.S.I. 2015/54](https://www.legislation.gov.uk/ssi/2015/54), art. 2))
 
 [^c1314216]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Protective provisions[^key-018930480701aa8cfc10577412dec824]
+## 36. Protective provisions[^c-018930480701aa8cfc10577412dec824]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 12 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-018930480701aa8cfc10577412dec824]: Commencement: Art. 36 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-018930480701aa8cfc10577412dec824]: Commencement: Art. 36 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)

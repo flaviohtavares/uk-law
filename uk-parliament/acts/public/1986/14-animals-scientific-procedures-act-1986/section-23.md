@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A person is guilty of an offence if for the purpose of obtaining or assisting another person to obtain a licence [^key-0f373c01d330fa9b453316cefacc1e14]... under this Act he furnishes information which he knows to be false or misleading in a material particular or recklessly furnishes information which is false or misleading in a material particular.
+(1) A person is guilty of an offence if for the purpose of obtaining or assisting another person to obtain a licence [^c-0f373c01d330fa9b453316cefacc1e14]... under this Act he furnishes information which he knows to be false or misleading in a material particular or recklessly furnishes information which is false or misleading in a material particular.
 
 (2) A person guilty of an offence under this section shall be liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding the fourth level on the standard scale or to both.
 
 ## Annotations
 
-[^key-0f373c01d330fa9b453316cefacc1e14]: Textual amendment: Words in s. 23(1) omitted (1.1.2013) by virtue of [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [26(11)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/26/11) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-0f373c01d330fa9b453316cefacc1e14]: Textual amendment: Words in s. 23(1) omitted (1.1.2013) by virtue of [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [26(11)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/26/11) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Interpretation[^key-5012e3db2d290acd118b424d0a3e6cbe]
+## 2. Interpretation[^c-5012e3db2d290acd118b424d0a3e6cbe]
 
 *Extent: S*
 
@@ -103,7 +103,7 @@ In these Regulations—
   - (b) in relation to service in the 2006 scheme and this scheme, has the meaning given in paragraph 5 of that Schedule;
 - “continuous period of pensionable service”, in relation to this scheme, means a period of pensionable service under this scheme disregarding any gap in service not exceeding 5 years;
 - “death benefits” means benefits payable under Part 9 (death benefits);
-- “death gratuity” means a gratuity paid under Chapter 8 of Part 9 (death gratuities)[^key-d6562232badc08eb550cb209956ec483];
+- “death gratuity” means a gratuity paid under Chapter 8 of Part 9 (death gratuities)[^c-d6562232badc08eb550cb209956ec483];
 - “deferred member”, in relation to this scheme, has the meaning given in regulation 34;
 - “deferred member’s account” has the meaning given in regulation 55(3);
 - “description of accrued pension” means accrued pension of a description mentioned in regulation 35;
@@ -165,7 +165,7 @@ In these Regulations—
   - (b) otherwise, a lower tier ill-health pension and an enhanced upper tier ill-health pension (if applicable) payable under Part 7 (retirement benefits);
 - “ill-health pension under this scheme” means a lower tier ill-health pension and if applicable an enhanced upper tier ill-health pension payable under Part 7;
 - “index adjustment” means—
-  - (a) in relation to the opening balance of earned pension other than club transfer earned pension for any scheme year, the change in prices in the previous[^key-32a1e73e80f10fe5bf712694a6095470] scheme year[^f00018], plus 1.25%; and
+  - (a) in relation to the opening balance of earned pension other than club transfer earned pension for any scheme year, the change in prices in the previous[^c-32a1e73e80f10fe5bf712694a6095470] scheme year[^f00018], plus 1.25%; and
   - (b) in relation to the opening balance of club transfer earned pension for any scheme year, the in-service revaluation index that the sending scheme would have applied to that amount of earned pension for that scheme year, had the earned pension not been transferred;
 - “injury received in the execution of duty” has the meaning given in regulation 6 of the Police (Injury Benefit) (Scotland) Regulations 2007[^f00019] and “the result of an injury” is construed in accordance with regulation 8 of those Regulations;
 - “Injury Benefits Regulations” means—
@@ -256,7 +256,7 @@ In these Regulations—
 - “scheme year” means a period of one year beginning with 1st April and ending with 31st March;
 - “selected medical practitioner” has the meaning given in Schedule 1 (medical decisions: appeals and reconsideration);
 - “sending scheme” has the meaning given in Part 11 (transfers);
-- “shared parental leave” means—[^key-353cd251fa78f66be5cab1ad374f69ad]
+- “shared parental leave” means—[^c-353cd251fa78f66be5cab1ad374f69ad]
   - (a) for a person in service in the police force, leave of that description taken in accordance with a determination under regulation 25(7) of the 2013 Regulations;
   - (b) for any other person, any period of equivalent leave taken by the person;
 - “sick leave” means—
@@ -284,11 +284,11 @@ In these Regulations—
   - (a) a 1987 transition member; or
   - (b) a 2006 transition member;
 - “upper tier threshold”, in relation to entitlement to payment of an ill-health pension, has the meaning given in regulation 91 (payment thresholds); and
-- “weekly rate”, in relation to a guaranteed minimum pension, has the same meaning as in section 14 of the Pension Schemes Act 1993[^key-0e9bbfde2e47e873870a7e0bacf0b21a].
+- “weekly rate”, in relation to a guaranteed minimum pension, has the same meaning as in section 14 of the Pension Schemes Act 1993[^c-0e9bbfde2e47e873870a7e0bacf0b21a].
 
 ## Annotations
 
-[^key-5012e3db2d290acd118b424d0a3e6cbe]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-5012e3db2d290acd118b424d0a3e6cbe]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00002]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12).
 
@@ -320,11 +320,11 @@ In these Regulations—
 
 [^f00016]: Footnote: Section 8(2) was amended by the Pensions (Miscellaneous Provisions) Act [1990 (c.7)](https://www.legislation.gov.uk/ukpga/1990/7), section 1(5) and the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), section 39(1) and (4). Section 8(2) of the PIA may be applied subject to such modifications, adaptations and exceptions as may be specified in regulations under section 5(3) of that Act.
 
-[^key-d6562232badc08eb550cb209956ec483]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2015/142/regulation/2) substituted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/325)](https://www.legislation.gov.uk/ssi/2015/325), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/325/regulation/1/2), [3](https://www.legislation.gov.uk/ssi/2015/325/regulation/3)
+[^c-d6562232badc08eb550cb209956ec483]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2015/142/regulation/2) substituted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/325)](https://www.legislation.gov.uk/ssi/2015/325), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/325/regulation/1/2), [3](https://www.legislation.gov.uk/ssi/2015/325/regulation/3)
 
 [^f00017]: Footnote: [S.I. 2006/3415](https://www.legislation.gov.uk/uksi/2006/3415).
 
-[^key-32a1e73e80f10fe5bf712694a6095470]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2015/142/regulation/2) substituted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/387)](https://www.legislation.gov.uk/ssi/2017/387), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/387/regulation/1/2), [3(a)](https://www.legislation.gov.uk/ssi/2017/387/regulation/3/a)
+[^c-32a1e73e80f10fe5bf712694a6095470]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2015/142/regulation/2) substituted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/387)](https://www.legislation.gov.uk/ssi/2017/387), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/387/regulation/1/2), [3(a)](https://www.legislation.gov.uk/ssi/2017/387/regulation/3/a)
 
 [^f00018]: Footnote: Under section 9 of the Act the change in prices to be applied in a period is the percentage increase or decrease as a Treasury order under that section may specify in relation to the period.
 
@@ -332,10 +332,10 @@ In these Regulations—
 
 [^f00020]: Footnote: [1996 c.14](https://www.legislation.gov.uk/ukpga/1996/14).
 
-[^key-353cd251fa78f66be5cab1ad374f69ad]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2015/142/regulation/2) inserted (21.12.2017) by [The Police Pension Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/387)](https://www.legislation.gov.uk/ssi/2017/387), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/387/regulation/1/2), [3(b)](https://www.legislation.gov.uk/ssi/2017/387/regulation/3/b)
+[^c-353cd251fa78f66be5cab1ad374f69ad]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2015/142/regulation/2) inserted (21.12.2017) by [The Police Pension Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/387)](https://www.legislation.gov.uk/ssi/2017/387), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/387/regulation/1/2), [3(b)](https://www.legislation.gov.uk/ssi/2017/387/regulation/3/b)
 
 [^f00021]: Footnote: See section 10(2) of the Act for the meaning of normal pension age under this scheme.
 
 [^f00022]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-0e9bbfde2e47e873870a7e0bacf0b21a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2015/142/regulation/2) substituted (with effect from 6.4.2016) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2/b), [51](https://www.legislation.gov.uk/ssi/2019/68/regulation/51)
+[^c-0e9bbfde2e47e873870a7e0bacf0b21a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2015/142/regulation/2) substituted (with effect from 6.4.2016) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2/b), [51](https://www.legislation.gov.uk/ssi/2019/68/regulation/51)

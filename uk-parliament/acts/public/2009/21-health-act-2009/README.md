@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Contents
 
-### Part 1 — Quality and delivery of health services in England[^key-cac0a2c3446222d73d2adbd6b8ef6f77]
+### Part 1 — Quality and delivery of health services in England[^c-cac0a2c3446222d73d2adbd6b8ef6f77]
 
 *Extent: E+W*
 
@@ -164,4 +164,4 @@ Schedules
 
 ## Annotations
 
-[^key-cac0a2c3446222d73d2adbd6b8ef6f77]: Textual amendment: Words in [Pt. 1](https://www.legislation.gov.uk/ukpga/2009/21/part/1) heading substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 174(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/174/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-cac0a2c3446222d73d2adbd6b8ef6f77]: Textual amendment: Words in [Pt. 1](https://www.legislation.gov.uk/ukpga/2009/21/part/1) heading substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 174(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/174/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Regulations[^key-6706d3c5d3f1b38788e1acc44f83be88][^key-e3e17ef20b206a5d4290e28ce3542f66]
+## 167. Regulations[^c-6706d3c5d3f1b38788e1acc44f83be88][^c-e3e17ef20b206a5d4290e28ce3542f66]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6706d3c5d3f1b38788e1acc44f83be88]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2003/43/section/167) in force at 29.1.2007 for E.W. in so far as not already in force by [S.I. 2006/3397](https://www.legislation.gov.uk/uksi/2006/3397), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/3397/article/2/2/b)
+[^c-6706d3c5d3f1b38788e1acc44f83be88]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2003/43/section/167) in force at 29.1.2007 for E.W. in so far as not already in force by [S.I. 2006/3397](https://www.legislation.gov.uk/uksi/2006/3397), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/3397/article/2/2/b)
 
-[^key-e3e17ef20b206a5d4290e28ce3542f66]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2003/43/section/167) in force at 29.1.2007 for S. in so far as not already in force by [S.S.I. 2007/10](https://www.legislation.gov.uk/ssi/2007/10), [art. 2(2)(d)](https://www.legislation.gov.uk/ssi/2007/10/article/2/2/d)
+[^c-e3e17ef20b206a5d4290e28ce3542f66]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2003/43/section/167) in force at 29.1.2007 for S. in so far as not already in force by [S.S.I. 2007/10](https://www.legislation.gov.uk/ssi/2007/10), [art. 2(2)(d)](https://www.legislation.gov.uk/ssi/2007/10/article/2/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Duties of revenue support counterparty[^key-97772a14e811316c3a75b9bc017fb647][^key-e507360ed2abcf708db625b0ce6bd902]
+## 58. Duties of revenue support counterparty[^c-97772a14e811316c3a75b9bc017fb647][^c-e507360ed2abcf708db625b0ce6bd902]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-97772a14e811316c3a75b9bc017fb647]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2023/52/section/58) in force at Royal Assent for specified purposes, see [s. 334(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/a/ii)
+[^c-97772a14e811316c3a75b9bc017fb647]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2023/52/section/58) in force at Royal Assent for specified purposes, see [s. 334(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/a/ii)
 
-[^key-e507360ed2abcf708db625b0ce6bd902]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2023/52/section/58) in force at 26.12.2023 in so far as not already in force, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-e507360ed2abcf708db625b0ce6bd902]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2023/52/section/58) in force at 26.12.2023 in so far as not already in force, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

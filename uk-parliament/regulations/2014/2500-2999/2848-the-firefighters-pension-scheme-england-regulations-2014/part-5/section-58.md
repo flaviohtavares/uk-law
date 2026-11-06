@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Entitlement to retirement pension[^key-396fbbd65bceb06dc02c50ba0786db75]
+## 58. Entitlement to retirement pension[^c-396fbbd65bceb06dc02c50ba0786db75]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-396fbbd65bceb06dc02c50ba0786db75]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2014/2848/regulation/58) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-396fbbd65bceb06dc02c50ba0786db75]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2014/2848/regulation/58) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

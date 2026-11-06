@@ -28,9 +28,9 @@ summary: ''
 - (d) in section 388 (carry-back of terminal losses), in subsection (6), paragraphs (b) and (d) and the word “and” immediately preceding paragraph (d), and in subsection (7), the words from the beginning to “an earlier year: and”; and
 - (e) in section 389 (supplementary provisions relating to carry-back of terminal losses), subsections (5) to (7).
 
-(2)[^key-a02e616c18da2fa454b098eac4569011] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a02e616c18da2fa454b098eac4569011] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-18cdadd6a3ab24114fabb4a5e8d0c36c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-18cdadd6a3ab24114fabb4a5e8d0c36c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4)[^c14456261] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a02e616c18da2fa454b098eac4569011]: Textual amendment: S. 214(2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-a02e616c18da2fa454b098eac4569011]: Textual amendment: S. 214(2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-18cdadd6a3ab24114fabb4a5e8d0c36c]: Textual amendment: [S. 214(3)](https://www.legislation.gov.uk/ukpga/1994/9/section/214/3) repealed (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-18cdadd6a3ab24114fabb4a5e8d0c36c]: Textual amendment: [S. 214(3)](https://www.legislation.gov.uk/ukpga/1994/9/section/214/3) repealed (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c14456261]: Textual amendment: S. 214(4)-(6) repealed (22.3.2001 with effect as mentioned in s. 579(1) of the repealing Act) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [s. 580](https://www.legislation.gov.uk/ukpga/2001/2/section/580), [Sch. 4](https://www.legislation.gov.uk/ukpga/2001/2/schedule/4)

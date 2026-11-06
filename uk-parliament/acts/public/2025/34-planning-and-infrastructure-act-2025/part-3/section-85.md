@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Powers of entry: further provision[^key-b6431037ce84df314529e73cb4903d76][^key-23bc2369708fd17f318f4f4caf12abc1]
+## 85. Powers of entry: further provision[^c-b6431037ce84df314529e73cb4903d76][^c-23bc2369708fd17f318f4f4caf12abc1]
 
 *Extent: E+W*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b6431037ce84df314529e73cb4903d76]: Commencement: S. 85 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-b6431037ce84df314529e73cb4903d76]: Commencement: S. 85 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-23bc2369708fd17f318f4f4caf12abc1]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2025/34/section/85) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-23bc2369708fd17f318f4f4caf12abc1]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2025/34/section/85) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

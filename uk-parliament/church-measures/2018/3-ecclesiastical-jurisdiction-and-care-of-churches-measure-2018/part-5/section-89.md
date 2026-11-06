@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 89. Consecration of ground added to churchyard[^key-57c33a29b1c9ab88b0ee958fe9025d53]
+## 89. Consecration of ground added to churchyard[^c-57c33a29b1c9ab88b0ee958fe9025d53]
 
 *Extent: E*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57c33a29b1c9ab88b0ee958fe9025d53]: Commencement: [S. 89](https://www.legislation.gov.uk/ukcm/2018/3/section/89) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-57c33a29b1c9ab88b0ee958fe9025d53]: Commencement: [S. 89](https://www.legislation.gov.uk/ukcm/2018/3/section/89) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

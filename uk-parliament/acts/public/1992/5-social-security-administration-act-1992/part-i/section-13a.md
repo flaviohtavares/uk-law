@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13A. Election not to receive child benefit[^key-da9651179cc805b1656a59dc6d90c8b1]
+## 13A. Election not to receive child benefit[^c-da9651179cc805b1656a59dc6d90c8b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ P may, no later than two years after the end of the tax year, revoke the electio
 
 ## Annotations
 
-[^key-da9651179cc805b1656a59dc6d90c8b1]: Textual amendment: S. 13A inserted (with effect for the tax year 2012-13 and subsequent tax years) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/1/paragraph/3) (with [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2012/14/schedule/1/paragraph/7))
+[^c-da9651179cc805b1656a59dc6d90c8b1]: Textual amendment: S. 13A inserted (with effect for the tax year 2012-13 and subsequent tax years) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/1/paragraph/3) (with [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2012/14/schedule/1/paragraph/7))

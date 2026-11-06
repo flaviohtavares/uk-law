@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 4 — The Chief Executive of Skills Funding[^key-a1df65e761585cef944b37f2b930b6d4]
+## Schedule 4 — The Chief Executive of Skills Funding[^c-a1df65e761585cef944b37f2b930b6d4]
 
 *Extent: E+W*
 
@@ -24,50 +24,50 @@ summary: ''
 
 Section 81
 
-### ...[^key-a1df65e761585cef944b37f2b930b6d4]
+### ...[^c-a1df65e761585cef944b37f2b930b6d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1df65e761585cef944b37f2b930b6d4]
+[^c-a1df65e761585cef944b37f2b930b6d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1df65e761585cef944b37f2b930b6d4]
+[^c-a1df65e761585cef944b37f2b930b6d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1df65e761585cef944b37f2b930b6d4]
+[^c-a1df65e761585cef944b37f2b930b6d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1df65e761585cef944b37f2b930b6d4]
+[^c-a1df65e761585cef944b37f2b930b6d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1df65e761585cef944b37f2b930b6d4]
+[^c-a1df65e761585cef944b37f2b930b6d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1df65e761585cef944b37f2b930b6d4]
+[^c-a1df65e761585cef944b37f2b930b6d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1df65e761585cef944b37f2b930b6d4]
+[^c-a1df65e761585cef944b37f2b930b6d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1df65e761585cef944b37f2b930b6d4]
+[^c-a1df65e761585cef944b37f2b930b6d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1df65e761585cef944b37f2b930b6d4]
+[^c-a1df65e761585cef944b37f2b930b6d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1df65e761585cef944b37f2b930b6d4]
+[^c-a1df65e761585cef944b37f2b930b6d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a1df65e761585cef944b37f2b930b6d4]: Textual amendment: Sch. 4 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 29](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/29)
+[^c-a1df65e761585cef944b37f2b930b6d4]: Textual amendment: Sch. 4 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 29](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/29)

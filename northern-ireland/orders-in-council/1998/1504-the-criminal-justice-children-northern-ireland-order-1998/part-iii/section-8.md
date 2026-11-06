@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-ee4f1159d67731d9052591329e66902a] Where a child apparently under the age of 14—
+(1)[^c-ee4f1159d67731d9052591329e66902a] Where a child apparently under the age of 14—
 
 - (a) is arrested without warrant for an offence other than homicide; and
 - (b) is not released under Article 7,
@@ -47,6 +47,6 @@ the court may remand him.
 
 ## Annotations
 
-[^key-ee4f1159d67731d9052591329e66902a]: Modification: [Art. 8(1)](https://www.legislation.gov.uk/nisi/1998/1504/article/8/1) excluded (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 6 para. 35(4)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/6/paragraph/35/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-ee4f1159d67731d9052591329e66902a]: Modification: [Art. 8(1)](https://www.legislation.gov.uk/nisi/1998/1504/article/8/1) excluded (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 6 para. 35(4)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/6/paragraph/35/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
 [^c17146321]: Textual amendment: prosp. subst. by [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)

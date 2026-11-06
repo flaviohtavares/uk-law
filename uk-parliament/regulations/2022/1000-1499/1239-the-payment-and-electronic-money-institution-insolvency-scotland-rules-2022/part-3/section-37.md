@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Notice of meeting by advertisement only[^key-3c68953bd0627440303c026a35e503d1]
+## 37. Notice of meeting by advertisement only[^c-3c68953bd0627440303c026a35e503d1]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c68953bd0627440303c026a35e503d1]: Commencement: Rule 37 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-3c68953bd0627440303c026a35e503d1]: Commencement: Rule 37 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Recovery of costs of compliance with notice of unauthorised development[^key-659fa777ffebaf54104d3b64ad173c05][^key-bc1ca952e4d5d95a9aafa846676ffd9f]
+## 116. Recovery of costs of compliance with notice of unauthorised development[^c-659fa777ffebaf54104d3b64ad173c05][^c-bc1ca952e4d5d95a9aafa846676ffd9f]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ are to be deemed to be incurred or paid for the use and at the request of the pe
 
 ## Annotations
 
-[^key-659fa777ffebaf54104d3b64ad173c05]: Commencement: S. 116 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-659fa777ffebaf54104d3b64ad173c05]: Commencement: S. 116 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-bc1ca952e4d5d95a9aafa846676ffd9f]: Commencement: [S. 116](https://www.legislation.gov.uk/asc/2024/3/section/116) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-bc1ca952e4d5d95a9aafa846676ffd9f]: Commencement: [S. 116](https://www.legislation.gov.uk/asc/2024/3/section/116) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

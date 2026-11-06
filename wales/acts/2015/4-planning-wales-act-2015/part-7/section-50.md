@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Procedure for certain proceedings[^c22543061][^key-a4ae5da460c00a917948c3ec697f67bd][^key-c58658dbeaa4641473aa095e97976a36]
+## 50. Procedure for certain proceedings[^c22543061][^c-a4ae5da460c00a917948c3ec697f67bd][^c-c58658dbeaa4641473aa095e97976a36]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ In TCPA 1990, after section 323 insert—
 
 [^c22543061]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2015/4/section/50) partly in force; [s. 50](https://www.legislation.gov.uk/anaw/2015/4/section/50) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-a4ae5da460c00a917948c3ec697f67bd]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2015/4/section/50) in force at 1.3.2016 for specified purposes by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(c)](https://www.legislation.gov.uk/wsi/2016/52/article/3/c)
+[^c-a4ae5da460c00a917948c3ec697f67bd]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2015/4/section/50) in force at 1.3.2016 for specified purposes by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(c)](https://www.legislation.gov.uk/wsi/2016/52/article/3/c)
 
-[^key-c58658dbeaa4641473aa095e97976a36]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2015/4/section/50) in force at 5.5.2017 in so far as not already in force by [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 3(c)](https://www.legislation.gov.uk/wsi/2017/546/article/3/c)
+[^c-c58658dbeaa4641473aa095e97976a36]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2015/4/section/50) in force at 5.5.2017 in so far as not already in force by [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 3(c)](https://www.legislation.gov.uk/wsi/2017/546/article/3/c)

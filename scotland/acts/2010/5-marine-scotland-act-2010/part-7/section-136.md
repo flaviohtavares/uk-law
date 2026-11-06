@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 136. Power to enter and inspect vehicles[^key-de94484ebb3586b264c7c38deab76fc6]
+## 136. Power to enter and inspect vehicles[^c-de94484ebb3586b264c7c38deab76fc6]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ to afford such facilities and assistance with respect to matters under that pers
 
 ## Annotations
 
-[^key-de94484ebb3586b264c7c38deab76fc6]: Commencement: [S. 136](https://www.legislation.gov.uk/asp/2010/5/section/136) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)
+[^c-de94484ebb3586b264c7c38deab76fc6]: Commencement: [S. 136](https://www.legislation.gov.uk/asp/2010/5/section/136) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)

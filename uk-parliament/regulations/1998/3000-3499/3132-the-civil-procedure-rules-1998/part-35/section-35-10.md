@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35.10. Contents of report[^key-362b6dddc75b2379192ecc388a487a28]
+## 35.10. Contents of report[^c-362b6dddc75b2379192ecc388a487a28]
 
 *Extent: E+W*
 
-(1) An expert’s report must comply with the requirements set out in Practice Direction[^key-e4ba4aef2ded92164898f0d3dd41584b][^key-b631ea4ef2d05bb561ff003357d12e0a] 35.
+(1) An expert’s report must comply with the requirements set out in Practice Direction[^c-e4ba4aef2ded92164898f0d3dd41584b][^c-b631ea4ef2d05bb561ff003357d12e0a] 35.
 
-(2)[^key-5abe12b97d6d2b80d42741c82122ec8a] At the end of an expert’s report there must be a statement that the expert understands and has complied with their duty to the court.
+(2)[^c-5abe12b97d6d2b80d42741c82122ec8a] At the end of an expert’s report there must be a statement that the expert understands and has complied with their duty to the court.
 
 (3) The expert’s report must state the substance of all material instructions, whether written or oral, on the basis of which the report was written.
 
@@ -35,10 +35,10 @@ unless it is satisfied that there are reasonable grounds to consider the stateme
 
 ## Annotations
 
-[^key-362b6dddc75b2379192ecc388a487a28]: Commencement: [Rule 35.10](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.10) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-362b6dddc75b2379192ecc388a487a28]: Commencement: [Rule 35.10](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.10) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-e4ba4aef2ded92164898f0d3dd41584b]: Textual amendment: Words in [rule 35.10(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.10/1) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2009/3390/rule/18/b)
+[^c-e4ba4aef2ded92164898f0d3dd41584b]: Textual amendment: Words in [rule 35.10(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.10/1) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2009/3390/rule/18/b)
 
-[^key-b631ea4ef2d05bb561ff003357d12e0a]: Textual amendment: Words in [rule 35.10(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.10/1) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [5(q)(i)](https://www.legislation.gov.uk/uksi/2009/2092/rule/5/q/i)
+[^c-b631ea4ef2d05bb561ff003357d12e0a]: Textual amendment: Words in [rule 35.10(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.10/1) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [5(q)(i)](https://www.legislation.gov.uk/uksi/2009/2092/rule/5/q/i)
 
-[^key-5abe12b97d6d2b80d42741c82122ec8a]: Textual amendment: [Rule 35.10(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/35) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [5(q)(ii)](https://www.legislation.gov.uk/uksi/2009/2092/rule/5/q/ii)
+[^c-5abe12b97d6d2b80d42741c82122ec8a]: Textual amendment: [Rule 35.10(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/35) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [5(q)(ii)](https://www.legislation.gov.uk/uksi/2009/2092/rule/5/q/ii)

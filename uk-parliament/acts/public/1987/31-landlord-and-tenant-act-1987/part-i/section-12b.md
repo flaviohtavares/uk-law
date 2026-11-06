@@ -41,7 +41,7 @@ summary: ''
 - (a) require the purchaser only to make a disposal relating to those premises, and
 - (b) require him to do so on the terms referred to in subsection (2) with any necessary modifications.
 
-In such a case the purchase notice may specify the subject-matter of the disposal, and the terms on which the disposal is to be made (whether doing so expressly or by reference to the original disposal), or may provide for those matters to be determined by the appropriate tribunal[^key-a6ecc1360946e442f716dbbc6ef27e9c].
+In such a case the purchase notice may specify the subject-matter of the disposal, and the terms on which the disposal is to be made (whether doing so expressly or by reference to the original disposal), or may provide for those matters to be determined by the appropriate tribunal[^c-a6ecc1360946e442f716dbbc6ef27e9c].
 
 (5) Where the property which the purchaser is required to dispose of in pursuance of the purchase notice has since the original disposal become subject to any charge or other incumbrance, then, unless the court by order directs otherwise—
 
@@ -58,4 +58,4 @@ In such a case the purchase notice may specify the subject-matter of the disposa
 
 [^c10161411]: Marginal citation: 1985 c 70.
 
-[^key-a6ecc1360946e442f716dbbc6ef27e9c]: Textual amendment: Words in [s. 12B(4)](https://www.legislation.gov.uk/ukpga/1987/31/section/12B/4) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 61](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/61) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-a6ecc1360946e442f716dbbc6ef27e9c]: Textual amendment: Words in [s. 12B(4)](https://www.legislation.gov.uk/ukpga/1987/31/section/12B/4) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 61](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/61) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

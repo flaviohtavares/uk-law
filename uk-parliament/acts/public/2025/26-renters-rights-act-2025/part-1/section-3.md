@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Changes to grounds for possession[^key-c91110288a18eeef686a898260133240][^key-cec06326df5cc5e6c84eda32cf2e0bdd]
+## 3. Changes to grounds for possession[^c-c91110288a18eeef686a898260133240][^c-cec06326df5cc5e6c84eda32cf2e0bdd]
 
 *Extent: E+W*
 
@@ -122,6 +122,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c91110288a18eeef686a898260133240]: Commencement: S. 3 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
+[^c-c91110288a18eeef686a898260133240]: Commencement: S. 3 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
 
-[^key-cec06326df5cc5e6c84eda32cf2e0bdd]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/26/section/3) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/421/regulation/6))
+[^c-cec06326df5cc5e6c84eda32cf2e0bdd]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/26/section/3) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/421/regulation/6))

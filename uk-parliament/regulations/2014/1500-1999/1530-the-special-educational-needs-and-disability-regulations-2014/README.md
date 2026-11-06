@@ -44,7 +44,7 @@ Coming into force
 
 1st September 2014
 
-The Secretary of State makes the following Regulations, in exercise of the powers conferred by sections 30(8) and(9), 34(6), 36(11), 37(4), 41(5), 44(7), 45(5), 46(2), 47(1) and (2), 51(4), 56(1), 67(3), 69(3)(a), and 80(1) of the Children and Families Act 2014 [^c22118971]:[^key-cb6991c148d42134cefe378af06c5a7c][^key-ab29a1dd4ae54b44fbb5f9a304cdc554]
+The Secretary of State makes the following Regulations, in exercise of the powers conferred by sections 30(8) and(9), 34(6), 36(11), 37(4), 41(5), 44(7), 45(5), 46(2), 47(1) and (2), 51(4), 56(1), 67(3), 69(3)(a), and 80(1) of the Children and Families Act 2014 [^c22118971]:[^c-cb6991c148d42134cefe378af06c5a7c][^c-ab29a1dd4ae54b44fbb5f9a304cdc554]
 
 ## Contents
 
@@ -229,6 +229,6 @@ The Regulations also make clear that the provisions concerning mental capacity h
 
 [^c22118971]: Marginal citation: [2014 c.6](https://www.legislation.gov.uk/ukpga/2014/6)
 
-[^key-cb6991c148d42134cefe378af06c5a7c]: Modification: Regulations applied (1.9.2014) by [The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270)](https://www.legislation.gov.uk/uksi/2014/2270), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/2270/article/1/2), [20(1)](https://www.legislation.gov.uk/uksi/2014/2270/article/20/1)
+[^c-cb6991c148d42134cefe378af06c5a7c]: Modification: Regulations applied (1.9.2014) by [The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270)](https://www.legislation.gov.uk/uksi/2014/2270), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/2270/article/1/2), [20(1)](https://www.legislation.gov.uk/uksi/2014/2270/article/20/1)
 
-[^key-ab29a1dd4ae54b44fbb5f9a304cdc554]: Modification: Regulations applied (with modifications) (1.9.2014) by [The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270)](https://www.legislation.gov.uk/uksi/2014/2270), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/2270/article/1/2), [23(6)(b)](https://www.legislation.gov.uk/uksi/2014/2270/article/23/6/b)
+[^c-ab29a1dd4ae54b44fbb5f9a304cdc554]: Modification: Regulations applied (with modifications) (1.9.2014) by [The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270)](https://www.legislation.gov.uk/uksi/2014/2270), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/2270/article/1/2), [23(6)(b)](https://www.legislation.gov.uk/uksi/2014/2270/article/23/6/b)

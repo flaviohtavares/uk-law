@@ -33,46 +33,46 @@ of 23 June 2008
 
 on the improvement of cooperation between the special intervention units of the Member States of the European Union in crisis situations (revoked)
 
-[^key-e1590566c45c9eea22370ae8f4be6d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1590566c45c9eea22370ae8f4be6d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-e1590566c45c9eea22370ae8f4be6d7e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-e1590566c45c9eea22370ae8f4be6d7e]
+## Article 1. Subject matter[^c-e1590566c45c9eea22370ae8f4be6d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Assistance to another Member State[^key-e1590566c45c9eea22370ae8f4be6d7e]
+## Article 2. Definitions[^c-e1590566c45c9eea22370ae8f4be6d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Civil and criminal liability[^key-e1590566c45c9eea22370ae8f4be6d7e]
+## Article 3. Assistance to another Member State[^c-e1590566c45c9eea22370ae8f4be6d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Meetings and joint training[^key-e1590566c45c9eea22370ae8f4be6d7e]
+## Article 4. Civil and criminal liability[^c-e1590566c45c9eea22370ae8f4be6d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Costs[^key-e1590566c45c9eea22370ae8f4be6d7e]
+## Article 5. Meetings and joint training[^c-e1590566c45c9eea22370ae8f4be6d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Relation to other instruments[^key-e1590566c45c9eea22370ae8f4be6d7e]
+## Article 6. Costs[^c-e1590566c45c9eea22370ae8f4be6d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Final provisions[^key-e1590566c45c9eea22370ae8f4be6d7e]
+## Article 7. Relation to other instruments[^c-e1590566c45c9eea22370ae8f4be6d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Entry into force[^key-e1590566c45c9eea22370ae8f4be6d7e]
+## Article 8. Final provisions[^c-e1590566c45c9eea22370ae8f4be6d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1590566c45c9eea22370ae8f4be6d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 9. Entry into force[^c-e1590566c45c9eea22370ae8f4be6d7e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-e1590566c45c9eea22370ae8f4be6d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e1590566c45c9eea22370ae8f4be6d7e]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [137](https://www.legislation.gov.uk/uksi/2019/742/regulation/137) (with [regs. 138](https://www.legislation.gov.uk/uksi/2019/742/regulation/138), [139](https://www.legislation.gov.uk/uksi/2019/742/regulation/139)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e1590566c45c9eea22370ae8f4be6d7e]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [137](https://www.legislation.gov.uk/uksi/2019/742/regulation/137) (with [regs. 138](https://www.legislation.gov.uk/uksi/2019/742/regulation/138), [139](https://www.legislation.gov.uk/uksi/2019/742/regulation/139)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

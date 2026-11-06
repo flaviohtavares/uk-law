@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Scope review[^key-38e2552343824f07c85b9ca29e915e27]
+## 74. Scope review[^c-38e2552343824f07c85b9ca29e915e27]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 - (a) maintained; or
 - (b) varied.
 
-(6)[^key-ef5f1016bba6c25ee5b9b41be191d8d9] Where the TRA proposes to make a determination under paragraph (5)(a) the TRA must notify the Secretary of State of its proposed determination.
+(6)[^c-ef5f1016bba6c25ee5b9b41be191d8d9] Where the TRA proposes to make a determination under paragraph (5)(a) the TRA must notify the Secretary of State of its proposed determination.
 
 (7) Where the Secretary of State has been notified in accordance with paragraph (6), the Secretary of State may, within the relevant period (and subject to paragraph (8)), request that the TRA reassess its proposed determination by reference to any matter specified in the request.
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-38e2552343824f07c85b9ca29e915e27]: Commencement: Reg. 74 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-38e2552343824f07c85b9ca29e915e27]: Commencement: Reg. 74 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
-[^key-ef5f1016bba6c25ee5b9b41be191d8d9]: Textual amendment: [Reg. 74(6)-(11)](https://www.legislation.gov.uk/uksi/2019/450/regulation/74/6) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/545/regulation/16) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-ef5f1016bba6c25ee5b9b41be191d8d9]: Textual amendment: [Reg. 74(6)-(11)](https://www.legislation.gov.uk/uksi/2019/450/regulation/74/6) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/545/regulation/16) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))

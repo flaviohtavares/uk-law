@@ -43,10 +43,10 @@ summary: ''
 
 .
 
-(4)[^key-2b680612d509c6d628f65f004c47d0d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2b680612d509c6d628f65f004c47d0d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c13713301]: Commencement: S. 36 partly in force; s. 36(2)(3) in force for certain purposes at 4.7.1992 and s. 36(1)-(3) wholly in force at 20.4.1992 see s. 75(2) and [S.I. 1992/1599](https://www.legislation.gov.uk/uksi/1992/1599), [arts.3](https://www.legislation.gov.uk/uksi/1992/1599/article/3),4, Schs. 1, 2.
 
-[^key-2b680612d509c6d628f65f004c47d0d9]: Textual amendment: [S. 36(4)](https://www.legislation.gov.uk/ukpga/1990/40/section/36/4) repealed (30.1.2019) by [Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018 (asp 10)](https://www.legislation.gov.uk/asp/2018/10), [s. 27(3)](https://www.legislation.gov.uk/asp/2018/10/section/27/3), [sch. para. 5](https://www.legislation.gov.uk/asp/2018/10/schedule/paragraph/5); [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/o)
+[^c-2b680612d509c6d628f65f004c47d0d9]: Textual amendment: [S. 36(4)](https://www.legislation.gov.uk/ukpga/1990/40/section/36/4) repealed (30.1.2019) by [Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018 (asp 10)](https://www.legislation.gov.uk/asp/2018/10), [s. 27(3)](https://www.legislation.gov.uk/asp/2018/10/section/27/3), [sch. para. 5](https://www.legislation.gov.uk/asp/2018/10/schedule/paragraph/5); [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/o)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Subordinate legislation made under retained direct EU legislation[^key-463baf021f0e266dd2c0f73e01ea6ca5]
+## 43. Subordinate legislation made under retained direct EU legislation[^c-463baf021f0e266dd2c0f73e01ea6ca5]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-463baf021f0e266dd2c0f73e01ea6ca5]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2021/22/section/43) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/w)
+[^c-463baf021f0e266dd2c0f73e01ea6ca5]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2021/22/section/43) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/w)

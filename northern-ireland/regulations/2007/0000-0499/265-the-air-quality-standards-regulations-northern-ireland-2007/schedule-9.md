@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 9 — Reference methods[^key-2dd3a80c56069de5b9eb65e90811aba8]
+## SCHEDULE 9 — Reference methods[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
 *Extent: N.I.*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Regulation 16(3)
 
-### PART 1 — Group A pollutants[^key-2dd3a80c56069de5b9eb65e90811aba8]
+### PART 1 — Group A pollutants[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Group B pollutants in ambient air[^key-2dd3a80c56069de5b9eb65e90811aba8]
+### PART 2 — Group B pollutants in ambient air[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Ozone[^key-2dd3a80c56069de5b9eb65e90811aba8]
+### PART 3 — Ozone[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — Other reference methods[^key-2dd3a80c56069de5b9eb65e90811aba8]
+### PART 4 — Other reference methods[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2dd3a80c56069de5b9eb65e90811aba8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/265) revoked (11.6.2010) by [The Air Quality Standards Regulations (Northern Ireland) 2010 (S.R. 2010/188)](https://www.legislation.gov.uk/nisr/2010/188), [regs. 1](https://www.legislation.gov.uk/nisr/2010/188/regulation/1), [30](https://www.legislation.gov.uk/nisr/2010/188/regulation/30)
+[^c-2dd3a80c56069de5b9eb65e90811aba8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/265) revoked (11.6.2010) by [The Air Quality Standards Regulations (Northern Ireland) 2010 (S.R. 2010/188)](https://www.legislation.gov.uk/nisr/2010/188), [regs. 1](https://www.legislation.gov.uk/nisr/2010/188/regulation/1), [30](https://www.legislation.gov.uk/nisr/2010/188/regulation/30)

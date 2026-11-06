@@ -22,15 +22,15 @@ summary: ''
 
 (1) A prescriber may only order drugs, medicines or appliances by means of an electronic prescription if—
 
-- (a)[^key-50461c672365f743dda6137c0fb2096f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-50461c672365f743dda6137c0fb2096f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-50461c672365f743dda6137c0fb2096f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-50461c672365f743dda6137c0fb2096f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the prescription is not—
   - (i) for a controlled drug within the meaning of section 2 of the Misuse of Drugs Act 1971 (which relates to controlled drugs and their classification for the purposes of that Act), other than a drug which is for the time being specified in Schedule 4 (controlled drugs subject to the requirements of regulations 22, 23, 26 and 27) or 5 (controlled drugs excepted from the prohibition on importation, exportation and possession and subject to the requirements of regulations 24 and 26) to the Misuse of Drugs Regulations 2001, or
   - (ii) a bulk prescription issued for a school or institution under regulation 56.
 
 *Extent: E*
 
-(1A)[^key-36e424779d19a3eef7841dfc8a3e6fd9] If a prescriber orders a drug, medicine or appliance by means of an electronic prescription, the prescriber must issue the patient with—
+(1A)[^c-36e424779d19a3eef7841dfc8a3e6fd9] If a prescriber orders a drug, medicine or appliance by means of an electronic prescription, the prescriber must issue the patient with—
 
 - (a) subject to paragraph (1C), an EPS token; and
 - (b) if the patient, or where appropriate an authorised person, so requests, a written record of the prescription that has been created.
@@ -41,14 +41,14 @@ summary: ''
 
 (2) A health care professional may not order home oxygen services by means of an electronic prescription.
 
-(3)[^key-b39c3d7c25a3e5699d39cdb52ff5802c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b39c3d7c25a3e5699d39cdb52ff5802c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-b39c3d7c25a3e5699d39cdb52ff5802c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b39c3d7c25a3e5699d39cdb52ff5802c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-50461c672365f743dda6137c0fb2096f]: Textual amendment: Reg. 50(1)(a)(b) omitted (26.11.2018) by virtue of [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/22/2)
+[^c-50461c672365f743dda6137c0fb2096f]: Textual amendment: Reg. 50(1)(a)(b) omitted (26.11.2018) by virtue of [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/22/2)
 
-[^key-36e424779d19a3eef7841dfc8a3e6fd9]: Textual amendment: Reg. 50(1A)-(1C) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [22(3)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/22/3)
+[^c-36e424779d19a3eef7841dfc8a3e6fd9]: Textual amendment: Reg. 50(1A)-(1C) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [22(3)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/22/3)
 
-[^key-b39c3d7c25a3e5699d39cdb52ff5802c]: Textual amendment: Reg. 50(3)(4) omitted (26.11.2018) by virtue of [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [22(4)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/22/4)
+[^c-b39c3d7c25a3e5699d39cdb52ff5802c]: Textual amendment: Reg. 50(3)(4) omitted (26.11.2018) by virtue of [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [22(4)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/22/4)

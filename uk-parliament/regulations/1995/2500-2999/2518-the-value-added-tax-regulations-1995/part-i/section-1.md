@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-cd78f7f2a3a6dca38668d2f310bbf3ab]
+## 1. Citation and commencement[^c-cd78f7f2a3a6dca38668d2f310bbf3ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Value Added Tax Regulations 1995 and shall
 
 ## Annotations
 
-[^key-cd78f7f2a3a6dca38668d2f310bbf3ab]: Commencement: Reg. 1 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-cd78f7f2a3a6dca38668d2f310bbf3ab]: Commencement: Reg. 1 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

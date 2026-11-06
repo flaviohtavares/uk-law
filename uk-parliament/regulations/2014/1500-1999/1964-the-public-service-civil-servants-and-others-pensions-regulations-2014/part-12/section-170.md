@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Scheme manager to be scheme administrator for purposes of Part 4 of Finance Act 2004[^key-b2523b92475ab7201d75d9bb9c90ead4]
+## 170. Scheme manager to be scheme administrator for purposes of Part 4 of Finance Act 2004[^c-b2523b92475ab7201d75d9bb9c90ead4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2523b92475ab7201d75d9bb9c90ead4]: Commencement: [Reg. 170](https://www.legislation.gov.uk/uksi/2014/1964/regulation/170) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-b2523b92475ab7201d75d9bb9c90ead4]: Commencement: [Reg. 170](https://www.legislation.gov.uk/uksi/2014/1964/regulation/170) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

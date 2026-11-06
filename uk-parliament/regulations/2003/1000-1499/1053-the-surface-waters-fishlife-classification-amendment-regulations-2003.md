@@ -31,7 +31,7 @@ summary: ''
 
 WATER RESOURCES, ENGLAND AND WALES
 
-The Surface Waters (Fishlife) (Classification) (Amendment) Regulations 2003 (revoked)[^key-9802a35d070348692eab4df1a3d5f3f6]
+The Surface Waters (Fishlife) (Classification) (Amendment) Regulations 2003 (revoked)[^c-9802a35d070348692eab4df1a3d5f3f6]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 12th May 2003
 
-[^key-9802a35d070348692eab4df1a3d5f3f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9802a35d070348692eab4df1a3d5f3f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9802a35d070348692eab4df1a3d5f3f6]
+## 1. Citation and commencement[^c-9802a35d070348692eab4df1a3d5f3f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Surface Waters (Fishlife) (Classification) Regulations 1997[^key-9802a35d070348692eab4df1a3d5f3f6]
+## 2. Amendment of the Surface Waters (Fishlife) (Classification) Regulations 1997[^c-9802a35d070348692eab4df1a3d5f3f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9802a35d070348692eab4df1a3d5f3f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9802a35d070348692eab4df1a3d5f3f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9802a35d070348692eab4df1a3d5f3f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9802a35d070348692eab4df1a3d5f3f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9802a35d070348692eab4df1a3d5f3f6]: Textual amendment: Regulations revoked (6.4.2015) by [The Surface Waters and Water Resources (Miscellaneous Revocations) Regulations 2015 (S.I. 2015/524)](https://www.legislation.gov.uk/uksi/2015/524), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2015/524/regulation/2/i)
+[^c-9802a35d070348692eab4df1a3d5f3f6]: Textual amendment: Regulations revoked (6.4.2015) by [The Surface Waters and Water Resources (Miscellaneous Revocations) Regulations 2015 (S.I. 2015/524)](https://www.legislation.gov.uk/uksi/2015/524), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2015/524/regulation/2/i)

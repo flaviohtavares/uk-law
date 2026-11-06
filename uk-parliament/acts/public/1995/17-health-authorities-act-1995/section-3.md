@@ -51,7 +51,7 @@ summary: ''
 
 (7) Section 17 of the [^c8306651]National Health Service Act 1977 (directions as to exercise of functions) applies in relation to functions exercisable under or by virtue of this section as if they were exercisable by virtue of section 16 of that Act; and the provisions of that Act relating to directions given in pursuance of section 17 apply accordingly.
 
-(8)[^key-851941f039dadf8ee31fe12ce34f97fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-851941f039dadf8ee31fe12ce34f97fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Section 125 of the [^c8306671]National Health Service Act 1977 (protection of members and officers of authorities) applies as if this section were contained in that Act.
 
@@ -67,6 +67,6 @@ summary: ''
 
 [^c8306651]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
-[^key-851941f039dadf8ee31fe12ce34f97fa]: Textual amendment: S. 3(8) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-851941f039dadf8ee31fe12ce34f97fa]: Textual amendment: S. 3(8) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c8306671]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).

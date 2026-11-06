@@ -35,20 +35,20 @@ amending Directive (EU) 2016/97 of the European Parliament and of the Council wi
 
 (Text with EEA relevance) (revoked)
 
-[^key-1861d4d54a2b27f6fb68a1b7293b101c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1861d4d54a2b27f6fb68a1b7293b101c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendments to Directive (EU) 2016/97[^key-1861d4d54a2b27f6fb68a1b7293b101c]
+## Article 1. Amendments to Directive (EU) 2016/97[^c-1861d4d54a2b27f6fb68a1b7293b101c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Entry into force and date of application[^key-1861d4d54a2b27f6fb68a1b7293b101c]
+## Article 2. Entry into force and date of application[^c-1861d4d54a2b27f6fb68a1b7293b101c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1861d4d54a2b27f6fb68a1b7293b101c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1861d4d54a2b27f6fb68a1b7293b101c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1861d4d54a2b27f6fb68a1b7293b101c]: Textual amendment: Regulation revoked (5.4.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(d)(v)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/d/v)
+[^c-1861d4d54a2b27f6fb68a1b7293b101c]: Textual amendment: Regulation revoked (5.4.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(d)(v)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/d/v)

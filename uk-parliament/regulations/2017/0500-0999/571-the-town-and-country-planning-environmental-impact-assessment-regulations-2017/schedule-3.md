@@ -46,7 +46,7 @@ The characteristics of development must be considered with particular regard toâ
   - (iii) mountain and forest areas;
   - (iv) nature reserves and parks;
   - (v) European sites and other areas classified or protected under national legislation;
-  - (vi) areas in which there has already been a failure to meet the environmental quality standards, laid down in assimilated[^key-503d67059dfa263dee448274ad664e1f][^key-7b9c05268169444390b0b076f6f4369c] law and relevant to the project, or in which it is considered that there is such a failure;
+  - (vi) areas in which there has already been a failure to meet the environmental quality standards, laid down in assimilated[^c-503d67059dfa263dee448274ad664e1f][^c-7b9c05268169444390b0b076f6f4369c] law and relevant to the project, or in which it is considered that there is such a failure;
   - (vii) densely populated areas;
   - (viii) landscapes and sites of historical, cultural or archaeological significance.
 
@@ -65,6 +65,6 @@ The likely significant effects of the development on the environment must be con
 
 ## Annotations
 
-[^key-503d67059dfa263dee448274ad664e1f]: Textual amendment: Word in [Sch. 3 para. 2(1)(c)(vi)](https://www.legislation.gov.uk/uksi/2017/571/schedule/3/paragraph/2/1/c/vi) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 5 para. 4(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/5/paragraph/4/b)
+[^c-503d67059dfa263dee448274ad664e1f]: Textual amendment: Word in [Sch. 3 para. 2(1)(c)(vi)](https://www.legislation.gov.uk/uksi/2017/571/schedule/3/paragraph/2/1/c/vi) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 5 para. 4(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/5/paragraph/4/b)
 
-[^key-7b9c05268169444390b0b076f6f4369c]: Textual amendment: Words in [Sch. 3 para. 2(1)(c)(vi)](https://www.legislation.gov.uk/uksi/2017/571/schedule/3/paragraph/2/1/c/vi) substituted (31.12.2020) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [6(13)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/6/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b9c05268169444390b0b076f6f4369c]: Textual amendment: Words in [Sch. 3 para. 2(1)(c)(vi)](https://www.legislation.gov.uk/uksi/2017/571/schedule/3/paragraph/2/1/c/vi) substituted (31.12.2020) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [6(13)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/6/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

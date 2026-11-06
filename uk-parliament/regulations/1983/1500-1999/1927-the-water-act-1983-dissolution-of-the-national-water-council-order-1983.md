@@ -31,26 +31,26 @@ summary: ''
 
 WATER, ENGLAND AND WALES WATER SUPPLY, SCOTLAND WATER, NORTHERN IRELAND
 
-The Water Act 1983 (Dissolution of the National Water Council) Order 1983 (revoked)[^key-983d742675c7b8d4cdc59b2408f13e0d]
+The Water Act 1983 (Dissolution of the National Water Council) Order 1983 (revoked)[^c-983d742675c7b8d4cdc59b2408f13e0d]
 
 Made
 
 20th December 1983
 
-[^key-983d742675c7b8d4cdc59b2408f13e0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-983d742675c7b8d4cdc59b2408f13e0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-983d742675c7b8d4cdc59b2408f13e0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-983d742675c7b8d4cdc59b2408f13e0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-983d742675c7b8d4cdc59b2408f13e0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-983d742675c7b8d4cdc59b2408f13e0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-983d742675c7b8d4cdc59b2408f13e0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-983d742675c7b8d4cdc59b2408f13e0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-983d742675c7b8d4cdc59b2408f13e0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-983d742675c7b8d4cdc59b2408f13e0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-983d742675c7b8d4cdc59b2408f13e0d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1983/1927) revoked (E.W.) (1.7.2015) by [The Animals, Water and Sea Fisheries (Miscellaneous Revocations) Order 2015 (S.I. 2015/751)](https://www.legislation.gov.uk/uksi/2015/751), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/751/article/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2015/751/article/4/b)
+[^c-983d742675c7b8d4cdc59b2408f13e0d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1983/1927) revoked (E.W.) (1.7.2015) by [The Animals, Water and Sea Fisheries (Miscellaneous Revocations) Order 2015 (S.I. 2015/751)](https://www.legislation.gov.uk/uksi/2015/751), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/751/article/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2015/751/article/4/b)

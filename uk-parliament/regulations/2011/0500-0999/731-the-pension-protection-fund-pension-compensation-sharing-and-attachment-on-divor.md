@@ -70,7 +70,7 @@ In accordance with section 317(1) of the Pensions Act 2004 the Secretary of Stat
 - “**qualifying course**” means a full time educational or vocational course at a recognised educational establishment where, in pursuit of that course, the time spent receiving instruction or tuition, undertaking supervised study, examination or practical work or taking part in any exercise, experiment or project for which provision is made in the curriculum of the course, exceeds 12 hours per week in normal term time, and includes any gaps between the ending of one course and the commencement of another, where the person is enrolled on and commences the latter course;
 - “**PPF**” means the Pension Protection Fund;
 - “**relevant compensation**” means the payments to which the member is entitled (or will become entitled on attaining normal pension age) under the pension compensation provisions by virtue of the member's shareable rights to PPF compensation that derive from rights under a specified scheme;
-- “**relevant partner**” means a person who was not married to, or in a civil partnership with, the transferee but who was living with the transferee as if they were a married couple or civil partners;[^key-91a74c4bcf24462c25b708b4aee3c52b]
+- “**relevant partner**” means a person who was not married to, or in a civil partnership with, the transferee but who was living with the transferee as if they were a married couple or civil partners;[^c-91a74c4bcf24462c25b708b4aee3c52b]
 - “**surviving dependant**” means—
   - (a) a child of the family who was financially dependent on the transferee at the time of the transferee's death and who is aged less than 18;
   - (b) a child of the family who was financially dependent on the transferee at the time of the transferee's death, who is aged less than 23 and who is—
@@ -580,7 +580,7 @@ where—
   - (i) no trivial commutation lump sum or PPF trivial commutation lump sum has previously been paid to the transferee by either a registered pension scheme; or the Board; or
   - (ii) if such a lump sum has previously been paid, the PPF trivial commutation lump sum is paid before the end of the commutation period;
 - (b) on the nominated date the value of the transferee's pension rights and entitlement to PPF compensation does not exceed the commutation limit;
-- (c) it is paid when all or part of the transferee's lump sum and death benefit allowance (see section 637R of the Income Tax (Earnings and Pensions) Act 2003)[^key-9cd5171692fdc30683063c1bb898ab8f] is available; and
+- (c) it is paid when all or part of the transferee's lump sum and death benefit allowance (see section 637R of the Income Tax (Earnings and Pensions) Act 2003)[^c-9cd5171692fdc30683063c1bb898ab8f] is available; and
 - (d) it extinguishes the transferee's entitlement to PPF compensation.
 
 (3) “The commutation period” is the period beginning with the day on which a trivial commutation lump sum or PPF trivial commutation lump sum was first paid to the transferee and ending 12 months after that day.
@@ -590,12 +590,12 @@ where—
 - (a) a date nominated by the transferee which is within the period of three months ending with the day on which the transferee proposes to exercise the option to commute; or
 - (b) if no date is nominated by the transferee, a date within that period nominated by the Board.
 
-(5) The commutation limit is the amount specified in paragraph 7(4) of Schedule 29 to the Finance Act 2004 (“[^key-214842262d6d18c9e7acecb06cddf28f]**the Finance Act**”) (trivial commutation lump sum: commutation limit).
+(5) The commutation limit is the amount specified in paragraph 7(4) of Schedule 29 to the Finance Act 2004 (“[^c-214842262d6d18c9e7acecb06cddf28f]**the Finance Act**”) (trivial commutation lump sum: commutation limit).
 
 (6) For the purposes of paragraph (2)(b)—
 
 - (a) the value of the transferee's pension rights is the aggregate of—
-  - (i) the value of the transferee's relevant crystallised pension rights (calculated in accordance with paragraph 8 (trivial commutation lump sum) of Schedule 29 to the Finance Act [^c2076258] [^key-6d5897b8ae745cb13663243d12f3cb2b]...); and
+  - (i) the value of the transferee's relevant crystallised pension rights (calculated in accordance with paragraph 8 (trivial commutation lump sum) of Schedule 29 to the Finance Act [^c2076258] [^c-6d5897b8ae745cb13663243d12f3cb2b]...); and
   - (ii) the value of the transferee's uncrystallised rights (calculated in accordance with paragraph 9 (trivial commutation lump sum) of Schedule 29 to the Finance Act); and
 - (b) the value of the transferee's entitlement to PPF compensation is the aggregate of—
   - (i) any entitlement to lump sum compensation under the pension compensation provisions; and
@@ -609,7 +609,7 @@ where—
 (8) In this regulation—
 
 - (a) “**registered pension scheme**” has the same meaning as in section 150(2) of the Finance Act (meaning of “pension scheme”);
-- (b)[^key-70c01eb0cb8b6241a424a61d996eb99a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-70c01eb0cb8b6241a424a61d996eb99a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) “**tax year**” has the same meaning as section 4(2), (3) and (4) of the Income Tax Act 2007 (income tax an annual tax); and
 - (d) “**trivial commutation lump sum**” has the same meaning as in paragraph 7 of Schedule 29 to the Finance Act (trivial commutation lump sum).
 
@@ -642,7 +642,7 @@ where—
 - (a) the transferee's name, address, date of birth and national insurance number; and
 - (b) the date on which the transferee would like the periodic compensation or lump sum compensation to become payable.
 
-## PART   10A — Postponement of compensation[^key-ad612f7379972d5da1a65404fd17603b]
+## PART   10A — Postponement of compensation[^c-ad612f7379972d5da1a65404fd17603b]
 
 ### 31A. Postponing compensation
 
@@ -862,7 +862,7 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^c2076231]: Marginal citation: Paragraph 35(2) and (3) was amended by paragraphs 17 and 18 of Schedule 8 to the Pensions Act 2008.
 
-[^key-91a74c4bcf24462c25b708b4aee3c52b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/731/regulation/1/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 93](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/93)
+[^c-91a74c4bcf24462c25b708b4aee3c52b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/731/regulation/1/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 93](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/93)
 
 [^c2076232]: Marginal citation: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
 
@@ -912,17 +912,17 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^c2076255]: Marginal citation: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-9cd5171692fdc30683063c1bb898ab8f]: Textual amendment: Words in [reg. 29(2)(c)](https://www.legislation.gov.uk/uksi/2011/731/regulation/29/2/c) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [28(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/28/a)
+[^c-9cd5171692fdc30683063c1bb898ab8f]: Textual amendment: Words in [reg. 29(2)(c)](https://www.legislation.gov.uk/uksi/2011/731/regulation/29/2/c) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [28(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/28/a)
 
-[^key-214842262d6d18c9e7acecb06cddf28f]: Textual amendment: Words in [reg. 29(5)](https://www.legislation.gov.uk/uksi/2011/731/regulation/29/5) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [28(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/28/b)
+[^c-214842262d6d18c9e7acecb06cddf28f]: Textual amendment: Words in [reg. 29(5)](https://www.legislation.gov.uk/uksi/2011/731/regulation/29/5) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [28(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/28/b)
 
 [^c2076258]: Marginal citation: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-6d5897b8ae745cb13663243d12f3cb2b]: Textual amendment: Words in [reg. 29(6)(a)(i)](https://www.legislation.gov.uk/uksi/2011/731/regulation/29/6/a/i) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [28(c)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/28/c)
+[^c-6d5897b8ae745cb13663243d12f3cb2b]: Textual amendment: Words in [reg. 29(6)(a)(i)](https://www.legislation.gov.uk/uksi/2011/731/regulation/29/6/a/i) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [28(c)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/28/c)
 
-[^key-70c01eb0cb8b6241a424a61d996eb99a]: Textual amendment: [Reg. 29(8)(b)](https://www.legislation.gov.uk/uksi/2011/731/regulation/29/8/b) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [28(d)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/28/d)
+[^c-70c01eb0cb8b6241a424a61d996eb99a]: Textual amendment: [Reg. 29(8)(b)](https://www.legislation.gov.uk/uksi/2011/731/regulation/29/8/b) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [28(d)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/28/d)
 
-[^key-ad612f7379972d5da1a65404fd17603b]: Textual amendment: Pt. 10A inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2013/627/regulation/6/2)
+[^c-ad612f7379972d5da1a65404fd17603b]: Textual amendment: Pt. 10A inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2013/627/regulation/6/2)
 
 [^c2076259]: Marginal citation: Schedule 9 was amended by [S.I.2005/600](https://www.legislation.gov.uk/uksi/2005/600) and 2113, S.I 2006/685, [S.I. 2007/771](https://www.legislation.gov.uk/uksi/2007/771) and [S.I. 2010/560](https://www.legislation.gov.uk/uksi/2010/560). It was also modified in relation to partially guaranteed schemes by S.I 2005/600 and for transitional purposes by S.I. 2005 /1720.
 

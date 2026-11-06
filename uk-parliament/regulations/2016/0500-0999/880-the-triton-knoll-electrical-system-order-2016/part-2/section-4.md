@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Maintenance of authorised project[^key-00d6de78b66414e2e56fbe99cda77ef4]
+## 4. Maintenance of authorised project[^c-00d6de78b66414e2e56fbe99cda77ef4]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker may at any time maintain the authorised project except to the ext
 
 ## Annotations
 
-[^key-00d6de78b66414e2e56fbe99cda77ef4]: Commencement: Art. 4 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-00d6de78b66414e2e56fbe99cda77ef4]: Commencement: Art. 4 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)

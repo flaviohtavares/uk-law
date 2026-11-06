@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55. Arbitration[^key-3f7d2f474a1362e9ebfacbf9db33621e]
+## 55. Arbitration[^c-3f7d2f474a1362e9ebfacbf9db33621e]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f7d2f474a1362e9ebfacbf9db33621e]: Commencement: Art. 55 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-3f7d2f474a1362e9ebfacbf9db33621e]: Commencement: Art. 55 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)

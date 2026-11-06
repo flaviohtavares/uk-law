@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.24. List of appearances[^key-8d32fd937151d4d72ed4f42b0c4a50fb]
+## 6.24. List of appearances[^c-8d32fd937151d4d72ed4f42b0c4a50fb]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8d32fd937151d4d72ed4f42b0c4a50fb]: Commencement: [Rule 6.24](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.24) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-8d32fd937151d4d72ed4f42b0c4a50fb]: Commencement: [Rule 6.24](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.24) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00134]: Marginal citation: \[FORM 6.21\]

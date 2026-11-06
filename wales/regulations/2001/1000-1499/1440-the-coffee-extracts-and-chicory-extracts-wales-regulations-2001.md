@@ -39,7 +39,7 @@ Coming into force
 
 1st May 2001
 
-In exercise of the powers conferred by sections 16(1)(a) and (e), 17(1), 26(1) and (3) and 48(1) of the Food Safety Act 1990[^c15956101] and now vested in the National Assembly for Wales[^c15956111], the National Assembly for Wales, having had regard in accordance with section 48(4A) of that Act to relevant advice given by the Food Standards Agency and after consultation in accordance with section 48(4) and (4B) of that Act, makes the following Regulations:[^key-119de530040bb3f7c9688c050b2c81b1]
+In exercise of the powers conferred by sections 16(1)(a) and (e), 17(1), 26(1) and (3) and 48(1) of the Food Safety Act 1990[^c15956101] and now vested in the National Assembly for Wales[^c15956111], the National Assembly for Wales, having had regard in accordance with section 48(4A) of that Act to relevant advice given by the Food Standards Agency and after consultation in accordance with section 48(4) and (4B) of that Act, makes the following Regulations:[^c-119de530040bb3f7c9688c050b2c81b1]
 
 ## 1. Citation, commencement and application
 
@@ -54,8 +54,8 @@ These Regulations may be cited as the Coffee Extracts and Chicory Extracts (Wale
 - “chicory extract” (“*echdynnyn sicori*”) means the concentrated product obtained by extraction from roasted chicory using only water as the method of extraction (excluding any process of hydrolysis involving the addition of an acid or a base);
 - “coffee extract” (“*echdynnyn coffi*”) means the concentrated product obtained by extraction from roasted coffee beans using only water as the medium of extraction (excluding any process of hydrolysis involving the addition of an acid or a base) and which contains only the soluble and aromatic constituents of coffee, apart from those insoluble substances which it is impossible to remove and insoluble oils derived from coffee;
 - “designated product” (“*cynnyrch dynodedig*”) means any food specified in column 2 of Part I or II of the Schedule (as read with any Note in those columns relating to that food) but does not include any product which contains such a food as an ingredient and which is sold, consigned or delivered as a compound product;
-- “[^key-df2ae9958904029e68e669ebbc8ef9d0]**Regulation (EU) No 1169/2011**” (“***Rheoliad (EU) Rhif 1169/2011***”) means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/eur/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/eur/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/eudr/1987/250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/eudr/1990/496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/eudr/1999/10), Directive [2000/13/EC](https://www.legislation.gov.uk/eudr/2000/13) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/eudr/2002/67) and [2008/5/EC](https://www.legislation.gov.uk/eudr/2008/5) and Commission Regulation [(EC) No 608/2004](https://www.legislation.gov.uk/eur/2004/608);
-- [^key-1b2274fd901cfd29c833f570e824ab10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “[^c-df2ae9958904029e68e669ebbc8ef9d0]**Regulation (EU) No 1169/2011**” (“***Rheoliad (EU) Rhif 1169/2011***”) means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/eur/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/eur/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/eudr/1987/250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/eudr/1990/496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/eudr/1999/10), Directive [2000/13/EC](https://www.legislation.gov.uk/eudr/2000/13) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/eudr/2002/67) and [2008/5/EC](https://www.legislation.gov.uk/eudr/2008/5) and Commission Regulation [(EC) No 608/2004](https://www.legislation.gov.uk/eur/2004/608);
+- [^c-1b2274fd901cfd29c833f570e824ab10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “reserved description” (“disgrifiad neilltuedig”), as respects any designated product, means any description specified in relation to that product in column 1 of Part I or II of the Schedule and the use of any such description in these Regulations shall be construed as meaning the designated product specified in relation to that description in column 2 of that Part;
 - “sell” (“*gwerthu*”) includes offer or expose for sale or have in possession for sale, and a “sale” shall be construed accordingly.
 
@@ -88,11 +88,11 @@ No person shall give with any food sold by him or her, or display with any food 
 
 ## 5. Labelling and description of designated products
 
-(1) Without prejudice to Regulation ([^key-a334feafcf1e13217ba30e353ef041a8]EU) No 1169/2011, no person shall sell any designated product unless it is marked or labelled with the following particulars—
+(1) Without prejudice to Regulation ([^c-a334feafcf1e13217ba30e353ef041a8]EU) No 1169/2011, no person shall sell any designated product unless it is marked or labelled with the following particulars—
 
-- (a) subject to paragraph (2) below, a reserved description of the product which shall be the name prescribed by law for that product for the purposes of Article 17 of Regulation ([^key-108669cc4e0f48b36f46241448ee19de]EU) No 1169/2011;
+- (a) subject to paragraph (2) below, a reserved description of the product which shall be the name prescribed by law for that product for the purposes of Article 17 of Regulation ([^c-108669cc4e0f48b36f46241448ee19de]EU) No 1169/2011;
 - (b) the word “decaffeinated” in the case of a product specified in column 2 of Part I of the Schedule which has been subjected to a decaffeination process and in which the residual anhydrous caffeine content does not exceed 0.30% of its coffee-based dry matter content;
-- (c) in the case of a product specified in item 3 of column 2 of Part I or II of the Schedule in which sugar has been used, the words “with X”, “preserved with X”, “with added X” or “roasted with X”, as appropriate, “X” being the name of the sugar product used, which name shall be the reserved description of that product specified in relation thereto in the Specified Sugar Products (Wales) Regulations 2003[^key-7f88bc74109717be185e62734b275493] or, if the sugar product has no such reserved description, the name of the product which if the sugar product were itself being sold as a food would be used, pursuant to Article 17 of Regulation ([^key-5530f5ad31ad7617ba196ad92dfa6b1b]EU) No 1169/2011, as the name of the food;
+- (c) in the case of a product specified in item 3 of column 2 of Part I or II of the Schedule in which sugar has been used, the words “with X”, “preserved with X”, “with added X” or “roasted with X”, as appropriate, “X” being the name of the sugar product used, which name shall be the reserved description of that product specified in relation thereto in the Specified Sugar Products (Wales) Regulations 2003[^c-7f88bc74109717be185e62734b275493] or, if the sugar product has no such reserved description, the name of the product which if the sugar product were itself being sold as a food would be used, pursuant to Article 17 of Regulation ([^c-5530f5ad31ad7617ba196ad92dfa6b1b]EU) No 1169/2011, as the name of the food;
 - (d) in the case of a product specified in item 2 or 3 of column 2 of Part I of the Schedule, a declaration of the minimum coffee-based dry matter content expressed as a percentage; and
 - (e) in the case of a product specified in item 2 or 3 of column 2 of Part II of the Schedule, a declaration of the minimum chicory-based dry matter content expressed as a percentage.
 
@@ -100,7 +100,7 @@ No person shall give with any food sold by him or her, or display with any food 
 
 (3) The information required by paragraph (1)(b) and (c) above shall be in the same field of vision as the reserved description required by paragraph (1)(a) above.
 
-## 6. Manner of marking or labelling[^key-5d5397cfecfad27692831a98e4febca6]
+## 6. Manner of marking or labelling[^c-5d5397cfecfad27692831a98e4febca6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -110,13 +110,13 @@ No person shall give with any food sold by him or her, or display with any food 
 
 (2) Each food authority shall enforce and execute such provisions in its area.
 
-(3) The methods used to determine the free and soluble carbohydrate content of coffee extracts shall be in conformity with Annex 3 of Regulation[^key-894de75faff0cf2395e66323c4e7655d] [(EU) 2017/625](https://www.legislation.gov.uk/eur/2017/625) of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products and shall be validated or standardised.
+(3) The methods used to determine the free and soluble carbohydrate content of coffee extracts shall be in conformity with Annex 3 of Regulation[^c-894de75faff0cf2395e66323c4e7655d] [(EU) 2017/625](https://www.legislation.gov.uk/eur/2017/625) of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products and shall be validated or standardised.
 
-## 8. Transitional provision[^key-d5372f229abbdc53bf2bf9d914d10818]
+## 8. Transitional provision[^c-d5372f229abbdc53bf2bf9d914d10818]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Defence in relation to exports[^key-7099760608a83fc07e34571c6fc3f599]
+## 9. Defence in relation to exports[^c-7099760608a83fc07e34571c6fc3f599]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -137,7 +137,7 @@ The following provisions of the Act shall apply for the purposes of these Regula
 
 ## 11. Amendment and revocation
 
-(1)[^key-d6b801331d03a57e80bc3623f662939d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-d6b801331d03a57e80bc3623f662939d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The following entries relating to the Coffee and Coffee Products Regulations 1978 shall (in so far as the following Regulations apply to Wales), be omitted—
 
@@ -147,7 +147,7 @@ The following provisions of the Act shall apply for the purposes of these Regula
 - (d) in the Food Safety (Exports) Regulations 1991 [^c15956191], in Schedule 1, Part I;
 - (e) in the Food (Forces Exemptions) (Revocations) Regulations 1992 [^c15956201], in Schedule 1, Part I;
 - (f) in the Miscellaneous Food Additives Regulations 1995 [^c15956211], in Schedule 9;
-- (g)[^key-d7d1fe021d10a6566c2d44f2bae34211] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-d7d1fe021d10a6566c2d44f2bae34211] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Coffee and Coffee Products Regulations 1978, the Coffee and Coffee Products (Amendment) Regulations 1982 [^c15956221] and the Coffee and Coffee Products (Amendment) Regulations 1987 [^c15956231] are hereby revoked insofar as they apply to Wales.
 
@@ -211,29 +211,29 @@ The Presiding Officer of the National Assembly
 
 [^c15956111]: Marginal citation: Functions of “the Ministers” under the Food Safety Act 1990, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (SI [1999 No. 672](https://www.legislation.gov.uk/ukcm/1999/672)).
 
-[^key-119de530040bb3f7c9688c050b2c81b1]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2001/1440) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-119de530040bb3f7c9688c050b2c81b1]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2001/1440) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^key-df2ae9958904029e68e669ebbc8ef9d0]: Textual amendment: Words in reg. 2(1) inserted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 22(b)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/22/b)
+[^c-df2ae9958904029e68e669ebbc8ef9d0]: Textual amendment: Words in reg. 2(1) inserted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 22(b)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/22/b)
 
-[^key-1b2274fd901cfd29c833f570e824ab10]: Textual amendment: Words in reg. 2(1) omitted (13.12.2014) by virtue of [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 22(a)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/22/a)
+[^c-1b2274fd901cfd29c833f570e824ab10]: Textual amendment: Words in reg. 2(1) omitted (13.12.2014) by virtue of [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 22(a)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/22/a)
 
-[^key-a334feafcf1e13217ba30e353ef041a8]: Textual amendment: Words in reg. 5(1) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 23(a)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/23/a)
+[^c-a334feafcf1e13217ba30e353ef041a8]: Textual amendment: Words in reg. 5(1) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 23(a)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/23/a)
 
-[^key-108669cc4e0f48b36f46241448ee19de]: Textual amendment: Words in reg. 5(1)(a) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 23(b)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/23/b)
+[^c-108669cc4e0f48b36f46241448ee19de]: Textual amendment: Words in reg. 5(1)(a) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 23(b)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/23/b)
 
-[^key-7f88bc74109717be185e62734b275493]: Textual amendment: Words in reg. 5(1)(c) substituted (28.11.2003) by [The Specified Sugar Products (Wales) Regulations 2003 (S.I. 2003/3047)](https://www.legislation.gov.uk/uksi/2003/3047), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3047/regulation/1), [10(6)](https://www.legislation.gov.uk/uksi/2003/3047/regulation/10/6)
+[^c-7f88bc74109717be185e62734b275493]: Textual amendment: Words in reg. 5(1)(c) substituted (28.11.2003) by [The Specified Sugar Products (Wales) Regulations 2003 (S.I. 2003/3047)](https://www.legislation.gov.uk/uksi/2003/3047), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3047/regulation/1), [10(6)](https://www.legislation.gov.uk/uksi/2003/3047/regulation/10/6)
 
-[^key-5530f5ad31ad7617ba196ad92dfa6b1b]: Textual amendment: Words in reg. 5(1)(c) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 23(c)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/23/c)
+[^c-5530f5ad31ad7617ba196ad92dfa6b1b]: Textual amendment: Words in reg. 5(1)(c) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 23(c)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/23/c)
 
-[^key-5d5397cfecfad27692831a98e4febca6]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/wsi/2001/1440/regulation/6) revoked (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/6/part/1)
+[^c-5d5397cfecfad27692831a98e4febca6]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/wsi/2001/1440/regulation/6) revoked (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/6/part/1)
 
-[^key-894de75faff0cf2395e66323c4e7655d]: Textual amendment: Words in reg. 7(3) substituted (14.12.2019) by [The Official Feed and Food Controls (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1482)](https://www.legislation.gov.uk/wsi/2019/1482), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2019/1482/regulation/2)
+[^c-894de75faff0cf2395e66323c4e7655d]: Textual amendment: Words in reg. 7(3) substituted (14.12.2019) by [The Official Feed and Food Controls (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1482)](https://www.legislation.gov.uk/wsi/2019/1482), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2019/1482/regulation/2)
 
-[^key-d5372f229abbdc53bf2bf9d914d10818]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/wsi/2001/1440/regulation/8) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [6(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/6/3)
+[^c-d5372f229abbdc53bf2bf9d914d10818]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/wsi/2001/1440/regulation/8) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [6(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/6/3)
 
-[^key-7099760608a83fc07e34571c6fc3f599]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/wsi/2001/1440/regulation/9) revoked (1.1.2006) by [The Official Feed and Food Controls (Wales) Regulations 2005 (S.I. 2005/3254)](https://www.legislation.gov.uk/wsi/2005/3254), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/wsi/2005/3254/schedule/6/part/2)
+[^c-7099760608a83fc07e34571c6fc3f599]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/wsi/2001/1440/regulation/9) revoked (1.1.2006) by [The Official Feed and Food Controls (Wales) Regulations 2005 (S.I. 2005/3254)](https://www.legislation.gov.uk/wsi/2005/3254), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/wsi/2005/3254/schedule/6/part/2)
 
-[^key-d6b801331d03a57e80bc3623f662939d]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/wsi/2001/1440/regulation/11/1) revoked (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/6/part/1)
+[^c-d6b801331d03a57e80bc3623f662939d]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/wsi/2001/1440/regulation/11/1) revoked (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/6/part/1)
 
 [^c15956161]: Marginal citation: SI [1982 No. 1727](https://www.legislation.gov.uk/ukcm/1982/1727).
 
@@ -247,7 +247,7 @@ The Presiding Officer of the National Assembly
 
 [^c15956211]: Marginal citation: SI [1995 No. 3187](https://www.legislation.gov.uk/ukcm/1995/3187).
 
-[^key-d7d1fe021d10a6566c2d44f2bae34211]: Textual amendment: [Reg. 11(2)(g)](https://www.legislation.gov.uk/wsi/2001/1440/regulation/11/2/g) revoked (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/6/part/1)
+[^c-d7d1fe021d10a6566c2d44f2bae34211]: Textual amendment: [Reg. 11(2)(g)](https://www.legislation.gov.uk/wsi/2001/1440/regulation/11/2/g) revoked (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/6/part/1)
 
 [^c15956221]: Marginal citation: SI [1982 No. 254](https://www.legislation.gov.uk/ukcm/1982/254).
 

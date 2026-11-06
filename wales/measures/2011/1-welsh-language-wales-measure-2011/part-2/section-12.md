@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Staff[^key-6f85b1fc64004e9d9d704dae7fa90486]
+## 12. Staff[^c-6f85b1fc64004e9d9d704dae7fa90486]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f85b1fc64004e9d9d704dae7fa90486]: Commencement: [S. 12](https://www.legislation.gov.uk/mwa/2011/1/section/12) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/969/article/2/f)
+[^c-6f85b1fc64004e9d9d704dae7fa90486]: Commencement: [S. 12](https://www.legislation.gov.uk/mwa/2011/1/section/12) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/969/article/2/f)

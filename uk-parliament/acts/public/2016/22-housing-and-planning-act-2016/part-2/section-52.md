@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Interpretation of Chapter[^key-e8ced62c9df7e89d36521d44316cf2ec]
+## 52. Interpretation of Chapter[^c-e8ced62c9df7e89d36521d44316cf2ec]
 
 *Extent: E+W*
 
 (1) In this Chapter—
 
-- “[^key-41dbf7a3806cc2ad51e0bc1cc8eacabc]**landlord**” is to be read in accordance with section 40(2A);
+- “[^c-41dbf7a3806cc2ad51e0bc1cc8eacabc]**landlord**” is to be read in accordance with section 40(2A);
 - “**offence to which this Chapter applies**” has the meaning given by section 40;
 - “**relevant award of universal credit**” means an award of universal credit the calculation of which included an amount under section 11 of the Welfare Reform Act 2012;
 - “**rent**” includes any payment in respect of which an amount under section 11 of the Welfare Reform Act 2012 may be included in the calculation of an award of universal credit;
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8ced62c9df7e89d36521d44316cf2ec]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2016/22/section/52) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/c)
+[^c-e8ced62c9df7e89d36521d44316cf2ec]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2016/22/section/52) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/c)
 
-[^key-41dbf7a3806cc2ad51e0bc1cc8eacabc]: Textual amendment: Words in [s. 52(1)](https://www.legislation.gov.uk/ukpga/2016/22/section/52/1) inserted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 103(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/103/8), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/j) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/421/regulation/11))
+[^c-41dbf7a3806cc2ad51e0bc1cc8eacabc]: Textual amendment: Words in [s. 52(1)](https://www.legislation.gov.uk/ukpga/2016/22/section/52/1) inserted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 103(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/103/8), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/j) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/421/regulation/11))

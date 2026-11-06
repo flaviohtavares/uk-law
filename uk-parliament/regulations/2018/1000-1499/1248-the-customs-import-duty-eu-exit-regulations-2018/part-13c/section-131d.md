@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131D. Interpretation[^key-d456698f7c6b0627bf2fb112c1ac950d]
+## 131D. Interpretation[^c-d456698f7c6b0627bf2fb112c1ac950d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In this Part—
 
 ## Annotations
 
-[^key-d456698f7c6b0627bf2fb112c1ac950d]: Textual amendment: Pt. 13C inserted (1.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Customs (Declarations) (Amendment and Modification) (EU Exit) Regulations 2020 (S.I. 2020/1234)](https://www.legislation.gov.uk/uksi/2020/1234), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/3), [3(15)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/3/15); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-d456698f7c6b0627bf2fb112c1ac950d]: Textual amendment: Pt. 13C inserted (1.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Customs (Declarations) (Amendment and Modification) (EU Exit) Regulations 2020 (S.I. 2020/1234)](https://www.legislation.gov.uk/uksi/2020/1234), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/3), [3(15)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/3/15); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

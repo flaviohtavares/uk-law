@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Application to Isles of Scilly[^key-5be7cdb7f796a24b4c33d6e05940acc7]
+## 3. Application to Isles of Scilly[^c-5be7cdb7f796a24b4c33d6e05940acc7]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ These Regulations apply in relation to the Isles of Scilly as if they were a dis
 
 ## Annotations
 
-[^key-5be7cdb7f796a24b4c33d6e05940acc7]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-5be7cdb7f796a24b4c33d6e05940acc7]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

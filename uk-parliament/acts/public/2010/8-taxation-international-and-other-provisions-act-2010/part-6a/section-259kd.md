@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259KD. Deductions from dual inclusion income[^key-79dd104d3e3aa499d2a65f6591cafc71][^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259KD. Deductions from dual inclusion income[^c-79dd104d3e3aa499d2a65f6591cafc71][^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ a reduction under section 259KC is not to exceed the relevant net amount.
 
 ## Annotations
 
-[^key-79dd104d3e3aa499d2a65f6591cafc71]: Textual amendment: S. 259KD inserted (retrospectively) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 paras. 17](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/17), [19(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/19/4)
+[^c-79dd104d3e3aa499d2a65f6591cafc71]: Textual amendment: S. 259KD inserted (retrospectively) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 paras. 17](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/17), [19(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/19/4)
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)

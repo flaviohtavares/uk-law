@@ -50,17 +50,17 @@ The Secretary of State is a Minister designated for the purposes of section 2(2)
 
 The following Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Secretary of State that it is expedient for the references to the European instruments, and the Annex to the European instrument, listed in regulation 2(4) to be construed as references to those instruments and that Annex as amended from time to time.
 
-So far as the following Regulations are made in exercise of powers under the Food Safety Act 1990, the Secretary of State has had regard to relevant advice given by the Food Standards Agency in accordance with section 48(4A) of that Act[^f00005].[^key-61240021366765c9a8a6a8201042207a]
+So far as the following Regulations are made in exercise of powers under the Food Safety Act 1990, the Secretary of State has had regard to relevant advice given by the Food Standards Agency in accordance with section 48(4A) of that Act[^f00005].[^c-61240021366765c9a8a6a8201042207a]
 
-There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00006], during the preparation and evaluation of the following Regulations.[^key-61240021366765c9a8a6a8201042207a]
+There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00006], during the preparation and evaluation of the following Regulations.[^c-61240021366765c9a8a6a8201042207a]
 
-## 1. Citation, commencement and application[^key-418daa764043a4ef4ac7777d5abda5f6]
+## 1. Citation, commencement and application[^c-418daa764043a4ef4ac7777d5abda5f6]
 
 (1) These Regulations may be cited as the Condensed Milk and Dried Milk (England) Regulations 2015 and come into force on 6th April 2015.
 
 (2) These Regulations apply to England only.
 
-## 2. Interpretation[^key-bf7908adc12c27bf4ac88a376bc9fecf]
+## 2. Interpretation[^c-bf7908adc12c27bf4ac88a376bc9fecf]
 
 (1) In these Regulations—
 
@@ -87,7 +87,7 @@ There has been consultation, as required by Article 9 of Regulation [(EC) No 178
 - (c) First Commission [Directive 79/1067/EEC](https://www.legislation.gov.uk/european/directive/1979/1067) laying down Community methods of analysis for testing certain partly or wholly dehydrated preserved milk for human consumption[^f00009];
 - (d) the Annex to First Commission [Directive 87/524/EEC](https://www.legislation.gov.uk/european/directive/1987/0524) laying down Community methods of sampling for chemical analysis for the monitoring of preserved milk products[^f00010].
 
-## 3. Reserved descriptions[^key-82043121b67e987d163211d74a4853cb]
+## 3. Reserved descriptions[^c-82043121b67e987d163211d74a4853cb]
 
 No person may sell any food with a label, whether or not attached to or printed on the wrapper or container, which bears, comprises or includes any reserved description, derivative of a reserved description or substantially similar word or description unless—
 
@@ -95,7 +95,7 @@ No person may sell any food with a label, whether or not attached to or printed 
 - (b) such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that the substance to which it relates is only an ingredient of that food; or
 - (c) such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that such food is not and does not contain a designated product.
 
-## 4. Labelling and description[^key-5bb052243e666d736d94ef950b647b1b]
+## 4. Labelling and description[^c-5bb052243e666d736d94ef950b647b1b]
 
 No person may sell any designated product unless it is marked or labelled with the following particulars—
 
@@ -106,13 +106,13 @@ No person may sell any designated product unless it is marked or labelled with t
   - (i) the recommendations as to the method of dilution or reconstitution and the details of the fat content of the product when diluted or reconstituted, and
   - (ii) a statement that the product is “not intended as a food for infants under 12 months”.
 
-## 5. Manner of marking or labelling[^key-f90c93324873d1c7f1ea779d08fa089f]
+## 5. Manner of marking or labelling[^c-f90c93324873d1c7f1ea779d08fa089f]
 
 (1) The particulars with which a designated product is required to be marked or labelled by virtue of regulation 4(b) or (c) (or both) must appear near the trade name of the product.
 
 (2) Where designated products weighing less than 20 grams per unit are packed in an outer packaging, the particulars required by regulation 4(b) to (d) may appear on the label or the outer packaging.
 
-## 6. Application of provisions of the Act[^key-0f1604621d8389dde131f0c9a2ec0c69]
+## 6. Application of provisions of the Act[^c-0f1604621d8389dde131f0c9a2ec0c69]
 
 (1) Section 10(1) and (2) of the Act (improvement notices) applies with the modification (in the case of section 10(1)) specified in Part 1 of Schedule 3 for the purposes of—
 
@@ -127,7 +127,7 @@ No person may sell any designated product unless it is marked or labelled with t
 
 (5) Paragraphs (1) to (3) apply without prejudice to the application of sections 10, 37 and 39 of the Act to these Regulations for purposes other than those specified in those paragraphs.
 
-## 7. Enforcement[^key-2414c1ae175df5da307716175bf973c7]
+## 7. Enforcement[^c-2414c1ae175df5da307716175bf973c7]
 
 (1) Each food authority must enforce these Regulations in its area.
 
@@ -136,14 +136,14 @@ No person may sell any designated product unless it is marked or labelled with t
 - (a) the council of a district in a non-metropolitan county except where the county functions have been transferred to that council pursuant to a structural change; or
 - (b) the appropriate Treasurer referred to in section 5(1)(c) (which relates to the Inner Temple and Middle Temple).
 
-## 8. Revocations[^key-fa60c8036f75f554977a62b67e028f1f]
+## 8. Revocations[^c-fa60c8036f75f554977a62b67e028f1f]
 
 The following Regulations are revoked—
 
 - (a) the Condensed Milk and Dried Milk (England) Regulations 2003[^f00011];
 - (b) the Condensed Milk and Dried Milk (England) (Amendment) Regulations 2008[^f00012].
 
-## 9. Review[^key-7d399d7ee70e0aab0c95c89df12a5e6f]
+## 9. Review[^c-7d399d7ee70e0aab0c95c89df12a5e6f]
 
 (1) The Secretary of State must from time to time—
 
@@ -191,22 +191,22 @@ Regulation 2(1)
 | (c) Dried partly skimmed milk or partly skimmed milk powder | Totally dehydrated milk containing, by weight, more than 1.5% and less than 26% fat |
 | (d) Dried skimmed milk or skimmed milk powder | Totally dehydrated milk containing, by weight, not more than 1.5% fat |
 
-### 1. Notes[^key-ca2403fa09f68b82a7e2ffcab859c357]
+### 1. Notes[^c-ca2403fa09f68b82a7e2ffcab859c357]
 
 Any designated product may contain—
 
 - (a) any substance permitted pursuant to Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council[^f00014]; and
 - (b) vitamins and minerals in accordance with the requirements of Regulation [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925)[^f00015].
 
-**2.**[^key-8b6c1d824f36cfa6453d62ad4b183f9f][^key-ca2403fa09f68b82a7e2ffcab859c357] An additional quantity of lactose, not greater than 0.03% by weight of the finished product, may be added in the manufacture of any designated product referred to in paragraph 1(e), (f) or (g) in the table in this Schedule.
+**2.**[^c-8b6c1d824f36cfa6453d62ad4b183f9f][^c-ca2403fa09f68b82a7e2ffcab859c357] An additional quantity of lactose, not greater than 0.03% by weight of the finished product, may be added in the manufacture of any designated product referred to in paragraph 1(e), (f) or (g) in the table in this Schedule.
 
-**3.**[^key-570995f42963c93ba4469dfd33fa1410][^key-ca2403fa09f68b82a7e2ffcab859c357] Without prejudice to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council as last amended by[^key-6257e06b93e9f7ae407ec0e51045a3ff] [Commission Regulation (EU) 2017/1981](https://www.legislation.gov.uk/european/regulation/2017/1981) laying down specific hygiene rules for food of animal origin[^f00016], the preservation of the designated products must be achieved—
+**3.**[^c-570995f42963c93ba4469dfd33fa1410][^c-ca2403fa09f68b82a7e2ffcab859c357] Without prejudice to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council as last amended by[^c-6257e06b93e9f7ae407ec0e51045a3ff] [Commission Regulation (EU) 2017/1981](https://www.legislation.gov.uk/european/regulation/2017/1981) laying down specific hygiene rules for food of animal origin[^f00016], the preservation of the designated products must be achieved—
 
 - (a) by heat treatment for the products referred to in paragraph 1(a) to (d) in the table in this Schedule;
 - (b) by the addition of sucrose for the products referred to in paragraph 1(e) to (g) in the table in this Schedule; and
 - (c) by dehydration for the products referred to in paragraph 2(a) to (d) in the table in this Schedule.
 
-**4.**[^key-6e08f18d76719e930b3227b00d25b1f0][^key-ca2403fa09f68b82a7e2ffcab859c357] (1) Without prejudice to the compositional requirements set out in the table in this Schedule, the protein content of milk may be adjusted to a minimum content of 34% by weight (expressed on fat-free dry matter) by the addition or withdrawal (or both) of milk constituents in such a way as not to alter the ratio of whey protein to casein in the milk being adjusted.
+**4.**[^c-6e08f18d76719e930b3227b00d25b1f0][^c-ca2403fa09f68b82a7e2ffcab859c357] (1) Without prejudice to the compositional requirements set out in the table in this Schedule, the protein content of milk may be adjusted to a minimum content of 34% by weight (expressed on fat-free dry matter) by the addition or withdrawal (or both) of milk constituents in such a way as not to alter the ratio of whey protein to casein in the milk being adjusted.
 
 (2) Authorised raw materials for protein adjustment purposes referred to in paragraph (1) are as follows—
 
@@ -214,17 +214,17 @@ Any designated product may contain—
 - (b) milk permeate, which is the product obtained by removing milk proteins and milk fat from milk, partly skimmed milk or skimmed milk by ultrafiltration; and
 - (c) lactose, which is a natural constituent of milk normally obtained from whey with an anhydrous lactose content of not less than 99.0% m/m (mass over mass) on a dry basis, and which may be anhydrous or contain one molecule of water of crystallisation or be a mixture of both forms.
 
-**5.**[^key-ed48bb9710bdec0ba8d20a45daf4be86][^key-ca2403fa09f68b82a7e2ffcab859c357] The levels of dry matter, moisture content, fat, sucrose, lactic acid and lactates and phosphatase activity in the designated products must be determined in accordance with the methods set out in First Commission [Directive 79/1067/EEC](https://www.legislation.gov.uk/european/directive/1979/1067)[^f00017].
+**5.**[^c-ed48bb9710bdec0ba8d20a45daf4be86][^c-ca2403fa09f68b82a7e2ffcab859c357] The levels of dry matter, moisture content, fat, sucrose, lactic acid and lactates and phosphatase activity in the designated products must be determined in accordance with the methods set out in First Commission [Directive 79/1067/EEC](https://www.legislation.gov.uk/european/directive/1979/1067)[^f00017].
 
 ## SCHEDULE 2 — Permitted alternative descriptions to the reserved descriptions specified in Schedule 1
 
 Regulation 2(1)
 
-**1.**[^key-7909f380e5ded523a3a499ac2b90787a] The term “evaporated milk” may be used instead of the term “condensed milk” in the case of partly dehydrated milk containing, by weight, at least 9% fat and 31% total milk solids.
+**1.**[^c-7909f380e5ded523a3a499ac2b90787a] The term “evaporated milk” may be used instead of the term “condensed milk” in the case of partly dehydrated milk containing, by weight, at least 9% fat and 31% total milk solids.
 
-**2.**[^key-e724f4b8c544480be570ba9400684c74] The term “evaporated semi-skimmed milk” may be used instead of the term “condensed partly skimmed milk” in the case of partly dehydrated milk containing, by weight, between 4% and 4.5% fat and not less than 24% total milk solids.
+**2.**[^c-e724f4b8c544480be570ba9400684c74] The term “evaporated semi-skimmed milk” may be used instead of the term “condensed partly skimmed milk” in the case of partly dehydrated milk containing, by weight, between 4% and 4.5% fat and not less than 24% total milk solids.
 
-**3.**[^key-a77bfd2de895811f2b4c8554e81b779d] The term “semi-skimmed milk powder” or “dried semi-skimmed milk” may be used instead of the term “dried partly skimmed milk” or “partly skimmed milk powder” in the case of totally dehydrated milk with a fat content of between 14% and 16%.
+**3.**[^c-a77bfd2de895811f2b4c8554e81b779d] The term “semi-skimmed milk powder” or “dried semi-skimmed milk” may be used instead of the term “dried partly skimmed milk” or “partly skimmed milk powder” in the case of totally dehydrated milk with a fat content of between 14% and 16%.
 
 ## SCHEDULE 3 — Application and modification of provisions of the Act
 
@@ -232,7 +232,7 @@ Regulation 6
 
 ### PART 1 — Modification of section 10(1)
 
-**1.**[^key-a636836b3638a7e5705216031fe9238d] For section 10(1) of the Act (improvement notices) substitute—
+**1.**[^c-a636836b3638a7e5705216031fe9238d] For section 10(1) of the Act (improvement notices) substitute—
 
 > (1) If an authorised officer of an enforcement authority has reasonable grounds for believing that a person is failing to comply with regulation 3, 4 or 5 of the Condensed Milk and Dried Milk (England) Regulations 2015, the authorised officer may, by a notice served on that person (in this Act referred to as an “improvement notice”)—
 >
@@ -245,7 +245,7 @@ Regulation 6
 
 ### PART 2 — Modification of section 37(1) and (6)
 
-**2.**[^key-22b0365808762df8ea761d37ff36b9d7] (1) For section 37(1) of the Act (appeals) substitute—
+**2.**[^c-22b0365808762df8ea761d37ff36b9d7] (1) For section 37(1) of the Act (appeals) substitute—
 
 > (1) Any person who is aggrieved by a decision of an authorised officer of an enforcement authority to serve an improvement notice under section 10(1), as applied and modified by regulation 6 of, and Part 1 of Schedule 3 to, the Condensed Milk and Dried Milk (England) Regulations 2015, may appeal to the First-tier Tribunal.
 
@@ -258,7 +258,7 @@ Regulation 6
 
 ### PART 3 — Modification of section 39(1) and (3)
 
-**3.**[^key-ec12af8a62cab5b852ff050596ceece2] (1) For section 39(1) of the Act (appeals against improvement notices) substitute—
+**3.**[^c-ec12af8a62cab5b852ff050596ceece2] (1) For section 39(1) of the Act (appeals against improvement notices) substitute—
 
 > (1) On an appeal against an improvement notice served under section 10(1), as applied and modified by regulation 6 of, and Part 1 of Schedule 3 to, the Condensed Milk and Dried Milk (England) Regulations 2015, the First-tier Tribunal may either cancel or affirm the notice and, if it affirms it, may do so either in its original form or with such modifications as the First-tier Tribunal may in the circumstances think fit.
 
@@ -266,7 +266,7 @@ Regulation 6
 
 (2) In section 39(3), omit “for want of prosecution”.
 
-### PART 4 — Application and modification of other provisions of the Act[^key-af70305a484e0632f64a239d0bf6af98]
+### PART 4 — Application and modification of other provisions of the Act[^c-af70305a484e0632f64a239d0bf6af98]
 
 | Provision of the Act | Modifications |
 | --- | --- |
@@ -318,13 +318,13 @@ No impact assessment has been prepared for this instrument as no impact, or no s
 
 [^f00005]: Footnote: Section 48(4A) was inserted by the Food Standards Act 1999, Schedule 5, paragraph 21.
 
-[^key-61240021366765c9a8a6a8201042207a]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2015/675) applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-61240021366765c9a8a6a8201042207a]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2015/675) applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^f00006]: Footnote: OJ No L 31, 1.2.02, p 1, last amended by Regulation [(EC) No 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) of the European Parliament and of the Council (OJ No L 188, 18.7.09, p 14).
 
-[^key-418daa764043a4ef4ac7777d5abda5f6]: Commencement: Reg. 1 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-418daa764043a4ef4ac7777d5abda5f6]: Commencement: Reg. 1 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
-[^key-bf7908adc12c27bf4ac88a376bc9fecf]: Commencement: Reg. 2 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-bf7908adc12c27bf4ac88a376bc9fecf]: Commencement: Reg. 2 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
 [^f00007]: Footnote: OJ No L 354, 31.12.08, p 16, last amended by Commission Regulation (EU) No 298/2014 (OJ No L 89, 25.3.14, p 36).
 
@@ -334,59 +334,59 @@ No impact assessment has been prepared for this instrument as no impact, or no s
 
 [^f00010]: Footnote: OJ No L 306, 28.10.87, p 24.
 
-[^key-82043121b67e987d163211d74a4853cb]: Commencement: Reg. 3 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-82043121b67e987d163211d74a4853cb]: Commencement: Reg. 3 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
-[^key-5bb052243e666d736d94ef950b647b1b]: Commencement: Reg. 4 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-5bb052243e666d736d94ef950b647b1b]: Commencement: Reg. 4 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
-[^key-f90c93324873d1c7f1ea779d08fa089f]: Commencement: Reg. 5 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-f90c93324873d1c7f1ea779d08fa089f]: Commencement: Reg. 5 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
-[^key-0f1604621d8389dde131f0c9a2ec0c69]: Commencement: Reg. 6 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-0f1604621d8389dde131f0c9a2ec0c69]: Commencement: Reg. 6 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
-[^key-2414c1ae175df5da307716175bf973c7]: Commencement: Reg. 7 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-2414c1ae175df5da307716175bf973c7]: Commencement: Reg. 7 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
-[^key-fa60c8036f75f554977a62b67e028f1f]: Commencement: Reg. 8 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-fa60c8036f75f554977a62b67e028f1f]: Commencement: Reg. 8 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
 [^f00011]: Footnote: [S.I. 2003/1596](https://www.legislation.gov.uk/uksi/2003/1596), amended by [S.I. 2005/2626](https://www.legislation.gov.uk/uksi/2005/2626), [2006/14](https://www.legislation.gov.uk/uksi/2006/14), [2008/85](https://www.legislation.gov.uk/uksi/2008/85) and [2009/3238](https://www.legislation.gov.uk/uksi/2009/3238).
 
 [^f00012]: Footnote: [S.I. 2008/85](https://www.legislation.gov.uk/uksi/2008/85).
 
-[^key-7d399d7ee70e0aab0c95c89df12a5e6f]: Commencement: Reg. 9 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-7d399d7ee70e0aab0c95c89df12a5e6f]: Commencement: Reg. 9 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
 [^f00013]: Footnote: OJ No L 15, 17.1.02, p 19, last amended by Regulation (EU) No 1021/2013 of the European Parliament and of the Council (OJ No L 287, 29.10.13, p 1).
 
-[^key-ca2403fa09f68b82a7e2ffcab859c357]: Commencement: Sch. 1 para. 1 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-ca2403fa09f68b82a7e2ffcab859c357]: Commencement: Sch. 1 para. 1 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
 [^f00014]: Footnote: OJ No L 354, 31.12.08, p 16, last amended by Commission Regulation (EU) No 298/2014 (OJ No L 89, 25.3.14, p 36).
 
 [^f00015]: Footnote: OJ No L 404, 30.12.06, p 26, last amended by Regulation (EU) No 1169/2011 of the European Parliament and of the Council (OJ No L 304, 22.11.11, p 18).
 
-[^key-8b6c1d824f36cfa6453d62ad4b183f9f]: Commencement: Sch. 1 para. 2 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-8b6c1d824f36cfa6453d62ad4b183f9f]: Commencement: Sch. 1 para. 2 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
-[^key-570995f42963c93ba4469dfd33fa1410]: Commencement: Sch. 1 para. 3 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-570995f42963c93ba4469dfd33fa1410]: Commencement: Sch. 1 para. 3 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
-[^key-6257e06b93e9f7ae407ec0e51045a3ff]: Textual amendment: Words in Sch. 1 Notes para. 3 inserted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2019/526/regulation/30)
+[^c-6257e06b93e9f7ae407ec0e51045a3ff]: Textual amendment: Words in Sch. 1 Notes para. 3 inserted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2019/526/regulation/30)
 
 [^f00016]: Footnote: OJ No L 139, 30.4.04, p 55 (corrected version in OJ No L 226, 25.6.04, p 22), last amended by Commission Regulation (EU) No 218/2014 (OJ No L 69, 8.3.14. p 95).
 
-[^key-6e08f18d76719e930b3227b00d25b1f0]: Commencement: Sch. 1 para. 4 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-6e08f18d76719e930b3227b00d25b1f0]: Commencement: Sch. 1 para. 4 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
-[^key-ed48bb9710bdec0ba8d20a45daf4be86]: Commencement: Sch. 1 para. 5 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-ed48bb9710bdec0ba8d20a45daf4be86]: Commencement: Sch. 1 para. 5 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
 [^f00017]: Footnote: OJ No L 327, 24.12.79, p 29.
 
-[^key-7909f380e5ded523a3a499ac2b90787a]: Commencement: Sch. 2 para. 1 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-7909f380e5ded523a3a499ac2b90787a]: Commencement: Sch. 2 para. 1 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
-[^key-e724f4b8c544480be570ba9400684c74]: Commencement: Sch. 2 para. 2 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-e724f4b8c544480be570ba9400684c74]: Commencement: Sch. 2 para. 2 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
-[^key-a77bfd2de895811f2b4c8554e81b779d]: Commencement: Sch. 2 para. 3 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-a77bfd2de895811f2b4c8554e81b779d]: Commencement: Sch. 2 para. 3 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
-[^key-a636836b3638a7e5705216031fe9238d]: Commencement: Sch. 3 para. 1 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-a636836b3638a7e5705216031fe9238d]: Commencement: Sch. 3 para. 1 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
-[^key-22b0365808762df8ea761d37ff36b9d7]: Commencement: Sch. 3 para. 2 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-22b0365808762df8ea761d37ff36b9d7]: Commencement: Sch. 3 para. 2 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
-[^key-ec12af8a62cab5b852ff050596ceece2]: Commencement: Sch. 3 para. 3 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-ec12af8a62cab5b852ff050596ceece2]: Commencement: Sch. 3 para. 3 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
-[^key-af70305a484e0632f64a239d0bf6af98]: Commencement: Sch. 3 Pt. 4 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
+[^c-af70305a484e0632f64a239d0bf6af98]: Commencement: Sch. 3 Pt. 4 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/1/1)
 
 [^f00018]: Footnote: Section 2(1) was amended by the Food Standards Act [1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28), Schedule 5, paragraph 8.
 

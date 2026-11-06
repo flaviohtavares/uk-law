@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 91. Creditors not required to prove small debts: individual insolvency[^key-2bc209d12c93a821421dab023d6908f4]
+## 91. Creditors not required to prove small debts: individual insolvency[^c-2bc209d12c93a821421dab023d6908f4]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ In Schedule 6 (provision that may be included in individual insolvency rules), a
 
 ## Annotations
 
-[^key-2bc209d12c93a821421dab023d6908f4]: Commencement: S. 91 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-2bc209d12c93a821421dab023d6908f4]: Commencement: S. 91 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

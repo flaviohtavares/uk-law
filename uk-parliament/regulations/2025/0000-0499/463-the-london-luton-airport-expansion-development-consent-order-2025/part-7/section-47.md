@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Defence to proceedings in respect of statutory nuisance[^key-1d774d3091a088ea453c8889170ebb7e]
+## 47. Defence to proceedings in respect of statutory nuisance[^c-1d774d3091a088ea453c8889170ebb7e]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1d774d3091a088ea453c8889170ebb7e]: Commencement: Art. 47 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-1d774d3091a088ea453c8889170ebb7e]: Commencement: Art. 47 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
 
 [^f00092]: Footnote: [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43). Section 82(1) was amended by paragraph 6(a) of Schedule 17 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
 

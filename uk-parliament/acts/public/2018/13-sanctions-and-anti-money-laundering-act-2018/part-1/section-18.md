@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Report in respect of offences in regulations[^key-2d5412e65ec2448d6b3ead5c943d5abb]
+## 18. Report in respect of offences in regulations[^c-2d5412e65ec2448d6b3ead5c943d5abb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d5412e65ec2448d6b3ead5c943d5abb]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/2018/13/section/18) omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/63/1/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-2d5412e65ec2448d6b3ead5c943d5abb]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/2018/13/section/18) omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/63/1/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

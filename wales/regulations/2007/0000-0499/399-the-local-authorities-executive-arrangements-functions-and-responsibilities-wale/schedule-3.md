@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — FUNCTIONS NOT TO BE THE SOLE RESPONSIBILITY OF AN AUTHORITY'S EXECUTIVE[^key-183b7ba9ca6b0c3d0240b0d10437d0b9]
+## SCHEDULE 3 — FUNCTIONS NOT TO BE THE SOLE RESPONSIBILITY OF AN AUTHORITY'S EXECUTIVE[^c-183b7ba9ca6b0c3d0240b0d10437d0b9]
 
 *Extent: E+W*
 
@@ -43,16 +43,16 @@ Regulation 5
 </tbody>
 </table>
 
-[^key-dd90ffa309f5bd576a3a8371d869265d][^key-7ddc7ba98e75cf6fb279e39e6b60918e][^key-cf5e68892c2b2b45aad7679123683a66][^key-6f0531f7c58dc2a3b1387cdca022a948]
+[^c-dd90ffa309f5bd576a3a8371d869265d][^c-7ddc7ba98e75cf6fb279e39e6b60918e][^c-cf5e68892c2b2b45aad7679123683a66][^c-6f0531f7c58dc2a3b1387cdca022a948]
 
 ## Annotations
 
-[^key-183b7ba9ca6b0c3d0240b0d10437d0b9]: Commencement: Sch. 3 in force at 16.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/399/regulation/1/1)
+[^c-183b7ba9ca6b0c3d0240b0d10437d0b9]: Commencement: Sch. 3 in force at 16.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/399/regulation/1/1)
 
-[^key-dd90ffa309f5bd576a3a8371d869265d]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2007/399/schedule/3) substituted (2.12.2009) by [The Local Authorities (Executive Arrangements) (Functions and Responsibilities) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2983)](https://www.legislation.gov.uk/wsi/2009/2983), [regs. 1](https://www.legislation.gov.uk/wsi/2009/2983/regulation/1), [5(a)](https://www.legislation.gov.uk/wsi/2009/2983/regulation/5/a)
+[^c-dd90ffa309f5bd576a3a8371d869265d]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2007/399/schedule/3) substituted (2.12.2009) by [The Local Authorities (Executive Arrangements) (Functions and Responsibilities) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2983)](https://www.legislation.gov.uk/wsi/2009/2983), [regs. 1](https://www.legislation.gov.uk/wsi/2009/2983/regulation/1), [5(a)](https://www.legislation.gov.uk/wsi/2009/2983/regulation/5/a)
 
-[^key-7ddc7ba98e75cf6fb279e39e6b60918e]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2007/399/schedule/3) substituted (2.12.2009) by [The Local Authorities (Executive Arrangements) (Functions and Responsibilities) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2983)](https://www.legislation.gov.uk/wsi/2009/2983), [regs. 1](https://www.legislation.gov.uk/wsi/2009/2983/regulation/1), [5(b)](https://www.legislation.gov.uk/wsi/2009/2983/regulation/5/b)
+[^c-7ddc7ba98e75cf6fb279e39e6b60918e]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2007/399/schedule/3) substituted (2.12.2009) by [The Local Authorities (Executive Arrangements) (Functions and Responsibilities) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2983)](https://www.legislation.gov.uk/wsi/2009/2983), [regs. 1](https://www.legislation.gov.uk/wsi/2009/2983/regulation/1), [5(b)](https://www.legislation.gov.uk/wsi/2009/2983/regulation/5/b)
 
-[^key-cf5e68892c2b2b45aad7679123683a66]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2007/399/schedule/3) inserted (2.12.2009) by [The Local Authorities (Executive Arrangements) (Functions and Responsibilities) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2983)](https://www.legislation.gov.uk/wsi/2009/2983), [regs. 1](https://www.legislation.gov.uk/wsi/2009/2983/regulation/1), [5(c)(i)](https://www.legislation.gov.uk/wsi/2009/2983/regulation/5/c/i)
+[^c-cf5e68892c2b2b45aad7679123683a66]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2007/399/schedule/3) inserted (2.12.2009) by [The Local Authorities (Executive Arrangements) (Functions and Responsibilities) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2983)](https://www.legislation.gov.uk/wsi/2009/2983), [regs. 1](https://www.legislation.gov.uk/wsi/2009/2983/regulation/1), [5(c)(i)](https://www.legislation.gov.uk/wsi/2009/2983/regulation/5/c/i)
 
-[^key-6f0531f7c58dc2a3b1387cdca022a948]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2007/399/schedule/3) inserted (2.12.2009) by [The Local Authorities (Executive Arrangements) (Functions and Responsibilities) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2983)](https://www.legislation.gov.uk/wsi/2009/2983), [regs. 1](https://www.legislation.gov.uk/wsi/2009/2983/regulation/1), [5(c)(ii)](https://www.legislation.gov.uk/wsi/2009/2983/regulation/5/c/ii)
+[^c-6f0531f7c58dc2a3b1387cdca022a948]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2007/399/schedule/3) inserted (2.12.2009) by [The Local Authorities (Executive Arrangements) (Functions and Responsibilities) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2983)](https://www.legislation.gov.uk/wsi/2009/2983), [regs. 1](https://www.legislation.gov.uk/wsi/2009/2983/regulation/1), [5(c)(ii)](https://www.legislation.gov.uk/wsi/2009/2983/regulation/5/c/ii)

@@ -46,7 +46,7 @@ The Department of the Environment has been designated [^c21300711] for the purpo
 
 In accordance with section 57(11) of the Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 the Department has consulted such representative organisations as it thinks fit.
 
-## PART 1 — Preliminary provisions[^key-9d5c386d44bb3f83596d28d379ba74cc]
+## PART 1 — Preliminary provisions[^c-9d5c386d44bb3f83596d28d379ba74cc]
 
 ### 1. Citation, commencement and interpretation
 
@@ -57,30 +57,30 @@ In accordance with section 57(11) of the Goods Vehicles (Licensing of Operators)
 (3) In these Regulations—
 
 - “**the 2010 Act**” means the Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 [^c21300731];
-- “the Department” means the Department for Infrastructure;[^key-6f8e7e121a5c65d0b1da1fc8dc1c113d]
-- “ the 2010 Act[^key-d14d3b3c177e724485286b5d96f7fe20] ” means Regulation [(EC) No. 1071/2009](https://www.legislation.gov.uk/european/regulation/2009/1071) of the European Parliament and of the Council of 21 October 2009 establishing common rules concerning the conditions to be complied with to pursue the occupation of road transport operator and repealing Council Directive [96/26/EC](https://www.legislation.gov.uk/european/directive/1996/0026);
-- “[^key-fb43b6f4641ac753f7490ae18468531d]**transport service**” means the use of a goods vehicle for which an operator’s licence is required under section 1 of the 2010 Act (operators’ licences);
+- “the Department” means the Department for Infrastructure;[^c-6f8e7e121a5c65d0b1da1fc8dc1c113d]
+- “ the 2010 Act[^c-d14d3b3c177e724485286b5d96f7fe20] ” means Regulation [(EC) No. 1071/2009](https://www.legislation.gov.uk/european/regulation/2009/1071) of the European Parliament and of the Council of 21 October 2009 establishing common rules concerning the conditions to be complied with to pursue the occupation of road transport operator and repealing Council Directive [96/26/EC](https://www.legislation.gov.uk/european/directive/1996/0026);
+- “[^c-fb43b6f4641ac753f7490ae18468531d]**transport service**” means the use of a goods vehicle for which an operator’s licence is required under section 1 of the 2010 Act (operators’ licences);
 - “**other relevant person**” means in the case of an individual, an employee or agent of the individual and in the case of a company means any officer, agent or employee of the company.
 
 (4) Expressions used in Regulation 1071/2009 have the same meaning when used in these Regulations.
 
-### 1A. Transitional provisions[^key-64e16c86363ee019ba651d910a2c6d5c]
+### 1A. Transitional provisions[^c-64e16c86363ee019ba651d910a2c6d5c]
 
 The Schedule (which contains transitional provisions) has effect.
 
-### 2. Competent authority[^key-f5e893c37b0e2ec8a8dced2626a15f89]
+### 2. Competent authority[^c-f5e893c37b0e2ec8a8dced2626a15f89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Authorisations to pursue the occupation of road transport operator[^key-f5e893c37b0e2ec8a8dced2626a15f89]
+### 3. Authorisations to pursue the occupation of road transport operator[^c-f5e893c37b0e2ec8a8dced2626a15f89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Notification of changes to data[^key-f5e893c37b0e2ec8a8dced2626a15f89]
+### 4. Notification of changes to data[^c-f5e893c37b0e2ec8a8dced2626a15f89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Provisions relating to the 2010 Act[^key-66200d447828c1a16a6ad35d07a888b8]
+## PART 2 — Provisions relating to the 2010 Act[^c-66200d447828c1a16a6ad35d07a888b8]
 
 ### Effective and stable establishment
 
@@ -118,14 +118,14 @@ The Schedule (which contains transitional provisions) has effect.
 
 ### Good repute
 
-### 5. Determination of good repute[^key-cb9841ebd90ae755efb77a56512170ef][^key-086601ccbeba33a1dfef498df37ab0fe]
+### 5. Determination of good repute[^c-cb9841ebd90ae755efb77a56512170ef][^c-086601ccbeba33a1dfef498df37ab0fe]
 
-(1) In determining whether an individual is of good repute under section 12A(2)(b) of the 2010 Act or regulation 13A(1)(b)[^key-f5d6f1b8f87bc9a8f02bfbf4458d05e3] , the Department may have regard to any matter but shall, in particular, have regard to—
+(1) In determining whether an individual is of good repute under section 12A(2)(b) of the 2010 Act or regulation 13A(1)(b)[^c-f5d6f1b8f87bc9a8f02bfbf4458d05e3] , the Department may have regard to any matter but shall, in particular, have regard to—
 
 - (a) any convictions or penalties incurred by the individual or any other relevant person; and
 - (b) any other information in its possession which appears to the Department to relate to the individual's fitness to hold a licence.
 
-(2) In determining whether a company is of good repute under section 12A(2)(b) of the 2010 Act[^key-cf3bf7af41db54fa1fd8d979aef36ed8] , the Department shall have regard to all the material evidence including, in particular—
+(2) In determining whether a company is of good repute under section 12A(2)(b) of the 2010 Act[^c-cf3bf7af41db54fa1fd8d979aef36ed8] , the Department shall have regard to all the material evidence including, in particular—
 
 - (a) any convictions or penalties incurred by the company, company employees or any other relevant person; and
 - (b) any other information in its possession as to the previous conduct of the company or any other relevant person if that conduct appears to the Department to relate to the company's fitness to hold a licence.
@@ -174,16 +174,16 @@ Without prejudice to the generality of the Department's power under regulation 5
 
 ### 9. Further provisions for the purposes of regulations 5 to 8
 
-(1)[^key-d1f80dd16a50c04e387349f6ed9d1aec] For the purposes of regulations 5 to 8—
+(1)[^c-d1f80dd16a50c04e387349f6ed9d1aec] For the purposes of regulations 5 to 8—
 
 - (a) convictions which are spent for the purposes of the Rehabilitation of Offenders (Northern Ireland) Order 1978 [^c21300761] shall be disregarded; and
-- (b)[^key-e851903278e1fa6018e80fb885187cbd] the Department may also disregard an offence—
+- (b)[^c-e851903278e1fa6018e80fb885187cbd] the Department may also disregard an offence—
   - (i) if such time as the Department thinks appropriate has elapsed since the date of the conviction; or
   - (ii) if the Department, having considered the number of offences committed by a person, determines that due to specific circumstances a negative determination of good repute for the person would constitute a disproportionate response.
 
-(2)[^key-344b8b428e188f042c4cc4ec98cd495c] In determining the good repute of a transport manager under regulation 13A(1)(b) regulations 5 to 9 shall apply as they apply to an individual with the omission of the words “or any other relevant person”.
+(2)[^c-344b8b428e188f042c4cc4ec98cd495c] In determining the good repute of a transport manager under regulation 13A(1)(b) regulations 5 to 9 shall apply as they apply to an individual with the omission of the words “or any other relevant person”.
 
-### Appropriate financial standing[^key-24bcb091d5969dcd5df69328aa3d9455]
+### Appropriate financial standing[^c-24bcb091d5969dcd5df69328aa3d9455]
 
 #### 9A. Determination of appropriate financial standing
 
@@ -212,15 +212,15 @@ Without prejudice to the generality of the Department's power under regulation 5
 
 ### Professional competence
 
-### 10. Professional Competence[^key-7bef1619e62e7d0fceb8f90b20f34ebf]
+### 10. Professional Competence[^c-7bef1619e62e7d0fceb8f90b20f34ebf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Determination of professional competence[^key-70620feba6bdb9bd5de6aa64c3675cf3]
+### Determination of professional competence[^c-70620feba6bdb9bd5de6aa64c3675cf3]
 
 ### 11.
 
-(1) An individual shall be regarded as professionally competent under section 12A(3)(a)(i) of the 2010 Act or regulation 13A(1)(c)[^key-41d02a2a1a43c28cf8748564887d0de4] if, and only if—
+(1) An individual shall be regarded as professionally competent under section 12A(3)(a)(i) of the 2010 Act or regulation 13A(1)(c)[^c-41d02a2a1a43c28cf8748564887d0de4] if, and only if—
 
 - (a) that person has demonstrated that they possess the requisite skills by passing a written examination organised by an approved body and is the holder of a certificate to that effect issued by that body; or
 - (b) that person is the holder of any other certificate of competence, diploma or other qualification recognised for the purposes of this paragraph by the Department.
@@ -233,18 +233,18 @@ Without prejudice to the generality of the Department's power under regulation 5
 
 - “approved body” mentioned in paragraph (4) means—
   - (a) a body approved by the Secretary of State for the purposes of paragraph 13(3) of Schedule 3 to the Goods Vehicles (Licensing of Operators ) Act 1995 [^c21300771]; or
-  - (b) a body approved by the Department for Infrastructure for the purposes of[^key-6a0e0a5abd1e0b0198e0f4b126e7716d] this regulation[^key-7ab108b7877a31ffbded05c19df9f588] ; and
+  - (b) a body approved by the Department for Infrastructure for the purposes of[^c-6a0e0a5abd1e0b0198e0f4b126e7716d] this regulation[^c-7ab108b7877a31ffbded05c19df9f588] ; and
 - “**the requisite skills**” means knowledge corresponding to the level of training, for either national or international transport operations as the case may be, provided for in Annex I to Regulation 1071/2009 in the subjects there listed.
 
-### 12.[^key-76882a188c076833c085282a090370a4]
+### 12.[^c-76882a188c076833c085282a090370a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13.[^key-86e1418a5c9a8acbc25c67d5cb26c2e8]
+### 13.[^c-86e1418a5c9a8acbc25c67d5cb26c2e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Transport manager[^key-47b5f9d2163c534bb047dedd54e185b9]
+### Transport manager[^c-47b5f9d2163c534bb047dedd54e185b9]
 
 #### 13A. Requirements for transport manager
 
@@ -311,8 +311,8 @@ Without prejudice to the generality of the Department's power under regulation 5
 
 (3) While a disqualification under paragraph (2) is in force—
 
-- (a) the person may not act as transport manager in relation to any operator’s licence[^key-1a437bd11b9f2c23abe8a902c3f253c1] ;
-- (b)[^key-75b1b01e4db68645efe2951fe0f3cdfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the person may not act as transport manager in relation to any operator’s licence[^c-1a437bd11b9f2c23abe8a902c3f253c1] ;
+- (b)[^c-75b1b01e4db68645efe2951fe0f3cdfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) A person in respect of whom an order has been made under paragraph (2) may appeal to the Upper Tribunal against the order.
 
@@ -320,11 +320,11 @@ Without prejudice to the generality of the Department's power under regulation 5
 
 (6) If the Department refuses to give a direction under paragraph (5), the person in respect of whom the order has been made may apply to the Upper Tribunal for such a direction.
 
-(7)[^key-94a3616396be26f08fe93a4491e851e4] Regulation 9 applies for the purposes of this regulation as it applies for the purposes of regulations 5 to 8.
+(7)[^c-94a3616396be26f08fe93a4491e851e4] Regulation 9 applies for the purposes of this regulation as it applies for the purposes of regulations 5 to 8.
 
 ### 16. Transport managers: cancellation or variation of disqualification order
 
-(1) Where a disqualification order is made under regulation 15(2) the Department may, subject to paragraphs (1A) and[^key-43c7615067bc50445b78077e0908aa4a] (2), at any time cancel the order or, with the consent of the disqualified person, vary the order.
+(1) Where a disqualification order is made under regulation 15(2) the Department may, subject to paragraphs (1A) and[^c-43c7615067bc50445b78077e0908aa4a] (2), at any time cancel the order or, with the consent of the disqualified person, vary the order.
 
 (1A)[^M_F_09765b46-abdb-4a83-b3f9-31d93a3a0712] If the disqualification order was made because the Department determined that the disqualified person ceased to be of good repute, the order may be cancelled—
 
@@ -350,7 +350,7 @@ Without prejudice to the generality of the Department's power under regulation 5
 
 (6) The Department must hold an inquiry as provided in section 32 of the 2010 Act if the disqualified person requests one under paragraph (4)(c).
 
-## PART 3 — Amendments to the 2010 Act[^key-d19551474f2500617c0f0a3bbab606dc]
+## PART 3 — Amendments to the 2010 Act[^c-d19551474f2500617c0f0a3bbab606dc]
 
 ### 17. Amendments to the 2010 Act
 
@@ -551,7 +551,7 @@ A senior officer of the
 
 Department of the Environment
 
-## SCHEDULE — Transitional provisions[^key-88cf9ab72a94cb4c872bf71f442e7cfb]
+## SCHEDULE — Transitional provisions[^c-88cf9ab72a94cb4c872bf71f442e7cfb]
 
 Regulation 1A
 
@@ -611,74 +611,74 @@ A Regulatory Impact Assessment has been prepared and copies are available from T
 
 [^c21300711]: Marginal citation: [S.I](https://www.legislation.gov.uk/nisr/2012/257/section/I). 1996/ 266; to which there are amendments not relevant to these Regulations.
 
-[^key-9d5c386d44bb3f83596d28d379ba74cc]: Textual amendment: Pt. 1 heading and cross-heading inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [108](https://www.legislation.gov.uk/uksi/2022/293/regulation/108)
+[^c-9d5c386d44bb3f83596d28d379ba74cc]: Textual amendment: Pt. 1 heading and cross-heading inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [108](https://www.legislation.gov.uk/uksi/2022/293/regulation/108)
 
 [^c21300721]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
 [^c21300731]: Marginal citation: [2010 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2010/2)
 
-[^key-6f8e7e121a5c65d0b1da1fc8dc1c113d]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/2012/257/regulation/1/3) inserted (18.2.2019) by [The Road Traffic and Vehicles and Waterways (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/6)](https://www.legislation.gov.uk/nisr/2019/6), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/6/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2019/6/regulation/15)
+[^c-6f8e7e121a5c65d0b1da1fc8dc1c113d]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/2012/257/regulation/1/3) inserted (18.2.2019) by [The Road Traffic and Vehicles and Waterways (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/6)](https://www.legislation.gov.uk/nisr/2019/6), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/6/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2019/6/regulation/15)
 
-[^key-d14d3b3c177e724485286b5d96f7fe20]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/nisr/2012/257/regulation/1/4) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [109(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/109/2)
+[^c-d14d3b3c177e724485286b5d96f7fe20]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/nisr/2012/257/regulation/1/4) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [109(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/109/2)
 
-[^key-fb43b6f4641ac753f7490ae18468531d]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/2012/257/regulation/1/3) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [109(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/109/1)
+[^c-fb43b6f4641ac753f7490ae18468531d]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/2012/257/regulation/1/3) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [109(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/109/1)
 
-[^key-64e16c86363ee019ba651d910a2c6d5c]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/nisr/2012/257/regulation/1A) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [110](https://www.legislation.gov.uk/uksi/2022/293/regulation/110)
+[^c-64e16c86363ee019ba651d910a2c6d5c]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/nisr/2012/257/regulation/1A) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [110](https://www.legislation.gov.uk/uksi/2022/293/regulation/110)
 
-[^key-f5e893c37b0e2ec8a8dced2626a15f89]: Textual amendment: [Regs. 2-4](https://www.legislation.gov.uk/nisr/2012/257/regulation/2) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [111](https://www.legislation.gov.uk/uksi/2022/293/regulation/111)
+[^c-f5e893c37b0e2ec8a8dced2626a15f89]: Textual amendment: [Regs. 2-4](https://www.legislation.gov.uk/nisr/2012/257/regulation/2) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [111](https://www.legislation.gov.uk/uksi/2022/293/regulation/111)
 
-[^key-66200d447828c1a16a6ad35d07a888b8]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/nisr/2012/257/part/2) and cross-heading inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [112](https://www.legislation.gov.uk/uksi/2022/293/regulation/112)
+[^c-66200d447828c1a16a6ad35d07a888b8]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/nisr/2012/257/part/2) and cross-heading inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [112](https://www.legislation.gov.uk/uksi/2022/293/regulation/112)
 
-[^key-cb9841ebd90ae755efb77a56512170ef]: Modification: [Reg. 5](https://www.legislation.gov.uk/nisr/2012/257/regulation/5) applied (1.7.2012) by [The Goods Vehicles (Licensing of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/261)](https://www.legislation.gov.uk/nisr/2012/261), [regs. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1), [27(12)(a)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/12/a)
+[^c-cb9841ebd90ae755efb77a56512170ef]: Modification: [Reg. 5](https://www.legislation.gov.uk/nisr/2012/257/regulation/5) applied (1.7.2012) by [The Goods Vehicles (Licensing of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/261)](https://www.legislation.gov.uk/nisr/2012/261), [regs. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1), [27(12)(a)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/12/a)
 
-[^key-086601ccbeba33a1dfef498df37ab0fe]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/nisr/2012/257/regulation/5) heading substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [113(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/113/1)
+[^c-086601ccbeba33a1dfef498df37ab0fe]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/nisr/2012/257/regulation/5) heading substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [113(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/113/1)
 
-[^key-f5d6f1b8f87bc9a8f02bfbf4458d05e3]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/5/1) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [113(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/113/2)
+[^c-f5d6f1b8f87bc9a8f02bfbf4458d05e3]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/5/1) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [113(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/113/2)
 
-[^key-cf3bf7af41db54fa1fd8d979aef36ed8]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/nisr/2012/257/regulation/5/2) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [113(3)](https://www.legislation.gov.uk/uksi/2022/293/regulation/113/3)
+[^c-cf3bf7af41db54fa1fd8d979aef36ed8]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/nisr/2012/257/regulation/5/2) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [113(3)](https://www.legislation.gov.uk/uksi/2022/293/regulation/113/3)
 
 [^c21300741]: Marginal citation: [S.I. 1996/3160 (N.I. 24)](https://www.legislation.gov.uk/nisi/1996/3160)
 
 [^c21300751]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46)
 
-[^key-d1f80dd16a50c04e387349f6ed9d1aec]: Textual amendment: Reg. 9 renumbered as [reg. 9(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/9/1)(17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [114(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/114/1)
+[^c-d1f80dd16a50c04e387349f6ed9d1aec]: Textual amendment: Reg. 9 renumbered as [reg. 9(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/9/1)(17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [114(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/114/1)
 
 [^c21300761]: Marginal citation: [S.I. 1978/1908 (N.I. 27)](https://www.legislation.gov.uk/nisi/1978/1908)
 
-[^key-e851903278e1fa6018e80fb885187cbd]: Textual amendment: [Reg. 9(1)(b)](https://www.legislation.gov.uk/nisr/2012/257/regulation/9/1/b) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [114(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/114/2)
+[^c-e851903278e1fa6018e80fb885187cbd]: Textual amendment: [Reg. 9(1)(b)](https://www.legislation.gov.uk/nisr/2012/257/regulation/9/1/b) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [114(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/114/2)
 
-[^key-344b8b428e188f042c4cc4ec98cd495c]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/nisr/2012/257/regulation/9/2) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [114(3)](https://www.legislation.gov.uk/uksi/2022/293/regulation/114/3)
+[^c-344b8b428e188f042c4cc4ec98cd495c]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/nisr/2012/257/regulation/9/2) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [114(3)](https://www.legislation.gov.uk/uksi/2022/293/regulation/114/3)
 
-[^key-24bcb091d5969dcd5df69328aa3d9455]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/nisr/2012/257/regulation/9A) and cross-headings inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [115](https://www.legislation.gov.uk/uksi/2022/293/regulation/115)
+[^c-24bcb091d5969dcd5df69328aa3d9455]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/nisr/2012/257/regulation/9A) and cross-headings inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [115](https://www.legislation.gov.uk/uksi/2022/293/regulation/115)
 
-[^key-7bef1619e62e7d0fceb8f90b20f34ebf]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2012/257/regulation/10) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [116](https://www.legislation.gov.uk/uksi/2022/293/regulation/116)
+[^c-7bef1619e62e7d0fceb8f90b20f34ebf]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2012/257/regulation/10) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [116](https://www.legislation.gov.uk/uksi/2022/293/regulation/116)
 
-[^key-70620feba6bdb9bd5de6aa64c3675cf3]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/2012/257/regulation/11) cross-heading inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [117(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/117/1)
+[^c-70620feba6bdb9bd5de6aa64c3675cf3]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/2012/257/regulation/11) cross-heading inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [117(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/117/1)
 
-[^key-41d02a2a1a43c28cf8748564887d0de4]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/11/1) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [117(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/117/2)
+[^c-41d02a2a1a43c28cf8748564887d0de4]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/11/1) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [117(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/117/2)
 
 [^c21300771]: Marginal citation: [1995 c. 23](https://www.legislation.gov.uk/ukpga/1995/23)
 
-[^key-6a0e0a5abd1e0b0198e0f4b126e7716d]: Textual amendment: Words in [reg. 11(4)](https://www.legislation.gov.uk/nisr/2012/257/regulation/11/4) substituted (31.1.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/708/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6a0e0a5abd1e0b0198e0f4b126e7716d]: Textual amendment: Words in [reg. 11(4)](https://www.legislation.gov.uk/nisr/2012/257/regulation/11/4) substituted (31.1.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/708/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7ab108b7877a31ffbded05c19df9f588]: Textual amendment: Words in [reg. 11(4)(b)](https://www.legislation.gov.uk/nisr/2012/257/regulation/11/4/b) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [117(3)](https://www.legislation.gov.uk/uksi/2022/293/regulation/117/3)
+[^c-7ab108b7877a31ffbded05c19df9f588]: Textual amendment: Words in [reg. 11(4)(b)](https://www.legislation.gov.uk/nisr/2012/257/regulation/11/4/b) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [117(3)](https://www.legislation.gov.uk/uksi/2022/293/regulation/117/3)
 
-[^key-76882a188c076833c085282a090370a4]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/nisr/2012/257/regulation/12) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [118](https://www.legislation.gov.uk/uksi/2022/293/regulation/118)
+[^c-76882a188c076833c085282a090370a4]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/nisr/2012/257/regulation/12) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [118](https://www.legislation.gov.uk/uksi/2022/293/regulation/118)
 
-[^key-86e1418a5c9a8acbc25c67d5cb26c2e8]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/2012/257/regulation/13) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [118](https://www.legislation.gov.uk/uksi/2022/293/regulation/118)
+[^c-86e1418a5c9a8acbc25c67d5cb26c2e8]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/2012/257/regulation/13) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [118](https://www.legislation.gov.uk/uksi/2022/293/regulation/118)
 
-[^key-47b5f9d2163c534bb047dedd54e185b9]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/nisr/2012/257/regulation/13A) and cross-heading inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [119](https://www.legislation.gov.uk/uksi/2022/293/regulation/119)
+[^c-47b5f9d2163c534bb047dedd54e185b9]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/nisr/2012/257/regulation/13A) and cross-heading inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [119](https://www.legislation.gov.uk/uksi/2022/293/regulation/119)
 
-[^key-1a437bd11b9f2c23abe8a902c3f253c1]: Textual amendment: Words in [reg. 15(3)(a)](https://www.legislation.gov.uk/nisr/2012/257/regulation/15/3/a) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [120(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/120/1)
+[^c-1a437bd11b9f2c23abe8a902c3f253c1]: Textual amendment: Words in [reg. 15(3)(a)](https://www.legislation.gov.uk/nisr/2012/257/regulation/15/3/a) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [120(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/120/1)
 
-[^key-75b1b01e4db68645efe2951fe0f3cdfd]: Textual amendment: [Reg. 15(3)(b)](https://www.legislation.gov.uk/nisr/2012/257/regulation/15/3/b) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [120(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/120/2)
+[^c-75b1b01e4db68645efe2951fe0f3cdfd]: Textual amendment: [Reg. 15(3)(b)](https://www.legislation.gov.uk/nisr/2012/257/regulation/15/3/b) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [120(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/120/2)
 
-[^key-94a3616396be26f08fe93a4491e851e4]: Textual amendment: [Reg. 15(7)](https://www.legislation.gov.uk/nisr/2012/257/regulation/15/7) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [120(3)](https://www.legislation.gov.uk/uksi/2022/293/regulation/120/3)
+[^c-94a3616396be26f08fe93a4491e851e4]: Textual amendment: [Reg. 15(7)](https://www.legislation.gov.uk/nisr/2012/257/regulation/15/7) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [120(3)](https://www.legislation.gov.uk/uksi/2022/293/regulation/120/3)
 
-[^key-43c7615067bc50445b78077e0908aa4a]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/16/1) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [121(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/121/1)
+[^c-43c7615067bc50445b78077e0908aa4a]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/16/1) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [121(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/121/1)
 
 [^M_F_09765b46-abdb-4a83-b3f9-31d93a3a0712]: Textual amendment: [Reg. 16(1A)](https://www.legislation.gov.uk/nisr/2012/257/regulation/6/1A) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [121(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/121/2)
 
-[^key-d19551474f2500617c0f0a3bbab606dc]: Textual amendment: Pt. 3 heading and cross-heading inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [122](https://www.legislation.gov.uk/uksi/2022/293/regulation/122)
+[^c-d19551474f2500617c0f0a3bbab606dc]: Textual amendment: Pt. 3 heading and cross-heading inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [122](https://www.legislation.gov.uk/uksi/2022/293/regulation/122)
 
-[^key-88cf9ab72a94cb4c872bf71f442e7cfb]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2012/257/schedule) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [123](https://www.legislation.gov.uk/uksi/2022/293/regulation/123)
+[^c-88cf9ab72a94cb4c872bf71f442e7cfb]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2012/257/schedule) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [123](https://www.legislation.gov.uk/uksi/2022/293/regulation/123)

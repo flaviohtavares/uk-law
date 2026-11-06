@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Power to mark assets and to record information[^key-038b7f2167de01afbf116a71ba649e6e]
+## 109. Power to mark assets and to record information[^c-038b7f2167de01afbf116a71ba649e6e]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The powers under sections 103 to 106 include—
 
 ## Annotations
 
-[^key-038b7f2167de01afbf116a71ba649e6e]: Commencement: S. 109 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-038b7f2167de01afbf116a71ba649e6e]: Commencement: S. 109 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)

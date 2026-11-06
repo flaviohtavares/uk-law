@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4B. Inclusion in a dental list on a provisional basis for a second time[^key-6cdff39bd7a6cce406ddf4d24d6d8b47]
+## 4B. Inclusion in a dental list on a provisional basis for a second time[^c-6cdff39bd7a6cce406ddf4d24d6d8b47]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cdff39bd7a6cce406ddf4d24d6d8b47]: Textual amendment: [Regs. 4A](https://www.legislation.gov.uk/ssi/2010/208/regulation/4A), [4B](https://www.legislation.gov.uk/ssi/2010/208/regulation/4B) inserted (31.1.2026) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/380)](https://www.legislation.gov.uk/ssi/2025/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/380/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2025/380/regulation/6)
+[^c-6cdff39bd7a6cce406ddf4d24d6d8b47]: Textual amendment: [Regs. 4A](https://www.legislation.gov.uk/ssi/2010/208/regulation/4A), [4B](https://www.legislation.gov.uk/ssi/2010/208/regulation/4B) inserted (31.1.2026) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/380)](https://www.legislation.gov.uk/ssi/2025/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/380/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2025/380/regulation/6)

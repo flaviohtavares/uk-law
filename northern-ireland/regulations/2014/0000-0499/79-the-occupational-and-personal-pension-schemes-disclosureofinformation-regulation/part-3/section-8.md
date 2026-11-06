@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Material alterations to basic scheme information[^key-ba40b024836966ab008c65d273a99680]
+## 8. Material alterations to basic scheme information[^c-ba40b024836966ab008c65d273a99680]
 
 *Extent: N.I.*
 
@@ -38,10 +38,10 @@ summary: ''
   - (i) it is relevant to the rights or prospective rights of persons who are in that recognised trade union, and
   - (ii) basic scheme information has already been given to the recognised trade union under regulation 6.
 
-(6)[^key-97d9fb9d279045dc1314247f2d80b167] This regulation does not apply where regulation 8A applies.
+(6)[^c-97d9fb9d279045dc1314247f2d80b167] This regulation does not apply where regulation 8A applies.
 
 ## Annotations
 
-[^key-ba40b024836966ab008c65d273a99680]: Commencement: Reg. 8 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-ba40b024836966ab008c65d273a99680]: Commencement: Reg. 8 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
-[^key-97d9fb9d279045dc1314247f2d80b167]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/nisr/2014/79/regulation/8/6) added (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [13(4)](https://www.legislation.gov.uk/nisr/2022/192/regulation/13/4)
+[^c-97d9fb9d279045dc1314247f2d80b167]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/nisr/2014/79/regulation/8/6) added (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [13(4)](https://www.legislation.gov.uk/nisr/2022/192/regulation/13/4)

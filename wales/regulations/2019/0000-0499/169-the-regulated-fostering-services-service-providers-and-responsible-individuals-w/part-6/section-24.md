@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Deprivation of liberty[^key-77f764b6f92de4a47b3b1fa9b4d6aefd]
+## 24. Deprivation of liberty[^c-77f764b6f92de4a47b3b1fa9b4d6aefd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A child must not be deprived of their liberty for the purpose of receiving care 
 
 ## Annotations
 
-[^key-77f764b6f92de4a47b3b1fa9b4d6aefd]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2019/169/regulation/24) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-77f764b6f92de4a47b3b1fa9b4d6aefd]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2019/169/regulation/24) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

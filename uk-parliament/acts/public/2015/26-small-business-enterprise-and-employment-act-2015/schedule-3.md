@@ -24,7 +24,7 @@ Section 81
 
 ### PART 1 — Duty to obtain information and keep register
 
-**1.**[^key-c5f977533d59c82f1ad3e6535ebf24d6][^key-9c59d2be6688de4a7856286f3e353164][^M_I_a2e3ae1f-ab38-4949-f2b3-92375a75d388] After Part 21 of the Companies Act 2006 insert—
+**1.**[^c-c5f977533d59c82f1ad3e6535ebf24d6][^c-9c59d2be6688de4a7856286f3e353164][^M_I_a2e3ae1f-ab38-4949-f2b3-92375a75d388] After Part 21 of the Companies Act 2006 insert—
 
 > **PART 21A — Information about people with significant control**
 >
@@ -735,7 +735,7 @@ Section 81
 >
 > (6) Nothing in this section or in regulations made under it affects the use or disclosure of particulars of a person in any other capacity (for example, the use or disclosure of particulars of a person in that person's capacity as a member or director of the company).
 
-**2.**[^key-4f46d0fb656de2c697989068445b0c84][^key-783a28edc52ff56a1de1f69efc977461] After Schedule 1 to that Act insert—
+**2.**[^c-4f46d0fb656de2c697989068445b0c84][^c-783a28edc52ff56a1de1f69efc977461] After Schedule 1 to that Act insert—
 
 > **SCHEDULE 1A — References to people with significant control over a company**
 >
@@ -1209,15 +1209,15 @@ Section 81
 
 ### PART 2 — Related amendments
 
-**3.**[^key-f8766fcb1af22ceae8f9ff378c787bba][^key-20cf48c334762eb6902fe3e9e4032827] The Companies Act 2006 is amended as follows.
+**3.**[^c-f8766fcb1af22ceae8f9ff378c787bba][^c-20cf48c334762eb6902fe3e9e4032827] The Companies Act 2006 is amended as follows.
 
-**4.**[^key-39dc24df8457a84a210babb75bff611d][^key-5952257d0bfeff01674296b1faa6f512] In section 9 (registration documents), in subsection (4), at the end of paragraph (c) insert
+**4.**[^c-39dc24df8457a84a210babb75bff611d][^c-5952257d0bfeff01674296b1faa6f512] In section 9 (registration documents), in subsection (4), at the end of paragraph (c) insert
 
 > ;
 >
 > - (d) a statement of initial significant control (see section 12A).
 
-**5.**[^key-09c5cde69c0a71184b43dd0f0f6c6b62][^key-a4b21b1d697f48e53d188599196a1538] After section 12 insert—
+**5.**[^c-09c5cde69c0a71184b43dd0f0f6c6b62][^c-a4b21b1d697f48e53d188599196a1538] After section 12 insert—
 
 > **12A. Statement of initial significant control**
 >
@@ -1233,18 +1233,18 @@ Section 81
 >
 > (4) “**Registrable person**”, “**registrable relevant legal entity**” and “**required particulars**” have the meanings given in Part 21A (see sections 790C and 790K).
 
-**6.**[^key-4ad71e6c199692720772c9fc93625790][^key-b3a31c51697be338df7f69ed06cad312] In section 120 (information as to state of register and index), in subsection (1), for “there were no” substitute “ whether there are ”.
+**6.**[^c-4ad71e6c199692720772c9fc93625790][^c-b3a31c51697be338df7f69ed06cad312] In section 120 (information as to state of register and index), in subsection (1), for “there were no” substitute “ whether there are ”.
 
-**7.**[^key-02361c41c035e553f858534ba3aa7f32][^key-d09ccdb5f878fd16d5b4b955b1ad3952] In section 1068 (registrar's requirements as to form, authentication and manner of delivery), in subsection (6A) (inserted by Schedule 5 to this Act), after “central register)” insert “ or Chapter 4 of Part 21A (option to keep PSC information on central register) ”.
+**7.**[^c-02361c41c035e553f858534ba3aa7f32][^c-d09ccdb5f878fd16d5b4b955b1ad3952] In section 1068 (registrar's requirements as to form, authentication and manner of delivery), in subsection (6A) (inserted by Schedule 5 to this Act), after “central register)” insert “ or Chapter 4 of Part 21A (option to keep PSC information on central register) ”.
 
-**8.**[^key-013a52e50fc888f981edea629b6f931d][^key-8ec192d2346bb48960c966fe9515e51b] In section 1087 (material not available for public inspection), in subsection (1), after paragraph (ba) insert—
+**8.**[^c-013a52e50fc888f981edea629b6f931d][^c-8ec192d2346bb48960c966fe9515e51b] In section 1087 (material not available for public inspection), in subsection (1), after paragraph (ba) insert—
 
 > - (bb) information to which sections 240 to 244 are applied by section 790ZF(1) (residential addresses of people with significant control over the company) or any corresponding provision of regulations under section 1046 (overseas companies);
 > - (bc) information that, by virtue of regulations under section 790ZG or any corresponding provision of regulations under section 1046, the registrar must omit from the material on the register that is available for inspection;
 
 .
 
-**9.**[^key-f2baf70f3ca6992f776fd444b02db2f4][^key-70cefc5f563fc7a1ebd8b8672b9b3d74] (1) Section 1126 (consents required for certain prosecutions) is amended as follows.
+**9.**[^c-f2baf70f3ca6992f776fd444b02db2f4][^c-70cefc5f563fc7a1ebd8b8672b9b3d74] (1) Section 1126 (consents required for certain prosecutions) is amended as follows.
 
 (2) In subsection (1), at the end insert—
 
@@ -1280,7 +1280,7 @@ Section 81
 
 (6) In subsection (3)(b), after “section 798 of” insert “ , or paragraph 5 or 6 of Schedule 1B to, ”.
 
-**10.**[^key-214e2e1e0bd86c9ec300251378fdc9aa][^key-3c15584000cc5e41861809f915b1161b] In section 1136 (regulations about where certain company records to be kept available for inspection), in subsection (2), after the entry for section 743 insert—
+**10.**[^c-214e2e1e0bd86c9ec300251378fdc9aa][^c-3c15584000cc5e41861809f915b1161b] In section 1136 (regulations about where certain company records to be kept available for inspection), in subsection (2), after the entry for section 743 insert—
 
 > section 790M (register of people with significant control over a company);
 >
@@ -1288,7 +1288,7 @@ Section 81
 
 .
 
-**11.**[^key-a1dbc3abb34436464a360788a3b71571][^key-2194af07f9129af86623ceabb36ca837] In Schedule 8 (index of defined expressions), in the appropriate places insert—
+**11.**[^c-a1dbc3abb34436464a360788a3b71571][^c-2194af07f9129af86623ceabb36ca837] In Schedule 8 (index of defined expressions), in the appropriate places insert—
 
 > |  |  |
 > | --- | --- |
@@ -1328,48 +1328,48 @@ Section 81
 
 ## Annotations
 
-[^key-c5f977533d59c82f1ad3e6535ebf24d6]: Commencement: Sch. 3 para. 1 in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
+[^c-c5f977533d59c82f1ad3e6535ebf24d6]: Commencement: Sch. 3 para. 1 in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
 
-[^key-9c59d2be6688de4a7856286f3e353164]: Commencement: Sch. 3 para. 1 in force at 6.4.2016 for specified purposes by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [regs. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a), [5(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/5/a)
+[^c-9c59d2be6688de4a7856286f3e353164]: Commencement: Sch. 3 para. 1 in force at 6.4.2016 for specified purposes by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [regs. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a), [5(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/5/a)
 
 [^M_I_a2e3ae1f-ab38-4949-f2b3-92375a75d388]: Commencement: Sch. 3 para. 1 in force at 30.6.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [regs. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a), [5(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/5/a)
 
-[^key-4f46d0fb656de2c697989068445b0c84]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/2) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
+[^c-4f46d0fb656de2c697989068445b0c84]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/2) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
 
-[^key-783a28edc52ff56a1de1f69efc977461]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/2) in force at 6.4.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a)
+[^c-783a28edc52ff56a1de1f69efc977461]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/2) in force at 6.4.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a)
 
-[^key-f8766fcb1af22ceae8f9ff378c787bba]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/3) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
+[^c-f8766fcb1af22ceae8f9ff378c787bba]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/3) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
 
-[^key-20cf48c334762eb6902fe3e9e4032827]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/3) in force at 6.4.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a)
+[^c-20cf48c334762eb6902fe3e9e4032827]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/3) in force at 6.4.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a)
 
-[^key-39dc24df8457a84a210babb75bff611d]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/4) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
+[^c-39dc24df8457a84a210babb75bff611d]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/4) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
 
-[^key-5952257d0bfeff01674296b1faa6f512]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/4) in force at 30.6.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/5/b)
+[^c-5952257d0bfeff01674296b1faa6f512]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/4) in force at 30.6.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/5/b)
 
-[^key-09c5cde69c0a71184b43dd0f0f6c6b62]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/5) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
+[^c-09c5cde69c0a71184b43dd0f0f6c6b62]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/5) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
 
-[^key-a4b21b1d697f48e53d188599196a1538]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/5) in force at 30.6.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/5/b)
+[^c-a4b21b1d697f48e53d188599196a1538]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/5) in force at 30.6.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/5/b)
 
-[^key-4ad71e6c199692720772c9fc93625790]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/6) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
+[^c-4ad71e6c199692720772c9fc93625790]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/6) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
 
-[^key-b3a31c51697be338df7f69ed06cad312]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/6) in force at 6.4.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a)
+[^c-b3a31c51697be338df7f69ed06cad312]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/6) in force at 6.4.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a)
 
-[^key-02361c41c035e553f858534ba3aa7f32]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/7) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
+[^c-02361c41c035e553f858534ba3aa7f32]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/7) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
 
-[^key-d09ccdb5f878fd16d5b4b955b1ad3952]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/7) in force at 30.6.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/5/b)
+[^c-d09ccdb5f878fd16d5b4b955b1ad3952]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/7) in force at 30.6.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/5/b)
 
-[^key-013a52e50fc888f981edea629b6f931d]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/8) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
+[^c-013a52e50fc888f981edea629b6f931d]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/8) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
 
-[^key-8ec192d2346bb48960c966fe9515e51b]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/8) in force at 6.4.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a)
+[^c-8ec192d2346bb48960c966fe9515e51b]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/8) in force at 6.4.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a)
 
-[^key-f2baf70f3ca6992f776fd444b02db2f4]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/9) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
+[^c-f2baf70f3ca6992f776fd444b02db2f4]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/9) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
 
-[^key-70cefc5f563fc7a1ebd8b8672b9b3d74]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/9) in force at 6.4.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a)
+[^c-70cefc5f563fc7a1ebd8b8672b9b3d74]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/9) in force at 6.4.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a)
 
-[^key-214e2e1e0bd86c9ec300251378fdc9aa]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/10) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
+[^c-214e2e1e0bd86c9ec300251378fdc9aa]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/10) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
 
-[^key-3c15584000cc5e41861809f915b1161b]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/10) in force at 6.4.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a)
+[^c-3c15584000cc5e41861809f915b1161b]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/10) in force at 6.4.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a)
 
-[^key-a1dbc3abb34436464a360788a3b71571]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/11) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
+[^c-a1dbc3abb34436464a360788a3b71571]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/11) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a)
 
-[^key-2194af07f9129af86623ceabb36ca837]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/11) in force at 6.4.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a)
+[^c-2194af07f9129af86623ceabb36ca837]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/11) in force at 6.4.2016 in so far as not already in force by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a)

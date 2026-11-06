@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Presumptions in proceedings under this Act[^key-965fefc71fc8147fd048a0cc23b34019][^key-5fa6f3f84c7cfadf1997883b60d4e939]
+## 46. Presumptions in proceedings under this Act[^c-965fefc71fc8147fd048a0cc23b34019][^c-5fa6f3f84c7cfadf1997883b60d4e939]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ the item is presumed to be a firework or pyrotechnic article as described on the
 
 ## Annotations
 
-[^key-965fefc71fc8147fd048a0cc23b34019]: Commencement: S. 46 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-965fefc71fc8147fd048a0cc23b34019]: Commencement: S. 46 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-5fa6f3f84c7cfadf1997883b60d4e939]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2022/9/section/46) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)
+[^c-5fa6f3f84c7cfadf1997883b60d4e939]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2022/9/section/46) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)

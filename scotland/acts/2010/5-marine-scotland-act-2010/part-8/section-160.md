@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 160. Modifications relating to Sea Fisheries (Shellfish) Act 1967: orders as to fisheries for shellfish[^key-b4563f23b61c9a286c835320d01ef406]
+## 160. Modifications relating to Sea Fisheries (Shellfish) Act 1967: orders as to fisheries for shellfish[^c-b4563f23b61c9a286c835320d01ef406]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4563f23b61c9a286c835320d01ef406]: Commencement: [S. 160](https://www.legislation.gov.uk/asp/2010/5/section/160) in force at 24.2.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/58/article/2/a)
+[^c-b4563f23b61c9a286c835320d01ef406]: Commencement: [S. 160](https://www.legislation.gov.uk/asp/2010/5/section/160) in force at 24.2.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/58/article/2/a)

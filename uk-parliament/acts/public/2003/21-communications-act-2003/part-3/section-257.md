@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257. Promotion of simulcast radio services[^key-481df1063ada51ff9a9d6f5db9cdb6cf]
+## 257. Promotion of simulcast radio services[^c-481df1063ada51ff9a9d6f5db9cdb6cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-481df1063ada51ff9a9d6f5db9cdb6cf]: Commencement: S. 257 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-481df1063ada51ff9a9d6f5db9cdb6cf]: Commencement: S. 257 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

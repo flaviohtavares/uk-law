@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — CONTENTS OF SCHEMES[^key-fb20b4121f86b47e3c5b86ebb6d4b8ab]
+## SCHEDULE 5 — CONTENTS OF SCHEMES[^c-fb20b4121f86b47e3c5b86ebb6d4b8ab]
 
 *Extent: E+W*
 
 Regulation 26
 
-[^key-fb20b4121f86b47e3c5b86ebb6d4b8ab]
+[^c-fb20b4121f86b47e3c5b86ebb6d4b8ab]
 
 The matters referred to in regulation 26, being matters connected with the financing of schools maintained by a local authority, required to be dealt with in the local authority’s scheme are as follows:
 
@@ -128,7 +128,7 @@ The matters referred to in regulation 26, being matters connected with the finan
 
 ## Annotations
 
-[^key-fb20b4121f86b47e3c5b86ebb6d4b8ab]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2011/371/schedule/5) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-fb20b4121f86b47e3c5b86ebb6d4b8ab]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2011/371/schedule/5) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
 
 [^f00060]: Footnote: Section 49(4) was amended by section 215 of, and paragraph 100 of Schedule 21 to, the 2002 Act.
 

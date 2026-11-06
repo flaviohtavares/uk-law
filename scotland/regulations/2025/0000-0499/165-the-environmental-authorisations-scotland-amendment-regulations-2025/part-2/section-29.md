@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Amendment of regulation 60 (power of SEPA to impose authorisations)[^key-2e79a076a462faf18623e7456653298d]
+## 29. Amendment of regulation 60 (power of SEPA to impose authorisations)[^c-2e79a076a462faf18623e7456653298d]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ In regulation 60 (power of SEPA to impose authorisations)—
 
 ## Annotations
 
-[^key-2e79a076a462faf18623e7456653298d]: Commencement: Reg. 29 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-2e79a076a462faf18623e7456653298d]: Commencement: Reg. 29 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

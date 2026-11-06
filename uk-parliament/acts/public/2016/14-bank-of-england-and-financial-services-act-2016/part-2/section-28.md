@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Enforceability of agreements made through unauthorised persons[^key-035607d00ff8777d5d0f26ef7e26b6d3]
+## 28. Enforceability of agreements made through unauthorised persons[^c-035607d00ff8777d5d0f26ef7e26b6d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-035607d00ff8777d5d0f26ef7e26b6d3]: Commencement: S. 28 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/v)
+[^c-035607d00ff8777d5d0f26ef7e26b6d3]: Commencement: S. 28 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/v)

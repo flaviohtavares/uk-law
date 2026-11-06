@@ -68,11 +68,11 @@ In these Regulations—
 
 - “**the 1998 Act**” means the Competition Act 1998 [^c5237831];
 - “**the appointed day**” means the 1st May 2004;
-- [^key-ecdabcf5c80bca963ad1f2f687cacad5]...
+- [^c-ecdabcf5c80bca963ad1f2f687cacad5]...
 - “**the OFT**” means the Office of Fair Trading; and
-- “**the Treaty**” means the Treaty on the Functioning of the European Union[^key-810eabebadc69a4952a1921e34bd3499].
+- “**the Treaty**” means the Treaty on the Functioning of the European Union[^c-810eabebadc69a4952a1921e34bd3499].
 
-## 3. Designation of national competition authorities[^key-850a50ceea281b327a20c4b525bc4ef4]
+## 3. Designation of national competition authorities[^c-850a50ceea281b327a20c4b525bc4ef4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -106,7 +106,7 @@ The amendments to other enactments specified in Schedule 2 to these Regulations 
 
 (1) This regulation applies where, before the appointed day, the OFT has made a decision falling within paragraph (c), (d) or (e) of section 46(3), or has made a decision falling within paragraph (f) of section 46(3) in relation to an individual exemption.
 
-(2) This regulation also applies where, on or after the appointed day, the CMA[^key-ad1e373ee07c478928cac1a1812741f9] (by virtue of regulation 6) makes under section 5 of the 1998 Act a decision falling within paragraph (d)(i) or (ii) or (f) of section 46(3).
+(2) This regulation also applies where, on or after the appointed day, the CMA[^c-ad1e373ee07c478928cac1a1812741f9] (by virtue of regulation 6) makes under section 5 of the 1998 Act a decision falling within paragraph (d)(i) or (ii) or (f) of section 46(3).
 
 (3) Where this regulation applies—
 
@@ -1752,13 +1752,13 @@ A Regulatory Impact Assessment and a Transposition Note have been prepared. Copi
 
 [^c5237831]: Marginal citation: [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41).
 
-[^key-ecdabcf5c80bca963ad1f2f687cacad5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2004/1261/regulation/2) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/11/2) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ecdabcf5c80bca963ad1f2f687cacad5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2004/1261/regulation/2) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/11/2) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-810eabebadc69a4952a1921e34bd3499]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2004/1261/regulation/2) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
+[^c-810eabebadc69a4952a1921e34bd3499]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2004/1261/regulation/2) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
 
-[^key-850a50ceea281b327a20c4b525bc4ef4]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2004/1261/regulation/3) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/11/3) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-850a50ceea281b327a20c4b525bc4ef4]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2004/1261/regulation/3) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/11/3) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ad1e373ee07c478928cac1a1812741f9]: Textual amendment: Word in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2004/1261/regulation/8/2) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/13/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-ad1e373ee07c478928cac1a1812741f9]: Textual amendment: Word in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2004/1261/regulation/8/2) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/13/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
 [^c5237851]: Marginal citation: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44).
 

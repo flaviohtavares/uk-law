@@ -40,14 +40,14 @@ summary: ''
 
   > (2B) In relation to a voluntary arrangement proposed under Part I or VIII, a person acts as nominee if he performs any of the functions conferred on nominees under the Part in question.
 
-(3)[^key-2dd55c19349ab6e77a8842eabc8fb822] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2dd55c19349ab6e77a8842eabc8fb822] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-56fac531e344e516908da85665de5cf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-56fac531e344e516908da85665de5cf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c1029509]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-2dd55c19349ab6e77a8842eabc8fb822]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/ukpga/2000/39/section/4/3) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 20(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/20/3); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)
+[^c-2dd55c19349ab6e77a8842eabc8fb822]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/ukpga/2000/39/section/4/3) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 20(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/20/3); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)
 
-[^key-56fac531e344e516908da85665de5cf5]: Textual amendment: [S. 4(4)](https://www.legislation.gov.uk/ukpga/2000/39/section/4/4) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 20(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/20/3); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)
+[^c-56fac531e344e516908da85665de5cf5]: Textual amendment: [S. 4(4)](https://www.legislation.gov.uk/ukpga/2000/39/section/4/4) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 20(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/20/3); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)

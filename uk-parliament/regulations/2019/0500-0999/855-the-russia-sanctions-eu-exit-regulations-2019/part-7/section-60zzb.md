@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60ZZB. Exceptions relating to trust services[^key-ce0e0c8f7ae625e881846ee133a664c0]
+## 60ZZB. Exceptions relating to trust services[^c-ce0e0c8f7ae625e881846ee133a664c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -93,4 +93,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce0e0c8f7ae625e881846ee133a664c0]: Textual amendment: [Reg. 60ZZB](https://www.legislation.gov.uk/uksi/2019/855/regulation/60ZZB) inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [13](https://www.legislation.gov.uk/uksi/2022/1331/regulation/13)
+[^c-ce0e0c8f7ae625e881846ee133a664c0]: Textual amendment: [Reg. 60ZZB](https://www.legislation.gov.uk/uksi/2019/855/regulation/60ZZB) inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [13](https://www.legislation.gov.uk/uksi/2022/1331/regulation/13)

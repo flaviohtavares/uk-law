@@ -22,9 +22,9 @@ summary: ''
 
 (1) Any person who—
 
-- (a) wilfully obstructs an inspector acting in the execution of this Order or any instrument made under it [^key-a7f8522ffc4e8edaa7c5b1d7bd35ca6e]...; or
+- (a) wilfully obstructs an inspector acting in the execution of this Order or any instrument made under it [^c-a7f8522ffc4e8edaa7c5b1d7bd35ca6e]...; or
 - (b) wilfully fails to comply with any requirement properly made of him by an inspector under Article 26 or 27; or
-- (c) without reasonable cause fails to give to any inspector acting as aforesaid any assistance or information which the inspector may reasonably require of him for the purposes of the performance by the inspector of his functions under this Order or any instrument made under it [^key-603b38cab52c5fd36488ee31c97dac72]...,
+- (c) without reasonable cause fails to give to any inspector acting as aforesaid any assistance or information which the inspector may reasonably require of him for the purposes of the performance by the inspector of his functions under this Order or any instrument made under it [^c-603b38cab52c5fd36488ee31c97dac72]...,
 
 shall be guilty of an offence.
 
@@ -34,6 +34,6 @@ shall be guilty of an offence.
 
 ## Annotations
 
-[^key-a7f8522ffc4e8edaa7c5b1d7bd35ca6e]: Textual amendment: Words in [art. 42(1)(a)](https://www.legislation.gov.uk/nisi/1981/231/article/42/1/a) omitted (11.1.2017) by virtue of [The Consumer Rights (Enforcement and Amendments) Order 2016 (S.I. 2016/1259)](https://www.legislation.gov.uk/uksi/2016/1259), [art. 1](https://www.legislation.gov.uk/uksi/2016/1259/article/1), [Sch. para. 1(5)](https://www.legislation.gov.uk/uksi/2016/1259/schedule/paragraph/1/5)
+[^c-a7f8522ffc4e8edaa7c5b1d7bd35ca6e]: Textual amendment: Words in [art. 42(1)(a)](https://www.legislation.gov.uk/nisi/1981/231/article/42/1/a) omitted (11.1.2017) by virtue of [The Consumer Rights (Enforcement and Amendments) Order 2016 (S.I. 2016/1259)](https://www.legislation.gov.uk/uksi/2016/1259), [art. 1](https://www.legislation.gov.uk/uksi/2016/1259/article/1), [Sch. para. 1(5)](https://www.legislation.gov.uk/uksi/2016/1259/schedule/paragraph/1/5)
 
-[^key-603b38cab52c5fd36488ee31c97dac72]: Textual amendment: Words in [art. 42(1)(c)](https://www.legislation.gov.uk/nisi/1981/231/article/42/1/c) omitted (11.1.2017) by virtue of [The Consumer Rights (Enforcement and Amendments) Order 2016 (S.I. 2016/1259)](https://www.legislation.gov.uk/uksi/2016/1259), [art. 1](https://www.legislation.gov.uk/uksi/2016/1259/article/1), [Sch. para. 1(5)](https://www.legislation.gov.uk/uksi/2016/1259/schedule/paragraph/1/5)
+[^c-603b38cab52c5fd36488ee31c97dac72]: Textual amendment: Words in [art. 42(1)(c)](https://www.legislation.gov.uk/nisi/1981/231/article/42/1/c) omitted (11.1.2017) by virtue of [The Consumer Rights (Enforcement and Amendments) Order 2016 (S.I. 2016/1259)](https://www.legislation.gov.uk/uksi/2016/1259), [art. 1](https://www.legislation.gov.uk/uksi/2016/1259/article/1), [Sch. para. 1(5)](https://www.legislation.gov.uk/uksi/2016/1259/schedule/paragraph/1/5)

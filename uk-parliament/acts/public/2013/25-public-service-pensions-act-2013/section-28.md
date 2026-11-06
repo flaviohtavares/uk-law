@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Existing local government schemes[^key-16d7b75d04193576c4a03ba2ad1dfe3f]
+## 28. Existing local government schemes[^c-16d7b75d04193576c4a03ba2ad1dfe3f]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ the regulations are to have effect as if they were scheme regulations relating t
 
 ## Annotations
 
-[^key-16d7b75d04193576c4a03ba2ad1dfe3f]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2013/25/section/28) in force at 1.4.2014 by [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 5](https://www.legislation.gov.uk/uksi/2014/839/article/5)
+[^c-16d7b75d04193576c4a03ba2ad1dfe3f]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2013/25/section/28) in force at 1.4.2014 by [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 5](https://www.legislation.gov.uk/uksi/2014/839/article/5)

@@ -31,20 +31,20 @@ Injuries in War (Compensation) Act 1914 (repealed)
 
 1914 c.30
 
-[^key-cf02ca2d6dd8609d36abc144f48f359d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf02ca2d6dd8609d36abc144f48f359d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[10th August 1914\]
 
 **No longer in force.**
 
-## 1. Provision of pensions and other allowances to civilians injured in connexion with warlike operations, &c.[^key-cf02ca2d6dd8609d36abc144f48f359d][^key-cf02ca2d6dd8609d36abc144f48f359d]
+## 1. Provision of pensions and other allowances to civilians injured in connexion with warlike operations, &c.[^c-cf02ca2d6dd8609d36abc144f48f359d][^c-cf02ca2d6dd8609d36abc144f48f359d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title.[^key-cf02ca2d6dd8609d36abc144f48f359d][^key-cf02ca2d6dd8609d36abc144f48f359d]
+## 2. Short title.[^c-cf02ca2d6dd8609d36abc144f48f359d][^c-cf02ca2d6dd8609d36abc144f48f359d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf02ca2d6dd8609d36abc144f48f359d]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/4-5/30) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
+[^c-cf02ca2d6dd8609d36abc144f48f359d]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/4-5/30) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Appeals[^key-768f3ab2b88fcda8a983afba959f6a80]
+## 14. Appeals[^c-768f3ab2b88fcda8a983afba959f6a80]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-768f3ab2b88fcda8a983afba959f6a80]: Commencement: S. 14 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-768f3ab2b88fcda8a983afba959f6a80]: Commencement: S. 14 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

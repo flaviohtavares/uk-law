@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Management tender[^key-df2a56e36fafe6f8000151db871c0d66][^key-5ad5278a0363253697b0d1e5aa1d6d7d]
+## 72. Management tender[^c-df2a56e36fafe6f8000151db871c0d66][^c-5ad5278a0363253697b0d1e5aa1d6d7d]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ After paragraph 15A of Schedule 1 to the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-df2a56e36fafe6f8000151db871c0d66]: Commencement: [S. 72](https://www.legislation.gov.uk/mwa/2011/5/section/72) in force for specified purposes at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(o)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/o)
+[^c-df2a56e36fafe6f8000151db871c0d66]: Commencement: [S. 72](https://www.legislation.gov.uk/mwa/2011/5/section/72) in force for specified purposes at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(o)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/o)
 
-[^key-5ad5278a0363253697b0d1e5aa1d6d7d]: Commencement: [S. 72](https://www.legislation.gov.uk/mwa/2011/5/section/72) in force in so far as not already in force at 2.12.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [3(h)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/h)
+[^c-5ad5278a0363253697b0d1e5aa1d6d7d]: Commencement: [S. 72](https://www.legislation.gov.uk/mwa/2011/5/section/72) in force in so far as not already in force at 2.12.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [3(h)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/h)

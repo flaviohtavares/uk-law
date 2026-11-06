@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Ancillary provision[^key-b2bb7a315c32872ed74e1e63b6485572]
+## 101. Ancillary provision[^c-b2bb7a315c32872ed74e1e63b6485572]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2bb7a315c32872ed74e1e63b6485572]: Commencement: S. 101 in force at 28.6.2025, see [s. 103(2)](https://www.legislation.gov.uk/asp/2025/8/section/103/2)
+[^c-b2bb7a315c32872ed74e1e63b6485572]: Commencement: S. 101 in force at 28.6.2025, see [s. 103(2)](https://www.legislation.gov.uk/asp/2025/8/section/103/2)

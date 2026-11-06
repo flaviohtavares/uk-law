@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Development consent subject to requirement for further approval[^key-1714ebba04bbfe1ebf20e8b91e51c49e]
+## 140. Development consent subject to requirement for further approval[^c-1714ebba04bbfe1ebf20e8b91e51c49e]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ In section 120(2) of the Planning Act 2008 (provision relating to requirements t
 
 ## Annotations
 
-[^key-1714ebba04bbfe1ebf20e8b91e51c49e]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2011/20/section/140) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-1714ebba04bbfe1ebf20e8b91e51c49e]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2011/20/section/140) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)

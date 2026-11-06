@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Reference to Tribunal under section 96(3): notification[^key-4266677ebe2aa7812be9a56fd98c1296]
+## 97. Reference to Tribunal under section 96(3): notification[^c-4266677ebe2aa7812be9a56fd98c1296]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where a patient’s responsible medical officer is required by section 96(3) of 
 
 ## Annotations
 
-[^key-4266677ebe2aa7812be9a56fd98c1296]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2003/13/section/97) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-4266677ebe2aa7812be9a56fd98c1296]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2003/13/section/97) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

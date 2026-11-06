@@ -62,7 +62,7 @@ These Regulations—
 
 (1) In these Regulations—
 
-- [^key-c07b5cde0a92293e039b658864a37bdb]...
+- [^c-c07b5cde0a92293e039b658864a37bdb]...
 - “inspector” means any person appointed to be an inspector for the purposes of these Regulations by the Secretary of State or a local authority;
 - “local authority” means—
   - (a) in any part of England where there is a unitary authority, that authority;
@@ -75,9 +75,9 @@ These Regulations—
 
 (2) Expressions used in both these Regulations and the Directive have the same meaning in these Regulations as they have in the Directive.
 
-(3)[^key-cf0143bc7354555b9c0dc89fdc52ef4c] In paragraph (2), “the Directive” means [Directive 2003/99/EC](https://www.legislation.gov.uk/european/directive/2003/0099) of the European Parliament and of the Council on the monitoring of zoonoses and zoonotic agents.
+(3)[^c-cf0143bc7354555b9c0dc89fdc52ef4c] In paragraph (2), “the Directive” means [Directive 2003/99/EC](https://www.legislation.gov.uk/european/directive/2003/0099) of the European Parliament and of the Council on the monitoring of zoonoses and zoonotic agents.
 
-## 3. Competent authority[^key-767b7ce0680a3a389de5bfbd0c8c15a9]
+## 3. Competent authority[^c-767b7ce0680a3a389de5bfbd0c8c15a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -122,9 +122,9 @@ An inspector entering premises under regulation 4 may—
 - (b) examine any records in whatever form and take copies or print-outs of those records;
 - (c) mark, or cause to be marked, for identification purposes, any animal, animal carcase or thing in relation to which any of the powers under paragraph (a) or (b) have been exercised;
 - (d) make inquiries of any person;
-- (e) place any equipment (including any trap) on the premises for the purpose of capturing or monitoring any wild animal (including any arthropod vector) or for detecting any micro-organism; and[^key-c2c7e5545a64a7872176e9569a9168e0]
-- (f) take with him any person, vehicle or equipment that he considers necessary for the execution of these Regulations; [^key-4d88e10bbb90adb57a2c13e2729aeb54]...
-- (g)[^key-4d88e10bbb90adb57a2c13e2729aeb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) place any equipment (including any trap) on the premises for the purpose of capturing or monitoring any wild animal (including any arthropod vector) or for detecting any micro-organism; and[^c-c2c7e5545a64a7872176e9569a9168e0]
+- (f) take with him any person, vehicle or equipment that he considers necessary for the execution of these Regulations; [^c-4d88e10bbb90adb57a2c13e2729aeb54]...
+- (g)[^c-4d88e10bbb90adb57a2c13e2729aeb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. Examination of isolates
 
@@ -134,7 +134,7 @@ An inspector entering premises under regulation 4 may—
 - (b) keep the results of the examination for a period of 12 months from receipt; and
 - (c) supply those results to the Secretary of State immediately upon demand during that period.
 
-(2) Paragraph (1) does not apply to any sample taken for the purposes of the Control of Salmonella in Poultry Order 2007[^key-4af4214da9a261c3c448c470a8e61c84].
+(2) Paragraph (1) does not apply to any sample taken for the purposes of the Control of Salmonella in Poultry Order 2007[^c-4af4214da9a261c3c448c470a8e61c84].
 
 ## 7. Monitoring wild animals
 
@@ -151,7 +151,7 @@ he must consult Natural England before monitoring commences.
 
 (2) The Secretary of State may direct, in relation to cases of a particular description or any particular case, that he will enforce these Regulations instead of the local authority.
 
-(3)[^key-bd7e75351e0cc0ea53111ec6040ebc87] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under these Regulations.
+(3)[^c-bd7e75351e0cc0ea53111ec6040ebc87] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under these Regulations.
 
 ## 9. Offences and penalties
 
@@ -223,16 +223,16 @@ A transposition note and full regulatory impact assessment of the effect that th
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-c07b5cde0a92293e039b658864a37bdb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/2399/regulation/2/1) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1110)](https://www.legislation.gov.uk/uksi/2018/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1110/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1110/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c07b5cde0a92293e039b658864a37bdb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/2399/regulation/2/1) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1110)](https://www.legislation.gov.uk/uksi/2018/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1110/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1110/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cf0143bc7354555b9c0dc89fdc52ef4c]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2007/2399/regulation/2/3) inserted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1110)](https://www.legislation.gov.uk/uksi/2018/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1110/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1110/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cf0143bc7354555b9c0dc89fdc52ef4c]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2007/2399/regulation/2/3) inserted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1110)](https://www.legislation.gov.uk/uksi/2018/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1110/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1110/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-767b7ce0680a3a389de5bfbd0c8c15a9]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/2399/regulation/3) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1110)](https://www.legislation.gov.uk/uksi/2018/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1110/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1110/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-767b7ce0680a3a389de5bfbd0c8c15a9]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/2399/regulation/3) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1110)](https://www.legislation.gov.uk/uksi/2018/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1110/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1110/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c2c7e5545a64a7872176e9569a9168e0]: Textual amendment: Word in [reg. 5(e)](https://www.legislation.gov.uk/uksi/2007/2399/regulation/5/e) inserted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1110)](https://www.legislation.gov.uk/uksi/2018/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1110/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/1110/regulation/2/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c2c7e5545a64a7872176e9569a9168e0]: Textual amendment: Word in [reg. 5(e)](https://www.legislation.gov.uk/uksi/2007/2399/regulation/5/e) inserted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1110)](https://www.legislation.gov.uk/uksi/2018/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1110/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/1110/regulation/2/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4d88e10bbb90adb57a2c13e2729aeb54]: Textual amendment: [Reg. 5(g)](https://www.legislation.gov.uk/uksi/2007/2399/regulation/5/g) and word omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1110)](https://www.legislation.gov.uk/uksi/2018/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1110/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/1110/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d88e10bbb90adb57a2c13e2729aeb54]: Textual amendment: [Reg. 5(g)](https://www.legislation.gov.uk/uksi/2007/2399/regulation/5/g) and word omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1110)](https://www.legislation.gov.uk/uksi/2018/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1110/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/1110/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4af4214da9a261c3c448c470a8e61c84]: Textual amendment: Words in reg. 6(2) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [53](https://www.legislation.gov.uk/uksi/2018/942/regulation/53)
+[^c-4af4214da9a261c3c448c470a8e61c84]: Textual amendment: Words in reg. 6(2) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [53](https://www.legislation.gov.uk/uksi/2018/942/regulation/53)
 
-[^key-bd7e75351e0cc0ea53111ec6040ebc87]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2007/2399/regulation/8/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [21](https://www.legislation.gov.uk/uksi/2012/2897/article/21)
+[^c-bd7e75351e0cc0ea53111ec6040ebc87]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2007/2399/regulation/8/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [21](https://www.legislation.gov.uk/uksi/2012/2897/article/21)

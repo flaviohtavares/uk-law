@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — ACQUISITION OF NEW RIGHTS ONLY[^key-8c532b160193e2ce4d13cba9da98fd1f]
+## SCHEDULE 4 — ACQUISITION OF NEW RIGHTS ONLY[^c-8c532b160193e2ce4d13cba9da98fd1f]
 
 *Extent: E+W*
 
 Article 31
 
-[^key-8c532b160193e2ce4d13cba9da98fd1f]
+[^c-8c532b160193e2ce4d13cba9da98fd1f]
 
 In the City of Wolverhampton—
 
@@ -41,4 +41,4 @@ In the City of Wolverhampton—
 
 ## Annotations
 
-[^key-8c532b160193e2ce4d13cba9da98fd1f]: Commencement: Sch. 4 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-8c532b160193e2ce4d13cba9da98fd1f]: Commencement: Sch. 4 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

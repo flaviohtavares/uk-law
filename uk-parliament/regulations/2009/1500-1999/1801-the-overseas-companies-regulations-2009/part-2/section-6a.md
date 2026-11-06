@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-02-05. See https://www.legislation.gov.uk/changes/affected/uksi/2009/1801
 
-## 6A. Documents to be delivered with the return: statement confirming identity verification[^key-afeca72f5ff405cb528c45328afb9f56]
+## 6A. Documents to be delivered with the return: statement confirming identity verification[^c-afeca72f5ff405cb528c45328afb9f56]
 
 The return under regulation 4 must, in the case of each individual listed as director under regulation 6(1)(d)(i) (particulars of the company), include a statement—
 
@@ -23,4 +23,4 @@ The return under regulation 4 must, in the case of each individual listed as dir
 
 ## Annotations
 
-[^key-afeca72f5ff405cb528c45328afb9f56]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2009/1801/regulation/6A) inserted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2025/761/regulation/4/2) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+[^c-afeca72f5ff405cb528c45328afb9f56]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2009/1801/regulation/6A) inserted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2025/761/regulation/4/2) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))

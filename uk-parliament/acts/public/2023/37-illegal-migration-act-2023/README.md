@@ -34,7 +34,7 @@ An Act to make provision for and in connection with the removal from the United 
 
 \[20th July 2023\]
 
-Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-8cee41a661b41e511dc30297cc6c6afa]
+Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-8cee41a661b41e511dc30297cc6c6afa]
 
 ## Contents
 
@@ -180,4 +180,4 @@ Schedules
 
 ## Annotations
 
-[^key-8cee41a661b41e511dc30297cc6c6afa]: Modification: Act excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/a), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2)) (which excluding Act is repealed (2.12.2025) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 40](https://www.legislation.gov.uk/ukpga/2025/31/section/40), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a))
+[^c-8cee41a661b41e511dc30297cc6c6afa]: Modification: Act excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/a), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2)) (which excluding Act is repealed (2.12.2025) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 40](https://www.legislation.gov.uk/ukpga/2025/31/section/40), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a))

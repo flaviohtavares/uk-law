@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Conformity of marine plans with other documents[^key-da8f2833b48cb582c3cb995a5c5338c8]
+## 6. Conformity of marine plans with other documents[^c-da8f2833b48cb582c3cb995a5c5338c8]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da8f2833b48cb582c3cb995a5c5338c8]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2010/5/section/6) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)
+[^c-da8f2833b48cb582c3cb995a5c5338c8]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2010/5/section/6) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)

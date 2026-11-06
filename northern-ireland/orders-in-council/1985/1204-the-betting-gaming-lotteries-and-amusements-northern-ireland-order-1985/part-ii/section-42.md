@@ -23,7 +23,7 @@ summary: ''
 (1) The Department may, after hearing representations, if any, from the holder of a track betting licence, revoke the licence if it is satisfied—
 
 - (a) that the track has been conducted in a disorderly manner or so as to cause a nuisance; or
-- (aa)[^key-55fddbf90692fe37122a67e40d7acd3e] that the track has been conducted in a manner which involved serious, repeated or continuous failure to comply with a code of practice in force under Article 180A; or
+- (aa)[^c-55fddbf90692fe37122a67e40d7acd3e] that the track has been conducted in a manner which involved serious, repeated or continuous failure to comply with a code of practice in force under Article 180A; or
 - (b) that undue congestion of traffic or serious prejudice to the preservation of law and order has resulted from the existence of the track; or
 - (c) upon a report made to it by the accountant appointed under Schedule 8, or upon a refusal of that accountant to give such a certificate as is mentioned in paragraph 15 of that Schedule, that any totalisator on the track is not an apparatus such as is mentioned in paragraph 1 of that Schedule or that it has been maintained or operated otherwise than in accordance with that Schedule or regulations made under this Part; or
 - (d) that the holder of the licence has been convicted of an offence mentioned in Article 37(4)(b)
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55fddbf90692fe37122a67e40d7acd3e]: Textual amendment: [Art. 42(1)(aa)](https://www.legislation.gov.uk/nisi/1985/1204/article/42/1/aa) inserted (1.10.2023) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 16(2)(c)](https://www.legislation.gov.uk/nia/2022/14/section/16/2/c), [17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3); [S.R. 2023/74](https://www.legislation.gov.uk/nisr/2023/74), [art. 2](https://www.legislation.gov.uk/nisr/2023/74/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/74/schedule)
+[^c-55fddbf90692fe37122a67e40d7acd3e]: Textual amendment: [Art. 42(1)(aa)](https://www.legislation.gov.uk/nisi/1985/1204/article/42/1/aa) inserted (1.10.2023) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 16(2)(c)](https://www.legislation.gov.uk/nia/2022/14/section/16/2/c), [17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3); [S.R. 2023/74](https://www.legislation.gov.uk/nisr/2023/74), [art. 2](https://www.legislation.gov.uk/nisr/2023/74/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/74/schedule)

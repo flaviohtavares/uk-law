@@ -29,7 +29,7 @@ summary: ''
 - (a) is within the required period;
 - (b) is chosen by the scheme manager;
 - (c) is specified in the statement of entitlement; and
-- (d)[^key-dff774aa122ef208645429c20a864269] is within the period of 10 days ending with the date on which the member is provided with the statement of entitlement.
+- (d)[^c-dff774aa122ef208645429c20a864269] is within the period of 10 days ending with the date on which the member is provided with the statement of entitlement.
 
 (4) In paragraph (3), the required period is—
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dff774aa122ef208645429c20a864269]: Textual amendment: Reg. 135(3)(d) substituted (with effect from 1.4.2015) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)(10)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/10), [25](https://www.legislation.gov.uk/uksi/2021/631/regulation/25) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
+[^c-dff774aa122ef208645429c20a864269]: Textual amendment: Reg. 135(3)(d) substituted (with effect from 1.4.2015) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)(10)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/10), [25](https://www.legislation.gov.uk/uksi/2021/631/regulation/25) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))

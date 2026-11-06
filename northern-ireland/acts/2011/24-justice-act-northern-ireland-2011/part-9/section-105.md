@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 105. Restrictions on possession of air guns by young persons[^key-b64f42f7c9e2f95a8a6805494a9f1453]
+## 105. Restrictions on possession of air guns by young persons[^c-b64f42f7c9e2f95a8a6805494a9f1453]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b64f42f7c9e2f95a8a6805494a9f1453]: Textual amendment: S. 105 repealed (13.5.2016) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 58(2)](https://www.legislation.gov.uk/nia/2016/21/section/58/2), [61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1)
+[^c-b64f42f7c9e2f95a8a6805494a9f1453]: Textual amendment: S. 105 repealed (13.5.2016) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 58(2)](https://www.legislation.gov.uk/nia/2016/21/section/58/2), [61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1)

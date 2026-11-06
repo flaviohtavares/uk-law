@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26A. Demand to adjust a food or feed authorisation to prohibit the cultivation of genetically modified organisms in all or part of Scotland[^key-3690feed7ac03237229f690f5c015eec]
+## 26A. Demand to adjust a food or feed authorisation to prohibit the cultivation of genetically modified organisms in all or part of Scotland[^c-3690feed7ac03237229f690f5c015eec]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3690feed7ac03237229f690f5c015eec]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/ssi/2002/541/regulation/26A) substituted (31.12.2020) by [The Genetically Modified Organisms (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/57)](https://www.legislation.gov.uk/ssi/2019/57), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/57/regulation/1/2/b), [3(14)](https://www.legislation.gov.uk/ssi/2019/57/regulation/3/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3690feed7ac03237229f690f5c015eec]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/ssi/2002/541/regulation/26A) substituted (31.12.2020) by [The Genetically Modified Organisms (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/57)](https://www.legislation.gov.uk/ssi/2019/57), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/57/regulation/1/2/b), [3(14)](https://www.legislation.gov.uk/ssi/2019/57/regulation/3/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Change of name[^key-751b87d608f2bd7705aae44912e54c93]
+## 17. Change of name[^c-751b87d608f2bd7705aae44912e54c93]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-751b87d608f2bd7705aae44912e54c93]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2023/55/section/17) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-751b87d608f2bd7705aae44912e54c93]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2023/55/section/17) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

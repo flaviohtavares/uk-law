@@ -23,7 +23,7 @@ summary: ''
 (1) Where an officer of the Service[^c15165571] or Welsh family proceedings officer[^c18838071] has been appointed under section 41[^c15165581] he shall have the right at all reasonable times to examine and take copies of—
 
 - (a) any records of, or held by, a local authority or an authorised person[^c15165591] which were compiled in connection with the making, or proposed making, by any person of any application under this Act with respect to the child concerned; [^c15165601]. . .
-- (b) any [^c15165601]. . . records of, or held by, a local authority which were compiled in connection with any functions which are social services functions within the meaning of[^c15165621] the [^c15165631]Local Authority Social Services Act 1970 or for the purposes of the Social Services and Well-being (Wales) Act 2014[^key-203cd7f12d8ce1503a8895b7f1c3752d], so far as those records relate to that child.
+- (b) any [^c15165601]. . . records of, or held by, a local authority which were compiled in connection with any functions which are social services functions within the meaning of[^c15165621] the [^c15165631]Local Authority Social Services Act 1970 or for the purposes of the Social Services and Well-being (Wales) Act 2014[^c-203cd7f12d8ce1503a8895b7f1c3752d], so far as those records relate to that child.
 
 ; or[^c15165641]
 
@@ -58,7 +58,7 @@ summary: ''
 
 [^c15165631]: Marginal citation: [1970 c. 42](https://www.legislation.gov.uk/ukpga/1970/42).
 
-[^key-203cd7f12d8ce1503a8895b7f1c3752d]: Textual amendment: Words in s. 42(1)(b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [99](https://www.legislation.gov.uk/wsi/2016/413/regulation/99)
+[^c-203cd7f12d8ce1503a8895b7f1c3752d]: Textual amendment: Words in s. 42(1)(b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [99](https://www.legislation.gov.uk/wsi/2016/413/regulation/99)
 
 [^c15165641]: Textual amendment: S. 42(1)(c) added (14.10.1991) by [Courts and Legal Services Act 1990 (c. 41, SIF 76:1)](https://www.legislation.gov.uk/ukpga/1990/41), [ss. 116](https://www.legislation.gov.uk/ukpga/1990/41/section/116), [Sch. 16 para. 18(3)](https://www.legislation.gov.uk/ukpga/1990/41/schedule/16/paragraph/18/3); [S.I. 1991/1883](https://www.legislation.gov.uk/uksi/1991/1883), [art. 3](https://www.legislation.gov.uk/uksi/1991/1883/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/1883/schedule)
 

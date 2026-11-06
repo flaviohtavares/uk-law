@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Benefit of Order[^key-92e2f8a8d8e62140271fae351b978222]
+## 7. Benefit of Order[^c-92e2f8a8d8e62140271fae351b978222]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Subject to article 8 (consent to transfer benefit of Order), the provisions of t
 
 ## Annotations
 
-[^key-92e2f8a8d8e62140271fae351b978222]: Commencement: Art. 7 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-92e2f8a8d8e62140271fae351b978222]: Commencement: Art. 7 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)

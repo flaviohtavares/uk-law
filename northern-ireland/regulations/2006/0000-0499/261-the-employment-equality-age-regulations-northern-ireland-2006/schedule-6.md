@@ -22,12 +22,12 @@ summary: ''
 
 Regulation 52
 
-**1.**[^key-6147ddd85c2a8964adf499bf045acc85] In paragraphs 2 to 6—
+**1.**[^c-6147ddd85c2a8964adf499bf045acc85] In paragraphs 2 to 6—
 
 - (a) “the expiry date” means the date on which notice of dismissal given by an employer expires; and
 - (b) words and expressions shall have the same meanings as they do in Schedule 5.
 
-**2.**[^key-478ad29a2dfab0631e2e3da86341c706] (1) This paragraph applies in a case where—
+**2.**[^c-478ad29a2dfab0631e2e3da86341c706] (1) This paragraph applies in a case where—
 
 - (a) an employer has given notice of dismissal to the employee before 1st October 2006 of—
   - (i) at least the period required by the contract of employment; or
@@ -57,7 +57,7 @@ Regulation 52
     - (aa) where practicable, at least four weeks before the expiry date; or
     - (bb) where that is not practicable, as soon as reasonably practicable (whether before or after the expiry date) after the employer notified the employee of his right to make a request, but not more than four weeks after the expiry date.
 
-**3.**[^key-419315e4e5a151dafc25bfe5886336e0] (1) This paragraph applies in a case where the employer has given notice of dismissal to the employee before 1st October 2006 and—
+**3.**[^c-419315e4e5a151dafc25bfe5886336e0] (1) This paragraph applies in a case where the employer has given notice of dismissal to the employee before 1st October 2006 and—
 
 - (a) the expiry date falls before 1st April 2007, but
 - (b) the period of notice given is shorter than the minimum period of notice required by paragraph 2(1)(a) or the employer has not complied with paragraph 2(1)(c).
@@ -74,7 +74,7 @@ Regulation 52
     - (aa) where practicable, at least four weeks before the expiry date; or
     - (bb) where that is not practicable, as soon as reasonably practicable (whether before or after the expiry date) after the employer notified the employee of his right to make a request, but not more than four weeks after the expiry date.
 
-**4.**[^key-be4490ec7a5c050f9b05ef05375c5fab] (1) This paragraph applies in a case where—
+**4.**[^c-be4490ec7a5c050f9b05ef05375c5fab] (1) This paragraph applies in a case where—
 
 - (a) notice of dismissal is given on or after 1st October 2006 of at least—
   - (i) the period required by the contract of employment; or
@@ -103,7 +103,7 @@ Regulation 52
     - (aa) where practicable, at least four weeks before the expiry date; or
     - (bb) where that is not practicable, as soon as reasonably practicable (whether before or after the expiry date) after the employer notified the employee of his right to make a request, but not more than four weeks after the expiry date.
 
-**5.**[^key-2527630f349a6a34fe12ca2974f95622] (1) This paragraph applies in a case where—
+**5.**[^c-2527630f349a6a34fe12ca2974f95622] (1) This paragraph applies in a case where—
 
 - (a) notice of dismissal is given on or after 1st October 2006 and is for a period shorter than—
   - (i) the period required by the contract of employment; or
@@ -122,21 +122,21 @@ Regulation 52
     - (aa) where practicable, at least four weeks before the expiry date; or
     - (bb) where that is not practicable, as soon as reasonably practicable (whether before or after the expiry date) after the employer notified the employee of his right to make a request, but not more than four weeks after the expiry date.
 
-**6.**[^key-cd61fc1d9fd2992770630d956043b725] In every case to which paragraph 2, 3, 4 or 5 applies—
+**6.**[^c-cd61fc1d9fd2992770630d956043b725] In every case to which paragraph 2, 3, 4 or 5 applies—
 
 - (a) paragraph 10 of Schedule 5 does not apply; and
 - (b) the employer is under a duty to consider any request which complies with the requirements of paragraph 2(2)(b), 2(3)(c), 3(2)(c), 4(2)(b), 4(3)(c) or 5(2)(c) in accordance with paragraphs 7 to 9 of Schedule 5.
 
 ## Annotations
 
-[^key-6147ddd85c2a8964adf499bf045acc85]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/nisr/2006/261/schedule/6/paragraph/1) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-6147ddd85c2a8964adf499bf045acc85]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/nisr/2006/261/schedule/6/paragraph/1) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-478ad29a2dfab0631e2e3da86341c706]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/nisr/2006/261/schedule/6/paragraph/2) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-478ad29a2dfab0631e2e3da86341c706]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/nisr/2006/261/schedule/6/paragraph/2) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-419315e4e5a151dafc25bfe5886336e0]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/nisr/2006/261/schedule/6/paragraph/3) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-419315e4e5a151dafc25bfe5886336e0]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/nisr/2006/261/schedule/6/paragraph/3) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-be4490ec7a5c050f9b05ef05375c5fab]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/nisr/2006/261/schedule/6/paragraph/4) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-be4490ec7a5c050f9b05ef05375c5fab]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/nisr/2006/261/schedule/6/paragraph/4) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-2527630f349a6a34fe12ca2974f95622]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/nisr/2006/261/schedule/6/paragraph/5) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-2527630f349a6a34fe12ca2974f95622]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/nisr/2006/261/schedule/6/paragraph/5) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-cd61fc1d9fd2992770630d956043b725]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/nisr/2006/261/schedule/6/paragraph/6) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-cd61fc1d9fd2992770630d956043b725]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/nisr/2006/261/schedule/6/paragraph/6) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

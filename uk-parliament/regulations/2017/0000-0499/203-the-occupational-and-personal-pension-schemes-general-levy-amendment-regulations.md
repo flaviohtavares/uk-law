@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2017 (revoked)[^key-d551c63d16f46cbba92b52005b8833df]
+The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2017 (revoked)[^c-d551c63d16f46cbba92b52005b8833df]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 1st April 2017
 
-[^key-d551c63d16f46cbba92b52005b8833df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d551c63d16f46cbba92b52005b8833df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d551c63d16f46cbba92b52005b8833df]
+## 1. Citation and commencement[^c-d551c63d16f46cbba92b52005b8833df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Occupational and Personal Pension Schemes (General Levy) Regulations 2005[^key-d551c63d16f46cbba92b52005b8833df]
+## 2. Amendment of the Occupational and Personal Pension Schemes (General Levy) Regulations 2005[^c-d551c63d16f46cbba92b52005b8833df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-d551c63d16f46cbba92b52005b8833df]
+## 3. Revocations[^c-d551c63d16f46cbba92b52005b8833df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d551c63d16f46cbba92b52005b8833df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d551c63d16f46cbba92b52005b8833df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-d551c63d16f46cbba92b52005b8833df]EXPLANATORY NOTE
+[^c-d551c63d16f46cbba92b52005b8833df]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -80,4 +80,4 @@ These Regulations reduce costs for business and civil society organisations over
 
 ## Annotations
 
-[^key-d551c63d16f46cbba92b52005b8833df]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/203) revoked (1.4.2021) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2021 (S.I. 2021/214)](https://www.legislation.gov.uk/uksi/2021/214), [reg. 3](https://www.legislation.gov.uk/uksi/2021/214/regulation/3)
+[^c-d551c63d16f46cbba92b52005b8833df]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/203) revoked (1.4.2021) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2021 (S.I. 2021/214)](https://www.legislation.gov.uk/uksi/2021/214), [reg. 3](https://www.legislation.gov.uk/uksi/2021/214/regulation/3)

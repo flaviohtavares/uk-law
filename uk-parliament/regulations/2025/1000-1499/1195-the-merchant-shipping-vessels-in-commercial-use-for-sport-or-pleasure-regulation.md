@@ -52,19 +52,19 @@ The Secretary of State has consulted such persons in the United Kingdom as the S
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and extent[^key-7fdd8a01f8036e8d8cc3137673899b6c]
+### 1. Citation, commencement and extent[^c-7fdd8a01f8036e8d8cc3137673899b6c]
 
 (1) These Regulations may be cited as the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 and come into force on 12th December 2025.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Consequential amendments and revocation[^key-62f3840436b4335d4b470e48ea7144bb]
+### 2. Consequential amendments and revocation[^c-62f3840436b4335d4b470e48ea7144bb]
 
 (1) The amendments listed in Schedule 1 have effect.
 
 (2) The Regulations listed in the first column of the Table in Schedule 2 are revoked to the extent specified in the third column of that Table.
 
-### 3. General interpretation[^key-5265ceedbdf1d83a454173a23c9ec1d2][^key-eaa1cc869835db6ba0d1743caa06cac9]
+### 3. General interpretation[^c-5265ceedbdf1d83a454173a23c9ec1d2][^c-eaa1cc869835db6ba0d1743caa06cac9]
 
 (1) In these Regulations—
 
@@ -116,7 +116,7 @@ The Secretary of State has consulted such persons in the United Kingdom as the S
 - (c) where a vessel is operated by a person other than its owner, whether on behalf of the owner by a managing agent or some other person, or on that person’s own behalf, a reference to the owner must be construed as including a reference to that person;
 - (d) a reference to a pleasure vessel includes a vessel which is used as an intended pleasure vessel.
 
-### 4. Application[^key-5d264c2f15c25212b97c94526447856b]
+### 4. Application[^c-5d264c2f15c25212b97c94526447856b]
 
 (1) These Regulations apply—
 
@@ -138,7 +138,7 @@ which are in commercial use for sport or pleasure.
 
 those persons are not to be taken into account for the purpose of determining the application to that vessel of any provision of these Regulations.
 
-### 5. Exemptions[^key-5fe757e19bb33b390cc462b4530d5d7b][^key-f1f81d2fb31593ecb7b545af04d4b65b]
+### 5. Exemptions[^c-5fe757e19bb33b390cc462b4530d5d7b][^c-f1f81d2fb31593ecb7b545af04d4b65b]
 
 (1) The Secretary of State may exempt from any requirement of these Regulations or the relevant code of practice a large vessel or class of large vessel if satisfied that the conditions in paragraph (3) of chapter 1.10 (exemptions)[^f00012] of the relevant code of practice are met.
 
@@ -162,7 +162,7 @@ those persons are not to be taken into account for the purpose of determining th
 
 (7) Where an exemption is granted subject to safety requirements under paragraph (3), the exemption ceases to have effect if those requirements are not complied with.
 
-### 6. Equivalents[^key-c40c6beaebef9419760a591c8beb6d1b][^key-d0ed86aca0030beb6ea7fa5479fc6cd2]
+### 6. Equivalents[^c-c40c6beaebef9419760a591c8beb6d1b][^c-d0ed86aca0030beb6ea7fa5479fc6cd2]
 
 (1) Subject to paragraphs (2) and (3), where the provisions of these Regulations or the relevant code of practice require that—
 
@@ -194,7 +194,7 @@ the Secretary of State may approve any other fitting, material, appliance, appar
 - (b) received in legible form; and
 - (c) capable of being used for subsequent reference.
 
-### 7. Approvals[^key-72177a3292962eba3e2468e8c6766085][^key-9840cbaa5d9146c796c7982aef65760a]
+### 7. Approvals[^c-72177a3292962eba3e2468e8c6766085][^c-9840cbaa5d9146c796c7982aef65760a]
 
 (1) The Secretary of State may grant an approval in relation to a United Kingdom vessel for anything in these Regulations or the relevant code of practice requiring to be—
 
@@ -222,7 +222,7 @@ the Secretary of State may approve any other fitting, material, appliance, appar
 
 ## PART 2 — Survey and certification of large vessels
 
-### 8. Surveys of large vessels[^key-7bb5cba6f855d0cb7f26ac766f3194d9]
+### 8. Surveys of large vessels[^c-7bb5cba6f855d0cb7f26ac766f3194d9]
 
 (1) A large vessel must not proceed, or attempt to proceed, to sea or on any voyage unless it has been—
 
@@ -243,7 +243,7 @@ the Secretary of State may approve any other fitting, material, appliance, appar
 - (a) a report is made in accordance with regulation 21(2) (responsibilities of owner and master); and
 - (b) a Certifying Authority has decided under regulation 21(3) (responsibilities of owner and master) that an additional survey is required to be carried out.
 
-### 9. Issue of certificate of compliance to large vessels[^key-ca388a531c03612af968cafeecc4ae28]
+### 9. Issue of certificate of compliance to large vessels[^c-ca388a531c03612af968cafeecc4ae28]
 
 (1) Subject to payment of any prescribed fee, a Certifying Authority must, on being notified by a surveyor of the matters specified in paragraph (2) in respect of a large vessel, issue a certificate of compliance in respect of that vessel.
 
@@ -259,7 +259,7 @@ the Secretary of State may approve any other fitting, material, appliance, appar
 - (a) has carried out an annual, intermediate or periodical survey as required in accordance with the cargo ship surveys specified in regulation 8(2)(a) in respect of that vessel; and
 - (b) is satisfied at the date of the relevant survey that the vessel complies with the requirements of the relevant code of practice that apply to it.
 
-### 10. Application for review[^key-062a126dcf40c44b3c01da0124434fbc]
+### 10. Application for review[^c-062a126dcf40c44b3c01da0124434fbc]
 
 (1) If an applicant for a certificate of compliance is dissatisfied with the outcome of a survey carried out for those purposes, the applicant may request a review of that outcome to be carried out by the Certifying Authority.
 
@@ -280,7 +280,7 @@ the Secretary of State may approve any other fitting, material, appliance, appar
 
 (4) Any decision made by the Certifying Authority following its review must be notified in writing to the persons mentioned in paragraph 3(b).
 
-### 11. Arbitration[^key-d588aad587d9a5477a298b3cff5043bb]
+### 11. Arbitration[^c-d588aad587d9a5477a298b3cff5043bb]
 
 (1) If an applicant is dissatisfied for any reason with the outcome of a review carried out by the Certifying Authority under regulation 10 (application for review), the applicant may serve a written notice on the Certifying Authority within 21 days beginning with the date of receiving notification of the review decision—
 
@@ -324,7 +324,7 @@ the Secretary of State may approve any other fitting, material, appliance, appar
 
 ## PART 3 — Survey and certification of small vessels
 
-### 12. Surveys of small vessels[^key-8b94647a2c8ab74335144daf1f0930b6]
+### 12. Surveys of small vessels[^c-8b94647a2c8ab74335144daf1f0930b6]
 
 (1) A small vessel must not proceed, or attempt to proceed, to sea or on any voyage unless it has been—
 
@@ -364,7 +364,7 @@ an intermediate examination;
 - “**renewal examination**” means the survey of that description specified in section 4.7 of the Code;
 - “**the Code**” means the code of practice in relation to a small vessel[^f00022].
 
-### 13. Issue of Small Sport or Pleasure Code Certificate to small vessels[^key-6efef78a7529461325931747c1009c87]
+### 13. Issue of Small Sport or Pleasure Code Certificate to small vessels[^c-6efef78a7529461325931747c1009c87]
 
 (1) Subject to payment of any prescribed fee, a Certifying Authority must, on being notified by a surveyor of the matters specified in paragraph (2) in respect of a small vessel, issue a Small Sport or Pleasure Code Certificate in respect of that vessel.
 
@@ -387,7 +387,7 @@ an intermediate examination;
 
 ## PART 4 — Survey and certification of large and small vessels
 
-### 14. Duration of certificates[^key-a95e02cf1cee8b40d05df3bfe35cd205]
+### 14. Duration of certificates[^c-a95e02cf1cee8b40d05df3bfe35cd205]
 
 (1) Subject to regulations 16 (validity of certificates), 17 (cancellation of certificates) and 22 (deficient vessels)—
 
@@ -400,7 +400,7 @@ is valid for such period as is specified in the certificate, not exceeding five 
 
 (3) When a renewal survey of a large vessel is completed more than three months before the date of expiry of a certificate of compliance, the new certificate may be issued for a period of validity beginning with the date of the satisfactory completion of the renewal survey and not exceeding five years.
 
-### 15. Extension of certificates[^key-7b4c97ae5dab1dcbe160ae04de9a5ea9]
+### 15. Extension of certificates[^c-7b4c97ae5dab1dcbe160ae04de9a5ea9]
 
 (1) A Certifying Authority that has issued a certificate in respect of a large or small vessel may extend the period of validity of that certificate for a period not exceeding three calendar months provided the conditions in paragraph (2) are met.
 
@@ -413,7 +413,7 @@ is valid for such period as is specified in the certificate, not exceeding five 
 
 and in such a case the surveyor may endorse the existing certificate in accordance with the notification given by the Certifying Authority.
 
-### 16. Validity of certificates[^key-f7c988bf23b29a524234d0b675efc72a]
+### 16. Validity of certificates[^c-f7c988bf23b29a524234d0b675efc72a]
 
 (1) A certificate issued or endorsed in respect of a vessel ceases to be valid if—
 
@@ -431,7 +431,7 @@ and in such a case the surveyor may endorse the existing certificate in accordan
 - (b) the health and safety of any persons on that vessel; or
 - (c) compliance with the requirements of the relevant code of practice that applies to that vessel.
 
-### 17. Cancellation of certificates[^key-db839cc3840869c4638720a8f61cca60]
+### 17. Cancellation of certificates[^c-db839cc3840869c4638720a8f61cca60]
 
 (1) A certificate may be cancelled by the Certifying Authority if there is reason to believe that the certificate was issued on false or erroneous information.
 
@@ -439,7 +439,7 @@ and in such a case the surveyor may endorse the existing certificate in accordan
 
 (3) Any direction under paragraph (2) may require that the certificate must be surrendered within such time and in such manner as the Certifying Authority sees fit.
 
-### 18. Prohibited acts in relation to certificates[^key-5105002659827b51b65d0b6db1e4d71d]
+### 18. Prohibited acts in relation to certificates[^c-5105002659827b51b65d0b6db1e4d71d]
 
 A person must not—
 
@@ -451,7 +451,7 @@ A person must not—
 
 ## PART 5 — Requirements for large and small vessels
 
-### 19. Requirements for large vessels[^key-e6bf0ab0c2c85bcbe042c8578d944622]
+### 19. Requirements for large vessels[^c-e6bf0ab0c2c85bcbe042c8578d944622]
 
 (1) A large vessel must comply with each requirement in the relevant code of practice applicable to it.
 
@@ -462,7 +462,7 @@ A person must not—
 
 the Regulations listed in the first column of the table in Schedule 3 do not apply to the extent specified in the third column of that table.
 
-### 20. Requirements for small vessels[^key-e81ed1c3d19e965094b59e363cfd9503][^key-42cdfeb8a57d65a6851f6b2a77723a42]
+### 20. Requirements for small vessels[^c-e81ed1c3d19e965094b59e363cfd9503][^c-42cdfeb8a57d65a6851f6b2a77723a42]
 
 (1) A small vessel must comply with each requirement in the relevant code of practice applicable to it.
 
@@ -473,7 +473,7 @@ the Regulations listed in the first column of the table in Schedule 3 do not app
 
 the Regulations listed in the first column of the table in Schedule 4 do not apply to the extent specified in the third column of that table.
 
-### 21. Responsibilities of owner and master[^key-e060668bbaeaea358764658225dec366]
+### 21. Responsibilities of owner and master[^c-e060668bbaeaea358764658225dec366]
 
 (1) The owner and master of any vessel that has been certified in accordance with regulation 9 (issue of certificate of compliance in relation to large vessels) or 13 (issue of small sport or pleasure code certificate to small vessels) must ensure that—
 
@@ -507,7 +507,7 @@ the Regulations listed in the first column of the table in Schedule 4 do not app
     - (bb) other vessels; or
     - (cc) the marine environment.
 
-### 22. Deficient vessels[^key-30034d312d81ac08c16be495490d3de8]
+### 22. Deficient vessels[^c-30034d312d81ac08c16be495490d3de8]
 
 (1) This regulation applies to a large or small vessel where a surveyor determines that—
 
@@ -552,7 +552,7 @@ the Regulations listed in the first column of the table in Schedule 4 do not app
 
 ## PART 6 — Enforcement
 
-### 23. Offences[^key-edc47dc24d13f22febcb19ad2e6da55b][^key-f08f3b8105f12b7528ee8224ae7c61ce]
+### 23. Offences[^c-edc47dc24d13f22febcb19ad2e6da55b][^c-f08f3b8105f12b7528ee8224ae7c61ce]
 
 (1) If a vessel proceeds or attempts to proceed to sea or on any voyage, or arrives within United Kingdom waters, in breach of any of the requirements in or under these Regulations applicable to or in relation to that vessel the owner and the master are each guilty of an offence in respect of each case of non-compliance.
 
@@ -567,7 +567,7 @@ the Regulations listed in the first column of the table in Schedule 4 do not app
 
 (4) It is a defence for a person charged with an offence under this regulation to prove that the person charged took all reasonable steps to avoid the commission of the offence.
 
-### 24. Detention of vessels[^key-7af7397059d430fd86fff416c57fc5ac][^key-70966407fef657f25e911ac7a5103327]
+### 24. Detention of vessels[^c-7af7397059d430fd86fff416c57fc5ac][^c-70966407fef657f25e911ac7a5103327]
 
 (1) For the purposes of this regulation, any reference to “**the Act**” is a reference to the Merchant Shipping Act 1995.
 
@@ -623,83 +623,83 @@ Two of the Lords Commissioners of His Majesty’s Treasury
 
 Regulation 2(1)
 
-### 1. The Merchant Shipping (Registration of Ships) Regulations 1993[^key-2b4d3e66cc17190dac744db2a61b1071]
+### 1. The Merchant Shipping (Registration of Ships) Regulations 1993[^c-2b4d3e66cc17190dac744db2a61b1071]
 
 The Merchant Shipping (Registration of Ships) Regulations 1993[^f00026] are amended as follows.
 
-**2.**[^key-d9f1c253a28ce3f74c44433c82756673] In regulation 1(2), for the definition of “pleasure vessel” substitute—
+**2.**[^c-d9f1c253a28ce3f74c44433c82756673] In regulation 1(2), for the definition of “pleasure vessel” substitute—
 
 > - “**pleasure vessel**” means a pleasure vessel as defined in regulation 3(1) of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025[^f00027];
 
 .
 
-### 3. The Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997[^key-1959de433f49bbef4b1b7866b77f7caf]
+### 3. The Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997[^c-1959de433f49bbef4b1b7866b77f7caf]
 
 The Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997[^f00028] are amended as follows.
 
-**4.**[^key-6a0f8a06f69697d9d2ce63b7839e2e5c] In regulation 2(2), in the definition of “sea-going”, for sub-paragraph (a)(iii) substitute—
+**4.**[^c-6a0f8a06f69697d9d2ce63b7839e2e5c] In regulation 2(2), in the definition of “sea-going”, for sub-paragraph (a)(iii) substitute—
 
 > - (iii) a ship which is a large vessel within the meaning of regulation 3(1) of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 in respect of which a certificate of compliance has been issued in accordance with regulation 9 of those Regulations; or
 
 .
 
-### 5. The Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010[^key-e7e39ca5657a3135e2d32e1346b3a759]
+### 5. The Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010[^c-e7e39ca5657a3135e2d32e1346b3a759]
 
 The Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010[^f00029] are amended as follows.
 
-**6.**[^key-f422f5bde896ef64f47e3bbbebf0d11a] In regulation 2, in the definition of “sea-going”, for paragraph (c) substitute—
+**6.**[^c-f422f5bde896ef64f47e3bbbebf0d11a] In regulation 2, in the definition of “sea-going”, for paragraph (c) substitute—
 
 > - (c) a ship which is a large vessel within the meaning of regulation 3(1) of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 in respect of which a certificate of compliance has been issued in accordance with regulation 9 of those Regulations, or
 
 .
 
-### 7. The Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013[^key-7d73b960a1c9236320467e8003cb33f2]
+### 7. The Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013[^c-7d73b960a1c9236320467e8003cb33f2]
 
 The Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013[^f00030] are amended as follows.
 
-**8.**[^key-ef5e78bdc62cf0171394e1cba81ecd8a] In regulation 2(1), in the definition of “sea-going”, for paragraph (c) substitute—
+**8.**[^c-ef5e78bdc62cf0171394e1cba81ecd8a] In regulation 2(1), in the definition of “sea-going”, for paragraph (c) substitute—
 
 > - (c) a ship which is a large vessel within the meaning of regulation 3(1) of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 in respect of which a certificate of compliance has been issued in accordance with regulation 9 of those Regulations; or
 
 .
 
-**9.**[^key-c8a0aa535ed38b44a36d9c81f15f9a5e] Omit regulation 3(1).
+**9.**[^c-c8a0aa535ed38b44a36d9c81f15f9a5e] Omit regulation 3(1).
 
-### 10. The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014[^key-6974f962d03b30c42e842fe5abfa4c21]
+### 10. The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014[^c-6974f962d03b30c42e842fe5abfa4c21]
 
 The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc) Regulations 2014[^f00031] are amended as follows.
 
-**11.**[^key-410f20c6f73315416ed62fe5875c86ab] In regulation 2(1), in the definition of “sea-going”, for paragraph (c) substitute—
+**11.**[^c-410f20c6f73315416ed62fe5875c86ab] In regulation 2(1), in the definition of “sea-going”, for paragraph (c) substitute—
 
 > - (c) a ship which is a large vessel within the meaning of regulation 3(1) of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 in respect of which a certificate of compliance has been issued in accordance with regulation 9 of those Regulations; or
 
 .
 
-### 12. The Merchant Shipping (Maritime Labour Convention) (Recruitment and Placement) Regulations 2014[^key-633c4c1839a48a2446637608931bc5a4]
+### 12. The Merchant Shipping (Maritime Labour Convention) (Recruitment and Placement) Regulations 2014[^c-633c4c1839a48a2446637608931bc5a4]
 
 The Merchant Shipping (Maritime Labour Convention) (Recruitment and Placement) Regulations 2014[^f00032] are amended as follows.
 
-**13.**[^key-10295c9d0e962528271eb9e350819e17] In regulation 2(1), in the definition of “sea-going”, for paragraph (c) substitute—
+**13.**[^c-10295c9d0e962528271eb9e350819e17] In regulation 2(1), in the definition of “sea-going”, for paragraph (c) substitute—
 
 > - (c) a ship which is a large vessel within the meaning of regulation 3(1) of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 in respect of which a certificate of compliance has been issued in accordance with regulation 9 of those Regulations; or
 
 .
 
-### 14. The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018[^key-6111a34bc05beb164aeacbe97c0fb4d4]
+### 14. The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018[^c-6111a34bc05beb164aeacbe97c0fb4d4]
 
 The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018[^f00033] are amended as follows.
 
-**15.**[^key-10269ab7513f09caf0e9a8538162dd62] In regulation 2(1), in the definition of “sea-going”, for paragraph (c) substitute—
+**15.**[^c-10269ab7513f09caf0e9a8538162dd62] In regulation 2(1), in the definition of “sea-going”, for paragraph (c) substitute—
 
 > - (c) a ship which is a large vessel within the meaning of regulation 3(1) of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 in respect of which a certificate of compliance has been issued in accordance with regulation 9 of those Regulations; or
 
 .
 
-### 16. The Merchant Shipping Fees Regulations 2018[^key-7a9480077870089a3fec55946e27815d]
+### 16. The Merchant Shipping Fees Regulations 2018[^c-7a9480077870089a3fec55946e27815d]
 
 The Merchant Shipping (Fees) Regulations 2018[^f00034] are amended as follows.
 
-**17.**[^key-abfba64d19aadcdbe233df81379ade08] In Schedule 1 (fees under the Merchant Shipping Act 1995), in the table in paragraph 5 (fees for inspections, etc) of Part 1 (surveys, inspections and applications for exemption)—
+**17.**[^c-abfba64d19aadcdbe233df81379ade08] In Schedule 1 (fees under the Merchant Shipping Act 1995), in the table in paragraph 5 (fees for inspections, etc) of Part 1 (surveys, inspections and applications for exemption)—
 
 - (a) in Section A (crew), in the entry for the Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997, in the third column, after “2016/1026” insert—
 
@@ -757,17 +757,17 @@ The Merchant Shipping (Fees) Regulations 2018[^f00034] are amended as follows.
 
   .
 
-### 18. The Merchant Shipping (High Speed Craft) Regulations 2022[^key-d7022b4fa806a39b4bc154a262ea1223]
+### 18. The Merchant Shipping (High Speed Craft) Regulations 2022[^c-d7022b4fa806a39b4bc154a262ea1223]
 
 The Merchant Shipping (High Speed Craft) Regulations 2022 are amended as follows.
 
-**19.**[^key-0708a5eb887093d7e83a71ff2b102183] In regulation 4(2), in sub-paragraph (h), for “a Code of Practice referred to in regulations 4 or 5 of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998” substitute “regulations 9 or 13 of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025”.
+**19.**[^c-0708a5eb887093d7e83a71ff2b102183] In regulation 4(2), in sub-paragraph (h), for “a Code of Practice referred to in regulations 4 or 5 of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998” substitute “regulations 9 or 13 of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025”.
 
-### 20. The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2022[^key-6b2a20695ee7979072187ffff09ffc71]
+### 20. The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2022[^c-6b2a20695ee7979072187ffff09ffc71]
 
 The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2022 are amended as follows.
 
-**21.**[^key-aa9cb810970c51fd70c28118b85b4e49] In regulation 54(2), for sub-paragraph (e) substitute—
+**21.**[^c-aa9cb810970c51fd70c28118b85b4e49] In regulation 54(2), for sub-paragraph (e) substitute—
 
 > - (e) vessels—
 >   - (i) which are small vessels as defined in regulation 3(1) of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025; and
@@ -775,11 +775,11 @@ The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Re
 
 .
 
-### 22. The Merchant Shipping (Watercraft) Order 2023[^key-93f47b4485ff0e1b6020fdde46836c8d]
+### 22. The Merchant Shipping (Watercraft) Order 2023[^c-93f47b4485ff0e1b6020fdde46836c8d]
 
 The Merchant Shipping (Watercraft) Order 2023[^f00041] is amended as follows.
 
-**23.**[^key-19423ea7800ede68931d069d0a3c71d1] In Schedule 2, after paragraph 2, insert—
+**23.**[^c-19423ea7800ede68931d069d0a3c71d1] In Schedule 2, after paragraph 2, insert—
 
 > **3. Application of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025**
 >
@@ -807,7 +807,7 @@ The Merchant Shipping (Watercraft) Order 2023[^f00041] is amended as follows.
 
 .
 
-## SCHEDULE 2 — Revocations[^key-6a589ff061504c068944ade73243fc43]
+## SCHEDULE 2 — Revocations[^c-6a589ff061504c068944ade73243fc43]
 
 Regulation 2(2)
 
@@ -826,11 +826,11 @@ Regulation 2(2)
 | The Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 | [S.I. 2023/246](https://www.legislation.gov.uk/uksi/2023/246) | Paragraph 11 of the Schedule |
 | The Merchant Shipping (Fire Protection) Regulations 2023 | [S.I. 2023/568](https://www.legislation.gov.uk/uksi/2023/568) | Paragraphs 6 to 8 of Schedule 1 |
 
-## SCHEDULE 3 — Large Vessels[^key-1607d187850e5e68483775dfcd0ea023]
+## SCHEDULE 3 — Large Vessels[^c-1607d187850e5e68483775dfcd0ea023]
 
 Regulation 19(2)
 
-[^key-1607d187850e5e68483775dfcd0ea023]
+[^c-1607d187850e5e68483775dfcd0ea023]
 
 The provisions of the statutory instruments listed in the table are disapplied in relation to large vessels which have been issued with a certificate of compliance.
 
@@ -848,11 +848,11 @@ The provisions of the statutory instruments listed in the table are disapplied i
 | The Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 | 2023/246 | The whole Regulations |
 | The Merchant Shipping (Fire Protection) Regulations 2023 | 2023/568 | The whole Regulations |
 
-## SCHEDULE 4 — Small Vessels[^key-03bd3c3fb6549cf080ba6c6eb74e7f99]
+## SCHEDULE 4 — Small Vessels[^c-03bd3c3fb6549cf080ba6c6eb74e7f99]
 
 Regulation 20(2)
 
-[^key-03bd3c3fb6549cf080ba6c6eb74e7f99]
+[^c-03bd3c3fb6549cf080ba6c6eb74e7f99]
 
 The provisions of the statutory instruments listed in the table are disapplied in relation to small vessels which have been issued with a Small Sport or Pleasure Code Certificate.
 
@@ -896,13 +896,13 @@ An Explanatory Memorandum and a de minimis assessment have been prepared and are
 
 [^f00002]: Footnote: [2003 c. 20](https://www.legislation.gov.uk/ukpga/2003/20).
 
-[^key-7fdd8a01f8036e8d8cc3137673899b6c]: Commencement: Reg. 1 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-7fdd8a01f8036e8d8cc3137673899b6c]: Commencement: Reg. 1 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-62f3840436b4335d4b470e48ea7144bb]: Commencement: Reg. 2 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-62f3840436b4335d4b470e48ea7144bb]: Commencement: Reg. 2 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-5265ceedbdf1d83a454173a23c9ec1d2]: Commencement: Reg. 3 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-5265ceedbdf1d83a454173a23c9ec1d2]: Commencement: Reg. 3 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-eaa1cc869835db6ba0d1743caa06cac9]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1195/regulation/3) applied (12.12.2025) by [S.I. 2023/35](https://www.legislation.gov.uk/uksi/2023/35), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/3) (as inserted by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/23) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4)))
+[^c-eaa1cc869835db6ba0d1743caa06cac9]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1195/regulation/3) applied (12.12.2025) by [S.I. 2023/35](https://www.legislation.gov.uk/uksi/2023/35), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/3) (as inserted by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/23) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4)))
 
 [^f00003]: Footnote: [S.I. 2015/508](https://www.legislation.gov.uk/uksi/2015/508), to which there are amendments not relevant to these Regulations.
 
@@ -918,21 +918,21 @@ An Explanatory Memorandum and a de minimis assessment have been prepared and are
 
 [^f00009]: Footnote: [S.I. 1967/172](https://www.legislation.gov.uk/uksi/1967/172); amended by [S.I. 1967/1093](https://www.legislation.gov.uk/uksi/1967/1093). This instrument was revoked by [S.I. 1982/841](https://www.legislation.gov.uk/uksi/1982/841) and is available on https://www.legislation.gov.uk/uksi/1967/172/pdfs/uksi\_19670172\_en.pdf.
 
-[^key-5d264c2f15c25212b97c94526447856b]: Commencement: Reg. 4 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-5d264c2f15c25212b97c94526447856b]: Commencement: Reg. 4 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 2022/41](https://www.legislation.gov.uk/uksi/2022/41), amended by [S.I. 2022/1219](https://www.legislation.gov.uk/uksi/2022/1219).
 
 [^f00011]: Footnote: Regulation 33 in Chapter V of the Annex to the International Convention for the Safety of Life at Sea, 1974 (safety of navigation) places an obligation on the master to provide assistance to persons in distress at sea. This obligation is implemented in the Merchant Shipping (Safety of Navigation) Regulations 2020 ([S.I. 2020/673](https://www.legislation.gov.uk/uksi/2020/673)), amended by [S.I. 2022/1219](https://www.legislation.gov.uk/uksi/2022/1219) and [S.I. 2025/134](https://www.legislation.gov.uk/uksi/2025/134).
 
-[^key-5fe757e19bb33b390cc462b4530d5d7b]: Commencement: Reg. 5 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-5fe757e19bb33b390cc462b4530d5d7b]: Commencement: Reg. 5 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-f1f81d2fb31593ecb7b545af04d4b65b]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1195/regulation/5) applied (with modifications) (12.12.2025) by [S.I. 2023/35](https://www.legislation.gov.uk/uksi/2023/35), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/3) (as inserted by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/23) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4)))
+[^c-f1f81d2fb31593ecb7b545af04d4b65b]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1195/regulation/5) applied (with modifications) (12.12.2025) by [S.I. 2023/35](https://www.legislation.gov.uk/uksi/2023/35), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/3) (as inserted by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/23) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4)))
 
 [^f00012]: Footnote: The Conventions referred to in paragraph (3) of chapter 1.10 are listed in Annex L to the Common Annexes, which is applied by Chapter 3 of Part A of the Red Ensign Yacht Code. The Common Annexes are found at https://www.redensigngroup.org/media/1alpazfg/reg-yc-july-2024-edition-common-annexes.pdf.
 
-[^key-c40c6beaebef9419760a591c8beb6d1b]: Commencement: Reg. 6 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-c40c6beaebef9419760a591c8beb6d1b]: Commencement: Reg. 6 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-d0ed86aca0030beb6ea7fa5479fc6cd2]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/1195/regulation/6) applied (with modifications) (12.12.2025) by [S.I. 2023/35](https://www.legislation.gov.uk/uksi/2023/35), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/3) (as inserted by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/23) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4)))
+[^c-d0ed86aca0030beb6ea7fa5479fc6cd2]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/1195/regulation/6) applied (with modifications) (12.12.2025) by [S.I. 2023/35](https://www.legislation.gov.uk/uksi/2023/35), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/3) (as inserted by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/23) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4)))
 
 [^f00013]: Footnote: The safety conditions are set out in paragraph 27A.1.1.2 of the relevant code of practice.
 
@@ -940,63 +940,63 @@ An Explanatory Memorandum and a de minimis assessment have been prepared and are
 
 [^f00015]: Footnote: The safety conditions are set out in paragraph 27C.5 and 27C.6 of the relevant code of practice.
 
-[^key-72177a3292962eba3e2468e8c6766085]: Commencement: Reg. 7 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-72177a3292962eba3e2468e8c6766085]: Commencement: Reg. 7 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-9840cbaa5d9146c796c7982aef65760a]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/1195/regulation/7) applied (with modifications) (12.12.2025) by [S.I. 2023/35](https://www.legislation.gov.uk/uksi/2023/35), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/3) (as inserted by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/23) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4)))
+[^c-9840cbaa5d9146c796c7982aef65760a]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/1195/regulation/7) applied (with modifications) (12.12.2025) by [S.I. 2023/35](https://www.legislation.gov.uk/uksi/2023/35), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/3) (as inserted by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/23) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4)))
 
 [^f00016]: Footnote: The circumstances in which the approval of the Secretary of State is required in relation to United Kingdom ships are set out in the relevant code of practice.
 
 [^f00017]: Footnote: [S.I. 2016/1025](https://www.legislation.gov.uk/uksi/2016/1025), amended by [S.I. 2019/470](https://www.legislation.gov.uk/uksi/2019/470), [2019/1304](https://www.legislation.gov.uk/uksi/2019/1304), [2020/1000](https://www.legislation.gov.uk/uksi/2020/1000) and [2024/504](https://www.legislation.gov.uk/uksi/2024/504); there are other amending instruments but none is relevant. Relevant standards are set out in Annex 1 to Merchant Shipping Notice 1874 (M+F) Amendment 10, which is available on https://www.gov.uk/government/publications/msn-1874-mf-amendment-10-marine-equipment-united-kingdom-conformity-assessment-procedures-for-marine-equipment-other-approval-and-standards and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
-[^key-7bb5cba6f855d0cb7f26ac766f3194d9]: Commencement: Reg. 8 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-7bb5cba6f855d0cb7f26ac766f3194d9]: Commencement: Reg. 8 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
 [^f00018]: Footnote: Chapter 30 of Part A of the Red Ensign Group Yacht Code refers to Annex N to the Common Annexes. Section N2 (survey and certification) requires large vessels to be surveyed in accordance with the guidelines in IMO Resolution A.1053(27), now superseded by IMO Resolution A.1186(33) applicable in relation to cargo ships. IMO Resolution A.1186(33) may be obtained in copy from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk). Annex M to the Common Annexes lists the certificates which may apply to large vessels.
 
 [^f00019]: Footnote: Paragraphs 2.8.7 and 4.7 of IMO Resolution A.1186(33) provide further information about additional surveys.
 
-[^key-ca388a531c03612af968cafeecc4ae28]: Commencement: Reg. 9 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-ca388a531c03612af968cafeecc4ae28]: Commencement: Reg. 9 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-062a126dcf40c44b3c01da0124434fbc]: Commencement: Reg. 10 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-062a126dcf40c44b3c01da0124434fbc]: Commencement: Reg. 10 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-d588aad587d9a5477a298b3cff5043bb]: Commencement: Reg. 11 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-d588aad587d9a5477a298b3cff5043bb]: Commencement: Reg. 11 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
 [^f00020]: Footnote: This is available on https://www.gov.uk/government/publications/msn-1613-ms-survey-and-certification-regulations-1995-arbitration-process and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
 [^f00021]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-8b94647a2c8ab74335144daf1f0930b6]: Commencement: Reg. 12 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-8b94647a2c8ab74335144daf1f0930b6]: Commencement: Reg. 12 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
 [^f00022]: Footnote: See the definition of the code of practice in relation to a small vessel in regulation 3(1) (interpretation).
 
-[^key-6efef78a7529461325931747c1009c87]: Commencement: Reg. 13 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-6efef78a7529461325931747c1009c87]: Commencement: Reg. 13 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-a95e02cf1cee8b40d05df3bfe35cd205]: Commencement: Reg. 14 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-a95e02cf1cee8b40d05df3bfe35cd205]: Commencement: Reg. 14 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-7b4c97ae5dab1dcbe160ae04de9a5ea9]: Commencement: Reg. 15 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-7b4c97ae5dab1dcbe160ae04de9a5ea9]: Commencement: Reg. 15 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-f7c988bf23b29a524234d0b675efc72a]: Commencement: Reg. 16 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-f7c988bf23b29a524234d0b675efc72a]: Commencement: Reg. 16 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-db839cc3840869c4638720a8f61cca60]: Commencement: Reg. 17 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-db839cc3840869c4638720a8f61cca60]: Commencement: Reg. 17 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-5105002659827b51b65d0b6db1e4d71d]: Commencement: Reg. 18 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-5105002659827b51b65d0b6db1e4d71d]: Commencement: Reg. 18 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-e6bf0ab0c2c85bcbe042c8578d944622]: Commencement: Reg. 19 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-e6bf0ab0c2c85bcbe042c8578d944622]: Commencement: Reg. 19 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-e81ed1c3d19e965094b59e363cfd9503]: Commencement: Reg. 20 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-e81ed1c3d19e965094b59e363cfd9503]: Commencement: Reg. 20 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-42cdfeb8a57d65a6851f6b2a77723a42]: Modification: [Reg. 20](https://www.legislation.gov.uk/uksi/2025/1195/regulation/20) applied (with modifications) (12.12.2025) by [S.I. 2023/35](https://www.legislation.gov.uk/uksi/2023/35), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/3) (as inserted by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/23) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4)))
+[^c-42cdfeb8a57d65a6851f6b2a77723a42]: Modification: [Reg. 20](https://www.legislation.gov.uk/uksi/2025/1195/regulation/20) applied (with modifications) (12.12.2025) by [S.I. 2023/35](https://www.legislation.gov.uk/uksi/2023/35), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/3) (as inserted by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/23) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4)))
 
-[^key-e060668bbaeaea358764658225dec366]: Commencement: Reg. 21 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-e060668bbaeaea358764658225dec366]: Commencement: Reg. 21 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-30034d312d81ac08c16be495490d3de8]: Commencement: Reg. 22 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-30034d312d81ac08c16be495490d3de8]: Commencement: Reg. 22 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-edc47dc24d13f22febcb19ad2e6da55b]: Commencement: Reg. 23 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-edc47dc24d13f22febcb19ad2e6da55b]: Commencement: Reg. 23 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-f08f3b8105f12b7528ee8224ae7c61ce]: Modification: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/1195/regulation/23) applied (with modifications) (12.12.2025) by [S.I. 2023/35](https://www.legislation.gov.uk/uksi/2023/35), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/3) (as inserted by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/23) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4)))
+[^c-f08f3b8105f12b7528ee8224ae7c61ce]: Modification: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/1195/regulation/23) applied (with modifications) (12.12.2025) by [S.I. 2023/35](https://www.legislation.gov.uk/uksi/2023/35), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/3) (as inserted by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/23) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4)))
 
-[^key-7af7397059d430fd86fff416c57fc5ac]: Commencement: Reg. 24 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-7af7397059d430fd86fff416c57fc5ac]: Commencement: Reg. 24 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-70966407fef657f25e911ac7a5103327]: Modification: [Reg. 24](https://www.legislation.gov.uk/uksi/2025/1195/regulation/24) applied (with modifications) (12.12.2025) by [S.I. 2023/35](https://www.legislation.gov.uk/uksi/2023/35), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/3) (as inserted by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/23) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4)))
+[^c-70966407fef657f25e911ac7a5103327]: Modification: [Reg. 24](https://www.legislation.gov.uk/uksi/2025/1195/regulation/24) applied (with modifications) (12.12.2025) by [S.I. 2023/35](https://www.legislation.gov.uk/uksi/2023/35), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/3) (as inserted by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/23) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4)))
 
 [^f00023]: Footnote: Section 284 was amended by Schedule 1 to the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28) and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
@@ -1004,57 +1004,57 @@ An Explanatory Memorandum and a de minimis assessment have been prepared and are
 
 [^f00025]: Footnote: Section 95 was amended by Schedule 1, paragraph 2 of the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28).
 
-[^key-2b4d3e66cc17190dac744db2a61b1071]: Commencement: Sch. 1 para. 1 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-2b4d3e66cc17190dac744db2a61b1071]: Commencement: Sch. 1 para. 1 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
 [^f00026]: Footnote: [S.I. 1993/3138](https://www.legislation.gov.uk/uksi/1993/3138), amended by [S.I. 1999/3206](https://www.legislation.gov.uk/uksi/1999/3206); there are other amendments not relevant to these Regulations.
 
-[^key-d9f1c253a28ce3f74c44433c82756673]: Commencement: Sch. 1 para. 2 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-d9f1c253a28ce3f74c44433c82756673]: Commencement: Sch. 1 para. 2 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
 [^f00027]: Footnote: [S.I. 2025/1195](https://www.legislation.gov.uk/uksi/2025/1195).
 
-[^key-1959de433f49bbef4b1b7866b77f7caf]: Commencement: Sch. 1 para. 3 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-1959de433f49bbef4b1b7866b77f7caf]: Commencement: Sch. 1 para. 3 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
 [^f00028]: Footnote: [S.I. 1997/2962](https://www.legislation.gov.uk/uksi/1997/2962), amended by [S.I. 2014/1616](https://www.legislation.gov.uk/uksi/2014/1616); there are other amendments not relevant to these Regulations.
 
-[^key-6a0f8a06f69697d9d2ce63b7839e2e5c]: Commencement: Sch. 1 para. 4 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-6a0f8a06f69697d9d2ce63b7839e2e5c]: Commencement: Sch. 1 para. 4 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-e7e39ca5657a3135e2d32e1346b3a759]: Commencement: Sch. 1 para. 5 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-e7e39ca5657a3135e2d32e1346b3a759]: Commencement: Sch. 1 para. 5 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
 [^f00029]: Footnote: [S.I. 2010/737](https://www.legislation.gov.uk/uksi/2010/737), amended by [S.I. 2014/1614](https://www.legislation.gov.uk/uksi/2014/1614); there are other amendments not relevant to these Regulations.
 
-[^key-f422f5bde896ef64f47e3bbbebf0d11a]: Commencement: Sch. 1 para. 6 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-f422f5bde896ef64f47e3bbbebf0d11a]: Commencement: Sch. 1 para. 6 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-7d73b960a1c9236320467e8003cb33f2]: Commencement: Sch. 1 para. 7 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-7d73b960a1c9236320467e8003cb33f2]: Commencement: Sch. 1 para. 7 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
 [^f00030]: Footnote: [S.I. 2013/1785](https://www.legislation.gov.uk/uksi/2013/1785), to which there are amendments not relevant to these Regulations.
 
-[^key-ef5e78bdc62cf0171394e1cba81ecd8a]: Commencement: Sch. 1 para. 8 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-ef5e78bdc62cf0171394e1cba81ecd8a]: Commencement: Sch. 1 para. 8 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-c8a0aa535ed38b44a36d9c81f15f9a5e]: Commencement: Sch. 1 para. 9 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-c8a0aa535ed38b44a36d9c81f15f9a5e]: Commencement: Sch. 1 para. 9 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-6974f962d03b30c42e842fe5abfa4c21]: Commencement: Sch. 1 para. 10 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-6974f962d03b30c42e842fe5abfa4c21]: Commencement: Sch. 1 para. 10 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
 [^f00031]: Footnote: [S.I. 2014/1613](https://www.legislation.gov.uk/uksi/2014/1613), to which there are amendments not relevant to these Regulations.
 
-[^key-410f20c6f73315416ed62fe5875c86ab]: Commencement: Sch. 1 para. 11 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-410f20c6f73315416ed62fe5875c86ab]: Commencement: Sch. 1 para. 11 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-633c4c1839a48a2446637608931bc5a4]: Commencement: Sch. 1 para. 12 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-633c4c1839a48a2446637608931bc5a4]: Commencement: Sch. 1 para. 12 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
 [^f00032]: Footnote: [S.I. 2014/1615](https://www.legislation.gov.uk/uksi/2014/1615), to which there are amendments not relevant to these Regulations.
 
-[^key-10295c9d0e962528271eb9e350819e17]: Commencement: Sch. 1 para. 13 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-10295c9d0e962528271eb9e350819e17]: Commencement: Sch. 1 para. 13 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-6111a34bc05beb164aeacbe97c0fb4d4]: Commencement: Sch. 1 para. 14 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-6111a34bc05beb164aeacbe97c0fb4d4]: Commencement: Sch. 1 para. 14 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
 [^f00033]: Footnote: [S.I. 2018/58](https://www.legislation.gov.uk/uksi/2018/58), to which there are amendments not relevant to these Regulations.
 
-[^key-10269ab7513f09caf0e9a8538162dd62]: Commencement: Sch. 1 para. 15 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-10269ab7513f09caf0e9a8538162dd62]: Commencement: Sch. 1 para. 15 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-7a9480077870089a3fec55946e27815d]: Commencement: Sch. 1 para. 16 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-7a9480077870089a3fec55946e27815d]: Commencement: Sch. 1 para. 16 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
 [^f00034]: Footnote: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104), amended by [S.I. 2022/1169](https://www.legislation.gov.uk/uksi/2022/1169), [2022/1218](https://www.legislation.gov.uk/uksi/2022/1218), [2022/1219](https://www.legislation.gov.uk/uksi/2022/1219), [2022/1269](https://www.legislation.gov.uk/uksi/2022/1269), [2023/246](https://www.legislation.gov.uk/uksi/2023/246), [2023/568](https://www.legislation.gov.uk/uksi/2023/568), [2023/1216](https://www.legislation.gov.uk/uksi/2023/1216) and [2025/1103](https://www.legislation.gov.uk/uksi/2025/1103); there are other amendments which are not relevant to these Regulations.
 
-[^key-abfba64d19aadcdbe233df81379ade08]: Commencement: Sch. 1 para. 17 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-abfba64d19aadcdbe233df81379ade08]: Commencement: Sch. 1 para. 17 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
 [^f00035]: Footnote: [S.I. 2020/501](https://www.legislation.gov.uk/uksi/2020/501), amended by [S.I. 2022/1219](https://www.legislation.gov.uk/uksi/2022/1219) and [2023/787](https://www.legislation.gov.uk/uksi/2023/787).
 
@@ -1068,24 +1068,24 @@ An Explanatory Memorandum and a de minimis assessment have been prepared and are
 
 [^f00040]: Footnote: [S.I. 2022/1342](https://www.legislation.gov.uk/uksi/2022/1342).
 
-[^key-d7022b4fa806a39b4bc154a262ea1223]: Commencement: Sch. 1 para. 18 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-d7022b4fa806a39b4bc154a262ea1223]: Commencement: Sch. 1 para. 18 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-0708a5eb887093d7e83a71ff2b102183]: Commencement: Sch. 1 para. 19 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-0708a5eb887093d7e83a71ff2b102183]: Commencement: Sch. 1 para. 19 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-6b2a20695ee7979072187ffff09ffc71]: Commencement: Sch. 1 para. 20 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-6b2a20695ee7979072187ffff09ffc71]: Commencement: Sch. 1 para. 20 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-aa9cb810970c51fd70c28118b85b4e49]: Commencement: Sch. 1 para. 21 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-aa9cb810970c51fd70c28118b85b4e49]: Commencement: Sch. 1 para. 21 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-93f47b4485ff0e1b6020fdde46836c8d]: Commencement: Sch. 1 para. 22 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-93f47b4485ff0e1b6020fdde46836c8d]: Commencement: Sch. 1 para. 22 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
 [^f00041]: Footnote: [S.I. 2023/35](https://www.legislation.gov.uk/uksi/2023/35). These Regulations amend the Order in reliance on section 105(1) of the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
 
-[^key-19423ea7800ede68931d069d0a3c71d1]: Commencement: Sch. 1 para. 23 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-19423ea7800ede68931d069d0a3c71d1]: Commencement: Sch. 1 para. 23 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
 [^f00042]: Footnote: [S.I. 2025/1195](https://www.legislation.gov.uk/uksi/2025/1195).
 
-[^key-6a589ff061504c068944ade73243fc43]: Commencement: Sch. 2 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-6a589ff061504c068944ade73243fc43]: Commencement: Sch. 2 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-1607d187850e5e68483775dfcd0ea023]: Commencement: Sch. 3 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-1607d187850e5e68483775dfcd0ea023]: Commencement: Sch. 3 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
 
-[^key-03bd3c3fb6549cf080ba6c6eb74e7f99]: Commencement: Sch. 4 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)
+[^c-03bd3c3fb6549cf080ba6c6eb74e7f99]: Commencement: Sch. 4 in force at 12.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1)

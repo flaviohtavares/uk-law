@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21.[^key-469a05fdf8c212379a21b7f178b32b58]
+## 21.[^c-469a05fdf8c212379a21b7f178b32b58]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 112 (business property: exclusion of value of excepted assets), in su
 
 ## Annotations
 
-[^key-469a05fdf8c212379a21b7f178b32b58]: Commencement: Reg. 21 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-469a05fdf8c212379a21b7f178b32b58]: Commencement: Reg. 21 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

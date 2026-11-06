@@ -73,19 +73,19 @@ As required by paragraph 4(a) of Schedule 2 to the European Union (Withdrawal) A
 
 ## PART 1 — Introductory
 
-### 1. Title, commencement and application[^key-44529043a97226af3e7260022f34e795]
+### 1. Title, commencement and application[^c-44529043a97226af3e7260022f34e795]
 
 (1) The title of these Regulations is the Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019.
 
 (2) Subject to paragraph (3), these Regulations come into force on exit day.
 
-(3) Regulations 1,[^key-173e57cb1dd9b5e0071dd9df4b6a1fac] 3, 4 [^key-1e901cb77740ce90aacb49bd97a57a34]... and 9 come into force immediately before exit day.
+(3) Regulations 1,[^c-173e57cb1dd9b5e0071dd9df4b6a1fac] 3, 4 [^c-1e901cb77740ce90aacb49bd97a57a34]... and 9 come into force immediately before exit day.
 
 (4) These Regulations apply in relation to Wales.
 
 ## PART 2 — Amendments to primary legislation concerning the Welsh Language
 
-### 2. Welsh Language (Wales) Measure 2011[^key-021475743ccf6e1241ee4ebc41be3411]
+### 2. Welsh Language (Wales) Measure 2011[^c-021475743ccf6e1241ee4ebc41be3411]
 
 (1) The Welsh Language (Wales) Measure 2011 [^c23890481] is amended as follows.
 
@@ -107,17 +107,17 @@ As required by paragraph 4(a) of Schedule 2 to the European Union (Withdrawal) A
 
 ## PART 3 — Amendments to secondary legislation concerning food
 
-### 3. The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019[^key-07c1d1fff531acb097040fb1aa1daf05]
+### 3. The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019[^c-07c1d1fff531acb097040fb1aa1daf05]
 
 (1) The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 [^c23890491] are amended as follows.
 
 (2) In regulation 2(7), for “the relevant authorities” substitute “ the appropriate authorities ”.
 
-(3)[^key-98eaf6cd02c720dda0213bb73cd5a884] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-98eaf6cd02c720dda0213bb73cd5a884] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Amendments to secondary legislation concerning the environment
 
-### 4. The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019[^key-3ae94042f5d30ea57ee15054a49eba66]
+### 4. The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019[^c-3ae94042f5d30ea57ee15054a49eba66]
 
 In regulation 5(3)(a) of the Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 [^c23890501], for “Council Directive [98/83/EC](https://www.legislation.gov.uk/eudr/1998/83) on the quality of water intended for human consumption” substitute “ Council Directive [98/83/EC](https://www.legislation.gov.uk/eudr/1998/83) on the quality of water intended for human consumption, as last amended by Commission Directive (EU) 2015/1787 ”.
 
@@ -129,13 +129,13 @@ In regulation 5(3)(a) of the Flood and Water (Amendments) (England and Wales) (E
 
 ## PART 6 — Amendments to secondary legislation concerning local government finance
 
-### 6. The Central Rating List (Wales) Regulations 2005[^key-9345c32002a9cc8edd92a7f0db67484f]
+### 6. The Central Rating List (Wales) Regulations 2005[^c-9345c32002a9cc8edd92a7f0db67484f]
 
 In regulation 7(3) of the Central Rating List (Wales) Regulations 2005 [^c23890521], omit the definition of “EEA State”.
 
 ## PART 7 — Amendments to secondary legislation concerning the supervision of management and use of controlled drugs and the disclosure of educational records and consequential amendments to secondary legislation concerning data protection
 
-### 7. The Controlled Drugs (Supervision of Management and Use) (Wales) Regulations 2008[^key-898230516c56e23657acb26cd40e48ce]
+### 7. The Controlled Drugs (Supervision of Management and Use) (Wales) Regulations 2008[^c-898230516c56e23657acb26cd40e48ce]
 
 (1) The Controlled Drugs (Supervision of Management and Use) (Wales) Regulations 2008 [^c23890531] are amended as follows.
 
@@ -154,7 +154,7 @@ In regulation 7(3) of the Central Rating List (Wales) Regulations 2005 [^c238905
 
 (5) In regulation 29(3) (occurrence reports), for “GDPR” substitute “ UK GDPR ”.
 
-### 8. The Pupil Information (Wales) Regulations 2011[^key-034cec0c4355d83f4abc5f2a04b6e689]
+### 8. The Pupil Information (Wales) Regulations 2011[^c-034cec0c4355d83f4abc5f2a04b6e689]
 
 (1) Regulation 5 of the Pupil Information (Wales) Regulations 2011 [^c23890541] is amended as follows.
 
@@ -164,13 +164,13 @@ In regulation 7(3) of the Central Rating List (Wales) Regulations 2005 [^c238905
 
 > (6) In this regulation, “**the UK GDPR**” (“***GDPR y DU***”) has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act).
 
-### 9. The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019[^key-3f875b44a4f031ade89506c8f807721d]
+### 9. The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019[^c-3f875b44a4f031ade89506c8f807721d]
 
 In Schedule 3 to the Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 [^c23890551], omit paragraphs 71 to 75 and paragraphs 90 and 91.
 
 ## PART 8 — Amendments to primary legislation concerning the taxation of land transactions
 
-### 10. Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017[^key-d67aaf249eb82c3b97903a7186cdcd07]
+### 10. Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017[^c-d67aaf249eb82c3b97903a7186cdcd07]
 
 In section 36(12) of the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 [^c23890561], omit the definition of “collective investment scheme”.
 
@@ -220,44 +220,44 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23890471]: Marginal citation: OJ No. L 31, 1.2.2002, p. 1, to which there are amendments not relevant to these Regulations.
 
-[^key-44529043a97226af3e7260022f34e795]: Commencement: Reg. 1 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3) (as amended by [S.I. 2020/1556](https://www.legislation.gov.uk/wsi/2020/1556), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/b), [14](https://www.legislation.gov.uk/wsi/2020/1556/regulation/14))
+[^c-44529043a97226af3e7260022f34e795]: Commencement: Reg. 1 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3) (as amended by [S.I. 2020/1556](https://www.legislation.gov.uk/wsi/2020/1556), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/b), [14](https://www.legislation.gov.uk/wsi/2020/1556/regulation/14))
 
-[^key-173e57cb1dd9b5e0071dd9df4b6a1fac]: Textual amendment: Word in reg. 1(3) inserted (17.12.2020) by [The Direct Payments to Farmers and Rural Affairs (Miscellaneous Amendments etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1556)](https://www.legislation.gov.uk/wsi/2020/1556), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/b), [14](https://www.legislation.gov.uk/wsi/2020/1556/regulation/14)
+[^c-173e57cb1dd9b5e0071dd9df4b6a1fac]: Textual amendment: Word in reg. 1(3) inserted (17.12.2020) by [The Direct Payments to Farmers and Rural Affairs (Miscellaneous Amendments etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1556)](https://www.legislation.gov.uk/wsi/2020/1556), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/b), [14](https://www.legislation.gov.uk/wsi/2020/1556/regulation/14)
 
-[^key-1e901cb77740ce90aacb49bd97a57a34]: Textual amendment: Word in reg. 1(3) omitted (30.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1573)](https://www.legislation.gov.uk/wsi/2020/1573), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2020/1573/regulation/1/2/a), [3(2)](https://www.legislation.gov.uk/wsi/2020/1573/regulation/3/2)
+[^c-1e901cb77740ce90aacb49bd97a57a34]: Textual amendment: Word in reg. 1(3) omitted (30.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1573)](https://www.legislation.gov.uk/wsi/2020/1573), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2020/1573/regulation/1/2/a), [3(2)](https://www.legislation.gov.uk/wsi/2020/1573/regulation/3/2)
 
-[^key-021475743ccf6e1241ee4ebc41be3411]: Commencement: Reg. 2 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-021475743ccf6e1241ee4ebc41be3411]: Commencement: Reg. 2 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23890481]: Marginal citation: 2011 nawm 1.
 
-[^key-07c1d1fff531acb097040fb1aa1daf05]: Commencement: Reg. 3 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-07c1d1fff531acb097040fb1aa1daf05]: Commencement: Reg. 3 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23890491]: Marginal citation: [S.I. 2019/732](https://www.legislation.gov.uk/uksi/2019/732) (W. 137).
 
-[^key-98eaf6cd02c720dda0213bb73cd5a884]: Textual amendment: Reg. 3(3) omitted (10.12.2020) by virtue of [The Food and Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1308)](https://www.legislation.gov.uk/wsi/2020/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1308/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2020/1308/regulation/4)
+[^c-98eaf6cd02c720dda0213bb73cd5a884]: Textual amendment: Reg. 3(3) omitted (10.12.2020) by virtue of [The Food and Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1308)](https://www.legislation.gov.uk/wsi/2020/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1308/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2020/1308/regulation/4)
 
-[^key-3ae94042f5d30ea57ee15054a49eba66]: Commencement: Reg. 4 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-3ae94042f5d30ea57ee15054a49eba66]: Commencement: Reg. 4 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23890501]: Marginal citation: [S.I. 2019/460](https://www.legislation.gov.uk/uksi/2019/460) (W. 110).
 
 [^M_F_01289383-3f03-4766-b91a-95302ea1cb82]: Textual amendment: Reg. 5 omitted (30.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1573)](https://www.legislation.gov.uk/uksi/2020/1573), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1573/regulation/1/2/a), [3(3)](https://www.legislation.gov.uk/uksi/2020/1573/regulation/3/3)
 
-[^key-9345c32002a9cc8edd92a7f0db67484f]: Commencement: Reg. 6 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-9345c32002a9cc8edd92a7f0db67484f]: Commencement: Reg. 6 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23890521]: Marginal citation: [S.I. 2005/422](https://www.legislation.gov.uk/uksi/2005/422) (W. 40), amended by [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050), [S.I](https://www.legislation.gov.uk/uksi/2005/3050/section/I). 2016/645 and [S.I. 2019/436](https://www.legislation.gov.uk/uksi/2019/436) (W. 104); there are other amending instruments but none is relevant.
 
-[^key-898230516c56e23657acb26cd40e48ce]: Commencement: Reg. 7 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-898230516c56e23657acb26cd40e48ce]: Commencement: Reg. 7 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23890531]: Marginal citation: [S.I. 2008/3239](https://www.legislation.gov.uk/uksi/2008/3239) (W. 286), amended by section 211(1)(b) of, and paragraph 334 of Schedule 19 to, the [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12). Relevant amendments are made by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419) but these do not come into force until exit day. There are other amending instruments but none is relevant.
 
-[^key-034cec0c4355d83f4abc5f2a04b6e689]: Commencement: Reg. 8 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-034cec0c4355d83f4abc5f2a04b6e689]: Commencement: Reg. 8 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23890541]: Marginal citation: [S.I. 2011/1942](https://www.legislation.gov.uk/uksi/2011/1942) (W. 209), amended by section 211(1)(b) of, and paragraphs 365(1), 365(2)(a) and 365(3)(a) of Schedule 19 to, the Data Protection Act 2018. Relevant amendments are made by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419) but these do not come into force until exit day. There are other amending instruments but none is relevant.
 
-[^key-3f875b44a4f031ade89506c8f807721d]: Commencement: Reg. 9 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-3f875b44a4f031ade89506c8f807721d]: Commencement: Reg. 9 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23890551]: Marginal citation: [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419), to which there are amendments not relevant to these Regulations.
 
-[^key-d67aaf249eb82c3b97903a7186cdcd07]: Commencement: Reg. 10 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d67aaf249eb82c3b97903a7186cdcd07]: Commencement: Reg. 10 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23890561]: Marginal citation: 2017 anaw 1.

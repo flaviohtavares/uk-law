@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Assistance for areas with high distribution costs[^key-aba08e0782917f9d21e29c2f24195958][^key-e3fbf9874d0e06ac672993772902d700]
+## 184. Assistance for areas with high distribution costs[^c-aba08e0782917f9d21e29c2f24195958][^c-e3fbf9874d0e06ac672993772902d700]
 
 *Extent: E+W+S*
 
@@ -65,7 +65,7 @@ to supply him, in a specified form and within a specified time, with information
 (13) In this section—
 
 - “**authorised distributor**” and “**authorised supplier**” have the same meanings as in Part 1 of the 1989 Act;
-- “**authorised transmitter**” means a person authorised by a licence under section 6(1)(da) (an electricity system operator licence) of that Act;[^key-a05134aa415601085fac16b918af2cbf]
+- “**authorised transmitter**” means a person authorised by a licence under section 6(1)(da) (an electricity system operator licence) of that Act;[^c-a05134aa415601085fac16b918af2cbf]
 - “**distributing**”, “**distribution**” and “**distribution system**” have the same meanings as in Part 1 of that Act;
 - “**licence**” means a licence for the purposes of section 4 of that Act;
 - “**licence holder**” has the same meaning as in Part 1 of that Act;
@@ -74,8 +74,8 @@ to supply him, in a specified form and within a specified time, with information
 
 ## Annotations
 
-[^key-aba08e0782917f9d21e29c2f24195958]: Commencement: S. 184 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-aba08e0782917f9d21e29c2f24195958]: Commencement: S. 184 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-e3fbf9874d0e06ac672993772902d700]: Modification: Ss. 171-196: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
+[^c-e3fbf9874d0e06ac672993772902d700]: Modification: Ss. 171-196: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
 
-[^key-a05134aa415601085fac16b918af2cbf]: Textual amendment: Words in s. 184(13) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2024/706/regulation/6); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-a05134aa415601085fac16b918af2cbf]: Textual amendment: Words in s. 184(13) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2024/706/regulation/6); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Amendment of section 164 (English text)[^key-1e783e4580531fd2f72bc51ce25a5d37]
+## 142. Amendment of section 164 (English text)[^c-1e783e4580531fd2f72bc51ce25a5d37]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e783e4580531fd2f72bc51ce25a5d37]: Commencement: Reg. 142 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-1e783e4580531fd2f72bc51ce25a5d37]: Commencement: Reg. 142 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

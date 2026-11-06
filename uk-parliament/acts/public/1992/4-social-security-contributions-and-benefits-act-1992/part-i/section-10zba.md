@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10ZBA. Liability of third party controller of sporting testimonial[^key-82a4261175e8542512d9cef5fce48a37]
+## 10ZBA. Liability of third party controller of sporting testimonial[^c-82a4261175e8542512d9cef5fce48a37]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82a4261175e8542512d9cef5fce48a37]: Textual amendment: [S. 10ZBA](https://www.legislation.gov.uk/ukpga/1992/4/section/10ZBA) inserted (6.4.2020 subject to transitional provisions in reg. 3 of the commencing S.I.) by [National Insurance Contributions (Termination Awards and Sporting Testimonials) Act 2019 (c. 23)](https://www.legislation.gov.uk/ukpga/2019/23), [ss. 3(4)](https://www.legislation.gov.uk/ukpga/2019/23/section/3/4), [5(3)](https://www.legislation.gov.uk/ukpga/2019/23/section/5/3); [S.I. 2020/285](https://www.legislation.gov.uk/uksi/2020/285), [reg. 3](https://www.legislation.gov.uk/uksi/2020/285/regulation/3)
+[^c-82a4261175e8542512d9cef5fce48a37]: Textual amendment: [S. 10ZBA](https://www.legislation.gov.uk/ukpga/1992/4/section/10ZBA) inserted (6.4.2020 subject to transitional provisions in reg. 3 of the commencing S.I.) by [National Insurance Contributions (Termination Awards and Sporting Testimonials) Act 2019 (c. 23)](https://www.legislation.gov.uk/ukpga/2019/23), [ss. 3(4)](https://www.legislation.gov.uk/ukpga/2019/23/section/3/4), [5(3)](https://www.legislation.gov.uk/ukpga/2019/23/section/5/3); [S.I. 2020/285](https://www.legislation.gov.uk/uksi/2020/285), [reg. 3](https://www.legislation.gov.uk/uksi/2020/285/regulation/3)

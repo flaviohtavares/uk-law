@@ -89,7 +89,7 @@ In this Act, except as otherwise expressly provided or unless the context otherw
 
 “**Secretary of State**” means the Secretary of State for the Environment;
 
-“**statutory undertakers**” means a universal service provider within the meaning of Part 3 of the Postal Services Act 2011[^key-e1e331935a955d47846fab892c12bf7b], a water authority and the persons authorised by any enactment to carry on any undertaking for the supply of electricity, gas, hydraulic power or water;
+“**statutory undertakers**” means a universal service provider within the meaning of Part 3 of the Postal Services Act 2011[^c-e1e331935a955d47846fab892c12bf7b], a water authority and the persons authorised by any enactment to carry on any undertaking for the supply of electricity, gas, hydraulic power or water;
 
 “**street**” includes any highway and any bridge carrying a highway, and any road, lane, mews, footpath, square, court, alley or passage, whether a thoroughfare or not, and also includes any part of a street;
 
@@ -217,11 +217,11 @@ Provided that no tree planted in pursuance of the said subsection (4) shall be c
 
 - (a) Nothing in this section shall affect the rights of statutory undertakers with respect to apparatus (including the placing of apparatus) in any such grass verge, garden or space as is referred to in subsection (2) of this section.
 - (b) Except as may otherwise be agreed with a statutory undertaker, a highway authority or (in a case to which section 82 of the Act of 1959 applies by virtue of section 29 (Application to walkways of certain enactments) of the [^c19237311]Greater London Council (General Powers) Act 1969), a borough council shall so exercise the powers conferred by the said section 82 as to avoid, so far as is reasonably practicable, obstructing or rendering less convenient the access to any apparatus.
-- (c) In this subsection “**apparatus**” means any apparatus belonging to statutory undertakers or for the maintenance of which they are responsible (including any structure for the lodging therein of apparatus) and includes any apparatus belonging to the British Railways Board Transport for London or any of its subsidiaries (within the meaning of the Greater London Authority Act 1999)[^key-a21f5e79d436d83f013f2ff5b1d368cc] or for the maintenance of which that Board or (as the case may be) Transport for London or any such subsidiary[^key-4c960ce1e9a6016e4015af4a25d59c1f][^c23437801] is responsible.
+- (c) In this subsection “**apparatus**” means any apparatus belonging to statutory undertakers or for the maintenance of which they are responsible (including any structure for the lodging therein of apparatus) and includes any apparatus belonging to the British Railways Board Transport for London or any of its subsidiaries (within the meaning of the Greater London Authority Act 1999)[^c-a21f5e79d436d83f013f2ff5b1d368cc] or for the maintenance of which that Board or (as the case may be) Transport for London or any such subsidiary[^c-4c960ce1e9a6016e4015af4a25d59c1f][^c23437801] is responsible.
 
 #### 15. As to parking on footways, grass verges, etc.[^c19237431]
 
-(1)[^key-cd85c40bb52173a331064c56ec793d4e][^c23436371] Save as provided in subsections (3), (4), (7) and (11), any person who causes or permits any vehicle to be parked in Greater London with one or more wheels on or over any part of a road[^key-e0f63763e10aa360b6923bf30fe99f3b] other than a carriageway , or on or over a footpath,[^key-aa6dfc3a742d480020a1b1ee4d945366] shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 1 on the standard scale.
+(1)[^c-cd85c40bb52173a331064c56ec793d4e][^c23436371] Save as provided in subsections (3), (4), (7) and (11), any person who causes or permits any vehicle to be parked in Greater London with one or more wheels on or over any part of a road[^c-e0f63763e10aa360b6923bf30fe99f3b] other than a carriageway , or on or over a footpath,[^c-aa6dfc3a742d480020a1b1ee4d945366] shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 1 on the standard scale.
 
 (2)
 
@@ -240,14 +240,14 @@ Provided that no tree planted in pursuance of the said subsection (4) shall be c
   - (i) the loading or unloading of the vehicle could not have been satisfactorily performed if it had not been so parked; and
   - (ii) the vehicle was not left unattended at any time while it was so parked.
 
-(4) A highway authority may by resolution, or in the case of the Secretary of State by such notice as appears to him to be appropriate, authorise, from a date specified in the resolution or notice, the parking of vehicles—[^key-4518bb6e6af2e04c2e1ede40bda3cbe3]
+(4) A highway authority may by resolution, or in the case of the Secretary of State by such notice as appears to him to be appropriate, authorise, from a date specified in the resolution or notice, the parking of vehicles—[^c-4518bb6e6af2e04c2e1ede40bda3cbe3]
 
-- (a) on, or on or over a road or part of a road[^key-5ef052840525c34bf58068196ef79a23] which is a highway other than a carriageway; or[^key-7c2178bb954127d10a2a342a0b8aaf41]
+- (a) on, or on or over a road or part of a road[^c-5ef052840525c34bf58068196ef79a23] which is a highway other than a carriageway; or[^c-7c2178bb954127d10a2a342a0b8aaf41]
 - (b) on or over a footpath or any part of a footpath;
 
-and notwithstanding the provisions of this section or of any other enactment or any rule of law, it shall be lawful from the specified date for any person to park a vehicle on the road or footpath[^key-506392fa19c4e38516a84b1bd69d3962], or on the part thereof, as the case may be, to which the said resolution or notice relates and is for the time being in force.
+and notwithstanding the provisions of this section or of any other enactment or any rule of law, it shall be lawful from the specified date for any person to park a vehicle on the road or footpath[^c-506392fa19c4e38516a84b1bd69d3962], or on the part thereof, as the case may be, to which the said resolution or notice relates and is for the time being in force.
 
-(5) A highway authority shall, before the date specified in a resolution passed or notice issued in accordance with the last foregoing subsection, take such steps as are necessary to secure the placing on or near the road or footpath[^key-3f82f8999f4c912c240ffb7fe89f7b8b], or the part thereof, to which the resolution or notice relates of such traffic signs in such position as they consider requisite.
+(5) A highway authority shall, before the date specified in a resolution passed or notice issued in accordance with the last foregoing subsection, take such steps as are necessary to secure the placing on or near the road or footpath[^c-3f82f8999f4c912c240ffb7fe89f7b8b], or the part thereof, to which the resolution or notice relates of such traffic signs in such position as they consider requisite.
 
 (6) A highway authority may pass a resolution or issue a notice, as the case may be, for the purposes of subsection (4) of this section and may take the steps referred to in the last foregoing subsection before the appointed day:
 
@@ -256,7 +256,7 @@ Provided that the date specified in such resolution or notice shall not be earli
 (7)
 
 - (a) Nothing in this section shall make it unlawful under subsection (1) of this section to park a vehicle of any of the following descriptions, that is to say:—
-  - (i) vehicles used for fire brigade purposes or for purposes relating to the functions of Ministry of Defence fire-fighters (as defined in section 16 of the Armed Forces Act 2016)[^key-1d508a7826850be7c86814aec23ebbe4];
+  - (i) vehicles used for fire brigade purposes or for purposes relating to the functions of Ministry of Defence fire-fighters (as defined in section 16 of the Armed Forces Act 2016)[^c-1d508a7826850be7c86814aec23ebbe4];
   - (ii) vehicles used for police purposes;
   - (iii) vehicles used for ambulance purposes;
   - (iv) street cleansing purposes;
@@ -268,7 +268,7 @@ Provided that the date specified in such resolution or notice shall not be earli
   - (x) any vehicle not falling within sub-paragraph (viii) or (ix) of this paragraph used by statutory undertakers in pursuance of their statutory powers or duties provided that is reasonably necessary for the vehicle to be so parked;
   - (xi) vehicles of any class for the time being specified by resolution of the Council for the purposes of this subsection;
   - (xii) any vehicle, specified by the highway authority from time to time for the purposes of this subsection, which is parked at such place and at such time as may be authorised by that highway authority.
-- (b) In sub-paragraph (ix) of the foregoing paragraph “**apparatus**” means any apparatus belonging to statutory undertakers or for the maintenance of which they are responsible (including any structure for the lodging therein of apparatus), and includes any apparatus belonging to the British Railways Board Transport for London or any of its subsidiaries (within the meaning of the Greater London Authority Act 1999)[^key-027b1e0071fad9f8c42232c54151057c] or for the maintenance of which that Board or (as the case may be)[^c19237491] Transport for London or any such subsidiary[^key-795f06213bfaf19710ac7ba10cfe8324] is responsible.
+- (b) In sub-paragraph (ix) of the foregoing paragraph “**apparatus**” means any apparatus belonging to statutory undertakers or for the maintenance of which they are responsible (including any structure for the lodging therein of apparatus), and includes any apparatus belonging to the British Railways Board Transport for London or any of its subsidiaries (within the meaning of the Greater London Authority Act 1999)[^c-027b1e0071fad9f8c42232c54151057c] or for the maintenance of which that Board or (as the case may be)[^c19237491] Transport for London or any such subsidiary[^c-795f06213bfaf19710ac7ba10cfe8324] is responsible.
 - (c)[^c23436471] The highway authority may charge such fees for the specification of vehicles under sub-paragraph (xii) of the foregoing paragraph as they may determine and as may be sufficient in the aggregate to cover in whole or in part the reasonable administrative or other costs in connection with their functions under that sub-paragraph.
 
 (8) In this section “**the appointed day**” means such day (being a day no earlier than 1st January, 1975) as may be fixed by resolution of the Council, after consultation with the Association and the Secretary of State, subject to and after complying with the next following subsection.
@@ -287,17 +287,17 @@ and the day so fixed shall not be earlier than the expiration of one month from 
 
 shall be evidence of the publication of the notice and of the date of the publication.
 
-(11) This section shall not apply to a road maintainable by the British Railways Board or by Transport for London in relation to which Transport for London is not the highway authority[^key-9a8bd786d545b23815892e51c9aad799].
+(11) This section shall not apply to a road maintainable by the British Railways Board or by Transport for London in relation to which Transport for London is not the highway authority[^c-9a8bd786d545b23815892e51c9aad799].
 
 (12) In this section—
 
 - “**the Association**” means the association of borough councils known, at the date of the passing of this Act, as the London Boroughs Association or any association for the time being successor thereto of the nature referred to in subsection (2) of section 7 of the [^c19237501]London Government Act 1963 of which all borough Councils are members or, in the absence of any such association as aforesaid, a majority of the borough councils;
-- “**carriageway**” means a way of constituting or comprised in a road[^key-3e1c75188243249bfc9df75e3d478fd3], being a way (other than a cycle track) over which the public have a right of way for the passage of vehicles;
-- “footpath” means a highway over which the public have a right of way on foot only, not being a footway;[^key-92327493c5a6cab9b84cb98284128ed4]
-- “**footway**” means a way comprised in a road[^key-e7160dea8fbbddfbcfb955c88fad03f0] which also comprises a carriage way, being a way over which the public have a right of way on foot only;
+- “**carriageway**” means a way of constituting or comprised in a road[^c-3e1c75188243249bfc9df75e3d478fd3], being a way (other than a cycle track) over which the public have a right of way for the passage of vehicles;
+- “footpath” means a highway over which the public have a right of way on foot only, not being a footway;[^c-92327493c5a6cab9b84cb98284128ed4]
+- “**footway**” means a way comprised in a road[^c-e7160dea8fbbddfbcfb955c88fad03f0] which also comprises a carriage way, being a way over which the public have a right of way on foot only;
 - “**goods**” includes goods or burden of any description;
-- “**highway authority**” means the Secretary of State in respect of all trunk roads, Transport for London in respect of all[^key-51e1d75fc48b4c8d090f18759f63c97f] GLA roads and a borough council or the Common Council, as the case may be, in respect of all streets in their area, whether or not maintainable at the public expense, which are not for the time being trunk roads or[^key-4984ecab94070300dafd13e7e7c11d31] GLA roads;
-- [^key-69cdc5c88186bbc98583c7ea086b216a]...
+- “**highway authority**” means the Secretary of State in respect of all trunk roads, Transport for London in respect of all[^c-51e1d75fc48b4c8d090f18759f63c97f] GLA roads and a borough council or the Common Council, as the case may be, in respect of all streets in their area, whether or not maintainable at the public expense, which are not for the time being trunk roads or[^c-4984ecab94070300dafd13e7e7c11d31] GLA roads;
+- [^c-69cdc5c88186bbc98583c7ea086b216a]...
   - (a)
   - (b)
   - (c)
@@ -407,7 +407,7 @@ Provided that in a case where it appears to the borough council that an excise l
   (b) any person by whom it was put in the place aforesaid;
 
 - “**the prescribed period**” means the period prescribed by the Secretary of State for the purposes of section 21(1)(c)(ii) of the [^c19237641]Civic Amenities Act 1967;
-- “**vehicle**” means a mechanically propelled vehicle other than a public service vehicle owned or operated by Transport for London, a subsidiary (within the meaning of the Greater London Authority Act 1999) of Transport for London or any other person who provides a service pursuant to an agreement under section 156, or a transport subsidiary’s agreement within the meaning of section 169, of the Greater London Authority Act 1999[^key-0d12b0686b3c7bba6c87f599d969f675] or by[^c23437831] London Country Bus Service Limited or a vehicle designed or adapted for towing by, or to be attached to, a mechanically propelled vehicle and the expression “**public service vehicle**” shall be construed in accordance with sections 117 and 118 of the [^c19237651]Road Traffic Act 1960.
+- “**vehicle**” means a mechanically propelled vehicle other than a public service vehicle owned or operated by Transport for London, a subsidiary (within the meaning of the Greater London Authority Act 1999) of Transport for London or any other person who provides a service pursuant to an agreement under section 156, or a transport subsidiary’s agreement within the meaning of section 169, of the Greater London Authority Act 1999[^c-0d12b0686b3c7bba6c87f599d969f675] or by[^c23437831] London Country Bus Service Limited or a vehicle designed or adapted for towing by, or to be attached to, a mechanically propelled vehicle and the expression “**public service vehicle**” shall be construed in accordance with sections 117 and 118 of the [^c19237651]Road Traffic Act 1960.
 
 (8) The enactment specified in Part IV of Schedule 2 to this Act is hereby repealed.
 
@@ -494,7 +494,7 @@ Sections 13,14,16,21.
 
 [^c19237181]: Marginal citation: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-e1e331935a955d47846fab892c12bf7b]: Textual amendment: Words in [s. 2](https://www.legislation.gov.uk/ukla/1974/24/section/2) substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/11)
+[^c-e1e331935a955d47846fab892c12bf7b]: Textual amendment: Words in [s. 2](https://www.legislation.gov.uk/ukla/1974/24/section/2) substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/11)
 
 [^c19237191]: Editorial: The text of ss. 3–6 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991. These provisions have been amended by [S.I. 1986/2293](https://www.legislation.gov.uk/uksi/1986/2293). Parts of these provisions have been repealed by [S.I. 1986/2293](https://www.legislation.gov.uk/uksi/1986/2293)
 
@@ -522,21 +522,21 @@ Sections 13,14,16,21.
 
 [^c19237311]: Marginal citation: [1969 c. lii](https://www.legislation.gov.uk/ukla/1969/52).
 
-[^key-a21f5e79d436d83f013f2ff5b1d368cc]: Textual amendment: Words in s. 14(7)(c) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 31(2)(a)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/31/2/a)
+[^c-a21f5e79d436d83f013f2ff5b1d368cc]: Textual amendment: Words in s. 14(7)(c) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 31(2)(a)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/31/2/a)
 
-[^key-4c960ce1e9a6016e4015af4a25d59c1f]: Textual amendment: Words in s. 14(7)(c) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 31(2)(b)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/31/2/b)
+[^c-4c960ce1e9a6016e4015af4a25d59c1f]: Textual amendment: Words in s. 14(7)(c) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 31(2)(b)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/31/2/b)
 
 [^c23437801]: Textual amendment: Words in s. 14(7)(c) substituted by [London Regional Transport Act 1984 (c. 32)](https://www.legislation.gov.uk/ukpga/1984/32), [s. 71(3)(a)](https://www.legislation.gov.uk/ukpga/1984/32/section/71/3/a), [Sch. 6 para. 37(b)](https://www.legislation.gov.uk/ukpga/1984/32/schedule/6/paragraph/37/b)
 
 [^c19237431]: Modification: S. 15 excluded (temp. from 1.10.1991) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [ss. 76(3)(d)](https://www.legislation.gov.uk/ukpga/1991/40/section/76/3/d), [84(1)](https://www.legislation.gov.uk/ukpga/1991/40/section/84/1) (with [s. 79(1)](https://www.legislation.gov.uk/ukpga/1991/40/section/79/1)); [S.I. 1991/2054](https://www.legislation.gov.uk/uksi/1991/2054), [art. 3](https://www.legislation.gov.uk/uksi/1991/2054/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/2054/schedule)
 
-[^key-cd85c40bb52173a331064c56ec793d4e]: Modification: S. 15(1) extended by 1967 c. lii, s. 13A(1)-(3) (as inserted (18.12.2013) by [City of London (Various Powers) Act 2013 (c. vii)](https://www.legislation.gov.uk/ukla/2013/7), [s. 10(3)](https://www.legislation.gov.uk/ukla/2013/7/section/10/3))
+[^c-cd85c40bb52173a331064c56ec793d4e]: Modification: S. 15(1) extended by 1967 c. lii, s. 13A(1)-(3) (as inserted (18.12.2013) by [City of London (Various Powers) Act 2013 (c. vii)](https://www.legislation.gov.uk/ukla/2013/7), [s. 10(3)](https://www.legislation.gov.uk/ukla/2013/7/section/10/3))
 
 [^c23436371]: Textual amendment: S. 15(1) substituted (20.9.2000 except in relation to Barnet and 13.7.2004 otherwise) by virtue of [London Local Authorities Act 2000 (c. vii)](https://www.legislation.gov.uk/ukla/2000/7), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2000/7/section/1/1), [2](https://www.legislation.gov.uk/ukla/2000/7/section/2), [15(1)(2)](https://www.legislation.gov.uk/ukla/2000/7/section/15/1/2); [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [27(1)](https://www.legislation.gov.uk/ukla/2004/1/section/27/1)
 
-[^key-e0f63763e10aa360b6923bf30fe99f3b]: Textual amendment: Words in s. 15(1) substituted (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(2)(a)](https://www.legislation.gov.uk/ukla/2008/3/section/8/2/a)
+[^c-e0f63763e10aa360b6923bf30fe99f3b]: Textual amendment: Words in s. 15(1) substituted (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(2)(a)](https://www.legislation.gov.uk/ukla/2008/3/section/8/2/a)
 
-[^key-aa6dfc3a742d480020a1b1ee4d945366]: Textual amendment: Words in s. 15(1) inserted (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(2)(b)](https://www.legislation.gov.uk/ukla/2008/3/section/8/2/b)
+[^c-aa6dfc3a742d480020a1b1ee4d945366]: Textual amendment: Words in s. 15(1) inserted (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(2)(b)](https://www.legislation.gov.uk/ukla/2008/3/section/8/2/b)
 
 [^c19237451]: Textual amendment: Words substituted by [Road Traffic Regulation Act 1984 (c. 27, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1984/27), [s. 146](https://www.legislation.gov.uk/ukpga/1984/27/section/146), [Sch. 13 para. 32(a)](https://www.legislation.gov.uk/ukpga/1984/27/schedule/13/paragraph/32/a)
 
@@ -546,41 +546,41 @@ Sections 13,14,16,21.
 
 [^c23436391]: Textual amendment: Words in s. 15(3)(d) inserted (20.9.2000 except in relation to Barnet and 13.7.2004 otherwise) by virtue of [London Local Authorities Act 2000 (c. vii)](https://www.legislation.gov.uk/ukla/2000/7), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2000/7/section/1/1), [2](https://www.legislation.gov.uk/ukla/2000/7/section/2), [15(1)(3)](https://www.legislation.gov.uk/ukla/2000/7/section/15/1/3); [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [27(1)](https://www.legislation.gov.uk/ukla/2004/1/section/27/1)
 
-[^key-4518bb6e6af2e04c2e1ede40bda3cbe3]: Textual amendment: Word in s. 15(4) inserted (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(3)(a)](https://www.legislation.gov.uk/ukla/2008/3/section/8/3/a)
+[^c-4518bb6e6af2e04c2e1ede40bda3cbe3]: Textual amendment: Word in s. 15(4) inserted (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(3)(a)](https://www.legislation.gov.uk/ukla/2008/3/section/8/3/a)
 
-[^key-5ef052840525c34bf58068196ef79a23]: Textual amendment: Words in s. 15(4) substituted (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(3)(b)](https://www.legislation.gov.uk/ukla/2008/3/section/8/3/b)
+[^c-5ef052840525c34bf58068196ef79a23]: Textual amendment: Words in s. 15(4) substituted (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(3)(b)](https://www.legislation.gov.uk/ukla/2008/3/section/8/3/b)
 
-[^key-7c2178bb954127d10a2a342a0b8aaf41]: Textual amendment: Words in s. 15(4) inserted (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(3)(c)](https://www.legislation.gov.uk/ukla/2008/3/section/8/3/c)
+[^c-7c2178bb954127d10a2a342a0b8aaf41]: Textual amendment: Words in s. 15(4) inserted (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(3)(c)](https://www.legislation.gov.uk/ukla/2008/3/section/8/3/c)
 
-[^key-506392fa19c4e38516a84b1bd69d3962]: Textual amendment: Words in s. 15(4) substituted (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(3)(d)](https://www.legislation.gov.uk/ukla/2008/3/section/8/3/d)
+[^c-506392fa19c4e38516a84b1bd69d3962]: Textual amendment: Words in s. 15(4) substituted (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(3)(d)](https://www.legislation.gov.uk/ukla/2008/3/section/8/3/d)
 
-[^key-3f82f8999f4c912c240ffb7fe89f7b8b]: Textual amendment: Words in s. 15(5) substituted (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(4)](https://www.legislation.gov.uk/ukla/2008/3/section/8/4)
+[^c-3f82f8999f4c912c240ffb7fe89f7b8b]: Textual amendment: Words in s. 15(5) substituted (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(4)](https://www.legislation.gov.uk/ukla/2008/3/section/8/4)
 
-[^key-1d508a7826850be7c86814aec23ebbe4]: Textual amendment: Words in s. 15(7)(a)(i) inserted (12.7.2016) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 17(2)](https://www.legislation.gov.uk/ukpga/2016/21/section/17/2), [19(3)(b)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/3/b)
+[^c-1d508a7826850be7c86814aec23ebbe4]: Textual amendment: Words in s. 15(7)(a)(i) inserted (12.7.2016) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 17(2)](https://www.legislation.gov.uk/ukpga/2016/21/section/17/2), [19(3)(b)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/3/b)
 
-[^key-027b1e0071fad9f8c42232c54151057c]: Textual amendment: Words in s. 15(7)(b) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 31(3)(a)(i)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/31/3/a/i)
+[^c-027b1e0071fad9f8c42232c54151057c]: Textual amendment: Words in s. 15(7)(b) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 31(3)(a)(i)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/31/3/a/i)
 
 [^c19237491]: Textual amendment: Words substituted by [London Regional Transport Act 1984 (c. 32, SIF 126)](https://www.legislation.gov.uk/ukpga/1984/32), [s. 71(3)(a)](https://www.legislation.gov.uk/ukpga/1984/32/section/71/3/a), [Sch. 6 para. 37(b)](https://www.legislation.gov.uk/ukpga/1984/32/schedule/6/paragraph/37/b)
 
-[^key-795f06213bfaf19710ac7ba10cfe8324]: Textual amendment: Words in s. 15(7)(b) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 31(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/31/3/a/ii)
+[^c-795f06213bfaf19710ac7ba10cfe8324]: Textual amendment: Words in s. 15(7)(b) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 31(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/31/3/a/ii)
 
 [^c23436471]: Textual amendment: S. 15(7)(c) inserted (20.9.2000 except in relation to Barnet and 13.7.2004 otherwise) by virtue of [London Local Authorities Act 2000 (c. vii)](https://www.legislation.gov.uk/ukla/2000/7), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2000/7/section/1/1), [2](https://www.legislation.gov.uk/ukla/2000/7/section/2), [15(6)](https://www.legislation.gov.uk/ukla/2000/7/section/15/6); [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [27(1)](https://www.legislation.gov.uk/ukla/2004/1/section/27/1)
 
-[^key-9a8bd786d545b23815892e51c9aad799]: Textual amendment: Words in s. 15(11) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 31(3)(b)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/31/3/b)
+[^c-9a8bd786d545b23815892e51c9aad799]: Textual amendment: Words in s. 15(11) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 31(3)(b)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/31/3/b)
 
 [^c19237501]: Marginal citation: [1963 c. 33](https://www.legislation.gov.uk/ukpga/1963/33).
 
-[^key-3e1c75188243249bfc9df75e3d478fd3]: Textual amendment: Words in s. 15(12) substituted (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(5)(b)](https://www.legislation.gov.uk/ukla/2008/3/section/8/5/b)
+[^c-3e1c75188243249bfc9df75e3d478fd3]: Textual amendment: Words in s. 15(12) substituted (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(5)(b)](https://www.legislation.gov.uk/ukla/2008/3/section/8/5/b)
 
-[^key-92327493c5a6cab9b84cb98284128ed4]: Textual amendment: Words in s. 15(12) inserted (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(5)(a)](https://www.legislation.gov.uk/ukla/2008/3/section/8/5/a)
+[^c-92327493c5a6cab9b84cb98284128ed4]: Textual amendment: Words in s. 15(12) inserted (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(5)(a)](https://www.legislation.gov.uk/ukla/2008/3/section/8/5/a)
 
-[^key-e7160dea8fbbddfbcfb955c88fad03f0]: Textual amendment: Words in s. 15(12) substituted (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(5)(c)](https://www.legislation.gov.uk/ukla/2008/3/section/8/5/c)
+[^c-e7160dea8fbbddfbcfb955c88fad03f0]: Textual amendment: Words in s. 15(12) substituted (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(5)(c)](https://www.legislation.gov.uk/ukla/2008/3/section/8/5/c)
 
-[^key-51e1d75fc48b4c8d090f18759f63c97f]: Textual amendment: Words in s. 15(12) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 31(3)(c)(i)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/31/3/c/i)
+[^c-51e1d75fc48b4c8d090f18759f63c97f]: Textual amendment: Words in s. 15(12) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 31(3)(c)(i)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/31/3/c/i)
 
-[^key-4984ecab94070300dafd13e7e7c11d31]: Textual amendment: Words in s. 15(12) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 31(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/31/3/c/ii)
+[^c-4984ecab94070300dafd13e7e7c11d31]: Textual amendment: Words in s. 15(12) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 31(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/31/3/c/ii)
 
-[^key-69cdc5c88186bbc98583c7ea086b216a]: Textual amendment: Words in s. 15(12) omitted (21.9.2008) by virtue of [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(5)(d)](https://www.legislation.gov.uk/ukla/2008/3/section/8/5/d)
+[^c-69cdc5c88186bbc98583c7ea086b216a]: Textual amendment: Words in s. 15(12) omitted (21.9.2008) by virtue of [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [8(5)(d)](https://www.legislation.gov.uk/ukla/2008/3/section/8/5/d)
 
 [^c19237541]: Textual amendment: Words substituted by [Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1988/54), [s. 4](https://www.legislation.gov.uk/ukpga/1988/54/section/4), [Sch. 3 para. 12(b)](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3/paragraph/12/b)
 
@@ -604,7 +604,7 @@ Sections 13,14,16,21.
 
 [^c19237641]: Marginal citation: [1967 c. 69](https://www.legislation.gov.uk/ukpga/1967/69).
 
-[^key-0d12b0686b3c7bba6c87f599d969f675]: Textual amendment: Words in s. 21(7) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 31(4)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/31/4)
+[^c-0d12b0686b3c7bba6c87f599d969f675]: Textual amendment: Words in s. 21(7) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 31(4)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/31/4)
 
 [^c23437831]: Textual amendment: Words in definition of "vehicle" in s. 21(7) substituted by [London Regional Transport Act 1984 (c. 32)](https://www.legislation.gov.uk/ukpga/1984/32), [s. 71(3)(a)](https://www.legislation.gov.uk/ukpga/1984/32/section/71/3/a), [Sch. 6 para. 38](https://www.legislation.gov.uk/ukpga/1984/32/schedule/6/paragraph/38)
 

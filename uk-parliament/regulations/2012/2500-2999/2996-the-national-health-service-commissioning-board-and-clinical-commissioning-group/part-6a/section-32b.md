@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32B. Duties of relevant bodies in relation to personal health budgets[^key-de9250230125b5a168135a5cf4df4e71]
+## 32B. Duties of relevant bodies in relation to personal health budgets[^c-de9250230125b5a168135a5cf4df4e71]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 - (a) publicise and promote the availability of personal health budgets to eligible persons and their representatives; and
 - (b) provide information, advice and other support to eligible persons and their representatives to assist them in deciding whether to request a personal health budget in respect of a relevant health service.
 
-(4)[^key-9be40956e0c3fb0ad8245f141c59b865] Where a request is made by or on behalf of an eligible person for a personal health budget, a relevant body must grant that request, save to the extent that it is not appropriate to secure provision of all or any part of the relevant health service by that means in the circumstances of the eligible person’s case.
+(4)[^c-9be40956e0c3fb0ad8245f141c59b865] Where a request is made by or on behalf of an eligible person for a personal health budget, a relevant body must grant that request, save to the extent that it is not appropriate to secure provision of all or any part of the relevant health service by that means in the circumstances of the eligible person’s case.
 
 (4A) Where a relevant body arranges a personal health budget under paragraph (4), it must decide which of the ways mentioned in paragraph (2) would be the most appropriate way in which to manage that personal health budget.
 
@@ -41,9 +41,9 @@ summary: ''
 
 (6) The duty in paragraph (5) does not apply in relation to any part of a personal health budget to which regulation 9 of the National Health Service (Direct Payments) Regulations 2013 (information, advice and other support) applies.
 
-(7) If a relevant body decides to refuse a request for a personal health budget made by or on behalf of an eligible person in full or in part[^key-7c5c2738b9b6e015d855d4f5fb199ae5], it must provide that person and their representatives with the reasons for that decision in writing.
+(7) If a relevant body decides to refuse a request for a personal health budget made by or on behalf of an eligible person in full or in part[^c-7c5c2738b9b6e015d855d4f5fb199ae5], it must provide that person and their representatives with the reasons for that decision in writing.
 
-(8) On receipt of—[^key-d2c1d1106e611b2f60c2bfef52b66fb4]
+(8) On receipt of—[^c-d2c1d1106e611b2f60c2bfef52b66fb4]
 
 - (a) a decision under paragraph (4A); or
 - (b) written reasons in accordance with paragraph (7),
@@ -56,10 +56,10 @@ an eligible person or a person acting on the eligible person’s behalf may requ
 
 ## Annotations
 
-[^key-de9250230125b5a168135a5cf4df4e71]: Textual amendment: Pt. 6A inserted (1.4.2014) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) Regulations 2013 (S.I. 2013/2891)](https://www.legislation.gov.uk/uksi/2013/2891), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2891/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2013/2891/regulation/3)
+[^c-de9250230125b5a168135a5cf4df4e71]: Textual amendment: Pt. 6A inserted (1.4.2014) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) Regulations 2013 (S.I. 2013/2891)](https://www.legislation.gov.uk/uksi/2013/2891), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2891/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2013/2891/regulation/3)
 
-[^key-9be40956e0c3fb0ad8245f141c59b865]: Textual amendment: [Reg. 32B(4)](https://www.legislation.gov.uk/uksi/2012/2996/regulation/32B/4)[(4A)](https://www.legislation.gov.uk/uksi/2012/2996/regulation/32B/4A) substituted for [reg. 32B(4)](https://www.legislation.gov.uk/uksi/2012/2996/regulation/32B/4) (1.10.2014) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/1611)](https://www.legislation.gov.uk/uksi/2014/1611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/4/2/a)
+[^c-9be40956e0c3fb0ad8245f141c59b865]: Textual amendment: [Reg. 32B(4)](https://www.legislation.gov.uk/uksi/2012/2996/regulation/32B/4)[(4A)](https://www.legislation.gov.uk/uksi/2012/2996/regulation/32B/4A) substituted for [reg. 32B(4)](https://www.legislation.gov.uk/uksi/2012/2996/regulation/32B/4) (1.10.2014) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/1611)](https://www.legislation.gov.uk/uksi/2014/1611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/4/2/a)
 
-[^key-7c5c2738b9b6e015d855d4f5fb199ae5]: Textual amendment: Words in [reg. 32B(7)](https://www.legislation.gov.uk/uksi/2012/2996/regulation/32B/7) inserted (1.10.2014) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/1611)](https://www.legislation.gov.uk/uksi/2014/1611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/4/2/b)
+[^c-7c5c2738b9b6e015d855d4f5fb199ae5]: Textual amendment: Words in [reg. 32B(7)](https://www.legislation.gov.uk/uksi/2012/2996/regulation/32B/7) inserted (1.10.2014) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/1611)](https://www.legislation.gov.uk/uksi/2014/1611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/4/2/b)
 
-[^key-d2c1d1106e611b2f60c2bfef52b66fb4]: Textual amendment: Words in [reg. 32B(8)](https://www.legislation.gov.uk/uksi/2012/2996/regulation/32B/8) substituted (1.10.2014) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/1611)](https://www.legislation.gov.uk/uksi/2014/1611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/4/2/c)
+[^c-d2c1d1106e611b2f60c2bfef52b66fb4]: Textual amendment: Words in [reg. 32B(8)](https://www.legislation.gov.uk/uksi/2012/2996/regulation/32B/8) substituted (1.10.2014) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/1611)](https://www.legislation.gov.uk/uksi/2014/1611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/4/2/c)

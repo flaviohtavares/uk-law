@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259ED. Counteraction where a payee is within the charge to corporation tax[^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259ED. Counteraction where a payee is within the charge to corporation tax[^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,7 +67,7 @@ is to be treated as income arising to the payee for the counteraction period.
 - “**counteraction period**” means—
   - (a) if an accounting period of the payee coincides with the payment period, that accounting period, or
   - (b) otherwise, the first accounting period of the payee that is wholly or partly within the payment period;
-- “**dual inclusion income**” means an amount that [^key-8cfec8c7e7d039fb7de728f9e159cab8]... is both—
+- “**dual inclusion income**” means an amount that [^c-8cfec8c7e7d039fb7de728f9e159cab8]... is both—
   - (a) ordinary income of the payer for the payment period, and
   - (b) ordinary income of an investor in the payer for a permitted taxable period for the purposes of a tax charged under the law of an investor jurisdiction.
 
@@ -80,6 +80,6 @@ is to be treated as income arising to the payee for the counteraction period.
 
 ## Annotations
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
-[^key-8cfec8c7e7d039fb7de728f9e159cab8]: Textual amendment: Words in [s. 259ED(9)](https://www.legislation.gov.uk/ukpga/2010/8/section/259ED/9) omitted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 10(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/10/4)
+[^c-8cfec8c7e7d039fb7de728f9e159cab8]: Textual amendment: Words in [s. 259ED(9)](https://www.legislation.gov.uk/ukpga/2010/8/section/259ED/9) omitted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 10(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/10/4)

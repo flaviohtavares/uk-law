@@ -31,34 +31,34 @@ Army Act 1992 (repealed)
 
 1992 c. 39
 
-[^key-333e6662f49a0b8edd75a8d50633d21b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-333e6662f49a0b8edd75a8d50633d21b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Serving members of Ulster Defence Regiment.[^key-333e6662f49a0b8edd75a8d50633d21b]
+## 1. Serving members of Ulster Defence Regiment.[^c-333e6662f49a0b8edd75a8d50633d21b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Regulations as to terms and conditions of service, etc.[^key-333e6662f49a0b8edd75a8d50633d21b]
+## 2. Regulations as to terms and conditions of service, etc.[^c-333e6662f49a0b8edd75a8d50633d21b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Enactments relating to the Ulster Defence Regiment.[^key-333e6662f49a0b8edd75a8d50633d21b]
+## 3. Enactments relating to the Ulster Defence Regiment.[^c-333e6662f49a0b8edd75a8d50633d21b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Expenses.[^key-333e6662f49a0b8edd75a8d50633d21b]
+## 4. Expenses.[^c-333e6662f49a0b8edd75a8d50633d21b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Commencement.[^key-333e6662f49a0b8edd75a8d50633d21b]
+## 5. Commencement.[^c-333e6662f49a0b8edd75a8d50633d21b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Short title.[^key-333e6662f49a0b8edd75a8d50633d21b]
+## 6. Short title.[^c-333e6662f49a0b8edd75a8d50633d21b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-333e6662f49a0b8edd75a8d50633d21b]: Textual amendment: Act repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-333e6662f49a0b8edd75a8d50633d21b]: Textual amendment: Act repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

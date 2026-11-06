@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Principal stage form[^key-e1dc83f6432e8e6286e0a2b98e3a4fb5]
+## 21. Principal stage form[^c-e1dc83f6432e8e6286e0a2b98e3a4fb5]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1dc83f6432e8e6286e0a2b98e3a4fb5]: Commencement: Reg. 21 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-e1dc83f6432e8e6286e0a2b98e3a4fb5]: Commencement: Reg. 21 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

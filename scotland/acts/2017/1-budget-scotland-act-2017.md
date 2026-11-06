@@ -71,12 +71,12 @@ In schedule 3, the amounts set out in column 2 are the amounts specified for fin
 
 (1) For the purposes of section 4(2) of the PFA Act 2000, the overall cash authorisations for financial year 2017/18 are as follows.
 
-(2) In relation to the Scottish Administration, £34,708,594,000[^key-a2527207760a12ff44bb837ea58f51e3].
+(2) In relation to the Scottish Administration, £34,708,594,000[^c-a2527207760a12ff44bb837ea58f51e3].
 
 (3) In relation to the direct-funded bodies—
 
-- (a) the Forestry Commissioners, £68,278,000[^key-ae543e44121ef51b275326bde4682782] ,
-- (b) the Scottish Parliamentary Corporate Body, £85,209,000[^key-3133fbd607f647fd54bed477a3770db5] ,
+- (a) the Forestry Commissioners, £68,278,000[^c-ae543e44121ef51b275326bde4682782] ,
+- (b) the Scottish Parliamentary Corporate Body, £85,209,000[^c-3133fbd607f647fd54bed477a3770db5] ,
 - (c) Audit Scotland, £6,134,000.
 
 #### 5. Contingency payments
@@ -99,11 +99,11 @@ In schedule 3, the amounts set out in column 2 are the amounts specified for fin
 
 (6) Where the Scottish Ministers authorise a payment under this section they must, as soon as possible, lay before the Scottish Parliament a report setting out the circumstances of the authorisation and why they considered it to be necessary.
 
-## PART 2 — Financial year 2018/19[^key-9328d60ec26ff6a8e709b709b3a0303d]
+## PART 2 — Financial year 2018/19[^c-9328d60ec26ff6a8e709b709b3a0303d]
 
 **No longer in force.**
 
-### 6. Emergency arrangements[^key-9328d60ec26ff6a8e709b709b3a0303d]
+### 6. Emergency arrangements[^c-9328d60ec26ff6a8e709b709b3a0303d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -175,7 +175,7 @@ The short title of this Act is the Budget (Scotland) Act 2017.
 </tbody>
 </table>
 
-[^key-2e711c4de5eaa5c042971bb6b8eeee09][^key-dd1c5d5b1b072255ddcdd99e39872878][^key-db57a0de101f13d14a724a7b0261cc62][^key-11b7ea5e7411e4112e110d1f0821f06f][^key-8f6e446f929978cb1b8304f526d78027][^key-2ff2947662f0cf5bad08176b6b0a812d][^key-20ed697d039e15b809c35f9b7bbfabed][^key-549c1b70deabda4040be807ac253c7f9][^key-bb45b59543e5c1ec9549537f5692ef88][^key-77b9cdf4cec11d0e4aa9ae2331e347fe][^key-fcc9f9bdad60c0d287820b727b00d390][^key-07dd063baa695d0e37ff84e4d022e90e][^key-4a7b32613dab511da96a51af79f8316e][^key-d6a55e9d64d43ebe241d27077017c0e0][^key-6c2be670b1a0b0c4e892b43bd077188f][^key-2abeb4e6bd93a0e7f1dec8b3c6103fb4][^key-8f2dfe2985c35b832143659ed8013c80][^key-51391e6dffcb9cb3a787e15d0aa95e5a][^key-21e8ed770628f68481146d45a00c5a94][^key-ea8c2795bf1283f1aea7075cdfeac5c1]
+[^c-2e711c4de5eaa5c042971bb6b8eeee09][^c-dd1c5d5b1b072255ddcdd99e39872878][^c-db57a0de101f13d14a724a7b0261cc62][^c-11b7ea5e7411e4112e110d1f0821f06f][^c-8f6e446f929978cb1b8304f526d78027][^c-2ff2947662f0cf5bad08176b6b0a812d][^c-20ed697d039e15b809c35f9b7bbfabed][^c-549c1b70deabda4040be807ac253c7f9][^c-bb45b59543e5c1ec9549537f5692ef88][^c-77b9cdf4cec11d0e4aa9ae2331e347fe][^c-fcc9f9bdad60c0d287820b727b00d390][^c-07dd063baa695d0e37ff84e4d022e90e][^c-4a7b32613dab511da96a51af79f8316e][^c-d6a55e9d64d43ebe241d27077017c0e0][^c-6c2be670b1a0b0c4e892b43bd077188f][^c-2abeb4e6bd93a0e7f1dec8b3c6103fb4][^c-8f2dfe2985c35b832143659ed8013c80][^c-51391e6dffcb9cb3a787e15d0aa95e5a][^c-21e8ed770628f68481146d45a00c5a94][^c-ea8c2795bf1283f1aea7075cdfeac5c1]
 
 ## SCHEDULE 2 — DIRECT-FUNDED BODIES
 
@@ -191,7 +191,7 @@ The short title of this Act is the Budget (Scotland) Act 2017.
 </tbody>
 </table>
 
-[^key-2d58ca4018070d8edb1630b0ed0e292e][^key-ae1ff95b3d9bb34e90c15e320ece19f5][^key-d37092f69350760ee818a7376cbbe1e7]
+[^c-2d58ca4018070d8edb1630b0ed0e292e][^c-ae1ff95b3d9bb34e90c15e320ece19f5][^c-d37092f69350760ee818a7376cbbe1e7]
 
 ## SCHEDULE 3 — BORROWING BY STATUTORY BODIES
 
@@ -209,62 +209,62 @@ The short title of this Act is the Budget (Scotland) Act 2017.
 </tbody>
 </table>
 
-[^key-e3df7c95cc86ecc494fbaba815e059fb]
+[^c-e3df7c95cc86ecc494fbaba815e059fb]
 
 ## Annotations
 
-[^key-a2527207760a12ff44bb837ea58f51e3]: Textual amendment: Word in s. 4(2) substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/113/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2018/113/regulation/2/a)
+[^c-a2527207760a12ff44bb837ea58f51e3]: Textual amendment: Word in s. 4(2) substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/113/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2018/113/regulation/2/a)
 
-[^key-ae543e44121ef51b275326bde4682782]: Textual amendment: Word in s. 4(3)(a) substituted (22.11.2017) by [The Budget (Scotland) Act 2017 Amendment Regulations 2017 (S.S.I. 2017/399)](https://www.legislation.gov.uk/ssi/2017/399), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/399/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2017/399/regulation/2/b)
+[^c-ae543e44121ef51b275326bde4682782]: Textual amendment: Word in s. 4(3)(a) substituted (22.11.2017) by [The Budget (Scotland) Act 2017 Amendment Regulations 2017 (S.S.I. 2017/399)](https://www.legislation.gov.uk/ssi/2017/399), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/399/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2017/399/regulation/2/b)
 
-[^key-3133fbd607f647fd54bed477a3770db5]: Textual amendment: Word in s. 4(3)(b) substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/113/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2018/113/regulation/2/b)
+[^c-3133fbd607f647fd54bed477a3770db5]: Textual amendment: Word in s. 4(3)(b) substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/113/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2018/113/regulation/2/b)
 
-[^key-9328d60ec26ff6a8e709b709b3a0303d]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/asp/2017/1/part/2) repealed (29.3.2018) by [Budget (Scotland) Act 2018 (asp 6)](https://www.legislation.gov.uk/asp/2018/6), [ss. 8](https://www.legislation.gov.uk/asp/2018/6/section/8), [10](https://www.legislation.gov.uk/asp/2018/6/section/10)
+[^c-9328d60ec26ff6a8e709b709b3a0303d]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/asp/2017/1/part/2) repealed (29.3.2018) by [Budget (Scotland) Act 2018 (asp 6)](https://www.legislation.gov.uk/asp/2018/6), [ss. 8](https://www.legislation.gov.uk/asp/2018/6/section/8), [10](https://www.legislation.gov.uk/asp/2018/6/section/10)
 
-[^key-2e711c4de5eaa5c042971bb6b8eeee09]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(a)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/a)
+[^c-2e711c4de5eaa5c042971bb6b8eeee09]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(a)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/a)
 
-[^key-dd1c5d5b1b072255ddcdd99e39872878]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(b)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/b)
+[^c-dd1c5d5b1b072255ddcdd99e39872878]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(b)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/b)
 
-[^key-db57a0de101f13d14a724a7b0261cc62]: Textual amendment: Words in sch. 1 table inserted (22.11.2017) by [The Budget (Scotland) Act 2017 Amendment Regulations 2017 (S.S.I. 2017/399)](https://www.legislation.gov.uk/ssi/2017/399), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/399/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2017/399/regulation/3/2)
+[^c-db57a0de101f13d14a724a7b0261cc62]: Textual amendment: Words in sch. 1 table inserted (22.11.2017) by [The Budget (Scotland) Act 2017 Amendment Regulations 2017 (S.S.I. 2017/399)](https://www.legislation.gov.uk/ssi/2017/399), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/399/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2017/399/regulation/3/2)
 
-[^key-11b7ea5e7411e4112e110d1f0821f06f]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(c)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/c)
+[^c-11b7ea5e7411e4112e110d1f0821f06f]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(c)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/c)
 
-[^key-8f6e446f929978cb1b8304f526d78027]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(d)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/d)
+[^c-8f6e446f929978cb1b8304f526d78027]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(d)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/d)
 
-[^key-2ff2947662f0cf5bad08176b6b0a812d]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(e)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/e)
+[^c-2ff2947662f0cf5bad08176b6b0a812d]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(e)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/e)
 
-[^key-20ed697d039e15b809c35f9b7bbfabed]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(f)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/f)
+[^c-20ed697d039e15b809c35f9b7bbfabed]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(f)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/f)
 
-[^key-549c1b70deabda4040be807ac253c7f9]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(g)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/g)
+[^c-549c1b70deabda4040be807ac253c7f9]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(g)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/g)
 
-[^key-bb45b59543e5c1ec9549537f5692ef88]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(h)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/h)
+[^c-bb45b59543e5c1ec9549537f5692ef88]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(h)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/h)
 
-[^key-77b9cdf4cec11d0e4aa9ae2331e347fe]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(i)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/i)
+[^c-77b9cdf4cec11d0e4aa9ae2331e347fe]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(i)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/i)
 
-[^key-fcc9f9bdad60c0d287820b727b00d390]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(j)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/j)
+[^c-fcc9f9bdad60c0d287820b727b00d390]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(j)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/j)
 
-[^key-07dd063baa695d0e37ff84e4d022e90e]: Textual amendment: Word in sch. 1 table substituted (22.11.2017) by [The Budget (Scotland) Act 2017 Amendment Regulations 2017 (S.S.I. 2017/399)](https://www.legislation.gov.uk/ssi/2017/399), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/399/regulation/1/1), [3(3)(j)](https://www.legislation.gov.uk/ssi/2017/399/regulation/3/3/j)
+[^c-07dd063baa695d0e37ff84e4d022e90e]: Textual amendment: Word in sch. 1 table substituted (22.11.2017) by [The Budget (Scotland) Act 2017 Amendment Regulations 2017 (S.S.I. 2017/399)](https://www.legislation.gov.uk/ssi/2017/399), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/399/regulation/1/1), [3(3)(j)](https://www.legislation.gov.uk/ssi/2017/399/regulation/3/3/j)
 
-[^key-4a7b32613dab511da96a51af79f8316e]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(k)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/k)
+[^c-4a7b32613dab511da96a51af79f8316e]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(k)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/k)
 
-[^key-d6a55e9d64d43ebe241d27077017c0e0]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(l)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/l)
+[^c-d6a55e9d64d43ebe241d27077017c0e0]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(l)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/l)
 
-[^key-6c2be670b1a0b0c4e892b43bd077188f]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(m)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/m)
+[^c-6c2be670b1a0b0c4e892b43bd077188f]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(m)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/m)
 
-[^key-2abeb4e6bd93a0e7f1dec8b3c6103fb4]: Textual amendment: Word in sch. 1 table substituted (22.11.2017) by [The Budget (Scotland) Act 2017 Amendment Regulations 2017 (S.S.I. 2017/399)](https://www.legislation.gov.uk/ssi/2017/399), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/399/regulation/1/1), [3(3)(n)](https://www.legislation.gov.uk/ssi/2017/399/regulation/3/3/n)
+[^c-2abeb4e6bd93a0e7f1dec8b3c6103fb4]: Textual amendment: Word in sch. 1 table substituted (22.11.2017) by [The Budget (Scotland) Act 2017 Amendment Regulations 2017 (S.S.I. 2017/399)](https://www.legislation.gov.uk/ssi/2017/399), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/399/regulation/1/1), [3(3)(n)](https://www.legislation.gov.uk/ssi/2017/399/regulation/3/3/n)
 
-[^key-8f2dfe2985c35b832143659ed8013c80]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(n)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/n)
+[^c-8f2dfe2985c35b832143659ed8013c80]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(n)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/n)
 
-[^key-51391e6dffcb9cb3a787e15d0aa95e5a]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(o)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/o)
+[^c-51391e6dffcb9cb3a787e15d0aa95e5a]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(o)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/o)
 
-[^key-21e8ed770628f68481146d45a00c5a94]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(p)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/p)
+[^c-21e8ed770628f68481146d45a00c5a94]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(p)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/p)
 
-[^key-ea8c2795bf1283f1aea7075cdfeac5c1]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(q)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/q)
+[^c-ea8c2795bf1283f1aea7075cdfeac5c1]: Textual amendment: Word in sch. 1 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 3(2)(q)](https://www.legislation.gov.uk/ssi/2018/113/regulation/3/2/q)
 
-[^key-2d58ca4018070d8edb1630b0ed0e292e]: Textual amendment: Word in sch. 2 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 4(2)(a)](https://www.legislation.gov.uk/ssi/2018/113/regulation/4/2/a)
+[^c-2d58ca4018070d8edb1630b0ed0e292e]: Textual amendment: Word in sch. 2 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 4(2)(a)](https://www.legislation.gov.uk/ssi/2018/113/regulation/4/2/a)
 
-[^key-ae1ff95b3d9bb34e90c15e320ece19f5]: Textual amendment: Word in sch. 2 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 4(2)(b)](https://www.legislation.gov.uk/ssi/2018/113/regulation/4/2/b)
+[^c-ae1ff95b3d9bb34e90c15e320ece19f5]: Textual amendment: Word in sch. 2 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 4(2)(b)](https://www.legislation.gov.uk/ssi/2018/113/regulation/4/2/b)
 
-[^key-d37092f69350760ee818a7376cbbe1e7]: Textual amendment: Word in sch. 2 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 4(2)(c)](https://www.legislation.gov.uk/ssi/2018/113/regulation/4/2/c)
+[^c-d37092f69350760ee818a7376cbbe1e7]: Textual amendment: Word in sch. 2 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 4(2)(c)](https://www.legislation.gov.uk/ssi/2018/113/regulation/4/2/c)
 
-[^key-e3df7c95cc86ecc494fbaba815e059fb]: Textual amendment: Word in sch. 3 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 5](https://www.legislation.gov.uk/ssi/2018/113/regulation/5)
+[^c-e3df7c95cc86ecc494fbaba815e059fb]: Textual amendment: Word in sch. 3 table substituted (29.3.2018) by [The Budget (Scotland) Act 2017 Amendment Regulations 2018 (S.S.I. 2018/113)](https://www.legislation.gov.uk/ssi/2018/113), [reg. 5](https://www.legislation.gov.uk/ssi/2018/113/regulation/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Deemed licence for purposes of the 2009 Act[^key-d28e599171aec79bf6bc71c20f68767a]
+## 35. Deemed licence for purposes of the 2009 Act[^c-d28e599171aec79bf6bc71c20f68767a]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The undertaker is deemed to have been granted a licence under Part 4 of the 2009
 
 ## Annotations
 
-[^key-d28e599171aec79bf6bc71c20f68767a]: Commencement: Art. 35 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
+[^c-d28e599171aec79bf6bc71c20f68767a]: Commencement: Art. 35 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
 
 [^f00028]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23); there are amendments that are not relevant to this Order.

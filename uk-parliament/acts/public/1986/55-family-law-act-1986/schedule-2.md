@@ -70,10 +70,10 @@ Section 68(2).
 |  |  | In section 53(1), the words from “but where” to the end. |
 |  |  | Section 54. |
 |  |  | In section 100(8), the words “or 42”. |
-| 1981 c. 54. | The Senior Courts Act 1981[^key-8870fb2eb6c00c9b793b9bc26d7fbc32] . | In section 26(b), the words “or jactitation of marriage”. |
+| 1981 c. 54. | The Senior Courts Act 1981[^c-8870fb2eb6c00c9b793b9bc26d7fbc32] . | In section 26(b), the words “or jactitation of marriage”. |
 | 1984 c. 42. | The Matrimonial and Family Proceedings Act 1984. | In Schedule 1, paragraph 14. |
 | 1985 c. 73. | The Law Reform (Miscellaneous Provisions) (Scotland) Act 1985. | Section 16. |
 
 ## Annotations
 
-[^key-8870fb2eb6c00c9b793b9bc26d7fbc32]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-8870fb2eb6c00c9b793b9bc26d7fbc32]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

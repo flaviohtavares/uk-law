@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^c10049181] Any approval given by the appropriate agency[^key-91f05cf37e2e23d9772350a94859d416] to or in relation to a fish pass may, if in giving it the appropriate agency indicates that fact, be provisional until the appropriate agency notifies the applicant for approval that the pass is functioning to its satisfaction.
+(1)[^c10049181] Any approval given by the appropriate agency[^c-91f05cf37e2e23d9772350a94859d416] to or in relation to a fish pass may, if in giving it the appropriate agency indicates that fact, be provisional until the appropriate agency notifies the applicant for approval that the pass is functioning to its satisfaction.
 
 (1A) The applicant for any such approval—
 
@@ -39,7 +39,7 @@ summary: ''
 
 [^c10049181]: Textual amendment: S. 11(1)(1A) substituted for s. 11(1) (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 105](https://www.legislation.gov.uk/ukpga/1995/25/section/105), [Sch. 15 para. 12(1)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/15/paragraph/12/1) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-91f05cf37e2e23d9772350a94859d416]: Textual amendment: Words in [s. 11](https://www.legislation.gov.uk/ukpga/1975/51/section/11) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 133](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/133) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-91f05cf37e2e23d9772350a94859d416]: Textual amendment: Words in [s. 11](https://www.legislation.gov.uk/ukpga/1975/51/section/11) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 133](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/133) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c10049191]: Textual amendment: Words in s. 11(2) substituted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 105](https://www.legislation.gov.uk/ukpga/1995/25/section/105), [Sch. 15 para. 12(2)(a)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/15/paragraph/12/2/a) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 

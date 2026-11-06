@@ -98,9 +98,9 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.** (1.)[^key-cace7f4df1ec46f9f8f6fbe71abf31f3] This Decision shall apply to all products of animal origin imported from China and intended for human consumption or animal feed use.
+**Article 1.** (1.)[^c-cace7f4df1ec46f9f8f6fbe71abf31f3] This Decision shall apply to all products of animal origin imported from China and intended for human consumption or animal feed use.
 
-(2.)[^key-b9749cbb7a3952f8e6852d93ccfce8f7] In this Decision:
+(2.)[^c-b9749cbb7a3952f8e6852d93ccfce8f7] In this Decision:
 
 “**competent authority**” has the meaning given in Article 3(3) of Regulation (EU) 2017/625;
 
@@ -110,29 +110,29 @@ HAS ADOPTED THIS DECISION:
 - (ii) as regards Wales, the Food Supplements (Wales) Regulations 2003;
 - (iii) as regards Scotland, the Food Supplements (Scotland) Regulations 2003.
 
-**Article 2.**[^c000001] 1. Competent authorities[^key-19e5594646e4c76c67e267b10a470a74] shall prohibit the imports of products referred to in Article 1.
+**Article 2.**[^c000001] 1. Competent authorities[^c-19e5594646e4c76c67e267b10a470a74] shall prohibit the imports of products referred to in Article 1.
 
-2. By derogation from paragraph 1, competent authorities[^key-ab8ecc49017d60f11ab14d9733aabd06] shall authorise the imports of products listed in the Annex to this Decision in accordance with the specific animal and public health conditions applicable to the products concerned, and with Article 3 in the case of products listed in Part II of the Annex.
+2. By derogation from paragraph 1, competent authorities[^c-ab8ecc49017d60f11ab14d9733aabd06] shall authorise the imports of products listed in the Annex to this Decision in accordance with the specific animal and public health conditions applicable to the products concerned, and with Article 3 in the case of products listed in Part II of the Annex.
 
-**Article 3.**[^c000002] Competent authorities[^key-d24fa240f9767b0d8062b8805b3c62a9] shall authorise imports of consignments of products listed in Part II of the Annex accompanied by a declaration of the Chinese competent authority stating that each consignment has been subjected before dispatch to a chemical test in order to ensure that the products concerned do not present a danger to animal or human health. That chemical test must be carried out in particular, to detect the presence of chloramphenicol and nitrofuran and its metabolites in all products listed in Part II of the Annex. In addition, aquaculture fishery products referred to in Part II of the Annex shall be tested for the presence of malachite green and crystal violet and their metabolites. The results of those chemical tests shall be included in that declaration.
+**Article 3.**[^c000002] Competent authorities[^c-d24fa240f9767b0d8062b8805b3c62a9] shall authorise imports of consignments of products listed in Part II of the Annex accompanied by a declaration of the Chinese competent authority stating that each consignment has been subjected before dispatch to a chemical test in order to ensure that the products concerned do not present a danger to animal or human health. That chemical test must be carried out in particular, to detect the presence of chloramphenicol and nitrofuran and its metabolites in all products listed in Part II of the Annex. In addition, aquaculture fishery products referred to in Part II of the Annex shall be tested for the presence of malachite green and crystal violet and their metabolites. The results of those chemical tests shall be included in that declaration.
 
 **No longer in force.**
 
 **Article 4.**[^c000003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-174cf675e4ffc0a6714f68ee3581136a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-174cf675e4ffc0a6714f68ee3581136a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^c000004] This Decision shall be reviewed on the basis of the information and guarantees provided by the Chinese competent authority and, if necessary, the results of an on-the-spot inspection visit by experts appointed by the competent authority[^key-4a29b2bf0524763d4af62b9d674b77d2].
+**Article 6.**[^c000004] This Decision shall be reviewed on the basis of the information and guarantees provided by the Chinese competent authority and, if necessary, the results of an on-the-spot inspection visit by experts appointed by the competent authority[^c-4a29b2bf0524763d4af62b9d674b77d2].
 
 **Article 7.** Decision 2001/699/EC and Decision 2002/69/EC are repealed.
 
 **Article 8.** This Decision shall apply from 24 December 2002.
 
-**Article 9.**[^key-42108edbec72ac18a11c519bbaf646c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-42108edbec72ac18a11c519bbaf646c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## ANNEX
 
-### PART I — List of products of animal origin intended for human consumption or animal feed use authorised to be imported into Great Britain without the attestation provided by Article 3:[^c000005][^key-0af8d571f371af39039616242080da57]
+### PART I — List of products of animal origin intended for human consumption or animal feed use authorised to be imported into Great Britain without the attestation provided by Article 3:[^c000005][^c-0af8d571f371af39039616242080da57]
 
 - fishery products, except:
   - those obtained by aquaculture,
@@ -141,11 +141,11 @@ HAS ADOPTED THIS DECISION:
 - gelatine;
 - petfood as regulated under Regulation (EC) No 1069/2009 of the European Parliament and of the Council[^f00009];
 - substances to be used as food additives as regulated under Regulation (EC) No 1333/2008 of the European Parliament and of the Council[^f00010];
-- substances to be used as or in the food supplements as regulated under the Food Supplements Regulations[^key-2adc533af57e32c7636d0f1c684b4a1c];
+- substances to be used as or in the food supplements as regulated under the Food Supplements Regulations[^c-2adc533af57e32c7636d0f1c684b4a1c];
 - Chondroitin sulphate and glucosamine considered as feed material, as regulated under Commission Regulation (EU) No 68/2013[^f00012];
 - L-cysteine and L-cystine considered as feed additives as regulated under Regulation (EC) No 1831/2003 of the European Parliament and of the Council[^f00013].
 
-### PART II — List of products of animal origin intended for human consumption or animal feed use authorised to be imported into Great Britain, subject to be accompanied of the attestation provided by Article 3[^key-54cbbbad49b5cfba5b8d595e06f5a15e]
+### PART II — List of products of animal origin intended for human consumption or animal feed use authorised to be imported into Great Britain, subject to be accompanied of the attestation provided by Article 3[^c-54cbbbad49b5cfba5b8d595e06f5a15e]
 
 - Aquaculture fishery products,
 - peeled and/or processed shrimps,
@@ -176,45 +176,45 @@ HAS ADOPTED THIS DECISION:
 
 [^f00008]: Footnote: [OJ L 324, 29.11.2002, p. 71](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.324.01.0071.01.ENG).
 
-[^key-cace7f4df1ec46f9f8f6fbe71abf31f3]: Textual amendment: Art. 1 renumbered as Art. 1(1) (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/2/a)
+[^c-cace7f4df1ec46f9f8f6fbe71abf31f3]: Textual amendment: Art. 1 renumbered as Art. 1(1) (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/2/a)
 
-[^key-b9749cbb7a3952f8e6852d93ccfce8f7]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eudn/2002/994/article/1/2) inserted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/2/b)
+[^c-b9749cbb7a3952f8e6852d93ccfce8f7]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eudn/2002/994/article/1/2) inserted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/2/b)
 
 [^c000001]: Textual amendment: Substituted by [Commission Decision of 22 July 2005 amending Decision 2002/994/EC concerning certain protective measures with regard to the products of animal origin imported from China (notified under document number C(2005) 2764) (Text with EEA relevance) (2005/573/EC)](https://www.legislation.gov.uk/eudn/2005/573).
 
-[^key-19e5594646e4c76c67e267b10a470a74]: Textual amendment: Words in [Art. 2(1)](https://www.legislation.gov.uk/eudn/2002/994/article/2/1) substituted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/3/a)
+[^c-19e5594646e4c76c67e267b10a470a74]: Textual amendment: Words in [Art. 2(1)](https://www.legislation.gov.uk/eudn/2002/994/article/2/1) substituted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/3/a)
 
-[^key-ab8ecc49017d60f11ab14d9733aabd06]: Textual amendment: Words in [Art. 2(2)](https://www.legislation.gov.uk/eudn/2002/994/article/2/2) substituted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/3/b)
+[^c-ab8ecc49017d60f11ab14d9733aabd06]: Textual amendment: Words in [Art. 2(2)](https://www.legislation.gov.uk/eudn/2002/994/article/2/2) substituted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/3/b)
 
 [^c000002]: Textual amendment: Substituted by [Commission Decision of 17 June 2008 amending Decision 2002/994/EC concerning certain protective measures with regard to the products of animal origin imported from China (notified under document number C(2008) 2483) (Text with EEA relevance) (2008/463/EC)](https://www.legislation.gov.uk/eudn/2008/463).
 
-[^key-d24fa240f9767b0d8062b8805b3c62a9]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eudn/2002/994/article/3) substituted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/4)
+[^c-d24fa240f9767b0d8062b8805b3c62a9]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eudn/2002/994/article/3) substituted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/4)
 
 [^c000003]: Textual amendment: Deleted by [Commission Decision of 26 August 2004 amending Decision 2002/994/EC concerning certain protective measures with regard to the products of animal origin imported from China (notified under document number C(2004) 3256) (Text with EEA relevance) (2004/621/EC)](https://www.legislation.gov.uk/eudn/2004/621).
 
-[^key-174cf675e4ffc0a6714f68ee3581136a]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eudn/2002/994/article/5) omitted (E.W.S.) (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/5)
+[^c-174cf675e4ffc0a6714f68ee3581136a]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eudn/2002/994/article/5) omitted (E.W.S.) (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/5)
 
 [^c000004]: Textual amendment: Substituted by [Commission Decision of 26 August 2004 amending Decision 2002/994/EC concerning certain protective measures with regard to the products of animal origin imported from China (notified under document number C(2004) 3256) (Text with EEA relevance) (2004/621/EC)](https://www.legislation.gov.uk/eudn/2004/621).
 
-[^key-4a29b2bf0524763d4af62b9d674b77d2]: Textual amendment: Words in [Art. 6](https://www.legislation.gov.uk/eudn/2002/994/article/6) substituted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(6)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/6)
+[^c-4a29b2bf0524763d4af62b9d674b77d2]: Textual amendment: Words in [Art. 6](https://www.legislation.gov.uk/eudn/2002/994/article/6) substituted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(6)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/6)
 
-[^key-42108edbec72ac18a11c519bbaf646c8]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eudn/2002/994/article/9) omitted (E.W.S.) (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(7)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/7)
+[^c-42108edbec72ac18a11c519bbaf646c8]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eudn/2002/994/article/9) omitted (E.W.S.) (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(7)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/7)
 
 [^c000005]: Textual amendment: Substituted by [Commission Implementing Decision (EU) 2015/1068 of 1 July 2015 amending Decision 2002/994/EC concerning certain protective measures with regard to the products of animal origin imported from China (notified under document C(2015) 4437) (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2015/1068).
 
-[^key-0af8d571f371af39039616242080da57]: Textual amendment: Words in [Annex Pt. 1](https://www.legislation.gov.uk/eudn/2002/994/annex/part/I) heading substituted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(8)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/8/a/i)
+[^c-0af8d571f371af39039616242080da57]: Textual amendment: Words in [Annex Pt. 1](https://www.legislation.gov.uk/eudn/2002/994/annex/part/I) heading substituted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(8)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/8/a/i)
 
 [^f00009]: Footnote: Regulation (EC) No 1069/2009 of the European Parliament and of the Council of[^c000005][^c000001] 21 October 2009 laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (Animal by-products Regulation) ( [OJ L 300, 14.11.2009, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.300.01.0001.01.ENG) ).
 
 [^f00010]: Footnote: Regulation (EC) No 1333/2008 of the European Parliament and of the Council of 16 December 2008 on food additives ( [OJ L 354, 31.12.2008, p. 16](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.354.01.0016.01.ENG) ).
 
-[^key-2adc533af57e32c7636d0f1c684b4a1c]: Textual amendment: Words in [Annex Pt. 1](https://www.legislation.gov.uk/eudn/2002/994/annex/part/I) substituted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/8/a/ii)
+[^c-2adc533af57e32c7636d0f1c684b4a1c]: Textual amendment: Words in [Annex Pt. 1](https://www.legislation.gov.uk/eudn/2002/994/annex/part/I) substituted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/8/a/ii)
 
 [^f00012]: Footnote: Commission Regulation (EU) No 68/2013 of 16 January 2013 on the Catalogue of feed materials ( [OJ L 29, 30.1.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.029.01.0001.01.ENG) ).
 
 [^f00013]: Footnote: Regulation (EC) No 1831/2003 of the European Parliament and of the Council of 22 September 2003 on additives for use in animal nutrition ( [OJ L 268, 18.10.2003, p. 29](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.268.01.0029.01.ENG) ).
 
-[^key-54cbbbad49b5cfba5b8d595e06f5a15e]: Textual amendment: Words in [Annex Pt. 2](https://www.legislation.gov.uk/eudn/2002/994/annex/part/II) heading substituted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(8)(b)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/8/b)
+[^c-54cbbbad49b5cfba5b8d595e06f5a15e]: Textual amendment: Words in [Annex Pt. 2](https://www.legislation.gov.uk/eudn/2002/994/annex/part/II) heading substituted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [6(8)(b)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/6/8/b)
 
 [^c000006]: Textual amendment: Substituted by [Commission Decision of 30 July 2008 amending Decision 2002/994/EC concerning certain protective measures with regard to products of animal origin imported from China (notified under document number C(2008) 3882) (Text with EEA relevance) (2008/639/EC)](https://www.legislation.gov.uk/eudn/2008/639).
 

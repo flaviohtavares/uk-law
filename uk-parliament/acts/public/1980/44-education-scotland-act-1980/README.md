@@ -31,7 +31,7 @@ Education (Scotland) Act 1980
 
 An Act to consolidate certain enactments relating to education in Scotland with amendments to give effect to recommendations of the Scottish Law Commission.
 
-\[1st August 1980\][^c9691101][^key-b35569fece7e49a00b56c68e125689ea][^key-ff130afd1acf4b91655175cda658851d]
+\[1st August 1980\][^c9691101][^c-b35569fece7e49a00b56c68e125689ea][^c-ff130afd1acf4b91655175cda658851d]
 
 ## Contents
 
@@ -181,14 +181,14 @@ An Act to consolidate certain enactments relating to education in Scotland with 
 - [Section 55 — Provision of food and clothing for pupils at schools other than public schools.](part-ii/section-55.md)
 - [Section 56 — Condition of provision of clothing by education authorities.](part-ii/section-56.md)
 
-#### Food and drink: nutritional requirements[^key-8608734752f764c044f7ab6f4a3b3395]
+#### Food and drink: nutritional requirements[^c-8608734752f764c044f7ab6f4a3b3395]
 
 - [Section 56A — Food and drink: nutritional requirements](part-ii/section-56a.md)
 - [Section 56B — Regulations under section 56A: further provision](part-ii/section-56b.md)
 - [Section 56C — Guidance](part-ii/section-56c.md)
 - [Section 56D — Application of sections 56A to 56C to grant-aided schools](part-ii/section-56d.md)
 
-#### Food and drink: guidance about sustainable development[^key-eca0b8ebd7d4f128a99473ff01c1351d]
+#### Food and drink: guidance about sustainable development[^c-eca0b8ebd7d4f128a99473ff01c1351d]
 
 - [Section 56E — Food and drink: guidance about sustainable development](part-ii/section-56e.md)
 
@@ -401,14 +401,14 @@ SCHEDULES
 
 [^c9691101]: Modification: Act applied (16.5.1992) by [Further and Higher Education (Scotland) Act 1992 (c. 37)](https://www.legislation.gov.uk/ukpga/1992/37), [s. 36(3)](https://www.legislation.gov.uk/ukpga/1992/37/section/36/3) (with [s. 30(2)](https://www.legislation.gov.uk/ukpga/1992/37/section/30/2)); [S.I. 1992/817](https://www.legislation.gov.uk/uksi/1992/817), [art. 3(2)](https://www.legislation.gov.uk/uksi/1992/817/article/3/2), [Sch.1](https://www.legislation.gov.uk/uksi/1992/817/schedule/1)
 
-[^key-b35569fece7e49a00b56c68e125689ea]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1980/44) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(c)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1907/schedule/2)
+[^c-b35569fece7e49a00b56c68e125689ea]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1980/44) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(c)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1907/schedule/2)
 
-[^key-ff130afd1acf4b91655175cda658851d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1980/44): power to modify conferred (1.2.2017) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 14(4)(a)](https://www.legislation.gov.uk/asp/2016/8/section/14/4/a), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
+[^c-ff130afd1acf4b91655175cda658851d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1980/44): power to modify conferred (1.2.2017) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 14(4)(a)](https://www.legislation.gov.uk/asp/2016/8/section/14/4/a), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
 
 [^c9694421]: Textual amendment: S. 48A inserted by [Education (No. 2) Act 1986 (c. 61, SIF 41:2)](https://www.legislation.gov.uk/ukpga/1986/61), [s. 48](https://www.legislation.gov.uk/ukpga/1986/61/section/48)
 
-[^key-8608734752f764c044f7ab6f4a3b3395]: Textual amendment: Ss. 56A-56D and cross-heading inserted (12.5.2008 for specified purposes, 4.8.2008 in so far as not already in force) by [Schools (Health Promotion and Nutrition) (Scotland) Act 2007 (asp 15)](https://www.legislation.gov.uk/asp/2007/15), [ss. 3](https://www.legislation.gov.uk/asp/2007/15/section/3), [11(2)](https://www.legislation.gov.uk/asp/2007/15/section/11/2); [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2008/171/article/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2008/171/article/2/2)
+[^c-8608734752f764c044f7ab6f4a3b3395]: Textual amendment: Ss. 56A-56D and cross-heading inserted (12.5.2008 for specified purposes, 4.8.2008 in so far as not already in force) by [Schools (Health Promotion and Nutrition) (Scotland) Act 2007 (asp 15)](https://www.legislation.gov.uk/asp/2007/15), [ss. 3](https://www.legislation.gov.uk/asp/2007/15/section/3), [11(2)](https://www.legislation.gov.uk/asp/2007/15/section/11/2); [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2008/171/article/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2008/171/article/2/2)
 
-[^key-eca0b8ebd7d4f128a99473ff01c1351d]: Textual amendment: S. 56E and cross-heading inserted (4.8.2008) by [Schools (Health Promotion and Nutrition) (Scotland) Act 2007 (asp 15)](https://www.legislation.gov.uk/asp/2007/15), [ss. 9](https://www.legislation.gov.uk/asp/2007/15/section/9), [11(2)](https://www.legislation.gov.uk/asp/2007/15/section/11/2); [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/171/article/2/2)
+[^c-eca0b8ebd7d4f128a99473ff01c1351d]: Textual amendment: S. 56E and cross-heading inserted (4.8.2008) by [Schools (Health Promotion and Nutrition) (Scotland) Act 2007 (asp 15)](https://www.legislation.gov.uk/asp/2007/15), [ss. 9](https://www.legislation.gov.uk/asp/2007/15/section/9), [11(2)](https://www.legislation.gov.uk/asp/2007/15/section/11/2); [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/171/article/2/2)
 
 [^c9700371]: Textual amendment: Crossheading inserted (1.11.1995) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 35](https://www.legislation.gov.uk/ukpga/1995/36/section/35) (with [ss. 90](https://www.legislation.gov.uk/ukpga/1995/36/section/90), [103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1995/2787](https://www.legislation.gov.uk/uksi/1995/2787), [art. 3](https://www.legislation.gov.uk/uksi/1995/2787/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1995/2787/schedule)

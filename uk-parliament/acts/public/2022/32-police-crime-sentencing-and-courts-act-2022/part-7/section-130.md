@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Increase in requisite custodial period for certain violent or sexual offenders[^key-1b11baf3c4dbae86299b30715e97437e]
+## 130. Increase in requisite custodial period for certain violent or sexual offenders[^c-1b11baf3c4dbae86299b30715e97437e]
 
 *Extent: E+W*
 
@@ -90,9 +90,9 @@ summary: ''
 
 (5) In section 261(5)(b) (application of release provisions to returning deported prisoner), after “244,” insert “244ZA,”.
 
-(6)[^key-f7b450552470894b21163c32f1137226] In section 264(6) (consecutive terms of imprisonment: meaning of custodial period), after paragraph (ca) (inserted by section 131) (but before the final “and”), insert— *(affected by repeal, see note)*[^key-f7b450552470894b21163c32f1137226]
+(6)[^c-f7b450552470894b21163c32f1137226] In section 264(6) (consecutive terms of imprisonment: meaning of custodial period), after paragraph (ca) (inserted by section 131) (but before the final “and”), insert— *(affected by repeal, see note)*[^c-f7b450552470894b21163c32f1137226]
 
-> - (cb (affected by repeal, see note))[^key-f7b450552470894b21163c32f1137226] in relation to a sentence in respect of which section 244ZA applies to the offender, two-thirds of the sentence, *(affected by repeal, see note)*[^key-f7b450552470894b21163c32f1137226]
+> - (cb (affected by repeal, see note))[^c-f7b450552470894b21163c32f1137226] in relation to a sentence in respect of which section 244ZA applies to the offender, two-thirds of the sentence, *(affected by repeal, see note)*[^c-f7b450552470894b21163c32f1137226]
 
 .
 
@@ -107,6 +107,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b11baf3c4dbae86299b30715e97437e]: Commencement: S. 130 in force at 28.6.2022, see [s. 208(5)(m)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/m)
+[^c-1b11baf3c4dbae86299b30715e97437e]: Commencement: S. 130 in force at 28.6.2022, see [s. 208(5)(m)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/m)
 
-[^key-f7b450552470894b21163c32f1137226]: Textual amendment: [S. 130(6)](https://www.legislation.gov.uk/ukpga/2022/32/section/130/6) omitted (1.10.2026 except in relation to sentences for excluded offences listed in Sch.) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 23(11)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/23/11/c), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 23(12)-(15)](https://www.legislation.gov.uk/ukpga/2026/2/section/23/12)); [S.I. 2026/953](https://www.legislation.gov.uk/uksi/2026/953), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2026/953/regulation/2/a), [5](https://www.legislation.gov.uk/uksi/2026/953/regulation/5), [Sch.](https://www.legislation.gov.uk/uksi/2026/953/schedule)
+[^c-f7b450552470894b21163c32f1137226]: Textual amendment: [S. 130(6)](https://www.legislation.gov.uk/ukpga/2022/32/section/130/6) omitted (1.10.2026 except in relation to sentences for excluded offences listed in Sch.) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 23(11)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/23/11/c), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 23(12)-(15)](https://www.legislation.gov.uk/ukpga/2026/2/section/23/12)); [S.I. 2026/953](https://www.legislation.gov.uk/uksi/2026/953), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2026/953/regulation/2/a), [5](https://www.legislation.gov.uk/uksi/2026/953/regulation/5), [Sch.](https://www.legislation.gov.uk/uksi/2026/953/schedule)

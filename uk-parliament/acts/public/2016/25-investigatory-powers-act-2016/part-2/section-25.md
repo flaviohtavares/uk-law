@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Failure to approve warrant issued in urgent case[^key-602bab27faa2bc66d2168c556674d8d4]
+## 25. Failure to approve warrant issued in urgent case[^c-602bab27faa2bc66d2168c556674d8d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-602bab27faa2bc66d2168c556674d8d4]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2016/25/section/25) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(c)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/c)
+[^c-602bab27faa2bc66d2168c556674d8d4]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2016/25/section/25) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(c)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/c)

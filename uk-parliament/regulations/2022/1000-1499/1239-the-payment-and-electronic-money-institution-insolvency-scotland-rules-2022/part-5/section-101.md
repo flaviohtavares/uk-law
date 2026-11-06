@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Costs of making a claim[^key-7575f21b626b4d3c16060016a87ecada]
+## 101. Costs of making a claim[^c-7575f21b626b4d3c16060016a87ecada]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Unless the court orders otherwise, every claimant under rule 99 bears the cost o
 
 ## Annotations
 
-[^key-7575f21b626b4d3c16060016a87ecada]: Commencement: Rule 101 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-7575f21b626b4d3c16060016a87ecada]: Commencement: Rule 101 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

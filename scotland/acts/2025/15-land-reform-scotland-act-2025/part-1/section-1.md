@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Community-engagement obligations in relation to large land holding[^key-3ba8c3c8eb9c125923579ac5964d919a]
+## 1. Community-engagement obligations in relation to large land holding[^c-3ba8c3c8eb9c125923579ac5964d919a]
 
 *Extent: S*
 
@@ -458,4 +458,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ba8c3c8eb9c125923579ac5964d919a]: Commencement: S. 1 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-3ba8c3c8eb9c125923579ac5964d919a]: Commencement: S. 1 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

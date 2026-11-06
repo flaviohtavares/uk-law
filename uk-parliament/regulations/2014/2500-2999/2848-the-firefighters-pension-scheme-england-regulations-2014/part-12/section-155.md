@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Notice of appeal[^key-33773990bad38d777ebae5f8c78769fc]
+## 155. Notice of appeal[^c-33773990bad38d777ebae5f8c78769fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ the scheme manager may extend the period for giving notice for such length, not 
 
 ## Annotations
 
-[^key-33773990bad38d777ebae5f8c78769fc]: Commencement: [Reg. 155](https://www.legislation.gov.uk/uksi/2014/2848/regulation/155) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-33773990bad38d777ebae5f8c78769fc]: Commencement: [Reg. 155](https://www.legislation.gov.uk/uksi/2014/2848/regulation/155) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

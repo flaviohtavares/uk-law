@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Proof of compliance with consent condition[^key-cc51209e82d047c39b09f96872fb1191]
+## 30. Proof of compliance with consent condition[^c-cc51209e82d047c39b09f96872fb1191]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ In Article 16 of the Order (onus of proof as regards techniques and evidence) in
 
 ## Annotations
 
-[^key-cc51209e82d047c39b09f96872fb1191]: Commencement: Reg. 30 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-cc51209e82d047c39b09f96872fb1191]: Commencement: Reg. 30 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

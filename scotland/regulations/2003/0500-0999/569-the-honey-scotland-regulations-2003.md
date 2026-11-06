@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Honey (Scotland) Regulations 2003 (revoked)[^key-819af997f783c8bec4c88d97a6a5ada3]
+The Honey (Scotland) Regulations 2003 (revoked)[^c-819af997f783c8bec4c88d97a6a5ada3]
 
 Made
 
@@ -45,98 +45,98 @@ Coming into force
 
 18th December 2003
 
-[^key-819af997f783c8bec4c88d97a6a5ada3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-819af997f783c8bec4c88d97a6a5ada3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-819af997f783c8bec4c88d97a6a5ada3]
+## 1. Citation, commencement and extent[^c-819af997f783c8bec4c88d97a6a5ada3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-819af997f783c8bec4c88d97a6a5ada3]
+## 2. Interpretation[^c-819af997f783c8bec4c88d97a6a5ada3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Scope[^key-819af997f783c8bec4c88d97a6a5ada3]
+## 3. Scope[^c-819af997f783c8bec4c88d97a6a5ada3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Reserved descriptions[^key-819af997f783c8bec4c88d97a6a5ada3]
+## 4. Reserved descriptions[^c-819af997f783c8bec4c88d97a6a5ada3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Labelling and description of specified honey products[^key-819af997f783c8bec4c88d97a6a5ada3]
+## 5. Labelling and description of specified honey products[^c-819af997f783c8bec4c88d97a6a5ada3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Sale of filtered honey or baker’s honey in bulk containers or packs[^key-819af997f783c8bec4c88d97a6a5ada3]
+## 6. Sale of filtered honey or baker’s honey in bulk containers or packs[^c-819af997f783c8bec4c88d97a6a5ada3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Manner of marking or labelling[^key-819af997f783c8bec4c88d97a6a5ada3]
+## 7. Manner of marking or labelling[^c-819af997f783c8bec4c88d97a6a5ada3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Penalties and enforcement[^key-819af997f783c8bec4c88d97a6a5ada3]
+## 8. Penalties and enforcement[^c-819af997f783c8bec4c88d97a6a5ada3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Defence in relation to exports[^key-819af997f783c8bec4c88d97a6a5ada3]
+## 9. Defence in relation to exports[^c-819af997f783c8bec4c88d97a6a5ada3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Application of various provisions of the Act[^key-819af997f783c8bec4c88d97a6a5ada3]
+## 10. Application of various provisions of the Act[^c-819af997f783c8bec4c88d97a6a5ada3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Transitional provisions[^key-819af997f783c8bec4c88d97a6a5ada3]
+## 11. Transitional provisions[^c-819af997f783c8bec4c88d97a6a5ada3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment and revocations[^key-819af997f783c8bec4c88d97a6a5ada3]
+## 12. Amendment and revocations[^c-819af997f783c8bec4c88d97a6a5ada3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-819af997f783c8bec4c88d97a6a5ada3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-819af997f783c8bec4c88d97a6a5ada3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — SPECIFIED HONEY PRODUCTS AND THEIR RESERVED DESCRIPTIONS[^key-819af997f783c8bec4c88d97a6a5ada3]
+## SCHEDULE 1 — SPECIFIED HONEY PRODUCTS AND THEIR RESERVED DESCRIPTIONS[^c-819af997f783c8bec4c88d97a6a5ada3]
 
 Regulation 2(1)
 
-[^key-819af997f783c8bec4c88d97a6a5ada3]
+[^c-819af997f783c8bec4c88d97a6a5ada3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-819af997f783c8bec4c88d97a6a5ada3]
+[^c-819af997f783c8bec4c88d97a6a5ada3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-819af997f783c8bec4c88d97a6a5ada3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-819af997f783c8bec4c88d97a6a5ada3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-819af997f783c8bec4c88d97a6a5ada3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-819af997f783c8bec4c88d97a6a5ada3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-819af997f783c8bec4c88d97a6a5ada3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-819af997f783c8bec4c88d97a6a5ada3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — SPECIFICATIONS FOR SPECIFIED HONEY PRODUCTS[^key-819af997f783c8bec4c88d97a6a5ada3]
+## SCHEDULE 2 — SPECIFICATIONS FOR SPECIFIED HONEY PRODUCTS[^c-819af997f783c8bec4c88d97a6a5ada3]
 
 Regulation 2(2)
 
-[^key-819af997f783c8bec4c88d97a6a5ada3]
+[^c-819af997f783c8bec4c88d97a6a5ada3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-819af997f783c8bec4c88d97a6a5ada3]
+[^c-819af997f783c8bec4c88d97a6a5ada3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-819af997f783c8bec4c88d97a6a5ada3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-819af997f783c8bec4c88d97a6a5ada3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-819af997f783c8bec4c88d97a6a5ada3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-819af997f783c8bec4c88d97a6a5ada3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-819af997f783c8bec4c88d97a6a5ada3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-819af997f783c8bec4c88d97a6a5ada3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-819af997f783c8bec4c88d97a6a5ada3]: Textual amendment: Regulations revoked (24.6.2015) by [The Honey (Scotland) Regulations 2015 (S.S.I. 2015/208)](https://www.legislation.gov.uk/ssi/2015/208), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/208/regulation/1/2), [19](https://www.legislation.gov.uk/ssi/2015/208/regulation/19) (with [reg. 21](https://www.legislation.gov.uk/ssi/2015/208/regulation/21))
+[^c-819af997f783c8bec4c88d97a6a5ada3]: Textual amendment: Regulations revoked (24.6.2015) by [The Honey (Scotland) Regulations 2015 (S.S.I. 2015/208)](https://www.legislation.gov.uk/ssi/2015/208), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/208/regulation/1/2), [19](https://www.legislation.gov.uk/ssi/2015/208/regulation/19) (with [reg. 21](https://www.legislation.gov.uk/ssi/2015/208/regulation/21))

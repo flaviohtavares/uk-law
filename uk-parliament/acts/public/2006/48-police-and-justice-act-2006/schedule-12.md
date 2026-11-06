@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 12 — Schedule to be inserted into the Protection of Children (Northern Ireland) Order 1978[^key-2aaaacee31337fd3f4e65d363c61d0a3]
+## SCHEDULE 12 — Schedule to be inserted into the Protection of Children (Northern Ireland) Order 1978[^c-2aaaacee31337fd3f4e65d363c61d0a3]
 
 *Extent: N.I.*
 
@@ -261,4 +261,4 @@ Section 40
 
 ## Annotations
 
-[^key-2aaaacee31337fd3f4e65d363c61d0a3]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/48/schedule/12) in force at 1.4.2008 by [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/790/article/3/a)
+[^c-2aaaacee31337fd3f4e65d363c61d0a3]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/48/schedule/12) in force at 1.4.2008 by [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/790/article/3/a)

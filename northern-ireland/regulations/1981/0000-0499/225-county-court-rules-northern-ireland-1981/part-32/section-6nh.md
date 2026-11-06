@@ -24,7 +24,7 @@ summary: ''
 
 (2) A party who wishes to adduce hearsay evidence shall give notice in Form 137R.
 
-(3) Notice under paragraph (2) shall be served on the chief clerk [^key-296974b7fbfcb60c8a251efca5c787bb]... and on every other party to the appeal within 14 days from the date of the service of notice of appeal from the decision of a magistrates’ court.
+(3) Notice under paragraph (2) shall be served on the chief clerk [^c-296974b7fbfcb60c8a251efca5c787bb]... and on every other party to the appeal within 14 days from the date of the service of notice of appeal from the decision of a magistrates’ court.
 
 (4) Any party who wishes to oppose the admission of hearsay evidence under paragraph (2) shall, within 14 days from the date on which notice was served on him, notify the chief clerk and every other party to the appeal, in Form 137S, of his opposition.
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-296974b7fbfcb60c8a251efca5c787bb]: Textual amendment: Words in Order 32 rule 6NH(3) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(11)(h)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/11/h); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-296974b7fbfcb60c8a251efca5c787bb]: Textual amendment: Words in Order 32 rule 6NH(3) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(11)(h)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/11/h); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)

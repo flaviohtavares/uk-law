@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1A. Application to certain persons serving more than one sentence.[^c12922381][^c12922391][^c12922371][^key-d1d7ef0e1e8fbae4eca30f12d3dc7f3a]
+## 1A. Application to certain persons serving more than one sentence.[^c12922381][^c12922391][^c12922371][^c-d1d7ef0e1e8fbae4eca30f12d3dc7f3a]
 
 *Extent: S*
 
@@ -41,7 +41,7 @@ summary: ''
 
 [^c12922371]: Modification: S. 1A excluded (17.12.2001) by [2001 asp 13](https://www.legislation.gov.uk/asp/2001/13), [s. 24(c)](https://www.legislation.gov.uk/asp/2001/13/section/24/c) (with [s. 29](https://www.legislation.gov.uk/asp/2001/13/section/29)); [S.S.I. 2001/456](https://www.legislation.gov.uk/ssi/2001/456), [art. 2](https://www.legislation.gov.uk/ssi/2001/456/article/2)
 
-[^key-d1d7ef0e1e8fbae4eca30f12d3dc7f3a]: Textual amendment: Word in s. 1A heading inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 52(5)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/52/5)
+[^c-d1d7ef0e1e8fbae4eca30f12d3dc7f3a]: Textual amendment: Word in s. 1A heading inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 52(5)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/52/5)
 
 [^c20988371]: Textual amendment: S. 1A renumbered as s. 1A(1) (1.12.2003) by virtue of [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 30(a)](https://www.legislation.gov.uk/asp/2003/7/section/30/a), [89(2)](https://www.legislation.gov.uk/asp/2003/7/section/89/2); [S.S.I. 2003/475](https://www.legislation.gov.uk/ssi/2003/475), [art. 2](https://www.legislation.gov.uk/ssi/2003/475/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/475/schedule)
 

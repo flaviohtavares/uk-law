@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## H2. Continuity of employment and preservation of status[^key-cadc2712263e211735c1ad329037861f]
+## H2. Continuity of employment and preservation of status[^c-cadc2712263e211735c1ad329037861f]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cadc2712263e211735c1ad329037861f]: Commencement: [Reg. H2](https://www.legislation.gov.uk/uksi/1986/24/regulation/H2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-cadc2712263e211735c1ad329037861f]: Commencement: [Reg. H2](https://www.legislation.gov.uk/uksi/1986/24/regulation/H2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

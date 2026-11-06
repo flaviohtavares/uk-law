@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Debts of insolvent company to rank equally[^key-3d4ea8ace9596c5cf8380928605e1b7f]
+## 37. Debts of insolvent company to rank equally[^c-3d4ea8ace9596c5cf8380928605e1b7f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Debts other than preferential debts rank equally between themselves in the energ
 
 ## Annotations
 
-[^key-3d4ea8ace9596c5cf8380928605e1b7f]: Commencement: Rule 37 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-3d4ea8ace9596c5cf8380928605e1b7f]: Commencement: Rule 37 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

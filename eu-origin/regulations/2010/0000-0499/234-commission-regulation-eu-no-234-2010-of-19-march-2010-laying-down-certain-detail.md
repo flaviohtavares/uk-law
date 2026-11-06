@@ -36,130 +36,130 @@ laying down certain detailed rules for the application of Council Regulation (EC
 
 (codified version) (revoked)
 
-[^key-60ba7e4727552920a23016d23586ac97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60ba7e4727552920a23016d23586ac97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.**[^c-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 13.**[^key-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 13.**[^c-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 14.**[^key-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 14.**[^c-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 15.**[^key-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 15.**[^c-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 16.**[^key-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 16.**[^c-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 17.**[^key-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 17.**[^c-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 18.**[^key-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 18.**[^c-60ba7e4727552920a23016d23586ac97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60ba7e4727552920a23016d23586ac97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60ba7e4727552920a23016d23586ac97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-60ba7e4727552920a23016d23586ac97]
+## ANNEX I[^c-60ba7e4727552920a23016d23586ac97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Method of determining the ash content of flour[^key-60ba7e4727552920a23016d23586ac97]
+## ANNEX II — Method of determining the ash content of flour[^c-60ba7e4727552920a23016d23586ac97]
 
-[^key-60ba7e4727552920a23016d23586ac97]APPARATUS
+[^c-60ba7e4727552920a23016d23586ac97]APPARATUS
 
-[^key-60ba7e4727552920a23016d23586ac97]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-60ba7e4727552920a23016d23586ac97]2.
+[^c-60ba7e4727552920a23016d23586ac97]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60ba7e4727552920a23016d23586ac97]3.
+[^c-60ba7e4727552920a23016d23586ac97]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60ba7e4727552920a23016d23586ac97]4.
+[^c-60ba7e4727552920a23016d23586ac97]3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-60ba7e4727552920a23016d23586ac97]4.
 
 Desiccator (with an internal diameter of about 18 cm) fitted with a neck and a perforated plate, in porcelain or aluminium.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60ba7e4727552920a23016d23586ac97]METHOD
+[^c-60ba7e4727552920a23016d23586ac97]METHOD
 
-[^key-60ba7e4727552920a23016d23586ac97]1.
+[^c-60ba7e4727552920a23016d23586ac97]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60ba7e4727552920a23016d23586ac97]2.
+[^c-60ba7e4727552920a23016d23586ac97]2.
 
 Immediately before use the dishes must be heated in the muffle kiln at incineration temperature to constant weight; a period of 15 minutes is usually sufficient.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60ba7e4727552920a23016d23586ac97]3.
+[^c-60ba7e4727552920a23016d23586ac97]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60ba7e4727552920a23016d23586ac97]4.
+[^c-60ba7e4727552920a23016d23586ac97]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60ba7e4727552920a23016d23586ac97]5.
+[^c-60ba7e4727552920a23016d23586ac97]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60ba7e4727552920a23016d23586ac97]6.
+[^c-60ba7e4727552920a23016d23586ac97]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60ba7e4727552920a23016d23586ac97]7.
+[^c-60ba7e4727552920a23016d23586ac97]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60ba7e4727552920a23016d23586ac97]RESULTS
+[^c-60ba7e4727552920a23016d23586ac97]RESULTS
 
-[^key-60ba7e4727552920a23016d23586ac97]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-60ba7e4727552920a23016d23586ac97]2.
+[^c-60ba7e4727552920a23016d23586ac97]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Formulas referred to in the second paragraph of Article 12[^key-60ba7e4727552920a23016d23586ac97]
+[^c-60ba7e4727552920a23016d23586ac97]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-60ba7e4727552920a23016d23586ac97]
+## ANNEX III — Formulas referred to in the second paragraph of Article 12[^c-60ba7e4727552920a23016d23586ac97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V[^key-60ba7e4727552920a23016d23586ac97]
+## ANNEX IV[^c-60ba7e4727552920a23016d23586ac97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX V[^c-60ba7e4727552920a23016d23586ac97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-60ba7e4727552920a23016d23586ac97]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-60ba7e4727552920a23016d23586ac97]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Collective money purchase benefits and schemes[^c24458061][^key-7ec1d36e0ccbafb10be82719604dda54]
+## 1. Collective money purchase benefits and schemes[^c24458061][^c-7ec1d36e0ccbafb10be82719604dda54]
 
 *Extent: E+W+S*
 
@@ -32,7 +32,7 @@ summary: ''
 
 under which all of the benefits that may be provided are qualifying benefits.
 
-(3)[^key-14081af72133ed928b80c613c801cf72] In this Part—
+(3)[^c-14081af72133ed928b80c613c801cf72] In this Part—
 
 - “**single or connected employer scheme**” means a collective money purchase scheme not used, or intended to be used, by any employers other than—
   - (a) a single employer, or
@@ -43,6 +43,6 @@ under which all of the benefits that may be provided are qualifying benefits.
 
 [^c24458061]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/1/section/1) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-7ec1d36e0ccbafb10be82719604dda54]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/1/section/1) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-7ec1d36e0ccbafb10be82719604dda54]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/1/section/1) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
 
-[^key-14081af72133ed928b80c613c801cf72]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/1/3) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [3(1)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/3/1)
+[^c-14081af72133ed928b80c613c801cf72]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/1/3) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [3(1)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/3/1)

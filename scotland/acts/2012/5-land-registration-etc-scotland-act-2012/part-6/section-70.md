@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Restriction of caveat[^key-5c1944f7dd477ac40e459979ad40686a]
+## 70. Restriction of caveat[^c-5c1944f7dd477ac40e459979ad40686a]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ make an order restricting the caveat.
 
 ## Annotations
 
-[^key-5c1944f7dd477ac40e459979ad40686a]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2012/5/section/70) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-5c1944f7dd477ac40e459979ad40686a]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2012/5/section/70) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

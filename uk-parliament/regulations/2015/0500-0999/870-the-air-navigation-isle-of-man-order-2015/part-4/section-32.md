@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Equipment of aircraft[^key-c3f638049b0702be25b6aaf21c0f0e80]
+## 32. Equipment of aircraft[^c-c3f638049b0702be25b6aaf21c0f0e80]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3f638049b0702be25b6aaf21c0f0e80]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2015/870/article/32) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-c3f638049b0702be25b6aaf21c0f0e80]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2015/870/article/32) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

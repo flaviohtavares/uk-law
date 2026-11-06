@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The Education (Prescribed Courses of Higher Education) (Information Requirements) (England) Regulations 2014 (revoked)[^key-401cdbfcfc31517ce88282e907170f90]
+The Education (Prescribed Courses of Higher Education) (Information Requirements) (England) Regulations 2014 (revoked)[^c-401cdbfcfc31517ce88282e907170f90]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 8th September 2014
 
-[^key-401cdbfcfc31517ce88282e907170f90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-401cdbfcfc31517ce88282e907170f90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-401cdbfcfc31517ce88282e907170f90]
+## 1. Citation, commencement and application[^c-401cdbfcfc31517ce88282e907170f90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed courses for purposes of section 79(c) of the Further and Higher Education Act 1992[^key-401cdbfcfc31517ce88282e907170f90]
+## 2. Prescribed courses for purposes of section 79(c) of the Further and Higher Education Act 1992[^c-401cdbfcfc31517ce88282e907170f90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-401cdbfcfc31517ce88282e907170f90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-401cdbfcfc31517ce88282e907170f90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-401cdbfcfc31517ce88282e907170f90]
+## SCHEDULE[^c-401cdbfcfc31517ce88282e907170f90]
 
 Regulation 2
 
@@ -70,8 +70,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-401cdbfcfc31517ce88282e907170f90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-401cdbfcfc31517ce88282e907170f90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-401cdbfcfc31517ce88282e907170f90]: Textual amendment: Regulations revoked (1.4.2015) by [The Education (Prescribed Courses of Higher Education) (Information Requirements) (England) Regulations 2015 (S.I. 2015/225)](https://www.legislation.gov.uk/uksi/2015/225), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/225/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/225/regulation/3)
+[^c-401cdbfcfc31517ce88282e907170f90]: Textual amendment: Regulations revoked (1.4.2015) by [The Education (Prescribed Courses of Higher Education) (Information Requirements) (England) Regulations 2015 (S.I. 2015/225)](https://www.legislation.gov.uk/uksi/2015/225), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/225/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/225/regulation/3)

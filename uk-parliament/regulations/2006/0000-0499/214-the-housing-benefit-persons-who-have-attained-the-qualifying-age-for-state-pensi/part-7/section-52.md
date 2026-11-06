@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 52. Amount payable during extended payment period when an extended payment is payable pursuant to regulation 72 or 73 of the Housing Benefit Regulations[^key-6a9a953e4e59d0e03628db5a7f87189e]
+## 52. Amount payable during extended payment period when an extended payment is payable pursuant to regulation 72 or 73 of the Housing Benefit Regulations[^c-6a9a953e4e59d0e03628db5a7f87189e]
 
 (1) This regulation applies where—
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a9a953e4e59d0e03628db5a7f87189e]: Textual amendment: Reg. 52 substituted (6.10.2008) by [Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2008/959/regulation/6/3)
+[^c-6a9a953e4e59d0e03628db5a7f87189e]: Textual amendment: Reg. 52 substituted (6.10.2008) by [Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2008/959/regulation/6/3)

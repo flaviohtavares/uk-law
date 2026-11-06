@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Review of Act[^key-8d1e7b39b8a7e45fdc38ed0cbbb0f67f]
+## 165. Review of Act[^c-8d1e7b39b8a7e45fdc38ed0cbbb0f67f]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d1e7b39b8a7e45fdc38ed0cbbb0f67f]: Commencement: S. 165 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)
+[^c-8d1e7b39b8a7e45fdc38ed0cbbb0f67f]: Commencement: S. 165 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)

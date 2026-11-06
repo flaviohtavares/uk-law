@@ -103,7 +103,7 @@ Section 74(1).
 
 ### The Car Tax Act 1983 (c. 53.)
 
-**3.**[^key-a6b3359a084995a49bf407c2da876c22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a6b3359a084995a49bf407c2da876c22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Value Added Tax Act 1983 (c. 55.)
 
@@ -111,6 +111,6 @@ Section 74(1).
 
 ## Annotations
 
-[^key-a6b3359a084995a49bf407c2da876c22]: Textual amendment: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/1987/18/schedule/4/paragraph/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 5
+[^c-a6b3359a084995a49bf407c2da876c22]: Textual amendment: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/1987/18/schedule/4/paragraph/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 5
 
 [^c9364071]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/1987/18/schedule/4/paragraph/4) repealed (1.9.1994) by [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23), [ss. 100(2)](https://www.legislation.gov.uk/ukpga/1994/23/section/100/2), [101(1)](https://www.legislation.gov.uk/ukpga/1994/23/section/101/1), [Sch. 15](https://www.legislation.gov.uk/ukpga/1994/23/schedule/15)

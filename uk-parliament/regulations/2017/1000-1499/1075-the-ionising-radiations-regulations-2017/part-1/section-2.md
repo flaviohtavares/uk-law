@@ -29,12 +29,12 @@ summary: ''
 - “**approved dosimetry service**” means a dosimetry service approved in accordance with regulation 36;
 - “**authorised defence site**” has the meaning given by regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations 1998 [^c23074381];
 - “**calendar year**” means a period of 12 months beginning with the 1st January;
-- “carers and comforters” means individuals knowingly and willingly incurring an exposure to ionising radiation by helping, other than as part of their occupation, in the support and comfort of individuals undergoing or having undergone a medical exposure (other than as a carer and comforter);[^key-f85791e0df57c391afd6d9f48bcf537a]
+- “carers and comforters” means individuals knowingly and willingly incurring an exposure to ionising radiation by helping, other than as part of their occupation, in the support and comfort of individuals undergoing or having undergone a medical exposure (other than as a carer and comforter);[^c-f85791e0df57c391afd6d9f48bcf537a]
 - “**classified outside worker**” means a classified person who carries out services in the controlled area of any employer (other than the controlled area of their own employer);
 - “**classified person**” means—
   - (a) a person designated as such pursuant to regulation 21(1); and
-  - (b) in the case of a classified outside worker employed by an undertaking in Northern Ireland or in a member State[^key-866fcc7dd8dad5a1c4b452f960390325], a person who has been designated as a category A exposed worker within the meaning of Article 40 of the Directive;
-- [^key-292346475847514cdceee9418eebf13f]...
+  - (b) in the case of a classified outside worker employed by an undertaking in Northern Ireland or in a member State[^c-866fcc7dd8dad5a1c4b452f960390325], a person who has been designated as a category A exposed worker within the meaning of Article 40 of the Directive;
+- [^c-292346475847514cdceee9418eebf13f]...
 - “**contamination**” means the unintended or undesirable presence of radioactive substances on surfaces or within solids, liquids or gases or on the human body, and “**contaminated**” is to be construed accordingly;
 - “**controlled area**” means—
   - (a) in the case of an area situated in Great Britain, an area which has been so designated in accordance with regulation 17(1); and
@@ -62,7 +62,7 @@ summary: ''
   - (b) individuals as part of health screening programmes;
   - (c) patients or other persons voluntarily participating in medical or biomedical, diagnostic or therapeutic, research programmes;
   - (d) individuals undergoing non-medical imaging using medical radiological equipment;
-  - (e) carers and comforters;[^key-3ef3095fec6a420ca999fe8cd4bb023b]
+  - (e) carers and comforters;[^c-3ef3095fec6a420ca999fe8cd4bb023b]
 - “**member State**” means a member State of the European Union;
 - “**new nuclear build site**” has the meaning given by regulation 2A of the Health and Safety (Enforcing Authority) Regulations 1998;
 - “**non-classified outside worker**” means a person who is not a classified person who carries out services in the supervised or, pursuant to regulation 19(3)(c), controlled area of any employer (other than the supervised or controlled area of their own employer);
@@ -137,11 +137,11 @@ summary: ''
 
 [^c23074381]: Marginal citation: [S.I. 1998/494](https://www.legislation.gov.uk/uksi/1998/494), amended by [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469); there are other amending instruments but none is relevant.
 
-[^key-f85791e0df57c391afd6d9f48bcf537a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/1) inserted (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations 2017 (S.I. 2017/1322)](https://www.legislation.gov.uk/uksi/2017/1322), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1), [Sch. 4 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/3/2/b)
+[^c-f85791e0df57c391afd6d9f48bcf537a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/1) inserted (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations 2017 (S.I. 2017/1322)](https://www.legislation.gov.uk/uksi/2017/1322), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1), [Sch. 4 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/3/2/b)
 
-[^key-866fcc7dd8dad5a1c4b452f960390325]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/1) substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/12/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/12/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-866fcc7dd8dad5a1c4b452f960390325]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/1) substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/12/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/12/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-292346475847514cdceee9418eebf13f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/1) omitted (6.2.2018) by virtue of [The Ionising Radiation (Medical Exposure) Regulations 2017 (S.I. 2017/1322)](https://www.legislation.gov.uk/uksi/2017/1322), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1), [Sch. 4 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/3/2/a)
+[^c-292346475847514cdceee9418eebf13f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/1) omitted (6.2.2018) by virtue of [The Ionising Radiation (Medical Exposure) Regulations 2017 (S.I. 2017/1322)](https://www.legislation.gov.uk/uksi/2017/1322), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1), [Sch. 4 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/3/2/a)
 
 [^c23074391]: Marginal citation: OJ No L 13, 17.1.14, p1-73.
 
@@ -155,7 +155,7 @@ summary: ''
 
 [^c23074441]: Marginal citation: OJ No L 346, 31.12.03, p57-64.
 
-[^key-3ef3095fec6a420ca999fe8cd4bb023b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/1) inserted (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations 2017 (S.I. 2017/1322)](https://www.legislation.gov.uk/uksi/2017/1322), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1), [Sch. 4 para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/3/2/c)
+[^c-3ef3095fec6a420ca999fe8cd4bb023b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/1) inserted (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations 2017 (S.I. 2017/1322)](https://www.legislation.gov.uk/uksi/2017/1322), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1), [Sch. 4 para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/3/2/c)
 
 [^c23074451]: Marginal citation: [2013 c. 32](https://www.legislation.gov.uk/ukpga/2013/32).
 

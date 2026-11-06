@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 242. Service detention: general restriction[^key-5dc4f3f5132973cc7ef847fcad0fd6b8][^key-e7ab0ed8a2745d52c23df853acd427d5][^key-cdc0a203b63363f7c43c67d85780fa46]
+## 242. Service detention: general restriction[^c-5dc4f3f5132973cc7ef847fcad0fd6b8][^c-e7ab0ed8a2745d52c23df853acd427d5][^c-cdc0a203b63363f7c43c67d85780fa46]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,8 +37,8 @@ unless the officer or court is of the opinion that the offence it is in respect 
 
 ## Annotations
 
-[^key-5dc4f3f5132973cc7ef847fcad0fd6b8]: Commencement: S. 242 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-5dc4f3f5132973cc7ef847fcad0fd6b8]: Commencement: S. 242 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-e7ab0ed8a2745d52c23df853acd427d5]: Commencement: S. 242 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-e7ab0ed8a2745d52c23df853acd427d5]: Commencement: S. 242 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-cdc0a203b63363f7c43c67d85780fa46]: Modification: S. 242 applied (31.10.2009) by [The Armed Forces (Court Martial) Rules 2009 (S.I. 2009/2041)](https://www.legislation.gov.uk/uksi/2009/2041), [art. 1](https://www.legislation.gov.uk/uksi/2009/2041/article/1), [rule 161(9)](https://www.legislation.gov.uk/uksi/2009/2041/rule/161/9)
+[^c-cdc0a203b63363f7c43c67d85780fa46]: Modification: S. 242 applied (31.10.2009) by [The Armed Forces (Court Martial) Rules 2009 (S.I. 2009/2041)](https://www.legislation.gov.uk/uksi/2009/2041), [art. 1](https://www.legislation.gov.uk/uksi/2009/2041/article/1), [rule 161(9)](https://www.legislation.gov.uk/uksi/2009/2041/rule/161/9)

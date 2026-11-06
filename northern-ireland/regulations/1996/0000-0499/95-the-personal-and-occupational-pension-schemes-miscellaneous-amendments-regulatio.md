@@ -40,13 +40,13 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 24(1A), (4) and (5), 24A(3) and (5), 25(4), 40, 44(2), 109 and 151 of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-c384aaacaff94926b222426cb23f0853]
+## 1. Citation, commencement and interpretation[^c-c384aaacaff94926b222426cb23f0853]
 
 (1) These Regulations may be cited as the Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 1996 and shall come into operation on 6th April 1996.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Amendment of the Occupational Pension Schemes (Contracting-out) Regulations[^key-eb67479cbc3274b46000dfac88d3058f]
+## 2. Amendment of the Occupational Pension Schemes (Contracting-out) Regulations[^c-eb67479cbc3274b46000dfac88d3058f]
 
 In regulation 40 of the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1985[^f00003] (notifications to the Department) after sub-paragraph (*d*) of paragraph (4A)[^f00004] there shall be added the following sub-paragraph—
 
@@ -54,7 +54,7 @@ In regulation 40 of the Occupational Pension Schemes (Contracting-out) Regulatio
 
 .
 
-## 3. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^key-3f86ad1211f7b82c926fb34e9c96c20b]
+## 3. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^c-3f86ad1211f7b82c926fb34e9c96c20b]
 
 (1) The Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1987[^f00006] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -68,7 +68,7 @@ In regulation 40 of the Occupational Pension Schemes (Contracting-out) Regulatio
 
 (4) In paragraph 7 of Schedule 1 after “annuities,” there shall be inserted “discharged by the making of payments under an interim arrangement”.
 
-## 4. Amendment of the Personal and Occupational Pension Schemes (Abatement of Benefit) Regulations[^key-e7baea894b6fafb756720a3c5d4ca5c2]
+## 4. Amendment of the Personal and Occupational Pension Schemes (Abatement of Benefit) Regulations[^c-e7baea894b6fafb756720a3c5d4ca5c2]
 
 (1) The Personal and Occupational Pension Schemes (Abatement of Benefit) Regulations (Northern Ireland) 1987[^f00007] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -76,7 +76,7 @@ In regulation 40 of the Occupational Pension Schemes (Contracting-out) Regulatio
 
 (3) In regulation 5(1)[^f00010] (guaranteed minimum pension to which earner’s widow or widower is treated as entitled after minimum payments have been made) for “reaching pensionable age” in each place where it occurs there shall be substituted “effect is given to protected rights (including rights treated as protected rights as a consequence of regulation 6(1)(*c*)(i) of the Occupational Pension Schemes (Discharge of Protected Rights on Winding Up) Regulations (Northern Ireland) 1996[^f00011] under section 24(2)(*a*), (3) or (4) or as a consequence of regulations made under Article 142 of the Pensions (Northern Ireland) Order 1995 (extension of interim arrangements for giving effect to protected rights)”.
 
-## 5. Amendment of the Personal and Occupational Pension Schemes (Protected Rights) Regulations[^key-2aa26fd851391aca15f6271b60689430]
+## 5. Amendment of the Personal and Occupational Pension Schemes (Protected Rights) Regulations[^c-2aa26fd851391aca15f6271b60689430]
 
 (1) The Personal and Occupational Pension Schemes (Protected Rights) Regulations (Northern Ireland) 1987[^f00012] shall be amended in accordance with paragraphs (2) to (8).
 
@@ -168,7 +168,7 @@ In regulation 40 of the Occupational Pension Schemes (Contracting-out) Regulatio
 
   .
 
-## 6. Amendment of the Personal Pension Schemes (Appropriate Schemes) Regulations[^key-5171514fea15a7ea9a9f3d9938ea3826]
+## 6. Amendment of the Personal Pension Schemes (Appropriate Schemes) Regulations[^c-5171514fea15a7ea9a9f3d9938ea3826]
 
 In regulation 12 of the Personal Pension Schemes (Appropriate Schemes) Regulations (Northern Ireland) 1988[^f00019] (notice to the Department by an earner and the trustees or managers) for paragraphs (2) and (2A)[^f00020] there shall be substituted the following paragraphs—
 
@@ -178,7 +178,7 @@ In regulation 12 of the Personal Pension Schemes (Appropriate Schemes) Regulatio
 
 .
 
-## 7. Revocation[^key-4bf83473394a06aba00319b09060beee]
+## 7. Revocation[^c-4bf83473394a06aba00319b09060beee]
 
 Regulation 4 of the Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 1989[^f00021] is hereby revoked.
 
@@ -210,11 +210,11 @@ Regulation 7 makes a consequential revocation.
 
 [^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 24(1A) was inserted by Article 139(3) of the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)); section 24(4) was amended by Article 139(5) of, and paragraph 27(*b*) of Schedule 3 to, that Order; section 24(5) was amended by Article 139(6) of that Order; section 24A was inserted by Article 140 of that Order; section 25(4) was amended by Article 141(4) of that Order; section 44(2) was amended by paragraph 56 of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 (S.I. [1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)) and Article 137(2) of the Pensions (Northern Ireland) Order 1995, and section 151 was amended by paragraph 55 of Schedule 3 to that Order
 
-[^key-c384aaacaff94926b222426cb23f0853]: Commencement: Reg. 1 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/95/regulation/1/1)
+[^c-c384aaacaff94926b222426cb23f0853]: Commencement: Reg. 1 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/95/regulation/1/1)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-eb67479cbc3274b46000dfac88d3058f]: Commencement: Reg. 2 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/95/regulation/1/1)
+[^c-eb67479cbc3274b46000dfac88d3058f]: Commencement: Reg. 2 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/95/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1985 No. 259](https://www.legislation.gov.uk/nisr/1985/259); relevant amending regulations are [S.R. 1987 No. 295](https://www.legislation.gov.uk/nisr/1987/295), [S.R. 1988 No. 108](https://www.legislation.gov.uk/nisr/1988/108) and [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
@@ -222,11 +222,11 @@ Regulation 7 makes a consequential revocation.
 
 [^f00005]: Footnote: Section 28A was inserted by Article 143(1) of the Pensions (Northern Ireland) Order 1995
 
-[^key-3f86ad1211f7b82c926fb34e9c96c20b]: Commencement: Reg. 3 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/95/regulation/1/1)
+[^c-3f86ad1211f7b82c926fb34e9c96c20b]: Commencement: Reg. 3 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/95/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1987 No. 288](https://www.legislation.gov.uk/nisr/1987/288); relevant amending regulations are [S.R. 1988 No. 107](https://www.legislation.gov.uk/nisr/1988/107), [S.R. 1992 No. 304](https://www.legislation.gov.uk/nisr/1992/304) and [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
-[^key-e7baea894b6fafb756720a3c5d4ca5c2]: Commencement: Reg. 4 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/95/regulation/1/1)
+[^c-e7baea894b6fafb756720a3c5d4ca5c2]: Commencement: Reg. 4 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/95/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1987 No. 291](https://www.legislation.gov.uk/nisr/1987/291), amended by [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
@@ -238,7 +238,7 @@ Regulation 7 makes a consequential revocation.
 
 [^f00011]: Footnote: [S.R. 1996 No. 94](https://www.legislation.gov.uk/nisr/1996/94)
 
-[^key-2aa26fd851391aca15f6271b60689430]: Commencement: Reg. 5 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/95/regulation/1/1)
+[^c-2aa26fd851391aca15f6271b60689430]: Commencement: Reg. 5 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/95/regulation/1/1)
 
 [^f00012]: Footnote: [S.R. 1987 No. 295](https://www.legislation.gov.uk/nisr/1987/295); relevant amending regulations are [S.R. 1990 No. 203](https://www.legislation.gov.uk/nisr/1990/203), [S.R. 1992 No. 304](https://www.legislation.gov.uk/nisr/1992/304) and [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
@@ -254,12 +254,12 @@ Regulation 7 makes a consequential revocation.
 
 [^f00018]: Footnote: Regulation 10(2) and (3) was amended by [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300); regulation 10(2) was also amended by [S.R. 1990 No. 203](https://www.legislation.gov.uk/nisr/1990/203)
 
-[^key-5171514fea15a7ea9a9f3d9938ea3826]: Commencement: Reg. 6 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/95/regulation/1/1)
+[^c-5171514fea15a7ea9a9f3d9938ea3826]: Commencement: Reg. 6 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/95/regulation/1/1)
 
 [^f00019]: Footnote: [S.R. 1988 No. 34](https://www.legislation.gov.uk/nisr/1988/34); relevant amending regulations are [S.R. 1989 No. 105](https://www.legislation.gov.uk/nisr/1989/105) and [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
 [^f00020]: Footnote: Paragraph (2) was amended by, and paragraph (2A) was inserted by, [S.R. 1989 No. 105](https://www.legislation.gov.uk/nisr/1989/105)
 
-[^key-4bf83473394a06aba00319b09060beee]: Commencement: Reg. 7 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/95/regulation/1/1)
+[^c-4bf83473394a06aba00319b09060beee]: Commencement: Reg. 7 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/95/regulation/1/1)
 
 [^f00021]: Footnote: [S.R. 1989 No. 105](https://www.legislation.gov.uk/nisr/1989/105), to which there are amendements not relevant to these regulations

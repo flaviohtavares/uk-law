@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 140. Content of claim in respect of security interest[^key-72a06a75876ab01db18dc44731c844f6]
+## 140. Content of claim in respect of security interest[^c-72a06a75876ab01db18dc44731c844f6]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72a06a75876ab01db18dc44731c844f6]: Commencement: [Rule 140](https://www.legislation.gov.uk/uksi/2011/1301/rule/140) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-72a06a75876ab01db18dc44731c844f6]: Commencement: [Rule 140](https://www.legislation.gov.uk/uksi/2011/1301/rule/140) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

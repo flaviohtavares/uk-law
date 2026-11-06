@@ -50,7 +50,7 @@ The Department for Employment and Learning makes the following Regulations in ex
 
 These Regulations may be cited as the Statutory Shared Parental Pay (General) Regulations (Northern Ireland) 2015 and come into operation on 15th March 2015.
 
-### 2. Definitions[^key-267cb11c96744ee16ef294ce7c178e9a][^key-44229b2a93d9e55078d5f14c88c3b798]
+### 2. Definitions[^c-267cb11c96744ee16ef294ce7c178e9a][^c-44229b2a93d9e55078d5f14c88c3b798]
 
 (1) In these Regulations—
 
@@ -111,7 +111,7 @@ These Regulations may be cited as the Statutory Shared Parental Pay (General) Re
 - “**local authority foster parent**” means a person approved as a local authority foster parent in accordance with regulations made by virtue of paragraph 12F of Schedule 2 to the Children Act 1989 [^c22710561];
 - “**prospective adopter**” means a person who has been approved as suitable to adopt a child and has been notified of that decision in accordance with regulation 30B(4) of the Adoption Agencies Regulations 2005 [^c22710571].
 
-### 3. Application[^key-7b111dcee64be1c17f986b55396e6fd4][^key-1f3b8b3b39b3a23c82a932c079b70151]
+### 3. Application[^c-7b111dcee64be1c17f986b55396e6fd4][^c-1f3b8b3b39b3a23c82a932c079b70151]
 
 These Regulations apply in relation to—
 
@@ -407,7 +407,7 @@ Part 1 of the Schedule (statutory shared parental pay in special circumstances) 
 
 ## PART 3 — ENTITLEMENT TO STATUTORY SHARED PARENTAL PAY (ADOPTION)
 
-### 17. Entitlement of adopter to statutory shared parental pay (adoption)[^key-beed59431b5d3c0d86c901c39e2ba530][^key-a609198a1366816664bd3884b8064d16]
+### 17. Entitlement of adopter to statutory shared parental pay (adoption)[^c-beed59431b5d3c0d86c901c39e2ba530][^c-a609198a1366816664bd3884b8064d16]
 
 (1) A is entitled to statutory shared parental pay (adoption) if A satisfies the conditions specified in paragraph (2) and AP satisfies the conditions specified in paragraph (3).
 
@@ -427,7 +427,7 @@ Part 1 of the Schedule (statutory shared parental pay in special circumstances) 
 - (a) AP has at the date of C's placement for adoption the main responsibility for the care of C (apart from the responsibility of A); and
 - (b) AP satisfies the employment and earnings conditions in regulation 29 (conditions relating to employment and earnings of claimant's partner).
 
-### 18. Entitlement of partner to statutory shared parental pay (adoption)[^key-3ab7cb8360a0aec80d943112874c329f][^key-3738d15ba5b319d8d3d89fee92cfc75f]
+### 18. Entitlement of partner to statutory shared parental pay (adoption)[^c-3ab7cb8360a0aec80d943112874c329f][^c-3738d15ba5b319d8d3d89fee92cfc75f]
 
 (1) AP is entitled to statutory shared parental pay (adoption) if AP satisfies the conditions specified in paragraph (2) and A satisfies the conditions specified in paragraph (3).
 
@@ -447,7 +447,7 @@ Part 1 of the Schedule (statutory shared parental pay in special circumstances) 
 - (c) A became entitled to statutory adoption pay by reference to the placement for adoption of C; and
 - (d) the adoption pay period that applies as a result A's entitlement to statutory adoption pay is, and continues to be, reduced under section 167ZN(2A) of the 1992 Act.
 
-### 19. Notification and evidential requirements relating to the adopter[^key-8af3212f5071305bd35511b4a52a770e][^key-481233fd80bded62364528502d874c47]
+### 19. Notification and evidential requirements relating to the adopter[^c-8af3212f5071305bd35511b4a52a770e][^c-481233fd80bded62364528502d874c47]
 
 (1) The notification and evidential requirements referred to in regulation 17(2)(c) are that A gives the employer who will be liable to pay statutory shared parental pay (adoption) to A the notice and information specified in—
 
@@ -486,7 +486,7 @@ Part 1 of the Schedule (statutory shared parental pay in special circumstances) 
   - (iii) the date on which the adoption agency was expecting to place C with A; and
 - (b) the name and address of AP's employer or, if AP has no employer, a written declaration signed by A that AP has no employer.
 
-### 20. Notification and evidential requirements relating to the partner[^key-f701925a826084fb0490e3e5d1debe7e][^key-95a44c13211b5c7f1ffb69d9cb661b95]
+### 20. Notification and evidential requirements relating to the partner[^c-f701925a826084fb0490e3e5d1debe7e][^c-95a44c13211b5c7f1ffb69d9cb661b95]
 
 (1) The notification and evidential conditions referred to in regulation 18(2)(c) are that AP gives the employer who will be liable to pay statutory shared parental pay (adoption) to AP the notice and information specified in—
 
@@ -526,7 +526,7 @@ Part 1 of the Schedule (statutory shared parental pay in special circumstances) 
   - (iii) the date on which the adoption agency was expecting to place C for adoption with A; and
 - (b) the name and address of A's employer or, if A has no employer, a written declaration signed by AP that A has no employer.
 
-### 21. Variation of number of weeks of pay to be claimed and of periods when pay is to be claimed[^key-5e4a54d850450f3d0ba21fbdaf6e5c96]
+### 21. Variation of number of weeks of pay to be claimed and of periods when pay is to be claimed[^c-5e4a54d850450f3d0ba21fbdaf6e5c96]
 
 (1) A or, as the case may be, AP may vary the period or periods during which they intend to claim statutory shared parental pay (adoption) by notice in writing given to the employer who will be liable to pay that pay to A or AP at least 8 weeks before the beginning of the first period specified in that notice.
 
@@ -594,13 +594,13 @@ paragraph (1)(a) shall apply as though it read—
 
 (9) In paragraph (1)(a) “**week**” has the meaning given by section 167ZN(8) of the 1992 Act.
 
-### 23. When statutory shared parental pay (adoption) is not to be paid[^key-f49705e2dea3927ccc5cb4efa65e3c19][^key-ecda89e2bcbd7dccb15984c412c977fd]
+### 23. When statutory shared parental pay (adoption) is not to be paid[^c-f49705e2dea3927ccc5cb4efa65e3c19][^c-ecda89e2bcbd7dccb15984c412c977fd]
 
 (1) Statutory shared parental pay (adoption) is not payable after the day before the first anniversary of the date on which C was placed for adoption (or where more than one child is placed for adoption through a single placement, the first anniversary of the date of placement of the first child).
 
 (2) Statutory shared parental pay (adoption) is not payable to A before the end of A's adoption pay period.
 
-### 24. Work during period of payment of statutory shared parental pay (adoption)[^key-620b22c2c4be69455d92db2d50feec9c][^key-44c89486b2678b22adbbac163e7fa510]
+### 24. Work during period of payment of statutory shared parental pay (adoption)[^c-620b22c2c4be69455d92db2d50feec9c][^c-44c89486b2678b22adbbac163e7fa510]
 
 (1) Despite section 167ZZ2(4) of the 1992 Act (statutory shared parental pay not payable to a person in respect of a week during any part of which the person works for any employer) statutory shared parental pay (adoption) is payable to A or, as the case may be, AP—
 
@@ -649,7 +649,7 @@ Part 2 of the Schedule (statutory shared parental pay in special circumstances) 
 
 ## PART 4 — CONDITIONS OF ENTITLEMENT RELATING TO EMPLOYMENT AND EARNINGS
 
-### 29. Conditions relating to employment and earnings of a claimant's partner[^key-8352d9159323c8e0f974dce392651e17][^key-71242791f4121df31b9f24962b9f967b]
+### 29. Conditions relating to employment and earnings of a claimant's partner[^c-8352d9159323c8e0f974dce392651e17][^c-71242791f4121df31b9f24962b9f967b]
 
 (1) In relation to the entitlement of M, P, A or AP to statutory shared parental pay a person satisfies the conditions as to earnings and employment specified in regulations 4(3)(b), 5(3)(b), 17(3)(b) and 18(3)(b) if that person—
 
@@ -687,7 +687,7 @@ Part 2 of the Schedule (statutory shared parental pay in special circumstances) 
 - (b) the person's normal weekly earnings (see regulation 32) with the employer by reference to which the condition in sub-paragraph (a) is satisfied for the period of eight weeks ending with the relevant week are not less than the lower earnings limit in force under subsection (1)(a) of section 5 (earnings limits and thresholds for class 1 contributions) of the 1992 Act at the end of the relevant week;
 - (c) the person continues in employed earner's employment with the employer by reference to which the condition in sub-paragraph (a) is satisfied for a continuous period beginning with the relevant week and ending with the week before the first week falling within the relevant period relating to that person under section 167ZZ2(2) of the 1992 Act.
 
-(1A)[^key-d30ecb44793ff3c87f8a5cd65bb96487] Paragraph (1B) applies where a person has been in employed earner’s employment with the same employer in each of 26 consecutive weeks (but no more than 26 weeks), ending with the relevant week.
+(1A)[^c-d30ecb44793ff3c87f8a5cd65bb96487] Paragraph (1B) applies where a person has been in employed earner’s employment with the same employer in each of 26 consecutive weeks (but no more than 26 weeks), ending with the relevant week.
 
 (1B) For the purpose of determining whether a person meets the condition in paragraph (1)(a), the first of those 26 weeks is a period commencing on the first day of the person’s employment with the employer (“the start date”) and ending at midnight on—
 
@@ -704,7 +704,7 @@ Part 2 of the Schedule (statutory shared parental pay in special circumstances) 
 
 (4) Where more than one child is born as a result of the same pregnancy the date the first child is born is to be used to determine C's actual week of birth or the date of C's birth.
 
-### 31. Conditions as to continuity of employment and normal weekly earnings in relation to a claimant for statutory shared parental pay (adoption)[^key-289067ab6a1b8b4f986328bc3ca3a01f][^key-716e82985161715e16d1906e4b9caa5e]
+### 31. Conditions as to continuity of employment and normal weekly earnings in relation to a claimant for statutory shared parental pay (adoption)[^c-289067ab6a1b8b4f986328bc3ca3a01f][^c-716e82985161715e16d1906e4b9caa5e]
 
 (1) The conditions as to continuity of employment and normal weekly earnings referred to in regulations 17(2)(a) and 18(2)(a) relating to the entitlement of A and AP to statutory shared parental pay (adoption) are—
 
@@ -712,7 +712,7 @@ Part 2 of the Schedule (statutory shared parental pay in special circumstances) 
 - (b) the person's normal weekly earnings (see regulation 32) with the employer by reference to which the condition in sub-paragraph (a) is satisfied for the period of eight weeks ending with the relevant week are not less than the lower earnings limit in force under subsection (1)(a) of section 5 (earnings limits and thresholds for class 1 contributions) of the 1992 Act at the end of the relevant week;
 - (c) the person continues in employed earner's employment with the employer by reference to which the condition in sub-paragraph (a) is satisfied for a continuous period beginning with the relevant week and ending with the week before the first week falling within the relevant period relating to that person under section 167ZZ2(2) of the 1992 Act.
 
-(1A)[^key-cbb86560ecd70fb9b6104b2ab02e7227] Paragraph (1B) applies where a person has been in employed earner’s employment with the same employer in each of 26 consecutive weeks (but no more than 26 weeks), ending with the relevant week.
+(1A)[^c-cbb86560ecd70fb9b6104b2ab02e7227] Paragraph (1B) applies where a person has been in employed earner’s employment with the same employer in each of 26 consecutive weeks (but no more than 26 weeks), ending with the relevant week.
 
 (1B) For the purpose of determining whether a person meets the condition in paragraph (1)(a), the first of those 26 weeks is a period commencing on the first day of the person’s employment with the employer (“the start date”) and ending at midnight on—
 
@@ -721,7 +721,7 @@ Part 2 of the Schedule (statutory shared parental pay in special circumstances) 
 
 (2) The references in paragraph (1) to the relevant week are to the week in which A was notified of having been matched with C.
 
-### 32. Normal weekly earnings of a claimant for statutory shared parental pay[^key-7a079921c73245dbd9c5b9a9b4809a40][^key-8bcebd4d30cdcea581f17e6bc09fe4fc]
+### 32. Normal weekly earnings of a claimant for statutory shared parental pay[^c-7a079921c73245dbd9c5b9a9b4809a40][^c-8bcebd4d30cdcea581f17e6bc09fe4fc]
 
 (1) For the purpose of section 167ZZ7(6) (which defines normal weekly earnings for the purposes of Part 12ZC of the 1992 Act) “earnings” and “relevant period” have the meanings given in this regulation.
 
@@ -738,7 +738,7 @@ Part 2 of the Schedule (statutory shared parental pay in special circumstances) 
 
 (6) In any case where a person receives a back-dated pay increase which includes a sum in respect of a relevant period, normal weekly earnings shall be calculated as if such a sum was paid in that relevant period even though received after that period.
 
-(6A)[^key-7f5ecb808277b7205127d593a1811bb9] Paragraph (6B) applies where for all or part of the relevant period—
+(6A)[^c-7f5ecb808277b7205127d593a1811bb9] Paragraph (6B) applies where for all or part of the relevant period—
 
 - (a) a person is a furloughed employee;
 - (b) the person’s employer has claimed and is in receipt of financial support in respect of the person’s earnings under the Coronavirus Job Retention Scheme; and
@@ -887,7 +887,7 @@ that person's previous period of employment with that employer (or if there was 
 
 (1) The weekly rate of payment of statutory shared parental pay is the smaller of the following two amounts—
 
-- (a) £194.32[^key-1ba4924079fac7c2d5ab48f94070db81];
+- (a) £194.32[^c-1ba4924079fac7c2d5ab48f94070db81];
 - (b) 90% of the normal weekly earnings of the individual claiming statutory shared parental pay determined in accordance with section 167ZZ7(6) of the 1992 Act (and regulation 32).
 
 (2) Where the amount of any payment of statutory shared parental pay is calculated by reference to—
@@ -1461,7 +1461,7 @@ then these Regulations apply in respect of any period after A dies subject to th
   ;
 - (b) paragraph (6) shall apply as if the words “the last day of the latest period so notified” were “the time of A's death”.
 
-#### 12. Death of child or disrupted placement[^key-6bcf4050ad796fa0c16b3a2771755022][^key-2881926e1efbf9572969417a29dd2590]
+#### 12. Death of child or disrupted placement[^c-6bcf4050ad796fa0c16b3a2771755022][^c-2881926e1efbf9572969417a29dd2590]
 
 (1) In the case where A has given the notices and information specified in regulation 19(1) and then C dies or is returned after being placed then in respect of any period after C dies or is returned after being placed paragraph (2)(f) of regulation 17 (entitlement of adopter to statutory shared parental pay) shall not apply and regulation 21 shall apply in accordance with sub-paragraph (3).
 
@@ -1512,9 +1512,9 @@ An impact assessment has not been prepared for these Regulations. These Regulati
 
 [^c22710391]: Marginal citation: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 5(4A)(a) was amended by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [Schedule 1](https://www.legislation.gov.uk/nia/2015/1/schedule/1), [paragraph 3(2)](https://www.legislation.gov.uk/nia/2015/1/paragraph/3/2).
 
-[^key-267cb11c96744ee16ef294ce7c178e9a]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/94/regulation/2) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [4](https://www.legislation.gov.uk/nisr/2015/102/regulation/4)
+[^c-267cb11c96744ee16ef294ce7c178e9a]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/94/regulation/2) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [4](https://www.legislation.gov.uk/nisr/2015/102/regulation/4)
 
-[^key-44229b2a93d9e55078d5f14c88c3b798]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/94/regulation/2) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [5](https://www.legislation.gov.uk/nisr/2015/99/regulation/5)
+[^c-44229b2a93d9e55078d5f14c88c3b798]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/94/regulation/2) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [5](https://www.legislation.gov.uk/nisr/2015/99/regulation/5)
 
 [^c22710401]: Marginal citation: [S.I. 1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203); [Article 3(3)](https://www.legislation.gov.uk/nisr/2015/94/article/3/3) was amended by [S.I. 1994/429 (N.I. 2)](https://www.legislation.gov.uk/nisi/1994/429).
 
@@ -1552,9 +1552,9 @@ An impact assessment has not been prepared for these Regulations. These Regulati
 
 [^c22710571]: Marginal citation: [S.I. 2005/389](https://www.legislation.gov.uk/uksi/2005/389): amended for relevant purposes by [S.I. 2014/1556](https://www.legislation.gov.uk/uksi/2014/1556).
 
-[^key-7b111dcee64be1c17f986b55396e6fd4]: Modification: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/94/regulation/3) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [5](https://www.legislation.gov.uk/nisr/2015/102/regulation/5)
+[^c-7b111dcee64be1c17f986b55396e6fd4]: Modification: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/94/regulation/3) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [5](https://www.legislation.gov.uk/nisr/2015/102/regulation/5)
 
-[^key-1f3b8b3b39b3a23c82a932c079b70151]: Modification: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/94/regulation/3) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [6](https://www.legislation.gov.uk/nisr/2015/99/regulation/6)
+[^c-1f3b8b3b39b3a23c82a932c079b70151]: Modification: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/94/regulation/3) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [6](https://www.legislation.gov.uk/nisr/2015/99/regulation/6)
 
 [^c22710581]: Marginal citation: [Section 161(3A)](https://www.legislation.gov.uk/nisr/2015/94/section/161/3A) was inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [section 6(4)](https://www.legislation.gov.uk/nia/2015/1/section/6/4).
 
@@ -1568,39 +1568,39 @@ An impact assessment has not been prepared for these Regulations. These Regulati
 
 [^c22710631]: Marginal citation: [Section 161(4)](https://www.legislation.gov.uk/nisr/2015/94/section/161/4) was amended by [S.I. 2006/1947 (N.I. 16)](https://www.legislation.gov.uk/nisi/2006/1947), [Schedule 1](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1), [paragraph 6(3)](https://www.legislation.gov.uk/nisi/2006/1947/paragraph/6/3).
 
-[^key-beed59431b5d3c0d86c901c39e2ba530]: Modification: [Reg. 17](https://www.legislation.gov.uk/nisr/2015/94/regulation/17) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [6](https://www.legislation.gov.uk/nisr/2015/102/regulation/6)
+[^c-beed59431b5d3c0d86c901c39e2ba530]: Modification: [Reg. 17](https://www.legislation.gov.uk/nisr/2015/94/regulation/17) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [6](https://www.legislation.gov.uk/nisr/2015/102/regulation/6)
 
-[^key-a609198a1366816664bd3884b8064d16]: Modification: [Reg. 17](https://www.legislation.gov.uk/nisr/2015/94/regulation/17) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [7](https://www.legislation.gov.uk/nisr/2015/99/regulation/7)
+[^c-a609198a1366816664bd3884b8064d16]: Modification: [Reg. 17](https://www.legislation.gov.uk/nisr/2015/94/regulation/17) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [7](https://www.legislation.gov.uk/nisr/2015/99/regulation/7)
 
 [^c22710641]: Marginal citation: [Section 167ZN(2A)](https://www.legislation.gov.uk/nisr/2015/94/section/167ZN/2A) was inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [section 6(6)](https://www.legislation.gov.uk/nia/2015/1/section/6/6).
 
-[^key-3ab7cb8360a0aec80d943112874c329f]: Modification: [Reg. 18](https://www.legislation.gov.uk/nisr/2015/94/regulation/18) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [7](https://www.legislation.gov.uk/nisr/2015/102/regulation/7)
+[^c-3ab7cb8360a0aec80d943112874c329f]: Modification: [Reg. 18](https://www.legislation.gov.uk/nisr/2015/94/regulation/18) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [7](https://www.legislation.gov.uk/nisr/2015/102/regulation/7)
 
-[^key-3738d15ba5b319d8d3d89fee92cfc75f]: Modification: [Reg. 18](https://www.legislation.gov.uk/nisr/2015/94/regulation/18) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [8](https://www.legislation.gov.uk/nisr/2015/99/regulation/8)
+[^c-3738d15ba5b319d8d3d89fee92cfc75f]: Modification: [Reg. 18](https://www.legislation.gov.uk/nisr/2015/94/regulation/18) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [8](https://www.legislation.gov.uk/nisr/2015/99/regulation/8)
 
-[^key-8af3212f5071305bd35511b4a52a770e]: Modification: [Reg. 19](https://www.legislation.gov.uk/nisr/2015/94/regulation/19) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [8](https://www.legislation.gov.uk/nisr/2015/102/regulation/8)
+[^c-8af3212f5071305bd35511b4a52a770e]: Modification: [Reg. 19](https://www.legislation.gov.uk/nisr/2015/94/regulation/19) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [8](https://www.legislation.gov.uk/nisr/2015/102/regulation/8)
 
-[^key-481233fd80bded62364528502d874c47]: Modification: [Reg. 19](https://www.legislation.gov.uk/nisr/2015/94/regulation/19) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [9](https://www.legislation.gov.uk/nisr/2015/99/regulation/9)
+[^c-481233fd80bded62364528502d874c47]: Modification: [Reg. 19](https://www.legislation.gov.uk/nisr/2015/94/regulation/19) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [9](https://www.legislation.gov.uk/nisr/2015/99/regulation/9)
 
-[^key-f701925a826084fb0490e3e5d1debe7e]: Modification: [Reg. 20](https://www.legislation.gov.uk/nisr/2015/94/regulation/20) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [9](https://www.legislation.gov.uk/nisr/2015/102/regulation/9)
+[^c-f701925a826084fb0490e3e5d1debe7e]: Modification: [Reg. 20](https://www.legislation.gov.uk/nisr/2015/94/regulation/20) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [9](https://www.legislation.gov.uk/nisr/2015/102/regulation/9)
 
-[^key-95a44c13211b5c7f1ffb69d9cb661b95]: Modification: [Reg. 20](https://www.legislation.gov.uk/nisr/2015/94/regulation/20) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [10](https://www.legislation.gov.uk/nisr/2015/99/regulation/10)
+[^c-95a44c13211b5c7f1ffb69d9cb661b95]: Modification: [Reg. 20](https://www.legislation.gov.uk/nisr/2015/94/regulation/20) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [10](https://www.legislation.gov.uk/nisr/2015/99/regulation/10)
 
-[^key-5e4a54d850450f3d0ba21fbdaf6e5c96]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/94/regulation/21) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [10](https://www.legislation.gov.uk/nisr/2015/102/regulation/10)
+[^c-5e4a54d850450f3d0ba21fbdaf6e5c96]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/94/regulation/21) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [10](https://www.legislation.gov.uk/nisr/2015/102/regulation/10)
 
 [^c22710651]: Marginal citation: [Section 167ZN](https://www.legislation.gov.uk/nisr/2015/94/section/167ZN) was inserted by the [Employment (Northern Ireland) Order 2002 (S.I. 2002/2836 (N.I. 2))](https://www.legislation.gov.uk/nisi/2002/2836), [section 6](https://www.legislation.gov.uk/nisi/2002/2836/section/6), and amended by [S.I. 2006/1947 (N.I. 16)](https://www.legislation.gov.uk/nisi/2006/1947), [Schedule 1](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1), [paragraph 20(2)](https://www.legislation.gov.uk/nisi/2006/1947/paragraph/20/2) and (3).
 
-[^key-f49705e2dea3927ccc5cb4efa65e3c19]: Modification: [Reg. 23](https://www.legislation.gov.uk/nisr/2015/94/regulation/23) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/102/regulation/11)
+[^c-f49705e2dea3927ccc5cb4efa65e3c19]: Modification: [Reg. 23](https://www.legislation.gov.uk/nisr/2015/94/regulation/23) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/102/regulation/11)
 
-[^key-ecda89e2bcbd7dccb15984c412c977fd]: Modification: [Reg. 23](https://www.legislation.gov.uk/nisr/2015/94/regulation/23) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/99/regulation/11)
+[^c-ecda89e2bcbd7dccb15984c412c977fd]: Modification: [Reg. 23](https://www.legislation.gov.uk/nisr/2015/94/regulation/23) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/99/regulation/11)
 
-[^key-620b22c2c4be69455d92db2d50feec9c]: Modification: [Reg. 24](https://www.legislation.gov.uk/nisr/2015/94/regulation/24) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [12](https://www.legislation.gov.uk/nisr/2015/102/regulation/12)
+[^c-620b22c2c4be69455d92db2d50feec9c]: Modification: [Reg. 24](https://www.legislation.gov.uk/nisr/2015/94/regulation/24) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [12](https://www.legislation.gov.uk/nisr/2015/102/regulation/12)
 
-[^key-44c89486b2678b22adbbac163e7fa510]: Modification: [Reg. 24](https://www.legislation.gov.uk/nisr/2015/94/regulation/24) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [12](https://www.legislation.gov.uk/nisr/2015/99/regulation/12)
+[^c-44c89486b2678b22adbbac163e7fa510]: Modification: [Reg. 24](https://www.legislation.gov.uk/nisr/2015/94/regulation/24) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [12](https://www.legislation.gov.uk/nisr/2015/99/regulation/12)
 
-[^key-8352d9159323c8e0f974dce392651e17]: Modification: [Reg. 29](https://www.legislation.gov.uk/nisr/2015/94/regulation/29) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [13](https://www.legislation.gov.uk/nisr/2015/102/regulation/13)
+[^c-8352d9159323c8e0f974dce392651e17]: Modification: [Reg. 29](https://www.legislation.gov.uk/nisr/2015/94/regulation/29) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [13](https://www.legislation.gov.uk/nisr/2015/102/regulation/13)
 
-[^key-71242791f4121df31b9f24962b9f967b]: Modification: [Reg. 29](https://www.legislation.gov.uk/nisr/2015/94/regulation/29) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [13](https://www.legislation.gov.uk/nisr/2015/99/regulation/13)
+[^c-71242791f4121df31b9f24962b9f967b]: Modification: [Reg. 29](https://www.legislation.gov.uk/nisr/2015/94/regulation/29) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [13](https://www.legislation.gov.uk/nisr/2015/99/regulation/13)
 
 [^c22710661]: Marginal citation: References to “employed earner's employment” are construed in accordance with section 2(3) of the [Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)](https://www.legislation.gov.uk/ukpga/1992/7).
 
@@ -1612,19 +1612,19 @@ An impact assessment has not been prepared for these Regulations. These Regulati
 
 [^c22710701]: Marginal citation: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004), to which there are amendments not relevant to these Regulations.
 
-[^key-d30ecb44793ff3c87f8a5cd65bb96487]: Textual amendment: [Reg. 30(1A)](https://www.legislation.gov.uk/nisr/2015/94/regulation/30/1A)[(1B)](https://www.legislation.gov.uk/nisr/2015/94/regulation/30/1B) inserted (3.4.2016) by [The Statutory Paternity Pay, Statutory Adoption Pay and Statutory Shared Parental Pay (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/133)](https://www.legislation.gov.uk/nisr/2016/133), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/133/regulation/1/2), [3(2)](https://www.legislation.gov.uk/nisr/2016/133/regulation/3/2)
+[^c-d30ecb44793ff3c87f8a5cd65bb96487]: Textual amendment: [Reg. 30(1A)](https://www.legislation.gov.uk/nisr/2015/94/regulation/30/1A)[(1B)](https://www.legislation.gov.uk/nisr/2015/94/regulation/30/1B) inserted (3.4.2016) by [The Statutory Paternity Pay, Statutory Adoption Pay and Statutory Shared Parental Pay (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/133)](https://www.legislation.gov.uk/nisr/2016/133), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/133/regulation/1/2), [3(2)](https://www.legislation.gov.uk/nisr/2016/133/regulation/3/2)
 
-[^key-289067ab6a1b8b4f986328bc3ca3a01f]: Modification: Reg. 31 applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [14](https://www.legislation.gov.uk/nisr/2015/102/regulation/14)
+[^c-289067ab6a1b8b4f986328bc3ca3a01f]: Modification: Reg. 31 applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [14](https://www.legislation.gov.uk/nisr/2015/102/regulation/14)
 
-[^key-716e82985161715e16d1906e4b9caa5e]: Modification: Reg. 31 applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [14](https://www.legislation.gov.uk/nisr/2015/99/regulation/14)
+[^c-716e82985161715e16d1906e4b9caa5e]: Modification: Reg. 31 applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [14](https://www.legislation.gov.uk/nisr/2015/99/regulation/14)
 
-[^key-cbb86560ecd70fb9b6104b2ab02e7227]: Textual amendment: [Reg. 31(1A)](https://www.legislation.gov.uk/nisr/2015/94/regulation/31/1A)[(1B)](https://www.legislation.gov.uk/nisr/2015/94/regulation/31/1B) inserted (3.4.2016) by [The Statutory Paternity Pay, Statutory Adoption Pay and Statutory Shared Parental Pay (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/133)](https://www.legislation.gov.uk/nisr/2016/133), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/133/regulation/1/2), [3(3)](https://www.legislation.gov.uk/nisr/2016/133/regulation/3/3)
+[^c-cbb86560ecd70fb9b6104b2ab02e7227]: Textual amendment: [Reg. 31(1A)](https://www.legislation.gov.uk/nisr/2015/94/regulation/31/1A)[(1B)](https://www.legislation.gov.uk/nisr/2015/94/regulation/31/1B) inserted (3.4.2016) by [The Statutory Paternity Pay, Statutory Adoption Pay and Statutory Shared Parental Pay (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/133)](https://www.legislation.gov.uk/nisr/2016/133), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/133/regulation/1/2), [3(3)](https://www.legislation.gov.uk/nisr/2016/133/regulation/3/3)
 
-[^key-7a079921c73245dbd9c5b9a9b4809a40]: Modification: Reg. 32 applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [15](https://www.legislation.gov.uk/nisr/2015/102/regulation/15)
+[^c-7a079921c73245dbd9c5b9a9b4809a40]: Modification: Reg. 32 applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [15](https://www.legislation.gov.uk/nisr/2015/102/regulation/15)
 
-[^key-8bcebd4d30cdcea581f17e6bc09fe4fc]: Modification: Reg. 32 applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [15](https://www.legislation.gov.uk/nisr/2015/99/regulation/15)
+[^c-8bcebd4d30cdcea581f17e6bc09fe4fc]: Modification: Reg. 32 applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [15](https://www.legislation.gov.uk/nisr/2015/99/regulation/15)
 
-[^key-7f5ecb808277b7205127d593a1811bb9]: Textual amendment: Reg. 32(6A)-(6C) inserted (25.4.2020) by [The Statutory Paternity Pay, Statutory Adoption Pay and Statutory Shared Parental Pay (Normal Weekly Earnings etc.) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/70)](https://www.legislation.gov.uk/nisr/2020/70), [regs. 1](https://www.legislation.gov.uk/nisr/2020/70/regulation/1), [4](https://www.legislation.gov.uk/nisr/2020/70/regulation/4) (with [reg. 2](https://www.legislation.gov.uk/nisr/2020/70/regulation/2))
+[^c-7f5ecb808277b7205127d593a1811bb9]: Textual amendment: Reg. 32(6A)-(6C) inserted (25.4.2020) by [The Statutory Paternity Pay, Statutory Adoption Pay and Statutory Shared Parental Pay (Normal Weekly Earnings etc.) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/70)](https://www.legislation.gov.uk/nisr/2020/70), [regs. 1](https://www.legislation.gov.uk/nisr/2020/70/regulation/1), [4](https://www.legislation.gov.uk/nisr/2020/70/regulation/4) (with [reg. 2](https://www.legislation.gov.uk/nisr/2020/70/regulation/2))
 
 [^c22710711]: Marginal citation: Section 10A was inserted by the [Social Security (Northern Ireland) Order 1998 (S.I. 1998/1506 (N.I. 10))](https://www.legislation.gov.uk/nisi/1998/1506), [Article 50](https://www.legislation.gov.uk/nisi/1998/1506/article/50).
 
@@ -1644,7 +1644,7 @@ An impact assessment has not been prepared for these Regulations. These Regulati
 
 [^c22710791]: Marginal citation: [1985 c. 17](https://www.legislation.gov.uk/ukpga/1985/17).
 
-[^key-1ba4924079fac7c2d5ab48f94070db81]: Textual amendment: Sum in [reg. 40(1)(a)](https://www.legislation.gov.uk/nisr/2015/94/regulation/40/1/a) substituted (6.4.2026) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c), [10(2)](https://www.legislation.gov.uk/nisr/2026/59/article/10/2)
+[^c-1ba4924079fac7c2d5ab48f94070db81]: Textual amendment: Sum in [reg. 40(1)(a)](https://www.legislation.gov.uk/nisr/2015/94/regulation/40/1/a) substituted (6.4.2026) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c), [10(2)](https://www.legislation.gov.uk/nisr/2026/59/article/10/2)
 
 [^c22710801]: Marginal citation: [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671); [Article 7(1)](https://www.legislation.gov.uk/nisr/2015/94/article/7/1) was amended by 2006 ([S.I. 2006/1947 (N.I. 16)](https://www.legislation.gov.uk/nisi/2006/1947)), Schedule 1, paragraph 43(1) and (2) and by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [Schedule 1](https://www.legislation.gov.uk/nia/2015/1/schedule/1), [paragraph 5(1)](https://www.legislation.gov.uk/nia/2015/1/paragraph/5/1) and (2).
 
@@ -1656,9 +1656,9 @@ An impact assessment has not been prepared for these Regulations. These Regulati
 
 [^c22710841]: Marginal citation: Section 167ZN(2A) was inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [section 6(6)](https://www.legislation.gov.uk/nia/2015/1/section/6/6).
 
-[^key-6bcf4050ad796fa0c16b3a2771755022]: Modification: Sch. para. 12 applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [16](https://www.legislation.gov.uk/nisr/2015/102/regulation/16)
+[^c-6bcf4050ad796fa0c16b3a2771755022]: Modification: Sch. para. 12 applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [16](https://www.legislation.gov.uk/nisr/2015/102/regulation/16)
 
-[^key-2881926e1efbf9572969417a29dd2590]: Modification: [Sch. para. 12](https://www.legislation.gov.uk/nisr/2015/94/schedule/paragraph/12) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [16](https://www.legislation.gov.uk/nisr/2015/99/regulation/16)
+[^c-2881926e1efbf9572969417a29dd2590]: Modification: [Sch. para. 12](https://www.legislation.gov.uk/nisr/2015/94/schedule/paragraph/12) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [16](https://www.legislation.gov.uk/nisr/2015/99/regulation/16)
 
 [^c22710851]: Marginal citation: [S.I. 1987/2203](https://www.legislation.gov.uk/uksi/1987/2203); Article 31(3) was amended by the [Children (Northern Ireland) Order 1995 (S.I. 1995/755 (N.I. 2))](https://www.legislation.gov.uk/nisi/1995/755), [Schedule 9](https://www.legislation.gov.uk/nisi/1995/755/schedule/9), [paragraph 154(2)](https://www.legislation.gov.uk/nisi/1995/755/paragraph/154/2).
 

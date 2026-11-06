@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 453C. Failure to comply with certain requirements[^key-3d6171fd0b818184eb886966e67a2168][^c19377141]
+## 453C. Failure to comply with certain requirements[^c-3d6171fd0b818184eb886966e67a2168][^c19377141]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ the court is satisfied that the offender failed without reasonable excuse to com
 
 ## Annotations
 
-[^key-3d6171fd0b818184eb886966e67a2168]: Modification: S. 453C applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
+[^c-3d6171fd0b818184eb886966e67a2168]: Modification: S. 453C applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
 
 [^c19377141]: Textual amendment: S. 453C inserted (6.4.2005) by [Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)](https://www.legislation.gov.uk/ukpga/2004/27), [ss. 24](https://www.legislation.gov.uk/ukpga/2004/27/section/24), [65](https://www.legislation.gov.uk/ukpga/2004/27/section/65); [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (subject to [arts. 3-13](https://www.legislation.gov.uk/uksi/2004/3322/article/3))

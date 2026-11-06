@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3 — Increase in maximum fines for certain summary offences under the 1991 Act[^key-fd8e659643d35631dba9ccc951af720e]
+## SCHEDULE 3 — Increase in maximum fines for certain summary offences under the 1991 Act[^c-fd8e659643d35631dba9ccc951af720e]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd8e659643d35631dba9ccc951af720e]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2005/12/schedule/3) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-fd8e659643d35631dba9ccc951af720e]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2005/12/schedule/3) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

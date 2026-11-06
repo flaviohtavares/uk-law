@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.B.11. Calculation method D[^key-cd8668619ef7c1e980d442b430f9b113]
+## 4.B.11. Calculation method D[^c-cd8668619ef7c1e980d442b430f9b113]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ This is subject to paragraph (5).
 
 ## Annotations
 
-[^key-cd8668619ef7c1e980d442b430f9b113]: Textual amendment: [Reg. 4.B.11](https://www.legislation.gov.uk/uksi/2008/653/regulation/4.B.11) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [101](https://www.legislation.gov.uk/uksi/2009/2446/regulation/101)
+[^c-cd8668619ef7c1e980d442b430f9b113]: Textual amendment: [Reg. 4.B.11](https://www.legislation.gov.uk/uksi/2008/653/regulation/4.B.11) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [101](https://www.legislation.gov.uk/uksi/2009/2446/regulation/101)

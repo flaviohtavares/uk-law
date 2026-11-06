@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Voting by people with disabilities[^key-fe61f7e5a2641e9e697c6ccc109992e8]
+## 36. Voting by people with disabilities[^c-fe61f7e5a2641e9e697c6ccc109992e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ and the presiding officer must attest and retain the declaration.
 
 ## Annotations
 
-[^key-fe61f7e5a2641e9e697c6ccc109992e8]: Commencement: Reg. 36 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-fe61f7e5a2641e9e697c6ccc109992e8]: Commencement: Reg. 36 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

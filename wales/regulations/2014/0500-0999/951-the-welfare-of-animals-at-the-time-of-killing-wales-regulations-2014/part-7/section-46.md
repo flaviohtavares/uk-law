@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Revocations[^key-c55b3cc253d3a8849bf86ed6b84bdd10]
+## 46. Revocations[^c-c55b3cc253d3a8849bf86ed6b84bdd10]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ The following instruments and enactments are revoked in relation to Wales—
 
 ## Annotations
 
-[^key-c55b3cc253d3a8849bf86ed6b84bdd10]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2014/951/regulation/46) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-c55b3cc253d3a8849bf86ed6b84bdd10]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2014/951/regulation/46) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
 [^f00014]: Footnote: [S.I. 1995/731](https://www.legislation.gov.uk/uksi/1995/731); relevant amending instruments, in relation to Wales, are [S.I. 1999/400](https://www.legislation.gov.uk/uksi/1999/400), [2000/656](https://www.legislation.gov.uk/uksi/2000/656) and [2007/2461 (W.208)](https://www.legislation.gov.uk/wsi/2007/2461).
 

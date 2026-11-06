@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Nominations for lump sum death benefits[^key-53917ca5d6cea63d2e97b5fdb40e69ce]
+## 112. Nominations for lump sum death benefits[^c-53917ca5d6cea63d2e97b5fdb40e69ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53917ca5d6cea63d2e97b5fdb40e69ce]: Commencement: [Reg. 112](https://www.legislation.gov.uk/uksi/2015/182/regulation/112) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-53917ca5d6cea63d2e97b5fdb40e69ce]: Commencement: [Reg. 112](https://www.legislation.gov.uk/uksi/2015/182/regulation/112) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

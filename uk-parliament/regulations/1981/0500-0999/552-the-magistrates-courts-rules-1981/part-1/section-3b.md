@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3B. Live links[^key-bfc5bcd30d6a8c2665f519f7c3e1bcda]
+## 3B. Live links[^c-bfc5bcd30d6a8c2665f519f7c3e1bcda]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfc5bcd30d6a8c2665f519f7c3e1bcda]: Textual amendment: [Rule 3B](https://www.legislation.gov.uk/uksi/1981/552/rule/3B) inserted (28.6.2021) by [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/626/rule/2/4)
+[^c-bfc5bcd30d6a8c2665f519f7c3e1bcda]: Textual amendment: [Rule 3B](https://www.legislation.gov.uk/uksi/1981/552/rule/3B) inserted (28.6.2021) by [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/626/rule/2/4)

@@ -35,50 +35,50 @@ supplementing Regulation (EU) 2017/2402 of the European Parliament and of the Co
 
 (Text with EEA relevance) (revoked)
 
-[^key-14f03b342a0f143493c4e1919068715f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-14f03b342a0f143493c4e1919068715f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Identification of the third party[^key-14f03b342a0f143493c4e1919068715f]
+## Article 1. Identification of the third party[^c-14f03b342a0f143493c4e1919068715f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Composition of the management body and the organisational structure[^key-14f03b342a0f143493c4e1919068715f]
+## Article 2. Composition of the management body and the organisational structure[^c-14f03b342a0f143493c4e1919068715f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Corporate governance[^key-14f03b342a0f143493c4e1919068715f]
+## Article 3. Corporate governance[^c-14f03b342a0f143493c4e1919068715f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Independence and avoidance of conflicts of interest[^key-14f03b342a0f143493c4e1919068715f]
+## Article 4. Independence and avoidance of conflicts of interest[^c-14f03b342a0f143493c4e1919068715f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Fee structure[^key-14f03b342a0f143493c4e1919068715f]
+## Article 5. Fee structure[^c-14f03b342a0f143493c4e1919068715f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Operational safeguards and internal processes to assess STS compliance[^key-14f03b342a0f143493c4e1919068715f]
+## Article 6. Operational safeguards and internal processes to assess STS compliance[^c-14f03b342a0f143493c4e1919068715f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Format of the application[^key-14f03b342a0f143493c4e1919068715f]
+## Article 7. Format of the application[^c-14f03b342a0f143493c4e1919068715f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force[^key-14f03b342a0f143493c4e1919068715f]
+## Article 8. Entry into force[^c-14f03b342a0f143493c4e1919068715f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-14f03b342a0f143493c4e1919068715f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-14f03b342a0f143493c4e1919068715f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Document references[^key-14f03b342a0f143493c4e1919068715f]
+## ANNEX — Document references[^c-14f03b342a0f143493c4e1919068715f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-14f03b342a0f143493c4e1919068715f]: Textual amendment: Regulation revoked (1.11.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/d/ii)
+[^c-14f03b342a0f143493c4e1919068715f]: Textual amendment: Regulation revoked (1.11.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/d/ii)

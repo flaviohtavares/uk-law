@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Interpretation[^key-765c723177e26b4421b7ed9395d22a5d]
+## 57. Interpretation[^c-765c723177e26b4421b7ed9395d22a5d]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ For the purposes of this Chapter—
 
 ## Annotations
 
-[^key-765c723177e26b4421b7ed9395d22a5d]: Commencement: [Reg. 57](https://www.legislation.gov.uk/nisr/2007/195/regulation/57) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-765c723177e26b4421b7ed9395d22a5d]: Commencement: [Reg. 57](https://www.legislation.gov.uk/nisr/2007/195/regulation/57) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

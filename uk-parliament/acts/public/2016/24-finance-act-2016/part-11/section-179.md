@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-d6f8d54c7603889bcd4f22968080b910][^key-7916645433bbcb0f337fa9a736bec201] After section 8J of TPDA 1979 insert—
+(1)[^c-d6f8d54c7603889bcd4f22968080b910][^c-7916645433bbcb0f337fa9a736bec201] After section 8J of TPDA 1979 insert—
 
 > **8K. Raw tobacco: definitions**
 >
@@ -141,20 +141,20 @@ summary: ''
 > - (a) in relation to persons who carry on controlled activities as they apply in relation to revenue traders whose trade or business relates to tobacco products, and
 > - (b) in relation to raw tobacco as they apply in relation to tobacco products.
 
-(2)[^key-2732159695f0e33221d6fbe85d947bce] In section 9 of TPDA 1979 (regulations)—
+(2)[^c-2732159695f0e33221d6fbe85d947bce] In section 9 of TPDA 1979 (regulations)—
 
 - (a) in subsection (1), after “statutory instrument and” insert “ , subject to subsection (1A), ”, and
 - (b) after subsection (1) insert—
 
   > (1A) A statutory instrument containing regulations under section 8M, 8N or 8U is subject to annulment in pursuance of a resolution of the House of Commons.
 
-(3)[^key-2732159695f0e33221d6fbe85d947bce] In section 13A(2) of FA 1994 (customs and excise reviews and appeals: “relevant decisions”), after paragraph (g) insert—
+(3)[^c-2732159695f0e33221d6fbe85d947bce] In section 13A(2) of FA 1994 (customs and excise reviews and appeals: “relevant decisions”), after paragraph (g) insert—
 
 > - (gb) any decision by HMRC that a person is liable to a penalty, or as to the amount of the person's liability, under section 8O of the Tobacco Products Duty Act 1979;
 
 .
 
-(4)[^key-2732159695f0e33221d6fbe85d947bce] In Schedule 5 to FA 1994 (decisions subject to review and appeal) after paragraph 5 insert—
+(4)[^c-2732159695f0e33221d6fbe85d947bce] In Schedule 5 to FA 1994 (decisions subject to review and appeal) after paragraph 5 insert—
 
 > **5A.**
 >
@@ -169,8 +169,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d6f8d54c7603889bcd4f22968080b910]: Commencement: [S. 179(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/179/1) in force at 6.12.2016 for the purposes of the amendment made by that subsection for specified purposes by [S.I. 2016/1171](https://www.legislation.gov.uk/uksi/2016/1171), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/1171/regulation/2/1)
+[^c-d6f8d54c7603889bcd4f22968080b910]: Commencement: [S. 179(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/179/1) in force at 6.12.2016 for the purposes of the amendment made by that subsection for specified purposes by [S.I. 2016/1171](https://www.legislation.gov.uk/uksi/2016/1171), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/1171/regulation/2/1)
 
-[^key-7916645433bbcb0f337fa9a736bec201]: Commencement: [S. 179(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/179/1) in force at 1.4.2017 for the purposes of the amendment made by that subsection in so far as not already in force by [S.I. 2016/1171](https://www.legislation.gov.uk/uksi/2016/1171), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1171/regulation/2/2)
+[^c-7916645433bbcb0f337fa9a736bec201]: Commencement: [S. 179(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/179/1) in force at 1.4.2017 for the purposes of the amendment made by that subsection in so far as not already in force by [S.I. 2016/1171](https://www.legislation.gov.uk/uksi/2016/1171), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1171/regulation/2/2)
 
-[^key-2732159695f0e33221d6fbe85d947bce]: Commencement: [S. 179(2)-(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/179/2) in force at 6.12.2016 for the purposes of the amendments made by those subsections by [S.I. 2016/1171](https://www.legislation.gov.uk/uksi/2016/1171), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/1171/regulation/2/1)
+[^c-2732159695f0e33221d6fbe85d947bce]: Commencement: [S. 179(2)-(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/179/2) in force at 6.12.2016 for the purposes of the amendments made by those subsections by [S.I. 2016/1171](https://www.legislation.gov.uk/uksi/2016/1171), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/1171/regulation/2/1)

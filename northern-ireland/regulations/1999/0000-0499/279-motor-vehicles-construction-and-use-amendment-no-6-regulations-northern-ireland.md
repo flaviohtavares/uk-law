@@ -30,7 +30,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Motor Vehicles (Construction and Use) (Amendment No. 6) Regulations (Northern Ireland) 1999 (revoked)[^key-af356a858d254fec407c84fc692182ae]
+Motor Vehicles (Construction and Use) (Amendment No. 6) Regulations (Northern Ireland) 1999 (revoked)[^c-af356a858d254fec407c84fc692182ae]
 
 Made
 
@@ -38,41 +38,41 @@ Made
 
 Coming into operation in accordance with regulation 1(2)
 
-[^key-af356a858d254fec407c84fc692182ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af356a858d254fec407c84fc692182ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-af356a858d254fec407c84fc692182ae]
+## 1. Citation, commencement and interpretation[^c-af356a858d254fec407c84fc692182ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to regulation 37 (fuel tanks)[^key-af356a858d254fec407c84fc692182ae]
+## 2. Amendments to regulation 37 (fuel tanks)[^c-af356a858d254fec407c84fc692182ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to regulation 63 (emission of smoke, vapour, gases, oily substances, etc.)[^key-af356a858d254fec407c84fc692182ae]
+## 3. Amendments to regulation 63 (emission of smoke, vapour, gases, oily substances, etc.)[^c-af356a858d254fec407c84fc692182ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. New Schedule 6B (emission requirements relating to certain motor vehicles)[^key-af356a858d254fec407c84fc692182ae]
+## 4. New Schedule 6B (emission requirements relating to certain motor vehicles)[^c-af356a858d254fec407c84fc692182ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to Schedule 1[^key-af356a858d254fec407c84fc692182ae]
+## 5. Amendment to Schedule 1[^c-af356a858d254fec407c84fc692182ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af356a858d254fec407c84fc692182ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af356a858d254fec407c84fc692182ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-af356a858d254fec407c84fc692182ae]
+## SCHEDULE 1[^c-af356a858d254fec407c84fc692182ae]
 
 Regulation 3(9)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-af356a858d254fec407c84fc692182ae]
+## SCHEDULE 2[^c-af356a858d254fec407c84fc692182ae]
 
 Regulation 4
 
@@ -80,8 +80,8 @@ Regulation 4
 
 **May not be in force at this date. Check the source.**
 
-[^key-af356a858d254fec407c84fc692182ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af356a858d254fec407c84fc692182ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-af356a858d254fec407c84fc692182ae]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/279) revoked (1.1.2000) by [Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999 (S.R. 1999/454)](https://www.legislation.gov.uk/nisr/1999/454), [regs. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1), [26](https://www.legislation.gov.uk/nisr/1999/454/regulation/26), [Sch. 19](https://www.legislation.gov.uk/nisr/1999/454/schedule/19)
+[^c-af356a858d254fec407c84fc692182ae]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/279) revoked (1.1.2000) by [Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999 (S.R. 1999/454)](https://www.legislation.gov.uk/nisr/1999/454), [regs. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1), [26](https://www.legislation.gov.uk/nisr/1999/454/regulation/26), [Sch. 19](https://www.legislation.gov.uk/nisr/1999/454/schedule/19)

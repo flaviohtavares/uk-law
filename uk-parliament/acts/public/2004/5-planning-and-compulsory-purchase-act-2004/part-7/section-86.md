@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 86. Trees in conservation areas: acts of Crown[^key-34204d11db977b0d78ad79f96b8931a1]
+## 86. Trees in conservation areas: acts of Crown[^c-34204d11db977b0d78ad79f96b8931a1]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ After section 211(4) of the principal Act (preservation of trees in conservation
 
 ## Annotations
 
-[^key-34204d11db977b0d78ad79f96b8931a1]: Commencement: S. 86 in force at 7.6.2006 by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)
+[^c-34204d11db977b0d78ad79f96b8931a1]: Commencement: S. 86 in force at 7.6.2006 by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)

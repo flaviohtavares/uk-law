@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Amendment to regulation 46[^key-934195a51b3cb52d8c37ede496acc735]
+## 24. Amendment to regulation 46[^c-934195a51b3cb52d8c37ede496acc735]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In regulation 46 (requirement for authorisation)[^f00031], omit—
 
 ## Annotations
 
-[^key-934195a51b3cb52d8c37ede496acc735]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2024/832/regulation/24) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-934195a51b3cb52d8c37ede496acc735]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2024/832/regulation/24) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00031]: Footnote: Paragraphs (2)(aa) and (6)(aa) were inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

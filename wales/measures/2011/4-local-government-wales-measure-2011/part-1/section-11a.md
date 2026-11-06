@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11A. Reviews at request of a local authority[^key-26d4a133453d33ebf6cccf74a58d857b]
+## 11A. Reviews at request of a local authority[^c-26d4a133453d33ebf6cccf74a58d857b]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26d4a133453d33ebf6cccf74a58d857b]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/mwa/2011/4/section/11A) inserted (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [ss. 60(1)](https://www.legislation.gov.uk/anaw/2013/4/section/60/1), [75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d)
+[^c-26d4a133453d33ebf6cccf74a58d857b]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/mwa/2011/4/section/11A) inserted (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [ss. 60(1)](https://www.legislation.gov.uk/anaw/2013/4/section/60/1), [75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d)

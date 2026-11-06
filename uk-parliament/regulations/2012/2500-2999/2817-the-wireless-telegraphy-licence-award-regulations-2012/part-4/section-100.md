@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Incomplete or defective assignment stage bid form[^key-db566b1d28cfdccd2b8cf36a46f1d638]
+## 100. Incomplete or defective assignment stage bid form[^c-db566b1d28cfdccd2b8cf36a46f1d638]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db566b1d28cfdccd2b8cf36a46f1d638]: Commencement: Reg. 100 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-db566b1d28cfdccd2b8cf36a46f1d638]: Commencement: Reg. 100 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

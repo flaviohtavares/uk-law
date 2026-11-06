@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83.14A. Application for permission to issue writ of sequestration[^key-c82f451f368892b5d8ff487612ad46a5][^key-47e86d3c6fd2cdb1267b2c84766853be]
+## 83.14A. Application for permission to issue writ of sequestration[^c-c82f451f368892b5d8ff487612ad46a5][^c-47e86d3c6fd2cdb1267b2c84766853be]
 
 *Extent: E+W*
 
 (1) An application for permission to issue a writ of sequestration must be made—
 
-- (a) to a judge of the Division of the High Court in which the case is proceeding or, in any other case, to a judge of the King’s[^key-07c3230f2141e4e15d088984362d9830] Bench Division;
+- (a) to a judge of the Division of the High Court in which the case is proceeding or, in any other case, to a judge of the King’s[^c-07c3230f2141e4e15d088984362d9830] Bench Division;
 - (b) by filing an application notice under Part 23.
 
 (2) The application notice must set out the grounds of the application and must be supported by evidence.
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c82f451f368892b5d8ff487612ad46a5]: Textual amendment: [Rule 83.14A](https://www.legislation.gov.uk/uksi/1998/3132/rule/83.14A) inserted (6.4.2021) by [The Civil Procedure (Amendment) Rules 2021 (S.I. 2021/117)](https://www.legislation.gov.uk/uksi/2021/117), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/1/1), [19(6)](https://www.legislation.gov.uk/uksi/2021/117/rule/19/6) (with [rule 2](https://www.legislation.gov.uk/uksi/2021/117/rule/2))
+[^c-c82f451f368892b5d8ff487612ad46a5]: Textual amendment: [Rule 83.14A](https://www.legislation.gov.uk/uksi/1998/3132/rule/83.14A) inserted (6.4.2021) by [The Civil Procedure (Amendment) Rules 2021 (S.I. 2021/117)](https://www.legislation.gov.uk/uksi/2021/117), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/1/1), [19(6)](https://www.legislation.gov.uk/uksi/2021/117/rule/19/6) (with [rule 2](https://www.legislation.gov.uk/uksi/2021/117/rule/2))
 
-[^key-47e86d3c6fd2cdb1267b2c84766853be]: Textual amendment: Pt. 83 inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/407/schedule) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/rule/41))
+[^c-47e86d3c6fd2cdb1267b2c84766853be]: Textual amendment: Pt. 83 inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/407/schedule) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/rule/41))
 
-[^key-07c3230f2141e4e15d088984362d9830]: Textual amendment: Word in [rule 83](https://www.legislation.gov.uk/uksi/1998/3132/rule/83).14A(1)(a) substituted (6.4.2023) by virtue of [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [39](https://www.legislation.gov.uk/uksi/2023/105/rule/39)
+[^c-07c3230f2141e4e15d088984362d9830]: Textual amendment: Word in [rule 83](https://www.legislation.gov.uk/uksi/1998/3132/rule/83).14A(1)(a) substituted (6.4.2023) by virtue of [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [39](https://www.legislation.gov.uk/uksi/2023/105/rule/39)

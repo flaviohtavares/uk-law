@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Rewards[^key-eca40e6c97800a54394a4c4251a6d214]
+## 6. Rewards[^c-eca40e6c97800a54394a4c4251a6d214]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Revenue Scotland may pay a reward to a person in return for a service which rela
 
 ## Annotations
 
-[^key-eca40e6c97800a54394a4c4251a6d214]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2014/16/section/6) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-eca40e6c97800a54394a4c4251a6d214]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2014/16/section/6) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

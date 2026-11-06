@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Transitory provision and savings in connection with the continued existence of police authorities established under section 3 of the 1996 Act[^key-e8fe2df7dd12391ceadd201731ff7e62]
+## 10. Transitory provision and savings in connection with the continued existence of police authorities established under section 3 of the 1996 Act[^c-e8fe2df7dd12391ceadd201731ff7e62]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8fe2df7dd12391ceadd201731ff7e62]: Commencement: Art. 10 in force at made date
+[^c-e8fe2df7dd12391ceadd201731ff7e62]: Commencement: Art. 10 in force at made date

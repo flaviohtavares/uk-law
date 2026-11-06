@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Animal welfare codes[^key-2ac79ea62c9616d9c0d75151303b8d55]
+## 37. Animal welfare codes[^c-2ac79ea62c9616d9c0d75151303b8d55]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ as they consider appropriate.
 
 ## Annotations
 
-[^key-2ac79ea62c9616d9c0d75151303b8d55]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2006/11/section/37) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-2ac79ea62c9616d9c0d75151303b8d55]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2006/11/section/37) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

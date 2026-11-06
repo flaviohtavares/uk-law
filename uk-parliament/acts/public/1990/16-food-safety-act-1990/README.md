@@ -33,7 +33,7 @@ An Act to make new provision in place of the Food Act 1984 (except Parts III and
 
 \[29th June 1990\]
 
-[^c10202401][^c10202411]BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-9410283d6bc4117e0a6a9b85e17020ee][^key-56ab1b8f7074e60eb3071d26e170fc78][^key-b7cfd753d403f15b3685f6e2795c6278][^key-95ecc04053692d69fb15fb96a1292804][^key-fee46797391e8e7512176203b605f4b2][^key-91f5a633c3673c76f05569423f22cd21]
+[^c10202401][^c10202411]BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-9410283d6bc4117e0a6a9b85e17020ee][^c-56ab1b8f7074e60eb3071d26e170fc78][^c-b7cfd753d403f15b3685f6e2795c6278][^c-95ecc04053692d69fb15fb96a1292804][^c-fee46797391e8e7512176203b605f4b2][^c-91f5a633c3673c76f05569423f22cd21]
 
 ## Contents
 
@@ -46,7 +46,7 @@ An Act to make new provision in place of the Food Act 1984 (except Parts III and
 - [Section 5 — Food authorities and authorised officers.](part-i/section-5.md)
 - [Section 6 — Enforcement of Act.](part-i/section-6.md)
 
-### Part II — MAIN PROVISIONS[^c10203141][^c10203151][^key-82e3ba4554b67916af5cf5cc480ba30a][^key-7824a3d1a39919c03184ee3e9e232a7a][^key-4aa12ee46b2e9af1c51af9c253426565][^key-52e56288a785e499268f0eb537257c36]
+### Part II — MAIN PROVISIONS[^c10203141][^c10203151][^c-82e3ba4554b67916af5cf5cc480ba30a][^c-7824a3d1a39919c03184ee3e9e232a7a][^c-4aa12ee46b2e9af1c51af9c253426565][^c-52e56288a785e499268f0eb537257c36]
 
 *Extent: E+W+S*
 
@@ -65,7 +65,7 @@ An Act to make new provision in place of the Food Act 1984 (except Parts III and
 - [Section 14 — Selling food not of the nature or substance or quality demanded.](part-ii/section-14.md)
 - [Section 15 — Falsely describing or presenting food.](part-ii/section-15.md)
 
-#### Food information[^key-901fcb364d6b1020e1b808ab3b447336]
+#### Food information[^c-901fcb364d6b1020e1b808ab3b447336]
 
 *Extent: S*
 
@@ -94,7 +94,7 @@ An Act to make new provision in place of the Food Act 1984 (except Parts III and
 - [Section 25 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-25.md)
 - [Section 26 — Regulations and orders: supplementary provisions.](part-ii/section-26.md)
 
-### Part III — ADMINISTRATION AND ENFORCEMENT[^c10203911][^c10203921][^key-f4a76ee694d402f69a55588de9ee45c2][^key-c20177cdcb681c082458b8f9bff662b6][^key-cc4538fcd14fad22a97456412d46160b][^key-ff4e13a0ce4b28171278e33876e63870]
+### Part III — ADMINISTRATION AND ENFORCEMENT[^c10203911][^c10203921][^c-f4a76ee694d402f69a55588de9ee45c2][^c-c20177cdcb681c082458b8f9bff662b6][^c-cc4538fcd14fad22a97456412d46160b][^c-ff4e13a0ce4b28171278e33876e63870]
 
 *Extent: E+W+S*
 
@@ -212,17 +212,17 @@ SCHEDULES
 
 [^c10202411]: Extent: Act except specified provisions does not extend to Northern Ireland see s. 60(5)
 
-[^key-9410283d6bc4117e0a6a9b85e17020ee]: Modification: Act modified (E.) (6.4.2010) by [The Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
+[^c-9410283d6bc4117e0a6a9b85e17020ee]: Modification: Act modified (E.) (6.4.2010) by [The Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
 
-[^key-56ab1b8f7074e60eb3071d26e170fc78]: Modification: Act modified (E.) (6.4.2010) by [The Bristol Port Health Authority Order 2010 (S.I. 2010/1214)](https://www.legislation.gov.uk/uksi/2010/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1214/article/1), [4](https://www.legislation.gov.uk/uksi/2010/1214/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1214/schedule)
+[^c-56ab1b8f7074e60eb3071d26e170fc78]: Modification: Act modified (E.) (6.4.2010) by [The Bristol Port Health Authority Order 2010 (S.I. 2010/1214)](https://www.legislation.gov.uk/uksi/2010/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1214/article/1), [4](https://www.legislation.gov.uk/uksi/2010/1214/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1214/schedule)
 
-[^key-b7cfd753d403f15b3685f6e2795c6278]: Modification: Act modified (E.) (6.4.2010) by [The Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
+[^c-b7cfd753d403f15b3685f6e2795c6278]: Modification: Act modified (E.) (6.4.2010) by [The Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
 
-[^key-95ecc04053692d69fb15fb96a1292804]: Modification: Act power to apply for certain purposes conferred (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [ss. 35](https://www.legislation.gov.uk/asp/2015/1/section/35), [63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-95ecc04053692d69fb15fb96a1292804]: Modification: Act power to apply for certain purposes conferred (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [ss. 35](https://www.legislation.gov.uk/asp/2015/1/section/35), [63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-fee46797391e8e7512176203b605f4b2]: Modification: Act functions transferred and modified (E.) (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
+[^c-fee46797391e8e7512176203b605f4b2]: Modification: Act functions transferred and modified (E.) (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
 
-[^key-91f5a633c3673c76f05569423f22cd21]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/16): functions etc. assigned to the Port Health Authority (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1161/schedule) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))
+[^c-91f5a633c3673c76f05569423f22cd21]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/16): functions etc. assigned to the Port Health Authority (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1161/schedule) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))
 
 [^c10202421]: Modification: Pts. I-III (ss. 1-39) functions transferred (10.1.1992) by [S.I. 1991/2913](https://www.legislation.gov.uk/uksi/1991/2913), [art. 8](https://www.legislation.gov.uk/uksi/1991/2913/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/2913/schedule/2)
 
@@ -236,15 +236,15 @@ SCHEDULES
 
 [^c10203151]: Modification: Pts. I-III (ss. 1-39) applied (with modifications) (7.8.1991) by [S.I. 1991/1773](https://www.legislation.gov.uk/uksi/1991/1773), [art. 8(2)(3)](https://www.legislation.gov.uk/uksi/1991/1773/article/8/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/1773/schedule/2)
 
-[^key-82e3ba4554b67916af5cf5cc480ba30a]: Modification: Pt. II modified (6.4.2010) by [The Cornwall Port Health Authority Order 2010 (S.I. 2010/1215)](https://www.legislation.gov.uk/uksi/2010/1215), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1215/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1215/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1215/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2010/1215/article/2))
+[^c-82e3ba4554b67916af5cf5cc480ba30a]: Modification: Pt. II modified (6.4.2010) by [The Cornwall Port Health Authority Order 2010 (S.I. 2010/1215)](https://www.legislation.gov.uk/uksi/2010/1215), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1215/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1215/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1215/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2010/1215/article/2))
 
-[^key-7824a3d1a39919c03184ee3e9e232a7a]: Modification: Pt. II modified (6.4.2010) by [The Southampton Port Health Authority Order 2010 (S.I. 2010/1218)](https://www.legislation.gov.uk/uksi/2010/1218), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1218/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1218/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1218/schedule)
+[^c-7824a3d1a39919c03184ee3e9e232a7a]: Modification: Pt. II modified (6.4.2010) by [The Southampton Port Health Authority Order 2010 (S.I. 2010/1218)](https://www.legislation.gov.uk/uksi/2010/1218), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1218/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1218/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1218/schedule)
 
-[^key-4aa12ee46b2e9af1c51af9c253426565]: Modification: Pt. II applied (with modifications) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
+[^c-4aa12ee46b2e9af1c51af9c253426565]: Modification: Pt. II applied (with modifications) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
 
-[^key-52e56288a785e499268f0eb537257c36]: Modification: Pt. II functions etc. assigned to the port health authority and modified (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/558/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/558/schedule/2) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/558/article/9/3))
+[^c-52e56288a785e499268f0eb537257c36]: Modification: Pt. II functions etc. assigned to the port health authority and modified (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/558/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/558/schedule/2) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/558/article/9/3))
 
-[^key-901fcb364d6b1020e1b808ab3b447336]: Textual amendment: Ss. 15A-15D and cross-heading inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [ss. 33](https://www.legislation.gov.uk/asp/2015/1/section/33), [63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-901fcb364d6b1020e1b808ab3b447336]: Textual amendment: Ss. 15A-15D and cross-heading inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [ss. 33](https://www.legislation.gov.uk/asp/2015/1/section/33), [63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
 [^c10203911]: Modification: Pts. I-III (ss. 1-39): functions transferred (10.1.1992) by [S.I. 1991/2913](https://www.legislation.gov.uk/uksi/1991/2913), [art. 8](https://www.legislation.gov.uk/uksi/1991/2913/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/2913/schedule/2)
 
@@ -252,10 +252,10 @@ SCHEDULES
 
 [^c10203921]: Modification: Pts. I-III (ss. 1-39) applied (with modifications) (7.8.1991) by [S.I. 1991/1773](https://www.legislation.gov.uk/uksi/1991/1773), [art. 8(2)(3)](https://www.legislation.gov.uk/uksi/1991/1773/article/8/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/1773/schedule/2)
 
-[^key-f4a76ee694d402f69a55588de9ee45c2]: Modification: Pt. III modified (6.4.2010) by [The Southampton Port Health Authority Order 2010 (S.I. 2010/1218)](https://www.legislation.gov.uk/uksi/2010/1218), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1218/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1218/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1218/schedule)
+[^c-f4a76ee694d402f69a55588de9ee45c2]: Modification: Pt. III modified (6.4.2010) by [The Southampton Port Health Authority Order 2010 (S.I. 2010/1218)](https://www.legislation.gov.uk/uksi/2010/1218), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1218/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1218/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1218/schedule)
 
-[^key-c20177cdcb681c082458b8f9bff662b6]: Modification: Pt. III modified (6.4.2010) by [The Cornwall Port Health Authority Order 2010 (S.I. 2010/1215)](https://www.legislation.gov.uk/uksi/2010/1215), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1215/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1215/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1215/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2010/1215/article/2))
+[^c-c20177cdcb681c082458b8f9bff662b6]: Modification: Pt. III modified (6.4.2010) by [The Cornwall Port Health Authority Order 2010 (S.I. 2010/1215)](https://www.legislation.gov.uk/uksi/2010/1215), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1215/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1215/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1215/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2010/1215/article/2))
 
-[^key-cc4538fcd14fad22a97456412d46160b]: Modification: Pt. III applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
+[^c-cc4538fcd14fad22a97456412d46160b]: Modification: Pt. III applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
 
-[^key-ff4e13a0ce4b28171278e33876e63870]: Modification: Pt. III functions etc. assigned to the port health authority and modified (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/558/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/558/schedule/2) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/558/article/9/3))
+[^c-ff4e13a0ce4b28171278e33876e63870]: Modification: Pt. III functions etc. assigned to the port health authority and modified (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/558/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/558/schedule/2) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/558/article/9/3))

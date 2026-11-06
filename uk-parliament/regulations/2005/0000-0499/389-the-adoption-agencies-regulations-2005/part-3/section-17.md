@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Requirement to prepare child's permanence report ...[^key-25a9a202f9130609c52c152619bd2c08]
+## 17. Requirement to prepare child's permanence report ...[^c-25a9a202f9130609c52c152619bd2c08]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 - (i) an analysis of the options for the future care of the child which have been considered by the agency and why placement for adoption is considered the preferred option; and
 - (j) any other information which the agency considers relevant.
 
-(2)[^key-5c9c4f21353fff79f6bd1ef7e042b252] In a case where—
+(2)[^c-5c9c4f21353fff79f6bd1ef7e042b252] In a case where—
 
 - (a) the adoption agency is a local authority and is considering whether the child ought to be placed for adoption, and
 - (b) either paragraph (2A) or paragraph (2B) applies,
@@ -67,6 +67,6 @@ except that, in a case falling within paragraph (2C), the adoption agency may on
 
 ## Annotations
 
-[^key-25a9a202f9130609c52c152619bd2c08]: Textual amendment: Words in reg. 17 heading omitted (1.9.2012) by virtue of [The Adoption Agencies (Panel and Consequential Amendments) Regulations 2012 (S.I. 2012/1410)](https://www.legislation.gov.uk/uksi/2012/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1410/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2012/1410/regulation/5/a)
+[^c-25a9a202f9130609c52c152619bd2c08]: Textual amendment: Words in reg. 17 heading omitted (1.9.2012) by virtue of [The Adoption Agencies (Panel and Consequential Amendments) Regulations 2012 (S.I. 2012/1410)](https://www.legislation.gov.uk/uksi/2012/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1410/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2012/1410/regulation/5/a)
 
-[^key-5c9c4f21353fff79f6bd1ef7e042b252]: Textual amendment: Reg. 17(2)-(2D) substituted for reg. 17(2)(2A) (1.9.2012) by [The Adoption Agencies (Panel and Consequential Amendments) Regulations 2012 (S.I. 2012/1410)](https://www.legislation.gov.uk/uksi/2012/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1410/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2012/1410/regulation/5/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2012/1410/regulation/7))
+[^c-5c9c4f21353fff79f6bd1ef7e042b252]: Textual amendment: Reg. 17(2)-(2D) substituted for reg. 17(2)(2A) (1.9.2012) by [The Adoption Agencies (Panel and Consequential Amendments) Regulations 2012 (S.I. 2012/1410)](https://www.legislation.gov.uk/uksi/2012/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1410/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2012/1410/regulation/5/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2012/1410/regulation/7))

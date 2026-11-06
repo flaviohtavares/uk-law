@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 235. Statement of consultation arrangements[^key-096dabe1942b3853ec24427321cefaee]
+## 235. Statement of consultation arrangements[^c-096dabe1942b3853ec24427321cefaee]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-096dabe1942b3853ec24427321cefaee]: Commencement: [S. 235](https://www.legislation.gov.uk/anaw/2016/1/section/235) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-096dabe1942b3853ec24427321cefaee]: Commencement: [S. 235](https://www.legislation.gov.uk/anaw/2016/1/section/235) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225E. Disposals by disabled persons or persons in care homes etc[^key-d6680d3e5dcb3307e280da80cefd10c4]
+## 225E. Disposals by disabled persons or persons in care homes etc[^c-d6680d3e5dcb3307e280da80cefd10c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 - (a) the individual's spouse or civil partner is a disabled person or a long-term resident in a care home, and
 - (b) neither the individual nor the individual's spouse or civil partner has any other relevant right in relation to a private residence.
 
-(4) Where this section applies, the references in section 223(1) and (2)(a) to 9 months[^key-8d69b10b24d5e9c6c4249f5589440ba9] are treated as references to 36 months.
+(4) Where this section applies, the references in section 223(1) and (2)(a) to 9 months[^c-8d69b10b24d5e9c6c4249f5589440ba9] are treated as references to 36 months.
 
 (5) An individual is a “long-term resident” in a care home at the time of the disposal if at that time the individual —
 
@@ -47,7 +47,7 @@ summary: ''
 - (a) at that time—
   - (i) the individual owns or holds an interest in a dwelling-house or part of a dwelling-house other than that in relation to which the gain accrued, or
   - (ii) the trustees of a settlement own or hold an interest in a dwelling-house or part of a dwelling-house other than that in relation to which the gain accrued, and the individual is entitled to occupy that dwelling-house or part under the terms of the settlement, and
-- (b) section 222 would have applied to any gain accruing to the individual or trustees on the disposal at that time of, or of that interest in, that dwelling house or part (or would have applied if a notice under subsection (5) of that section or under section 222A[^key-0e44197f080a90afb616207058361fea] had been given).
+- (b) section 222 would have applied to any gain accruing to the individual or trustees on the disposal at that time of, or of that interest in, that dwelling house or part (or would have applied if a notice under subsection (5) of that section or under section 222A[^c-0e44197f080a90afb616207058361fea] had been given).
 
 (7) In the application of this section in relation to a gain to which section 222 applies by virtue of section 225 (private residence occupied under terms of settlement)—
 
@@ -61,8 +61,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d6680d3e5dcb3307e280da80cefd10c4]: Textual amendment: S. 225E inserted (with effect in accordance with s. 58(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 58(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/58/2/c)
+[^c-d6680d3e5dcb3307e280da80cefd10c4]: Textual amendment: S. 225E inserted (with effect in accordance with s. 58(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 58(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/58/2/c)
 
-[^key-8d69b10b24d5e9c6c4249f5589440ba9]: Textual amendment: Words in s. 225E(4) substituted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 24(7)](https://www.legislation.gov.uk/ukpga/2020/14/section/24/7)
+[^c-8d69b10b24d5e9c6c4249f5589440ba9]: Textual amendment: Words in s. 225E(4) substituted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 24(7)](https://www.legislation.gov.uk/ukpga/2020/14/section/24/7)
 
-[^key-0e44197f080a90afb616207058361fea]: Textual amendment: Words in s. 225E(6)(b) inserted (with effect in accordance with Sch. 9 para. 10 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2015/11/schedule/9/paragraph/9)
+[^c-0e44197f080a90afb616207058361fea]: Textual amendment: Words in s. 225E(6)(b) inserted (with effect in accordance with Sch. 9 para. 10 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2015/11/schedule/9/paragraph/9)

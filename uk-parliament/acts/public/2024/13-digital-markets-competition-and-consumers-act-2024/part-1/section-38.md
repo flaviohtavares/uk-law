@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Power to adopt final offer mechanism[^key-e06790f6ae164f79b2b6c320b7534985][^key-129c6f12f5fdfa61f50bfa869a478a02]
+## 38. Power to adopt final offer mechanism[^c-e06790f6ae164f79b2b6c320b7534985][^c-129c6f12f5fdfa61f50bfa869a478a02]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ whether in accordance with a contract or otherwise.
 
 ## Annotations
 
-[^key-e06790f6ae164f79b2b6c320b7534985]: Commencement: S. 38 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-e06790f6ae164f79b2b6c320b7534985]: Commencement: S. 38 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-129c6f12f5fdfa61f50bfa869a478a02]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2024/13/section/38) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-129c6f12f5fdfa61f50bfa869a478a02]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2024/13/section/38) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

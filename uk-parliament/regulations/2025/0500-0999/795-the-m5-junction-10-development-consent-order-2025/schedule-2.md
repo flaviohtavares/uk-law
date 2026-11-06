@@ -24,7 +24,7 @@ Article 5
 
 ### PART 1 — REQUIREMENTS
 
-#### 1. Interpretation[^key-4838e796af4f1a36ecdc1e7d0011b44e]
+#### 1. Interpretation[^c-4838e796af4f1a36ecdc1e7d0011b44e]
 
 In this Schedule—
 
@@ -39,11 +39,11 @@ In this Schedule—
 - “**protected species**” means species which are subject to protection under the laws of England or which are European protected species;
 - “**the register of environmental actions and commitments**” means the document of that description listed in Schedule 10 and certified by the Secretary of State as the register of environmental actions and commitments for the purposes of this Order.
 
-#### 2. Time limits[^key-e4cb3fadc042b57a107177352a11f699]
+#### 2. Time limits[^c-e4cb3fadc042b57a107177352a11f699]
 
 The authorised development must not commence later than the expiration of 5 years beginning with the date on which this Order comes into force.
 
-#### 3. Environmental Management Plan[^key-cc19a800302f8d832721eb97766d2b6c]
+#### 3. Environmental Management Plan[^c-cc19a800302f8d832721eb97766d2b6c]
 
 (1) No part of the authorised development is to commence until a EMP (2nd iteration) for that part has been prepared in consultation with the county planning authority and the strategic highway authority and submitted to and approved in writing by the relevant planning authority.
 
@@ -88,7 +88,7 @@ The authorised development must not commence later than the expiration of 5 year
 
 (5) The authorised development must be operated and maintained in accordance with the EMP (3rd iteration) approved under paragraph (4).
 
-#### 4. Details of consultation[^key-1b88f9aa26a8a6413ed787126279b464]
+#### 4. Details of consultation[^c-1b88f9aa26a8a6413ed787126279b464]
 
 (1) Where appropriate, with respect to any requirement which requires details to be submitted to the relevant planning authority for approval under this Schedule following consultation with another party, the details submitted must be accompanied by a summary report setting out the consultation undertaken by the undertaker to inform the details submitted, the responses received to the consultation and the undertaker’s response to those responses.
 
@@ -98,7 +98,7 @@ The authorised development must not commence later than the expiration of 5 year
 
 (4) Where the consultation responses are not reflected in the details submitted to the relevant planning authority for approval, the undertaker must state in the summary report referred to in sub-paragraph (1) the reasons why the consultation responses have not been reflected in the submitted details.
 
-#### 5. Landscaping[^key-7c70393aed444ea4f2c5c866ca0454b7]
+#### 5. Landscaping[^c-7c70393aed444ea4f2c5c866ca0454b7]
 
 (1) No part of the authorised development is to commence until a written landscaping scheme for that part has been submitted to and approved in writing by the relevant planning authority following consultation with the county planning authority and the strategic highway authority.
 
@@ -117,7 +117,7 @@ The authorised development must not commence later than the expiration of 5 year
 - (e) details of existing trees to be retained, with measures for their protection during the construction period; and
 - (f) implementation timetables for all landscaping works.
 
-#### 6. Implementation and maintenance of landscaping[^key-a3bad9fb807795210d11a5e74c0ec08c]
+#### 6. Implementation and maintenance of landscaping[^c-a3bad9fb807795210d11a5e74c0ec08c]
 
 (1) All landscaping works must be carried out in accordance with the landscaping scheme approved under paragraph 5 of this Schedule.
 
@@ -125,11 +125,11 @@ The authorised development must not commence later than the expiration of 5 year
 
 (3) Any tree or shrub planted as part of the landscaping scheme that, within a period of 5 years after planting, is removed, dies or becomes, in the opinion of the relevant planning authority, seriously damaged or diseased, must be replaced in the first available planting season with a specimen of the same species and size as that originally planted.
 
-#### 7. Fencing[^key-b334668bfb645c00f6528aaba7f0e299]
+#### 7. Fencing[^c-b334668bfb645c00f6528aaba7f0e299]
 
 Any permanent and temporary fencing and other means of enclosure for the authorised development must be constructed and installed in accordance with the Manual of Contract Documents for Highway Works except where any departures from that manual are agreed in writing by the relevant planning authority following consultation with the county planning authority and strategic highway authority on matters related to their functions in connection with the authorised development.
 
-#### 8. Land and groundwater contamination[^key-b0e73924c81d11219de1257207038a60]
+#### 8. Land and groundwater contamination[^c-b0e73924c81d11219de1257207038a60]
 
 (1) No part of the authorised development is to commence until a contamination risk assessment in respect of controlled waters has been produced for that part which is to include details of—
 
@@ -147,7 +147,7 @@ and the assessment has been submitted to and approved by the relevant planning a
 
 (5) Remedial measures must be carried out in accordance with the scheme approved under sub-paragraph (4) and following completion of the remedial measures a validation report confirming the completion and effectiveness of those measures must be submitted to the Environment Agency and the relevant planning authority.
 
-#### 9. Archaeology[^key-37c66c89f03f3cd1ee0fb9048e28bca2]
+#### 9. Archaeology[^c-37c66c89f03f3cd1ee0fb9048e28bca2]
 
 (1) In order to be included in the EMP (2nd iteration) pursuant to paragraph 3(2)(e)(viii) of this Schedule, the archaeological management plan, must accord with the investigation and mitigation measures included in chapter 11 (cultural heritage) of the environmental statement, the EMP (1st iteration), and must include provision for site-specific archaeological project designs for each area and each phase where necessary, and have been prepared in consultation with the county planning authority, the strategic highway authority, the County Archaeologist and Historic England and have been submitted to and approved in writing by the relevant planning authority.
 
@@ -164,7 +164,7 @@ and the assessment has been submitted to and approved by the relevant planning a
 
 (6) In this paragraph “**County Archaeologist**” means the individual nominated or appointed as such by the relevant planning authority.
 
-#### 10. Protected species[^key-4160a9d2a00094eac4f89a1f34e42c61]
+#### 10. Protected species[^c-4160a9d2a00094eac4f89a1f34e42c61]
 
 (1) In the event that any protected species which were not previously identified in the environmental statement or nesting birds are found at any time when carrying out the authorised development, the undertaker must cease construction works near their location and report it immediately to the Ecological Clerk of Works.
 
@@ -174,7 +174,7 @@ and the assessment has been submitted to and approved by the relevant planning a
 
 (4) In this paragraph “**Ecological Clerk of Works**” means the individual appointed as such by the undertaker.
 
-#### 11. Detailed design[^key-382f616c8dbb789323ecc97911fba9a9]
+#### 11. Detailed design[^c-382f616c8dbb789323ecc97911fba9a9]
 
 (1) The authorised development must be designed in detail and carried out so that it is in accordance with—
 
@@ -187,16 +187,16 @@ unless otherwise agreed in writing by the relevant planning authority, following
 
 (3) In this paragraph—
 
-- (a) “**the general arrangement plans**” means the documents of that description listed in Schedule 10 (documents to be certified) and certified by the Secretary of State[^key-0236210178b8624a6aa5f3e69504419a] as the general arrangement plans (part 1) and the general arrangement plans (part 2) for the purposes of this Order; and
+- (a) “**the general arrangement plans**” means the documents of that description listed in Schedule 10 (documents to be certified) and certified by the Secretary of State[^c-0236210178b8624a6aa5f3e69504419a] as the general arrangement plans (part 1) and the general arrangement plans (part 2) for the purposes of this Order; and
 - (b) “**design principles report**” means the document of that description listed in Schedule 10 and certified by the Secretary of State as the design principles report for the purposes of this Order.
 
-#### 12. Surface water drainage[^key-62fea7ff7622b76d695388389b52f0e7]
+#### 12. Surface water drainage[^c-62fea7ff7622b76d695388389b52f0e7]
 
 (1) No part of the authorised development is to commence until written details of the surface water drainage system for that part, in accordance with the mitigation measures in chapter 8 (road drainage and the water environment) of the environmental statement and including means of pollution control, have been submitted to and approved in writing by the relevant planning authority following consultation with the county planning authority, the strategic highway authority and the Environment Agency.
 
 (2) The drainage system must be constructed in accordance with the approved details referred to in sub-paragraph (1) unless otherwise agreed in writing by the relevant planning authority following consultation with the county planning authority, strategic highway authority and the Environment Agency.
 
-#### 13. Flood compensation and flood storage[^key-8897bb1090f734feef473161ec3bbbfc]
+#### 13. Flood compensation and flood storage[^c-8897bb1090f734feef473161ec3bbbfc]
 
 (1) No part of the authorised development within the existing floodplain is to commence until a detailed scheme for the flood compensation areas or flood storage area relevant to that part of the authorised development within the existing floodplain has been submitted to and approved in writing by the relevant planning authority following consultation with the county planning authority, the strategic highway authority and the Environment Agency on matters related to their functions.
 
@@ -204,13 +204,13 @@ unless otherwise agreed in writing by the relevant planning authority, following
 
 (3) The scheme must be fully implemented as approved and subsequently maintained.
 
-#### 14. Flood risk assessment[^key-b4cf799d2e2db85c1a328ab66c4ccb5c]
+#### 14. Flood risk assessment[^c-b4cf799d2e2db85c1a328ab66c4ccb5c]
 
 (1) The undertaker is required to consider the Flood and Coastal Erosion Risk Data published quarterly by the Environment Agency in the flood risk assessment, in consultation with the Environment Agency and the county planning authority.
 
 (2) The undertaker is required to carry out the authorised development in accordance with the flood risk assessment.
 
-#### 15. Noise Mitigation[^key-214861c025e1aa6cc6c899e9a19f542f]
+#### 15. Noise Mitigation[^c-214861c025e1aa6cc6c899e9a19f542f]
 
 (1) No part of the authorised development is to commence until written details of proposed noise mitigation in respect of the use and operation of that part of the authorised development, including noise barriers and any very low noise surfacing, have been submitted to and approved in writing by the relevant planning authority following consultation with the county planning authority and the strategic highway authority on matters related to their functions.
 
@@ -221,7 +221,7 @@ unless otherwise agreed in writing by the relevant planning authority, following
 
 (3) The noise mitigation must be constructed in accordance with the approved details referred to in sub-paragraph (1) and must be retained thereafter.
 
-#### 16. Highway lighting[^key-081ede3a0fa3c7689a42f4c713481df8]
+#### 16. Highway lighting[^c-081ede3a0fa3c7689a42f4c713481df8]
 
 (1) No part of the authorised development is to be brought into use until a written scheme of the proposed highway lighting to be provided for that part of the authorised development has been submitted to and approved in writing by the relevant planning authority following consultation with the county planning authority and the strategic highway authority on matters related to their functions.
 
@@ -231,7 +231,7 @@ unless otherwise agreed in writing by the relevant planning authority, following
 
 (4) Nothing in this requirement restricts the lighting of the authorised development during its construction or where temporarily required for maintenance.
 
-#### 17. Building and construction materials – highways[^key-2b81c1e6abdb0acc5e8640c4525eefe4]
+#### 17. Building and construction materials – highways[^c-2b81c1e6abdb0acc5e8640c4525eefe4]
 
 (1) No part of the authorised development is to commence until written details of the materials to be used for the surfacing of the new highway and the adjacent cycleway and footway have been submitted to and approved in writing by the relevant planning authority following consultation with the county planning authority.
 
@@ -239,19 +239,19 @@ unless otherwise agreed in writing by the relevant planning authority, following
 
 (3) The authorised development must be carried out using the materials approved under sub-paragraph (1).
 
-#### 18. Building and construction materials – structures[^key-11945ca6d8dd3aa1c080533add26f5ae]
+#### 18. Building and construction materials – structures[^c-11945ca6d8dd3aa1c080533add26f5ae]
 
 (1) No part of the authorised development is to commence until written details of the building materials to be used for the external facings of all structures, including bridges, retaining walls and culvert sides and headwalls, have been submitted to and approved in writing by the relevant planning authority following consultation with the county planning authority.
 
 (2) The authorised development must be carried out using the materials approved under sub-paragraph (1).
 
-#### 19. Approvals and amendments to approved details[^key-efda4373d5c52b9f71ff61addd3c7217]
+#### 19. Approvals and amendments to approved details[^c-efda4373d5c52b9f71ff61addd3c7217]
 
 With respect to any requirement which requires the authorised development to be carried out in accordance with the details approved under this Schedule, the approved details are taken to include any amendments that may subsequently be approved or agreed in writing by the relevant planning authority.
 
 ### PART 2 — PROCEDURE FOR DISCHARGE OF REQUIREMENTS
 
-#### 20. Applications made under requirements[^key-d6ec9e8d52aa561d14146f44f7eb9896]
+#### 20. Applications made under requirements[^c-d6ec9e8d52aa561d14146f44f7eb9896]
 
 (1) Where an application has been made to the relevant planning authority for any consent, agreement or approval required by a requirement (including agreement or approval in respect of part of a requirement) included in this Order, the relevant planning authority must give notice to the undertaker of the decision on the application within a period of 8 weeks beginning with—
 
@@ -269,7 +269,7 @@ With respect to any requirement which requires the authorised development to be 
 
 the application is taken to have been refused by the relevant planning authority at the end of that period.
 
-#### 21. Further information[^key-2dd9cca242406a3724c628d84b7bdbe5]
+#### 21. Further information[^c-2dd9cca242406a3724c628d84b7bdbe5]
 
 (1) In relation to any part of an application made under this Schedule, the relevant planning authority has the right to request such further information from the undertaker as is necessary to enable the relevant planning authority to consider the application.
 
@@ -279,7 +279,7 @@ the application is taken to have been refused by the relevant planning authority
 
 (4) In this paragraph, “**business day**” means a day other than Saturday or Sunday which is not Christmas Day, Good Friday or a bank holiday under section 1 (bank holidays) of the Banking and Financial Dealings Act 1971[^f00083].
 
-#### 22. Register of requirements[^key-7d3fb289214374842ccc0f95b7007add]
+#### 22. Register of requirements[^c-7d3fb289214374842ccc0f95b7007add]
 
 (1) The undertaker must, as soon as practicable following the making of this Order, establish and maintain in an electronic form suitable for inspection by members of the public a register of those requirements contained in Part 1 of this Schedule that provide for further approvals to be given by the relevant planning authority.
 
@@ -287,58 +287,58 @@ the application is taken to have been refused by the relevant planning authority
 
 (3) The register must be maintained by the undertaker for a period of 3 years following completion of the authorised development.
 
-#### 23. Anticipatory steps towards compliance with any requirement[^key-ece9c9c4341edc03ebdae7c7bf90d47c]
+#### 23. Anticipatory steps towards compliance with any requirement[^c-ece9c9c4341edc03ebdae7c7bf90d47c]
 
 If before this Order came into force the undertaker or any other person took any steps that were intended to be steps towards compliance with any provision of Part 1 of this Schedule, those steps may be taken into account for the purpose of determining compliance with that provision if they would have been valid steps for that purpose had they been taken after this Order came into force.
 
 ## Annotations
 
-[^key-4838e796af4f1a36ecdc1e7d0011b44e]: Commencement: Sch. 2 para. 1 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-4838e796af4f1a36ecdc1e7d0011b44e]: Commencement: Sch. 2 para. 1 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-e4cb3fadc042b57a107177352a11f699]: Commencement: Sch. 2 para. 2 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-e4cb3fadc042b57a107177352a11f699]: Commencement: Sch. 2 para. 2 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-cc19a800302f8d832721eb97766d2b6c]: Commencement: Sch. 2 para. 3 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-cc19a800302f8d832721eb97766d2b6c]: Commencement: Sch. 2 para. 3 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-1b88f9aa26a8a6413ed787126279b464]: Commencement: Sch. 2 para. 4 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-1b88f9aa26a8a6413ed787126279b464]: Commencement: Sch. 2 para. 4 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-7c70393aed444ea4f2c5c866ca0454b7]: Commencement: Sch. 2 para. 5 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-7c70393aed444ea4f2c5c866ca0454b7]: Commencement: Sch. 2 para. 5 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-a3bad9fb807795210d11a5e74c0ec08c]: Commencement: Sch. 2 para. 6 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-a3bad9fb807795210d11a5e74c0ec08c]: Commencement: Sch. 2 para. 6 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-b334668bfb645c00f6528aaba7f0e299]: Commencement: Sch. 2 para. 7 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-b334668bfb645c00f6528aaba7f0e299]: Commencement: Sch. 2 para. 7 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-b0e73924c81d11219de1257207038a60]: Commencement: Sch. 2 para. 8 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-b0e73924c81d11219de1257207038a60]: Commencement: Sch. 2 para. 8 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-37c66c89f03f3cd1ee0fb9048e28bca2]: Commencement: Sch. 2 para. 9 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-37c66c89f03f3cd1ee0fb9048e28bca2]: Commencement: Sch. 2 para. 9 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-4160a9d2a00094eac4f89a1f34e42c61]: Commencement: Sch. 2 para. 10 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-4160a9d2a00094eac4f89a1f34e42c61]: Commencement: Sch. 2 para. 10 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-382f616c8dbb789323ecc97911fba9a9]: Commencement: Sch. 2 para. 11 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-382f616c8dbb789323ecc97911fba9a9]: Commencement: Sch. 2 para. 11 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-0236210178b8624a6aa5f3e69504419a]: Textual amendment: Words in [Sch. 2 para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2025/795/schedule/2/paragraph/11/3/a) substituted (3.11.2025) by [The M5 Junction 10 Development Consent (Correction) Order 2025 (S.I. 2025/1136)](https://www.legislation.gov.uk/uksi/2025/1136), [art. 1](https://www.legislation.gov.uk/uksi/2025/1136/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1136/schedule)
+[^c-0236210178b8624a6aa5f3e69504419a]: Textual amendment: Words in [Sch. 2 para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2025/795/schedule/2/paragraph/11/3/a) substituted (3.11.2025) by [The M5 Junction 10 Development Consent (Correction) Order 2025 (S.I. 2025/1136)](https://www.legislation.gov.uk/uksi/2025/1136), [art. 1](https://www.legislation.gov.uk/uksi/2025/1136/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1136/schedule)
 
-[^key-62fea7ff7622b76d695388389b52f0e7]: Commencement: Sch. 2 para. 12 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-62fea7ff7622b76d695388389b52f0e7]: Commencement: Sch. 2 para. 12 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-8897bb1090f734feef473161ec3bbbfc]: Commencement: Sch. 2 para. 13 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-8897bb1090f734feef473161ec3bbbfc]: Commencement: Sch. 2 para. 13 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-b4cf799d2e2db85c1a328ab66c4ccb5c]: Commencement: Sch. 2 para. 14 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-b4cf799d2e2db85c1a328ab66c4ccb5c]: Commencement: Sch. 2 para. 14 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-214861c025e1aa6cc6c899e9a19f542f]: Commencement: Sch. 2 para. 15 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-214861c025e1aa6cc6c899e9a19f542f]: Commencement: Sch. 2 para. 15 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-081ede3a0fa3c7689a42f4c713481df8]: Commencement: Sch. 2 para. 16 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-081ede3a0fa3c7689a42f4c713481df8]: Commencement: Sch. 2 para. 16 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-2b81c1e6abdb0acc5e8640c4525eefe4]: Commencement: Sch. 2 para. 17 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-2b81c1e6abdb0acc5e8640c4525eefe4]: Commencement: Sch. 2 para. 17 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-11945ca6d8dd3aa1c080533add26f5ae]: Commencement: Sch. 2 para. 18 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-11945ca6d8dd3aa1c080533add26f5ae]: Commencement: Sch. 2 para. 18 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-efda4373d5c52b9f71ff61addd3c7217]: Commencement: Sch. 2 para. 19 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-efda4373d5c52b9f71ff61addd3c7217]: Commencement: Sch. 2 para. 19 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-d6ec9e8d52aa561d14146f44f7eb9896]: Commencement: Sch. 2 para. 20 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-d6ec9e8d52aa561d14146f44f7eb9896]: Commencement: Sch. 2 para. 20 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-2dd9cca242406a3724c628d84b7bdbe5]: Commencement: Sch. 2 para. 21 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-2dd9cca242406a3724c628d84b7bdbe5]: Commencement: Sch. 2 para. 21 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
 [^f00083]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-7d3fb289214374842ccc0f95b7007add]: Commencement: Sch. 2 para. 22 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-7d3fb289214374842ccc0f95b7007add]: Commencement: Sch. 2 para. 22 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-ece9c9c4341edc03ebdae7c7bf90d47c]: Commencement: Sch. 2 para. 23 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-ece9c9c4341edc03ebdae7c7bf90d47c]: Commencement: Sch. 2 para. 23 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)

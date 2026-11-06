@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.27. Court file[^key-7d84e7b1d84670b32144c33efbd0a89a]
+## 4.27. Court file[^c-7d84e7b1d84670b32144c33efbd0a89a]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7d84e7b1d84670b32144c33efbd0a89a]: Commencement: Rule 4.27 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-7d84e7b1d84670b32144c33efbd0a89a]: Commencement: Rule 4.27 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
 
 [^f00019]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39). There are amendments to section 92 which are not relevant to this instrument.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Determination of total base price[^key-b706b4a2896d0181d92fe5b561a367c1]
+## 35. Determination of total base price[^c-b706b4a2896d0181d92fe5b561a367c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b706b4a2896d0181d92fe5b561a367c1]: Commencement: Reg. 35 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-b706b4a2896d0181d92fe5b561a367c1]: Commencement: Reg. 35 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

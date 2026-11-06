@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80. Particulars of members to be registered under regulation 79: individuals[^key-9407573c3d891a811140881c94b47e9a]
+## 80. Particulars of members to be registered under regulation 79: individuals[^c-9407573c3d891a811140881c94b47e9a]
 
 *Extent: E+W+S*
 
-(1) a UK Societas's[^key-0029d9cd6d0be779393dfa600f8cd775] register of SO members must contain the following particulars in the case of any member of the supervisory organ who is an individual—
+(1) a UK Societas's[^c-0029d9cd6d0be779393dfa600f8cd775] register of SO members must contain the following particulars in the case of any member of the supervisory organ who is an individual—
 
 - (a) name and any former name;
 - (b) a service address;
@@ -47,14 +47,14 @@ Where a person is or was formerly known by more than one such name, each of them
   - (i) was changed or disused before the person attained the age of 16 years, or
   - (ii) has been changed or disused for 20 years or more.
 
-(5) A person’s service address may be stated to be “The UK Societas's[^key-0b068554a31969d0e63a7975a3a5555e] registered office”.
+(5) A person’s service address may be stated to be “The UK Societas's[^c-0b068554a31969d0e63a7975a3a5555e] registered office”.
 
 (6) For the meaning of “service address” see section 1141 of the 2006 Act.
 
 ## Annotations
 
-[^key-9407573c3d891a811140881c94b47e9a]: Textual amendment: Regs. 79-80E substituted for regs. 79, 80 (1.10.2009) by [The European Public Limited-Liability Company (Amendment) Regulations 2009 (S.I. 2009/2400)](https://www.legislation.gov.uk/uksi/2009/2400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2400/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2009/2400/regulation/28) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/2400/regulation/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2400/schedule/2))
+[^c-9407573c3d891a811140881c94b47e9a]: Textual amendment: Regs. 79-80E substituted for regs. 79, 80 (1.10.2009) by [The European Public Limited-Liability Company (Amendment) Regulations 2009 (S.I. 2009/2400)](https://www.legislation.gov.uk/uksi/2009/2400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2400/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2009/2400/regulation/28) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/2400/regulation/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2400/schedule/2))
 
-[^key-0029d9cd6d0be779393dfa600f8cd775]: Textual amendment: Words in [reg. 80(1)](https://www.legislation.gov.uk/uksi/2004/2326/regulation/80/1) substituted (31.12.2020) by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [27(a)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/27/a) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0029d9cd6d0be779393dfa600f8cd775]: Textual amendment: Words in [reg. 80(1)](https://www.legislation.gov.uk/uksi/2004/2326/regulation/80/1) substituted (31.12.2020) by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [27(a)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/27/a) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0b068554a31969d0e63a7975a3a5555e]: Textual amendment: Words in [reg. 80(5)](https://www.legislation.gov.uk/uksi/2004/2326/regulation/80/5) substituted (31.12.2020) by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [27(b)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/27/b) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b068554a31969d0e63a7975a3a5555e]: Textual amendment: Words in [reg. 80(5)](https://www.legislation.gov.uk/uksi/2004/2326/regulation/80/5) substituted (31.12.2020) by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [27(b)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/27/b) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Qualifying abstraction[^key-4472e070b004b8ac99d536fae3643c95]
+## 5. Qualifying abstraction[^c-4472e070b004b8ac99d536fae3643c95]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4472e070b004b8ac99d536fae3643c95]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2013/5/section/5) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-4472e070b004b8ac99d536fae3643c95]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2013/5/section/5) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

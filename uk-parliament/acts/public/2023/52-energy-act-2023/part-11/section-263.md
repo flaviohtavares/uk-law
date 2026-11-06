@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 263. ESOS regulations: procedure etc[^key-5306ccc3ca807da0e1d55b8a84f04507]
+## 263. ESOS regulations: procedure etc[^c-5306ccc3ca807da0e1d55b8a84f04507]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,4 +75,4 @@ and subsection (2) applies to consultation under paragraph (b) as it applies to 
 
 ## Annotations
 
-[^key-5306ccc3ca807da0e1d55b8a84f04507]: Commencement: S. 263 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)
+[^c-5306ccc3ca807da0e1d55b8a84f04507]: Commencement: S. 263 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)

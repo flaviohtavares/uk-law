@@ -41,22 +41,22 @@ Coming into operation-
 
 18th December 2006
 
-[^key-68a94bae72326b068801b38164fefd82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68a94bae72326b068801b38164fefd82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-68a94bae72326b068801b38164fefd82]
+## 1. Citation and commencement[^c-68a94bae72326b068801b38164fefd82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. By-Laws amended[^key-68a94bae72326b068801b38164fefd82]
+## 2. By-Laws amended[^c-68a94bae72326b068801b38164fefd82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-68a94bae72326b068801b38164fefd82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68a94bae72326b068801b38164fefd82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-68a94bae72326b068801b38164fefd82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68a94bae72326b068801b38164fefd82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-68a94bae72326b068801b38164fefd82]: Textual amendment: Byelaw revoked (1.8.2008) by [The Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2008 (S.R. 2008/245)](https://www.legislation.gov.uk/nisr/2008/245), Byelaw 3
+[^c-68a94bae72326b068801b38164fefd82]: Textual amendment: Byelaw revoked (1.8.2008) by [The Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2008 (S.R. 2008/245)](https://www.legislation.gov.uk/nisr/2008/245), Byelaw 3

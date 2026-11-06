@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Corresponding provision in relation to Wales[^key-57aa8cae67e6c39dea025ce1d936c588]
+## 44. Corresponding provision in relation to Wales[^c-57aa8cae67e6c39dea025ce1d936c588]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,4 +86,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57aa8cae67e6c39dea025ce1d936c588]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2010/25/section/44) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/c)
+[^c-57aa8cae67e6c39dea025ce1d936c588]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2010/25/section/44) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Evidence seized under the order[^key-d8291d5d0a7d34474c8c093b0d18faaf]
+## 24. Evidence seized under the order[^c-d8291d5d0a7d34474c8c093b0d18faaf]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ the territorial authority may by notice require the constable to send the eviden
 
 ## Annotations
 
-[^key-d8291d5d0a7d34474c8c093b0d18faaf]: Commencement: S. 24 in force at 19.10.2009 by [S.I. 2009/2605](https://www.legislation.gov.uk/uksi/2009/2605), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/2605/article/2/b)
+[^c-d8291d5d0a7d34474c8c093b0d18faaf]: Commencement: S. 24 in force at 19.10.2009 by [S.I. 2009/2605](https://www.legislation.gov.uk/uksi/2009/2605), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/2605/article/2/b)

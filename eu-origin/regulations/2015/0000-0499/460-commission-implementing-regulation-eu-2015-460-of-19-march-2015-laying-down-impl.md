@@ -35,48 +35,48 @@ laying down implementing technical standards with regard to the procedure concer
 
 (Text with EEA relevance) (revoked)
 
-[^key-bdb96b454e06aa54835d11b2d5bb5ae5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdb96b454e06aa54835d11b2d5bb5ae5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-bdb96b454e06aa54835d11b2d5bb5ae5]
+## Article 1. Subject matter[^c-bdb96b454e06aa54835d11b2d5bb5ae5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Application to calculate the Solvency Capital Requirement using an internal model[^key-bdb96b454e06aa54835d11b2d5bb5ae5]
+## Article 2. Application to calculate the Solvency Capital Requirement using an internal model[^c-bdb96b454e06aa54835d11b2d5bb5ae5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Assessment of the application[^key-bdb96b454e06aa54835d11b2d5bb5ae5]
+## Article 3. Assessment of the application[^c-bdb96b454e06aa54835d11b2d5bb5ae5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Right to withdraw the application by the undertaking[^key-bdb96b454e06aa54835d11b2d5bb5ae5]
+## Article 4. Right to withdraw the application by the undertaking[^c-bdb96b454e06aa54835d11b2d5bb5ae5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Decision on the application[^key-bdb96b454e06aa54835d11b2d5bb5ae5]
+## Article 5. Decision on the application[^c-bdb96b454e06aa54835d11b2d5bb5ae5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Transitional plan to extend the scope of the model[^key-bdb96b454e06aa54835d11b2d5bb5ae5]
+## Article 6. Transitional plan to extend the scope of the model[^c-bdb96b454e06aa54835d11b2d5bb5ae5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Changes to the internal model[^key-bdb96b454e06aa54835d11b2d5bb5ae5]
+## Article 7. Changes to the internal model[^c-bdb96b454e06aa54835d11b2d5bb5ae5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Changes to the policy for changing the internal model[^key-bdb96b454e06aa54835d11b2d5bb5ae5]
+## Article 8. Changes to the policy for changing the internal model[^c-bdb96b454e06aa54835d11b2d5bb5ae5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Entry into force[^key-bdb96b454e06aa54835d11b2d5bb5ae5]
+## Article 9. Entry into force[^c-bdb96b454e06aa54835d11b2d5bb5ae5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bdb96b454e06aa54835d11b2d5bb5ae5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdb96b454e06aa54835d11b2d5bb5ae5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bdb96b454e06aa54835d11b2d5bb5ae5]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))
+[^c-bdb96b454e06aa54835d11b2d5bb5ae5]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))

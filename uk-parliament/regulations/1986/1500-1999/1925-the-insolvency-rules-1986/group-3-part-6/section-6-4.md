@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.4. Application to set aside statutory demand[^key-39997ab43b32edfe9cc3bb3724f55c5a]
+## 6.4. Application to set aside statutory demand[^c-39997ab43b32edfe9cc3bb3724f55c5a]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ The affidavit shall have exhibited to it a copy of the statutory demand.
 
 ## Annotations
 
-[^key-39997ab43b32edfe9cc3bb3724f55c5a]: Commencement: [Rule 6.4](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.4) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-39997ab43b32edfe9cc3bb3724f55c5a]: Commencement: [Rule 6.4](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.4) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00122]: Marginal citation: \[FORM 6.4\]
 

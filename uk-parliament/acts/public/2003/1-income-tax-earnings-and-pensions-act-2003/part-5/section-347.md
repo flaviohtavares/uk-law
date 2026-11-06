@@ -25,8 +25,8 @@ summary: ''
 - (a) the employee has ceased to hold the employment, and
 - (b) the payment is made after the day on which the employee ceased to hold the employment.
 
-(2) If subsection (1) applies, see section 555 (former employee entitled to deduction in calculating net income[^key-9cba77fba858dd0d75209f6a1d893c6f]).
+(2) If subsection (1) applies, see section 555 (former employee entitled to deduction in calculating net income[^c-9cba77fba858dd0d75209f6a1d893c6f]).
 
 ## Annotations
 
-[^key-9cba77fba858dd0d75209f6a1d893c6f]: Textual amendment: Words in s. 347(2) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 435](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/435) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-9cba77fba858dd0d75209f6a1d893c6f]: Textual amendment: Words in s. 347(2) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 435](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/435) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

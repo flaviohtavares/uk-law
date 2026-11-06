@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — STREETS TO BE STOPPED UP[^key-4b27ab89789a2dda1ec5a51cffcc57e8]
+## SCHEDULE 4 — STREETS TO BE STOPPED UP[^c-4b27ab89789a2dda1ec5a51cffcc57e8]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ Article 7
 
 ## Annotations
 
-[^key-4b27ab89789a2dda1ec5a51cffcc57e8]: Commencement: Sch. 4 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-4b27ab89789a2dda1ec5a51cffcc57e8]: Commencement: Sch. 4 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

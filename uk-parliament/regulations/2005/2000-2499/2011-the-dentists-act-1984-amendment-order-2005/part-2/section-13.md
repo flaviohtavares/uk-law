@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Repeal of section 25[^key-4914cd5e90b35599c3c7b61fde104a01]
+## 13. Repeal of section 25[^c-4914cd5e90b35599c3c7b61fde104a01]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Section 25 (alterations of names and addresses) is hereby repealed.
 
 ## Annotations
 
-[^key-4914cd5e90b35599c3c7b61fde104a01]: Commencement: Art. 13 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-4914cd5e90b35599c3c7b61fde104a01]: Commencement: Art. 13 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

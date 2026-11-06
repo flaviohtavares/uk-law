@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. International provisions[^key-46b41b066dd9607da68c7dbbf8db47fc]
+## 27. International provisions[^c-46b41b066dd9607da68c7dbbf8db47fc]
 
 *Extent: N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-46b41b066dd9607da68c7dbbf8db47fc]: Commencement: Reg. 27 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-46b41b066dd9607da68c7dbbf8db47fc]: Commencement: Reg. 27 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
 [^f00016]: Footnote: Cmnd. 5897
 

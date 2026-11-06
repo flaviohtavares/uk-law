@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 305A. Introduction[^key-c8521b9ac84463868adc29eec29c73d7]
+## 305A. Introduction[^c-c8521b9ac84463868adc29eec29c73d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8521b9ac84463868adc29eec29c73d7]: Textual amendment: S. 305A inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 2](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/2), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-c8521b9ac84463868adc29eec29c73d7]: Textual amendment: S. 305A inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 2](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/2), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)

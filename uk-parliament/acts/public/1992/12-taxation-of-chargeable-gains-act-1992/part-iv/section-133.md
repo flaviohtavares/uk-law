@@ -22,16 +22,16 @@ summary: ''
 
 (1) This section applies where, on a conversion of securities, a person receives, or becomes entitled to receive, any sum of money (“**the premium**”) which is by way of consideration (in addition to his new holding) for the disposal of the converted securities.
 
-(2) If [^key-adb557a04aabbc33b6bd08fc8fe80a02]... the premium is small, as compared with the value of the converted securities, [^key-adb557a04aabbc33b6bd08fc8fe80a02]...—
+(2) If [^c-adb557a04aabbc33b6bd08fc8fe80a02]... the premium is small, as compared with the value of the converted securities, [^c-adb557a04aabbc33b6bd08fc8fe80a02]...—
 
 - (a) receipt of the premium shall not be treated for the purposes of this Act as a disposal of part of the converted securities, and
 - (b) the premium shall be deducted from any expenditure allowable under this Act as a deduction in computing a gain or loss on the disposal of the new holding by the person receiving or becoming entitled to receive the premium.
 
-(3)[^key-3aecb868d29ff5185c31fc4997acd039] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3aecb868d29ff5185c31fc4997acd039] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where the allowable expenditure is less than the premium (or is nil)—
 
-- (a) subsection (2)[^key-10d9c7a43407a376d991e83d6eca5d1f] above shall not apply, and
+- (a) subsection (2)[^c-10d9c7a43407a376d991e83d6eca5d1f] above shall not apply, and
 - (b) if the recipient so elects (and there is any allowable expenditure)—
   - (i) the amount of the premium shall be reduced by the amount of the allowable expenditure, and
   - (ii) none of that expenditure shall be allowable as a deduction in computing a gain accruing on the occasion of the conversion, or on any subsequent occasion.
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-adb557a04aabbc33b6bd08fc8fe80a02]: Textual amendment: Words in s. 133(2) repealed (with effect in accordance with s. 134(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 20 para. 53(1)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/20/paragraph/53/1), [Sch. 41 Pt. V(10)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/10)
+[^c-adb557a04aabbc33b6bd08fc8fe80a02]: Textual amendment: Words in s. 133(2) repealed (with effect in accordance with s. 134(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 20 para. 53(1)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/20/paragraph/53/1), [Sch. 41 Pt. V(10)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/10)
 
-[^key-3aecb868d29ff5185c31fc4997acd039]: Textual amendment: S. 133(3) repealed (with effect in accordance with s. 134(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 20 para. 53(2)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/20/paragraph/53/2), [Sch. 41 Pt. V(10)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/10)
+[^c-3aecb868d29ff5185c31fc4997acd039]: Textual amendment: S. 133(3) repealed (with effect in accordance with s. 134(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 20 para. 53(2)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/20/paragraph/53/2), [Sch. 41 Pt. V(10)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/10)
 
-[^key-10d9c7a43407a376d991e83d6eca5d1f]: Textual amendment: Words in s. 133(4)(a) substituted (with effect in accordance with s. 134(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 20 para. 53(3)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/20/paragraph/53/3)
+[^c-10d9c7a43407a376d991e83d6eca5d1f]: Textual amendment: Words in s. 133(4)(a) substituted (with effect in accordance with s. 134(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 20 para. 53(3)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/20/paragraph/53/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 12 — HAZARDOUS WASTE MIXING AND WASTE OIL MIXING, AND TREATMENT OF WASTE OIL[^key-867140ad6b303fa15c0cc823a6833337]
+## SCHEDULE 12 — HAZARDOUS WASTE MIXING AND WASTE OIL MIXING, AND TREATMENT OF WASTE OIL[^c-867140ad6b303fa15c0cc823a6833337]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ SEPA must ensure that an authorisation for a waste management activity involving
 
 ## Annotations
 
-[^key-867140ad6b303fa15c0cc823a6833337]: Textual amendment: [Sch. 12](https://www.legislation.gov.uk/ssi/2018/219/schedule/12) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 3](https://www.legislation.gov.uk/ssi/2025/165/schedule/3) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-867140ad6b303fa15c0cc823a6833337]: Textual amendment: [Sch. 12](https://www.legislation.gov.uk/ssi/2018/219/schedule/12) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 3](https://www.legislation.gov.uk/ssi/2025/165/schedule/3) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

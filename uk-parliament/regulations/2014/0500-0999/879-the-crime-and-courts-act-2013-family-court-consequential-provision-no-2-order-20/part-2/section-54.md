@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W*
 
-**54.**[^key-ab85390b8dc51a09cc762e43f372e518] In section 10(3)—
+**54.**[^c-ab85390b8dc51a09cc762e43f372e518] In section 10(3)—
 
 - (a) after “magistrates’ court”, in the first place, insert “in Northern Ireland”; and
 - (b) for the words “that part of the United Kingdom in which the registering court is” substitute “Northern Ireland”.
 
 ## Annotations
 
-[^key-ab85390b8dc51a09cc762e43f372e518]: Commencement: Art. 54 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-ab85390b8dc51a09cc762e43f372e518]: Commencement: Art. 54 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

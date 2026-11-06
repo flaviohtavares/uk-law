@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-211f3a8b84999b812256f27546db3002]
+## 2. Interpretation[^c-211f3a8b84999b812256f27546db3002]
 
 *Extent: N.I.*
 
@@ -91,7 +91,7 @@ summary: ''
 
 ## Annotations
 
-[^key-211f3a8b84999b812256f27546db3002]: Commencement: Reg. 2 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-211f3a8b84999b812256f27546db3002]: Commencement: Reg. 2 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1996 No. 49](https://www.legislation.gov.uk/nisr/1996/49)
 

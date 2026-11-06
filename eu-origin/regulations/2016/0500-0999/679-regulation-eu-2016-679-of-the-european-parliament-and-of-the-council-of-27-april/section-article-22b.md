@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 22B. Restrictions on automated decision-making[^key-042d2369856e547e1cdae35bc6d46865]
+## Article 22B. Restrictions on automated decision-making[^c-042d2369856e547e1cdae35bc6d46865]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-042d2369856e547e1cdae35bc6d46865]: Textual amendment: [Ch. 3 Section 4A](https://www.legislation.gov.uk/eur/2016/679/chapter/3/section/4A) substituted for Art. 22 (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 80(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/80/1), [142(1)(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1/2/h); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/j) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/82/regulation/5))
+[^c-042d2369856e547e1cdae35bc6d46865]: Textual amendment: [Ch. 3 Section 4A](https://www.legislation.gov.uk/eur/2016/679/chapter/3/section/4A) substituted for Art. 22 (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 80(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/80/1), [142(1)(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1/2/h); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/j) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/82/regulation/5))

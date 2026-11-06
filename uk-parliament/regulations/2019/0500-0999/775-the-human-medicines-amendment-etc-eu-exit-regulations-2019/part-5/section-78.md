@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Amendment of regulation 69 (suspension of use etc of relevant medicinal product)[^key-0b983ab1ce6eef1c38c6cab110f82c55]
+## 78. Amendment of regulation 69 (suspension of use etc of relevant medicinal product)[^c-0b983ab1ce6eef1c38c6cab110f82c55]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 69 [^c23884921], omit paragraph (10).
 
 ## Annotations
 
-[^key-0b983ab1ce6eef1c38c6cab110f82c55]: Commencement: Reg. 78 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-0b983ab1ce6eef1c38c6cab110f82c55]: Commencement: Reg. 78 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23884921]: Marginal citation: Regulation 69 was amended by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878).

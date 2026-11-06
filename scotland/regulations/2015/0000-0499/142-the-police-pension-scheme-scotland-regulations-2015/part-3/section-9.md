@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Establishment of scheme advisory board[^key-2658fe811a3833843628a69593d28391]
+## 9. Establishment of scheme advisory board[^c-2658fe811a3833843628a69593d28391]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2658fe811a3833843628a69593d28391]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-2658fe811a3833843628a69593d28391]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00029]: Footnote: See section 7(6) of the Act for the meaning of “scheme advisory board”.

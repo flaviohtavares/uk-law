@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.6. Setting aside judgment entered after striking out[^key-1373a31bedec78cd30873f6cd26669a3]
+## 3.6. Setting aside judgment entered after striking out[^c-1373a31bedec78cd30873f6cd26669a3]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1373a31bedec78cd30873f6cd26669a3]: Commencement: [Rule 3.6](https://www.legislation.gov.uk/uksi/1998/3132/rule/3.6) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-1373a31bedec78cd30873f6cd26669a3]: Commencement: [Rule 3.6](https://www.legislation.gov.uk/uksi/1998/3132/rule/3.6) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

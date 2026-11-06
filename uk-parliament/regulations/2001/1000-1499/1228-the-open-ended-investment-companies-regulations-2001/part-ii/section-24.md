@@ -22,10 +22,10 @@ summary: ''
 
 (1) If the Authority proposes to make an order revoking an authorisation order (“a revoking order"), it must give separate warning notices to the company and its depositary.
 
-(2) If, having given warning notices, the Authority decides to make a revoking order it must without delay give the company and its depositary a decision notice and either of them may refer the matter to the Upper Tribunal[^key-a71b92635f9fda5a42202efc4135c40f].
+(2) If, having given warning notices, the Authority decides to make a revoking order it must without delay give the company and its depositary a decision notice and either of them may refer the matter to the Upper Tribunal[^c-a71b92635f9fda5a42202efc4135c40f].
 
 (3) Sections 393 and 394 of the Act apply to a warning notice or a decision notice given in accordance with this regulation.
 
 ## Annotations
 
-[^key-a71b92635f9fda5a42202efc4135c40f]: Textual amendment: Words in reg. 24(2) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 21](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/21)
+[^c-a71b92635f9fda5a42202efc4135c40f]: Textual amendment: Words in reg. 24(2) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 21](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/21)

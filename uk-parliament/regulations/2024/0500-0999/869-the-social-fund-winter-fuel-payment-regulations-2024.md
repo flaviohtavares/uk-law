@@ -32,7 +32,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Fund Winter Fuel Payment Regulations 2024 (revoked)[^key-bc4e972864d7daf3c6a0e2d74fa95072]
+The Social Fund Winter Fuel Payment Regulations 2024 (revoked)[^c-bc4e972864d7daf3c6a0e2d74fa95072]
 
 Made
 
@@ -46,55 +46,55 @@ Coming into force
 
 16th September 2024
 
-[^key-bc4e972864d7daf3c6a0e2d74fa95072]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bc4e972864d7daf3c6a0e2d74fa95072]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-bc4e972864d7daf3c6a0e2d74fa95072]
+## 1. Citation, commencement, extent and interpretation[^c-bc4e972864d7daf3c6a0e2d74fa95072]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Entitlement to a Winter Fuel Payment[^key-bc4e972864d7daf3c6a0e2d74fa95072]
+## 2. Entitlement to a Winter Fuel Payment[^c-bc4e972864d7daf3c6a0e2d74fa95072]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amount of a Winter Fuel Payment[^key-bc4e972864d7daf3c6a0e2d74fa95072]
+## 3. Amount of a Winter Fuel Payment[^c-bc4e972864d7daf3c6a0e2d74fa95072]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Persons not entitled to a Winter Fuel Payment[^key-bc4e972864d7daf3c6a0e2d74fa95072]
+## 4. Persons not entitled to a Winter Fuel Payment[^c-bc4e972864d7daf3c6a0e2d74fa95072]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Making a Winter Fuel Payment without a claim[^key-bc4e972864d7daf3c6a0e2d74fa95072]
+## 5. Making a Winter Fuel Payment without a claim[^c-bc4e972864d7daf3c6a0e2d74fa95072]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Consequential amendments to the Social Security (Claims and Payments) Regulations 1987[^key-bc4e972864d7daf3c6a0e2d74fa95072]
+## 6. Consequential amendments to the Social Security (Claims and Payments) Regulations 1987[^c-bc4e972864d7daf3c6a0e2d74fa95072]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocations and expiry[^key-bc4e972864d7daf3c6a0e2d74fa95072]
+## 7. Revocations and expiry[^c-bc4e972864d7daf3c6a0e2d74fa95072]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bc4e972864d7daf3c6a0e2d74fa95072]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bc4e972864d7daf3c6a0e2d74fa95072]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-bc4e972864d7daf3c6a0e2d74fa95072]Schedules
+[^c-bc4e972864d7daf3c6a0e2d74fa95072]Schedules
 
-## Schedule 1 — Countries[^key-bc4e972864d7daf3c6a0e2d74fa95072]
+## Schedule 1 — Countries[^c-bc4e972864d7daf3c6a0e2d74fa95072]
 
 *Extent: E+W*
 
@@ -102,7 +102,7 @@ Regulation 2(3)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Schedule 2 — Regulations and Orders revoked[^key-bc4e972864d7daf3c6a0e2d74fa95072]
+## Schedule 2 — Regulations and Orders revoked[^c-bc4e972864d7daf3c6a0e2d74fa95072]
 
 Regulation 7(1)
 
@@ -110,8 +110,8 @@ Regulation 7(1)
 
 **May not be in force at this date. Check the source.**
 
-[^key-bc4e972864d7daf3c6a0e2d74fa95072]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bc4e972864d7daf3c6a0e2d74fa95072]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bc4e972864d7daf3c6a0e2d74fa95072]: Textual amendment: Regulations revoked (15.9.2025) by [The Social Fund Winter Fuel Payment Regulations 2025 (S.I. 2025/969)](https://www.legislation.gov.uk/uksi/2025/969), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/969/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2025/969/regulation/7/a)
+[^c-bc4e972864d7daf3c6a0e2d74fa95072]: Textual amendment: Regulations revoked (15.9.2025) by [The Social Fund Winter Fuel Payment Regulations 2025 (S.I. 2025/969)](https://www.legislation.gov.uk/uksi/2025/969), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/969/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2025/969/regulation/7/a)

@@ -27,7 +27,7 @@ summary: ''
 
 1987 No. 1627 (N.I. 16)
 
-The Enduring Powers of Attorney (Northern Ireland) Order 1987[^key-c084a2b4253de15e3192792bd6422328]
+The Enduring Powers of Attorney (Northern Ireland) Order 1987[^c-c084a2b4253de15e3192792bd6422328]
 
 15th September 1987
 
@@ -98,7 +98,7 @@ The Enduring Powers of Attorney (Northern Ireland) Order 1987[^key-c084a2b4253de
 
 (6) A power of attorney cannot be an enduring power unless, when he executes the instrument creating it, the attorney is—
 
-- (a) an individual who has attained eighteen years and is not bankrupt or subject to a bankruptcy restrictions order[^key-e97f52017e93bd3e375e7522c02f9787] or a person in relation to whom a moratorium period under a debt relief order applies or who is subject to a debt relief restrictions order[^key-78e1778d2033f028ad2855548f73ee5a] ; or
+- (a) an individual who has attained eighteen years and is not bankrupt or subject to a bankruptcy restrictions order[^c-e97f52017e93bd3e375e7522c02f9787] or a person in relation to whom a moratorium period under a debt relief order applies or who is subject to a debt relief restrictions order[^c-78e1778d2033f028ad2855548f73ee5a] ; or
 - (b) a trust corporation.
 
 (7) A power of attorney under section 26 of the Trustee Act (Northern Ireland) [^m00006] 1958 (power to delegate trusts etc. by power of attorney) cannot be an enduring power.
@@ -448,7 +448,7 @@ Article 13(2) and (3).
 
 ## Annotations
 
-[^key-c084a2b4253de15e3192792bd6422328]: Modification: [Order](https://www.legislation.gov.uk/nisi/1987/1627) applied (2.12.2019) by [Mental Capacity Act (Northern Ireland) 2016 (c. 18)](https://www.legislation.gov.uk/nia/2016/18), [ss. 276(6)(c)](https://www.legislation.gov.uk/nia/2016/18/section/276/6/c), [307(2)](https://www.legislation.gov.uk/nia/2016/18/section/307/2) (with [ss. 285-287](https://www.legislation.gov.uk/nia/2016/18/section/285)); [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-c084a2b4253de15e3192792bd6422328]: Modification: [Order](https://www.legislation.gov.uk/nisi/1987/1627) applied (2.12.2019) by [Mental Capacity Act (Northern Ireland) 2016 (c. 18)](https://www.legislation.gov.uk/nia/2016/18), [ss. 276(6)(c)](https://www.legislation.gov.uk/nia/2016/18/section/276/6/c), [307(2)](https://www.legislation.gov.uk/nia/2016/18/section/307/2) (with [ss. 285-287](https://www.legislation.gov.uk/nia/2016/18/section/285)); [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
 [^c16980531]: Textual amendment: fully exercised by SR 1989/63
 
@@ -462,9 +462,9 @@ Article 13(2) and (3).
 
 [^m00005]: Marginal citation: 1954 c. 33 (N.I.)
 
-[^key-e97f52017e93bd3e375e7522c02f9787]: Textual amendment: Words in art. 4(6)(a) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 8](https://www.legislation.gov.uk/nisr/2015/159/schedule/Pt/paragraph/8)
+[^c-e97f52017e93bd3e375e7522c02f9787]: Textual amendment: Words in art. 4(6)(a) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 8](https://www.legislation.gov.uk/nisr/2015/159/schedule/Pt/paragraph/8)
 
-[^key-78e1778d2033f028ad2855548f73ee5a]: Textual amendment: Words in [art. 4(6)(a)](https://www.legislation.gov.uk/nisi/1987/1627/article/4/6/a) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 11](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/11)
+[^c-78e1778d2033f028ad2855548f73ee5a]: Textual amendment: Words in [art. 4(6)(a)](https://www.legislation.gov.uk/nisi/1987/1627/article/4/6/a) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 11](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/11)
 
 [^m00006]: Marginal citation: 1958 c. 23 (N.I.)
 

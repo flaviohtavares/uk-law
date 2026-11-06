@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 143(1) and (2) of, and paragraph 4(2)(a) of Schedule 4ZA and paragraphs 1 and 2(2)(ga) of Schedule 9 to, the Local Government Finance Act 1988[^f00001].
 
-## 1. Citation, extent and commencement[^key-2123e48b8cc9d860b3def4d92dce6562]
+## 1. Citation, extent and commencement[^c-2123e48b8cc9d860b3def4d92dce6562]
 
 (1) These Regulations may be cited as the Non-Domestic Rating (Small Business Rate Relief and Demand Notices) (England) (Amendment) Regulations 2026.
 
@@ -54,7 +54,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) These Regulations come into force on 1st April 2026.
 
-## 2. Amendment of the Non-Domestic Rating (Small Business Rate Relief) (England) Regulations 2023[^key-67efa8023807ce6c1918f37502b76415]
+## 2. Amendment of the Non-Domestic Rating (Small Business Rate Relief) (England) Regulations 2023[^c-67efa8023807ce6c1918f37502b76415]
 
 In regulation 2 of the Non-Domestic Rating (Small Business Rate Relief) (England) Regulations 2023[^f00002], for paragraph (3) substitute—
 
@@ -69,7 +69,7 @@ In regulation 2 of the Non-Domestic Rating (Small Business Rate Relief) (England
 
 .
 
-## 3. Amendment of the Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003[^key-ce5d7880509fca25f0085fb79032e97c]
+## 3. Amendment of the Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003[^c-ce5d7880509fca25f0085fb79032e97c]
 
 In paragraph 3 of Schedule 2 to the Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003[^f00003], for “Part 1”, substitute “Part A1”[^f00004].
 
@@ -101,13 +101,13 @@ An impact assessment has not been produced for this instrument because it amends
 
 [^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Schedule 4ZA was inserted by section 1 of the Non-Domestic Rating Act [2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53). See paragraph 11 of Schedule 4ZA for the definition of “the appropriate national authority”. See section 146(6) for the definition of “prescribed”.
 
-[^key-2123e48b8cc9d860b3def4d92dce6562]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2026/17/regulation/1) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/17/regulation/1/3)
+[^c-2123e48b8cc9d860b3def4d92dce6562]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2026/17/regulation/1) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/17/regulation/1/3)
 
-[^key-67efa8023807ce6c1918f37502b76415]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2026/17/regulation/2) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/17/regulation/1/3)
+[^c-67efa8023807ce6c1918f37502b76415]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2026/17/regulation/2) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/17/regulation/1/3)
 
 [^f00002]: Footnote: [S.I. 2023/1250](https://www.legislation.gov.uk/uksi/2023/1250).
 
-[^key-ce5d7880509fca25f0085fb79032e97c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2026/17/regulation/3) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/17/regulation/1/3)
+[^c-ce5d7880509fca25f0085fb79032e97c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2026/17/regulation/3) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/17/regulation/1/3)
 
 [^f00003]: Footnote: [S.I. 2003/2613](https://www.legislation.gov.uk/uksi/2003/2613), amended by [S.I. 2004/3389](https://www.legislation.gov.uk/uksi/2004/3389).
 

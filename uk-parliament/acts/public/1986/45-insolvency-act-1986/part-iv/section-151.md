@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Payment into bank of money due to company.[^key-ece76036214c24db47348c3b0f9f836e]
+## 151. Payment into bank of money due to company.[^c-ece76036214c24db47348c3b0f9f836e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ece76036214c24db47348c3b0f9f836e]: Textual amendment: S. 151 omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/9); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/iii)
+[^c-ece76036214c24db47348c3b0f9f836e]: Textual amendment: S. 151 omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/9); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/iii)

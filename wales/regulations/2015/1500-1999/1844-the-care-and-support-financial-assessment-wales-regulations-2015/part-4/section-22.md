@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Notional capital[^key-7c1d4f65fa93754dc6edba6545be6475]
+## 22. Notional capital[^c-7c1d4f65fa93754dc6edba6545be6475]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c1d4f65fa93754dc6edba6545be6475]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2015/1844/regulation/22) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
+[^c-7c1d4f65fa93754dc6edba6545be6475]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2015/1844/regulation/22) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)

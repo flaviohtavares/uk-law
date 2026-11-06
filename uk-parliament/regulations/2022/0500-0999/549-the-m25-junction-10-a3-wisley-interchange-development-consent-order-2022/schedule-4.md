@@ -22,7 +22,7 @@ summary: ''
 
 Articles 15 and 26
 
-### PART 1 — HIGHWAYS AND PUBLIC RIGHTS OF WAY TO BE STOPPED UP OR EXTINGUISHED AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^key-b9d80f89e3dc703e2441e1966b103e69]
+### PART 1 — HIGHWAYS AND PUBLIC RIGHTS OF WAY TO BE STOPPED UP OR EXTINGUISHED AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^c-b9d80f89e3dc703e2441e1966b103e69]
 
 | *(1)*<br>*Highway/public right of way to be stopped up* | *(2)*<br>*Extent of stopping up* | *(3)*<br>*New highway/public right of way to be provided* |
 | --- | --- | --- |
@@ -54,7 +54,7 @@ Articles 15 and 26
 | Footpath 11 at Clearmount Bridge | For a distance of 125 metres, as shown between points 12/2 and 12/3 on Sheet 12 of the streets, rights of way and access plans. | Work No.49 |
 | Bridleway 8 at Wisley Lane | For a distance of 55 metres, as shown between points 20/6 and 20/7 on Sheet 20 of the streets, rights of way and access plans. | Work No.35 |
 
-### PART 2 — HIGHWAYS AND PUBLIC RIGHTS OF WAY TO BE STOPPED UP OR EXTINGUISHED AND FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-cfe209bf6c27c241fe3b8361509dcdcd]
+### PART 2 — HIGHWAYS AND PUBLIC RIGHTS OF WAY TO BE STOPPED UP OR EXTINGUISHED AND FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-cfe209bf6c27c241fe3b8361509dcdcd]
 
 | *(1)*<br>*Highway/public right of way to be stopped up* | *(2)*<br>*Extent of stopping up* | *(3)*<br>*Notes* |
 | --- | --- | --- |
@@ -64,7 +64,7 @@ Articles 15 and 26
 | Pointers Road | For a distance of 815 metres, as shown between point 5/35 on Sheet 5 and point 13/6 on Sheet 13 of the streets, rights of way and access plans. | This section of unclassified public road is not currently accessible to vehicles. This section is to be reclassified as public bridleway – Work No.37. |
 | Old Byfleet Road (unclassified highway) | For a distance of 300 metres, as shown between point 8/25 on Sheet 8 and point 9/5 on Sheet 9 of the streets, rights of way and access plans. | Old Byfleet Road is a cul de sac and provides access to Feltonfleet School only.<br>Work No.44(c) will provide a substitute route for non-motorised users. |
 
-### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-4bc2cdbdc915d9daa98d1edeaff0b850]
+### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-4bc2cdbdc915d9daa98d1edeaff0b850]
 
 | *(1)*<br>*Private means of access to be stopped up* | *(2)*<br>*Extent of stopping up* | *(3)*<br>*New private means of access to be substituted* |
 | --- | --- | --- |
@@ -77,13 +77,13 @@ Articles 15 and 26
 | Access to the Starbucks Drive Thru Cafe | At point H, as shown on Sheet 7 of the streets, rights of way and access plans. | Work Nos. 35 and 35(j) |
 | Access to New Farm | At point I, as shown on Sheet 7 of the streets, rights of way and access plans. | Work Nos. 40 |
 
-### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-7d08a59464e78cd3aaecb645d6268733]
+### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-7d08a59464e78cd3aaecb645d6268733]
 
 | *(1)*<br>*Private means of access to be stopped up* | *(2)*<br>*Extent of stopping up* | *(3)*<br>*Notes* |
 | --- | --- | --- |
 | Painshill Park emergency access from A3 southbound carriageway | At point E, as shown on Sheet 6 of the streets, rights of way and access plans. | There is reasonably convenient access to the land otherwise than from the street or private means of access concerned. |
 
-### PART 5 — ALTERATIONS TO PRIVATE MEANS OF ACCESS[^key-269f1e039b3a944efe21c55553ee9a00]
+### PART 5 — ALTERATIONS TO PRIVATE MEANS OF ACCESS[^c-269f1e039b3a944efe21c55553ee9a00]
 
 | *(1)*<br>*Private means of access to be altered* | *(2)*<br>*Extent of alteration* |
 | --- | --- |
@@ -92,12 +92,12 @@ Articles 15 and 26
 
 ## Annotations
 
-[^key-b9d80f89e3dc703e2441e1966b103e69]: Commencement: Sch. 4 Pt. 1 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-b9d80f89e3dc703e2441e1966b103e69]: Commencement: Sch. 4 Pt. 1 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
-[^key-cfe209bf6c27c241fe3b8361509dcdcd]: Commencement: Sch. 4 Pt. 2 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-cfe209bf6c27c241fe3b8361509dcdcd]: Commencement: Sch. 4 Pt. 2 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
-[^key-4bc2cdbdc915d9daa98d1edeaff0b850]: Commencement: Sch. 4 Pt. 3 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-4bc2cdbdc915d9daa98d1edeaff0b850]: Commencement: Sch. 4 Pt. 3 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
-[^key-7d08a59464e78cd3aaecb645d6268733]: Commencement: Sch. 4 Pt. 4 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-7d08a59464e78cd3aaecb645d6268733]: Commencement: Sch. 4 Pt. 4 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
-[^key-269f1e039b3a944efe21c55553ee9a00]: Commencement: Sch. 4 Pt. 5 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-269f1e039b3a944efe21c55553ee9a00]: Commencement: Sch. 4 Pt. 5 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)

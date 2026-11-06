@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-bf0589da7d791ccd0bfa7af9e8d18566] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-bf0589da7d791ccd0bfa7af9e8d18566] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In paragraph 1(1) of Schedule 2A to that Act (converting unleaded petrol into leaded petrol)—
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf0589da7d791ccd0bfa7af9e8d18566]: Textual amendment: [S. 2(1)](https://www.legislation.gov.uk/ukpga/2001/9/section/2/1) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 13(11)(d)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/11/d)[(12)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/12)
+[^c-bf0589da7d791ccd0bfa7af9e8d18566]: Textual amendment: [S. 2(1)](https://www.legislation.gov.uk/ukpga/2001/9/section/2/1) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 13(11)(d)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/11/d)[(12)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/12)

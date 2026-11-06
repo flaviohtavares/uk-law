@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 131. Suitability of living accommodation[^key-2e5e5b94920aeebe39f7aa249fe998e4]
+## 131. Suitability of living accommodation[^c-2e5e5b94920aeebe39f7aa249fe998e4]
 
 *Extent: S*
 
@@ -31,13 +31,13 @@ summary: ''
 - (b) its condition,
 - (c) any amenities it contains,
 - (d) the type and number of persons likely to occupy it,
-- (da)[^key-ec83d45ffec4c07e21f87f78a861879b] whether any rooms within it have been subdivided,
+- (da)[^c-ec83d45ffec4c07e21f87f78a861879b] whether any rooms within it have been subdivided,
 - (db) whether any rooms within it have been adapted and that has resulted in an alteration to the situation of the water and drainage pipes within it,
 - (e) the safety and security of persons likely to occupy it, and
 - (f) the possibility of undue public nuisance.
 
 ## Annotations
 
-[^key-2e5e5b94920aeebe39f7aa249fe998e4]: Commencement: S. 131 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-2e5e5b94920aeebe39f7aa249fe998e4]: Commencement: S. 131 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-ec83d45ffec4c07e21f87f78a861879b]: Textual amendment: S. 131(2)(da)(db) inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 13(3)](https://www.legislation.gov.uk/asp/2011/14/section/13/3), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-ec83d45ffec4c07e21f87f78a861879b]: Textual amendment: S. 131(2)(da)(db) inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 13(3)](https://www.legislation.gov.uk/asp/2011/14/section/13/3), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)

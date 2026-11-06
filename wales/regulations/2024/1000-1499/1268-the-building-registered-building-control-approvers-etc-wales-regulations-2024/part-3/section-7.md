@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Form, grounds and period for rejecting amendment notice[^key-18756e63a84ee48051f01370f88f1e83]
+## 7. Form, grounds and period for rejecting amendment notice[^c-18756e63a84ee48051f01370f88f1e83]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18756e63a84ee48051f01370f88f1e83]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2024/1268/regulation/7) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-18756e63a84ee48051f01370f88f1e83]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2024/1268/regulation/7) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## SCHEDULE 5 — FEES AND CHARGES[^key-f9942b285a69ebcaed5af538946a22cb]
+## SCHEDULE 5 — FEES AND CHARGES[^c-f9942b285a69ebcaed5af538946a22cb]
 
 Regulation 28
 
@@ -44,7 +44,7 @@ Regulation 28
 
 ## Annotations
 
-[^key-f9942b285a69ebcaed5af538946a22cb]: Modification: [Sch. 5](https://www.legislation.gov.uk/ssi/2018/66/schedule/5) modified (1.4.2018) by [The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)](https://www.legislation.gov.uk/ssi/2018/67), [art. 1(2)](https://www.legislation.gov.uk/ssi/2018/67/article/1/2), [reg. 24(2)](https://www.legislation.gov.uk/ssi/2018/67/regulation/24/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/67/regulation/2))
+[^c-f9942b285a69ebcaed5af538946a22cb]: Modification: [Sch. 5](https://www.legislation.gov.uk/ssi/2018/66/schedule/5) modified (1.4.2018) by [The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)](https://www.legislation.gov.uk/ssi/2018/67), [art. 1(2)](https://www.legislation.gov.uk/ssi/2018/67/article/1/2), [reg. 24(2)](https://www.legislation.gov.uk/ssi/2018/67/regulation/24/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/67/regulation/2))
 
 [^f00103]: Footnote: Section 57 was substituted by section 7 of the Health and Medicines Act [1988 (c.49)](https://www.legislation.gov.uk/ukpga/1988/49), and amended by paragraph 19(1) of schedule 9 and paragraph 1 of schedule 10 of the National Health Service and Community Care Act [1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 124. Liable relative payments to be treated as capital[^key-13bd84c3857c4f1e98bc0bfd4121eea2]
+## 124. Liable relative payments to be treated as capital[^c-13bd84c3857c4f1e98bc0bfd4121eea2]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13bd84c3857c4f1e98bc0bfd4121eea2]: Commencement: Reg. 124 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-13bd84c3857c4f1e98bc0bfd4121eea2]: Commencement: Reg. 124 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

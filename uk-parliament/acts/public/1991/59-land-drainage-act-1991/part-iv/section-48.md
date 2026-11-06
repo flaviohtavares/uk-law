@@ -36,14 +36,14 @@ is given by the board in accordance with subsection (3) below within ten days of
 (3) A notice under subsection (2) above of a rate made by the drainage board for any internal drainage district may, as the board think fit, either—
 
 - (a) be affixed in one or more public or conspicuous places in that district; or
-- (b) be published in some other way[^key-1390324992a397289ddbd63459f3eb7d] .
+- (b) be published in some other way[^c-1390324992a397289ddbd63459f3eb7d] .
 
-(3A)[^key-48dec5802e4d9e159e0f7ef7172e4c8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-48dec5802e4d9e159e0f7ef7172e4c8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Every drainage rate shall be in the prescribed form.
 
 ## Annotations
 
-[^key-1390324992a397289ddbd63459f3eb7d]: Textual amendment: Words in s. 48(3)(b) substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 9 para. 6(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/9/paragraph/6/2); [S.I. 2014/1823](https://www.legislation.gov.uk/uksi/2014/1823), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1823/article/2/b)
+[^c-1390324992a397289ddbd63459f3eb7d]: Textual amendment: Words in s. 48(3)(b) substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 9 para. 6(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/9/paragraph/6/2); [S.I. 2014/1823](https://www.legislation.gov.uk/uksi/2014/1823), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1823/article/2/b)
 
-[^key-48dec5802e4d9e159e0f7ef7172e4c8e]: Textual amendment: S. 48(3A) omitted (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 82(1)](https://www.legislation.gov.uk/anaw/2016/3/section/82/1), [88(2)(d)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/d)
+[^c-48dec5802e4d9e159e0f7ef7172e4c8e]: Textual amendment: S. 48(3A) omitted (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 82(1)](https://www.legislation.gov.uk/anaw/2016/3/section/82/1), [88(2)(d)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/d)

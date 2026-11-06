@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80A. Duty to report on air quality in England[^key-8a4841a37ff516847ebdf8d154049a8a]
+## 80A. Duty to report on air quality in England[^c-8a4841a37ff516847ebdf8d154049a8a]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ As soon as reasonably practicable after the end of each financial year, beginnin
 
 ## Annotations
 
-[^key-8a4841a37ff516847ebdf8d154049a8a]: Textual amendment: [S. 80A](https://www.legislation.gov.uk/ukpga/1995/25/section/80A) inserted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
+[^c-8a4841a37ff516847ebdf8d154049a8a]: Textual amendment: [S. 80A](https://www.legislation.gov.uk/ukpga/1995/25/section/80A) inserted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)

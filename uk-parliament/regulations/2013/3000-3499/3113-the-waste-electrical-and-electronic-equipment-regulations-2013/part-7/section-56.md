@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Notification of a decision to refuse to approve a proposed scheme[^key-4e7acd9a2966cef314de60f462cbd3da]
+## 56. Notification of a decision to refuse to approve a proposed scheme[^c-4e7acd9a2966cef314de60f462cbd3da]
 
 *Extent: E+W+S+N.I.*
 
-(1) Any decision of the appropriate authority under regulation 55 to refuse to approve a proposed scheme must[^key-9459c3e25f918cf5852e3ca819fd5b90] be notified, within 14 days of the decision, to the applicant.
+(1) Any decision of the appropriate authority under regulation 55 to refuse to approve a proposed scheme must[^c-9459c3e25f918cf5852e3ca819fd5b90] be notified, within 14 days of the decision, to the applicant.
 
 (2) A notification under paragraph (1) must—
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e7acd9a2966cef314de60f462cbd3da]: Commencement: Reg. 56 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-4e7acd9a2966cef314de60f462cbd3da]: Commencement: Reg. 56 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
 
-[^key-9459c3e25f918cf5852e3ca819fd5b90]: Textual amendment: Word in [reg. 56](https://www.legislation.gov.uk/uksi/2013/3113/regulation/56) substituted (25.7.2014) by [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2014/1771/schedule/1/paragraph/24)
+[^c-9459c3e25f918cf5852e3ca819fd5b90]: Textual amendment: Word in [reg. 56](https://www.legislation.gov.uk/uksi/2013/3113/regulation/56) substituted (25.7.2014) by [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2014/1771/schedule/1/paragraph/24)

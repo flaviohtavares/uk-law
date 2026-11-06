@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Regulatory and representative functions[^key-1d2d57272ff69f8bbd6991c3fdc4bc8b]
+## 30. Regulatory and representative functions[^c-1d2d57272ff69f8bbd6991c3fdc4bc8b]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d2d57272ff69f8bbd6991c3fdc4bc8b]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2010/16/section/30) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-1d2d57272ff69f8bbd6991c3fdc4bc8b]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2010/16/section/30) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

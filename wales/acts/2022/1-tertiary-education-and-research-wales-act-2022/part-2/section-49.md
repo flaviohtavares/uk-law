@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Validity of contracts[^key-d62aad39fa29a33c7362b0c36d3bcbdd][^key-f1b578bfafe0626d7faffbcac33ac2eb]
+## 49. Validity of contracts[^c-d62aad39fa29a33c7362b0c36d3bcbdd][^c-f1b578bfafe0626d7faffbcac33ac2eb]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d62aad39fa29a33c7362b0c36d3bcbdd]: Commencement: S. 49 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-d62aad39fa29a33c7362b0c36d3bcbdd]: Commencement: S. 49 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-f1b578bfafe0626d7faffbcac33ac2eb]: Commencement: [S. 49](https://www.legislation.gov.uk/asc/2022/1/section/49) in force at 31.7.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 16(a)](https://www.legislation.gov.uk/wsi/2026/62/article/16/a)
+[^c-f1b578bfafe0626d7faffbcac33ac2eb]: Commencement: [S. 49](https://www.legislation.gov.uk/asc/2022/1/section/49) in force at 31.7.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 16(a)](https://www.legislation.gov.uk/wsi/2026/62/article/16/a)

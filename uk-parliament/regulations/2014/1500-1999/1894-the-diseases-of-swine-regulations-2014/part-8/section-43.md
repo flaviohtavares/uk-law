@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Miscellaneous revocations, disapplication and consequential amendments[^key-f945f17f0d3282c104638137d1bacb28]
+## 43. Miscellaneous revocations, disapplication and consequential amendments[^c-f945f17f0d3282c104638137d1bacb28]
 
 *Extent: E+W+S*
 
@@ -93,7 +93,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f945f17f0d3282c104638137d1bacb28]: Commencement: Reg. 43 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-f945f17f0d3282c104638137d1bacb28]: Commencement: Reg. 43 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
 
 [^f00036]: Footnote: c.22. Functions conferred under that Act on “the Ministers” (as defined in section 86) are now exercisable in relation to England by the Secretary of State. Functions of “the Ministers” were transferred, so far as exercisable by the Secretaries of State for Scotland and Wales, to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 ([S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)). Functions of the Minister of Agriculture, Fisheries and Food were then transferred to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
 

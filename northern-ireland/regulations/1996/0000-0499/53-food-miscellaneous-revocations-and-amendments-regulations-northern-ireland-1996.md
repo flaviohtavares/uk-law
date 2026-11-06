@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland in exercise of the powers conferred on it by Articles 15(1), (2) and (3), 16, 25(1)(*a*), (2)(*e*) and (3), 26(3), 32 and 47(2) of, and paragraphs 1 and 5 of Schedule 1 to, the Food Safety (Northern Ireland) Order 1991[^f00001], and being a designated Department[^f00002] for the purposes of section 2(2) of the European Communities Act 1972[^f00003] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by the said section 2(2), and of all other powers enabling it in that behalf and after consultation in accordance with Article 47(3) of the said Order with such organisations as appear to it to be representative of interests likely to be substantially affected by these Regulations (insofar as the Regulations are made in exercise of the powers conferred by the said Order), hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-ff2e90a54c706c4a37636f00a8d4ffed]
+## 1. Citation, commencement and interpretation[^c-ff2e90a54c706c4a37636f00a8d4ffed]
 
 (1) These Regulations may be cited as the Food (Miscellaneous Revocations and Amendments) Regulations (Northern Ireland) 1996 and shall come into operation on 22nd April 1996.
 
@@ -52,11 +52,11 @@ The Department of Health and Social Services for Northern Ireland in exercise of
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly
 
-## 2. Revocations[^key-e2ef70bf47436b8321edc40457a5a4e3]
+## 2. Revocations[^c-e2ef70bf47436b8321edc40457a5a4e3]
 
 The Regulations and order specified in columns 1 and 2 of the Schedule are hereby revoked to the extent specified in relation thereto in column 3 of that Schedule.
 
-## 3. Amendments[^key-6267e4f8f6730f5788eff1b2344ad505]
+## 3. Amendments[^c-6267e4f8f6730f5788eff1b2344ad505]
 
 (1) In the Cocoa and Chocolate Products Regulations (Northern Ireland) 1976[^f00008], in paragraph (1) of regulation 2 (interpretation), for the definition of “ice cream” there shall be substituted—
 
@@ -158,7 +158,7 @@ Assistant Secretary
 
 28th February 1996.
 
-## SCHEDULE — Revocations[^key-4994c26b75dae00b7ac68046488264bd]
+## SCHEDULE — Revocations[^c-4994c26b75dae00b7ac68046488264bd]
 
 Regulation 2
 
@@ -189,7 +189,7 @@ Regulation 2
 </tbody>
 </table>
 
-[^key-8f139dabeba90d44914f419c801bc3ca][^key-8f139dabeba90d44914f419c801bc3ca][^key-8f139dabeba90d44914f419c801bc3ca]
+[^c-8f139dabeba90d44914f419c801bc3ca][^c-8f139dabeba90d44914f419c801bc3ca][^c-8f139dabeba90d44914f419c801bc3ca]
 
 (This note is not part of the Regulations.)
 
@@ -211,7 +211,7 @@ These Regulations also amend the definition of “ice cream” in the Cocoa and 
 
 [^f00003]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-ff2e90a54c706c4a37636f00a8d4ffed]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1996/53/regulation/1) in operation at 22.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/53/regulation/1/1)
+[^c-ff2e90a54c706c4a37636f00a8d4ffed]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1996/53/regulation/1) in operation at 22.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/53/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. & O. (N.I.) 1961 No. 190](https://www.legislation.gov.uk/nisro/1961/190); relevant amending Regulations are [S.R. 1976 No. 70](https://www.legislation.gov.uk/nisr/1976/70), [S.R. 1982 No. 43](https://www.legislation.gov.uk/nisr/1982/43), [S.R. 1991 Nos. 203](https://www.legislation.gov.uk/nisr/1991/203) and [344](https://www.legislation.gov.uk/nisr/1991/344), [S.R. 1992 Nos. 463](https://www.legislation.gov.uk/nisr/1992/463) and [464](https://www.legislation.gov.uk/nisr/1992/464), and [S.R. 1995 No. 85](https://www.legislation.gov.uk/nisr/1995/85)
 
@@ -221,9 +221,9 @@ These Regulations also amend the definition of “ice cream” in the Cocoa and 
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-e2ef70bf47436b8321edc40457a5a4e3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1996/53/regulation/2) in operation at 22.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/53/regulation/1/1)
+[^c-e2ef70bf47436b8321edc40457a5a4e3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1996/53/regulation/2) in operation at 22.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/53/regulation/1/1)
 
-[^key-6267e4f8f6730f5788eff1b2344ad505]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1996/53/regulation/3) in operation at 22.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/53/regulation/1/1)
+[^c-6267e4f8f6730f5788eff1b2344ad505]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1996/53/regulation/3) in operation at 22.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/53/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 1976 No. 183](https://www.legislation.gov.uk/nisr/1976/183), to which there are amendments not relevant to these Regulations
 
@@ -243,6 +243,6 @@ These Regulations also amend the definition of “ice cream” in the Cocoa and 
 
 [^f00016]: Footnote: Regulation 31A was substituted by [S.R. 1989 No. 229](https://www.legislation.gov.uk/nisr/1989/229)
 
-[^key-4994c26b75dae00b7ac68046488264bd]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/1996/53/schedule) in operation at 22.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/53/regulation/1/1)
+[^c-4994c26b75dae00b7ac68046488264bd]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/1996/53/schedule) in operation at 22.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/53/regulation/1/1)
 
-[^key-8f139dabeba90d44914f419c801bc3ca]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1996/53/schedule) revoked (29.7.2002) by [Contaminants in Food Regulations (Northern Ireland) 2002 (S.R. 2002/219)](https://www.legislation.gov.uk/nisr/2002/219), [regs. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1), [10](https://www.legislation.gov.uk/nisr/2002/219/regulation/10), [Sch.](https://www.legislation.gov.uk/nisr/2002/219/schedule)
+[^c-8f139dabeba90d44914f419c801bc3ca]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1996/53/schedule) revoked (29.7.2002) by [Contaminants in Food Regulations (Northern Ireland) 2002 (S.R. 2002/219)](https://www.legislation.gov.uk/nisr/2002/219), [regs. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1), [10](https://www.legislation.gov.uk/nisr/2002/219/regulation/10), [Sch.](https://www.legislation.gov.uk/nisr/2002/219/schedule)

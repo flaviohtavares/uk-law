@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Transfer of cases from the Sexual Offences Court[^key-4b5b26f02e91fc834166061da145cd7e]
+## 81. Transfer of cases from the Sexual Offences Court[^c-4b5b26f02e91fc834166061da145cd7e]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ whether or not such decision was made at a preliminary hearing.
 
 ## Annotations
 
-[^key-4b5b26f02e91fc834166061da145cd7e]: Commencement: S. 81 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-4b5b26f02e91fc834166061da145cd7e]: Commencement: S. 81 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

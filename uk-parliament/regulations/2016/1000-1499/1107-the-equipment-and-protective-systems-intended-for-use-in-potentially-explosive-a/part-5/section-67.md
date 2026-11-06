@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 67. Recovery of expenses of enforcement[^key-363bf5848b756e2474b88f37e5b2dc9e]
+## 67. Recovery of expenses of enforcement[^c-363bf5848b756e2474b88f37e5b2dc9e]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-363bf5848b756e2474b88f37e5b2dc9e]: Commencement: Reg. 67 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-363bf5848b756e2474b88f37e5b2dc9e]: Commencement: Reg. 67 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

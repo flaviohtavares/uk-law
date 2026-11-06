@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Section 16: further provision[^key-956bc2bc8004510288edce18ed2eeb2a]
+## 17. Section 16: further provision[^c-956bc2bc8004510288edce18ed2eeb2a]
 
 *Extent: S*
 
@@ -99,4 +99,4 @@ summary: ''
 
 ## Annotations
 
-[^key-956bc2bc8004510288edce18ed2eeb2a]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2020/7/section/17) in force at 5.4.2020 by [S.S.I. 2020/121](https://www.legislation.gov.uk/ssi/2020/121), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2020/121/regulation/2/b)
+[^c-956bc2bc8004510288edce18ed2eeb2a]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2020/7/section/17) in force at 5.4.2020 by [S.S.I. 2020/121](https://www.legislation.gov.uk/ssi/2020/121), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2020/121/regulation/2/b)

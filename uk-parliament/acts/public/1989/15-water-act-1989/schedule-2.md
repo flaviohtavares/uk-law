@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Schemes providing for the Initial Transfers[^key-7632af93e6a0208210ae6d0d80b06e8b]
+## SCHEDULE 2 — Schemes providing for the Initial Transfers[^c-7632af93e6a0208210ae6d0d80b06e8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -124,6 +124,6 @@ and accordingly the said remainder shall be treated for the purposes of this Act
 
 ## Annotations
 
-[^key-7632af93e6a0208210ae6d0d80b06e8b]: Modification: Sch. 2 applied (Isles of Scilly) (with modifications) (1.11.2019) by [The Isles of Scilly (Application of Water Legislation) Order 2019 (S.I. 2019/1259)](https://www.legislation.gov.uk/uksi/2019/1259), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2019/1259/article/2/1), [3(1)(e)](https://www.legislation.gov.uk/uksi/2019/1259/article/3/1/e)[(4)-(8)](https://www.legislation.gov.uk/uksi/2019/1259/article/3/4)
+[^c-7632af93e6a0208210ae6d0d80b06e8b]: Modification: Sch. 2 applied (Isles of Scilly) (with modifications) (1.11.2019) by [The Isles of Scilly (Application of Water Legislation) Order 2019 (S.I. 2019/1259)](https://www.legislation.gov.uk/uksi/2019/1259), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2019/1259/article/2/1), [3(1)(e)](https://www.legislation.gov.uk/uksi/2019/1259/article/3/1/e)[(4)-(8)](https://www.legislation.gov.uk/uksi/2019/1259/article/3/4)
 
 [^c3800511]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).

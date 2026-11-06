@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-7c7cd1217e1acdfd091828f433ba4956][^key-078dbee6fc9481cb66eeae202a725cfd] Schedule 2 to the PPVA 1981 (traffic commissioners) is amended as follows.
+(1)[^c-7c7cd1217e1acdfd091828f433ba4956][^c-078dbee6fc9481cb66eeae202a725cfd] Schedule 2 to the PPVA 1981 (traffic commissioners) is amended as follows.
 
-(2)[^key-ae97acd7664200b40cc366b76b742c65] In paragraph 1 (removal of traffic commissioner for inability or misbehaviour) for “for inability or misbehaviour” substitute
+(2)[^c-ae97acd7664200b40cc366b76b742c65] In paragraph 1 (removal of traffic commissioner for inability or misbehaviour) for “for inability or misbehaviour” substitute
 
 > on the grounds that the traffic commissioner—
 >
@@ -31,9 +31,9 @@ summary: ''
 
 .
 
-(3)[^key-ae97acd7664200b40cc366b76b742c65] The amendment made by subsection (2) has effect in relation to traffic commissioners appointed before, as well as traffic commissioners appointed on or after, the day on which that amendment comes into force.
+(3)[^c-ae97acd7664200b40cc366b76b742c65] The amendment made by subsection (2) has effect in relation to traffic commissioners appointed before, as well as traffic commissioners appointed on or after, the day on which that amendment comes into force.
 
-(4)[^key-cc698b81a4c5d2db19e8c8b33c8a3ee9] After paragraph 2 insert—
+(4)[^c-cc698b81a4c5d2db19e8c8b33c8a3ee9] After paragraph 2 insert—
 
 > **2A. Deputy traffic commissioners for England and Wales**
 >
@@ -64,9 +64,9 @@ summary: ''
 
 .
 
-(5)[^key-cc698b81a4c5d2db19e8c8b33c8a3ee9] In consequence of the amendments made by this section, at the end of the italic heading preceding paragraph 3 there is inserted “ in Scotland ”.
+(5)[^c-cc698b81a4c5d2db19e8c8b33c8a3ee9] In consequence of the amendments made by this section, at the end of the italic heading preceding paragraph 3 there is inserted “ in Scotland ”.
 
-(6)[^key-cc698b81a4c5d2db19e8c8b33c8a3ee9] After that heading, insert—
+(6)[^c-cc698b81a4c5d2db19e8c8b33c8a3ee9] After that heading, insert—
 
 > **2B.**
 >
@@ -74,7 +74,7 @@ summary: ''
 
 .
 
-(7)[^key-cc698b81a4c5d2db19e8c8b33c8a3ee9] After paragraph 5 insert—
+(7)[^c-cc698b81a4c5d2db19e8c8b33c8a3ee9] After paragraph 5 insert—
 
 > **5A. Appointment of acting traffic commissioner during vacancy**
 >
@@ -87,16 +87,16 @@ summary: ''
 
 .
 
-(8)[^key-cc698b81a4c5d2db19e8c8b33c8a3ee9] In consequence of the amendment made by subsection (7), in paragraph 6(1) (appointment of acting traffic commissioner during vacancy) after “for any traffic area” insert “ in Scotland ”.
+(8)[^c-cc698b81a4c5d2db19e8c8b33c8a3ee9] In consequence of the amendment made by subsection (7), in paragraph 6(1) (appointment of acting traffic commissioner during vacancy) after “for any traffic area” insert “ in Scotland ”.
 
-(9)[^key-cc698b81a4c5d2db19e8c8b33c8a3ee9] In paragraph 9 (principal civil service pension scheme) for “traffic commissioner for each of the traffic areas” substitute “ traffic commissioner for England and Wales or for the Scottish Traffic Area ”.
+(9)[^c-cc698b81a4c5d2db19e8c8b33c8a3ee9] In paragraph 9 (principal civil service pension scheme) for “traffic commissioner for each of the traffic areas” substitute “ traffic commissioner for England and Wales or for the Scottish Traffic Area ”.
 
 ## Annotations
 
-[^key-7c7cd1217e1acdfd091828f433ba4956]: Commencement: S. 4(1) in force at 6.4.2013 for specified purposes by [S.I. 2013/685](https://www.legislation.gov.uk/uksi/2013/685), [art. 2](https://www.legislation.gov.uk/uksi/2013/685/article/2)
+[^c-7c7cd1217e1acdfd091828f433ba4956]: Commencement: S. 4(1) in force at 6.4.2013 for specified purposes by [S.I. 2013/685](https://www.legislation.gov.uk/uksi/2013/685), [art. 2](https://www.legislation.gov.uk/uksi/2013/685/article/2)
 
-[^key-078dbee6fc9481cb66eeae202a725cfd]: Commencement: S. 4(1) in force at 3.7.2013 for specified purposes by [S.I. 2013/685](https://www.legislation.gov.uk/uksi/2013/685), [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/685/article/3/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2013/685/article/3/2/c)
+[^c-078dbee6fc9481cb66eeae202a725cfd]: Commencement: S. 4(1) in force at 3.7.2013 for specified purposes by [S.I. 2013/685](https://www.legislation.gov.uk/uksi/2013/685), [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/685/article/3/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2013/685/article/3/2/c)
 
-[^key-ae97acd7664200b40cc366b76b742c65]: Commencement: S. 4(2)(3) in force at 6.4.2013 by [S.I. 2013/685](https://www.legislation.gov.uk/uksi/2013/685), [art. 2](https://www.legislation.gov.uk/uksi/2013/685/article/2)
+[^c-ae97acd7664200b40cc366b76b742c65]: Commencement: S. 4(2)(3) in force at 6.4.2013 by [S.I. 2013/685](https://www.legislation.gov.uk/uksi/2013/685), [art. 2](https://www.legislation.gov.uk/uksi/2013/685/article/2)
 
-[^key-cc698b81a4c5d2db19e8c8b33c8a3ee9]: Commencement: S. 4(4)-(9) in force at 3.7.2013 by [S.I. 2013/685](https://www.legislation.gov.uk/uksi/2013/685), [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/685/article/3/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2013/685/article/3/2/c)
+[^c-cc698b81a4c5d2db19e8c8b33c8a3ee9]: Commencement: S. 4(4)-(9) in force at 3.7.2013 by [S.I. 2013/685](https://www.legislation.gov.uk/uksi/2013/685), [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/685/article/3/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2013/685/article/3/2/c)

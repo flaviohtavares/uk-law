@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Recovery of social housing assistance: successors in title[^key-e6ffbb416712d92dc3294764d39c390f]
+## 94. Recovery of social housing assistance: successors in title[^c-e6ffbb416712d92dc3294764d39c390f]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6ffbb416712d92dc3294764d39c390f]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2016/22/section/94) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/b)
+[^c-e6ffbb416712d92dc3294764d39c390f]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2016/22/section/94) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/b)

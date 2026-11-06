@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Function of keeping markets under review[^key-34f94c344026f65166a3699d2c960023]
+## 64. Function of keeping markets under review[^c-34f94c344026f65166a3699d2c960023]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34f94c344026f65166a3699d2c960023]: Commencement: S. 64 in force at 1.4.2014 by [S.I. 2014/823](https://www.legislation.gov.uk/uksi/2014/823), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/823/article/2/d)
+[^c-34f94c344026f65166a3699d2c960023]: Commencement: S. 64 in force at 1.4.2014 by [S.I. 2014/823](https://www.legislation.gov.uk/uksi/2014/823), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/823/article/2/d)

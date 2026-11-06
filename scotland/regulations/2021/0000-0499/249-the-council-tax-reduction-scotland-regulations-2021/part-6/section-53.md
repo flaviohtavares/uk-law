@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Permitted expenses (applicants with an award of universal credit)[^key-97627de3adf2a199be5cdd13268405f1]
+## 53. Permitted expenses (applicants with an award of universal credit)[^c-97627de3adf2a199be5cdd13268405f1]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ excluding any expenses that were incurred unreasonably.
 
 ## Annotations
 
-[^key-97627de3adf2a199be5cdd13268405f1]: Commencement: [Reg. 53](https://www.legislation.gov.uk/ssi/2021/249/regulation/53) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-97627de3adf2a199be5cdd13268405f1]: Commencement: [Reg. 53](https://www.legislation.gov.uk/ssi/2021/249/regulation/53) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

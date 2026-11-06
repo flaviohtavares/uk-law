@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Obstruction and contempt: costs recovery[^key-a7d787fa3a5219415a441c97c43d5ee5]
+## 21. Obstruction and contempt: costs recovery[^c-a7d787fa3a5219415a441c97c43d5ee5]
 
 *Extent: E+W*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7d787fa3a5219415a441c97c43d5ee5]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2019/3/section/21) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-a7d787fa3a5219415a441c97c43d5ee5]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2019/3/section/21) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Duty to keep relevant matters under review[^key-4ecfec334e5869ef33833b94c821c69d]
+## 11. Duty to keep relevant matters under review[^c-4ecfec334e5869ef33833b94c821c69d]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ecfec334e5869ef33833b94c821c69d]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2010/5/section/11) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)
+[^c-4ecfec334e5869ef33833b94c821c69d]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2010/5/section/11) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)

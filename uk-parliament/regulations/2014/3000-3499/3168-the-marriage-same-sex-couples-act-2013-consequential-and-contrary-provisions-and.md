@@ -50,7 +50,7 @@ This Order is made in exercise of the powers conferred by sections 17(1) to (3) 
 
 The Secretary of State, in exercise of those powers, makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-e45398d549ba5205f43d44a059973a7b]
+## 1. Citation, commencement and interpretation[^c-e45398d549ba5205f43d44a059973a7b]
 
 (1) This Order may be cited as the Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014.
 
@@ -63,21 +63,21 @@ The Secretary of State, in exercise of those powers, makes the following Order:
 
 (4) In this Order “the Act” means the Marriage (Same Sex Couples) Act 2013.
 
-## 2. Consequential amendments to Acts of Parliament[^key-aac373185636a6cd6fbc171e84b61f64][^key-c4f1b7f7e759f42de5c9133031433ea1]
+## 2. Consequential amendments to Acts of Parliament[^c-aac373185636a6cd6fbc171e84b61f64][^c-c4f1b7f7e759f42de5c9133031433ea1]
 
 The Schedule to this Order (which amends Acts of Parliament in consequence of the Act, the Marriage and Civil Partnership (Scotland) Act 2014[^f00005] and the Civil Partnership Act 2004) has effect.
 
-## 3. Contrary provision to section 11(1) and (2) of, and paragraphs 1 to 3 of Schedule 3 to, the Act[^key-93c3921b7b60742f2a40b5191e507e74]
+## 3. Contrary provision to section 11(1) and (2) of, and paragraphs 1 to 3 of Schedule 3 to, the Act[^c-93c3921b7b60742f2a40b5191e507e74]
 
 *Extent: E+W*
 
 Section 11(1) and (2) of, and paragraphs 1 to 3 of Schedule 3 to, the Act do not apply to Schedule 1, Part D, rule D.3, paragraph (4) and Schedule 2, Part C, rule C.2, paragraphs (4) and (5) to the Reserve Forces Non Regular Permanent Staff (Pension and Attributable Benefits Schemes) Regulations 2011[^f00006].
 
-## 4. Revocation of article 5 of the Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014[^key-d129dd5479f2928a3b05d947fe0274a5]
+## 4. Revocation of article 5 of the Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014[^c-d129dd5479f2928a3b05d947fe0274a5]
 
 Article 5 of the Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014[^f00007] is revoked.
 
-## 5. Transitional and saving provision relating to article 4[^key-9da47ecea4be3a933a7e6b72b534b7b6]
+## 5. Transitional and saving provision relating to article 4[^c-9da47ecea4be3a933a7e6b72b534b7b6]
 
 (1) The revocation of article 5 of the Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 does not affect—
 
@@ -112,7 +112,7 @@ Article 5 of the Marriage (Same Sex Couples) Act 2013 (Consequential and Contrar
   - (i) a deemed civil partnership, or
   - (ii) one or both of the deemed civil partners (as a deemed civil partner).
 
-## 6. Extent[^key-9b277e1ab844d3539b79bbfd607280ea][^key-9de4c32ab6f912cd2810492d78ce660d]
+## 6. Extent[^c-9b277e1ab844d3539b79bbfd607280ea][^c-9de4c32ab6f912cd2810492d78ce660d]
 
 (1) Subject to paragraph 2, this Order extends to England and Wales only.
 
@@ -137,7 +137,7 @@ Department for Education
 
 Article 2
 
-### 1. Wills Act 1837[^key-32ed50f7d980b85c661c258b61baa5d0][^key-32ed50f7d980b85c661c258b61baa5d0]
+### 1. Wills Act 1837[^c-32ed50f7d980b85c661c258b61baa5d0][^c-32ed50f7d980b85c661c258b61baa5d0]
 
 *Extent: E+W*
 
@@ -190,7 +190,7 @@ Article 2
 
 .
 
-### 2. Perjury Act 1911[^key-8f22d574f1f9ce4fed38642965635c7c][^key-8f22d574f1f9ce4fed38642965635c7c]
+### 2. Perjury Act 1911[^c-8f22d574f1f9ce4fed38642965635c7c][^c-8f22d574f1f9ce4fed38642965635c7c]
 
 *Extent: E+W*
 
@@ -205,7 +205,7 @@ Article 2
 
 > (3) In subsection (1)(b), “register of conversions” means the register of conversions of civil partnerships into marriages kept by the Registrar General in accordance with section 9 of the Marriage (Same Sex Couples) Act 2013[^f00014] and regulations made under that section.
 
-### 3. Marriage Act 1949[^key-5bb60a773edb43d8ef08bd3c4cbfa745][^key-5bb60a773edb43d8ef08bd3c4cbfa745]
+### 3. Marriage Act 1949[^c-5bb60a773edb43d8ef08bd3c4cbfa745][^c-5bb60a773edb43d8ef08bd3c4cbfa745]
 
 *Extent: E+W*
 
@@ -271,7 +271,7 @@ Article 2
 
 (4) The validity of a consent given before the commencement of paragraph (3)(c) is not affected by the amendments of section 46(1D) made by that paragraph where the person or persons who gave the consent (or any successor or successors of that person or those persons) continue to be the relevant governing authority under section 46(1D) as so amended.
 
-### 4. Registration of Births, Deaths and Marriages (Special Provisions) Act 1957[^key-84f9c15ee9cb82346386f62d2c2a7f32][^key-13a36028eb40f748e9325586b0015583][^key-4d173125339124983c2c63aa7dc75509]
+### 4. Registration of Births, Deaths and Marriages (Special Provisions) Act 1957[^c-84f9c15ee9cb82346386f62d2c2a7f32][^c-13a36028eb40f748e9325586b0015583][^c-4d173125339124983c2c63aa7dc75509]
 
 *Extent: E+W+S+N.I.*
 
@@ -305,13 +305,13 @@ Article 2
 
   .
 
-### 5. Public Libraries and Museums Act 1964[^key-0355b39cf37e6363d6799eab4207b535][^key-0355b39cf37e6363d6799eab4207b535]
+### 5. Public Libraries and Museums Act 1964[^c-0355b39cf37e6363d6799eab4207b535][^c-0355b39cf37e6363d6799eab4207b535]
 
 *Extent: E+W*
 
 In Schedule 1 to the Public Libraries and Museums Act 1964[^f00029] (superannuation and other benefits in cases of transfer etc), for “widow” in each place it occurs, substitute “surviving spouse or surviving civil partner”.
 
-### 6. Matrimonial Causes Act 1973[^key-6c9f7146a70e1769c6ed4db6d32ff477][^key-6c9f7146a70e1769c6ed4db6d32ff477]
+### 6. Matrimonial Causes Act 1973[^c-6c9f7146a70e1769c6ed4db6d32ff477][^c-6c9f7146a70e1769c6ed4db6d32ff477]
 
 *Extent: E+W*
 
@@ -335,13 +335,13 @@ In Schedule 1 to the Public Libraries and Museums Act 1964[^f00029] (superannuat
 
 .
 
-### 7. Domicile and Matrimonial Proceedings Act 1973[^key-8a1e80b5344490a8a90bbb39a9c26211][^key-8a1e80b5344490a8a90bbb39a9c26211]
+### 7. Domicile and Matrimonial Proceedings Act 1973[^c-8a1e80b5344490a8a90bbb39a9c26211][^c-8a1e80b5344490a8a90bbb39a9c26211]
 
 *Extent: E+W*
 
 In paragraph 8(1)(b) of Schedule 1 to the Domicile and Matrimonial Proceedings Act 1973[^f00033] (staying of matrimonial proceedings (England and Wales)), for “its celebration” substitute “they entered into it”.
 
-### 8. Social Security Pensions Act 1975[^key-d07a5ad21f2582fa23d3087be8e8053e][^key-d07a5ad21f2582fa23d3087be8e8053e]
+### 8. Social Security Pensions Act 1975[^c-d07a5ad21f2582fa23d3087be8e8053e][^c-d07a5ad21f2582fa23d3087be8e8053e]
 
 *Extent: E+W*
 
@@ -357,7 +357,7 @@ In paragraph 8(1)(b) of Schedule 1 to the Domicile and Matrimonial Proceedings A
 
 .
 
-(3)[^key-e27e248cf6eaa332839520e44598b7c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e27e248cf6eaa332839520e44598b7c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In subsection (7)[^f00037], after the definition of “lump sum” insert—
 
@@ -367,7 +367,7 @@ In paragraph 8(1)(b) of Schedule 1 to the Domicile and Matrimonial Proceedings A
 
 .
 
-### 9. Legitimacy Act 1976[^key-c1e4aa2103aec0c11daaddd3ca35ca4e][^key-c1e4aa2103aec0c11daaddd3ca35ca4e]
+### 9. Legitimacy Act 1976[^c-c1e4aa2103aec0c11daaddd3ca35ca4e][^c-c1e4aa2103aec0c11daaddd3ca35ca4e]
 
 *Extent: E+W*
 
@@ -377,7 +377,7 @@ In section 1 of the Legitimacy Act 1976[^f00039] (legitimacy of children of cert
 
 .
 
-### 10. Forgery and Counterfeiting Act 1981[^key-b3c31ce5c706836213a5a646bc841251][^key-b3c31ce5c706836213a5a646bc841251][^key-096965ae50b0731ba3aae76ea0586d67]
+### 10. Forgery and Counterfeiting Act 1981[^c-b3c31ce5c706836213a5a646bc841251][^c-b3c31ce5c706836213a5a646bc841251][^c-096965ae50b0731ba3aae76ea0586d67]
 
 *Extent: E+W+N.I.*
 
@@ -391,7 +391,7 @@ In section 1 of the Legitimacy Act 1976[^f00039] (legitimacy of children of cert
 
 .
 
-### 11. Social Security Contributions and Benefits Act 1992[^key-a72abb634bddffaba07b5b74bb8247ec][^key-a72abb634bddffaba07b5b74bb8247ec]
+### 11. Social Security Contributions and Benefits Act 1992[^c-a72abb634bddffaba07b5b74bb8247ec][^c-a72abb634bddffaba07b5b74bb8247ec]
 
 *Extent: E+W*
 
@@ -441,7 +441,7 @@ In section 1 of the Legitimacy Act 1976[^f00039] (legitimacy of children of cert
 
 .
 
-### 12. Social Security Administration Act 1992[^key-ac8e6b93e2c630de00f234984717927c][^key-ac8e6b93e2c630de00f234984717927c]
+### 12. Social Security Administration Act 1992[^c-ac8e6b93e2c630de00f234984717927c][^c-ac8e6b93e2c630de00f234984717927c]
 
 *Extent: E+W*
 
@@ -468,7 +468,7 @@ In section 1 of the Legitimacy Act 1976[^f00039] (legitimacy of children of cert
 
 .
 
-### 13. Statistics and Registration Service Act 2007[^key-9577201549cc85789ad8aa153864bd42][^key-9577201549cc85789ad8aa153864bd42]
+### 13. Statistics and Registration Service Act 2007[^c-9577201549cc85789ad8aa153864bd42][^c-9577201549cc85789ad8aa153864bd42]
 
 *Extent: E+W*
 
@@ -530,33 +530,33 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00003]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-e45398d549ba5205f43d44a059973a7b]: Commencement: Art. 1 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
+[^c-e45398d549ba5205f43d44a059973a7b]: Commencement: Art. 1 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
 
 [^f00004]: Footnote: [1957 c. 58](https://www.legislation.gov.uk/ukpga/1957/58).
 
-[^key-aac373185636a6cd6fbc171e84b61f64]: Commencement: Art. 2 in force at 10.12.2014 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
+[^c-aac373185636a6cd6fbc171e84b61f64]: Commencement: Art. 2 in force at 10.12.2014 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
 
-[^key-c4f1b7f7e759f42de5c9133031433ea1]: Commencement: Art. 2 in force at 16.12.2014 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/3/b)
+[^c-c4f1b7f7e759f42de5c9133031433ea1]: Commencement: Art. 2 in force at 16.12.2014 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/3/b)
 
 [^f00005]: Footnote: [2014 asp 5](https://www.legislation.gov.uk/asp/2014/5).
 
-[^key-93c3921b7b60742f2a40b5191e507e74]: Commencement: Art. 3 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
+[^c-93c3921b7b60742f2a40b5191e507e74]: Commencement: Art. 3 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
 
 [^f00006]: Footnote: These Regulations are not statutory instruments. Copies can be found at www.gov.uk/government/publications/reserve-forces-pension-scheme-regulations. Hard copies can be obtained from CDP-Remuneration, Armed Forces Pensions, Level 6 Zone M, Ministry of Defence, Main Building, London SW1A 2HB.
 
-[^key-d129dd5479f2928a3b05d947fe0274a5]: Commencement: Art. 4 in force at 16.12.2014, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/3/a)
+[^c-d129dd5479f2928a3b05d947fe0274a5]: Commencement: Art. 4 in force at 16.12.2014, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/3/a)
 
 [^f00007]: Footnote: [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
-[^key-9da47ecea4be3a933a7e6b72b534b7b6]: Commencement: Art. 5 in force at 16.12.2014, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/3/a)
+[^c-9da47ecea4be3a933a7e6b72b534b7b6]: Commencement: Art. 5 in force at 16.12.2014, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/3/a)
 
 [^f00008]: Footnote: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-9b277e1ab844d3539b79bbfd607280ea]: Commencement: Art. 6 in force at 10.12.2014 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
+[^c-9b277e1ab844d3539b79bbfd607280ea]: Commencement: Art. 6 in force at 10.12.2014 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
 
-[^key-9de4c32ab6f912cd2810492d78ce660d]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2014/3168/article/6) in force at 16.12.2014 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/3/b)
+[^c-9de4c32ab6f912cd2810492d78ce660d]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2014/3168/article/6) in force at 16.12.2014 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/3/b)
 
-[^key-32ed50f7d980b85c661c258b61baa5d0]: Commencement: Sch. para. 1 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
+[^c-32ed50f7d980b85c661c258b61baa5d0]: Commencement: Sch. para. 1 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
 
 [^f00009]: Footnote: [1837 c. 26](https://www.legislation.gov.uk/ukpga/1837/26).
 
@@ -566,13 +566,13 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00012]: Footnote: Section 18C was inserted by the Civil Partnership Act 2004, Schedule 4, paragraphs 1, 2 and 5.
 
-[^key-8f22d574f1f9ce4fed38642965635c7c]: Commencement: Sch. para. 2 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
+[^c-8f22d574f1f9ce4fed38642965635c7c]: Commencement: Sch. para. 2 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
 
 [^f00013]: Footnote: [1911 c. 6](https://www.legislation.gov.uk/ukpga/1911/6); there are amendments to section 3 not relevant to this Order.
 
 [^f00014]: Footnote: [2013 c. 30](https://www.legislation.gov.uk/ukpga/2013/30).
 
-[^key-5bb60a773edb43d8ef08bd3c4cbfa745]: Commencement: Sch. para. 3 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
+[^c-5bb60a773edb43d8ef08bd3c4cbfa745]: Commencement: Sch. para. 3 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
 
 [^f00015]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76).
 
@@ -592,11 +592,11 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00023]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-84f9c15ee9cb82346386f62d2c2a7f32]: Commencement: Sch. para. 4 in force at 10.12.2014 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
+[^c-84f9c15ee9cb82346386f62d2c2a7f32]: Commencement: Sch. para. 4 in force at 10.12.2014 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
 
-[^key-13a36028eb40f748e9325586b0015583]: Commencement: Sch. para. 4 in force at 16.12.2014 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/3/b)
+[^c-13a36028eb40f748e9325586b0015583]: Commencement: Sch. para. 4 in force at 16.12.2014 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/3/b)
 
-[^key-4d173125339124983c2c63aa7dc75509]: Modification: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2014/3168/schedule/paragraph/4) extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(d)(i)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/d/i) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-4d173125339124983c2c63aa7dc75509]: Modification: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2014/3168/schedule/paragraph/4) extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(d)(i)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/d/i) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^f00024]: Footnote: [1957 c. 58](https://www.legislation.gov.uk/ukpga/1957/58).
 
@@ -608,11 +608,11 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00028]: Footnote: Section 3(3) was amended by [S.I. 2002/1419](https://www.legislation.gov.uk/uksi/2002/1419).
 
-[^key-0355b39cf37e6363d6799eab4207b535]: Commencement: Sch. para. 5 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
+[^c-0355b39cf37e6363d6799eab4207b535]: Commencement: Sch. para. 5 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
 
 [^f00029]: Footnote: [1964 c. 75](https://www.legislation.gov.uk/ukpga/1964/75); Schedule 1 was amended by the Superannuation Act [1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), Schedule 8, and by [S.I. 1974/520](https://www.legislation.gov.uk/uksi/1974/520) and [S.I. 1977/1341](https://www.legislation.gov.uk/uksi/1977/1341).
 
-[^key-6c9f7146a70e1769c6ed4db6d32ff477]: Commencement: Sch. para. 6 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
+[^c-6c9f7146a70e1769c6ed4db6d32ff477]: Commencement: Sch. para. 6 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
 
 [^f00030]: Footnote: [1973 c. 18](https://www.legislation.gov.uk/ukpga/1973/18).
 
@@ -622,17 +622,17 @@ A full regulatory impact assessment has not been produced for this instrument as
 
     and 5.
 
-[^key-8a1e80b5344490a8a90bbb39a9c26211]: Commencement: Sch. para. 7 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
+[^c-8a1e80b5344490a8a90bbb39a9c26211]: Commencement: Sch. para. 7 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
 
 [^f00033]: Footnote: [1973 c. 45](https://www.legislation.gov.uk/ukpga/1973/45). There are amendments to Schedule 1 not relevant to this Order.
 
-[^key-d07a5ad21f2582fa23d3087be8e8053e]: Commencement: Sch. para. 8 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
+[^c-d07a5ad21f2582fa23d3087be8e8053e]: Commencement: Sch. para. 8 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
 
 [^f00034]: Footnote: [1975 c. 60](https://www.legislation.gov.uk/ukpga/1975/60).
 
 [^f00035]: Footnote: Subsection (5ZB) was inserted by the Pensions Act [2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), section 137(1) and (8), and, in relation to England and Wales, was amended by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
-[^key-e27e248cf6eaa332839520e44598b7c3]: Textual amendment: [Sch. para. 8(3)](https://www.legislation.gov.uk/uksi/2014/3168/schedule/paragraph/8/3) omitted (7.12.2020) by virtue of [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [36(5)(b)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/36/5/b)
+[^c-e27e248cf6eaa332839520e44598b7c3]: Textual amendment: [Sch. para. 8(3)](https://www.legislation.gov.uk/uksi/2014/3168/schedule/paragraph/8/3) omitted (7.12.2020) by virtue of [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [36(5)(b)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/36/5/b)
 
 [^f00037]: Footnote: Subsection 7 was amended by the Social Security Act [1979 (c. 18)](https://www.legislation.gov.uk/ukpga/1979/18), Schedule 3, paragraph 20, the Pension Schemes Act
 
@@ -640,19 +640,19 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00038]: Footnote: [2004 c. 7](https://www.legislation.gov.uk/ukpga/2004/7).
 
-[^key-c1e4aa2103aec0c11daaddd3ca35ca4e]: Commencement: Sch. para. 9 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
+[^c-c1e4aa2103aec0c11daaddd3ca35ca4e]: Commencement: Sch. para. 9 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
 
 [^f00039]: Footnote: [1976 c. 31](https://www.legislation.gov.uk/ukpga/1976/31); section 1(1) was amended by, and section 1(3) and (4) was inserted by, the Family Law Reform Act
 
     [1987 (c. 42)](https://www.legislation.gov.uk/ukpga/1987/42), section 28. Section 1(2) was amended in relation to England and Wales by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
-[^key-b3c31ce5c706836213a5a646bc841251]: Commencement: Sch. para. 10 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
+[^c-b3c31ce5c706836213a5a646bc841251]: Commencement: Sch. para. 10 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
 
-[^key-096965ae50b0731ba3aae76ea0586d67]: Modification: Sch. para. 10 extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(d)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/d/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-096965ae50b0731ba3aae76ea0586d67]: Modification: Sch. para. 10 extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(d)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/d/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^f00040]: Footnote: [1981 c. 45](https://www.legislation.gov.uk/ukpga/1981/45); section 5(5)(l) was amended by the Civil Partnership Act 2004, Schedule 27, paragraph 67. There are other amendments to section 5 not relevant to this Order.
 
-[^key-a72abb634bddffaba07b5b74bb8247ec]: Commencement: Sch. para. 11 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
+[^c-a72abb634bddffaba07b5b74bb8247ec]: Commencement: Sch. para. 11 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
 
 [^f00041]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -664,12 +664,12 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00045]: Footnote: Paragraph 7 was amended by [S.I. 2005/2053](https://www.legislation.gov.uk/uksi/2005/2053). It was repealed by the Pensions Act 2011, section 2(5), subject to savings made by section 2(7), but that repeal is not yet fully in force.
 
-[^key-ac8e6b93e2c630de00f234984717927c]: Commencement: Sch. para. 12 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
+[^c-ac8e6b93e2c630de00f234984717927c]: Commencement: Sch. para. 12 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
 
 [^f00046]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5); subsection (1)(aa) was inserted by the Jobseekers Act [1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), Schedule 2, paragraph 59, subsection (1)(ab) was inserted by the State Pension Credit Act [2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), Schedule 2, paragraphs 8 and 13, subsection (1)(ac) was inserted by the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), Schedule 3, paragraphs 10(1) and 16 and amended by the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), Schedule 2, paragraphs 3 and 17(a), subsection 1(ad) was inserted by the Welfare Reform Act 2012, Schedule 2, paragraphs 3 and 17(b), subsection (1)(ae) was inserted by the Welfare Reform Act 2012, Schedule 9, paragraphs 7 and 15, subsection (1)(af) was inserted by the Pensions Act [2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), Schedule 12, paragraphs 8 and 15, subsection (1)(ag) was inserted by the Pensions Act 2014, Schedule 16, paragraphs 20 and 28.
 
 [^f00047]: Footnote: Subsection (3) was amended by [S.I. 1997/2939](https://www.legislation.gov.uk/uksi/1997/2939), in relation to England and Wales by [S.I. 2010/441](https://www.legislation.gov.uk/uksi/2010/441) and in relation to Scotland by [S.S.I. 2010/428](https://www.legislation.gov.uk/ssi/2010/428). There are other amendments to section 124 not relevant to this Order.
 
-[^key-9577201549cc85789ad8aa153864bd42]: Commencement: Sch. para. 13 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
+[^c-9577201549cc85789ad8aa153864bd42]: Commencement: Sch. para. 13 in force at 10.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)
 
 [^f00048]: Footnote: [2007 c. 18](https://www.legislation.gov.uk/ukpga/2007/18); subsection (2) was amended in relation to England and Wales by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560). There are other amendments to section 42 not relevant to this Order.

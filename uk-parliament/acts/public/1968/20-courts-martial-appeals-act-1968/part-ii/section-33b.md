@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33B. Further provision about costs[^key-defa996fb2acfff4cfde885a033962cb]
+## 33B. Further provision about costs[^c-defa996fb2acfff4cfde885a033962cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-defa996fb2acfff4cfde885a033962cb]: Textual amendment: S. 33B inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2012/10/schedule/8/paragraph/6) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/10/schedule/8/part/3)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/h)
+[^c-defa996fb2acfff4cfde885a033962cb]: Textual amendment: S. 33B inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2012/10/schedule/8/paragraph/6) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/10/schedule/8/part/3)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/h)

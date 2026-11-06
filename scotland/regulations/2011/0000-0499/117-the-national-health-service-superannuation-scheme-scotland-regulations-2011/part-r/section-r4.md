@@ -34,7 +34,7 @@ summary: ''
 
 (5) Where a member elects under paragraph (4), paragraph (3) will apply in relation to any employment in respect of which the member continues to accrue benefits.
 
-(6)[^key-8a66b7252a3e170e615c117500346dfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8a66b7252a3e170e615c117500346dfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Regulation S2 (members who return to NHS employment after pension becomes payable) will apply to any member who becomes entitled to a pension under paragraph (4) while continuing to accrue benefits in respect of other NHS employment.
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a66b7252a3e170e615c117500346dfd]: Textual amendment: Reg. R4(6) omitted (with effect from 1.4.2023) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/4), [24](https://www.legislation.gov.uk/ssi/2024/272/regulation/24)
+[^c-8a66b7252a3e170e615c117500346dfd]: Textual amendment: Reg. R4(6) omitted (with effect from 1.4.2023) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/4), [24](https://www.legislation.gov.uk/ssi/2024/272/regulation/24)

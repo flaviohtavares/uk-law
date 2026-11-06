@@ -104,7 +104,7 @@ Subsection (1) of section 144 of the 1960 Act (drivers’ and conductors licence
 
 (3) References in this Part to the undertaking of the Corporation are references to all the property, rights, liabilities and obligations of the Corporation, whether or not of such a nature that they could be assigned by the Corporation.
 
-(4)[^key-e60cb0b64bddb4f00c88c44fd1c8f0bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e60cb0b64bddb4f00c88c44fd1c8f0bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The Minister may by order made by statutory instrument nominate for the purposes of this section a company formed and registered under the [^c929111]Companies Act 1948 which on the appointed day satisfies the following requirements, that is to say—
 
@@ -115,11 +115,11 @@ Subsection (1) of section 144 of the 1960 Act (drivers’ and conductors licence
 
 #### 46. Initial government holding in successor company.
 
-(1)[^key-8a275c2a643784982dd316563a9774f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-8a275c2a643784982dd316563a9774f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-8a275c2a643784982dd316563a9774f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8a275c2a643784982dd316563a9774f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-8a275c2a643784982dd316563a9774f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8a275c2a643784982dd316563a9774f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Securities of the successor company held by the Minister or by nominees for him shall not be disposed of except with the consent of the Treasury and in such manner and on such terms as the Treasury may direct.
 
@@ -127,11 +127,11 @@ Subsection (1) of section 144 of the 1960 Act (drivers’ and conductors licence
 
 (6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c929112]
 
-#### 47. Transitional provisions with respect to reserves etc.[^key-d1d3092611c946f06db58eb738ac3025]
+#### 47. Transitional provisions with respect to reserves etc.[^c-d1d3092611c946f06db58eb738ac3025]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 48. Dissolution and final accounts of National Freight Corporation.[^key-52112af8cc391289078793d740d90345]
+#### 48. Dissolution and final accounts of National Freight Corporation.[^c-52112af8cc391289078793d740d90345]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -205,7 +205,7 @@ and references to the undertaking of the Corporation shall be construed in accor
 
 (2)[^c929121] The enactments mentioned in Schedule 7 shall have effect subject to the amendments there specified, being amendments consequential on the provisions of this Part.
 
-## PART III — RAILWAY ETC. PENSIONS[^c929124][^key-24dbe1439ed8236d6f8ba62ed817500b]
+## PART III — RAILWAY ETC. PENSIONS[^c929124][^c-24dbe1439ed8236d6f8ba62ed817500b]
 
 ### 52. Payments by Minister in respect of B.R. and N.F.C. pension schemes.
 
@@ -667,11 +667,11 @@ shall be liable on summary conviction to a fine not exceeding \[[^c929171]level 
 
 The provisions of section 2 of, and Schedule 1 to, the Transport charges &c. (Miscellaneous Provisions) Act 1954 (which relate to charges on independent tramways, trolley vehicles and railways of the nature of a tramway), including those provisions as extended or applied by or under any other Act (including a local or private Act), shall cease to have effect.
 
-### 66. Abolition of Freight Integration Council and repeal of certain provisions about special authorisations for use of large goods vehicles.[^key-a0acbd18c8b28b1094beddc54e135a4e]
+### 66. Abolition of Freight Integration Council and repeal of certain provisions about special authorisations for use of large goods vehicles.[^c-a0acbd18c8b28b1094beddc54e135a4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 67. Abolition of Railways and Coastal Shipping Committee.[^key-d3616850fb0a15fa3740d68718dfc2a3]
+### 67. Abolition of Railways and Coastal Shipping Committee.[^c-d3616850fb0a15fa3740d68718dfc2a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -698,7 +698,7 @@ The enactments mentioned in Schedule 9 (which include spent enactments) are here
 
 (3) The following provisions of this Act, namely—
 
-- (c) sections [^key-a779e0ca30376b7e3f23c13f0965482e]... 68 and this section;
+- (c) sections [^c-a779e0ca30376b7e3f23c13f0965482e]... 68 and this section;
 - (d) Part II of Schedule 9 (and section 69 so far as it relates to that Part),
 
 shall come into force on the passing of this Act.
@@ -710,7 +710,7 @@ shall come into force on the passing of this Act.
 (7) The following provisions of this Act do not extend to Northern Ireland, namely,—
 
 - (a) Part I (which includes Schedules 1 to 5);
-- (b) section 61 to 65 [^key-7d772d8b0015149c1957676f776cf5a3]...; and
+- (b) section 61 to 65 [^c-7d772d8b0015149c1957676f776cf5a3]...; and
 - (c) Parts I and IV of Schedule 9 (and section 69 so far as it relates to those Parts). [^c929188]
 
 SCHEDULES
@@ -842,9 +842,9 @@ Section 45.
 
 **1.** (1) Where any right, liability or obligation is transferred to the successor company by virtue of section 45 that company and all other persons shall, on and after the appointed day, have the same rights, powers and remedies (and, in particular, the same rights as to the taking or resisting of legal proceedings) for ascertaining, perfecting or enforcing that right, liability or obligation as they would have had if it had at all times been a right, liability or obligation of that company.
 
-(2)[^key-e2e0fa4bf4857f61c6014af7a277c4f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e2e0fa4bf4857f61c6014af7a277c4f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Any reference in sub-paragraph (1) [^key-1e0f01b83f8cb256169ff69cd8400bca]... to legal proceedings shall be construed as including a reference to any application to an authority, and any reference to the taking or resisting of legal proceedings shall be construed accordingly.
+(3) Any reference in sub-paragraph (1) [^c-1e0f01b83f8cb256169ff69cd8400bca]... to legal proceedings shall be construed as including a reference to any application to an authority, and any reference to the taking or resisting of legal proceedings shall be construed accordingly.
 
 ### Power of other bodies
 
@@ -864,9 +864,9 @@ Section 45.
 
 (2) Sub-paragraph (1) does not apply to any liability for remuneration or allowances payable in respect of any period before the appointed day.
 
-(3)[^key-725997b7f9dbd716ff6f8fb4f5d2a80a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-725997b7f9dbd716ff6f8fb4f5d2a80a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-a6a2b55fb97f1b5fac5d42c4a5d8311b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a6a2b55fb97f1b5fac5d42c4a5d8311b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Compensation payments arising from earlier reorganisations
 
@@ -1225,17 +1225,17 @@ Section 69.
 
 [^c929110]: Modification: 1.10.1980 appointed under s. 45(2) by [S.I. 1980/1380](https://www.legislation.gov.uk/uksi/1980/1380), [art 3](https://www.legislation.gov.uk/uksi/1980/1380/article/3)
 
-[^key-e60cb0b64bddb4f00c88c44fd1c8f0bf]: Textual amendment: S. 45(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
+[^c-e60cb0b64bddb4f00c88c44fd1c8f0bf]: Textual amendment: S. 45(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
 
 [^c929111]: Marginal citation: [1948 c. 38](https://www.legislation.gov.uk/ukpga/1948/38).
 
-[^key-8a275c2a643784982dd316563a9774f3]: Textual amendment: [S. 46(1)-(3)](https://www.legislation.gov.uk/ukpga/1980/34/section/46/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
+[^c-8a275c2a643784982dd316563a9774f3]: Textual amendment: [S. 46(1)-(3)](https://www.legislation.gov.uk/ukpga/1980/34/section/46/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
 
 [^c929112]: Textual amendment: S. 46(6) repealed by [Finance Act 1988 (c. 39, SIF 114)](https://www.legislation.gov.uk/ukpga/1988/39), [s. 148](https://www.legislation.gov.uk/ukpga/1988/39/section/148), [Sch. 14 Part XI](https://www.legislation.gov.uk/ukpga/1988/39/schedule/14)
 
-[^key-d1d3092611c946f06db58eb738ac3025]: Textual amendment: [S. 47](https://www.legislation.gov.uk/ukpga/1980/34/section/47) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
+[^c-d1d3092611c946f06db58eb738ac3025]: Textual amendment: [S. 47](https://www.legislation.gov.uk/ukpga/1980/34/section/47) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
 
-[^key-52112af8cc391289078793d740d90345]: Textual amendment: [S. 48](https://www.legislation.gov.uk/ukpga/1980/34/section/48) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
+[^c-52112af8cc391289078793d740d90345]: Textual amendment: [S. 48](https://www.legislation.gov.uk/ukpga/1980/34/section/48) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
 
 [^c929116]: Marginal citation: [S.I. 1978/1290](https://www.legislation.gov.uk/uksi/1978/1290).
 
@@ -1257,7 +1257,7 @@ Section 69.
 
     Part III (ss. 52-60) restricted (6.1.1994) by [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43), [s. 134(1)](https://www.legislation.gov.uk/ukpga/1993/43/section/134/1), [Sch. 11 para. 10(14)](https://www.legislation.gov.uk/ukpga/1993/43/schedule/11/paragraph/10/14); [S.I. 1993/3237](https://www.legislation.gov.uk/uksi/1993/3237), [art.2(2)](https://www.legislation.gov.uk/uksi/1993/3237/article/2/2).
 
-[^key-24dbe1439ed8236d6f8ba62ed817500b]: Modification: Pt. III power to modify conferred (E.W.S.) (8.6.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1(8)](https://www.legislation.gov.uk/ukpga/2005/14/section/1/8), [60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2); [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-24dbe1439ed8236d6f8ba62ed817500b]: Modification: Pt. III power to modify conferred (E.W.S.) (8.6.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1(8)](https://www.legislation.gov.uk/ukpga/2005/14/section/1/8), [60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2); [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
 [^c929125]: Modification: S. 52(1) restricted (12.3.1995) by [S.I. 1995/430](https://www.legislation.gov.uk/uksi/1995/430), [arts. 2](https://www.legislation.gov.uk/uksi/1995/430/article/2), [4](https://www.legislation.gov.uk/uksi/1995/430/article/4).
 
@@ -1329,9 +1329,9 @@ Section 69.
 
 [^c929175]: Modification: The text of ss. 34, 36, 43, 51(2), 65, 69, Sch. 4, Sch. 7, Sch. 9 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-a0acbd18c8b28b1094beddc54e135a4e]: Textual amendment: [S. 66](https://www.legislation.gov.uk/ukpga/1980/34/section/66) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
+[^c-a0acbd18c8b28b1094beddc54e135a4e]: Textual amendment: [S. 66](https://www.legislation.gov.uk/ukpga/1980/34/section/66) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
 
-[^key-d3616850fb0a15fa3740d68718dfc2a3]: Textual amendment: [S. 67](https://www.legislation.gov.uk/ukpga/1980/34/section/67) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
+[^c-d3616850fb0a15fa3740d68718dfc2a3]: Textual amendment: [S. 67](https://www.legislation.gov.uk/ukpga/1980/34/section/67) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
 
 [^c929181]: Modification: The text of ss. 34, 36, 43, 51(2), 65, 69, Sch. 4, Sch. 7, Sch. 9 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -1339,11 +1339,11 @@ Section 69.
 
 [^c929186]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30)**(115:1).**
 
-[^key-a779e0ca30376b7e3f23c13f0965482e]: Textual amendment: Words repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
+[^c-a779e0ca30376b7e3f23c13f0965482e]: Textual amendment: Words repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
 
 [^c929187]: Modification: S. 70(5) power fully exercised by [S.I. 1980/913](https://www.legislation.gov.uk/uksi/1980/913), 1980/1353, 1980/1424, 1981/256
 
-[^key-7d772d8b0015149c1957676f776cf5a3]: Textual amendment: Words repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
+[^c-7d772d8b0015149c1957676f776cf5a3]: Textual amendment: Words repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
 
 [^c929188]: Modification: Power of appointment conferred by s. 70(5) not fully exercised
 
@@ -1375,13 +1375,13 @@ Section 69.
 
 [^c929207]: Textual amendment: [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1980/34/schedule/5/part/II) entries repealed by [Public Passenger Vehicles Act 1981 (c. 14, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1981/14), [s. 88](https://www.legislation.gov.uk/ukpga/1981/14/section/88), [Sch. 8](https://www.legislation.gov.uk/ukpga/1981/14/schedule/8), [Road Traffic Regulation Act 1984 (c. 27, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1984/27), [s. 146](https://www.legislation.gov.uk/ukpga/1984/27/section/146), [Sch. 14](https://www.legislation.gov.uk/ukpga/1984/27/schedule/14) and [London Regional Transport Act 1984 (c. 32, SIF 126)](https://www.legislation.gov.uk/ukpga/1984/32), [s. 71(3)](https://www.legislation.gov.uk/ukpga/1984/32/section/71/3)(*b*), Sch. 7
 
-[^key-e2e0fa4bf4857f61c6014af7a277c4f9]: Textual amendment: Sch. 6 para. 1(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
+[^c-e2e0fa4bf4857f61c6014af7a277c4f9]: Textual amendment: Sch. 6 para. 1(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
 
-[^key-1e0f01b83f8cb256169ff69cd8400bca]: Textual amendment: Words in Sch. 6 para. 1(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
+[^c-1e0f01b83f8cb256169ff69cd8400bca]: Textual amendment: Words in Sch. 6 para. 1(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
 
-[^key-725997b7f9dbd716ff6f8fb4f5d2a80a]: Textual amendment: [Sch. 6 para. 4(3)](https://www.legislation.gov.uk/ukpga/1980/34/schedule/6/paragraph/4/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
+[^c-725997b7f9dbd716ff6f8fb4f5d2a80a]: Textual amendment: [Sch. 6 para. 4(3)](https://www.legislation.gov.uk/ukpga/1980/34/schedule/6/paragraph/4/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
 
-[^key-a6a2b55fb97f1b5fac5d42c4a5d8311b]: Textual amendment: [Sch. 6 para. 4(4)](https://www.legislation.gov.uk/ukpga/1980/34/schedule/6/paragraph/4/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
+[^c-a6a2b55fb97f1b5fac5d42c4a5d8311b]: Textual amendment: [Sch. 6 para. 4(4)](https://www.legislation.gov.uk/ukpga/1980/34/schedule/6/paragraph/4/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 14
 
 [^c929208]: Marginal citation: [1968 c. 73](https://www.legislation.gov.uk/ukpga/1968/73).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Spreading manufactured nitrogen fertiliser near surface water[^key-f9bbb5a7cc2cae1be69c956a1786f503]
+## 13. Spreading manufactured nitrogen fertiliser near surface water[^c-f9bbb5a7cc2cae1be69c956a1786f503]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ No person may spread manufactured nitrogen fertiliser within 2 metres of surface
 
 ## Annotations
 
-[^key-f9bbb5a7cc2cae1be69c956a1786f503]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2021/77/regulation/13) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-f9bbb5a7cc2cae1be69c956a1786f503]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2021/77/regulation/13) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

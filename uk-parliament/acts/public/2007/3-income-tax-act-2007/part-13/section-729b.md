@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 729B. Recovery of tax paid as a result of section 728[^key-21c83d0343930488213024478581c1e7]
+## 729B. Recovery of tax paid as a result of section 728[^c-21c83d0343930488213024478581c1e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ and any such certificate is conclusive evidence of the facts stated in it.
 
 ## Annotations
 
-[^key-21c83d0343930488213024478581c1e7]: Textual amendment: [S. 729B](https://www.legislation.gov.uk/ukpga/2007/3/section/729B) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 36](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/36), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-21c83d0343930488213024478581c1e7]: Textual amendment: [S. 729B](https://www.legislation.gov.uk/ukpga/2007/3/section/729B) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 36](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/36), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)

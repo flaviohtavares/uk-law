@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Sections 19 and 20: consequential amendments[^key-4410de077d5daace2a76b26289788740][^key-52e6788266f57b5d9163bc74d7b7cad9]
+## 21. Sections 19 and 20: consequential amendments[^c-4410de077d5daace2a76b26289788740][^c-52e6788266f57b5d9163bc74d7b7cad9]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4410de077d5daace2a76b26289788740]: Commencement: S. 21 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-4410de077d5daace2a76b26289788740]: Commencement: S. 21 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-52e6788266f57b5d9163bc74d7b7cad9]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2023/56/section/21) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/q)
+[^c-52e6788266f57b5d9163bc74d7b7cad9]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2023/56/section/21) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/q)

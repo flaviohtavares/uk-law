@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Test of security’s value[^key-223fa5a04c9ed7a4413168feaf27bf82]
+## 61. Test of security’s value[^c-223fa5a04c9ed7a4413168feaf27bf82]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-223fa5a04c9ed7a4413168feaf27bf82]: Commencement: Rule 61 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-223fa5a04c9ed7a4413168feaf27bf82]: Commencement: Rule 61 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

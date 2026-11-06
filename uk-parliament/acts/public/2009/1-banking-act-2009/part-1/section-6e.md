@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6E. Pre-resolution valuation[^key-4c76101d2c6cf64b776730a13bb5517d]
+## 6E. Pre-resolution valuation[^c-4c76101d2c6cf64b776730a13bb5517d]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,9 +44,9 @@ summary: ''
   - (i) the Bank of England and the Treasury may recover expenses incurred in connection with the exercise of a stabilisation power under section 58(2)(b),
   - (ii) the Bank of England and the Treasury may charge interest or fees in respect of any loans or guarantees provided to the bank after the Bank has made any mandatory reduction instrument or exercised any stabilisation power in respect of it.
 
-(6)[^key-70ef40a78a6c80f4105d12a3918836f0] The valuation carried out under this section must follow the methodology specified in—
+(6)[^c-70ef40a78a6c80f4105d12a3918836f0] The valuation carried out under this section must follow the methodology specified in—
 
-- (a) any Commission Regulation containing regulatory technical standards adopted by the European Commission under article 36.16 of the recovery and resolution directive, so far as they are assimilated[^key-f2aed4f6f984a21c044a6c7ee4cd2dec] law, or
+- (a) any Commission Regulation containing regulatory technical standards adopted by the European Commission under article 36.16 of the recovery and resolution directive, so far as they are assimilated[^c-f2aed4f6f984a21c044a6c7ee4cd2dec] law, or
 - (b) technical standards made under subsection (11)(a).
 
 (7) A valuation under subsection (1) must be accompanied by—
@@ -61,9 +61,9 @@ summary: ''
 
 (9) Where a provisional valuation is carried out under subsection (3), the Bank need only comply with subsection (7) as far as it is reasonable to do so in the circumstances.
 
-(10)[^key-70bb764a0cf4d4bffbbb484d8130f28c] A provisional valuation carried out under subsection (1) must make provision in respect of additional losses by the bank in accordance with—
+(10)[^c-70bb764a0cf4d4bffbbb484d8130f28c] A provisional valuation carried out under subsection (1) must make provision in respect of additional losses by the bank in accordance with—
 
-- (a) any Commission Regulation containing regulatory technical standards adopted by the European Commission under article 36.16 of the recovery and resolution directive, so far are as they are assimilated[^key-e5600da356d68ccde310bccb72438edc] law, or
+- (a) any Commission Regulation containing regulatory technical standards adopted by the European Commission under article 36.16 of the recovery and resolution directive, so far are as they are assimilated[^c-e5600da356d68ccde310bccb72438edc] law, or
 - (b) technical standards made under subsection (11)(b).
 
 (11) The Bank of England may make technical standards relating to—
@@ -73,12 +73,12 @@ summary: ''
 
 ## Annotations
 
-[^key-4c76101d2c6cf64b776730a13bb5517d]: Textual amendment: S. 6E and cross-heading inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [11](https://www.legislation.gov.uk/uksi/2014/3329/article/11)
+[^c-4c76101d2c6cf64b776730a13bb5517d]: Textual amendment: S. 6E and cross-heading inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [11](https://www.legislation.gov.uk/uksi/2014/3329/article/11)
 
-[^key-70ef40a78a6c80f4105d12a3918836f0]: Textual amendment: S. 6E(6) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/1/paragraph/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-70ef40a78a6c80f4105d12a3918836f0]: Textual amendment: S. 6E(6) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/1/paragraph/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f2aed4f6f984a21c044a6c7ee4cd2dec]: Textual amendment: Word in [s. 6E(6)](https://www.legislation.gov.uk/ukpga/2009/1/section/6E/6) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 68(2)(c)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/68/2/c)
+[^c-f2aed4f6f984a21c044a6c7ee4cd2dec]: Textual amendment: Word in [s. 6E(6)](https://www.legislation.gov.uk/ukpga/2009/1/section/6E/6) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 68(2)(c)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/68/2/c)
 
-[^key-70bb764a0cf4d4bffbbb484d8130f28c]: Textual amendment: S. 6E(10)(11) substituted for s. 6E(10) (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 1 para. 11(3)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/1/paragraph/11/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-70bb764a0cf4d4bffbbb484d8130f28c]: Textual amendment: S. 6E(10)(11) substituted for s. 6E(10) (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 1 para. 11(3)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/1/paragraph/11/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e5600da356d68ccde310bccb72438edc]: Textual amendment: Word in [s. 6E(10)](https://www.legislation.gov.uk/ukpga/2009/1/section/6E/10) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 68(2)(c)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/68/2/c)
+[^c-e5600da356d68ccde310bccb72438edc]: Textual amendment: Word in [s. 6E(10)](https://www.legislation.gov.uk/ukpga/2009/1/section/6E/10) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 68(2)(c)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/68/2/c)

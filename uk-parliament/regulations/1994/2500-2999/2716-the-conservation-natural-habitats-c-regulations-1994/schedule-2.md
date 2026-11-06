@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2 (Extent: E+W) (affected by repeal, see note) — EUROPEAN PROTECTED SPECIES OF ANIMALS (Extent: E+W) (affected by repeal, see note)[^key-6d783291f623a3c05fe7ae09538e5c3a][^key-4197ac64b9c09ea3869fdc46bbb85b15][^key-4197ac64b9c09ea3869fdc46bbb85b15]
+## SCHEDULE 2 (Extent: E+W) (affected by repeal, see note) — EUROPEAN PROTECTED SPECIES OF ANIMALS (Extent: E+W) (affected by repeal, see note)[^c-6d783291f623a3c05fe7ae09538e5c3a][^c-4197ac64b9c09ea3869fdc46bbb85b15][^c-4197ac64b9c09ea3869fdc46bbb85b15]
 
 *Extent: E+W+S*
 
-Regulation 38 *(Extent: E+W)* *(affected by repeal, see note)*[^key-4197ac64b9c09ea3869fdc46bbb85b15]
+Regulation 38 *(Extent: E+W)* *(affected by repeal, see note)*[^c-4197ac64b9c09ea3869fdc46bbb85b15]
 
 <table>
 <thead>
@@ -47,14 +47,14 @@ Regulation 38 *(Extent: E+W)* *(affected by repeal, see note)*[^key-4197ac64b9c0
 </tbody>
 </table>
 
-[^key-4197ac64b9c09ea3869fdc46bbb85b15][^key-4197ac64b9c09ea3869fdc46bbb85b15][^key-4197ac64b9c09ea3869fdc46bbb85b15][^key-da29830e5d318a7e601316eadfcbf7fb][^key-d447a08f9628a4e955647232902e8174]
+[^c-4197ac64b9c09ea3869fdc46bbb85b15][^c-4197ac64b9c09ea3869fdc46bbb85b15][^c-4197ac64b9c09ea3869fdc46bbb85b15][^c-da29830e5d318a7e601316eadfcbf7fb][^c-d447a08f9628a4e955647232902e8174]
 
 ## Annotations
 
-[^key-6d783291f623a3c05fe7ae09538e5c3a]: Commencement: Sch. 2 in force at 30.10.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/2716/regulation/1/2)
+[^c-6d783291f623a3c05fe7ae09538e5c3a]: Commencement: Sch. 2 in force at 30.10.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/2716/regulation/1/2)
 
-[^key-4197ac64b9c09ea3869fdc46bbb85b15]: Textual amendment: Regulations revoked (E.W.) (1.4.2010 except so far as relating to the revocation in relation to W. of reg. 36 and specified words in reg. 3(3), 12.12.2014 in so far as not already in force) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [regs. 1(2)(4)(b)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2/4/b), [133(3)](https://www.legislation.gov.uk/uksi/2010/490/regulation/133/3) (with [regs. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125), [134](https://www.legislation.gov.uk/uksi/2010/490/regulation/134))
+[^c-4197ac64b9c09ea3869fdc46bbb85b15]: Textual amendment: Regulations revoked (E.W.) (1.4.2010 except so far as relating to the revocation in relation to W. of reg. 36 and specified words in reg. 3(3), 12.12.2014 in so far as not already in force) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [regs. 1(2)(4)(b)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2/4/b), [133(3)](https://www.legislation.gov.uk/uksi/2010/490/regulation/133/3) (with [regs. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125), [134](https://www.legislation.gov.uk/uksi/2010/490/regulation/134))
 
-[^key-da29830e5d318a7e601316eadfcbf7fb]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1994/2716/schedule/2) table inserted (1.5.2019) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2019 (S.S.I. 2019/64)](https://www.legislation.gov.uk/ssi/2019/64), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/64/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2019/64/regulation/2/a)
+[^c-da29830e5d318a7e601316eadfcbf7fb]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1994/2716/schedule/2) table inserted (1.5.2019) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2019 (S.S.I. 2019/64)](https://www.legislation.gov.uk/ssi/2019/64), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/64/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2019/64/regulation/2/a)
 
-[^key-d447a08f9628a4e955647232902e8174]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1994/2716/schedule/2) table inserted (1.5.2019) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2019 (S.S.I. 2019/64)](https://www.legislation.gov.uk/ssi/2019/64), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/64/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2019/64/regulation/2/b)
+[^c-d447a08f9628a4e955647232902e8174]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1994/2716/schedule/2) table inserted (1.5.2019) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2019 (S.S.I. 2019/64)](https://www.legislation.gov.uk/ssi/2019/64), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/64/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2019/64/regulation/2/b)

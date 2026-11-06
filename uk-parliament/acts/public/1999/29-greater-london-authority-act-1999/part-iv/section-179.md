@@ -27,7 +27,7 @@ summary: ''
 
 (2) Where a local service is or is to be provided both inside and outside Greater London, any part of the service which is or is to be provided outside Greater London shall be treated as a separate service for the purposes of this Part if there is any stopping place for that part of the service outside Greater London.
 
-(3)[^key-7aec66357616ad4d451574612e62ad33] The following are not London local services for the purposes of this Act—
+(3)[^c-7aec66357616ad4d451574612e62ad33] The following are not London local services for the purposes of this Act—
 
 - (a) a service provided in pursuance of an agreement with the Secretary of State entered into under section 40 of the Railways Act 2005 (substitution services provided for interrupted or discontinued railway services);
 - (b) a service provided under an agreement entered into, where a railway service has been temporarily interrupted, with the person who usually provides the railway service.
@@ -36,4 +36,4 @@ summary: ''
 
 [^c12802991]: Marginal citation: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67)
 
-[^key-7aec66357616ad4d451574612e62ad33]: Textual amendment: S. 179(3) substituted (E.W.) (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 20(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/20/3), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
+[^c-7aec66357616ad4d451574612e62ad33]: Textual amendment: S. 179(3) substituted (E.W.) (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 20(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/20/3), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)

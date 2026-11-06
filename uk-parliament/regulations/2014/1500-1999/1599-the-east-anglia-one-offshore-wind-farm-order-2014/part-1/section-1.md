@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-41800fbd85d83909fdfa81e1842f7b62]
+## 1. Citation and commencement[^c-41800fbd85d83909fdfa81e1842f7b62]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the East Anglia ONE Offshore Wind Farm Order 2014 and
 
 ## Annotations
 
-[^key-41800fbd85d83909fdfa81e1842f7b62]: Commencement: Art. 1 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-41800fbd85d83909fdfa81e1842f7b62]: Commencement: Art. 1 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)

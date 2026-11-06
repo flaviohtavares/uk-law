@@ -46,7 +46,7 @@ In accordance with paragraph 1(3) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement, extent, interpretation and savings[^key-ab2bdfad5fca1cbca5400daf6ab7742d]
+### 1. Citation, commencement, extent, interpretation and savings[^c-ab2bdfad5fca1cbca5400daf6ab7742d]
 
 (1) These Regulations may be cited as the Motor Vehicles (Compulsory Insurance) (Amendment etc.) (EU Exit) Regulations 2019 and come into force on exit day.
 
@@ -54,7 +54,7 @@ In accordance with paragraph 1(3) of Schedule 7 to that Act, a draft of this ins
 
 (3) In these Regulations, “**the 2003 Regulations**” means the Motor Vehicles (Compulsory Insurance) (Information Centre and Compensation Body) Regulations 2003 [^c23637271].
 
-(4) Where a court in any part of the United Kingdom was seised before IP completion day[^key-ee4872ab1c50c611b08217932ca24c7d] of legal proceedings against MIB under regulation 11 or 13 of the 2003 Regulations, regulations 2, 10, 11, 12(3) to (5), 13 and 16 of those Regulations shall continue to apply as if these Regulations had not been made and as if the United Kingdom remained a member State of the European Union.
+(4) Where a court in any part of the United Kingdom was seised before IP completion day[^c-ee4872ab1c50c611b08217932ca24c7d] of legal proceedings against MIB under regulation 11 or 13 of the 2003 Regulations, regulations 2, 10, 11, 12(3) to (5), 13 and 16 of those Regulations shall continue to apply as if these Regulations had not been made and as if the United Kingdom remained a member State of the European Union.
 
 (5) In this regulation a court shall be deemed to be seised—
 
@@ -70,7 +70,7 @@ In accordance with paragraph 1(3) of Schedule 7 to that Act, a draft of this ins
 
 *Extent: E+W+S*
 
-### 2. Amendment of the Road Traffic Act 1988[^key-71d987773e59527a312f08f288886892]
+### 2. Amendment of the Road Traffic Act 1988[^c-71d987773e59527a312f08f288886892]
 
 In section 145 of the Road Traffic Act 1988 [^c23637281] (requirements in respect of policies of insurance), in subsection (3)—
 
@@ -81,7 +81,7 @@ In section 145 of the Road Traffic Act 1988 [^c23637281] (requirements in respec
 
 ## PART 3 — Amendment of subordinate legislation
 
-### 3. Amendment of the Motor Vehicles (Compulsory Insurance) (No. 2) Regulations 1973[^key-c836d2151b858e3d5e8a1a0c860965a2]
+### 3. Amendment of the Motor Vehicles (Compulsory Insurance) (No. 2) Regulations 1973[^c-c836d2151b858e3d5e8a1a0c860965a2]
 
 *Extent: E+W+S*
 
@@ -101,7 +101,7 @@ In section 145 of the Road Traffic Act 1988 [^c23637281] (requirements in respec
 
 (5) In regulation 8 omit “other than the United Kingdom and Gibraltar”.
 
-### 4. Amendment of the Motor Vehicles (Compulsory Insurance) (Information Centre and Compensation Body) Regulations 2003[^key-87948dc806cfbf56e8ace3eca81ef4f2]
+### 4. Amendment of the Motor Vehicles (Compulsory Insurance) (Information Centre and Compensation Body) Regulations 2003[^c-87948dc806cfbf56e8ace3eca81ef4f2]
 
 (1) Subject to regulation 1(4), the 2003 Regulations are amended as follows.
 
@@ -165,7 +165,7 @@ In section 145 of the Road Traffic Act 1988 [^c23637281] (requirements in respec
 
 *Extent: N.I.*
 
-### 5. Amendment of the Road Traffic (Northern Ireland) Order 1981[^key-f8c87e6521c94e9c4642525d8f2a8f77]
+### 5. Amendment of the Road Traffic (Northern Ireland) Order 1981[^c-f8c87e6521c94e9c4642525d8f2a8f77]
 
 In Article 92 of the Road Traffic (Northern Ireland) Order 1981 [^c23637301] (requirements in respect of policies), in paragraph (1)—
 
@@ -178,7 +178,7 @@ In Article 92 of the Road Traffic (Northern Ireland) Order 1981 [^c23637301] (re
 
 *Extent: N.I.*
 
-### 6. Amendment of the European Communities (Motor Vehicles: Compulsory Insurance) (Northern Ireland) Regulations 1973[^key-d952aacef80a72273e8df36433ba28d4]
+### 6. Amendment of the European Communities (Motor Vehicles: Compulsory Insurance) (Northern Ireland) Regulations 1973[^c-d952aacef80a72273e8df36433ba28d4]
 
 (1) The European Communities (Motor Vehicles: Compulsory Insurance) (Northern Ireland) Regulations 1973 [^c23637311] are amended as follows.
 
@@ -218,26 +218,26 @@ An Explanatory Memorandum has been prepared and is available alongside this inst
 
 [^c23637261]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-ab2bdfad5fca1cbca5400daf6ab7742d]: Commencement: Reg. 1 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-ab2bdfad5fca1cbca5400daf6ab7742d]: Commencement: Reg. 1 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23637271]: Marginal citation: [S.I. 2003/37](https://www.legislation.gov.uk/uksi/2003/37), to which there are amendments not relevant to these Regulations.
 
-[^key-ee4872ab1c50c611b08217932ca24c7d]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/551/regulation/1/4) substituted (31.12.2020 immediately before IP completion day) by [The Motor Vehicles (Compulsory Insurance and Rights Against Insurers) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/945)](https://www.legislation.gov.uk/uksi/2020/945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/945/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/945/regulation/2)
+[^c-ee4872ab1c50c611b08217932ca24c7d]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/551/regulation/1/4) substituted (31.12.2020 immediately before IP completion day) by [The Motor Vehicles (Compulsory Insurance and Rights Against Insurers) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/945)](https://www.legislation.gov.uk/uksi/2020/945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/945/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/945/regulation/2)
 
-[^key-71d987773e59527a312f08f288886892]: Commencement: Reg. 2 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-71d987773e59527a312f08f288886892]: Commencement: Reg. 2 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23637281]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52); section 145(3) was amended by [S.I. 1992/3036](https://www.legislation.gov.uk/uksi/1992/3036), 2000/726 and 2011/1043.
 
-[^key-c836d2151b858e3d5e8a1a0c860965a2]: Commencement: Reg. 3 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-c836d2151b858e3d5e8a1a0c860965a2]: Commencement: Reg. 3 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23637291]: Marginal citation: [S.I. 1973/2143](https://www.legislation.gov.uk/uksi/1973/2143), relevant amending instruments are [S.I. 1974/791](https://www.legislation.gov.uk/uksi/1974/791), 2011/1043, 2012/1809.
 
-[^key-87948dc806cfbf56e8ace3eca81ef4f2]: Commencement: Reg. 4 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-87948dc806cfbf56e8ace3eca81ef4f2]: Commencement: Reg. 4 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-f8c87e6521c94e9c4642525d8f2a8f77]: Commencement: Reg. 5 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-f8c87e6521c94e9c4642525d8f2a8f77]: Commencement: Reg. 5 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23637301]: Marginal citation: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); Article 92(1) was amended by S.R. [1993 No. 57](https://www.legislation.gov.uk/ukcm/1993/57); there are other amending instruments but none is relevant.
 
-[^key-d952aacef80a72273e8df36433ba28d4]: Commencement: Reg. 6 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-d952aacef80a72273e8df36433ba28d4]: Commencement: Reg. 6 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23637311]: Marginal citation: S.R. & O. (NI) [1973 No. 448](https://www.legislation.gov.uk/ukcm/1973/448), amended by S.R. [1974 No. 206](https://www.legislation.gov.uk/ukcm/1974/206); there are other amending instruments but none is relevant.

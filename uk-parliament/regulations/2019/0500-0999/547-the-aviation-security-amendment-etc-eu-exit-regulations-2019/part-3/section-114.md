@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Revocation of Attachment 6-D[^key-88920afff02584d40eb53dce40196307]
+## 114. Revocation of Attachment 6-D[^c-88920afff02584d40eb53dce40196307]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit Attachment 6-D.
 
 ## Annotations
 
-[^key-88920afff02584d40eb53dce40196307]: Commencement: Reg. 114 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-88920afff02584d40eb53dce40196307]: Commencement: Reg. 114 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

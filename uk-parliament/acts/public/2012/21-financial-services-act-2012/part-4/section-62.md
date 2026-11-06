@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Directions under section 61: supplementary provisions[^key-08be390b8b79ca67fda2500aa301e101]
+## 62. Directions under section 61: supplementary provisions[^c-08be390b8b79ca67fda2500aa301e101]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08be390b8b79ca67fda2500aa301e101]: Commencement: S. 62 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-08be390b8b79ca67fda2500aa301e101]: Commencement: S. 62 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

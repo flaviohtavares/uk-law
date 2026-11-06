@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65A. Destination of fines, forfeitures and fixed penalties[^key-bb5ad164a88931ad49cb004d24e73baa]
+## 65A. Destination of fines, forfeitures and fixed penalties[^c-bb5ad164a88931ad49cb004d24e73baa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where an Act of Parliament or subordinate legislation under an Act of Parliament
 
 ## Annotations
 
-[^key-bb5ad164a88931ad49cb004d24e73baa]: Textual amendment: [S. 65A](https://www.legislation.gov.uk/ukpga/1998/46/section/65A) inserted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 67(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/67/2), [72(5)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/5); [S.I. 2016/1178](https://www.legislation.gov.uk/uksi/2016/1178), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1178/regulation/2/c)
+[^c-bb5ad164a88931ad49cb004d24e73baa]: Textual amendment: [S. 65A](https://www.legislation.gov.uk/ukpga/1998/46/section/65A) inserted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 67(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/67/2), [72(5)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/5); [S.I. 2016/1178](https://www.legislation.gov.uk/uksi/2016/1178), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1178/regulation/2/c)

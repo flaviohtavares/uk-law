@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Directions by the Secretary of State[^key-0f2a3670e928fc9d80b9b56233c7330f]
+## 37. Directions by the Secretary of State[^c-0f2a3670e928fc9d80b9b56233c7330f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ summary: ''
 
 (2) The Secretary of State may also give the MMO such general or specific directions as the Secretary of State considers appropriate for the implementation of any obligations of the United Kingdom under—
 
-- (a)[^key-d6994051d7007e8836f08bc09c0a2b65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) any international agreement to which the United Kingdom [^key-8a1f37c5bb4a8bfc26e4e73ce258e77b]... is for the time being a party.
+- (a)[^c-d6994051d7007e8836f08bc09c0a2b65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) any international agreement to which the United Kingdom [^c-8a1f37c5bb4a8bfc26e4e73ce258e77b]... is for the time being a party.
 
 (3) Before giving directions under this section, the Secretary of State must consult the MMO.
 
@@ -39,14 +39,14 @@ summary: ''
 
 (8) Copies of any directions given under this section are to be made available by the MMO to members of the public on payment of such reasonable fee as the MMO may determine.
 
-(9)[^key-b5606ca2c23f37c5cf74a38ef0a4ea67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-b5606ca2c23f37c5cf74a38ef0a4ea67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0f2a3670e928fc9d80b9b56233c7330f]: Commencement: S. 37 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/5)
+[^c-0f2a3670e928fc9d80b9b56233c7330f]: Commencement: S. 37 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/5)
 
-[^key-d6994051d7007e8836f08bc09c0a2b65]: Textual amendment: [S. 37(2)(a)](https://www.legislation.gov.uk/ukpga/2009/23/section/37/2/a) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [4(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/746/regulation/4/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d6994051d7007e8836f08bc09c0a2b65]: Textual amendment: [S. 37(2)(a)](https://www.legislation.gov.uk/ukpga/2009/23/section/37/2/a) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [4(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/746/regulation/4/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8a1f37c5bb4a8bfc26e4e73ce258e77b]: Textual amendment: Words in [s. 37(2)(b)](https://www.legislation.gov.uk/ukpga/2009/23/section/37/2/b) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [4(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/746/regulation/4/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8a1f37c5bb4a8bfc26e4e73ce258e77b]: Textual amendment: Words in [s. 37(2)(b)](https://www.legislation.gov.uk/ukpga/2009/23/section/37/2/b) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [4(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/746/regulation/4/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b5606ca2c23f37c5cf74a38ef0a4ea67]: Textual amendment: [S. 37(9)](https://www.legislation.gov.uk/ukpga/2009/23/section/37/9) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b5606ca2c23f37c5cf74a38ef0a4ea67]: Textual amendment: [S. 37(9)](https://www.legislation.gov.uk/ukpga/2009/23/section/37/9) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

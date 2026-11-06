@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 120. Power to enter land for construction of temporary works[^key-26c777254a558b5436909554d5241cea]
+## 120. Power to enter land for construction of temporary works[^c-26c777254a558b5436909554d5241cea]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26c777254a558b5436909554d5241cea]: Modification: [Art. 120](https://www.legislation.gov.uk/nisi/1993/3160/article/120) applied (22.4.2013) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 40(2)](https://www.legislation.gov.uk/nia/2011/11/section/40/2), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2); [S.R. 2013/104](https://www.legislation.gov.uk/nisr/2013/104), [art. 2(j)](https://www.legislation.gov.uk/nisr/2013/104/article/2/j)
+[^c-26c777254a558b5436909554d5241cea]: Modification: [Art. 120](https://www.legislation.gov.uk/nisi/1993/3160/article/120) applied (22.4.2013) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 40(2)](https://www.legislation.gov.uk/nia/2011/11/section/40/2), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2); [S.R. 2013/104](https://www.legislation.gov.uk/nisr/2013/104), [art. 2(j)](https://www.legislation.gov.uk/nisr/2013/104/article/2/j)

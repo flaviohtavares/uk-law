@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 7A — Offences specified for the purposes of section 137A[^key-34491444af109a050320e41c4e383b1b]
+## Schedule 7A — Offences specified for the purposes of section 137A[^c-34491444af109a050320e41c4e383b1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -126,14 +126,14 @@ Section 137B
 - (a) section 1 (encouragement of terrorism);
 - (b) section 2 (dissemination of terrorist publications).
 
-**24.**[^key-d47c2e2c83357c68cd6bde2a08d97b6c] An offence under either of the following provisions of the Serious Crime Act 2015—
+**24.**[^c-d47c2e2c83357c68cd6bde2a08d97b6c] An offence under either of the following provisions of the Serious Crime Act 2015—
 
 - (a) section 45 (participating in activities of organised crime group);
 - (b) section 75A (strangulation or suffocation).
 
 **25.** An offence under section 68 of the Policing and Crime Act 2017 (breach of pre-charge bail conditions relating to travel).
 
-**25A.**[^key-b8c337f26da726da6976afeedd29d47b] An offence under any of the following sections of the Health and Care Act 2022—
+**25A.**[^c-b8c337f26da726da6976afeedd29d47b] An offence under any of the following sections of the Health and Care Act 2022—
 
 - (a) section 136 (virginity testing);
 - (b) section 137 (offering to carry out virginity testing);
@@ -236,7 +236,7 @@ Section 137B
 
 **43.** An offence under section 2 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (disclosing etc an intimate photograph or film).
 
-**43A.**[^key-7e939b04a25a5f721fda1fbfc3240f9e] An offence under any of the following sections of the Health and Care Act 2022—
+**43A.**[^c-7e939b04a25a5f721fda1fbfc3240f9e] An offence under any of the following sections of the Health and Care Act 2022—
 
 - (a) section 140 (virginity testing);
 - (b) section 141 (offering to carry out virginity testing);
@@ -340,7 +340,7 @@ Section 137B
 
 **67.** An offence under section 68 of the Policing and Crime Act 2017 (breach of pre-charge bail conditions relating to travel).
 
-**68.**[^key-c50941e6fb33dd2b593d3e3d29d653ae] An offence under any of the following sections of the Health and Care Act 2022—
+**68.**[^c-c50941e6fb33dd2b593d3e3d29d653ae] An offence under any of the following sections of the Health and Care Act 2022—
 
 - (a) section 144 (virginity testing);
 - (b) section 145 (offering to carry out virginity testing);
@@ -351,12 +351,12 @@ Section 137B
 
 ## Annotations
 
-[^key-34491444af109a050320e41c4e383b1b]: Textual amendment: Sch. 7A inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 15](https://www.legislation.gov.uk/ukpga/2017/3/schedule/15); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
+[^c-34491444af109a050320e41c4e383b1b]: Textual amendment: Sch. 7A inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 15](https://www.legislation.gov.uk/ukpga/2017/3/schedule/15); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
 
-[^key-d47c2e2c83357c68cd6bde2a08d97b6c]: Textual amendment: [Sch. 7A para. 24](https://www.legislation.gov.uk/ukpga/1994/33/schedule/7A/paragraph/24) substituted (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2021/17/schedule/2/paragraph/3); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/b)
+[^c-d47c2e2c83357c68cd6bde2a08d97b6c]: Textual amendment: [Sch. 7A para. 24](https://www.legislation.gov.uk/ukpga/1994/33/schedule/7A/paragraph/24) substituted (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2021/17/schedule/2/paragraph/3); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/b)
 
-[^key-b8c337f26da726da6976afeedd29d47b]: Textual amendment: [Sch. 7A para. 25A](https://www.legislation.gov.uk/ukpga/1994/33/schedule/7A/paragraph/25A) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 16 para. 3(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/16/paragraph/3/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-b8c337f26da726da6976afeedd29d47b]: Textual amendment: [Sch. 7A para. 25A](https://www.legislation.gov.uk/ukpga/1994/33/schedule/7A/paragraph/25A) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 16 para. 3(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/16/paragraph/3/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-7e939b04a25a5f721fda1fbfc3240f9e]: Textual amendment: [Sch. 7A para. 43A](https://www.legislation.gov.uk/ukpga/1994/33/schedule/7A/paragraph/43A) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 16 para. 3(3)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/16/paragraph/3/3); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-7e939b04a25a5f721fda1fbfc3240f9e]: Textual amendment: [Sch. 7A para. 43A](https://www.legislation.gov.uk/ukpga/1994/33/schedule/7A/paragraph/43A) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 16 para. 3(3)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/16/paragraph/3/3); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-c50941e6fb33dd2b593d3e3d29d653ae]: Textual amendment: [Sch. 7A para. 68](https://www.legislation.gov.uk/ukpga/1994/33/schedule/7A/paragraph/68) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 16 para. 3(4)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/16/paragraph/3/4); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-c50941e6fb33dd2b593d3e3d29d653ae]: Textual amendment: [Sch. 7A para. 68](https://www.legislation.gov.uk/ukpga/1994/33/schedule/7A/paragraph/68) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 16 para. 3(4)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/16/paragraph/3/4); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

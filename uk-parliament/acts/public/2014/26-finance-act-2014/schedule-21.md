@@ -24,7 +24,7 @@ Section 101
 
 ### Meaning of “stores”
 
-**1.**[^key-0e66237a65aa57e618d15474b73ed69a] (1) Section 1 of CEMA 1979 (interpretation) is amended as follows.
+**1.**[^c-0e66237a65aa57e618d15474b73ed69a] (1) Section 1 of CEMA 1979 (interpretation) is amended as follows.
 
 (2) In subsection (4)(a)(i), for “relevant journey” substitute “ journey made by the ship or aircraft ”.
 
@@ -32,7 +32,7 @@ Section 101
 
 ### Surplus stores
 
-**2.**[^key-f0c60047a1053e6d77d4544f6077efe2] In section 39 of CEMA 1979 (entry of surplus stores), for subsection (1) substitute—
+**2.**[^c-f0c60047a1053e6d77d4544f6077efe2] In section 39 of CEMA 1979 (entry of surplus stores), for subsection (1) substitute—
 
 > (1) Surplus stores of any ship or aircraft—
 >
@@ -77,7 +77,7 @@ Section 101
 > - (a) specified in regulations made under this section; or
 > - (b) specified by the Commissioners under such regulations.
 
-**4.**[^key-2744602f4cd6cf8c5f4a5d7ebc81fcd4] (1) Section 61 of CEMA 1979 (provisions as to stores) is amended as follows.
+**4.**[^c-2744602f4cd6cf8c5f4a5d7ebc81fcd4] (1) Section 61 of CEMA 1979 (provisions as to stores) is amended as follows.
 
 (2) Omit subsections (1) to (4).
 
@@ -91,11 +91,11 @@ Section 101
 
 (6) The heading of section 61 becomes “ **Supplementary provision relating to stores** ”.
 
-**5.**[^key-5b7a5c89f28aa89654ca03b839373d1b] In consequence of the provision made by paragraph 4, in section 103 of F(No.2)A 1987 (consumption in port of goods transhipped for use as stores etc), omit subsections (1), (2) and (4) to (7).
+**5.**[^c-5b7a5c89f28aa89654ca03b839373d1b] In consequence of the provision made by paragraph 4, in section 103 of F(No.2)A 1987 (consumption in port of goods transhipped for use as stores etc), omit subsections (1), (2) and (4) to (7).
 
 ### Penalties and enforcement
 
-**6.**[^key-e17dbd4c16518b5f3123cf07d8d24742] In CEMA 1979, after section 60A (inserted by paragraph 3 above) insert—
+**6.**[^c-e17dbd4c16518b5f3123cf07d8d24742] In CEMA 1979, after section 60A (inserted by paragraph 3 above) insert—
 
 > **60B. Failure to comply with regulations under section 60A**
 >
@@ -110,7 +110,7 @@ Section 101
 >
 > (4) Subsection (2) does not apply if, as a result of the failure, the person is liable to pay a penalty under Schedule 55 to the Finance Act 2009 (penalty for failure to make returns etc) or Schedule 56 to that Act (penalty for failure to make payments on time).
 
-**7.**[^key-b3637efd0b6ab55c1325e6b8f10ebfb3] In Schedule 55 to FA 2009 (penalty for failure to make returns etc), in the Table in paragraph 1, after item 20 insert—
+**7.**[^c-b3637efd0b6ab55c1325e6b8f10ebfb3] In Schedule 55 to FA 2009 (penalty for failure to make returns etc), in the Table in paragraph 1, after item 20 insert—
 
 > |  |  |  |
 > | --- | --- | --- |
@@ -118,7 +118,7 @@ Section 101
 
 .
 
-**8.**[^key-8e974c1372923e2b8a6b14f176ca4933] In Schedule 56 to FA 2009 (penalty for failure to make payments on time), in the Table in paragraph 1, after item 11G insert—
+**8.**[^c-8e974c1372923e2b8a6b14f176ca4933] In Schedule 56 to FA 2009 (penalty for failure to make payments on time), in the Table in paragraph 1, after item 11G insert—
 
 > |  |  |  |  |
 > | --- | --- | --- | --- |
@@ -128,7 +128,7 @@ Section 101
 
 ### Review and appeal
 
-**9.**[^key-0cc52118ce0bd372d4fdd8bdd0594ba7] In paragraph 2 of Schedule 5 to FA 1994 (decisions under CEMA 1979 subject to review and appeal), after sub-paragraph (3) insert—
+**9.**[^c-0cc52118ce0bd372d4fdd8bdd0594ba7] In paragraph 2 of Schedule 5 to FA 1994 (decisions under CEMA 1979 subject to review and appeal), after sub-paragraph (3) insert—
 
 > (3A) Any decision which is made under or for the purposes of any regulations under section 60A of the Management Act (power to make regulations about stores) and is a decision about granting or withdrawing authorisation for goods to be shipped or carried as stores without payment of duty or on drawback.
 
@@ -146,20 +146,20 @@ Section 101
 
 ## Annotations
 
-[^key-0e66237a65aa57e618d15474b73ed69a]: Commencement: Sch. 21 para. 1 in force at 1.4.2015 by [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)
+[^c-0e66237a65aa57e618d15474b73ed69a]: Commencement: Sch. 21 para. 1 in force at 1.4.2015 by [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)
 
-[^key-f0c60047a1053e6d77d4544f6077efe2]: Commencement: Sch. 21 para. 2 in force at 1.4.2015 by [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)
+[^c-f0c60047a1053e6d77d4544f6077efe2]: Commencement: Sch. 21 para. 2 in force at 1.4.2015 by [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)
 
 [^c22231581]: Commencement: Sch. 21 para. 3 partly in force; Sch. 21 para. 3 in force for specified purposes at Royal Assent, see Sch. 21 para. 10
 
-[^key-2744602f4cd6cf8c5f4a5d7ebc81fcd4]: Commencement: Sch. 21 para. 4 in force at 1.4.2015 by [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)
+[^c-2744602f4cd6cf8c5f4a5d7ebc81fcd4]: Commencement: Sch. 21 para. 4 in force at 1.4.2015 by [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)
 
-[^key-5b7a5c89f28aa89654ca03b839373d1b]: Commencement: Sch. 21 para. 5 in force at 1.4.2015 by [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)
+[^c-5b7a5c89f28aa89654ca03b839373d1b]: Commencement: Sch. 21 para. 5 in force at 1.4.2015 by [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)
 
-[^key-e17dbd4c16518b5f3123cf07d8d24742]: Commencement: Sch. 21 para. 6 in force at 1.4.2015 by [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)
+[^c-e17dbd4c16518b5f3123cf07d8d24742]: Commencement: Sch. 21 para. 6 in force at 1.4.2015 by [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)
 
-[^key-b3637efd0b6ab55c1325e6b8f10ebfb3]: Commencement: Sch. 21 para. 7 in force at 1.4.2015 by [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)
+[^c-b3637efd0b6ab55c1325e6b8f10ebfb3]: Commencement: Sch. 21 para. 7 in force at 1.4.2015 by [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)
 
-[^key-8e974c1372923e2b8a6b14f176ca4933]: Commencement: Sch. 21 para. 8 in force at 1.4.2015 by [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)
+[^c-8e974c1372923e2b8a6b14f176ca4933]: Commencement: Sch. 21 para. 8 in force at 1.4.2015 by [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)
 
-[^key-0cc52118ce0bd372d4fdd8bdd0594ba7]: Commencement: Sch. 21 para. 9 in force at 1.4.2015 by [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)
+[^c-0cc52118ce0bd372d4fdd8bdd0594ba7]: Commencement: Sch. 21 para. 9 in force at 1.4.2015 by [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)

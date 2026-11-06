@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9I. Other interpretation[^key-e273b266a99dba86f3a0e52d2b715e53][^key-3cf64e08e6cd4abf95571c8bce33f674]
+## 9I. Other interpretation[^c-e273b266a99dba86f3a0e52d2b715e53][^c-3cf64e08e6cd4abf95571c8bce33f674]
 
 *Extent: E+W+S+N.I.*
 
 In this Part—
 
 - “**current strategy**”, in relation to any particular time, means a strategy under section 9A(2) in force at that time;
-- “[^key-e99292a9c246d9682615a6018b4878f5]**offshore installation**” has the same meaning as in Part 4 (see section 44);
+- “[^c-e99292a9c246d9682615a6018b4878f5]**offshore installation**” has the same meaning as in Part 4 (see section 44);
 - “**operator under a petroleum licence**” means a person who is responsible for organising or supervising any of the operations of searching for, boring for, or getting UK petroleum in pursuance of the petroleum licence;
 - “**owner**”, in relation to a relevant offshore installation, has the meaning given in section 9HA;
 - “**owner**”, in relation to upstream petroleum infrastructure, has the meaning given in section 9H;
@@ -42,8 +42,8 @@ In this Part—
 
 ## Annotations
 
-[^key-e273b266a99dba86f3a0e52d2b715e53]: Textual amendment: Pt. 1A inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 41](https://www.legislation.gov.uk/ukpga/2015/7/section/41), [57(7)(c)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/c); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/481/regulation/3/b)
+[^c-e273b266a99dba86f3a0e52d2b715e53]: Textual amendment: Pt. 1A inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 41](https://www.legislation.gov.uk/ukpga/2015/7/section/41), [57(7)(c)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/c); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/481/regulation/3/b)
 
-[^key-3cf64e08e6cd4abf95571c8bce33f674]: Extent: Pt. 1A extended (N.I.) (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 74(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/74/1), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-3cf64e08e6cd4abf95571c8bce33f674]: Extent: Pt. 1A extended (N.I.) (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 74(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/74/1), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
 
-[^key-e99292a9c246d9682615a6018b4878f5]: Textual amendment: Words in s. 9I inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 73(5)](https://www.legislation.gov.uk/ukpga/2016/20/section/73/5), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-e99292a9c246d9682615a6018b4878f5]: Textual amendment: Words in s. 9I inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 73(5)](https://www.legislation.gov.uk/ukpga/2016/20/section/73/5), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)

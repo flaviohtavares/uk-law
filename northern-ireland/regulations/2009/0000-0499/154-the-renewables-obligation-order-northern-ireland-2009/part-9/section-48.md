@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Exchange of information with the Great Britain authority[^key-674631b96ce5af7c7d8082cbd6ec72ba]
+## 48. Exchange of information with the Great Britain authority[^c-674631b96ce5af7c7d8082cbd6ec72ba]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-674631b96ce5af7c7d8082cbd6ec72ba]: Commencement: Art. 48 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-674631b96ce5af7c7d8082cbd6ec72ba]: Commencement: Art. 48 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)

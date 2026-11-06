@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Amendments to the Trade Marks Rules[^key-193d5194605d172ac145f5f91fc3cd50]
+## 9. Amendments to the Trade Marks Rules[^c-193d5194605d172ac145f5f91fc3cd50]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 7, which contains amendments to the Trade Marks Rules, has effect.
 
 ## Annotations
 
-[^key-193d5194605d172ac145f5f91fc3cd50]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-193d5194605d172ac145f5f91fc3cd50]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

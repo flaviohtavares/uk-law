@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The Health and Social Care Information Centre (Transfer of Staff, Property and Liabilities) Order 2008 (revoked)[^key-37b4ccd5d7661d7279621c83aff93365]
+The Health and Social Care Information Centre (Transfer of Staff, Property and Liabilities) Order 2008 (revoked)[^c-37b4ccd5d7661d7279621c83aff93365]
 
 Made
 
@@ -46,50 +46,50 @@ Coming into force
 
 1st April 2008
 
-[^key-37b4ccd5d7661d7279621c83aff93365]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37b4ccd5d7661d7279621c83aff93365]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-37b4ccd5d7661d7279621c83aff93365]
+## 1. Citation, commencement, application and interpretation[^c-37b4ccd5d7661d7279621c83aff93365]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Transfer of staff[^key-37b4ccd5d7661d7279621c83aff93365]
+## 2. Transfer of staff[^c-37b4ccd5d7661d7279621c83aff93365]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Enforceability of rights and transfer of property[^key-37b4ccd5d7661d7279621c83aff93365]
+## 3. Enforceability of rights and transfer of property[^c-37b4ccd5d7661d7279621c83aff93365]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-37b4ccd5d7661d7279621c83aff93365]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37b4ccd5d7661d7279621c83aff93365]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Schedule of property of the Secretary of State to be transferred to the Information Centre[^key-37b4ccd5d7661d7279621c83aff93365]
+## SCHEDULE — Schedule of property of the Secretary of State to be transferred to the Information Centre[^c-37b4ccd5d7661d7279621c83aff93365]
 
 Article 3(1)
 
-### PART 1 — Printers, scanners, readers and faxes[^key-37b4ccd5d7661d7279621c83aff93365]
+### PART 1 — Printers, scanners, readers and faxes[^c-37b4ccd5d7661d7279621c83aff93365]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Computers[^key-37b4ccd5d7661d7279621c83aff93365]
+### PART 2 — Computers[^c-37b4ccd5d7661d7279621c83aff93365]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Miscellaneous Assets[^key-37b4ccd5d7661d7279621c83aff93365]
+### PART 3 — Miscellaneous Assets[^c-37b4ccd5d7661d7279621c83aff93365]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — Records[^key-37b4ccd5d7661d7279621c83aff93365]
+### PART 4 — Records[^c-37b4ccd5d7661d7279621c83aff93365]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-37b4ccd5d7661d7279621c83aff93365]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37b4ccd5d7661d7279621c83aff93365]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-37b4ccd5d7661d7279621c83aff93365]: Textual amendment: Order revoked (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 197](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/197)
+[^c-37b4ccd5d7661d7279621c83aff93365]: Textual amendment: Order revoked (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 197](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/197)

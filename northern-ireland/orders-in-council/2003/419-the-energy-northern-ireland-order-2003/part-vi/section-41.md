@@ -29,9 +29,9 @@ summary: ''
 (2) In this Part—
 
 - “[^c21277801]**regulated person**” means any person who is—
-  - (a) a licence holder; [^key-303ca8f6d603ca273d876be28da4aadb]...
-  - (b) an exemption holder ;or[^key-46a340c3cc7c92603a501daf9c7d562f]
-  - (c) a regional co-ordination centre;[^key-87d1910234e2df50575e847fbb73209f]
+  - (a) a licence holder; [^c-303ca8f6d603ca273d876be28da4aadb]...
+  - (b) an exemption holder ;or[^c-46a340c3cc7c92603a501daf9c7d562f]
+  - (c) a regional co-ordination centre;[^c-87d1910234e2df50575e847fbb73209f]
 - “[^c21277821]**relevant conditions**” means—
   - (a) in relation to any licence holder, any condition of his licence;
   - (b) in relation to any exemption holder, any condition of his exemption.
@@ -51,11 +51,11 @@ summary: ''
 
 [^c21277801]: Textual amendment: Art. 41(2): definition of "regulated person" inserted (15.4.2011) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [reg. 73](https://www.legislation.gov.uk/nisr/2011/155/regulation/73)
 
-[^key-303ca8f6d603ca273d876be28da4aadb]: Textual amendment: Word in art. 41(2) omitted (31.12.2020) by virtue of [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [27(a)](https://www.legislation.gov.uk/nisr/2020/307/regulation/27/a)
+[^c-303ca8f6d603ca273d876be28da4aadb]: Textual amendment: Word in art. 41(2) omitted (31.12.2020) by virtue of [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [27(a)](https://www.legislation.gov.uk/nisr/2020/307/regulation/27/a)
 
-[^key-46a340c3cc7c92603a501daf9c7d562f]: Textual amendment: Word in art. 41(2) substituted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [27(b)](https://www.legislation.gov.uk/nisr/2020/307/regulation/27/b)
+[^c-46a340c3cc7c92603a501daf9c7d562f]: Textual amendment: Word in art. 41(2) substituted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [27(b)](https://www.legislation.gov.uk/nisr/2020/307/regulation/27/b)
 
-[^key-87d1910234e2df50575e847fbb73209f]: Textual amendment: Words in art. 41(2) added (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [27(b)](https://www.legislation.gov.uk/nisr/2020/307/regulation/27/b)
+[^c-87d1910234e2df50575e847fbb73209f]: Textual amendment: Words in art. 41(2) added (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [27(b)](https://www.legislation.gov.uk/nisr/2020/307/regulation/27/b)
 
 [^c21277821]: Textual amendment: Art. 41(2): definition of "relevant conditions" substituted (15.4.2011) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [reg. 74](https://www.legislation.gov.uk/nisr/2011/155/regulation/74)
 

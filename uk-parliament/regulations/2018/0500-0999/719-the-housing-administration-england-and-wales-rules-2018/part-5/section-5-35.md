@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.35. Sole or final dividend[^key-4e54404ff85991f3df321ddb9b43f207]
+## 5.35. Sole or final dividend[^c-4e54404ff85991f3df321ddb9b43f207]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e54404ff85991f3df321ddb9b43f207]: Commencement: Rule 5.35 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-4e54404ff85991f3df321ddb9b43f207]: Commencement: Rule 5.35 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
 
 [^f00035]: Footnote: Paragraph 99 was amended by paragraph 27 of Schedule 6 to the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).

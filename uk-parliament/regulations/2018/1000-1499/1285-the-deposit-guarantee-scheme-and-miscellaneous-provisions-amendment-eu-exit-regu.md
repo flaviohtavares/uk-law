@@ -44,7 +44,7 @@ Coming into force in accordance with regulation 1
 
 [^c23459731]The Treasury make these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 .
 
-In accordance with paragraph 2A(3)(a) of Schedule 2 to the European Communities Act 1972 and paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.[^key-8f716e3c98c14da2f88179ec357e1010]
+In accordance with paragraph 2A(3)(a) of Schedule 2 to the European Communities Act 1972 and paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.[^c-8f716e3c98c14da2f88179ec357e1010]
 
 ## PART 1 — General provisions
 
@@ -86,7 +86,7 @@ In accordance with paragraph 2A(3)(a) of Schedule 2 to the European Communities 
 
 ## PART 3 — Amendments of Primary Legislation: European Union (Withdrawal) Act 2018
 
-### 3. Amendments of the Financial Services and Markets Act 2000[^key-ff7ff31b54f2d1d5297fd2ce10f67358]
+### 3. Amendments of the Financial Services and Markets Act 2000[^c-ff7ff31b54f2d1d5297fd2ce10f67358]
 
 (1) In the Financial Services and Markets Act 2000 [^c23459751], Schedule 17 (the ombudsman scheme) is amended as follows.
 
@@ -99,13 +99,13 @@ In accordance with paragraph 2A(3)(a) of Schedule 2 to the European Communities 
 
 (4) In Part 3, in paragraph 14(3A), for “quality requirements in Chapter II of the ADR Directive” substitute “ requirements in Schedule 3 to the Alternative Dispute Resolution for Consumer Disputes (Competent Authorities and Information) Regulations 2015 ”.
 
-### 4. Amendment of the Financial Services Act 2012[^key-7d73b6e42678c9ee267b7073dbe67eca]
+### 4. Amendment of the Financial Services Act 2012[^c-7d73b6e42678c9ee267b7073dbe67eca]
 
 In the Financial Services Act 2012 [^c23459771], in section 82 (publication of reports of inquiries and investigations), in subsection (3)(a), for “, enforceable EU obligation” substitute “ (including any provision of retained direct EU legislation) ”.
 
 ## PART 4 — Modification of the Deposit Guarantee Scheme Regulations 2015: European Union (Withdrawal) Act 2018
 
-### 5. Amendments of the Deposit Guarantee Scheme Regulations 2015[^key-407c118f31a999f900c9c9357c2996d1]
+### 5. Amendments of the Deposit Guarantee Scheme Regulations 2015[^c-407c118f31a999f900c9c9357c2996d1]
 
 (1) The 2015 Regulations are further amended as follows.
 
@@ -138,7 +138,7 @@ In the Financial Services Act 2012 [^c23459771], in section 82 (publication of r
 >
 > (6) Having reviewed the amount referred to in paragraph (3), the PRA may adjust the amount, taking account of matters the PRA considers relevant, including in particular, developments in the banking sector and the economic and monetary situation in the United Kingdom.
 >
-> (7)[^key-14a25a51b2efeed4c4f05b8ad3680d37] The first review carried out in accordance with paragraph (5) must be completed no later than five years after regulation 5 of the Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 comes into force (in accordance with paragraph 1(1) of Schedule 5 to the European Union (Withdrawal Agreement) Act 2020).
+> (7)[^c-14a25a51b2efeed4c4f05b8ad3680d37] The first review carried out in accordance with paragraph (5) must be completed no later than five years after regulation 5 of the Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 comes into force (in accordance with paragraph 1(1) of Schedule 5 to the European Union (Withdrawal Agreement) Act 2020).
 >
 > (8) The PRA may adjust the amount referred to in paragraph (3) in accordance with inflation in the United Kingdom during the period since the most recent alteration of the amount referred to in paragraph (3).
 >
@@ -174,7 +174,7 @@ In the Financial Services Act 2012 [^c23459771], in section 82 (publication of r
 
 (10) In regulation 18 (review), omit paragraph (2).
 
-### 6. Transitional arrangements for payment of compensation by the scheme manager on behalf of a non-UK deposit guarantee scheme[^key-d083fef848d3b542ba0ed0ac35765a91]
+### 6. Transitional arrangements for payment of compensation by the scheme manager on behalf of a non-UK deposit guarantee scheme[^c-d083fef848d3b542ba0ed0ac35765a91]
 
 (1) Paragraph (2) applies if—
 
@@ -221,26 +221,26 @@ An impact assessment has not been produced for this instrument, as no significan
 
 [^c23459731]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-8f716e3c98c14da2f88179ec357e1010]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1285): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-8f716e3c98c14da2f88179ec357e1010]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1285): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^c23459741]: Marginal citation: [S.I. 2015/486](https://www.legislation.gov.uk/uksi/2015/486).
 
-[^key-ff7ff31b54f2d1d5297fd2ce10f67358]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-ff7ff31b54f2d1d5297fd2ce10f67358]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23459751]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
 [^c23459761]: Marginal citation: [S.I. 2015/542](https://www.legislation.gov.uk/uksi/2015/542).
 
-[^key-7d73b6e42678c9ee267b7073dbe67eca]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-7d73b6e42678c9ee267b7073dbe67eca]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23459771]: Marginal citation: [2012 c.21](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-407c118f31a999f900c9c9357c2996d1]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-407c118f31a999f900c9c9357c2996d1]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-14a25a51b2efeed4c4f05b8ad3680d37]: Textual amendment: Words in reg. 5(5) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [46](https://www.legislation.gov.uk/uksi/2020/1385/regulation/46)
+[^c-14a25a51b2efeed4c4f05b8ad3680d37]: Textual amendment: Words in reg. 5(5) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [46](https://www.legislation.gov.uk/uksi/2020/1385/regulation/46)
 
 [^c23459781]: Marginal citation: Inserted by the Banking Act 2009, section 173.
 
 [^c23459791]: Marginal citation: A section 214B was originally inserted by the Banking Act 2009, section 171(1). A modified section 214B and sections 214C and 214D were substituted for that by the Financial Services Act 2010, section 16(1), and the modified section 214B was subsequently amended by the Financial Services Act 2012, section 101(10).
 
-[^key-d083fef848d3b542ba0ed0ac35765a91]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-d083fef848d3b542ba0ed0ac35765a91]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

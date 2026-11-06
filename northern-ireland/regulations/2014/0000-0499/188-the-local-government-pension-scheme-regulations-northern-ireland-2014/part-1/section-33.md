@@ -30,7 +30,7 @@ summary: ''
 
 (5) A notice given under paragraph (3) shall be given not less than three months before the beginning of the period specified, and a notice given under paragraph (4) shall be given within three months of the reduction in hours or grade.
 
-(5A)[^key-4cb546f0d73885d1ee1550e2de4e45a1] A notice may be given under paragraph (3) before the date the member fulfils any qualifying criteria for an election so long as that member fulfils the qualifying criteria on the date specified in the notice.
+(5A)[^c-4cb546f0d73885d1ee1550e2de4e45a1] A notice may be given under paragraph (3) before the date the member fulfils any qualifying criteria for an election so long as that member fulfils the qualifying criteria on the date specified in the notice.
 
 (6) A member may give a further notice under paragraph (3) altering the date specified in an earlier notice, but any such further notice shall be given not less than three months before the beginning of the period specified in the further notice.
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4cb546f0d73885d1ee1550e2de4e45a1]: Textual amendment: [Reg. 33(5A)](https://www.legislation.gov.uk/nisr/2014/188/regulation/33/5A) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2016/128/regulation/10)
+[^c-4cb546f0d73885d1ee1550e2de4e45a1]: Textual amendment: [Reg. 33(5A)](https://www.legislation.gov.uk/nisr/2014/188/regulation/33/5A) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2016/128/regulation/10)

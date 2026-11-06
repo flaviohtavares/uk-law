@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 299. Risk of serious physical harm to others[^key-382822bff096fbf720b01948f9ad12b5]
+## 299. Risk of serious physical harm to others[^c-382822bff096fbf720b01948f9ad12b5]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-382822bff096fbf720b01948f9ad12b5]: Commencement: S. 299 in operation at 2.12.2019 for specified purposes by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/190/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/190/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/190/article/3))
+[^c-382822bff096fbf720b01948f9ad12b5]: Commencement: S. 299 in operation at 2.12.2019 for specified purposes by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/190/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/190/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/190/article/3))

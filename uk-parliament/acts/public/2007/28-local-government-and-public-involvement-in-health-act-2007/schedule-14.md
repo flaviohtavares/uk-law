@@ -26,7 +26,7 @@ Section 216
 
 ### Prevention of Corruption Act 1916 (c. 64)
 
-**1.**[^key-b79fb3b7672a242e222ef1ea344df6f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b79fb3b7672a242e222ef1ea344df6f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Local Government Act 1972 (c. 70)
 
@@ -44,7 +44,7 @@ Section 216
 
 > (3A) In subsection (1)(aa) as it applies in relation to a local authority in England, the reference to an entity under the control of the local authority has the meaning given by order under section 217 of the Local Government and Public Involvement in Health Act 2007.
 >
-> (...)[^key-d6a44955f0aa873786f7383bcea21aa7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (...)[^c-d6a44955f0aa873786f7383bcea21aa7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Local Government, Planning and Land Act 1980 (c. 65)
 
@@ -143,7 +143,7 @@ Section 216
 
 (5) In subsection 96(5) (definition of “company”) for the words from “Part 5” to the end substitute “ section 95 ”.
 
-(6)[^key-7397335ce4507b538c626407899704fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-7397335ce4507b538c626407899704fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Public Audit (Wales) Act 2004 (c. 23)
 
@@ -170,8 +170,8 @@ Section 216
 
 ## Annotations
 
-[^key-b79fb3b7672a242e222ef1ea344df6f3]: Textual amendment: Sch. 14 para. 1 repealed (1.7.2011) by [Bribery Act 2010 (c. 23)](https://www.legislation.gov.uk/ukpga/2010/23), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/23/schedule/2) (with [ss. 16](https://www.legislation.gov.uk/ukpga/2010/23/section/16), [19(5)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/5)); [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418), [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2)
+[^c-b79fb3b7672a242e222ef1ea344df6f3]: Textual amendment: Sch. 14 para. 1 repealed (1.7.2011) by [Bribery Act 2010 (c. 23)](https://www.legislation.gov.uk/ukpga/2010/23), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/23/schedule/2) (with [ss. 16](https://www.legislation.gov.uk/ukpga/2010/23/section/16), [19(5)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/5)); [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418), [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2)
 
-[^key-d6a44955f0aa873786f7383bcea21aa7]: Textual amendment: Words in [Sch. 14 para. 2(3)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/14/paragraph/2/3) omitted (17.11.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/13/3); [S.I. 2021/1249](https://www.legislation.gov.uk/wsi/2021/1249), [art. 2(b)](https://www.legislation.gov.uk/wsi/2021/1249/article/2/b)
+[^c-d6a44955f0aa873786f7383bcea21aa7]: Textual amendment: Words in [Sch. 14 para. 2(3)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/14/paragraph/2/3) omitted (17.11.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/13/3); [S.I. 2021/1249](https://www.legislation.gov.uk/wsi/2021/1249), [art. 2(b)](https://www.legislation.gov.uk/wsi/2021/1249/article/2/b)
 
-[^key-7397335ce4507b538c626407899704fe]: Textual amendment: [Sch. 14 para. 5(6)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/14/paragraph/5/6) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 123(e)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/123/e); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-7397335ce4507b538c626407899704fe]: Textual amendment: [Sch. 14 para. 5(6)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/14/paragraph/5/6) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 123(e)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/123/e); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)

@@ -35,22 +35,22 @@ authorising the placing on the market of refined shrimp peptide concentrate as a
 
 (Text with EEA relevance) (revoked)
 
-[^key-a4ce5416934d45435adaceb0a97c47ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4ce5416934d45435adaceb0a97c47ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-a4ce5416934d45435adaceb0a97c47ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a4ce5416934d45435adaceb0a97c47ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a4ce5416934d45435adaceb0a97c47ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a4ce5416934d45435adaceb0a97c47ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-a4ce5416934d45435adaceb0a97c47ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-a4ce5416934d45435adaceb0a97c47ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-a4ce5416934d45435adaceb0a97c47ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-a4ce5416934d45435adaceb0a97c47ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a4ce5416934d45435adaceb0a97c47ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4ce5416934d45435adaceb0a97c47ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-a4ce5416934d45435adaceb0a97c47ee]
+## ANNEX[^c-a4ce5416934d45435adaceb0a97c47ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a4ce5416934d45435adaceb0a97c47ee]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 18](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/18) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-a4ce5416934d45435adaceb0a97c47ee]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 18](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/18) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

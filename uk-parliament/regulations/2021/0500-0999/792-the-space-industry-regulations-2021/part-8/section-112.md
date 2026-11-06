@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Emergency equipment[^key-bcf901069704296db134fc6372a4eace]
+## 112. Emergency equipment[^c-bcf901069704296db134fc6372a4eace]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcf901069704296db134fc6372a4eace]: Commencement: Reg. 112 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-bcf901069704296db134fc6372a4eace]: Commencement: Reg. 112 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

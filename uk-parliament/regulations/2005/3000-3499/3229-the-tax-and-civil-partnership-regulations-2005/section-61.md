@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61.[^key-bfcd8c214caaaba79c7a28e689e64106]
+## 61.[^c-bfcd8c214caaaba79c7a28e689e64106]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In the Chapter heading before section 279, after “SPOUSES” insert “AND CIV
 
 ## Annotations
 
-[^key-bfcd8c214caaaba79c7a28e689e64106]: Commencement: Reg. 61 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-bfcd8c214caaaba79c7a28e689e64106]: Commencement: Reg. 61 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

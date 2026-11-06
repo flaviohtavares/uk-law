@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66I. Making or supplying purported intimate image generators[^key-b9ce9bb231de5980a3467630794e586d]
+## 66I. Making or supplying purported intimate image generators[^c-b9ce9bb231de5980a3467630794e586d]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ for use as a generator of purported intimate images.
 
 ## Annotations
 
-[^key-b9ce9bb231de5980a3467630794e586d]: Textual amendment: Ss. 66I-66L inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 99(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/99/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/i)
+[^c-b9ce9bb231de5980a3467630794e586d]: Textual amendment: Ss. 66I-66L inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 99(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/99/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/i)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — SCHEDULED WORKS[^key-12b7f4560f87d698ac4c5c734d737159]
+## SCHEDULE 1 — SCHEDULED WORKS[^c-12b7f4560f87d698ac4c5c734d737159]
 
 *Extent: E+W*
 
 Article 2(1)
 
-[^key-12b7f4560f87d698ac4c5c734d737159]
+[^c-12b7f4560f87d698ac4c5c734d737159]
 
 In the City of Wolverhampton—
 
@@ -35,4 +35,4 @@ In the City of Wolverhampton—
 
 ## Annotations
 
-[^key-12b7f4560f87d698ac4c5c734d737159]: Commencement: Sch. 1 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-12b7f4560f87d698ac4c5c734d737159]: Commencement: Sch. 1 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

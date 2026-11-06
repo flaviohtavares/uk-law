@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60. General power to make regulations for purposes of Act.[^key-17e836ed54dd0c7e055bb9df80b7ff78][^key-a5bdc9b4c34d3bea05a5ac5475d699ae]
+## 60. General power to make regulations for purposes of Act.[^c-17e836ed54dd0c7e055bb9df80b7ff78][^c-a5bdc9b4c34d3bea05a5ac5475d699ae]
 
 *Extent: E+W+S*
 
@@ -54,9 +54,9 @@ summary: ''
 
 ## Annotations
 
-[^key-17e836ed54dd0c7e055bb9df80b7ff78]: Modification: S. 60: transfer of functions (1.10.2007) by [The Scotland Act 1998 (Cross-Border Public Authorities) (Traffic Commissioner for the Scottish Traffic Area) Order 2007 (S.I. 2007/2139)](https://www.legislation.gov.uk/uksi/2007/2139), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2139/article/1/1), [2](https://www.legislation.gov.uk/uksi/2007/2139/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/2139/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2139/article/4))
+[^c-17e836ed54dd0c7e055bb9df80b7ff78]: Modification: S. 60: transfer of functions (1.10.2007) by [The Scotland Act 1998 (Cross-Border Public Authorities) (Traffic Commissioner for the Scottish Traffic Area) Order 2007 (S.I. 2007/2139)](https://www.legislation.gov.uk/uksi/2007/2139), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2139/article/1/1), [2](https://www.legislation.gov.uk/uksi/2007/2139/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/2139/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2139/article/4))
 
-[^key-a5bdc9b4c34d3bea05a5ac5475d699ae]: Modification: Ss. 60, 61 modified by [Transport Act 1985 (c. 67)](https://www.legislation.gov.uk/ukpga/1985/67), [ss. 134(1)-(3)](https://www.legislation.gov.uk/ukpga/1985/67/section/134/1), [135(1)](https://www.legislation.gov.uk/ukpga/1985/67/section/135/1) (as amended (26.11.2008 for specified purposes, 6.4.2009 in so far as not already in force) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 60(5)](https://www.legislation.gov.uk/ukpga/2008/26/section/60/5), [134(1)(c)(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/1/c/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1))
+[^c-a5bdc9b4c34d3bea05a5ac5475d699ae]: Modification: Ss. 60, 61 modified by [Transport Act 1985 (c. 67)](https://www.legislation.gov.uk/ukpga/1985/67), [ss. 134(1)-(3)](https://www.legislation.gov.uk/ukpga/1985/67/section/134/1), [135(1)](https://www.legislation.gov.uk/ukpga/1985/67/section/135/1) (as amended (26.11.2008 for specified purposes, 6.4.2009 in so far as not already in force) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 60(5)](https://www.legislation.gov.uk/ukpga/2008/26/section/60/5), [134(1)(c)(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/1/c/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1))
 
 [^c2521381]: Textual amendment: Words repealed by [Transport Act 1985 (c. 67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [ss. 134(2)](https://www.legislation.gov.uk/ukpga/1985/67/section/134/2)(*a*), 139(3), Sch. 8
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10A. Acquisition in connection with immigration rules Appendix EU[^key-4b125287cf732288b4ab94f61f7174d3]
+## 10A. Acquisition in connection with immigration rules Appendix EU[^c-4b125287cf732288b4ab94f61f7174d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ and the date of grant of such leave is referred to in this section as “the rel
 
 ## Annotations
 
-[^key-4b125287cf732288b4ab94f61f7174d3]: Textual amendment: [S. 10A](https://www.legislation.gov.uk/ukpga/1981/61/section/10A) inserted (1.7.2021) by [The British Nationality Act 1981 (Immigration Rules Appendix EU) (Amendment) Regulations 2021 (S.I. 2021/743)](https://www.legislation.gov.uk/uksi/2021/743), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/743/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/743/regulation/2/3)
+[^c-4b125287cf732288b4ab94f61f7174d3]: Textual amendment: [S. 10A](https://www.legislation.gov.uk/ukpga/1981/61/section/10A) inserted (1.7.2021) by [The British Nationality Act 1981 (Immigration Rules Appendix EU) (Amendment) Regulations 2021 (S.I. 2021/743)](https://www.legislation.gov.uk/uksi/2021/743), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/743/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/743/regulation/2/3)

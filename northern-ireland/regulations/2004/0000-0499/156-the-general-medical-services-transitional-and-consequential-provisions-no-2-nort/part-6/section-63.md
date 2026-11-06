@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 63. Refusal of approval of out of hours arrangements under general medical services contracts and default contracts[^key-bae11ca5715a4bdf8975333f2391c902]
+## 63. Refusal of approval of out of hours arrangements under general medical services contracts and default contracts[^c-bae11ca5715a4bdf8975333f2391c902]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bae11ca5715a4bdf8975333f2391c902]: Commencement: Art. 63 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-bae11ca5715a4bdf8975333f2391c902]: Commencement: Art. 63 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Limited examination[^key-599d496d4f5888682ff84d998125d1ad]
+## 26. Limited examination[^c-599d496d4f5888682ff84d998125d1ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-599d496d4f5888682ff84d998125d1ad]: Commencement: Reg. 26 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-599d496d4f5888682ff84d998125d1ad]: Commencement: Reg. 26 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

@@ -31,7 +31,7 @@ summary: ''
 
 Tribunals And Inquiries
 
-The First-tier Tribunal and Upper Tribunal (Chambers) (Amendment No. 2) Order 2009 (revoked)[^key-74f83750aff2b92045803b8e239fd417]
+The First-tier Tribunal and Upper Tribunal (Chambers) (Amendment No. 2) Order 2009 (revoked)[^c-74f83750aff2b92045803b8e239fd417]
 
 Made
 
@@ -45,30 +45,30 @@ Coming into force
 
 1st June 2009
 
-[^key-74f83750aff2b92045803b8e239fd417]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74f83750aff2b92045803b8e239fd417]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-74f83750aff2b92045803b8e239fd417]
+## 1. Citation and commencement[^c-74f83750aff2b92045803b8e239fd417]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the First-tier Tribunal and Upper Tribunal (Chambers) Order 2008[^key-74f83750aff2b92045803b8e239fd417]
+## 2. Amendments to the First-tier Tribunal and Upper Tribunal (Chambers) Order 2008[^c-74f83750aff2b92045803b8e239fd417]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-74f83750aff2b92045803b8e239fd417] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-74f83750aff2b92045803b8e239fd417] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-74f83750aff2b92045803b8e239fd417] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-74f83750aff2b92045803b8e239fd417] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-74f83750aff2b92045803b8e239fd417] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-74f83750aff2b92045803b8e239fd417] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-74f83750aff2b92045803b8e239fd417]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74f83750aff2b92045803b8e239fd417]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-74f83750aff2b92045803b8e239fd417]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74f83750aff2b92045803b8e239fd417]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-74f83750aff2b92045803b8e239fd417]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1021) revoked (29.11.2010) by [The First-tier Tribunal and Upper Tribunal (Chambers) Order 2010 (S.I. 2010/2655)](https://www.legislation.gov.uk/uksi/2010/2655), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2655/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/2655/schedule)
+[^c-74f83750aff2b92045803b8e239fd417]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1021) revoked (29.11.2010) by [The First-tier Tribunal and Upper Tribunal (Chambers) Order 2010 (S.I. 2010/2655)](https://www.legislation.gov.uk/uksi/2010/2655), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2655/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/2655/schedule)

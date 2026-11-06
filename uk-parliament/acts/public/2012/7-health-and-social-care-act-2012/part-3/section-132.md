@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-Health special administration regulations may make provision about the giving by NHS England[^key-bbc2864d30ba05610f791fc4a6518436] of indemnities in respect of—
+Health special administration regulations may make provision about the giving by NHS England[^c-bbc2864d30ba05610f791fc4a6518436] of indemnities in respect of—
 
 - (a) liabilities incurred in connection with the discharge by health special administrators of their functions, and
 - (b) loss or damage sustained in that connection.
@@ -29,4 +29,4 @@ Health special administration regulations may make provision about the giving by
 
 [^c2191319]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2012/7/section/132) partly in force; [s. 132](https://www.legislation.gov.uk/ukpga/2012/7/section/132) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)
 
-[^key-bbc2864d30ba05610f791fc4a6518436]: Textual amendment: Words in [s. 132](https://www.legislation.gov.uk/ukpga/2012/7/section/132) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 5 para. 77](https://www.legislation.gov.uk/ukpga/2022/31/schedule/5/paragraph/77); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-bbc2864d30ba05610f791fc4a6518436]: Textual amendment: Words in [s. 132](https://www.legislation.gov.uk/ukpga/2012/7/section/132) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 5 para. 77](https://www.legislation.gov.uk/ukpga/2022/31/schedule/5/paragraph/77); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

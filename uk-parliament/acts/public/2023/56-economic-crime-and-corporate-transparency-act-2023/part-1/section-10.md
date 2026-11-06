@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Names containing computer code[^key-b2d05787b2dd2e14b68271394412692d][^key-31dacc85f8283f97d7d5d060c2c693d7]
+## 10. Names containing computer code[^c-b2d05787b2dd2e14b68271394412692d][^c-31dacc85f8283f97d7d5d060c2c693d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b2d05787b2dd2e14b68271394412692d]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-b2d05787b2dd2e14b68271394412692d]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-31dacc85f8283f97d7d5d060c2c693d7]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/56/section/10) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/f)
+[^c-31dacc85f8283f97d7d5d060c2c693d7]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/56/section/10) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/f)

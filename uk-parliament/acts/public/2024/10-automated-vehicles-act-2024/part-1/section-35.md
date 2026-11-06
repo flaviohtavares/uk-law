@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Redress notices[^key-1be037719620913a3dfbf202f1374df8]
+## 35. Redress notices[^c-1be037719620913a3dfbf202f1374df8]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1be037719620913a3dfbf202f1374df8]: Commencement: S. 35 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-1be037719620913a3dfbf202f1374df8]: Commencement: S. 35 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

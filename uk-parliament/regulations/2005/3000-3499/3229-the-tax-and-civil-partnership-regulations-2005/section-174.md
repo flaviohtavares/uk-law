@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Finance Act 2003[^key-b6e8bf1ad229ffd0f9332db5c33fae9f]
+## 174. Finance Act 2003[^c-b6e8bf1ad229ffd0f9332db5c33fae9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ In Schedule 3 to the Finance Act 2003 (stamp duty land tax: transactions exempt 
 
 ## Annotations
 
-[^key-b6e8bf1ad229ffd0f9332db5c33fae9f]: Commencement: Reg. 174 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-b6e8bf1ad229ffd0f9332db5c33fae9f]: Commencement: Reg. 174 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

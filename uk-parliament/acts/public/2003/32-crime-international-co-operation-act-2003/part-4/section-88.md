@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. False monetary instruments: England and Wales and Northern Ireland[^key-423ea34096e110efa3e402ea912c82ed]
+## 88. False monetary instruments: England and Wales and Northern Ireland[^c-423ea34096e110efa3e402ea912c82ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-423ea34096e110efa3e402ea912c82ed]: Commencement: S. 88 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-423ea34096e110efa3e402ea912c82ed]: Commencement: S. 88 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)

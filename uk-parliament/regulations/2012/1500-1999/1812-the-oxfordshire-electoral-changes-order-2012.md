@@ -43,18 +43,18 @@ A draft of the instrument has been laid before Parliament and a period of forty 
 
 The Local Government Boundary Commission for England has decided to give effect to the recommendations for electoral changes and in exercise of the powers conferred by section 59(1) of the 2009 Act makes the following Order:
 
-## 1. Citation[^key-a35e247a4a12c057511d1b808e9b920e][^key-72588e401a68f65aaffe0c656a61eda5]
+## 1. Citation[^c-a35e247a4a12c057511d1b808e9b920e][^c-72588e401a68f65aaffe0c656a61eda5]
 
 This Order may be cited as the Oxfordshire (Electoral Changes) Order 2012.
 
-## 2. Commencement[^key-5130c9d91bd84636d331e6671cc6e16b][^key-a06582aa9d29665e6cface07c516c6c6]
+## 2. Commencement[^c-5130c9d91bd84636d331e6671cc6e16b][^c-a06582aa9d29665e6cface07c516c6c6]
 
 (1) This Order, with the exception of articles 5 to 15, comes into force —
 
 - (a) for the purpose of proceedings preliminary or relating to the elections of councillors for county electoral divisions, on 15th October 2012;
 - (b) for all other purposes, on the ordinary day of election of councillors in 2013.
 
-(2) Articles [^key-48bcc87991695bae9d51dfdedb40e796]..., 7, 9, 10, 11, [^key-84873f0dd80ea44f11c06fc2bbca1749]..., 13, and 15 come into force—
+(2) Articles [^c-48bcc87991695bae9d51dfdedb40e796]..., 7, 9, 10, 11, [^c-84873f0dd80ea44f11c06fc2bbca1749]..., 13, and 15 come into force—
 
 - (a) for the purpose of proceedings preliminary or relating to the elections of parish councillors, on 15th October 2014;
 - (b) for all other purposes, on the ordinary day of election of councillors in 2015.
@@ -64,14 +64,14 @@ This Order may be cited as the Oxfordshire (Electoral Changes) Order 2012.
 - (a) for the purpose of proceedings preliminary or relating to the elections of parish councillors, on 15th October 2015;
 - (b) for all other purposes, on the ordinary day of election of councillors in 2016.
 
-## 3. Interpretation[^key-882f95ed758ee3337d23ac38d29a947a][^key-589a5ef0d6864cc827a80e2a06c51da7]
+## 3. Interpretation[^c-882f95ed758ee3337d23ac38d29a947a][^c-589a5ef0d6864cc827a80e2a06c51da7]
 
 In this Order—
 
 - “map” means the map marked “Map referred to in the Oxfordshire (Electoral Changes) Order 2012”, of which prints are available for inspection at the principal office of the Local Government Boundary Commission for England;
 - “ordinary day of election of councillors” has the meaning given by section 37 of the Representation of the People Act 1983[^f00003].
 
-## 4. Electoral divisions of the county of Oxfordshire and number of councillors[^key-a2f2e132138139fca3655f0ceae6b2b0][^key-5eafa96cb7be4166ecec898fa931882c]
+## 4. Electoral divisions of the county of Oxfordshire and number of councillors[^c-a2f2e132138139fca3655f0ceae6b2b0][^c-5eafa96cb7be4166ecec898fa931882c]
 
 (1) The existing electoral divisions of the county of Oxfordshire are abolished.
 
@@ -83,11 +83,11 @@ In this Order—
 
 (5) Where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature.
 
-## 5. Wards of the parish of Abingdon and number of councillors[^key-44bc2dd944b81b05633b7853dbcedf10]
+## 5. Wards of the parish of Abingdon and number of councillors[^c-44bc2dd944b81b05633b7853dbcedf10]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Wards of the parish of Banbury and number of councillors[^key-467babd6eba210aa27452a30519e2337][^key-f956dcccdf40312b6460c5998d210ddf]
+## 6. Wards of the parish of Banbury and number of councillors[^c-467babd6eba210aa27452a30519e2337][^c-f956dcccdf40312b6460c5998d210ddf]
 
 (1) The existing wards of the parish of Banbury are abolished.
 
@@ -128,7 +128,7 @@ In this Order—
 - (c) Banbury Neithrop South;
 - (d) Banbury St John.
 
-## 7. Wards of the parish of Bicester and number of councillors[^key-4859ba0b183d977bf34e851844126c15][^key-b7375702b30b9434ad116484b4e74fcc]
+## 7. Wards of the parish of Bicester and number of councillors[^c-4859ba0b183d977bf34e851844126c15][^c-b7375702b30b9434ad116484b4e74fcc]
 
 (1) The existing wards of the parish of Bicester are abolished.
 
@@ -160,7 +160,7 @@ In this Order—
 - (a) Bicester Central;
 - (b) Bicester South West.
 
-## 8. Wards of the parish of Bodicote and number of councillors[^key-1fa73764e6b6f65691ebe7cacb75ead1][^key-992502bfde37bc4bb16beeea2bc86f0e]
+## 8. Wards of the parish of Bodicote and number of councillors[^c-1fa73764e6b6f65691ebe7cacb75ead1][^c-992502bfde37bc4bb16beeea2bc86f0e]
 
 (1) The parish of Bodicote is divided into two wards named respectively—
 
@@ -173,7 +173,7 @@ In this Order—
 
 (4) Two councillors are to be elected for Bodicote Bankside ward.
 
-## 9. Wards of the parish of Chesterton and number of councillors[^key-6f78f8f32636eec50b307c571d0ef100][^key-3f771bfb1a56e137f99f12a637e9467b]
+## 9. Wards of the parish of Chesterton and number of councillors[^c-6f78f8f32636eec50b307c571d0ef100][^c-3f771bfb1a56e137f99f12a637e9467b]
 
 (1) The parish of Chesterton is divided into two wards named respectively—
 
@@ -186,7 +186,7 @@ In this Order—
 
 (4) Two councillors are to be elected for Chesterton North ward.
 
-## 10. Wards of the parish of Cholsey and number of councillors[^key-54dc9dfa53f5c6f24ed62ad7dcb8d490][^key-d1cd5e2bb93387b3d8df4a6ff84ea7f1]
+## 10. Wards of the parish of Cholsey and number of councillors[^c-54dc9dfa53f5c6f24ed62ad7dcb8d490][^c-d1cd5e2bb93387b3d8df4a6ff84ea7f1]
 
 (1) The parish of Cholsey is divided into two wards named respectively—
 
@@ -199,7 +199,7 @@ In this Order—
 
 (4) Two councillors are to be elected for Winterbrook ward.
 
-## 11. Wards of the parish of Cumnor and number of councillors[^key-75faf567ee5fa5179969d4685d4c86bd][^key-c9c0ba1ebcaa71a9b59e58cb319c78f9]
+## 11. Wards of the parish of Cumnor and number of councillors[^c-75faf567ee5fa5179969d4685d4c86bd][^c-c9c0ba1ebcaa71a9b59e58cb319c78f9]
 
 (1) The parish of Cumnor is divided into four wards named respectively—
 
@@ -218,11 +218,11 @@ In this Order—
 
 (4) Three councillor is to be elected for Farmoor ward.
 
-## 12. Wards of the parish of Didcot and number of councillors[^key-bc17b92a57ddb8feaeb02315af93628b]
+## 12. Wards of the parish of Didcot and number of councillors[^c-bc17b92a57ddb8feaeb02315af93628b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Wards of the parish of Kidlington and number of councillors[^key-8ae5a80055c7ebdde806341591bf8598][^key-8e919f6ba3a224b4de067d5a65fe85a0]
+## 13. Wards of the parish of Kidlington and number of councillors[^c-8ae5a80055c7ebdde806341591bf8598][^c-8e919f6ba3a224b4de067d5a65fe85a0]
 
 (1) The existing wards of the parish of Kidlington are abolished.
 
@@ -238,7 +238,7 @@ In this Order—
 
 (4) Three councillors are to be elected for each ward.
 
-## 14. Wards of the parish of Risinghurst and Sandhills and number of councillors[^key-2b02692b0824d5107a9a063c5737bfd4][^key-c42dfd5dc8f370482e90e5fbf9de5c5e]
+## 14. Wards of the parish of Risinghurst and Sandhills and number of councillors[^c-2b02692b0824d5107a9a063c5737bfd4][^c-c42dfd5dc8f370482e90e5fbf9de5c5e]
 
 (1) The existing wards of the parish of Risinghurst and Sandhills are abolished.
 
@@ -259,7 +259,7 @@ In this Order—
 
 (7) Two councillors are to be elected for Risinghurst South ward.
 
-## 15. Wards of the parish of Witney and number of councillors[^key-c7ad9036303d1759afddefae09117cb9][^key-38725388af4f2ae00e8e2a4c82f069bf]
+## 15. Wards of the parish of Witney and number of councillors[^c-c7ad9036303d1759afddefae09117cb9][^c-38725388af4f2ae00e8e2a4c82f069bf]
 
 (1) The parish of Witney is divided into six wards named respectively—
 
@@ -293,7 +293,7 @@ Local Government Boundary Commission for England
 
 10th July 2012
 
-## SCHEDULE — Names of county electoral divisions and numbers of councillors[^key-c29afc7d9f1ed6133656372fd5b350fe][^key-90f786e12d19bbdbb9e0b99494b63c76]
+## SCHEDULE — Names of county electoral divisions and numbers of councillors[^c-c29afc7d9f1ed6133656372fd5b350fe][^c-90f786e12d19bbdbb9e0b99494b63c76]
 
 Article 4
 
@@ -414,68 +414,68 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00002]: Footnote: The Local Government Boundary Commission for England was established on 1st April 2010 by section 55(1) of the Local Democracy, Economic Development and Construction Act [2009 (c.20)](https://www.legislation.gov.uk/ukpga/2009/20).
 
-[^key-a35e247a4a12c057511d1b808e9b920e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/1812/article/1) in force at 15.10.2012 for specified purposes, see [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/a)
+[^c-a35e247a4a12c057511d1b808e9b920e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/1812/article/1) in force at 15.10.2012 for specified purposes, see [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/a)
 
-[^key-72588e401a68f65aaffe0c656a61eda5]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/1812/article/1) in force at 2.5.2013 in so far as not already in force, see [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/b)
+[^c-72588e401a68f65aaffe0c656a61eda5]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/1812/article/1) in force at 2.5.2013 in so far as not already in force, see [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/b)
 
-[^key-5130c9d91bd84636d331e6671cc6e16b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/1812/article/2) in force at 15.10.2012 for specified purposes, see [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/a)
+[^c-5130c9d91bd84636d331e6671cc6e16b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/1812/article/2) in force at 15.10.2012 for specified purposes, see [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/a)
 
-[^key-a06582aa9d29665e6cface07c516c6c6]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/1812/article/2) in force at 2.5.2013 in so far as not already in force, see [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/b)
+[^c-a06582aa9d29665e6cface07c516c6c6]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/1812/article/2) in force at 2.5.2013 in so far as not already in force, see [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/b)
 
-[^key-48bcc87991695bae9d51dfdedb40e796]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2) deleted (15.10.2014) by [The Vale of White Horse (Electoral Changes) Order 2014 (S.I. 2014/24)](https://www.legislation.gov.uk/uksi/2014/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/24/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2014/24/article/5/a)
+[^c-48bcc87991695bae9d51dfdedb40e796]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2) deleted (15.10.2014) by [The Vale of White Horse (Electoral Changes) Order 2014 (S.I. 2014/24)](https://www.legislation.gov.uk/uksi/2014/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/24/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2014/24/article/5/a)
 
-[^key-84873f0dd80ea44f11c06fc2bbca1749]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2) deleted (15.10.2014) by [The South Oxfordshire (Electoral Changes) Order 2014 (S.I. 2014/23)](https://www.legislation.gov.uk/uksi/2014/23), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/23/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2014/23/article/5/a)
+[^c-84873f0dd80ea44f11c06fc2bbca1749]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2) deleted (15.10.2014) by [The South Oxfordshire (Electoral Changes) Order 2014 (S.I. 2014/23)](https://www.legislation.gov.uk/uksi/2014/23), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/23/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2014/23/article/5/a)
 
-[^key-882f95ed758ee3337d23ac38d29a947a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/1812/article/3) in force at 15.10.2012 for specified purposes, see [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/a)
+[^c-882f95ed758ee3337d23ac38d29a947a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/1812/article/3) in force at 15.10.2012 for specified purposes, see [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/a)
 
-[^key-589a5ef0d6864cc827a80e2a06c51da7]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/1812/article/3) in force at 2.5.2013 in so far as not already in force, see [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/b)
+[^c-589a5ef0d6864cc827a80e2a06c51da7]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/1812/article/3) in force at 2.5.2013 in so far as not already in force, see [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/b)
 
 [^f00003]: Footnote: [1983 c.2](https://www.legislation.gov.uk/ukpga/1983/2). Section 37 has been amended by section 18(2) of the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50), section 17 of the Greater London Authority Act l999 (c.29) and section 60(1) of the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28).
 
-[^key-a2f2e132138139fca3655f0ceae6b2b0]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/1812/article/4) in force at 15.10.2012 for specified purposes, see [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/a)
+[^c-a2f2e132138139fca3655f0ceae6b2b0]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/1812/article/4) in force at 15.10.2012 for specified purposes, see [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/a)
 
-[^key-5eafa96cb7be4166ecec898fa931882c]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/1812/article/4) in force at 2.5.2013 in so far as not already in force, see [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/b)
+[^c-5eafa96cb7be4166ecec898fa931882c]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/1812/article/4) in force at 2.5.2013 in so far as not already in force, see [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/b)
 
-[^key-44bc2dd944b81b05633b7853dbcedf10]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2012/1812/article/5) revoked (15.10.2014) by [The Vale of White Horse (Electoral Changes) Order 2014 (S.I. 2014/24)](https://www.legislation.gov.uk/uksi/2014/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/24/article/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2014/24/article/5/b)
+[^c-44bc2dd944b81b05633b7853dbcedf10]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2012/1812/article/5) revoked (15.10.2014) by [The Vale of White Horse (Electoral Changes) Order 2014 (S.I. 2014/24)](https://www.legislation.gov.uk/uksi/2014/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/24/article/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2014/24/article/5/b)
 
-[^key-467babd6eba210aa27452a30519e2337]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/1812/article/6) in force at 15.10.2015 for specified purposes, see [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/3/a)
+[^c-467babd6eba210aa27452a30519e2337]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/1812/article/6) in force at 15.10.2015 for specified purposes, see [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/3/a)
 
-[^key-f956dcccdf40312b6460c5998d210ddf]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/1812/article/6) in force at 5.5.2016 in so far as not already in force, see [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/3/b)
+[^c-f956dcccdf40312b6460c5998d210ddf]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/1812/article/6) in force at 5.5.2016 in so far as not already in force, see [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/3/b)
 
-[^key-4859ba0b183d977bf34e851844126c15]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/1812/article/7) in force at 15.10.2014 for specified purposes, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/a)
+[^c-4859ba0b183d977bf34e851844126c15]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/1812/article/7) in force at 15.10.2014 for specified purposes, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/a)
 
-[^key-b7375702b30b9434ad116484b4e74fcc]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/1812/article/7) in force at 7.5.2015 in so far as not already in force, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/b)
+[^c-b7375702b30b9434ad116484b4e74fcc]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/1812/article/7) in force at 7.5.2015 in so far as not already in force, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/b)
 
-[^key-1fa73764e6b6f65691ebe7cacb75ead1]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2012/1812/article/8) in force at 15.10.2015 for specified purposes, see [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/3/a)
+[^c-1fa73764e6b6f65691ebe7cacb75ead1]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2012/1812/article/8) in force at 15.10.2015 for specified purposes, see [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/3/a)
 
-[^key-992502bfde37bc4bb16beeea2bc86f0e]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2012/1812/article/8) in force at 5.5.2016 in so far as not already in force, see [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/3/b)
+[^c-992502bfde37bc4bb16beeea2bc86f0e]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2012/1812/article/8) in force at 5.5.2016 in so far as not already in force, see [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/3/b)
 
-[^key-6f78f8f32636eec50b307c571d0ef100]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2012/1812/article/9) in force at 15.10.2014 for specified purposes, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/a)
+[^c-6f78f8f32636eec50b307c571d0ef100]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2012/1812/article/9) in force at 15.10.2014 for specified purposes, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/a)
 
-[^key-3f771bfb1a56e137f99f12a637e9467b]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2012/1812/article/9) in force at 7.5.2015 in so far as not already in force, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/b)
+[^c-3f771bfb1a56e137f99f12a637e9467b]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2012/1812/article/9) in force at 7.5.2015 in so far as not already in force, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/b)
 
-[^key-54dc9dfa53f5c6f24ed62ad7dcb8d490]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2012/1812/article/10) in force at 15.10.2014 for specified purposes, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/a)
+[^c-54dc9dfa53f5c6f24ed62ad7dcb8d490]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2012/1812/article/10) in force at 15.10.2014 for specified purposes, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/a)
 
-[^key-d1cd5e2bb93387b3d8df4a6ff84ea7f1]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2012/1812/article/10) in force at 7.5.2015 in so far as not already in force, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/b)
+[^c-d1cd5e2bb93387b3d8df4a6ff84ea7f1]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2012/1812/article/10) in force at 7.5.2015 in so far as not already in force, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/b)
 
-[^key-75faf567ee5fa5179969d4685d4c86bd]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2012/1812/article/11) in force at 15.10.2014 for specified purposes, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/a)
+[^c-75faf567ee5fa5179969d4685d4c86bd]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2012/1812/article/11) in force at 15.10.2014 for specified purposes, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/a)
 
-[^key-c9c0ba1ebcaa71a9b59e58cb319c78f9]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2012/1812/article/11) in force at 7.5.2015 in so far as not already in force, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/b)
+[^c-c9c0ba1ebcaa71a9b59e58cb319c78f9]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2012/1812/article/11) in force at 7.5.2015 in so far as not already in force, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/b)
 
-[^key-bc17b92a57ddb8feaeb02315af93628b]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/uksi/2012/1812/article/12) revoked (15.10.2014) by [The South Oxfordshire (Electoral Changes) Order 2014 (S.I. 2014/23)](https://www.legislation.gov.uk/uksi/2014/23), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/23/article/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2014/23/article/5/b)
+[^c-bc17b92a57ddb8feaeb02315af93628b]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/uksi/2012/1812/article/12) revoked (15.10.2014) by [The South Oxfordshire (Electoral Changes) Order 2014 (S.I. 2014/23)](https://www.legislation.gov.uk/uksi/2014/23), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/23/article/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2014/23/article/5/b)
 
-[^key-8ae5a80055c7ebdde806341591bf8598]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2012/1812/article/13) in force at 15.10.2014 for specified purposes, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/a)
+[^c-8ae5a80055c7ebdde806341591bf8598]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2012/1812/article/13) in force at 15.10.2014 for specified purposes, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/a)
 
-[^key-8e919f6ba3a224b4de067d5a65fe85a0]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2012/1812/article/13) in force at 7.5.2015 in so far as not already in force, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/b)
+[^c-8e919f6ba3a224b4de067d5a65fe85a0]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2012/1812/article/13) in force at 7.5.2015 in so far as not already in force, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/b)
 
-[^key-2b02692b0824d5107a9a063c5737bfd4]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2012/1812/article/14) in force at 15.10.2015 for specified purposes, see [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/3/a)
+[^c-2b02692b0824d5107a9a063c5737bfd4]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2012/1812/article/14) in force at 15.10.2015 for specified purposes, see [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/3/a)
 
-[^key-c42dfd5dc8f370482e90e5fbf9de5c5e]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2012/1812/article/14) in force at 5.5.2016 in so far as not already in force, see [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/3/b)
+[^c-c42dfd5dc8f370482e90e5fbf9de5c5e]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2012/1812/article/14) in force at 5.5.2016 in so far as not already in force, see [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/3/b)
 
-[^key-c7ad9036303d1759afddefae09117cb9]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2012/1812/article/15) in force at 15.10.2014 for specified purposes, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/a)
+[^c-c7ad9036303d1759afddefae09117cb9]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2012/1812/article/15) in force at 15.10.2014 for specified purposes, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/a)
 
-[^key-38725388af4f2ae00e8e2a4c82f069bf]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2012/1812/article/15) in force at 7.5.2015 in so far as not already in force, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/b)
+[^c-38725388af4f2ae00e8e2a4c82f069bf]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2012/1812/article/15) in force at 7.5.2015 in so far as not already in force, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/b)
 
-[^key-c29afc7d9f1ed6133656372fd5b350fe]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2012/1812/schedule) in force at 15.10.2012 for specified purposes, see [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/a)
+[^c-c29afc7d9f1ed6133656372fd5b350fe]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2012/1812/schedule) in force at 15.10.2012 for specified purposes, see [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/a)
 
-[^key-90f786e12d19bbdbb9e0b99494b63c76]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2012/1812/schedule) in force at 2.5.2013 in so far as not already in force, see [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/b)
+[^c-90f786e12d19bbdbb9e0b99494b63c76]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2012/1812/schedule) in force at 2.5.2013 in so far as not already in force, see [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/b)

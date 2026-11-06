@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Financial penalties: procedure, appeals and enforcement[^key-809c4dac24acc0e600f63ff12c35131b][^key-76b64fde64f5fb4c752018735cce4c85]
+## 16. Financial penalties: procedure, appeals and enforcement[^c-809c4dac24acc0e600f63ff12c35131b][^c-76b64fde64f5fb4c752018735cce4c85]
 
 *Extent: E+W*
 
@@ -138,6 +138,6 @@ In [the 1988 Act](https://www.legislation.gov.uk/ukpga/1988/50), after Schedule 
 
 ## Annotations
 
-[^key-809c4dac24acc0e600f63ff12c35131b]: Commencement: S. 16 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
+[^c-809c4dac24acc0e600f63ff12c35131b]: Commencement: S. 16 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
 
-[^key-76b64fde64f5fb4c752018735cce4c85]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2025/26/section/16) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-76b64fde64f5fb4c752018735cce4c85]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2025/26/section/16) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)

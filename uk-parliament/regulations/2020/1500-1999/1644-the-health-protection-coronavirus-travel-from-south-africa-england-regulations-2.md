@@ -46,7 +46,7 @@ Coming into force in accordance with regulation 1(2) and (3)
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 45B, 45F(2) and 45P(2) of the Public Health (Control of Disease) Act 1984 [^c24408771].
 
-## 1. Citation, commencement, interpretation and application[^key-f6add8f9ecc0bb9b48df9845f69e5bfe][^key-de844a55e706e05eb53b93c7bd22defe]
+## 1. Citation, commencement, interpretation and application[^c-f6add8f9ecc0bb9b48df9845f69e5bfe][^c-de844a55e706e05eb53b93c7bd22defe]
 
 (1) These Regulations may be cited as the Health Protection (Coronavirus, Travel from South Africa) (England) Regulations 2020.
 
@@ -58,11 +58,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (5) These Regulations apply in relation to England only.
 
-## 2. Prohibition on the arrival of aircraft travelling directly from South Africa[^key-529d4712977332e1c7ff259c3031ff60]
+## 2. Prohibition on the arrival of aircraft travelling directly from South Africa[^c-529d4712977332e1c7ff259c3031ff60]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the International Travel Regulations[^key-782d18fd9477469dbecc2b5f684efe60][^key-cb51c09d064a3402120e42e4f31b1573]
+## 3. Amendment of the International Travel Regulations[^c-782d18fd9477469dbecc2b5f684efe60][^c-cb51c09d064a3402120e42e4f31b1573]
 
 (1) The International Travel Regulations are amended as follows.
 
@@ -114,7 +114,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-## 4. Transitional and saving provision[^key-137996bb1e3b56a7da4212b760703dd7][^key-faddb3681e59105fc3383eb66d365997]
+## 4. Transitional and saving provision[^c-137996bb1e3b56a7da4212b760703dd7][^c-faddb3681e59105fc3383eb66d365997]
 
 In relation to any person who arrived in England on or after 10th July 2020 but before 9.00 p.m. on 23rd December 2020, or any person residing with such a person, the International Travel Regulations apply as if the amendments made by regulation 3 had not been made.
 
@@ -140,18 +140,18 @@ An impact assessment has not been produced for this instrument. An explanatory m
 
 [^c24408771]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Part 2A was inserted by section 129 of the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-f6add8f9ecc0bb9b48df9845f69e5bfe]: Commencement: Reg. 1 in force at made date at 9.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1/2)
+[^c-f6add8f9ecc0bb9b48df9845f69e5bfe]: Commencement: Reg. 1 in force at made date at 9.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1/2)
 
-[^key-de844a55e706e05eb53b93c7bd22defe]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1) in force at 23.12.2020 at 9.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1/2)
+[^c-de844a55e706e05eb53b93c7bd22defe]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1) in force at 23.12.2020 at 9.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1/2)
 
 [^c24408781]: Marginal citation: [S.I. 2020/568](https://www.legislation.gov.uk/uksi/2020/568), amended by [S.I. 2020/691](https://www.legislation.gov.uk/uksi/2020/691), 724, 799, 805, 813, 819, 841, 866, 890, 913, 959, 980, 1013, 1039, 1070, 1076, 1094, 1129, 1161, 1190, 1227, 1238, 1277, 1292, 1323, 1337, 1360, 1424, 1517 and 1595.
 
-[^key-529d4712977332e1c7ff259c3031ff60]: Textual amendment: Reg. 2 omitted (15.1.2021 at 4.00 a.m.) by virtue of [The Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/47)](https://www.legislation.gov.uk/uksi/2021/47), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/47/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2021/47/regulation/3)
+[^c-529d4712977332e1c7ff259c3031ff60]: Textual amendment: Reg. 2 omitted (15.1.2021 at 4.00 a.m.) by virtue of [The Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/47)](https://www.legislation.gov.uk/uksi/2021/47), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/47/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2021/47/regulation/3)
 
-[^key-782d18fd9477469dbecc2b5f684efe60]: Commencement: Reg. 3 in force at made date at 9.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1/2)
+[^c-782d18fd9477469dbecc2b5f684efe60]: Commencement: Reg. 3 in force at made date at 9.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1/2)
 
-[^key-cb51c09d064a3402120e42e4f31b1573]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1644/regulation/3) in force at 23.12.2020 at 9.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1/2)
+[^c-cb51c09d064a3402120e42e4f31b1573]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1644/regulation/3) in force at 23.12.2020 at 9.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1/2)
 
-[^key-137996bb1e3b56a7da4212b760703dd7]: Commencement: Reg. 4 in force at made date at 9.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1/2)
+[^c-137996bb1e3b56a7da4212b760703dd7]: Commencement: Reg. 4 in force at made date at 9.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1/2)
 
-[^key-faddb3681e59105fc3383eb66d365997]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1644/regulation/4) in force at 23.12.2020 at 9.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1/2)
+[^c-faddb3681e59105fc3383eb66d365997]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1644/regulation/4) in force at 23.12.2020 at 9.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1/2)

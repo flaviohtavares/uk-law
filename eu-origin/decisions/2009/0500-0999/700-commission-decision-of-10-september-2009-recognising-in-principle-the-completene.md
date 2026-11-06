@@ -39,20 +39,20 @@ recognising in principle the completeness of the dossier submitted for detailed 
 
 (2009/700/EC) (revoked)
 
-[^key-2cad707e3f904e0cf4659331a8d92c6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2cad707e3f904e0cf4659331a8d92c6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-2cad707e3f904e0cf4659331a8d92c6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2cad707e3f904e0cf4659331a8d92c6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2cad707e3f904e0cf4659331a8d92c6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2cad707e3f904e0cf4659331a8d92c6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-2cad707e3f904e0cf4659331a8d92c6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-2cad707e3f904e0cf4659331a8d92c6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2cad707e3f904e0cf4659331a8d92c6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2cad707e3f904e0cf4659331a8d92c6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-2cad707e3f904e0cf4659331a8d92c6c]
+## ANNEX[^c-2cad707e3f904e0cf4659331a8d92c6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2cad707e3f904e0cf4659331a8d92c6c]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/2) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2cad707e3f904e0cf4659331a8d92c6c]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/2) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

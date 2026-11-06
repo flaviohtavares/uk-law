@@ -37,7 +37,7 @@ Made
 
 The Treasury, in exercise of the powers conferred by section 100A of the Customs and Excise Management Act 1979[^f00001], make the following Order.
 
-## 1. Citation and interpretation[^key-d2adeb8462fb40d1682595235929e5d8]
+## 1. Citation and interpretation[^c-d2adeb8462fb40d1682595235929e5d8]
 
 (1) This Order may be cited as the Free Zone (Customs Site No. 2 Freeport East) Designation Order 2026.
 
@@ -50,19 +50,19 @@ The Treasury, in exercise of the powers conferred by section 100A of the Customs
 - (e) “**the Special Procedures Regulations**” means the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^f00003];
 - (f) “**unauthorised activity**” means an activity specified in regulation 3(2)(b)(v) or 3(2)(c) of the Special Procedures Regulations that is not carried out in accordance with an authorisation or approval under those Regulations.
 
-## 2. Period of effect of Order[^key-8255b06d50b443175aa5782b9e0af857]
+## 2. Period of effect of Order[^c-8255b06d50b443175aa5782b9e0af857]
 
 This Order has effect for a period of 10 years beginning with the day after the date on which it is made.
 
-## 3. Designation of area as free zone[^key-6482d649ceae95ad6bc42b553f454df8]
+## 3. Designation of area as free zone[^c-6482d649ceae95ad6bc42b553f454df8]
 
 The area shown edged and hatched in red on the map entitled “Freeport East - Customs site No. 2” dated 17th February 2026[^f00004] is designated as a free zone.
 
-## 4. Appointment of responsible authority[^key-04cc5c42d477a107e85e2c1ad112a287]
+## 4. Appointment of responsible authority[^c-04cc5c42d477a107e85e2c1ad112a287]
 
 The responsible authority for the free zone is Assan Panel UK Limited, incorporated on 16 March 2023 with the Company Number 14735449, whose registered office is C/O Srm, 59 Terrington Hill, Marlow, England, SL7 2RE.
 
-## 5. Conditions imposed on responsible authority[^key-fac137efbc4eee672d9b416211835545]
+## 5. Conditions imposed on responsible authority[^c-fac137efbc4eee672d9b416211835545]
 
 The responsible authority must—
 
@@ -85,7 +85,7 @@ The responsible authority must—
   - (iii) if there is a change in circumstances that is relevant to its appointment as responsible authority;
 - (o) notify HMRC of any planned construction in the free zone.
 
-## 6. Conditions relating to health and safety[^key-1d6b4f5435d395c95287933613cc3cd7]
+## 6. Conditions relating to health and safety[^c-1d6b4f5435d395c95287933613cc3cd7]
 
 Without prejudice to the responsibilities of persons occupying premises within the free zone, the responsible authority must take reasonable steps to ensure that the accommodation, facilities and working conditions within the free zone are safe and without risk to the health and safety of any persons in the free zone.
 
@@ -111,24 +111,24 @@ A Tax Information and Impact Note covering the Free Zones (Customs, Excise and V
 
 [^f00001]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2). Section 100A was inserted by section 8 of, and Part I of Schedule 4 to, the Finance Act [1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43).
 
-[^key-d2adeb8462fb40d1682595235929e5d8]: Commencement: Art. 1 in force at 10.9.2026, see [art. 2](https://www.legislation.gov.uk/uksi/2026/1007/article/2)
+[^c-d2adeb8462fb40d1682595235929e5d8]: Commencement: Art. 1 in force at 10.9.2026, see [art. 2](https://www.legislation.gov.uk/uksi/2026/1007/article/2)
 
 [^f00002]: Footnote: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248); relevant amending instruments are [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449) and [2021/1156](https://www.legislation.gov.uk/uksi/2021/1156).
 
 [^f00003]: Footnote: [S.I. 2018/1249](https://www.legislation.gov.uk/uksi/2018/1249), amended by [S.I. 2021/1156](https://www.legislation.gov.uk/uksi/2021/1156); there are other amending instruments, but none is relevant.
 
-[^key-8255b06d50b443175aa5782b9e0af857]: Commencement: Art. 2 in force at 10.9.2026, see [art. 2](https://www.legislation.gov.uk/uksi/2026/1007/article/2)
+[^c-8255b06d50b443175aa5782b9e0af857]: Commencement: Art. 2 in force at 10.9.2026, see [art. 2](https://www.legislation.gov.uk/uksi/2026/1007/article/2)
 
-[^key-6482d649ceae95ad6bc42b553f454df8]: Commencement: Art. 3 in force at 10.9.2026, see [art. 2](https://www.legislation.gov.uk/uksi/2026/1007/article/2)
+[^c-6482d649ceae95ad6bc42b553f454df8]: Commencement: Art. 3 in force at 10.9.2026, see [art. 2](https://www.legislation.gov.uk/uksi/2026/1007/article/2)
 
 [^f00004]: Footnote: The map marked “Freeport East - Customs site No. 2” and dated 17th February 2026 is available electronically at https://www.gov.uk/government/publications/map-of-freeport-east-customs-site. A person unable to access the document electronically can arrange access to a hard copy by inspection free of charge at 1 Horse Guards Road, London, SW1A 2HQ.
 
-[^key-04cc5c42d477a107e85e2c1ad112a287]: Commencement: Art. 4 in force at 10.9.2026, see [art. 2](https://www.legislation.gov.uk/uksi/2026/1007/article/2)
+[^c-04cc5c42d477a107e85e2c1ad112a287]: Commencement: Art. 4 in force at 10.9.2026, see [art. 2](https://www.legislation.gov.uk/uksi/2026/1007/article/2)
 
-[^key-fac137efbc4eee672d9b416211835545]: Commencement: Art. 5 in force at 10.9.2026, see [art. 2](https://www.legislation.gov.uk/uksi/2026/1007/article/2)
+[^c-fac137efbc4eee672d9b416211835545]: Commencement: Art. 5 in force at 10.9.2026, see [art. 2](https://www.legislation.gov.uk/uksi/2026/1007/article/2)
 
 [^f00005]: Footnote: “The Commissioners” is defined in section 1 of the Customs and Excise Management Act 1979.
 
 [^f00006]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-1d6b4f5435d395c95287933613cc3cd7]: Commencement: Art. 6 in force at 10.9.2026, see [art. 2](https://www.legislation.gov.uk/uksi/2026/1007/article/2)
+[^c-1d6b4f5435d395c95287933613cc3cd7]: Commencement: Art. 6 in force at 10.9.2026, see [art. 2](https://www.legislation.gov.uk/uksi/2026/1007/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Weekly close time for salmon[^key-21493446223e97921af6529d0fe2ef9a]
+## 13. Weekly close time for salmon[^c-21493446223e97921af6529d0fe2ef9a]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21493446223e97921af6529d0fe2ef9a]: Commencement: S. 13 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-21493446223e97921af6529d0fe2ef9a]: Commencement: S. 13 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

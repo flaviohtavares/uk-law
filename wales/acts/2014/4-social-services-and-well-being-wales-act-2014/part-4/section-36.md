@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Power to meet care and support needs of adult[^key-158948b5509c61762e7510d70832abf1]
+## 36. Power to meet care and support needs of adult[^c-158948b5509c61762e7510d70832abf1]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-158948b5509c61762e7510d70832abf1]: Commencement: S. 36 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-158948b5509c61762e7510d70832abf1]: Commencement: S. 36 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

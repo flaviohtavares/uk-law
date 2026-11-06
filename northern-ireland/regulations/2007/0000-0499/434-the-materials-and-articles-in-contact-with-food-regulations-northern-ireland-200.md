@@ -31,7 +31,7 @@ summary: ''
 
 food
 
-The Materials and Articles in Contact with Food Regulations (Northern Ireland) 2007 (revoked)[^key-13212fea2f81c9f1a10a222991cda79d]
+The Materials and Articles in Contact with Food Regulations (Northern Ireland) 2007 (revoked)[^c-13212fea2f81c9f1a10a222991cda79d]
 
 Made
 
@@ -39,124 +39,124 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-[^key-13212fea2f81c9f1a10a222991cda79d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13212fea2f81c9f1a10a222991cda79d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Preliminary[^key-13212fea2f81c9f1a10a222991cda79d]
+## PART 1 — Preliminary[^c-13212fea2f81c9f1a10a222991cda79d]
 
-### 1. Citation and commencement[^key-13212fea2f81c9f1a10a222991cda79d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-13212fea2f81c9f1a10a222991cda79d]
+### 1. Citation and commencement[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Scope[^key-13212fea2f81c9f1a10a222991cda79d]
+### 2. Interpretation[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — General Requirements for Materials and Articles[^key-13212fea2f81c9f1a10a222991cda79d]
-
-### 4. Enforcement of Regulation 1935/2004[^key-13212fea2f81c9f1a10a222991cda79d]
+### 3. Scope[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4A. Enforcement of Regulation 450/2009[^key-13212fea2f81c9f1a10a222991cda79d]
+## PART 2 — General Requirements for Materials and Articles[^c-13212fea2f81c9f1a10a222991cda79d]
+
+### 4. Enforcement of Regulation 1935/2004[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Enforcement of Regulation 2023/2006[^key-13212fea2f81c9f1a10a222991cda79d]
+### 4A. Enforcement of Regulation 450/2009[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Competent authorities for the purposes of Regulation 1935/2004[^key-13212fea2f81c9f1a10a222991cda79d]
+### 5. Enforcement of Regulation 2023/2006[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6A. Competent authorities for the purposes of Regulation 450/2009[^key-13212fea2f81c9f1a10a222991cda79d]
+### 6. Competent authorities for the purposes of Regulation 1935/2004[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Competent authority for the purposes of Regulation 2023/2006[^key-13212fea2f81c9f1a10a222991cda79d]
+### 6A. Competent authorities for the purposes of Regulation 450/2009[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Requirements for Vinyl Chloride[^key-13212fea2f81c9f1a10a222991cda79d]
-
-### 8. Limits and migration limits[^key-13212fea2f81c9f1a10a222991cda79d]
+### 7. Competent authority for the purposes of Regulation 2023/2006[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Methods of Analysis[^key-13212fea2f81c9f1a10a222991cda79d]
+## PART 3 — Requirements for Vinyl Chloride[^c-13212fea2f81c9f1a10a222991cda79d]
+
+### 8. Limits and migration limits[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Requirements for Regenerated Cellulose Film[^key-13212fea2f81c9f1a10a222991cda79d]
-
-### 10. Controls and limits[^key-13212fea2f81c9f1a10a222991cda79d]
+### 9. Methods of Analysis[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Migration limits for regenerated cellulose film coated with plastics[^key-13212fea2f81c9f1a10a222991cda79d]
+## PART 4 — Requirements for Regenerated Cellulose Film[^c-13212fea2f81c9f1a10a222991cda79d]
+
+### 10. Controls and limits[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Saving and transitional provisions and defences[^key-13212fea2f81c9f1a10a222991cda79d]
+### 11. Migration limits for regenerated cellulose film coated with plastics[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — General[^key-13212fea2f81c9f1a10a222991cda79d]
-
-### 13. Offences and penalties[^key-13212fea2f81c9f1a10a222991cda79d]
+### 12. Saving and transitional provisions and defences[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Enforcement[^key-13212fea2f81c9f1a10a222991cda79d]
+## PART 5 — General[^c-13212fea2f81c9f1a10a222991cda79d]
+
+### 13. Offences and penalties[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Offences due to act or default of a third party[^key-13212fea2f81c9f1a10a222991cda79d]
+### 14. Enforcement[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Time limit for prosecutions[^key-13212fea2f81c9f1a10a222991cda79d]
+### 15. Offences due to act or default of a third party[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. General defences[^key-13212fea2f81c9f1a10a222991cda79d]
+### 16. Time limit for prosecutions[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Procedure where a sample is to be analysed[^key-13212fea2f81c9f1a10a222991cda79d]
+### 17. General defences[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Secondary analysis by the Government Chemist[^key-13212fea2f81c9f1a10a222991cda79d]
+### 18. Procedure where a sample is to be analysed[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Application of various provisions of the Order[^key-13212fea2f81c9f1a10a222991cda79d]
+### 19. Secondary analysis by the Government Chemist[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Amendment of the Ceramic Articles in Contact with Food Regulations (Northern Ireland) 2006[^key-13212fea2f81c9f1a10a222991cda79d]
+### 20. Application of various provisions of the Order[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Amendments to the 2006 Regulations[^key-13212fea2f81c9f1a10a222991cda79d]
+### 21. Amendment of the Ceramic Articles in Contact with Food Regulations (Northern Ireland) 2006[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Revocations[^key-13212fea2f81c9f1a10a222991cda79d]
+### 22. Amendments to the 2006 Regulations[^c-13212fea2f81c9f1a10a222991cda79d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-13212fea2f81c9f1a10a222991cda79d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 23. Revocations[^c-13212fea2f81c9f1a10a222991cda79d]
 
-[^key-13212fea2f81c9f1a10a222991cda79d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-13212fea2f81c9f1a10a222991cda79d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-13212fea2f81c9f1a10a222991cda79d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-13212fea2f81c9f1a10a222991cda79d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/434) revoked (20.10.2010) by [The Materials and Articles in Contact with Food Regulations (Northern Ireland) 2010 (revoked) 2010 (S.R. 2010/321)](https://www.legislation.gov.uk/nisr/2010/321), [regs. 1](https://www.legislation.gov.uk/nisr/2010/321/regulation/1), [24(a)](https://www.legislation.gov.uk/nisr/2010/321/regulation/24/a)
+[^c-13212fea2f81c9f1a10a222991cda79d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/434) revoked (20.10.2010) by [The Materials and Articles in Contact with Food Regulations (Northern Ireland) 2010 (revoked) 2010 (S.R. 2010/321)](https://www.legislation.gov.uk/nisr/2010/321), [regs. 1](https://www.legislation.gov.uk/nisr/2010/321/regulation/1), [24(a)](https://www.legislation.gov.uk/nisr/2010/321/regulation/24/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 189. Reduction of benefits where lifetime allowance charge payable[^key-5985f3ae262b950f027de8359cd795ad]
+## 189. Reduction of benefits where lifetime allowance charge payable[^c-5985f3ae262b950f027de8359cd795ad]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5985f3ae262b950f027de8359cd795ad]: Commencement: Reg. 189 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-5985f3ae262b950f027de8359cd795ad]: Commencement: Reg. 189 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00086]: Footnote: Section 216(1) was amended by the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), Schedule 10, paragraphs 31 and 42; the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), Schedule 23, paragraph 30; the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), Schedule 29, paragraphs 1(3) and 5; and the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), Schedule 16, paragraphs 43 and 73(2).

@@ -31,7 +31,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Pollution Prevention and Control Regulations (Northern Ireland) 2003 (revoked)[^key-a6a37e1d24fb11605e6ae90d72dca89c]
+The Pollution Prevention and Control Regulations (Northern Ireland) 2003 (revoked)[^c-a6a37e1d24fb11605e6ae90d72dca89c]
 
 To be laid before Parliament under paragraph 7(3) of the Schedule to the Northern Ireland Act 2000.
 
@@ -43,11 +43,11 @@ Coming into operation
 
 31 March 2003
 
-[^key-a6a37e1d24fb11605e6ae90d72dca89c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a6a37e1d24fb11605e6ae90d72dca89c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — GENERAL[^key-a6a37e1d24fb11605e6ae90d72dca89c]
+### PART 1 — GENERAL[^c-a6a37e1d24fb11605e6ae90d72dca89c]
 
 *Extent: N.I.*
 
@@ -62,7 +62,7 @@ Coming into operation
 - [Section 7 — Discharge and scope of functions](part-1/section-7.md)
 - [Section 8 — Appointment of chief inspector and other inspectors](part-1/section-8.md)
 
-### PART 2 — PERMITS[^key-a6a37e1d24fb11605e6ae90d72dca89c]
+### PART 2 — PERMITS[^c-a6a37e1d24fb11605e6ae90d72dca89c]
 
 *Extent: N.I.*
 
@@ -84,7 +84,7 @@ Coming into operation
 - [Section 21 — Revocation of permits](part-2/section-21.md)
 - [Section 22 — Fees and charges in relation to permits](part-2/section-22.md)
 
-### PART 3 — ENFORCEMENT[^key-a6a37e1d24fb11605e6ae90d72dca89c]
+### PART 3 — ENFORCEMENT[^c-a6a37e1d24fb11605e6ae90d72dca89c]
 
 *Extent: N.I.*
 
@@ -96,7 +96,7 @@ Coming into operation
 - [Section 26 — Power of the enforcing authority to prevent or remedy pollution](part-3/section-26.md)
 - [Section 27 — Powers of inspectors and others](part-3/section-27.md)
 
-### PART 4 — APPEALS[^key-a6a37e1d24fb11605e6ae90d72dca89c]
+### PART 4 — APPEALS[^c-a6a37e1d24fb11605e6ae90d72dca89c]
 
 *Extent: N.I.*
 
@@ -104,7 +104,7 @@ Coming into operation
 
 - [Section 28 — Appeals from decisions with respect to permits](part-4/section-28.md)
 
-### PART 5 — INFORMATION AND PUBLICITY[^key-a6a37e1d24fb11605e6ae90d72dca89c]
+### PART 5 — INFORMATION AND PUBLICITY[^c-a6a37e1d24fb11605e6ae90d72dca89c]
 
 *Extent: N.I.*
 
@@ -115,7 +115,7 @@ Coming into operation
 - [Section 31 — Exclusion from registers of information affecting national security](part-5/section-31.md)
 - [Section 32 — Exclusion from registers of certain confidential information](part-5/section-32.md)
 
-### PART 6 — PROVISION AS TO OFFENCES[^key-a6a37e1d24fb11605e6ae90d72dca89c]
+### PART 6 — PROVISION AS TO OFFENCES[^c-a6a37e1d24fb11605e6ae90d72dca89c]
 
 *Extent: N.I.*
 
@@ -126,7 +126,7 @@ Coming into operation
 - [Section 35 — Admissibility of evidence](part-6/section-35.md)
 - [Section 36 — Power of court to order cause of offence to be remedied](part-6/section-36.md)
 
-### PART 7 — THE DEPARTMENT'S POWERS[^key-a6a37e1d24fb11605e6ae90d72dca89c]
+### PART 7 — THE DEPARTMENT'S POWERS[^c-a6a37e1d24fb11605e6ae90d72dca89c]
 
 *Extent: N.I.*
 
@@ -136,7 +136,7 @@ Coming into operation
 - [Section 38 — Guidance to enforcing authorities](part-7/section-38.md)
 - [Section 39 — Plans relating to emissions](part-7/section-39.md)
 
-### PART 8 — MISCELLANEOUS AND SUPPLEMENTAL PROVISIONS[^key-a6a37e1d24fb11605e6ae90d72dca89c]
+### PART 8 — MISCELLANEOUS AND SUPPLEMENTAL PROVISIONS[^c-a6a37e1d24fb11605e6ae90d72dca89c]
 
 *Extent: N.I.*
 
@@ -161,16 +161,16 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-a6a37e1d24fb11605e6ae90d72dca89c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a6a37e1d24fb11605e6ae90d72dca89c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-a6a37e1d24fb11605e6ae90d72dca89c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a6a37e1d24fb11605e6ae90d72dca89c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a6a37e1d24fb11605e6ae90d72dca89c]: Textual amendment: Regulations revoked (7.1.2014) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 (S.R. 2013/160)](https://www.legislation.gov.uk/nisr/2013/160), [Sch. 17](https://www.legislation.gov.uk/nisr/2013/160/schedule/17) (with [reg. 5](https://www.legislation.gov.uk/nisr/2013/160/regulation/5))
+[^c-a6a37e1d24fb11605e6ae90d72dca89c]: Textual amendment: Regulations revoked (7.1.2014) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 (S.R. 2013/160)](https://www.legislation.gov.uk/nisr/2013/160), [Sch. 17](https://www.legislation.gov.uk/nisr/2013/160/schedule/17) (with [reg. 5](https://www.legislation.gov.uk/nisr/2013/160/regulation/5))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.R. made between 1.11.2005 and its final revocation. A revised version of how the S.R. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

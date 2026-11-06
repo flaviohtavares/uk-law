@@ -34,7 +34,7 @@ Exiting The European Union
 
 Value Added Tax
 
-The Value Added Tax (Input Tax) (Specified Supplies) (EU Exit) Regulations 2019 (revoked)[^key-0149d4b012d17a21446478d0d6dc8b0b]
+The Value Added Tax (Input Tax) (Specified Supplies) (EU Exit) Regulations 2019 (revoked)[^c-0149d4b012d17a21446478d0d6dc8b0b]
 
 Made
 
@@ -46,21 +46,21 @@ Laid before the House of Commons
 
 Coming into force in accordance with regulation 1
 
-[^key-0149d4b012d17a21446478d0d6dc8b0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0149d4b012d17a21446478d0d6dc8b0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and effect[^key-0149d4b012d17a21446478d0d6dc8b0b]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of the Value Added Tax (Input Tax) (Specified Supplies) Order 1999[^key-0149d4b012d17a21446478d0d6dc8b0b]
+## 1. Citation, commencement and effect[^c-0149d4b012d17a21446478d0d6dc8b0b]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-0149d4b012d17a21446478d0d6dc8b0b]
+## 2. Amendment of the Value Added Tax (Input Tax) (Specified Supplies) Order 1999[^c-0149d4b012d17a21446478d0d6dc8b0b]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3.[^c-0149d4b012d17a21446478d0d6dc8b0b]
 
 **Not yet in force.**
 
@@ -68,12 +68,12 @@ Coming into force in accordance with regulation 1
 
 **May not be in force at this date. Check the source.**
 
-[^key-0149d4b012d17a21446478d0d6dc8b0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0149d4b012d17a21446478d0d6dc8b0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0149d4b012d17a21446478d0d6dc8b0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0149d4b012d17a21446478d0d6dc8b0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0149d4b012d17a21446478d0d6dc8b0b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/175) revoked (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [108(a)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/108/a) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-0149d4b012d17a21446478d0d6dc8b0b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/175) revoked (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [108(a)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/108/a) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

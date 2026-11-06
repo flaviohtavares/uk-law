@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Employees of non-Scheme employers: transferee admission bodies[^key-f8d1a406b042ad53a8b08f1f8c0cfdc6]
+## 6. Employees of non-Scheme employers: transferee admission bodies[^c-f8d1a406b042ad53a8b08f1f8c0cfdc6]
 
 *Extent: E+W+S*
 
@@ -68,7 +68,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f8d1a406b042ad53a8b08f1f8c0cfdc6]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-f8d1a406b042ad53a8b08f1f8c0cfdc6]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00007]: Footnote: [1999 c.27](https://www.legislation.gov.uk/ukpga/1999/27).
 

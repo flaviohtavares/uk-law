@@ -46,13 +46,13 @@ The powers are exercisable by the Department for Communities by virtue of Articl
 
 Regulations 5 and 6 are made with the consent of the Department of Finance[^f00011].
 
-## 1. Citation, commencement and interpretation[^key-9a15e14b1a556e11010dc8241e4b3cc0]
+## 1. Citation, commencement and interpretation[^c-9a15e14b1a556e11010dc8241e4b3cc0]
 
 (1) These Regulations may be cited as the Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2023 and come into operation on 9th July 2023.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00012] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-327db17243fb7f7b8a0e9d6f0a0390f5]
+## 2. Amendment of the Income Support (General) Regulations[^c-327db17243fb7f7b8a0e9d6f0a0390f5]
 
 (1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00013] are amended in accordance with paragraphs (2) to (8).
 
@@ -124,7 +124,7 @@ Regulations 5 and 6 are made with the consent of the Department of Finance[^f000
 - (a) in sub-paragraph (1A)[^f00024], after “Windrush payment” insert “, Post Office compensation payment or vaccine damage payment”;
 - (b) in each of sub-paragraphs (2) to (6)[^f00025], for “or a Windrush payment” substitute “, a Windrush payment, a Post Office compensation payment or a vaccine damage payment”.
 
-## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-4453c081effe6cf2c67415e683ee660a]
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^c-4453c081effe6cf2c67415e683ee660a]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00026] are amended in accordance with paragraphs (2) to (8).
 
@@ -194,7 +194,7 @@ Regulations 5 and 6 are made with the consent of the Department of Finance[^f000
 - (a) in sub-paragraph (1A)[^f00037] after “Windrush payment” insert “, Post Office compensation payment or vaccine damage payment”;
 - (b) in each of sub-paragraphs (2) to (6)[^f00038], for “or a Windrush payment” substitute “, a Windrush payment, a Post Office compensation payment or a vaccine damage payment”.
 
-## 4. Amendment of the State Pension Credit Regulations[^key-ed6c48d004c719be4cfc0f0290870038]
+## 4. Amendment of the State Pension Credit Regulations[^c-ed6c48d004c719be4cfc0f0290870038]
 
 (1) The State Pension Credit Regulations (Northern Ireland) 2003[^f00039] are amended in accordance with paragraphs (2) to (4).
 
@@ -237,7 +237,7 @@ Regulations 5 and 6 are made with the consent of the Department of Finance[^f000
 - (a) in sub-paragraph (1A)[^f00045], after “Windrush payment” insert “, Post Office compensation payment or vaccine damage payment”;
 - (b) in each of sub-paragraphs (2) to (6)[^f00046], for “or a Windrush payment” substitute “, a Windrush payment, a Post Office compensation payment or a vaccine damage payment”.
 
-## 5. Amendment of the Housing Benefit Regulations[^key-b1d2d6c33ee8f1ce13d1d6b4af42d211]
+## 5. Amendment of the Housing Benefit Regulations[^c-b1d2d6c33ee8f1ce13d1d6b4af42d211]
 
 (1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00047] are amended in accordance with paragraphs (2) to (8).
 
@@ -304,7 +304,7 @@ Regulations 5 and 6 are made with the consent of the Department of Finance[^f000
 - (a) in sub-paragraph (1A)[^f00057], after “Windrush payment” insert “, a Post Office compensation payment or vaccine damage payment”;
 - (b) in each of sub-paragraphs (2) to (6)[^f00058], for “or a Windrush payment” substitute “, a Windrush payment, a Post Office compensation payment or a vaccine damage payment”.
 
-## 6. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-a92a01a5d689a81581e926e9ef041bd8]
+## 6. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-a92a01a5d689a81581e926e9ef041bd8]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00059] are amended in accordance with paragraphs (2) to (4).
 
@@ -347,7 +347,7 @@ Regulations 5 and 6 are made with the consent of the Department of Finance[^f000
 - (a) in sub-paragraph (1A)[^f00064], after “Windrush payment” insert “, Post Office compensation payment or vaccine damage payment”;
 - (b) in each of sub-paragraphs (2) to (6)[^f00065], for “or a Windrush payment” substitute “, a Windrush payment, a Post Office compensation payment or a vaccine damage payment”.
 
-## 7. Amendment of the Employment and Support Allowance Regulations[^key-74fe53c325cb08f2421de57c55e91811]
+## 7. Amendment of the Employment and Support Allowance Regulations[^c-74fe53c325cb08f2421de57c55e91811]
 
 (1) The Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00066] are amended in accordance with paragraphs (2) to (8).
 
@@ -415,7 +415,7 @@ Regulations 5 and 6 are made with the consent of the Department of Finance[^f000
 - (a) in sub-paragraph (1A)[^f00077], after “Windrush payment” insert “, Post Office compensation payment or vaccine damage payment”;
 - (b) in each of sub-paragraphs (2) to (5)[^f00078], for “or a Windrush payment” substitute “, a Windrush payment, a Post Office compensation payment or a vaccine damage payment”.
 
-## 8. Amendment of the Universal Credit Regulations[^key-a3395bbce0da53cd15f1fcdf83a74ba2]
+## 8. Amendment of the Universal Credit Regulations[^c-a3395bbce0da53cd15f1fcdf83a74ba2]
 
 (1) The Universal Credit Regulations (Northern Ireland) 2016[^f00079] are amended in accordance with paragraph (2).
 
@@ -453,7 +453,7 @@ Regulations 5 and 6 are made with the consent of the Department of Finance[^f000
 
   .
 
-## 9. Amendment of the Social Security (Recovery of Benefits) Regulations[^key-5176d60f198b4a29459e3bbef600706c]
+## 9. Amendment of the Social Security (Recovery of Benefits) Regulations[^c-5176d60f198b4a29459e3bbef600706c]
 
 (1) The Social Security (Recovery of Benefits) Regulations (Northern Ireland) 1997[^f00082] are amended in accordance with paragraphs (2) and (3).
 
@@ -475,7 +475,7 @@ Regulations 5 and 6 are made with the consent of the Department of Finance[^f000
 
 .
 
-## 10. Amendment of the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations[^key-f3d1365af310f7cb95c7e793bbe41075]
+## 10. Amendment of the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations[^c-f3d1365af310f7cb95c7e793bbe41075]
 
 (1) The Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations (Northern Ireland) 2008[^f00084] are amended in accordance with paragraphs (2) and (3).
 
@@ -559,11 +559,11 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00011]: Footnote: See section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8))](https://www.legislation.gov.uk/nisi/1993/1579); see also Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(4) of the Departments Act (Northern Ireland) [2016 (c.5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-9a15e14b1a556e11010dc8241e4b3cc0]: Commencement: Reg. 1 in operation at 9.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1)
+[^c-9a15e14b1a556e11010dc8241e4b3cc0]: Commencement: Reg. 1 in operation at 9.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1)
 
 [^f00012]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-327db17243fb7f7b8a0e9d6f0a0390f5]: Commencement: Reg. 2 in operation at 9.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1)
+[^c-327db17243fb7f7b8a0e9d6f0a0390f5]: Commencement: Reg. 2 in operation at 9.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1)
 
 [^f00013]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); amending Rules are [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201), [S.R. 2000 No. 241](https://www.legislation.gov.uk/nisr/2000/241), [S.R. 2004 No. 213](https://www.legislation.gov.uk/nisr/2004/213), S.R. 2005 Nos. [536](https://www.legislation.gov.uk/nisr/2005/536) and [550](https://www.legislation.gov.uk/nisr/2005/550), [S.R. 2008 No. 428](https://www.legislation.gov.uk/nisr/2008/428), [S.R. 2010 No. 69](https://www.legislation.gov.uk/nisr/2010/69), [S.R. 2011 No. 357](https://www.legislation.gov.uk/nisr/2011/357), S.R. 2017 Nos. [205](https://www.legislation.gov.uk/nisr/2017/205) and [219](https://www.legislation.gov.uk/nisr/2017/219), [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108) and [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345)
 
@@ -591,7 +591,7 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00025]: Footnote: Sub-paragraphs (2) to (6) were amended by regulation 2(8)(a)(ii) of [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345). Sub-paragraphs (2) to (5) were also amended by regulation 5(8)(a)(ii) to (v) of [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201), Article 2(3) and paragraph 12(9)(b) of Schedule 3 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536), regulation 2(7)(f) of [S.R. 2010 No. 69](https://www.legislation.gov.uk/nisr/2010/69) and regulation 2(12)(a)(iii) of [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108). Sub-paragraphs (4) and (5) were also amended by regulation 3(5) of [S.R. 2000 No. 241](https://www.legislation.gov.uk/nisr/2000/241) and sub-paragraph (6) was amended by regulation 2(12)(a)(iv) of [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108)
 
-[^key-4453c081effe6cf2c67415e683ee660a]: Commencement: Reg. 3 in operation at 9.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1)
+[^c-4453c081effe6cf2c67415e683ee660a]: Commencement: Reg. 3 in operation at 9.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1)
 
 [^f00026]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Rules are [S.R. 2004 No. 213](https://www.legislation.gov.uk/nisr/2004/213), S.R. 2005 Nos. [536](https://www.legislation.gov.uk/nisr/2005/536) and [550](https://www.legislation.gov.uk/nisr/2005/550), [S.R. 2010 No. 69](https://www.legislation.gov.uk/nisr/2010/69), [S.R. 2011 No. 357](https://www.legislation.gov.uk/nisr/2011/357), S.R. 2017 Nos. [205](https://www.legislation.gov.uk/nisr/2017/205) and [219](https://www.legislation.gov.uk/nisr/2017/219), [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108) and [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345)
 
@@ -619,7 +619,7 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00038]: Footnote: Sub-paragraphs (2) to (6) were amended by regulation 3(8)(a)(ii) of [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345). Sub-paragraphs (2) to (5) were amended by Article 2(3) and paragraph 23(13)(c) of Schedule 3 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536), regulation 4(8)(f) of [S.R. 2010 No. 69](https://www.legislation.gov.uk/nisr/2010/69) and regulation 3(12)(a)(iii) of [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108). Sub-paragraph (6) was amended by regulation 3(12)(a)(iv) of [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108)
 
-[^key-ed6c48d004c719be4cfc0f0290870038]: Commencement: Reg. 4 in operation at 9.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1)
+[^c-ed6c48d004c719be4cfc0f0290870038]: Commencement: Reg. 4 in operation at 9.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1)
 
 [^f00039]: Footnote: S.R. [2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); relevant amending Rules are [S.R. 2004 No. 213](https://www.legislation.gov.uk/nisr/2004/213), S.R. 2005 Nos. [536](https://www.legislation.gov.uk/nisr/2005/536) and [550](https://www.legislation.gov.uk/nisr/2005/550), [S.R. 2010 No. 69](https://www.legislation.gov.uk/nisr/2010/69), [S.R. 2011 No. 357](https://www.legislation.gov.uk/nisr/2011/357), S.R. 2017 Nos. [205](https://www.legislation.gov.uk/nisr/2017/205) and [219](https://www.legislation.gov.uk/nisr/2017/219), [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108) and [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345)
 
@@ -637,7 +637,7 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00046]: Footnote: Sub-paragraphs (2) to (6) were amended by regulation 4(4)(b) of [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345). Sub-paragraphs (2) to (5) were also amended by Article 2(3) and paragraph 30(5)(e) of Schedule 3 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536), regulation 6(7) of [S.R. 2010 No. 69](https://www.legislation.gov.uk/nisr/2010/69) and regulation 4(4)(a)(iii) of [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108). Sub-paragraph (6) was amended by regulation 4(4)(a)(iv) of [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108)
 
-[^key-b1d2d6c33ee8f1ce13d1d6b4af42d211]: Commencement: Reg. 5 in operation at 9.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1)
+[^c-b1d2d6c33ee8f1ce13d1d6b4af42d211]: Commencement: Reg. 5 in operation at 9.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1)
 
 [^f00047]: Footnote: S.R. [2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405); relevant amending regulations are [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108) and [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345)
 
@@ -663,7 +663,7 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00058]: Footnote: Sub-paragraphs (2) to (6) were amended by regulation 5(12)(b)(iii) and (iv) of [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108) and amended by regulation 5(8)(a)(ii) of [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345)
 
-[^key-a92a01a5d689a81581e926e9ef041bd8]: Commencement: Reg. 6 in operation at 9.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1)
+[^c-a92a01a5d689a81581e926e9ef041bd8]: Commencement: Reg. 6 in operation at 9.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1)
 
 [^f00059]: Footnote: S.R. [2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406); relevant amending regulations are [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108) and [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345)
 
@@ -679,7 +679,7 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00065]: Footnote: Sub-paragraphs (2) to (6) were amended by regulation 6(4)(a)(iii) and (iv) of [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108) and regulation 6(4)(b) of [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345)
 
-[^key-74fe53c325cb08f2421de57c55e91811]: Commencement: Reg. 7 in operation at 9.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1)
+[^c-74fe53c325cb08f2421de57c55e91811]: Commencement: Reg. 7 in operation at 9.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1)
 
 [^f00066]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280); relevant amending regulation is [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108) and [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345)
 
@@ -707,7 +707,7 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00078]: Footnote: Sub-paragraphs (2) to (5) were amended by regulation 7(8)(a)(ii) of [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345)
 
-[^key-a3395bbce0da53cd15f1fcdf83a74ba2]: Commencement: Reg. 8 in operation at 9.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1)
+[^c-a3395bbce0da53cd15f1fcdf83a74ba2]: Commencement: Reg. 8 in operation at 9.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1)
 
 [^f00079]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216). Relevant amendments made by [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108) and [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345)
 
@@ -715,13 +715,13 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00081]: Footnote: \[2019\] EWHC 606 (QB)
 
-[^key-5176d60f198b4a29459e3bbef600706c]: Commencement: Reg. 9 in operation at 9.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1)
+[^c-5176d60f198b4a29459e3bbef600706c]: Commencement: Reg. 9 in operation at 9.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1)
 
 [^f00082]: Footnote: [S.R. 1997 No. 429](https://www.legislation.gov.uk/nisr/1997/429)
 
 [^f00083]: Footnote: \[2019\] EWHC 606 (QB)
 
-[^key-f3d1365af310f7cb95c7e793bbe41075]: Commencement: Reg. 10 in operation at 9.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1)
+[^c-f3d1365af310f7cb95c7e793bbe41075]: Commencement: Reg. 10 in operation at 9.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1)
 
 [^f00084]: Footnote: [S.R. 2008 No. 355](https://www.legislation.gov.uk/nisr/2008/355)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9B. Further education institutions: good governance[^key-6b29c90fbad2ca7aa5b4e92cb6be0634]
+## 9B. Further education institutions: good governance[^c-6b29c90fbad2ca7aa5b4e92cb6be0634]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b29c90fbad2ca7aa5b4e92cb6be0634]: Textual amendment: S. 9B inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 14](https://www.legislation.gov.uk/asp/2013/12/section/14), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2014/21/article/3/2))
+[^c-6b29c90fbad2ca7aa5b4e92cb6be0634]: Textual amendment: S. 9B inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 14](https://www.legislation.gov.uk/asp/2013/12/section/14), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2014/21/article/3/2))

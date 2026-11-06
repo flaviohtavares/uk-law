@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 150. HMO amenity notices: further provision[^key-edc6afae63cd403a042cdec651542ade]
+## 150. HMO amenity notices: further provision[^c-edc6afae63cd403a042cdec651542ade]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 5 makes further provision about HMO amenity notices.
 
 ## Annotations
 
-[^key-edc6afae63cd403a042cdec651542ade]: Commencement: [S. 150](https://www.legislation.gov.uk/asp/2006/1/section/150) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-edc6afae63cd403a042cdec651542ade]: Commencement: [S. 150](https://www.legislation.gov.uk/asp/2006/1/section/150) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

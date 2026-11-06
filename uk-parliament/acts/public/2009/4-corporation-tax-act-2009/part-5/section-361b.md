@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 361B. The debt-for-debt exception[^key-c85cfb40ae3afe91b587fb97c925174f]
+## 361B. The debt-for-debt exception[^c-c85cfb40ae3afe91b587fb97c925174f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c85cfb40ae3afe91b587fb97c925174f]: Textual amendment: Ss. 361A, 361B omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 36](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/36)
+[^c-c85cfb40ae3afe91b587fb97c925174f]: Textual amendment: Ss. 361A, 361B omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 36](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/36)

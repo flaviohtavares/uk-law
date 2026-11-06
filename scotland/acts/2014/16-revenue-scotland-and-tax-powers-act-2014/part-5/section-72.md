@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. General anti-avoidance rule: commencement and transitional provision[^key-896c9a6bc54be4e93d423b2d73ab7142]
+## 72. General anti-avoidance rule: commencement and transitional provision[^c-896c9a6bc54be4e93d423b2d73ab7142]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-896c9a6bc54be4e93d423b2d73ab7142]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2014/16/section/72) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-896c9a6bc54be4e93d423b2d73ab7142]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2014/16/section/72) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

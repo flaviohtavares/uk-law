@@ -65,7 +65,7 @@ An Act to make new provision for the government of Northern Ireland.
 
 #### 10. Attorney General for Northern Ireland.
 
-(1)[^key-df081de401a63e1593c816c0f5c72bf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-df081de401a63e1593c816c0f5c72bf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2)[^c7768171] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -151,14 +151,14 @@ An Act to make new provision for the government of Northern Ireland.
 
 ### 35. Crown Solicitor for Northern Ireland.
 
-(1) As from the appointed day there shall be a Crown Solicitor for Northern Ireland appointed by the Advocate General for Northern Ireland after consultation with the Attorney General for Northern Ireland[^key-4297d89406ba856661b2746722150c98] .
+(1) As from the appointed day there shall be a Crown Solicitor for Northern Ireland appointed by the Advocate General for Northern Ireland after consultation with the Attorney General for Northern Ireland[^c-4297d89406ba856661b2746722150c98] .
 
 (1A)[^c7769431] A person is not qualified for appointment as Crown Solicitor unless he is—
 
 - (a) a member of the Bar of Northern Ireland of at least ten years’standing; or
 - (b) a solicitor of the Court of Judicature[^c20289131] of at least ten years’ standing.
 
-(2) The Crown Solicitor shall hold office on such terms and conditions as may be determined by the Advocate General for Northern Ireland[^key-dbaa9fa16015996cdcd157d76530a557] .
+(2) The Crown Solicitor shall hold office on such terms and conditions as may be determined by the Advocate General for Northern Ireland[^c-dbaa9fa16015996cdcd157d76530a557] .
 
 (3)[^c7769451] The Crown Solicitor—
 
@@ -171,8 +171,8 @@ An Act to make new provision for the government of Northern Ireland.
 
 (1) Any appointment on or after the appointed day to the office of—
 
-- (a)[^key-e789d8aa9e46169ba1f49655051c66d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-e789d8aa9e46169ba1f49655051c66d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e789d8aa9e46169ba1f49655051c66d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e789d8aa9e46169ba1f49655051c66d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) Civil Service Commissioner for Northern Ireland;
 - (d)[^c7769521] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -650,7 +650,7 @@ Section 41.
 
 [^c7768151]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1973/36/section/9) repealed (2.12.1999) by [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47), [s. 100(2)](https://www.legislation.gov.uk/ukpga/1998/47/section/100/2), [Sch. 15](https://www.legislation.gov.uk/ukpga/1998/47/schedule/15); [S.I. 1999/3209](https://www.legislation.gov.uk/uksi/1999/3209), [art. 2](https://www.legislation.gov.uk/uksi/1999/3209/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/3209/schedule)
 
-[^key-df081de401a63e1593c816c0f5c72bf5]: Textual amendment: [S. 10(1)](https://www.legislation.gov.uk/ukpga/1973/36/section/10/1) repealed (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 21(e)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/21/e)
+[^c-df081de401a63e1593c816c0f5c72bf5]: Textual amendment: [S. 10(1)](https://www.legislation.gov.uk/ukpga/1973/36/section/10/1) repealed (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 21(e)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/21/e)
 
 [^c7768171]: Textual amendment: S. 10(2)(3) repealed (30.9.1997) by [1997 c. 60](https://www.legislation.gov.uk/ukpga/1997/60), [s. 3(2)](https://www.legislation.gov.uk/ukpga/1997/60/section/3/2), [Sch.](https://www.legislation.gov.uk/ukpga/1997/60/schedule)
 
@@ -712,17 +712,17 @@ Section 41.
 
 [^c20289251]: Textual amendment: [S. 34](https://www.legislation.gov.uk/ukpga/1973/36/section/34) repealed (13.6.2005) by [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 86](https://www.legislation.gov.uk/ukpga/2002/26/section/86), [87](https://www.legislation.gov.uk/ukpga/2002/26/section/87), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2005/281](https://www.legislation.gov.uk/nisr/2005/281), [art. 2](https://www.legislation.gov.uk/nisr/2005/281/article/2), [Sch. 1 para. 14(b)](https://www.legislation.gov.uk/nisr/2005/281/schedule/1/paragraph/14/b)
 
-[^key-4297d89406ba856661b2746722150c98]: Textual amendment: Words in [s. 35(1)](https://www.legislation.gov.uk/ukpga/1973/36/section/35/1) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 14(2)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/14/2); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(c)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/c)
+[^c-4297d89406ba856661b2746722150c98]: Textual amendment: Words in [s. 35(1)](https://www.legislation.gov.uk/ukpga/1973/36/section/35/1) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 14(2)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/14/2); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(c)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/c)
 
 [^c7769431]: Textual amendment: S. 35(1A) inserted (3.4.2006) by [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 18(10)](https://www.legislation.gov.uk/ukpga/2002/26/section/18/10), [87](https://www.legislation.gov.uk/ukpga/2002/26/section/87); [S.R. 2006/124](https://www.legislation.gov.uk/nisr/2006/124), [art. 2](https://www.legislation.gov.uk/nisr/2006/124/article/2) Sch. para. 6
 
 [^c20289131]: Textual amendment: Words in s. 35(1A)(b) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1609](https://www.legislation.gov.uk/uksi/2009/1609), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1609/article/2/d)
 
-[^key-dbaa9fa16015996cdcd157d76530a557]: Textual amendment: Words in [s. 35(2)](https://www.legislation.gov.uk/ukpga/1973/36/section/35/2) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 14(3)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/14/3); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(c)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/c)
+[^c-dbaa9fa16015996cdcd157d76530a557]: Textual amendment: Words in [s. 35(2)](https://www.legislation.gov.uk/ukpga/1973/36/section/35/2) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 14(3)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/14/3); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(c)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/c)
 
 [^c7769451]: Textual amendment: S. 35(3) substituted (3.4.2006) by [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 20](https://www.legislation.gov.uk/ukpga/2002/26/section/20), [87](https://www.legislation.gov.uk/ukpga/2002/26/section/87); [S.R. 2006/124](https://www.legislation.gov.uk/nisr/2006/124), [art. 2](https://www.legislation.gov.uk/nisr/2006/124/article/2) Sch. para. 7
 
-[^key-e789d8aa9e46169ba1f49655051c66d1]: Textual amendment: S. 36(1)(a)(b) repealed (N.I.) (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
+[^c-e789d8aa9e46169ba1f49655051c66d1]: Textual amendment: S. 36(1)(a)(b) repealed (N.I.) (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
 
 [^c7769521]: Textual amendment: S. 36(1)(d) repealed (2.12.1999) by [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47), [s. 100(1)](https://www.legislation.gov.uk/ukpga/1998/47/section/100/1), [Sch. 15](https://www.legislation.gov.uk/ukpga/1998/47/schedule/15); [S.I. 1999/3209](https://www.legislation.gov.uk/uksi/1999/3209), [art. 2](https://www.legislation.gov.uk/uksi/1999/3209/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/3209/schedule)
 

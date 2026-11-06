@@ -34,7 +34,7 @@ Exiting The European Union
 
 Aquaculture
 
-The Aquatic Animal Health and Alien Species in Aquaculture (EU Exit) (Scotland) (Amendment) Regulations 2019 (revoked)[^key-dbbaa4b35473be019b05d9cefd1a392b]
+The Aquatic Animal Health and Alien Species in Aquaculture (EU Exit) (Scotland) (Amendment) Regulations 2019 (revoked)[^c-dbbaa4b35473be019b05d9cefd1a392b]
 
 Made
 
@@ -46,62 +46,62 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-dbbaa4b35473be019b05d9cefd1a392b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbbaa4b35473be019b05d9cefd1a392b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-dbbaa4b35473be019b05d9cefd1a392b]
+## 1. Citation and commencement[^c-dbbaa4b35473be019b05d9cefd1a392b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Aquatic Animal Health (Scotland) Regulations 2009[^key-dbbaa4b35473be019b05d9cefd1a392b]
+## 2. Amendment of the Aquatic Animal Health (Scotland) Regulations 2009[^c-dbbaa4b35473be019b05d9cefd1a392b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Alien and Locally Absent Species in Aquaculture (Scotland) Regulations 2015[^key-dbbaa4b35473be019b05d9cefd1a392b]
+## 3. Amendment of the Alien and Locally Absent Species in Aquaculture (Scotland) Regulations 2015[^c-dbbaa4b35473be019b05d9cefd1a392b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dbbaa4b35473be019b05d9cefd1a392b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbbaa4b35473be019b05d9cefd1a392b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-dbbaa4b35473be019b05d9cefd1a392b]
+## SCHEDULE[^c-dbbaa4b35473be019b05d9cefd1a392b]
 
 Regulation 2(9)
 
-> **SCHEDULE 1E — Modifications to, and for the purposes of, Articles 29 and 57 of Directive [2006/88/EC](https://www.legislation.gov.uk/eudr/2006/88)[^key-dbbaa4b35473be019b05d9cefd1a392b]**
+> **SCHEDULE 1E — Modifications to, and for the purposes of, Articles 29 and 57 of Directive [2006/88/EC](https://www.legislation.gov.uk/eudr/2006/88)[^c-dbbaa4b35473be019b05d9cefd1a392b]**
 >
 > Regulation 24(4)
 >
-> **Part 1 — Modifications to Articles 29 and 57[^key-dbbaa4b35473be019b05d9cefd1a392b]**
+> **Part 1 — Modifications to Articles 29 and 57[^c-dbbaa4b35473be019b05d9cefd1a392b]**
 >
-> **1. Modifications to Article 29[^key-dbbaa4b35473be019b05d9cefd1a392b]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **2. Modifications to Article 57[^key-dbbaa4b35473be019b05d9cefd1a392b]**
+> **1. Modifications to Article 29[^c-dbbaa4b35473be019b05d9cefd1a392b]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Part 2 — Modifications to other Provisions[^key-dbbaa4b35473be019b05d9cefd1a392b]**
->
-> **3. Modifications to Article 26[^key-dbbaa4b35473be019b05d9cefd1a392b]**
+> **2. Modifications to Article 57[^c-dbbaa4b35473be019b05d9cefd1a392b]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4. Modifications to Article 28[^key-dbbaa4b35473be019b05d9cefd1a392b]**
+> **Part 2 — Modifications to other Provisions[^c-dbbaa4b35473be019b05d9cefd1a392b]**
+>
+> **3. Modifications to Article 26[^c-dbbaa4b35473be019b05d9cefd1a392b]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5. Modifications to Part III of Annex VI[^key-dbbaa4b35473be019b05d9cefd1a392b]**
+> **4. Modifications to Article 28[^c-dbbaa4b35473be019b05d9cefd1a392b]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **5. Modifications to Part III of Annex VI[^c-dbbaa4b35473be019b05d9cefd1a392b]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-dbbaa4b35473be019b05d9cefd1a392b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbbaa4b35473be019b05d9cefd1a392b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dbbaa4b35473be019b05d9cefd1a392b]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Aquaculture and Fisheries (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/393)](https://www.legislation.gov.uk/ssi/2020/393), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/393/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2020/393/regulation/6)
+[^c-dbbaa4b35473be019b05d9cefd1a392b]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Aquaculture and Fisheries (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/393)](https://www.legislation.gov.uk/ssi/2020/393), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/393/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2020/393/regulation/6)

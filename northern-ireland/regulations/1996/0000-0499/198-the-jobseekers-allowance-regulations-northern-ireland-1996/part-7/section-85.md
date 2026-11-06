@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85. Special cases[^key-6f6086f5c27340bee0f3859c7f53182c]
+## 85. Special cases[^c-6f6086f5c27340bee0f3859c7f53182c]
 
 *Extent: N.I.*
 
@@ -65,7 +65,7 @@ that person shall continue to be treated as being in residential accommodation w
 
 ## Annotations
 
-[^key-6f6086f5c27340bee0f3859c7f53182c]: Commencement: Reg. 85 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-6f6086f5c27340bee0f3859c7f53182c]: Commencement: Reg. 85 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00073]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77), as amended by the British Nationality Act [1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61), section 39 and Schedule 4
 

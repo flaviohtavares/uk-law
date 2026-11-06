@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Operator removal notices[^key-ad21199b9455ac9b69539b42cb80c5e3]
+## 119. Operator removal notices[^c-ad21199b9455ac9b69539b42cb80c5e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad21199b9455ac9b69539b42cb80c5e3]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2023/52/section/119) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-ad21199b9455ac9b69539b42cb80c5e3]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2023/52/section/119) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

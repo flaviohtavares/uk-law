@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Meaning of “annualised final pay”[^key-7238b251b7cd1a6d3489bbe2030df635]
+## 120. Meaning of “annualised final pay”[^c-7238b251b7cd1a6d3489bbe2030df635]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,10 +31,10 @@ where—
 
 (2) If the continuous period of pensionable service includes the day 29th February, paragraph (1) has effect with the substitution for “365” of “366”.
 
-(3)[^key-78e607a6da72ee5232f0fd4572d73b0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-78e607a6da72ee5232f0fd4572d73b0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7238b251b7cd1a6d3489bbe2030df635]: Commencement: [Reg. 120](https://www.legislation.gov.uk/uksi/2015/182/regulation/120) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-7238b251b7cd1a6d3489bbe2030df635]: Commencement: [Reg. 120](https://www.legislation.gov.uk/uksi/2015/182/regulation/120) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
 
-[^key-78e607a6da72ee5232f0fd4572d73b0a]: Textual amendment: [Reg. 120(3)](https://www.legislation.gov.uk/uksi/2015/182/regulation/120/3) omitted (1.4.2017) by virtue of [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2017/508/regulation/12)
+[^c-78e607a6da72ee5232f0fd4572d73b0a]: Textual amendment: [Reg. 120(3)](https://www.legislation.gov.uk/uksi/2015/182/regulation/120/3) omitted (1.4.2017) by virtue of [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2017/508/regulation/12)

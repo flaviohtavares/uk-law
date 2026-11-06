@@ -60,8 +60,8 @@ These Regulations may be cited as the Control of Trade in Endangered Species Reg
 
 - “**acquired**” means, in relation to a specimen, taken from the wild or the point at which it was born in captivity or artificially propagated;
 - “**acquired unlawfully**” means acquired contrary to the provisions of the Principal Regulation or the Subsidiary Regulation and “**acquired lawfully**” is to be construed accordingly;
-- “**import**” means introduce in accordance with the Principal Regulation[^key-e6e24784ffefe46979ab7e81df90ab68];
-- “**imported unlawfully**” means introduced [^key-2a9e566de44a5205abe2a581ae364656]... contrary to the provisions of the Principal Regulation or the Subsidiary Regulation;
+- “**import**” means introduce in accordance with the Principal Regulation[^c-e6e24784ffefe46979ab7e81df90ab68];
+- “**imported unlawfully**” means introduced [^c-2a9e566de44a5205abe2a581ae364656]... contrary to the provisions of the Principal Regulation or the Subsidiary Regulation;
 - “**premises**” includes any place, plant, machinery, equipment, apparatus, vehicle, vessel, aircraft, hovercraft, tent, temporary or movable building or structure;
 - “**Principal Regulation**” means Council Regulation [(EC) No 338/97](https://www.legislation.gov.uk/european/regulation/1997/0338) on the protection of species of wild fauna and flora by regulating trade therein;
 - “**Subsidiary Regulation**” means Commission Regulation [(EC) No 865/2006](https://www.legislation.gov.uk/european/regulation/2006/0865) laying down detailed rules concerning the implementation of the Principal Regulation.
@@ -245,7 +245,7 @@ The court which convicts a person of an offence under these Regulations may orde
 
 ## 13. Ports of entry and exit
 
-For the purposes of the Principal Regulation and the Subsidiary Regulation, the Secretary of State may , in relation to Northern Ireland,[^key-a83733ffefa4bf47eeccee17f195b320] designate customs offices for carrying out the checks and formalities for the introduction and export[^key-6710012db4b14365d12a111cc0a6afa4] of specimens.
+For the purposes of the Principal Regulation and the Subsidiary Regulation, the Secretary of State may , in relation to Northern Ireland,[^c-a83733ffefa4bf47eeccee17f195b320] designate customs offices for carrying out the checks and formalities for the introduction and export[^c-6710012db4b14365d12a111cc0a6afa4] of specimens.
 
 ## 14. Revocations
 
@@ -312,7 +312,7 @@ The penalty for the offences described in the following table is as follows—
 
   | *Column 1**Provision of the Principal Regulation or these Regulations* | *Column 2**Subject matter* |
   | --- | --- |
-  | Article 9 of the Principal Regulation | Without reasonable excuse, causing any movement [^key-1c3693d87a466318257a8034d33993b5]... of a live specimen of a species listed in Annex A from the location indicated in the import permit or in any certificate issued in compliance with the Principal Regulation, contrary to the provisions of Article 9 of the Principal Regulation, or the provisions of the Subsidiary Regulation |
+  | Article 9 of the Principal Regulation | Without reasonable excuse, causing any movement [^c-1c3693d87a466318257a8034d33993b5]... of a live specimen of a species listed in Annex A from the location indicated in the import permit or in any certificate issued in compliance with the Principal Regulation, contrary to the provisions of Article 9 of the Principal Regulation, or the provisions of the Subsidiary Regulation |
   | Article 16(1)(b) of the Principal Regulation | Knowingly contravening the stipulations specified on a permit or certificate issued in accordance with the Principal Regulation or the Subsidiary Regulation |
   | Article 16(1)(c) of the Principal Regulation | Knowingly or recklessly making a false declaration or providing false information in order to obtain a permit or certificate |
   | Article 16(1)(d) of the Principal Regulation | Knowingly or recklessly using a false or invalid permit or certificate or one altered without authorisation as a basis for obtaining a permit or certificate or for any other official purpose in connection with the Principal Regulation or the Subsidiary Regulation |
@@ -342,7 +342,7 @@ In this Schedule—
 - “**final notice**” has the meaning given in paragraph 7(2);
 - “**non-compliance penalty**” has the meaning given in paragraph 23(1);
 - “**notice of intent**” has the meaning given in paragraph 4(1);
-- “[^key-0973678443cd970c5e9da4670724683f]**relevant regulation**” means—
+- “[^c-0973678443cd970c5e9da4670724683f]**relevant regulation**” means—
   - (a) regulation 6 of these Regulations;
   - (b) Article 16(1)(a), (c), (g), (j), (k) and (l) of the Principal Regulation;
   - (c) Article 64(2) of the Subsidiary Regulation;
@@ -723,9 +723,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23008031]: Marginal citation: OJ No L 166, 19.6.2006, p 1, as last amended by Commission Regulation (EU) 2015/870 (OJ No L 142, 6.6.2015, p 3).
 
-[^key-e6e24784ffefe46979ab7e81df90ab68]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/703/regulation/2/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/3/2/a)
+[^c-e6e24784ffefe46979ab7e81df90ab68]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/703/regulation/2/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/3/2/a)
 
-[^key-2a9e566de44a5205abe2a581ae364656]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/703/regulation/2/1) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/3/2/b)
+[^c-2a9e566de44a5205abe2a581ae364656]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/703/regulation/2/1) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/3/2/b)
 
 [^c23008041]: Marginal citation: [1979 c.2](https://www.legislation.gov.uk/ukpga/1979/2).
 
@@ -733,9 +733,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23008061]: Marginal citation: [1966 c.36](https://www.legislation.gov.uk/ukpga/1966/36); [section 2](https://www.legislation.gov.uk/uksi/2018/703/section/2) was amended by [S.I. 2003/2919](https://www.legislation.gov.uk/uksi/2003/2919), 2008/1824.
 
-[^key-a83733ffefa4bf47eeccee17f195b320]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2018/703/regulation/13) inserted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/3/3/a)
+[^c-a83733ffefa4bf47eeccee17f195b320]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2018/703/regulation/13) inserted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/3/3/a)
 
-[^key-6710012db4b14365d12a111cc0a6afa4]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2018/703/regulation/13) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/3/3/b)
+[^c-6710012db4b14365d12a111cc0a6afa4]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2018/703/regulation/13) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/3/3/b)
 
 [^c23008071]: Marginal citation: [S.I. 1985/1154](https://www.legislation.gov.uk/uksi/1985/1154).
 
@@ -747,6 +747,6 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23008111]: Marginal citation: [S.I. 2009/1773](https://www.legislation.gov.uk/uksi/2009/1773).
 
-[^key-1c3693d87a466318257a8034d33993b5]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/703/schedule/1/paragraph/2) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/3/4)
+[^c-1c3693d87a466318257a8034d33993b5]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/703/schedule/1/paragraph/2) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/3/4)
 
-[^key-0973678443cd970c5e9da4670724683f]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2018/703/schedule/2/paragraph/1) substituted (23.6.2026) by [The Control of Trade in Endangered Species (Amendment and Revocation) Regulations 2026 (S.I. 2026/627)](https://www.legislation.gov.uk/uksi/2026/627), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/627/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/627/regulation/5)
+[^c-0973678443cd970c5e9da4670724683f]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2018/703/schedule/2/paragraph/1) substituted (23.6.2026) by [The Control of Trade in Endangered Species (Amendment and Revocation) Regulations 2026 (S.I. 2026/627)](https://www.legislation.gov.uk/uksi/2026/627), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/627/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/627/regulation/5)

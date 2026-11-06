@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Countering effect of avoidance arrangements[^key-f951f41aceb0d1fbf4738a37d325e297]
+## 81. Countering effect of avoidance arrangements[^c-f951f41aceb0d1fbf4738a37d325e297]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ or otherwise.
 
 ## Annotations
 
-[^key-f951f41aceb0d1fbf4738a37d325e297]: Textual amendment: [S. 81](https://www.legislation.gov.uk/ukpga/2010/8/section/81) substituted (with effect in accordance with s. 31(6) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2018/3/section/31/2)
+[^c-f951f41aceb0d1fbf4738a37d325e297]: Textual amendment: [S. 81](https://www.legislation.gov.uk/ukpga/2010/8/section/81) substituted (with effect in accordance with s. 31(6) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2018/3/section/31/2)

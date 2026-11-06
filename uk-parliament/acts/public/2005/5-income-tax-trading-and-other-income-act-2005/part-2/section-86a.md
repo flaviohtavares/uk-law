@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86A. Contributions to flood and coastal erosion risk management projects[^key-2136cbf882974cf4772f686eb209779a]
+## 86A. Contributions to flood and coastal erosion risk management projects[^c-2136cbf882974cf4772f686eb209779a]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ no deduction is allowed.
 
 ## Annotations
 
-[^key-2136cbf882974cf4772f686eb209779a]: Textual amendment: Ss. 86A, 86B and cross-heading inserted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2015/11/schedule/5/paragraph/1)
+[^c-2136cbf882974cf4772f686eb209779a]: Textual amendment: Ss. 86A, 86B and cross-heading inserted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2015/11/schedule/5/paragraph/1)

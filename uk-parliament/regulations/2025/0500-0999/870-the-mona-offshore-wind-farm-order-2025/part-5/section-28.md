@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Temporary use of land for carrying out the authorised project[^key-109f1e878bfd27632d4599324fc93587]
+## 28. Temporary use of land for carrying out the authorised project[^c-109f1e878bfd27632d4599324fc93587]
 
 *Extent: E+W*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-109f1e878bfd27632d4599324fc93587]: Commencement: Art. 28 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-109f1e878bfd27632d4599324fc93587]: Commencement: Art. 28 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
 [^f00039]: Footnote: Section 13 was amended by Tribunals Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).

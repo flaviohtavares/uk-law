@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Power to obtain records[^key-7407ea1278851468f35d2e8866486c52]
+## 61. Power to obtain records[^c-7407ea1278851468f35d2e8866486c52]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ After section 81 of the 2000 Act insert—
 
 ## Annotations
 
-[^key-7407ea1278851468f35d2e8866486c52]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2007/10/section/61) in force at 5.10.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2007/334/article/3))
+[^c-7407ea1278851468f35d2e8866486c52]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2007/10/section/61) in force at 5.10.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2007/334/article/3))

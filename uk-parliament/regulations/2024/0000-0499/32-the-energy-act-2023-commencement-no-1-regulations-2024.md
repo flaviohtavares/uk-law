@@ -37,13 +37,13 @@ Made
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 334(1) of the Energy Act 2023[^f00001].
 
-## 1. Citation and interpretation[^key-56863d16b2b24edfc2c870c54046b0e8]
+## 1. Citation and interpretation[^c-56863d16b2b24edfc2c870c54046b0e8]
 
 (1) These Regulations may be cited as the Energy Act 2023 (Commencement No. 1) Regulations 2024.
 
 (2) In these Regulations, “**the Act**” means the Energy Act 2023.
 
-## 2. Provisions coming into force on 11th January 2024[^key-32be3452a4a9a25d40bf4e3a68a72bf2]
+## 2. Provisions coming into force on 11th January 2024[^c-32be3452a4a9a25d40bf4e3a68a72bf2]
 
 The day appointed for the coming into force of the following provisions of the Act is 11th January 2024—
 
@@ -75,7 +75,7 @@ The day appointed for the coming into force of the following provisions of the A
   - (iv) section 301 (power of OGA to require information about change in control of licensee);
 - (e) in Chapter 1 of Part 14 (civil nuclear sites), section 304(3) (excluded disposal sites), only insofar as is necessary for the purposes of making regulations under section 7C of the Nuclear Installations Act 1965[^f00002] (inserted by section 304(3) of the Act).
 
-## 3. Provisions coming into force on 31st January 2024[^key-1b621503af63b017611aba8f9db6da9f]
+## 3. Provisions coming into force on 31st January 2024[^c-1b621503af63b017611aba8f9db6da9f]
 
 The day appointed for the coming into force of the following provisions of the Act is 31st January 2024—
 
@@ -89,7 +89,7 @@ The day appointed for the coming into force of the following provisions of the A
   - (vii) sections 176 and 177 (financial assistance and funding);
   - (viii) section 178 (principal objective and general duties of the Secretary of State and GEMA under Part 5) insofar as it is not already in force[^f00003] ;
   - (ix) section 179 and paragraphs 3, 6, 7 and 8 only of Schedule 11 (minor and consequential amendments);
-- (b)[^key-97baafaaefd9619c95a8b72f76d18cce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-97baafaaefd9619c95a8b72f76d18cce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in Chapter 2 of Part 14 (Civil Nuclear Constabulary), section 310 (publication of three-year strategy plan).
 
 Andrew Bowie
@@ -125,14 +125,14 @@ Regulation 3 brings the following provisions into force on 31st January 2024:
 
 [^f00001]: Footnote: [2023 c. 52](https://www.legislation.gov.uk/ukpga/2023/52).
 
-[^key-56863d16b2b24edfc2c870c54046b0e8]: Commencement: Reg. 1 in force at made date
+[^c-56863d16b2b24edfc2c870c54046b0e8]: Commencement: Reg. 1 in force at made date
 
-[^key-32be3452a4a9a25d40bf4e3a68a72bf2]: Commencement: Reg. 2 in force at made date
+[^c-32be3452a4a9a25d40bf4e3a68a72bf2]: Commencement: Reg. 2 in force at made date
 
 [^f00002]: Footnote: [1965 c. 57](https://www.legislation.gov.uk/ukpga/1965/57); the Nuclear Installations Act 1965 has been amended on a number of occasions but none of those amendments are relevant to these Regulations.
 
-[^key-1b621503af63b017611aba8f9db6da9f]: Commencement: Reg. 3 in force at made date
+[^c-1b621503af63b017611aba8f9db6da9f]: Commencement: Reg. 3 in force at made date
 
 [^f00003]: Footnote: Section 178 was partially commenced by section 334(h)(iii) of the Act.
 
-[^key-97baafaaefd9619c95a8b72f76d18cce]: Textual amendment: [Reg. 3(b)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/b) omitted (30.1.2024) by virtue of [The Energy Act 2023 (Commencement No. 1) (Amendment) Regulations 2024 (S.I. 2024/98)](https://www.legislation.gov.uk/uksi/2024/98), [regs. 1](https://www.legislation.gov.uk/uksi/2024/98/regulation/1), [2](https://www.legislation.gov.uk/uksi/2024/98/regulation/2)
+[^c-97baafaaefd9619c95a8b72f76d18cce]: Textual amendment: [Reg. 3(b)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/b) omitted (30.1.2024) by virtue of [The Energy Act 2023 (Commencement No. 1) (Amendment) Regulations 2024 (S.I. 2024/98)](https://www.legislation.gov.uk/uksi/2024/98), [regs. 1](https://www.legislation.gov.uk/uksi/2024/98/regulation/1), [2](https://www.legislation.gov.uk/uksi/2024/98/regulation/2)

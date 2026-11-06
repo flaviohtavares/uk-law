@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 41A. Where SROCs cannot be revoked[^key-f2e0824e1101554848406bb4208efe70]
+## 41A. Where SROCs cannot be revoked[^c-f2e0824e1101554848406bb4208efe70]
 
 (1) A SROC cannot be revoked where it has been produced to the Authority under article 5 (the renewables obligation).
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2e0824e1101554848406bb4208efe70]: Textual amendment: Art. 41A inserted (1.4.2010) by [The Renewables Obligation (Scotland) Amendment Order 2010 (S.S.I. 2010/147)](https://www.legislation.gov.uk/ssi/2010/147), [arts. 1](https://www.legislation.gov.uk/ssi/2010/147/article/1), [11](https://www.legislation.gov.uk/ssi/2010/147/article/11) (with [art. 17](https://www.legislation.gov.uk/ssi/2010/147/article/17))
+[^c-f2e0824e1101554848406bb4208efe70]: Textual amendment: Art. 41A inserted (1.4.2010) by [The Renewables Obligation (Scotland) Amendment Order 2010 (S.S.I. 2010/147)](https://www.legislation.gov.uk/ssi/2010/147), [arts. 1](https://www.legislation.gov.uk/ssi/2010/147/article/1), [11](https://www.legislation.gov.uk/ssi/2010/147/article/11) (with [art. 17](https://www.legislation.gov.uk/ssi/2010/147/article/17))

@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Subject to Article 38 of the Jobseekers (Northern Ireland) Order 1995[^c14904211] , section 27 of the Welfare Reform Act (Northern Ireland) 2007[^key-78889091a9030baba4d96ca336893931] and to the following provisions of this section, so far as it relates to payments out of money appropriated by Measure, any sum recovered by the Department under or by virtue of this Act shall be paid into the Consolidated Fund.
+(1) Subject to Article 38 of the Jobseekers (Northern Ireland) Order 1995[^c14904211] , section 27 of the Welfare Reform Act (Northern Ireland) 2007[^c-78889091a9030baba4d96ca336893931] and to the following provisions of this section, so far as it relates to payments out of money appropriated by Measure, any sum recovered by the Department under or by virtue of this Act shall be paid into the Consolidated Fund.
 
 (2) So far as any such sum relates to a payment out of the National Insurance Fund, it shall be paid into that Fund.
 
 (3) So far as any such sum relates to a payment out of the social fund, it shall be paid into that fund.
 
-(4)[^key-7b1f27a4bb816beb1075fbdb9f6814aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7b1f27a4bb816beb1075fbdb9f6814aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-7b1f27a4bb816beb1075fbdb9f6814aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7b1f27a4bb816beb1075fbdb9f6814aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Any sums recovered by the Department under section 13A above[^c14904231]. . . shall be paid—
 
@@ -50,9 +50,9 @@ summary: ''
 
 [^c14904211]: Textual amendment: Words in s. 144(1) inserted (7.10.1996) by [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705), [art. 40(1)](https://www.legislation.gov.uk/nisi/1995/2705/article/40/1), [Sch. 2](https://www.legislation.gov.uk/nisi/1995/2705/schedule/2), [para. 44](https://www.legislation.gov.uk/nisi/1995/2705/paragraph/44); [S.R. 1996/401](https://www.legislation.gov.uk/nisr/1996/401), [art. 2](https://www.legislation.gov.uk/nisr/1996/401/article/2)
 
-[^key-78889091a9030baba4d96ca336893931]: Textual amendment: Words in s. 144(1) inserted (27.10.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [s. 60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1), [Sch. 3 para. 4(22)](https://www.legislation.gov.uk/nia/2007/2/schedule/3/paragraph/4/22); [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/d), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2008/276/schedule/part/2)
+[^c-78889091a9030baba4d96ca336893931]: Textual amendment: Words in s. 144(1) inserted (27.10.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [s. 60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1), [Sch. 3 para. 4(22)](https://www.legislation.gov.uk/nia/2007/2/schedule/3/paragraph/4/22); [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/d), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2008/276/schedule/part/2)
 
-[^key-7b1f27a4bb816beb1075fbdb9f6814aa]: Textual amendment: [S. 144(4)](https://www.legislation.gov.uk/ukpga/1992/8/section/144/4)[(5)](https://www.legislation.gov.uk/ukpga/1992/8/section/144/5) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/6); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/234/article/3/3)
+[^c-7b1f27a4bb816beb1075fbdb9f6814aa]: Textual amendment: [S. 144(4)](https://www.legislation.gov.uk/ukpga/1992/8/section/144/4)[(5)](https://www.legislation.gov.uk/ukpga/1992/8/section/144/5) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/6); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/234/article/3/3)
 
 [^c14904231]: Textual amendment: Words in s. 144(6) substituted*(retrospectively)* (11.6.1992) for specified purposes by [S.I. 1992/1309 (N.I. 9)](https://www.legislation.gov.uk/nisi/1992/1309), [art. 3(2)](https://www.legislation.gov.uk/nisi/1992/1309/article/3/2), [Sch. para. 2(1)](https://www.legislation.gov.uk/nisi/1992/1309/schedule/paragraph/2/1).
 

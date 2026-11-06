@@ -24,11 +24,11 @@ Section 41
 
 ### Contingent loans
 
-**1.**[^key-85944229f21f8c4d80c7be1d436fca52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-85944229f21f8c4d80c7be1d436fca52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### “Structural” assets
 
-**2.** (1)[^key-d99b9b530f18028f1e9e84f945069336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.** (1)[^c-d99b9b530f18028f1e9e84f945069336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In ICTA, omit section 444ACA (transfers of business).
 
@@ -60,7 +60,7 @@ Section 41
 
 ### Priority of section 83(2) of FA 1989 etc
 
-**4.**[^key-93af9240b448940c13d07cfd0fc9ec01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-93af9240b448940c13d07cfd0fc9ec01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Tidying up of TCGA 1992
 
@@ -76,7 +76,7 @@ Section 41
 
 ### Tidying up of Chapter 2 of Part 4 of FA 1996
 
-**6.**[^key-a4ba91dd6ed6d80262069cb90c0416e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a4ba91dd6ed6d80262069cb90c0416e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Correction of erroneous repeal
 
@@ -155,11 +155,11 @@ Section 41
 
 ### Generalisation of definitions
 
-**11.**[^key-e2d37dbbadd404822362e8022596f3b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-e2d37dbbadd404822362e8022596f3b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-e2d37dbbadd404822362e8022596f3b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-e2d37dbbadd404822362e8022596f3b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-e2d37dbbadd404822362e8022596f3b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-e2d37dbbadd404822362e8022596f3b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **14.** (1) Omit the following provisions.
 
@@ -201,14 +201,14 @@ Section 41
 - (b) section 544(5), and
 - (c) section 560(5)(a) and (c).
 
-(9)[^key-bfd6c27444613e9326fb4b8a7df73afd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-bfd6c27444613e9326fb4b8a7df73afd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In FA 2002—
 
 - (a) in section 66(5), the words from the beginning to the end of the definition of “long-term insurance fund”,
 - (b) in paragraph 19(1) of Schedule 12, the definition of “life assurance business”,
-- (c)[^key-08caa93d52a3dfa5828adf18de592428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-08caa93d52a3dfa5828adf18de592428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-08caa93d52a3dfa5828adf18de592428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-08caa93d52a3dfa5828adf18de592428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) in Schedule 29, in paragraph 89(3), the definition of “contracts of long-term insurance” and paragraph 138(1).
 
 (11) In Schedule 23 to FA 2003—
@@ -220,11 +220,11 @@ Section 41
 
 ### Minor changes
 
-**15.** (1)[^key-ef2fed03f17bba420a50fcdc17187bdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.** (1)[^c-ef2fed03f17bba420a50fcdc17187bdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-ef2fed03f17bba420a50fcdc17187bdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ef2fed03f17bba420a50fcdc17187bdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-ef2fed03f17bba420a50fcdc17187bdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ef2fed03f17bba420a50fcdc17187bdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In paragraph 17 of Schedule 7 to FA 1991 (transitional provisions for chargeable gains and unrelieved general annuity business)—
 
@@ -265,11 +265,11 @@ Section 41
 
 (7) Paragraph 86 of Schedule 18 to FA 1998 (non-annual actuarial investigations).
 
-(8)[^key-3659e2e0cdd67e7e256f774536ed0c33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-3659e2e0cdd67e7e256f774536ed0c33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Section 87(3) and (4) of FA 2001 (tax credits etc).
 
-(10)[^key-8ce38a03cbd0e19b429607b73379e5e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-8ce38a03cbd0e19b429607b73379e5e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Commencement
 
@@ -285,22 +285,22 @@ Section 41
 
 ## Annotations
 
-[^key-85944229f21f8c4d80c7be1d436fca52]: Textual amendment: Sch. 10 para. 1 omitted (with effect in accordance with Sch. 17 para. 4(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 17 para. 3(d)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/17/paragraph/3/d)
+[^c-85944229f21f8c4d80c7be1d436fca52]: Textual amendment: Sch. 10 para. 1 omitted (with effect in accordance with Sch. 17 para. 4(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 17 para. 3(d)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/17/paragraph/3/d)
 
-[^key-d99b9b530f18028f1e9e84f945069336]: Textual amendment: [Sch. 10 para. 2(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/2/1) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(p)(iv)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/p/iv)
+[^c-d99b9b530f18028f1e9e84f945069336]: Textual amendment: [Sch. 10 para. 2(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/2/1) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(p)(iv)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/p/iv)
 
-[^key-93af9240b448940c13d07cfd0fc9ec01]: Textual amendment: Sch. 10 para. 4 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(p)(iv)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/p/iv)
+[^c-93af9240b448940c13d07cfd0fc9ec01]: Textual amendment: Sch. 10 para. 4 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(p)(iv)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/p/iv)
 
-[^key-a4ba91dd6ed6d80262069cb90c0416e0]: Textual amendment: Sch. 10 para. 6 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-a4ba91dd6ed6d80262069cb90c0416e0]: Textual amendment: Sch. 10 para. 6 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-e2d37dbbadd404822362e8022596f3b5]: Textual amendment: [Sch. 10 paras. 11-13](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/11) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(p)(iv)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/p/iv)
+[^c-e2d37dbbadd404822362e8022596f3b5]: Textual amendment: [Sch. 10 paras. 11-13](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/11) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(p)(iv)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/p/iv)
 
-[^key-bfd6c27444613e9326fb4b8a7df73afd]: Textual amendment: Sch. 10 para. 14(9) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-bfd6c27444613e9326fb4b8a7df73afd]: Textual amendment: Sch. 10 para. 14(9) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-08caa93d52a3dfa5828adf18de592428]: Textual amendment: Sch. 10 para. 14(10)(c)(d) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-08caa93d52a3dfa5828adf18de592428]: Textual amendment: Sch. 10 para. 14(10)(c)(d) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-ef2fed03f17bba420a50fcdc17187bdf]: Textual amendment: [Sch. 10 para. 15(1)-(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/15/1) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(p)(iv)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/p/iv)
+[^c-ef2fed03f17bba420a50fcdc17187bdf]: Textual amendment: [Sch. 10 para. 15(1)-(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/15/1) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(p)(iv)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/p/iv)
 
-[^key-3659e2e0cdd67e7e256f774536ed0c33]: Textual amendment: Sch. 10 para. 16(8) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-3659e2e0cdd67e7e256f774536ed0c33]: Textual amendment: Sch. 10 para. 16(8) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-8ce38a03cbd0e19b429607b73379e5e4]: Textual amendment: Sch. 10 para. 16(10) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-8ce38a03cbd0e19b429607b73379e5e4]: Textual amendment: Sch. 10 para. 16(10) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Notification of mining operations[^key-399be546483358a311e0db884a2058ad]
+## 6. Notification of mining operations[^c-399be546483358a311e0db884a2058ad]
 
 *Extent: E+W+S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-399be546483358a311e0db884a2058ad]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/3248/regulation/6) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-399be546483358a311e0db884a2058ad]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/3248/regulation/6) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
 
 [^f00017]: Footnote: Section 139 was repealed by [S.I. 1999/2024](https://www.legislation.gov.uk/uksi/1999/2024).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 139. Debts of insolvent company to rank equally[^key-486d3c2d4c25dc94d518438be3823ff6]
+## 139. Debts of insolvent company to rank equally[^c-486d3c2d4c25dc94d518438be3823ff6]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.181 of the 1986 Rules[^f00057].
 
 ## Annotations
 
-[^key-486d3c2d4c25dc94d518438be3823ff6]: Commencement: Rule 139 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-486d3c2d4c25dc94d518438be3823ff6]: Commencement: Rule 139 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00057]: Footnote: Paragraph (2) was added by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

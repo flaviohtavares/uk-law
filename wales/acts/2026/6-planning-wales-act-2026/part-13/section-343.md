@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 343. Compensation: listed buildings in need of repair[^key-44e468735e4cf36ee95e57505083121a]
+## 343. Compensation: listed buildings in need of repair[^c-44e468735e4cf36ee95e57505083121a]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44e468735e4cf36ee95e57505083121a]: Commencement: S. 343 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-44e468735e4cf36ee95e57505083121a]: Commencement: S. 343 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

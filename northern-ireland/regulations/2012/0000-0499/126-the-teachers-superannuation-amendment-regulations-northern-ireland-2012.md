@@ -42,28 +42,28 @@ Coming into operation
 
 1st April 2012
 
-[^key-dec83064ca1bbc51f45fc96ab4ff55f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dec83064ca1bbc51f45fc96ab4ff55f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-dec83064ca1bbc51f45fc96ab4ff55f1]
+## 1. Citation and commencement[^c-dec83064ca1bbc51f45fc96ab4ff55f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Superannuation Regulations[^key-dec83064ca1bbc51f45fc96ab4ff55f1]
+## 2. Amendment of Superannuation Regulations[^c-dec83064ca1bbc51f45fc96ab4ff55f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-dec83064ca1bbc51f45fc96ab4ff55f1]
+## 3.[^c-dec83064ca1bbc51f45fc96ab4ff55f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dec83064ca1bbc51f45fc96ab4ff55f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dec83064ca1bbc51f45fc96ab4ff55f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-dec83064ca1bbc51f45fc96ab4ff55f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dec83064ca1bbc51f45fc96ab4ff55f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dec83064ca1bbc51f45fc96ab4ff55f1]: Textual amendment: Regulations revoked (1.4.2013) by [The Teachers Superannuation (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/54)](https://www.legislation.gov.uk/nisr/2013/54), [regs. 1](https://www.legislation.gov.uk/nisr/2013/54/regulation/1), [4](https://www.legislation.gov.uk/nisr/2013/54/regulation/4)
+[^c-dec83064ca1bbc51f45fc96ab4ff55f1]: Textual amendment: Regulations revoked (1.4.2013) by [The Teachers Superannuation (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/54)](https://www.legislation.gov.uk/nisr/2013/54), [regs. 1](https://www.legislation.gov.uk/nisr/2013/54/regulation/1), [4](https://www.legislation.gov.uk/nisr/2013/54/regulation/4)

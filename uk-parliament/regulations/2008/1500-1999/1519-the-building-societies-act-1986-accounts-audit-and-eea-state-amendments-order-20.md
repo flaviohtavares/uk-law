@@ -32,7 +32,7 @@ summary: ''
 
 Building Societies
 
-The Building Societies Act 1986 (Accounts, Audit and EEA State Amendments) Order 2008 (revoked)[^key-38454b1fe17a2fae0a2131321aa340d8]
+The Building Societies Act 1986 (Accounts, Audit and EEA State Amendments) Order 2008 (revoked)[^c-38454b1fe17a2fae0a2131321aa340d8]
 
 Made
 
@@ -42,82 +42,82 @@ Coming into force
 
 29th June 2008
 
-[^key-38454b1fe17a2fae0a2131321aa340d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38454b1fe17a2fae0a2131321aa340d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — INTRODUCTORY[^key-38454b1fe17a2fae0a2131321aa340d8]
+## PART 1 — INTRODUCTORY[^c-38454b1fe17a2fae0a2131321aa340d8]
 
-### 1. Citation, commencement and application[^key-38454b1fe17a2fae0a2131321aa340d8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-38454b1fe17a2fae0a2131321aa340d8]
+### 1. Citation, commencement and application[^c-38454b1fe17a2fae0a2131321aa340d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — ACCOUNTS AND AUDIT[^key-38454b1fe17a2fae0a2131321aa340d8]
-
-### 3. Disclosures relating to off-balance-sheet arrangements[^key-38454b1fe17a2fae0a2131321aa340d8]
+### 2. Interpretation[^c-38454b1fe17a2fae0a2131321aa340d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Disclosure of auditor remuneration[^key-38454b1fe17a2fae0a2131321aa340d8]
+## PART 2 — ACCOUNTS AND AUDIT[^c-38454b1fe17a2fae0a2131321aa340d8]
+
+### 3. Disclosures relating to off-balance-sheet arrangements[^c-38454b1fe17a2fae0a2131321aa340d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Signature of auditor’s report[^key-38454b1fe17a2fae0a2131321aa340d8]
+### 4. Disclosure of auditor remuneration[^c-38454b1fe17a2fae0a2131321aa340d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Removal and resignation of auditors[^key-38454b1fe17a2fae0a2131321aa340d8]
+### 5. Signature of auditor’s report[^c-38454b1fe17a2fae0a2131321aa340d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Consequential amendments[^key-38454b1fe17a2fae0a2131321aa340d8]
+### 6. Removal and resignation of auditors[^c-38454b1fe17a2fae0a2131321aa340d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — EEA STATES[^key-38454b1fe17a2fae0a2131321aa340d8]
-
-### 8. Amendment of definition of “EEA State”[^key-38454b1fe17a2fae0a2131321aa340d8]
+### 7. Consequential amendments[^c-38454b1fe17a2fae0a2131321aa340d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-38454b1fe17a2fae0a2131321aa340d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 3 — EEA STATES[^c-38454b1fe17a2fae0a2131321aa340d8]
+
+### 8. Amendment of definition of “EEA State”[^c-38454b1fe17a2fae0a2131321aa340d8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-38454b1fe17a2fae0a2131321aa340d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Disclosure of auditor remuneration[^key-38454b1fe17a2fae0a2131321aa340d8]
+## SCHEDULE 1 — Disclosure of auditor remuneration[^c-38454b1fe17a2fae0a2131321aa340d8]
 
 Article 4(3)
 
-**1.**[^key-38454b1fe17a2fae0a2131321aa340d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-38454b1fe17a2fae0a2131321aa340d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Consequential amendments of the 1986 Act[^key-38454b1fe17a2fae0a2131321aa340d8]
+## SCHEDULE 2 — Consequential amendments of the 1986 Act[^c-38454b1fe17a2fae0a2131321aa340d8]
 
 Article 7
 
-**1.**[^key-38454b1fe17a2fae0a2131321aa340d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-38454b1fe17a2fae0a2131321aa340d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-38454b1fe17a2fae0a2131321aa340d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-38454b1fe17a2fae0a2131321aa340d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-38454b1fe17a2fae0a2131321aa340d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-38454b1fe17a2fae0a2131321aa340d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-38454b1fe17a2fae0a2131321aa340d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-38454b1fe17a2fae0a2131321aa340d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-38454b1fe17a2fae0a2131321aa340d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-38454b1fe17a2fae0a2131321aa340d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-38454b1fe17a2fae0a2131321aa340d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-38454b1fe17a2fae0a2131321aa340d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-38454b1fe17a2fae0a2131321aa340d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-38454b1fe17a2fae0a2131321aa340d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-38454b1fe17a2fae0a2131321aa340d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-38454b1fe17a2fae0a2131321aa340d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-38454b1fe17a2fae0a2131321aa340d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38454b1fe17a2fae0a2131321aa340d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-38454b1fe17a2fae0a2131321aa340d8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/1519) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-38454b1fe17a2fae0a2131321aa340d8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/1519) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

@@ -24,8 +24,8 @@ summary: ''
 
 - (a) all amounts received from time to time from employees under regulations 11 to 16 and 18 (contributions);
 - (b) any charge payable under regulation 74 (employing authority's further payments) of which it has been notified by the Committee during the interval;
-- (c) a contribution towards the cost of the administration of the pension fund; [^key-859273c47c7fec3ebbd3b63bde2cb13e]...
-- (d)[^key-cabc1a08025d4697d51508a5481396d9] any amount specified in a notice given in accordance with regulation 76 (additional costs arising from employing authority’s level of performance); and
+- (c) a contribution towards the cost of the administration of the pension fund; [^c-859273c47c7fec3ebbd3b63bde2cb13e]...
+- (d)[^c-cabc1a08025d4697d51508a5481396d9] any amount specified in a notice given in accordance with regulation 76 (additional costs arising from employing authority’s level of performance); and
 - (e) all amounts received from time to time from the Ministry of Defence in respect of all contributions for a member on reserve forces service leave.
 
 (2) But—
@@ -43,16 +43,16 @@ summary: ''
 - (f) the total additional pension contributions (if any) paid by members under regulation 18 (additional pension contributions) during the period covered by the statement; and
 - (g) the total additional pension contributions (if any) paid by the employing authority under regulation 18 during the period covered by the statement.
 
-(4) The Committee may direct that the information mentioned in paragraph (3) shall be given to it in such form[^key-7355b9bbf59fb8c0465d3a397848bda9]... as it specifies in the direction.
+(4) The Committee may direct that the information mentioned in paragraph (3) shall be given to it in such form[^c-7355b9bbf59fb8c0465d3a397848bda9]... as it specifies in the direction.
 
 (5) If an amount payable under paragraph (1)(c) or (d) cannot be settled by agreement, it shall be determined by the Department.
 
 ## Annotations
 
-[^key-859273c47c7fec3ebbd3b63bde2cb13e]: Textual amendment: Word in [reg. 75(1)(c)](https://www.legislation.gov.uk/nisr/2014/188/regulation/75/1/c) deleted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [21(a)](https://www.legislation.gov.uk/nisr/2016/128/regulation/21/a)
+[^c-859273c47c7fec3ebbd3b63bde2cb13e]: Textual amendment: Word in [reg. 75(1)(c)](https://www.legislation.gov.uk/nisr/2014/188/regulation/75/1/c) deleted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [21(a)](https://www.legislation.gov.uk/nisr/2016/128/regulation/21/a)
 
-[^key-cabc1a08025d4697d51508a5481396d9]: Textual amendment: [Reg. 75(1)(d)](https://www.legislation.gov.uk/nisr/2014/188/regulation/75/1/d)[(e)](https://www.legislation.gov.uk/nisr/2014/188/regulation/75/1/e) substituted for [reg. 75(1)(d)](https://www.legislation.gov.uk/nisr/2014/188/regulation/75/1/d) (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [21(b)](https://www.legislation.gov.uk/nisr/2016/128/regulation/21/b)
+[^c-cabc1a08025d4697d51508a5481396d9]: Textual amendment: [Reg. 75(1)(d)](https://www.legislation.gov.uk/nisr/2014/188/regulation/75/1/d)[(e)](https://www.legislation.gov.uk/nisr/2014/188/regulation/75/1/e) substituted for [reg. 75(1)(d)](https://www.legislation.gov.uk/nisr/2014/188/regulation/75/1/d) (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [21(b)](https://www.legislation.gov.uk/nisr/2016/128/regulation/21/b)
 
 [^c22152221]: Marginal citation: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-7355b9bbf59fb8c0465d3a397848bda9]: Textual amendment: Words in reg. 75(4) deleted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [19](https://www.legislation.gov.uk/nisr/2015/162/regulation/19)
+[^c-7355b9bbf59fb8c0465d3a397848bda9]: Textual amendment: Words in reg. 75(4) deleted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [19](https://www.legislation.gov.uk/nisr/2015/162/regulation/19)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Remunerative work[^key-1031f59c5ad68efcfecbc9115788b8ec]
+## 4. Remunerative work[^c-1031f59c5ad68efcfecbc9115788b8ec]
 
 *Extent: E+W+S*
 
@@ -33,10 +33,10 @@ summary: ''
 
 (5) A person on income support for more than 3 days in any benefit week shall be treated as not being in remunerative work in that week.
 
-(6)[^key-24d18fc24ca0dcdce389a3f2ff5f8275] A person shall not be treated as engaged in remunerative work on any day on which the person is on maternity leave or is absent from work because he is ill.
+(6)[^c-24d18fc24ca0dcdce389a3f2ff5f8275] A person shall not be treated as engaged in remunerative work on any day on which the person is on maternity leave or is absent from work because he is ill.
 
 ## Annotations
 
-[^key-1031f59c5ad68efcfecbc9115788b8ec]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1992/1814/regulation/4) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-1031f59c5ad68efcfecbc9115788b8ec]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1992/1814/regulation/4) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
-[^key-24d18fc24ca0dcdce389a3f2ff5f8275]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/4/6) added (4.10.1993) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/2118)](https://www.legislation.gov.uk/uksi/1993/2118), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/2118/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/1993/2118/regulation/17)
+[^c-24d18fc24ca0dcdce389a3f2ff5f8275]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/4/6) added (4.10.1993) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/2118)](https://www.legislation.gov.uk/uksi/1993/2118), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/2118/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/1993/2118/regulation/17)

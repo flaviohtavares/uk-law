@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Entries under section 83: minor and consequential amendments[^key-93782d442a2de1fecaed513030c41484]
+## 94. Entries under section 83: minor and consequential amendments[^c-93782d442a2de1fecaed513030c41484]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93782d442a2de1fecaed513030c41484]: Commencement: S. 94 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-93782d442a2de1fecaed513030c41484]: Commencement: S. 94 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 427. Meaning of “the reference banks”[^key-df3fdec7776785ce7fcfb30f7faa048d]
+## 427. Meaning of “the reference banks”[^c-df3fdec7776785ce7fcfb30f7faa048d]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df3fdec7776785ce7fcfb30f7faa048d]: Commencement: Art. 427 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-df3fdec7776785ce7fcfb30f7faa048d]: Commencement: Art. 427 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

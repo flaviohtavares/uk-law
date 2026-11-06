@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Ring-fencing of certain activities[^key-49312bcc26f4de4731354306bfc94d04][^key-b02bbf99ddeed3b762579d54fb2c8f04][^key-7e6c1ed2f40f6ebe9081db19b5242bec]
+## 4. Ring-fencing of certain activities[^c-49312bcc26f4de4731354306bfc94d04][^c-b02bbf99ddeed3b762579d54fb2c8f04][^c-7e6c1ed2f40f6ebe9081db19b5242bec]
 
 *Extent: E+W+S+N.I.*
 
@@ -711,8 +711,8 @@ summary: ''
 
 ## Annotations
 
-[^key-49312bcc26f4de4731354306bfc94d04]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/33/section/4) in force at 1.3.2014 for specified purposes by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2)
+[^c-49312bcc26f4de4731354306bfc94d04]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/33/section/4) in force at 1.3.2014 for specified purposes by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2)
 
-[^key-b02bbf99ddeed3b762579d54fb2c8f04]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/33/section/4) in force at 21.4.2016 for specified purposes by [S.I. 2016/512](https://www.legislation.gov.uk/uksi/2016/512), [art. 2(a)](https://www.legislation.gov.uk/uksi/2016/512/article/2/a)
+[^c-b02bbf99ddeed3b762579d54fb2c8f04]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/33/section/4) in force at 21.4.2016 for specified purposes by [S.I. 2016/512](https://www.legislation.gov.uk/uksi/2016/512), [art. 2(a)](https://www.legislation.gov.uk/uksi/2016/512/article/2/a)
 
-[^key-7e6c1ed2f40f6ebe9081db19b5242bec]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/33/section/4) in force at 1.1.2019 in so far as not already in force by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(d)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/d)
+[^c-7e6c1ed2f40f6ebe9081db19b5242bec]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/33/section/4) in force at 1.1.2019 in so far as not already in force by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(d)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/d)

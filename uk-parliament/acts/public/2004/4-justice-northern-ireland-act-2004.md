@@ -146,7 +146,7 @@ After section 32 of the 2002 Act insert—
   - (iii) functions exercised by Forensic Science Northern Ireland,
   - (iv) functions exercised by the State Pathologist’s Department, or
   - (v) functions exercised by the Compensation Agency;
-- (f)[^key-714fd1678fea353de03c2c4229e10ff2] the Police Service of Northern Ireland.
+- (f)[^c-714fd1678fea353de03c2c4229e10ff2] the Police Service of Northern Ireland.
 
 and accordingly references in this section to the functions of an organisation are, in the case of the Department of Justice, references to the functions mentioned in paragraph (e).
 
@@ -779,7 +779,7 @@ or to both.
 
 (4) A person guilty of an offence under sub-paragraph (3) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### Powers of court security officers to extend to land on which relevant building stands[^key-6c3487677e07b59c7ceae59c0e6b1ee0]
+### Powers of court security officers to extend to land on which relevant building stands[^c-6c3487677e07b59c7ceae59c0e6b1ee0]
 
 **8.** Any power of a court security officer exercisable in, or in relation to, the relevant building, is also exercisable in, or in relation to, any place within the boundary of the land on which the building stands; and references in this Schedule to a relevant building are to be construed accordingly
 
@@ -825,7 +825,7 @@ Section 18
 
 [^c20855091]: Textual amendment: Words in s. 8(4)(e)(i)-(v) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [12](https://www.legislation.gov.uk/uksi/2010/976/article/12), [Sch. 14 para. 81(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/81/4/b/iii) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-714fd1678fea353de03c2c4229e10ff2]: Textual amendment: S. 8(4)(f) inserted (17.3.2015) by [The Justice (Northern Ireland) Act 2004 (Amendment of section 8(4)) Order (Northern Ireland) 2015 (S.R. 2015/168)](https://www.legislation.gov.uk/nisr/2015/168), arts. 1(2), [2(2)](https://www.legislation.gov.uk/nisr/2015/168/article/2/2)
+[^c-714fd1678fea353de03c2c4229e10ff2]: Textual amendment: S. 8(4)(f) inserted (17.3.2015) by [The Justice (Northern Ireland) Act 2004 (Amendment of section 8(4)) Order (Northern Ireland) 2015 (S.R. 2015/168)](https://www.legislation.gov.uk/nisr/2015/168), arts. 1(2), [2(2)](https://www.legislation.gov.uk/nisr/2015/168/article/2/2)
 
 [^c20855231]: Textual amendment: S. 8(5A) inserted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [Sch. 7 para. 7A(b)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/7A/b) (as inserted by [Justice (Northern Ireland) Act 2004 (c. 4)](https://www.legislation.gov.uk/ukpga/2004/4), [ss. 8(9)](https://www.legislation.gov.uk/ukpga/2004/4/section/8/9), [19](https://www.legislation.gov.uk/ukpga/2004/4/section/19); [S.R. 2010/114](https://www.legislation.gov.uk/nisr/2010/114), [art. 2(a)](https://www.legislation.gov.uk/nisr/2010/114/article/2/a))
 
@@ -905,6 +905,6 @@ Section 18
 
 [^c20854351]: Textual amendment: Words in Sch. 3 para. 6(2)(a) inserted (6.4.2010) by Coroners and Justice Act 2009, (c. 25), {ss. 147(4)}, 182(4)(c) (with s. 180, Sch. 22 para. 44(2)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/10)
 
-[^key-6c3487677e07b59c7ceae59c0e6b1ee0]: Textual amendment: Sch. 3 para. 8 and preceding cross-heading inserted (30.9.2015) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 95](https://www.legislation.gov.uk/nia/2015/9/section/95), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2) (with [Sch. 8 para. 11](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/11)); [S.R. 2015/324](https://www.legislation.gov.uk/nisr/2015/324), [art. 3(b)](https://www.legislation.gov.uk/nisr/2015/324/article/3/b)
+[^c-6c3487677e07b59c7ceae59c0e6b1ee0]: Textual amendment: Sch. 3 para. 8 and preceding cross-heading inserted (30.9.2015) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 95](https://www.legislation.gov.uk/nia/2015/9/section/95), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2) (with [Sch. 8 para. 11](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/11)); [S.R. 2015/324](https://www.legislation.gov.uk/nisr/2015/324), [art. 3(b)](https://www.legislation.gov.uk/nisr/2015/324/article/3/b)
 
 [^c20844831]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/4/schedule/4) wholly in force at 12.4.2010; [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/4/schedule/4) not in force at Royal Assent see [s. 19](https://www.legislation.gov.uk/ukpga/2004/4/section/19); [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/4/schedule/4) in force at 14.7.2004 for specified purposes by [S.R. 2004/267](https://www.legislation.gov.uk/nisr/2004/267), [art. 2](https://www.legislation.gov.uk/nisr/2004/267/article/2); [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/4/schedule/4) in force at 13.6.2005 for further specified purposes by [S.R. 2005/282](https://www.legislation.gov.uk/nisr/2005/282), [art. 2](https://www.legislation.gov.uk/nisr/2005/282/article/2); [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/4/schedule/4) in force for remaining purposes at 12.4.2010 by [S.R. 2010/114](https://www.legislation.gov.uk/nisr/2010/114), [art. 2(c)](https://www.legislation.gov.uk/nisr/2010/114/article/2/c)

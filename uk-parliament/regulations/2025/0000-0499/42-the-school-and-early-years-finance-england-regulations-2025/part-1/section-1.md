@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, commencement, extent, application and interpretation[^key-614f3e035fe6f96a3fe8c59ae033b545]
+## 1. Citation, commencement, extent, application and interpretation[^c-614f3e035fe6f96a3fe8c59ae033b545]
 
 *Extent: E+W*
 
@@ -152,7 +152,7 @@ summary: ''
 
 ## Annotations
 
-[^key-614f3e035fe6f96a3fe8c59ae033b545]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/42/regulation/1) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-614f3e035fe6f96a3fe8c59ae033b545]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/42/regulation/1) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
 
 [^f00015]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 

@@ -22,16 +22,16 @@ summary: ''
 
 Article 24
 
-**1.**[^key-538d10c1350ab0ceaea53a128ecde5c4] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right or the imposition of a restrictive covenant as they apply as respects compensation on the compulsory purchase of land and interests in land.
+**1.**[^c-538d10c1350ab0ceaea53a128ecde5c4] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right or the imposition of a restrictive covenant as they apply as respects compensation on the compulsory purchase of land and interests in land.
 
-**2.**[^key-9221c38b3177c9035ae467e6f0ec3379] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00049] has effect subject to the modifications set out in sub-paragraph (2).
+**2.**[^c-9221c38b3177c9035ae467e6f0ec3379] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00049] has effect subject to the modifications set out in sub-paragraph (2).
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 (measure of compensation in case of severance) of the 1965 Act as substituted by paragraph 5(3)—
 
 - (a) for the words “land is acquired or taken from” substitute “a right or restrictive covenant over land is purchased from or imposed on”; and
 - (b) for the words “acquired or taken from him” substitute “over which the right is exercisable or the restrictive covenant enforceable”.
 
-**3.**[^key-86e9e4060ff156cfe314b8dce247a210] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
+**3.**[^c-86e9e4060ff156cfe314b8dce247a210] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
 
 (2) For section 5A(5A) (relevant valuation date) of the 1961 Act substitute—
 
@@ -45,14 +45,14 @@ Article 24
 
 .
 
-### 4. Application of Part 1 of the 1965 Act[^key-d576c3a3fac57cbb766f5ceae40685b8]
+### 4. Application of Part 1 of the 1965 Act[^c-d576c3a3fac57cbb766f5ceae40685b8]
 
-Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions of the 2008 Act) and modified by article 28 (modification of Part 1 of the 1965 Act) to the acquisition of land under article 22 (compulsory acquisition of land), applies to the compulsory acquisition of a right by the creation of a new right, or to the imposition of a restrictive covenant under article 24[^key-cabc668b342196d2e6b6117a13070fc8](1) or (2) (compulsory acquisition of rights and imposition of restrictive covenants)—
+Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions of the 2008 Act) and modified by article 28 (modification of Part 1 of the 1965 Act) to the acquisition of land under article 22 (compulsory acquisition of land), applies to the compulsory acquisition of a right by the creation of a new right, or to the imposition of a restrictive covenant under article 24[^c-cabc668b342196d2e6b6117a13070fc8](1) or (2) (compulsory acquisition of rights and imposition of restrictive covenants)—
 
 - (a) with the modifications specified in paragraph 5; and
 - (b) with such other modifications as may be necessary.
 
-**5.**[^key-edf6922765aca7ecfa0fe1bcf042237c] (1) The modifications referred to in paragraph 4(a) are as follows.
+**5.**[^c-edf6922765aca7ecfa0fe1bcf042237c] (1) The modifications referred to in paragraph 4(a) are as follows.
 
 (2) References to the 1965 Act to land are, in the appropriate contexts to be read (according to the requirements of the particular context) as referring to, or as including references to—
 
@@ -74,11 +74,11 @@ Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act,
 
 are so modified as to secure that, as against persons with interests in the land which are expressed to be overridden by the deed, the right which is to be compulsorily acquired or the restrictive covenant which is to be imposed is vested absolutely in the acquiring authority.
 
-(5) Section 11 (powers of entry) of the 1965 Act is so modified as to secure that, as from the date on which the acquiring authority has served notice to treat in respect of any right or restrictive covenant, as well as the notice of entry required by subsection (1) of that section (as it applies to compulsory acquisition under article 22[^key-5791eda5ebd5b92d72ab18ab225cb196]), it has power, exercisable in equivalent circumstances and subject to equivalent conditions, to enter for the purpose of exercising that right or enforcing that restrictive covenant (which is deemed for this purpose to have been created on the date of service of the notice); and sections 11A (powers of entry: further notices of entry), 11B (counter-notice requiring possession to be taken on a specified date), 12 (unauthorised entry) and 13 (refusal to give possession to acquiring authority) of the 1965 Act are modified accordingly.
+(5) Section 11 (powers of entry) of the 1965 Act is so modified as to secure that, as from the date on which the acquiring authority has served notice to treat in respect of any right or restrictive covenant, as well as the notice of entry required by subsection (1) of that section (as it applies to compulsory acquisition under article 22[^c-5791eda5ebd5b92d72ab18ab225cb196]), it has power, exercisable in equivalent circumstances and subject to equivalent conditions, to enter for the purpose of exercising that right or enforcing that restrictive covenant (which is deemed for this purpose to have been created on the date of service of the notice); and sections 11A (powers of entry: further notices of entry), 11B (counter-notice requiring possession to be taken on a specified date), 12 (unauthorised entry) and 13 (refusal to give possession to acquiring authority) of the 1965 Act are modified accordingly.
 
 (6) Section 20 (tenants at will, etc.) of the 1965 Act applies with the modifications necessary to secure that persons with such interests in land as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition under this Order of that land, but taking into account only the extent (if any) of such interference with such an interest as is actually caused, or likely to be caused, by the exercise of the right or the enforcement of the restrictive covenant in question.
 
-(7) Section 22 (interests omitted from purchase) of the 1965 Act [^key-567a281d7a57744b4b29d814d92a912c]... is so modified as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired or enforce the restrictive covenant imposed, subject to compliance with that section as respects compensation.
+(7) Section 22 (interests omitted from purchase) of the 1965 Act [^c-567a281d7a57744b4b29d814d92a912c]... is so modified as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired or enforce the restrictive covenant imposed, subject to compliance with that section as respects compensation.
 
 (8) For Schedule 2A to the 1965 Act substitute—
 
@@ -143,20 +143,20 @@ are so modified as to secure that, as against persons with interests in the land
 
 ## Annotations
 
-[^key-538d10c1350ab0ceaea53a128ecde5c4]: Commencement: Sch. 8 para. 1 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-538d10c1350ab0ceaea53a128ecde5c4]: Commencement: Sch. 8 para. 1 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-9221c38b3177c9035ae467e6f0ec3379]: Commencement: Sch. 8 para. 2 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-9221c38b3177c9035ae467e6f0ec3379]: Commencement: Sch. 8 para. 2 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
 [^f00049]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-86e9e4060ff156cfe314b8dce247a210]: Commencement: Sch. 8 para. 3 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-86e9e4060ff156cfe314b8dce247a210]: Commencement: Sch. 8 para. 3 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-d576c3a3fac57cbb766f5ceae40685b8]: Commencement: Sch. 8 para. 4 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-d576c3a3fac57cbb766f5ceae40685b8]: Commencement: Sch. 8 para. 4 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-cabc668b342196d2e6b6117a13070fc8]: Textual amendment: Words in [Sch. 8 para. 4](https://www.legislation.gov.uk/uksi/2025/468/schedule/8/paragraph/4) substituted (24.4.2026) by [The Rampion 2 Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/465)](https://www.legislation.gov.uk/uksi/2026/465), [art. 1](https://www.legislation.gov.uk/uksi/2026/465/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/465/schedule)
+[^c-cabc668b342196d2e6b6117a13070fc8]: Textual amendment: Words in [Sch. 8 para. 4](https://www.legislation.gov.uk/uksi/2025/468/schedule/8/paragraph/4) substituted (24.4.2026) by [The Rampion 2 Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/465)](https://www.legislation.gov.uk/uksi/2026/465), [art. 1](https://www.legislation.gov.uk/uksi/2026/465/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/465/schedule)
 
-[^key-edf6922765aca7ecfa0fe1bcf042237c]: Commencement: Sch. 8 para. 5 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-edf6922765aca7ecfa0fe1bcf042237c]: Commencement: Sch. 8 para. 5 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-5791eda5ebd5b92d72ab18ab225cb196]: Textual amendment: Words in [Sch. 8 para. 5(5)](https://www.legislation.gov.uk/uksi/2025/468/schedule/8/paragraph/5/5) substituted (24.4.2026) by [The Rampion 2 Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/465)](https://www.legislation.gov.uk/uksi/2026/465), [art. 1](https://www.legislation.gov.uk/uksi/2026/465/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/465/schedule)
+[^c-5791eda5ebd5b92d72ab18ab225cb196]: Textual amendment: Words in [Sch. 8 para. 5(5)](https://www.legislation.gov.uk/uksi/2025/468/schedule/8/paragraph/5/5) substituted (24.4.2026) by [The Rampion 2 Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/465)](https://www.legislation.gov.uk/uksi/2026/465), [art. 1](https://www.legislation.gov.uk/uksi/2026/465/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/465/schedule)
 
-[^key-567a281d7a57744b4b29d814d92a912c]: Textual amendment: Words in [Sch. 8 para. 5(7)](https://www.legislation.gov.uk/uksi/2025/468/schedule/8/paragraph/5/7) omitted (24.4.2026) by virtue of [The Rampion 2 Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/465)](https://www.legislation.gov.uk/uksi/2026/465), [art. 1](https://www.legislation.gov.uk/uksi/2026/465/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/465/schedule)
+[^c-567a281d7a57744b4b29d814d92a912c]: Textual amendment: Words in [Sch. 8 para. 5(7)](https://www.legislation.gov.uk/uksi/2025/468/schedule/8/paragraph/5/7) omitted (24.4.2026) by virtue of [The Rampion 2 Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/465)](https://www.legislation.gov.uk/uksi/2026/465), [art. 1](https://www.legislation.gov.uk/uksi/2026/465/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/465/schedule)

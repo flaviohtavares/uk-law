@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Duties to preserve evidence relating to complaints[^key-e3ef89da751ad3ea4ed837005e891c9a]
+## 11. Duties to preserve evidence relating to complaints[^c-e3ef89da751ad3ea4ed837005e891c9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ that Provost Marshal must take all such steps as appear to be appropriate for th
 
 ## Annotations
 
-[^key-e3ef89da751ad3ea4ed837005e891c9a]: Commencement: Reg. 11 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-e3ef89da751ad3ea4ed837005e891c9a]: Commencement: Reg. 11 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

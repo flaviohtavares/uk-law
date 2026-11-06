@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — Amendment of the REACH Enforcement Regulations 2008[^key-78e042153d37e870373aa2a072c6ae4d]
+## SCHEDULE 10 — Amendment of the REACH Enforcement Regulations 2008[^c-78e042153d37e870373aa2a072c6ae4d]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ Regulation 12
 
 ### PART 1 — Enforcement of requirements under transitional provisions relating to EU exit
 
-#### 1. Enforcement of requirements under transitional provisions relating to EU exit[^key-9ba13a8c03a7412ef4fb7715517f3ed7]
+#### 1. Enforcement of requirements under transitional provisions relating to EU exit[^c-9ba13a8c03a7412ef4fb7715517f3ed7]
 
 (1) In regulation 2(1)—
 
@@ -33,16 +33,16 @@ Regulation 12
 
   > “**a REACH table**” means—
   >
-  > - (a) the table in Schedule 1 to these Regulations, [^key-71cbd9ff149feda21f0213b33afec051]...
-  > - (b) the table in Schedule 1A to these Regulations, or[^key-d2995231648c71be4a8acd114c37bd7a]
-  > - (c)[^key-9990cdb8ec9376fa609236335a36b6ff] the table in Schedule 1B to these Regulations;
+  > - (a) the table in Schedule 1 to these Regulations, [^c-71cbd9ff149feda21f0213b33afec051]...
+  > - (b) the table in Schedule 1A to these Regulations, or[^c-d2995231648c71be4a8acd114c37bd7a]
+  > - (c)[^c-9990cdb8ec9376fa609236335a36b6ff] the table in Schedule 1B to these Regulations;
   >
   > “**the relevant REACH table**” means—
   >
   > - (a) in relation to a listed REACH provision, the REACH table in which that REACH provision is listed;
   > - (b) in relation to an enforcement duty, the REACH table under which that enforcement duty arises.
 
-(2)[^key-143f2ce65a636434f678791e5acaf21d] In regulation 3—
+(2)[^c-143f2ce65a636434f678791e5acaf21d] In regulation 3—
 
 - (a) for “REACH table”, in each place it occurs, substitute “relevant REACH table”.
 - (c) in paragraph 5—
@@ -75,9 +75,9 @@ Regulation 12
 > </tbody>
 > </table>
 >
-> [^key-19ac352929db4563d6639a12a770b114][^key-7728e6e9d4cd9e3a0136914f3806e4df][^key-19ac352929db4563d6639a12a770b114][^key-f9984393cbd4271fff20e7d2eef67925][^key-19ac352929db4563d6639a12a770b114][^key-f9984393cbd4271fff20e7d2eef67925][^key-f112dfa07df06a125283711bf85a0f2b][^key-19ac352929db4563d6639a12a770b114][^key-f9984393cbd4271fff20e7d2eef67925][^key-3659ac9a463f2ef9732f956828a74991][^key-19ac352929db4563d6639a12a770b114][^key-f9984393cbd4271fff20e7d2eef67925][^key-19ac352929db4563d6639a12a770b114][^key-f9984393cbd4271fff20e7d2eef67925][^key-19ac352929db4563d6639a12a770b114][^key-f9984393cbd4271fff20e7d2eef67925][^key-19ac352929db4563d6639a12a770b114][^key-f9984393cbd4271fff20e7d2eef67925][^key-19ac352929db4563d6639a12a770b114][^key-f9984393cbd4271fff20e7d2eef67925][^key-19ac352929db4563d6639a12a770b114][^key-f9984393cbd4271fff20e7d2eef67925]
+> [^c-19ac352929db4563d6639a12a770b114][^c-7728e6e9d4cd9e3a0136914f3806e4df][^c-19ac352929db4563d6639a12a770b114][^c-f9984393cbd4271fff20e7d2eef67925][^c-19ac352929db4563d6639a12a770b114][^c-f9984393cbd4271fff20e7d2eef67925][^c-f112dfa07df06a125283711bf85a0f2b][^c-19ac352929db4563d6639a12a770b114][^c-f9984393cbd4271fff20e7d2eef67925][^c-3659ac9a463f2ef9732f956828a74991][^c-19ac352929db4563d6639a12a770b114][^c-f9984393cbd4271fff20e7d2eef67925][^c-19ac352929db4563d6639a12a770b114][^c-f9984393cbd4271fff20e7d2eef67925][^c-19ac352929db4563d6639a12a770b114][^c-f9984393cbd4271fff20e7d2eef67925][^c-19ac352929db4563d6639a12a770b114][^c-f9984393cbd4271fff20e7d2eef67925][^c-19ac352929db4563d6639a12a770b114][^c-f9984393cbd4271fff20e7d2eef67925][^c-19ac352929db4563d6639a12a770b114][^c-f9984393cbd4271fff20e7d2eef67925]
 
-(6)[^key-fc3feb4eed710f13266218270b73421c] After Schedule 1A insert—
+(6)[^c-fc3feb4eed710f13266218270b73421c] After Schedule 1A insert—
 
 > **SCHEDULE 1B**
 >
@@ -99,7 +99,7 @@ Regulation 12
 
 ### PART 2 — Other amendments
 
-**1A.**[^M_I_767927a7-83a7-4da1-811a-417e8b076b8e][^key-3fd4aa986b08fadb3b414ed5561ce8c2] After regulation 1 insert—
+**1A.**[^M_I_767927a7-83a7-4da1-811a-417e8b076b8e][^c-3fd4aa986b08fadb3b414ed5561ce8c2] After regulation 1 insert—
 
 > **1A. Application**
 >
@@ -110,9 +110,9 @@ Regulation 12
 
 .
 
-**2.**[^key-c092f4a3ac7faeb38cdc8e8e69993cf7] In regulation 2(2), omit the definition of “competent authority”.
+**2.**[^c-c092f4a3ac7faeb38cdc8e8e69993cf7] In regulation 2(2), omit the definition of “competent authority”.
 
-**3.**[^key-a5742d3ac7d0c80b10364e443b31ce90] (1) Regulation 4 is amended as follows.
+**3.**[^c-a5742d3ac7d0c80b10364e443b31ce90] (1) Regulation 4 is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -127,19 +127,19 @@ Regulation 12
 
 (3) In paragraph (2)(b), omit “in the European Union”.
 
-**4.**[^key-cf72620e203a34b88f64fc23616ea3ae] In regulation 7(1), omit subparagraph (b) (and the “or” preceding it).
+**4.**[^c-cf72620e203a34b88f64fc23616ea3ae] In regulation 7(1), omit subparagraph (b) (and the “or” preceding it).
 
-**5.**[^key-3e167c6cecae8a61bab408c62c515951] Omit regulation 24(2).
+**5.**[^c-3e167c6cecae8a61bab408c62c515951] Omit regulation 24(2).
 
-**6.**[^key-1aeb4004e9325d712f58659472913fb6] (1) Schedule 1 (Table of REACH provisions) is amended as follows.
+**6.**[^c-1aeb4004e9325d712f58659472913fb6] (1) Schedule 1 (Table of REACH provisions) is amended as follows.
 
 (2) In the second column, for “European Chemicals Agency”, in each place it occurs, substitute “ Agency ”.
 
-(2A)[^key-7cf615cc21026a9b5caaed6e4578f846] Omit the fifth column.
+(2A)[^c-7cf615cc21026a9b5caaed6e4578f846] Omit the fifth column.
 
 (2B) In the sixth column, omit “The Health and Safety Executive for Northern Ireland.” wherever it occurs.
 
-(3) In the entry relating to Article 8(2) of REACH, in the second column, for “community” substitute “GB[^key-ee3241baf1c43b809c00d99a354f00b0]”.
+(3) In the entry relating to Article 8(2) of REACH, in the second column, for “community” substitute “GB[^c-ee3241baf1c43b809c00d99a354f00b0]”.
 
 (4) In the entry relating to Article 26(1) of REACH, in the second column, omit the words from “of a non-phase in” to “pre-registered,”.
 
@@ -157,7 +157,7 @@ Regulation 12
 
 (11) In the entries relating to Articles 46(2) and 49(a), in the second column, for “competent authority” substitute “ Agency ”.
 
-**7.**[^key-b92b954e16a896b124df04ba6e1c8499] In Schedule 4, in paragraph 7—
+**7.**[^c-b92b954e16a896b124df04ba6e1c8499] In Schedule 4, in paragraph 7—
 
 - (a) before subparagraph (a) insert—
 
@@ -169,46 +169,46 @@ Regulation 12
 
 ## Annotations
 
-[^key-78e042153d37e870373aa2a072c6ae4d]: Textual amendment: Word in Sch. 10 heading substituted (31.12.2020 immediately before [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [Pt. 2](https://www.legislation.gov.uk/uksi/2020/1577/part/2) comes into force) by [The REACH etc. (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/858)](https://www.legislation.gov.uk/uksi/2019/858), [regs. 1](https://www.legislation.gov.uk/uksi/2019/858/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/858/regulation/5/2) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
+[^c-78e042153d37e870373aa2a072c6ae4d]: Textual amendment: Word in Sch. 10 heading substituted (31.12.2020 immediately before [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [Pt. 2](https://www.legislation.gov.uk/uksi/2020/1577/part/2) comes into force) by [The REACH etc. (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/858)](https://www.legislation.gov.uk/uksi/2019/858), [regs. 1](https://www.legislation.gov.uk/uksi/2019/858/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/858/regulation/5/2) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
 
-[^key-9ba13a8c03a7412ef4fb7715517f3ed7]: Commencement: Sch. 10 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-9ba13a8c03a7412ef4fb7715517f3ed7]: Commencement: Sch. 10 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-71cbd9ff149feda21f0213b33afec051]: Textual amendment: Word in Sch. 10 para. 1(1)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(2)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/2/a)
+[^c-71cbd9ff149feda21f0213b33afec051]: Textual amendment: Word in Sch. 10 para. 1(1)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(2)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/2/a)
 
-[^key-d2995231648c71be4a8acd114c37bd7a]: Textual amendment: Words in Sch. 10 para. 1(1)(b) substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(2)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/2/b)
+[^c-d2995231648c71be4a8acd114c37bd7a]: Textual amendment: Words in Sch. 10 para. 1(1)(b) substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(2)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/2/b)
 
-[^key-9990cdb8ec9376fa609236335a36b6ff]: Textual amendment: Words in Sch. 10 para. 1(1)(b) inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(2)(c)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/2/c)
+[^c-9990cdb8ec9376fa609236335a36b6ff]: Textual amendment: Words in Sch. 10 para. 1(1)(b) inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(2)(c)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/2/c)
 
-[^key-143f2ce65a636434f678791e5acaf21d]: Textual amendment: Sch. 10 para. 1(2) substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(3)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/3)
+[^c-143f2ce65a636434f678791e5acaf21d]: Textual amendment: Sch. 10 para. 1(2) substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(3)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/3)
 
-[^key-19ac352929db4563d6639a12a770b114]: Textual amendment: Words in Sch. 10 para. 1(5) omitted (31.12.2020 immediately before IP completion day) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(4)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/4/a)
+[^c-19ac352929db4563d6639a12a770b114]: Textual amendment: Words in Sch. 10 para. 1(5) omitted (31.12.2020 immediately before IP completion day) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(4)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/4/a)
 
-[^key-7728e6e9d4cd9e3a0136914f3806e4df]: Textual amendment: Word in Sch. 10 para. 1(5) substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(4)(c)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/4/c)
+[^c-7728e6e9d4cd9e3a0136914f3806e4df]: Textual amendment: Word in Sch. 10 para. 1(5) substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(4)(c)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/4/c)
 
-[^key-f9984393cbd4271fff20e7d2eef67925]: Textual amendment: Words in Sch. 10 para. 1(5) omitted (31.12.2020 immediately before IP completion day) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(4)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/4/b)
+[^c-f9984393cbd4271fff20e7d2eef67925]: Textual amendment: Words in Sch. 10 para. 1(5) omitted (31.12.2020 immediately before IP completion day) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(4)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/4/b)
 
-[^key-f112dfa07df06a125283711bf85a0f2b]: Textual amendment: Words in Sch. 10 substituted (31.12.2020 immediately before [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [Pt. 2](https://www.legislation.gov.uk/uksi/2020/1577/part/2) comes into force) by [The REACH etc. (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/858)](https://www.legislation.gov.uk/uksi/2019/858), [regs. 1](https://www.legislation.gov.uk/uksi/2019/858/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/858/regulation/5/3) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
+[^c-f112dfa07df06a125283711bf85a0f2b]: Textual amendment: Words in Sch. 10 substituted (31.12.2020 immediately before [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [Pt. 2](https://www.legislation.gov.uk/uksi/2020/1577/part/2) comes into force) by [The REACH etc. (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/858)](https://www.legislation.gov.uk/uksi/2019/858), [regs. 1](https://www.legislation.gov.uk/uksi/2019/858/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/858/regulation/5/3) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
 
-[^key-3659ac9a463f2ef9732f956828a74991]: Textual amendment: Word in Sch. 10 para. 1(5) substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(4)(d)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/4/d)
+[^c-3659ac9a463f2ef9732f956828a74991]: Textual amendment: Word in Sch. 10 para. 1(5) substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(4)(d)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/4/d)
 
-[^key-fc3feb4eed710f13266218270b73421c]: Textual amendment: Sch. 10 para. 1(6) inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(5)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/5)
+[^c-fc3feb4eed710f13266218270b73421c]: Textual amendment: Sch. 10 para. 1(6) inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(5)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/5)
 
 [^M_I_767927a7-83a7-4da1-811a-417e8b076b8e]: Commencement: Sch. 10 para. 1A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-3fd4aa986b08fadb3b414ed5561ce8c2]: Textual amendment: Sch. 10 para. 1A inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(6)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/6)
+[^c-3fd4aa986b08fadb3b414ed5561ce8c2]: Textual amendment: Sch. 10 para. 1A inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(6)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/6)
 
-[^key-c092f4a3ac7faeb38cdc8e8e69993cf7]: Commencement: Sch. 10 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-c092f4a3ac7faeb38cdc8e8e69993cf7]: Commencement: Sch. 10 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-a5742d3ac7d0c80b10364e443b31ce90]: Commencement: Sch. 10 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a5742d3ac7d0c80b10364e443b31ce90]: Commencement: Sch. 10 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-cf72620e203a34b88f64fc23616ea3ae]: Commencement: Sch. 10 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-cf72620e203a34b88f64fc23616ea3ae]: Commencement: Sch. 10 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-3e167c6cecae8a61bab408c62c515951]: Commencement: Sch. 10 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-3e167c6cecae8a61bab408c62c515951]: Commencement: Sch. 10 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-1aeb4004e9325d712f58659472913fb6]: Commencement: Sch. 10 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-1aeb4004e9325d712f58659472913fb6]: Commencement: Sch. 10 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-7cf615cc21026a9b5caaed6e4578f846]: Textual amendment: Sch. 10 para. 6(2A)(2B) inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(7)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/7/a)
+[^c-7cf615cc21026a9b5caaed6e4578f846]: Textual amendment: Sch. 10 para. 6(2A)(2B) inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(7)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/7/a)
 
-[^key-ee3241baf1c43b809c00d99a354f00b0]: Textual amendment: Word in Sch. 10 para. 6(3) substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(7)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/7/b)
+[^c-ee3241baf1c43b809c00d99a354f00b0]: Textual amendment: Word in Sch. 10 para. 6(3) substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(7)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/7/b)
 
-[^key-b92b954e16a896b124df04ba6e1c8499]: Commencement: Sch. 10 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-b92b954e16a896b124df04ba6e1c8499]: Commencement: Sch. 10 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

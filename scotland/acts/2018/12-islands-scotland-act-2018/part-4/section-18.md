@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Constituency of Na h-Eileanan an Iar[^key-06a636d049942741447646cc63792a29]
+## 18. Constituency of Na h-Eileanan an Iar[^c-06a636d049942741447646cc63792a29]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06a636d049942741447646cc63792a29]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2018/12/section/18) in force at 4.10.2018 by [S.S.I. 2018/282](https://www.legislation.gov.uk/ssi/2018/282), [reg. 2](https://www.legislation.gov.uk/ssi/2018/282/regulation/2)
+[^c-06a636d049942741447646cc63792a29]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2018/12/section/18) in force at 4.10.2018 by [S.S.I. 2018/282](https://www.legislation.gov.uk/ssi/2018/282), [reg. 2](https://www.legislation.gov.uk/ssi/2018/282/regulation/2)

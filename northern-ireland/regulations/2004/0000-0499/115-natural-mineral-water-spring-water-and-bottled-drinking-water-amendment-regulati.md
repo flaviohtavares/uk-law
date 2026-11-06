@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^key-23a32cf52ae0396bcfde286df2dfcb72]
+Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^c-23a32cf52ae0396bcfde286df2dfcb72]
 
 Made
 
@@ -47,47 +47,47 @@ regulations 5, 8(2), 11(a) and 12(2)
 
 1st July 2004
 
-[^key-23a32cf52ae0396bcfde286df2dfcb72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23a32cf52ae0396bcfde286df2dfcb72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-23a32cf52ae0396bcfde286df2dfcb72]
+## 1. Citation and commencement[^c-23a32cf52ae0396bcfde286df2dfcb72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations (Northern Ireland) 1999[^key-23a32cf52ae0396bcfde286df2dfcb72]
+## 2. Amendments to the Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations (Northern Ireland) 1999[^c-23a32cf52ae0396bcfde286df2dfcb72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-23a32cf52ae0396bcfde286df2dfcb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-23a32cf52ae0396bcfde286df2dfcb72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23a32cf52ae0396bcfde286df2dfcb72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SCHEDULES 5, 6 AND 7 TO BE ADDED TO THE NATURAL MINERAL WATER, SPRING WATER AND BOTTLED DRINKING WATER REGULATIONS (NORTHERN IRELAND) 1999[^key-23a32cf52ae0396bcfde286df2dfcb72]
+## SCHEDULE — SCHEDULES 5, 6 AND 7 TO BE ADDED TO THE NATURAL MINERAL WATER, SPRING WATER AND BOTTLED DRINKING WATER REGULATIONS (NORTHERN IRELAND) 1999[^c-23a32cf52ae0396bcfde286df2dfcb72]
 
 Regulation 14
 
@@ -95,8 +95,8 @@ Regulation 14
 
 **May not be in force at this date. Check the source.**
 
-[^key-23a32cf52ae0396bcfde286df2dfcb72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23a32cf52ae0396bcfde286df2dfcb72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-23a32cf52ae0396bcfde286df2dfcb72]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/115) revoked (31.10.2007) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/420)](https://www.legislation.gov.uk/nisr/2007/420) [reg. 1](https://www.legislation.gov.uk/nisr/2007/420/regulation/1)
+[^c-23a32cf52ae0396bcfde286df2dfcb72]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/115) revoked (31.10.2007) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/420)](https://www.legislation.gov.uk/nisr/2007/420) [reg. 1](https://www.legislation.gov.uk/nisr/2007/420/regulation/1)

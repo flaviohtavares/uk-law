@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Minor definitions and index[^key-1ad25f91a0dcecb29b0f2d1a4165d7b3]
+## 72. Minor definitions and index[^c-1ad25f91a0dcecb29b0f2d1a4165d7b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 - “**document**” means anything in which information is recorded;
 - “**enforcement order**” has the meaning given in section 33(1);
 - “**international obligation of the United Kingdom**” includes—
-  - (a) an assimilated[^key-c2a9da3b32d8df0279a717c3a0517e0f][^key-5e7de3ac0b995941295a0938b97a4c85] obligation, and
+  - (a) an assimilated[^c-c2a9da3b32d8df0279a717c3a0517e0f][^c-5e7de3ac0b995941295a0938b97a4c85] obligation, and
   - (b) an obligation that arises or may arise under an international agreement or arrangement to which the United Kingdom is a party;
 - “**land**” includes land covered by water;
 - “**licence**” means a licence under Chapter 1 of this Part and includes a licence which has been granted under section 15 but has not come into force;
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1ad25f91a0dcecb29b0f2d1a4165d7b3]: Commencement: S. 72 in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-1ad25f91a0dcecb29b0f2d1a4165d7b3]: Commencement: S. 72 in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-c2a9da3b32d8df0279a717c3a0517e0f]: Textual amendment: Words in s. 72(1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 76(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/76/2)
+[^c-c2a9da3b32d8df0279a717c3a0517e0f]: Textual amendment: Words in s. 72(1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 76(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/76/2)
 
-[^key-5e7de3ac0b995941295a0938b97a4c85]: Textual amendment: Words in s. 72(1) substituted (31.1.2020) by [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2019/687/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5e7de3ac0b995941295a0938b97a4c85]: Textual amendment: Words in s. 72(1) substituted (31.1.2020) by [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2019/687/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

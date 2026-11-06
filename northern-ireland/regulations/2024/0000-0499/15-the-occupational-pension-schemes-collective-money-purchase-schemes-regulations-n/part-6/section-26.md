@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Implementation strategy: approval[^key-4d2938bb68c0efe56b7f8165bfb797cc]
+## 26. Implementation strategy: approval[^c-4d2938bb68c0efe56b7f8165bfb797cc]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Where the trustees of a collective money purchase scheme are required to submit 
 
 ## Annotations
 
-[^key-4d2938bb68c0efe56b7f8165bfb797cc]: Commencement: Reg. 26 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-4d2938bb68c0efe56b7f8165bfb797cc]: Commencement: Reg. 26 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)

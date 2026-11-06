@@ -39,10 +39,10 @@ then if the authority estimates that the total cost of complying with both (or a
 
 (5) Before making the regulations, the Scottish Ministers are to consult the Commissioner.
 
-(6) References in this section to the cost of complying with a request are not to be construed as including any reference to costs incurred in fulfilling any such duty under or by virtue of the Equality Act 2010[^key-3eb16ef842e10df5a63a7eaba7b98aa1] as is mentioned in section 11(5).
+(6) References in this section to the cost of complying with a request are not to be construed as including any reference to costs incurred in fulfilling any such duty under or by virtue of the Equality Act 2010[^c-3eb16ef842e10df5a63a7eaba7b98aa1] as is mentioned in section 11(5).
 
 ## Annotations
 
 [^c20299581]: Commencement: S. 12 wholly in force at 1.1.2005; s. 12 not in force at Royal Assent, see s. 75(1); s. 12 in force for certain purposes at 30.4.2004 and wholly in force at 1.1.2005 by [S.S.I. 2004/203](https://www.legislation.gov.uk/ssi/2004/203), [art. 3](https://www.legislation.gov.uk/ssi/2004/203/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2004/203/schedule)
 
-[^key-3eb16ef842e10df5a63a7eaba7b98aa1]: Textual amendment: Words in s. 12(6) substituted by 2010 c. 15 Sch. 26 Pt. 2 para. 104 (as inserted) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6) (see S.I. 2010/2317, art. 2)
+[^c-3eb16ef842e10df5a63a7eaba7b98aa1]: Textual amendment: Words in s. 12(6) substituted by 2010 c. 15 Sch. 26 Pt. 2 para. 104 (as inserted) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6) (see S.I. 2010/2317, art. 2)

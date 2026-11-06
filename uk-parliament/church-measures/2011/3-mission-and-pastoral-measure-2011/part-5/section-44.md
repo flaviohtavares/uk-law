@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 44. Use of certain churchyards and burial grounds[^key-686a9bf79c76b2a0f1b661465957465c]
+## 44. Use of certain churchyards and burial grounds[^c-686a9bf79c76b2a0f1b661465957465c]
 
 *Extent: E*
 
@@ -43,7 +43,7 @@ and that section shall otherwise apply.
 
 (6) In this section “**burial ground**” means any land set apart and consecrated for the purpose of burials whether or not burials have taken place in the land.
 
-(7)[^key-69cbecc11adbfd05fd096a9695e735d5] In this section “**relative**”, in relation to a person, means—
+(7)[^c-69cbecc11adbfd05fd096a9695e735d5] In this section “**relative**”, in relation to a person, means—
 
 - (a) a spouse or civil partner, parent or grandparent or child or grandchild of the person, or
 - (b) a person who is, or is the child of, a brother, sister, uncle or aunt of the person.
@@ -52,6 +52,6 @@ and that section shall otherwise apply.
 
 ## Annotations
 
-[^key-686a9bf79c76b2a0f1b661465957465c]: Commencement: S. 44 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-686a9bf79c76b2a0f1b661465957465c]: Commencement: S. 44 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-69cbecc11adbfd05fd096a9695e735d5]: Textual amendment: S. 44(7)(8) inserted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 6(9)](https://www.legislation.gov.uk/ukcm/2020/1/section/6/9), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-69cbecc11adbfd05fd096a9695e735d5]: Textual amendment: S. 44(7)(8) inserted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 6(9)](https://www.legislation.gov.uk/ukcm/2020/1/section/6/9), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)

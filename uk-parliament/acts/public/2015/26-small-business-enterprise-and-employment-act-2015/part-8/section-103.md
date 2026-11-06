@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Reduction in notice periods etc for striking off companies[^key-8b8b0680766522c00672649d10cc7b4c]
+## 103. Reduction in notice periods etc for striking off companies[^c-8b8b0680766522c00672649d10cc7b4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b8b0680766522c00672649d10cc7b4c]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2015/26/section/103) in force at 10.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/4/c)
+[^c-8b8b0680766522c00672649d10cc7b4c]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2015/26/section/103) in force at 10.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/4/c)

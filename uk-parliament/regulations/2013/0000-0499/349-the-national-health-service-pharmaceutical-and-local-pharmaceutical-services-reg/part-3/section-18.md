@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Unforeseen benefits applications: additional matters to which NHS England must have regard[^key-fedf3951d93bcf656ad03378f887d7d5]
+## 18. Unforeseen benefits applications: additional matters to which NHS England must have regard[^c-fedf3951d93bcf656ad03378f887d7d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ in determining whether it is satisfied as mentioned in section 129(2A) of the 20
   - (ii) the arrangements NHS England has in place for the provision of pharmaceutical services in that area;
 - (b) whether, notwithstanding that the improvements or better access were not included in the relevant pharmaceutical needs assessment, it is satisfied that, having regard in particular to the desirability of—
   - (i) there being a reasonable choice with regard to obtaining pharmaceutical services in the area of the relevant HWB (taking into account also NHS England’s duties under sections 13I and 13P of the 2006 Act [^c21646711] (duty as to patient choice and duty as respects variation in provision of health services)),
-  - (ii) people who share a protected characteristic having access to services that meet specific needs for pharmaceutical services that, in the area of the relevant HWB, are difficult for them to access (taking into account also NHS England’s duties under section 13G of the 2006 Act [^c21646721] (duty as to reducing inequalities)), or[^key-ec1e7fd3d61060e3133c29897c338ecd]
+  - (ii) people who share a protected characteristic having access to services that meet specific needs for pharmaceutical services that, in the area of the relevant HWB, are difficult for them to access (taking into account also NHS England’s duties under section 13G of the 2006 Act [^c21646721] (duty as to reducing inequalities)), or[^c-ec1e7fd3d61060e3133c29897c338ecd]
   - (iii) there being innovative approaches taken with regard to the delivery of pharmaceutical services (taking into account also NHS England’s duties under section 13K of the 2006 Act [^c21646731] (duty to promote innovation)),
 
   granting the application would confer significant benefits on persons in the area of the relevant HWB which were not foreseen when the relevant pharmaceutical needs assessment was published;
@@ -42,7 +42,7 @@ in determining whether it is satisfied as mentioned in section 129(2A) of the 20
 - (d) whether it is satisfied that another application offering to secure the improvements or better access has been submitted to it, and it would be desirable to consider, at the same time as the applicant's application, that other application;
 - (e) whether it is satisfied that an appeal relating to another application offering to secure the improvements or better access is pending, and it would be desirable to await the outcome of that appeal before considering the applicant's application;
 - (f) whether the application needs to be deferred or refused by virtue of any provision of Part 5 to 7.
-- (g)[^key-5667d162752b58e6b7072d1e212ec68d] whether it is satisfied that the application presupposes that a gap in pharmaceutical services provision has been or is to be created—
+- (g)[^c-5667d162752b58e6b7072d1e212ec68d] whether it is satisfied that the application presupposes that a gap in pharmaceutical services provision has been or is to be created—
   - (i) by the removal of chemist premises from a pharmaceutical list as a consequence of the grant of a consolidation application, and
   - (ii) since the last revision of the relevant HWB’s pharmaceutical needs assessment other than by way of a supplementary statement.
 
@@ -50,7 +50,7 @@ in determining whether it is satisfied as mentioned in section 129(2A) of the 20
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21646701]: Marginal citation: Section 129(2A) was inserted by the [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [section 26(3)](https://www.legislation.gov.uk/ukpga/2009/21/section/26/3), and has been amended by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [section 207(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/207/4), and Schedule 4, paragraph 66(5).
 
@@ -58,8 +58,8 @@ in determining whether it is satisfied as mentioned in section 129(2A) of the 20
 
 [^c21646721]: Marginal citation: Sections 13G was inserted by the Health and Social Care Act 2012, section 23(1).
 
-[^key-ec1e7fd3d61060e3133c29897c338ecd]: Textual amendment: Word in reg. 18(2)(b)(ii) substituted (1.4.2014) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2014 (S.I. 2014/417)](https://www.legislation.gov.uk/uksi/2014/417), [regs. 1](https://www.legislation.gov.uk/uksi/2014/417/regulation/1), [6](https://www.legislation.gov.uk/uksi/2014/417/regulation/6)
+[^c-ec1e7fd3d61060e3133c29897c338ecd]: Textual amendment: Word in reg. 18(2)(b)(ii) substituted (1.4.2014) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2014 (S.I. 2014/417)](https://www.legislation.gov.uk/uksi/2014/417), [regs. 1](https://www.legislation.gov.uk/uksi/2014/417/regulation/1), [6](https://www.legislation.gov.uk/uksi/2014/417/regulation/6)
 
 [^c21646731]: Marginal citation: Sections 13K was inserted by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [section 23(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/23/1).
 
-[^key-5667d162752b58e6b7072d1e212ec68d]: Textual amendment: [Reg. 18(2)(g)](https://www.legislation.gov.uk/uksi/2013/349/regulation/18/2/g) inserted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2016/1077/regulation/5)
+[^c-5667d162752b58e6b7072d1e212ec68d]: Textual amendment: [Reg. 18(2)(g)](https://www.legislation.gov.uk/uksi/2013/349/regulation/18/2/g) inserted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2016/1077/regulation/5)

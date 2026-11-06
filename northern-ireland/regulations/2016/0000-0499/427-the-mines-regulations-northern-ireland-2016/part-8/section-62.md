@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Geotechnical assessments[^key-c35d74e4f9e40124d1d39d8c95618468]
+## 62. Geotechnical assessments[^c-c35d74e4f9e40124d1d39d8c95618468]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c35d74e4f9e40124d1d39d8c95618468]: Commencement: [Reg. 62](https://www.legislation.gov.uk/nisr/2016/427/regulation/62) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-c35d74e4f9e40124d1d39d8c95618468]: Commencement: [Reg. 62](https://www.legislation.gov.uk/nisr/2016/427/regulation/62) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

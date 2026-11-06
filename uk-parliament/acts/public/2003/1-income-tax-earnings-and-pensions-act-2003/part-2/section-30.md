@@ -26,8 +26,8 @@ summary: ''
 
 (3) If that year falls after the last tax year in which the employment was held, the earnings are to be treated as general earnings for that last tax year.
 
-(4) This section does not apply in connection with determining the year for which amounts are to be treated as earnings under Chapters 2 to 10[^key-6935d79c636f8b7d1f5bef4cfa231ebd] of Part 3 (the benefits code).
+(4) This section does not apply in connection with determining the year for which amounts are to be treated as earnings under Chapters 2 to 10[^c-6935d79c636f8b7d1f5bef4cfa231ebd] of Part 3 (the benefits code).
 
 ## Annotations
 
-[^key-6935d79c636f8b7d1f5bef4cfa231ebd]: Textual amendment: Word in s. 30(4) substituted (with effect in accordance with s. 13(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2015/11/schedule/1/paragraph/4)
+[^c-6935d79c636f8b7d1f5bef4cfa231ebd]: Textual amendment: Word in s. 30(4) substituted (with effect in accordance with s. 13(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2015/11/schedule/1/paragraph/4)

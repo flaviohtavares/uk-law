@@ -37,13 +37,13 @@ Made
 
 The Secretary of State makes the following Order in exercise of the powers conferred by section 115(7) and (9) of, and Part 4 of Schedule 1 to, the Deregulation Act 2015[^f00001]:
 
-## 1. Citation and interpretation[^key-e45c86c09ed449116a4ad6440a5e446a]
+## 1. Citation and interpretation[^c-e45c86c09ed449116a4ad6440a5e446a]
 
 (1) This Order may be cited as the Deregulation Act 2015 (Commencement No. 1 and Transitional and Saving Provisions) Order 2015.
 
 (2) In this Order, “the Act” means the Deregulation Act 2015.
 
-## 2. Provisions coming into force on 1st April 2015[^key-b0492ca8a55a9b725c1ff01d1f70819f]
+## 2. Provisions coming into force on 1st April 2015[^c-b0492ca8a55a9b725c1ff01d1f70819f]
 
 The day appointed for the coming into force of the following provisions of the Act is 1st April 2015—
 
@@ -51,7 +51,7 @@ The day appointed for the coming into force of the following provisions of the A
 - (b) section 53 (civil penalties for parking contraventions: enforcement) so far as not already in force[^f00002];
 - (c) section 69 (personal licences: no requirement to renew) and Schedule 18 (amendments consequential on section 69).
 
-## 3. Provisions coming into force on 6th April 2015[^key-1ddc077f3549ab2ca78ec0de3306644d]
+## 3. Provisions coming into force on 6th April 2015[^c-1ddc077f3549ab2ca78ec0de3306644d]
 
 The day appointed for the coming into force of the following provisions of the Act is 6th April 2015—
 
@@ -59,15 +59,15 @@ The day appointed for the coming into force of the following provisions of the A
 - (b) section 63 (child trust funds: safeguards for children’s interests) so far as not already in force[^f00004]; and
 - (c) section 76 (exhibition of films in community premises).
 
-## 4. Provisions coming into force on 10th April 2015[^key-50716c2edb0c7922a94f1763dab87b81]
+## 4. Provisions coming into force on 10th April 2015[^c-50716c2edb0c7922a94f1763dab87b81]
 
 The day appointed for the coming into force of section 52(a) (reduction of burdens relating to enforcement of transport legislation) and Part 1 of Schedule 11 (drink and drug driving offences) is 10th April 2015.
 
-## 5. Provisions coming into force on 20th April 2015[^key-3dab456a648deba8ab9052665a921900]
+## 5. Provisions coming into force on 20th April 2015[^c-3dab456a648deba8ab9052665a921900]
 
 The day appointed for the coming into force, so far as not already in force[^f00005], of section 90 of and Schedule 21 to the Act, (poisons and explosive precursors) is 20th April 2015, but only for the purposes of enabling applications for licenses under section 4A of the Poisons Act 1972 to be made, considered and determined, and of enabling such licenses to be issued, before 26th May 2015.
 
-## 6. Provisions coming into force on 26th May 2015[^key-298a81e19b74ccf2615849487934550c]
+## 6. Provisions coming into force on 26th May 2015[^c-298a81e19b74ccf2615849487934550c]
 
 The day appointed for the coming into force of the following provisions of the Act is 26th May 2015—
 
@@ -90,25 +90,25 @@ The day appointed for the coming into force of the following provisions of the A
 - (q) section 93 (reduction in regulation of providers of social work services);
 - (r) section 96 (NHS foundation trusts and NHS trusts; acquisitions and dissolutions etc).
 
-## 7. Provisions coming into force on 8th June 2015[^key-187a3796d6153eb0d7e9a789c5a64a0e]
+## 7. Provisions coming into force on 8th June 2015[^c-187a3796d6153eb0d7e9a789c5a64a0e]
 
 The day appointed for the coming into force of the following provisions of the Act is 8th June 2015—
 
 - (a) section 8(1), (3) and (4), Part 2 of Schedule 2, so far as not already in force[^f00008], and paragraphs 30, 32 and 33 of Part 3 of Schedule 2 (driving instructors);
 - (b) section 51(f) (reduction of burdens relating to the use of roads and railways) and Part 6 (testing of vehicles) of Schedule 10 (regulation of the use of roads and railways) so far as not already in force[^f00009].
 
-## 8. Provisions coming into force on 15th June 2015[^key-428ec3f5ed8f7d35fbbac7dd91363ec6]
+## 8. Provisions coming into force on 15th June 2015[^c-428ec3f5ed8f7d35fbbac7dd91363ec6]
 
 The day appointed for the coming into force, so far as not already in force[^f00010], of section 58 (household waste: de-criminalisation) and Schedule 12 (household waste: London) is 15th June 2015.
 
-## 9. Provisions coming into force on 30th June 2015[^key-f7eff340b1456af19b43d51d7c348cfc]
+## 9. Provisions coming into force on 30th June 2015[^c-f7eff340b1456af19b43d51d7c348cfc]
 
 The day appointed for the coming into force of the following provisions of the Act is 30th June 2015—
 
 - (a) section 9 (motor insurers) and Schedule 3 (motor insurance industry: certificates of insurance);
 - (b) section 51(b) (reduction of burdens relating to the use of roads and railways) and Part 2 of Schedule 10 (permit schemes: removal of requirement for Secretary of State approval), so far as not already in force [^f00011].
 
-## 10. Provisions coming into force on 1st July 2015[^key-32a10711302c05eeb43731fad544890f]
+## 10. Provisions coming into force on 1st July 2015[^c-32a10711302c05eeb43731fad544890f]
 
 The day appointed for the coming into force of the following provisions of the Act is 1st July 2015—
 
@@ -116,7 +116,7 @@ The day appointed for the coming into force of the following provisions of the A
 - (b) section 38 (compliance with prescribed legal requirements), so far as is necessary for enabling the exercise on or after that day of any power to make provision by regulations made by statutory instrument;
 - (c) section 39 (requirement for landlord to provide prescribed information), so far as is necessary for enabling the exercise on or after that day of any power to make provision by regulations made by statutory instrument.
 
-## 11. Provisions coming into force on 1st October 2015[^key-ecf86670b5d479f60009071592d0a4ac]
+## 11. Provisions coming into force on 1st October 2015[^c-ecf86670b5d479f60009071592d0a4ac]
 
 The day appointed for the coming into force of the following provisions of the Act is 1st October 2015—
 
@@ -137,7 +137,7 @@ The day appointed for the coming into force of the following provisions of the A
 - (o) section 49 (removal of restrictions on provision of passenger rail services) and Schedule 8 (provision of passenger rail services), so far as not already in force[^f00014];
 - (p) Section 51(g) (reduction of burdens relating to the use of roads and railways) and Part 7 of Schedule 10 (rail vehicle accessibility regulations: exemption orders).
 
-## 12. Saving provision – sections 6 and 7[^key-a4401afac20e6826e45f6a2351032a84]
+## 12. Saving provision – sections 6 and 7[^c-a4401afac20e6826e45f6a2351032a84]
 
 (1) The coming into force of sections 6(1) to (10) and 7(1) to (8) of the Act does not affect—
 
@@ -154,9 +154,9 @@ and any such investigation, legal proceeding or remedy may be instituted, contin
 
 before 1st October 2015.
 
-## 13. Transitional Provision[^key-d1a6a767a3b5a83e613d3fe4f3386246]
+## 13. Transitional Provision[^c-d1a6a767a3b5a83e613d3fe4f3386246]
 
-The transitional provisions in the Schedule in respect of section 2, sections 3 to 5 and Parts 1 and 2 of Schedule 1, sections 8(1), (3) and (4) and Parts 2 and 3 of Schedule 2, section 9 and Schedule 3[^key-cedd3b1b41e0e0c626464f6b20a2660c] and section 51(f) and Part 6 of Schedule 10 have effect from the commencement of the sections and Schedules to which the transitional provision relates.
+The transitional provisions in the Schedule in respect of section 2, sections 3 to 5 and Parts 1 and 2 of Schedule 1, sections 8(1), (3) and (4) and Parts 2 and 3 of Schedule 2, section 9 and Schedule 3[^c-cedd3b1b41e0e0c626464f6b20a2660c] and section 51(f) and Part 6 of Schedule 10 have effect from the commencement of the sections and Schedules to which the transitional provision relates.
 
 Matthew Hancock
 
@@ -172,11 +172,11 @@ Article 13
 
 ### PART 1 — Transitional provision relating to the commencement of section 2 of the Act
 
-**1.**[^key-c5b228d2d9e1d05517756082013d7e5b] The amendments made by section 2 of the Act do not affect sections 124 and 125 of the Equality Act 2010[^f00017] as they apply to proceedings that are commenced before 1st October 2015.
+**1.**[^c-c5b228d2d9e1d05517756082013d7e5b] The amendments made by section 2 of the Act do not affect sections 124 and 125 of the Equality Act 2010[^f00017] as they apply to proceedings that are commenced before 1st October 2015.
 
 ### PART 2 — Transitional provision relating to the commencement of section 3 of and Schedule 1 to the Act
 
-#### 2. Interpretation[^key-954d74eac71b01d4eb74167f64141087]
+#### 2. Interpretation[^c-954d74eac71b01d4eb74167f64141087]
 
 In this Part—
 
@@ -189,33 +189,33 @@ In this Part—
   - (d) sections 24 to 27 (specification of apprenticeship standards: England);
   - (e) sections 11, 12, 32 to 36, 38(1) and 39 to the extent that they apply in connection with the provisions mentioned in paragraphs (a) to (d).
 
-#### 3. General saving[^key-e02c5aaae251d5aeb7aa4ae5ff151d70]
+#### 3. General saving[^c-e02c5aaae251d5aeb7aa4ae5ff151d70]
 
 Despite Part 2 of Schedule 1 to the Act, the saved provisions, and any subordinate legislation made under them, continue to have effect on and after the commencement date; subject to—
 
 - (a) the provision made by paragraph 4 for the phasing out of apprenticeship frameworks, and
 - (b) the modifications made by paragraphs 5 to 8.
 
-#### 4. Phasing out of apprenticeship frameworks[^key-dd3386a77204cd435f679a6db7f1c147]
+#### 4. Phasing out of apprenticeship frameworks[^c-dd3386a77204cd435f679a6db7f1c147]
 
 (1) This paragraph applies where, in consequence of the publication of one or more standards under section A2 of the 2009 Act, an apprenticeship framework issued under section 14(1) of that Act is withdrawn under section 14(2).
 
 (2) An apprenticeship framework may not be issued under section 14(1) of the 2009 Act in relation to a skill, trade or occupation to which the withdrawn framework related (whether or not the standard published under section A2 of that Act or, as the case may be, any of the standards published under that section, are subsequently revised or withdrawn).
 
-#### 5. Modifications of the saved provisions[^key-cb984698e23d580481b24b3e6881d160]
+#### 5. Modifications of the saved provisions[^c-cb984698e23d580481b24b3e6881d160]
 
 Section 15 of the 2009 Act has effect as if subsections (1)(b), (2) and (3)(b) were omitted.
 
-**6.**[^key-5d9e17f33a7757a496737f07c475b885] Section 24(1) of that Act has effect as if the words from “Where” to “section 23,” and paragraphs (a) and (b) were omitted.
+**6.**[^c-5d9e17f33a7757a496737f07c475b885] Section 24(1) of that Act has effect as if the words from “Where” to “section 23,” and paragraphs (a) and (b) were omitted.
 
-**7.**[^key-769e3e36b831badfa6cfbd91a8b86d39] Section 25 of that Act has effect as if—
+**7.**[^c-769e3e36b831badfa6cfbd91a8b86d39] Section 25 of that Act has effect as if—
 
 - (a) subsections (1) and (2) were omitted, and
 - (b) in subsection (3), the words from “Where” to “subsection (1),” and the word “those” were omitted.
 
-**8.**[^key-dd4b36596e3f2f830a71ae1ad067c372] Section 38(1) of that Act has effect as if for “must” there were substituted “may”.
+**8.**[^c-dd4b36596e3f2f830a71ae1ad067c372] Section 38(1) of that Act has effect as if for “must” there were substituted “may”.
 
-#### 9. Trailblazer apprenticeships[^key-31ed0d8487329825643126f430e2844c]
+#### 9. Trailblazer apprenticeships[^c-31ed0d8487329825643126f430e2844c]
 
 (1) Sub-paragraph (2) applies where a person—
 
@@ -226,7 +226,7 @@ Section 15 of the 2009 Act has effect as if subsections (1)(b), (2) and (3)(b) w
 
 (3) For the purposes of this paragraph, a person works under a Trailblazer apprenticeship if arrangements made by the Secretary of State and known as Trailblazer apprenticeships apply in relation to the work.
 
-**10.**[^key-098225ae70d06038dc54ca24e32dda1b] (1) Sub-paragraph (2) applies where—
+**10.**[^c-098225ae70d06038dc54ca24e32dda1b] (1) Sub-paragraph (2) applies where—
 
 - (a) a standard is published by the Secretary of State before the commencement date, and
 - (b) the standard is in connection with work under a Trailblazer apprenticeship that falls to be treated by virtue of paragraph 9 as work done under an approved English apprenticeship.
@@ -235,7 +235,7 @@ Section 15 of the 2009 Act has effect as if subsections (1)(b), (2) and (3)(b) w
 
 ### PART 3 — Transitional provision relating to the commencement of sections 8(1), (3) and (4) and Parts 2 and 3 of Schedule 2 to the Act
 
-#### 11. Interpretation[^key-17a7a205d5e33aaea847c2b479661fc0]
+#### 11. Interpretation[^c-17a7a205d5e33aaea847c2b479661fc0]
 
 In this Part—
 
@@ -252,22 +252,22 @@ In this Part—
   - (a) a licence granted, prior to the commencement date, under section 129(2)(a) of the RTA; or
   - (b) a licence granted under section 129 of the RTA on or after the commencement date.
 
-#### 12. RDIs to be treated as ADIs[^key-26dcc6847b402ce8d5a6bb813e7ed828]
+#### 12. RDIs to be treated as ADIs[^c-26dcc6847b402ce8d5a6bb813e7ed828]
 
 A person who was an RDI is, on and after the commencement date, deemed to be an ADI.
 
-#### 13. Duration of registration and renewals of registration for deemed ADIs[^key-0270d3ea8544b0da8dc431549fe6d8fa]
+#### 13. Duration of registration and renewals of registration for deemed ADIs[^c-0270d3ea8544b0da8dc431549fe6d8fa]
 
 Where a person is deemed to be an ADI by virtue of paragraph 12—
 
 - (a) the duration of that person’s registration must be determined in accordance with section 126[^f00024] of the RTA by reference to the date on which that person registered, or last extended registration, as an RDI; and
 - (b) should that person apply to retain the registration for a further 4 year period under section 127[^f00025] of the RTA that person must be treated as an ADI applying to retain the registration as an ADI.
 
-#### 14. Person holding a disabled trainee instructor licence to be treated as person holding a trainee instructor licence[^key-2bf7979a6b0277279f03206b2812e937]
+#### 14. Person holding a disabled trainee instructor licence to be treated as person holding a trainee instructor licence[^c-2bf7979a6b0277279f03206b2812e937]
 
 A person who held, immediately before the commencement date, a disabled trainee instructor licence is, on and after the commencement date, deemed to hold a trainee instructor licence.
 
-#### 15. Duration of licence and renewal of licence for person deemed to hold a trainee instructor licence[^key-2f234aad3f41a55278947bc11c47bda6]
+#### 15. Duration of licence and renewal of licence for person deemed to hold a trainee instructor licence[^c-2f234aad3f41a55278947bc11c47bda6]
 
 Where a person is deemed to hold a trainee instructor licence by virtue of paragraph 14—
 
@@ -276,7 +276,7 @@ Where a person is deemed to hold a trainee instructor licence by virtue of parag
   - (i) be treated as having been made in accordance with section 129(6) of the RTA; and
   - (ii) be treated as an application for a “substitute licence” as defined in regulation 13(5) of the Motor Cars (Driving Instruction) Regulations 2005[^f00026] for the purposes of Part 5 of those Regulations.
 
-#### 16. Application for registration or extension of registration made prior to the commencement date[^key-5c75a0239ce15908ede1bf07bbfd5036]
+#### 16. Application for registration or extension of registration made prior to the commencement date[^c-5c75a0239ce15908ede1bf07bbfd5036]
 
 (1) Where—
 
@@ -292,7 +292,7 @@ Where a person is deemed to hold a trainee instructor licence by virtue of parag
 
 - the Registrar must treat that application as an application for extension of registration as an ADI.
 
-#### 17. Application for a disabled trainee instructor licence made prior to the Commencement Date[^key-469b2b5775111336e499cf45d4d12100]
+#### 17. Application for a disabled trainee instructor licence made prior to the Commencement Date[^c-469b2b5775111336e499cf45d4d12100]
 
 Where—
 
@@ -301,15 +301,15 @@ Where—
 
 - the Registrar must treat that application as an application for a trainee instructor licence.
 
-#### 18. Continuing validity of an emergency control certificate[^key-75ee18b4c0014ef2ee53b50f1292d381]
+#### 18. Continuing validity of an emergency control certificate[^c-75ee18b4c0014ef2ee53b50f1292d381]
 
 Where a person was granted an emergency control certificate before the commencement date that remained current at the commencement date that emergency control certificate must be treated as current on and after the commencement date unless the Registrar requires that person to undertake a further emergency control assessment.
 
-#### 19. Continuing requirement to hold an emergency control certificate[^key-ddf74321aaa5b0963892d6bb5b1b4895]
+#### 19. Continuing requirement to hold an emergency control certificate[^c-ddf74321aaa5b0963892d6bb5b1b4895]
 
 A person who, immediately before the commencement date, was required to hold an emergency control certificate must, on and after the commencement date, be treated as a person who is required to continue to hold that emergency control certificate under section 125(3)(da) of the RTA.
 
-#### 20. Persons required to take an emergency control assessment prior to the commencement date[^key-54b721405ea5b23e2c485bbdb555dcf1]
+#### 20. Persons required to take an emergency control assessment prior to the commencement date[^c-54b721405ea5b23e2c485bbdb555dcf1]
 
 (1) This paragraph applies to a person who was—
 
@@ -323,7 +323,7 @@ A person who, immediately before the commencement date, was required to hold an 
 
 where that person is awarded an emergency control certificate that person must be treated as a person who is required to continue to hold an emergency control certificate under section 125(3)(da) of the RTA.
 
-#### 21. Effect of an emergency control assessment fail prior to the commencement date[^key-c7c01415a9c3067593855665d3d44c01]
+#### 21. Effect of an emergency control assessment fail prior to the commencement date[^c-c7c01415a9c3067593855665d3d44c01]
 
 (1) This paragraph applies to a person who, prior to the commencement date—
 
@@ -335,7 +335,7 @@ where that person is awarded an emergency control certificate that person must b
 - (a) that person is awarded an emergency control certificate; or
 - (b) the Registrar withdraws the requirement to obtain an emergency control certificate under section 133E of the RTA.
 
-### Part 3A[^key-17eb68635650a1bea5d88816d5ec3f5c]
+### Part 3A[^c-17eb68635650a1bea5d88816d5ec3f5c]
 
 #### Transitional provision relating to the commencement of section 9 of, and Schedule 3 to, the Act.
 
@@ -348,15 +348,15 @@ before 30th June 2015.
 
 ### PART 4 — Transitional provision relating to the commencement of section 51(f) and Part 6 of Schedule 10 to the Act.
 
-#### 22. Interpretation[^key-2f4d25d623557a9fde8db6211c9d3328]
+#### 22. Interpretation[^c-2f4d25d623557a9fde8db6211c9d3328]
 
 In this Part “commencement date” means 8th June 2015.
 
-#### 23. Existing ATFs to be deemed to be designated premises[^key-85cb0d9db79978936776a56143b00909]
+#### 23. Existing ATFs to be deemed to be designated premises[^c-85cb0d9db79978936776a56143b00909]
 
 Where, immediately prior to the commencement date, premises were used as an authorised testing facility under a contract with the Secretary of State which provided that goods vehicle roadworthiness testing could be performed at those premises, those premises are, on and after the commencement date, deemed to be designated premises under section 52(2)(b) of the Road Traffic Act 1988[^f00030].
 
-#### 24. Duration of deemed designation[^key-7020865173c556bbe50564b4fbcdd0ca]
+#### 24. Duration of deemed designation[^c-7020865173c556bbe50564b4fbcdd0ca]
 
 Where premises are deemed to be designated premises by virtue of paragraph 23 of this Part, that deemed designation ceases at the same time as the expiry or termination of the underlying contract with the Secretary of State referred to in paragraph 23.
 
@@ -498,47 +498,47 @@ Sections 51(g) and Part 7 of Schedule 10 amend the Equality Act 2010 to remove t
 
 [^f00001]: Footnote: [2015 c. 20](https://www.legislation.gov.uk/ukpga/2015/20).
 
-[^key-e45c86c09ed449116a4ad6440a5e446a]: Commencement: Art. 1 in force at made date
+[^c-e45c86c09ed449116a4ad6440a5e446a]: Commencement: Art. 1 in force at made date
 
-[^key-b0492ca8a55a9b725c1ff01d1f70819f]: Commencement: Art. 2 in force at made date
+[^c-b0492ca8a55a9b725c1ff01d1f70819f]: Commencement: Art. 2 in force at made date
 
 [^f00002]: Footnote: By virtue of section 115(2) of the Act.
 
-[^key-1ddc077f3549ab2ca78ec0de3306644d]: Commencement: Art. 3 in force at made date
+[^c-1ddc077f3549ab2ca78ec0de3306644d]: Commencement: Art. 3 in force at made date
 
 [^f00003]: Footnote: By virtue of section 115(2) of the Act.
 
 [^f00004]: Footnote: By virtue of section 115(2) of the Act.
 
-[^key-50716c2edb0c7922a94f1763dab87b81]: Commencement: Art. 4 in force at made date
+[^c-50716c2edb0c7922a94f1763dab87b81]: Commencement: Art. 4 in force at made date
 
-[^key-3dab456a648deba8ab9052665a921900]: Commencement: Art. 5 in force at made date
+[^c-3dab456a648deba8ab9052665a921900]: Commencement: Art. 5 in force at made date
 
 [^f00005]: Footnote: By virtue of section 115(2) of the Act
 
-[^key-298a81e19b74ccf2615849487934550c]: Commencement: Art. 6 in force at made date
+[^c-298a81e19b74ccf2615849487934550c]: Commencement: Art. 6 in force at made date
 
 [^f00006]: Footnote: By virtue of section 115(2) of the Act.
 
 [^f00007]: Footnote: )By virtue of section 115(2) of the Act and article 5 of this Order.
 
-[^key-187a3796d6153eb0d7e9a789c5a64a0e]: Commencement: Art. 7 in force at made date
+[^c-187a3796d6153eb0d7e9a789c5a64a0e]: Commencement: Art. 7 in force at made date
 
 [^f00008]: Footnote: By virtue of section 115(2) of the Act.
 
 [^f00009]: Footnote: By virtue of section 115(2) of the Act.
 
-[^key-428ec3f5ed8f7d35fbbac7dd91363ec6]: Commencement: Art. 8 in force at made date
+[^c-428ec3f5ed8f7d35fbbac7dd91363ec6]: Commencement: Art. 8 in force at made date
 
 [^f00010]: Footnote: By virtue of section 115(2) of the Act.
 
-[^key-f7eff340b1456af19b43d51d7c348cfc]: Commencement: Art. 9 in force at made date
+[^c-f7eff340b1456af19b43d51d7c348cfc]: Commencement: Art. 9 in force at made date
 
 [^f00011]: Footnote: By virtue of section 115(2) of the Act.
 
-[^key-32a10711302c05eeb43731fad544890f]: Commencement: Art. 10 in force at made date
+[^c-32a10711302c05eeb43731fad544890f]: Commencement: Art. 10 in force at made date
 
-[^key-ecf86670b5d479f60009071592d0a4ac]: Commencement: Art. 11 in force at made date
+[^c-ecf86670b5d479f60009071592d0a4ac]: Commencement: Art. 11 in force at made date
 
 [^f00012]: Footnote: By virtue of article 10 of this Order.
 
@@ -546,39 +546,39 @@ Sections 51(g) and Part 7 of Schedule 10 amend the Equality Act 2010 to remove t
 
 [^f00014]: Footnote: By virtue of section 115(2) of the Act.
 
-[^key-a4401afac20e6826e45f6a2351032a84]: Commencement: Art. 12 in force at made date
+[^c-a4401afac20e6826e45f6a2351032a84]: Commencement: Art. 12 in force at made date
 
 [^f00015]: Footnote: [1989 c.38](https://www.legislation.gov.uk/ukpga/1989/38). Section 12 was amended by paragraph 5 of Schedule 26 to the Equality Act [2010 (c.15)](https://www.legislation.gov.uk/ukpga/2010/15). Paragraph 5 of Schedule 26 to that Act was subsequently renumbered by [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279), and is now paragraph 15 of Part 1 of Schedule 26.
 
 [^f00016]: Footnote: [S.I. 1990/246 (N.I.2)](https://www.legislation.gov.uk/nisi/1990/246). Article 13A was inserted by paragraph 5 of Schedule 2 to [S.I. 1997/869 (N.I.6)](https://www.legislation.gov.uk/nisi/1997/869), and subsequently amended by article 57 of [S.R. (NI) 2003/341](https://www.legislation.gov.uk/nia/2003/341).
 
-[^key-d1a6a767a3b5a83e613d3fe4f3386246]: Commencement: Art. 13 in force at made date
+[^c-d1a6a767a3b5a83e613d3fe4f3386246]: Commencement: Art. 13 in force at made date
 
-[^key-cedd3b1b41e0e0c626464f6b20a2660c]: Textual amendment: Words in art. 13 inserted (22.6.2015) by [The Deregulation Act 2015 (Commencement No. 1 and Transitional and Saving Provisions) (Amendment) Order 2015 (S.I. 2015/1405)](https://www.legislation.gov.uk/uksi/2015/1405), [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/1405/article/2/2)
+[^c-cedd3b1b41e0e0c626464f6b20a2660c]: Textual amendment: Words in art. 13 inserted (22.6.2015) by [The Deregulation Act 2015 (Commencement No. 1 and Transitional and Saving Provisions) (Amendment) Order 2015 (S.I. 2015/1405)](https://www.legislation.gov.uk/uksi/2015/1405), [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/1405/article/2/2)
 
-[^key-c5b228d2d9e1d05517756082013d7e5b]: Commencement: Sch. para. 1 in force at made date
+[^c-c5b228d2d9e1d05517756082013d7e5b]: Commencement: Sch. para. 1 in force at made date
 
 [^f00017]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-954d74eac71b01d4eb74167f64141087]: Commencement: Sch. para. 2 in force at made date
+[^c-954d74eac71b01d4eb74167f64141087]: Commencement: Sch. para. 2 in force at made date
 
-[^key-e02c5aaae251d5aeb7aa4ae5ff151d70]: Commencement: Sch. para. 3 in force at made date
+[^c-e02c5aaae251d5aeb7aa4ae5ff151d70]: Commencement: Sch. para. 3 in force at made date
 
-[^key-dd3386a77204cd435f679a6db7f1c147]: Commencement: Sch. para. 4 in force at made date
+[^c-dd3386a77204cd435f679a6db7f1c147]: Commencement: Sch. para. 4 in force at made date
 
-[^key-cb984698e23d580481b24b3e6881d160]: Commencement: Sch. para. 5 in force at made date
+[^c-cb984698e23d580481b24b3e6881d160]: Commencement: Sch. para. 5 in force at made date
 
-[^key-5d9e17f33a7757a496737f07c475b885]: Commencement: Sch. para. 6 in force at made date
+[^c-5d9e17f33a7757a496737f07c475b885]: Commencement: Sch. para. 6 in force at made date
 
-[^key-769e3e36b831badfa6cfbd91a8b86d39]: Commencement: Sch. para. 7 in force at made date
+[^c-769e3e36b831badfa6cfbd91a8b86d39]: Commencement: Sch. para. 7 in force at made date
 
-[^key-dd4b36596e3f2f830a71ae1ad067c372]: Commencement: Sch. para. 8 in force at made date
+[^c-dd4b36596e3f2f830a71ae1ad067c372]: Commencement: Sch. para. 8 in force at made date
 
-[^key-31ed0d8487329825643126f430e2844c]: Commencement: Sch. para. 9 in force at made date
+[^c-31ed0d8487329825643126f430e2844c]: Commencement: Sch. para. 9 in force at made date
 
-[^key-098225ae70d06038dc54ca24e32dda1b]: Commencement: Sch. para. 10 in force at made date
+[^c-098225ae70d06038dc54ca24e32dda1b]: Commencement: Sch. para. 10 in force at made date
 
-[^key-17a7a205d5e33aaea847c2b479661fc0]: Commencement: Sch. para. 11 in force at made date
+[^c-17a7a205d5e33aaea847c2b479661fc0]: Commencement: Sch. para. 11 in force at made date
 
 [^f00018]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
@@ -592,29 +592,29 @@ Sections 51(g) and Part 7 of Schedule 10 amend the Equality Act 2010 to remove t
 
 [^f00023]: Footnote: Section 125A was inserted by section 1 of the Road Traffic (Driving Instruction by Disabled Persons) Act 1993 and amended by [S.I. 1999/357](https://www.legislation.gov.uk/uksi/1999/357); there are uncommenced amendments to this section in paragraph 23 of Schedule 3 and paragraph 6 of Schedule 6 to the Road Safety Act 2006.
 
-[^key-26dcc6847b402ce8d5a6bb813e7ed828]: Commencement: Sch. para. 12 in force at made date
+[^c-26dcc6847b402ce8d5a6bb813e7ed828]: Commencement: Sch. para. 12 in force at made date
 
-[^key-0270d3ea8544b0da8dc431549fe6d8fa]: Commencement: Sch. para. 13 in force at made date
+[^c-0270d3ea8544b0da8dc431549fe6d8fa]: Commencement: Sch. para. 13 in force at made date
 
 [^f00024]: Footnote: Section 126 was amended by paragraph 4 of the Schedule to the Road Traffic (Driving Instruction by Disabled Persons) Act 1993; there are uncommenced amendments to this section in paragraph 8 of Schedule 6 to the Road Safety Act 2006.
 
 [^f00025]: Footnote: Section 127 was amended by paragraph 5 of the Schedule to the Road Traffic (Driving Instruction by Disabled Persons) Act 1993, section 259 of the Transport Act 2000 and paragraph 3 of Schedule 1 to the Driving Instruction (Suspension and Exemption Powers) Act 2009; there are uncommenced amendments to this section in paragraph 9 of Schedule 6 to the Road Safety Act 2006 and in paragraph 1 of Schedule 2 to the Driving Instruction (Suspension and Exemption Powers) Act 2009.
 
-[^key-2bf7979a6b0277279f03206b2812e937]: Commencement: Sch. para. 14 in force at made date
+[^c-2bf7979a6b0277279f03206b2812e937]: Commencement: Sch. para. 14 in force at made date
 
-[^key-2f234aad3f41a55278947bc11c47bda6]: Commencement: Sch. para. 15 in force at made date
+[^c-2f234aad3f41a55278947bc11c47bda6]: Commencement: Sch. para. 15 in force at made date
 
 [^f00026]: Footnote: [S.I. 2005/1902](https://www.legislation.gov.uk/uksi/2005/1902).
 
-[^key-5c75a0239ce15908ede1bf07bbfd5036]: Commencement: Sch. para. 16 in force at made date
+[^c-5c75a0239ce15908ede1bf07bbfd5036]: Commencement: Sch. para. 16 in force at made date
 
-[^key-469b2b5775111336e499cf45d4d12100]: Commencement: Sch. para. 17 in force at made date
+[^c-469b2b5775111336e499cf45d4d12100]: Commencement: Sch. para. 17 in force at made date
 
-[^key-75ee18b4c0014ef2ee53b50f1292d381]: Commencement: Sch. para. 18 in force at made date
+[^c-75ee18b4c0014ef2ee53b50f1292d381]: Commencement: Sch. para. 18 in force at made date
 
-[^key-ddf74321aaa5b0963892d6bb5b1b4895]: Commencement: Sch. para. 19 in force at made date
+[^c-ddf74321aaa5b0963892d6bb5b1b4895]: Commencement: Sch. para. 19 in force at made date
 
-[^key-54b721405ea5b23e2c485bbdb555dcf1]: Commencement: Sch. para. 20 in force at made date
+[^c-54b721405ea5b23e2c485bbdb555dcf1]: Commencement: Sch. para. 20 in force at made date
 
 [^f00027]: Footnote: Section 125B was inserted by section 1 of the Road Traffic (Driving Instruction by Disabled Persons) Act 1993 and was amended by paragraph 8 of Schedule 29 to the Transport Act 2000; there are uncommenced amendments to this section in paragraph 7 of Schedule 6 to the Road Safety Act 2006.
 
@@ -622,14 +622,14 @@ Sections 51(g) and Part 7 of Schedule 10 amend the Equality Act 2010 to remove t
 
 [^f00029]: Footnote: Section 133E is inserted by paragraph 28 of Part 2 of Schedule 2 to the Deregulation Act 2015 (which is commenced by this Order).
 
-[^key-c7c01415a9c3067593855665d3d44c01]: Commencement: Sch. para. 21 in force at made date
+[^c-c7c01415a9c3067593855665d3d44c01]: Commencement: Sch. para. 21 in force at made date
 
-[^key-17eb68635650a1bea5d88816d5ec3f5c]: Textual amendment: Sch. Pt. 3A inserted (22.6.2015) by [The Deregulation Act 2015 (Commencement No. 1 and Transitional and Saving Provisions) (Amendment) Order 2015 (S.I. 2015/1405)](https://www.legislation.gov.uk/uksi/2015/1405), [art. 2(3)](https://www.legislation.gov.uk/uksi/2015/1405/article/2/3)
+[^c-17eb68635650a1bea5d88816d5ec3f5c]: Textual amendment: Sch. Pt. 3A inserted (22.6.2015) by [The Deregulation Act 2015 (Commencement No. 1 and Transitional and Saving Provisions) (Amendment) Order 2015 (S.I. 2015/1405)](https://www.legislation.gov.uk/uksi/2015/1405), [art. 2(3)](https://www.legislation.gov.uk/uksi/2015/1405/article/2/3)
 
-[^key-2f4d25d623557a9fde8db6211c9d3328]: Commencement: Sch. para. 22 in force at made date
+[^c-2f4d25d623557a9fde8db6211c9d3328]: Commencement: Sch. para. 22 in force at made date
 
-[^key-85cb0d9db79978936776a56143b00909]: Commencement: Sch. para. 23 in force at made date
+[^c-85cb0d9db79978936776a56143b00909]: Commencement: Sch. para. 23 in force at made date
 
 [^f00030]: Footnote: Section 52(2)(b) is inserted by paragraph 25 of Part 6 of Schedule 10 to the Deregulation Act 2015 (which is commenced by this Order).
 
-[^key-7020865173c556bbe50564b4fbcdd0ca]: Commencement: Sch. para. 24 in force at made date
+[^c-7020865173c556bbe50564b4fbcdd0ca]: Commencement: Sch. para. 24 in force at made date

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118.[^key-dc31fef500de6a2d6b70a142d47a959c]
+## 118.[^c-dc31fef500de6a2d6b70a142d47a959c]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ For Article 10A (compliance with community obligations) substitute—
 > - (e) to provide such persons with the information they need for efficient access to and use of the system;
 > - (f) to provide any other licence holder mentioned in Article 25(3) of the Directive with sufficient information to achieve an outcome that corresponds to the outcome mentioned in that provision;
 > - (g) to comply with requirements for system access corresponding to the requirements mentioned in Article 32 of the Directive (as read with Article 2 of the Commission Decision);
-> - (ga)[^key-0e0460eb1fd8c3830d61799908f978ea] to comply with requirements for access to upstream pipeline networks, and requirements about the manner in which that access is to be provided, corresponding to the requirements mentioned in Article 34(1) and (2) of the Directive;
+> - (ga)[^c-0e0460eb1fd8c3830d61799908f978ea] to comply with requirements for access to upstream pipeline networks, and requirements about the manner in which that access is to be provided, corresponding to the requirements mentioned in Article 34(1) and (2) of the Directive;
 > - (h) to take any measures necessary for the purpose of ensuring that information necessary for effective competition and for the effective functioning of the market is made public;
 > - (i) to facilitate (to the extent within the holder's control) the ability of customers to change suppliers within 3 weeks;
 > - (j) to facilitate (to the extent within the holder's control) the ability of customers to have access to consumption data.
@@ -55,7 +55,7 @@ For Article 10A (compliance with community obligations) substitute—
 > - (b) in paragraph (1), for the words “in accordance with Article 41 by a regulatory authority referred to in Article 39(1)” there were substituted “ by the Authority ”;
 > - (c) in paragraph (3), for the reference to “Community competition rules” there were substituted a reference to “ retained EU law relating to competition ”.
 >
-> (4A)[^key-08a09bc5ecca6525dfdc3b8f916b3d10] For the purposes of paragraph (3)(ga)—
+> (4A)[^c-08a09bc5ecca6525dfdc3b8f916b3d10] For the purposes of paragraph (3)(ga)—
 >
 > - (a) “upstream pipeline networks” has the meaning given in Article 2(2) of the Directive; and
 > - (b) the references to Article 34(1) and (2) of the Directive are to be read as references to those provisions with the following modifications—
@@ -118,7 +118,7 @@ For Article 10A (compliance with community obligations) substitute—
 >
 > - (a) the reference to Article 15 of the Directive is to be read as a reference to that Article with the modifications set out in paragraph (12)(c), (d) and (e);
 > - (b) Article 33 is to be read as if—
->   - (i)[^key-2fb572cc10a2e3378005d9b3e1869fd5] in paragraph (1), the reference to “Member States” in the first sub-paragraph were a reference to the Department;
+>   - (i)[^c-2fb572cc10a2e3378005d9b3e1869fd5] in paragraph (1), the reference to “Member States” in the first sub-paragraph were a reference to the Department;
 >   - (ia) in paragraphs (1), (3) and (4), any reference (however expressed) to “the regulatory authorities where Member States have so provided or Member States” were a reference to the Authority;
 >   - (ii) in paragraph (1), the third sub-paragraph were omitted;
 >   - (iii) in paragraph (3), in the second sub-paragraph the words from “by 1 January 2005” were a reference to “on an annual basis”.
@@ -144,7 +144,7 @@ For Article 10A (compliance with community obligations) substitute—
 >
 > - (a) to carry out tasks corresponding to the tasks mentioned in Article 13(1) of the Directive;
 > - (b) to keep accounts in terms corresponding to the requirements of Article 31 of the Directive and to have them audited in a manner corresponding to those requirements; and
-> - (c) to comply with requirements for access to LNG facilities[^key-eb943835439d6caae72f64a0100e0844] corresponding to those mentioned in Article 32 of the Directive (as read with Article 2 of the Commission Decision).
+> - (c) to comply with requirements for access to LNG facilities[^c-eb943835439d6caae72f64a0100e0844] corresponding to those mentioned in Article 32 of the Directive (as read with Article 2 of the Commission Decision).
 >
 > (18) Conditions included in a licence under Article 8(1)(d) must confer on the Department or the Authority a right of access to the licence holder's accounts for the purposes of ensuring compliance with the requirements mentioned in paragraph (17).
 >
@@ -162,12 +162,12 @@ For Article 10A (compliance with community obligations) substitute—
 
 ## Annotations
 
-[^key-dc31fef500de6a2d6b70a142d47a959c]: Commencement: Reg. 118 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-dc31fef500de6a2d6b70a142d47a959c]: Commencement: Reg. 118 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-0e0460eb1fd8c3830d61799908f978ea]: Textual amendment: Words in reg. 118 inserted (28.12.2020) by [The Gas (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/305)](https://www.legislation.gov.uk/nisr/2020/305), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/305/regulation/1/2), [3(2)](https://www.legislation.gov.uk/nisr/2020/305/regulation/3/2)
+[^c-0e0460eb1fd8c3830d61799908f978ea]: Textual amendment: Words in reg. 118 inserted (28.12.2020) by [The Gas (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/305)](https://www.legislation.gov.uk/nisr/2020/305), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/305/regulation/1/2), [3(2)](https://www.legislation.gov.uk/nisr/2020/305/regulation/3/2)
 
-[^key-08a09bc5ecca6525dfdc3b8f916b3d10]: Textual amendment: Words in reg. 118 inserted (28.12.2020) by [The Gas (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/305)](https://www.legislation.gov.uk/nisr/2020/305), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/305/regulation/1/2), [3(3)](https://www.legislation.gov.uk/nisr/2020/305/regulation/3/3)
+[^c-08a09bc5ecca6525dfdc3b8f916b3d10]: Textual amendment: Words in reg. 118 inserted (28.12.2020) by [The Gas (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/305)](https://www.legislation.gov.uk/nisr/2020/305), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/305/regulation/1/2), [3(3)](https://www.legislation.gov.uk/nisr/2020/305/regulation/3/3)
 
-[^key-2fb572cc10a2e3378005d9b3e1869fd5]: Textual amendment: Words in reg. 118 substituted (28.12.2020) by [The Gas (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/305)](https://www.legislation.gov.uk/nisr/2020/305), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/305/regulation/1/2), [3(4)](https://www.legislation.gov.uk/nisr/2020/305/regulation/3/4)
+[^c-2fb572cc10a2e3378005d9b3e1869fd5]: Textual amendment: Words in reg. 118 substituted (28.12.2020) by [The Gas (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/305)](https://www.legislation.gov.uk/nisr/2020/305), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/305/regulation/1/2), [3(4)](https://www.legislation.gov.uk/nisr/2020/305/regulation/3/4)
 
-[^key-eb943835439d6caae72f64a0100e0844]: Textual amendment: Words in reg. 118 substituted (28.12.2020) by [The Gas (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/305)](https://www.legislation.gov.uk/nisr/2020/305), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/305/regulation/1/2), [3(5)](https://www.legislation.gov.uk/nisr/2020/305/regulation/3/5)
+[^c-eb943835439d6caae72f64a0100e0844]: Textual amendment: Words in reg. 118 substituted (28.12.2020) by [The Gas (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/305)](https://www.legislation.gov.uk/nisr/2020/305), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/305/regulation/1/2), [3(5)](https://www.legislation.gov.uk/nisr/2020/305/regulation/3/5)

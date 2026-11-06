@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Transfer of persons into the Upper Tribunal[^key-bd18cd97556326314fe3b518e12ca470]
+## 3. Transfer of persons into the Upper Tribunal[^c-bd18cd97556326314fe3b518e12ca470]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ A person who, immediately before this Order comes into force, holds an office li
 
 ## Annotations
 
-[^key-bd18cd97556326314fe3b518e12ca470]: Commencement: Art. 3 in force at 1.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1)
+[^c-bd18cd97556326314fe3b518e12ca470]: Commencement: Art. 3 in force at 1.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1)

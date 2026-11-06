@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Length of period of membership: calculation of benefit[^key-91e4096f936345b27ccd955b3fff20c1]
+## 10. Length of period of membership: calculation of benefit[^c-91e4096f936345b27ccd955b3fff20c1]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91e4096f936345b27ccd955b3fff20c1]: Commencement: Reg. 10 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-91e4096f936345b27ccd955b3fff20c1]: Commencement: Reg. 10 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

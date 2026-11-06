@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Locations in controlled localities that are reserved locations[^key-07fed2d7e4f8af31fe06f8faf31f3f4d]
+## 17. Locations in controlled localities that are reserved locations[^c-07fed2d7e4f8af31fe06f8faf31f3f4d]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07fed2d7e4f8af31fe06f8faf31f3f4d]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2020/1073/regulation/17) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-07fed2d7e4f8af31fe06f8faf31f3f4d]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2020/1073/regulation/17) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

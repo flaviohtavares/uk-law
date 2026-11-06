@@ -118,7 +118,7 @@ Section 10
 
 > (10) Where the application of subsection (4) in relation to the estate of a person means that too great an increase has been made under subsection (3) of section 8A above in the case of another person, the claim under that section in that case may be amended accordingly by the Commissioners for Her Majesty's Revenue and Customs.
 
-**4.**[^key-bbec4c3735daa08ebe66b7001502e573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-bbec4c3735daa08ebe66b7001502e573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.** In section 239(4) (certificates of discharge: cases where further tax not affected), after paragraph (a) (but before the “or”) insert—
 
@@ -142,7 +142,7 @@ Section 10
 
 **9.** (1) The amendments made by paragraphs 2, 3 and 4(4) have effect in relation to cases where the survivor's death occurs on or after 9 October 2007.
 
-(2)[^key-469fad729a267c600b677df295895e49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-469fad729a267c600b677df295895e49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The amendments made by paragraphs 5 and 7 are to be treated as having come into force on 9 October 2007.
 
@@ -203,6 +203,6 @@ but, if the event occasioning the charge occurred before 27 October 1977, the re
 
 ## Annotations
 
-[^key-bbec4c3735daa08ebe66b7001502e573]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/4/paragraph/4) omitted (with effect in accordance with Sch. 16 para. 85 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(d)(i)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/d/i)
+[^c-bbec4c3735daa08ebe66b7001502e573]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/4/paragraph/4) omitted (with effect in accordance with Sch. 16 para. 85 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(d)(i)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/d/i)
 
-[^key-469fad729a267c600b677df295895e49]: Textual amendment: [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/4/paragraph/9/2) omitted (with effect in accordance with Sch. 16 para. 85 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(d)(i)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/d/i)
+[^c-469fad729a267c600b677df295895e49]: Textual amendment: [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/4/paragraph/9/2) omitted (with effect in accordance with Sch. 16 para. 85 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(d)(i)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/d/i)

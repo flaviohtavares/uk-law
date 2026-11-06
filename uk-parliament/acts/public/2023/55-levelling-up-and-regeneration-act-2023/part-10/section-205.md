@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205. Terms of contract for tenancy[^key-2709724fdebecdb0576d29b23563e8be][^key-fbfef9a1407e980fa7a0948077b13bb4][^key-ed0ff89ed57dbde6c07b6f8d91f17148]
+## 205. Terms of contract for tenancy[^c-2709724fdebecdb0576d29b23563e8be][^c-fbfef9a1407e980fa7a0948077b13bb4][^c-ed0ff89ed57dbde6c07b6f8d91f17148]
 
 *Extent: E+W*
 
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2709724fdebecdb0576d29b23563e8be]: Commencement: S. 205 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-2709724fdebecdb0576d29b23563e8be]: Commencement: S. 205 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-fbfef9a1407e980fa7a0948077b13bb4]: Commencement: [S. 205](https://www.legislation.gov.uk/ukpga/2023/55/section/205) in force at 31.3.2024 for specified purposes by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/n)
+[^c-fbfef9a1407e980fa7a0948077b13bb4]: Commencement: [S. 205](https://www.legislation.gov.uk/ukpga/2023/55/section/205) in force at 31.3.2024 for specified purposes by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/n)
 
-[^key-ed0ff89ed57dbde6c07b6f8d91f17148]: Commencement: [S. 205](https://www.legislation.gov.uk/ukpga/2023/55/section/205) in force at 2.12.2024 in so far as not already in force by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/d)
+[^c-ed0ff89ed57dbde6c07b6f8d91f17148]: Commencement: [S. 205](https://www.legislation.gov.uk/ukpga/2023/55/section/205) in force at 2.12.2024 in so far as not already in force by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/d)

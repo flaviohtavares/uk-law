@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5C. Former members[^key-e7627a95e133e77bc75f455f8381baf8][^key-484ea22351226ca704d54a89a14d862b]
+## 5C. Former members[^c-e7627a95e133e77bc75f455f8381baf8][^c-484ea22351226ca704d54a89a14d862b]
 
 *Extent: N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e7627a95e133e77bc75f455f8381baf8]: Textual amendment: [Regs. 5B-5F](https://www.legislation.gov.uk/nisr/2010/122/regulation/5B) inserted (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [5](https://www.legislation.gov.uk/nisr/2015/310/regulation/5)
+[^c-e7627a95e133e77bc75f455f8381baf8]: Textual amendment: [Regs. 5B-5F](https://www.legislation.gov.uk/nisr/2010/122/regulation/5B) inserted (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [5](https://www.legislation.gov.uk/nisr/2015/310/regulation/5)
 
-[^key-484ea22351226ca704d54a89a14d862b]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/nisr/2010/122/part/1A) inserted (2.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment No. 2) Regulations (Northern Ireland) 2012 (S.R. 2012/238)](https://www.legislation.gov.uk/nisr/2012/238), [regs. 1](https://www.legislation.gov.uk/nisr/2012/238/regulation/1), [2](https://www.legislation.gov.uk/nisr/2012/238/regulation/2)
+[^c-484ea22351226ca704d54a89a14d862b]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/nisr/2010/122/part/1A) inserted (2.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment No. 2) Regulations (Northern Ireland) 2012 (S.R. 2012/238)](https://www.legislation.gov.uk/nisr/2012/238), [regs. 1](https://www.legislation.gov.uk/nisr/2012/238/regulation/1), [2](https://www.legislation.gov.uk/nisr/2012/238/regulation/2)

@@ -24,7 +24,7 @@ summary: ''
 
 > (2A) Education is also secondary education for the purposes of this Act (subject to subsection (5)) if it is provided by an institution which—
 >
-> - (a) is maintained by a local authority[^key-35207b0165f4bf8683c697e9c46b3e8b] , and
+> - (a) is maintained by a local authority[^c-35207b0165f4bf8683c697e9c46b3e8b] , and
 > - (b) is principally concerned with the provision of full-time education suitable to the requirements of pupils who are over compulsory school age but under the age of 19.
 >
 > (2B) Where—
@@ -41,9 +41,9 @@ summary: ''
 
 (4) A local authority may not continue to maintain an institution to which this subsection applies in pursuance of section 15A of the [^c13164861]Education Act 1996 (education for 16 to 18 year olds).
 
-(5) Section 16A(2)[^key-8f0fc61accd05fc8e85eb096b9039c44] of the [^c13164871]Further and Higher Education Act 1992 (incorporation of further education institutions) shall not apply in relation to an institution to which this subsection applies.
+(5) Section 16A(2)[^c-8f0fc61accd05fc8e85eb096b9039c44] of the [^c13164871]Further and Higher Education Act 1992 (incorporation of further education institutions) shall not apply in relation to an institution to which this subsection applies.
 
-(6)[^key-3966a0c613675e709735984eff46b124] In this section “local authority” has the same meaning as in the Education Act 1996 (see section 579(1) of that Act).
+(6)[^c-3966a0c613675e709735984eff46b124] In this section “local authority” has the same meaning as in the Education Act 1996 (see section 579(1) of that Act).
 
 ## Annotations
 
@@ -51,7 +51,7 @@ summary: ''
 
 [^c13164831]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-35207b0165f4bf8683c697e9c46b3e8b]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 46(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/46/2)
+[^c-35207b0165f4bf8683c697e9c46b3e8b]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 46(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/46/2)
 
 [^c13164841]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
@@ -59,8 +59,8 @@ summary: ''
 
 [^c13164861]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-8f0fc61accd05fc8e85eb096b9039c44]: Textual amendment: Word in [s. 110(5)](https://www.legislation.gov.uk/ukpga/2000/21/section/110/5) substituted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 44(2)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/44/2); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-8f0fc61accd05fc8e85eb096b9039c44]: Textual amendment: Word in [s. 110(5)](https://www.legislation.gov.uk/ukpga/2000/21/section/110/5) substituted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 44(2)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/44/2); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
 [^c13164871]: Marginal citation: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).
 
-[^key-3966a0c613675e709735984eff46b124]: Textual amendment: S. 110(6) added (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 46(7)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/46/7)
+[^c-3966a0c613675e709735984eff46b124]: Textual amendment: S. 110(6) added (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 46(7)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/46/7)

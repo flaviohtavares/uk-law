@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Period of moratorium on diligence[^key-20ee16885c58fbdef008467d9a451557]
+## 23. Period of moratorium on diligence[^c-20ee16885c58fbdef008467d9a451557]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20ee16885c58fbdef008467d9a451557]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2022/8/section/23) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-20ee16885c58fbdef008467d9a451557]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2022/8/section/23) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

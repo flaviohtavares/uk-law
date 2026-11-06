@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Meaning of “apparent insolvency”[^key-a62efe1060ea3806b7632e930715f67f]
+## 16. Meaning of “apparent insolvency”[^c-a62efe1060ea3806b7632e930715f67f]
 
 *Extent: S*
 
@@ -28,7 +28,7 @@ summary: ''
   - (i) is affected by a restraint order,
   - (ii) is detained under or by virtue of a relevant detention power, or
   - (iii) is subject to a confiscation or charging order),
-- (d)[^key-1c89a0745992e2b57fe94fb7b4a3c2f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-1c89a0745992e2b57fe94fb7b4a3c2f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) the debtor grants a trust deed,
 - (f) following the service on the debtor of a duly executed charge for payment of a debt, the days of charge expire without payment (unless the circumstances are shown to be such as are mentioned in subsection (2)),
 - (g) a decree of adjudication of any part of the debtor's estate is granted, either for payment or in security (unless the circumstances are shown to be such as are mentioned in subsection (2)),
@@ -63,7 +63,7 @@ summary: ''
 
 - (a) if constituted under paragraph (a) or (b) of subsection (1), until the debtor's discharge,
 - (b) if constituted under paragraph (c), (e), (f), (g), (h) or (i) of that subsection, until the debtor becomes able to pay the debtor's debts and pays them as they become due, or
-- (c)[^key-e87964cecca64d4dce234340ffeea917] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-e87964cecca64d4dce234340ffeea917] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In this section—
 
@@ -75,8 +75,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a62efe1060ea3806b7632e930715f67f]: Commencement: S. 16 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-a62efe1060ea3806b7632e930715f67f]: Commencement: S. 16 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-1c89a0745992e2b57fe94fb7b4a3c2f8]: Textual amendment: [S. 16(1)(d)](https://www.legislation.gov.uk/asp/2016/21/section/16/1/d) omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [4(10)](https://www.legislation.gov.uk/ssi/2019/94/regulation/4/10) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1c89a0745992e2b57fe94fb7b4a3c2f8]: Textual amendment: [S. 16(1)(d)](https://www.legislation.gov.uk/asp/2016/21/section/16/1/d) omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [4(10)](https://www.legislation.gov.uk/ssi/2019/94/regulation/4/10) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e87964cecca64d4dce234340ffeea917]: Textual amendment: [S. 16(7)(c)](https://www.legislation.gov.uk/asp/2016/21/section/16/7/c) omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [4(10)](https://www.legislation.gov.uk/ssi/2019/94/regulation/4/10) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e87964cecca64d4dce234340ffeea917]: Textual amendment: [S. 16(7)(c)](https://www.legislation.gov.uk/asp/2016/21/section/16/7/c) omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [4(10)](https://www.legislation.gov.uk/ssi/2019/94/regulation/4/10) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 270. General provisions as to service[^key-e0f54a27f5f0aaf72607686cf1285567]
+## 270. General provisions as to service[^c-e0f54a27f5f0aaf72607686cf1285567]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ CPR Part 6 (service of documents) applies as regards any matter relating to the 
 
 ## Annotations
 
-[^key-e0f54a27f5f0aaf72607686cf1285567]: Commencement: Rule 270 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-e0f54a27f5f0aaf72607686cf1285567]: Commencement: Rule 270 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

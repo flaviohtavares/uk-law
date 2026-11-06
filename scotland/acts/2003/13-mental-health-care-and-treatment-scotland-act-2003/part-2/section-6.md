@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Reporting on operation of Act[^key-0cc0d1791811204222b0fe711474a9f3]
+## 6. Reporting on operation of Act[^c-0cc0d1791811204222b0fe711474a9f3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Commission shall bring to the attention of the Scottish Ministers such matte
 
 ## Annotations
 
-[^key-0cc0d1791811204222b0fe711474a9f3]: Commencement: S. 6 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-0cc0d1791811204222b0fe711474a9f3]: Commencement: S. 6 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

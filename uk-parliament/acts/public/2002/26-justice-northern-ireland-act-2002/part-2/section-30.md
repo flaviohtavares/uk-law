@@ -48,7 +48,7 @@ summary: ''
 
 (8) If the office of Deputy Director becomes vacant, the Attorney General for Northern Ireland may appoint a member of staff of the Service to act as Deputy Director, on such terms as to tenure as the Attorney General for Northern Ireland determines, pending a new appointment.
 
-(9)[^key-380b4103339202e935faf1f5a7ec6a2b] There is to be paid (out of money appropriated as mentioned in section 29(3)) to or in respect of the Director, the Deputy Director and any person appointed to act as Deputy Director any such—
+(9)[^c-380b4103339202e935faf1f5a7ec6a2b] There is to be paid (out of money appropriated as mentioned in section 29(3)) to or in respect of the Director, the Deputy Director and any person appointed to act as Deputy Director any such—
 
 - (a) salary,
 - (b) allowances, or
@@ -58,7 +58,7 @@ as the Department of Finance and Personnel may determine.
 
 (10) The Director is not required to give security with respect to any proceedings; and no order may be made by any court requiring security to be given to the Director with respect to any proceedings.
 
-(11)[^key-c4cefdb175155b4724f68bc91f320ecd] The Director (and the Deputy Director and members of staff of the Service) may not be required in any proceedings of the Assembly to answer any question or produce any document relating to a matter other than the finances and administration of the Service.
+(11)[^c-c4cefdb175155b4724f68bc91f320ecd] The Director (and the Deputy Director and members of staff of the Service) may not be required in any proceedings of the Assembly to answer any question or produce any document relating to a matter other than the finances and administration of the Service.
 
 ## Annotations
 
@@ -66,6 +66,6 @@ as the Department of Finance and Personnel may determine.
 
 [^c20854261]: Textual amendment: Words in s. 30 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2](https://www.legislation.gov.uk/uksi/2009/1604/article/2)
 
-[^key-380b4103339202e935faf1f5a7ec6a2b]: Textual amendment: [S. 30(9)](https://www.legislation.gov.uk/ukpga/2002/26/section/30/9) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 13 para. 3](https://www.legislation.gov.uk/uksi/2010/976/schedule/13/paragraph/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-380b4103339202e935faf1f5a7ec6a2b]: Textual amendment: [S. 30(9)](https://www.legislation.gov.uk/ukpga/2002/26/section/30/9) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 13 para. 3](https://www.legislation.gov.uk/uksi/2010/976/schedule/13/paragraph/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-c4cefdb175155b4724f68bc91f320ecd]: Commencement: S. 30(11) in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 10](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/10)
+[^c-c4cefdb175155b4724f68bc91f320ecd]: Commencement: S. 30(11) in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 10](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/10)

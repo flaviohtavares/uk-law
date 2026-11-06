@@ -44,11 +44,11 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 52(3) of that Act, a draft of this Order been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-d0e4aec9e4aca7d10c742df8f2bf521b]
+## 1. Citation and commencement[^c-d0e4aec9e4aca7d10c742df8f2bf521b]
 
 This Order may be cited as the National Bus Travel Concession Scheme for Young Persons (Scotland) Order 2021 and comes into force on 1 April 2021.
 
-## 2. Interpretation[^key-9dafff6b06af5e510a4584c7153c6b44]
+## 2. Interpretation[^c-9dafff6b06af5e510a4584c7153c6b44]
 
 (1) In this Order—
 
@@ -74,32 +74,32 @@ This Order may be cited as the National Bus Travel Concession Scheme for Young P
 
 (2) Any reference in this Order to estimates or calculations made by the Scottish Ministers in relation to reimbursement payments is a reference to estimates or calculations made by the best practical method available to the Scottish Ministers.
 
-## 3. The scheme[^key-7ac6daf39856c0eecdffa5a751c53bde]
+## 3. The scheme[^c-7ac6daf39856c0eecdffa5a751c53bde]
 
 This Order establishes a national travel concession scheme for the provision of travel concessions to eligible persons travelling on eligible services on eligible journeys to be known as the National Bus Travel Concession Scheme for Young Persons.
 
-## 4. Extent of the scheme[^key-7d1634b855833858ebd6f28845ee671c]
+## 4. Extent of the scheme[^c-7d1634b855833858ebd6f28845ee671c]
 
 The scheme is to operate throughout Scotland and the Scottish Ministers must administer the scheme.
 
-## 5. Rate of travel concession[^key-169e0df97185681b6e7b118909010bfb]
+## 5. Rate of travel concession[^c-169e0df97185681b6e7b118909010bfb]
 
 The rate of travel concession in the scheme is to be a waiver of the fare (within the meaning of the Public Passenger Vehicles Act 1981[^f00005]) for the journey.
 
-## 6. Conditions for operators[^key-77e50e745b041fd2396cf8536cc9d955]
+## 6. Conditions for operators[^c-77e50e745b041fd2396cf8536cc9d955]
 
 (1) Operators admitted to the scheme must provide travel concessions to eligible persons travelling on eligible services on eligible journeys on presentation by the eligible person of a valid travel card, in accordance with the provisions of this Order.
 
 (2) Travel concessions must be provided at all times on presentation of a valid travel card provided that the service is an eligible service.
 
-## 7. Operators to whom the scheme applies[^key-a9ff02e3a95f18b9d8e02c88b4ccafc0]
+## 7. Operators to whom the scheme applies[^c-a9ff02e3a95f18b9d8e02c88b4ccafc0]
 
 The Scottish Ministers may admit to the scheme any operator who—
 
 - (a) registers an eligible service with the traffic commissioner under section 6 of the Transport Act 1985[^f00006] where that service is shown in Notices or Proceedings, or
 - (b) has otherwise commenced operation of an eligible service.
 
-## 8. Admission to the scheme[^key-7962512be2b7cb0f436c739c5c7adc11]
+## 8. Admission to the scheme[^c-7962512be2b7cb0f436c739c5c7adc11]
 
 (1) Where the Scottish Ministers admit an operator to the scheme they must issue a notice of admission to the operator requiring them to provide travel concessions in accordance with the scheme.
 
@@ -116,7 +116,7 @@ The Scottish Ministers may admit to the scheme any operator who—
 
 (6) The assessment panel must send a copy of their determination to the operator and to the Scottish Ministers.
 
-## 9. Compulsory participation notices[^key-9bca0cd78778e4c4ff33b34de550c649]
+## 9. Compulsory participation notices[^c-9bca0cd78778e4c4ff33b34de550c649]
 
 (1) An operator of an eligible service may seek to withdraw from the scheme provided that the operator gives 56 days’ notice in writing to the Scottish Ministers of their intention to withdraw.
 
@@ -140,7 +140,7 @@ The Scottish Ministers may admit to the scheme any operator who—
 - (a) where a determination is made under paragraph (6)(a), set out in writing to the operator the eligible service or services for which the compulsory participation notice will be effective, or
 - (b) where a determination is made under paragraph (6)(b), either cancel the compulsory participation notice or modify the reimbursement arrangements if so proposed by the panel.
 
-## 10. Exclusion from the scheme[^key-c82e1ec50c27bd231dfced2bf549ddf2]
+## 10. Exclusion from the scheme[^c-c82e1ec50c27bd231dfced2bf549ddf2]
 
 (1) The Scottish Ministers may exclude an operator of an eligible service from the scheme in relation to any eligible service.
 
@@ -155,7 +155,7 @@ The Scottish Ministers may admit to the scheme any operator who—
 
 (5) The assessment panel must send a copy of their determination to the operator and to the Scottish Ministers.
 
-## 11. Information to be provided by operators[^key-2f1fa6aee042abf3ab447464a5e41c95]
+## 11. Information to be provided by operators[^c-2f1fa6aee042abf3ab447464a5e41c95]
 
 (1) An operator must provide the Scottish Ministers with the following information for each eligible service—
 
@@ -178,42 +178,42 @@ The Scottish Ministers may admit to the scheme any operator who—
 
 (7) Access is to be provided under paragraph (6) for unspecified periods, without the need for any prior notification and without charge.
 
-## 12. Reimbursement of operators[^key-3777a017497fd568781a0855d98716ab]
+## 12. Reimbursement of operators[^c-3777a017497fd568781a0855d98716ab]
 
 (1) It is to be an objective (but not a duty) of the Scottish Ministers to provide that operators are financially no better and no worse off as a result of their participation in the scheme, taking account of the costs (including a reasonable profit) of a well-run undertaking that is adequately equipped with the means to provide the eligible service.
 
 (2) Reimbursement of operators is to be calculated on a basis that takes account of the adult single fare for each eligible journey on an eligible service made by an eligible person.
 
-(3)[^key-f2174b07fd12a9aa5d57917a1d0cf8a9] The Scottish Ministers must make reimbursement payments to operators at the reimbursement rate specified for each financial year, within the capped level of funding specified for that year.
+(3)[^c-f2174b07fd12a9aa5d57917a1d0cf8a9] The Scottish Ministers must make reimbursement payments to operators at the reimbursement rate specified for each financial year, within the capped level of funding specified for that year.
 
-(3A)[^key-d86ac8ae0ab16c18800c842ea78538db] The capped level of funding is £220,600,000 for the financial year beginning on 1 April 2026.
+(3A)[^c-d86ac8ae0ab16c18800c842ea78538db] The capped level of funding is £220,600,000 for the financial year beginning on 1 April 2026.
 
-(4)[^key-fb4f6c571d65d11e0ad916048f770d6c] The reimbursement rate for the period from 12 November 2021 to the end of the financial year beginning on 1 April 2021 is—
-
-- (a) 43.6% in relation to eligible journeys on eligible services made by eligible persons aged 5 to 15 years old,
-- (b) 81.2% in relation to eligible journeys on eligible services made by eligible persons aged 16 to 21 years old.
-
-(4A)[^key-4761e43d04e726193e36a84975dc38f1] The reimbursement rate for the financial year beginning on 1 April 2022 is—
+(4)[^c-fb4f6c571d65d11e0ad916048f770d6c] The reimbursement rate for the period from 12 November 2021 to the end of the financial year beginning on 1 April 2021 is—
 
 - (a) 43.6% in relation to eligible journeys on eligible services made by eligible persons aged 5 to 15 years old,
 - (b) 81.2% in relation to eligible journeys on eligible services made by eligible persons aged 16 to 21 years old.
 
-(4B)[^key-adee42760013bcd10f2eec26a135164c] The reimbursement rate for the financial year beginning on 1 April 2023 is—
+(4A)[^c-4761e43d04e726193e36a84975dc38f1] The reimbursement rate for the financial year beginning on 1 April 2022 is—
 
 - (a) 43.6% in relation to eligible journeys on eligible services made by eligible persons aged 5 to 15 years old,
 - (b) 81.2% in relation to eligible journeys on eligible services made by eligible persons aged 16 to 21 years old.
 
-(4C)[^key-63b244c86962584b96aaeb7e8c2457b1] The reimbursement rate for the financial year beginning on 1 April 2024 is—
+(4B)[^c-adee42760013bcd10f2eec26a135164c] The reimbursement rate for the financial year beginning on 1 April 2023 is—
 
 - (a) 43.6% in relation to eligible journeys on eligible services made by eligible persons aged 5 to 15 years old,
 - (b) 81.2% in relation to eligible journeys on eligible services made by eligible persons aged 16 to 21 years old.
 
-(4D)[^key-10838a6b1efb1cbef470b9853d29e9dd] The reimbursement rate for the financial year beginning on 1 April 2025 is—
+(4C)[^c-63b244c86962584b96aaeb7e8c2457b1] The reimbursement rate for the financial year beginning on 1 April 2024 is—
+
+- (a) 43.6% in relation to eligible journeys on eligible services made by eligible persons aged 5 to 15 years old,
+- (b) 81.2% in relation to eligible journeys on eligible services made by eligible persons aged 16 to 21 years old.
+
+(4D)[^c-10838a6b1efb1cbef470b9853d29e9dd] The reimbursement rate for the financial year beginning on 1 April 2025 is—
 
 - (a) 47.9% in relation to eligible journeys on eligible services made by eligible persons aged 5 to 15 years old,
 - (b) 72.4% in relation to eligible journeys on eligible services made by eligible persons aged 16 to 21 years old.
 
-(4E)[^key-6eb14da2bded949458823c7f011e20ee] The reimbursement rate for the financial year beginning on 1 April 2026 is—
+(4E)[^c-6eb14da2bded949458823c7f011e20ee] The reimbursement rate for the financial year beginning on 1 April 2026 is—
 
 - (a) 48.1% in relation to eligible journeys on eligible services made by eligible persons aged 5 to 15 years old,
 - (b) 72.5% in relation to eligible journeys on eligible services made by eligible persons aged 16 to 21 years old.
@@ -230,7 +230,7 @@ The Scottish Ministers may admit to the scheme any operator who—
 
 (10) In this article “reimbursement rate” means the percentage payable by the Scottish Ministers, of the adult single fare for each eligible journey on an eligible service made by an eligible person.
 
-## 13. Payment of reimbursement[^key-7d9f060d3918a197c5bc4de250d944db]
+## 13. Payment of reimbursement[^c-7d9f060d3918a197c5bc4de250d944db]
 
 (1) There are to be 13 payment periods at regular intervals in the financial year.
 
@@ -255,17 +255,17 @@ The Scottish Ministers may admit to the scheme any operator who—
 
 (10) Access is to be provided under paragraph (9) without the need for any prior notification and without charge.
 
-## 14. Verification[^key-9c400daa8c605f97850f4926469b38fc]
+## 14. Verification[^c-9c400daa8c605f97850f4926469b38fc]
 
 Information as to the adult single fare used in an operator’s reimbursement claim and any information required by article 11(3) must be verified by compliance audits and surveys and by means of any other verification activity agreed between the operator and the Scottish Ministers.
 
-## 14A. Standards of conduct[^key-310674c39310c005d1d28bced2c627f3]
+## 14A. Standards of conduct[^c-310674c39310c005d1d28bced2c627f3]
 
 (1) The Scottish Ministers may determine standards of conduct for eligible persons using the scheme.
 
 (2) Any standards determined under paragraph (1) must be published in such manner as the Scottish Ministers consider appropriate.
 
-## 15. Travel cards[^key-221915e2e9a4bcb96892671402d87397]
+## 15. Travel cards[^c-221915e2e9a4bcb96892671402d87397]
 
 (1) An eligible person may make an application to the Scottish Ministers for a travel card in order to obtain travel concessions in accordance with the scheme.
 
@@ -273,25 +273,25 @@ Information as to the adult single fare used in an operator’s reimbursement cl
 
 (3) The Scottish Ministers may withdraw or suspend a travel card—
 
-- (a) if an eligible person knowingly allows their travel card to be used by another person, [^key-b5791c6e86ecc88ddc5cc624a0f46eae]...
-- (aa)[^key-f108248021ca84e1be8c64573bbffa0b] if an eligible person breached standards of conduct determined under article 14A while using the scheme, or
+- (a) if an eligible person knowingly allows their travel card to be used by another person, [^c-b5791c6e86ecc88ddc5cc624a0f46eae]...
+- (aa)[^c-f108248021ca84e1be8c64573bbffa0b] if an eligible person breached standards of conduct determined under article 14A while using the scheme, or
 - (b) in such other circumstances as they may determine.
 
-(4)[^key-6ebd34db5bbfc9bc96b24f157e2a93ba] Before making a decision under paragraph (3), the Scottish Ministers must—
+(4)[^c-6ebd34db5bbfc9bc96b24f157e2a93ba] Before making a decision under paragraph (3), the Scottish Ministers must—
 
 - (a) give notice to the eligible person,
 - (b) specify the grounds for withdrawal or suspension, and
 - (c) provide the eligible person with an opportunity to make representations.
 
-## 16. Eligible persons[^key-44ab6e1c5e4a854ed49a56a1b8298abb]
+## 16. Eligible persons[^c-44ab6e1c5e4a854ed49a56a1b8298abb]
 
 A person is an eligible person for the purposes of the scheme if that person is—
 
 - (a) resident in Scotland,
 - (b) of fare paying age, and
-- (c)[^key-a03e7ab6c88d07b33d4b66a9d3c972f2] aged 21 years or under.
+- (c)[^c-a03e7ab6c88d07b33d4b66a9d3c972f2] aged 21 years or under.
 
-## 17. Eligible services[^key-10cc20ccc69d2d54bd8bb21eda7d5c79]
+## 17. Eligible services[^c-10cc20ccc69d2d54bd8bb21eda7d5c79]
 
 (1) A service is an eligible service for the purposes of the scheme if it is a service which operates wholly within Scotland or a Northern England service and in either case is either—
 
@@ -310,7 +310,7 @@ A person is an eligible person for the purposes of the scheme if that person is�
 
 (3) For the purposes of paragraph (2)(c) fares are to be regarded as including a special amenity element if they are significantly high in relation to the general level of fares for comparable journeys.
 
-## 18. Amendments to the National Bus Travel Concession Scheme for Older and Disabled Persons (Scotland) Order 2006[^key-775aecf32eae3295fcfbd77d0a0362b7]
+## 18. Amendments to the National Bus Travel Concession Scheme for Older and Disabled Persons (Scotland) Order 2006[^c-775aecf32eae3295fcfbd77d0a0362b7]
 
 (1) The National Bus Travel Concession Scheme for Older and Disabled Persons (Scotland) Order 2006[^f00008] is amended as follows.
 
@@ -329,7 +329,7 @@ A person is an eligible person for the purposes of the scheme if that person is�
 
 (3) In article 13, in paragraph (8), for the words “3 years” substitute “1 year”.
 
-## 19. Amendment of the National Bus Travel Concession Scheme for Older and Disabled Persons (Eligible Persons and Eligible Services) (Scotland) Order 2006[^key-63cc1d2a6414978993060b94b1722c98]
+## 19. Amendment of the National Bus Travel Concession Scheme for Older and Disabled Persons (Eligible Persons and Eligible Services) (Scotland) Order 2006[^c-63cc1d2a6414978993060b94b1722c98]
 
 (1) The National Bus Travel Concession Scheme for Older and Disabled Persons (Eligible Persons and Eligible Services) (Scotland) Order 2006[^f00009] is amended as follows.
 
@@ -420,9 +420,9 @@ A Business and Regulatory Impact Assessment (“BRIA”) has been prepared in re
 
 [^f00001]: Footnote: [2005 asp 12](https://www.legislation.gov.uk/asp/2005/12). The powers to make this Order are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). The Order is subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-d0e4aec9e4aca7d10c742df8f2bf521b]: Commencement: Art. 1 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
+[^c-d0e4aec9e4aca7d10c742df8f2bf521b]: Commencement: Art. 1 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
 
-[^key-9dafff6b06af5e510a4584c7153c6b44]: Commencement: Art. 2 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
+[^c-9dafff6b06af5e510a4584c7153c6b44]: Commencement: Art. 2 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
 
 [^f00002]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -430,73 +430,73 @@ A Business and Regulatory Impact Assessment (“BRIA”) has been prepared in re
 
 [^f00004]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-7ac6daf39856c0eecdffa5a751c53bde]: Commencement: Art. 3 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
+[^c-7ac6daf39856c0eecdffa5a751c53bde]: Commencement: Art. 3 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
 
-[^key-7d1634b855833858ebd6f28845ee671c]: Commencement: Art. 4 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
+[^c-7d1634b855833858ebd6f28845ee671c]: Commencement: Art. 4 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
 
-[^key-169e0df97185681b6e7b118909010bfb]: Commencement: Art. 5 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
+[^c-169e0df97185681b6e7b118909010bfb]: Commencement: Art. 5 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
 
 [^f00005]: Footnote: Section 82 includes a definition of “fare” which includes sums payable in respect of a contract ticket or a season ticket.
 
-[^key-77e50e745b041fd2396cf8536cc9d955]: Commencement: Art. 6 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
+[^c-77e50e745b041fd2396cf8536cc9d955]: Commencement: Art. 6 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
 
-[^key-a9ff02e3a95f18b9d8e02c88b4ccafc0]: Commencement: Art. 7 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
+[^c-a9ff02e3a95f18b9d8e02c88b4ccafc0]: Commencement: Art. 7 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
 
 [^f00006]: Footnote: [1985 c.67](https://www.legislation.gov.uk/ukpga/1985/67).
 
-[^key-7962512be2b7cb0f436c739c5c7adc11]: Commencement: Art. 8 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
+[^c-7962512be2b7cb0f436c739c5c7adc11]: Commencement: Art. 8 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
 
-[^key-9bca0cd78778e4c4ff33b34de550c649]: Commencement: Art. 9 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
+[^c-9bca0cd78778e4c4ff33b34de550c649]: Commencement: Art. 9 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
 
-[^key-c82e1ec50c27bd231dfced2bf549ddf2]: Commencement: Art. 10 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
+[^c-c82e1ec50c27bd231dfced2bf549ddf2]: Commencement: Art. 10 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
 
-[^key-2f1fa6aee042abf3ab447464a5e41c95]: Commencement: Art. 11 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
+[^c-2f1fa6aee042abf3ab447464a5e41c95]: Commencement: Art. 11 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
 
-[^key-3777a017497fd568781a0855d98716ab]: Commencement: Art. 12 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
+[^c-3777a017497fd568781a0855d98716ab]: Commencement: Art. 12 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
 
-[^key-f2174b07fd12a9aa5d57917a1d0cf8a9]: Textual amendment: [Art. 12(3)](https://www.legislation.gov.uk/ssi/2021/175/article/12/3) substituted (1.4.2026) by [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) (No. 2) Order 2026 (S.S.I. 2026/159)](https://www.legislation.gov.uk/ssi/2026/159), [arts. 1](https://www.legislation.gov.uk/ssi/2026/159/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2026/159/article/3/2)
+[^c-f2174b07fd12a9aa5d57917a1d0cf8a9]: Textual amendment: [Art. 12(3)](https://www.legislation.gov.uk/ssi/2021/175/article/12/3) substituted (1.4.2026) by [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) (No. 2) Order 2026 (S.S.I. 2026/159)](https://www.legislation.gov.uk/ssi/2026/159), [arts. 1](https://www.legislation.gov.uk/ssi/2026/159/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2026/159/article/3/2)
 
-[^key-d86ac8ae0ab16c18800c842ea78538db]: Textual amendment: [Art. 12(3A)](https://www.legislation.gov.uk/ssi/2021/175/article/12/3A) inserted (1.4.2026) by [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) (No. 2) Order 2026 (S.S.I. 2026/159)](https://www.legislation.gov.uk/ssi/2026/159), [arts. 1](https://www.legislation.gov.uk/ssi/2026/159/article/1), [3(3)](https://www.legislation.gov.uk/ssi/2026/159/article/3/3)
+[^c-d86ac8ae0ab16c18800c842ea78538db]: Textual amendment: [Art. 12(3A)](https://www.legislation.gov.uk/ssi/2021/175/article/12/3A) inserted (1.4.2026) by [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) (No. 2) Order 2026 (S.S.I. 2026/159)](https://www.legislation.gov.uk/ssi/2026/159), [arts. 1](https://www.legislation.gov.uk/ssi/2026/159/article/1), [3(3)](https://www.legislation.gov.uk/ssi/2026/159/article/3/3)
 
-[^key-fb4f6c571d65d11e0ad916048f770d6c]: Textual amendment: [Art. 12(4)](https://www.legislation.gov.uk/ssi/2021/175/article/12/4) substituted (12.11.2021) by [The National Bus Travel Concession Scheme for Young Persons (Scotland) Amendment Order 2021 (S.S.I. 2021/381)](https://www.legislation.gov.uk/ssi/2021/381), [arts. 1](https://www.legislation.gov.uk/ssi/2021/381/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/381/article/2/2)
+[^c-fb4f6c571d65d11e0ad916048f770d6c]: Textual amendment: [Art. 12(4)](https://www.legislation.gov.uk/ssi/2021/175/article/12/4) substituted (12.11.2021) by [The National Bus Travel Concession Scheme for Young Persons (Scotland) Amendment Order 2021 (S.S.I. 2021/381)](https://www.legislation.gov.uk/ssi/2021/381), [arts. 1](https://www.legislation.gov.uk/ssi/2021/381/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/381/article/2/2)
 
-[^key-4761e43d04e726193e36a84975dc38f1]: Textual amendment: [Art. 12(4A)](https://www.legislation.gov.uk/ssi/2021/175/article/12/4A) inserted (1.4.2022) by [The National Bus Travel Concession Schemes (Miscellaneous Amendments) (Scotland) Order 2022 (S.S.I. 2022/115)](https://www.legislation.gov.uk/ssi/2022/115), [arts. 1](https://www.legislation.gov.uk/ssi/2022/115/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2022/115/article/3/2)
+[^c-4761e43d04e726193e36a84975dc38f1]: Textual amendment: [Art. 12(4A)](https://www.legislation.gov.uk/ssi/2021/175/article/12/4A) inserted (1.4.2022) by [The National Bus Travel Concession Schemes (Miscellaneous Amendments) (Scotland) Order 2022 (S.S.I. 2022/115)](https://www.legislation.gov.uk/ssi/2022/115), [arts. 1](https://www.legislation.gov.uk/ssi/2022/115/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2022/115/article/3/2)
 
-[^key-adee42760013bcd10f2eec26a135164c]: Textual amendment: [Art. 12(4B)](https://www.legislation.gov.uk/ssi/2021/175/article/12/4B) inserted (1.4.2023) by [The National Bus Travel Concession Schemes (Miscellaneous Amendments) (Scotland) Order 2023 (S.S.I. 2023/108)](https://www.legislation.gov.uk/ssi/2023/108), [arts. 1](https://www.legislation.gov.uk/ssi/2023/108/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2023/108/article/3/2)
+[^c-adee42760013bcd10f2eec26a135164c]: Textual amendment: [Art. 12(4B)](https://www.legislation.gov.uk/ssi/2021/175/article/12/4B) inserted (1.4.2023) by [The National Bus Travel Concession Schemes (Miscellaneous Amendments) (Scotland) Order 2023 (S.S.I. 2023/108)](https://www.legislation.gov.uk/ssi/2023/108), [arts. 1](https://www.legislation.gov.uk/ssi/2023/108/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2023/108/article/3/2)
 
-[^key-63b244c86962584b96aaeb7e8c2457b1]: Textual amendment: [Art. 12(4C)](https://www.legislation.gov.uk/ssi/2021/175/article/12/4C) inserted (1.4.2024) by [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) Order 2024 (S.S.I. 2024/107)](https://www.legislation.gov.uk/ssi/2024/107), [arts. 1](https://www.legislation.gov.uk/ssi/2024/107/article/1), [3](https://www.legislation.gov.uk/ssi/2024/107/article/3)
+[^c-63b244c86962584b96aaeb7e8c2457b1]: Textual amendment: [Art. 12(4C)](https://www.legislation.gov.uk/ssi/2021/175/article/12/4C) inserted (1.4.2024) by [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) Order 2024 (S.S.I. 2024/107)](https://www.legislation.gov.uk/ssi/2024/107), [arts. 1](https://www.legislation.gov.uk/ssi/2024/107/article/1), [3](https://www.legislation.gov.uk/ssi/2024/107/article/3)
 
-[^key-10838a6b1efb1cbef470b9853d29e9dd]: Textual amendment: [Art. 12(4D)](https://www.legislation.gov.uk/ssi/2021/175/article/12/4D) inserted (1.4.2025) by [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/99)](https://www.legislation.gov.uk/ssi/2025/99), [arts. 1](https://www.legislation.gov.uk/ssi/2025/99/article/1), [3](https://www.legislation.gov.uk/ssi/2025/99/article/3)
+[^c-10838a6b1efb1cbef470b9853d29e9dd]: Textual amendment: [Art. 12(4D)](https://www.legislation.gov.uk/ssi/2021/175/article/12/4D) inserted (1.4.2025) by [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/99)](https://www.legislation.gov.uk/ssi/2025/99), [arts. 1](https://www.legislation.gov.uk/ssi/2025/99/article/1), [3](https://www.legislation.gov.uk/ssi/2025/99/article/3)
 
-[^key-6eb14da2bded949458823c7f011e20ee]: Textual amendment: [Art. 12(4E)](https://www.legislation.gov.uk/ssi/2021/175/article/12/4E) inserted (1.4.2026) by [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) (No. 2) Order 2026 (S.S.I. 2026/159)](https://www.legislation.gov.uk/ssi/2026/159), [arts. 1](https://www.legislation.gov.uk/ssi/2026/159/article/1), [3(4)](https://www.legislation.gov.uk/ssi/2026/159/article/3/4)
+[^c-6eb14da2bded949458823c7f011e20ee]: Textual amendment: [Art. 12(4E)](https://www.legislation.gov.uk/ssi/2021/175/article/12/4E) inserted (1.4.2026) by [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) (No. 2) Order 2026 (S.S.I. 2026/159)](https://www.legislation.gov.uk/ssi/2026/159), [arts. 1](https://www.legislation.gov.uk/ssi/2026/159/article/1), [3(4)](https://www.legislation.gov.uk/ssi/2026/159/article/3/4)
 
-[^key-7d9f060d3918a197c5bc4de250d944db]: Commencement: Art. 13 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
+[^c-7d9f060d3918a197c5bc4de250d944db]: Commencement: Art. 13 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
 
-[^key-9c400daa8c605f97850f4926469b38fc]: Commencement: Art. 14 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
+[^c-9c400daa8c605f97850f4926469b38fc]: Commencement: Art. 14 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
 
-[^key-310674c39310c005d1d28bced2c627f3]: Textual amendment: [Art. 14A](https://www.legislation.gov.uk/ssi/2021/175/article/14A) inserted (24.3.2026) by [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/154)](https://www.legislation.gov.uk/ssi/2026/154), [arts. 1](https://www.legislation.gov.uk/ssi/2026/154/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2026/154/article/3/2)
+[^c-310674c39310c005d1d28bced2c627f3]: Textual amendment: [Art. 14A](https://www.legislation.gov.uk/ssi/2021/175/article/14A) inserted (24.3.2026) by [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/154)](https://www.legislation.gov.uk/ssi/2026/154), [arts. 1](https://www.legislation.gov.uk/ssi/2026/154/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2026/154/article/3/2)
 
-[^key-221915e2e9a4bcb96892671402d87397]: Commencement: Art. 15 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
+[^c-221915e2e9a4bcb96892671402d87397]: Commencement: Art. 15 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
 
-[^key-b5791c6e86ecc88ddc5cc624a0f46eae]: Textual amendment: Word in [art. 15(3)(a)](https://www.legislation.gov.uk/ssi/2021/175/article/15/3/a) omitted (24.3.2026) by virtue of [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/154)](https://www.legislation.gov.uk/ssi/2026/154), [arts. 1](https://www.legislation.gov.uk/ssi/2026/154/article/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2026/154/article/3/3/a)
+[^c-b5791c6e86ecc88ddc5cc624a0f46eae]: Textual amendment: Word in [art. 15(3)(a)](https://www.legislation.gov.uk/ssi/2021/175/article/15/3/a) omitted (24.3.2026) by virtue of [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/154)](https://www.legislation.gov.uk/ssi/2026/154), [arts. 1](https://www.legislation.gov.uk/ssi/2026/154/article/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2026/154/article/3/3/a)
 
-[^key-f108248021ca84e1be8c64573bbffa0b]: Textual amendment: [Art. 15(3)(aa)](https://www.legislation.gov.uk/ssi/2021/175/article/15/3/aa) inserted (24.3.2026) by [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/154)](https://www.legislation.gov.uk/ssi/2026/154), [arts. 1](https://www.legislation.gov.uk/ssi/2026/154/article/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2026/154/article/3/3/b)
+[^c-f108248021ca84e1be8c64573bbffa0b]: Textual amendment: [Art. 15(3)(aa)](https://www.legislation.gov.uk/ssi/2021/175/article/15/3/aa) inserted (24.3.2026) by [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/154)](https://www.legislation.gov.uk/ssi/2026/154), [arts. 1](https://www.legislation.gov.uk/ssi/2026/154/article/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2026/154/article/3/3/b)
 
-[^key-6ebd34db5bbfc9bc96b24f157e2a93ba]: Textual amendment: [Art. 15(4)](https://www.legislation.gov.uk/ssi/2021/175/article/15/4) inserted (24.3.2026) by [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/154)](https://www.legislation.gov.uk/ssi/2026/154), [arts. 1](https://www.legislation.gov.uk/ssi/2026/154/article/1), [3(4)](https://www.legislation.gov.uk/ssi/2026/154/article/3/4)
+[^c-6ebd34db5bbfc9bc96b24f157e2a93ba]: Textual amendment: [Art. 15(4)](https://www.legislation.gov.uk/ssi/2021/175/article/15/4) inserted (24.3.2026) by [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/154)](https://www.legislation.gov.uk/ssi/2026/154), [arts. 1](https://www.legislation.gov.uk/ssi/2026/154/article/1), [3(4)](https://www.legislation.gov.uk/ssi/2026/154/article/3/4)
 
-[^key-44ab6e1c5e4a854ed49a56a1b8298abb]: Commencement: Art. 16 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
+[^c-44ab6e1c5e4a854ed49a56a1b8298abb]: Commencement: Art. 16 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
 
-[^key-a03e7ab6c88d07b33d4b66a9d3c972f2]: Textual amendment: [Art. 16(c)](https://www.legislation.gov.uk/ssi/2021/175/article/16/c) substituted (12.11.2021) by [The National Bus Travel Concession Scheme for Young Persons (Scotland) Amendment Order 2021 (S.S.I. 2021/381)](https://www.legislation.gov.uk/ssi/2021/381), [arts. 1](https://www.legislation.gov.uk/ssi/2021/381/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/381/article/2/3)
+[^c-a03e7ab6c88d07b33d4b66a9d3c972f2]: Textual amendment: [Art. 16(c)](https://www.legislation.gov.uk/ssi/2021/175/article/16/c) substituted (12.11.2021) by [The National Bus Travel Concession Scheme for Young Persons (Scotland) Amendment Order 2021 (S.S.I. 2021/381)](https://www.legislation.gov.uk/ssi/2021/381), [arts. 1](https://www.legislation.gov.uk/ssi/2021/381/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/381/article/2/3)
 
-[^key-10cc20ccc69d2d54bd8bb21eda7d5c79]: Commencement: Art. 17 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
+[^c-10cc20ccc69d2d54bd8bb21eda7d5c79]: Commencement: Art. 17 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
 
 [^f00007]: Footnote: [1985 c.67](https://www.legislation.gov.uk/ukpga/1985/67).
 
-[^key-775aecf32eae3295fcfbd77d0a0362b7]: Commencement: Art. 18 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
+[^c-775aecf32eae3295fcfbd77d0a0362b7]: Commencement: Art. 18 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
 
 [^f00008]: Footnote: [S.S.I. 2006/107](https://www.legislation.gov.uk/ssi/2006/107), amended by [S.S.I. 2010/140](https://www.legislation.gov.uk/ssi/2010/140), [S.S.I. 2013/114](https://www.legislation.gov.uk/ssi/2013/114), [S.S.I. 2015/133](https://www.legislation.gov.uk/ssi/2015/133), [S.S.I. 2017/71](https://www.legislation.gov.uk/ssi/2017/71) and [S.S.I. 2018/98](https://www.legislation.gov.uk/ssi/2018/98).
 
-[^key-63cc1d2a6414978993060b94b1722c98]: Commencement: Art. 19 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
+[^c-63cc1d2a6414978993060b94b1722c98]: Commencement: Art. 19 in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2021/175/article/1)
 
 [^f00009]: Footnote: [S.S.I. 2006/117](https://www.legislation.gov.uk/ssi/2006/117) as amended by [S.S.I. 2013/65](https://www.legislation.gov.uk/ssi/2013/65).
 

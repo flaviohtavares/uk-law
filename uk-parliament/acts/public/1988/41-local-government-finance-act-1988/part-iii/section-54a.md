@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54A. Postponement of compilation of Welsh lists for 2015 onwards[^key-fc59b3ec9ea950a0e5242fcb3ea69bc0]
+## 54A. Postponement of compilation of Welsh lists for 2015 onwards[^c-fc59b3ec9ea950a0e5242fcb3ea69bc0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc59b3ec9ea950a0e5242fcb3ea69bc0]: Textual amendment: [S. 54A](https://www.legislation.gov.uk/ukpga/1988/41/section/54A) omitted (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(8)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/8)
+[^c-fc59b3ec9ea950a0e5242fcb3ea69bc0]: Textual amendment: [S. 54A](https://www.legislation.gov.uk/ukpga/1988/41/section/54A) omitted (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(8)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/8)

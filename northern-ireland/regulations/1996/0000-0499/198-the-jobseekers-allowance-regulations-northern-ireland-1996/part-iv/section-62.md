@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Registration[^key-bf4869114e7f36587ffbe3b4d6a49f64]
+## 62. Registration[^c-bf4869114e7f36587ffbe3b4d6a49f64]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf4869114e7f36587ffbe3b4d6a49f64]: Commencement: Reg. 62 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-bf4869114e7f36587ffbe3b4d6a49f64]: Commencement: Reg. 62 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

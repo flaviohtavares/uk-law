@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39A. Obligations which are met by complying with the obligations in the Directive[^key-47b0c0c2c4bd9eefcc74abcdedd9bc18]
+## 39A. Obligations which are met by complying with the obligations in the Directive[^c-47b0c0c2c4bd9eefcc74abcdedd9bc18]
 
 *Extent: E+W+S*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47b0c0c2c4bd9eefcc74abcdedd9bc18]: Textual amendment: Regs. 39A-39D inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 25](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/25) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 16(3)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/16/3/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-47b0c0c2c4bd9eefcc74abcdedd9bc18]: Textual amendment: Regs. 39A-39D inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 25](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/25) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 16(3)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/16/3/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66A. Conditions relating to independent prescribing[^key-7cd1ae36808be24f1189c75c14cc0db8]
+## 66A. Conditions relating to independent prescribing[^c-7cd1ae36808be24f1189c75c14cc0db8]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7cd1ae36808be24f1189c75c14cc0db8]: Textual amendment: Reg. 66A inserted (1.10.2026) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/961)](https://www.legislation.gov.uk/uksi/2026/961), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/961/regulation/6)
+[^c-7cd1ae36808be24f1189c75c14cc0db8]: Textual amendment: Reg. 66A inserted (1.10.2026) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/961)](https://www.legislation.gov.uk/uksi/2026/961), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/961/regulation/6)

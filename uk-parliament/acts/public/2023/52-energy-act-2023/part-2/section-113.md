@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Prohibition on disclosure of information or samples by OGA[^key-9a4e05fb114a47e5440640db67ce6438]
+## 113. Prohibition on disclosure of information or samples by OGA[^c-9a4e05fb114a47e5440640db67ce6438]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ except in accordance with section 114 or Schedule 7.
 
 ## Annotations
 
-[^key-9a4e05fb114a47e5440640db67ce6438]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2023/52/section/113) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-9a4e05fb114a47e5440640db67ce6438]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2023/52/section/113) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

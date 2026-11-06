@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Restrictions on use of information obtained[^key-c581272c8f91b583e575866b0f895fc8]
+## 15. Restrictions on use of information obtained[^c-c581272c8f91b583e575866b0f895fc8]
 
 *Extent: E+W+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c581272c8f91b583e575866b0f895fc8]: Commencement: S. 15 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(d)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/d)
+[^c-c581272c8f91b583e575866b0f895fc8]: Commencement: S. 15 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(d)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/d)

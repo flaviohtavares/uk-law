@@ -46,31 +46,31 @@ In accordance with section 40(7) of that Act, they have consulted such associat
 
 In accordance with section 40(6) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-9dcebc14b6e7951ec5c911589c6e8c4a]
+## 1. Citation and commencement[^c-9dcebc14b6e7951ec5c911589c6e8c4a]
 
 These Regulations may be cited as the Local Government Investments (Scotland) Regulations 2010 and come into force on 1st April 2010.
 
-## 2. Requirement for consent from Scottish Ministers in respect of local authority investments[^key-2a1bf6adf1b66b9c0d1356b16521e271]
+## 2. Requirement for consent from Scottish Ministers in respect of local authority investments[^c-2a1bf6adf1b66b9c0d1356b16521e271]
 
 A local authority may invest money only with the consent of the Scottish Ministers.
 
-## 3. Documents relevant to investments[^key-9bb6e6253ecea1971adf115e4a80704b]
+## 3. Documents relevant to investments[^c-9bb6e6253ecea1971adf115e4a80704b]
 
 (1) When making investments a local authority must—
 
 - (a) comply with the requirements of any consent issued by the Scottish Ministers; and
 - (b) have regard to the documents specified in paragraph (2).
 
-(2)[^key-608864efea4de110f437f614475d0069] The documents referred to in paragraph (1)(b) are—
+(2)[^c-608864efea4de110f437f614475d0069] The documents referred to in paragraph (1)(b) are—
 
 - (a) ‘Treasury Management in the Public Services: Code of Practice and Cross-sectoral Guidance Notes (2021 edition)’ published by the Chartered Institute of Public Finance and Accountancy in 2021[^f00003]; and
 - (b) ‘The Prudential Code for Capital Finance in Local Authorities (2021 edition)’ published by that institute in 2021.
 
-## 4. Disapplication of the Trustee Investments Act 1961[^key-e49b174a62ad4a21acb9c63dd6972865]
+## 4. Disapplication of the Trustee Investments Act 1961[^c-e49b174a62ad4a21acb9c63dd6972865]
 
 The Trustee Investments Act 1961[^f00004] ceases to have effect to the extent to which it applies to local authority investment of money, except in so far as that Act (or any provision of it) is applied by or under any other enactment.
 
-## 5. Amendment of the Local Government (Scotland) Act 1973[^key-6d496b11e68a4387cd2ed1109bd0ef65]
+## 5. Amendment of the Local Government (Scotland) Act 1973[^c-6d496b11e68a4387cd2ed1109bd0ef65]
 
 In section 56(6) of the Local Government (Scotland) Act 1973[^f00005] (restriction of arrangements for discharge of functions by local authorities), after paragraph (d) insert—
 
@@ -78,15 +78,15 @@ In section 56(6) of the Local Government (Scotland) Act 1973[^f00005] (restrict
 
 .
 
-## 6. Amendment of the Local Government (Scotland) Act 1975[^key-5be492add99c9b35e70e755733082b6e]
+## 6. Amendment of the Local Government (Scotland) Act 1975[^c-5be492add99c9b35e70e755733082b6e]
 
 In paragraph 22(3) of Schedule 3 to the Local Government (Scotland) Act 1975[^f00006] (borrowing and lending by local authorities and certain other bodies and certain of their funds), for “trustee securities” substitute “accordance with regulations made under section 40 of the Local Government in Scotland Act [2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1)”.
 
-## 7. Amendment of the Zetland County Council Act 1974[^key-81578b1af15631f83529207573700360]
+## 7. Amendment of the Zetland County Council Act 1974[^c-81578b1af15631f83529207573700360]
 
 In section 67(2) of the Zetland County Council Act 1974[^f00007] (reserve fund), for the words from “any securities” to the end substitute “accordance with regulations made under section 40 of the Local Government in Scotland Act [2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1)”.
 
-## 8. Amendment of the Orkney County Council Act 1974[^key-645fe00a32c2d1035e7044221d3e7181]
+## 8. Amendment of the Orkney County Council Act 1974[^c-645fe00a32c2d1035e7044221d3e7181]
 
 In section 69(2) of the Orkney County Council Act 1974[^f00008] (reserve fund), for the words from “any securities” to the end substitute “accordance with regulations made under section 40 of the Local Government in Scotland Act [2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1)”.
 
@@ -122,32 +122,32 @@ Regulations 7 and 8 make similar amendment to the Zetland County Council Act 197
 
 [^f00001]: Footnote: [2003 asp 1](https://www.legislation.gov.uk/asp/2003/1).
 
-[^key-9dcebc14b6e7951ec5c911589c6e8c4a]: Commencement: Reg. 1 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/122/regulation/1)
+[^c-9dcebc14b6e7951ec5c911589c6e8c4a]: Commencement: Reg. 1 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/122/regulation/1)
 
-[^key-2a1bf6adf1b66b9c0d1356b16521e271]: Commencement: Reg. 2 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/122/regulation/1)
+[^c-2a1bf6adf1b66b9c0d1356b16521e271]: Commencement: Reg. 2 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/122/regulation/1)
 
-[^key-9bb6e6253ecea1971adf115e4a80704b]: Commencement: Reg. 3 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/122/regulation/1)
+[^c-9bb6e6253ecea1971adf115e4a80704b]: Commencement: Reg. 3 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/122/regulation/1)
 
-[^key-608864efea4de110f437f614475d0069]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/ssi/2010/122/regulation/3/2) substituted (6.11.2023) by [The Local Government Investments (Scotland) Amendment Regulations 2023 (S.S.I. 2023/255)](https://www.legislation.gov.uk/ssi/2023/255), [regs. 1](https://www.legislation.gov.uk/ssi/2023/255/regulation/1), [2](https://www.legislation.gov.uk/ssi/2023/255/regulation/2)
+[^c-608864efea4de110f437f614475d0069]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/ssi/2010/122/regulation/3/2) substituted (6.11.2023) by [The Local Government Investments (Scotland) Amendment Regulations 2023 (S.S.I. 2023/255)](https://www.legislation.gov.uk/ssi/2023/255), [regs. 1](https://www.legislation.gov.uk/ssi/2023/255/regulation/1), [2](https://www.legislation.gov.uk/ssi/2023/255/regulation/2)
 
 [^f00003]: Footnote: ISBN 9781-84508-207-9 Fully Revised Second Edition 2009.
 
-[^key-e49b174a62ad4a21acb9c63dd6972865]: Commencement: Reg. 4 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/122/regulation/1)
+[^c-e49b174a62ad4a21acb9c63dd6972865]: Commencement: Reg. 4 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/122/regulation/1)
 
 [^f00004]: Footnote: [1961 c.62](https://www.legislation.gov.uk/ukpga/1961/62).
 
-[^key-6d496b11e68a4387cd2ed1109bd0ef65]: Commencement: Reg. 5 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/122/regulation/1)
+[^c-6d496b11e68a4387cd2ed1109bd0ef65]: Commencement: Reg. 5 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/122/regulation/1)
 
 [^f00005]: Footnote: [1973 c.65](https://www.legislation.gov.uk/ukpga/1973/65); section 56(6) was substituted by the Local Government Finance Act [1992 (c.14)](https://www.legislation.gov.uk/ukpga/1992/14), Schedule 13, paragraph 36 and by the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 14.
 
-[^key-5be492add99c9b35e70e755733082b6e]: Commencement: Reg. 6 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/122/regulation/1)
+[^c-5be492add99c9b35e70e755733082b6e]: Commencement: Reg. 6 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/122/regulation/1)
 
 [^f00006]: Footnote: [1975 c.30](https://www.legislation.gov.uk/ukpga/1975/30).
 
-[^key-81578b1af15631f83529207573700360]: Commencement: Reg. 7 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/122/regulation/1)
+[^c-81578b1af15631f83529207573700360]: Commencement: Reg. 7 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/122/regulation/1)
 
 [^f00007]: Footnote: [1974 c.viii](https://www.legislation.gov.uk/ukla/1974/8).
 
-[^key-645fe00a32c2d1035e7044221d3e7181]: Commencement: Reg. 8 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/122/regulation/1)
+[^c-645fe00a32c2d1035e7044221d3e7181]: Commencement: Reg. 8 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/122/regulation/1)
 
 [^f00008]: Footnote: [1974 c.xxx](https://www.legislation.gov.uk/ukla/1974/30).

@@ -46,15 +46,15 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-ed2f60418b1597b60a5e2e1be3f9f5a2]
+## 1. Citation and commencement[^c-ed2f60418b1597b60a5e2e1be3f9f5a2]
 
 These Regulations may be cited as the Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2016 and come into force on 1st March 2016.
 
-## 2. Amendment of the Less Favoured Area Support Scheme (Scotland) Regulations 2010[^key-288e6bd6738a8d3625bd2c4cdb748b99]
+## 2. Amendment of the Less Favoured Area Support Scheme (Scotland) Regulations 2010[^c-288e6bd6738a8d3625bd2c4cdb748b99]
 
 The Less Favoured Area Support Scheme (Scotland) Regulations 2010[^f00002] are amended in accordance with regulations 3 and 4.
 
-**3.**[^key-f3ec89a07fca718a4fe31f3eff9232f3] After regulation 9 (stocking density outwith the minimum and maximum stocking density parameters)[^f00003] insert—
+**3.**[^c-f3ec89a07fca718a4fe31f3eff9232f3] After regulation 9 (stocking density outwith the minimum and maximum stocking density parameters)[^f00003] insert—
 
 > **9A. Calculation of less favoured area support following the transfer of a holding**
 >
@@ -99,7 +99,7 @@ The Less Favoured Area Support Scheme (Scotland) Regulations 2010[^f00002] are a
 
 .
 
-**4.**[^key-9b6e35a8b366f236cafda7355880961d] In Schedule 2 (land use codes eligible for less favoured area support scheme)[^f00004], in the table, insert after the entry for rough grazing the following entry—
+**4.**[^c-9b6e35a8b366f236cafda7355880961d] In Schedule 2 (land use codes eligible for less favoured area support scheme)[^f00004], in the table, insert after the entry for rough grazing the following entry—
 
 > |  |  |
 > | --- | --- |
@@ -133,16 +133,16 @@ No business and regulatory impact assessment has been prepared in respect of the
 
 [^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“the 1998 Act”), Schedule 8, paragraph 15(3) (which was amended by section 27(4) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“the 2006 Act”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), Schedule, Part 1. The functions conferred upon the Minister of the Crown under section 2(2), insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
 
-[^key-ed2f60418b1597b60a5e2e1be3f9f5a2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/33/regulation/1) in force at 1.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/33/regulation/1)
+[^c-ed2f60418b1597b60a5e2e1be3f9f5a2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/33/regulation/1) in force at 1.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/33/regulation/1)
 
-[^key-288e6bd6738a8d3625bd2c4cdb748b99]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/33/regulation/2) in force at 1.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/33/regulation/1)
+[^c-288e6bd6738a8d3625bd2c4cdb748b99]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/33/regulation/2) in force at 1.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/33/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2010/273](https://www.legislation.gov.uk/ssi/2010/273), amended by [S.S.I. 2011/73](https://www.legislation.gov.uk/ssi/2011/73), [S.S.I. 2012/24](https://www.legislation.gov.uk/ssi/2012/24), [S.S.I. 2013/9](https://www.legislation.gov.uk/ssi/2013/9), [S.S.I. 2014/7](https://www.legislation.gov.uk/ssi/2014/7) and [S.S.I. 2015/185](https://www.legislation.gov.uk/ssi/2015/185).
 
-[^key-f3ec89a07fca718a4fe31f3eff9232f3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/33/regulation/3) in force at 1.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/33/regulation/1)
+[^c-f3ec89a07fca718a4fe31f3eff9232f3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/33/regulation/3) in force at 1.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/33/regulation/1)
 
 [^f00003]: Footnote: Regulation 9 was last amended by [S.S.I. 2015/185](https://www.legislation.gov.uk/ssi/2015/185).
 
-[^key-9b6e35a8b366f236cafda7355880961d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/33/regulation/4) in force at 1.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/33/regulation/1)
+[^c-9b6e35a8b366f236cafda7355880961d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/33/regulation/4) in force at 1.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/33/regulation/1)
 
 [^f00004]: Footnote: Schedule 2 was substituted by [S.S.I. 2015/185](https://www.legislation.gov.uk/ssi/2015/185).

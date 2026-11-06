@@ -37,22 +37,22 @@ amending Regulation (EC) No 717/2007 on roaming on public mobile telephone netw
 
 (Text with EEA relevance) (revoked)
 
-[^key-11d2885178817c1852873965f90a7ff7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11d2885178817c1852873965f90a7ff7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendments to Regulation (EC) No 717/2007/EC[^key-11d2885178817c1852873965f90a7ff7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendment to Directive 2002/21/EC[^key-11d2885178817c1852873965f90a7ff7]
+## Article 1. Amendments to Regulation (EC) No 717/2007/EC[^c-11d2885178817c1852873965f90a7ff7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-11d2885178817c1852873965f90a7ff7]
+## Article 2. Amendment to Directive 2002/21/EC[^c-11d2885178817c1852873965f90a7ff7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11d2885178817c1852873965f90a7ff7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 3. Entry into force[^c-11d2885178817c1852873965f90a7ff7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-11d2885178817c1852873965f90a7ff7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-11d2885178817c1852873965f90a7ff7]: Textual amendment: Regulation revoked (31.12.2020) by [The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/919)](https://www.legislation.gov.uk/uksi/2019/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/919/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/919/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-11d2885178817c1852873965f90a7ff7]: Textual amendment: Regulation revoked (31.12.2020) by [The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/919)](https://www.legislation.gov.uk/uksi/2019/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/919/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/919/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Assessments of local well-being[^key-0019586061693f6e52bbe7774cb13d69]
+## 37. Assessments of local well-being[^c-0019586061693f6e52bbe7774cb13d69]
 
 *Extent: E+W*
 
 (1) A public services board must prepare and publish an assessment of the state of economic, social, environmental and cultural well-being in its area.
 
-(2) Each board must publish the assessment no later than one year before the date on which a local well-being plan is to be published under subsection [^key-2c49fba8fca9353e5cd866187cd98cad]... (7) of section 39.
+(2) Each board must publish the assessment no later than one year before the date on which a local well-being plan is to be published under subsection [^c-2c49fba8fca9353e5cd866187cd98cad]... (7) of section 39.
 
 (3) An assessment must—
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0019586061693f6e52bbe7774cb13d69]: Commencement: S. 37 in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-0019586061693f6e52bbe7774cb13d69]: Commencement: S. 37 in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
 
-[^key-2c49fba8fca9353e5cd866187cd98cad]: Textual amendment: Words in [s. 37(2)](https://www.legislation.gov.uk/anaw/2015/2/section/37/2) omitted (20.3.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 1(3)](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/1/3)
+[^c-2c49fba8fca9353e5cd866187cd98cad]: Textual amendment: Words in [s. 37(2)](https://www.legislation.gov.uk/anaw/2015/2/section/37/2) omitted (20.3.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 1(3)](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/1/3)

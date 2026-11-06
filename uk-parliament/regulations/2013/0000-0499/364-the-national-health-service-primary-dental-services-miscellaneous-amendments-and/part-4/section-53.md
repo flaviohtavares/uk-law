@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Schedule 6[^key-16dfa27cd5114592b2d081a16a35bf2d]
+## 53. Schedule 6[^c-16dfa27cd5114592b2d081a16a35bf2d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In Schedule 6 (manner of determining charge for replacement), in paragraph 4(c),
 
 ## Annotations
 
-[^key-16dfa27cd5114592b2d081a16a35bf2d]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2013/364/regulation/53) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-16dfa27cd5114592b2d081a16a35bf2d]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2013/364/regulation/53) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

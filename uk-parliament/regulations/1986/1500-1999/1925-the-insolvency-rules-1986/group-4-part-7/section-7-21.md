@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.21. Warrants (general provisions)[^key-0120e4644dbbfcbcd91aff7592786708]
+## 7.21. Warrants (general provisions)[^c-0120e4644dbbfcbcd91aff7592786708]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0120e4644dbbfcbcd91aff7592786708]: Commencement: [Rule 7.21](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.21) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-0120e4644dbbfcbcd91aff7592786708]: Commencement: [Rule 7.21](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.21) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -36,7 +36,7 @@ summary: ''
 - (a) the nomination paper; or
 - (b) the ballot paper.
 
-## 199C. Local government elections in Wales: translations etc. of certain documents[^key-990361c9afb57cafb15eaafaf014acbc]
+## 199C. Local government elections in Wales: translations etc. of certain documents[^c-990361c9afb57cafb15eaafaf014acbc]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 
-[^key-990361c9afb57cafb15eaafaf014acbc]: Textual amendment: S. 199C inserted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 22(3)](https://www.legislation.gov.uk/asc/2021/1/section/22/3), [175(3)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/e) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
+[^c-990361c9afb57cafb15eaafaf014acbc]: Textual amendment: S. 199C inserted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 22(3)](https://www.legislation.gov.uk/asc/2021/1/section/22/3), [175(3)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/e) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))

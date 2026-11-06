@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Meaning of “common parts”[^key-0e2ea61955cd3c75272281d0e35dbbcf]
+## 13. Meaning of “common parts”[^c-0e2ea61955cd3c75272281d0e35dbbcf]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e2ea61955cd3c75272281d0e35dbbcf]: Commencement: S. 13 in force at 28.4.2026, see [s. 138(1)(b)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/b)
+[^c-0e2ea61955cd3c75272281d0e35dbbcf]: Commencement: S. 13 in force at 28.4.2026, see [s. 138(1)(b)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/b)

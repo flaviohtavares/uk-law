@@ -56,10 +56,10 @@ will be sufficient evidence of the facts stated in it unless, in a case falling 
 
 (9) In this regulation where two or more public analysts are appointed for any area, any reference in this regulation to the public analyst for that area will be construed as a reference to either or any of them.
 
-(10) The Food Safety (Sampling and Qualifications) (Wales) Regulations 2013[^key-ec265b361e972e03b927b65c1b71bf2b] apply in relation to a sample procured by an authorised officer of a food authority under regulation 12 as if it were a sample procured by an authorised officer under section 29 of the Act.
+(10) The Food Safety (Sampling and Qualifications) (Wales) Regulations 2013[^c-ec265b361e972e03b927b65c1b71bf2b] apply in relation to a sample procured by an authorised officer of a food authority under regulation 12 as if it were a sample procured by an authorised officer under section 29 of the Act.
 
 (11) The certificate given by a food analyst or examiner under paragraph (6) must be in the form set out in Schedule 3 to the Food Safety (Sampling and Qualifications) (Wales) Regulations 2013.
 
 ## Annotations
 
-[^key-ec265b361e972e03b927b65c1b71bf2b]: Textual amendment: Words in [reg. 13(10)](https://www.legislation.gov.uk/wsi/2006/31/regulation/13/10)[(11)](https://www.legislation.gov.uk/wsi/2006/31/regulation/13/11) substituted (6.4.2013) by [The Food Safety (Sampling and Qualifications) (Wales) Regulations 2013 (S.I. 2013/479)](https://www.legislation.gov.uk/wsi/2013/479), [regs. 1](https://www.legislation.gov.uk/wsi/2013/479/regulation/1), [11(a)](https://www.legislation.gov.uk/wsi/2013/479/regulation/11/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2013/479/article/3), [Sch. 1](https://www.legislation.gov.uk/wsi/2013/479/schedule/1))
+[^c-ec265b361e972e03b927b65c1b71bf2b]: Textual amendment: Words in [reg. 13(10)](https://www.legislation.gov.uk/wsi/2006/31/regulation/13/10)[(11)](https://www.legislation.gov.uk/wsi/2006/31/regulation/13/11) substituted (6.4.2013) by [The Food Safety (Sampling and Qualifications) (Wales) Regulations 2013 (S.I. 2013/479)](https://www.legislation.gov.uk/wsi/2013/479), [regs. 1](https://www.legislation.gov.uk/wsi/2013/479/regulation/1), [11(a)](https://www.legislation.gov.uk/wsi/2013/479/regulation/11/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2013/479/article/3), [Sch. 1](https://www.legislation.gov.uk/wsi/2013/479/schedule/1))

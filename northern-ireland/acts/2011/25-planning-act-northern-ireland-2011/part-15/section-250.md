@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-dddd4a8d380c20aafdf9e95e2c9347a1] In this Act—
+(1)[^c-dddd4a8d380c20aafdf9e95e2c9347a1] In this Act—
 
 - “**the Act of 1965**” means the Land Development Values (Compensation) Act (Northern Ireland) 1965 (c. 23);
 - “**address**” in relation to electronic communications, means any number or address used for such purposes;
@@ -35,7 +35,7 @@ summary: ''
 - “**building operations**” has the meaning given in section 23;
 - “**building preservation notice**” has the meaning given in section 81(1);
 - “**clerk of the council**”, in relation to a council, means the clerk appointed in accordance with section 41 of the Local Government Act (Northern Ireland) 1972 (c. 9);
-- “[^key-7b27102aedde470e1db7423270d0967a]**current community plan**” has the same meaning as in Part 10 (community planning) of the Local Government Act (Northern Ireland) 2014;
+- “[^c-7b27102aedde470e1db7423270d0967a]**current community plan**” has the same meaning as in Part 10 (community planning) of the Local Government Act (Northern Ireland) 2014;
 - “**conservation area**” has the meaning given in section 104(12);
 - “**conservation area consent**” has the meaning given in section 105(2);
 - “**contravention of hazardous substances control**” has the meaning given in section 117(2);
@@ -65,7 +65,7 @@ summary: ''
   - (b) the management of waste resulting from the winning, working, treatment and storage of minerals,
 
   and, for the purposes of paragraph (b), treatment does not include smelting, thermal manufacturing processes (other than the burning of limestone) and metallurgical processes;
-- “Minister”, except where otherwise specified, means the Minister for Infrastructure;[^key-1f7484476fa26066b4fe8d6b1a4a1eda]
+- “Minister”, except where otherwise specified, means the Minister for Infrastructure;[^c-1f7484476fa26066b4fe8d6b1a4a1eda]
 - “**mortgage**” includes any charge or lien on any property for securing money or money's worth;
 - “**outline planning permission**” has the meaning given in section 62(1);
 - “**owner**” in relation to land, means a person, other than a mortgagee not in possession, who, whether in his or her own right or as trustee for any other person, is entitled to receive the rack rent of the land, or where the land is not let at a rack rent, would be so entitled if it were so let;
@@ -101,8 +101,8 @@ it shall be taken to have been received on the next working day, and in this sub
 
 ## Annotations
 
-[^key-dddd4a8d380c20aafdf9e95e2c9347a1]: Modification: S. 250(1) applied by S.I. 1991/1220 (N.I. 11), art. 2(2A) (as substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 55(b)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/55/b) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-dddd4a8d380c20aafdf9e95e2c9347a1]: Modification: S. 250(1) applied by S.I. 1991/1220 (N.I. 11), art. 2(2A) (as substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 55(b)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/55/b) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
 
-[^key-7b27102aedde470e1db7423270d0967a]: Textual amendment: Words in s. 250(1) inserted (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 77(4)](https://www.legislation.gov.uk/nia/2014/8/section/77/4), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [ss. 77(5)](https://www.legislation.gov.uk/nia/2014/8/section/77/5), [124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-7b27102aedde470e1db7423270d0967a]: Textual amendment: Words in s. 250(1) inserted (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 77(4)](https://www.legislation.gov.uk/nia/2014/8/section/77/4), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [ss. 77(5)](https://www.legislation.gov.uk/nia/2014/8/section/77/5), [124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
 
-[^key-1f7484476fa26066b4fe8d6b1a4a1eda]: Textual amendment: Words in [s. 250(1)](https://www.legislation.gov.uk/nia/2011/25/section/250/1) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 87](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/87) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-1f7484476fa26066b4fe8d6b1a4a1eda]: Textual amendment: Words in [s. 250(1)](https://www.legislation.gov.uk/nia/2011/25/section/250/1) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 87](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/87) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

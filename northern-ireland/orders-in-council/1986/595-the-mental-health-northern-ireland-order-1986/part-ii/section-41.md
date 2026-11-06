@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Applications, recommendations and reports under Part II[^key-38c0e0d3256b8bd818bec865a19f6945][^key-6d09385791369d39e03f916a89adfb3f]
+## 41. Applications, recommendations and reports under Part II[^c-38c0e0d3256b8bd818bec865a19f6945][^c-6d09385791369d39e03f916a89adfb3f]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ Any application for assessment, guardianship application, recommendation or repo
 
 ## Annotations
 
-[^key-38c0e0d3256b8bd818bec865a19f6945]: Modification: [Art. 41](https://www.legislation.gov.uk/nisi/1986/595/article/41) applied (with modifications.) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(bb)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/bb), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-38c0e0d3256b8bd818bec865a19f6945]: Modification: [Art. 41](https://www.legislation.gov.uk/nisi/1986/595/article/41) applied (with modifications.) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(bb)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/bb), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
 
-[^key-6d09385791369d39e03f916a89adfb3f]: Modification: [Art. 41](https://www.legislation.gov.uk/nisi/1986/595/article/41) applied (with modifications) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(jj)(iii)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/jj/iii)[(iv)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/jj/iv), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
+[^c-6d09385791369d39e03f916a89adfb3f]: Modification: [Art. 41](https://www.legislation.gov.uk/nisi/1986/595/article/41) applied (with modifications) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(jj)(iii)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/jj/iii)[(iv)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/jj/iv), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)

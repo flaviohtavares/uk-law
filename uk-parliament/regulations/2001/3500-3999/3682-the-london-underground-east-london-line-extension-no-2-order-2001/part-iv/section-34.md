@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Protective provisions[^key-9f96faa2bd4890157b7c9b682d6bdb6b]
+## 34. Protective provisions[^c-9f96faa2bd4890157b7c9b682d6bdb6b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 10 to this Order shall have effect.
 
 ## Annotations
 
-[^key-9f96faa2bd4890157b7c9b682d6bdb6b]: Commencement: Art. 34 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-9f96faa2bd4890157b7c9b682d6bdb6b]: Commencement: Art. 34 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

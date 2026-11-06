@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Restriction on number of councillors if single transferable vote system applies[^key-25051157e17efc5977c40053467b67dd]
+## 12. Restriction on number of councillors if single transferable vote system applies[^c-25051157e17efc5977c40053467b67dd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the single transferable vote system applies to the election of councillors
 
 ## Annotations
 
-[^key-25051157e17efc5977c40053467b67dd]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2021/1/section/12) in force at 6.5.2022, see [s. 175(6)(a)](https://www.legislation.gov.uk/asc/2021/1/section/175/6/a)
+[^c-25051157e17efc5977c40053467b67dd]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2021/1/section/12) in force at 6.5.2022, see [s. 175(6)(a)](https://www.legislation.gov.uk/asc/2021/1/section/175/6/a)

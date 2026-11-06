@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Appeals[^key-3c7f57cdab6c8522fe1137d1eea2aa73]
+## 25. Appeals[^c-3c7f57cdab6c8522fe1137d1eea2aa73]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c7f57cdab6c8522fe1137d1eea2aa73]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2020/1073/regulation/25) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-3c7f57cdab6c8522fe1137d1eea2aa73]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2020/1073/regulation/25) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

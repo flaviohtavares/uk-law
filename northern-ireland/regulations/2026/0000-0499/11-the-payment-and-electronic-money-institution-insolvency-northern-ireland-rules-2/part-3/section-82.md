@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 82. Information from administrator[^key-4615282c0719a28e6c4b08899d3a49a3]
+## 82. Information from administrator[^c-4615282c0719a28e6c4b08899d3a49a3]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4615282c0719a28e6c4b08899d3a49a3]: Commencement: [Rule 82](https://www.legislation.gov.uk/nisr/2026/11/rule/82) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-4615282c0719a28e6c4b08899d3a49a3]: Commencement: [Rule 82](https://www.legislation.gov.uk/nisr/2026/11/rule/82) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 178. Procedure for return of capital[^key-3638f8452edbc90da0d4304f33a0cbac]
+## 178. Procedure for return of capital[^c-3638f8452edbc90da0d4304f33a0cbac]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.232 of the 1991 Rules.
 
 ## Annotations
 
-[^key-3638f8452edbc90da0d4304f33a0cbac]: Commencement: Rule 178 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-3638f8452edbc90da0d4304f33a0cbac]: Commencement: Rule 178 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

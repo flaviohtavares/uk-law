@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Recalculations: supplementary[^key-af147bf8cf629c0e67967f1c51cae976]
+## 81. Recalculations: supplementary[^c-af147bf8cf629c0e67967f1c51cae976]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af147bf8cf629c0e67967f1c51cae976]: Commencement: Reg. 81 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-af147bf8cf629c0e67967f1c51cae976]: Commencement: Reg. 81 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

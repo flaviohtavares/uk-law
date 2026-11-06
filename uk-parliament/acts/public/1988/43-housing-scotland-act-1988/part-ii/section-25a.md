@@ -36,7 +36,7 @@ whichever is the earlier, the landlord may serve on the tenant a notice in the p
 
 (4) The conditions referred to in subsection (3) above are that before the date specified in the notice—
 
-- (a) the tenant by an application in the prescribed form refers the notice to the First-tier Tribunal[^key-b7efcdf6dd759ca29ed80c708f8ad68e]; or
+- (a) the tenant by an application in the prescribed form refers the notice to the First-tier Tribunal[^c-b7efcdf6dd759ca29ed80c708f8ad68e]; or
 - (b) the landlord and the tenant agree on a variation of the rent which is different from that proposed in the notice or agree that the rent should not be varied.
 
 (5) Nothing in this section or section 25B affects the right of the landlord and tenant under an assured tenancy to vary by agreement any term of the tenancy (including a term relating to rent).
@@ -47,4 +47,4 @@ whichever is the earlier, the landlord may serve on the tenant a notice in the p
 
 [^c10515241]: Textual amendment: S. 25A inserted (1.4.1993) by [S.I. 1993/658](https://www.legislation.gov.uk/uksi/1993/658), [art. 2](https://www.legislation.gov.uk/uksi/1993/658/article/2), [Sch. 2 para.5](https://www.legislation.gov.uk/uksi/1993/658/schedule/2/paragraph/5)
 
-[^key-b7efcdf6dd759ca29ed80c708f8ad68e]: Textual amendment: Words in s. 25A(4) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [Sch. 2 para. 2(6)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/2/6) (with [Sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
+[^c-b7efcdf6dd759ca29ed80c708f8ad68e]: Textual amendment: Words in s. 25A(4) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [Sch. 2 para. 2(6)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/2/6) (with [Sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))

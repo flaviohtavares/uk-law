@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Duration[^key-c9ff75adee7ced76dc340107d68f62b8]
+## 14. Duration[^c-c9ff75adee7ced76dc340107d68f62b8]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9ff75adee7ced76dc340107d68f62b8]: Commencement: Reg. 14 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-c9ff75adee7ced76dc340107d68f62b8]: Commencement: Reg. 14 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

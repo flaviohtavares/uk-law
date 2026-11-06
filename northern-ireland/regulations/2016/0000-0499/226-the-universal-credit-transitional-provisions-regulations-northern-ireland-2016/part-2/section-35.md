@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Sanctions: temporary return to certain existing benefits[^key-a6495445a9f667cb59c0b9220ee8f4dc]
+## 35. Sanctions: temporary return to certain existing benefits[^c-a6495445a9f667cb59c0b9220ee8f4dc]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ If an award of universal credit terminates while there is an outstanding reducti
 
 ## Annotations
 
-[^key-a6495445a9f667cb59c0b9220ee8f4dc]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2016/226/regulation/35) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-a6495445a9f667cb59c0b9220ee8f4dc]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2016/226/regulation/35) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)

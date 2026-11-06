@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.12. Duties of justices’ legal adviser[^key-8f22851137428d500e384bcbbb4a1f40]
+## 2.12. Duties of justices’ legal adviser[^c-8f22851137428d500e384bcbbb4a1f40]
 
 *Extent: E+W*
 
@@ -73,7 +73,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8f22851137428d500e384bcbbb4a1f40]: Commencement: [Rule 2.12](https://www.legislation.gov.uk/uksi/2025/909/rule/2.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8f22851137428d500e384bcbbb4a1f40]: Commencement: [Rule 2.12](https://www.legislation.gov.uk/uksi/2025/909/rule/2.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00081]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39); section 28 was substituted by section 3 of, and paragraphs 25 and 26 of the Schedule to, the Courts and Tribunals (Judiciary and Functions of Staff) Act [2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33).
 

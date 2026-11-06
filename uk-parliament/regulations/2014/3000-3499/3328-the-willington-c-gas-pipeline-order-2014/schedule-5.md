@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — LAND IN WHICH ONLY NEW RIGHTS, ETC. MAY BE ACQUIRED[^key-d971bcc63cd11b34ddafa09a69eda624]
+## SCHEDULE 5 — LAND IN WHICH ONLY NEW RIGHTS, ETC. MAY BE ACQUIRED[^c-d971bcc63cd11b34ddafa09a69eda624]
 
 *Extent: E+W+S*
 
@@ -45,6 +45,6 @@ Articles 18(1) and 27(a)
 
 ## Annotations
 
-[^key-d971bcc63cd11b34ddafa09a69eda624]: Commencement: Sch. 5 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-d971bcc63cd11b34ddafa09a69eda624]: Commencement: Sch. 5 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
 
 [^f00047]: Footnote: “Maintain” is defined in article 2.

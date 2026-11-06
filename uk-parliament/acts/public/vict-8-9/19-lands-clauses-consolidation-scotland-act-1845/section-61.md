@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Purchase money and compensation how to be estimated.[^c5624521][^c5624531][^c5624541][^key-a1fdd3b2e8552695827fa31983ced41a][^c5624511]
+## 61. Purchase money and compensation how to be estimated.[^c5624521][^c5624531][^c5624541][^c-a1fdd3b2e8552695827fa31983ced41a][^c5624511]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ In estimating the purchase money or compensation to be paid by the promoters of 
 
 [^c5624541]: Modification: [S. 61](https://www.legislation.gov.uk/ukpga/Vict/8-9/19/section/61) applied (27.5.1997) by [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8), [ss. 196(4)(a)](https://www.legislation.gov.uk/ukpga/1997/8/section/196/4/a), [278(2)](https://www.legislation.gov.uk/ukpga/1997/8/section/278/2) (with [s. 201(2)](https://www.legislation.gov.uk/ukpga/1997/8/section/201/2))
 
-[^key-a1fdd3b2e8552695827fa31983ced41a]: Modification: [S. 61](https://www.legislation.gov.uk/ukpga/Vict/8-9/19/section/61) applied (with modifications) (11.8.2004) by [Stirling-Alloa-Kincardine Railway and Linked Improvements Act 2004 (asp 10)](https://www.legislation.gov.uk/asp/2004/10), [s. 14(7)](https://www.legislation.gov.uk/asp/2004/10/section/14/7) (with [s. 33](https://www.legislation.gov.uk/asp/2004/10/section/33))
+[^c-a1fdd3b2e8552695827fa31983ced41a]: Modification: [S. 61](https://www.legislation.gov.uk/ukpga/Vict/8-9/19/section/61) applied (with modifications) (11.8.2004) by [Stirling-Alloa-Kincardine Railway and Linked Improvements Act 2004 (asp 10)](https://www.legislation.gov.uk/asp/2004/10), [s. 14(7)](https://www.legislation.gov.uk/asp/2004/10/section/14/7) (with [s. 33](https://www.legislation.gov.uk/asp/2004/10/section/33))
 
 [^c5624511]: Modification: [S. 61](https://www.legislation.gov.uk/ukpga/Vict/8-9/19/section/61) extended by [Gas Act 1965 (c. 36)](https://www.legislation.gov.uk/ukpga/1965/36), [Sch. 4 paras. 5(4)](https://www.legislation.gov.uk/ukpga/1965/36/schedule/4/paragraph/5/4), [9](https://www.legislation.gov.uk/ukpga/1965/36/schedule/4/paragraph/9); applied by [New Towns (Scotland) Act 1968 (c. 16)](https://www.legislation.gov.uk/ukpga/1968/16), [s. 19(3)](https://www.legislation.gov.uk/ukpga/1968/16/section/19/3)

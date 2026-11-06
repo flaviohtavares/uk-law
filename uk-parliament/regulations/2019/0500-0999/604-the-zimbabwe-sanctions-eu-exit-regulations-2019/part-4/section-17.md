@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Immigration[^key-711e828ededdccb94009c2860bfa5401][^key-8a3ea2bbfb42208127105edf34b224f7]
+## 17. Immigration[^c-711e828ededdccb94009c2860bfa5401][^c-8a3ea2bbfb42208127105edf34b224f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ A person who is designated under regulation 5 for the purposes of this regulatio
 
 ## Annotations
 
-[^key-711e828ededdccb94009c2860bfa5401]: Commencement: Reg. 17 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-711e828ededdccb94009c2860bfa5401]: Commencement: Reg. 17 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-8a3ea2bbfb42208127105edf34b224f7]: Commencement: Reg. 17 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8a3ea2bbfb42208127105edf34b224f7]: Commencement: Reg. 17 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23947491]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). Section 8B was inserted by the [Immigration and Asylum Act 1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33), [section 8](https://www.legislation.gov.uk/ukpga/1999/33/section/8) and amended by the [Immigration Act 2016 (c.19)](https://www.legislation.gov.uk/ukpga/2016/19), [section 76](https://www.legislation.gov.uk/ukpga/2016/19/section/76); and the Act, section 59 and Schedule 3, Part 1.

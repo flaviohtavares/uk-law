@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. Contravention giving rise to risk of death or serious injury[^key-f87078ff8ca3f703e87fd65ff346da81]
+## 107. Contravention giving rise to risk of death or serious injury[^c-f87078ff8ca3f703e87fd65ff346da81]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f87078ff8ca3f703e87fd65ff346da81]: Commencement: S. 107 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-f87078ff8ca3f703e87fd65ff346da81]: Commencement: S. 107 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

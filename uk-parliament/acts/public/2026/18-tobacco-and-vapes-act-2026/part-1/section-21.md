@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Financial penalties for breach of licence conditions: Wales[^key-605269ec4994bcff428b098e145aff67]
+## 21. Financial penalties for breach of licence conditions: Wales[^c-605269ec4994bcff428b098e145aff67]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-605269ec4994bcff428b098e145aff67]: Commencement: S. 21 in force at Royal Assent for specified purposes, see [s. 175(2)(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/5)
+[^c-605269ec4994bcff428b098e145aff67]: Commencement: S. 21 in force at Royal Assent for specified purposes, see [s. 175(2)(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/5)

@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-5b071bbc7c5a110c191b164d757cabf8] In section 21(1) of the 1991 Act, after “section 20” insert “ and Part 3A ”.
+(1)[^c-5b071bbc7c5a110c191b164d757cabf8] In section 21(1) of the 1991 Act, after “section 20” insert “ and Part 3A ”.
 
-(2)[^key-f7a28c646b793a73ba8c4a583a8188e6][^key-89715ea2795208474b2dcb23999596fb] The 2003 Act is amended as follows.
+(2)[^c-f7a28c646b793a73ba8c4a583a8188e6][^c-89715ea2795208474b2dcb23999596fb] The 2003 Act is amended as follows.
 
-(3)[^key-5b071bbc7c5a110c191b164d757cabf8] In section 55 (right to compensation for yielding vacant possession), in subsection (4), after “Where” insert “ the tenancy is a limited duration tenancy or a modern limited duration tenancy and ”.
+(3)[^c-5b071bbc7c5a110c191b164d757cabf8] In section 55 (right to compensation for yielding vacant possession), in subsection (4), after “Where” insert “ the tenancy is a limited duration tenancy or a modern limited duration tenancy and ”.
 
-(4)[^key-f7a28c646b793a73ba8c4a583a8188e6][^key-89715ea2795208474b2dcb23999596fb] After section 74 insert—
+(4)[^c-f7a28c646b793a73ba8c4a583a8188e6][^c-89715ea2795208474b2dcb23999596fb] After section 74 insert—
 
 > **74A. Application of Part 3A of the 1991 Act**
 >
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5b071bbc7c5a110c191b164d757cabf8]: Commencement: [S. 111(1)](https://www.legislation.gov.uk/asp/2016/18/section/111/1)[(3)](https://www.legislation.gov.uk/asp/2016/18/section/111/3) in force at 28.2.2021 by [S.S.I. 2020/428](https://www.legislation.gov.uk/ssi/2020/428), [reg. 2](https://www.legislation.gov.uk/ssi/2020/428/regulation/2)
+[^c-5b071bbc7c5a110c191b164d757cabf8]: Commencement: [S. 111(1)](https://www.legislation.gov.uk/asp/2016/18/section/111/1)[(3)](https://www.legislation.gov.uk/asp/2016/18/section/111/3) in force at 28.2.2021 by [S.S.I. 2020/428](https://www.legislation.gov.uk/ssi/2020/428), [reg. 2](https://www.legislation.gov.uk/ssi/2020/428/regulation/2)
 
-[^key-f7a28c646b793a73ba8c4a583a8188e6]: Commencement: [S. 111(2)](https://www.legislation.gov.uk/asp/2016/18/section/111/2)[(4)](https://www.legislation.gov.uk/asp/2016/18/section/111/4) in force at 23.12.2016 for specified purposes by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
+[^c-f7a28c646b793a73ba8c4a583a8188e6]: Commencement: [S. 111(2)](https://www.legislation.gov.uk/asp/2016/18/section/111/2)[(4)](https://www.legislation.gov.uk/asp/2016/18/section/111/4) in force at 23.12.2016 for specified purposes by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
 
-[^key-89715ea2795208474b2dcb23999596fb]: Commencement: [S. 111(2)](https://www.legislation.gov.uk/asp/2016/18/section/111/2)[(4)](https://www.legislation.gov.uk/asp/2016/18/section/111/4) in force at 28.2.2021 in so far as not already in force by [S.S.I. 2020/428](https://www.legislation.gov.uk/ssi/2020/428), [reg. 2](https://www.legislation.gov.uk/ssi/2020/428/regulation/2)
+[^c-89715ea2795208474b2dcb23999596fb]: Commencement: [S. 111(2)](https://www.legislation.gov.uk/asp/2016/18/section/111/2)[(4)](https://www.legislation.gov.uk/asp/2016/18/section/111/4) in force at 28.2.2021 in so far as not already in force by [S.S.I. 2020/428](https://www.legislation.gov.uk/ssi/2020/428), [reg. 2](https://www.legislation.gov.uk/ssi/2020/428/regulation/2)

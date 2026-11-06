@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Unauthorised entry etc to a prohibited place[^key-57ace70d5da91853f1d17bc7b80b9dba][^key-fd0a7f135c5420b54f22aeec97729727]
+## 5. Unauthorised entry etc to a prohibited place[^c-57ace70d5da91853f1d17bc7b80b9dba][^c-fd0a7f135c5420b54f22aeec97729727]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-57ace70d5da91853f1d17bc7b80b9dba]: Commencement: S. 5 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-57ace70d5da91853f1d17bc7b80b9dba]: Commencement: S. 5 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-fd0a7f135c5420b54f22aeec97729727]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/32/section/5) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-fd0a7f135c5420b54f22aeec97729727]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/32/section/5) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

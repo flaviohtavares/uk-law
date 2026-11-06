@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62A. Non-disclosure of information about individual's health[^key-de5be5a2749259d1ba86a0a074b5ff8b]
+## 62A. Non-disclosure of information about individual's health[^c-de5be5a2749259d1ba86a0a074b5ff8b]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de5be5a2749259d1ba86a0a074b5ff8b]: Textual amendment: S. 62A and cross-heading inserted (26.7.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 3(2)](https://www.legislation.gov.uk/asp/2020/18/section/3/2), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/b)
+[^c-de5be5a2749259d1ba86a0a074b5ff8b]: Textual amendment: S. 62A and cross-heading inserted (26.7.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 3(2)](https://www.legislation.gov.uk/asp/2020/18/section/3/2), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/b)

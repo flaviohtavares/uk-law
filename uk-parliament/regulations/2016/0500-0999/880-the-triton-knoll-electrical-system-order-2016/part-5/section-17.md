@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Time limit for exercise of authority to acquire land compulsorily[^key-951175363c39b0e52c28807a7a3914c8]
+## 17. Time limit for exercise of authority to acquire land compulsorily[^c-951175363c39b0e52c28807a7a3914c8]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-951175363c39b0e52c28807a7a3914c8]: Commencement: Art. 17 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-951175363c39b0e52c28807a7a3914c8]: Commencement: Art. 17 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
 [^f00030]: Footnote: Section 4 is amended, from a date to be appointed, by sections 184 and 185 of, and paragraph 2 of Schedule 18 to, the Housing and Planning Act [2016 (c.22)](https://www.legislation.gov.uk/ukpga/2016/22).

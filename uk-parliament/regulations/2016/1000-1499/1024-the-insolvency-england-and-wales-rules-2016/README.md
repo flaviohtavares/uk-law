@@ -50,7 +50,7 @@ Coming into force
 
 [^c23175131]The Lord Chancellor has consulted the committee existing for the purposes of section 413 of the Insolvency Act 1986 (“**the Act**”).
 
-The Lord Chancellor makes the following Rules in exercise of the powers conferred by sections 411 and 412 [^c23175141] of the Act, with the concurrence of the Chancellor of the High Court (by authority of the Lord Chief Justice under sections 411(7) and 412(6) of the Act) in relation to those rules which affect court procedure, and with the concurrence of the Secretary of State.[^key-ef9df22f27c73504c16d3a7cd4af431a][^key-2a43beb3975bf2c4c0e2d04c1aa45a51][^key-a819f547589d52b2d2a2d0f15a87ccaa][^key-6c0a73406d225233ee6be27081240a6d][^key-d936507dc10ebebd6eb3a76b752b940f][^key-860fe3c1db940280607e8154f06006cf][^key-7a8d06218d3c4cf73a6d8fff311863be][^key-3a30597d88e046fb09531d95d483d1f7][^key-d29f4ebaeb596c542d7c74e7e5c1f6f1][^key-b5930a66fde75172c9f3e54fa5845ed6][^key-c4518d87e23efa9ad097061913a52811][^key-7075232e95477ca203b14459a9382265]
+The Lord Chancellor makes the following Rules in exercise of the powers conferred by sections 411 and 412 [^c23175141] of the Act, with the concurrence of the Chancellor of the High Court (by authority of the Lord Chief Justice under sections 411(7) and 412(6) of the Act) in relation to those rules which affect court procedure, and with the concurrence of the Secretary of State.[^c-ef9df22f27c73504c16d3a7cd4af431a][^c-2a43beb3975bf2c4c0e2d04c1aa45a51][^c-a819f547589d52b2d2a2d0f15a87ccaa][^c-6c0a73406d225233ee6be27081240a6d][^c-d936507dc10ebebd6eb3a76b752b940f][^c-860fe3c1db940280607e8154f06006cf][^c-7a8d06218d3c4cf73a6d8fff311863be][^c-3a30597d88e046fb09531d95d483d1f7][^c-d29f4ebaeb596c542d7c74e7e5c1f6f1][^c-b5930a66fde75172c9f3e54fa5845ed6][^c-c4518d87e23efa9ad097061913a52811][^c-7075232e95477ca203b14459a9382265]
 
 ## Contents
 
@@ -94,13 +94,13 @@ The Lord Chancellor makes the following Rules in exercise of the powers conferre
 
 #### CHAPTER 10 — Inspection of documents, copies and provision of information
 
-### PART 1A — MORATORIUMS[^key-02a8ddbbe79f9845ba59d3ad2c51c222]
+### PART 1A — MORATORIUMS[^c-02a8ddbbe79f9845ba59d3ad2c51c222]
 
-#### CHAPTER 1 — Preliminary[^key-02a8ddbbe79f9845ba59d3ad2c51c222]
+#### CHAPTER 1 — Preliminary[^c-02a8ddbbe79f9845ba59d3ad2c51c222]
 
 - [Section 1A.1 — Application of Part 1A](part-1a/section-1a-1.md)
 
-#### CHAPTER 2 — Obtaining moratorium by filing notice at court[^key-02a8ddbbe79f9845ba59d3ad2c51c222]
+#### CHAPTER 2 — Obtaining moratorium by filing notice at court[^c-02a8ddbbe79f9845ba59d3ad2c51c222]
 
 - [Section 1A.2 — Application of Chapter](part-1a/section-1a-2.md)
 - [Section 1A.3 — Obtaining a moratorium by filing documents at court (section A3): notice of filing](part-1a/section-1a-3.md)
@@ -108,55 +108,55 @@ The Lord Chancellor makes the following Rules in exercise of the powers conferre
 - [Section 1A.5 — The relevant documents: further requirements relating to the proposed monitor’s statement and consent to act (section A6(1)(b))](part-1a/section-1a-5.md)
 - [Section 1A.6 — Directions](part-1a/section-1a-6.md)
 
-#### CHAPTER 3 — Obtaining a moratorium by application to the court[^key-02a8ddbbe79f9845ba59d3ad2c51c222]
+#### CHAPTER 3 — Obtaining a moratorium by application to the court[^c-02a8ddbbe79f9845ba59d3ad2c51c222]
 
 - [Section 1A.7 — Application of Chapter](part-1a/section-1a-7.md)
 - [Section 1A.8 — Moratorium application (sections A4 and A5)](part-1a/section-1a-8.md)
 - [Section 1A.9 — The relevant documents: contents and requirements (section A6)](part-1a/section-1a-9.md)
 - [Section 1A.10 — The relevant documents: further requirements relating to the monitor’s statement and consent to act (section A6(1)(b))](part-1a/section-1a-10.md)
 
-#### CHAPTER 4 — Obligations to notify where moratorium comes into force[^key-02a8ddbbe79f9845ba59d3ad2c51c222]
+#### CHAPTER 4 — Obligations to notify where moratorium comes into force[^c-02a8ddbbe79f9845ba59d3ad2c51c222]
 
 - [Section 1A.11 — Notice given by court where moratorium comes into force:](part-1a/section-1a-11.md)
 - [Section 1A.12 — Notice given by monitor where moratorium comes into force: standard contents and requirements](part-1a/section-1a-12.md)
 
-#### CHAPTER 5 — Extending moratorium by filing notice with the court[^key-02a8ddbbe79f9845ba59d3ad2c51c222]
+#### CHAPTER 5 — Extending moratorium by filing notice with the court[^c-02a8ddbbe79f9845ba59d3ad2c51c222]
 
 - [Section 1A.13 — Application of Chapter](part-1a/section-1a-13.md)
 - [Section 1A.14 — Extending a moratorium by filing notice with the court (sections A10 and A11): notice of extension](part-1a/section-1a-14.md)
 - [Section 1A.15 — Documents filed with the court under sections A10(1) or A11(1) of the Act: contents and requirements](part-1a/section-1a-15.md)
 - [Section 1A.16 — Directions](part-1a/section-1a-16.md)
 
-#### CHAPTER 6 — Extending moratorium by application to the court[^key-02a8ddbbe79f9845ba59d3ad2c51c222]
+#### CHAPTER 6 — Extending moratorium by application to the court[^c-02a8ddbbe79f9845ba59d3ad2c51c222]
 
 - [Section 1A.17 — Application of Chapter](part-1a/section-1a-17.md)
 - [Section 1A.18 — Extending a moratorium by application to the court (section A13)](part-1a/section-1a-18.md)
 - [Section 1A.19 — Documents filed with the court under section A13(2): contents and requirements](part-1a/section-1a-19.md)
 
-#### CHAPTER 7 — Notices about change in the end of moratorium[^key-02a8ddbbe79f9845ba59d3ad2c51c222]
+#### CHAPTER 7 — Notices about change in the end of moratorium[^c-02a8ddbbe79f9845ba59d3ad2c51c222]
 
 - [Section 1A.20 — Notification by directors to the monitor under section A17(1) of the Act: contents and requirements](part-1a/section-1a-20.md)
 - [Section 1A.21 — Notification by the monitor to the relevant persons under sections A17(2) or (3) of the Act: contents and requirements](part-1a/section-1a-21.md)
 
-#### CHAPTER 8 — Notification by directors of insolvency proceedings[^key-02a8ddbbe79f9845ba59d3ad2c51c222]
+#### CHAPTER 8 — Notification by directors of insolvency proceedings[^c-02a8ddbbe79f9845ba59d3ad2c51c222]
 
 - [Section 1A.22 — Notification by directors to the monitor of insolvency proceedings (section A24)](part-1a/section-1a-22.md)
 
-#### CHAPTER 9 — Termination of moratorium by monitor[^key-02a8ddbbe79f9845ba59d3ad2c51c222]
+#### CHAPTER 9 — Termination of moratorium by monitor[^c-02a8ddbbe79f9845ba59d3ad2c51c222]
 
 - [Section 1A.23 — Notice bringing moratorium to an end (section A38)](part-1a/section-1a-23.md)
 - [Section 1A.24 — Debts that are to be disregarded for the purposes of section A38(1)(d) of the Act](part-1a/section-1a-24.md)
 
-#### CHAPTER 10 — Replacement of monitor or appointment of additional monitor[^key-02a8ddbbe79f9845ba59d3ad2c51c222]
+#### CHAPTER 10 — Replacement of monitor or appointment of additional monitor[^c-02a8ddbbe79f9845ba59d3ad2c51c222]
 
 - [Section 1A.25 — Replacement of monitor or appointment of additional monitor, monitor’s statement and consent to act: contents and requirements (section A39(4))](part-1a/section-1a-25.md)
 - [Section 1A.26 — Notice to be given by monitor of replacement of monitor or appointment of additional monitor (section A39(8))](part-1a/section-1a-26.md)
 
-#### CHAPTER 11 — Challenges to monitor remuneration[^key-02a8ddbbe79f9845ba59d3ad2c51c222]
+#### CHAPTER 11 — Challenges to monitor remuneration[^c-02a8ddbbe79f9845ba59d3ad2c51c222]
 
 - [Section 1A.27 — Challenges to monitor remuneration in subsequent insolvency proceedings](part-1a/section-1a-27.md)
 
-#### CHAPTER 12 — Applications to court[^key-02a8ddbbe79f9845ba59d3ad2c51c222]
+#### CHAPTER 12 — Applications to court[^c-02a8ddbbe79f9845ba59d3ad2c51c222]
 
 - [Section 1A.28 — Application of Chapter](part-1a/section-1a-28.md)
 - [Section 1A.29 — Procedure for filing of application](part-1a/section-1a-29.md)
@@ -174,7 +174,7 @@ The Lord Chancellor makes the following Rules in exercise of the powers conferre
 
 #### CHAPTER 3 — Procedure for a CVA without a moratorium
 
-#### CHAPTER 4 — Procedure for a CVA with a moratorium[^key-e46d69e44adbfca2cb32512710d4b289]
+#### CHAPTER 4 — Procedure for a CVA with a moratorium[^c-e46d69e44adbfca2cb32512710d4b289]
 
 #### CHAPTER 5 — Consideration of the proposal by the company members and creditors
 
@@ -194,11 +194,11 @@ The Lord Chancellor makes the following Rules in exercise of the powers conferre
 
 #### CHAPTER 4 — Appointment of administrator by company or directors
 
-#### CHAPTER 5 — Notice of administrator's appointment[^key-ed29fa52b1f3a140fdab40a391831d19]
+#### CHAPTER 5 — Notice of administrator's appointment[^c-ed29fa52b1f3a140fdab40a391831d19]
 
 #### CHAPTER 6 — Statement of affairs
 
-#### CHAPTER 7 — Administrator's proposals[^key-4bb58599de43bdf9fcbad0d5cd3faa98]
+#### CHAPTER 7 — Administrator's proposals[^c-4bb58599de43bdf9fcbad0d5cd3faa98]
 
 #### CHAPTER 8 — Limited disclosure of statements of affairs and proposals
 
@@ -436,7 +436,7 @@ The Lord Chancellor makes the following Rules in exercise of the powers conferre
 
 *Extent: E+W*
 
-#### CHAPTER 3 — Making applications to court: general[^key-db12019353f01aa8a36a6a54d7e065f6]
+#### CHAPTER 3 — Making applications to court: general[^c-db12019353f01aa8a36a6a54d7e065f6]
 
 *Extent: E+W*
 
@@ -488,49 +488,49 @@ The Lord Chancellor makes the following Rules in exercise of the powers conferre
 
 - [Section 13 — Official receivers in court](part-13/section-13.md)
 
-### PART 14 — CLAIMS BY AND DISTRIBUTIONS TO CREDITORS IN A MORATORIUM, ADMINISTRATION, WINDING UP AND BANKRUPTCY[^key-b543fe33b6970d78c80bdbf20c97d99a]
+### PART 14 — CLAIMS BY AND DISTRIBUTIONS TO CREDITORS IN A MORATORIUM, ADMINISTRATION, WINDING UP AND BANKRUPTCY[^c-b543fe33b6970d78c80bdbf20c97d99a]
 
 #### CHAPTER 1 — Application and interpretation
 
 - [Section 14](part-14/section-14.md)
 
-#### CHAPTER 2 — Creditors' claims in a moratorium, administration, winding up and bankruptcy[^key-271a0d31c98d40b6401a2a4e337dca6f]
+#### CHAPTER 2 — Creditors' claims in a moratorium, administration, winding up and bankruptcy[^c-271a0d31c98d40b6401a2a4e337dca6f]
 
 - [Section 14.23A — Moratoriums under Part A1 of the Act: mutual dealings and set off](part-14/section-14-23a.md)
 
 #### CHAPTER 3 — Distribution to creditors in administration, winding up and bankruptcy
 
-### PART 15 — DECISION MAKING[^key-4b8c5a3479529c127c21e8c633b86f30][^key-c3085b1b9b463231d16979a662677cc8][^key-4879cb4435438602ba67744a722a9291]
+### PART 15 — DECISION MAKING[^c-4b8c5a3479529c127c21e8c633b86f30][^c-c3085b1b9b463231d16979a662677cc8][^c-4879cb4435438602ba67744a722a9291]
 
 #### CHAPTER 1 — Application of Part
 
 - [Section 15 — Application of Part](part-15/section-15.md)
 
-#### CHAPTER 2 — Decision procedures[^key-944388945ccd87e6ff0380b6ec439f0f][^key-39716febde4c947d0158e9c9d91fcee8][^key-f59c0330acf962fed9d1ef23f9a95319][^key-bd8401d89aac8b4eeb3a31716f34a530]
+#### CHAPTER 2 — Decision procedures[^c-944388945ccd87e6ff0380b6ec439f0f][^c-39716febde4c947d0158e9c9d91fcee8][^c-f59c0330acf962fed9d1ef23f9a95319][^c-bd8401d89aac8b4eeb3a31716f34a530]
 
-#### CHAPTER 3 — Notices, voting and venues for decisions[^key-f86a37d4a4f189a6d80ae9e856c3cca2][^key-5e51e12b3c6202ec813d763122b2505b][^key-f59c0330acf962fed9d1ef23f9a95319][^key-bd8401d89aac8b4eeb3a31716f34a530]
+#### CHAPTER 3 — Notices, voting and venues for decisions[^c-f86a37d4a4f189a6d80ae9e856c3cca2][^c-5e51e12b3c6202ec813d763122b2505b][^c-f59c0330acf962fed9d1ef23f9a95319][^c-bd8401d89aac8b4eeb3a31716f34a530]
 
 #### CHAPTER 4 — Decision making in particular proceedings
 
 #### CHAPTER 5 — Requisitioned decisions
 
-#### CHAPTER 6 — Constitution of meetings[^key-61e62150d8d2a1259620292706c8e7f3][^key-922e49473fa25029474a36c7fcfbb978][^key-639f79495d5d74b01c47122a927d28f4][^key-386399a9bf8ca7f8c852adebcb708b16]
+#### CHAPTER 6 — Constitution of meetings[^c-61e62150d8d2a1259620292706c8e7f3][^c-922e49473fa25029474a36c7fcfbb978][^c-639f79495d5d74b01c47122a927d28f4][^c-386399a9bf8ca7f8c852adebcb708b16]
 
-#### CHAPTER 7 — Adjournment and suspension of meetings[^key-11daa11ffe6cae7f6837e1dd4a8a6490][^key-474eb4f36542ee3b4537737e18a6e9fc][^key-639f79495d5d74b01c47122a927d28f4][^key-386399a9bf8ca7f8c852adebcb708b16]
+#### CHAPTER 7 — Adjournment and suspension of meetings[^c-11daa11ffe6cae7f6837e1dd4a8a6490][^c-474eb4f36542ee3b4537737e18a6e9fc][^c-639f79495d5d74b01c47122a927d28f4][^c-386399a9bf8ca7f8c852adebcb708b16]
 
 - [Section 15.23A — Adjournment of meeting in, or for the purposes of, a moratorium under Part A1 of the Act](part-15/section-15-23a.md)
 
-#### CHAPTER 8 — Creditors' voting rights and majorities[^key-21aef48ea85bb20373125b477d49522c][^key-96f374d0aeff0415fba3824b269d51da][^key-639f79495d5d74b01c47122a927d28f4][^key-386399a9bf8ca7f8c852adebcb708b16]
+#### CHAPTER 8 — Creditors' voting rights and majorities[^c-21aef48ea85bb20373125b477d49522c][^c-96f374d0aeff0415fba3824b269d51da][^c-639f79495d5d74b01c47122a927d28f4][^c-386399a9bf8ca7f8c852adebcb708b16]
 
-#### CHAPTER 9 — Exclusions from meetings[^key-6791147c99c736b1aae1dc61de24f066][^key-8a244adf8594b206e7ec59492a4d2ad2][^key-639f79495d5d74b01c47122a927d28f4][^key-386399a9bf8ca7f8c852adebcb708b16]
+#### CHAPTER 9 — Exclusions from meetings[^c-6791147c99c736b1aae1dc61de24f066][^c-8a244adf8594b206e7ec59492a4d2ad2][^c-639f79495d5d74b01c47122a927d28f4][^c-386399a9bf8ca7f8c852adebcb708b16]
 
 #### CHAPTER 10 — Contributories' voting rights and majorities
 
-#### CHAPTER 11 — Records[^key-c233e2101ee81bbb4e6c6566b13cf6f8][^key-9ba2f330245903463e31925cdbcd069a][^key-7ad505f0a256497d0f9ef98898818c28][^key-f4ed7c7ef21488efd5c90736e0729e4c]
+#### CHAPTER 11 — Records[^c-c233e2101ee81bbb4e6c6566b13cf6f8][^c-9ba2f330245903463e31925cdbcd069a][^c-7ad505f0a256497d0f9ef98898818c28][^c-f4ed7c7ef21488efd5c90736e0729e4c]
 
 #### CHAPTER 12 — Company meetings
 
-### PART 16 — PROXIES AND CORPORATE REPRESENTATION[^key-3733aaaef2d7425b661e8a160759e5e2][^key-a3c5b3e38418002752a76e240be68c08][^key-669289d57ea3d06d0b0051b1c864283c][^key-7ee5503eb34bb381638eae9d14f7bc94][^key-8214d37c35686eeb847ec055e9242d1d][^key-67ecc959f6c6e59a79d4e75eb8c19232][^key-232fed85866dfcf99da34ff6cde7bb25]
+### PART 16 — PROXIES AND CORPORATE REPRESENTATION[^c-3733aaaef2d7425b661e8a160759e5e2][^c-a3c5b3e38418002752a76e240be68c08][^c-669289d57ea3d06d0b0051b1c864283c][^c-7ee5503eb34bb381638eae9d14f7bc94][^c-8214d37c35686eeb847ec055e9242d1d][^c-67ecc959f6c6e59a79d4e75eb8c19232][^c-232fed85866dfcf99da34ff6cde7bb25]
 
 - [Section 16 — Application and interpretation](part-16/section-16.md)
 
@@ -572,7 +572,7 @@ The Lord Chancellor makes the following Rules in exercise of the powers conferre
 
 - [Section 20 — Application of this Part and interpretation](part-20/section-20.md)
 
-### PART 21 — The EU Regulation[^key-3938e94b47b6b9c08f67e646268954aa]
+### PART 21 — The EU Regulation[^c-3938e94b47b6b9c08f67e646268954aa]
 
 - [Section 21 — Interpretation for this Part](part-21/section-21.md)
 - [Section 21.1A](part-21/section-21-1a.md)
@@ -644,7 +644,7 @@ The Lord Chancellor makes the following Rules in exercise of the powers conferre
 
 *Extent: E+W*
 
-\[Note: in accordance with rules 4 and 5 of the Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 this Part applies only in relation to moratoriums under section A3 of the Act that come into force on or after 1st October 2021 and in relation to moratoriums under sections A4 and A5 of the Act where the application to the court is made on or after 1st October 2021.\][^key-02a8ddbbe79f9845ba59d3ad2c51c222]
+\[Note: in accordance with rules 4 and 5 of the Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 this Part applies only in relation to moratoriums under section A3 of the Act that come into force on or after 1st October 2021 and in relation to moratoriums under sections A4 and A5 of the Act where the application to the court is made on or after 1st October 2021.\][^c-02a8ddbbe79f9845ba59d3ad2c51c222]
 
 *Extent: E+W*
 
@@ -736,7 +736,7 @@ The Lord Chancellor makes the following Rules in exercise of the powers conferre
 
 *Extent: E+W*
 
-[^key-ed29fa52b1f3a140fdab40a391831d19]
+[^c-ed29fa52b1f3a140fdab40a391831d19]
 
 \[Note: a document required by the Act or these Rules must also contain the standard contents set out in Part 1.\]
 
@@ -758,7 +758,7 @@ The Lord Chancellor makes the following Rules in exercise of the powers conferre
 
 *Extent: E+W*
 
-[^key-4bb58599de43bdf9fcbad0d5cd3faa98]
+[^c-4bb58599de43bdf9fcbad0d5cd3faa98]
 
 \[Note: a document required by the Act or these Rules must also contain the standard contents set out in Part 1.\]
 
@@ -1134,19 +1134,19 @@ The Lord Chancellor makes the following Rules in exercise of the powers conferre
 
 *Extent: E+W*
 
-[^key-db12019353f01aa8a36a6a54d7e065f6]
+[^c-db12019353f01aa8a36a6a54d7e065f6]
 
 \[Note: (1) a document required by the Act or these Rules must also contain the standard contents set out in Part 1 and an application to court must also contain the standard contents set out in rule 1.35;
 
 *Extent: E+W*
 
-[^key-db12019353f01aa8a36a6a54d7e065f6]
+[^c-db12019353f01aa8a36a6a54d7e065f6]
 
 (2) Paragraphs 3 and 4 of Schedule 5 make provision in relation to the court's power to extend the time for doing anything required by these Rules;
 
 *Extent: E+W*
 
-[^key-db12019353f01aa8a36a6a54d7e065f6]
+[^c-db12019353f01aa8a36a6a54d7e065f6]
 
 (3) the rules about the applications referred to in rule 12.6 are found in Chapter 2 of Part 3 (administration applications); Chapter 3 of Part 7 (petition for winding up order by creditor) and Chapter 4 of Part 7 (petition for winding up by contributory or office-holder) and Chapter 2 of Part 10 (creditor's bankruptcy petitions).\]
 
@@ -1154,7 +1154,7 @@ The Lord Chancellor makes the following Rules in exercise of the powers conferre
 
 *Extent: E+W*
 
-[^key-db12019353f01aa8a36a6a54d7e065f6]
+[^c-db12019353f01aa8a36a6a54d7e065f6]
 
 \[Note: see rule 1.46 for electronic delivery of documents to the court.\]
 
@@ -1498,109 +1498,109 @@ A full impact assessment of the effect that these Rules will have on the costs o
 
 [^c23175141]: Marginal citation: [Section 411](https://www.legislation.gov.uk/uksi/2016/1024/section/411) and 412 confer on the Lord Chancellor the power to make rules in relation to insolvency in England and Wales with the concurrence of the Secretary of State and the Lord Chief Justice (in the case of rules that affect court procedure). The power to make rules in relation to corporate insolvency in Scotland is conferred on the Secretary of State and is exercisable by the Scottish Ministers. The provisions in the second group of Parts of the Insolvency Act 1986 (insolvency of individuals; bankruptcy) do not extend to Scotland. Relevant amendments to sections 411 and 412 are made by regulations 2 and 3 of [S.I. 2002/1037](https://www.legislation.gov.uk/uksi/2002/1037); [paragraphs 185](https://www.legislation.gov.uk/uksi/2016/1024/paragraph/185), [188](https://www.legislation.gov.uk/uksi/2016/1024/paragraph/188) and 189 of Schedule 4 to the [Constitutional Reform Act 2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4); [paragraphs 1](https://www.legislation.gov.uk/uksi/2016/1024/paragraph/1) and 8 of Schedule 20 to the [Tribunals, Courts and Enforcement Act 2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15); [paragraph 44](https://www.legislation.gov.uk/uksi/2016/1024/paragraph/44) of Schedule 4 to [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194); and paragraph 79 of Schedule 1 to [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
 
-[^key-ef9df22f27c73504c16d3a7cd4af431a]: Modification: Rules applied (with modifications) (6.4.2017) by [S.I. 2015/1493](https://www.legislation.gov.uk/uksi/2015/1493), [regs. 2](https://www.legislation.gov.uk/uksi/2015/1493/regulation/2), [8](https://www.legislation.gov.uk/uksi/2015/1493/regulation/8) (as amended by [The Insolvency (England and Wales) Rules 2016 (Consequential Amendments and Savings) Rules 2017 (S.I. 2017/369)](https://www.legislation.gov.uk/uksi/2017/369), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2017/369/schedule/2/paragraph/1))
+[^c-ef9df22f27c73504c16d3a7cd4af431a]: Modification: Rules applied (with modifications) (6.4.2017) by [S.I. 2015/1493](https://www.legislation.gov.uk/uksi/2015/1493), [regs. 2](https://www.legislation.gov.uk/uksi/2015/1493/regulation/2), [8](https://www.legislation.gov.uk/uksi/2015/1493/regulation/8) (as amended by [The Insolvency (England and Wales) Rules 2016 (Consequential Amendments and Savings) Rules 2017 (S.I. 2017/369)](https://www.legislation.gov.uk/uksi/2017/369), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2017/369/schedule/2/paragraph/1))
 
-[^key-2a43beb3975bf2c4c0e2d04c1aa45a51]: Modification: Rules modified (8.12.2017) by [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090), [Sch. 7](https://www.legislation.gov.uk/uksi/2015/1493/schedule/7) (as inserted by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2017/1119/schedule/1/paragraph/55))
+[^c-2a43beb3975bf2c4c0e2d04c1aa45a51]: Modification: Rules modified (8.12.2017) by [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090), [Sch. 7](https://www.legislation.gov.uk/uksi/2015/1493/schedule/7) (as inserted by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2017/1119/schedule/1/paragraph/55))
 
-[^key-a819f547589d52b2d2a2d0f15a87ccaa]: Modification: Rules applied (with modifications) (4.8.2018) by [The Financial Market Infrastructure Administration (England and Wales) Rules 2018 (S.I. 2018/833)](https://www.legislation.gov.uk/uksi/2018/833), [rules 1(1)](https://www.legislation.gov.uk/uksi/2018/833/rule/1/1), [12](https://www.legislation.gov.uk/uksi/2018/833/rule/12)
+[^c-a819f547589d52b2d2a2d0f15a87ccaa]: Modification: Rules applied (with modifications) (4.8.2018) by [The Financial Market Infrastructure Administration (England and Wales) Rules 2018 (S.I. 2018/833)](https://www.legislation.gov.uk/uksi/2018/833), [rules 1(1)](https://www.legislation.gov.uk/uksi/2018/833/rule/1/1), [12](https://www.legislation.gov.uk/uksi/2018/833/rule/12)
 
-[^key-6c0a73406d225233ee6be27081240a6d]: Modification: Rules modified in part (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2019/138/regulation/5) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(a)(i)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/a/i))
+[^c-6c0a73406d225233ee6be27081240a6d]: Modification: Rules modified in part (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2019/138/regulation/5) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(a)(i)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/a/i))
 
-[^key-d936507dc10ebebd6eb3a76b752b940f]: Modification: Rules modified in part (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [33](https://www.legislation.gov.uk/uksi/2019/138/regulation/33) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/a/ii))
+[^c-d936507dc10ebebd6eb3a76b752b940f]: Modification: Rules modified in part (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [33](https://www.legislation.gov.uk/uksi/2019/138/regulation/33) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/a/ii))
 
-[^key-860fe3c1db940280607e8154f06006cf]: Modification: Rules modified (23.4.2019) by [S.I. 2001/3634](https://www.legislation.gov.uk/uksi/2001/3634), [rules 3-8](https://www.legislation.gov.uk/uksi/2015/1493/rule/3) (as amended by [The Bankruptcy (Financial Services and Markets Act 2000) Rules 2001 and the Insurers (Winding Up) Rules 2001 (Amendment) Rules 2019 (S.I. 2019/754)](https://www.legislation.gov.uk/uksi/2019/754), [rules 1(2)](https://www.legislation.gov.uk/uksi/2017/1119/rule/1/2), [2](https://www.legislation.gov.uk/uksi/2017/1119/rule/2))
+[^c-860fe3c1db940280607e8154f06006cf]: Modification: Rules modified (23.4.2019) by [S.I. 2001/3634](https://www.legislation.gov.uk/uksi/2001/3634), [rules 3-8](https://www.legislation.gov.uk/uksi/2015/1493/rule/3) (as amended by [The Bankruptcy (Financial Services and Markets Act 2000) Rules 2001 and the Insurers (Winding Up) Rules 2001 (Amendment) Rules 2019 (S.I. 2019/754)](https://www.legislation.gov.uk/uksi/2019/754), [rules 1(2)](https://www.legislation.gov.uk/uksi/2017/1119/rule/1/2), [2](https://www.legislation.gov.uk/uksi/2017/1119/rule/2))
 
-[^key-7a8d06218d3c4cf73a6d8fff311863be]: Modification: Rules modified (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 10 para. 7(6)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/10/paragraph/7/6) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-7a8d06218d3c4cf73a6d8fff311863be]: Modification: Rules modified (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 10 para. 7(6)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/10/paragraph/7/6) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-3a30597d88e046fb09531d95d483d1f7]: Modification: Rules restricted (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 10 para. 19(1)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/10/paragraph/19/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/10/paragraph/19/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-3a30597d88e046fb09531d95d483d1f7]: Modification: Rules restricted (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 10 para. 19(1)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/10/paragraph/19/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/10/paragraph/19/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-d29f4ebaeb596c542d7c74e7e5c1f6f1]: Modification: Rules modified (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 10 para. 4(4)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/10/paragraph/4/4) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-d29f4ebaeb596c542d7c74e7e5c1f6f1]: Modification: Rules modified (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 10 para. 4(4)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/10/paragraph/4/4) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-b5930a66fde75172c9f3e54fa5845ed6]: Modification: Rules excluded (1.8.2020) by [The Smart Meter Communication Licensee Administration (England and Wales) Rules 2020 (S.I. 2020/629)](https://www.legislation.gov.uk/uksi/2020/629), [rules 1](https://www.legislation.gov.uk/uksi/2020/629/rule/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/629/rule/4/2) (with [rule 4(1)](https://www.legislation.gov.uk/uksi/2020/629/rule/4/1))
+[^c-b5930a66fde75172c9f3e54fa5845ed6]: Modification: Rules excluded (1.8.2020) by [The Smart Meter Communication Licensee Administration (England and Wales) Rules 2020 (S.I. 2020/629)](https://www.legislation.gov.uk/uksi/2020/629), [rules 1](https://www.legislation.gov.uk/uksi/2020/629/rule/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/629/rule/4/2) (with [rule 4(1)](https://www.legislation.gov.uk/uksi/2020/629/rule/4/1))
 
-[^key-c4518d87e23efa9ad097061913a52811]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2016/1024) excluded (18.7.2023) by [The Relevant Licensee Nuclear Company Administration (England and Wales) Rules 2023 (S.I. 2023/712)](https://www.legislation.gov.uk/uksi/2023/712), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/712/rule/1/2/a), [2(2)](https://www.legislation.gov.uk/uksi/2023/712/rule/2/2) (with [rule 2(1)](https://www.legislation.gov.uk/uksi/2023/712/rule/2/1))
+[^c-c4518d87e23efa9ad097061913a52811]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2016/1024) excluded (18.7.2023) by [The Relevant Licensee Nuclear Company Administration (England and Wales) Rules 2023 (S.I. 2023/712)](https://www.legislation.gov.uk/uksi/2023/712), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/712/rule/1/2/a), [2(2)](https://www.legislation.gov.uk/uksi/2023/712/rule/2/2) (with [rule 2(1)](https://www.legislation.gov.uk/uksi/2023/712/rule/2/1))
 
-[^key-7075232e95477ca203b14459a9382265]: Modification: Rules excluded except for specified provisions (19.11.2025) by [The Carbon Dioxide Transport and Storage (Licensed Operators) Administration (England and Wales) Rules 2025 (S.I. 2025/1135)](https://www.legislation.gov.uk/uksi/2025/1135), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1135/rule/1/2/a), [2(2)](https://www.legislation.gov.uk/uksi/2025/1135/rule/2/2) (with [rule 2(1)](https://www.legislation.gov.uk/uksi/2025/1135/rule/2/1))
+[^c-7075232e95477ca203b14459a9382265]: Modification: Rules excluded except for specified provisions (19.11.2025) by [The Carbon Dioxide Transport and Storage (Licensed Operators) Administration (England and Wales) Rules 2025 (S.I. 2025/1135)](https://www.legislation.gov.uk/uksi/2025/1135), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1135/rule/1/2/a), [2(2)](https://www.legislation.gov.uk/uksi/2025/1135/rule/2/2) (with [rule 2(1)](https://www.legislation.gov.uk/uksi/2025/1135/rule/2/1))
 
 [^c23175401]: Marginal citation: Section 246C was inserted by section 124(3) of the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) and section 248A was inserted by section 124(4) of the same Act.
 
 [^c23175411]: Marginal citation: Section 379C was inserted by section 125(3) of the Small Business, Enterprise and Employment Act 2015 and section 383(A) was inserted by section 125(4) of the same Act.
 
-[^key-02a8ddbbe79f9845ba59d3ad2c51c222]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2016/1024/part/1A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [6](https://www.legislation.gov.uk/uksi/2021/1028/rule/6) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-02a8ddbbe79f9845ba59d3ad2c51c222]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2016/1024/part/1A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [6](https://www.legislation.gov.uk/uksi/2021/1028/rule/6) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-e46d69e44adbfca2cb32512710d4b289]: Textual amendment: [Pt. 2 Ch. 4](https://www.legislation.gov.uk/uksi/2016/1024/part/2/chapter/4) omitted (1.10.2021) by virtue of [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rule 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2021/1028/schedule/2/paragraph/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-e46d69e44adbfca2cb32512710d4b289]: Textual amendment: [Pt. 2 Ch. 4](https://www.legislation.gov.uk/uksi/2016/1024/part/2/chapter/4) omitted (1.10.2021) by virtue of [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rule 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2021/1028/schedule/2/paragraph/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-ed29fa52b1f3a140fdab40a391831d19]: Modification: [Pt. 3 Ch. 5](https://www.legislation.gov.uk/uksi/2016/1024/part/3/chapter/5) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2024/229/rule/5/1/b), [41](https://www.legislation.gov.uk/uksi/2024/229/rule/41) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-ed29fa52b1f3a140fdab40a391831d19]: Modification: [Pt. 3 Ch. 5](https://www.legislation.gov.uk/uksi/2016/1024/part/3/chapter/5) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2024/229/rule/5/1/b), [41](https://www.legislation.gov.uk/uksi/2024/229/rule/41) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-4bb58599de43bdf9fcbad0d5cd3faa98]: Modification: [Pt. 3 Ch. 7](https://www.legislation.gov.uk/uksi/2016/1024/part/3/chapter/7) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2024/229/rule/5/1/b), [47](https://www.legislation.gov.uk/uksi/2024/229/rule/47) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-4bb58599de43bdf9fcbad0d5cd3faa98]: Modification: [Pt. 3 Ch. 7](https://www.legislation.gov.uk/uksi/2016/1024/part/3/chapter/7) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2024/229/rule/5/1/b), [47](https://www.legislation.gov.uk/uksi/2024/229/rule/47) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-db12019353f01aa8a36a6a54d7e065f6]: Modification: [Pt. 12 Ch. 3](https://www.legislation.gov.uk/uksi/2016/1024/part/12/chapter/3) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/2024/229/rule/5/1/c), [64](https://www.legislation.gov.uk/uksi/2024/229/rule/64) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-db12019353f01aa8a36a6a54d7e065f6]: Modification: [Pt. 12 Ch. 3](https://www.legislation.gov.uk/uksi/2016/1024/part/12/chapter/3) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/2024/229/rule/5/1/c), [64](https://www.legislation.gov.uk/uksi/2024/229/rule/64) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-b543fe33b6970d78c80bdbf20c97d99a]: Textual amendment: Words in [Pt. 14](https://www.legislation.gov.uk/uksi/2016/1024/part/14) heading inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [52](https://www.legislation.gov.uk/uksi/2021/1028/rule/52) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-b543fe33b6970d78c80bdbf20c97d99a]: Textual amendment: Words in [Pt. 14](https://www.legislation.gov.uk/uksi/2016/1024/part/14) heading inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [52](https://www.legislation.gov.uk/uksi/2021/1028/rule/52) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-271a0d31c98d40b6401a2a4e337dca6f]: Textual amendment: Words in [Pt. 14 Ch. 2](https://www.legislation.gov.uk/uksi/2016/1024/part/14/chapter/2) heading inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [54](https://www.legislation.gov.uk/uksi/2021/1028/rule/54) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-271a0d31c98d40b6401a2a4e337dca6f]: Textual amendment: Words in [Pt. 14 Ch. 2](https://www.legislation.gov.uk/uksi/2016/1024/part/14/chapter/2) heading inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [54](https://www.legislation.gov.uk/uksi/2021/1028/rule/54) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-4b8c5a3479529c127c21e8c633b86f30]: Modification: [Pt. 15](https://www.legislation.gov.uk/uksi/2016/1024/part/15) applied in part (with modifications) (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 paras. 23(1)(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/23/1/a), [24-28](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/24) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/12))
+[^c-4b8c5a3479529c127c21e8c633b86f30]: Modification: [Pt. 15](https://www.legislation.gov.uk/uksi/2016/1024/part/15) applied in part (with modifications) (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 paras. 23(1)(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/23/1/a), [24-28](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/24) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/12))
 
-[^key-c3085b1b9b463231d16979a662677cc8]: Modification: [Pt. 15](https://www.legislation.gov.uk/uksi/2016/1024/part/15) applied (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 41(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/41/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/12))
+[^c-c3085b1b9b463231d16979a662677cc8]: Modification: [Pt. 15](https://www.legislation.gov.uk/uksi/2016/1024/part/15) applied (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 41(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/41/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/12))
 
-[^key-4879cb4435438602ba67744a722a9291]: Modification: Pt. 15 applied in part (with modifications) (30.9.2021) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2A)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2A), [Sch. 1A paras. 1(4)(5)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/1), [11(1)(a)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/11/1/a), [12-16](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/12), [29(a)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/29/a), [38](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/38) (as inserted by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1048/article/2))
+[^c-4879cb4435438602ba67744a722a9291]: Modification: Pt. 15 applied in part (with modifications) (30.9.2021) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2A)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2A), [Sch. 1A paras. 1(4)(5)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/1), [11(1)(a)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/11/1/a), [12-16](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/12), [29(a)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/29/a), [38](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/38) (as inserted by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1048/article/2))
 
-[^key-944388945ccd87e6ff0380b6ec439f0f]: Modification: [Pt. 15 Ch. 2](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/2) applied (with modifications) (5.7.2018) by [The Housing Administration (England and Wales) Rules 2018 (S.I. 2018/719)](https://www.legislation.gov.uk/uksi/2018/719), [rules 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1.1), [3.29](https://www.legislation.gov.uk/uksi/2018/719/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/719/rule/1.2))
+[^c-944388945ccd87e6ff0380b6ec439f0f]: Modification: [Pt. 15 Ch. 2](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/2) applied (with modifications) (5.7.2018) by [The Housing Administration (England and Wales) Rules 2018 (S.I. 2018/719)](https://www.legislation.gov.uk/uksi/2018/719), [rules 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1.1), [3.29](https://www.legislation.gov.uk/uksi/2018/719/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/719/rule/1.2))
 
-[^key-39716febde4c947d0158e9c9d91fcee8]: Modification: [Pt. 15 Ch. 2](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/2) applied (with modifications) (31.1.2019) by [The Education Administration Rules 2018 (S.I. 2018/1135)](https://www.legislation.gov.uk/uksi/2018/1135), [rules 1](https://www.legislation.gov.uk/uksi/2018/1135/rule/1), [3.29](https://www.legislation.gov.uk/uksi/2018/1135/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/1135/rule/1.2))
+[^c-39716febde4c947d0158e9c9d91fcee8]: Modification: [Pt. 15 Ch. 2](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/2) applied (with modifications) (31.1.2019) by [The Education Administration Rules 2018 (S.I. 2018/1135)](https://www.legislation.gov.uk/uksi/2018/1135), [rules 1](https://www.legislation.gov.uk/uksi/2018/1135/rule/1), [3.29](https://www.legislation.gov.uk/uksi/2018/1135/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/1135/rule/1.2))
 
-[^key-f59c0330acf962fed9d1ef23f9a95319]: Modification: [Pt. 15 Chs. 2](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/2), [3](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/3) applied (with modifications) (18.7.2023) by [The Relevant Licensee Nuclear Company Administration (England and Wales) Rules 2023 (S.I. 2023/712)](https://www.legislation.gov.uk/uksi/2023/712), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/712/rule/1/2/a), [30](https://www.legislation.gov.uk/uksi/2023/712/rule/30) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/712/rule/2))
+[^c-f59c0330acf962fed9d1ef23f9a95319]: Modification: [Pt. 15 Chs. 2](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/2), [3](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/3) applied (with modifications) (18.7.2023) by [The Relevant Licensee Nuclear Company Administration (England and Wales) Rules 2023 (S.I. 2023/712)](https://www.legislation.gov.uk/uksi/2023/712), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/712/rule/1/2/a), [30](https://www.legislation.gov.uk/uksi/2023/712/rule/30) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/712/rule/2))
 
-[^key-bd8401d89aac8b4eeb3a31716f34a530]: Modification: [Pt. 15 Chs. 2](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/2), [3](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/3) applied (with modifications) (19.11.2025) by [The Carbon Dioxide Transport and Storage (Licensed Operators) Administration (England and Wales) Rules 2025 (S.I. 2025/1135)](https://www.legislation.gov.uk/uksi/2025/1135), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1135/rule/1/2/a), [30](https://www.legislation.gov.uk/uksi/2025/1135/rule/30) (with [rule 2(1)](https://www.legislation.gov.uk/uksi/2025/1135/rule/2/1))
+[^c-bd8401d89aac8b4eeb3a31716f34a530]: Modification: [Pt. 15 Chs. 2](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/2), [3](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/3) applied (with modifications) (19.11.2025) by [The Carbon Dioxide Transport and Storage (Licensed Operators) Administration (England and Wales) Rules 2025 (S.I. 2025/1135)](https://www.legislation.gov.uk/uksi/2025/1135), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1135/rule/1/2/a), [30](https://www.legislation.gov.uk/uksi/2025/1135/rule/30) (with [rule 2(1)](https://www.legislation.gov.uk/uksi/2025/1135/rule/2/1))
 
-[^key-f86a37d4a4f189a6d80ae9e856c3cca2]: Modification: [Pt. 15 Ch. 3](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/3) applied (with modifications) (5.7.2018) by [The Housing Administration (England and Wales) Rules 2018 (S.I. 2018/719)](https://www.legislation.gov.uk/uksi/2018/719), [rules 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1.1), [3.29](https://www.legislation.gov.uk/uksi/2018/719/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/719/rule/1.2))
+[^c-f86a37d4a4f189a6d80ae9e856c3cca2]: Modification: [Pt. 15 Ch. 3](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/3) applied (with modifications) (5.7.2018) by [The Housing Administration (England and Wales) Rules 2018 (S.I. 2018/719)](https://www.legislation.gov.uk/uksi/2018/719), [rules 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1.1), [3.29](https://www.legislation.gov.uk/uksi/2018/719/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/719/rule/1.2))
 
-[^key-5e51e12b3c6202ec813d763122b2505b]: Modification: [Pt. 15 Ch. 3](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/3) applied (with modifications) (31.1.2019) by [The Education Administration Rules 2018 (S.I. 2018/1135)](https://www.legislation.gov.uk/uksi/2018/1135), [rules 1](https://www.legislation.gov.uk/uksi/2018/1135/rule/1), [3.29](https://www.legislation.gov.uk/uksi/2018/1135/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/1135/rule/1.2))
+[^c-5e51e12b3c6202ec813d763122b2505b]: Modification: [Pt. 15 Ch. 3](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/3) applied (with modifications) (31.1.2019) by [The Education Administration Rules 2018 (S.I. 2018/1135)](https://www.legislation.gov.uk/uksi/2018/1135), [rules 1](https://www.legislation.gov.uk/uksi/2018/1135/rule/1), [3.29](https://www.legislation.gov.uk/uksi/2018/1135/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/1135/rule/1.2))
 
-[^key-61e62150d8d2a1259620292706c8e7f3]: Modification: [Pt. 15 Ch. 6](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/6) applied (with modifications) (5.7.2018) by [The Housing Administration (England and Wales) Rules 2018 (S.I. 2018/719)](https://www.legislation.gov.uk/uksi/2018/719), [rules 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1.1), [3.29](https://www.legislation.gov.uk/uksi/2018/719/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/719/rule/1.2))
+[^c-61e62150d8d2a1259620292706c8e7f3]: Modification: [Pt. 15 Ch. 6](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/6) applied (with modifications) (5.7.2018) by [The Housing Administration (England and Wales) Rules 2018 (S.I. 2018/719)](https://www.legislation.gov.uk/uksi/2018/719), [rules 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1.1), [3.29](https://www.legislation.gov.uk/uksi/2018/719/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/719/rule/1.2))
 
-[^key-922e49473fa25029474a36c7fcfbb978]: Modification: [Pt. 15 Ch. 6](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/6) applied (with modifications) (31.1.2019) by [The Education Administration Rules 2018 (S.I. 2018/1135)](https://www.legislation.gov.uk/uksi/2018/1135), [rules 1](https://www.legislation.gov.uk/uksi/2018/1135/rule/1), [3.29](https://www.legislation.gov.uk/uksi/2018/1135/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/1135/rule/1.2))
+[^c-922e49473fa25029474a36c7fcfbb978]: Modification: [Pt. 15 Ch. 6](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/6) applied (with modifications) (31.1.2019) by [The Education Administration Rules 2018 (S.I. 2018/1135)](https://www.legislation.gov.uk/uksi/2018/1135), [rules 1](https://www.legislation.gov.uk/uksi/2018/1135/rule/1), [3.29](https://www.legislation.gov.uk/uksi/2018/1135/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/1135/rule/1.2))
 
-[^key-639f79495d5d74b01c47122a927d28f4]: Modification: [Pt. 15 Chs. 6-9](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/6) applied (with modifications) (18.7.2023) by [The Relevant Licensee Nuclear Company Administration (England and Wales) Rules 2023 (S.I. 2023/712)](https://www.legislation.gov.uk/uksi/2023/712), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/712/rule/1/2/a), [30](https://www.legislation.gov.uk/uksi/2023/712/rule/30) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/712/rule/2))
+[^c-639f79495d5d74b01c47122a927d28f4]: Modification: [Pt. 15 Chs. 6-9](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/6) applied (with modifications) (18.7.2023) by [The Relevant Licensee Nuclear Company Administration (England and Wales) Rules 2023 (S.I. 2023/712)](https://www.legislation.gov.uk/uksi/2023/712), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/712/rule/1/2/a), [30](https://www.legislation.gov.uk/uksi/2023/712/rule/30) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/712/rule/2))
 
-[^key-386399a9bf8ca7f8c852adebcb708b16]: Modification: [Pt. 15 Chs. 6-9](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/6) applied (with modifications) (19.11.2025) by [The Carbon Dioxide Transport and Storage (Licensed Operators) Administration (England and Wales) Rules 2025 (S.I. 2025/1135)](https://www.legislation.gov.uk/uksi/2025/1135), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1135/rule/1/2/a), [30](https://www.legislation.gov.uk/uksi/2025/1135/rule/30) (with [rule 2(1)](https://www.legislation.gov.uk/uksi/2025/1135/rule/2/1))
+[^c-386399a9bf8ca7f8c852adebcb708b16]: Modification: [Pt. 15 Chs. 6-9](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/6) applied (with modifications) (19.11.2025) by [The Carbon Dioxide Transport and Storage (Licensed Operators) Administration (England and Wales) Rules 2025 (S.I. 2025/1135)](https://www.legislation.gov.uk/uksi/2025/1135), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1135/rule/1/2/a), [30](https://www.legislation.gov.uk/uksi/2025/1135/rule/30) (with [rule 2(1)](https://www.legislation.gov.uk/uksi/2025/1135/rule/2/1))
 
-[^key-11daa11ffe6cae7f6837e1dd4a8a6490]: Modification: [Pt. 15 Ch. 7](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/7) applied (with modifications) (5.7.2018) by [The Housing Administration (England and Wales) Rules 2018 (S.I. 2018/719)](https://www.legislation.gov.uk/uksi/2018/719), [rules 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1.1), [3.29](https://www.legislation.gov.uk/uksi/2018/719/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/719/rule/1.2))
+[^c-11daa11ffe6cae7f6837e1dd4a8a6490]: Modification: [Pt. 15 Ch. 7](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/7) applied (with modifications) (5.7.2018) by [The Housing Administration (England and Wales) Rules 2018 (S.I. 2018/719)](https://www.legislation.gov.uk/uksi/2018/719), [rules 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1.1), [3.29](https://www.legislation.gov.uk/uksi/2018/719/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/719/rule/1.2))
 
-[^key-474eb4f36542ee3b4537737e18a6e9fc]: Modification: [Pt. 15 Ch. 7](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/7) applied (with modifications) (31.1.2019) by [The Education Administration Rules 2018 (S.I. 2018/1135)](https://www.legislation.gov.uk/uksi/2018/1135), [rules 1](https://www.legislation.gov.uk/uksi/2018/1135/rule/1), [3.29](https://www.legislation.gov.uk/uksi/2018/1135/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/1135/rule/1.2))
+[^c-474eb4f36542ee3b4537737e18a6e9fc]: Modification: [Pt. 15 Ch. 7](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/7) applied (with modifications) (31.1.2019) by [The Education Administration Rules 2018 (S.I. 2018/1135)](https://www.legislation.gov.uk/uksi/2018/1135), [rules 1](https://www.legislation.gov.uk/uksi/2018/1135/rule/1), [3.29](https://www.legislation.gov.uk/uksi/2018/1135/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/1135/rule/1.2))
 
-[^key-21aef48ea85bb20373125b477d49522c]: Modification: [Pt. 15 Ch. 8](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/8) applied (with modifications) (5.7.2018) by [The Housing Administration (England and Wales) Rules 2018 (S.I. 2018/719)](https://www.legislation.gov.uk/uksi/2018/719), [rules 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1.1), [3.29](https://www.legislation.gov.uk/uksi/2018/719/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/719/rule/1.2))
+[^c-21aef48ea85bb20373125b477d49522c]: Modification: [Pt. 15 Ch. 8](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/8) applied (with modifications) (5.7.2018) by [The Housing Administration (England and Wales) Rules 2018 (S.I. 2018/719)](https://www.legislation.gov.uk/uksi/2018/719), [rules 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1.1), [3.29](https://www.legislation.gov.uk/uksi/2018/719/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/719/rule/1.2))
 
-[^key-96f374d0aeff0415fba3824b269d51da]: Modification: [Pt. 15 Ch. 8](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/8) applied (with modifications) (31.1.2019) by [The Education Administration Rules 2018 (S.I. 2018/1135)](https://www.legislation.gov.uk/uksi/2018/1135), [rules 1](https://www.legislation.gov.uk/uksi/2018/1135/rule/1), [3.29](https://www.legislation.gov.uk/uksi/2018/1135/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/1135/rule/1.2))
+[^c-96f374d0aeff0415fba3824b269d51da]: Modification: [Pt. 15 Ch. 8](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/8) applied (with modifications) (31.1.2019) by [The Education Administration Rules 2018 (S.I. 2018/1135)](https://www.legislation.gov.uk/uksi/2018/1135), [rules 1](https://www.legislation.gov.uk/uksi/2018/1135/rule/1), [3.29](https://www.legislation.gov.uk/uksi/2018/1135/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/1135/rule/1.2))
 
-[^key-6791147c99c736b1aae1dc61de24f066]: Modification: [Pt. 15 Ch. 9](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/9) applied (with modifications) (5.7.2018) by [The Housing Administration (England and Wales) Rules 2018 (S.I. 2018/719)](https://www.legislation.gov.uk/uksi/2018/719), [rules 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1.1), [3.29](https://www.legislation.gov.uk/uksi/2018/719/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/719/rule/1.2))
+[^c-6791147c99c736b1aae1dc61de24f066]: Modification: [Pt. 15 Ch. 9](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/9) applied (with modifications) (5.7.2018) by [The Housing Administration (England and Wales) Rules 2018 (S.I. 2018/719)](https://www.legislation.gov.uk/uksi/2018/719), [rules 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1.1), [3.29](https://www.legislation.gov.uk/uksi/2018/719/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/719/rule/1.2))
 
-[^key-8a244adf8594b206e7ec59492a4d2ad2]: Modification: [Pt. 15 Ch. 9](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/9) applied (with modifications) (31.1.2019) by [The Education Administration Rules 2018 (S.I. 2018/1135)](https://www.legislation.gov.uk/uksi/2018/1135), [rules 1](https://www.legislation.gov.uk/uksi/2018/1135/rule/1), [3.29](https://www.legislation.gov.uk/uksi/2018/1135/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/1135/rule/1.2))
+[^c-8a244adf8594b206e7ec59492a4d2ad2]: Modification: [Pt. 15 Ch. 9](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/9) applied (with modifications) (31.1.2019) by [The Education Administration Rules 2018 (S.I. 2018/1135)](https://www.legislation.gov.uk/uksi/2018/1135), [rules 1](https://www.legislation.gov.uk/uksi/2018/1135/rule/1), [3.29](https://www.legislation.gov.uk/uksi/2018/1135/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/1135/rule/1.2))
 
-[^key-c233e2101ee81bbb4e6c6566b13cf6f8]: Modification: [Pt. 15 Ch. 11](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/11) applied (with modifications) (5.7.2018) by [The Housing Administration (England and Wales) Rules 2018 (S.I. 2018/719)](https://www.legislation.gov.uk/uksi/2018/719), [rules 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1.1), [3.29](https://www.legislation.gov.uk/uksi/2018/719/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/719/rule/1.2))
+[^c-c233e2101ee81bbb4e6c6566b13cf6f8]: Modification: [Pt. 15 Ch. 11](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/11) applied (with modifications) (5.7.2018) by [The Housing Administration (England and Wales) Rules 2018 (S.I. 2018/719)](https://www.legislation.gov.uk/uksi/2018/719), [rules 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1.1), [3.29](https://www.legislation.gov.uk/uksi/2018/719/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/719/rule/1.2))
 
-[^key-9ba2f330245903463e31925cdbcd069a]: Modification: [Pt. 15 Ch. 11](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/11) applied (with modifications) (31.1.2019) by [The Education Administration Rules 2018 (S.I. 2018/1135)](https://www.legislation.gov.uk/uksi/2018/1135), [rules 1](https://www.legislation.gov.uk/uksi/2018/1135/rule/1), [3.29](https://www.legislation.gov.uk/uksi/2018/1135/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/1135/rule/1.2))
+[^c-9ba2f330245903463e31925cdbcd069a]: Modification: [Pt. 15 Ch. 11](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/11) applied (with modifications) (31.1.2019) by [The Education Administration Rules 2018 (S.I. 2018/1135)](https://www.legislation.gov.uk/uksi/2018/1135), [rules 1](https://www.legislation.gov.uk/uksi/2018/1135/rule/1), [3.29](https://www.legislation.gov.uk/uksi/2018/1135/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/1135/rule/1.2))
 
-[^key-7ad505f0a256497d0f9ef98898818c28]: Modification: [Pt. 15 Ch. 11](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/11) applied (with modifications) (18.7.2023) by [The Relevant Licensee Nuclear Company Administration (England and Wales) Rules 2023 (S.I. 2023/712)](https://www.legislation.gov.uk/uksi/2023/712), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/712/rule/1/2/a), [30](https://www.legislation.gov.uk/uksi/2023/712/rule/30) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/712/rule/2))
+[^c-7ad505f0a256497d0f9ef98898818c28]: Modification: [Pt. 15 Ch. 11](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/11) applied (with modifications) (18.7.2023) by [The Relevant Licensee Nuclear Company Administration (England and Wales) Rules 2023 (S.I. 2023/712)](https://www.legislation.gov.uk/uksi/2023/712), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/712/rule/1/2/a), [30](https://www.legislation.gov.uk/uksi/2023/712/rule/30) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/712/rule/2))
 
-[^key-f4ed7c7ef21488efd5c90736e0729e4c]: Modification: [Pt. 15 Ch. 11](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/11) applied (with modifications) (19.11.2025) by [The Carbon Dioxide Transport and Storage (Licensed Operators) Administration (England and Wales) Rules 2025 (S.I. 2025/1135)](https://www.legislation.gov.uk/uksi/2025/1135), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1135/rule/1/2/a), [30](https://www.legislation.gov.uk/uksi/2025/1135/rule/30) (with [rule 2(1)](https://www.legislation.gov.uk/uksi/2025/1135/rule/2/1))
+[^c-f4ed7c7ef21488efd5c90736e0729e4c]: Modification: [Pt. 15 Ch. 11](https://www.legislation.gov.uk/uksi/2016/1024/part/15/chapter/11) applied (with modifications) (19.11.2025) by [The Carbon Dioxide Transport and Storage (Licensed Operators) Administration (England and Wales) Rules 2025 (S.I. 2025/1135)](https://www.legislation.gov.uk/uksi/2025/1135), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1135/rule/1/2/a), [30](https://www.legislation.gov.uk/uksi/2025/1135/rule/30) (with [rule 2(1)](https://www.legislation.gov.uk/uksi/2025/1135/rule/2/1))
 
-[^key-3733aaaef2d7425b661e8a160759e5e2]: Modification: [Pt. 16](https://www.legislation.gov.uk/uksi/2016/1024/part/16) applied (with modifications) (5.7.2018) by [The Housing Administration (England and Wales) Rules 2018 (S.I. 2018/719)](https://www.legislation.gov.uk/uksi/2018/719), [rules 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1.1), [3.29](https://www.legislation.gov.uk/uksi/2018/719/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/719/rule/1.2))
+[^c-3733aaaef2d7425b661e8a160759e5e2]: Modification: [Pt. 16](https://www.legislation.gov.uk/uksi/2016/1024/part/16) applied (with modifications) (5.7.2018) by [The Housing Administration (England and Wales) Rules 2018 (S.I. 2018/719)](https://www.legislation.gov.uk/uksi/2018/719), [rules 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1.1), [3.29](https://www.legislation.gov.uk/uksi/2018/719/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/719/rule/1.2))
 
-[^key-a3c5b3e38418002752a76e240be68c08]: Modification: [Pt. 16](https://www.legislation.gov.uk/uksi/2016/1024/part/16) applied (with modifications) (31.1.2019) by [The Education Administration Rules 2018 (S.I. 2018/1135)](https://www.legislation.gov.uk/uksi/2018/1135), [rules 1](https://www.legislation.gov.uk/uksi/2018/1135/rule/1), [3.29](https://www.legislation.gov.uk/uksi/2018/1135/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/1135/rule/1.2))
+[^c-a3c5b3e38418002752a76e240be68c08]: Modification: [Pt. 16](https://www.legislation.gov.uk/uksi/2016/1024/part/16) applied (with modifications) (31.1.2019) by [The Education Administration Rules 2018 (S.I. 2018/1135)](https://www.legislation.gov.uk/uksi/2018/1135), [rules 1](https://www.legislation.gov.uk/uksi/2018/1135/rule/1), [3.29](https://www.legislation.gov.uk/uksi/2018/1135/rule/3.29) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/1135/rule/1.2))
 
-[^key-669289d57ea3d06d0b0051b1c864283c]: Modification: [Pt. 16](https://www.legislation.gov.uk/uksi/2016/1024/part/16) applied in part (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 23(1)(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/23/1/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/12))
+[^c-669289d57ea3d06d0b0051b1c864283c]: Modification: [Pt. 16](https://www.legislation.gov.uk/uksi/2016/1024/part/16) applied in part (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 23(1)(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/23/1/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/12))
 
-[^key-7ee5503eb34bb381638eae9d14f7bc94]: Modification: [Pt. 16](https://www.legislation.gov.uk/uksi/2016/1024/part/16) applied (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 41(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/41/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/12))
+[^c-7ee5503eb34bb381638eae9d14f7bc94]: Modification: [Pt. 16](https://www.legislation.gov.uk/uksi/2016/1024/part/16) applied (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 41(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/41/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/12))
 
-[^key-8214d37c35686eeb847ec055e9242d1d]: Modification: Pt. 16 applied in part (with modifications) (30.9.2021) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2A)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2A), [Sch. 1A paras. 1(4)(5)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/1), [11(1)(b)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/11/1/b), [29(b)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/29/b), [38](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/38) (as inserted by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1048/article/2))
+[^c-8214d37c35686eeb847ec055e9242d1d]: Modification: Pt. 16 applied in part (with modifications) (30.9.2021) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2A)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2A), [Sch. 1A paras. 1(4)(5)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/1), [11(1)(b)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/11/1/b), [29(b)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/29/b), [38](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/38) (as inserted by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1048/article/2))
 
-[^key-67ecc959f6c6e59a79d4e75eb8c19232]: Modification: [Pt. 16](https://www.legislation.gov.uk/uksi/2016/1024/part/16) applied (with modifications) (18.7.2023) by [The Relevant Licensee Nuclear Company Administration (England and Wales) Rules 2023 (S.I. 2023/712)](https://www.legislation.gov.uk/uksi/2023/712), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/712/rule/1/2/a), [30](https://www.legislation.gov.uk/uksi/2023/712/rule/30), [33](https://www.legislation.gov.uk/uksi/2023/712/rule/33) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/712/rule/2))
+[^c-67ecc959f6c6e59a79d4e75eb8c19232]: Modification: [Pt. 16](https://www.legislation.gov.uk/uksi/2016/1024/part/16) applied (with modifications) (18.7.2023) by [The Relevant Licensee Nuclear Company Administration (England and Wales) Rules 2023 (S.I. 2023/712)](https://www.legislation.gov.uk/uksi/2023/712), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/712/rule/1/2/a), [30](https://www.legislation.gov.uk/uksi/2023/712/rule/30), [33](https://www.legislation.gov.uk/uksi/2023/712/rule/33) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/712/rule/2))
 
-[^key-232fed85866dfcf99da34ff6cde7bb25]: Modification: [Pt. 16](https://www.legislation.gov.uk/uksi/2016/1024/part/16) applied (with modifications) (19.11.2025) by [The Carbon Dioxide Transport and Storage (Licensed Operators) Administration (England and Wales) Rules 2025 (S.I. 2025/1135)](https://www.legislation.gov.uk/uksi/2025/1135), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1135/rule/1/2/a), [30](https://www.legislation.gov.uk/uksi/2025/1135/rule/30), [33](https://www.legislation.gov.uk/uksi/2025/1135/rule/33) (with [rule 2(1)](https://www.legislation.gov.uk/uksi/2025/1135/rule/2/1))
+[^c-232fed85866dfcf99da34ff6cde7bb25]: Modification: [Pt. 16](https://www.legislation.gov.uk/uksi/2016/1024/part/16) applied (with modifications) (19.11.2025) by [The Carbon Dioxide Transport and Storage (Licensed Operators) Administration (England and Wales) Rules 2025 (S.I. 2025/1135)](https://www.legislation.gov.uk/uksi/2025/1135), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1135/rule/1/2/a), [30](https://www.legislation.gov.uk/uksi/2025/1135/rule/30), [33](https://www.legislation.gov.uk/uksi/2025/1135/rule/33) (with [rule 2(1)](https://www.legislation.gov.uk/uksi/2025/1135/rule/2/1))
 
-[^key-3938e94b47b6b9c08f67e646268954aa]: Textual amendment: Pt. 21 heading substituted (26.6.2017) by [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 45](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/45) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3))
+[^c-3938e94b47b6b9c08f67e646268954aa]: Textual amendment: Pt. 21 heading substituted (26.6.2017) by [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 45](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/45) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3))
 
 [^c23177441]: Marginal citation: Section 246ZE is inserted by section 122 of the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) and section 379ZA is inserted by section 123 of that Act.
 

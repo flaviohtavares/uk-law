@@ -46,7 +46,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 This Order makes provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Scottish Ministers that it is expedient for references to [Commission Regulation (EC) No. 616/2009](https://www.legislation.gov.uk/european/regulation/2009/0616) to be construed as references to that Commission Regulation as amended from time to time.
 
-## 1. Citation, commencement and extent[^key-b977981de40f78747a998443526d8818]
+## 1. Citation, commencement and extent[^c-b977981de40f78747a998443526d8818]
 
 This Order—
 
@@ -54,7 +54,7 @@ This Order—
 - (b) comes into force on 10th May 2010; and
 - (c) extends to Scotland only.
 
-## 2. Interpretation[^key-09ee1f2f3d3bca15b66fe9f59b9bf1d8]
+## 2. Interpretation[^c-09ee1f2f3d3bca15b66fe9f59b9bf1d8]
 
 In this Order—
 
@@ -62,15 +62,15 @@ In this Order—
 - “Commission Regulation” means [Commission Regulation (EC) No. 616/2009](https://www.legislation.gov.uk/european/regulation/2009/0616) implementing Council Directive [2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094) as regards the approval of poultry compartments and other captive birds compartments with respect to avian influenza and additional preventive biosecurity measures in such compartments[^f00003] as amended from time to time; and
 - “production site” means premises where poultry are kept for the purposes of breeding, rearing, fattening or egg production and which are the subject of an application under article 4.
 
-## 3. Competent authority[^key-d4e08c9922b267be007431a033e3424e]
+## 3. Competent authority[^c-d4e08c9922b267be007431a033e3424e]
 
 The Scottish Ministers are the competent authority for the purposes of the Commission Regulation.
 
-## 4. Applications[^key-cfbf065099b0b0fb4f8e736f01167f3e]
+## 4. Applications[^c-cfbf065099b0b0fb4f8e736f01167f3e]
 
 Applications for approval of compartments must be made in such form as the Scottish Ministers may require in accordance with the Commission Regulation.
 
-## 5. Powers of inspectors[^key-c9706a8872ef0d718e743af25a9ca2bb]
+## 5. Powers of inspectors[^c-c9706a8872ef0d718e743af25a9ca2bb]
 
 (1) An inspector may, for any purpose relating to this Order or to the Commission Regulation—
 
@@ -79,7 +79,7 @@ Applications for approval of compartments must be made in such form as the Scott
 - (c) remove and retain a copy of any document or record;
 - (d) have access to, and check the operation of, any computer and any associated apparatus or material which is or has been used in connection with a document or record;
 - (e) where a document or record is kept by means of a computer, require the document or record to be produced in a form in which it may be taken away; and
-- (f) be accompanied by [^key-eb4c2ecff03a71d6a0ff4849a1fddeb3]... any person the inspector considers necessary.
+- (f) be accompanied by [^c-eb4c2ecff03a71d6a0ff4849a1fddeb3]... any person the inspector considers necessary.
 
 (2) A person required to do anything by an inspector acting under paragraph (1) must, unless that person has reasonable cause, do so without delay.
 
@@ -111,16 +111,16 @@ A regulatory impact assessment has not been prepared for this instrument.
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-b977981de40f78747a998443526d8818]: Commencement: Art. 1 in force at 10.5.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/150/article/1/b)
+[^c-b977981de40f78747a998443526d8818]: Commencement: Art. 1 in force at 10.5.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/150/article/1/b)
 
-[^key-09ee1f2f3d3bca15b66fe9f59b9bf1d8]: Commencement: Art. 2 in force at 10.5.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/150/article/1/b)
+[^c-09ee1f2f3d3bca15b66fe9f59b9bf1d8]: Commencement: Art. 2 in force at 10.5.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/150/article/1/b)
 
 [^f00003]: Footnote: O.J. No L 181, 14.7.2009, p.16.
 
-[^key-d4e08c9922b267be007431a033e3424e]: Commencement: Art. 3 in force at 10.5.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/150/article/1/b)
+[^c-d4e08c9922b267be007431a033e3424e]: Commencement: Art. 3 in force at 10.5.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/150/article/1/b)
 
-[^key-cfbf065099b0b0fb4f8e736f01167f3e]: Commencement: Art. 4 in force at 10.5.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/150/article/1/b)
+[^c-cfbf065099b0b0fb4f8e736f01167f3e]: Commencement: Art. 4 in force at 10.5.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/150/article/1/b)
 
-[^key-c9706a8872ef0d718e743af25a9ca2bb]: Commencement: Art. 5 in force at 10.5.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/150/article/1/b)
+[^c-c9706a8872ef0d718e743af25a9ca2bb]: Commencement: Art. 5 in force at 10.5.2010, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2010/150/article/1/b)
 
-[^key-eb4c2ecff03a71d6a0ff4849a1fddeb3]: Textual amendment: Words in [art. 5(1)(f)](https://www.legislation.gov.uk/ssi/2010/150/article/5/1/f) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [26](https://www.legislation.gov.uk/ssi/2019/71/regulation/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb4c2ecff03a71d6a0ff4849a1fddeb3]: Textual amendment: Words in [art. 5(1)(f)](https://www.legislation.gov.uk/ssi/2010/150/article/5/1/f) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [26](https://www.legislation.gov.uk/ssi/2019/71/regulation/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

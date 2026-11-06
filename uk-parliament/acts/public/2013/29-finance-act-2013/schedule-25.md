@@ -436,7 +436,7 @@ Section 65
 
 #### Corporation Tax Act 2010
 
-**19.**[^key-d6eae894d84be09fa2ddce8e64c8c950] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-d6eae894d84be09fa2ddce8e64c8c950] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 3 — Commencement
 
@@ -444,4 +444,4 @@ Section 65
 
 ## Annotations
 
-[^key-d6eae894d84be09fa2ddce8e64c8c950]: Textual amendment: Sch. 25 para. 19 omitted (with effect in accordance with Sch. 1 para. 22 of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2014/26/schedule/1/paragraph/20)
+[^c-d6eae894d84be09fa2ddce8e64c8c950]: Textual amendment: Sch. 25 para. 19 omitted (with effect in accordance with Sch. 1 para. 22 of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2014/26/schedule/1/paragraph/20)

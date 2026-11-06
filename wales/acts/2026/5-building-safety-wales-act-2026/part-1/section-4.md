@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Meaning of “independent part”[^key-6894ec6a0b356c7c3fb8302a2b006414]
+## 4. Meaning of “independent part”[^c-6894ec6a0b356c7c3fb8302a2b006414]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ the part is an independent part.
 
 ## Annotations
 
-[^key-6894ec6a0b356c7c3fb8302a2b006414]: Commencement: S. 4 in force at 28.4.2026, see [s. 138(1)(a)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/a)
+[^c-6894ec6a0b356c7c3fb8302a2b006414]: Commencement: S. 4 in force at 28.4.2026, see [s. 138(1)(a)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/a)

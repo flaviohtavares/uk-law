@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**35A.**[^key-40b5b2c7078a723ff4d55eeb3bbecd18] After regulation 39 insert—
+**35A.**[^c-40b5b2c7078a723ff4d55eeb3bbecd18] After regulation 39 insert—
 
 > **39A. Movement conditions: verification against customs formalities**
 >
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40b5b2c7078a723ff4d55eeb3bbecd18]: Textual amendment: Reg. 35A inserted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/18)
+[^c-40b5b2c7078a723ff4d55eeb3bbecd18]: Textual amendment: Reg. 35A inserted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/18)

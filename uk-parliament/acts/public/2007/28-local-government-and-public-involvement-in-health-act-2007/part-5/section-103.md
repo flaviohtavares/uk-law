@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Application of Chapter: responsible local authorities[^key-0758bc66bc5aeeb0bef01f569e6951ee]
+## 103. Application of Chapter: responsible local authorities[^c-0758bc66bc5aeeb0bef01f569e6951ee]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ For the purposes of this Chapter, each of the following is a responsible local a
 
 ## Annotations
 
-[^key-0758bc66bc5aeeb0bef01f569e6951ee]: Commencement: S. 103 in force at 30.12.2007, see [s. 245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2)
+[^c-0758bc66bc5aeeb0bef01f569e6951ee]: Commencement: S. 103 in force at 30.12.2007, see [s. 245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2)

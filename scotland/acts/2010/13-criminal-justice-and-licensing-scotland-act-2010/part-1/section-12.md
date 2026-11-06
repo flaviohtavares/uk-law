@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Business plan[^key-d75fdca323cf9320fe85dc847401dd2b]
+## 12. Business plan[^c-d75fdca323cf9320fe85dc847401dd2b]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d75fdca323cf9320fe85dc847401dd2b]: Commencement: S. 12 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)
+[^c-d75fdca323cf9320fe85dc847401dd2b]: Commencement: S. 12 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)

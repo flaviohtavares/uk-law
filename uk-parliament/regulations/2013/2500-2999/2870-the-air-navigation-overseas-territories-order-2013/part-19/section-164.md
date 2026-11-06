@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Lighting of en-route obstacles[^key-66d7afd657ac1b033070008db7bf3c93]
+## 164. Lighting of en-route obstacles[^c-66d7afd657ac1b033070008db7bf3c93]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) The person in charge of an en-route obstacle must ensure that, by night, the lights required to be fitted by this article are displayed.
 
-(4) In the event of the failure of any light which is required by this article to be displayed by night the person in charge must report the failure, as soon as is practicable, to the operator of the nearest aerodrome to the obstacle and[^key-7422c0abd473d559887b63b93835cb4b] repair or replace the light as soon as is reasonably practicable.
+(4) In the event of the failure of any light which is required by this article to be displayed by night the person in charge must report the failure, as soon as is practicable, to the operator of the nearest aerodrome to the obstacle and[^c-7422c0abd473d559887b63b93835cb4b] repair or replace the light as soon as is reasonably practicable.
 
 (5) At each level on the obstacle where lights are required to be fitted, sufficient lights must be fitted and arranged so as to show when displayed in all directions.
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-66d7afd657ac1b033070008db7bf3c93]: Commencement: [Art. 164](https://www.legislation.gov.uk/uksi/2013/2870/article/164) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-66d7afd657ac1b033070008db7bf3c93]: Commencement: [Art. 164](https://www.legislation.gov.uk/uksi/2013/2870/article/164) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-7422c0abd473d559887b63b93835cb4b]: Textual amendment: Words in [art. 164(4)](https://www.legislation.gov.uk/uksi/2013/2870/article/164/4) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [17(4)](https://www.legislation.gov.uk/uksi/2021/755/article/17/4)
+[^c-7422c0abd473d559887b63b93835cb4b]: Textual amendment: Words in [art. 164(4)](https://www.legislation.gov.uk/uksi/2013/2870/article/164/4) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [17(4)](https://www.legislation.gov.uk/uksi/2021/755/article/17/4)

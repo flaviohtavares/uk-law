@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Defence[^key-a299a0adc6fcafb2c44ff9ed4de39fb6]
+## 77. Defence[^c-a299a0adc6fcafb2c44ff9ed4de39fb6]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a299a0adc6fcafb2c44ff9ed4de39fb6]: Commencement: S. 77 in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/i)
+[^c-a299a0adc6fcafb2c44ff9ed4de39fb6]: Commencement: S. 77 in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/i)

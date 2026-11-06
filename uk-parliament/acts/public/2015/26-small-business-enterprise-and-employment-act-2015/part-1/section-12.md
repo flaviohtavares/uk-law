@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Export and Investment Guarantees Act 1991 is amended as follows.
 
-(2)[^key-cb4293ae3745b413f30169517f82c3f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-cb4293ae3745b413f30169517f82c3f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (3) of that section, for paragraphs (a) and (b) substitute “ 26,200 million special drawing rights ”.
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb4293ae3745b413f30169517f82c3f0]: Textual amendment: [S. 12(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/2) omitted (18.5.2026) by virtue of [Industry and Exports (Financial Assistance) Act 2026 (c. 14)](https://www.legislation.gov.uk/ukpga/2026/14), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2026/14/section/2/2), [3(2)](https://www.legislation.gov.uk/ukpga/2026/14/section/3/2)
+[^c-cb4293ae3745b413f30169517f82c3f0]: Textual amendment: [S. 12(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/2) omitted (18.5.2026) by virtue of [Industry and Exports (Financial Assistance) Act 2026 (c. 14)](https://www.legislation.gov.uk/ukpga/2026/14), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2026/14/section/2/2), [3(2)](https://www.legislation.gov.uk/ukpga/2026/14/section/3/2)

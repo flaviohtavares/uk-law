@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 61. Withdrawal of approvals for, and re-designation of, existing border control entities[^key-806adac5ebcabbfdbc041e4e3194e874]
+## Article 61. Withdrawal of approvals for, and re-designation of, existing border control entities[^c-806adac5ebcabbfdbc041e4e3194e874]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-806adac5ebcabbfdbc041e4e3194e874]: Textual amendment: [Art. 61](https://www.legislation.gov.uk/eur/2017/625/article/61) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [11(14)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/11/14) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-806adac5ebcabbfdbc041e4e3194e874]: Textual amendment: [Art. 61](https://www.legislation.gov.uk/eur/2017/625/article/61) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [11(14)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/11/14) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

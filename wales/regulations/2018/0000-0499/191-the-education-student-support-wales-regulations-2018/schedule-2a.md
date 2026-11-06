@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## Schedule 2A — Relevant courses for protected students[^key-5eb7b0dd42b9fa698449d82817ec131d]
+## Schedule 2A — Relevant courses for protected students[^c-5eb7b0dd42b9fa698449d82817ec131d]
 
 *Extent: E+W*
 
@@ -123,4 +123,4 @@ Regulation 40(5)
 
 ## Annotations
 
-[^key-5eb7b0dd42b9fa698449d82817ec131d]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/wsi/2018/191/schedule/2A) inserted (31.7.2026 with application in accordance with reg. 2 of the amending S.I.) by The Education (Student Support) (Wales) (Amendment) Regulations 2026 (W.[S.I. 2026/108](https://www.legislation.gov.uk/uksi/2026/108)), regs. 1(2), 2, 6
+[^c-5eb7b0dd42b9fa698449d82817ec131d]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/wsi/2018/191/schedule/2A) inserted (31.7.2026 with application in accordance with reg. 2 of the amending S.I.) by The Education (Student Support) (Wales) (Amendment) Regulations 2026 (W.[S.I. 2026/108](https://www.legislation.gov.uk/uksi/2026/108)), regs. 1(2), 2, 6

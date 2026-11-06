@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Effect of death or discharge of jurors[^key-2ed73d41f195ab45b4dc557c633883f1]
+## 90. Effect of death or discharge of jurors[^c-2ed73d41f195ab45b4dc557c633883f1]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ed73d41f195ab45b4dc557c633883f1]: Textual amendment: S. 90 substituted (1.1.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 62(2)](https://www.legislation.gov.uk/asp/2025/12/section/62/2), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/393/regulation/3))
+[^c-2ed73d41f195ab45b4dc557c633883f1]: Textual amendment: S. 90 substituted (1.1.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 62(2)](https://www.legislation.gov.uk/asp/2025/12/section/62/2), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/393/regulation/3))

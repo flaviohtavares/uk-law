@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Designation of competent persons by health boards[^key-93285465e16a9dfd16bbe40cd0edbb15][^key-696514a755fe7a6e87cf0563d5c02d3f]
+## 3. Designation of competent persons by health boards[^c-93285465e16a9dfd16bbe40cd0edbb15][^c-696514a755fe7a6e87cf0563d5c02d3f]
 
 *Extent: S*
 
@@ -47,6 +47,6 @@ as the Scottish Ministers consider appropriate in relation to those functions.
 
 ## Annotations
 
-[^key-93285465e16a9dfd16bbe40cd0edbb15]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2008/5/section/3) in force at 1.4.2009 for specified purposes by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)
+[^c-93285465e16a9dfd16bbe40cd0edbb15]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2008/5/section/3) in force at 1.4.2009 for specified purposes by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)
 
-[^key-696514a755fe7a6e87cf0563d5c02d3f]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2008/5/section/3) in force at 1.10.2009 in so far as not already in force by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-696514a755fe7a6e87cf0563d5c02d3f]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2008/5/section/3) in force at 1.10.2009 in so far as not already in force by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

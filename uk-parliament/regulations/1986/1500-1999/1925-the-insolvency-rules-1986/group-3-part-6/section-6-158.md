@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.158. Termination of membership[^key-444f84a410cff8ac46459f826f33f2a0]
+## 6.158. Termination of membership[^c-444f84a410cff8ac46459f826f33f2a0]
 
 *Extent: E+W*
 
 (1) A person's membership of the creditors' committee is automatically terminated if—
 
-- (a) he becomes bankrupt [^key-08403f4007a62e33bfe33e7e786e7313]..., or
+- (a) he becomes bankrupt [^c-08403f4007a62e33bfe33e7e786e7313]..., or
 - (b) at 3 consecutive meetings of the committee he is neither present nor represented (unless at the third of those meetings it is resolved that this Rule is not to apply in his case), or
 - (c) he ceases to be, or is found never to have been, a creditor.
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-444f84a410cff8ac46459f826f33f2a0]: Commencement: [Rule 6.158](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.158) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-444f84a410cff8ac46459f826f33f2a0]: Commencement: [Rule 6.158](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.158) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-08403f4007a62e33bfe33e7e786e7313]: Textual amendment: Words in [rule 6.158(1)(a)](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.158/1/a) omitted (1.4.2004) by virtue of [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [38](https://www.legislation.gov.uk/uksi/2004/584/article/38)
+[^c-08403f4007a62e33bfe33e7e786e7313]: Textual amendment: Words in [rule 6.158(1)(a)](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.158/1/a) omitted (1.4.2004) by virtue of [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [38](https://www.legislation.gov.uk/uksi/2004/584/article/38)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96D. Transition of EU exemption after replacement of EU trade duty[^key-579c0d8e3070aa2e66cccb91de489865][^key-dc68a8dc60108bd892ea7da55f232855]
+## 96D. Transition of EU exemption after replacement of EU trade duty[^c-579c0d8e3070aa2e66cccb91de489865][^c-dc68a8dc60108bd892ea7da55f232855]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,10 +28,10 @@ summary: ''
 
 (2) The public notice—
 
-- (a) must not take effect before the replacement of EU trade duty[^key-a4ea97eb1a48e4821dafcc80218f9d38]; and
+- (a) must not take effect before the replacement of EU trade duty[^c-a4ea97eb1a48e4821dafcc80218f9d38]; and
 - (b) applies only to goods imported into the United Kingdom after it takes effect.
 
-(2A)[^key-31feb26e1d01c56dabdf64089998ee31]
+(2A)[^c-31feb26e1d01c56dabdf64089998ee31]
 
 - (a) This paragraph applies where—
   - (i) the Secretary of State has granted a person an exemption under paragraph (1); and
@@ -47,10 +47,10 @@ summary: ''
 
 ## Annotations
 
-[^key-579c0d8e3070aa2e66cccb91de489865]: Textual amendment: [Reg. 96D](https://www.legislation.gov.uk/uksi/2019/450/regulation/96D) inserted (6.9.2021) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/942)](https://www.legislation.gov.uk/uksi/2021/942), [regs. 1](https://www.legislation.gov.uk/uksi/2021/942/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/942/regulation/3)
+[^c-579c0d8e3070aa2e66cccb91de489865]: Textual amendment: [Reg. 96D](https://www.legislation.gov.uk/uksi/2019/450/regulation/96D) inserted (6.9.2021) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/942)](https://www.legislation.gov.uk/uksi/2021/942), [regs. 1](https://www.legislation.gov.uk/uksi/2021/942/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/942/regulation/3)
 
-[^key-dc68a8dc60108bd892ea7da55f232855]: Textual amendment: Pt. 12 substituted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/1076/regulation/10)
+[^c-dc68a8dc60108bd892ea7da55f232855]: Textual amendment: Pt. 12 substituted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/1076/regulation/10)
 
-[^key-a4ea97eb1a48e4821dafcc80218f9d38]: Textual amendment: Words in [reg. 96D(2)(a)](https://www.legislation.gov.uk/uksi/2019/450/regulation/96D/2/a) substituted (25.9.2023) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/955)](https://www.legislation.gov.uk/uksi/2023/955), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/955/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2023/955/regulation/3/a)
+[^c-a4ea97eb1a48e4821dafcc80218f9d38]: Textual amendment: Words in [reg. 96D(2)(a)](https://www.legislation.gov.uk/uksi/2019/450/regulation/96D/2/a) substituted (25.9.2023) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/955)](https://www.legislation.gov.uk/uksi/2023/955), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/955/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2023/955/regulation/3/a)
 
-[^key-31feb26e1d01c56dabdf64089998ee31]: Textual amendment: [Reg. 96D(2A)](https://www.legislation.gov.uk/uksi/2019/450/regulation/96D/2A)[(2B)](https://www.legislation.gov.uk/uksi/2019/450/regulation/96D/2B) inserted (25.9.2023) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/955)](https://www.legislation.gov.uk/uksi/2023/955), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/955/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2023/955/regulation/3/b)
+[^c-31feb26e1d01c56dabdf64089998ee31]: Textual amendment: [Reg. 96D(2A)](https://www.legislation.gov.uk/uksi/2019/450/regulation/96D/2A)[(2B)](https://www.legislation.gov.uk/uksi/2019/450/regulation/96D/2B) inserted (25.9.2023) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/955)](https://www.legislation.gov.uk/uksi/2023/955), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/955/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2023/955/regulation/3/b)

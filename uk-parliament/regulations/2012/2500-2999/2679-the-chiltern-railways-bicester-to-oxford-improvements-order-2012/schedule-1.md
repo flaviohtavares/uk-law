@@ -16,32 +16,32 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — SCHEDULED WORKS[^key-c43f1a761eceec84812bcff6ee31e58b]
+## SCHEDULE 1 — SCHEDULED WORKS[^c-c43f1a761eceec84812bcff6ee31e58b]
 
 *Extent: E+W+S*
 
 Articles 2 and 5
 
-[^key-c43f1a761eceec84812bcff6ee31e58b]
+[^c-c43f1a761eceec84812bcff6ee31e58b]
 
 In the County of Oxfordshire, District of Cherwell—
 
 - Work No. 1– A double track railway (1,197 metres in length) commencing by a junction with the course of the railway from London Marylebone to Birmingham Moor Street at a point 40 metres west of the northern face of Charbridge Lane overbridge and terminating by a junction with the commencement of Work No.2 on the course of the Bletchley to Oxford Railway at a point 70 metres south-west of Tubbs Lane crossing. Work No.1 includes a culvert extension and the construction of an embankment.
 
-[^key-c43f1a761eceec84812bcff6ee31e58b]
+[^c-c43f1a761eceec84812bcff6ee31e58b]
 
 In the County of Oxfordshire, District of Cherwell and the City of Oxford—
 
 - Work No. 2– A double track railway (17,600 metres in length) commencing in the county of Oxfordshire, district of Cherwell by a junction with the termination of Work No.1 and terminating in the city of Oxford by a junction with the commencement of Work No.3 at a point 370 metres north of Aristotle Lane Crossing. Work No.2 includes the reconstruction of Bicester Town and Islip Stations; construction of a station at Water Eaton; extensions to bridges OXD37, OXD38, OXD39 and OXD40; remedial works to bridges OXD42, OXD44, OXD46 and OXD49; demolition of bridge OXD47; lowering of track through Wolvercot Tunnel and the provision of a signalling power supply point at the proposed Elm Tree Farm Langford Lane overbridge (Work No.11).
 
-[^key-c43f1a761eceec84812bcff6ee31e58b]
+[^c-c43f1a761eceec84812bcff6ee31e58b]
 
 In the City of Oxford—
 
 - Work No. 3– A railway (1,939 metres in length) commencing by a junction with the termination of Work No.2 and terminating in Oxford Station at a point 190 metres south of Bridge DCL26. Work No.3 includes the extension of the Aristotle Lane accommodation crossing, remedial works to Bridge OXD53, the extension of DCL26 and the demolition of the parcel bay platforms and construction of platforms and other facilities at Oxford Station.
 - Work No. 3A– A railway (234 metres in length) forming a spur off Work No.3 commencing by a junction with that work at a point 35 metres north of Bridge DCL26 and terminating in Oxford Station at a point 190 metres south of that bridge.
 
-[^key-c43f1a761eceec84812bcff6ee31e58b]
+[^c-c43f1a761eceec84812bcff6ee31e58b]
 
 In the County of Oxfordshire, District of Cherwell—
 
@@ -64,4 +64,4 @@ In the County of Oxfordshire, District of Cherwell—
 
 ## Annotations
 
-[^key-c43f1a761eceec84812bcff6ee31e58b]: Commencement: Sch. 1 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-c43f1a761eceec84812bcff6ee31e58b]: Commencement: Sch. 1 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 139. Dissolution of higher education corporations in Wales[^key-7047b8f70a313873c04c11975873b96a]
+## 139. Dissolution of higher education corporations in Wales[^c-7047b8f70a313873c04c11975873b96a]
 
 *Extent: E+W*
 
-(1)[^key-6e7a3c3e73912b3d2bfc568195996f02] Section 128 of the [Education Reform Act 1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40) is amended as follows.
+(1)[^c-6e7a3c3e73912b3d2bfc568195996f02] Section 128 of the [Education Reform Act 1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40) is amended as follows.
 
-(2)[^key-6e7a3c3e73912b3d2bfc568195996f02] In subsection (1), in sub-paragraph (b)(iii), for the words “the Higher Education Funding Council for Wales” substitute “the Commission for Tertiary Education and Research (“**the Commission**”)”.
+(2)[^c-6e7a3c3e73912b3d2bfc568195996f02] In subsection (1), in sub-paragraph (b)(iii), for the words “the Higher Education Funding Council for Wales” substitute “the Commission for Tertiary Education and Research (“**the Commission**”)”.
 
 (3) After subsection (1) insert—
 
@@ -41,7 +41,7 @@ summary: ''
 > - (a) may, in relation to any property or rights of the corporation transferred under the order, make provision about the effect of such transfer on any right of pre-emption, right of return or other similar right that may apply in respect of such property or rights (including provision about the calculation and payment of any just compensation);
 > - (b) has effect in relation to property, rights or liabilities to which it applies in spite of any provision (of whatever nature) of any enactment or any rule of law, which would otherwise prevent, penalise or restrict the transfer of the property rights or liabilities.
 
-(4)[^key-6e7a3c3e73912b3d2bfc568195996f02] In subsection (4), in paragraph (b), for the words “the Higher Education Funding Council for Wales” substitute “the Commission”.
+(4)[^c-6e7a3c3e73912b3d2bfc568195996f02] In subsection (4), in paragraph (b), for the words “the Higher Education Funding Council for Wales” substitute “the Commission”.
 
 (5) For subsection (5), substitute—
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7047b8f70a313873c04c11975873b96a]: Commencement: S. 139 not in force at Royal Assent, see [s. 148](https://www.legislation.gov.uk/asc/2022/1/section/148)
+[^c-7047b8f70a313873c04c11975873b96a]: Commencement: S. 139 not in force at Royal Assent, see [s. 148](https://www.legislation.gov.uk/asc/2022/1/section/148)
 
-[^key-6e7a3c3e73912b3d2bfc568195996f02]: Commencement: [S. 139(1)](https://www.legislation.gov.uk/asc/2022/1/section/139/1)[(2)](https://www.legislation.gov.uk/asc/2022/1/section/139/2)[(4)](https://www.legislation.gov.uk/asc/2022/1/section/139/4) in force at 1.8.2024 by [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(h)](https://www.legislation.gov.uk/wsi/2024/806/article/2/h) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-6e7a3c3e73912b3d2bfc568195996f02]: Commencement: [S. 139(1)](https://www.legislation.gov.uk/asc/2022/1/section/139/1)[(2)](https://www.legislation.gov.uk/asc/2022/1/section/139/2)[(4)](https://www.legislation.gov.uk/asc/2022/1/section/139/4) in force at 1.8.2024 by [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(h)](https://www.legislation.gov.uk/wsi/2024/806/article/2/h) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))

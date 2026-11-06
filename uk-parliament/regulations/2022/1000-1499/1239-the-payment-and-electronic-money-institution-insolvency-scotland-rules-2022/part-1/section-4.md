@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Interpretation[^key-c4939b68c9ae5635415a562e6b15095b]
+## 4. Interpretation[^c-c4939b68c9ae5635415a562e6b15095b]
 
 *Extent: S*
 
@@ -85,7 +85,7 @@ where the institution had not chosen voluntarily to safeguard the funds when it 
 
 ## Annotations
 
-[^key-c4939b68c9ae5635415a562e6b15095b]: Commencement: Rule 4 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-c4939b68c9ae5635415a562e6b15095b]: Commencement: Rule 4 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
 
 [^f00003]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 

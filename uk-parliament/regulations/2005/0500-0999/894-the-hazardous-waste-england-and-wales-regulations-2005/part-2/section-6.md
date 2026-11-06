@@ -23,7 +23,7 @@ summary: ''
 Subject to regulation 9, a waste is a hazardous waste if it is—
 
 - (a) listed as a hazardous waste in the List of Wastes [^c12129981];
-- (b)[^key-007759f1e6679040c3763ab3ccf5b8fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-007759f1e6679040c3763ab3ccf5b8fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) a specific batch of waste which is determined pursuant to regulation 8 to be a hazardous waste,
 
 and the term “hazardous” and cognate expressions shall be construed accordingly.
@@ -32,4 +32,4 @@ and the term “hazardous” and cognate expressions shall be construed accordin
 
 [^c12129981]: Marginal citation: Wastes listed as hazardous in the List of Wastes are considered hazardous pursuant to the first indent of Article 1.4 of the Hazardous Waste Directive.
 
-[^key-007759f1e6679040c3763ab3ccf5b8fb]: Textual amendment: [Reg. 6(b)](https://www.legislation.gov.uk/uksi/2005/894/regulation/6/b) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2020/1540/regulation/8)
+[^c-007759f1e6679040c3763ab3ccf5b8fb]: Textual amendment: [Reg. 6(b)](https://www.legislation.gov.uk/uksi/2005/894/regulation/6/b) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2020/1540/regulation/8)

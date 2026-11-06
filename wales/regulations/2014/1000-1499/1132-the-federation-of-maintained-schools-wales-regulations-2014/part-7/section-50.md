@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Election of the chair and vice-chair[^key-56594a28be1676d151f4fbe65c24aafb]
+## 50. Election of the chair and vice-chair[^c-56594a28be1676d151f4fbe65c24aafb]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56594a28be1676d151f4fbe65c24aafb]: Commencement: Reg. 50 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-56594a28be1676d151f4fbe65c24aafb]: Commencement: Reg. 50 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

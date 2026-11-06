@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Retaining entries in register[^key-b1d4f861a81f9cd2e39e59e2c601e3f7]
+## 34. Retaining entries in register[^c-b1d4f861a81f9cd2e39e59e2c601e3f7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1d4f861a81f9cd2e39e59e2c601e3f7]: Textual amendment: Reg. 34 omitted (3.3.2015) by virtue of [The Representation of the People (England and Wales) (Amendment) Regulations 2015 (S.I. 2015/467)](https://www.legislation.gov.uk/uksi/2015/467), [regs. 1](https://www.legislation.gov.uk/uksi/2015/467/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/467/regulation/7)
+[^c-b1d4f861a81f9cd2e39e59e2c601e3f7]: Textual amendment: Reg. 34 omitted (3.3.2015) by virtue of [The Representation of the People (England and Wales) (Amendment) Regulations 2015 (S.I. 2015/467)](https://www.legislation.gov.uk/uksi/2015/467), [regs. 1](https://www.legislation.gov.uk/uksi/2015/467/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/467/regulation/7)

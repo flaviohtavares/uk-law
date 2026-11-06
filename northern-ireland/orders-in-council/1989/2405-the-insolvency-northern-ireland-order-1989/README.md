@@ -27,13 +27,13 @@ summary: ''
 
 1989 No. 2405 (N.I. 19)
 
-The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361][^c20427691][^c20428691][^c20428771][^c21122031][^c21122041][^c21834371][^c21834761][^c21834751][^c22529701][^c22531521][^c22531531][^c21834481][^c21834491][^c21834541][^key-f08340dd4fc2f2d2f24a9fc268bfc196][^key-bae92670ae2f1627af1668be7131cc4f][^key-fe8858da259fcba80f0cab606a77a512][^key-ca76afba4f5281d8677d34f0abf794b3][^key-aecd70ae58841b34e5eb5a287239e2ce][^key-03402b3ae7c2177a48e61715f0b547dc][^key-38aad4f138d45d7e070fa185d7480100][^M_C_f7de3be1-5e09-4ba7-c3c0-79a3aa136d77][^key-c7b8d1ed801b1ad3bd27efbf71a1b0a4][^key-3422707f3a9eed85609dddb655bfa1e9][^key-360515784acd165227dbb9db5dbf8c95][^key-5874800473dbfca3c142f2b39eb423de][^key-b84bf7e32ddc66f2fb969a8631ae0679][^key-713e58f8b633387773a951356b6325ca][^key-34a1c762969361308260559c4646c000]
+The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361][^c20427691][^c20428691][^c20428771][^c21122031][^c21122041][^c21834371][^c21834761][^c21834751][^c22529701][^c22531521][^c22531531][^c21834481][^c21834491][^c21834541][^c-f08340dd4fc2f2d2f24a9fc268bfc196][^c-bae92670ae2f1627af1668be7131cc4f][^c-fe8858da259fcba80f0cab606a77a512][^c-ca76afba4f5281d8677d34f0abf794b3][^c-aecd70ae58841b34e5eb5a287239e2ce][^c-03402b3ae7c2177a48e61715f0b547dc][^c-38aad4f138d45d7e070fa185d7480100][^M_C_f7de3be1-5e09-4ba7-c3c0-79a3aa136d77][^c-c7b8d1ed801b1ad3bd27efbf71a1b0a4][^c-3422707f3a9eed85609dddb655bfa1e9][^c-360515784acd165227dbb9db5dbf8c95][^c-5874800473dbfca3c142f2b39eb423de][^c-b84bf7e32ddc66f2fb969a8631ae0679][^c-713e58f8b633387773a951356b6325ca][^c-34a1c762969361308260559c4646c000]
 
 19th December 1989
 
 ## Contents
 
-### PART I — INTRODUCTORY[^key-de54c114abc6f143f960a9155b66737c][^key-5382c63d9681977c1c8e6a38bc2e3841]
+### PART I — INTRODUCTORY[^c-de54c114abc6f143f960a9155b66737c][^c-5382c63d9681977c1c8e6a38bc2e3841]
 
 - [Section 1 — Title and commencement](part-i/section-1.md)
 - [Section 2 — General interpretation](part-i/section-2.md)
@@ -41,7 +41,7 @@ The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361]
 - [Section 3 — “Act as insolvency practitioner”](part-i/section-3.md)
 - [Section 4 — “Associate”](part-i/section-4.md)
 
-#### Interpretation for Parts 1A to 7[^key-745948419751b1cb1154b740709a91c6]
+#### Interpretation for Parts 1A to 7[^c-745948419751b1cb1154b740709a91c6]
 
 - [Section 5 — Interpretation](part-i/section-5.md)
 - [Section 6 — “Insolvency” and“go into liquidation”](part-i/section-6.md)
@@ -63,14 +63,14 @@ The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361]
 - [Section 12 — “Receiver or manager”](part-i/section-12.md)
 - [Section 13 — “Contributory”](part-i/section-13.md)
 
-### PART 1A — Moratorium[^key-de54c114abc6f143f960a9155b66737c][^key-5382c63d9681977c1c8e6a38bc2e3841][^key-1531dc9ea9123ea203c78422d93482c3]
+### PART 1A — Moratorium[^c-de54c114abc6f143f960a9155b66737c][^c-5382c63d9681977c1c8e6a38bc2e3841][^c-1531dc9ea9123ea203c78422d93482c3]
 
-#### CHAPTER 1 — Introductory[^key-1531dc9ea9123ea203c78422d93482c3]
+#### CHAPTER 1 — Introductory[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13A — Overview](part-1a/section-13a.md)
 - [Section 13AA — Eligible companies](part-1a/section-13aa.md)
 
-#### CHAPTER 2 — Obtaining a moratorium[^key-1531dc9ea9123ea203c78422d93482c3]
+#### CHAPTER 2 — Obtaining a moratorium[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13B — Obtaining a moratorium by filing documents at High Court](part-1a/section-13b.md)
 - [Section 13BA — Obtaining a moratorium for company subject to winding-up petition](part-1a/section-13ba.md)
@@ -79,13 +79,13 @@ The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361]
 - [Section 13BD — Beginning of moratorium and appointment of monitor](part-1a/section-13bd.md)
 - [Section 13BE — Obligations to notify where moratorium comes into force](part-1a/section-13be.md)
 
-#### CHAPTER 3 — Length of moratorium[^key-1531dc9ea9123ea203c78422d93482c3]
+#### CHAPTER 3 — Length of moratorium[^c-1531dc9ea9123ea203c78422d93482c3]
 
-##### Initial period[^key-1531dc9ea9123ea203c78422d93482c3]
+##### Initial period[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13C — End of the moratorium](part-1a/section-13c.md)
 
-##### Extension of moratorium[^key-1531dc9ea9123ea203c78422d93482c3]
+##### Extension of moratorium[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13CA — Extension by directors without creditor consent](part-1a/section-13ca.md)
 - [Section 13CB — Extension by directors with creditor consent](part-1a/section-13cb.md)
@@ -94,57 +94,57 @@ The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361]
 - [Section 13CE — Extension while proposal for CVA pending](part-1a/section-13ce.md)
 - [Section 13CF — Extension by High Court in the course of other proceedings](part-1a/section-13cf.md)
 
-##### Early termination on certain grounds[^key-1531dc9ea9123ea203c78422d93482c3]
+##### Early termination on certain grounds[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13CG — Company enters into insolvency procedure etc](part-1a/section-13cg.md)
 
-##### Obligations to notify change in end of moratorium[^key-1531dc9ea9123ea203c78422d93482c3]
+##### Obligations to notify change in end of moratorium[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13CH — Obligations to notify change in end of moratorium](part-1a/section-13ch.md)
 
-#### CHAPTER 4 — Effects of moratorium[^key-1531dc9ea9123ea203c78422d93482c3]
+#### CHAPTER 4 — Effects of moratorium[^c-1531dc9ea9123ea203c78422d93482c3]
 
-##### Introductory[^key-1531dc9ea9123ea203c78422d93482c3]
+##### Introductory[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13D — Overview and construction of references to payment holidays](part-1a/section-13d.md)
 
-##### Publicity about moratorium[^key-1531dc9ea9123ea203c78422d93482c3]
+##### Publicity about moratorium[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13DA — Publicity about moratorium](part-1a/section-13da.md)
 
-##### Effect on creditors etc[^key-1531dc9ea9123ea203c78422d93482c3]
+##### Effect on creditors etc[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13DB — Restrictions on insolvency proceedings etc](part-1a/section-13db.md)
 - [Section 13DC — Restrictions on enforcement and legal proceedings](part-1a/section-13dc.md)
 - [Section 13DD — Floating charges](part-1a/section-13dd.md)
 - [Section 13DE — Enforcement of security granted during moratorium](part-1a/section-13de.md)
 
-##### Notification of insolvency proceedings[^key-1531dc9ea9123ea203c78422d93482c3]
+##### Notification of insolvency proceedings[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13DF — Duty of directors to notify monitor of insolvency proceedings etc](part-1a/section-13df.md)
 
-##### Restrictions on transactions[^key-1531dc9ea9123ea203c78422d93482c3]
+##### Restrictions on transactions[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13DG — Restrictions on obtaining credit](part-1a/section-13dg.md)
 - [Section 13DH — Restrictions on grant of security etc](part-1a/section-13dh.md)
 - [Section 13DI — Prohibition on entering into market contracts etc](part-1a/section-13di.md)
 
-##### Restrictions on payments and disposal of property[^key-1531dc9ea9123ea203c78422d93482c3]
+##### Restrictions on payments and disposal of property[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13DJ — Restrictions on payment of certain pre-moratorium debts](part-1a/section-13dj.md)
 - [Section 13DK — Restrictions on disposal of property](part-1a/section-13dk.md)
 - [Section 13DL — Restrictions on disposal of hire-purchase property](part-1a/section-13dl.md)
 
-##### Disposals of property free from charges etc[^key-1531dc9ea9123ea203c78422d93482c3]
+##### Disposals of property free from charges etc[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13DM — Disposal of charged property free from charge](part-1a/section-13dm.md)
 - [Section 13DN — Disposal of hire-purchase property](part-1a/section-13dn.md)
 
-##### Effect of contravention of certain provisions of Chapter[^key-1531dc9ea9123ea203c78422d93482c3]
+##### Effect of contravention of certain provisions of Chapter[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13DO — Contravention of certain requirements imposed under this Chapter](part-1a/section-13do.md)
 
-#### CHAPTER 5 — The monitor[^key-1531dc9ea9123ea203c78422d93482c3]
+#### CHAPTER 5 — The monitor[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13E — Status of monitor](part-1a/section-13e.md)
 - [Section 13EA — Monitoring](part-1a/section-13ea.md)
@@ -155,41 +155,41 @@ The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361]
 - [Section 13EF — Application of Part where two or more persons act as monitor](part-1a/section-13ef.md)
 - [Section 13EG — Presumption of validity](part-1a/section-13eg.md)
 
-#### CHAPTER 6 — Challenges[^key-1531dc9ea9123ea203c78422d93482c3]
+#### CHAPTER 6 — Challenges[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13F — Challenge to monitor’s actions](part-1a/section-13f.md)
 - [Section 13FA — Challenges to monitor remuneration in insolvency proceedings](part-1a/section-13fa.md)
 - [Section 13FB — Challenge to directors’ actions](part-1a/section-13fb.md)
 - [Section 13FC — Challenge brought by Board of the Pension Protection Fund](part-1a/section-13fc.md)
 
-#### CHAPTER 7 — Offences: general[^key-1531dc9ea9123ea203c78422d93482c3]
+#### CHAPTER 7 — Offences: general[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13G — Offence of fraud etc during or in anticipation of moratorium](part-1a/section-13g.md)
 - [Section 13GA — Offence of false representation etc to obtain a moratorium](part-1a/section-13ga.md)
 - [Section 13GB — Prosecution of delinquent officers of company](part-1a/section-13gb.md)
 
-#### CHAPTER 8 — Miscellaneous and general[^key-1531dc9ea9123ea203c78422d93482c3]
+#### CHAPTER 8 — Miscellaneous and general[^c-1531dc9ea9123ea203c78422d93482c3]
 
-##### Special rules for certain kinds of company etc[^key-1531dc9ea9123ea203c78422d93482c3]
+##### Special rules for certain kinds of company etc[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13H — Regulated companies: modifications to this Part](part-1a/section-13h.md)
 - [Section 13HA — Power to modify this Part etc in relation to certain companies](part-1a/section-13ha.md)
 - [Section 13HB — Power to make provision in connection with pension schemes](part-1a/section-13hb.md)
 
-##### Floating charges[^key-1531dc9ea9123ea203c78422d93482c3]
+##### Floating charges[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13HC — Void provisions in floating charge documents](part-1a/section-13hc.md)
 
-##### Interpretation of this Part[^key-1531dc9ea9123ea203c78422d93482c3]
+##### Interpretation of this Part[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13HD — Meaning of “pre-moratorium debt” and “moratorium debt”](part-1a/section-13hd.md)
 - [Section 13HE — Interpretation of this Part: general](part-1a/section-13he.md)
 
-##### Regulations[^key-1531dc9ea9123ea203c78422d93482c3]
+##### Regulations[^c-1531dc9ea9123ea203c78422d93482c3]
 
 - [Section 13HF — Regulations](part-1a/section-13hf.md)
 
-### PART II — COMPANY VOLUNTARY ARRANGEMENTS[^c21120231][^c21834771][^M_C_3e50bffb-09c0-454f-9b16-d3c87ce3a38e][^key-2494013afd895484ce38470bc7a7d894][^M_C_73849350-b2f6-4641-d407-36672984d296][^key-de54c114abc6f143f960a9155b66737c][^key-10515372ca83a13b2e748423c7177772][^key-5382c63d9681977c1c8e6a38bc2e3841]
+### PART II — COMPANY VOLUNTARY ARRANGEMENTS[^c21120231][^c21834771][^M_C_3e50bffb-09c0-454f-9b16-d3c87ce3a38e][^c-2494013afd895484ce38470bc7a7d894][^M_C_73849350-b2f6-4641-d407-36672984d296][^c-de54c114abc6f143f960a9155b66737c][^c-10515372ca83a13b2e748423c7177772][^c-5382c63d9681977c1c8e6a38bc2e3841]
 
 *Extent: N.I.*
 
@@ -211,13 +211,13 @@ The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361]
 - [Section 20A — Prosecution of delinquent officers of company](part-ii/section-20a.md)
 - [Section 20B — Arrangements coming to an end prematurely](part-ii/section-20b.md)
 
-### PART III — ADMINISTRATION[^key-5382c63d9681977c1c8e6a38bc2e3841][^c21113391][^c21120261][^M_C_b153eb69-a378-4841-aedb-f83186b54766][^key-2494013afd895484ce38470bc7a7d894][^key-de54c114abc6f143f960a9155b66737c][^key-c7d9cc435659883e75869c8a173000f8][^c20167111]
+### PART III — ADMINISTRATION[^c-5382c63d9681977c1c8e6a38bc2e3841][^c21113391][^c21120261][^M_C_b153eb69-a378-4841-aedb-f83186b54766][^c-2494013afd895484ce38470bc7a7d894][^c-de54c114abc6f143f960a9155b66737c][^c-c7d9cc435659883e75869c8a173000f8][^c20167111]
 
 *Extent: N.I.*
 
 - [Section 21 — Administration](part-iiin1/section-21.md)
 
-### PART III — ADMINISTRATION ORDERS[^c20695271][^c22146631][^c20235361][^key-5382c63d9681977c1c8e6a38bc2e3841]
+### PART III — ADMINISTRATION ORDERS[^c20695271][^c22146631][^c20235361][^c-5382c63d9681977c1c8e6a38bc2e3841]
 
 *Extent: N.I.*
 
@@ -264,7 +264,7 @@ The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361]
 - [Section 38 — Creditors' committee](part-iiin2/section-38.md)
 - [Section 39 — Protection of interests of creditors and members](part-iiin2/section-39.md)
 
-### PART IV — RECEIVERSHIP — RECEIVERS AND MANAGERS[^c21834821][^key-2494013afd895484ce38470bc7a7d894][^key-de54c114abc6f143f960a9155b66737c][^key-5382c63d9681977c1c8e6a38bc2e3841]
+### PART IV — RECEIVERSHIP — RECEIVERS AND MANAGERS[^c21834821][^c-2494013afd895484ce38470bc7a7d894][^c-de54c114abc6f143f960a9155b66737c][^c-5382c63d9681977c1c8e6a38bc2e3841]
 
 *Extent: N.I.*
 
@@ -319,11 +319,11 @@ The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361]
 - [Section 59I — Eighth exception: licence companies](part-iv/section-59i.md)
 - [Section 59J — Articles 59A to 59I: supplementary](part-iv/section-59j.md)
 
-### PART V — WINDING UP OF COMPANIES REGISTERED UNDER the Companies Act 2006[^key-4961707ccadaf60f9fa84dd13df05463][^key-de54c114abc6f143f960a9155b66737c][^key-5382c63d9681977c1c8e6a38bc2e3841][^c21826671]
+### PART V — WINDING UP OF COMPANIES REGISTERED UNDER the Companies Act 2006[^c-4961707ccadaf60f9fa84dd13df05463][^c-de54c114abc6f143f960a9155b66737c][^c-5382c63d9681977c1c8e6a38bc2e3841][^c21826671]
 
 *Extent: N.I.*
 
-#### CHAPTER I — PRELIMINARY[^key-5382c63d9681977c1c8e6a38bc2e3841]
+#### CHAPTER I — PRELIMINARY[^c-5382c63d9681977c1c8e6a38bc2e3841]
 
 ##### Introductory[^c21826141]
 
@@ -361,7 +361,7 @@ The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361]
 - [Section 75 — Statutory declaration of solvency](part-v/section-75.md)
 - [Section 76 — Distinction between “members'” and “creditors'” voluntary winding up](part-v/section-76.md)
 
-#### CHAPTER III — MEMBERS' VOLUNTARY WINDING UP[^key-83aaeb566a8bfe3e7373d500f3f649d0]
+#### CHAPTER III — MEMBERS' VOLUNTARY WINDING UP[^c-83aaeb566a8bfe3e7373d500f3f649d0]
 
 - [Section 77 — Appointment of liquidator](part-v/section-77.md)
 - [Section 78 — Power to fill vacancy in office of liquidator](part-v/section-78.md)
@@ -460,7 +460,7 @@ The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361]
 - [Section 136 — Powers of High Court to be cumulative](part-v/section-136.md)
 - [Section 137 — Delegation of powers to liquidator](part-v/section-137.md)
 
-#### CHAPTER VII — LIQUIDATORS[^key-5382c63d9681977c1c8e6a38bc2e3841]
+#### CHAPTER VII — LIQUIDATORS[^c-5382c63d9681977c1c8e6a38bc2e3841]
 
 ##### Preliminary
 
@@ -485,9 +485,9 @@ The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361]
 - [Section 147 — Release (voluntary winding up)](part-v/section-147.md)
 - [Section 148 — Release (winding up by the High Court)](part-v/section-148.md)
 
-#### CHAPTER VIII — PROVISIONS OF GENERAL APPLICATION IN WINDING UP[^key-5382c63d9681977c1c8e6a38bc2e3841]
+#### CHAPTER VIII — PROVISIONS OF GENERAL APPLICATION IN WINDING UP[^c-5382c63d9681977c1c8e6a38bc2e3841]
 
-##### Moratorium: order of priority of payment of debts[^key-e8bc5a7ff524a79f0bac7cf527c05bd2]
+##### Moratorium: order of priority of payment of debts[^c-e8bc5a7ff524a79f0bac7cf527c05bd2]
 
 - [Section 148A — Moratorium debts etc: priority](part-v/section-148a.md)
 
@@ -496,7 +496,7 @@ The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361]
 - [Section 149 — Preferential debts (general provision)](part-v/section-149.md)
 - [Section 150 — Preferential charge on goods distrained , etc](part-v/section-150.md)
 
-##### Non-preferential debts[^key-bb9fb58d836adc1239e01597b18d2641]
+##### Non-preferential debts[^c-bb9fb58d836adc1239e01597b18d2641]
 
 - [Section 150ZZA — Non-preferential debts of financial institutions](part-v/section-150zza.md)
 
@@ -538,7 +538,7 @@ The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361]
 - [Section 168 — Consequence of notice under Article 167](part-v/section-168.md)
 - [Section 169 — Dissolution otherwise than under Article 167](part-v/section-169.md)
 
-#### CHAPTER X — MALPRACTICE BEFORE AND DURING LIQUIDATION; PENALISATION OF COMPANIES AND COMPANY OFFICERS; INVESTIGATIONS AND PROSECUTIONS[^c20959731][^key-5382c63d9681977c1c8e6a38bc2e3841]
+#### CHAPTER X — MALPRACTICE BEFORE AND DURING LIQUIDATION; PENALISATION OF COMPANIES AND COMPANY OFFICERS; INVESTIGATIONS AND PROSECUTIONS[^c20959731][^c-5382c63d9681977c1c8e6a38bc2e3841]
 
 ##### Offences of fraud, deception, etc.
 
@@ -576,7 +576,7 @@ The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361]
 - [Section 192 — Actions stayed on winding‐up order](part-vi/section-192.md)
 - [Section 193 — Provisions of this Part to be cumulative](part-vi/section-193.md)
 
-### PART VII — MISCELLANEOUS PROVISIONS APPLYING TO COMPANIES WHICH ARE INSOLVENT OR IN LIQUIDATION[^key-43539b73d2e399364626f99109ab86c1][^key-1b5e7aca9904db1d556a5c160bb3ce5d][^key-a2bf2f68007bbdce65c2dcc9f41f17cf]
+### PART VII — MISCELLANEOUS PROVISIONS APPLYING TO COMPANIES WHICH ARE INSOLVENT OR IN LIQUIDATION[^c-43539b73d2e399364626f99109ab86c1][^c-1b5e7aca9904db1d556a5c160bb3ce5d][^c-a2bf2f68007bbdce65c2dcc9f41f17cf]
 
 #### Office‐holders
 
@@ -930,13 +930,13 @@ The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361]
 - [Section 344 — Time‐limits](part-x/section-344.md)
 - [Section 345 — Formal defects](part-x/section-345.md)
 
-### PART XI — PREFERENTIAL AND NON-PREFERENTIAL DEBTS IN COMPANY AND INDIVIDUAL INSOLVENCY[^key-659e09e94b9c1ba667dbdc9c598be647][^key-56c9580d26d64abb482c7f8fc19b99ad][^key-f5f9b84069fcb3866ddcd40986d29712]
+### PART XI — PREFERENTIAL AND NON-PREFERENTIAL DEBTS IN COMPANY AND INDIVIDUAL INSOLVENCY[^c-659e09e94b9c1ba667dbdc9c598be647][^c-56c9580d26d64abb482c7f8fc19b99ad][^c-f5f9b84069fcb3866ddcd40986d29712]
 
 - [Section 346 — Categories of preferential debts](part-xi/section-346.md)
 - [Section 347 — “The relevant date”](part-xi/section-347.md)
 - [Section 347A — Financial institutions and their non-preferential debts](part-xi/section-347a.md)
 
-### PART XII — INSOLVENCY PRACTITIONERS AND THEIR QUALIFICATION[^key-659e09e94b9c1ba667dbdc9c598be647][^key-56c9580d26d64abb482c7f8fc19b99ad]
+### PART XII — INSOLVENCY PRACTITIONERS AND THEIR QUALIFICATION[^c-659e09e94b9c1ba667dbdc9c598be647][^c-56c9580d26d64abb482c7f8fc19b99ad]
 
 #### Restrictions on unqualified persons acting as liquidator, trustee in bankruptcy, etc.
 
@@ -952,12 +952,12 @@ The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361]
 - [Section 350 — Recognised professional bodies](part-xii/section-350.md)
 - [Section 350A — Application for recognition as recognised professional body](part-xii/section-350a.md)
 
-#### Regulatory objectives[^key-c93e13b23ca11317fe5a600dc4d6e3a0]
+#### Regulatory objectives[^c-c93e13b23ca11317fe5a600dc4d6e3a0]
 
 - [Section 350B — Application of regulatory objectives](part-xii/section-350b.md)
 - [Section 350C — Meaning of “regulatory functions” and “regulatory objectives”](part-xii/section-350c.md)
 
-#### Oversight of recognised professional bodies[^key-f2b56ae160c27e1797afadd5ba8cd33e]
+#### Oversight of recognised professional bodies[^c-f2b56ae160c27e1797afadd5ba8cd33e]
 
 - [Section 350D — Directions](part-xii/section-350d.md)
 - [Section 350E — Directions: procedure](part-xii/section-350e.md)
@@ -968,20 +968,20 @@ The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361]
 - [Section 350J — Reprimand](part-xii/section-350j.md)
 - [Section 350K — Reprimand: procedure](part-xii/section-350k.md)
 
-#### Revocation etc. of recognition[^key-f56243520348fe022dd2798d8bcc37cb]
+#### Revocation etc. of recognition[^c-f56243520348fe022dd2798d8bcc37cb]
 
 - [Section 350L — Revocation of recognition at instigation of Department](part-xii/section-350l.md)
 - [Section 350M — Orders under Article 350L: procedure](part-xii/section-350m.md)
 - [Section 350N — Revocation of recognition at request of body](part-xii/section-350n.md)
 
-#### Court sanction of insolvency practitioners in public interest cases[^key-9b77f565f399330b0a497ece2dc3d60a]
+#### Court sanction of insolvency practitioners in public interest cases[^c-9b77f565f399330b0a497ece2dc3d60a]
 
 - [Section 350O — Direct sanction orders](part-xii/section-350o.md)
 - [Section 350P — Application for, and power to make, direct sanctions order](part-xii/section-350p.md)
 - [Section 350Q — Direct sanctions order: conditions](part-xii/section-350q.md)
 - [Section 350R — Direct sanctions direction instead of order](part-xii/section-350r.md)
 
-#### General[^key-23fd7127de01a8a496aaecf77b66fc3c]
+#### General[^c-23fd7127de01a8a496aaecf77b66fc3c]
 
 - [Section 350S — Power for Department to obtain information](part-xii/section-350s.md)
 - [Section 350T — Compliance orders](part-xii/section-350t.md)
@@ -990,7 +990,7 @@ The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361]
 - [Section 353 — Notices](part-xii/section-353.md)
 - [Section 354 — Right to make representations](part-xii/section-354.md)
 
-### PART XIII — PUBLIC ADMINISTRATION[^key-659e09e94b9c1ba667dbdc9c598be647][^key-56c9580d26d64abb482c7f8fc19b99ad]
+### PART XIII — PUBLIC ADMINISTRATION[^c-659e09e94b9c1ba667dbdc9c598be647][^c-56c9580d26d64abb482c7f8fc19b99ad]
 
 #### Official receivers
 
@@ -1029,7 +1029,7 @@ The Insolvency (Northern Ireland) Order 1989[^c20259311][^c20261371][^c20281361]
 - [Section 366 — Formerly authorised banks](part-xiii/section-366.md)
 - [Section 366A — Meaning of “relevant offence”](part-xiii/section-366a.md)
 
-### PART XIV — MISCELLANEOUS[^key-659e09e94b9c1ba667dbdc9c598be647][^key-56c9580d26d64abb482c7f8fc19b99ad]
+### PART XIV — MISCELLANEOUS[^c-659e09e94b9c1ba667dbdc9c598be647][^c-56c9580d26d64abb482c7f8fc19b99ad]
 
 #### Provisions against debt avoidance
 
@@ -1093,11 +1093,11 @@ SCHEDULES
 - [schedule-n15](schedule-n15.md)
 - [schedule-n16](schedule-n16.md)
 
-## Parts 1A to 7 — COMPANY INSOLVENCY; COMPANIES WINDING UP[^key-5382c63d9681977c1c8e6a38bc2e3841][^key-10515372ca83a13b2e748423c7177772][^key-3c41fb4dd6c28885b6e36bcd4e4ffeeb]
+## Parts 1A to 7 — COMPANY INSOLVENCY; COMPANIES WINDING UP[^c-5382c63d9681977c1c8e6a38bc2e3841][^c-10515372ca83a13b2e748423c7177772][^c-3c41fb4dd6c28885b6e36bcd4e4ffeeb]
 
 *Extent: N.I.*
 
-## . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-5382c63d9681977c1c8e6a38bc2e3841][^c17599291]
+## . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-5382c63d9681977c1c8e6a38bc2e3841][^c17599291]
 
 *Extent: N.I.*
 
@@ -1157,47 +1157,47 @@ SCHEDULES
 
 [^c21834541]: Modification: Order applied (with modifications) (1.10.2009) by [Industrial and Provident Societies Act (Northern Ireland) 1969 (c. 24)](https://www.legislation.gov.uk/apni/1969/24), [s. 64(1)(2)](https://www.legislation.gov.uk/apni/1969/24/section/64/1/2) (as substituted by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1), [8](https://www.legislation.gov.uk/uksi/2009/1941/article/8), [Sch. 1 para. 21(8)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/21/8) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10)))
 
-[^key-f08340dd4fc2f2d2f24a9fc268bfc196]: Modification: Order applied (with modifications) (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/8/2) (with [reg. 11](https://www.legislation.gov.uk/uksi/2015/1493/regulation/11))
+[^c-f08340dd4fc2f2d2f24a9fc268bfc196]: Modification: Order applied (with modifications) (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/8/2) (with [reg. 11](https://www.legislation.gov.uk/uksi/2015/1493/regulation/11))
 
-[^key-bae92670ae2f1627af1668be7131cc4f]: Modification: Order applied in part (with modifications) in part (7.4.2017) by [Building Societies Act 1986 (1986 c. 53)](https://www.legislation.gov.uk/ukpga/1986/53), [Sch. 15](https://www.legislation.gov.uk/ukpga/1986/53/schedule/15) (as amended by [S.I. 2017/400](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [2(3)(e)-(g)](https://www.legislation.gov.uk/uksi/2017/400/regulation/2/3/e))
+[^c-bae92670ae2f1627af1668be7131cc4f]: Modification: Order applied in part (with modifications) in part (7.4.2017) by [Building Societies Act 1986 (1986 c. 53)](https://www.legislation.gov.uk/ukpga/1986/53), [Sch. 15](https://www.legislation.gov.uk/ukpga/1986/53/schedule/15) (as amended by [S.I. 2017/400](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [2(3)(e)-(g)](https://www.legislation.gov.uk/uksi/2017/400/regulation/2/3/e))
 
-[^key-fe8858da259fcba80f0cab606a77a512]: Modification: Order applied in part (with modifications) (7.4.2017) by [Building Societies Act 1986 (1986 c. 53)](https://www.legislation.gov.uk/ukpga/1986/53), [Sch. 15A](https://www.legislation.gov.uk/ukpga/1986/53/schedule/15A) (as amended by [S.I. 2017/400](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [2(4)(e)(f)](https://www.legislation.gov.uk/uksi/2017/400/regulation/2/4/e/f))
+[^c-fe8858da259fcba80f0cab606a77a512]: Modification: Order applied in part (with modifications) (7.4.2017) by [Building Societies Act 1986 (1986 c. 53)](https://www.legislation.gov.uk/ukpga/1986/53), [Sch. 15A](https://www.legislation.gov.uk/ukpga/1986/53/schedule/15A) (as amended by [S.I. 2017/400](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [2(4)(e)(f)](https://www.legislation.gov.uk/uksi/2017/400/regulation/2/4/e/f))
 
-[^key-ca76afba4f5281d8677d34f0abf794b3]: Modification: Order applied in part (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24)) (as amended (7.4.2017) [S.I. 2017/400](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2017/400/regulation/11/3))
+[^c-ca76afba4f5281d8677d34f0abf794b3]: Modification: Order applied in part (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24)) (as amended (7.4.2017) [S.I. 2017/400](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2017/400/regulation/11/3))
 
-[^key-aecd70ae58841b34e5eb5a287239e2ce]: Modification: Order modified (3.10.2017) by [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40), [Sch. 10 paras. 66A](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/66A), [66B](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/66B) (as inserted by [The Friendly Societies Act 1992 (Modification of Part 2) (Northern Ireland) Order 2017 (S.I. 2017/906)](https://www.legislation.gov.uk/uksi/2017/906), [arts. 1](https://www.legislation.gov.uk/uksi/2017/906/article/1), [2](https://www.legislation.gov.uk/uksi/2017/906/article/2))
+[^c-aecd70ae58841b34e5eb5a287239e2ce]: Modification: Order modified (3.10.2017) by [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40), [Sch. 10 paras. 66A](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/66A), [66B](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/66B) (as inserted by [The Friendly Societies Act 1992 (Modification of Part 2) (Northern Ireland) Order 2017 (S.I. 2017/906)](https://www.legislation.gov.uk/uksi/2017/906), [arts. 1](https://www.legislation.gov.uk/uksi/2017/906/article/1), [2](https://www.legislation.gov.uk/uksi/2017/906/article/2))
 
-[^key-03402b3ae7c2177a48e61715f0b547dc]: Modification: Order modified by [S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150), [art. 25C(4)(f)](https://www.legislation.gov.uk/nisi/2002/3150/article/25C/4/f) (as inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/5) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189)))
+[^c-03402b3ae7c2177a48e61715f0b547dc]: Modification: Order modified by [S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150), [art. 25C(4)(f)](https://www.legislation.gov.uk/nisi/2002/3150/article/25C/4/f) (as inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/5) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189)))
 
-[^key-38aad4f138d45d7e070fa185d7480100]: Modification: Order applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [166(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/166/2), [167(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/167/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1212/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1212/schedule/3) (with [regs. 168](https://www.legislation.gov.uk/uksi/2017/1212/regulation/168), [189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-38aad4f138d45d7e070fa185d7480100]: Modification: Order applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [166(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/166/2), [167(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/167/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1212/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1212/schedule/3) (with [regs. 168](https://www.legislation.gov.uk/uksi/2017/1212/regulation/168), [189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
 
 [^M_C_f7de3be1-5e09-4ba7-c3c0-79a3aa136d77]: Modification: Order applied (with modifications) (8.2.2011) by [Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [regs. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [8(7)](https://www.legislation.gov.uk/uksi/2011/245/regulation/8/7), [9](https://www.legislation.gov.uk/uksi/2011/245/regulation/9), [15](https://www.legislation.gov.uk/uksi/2011/245/regulation/15), [16-21](https://www.legislation.gov.uk/uksi/2011/245/regulation/16), [24-26](https://www.legislation.gov.uk/uksi/2011/245/regulation/24), [Schs. 1-5](https://www.legislation.gov.uk/uksi/2011/245/schedule/1) (as amended (7.4.2017) by [S.I. 2017/400](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [10(8)](https://www.legislation.gov.uk/uksi/2017/400/regulation/10/8); (19.12.2018) by [S.I. 2018/1244](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [46](https://www.legislation.gov.uk/uksi/2018/1244/article/46) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3)))
 
-[^key-c7b8d1ed801b1ad3bd27efbf71a1b0a4]: Modification: Order applied in part (with modifications) (26.6.2020) by [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/part/3) (as amended by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2020/12/schedule/13/paragraph/4) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [18(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/18/4)))
+[^c-c7b8d1ed801b1ad3bd27efbf71a1b0a4]: Modification: Order applied in part (with modifications) (26.6.2020) by [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/part/3) (as amended by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2020/12/schedule/13/paragraph/4) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [18(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/18/4)))
 
-[^key-3422707f3a9eed85609dddb655bfa1e9]: Modification: Order applied in part (with modifications) (26.6.2020) by [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53), [Sch. 15 Pt. 3](https://www.legislation.gov.uk/ukpga/1986/53/schedule/15/part/3) (as amended by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2020/12/schedule/13/paragraph/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [18(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/18/4)))
+[^c-3422707f3a9eed85609dddb655bfa1e9]: Modification: Order applied in part (with modifications) (26.6.2020) by [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53), [Sch. 15 Pt. 3](https://www.legislation.gov.uk/ukpga/1986/53/schedule/15/part/3) (as amended by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2020/12/schedule/13/paragraph/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [18(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/18/4)))
 
-[^key-360515784acd165227dbb9db5dbf8c95]: Modification: Order applied in part (with modifications) (26.6.2020) by [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53), [Sch. 15A Pt. 3](https://www.legislation.gov.uk/ukpga/1986/53/schedule/15A/part/3) (as amended by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2020/12/schedule/13/paragraph/3) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [18(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/18/4)))
+[^c-360515784acd165227dbb9db5dbf8c95]: Modification: Order applied in part (with modifications) (26.6.2020) by [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53), [Sch. 15A Pt. 3](https://www.legislation.gov.uk/ukpga/1986/53/schedule/15A/part/3) (as amended by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2020/12/schedule/13/paragraph/3) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [18(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/18/4)))
 
-[^key-5874800473dbfca3c142f2b39eb423de]: Modification: Order modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 85](https://www.legislation.gov.uk/ukpga/2022/3/section/85)
+[^c-5874800473dbfca3c142f2b39eb423de]: Modification: Order modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 85](https://www.legislation.gov.uk/ukpga/2022/3/section/85)
 
-[^key-b84bf7e32ddc66f2fb969a8631ae0679]: Modification: Order power to apply (with modifications) conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 165](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/165); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(xiv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/xiv)
+[^c-b84bf7e32ddc66f2fb969a8631ae0679]: Modification: Order power to apply (with modifications) conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 165](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/165); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(xiv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/xiv)
 
-[^key-713e58f8b633387773a951356b6325ca]: Modification: Order applied in part (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 2A para. 6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2A/paragraph/6) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1399/schedule/2))
+[^c-713e58f8b633387773a951356b6325ca]: Modification: Order applied in part (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 2A para. 6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2A/paragraph/6) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1399/schedule/2))
 
-[^key-34a1c762969361308260559c4646c000]: Modification: [Order](https://www.legislation.gov.uk/nisi/1989/2405) modified (2.3.2026) by [The Payment and Electronic Money Institution Insolvency (Northern Ireland) Rules 2026 (S.R. 2026/11)](https://www.legislation.gov.uk/nisr/2026/11), [rules 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1), [293](https://www.legislation.gov.uk/nisr/2026/11/rule/293)
+[^c-34a1c762969361308260559c4646c000]: Modification: [Order](https://www.legislation.gov.uk/nisi/1989/2405) modified (2.3.2026) by [The Payment and Electronic Money Institution Insolvency (Northern Ireland) Rules 2026 (S.R. 2026/11)](https://www.legislation.gov.uk/nisr/2026/11), [rules 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1), [293](https://www.legislation.gov.uk/nisr/2026/11/rule/293)
 
-[^key-de54c114abc6f143f960a9155b66737c]: Modification: [Pts. 1-5](https://www.legislation.gov.uk/nisi/1989/2405/part/I) modified by [S.R. 2004/307](https://www.legislation.gov.uk/nisr/2004/307) (as amended (1.10.2006) by [Limited Liability Partnerships (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/377)](https://www.legislation.gov.uk/nisr/2006/377), [reg. 3](https://www.legislation.gov.uk/nisr/2006/377/regulation/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2006/377/schedule/2); (temp.) (27.4.2020 retrospective) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [Sch. 11 para. 8(1)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/2), [14](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/14) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2)); (26.6.2020) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2020 (S.I. 2020/643)](https://www.legislation.gov.uk/uksi/2020/643), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/643/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/643/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/643/regulation/3)); (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/60/schedule/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2)))
+[^c-de54c114abc6f143f960a9155b66737c]: Modification: [Pts. 1-5](https://www.legislation.gov.uk/nisi/1989/2405/part/I) modified by [S.R. 2004/307](https://www.legislation.gov.uk/nisr/2004/307) (as amended (1.10.2006) by [Limited Liability Partnerships (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/377)](https://www.legislation.gov.uk/nisr/2006/377), [reg. 3](https://www.legislation.gov.uk/nisr/2006/377/regulation/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2006/377/schedule/2); (temp.) (27.4.2020 retrospective) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [Sch. 11 para. 8(1)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/2), [14](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/14) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2)); (26.6.2020) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2020 (S.I. 2020/643)](https://www.legislation.gov.uk/uksi/2020/643), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/643/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/643/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/643/regulation/3)); (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/60/schedule/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2)))
 
-[^key-5382c63d9681977c1c8e6a38bc2e3841]: Modification: [Pts. 1-5](https://www.legislation.gov.uk/nisi/1989/2405/part/1) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
+[^c-5382c63d9681977c1c8e6a38bc2e3841]: Modification: [Pts. 1-5](https://www.legislation.gov.uk/nisi/1989/2405/part/1) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
 
-[^key-745948419751b1cb1154b740709a91c6]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/nisi/1989/2405/part/I/crossheading/interpretation-for-parts-ii-to-vii) cross-heading substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-745948419751b1cb1154b740709a91c6]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/nisi/1989/2405/part/I/crossheading/interpretation-for-parts-ii-to-vii) cross-heading substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
 [^c22529741]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/nisi/1989/2405/article/9) cross-heading substituted (30.6.2011) by [Debt Relief Act (Northern Ireland) 2010 (c. 16)](https://www.legislation.gov.uk/nia/2010/16), [ss. 6](https://www.legislation.gov.uk/nia/2010/16/section/6), [7(1)](https://www.legislation.gov.uk/nia/2010/16/section/7/1), [Sch. para. 4(3)](https://www.legislation.gov.uk/nia/2010/16/schedule/paragraph/4/3); [S.R. 2011/13](https://www.legislation.gov.uk/nisr/2011/13), [art. 2](https://www.legislation.gov.uk/nisr/2011/13/article/2)
 
 [^c21819971]: Textual amendment: Words in the heading preceding art. 12 omitted (1.10.2009) by virtue of [Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1), [8](https://www.legislation.gov.uk/uksi/2009/1941/article/8), [Sch. 1 para. 106(7)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/106/7) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-1531dc9ea9123ea203c78422d93482c3]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/nisi/1989/2405/part/1A) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/4/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-1531dc9ea9123ea203c78422d93482c3]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/nisi/1989/2405/part/1A) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/4/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
 [^c21120231]: Modification: Pts. II, III applied (with modifications) (14.11.2008) by [Insolvency (Company Arrangement or Administration Provisions for an Industrial and Provident Society) Order (Northern Ireland) 2008 (S.R. 2008/445)](https://www.legislation.gov.uk/nisr/2008/445), [art. 2](https://www.legislation.gov.uk/nisr/2008/445/article/2)
 
@@ -1205,11 +1205,11 @@ SCHEDULES
 
 [^M_C_3e50bffb-09c0-454f-9b16-d3c87ce3a38e]: Modification: Pt. 2 modified by [S.R. 1995/225](https://www.legislation.gov.uk/nisr/1995/225), [Sch. 1](https://www.legislation.gov.uk/nisr/1995/225/schedule/1) (as amended (1.1.2015) by [The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486)](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [24](https://www.legislation.gov.uk/uksi/2014/3486/article/24) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3)))
 
-[^key-2494013afd895484ce38470bc7a7d894]: Modification: Pts. II, III and IV applied (with modifications) by [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53), [Sch. 15A](https://www.legislation.gov.uk/ukpga/1986/53/schedule/15A), [Pt. III](https://www.legislation.gov.uk/ukpga/1986/53/part/III) (as inserted (1.12.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 39(2)](https://www.legislation.gov.uk/ukpga/1997/32/section/39/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/1997/32/schedule/6)); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/I) (as amended (with application in accordance with art. 1(4) of the amending S.I.) by [The Building Societies (Floating Charges and Other Provisions) Order 2016 (S.I. 2016/679)](https://www.legislation.gov.uk/uksi/2016/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2016/679/article/4/4))
+[^c-2494013afd895484ce38470bc7a7d894]: Modification: Pts. II, III and IV applied (with modifications) by [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53), [Sch. 15A](https://www.legislation.gov.uk/ukpga/1986/53/schedule/15A), [Pt. III](https://www.legislation.gov.uk/ukpga/1986/53/part/III) (as inserted (1.12.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 39(2)](https://www.legislation.gov.uk/ukpga/1997/32/section/39/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/1997/32/schedule/6)); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/I) (as amended (with application in accordance with art. 1(4) of the amending S.I.) by [The Building Societies (Floating Charges and Other Provisions) Order 2016 (S.I. 2016/679)](https://www.legislation.gov.uk/uksi/2016/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2016/679/article/4/4))
 
 [^M_C_73849350-b2f6-4641-d407-36672984d296]: Modification: [Pt. 2](https://www.legislation.gov.uk/nisi/1989/2405/part/2) modified by S.R. 1995/225, art. 4, Sch. 1 (as modified (28.12.2020 until IP completion day when the amending provision ceases to have effect in accordance with reg. 1(4) of the amending S.I.) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/4), [122(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/122/2) (with [reg. 108](https://www.legislation.gov.uk/uksi/2020/1350/regulation/108)))
 
-[^key-10515372ca83a13b2e748423c7177772]: Modification: [Pt. 2](https://www.legislation.gov.uk/nisi/1989/2405/part/2) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 44](https://www.legislation.gov.uk/uksi/2021/716/regulation/44) (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2023/1399/regulation/18))
+[^c-10515372ca83a13b2e748423c7177772]: Modification: [Pt. 2](https://www.legislation.gov.uk/nisi/1989/2405/part/2) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 44](https://www.legislation.gov.uk/uksi/2021/716/regulation/44) (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2023/1399/regulation/18))
 
 [^c21113391]: Modification: Pt. III (art. 21) (as it has effect by virtue of [S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455), [art. 4(1)](https://www.legislation.gov.uk/nisi/2005/1455/article/4/1) or [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [art. 2(3)(4)](https://www.legislation.gov.uk/nisr/2006/22/article/2/3/4)) amended (6.4.2008) by [Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2008/948/article/3/1/b), [Sch. 1 para. 167](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/167) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
@@ -1217,7 +1217,7 @@ SCHEDULES
 
 [^M_C_b153eb69-a378-4841-aedb-f83186b54766]: Modification: Pt. III modified (6.4.2007) by [S.I. 2007/846](https://www.legislation.gov.uk/uksi/2007/846), [art. 2](https://www.legislation.gov.uk/uksi/2007/846/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/846/schedule) (as amended (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 2](https://www.legislation.gov.uk/uksi/2013/472/article/2), [Sch. 2 para. 127(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/127/b))
 
-[^key-c7d9cc435659883e75869c8a173000f8]: Modification: [Pt. 3](https://www.legislation.gov.uk/nisi/1989/2405/part/3): power to apply (with modifications) conferred (20.7.2001) by [Financial Services and Markets Act 2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8), [s. 360](https://www.legislation.gov.uk/ukpga/2000/8/section/360) (as amended (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e), [Sch. 12 para. 1(2)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/1/2)); [S.I. 2001/2632](https://www.legislation.gov.uk/uksi/2001/2632), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/2632/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2001/2632/schedule/part/1)
+[^c-c7d9cc435659883e75869c8a173000f8]: Modification: [Pt. 3](https://www.legislation.gov.uk/nisi/1989/2405/part/3): power to apply (with modifications) conferred (20.7.2001) by [Financial Services and Markets Act 2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8), [s. 360](https://www.legislation.gov.uk/ukpga/2000/8/section/360) (as amended (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e), [Sch. 12 para. 1(2)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/1/2)); [S.I. 2001/2632](https://www.legislation.gov.uk/uksi/2001/2632), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/2632/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2001/2632/schedule/part/1)
 
 [^c20167111]: Textual amendment: Pt. III (art. 21) substituted (27.3.2006) for Pt. III (arts. 21 - 39) by [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](https://www.legislation.gov.uk/nisi/2005/1455), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [3(1)](https://www.legislation.gov.uk/nisi/2005/1455/article/3/1) (with [art. 4](https://www.legislation.gov.uk/nisi/2005/1455/article/4)); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2](https://www.legislation.gov.uk/nisr/2006/22/article/2) - [7](https://www.legislation.gov.uk/nisr/2006/22/article/7)); specified substituted provisions amended ([1](https://www.legislation.gov.uk/nisr/2006/22/article/1).[10](https://www.legislation.gov.uk/nisr/2006/22/article/10).[2009](https://www.legislation.gov.uk/nisr/2006/22/article/2009)) by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1), [8](https://www.legislation.gov.uk/uksi/2009/1941/article/8), [Sch. 1 para. 109](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/109) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10)); and by [S.I. 2009/1972](https://www.legislation.gov.uk/uksi/2009/1972), [regs. 4(d)(iii)](https://www.legislation.gov.uk/uksi/2009/1972/regulation/4/d/iii), [7(b)](https://www.legislation.gov.uk/uksi/2009/1972/regulation/7/b); specified substituted provision amended (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 10(2)](https://www.legislation.gov.uk/nia/2016/2/section/10/2), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
@@ -1231,17 +1231,17 @@ SCHEDULES
 
 [^c20106941]: Textual amendment: Arts. 59A - 59J and preceding cross - heading inserted (27.3.2006) by [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](https://www.legislation.gov.uk/nisi/2005/1455), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [5(1)](https://www.legislation.gov.uk/nisi/2005/1455/article/5/1) (with [art. 4](https://www.legislation.gov.uk/nisi/2005/1455/article/4)); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (with [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2](https://www.legislation.gov.uk/nisr/2006/22/article/2) - 7)
 
-[^key-4961707ccadaf60f9fa84dd13df05463]: Modification: [Pt. V](https://www.legislation.gov.uk/nisi/1989/2405/part/V) modified (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 13](https://www.legislation.gov.uk/ukpga/2020/12/section/13), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-4961707ccadaf60f9fa84dd13df05463]: Modification: [Pt. V](https://www.legislation.gov.uk/nisi/1989/2405/part/V) modified (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 13](https://www.legislation.gov.uk/ukpga/2020/12/section/13), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
 [^c21826671]: Textual amendment: Words in [Pt. V](https://www.legislation.gov.uk/nisi/1989/2405/part/V) heading substituted (1.10.2009) by [Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1), [8](https://www.legislation.gov.uk/uksi/2009/1941/article/8), [Sch. 1 para. 111(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/111/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c21826141]: Textual amendment: [Art. 60](https://www.legislation.gov.uk/nisi/1989/2405/article/60) and preceding cross heading substituted (1.10.2009) by [Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1), [8](https://www.legislation.gov.uk/uksi/2009/1941/article/8), [Sch. 1 para. 111(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/111/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-83aaeb566a8bfe3e7373d500f3f649d0]: Modification: [Pt. V Ch. III](https://www.legislation.gov.uk/nisi/1989/2405/part/V/chapter/III) applied (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [169(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/169/2) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-83aaeb566a8bfe3e7373d500f3f649d0]: Modification: [Pt. V Ch. III](https://www.legislation.gov.uk/nisi/1989/2405/part/V/chapter/III) applied (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [169(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/169/2) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
 
-[^key-e8bc5a7ff524a79f0bac7cf527c05bd2]: Textual amendment: [Art. 148A](https://www.legislation.gov.uk/nisi/1989/2405/article/148A) and cross-heading inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/17) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-e8bc5a7ff524a79f0bac7cf527c05bd2]: Textual amendment: [Art. 148A](https://www.legislation.gov.uk/nisi/1989/2405/article/148A) and cross-heading inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/17) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-bb9fb58d836adc1239e01597b18d2641]: Textual amendment: [Art. 150ZZA](https://www.legislation.gov.uk/nisi/1989/2405/article/150ZZA) and cross-heading inserted (19.12.2018) by [The Banks and Building Societies (Priorities on Insolvency) Order 2018 (S.I. 2018/1244)](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [24](https://www.legislation.gov.uk/uksi/2018/1244/article/24) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))
+[^c-bb9fb58d836adc1239e01597b18d2641]: Textual amendment: [Art. 150ZZA](https://www.legislation.gov.uk/nisi/1989/2405/article/150ZZA) and cross-heading inserted (19.12.2018) by [The Banks and Building Societies (Priorities on Insolvency) Order 2018 (S.I. 2018/1244)](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [24](https://www.legislation.gov.uk/uksi/2018/1244/article/24) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))
 
 [^c20115361]: Textual amendment: [Art. 150A](https://www.legislation.gov.uk/nisi/1989/2405/article/150A) and preceding cross - heading inserted (27.3.2006) by [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](https://www.legislation.gov.uk/nisi/2005/1455), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [7(1)](https://www.legislation.gov.uk/nisi/2005/1455/article/7/1) (with [art. 4](https://www.legislation.gov.uk/nisi/2005/1455/article/4)); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (with [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2](https://www.legislation.gov.uk/nisr/2006/22/article/2)-7)
 
@@ -1249,11 +1249,11 @@ SCHEDULES
 
 [^c21834851]: Modification: [Pt. VI](https://www.legislation.gov.uk/nisi/1989/2405/part/VI) (arts. 184-193) applied (with modifications) by [European Economic Interest Grouping Regulations 1989 (S.I. 1989/638)](https://www.legislation.gov.uk/uksi/1989/638), [reg. 8(1A)](https://www.legislation.gov.uk/uksi/1989/638/regulation/8/1A) (as inserted (1.10.2009) by [European Economic Interest Grouping (Amendment) Regulations 2009 (S.I. 2009/2399)](https://www.legislation.gov.uk/uksi/2009/2399), [reg. 11](https://www.legislation.gov.uk/uksi/2009/2399/regulation/11) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/2399/regulation/2)))
 
-[^key-43539b73d2e399364626f99109ab86c1]: Modification: [Pt. 7](https://www.legislation.gov.uk/nisi/1989/2405/part/7) modified (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 19](https://www.legislation.gov.uk/ukpga/2020/12/section/19), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-43539b73d2e399364626f99109ab86c1]: Modification: [Pt. 7](https://www.legislation.gov.uk/nisi/1989/2405/part/7) modified (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 19](https://www.legislation.gov.uk/ukpga/2020/12/section/19), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-1b5e7aca9904db1d556a5c160bb3ce5d]: Modification: [Pt. 7](https://www.legislation.gov.uk/nisi/1989/2405/part/VII) modified by [S.R. 2004/307](https://www.legislation.gov.uk/nisr/2004/307) (as amended (1.10.2006) by [Limited Liability Partnerships (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/377)](https://www.legislation.gov.uk/nisr/2006/377), [reg. 3](https://www.legislation.gov.uk/nisr/2006/377/regulation/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2006/377/schedule/2); (temp.) (27.4.2020 retrospective) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [Sch. 11 para. 8(1)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/2), [14](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/14) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2)); (26.6.2020) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2020 (S.I. 2020/643)](https://www.legislation.gov.uk/uksi/2020/643), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/643/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/643/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/643/regulation/3)); (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/60/schedule/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2)))
+[^c-1b5e7aca9904db1d556a5c160bb3ce5d]: Modification: [Pt. 7](https://www.legislation.gov.uk/nisi/1989/2405/part/VII) modified by [S.R. 2004/307](https://www.legislation.gov.uk/nisr/2004/307) (as amended (1.10.2006) by [Limited Liability Partnerships (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/377)](https://www.legislation.gov.uk/nisr/2006/377), [reg. 3](https://www.legislation.gov.uk/nisr/2006/377/regulation/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2006/377/schedule/2); (temp.) (27.4.2020 retrospective) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [Sch. 11 para. 8(1)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/2), [14](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/14) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2)); (26.6.2020) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2020 (S.I. 2020/643)](https://www.legislation.gov.uk/uksi/2020/643), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/643/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/643/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/643/regulation/3)); (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/60/schedule/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2)))
 
-[^key-a2bf2f68007bbdce65c2dcc9f41f17cf]: Modification: [Pt. 7](https://www.legislation.gov.uk/nisi/1989/2405/part/7) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
+[^c-a2bf2f68007bbdce65c2dcc9f41f17cf]: Modification: [Pt. 7](https://www.legislation.gov.uk/nisi/1989/2405/part/7) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
 
 [^c22531021]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/nisi/1989/2405/part/7A) (arts. 208A-208X) inserted (30.6.2011) by [Debt Relief Act (Northern Ireland) 2010 (c. 16)](https://www.legislation.gov.uk/nia/2010/16), [ss. 1(b)](https://www.legislation.gov.uk/nia/2010/16/section/1/b), [7(1)](https://www.legislation.gov.uk/nia/2010/16/section/7/1); [S.R. 2011/13](https://www.legislation.gov.uk/nisr/2011/13), [art. 2](https://www.legislation.gov.uk/nisr/2011/13/article/2)
 
@@ -1269,25 +1269,25 @@ SCHEDULES
 
 [^c20457651]: Modification: [Pts. VIII-X](https://www.legislation.gov.uk/nisi/1989/2405/part/VIII) (arts. 209-345) modified by [Foyle Fisheries Act (Northern Ireland) 1952 (c. 5)](https://www.legislation.gov.uk/apni/1952/5), [s. 52K(2)](https://www.legislation.gov.uk/apni/1952/5/section/52K/2) (as inserted (prosp.) by [Foyle and Carlingford Fisheries (Northern Ireland) Order 2007 (S.I. 2007/915 (N.I. 9))](https://www.legislation.gov.uk/nisi/2007/915), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/915/article/1/3), [3(1)](https://www.legislation.gov.uk/nisi/2007/915/article/3/1) (with [art. 32](https://www.legislation.gov.uk/nisi/2007/915/article/32)))
 
-[^key-659e09e94b9c1ba667dbdc9c598be647]: Modification: [Pts. 11-14](https://www.legislation.gov.uk/nisi/1989/2405/part/XI) modified by [S.R. 2004/307](https://www.legislation.gov.uk/nisr/2004/307) (as amended (1.10.2006) by [Limited Liability Partnerships (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/377)](https://www.legislation.gov.uk/nisr/2006/377), [reg. 3](https://www.legislation.gov.uk/nisr/2006/377/regulation/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2006/377/schedule/2); (temp.) (27.4.2020 retrospective) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [Sch. 11 para. 8(1)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/2), [14](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/14) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2)); (26.6.2020) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2020 (S.I. 2020/643)](https://www.legislation.gov.uk/uksi/2020/643), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/643/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/643/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/643/regulation/3)); (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/60/schedule/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2)))
+[^c-659e09e94b9c1ba667dbdc9c598be647]: Modification: [Pts. 11-14](https://www.legislation.gov.uk/nisi/1989/2405/part/XI) modified by [S.R. 2004/307](https://www.legislation.gov.uk/nisr/2004/307) (as amended (1.10.2006) by [Limited Liability Partnerships (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/377)](https://www.legislation.gov.uk/nisr/2006/377), [reg. 3](https://www.legislation.gov.uk/nisr/2006/377/regulation/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2006/377/schedule/2); (temp.) (27.4.2020 retrospective) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [Sch. 11 para. 8(1)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/2), [14](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/14) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2)); (26.6.2020) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2020 (S.I. 2020/643)](https://www.legislation.gov.uk/uksi/2020/643), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/643/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/643/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/643/regulation/3)); (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/60/schedule/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2)))
 
-[^key-56c9580d26d64abb482c7f8fc19b99ad]: Modification: [Pts. 11-14](https://www.legislation.gov.uk/nisi/1989/2405/part/11) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
+[^c-56c9580d26d64abb482c7f8fc19b99ad]: Modification: [Pts. 11-14](https://www.legislation.gov.uk/nisi/1989/2405/part/11) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
 
-[^key-f5f9b84069fcb3866ddcd40986d29712]: Textual amendment: Words in [Pt. 11](https://www.legislation.gov.uk/nisi/1989/2405/part/11) heading inserted (19.12.2018) by [The Banks and Building Societies (Priorities on Insolvency) Order 2018 (S.I. 2018/1244)](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [28](https://www.legislation.gov.uk/uksi/2018/1244/article/28) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))
+[^c-f5f9b84069fcb3866ddcd40986d29712]: Textual amendment: Words in [Pt. 11](https://www.legislation.gov.uk/nisi/1989/2405/part/11) heading inserted (19.12.2018) by [The Banks and Building Societies (Priorities on Insolvency) Order 2018 (S.I. 2018/1244)](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [28](https://www.legislation.gov.uk/uksi/2018/1244/article/28) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))
 
-[^key-c93e13b23ca11317fe5a600dc4d6e3a0]: Textual amendment: [Arts. 350B-350C](https://www.legislation.gov.uk/nisi/1989/2405/article/350B) and cross-heading inserted (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 15(1)](https://www.legislation.gov.uk/nia/2016/2/section/15/1), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-c93e13b23ca11317fe5a600dc4d6e3a0]: Textual amendment: [Arts. 350B-350C](https://www.legislation.gov.uk/nisi/1989/2405/article/350B) and cross-heading inserted (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 15(1)](https://www.legislation.gov.uk/nia/2016/2/section/15/1), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
-[^key-f2b56ae160c27e1797afadd5ba8cd33e]: Textual amendment: [Arts. 350D-350K](https://www.legislation.gov.uk/nisi/1989/2405/article/350D) and cross-heading inserted (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 16(1)](https://www.legislation.gov.uk/nia/2016/2/section/16/1), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-f2b56ae160c27e1797afadd5ba8cd33e]: Textual amendment: [Arts. 350D-350K](https://www.legislation.gov.uk/nisi/1989/2405/article/350D) and cross-heading inserted (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 16(1)](https://www.legislation.gov.uk/nia/2016/2/section/16/1), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
-[^key-f56243520348fe022dd2798d8bcc37cb]: Textual amendment: [Arts. 350L-350N](https://www.legislation.gov.uk/nisi/1989/2405/article/350L) and cross-heading inserted (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 17(1)](https://www.legislation.gov.uk/nia/2016/2/section/17/1), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-f56243520348fe022dd2798d8bcc37cb]: Textual amendment: [Arts. 350L-350N](https://www.legislation.gov.uk/nisi/1989/2405/article/350L) and cross-heading inserted (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 17(1)](https://www.legislation.gov.uk/nia/2016/2/section/17/1), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
-[^key-9b77f565f399330b0a497ece2dc3d60a]: Textual amendment: [Arts. 350O-350R](https://www.legislation.gov.uk/nisi/1989/2405/article/350O) and cross-heading inserted (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 18](https://www.legislation.gov.uk/nia/2016/2/section/18), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/203/article/3))
+[^c-9b77f565f399330b0a497ece2dc3d60a]: Textual amendment: [Arts. 350O-350R](https://www.legislation.gov.uk/nisi/1989/2405/article/350O) and cross-heading inserted (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 18](https://www.legislation.gov.uk/nia/2016/2/section/18), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/203/article/3))
 
-[^key-23fd7127de01a8a496aaecf77b66fc3c]: Textual amendment: [Art. 350S](https://www.legislation.gov.uk/nisi/1989/2405/article/350S) and cross-heading inserted (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 19](https://www.legislation.gov.uk/nia/2016/2/section/19), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-23fd7127de01a8a496aaecf77b66fc3c]: Textual amendment: [Art. 350S](https://www.legislation.gov.uk/nisi/1989/2405/article/350S) and cross-heading inserted (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 19](https://www.legislation.gov.uk/nia/2016/2/section/19), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
 [^c21113501]: Textual amendment: [Pt. 15](https://www.legislation.gov.uk/nisi/1989/2405/part/15) (arts. 383-385) inserted (6.4.2008) by [Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2008/948/article/3/1/b), [Sch. 1 para. 171](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/171) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-3c41fb4dd6c28885b6e36bcd4e4ffeeb]: Textual amendment: Words in [Pts. 2-7](https://www.legislation.gov.uk/nisi/1989/2405/part/2) heading substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-3c41fb4dd6c28885b6e36bcd4e4ffeeb]: Textual amendment: Words in [Pts. 2-7](https://www.legislation.gov.uk/nisi/1989/2405/part/2) heading substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
 [^c17599291]: Textual amendment: mod. by SR 2004/307
 

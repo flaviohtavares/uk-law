@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Consent to regulations under Part 5[^key-fc9abf35857a4af98ef63bcec34b3a50]
+## 115. Consent to regulations under Part 5[^c-fc9abf35857a4af98ef63bcec34b3a50]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ Before making regulations under this Part the Secretary of State must obtain the
 
 ## Annotations
 
-[^key-fc9abf35857a4af98ef63bcec34b3a50]: Commencement: S. 115 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-fc9abf35857a4af98ef63bcec34b3a50]: Commencement: S. 115 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

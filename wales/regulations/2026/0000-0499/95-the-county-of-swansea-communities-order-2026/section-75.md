@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W*
 
-**75.**[^key-9129e3b9558704c4d9d30f853d18323d] The part of the Killay North ward of the community of Killay shown shaded on Map 31—
+**75.**[^c-9129e3b9558704c4d9d30f853d18323d] The part of the Killay North ward of the community of Killay shown shaded on Map 31—
 
 - (a) is transferred to the community of Dunvant;
 - (b) forms part of the electoral ward of Dunvant and Killay.
 
 ## Annotations
 
-[^key-9129e3b9558704c4d9d30f853d18323d]: Commencement: [Art. 75](https://www.legislation.gov.uk/wsi/2026/95/article/75) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-9129e3b9558704c4d9d30f853d18323d]: Commencement: [Art. 75](https://www.legislation.gov.uk/wsi/2026/95/article/75) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

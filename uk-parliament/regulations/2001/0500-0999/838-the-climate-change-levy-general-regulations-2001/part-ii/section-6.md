@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Payment[^key-c3e7d21e6c2048417e2a8d952933d708]
+## 6. Payment[^c-c3e7d21e6c2048417e2a8d952933d708]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3e7d21e6c2048417e2a8d952933d708]: Commencement: Reg. 6 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-c3e7d21e6c2048417e2a8d952933d708]: Commencement: Reg. 6 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

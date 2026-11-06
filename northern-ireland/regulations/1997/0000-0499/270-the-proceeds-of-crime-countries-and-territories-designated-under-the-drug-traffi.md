@@ -42,7 +42,7 @@ Coming into operation
 
 The Secretary of State, in pursuance of Article 42 of the Proceeds of Crime (Northern Ireland) Order 1996[^f00001], hereby makes the following Order:—
 
-## 1. Citation, commencement and interpretation[^key-cf58b6f85cfa2b503a450867491f8617]
+## 1. Citation, commencement and interpretation[^c-cf58b6f85cfa2b503a450867491f8617]
 
 (1) This Order may be cited as the Proceeds of Crime (Countries and Territories designated under the Drug Trafficking Act 1994) Order (Northern Ireland) 1997 and shall come into operation on 2nd July 1997.
 
@@ -55,13 +55,13 @@ The Secretary of State, in pursuance of Article 42 of the Proceeds of Crime (Nor
   - (b) where no authority is so specified, the authority appearing to the court to be the appropriate authority of that country for the purposes of this Order;
 - “a court of a designated country” includes a court of any state or territory of a designated country.
 
-## 2. Application of the Order to designated countries and territories[^key-692fecfeca12726cc1f76843f52fd2ec]
+## 2. Application of the Order to designated countries and territories[^c-692fecfeca12726cc1f76843f52fd2ec]
 
 (1) The Order shall apply, subject to paragraph (2), to each of the countries and territories specified in Schedule 1, being countries and territories designated under section 39 of the Drug Trafficking Act 1994.
 
 (2) In relation to a designated country, the Order shall apply, subject to the modifications specified in Schedule 2, to external confiscation orders and to proceedings which have been or are to be instituted in the designated country and may result in an external confiscation order being made there, and accordingly in relation to such orders and such proceedings, the Order shall have effect as set out in Schedule 3.
 
-## 3. Proof of orders and judgments of court of a designated country[^key-5fd25d761b3ed804fee630dc2664f371]
+## 3. Proof of orders and judgments of court of a designated country[^c-5fd25d761b3ed804fee630dc2664f371]
 
 (1) For the purposes of Articles 42 and 43 of the Order and of the other provisions of the Order as applied under Article 2(2)—
 
@@ -70,7 +70,7 @@ The Secretary of State, in pursuance of Article 42 of the Proceeds of Crime (Nor
 
 (2) A document purporting to be a copy of any order made or judgment given by a court of a designated country is duly authenticated for the purpose of paragraph (1)(*b*) if it purports to be certified by any person in his capacity as a judge, magistrate or officer of the court in question or by or on behalf of the appropriate authority of the designated country.
 
-## 4. Evidence in relation to proceedings and orders in a designated country[^key-028f31f7748e7dce7ccc8baab5286b47]
+## 4. Evidence in relation to proceedings and orders in a designated country[^c-028f31f7748e7dce7ccc8baab5286b47]
 
 (1) For the purposes of Articles 42 and 43 of the Order, and of the other provisions of the Order as applied under Article 2(2), a certificate purporting to be issued by or on behalf of the appropriate authority of a designated country stating—
 
@@ -89,15 +89,15 @@ shall, in any proceedings in the High Court, be admissible as evidence of the fa
 
 (4) Nothing in this Article shall prejudice the admission of any evidence, whether contained in any document or otherwise, which is admissible apart from this Article.
 
-## 5. Certificate as to appropriate authority of a designated country[^key-23d7749b1c0c59990f81d9354abcb80b]
+## 5. Certificate as to appropriate authority of a designated country[^c-23d7749b1c0c59990f81d9354abcb80b]
 
 Where in relation to any designated country no authority is specified in Schedule 1, a certificate made by the Secretary of State to the effect that the authority specified therein is the appropriate authority for the purposes of this Order shall be sufficient evidence of that fact.
 
-## 6. Representation of government of a designated country[^key-b633b3cc0f7415e58d2e854d7a4c5fa0]
+## 6. Representation of government of a designated country[^c-b633b3cc0f7415e58d2e854d7a4c5fa0]
 
 A request for assistance sent to the Secretary of State by the appropriate authority of a designated country shall, unless the contrary is shown, be deemed to constitute the authority of the government of that country for the Director of Public Prosecutions for Northern Ireland to act on its behalf in any proceedings in the High Court under Article 43 of the Order or any other provision of the Order as applied by Article 2(2).
 
-## 7. Satisfaction of confiscation order in a designated country[^key-fbb9f57a72586e05904be2e261af6c4c]
+## 7. Satisfaction of confiscation order in a designated country[^c-fbb9f57a72586e05904be2e261af6c4c]
 
 (1) Where—
 
@@ -109,7 +109,7 @@ the amount payable under the confiscation order shall be treated as reduced by t
 
 (2) For the purposes of this Article, and without prejudice to the admissibility of any evidence which may be admissible apart from this paragraph, a certificate purporting to be issued by or on behalf of the appropriate authority of a designated country stating that property has been recovered there in execution of a request by the Secretary of State, stating the value of the property so recovered and the date on which it was recovered shall, in any proceedings in a court in Northern Ireland, be admissible as evidence of the facts so stated.
 
-## 8. Currency conversion[^key-1d4005d5f89af0681c45bd938dc8e064]
+## 8. Currency conversion[^c-1d4005d5f89af0681c45bd938dc8e064]
 
 (1) Where the value of property recovered as described in Article 7(1) is expressed in a currency other than that of the United Kingdom, the extent to which the amount payable under the confiscation order is to be reduced under that paragraph shall be calculated on the basis of the exchange rate prevailing on the date on which the property was recovered in the designated country concerned.
 
@@ -117,7 +117,7 @@ the amount payable under the confiscation order shall be treated as reduced by t
 
 (3) For the purposes of this Article a written certificate purporting to be signed by any person acting in his capacity as an officer of any bank in the United Kingdom and stating the exchange rate prevailing on a specified date shall be admissible as evidence of the facts so stated.
 
-## 9. Revocation[^key-bd5c85029c0aa249679b02df04f4e1ac]
+## 9. Revocation[^c-bd5c85029c0aa249679b02df04f4e1ac]
 
 The Criminal Justice (Confiscation) (Designated Countries and Territories) (Northern Ireland) Order 1991[^f00003] is hereby revoked.
 
@@ -129,7 +129,7 @@ Northern Ireland Office
 
 3rd June 1997
 
-## SCHEDULE 1[^key-203c5feed648be9d2ae19cc77cbc4fd5]
+## SCHEDULE 1[^c-203c5feed648be9d2ae19cc77cbc4fd5]
 
 Article 2(1)
 
@@ -142,7 +142,7 @@ Article 2(1)
 | Argentina | The Ministry of Foreign Affairs |
 | Armenia |  |
 | Australia | The Attorney-General’s Department |
-| Austria[^key-ecf9857a7b2eede187e866d968227dfd] |  |
+| Austria[^c-ecf9857a7b2eede187e866d968227dfd] |  |
 | Azerbaijan |  |
 | The Bahamas | The Attorney General of the Bahamas |
 | Bahrain | The Ministry of the Interior |
@@ -294,9 +294,9 @@ Article 2(1)
 
 Article 2(2)
 
-**1.**[^key-3458ab01c6aa0965741e6449654609ed] Article 1 shall be omitted.
+**1.**[^c-3458ab01c6aa0965741e6449654609ed] Article 1 shall be omitted.
 
-**2.**[^key-0c0321a156400117a91ba53360656d67] In Article 2—
+**2.**[^c-0c0321a156400117a91ba53360656d67] In Article 2—
 
 - (a) in paragraph (1) the words “Article 1 and” shall be omitted.
 - (b) in paragraph (2)—
@@ -345,15 +345,15 @@ Article 2(2)
   ;
 - (d) paragraphs (4) to (11) shall be omitted.
 
-**3.**[^key-40a5284c6956713fd99dd4e02891084b] In Article 3 for paragraph (4) there shall be substituted the following paragraph—
+**3.**[^c-40a5284c6956713fd99dd4e02891084b] In Article 3 for paragraph (4) there shall be substituted the following paragraph—
 
 > (4) References in this Order to property obtained, or to a pecuniary advantage derived. or to anything received, in connection with drug trafficking include a reference to property obtained, or to a pecuniary advantage derived, or to anything received both in that connection and in some other connection, and whether before or after the commencement of the 1997 Order.
 
 .
 
-**4.**[^key-fc82bd04ae68fa89ef10917d517d2af6] For the Part heading “CONFISCATION ORDERS” there shall be substituted the heading “EXTERNAL CONFISCATION ORDERS”.
+**4.**[^c-fc82bd04ae68fa89ef10917d517d2af6] For the Part heading “CONFISCATION ORDERS” there shall be substituted the heading “EXTERNAL CONFISCATION ORDERS”.
 
-**5.**[^key-22b23ab1c25587d067a97d5c6d9126e4] In Article 4—
+**5.**[^c-22b23ab1c25587d067a97d5c6d9126e4] In Article 4—
 
 - (a) for paragraphs (2) and (3) there shall be substituted the following paragraphs—
 
@@ -379,7 +379,7 @@ Article 2(2)
   ;
 - (d) paragraph (7) shall be omitted.
 
-**6.**[^key-fffc7c3567416647744bc35b1444be09] For Article 5 there shall be substituted the following Article—
+**6.**[^c-fffc7c3567416647744bc35b1444be09] For Article 5 there shall be substituted the following Article—
 
 > **5. Meaning of realisable property**
 >
@@ -399,12 +399,12 @@ Article 2(2)
 
 .
 
-**7.**[^key-3838dccb4b71ae269505265c0806e9ce] In Article 6—
+**7.**[^c-3838dccb4b71ae269505265c0806e9ce] In Article 6—
 
 - (a) in paragraph (2)(*a*) for the words “the commission of an offence” there shall be substituted the words “drug trafficking”;
 - (b) paragraph (4) shall be omitted.
 
-**8.**[^key-866f2c4f2ad42b784dbf5b4feb37ed6d] In Article 7—
+**8.**[^c-866f2c4f2ad42b784dbf5b4feb37ed6d] In Article 7—
 
 - (a) there shall be substituted for paragraph (1) the following paragraph—
 
@@ -418,7 +418,7 @@ Article 2(2)
   ;
 - (b) paragraph (2) shall be omitted.
 
-**9.**[^key-4281ab2d5b640d8914f3674871a92fab] For Article 8 there shall be substituted the following Article—
+**9.**[^c-4281ab2d5b640d8914f3674871a92fab] For Article 8 there shall be substituted the following Article—
 
 > **8. External confiscation orders**
 >
@@ -437,9 +437,9 @@ Article 2(2)
 
 .
 
-**10.**[^key-7094c162e1e28aa93362e72da2777d18] Articles 9 to 29 shall be omitted.
+**10.**[^c-7094c162e1e28aa93362e72da2777d18] Articles 9 to 29 shall be omitted.
 
-**11.**[^key-e2ee78589d6a8591777347715c61ad5c] For Article 30 there shall be substituted the following Article—
+**11.**[^c-e2ee78589d6a8591777347715c61ad5c] For Article 30 there shall be substituted the following Article—
 
 > **30. Cases in which restraint orders and charging orders may be made**
 >
@@ -447,7 +447,7 @@ Article 2(2)
 >
 > - (a) proceedings have been instituted against the defendant in a designated country;
 > - (b) the proceedings have not been concluded; and
-> - (c) either an external confiscation order has been made in the proceedings or it appears to the High Court that there are reasonable grounds for believing[^key-020095cd8a2a4138c9f43d37f2172828] that such an order may be made in them.
+> - (c) either an external confiscation order has been made in the proceedings or it appears to the High Court that there are reasonable grounds for believing[^c-020095cd8a2a4138c9f43d37f2172828] that such an order may be made in them.
 >
 > (2) Those powers are also exercisable where it appears to the High Court that proceedings are to be instituted against the defendant in a designated country and that there are reasonable grounds for thinking that an external confiscation order may be made in them.
 >
@@ -455,7 +455,7 @@ Article 2(2)
 
 .
 
-**12.**[^key-bb06c80fc9f659fce89ce983d29a9359] In Article 31—
+**12.**[^c-bb06c80fc9f659fce89ce983d29a9359] In Article 31—
 
 - (a) for paragraph (3)(*a*) and (*b*) there shall be substituted the following sub-paragraphs—
 
@@ -479,7 +479,7 @@ Article 2(2)
   ;
 - (d) in paragraph (12) for the words “The prosecution” there shall be substituted the words “A person applying for a restraint order under paragraph (5)(*a*)”.
 
-**13.**[^key-50f1a54bd14cbe6308ac88b87719c2d9] in Article 32—
+**13.**[^c-50f1a54bd14cbe6308ac88b87719c2d9] in Article 32—
 
 - (a) for paragraph (1)(*a*) and (*b*) there shall be substituted the following sub-paragraphs—
 
@@ -496,9 +496,9 @@ Article 2(2)
     ; and
 - (c) in paragraph (6)(*b*)(i) for the words “or of the application in question” there shall be substituted the words “against the defendant in the designated country”.
 
-**14.**[^key-d8cee4f1f49d4c526b607e71414c2fe5] In Article 33 paragraphs (3) and (4) shall be omitted.
+**14.**[^c-d8cee4f1f49d4c526b607e71414c2fe5] In Article 33 paragraphs (3) and (4) shall be omitted.
 
-**15.**[^key-bbdda40d08ca205e98a40706474d2493] After Article 33 there shall be inserted the following Article—
+**15.**[^c-bbdda40d08ca205e98a40706474d2493] After Article 33 there shall be inserted the following Article—
 
 > **33A. Applications for restraint and charging orders**
 >
@@ -512,7 +512,7 @@ Article 2(2)
 
 .
 
-**16.**[^key-69b9c54675471ee14e776e05f0127cb5] In Article 34, for paragraph (1) there shall be substituted the following paragraphs—
+**16.**[^c-69b9c54675471ee14e776e05f0127cb5] In Article 34, for paragraph (1) there shall be substituted the following paragraphs—
 
 > (1) Where an external confiscation order has been registered in the High Court under Article 43, the High Court may, on the application of the Director of Public Prosecutions for Northern Ireland exercise the powers conferred by paragraphs (1A) to (6).
 >
@@ -520,7 +520,7 @@ Article 2(2)
 
 .
 
-**17.**[^key-4d6bae3e2a10ced34cbedbc65e82fdc6] In Article 35—
+**17.**[^c-4d6bae3e2a10ced34cbedbc65e82fdc6] In Article 35—
 
 - (a) in paragraph (1) for the words from “applied” to the end there shall be substituted the words “paid to the High Court and applied for the purposes specified in paragraphs (5) to (7) and in the order so specified.”;
 - (b) in paragraph (3) for the words “If, after the amount payable under the confiscation order”, there shall be substituted the words “Where a fixed amount is payable under the external confiscation order and, after that amount”;
@@ -540,28 +540,28 @@ Article 2(2)
   ; and
 - (i) paragraphs (10) and (11) shall be omitted.
 
-**18.**[^key-aef8f013218d884dc031bd3071525b68] In Article 36—
+**18.**[^c-aef8f013218d884dc031bd3071525b68] In Article 36—
 
 - (a) in paragraph (2) for the words from “making available” to the end there shall be substituted the words “recovering property which is liable to be recovered under an external confiscation order registered in the High Court under Article 43 or, as the case may be, with a view to making available for recovery property which may become liable to be recovered under any external confiscation order which may be made in the defendant’s case”; and
 - (b) in paragraph (6), after the word “the” in the fourth place where it occurs, there shall be inserted the word “external”.
 
-**19.**[^key-0ace3c3a5fb521d49862a9f46430f5ba] In Article 37—
+**19.**[^c-0ace3c3a5fb521d49862a9f46430f5ba] In Article 37—
 
 - (a) in paragraph (6)(*a*) heads (i) and (ii) shall be omitted;
 - (b) in paragraph (6)(*b*) for the words “conclusion of the proceedings or of the application” there shall be substituted the words “discharge of the restraint or charging order”.
 
-**20.**[^key-5189ce47f1246cc3f26e7c67e66723c7] In Article 40 in paragraph (2) the words “by the prosecution or, in a case where proceedings for an offence to which this Order applies are not instituted,” shall be omitted.
+**20.**[^c-5189ce47f1246cc3f26e7c67e66723c7] In Article 40 in paragraph (2) the words “by the prosecution or, in a case where proceedings for an offence to which this Order applies are not instituted,” shall be omitted.
 
-**21.**[^key-bf83de96978e1cfca8dd17c9e4384321] Articles 41 and 42 shall be omitted.
+**21.**[^c-bf83de96978e1cfca8dd17c9e4384321] Articles 41 and 42 shall be omitted.
 
-**22.**[^key-12465bdf88420db682147ba1780f0a6d] In Article 43—
+**22.**[^c-12465bdf88420db682147ba1780f0a6d] In Article 43—
 
 - (a) in paragraph (3) after the word “satisfied” there shall be inserted the words “by the recovery of all property liable to be recovered under it or”;
 - (b) paragraph (4) shall be omitted.
 
-**23.**[^key-13be2e0cee6eb9c8bd9754d31b969749] Part III (Articles 44 to 48) shall be omitted.
+**23.**[^c-13be2e0cee6eb9c8bd9754d31b969749] Part III (Articles 44 to 48) shall be omitted.
 
-**24.**[^key-e72d6d16c771681e8ec9315bb3b6163d] In Article 49—
+**24.**[^c-e72d6d16c771681e8ec9315bb3b6163d] In Article 49—
 
 - (a) for paragraph (1)(*a*) there shall be substituted the following sub-paragraph—
 
@@ -570,7 +570,7 @@ Article 2(2)
   ; and
 - (b) paragraph (4) shall be omitted.
 
-**25.**[^key-0cec65dcc25f211b6eadd05d6a589a2d] In Article 50—
+**25.**[^c-0cec65dcc25f211b6eadd05d6a589a2d] In Article 50—
 
 - (a) for paragraph (1) there shall be substituted the following paragraph—
 
@@ -583,7 +583,7 @@ Article 2(2)
 
   ;
 
-**26.**[^key-e058a5758da2a40265bd13d9ff512add] In Article 51—
+**26.**[^c-e058a5758da2a40265bd13d9ff512add] In Article 51—
 
 - (a) for paragraph (1) there shall be substituted the following paragraph—
 
@@ -607,7 +607,7 @@ Article 2(2)
 
     .
 
-**27.**[^key-d26ef63eebf54fa3559f347ffc190c21] In Article 52—
+**27.**[^c-d26ef63eebf54fa3559f347ffc190c21] In Article 52—
 
 - (a) for paragraph (1)(*a*) there shall be substituted the following sub-paragraph—
 
@@ -616,9 +616,9 @@ Article 2(2)
   ;
 - (b) paragraph (2)(*b*) shall be omitted.
 
-**28.**[^key-215d1a1e10608dfa4ef3a827306f8e1f] Article 53 shall be omitted.
+**28.**[^c-215d1a1e10608dfa4ef3a827306f8e1f] Article 53 shall be omitted.
 
-**29.**[^key-e1c7ebafcbde0c315698841fea97c598] In Article 54—
+**29.**[^c-e1c7ebafcbde0c315698841fea97c598] In Article 54—
 
 - (a) in paragraph (1) for the words “the prosecution” there shall be substituted the words “or on behalf of the government of a designated country or, in a case where an external confiscation order has been registered under Article 43, by a receiver appointed under Article 34 or the Director of Public Prosecutions for Northern Ireland”;
 - (b) in paragraph (2)(*b*) for the words “paragraph (3)” there shall be substituted the words “paragraph (2)”;
@@ -627,9 +627,9 @@ Article 2(2)
 - (e) in paragraph (9)(*c*) for the words “any such conduct” there shall be substituted the words “such drug trafficking”;
 - (f) paragraph (13) shall be omitted.
 
-**30.**[^key-db32f788ec2e741112db88d8901ff7e1] Articles 55 and 56 shall be omitted.
+**30.**[^c-db32f788ec2e741112db88d8901ff7e1] Articles 55 and 56 shall be omitted.
 
-**31.**[^key-902e8f17e54041a9228c1b32890f8f6f] For Article 57 there shall be substituted the following Article—
+**31.**[^c-902e8f17e54041a9228c1b32890f8f6f] For Article 57 there shall be substituted the following Article—
 
 > **57. Amendment**
 >
@@ -637,7 +637,7 @@ Article 2(2)
 
 .
 
-**32.**[^key-9203b487848f6d943c6196fd76daf6a0] After Article 57 there shall be inserted the following Appendix—
+**32.**[^c-9203b487848f6d943c6196fd76daf6a0] After Article 57 there shall be inserted the following Appendix—
 
 > **APPENDIX — Institution of Proceedings**
 >
@@ -648,7 +648,7 @@ Article 2(2)
 > | Anguilla | - (a) when a summons or warrant is issued in respect of an offence;<br>- (b) when a person is charged with an an offence after being taken into custody without a warrant;<br>- (c) when a bill of indictment is preferred. |
 > | Antigua and Barbuda | when a person has been charged with a scheduled offence. |
 > | Argentina | when a judge has ordered that a person detained for the purpose of testifying in connection with the commission of an offence. |
-> | Australia[^key-a42ec3f072c9c7f225452e0c0392451c] | when an information or a complaint has been laid before a justice of the peace or a magistrate, or a person has been charged with an offence, or indictment or a presentment has been preferred |
+> | Australia[^c-a42ec3f072c9c7f225452e0c0392451c] | when an information or a complaint has been laid before a justice of the peace or a magistrate, or a person has been charged with an offence, or indictment or a presentment has been preferred |
 > | The Bahamas | - (a) when an information has been laid before a justice of the peace;<br>- (b) when a person is charged with an offence after having been taken into custody without a warrant;<br>- (c) when a bill of indictment is preferred. |
 > | Bahrain | when a bill of indictment is lodged in court against any person for an offence. |
 > | Barbados | - (a) when any information has been laid before a magistrate;<br>- (b) when a person is charged with an offence;<br>- (c) when a bill of indictment is preferred. |
@@ -681,15 +681,15 @@ Article 2(2)
 > | Sweden | when a public prosecutor has established that there are reasonable grounds to suspect that a person has committed an offence and accordingly is obliged under the Code of Judicial Procedure to notify the person of the suspicion. |
 > | Switzerland | when proceedings for an offence are brought before an examining magistrate. |
 > | Thailand | when a court or the Asset Examination Committee issues a restraint order. |
-> | Trinidad and Tobago[^key-d00f0d39375e92159480c4c3a8bfc2a7] | - (a) when an information or complaint is laid before a magistrate;<br>- (b) when a person is charged with an offence;<br>- (c) when a bill of indictment is preferred;<br>- (d) when a warrant of arrest is executed against a person |
+> | Trinidad and Tobago[^c-d00f0d39375e92159480c4c3a8bfc2a7] | - (a) when an information or complaint is laid before a magistrate;<br>- (b) when a person is charged with an offence;<br>- (c) when a bill of indictment is preferred;<br>- (d) when a warrant of arrest is executed against a person |
 > | Ukraine | when a criminal case is brought. |
 > | United Mexican States | when criminal proceedings are instituted by a judicial authority. |
 > | United States of America | when an indictment, information or complaint has been filed against a person in respect of an offence. |
 > | Uruguay | when criminal proceedings are instituted by a judicial authority. |
 
-**33.**[^key-6adbda4611198891943abb62eb744539] Schedule 1 shall be omitted.
+**33.**[^c-6adbda4611198891943abb62eb744539] Schedule 1 shall be omitted.
 
-**34.**[^key-80abf74fa2fb01e768586954f44bd8ae] In Schedule 2—
+**34.**[^c-80abf74fa2fb01e768586954f44bd8ae] In Schedule 2—
 
 - (a) in paragraph 3—
   - (i) in sub-paragraph (1) for the words “benefited from any conduct to which Article 49 applies” there shall be substituted the words “at any time held property which was realisable property”;
@@ -705,16 +705,16 @@ Article 2(2)
   - (iii) in sub-paragraph (6) for the words “a code of practice issued under this paragraph” there shall be substituted the words “the code of practice referred to in sub-paragraph (1)”;
 - (d) paragraph 9 shall be omitted.
 
-**35.**[^key-780c0ba7c023af5d87d948f74c41f409] In Schedule 3—
+**35.**[^c-780c0ba7c023af5d87d948f74c41f409] In Schedule 3—
 
 - (a) for the heading “AMENDMENTS” there shall be substituted “AMENDMENT”;
 - (b) paragraphs 1 to 13 shall be omitted;
 - (c) in paragraph 14 for the words “a confiscation” there shall be substituted the words “an external confiscation”;
 - (d) paragraphs 15 to 19 shall be omitted.
 
-**36.**[^key-0823b5dae8cb097ae1b189a25253da41] Schedules 4 and 5 shall be omitted.
+**36.**[^c-0823b5dae8cb097ae1b189a25253da41] Schedules 4 and 5 shall be omitted.
 
-## SCHEDULE 3 — The Proceeds of Crime (Northern Ireland) Order 1996 as modified[^key-b0b2349bf3fcf2c3a880646b9430f610]
+## SCHEDULE 3 — The Proceeds of Crime (Northern Ireland) Order 1996 as modified[^c-b0b2349bf3fcf2c3a880646b9430f610]
 
 Article 2(2)
 
@@ -900,7 +900,7 @@ Article 2(2)
 >
 > - (a) proceedings have been instituted against the defendant in a designated country;
 > - (b) the proceedings have not been concluded; and
-> - (c) either an external confiscation order has been made in the proceedings or it appears to the High Court that there are reasonable grounds for believing[^key-41a207d45023d6bdbf650e1eac299632] that such an order may be made in them.
+> - (c) either an external confiscation order has been made in the proceedings or it appears to the High Court that there are reasonable grounds for believing[^c-41a207d45023d6bdbf650e1eac299632] that such an order may be made in them.
 >
 > (2) Those powers are also exercisable where it appears to the High Court that proceedings are to be instituted against the defendant in a designated country and that there are reasonable grounds for thinking that an external confiscation order may be made in them.
 >
@@ -1423,7 +1423,7 @@ Article 2(2)
 > | Sweden | when a public prosecutor has established that there are reasonable grounds to suspect that a person has committed an offence and accordingly is obliged under the Code of Judicial Procedure to notify the person of the suspicion. |  |
 > | Switzerland | when proceedings for an offence are brought before an examining magistrate. |  |
 > | Thailand | when a court or the Asset Examination Committee issues a restraint order. |  |
-> | Trinidad and Tobago[^key-d2115d1be65e791d43761d9ac5d48cd9] | - (a) when an information or complaint is laid before a magistrate;<br>- (b) when a person is charged with an offence;<br>- (c) when a bill of indictment is preferred;<br>- (d) when a warrant of arrest is executed against a person |  |
+> | Trinidad and Tobago[^c-d2115d1be65e791d43761d9ac5d48cd9] | - (a) when an information or complaint is laid before a magistrate;<br>- (b) when a person is charged with an offence;<br>- (c) when a bill of indictment is preferred;<br>- (d) when a warrant of arrest is executed against a person |  |
 > | Ukraine | when a criminal case is brought. |  |
 > | United Mexican States | when criminal proceedings are instituted by a judicial authority. |  |
 > | United States of America | when an indictment, information or complaint has been filed against a person in respect of an offence. |  |
@@ -1577,43 +1577,43 @@ Article 2 applies the provisions of the Proceeds of Crime (Northern Ireland) Ord
 
 [^f00001]: Footnote: [S.I. 1996/1299 (N.I. 9)](https://www.legislation.gov.uk/nisi/1996/1299)
 
-[^key-cf58b6f85cfa2b503a450867491f8617]: Commencement: Art. 1 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-cf58b6f85cfa2b503a450867491f8617]: Commencement: Art. 1 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
 [^f00002]: Footnote: [1994 c. 37](https://www.legislation.gov.uk/ukpga/1994/37)
 
-[^key-692fecfeca12726cc1f76843f52fd2ec]: Commencement: Art. 2 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-692fecfeca12726cc1f76843f52fd2ec]: Commencement: Art. 2 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-5fd25d761b3ed804fee630dc2664f371]: Commencement: Art. 3 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-5fd25d761b3ed804fee630dc2664f371]: Commencement: Art. 3 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-028f31f7748e7dce7ccc8baab5286b47]: Commencement: Art. 4 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-028f31f7748e7dce7ccc8baab5286b47]: Commencement: Art. 4 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-23d7749b1c0c59990f81d9354abcb80b]: Commencement: Art. 5 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-23d7749b1c0c59990f81d9354abcb80b]: Commencement: Art. 5 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-b633b3cc0f7415e58d2e854d7a4c5fa0]: Commencement: Art. 6 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-b633b3cc0f7415e58d2e854d7a4c5fa0]: Commencement: Art. 6 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-fbb9f57a72586e05904be2e261af6c4c]: Commencement: Art. 7 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-fbb9f57a72586e05904be2e261af6c4c]: Commencement: Art. 7 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-1d4005d5f89af0681c45bd938dc8e064]: Commencement: Art. 8 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-1d4005d5f89af0681c45bd938dc8e064]: Commencement: Art. 8 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-bd5c85029c0aa249679b02df04f4e1ac]: Commencement: Art. 9 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-bd5c85029c0aa249679b02df04f4e1ac]: Commencement: Art. 9 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
 [^f00003]: Footnote: [S.R. 1991 No. 221](https://www.legislation.gov.uk/nisr/1991/221) as amended by [S.R. 1992 No. 469](https://www.legislation.gov.uk/nisr/1992/469), [S.R. 1993 No. 358](https://www.legislation.gov.uk/nisr/1993/358), [S.R. 1994 No. 164](https://www.legislation.gov.uk/nisr/1994/164) and [S.R. 1994 No. 350](https://www.legislation.gov.uk/nisr/1994/350)
 
-[^key-203c5feed648be9d2ae19cc77cbc4fd5]: Commencement: Sch. 1 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-203c5feed648be9d2ae19cc77cbc4fd5]: Commencement: Sch. 1 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-ecf9857a7b2eede187e866d968227dfd]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1997/270/schedule/1) inserted (1.2.1999) by [The Proceeds of Crime (Countries and Territories designated under the Drug Trafficking Act 1994) (1997 Order) (Amendment) (Northern Ireland) Order 1998 (S.R. 1998/461)](https://www.legislation.gov.uk/nisr/1998/461), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/461/article/1/1), [2](https://www.legislation.gov.uk/nisr/1998/461/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/1998/461/schedule/1)
+[^c-ecf9857a7b2eede187e866d968227dfd]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1997/270/schedule/1) inserted (1.2.1999) by [The Proceeds of Crime (Countries and Territories designated under the Drug Trafficking Act 1994) (1997 Order) (Amendment) (Northern Ireland) Order 1998 (S.R. 1998/461)](https://www.legislation.gov.uk/nisr/1998/461), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/461/article/1/1), [2](https://www.legislation.gov.uk/nisr/1998/461/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/1998/461/schedule/1)
 
-[^key-3458ab01c6aa0965741e6449654609ed]: Commencement: Sch. 2 para. 1 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-3458ab01c6aa0965741e6449654609ed]: Commencement: Sch. 2 para. 1 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-0c0321a156400117a91ba53360656d67]: Commencement: Sch. 2 para. 2 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-0c0321a156400117a91ba53360656d67]: Commencement: Sch. 2 para. 2 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-40a5284c6956713fd99dd4e02891084b]: Commencement: Sch. 2 para. 3 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-40a5284c6956713fd99dd4e02891084b]: Commencement: Sch. 2 para. 3 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-fc82bd04ae68fa89ef10917d517d2af6]: Commencement: Sch. 2 para. 4 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-fc82bd04ae68fa89ef10917d517d2af6]: Commencement: Sch. 2 para. 4 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-22b23ab1c25587d067a97d5c6d9126e4]: Commencement: Sch. 2 para. 5 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-22b23ab1c25587d067a97d5c6d9126e4]: Commencement: Sch. 2 para. 5 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-fffc7c3567416647744bc35b1444be09]: Commencement: Sch. 2 para. 6 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-fffc7c3567416647744bc35b1444be09]: Commencement: Sch. 2 para. 6 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
 [^f00004]: Footnote: [S.I. 1994/2795 (N.I. 15)](https://www.legislation.gov.uk/nisi/1994/2795)
 
@@ -1621,75 +1621,75 @@ Article 2 applies the provisions of the Proceeds of Crime (Northern Ireland) Ord
 
 [^f00006]: Footnote: [1989 c. 4](https://www.legislation.gov.uk/ukpga/1989/4)
 
-[^key-3838dccb4b71ae269505265c0806e9ce]: Commencement: Sch. 2 para. 7 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-3838dccb4b71ae269505265c0806e9ce]: Commencement: Sch. 2 para. 7 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-866f2c4f2ad42b784dbf5b4feb37ed6d]: Commencement: Sch. 2 para. 8 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-866f2c4f2ad42b784dbf5b4feb37ed6d]: Commencement: Sch. 2 para. 8 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-4281ab2d5b640d8914f3674871a92fab]: Commencement: Sch. 2 para. 9 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-4281ab2d5b640d8914f3674871a92fab]: Commencement: Sch. 2 para. 9 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-7094c162e1e28aa93362e72da2777d18]: Commencement: Sch. 2 para. 10 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-7094c162e1e28aa93362e72da2777d18]: Commencement: Sch. 2 para. 10 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-e2ee78589d6a8591777347715c61ad5c]: Commencement: Sch. 2 para. 11 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-e2ee78589d6a8591777347715c61ad5c]: Commencement: Sch. 2 para. 11 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-020095cd8a2a4138c9f43d37f2172828]: Textual amendment: Word in [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/1997/270/schedule/2/paragraph/11) substituted (1.2.1999) by [The Proceeds of Crime (Countries and Territories designated under the Drug Trafficking Act 1994) (1997 Order) (Amendment) (Northern Ireland) Order 1998 (S.R. 1998/461)](https://www.legislation.gov.uk/nisr/1998/461), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/461/article/1/1), [3](https://www.legislation.gov.uk/nisr/1998/461/article/3)
+[^c-020095cd8a2a4138c9f43d37f2172828]: Textual amendment: Word in [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/1997/270/schedule/2/paragraph/11) substituted (1.2.1999) by [The Proceeds of Crime (Countries and Territories designated under the Drug Trafficking Act 1994) (1997 Order) (Amendment) (Northern Ireland) Order 1998 (S.R. 1998/461)](https://www.legislation.gov.uk/nisr/1998/461), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/461/article/1/1), [3](https://www.legislation.gov.uk/nisr/1998/461/article/3)
 
-[^key-bb06c80fc9f659fce89ce983d29a9359]: Commencement: Sch. 2 para. 12 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-bb06c80fc9f659fce89ce983d29a9359]: Commencement: Sch. 2 para. 12 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
 [^f00007]: Footnote: [S.R. 1980 No. 346](https://www.legislation.gov.uk/nisr/1980/346)
 
-[^key-50f1a54bd14cbe6308ac88b87719c2d9]: Commencement: Sch. 2 para. 13 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-50f1a54bd14cbe6308ac88b87719c2d9]: Commencement: Sch. 2 para. 13 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-d8cee4f1f49d4c526b607e71414c2fe5]: Commencement: Sch. 2 para. 14 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-d8cee4f1f49d4c526b607e71414c2fe5]: Commencement: Sch. 2 para. 14 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-bbdda40d08ca205e98a40706474d2493]: Commencement: Sch. 2 para. 15 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-bbdda40d08ca205e98a40706474d2493]: Commencement: Sch. 2 para. 15 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-69b9c54675471ee14e776e05f0127cb5]: Commencement: Sch. 2 para. 16 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-69b9c54675471ee14e776e05f0127cb5]: Commencement: Sch. 2 para. 16 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-4d6bae3e2a10ced34cbedbc65e82fdc6]: Commencement: Sch. 2 para. 17 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-4d6bae3e2a10ced34cbedbc65e82fdc6]: Commencement: Sch. 2 para. 17 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-aef8f013218d884dc031bd3071525b68]: Commencement: Sch. 2 para. 18 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-aef8f013218d884dc031bd3071525b68]: Commencement: Sch. 2 para. 18 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-0ace3c3a5fb521d49862a9f46430f5ba]: Commencement: Sch. 2 para. 19 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-0ace3c3a5fb521d49862a9f46430f5ba]: Commencement: Sch. 2 para. 19 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-5189ce47f1246cc3f26e7c67e66723c7]: Commencement: Sch. 2 para. 20 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-5189ce47f1246cc3f26e7c67e66723c7]: Commencement: Sch. 2 para. 20 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-bf83de96978e1cfca8dd17c9e4384321]: Commencement: Sch. 2 para. 21 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-bf83de96978e1cfca8dd17c9e4384321]: Commencement: Sch. 2 para. 21 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-12465bdf88420db682147ba1780f0a6d]: Commencement: Sch. 2 para. 22 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-12465bdf88420db682147ba1780f0a6d]: Commencement: Sch. 2 para. 22 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-13be2e0cee6eb9c8bd9754d31b969749]: Commencement: Sch. 2 para. 23 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-13be2e0cee6eb9c8bd9754d31b969749]: Commencement: Sch. 2 para. 23 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-e72d6d16c771681e8ec9315bb3b6163d]: Commencement: Sch. 2 para. 24 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-e72d6d16c771681e8ec9315bb3b6163d]: Commencement: Sch. 2 para. 24 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-0cec65dcc25f211b6eadd05d6a589a2d]: Commencement: Sch. 2 para. 25 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-0cec65dcc25f211b6eadd05d6a589a2d]: Commencement: Sch. 2 para. 25 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-e058a5758da2a40265bd13d9ff512add]: Commencement: Sch. 2 para. 26 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-e058a5758da2a40265bd13d9ff512add]: Commencement: Sch. 2 para. 26 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-d26ef63eebf54fa3559f347ffc190c21]: Commencement: Sch. 2 para. 27 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-d26ef63eebf54fa3559f347ffc190c21]: Commencement: Sch. 2 para. 27 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-215d1a1e10608dfa4ef3a827306f8e1f]: Commencement: Sch. 2 para. 28 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-215d1a1e10608dfa4ef3a827306f8e1f]: Commencement: Sch. 2 para. 28 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-e1c7ebafcbde0c315698841fea97c598]: Commencement: Sch. 2 para. 29 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-e1c7ebafcbde0c315698841fea97c598]: Commencement: Sch. 2 para. 29 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-db32f788ec2e741112db88d8901ff7e1]: Commencement: Sch. 2 para. 30 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-db32f788ec2e741112db88d8901ff7e1]: Commencement: Sch. 2 para. 30 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-902e8f17e54041a9228c1b32890f8f6f]: Commencement: Sch. 2 para. 31 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-902e8f17e54041a9228c1b32890f8f6f]: Commencement: Sch. 2 para. 31 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-9203b487848f6d943c6196fd76daf6a0]: Commencement: Sch. 2 para. 32 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-9203b487848f6d943c6196fd76daf6a0]: Commencement: Sch. 2 para. 32 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-a42ec3f072c9c7f225452e0c0392451c]: Textual amendment: Words in [Sch. 2 para. 32](https://www.legislation.gov.uk/nisr/1997/270/schedule/2/paragraph/32) substituted (1.2.1999) by [The Proceeds of Crime (Countries and Territories designated under the Drug Trafficking Act 1994) (1997 Order) (Amendment) (Northern Ireland) Order 1998 (S.R. 1998/461)](https://www.legislation.gov.uk/nisr/1998/461), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/461/article/1/1), [4(a)](https://www.legislation.gov.uk/nisr/1998/461/article/4/a)
+[^c-a42ec3f072c9c7f225452e0c0392451c]: Textual amendment: Words in [Sch. 2 para. 32](https://www.legislation.gov.uk/nisr/1997/270/schedule/2/paragraph/32) substituted (1.2.1999) by [The Proceeds of Crime (Countries and Territories designated under the Drug Trafficking Act 1994) (1997 Order) (Amendment) (Northern Ireland) Order 1998 (S.R. 1998/461)](https://www.legislation.gov.uk/nisr/1998/461), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/461/article/1/1), [4(a)](https://www.legislation.gov.uk/nisr/1998/461/article/4/a)
 
-[^key-d00f0d39375e92159480c4c3a8bfc2a7]: Textual amendment: Words in [Sch. 2 para. 32](https://www.legislation.gov.uk/nisr/1997/270/schedule/2/paragraph/32) inserted (1.2.1999) by [The Proceeds of Crime (Countries and Territories designated under the Drug Trafficking Act 1994) (1997 Order) (Amendment) (Northern Ireland) Order 1998 (S.R. 1998/461)](https://www.legislation.gov.uk/nisr/1998/461), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/461/article/1/1), [4(b)](https://www.legislation.gov.uk/nisr/1998/461/article/4/b)
+[^c-d00f0d39375e92159480c4c3a8bfc2a7]: Textual amendment: Words in [Sch. 2 para. 32](https://www.legislation.gov.uk/nisr/1997/270/schedule/2/paragraph/32) inserted (1.2.1999) by [The Proceeds of Crime (Countries and Territories designated under the Drug Trafficking Act 1994) (1997 Order) (Amendment) (Northern Ireland) Order 1998 (S.R. 1998/461)](https://www.legislation.gov.uk/nisr/1998/461), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/461/article/1/1), [4(b)](https://www.legislation.gov.uk/nisr/1998/461/article/4/b)
 
-[^key-6adbda4611198891943abb62eb744539]: Commencement: Sch. 2 para. 33 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-6adbda4611198891943abb62eb744539]: Commencement: Sch. 2 para. 33 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-80abf74fa2fb01e768586954f44bd8ae]: Commencement: Sch. 2 para. 34 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-80abf74fa2fb01e768586954f44bd8ae]: Commencement: Sch. 2 para. 34 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-780c0ba7c023af5d87d948f74c41f409]: Commencement: Sch. 2 para. 35 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-780c0ba7c023af5d87d948f74c41f409]: Commencement: Sch. 2 para. 35 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-0823b5dae8cb097ae1b189a25253da41]: Commencement: Sch. 2 para. 36 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-0823b5dae8cb097ae1b189a25253da41]: Commencement: Sch. 2 para. 36 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
-[^key-b0b2349bf3fcf2c3a880646b9430f610]: Commencement: Sch. 3 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
+[^c-b0b2349bf3fcf2c3a880646b9430f610]: Commencement: Sch. 3 in operation at 2.7.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/270/article/1/1)
 
 [^f00008]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -1709,7 +1709,7 @@ Article 2 applies the provisions of the Proceeds of Crime (Northern Ireland) Ord
 
 [^f00016]: Footnote: [1989 c. 4](https://www.legislation.gov.uk/ukpga/1989/4)
 
-[^key-41a207d45023d6bdbf650e1eac299632]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/nisr/1997/270/schedule/3) substituted (1.2.1999) by [The Proceeds of Crime (Countries and Territories designated under the Drug Trafficking Act 1994) (1997 Order) (Amendment) (Northern Ireland) Order 1998 (S.R. 1998/461)](https://www.legislation.gov.uk/nisr/1998/461), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/461/article/1/1), [3](https://www.legislation.gov.uk/nisr/1998/461/article/3)
+[^c-41a207d45023d6bdbf650e1eac299632]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/nisr/1997/270/schedule/3) substituted (1.2.1999) by [The Proceeds of Crime (Countries and Territories designated under the Drug Trafficking Act 1994) (1997 Order) (Amendment) (Northern Ireland) Order 1998 (S.R. 1998/461)](https://www.legislation.gov.uk/nisr/1998/461), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/461/article/1/1), [3](https://www.legislation.gov.uk/nisr/1998/461/article/3)
 
 [^f00017]: Footnote: [S.I. 1990/2588 (N.I. 17)](https://www.legislation.gov.uk/nisi/1990/2588)
 
@@ -1731,7 +1731,7 @@ Article 2 applies the provisions of the Proceeds of Crime (Northern Ireland) Ord
 
 [^M_F_445c2402-976d-448d-c6be-4dc0b3f7ab3b]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/1997/270/schedule/3) substituted (1.2.1999) by [The Proceeds of Crime (Countries and Territories designated under the Drug Trafficking Act 1994) (1997 Order) (Amendment) (Northern Ireland) Order 1998 (S.R. 1998/461)](https://www.legislation.gov.uk/nisr/1998/461), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/461/article/1/1), [4(a)](https://www.legislation.gov.uk/nisr/1998/461/article/4), [5](https://www.legislation.gov.uk/nisr/1998/461/article/5)
 
-[^key-d2115d1be65e791d43761d9ac5d48cd9]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/1997/270/schedule/3) inserted (1.2.1999) by [The Proceeds of Crime (Countries and Territories designated under the Drug Trafficking Act 1994) (1997 Order) (Amendment) (Northern Ireland) Order 1998 (S.R. 1998/461)](https://www.legislation.gov.uk/nisr/1998/461), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/461/article/1/1), [4(b)](https://www.legislation.gov.uk/nisr/1998/461/article/4), [5](https://www.legislation.gov.uk/nisr/1998/461/article/5)
+[^c-d2115d1be65e791d43761d9ac5d48cd9]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/1997/270/schedule/3) inserted (1.2.1999) by [The Proceeds of Crime (Countries and Territories designated under the Drug Trafficking Act 1994) (1997 Order) (Amendment) (Northern Ireland) Order 1998 (S.R. 1998/461)](https://www.legislation.gov.uk/nisr/1998/461), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/461/article/1/1), [4(b)](https://www.legislation.gov.uk/nisr/1998/461/article/4), [5](https://www.legislation.gov.uk/nisr/1998/461/article/5)
 
 [^f00026]: Footnote: [S.I. 1993/1933](https://www.legislation.gov.uk/uksi/1993/1933)
 

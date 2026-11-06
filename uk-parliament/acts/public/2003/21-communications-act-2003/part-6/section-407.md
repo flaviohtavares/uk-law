@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 407. Pre-consolidation amendments[^key-b47c149b067a307be8bbbd9c3e974d82]
+## 407. Pre-consolidation amendments[^c-b47c149b067a307be8bbbd9c3e974d82]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Secretary of State may by order make such modifications of—
 
-- (a)[^key-bbacabf1866f4e191e030608999530ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-bbacabf1866f4e191e030608999530ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the enactments relating to broadcasting, and
-- (c) enactments referring to enactments falling within paragraph [^key-2d647ea7652b1133060345dbc11e652b]... (b),
+- (c) enactments referring to enactments falling within paragraph [^c-2d647ea7652b1133060345dbc11e652b]... (b),
 
 as in his opinion facilitate, or are otherwise desirable in connection with, the consolidation of those enactments or any of them.
 
@@ -48,8 +48,8 @@ has been presented to either House of Parliament.
 
 ## Annotations
 
-[^key-b47c149b067a307be8bbbd9c3e974d82]: Commencement: S. 407 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
+[^c-b47c149b067a307be8bbbd9c3e974d82]: Commencement: S. 407 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
 
-[^key-bbacabf1866f4e191e030608999530ce]: Textual amendment: S. 407(1)(a) repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
+[^c-bbacabf1866f4e191e030608999530ce]: Textual amendment: S. 407(1)(a) repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
 
-[^key-2d647ea7652b1133060345dbc11e652b]: Textual amendment: Words in s. 407(1)(c) repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
+[^c-2d647ea7652b1133060345dbc11e652b]: Textual amendment: Words in s. 407(1)(c) repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))

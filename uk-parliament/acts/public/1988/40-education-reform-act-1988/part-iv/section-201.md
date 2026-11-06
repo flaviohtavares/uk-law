@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 201. Wrongful disposals.[^key-5558276545bf33e9f5d1509dcdd0ccd5]
+## 201. Wrongful disposals.[^c-5558276545bf33e9f5d1509dcdd0ccd5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5558276545bf33e9f5d1509dcdd0ccd5]: Textual amendment: S. 201 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-5558276545bf33e9f5d1509dcdd0ccd5]: Textual amendment: S. 201 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)

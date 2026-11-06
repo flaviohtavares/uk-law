@@ -64,7 +64,7 @@ Regulation 4
 
   from being concerned with the management or control of any body;
 - (f) has at any time been removed from office as the chair, member, convenor or director of any public body on the grounds, in terms, that it was not in the interests of, or conducive to the good management of, that body that the person should continue to hold that office;
-- (g) at any time has been made[^key-aabf4937669bd856b5ea6abe316fdb67] bankrupt or sequestration of the person's estate has been awarded, and—
+- (g) at any time has been made[^c-aabf4937669bd856b5ea6abe316fdb67] bankrupt or sequestration of the person's estate has been awarded, and—
   - (i) the person has not been discharged; or
   - (ii) the person is the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A to the Insolvency Act 1986 [^c22361941] (bankruptcy restrictions order and undertaking);
 - (h) has at any time made a composition or arrangement with, or granted a trust deed for, the person's creditors and the person has not been discharged in respect of it;
@@ -125,7 +125,7 @@ Regulation 4
 
 [^c22361931]: Marginal citation: [1990 c.40](https://www.legislation.gov.uk/ukpga/1990/40). Section 7 was repealed by section 104 of, and paragraph 7(b) of Schedule 4 to, the [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10).
 
-[^key-aabf4937669bd856b5ea6abe316fdb67]: Textual amendment: Word in [Sch. 1 para. 3(2)(g)](https://www.legislation.gov.uk/uksi/2015/94/schedule/1/paragraph/3/2/g) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-aabf4937669bd856b5ea6abe316fdb67]: Textual amendment: Word in [Sch. 1 para. 3(2)(g)](https://www.legislation.gov.uk/uksi/2015/94/schedule/1/paragraph/3/2/g) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
 
 [^c22361941]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Schedule 4A was inserted by section 257(2) of, and Schedule 20 to, the [Enterprise Act 2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 151. Power of local authority to carry out or arrange work[^key-cbfe3f5ce7a5937e384ac9d03216c19f]
+## 151. Power of local authority to carry out or arrange work[^c-cbfe3f5ce7a5937e384ac9d03216c19f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A local authority may carry out, or arrange for the carrying out of, any work wh
 
 ## Annotations
 
-[^key-cbfe3f5ce7a5937e384ac9d03216c19f]: Commencement: [S. 151](https://www.legislation.gov.uk/asp/2006/1/section/151) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-cbfe3f5ce7a5937e384ac9d03216c19f]: Commencement: [S. 151](https://www.legislation.gov.uk/asp/2006/1/section/151) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

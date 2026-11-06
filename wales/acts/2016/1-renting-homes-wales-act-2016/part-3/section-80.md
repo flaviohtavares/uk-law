@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Substitute succession on early termination[^key-a58c2a4193a80cf74cd50c3ddb19f548]
+## 80. Substitute succession on early termination[^c-a58c2a4193a80cf74cd50c3ddb19f548]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a58c2a4193a80cf74cd50c3ddb19f548]: Commencement: [S. 80](https://www.legislation.gov.uk/anaw/2016/1/section/80) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-a58c2a4193a80cf74cd50c3ddb19f548]: Commencement: [S. 80](https://www.legislation.gov.uk/anaw/2016/1/section/80) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

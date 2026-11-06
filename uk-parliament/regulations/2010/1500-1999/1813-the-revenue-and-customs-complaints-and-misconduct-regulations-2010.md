@@ -48,17 +48,17 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-2b9d2b84175b7a2f5174f6e7d7da7ed4]
+### 1. Citation and commencement[^c-2b9d2b84175b7a2f5174f6e7d7da7ed4]
 
 These Regulations may be cited as the Revenue and Customs (Complaints and Misconduct) Regulations 2010 and shall come into force on 5th August 2010.
 
-### 2. Revocation and transitional provision[^key-9398fc8575f1b3efda0a0626a875faec]
+### 2. Revocation and transitional provision[^c-9398fc8575f1b3efda0a0626a875faec]
 
 (1) Subject to paragraph (2), the Revenue and Customs (Complaints and Misconduct) Regulations 2005[^f00002] and the Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2006[^f00003] are revoked.
 
 (2) Where an allegation in respect of the conduct by an officer came to the attention of the appropriate authority before the 5th August 2010, nothing in these Regulations shall apply and the Revenue and Customs (Complaints and Misconduct) Regulations 2005 shall continue to have effect.
 
-### 3. Interpretation[^key-6cdd86643420b058c599d3fa16a4914b]
+### 3. Interpretation[^c-6cdd86643420b058c599d3fa16a4914b]
 
 (1) In these Regulations—
 
@@ -130,11 +130,11 @@ but where any person is acting on another’s behalf for the purposes of any com
 - (d) regulation 47 (investigations managed by the IPCC), or
 - (e) regulation 48 (investigations by the IPCC itself).
 
-### 4. Application: general[^key-83de2720193215f03341c92da55b674c]
+### 4. Application: general[^c-83de2720193215f03341c92da55b674c]
 
 These Regulations shall apply for the purpose of conferring functions on the IPCC in relation to the Commissioners and officers, in the exercise of their functions in or in relation to England and Wales.
 
-### 5. Application of the 2002 Act[^key-dc0786e0605c011ffbc7d363f46418b4]
+### 5. Application of the 2002 Act[^c-dc0786e0605c011ffbc7d363f46418b4]
 
 (1) Sections 9 (the Independent Police Complaints Commission), 19 (use of investigatory powers by or on behalf of the IPCC), 22 (power of the IPCC to issue guidance), 23 (regulations), 24 (consultation on regulations) and 27 (conduct of the IPCC’s staff) of the 2002 Act shall apply to the Commissioners and officers with the following modifications.
 
@@ -164,13 +164,13 @@ These Regulations shall apply for the purpose of conferring functions on the IPC
 - (a) at the end of paragraph (a) insert “and Her Majesty’s Revenue and Customs”;
 - (b) omit paragraphs (b) and (c).
 
-### 6. Temporary service and copies of accounts[^key-829b41e87299710d8d2e4469ec40379f]
+### 6. Temporary service and copies of accounts[^c-829b41e87299710d8d2e4469ec40379f]
 
 (1) The IPCC may make arrangements with the Commissioners under which officers are engaged on temporary service with the IPCC.
 
 (2) Copies of the statement referred to in paragraph 17(1)(c) of Schedule 2 to the 2002 Act (accounts) shall also be sent to the Treasury.
 
-### 7. General functions of the IPCC in relation to the Commissioners and officers[^key-819bf93d15021a3e2b164c277109ec01]
+### 7. General functions of the IPCC in relation to the Commissioners and officers[^c-819bf93d15021a3e2b164c277109ec01]
 
 (1) The functions of the IPCC in relation to the Commissioners and officers shall be—
 
@@ -207,7 +207,7 @@ These Regulations shall apply for the purpose of conferring functions on the IPC
 
 (7) Nothing in these Regulations shall confer any function on the IPCC in relation to so much of any complaint or conduct matter as relates to the direction and control of HMRC by the Commissioners.
 
-### 8. Reports to the Chancellor of the Exchequer[^key-499a9e6440a4d0dce200af6a8b4618ec]
+### 8. Reports to the Chancellor of the Exchequer[^c-499a9e6440a4d0dce200af6a8b4618ec]
 
 (1) As soon as practicable after the end of each of its financial years, the IPCC shall also make a report to the Chancellor of the Exchequer (“the Chancellor”) on the carrying out of its functions during that year.
 
@@ -243,7 +243,7 @@ lay a copy of the report before Parliament and cause the report to be published.
 
 as the IPCC thinks fit.
 
-### 9. Complaints, matters and persons to which these Regulations apply[^key-4372a19c5f7396eaafbca56905eb3f50]
+### 9. Complaints, matters and persons to which these Regulations apply[^c-4372a19c5f7396eaafbca56905eb3f50]
 
 (1) In these Regulations references to a complaint are references (subject to the following provisions of this regulation) to any complaint about the conduct of a Commissioner or an officer which is made (whether in writing or otherwise) by—
 
@@ -291,17 +291,17 @@ as the IPCC thinks fit.
 - (a) that other person is for the time being designated for the purposes of these Regulations by the IPCC as a person through whom complaints may be made, or is of a description of persons so designated, or
 - (b) the other person has been given, and is able to produce, the written consent to such action, of the person on whose behalf that action is taken.
 
-### 10. Handling of complaints, conduct matters and DSI matters etc[^key-5c4bcf230e3decfa40bd1627a50b2c04]
+### 10. Handling of complaints, conduct matters and DSI matters etc[^c-5c4bcf230e3decfa40bd1627a50b2c04]
 
 These Regulations shall have effect subject to regulation 11 (direction and control matters).
 
-### 11. Direction and control matters[^key-9515a283161385b09af95dfed0c2ab91]
+### 11. Direction and control matters[^c-9515a283161385b09af95dfed0c2ab91]
 
 Nothing in these Regulations shall have effect with respect to so much of any complaint as relates to the direction and control of HMRC by the Commissioners.
 
 ## PART 2 — COMPLAINTS AND MISCONDUCT
 
-### 12. Co-operation, assistance and information[^key-902048d7714b3586737c934026daed30]
+### 12. Co-operation, assistance and information[^c-902048d7714b3586737c934026daed30]
 
 (1) It shall be the duty of the Commissioners to ensure that they are kept informed, in relation to HMRC, about all matters falling within paragraph (2).
 
@@ -319,21 +319,21 @@ Nothing in these Regulations shall have effect with respect to so much of any co
 
 (6) It shall be the duty of the Head of the Home Civil Service and the Commissioners to ensure that a person appointed under regulation 44, 45, 46 or 47 to carry out an investigation is given all such assistance and co-operation in the carrying out of that investigation as that person may reasonably require.
 
-### 13. Disclosure of information[^key-989d4223a7fdefc2cde816ef2f978cc4]
+### 13. Disclosure of information[^c-989d4223a7fdefc2cde816ef2f978cc4]
 
 Where the IPCC, or any person acting on its behalf, obtains information in the course of performing a function under these Regulations, that information may not be disclosed except as permitted under these Regulations or as otherwise prescribed by law.
 
-### 14. Use of information[^key-0773c623853f314260873c04a501daf8]
+### 14. Use of information[^c-0773c623853f314260873c04a501daf8]
 
 Where the IPCC or any person acting on its behalf, obtains information in the course of performing a function under these Regulations, that information may not be used for any purpose other than in the performance of a function under these Regulations or as otherwise prescribed by law.
 
-### 15. Payments[^key-27ad63f361bb619017e2fdc1c8abcfe6]
+### 15. Payments[^c-27ad63f361bb619017e2fdc1c8abcfe6]
 
 (1) The Commissioners shall pay such amount to the Secretary of State in respect of functions performed by the IPCC under these Regulations as may be agreed between the Commissioners and the IPCC.
 
 (2) In the absence of an agreement, the Commissioners shall pay such amount in respect of those functions as the Treasury, after consultation with the Secretary of State, shall determine.
 
-### 16. Payment for assistance with investigations[^key-f2c3dbd1e18d38c8c20296f63da0e28d]
+### 16. Payment for assistance with investigations[^c-f2c3dbd1e18d38c8c20296f63da0e28d]
 
 (1) This regulation applies where—
 
@@ -370,7 +370,7 @@ Where the IPCC or any person acting on its behalf, obtains information in the co
 
 ## PART 3 — HANDLING OF COMPLAINTS AND CONDUCT MATTERS ETC
 
-### 17. Duties to preserve evidence relating to complaints[^key-ceca157b9f092a8537b67d4827e5ddbf]
+### 17. Duties to preserve evidence relating to complaints[^c-ceca157b9f092a8537b67d4827e5ddbf]
 
 (1) This regulation applies where condition A or B is met.
 
@@ -392,7 +392,7 @@ Where the IPCC or any person acting on its behalf, obtains information in the co
 
 (7) It shall be the duty of the appropriate authority to take all such specific steps for obtaining or preserving evidence relating to any conduct that is the subject-matter of a complaint as it may be directed by the IPCC to take for the purposes of this regulation.
 
-### 18. Delegation of powers and duties[^key-548e27993b819eff37e13bb84f146dbc]
+### 18. Delegation of powers and duties[^c-548e27993b819eff37e13bb84f146dbc]
 
 (1) Subject to paragraph (3), the appropriate authority may delegate all or any of the powers or duties conferred or imposed on it by or under these Regulations to a person mentioned in paragraph (2).
 
@@ -404,7 +404,7 @@ Where the IPCC or any person acting on its behalf, obtains information in the co
 
 (3) The appropriate authority shall not, in any particular case, delegate any power or duty under paragraph (1) to a person who has acted as investigating officer in that case.
 
-### 19. Initial handling and recording of complaints[^key-a4fb7e929f29d717ce8fc50c07cb1344]
+### 19. Initial handling and recording of complaints[^c-a4fb7e929f29d717ce8fc50c07cb1344]
 
 (1) Where a complaint is made to the IPCC—
 
@@ -440,7 +440,7 @@ the appropriate authority shall record the complaint.
 - (a) that person is satisfied that the subject-matter of the complaint has been, or is already being, dealt with by means of criminal or disciplinary proceedings against the person whose conduct it was, or
 - (b) the complaint has been withdrawn.
 
-### 20. Keeping of records[^key-766a3241dd1f7f2bccda87d652ec1d99]
+### 20. Keeping of records[^c-766a3241dd1f7f2bccda87d652ec1d99]
 
 The appropriate authority shall keep records, in such form as the IPCC shall determine, of—
 
@@ -449,7 +449,7 @@ The appropriate authority shall keep records, in such form as the IPCC shall det
 - (c) every DSI matter recorded by it under regulation 32 (duty to record DSI matters);
 - (d) every exercise of a power or performance of a duty under these Regulations.
 
-### 21. Failures to notify or record a complaint[^key-9da899b8b5f7587629d56cc6fa2d14b9]
+### 21. Failures to notify or record a complaint[^c-9da899b8b5f7587629d56cc6fa2d14b9]
 
 (1) This regulation applies where anything which is or purports to be a complaint in relation to which regulation 19 (initial handling and recording of complaints) has effect is received by the Head of the Home Civil Service, the Chief Executive or the Commissioners (other than the Chairman, the Chief Executive and the Permanent Secretary) (whether in consequence of having been made directly or of a notification under that regulation).
 
@@ -475,7 +475,7 @@ and it shall be the duty of the Head of the Home Civil Service, the Chief Execut
 - (a) shall give notification both to the Head of the Home Civil Service, the Chief Executive or the Commissioners (other than the Chairman, the Chief Executive and the Permanent Secretary), as the case may be, and to the complainant, of any determination made by it under this regulation, and
 - (b) shall give notification to the complainant of any direction given by it to the Head of the Home Civil Service, the Chief Executive or the Commissioners (other than the Chairman, the Chief Executive and the Permanent Secretary) under this regulation.
 
-### 22. Handling of complaints by the appropriate authority[^key-0b863a3c1412e7bb4d187ac66e7ee2dc]
+### 22. Handling of complaints by the appropriate authority[^c-0b863a3c1412e7bb4d187ac66e7ee2dc]
 
 (1) This regulation applies where a complaint has been recorded by the appropriate authority unless the complaint—
 
@@ -484,7 +484,7 @@ and it shall be the duty of the Head of the Home Civil Service, the Chief Execut
 
 (2) The appropriate authority shall not be required by virtue of any provisions of these Regulations to take any action in relation to the complaint but may handle the complaint in whatever manner it thinks fit, or take no action in relation to the complaint.
 
-### 23. Conduct matters arising in civil proceedings[^key-d640d8c24a99bce7617c0941e43a3190]
+### 23. Conduct matters arising in civil proceedings[^c-d640d8c24a99bce7617c0941e43a3190]
 
 (1) This regulation applies where—
 
@@ -510,7 +510,7 @@ and it shall be the duty of the Head of the Home Civil Service, the Chief Execut
 - (a) they relate to such a matter, or
 - (b) they are proceedings that relate to a matter in relation to which a conduct matter, or evidence of a conduct matter, is or may be relevant.
 
-### 24. Recording etc. of conduct matters in other cases[^key-d0d42f91a482b3f3cd690f81ecdbe1a0]
+### 24. Recording etc. of conduct matters in other cases[^c-d0d42f91a482b3f3cd690f81ecdbe1a0]
 
 (1) Where—
 
@@ -549,7 +549,7 @@ it shall be the duty of the appropriate authority to record that matter.
 
 the IPCC may direct the appropriate authority to record that matter; and it shall be the duty of that authority to comply with the direction.
 
-### 25. Duties to preserve evidence relating to conduct matters[^key-a729e134062e76e04bc081be84beeb1b]
+### 25. Duties to preserve evidence relating to conduct matters[^c-a729e134062e76e04bc081be84beeb1b]
 
 (1) Where the appropriate authority becomes aware of any recordable matter relating to the conduct of an individual, it shall be the duty of that authority to take all such steps as appear to it to be appropriate for the purposes of these Regulations for obtaining and preserving the evidence relating to that matter.
 
@@ -559,13 +559,13 @@ the IPCC may direct the appropriate authority to record that matter; and it shal
 
 (4) It shall be the duty of the appropriate authority to take all such specific steps for obtaining or preserving evidence relating to any recordable conduct matter, as it may be directed by the IPCC to take for the purposes of these Regulations.
 
-### 26. Complaints against a person who has subsequently ceased to serve with HMRC[^key-6c6bc8e929610b12cf4bf8275c2ffbe8]
+### 26. Complaints against a person who has subsequently ceased to serve with HMRC[^c-6c6bc8e929610b12cf4bf8275c2ffbe8]
 
 Where a complaint or conduct matter relates to the conduct of a person who has ceased to be a Commissioner or an officer since the time of the conduct, these Regulations shall apply in relation to such person as if they did not include any requirement for an appropriate authority to determine whether disciplinary proceedings should be brought against a person whose conduct is reported to the appropriate authority.
 
 ## PART 4 — REFERRAL OF MATTERS TO THE IPCC
 
-### 27. Recording and reference of conduct and DSI matters[^key-97d94fc1fbaee6bb2216c17bd60f469e]
+### 27. Recording and reference of conduct and DSI matters[^c-97d94fc1fbaee6bb2216c17bd60f469e]
 
 (1) Any conduct matter which is required to be referred to the IPCC shall be referred in such manner as the IPCC specifies and—
 
@@ -577,7 +577,7 @@ Where a complaint or conduct matter relates to the conduct of a person who has c
 - (a) in a case where the IPCC directs that the matter be referred to it, within time limits defined in guidance issued by the IPCC, but no later than the end of the day following the day on which the IPCC so directs;
 - (b) in any other case, within time limits defined in guidance issued by the IPCC, but no later than the end of the day following the day on which the matter first comes to the attention of the appropriate authority.
 
-### 28. Reference of complaints to the IPCC[^key-8f3a16136f04f21f3270ff1e62d43611]
+### 28. Reference of complaints to the IPCC[^c-8f3a16136f04f21f3270ff1e62d43611]
 
 (1) It shall be the duty of the appropriate authority to refer a complaint to the IPCC where the complaint is—
 
@@ -637,7 +637,7 @@ shall each be exercisable at any time irrespective of whether the complaint is a
 - (a) shall not be required to be referred again under this regulation unless the IPCC so directs, and
 - (b) shall not be referred in exercise of any power conferred by this regulation unless the IPCC consents.
 
-### 29. Duties of the IPCC on references under regulation 28[^key-ac605dc6cf2c1c1d70633494a8325824]
+### 29. Duties of the IPCC on references under regulation 28[^c-ac605dc6cf2c1c1d70633494a8325824]
 
 (1) It shall be the duty of the IPCC, in the case of every complaint referred to it by the appropriate authority, to determine whether or not it is necessary for the complaint to be investigated.
 
@@ -650,7 +650,7 @@ shall each be exercisable at any time irrespective of whether the complaint is a
 - (a) to the complainant, and
 - (b) to the person complained against.
 
-### 30. Reference of conduct matters to the IPCC[^key-3503b689638b4c7ff9171d00bfce630f]
+### 30. Reference of conduct matters to the IPCC[^c-3503b689638b4c7ff9171d00bfce630f]
 
 (1) It shall be the duty of the appropriate authority to refer a recordable conduct matter to the IPCC (whether or not the case falls within regulation 23), if—
 
@@ -707,7 +707,7 @@ it shall give a notification of the making of the reference to the person to who
 - (a) shall not be required to be referred again under this regulation unless the IPCC so directs, and
 - (b) shall not be referred in exercise of any power conferred by this regulation unless the IPCC consents.
 
-### 31. Duties of the IPCC on references under regulation 30[^key-8f21433c1fe9e5e078a1db65c8c8374b]
+### 31. Duties of the IPCC on references under regulation 30[^c-8f21433c1fe9e5e078a1db65c8c8374b]
 
 (1) It shall be the duty of the IPCC, in the case of every recordable conduct matter referred to it by the appropriate authority under regulation 30, to determine whether or not it is necessary for the matter to be investigated.
 
@@ -722,7 +722,7 @@ the IPCC shall give a notification of the making of the reference to the person 
 
 ## PART 5 — HANDLING DEATH AND SERIOUS INJURY (DSI)
 
-### 32. Duty to record DSI matters[^key-7ca3223c7fd5eec38fb6306d0fd6d09a]
+### 32. Duty to record DSI matters[^c-7ca3223c7fd5eec38fb6306d0fd6d09a]
 
 (1) Where a DSI matter comes to the attention of the appropriate authority, it shall be the duty of the appropriate authority to record that matter.
 
@@ -733,7 +733,7 @@ the IPCC shall give a notification of the making of the reference to the person 
 
 the IPCC may direct the appropriate authority to record that matter; and it shall be the duty of that authority to comply with the direction.
 
-### 33. Duty to preserve evidence relating to DSI matters[^key-320d74e6052a75e5cbd628161e190afc]
+### 33. Duty to preserve evidence relating to DSI matters[^c-320d74e6052a75e5cbd628161e190afc]
 
 (1) Where a DSI matter comes to the attention of the appropriate authority it shall be the duty of that authority to take all such steps as appear to it to be appropriate for the purposes of these Regulations for obtaining and preserving evidence relating to that matter.
 
@@ -743,7 +743,7 @@ the IPCC may direct the appropriate authority to record that matter; and it shal
 
 (4) It shall be the duty of the appropriate authority to take all such specific steps for obtaining or preserving evidence relating to any DSI matter as it may be directed to take for the purposes of this regulation by the IPCC.
 
-### 34. Reference of DSI matters to the IPCC[^key-2243e800aa0412894732646aa7421b13]
+### 34. Reference of DSI matters to the IPCC[^c-2243e800aa0412894732646aa7421b13]
 
 (1) It shall be the duty of the appropriate authority to refer a DSI matter to the IPCC.
 
@@ -751,13 +751,13 @@ the IPCC may direct the appropriate authority to record that matter; and it shal
 
 (3) A matter that has already been referred to the IPCC under this regulation on a previous occasion shall not be required to be referred again under this regulation unless the IPCC so directs.
 
-### 35. Duties of IPCC on references under regulation 34[^key-0228a7ffdc1294fc50092930583fa692]
+### 35. Duties of IPCC on references under regulation 34[^c-0228a7ffdc1294fc50092930583fa692]
 
 (1) It shall be the duty of the IPCC, in the case of every DSI matter referred to it by the appropriate authority, to determine whether or not it is necessary for the matter to be investigated.
 
 (2) Where the IPCC determines under this regulation that it is not necessary for a DSI matter to be investigated, it may if it thinks fit refer the matter back to the appropriate authority to be dealt with by it in such manner (if any) as the appropriate authority may determine.
 
-### 36. Procedure where conduct matter is revealed during investigation of DSI matter[^key-206aea828b97e0419d69668f47a6c05f]
+### 36. Procedure where conduct matter is revealed during investigation of DSI matter[^c-206aea828b97e0419d69668f47a6c05f]
 
 (1) If during the course of an investigation of a DSI matter it appears to a person designated under regulation 47 or 48 or appointed to undertake an investigation under the management of the IPCC under regulation 46, that there is an indication that the person whose conduct is in question may have—
 
@@ -798,7 +798,7 @@ it shall record the matter under regulation 24 (recording etc of conduct matters
 
 ## PART 6 — INVESTIGATIONS
 
-### 37. Inspections of HMRC premises on behalf of the IPCC[^key-c64d4558b078652ef246dec390080355]
+### 37. Inspections of HMRC premises on behalf of the IPCC[^c-c64d4558b078652ef246dec390080355]
 
 (1) Where—
 
@@ -831,7 +831,7 @@ in that person’s capacity as a constable or as a person with the powers and pr
 
 - (b) the obligations of the Commissioners under regulations 12 (co-operation, assistance and information) and 53 (provision of information to the IPCC).
 
-### 38. Power of the IPCC to determine the form of an investigation[^key-c248adf7743e580121c414b9abf94bf3]
+### 38. Power of the IPCC to determine the form of an investigation[^c-c248adf7743e580121c414b9abf94bf3]
 
 (1) This regulation applies where—
 
@@ -866,7 +866,7 @@ such directions as it considers appropriate for the purpose of giving effect to 
 
 (9) The IPCC shall notify the appropriate authority of any determination that it makes under this regulation in relation to a particular complaint or recordable conduct matter or DSI matter.
 
-### 39. Appointment of persons to carry out investigations[^key-37732595dc6cf247651c950dfc8d4990]
+### 39. Appointment of persons to carry out investigations[^c-37732595dc6cf247651c950dfc8d4990]
 
 No person shall be appointed to carry out an investigation under regulation 44, 45, 46 or 47—
 
@@ -874,7 +874,7 @@ No person shall be appointed to carry out an investigation under regulation 44, 
 - (b) if that person’s involvement could reasonably give rise to a concern as to whether that person could act impartially under these Regulations; or
 - (c) if that person works, directly or indirectly, under the management of the person whose conduct is being investigated.
 
-### 40. Power of the IPCC to impose requirements in relation to an investigation which it is supervising[^key-f300a5d2ec749184e3e35f4f7f193930]
+### 40. Power of the IPCC to impose requirements in relation to an investigation which it is supervising[^c-f300a5d2ec749184e3e35f4f7f193930]
 
 (1) For the purposes of regulation 45(6) the requirements which may be imposed by the IPCC on a person appointed to investigate a complaint, recordable conduct matter or DSI matter are, subject to paragraphs (2) and (3), any reasonable requirements as to the conduct of the investigation as appear to the IPCC to be necessary.
 
@@ -887,7 +887,7 @@ to the imposition of any such requirement.
 
 (3) The IPCC shall not, under paragraph (1), impose any requirement relating to the resources to be made available by the appropriate authority, for the purposes of an investigation, without first consulting it and having regard to any representations it may make.
 
-### 41. Combining and splitting investigations[^key-6e88c505ca933a77bfa7e1912f76bcc7]
+### 41. Combining and splitting investigations[^c-6e88c505ca933a77bfa7e1912f76bcc7]
 
 (1) An appropriate authority which is carrying out an investigation on its own behalf may—
 
@@ -910,7 +910,7 @@ if it considers that it is more efficient and effective, or is otherwise in the 
 - (a) that where an investigation is split into two or more separate investigations, those investigations may take different forms, or
 - (b) that two or more separate investigations which take different forms (including an investigation being carried out by the appropriate authority on its own behalf) may be combined into a single investigation.
 
-### 42. Power of the IPCC to discontinue an investigation[^key-74eec92471148d66244d2cccf9c32961]
+### 42. Power of the IPCC to discontinue an investigation[^c-74eec92471148d66244d2cccf9c32961]
 
 (1) If, following a determination under regulation 29 (duties of the IPCC on reference under regulation 28), 31 (duties of the IPCC on reference under regulation 30) or 35 (duties of the IPCC on reference under regulation 34), it appears at any time to the IPCC (whether on an application by the appropriate authority or otherwise) that a complaint or matter that is being investigated—
 
@@ -976,7 +976,7 @@ is of a description of complaint or matter specified in paragraph (5), the IPCC 
 - (b) where the investigation concerned a complaint, to dispense with the requirements of these Regulations as respects that complaint;
 - (c) to handle the matter in whatever manner it thinks fit.
 
-### 43. Withdrawn and discontinued complaints[^key-0f0f689d9d0dd7eea105ed40a2b8581e]
+### 43. Withdrawn and discontinued complaints[^c-0f0f689d9d0dd7eea105ed40a2b8581e]
 
 (1) If an appropriate authority receives from a complainant notification in writing signed by the complainant or by a solicitor or other authorised agent on the complainant’s behalf to the effect either—
 
@@ -1046,7 +1046,7 @@ the IPCC shall consider whether it is in the public interest for that determinat
 - (a) might prejudice any criminal investigation or pending proceedings, or
 - (b) would be contrary to the public interest.
 
-### 44. Investigations by the appropriate authority on its own behalf[^key-3de67261c5a36a40a6fb4ae6b9f4cf71]
+### 44. Investigations by the appropriate authority on its own behalf[^c-3de67261c5a36a40a6fb4ae6b9f4cf71]
 
 (1) This regulation applies where the appropriate authority is required by virtue of any determination made by the IPCC under regulation 38 (power of the IPCC to determine the form of an investigation) to make arrangements for a complaint or recordable conduct matter or DSI matter to be investigated by the appropriate authority on its own behalf.
 
@@ -1054,7 +1054,7 @@ the IPCC shall consider whether it is in the public interest for that determinat
 
 (3) The person to be appointed under this regulation to investigate any DSI matter in relation to which the relevant officer is the Chairman, the Chief Executive or the Permanent Secretary for Tax is the Head of the Home Civil Service.
 
-### 45. Investigations supervised by the IPCC[^key-9adafd1e904d1d05a970bc0441225d24]
+### 45. Investigations supervised by the IPCC[^c-9adafd1e904d1d05a970bc0441225d24]
 
 (1) This regulation applies where the IPCC has determined that it should supervise the investigation by the appropriate authority of any complaint or recordable conduct matter or DSI matter.
 
@@ -1071,7 +1071,7 @@ the IPCC shall consider whether it is in the public interest for that determinat
 
 (6) The person appointed to investigate the complaint or matter shall comply with all the requirements of regulation 40.
 
-### 46. Investigation by a police force under the management or under the supervision of the IPCC[^key-91adc000743cb4475f60869677bf9065]
+### 46. Investigation by a police force under the management or under the supervision of the IPCC[^c-91adc000743cb4475f60869677bf9065]
 
 (1) This regulation applies where the IPCC determines that there should be an investigation by a police force under the management or supervision of the IPCC.
 
@@ -1096,7 +1096,7 @@ to the appointment by the IPCC of that force to carry out the investigation.
 
 (8) The person appointed to investigate the complaint or matter shall comply with all such requirements in relation to the carrying out of that investigation as may be imposed by these Regulations.
 
-### 47. Investigations managed by the IPCC[^key-02330acc9f391c0efcf7a52a22967ddf]
+### 47. Investigations managed by the IPCC[^c-02330acc9f391c0efcf7a52a22967ddf]
 
 (1) This regulation applies where the IPCC has determined that it should manage the investigation by the appropriate authority of any complaint or recordable conduct matter or DSI matter.
 
@@ -1104,7 +1104,7 @@ to the appointment by the IPCC of that force to carry out the investigation.
 
 (3) The person appointed to investigate the complaint or matter shall, in relation to that investigation, be under the direction and control of the IPCC.
 
-### 48. Investigations by the IPCC itself[^key-b4adf1bb28462097e59fc2937438f445]
+### 48. Investigations by the IPCC itself[^c-b4adf1bb28462097e59fc2937438f445]
 
 (1) This regulation applies where the IPCC has determined that it should itself carry out the investigation of a complaint or recordable conduct matter or DSI matter.
 
@@ -1132,7 +1132,7 @@ shall, for the purposes of the carrying out of the investigation and all purpose
 
 (6) In this regulation “United Kingdom waters” means the sea and other waters within the seaward limits of the United Kingdom’s territorial sea.
 
-### 49. Relinquishing the IPCC’s supervision or management of an investigation[^key-0c123950a01a7c9004646a27775a52f6]
+### 49. Relinquishing the IPCC’s supervision or management of an investigation[^c-0c123950a01a7c9004646a27775a52f6]
 
 (1) This regulation applies where the IPCC —
 
@@ -1146,7 +1146,7 @@ shall, for the purposes of the carrying out of the investigation and all purpose
 
 (3) But nothing in paragraph (2)(a) shall require the IPCC to make a notification to the person complained against if it is of the opinion that that might prejudice any criminal investigation or pending proceedings or would be contrary to the public interest.
 
-### 50. Circumstances in which an investigation or other procedure may be suspended[^key-6838cefc7e8ea6b484f48496fff02d6e]
+### 50. Circumstances in which an investigation or other procedure may be suspended[^c-6838cefc7e8ea6b484f48496fff02d6e]
 
 (1) Subject to the provisions of this regulation, proceedings under these Regulations shall proceed without delay.
 
@@ -1164,7 +1164,7 @@ shall, for the purposes of the carrying out of the investigation and all purpose
 
 (8) The IPCC shall consult the appropriate authority before making such a direction.
 
-### 51. Resumption of investigation after criminal proceedings[^key-22499b233f8197f2c76b0ae2e682ae62]
+### 51. Resumption of investigation after criminal proceedings[^c-22499b233f8197f2c76b0ae2e682ae62]
 
 (1) Where the whole or part of the investigation of a complaint has been suspended until the conclusion of criminal proceedings, and after the conclusion of those proceedings the complainant has failed to express the wish for the investigation to start or to be resumed, the IPCC or, as the case may be, the appropriate authority, shall take the steps set out in paragraph (2).
 
@@ -1182,7 +1182,7 @@ shall, for the purposes of the carrying out of the investigation and all purpose
 
 (8) But nothing in paragraph (7) shall require the IPCC or the appropriate authority to make a notification if it is of the opinion that that might prejudice any criminal investigation or pending proceedings or would be contrary to the public interest.
 
-### 52. Restrictions on proceedings pending the conclusion of an investigation[^key-fe1ee38984a3411e256890e2fb5c2af6]
+### 52. Restrictions on proceedings pending the conclusion of an investigation[^c-fe1ee38984a3411e256890e2fb5c2af6]
 
 (1) No criminal or disciplinary proceedings shall be brought in relation to any matter which falls to be determined under these Regulations until a report on that investigation has been submitted to the IPCC or to the appropriate authority under regulation 66 (final reports on investigations: complaints, conduct matters and certain DSI matters) or 69 (final reports on investigations: other DSI matters).
 
@@ -1192,7 +1192,7 @@ shall, for the purposes of the carrying out of the investigation and all purpose
 
 ## PART 7 — PROVISION OF INFORMATION
 
-### 53. Provision of information to the IPCC[^key-d6c5340cdcdc87473bd9f250b3d37950]
+### 53. Provision of information to the IPCC[^c-d6c5340cdcdc87473bd9f250b3d37950]
 
 (1) It shall be the duty of the Commissioners at such times, in such circumstances and in accordance with such other requirements as may be set out in these Regulations, to provide the IPCC with all such information and documents as may be specified or described in these Regulations.
 
@@ -1215,7 +1215,7 @@ as appear to the IPCC to be required by it for the purposes of the carrying out 
 
 (5) A requirement imposed under this regulation may authorise or require information or documents to which it relates to be provided to the IPCC electronically.
 
-### 54. Duty to keep the complainant informed[^key-9c4952c10aa07a02988848d880be45a7]
+### 54. Duty to keep the complainant informed[^c-9c4952c10aa07a02988848d880be45a7]
 
 (1) Subject to regulation 60, in any case in which there is an investigation of a complaint in accordance with the provisions of these Regulations—
 
@@ -1243,7 +1243,7 @@ it shall be the duty of the appropriate authority to provide the complainant wit
 
 (5) It shall be the duty of a person appointed to carry out an investigation under these Regulations to provide the IPCC or, as the case may be, the appropriate authority, with all such information as the IPCC or that authority may reasonably require for the purpose of performing its duty under this regulation.
 
-### 55. Duty to provide information for other persons[^key-d082100c6a5e61e8baf2ceca2097a93b]
+### 55. Duty to provide information for other persons[^c-d082100c6a5e61e8baf2ceca2097a93b]
 
 (1) A person has an interest in being kept properly informed about the handling of a complaint or recordable conduct matter or DSI matter which is the subject of an investigation in accordance with the provisions of these Regulations if—
 
@@ -1302,7 +1302,7 @@ it shall be the duty of the appropriate authority to provide the interested pers
 
 (13) In this regulation “relative” means any spouse, partner, parent or adult child.
 
-### 56. Written notices[^key-01aef1a7ecdbc11974e9f3d29cc5745c]
+### 56. Written notices[^c-01aef1a7ecdbc11974e9f3d29cc5745c]
 
 (1) If during the course of an investigation of a complaint or matter which falls to be determined under these Regulations it appears to the person investigating that there is an indication that the person whose conduct is in question may have—
 
@@ -1335,7 +1335,7 @@ the person investigating the complaint or matter must give a notification to the
   - (ii) includes such a document containing suggestions as to lines of inquiry to be pursued or witness to be interviewed;
 - (b) “relevant statement” means an oral or written statement relating to any complaint or matter under investigation.
 
-### 57. Duty to consider submissions from the person whose conduct is in question[^key-27a90abdf22d8ce421e09a369633ce81]
+### 57. Duty to consider submissions from the person whose conduct is in question[^c-27a90abdf22d8ce421e09a369633ce81]
 
 (1) This regulation applies where a notification under regulation 56 (written notices) has been issued to the person whose conduct is in question.
 
@@ -1346,7 +1346,7 @@ the person investigating the complaint or matter must give a notification to the
 
 the person investigating must consider the statement or document.
 
-### 58. Duty to provide certain information to the appropriate authority[^key-8526a61895783dc5b59e0f095378eed0]
+### 58. Duty to provide certain information to the appropriate authority[^c-8526a61895783dc5b59e0f095378eed0]
 
 (1) This regulation applies during the course of an investigation under these Regulations.
 
@@ -1354,7 +1354,7 @@ the person investigating must consider the statement or document.
 
 (3) That purpose is determining whether the person whose conduct is in question should be, or should remain, suspended from duty.
 
-### 59. Manner in which duties to provide information to the complainant are to be performed[^key-5ee088b73ccf3441fed803c64a60af41]
+### 59. Manner in which duties to provide information to the complainant are to be performed[^c-5ee088b73ccf3441fed803c64a60af41]
 
 (1) For the purposes of regulations 54(4) (duty to keep the complainant informed) and 55(10) (duty to provide information for other persons), the manner in which the IPCC or, as the case may be, an appropriate authority, shall perform the duties imposed by those regulations is as follows.
 
@@ -1385,7 +1385,7 @@ the person investigating must consider the statement or document.
 
 (8) If the IPCC or, as the case may be, the appropriate authority, considers that an investigation has made minimal or no progress since the previous notification, then the next notification may be made by any means that in the opinion of the IPCC or, as the case may be, the appropriate authority, is suitable.
 
-### 60. Exceptions to the duty to keep the complainant informed and to provide information for other persons[^key-1de54a68fd5b12ebc76eaa4d003af8e1]
+### 60. Exceptions to the duty to keep the complainant informed and to provide information for other persons[^c-1de54a68fd5b12ebc76eaa4d003af8e1]
 
 (1) Subject to paragraph (2), the duties mentioned in regulation 54(1) and (2) (duty to keep the complainant informed), regulation 55(7) and (8) (duty to provide information for other persons) and in regulations 67(11) and 68(12) shall not apply in circumstances where in the opinion of the IPCC, or, as the case may be, of the appropriate authority, the non-disclosure of information is necessary for the purpose of—
 
@@ -1415,7 +1415,7 @@ the person investigating must consider the statement or document.
 - (c) the disclosure of that information may prejudice the welfare or safety of any third party;
 - (d) that information constitutes criminal intelligence.
 
-### 61. Copies of complaints etc.[^key-49efcfb831ecd9b282ded023a6804a04]
+### 61. Copies of complaints etc.[^c-49efcfb831ecd9b282ded023a6804a04]
 
 (1) Where a complaint is recorded under regulation 19(6) (initial handling and recording of complaints), the appropriate authority shall—
 
@@ -1431,7 +1431,7 @@ the person investigating must consider the statement or document.
 
 (4) Where the appropriate authority decides not to supply such a copy, it shall keep that decision under regular review.
 
-### 62. Notification of actions and decisions[^key-60bfd61f87432f79e358d8e5d00df61c]
+### 62. Notification of actions and decisions[^c-60bfd61f87432f79e358d8e5d00df61c]
 
 (1) So far as not covered by regulation 67(11) and (12) and regulation 74(11) and (12) (appeals to the IPCC with respect to an investigation), where the IPCC takes any action or decisions in consequence of it having received a memorandum under regulation 67(9) or regulation 74(3), it shall notify such action or decisions, together with an explanation of its reasons for having taken them, to—
 
@@ -1441,7 +1441,7 @@ the person investigating must consider the statement or document.
 
 (2) The IPCC may decide not to give such a notification and explanation to the person complained against if it is of the opinion that that notification might prejudice any criminal investigation, pending proceedings, or review of the complaint.
 
-### 63. Information for complainant about disciplinary recommendations[^key-b1f40e6f337b9aa8c161869ad22b980d]
+### 63. Information for complainant about disciplinary recommendations[^c-b1f40e6f337b9aa8c161869ad22b980d]
 
 (1) Where—
 
@@ -1462,7 +1462,7 @@ it shall be the duty of the IPCC to determine what further steps (if any) to tak
 - (a) of any determination under paragraph (2) not to take further steps under regulation 71; and
 - (b) where it determines under that paragraph to take further steps under that regulation, of the outcome of the taking of those steps.
 
-### 64. Register to be kept by the IPCC[^key-18c83703e5d6c93a7b0160c4fe054787]
+### 64. Register to be kept by the IPCC[^c-18c83703e5d6c93a7b0160c4fe054787]
 
 (1) The IPCC shall establish and maintain a register of all information supplied to it by the appropriate authority under these Regulations.
 
@@ -1474,7 +1474,7 @@ it shall be the duty of the IPCC to determine what further steps (if any) to tak
 
 (3) Information may not be published or disclosed in circumstances where in the opinion of the IPCC the non-disclosure of information is necessary for the purposes mentioned in regulation 60(1)(a) and (b) (exceptions to the duty to keep the complainant informed and to provide information for other persons).
 
-### 65. Manner and time limits of notifications[^key-797b873f2c4cb5b843c913abdb92223d]
+### 65. Manner and time limits of notifications[^c-797b873f2c4cb5b843c913abdb92223d]
 
 (1) Any notification to be given under these Regulations shall—
 
@@ -1485,7 +1485,7 @@ it shall be the duty of the IPCC to determine what further steps (if any) to tak
 
 ## PART 8 — REPORTS AND RECOMMENDATIONS
 
-### 66. Final reports on investigations: complaints, conduct matters and certain DSI matters[^key-3bd4b485b6dfb7e107e3c89607f98ea2]
+### 66. Final reports on investigations: complaints, conduct matters and certain DSI matters[^c-3bd4b485b6dfb7e107e3c89607f98ea2]
 
 (1) This regulation applies on the completion of an investigation of—
 
@@ -1520,7 +1520,7 @@ it shall be the duty of the IPCC to determine what further steps (if any) to tak
 - (a) complying with any obligation which the authority has under the disciplinary proceedings in relation to any person whose conduct is the subject-matter of the investigation;
 - (b) ensuring that any such officer (a person whose conduct is in question) receives a fair hearing at any disciplinary proceedings in respect of any such conduct of that officer.
 
-### 67. Action by the IPCC in response to an investigation report under regulation 66[^key-180afd99fbd211b53964177a22ed2ec2]
+### 67. Action by the IPCC in response to an investigation report under regulation 66[^c-180afd99fbd211b53964177a22ed2ec2]
 
 (1) This regulation applies where—
 
@@ -1582,7 +1582,7 @@ it shall be the duty of the IPCC to determine what further steps (if any) to tak
 
 (15) In relation to a DSI matter in respect of which a determination has been made under regulation 36(2) or (4) (procedure where conduct matter is revealed during the investigation of a DSI matter), the references in this regulation to the appropriate authority are references to the appropriate authority in relation to the person whose conduct is in question.
 
-### 68. Action by the appropriate authority in response to an investigation report under regulation 66[^key-d2f7b8d5003e88a91c1888af6fcb18e2]
+### 68. Action by the appropriate authority in response to an investigation report under regulation 66[^c-d2f7b8d5003e88a91c1888af6fcb18e2]
 
 (1) This regulation applies where—
 
@@ -1641,7 +1641,7 @@ it shall be the duty of the IPCC to determine what further steps (if any) to tak
 
 (16) In relation to a DSI matter in respect of which a determination has been made under regulation 36(2) or (4), the references in this regulation to the appropriate authority are references to the appropriate authority in relation to the person whose conduct is in question.
 
-### 69. Final reports on investigations: other DSI matters[^key-54f5c8266d858d0ff2e12cc20ec51bab]
+### 69. Final reports on investigations: other DSI matters[^c-54f5c8266d858d0ff2e12cc20ec51bab]
 
 (1) This regulation applies on the completion of an investigation of a DSI matter in respect of which neither the IPCC nor the appropriate authority has made a determination under regulation 36(2) or (4) (procedure where conduct matter is revealed during investigation of DSI matter).
 
@@ -1652,7 +1652,7 @@ it shall be the duty of the IPCC to determine what further steps (if any) to tak
 
 (3) A person submitting a report under this regulation shall not be prevented by any obligation of secrecy imposed by any rule of law or otherwise from including all such matters in that report as that person thinks fit.
 
-### 70. Action by the IPCC in response to an investigation report under regulation 69[^key-c03129534cd7cafe583b57dd6dd3ef8e]
+### 70. Action by the IPCC in response to an investigation report under regulation 69[^c-c03129534cd7cafe583b57dd6dd3ef8e]
 
 (1) On receipt of the report referred to in regulation 69, the IPCC shall determine whether the report indicates that an officer may have—
 
@@ -1682,7 +1682,7 @@ it shall notify the appropriate authority in relation to the person whose conduc
 - (a) the person investigating the DSI matter shall (subject to any determination made by the IPCC under regulation 38(6) (power of the IPCC to determine the form of an investigation – further determination)) investigate the conduct matter as if appointed or designated to do so, and
 - (b) the other provisions of these Regulations shall apply in relation to that matter accordingly.
 
-### 71. Duties with respect to disciplinary proceedings[^key-c663974c09296fe7edec929b4bb35402]
+### 71. Duties with respect to disciplinary proceedings[^c-c663974c09296fe7edec929b4bb35402]
 
 (1) This regulation applies where, in the case of any investigation, the appropriate authority—
 
@@ -1720,7 +1720,7 @@ and it shall be the duty of the appropriate authority to notify the IPCC whether
 - (a) in a case in which this regulation applies by virtue of paragraph (1)(b), of whatever action it takes in pursuance of its duty under paragraph (2); and
 - (b) in every case of a recommendation or direction under this regulation, of whatever action it takes in response to that recommendation or direction.
 
-### 72. Complaints against a person whose identity is unascertained[^key-67ac751f3d11c9652b71a432513abd95]
+### 72. Complaints against a person whose identity is unascertained[^c-67ac751f3d11c9652b71a432513abd95]
 
 (1) Where a complaint or conduct matter relates to the conduct of a person whose identity is unascertained at the time at which the complaint is made or the conduct matter is recorded, or whose identity is not ascertained during or subsequent to, the investigation of the complaint or recordable conduct matter, these Regulations shall apply in relation to such a person as if it did not include—
 
@@ -1732,7 +1732,7 @@ and it shall be the duty of the appropriate authority to notify the IPCC whether
 
 ## PART 9 — APPEALS
 
-### 73. Appeals to the IPCC: failures to notify or record a complaint[^key-8f6c7f5f3c0ff5be67b0f336d1a9c555]
+### 73. Appeals to the IPCC: failures to notify or record a complaint[^c-8f6c7f5f3c0ff5be67b0f336d1a9c555]
 
 (1) An appeal under regulation 21 (failures to notify or record a complaint) against any failure referred to in regulation 21(3) shall be made within 28 days of the date on which notification of that failure is made or sent to the complainant under regulation 21(2).
 
@@ -1759,7 +1759,7 @@ and it shall be the duty of the appropriate authority to notify the IPCC whether
 
 (8) The IPCC may extend the time period mentioned in paragraph (1) in any case where it is satisfied that by reason of the special circumstances of the case it is just to do so.
 
-### 74. Appeals to the IPCC with respect to an investigation[^key-234b4cb5d8ec24a9d0710109922bef41]
+### 74. Appeals to the IPCC with respect to an investigation[^c-234b4cb5d8ec24a9d0710109922bef41]
 
 (1) This regulation applies where a complaint has been subjected to—
 
@@ -1851,7 +1851,7 @@ and it shall be the duty of the appropriate authority to comply with any require
 
 (21) The IPCC may extend the time period mentioned in paragraph (14) in any case where it is satisfied that by reason of the special circumstances of the case it is just to do so.
 
-### 75. Reviews and re-investigations following an appeal[^key-d281122a95b48890eee461f6649fea85]
+### 75. Reviews and re-investigations following an appeal[^c-d281122a95b48890eee461f6649fea85]
 
 (1) On a review under regulation 74(8)(a) (appeals to the IPCC with respect to an investigation) of the findings of an investigation, the powers of the IPCC shall be, according to its determination on that review, to do one or more of the following—
 
@@ -1953,23 +1953,23 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [2005 c. 11](https://www.legislation.gov.uk/ukpga/2005/11).
 
-[^key-2b9d2b84175b7a2f5174f6e7d7da7ed4]: Commencement: Reg. 1 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-2b9d2b84175b7a2f5174f6e7d7da7ed4]: Commencement: Reg. 1 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-9398fc8575f1b3efda0a0626a875faec]: Commencement: Reg. 2 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-9398fc8575f1b3efda0a0626a875faec]: Commencement: Reg. 2 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2005/3311](https://www.legislation.gov.uk/uksi/2005/3311).
 
 [^f00003]: Footnote: [2006/1748](https://www.legislation.gov.uk/uksi/2006/1748).
 
-[^key-6cdd86643420b058c599d3fa16a4914b]: Commencement: Reg. 3 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-6cdd86643420b058c599d3fa16a4914b]: Commencement: Reg. 3 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
 [^f00004]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30). The 2002 Act has been amended by a number of amendments.
 
 [^f00005]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Section 33 has been amended by sections 17(3)(b) and 101(1) of, and Schedule 4 Part II and paragraph 6 of Schedule 12 to, the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53); sections 2(3)(a) and (b) of the Aggravated Vehicle-Taking Act [1992 (c. 11)](https://www.legislation.gov.uk/ukpga/1992/11) ; sections 165 and 168(1) of, and paragraph 65 of Schedule 9 to, the Powers of the Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6).
 
-[^key-83de2720193215f03341c92da55b674c]: Commencement: Reg. 4 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-83de2720193215f03341c92da55b674c]: Commencement: Reg. 4 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-dc0786e0605c011ffbc7d363f46418b4]: Commencement: Reg. 5 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-dc0786e0605c011ffbc7d363f46418b4]: Commencement: Reg. 5 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
 [^f00006]: Footnote: Section 22 has been amended by section 160 of, and paragraphs 1 and 8 of Schedule 12 to, the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15); and section 6(1) of, and paragraph 11 of Schedule 4 to, the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48).
 
@@ -1983,91 +1983,91 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^f00010]: Footnote: Section 24 has been amended by section 6(1) of, and paragraph 12 of Schedule 4 to, the Police and Justice Act 2006.
 
-[^key-829b41e87299710d8d2e4469ec40379f]: Commencement: Reg. 6 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-829b41e87299710d8d2e4469ec40379f]: Commencement: Reg. 6 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-819bf93d15021a3e2b164c277109ec01]: Commencement: Reg. 7 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-819bf93d15021a3e2b164c277109ec01]: Commencement: Reg. 7 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-499a9e6440a4d0dce200af6a8b4618ec]: Commencement: Reg. 8 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-499a9e6440a4d0dce200af6a8b4618ec]: Commencement: Reg. 8 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-4372a19c5f7396eaafbca56905eb3f50]: Commencement: Reg. 9 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-4372a19c5f7396eaafbca56905eb3f50]: Commencement: Reg. 9 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-5c4bcf230e3decfa40bd1627a50b2c04]: Commencement: Reg. 10 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-5c4bcf230e3decfa40bd1627a50b2c04]: Commencement: Reg. 10 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-9515a283161385b09af95dfed0c2ab91]: Commencement: Reg. 11 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-9515a283161385b09af95dfed0c2ab91]: Commencement: Reg. 11 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-902048d7714b3586737c934026daed30]: Commencement: Reg. 12 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-902048d7714b3586737c934026daed30]: Commencement: Reg. 12 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-989d4223a7fdefc2cde816ef2f978cc4]: Commencement: Reg. 13 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-989d4223a7fdefc2cde816ef2f978cc4]: Commencement: Reg. 13 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-0773c623853f314260873c04a501daf8]: Commencement: Reg. 14 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-0773c623853f314260873c04a501daf8]: Commencement: Reg. 14 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-27ad63f361bb619017e2fdc1c8abcfe6]: Commencement: Reg. 15 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-27ad63f361bb619017e2fdc1c8abcfe6]: Commencement: Reg. 15 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-f2c3dbd1e18d38c8c20296f63da0e28d]: Commencement: Reg. 16 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-f2c3dbd1e18d38c8c20296f63da0e28d]: Commencement: Reg. 16 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-ceca157b9f092a8537b67d4827e5ddbf]: Commencement: Reg. 17 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-ceca157b9f092a8537b67d4827e5ddbf]: Commencement: Reg. 17 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-548e27993b819eff37e13bb84f146dbc]: Commencement: Reg. 18 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-548e27993b819eff37e13bb84f146dbc]: Commencement: Reg. 18 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-a4fb7e929f29d717ce8fc50c07cb1344]: Commencement: Reg. 19 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-a4fb7e929f29d717ce8fc50c07cb1344]: Commencement: Reg. 19 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-766a3241dd1f7f2bccda87d652ec1d99]: Commencement: Reg. 20 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-766a3241dd1f7f2bccda87d652ec1d99]: Commencement: Reg. 20 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-9da899b8b5f7587629d56cc6fa2d14b9]: Commencement: Reg. 21 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-9da899b8b5f7587629d56cc6fa2d14b9]: Commencement: Reg. 21 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-0b863a3c1412e7bb4d187ac66e7ee2dc]: Commencement: Reg. 22 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-0b863a3c1412e7bb4d187ac66e7ee2dc]: Commencement: Reg. 22 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-d640d8c24a99bce7617c0941e43a3190]: Commencement: Reg. 23 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-d640d8c24a99bce7617c0941e43a3190]: Commencement: Reg. 23 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-d0d42f91a482b3f3cd690f81ecdbe1a0]: Commencement: Reg. 24 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-d0d42f91a482b3f3cd690f81ecdbe1a0]: Commencement: Reg. 24 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-a729e134062e76e04bc081be84beeb1b]: Commencement: Reg. 25 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-a729e134062e76e04bc081be84beeb1b]: Commencement: Reg. 25 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-6c6bc8e929610b12cf4bf8275c2ffbe8]: Commencement: Reg. 26 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-6c6bc8e929610b12cf4bf8275c2ffbe8]: Commencement: Reg. 26 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-97d94fc1fbaee6bb2216c17bd60f469e]: Commencement: Reg. 27 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-97d94fc1fbaee6bb2216c17bd60f469e]: Commencement: Reg. 27 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-8f3a16136f04f21f3270ff1e62d43611]: Commencement: Reg. 28 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-8f3a16136f04f21f3270ff1e62d43611]: Commencement: Reg. 28 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-ac605dc6cf2c1c1d70633494a8325824]: Commencement: Reg. 29 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-ac605dc6cf2c1c1d70633494a8325824]: Commencement: Reg. 29 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-3503b689638b4c7ff9171d00bfce630f]: Commencement: Reg. 30 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-3503b689638b4c7ff9171d00bfce630f]: Commencement: Reg. 30 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-8f21433c1fe9e5e078a1db65c8c8374b]: Commencement: Reg. 31 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-8f21433c1fe9e5e078a1db65c8c8374b]: Commencement: Reg. 31 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-7ca3223c7fd5eec38fb6306d0fd6d09a]: Commencement: Reg. 32 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-7ca3223c7fd5eec38fb6306d0fd6d09a]: Commencement: Reg. 32 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-320d74e6052a75e5cbd628161e190afc]: Commencement: Reg. 33 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-320d74e6052a75e5cbd628161e190afc]: Commencement: Reg. 33 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-2243e800aa0412894732646aa7421b13]: Commencement: Reg. 34 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-2243e800aa0412894732646aa7421b13]: Commencement: Reg. 34 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-0228a7ffdc1294fc50092930583fa692]: Commencement: Reg. 35 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-0228a7ffdc1294fc50092930583fa692]: Commencement: Reg. 35 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-206aea828b97e0419d69668f47a6c05f]: Commencement: Reg. 36 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-206aea828b97e0419d69668f47a6c05f]: Commencement: Reg. 36 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-c64d4558b078652ef246dec390080355]: Commencement: Reg. 37 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-c64d4558b078652ef246dec390080355]: Commencement: Reg. 37 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-c248adf7743e580121c414b9abf94bf3]: Commencement: Reg. 38 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-c248adf7743e580121c414b9abf94bf3]: Commencement: Reg. 38 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-37732595dc6cf247651c950dfc8d4990]: Commencement: Reg. 39 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-37732595dc6cf247651c950dfc8d4990]: Commencement: Reg. 39 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-f300a5d2ec749184e3e35f4f7f193930]: Commencement: Reg. 40 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-f300a5d2ec749184e3e35f4f7f193930]: Commencement: Reg. 40 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-6e88c505ca933a77bfa7e1912f76bcc7]: Commencement: Reg. 41 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-6e88c505ca933a77bfa7e1912f76bcc7]: Commencement: Reg. 41 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-74eec92471148d66244d2cccf9c32961]: Commencement: Reg. 42 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-74eec92471148d66244d2cccf9c32961]: Commencement: Reg. 42 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-0f0f689d9d0dd7eea105ed40a2b8581e]: Commencement: Reg. 43 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-0f0f689d9d0dd7eea105ed40a2b8581e]: Commencement: Reg. 43 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-3de67261c5a36a40a6fb4ae6b9f4cf71]: Commencement: Reg. 44 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-3de67261c5a36a40a6fb4ae6b9f4cf71]: Commencement: Reg. 44 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-9adafd1e904d1d05a970bc0441225d24]: Commencement: Reg. 45 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-9adafd1e904d1d05a970bc0441225d24]: Commencement: Reg. 45 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-91adc000743cb4475f60869677bf9065]: Commencement: Reg. 46 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-91adc000743cb4475f60869677bf9065]: Commencement: Reg. 46 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-02330acc9f391c0efcf7a52a22967ddf]: Commencement: Reg. 47 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-02330acc9f391c0efcf7a52a22967ddf]: Commencement: Reg. 47 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-b4adf1bb28462097e59fc2937438f445]: Commencement: Reg. 48 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-b4adf1bb28462097e59fc2937438f445]: Commencement: Reg. 48 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
 [^f00011]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16). Section 97(8) has been amended by section 134(1) of, and paragraph 86(4) of Schedule 9 to the Police Act [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50); and sections 102 and 138(2) of, and paragraph 7(3)(b) of Schedule 4 to, the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16).
 
@@ -2075,56 +2075,56 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^f00013]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18). Section 200 has been amended by section 37(2) of, and Schedule 8 to, the 2002 Act.
 
-[^key-0c123950a01a7c9004646a27775a52f6]: Commencement: Reg. 49 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-0c123950a01a7c9004646a27775a52f6]: Commencement: Reg. 49 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-6838cefc7e8ea6b484f48496fff02d6e]: Commencement: Reg. 50 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-6838cefc7e8ea6b484f48496fff02d6e]: Commencement: Reg. 50 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-22499b233f8197f2c76b0ae2e682ae62]: Commencement: Reg. 51 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-22499b233f8197f2c76b0ae2e682ae62]: Commencement: Reg. 51 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-fe1ee38984a3411e256890e2fb5c2af6]: Commencement: Reg. 52 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-fe1ee38984a3411e256890e2fb5c2af6]: Commencement: Reg. 52 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-d6c5340cdcdc87473bd9f250b3d37950]: Commencement: Reg. 53 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-d6c5340cdcdc87473bd9f250b3d37950]: Commencement: Reg. 53 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-9c4952c10aa07a02988848d880be45a7]: Commencement: Reg. 54 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-9c4952c10aa07a02988848d880be45a7]: Commencement: Reg. 54 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-d082100c6a5e61e8baf2ceca2097a93b]: Commencement: Reg. 55 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-d082100c6a5e61e8baf2ceca2097a93b]: Commencement: Reg. 55 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-01aef1a7ecdbc11974e9f3d29cc5745c]: Commencement: Reg. 56 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-01aef1a7ecdbc11974e9f3d29cc5745c]: Commencement: Reg. 56 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-27a90abdf22d8ce421e09a369633ce81]: Commencement: Reg. 57 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-27a90abdf22d8ce421e09a369633ce81]: Commencement: Reg. 57 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-8526a61895783dc5b59e0f095378eed0]: Commencement: Reg. 58 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-8526a61895783dc5b59e0f095378eed0]: Commencement: Reg. 58 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-5ee088b73ccf3441fed803c64a60af41]: Commencement: Reg. 59 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-5ee088b73ccf3441fed803c64a60af41]: Commencement: Reg. 59 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-1de54a68fd5b12ebc76eaa4d003af8e1]: Commencement: Reg. 60 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-1de54a68fd5b12ebc76eaa4d003af8e1]: Commencement: Reg. 60 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-49efcfb831ecd9b282ded023a6804a04]: Commencement: Reg. 61 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-49efcfb831ecd9b282ded023a6804a04]: Commencement: Reg. 61 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-60bfd61f87432f79e358d8e5d00df61c]: Commencement: Reg. 62 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-60bfd61f87432f79e358d8e5d00df61c]: Commencement: Reg. 62 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-b1f40e6f337b9aa8c161869ad22b980d]: Commencement: Reg. 63 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-b1f40e6f337b9aa8c161869ad22b980d]: Commencement: Reg. 63 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-18c83703e5d6c93a7b0160c4fe054787]: Commencement: Reg. 64 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-18c83703e5d6c93a7b0160c4fe054787]: Commencement: Reg. 64 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-797b873f2c4cb5b843c913abdb92223d]: Commencement: Reg. 65 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-797b873f2c4cb5b843c913abdb92223d]: Commencement: Reg. 65 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-3bd4b485b6dfb7e107e3c89607f98ea2]: Commencement: Reg. 66 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-3bd4b485b6dfb7e107e3c89607f98ea2]: Commencement: Reg. 66 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-180afd99fbd211b53964177a22ed2ec2]: Commencement: Reg. 67 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-180afd99fbd211b53964177a22ed2ec2]: Commencement: Reg. 67 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-d2f7b8d5003e88a91c1888af6fcb18e2]: Commencement: Reg. 68 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-d2f7b8d5003e88a91c1888af6fcb18e2]: Commencement: Reg. 68 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-54f5c8266d858d0ff2e12cc20ec51bab]: Commencement: Reg. 69 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-54f5c8266d858d0ff2e12cc20ec51bab]: Commencement: Reg. 69 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-c03129534cd7cafe583b57dd6dd3ef8e]: Commencement: Reg. 70 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-c03129534cd7cafe583b57dd6dd3ef8e]: Commencement: Reg. 70 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-c663974c09296fe7edec929b4bb35402]: Commencement: Reg. 71 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-c663974c09296fe7edec929b4bb35402]: Commencement: Reg. 71 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-67ac751f3d11c9652b71a432513abd95]: Commencement: Reg. 72 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-67ac751f3d11c9652b71a432513abd95]: Commencement: Reg. 72 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-8f6c7f5f3c0ff5be67b0f336d1a9c555]: Commencement: Reg. 73 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-8f6c7f5f3c0ff5be67b0f336d1a9c555]: Commencement: Reg. 73 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-234b4cb5d8ec24a9d0710109922bef41]: Commencement: Reg. 74 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-234b4cb5d8ec24a9d0710109922bef41]: Commencement: Reg. 74 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^key-d281122a95b48890eee461f6649fea85]: Commencement: Reg. 75 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-d281122a95b48890eee461f6649fea85]: Commencement: Reg. 75 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)

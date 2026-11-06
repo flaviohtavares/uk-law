@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 564S. Treatment of bond-holder and bond-issuer[^key-6a966f2dcd1b0675b50531e86befe7a7][^key-02edf3efcbd7ded57c81285042c062af][^M_F_b3dc968b-b3f7-4814-d6f0-a3497583f0e0]
+## 564S. Treatment of bond-holder and bond-issuer[^c-6a966f2dcd1b0675b50531e86befe7a7][^c-02edf3efcbd7ded57c81285042c062af][^M_F_b3dc968b-b3f7-4814-d6f0-a3497583f0e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6a966f2dcd1b0675b50531e86befe7a7]: Modification: S. 564S applied by 2009 c. 10, Sch. 61 para. 2 (as substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 229(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/229/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22)))
+[^c-6a966f2dcd1b0675b50531e86befe7a7]: Modification: S. 564S applied by 2009 c. 10, Sch. 61 para. 2 (as substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 229(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/229/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22)))
 
-[^key-02edf3efcbd7ded57c81285042c062af]: Modification: [S. 564S](https://www.legislation.gov.uk/ukpga/2007/3/section/564S) applied (S.) (1.4.2015) by [Land and Buildings Transaction Tax (Scotland) Act 2013 (asp 11)](https://www.legislation.gov.uk/asp/2013/11), [s. 70(2)](https://www.legislation.gov.uk/asp/2013/11/section/70/2), [sch. 8 para. 6](https://www.legislation.gov.uk/asp/2013/11/schedule/8/paragraph/6) (with [s. 69](https://www.legislation.gov.uk/asp/2013/11/section/69)); [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-02edf3efcbd7ded57c81285042c062af]: Modification: [S. 564S](https://www.legislation.gov.uk/ukpga/2007/3/section/564S) applied (S.) (1.4.2015) by [Land and Buildings Transaction Tax (Scotland) Act 2013 (asp 11)](https://www.legislation.gov.uk/asp/2013/11), [s. 70(2)](https://www.legislation.gov.uk/asp/2013/11/section/70/2), [sch. 8 para. 6](https://www.legislation.gov.uk/asp/2013/11/schedule/8/paragraph/6) (with [s. 69](https://www.legislation.gov.uk/asp/2013/11/section/69)); [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
 [^M_F_b3dc968b-b3f7-4814-d6f0-a3497583f0e0]: Textual amendment: S. 564S inserted (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2010/8/schedule/2/paragraph/20) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

@@ -22,7 +22,7 @@ summary: ''
 
 Article 15
 
-### PART 1 — STREETS OR PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED FOR WHICH A DIVERSION IS TO BE PROVIDED[^key-f0a54686b25b0c13825f5063d19ca775]
+### PART 1 — STREETS OR PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED FOR WHICH A DIVERSION IS TO BE PROVIDED[^c-f0a54686b25b0c13825f5063d19ca775]
 
 <table>
 <thead>
@@ -90,7 +90,7 @@ Article 15
 </tbody>
 </table>
 
-### PART 2 — STREETS OR PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED FOR WHICH NO DIVERSION IS TO BE PROVIDED[^key-f873381716d8784e397d86e71968a6d1]
+### PART 2 — STREETS OR PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED FOR WHICH NO DIVERSION IS TO BE PROVIDED[^c-f873381716d8784e397d86e71968a6d1]
 
 | (1)<br>Area | (2)<br>Street or public right of way to be temporarily stopped up | (3)<br>Extent of temporary stopping up as shown on the Access, Rights of Way and Public Rights of Navigation Plans |
 | --- | --- | --- |
@@ -187,6 +187,6 @@ Article 15
 
 ## Annotations
 
-[^key-f0a54686b25b0c13825f5063d19ca775]: Commencement: Sch. 7 Pt. 1 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-f0a54686b25b0c13825f5063d19ca775]: Commencement: Sch. 7 Pt. 1 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-f873381716d8784e397d86e71968a6d1]: Commencement: Sch. 7 Pt. 2 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-f873381716d8784e397d86e71968a6d1]: Commencement: Sch. 7 Pt. 2 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

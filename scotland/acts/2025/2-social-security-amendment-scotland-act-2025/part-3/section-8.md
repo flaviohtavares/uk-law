@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. New determination of entitlement during appeal[^key-891d68fa002f7494da7bfd9dff370125]
+## 8. New determination of entitlement during appeal[^c-891d68fa002f7494da7bfd9dff370125]
 
 *Extent: S*
 
@@ -120,4 +120,4 @@ summary: ''
 
 ## Annotations
 
-[^key-891d68fa002f7494da7bfd9dff370125]: Commencement: S. 8 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-891d68fa002f7494da7bfd9dff370125]: Commencement: S. 8 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Applications for support[^key-30c3e394b70cc165f437ea01877b4915]
+## 9. Applications for support[^c-30c3e394b70cc165f437ea01877b4915]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30c3e394b70cc165f437ea01877b4915]: Commencement: Reg. 9 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-30c3e394b70cc165f437ea01877b4915]: Commencement: Reg. 9 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Short Scottish secure tenancy: recovery of possession[^key-e9184dd403788f08cf20077ec830faf4]
+## 11. Short Scottish secure tenancy: recovery of possession[^c-e9184dd403788f08cf20077ec830faf4]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ In section 36 of the 2001 Act (recovery of possession)—
 
 ## Annotations
 
-[^key-e9184dd403788f08cf20077ec830faf4]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2014/14/section/11) in force at 1.5.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2018/153/article/3), [9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
+[^c-e9184dd403788f08cf20077ec830faf4]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2014/14/section/11) in force at 1.5.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2018/153/article/3), [9](https://www.legislation.gov.uk/ssi/2018/153/article/9))

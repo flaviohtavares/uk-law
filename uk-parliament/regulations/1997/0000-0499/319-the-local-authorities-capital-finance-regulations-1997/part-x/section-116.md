@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Credit ceiling on or after 1st April 1997[^key-e2fe5c48adbc487f2b62e7ecb03743a2]
+## 116. Credit ceiling on or after 1st April 1997[^c-e2fe5c48adbc487f2b62e7ecb03743a2]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ At any time on or after 1st April 1997, a local authority’s credit ceiling sha
 
 ## Annotations
 
-[^key-e2fe5c48adbc487f2b62e7ecb03743a2]: Commencement: Reg. 116 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-e2fe5c48adbc487f2b62e7ecb03743a2]: Commencement: Reg. 116 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

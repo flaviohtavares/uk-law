@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection, England
 
-The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2022 (revoked)[^key-d8024968cf04a836a9b77e4c2bf482d4]
+The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2022 (revoked)[^c-d8024968cf04a836a9b77e4c2bf482d4]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into force
 
 11th April 2022
 
-[^key-d8024968cf04a836a9b77e4c2bf482d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d8024968cf04a836a9b77e4c2bf482d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-d8024968cf04a836a9b77e4c2bf482d4]
+## 1. Citation, commencement, extent and application[^c-d8024968cf04a836a9b77e4c2bf482d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Genetically Modified Organisms (Deliberate Release) Regulations 2002[^key-d8024968cf04a836a9b77e4c2bf482d4]
+## 2. The Genetically Modified Organisms (Deliberate Release) Regulations 2002[^c-d8024968cf04a836a9b77e4c2bf482d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8024968cf04a836a9b77e4c2bf482d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d8024968cf04a836a9b77e4c2bf482d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d8024968cf04a836a9b77e4c2bf482d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d8024968cf04a836a9b77e4c2bf482d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d8024968cf04a836a9b77e4c2bf482d4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/347) revoked (13.11.2025) by [The Genetic Technology (Precision Breeding) Regulations 2025 (S.I. 2025/581)](https://www.legislation.gov.uk/uksi/2025/581), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/581/regulation/1/1), [55(2)](https://www.legislation.gov.uk/uksi/2025/581/regulation/55/2)
+[^c-d8024968cf04a836a9b77e4c2bf482d4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/347) revoked (13.11.2025) by [The Genetic Technology (Precision Breeding) Regulations 2025 (S.I. 2025/581)](https://www.legislation.gov.uk/uksi/2025/581), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/581/regulation/1/1), [55(2)](https://www.legislation.gov.uk/uksi/2025/581/regulation/55/2)

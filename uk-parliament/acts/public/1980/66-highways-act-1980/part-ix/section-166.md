@@ -31,7 +31,7 @@ For the purposes of this section the following are competent authorities—
 
 This subsection does not apply to any erection which has been in position in the forecourt of any premises at all times since 10th November 1960.
 
-(3) A competent authority does not have power under subsection (1) or (2) above to give a notice applying to any advertisement as defined in section 336(1) of the Town and Country Planning Act 1990[^c13426851], or under subsection (2) above to give a notice applying to anything erected in conformity with planning permission granted on an application under Part III or, in relation to England, Part 13[^key-0a073c70d04dfc4869caf3e21e75c3b7] of that Act.
+(3) A competent authority does not have power under subsection (1) or (2) above to give a notice applying to any advertisement as defined in section 336(1) of the Town and Country Planning Act 1990[^c13426851], or under subsection (2) above to give a notice applying to anything erected in conformity with planning permission granted on an application under Part III or, in relation to England, Part 13[^c-0a073c70d04dfc4869caf3e21e75c3b7] of that Act.
 
 (4) The provisions of Part XII of the [^c13426861]Public Health Act 1936 with respect to appeals against, and the enforcement of, notices requiring the execution of works apply in relation to any notice under this section as if this section were contained in that Act (and as if the references to the local authority included references to the highway authority); and section 290(6) of that Act shall authorise the authority at their election to take either of the courses which were open to the person on whom the notice was served in order to comply with it.
 
@@ -43,7 +43,7 @@ This subsection does not apply to any erection which has been in position in the
 
 [^c13426851]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s.4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 45(10)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/45/10)
 
-[^key-0a073c70d04dfc4869caf3e21e75c3b7]: Textual amendment: Words in s. 166(3) inserted (1.5.2025) by [The Town and Country Planning (Fees and Consequential Amendments) Regulations 2025 (S.I. 2025/418)](https://www.legislation.gov.uk/uksi/2025/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/418/regulation/1/3), [8(4)](https://www.legislation.gov.uk/uksi/2025/418/regulation/8/4)
+[^c-0a073c70d04dfc4869caf3e21e75c3b7]: Textual amendment: Words in s. 166(3) inserted (1.5.2025) by [The Town and Country Planning (Fees and Consequential Amendments) Regulations 2025 (S.I. 2025/418)](https://www.legislation.gov.uk/uksi/2025/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/418/regulation/1/3), [8(4)](https://www.legislation.gov.uk/uksi/2025/418/regulation/8/4)
 
 [^c13426861]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49).
 

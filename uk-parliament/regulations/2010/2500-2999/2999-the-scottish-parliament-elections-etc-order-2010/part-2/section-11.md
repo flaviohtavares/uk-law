@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Voting as proxy[^key-a9444012ca58d30c81214516f69ad239]
+## 11. Voting as proxy[^c-a9444012ca58d30c81214516f69ad239]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ and shall supply to the CRO a copy of that list as soon as reasonably practicabl
 
 ## Annotations
 
-[^key-a9444012ca58d30c81214516f69ad239]: Commencement: Art. 11 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-a9444012ca58d30c81214516f69ad239]: Commencement: Art. 11 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

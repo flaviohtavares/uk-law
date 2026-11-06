@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Insertion of article 33A[^key-4d61f4a97558e59fa3c9a4c4cd4adf0a]
+## 33. Insertion of article 33A[^c-4d61f4a97558e59fa3c9a4c4cd4adf0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ After article 33 (visiting pharmacists and pharmacy technicians from relevant Eu
 
 ## Annotations
 
-[^key-4d61f4a97558e59fa3c9a4c4cd4adf0a]: Commencement: Reg. 33 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-4d61f4a97558e59fa3c9a4c4cd4adf0a]: Commencement: Reg. 33 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

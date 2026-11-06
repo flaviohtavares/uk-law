@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The Education (Chief Inspector of Education and Training in Wales) Order 2020 (revoked)[^key-20370d252c82845373dbd2132381948b]
+The Education (Chief Inspector of Education and Training in Wales) Order 2020 (revoked)[^c-20370d252c82845373dbd2132381948b]
 
 Made
 
@@ -47,28 +47,28 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-20370d252c82845373dbd2132381948b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-20370d252c82845373dbd2132381948b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-20370d252c82845373dbd2132381948b]
+## 1. Citation and commencement[^c-20370d252c82845373dbd2132381948b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointment of Her Majesty's Chief Inspector of Education and Training in Wales or Prif Arolygydd Ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru[^key-20370d252c82845373dbd2132381948b]
+## 2. Appointment of Her Majesty's Chief Inspector of Education and Training in Wales or Prif Arolygydd Ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru[^c-20370d252c82845373dbd2132381948b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-20370d252c82845373dbd2132381948b]
+## 3. Revocation[^c-20370d252c82845373dbd2132381948b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-20370d252c82845373dbd2132381948b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-20370d252c82845373dbd2132381948b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-20370d252c82845373dbd2132381948b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-20370d252c82845373dbd2132381948b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-20370d252c82845373dbd2132381948b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/148) revoked (1.8.2021) by [The Education (Chief Inspector of Education and Training in Wales) Order 2021 (S.I. 2021/803)](https://www.legislation.gov.uk/uksi/2021/803), [arts. 1](https://www.legislation.gov.uk/uksi/2021/803/article/1), [5](https://www.legislation.gov.uk/uksi/2021/803/article/5)
+[^c-20370d252c82845373dbd2132381948b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/148) revoked (1.8.2021) by [The Education (Chief Inspector of Education and Training in Wales) Order 2021 (S.I. 2021/803)](https://www.legislation.gov.uk/uksi/2021/803), [arts. 1](https://www.legislation.gov.uk/uksi/2021/803/article/1), [5](https://www.legislation.gov.uk/uksi/2021/803/article/5)

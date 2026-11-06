@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 142. Privacy for children in proceedings[^key-25c6bd4b04890c86e4f01887e5301431]
+## 142. Privacy for children in proceedings[^c-25c6bd4b04890c86e4f01887e5301431]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ In Article 170 of the Children Order (privacy for children in specified proceedi
 
 ## Annotations
 
-[^key-25c6bd4b04890c86e4f01887e5301431]: Commencement: S. 142 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-25c6bd4b04890c86e4f01887e5301431]: Commencement: S. 142 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-850e2e4b59f0592fb41f26e429551bba]
+## SCHEDULE 7 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-850e2e4b59f0592fb41f26e429551bba]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Article 33
 
 | *(1)*<br>*Plot Reference Number shown on Land Plans* | *(2)*<br>*Purpose for which temporary possession may be taken* | *(3)*<br>*Relevant part of the authorised development* |
 | --- | --- | --- |
-| 1-01, 1-02, 1-03, 1-04, 1-05, 1-06, 1-07, 1-08, 1-09, 1-10, 1-11, 1-12, 1-13, 1-14, 1-15, 1-16, 1-17, 1-20, 1-21, 1-26, 1-28, 1-29, 1-35 | Offsite highway works, including works to A1081 New Airport Way, B653 and Gipsy Lane. To include, the realignment and widening of A1081 New Airport Way (to provide additional traffic lanes), the realignment and widening of A505 Gipsy Lane[^key-5258f01bbf132eefa912b2139cdde174] (to provide additional traffic lanes), the reshaping of the A1081 New Airport Way central reserve islands including the realignment of barriers, the replacement or relocation of signage, lighting and gantries, the reprovision of cycle lanes, the reprovision of roadside barriers, and the reshaping of the A505 Gipsy Lane splitter island | Work No. 6e(b) |
+| 1-01, 1-02, 1-03, 1-04, 1-05, 1-06, 1-07, 1-08, 1-09, 1-10, 1-11, 1-12, 1-13, 1-14, 1-15, 1-16, 1-17, 1-20, 1-21, 1-26, 1-28, 1-29, 1-35 | Offsite highway works, including works to A1081 New Airport Way, B653 and Gipsy Lane. To include, the realignment and widening of A1081 New Airport Way (to provide additional traffic lanes), the realignment and widening of A505 Gipsy Lane[^c-5258f01bbf132eefa912b2139cdde174] (to provide additional traffic lanes), the reshaping of the A1081 New Airport Way central reserve islands including the realignment of barriers, the replacement or relocation of signage, lighting and gantries, the reprovision of cycle lanes, the reprovision of roadside barriers, and the reshaping of the A505 Gipsy Lane splitter island | Work No. 6e(b) |
 | 1-27 1-31, 1-32, 1-33 | Airport support facilities, including construction of a multi-storey car park associated laydown areas, access, working space to support construction | Work No. 4g |
 | 1-34, 1-37, 1-43, 1-49, 1-50, 1-53, 1-54, 1-57, 1-59, 1-61, 1-63 | Airport support facilities, including a surface car park associated laydown areas, access, working space to support construction | Work No. 4h |
 | 1-58, 1-60, 1-62, 1-63, 1-64, 1-65, 1-66, 1-67 | Offsite highway works, including works at A1081 New Airport Way, A505 Kimpton Road and Vauxhall Way, associated laydown areas, access, working space to support construction | Work No. 6e(c) |
@@ -61,6 +61,6 @@ Article 33
 
 ## Annotations
 
-[^key-850e2e4b59f0592fb41f26e429551bba]: Commencement: Sch. 7 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-850e2e4b59f0592fb41f26e429551bba]: Commencement: Sch. 7 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
 
-[^key-5258f01bbf132eefa912b2139cdde174]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/uksi/2025/463/schedule/7) substituted (21.3.2026) by [The London Luton Airport Expansion Development Consent (Correction) Order 2026 (S.I. 2026/328)](https://www.legislation.gov.uk/uksi/2026/328), [art. 1](https://www.legislation.gov.uk/uksi/2026/328/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/328/schedule)
+[^c-5258f01bbf132eefa912b2139cdde174]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/uksi/2025/463/schedule/7) substituted (21.3.2026) by [The London Luton Airport Expansion Development Consent (Correction) Order 2026 (S.I. 2026/328)](https://www.legislation.gov.uk/uksi/2026/328), [art. 1](https://www.legislation.gov.uk/uksi/2026/328/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/328/schedule)

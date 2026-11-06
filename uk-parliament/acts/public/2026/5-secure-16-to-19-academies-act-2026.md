@@ -35,7 +35,7 @@ An Act to make provision about the notice period for termination of funding agre
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Secure 16 to 19 Academies (funding, impact and consultation)[^key-9d245acca7e7147bf798103fb1b32d45]
+## 1. Secure 16 to 19 Academies (funding, impact and consultation)[^c-9d245acca7e7147bf798103fb1b32d45]
 
 (1) The Academies Act 2010 is amended as follows.
 
@@ -66,7 +66,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
   ;
 - (b) in subsection (3), for “The consultation” substitute “A consultation under this section”.
 
-## 2. Extent, commencement and short title[^key-bc7677fc9ff70cf605b34b1c310571b3]
+## 2. Extent, commencement and short title[^c-bc7677fc9ff70cf605b34b1c310571b3]
 
 (1) This Act extends to England and Wales.
 
@@ -76,6 +76,6 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-9d245acca7e7147bf798103fb1b32d45]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2026/5/section/1) in force at 12.4.2026, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2026/5/section/2/2)
+[^c-9d245acca7e7147bf798103fb1b32d45]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2026/5/section/1) in force at 12.4.2026, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2026/5/section/2/2)
 
-[^key-bc7677fc9ff70cf605b34b1c310571b3]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2026/5/section/2) in force at 12.4.2026, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2026/5/section/2/2)
+[^c-bc7677fc9ff70cf605b34b1c310571b3]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2026/5/section/2) in force at 12.4.2026, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2026/5/section/2/2)

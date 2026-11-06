@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Power to designate Homes and Communities Agency as a charging authority[^key-30d21787fcae3f0a03106f2afced1fc1]
+## 138. Power to designate Homes and Communities Agency as a charging authority[^c-30d21787fcae3f0a03106f2afced1fc1]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ In section 14 of the Housing and Regeneration Act 2008 (contents of designation 
 
 ## Annotations
 
-[^key-30d21787fcae3f0a03106f2afced1fc1]: Commencement: S. 138 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-30d21787fcae3f0a03106f2afced1fc1]: Commencement: S. 138 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)

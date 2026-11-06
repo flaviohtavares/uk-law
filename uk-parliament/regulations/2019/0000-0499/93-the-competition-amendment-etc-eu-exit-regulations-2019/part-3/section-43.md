@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43.[^key-88dc982d3e986a8681366450dff7c7e6]
+## 43.[^c-88dc982d3e986a8681366450dff7c7e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In section 46 [^c23883041]—
 
 ## Annotations
 
-[^key-88dc982d3e986a8681366450dff7c7e6]: Commencement: Reg. 43 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-88dc982d3e986a8681366450dff7c7e6]: Commencement: Reg. 43 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23883041]: Marginal citation: Section 46 was amended by section 406(7) of, and Schedule 19 to, the Communications Act 2003, paragraphs 59 and 86 of Schedule 5 to, and paragraphs 15 and 22 of Schedule 15 to, the Enterprise and Regulatory Reform Act 2013 and [S.I. 2004/1079](https://www.legislation.gov.uk/uksi/2004/1079).

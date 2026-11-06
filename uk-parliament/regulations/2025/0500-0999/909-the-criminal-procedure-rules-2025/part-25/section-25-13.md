@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25.13. Evidence by admission[^key-aef364d8a2c85eaf0b433e173c58a026]
+## 25.13. Evidence by admission[^c-aef364d8a2c85eaf0b433e173c58a026]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aef364d8a2c85eaf0b433e173c58a026]: Commencement: [Rule 25.13](https://www.legislation.gov.uk/uksi/2025/909/rule/25.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-aef364d8a2c85eaf0b433e173c58a026]: Commencement: [Rule 25.13](https://www.legislation.gov.uk/uksi/2025/909/rule/25.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00611]: Footnote: [1967 c. 80](https://www.legislation.gov.uk/ukpga/1967/80).

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The patent holder may, before the end of the period of three months beginning immediately after[^key-3da5ed2eca4529337c0d0c204e85be10] the date on which the opinion is issued, apply to the comptroller for a review of the opinion.
+(1) The patent holder may, before the end of the period of three months beginning immediately after[^c-3da5ed2eca4529337c0d0c204e85be10] the date on which the opinion is issued, apply to the comptroller for a review of the opinion.
 
 (2) However, such proceedings for a review may not be brought (or if brought may not be continued) if the issue raised by the review has been decided in other relevant proceedings.
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3da5ed2eca4529337c0d0c204e85be10]: Textual amendment: Words in [rule 98(1)](https://www.legislation.gov.uk/uksi/2007/3291/rule/98/1) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-3da5ed2eca4529337c0d0c204e85be10]: Textual amendment: Words in [rule 98(1)](https://www.legislation.gov.uk/uksi/2007/3291/rule/98/1) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

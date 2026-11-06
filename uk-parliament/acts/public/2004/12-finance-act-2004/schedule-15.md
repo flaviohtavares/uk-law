@@ -27,7 +27,7 @@ Section 84
 **1.** In this Schedule—
 
 - “**IHTA 1984**” means the Inheritance Tax Act 1984 (c. 51);
-- “[^key-9d2680bd74e0f1d26d0342191f05c7ed]**ITTOIA 2005**” means the Income Tax (Trading and Other Income Act) 2005;
+- “[^c-9d2680bd74e0f1d26d0342191f05c7ed]**ITTOIA 2005**” means the Income Tax (Trading and Other Income Act) 2005;
 - “**the 1986 Act**” means the Finance Act 1986 (c. 41);
 - “**chattel**” means any tangible movable property (or, in Scotland, corporeal movable property) other than money;
 - “**excluded transaction**” has the meaning given by paragraph 10;
@@ -39,7 +39,7 @@ Section 84
 - “**regulations**” means regulations made by the Treasury under this Schedule;
 - “**settlement**” and “**settled property**” have the same meanings as in IHTA 1984.
 
-**2.**[^key-d755bb1c2f7d538bb0d79877ec61d00c] (1) For the purposes of this Schedule whether a person is connected with another person is determined in accordance with section 993 of the Income Tax Act 2007.
+**2.**[^c-d755bb1c2f7d538bb0d79877ec61d00c] (1) For the purposes of this Schedule whether a person is connected with another person is determined in accordance with section 993 of the Income Tax Act 2007.
 
 (2) But for those purposes sections 993 and 994 of that Act are to be read as if in those sections—
 
@@ -183,23 +183,23 @@ P is the amount paid.
 
 **8.** (1) This paragraph applies where—
 
-- (a) the terms of a settlement, as they affect any property comprised in the settlement, are such that any income arising from the property would be treated by virtue of section 624 of[^key-93f8ad301dd1662729ba2c78359f64d3] ITTOIA 2005 (income arising under settlement where settlor retains an interest) as income of a person (“the chargeable person”) who is for the purposes of Chapter 5 of Part 5[^key-5584f4ee701ac7bdc97ce4772d55899c] of that Act the settlor,
-- (b) any such income would be so treated even if section 625(1) of[^key-5ecea10127e1bf0d4db939141968a2fa] ITTOIA 2005 (settlor's retained interest) did not include any reference to the spouse or civil partner[^key-d3f71e87ba1bd9f1f95a10fec3478942] of the settlor, and
+- (a) the terms of a settlement, as they affect any property comprised in the settlement, are such that any income arising from the property would be treated by virtue of section 624 of[^c-93f8ad301dd1662729ba2c78359f64d3] ITTOIA 2005 (income arising under settlement where settlor retains an interest) as income of a person (“the chargeable person”) who is for the purposes of Chapter 5 of Part 5[^c-5584f4ee701ac7bdc97ce4772d55899c] of that Act the settlor,
+- (b) any such income would be so treated even if section 625(1) of[^c-5ecea10127e1bf0d4db939141968a2fa] ITTOIA 2005 (settlor's retained interest) did not include any reference to the spouse or civil partner[^c-d3f71e87ba1bd9f1f95a10fec3478942] of the settlor, and
 - (c) that property includes any property as respects which the condition in sub-paragraph (2) is met (“the relevant property”).
 
 (2) The condition mentioned in sub-paragraph (1)(c) is that the property is intangible property which is or represents property which the chargeable person settled, or added to the settlement, after 17th March 1986.
 
 (3) Where this paragraph applies in respect of the whole or part of a year of assessment, an amount equal to the chargeable amount determined under paragraph 9 is to be treated as income of the chargeable person chargeable to income tax.
 
-(4)[^key-566bf93bb6e9d3105d374db498f2ce55] For the purpose of deciding whether the condition in sub-paragraph (1)(a) is met, ignore section 628A of ITTOIA 2005 (which provides for section 624 of that Act not to apply to certain foreign income arising under a settlement).
+(4)[^c-566bf93bb6e9d3105d374db498f2ce55] For the purpose of deciding whether the condition in sub-paragraph (1)(a) is met, ignore section 628A of ITTOIA 2005 (which provides for section 624 of that Act not to apply to certain foreign income arising under a settlement).
 
 **9.** (1) For any taxable period the chargeable amount in relation to the relevant property is N minus T where—
 
 - N is the amount of the interest that would be payable for the taxable period if interest were payable at the prescribed rate on an amount equal to the value of the relevant property at the valuation date, and
 - T is the amount of any income tax or capital gains tax payable by the chargeable person in respect of the taxable period by virtue of any of the following provisions—
-  - (a) section 461 of[^key-2de29f5354b938af3f3b339c82b89fa7] ITTOIA 2005,
-  - (b) section 624 of that Act[^key-1289e0af74dab9fe37ab342892cb993a],
-  - (c) sections 720 to 730 of the Income Tax Act 2007,[^key-4ac0745510290767e53cfda82547ecfc]
+  - (a) section 461 of[^c-2de29f5354b938af3f3b339c82b89fa7] ITTOIA 2005,
+  - (b) section 624 of that Act[^c-1289e0af74dab9fe37ab342892cb993a],
+  - (c) sections 720 to 730 of the Income Tax Act 2007,[^c-4ac0745510290767e53cfda82547ecfc]
   - (d) section 77 of the Taxation of Chargeable Gains Act 1992 (c. 12), and
   - (e) section 86 of that Act,
 - so far as the tax is attributable to the relevant property.
@@ -218,20 +218,20 @@ P is the amount paid.
 - (a) it was a disposal of his whole interest in the property, except for any right expressly reserved by him over the property, either—
   - (i) by a transaction made at arm’s length with a person not connected with him, or
   - (ii) by a transaction such as might be expected to be made at arm’s length between persons not connected with each other,
-- (b) the property was transferred to his spouse or civil partner[^key-d28ed1e8c1be392207b64c0601ac137f] (or where the transfer has been ordered by a court, to his former spouse or civil partner),
-- (c) it was a disposal by way of gift (or, where the transfer is for the benefit of his former spouse or civil partner[^key-5832859fd5c24b9fe5e23223d5dec325], in accordance with a court order), by virtue of which the property became settled property in which his spouse or civil partner or former spouse or civil partner is beneficially entitled to an interest in possession,
+- (b) the property was transferred to his spouse or civil partner[^c-d28ed1e8c1be392207b64c0601ac137f] (or where the transfer has been ordered by a court, to his former spouse or civil partner),
+- (c) it was a disposal by way of gift (or, where the transfer is for the benefit of his former spouse or civil partner[^c-5832859fd5c24b9fe5e23223d5dec325], in accordance with a court order), by virtue of which the property became settled property in which his spouse or civil partner or former spouse or civil partner is beneficially entitled to an interest in possession,
 - (d) the disposal was a disposition falling within section 11 of IHTA 1984 (dispositions for maintenance of family), or
 - (e) the disposal is an outright gift to an individual and is for the purposes of IHTA 1984 a transfer of value that is wholly exempt by virtue of section 19 (annual exemption) or section 20 (small gifts).
 
 (2) For the purposes of paragraphs 3(3) and 6(3) (the contribution condition) the provision by a person (“the chargeable person”) of consideration for another’s acquisition of any property is an “**excluded transaction**” in relation to the chargeable person if—
 
-- (a) the other person was his spouse or civil partner[^key-a6fcbce3195c663defd2e959f88f7a26] (or, where the transfer has been ordered by the court, his former spouse or civil partner),
-- (b) on its acquisition the property became settled property in which his spouse or civil partner[^key-a250bae7261fea9bcc35d88b718b855f] or former spouse or civil partner is beneficially entitled to an interest in possession,
+- (a) the other person was his spouse or civil partner[^c-a6fcbce3195c663defd2e959f88f7a26] (or, where the transfer has been ordered by the court, his former spouse or civil partner),
+- (b) on its acquisition the property became settled property in which his spouse or civil partner[^c-a250bae7261fea9bcc35d88b718b855f] or former spouse or civil partner is beneficially entitled to an interest in possession,
 - (c) the provision of the consideration constituted an outright gift of money (in sterling or any other currency) by the chargeable person to the other person and was made at least seven years before the earliest date on which the chargeable person met the condition in paragraph 3(1)(a) or, as the case may be, 6(1)(a),
 - (d) the provision of the consideration is a disposition falling within section 11 of IHTA 1984 (dispositions for maintenance of family), or
 - (e) the provision of the consideration is an outright gift to an individual and is for the purposes of IHTA 1984 a transfer of value that is wholly exempt by virtue of section 19 (annual exemption) or section 20 (small gifts).
 
-(3) A disposal is not an excluded transaction by virtue of sub-paragraph (1)(c) or (2)(b), if the interest in possession of the spouse or civil partner[^key-e115679d5f5e8b6faf2b99b353948e56] or former spouse or civil partner has come to an end otherwise than on the death of the spouse or civil partner or former spouse or civil partner.
+(3) A disposal is not an excluded transaction by virtue of sub-paragraph (1)(c) or (2)(b), if the interest in possession of the spouse or civil partner[^c-e115679d5f5e8b6faf2b99b353948e56] or former spouse or civil partner has come to an end otherwise than on the death of the spouse or civil partner or former spouse or civil partner.
 
 ### Exemptions from charge
 
@@ -269,7 +269,7 @@ the appropriate rental value in paragraph 4, the appropriate amount in paragraph
 
 - (a) would fall to be treated by virtue of any provision of Part 5 of the 1986 Act (inheritance tax) as property which in relation to him is property subject to a reservation,
 - (b) would fall to be so treated but for any of paragraphs (d) to (i) of subsection (5) of section 102 of the 1986 Act (certain cases where disposal by way of gift is an exempt transfer for purposes of inheritance tax),
-- (ba)[^key-91cc5218233ef9f845b2d2ae527c840a] would fall to be so treated but for section 102(7A) of the 1986 Act (cases where property was excluded property under the old inheritance tax regime),
+- (ba)[^c-91cc5218233ef9f845b2d2ae527c840a] would fall to be so treated but for section 102(7A) of the 1986 Act (cases where property was excluded property under the old inheritance tax regime),
 - (c) would fall to be so treated but for subsection (4) of section 102B of the 1986 Act (gifts with reservation: share of interest in land), or would have fallen to be so treated but for that subsection if the disposal by way of gift of an undivided share of an interest in land had been made on or after 9th March 1999, or
 - (d) would fall to be so treated but for section 102C(3) of, and paragraph 6 of Schedule 20 to, the 1986 Act (exclusion of benefit).
 
@@ -284,7 +284,7 @@ were associated operations, as defined by section 268 of IHTA 1984.
 
 (8) In determining whether any property falls within sub-paragraph (5)(b), (c) or (d) in a case where the contribution condition in paragraph 3(3) or 6(3) is met, paragraph 2(2)(b) of Schedule 20 (exclusion of gifts of money) is to be disregarded.
 
-(9) In this paragraph[^key-f4b71892f2bfb044411b507c0b668eb0] “**the relevant property**” means—
+(9) In this paragraph[^c-f4b71892f2bfb044411b507c0b668eb0] “**the relevant property**” means—
 
 - (a) in relation to paragraphs 3 and 6—
   - (i) where the disposal condition in paragraph 3(2) or 6(2) is met, the property disposed of,
@@ -293,7 +293,7 @@ were associated operations, as defined by section 268 of IHTA 1984.
 
 (10) Property is not to be treated as falling within sub-paragraph (5)(b) at any time in a case falling within section 102(5)(h) of the 1986 Act unless the property remains subject to trusts which comply with the requirements of paragraph 3 (1) of Schedule 4 to IHTA 1984.
 
-(11)[^key-ccd4b048986116a197524b860b3e38c6] Sub-paragraph (12) applies where at any time—
+(11)[^c-ccd4b048986116a197524b860b3e38c6] Sub-paragraph (12) applies where at any time—
 
 - (a) the relevant property has ceased to be comprised in a person's estate for the purposes of IHTA 1984, or
 - (b) he has directly or indirectly provided any consideration for the acquisition of the relevant property,
@@ -310,15 +310,15 @@ and at any subsequent time the relevant property or any derived property is comp
 - (a) which derives its value from the relevant property, and
 - (b) whose value, so far as attributable to the relevant property, is not substantially less than the value of the relevant property.
 
-### Chargeable person non-UK resident or not a long-term UK resident[^key-993e793cfd4783b8d08b732a3a3c75a3]
+### Chargeable person non-UK resident or not a long-term UK resident[^c-993e793cfd4783b8d08b732a3a3c75a3]
 
 **12.** (1) This Schedule does not apply in relation to any person for any year of assessment during which he is not resident in the United Kingdom.
 
-(2) Where in any year of assessment a person is resident in the United Kingdom but is not a long-term UK resident[^key-0b599f551767a33154599e4c0752542b], this Schedule does not apply to him unless the property falling within paragraph 3(1)(a), 6(1)(a) or 8(1)(c) is situated in the United Kingdom.
+(2) Where in any year of assessment a person is resident in the United Kingdom but is not a long-term UK resident[^c-0b599f551767a33154599e4c0752542b], this Schedule does not apply to him unless the property falling within paragraph 3(1)(a), 6(1)(a) or 8(1)(c) is situated in the United Kingdom.
 
-(3)[^key-68bc2fa9f5e34c898d3a12190665833c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-68bc2fa9f5e34c898d3a12190665833c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-e8dbe4dee74622b2ffda95aac6d6296c] In this paragraph, “**long-term UK resident**” has the same meaning as in IHTA 1984.
+(4)[^c-e8dbe4dee74622b2ffda95aac6d6296c] In this paragraph, “**long-term UK resident**” has the same meaning as in IHTA 1984.
 
 ### Exemption in cases where aggregate notional annual values do not exceed £5,000
 
@@ -395,8 +395,8 @@ the provisions of that Part shall have priority and he shall not be chargeable t
 
 - (a) the preceding provisions of this Schedule shall not apply to him during the initial year and subsequent years of assessment by reference to his enjoyment of the relevant property or of any property which may be substituted for the relevant property, but
 - (b) so long as the chargeable person continues to enjoy the relevant property or any property which is substituted for the relevant property—
-  - (i) the chargeable proportion of the property is to be treated for the purposes of Part 5 of the 1986 Act (in relation to the chargeable person) as property subject to a reservation, but only so far as the chargeable person is not beneficially entitled to an interest in possession in the property[^key-a08fd6d1f217f6936a502824364d6110]
-  - (ii)[^key-d3c13a0a53be89420ebd9c4fa7765f86] section 102(3) and (4) of that Act shall apply, but only so far as the chargeable person is not beneficially entitled to an interest in possession in the property, and
+  - (i) the chargeable proportion of the property is to be treated for the purposes of Part 5 of the 1986 Act (in relation to the chargeable person) as property subject to a reservation, but only so far as the chargeable person is not beneficially entitled to an interest in possession in the property[^c-a08fd6d1f217f6936a502824364d6110]
+  - (ii)[^c-d3c13a0a53be89420ebd9c4fa7765f86] section 102(3) and (4) of that Act shall apply, but only so far as the chargeable person is not beneficially entitled to an interest in possession in the property, and
   - (iii) if the chargeable person is beneficially entitled to an interest in possession in the property, sections 53(3) and (4) and 54 of IHTA 1984 (which deal with cases of property reverting to the settlor etc) shall not apply in relation to the chargeable proportion of the property.
 
 (3) In this paragraph, “**the chargeable proportion**”, in relation to any property, means—
@@ -409,7 +409,7 @@ where DV and V are to be read in accordance with paragraph 4(2) or 7(2), as the 
 
 - (i) in the case of property falling within subsection (3) of section 102 of the Finance Act 1986, to the date of the death of the chargeable person, and
 - (ii) in the case of property falling within subsection (4) of that section, to the date on which the property ceases to be treated as property subject to a reservation, and
-- (iii) in the case of property in which the chargeable person is beneficially entitled to an interest in possession, to the date of his death or (if his interest comes to an end on an earlier date) that earlier date, and[^key-99f89a307ea5352f95d3b06b69519614]
+- (iii) in the case of property in which the chargeable person is beneficially entitled to an interest in possession, to the date of his death or (if his interest comes to an end on an earlier date) that earlier date, and[^c-99f89a307ea5352f95d3b06b69519614]
 
 (b) the transactions to be taken into account in calculating DV included transactions after the time when the election takes effect as well as transactions before that time.
 
@@ -427,14 +427,14 @@ where DV and V are to be read in accordance with paragraph 4(2) or 7(2), as the 
 
 - (a) the preceding provisions of this Schedule shall not apply to him during the initial year and subsequent years of assessment by reference to the relevant property or any property which represents or is derived from the relevant property, but
 - (b) so long as the conditions in sub-paragraph (3) are satisfied—
-  - (i) the relevant property and any property which represents or is derived from the relevant property shall be treated for the purposes of Part 5 of the 1986 Act (in relation to the chargeable person) as property subject to a reservation, but only so far as the chargeable person is not beneficially entitled to an interest in possession in the property concerned[^key-efa461b2c281188f5eba117aecd1af86]
-  - (ii)[^key-d49eb9d08fde9905cdbe08ead34dd49f] section 102(3) and (4) of that Act shall apply, but only so far as the chargeable person is not beneficially entitled to an interest in possession in the property concerned, and
+  - (i) the relevant property and any property which represents or is derived from the relevant property shall be treated for the purposes of Part 5 of the 1986 Act (in relation to the chargeable person) as property subject to a reservation, but only so far as the chargeable person is not beneficially entitled to an interest in possession in the property concerned[^c-efa461b2c281188f5eba117aecd1af86]
+  - (ii)[^c-d49eb9d08fde9905cdbe08ead34dd49f] section 102(3) and (4) of that Act shall apply, but only so far as the chargeable person is not beneficially entitled to an interest in possession in the property concerned, and
   - (iii) if the chargeable person is beneficially entitled to an interest in possession in the property concerned, sections 53(3) and (4) and 54 of IHTA 1984 (which deal with cases of property reverting to the settlor etc) shall not apply in relation to that property.
 
 (3) The conditions referred to in sub-paragraph (2)(b) are—
 
 - (a) that the relevant property or the property which represents or is derived from the relevant property remains comprised in the settlement, and
-- (b) that any income arising under the settlement would be treated by virtue of section 624 of[^key-9a67ababa97cce96f6060c56b1f49f06] ITTOIA 2005 as income of the chargeable person.
+- (b) that any income arising under the settlement would be treated by virtue of section 624 of[^c-9a67ababa97cce96f6060c56b1f49f06] ITTOIA 2005 as income of the chargeable person.
 
 **23.** (1) In this paragraph—
 
@@ -443,7 +443,7 @@ where DV and V are to be read in accordance with paragraph 4(2) or 7(2), as the 
 
 (2) The election must be made in the prescribed manner.
 
-(3)[^key-6080aac6eae90587bc3c86142465153f] The election must be made on or before—
+(3)[^c-6080aac6eae90587bc3c86142465153f] The election must be made on or before—
 
 - (a) the relevant filing date, or
 - (b) such later date as an officer of Revenue and Customs may, in a particular case, allow.
@@ -454,60 +454,60 @@ where DV and V are to be read in accordance with paragraph 4(2) or 7(2), as the 
 
 ## Annotations
 
-[^key-9d2680bd74e0f1d26d0342191f05c7ed]: Textual amendment: Words in Sch. 15 para. 1 inserted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 653(2)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/653/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-9d2680bd74e0f1d26d0342191f05c7ed]: Textual amendment: Words in Sch. 15 para. 1 inserted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 653(2)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/653/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-d755bb1c2f7d538bb0d79877ec61d00c]: Textual amendment: Sch. 15 para. 2 substituted (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 482(2)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/482/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-d755bb1c2f7d538bb0d79877ec61d00c]: Textual amendment: Sch. 15 para. 2 substituted (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 482(2)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/482/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-93f8ad301dd1662729ba2c78359f64d3]: Textual amendment: Words in Sch. 15 para. 8(1)(a) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 653(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/653/3/a/i) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-93f8ad301dd1662729ba2c78359f64d3]: Textual amendment: Words in Sch. 15 para. 8(1)(a) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 653(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/653/3/a/i) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-5584f4ee701ac7bdc97ce4772d55899c]: Textual amendment: Words in Sch. 15 para. 8(1)(a) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 653(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/653/3/a/ii) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-5584f4ee701ac7bdc97ce4772d55899c]: Textual amendment: Words in Sch. 15 para. 8(1)(a) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 653(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/653/3/a/ii) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-5ecea10127e1bf0d4db939141968a2fa]: Textual amendment: Words in Sch. 15 para. 8(1)(b) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 653(3)(b)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/653/3/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-5ecea10127e1bf0d4db939141968a2fa]: Textual amendment: Words in Sch. 15 para. 8(1)(b) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 653(3)(b)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/653/3/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-d3f71e87ba1bd9f1f95a10fec3478942]: Textual amendment: Words in Sch. 15 para. 8(1)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [179(a)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/179/a)
+[^c-d3f71e87ba1bd9f1f95a10fec3478942]: Textual amendment: Words in Sch. 15 para. 8(1)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [179(a)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/179/a)
 
-[^key-566bf93bb6e9d3105d374db498f2ce55]: Textual amendment: [Sch. 15 para. 8(4)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/15/paragraph/8/4) inserted (with effect in accordance with Sch. 8 para. 39 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 8 para. 19](https://www.legislation.gov.uk/ukpga/2017/32/schedule/8/paragraph/19)
+[^c-566bf93bb6e9d3105d374db498f2ce55]: Textual amendment: [Sch. 15 para. 8(4)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/15/paragraph/8/4) inserted (with effect in accordance with Sch. 8 para. 39 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 8 para. 19](https://www.legislation.gov.uk/ukpga/2017/32/schedule/8/paragraph/19)
 
-[^key-2de29f5354b938af3f3b339c82b89fa7]: Textual amendment: Words in Sch. 15 para. 9(1) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 653(4)(a)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/653/4/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-2de29f5354b938af3f3b339c82b89fa7]: Textual amendment: Words in Sch. 15 para. 9(1) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 653(4)(a)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/653/4/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-1289e0af74dab9fe37ab342892cb993a]: Textual amendment: Words in Sch. 15 para. 9(1) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 653(4)(b)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/653/4/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-1289e0af74dab9fe37ab342892cb993a]: Textual amendment: Words in Sch. 15 para. 9(1) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 653(4)(b)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/653/4/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-4ac0745510290767e53cfda82547ecfc]: Textual amendment: Sch. 15 para. 9(1)(c) substituted (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 482(3)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/482/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-4ac0745510290767e53cfda82547ecfc]: Textual amendment: Sch. 15 para. 9(1)(c) substituted (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 482(3)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/482/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-d28ed1e8c1be392207b64c0601ac137f]: Textual amendment: Words in Sch. 15 para. 10(1)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [179(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/179/b)
+[^c-d28ed1e8c1be392207b64c0601ac137f]: Textual amendment: Words in Sch. 15 para. 10(1)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [179(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/179/b)
 
-[^key-5832859fd5c24b9fe5e23223d5dec325]: Textual amendment: Words in Sch. 15 para. 10(1)(c) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [179(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/179/b)
+[^c-5832859fd5c24b9fe5e23223d5dec325]: Textual amendment: Words in Sch. 15 para. 10(1)(c) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [179(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/179/b)
 
-[^key-a6fcbce3195c663defd2e959f88f7a26]: Textual amendment: Words in Sch. 15 para. 10(2)(a) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [179(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/179/b)
+[^c-a6fcbce3195c663defd2e959f88f7a26]: Textual amendment: Words in Sch. 15 para. 10(2)(a) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [179(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/179/b)
 
-[^key-a250bae7261fea9bcc35d88b718b855f]: Textual amendment: Words in Sch. 15 para. 10(2)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [179(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/179/b)
+[^c-a250bae7261fea9bcc35d88b718b855f]: Textual amendment: Words in Sch. 15 para. 10(2)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [179(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/179/b)
 
-[^key-e115679d5f5e8b6faf2b99b353948e56]: Textual amendment: Words in Sch. 15 para. 10(3) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [179(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/179/b)
+[^c-e115679d5f5e8b6faf2b99b353948e56]: Textual amendment: Words in Sch. 15 para. 10(3) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [179(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/179/b)
 
-[^key-91cc5218233ef9f845b2d2ae527c840a]: Textual amendment: Sch. 15 para. 11(5)(ba) inserted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 33](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/33), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-91cc5218233ef9f845b2d2ae527c840a]: Textual amendment: Sch. 15 para. 11(5)(ba) inserted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 33](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/33), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
 
-[^key-f4b71892f2bfb044411b507c0b668eb0]: Textual amendment: Words in Sch. 15 para. 11(9) substituted (retrospective and with effect in accordance with s. 80(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 80(2)(a)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/2/a)[(8)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/8)
+[^c-f4b71892f2bfb044411b507c0b668eb0]: Textual amendment: Words in Sch. 15 para. 11(9) substituted (retrospective and with effect in accordance with s. 80(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 80(2)(a)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/2/a)[(8)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/8)
 
-[^key-ccd4b048986116a197524b860b3e38c6]: Textual amendment: Sch. 15 para. 11(11)-(13) inserted (retrospective and with effect in accordance with s. 80(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 80(2)(b)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/2/b)[(8)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/8)
+[^c-ccd4b048986116a197524b860b3e38c6]: Textual amendment: Sch. 15 para. 11(11)-(13) inserted (retrospective and with effect in accordance with s. 80(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 80(2)(b)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/2/b)[(8)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/8)
 
-[^key-993e793cfd4783b8d08b732a3a3c75a3]: Textual amendment: Words in Sch. 15 para. 12 cross-heading substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 34](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/34), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-993e793cfd4783b8d08b732a3a3c75a3]: Textual amendment: Words in Sch. 15 para. 12 cross-heading substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 34](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/34), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
 
-[^key-0b599f551767a33154599e4c0752542b]: Textual amendment: Words in Sch. 15 para. 12(2) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 35(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/35/2), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-0b599f551767a33154599e4c0752542b]: Textual amendment: Words in Sch. 15 para. 12(2) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 35(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/35/2), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
 
-[^key-68bc2fa9f5e34c898d3a12190665833c]: Textual amendment: Sch. 15 para. 12(3) omitted (6.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 35(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/35/3), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-68bc2fa9f5e34c898d3a12190665833c]: Textual amendment: Sch. 15 para. 12(3) omitted (6.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 35(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/35/3), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
 
-[^key-e8dbe4dee74622b2ffda95aac6d6296c]: Textual amendment: Sch. 15 para. 12(4) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 35(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/35/4), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-e8dbe4dee74622b2ffda95aac6d6296c]: Textual amendment: Sch. 15 para. 12(4) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 35(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/35/4), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
 
-[^key-a08fd6d1f217f6936a502824364d6110]: Textual amendment: Words in Sch. 15 para. 21(2)(b)(i) inserted (retrospective and with effect in accordance with s. 80(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 80(3)(a)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/3/a)[(8)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/8)
+[^c-a08fd6d1f217f6936a502824364d6110]: Textual amendment: Words in Sch. 15 para. 21(2)(b)(i) inserted (retrospective and with effect in accordance with s. 80(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 80(3)(a)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/3/a)[(8)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/8)
 
-[^key-d3c13a0a53be89420ebd9c4fa7765f86]: Textual amendment: Sch. 15 para. 21(2)(b)(ii)(iii) substituted for Sch. 15 para. 21(2)(b)(ii) (retrospective and with effect in accordance with s. 80(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 80(3)(b)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/3/b)[(8)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/8)
+[^c-d3c13a0a53be89420ebd9c4fa7765f86]: Textual amendment: Sch. 15 para. 21(2)(b)(ii)(iii) substituted for Sch. 15 para. 21(2)(b)(ii) (retrospective and with effect in accordance with s. 80(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 80(3)(b)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/3/b)[(8)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/8)
 
-[^key-99f89a307ea5352f95d3b06b69519614]: Textual amendment: Sch. 15 para. 21(3)(a)(iii) inserted (retrospective and with effect in accordance with s. 80(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 80(3)(c)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/3/c)[(8)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/8)
+[^c-99f89a307ea5352f95d3b06b69519614]: Textual amendment: Sch. 15 para. 21(3)(a)(iii) inserted (retrospective and with effect in accordance with s. 80(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 80(3)(c)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/3/c)[(8)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/8)
 
-[^key-efa461b2c281188f5eba117aecd1af86]: Textual amendment: Words in Sch. 15 para. 22(2)(b)(i) inserted (retrospective and with effect in accordance with s. 80(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 80(4)(a)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/4/a)[(8)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/8)
+[^c-efa461b2c281188f5eba117aecd1af86]: Textual amendment: Words in Sch. 15 para. 22(2)(b)(i) inserted (retrospective and with effect in accordance with s. 80(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 80(4)(a)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/4/a)[(8)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/8)
 
-[^key-d49eb9d08fde9905cdbe08ead34dd49f]: Textual amendment: Sch. 15 para. 22(2)(b)(ii)(iii) substituted for Sch. 15 para. 22(2)(b)(ii) (retrospective and with effect in accordance with s. 80(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 80(4)(b)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/4/b)[(8)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/8)
+[^c-d49eb9d08fde9905cdbe08ead34dd49f]: Textual amendment: Sch. 15 para. 22(2)(b)(ii)(iii) substituted for Sch. 15 para. 22(2)(b)(ii) (retrospective and with effect in accordance with s. 80(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 80(4)(b)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/4/b)[(8)](https://www.legislation.gov.uk/ukpga/2006/25/section/80/8)
 
-[^key-9a67ababa97cce96f6060c56b1f49f06]: Textual amendment: Words in Sch. 15 para. 22(3)(b) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 653(5)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/653/5) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-9a67ababa97cce96f6060c56b1f49f06]: Textual amendment: Words in Sch. 15 para. 22(3)(b) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 653(5)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/653/5) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-6080aac6eae90587bc3c86142465153f]: Textual amendment: Sch. 15 para. 23(3) substituted for Sch. 15 para. 23(3)(4) (retrospective to 21.3.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 66(1)](https://www.legislation.gov.uk/ukpga/2007/11/section/66/1)[(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/66/2)
+[^c-6080aac6eae90587bc3c86142465153f]: Textual amendment: Sch. 15 para. 23(3) substituted for Sch. 15 para. 23(3)(4) (retrospective to 21.3.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 66(1)](https://www.legislation.gov.uk/ukpga/2007/11/section/66/1)[(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/66/2)

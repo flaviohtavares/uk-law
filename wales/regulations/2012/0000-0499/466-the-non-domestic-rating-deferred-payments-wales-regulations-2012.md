@@ -45,17 +45,17 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred on the Secretary of State by sections 60, 62, 143(1) and (2) and 146(6) of, paragraph 6(5) and (6) of Schedule 8 to, and paragraphs 1 to 4 of Schedule 9 to, the Local Government Finance Act 1988[^f00001] and now vested in them:
 
-## 1. Title, commencement and application[^key-884f09c6af6cc9a8cc928a94cad02917]
+## 1. Title, commencement and application[^c-884f09c6af6cc9a8cc928a94cad02917]
 
 (1) The title of these Regulations is the Non-Domestic Rating (Deferred Payments) (Wales) Regulations 2012 and they come into force on 16 March 2012.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Amendment of the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989[^key-6b63d1b8d301149338be6e888324d754]
+## 2. Amendment of the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989[^c-6b63d1b8d301149338be6e888324d754]
 
 The Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989[^f00002] are amended as follows.
 
-**3.**[^key-32af237a5945d2830661185d76d088ff] For regulation 7C (deferred payments: special provision in relation to Wales for the financial years beginning on 1 April 2009, 2010 and 2011) substitute—
+**3.**[^c-32af237a5945d2830661185d76d088ff] For regulation 7C (deferred payments: special provision in relation to Wales for the financial years beginning on 1 April 2009, 2010 and 2011) substitute—
 
 > **7C. Deferred payments — special provision in relation to Wales**
 >
@@ -74,7 +74,7 @@ The Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1
 
 .
 
-**4.**[^key-e01ccc7d62f887bc96f74336870a0ec1] (1) Schedule 1D is amended as follows.
+**4.**[^c-e01ccc7d62f887bc96f74336870a0ec1] (1) Schedule 1D is amended as follows.
 
 (2) In the heading omit “for the financial years beginning on 1 April 2009, 2010 and 2011”.
 
@@ -141,11 +141,11 @@ The Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1
   - (i) in sub-paragraph (3) for “financial year beginning on 1 April 2010 or 1 April 2011” substitute “first or second deferred payment year”; and
   - (ii) in sub-paragraph (3) for “the financial year beginning on 1 April 2009” substitute “the specified year”.
 
-## 5. Amendment of the Non-Domestic Rating (Collection and Enforcement) (Central Lists) Regulations 1989[^key-961c8b3b435ed2a18807de75f34b619c]
+## 5. Amendment of the Non-Domestic Rating (Collection and Enforcement) (Central Lists) Regulations 1989[^c-961c8b3b435ed2a18807de75f34b619c]
 
 (1) The Non-Domestic Rating (Collection and Enforcement) (Central List) Regulations 1989[^f00003] are amended as follows.
 
-**6.**[^key-cdc8d976654b51a9f6c02d0e42455ba7] For regulation 7B (deferred payments: special provision in relation to Wales for the financial years beginning on 1 April 2009, 2010 and 2011) substitute—
+**6.**[^c-cdc8d976654b51a9f6c02d0e42455ba7] For regulation 7B (deferred payments: special provision in relation to Wales for the financial years beginning on 1 April 2009, 2010 and 2011) substitute—
 
 > **7B. Deferred payments — special provision in relation to Wales**
 >
@@ -164,7 +164,7 @@ The Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1
 
 .
 
-**7.**[^key-e0f0343767e05a478d902da46b419606] (1) Schedule 1B is amended as follows.
+**7.**[^c-e0f0343767e05a478d902da46b419606] (1) Schedule 1B is amended as follows.
 
 (2) In the heading omit “for the financial years beginning on 1 April 2009, 2010 and 2011”.
 
@@ -229,19 +229,19 @@ The Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1
   - (i) in sub-paragraph (3) for “financial year beginning on 1 April 2010 or 1 April 2011” substitute “first or second deferred payment year”; and
   - (ii) in sub-paragraph (3) for “the financial year beginning on 1 April 2009” substitute “the specified year”.
 
-## 8. Modification of the Non-Domestic Rating Contributions (Wales) Regulations 1992[^key-ea241ef5a9ddccb86604c5f1bf5ee5fc]
+## 8. Modification of the Non-Domestic Rating Contributions (Wales) Regulations 1992[^c-ea241ef5a9ddccb86604c5f1bf5ee5fc]
 
 In relation to a year which is a specified year for the purposes of the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989 or the Non-Domestic Rating (Collection and Enforcement) (Central Lists) Regulations 1989, regulation 6 (recalculation of provisional amounts) of the Non-Domestic Rating Contributions (Wales) Regulations 1992 [^f00004] has effect as if paragraphs (2)(b) and (4) were omitted.
 
-## 9. Modification of the Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017[^key-7bd53f106c0b42e4ac7f00da3145a314][^key-82ff235aba2590020d72749f78e2b5b4]
+## 9. Modification of the Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017[^c-7bd53f106c0b42e4ac7f00da3145a314][^c-82ff235aba2590020d72749f78e2b5b4]
 
-In relation to the years which are first and second deferred payment years for the purposes of the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 2017[^key-fca5c004d20f0528c120b9a2e1314706], the Non-Domestic Rating (Demand Notices) (Wales) Regulations 1993[^f00005] apply as if for the definition of “the relevant year” in regulation 2 (interpretation) there were substituted—
+In relation to the years which are first and second deferred payment years for the purposes of the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 2017[^c-fca5c004d20f0528c120b9a2e1314706], the Non-Domestic Rating (Demand Notices) (Wales) Regulations 1993[^f00005] apply as if for the definition of “the relevant year” in regulation 2 (interpretation) there were substituted—
 
-> - “the relevant year”, in relation to a demand notice, means the financial year to which the demand for payment made by the notice relates; but where, pursuant to regulation 4 (the requirement for demand notices) of the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989[^key-1f675d377856d06644879aec94de61ce] (as modified by the Non-Domestic Rating (Deferred Payments) (Wales) Regulations 2012), the notice relates to more than one chargeable financial year “the relevant year” means the first or second deferred payment year (as the case may be)
+> - “the relevant year”, in relation to a demand notice, means the financial year to which the demand for payment made by the notice relates; but where, pursuant to regulation 4 (the requirement for demand notices) of the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989[^c-1f675d377856d06644879aec94de61ce] (as modified by the Non-Domestic Rating (Deferred Payments) (Wales) Regulations 2012), the notice relates to more than one chargeable financial year “the relevant year” means the first or second deferred payment year (as the case may be)
 
 .
 
-## 10. Revocation[^key-b5509b6c6a2ff054f321b1bf35ec924a]
+## 10. Revocation[^c-b5509b6c6a2ff054f321b1bf35ec924a]
 
 Regulations 4 (modification of the Non-Domestic Rating (Demand Notices) (Wales) Regulations 1993) and 5 (modification of the Non-Domestic Rating Contributions (Wales) Regulations 1992) of the Non-Domestic Rating (Deferred Payments) (Wales) Regulations 2009[^f00006] are revoked.
 
@@ -276,38 +276,38 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Paragraphs 1 and 3 of Schedule 9 have been prospectively amended by Schedule 13 to the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15). Paragraph 2 has been amended by paragraphs 1, 44 and 79 of Schedule 5 to, and Part 2 of Schedule 12 to, the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42). Paragraphs 2, 3 and 4 have been amended by paragraph 87 of Schedule 13 to the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14). These powers are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales. They were previously transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). By virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), they were transferred to the Welsh Ministers.
 
-[^key-884f09c6af6cc9a8cc928a94cad02917]: Commencement: Reg. 1 in force at 16.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/466/regulation/1/1)
+[^c-884f09c6af6cc9a8cc928a94cad02917]: Commencement: Reg. 1 in force at 16.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/466/regulation/1/1)
 
-[^key-6b63d1b8d301149338be6e888324d754]: Commencement: Reg. 2 in force at 16.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/466/regulation/1/1)
+[^c-6b63d1b8d301149338be6e888324d754]: Commencement: Reg. 2 in force at 16.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/466/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1989/1058](https://www.legislation.gov.uk/uksi/1989/1058) as amended by [S.I. 2009/2154 (W.179)](https://www.legislation.gov.uk/wsi/2009/2154). There are other amendments not relevant to these Regulations.
 
-[^key-32af237a5945d2830661185d76d088ff]: Commencement: Reg. 3 in force at 16.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/466/regulation/1/1)
+[^c-32af237a5945d2830661185d76d088ff]: Commencement: Reg. 3 in force at 16.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/466/regulation/1/1)
 
-[^key-e01ccc7d62f887bc96f74336870a0ec1]: Commencement: Reg. 4 in force at 16.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/466/regulation/1/1)
+[^c-e01ccc7d62f887bc96f74336870a0ec1]: Commencement: Reg. 4 in force at 16.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/466/regulation/1/1)
 
-[^key-961c8b3b435ed2a18807de75f34b619c]: Commencement: Reg. 5 in force at 16.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/466/regulation/1/1)
+[^c-961c8b3b435ed2a18807de75f34b619c]: Commencement: Reg. 5 in force at 16.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/466/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1989/2260](https://www.legislation.gov.uk/uksi/1989/2260) as amended by [S.I. 2009/2154 (W.179)](https://www.legislation.gov.uk/wsi/2009/2154). There are other amendments not relevant to these Regulations.
 
-[^key-cdc8d976654b51a9f6c02d0e42455ba7]: Commencement: Reg. 6 in force at 16.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/466/regulation/1/1)
+[^c-cdc8d976654b51a9f6c02d0e42455ba7]: Commencement: Reg. 6 in force at 16.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/466/regulation/1/1)
 
-[^key-e0f0343767e05a478d902da46b419606]: Commencement: Reg. 7 in force at 16.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/466/regulation/1/1)
+[^c-e0f0343767e05a478d902da46b419606]: Commencement: Reg. 7 in force at 16.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/466/regulation/1/1)
 
-[^key-ea241ef5a9ddccb86604c5f1bf5ee5fc]: Commencement: Reg. 8 in force at 16.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/466/regulation/1/1)
+[^c-ea241ef5a9ddccb86604c5f1bf5ee5fc]: Commencement: Reg. 8 in force at 16.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/466/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1992/3238](https://www.legislation.gov.uk/uksi/1992/3238) as amended by [S.I. 1994/1742](https://www.legislation.gov.uk/uksi/1994/1742) and [3125](https://www.legislation.gov.uk/uksi/1994/3125). Other amendments are not relevant to these Regulations.
 
-[^key-7bd53f106c0b42e4ac7f00da3145a314]: Commencement: Reg. 9 in force at 16.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/466/regulation/1/1)
+[^c-7bd53f106c0b42e4ac7f00da3145a314]: Commencement: Reg. 9 in force at 16.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/466/regulation/1/1)
 
-[^key-82ff235aba2590020d72749f78e2b5b4]: Textual amendment: Word in [reg. 9](https://www.legislation.gov.uk/wsi/2012/466/regulation/9) heading substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017 (S.I. 2017/113)](https://www.legislation.gov.uk/wsi/2017/113), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2), [10(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/10/2)
+[^c-82ff235aba2590020d72749f78e2b5b4]: Textual amendment: Word in [reg. 9](https://www.legislation.gov.uk/wsi/2012/466/regulation/9) heading substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017 (S.I. 2017/113)](https://www.legislation.gov.uk/wsi/2017/113), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2), [10(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/10/2)
 
-[^key-fca5c004d20f0528c120b9a2e1314706]: Textual amendment: Word in [reg. 9](https://www.legislation.gov.uk/wsi/2012/466/regulation/9) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017 (S.I. 2017/113)](https://www.legislation.gov.uk/wsi/2017/113), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2), [10(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/10/2)
+[^c-fca5c004d20f0528c120b9a2e1314706]: Textual amendment: Word in [reg. 9](https://www.legislation.gov.uk/wsi/2012/466/regulation/9) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017 (S.I. 2017/113)](https://www.legislation.gov.uk/wsi/2017/113), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2), [10(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/10/2)
 
 [^f00005]: Footnote: [S.I. 1993/252](https://www.legislation.gov.uk/uksi/1993/252), to which there are amendments not relevant to these Regulations.
 
-[^key-1f675d377856d06644879aec94de61ce]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/wsi/2012/466/regulation/9) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017 (S.I. 2017/113)](https://www.legislation.gov.uk/wsi/2017/113), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2017/113/regulation/10/3)
+[^c-1f675d377856d06644879aec94de61ce]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/wsi/2012/466/regulation/9) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017 (S.I. 2017/113)](https://www.legislation.gov.uk/wsi/2017/113), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2017/113/regulation/10/3)
 
-[^key-b5509b6c6a2ff054f321b1bf35ec924a]: Commencement: Reg. 10 in force at 16.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/466/regulation/1/1)
+[^c-b5509b6c6a2ff054f321b1bf35ec924a]: Commencement: Reg. 10 in force at 16.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/466/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2009/2154 (W.179)](https://www.legislation.gov.uk/wsi/2009/2154).

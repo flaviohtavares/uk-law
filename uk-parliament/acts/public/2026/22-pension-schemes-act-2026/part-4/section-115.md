@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Protection against adverse treatment: amendment of new public schemes[^key-125f8886ccd645557c7d46c3a28c0587]
+## 115. Protection against adverse treatment: amendment of new public schemes[^c-125f8886ccd645557c7d46c3a28c0587]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-125f8886ccd645557c7d46c3a28c0587]: Commencement: S. 115 in force at Royal Assent, see [s. 133(1)(10)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1/10)
+[^c-125f8886ccd645557c7d46c3a28c0587]: Commencement: S. 115 in force at Royal Assent, see [s. 133(1)(10)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Powers of entry[^key-3b2f2e12ea2485ba039efac040016b75]
+## 41. Powers of entry[^c-3b2f2e12ea2485ba039efac040016b75]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b2f2e12ea2485ba039efac040016b75]: Commencement: [S. 41](https://www.legislation.gov.uk/mwa/2010/1/section/41) in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/wsi/2010/2582), [art. 2](https://www.legislation.gov.uk/wsi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/wsi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/wsi/2010/2582/schedule/3))
+[^c-3b2f2e12ea2485ba039efac040016b75]: Commencement: [S. 41](https://www.legislation.gov.uk/mwa/2010/1/section/41) in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/wsi/2010/2582), [art. 2](https://www.legislation.gov.uk/wsi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/wsi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/wsi/2010/2582/schedule/3))

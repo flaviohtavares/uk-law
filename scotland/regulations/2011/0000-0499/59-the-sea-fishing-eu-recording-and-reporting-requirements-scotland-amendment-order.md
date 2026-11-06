@@ -60,7 +60,7 @@ The Sea Fishing (EU Recording and Reporting Requirements) (Scotland) Order 2010 
 
 In article 3(2)(b)(ii), for “Article 5(1) and (4) of Regulation 1077/2008” substitute “ Articles 63 and 67 of the Control Regulation ”[^c20699761].
 
-## 4. Amendment of article 4 (register of fish buyers and sellers with the prescribed annual financial turnover)[^key-75806445d6f669f6b228e85ccc49c6dd]
+## 4. Amendment of article 4 (register of fish buyers and sellers with the prescribed annual financial turnover)[^c-75806445d6f669f6b228e85ccc49c6dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ In article 15(1), for sub-paragraphs (d) to (f) substitute—
 
 In Schedule 1—
 
-- (a)[^key-c9ac70be5c8dfde86496d2668c85c7a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c9ac70be5c8dfde86496d2668c85c7a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after entry 1(i) (relating to Article 66(1) and (3) of the Control Regulation), insert entries “ (j) and (k) ” set out in Part 2 of Schedule 1 to this Order;
 - (c) omit entries 2(a) and (b) (relating to Article 5(1) and (4) of Regulation 1077/2008); and
 - (d) omit entry 3(d) (relating to Article 13 of Regulation 2847/93).
@@ -103,7 +103,7 @@ Edinburgh
 
 Article 7
 
-### PART 1[^key-d9080ab03d9877f220be1548ee0fde21]
+### PART 1[^c-d9080ab03d9877f220be1548ee0fde21]
 
 **No longer in force.**
 
@@ -147,7 +147,7 @@ Article 8
 
 .
 
-### 2. The Sea Fishing (Restriction on Days at Sea) (Scotland) Order 2010[^key-8349b972ac1d29a213215a88e516f196]
+### 2. The Sea Fishing (Restriction on Days at Sea) (Scotland) Order 2010[^c-8349b972ac1d29a213215a88e516f196]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -189,15 +189,15 @@ No Business and Regulatory Impact Assessment has been prepared for this instrume
 
 [^c20699761]: Marginal citation: Although Article 5(1) and (4) of Commission Regulation (EC) No. 1077/2008 (O.J. No. L 295, 4.11.08, p.3) is still in force, it is effectively superseded by Articles 63 and 67 of Council Regulation (EC) No. 1224/2009 (O.J. No. L 343, 22.12.09, p.1) (“**the Control Regulation**”). Regulation 1077/2008 is due to be repealed in early 2011 by a Commission Regulation laying down detailed rules for the implementation of the Control Regulation.
 
-[^key-75806445d6f669f6b228e85ccc49c6dd]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/ssi/2011/59/article/4) revoked (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2) (with [art. 31(3)](https://www.legislation.gov.uk/ssi/2015/320/article/31/3))
+[^c-75806445d6f669f6b228e85ccc49c6dd]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/ssi/2011/59/article/4) revoked (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2) (with [art. 31(3)](https://www.legislation.gov.uk/ssi/2015/320/article/31/3))
 
-[^key-c9ac70be5c8dfde86496d2668c85c7a2]: Textual amendment: [Art. 7(a)](https://www.legislation.gov.uk/ssi/2011/59/article/7/a) revoked (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2) (with [art. 31(3)](https://www.legislation.gov.uk/ssi/2015/320/article/31/3))
+[^c-c9ac70be5c8dfde86496d2668c85c7a2]: Textual amendment: [Art. 7(a)](https://www.legislation.gov.uk/ssi/2011/59/article/7/a) revoked (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2) (with [art. 31(3)](https://www.legislation.gov.uk/ssi/2015/320/article/31/3))
 
-[^key-d9080ab03d9877f220be1548ee0fde21]: Textual amendment: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2011/59/schedule/1/part/1) revoked (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2) (with [art. 31(3)](https://www.legislation.gov.uk/ssi/2015/320/article/31/3))
+[^c-d9080ab03d9877f220be1548ee0fde21]: Textual amendment: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2011/59/schedule/1/part/1) revoked (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2) (with [art. 31(3)](https://www.legislation.gov.uk/ssi/2015/320/article/31/3))
 
 [^c20699771]: Marginal citation: [S.S.I. 2010/100](https://www.legislation.gov.uk/ssi/2010/100).
 
-[^key-8349b972ac1d29a213215a88e516f196]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2011/59/schedule/2/paragraph/2) revoked (1.12.2017) by [The Sea Fishing (Miscellaneous Revocations) (Scotland) Order 2017 (S.S.I. 2017/324)](https://www.legislation.gov.uk/ssi/2017/324), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2017/324/article/1/1), [2](https://www.legislation.gov.uk/ssi/2017/324/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/324/schedule)
+[^c-8349b972ac1d29a213215a88e516f196]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2011/59/schedule/2/paragraph/2) revoked (1.12.2017) by [The Sea Fishing (Miscellaneous Revocations) (Scotland) Order 2017 (S.S.I. 2017/324)](https://www.legislation.gov.uk/ssi/2017/324), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2017/324/article/1/1), [2](https://www.legislation.gov.uk/ssi/2017/324/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/324/schedule)
 
 [^c20699801]: Marginal citation: O.J. No. L 261, 20.10.93, p.1.
 

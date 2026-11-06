@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.22. Warrants under ss.134, 364[^key-4abf4f96ccf663458da55a3f4870ea7f]
+## 7.22. Warrants under ss.134, 364[^c-4abf4f96ccf663458da55a3f4870ea7f]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4abf4f96ccf663458da55a3f4870ea7f]: Commencement: [Rule 7.22](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.22) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-4abf4f96ccf663458da55a3f4870ea7f]: Commencement: [Rule 7.22](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.22) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00204]: Marginal citation: \[FORM 7.6\] \[FORM 7.7\]

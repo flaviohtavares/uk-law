@@ -24,7 +24,7 @@ Regulation 115
 
 ### PART 1 — Interpretation
 
-#### 1. Interpretation[^key-1ffe415ef61bd7e2464831642b43c48b]
+#### 1. Interpretation[^c-1ffe415ef61bd7e2464831642b43c48b]
 
 In this Schedule—
 
@@ -37,7 +37,7 @@ In this Schedule—
 - “the relevant day” means the day on which the lump sum is received by the scheme manager;
 - “the relevant scheme year” means the scheme year in which the relevant day falls.
 
-#### 2. Meaning of “overall limit of extra pension”[^key-93478598460fdd3c0674b1a8f926d2e2]
+#### 2. Meaning of “overall limit of extra pension”[^c-93478598460fdd3c0674b1a8f926d2e2]
 
 (1) The overall limit of extra pension is—
 
@@ -51,11 +51,11 @@ In this Schedule—
 - (a) that pension were eligible to be so increased; and
 - (b) the beginning date for that pension were the first day of the previous scheme year.
 
-#### 3. Limit on elections[^key-380029493bbfa6d8c8c3a2815a6e8323]
+#### 3. Limit on elections[^c-380029493bbfa6d8c8c3a2815a6e8323]
 
 An added pension election may not be exercised by an active member if the amount of extra pension would exceed the overall limit of extra pension if that election were made.
 
-#### 4. Amount of accrued added pension may not exceed overall limit of extra pension[^key-b01fa0810e98b7ef0d00f400b0e6e1d1]
+#### 4. Amount of accrued added pension may not exceed overall limit of extra pension[^c-b01fa0810e98b7ef0d00f400b0e6e1d1]
 
 (1) At any given time, the total amount of accrued added pension in a member’s added pension account may not exceed the overall limit of extra pension.
 
@@ -67,7 +67,7 @@ An added pension election may not be exercised by an active member if the amount
 
 #### CHAPTER 1 — Exercising the added pension election
 
-##### 5. Added pension election exercisable by member[^key-b0feef9367ebf9ab0ec47f6cdb488cac]
+##### 5. Added pension election exercisable by member[^c-b0feef9367ebf9ab0ec47f6cdb488cac]
 
 (1) An active member of this scheme may elect to make added pension payments to this scheme to increase the member’s retirement benefits and death benefits.
 
@@ -83,17 +83,17 @@ An added pension election may not be exercised by an active member if the amount
 - (b) whether the member has an added pension account with another employer; and
 - (c) whether the member is making an added pension election in connection with another scheme employment.
 
-(5)[^key-4c25ae5306c2cba1e9282c387439365a] An election to pay added pension payments by a lump sum payment may only be made if the member gives notice to the scheme manager not later than 12 months after the date on which the person last became employed by that scheme employer as a firefighter.
+(5)[^c-4c25ae5306c2cba1e9282c387439365a] An election to pay added pension payments by a lump sum payment may only be made if the member gives notice to the scheme manager not later than 12 months after the date on which the person last became employed by that scheme employer as a firefighter.
 
 (6) An election to pay added pension payments by periodical payments may only be made at least two years before the member’s normal pension age and cannot be made once the scheme manager has agreed that the member will leave the scheme with entitlement to a pension or an ill-health award.
 
 #### CHAPTER 2 — Periodical payments for added pension
 
-##### 6. Application of Chapter[^key-fbb093885d3928561a47cb1db367f47b]
+##### 6. Application of Chapter[^c-fbb093885d3928561a47cb1db367f47b]
 
 This Chapter applies in relation to an active member of this scheme who elects to make periodical payments for added pension.
 
-##### 7. Member’s election to make periodical payments for added pension[^key-031c16e0b37df0f4f5da9663ece7cd00]
+##### 7. Member’s election to make periodical payments for added pension[^c-031c16e0b37df0f4f5da9663ece7cd00]
 
 (1) The notice of election must specify—
 
@@ -107,7 +107,7 @@ This Chapter applies in relation to an active member of this scheme who elects t
 
 (3) The amount of the periodical payment must not be less than any minimum amount determined by the scheme manager.
 
-##### 8. Periodical payments[^key-5e643d4d9721a5f58fe524e43f7f8bb6]
+##### 8. Periodical payments[^c-5e643d4d9721a5f58fe524e43f7f8bb6]
 
 (1) The periodical payments may be payable by deduction by the member’s employer from the member’s pensionable pay during the periodical payment period.
 
@@ -122,11 +122,11 @@ This Chapter applies in relation to an active member of this scheme who elects t
 
 (3) If the member does not want to pay the periodical payments by deduction from pensionable pay, the scheme manager may agree another method of payment.
 
-##### 9. Discontinuance of periodical payments[^key-783a341bd72127db6380b89099481da6]
+##### 9. Discontinuance of periodical payments[^c-783a341bd72127db6380b89099481da6]
 
 If a member wishes to discontinue the payment of periodical payments, the member must give written notice to the scheme manager.
 
-##### 10. Periodical payments during periods of assumed pensionable pay[^key-95316e8377fea1a179e045fe4705207d]
+##### 10. Periodical payments during periods of assumed pensionable pay[^c-95316e8377fea1a179e045fe4705207d]
 
 (1) The periodical payments are payable by deduction from the member’s pensionable pay during the periodical payments period and whilst the member is treated as receiving assumed pensionable pay, reduced pay or no pay, the member may—
 
@@ -144,7 +144,7 @@ If a member wishes to discontinue the payment of periodical payments, the member
 
 (5) Notice under sub-paragraph (4) must be given to the scheme manager not later than one month after the end of the period of assumed pensionable pay or reduced pay.
 
-##### 11. Amount of added pension for a scheme year[^key-890fdd5d653470329720daa72bd18789]
+##### 11. Amount of added pension for a scheme year[^c-890fdd5d653470329720daa72bd18789]
 
 (1) This paragraph applies for each scheme year during which a member makes periodical payments to increase both the member’s retirement benefits and death benefits.
 
@@ -154,17 +154,17 @@ If a member wishes to discontinue the payment of periodical payments, the member
 
 #### CHAPTER 3 — Lump sum payments for added pension
 
-##### 12. Application of Chapter[^key-b304b8e1a21e24a7bb8213501322b1d8]
+##### 12. Application of Chapter[^c-b304b8e1a21e24a7bb8213501322b1d8]
 
 This Chapter applies in relation to an active member of this scheme who has elected to make a lump sum payment for added pension.
 
-##### 13. Member’s election to make a lump sum payment for added pension[^key-970395dd6386a07d8e28134532a86c11]
+##### 13. Member’s election to make a lump sum payment for added pension[^c-970395dd6386a07d8e28134532a86c11]
 
 (1) The notice of election must specify the amount of lump sum which must not be less than any minimum amount determined by the scheme manager.
 
 (2) If the lump sum is not paid within three months after the date on which the notice of election was given, then the notice of election is void.
 
-##### 14. Amount of added pension to be credited to added pension account[^key-f9497ee8ff532a0d86d65c7d2d82fa5f]
+##### 14. Amount of added pension to be credited to added pension account[^c-f9497ee8ff532a0d86d65c7d2d82fa5f]
 
 (1) This paragraph applies if a member elects to pay a lump sum to increase the member’s retirement benefits and death benefits.
 
@@ -174,32 +174,32 @@ This Chapter applies in relation to an active member of this scheme who has elec
 
 ## Annotations
 
-[^key-1ffe415ef61bd7e2464831642b43c48b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/1) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-1ffe415ef61bd7e2464831642b43c48b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/1) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-93478598460fdd3c0674b1a8f926d2e2]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/2) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-93478598460fdd3c0674b1a8f926d2e2]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/2) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-380029493bbfa6d8c8c3a2815a6e8323]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/3) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-380029493bbfa6d8c8c3a2815a6e8323]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/3) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-b01fa0810e98b7ef0d00f400b0e6e1d1]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/4) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-b01fa0810e98b7ef0d00f400b0e6e1d1]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/4) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-b0feef9367ebf9ab0ec47f6cdb488cac]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/5) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-b0feef9367ebf9ab0ec47f6cdb488cac]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/5) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-4c25ae5306c2cba1e9282c387439365a]: Modification: [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/5/5) excluded (1.10.2023) by [The Firefighters’ Pensions (Remediable Service) Regulations 2023 (S.I. 2023/843)](https://www.legislation.gov.uk/uksi/2023/843), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/843/regulation/1/b), [30](https://www.legislation.gov.uk/uksi/2023/843/regulation/30)
+[^c-4c25ae5306c2cba1e9282c387439365a]: Modification: [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/5/5) excluded (1.10.2023) by [The Firefighters’ Pensions (Remediable Service) Regulations 2023 (S.I. 2023/843)](https://www.legislation.gov.uk/uksi/2023/843), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/843/regulation/1/b), [30](https://www.legislation.gov.uk/uksi/2023/843/regulation/30)
 
-[^key-fbb093885d3928561a47cb1db367f47b]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/6) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-fbb093885d3928561a47cb1db367f47b]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/6) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-031c16e0b37df0f4f5da9663ece7cd00]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/7) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-031c16e0b37df0f4f5da9663ece7cd00]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/7) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-5e643d4d9721a5f58fe524e43f7f8bb6]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/8) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-5e643d4d9721a5f58fe524e43f7f8bb6]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/8) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-783a341bd72127db6380b89099481da6]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/9) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-783a341bd72127db6380b89099481da6]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/9) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-95316e8377fea1a179e045fe4705207d]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/10) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-95316e8377fea1a179e045fe4705207d]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/10) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-890fdd5d653470329720daa72bd18789]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/11) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-890fdd5d653470329720daa72bd18789]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/11) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-b304b8e1a21e24a7bb8213501322b1d8]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/12) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-b304b8e1a21e24a7bb8213501322b1d8]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/12) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-970395dd6386a07d8e28134532a86c11]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/13) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-970395dd6386a07d8e28134532a86c11]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/13) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-f9497ee8ff532a0d86d65c7d2d82fa5f]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/14) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-f9497ee8ff532a0d86d65c7d2d82fa5f]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2014/2848/schedule/1/paragraph/14) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

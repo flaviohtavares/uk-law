@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 156. Rules of court[^key-23164a0f7a452f0fd4a1f4e9ccda98db]
+## 156. Rules of court[^c-23164a0f7a452f0fd4a1f4e9ccda98db]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23164a0f7a452f0fd4a1f4e9ccda98db]: Commencement: S. 156 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-23164a0f7a452f0fd4a1f4e9ccda98db]: Commencement: S. 156 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -31,7 +31,7 @@ summary: ''
 
 PESTICIDES
 
-Plant Protection Products (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^key-5e44b7ea8417c75419deb07bb793e232]
+Plant Protection Products (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^c-5e44b7ea8417c75419deb07bb793e232]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into operation
 
 7th April 2003
 
-[^key-5e44b7ea8417c75419deb07bb793e232]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5e44b7ea8417c75419deb07bb793e232]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-5e44b7ea8417c75419deb07bb793e232]
+## 1. Citation, commencement and interpretation[^c-5e44b7ea8417c75419deb07bb793e232]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Protection Products Regulations (Northern Ireland) 1995[^key-5e44b7ea8417c75419deb07bb793e232]
+## 2. Amendment of the Plant Protection Products Regulations (Northern Ireland) 1995[^c-5e44b7ea8417c75419deb07bb793e232]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-5e44b7ea8417c75419deb07bb793e232]
+## 4. Revocation[^c-5e44b7ea8417c75419deb07bb793e232]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5e44b7ea8417c75419deb07bb793e232]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5e44b7ea8417c75419deb07bb793e232]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-5e44b7ea8417c75419deb07bb793e232]
+## SCHEDULE[^c-5e44b7ea8417c75419deb07bb793e232]
 
 Regulation 2(5)
 
-> **SCHEDULE AA1 — INSTRUMENTS AMENDING COUNCIL DIRECTIVE [1991/414/EC](https://www.legislation.gov.uk/european/directive/1991/0414)[^key-5e44b7ea8417c75419deb07bb793e232]**
+> **SCHEDULE AA1 — INSTRUMENTS AMENDING COUNCIL DIRECTIVE [1991/414/EC](https://www.legislation.gov.uk/european/directive/1991/0414)[^c-5e44b7ea8417c75419deb07bb793e232]**
 >
 > Regulation 2
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **SCHEDULE A1 — DATES FOR EXTENSIONS OF PROVISIONAL APPROVALS[^key-5e44b7ea8417c75419deb07bb793e232]**
+> **SCHEDULE A1 — DATES FOR EXTENSIONS OF PROVISIONAL APPROVALS[^c-5e44b7ea8417c75419deb07bb793e232]**
 >
 > Regulation 7(5A)
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5e44b7ea8417c75419deb07bb793e232]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5e44b7ea8417c75419deb07bb793e232]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5e44b7ea8417c75419deb07bb793e232]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/79) revoked (5.5.2004) by [Plant Protection Products Regulations (Northern Ireland) 2004 (S.R. 2004/126)](https://www.legislation.gov.uk/nisr/2004/126), [regs. 1](https://www.legislation.gov.uk/nisr/2004/126/regulation/1), [28](https://www.legislation.gov.uk/nisr/2004/126/regulation/28)
+[^c-5e44b7ea8417c75419deb07bb793e232]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/79) revoked (5.5.2004) by [Plant Protection Products Regulations (Northern Ireland) 2004 (S.R. 2004/126)](https://www.legislation.gov.uk/nisr/2004/126), [regs. 1](https://www.legislation.gov.uk/nisr/2004/126/regulation/1), [28](https://www.legislation.gov.uk/nisr/2004/126/regulation/28)

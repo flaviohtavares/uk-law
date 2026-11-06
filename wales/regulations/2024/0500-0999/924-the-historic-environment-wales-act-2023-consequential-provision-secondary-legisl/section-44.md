@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. The REACH Enforcement Regulations 2008[^key-a0ce405b5a676fc26262b56e609610c3]
+## 44. The REACH Enforcement Regulations 2008[^c-a0ce405b5a676fc26262b56e609610c3]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ In Schedule 5 to the REACH Enforcement Regulations 2008[^f00028], in Part 1, par
 
 ## Annotations
 
-[^key-a0ce405b5a676fc26262b56e609610c3]: Commencement: [Reg. 44](https://www.legislation.gov.uk/wsi/2024/924/regulation/44) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-a0ce405b5a676fc26262b56e609610c3]: Commencement: [Reg. 44](https://www.legislation.gov.uk/wsi/2024/924/regulation/44) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00028]: Footnote: [S.I. 2008/2852](https://www.legislation.gov.uk/uksi/2008/2852), to which there are amendments not relevant to these Regulations.

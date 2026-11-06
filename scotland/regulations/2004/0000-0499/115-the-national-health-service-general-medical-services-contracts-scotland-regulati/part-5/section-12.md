@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. NHS contracts[^key-6f839b949d57dbec7f500a52d5dce1cd]
+## 12. NHS contracts[^c-6f839b949d57dbec7f500a52d5dce1cd]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ If the contractor is to be regarded as a health service body pursuant to regulat
 
 ## Annotations
 
-[^key-6f839b949d57dbec7f500a52d5dce1cd]: Commencement: Reg. 12 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-6f839b949d57dbec7f500a52d5dce1cd]: Commencement: Reg. 12 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

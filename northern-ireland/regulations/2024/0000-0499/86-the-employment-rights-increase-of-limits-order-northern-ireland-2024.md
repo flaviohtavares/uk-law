@@ -32,7 +32,7 @@ summary: ''
 
 Terms And Conditions Of Employment
 
-The Employment Rights (Increase of Limits) Order (Northern Ireland) 2024 (revoked)[^key-989d6080e92afe7411bba42fca79a653]
+The Employment Rights (Increase of Limits) Order (Northern Ireland) 2024 (revoked)[^c-989d6080e92afe7411bba42fca79a653]
 
 Made
 
@@ -42,31 +42,31 @@ Coming into operation
 
 6th April 2024
 
-[^key-989d6080e92afe7411bba42fca79a653]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-989d6080e92afe7411bba42fca79a653]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-989d6080e92afe7411bba42fca79a653]
+## 1. Citation, commencement and interpretation[^c-989d6080e92afe7411bba42fca79a653]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-989d6080e92afe7411bba42fca79a653]
+## 2. Revocation[^c-989d6080e92afe7411bba42fca79a653]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increase of limits[^key-989d6080e92afe7411bba42fca79a653]
+## 3. Increase of limits[^c-989d6080e92afe7411bba42fca79a653]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Saving and transitional provision[^key-989d6080e92afe7411bba42fca79a653]
+## 4. Saving and transitional provision[^c-989d6080e92afe7411bba42fca79a653]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-989d6080e92afe7411bba42fca79a653]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-989d6080e92afe7411bba42fca79a653]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — INCREASE OF LIMITS[^key-989d6080e92afe7411bba42fca79a653]
+## SCHEDULE — INCREASE OF LIMITS[^c-989d6080e92afe7411bba42fca79a653]
 
 Article 3
 
@@ -74,8 +74,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-989d6080e92afe7411bba42fca79a653]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-989d6080e92afe7411bba42fca79a653]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-989d6080e92afe7411bba42fca79a653]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2024/86) revoked (6.4.2025) by [The Employment Rights (Increase of Limits) Order (Northern Ireland) 2025 (S.R. 2025/63)](https://www.legislation.gov.uk/nisr/2025/63), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2025/63/article/1/1), [2](https://www.legislation.gov.uk/nisr/2025/63/article/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2025/63/article/4))
+[^c-989d6080e92afe7411bba42fca79a653]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2024/86) revoked (6.4.2025) by [The Employment Rights (Increase of Limits) Order (Northern Ireland) 2025 (S.R. 2025/63)](https://www.legislation.gov.uk/nisr/2025/63), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2025/63/article/1/1), [2](https://www.legislation.gov.uk/nisr/2025/63/article/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2025/63/article/4))

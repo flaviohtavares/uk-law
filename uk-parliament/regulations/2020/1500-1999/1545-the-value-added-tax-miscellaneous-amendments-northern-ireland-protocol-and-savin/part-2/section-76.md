@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76.[^key-93052c03bedb05ac10f54fb52c2877ee]
+## 76.[^c-93052c03bedb05ac10f54fb52c2877ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The heading to regulation 145G (fiscal warehousing transfers within the United K
 
 ## Annotations
 
-[^key-93052c03bedb05ac10f54fb52c2877ee]: Commencement: Reg. 76 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-93052c03bedb05ac10f54fb52c2877ee]: Commencement: Reg. 76 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Forfeiture: relevant monetary obligations and relevant monetary losses[^key-d6efb6815378c725e184e654fe90113d]
+## 167. Forfeiture: relevant monetary obligations and relevant monetary losses[^c-d6efb6815378c725e184e654fe90113d]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6efb6815378c725e184e654fe90113d]: Commencement: [Reg. 167](https://www.legislation.gov.uk/uksi/2014/1964/regulation/167) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-d6efb6815378c725e184e654fe90113d]: Commencement: [Reg. 167](https://www.legislation.gov.uk/uksi/2014/1964/regulation/167) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

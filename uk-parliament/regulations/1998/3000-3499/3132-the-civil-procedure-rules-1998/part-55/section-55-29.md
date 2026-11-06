@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55.29. Stay of possession proceedings, coronavirus[^key-bb0caf5eda81315970c360d94f4c1516][^key-6d372728ca614d30331c2a6aa037d325]
+## 55.29. Stay of possession proceedings, coronavirus[^c-bb0caf5eda81315970c360d94f4c1516][^c-6d372728ca614d30331c2a6aa037d325]
 
 *Extent: E+W*
 
 (1) Subject to paragraph (2), all possession proceedings brought under this Part and all enforcement proceedings by way of writ or warrant of possession that are—
 
 - (a) stayed immediately prior to this rule coming into force; or
-- (b) brought after this rule comes into force and on or before 19 September 2020[^key-bdd333a71df85520bb64c1ecfe74e114],
+- (b) brought after this rule comes into force and on or before 19 September 2020[^c-bdd333a71df85520bb64c1ecfe74e114],
 
-are stayed until 20 September 2020[^key-5694ade385180092bc9ee99d48a32c8f].
+are stayed until 20 September 2020[^c-5694ade385180092bc9ee99d48a32c8f].
 
 (2) Paragraph (1) does not apply to—
 
@@ -43,10 +43,10 @@ are stayed until 20 September 2020[^key-5694ade385180092bc9ee99d48a32c8f].
 
 ## Annotations
 
-[^key-bb0caf5eda81315970c360d94f4c1516]: Textual amendment: [Rule 55.29](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.29) inserted (25.6.2020) by [The Civil Procedure (Amendment No. 2) (Coronavirus) Rules 2020 (S.I. 2020/582)](https://www.legislation.gov.uk/uksi/2020/582), [rules 1](https://www.legislation.gov.uk/uksi/2020/582/rule/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/582/rule/2/b)
+[^c-bb0caf5eda81315970c360d94f4c1516]: Textual amendment: [Rule 55.29](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.29) inserted (25.6.2020) by [The Civil Procedure (Amendment No. 2) (Coronavirus) Rules 2020 (S.I. 2020/582)](https://www.legislation.gov.uk/uksi/2020/582), [rules 1](https://www.legislation.gov.uk/uksi/2020/582/rule/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/582/rule/2/b)
 
-[^key-6d372728ca614d30331c2a6aa037d325]: Textual amendment: Pt. 55 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/256/schedule/1) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
+[^c-6d372728ca614d30331c2a6aa037d325]: Textual amendment: Pt. 55 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/256/schedule/1) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
 
-[^key-bdd333a71df85520bb64c1ecfe74e114]: Textual amendment: Words in [rule 55.29(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.29/1) substituted (22.8.2020) by [The Civil Procedure (Amendment No. 5) (Coronavirus) Rules 2020 (S.I. 2020/889)](https://www.legislation.gov.uk/uksi/2020/889), [rules 1](https://www.legislation.gov.uk/uksi/2020/889/rule/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/889/rule/2/a)
+[^c-bdd333a71df85520bb64c1ecfe74e114]: Textual amendment: Words in [rule 55.29(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.29/1) substituted (22.8.2020) by [The Civil Procedure (Amendment No. 5) (Coronavirus) Rules 2020 (S.I. 2020/889)](https://www.legislation.gov.uk/uksi/2020/889), [rules 1](https://www.legislation.gov.uk/uksi/2020/889/rule/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/889/rule/2/a)
 
-[^key-5694ade385180092bc9ee99d48a32c8f]: Textual amendment: Words in [rule 55.29(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.29/1) substituted (22.8.2020) by [The Civil Procedure (Amendment No. 5) (Coronavirus) Rules 2020 (S.I. 2020/889)](https://www.legislation.gov.uk/uksi/2020/889), [rules 1](https://www.legislation.gov.uk/uksi/2020/889/rule/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/889/rule/2/b)
+[^c-5694ade385180092bc9ee99d48a32c8f]: Textual amendment: Words in [rule 55.29(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.29/1) substituted (22.8.2020) by [The Civil Procedure (Amendment No. 5) (Coronavirus) Rules 2020 (S.I. 2020/889)](https://www.legislation.gov.uk/uksi/2020/889), [rules 1](https://www.legislation.gov.uk/uksi/2020/889/rule/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/889/rule/2/b)

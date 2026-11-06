@@ -22,11 +22,11 @@ summary: ''
 
 Section 58
 
-**1.**[^c22548841][^key-79c3a5a966fc0427054e38051a42c385] The London Local Authorities Act 2007 is amended as follows.
+**1.**[^c22548841][^c-79c3a5a966fc0427054e38051a42c385] The London Local Authorities Act 2007 is amended as follows.
 
-**2.**[^c22548851][^key-5dfeb86a66633d85c581ed361d22deca] In section 20 (regulations relating to receptacles for household waste), in subsection (9), for “46(2) to (6)” substitute “ 46(2) to (5) ”.
+**2.**[^c22548851][^c-5dfeb86a66633d85c581ed361d22deca] In section 20 (regulations relating to receptacles for household waste), in subsection (9), for “46(2) to (6)” substitute “ 46(2) to (5) ”.
 
-**3.**[^c22548861][^key-45baee0f1ffbce1d0eb466a4facf900c] After section 20 insert—
+**3.**[^c22548861][^c-45baee0f1ffbce1d0eb466a4facf900c] After section 20 insert—
 
 > **20A. Regulations relating to receptacles for household waste: enforcement**
 >
@@ -130,7 +130,7 @@ Section 58
 >
 > (5) Schedule 4 applies in relation to the administration and enforcement of section 20A as it applies in relation to the administration and enforcement of section 61.
 
-**4.**[^c22548871][^key-e5999f91b172bdac888dba2b77e7b5e0] (1) Section 23 (regulations relating to receptacles for waste: enforcement) is amended as follows.
+**4.**[^c22548871][^c-e5999f91b172bdac888dba2b77e7b5e0] (1) Section 23 (regulations relating to receptacles for waste: enforcement) is amended as follows.
 
 (2) In subsection (2), omit “subsection (1) of section 20 (regulations relating to receptacles for household waste) or”.
 
@@ -145,16 +145,16 @@ Section 58
 
 [^c22548841]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/12) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-79c3a5a966fc0427054e38051a42c385]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/12/paragraph/1) in force at 15.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 8](https://www.legislation.gov.uk/uksi/2015/994/article/8)
+[^c-79c3a5a966fc0427054e38051a42c385]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/12/paragraph/1) in force at 15.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 8](https://www.legislation.gov.uk/uksi/2015/994/article/8)
 
 [^c22548851]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/12) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-5dfeb86a66633d85c581ed361d22deca]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/12/paragraph/2) in force at 15.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 8](https://www.legislation.gov.uk/uksi/2015/994/article/8)
+[^c-5dfeb86a66633d85c581ed361d22deca]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/12/paragraph/2) in force at 15.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 8](https://www.legislation.gov.uk/uksi/2015/994/article/8)
 
 [^c22548861]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/12) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-45baee0f1ffbce1d0eb466a4facf900c]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/12/paragraph/3) in force at 15.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 8](https://www.legislation.gov.uk/uksi/2015/994/article/8)
+[^c-45baee0f1ffbce1d0eb466a4facf900c]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/12/paragraph/3) in force at 15.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 8](https://www.legislation.gov.uk/uksi/2015/994/article/8)
 
 [^c22548871]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/12) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-e5999f91b172bdac888dba2b77e7b5e0]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/12/paragraph/4) in force at 15.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 8](https://www.legislation.gov.uk/uksi/2015/994/article/8)
+[^c-e5999f91b172bdac888dba2b77e7b5e0]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/12/paragraph/4) in force at 15.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 8](https://www.legislation.gov.uk/uksi/2015/994/article/8)

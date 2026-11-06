@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76B. Payments in respect of compliance costs[^key-1fbdc598e5e28c601c8bafe9ef7a6ce1]
+## 76B. Payments in respect of compliance costs[^c-1fbdc598e5e28c601c8bafe9ef7a6ce1]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fbdc598e5e28c601c8bafe9ef7a6ce1]: Textual amendment: [Pt. 3 Ch. 2A](https://www.legislation.gov.uk/ukpga/2013/32/part/3/chapter/2A) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/1/2), [6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/a)
+[^c-1fbdc598e5e28c601c8bafe9ef7a6ce1]: Textual amendment: [Pt. 3 Ch. 2A](https://www.legislation.gov.uk/ukpga/2013/32/part/3/chapter/2A) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/1/2), [6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/a)

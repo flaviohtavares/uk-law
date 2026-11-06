@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79A. Register of rents under restricted contracts relating to dwellings in England[^key-dfea56ee3626ea4d6aef43e71fac25c6]
+## 79A. Register of rents under restricted contracts relating to dwellings in England[^c-dfea56ee3626ea4d6aef43e71fac25c6]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfea56ee3626ea4d6aef43e71fac25c6]: Textual amendment: [S. 79A](https://www.legislation.gov.uk/ukpga/1977/42/section/79A) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/22) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-dfea56ee3626ea4d6aef43e71fac25c6]: Textual amendment: [S. 79A](https://www.legislation.gov.uk/ukpga/1977/42/section/79A) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/22) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

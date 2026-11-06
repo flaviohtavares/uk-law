@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. General duties of the mine operator[^key-1093991ebfa15f34d8cf7f82134c2a09]
+## 7. General duties of the mine operator[^c-1093991ebfa15f34d8cf7f82134c2a09]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1093991ebfa15f34d8cf7f82134c2a09]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/3248/regulation/7) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-1093991ebfa15f34d8cf7f82134c2a09]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/3248/regulation/7) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

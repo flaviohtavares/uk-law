@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128S. Variation of added units of benefit after conversion under regulation 128R[^key-73af1ad52439faa59a794455bec473bf]
+## 128S. Variation of added units of benefit after conversion under regulation 128R[^c-73af1ad52439faa59a794455bec473bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) A retired FPJABS member may—
 
 - (a) purchase more added units of benefit by giving a notice under regulation 128E; or
-- (b) decrease the number of added units of benefit by giving notice in writing to the administrators before 1st April 2027[^key-bccca0c3ad064406bd11449b3d0168e9] (or by such later date as the administrators may agree).
+- (b) decrease the number of added units of benefit by giving notice in writing to the administrators before 1st April 2027[^c-bccca0c3ad064406bd11449b3d0168e9] (or by such later date as the administrators may agree).
 
 (3) If the retired FPJABS member purchases more added units of benefit, the following provisions apply as if the added units of benefit obtained under regulation 128R were included in the member’s notice given under regulation 128E—
 
@@ -44,7 +44,7 @@ summary: ''
 (7) An unretired FPJABS member may—
 
 - (a) purchase more added units of benefit by giving a notice under regulation 128E; or
-- (b) decrease the number of added units of benefit by giving notice in writing to the administrators before 1st April 2027[^key-fcc71f4a771925753c95d1e37cf4d9f3] (or by such later date as the administrators may agree).
+- (b) decrease the number of added units of benefit by giving notice in writing to the administrators before 1st April 2027[^c-fcc71f4a771925753c95d1e37cf4d9f3] (or by such later date as the administrators may agree).
 
 (8) If the unretired FPJABS member purchases more added units of benefit the following provisions apply as if the added units of benefit obtained under regulation 128R were included in the member’s notice given under regulation 128E—
 
@@ -65,8 +65,8 @@ summary: ''
 
 ## Annotations
 
-[^key-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)
+[^c-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)
 
-[^key-bccca0c3ad064406bd11449b3d0168e9]: Textual amendment: Word in [reg. 128S(2)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128S/2/b) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [34(a)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/34/a)
+[^c-bccca0c3ad064406bd11449b3d0168e9]: Textual amendment: Word in [reg. 128S(2)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128S/2/b) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [34(a)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/34/a)
 
-[^key-fcc71f4a771925753c95d1e37cf4d9f3]: Textual amendment: Word in [reg. 128S(7)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128S/7/b) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [34(b)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/34/b)
+[^c-fcc71f4a771925753c95d1e37cf4d9f3]: Textual amendment: Word in [reg. 128S(7)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128S/7/b) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [34(b)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/34/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195A. Construction of references to threshold number of employees[^key-ec798f93e5724803dfea126ae582d389]
+## 195A. Construction of references to threshold number of employees[^c-ec798f93e5724803dfea126ae582d389]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec798f93e5724803dfea126ae582d389]: Textual amendment: [S. 195A](https://www.legislation.gov.uk/ukpga/1992/52/section/195A) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/29/5), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(14)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/14/b)
+[^c-ec798f93e5724803dfea126ae582d389]: Textual amendment: [S. 195A](https://www.legislation.gov.uk/ukpga/1992/52/section/195A) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/29/5), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(14)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/14/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Traffic regulation[^key-22ce83a0aa288e26b424c013ad6f177e]
+## 32. Traffic regulation[^c-22ce83a0aa288e26b424c013ad6f177e]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ and the instrument by which it is effected may specify savings and exemptions (i
 
 ## Annotations
 
-[^key-22ce83a0aa288e26b424c013ad6f177e]: Commencement: Art. 32 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-22ce83a0aa288e26b424c013ad6f177e]: Commencement: Art. 32 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

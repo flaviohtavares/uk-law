@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — Public Rights of Way to be temporarily closed[^key-c8bd05d730cdf03b5a2ce29420b51cde]
+## SCHEDULE 4 — Public Rights of Way to be temporarily closed[^c-c8bd05d730cdf03b5a2ce29420b51cde]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ Article 11
 
 ## Annotations
 
-[^key-c8bd05d730cdf03b5a2ce29420b51cde]: Commencement: Sch. 4 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-c8bd05d730cdf03b5a2ce29420b51cde]: Commencement: Sch. 4 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)

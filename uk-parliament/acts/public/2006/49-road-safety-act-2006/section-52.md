@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Immediate suspension and revocation of drivers' licences[^key-b04d5b5fb1477ada365a80f2217627cb]
+## 52. Immediate suspension and revocation of drivers' licences[^c-b04d5b5fb1477ada365a80f2217627cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b04d5b5fb1477ada365a80f2217627cb]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2006/49/section/52) in force at 16.3.2007 for E.W. by [S.I. 2007/466](https://www.legislation.gov.uk/uksi/2007/466), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/466/article/2/b)
+[^c-b04d5b5fb1477ada365a80f2217627cb]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2006/49/section/52) in force at 16.3.2007 for E.W. by [S.I. 2007/466](https://www.legislation.gov.uk/uksi/2007/466), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/466/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Change of non-residential limit on collective enfranchisement claims[^key-990fd33ba506cf3c2e99846e0d81daec]
+## 29. Change of non-residential limit on collective enfranchisement claims[^c-990fd33ba506cf3c2e99846e0d81daec]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In section 4(1)(b) of the LRHUDA 1993 (non-residential limit on collective enfra
 
 ## Annotations
 
-[^key-990fd33ba506cf3c2e99846e0d81daec]: Commencement: S. 29 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-990fd33ba506cf3c2e99846e0d81daec]: Commencement: S. 29 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

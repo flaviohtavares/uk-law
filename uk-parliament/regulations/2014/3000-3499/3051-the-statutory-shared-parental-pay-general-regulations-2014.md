@@ -45,7 +45,7 @@ Coming into force
 
 [^c2226634][^c2226635]This instrument contains only regulations made by virtue of, or consequential upon, section 119 of the Children and Families Act 2014 and is made before the end of the period of 6 months beginning with the coming into force of that enactment .
 
-The Secretary of State, in exercise of the powers conferred by sections 171ZU(1), (2), (3), (4), (5), (12), (13), (14) and (15), 171ZV(1), (2), (3), (4), (5), (12), (13), (14), (15) and (17), 171ZW(1)(a) to (f), 171ZX(2) and (3), 171ZY(1), (3), (4) and (5), 171ZZ1(3), 171ZZ4(3), (4), (7) and (8) and 175(3) of the Social Security Contributions and Benefits Act 1992 [^c2226636] and by section 5(1)(g), (i), (l) and (p) of the Social Security Administration Act 1992 [^c2226637] and with the concurrence of the Commissioners for Her Majesty's Revenue and Customs in so far as such concurrence is required, makes the following Regulations:[^key-0ed46bbb978609d4a6f08a5d49164079]
+The Secretary of State, in exercise of the powers conferred by sections 171ZU(1), (2), (3), (4), (5), (12), (13), (14) and (15), 171ZV(1), (2), (3), (4), (5), (12), (13), (14), (15) and (17), 171ZW(1)(a) to (f), 171ZX(2) and (3), 171ZY(1), (3), (4) and (5), 171ZZ1(3), 171ZZ4(3), (4), (7) and (8) and 175(3) of the Social Security Contributions and Benefits Act 1992 [^c2226636] and by section 5(1)(g), (i), (l) and (p) of the Social Security Administration Act 1992 [^c2226637] and with the concurrence of the Commissioners for Her Majesty's Revenue and Customs in so far as such concurrence is required, makes the following Regulations:[^c-0ed46bbb978609d4a6f08a5d49164079]
 
 ## PART 1 — GENERAL
 
@@ -53,7 +53,7 @@ The Secretary of State, in exercise of the powers conferred by sections 171ZU(1)
 
 These Regulations may be cited as the Statutory Shared Parental Pay (General) Regulations 2014 and come into force on 1st December 2014.
 
-### 2. Definitions[^key-fe09a30ea16bf27ab99d1da1b656e242]
+### 2. Definitions[^c-fe09a30ea16bf27ab99d1da1b656e242]
 
 (1) In these Regulations—
 
@@ -102,7 +102,7 @@ These Regulations may be cited as the Statutory Shared Parental Pay (General) Re
 These Regulations apply in relation to—
 
 - (a) statutory shared parental pay (birth) in respect of children whose expected week of birth begins on or after 5th April 2015;
-- (b)[^key-79bbda88588b0dddf3bc4ed7abbb809a] statutory shared parental pay (adoption) in respect of children placed for adoption on or after 5th April 2015.
+- (b)[^c-79bbda88588b0dddf3bc4ed7abbb809a] statutory shared parental pay (adoption) in respect of children placed for adoption on or after 5th April 2015.
 
 ## PART 2 — ENTITLEMENT TO STATUTORY SHARED PARENTAL PAY (BIRTH)
 
@@ -391,7 +391,7 @@ Despite section 171ZY(3) of the 1992 Act (statutory shared parental pay not paya
 
 The Part 1 of the Schedule (statutory shared parental pay in special circumstances) has effect.
 
-## PART 3 — ENTITLEMENT TO STATUTORY SHARED PARENTAL PAY (ADOPTION)[^key-5f8a0f068b2b110d65aa37c5ad60d467]
+## PART 3 — ENTITLEMENT TO STATUTORY SHARED PARENTAL PAY (ADOPTION)[^c-5f8a0f068b2b110d65aa37c5ad60d467]
 
 ### 17. Entitlement of adopter to statutory shared parental pay (adoption)
 
@@ -633,7 +633,7 @@ Despite section 171ZY(3) of the 1992 Act (statutory shared parental pay not paya
 
 Part 2 of the Schedule (statutory shared parental pay in special circumstances) has effect.
 
-## PART 4 — CONDITIONS OF ENTITLEMENT RELATING TO EMPLOYMENT AND EARNINGS[^key-5f8a0f068b2b110d65aa37c5ad60d467]
+## PART 4 — CONDITIONS OF ENTITLEMENT RELATING TO EMPLOYMENT AND EARNINGS[^c-5f8a0f068b2b110d65aa37c5ad60d467]
 
 ### 29. Conditions relating to employment and earnings of a claimant's partner
 
@@ -644,9 +644,9 @@ Part 2 of the Schedule (statutory shared parental pay in special circumstances) 
 
 (2) A person's average weekly earnings are determined by dividing by 13 the specified payments made, or treated as being made, to or for the benefit of that person in the 13 weeks (whether or not consecutive) in the period of 66 weeks immediately preceding the calculation week in which the payments are greatest.
 
-(3) Where a person receives any pay after the end of the period in paragraph (2)[^key-f07ba9e48109eecca5c1de064a447053] in respect of any week falling within that period, the average weekly amount is to be determined as if such sum had been paid in that period.
+(3) Where a person receives any pay after the end of the period in paragraph (2)[^c-f07ba9e48109eecca5c1de064a447053] in respect of any week falling within that period, the average weekly amount is to be determined as if such sum had been paid in that period.
 
-(4) Where a person is not paid weekly, the payments made or treated as made for that person's benefit for the purposes of paragraph (2)[^key-46b600a9cc934cb2c4ac5cc25eb032e0], are to be determined by dividing the total sum paid to that individual by the nearest whole number of weeks in respect of which that sum is paid.
+(4) Where a person is not paid weekly, the payments made or treated as made for that person's benefit for the purposes of paragraph (2)[^c-46b600a9cc934cb2c4ac5cc25eb032e0], are to be determined by dividing the total sum paid to that individual by the nearest whole number of weeks in respect of which that sum is paid.
 
 (5) In this regulation—
 
@@ -679,7 +679,7 @@ Part 2 of the Schedule (statutory shared parental pay in special circumstances) 
 - (b) the person's normal weekly earnings for the period of eight weeks ending with the week immediately preceding C's actual week of birth are not less than the lower earnings limit in force under section 5(1)(a) of the 1992 Act immediately before the commencement of C's actual week of birth; and
 - (c) the person continues in employed earner's employment with the employer by reference to whom the condition in sub-paragraph (a) is satisfied for a continuous period beginning with the date of C's birth and ending with the week before the first week falling within the relevant period relating to that person under section 171ZY(2) of the 1992 Act.
 
-(1A)[^key-ec73a83a34e3d740eff2e82862a67f12] Paragraph (1B) applies where a person has been in employed earner’s employment with the same employer in each of 26 consecutive weeks (but no more than 26 weeks), ending with the relevant week.
+(1A)[^c-ec73a83a34e3d740eff2e82862a67f12] Paragraph (1B) applies where a person has been in employed earner’s employment with the same employer in each of 26 consecutive weeks (but no more than 26 weeks), ending with the relevant week.
 
 (1B) For the purpose of determining whether a person meets the condition in paragraph (1)(a), the first of those 26 weeks is a period commencing on the first day of the person’s employment with the employer (“the start date”) and ending at midnight on—
 
@@ -695,10 +695,10 @@ Part 2 of the Schedule (statutory shared parental pay in special circumstances) 
 (1) The conditions as to continuity of employment and normal weekly earnings referred to in regulations 17(2)(a) and 18(2)(a) relating to the entitlement of A and AP to statutory shared parental pay (adoption) are—
 
 - (a) the person has been in employed earner's employment with an employer for a continuous period of at least 26 weeks ending with the relevant week;
-- (b) the person's normal weekly earnings (see regulation 32) with the employer by reference to which the condition in sub-paragraph (a) is satisfied for the period of eight weeks ending with the relevant week are not less than the lower earnings limit in force under subsection (1)(a) of section 5 (earnings limits and thresholds for class 1 contributions) of the 1992 Act at the end of the relevant week[^key-4c8ffe91cad7859d969aa35d0bddaec5];
+- (b) the person's normal weekly earnings (see regulation 32) with the employer by reference to which the condition in sub-paragraph (a) is satisfied for the period of eight weeks ending with the relevant week are not less than the lower earnings limit in force under subsection (1)(a) of section 5 (earnings limits and thresholds for class 1 contributions) of the 1992 Act at the end of the relevant week[^c-4c8ffe91cad7859d969aa35d0bddaec5];
 - (c) the person continues in employed earner's employment with the employer by reference to which the condition in sub-paragraph (a) is satisfied for a continuous period beginning with the relevant week and ending with the week before the first week falling within the relevant period relating to that person under section 171ZY(2) of the 1992 Act.
 
-(1A)[^key-f1e8e1a495a67a226d3b647762051f99] Paragraph (1B) applies where a person has been in employed earner’s employment with the same employer in each of 26 consecutive weeks (but no more than 26 weeks), ending with the relevant week.
+(1A)[^c-f1e8e1a495a67a226d3b647762051f99] Paragraph (1B) applies where a person has been in employed earner’s employment with the same employer in each of 26 consecutive weeks (but no more than 26 weeks), ending with the relevant week.
 
 (1B) For the purpose of determining whether a person meets the condition in paragraph (1)(a), the first of those 26 weeks is a period commencing on the first day of the person’s employment with the employer (“the start date”) and ending at midnight on—
 
@@ -724,7 +724,7 @@ Part 2 of the Schedule (statutory shared parental pay in special circumstances) 
 
 (6) In any case where a person receives a back-dated pay increase which includes a sum in respect of a relevant period, normal weekly earnings shall be calculated as if such a sum was paid in that relevant period even though received after that period.
 
-(6A)[^key-d01cdd22c38c7dffcaef70efab221bad] Paragraph (6B) applies where for all or part of the relevant period—
+(6A)[^c-d01cdd22c38c7dffcaef70efab221bad] Paragraph (6B) applies where for all or part of the relevant period—
 
 - (a) a person is a furloughed employee;
 - (b) the person’s employer has claimed and is in receipt of financial support in respect of the person’s earnings under the Coronavirus Job Retention Scheme; and
@@ -815,7 +815,7 @@ then in that case paragraph (2) shall apply as if the words “and returns to wo
 
 (1) Where in consequence of specified action in relation to a person's dismissal, the person is reinstated or re-engaged by their employer or by a successor or associated employer of that employer then—
 
-- (a) the continuity of their employment shall be preserved for the purposes of sections 171ZU and 171ZV[^key-65eca10435b0f76bf26f9f4922f6aa1c] of the 1992 Act (see also regulations 30 and 31) for the period beginning with the effective date of termination and ending with the date of reinstatement or re-engagement; and
+- (a) the continuity of their employment shall be preserved for the purposes of sections 171ZU and 171ZV[^c-65eca10435b0f76bf26f9f4922f6aa1c] of the 1992 Act (see also regulations 30 and 31) for the period beginning with the effective date of termination and ending with the date of reinstatement or re-engagement; and
 - (b) any week which falls within the interval beginning with the effective date of termination and ending with the date of reinstatement or re-engagement, as the case may be, shall count in the computation of their period of continuous employment.
 
 (2) In this regulation—
@@ -831,7 +831,7 @@ then in that case paragraph (2) shall apply as if the words “and returns to wo
 
 (1) Where a person does not work for any week or part of a week because there is a stoppage of work at that person's place of employment due to a trade dispute within the meaning of section 35(1) of the Jobseekers Act 1995 [^c2226671] then—
 
-- (a) that person's continuity of employment shall be treated as continuing throughout the stoppage (but see paragraph (2))[^key-8981a041b31c5d09040726f7b18010a7] for the purposes of sections 171ZU and 171ZV[^key-1b609fd55e96253faedf53a3c2607104] of the 1992 Act (see also regulations 30 and 31); and
+- (a) that person's continuity of employment shall be treated as continuing throughout the stoppage (but see paragraph (2))[^c-8981a041b31c5d09040726f7b18010a7] for the purposes of sections 171ZU and 171ZV[^c-1b609fd55e96253faedf53a3c2607104] of the 1992 Act (see also regulations 30 and 31); and
 - (b) no such week shall count in the computation of their period of continuous employment (but see paragraph(3)).
 
 (2) Where during the stoppage of work a person is dismissed from their employment, that person's continuity of employment shall not be treated under paragraph (1) as continuing beyond the commencement of the day that person stopped work (but see paragraph (3)).
@@ -868,13 +868,13 @@ that person's previous period of employment with that employer (or if there was 
 
 (3) Where two or more contracts of service exist concurrently between one employer and one employee, they shall be treated as one for the purposes of Part 12ZC of the 1992 Act (and these Regulations) except where, by virtue of regulation 14 (aggregation of earnings paid in respect of separate employed earner's employments under the same employer) of the Social Security (Contributions) Regulations 2001, the earnings from those contracts of service are not aggregated for the purpose of earnings-related contributions.
 
-## PART 5 — PAYMENT OF STATUTORY SHARED PARENTAL PAY[^key-5f8a0f068b2b110d65aa37c5ad60d467]
+## PART 5 — PAYMENT OF STATUTORY SHARED PARENTAL PAY[^c-5f8a0f068b2b110d65aa37c5ad60d467]
 
 ### 40. Weekly rate of payment of statutory shared parental pay
 
 (1) The weekly rate of payment of statutory shared parental pay is the smaller of the following two amounts—
 
-- (a) £194.32[^key-dc96312006c57669ba52b6c9d46bd368];
+- (a) £194.32[^c-dc96312006c57669ba52b6c9d46bd368];
 - (b) 90% of the normal weekly earnings of the individual claiming statutory shared parental pay determined in accordance with section 171ZZ4(6) of the 1992 Act and regulation 32).
 
 (2) Where the amount of any payment of statutory shared parental pay is calculated by reference to—
@@ -997,7 +997,7 @@ by means of an instrument of payment or by such other means as appear to the Com
 
 - (a) statutory shared parental pay is payable to a person or it is alleged that statutory shared parental pay is payable to a person;
 - (b) that person is unable for the time being to act;
-- (c) no deputy has been appointed by the Court of Protection with power to receive statutory shared parental pay[^key-d817cf2226b11647b25deab1b7eba916] on their behalf or, in Scotland, their estate is not being administered by a guardian acting or appointed under the Adults with Incapacity (Scotland) Act 2000 [^c2226676]; and
+- (c) no deputy has been appointed by the Court of Protection with power to receive statutory shared parental pay[^c-d817cf2226b11647b25deab1b7eba916] on their behalf or, in Scotland, their estate is not being administered by a guardian acting or appointed under the Adults with Incapacity (Scotland) Act 2000 [^c2226676]; and
 - (d) a written application has been made to the Commissioners by a person, who, if a natural person, is over the age of 18 to exercise any right, or deal with any sums payable, under Part 12ZC of the 1992 Act on behalf of the person unable to act.
 
 (2) Where this regulation applies the Commissioners may appoint the person referred to in paragraph (1)(d)—
@@ -1252,7 +1252,7 @@ then these Regulations apply in in respect of any period after M dies subject to
 - (a) sub-paragraphs (2) and (3) only apply where all the children die; and
 - (b) a reference in this paragraph relating to the death of C (however expressed) is to the death of the last of those children to die.
 
-### PART 2 — STATUTORY SHARED PARENTAL PAY (ADOPTION)[^key-e8f3a7438f584a6e00c3852f0d5ab642]
+### PART 2 — STATUTORY SHARED PARENTAL PAY (ADOPTION)[^c-e8f3a7438f584a6e00c3852f0d5ab642]
 
 #### 7. Entitlement of adopter's partner to statutory shared parental pay (adoption) in the event of the death of adopter before curtailment
 
@@ -1481,9 +1481,9 @@ A separate impact assessment has not been prepared for these Regulations. The Re
 
 [^c2226637]: Marginal citation: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5); section 5(5) was amended by the Children and Families Act 2014, Schedule 7, paragraph 24.
 
-[^key-0ed46bbb978609d4a6f08a5d49164079]: Modification: Regulations applied (with modifications) (E.W.) (1.12.2014) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations 2014 (S.I. 2014/3097)](https://www.legislation.gov.uk/uksi/2014/3097), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3097/regulation/1), [regs. 3-16](https://www.legislation.gov.uk/uksi/2014/3097/regulation/3)
+[^c-0ed46bbb978609d4a6f08a5d49164079]: Modification: Regulations applied (with modifications) (E.W.) (1.12.2014) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations 2014 (S.I. 2014/3097)](https://www.legislation.gov.uk/uksi/2014/3097), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3097/regulation/1), [regs. 3-16](https://www.legislation.gov.uk/uksi/2014/3097/regulation/3)
 
-[^key-fe09a30ea16bf27ab99d1da1b656e242]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/3051/regulation/2) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoption from Overseas) Regulations 2014 (S.I. 2014/3093)](https://www.legislation.gov.uk/uksi/2014/3093), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3093/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/2/a), [3(3)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/3), [3(4)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/4), [regs. 4-16](https://www.legislation.gov.uk/uksi/2014/3093/regulation/4)
+[^c-fe09a30ea16bf27ab99d1da1b656e242]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/3051/regulation/2) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoption from Overseas) Regulations 2014 (S.I. 2014/3093)](https://www.legislation.gov.uk/uksi/2014/3093), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3093/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/2/a), [3(3)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/3), [3(4)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/4), [regs. 4-16](https://www.legislation.gov.uk/uksi/2014/3093/regulation/4)
 
 [^c2226638]: Marginal citation: [2002 c.38](https://www.legislation.gov.uk/ukpga/2002/38).
 
@@ -1511,7 +1511,7 @@ A separate impact assessment has not been prepared for these Regulations. The Re
 
 [^c2226650]: Marginal citation: [S.I. 2005/389](https://www.legislation.gov.uk/uksi/2005/389): amended by [S.I. 2014/1556](https://www.legislation.gov.uk/uksi/2014/1556); there are other amending instruments but none is relevant.
 
-[^key-79bbda88588b0dddf3bc4ed7abbb809a]: Modification: [Reg. 3(b)](https://www.legislation.gov.uk/uksi/2014/3051/regulation/3/b) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoption from Overseas) Regulations 2014 (S.I. 2014/3093)](https://www.legislation.gov.uk/uksi/2014/3093), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3093/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/2/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/3), [3(4)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/4), [regs. 4-16](https://www.legislation.gov.uk/uksi/2014/3093/regulation/4)
+[^c-79bbda88588b0dddf3bc4ed7abbb809a]: Modification: [Reg. 3(b)](https://www.legislation.gov.uk/uksi/2014/3051/regulation/3/b) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoption from Overseas) Regulations 2014 (S.I. 2014/3093)](https://www.legislation.gov.uk/uksi/2014/3093), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3093/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/2/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/3), [3(4)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/4), [regs. 4-16](https://www.legislation.gov.uk/uksi/2014/3093/regulation/4)
 
 [^c2226651]: Marginal citation: [Section 165(3A)](https://www.legislation.gov.uk/uksi/2014/3051/section/165/3A) was inserted by section 120(4) of the Children and Families Act 2014.
 
@@ -1525,7 +1525,7 @@ A separate impact assessment has not been prepared for these Regulations. The Re
 
 [^c2226656]: Marginal citation: [Section 165(4)](https://www.legislation.gov.uk/uksi/2014/3051/section/165/4) was amended by the Work and Families Act 2006, Schedule 1, paragraph 7(3).
 
-[^key-5f8a0f068b2b110d65aa37c5ad60d467]: Modification: [Pts. 3-5](https://www.legislation.gov.uk/uksi/2014/3051/part/3) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoption from Overseas) Regulations 2014 (S.I. 2014/3093)](https://www.legislation.gov.uk/uksi/2014/3093), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3093/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/2/c), [3(3)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/3), [3(4)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/4), [regs. 4-16](https://www.legislation.gov.uk/uksi/2014/3093/regulation/4)
+[^c-5f8a0f068b2b110d65aa37c5ad60d467]: Modification: [Pts. 3-5](https://www.legislation.gov.uk/uksi/2014/3051/part/3) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoption from Overseas) Regulations 2014 (S.I. 2014/3093)](https://www.legislation.gov.uk/uksi/2014/3093), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3093/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/2/c), [3(3)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/3), [3(4)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/4), [regs. 4-16](https://www.legislation.gov.uk/uksi/2014/3093/regulation/4)
 
 [^c2226657]: Marginal citation: [Section 171ZN(2A)](https://www.legislation.gov.uk/uksi/2014/3051/section/171ZN/2A) was inserted by section 120(6) of the Children and Families Act 2014.
 
@@ -1535,9 +1535,9 @@ A separate impact assessment has not been prepared for these Regulations. The Re
 
 [^c2226660]: Marginal citation: Section 35A(6A) was inserted by the Employment Act 2002, Schedule 7, paragraph 4(4).
 
-[^key-f07ba9e48109eecca5c1de064a447053]: Textual amendment: Words in [reg. 29(3)](https://www.legislation.gov.uk/uksi/2014/3051/regulation/29/3) substituted (8.3.2015) by [The Statutory Shared Parental Pay (General) (Amendment) Regulations 2015 (S.I. 2015/189)](https://www.legislation.gov.uk/uksi/2015/189), [regs. 1](https://www.legislation.gov.uk/uksi/2015/189/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/189/regulation/2/2/a)
+[^c-f07ba9e48109eecca5c1de064a447053]: Textual amendment: Words in [reg. 29(3)](https://www.legislation.gov.uk/uksi/2014/3051/regulation/29/3) substituted (8.3.2015) by [The Statutory Shared Parental Pay (General) (Amendment) Regulations 2015 (S.I. 2015/189)](https://www.legislation.gov.uk/uksi/2015/189), [regs. 1](https://www.legislation.gov.uk/uksi/2015/189/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/189/regulation/2/2/a)
 
-[^key-46b600a9cc934cb2c4ac5cc25eb032e0]: Textual amendment: Words in [reg. 29(4)](https://www.legislation.gov.uk/uksi/2014/3051/regulation/29/4) substituted (8.3.2015) by [The Statutory Shared Parental Pay (General) (Amendment) Regulations 2015 (S.I. 2015/189)](https://www.legislation.gov.uk/uksi/2015/189), [regs. 1](https://www.legislation.gov.uk/uksi/2015/189/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/189/regulation/2/2/b)
+[^c-46b600a9cc934cb2c4ac5cc25eb032e0]: Textual amendment: Words in [reg. 29(4)](https://www.legislation.gov.uk/uksi/2014/3051/regulation/29/4) substituted (8.3.2015) by [The Statutory Shared Parental Pay (General) (Amendment) Regulations 2015 (S.I. 2015/189)](https://www.legislation.gov.uk/uksi/2015/189), [regs. 1](https://www.legislation.gov.uk/uksi/2015/189/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/189/regulation/2/2/b)
 
 [^c2226661]: Marginal citation: Section 2 was amended by the [Income Tax (Earnings and Pensions) Act 2003 (c.1)](https://www.legislation.gov.uk/ukpga/2003/1), [Schedule 6(2)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/2), [paragraph 171](https://www.legislation.gov.uk/ukpga/2003/1/paragraph/171).
 
@@ -1545,13 +1545,13 @@ A separate impact assessment has not been prepared for these Regulations. The Re
 
 [^c2226663]: Marginal citation: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004), to which there are amendments not relevant to these Regulations.
 
-[^key-ec73a83a34e3d740eff2e82862a67f12]: Textual amendment: [Reg. 30(1A)](https://www.legislation.gov.uk/uksi/2014/3051/regulation/30/1A)[(1B)](https://www.legislation.gov.uk/uksi/2014/3051/regulation/30/1B) inserted (1.2.2016) by [The Statutory Paternity Pay, Statutory Adoption Pay and Statutory Shared Parental Pay (Amendment) Regulations 2015 (S.I. 2015/2065)](https://www.legislation.gov.uk/uksi/2015/2065), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/2065/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2015/2065/regulation/3/2)
+[^c-ec73a83a34e3d740eff2e82862a67f12]: Textual amendment: [Reg. 30(1A)](https://www.legislation.gov.uk/uksi/2014/3051/regulation/30/1A)[(1B)](https://www.legislation.gov.uk/uksi/2014/3051/regulation/30/1B) inserted (1.2.2016) by [The Statutory Paternity Pay, Statutory Adoption Pay and Statutory Shared Parental Pay (Amendment) Regulations 2015 (S.I. 2015/2065)](https://www.legislation.gov.uk/uksi/2015/2065), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/2065/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2015/2065/regulation/3/2)
 
-[^key-4c8ffe91cad7859d969aa35d0bddaec5]: Textual amendment: Words in reg. 31(1)(b) substituted (8.3.2015) by [The Statutory Shared Parental Pay (General) (Amendment) Regulations 2015 (S.I. 2015/189)](https://www.legislation.gov.uk/uksi/2015/189), [regs. 1](https://www.legislation.gov.uk/uksi/2015/189/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/189/regulation/2/3)
+[^c-4c8ffe91cad7859d969aa35d0bddaec5]: Textual amendment: Words in reg. 31(1)(b) substituted (8.3.2015) by [The Statutory Shared Parental Pay (General) (Amendment) Regulations 2015 (S.I. 2015/189)](https://www.legislation.gov.uk/uksi/2015/189), [regs. 1](https://www.legislation.gov.uk/uksi/2015/189/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/189/regulation/2/3)
 
-[^key-f1e8e1a495a67a226d3b647762051f99]: Textual amendment: [Reg. 31(1A)](https://www.legislation.gov.uk/uksi/2014/3051/regulation/31/1A)[(1B)](https://www.legislation.gov.uk/uksi/2014/3051/regulation/31/1B) inserted (1.2.2016) by [The Statutory Paternity Pay, Statutory Adoption Pay and Statutory Shared Parental Pay (Amendment) Regulations 2015 (S.I. 2015/2065)](https://www.legislation.gov.uk/uksi/2015/2065), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/2065/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2015/2065/regulation/3/3)
+[^c-f1e8e1a495a67a226d3b647762051f99]: Textual amendment: [Reg. 31(1A)](https://www.legislation.gov.uk/uksi/2014/3051/regulation/31/1A)[(1B)](https://www.legislation.gov.uk/uksi/2014/3051/regulation/31/1B) inserted (1.2.2016) by [The Statutory Paternity Pay, Statutory Adoption Pay and Statutory Shared Parental Pay (Amendment) Regulations 2015 (S.I. 2015/2065)](https://www.legislation.gov.uk/uksi/2015/2065), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/2065/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2015/2065/regulation/3/3)
 
-[^key-d01cdd22c38c7dffcaef70efab221bad]: Textual amendment: Reg. 32(6A)-(6C) inserted (with application in accordance with [reg. 2(1)(2)](https://www.legislation.gov.uk/uksi/2020/450/regulation/2) of the amending S.I.) by [The Maternity Allowance, Statutory Maternity Pay, Statutory Paternity Pay, Statutory Adoption Pay, Statutory Shared Parental Pay and Statutory Parental Bereavement Pay (Normal Weekly Earnings etc.) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/450)](https://www.legislation.gov.uk/uksi/2020/450), [regs. 1](https://www.legislation.gov.uk/uksi/2020/450/regulation/1), [6](https://www.legislation.gov.uk/uksi/2020/450/regulation/6)
+[^c-d01cdd22c38c7dffcaef70efab221bad]: Textual amendment: Reg. 32(6A)-(6C) inserted (with application in accordance with [reg. 2(1)(2)](https://www.legislation.gov.uk/uksi/2020/450/regulation/2) of the amending S.I.) by [The Maternity Allowance, Statutory Maternity Pay, Statutory Paternity Pay, Statutory Adoption Pay, Statutory Shared Parental Pay and Statutory Parental Bereavement Pay (Normal Weekly Earnings etc.) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/450)](https://www.legislation.gov.uk/uksi/2020/450), [regs. 1](https://www.legislation.gov.uk/uksi/2020/450/regulation/1), [6](https://www.legislation.gov.uk/uksi/2020/450/regulation/6)
 
 [^c2226664]: Marginal citation: Section 10A was inserted by section 53 of the [Social Security Act 1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14).
 
@@ -1561,7 +1561,7 @@ A separate impact assessment has not been prepared for these Regulations. The Re
 
 [^c2226667]: Marginal citation: [S.I. 1978/1689](https://www.legislation.gov.uk/uksi/1978/1689). amended by [S.I. 1978/1689](https://www.legislation.gov.uk/uksi/1978/1689), 1980/1713, 1990/1894, 1994/726, 1998/1728, 2003/736, 2003/2420, 2004/1770, 2005/3133, 2006/1530 and 2014/635; there are other amending instruments but none is relevant.
 
-[^key-65eca10435b0f76bf26f9f4922f6aa1c]: Textual amendment: Word in reg. 35(1)(a) substituted (8.3.2015) by [The Statutory Shared Parental Pay (General) (Amendment) Regulations 2015 (S.I. 2015/189)](https://www.legislation.gov.uk/uksi/2015/189), [regs. 1](https://www.legislation.gov.uk/uksi/2015/189/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/189/regulation/2/4)
+[^c-65eca10435b0f76bf26f9f4922f6aa1c]: Textual amendment: Word in reg. 35(1)(a) substituted (8.3.2015) by [The Statutory Shared Parental Pay (General) (Amendment) Regulations 2015 (S.I. 2015/189)](https://www.legislation.gov.uk/uksi/2015/189), [regs. 1](https://www.legislation.gov.uk/uksi/2015/189/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/189/regulation/2/4)
 
 [^c2226668]: Marginal citation: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
 
@@ -1571,13 +1571,13 @@ A separate impact assessment has not been prepared for these Regulations. The Re
 
 [^c2226671]: Marginal citation: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18).
 
-[^key-8981a041b31c5d09040726f7b18010a7]: Textual amendment: Reg. 36(1)(a) bracket inserted (8.3.2015) by [The Statutory Shared Parental Pay (General) (Amendment) Regulations 2015 (S.I. 2015/189)](https://www.legislation.gov.uk/uksi/2015/189), [regs. 1](https://www.legislation.gov.uk/uksi/2015/189/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2015/189/regulation/2/5/b)
+[^c-8981a041b31c5d09040726f7b18010a7]: Textual amendment: Reg. 36(1)(a) bracket inserted (8.3.2015) by [The Statutory Shared Parental Pay (General) (Amendment) Regulations 2015 (S.I. 2015/189)](https://www.legislation.gov.uk/uksi/2015/189), [regs. 1](https://www.legislation.gov.uk/uksi/2015/189/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2015/189/regulation/2/5/b)
 
-[^key-1b609fd55e96253faedf53a3c2607104]: Textual amendment: Word in reg. 36(1)(a) substituted (8.3.2015) by [The Statutory Shared Parental Pay (General) (Amendment) Regulations 2015 (S.I. 2015/189)](https://www.legislation.gov.uk/uksi/2015/189), [regs. 1](https://www.legislation.gov.uk/uksi/2015/189/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2015/189/regulation/2/5/a)
+[^c-1b609fd55e96253faedf53a3c2607104]: Textual amendment: Word in reg. 36(1)(a) substituted (8.3.2015) by [The Statutory Shared Parental Pay (General) (Amendment) Regulations 2015 (S.I. 2015/189)](https://www.legislation.gov.uk/uksi/2015/189), [regs. 1](https://www.legislation.gov.uk/uksi/2015/189/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2015/189/regulation/2/5/a)
 
 [^c2226672]: Marginal citation: [1985 c.17](https://www.legislation.gov.uk/ukpga/1985/17).
 
-[^key-dc96312006c57669ba52b6c9d46bd368]: Textual amendment: Sum in [Reg. 40(1)(a)](https://www.legislation.gov.uk/uksi/2014/3051/regulation/40/1/a) substituted (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [10(2)](https://www.legislation.gov.uk/uksi/2026/148/article/10/2)
+[^c-dc96312006c57669ba52b6c9d46bd368]: Textual amendment: Sum in [Reg. 40(1)(a)](https://www.legislation.gov.uk/uksi/2014/3051/regulation/40/1/a) substituted (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [10(2)](https://www.legislation.gov.uk/uksi/2026/148/article/10/2)
 
 [^c2226673]: Marginal citation: [1999 c.2](https://www.legislation.gov.uk/ukpga/1999/2). Section 8(1) was amended by the [Work and Families Act 2006 (c.18)](https://www.legislation.gov.uk/ukpga/2006/18), [Schedule 1](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1), [paragraph 46(1)](https://www.legislation.gov.uk/ukpga/2006/18/paragraph/46/1) and (2) and by the [Children and Families Act 2014 (c.6)](https://www.legislation.gov.uk/ukpga/2014/6), [Schedule 7](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7), [paragraph 44](https://www.legislation.gov.uk/ukpga/2014/6/paragraph/44) and 45.
 
@@ -1585,7 +1585,7 @@ A separate impact assessment has not been prepared for these Regulations. The Re
 
 [^c2226675]: Marginal citation: [1889 c.39](https://www.legislation.gov.uk/ukpga/1889/39). Section 11A was inserted by the [Bankruptcy (Scotland) Act 1985 (c.66)](https://www.legislation.gov.uk/ukpga/1985/66), [Schedule 7](https://www.legislation.gov.uk/ukpga/1985/66/schedule/7), [paragraph 4](https://www.legislation.gov.uk/ukpga/1985/66/paragraph/4).
 
-[^key-d817cf2226b11647b25deab1b7eba916]: Textual amendment: Words in [reg. 48(1)(c)](https://www.legislation.gov.uk/uksi/2014/3051/regulation/48/1/c) substituted (8.3.2015) by [The Statutory Shared Parental Pay (General) (Amendment) Regulations 2015 (S.I. 2015/189)](https://www.legislation.gov.uk/uksi/2015/189), [regs. 1](https://www.legislation.gov.uk/uksi/2015/189/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2015/189/regulation/2/6)
+[^c-d817cf2226b11647b25deab1b7eba916]: Textual amendment: Words in [reg. 48(1)(c)](https://www.legislation.gov.uk/uksi/2014/3051/regulation/48/1/c) substituted (8.3.2015) by [The Statutory Shared Parental Pay (General) (Amendment) Regulations 2015 (S.I. 2015/189)](https://www.legislation.gov.uk/uksi/2015/189), [regs. 1](https://www.legislation.gov.uk/uksi/2015/189/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2015/189/regulation/2/6)
 
 [^c2226676]: Marginal citation: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
 
@@ -1593,7 +1593,7 @@ A separate impact assessment has not been prepared for these Regulations. The Re
 
 [^c2226678]: Marginal citation: [Section 165(3A)](https://www.legislation.gov.uk/uksi/2014/3051/section/165/3A) was inserted by section 120(4) of the Children and Families Act 2014.
 
-[^key-e8f3a7438f584a6e00c3852f0d5ab642]: Modification: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/3051/schedule/part/2) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoption from Overseas) Regulations 2014 (S.I. 2014/3093)](https://www.legislation.gov.uk/uksi/2014/3093), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3093/regulation/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/2/d), [3(3)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/3), [3(4)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/4), [regs. 4-16](https://www.legislation.gov.uk/uksi/2014/3093/regulation/4)
+[^c-e8f3a7438f584a6e00c3852f0d5ab642]: Modification: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/3051/schedule/part/2) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoption from Overseas) Regulations 2014 (S.I. 2014/3093)](https://www.legislation.gov.uk/uksi/2014/3093), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3093/regulation/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/2/d), [3(3)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/3), [3(4)](https://www.legislation.gov.uk/uksi/2014/3093/regulation/3/4), [regs. 4-16](https://www.legislation.gov.uk/uksi/2014/3093/regulation/4)
 
 [^c2226679]: Marginal citation: [Section 171ZN(2A)](https://www.legislation.gov.uk/uksi/2014/3051/section/171ZN/2A) was inserted by section 120(6) of the Children and Families Act 2014.
 

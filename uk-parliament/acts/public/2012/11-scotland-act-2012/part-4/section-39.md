@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Maximum penalties which may be specified in subordinate legislation[^key-15299b159b8db9f91fc4553ac546dd3b]
+## 39. Maximum penalties which may be specified in subordinate legislation[^c-15299b159b8db9f91fc4553ac546dd3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15299b159b8db9f91fc4553ac546dd3b]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2012/11/section/39) in force at 31.10.2012 by [S.I. 2012/2516](https://www.legislation.gov.uk/uksi/2012/2516), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/2516/article/2/e)
+[^c-15299b159b8db9f91fc4553ac546dd3b]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2012/11/section/39) in force at 31.10.2012 by [S.I. 2012/2516](https://www.legislation.gov.uk/uksi/2012/2516), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/2516/article/2/e)

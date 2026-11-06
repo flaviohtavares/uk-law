@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Assignation of tenancy[^key-70fc6a43dea3441fd137d72082e9ad5c]
+## 16. Assignation of tenancy[^c-70fc6a43dea3441fd137d72082e9ad5c]
 
 *Extent: S*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70fc6a43dea3441fd137d72082e9ad5c]: Commencement: S. 16 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-70fc6a43dea3441fd137d72082e9ad5c]: Commencement: S. 16 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46A. Results of safe road use test and validity of certificates[^key-0c7d80913d2ee73f5cb3f85be3871f0d]
+## 46A. Results of safe road use test and validity of certificates[^c-0c7d80913d2ee73f5cb3f85be3871f0d]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c7d80913d2ee73f5cb3f85be3871f0d]: Textual amendment: [Reg. 46A](https://www.legislation.gov.uk/uksi/1999/2864/regulation/46A) inserted (1.5.2010) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2010 (S.I. 2010/1203)](https://www.legislation.gov.uk/uksi/2010/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1203/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2010/1203/regulation/22)
+[^c-0c7d80913d2ee73f5cb3f85be3871f0d]: Textual amendment: [Reg. 46A](https://www.legislation.gov.uk/uksi/1999/2864/regulation/46A) inserted (1.5.2010) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2010 (S.I. 2010/1203)](https://www.legislation.gov.uk/uksi/2010/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1203/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2010/1203/regulation/22)

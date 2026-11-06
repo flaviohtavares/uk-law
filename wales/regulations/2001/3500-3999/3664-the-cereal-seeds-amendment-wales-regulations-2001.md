@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS, WALES
 
-The Cereal Seeds (Amendment) (Wales) Regulations 2001 (revoked)[^key-07bcac11db4d6e260a9af04fa88750fd]
+The Cereal Seeds (Amendment) (Wales) Regulations 2001 (revoked)[^c-07bcac11db4d6e260a9af04fa88750fd]
 
 Made
 
@@ -41,52 +41,52 @@ Coming into force
 
 29th November 2001
 
-[^key-07bcac11db4d6e260a9af04fa88750fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07bcac11db4d6e260a9af04fa88750fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-07bcac11db4d6e260a9af04fa88750fd]
+## 1. Title, commencement and application[^c-07bcac11db4d6e260a9af04fa88750fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Cereal Seeds Regulations 1993[^key-07bcac11db4d6e260a9af04fa88750fd]
+## 2. Amendment of the Cereal Seeds Regulations 1993[^c-07bcac11db4d6e260a9af04fa88750fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Regulation 3 (Interpretation)[^key-07bcac11db4d6e260a9af04fa88750fd]
+## 3. Regulation 3 (Interpretation)[^c-07bcac11db4d6e260a9af04fa88750fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Regulation 4 (Seeds to which the Cereal Seeds Regulations 1993 apply)[^key-07bcac11db4d6e260a9af04fa88750fd]
+## 4. Regulation 4 (Seeds to which the Cereal Seeds Regulations 1993 apply)[^c-07bcac11db4d6e260a9af04fa88750fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Regulation 5 (Marketing of seeds)[^key-07bcac11db4d6e260a9af04fa88750fd]
+## 5. Regulation 5 (Marketing of seeds)[^c-07bcac11db4d6e260a9af04fa88750fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Regulation 9 (Labelling of packages)[^key-07bcac11db4d6e260a9af04fa88750fd]
+## 6. Regulation 9 (Labelling of packages)[^c-07bcac11db4d6e260a9af04fa88750fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Regulation 9A (Labelling of packages — breeder’s confirmation)[^key-07bcac11db4d6e260a9af04fa88750fd]
+## 7. Regulation 9A (Labelling of packages — breeder’s confirmation)[^c-07bcac11db4d6e260a9af04fa88750fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Schedule 4 (Requirements for basic seed, certified seed and certified seed of the first and second generations)[^key-07bcac11db4d6e260a9af04fa88750fd]
+## 8. Schedule 4 (Requirements for basic seed, certified seed and certified seed of the first and second generations)[^c-07bcac11db4d6e260a9af04fa88750fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Schedule 6 (Labelling requirements)[^key-07bcac11db4d6e260a9af04fa88750fd]
+## 9. Schedule 6 (Labelling requirements)[^c-07bcac11db4d6e260a9af04fa88750fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-07bcac11db4d6e260a9af04fa88750fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07bcac11db4d6e260a9af04fa88750fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-07bcac11db4d6e260a9af04fa88750fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07bcac11db4d6e260a9af04fa88750fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-07bcac11db4d6e260a9af04fa88750fd]: Textual amendment: Regulations revoked (18.11.2005) by [The Cereal Seed (Wales) Regulations 2005 (S.I. 2005/3036)](https://www.legislation.gov.uk/uksi/2005/3036), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/3036/regulation/1/2), [32(1)(b)](https://www.legislation.gov.uk/uksi/2005/3036/regulation/32/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2005/3036/regulation/5))
+[^c-07bcac11db4d6e260a9af04fa88750fd]: Textual amendment: Regulations revoked (18.11.2005) by [The Cereal Seed (Wales) Regulations 2005 (S.I. 2005/3036)](https://www.legislation.gov.uk/uksi/2005/3036), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/3036/regulation/1/2), [32(1)(b)](https://www.legislation.gov.uk/uksi/2005/3036/regulation/32/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2005/3036/regulation/5))

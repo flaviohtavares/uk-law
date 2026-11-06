@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by paragraph 4 of Schedule 6 to the Agricultural Holdings Act 1986[^f00001] and now vested in them[^f00002] make the following Order.
 
-## 1. Title, application, commencement and interpretation[^key-838030daae448cadaffc3a52fadef46c]
+## 1. Title, application, commencement and interpretation[^c-838030daae448cadaffc3a52fadef46c]
 
 (1) The title of this Order is the Agricultural Holdings (Units of Production) (Wales) Order 2023, it applies in relation to Wales and comes into force on 10 February 2023.
 
@@ -58,7 +58,7 @@ The Welsh Ministers, in exercise of the powers conferred by paragraph 4 of Sched
 - “**Regulation 1307/2013**” (“***Rheoliad 1307/2013***”) means Regulation (EU) No 1307/2013 of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy[^f00003];
 - “**severely disadvantaged land**” (“***tir dan anfantais ddifrifol***”) means any area of land shown coloured pink on the designated maps.
 
-## 2. Assessment of the productive capacity of land[^key-2f29e59a6b92569e897dd1ab847376c9]
+## 2. Assessment of the productive capacity of land[^c-2f29e59a6b92569e897dd1ab847376c9]
 
 (1) Paragraphs (2), (3) and (4) have effect for the purpose of the assessment of the productive capacity of a unit of agricultural land situated in Wales, in order to determine whether that unit is a commercial unit of agricultural land within the meaning of paragraph 3(1) of Schedule 6 to the Agricultural Holdings Act 1986.
 
@@ -84,7 +84,7 @@ Minister for Rural Affairs, North Wales and Trefnydd, one of the Welsh Ministers
 
 17 January 2023
 
-## SCHEDULE — Prescribed units of production and determination of net annual income[^key-101424b08f2463a13847ec720bcfe438]
+## SCHEDULE — Prescribed units of production and determination of net annual income[^c-101424b08f2463a13847ec720bcfe438]
 
 Article 2
 
@@ -155,13 +155,13 @@ The Welsh Ministers’ code of practice on the carrying out of regulatory impact
 
 [^f00002]: Footnote: Functions conferred under the Agricultural Holdings Act 1986 were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). Those functions are now exercisable by the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-838030daae448cadaffc3a52fadef46c]: Commencement: Art. 1 in force at 10.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2023/42/article/1/1)
+[^c-838030daae448cadaffc3a52fadef46c]: Commencement: Art. 1 in force at 10.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2023/42/article/1/1)
 
 [^f00003]: Footnote: EUR 2013/1307, amended by [S.I. 2020/1556](https://www.legislation.gov.uk/uksi/2020/1556); there are other amending instruments but none is relevant to these Regulations. This Regulation was incorporated into domestic law by section 1 of the Direct Payments to Farmers (Legislative Continuity) Act [2020 (c. 2)](https://www.legislation.gov.uk/ukpga/2020/2).
 
-[^key-2f29e59a6b92569e897dd1ab847376c9]: Commencement: Art. 2 in force at 10.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2023/42/article/1/1)
+[^c-2f29e59a6b92569e897dd1ab847376c9]: Commencement: Art. 2 in force at 10.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2023/42/article/1/1)
 
-[^key-101424b08f2463a13847ec720bcfe438]: Commencement: Sch. in force at 10.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2023/42/article/1/1)
+[^c-101424b08f2463a13847ec720bcfe438]: Commencement: Sch. in force at 10.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2023/42/article/1/1)
 
 [^f01000]: Footnote: (1)
 

@@ -42,7 +42,7 @@ Coming into operation in accordance with regulation 1(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 44 of the principal Regulations[^key-c0d73e2ad1c689fb78414d6671542400][^M_F_9e97aa06-ce7d-4afb-a056-0862ffb8b70e]
+## 2. Amendment of regulation 44 of the principal Regulations[^c-c0d73e2ad1c689fb78414d6671542400][^M_F_9e97aa06-ce7d-4afb-a056-0862ffb8b70e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -80,4 +80,4 @@ Two of the Commissioners of Inland Revenue
 
 [^M_F_9e97aa06-ce7d-4afb-a056-0862ffb8b70e]: Textual amendment: Regulations revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/II)
 
-[^key-c0d73e2ad1c689fb78414d6671542400]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/151/regulation/2) revoked (6.4.2001) by [The Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations (Northern Ireland) 2001 (S.R. 2001/102)](https://www.legislation.gov.uk/nisr/2001/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2001/102/regulation/11), [Sch.](https://www.legislation.gov.uk/nisr/2001/102/schedule)
+[^c-c0d73e2ad1c689fb78414d6671542400]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/151/regulation/2) revoked (6.4.2001) by [The Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations (Northern Ireland) 2001 (S.R. 2001/102)](https://www.legislation.gov.uk/nisr/2001/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2001/102/regulation/11), [Sch.](https://www.legislation.gov.uk/nisr/2001/102/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Amendment of Commission Implementing Decision 2012/651/EU[^key-a3bbbe3f302f7e4cb48b9656e241f3bc]
+## 182. Amendment of Commission Implementing Decision 2012/651/EU[^c-a3bbbe3f302f7e4cb48b9656e241f3bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Implementing Decision 2012/651/EU authorising the placing on the mark
 
 ## Annotations
 
-[^key-a3bbbe3f302f7e4cb48b9656e241f3bc]: Commencement: Reg. 182 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a3bbbe3f302f7e4cb48b9656e241f3bc]: Commencement: Reg. 182 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

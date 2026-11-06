@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7A. Power to detain in hospital pending admission to another hospital[^c21355251][^key-42056f7475fc7e2edadb439c11c20616]
+## 7A. Power to detain in hospital pending admission to another hospital[^c21355251][^c-42056f7475fc7e2edadb439c11c20616]
 
 *Extent: N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 [^c21355251]: Textual amendment: [1994 NI 2](https://www.legislation.gov.uk/1994/ni2)
 
-[^key-42056f7475fc7e2edadb439c11c20616]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1986/595/part/II) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-42056f7475fc7e2edadb439c11c20616]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1986/595/part/II) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
 [^c21355211]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(d)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/d) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 

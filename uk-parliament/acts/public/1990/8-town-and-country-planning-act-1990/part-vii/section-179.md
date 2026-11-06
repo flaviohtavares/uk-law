@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 179. Offence where enforcement notice not complied with.[^c14022861][^key-3dbf5740c70c6d9488d3668ba201d8c2][^key-c1a0a56e43c51ca61f628f7d94fc2f60][^c14022851]
+## 179. Offence where enforcement notice not complied with.[^c14022861][^c-3dbf5740c70c6d9488d3668ba201d8c2][^c-c1a0a56e43c51ca61f628f7d94fc2f60][^c14022851]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
 it shall be a defence for him to show that he was not aware of the existence of the notice.
 
-(8)[^key-f63a684b9178ab261ee0ecce33f9ebcc] A person guilty of an offence under this section shall be liable on summary conviction, or on conviction on indictment, to a fine[^key-c76baf767d9b1b14b229d28d5f780272].
+(8)[^c-f63a684b9178ab261ee0ecce33f9ebcc] A person guilty of an offence under this section shall be liable on summary conviction, or on conviction on indictment, to a fine[^c-c76baf767d9b1b14b229d28d5f780272].
 
 (9) In determining the amount of any fine to be imposed on a person convicted of an offence under this section, the court shall in particular have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence.
 
@@ -55,12 +55,12 @@ it shall be a defence for him to show that he was not aware of the existence of 
 
     S. 179 restricted (E.) (13.4.2001) by [S.I. 2001/1478](https://www.legislation.gov.uk/uksi/2001/1478), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2001/1478/regulation/3/a)
 
-[^key-3dbf5740c70c6d9488d3668ba201d8c2]: Modification: Ss. 178-181 applied (with modifications) (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2015/627/regulation/15), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2015/627/schedule/4/part/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
+[^c-3dbf5740c70c6d9488d3668ba201d8c2]: Modification: Ss. 178-181 applied (with modifications) (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2015/627/regulation/15), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2015/627/schedule/4/part/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
 
-[^key-c1a0a56e43c51ca61f628f7d94fc2f60]: Modification: Ss. 178-181 applied (with modifications) (W.) (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [18](https://www.legislation.gov.uk/wsi/2015/1597/regulation/18), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/wsi/2015/1597/schedule/4/part/2) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))
+[^c-c1a0a56e43c51ca61f628f7d94fc2f60]: Modification: Ss. 178-181 applied (with modifications) (W.) (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [18](https://www.legislation.gov.uk/wsi/2015/1597/regulation/18), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/wsi/2015/1597/schedule/4/part/2) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))
 
 [^c14022851]: Textual amendment: S. 179 substituted (2.1.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s.8](https://www.legislation.gov.uk/ukpga/1991/34/section/8) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art.3](https://www.legislation.gov.uk/uksi/1991/2905/article/3) (subject to [art. 5](https://www.legislation.gov.uk/uksi/1991/2905/article/5))
 
-[^key-f63a684b9178ab261ee0ecce33f9ebcc]: Modification: S. 179 amendment to earlier affecting provision S.I. 1992/656, Sch. 4 Pt. 2 (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 50](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/50) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-f63a684b9178ab261ee0ecce33f9ebcc]: Modification: S. 179 amendment to earlier affecting provision S.I. 1992/656, Sch. 4 Pt. 2 (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 50](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/50) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-c76baf767d9b1b14b229d28d5f780272]: Textual amendment: Words in s. 179(8) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 18(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/18/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-c76baf767d9b1b14b229d28d5f780272]: Textual amendment: Words in s. 179(8) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 18(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/18/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

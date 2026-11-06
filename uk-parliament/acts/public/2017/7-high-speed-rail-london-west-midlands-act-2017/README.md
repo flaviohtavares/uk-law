@@ -34,7 +34,7 @@ An Act to make provision for a railway between Euston in London and a junction w
 
 \[23rd February 2017\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-bf0c13b9bccc0cc338b083d542290fce][^key-f332f14ebdade6ebd9de33eb11d9f453][^key-f4b1a775a22fc8aa00930de7dbbdc36f]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-bf0c13b9bccc0cc338b083d542290fce][^c-f332f14ebdade6ebd9de33eb11d9f453][^c-f4b1a775a22fc8aa00930de7dbbdc36f]
 
 ## Contents
 
@@ -197,8 +197,8 @@ SCHEDULES
 
 ## Annotations
 
-[^key-bf0c13b9bccc0cc338b083d542290fce]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2017/7) construed as one with S.I. 2018/693 (28.6.2018) by [The High Speed Rail (London West Midlands) (Greatmoor Railway Sidings Etc.) Order 2018 (S.I. 2018/693)](https://www.legislation.gov.uk/uksi/2018/693), [art. 19](https://www.legislation.gov.uk/uksi/2018/693/article/19)
+[^c-bf0c13b9bccc0cc338b083d542290fce]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2017/7) construed as one with S.I. 2018/693 (28.6.2018) by [The High Speed Rail (London West Midlands) (Greatmoor Railway Sidings Etc.) Order 2018 (S.I. 2018/693)](https://www.legislation.gov.uk/uksi/2018/693), [art. 19](https://www.legislation.gov.uk/uksi/2018/693/article/19)
 
-[^key-f332f14ebdade6ebd9de33eb11d9f453]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2017/7) excluded (E.W.) (11.6.2020) by [The M42 Junction 6 Development Consent Order 2020 (S.I. 2020/528)](https://www.legislation.gov.uk/uksi/2020/528), [art. 50(1)(h)](https://www.legislation.gov.uk/uksi/2020/528/article/50/1/h) (with [art. 37](https://www.legislation.gov.uk/uksi/2020/528/article/37))
+[^c-f332f14ebdade6ebd9de33eb11d9f453]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2017/7) excluded (E.W.) (11.6.2020) by [The M42 Junction 6 Development Consent Order 2020 (S.I. 2020/528)](https://www.legislation.gov.uk/uksi/2020/528), [art. 50(1)(h)](https://www.legislation.gov.uk/uksi/2020/528/article/50/1/h) (with [art. 37](https://www.legislation.gov.uk/uksi/2020/528/article/37))
 
-[^key-f4b1a775a22fc8aa00930de7dbbdc36f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2017/7) excluded in part (2.9.2022) by [The A47 North Tuddenham to Easton Development Consent Order 2022 (S.I. 2022/911)](https://www.legislation.gov.uk/uksi/2022/911), [arts. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2022/911/article/3/1) (with [arts. 4](https://www.legislation.gov.uk/uksi/2022/911/article/4), [53](https://www.legislation.gov.uk/uksi/2022/911/article/53))
+[^c-f4b1a775a22fc8aa00930de7dbbdc36f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2017/7) excluded in part (2.9.2022) by [The A47 North Tuddenham to Easton Development Consent Order 2022 (S.I. 2022/911)](https://www.legislation.gov.uk/uksi/2022/911), [arts. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2022/911/article/3/1) (with [arts. 4](https://www.legislation.gov.uk/uksi/2022/911/article/4), [53](https://www.legislation.gov.uk/uksi/2022/911/article/53))

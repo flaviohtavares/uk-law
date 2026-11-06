@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — ENVIRONMENTAL STATEMENT SUPPLEMENTS[^key-ba0d610e45ce70f05313241fe9ab099f]
+## SCHEDULE 10 — ENVIRONMENTAL STATEMENT SUPPLEMENTS[^c-ba0d610e45ce70f05313241fe9ab099f]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ Article 2
 
 ## Annotations
 
-[^key-ba0d610e45ce70f05313241fe9ab099f]: Commencement: Sch. 10 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-ba0d610e45ce70f05313241fe9ab099f]: Commencement: Sch. 10 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

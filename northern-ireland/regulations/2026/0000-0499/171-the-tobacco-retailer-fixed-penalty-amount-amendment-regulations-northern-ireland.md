@@ -44,7 +44,7 @@ The Department of Health[^f00001] makes the following Regulations in exercise of
 
 In accordance with section 24(2) of that Act, a draft of these Regulations has been laid before and approved by a resolution of the Assembly.
 
-## 1. Citation and commencement[^key-86abc3c6f95e6fca2726a1ea3a14533e]
+## 1. Citation and commencement[^c-86abc3c6f95e6fca2726a1ea3a14533e]
 
 (1) These Regulations may be cited as the Tobacco Retailer (Fixed Penalty) (Amount) (Amendment) Regulations (Northern Ireland) 2026.
 
@@ -54,11 +54,11 @@ In accordance with section 24(2) of that Act, a draft of these Regulations has b
 
 (4) Regulation 5 comes into operation on 1<sup>st</sup> March 2027.
 
-## 2. Amendment of the Tobacco Retailer (Fixed Penalty) (Amount) Regulations (Northern Ireland) 2016[^key-fbb3cca4a050d2bf848f9bab1c8c64f6]
+## 2. Amendment of the Tobacco Retailer (Fixed Penalty) (Amount) Regulations (Northern Ireland) 2016[^c-fbb3cca4a050d2bf848f9bab1c8c64f6]
 
 The Tobacco Retailer (Fixed Penalty) (Amount) Regulations (Northern Ireland) 2016[^f00003] are amended in accordance with regulations 3 to 5.
 
-## 3. Amendments coming into operation on 29<sup>th</sup> October 2026[^key-6aa8b53d02794161fe0e3a7902e592bf]
+## 3. Amendments coming into operation on 29<sup>th</sup> October 2026[^c-6aa8b53d02794161fe0e3a7902e592bf]
 
 For the Schedule (amount of fixed penalty) substitute –
 
@@ -79,7 +79,7 @@ For the Schedule (amount of fixed penalty) substitute –
 > | 13 | A person who —<br>- (a) gives away a product or coupon to a member of the public or sells a product or coupon at a substantial discount, or who causes or permits that to happen, and<br>- (b) does so to promote a relevant product or does so knowing or having reason to suspect that the effect of their doing so is to promote a relevant product (Article 4L of the 1978 Order). | £250.00 |
 > | 14 | Failure to display a notice stating “It is illegal to sell tobacco products to anyone under the age of 18” in retail premises where tobacco is sold (Article 5 of the 1991 Order). | £100.00 |
 
-## 4. Amendments to Schedule coming into operation on 1<sup>st</sup> January 2027[^key-47a38da605b439aabf770ce75befecb9]
+## 4. Amendments to Schedule coming into operation on 1<sup>st</sup> January 2027[^c-47a38da605b439aabf770ce75befecb9]
 
 **Not yet in force.**
 
@@ -103,7 +103,7 @@ The following amendments to the Schedule (amount of fixed penalty) (as substitut
 > | --- | --- | --- |
 > | 14 | Failure to display a notice stating “It is illegal to sell tobacco products to anyone born on or after 1 <sup>st</sup> January 2009” in a prominent position where it is readily visible to people at each point of sale of such products. (Article 4D of the 1978 Order).”. | £100.00; |
 
-## 5. Amendments to Schedule coming into operation on 1<sup>st</sup> March 2027[^key-ce77dc09e2adfcb8178a948e9c81d53c]
+## 5. Amendments to Schedule coming into operation on 1<sup>st</sup> March 2027[^c-ce77dc09e2adfcb8178a948e9c81d53c]
 
 **Not yet in force.**
 
@@ -121,7 +121,7 @@ The following amendments to the Schedule (amount of fixed penalty) (as substitut
 > | --- | --- | --- |
 > | 2 | A registered person who carries on a registrable business at premises other than those noted in the person’s entry in the Register as premises at which the person proposes to carry on that kind of registrable business (section 10(2) of the Act). | £500.00; |
 
-## 6. Revocation[^key-943b4f5b1aba40f6556dbba5beeb6d01]
+## 6. Revocation[^c-943b4f5b1aba40f6556dbba5beeb6d01]
 
 The Tobacco Retailer (Fixed Penalty) (Amount) Regulations (Northern Ireland) 2021[^f00004] are revoked.
 
@@ -153,18 +153,18 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00002]: Footnote: [2014 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2014/4)
 
-[^key-86abc3c6f95e6fca2726a1ea3a14533e]: Commencement: Reg. 1 in operation at 29.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/171/regulation/1/2)
+[^c-86abc3c6f95e6fca2726a1ea3a14533e]: Commencement: Reg. 1 in operation at 29.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/171/regulation/1/2)
 
-[^key-fbb3cca4a050d2bf848f9bab1c8c64f6]: Commencement: Reg. 2 in operation at 29.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/171/regulation/1/2)
+[^c-fbb3cca4a050d2bf848f9bab1c8c64f6]: Commencement: Reg. 2 in operation at 29.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/171/regulation/1/2)
 
 [^f00003]: Footnote: [S.R. 2016 No.180](https://www.legislation.gov.uk/nisr/2016/180)
 
-[^key-6aa8b53d02794161fe0e3a7902e592bf]: Commencement: Reg. 3 in operation at 29.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/171/regulation/1/2)
+[^c-6aa8b53d02794161fe0e3a7902e592bf]: Commencement: Reg. 3 in operation at 29.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/171/regulation/1/2)
 
-[^key-47a38da605b439aabf770ce75befecb9]: Commencement: Reg. 4 in operation at 1.1.2027, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/171/regulation/1/3)
+[^c-47a38da605b439aabf770ce75befecb9]: Commencement: Reg. 4 in operation at 1.1.2027, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2026/171/regulation/1/3)
 
-[^key-ce77dc09e2adfcb8178a948e9c81d53c]: Commencement: Reg. 5 in operation at 1.3.2027, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2026/171/regulation/1/4)
+[^c-ce77dc09e2adfcb8178a948e9c81d53c]: Commencement: Reg. 5 in operation at 1.3.2027, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2026/171/regulation/1/4)
 
-[^key-943b4f5b1aba40f6556dbba5beeb6d01]: Commencement: Reg. 6 in operation at 29.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/171/regulation/1/2)
+[^c-943b4f5b1aba40f6556dbba5beeb6d01]: Commencement: Reg. 6 in operation at 29.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/171/regulation/1/2)
 
 [^f00004]: Footnote: SR .

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Procedure for admitting creditors’ claims for voting[^key-061536b93b7fe49b0402c9e5ef83e3c8]
+## 55. Procedure for admitting creditors’ claims for voting[^c-061536b93b7fe49b0402c9e5ef83e3c8]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-061536b93b7fe49b0402c9e5ef83e3c8]: Commencement: Rule 55 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-061536b93b7fe49b0402c9e5ef83e3c8]: Commencement: Rule 55 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

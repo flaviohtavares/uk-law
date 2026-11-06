@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 128. Transport employees[^key-7a2b4247a4722de4b2c9ea07f8dedf72]
+## 128. Transport employees[^c-7a2b4247a4722de4b2c9ea07f8dedf72]
 
 *Extent: E+W+S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7a2b4247a4722de4b2c9ea07f8dedf72]: Commencement: Reg. 128 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-7a2b4247a4722de4b2c9ea07f8dedf72]: Commencement: Reg. 128 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00053]: Footnote: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67).

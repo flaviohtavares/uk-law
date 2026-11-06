@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206. Terms of tenancy[^key-ba628a0fde9c356a8dde5212261d083b][^key-54d9aa2a4fd84429fd4692f2b2413541][^key-305d236e54825a1a93b196a07e4b70e3]
+## 206. Terms of tenancy[^c-ba628a0fde9c356a8dde5212261d083b][^c-54d9aa2a4fd84429fd4692f2b2413541][^c-305d236e54825a1a93b196a07e4b70e3]
 
 *Extent: E+W*
 
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ba628a0fde9c356a8dde5212261d083b]: Commencement: S. 206 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-ba628a0fde9c356a8dde5212261d083b]: Commencement: S. 206 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-54d9aa2a4fd84429fd4692f2b2413541]: Commencement: [S. 206](https://www.legislation.gov.uk/ukpga/2023/55/section/206) in force at 31.3.2024 for specified purposes by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/o)
+[^c-54d9aa2a4fd84429fd4692f2b2413541]: Commencement: [S. 206](https://www.legislation.gov.uk/ukpga/2023/55/section/206) in force at 31.3.2024 for specified purposes by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/o)
 
-[^key-305d236e54825a1a93b196a07e4b70e3]: Commencement: [S. 206](https://www.legislation.gov.uk/ukpga/2023/55/section/206) in force at 2.12.2024 in so far as not already in force by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/d)
+[^c-305d236e54825a1a93b196a07e4b70e3]: Commencement: [S. 206](https://www.legislation.gov.uk/ukpga/2023/55/section/206) in force at 2.12.2024 in so far as not already in force by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/d)

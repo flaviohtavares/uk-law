@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Modifications of Chapter in relation to fee-paid judicial offices[^key-846018022ea0f06578663da19622b33e][^key-cc077f130fc182f7c06e24f69b149613]
+## 76. Modifications of Chapter in relation to fee-paid judicial offices[^c-846018022ea0f06578663da19622b33e][^c-cc077f130fc182f7c06e24f69b149613]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ the person is treated for the purposes of this Chapter as having been, at that t
 
 ## Annotations
 
-[^key-846018022ea0f06578663da19622b33e]: Commencement: S. 76 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-846018022ea0f06578663da19622b33e]: Commencement: S. 76 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-cc077f130fc182f7c06e24f69b149613]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2022/7/section/76) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)
+[^c-cc077f130fc182f7c06e24f69b149613]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2022/7/section/76) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)

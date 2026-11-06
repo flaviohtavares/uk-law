@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 11 — MAXIMUM PARAMETER HEIGHTS[^key-cc4de96252e01374ee242ee21e94df65]
+## SCHEDULE 11 — MAXIMUM PARAMETER HEIGHTS[^c-cc4de96252e01374ee242ee21e94df65]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ Article 6
 
 ## Annotations
 
-[^key-cc4de96252e01374ee242ee21e94df65]: Commencement: Sch. 11 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-cc4de96252e01374ee242ee21e94df65]: Commencement: Sch. 11 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)

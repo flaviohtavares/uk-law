@@ -35,22 +35,22 @@ authorising certain Member States to ratify, or accede to, in the interest of th
 
 (2008/431/EC) (revoked)
 
-[^key-546d0d729600eb3912f66ee95e3ee26d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-546d0d729600eb3912f66ee95e3ee26d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-546d0d729600eb3912f66ee95e3ee26d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-546d0d729600eb3912f66ee95e3ee26d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-546d0d729600eb3912f66ee95e3ee26d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-546d0d729600eb3912f66ee95e3ee26d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-546d0d729600eb3912f66ee95e3ee26d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-546d0d729600eb3912f66ee95e3ee26d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-546d0d729600eb3912f66ee95e3ee26d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-546d0d729600eb3912f66ee95e3ee26d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-546d0d729600eb3912f66ee95e3ee26d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-546d0d729600eb3912f66ee95e3ee26d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-546d0d729600eb3912f66ee95e3ee26d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-546d0d729600eb3912f66ee95e3ee26d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-546d0d729600eb3912f66ee95e3ee26d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-546d0d729600eb3912f66ee95e3ee26d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-546d0d729600eb3912f66ee95e3ee26d]: Textual amendment: Decision revoked (31.12.2020) by [Private International Law (Implementation of Agreements) Act 2020 (2020 c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/6)
+[^c-546d0d729600eb3912f66ee95e3ee26d]: Textual amendment: Decision revoked (31.12.2020) by [Private International Law (Implementation of Agreements) Act 2020 (2020 c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/6)

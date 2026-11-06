@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 151. Assignment of right to dividend[^key-d5e496e83cda7ad2151e854f250721dd]
+## 151. Assignment of right to dividend[^c-d5e496e83cda7ad2151e854f250721dd]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5e496e83cda7ad2151e854f250721dd]: Commencement: [Rule 151](https://www.legislation.gov.uk/nisr/2026/11/rule/151) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-d5e496e83cda7ad2151e854f250721dd]: Commencement: [Rule 151](https://www.legislation.gov.uk/nisr/2026/11/rule/151) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

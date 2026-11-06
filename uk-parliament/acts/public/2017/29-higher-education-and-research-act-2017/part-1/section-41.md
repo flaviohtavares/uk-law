@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Financial support: terms and conditions[^key-b8d205cf7d085134bfa8ae2eeea7337d]
+## 41. Financial support: terms and conditions[^c-b8d205cf7d085134bfa8ae2eeea7337d]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8d205cf7d085134bfa8ae2eeea7337d]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2017/29/section/41) in force at 1.1.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/2/a)
+[^c-b8d205cf7d085134bfa8ae2eeea7337d]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2017/29/section/41) in force at 1.1.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/2/a)

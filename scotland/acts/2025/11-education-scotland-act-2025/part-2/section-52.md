@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Powers of entry and inspection[^key-f6820e34372aecd0a8ac3bc877ab5d49][^key-da5ab7a65d67f0e136f736eb06d22cd2]
+## 52. Powers of entry and inspection[^c-f6820e34372aecd0a8ac3bc877ab5d49][^c-da5ab7a65d67f0e136f736eb06d22cd2]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f6820e34372aecd0a8ac3bc877ab5d49]: Commencement: S. 52 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-f6820e34372aecd0a8ac3bc877ab5d49]: Commencement: S. 52 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-da5ab7a65d67f0e136f736eb06d22cd2]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2025/11/section/52) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-da5ab7a65d67f0e136f736eb06d22cd2]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2025/11/section/52) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)

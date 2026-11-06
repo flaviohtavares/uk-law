@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Proceedings for possession: anti-social behaviour[^key-2e51e29cb89d4dbc1fb070a4eeb3c6a2][^key-eac551a0ca36389c3b8ce7a9a7400aed]
+## 16. Proceedings for possession: anti-social behaviour[^c-2e51e29cb89d4dbc1fb070a4eeb3c6a2][^c-eac551a0ca36389c3b8ce7a9a7400aed]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e51e29cb89d4dbc1fb070a4eeb3c6a2]: Commencement: S. 16 in force at 30.6.2004 for E. by [S.I. 2004/1502](https://www.legislation.gov.uk/uksi/2004/1502), [art. 2(a)(v)](https://www.legislation.gov.uk/uksi/2004/1502/article/2/a/v) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2004/1502/schedule/paragraph/2))
+[^c-2e51e29cb89d4dbc1fb070a4eeb3c6a2]: Commencement: S. 16 in force at 30.6.2004 for E. by [S.I. 2004/1502](https://www.legislation.gov.uk/uksi/2004/1502), [art. 2(a)(v)](https://www.legislation.gov.uk/uksi/2004/1502/article/2/a/v) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2004/1502/schedule/paragraph/2))
 
-[^key-eac551a0ca36389c3b8ce7a9a7400aed]: Commencement: S. 16 in force at 30.9.2004 for W. by [S.I. 2004/2557](https://www.legislation.gov.uk/uksi/2004/2557), [art. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2004/2557/article/2/a/iii) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2004/2557/schedule/paragraph/2))
+[^c-eac551a0ca36389c3b8ce7a9a7400aed]: Commencement: S. 16 in force at 30.9.2004 for W. by [S.I. 2004/2557](https://www.legislation.gov.uk/uksi/2004/2557), [art. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2004/2557/article/2/a/iii) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2004/2557/schedule/paragraph/2))

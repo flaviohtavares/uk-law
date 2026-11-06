@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Interpretation etc.[^key-ed8d49b7fb4b163693db4e8fd698bd26]
+## 27. Interpretation etc.[^c-ed8d49b7fb4b163693db4e8fd698bd26]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed8d49b7fb4b163693db4e8fd698bd26]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2016/21/section/27) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-ed8d49b7fb4b163693db4e8fd698bd26]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2016/21/section/27) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

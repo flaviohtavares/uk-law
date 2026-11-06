@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63J. Entering into and administering regulated sale and rent back agreements[^key-f51c0bbe837f7fe0cd7561c28bf2dddc]
+## 63J. Entering into and administering regulated sale and rent back agreements[^c-f51c0bbe837f7fe0cd7561c28bf2dddc]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
   - (i) in relation to land in England and Wales, is to an estate in fee simple absolute or a term of years absolute, whether subsisting at law or in equity;
   - (ii) in relation to land in Scotland, is to the interest of an owner in land or the tenant’s right over or interest in a property subject to a lease;
   - (iii) in relation to land in Northern Ireland, is to any freehold estate or any leasehold estate, whether subsisting at law or in equity;
-- (b)[^key-15cb786e83a08426d57d7af806ab00bd] “**timeshare accommodation**” means overnight accommodation which is the subject of a timeshare contract within the meaning of the Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010; and
+- (b)[^c-15cb786e83a08426d57d7af806ab00bd] “**timeshare accommodation**” means overnight accommodation which is the subject of a timeshare contract within the meaning of the Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010; and
 - (c) “related person” in relation to the agreement seller or, where the agreement seller is a trustee, a beneficiary of the trust, means—
   - (i) that person’s spouse or civil partner;
   - (ii) a person (whether or not of the opposite sex) whose relationship with that person has the characteristic of the relationship between husband and wife;
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f51c0bbe837f7fe0cd7561c28bf2dddc]: Textual amendment: Pt. 2 Ch. 15C inserted (1.7.2009 for specified purposes, 30.6.2010 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2009 (S.I. 2009/1342)](https://www.legislation.gov.uk/uksi/2009/1342), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/1342/article/1/2), [17](https://www.legislation.gov.uk/uksi/2009/1342/article/17)
+[^c-f51c0bbe837f7fe0cd7561c28bf2dddc]: Textual amendment: Pt. 2 Ch. 15C inserted (1.7.2009 for specified purposes, 30.6.2010 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2009 (S.I. 2009/1342)](https://www.legislation.gov.uk/uksi/2009/1342), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/1342/article/1/2), [17](https://www.legislation.gov.uk/uksi/2009/1342/article/17)
 
-[^key-15cb786e83a08426d57d7af806ab00bd]: Textual amendment: Art. 63J(4)(b) substituted (23.2.2011) by [The Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010 (S.I. 2010/2960)](https://www.legislation.gov.uk/uksi/2010/2960), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2960/regulation/1/2), [Sch. 6 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/2960/schedule/6/paragraph/7/3) (with [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2010/2960/schedule/7/paragraph/4))
+[^c-15cb786e83a08426d57d7af806ab00bd]: Textual amendment: Art. 63J(4)(b) substituted (23.2.2011) by [The Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010 (S.I. 2010/2960)](https://www.legislation.gov.uk/uksi/2010/2960), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2960/regulation/1/2), [Sch. 6 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/2960/schedule/6/paragraph/7/3) (with [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2010/2960/schedule/7/paragraph/4))

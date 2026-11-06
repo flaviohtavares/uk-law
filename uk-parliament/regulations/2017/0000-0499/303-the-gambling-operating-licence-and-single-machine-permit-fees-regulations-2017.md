@@ -48,13 +48,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-a0e0eab49ec92cec85d5bea17cc51b2e]
+### 1. Citation and commencement[^c-a0e0eab49ec92cec85d5bea17cc51b2e]
 
 (1) These Regulations may be cited as the Gambling (Operating Licence and Single-Machine Permit Fees) Regulations 2017.
 
 (2) These Regulations come into force on 6th April 2017.
 
-### 2. General interpretation[^key-99832d3b30c748e8622a017c704a3a89]
+### 2. General interpretation[^c-99832d3b30c748e8622a017c704a3a89]
 
 (1) In these Regulations—
 
@@ -136,7 +136,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (2) A reference in these Regulations to a section is, unless the contrary intention appears, a reference to a section of the Act.
 
-### 3. Units of division[^key-23eb487f32b30d6aa0967d52b4ea5bfb]
+### 3. Units of division[^c-23eb487f32b30d6aa0967d52b4ea5bfb]
 
 (1) This regulation defines the units by reference to which licences are to be assigned to categories for the purpose of prescribing certain fees (see regulations 6 and 11).
 
@@ -184,7 +184,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 2 — Non-remote operating licences – application fees and annual fees
 
-### 4. Application of this Part[^key-f1bb8e556bcd6d19d37c0d3e33df051a]
+### 4. Application of this Part[^c-f1bb8e556bcd6d19d37c0d3e33df051a]
 
 (1) This Part applies to non-remote operating licences.
 
@@ -207,7 +207,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (o) a lottery operating (society) licence; or
 - (p) a supplementary operating licence.
 
-### 5. Fees for non-remote supplementary operating licences[^key-aa97be8a2cd7a79e330fa7fc610a4d84]
+### 5. Fees for non-remote supplementary operating licences[^c-aa97be8a2cd7a79e330fa7fc610a4d84]
 
 (1) The application fee for a supplementary operating licence to which this Part applies is £165.
 
@@ -215,7 +215,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) The annual fee for such a licence is £375.
 
-### 6. Non-remote operating licences: fee categories[^key-84982d5dae4770ec5b7146d352caad3e]
+### 6. Non-remote operating licences: fee categories[^c-84982d5dae4770ec5b7146d352caad3e]
 
 (1) A licence to which this Part applies (other than a supplementary operating licence) is a licence of the category indicated in parts 1 and 2 of the table in Schedule 1.
 
@@ -229,15 +229,15 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) In this regulation, “relevant period” has the same meaning as in regulation 3(3)(a).
 
-### 7. Application fees for non-remote operating licences[^key-00aaac635bd5efac076776901be9b29e]
+### 7. Application fees for non-remote operating licences[^c-00aaac635bd5efac076776901be9b29e]
 
 (1) Subject to regulations 9, 19 and 25 to 28, the application fee for a non-remote operating licence of the description in column 1 of part 1 or 2 (as the case may be) of the table in Schedule 2 is that specified in the column that corresponds to the relevant category of that operating licence, as determined in accordance with regulation 6 and Schedule 1.
 
 (2) In applying regulation 6 for the purposes of calculating the amount of an application fee under this regulation, any reference to the number or amount of the unit of division authorised by the licence is to be treated (as appropriate) as a reference to the number or amount that the licence would authorise if granted in accordance with the application.
 
-### 8. Annual fees and first annual fees for non-remote operating licences[^key-6a0908bb5ce5e2dcdabc0293ec026353]
+### 8. Annual fees and first annual fees for non-remote operating licences[^c-6a0908bb5ce5e2dcdabc0293ec026353]
 
-(1) Subject to regulations 9, 22 [^key-67d487d16fb68b5f44be787ff90958b1]... and 30, the annual fee for a non-remote operating licence of the description in column 1 of part 1 or 2 (as the case may be) of the table in Schedule 3 is that specified in the column that corresponds to the relevant category of that operating licence, as determined in accordance with regulation 6 and Schedule 1.
+(1) Subject to regulations 9, 22 [^c-67d487d16fb68b5f44be787ff90958b1]... and 30, the annual fee for a non-remote operating licence of the description in column 1 of part 1 or 2 (as the case may be) of the table in Schedule 3 is that specified in the column that corresponds to the relevant category of that operating licence, as determined in accordance with regulation 6 and Schedule 1.
 
 (2) In applying this regulation, the category to which a particular licence is assigned is to be determined as at the date by which the annual fee for the licence is payable.
 
@@ -254,7 +254,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
   - (i) the licensee has, in accordance with a condition in the licence, notified the Commission of a date upon which it is proposed that a casino will commence trading in reliance on the licence (“the opening date”), and
   - (ii) the date by which the annual fee for the licence is payable is less than twelve months before the opening date.
 
-### 9. Application, annual and first annual fees for certain non-remote general betting (standard) operating licences[^key-bc9a15cb53e61903a9259a565b6af755]
+### 9. Application, annual and first annual fees for certain non-remote general betting (standard) operating licences[^c-bc9a15cb53e61903a9259a565b6af755]
 
 (1) This regulation applies to a non-remote general betting (standard) operating licence if—
 
@@ -265,20 +265,20 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) The application fee is—
 
-- (a) for a category B3 licence or lower, £1,406[^key-40843fe73140d35646a70e9b5575c848];
-- (b) for a category C1 licence, £4,920[^key-13fca2ab8b7a3e876641f2538169a986].
+- (a) for a category B3 licence or lower, £1,406[^c-40843fe73140d35646a70e9b5575c848];
+- (b) for a category C1 licence, £4,920[^c-13fca2ab8b7a3e876641f2538169a986].
 
-(4) Subject to regulation 22[^key-46e200a1d082c466828a23c327bece69], the annual fee for a licence to which this regulation applies is to be determined in accordance with paragraph (5).
+(4) Subject to regulation 22[^c-46e200a1d082c466828a23c327bece69], the annual fee for a licence to which this regulation applies is to be determined in accordance with paragraph (5).
 
 (5) The annual fee is—
 
-- (a) for a category A1 licence, £1,408[^key-a597f59656bc04126af1f47d1c6274c0];
-- (b) for a category A2 licence, £1,584[^key-de20f0c0e2f76b3a79046795c60a360a];
-- (c) for a category A3 licence, £2,758[^key-f2d20e0b40a527633f465e2729e9f33b];
-- (d) for a category B1 licence, £4,068[^key-cee6e689940c745876378d59f474d6b2];
-- (e) for a category B2 licence, £4,830[^key-c073ec4305d1b5587a4b9f2eeb08c7b5];
-- (f) for a category B3 licence, £6,120[^key-61f7d5680cfd87c60703fc5c3080a031];
-- (g) for a category C1 licence, £14,557[^key-51d0bc212a6e452e2e782cf25023f634].
+- (a) for a category A1 licence, £1,408[^c-a597f59656bc04126af1f47d1c6274c0];
+- (b) for a category A2 licence, £1,584[^c-de20f0c0e2f76b3a79046795c60a360a];
+- (c) for a category A3 licence, £2,758[^c-f2d20e0b40a527633f465e2729e9f33b];
+- (d) for a category B1 licence, £4,068[^c-cee6e689940c745876378d59f474d6b2];
+- (e) for a category B2 licence, £4,830[^c-c073ec4305d1b5587a4b9f2eeb08c7b5];
+- (f) for a category B3 licence, £6,120[^c-61f7d5680cfd87c60703fc5c3080a031];
+- (g) for a category C1 licence, £14,557[^c-51d0bc212a6e452e2e782cf25023f634].
 
 (6) Subject to regulation 30, the first annual fee for a licence to which this regulation applies is 75 per cent of the annual fee for that licence, as determined in accordance with paragraph (5).
 
@@ -291,7 +291,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 3 — Remote operating licences – application fees and annual fees
 
-### 10. Application of this Part[^key-ac69111c5eb08820fdc7cb2e5b364c89]
+### 10. Application of this Part[^c-ac69111c5eb08820fdc7cb2e5b364c89]
 
 This Part applies to any licence in the following list that is a remote operating licence within the meaning of section 67 (remote gambling)—
 
@@ -316,7 +316,7 @@ This Part applies to any licence in the following list that is a remote operatin
 - (s) a lottery operating (society) licence; or
 - (t) a supplementary operating licence.
 
-### 11. Remote operating licences: fee categories[^key-8f9392530d371730ca42ddfbfd07677c]
+### 11. Remote operating licences: fee categories[^c-8f9392530d371730ca42ddfbfd07677c]
 
 (1) A licence to which this Part applies (other than a remote general betting (limited) operating licence, a general betting (remote platform) operating licence, an ancillary remote operating licence or a remote supplementary operating licence) is a licence of the category indicated in parts 1 and 2 of the table in Schedule 4.
 
@@ -330,36 +330,36 @@ This Part applies to any licence in the following list that is a remote operatin
 
 (3) In this regulation, “relevant period” has the same meaning as in regulation 3(3)(a).
 
-### 12. Application fees for remote operating licences[^key-918feae12bb12622a4e199300959613e]
+### 12. Application fees for remote operating licences[^c-918feae12bb12622a4e199300959613e]
 
 (1) Subject to regulations 14(1), 16(9), 19 and 25 to 28, the application fee for a remote operating licence of the description in column 1 of part 1 or 2 (as the case may be) of the table in Schedule 5 is that specified in the column that corresponds to the relevant category of that operating licence, as determined in accordance with regulation 11 and Schedule 4.
 
 (2) In applying regulation 11 for the purposes of calculating the amount of an application fee under this regulation, any reference to the amount of the unit of division authorised by the licence is to be treated as a reference to the amount that the licence would authorise if granted in accordance with this application.
 
-### 13. Annual fees and first annual fees for remote operating licences[^key-ef47b8341f6a66d5d545ec97d030f085]
+### 13. Annual fees and first annual fees for remote operating licences[^c-ef47b8341f6a66d5d545ec97d030f085]
 
-(1) Subject to regulations 14(2)(b), 16(10) and (11) and 22(2)[^key-6dd3072b0c3aa3f9538e5860e8fb37d2], the annual fee for a remote operating licence of the description in column 1 of part 1 or 2 (as the case may be) of the table in Schedule 6 is that specified in the column that corresponds to the relevant category of that operating licence, as determined in accordance with regulation 11 and Schedule 4.
+(1) Subject to regulations 14(2)(b), 16(10) and (11) and 22(2)[^c-6dd3072b0c3aa3f9538e5860e8fb37d2], the annual fee for a remote operating licence of the description in column 1 of part 1 or 2 (as the case may be) of the table in Schedule 6 is that specified in the column that corresponds to the relevant category of that operating licence, as determined in accordance with regulation 11 and Schedule 4.
 
 (2) In applying this regulation, the category to which a particular licence is assigned is to be determined as at the date by which the annual fee for the licence is payable.
 
 (3) Subject to regulations 14(2)(a), 16(10) and (11), 22(4) and 30, the first annual fee for a licence to which this Part applies is 75 per cent of the annual fee for that licence, as determined in accordance with paragraph (1).
 
-### 14. Fees for remote general betting (limited) operating licences[^key-9d3e88879ae6b97163a5daddf25cbe38]
+### 14. Fees for remote general betting (limited) operating licences[^c-9d3e88879ae6b97163a5daddf25cbe38]
 
-(1) Subject to regulations 19 and 25 to 28, the application fee for a remote general betting (limited) operating licence is £854[^key-323fc6082390bae3ffb4c3ae3ec7c9f7].
+(1) Subject to regulations 19 and 25 to 28, the application fee for a remote general betting (limited) operating licence is £854[^c-323fc6082390bae3ffb4c3ae3ec7c9f7].
 
-(2) Subject to regulation 22[^key-f6effffcb9a8e7b604ab041ce554deba]—
+(2) Subject to regulation 22[^c-f6effffcb9a8e7b604ab041ce554deba]—
 
-- (a) the first annual fee for a remote general betting (limited) operating licence is £1,669.50[^key-cd30c59b9b1e4dbd833cae1f3471a53e]; and
-- (b) the annual fee for such a licence is £2,266[^key-e6aa025bd9f32aa8af99fd215aeac56f].
+- (a) the first annual fee for a remote general betting (limited) operating licence is £1,669.50[^c-cd30c59b9b1e4dbd833cae1f3471a53e]; and
+- (b) the annual fee for such a licence is £2,266[^c-e6aa025bd9f32aa8af99fd215aeac56f].
 
-### 15. Fees for general betting (remote platform) operating licences[^key-0eb0856e26ada2ea73dd40932e4abfd8]
+### 15. Fees for general betting (remote platform) operating licences[^c-0eb0856e26ada2ea73dd40932e4abfd8]
 
 (1) Except as provided in paragraph (2) or (3)—
 
-- (a) the application fee for a general betting (remote platform) operating licence is £285[^key-063e1eea96f84b8a16bf959f637f2e2f];
-- (b) the first annual fee for such a licence is £325.50[^key-552acf041722b06cd06eb8357abcc7f2];
-- (c) the annual fee for such a licence is £434[^key-3eb49fb37f6cd134f874d535da680b9a].
+- (a) the application fee for a general betting (remote platform) operating licence is £285[^c-063e1eea96f84b8a16bf959f637f2e2f];
+- (b) the first annual fee for such a licence is £325.50[^c-552acf041722b06cd06eb8357abcc7f2];
+- (c) the annual fee for such a licence is £434[^c-3eb49fb37f6cd134f874d535da680b9a].
 
 (2) Where a person applies for a general betting (remote platform) operating licence and holds or is also applying for—
 
@@ -377,7 +377,7 @@ there is no application fee for that general betting (remote platform) operating
 
 there is no first annual fee and no annual fee for that general betting (remote platform) operating licence.
 
-### 16. Fees for ancillary remote operating licences[^key-d0bdc971c5c46f451ebca5ef2f35ca78]
+### 16. Fees for ancillary remote operating licences[^c-d0bdc971c5c46f451ebca5ef2f35ca78]
 
 (1) An ancillary remote operating licence is a licence to which any of paragraphs (2) to (8) apply.
 
@@ -447,7 +447,7 @@ there is no first annual fee and no annual fee for that general betting (remote 
 
 (12) Nothing in this regulation limits the generality of the powers conferred by sections 75, 77 and 78 (conditions imposed by Commission (general and individual) and the Secretary of State) to attach conditions to ancillary remote operating licences.
 
-### 17. Fees for supplementary operating licences[^key-c2569cabbb740c0569a0fd16f2e0c626]
+### 17. Fees for supplementary operating licences[^c-c2569cabbb740c0569a0fd16f2e0c626]
 
 (1) The application fee for a supplementary operating licence to which this Part applies is £165.
 
@@ -457,7 +457,7 @@ there is no first annual fee and no annual fee for that general betting (remote 
 
 ## PART 4 — Combined and multiple operating licences – application fees and annual fees
 
-### 18. Interpretation and application of Part 4[^key-727461e0cf66800eae877af936ab3d4f]
+### 18. Interpretation and application of Part 4[^c-727461e0cf66800eae877af936ab3d4f]
 
 (1) For the purposes of this Part, a combined operating licence is an operating licence which either—
 
@@ -472,14 +472,14 @@ there is no first annual fee and no annual fee for that general betting (remote 
   - (i) no application fee by virtue of paragraph (2) of regulation 15, or
   - (ii) no first annual fee or no annual fee by virtue of paragraph (3) of regulation 15.
 
-### 19. Application fee for combined operating licence[^key-34f21837472c959cd60b33564b1da098]
+### 19. Application fee for combined operating licence[^c-34f21837472c959cd60b33564b1da098]
 
 Subject to regulations 20, 21 and 25 to 28, the application fee for a combined operating licence is the aggregate of—
 
 - (a) the application fee which is the highest of those payable for the different kinds of licence to which the combined licence relates; and
 - (b) 25 per cent of each other application fee payable for the licences to which the combined licence relates.
 
-### 20. Application fee for combined game host operating licences[^key-a389ebba8d4b42534e58e18ff5185688]
+### 20. Application fee for combined game host operating licences[^c-a389ebba8d4b42534e58e18ff5185688]
 
 (1) Subject to regulation 28, this regulation applies to a combined operating licence which combines at least two of the following kinds of licence (and no other kind of licence)—
 
@@ -491,22 +491,22 @@ Subject to regulations 20, 21 and 25 to 28, the application fee for a combined o
 
 (3) Where the annual gross gambling yield in respect of the licence—
 
-- (a) is less than £550,000, the principal amount is £3,168[^key-00293bbda83f363729c4baa4652936e8];
-- (b) is £550,000 or greater but less than £5.5 million, the principal amount is £7,742[^key-b71295eecfca5cf03889e82ccdb86e3d];
-- (c) is £5.5 million or greater but less than £25 million, the principal amount is £12,176[^key-135d541a97600f17116008e309448fdb];
-- (d) is £25 million or greater but less than £100 million, the principal amount is £17,875[^key-2cf4b3ac5975220c413cc07c3ba31aa5];
-- (e) is £100 million or greater but less than £250 million, the principal amount is £28,772[^key-97f2a8dd47ef668e5f848f5c037221d2];
-- (f) is £250 million or greater but less than £550 million, the principal amount is £40,598[^key-c66c901717ea2ad3995c725297b9664b];
-- (g) is £550 million or greater, the principal amount is £68,765[^key-a1eb28f194071af8056241d906af2561].
+- (a) is less than £550,000, the principal amount is £3,168[^c-00293bbda83f363729c4baa4652936e8];
+- (b) is £550,000 or greater but less than £5.5 million, the principal amount is £7,742[^c-b71295eecfca5cf03889e82ccdb86e3d];
+- (c) is £5.5 million or greater but less than £25 million, the principal amount is £12,176[^c-135d541a97600f17116008e309448fdb];
+- (d) is £25 million or greater but less than £100 million, the principal amount is £17,875[^c-2cf4b3ac5975220c413cc07c3ba31aa5];
+- (e) is £100 million or greater but less than £250 million, the principal amount is £28,772[^c-97f2a8dd47ef668e5f848f5c037221d2];
+- (f) is £250 million or greater but less than £550 million, the principal amount is £40,598[^c-c66c901717ea2ad3995c725297b9664b];
+- (g) is £550 million or greater, the principal amount is £68,765[^c-a1eb28f194071af8056241d906af2561].
 
 (4) Where the licence combines—
 
-- (a) two of the kinds of licence referred to in paragraph (1), the additional amount is £1,256[^key-156224edd0ed14e638ed15d02cd04593];
-- (b) three of those kinds of licence, the additional amount is £2,512[^key-8a8dabf53db5cf2f99f4b3184d46a231].
+- (a) two of the kinds of licence referred to in paragraph (1), the additional amount is £1,256[^c-156224edd0ed14e638ed15d02cd04593];
+- (b) three of those kinds of licence, the additional amount is £2,512[^c-8a8dabf53db5cf2f99f4b3184d46a231].
 
 (5) The reference in paragraph (3) to the annual gross gambling yield is a reference to the annual gross gambling yield calculated in accordance with regulation 3(2)(a)(i).
 
-### 21. Application fee for certain other combined remote licences[^key-4fc03106f1a72e959128a187718e180f]
+### 21. Application fee for certain other combined remote licences[^c-4fc03106f1a72e959128a187718e180f]
 
 (1) Subject to regulation 28, this regulation applies to a combined remote operating licence which combines at least two of the following kinds of licence (and no other kind of licence)—
 
@@ -518,43 +518,43 @@ Subject to regulations 20, 21 and 25 to 28, the application fee for a combined o
 
 (3) Where the annual gross gambling yield in respect of the licence—
 
-- (a) is less than £550,000, the principal amount is £4,224[^key-7f1f64b73a5f37e0c05d485f49e74bd4];
-- (b) is £550,000 or greater but less than £5.5 million, the principal amount is £10,323[^key-f32a00aefe285ef103016d940535217c];
-- (c) is £5.5 million or greater but less than £25 million, the principal amount is £16,235[^key-4a1728d08bbd8e12079f084cb01eeb08];
-- (d) is £25 million or greater but less than £100 million, the principal amount is £23,834[^key-48dda68bd053d943c2cccb86029f1327];
-- (e) is £100 million or greater but less than £250 million, the principal amount is £38,363[^key-bb5ed6e2df3338462def84b776581a4e];
-- (f) is £250 million or greater but less than £550 million, the principal amount is £54,131[^key-cc691ace90baf79789d548624ca1e17f];
-- (g) is £550 million or greater, the principal amount is £91,686[^key-f4630b0f7cf1bbdb42f1df52a282f00c].
+- (a) is less than £550,000, the principal amount is £4,224[^c-7f1f64b73a5f37e0c05d485f49e74bd4];
+- (b) is £550,000 or greater but less than £5.5 million, the principal amount is £10,323[^c-f32a00aefe285ef103016d940535217c];
+- (c) is £5.5 million or greater but less than £25 million, the principal amount is £16,235[^c-4a1728d08bbd8e12079f084cb01eeb08];
+- (d) is £25 million or greater but less than £100 million, the principal amount is £23,834[^c-48dda68bd053d943c2cccb86029f1327];
+- (e) is £100 million or greater but less than £250 million, the principal amount is £38,363[^c-bb5ed6e2df3338462def84b776581a4e];
+- (f) is £250 million or greater but less than £550 million, the principal amount is £54,131[^c-cc691ace90baf79789d548624ca1e17f];
+- (g) is £550 million or greater, the principal amount is £91,686[^c-f4630b0f7cf1bbdb42f1df52a282f00c].
 
 (4) Where the licence combines—
 
-- (a) two of the kinds of licence referred to in paragraph (1), the additional amount is £1,680[^key-67e24e91eaa864b12348bd39f8e0fc71];
-- (b) three of those kinds of licence, the additional amount is £3,360[^key-0c0ead9b88996e3ddfbafd3e3b2b293d].
+- (a) two of the kinds of licence referred to in paragraph (1), the additional amount is £1,680[^c-67e24e91eaa864b12348bd39f8e0fc71];
+- (b) three of those kinds of licence, the additional amount is £3,360[^c-0c0ead9b88996e3ddfbafd3e3b2b293d].
 
 (5) The reference in paragraph (3) to the annual gross gambling yield is a reference to the annual gross gambling yield calculated in accordance with regulation 3(2)(a)(i).
 
-### 22. Annual fees and first annual fees for combined operating licences[^key-4349d55cecb7ea7ffb19a7d771a4fcba]
+### 22. Annual fees and first annual fees for combined operating licences[^c-4349d55cecb7ea7ffb19a7d771a4fcba]
 
-(1)[^key-6bd5ff6396f2b5c2e723945da2fce0c7] This regulation is subject to regulations 23, 24 and (in respect of first annual fees only) 30.
+(1)[^c-6bd5ff6396f2b5c2e723945da2fce0c7] This regulation is subject to regulations 23, 24 and (in respect of first annual fees only) 30.
 
 (2) The annual fee for a combined operating licence is the aggregate of—
 
-- (a)[^key-11feae0a5c190a2dca5ac1ca4b52f2b4] each annual fee payable for the licences to which the combined licence relates (excluding any new casino operating licence that is not operational); and
-- (b)[^key-dcbf035c7381633ef3dffb0a80a2608e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-11feae0a5c190a2dca5ac1ca4b52f2b4] each annual fee payable for the licences to which the combined licence relates (excluding any new casino operating licence that is not operational); and
+- (b)[^c-dcbf035c7381633ef3dffb0a80a2608e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) 50 per cent of the amount of the annual fee for any new casino operating licence that is not operational.
 
 (3) Regulation 8(6) applies for the purposes of paragraph (2) as it applies for the purposes of regulation 8(5).
 
 (4) The first annual fee for—
 
-- (a) a combined non-remote operating licence which does not include a new casino operating licence is 75 per cent of the aggregate of each annual fee payable for the licences to which the combined licence relates[^key-757ab212fbdc84f3ec254bc62e5836b3];
+- (a) a combined non-remote operating licence which does not include a new casino operating licence is 75 per cent of the aggregate of each annual fee payable for the licences to which the combined licence relates[^c-757ab212fbdc84f3ec254bc62e5836b3];
 - (b) a combined non-remote operating licence which includes a new casino operating licence is the aggregate of—
-  - (i)[^key-e93e81055d22908a4236ea5c7fe005bb] 75 per cent of each annual fee payable for the licences to which the combined licence relates, but excluding the new casino operating licence; and
-  - (ii)[^key-aa71b310eb634f36825ab5dc0846138f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-e93e81055d22908a4236ea5c7fe005bb] 75 per cent of each annual fee payable for the licences to which the combined licence relates, but excluding the new casino operating licence; and
+  - (ii)[^c-aa71b310eb634f36825ab5dc0846138f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) 50 per cent of the amount of the annual fee for a new casino operating licence;
-- (c)[^key-c9d6f537ea0d427915f5ba6ac08fa9a3] a combined remote operating licence is the aggregate of 75 per cent of each annual fee payable for the licences to which the combined licence relates.
+- (c)[^c-c9d6f537ea0d427915f5ba6ac08fa9a3] a combined remote operating licence is the aggregate of 75 per cent of each annual fee payable for the licences to which the combined licence relates.
 
-### 23. Annual fees and first annual fees for combined game host operating licences[^key-ff4c6d3e3b7b98fe575a5523b11f4638]
+### 23. Annual fees and first annual fees for combined game host operating licences[^c-ff4c6d3e3b7b98fe575a5523b11f4638]
 
 (1) Subject to regulation 30, this regulation applies to a combined remote operating licence which combines at least two of the following kinds of licence (and no other kind of licence)—
 
@@ -568,26 +568,26 @@ Subject to regulations 20, 21 and 25 to 28, the application fee for a combined o
 
 (4) Where the annual gross gambling yield in respect of the licence—
 
-- (a) is less than £550,000, the principal amount is £3,142[^key-5d4a8beb96938707c8bcf5ed678267bb];
-- (b) is £550,000 or greater but less than £2 million, the principal amount is £7,525[^key-2fb3bf156bc992ecd6618d54b8288b1c];
-- (c) is £2 million or greater but less than £5.5 million, the principal amount is £10,996[^key-6ac4edc042add0698f2a9c062b0f6d5a];
-- (d) is £5.5 million or greater but less than £25 million, the principal amount is £15,435[^key-0436add04cb19331f9b089e152b751c8];
-- (e) is £25 million or greater but less than £100 million, the principal amount is £41,222[^key-f0bf973d1a9f8d1ecb639d6cff2da696];
-- (f) is £100 million or greater but less than £250 million, the principal amount is £79,039[^key-fda4b54bda728ffd920c74557f42fd25];
-- (g) is £250 million or greater but less than £550 million, the principal amount is £158,267[^key-71c1004124b3d94b94d5ca34a6ecd079];
-- (h) is £550 million or greater but less than £1 billion, the principal amount is £448,961[^key-37626fed426b3ed414dbc7d7a7ba811c];
+- (a) is less than £550,000, the principal amount is £3,142[^c-5d4a8beb96938707c8bcf5ed678267bb];
+- (b) is £550,000 or greater but less than £2 million, the principal amount is £7,525[^c-2fb3bf156bc992ecd6618d54b8288b1c];
+- (c) is £2 million or greater but less than £5.5 million, the principal amount is £10,996[^c-6ac4edc042add0698f2a9c062b0f6d5a];
+- (d) is £5.5 million or greater but less than £25 million, the principal amount is £15,435[^c-0436add04cb19331f9b089e152b751c8];
+- (e) is £25 million or greater but less than £100 million, the principal amount is £41,222[^c-f0bf973d1a9f8d1ecb639d6cff2da696];
+- (f) is £100 million or greater but less than £250 million, the principal amount is £79,039[^c-fda4b54bda728ffd920c74557f42fd25];
+- (g) is £250 million or greater but less than £550 million, the principal amount is £158,267[^c-71c1004124b3d94b94d5ca34a6ecd079];
+- (h) is £550 million or greater but less than £1 billion, the principal amount is £448,961[^c-37626fed426b3ed414dbc7d7a7ba811c];
 - (i) is £1 billion or greater, the principal amount is the aggregate of—
-  - (i) £603,961[^key-9b8a87a4feb50ec2b5c6efcd6a8b83f1], and
+  - (i) £603,961[^c-9b8a87a4feb50ec2b5c6efcd6a8b83f1], and
   - (ii) £100,000 for each complete additional £500 million of annual gross gambling yield above £1 billion.
 
 (5) Where the licence combines—
 
-- (a) two of the kinds of licence referred to in paragraph (1), the additional amount is £3,750[^key-3392ec4c7308488bba2bb683baac0edd];
-- (b) three of those kinds of licence, the additional amount is £7,500[^key-e25c06b48ef3493831a899991344534c].
+- (a) two of the kinds of licence referred to in paragraph (1), the additional amount is £3,750[^c-3392ec4c7308488bba2bb683baac0edd];
+- (b) three of those kinds of licence, the additional amount is £7,500[^c-e25c06b48ef3493831a899991344534c].
 
 (6) The reference in paragraph (4) to the annual gross gambling yield is a reference to the annual gross gambling yield calculated in accordance with regulation 3(2)(a)(i).
 
-### 24. Annual fees and first annual fees for certain other combined remote licences[^key-cfd418037231003e1e0acd0637590767]
+### 24. Annual fees and first annual fees for certain other combined remote licences[^c-cfd418037231003e1e0acd0637590767]
 
 (1) Subject to regulation 30, this regulation applies to a combined remote operating licence which combines at least two of the following kinds of licence (and no other kind of licence)—
 
@@ -601,26 +601,26 @@ Subject to regulations 20, 21 and 25 to 28, the application fee for a combined o
 
 (4) Where the annual gross gambling yield in respect of the licence—
 
-- (a) is less than £550,000, the principal amount is £4,199[^key-6e712abf4be3de24978150d2042da798];
-- (b) is £550,000 or greater but less than £2 million, the principal amount is £10,056[^key-b0d84ca86bd0c228b222e049557f6d1a];
-- (c) is £2 million or greater but less than £5.5 million, the principal amount is £14,694[^key-319ac91251a34bcb2851e11d9bd91ec9];
-- (d) is £5.5 million or greater but less than £25 million, the principal amount is £20,626[^key-869cec7569004b44ea544e1bb9e9d54c];
-- (e) is £25 million or greater but less than £100 million, the principal amount is £55,089[^key-3b5ca3f26deee69d312afd69395439d3];
-- (f) is £100 million or greater but less than £250 million, the principal amount is £105,626[^key-2bb56a58be76f5c0057630523c99a19e];
-- (g) is £250 million or greater but less than £550 million, the principal amount is £211,505[^key-364c9557c49611930a56e350b32230d1];
-- (h) is £550 million or greater but less than £1 billion, the principal amount is £599,979[^key-ebae828faa6b9b3cbe7015a8a95904dd];
+- (a) is less than £550,000, the principal amount is £4,199[^c-6e712abf4be3de24978150d2042da798];
+- (b) is £550,000 or greater but less than £2 million, the principal amount is £10,056[^c-b0d84ca86bd0c228b222e049557f6d1a];
+- (c) is £2 million or greater but less than £5.5 million, the principal amount is £14,694[^c-319ac91251a34bcb2851e11d9bd91ec9];
+- (d) is £5.5 million or greater but less than £25 million, the principal amount is £20,626[^c-869cec7569004b44ea544e1bb9e9d54c];
+- (e) is £25 million or greater but less than £100 million, the principal amount is £55,089[^c-3b5ca3f26deee69d312afd69395439d3];
+- (f) is £100 million or greater but less than £250 million, the principal amount is £105,626[^c-2bb56a58be76f5c0057630523c99a19e];
+- (g) is £250 million or greater but less than £550 million, the principal amount is £211,505[^c-364c9557c49611930a56e350b32230d1];
+- (h) is £550 million or greater but less than £1 billion, the principal amount is £599,979[^c-ebae828faa6b9b3cbe7015a8a95904dd];
 - (i) is £1 billion or greater, the principal amount is the aggregate of—
-  - (i) £793,729[^key-39d82c00bc7984a6738ae86a515c76f0], and
+  - (i) £793,729[^c-39d82c00bc7984a6738ae86a515c76f0], and
   - (ii) £125,000 for each complete additional £500 million of annual gross gambling yield above £1 billion.
 
 (5) Where the licence combines—
 
-- (a) two of the kinds of licence referred to in paragraph (1), the additional amount is £5,000[^key-bd35e74947ad178f98190603f9763132];
-- (b) three of those kinds of licence, the additional amount is £10,000[^key-8b337c27e43143b98053bef5eb3835e3].
+- (a) two of the kinds of licence referred to in paragraph (1), the additional amount is £5,000[^c-bd35e74947ad178f98190603f9763132];
+- (b) three of those kinds of licence, the additional amount is £10,000[^c-8b337c27e43143b98053bef5eb3835e3].
 
 (6) The reference in paragraph (4) to the annual gross gambling yield is a reference to the annual gross gambling yield calculated in accordance with regulation 3(2)(a)(i).
 
-### 25. Fee for simultaneous applications for a remote and a non-remote operating licence[^key-dde86a771db6a1ed0ed1502431d3595d]
+### 25. Fee for simultaneous applications for a remote and a non-remote operating licence[^c-dde86a771db6a1ed0ed1502431d3595d]
 
 (1) Subject to regulation 28, this regulation applies where a person applies at the same time for—
 
@@ -633,7 +633,7 @@ Subject to regulations 20, 21 and 25 to 28, the application fee for a combined o
 
 (4) Where the application fees that would be payable for the two operating licences applied for are equal, the application fee for the remote licence is 25 per cent of the application fee that would, but for this regulation, be payable for that remote licence.
 
-### 26. Fee payable on application for a licence when another application is pending[^key-9dc8f63c6053769627a5156cd9e3f974]
+### 26. Fee payable on application for a licence when another application is pending[^c-9dc8f63c6053769627a5156cd9e3f974]
 
 (1) Subject to regulation 28, this regulation applies where a person who has applied for an operating licence (“the first application”) applies for another operating licence (“the second application”) before the first application has been determined in accordance with section 74.
 
@@ -644,7 +644,7 @@ Subject to regulations 20, 21 and 25 to 28, the application fee for a combined o
 
 (3) In paragraph (1), “operating licence” does not include an ancillary remote operating licence.
 
-### 27. Fee payable when holder of existing licence applies for another licence[^key-16c3c507d4863bf6da922fc0124d46d0]
+### 27. Fee payable when holder of existing licence applies for another licence[^c-16c3c507d4863bf6da922fc0124d46d0]
 
 (1) Subject to regulation 28, this regulation applies where a person who holds an operating licence other than a supplementary operating licence (“the first licence”) applies for another operating licence (“the second application”).
 
@@ -655,7 +655,7 @@ Subject to regulations 20, 21 and 25 to 28, the application fee for a combined o
 
 (3) In paragraph (1), “operating licence” does not include an ancillary remote operating licence.
 
-### 28. Reduced fee for applications for licences in certain circumstances[^key-b4ebfce77463a7ed0c7a636a79e24f77]
+### 28. Reduced fee for applications for licences in certain circumstances[^c-b4ebfce77463a7ed0c7a636a79e24f77]
 
 (1) Where paragraph (2) or (3) applies to an application for a licence, the application fee payable is 25 per cent of the application fee that would, but for this regulation, be payable.
 
@@ -715,7 +715,7 @@ the application fee is 75 per cent of the application fee that would, but for th
 
 (5) Where paragraph (3) of this regulation would apply but for a failure to satisfy one or both of the requirements in paragraph (3)(c) or (e), the application fee is 75 per cent of the application fee that would, but for this regulation, be payable.
 
-(6) An individual who intends to carry on a business previously carried on by a partnership may apply for an operating licence in respect of that business where the conditions set out in paragraph (7) are satisfied, and the fee for any such application is £160[^key-ea0798eeb130ffc9fb2a706f6e8e27e1].
+(6) An individual who intends to carry on a business previously carried on by a partnership may apply for an operating licence in respect of that business where the conditions set out in paragraph (7) are satisfied, and the fee for any such application is £160[^c-ea0798eeb130ffc9fb2a706f6e8e27e1].
 
 (7) The conditions referred to in paragraph (6) are that—
 
@@ -734,11 +734,11 @@ the application fee is 75 per cent of the application fee that would, but for th
 - (a) the letter used to denote that first category comes earlier in the alphabet; and
 - (b) where the letter is the same, the number used to denote that first category is lower.
 
-### 29. Annual fees for holders of two operating licences[^key-2518873998f3b816b366c81efa5d072b]
+### 29. Annual fees for holders of two operating licences[^c-2518873998f3b816b366c81efa5d072b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Reduced first annual fee in certain circumstances[^key-87ecdf4bda3a1fcd773cbf9f4d6b8f78]
+### 30. Reduced first annual fee in certain circumstances[^c-87ecdf4bda3a1fcd773cbf9f4d6b8f78]
 
 (1) This regulation applies in any case where any of paragraphs (2), (3), (4), (5) or (6) of regulation 28 applied to the application for the licence.
 
@@ -762,16 +762,16 @@ where—
 
 (4) Where application of the formula in paragraph (3) produces a negative figure, there is no first annual fee for the licence.
 
-### 31. Interpretation[^key-51cddc11924bcc5db7ad908eb51be5cb]
+### 31. Interpretation[^c-51cddc11924bcc5db7ad908eb51be5cb]
 
-In regulation 25[^key-40ef6fd8ee169e47a2fe3375cac68f62]—
+In regulation 25[^c-40ef6fd8ee169e47a2fe3375cac68f62]—
 
 - (a) “non-remote operating licence” includes a combined non-remote operating licence; and
 - (b) “remote operating licence” includes a combined remote operating licence.
 
 ## PART 5 — Other prescribed fees relating to operating licences
 
-### 32. Interpretation and application of Part 5[^key-516a65c9c6d3d376fdd1c8930dbe37c9]
+### 32. Interpretation and application of Part 5[^c-516a65c9c6d3d376fdd1c8930dbe37c9]
 
 (1) In this Part, a “change application” is an application made under section 102(2)(b).
 
@@ -780,7 +780,7 @@ In regulation 25[^key-40ef6fd8ee169e47a2fe3375cac68f62]—
 - (a) a supplementary operating licence that is combined with one or more other kinds of licence; and
 - (b) an application for a supplementary operating licence.
 
-### 33. Fees for applications relating to change of corporate control[^key-270d9c6062ac6a6313b6119b308c71c3]
+### 33. Fees for applications relating to change of corporate control[^c-270d9c6062ac6a6313b6119b308c71c3]
 
 (1) Except where regulation 34 or 35 applies, the fee to accompany a change application in relation to an operating licence is—
 
@@ -813,11 +813,11 @@ In regulation 25[^key-40ef6fd8ee169e47a2fe3375cac68f62]—
 (6) The fees to accompany the change applications referred to in paragraph (5) are—
 
 - (a) the fee calculated in accordance with paragraph (7); and
-- (b) £160[^key-61baf1b3a9a1a85843be03124e3acaf8] for each other application.
+- (b) £160[^c-61baf1b3a9a1a85843be03124e3acaf8] for each other application.
 
 (7) The fee referred to in paragraph (6)(a) is the highest (or, as the case may be, joint highest) of the fees that would be applicable if, at the time the change applications referred to in paragraph (5) were made, the fee for each such application was calculated in accordance with paragraph (1) (but ignoring paragraph (1)(c)).
 
-### 34. Fees for applications relating to change of corporate control – known or regulated new controller[^key-44219d71725e8b3a9608b4bc5a5df03f]
+### 34. Fees for applications relating to change of corporate control – known or regulated new controller[^c-44219d71725e8b3a9608b4bc5a5df03f]
 
 (1) This regulation applies to a change application where, at the time the application is made, the new controller—
 
@@ -826,7 +826,7 @@ In regulation 25[^key-40ef6fd8ee169e47a2fe3375cac68f62]—
   - (i) regulated by the Financial Conduct Authority or the Prudential Regulation Authority, or
   - (ii) which has its registered office (or, if it has no registered office, its head office) in an EEA state other than the United Kingdom, and which is regulated by its home state regulator as defined in paragraph 9 of Schedule 3 to the Financial Services and Markets Act 2000[^f00008].
 
-(2) Where this regulation applies, the fee to accompany a change application is £160[^key-37ae8ad91c329770af66d197659282c1] if the new controller becomes a controller within the meaning of section 422 of the Financial Services and Markets Act 2000[^f00009] solely by acquiring a holding of, or increasing an existing holding to, 10 per cent or more of the shares in the company.
+(2) Where this regulation applies, the fee to accompany a change application is £160[^c-37ae8ad91c329770af66d197659282c1] if the new controller becomes a controller within the meaning of section 422 of the Financial Services and Markets Act 2000[^f00009] solely by acquiring a holding of, or increasing an existing holding to, 10 per cent or more of the shares in the company.
 
 (3) But if the new controller becomes a controller within the meaning of section 422 of that Act in circumstances other than those falling within paragraph (2), the fee is—
 
@@ -859,13 +859,13 @@ In regulation 25[^key-40ef6fd8ee169e47a2fe3375cac68f62]—
 (8) The fees to accompany the change applications referred to in paragraph (7) are—
 
 - (a) the fee calculated in accordance with paragraph (9); and
-- (b) £160[^key-ba27d63170203a849efe6263d661ba77] for each other application.
+- (b) £160[^c-ba27d63170203a849efe6263d661ba77] for each other application.
 
 (9) The fee referred to in paragraph (8)(a) is the highest (or, as the case may be, joint highest) of the fees that would be applicable if, at the time the change applications referred to in paragraph (7) were made, the fee for each such application was calculated in accordance with paragraph (3) (but ignoring paragraph (3)(c)).
 
-### 35. Fees for applications relating to change of corporate control – new controller in family-owned small-scale operator[^key-42f8694796b952c3aef67827f4015251]
+### 35. Fees for applications relating to change of corporate control – new controller in family-owned small-scale operator[^c-42f8694796b952c3aef67827f4015251]
 
-(1) Where the conditions set out in paragraph (2) are satisfied, the fee to accompany a change application is £160[^key-a4332e0318d28932f9d4a16462b0a110].
+(1) Where the conditions set out in paragraph (2) are satisfied, the fee to accompany a change application is £160[^c-a4332e0318d28932f9d4a16462b0a110].
 
 (2) The conditions referred to in paragraph (1) are that—
 
@@ -877,17 +877,17 @@ In regulation 25[^key-40ef6fd8ee169e47a2fe3375cac68f62]—
   - (i) every shareholder in the licensee other than the new controller is a spouse, civil partner, child, parent or sibling of the new controller, and
   - (ii) the new controller does not exercise a function in connection with the licensed activities.
 
-### 36. Fees for applications to vary operating licences[^key-a69f70e7bcd01a69d6f7fb015bbf9504]
+### 36. Fees for applications to vary operating licences[^c-a69f70e7bcd01a69d6f7fb015bbf9504]
 
 (1) Subject to regulation 37, the fee to accompany an application under section 104(1)(a) to vary a licence by adding or amending a licensed activity is 25 per cent of the application fee for an operating licence that would only authorise the licensee to engage in the licensed activity to be added.
 
-(2) The fee to accompany an application under section 104(1)(a) to vary a licence by removing a licensed activity is £40[^key-a25753760e0bf661c54e8d5677b50717].
+(2) The fee to accompany an application under section 104(1)(a) to vary a licence by removing a licensed activity is £40[^c-a25753760e0bf661c54e8d5677b50717].
 
-(3) Except as provided in paragraphs (4), (5) and (10), the fee to accompany an application under section 104(1)(b) to vary a licence by amending another detail of the licence is £40[^key-20457a3262a27e1e04c9d3be9227316b].
+(3) Except as provided in paragraphs (4), (5) and (10), the fee to accompany an application under section 104(1)(b) to vary a licence by amending another detail of the licence is £40[^c-20457a3262a27e1e04c9d3be9227316b].
 
 (4) Where an application has been made under section 104(1)(b) to vary a non-remote general betting (standard) operating licence or a non-remote general betting (limited) operating licence, the fee specified in paragraph (3) is not payable in respect of any application under section 104(1)(b) to vary a general betting (remote platform) operating licence to the same extent.
 
-(5) The fee specified in paragraph (3) is not payable if the sole purpose of the application is to reflect a change of name or residential address[^key-8b27bb0f736cb119dd505d8591abfbe1] for an individual.
+(5) The fee specified in paragraph (3) is not payable if the sole purpose of the application is to reflect a change of name or residential address[^c-8b27bb0f736cb119dd505d8591abfbe1] for an individual.
 
 (6) Except as provided in paragraph (10) and regulation 37, the fee to accompany an application under section 104(1)(c) to vary a condition attached to a licence shall be determined in accordance with the following paragraphs.
 
@@ -896,47 +896,47 @@ In regulation 25[^key-40ef6fd8ee169e47a2fe3375cac68f62]—
 - (a) to bring the licence within a new category (in accordance with regulation 6 or 11); or
 - (b) otherwise to permit the licensee to increase or reduce its annual gross gambling yield, value of gross annual sales, annual gross gaming yield or annual proceeds,
 
-the fee is £40[^key-a08b640b82b53edae504b78884a21576].
+the fee is £40[^c-a08b640b82b53edae504b78884a21576].
 
 (8) In any other case, the fee is 25 per cent of the application fee for an operating licence in the category to which the condition sought to be varied relates.
 
 (9) But if the condition which it is sought to vary relates to more than one category, the fee shall be 25 per cent of the highest of the application fees payable for operating licences in the categories to which the condition relates.
 
-(10) The fee to accompany an application referred to in paragraph (3) or (6) is £160[^key-a4aa669c71a44d08e344d2e68c8c439c] where—
+(10) The fee to accompany an application referred to in paragraph (3) or (6) is £160[^c-a4aa669c71a44d08e344d2e68c8c439c] where—
 
 - (a) the application is to vary a licence so as to change a reference to an individual, to an office or a post held by an individual, or to the responsibilities of an individual, an office or a post; and
 - (b) the change is of a kind in respect of which the Commission had published a notice (on its website and by any other means it considered appropriate) before the application was made, to the effect that such a change requires it to examine the criminal record of any person before making the change.
 
-### 37. Fees for applications to vary certain remote operating licences[^key-de223efb7fbe5af56a5519e8b56d75db]
+### 37. Fees for applications to vary certain remote operating licences[^c-de223efb7fbe5af56a5519e8b56d75db]
 
 (1) This paragraph applies to an application under section 104(1)(a) to vary a remote licence by adding a licensed activity in circumstances where, were the application to be granted, the resulting combined remote operating licence would be one to which regulation 20 applies.
 
 (2) The fee to accompany an application to which paragraph (1) applies is—
 
-- (a) if the application is to add a single additional licensed activity, £1,256[^key-269223ba7c09171fcfc638ed515983f5]; or
-- (b) if the application is to add two additional licensed activities, £2,512[^key-0150d9947cb42d0f41ce5beb26720c80].
+- (a) if the application is to add a single additional licensed activity, £1,256[^c-269223ba7c09171fcfc638ed515983f5]; or
+- (b) if the application is to add two additional licensed activities, £2,512[^c-0150d9947cb42d0f41ce5beb26720c80].
 
 (3) This paragraph applies to an application under section 104(1)(a) to vary a remote licence by adding a licensed activity in circumstances where, were the application to be granted, the resulting combined remote operating licence would be one to which regulation 21 applies.
 
 (4) The fee to accompany an application to which paragraph (3) applies is—
 
-- (a) if the application is to add a single additional licensed activity, £1,680[^key-0ce2c43996db6491dc8cb0345064748b]; or
-- (b) if the application is to add two additional licensed activities, £3,360[^key-50b3237247a63dda4c8b50872f2efdd0].
+- (a) if the application is to add a single additional licensed activity, £1,680[^c-0ce2c43996db6491dc8cb0345064748b]; or
+- (b) if the application is to add two additional licensed activities, £3,360[^c-50b3237247a63dda4c8b50872f2efdd0].
 
 (5) This paragraph applies to an application—
 
 - (a) to which paragraph (1) or (3) applies, and
 - (b) which also comprises an application under section 104(1)(c) to vary a condition attached to the licence, the effect of which (if granted) would be to bring the licence within a new category (in accordance with regulation 11) or otherwise to permit the licensee to increase or decrease its annual gross gambling yield.
 
-(6) The fee to accompany an application to which paragraph (5) applies is the aggregate of the fee prescribed under paragraph (2) or (4) (as applicable) plus £40[^key-4e955045061d9944eebaafd858f5bfdf].
+(6) The fee to accompany an application to which paragraph (5) applies is the aggregate of the fee prescribed under paragraph (2) or (4) (as applicable) plus £40[^c-4e955045061d9944eebaafd858f5bfdf].
 
-### 38. Maximum fee for copy of operating licence[^key-e1dd1c8521c196f8b0c11653defc7deb]
+### 38. Maximum fee for copy of operating licence[^c-e1dd1c8521c196f8b0c11653defc7deb]
 
 The fee for issuing a copy of an operating licence under section 107 must not exceed £25.
 
 ## PART 6 — Operating licences – general
 
-### 39. Date for payment of first annual fee[^key-09a32db155d0a991792340f84b2719a5]
+### 39. Date for payment of first annual fee[^c-09a32db155d0a991792340f84b2719a5]
 
 (1) The first annual fee for a licence (other than a new casino operating licence) must be paid within 30 days of the date on which the licence is issued.
 
@@ -944,13 +944,13 @@ The fee for issuing a copy of an operating licence under section 107 must not ex
 
 ## PART 7 — Single-machine supply and maintenance permits – application fee
 
-### 40. Application fee for single-machine supply and maintenance permit[^key-236f1a84825dc79b3da7073e9776ac1f]
+### 40. Application fee for single-machine supply and maintenance permit[^c-236f1a84825dc79b3da7073e9776ac1f]
 
-The fee to accompany an application for a permit under section 250(2) is £40[^key-aec488cd826c91f50271a11893729cc2].
+The fee to accompany an application for a permit under section 250(2) is £40[^c-aec488cd826c91f50271a11893729cc2].
 
 ## PART 8 — Revocations
 
-### 41. Revocations[^key-a0b7ca70020e5e3d9da7836b49a7613c]
+### 41. Revocations[^c-a0b7ca70020e5e3d9da7836b49a7613c]
 
 The Regulations in Schedule 7 are revoked to the extent specified.
 
@@ -962,11 +962,11 @@ Department for Culture, Media and Sport
 
 7th March 2017
 
-## SCHEDULE 1 — Categories of non-remote operating licences[^key-0d00acaf452a11e5a9de5438709a8355]
+## SCHEDULE 1 — Categories of non-remote operating licences[^c-0d00acaf452a11e5a9de5438709a8355]
 
 Regulation 6
 
-Part 1[^key-559b18d3340ccbd10028920f17032066]
+Part 1[^c-559b18d3340ccbd10028920f17032066]
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 | Column 8 | Column 9 | Column 10 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1006,11 +1006,11 @@ Part 2
 | Lottery operating (external lottery manager) licence | Annual proceeds | £10 million or greater, up to but excluding £17.5 million | £17.5 million or greater, up to but excluding £35 million | £35 million or greater | n/a | n/a | n/a | n/a | n/a | n/a |
 | Lottery operating (society) licence | Annual proceeds | £20 million or greater, up to but excluding £30 million | £30 million or greater | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
 
-## SCHEDULE 2 — Application fees for non-remote operating licences[^key-b74265d1e06ffbd0ded1bdbfc5f696d1]
+## SCHEDULE 2 — Application fees for non-remote operating licences[^c-b74265d1e06ffbd0ded1bdbfc5f696d1]
 
 Regulation 7
 
-Part 1[^key-137cff52904a92dda445aa599d12db7d]
+Part 1[^c-137cff52904a92dda445aa599d12db7d]
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 | Column 8 | Column 9 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1029,7 +1029,7 @@ Part 1[^key-137cff52904a92dda445aa599d12db7d]
 | Gaming machine technical (software) operating licence | £1,406 | n/a | n/a | £2,342 | n/a | n/a | £23,435 | £23,435 |
 | Gambling software operating licence | £1,406 | n/a | n/a | £2,342 | n/a | n/a | £23,435 | £23,435 |
 | Lottery operating (external lottery manager) licence | £1,406 | n/a | n/a | £2,342 | n/a | n/a | £2,704 | £3,280 |
-| Lottery operating (society) licence | £235 | n/a | n/a | £352 | n/a | n/a | £469 | £1,340[^key-02aee3375927ff166faad7cc3143be97] |
+| Lottery operating (society) licence | £235 | n/a | n/a | £352 | n/a | n/a | £469 | £1,340[^c-02aee3375927ff166faad7cc3143be97] |
 
 Part 2
 
@@ -1047,14 +1047,14 @@ Part 2
 | Gaming machine technical (supplier) operating licence | £7,894 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
 | Gaming machine technical (software) operating licence | £23,435 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
 | Gambling software operating licence | £23,435 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-| Lottery operating (external lottery manager) licence | £3,638 | £6,946[^key-3d546a436844dc031737ae5fe1f4bde0] | £13,230[^key-62d6c89c5b756e61c549f4d22525ee30] | n/a | n/a | n/a | n/a | n/a | n/a |
-| lottery operating (society) licence[^key-03222339aaf24329e2253058e2c0002a] | £2,233[^key-e827a1e4497d86f26e24196523b5673d] | £3,572[^key-647d88d552f7b326b35a88a5c2769724] | n/a[^key-828f84c7901d7bc93eaf8f26282e45be] | n/a | n/a | n/a | n/a | n/a | n/a |
+| Lottery operating (external lottery manager) licence | £3,638 | £6,946[^c-3d546a436844dc031737ae5fe1f4bde0] | £13,230[^c-62d6c89c5b756e61c549f4d22525ee30] | n/a | n/a | n/a | n/a | n/a | n/a |
+| lottery operating (society) licence[^c-03222339aaf24329e2253058e2c0002a] | £2,233[^c-e827a1e4497d86f26e24196523b5673d] | £3,572[^c-647d88d552f7b326b35a88a5c2769724] | n/a[^c-828f84c7901d7bc93eaf8f26282e45be] | n/a | n/a | n/a | n/a | n/a | n/a |
 
-## SCHEDULE 3 — Annual fees for non-remote operating licences[^key-55a99f9fdcf06b0d7f02aa93e35dde82]
+## SCHEDULE 3 — Annual fees for non-remote operating licences[^c-55a99f9fdcf06b0d7f02aa93e35dde82]
 
 Regulation 8
 
-Part 1[^key-3979469640f23e4645fd660e71b4b7da]
+Part 1[^c-3979469640f23e4645fd660e71b4b7da]
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 | Column 8 | Column 9 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1094,11 +1094,11 @@ Part 2
 | Lottery operating (external lottery manager) licence | £18,185 | £26,028 | £35,100 | n/a | n/a | n/a | n/a | n/a | n/a |
 | Lottery operating (society) licence | £5,025 | £8,350 | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
 
-## SCHEDULE 4 — Categories of remote operating licences[^key-8c26d8962e416f157d0e08df061a1dcb]
+## SCHEDULE 4 — Categories of remote operating licences[^c-8c26d8962e416f157d0e08df061a1dcb]
 
 Regulation 11
 
-Part 1[^key-7113ee6ee3108ea957f19a5419299446]
+Part 1[^c-7113ee6ee3108ea957f19a5419299446]
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 | Column 8 | Column 9 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1139,11 +1139,11 @@ Part 2
 | Lottery operating (external lottery manager) licence | Annual proceeds | £5.5 million or greater, up to but excluding £10 million | £10 million or greater, up to but excluding £17.5 million | £17.5 million or greater, up to but excluding £35 million | £35 million or greater | n/a |
 | Lottery operating (society) licence | Annual proceeds | £10 million or greater, up to but excluding £20 million | £20 million or greater, up to but excluding £30 million | £30 million or greater | n/a | n/a |
 
-## SCHEDULE 5 — Application fees for remote operating licences[^key-7d3f6b81564c671d09aabae5d35aaa16]
+## SCHEDULE 5 — Application fees for remote operating licences[^c-7d3f6b81564c671d09aabae5d35aaa16]
 
 Regulation 12
 
-Part 1[^key-8cb4a3f202db374e0cc314dbe36ce78f]
+Part 1[^c-8cb4a3f202db374e0cc314dbe36ce78f]
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 | Column 8 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1184,11 +1184,11 @@ Part 2
 | Lottery operating (external lottery manager) licence | £3,280 | £3,547 | £6,946 | £13,230 | n/a |
 | Lottery operating (society) licence | £1,340 | £2,233 | £3,572 | n/a | n/a |
 
-## SCHEDULE 6 — Annual fees for remote operating licences[^key-e4321861c5339db4156c8a51638b7328]
+## SCHEDULE 6 — Annual fees for remote operating licences[^c-e4321861c5339db4156c8a51638b7328]
 
 Regulation 13
 
-Part 1[^key-763c1fa23e2fe8296e2c3c2e812e29a5]
+Part 1[^c-763c1fa23e2fe8296e2c3c2e812e29a5]
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 | Column 8 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1229,7 +1229,7 @@ Part 2
 | Lottery operating (external lottery manager) licence | £42,557 | £56,227 | £67,250 | £78,850 | n/a |
 | Lottery operating (society) licence | £3,350 | £5,025 | £8,350 | n/a | n/a |
 
-## SCHEDULE 7 — Revocations[^key-bc1b79c1893e0075849f8e83c6624b77]
+## SCHEDULE 7 — Revocations[^c-bc1b79c1893e0075849f8e83c6624b77]
 
 Regulation 41
 
@@ -1326,9 +1326,9 @@ The Explanatory Memorandum is published alongside the Regulations on legislation
 
 [^f00001]: Footnote: [2005 c. 19](https://www.legislation.gov.uk/ukpga/2005/19).
 
-[^key-a0e0eab49ec92cec85d5bea17cc51b2e]: Commencement: Reg. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-a0e0eab49ec92cec85d5bea17cc51b2e]: Commencement: Reg. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-99832d3b30c748e8622a017c704a3a89]: Commencement: Reg. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-99832d3b30c748e8622a017c704a3a89]: Commencement: Reg. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272).
 
@@ -1336,298 +1336,298 @@ The Explanatory Memorandum is published alongside the Regulations on legislation
 
 [^f00004]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-23eb487f32b30d6aa0967d52b4ea5bfb]: Commencement: Reg. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-23eb487f32b30d6aa0967d52b4ea5bfb]: Commencement: Reg. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
 [^f00005]: Footnote: [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16).
 
-[^key-f1bb8e556bcd6d19d37c0d3e33df051a]: Commencement: Reg. 4 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-f1bb8e556bcd6d19d37c0d3e33df051a]: Commencement: Reg. 4 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-aa97be8a2cd7a79e330fa7fc610a4d84]: Commencement: Reg. 5 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-aa97be8a2cd7a79e330fa7fc610a4d84]: Commencement: Reg. 5 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-84982d5dae4770ec5b7146d352caad3e]: Commencement: Reg. 6 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-84982d5dae4770ec5b7146d352caad3e]: Commencement: Reg. 6 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-00aaac635bd5efac076776901be9b29e]: Commencement: Reg. 7 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-00aaac635bd5efac076776901be9b29e]: Commencement: Reg. 7 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-6a0908bb5ce5e2dcdabc0293ec026353]: Commencement: Reg. 8 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-6a0908bb5ce5e2dcdabc0293ec026353]: Commencement: Reg. 8 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-67d487d16fb68b5f44be787ff90958b1]: Textual amendment: Word in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2017/303/regulation/8/1) omitted (1.10.2021) by virtue of [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2021/701/regulation/3)
+[^c-67d487d16fb68b5f44be787ff90958b1]: Textual amendment: Word in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2017/303/regulation/8/1) omitted (1.10.2021) by virtue of [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2021/701/regulation/3)
 
-[^key-bc9a15cb53e61903a9259a565b6af755]: Commencement: Reg. 9 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-bc9a15cb53e61903a9259a565b6af755]: Commencement: Reg. 9 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-40843fe73140d35646a70e9b5575c848]: Textual amendment: Sum in [reg. 9(3)(a)](https://www.legislation.gov.uk/uksi/2017/303/regulation/9/3/a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [4(1)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/4/1/a)
+[^c-40843fe73140d35646a70e9b5575c848]: Textual amendment: Sum in [reg. 9(3)(a)](https://www.legislation.gov.uk/uksi/2017/303/regulation/9/3/a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [4(1)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/4/1/a)
 
-[^key-13fca2ab8b7a3e876641f2538169a986]: Textual amendment: Sum in [reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2017/303/regulation/9/3/b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [4(1)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/4/1/b)
+[^c-13fca2ab8b7a3e876641f2538169a986]: Textual amendment: Sum in [reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2017/303/regulation/9/3/b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [4(1)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/4/1/b)
 
-[^key-46e200a1d082c466828a23c327bece69]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2017/303/regulation/9/4) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/4/2)
+[^c-46e200a1d082c466828a23c327bece69]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2017/303/regulation/9/4) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/4/2)
 
-[^key-a597f59656bc04126af1f47d1c6274c0]: Textual amendment: Sum in reg. 9(5)(a) substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [4(3)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/4/3/a)
+[^c-a597f59656bc04126af1f47d1c6274c0]: Textual amendment: Sum in reg. 9(5)(a) substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [4(3)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/4/3/a)
 
-[^key-de20f0c0e2f76b3a79046795c60a360a]: Textual amendment: Sum in reg. 9(5)(b) substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [4(3)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/4/3/b)
+[^c-de20f0c0e2f76b3a79046795c60a360a]: Textual amendment: Sum in reg. 9(5)(b) substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [4(3)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/4/3/b)
 
-[^key-f2d20e0b40a527633f465e2729e9f33b]: Textual amendment: Sum in reg. 9(5)(c) substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [4(3)(c)](https://www.legislation.gov.uk/uksi/2021/701/regulation/4/3/c)
+[^c-f2d20e0b40a527633f465e2729e9f33b]: Textual amendment: Sum in reg. 9(5)(c) substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [4(3)(c)](https://www.legislation.gov.uk/uksi/2021/701/regulation/4/3/c)
 
-[^key-cee6e689940c745876378d59f474d6b2]: Textual amendment: Sum in reg. 9(5)(d) substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [4(3)(d)](https://www.legislation.gov.uk/uksi/2021/701/regulation/4/3/d)
+[^c-cee6e689940c745876378d59f474d6b2]: Textual amendment: Sum in reg. 9(5)(d) substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [4(3)(d)](https://www.legislation.gov.uk/uksi/2021/701/regulation/4/3/d)
 
-[^key-c073ec4305d1b5587a4b9f2eeb08c7b5]: Textual amendment: Sum in reg. 9(5)(e) substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [4(3)(e)](https://www.legislation.gov.uk/uksi/2021/701/regulation/4/3/e)
+[^c-c073ec4305d1b5587a4b9f2eeb08c7b5]: Textual amendment: Sum in reg. 9(5)(e) substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [4(3)(e)](https://www.legislation.gov.uk/uksi/2021/701/regulation/4/3/e)
 
-[^key-61f7d5680cfd87c60703fc5c3080a031]: Textual amendment: Sum in reg. 9(5)(f) substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [4(3)(f)](https://www.legislation.gov.uk/uksi/2021/701/regulation/4/3/f)
+[^c-61f7d5680cfd87c60703fc5c3080a031]: Textual amendment: Sum in reg. 9(5)(f) substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [4(3)(f)](https://www.legislation.gov.uk/uksi/2021/701/regulation/4/3/f)
 
-[^key-51d0bc212a6e452e2e782cf25023f634]: Textual amendment: Sum in reg. 9(5)(g) substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [4(3)(g)](https://www.legislation.gov.uk/uksi/2021/701/regulation/4/3/g)
+[^c-51d0bc212a6e452e2e782cf25023f634]: Textual amendment: Sum in reg. 9(5)(g) substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [4(3)(g)](https://www.legislation.gov.uk/uksi/2021/701/regulation/4/3/g)
 
-[^key-ac69111c5eb08820fdc7cb2e5b364c89]: Commencement: Reg. 10 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-ac69111c5eb08820fdc7cb2e5b364c89]: Commencement: Reg. 10 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-8f9392530d371730ca42ddfbfd07677c]: Commencement: Reg. 11 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-8f9392530d371730ca42ddfbfd07677c]: Commencement: Reg. 11 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-918feae12bb12622a4e199300959613e]: Commencement: Reg. 12 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-918feae12bb12622a4e199300959613e]: Commencement: Reg. 12 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-ef47b8341f6a66d5d545ec97d030f085]: Commencement: Reg. 13 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-ef47b8341f6a66d5d545ec97d030f085]: Commencement: Reg. 13 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-6dd3072b0c3aa3f9538e5860e8fb37d2]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2017/303/regulation/13/1) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2021/701/regulation/5)
+[^c-6dd3072b0c3aa3f9538e5860e8fb37d2]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2017/303/regulation/13/1) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2021/701/regulation/5)
 
-[^key-9d3e88879ae6b97163a5daddf25cbe38]: Commencement: Reg. 14 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-9d3e88879ae6b97163a5daddf25cbe38]: Commencement: Reg. 14 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-323fc6082390bae3ffb4c3ae3ec7c9f7]: Textual amendment: Sum in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2017/303/regulation/14/1) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2021/701/regulation/6/1)
+[^c-323fc6082390bae3ffb4c3ae3ec7c9f7]: Textual amendment: Sum in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2017/303/regulation/14/1) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2021/701/regulation/6/1)
 
-[^key-f6effffcb9a8e7b604ab041ce554deba]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/14/2) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/6/2/a)
+[^c-f6effffcb9a8e7b604ab041ce554deba]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/14/2) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/6/2/a)
 
-[^key-cd30c59b9b1e4dbd833cae1f3471a53e]: Textual amendment: Sum in [reg. 14(2)(a)](https://www.legislation.gov.uk/uksi/2017/303/regulation/14/2/a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/6/2/b)
+[^c-cd30c59b9b1e4dbd833cae1f3471a53e]: Textual amendment: Sum in [reg. 14(2)(a)](https://www.legislation.gov.uk/uksi/2017/303/regulation/14/2/a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/6/2/b)
 
-[^key-e6aa025bd9f32aa8af99fd215aeac56f]: Textual amendment: Sum in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2017/303/regulation/14/2/b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2021/701/regulation/6/2/c)
+[^c-e6aa025bd9f32aa8af99fd215aeac56f]: Textual amendment: Sum in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2017/303/regulation/14/2/b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2021/701/regulation/6/2/c)
 
-[^key-0eb0856e26ada2ea73dd40932e4abfd8]: Commencement: Reg. 15 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-0eb0856e26ada2ea73dd40932e4abfd8]: Commencement: Reg. 15 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-063e1eea96f84b8a16bf959f637f2e2f]: Textual amendment: Sum in [reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2017/303/regulation/15/1/a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/7/a)
+[^c-063e1eea96f84b8a16bf959f637f2e2f]: Textual amendment: Sum in [reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2017/303/regulation/15/1/a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/7/a)
 
-[^key-552acf041722b06cd06eb8357abcc7f2]: Textual amendment: Sum in [reg. 15(1)(b)](https://www.legislation.gov.uk/uksi/2017/303/regulation/15/1/b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/7/b)
+[^c-552acf041722b06cd06eb8357abcc7f2]: Textual amendment: Sum in [reg. 15(1)(b)](https://www.legislation.gov.uk/uksi/2017/303/regulation/15/1/b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/7/b)
 
-[^key-3eb49fb37f6cd134f874d535da680b9a]: Textual amendment: Sum in [reg. 15(1)(c)](https://www.legislation.gov.uk/uksi/2017/303/regulation/15/1/c) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2021/701/regulation/7/c)
+[^c-3eb49fb37f6cd134f874d535da680b9a]: Textual amendment: Sum in [reg. 15(1)(c)](https://www.legislation.gov.uk/uksi/2017/303/regulation/15/1/c) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2021/701/regulation/7/c)
 
-[^key-d0bdc971c5c46f451ebca5ef2f35ca78]: Commencement: Reg. 16 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-d0bdc971c5c46f451ebca5ef2f35ca78]: Commencement: Reg. 16 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-c2569cabbb740c0569a0fd16f2e0c626]: Commencement: Reg. 17 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-c2569cabbb740c0569a0fd16f2e0c626]: Commencement: Reg. 17 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-727461e0cf66800eae877af936ab3d4f]: Commencement: Reg. 18 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-727461e0cf66800eae877af936ab3d4f]: Commencement: Reg. 18 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-34f21837472c959cd60b33564b1da098]: Commencement: Reg. 19 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-34f21837472c959cd60b33564b1da098]: Commencement: Reg. 19 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-a389ebba8d4b42534e58e18ff5185688]: Commencement: Reg. 20 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-a389ebba8d4b42534e58e18ff5185688]: Commencement: Reg. 20 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-00293bbda83f363729c4baa4652936e8]: Textual amendment: Sum in reg. 20(3)(a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [8(1)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/8/1/a)
+[^c-00293bbda83f363729c4baa4652936e8]: Textual amendment: Sum in reg. 20(3)(a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [8(1)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/8/1/a)
 
-[^key-b71295eecfca5cf03889e82ccdb86e3d]: Textual amendment: Sum in reg. 20(3)(b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [8(1)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/8/1/b)
+[^c-b71295eecfca5cf03889e82ccdb86e3d]: Textual amendment: Sum in reg. 20(3)(b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [8(1)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/8/1/b)
 
-[^key-135d541a97600f17116008e309448fdb]: Textual amendment: Sum in reg. 20(3)(c) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [8(1)(c)](https://www.legislation.gov.uk/uksi/2021/701/regulation/8/1/c)
+[^c-135d541a97600f17116008e309448fdb]: Textual amendment: Sum in reg. 20(3)(c) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [8(1)(c)](https://www.legislation.gov.uk/uksi/2021/701/regulation/8/1/c)
 
-[^key-2cf4b3ac5975220c413cc07c3ba31aa5]: Textual amendment: Sum in reg. 20(3)(d) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [8(1)(d)](https://www.legislation.gov.uk/uksi/2021/701/regulation/8/1/d)
+[^c-2cf4b3ac5975220c413cc07c3ba31aa5]: Textual amendment: Sum in reg. 20(3)(d) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [8(1)(d)](https://www.legislation.gov.uk/uksi/2021/701/regulation/8/1/d)
 
-[^key-97f2a8dd47ef668e5f848f5c037221d2]: Textual amendment: Sum in reg. 20(3)(e) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [8(1)(e)](https://www.legislation.gov.uk/uksi/2021/701/regulation/8/1/e)
+[^c-97f2a8dd47ef668e5f848f5c037221d2]: Textual amendment: Sum in reg. 20(3)(e) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [8(1)(e)](https://www.legislation.gov.uk/uksi/2021/701/regulation/8/1/e)
 
-[^key-c66c901717ea2ad3995c725297b9664b]: Textual amendment: Sum in reg. 20(3)(f) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [8(1)(f)](https://www.legislation.gov.uk/uksi/2021/701/regulation/8/1/f)
+[^c-c66c901717ea2ad3995c725297b9664b]: Textual amendment: Sum in reg. 20(3)(f) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [8(1)(f)](https://www.legislation.gov.uk/uksi/2021/701/regulation/8/1/f)
 
-[^key-a1eb28f194071af8056241d906af2561]: Textual amendment: Sum in reg. 20(3)(g) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [8(1)(g)](https://www.legislation.gov.uk/uksi/2021/701/regulation/8/1/g)
+[^c-a1eb28f194071af8056241d906af2561]: Textual amendment: Sum in reg. 20(3)(g) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [8(1)(g)](https://www.legislation.gov.uk/uksi/2021/701/regulation/8/1/g)
 
-[^key-156224edd0ed14e638ed15d02cd04593]: Textual amendment: Sum in reg. 20(4)(a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/8/2/a)
+[^c-156224edd0ed14e638ed15d02cd04593]: Textual amendment: Sum in reg. 20(4)(a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/8/2/a)
 
-[^key-8a8dabf53db5cf2f99f4b3184d46a231]: Textual amendment: Sum in reg. 20(4)(b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/8/2/b)
+[^c-8a8dabf53db5cf2f99f4b3184d46a231]: Textual amendment: Sum in reg. 20(4)(b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/8/2/b)
 
-[^key-4fc03106f1a72e959128a187718e180f]: Commencement: Reg. 21 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-4fc03106f1a72e959128a187718e180f]: Commencement: Reg. 21 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-7f1f64b73a5f37e0c05d485f49e74bd4]: Textual amendment: Sum in reg. 21(3)(a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [9(1)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/9/1/a)
+[^c-7f1f64b73a5f37e0c05d485f49e74bd4]: Textual amendment: Sum in reg. 21(3)(a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [9(1)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/9/1/a)
 
-[^key-f32a00aefe285ef103016d940535217c]: Textual amendment: Sum in reg. 21(3)(b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [9(1)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/9/1/b)
+[^c-f32a00aefe285ef103016d940535217c]: Textual amendment: Sum in reg. 21(3)(b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [9(1)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/9/1/b)
 
-[^key-4a1728d08bbd8e12079f084cb01eeb08]: Textual amendment: Sum in reg. 21(3)(c) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [9(1)(c)](https://www.legislation.gov.uk/uksi/2021/701/regulation/9/1/c)
+[^c-4a1728d08bbd8e12079f084cb01eeb08]: Textual amendment: Sum in reg. 21(3)(c) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [9(1)(c)](https://www.legislation.gov.uk/uksi/2021/701/regulation/9/1/c)
 
-[^key-48dda68bd053d943c2cccb86029f1327]: Textual amendment: Sum in reg. 21(3)(d) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [9(1)(d)](https://www.legislation.gov.uk/uksi/2021/701/regulation/9/1/d)
+[^c-48dda68bd053d943c2cccb86029f1327]: Textual amendment: Sum in reg. 21(3)(d) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [9(1)(d)](https://www.legislation.gov.uk/uksi/2021/701/regulation/9/1/d)
 
-[^key-bb5ed6e2df3338462def84b776581a4e]: Textual amendment: Sum in reg. 21(3)(e) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [9(1)(e)](https://www.legislation.gov.uk/uksi/2021/701/regulation/9/1/e)
+[^c-bb5ed6e2df3338462def84b776581a4e]: Textual amendment: Sum in reg. 21(3)(e) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [9(1)(e)](https://www.legislation.gov.uk/uksi/2021/701/regulation/9/1/e)
 
-[^key-cc691ace90baf79789d548624ca1e17f]: Textual amendment: Sum in reg. 21(3)(f) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [9(1)(f)](https://www.legislation.gov.uk/uksi/2021/701/regulation/9/1/f)
+[^c-cc691ace90baf79789d548624ca1e17f]: Textual amendment: Sum in reg. 21(3)(f) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [9(1)(f)](https://www.legislation.gov.uk/uksi/2021/701/regulation/9/1/f)
 
-[^key-f4630b0f7cf1bbdb42f1df52a282f00c]: Textual amendment: Sum in reg. 21(3)(g) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [9(1)(g)](https://www.legislation.gov.uk/uksi/2021/701/regulation/9/1/g)
+[^c-f4630b0f7cf1bbdb42f1df52a282f00c]: Textual amendment: Sum in reg. 21(3)(g) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [9(1)(g)](https://www.legislation.gov.uk/uksi/2021/701/regulation/9/1/g)
 
-[^key-67e24e91eaa864b12348bd39f8e0fc71]: Textual amendment: Sum in reg. 21(4)(a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/9/2/a)
+[^c-67e24e91eaa864b12348bd39f8e0fc71]: Textual amendment: Sum in reg. 21(4)(a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/9/2/a)
 
-[^key-0c0ead9b88996e3ddfbafd3e3b2b293d]: Textual amendment: Sum in reg. 21(4)(b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/9/2/b)
+[^c-0c0ead9b88996e3ddfbafd3e3b2b293d]: Textual amendment: Sum in reg. 21(4)(b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/9/2/b)
 
-[^key-4349d55cecb7ea7ffb19a7d771a4fcba]: Commencement: Reg. 22 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-4349d55cecb7ea7ffb19a7d771a4fcba]: Commencement: Reg. 22 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-6bd5ff6396f2b5c2e723945da2fce0c7]: Textual amendment: [Reg. 22(1)](https://www.legislation.gov.uk/uksi/2017/303/regulation/22/1) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [10(1)](https://www.legislation.gov.uk/uksi/2021/701/regulation/10/1)
+[^c-6bd5ff6396f2b5c2e723945da2fce0c7]: Textual amendment: [Reg. 22(1)](https://www.legislation.gov.uk/uksi/2017/303/regulation/22/1) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [10(1)](https://www.legislation.gov.uk/uksi/2021/701/regulation/10/1)
 
-[^key-11feae0a5c190a2dca5ac1ca4b52f2b4]: Textual amendment: [Reg. 22(2)(a)](https://www.legislation.gov.uk/uksi/2017/303/regulation/22/2/a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [10(2)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/10/2/a)
+[^c-11feae0a5c190a2dca5ac1ca4b52f2b4]: Textual amendment: [Reg. 22(2)(a)](https://www.legislation.gov.uk/uksi/2017/303/regulation/22/2/a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [10(2)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/10/2/a)
 
-[^key-dcbf035c7381633ef3dffb0a80a2608e]: Textual amendment: [Reg. 22(2)(b)](https://www.legislation.gov.uk/uksi/2017/303/regulation/22/2/b) omitted (1.10.2021) by virtue of [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [10(2)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/10/2/b)
+[^c-dcbf035c7381633ef3dffb0a80a2608e]: Textual amendment: [Reg. 22(2)(b)](https://www.legislation.gov.uk/uksi/2017/303/regulation/22/2/b) omitted (1.10.2021) by virtue of [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [10(2)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/10/2/b)
 
-[^key-757ab212fbdc84f3ec254bc62e5836b3]: Textual amendment: Words in [reg. 22(4)(a)](https://www.legislation.gov.uk/uksi/2017/303/regulation/22/4/a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/10/3)
+[^c-757ab212fbdc84f3ec254bc62e5836b3]: Textual amendment: Words in [reg. 22(4)(a)](https://www.legislation.gov.uk/uksi/2017/303/regulation/22/4/a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/10/3)
 
-[^key-e93e81055d22908a4236ea5c7fe005bb]: Textual amendment: [Reg. 22(4)(b)(i)](https://www.legislation.gov.uk/uksi/2017/303/regulation/22/4/b/i) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [10(4)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/10/4/a)
+[^c-e93e81055d22908a4236ea5c7fe005bb]: Textual amendment: [Reg. 22(4)(b)(i)](https://www.legislation.gov.uk/uksi/2017/303/regulation/22/4/b/i) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [10(4)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/10/4/a)
 
-[^key-aa71b310eb634f36825ab5dc0846138f]: Textual amendment: [Reg. 22(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/303/regulation/22/4/b/ii) omitted (1.10.2021) by virtue of [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [10(4)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/10/4/b)
+[^c-aa71b310eb634f36825ab5dc0846138f]: Textual amendment: [Reg. 22(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/303/regulation/22/4/b/ii) omitted (1.10.2021) by virtue of [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [10(4)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/10/4/b)
 
-[^key-c9d6f537ea0d427915f5ba6ac08fa9a3]: Textual amendment: [Reg. 22(4)(c)](https://www.legislation.gov.uk/uksi/2017/303/regulation/22/4/c) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2021/701/regulation/10/5)
+[^c-c9d6f537ea0d427915f5ba6ac08fa9a3]: Textual amendment: [Reg. 22(4)(c)](https://www.legislation.gov.uk/uksi/2017/303/regulation/22/4/c) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2021/701/regulation/10/5)
 
-[^key-ff4c6d3e3b7b98fe575a5523b11f4638]: Commencement: Reg. 23 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-ff4c6d3e3b7b98fe575a5523b11f4638]: Commencement: Reg. 23 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-5d4a8beb96938707c8bcf5ed678267bb]: Textual amendment: Sum in reg. 23(4)(a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(1)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/1/a)
+[^c-5d4a8beb96938707c8bcf5ed678267bb]: Textual amendment: Sum in reg. 23(4)(a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(1)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/1/a)
 
-[^key-2fb3bf156bc992ecd6618d54b8288b1c]: Textual amendment: Sum in reg. 23(4)(b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(1)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/1/b)
+[^c-2fb3bf156bc992ecd6618d54b8288b1c]: Textual amendment: Sum in reg. 23(4)(b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(1)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/1/b)
 
-[^key-6ac4edc042add0698f2a9c062b0f6d5a]: Textual amendment: Sum in reg. 23(4)(c) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(1)(c)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/1/c)
+[^c-6ac4edc042add0698f2a9c062b0f6d5a]: Textual amendment: Sum in reg. 23(4)(c) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(1)(c)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/1/c)
 
-[^key-0436add04cb19331f9b089e152b751c8]: Textual amendment: Sum in reg. 23(4)(d) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(1)(d)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/1/d)
+[^c-0436add04cb19331f9b089e152b751c8]: Textual amendment: Sum in reg. 23(4)(d) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(1)(d)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/1/d)
 
-[^key-f0bf973d1a9f8d1ecb639d6cff2da696]: Textual amendment: Sum in reg. 23(4)(e) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(1)(e)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/1/e)
+[^c-f0bf973d1a9f8d1ecb639d6cff2da696]: Textual amendment: Sum in reg. 23(4)(e) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(1)(e)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/1/e)
 
-[^key-fda4b54bda728ffd920c74557f42fd25]: Textual amendment: Sum in reg. 23(4)(f) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(1)(f)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/1/f)
+[^c-fda4b54bda728ffd920c74557f42fd25]: Textual amendment: Sum in reg. 23(4)(f) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(1)(f)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/1/f)
 
-[^key-71c1004124b3d94b94d5ca34a6ecd079]: Textual amendment: Sum in reg. 23(4)(g) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(1)(g)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/1/g)
+[^c-71c1004124b3d94b94d5ca34a6ecd079]: Textual amendment: Sum in reg. 23(4)(g) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(1)(g)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/1/g)
 
-[^key-37626fed426b3ed414dbc7d7a7ba811c]: Textual amendment: Sum in reg. 23(4)(h) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(1)(h)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/1/h)
+[^c-37626fed426b3ed414dbc7d7a7ba811c]: Textual amendment: Sum in reg. 23(4)(h) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(1)(h)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/1/h)
 
-[^key-9b8a87a4feb50ec2b5c6efcd6a8b83f1]: Textual amendment: Sum in reg. 23(4)(i) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(1)(i)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/1/i)
+[^c-9b8a87a4feb50ec2b5c6efcd6a8b83f1]: Textual amendment: Sum in reg. 23(4)(i) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(1)(i)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/1/i)
 
-[^key-3392ec4c7308488bba2bb683baac0edd]: Textual amendment: Sum in reg. 23(5)(a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/2/a)
+[^c-3392ec4c7308488bba2bb683baac0edd]: Textual amendment: Sum in reg. 23(5)(a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/2/a)
 
-[^key-e25c06b48ef3493831a899991344534c]: Textual amendment: Sum in reg. 23(5)(b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(2)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/2/b)
+[^c-e25c06b48ef3493831a899991344534c]: Textual amendment: Sum in reg. 23(5)(b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [11(2)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/11/2/b)
 
-[^key-cfd418037231003e1e0acd0637590767]: Commencement: Reg. 24 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-cfd418037231003e1e0acd0637590767]: Commencement: Reg. 24 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-6e712abf4be3de24978150d2042da798]: Textual amendment: Sum in reg. 24(4)(a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(1)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/1/a)
+[^c-6e712abf4be3de24978150d2042da798]: Textual amendment: Sum in reg. 24(4)(a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(1)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/1/a)
 
-[^key-b0d84ca86bd0c228b222e049557f6d1a]: Textual amendment: Sum in reg. 24(4)(b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(1)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/1/b)
+[^c-b0d84ca86bd0c228b222e049557f6d1a]: Textual amendment: Sum in reg. 24(4)(b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(1)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/1/b)
 
-[^key-319ac91251a34bcb2851e11d9bd91ec9]: Textual amendment: Sum in reg. 24(4)(c) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(1)(c)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/1/c)
+[^c-319ac91251a34bcb2851e11d9bd91ec9]: Textual amendment: Sum in reg. 24(4)(c) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(1)(c)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/1/c)
 
-[^key-869cec7569004b44ea544e1bb9e9d54c]: Textual amendment: Sum in reg. 24(4)(d) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(1)(d)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/1/d)
+[^c-869cec7569004b44ea544e1bb9e9d54c]: Textual amendment: Sum in reg. 24(4)(d) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(1)(d)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/1/d)
 
-[^key-3b5ca3f26deee69d312afd69395439d3]: Textual amendment: Sum in reg. 24(4)(e) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(1)(e)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/1/e)
+[^c-3b5ca3f26deee69d312afd69395439d3]: Textual amendment: Sum in reg. 24(4)(e) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(1)(e)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/1/e)
 
-[^key-2bb56a58be76f5c0057630523c99a19e]: Textual amendment: Sum in reg. 24(4)(f) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(1)(f)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/1/f)
+[^c-2bb56a58be76f5c0057630523c99a19e]: Textual amendment: Sum in reg. 24(4)(f) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(1)(f)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/1/f)
 
-[^key-364c9557c49611930a56e350b32230d1]: Textual amendment: Sum in reg. 24(4)(g) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(1)(g)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/1/g)
+[^c-364c9557c49611930a56e350b32230d1]: Textual amendment: Sum in reg. 24(4)(g) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(1)(g)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/1/g)
 
-[^key-ebae828faa6b9b3cbe7015a8a95904dd]: Textual amendment: Sum in reg. 24(4)(h) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(1)(h)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/1/h)
+[^c-ebae828faa6b9b3cbe7015a8a95904dd]: Textual amendment: Sum in reg. 24(4)(h) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(1)(h)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/1/h)
 
-[^key-39d82c00bc7984a6738ae86a515c76f0]: Textual amendment: Sum in reg. 24(4)(i) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(1)(i)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/1/i)
+[^c-39d82c00bc7984a6738ae86a515c76f0]: Textual amendment: Sum in reg. 24(4)(i) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(1)(i)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/1/i)
 
-[^key-bd35e74947ad178f98190603f9763132]: Textual amendment: Sum in reg. 24(5)(a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/2/a)
+[^c-bd35e74947ad178f98190603f9763132]: Textual amendment: Sum in reg. 24(5)(a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/2/a)
 
-[^key-8b337c27e43143b98053bef5eb3835e3]: Textual amendment: Sum in reg. 24(5)(b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/2/b)
+[^c-8b337c27e43143b98053bef5eb3835e3]: Textual amendment: Sum in reg. 24(5)(b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/12/2/b)
 
-[^key-dde86a771db6a1ed0ed1502431d3595d]: Commencement: Reg. 25 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-dde86a771db6a1ed0ed1502431d3595d]: Commencement: Reg. 25 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-9dc8f63c6053769627a5156cd9e3f974]: Commencement: Reg. 26 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-9dc8f63c6053769627a5156cd9e3f974]: Commencement: Reg. 26 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-16c3c507d4863bf6da922fc0124d46d0]: Commencement: Reg. 27 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-16c3c507d4863bf6da922fc0124d46d0]: Commencement: Reg. 27 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-b4ebfce77463a7ed0c7a636a79e24f77]: Commencement: Reg. 28 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-b4ebfce77463a7ed0c7a636a79e24f77]: Commencement: Reg. 28 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2006/3266](https://www.legislation.gov.uk/uksi/2006/3266).
 
 [^f00007]: Footnote: Section 70(2) of the Gambling Act 2005 gives the Gambling Commission power to have regard to such matters.
 
-[^key-ea0798eeb130ffc9fb2a706f6e8e27e1]: Textual amendment: Sum in [reg. 28(6)](https://www.legislation.gov.uk/uksi/2017/303/regulation/28/6) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2021/701/regulation/13)
+[^c-ea0798eeb130ffc9fb2a706f6e8e27e1]: Textual amendment: Sum in [reg. 28(6)](https://www.legislation.gov.uk/uksi/2017/303/regulation/28/6) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2021/701/regulation/13)
 
-[^key-2518873998f3b816b366c81efa5d072b]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/uksi/2017/303/regulation/29) omitted (1.10.2021) by virtue of [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2021/701/regulation/14)
+[^c-2518873998f3b816b366c81efa5d072b]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/uksi/2017/303/regulation/29) omitted (1.10.2021) by virtue of [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2021/701/regulation/14)
 
-[^key-87ecdf4bda3a1fcd773cbf9f4d6b8f78]: Commencement: Reg. 30 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-87ecdf4bda3a1fcd773cbf9f4d6b8f78]: Commencement: Reg. 30 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-51cddc11924bcc5db7ad908eb51be5cb]: Commencement: Reg. 31 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-51cddc11924bcc5db7ad908eb51be5cb]: Commencement: Reg. 31 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-40ef6fd8ee169e47a2fe3375cac68f62]: Textual amendment: Words in [reg. 31](https://www.legislation.gov.uk/uksi/2017/303/regulation/31) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2021/701/regulation/15)
+[^c-40ef6fd8ee169e47a2fe3375cac68f62]: Textual amendment: Words in [reg. 31](https://www.legislation.gov.uk/uksi/2017/303/regulation/31) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2021/701/regulation/15)
 
-[^key-516a65c9c6d3d376fdd1c8930dbe37c9]: Commencement: Reg. 32 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-516a65c9c6d3d376fdd1c8930dbe37c9]: Commencement: Reg. 32 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-270d9c6062ac6a6313b6119b308c71c3]: Commencement: Reg. 33 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-270d9c6062ac6a6313b6119b308c71c3]: Commencement: Reg. 33 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-61baf1b3a9a1a85843be03124e3acaf8]: Textual amendment: Sum in [reg. 33(6)(b)](https://www.legislation.gov.uk/uksi/2017/303/regulation/33/6/b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2021/701/regulation/16)
+[^c-61baf1b3a9a1a85843be03124e3acaf8]: Textual amendment: Sum in [reg. 33(6)(b)](https://www.legislation.gov.uk/uksi/2017/303/regulation/33/6/b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2021/701/regulation/16)
 
-[^key-44219d71725e8b3a9608b4bc5a5df03f]: Commencement: Reg. 34 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-44219d71725e8b3a9608b4bc5a5df03f]: Commencement: Reg. 34 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
 [^f00008]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8); paragraph 9 was amended by [S.I. 2012/1906](https://www.legislation.gov.uk/uksi/2012/1906), article 4(1) and (4).
 
-[^key-37ae8ad91c329770af66d197659282c1]: Textual amendment: Sum in [reg. 34(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/34/2) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [17(1)](https://www.legislation.gov.uk/uksi/2021/701/regulation/17/1)
+[^c-37ae8ad91c329770af66d197659282c1]: Textual amendment: Sum in [reg. 34(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/34/2) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [17(1)](https://www.legislation.gov.uk/uksi/2021/701/regulation/17/1)
 
 [^f00009]: Footnote: Section 422 was substituted by [S.I. 2009/534](https://www.legislation.gov.uk/uksi/2009/534), Schedule 3, and subsequently amended by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115), paragraph 25 of Schedule 2.
 
-[^key-ba27d63170203a849efe6263d661ba77]: Textual amendment: Sum in [reg. 34(8)(b)](https://www.legislation.gov.uk/uksi/2017/303/regulation/34/8/b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/17/2)
+[^c-ba27d63170203a849efe6263d661ba77]: Textual amendment: Sum in [reg. 34(8)(b)](https://www.legislation.gov.uk/uksi/2017/303/regulation/34/8/b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/17/2)
 
-[^key-42f8694796b952c3aef67827f4015251]: Commencement: Reg. 35 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-42f8694796b952c3aef67827f4015251]: Commencement: Reg. 35 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-a4332e0318d28932f9d4a16462b0a110]: Textual amendment: Sum in [reg. 35(1)](https://www.legislation.gov.uk/uksi/2017/303/regulation/35/1) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2021/701/regulation/18)
+[^c-a4332e0318d28932f9d4a16462b0a110]: Textual amendment: Sum in [reg. 35(1)](https://www.legislation.gov.uk/uksi/2017/303/regulation/35/1) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2021/701/regulation/18)
 
 [^f00010]: Footnote: “Small scale operator” is defined in regulation 2 of the Gambling Act 2005 (Definition of Small-scale Operator) Regulations 2006 ([S.I. 2006/3266](https://www.legislation.gov.uk/uksi/2006/3266)), to which there are amendments not relevant to these Regulations.
 
-[^key-a69f70e7bcd01a69d6f7fb015bbf9504]: Commencement: Reg. 36 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-a69f70e7bcd01a69d6f7fb015bbf9504]: Commencement: Reg. 36 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-a25753760e0bf661c54e8d5677b50717]: Textual amendment: Sum in reg. 36(2) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [19(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/19/a)
+[^c-a25753760e0bf661c54e8d5677b50717]: Textual amendment: Sum in reg. 36(2) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [19(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/19/a)
 
-[^key-20457a3262a27e1e04c9d3be9227316b]: Textual amendment: Sum in reg. 36(3) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [19(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/19/b)
+[^c-20457a3262a27e1e04c9d3be9227316b]: Textual amendment: Sum in reg. 36(3) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [19(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/19/b)
 
-[^key-8b27bb0f736cb119dd505d8591abfbe1]: Textual amendment: Words in [reg. 36(5)](https://www.legislation.gov.uk/uksi/2017/303/regulation/36/5) inserted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [19(c)](https://www.legislation.gov.uk/uksi/2021/701/regulation/19/c)
+[^c-8b27bb0f736cb119dd505d8591abfbe1]: Textual amendment: Words in [reg. 36(5)](https://www.legislation.gov.uk/uksi/2017/303/regulation/36/5) inserted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [19(c)](https://www.legislation.gov.uk/uksi/2021/701/regulation/19/c)
 
-[^key-a08b640b82b53edae504b78884a21576]: Textual amendment: Sum in reg. 36(7) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [19(d)](https://www.legislation.gov.uk/uksi/2021/701/regulation/19/d)
+[^c-a08b640b82b53edae504b78884a21576]: Textual amendment: Sum in reg. 36(7) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [19(d)](https://www.legislation.gov.uk/uksi/2021/701/regulation/19/d)
 
-[^key-a4aa669c71a44d08e344d2e68c8c439c]: Textual amendment: Sum in reg. 36(10) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [19(e)](https://www.legislation.gov.uk/uksi/2021/701/regulation/19/e)
+[^c-a4aa669c71a44d08e344d2e68c8c439c]: Textual amendment: Sum in reg. 36(10) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [19(e)](https://www.legislation.gov.uk/uksi/2021/701/regulation/19/e)
 
-[^key-de223efb7fbe5af56a5519e8b56d75db]: Commencement: Reg. 37 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-de223efb7fbe5af56a5519e8b56d75db]: Commencement: Reg. 37 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-269223ba7c09171fcfc638ed515983f5]: Textual amendment: Sum in reg. 37(2)(a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [20(1)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/20/1/a)
+[^c-269223ba7c09171fcfc638ed515983f5]: Textual amendment: Sum in reg. 37(2)(a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [20(1)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/20/1/a)
 
-[^key-0150d9947cb42d0f41ce5beb26720c80]: Textual amendment: Sum in reg. 37(2)(b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [20(1)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/20/1/b)
+[^c-0150d9947cb42d0f41ce5beb26720c80]: Textual amendment: Sum in reg. 37(2)(b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [20(1)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/20/1/b)
 
-[^key-0ce2c43996db6491dc8cb0345064748b]: Textual amendment: Sum in reg. 37(4)(a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/20/2/a)
+[^c-0ce2c43996db6491dc8cb0345064748b]: Textual amendment: Sum in reg. 37(4)(a) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/20/2/a)
 
-[^key-50b3237247a63dda4c8b50872f2efdd0]: Textual amendment: Sum in reg. 37(4)(b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/20/2/b)
+[^c-50b3237247a63dda4c8b50872f2efdd0]: Textual amendment: Sum in reg. 37(4)(b) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/20/2/b)
 
-[^key-4e955045061d9944eebaafd858f5bfdf]: Textual amendment: Sum in reg. 37(6) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/20/3)
+[^c-4e955045061d9944eebaafd858f5bfdf]: Textual amendment: Sum in reg. 37(6) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/20/3)
 
-[^key-e1dd1c8521c196f8b0c11653defc7deb]: Commencement: Reg. 38 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-e1dd1c8521c196f8b0c11653defc7deb]: Commencement: Reg. 38 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-09a32db155d0a991792340f84b2719a5]: Commencement: Reg. 39 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-09a32db155d0a991792340f84b2719a5]: Commencement: Reg. 39 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-236f1a84825dc79b3da7073e9776ac1f]: Commencement: Reg. 40 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-236f1a84825dc79b3da7073e9776ac1f]: Commencement: Reg. 40 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-aec488cd826c91f50271a11893729cc2]: Textual amendment: Sum in [reg. 40](https://www.legislation.gov.uk/uksi/2017/303/regulation/40) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2021/701/regulation/21)
+[^c-aec488cd826c91f50271a11893729cc2]: Textual amendment: Sum in [reg. 40](https://www.legislation.gov.uk/uksi/2017/303/regulation/40) substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2021/701/regulation/21)
 
-[^key-a0b7ca70020e5e3d9da7836b49a7613c]: Commencement: Reg. 41 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-a0b7ca70020e5e3d9da7836b49a7613c]: Commencement: Reg. 41 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-0d00acaf452a11e5a9de5438709a8355]: Commencement: Sch. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-0d00acaf452a11e5a9de5438709a8355]: Commencement: Sch. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-559b18d3340ccbd10028920f17032066]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2017/303/schedule/1) table substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2021/701/schedule/1)
+[^c-559b18d3340ccbd10028920f17032066]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2017/303/schedule/1) table substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2021/701/schedule/1)
 
-[^key-b74265d1e06ffbd0ded1bdbfc5f696d1]: Commencement: Sch. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-b74265d1e06ffbd0ded1bdbfc5f696d1]: Commencement: Sch. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-137cff52904a92dda445aa599d12db7d]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2017/303/schedule/2) table substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/701/schedule/2)
+[^c-137cff52904a92dda445aa599d12db7d]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2017/303/schedule/2) table substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/701/schedule/2)
 
-[^key-02aee3375927ff166faad7cc3143be97]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/303/schedule/2) table substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [28(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/28/2)
+[^c-02aee3375927ff166faad7cc3143be97]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/303/schedule/2) table substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [28(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/28/2)
 
-[^key-3d546a436844dc031737ae5fe1f4bde0]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/303/schedule/2) table substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [28(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/28/3)
+[^c-3d546a436844dc031737ae5fe1f4bde0]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/303/schedule/2) table substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [28(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/28/3)
 
-[^key-62d6c89c5b756e61c549f4d22525ee30]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/303/schedule/2) table substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [28(4)](https://www.legislation.gov.uk/uksi/2021/701/regulation/28/4)
+[^c-62d6c89c5b756e61c549f4d22525ee30]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/303/schedule/2) table substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [28(4)](https://www.legislation.gov.uk/uksi/2021/701/regulation/28/4)
 
-[^key-03222339aaf24329e2253058e2c0002a]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/303/schedule/2) table inserted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [28(5)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/28/5/a)
+[^c-03222339aaf24329e2253058e2c0002a]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/303/schedule/2) table inserted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [28(5)(a)](https://www.legislation.gov.uk/uksi/2021/701/regulation/28/5/a)
 
-[^key-e827a1e4497d86f26e24196523b5673d]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/303/schedule/2) table inserted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [28(5)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/28/5/b)
+[^c-e827a1e4497d86f26e24196523b5673d]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/303/schedule/2) table inserted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [28(5)(b)](https://www.legislation.gov.uk/uksi/2021/701/regulation/28/5/b)
 
-[^key-647d88d552f7b326b35a88a5c2769724]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/303/schedule/2) table inserted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [28(5)(c)](https://www.legislation.gov.uk/uksi/2021/701/regulation/28/5/c)
+[^c-647d88d552f7b326b35a88a5c2769724]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/303/schedule/2) table inserted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [28(5)(c)](https://www.legislation.gov.uk/uksi/2021/701/regulation/28/5/c)
 
-[^key-828f84c7901d7bc93eaf8f26282e45be]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/303/schedule/2) table inserted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [28(5)(d)](https://www.legislation.gov.uk/uksi/2021/701/regulation/28/5/d)
+[^c-828f84c7901d7bc93eaf8f26282e45be]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/303/schedule/2) table inserted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [28(5)(d)](https://www.legislation.gov.uk/uksi/2021/701/regulation/28/5/d)
 
-[^key-55a99f9fdcf06b0d7f02aa93e35dde82]: Commencement: Sch. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-55a99f9fdcf06b0d7f02aa93e35dde82]: Commencement: Sch. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-3979469640f23e4645fd660e71b4b7da]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2017/303/schedule/3) table substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2021/701/schedule/3)
+[^c-3979469640f23e4645fd660e71b4b7da]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2017/303/schedule/3) table substituted (6.4.2022) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2021/701/schedule/3)
 
-[^key-8c26d8962e416f157d0e08df061a1dcb]: Commencement: Sch. 4 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-8c26d8962e416f157d0e08df061a1dcb]: Commencement: Sch. 4 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-7113ee6ee3108ea957f19a5419299446]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2017/303/schedule/4) table substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2021/701/schedule/4)
+[^c-7113ee6ee3108ea957f19a5419299446]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2017/303/schedule/4) table substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2021/701/schedule/4)
 
-[^key-7d3f6b81564c671d09aabae5d35aaa16]: Commencement: Sch. 5 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-7d3f6b81564c671d09aabae5d35aaa16]: Commencement: Sch. 5 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-8cb4a3f202db374e0cc314dbe36ce78f]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2017/303/schedule/5) table substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2021/701/schedule/5)
+[^c-8cb4a3f202db374e0cc314dbe36ce78f]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2017/303/schedule/5) table substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2021/701/schedule/5)
 
-[^key-e4321861c5339db4156c8a51638b7328]: Commencement: Sch. 6 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-e4321861c5339db4156c8a51638b7328]: Commencement: Sch. 6 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
 
-[^key-763c1fa23e2fe8296e2c3c2e812e29a5]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2017/303/schedule/6) table substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2021/701/schedule/6)
+[^c-763c1fa23e2fe8296e2c3c2e812e29a5]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2017/303/schedule/6) table substituted (1.10.2021) by [The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2021 (S.I. 2021/701)](https://www.legislation.gov.uk/uksi/2021/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/701/regulation/1/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2021/701/schedule/6)
 
-[^key-bc1b79c1893e0075849f8e83c6624b77]: Commencement: Sch. 7 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)
+[^c-bc1b79c1893e0075849f8e83c6624b77]: Commencement: Sch. 7 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Commission Implementing Regulation EU No 743/2013 introducing protective measures on imports of bivalve molluscs from Turkey intended for human consumption[^key-f62f53c89311a877ddc958c8e7863576]
+## 64. Commission Implementing Regulation EU No 743/2013 introducing protective measures on imports of bivalve molluscs from Turkey intended for human consumption[^c-f62f53c89311a877ddc958c8e7863576]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f62f53c89311a877ddc958c8e7863576]: Commencement: Reg. 64 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-f62f53c89311a877ddc958c8e7863576]: Commencement: Reg. 64 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

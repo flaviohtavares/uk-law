@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.2. Terms of a warrant for arrest[^key-075115788f40de938b3230aa01d6263d]
+## 13.2. Terms of a warrant for arrest[^c-075115788f40de938b3230aa01d6263d]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ A warrant for arrest must require each person to whom it is directed to arrest t
 
 ## Annotations
 
-[^key-075115788f40de938b3230aa01d6263d]: Commencement: [Rule 13.2](https://www.legislation.gov.uk/uksi/2025/909/rule/13.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-075115788f40de938b3230aa01d6263d]: Commencement: [Rule 13.2](https://www.legislation.gov.uk/uksi/2025/909/rule/13.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00317]: Footnote: [1965 c. 69](https://www.legislation.gov.uk/ukpga/1965/69); section 4 was amended by section 56 of, and paragraph 45 of Schedule 8 to, the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23) and sections 65, 66, 67 and 80 of, and Schedule 5 to, the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25).
 

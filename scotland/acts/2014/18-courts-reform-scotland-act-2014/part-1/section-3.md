@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Sheriffs principal[^key-1270968389b895d8d41758dd19e67136]
+## 3. Sheriffs principal[^c-1270968389b895d8d41758dd19e67136]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1270968389b895d8d41758dd19e67136]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2014/18/section/3) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-1270968389b895d8d41758dd19e67136]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2014/18/section/3) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

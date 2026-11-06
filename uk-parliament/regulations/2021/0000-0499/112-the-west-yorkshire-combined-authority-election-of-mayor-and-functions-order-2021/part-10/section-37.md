@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Secondments[^key-ddd76c38c7544526c07db1424639e86f]
+## 37. Secondments[^c-ddd76c38c7544526c07db1424639e86f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In the case of a person who, immediately before 10th May 2021 is seconded to the
 
 ## Annotations
 
-[^key-ddd76c38c7544526c07db1424639e86f]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2021/112/article/37) in force at 10.5.2021, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4)
+[^c-ddd76c38c7544526c07db1424639e86f]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2021/112/article/37) in force at 10.5.2021, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4)

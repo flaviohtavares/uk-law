@@ -32,7 +32,7 @@ summary: ''
 - (c) a dividend of a non-UK resident company,
 - (d) an annuity payment under a purchased life annuity,
 - (e) profits on the disposal of deeply discounted securities, or
-- (f) income treated for the purposes of regulation 15 of the Unauthorised Unit Trusts (Tax) Regulations 2013 as received by a unit holder from an exempt unauthorised unit trust[^key-b45d1c80ddd59b8cd9c8cece10b03f31].
+- (f) income treated for the purposes of regulation 15 of the Unauthorised Unit Trusts (Tax) Regulations 2013 as received by a unit holder from an exempt unauthorised unit trust[^c-b45d1c80ddd59b8cd9c8cece10b03f31].
 
 (3) Subsection (1) applies only so far as the income falls within, and is dealt with under, Part 4 of ITTOIA 2005 (see section 366 of that Act as to provisions given priority over Part 4).
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b45d1c80ddd59b8cd9c8cece10b03f31]: Textual amendment: Words in s. 532(2)(f) substituted (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [37(7)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/37/7) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
+[^c-b45d1c80ddd59b8cd9c8cece10b03f31]: Textual amendment: Words in s. 532(2)(f) substituted (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [37(7)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/37/7) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))

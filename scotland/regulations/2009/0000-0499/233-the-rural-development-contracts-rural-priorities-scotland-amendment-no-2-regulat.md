@@ -28,7 +28,7 @@ summary: ''
 
 AGRICULTURE
 
-The Rural Development Contracts (Rural Priorities) (Scotland) Amendment (No. 2) Regulations 2009 (revoked)[^key-941733216b196e54c09bde9b1b9db97c]
+The Rural Development Contracts (Rural Priorities) (Scotland) Amendment (No. 2) Regulations 2009 (revoked)[^c-941733216b196e54c09bde9b1b9db97c]
 
 Made
 
@@ -42,32 +42,32 @@ Coming into force
 
 26th June 2009
 
-[^key-941733216b196e54c09bde9b1b9db97c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-941733216b196e54c09bde9b1b9db97c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-941733216b196e54c09bde9b1b9db97c]
+## 1. Citation and commencement[^c-941733216b196e54c09bde9b1b9db97c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Rural Development Contracts (Rural Priorities) (Scotland) Regulations 2008[^key-941733216b196e54c09bde9b1b9db97c]
+## 2. Amendment of the Rural Development Contracts (Rural Priorities) (Scotland) Regulations 2008[^c-941733216b196e54c09bde9b1b9db97c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to Schedule 2[^key-941733216b196e54c09bde9b1b9db97c]
+## 3. Amendment to Schedule 2[^c-941733216b196e54c09bde9b1b9db97c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-941733216b196e54c09bde9b1b9db97c]
+## 4.[^c-941733216b196e54c09bde9b1b9db97c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-941733216b196e54c09bde9b1b9db97c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-941733216b196e54c09bde9b1b9db97c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-941733216b196e54c09bde9b1b9db97c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-941733216b196e54c09bde9b1b9db97c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-941733216b196e54c09bde9b1b9db97c]: Textual amendment: Regulations revoked (12.6.2015) by [The Rural Development (Scotland) Regulations 2015 (S.S.I. 2015/192)](https://www.legislation.gov.uk/ssi/2015/192), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2015/192/schedule) (with [reg. 22(2)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/2))
+[^c-941733216b196e54c09bde9b1b9db97c]: Textual amendment: Regulations revoked (12.6.2015) by [The Rural Development (Scotland) Regulations 2015 (S.S.I. 2015/192)](https://www.legislation.gov.uk/ssi/2015/192), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2015/192/schedule) (with [reg. 22(2)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/2))

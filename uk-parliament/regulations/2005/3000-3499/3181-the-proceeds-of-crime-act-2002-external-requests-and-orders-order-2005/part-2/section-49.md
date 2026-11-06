@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Property[^key-9b35ec87deb87b2e1b16f95ad5447dcd]
+## 49. Property[^c-9b35ec87deb87b2e1b16f95ad5447dcd]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9b35ec87deb87b2e1b16f95ad5447dcd]: Commencement: [Art. 49](https://www.legislation.gov.uk/uksi/2005/3181/article/49) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-9b35ec87deb87b2e1b16f95ad5447dcd]: Commencement: [Art. 49](https://www.legislation.gov.uk/uksi/2005/3181/article/49) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00030]: Footnote: Section 82(f) was amended by paragraph 5 of Schedule 6 to the Serious Organised Crime and Police Act 2005.

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Competence of individual acting as provider of a statutory pledge[^key-5eae11e4c91f9a390807ee3ee27b459e][^key-d1ad7dc2d2ea9982cdcd39c57b95398f][^key-7b42558dc607329ea231e134b27c67bb]
+## 46. Competence of individual acting as provider of a statutory pledge[^c-5eae11e4c91f9a390807ee3ee27b459e][^c-d1ad7dc2d2ea9982cdcd39c57b95398f][^c-7b42558dc607329ea231e134b27c67bb]
 
 *Extent: S*
 
-[^key-7b42558dc607329ea231e134b27c67bb]
+[^c-7b42558dc607329ea231e134b27c67bb]
 
 (1) It is not competent for an individual to be the provider of a statutory pledge unless—
 
@@ -30,7 +30,7 @@ summary: ''
   - (iii) the activities of an unincorporated association (other than a charity) of which the individual is a member, and
 - (b) the encumbered property is a permitted asset, or consists only of permitted assets.
 
-(1A)[^key-d48f553b173f1207da73dff96b70fdfd] But see also article 6 (competence of individual acting as provider of statutory pledge over financial instrument) of the Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 ([S.I. 2025/275 (S. 1)](https://www.legislation.gov.uk/uksi/2025/275)).
+(1A)[^c-d48f553b173f1207da73dff96b70fdfd] But see also article 6 (competence of individual acting as provider of statutory pledge over financial instrument) of the Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 ([S.I. 2025/275 (S. 1)](https://www.legislation.gov.uk/uksi/2025/275)).
 
 (2) For the purpose of subsection (1)(b), an asset is a “permitted asset” if—
 
@@ -54,10 +54,10 @@ summary: ''
 
 ## Annotations
 
-[^key-5eae11e4c91f9a390807ee3ee27b459e]: Commencement: S. 46 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
+[^c-5eae11e4c91f9a390807ee3ee27b459e]: Commencement: S. 46 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
 
-[^key-d1ad7dc2d2ea9982cdcd39c57b95398f]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2023/3/section/46) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-d1ad7dc2d2ea9982cdcd39c57b95398f]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2023/3/section/46) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
 
-[^key-7b42558dc607329ea231e134b27c67bb]: Modification: Pt. 2 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [5](https://www.legislation.gov.uk/uksi/2025/275/article/5) (with [arts. 6-20](https://www.legislation.gov.uk/uksi/2025/275/article/6))
+[^c-7b42558dc607329ea231e134b27c67bb]: Modification: Pt. 2 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [5](https://www.legislation.gov.uk/uksi/2025/275/article/5) (with [arts. 6-20](https://www.legislation.gov.uk/uksi/2025/275/article/6))
 
-[^key-d48f553b173f1207da73dff96b70fdfd]: Textual amendment: S. 46(1A) inserted (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2025/275/article/22/3) (with [art. 20](https://www.legislation.gov.uk/uksi/2025/275/article/20))
+[^c-d48f553b173f1207da73dff96b70fdfd]: Textual amendment: S. 46(1A) inserted (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2025/275/article/22/3) (with [art. 20](https://www.legislation.gov.uk/uksi/2025/275/article/20))

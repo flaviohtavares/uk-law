@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## C2. Payment and amount of employee's contributions[^key-61e86166334ef84633e3d1a7a04b8a9b]
+## C2. Payment and amount of employee's contributions[^c-61e86166334ef84633e3d1a7a04b8a9b]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ the amount of the contribution to be made for any period is 5% of his remunerati
 
 ## Annotations
 
-[^key-61e86166334ef84633e3d1a7a04b8a9b]: Commencement: [Reg. C2](https://www.legislation.gov.uk/uksi/1986/24/regulation/C2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-61e86166334ef84633e3d1a7a04b8a9b]: Commencement: [Reg. C2](https://www.legislation.gov.uk/uksi/1986/24/regulation/C2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

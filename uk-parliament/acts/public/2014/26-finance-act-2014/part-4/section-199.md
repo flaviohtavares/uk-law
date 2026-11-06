@@ -26,8 +26,8 @@ In this Part—
 - (b) Chapter 2 makes provision for follower notices and for penalties if account is not taken of judicial rulings which lay down principles or give reasoning relevant to tax cases,
 - (c) Chapter 3 makes—
   - (i) provision for accelerated payments to be made on account of tax,
-  - (ii) provision restricting the circumstances in which payments of tax can be postponed pending an appeal, [^key-015a05077a729f7e9fb1799778f4858a]...
-  - (iii) provision to enable a court to prevent repayment of tax, for the purpose of protecting the public revenue, and[^key-9ce5f896c808e1358af0a6840cf0f42e]
+  - (ii) provision restricting the circumstances in which payments of tax can be postponed pending an appeal, [^c-015a05077a729f7e9fb1799778f4858a]...
+  - (iii) provision to enable a court to prevent repayment of tax, for the purpose of protecting the public revenue, and[^c-9ce5f896c808e1358af0a6840cf0f42e]
   - (iv) provision restricting the surrender of losses and other amounts for the purposes of group relief.
 - (d) Chapter 4—
   - (i) makes special provision about the application of this Part in relation to stamp duty land tax and annual tax for enveloped dwellings,
@@ -36,6 +36,6 @@ In this Part—
 
 ## Annotations
 
-[^key-015a05077a729f7e9fb1799778f4858a]: Textual amendment: Word in s. 199(c)(ii) omitted (26.3.2015) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/2)
+[^c-015a05077a729f7e9fb1799778f4858a]: Textual amendment: Word in s. 199(c)(ii) omitted (26.3.2015) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/2)
 
-[^key-9ce5f896c808e1358af0a6840cf0f42e]: Textual amendment: S. 199(c)(iv) and preceding word inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/2)
+[^c-9ce5f896c808e1358af0a6840cf0f42e]: Textual amendment: S. 199(c)(iv) and preceding word inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/2)

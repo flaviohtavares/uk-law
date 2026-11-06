@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Mayor to determine certain applications for planning permission[^key-eb1cf9ba8292b3564a2319820db4865a]
+## 31. Mayor to determine certain applications for planning permission[^c-eb1cf9ba8292b3564a2319820db4865a]
 
 *Extent: E+W*
 
@@ -134,4 +134,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb1cf9ba8292b3564a2319820db4865a]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2007/24/section/31) in force at 6.4.2008 by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/582/article/2/a)
+[^c-eb1cf9ba8292b3564a2319820db4865a]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2007/24/section/31) in force at 6.4.2008 by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/582/article/2/a)

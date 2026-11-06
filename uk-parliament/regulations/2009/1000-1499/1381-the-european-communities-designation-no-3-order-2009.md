@@ -34,7 +34,7 @@ This Statutory Instrument has been printed in substitution of the SI of the same
 
 European Communities
 
-The European Communities (Designation) (No. 3) Order 2009 (revoked)[^key-b1deacfb5f169d744df868605c1d6088]
+The European Communities (Designation) (No. 3) Order 2009 (revoked)[^c-b1deacfb5f169d744df868605c1d6088]
 
 Made
 
@@ -54,30 +54,30 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-b1deacfb5f169d744df868605c1d6088]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b1deacfb5f169d744df868605c1d6088]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-b1deacfb5f169d744df868605c1d6088]
+## 1. Citation, commencement and interpretation[^c-b1deacfb5f169d744df868605c1d6088]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation in relation to the packaging of products[^key-b1deacfb5f169d744df868605c1d6088]
+## 2. Designation in relation to the packaging of products[^c-b1deacfb5f169d744df868605c1d6088]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Relationship with other designations[^key-b1deacfb5f169d744df868605c1d6088]
+## 3. Relationship with other designations[^c-b1deacfb5f169d744df868605c1d6088]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Restrictions[^key-b1deacfb5f169d744df868605c1d6088]
+## 4. Restrictions[^c-b1deacfb5f169d744df868605c1d6088]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b1deacfb5f169d744df868605c1d6088]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b1deacfb5f169d744df868605c1d6088]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b1deacfb5f169d744df868605c1d6088]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b1deacfb5f169d744df868605c1d6088]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b1deacfb5f169d744df868605c1d6088]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1381) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b1deacfb5f169d744df868605c1d6088]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1381) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

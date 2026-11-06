@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Withdrawal from the scheme[^key-771f31381eb5be7d235ed05da636e232]
+## 64. Withdrawal from the scheme[^c-771f31381eb5be7d235ed05da636e232]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-771f31381eb5be7d235ed05da636e232]: Textual amendment: [Reg. 64](https://www.legislation.gov.uk/uksi/1995/2518/regulation/64) substituted (3.7.1997) by [The Value Added Tax (Amendment) (No.3) Regulations 1997 (S.I. 1997/1614)](https://www.legislation.gov.uk/uksi/1997/1614), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1614/regulation/1), [9](https://www.legislation.gov.uk/uksi/1997/1614/regulation/9)
+[^c-771f31381eb5be7d235ed05da636e232]: Textual amendment: [Reg. 64](https://www.legislation.gov.uk/uksi/1995/2518/regulation/64) substituted (3.7.1997) by [The Value Added Tax (Amendment) (No.3) Regulations 1997 (S.I. 1997/1614)](https://www.legislation.gov.uk/uksi/1997/1614), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1614/regulation/1), [9](https://www.legislation.gov.uk/uksi/1997/1614/regulation/9)

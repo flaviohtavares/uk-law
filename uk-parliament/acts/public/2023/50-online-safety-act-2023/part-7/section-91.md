@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. General duties of OFCOM under section 3 of the Communications Act[^key-369349fc728cf1a35521c60d1eceadf3]
+## 91. General duties of OFCOM under section 3 of the Communications Act[^c-369349fc728cf1a35521c60d1eceadf3]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-369349fc728cf1a35521c60d1eceadf3]: Commencement: S. 91 in force at Royal Assent, see [s. 240(4)(n)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/n)
+[^c-369349fc728cf1a35521c60d1eceadf3]: Commencement: S. 91 in force at Royal Assent, see [s. 240(4)(n)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/n)

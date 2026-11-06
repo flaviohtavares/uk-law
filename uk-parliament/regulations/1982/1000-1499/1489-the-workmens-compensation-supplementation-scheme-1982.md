@@ -54,18 +54,18 @@ The Secretary of State for Social Services, after consultation with the Council 
 - “**the Social Security Act**” means the Social Security Act 1975;
 - “**the 1951 Act**” means the Workmen's Compensation (Supplementation) Act 1951;
 - “**the 1965 Act**” means the Workmen's Compensation and Benefit (Amendment) Act 1965;
-- “the[^key-6469613b216a7971ff03927d173dc649] 1998 Act” means the Social Security Act 1998;
+- “the[^c-6469613b216a7971ff03927d173dc649] 1998 Act” means the Social Security Act 1998;
 - “**the Secretary of State**” means the Secretary of State for Social Services;
 - “**allowance**” means an allowance payable by virtue of Part II of this scheme;
-- “the appropriate determining authority” means the Secretary of State or, as the case may be,[^key-adf712b15d11920898a7bab09c01393f] the First-tier Tribunal or the Upper Tribunal;[^key-3e5f386fdc0db74057607f4639b6dfbd]
+- “the appropriate determining authority” means the Secretary of State or, as the case may be,[^c-adf712b15d11920898a7bab09c01393f] the First-tier Tribunal or the Upper Tribunal;[^c-3e5f386fdc0db74057607f4639b6dfbd]
 - “**beneficiary**” means a person entitled to an allowance under this scheme;
 - “**the Board**” means the Board established for the administration of, and for the determination of questions assigned to them under, the Workmen's Compensation (Supplementation) Scheme 1966 and abolished by the Workmen's Compensation (Supplementation) (Amendment) Scheme 1977;
 - “claimant” means a person claiming an allowance and includes, in relation to the revision or supersession of a decision, a beneficiary under the award or affected by the decision;
 - “**compensation scheme**” means a scheme made under the Workmen's Compensation (Silicosis) Act 1918 (as originally enacted or as extended by the Workmen's Compensation (Silicosis) Act 1924 or under section 47 of the Workmen's Compensation Act 1925 (as originally enacted or as extended by any subsequent enactment);
 - “**corresponding disablement pension rate**” means the weekly rate for the time being of a pension payable under section 57(6) of the Social Security Act in respect of an assessment of one hundred per cent;
-- [^key-93c45479678c7da04fef857de8f89668]...
+- [^c-93c45479678c7da04fef857de8f89668]...
 - “**medical board**” means the medical board appointed under paragraph 3 of the Silicosis and Asbestosis (Medical Arrangements) Scheme 1931;
-- “medical practitioner” means a medical practitioner who has experience in the issues specified in regulation 12(1) of the Social Security and Child Support (Decisions and Appeals) Regulations 1999;[^key-87ca8c32f183b7875a18b4e9425c39ed]
+- “medical practitioner” means a medical practitioner who has experience in the issues specified in regulation 12(1) of the Social Security and Child Support (Decisions and Appeals) Regulations 1999;[^c-87ca8c32f183b7875a18b4e9425c39ed]
 - “**pneumoconiosis**” means fibrosis of the lungs due to silica dust, asbestos dust or other dust, and includes the condition of the lungs known as dust reticulation; and in the case of a person who suffers from pneumoconiosis accompanied by tuberculosis, the effects of the tuberculosis may be treated as if they were effects of the pneumoconiosis and in the case of a person who suffers from pneumoconiosis, or pneumoconiosis accompanied by tuberculosis, to an extent which would, if his physical condition were otherwise normal, be of a gravity comparable to an assessment of not less than 50 per cent under the Social Security Act, the effects of any accompanying emphysema or chronic bronchitis may be treated as if they were the effects of the pneumoconiosis;
 - “**the relevant injury or disease**” in relation to any person means the injury or disease in respect of which he is, or has since the appropriate date specified in Part II of this scheme been, entitled to weekly payments by way of workmen's compensation;
 - “**unemployment benefit**” means unemployment benefit under the Social Security Act;
@@ -92,7 +92,7 @@ The Secretary of State for Social Services, after consultation with the Council 
 
 ### 2. Basic allowances under scheme
 
-(1) Subject to the following provisions of this scheme, a person who is or since the commencement of the 1951 Act has been entitled to weekly payments by way of workmen's compensation in consequence of an accident happening before 1st January 1924, shall be entitled to a basic allowance payable out of money provided by Parliament[^key-2a5ae554dc7bc21f621fa04e0635e110] during any period of total or partial incapacity for work resulting from the relevant injury or disease so long as he is ordinarily resident in the United Kingdom.
+(1) Subject to the following provisions of this scheme, a person who is or since the commencement of the 1951 Act has been entitled to weekly payments by way of workmen's compensation in consequence of an accident happening before 1st January 1924, shall be entitled to a basic allowance payable out of money provided by Parliament[^c-2a5ae554dc7bc21f621fa04e0635e110] during any period of total or partial incapacity for work resulting from the relevant injury or disease so long as he is ordinarily resident in the United Kingdom.
 
 (2) In this article the expression “**a period of total incapacity for work resulting from the relevant injury or disease**” includes a period during which a person is treated as subject to such an incapacity under the provisions of article 3.
 
@@ -121,7 +121,7 @@ The Secretary of State for Social Services, after consultation with the Council 
 
 ### 4. Major incapacity allowances under scheme
 
-(1) Subject to the following provisions of this scheme, a major incapacity allowance shall be payable out of money provided by Parliament[^key-1a1c3a95105597186bf05c540dc8f81d] to a person who is or has since 5th July 1956 been entitled to weekly payments by way of workmen's compensation—
+(1) Subject to the following provisions of this scheme, a major incapacity allowance shall be payable out of money provided by Parliament[^c-1a1c3a95105597186bf05c540dc8f81d] to a person who is or has since 5th July 1956 been entitled to weekly payments by way of workmen's compensation—
 
 - (a) in respect of any injury or disease other than pneumoconiosis or byssinosis if he is as a result of that injury or disease totally incapable of work and likely to remain so for a considerable period; or
 - (b) in respect of pneumoconiosis if he is certified under a compensation scheme or is determined in accordance with article 14 of this scheme, to be totally disabled; or
@@ -130,15 +130,15 @@ The Secretary of State for Social Services, after consultation with the Council 
 
 so long as he is ordinarily resident in the United Kingdom.
 
-(2) The weekly rate of a major incapacity allowance payable to a person shall be the corresponding disablement pension rate[^key-519de827e7ef2c5938c0f2dfe7edf3a3]....
+(2) The weekly rate of a major incapacity allowance payable to a person shall be the corresponding disablement pension rate[^c-519de827e7ef2c5938c0f2dfe7edf3a3]....
 
 (3) For the purposes of this article an allowance payable by virtue of any scheme under the 1951 Act in force immediately before 1st March 1966 shall be treated as a weekly payment by way of workmen's compensation.
 
 ### 5. Lesser incapacity allowances under scheme
 
-(1) Subject to the following provisions of this scheme, a lesser incapacity allowance shall be payable out of money provided by Parliament[^key-23392972a185a61c6adc54ab9e7094d7] to a person, not being a person entitled to a major incapacity allowance, who was immediately before 1st March 1966 receiving an allowance payable by virtue of a scheme under the 1951 Act in force at that time, or who is or has since the commencement of the 1965 Act been entitled or may be expected to be entitled to a basic allowance or to weekly payments by way of workmen's compensation, other than notional payments, for any period during which he is either totally or partially incapable of work as a result of the relevant injury or disease, and is ordinarily resident in the United Kingdom.
+(1) Subject to the following provisions of this scheme, a lesser incapacity allowance shall be payable out of money provided by Parliament[^c-23392972a185a61c6adc54ab9e7094d7] to a person, not being a person entitled to a major incapacity allowance, who was immediately before 1st March 1966 receiving an allowance payable by virtue of a scheme under the 1951 Act in force at that time, or who is or has since the commencement of the 1965 Act been entitled or may be expected to be entitled to a basic allowance or to weekly payments by way of workmen's compensation, other than notional payments, for any period during which he is either totally or partially incapable of work as a result of the relevant injury or disease, and is ordinarily resident in the United Kingdom.
 
-(2) In any case where the lesser incapacity allowance awarded to a beneficiary was, immediately before 11th April 2012[^key-f62942c88a9749169c964b27bfab23a9], of an amount which is shown in the first column of Part I of Schedule 1 hereto, the rate of lesser incapacity allowance thereafter shall be the corresponding amount set out in the second column thereof.
+(2) In any case where the lesser incapacity allowance awarded to a beneficiary was, immediately before 11th April 2012[^c-f62942c88a9749169c964b27bfab23a9], of an amount which is shown in the first column of Part I of Schedule 1 hereto, the rate of lesser incapacity allowance thereafter shall be the corresponding amount set out in the second column thereof.
 
 (3) In a case to which article 5(2) of this scheme does not apply and subject to the provisions of the next succeeding paragraph, the weekly rate of a lesser incapacity allowance payable to a person shall be determined by reference to the loss of earnings (ascertained in accordance with the provisions of article 7) suffered by that person due to the relevant injury or disease; and where the loss of earnings, ascertained as aforesaid, is of an amount shown in the first column of Part II of Schedule 1 hereto, shall be the rate opposite thereto in the second column of that Part and where such loss of earnings is of an amount (not less than 5 pence) not so shown, shall be the rate in the said column opposite to the next larger amount which is so shown.
 
@@ -160,7 +160,7 @@ so long as he is ordinarily resident in the United Kingdom.
 
 ### 6. Amount of workmen's compensation
 
-(1) Subject to the following provisions of this article, any reference in articles 2[^key-0bed4a2b0b9a58b7bf7cdf5ed819301d]... and 5 to the amount of a person's workmen's compensation shall be taken as referring to the amount (if any) of the weekly payments to which for the time being he is, or would but for the determination of his right be, entitled in respect of the relevant injury or disease.
+(1) Subject to the following provisions of this article, any reference in articles 2[^c-0bed4a2b0b9a58b7bf7cdf5ed819301d]... and 5 to the amount of a person's workmen's compensation shall be taken as referring to the amount (if any) of the weekly payments to which for the time being he is, or would but for the determination of his right be, entitled in respect of the relevant injury or disease.
 
 (2) For the purposes of paragraph (1) of this article:—
 
@@ -168,11 +168,11 @@ so long as he is ordinarily resident in the United Kingdom.
 - (b) where the amount of those weekly payments has not been fixed under the provisions relating thereto, it shall be fixed for the purpose of this article without regard to any such payment, allowance or benefit as aforesaid;
 - (c) where an allowance or allowances under this scheme would, apart from the provisions of this sub-paragraph, be payable or be payable at a higher rate by reason of the amount of those weekly payments, fixed under the provisions relating thereto, not being the amount which ought reasonably and properly to be so fixed, the amount of those weekly payments shall, for the purposes of this article, be taken to be such as ought reasonably and properly to be so fixed, having regard to the rules for calculating such weekly payments under the provisions relating to his workmen's compensation.
 
-(3) Where a person is or since the commencement of the 1951 Act has been entitled to payments under the Workmen's Compensation (War Addition) Acts 1917 and 1919 but had before that commencement ceased to be entitled to any other weekly payments by way of workmen's compensation in respect of the relevant injury or disease, the amount of his workmen's compensation shall for the purpose of articles 2[^key-2d2c933af4188756cd36e21e0847bd74]... and 5 be calculated as if he had not ceased to be entitled to such other payments.
+(3) Where a person is or since the commencement of the 1951 Act has been entitled to payments under the Workmen's Compensation (War Addition) Acts 1917 and 1919 but had before that commencement ceased to be entitled to any other weekly payments by way of workmen's compensation in respect of the relevant injury or disease, the amount of his workmen's compensation shall for the purpose of articles 2[^c-2d2c933af4188756cd36e21e0847bd74]... and 5 be calculated as if he had not ceased to be entitled to such other payments.
 
-(4) Where a person is or since the commencement of the 1965 Act has been entitled to payments under the Workmen's Compensation (Supplementary Allowances) Act 1940, as amended by the Workmen's Compensation (Temporary Increases) Act 1943, but had before that date ceased to be entitled to any other weekly payments by way of workmen's compensation in respect of the relevant injury or disease, the amount of his workmen's compensation shall for the purposes of article[^key-9619b5de8a139b911d2c577f2bc82dd2]... 5 be calculated as if he had not ceased to be entitled to such other payments.
+(4) Where a person is or since the commencement of the 1965 Act has been entitled to payments under the Workmen's Compensation (Supplementary Allowances) Act 1940, as amended by the Workmen's Compensation (Temporary Increases) Act 1943, but had before that date ceased to be entitled to any other weekly payments by way of workmen's compensation in respect of the relevant injury or disease, the amount of his workmen's compensation shall for the purposes of article[^c-9619b5de8a139b911d2c577f2bc82dd2]... 5 be calculated as if he had not ceased to be entitled to such other payments.
 
-(5) Where by reason of the seasonal nature of a person's employment, or for any other cause, weekly payments by way of workmen's compensation were not made to that person at the same rate for each week during the 12 months preceding the making of a claim for, or an application for revision or supersession[^key-5cfd3045cd8f38f3800b5693e9c86c96] of a decision as to, an allowance, the amount of that person's workmen's compensation shall for the purposes of articles 2[^key-9619b5de8a139b911d2c577f2bc82dd2]... and 5 be calculated or estimated in such manner and on such basis as may be appropriate, having regard to all the circumstances of the case.
+(5) Where by reason of the seasonal nature of a person's employment, or for any other cause, weekly payments by way of workmen's compensation were not made to that person at the same rate for each week during the 12 months preceding the making of a claim for, or an application for revision or supersession[^c-5cfd3045cd8f38f3800b5693e9c86c96] of a decision as to, an allowance, the amount of that person's workmen's compensation shall for the purposes of articles 2[^c-9619b5de8a139b911d2c577f2bc82dd2]... and 5 be calculated or estimated in such manner and on such basis as may be appropriate, having regard to all the circumstances of the case.
 
 ### 7. Computation of loss of earnings
 
@@ -229,15 +229,15 @@ Where a beneficiary ceases to be ordinarily resident in the United Kingdom he sh
 
 ### 11. Administration of the scheme
 
-This scheme shall be administered by the Secretary of State and, subject to articles 17 and 18, the provisions of the Social Security (Claims and Payments) Regulations 1987[^key-84b6eee5003221da9e16030308147cc0] and the Social Security (General Benefit) Regulations 1982 which are specified in Schedule 2 to this scheme shall, with the necessary modifications, apply for the purposes of this scheme.
+This scheme shall be administered by the Secretary of State and, subject to articles 17 and 18, the provisions of the Social Security (Claims and Payments) Regulations 1987[^c-84b6eee5003221da9e16030308147cc0] and the Social Security (General Benefit) Regulations 1982 which are specified in Schedule 2 to this scheme shall, with the necessary modifications, apply for the purposes of this scheme.
 
-### 12. Determination of claims and applications for revision and supersession arising under the scheme.[^key-f3c13ac73cec8cf70e6416e564b478ad]
+### 12. Determination of claims and applications for revision and supersession arising under the scheme.[^c-f3c13ac73cec8cf70e6416e564b478ad]
 
-Subject to the provisions of Part IV of this scheme, any question relating to any allowance or benefit under this scheme shall be determined as if it had arisen under Part V of the Social Security Contributions and Benefits Act 1992 and, except where this scheme otherwise provides, the provisions of the 1998 Act, and of the Social Security (General Benefit) Regulations 1982, the Social Security (Claims and Payments) Regulations 1987, the Social Security (Payments on Account, Overpayments and Recovery) Regulations 1988, the Social Security and Child Support (Decisions and Appeals) Regulations 1999 [^key-0a7f9f9ecac0d01796bfa4fd3dd8d44d]... which are specified in Schedule 2 to this scheme shall, with the necessary modifications, apply for the purposes of this scheme.
+Subject to the provisions of Part IV of this scheme, any question relating to any allowance or benefit under this scheme shall be determined as if it had arisen under Part V of the Social Security Contributions and Benefits Act 1992 and, except where this scheme otherwise provides, the provisions of the 1998 Act, and of the Social Security (General Benefit) Regulations 1982, the Social Security (Claims and Payments) Regulations 1987, the Social Security (Payments on Account, Overpayments and Recovery) Regulations 1988, the Social Security and Child Support (Decisions and Appeals) Regulations 1999 [^c-0a7f9f9ecac0d01796bfa4fd3dd8d44d]... which are specified in Schedule 2 to this scheme shall, with the necessary modifications, apply for the purposes of this scheme.
 
 ## PART IV — MEDICAL BOARD
 
-### 13. Reference for report to a medical practitioner[^key-f1bc7bb11884bcb9a2c0f50c9e0e0569]
+### 13. Reference for report to a medical practitioner[^c-f1bc7bb11884bcb9a2c0f50c9e0e0569]
 
 (1) Subject to the provisions of paragraph (2) of this article, where the Secretary of State has decided that a claimant is not totally disabled as a result of pneumoconiosis for the purposes of a compensation scheme, and that claimant claims a major incapacity allowance, that claim shall be referred by the Secretary of State to a medical practitioner for advice.
 
@@ -246,13 +246,13 @@ Subject to the provisions of Part IV of this scheme, any question relating to an
 - (a) in a case where the claimant has been held in arbitration proceedings under the Workmen’s Compensation Acts to be totally disabled as a result of pneumoconiosis, the Secretary of State may determine that the claimant is so disabled without referring the question to a medical practitioner;
 - (b) in a case where the Secretary of State is of the opinion that any other decision or determination disposes of the claim, he may, without referring the question whether the claimant is totally disabled as a result of pneumoconiosis to a medical practitioner, make a decision that an award cannot be made on the claim.
 
-### 14. Provision of a report by a medical practitioner[^key-cdf87258173b25d8c3ccb373bf47e63c]
+### 14. Provision of a report by a medical practitioner[^c-cdf87258173b25d8c3ccb373bf47e63c]
 
 Where, in pursuance of a reference under article 13 of this scheme, a medical practitioner is satisfied, having examined the claimant, that he is totally disabled as a result of pneumoconiosis, he shall report his findings to the Secretary of State accordingly.
 
 ### 15. Radiographic examination
 
-The Secretary of State[^key-af75affa5c43c6f061be139b89eb0dfd] shall have power, in any case where he considers it necessary, to cause to be made a radiographic examination of the lungs of the claimant and to obtain the report of a radiologist on the case.
+The Secretary of State[^c-af75affa5c43c6f061be139b89eb0dfd] shall have power, in any case where he considers it necessary, to cause to be made a radiographic examination of the lungs of the claimant and to obtain the report of a radiologist on the case.
 
 ## PART V — CLAIMS AND PAYMENTS
 
@@ -262,18 +262,18 @@ Every person who makes a claim for or is entitled to an allowance and every pers
 
 ### 17. Obligations of claimants and of persons in receipt of allowances to undergo medical examination
 
-(1) Subject to the following provisions of this article, every claimant for, and every beneficiary in receipt of, an allowance shall comply with every notice given to him by the Secretary of State which requires him to submit himself to a medical examination [^key-46fecf3e91fe38af6facc904d1e65c7e]....
+(1) Subject to the following provisions of this article, every claimant for, and every beneficiary in receipt of, an allowance shall comply with every notice given to him by the Secretary of State which requires him to submit himself to a medical examination [^c-46fecf3e91fe38af6facc904d1e65c7e]....
 
 (2) Every notice given to a claimant or beneficiary requiring him to submit himself to medical examination shall be given in writing and shall specify the time and place of examination but shall not require the claimant or beneficiary to submit himself to examination—
 
-- (a) in the case of examination by a medical practitioner[^key-05f18985739efa7a794fb050933aee1f], before the expiration of the period of 6 days beginning with the date of the notice or such shorter period as may be reasonable in the circumstances;
+- (a) in the case of examination by a medical practitioner[^c-05f18985739efa7a794fb050933aee1f], before the expiration of the period of 6 days beginning with the date of the notice or such shorter period as may be reasonable in the circumstances;
 - (b) in any other case, on a date earlier than the third day after the date on which the notice was sent.
 
 (3) Every claimant and every beneficiary who, in accordance with the foregoing provisions of this article, is required to submit himself to a medical examination shall attend at every such place and at every such time as may be required.
 
-(4)[^key-5b4bda0941cc4e175e9883b9e660efaf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5b4bda0941cc4e175e9883b9e660efaf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Sums not payable when delay in claiming[^key-8dc5f14a2bb49a29fb5ecd20bc3ec93c]
+### 18. Sums not payable when delay in claiming[^c-8dc5f14a2bb49a29fb5ecd20bc3ec93c]
 
 An allowance shall not be payable to any person in respect of any period more than three months before the claim for the allowance is made.
 
@@ -307,7 +307,7 @@ then that person shall be disqualified from receiving any further sums by way of
 
 ### 23. Recovery of sums by deduction from allowances or benefits under the Social Security Act
 
-(1) Where any sums by way of an allowance are required to be repaid to the Secretary of State[^key-24bf80a9633d7126071687a2c90daa8c] under this scheme, such sums may, without prejudice to any other method of recovery, be deducted from any allowance or from any benefit under the Social Security Act or from any allowance payable by virtue of a scheme made under section 5 of the Act then or thereafter payable to the person by whom they are to be repaid, or to any person entitled to receive such allowance or benefit on his death, and such deduction may be made at such rate as the Secretary of State may determine.
+(1) Where any sums by way of an allowance are required to be repaid to the Secretary of State[^c-24bf80a9633d7126071687a2c90daa8c] under this scheme, such sums may, without prejudice to any other method of recovery, be deducted from any allowance or from any benefit under the Social Security Act or from any allowance payable by virtue of a scheme made under section 5 of the Act then or thereafter payable to the person by whom they are to be repaid, or to any person entitled to receive such allowance or benefit on his death, and such deduction may be made at such rate as the Secretary of State may determine.
 
 (2) Where, in the case of any person, any sum may be recovered by deduction—
 
@@ -326,7 +326,7 @@ Where, but for the provisions of article 10(5) of this scheme, a person would be
 
 Except as provided by article 26 of this scheme, any decision given by the Board on a claim or question under provisions of the Workmen's Compensation (Supplementation) Scheme 1966 in force immediately before 1st July 1977[^f00005] or under any scheme made under the 1951 Act in force immediately before 1st March 1966 shall be final for the purposes of this scheme.
 
-### 26. Review of decisions of the Board[^key-59905d83f13df1dae6bf669bd1d3b45c]
+### 26. Review of decisions of the Board[^c-59905d83f13df1dae6bf669bd1d3b45c]
 
 (1) The Secretary of State may at any time and from time to time revise or supersede any decision given by the Board under provisions of the Workmen’s Compensation (Supplementation) Scheme 1966 in force immediately before 1st July 1977, if—
 
@@ -378,13 +378,13 @@ Any beneficiary, not being a person entitled to an allowance payable by virtue o
 
 ### 33. Review
 
-Where a lesser incapacity allowance has been awarded to a person under any of the schemes revoked by this scheme before any other such scheme came into operation and an issue[^key-420659ec747571d1c60974496e2ca531] arises as to the weekly rate of allowance payable in consequence of that other scheme, the case shall be considered by the Secretary of State who may decide the issue afresh in the light of amendments made by that other scheme, and the allowance shall continue to be payable at the weekly rate specified in the award until the issue has been determined in accordance with the provisions of this scheme.
+Where a lesser incapacity allowance has been awarded to a person under any of the schemes revoked by this scheme before any other such scheme came into operation and an issue[^c-420659ec747571d1c60974496e2ca531] arises as to the weekly rate of allowance payable in consequence of that other scheme, the case shall be considered by the Secretary of State who may decide the issue afresh in the light of amendments made by that other scheme, and the allowance shall continue to be payable at the weekly rate specified in the award until the issue has been determined in accordance with the provisions of this scheme.
 
 ## PART VIII — MISCELLANEOUS
 
 ### 34. Contracting-out schemes
 
-In relation to a person whose workmen's compensation is or was compensation under a contracting-out scheme, section 3(4) and (7) of the Act (which relates to the amount of a person's workmen's compensation) and articles 2, 4, 5 and 6 of this scheme shall apply subject, where appropriate,[^key-c55bc2642ecb30fa09c931b04f3035ff] to the modification that, where by reason of the nature of the provisions of the contracting-out scheme—
+In relation to a person whose workmen's compensation is or was compensation under a contracting-out scheme, section 3(4) and (7) of the Act (which relates to the amount of a person's workmen's compensation) and articles 2, 4, 5 and 6 of this scheme shall apply subject, where appropriate,[^c-c55bc2642ecb30fa09c931b04f3035ff] to the modification that, where by reason of the nature of the provisions of the contracting-out scheme—
 
 - (a) there is difficulty in distinguishing the amount to which that person is or was entitled by way of workmen's compensation under that scheme from other payments to him; or
 - (b) the said amount is or was reduced in consequence of other payments to him;
@@ -397,7 +397,7 @@ Stamp duty shall not be chargeable upon an appointment or revocation of an appoi
 
 ### 36. Reciprocal arrangements with Northern Ireland
 
-If in pursuance of section 13(1) of the Act (which relates to reciprocal arrangements with Northern Ireland) the Secretary of State makes reciprocal arrangements for payments under any corresponding legislation of Northern Ireland to be made out of money provided by Parliament[^key-f1d094874d1c0b737b4de309631243e9], the provisions of this scheme shall apply in relation to such payments as if they were payments under this scheme.
+If in pursuance of section 13(1) of the Act (which relates to reciprocal arrangements with Northern Ireland) the Secretary of State makes reciprocal arrangements for payments under any corresponding legislation of Northern Ireland to be made out of money provided by Parliament[^c-f1d094874d1c0b737b4de309631243e9], the provisions of this scheme shall apply in relation to such payments as if they were payments under this scheme.
 
 ### 37. Breach of requirements of scheme
 
@@ -431,7 +431,7 @@ Two of the Lords Commissioners of Her Majesty's Treasury
 
 Article 5
 
-### PART 1 — TABLE OF RATES OF LESSER INCAPACITY ALLOWANCE FOR BENEFICIARIES TO WHOM ARTICLE 5(2) APPLIES[^key-a1ff8ca626f1b7df56bc7eee8cc36df3]
+### PART 1 — TABLE OF RATES OF LESSER INCAPACITY ALLOWANCE FOR BENEFICIARIES TO WHOM ARTICLE 5(2) APPLIES[^c-a1ff8ca626f1b7df56bc7eee8cc36df3]
 
 | Rate of lesser incapacity allowance from 13<sup>th</sup> April 2011 to 10<sup>th</sup>April 2012 | Rate of lesser incapacity allowance from 11<sup>th</sup> April 2012 |
 | --- | --- |
@@ -455,7 +455,7 @@ Article 5
 | 77.45 | 45.90 |
 | Over 77.45 | 58.45 |
 
-## SCHEDULE 2 — PROVISIONS OF THE 1998 ACT OR REGULATIONS APPLICABLE (WITH THE NECESSARY MODIFICATIONS) TO THIS SCHEME[^key-0561ef7668522dde6e8057b66122dec6]
+## SCHEDULE 2 — PROVISIONS OF THE 1998 ACT OR REGULATIONS APPLICABLE (WITH THE NECESSARY MODIFICATIONS) TO THIS SCHEME[^c-0561ef7668522dde6e8057b66122dec6]
 
 Articles 11 and 12
 
@@ -510,52 +510,52 @@ Articles 11 and 12
 | - Regulation 32 | Late appeals |
 | - Regulation 33 | Making of appeals and applications |
 | - Regulation 34 | Death of a party to an appeal |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
 | - Regulation 48 | Misconceived appeals |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
 | The Social Security and Child Support (Decisions and Appeals) Regulations 1999— |  |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
-| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^c-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
 | The Social Security Commissioners (Procedure) Regulations 1999— |  |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
-| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^c-400e98634c3a746d994bb070ca1e6177]. . . | [^c-400e98634c3a746d994bb070ca1e6177]. . . |
 
 ## SCHEDULE 3 — REVOCATIONS
 
@@ -594,70 +594,70 @@ The scheme contains provisions relating to claims and payments and provides for 
 
 [^f00001]: Footnote: , as amended by the Social Security (Miscellaneous Provisions) Act 1977 (c. 5), s. 11.
 
-[^key-6469613b216a7971ff03927d173dc649]: Textual amendment: Words in art. 1(2) inserted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 1(a)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/1/a)
+[^c-6469613b216a7971ff03927d173dc649]: Textual amendment: Words in art. 1(2) inserted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 1(a)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/1/a)
 
-[^key-adf712b15d11920898a7bab09c01393f]: Textual amendment: Words in art. 1(2) substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 1(b)(c)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/1/b/c)
+[^c-adf712b15d11920898a7bab09c01393f]: Textual amendment: Words in art. 1(2) substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 1(b)(c)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/1/b/c)
 
-[^key-3e5f386fdc0db74057607f4639b6dfbd]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/1982/1489/article/1/2) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/27)
+[^c-3e5f386fdc0db74057607f4639b6dfbd]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/1982/1489/article/1/2) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/27)
 
-[^key-93c45479678c7da04fef857de8f89668]: Textual amendment: Words in art. 1(2) revoked (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 1(d)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/1/d)
+[^c-93c45479678c7da04fef857de8f89668]: Textual amendment: Words in art. 1(2) revoked (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 1(d)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/1/d)
 
-[^key-87ca8c32f183b7875a18b4e9425c39ed]: Textual amendment: Words in art. 1(2) inserted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 1(e)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/1/e)
+[^c-87ca8c32f183b7875a18b4e9425c39ed]: Textual amendment: Words in art. 1(2) inserted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 1(e)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/1/e)
 
-[^key-2a5ae554dc7bc21f621fa04e0635e110]: Textual amendment: Words in art. 2(1) substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/1990/2538/article/2/2/a)
+[^c-2a5ae554dc7bc21f621fa04e0635e110]: Textual amendment: Words in art. 2(1) substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/1990/2538/article/2/2/a)
 
-[^key-1a1c3a95105597186bf05c540dc8f81d]: Textual amendment: Words in art. 4(1) substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/1990/2538/article/2/2/a)
+[^c-1a1c3a95105597186bf05c540dc8f81d]: Textual amendment: Words in art. 4(1) substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/1990/2538/article/2/2/a)
 
-[^key-519de827e7ef2c5938c0f2dfe7edf3a3]: Textual amendment: Words in art. 4(2) revoked (6.4.1987) by [The Workmens Compensation (Supplementation) Amendment Scheme 1987 (S.I. 1987/419)](https://www.legislation.gov.uk/uksi/1987/419), [arts. 1](https://www.legislation.gov.uk/uksi/1987/419/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/1987/419/article/2/1/a), with [2(2)](https://www.legislation.gov.uk/uksi/1987/419/article/2/2)
+[^c-519de827e7ef2c5938c0f2dfe7edf3a3]: Textual amendment: Words in art. 4(2) revoked (6.4.1987) by [The Workmens Compensation (Supplementation) Amendment Scheme 1987 (S.I. 1987/419)](https://www.legislation.gov.uk/uksi/1987/419), [arts. 1](https://www.legislation.gov.uk/uksi/1987/419/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/1987/419/article/2/1/a), with [2(2)](https://www.legislation.gov.uk/uksi/1987/419/article/2/2)
 
-[^key-23392972a185a61c6adc54ab9e7094d7]: Textual amendment: Words in art. 5(1) substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/1990/2538/article/2/2/a)
+[^c-23392972a185a61c6adc54ab9e7094d7]: Textual amendment: Words in art. 5(1) substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/1990/2538/article/2/2/a)
 
-[^key-f62942c88a9749169c964b27bfab23a9]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/1982/1489/article/5/2) substituted (11.4.2012) by [The Workmen s Compensation (Supplementation) (Amendment) Scheme 2012 (S.I. 2012/833)](https://www.legislation.gov.uk/uksi/2012/833), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/833/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/833/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/833/article/4))
+[^c-f62942c88a9749169c964b27bfab23a9]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/1982/1489/article/5/2) substituted (11.4.2012) by [The Workmen s Compensation (Supplementation) (Amendment) Scheme 2012 (S.I. 2012/833)](https://www.legislation.gov.uk/uksi/2012/833), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/833/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/833/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/833/article/4))
 
-[^key-0bed4a2b0b9a58b7bf7cdf5ed819301d]: Textual amendment: Words in art. 6(1) revoked (6.4.1987) by [The Workmens Compensation (Supplementation) Amendment Scheme 1987 (S.I. 1987/419)](https://www.legislation.gov.uk/uksi/1987/419), [arts. 1](https://www.legislation.gov.uk/uksi/1987/419/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/1987/419/article/2/1/a), with [2(2)](https://www.legislation.gov.uk/uksi/1987/419/article/2/2)
+[^c-0bed4a2b0b9a58b7bf7cdf5ed819301d]: Textual amendment: Words in art. 6(1) revoked (6.4.1987) by [The Workmens Compensation (Supplementation) Amendment Scheme 1987 (S.I. 1987/419)](https://www.legislation.gov.uk/uksi/1987/419), [arts. 1](https://www.legislation.gov.uk/uksi/1987/419/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/1987/419/article/2/1/a), with [2(2)](https://www.legislation.gov.uk/uksi/1987/419/article/2/2)
 
-[^key-2d2c933af4188756cd36e21e0847bd74]: Textual amendment: Words in art. 6(3) revoked (6.4.1987) by [The Workmens Compensation (Supplementation) Amendment Scheme 1987 (S.I. 1987/419)](https://www.legislation.gov.uk/uksi/1987/419), [arts. 1](https://www.legislation.gov.uk/uksi/1987/419/article/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/1987/419/article/2/1/b), with [2(2)](https://www.legislation.gov.uk/uksi/1987/419/article/2/2)
+[^c-2d2c933af4188756cd36e21e0847bd74]: Textual amendment: Words in art. 6(3) revoked (6.4.1987) by [The Workmens Compensation (Supplementation) Amendment Scheme 1987 (S.I. 1987/419)](https://www.legislation.gov.uk/uksi/1987/419), [arts. 1](https://www.legislation.gov.uk/uksi/1987/419/article/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/1987/419/article/2/1/b), with [2(2)](https://www.legislation.gov.uk/uksi/1987/419/article/2/2)
 
-[^key-9619b5de8a139b911d2c577f2bc82dd2]: Textual amendment: Words in art. 6(4)(5) revoked (6.4.1987) by [The Workmens Compensation (Supplementation) Amendment Scheme 1987 (S.I. 1987/419)](https://www.legislation.gov.uk/uksi/1987/419), [arts. 1](https://www.legislation.gov.uk/uksi/1987/419/article/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/1987/419/article/2/1/b), with [2(2)](https://www.legislation.gov.uk/uksi/1987/419/article/2/2)
+[^c-9619b5de8a139b911d2c577f2bc82dd2]: Textual amendment: Words in art. 6(4)(5) revoked (6.4.1987) by [The Workmens Compensation (Supplementation) Amendment Scheme 1987 (S.I. 1987/419)](https://www.legislation.gov.uk/uksi/1987/419), [arts. 1](https://www.legislation.gov.uk/uksi/1987/419/article/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/1987/419/article/2/1/b), with [2(2)](https://www.legislation.gov.uk/uksi/1987/419/article/2/2)
 
-[^key-5cfd3045cd8f38f3800b5693e9c86c96]: Textual amendment: Words in art. 6(5) substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/2)
+[^c-5cfd3045cd8f38f3800b5693e9c86c96]: Textual amendment: Words in art. 6(5) substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/2)
 
-[^key-84b6eee5003221da9e16030308147cc0]: Textual amendment: Words in art. 11 substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/1990/2538/article/2/2/b)
+[^c-84b6eee5003221da9e16030308147cc0]: Textual amendment: Words in art. 11 substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/1990/2538/article/2/2/b)
 
-[^key-f3c13ac73cec8cf70e6416e564b478ad]: Textual amendment: Art. 12 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/3)
+[^c-f3c13ac73cec8cf70e6416e564b478ad]: Textual amendment: Art. 12 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/3)
 
-[^key-0a7f9f9ecac0d01796bfa4fd3dd8d44d]: Textual amendment: Words in art. 12 omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/28)
+[^c-0a7f9f9ecac0d01796bfa4fd3dd8d44d]: Textual amendment: Words in art. 12 omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/28)
 
-[^key-f1bc7bb11884bcb9a2c0f50c9e0e0569]: Textual amendment: Art. 13 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/4)
+[^c-f1bc7bb11884bcb9a2c0f50c9e0e0569]: Textual amendment: Art. 13 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/4)
 
-[^key-cdf87258173b25d8c3ccb373bf47e63c]: Textual amendment: Art. 14 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/5)
+[^c-cdf87258173b25d8c3ccb373bf47e63c]: Textual amendment: Art. 14 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/5)
 
-[^key-af75affa5c43c6f061be139b89eb0dfd]: Textual amendment: Words in art. 15 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/6)
+[^c-af75affa5c43c6f061be139b89eb0dfd]: Textual amendment: Words in art. 15 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/6)
 
-[^key-46fecf3e91fe38af6facc904d1e65c7e]: Textual amendment: Words in art. 17(1) omitted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 7(a)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/7/a)
+[^c-46fecf3e91fe38af6facc904d1e65c7e]: Textual amendment: Words in art. 17(1) omitted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 7(a)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/7/a)
 
-[^key-05f18985739efa7a794fb050933aee1f]: Textual amendment: Words in art. 17(2)(a) substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 7(b)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/7/b)
+[^c-05f18985739efa7a794fb050933aee1f]: Textual amendment: Words in art. 17(2)(a) substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 7(b)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/7/b)
 
-[^key-5b4bda0941cc4e175e9883b9e660efaf]: Textual amendment: Art. 17(4) revoked (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 7(c)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/7/c)
+[^c-5b4bda0941cc4e175e9883b9e660efaf]: Textual amendment: Art. 17(4) revoked (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 7(c)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/7/c)
 
-[^key-8dc5f14a2bb49a29fb5ecd20bc3ec93c]: Textual amendment: Art. 18 substituted (7.4.1997) by [The Workmens Compensation (Supplementation) (Amendment) (No. 2) Scheme 1997 (S.I. 1997/823)](https://www.legislation.gov.uk/uksi/1997/823), [arts. 1](https://www.legislation.gov.uk/uksi/1997/823/article/1), [2](https://www.legislation.gov.uk/uksi/1997/823/article/2)
+[^c-8dc5f14a2bb49a29fb5ecd20bc3ec93c]: Textual amendment: Art. 18 substituted (7.4.1997) by [The Workmens Compensation (Supplementation) (Amendment) (No. 2) Scheme 1997 (S.I. 1997/823)](https://www.legislation.gov.uk/uksi/1997/823), [arts. 1](https://www.legislation.gov.uk/uksi/1997/823/article/1), [2](https://www.legislation.gov.uk/uksi/1997/823/article/2)
 
-[^key-24bf80a9633d7126071687a2c90daa8c]: Textual amendment: Words in art. 23(1) substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/1990/2538/article/2/2/d)
+[^c-24bf80a9633d7126071687a2c90daa8c]: Textual amendment: Words in art. 23(1) substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/1990/2538/article/2/2/d)
 
 [^f00005]: Footnote: *See* S.I. 1977/991, article 4.
 
-[^key-59905d83f13df1dae6bf669bd1d3b45c]: Textual amendment: Art. 26 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 8](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/8)
+[^c-59905d83f13df1dae6bf669bd1d3b45c]: Textual amendment: Art. 26 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 8](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/8)
 
-[^key-420659ec747571d1c60974496e2ca531]: Textual amendment: Words in art. 33 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/9)
+[^c-420659ec747571d1c60974496e2ca531]: Textual amendment: Words in art. 33 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/9)
 
-[^key-c55bc2642ecb30fa09c931b04f3035ff]: Textual amendment: Words in art. 34 inserted (6.4.1987) by [The Workmens Compensation (Supplementation) Amendment Scheme 1987 (S.I. 1987/419)](https://www.legislation.gov.uk/uksi/1987/419), [arts. 1](https://www.legislation.gov.uk/uksi/1987/419/article/1), [2(1)(c)](https://www.legislation.gov.uk/uksi/1987/419/article/2/1/c), with [2(2)](https://www.legislation.gov.uk/uksi/1987/419/article/2/2)
+[^c-c55bc2642ecb30fa09c931b04f3035ff]: Textual amendment: Words in art. 34 inserted (6.4.1987) by [The Workmens Compensation (Supplementation) Amendment Scheme 1987 (S.I. 1987/419)](https://www.legislation.gov.uk/uksi/1987/419), [arts. 1](https://www.legislation.gov.uk/uksi/1987/419/article/1), [2(1)(c)](https://www.legislation.gov.uk/uksi/1987/419/article/2/1/c), with [2(2)](https://www.legislation.gov.uk/uksi/1987/419/article/2/2)
 
-[^key-f1d094874d1c0b737b4de309631243e9]: Textual amendment: Words in art. 36 substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/1990/2538/article/2/2/a)
+[^c-f1d094874d1c0b737b4de309631243e9]: Textual amendment: Words in art. 36 substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/1990/2538/article/2/2/a)
 
-[^key-a1ff8ca626f1b7df56bc7eee8cc36df3]: Textual amendment: Sch. 1 substituted (11.4.2012) by [The Workmen s Compensation (Supplementation) (Amendment) Scheme 2012 (S.I. 2012/833)](https://www.legislation.gov.uk/uksi/2012/833), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/833/article/1/1), [3](https://www.legislation.gov.uk/uksi/2012/833/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/833/article/4))
+[^c-a1ff8ca626f1b7df56bc7eee8cc36df3]: Textual amendment: Sch. 1 substituted (11.4.2012) by [The Workmen s Compensation (Supplementation) (Amendment) Scheme 2012 (S.I. 2012/833)](https://www.legislation.gov.uk/uksi/2012/833), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/833/article/1/1), [3](https://www.legislation.gov.uk/uksi/2012/833/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/833/article/4))
 
-[^key-0561ef7668522dde6e8057b66122dec6]: Textual amendment: Sch. 2 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 11](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/11)
+[^c-0561ef7668522dde6e8057b66122dec6]: Textual amendment: Sch. 2 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 11](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/11)
 
-[^key-6968a7baafc5bdce7685e8ea2457c0aa]: Textual amendment: Words in Sch. 2 omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 29(a)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/29/a)
+[^c-6968a7baafc5bdce7685e8ea2457c0aa]: Textual amendment: Words in Sch. 2 omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 29(a)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/29/a)
 
-[^key-400e98634c3a746d994bb070ca1e6177]: Textual amendment: Words in Sch. 2 omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 29(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/29/b)
+[^c-400e98634c3a746d994bb070ca1e6177]: Textual amendment: Words in Sch. 2 omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 29(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/29/b)

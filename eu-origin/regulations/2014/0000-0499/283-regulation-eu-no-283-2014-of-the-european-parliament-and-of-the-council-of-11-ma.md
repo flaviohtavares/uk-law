@@ -37,129 +37,129 @@ on guidelines for trans-European networks in the area of telecommunications infr
 
 (Text with EEA relevance) (revoked)
 
-[^key-5f44ffa8edd875bec4fc9de71dd9c422]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f44ffa8edd875bec4fc9de71dd9c422]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-5f44ffa8edd875bec4fc9de71dd9c422]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-5f44ffa8edd875bec4fc9de71dd9c422]
+## Article 1. Subject matter[^c-5f44ffa8edd875bec4fc9de71dd9c422]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Objectives[^key-5f44ffa8edd875bec4fc9de71dd9c422]
+## Article 2. Definitions[^c-5f44ffa8edd875bec4fc9de71dd9c422]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Projects of common interest[^key-5f44ffa8edd875bec4fc9de71dd9c422]
+## Article 3. Objectives[^c-5f44ffa8edd875bec4fc9de71dd9c422]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Methods of intervention[^key-5f44ffa8edd875bec4fc9de71dd9c422]
+## Article 4. Projects of common interest[^c-5f44ffa8edd875bec4fc9de71dd9c422]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Eligibility criteria and priorities for funding[^key-5f44ffa8edd875bec4fc9de71dd9c422]
+## Article 5. Methods of intervention[^c-5f44ffa8edd875bec4fc9de71dd9c422]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Cooperation with third countries and international organisations[^key-5f44ffa8edd875bec4fc9de71dd9c422]
+## Article 6. Eligibility criteria and priorities for funding[^c-5f44ffa8edd875bec4fc9de71dd9c422]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Exchange of information, monitoring and reporting[^key-5f44ffa8edd875bec4fc9de71dd9c422]
+## Article 7. Cooperation with third countries and international organisations[^c-5f44ffa8edd875bec4fc9de71dd9c422]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Repeal[^key-5f44ffa8edd875bec4fc9de71dd9c422]
+## Article 8. Exchange of information, monitoring and reporting[^c-5f44ffa8edd875bec4fc9de71dd9c422]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Entry into force[^key-5f44ffa8edd875bec4fc9de71dd9c422]
+## Article 9. Repeal[^c-5f44ffa8edd875bec4fc9de71dd9c422]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f44ffa8edd875bec4fc9de71dd9c422]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 10. Entry into force[^c-5f44ffa8edd875bec4fc9de71dd9c422]
 
-## ANNEX — PROJECTS OF COMMON INTEREST[^key-5f44ffa8edd875bec4fc9de71dd9c422]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f44ffa8edd875bec4fc9de71dd9c422]SECTION 1.
+[^c-5f44ffa8edd875bec4fc9de71dd9c422]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX — PROJECTS OF COMMON INTEREST[^c-5f44ffa8edd875bec4fc9de71dd9c422]
+
+[^c-5f44ffa8edd875bec4fc9de71dd9c422]SECTION 1.
 
 DIGITAL SERVICE INFRASTRUCTURES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f44ffa8edd875bec4fc9de71dd9c422]1.
+[^c-5f44ffa8edd875bec4fc9de71dd9c422]1.
 
 The building blocks identified to be included in the work programmes, subject to Article 6 (1) and (3), are the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f44ffa8edd875bec4fc9de71dd9c422]2.
+[^c-5f44ffa8edd875bec4fc9de71dd9c422]2.
 
 Well-established digital service infrastructures particularly identified to be eligible for funding contributing to uninterrupted service, subject to Article 6(1):
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f44ffa8edd875bec4fc9de71dd9c422]3.
+[^c-5f44ffa8edd875bec4fc9de71dd9c422]3.
 
 Other digital service infrastructures identified to be eligible for funding subject to Article 6(1):
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f44ffa8edd875bec4fc9de71dd9c422]SECTION 2.
+[^c-5f44ffa8edd875bec4fc9de71dd9c422]SECTION 2.
 
 BROADBAND NETWORKS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f44ffa8edd875bec4fc9de71dd9c422]1.
+[^c-5f44ffa8edd875bec4fc9de71dd9c422]1.
 
 **The scope of actions**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f44ffa8edd875bec4fc9de71dd9c422]2.
+[^c-5f44ffa8edd875bec4fc9de71dd9c422]2.
 
 **Contribution to the achievement of the targets of the Digital Agenda for Europe**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f44ffa8edd875bec4fc9de71dd9c422]3.
+[^c-5f44ffa8edd875bec4fc9de71dd9c422]3.
 
 **Project assessment to establish optimal funding structures**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f44ffa8edd875bec4fc9de71dd9c422]4.
+[^c-5f44ffa8edd875bec4fc9de71dd9c422]4.
 
 **Sources of funding**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f44ffa8edd875bec4fc9de71dd9c422](a)
+[^c-5f44ffa8edd875bec4fc9de71dd9c422](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f44ffa8edd875bec4fc9de71dd9c422](b)
+[^c-5f44ffa8edd875bec4fc9de71dd9c422](b)
 
 Subject to the rules of Regulation (EU, Euratom) No 966/2012, Regulation (EU) No 1316/2013 and all relevant regulations concerning ESI Funds, the financial instruments referred to in point (a) may be combined with additional contributions from:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f44ffa8edd875bec4fc9de71dd9c422](c)
+[^c-5f44ffa8edd875bec4fc9de71dd9c422](c)
 
 Financial instruments referred to in points (a) and (b) may also be combined with grants by Member States, including regional and local authorities, that wish to contribute own resources or resources available from ESI Funds, provided that:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f44ffa8edd875bec4fc9de71dd9c422]SECTION 3.
+[^c-5f44ffa8edd875bec4fc9de71dd9c422]SECTION 3.
 
 HORIZONTAL ACTIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f44ffa8edd875bec4fc9de71dd9c422] SECTION 4.
+[^c-5f44ffa8edd875bec4fc9de71dd9c422] SECTION 4.
 
 WIRELESS CONNECTIVITY IN LOCAL COMMUNITIES
 
@@ -167,4 +167,4 @@ WIRELESS CONNECTIVITY IN LOCAL COMMUNITIES
 
 ## Annotations
 
-[^key-5f44ffa8edd875bec4fc9de71dd9c422]: Textual amendment: Regulation revoked (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2019/246/schedule/3/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5f44ffa8edd875bec4fc9de71dd9c422]: Textual amendment: Regulation revoked (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2019/246/schedule/3/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

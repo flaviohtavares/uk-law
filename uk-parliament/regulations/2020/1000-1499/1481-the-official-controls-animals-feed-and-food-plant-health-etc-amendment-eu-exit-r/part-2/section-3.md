@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendments to Title 1[^key-032db49b55d1e2e04113e59229a2b2a2]
+## 3. Amendments to Title 1[^c-032db49b55d1e2e04113e59229a2b2a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -99,6 +99,6 @@ summary: ''
 
 ## Annotations
 
-[^key-032db49b55d1e2e04113e59229a2b2a2]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-032db49b55d1e2e04113e59229a2b2a2]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
 
 [^c24368661]: Marginal citation: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26).

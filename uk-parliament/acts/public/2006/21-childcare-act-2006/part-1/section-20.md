@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Meaning of “early years provision”[^key-ed67acc9763c0424d156c86f3ab81b42]
+## 20. Meaning of “early years provision”[^c-ed67acc9763c0424d156c86f3ab81b42]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In this Part “**early years provision**” means the provision of childcare fo
 
 ## Annotations
 
-[^key-ed67acc9763c0424d156c86f3ab81b42]: Commencement: S. 20 in force at 20.12.2006 by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/b)
+[^c-ed67acc9763c0424d156c86f3ab81b42]: Commencement: S. 20 in force at 20.12.2006 by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/b)

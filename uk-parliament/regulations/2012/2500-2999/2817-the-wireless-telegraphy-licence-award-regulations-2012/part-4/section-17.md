@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Principal stage, assignment stage and grant stage[^key-711ed6e02e868267d64747aa989f9485]
+## 17. Principal stage, assignment stage and grant stage[^c-711ed6e02e868267d64747aa989f9485]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-711ed6e02e868267d64747aa989f9485]: Commencement: Reg. 17 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-711ed6e02e868267d64747aa989f9485]: Commencement: Reg. 17 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

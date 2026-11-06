@@ -34,7 +34,7 @@ Merchant Shipping
 
 Masters And Seamen
 
-The Merchant Shipping (Training and Certification) (Amendment) Regulations 2008 (revoked)[^key-cfb03a827c948a4274f34ae0cee1b027]
+The Merchant Shipping (Training and Certification) (Amendment) Regulations 2008 (revoked)[^c-cfb03a827c948a4274f34ae0cee1b027]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 2nd December 2008
 
-[^key-cfb03a827c948a4274f34ae0cee1b027]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cfb03a827c948a4274f34ae0cee1b027]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cfb03a827c948a4274f34ae0cee1b027]
+## 1. Citation and commencement[^c-cfb03a827c948a4274f34ae0cee1b027]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Merchant Shipping (Training and Certification) Regulations 1997[^key-cfb03a827c948a4274f34ae0cee1b027]
+## 2. Amendment of the Merchant Shipping (Training and Certification) Regulations 1997[^c-cfb03a827c948a4274f34ae0cee1b027]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cfb03a827c948a4274f34ae0cee1b027]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cfb03a827c948a4274f34ae0cee1b027]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cfb03a827c948a4274f34ae0cee1b027]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cfb03a827c948a4274f34ae0cee1b027]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cfb03a827c948a4274f34ae0cee1b027]: Textual amendment: Regulations revoked (9.6.2015) by [The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2015 (S.I. 2015/782)](https://www.legislation.gov.uk/uksi/2015/782), [regs. 1](https://www.legislation.gov.uk/uksi/2015/782/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2015/782/regulation/2/1), [Sch. 1 para. (g)](https://www.legislation.gov.uk/uksi/2015/782/schedule/1)
+[^c-cfb03a827c948a4274f34ae0cee1b027]: Textual amendment: Regulations revoked (9.6.2015) by [The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2015 (S.I. 2015/782)](https://www.legislation.gov.uk/uksi/2015/782), [regs. 1](https://www.legislation.gov.uk/uksi/2015/782/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2015/782/regulation/2/1), [Sch. 1 para. (g)](https://www.legislation.gov.uk/uksi/2015/782/schedule/1)

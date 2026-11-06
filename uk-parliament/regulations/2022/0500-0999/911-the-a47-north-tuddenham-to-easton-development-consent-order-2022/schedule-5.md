@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^key-7f743d20b4d0264a079df9c04f128d13]
+## SCHEDULE 5 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^c-7f743d20b4d0264a079df9c04f128d13]
 
 *Extent: E+W+S*
 
@@ -115,4 +115,4 @@ Article 26
 
 ## Annotations
 
-[^key-7f743d20b4d0264a079df9c04f128d13]: Commencement: Sch. 5 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
+[^c-7f743d20b4d0264a079df9c04f128d13]: Commencement: Sch. 5 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)

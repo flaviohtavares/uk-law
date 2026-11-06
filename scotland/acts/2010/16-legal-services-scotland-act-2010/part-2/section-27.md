@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Internal governance arrangements[^key-79139bc91beaf3567c577df77cbae3ab]
+## 27. Internal governance arrangements[^c-79139bc91beaf3567c577df77cbae3ab]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79139bc91beaf3567c577df77cbae3ab]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2010/16/section/27) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-79139bc91beaf3567c577df77cbae3ab]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2010/16/section/27) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

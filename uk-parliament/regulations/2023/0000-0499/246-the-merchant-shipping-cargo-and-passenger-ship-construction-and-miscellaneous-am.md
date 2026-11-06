@@ -48,23 +48,23 @@ Coming into force
 
 29th March 2023
 
-The Secretary of State, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], and in exercise of the powers conferred by sections 85(1), (3) and (5) to (7), 86(1)(a), (b), (c) and (d), 302(1) and 306A of that Act, article 2 of the Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention) Order 1996[^f00002], and article 2 of the Merchant Shipping (Control of Pollution) (SOLAS) Order 1998[^f00003], and with the consent of the Treasury, makes the following Regulations.[^key-4e7bb14efd12a3635aa0368010e1e12e]
+The Secretary of State, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], and in exercise of the powers conferred by sections 85(1), (3) and (5) to (7), 86(1)(a), (b), (c) and (d), 302(1) and 306A of that Act, article 2 of the Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention) Order 1996[^f00002], and article 2 of the Merchant Shipping (Control of Pollution) (SOLAS) Order 1998[^f00003], and with the consent of the Treasury, makes the following Regulations.[^c-4e7bb14efd12a3635aa0368010e1e12e]
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and extent[^key-b31f30c5e3d06bc6891e4ebc4e2d24c3]
+### 1. Citation, commencement and extent[^c-b31f30c5e3d06bc6891e4ebc4e2d24c3]
 
 (1) These Regulations may be cited as the Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 and come into force on 29th March 2023.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Consequential amendments[^key-1ed1361c5c7a5c9c43aeb3efd2f64487]
+### 2. Consequential amendments[^c-1ed1361c5c7a5c9c43aeb3efd2f64487]
 
 The amendments listed in the Schedule have effect.
 
 ## PART 2 — General
 
-### 3. Interpretation[^key-0e55ebcdb271b848b7189d37883121a3]
+### 3. Interpretation[^c-0e55ebcdb271b848b7189d37883121a3]
 
 In these Regulations—
 
@@ -107,7 +107,7 @@ In these Regulations—
   - (a) construction identifiable with a specific ship begins, and
   - (b) assembly of that ship has commenced comprising at least 50 tonnes or 3 per cent of the estimated mass of all structural material, whichever is less.
 
-### 4. Application[^key-602b4ebcef35db473cdd7d9c1abcee80]
+### 4. Application[^c-602b4ebcef35db473cdd7d9c1abcee80]
 
 (1) Subject to paragraph (2), these Regulations apply to—
 
@@ -137,7 +137,7 @@ In these Regulations—
 
 those persons are not to be taken into account for the purpose of determining the application to that ship of any provision of these Regulations.
 
-### 5. Repairs, alterations, modifications and outfitting[^key-9b26038e5a70be6232673997a6864937]
+### 5. Repairs, alterations, modifications and outfitting[^c-9b26038e5a70be6232673997a6864937]
 
 (1) A ship which undergoes repairs, alterations, modifications, or outfitting related to such repairs, alterations or modifications, must continue to comply with at least the requirements previously applicable to that ship.
 
@@ -149,7 +149,7 @@ those persons are not to be taken into account for the purpose of determining th
 
 - “**relevant amendment**” means a modification or a replacement of a requirement in Chapter II-1 which comes into force in accordance with Article VIII of the Convention.
 
-### 6. Ambulatory reference[^key-0bc677a621e8a6dcda4cc859f628def6]
+### 6. Ambulatory reference[^c-0bc677a621e8a6dcda4cc859f628def6]
 
 (1) In these Regulations, any reference to Chapter II-1 is to be construed—
 
@@ -160,7 +160,7 @@ those persons are not to be taken into account for the purpose of determining th
 
 (3) A modification or replacement of Chapter II-1 has effect at the time such modification or replacement comes into force in accordance with Article VIII of the Convention.
 
-### 7. Exemptions[^key-e4c22216672e5e8723c11af70edeede3]
+### 7. Exemptions[^c-e4c22216672e5e8723c11af70edeede3]
 
 (1) The Secretary of State may exempt from any provision of these Regulations—
 
@@ -197,7 +197,7 @@ those persons are not to be taken into account for the purpose of determining th
 
 (9) In this regulation, “**mile**” means a nautical mile of 1,852 metres.
 
-### 8. Equivalents[^key-57125bf642d716fbcdb10a90e293f2c0]
+### 8. Equivalents[^c-57125bf642d716fbcdb10a90e293f2c0]
 
 (1) Where a provision of Chapter II-1 requires that—
 
@@ -221,7 +221,7 @@ the Secretary of State may approve any other fitting, material, appliance or app
 - (b) received in legible form; and
 - (c) capable of being used for subsequent reference.
 
-### 9. Approvals[^key-3063058bd80f9d24e41155542ea10d50]
+### 9. Approvals[^c-3063058bd80f9d24e41155542ea10d50]
 
 (1) In complying with the requirements of Chapter II-1 with respect to the design, construction or maintenance relating to hull, machinery, electrical installations and control installations a United Kingdom ship must comply with the approved standards listed in Merchant Shipping Notice 1672 (M+F) Amendment 4[^f00014] which are relevant to it.
 
@@ -231,7 +231,7 @@ the Secretary of State may approve any other fitting, material, appliance or app
 - (b) done to the satisfaction of such Administration; or
 - (c) acceptable to that Administration[^f00015].
 
-(3) Unless approved under the Merchant Shipping (Marine Equipment) Regulations 2025[^key-353b0ffa17de946021bcc07a1cefe51f], equipment required by Chapter II-1 or Merchant Shipping Notice 1907(M)[^f00017] and placed on board a United Kingdom ship must be approved by the Secretary of State, or any person authorised by the Secretary of State.
+(3) Unless approved under the Merchant Shipping (Marine Equipment) Regulations 2025[^c-353b0ffa17de946021bcc07a1cefe51f], equipment required by Chapter II-1 or Merchant Shipping Notice 1907(M)[^f00017] and placed on board a United Kingdom ship must be approved by the Secretary of State, or any person authorised by the Secretary of State.
 
 (4) An approval given under paragraph (2) or (3) may, on the giving of reasonable notice, be continued, altered or cancelled.
 
@@ -247,7 +247,7 @@ the Secretary of State may approve any other fitting, material, appliance or app
 - (b) received in legible form; and
 - (c) capable of being used for subsequent reference.
 
-### 10. Alternative design and arrangements[^key-7f7c04da211abb5aa676d3b5dbe40eab]
+### 10. Alternative design and arrangements[^c-7f7c04da211abb5aa676d3b5dbe40eab]
 
 (1) Machinery, electrical installations and low-flashpoint fuel storage and distribution systems design and arrangements for a new or intermediate ship to which Part C, D, E or G of Chapter II-1 applies may deviate from the requirements in Part C, D, E or G of Chapter II-1 provided that the alternative design and arrangements meet the intent of those requirements and provide an equivalent level of safety.
 
@@ -281,11 +281,11 @@ the Secretary of State may approve any other fitting, material, appliance or app
 
 ## PART 3 — Requirements for ships constructed before 1st January 2009 and engaged on international voyages
 
-### 11. Application[^key-ffc38fd9842e0ae6918b822a41190c1d]
+### 11. Application[^c-ffc38fd9842e0ae6918b822a41190c1d]
 
 This Part applies to ships, the keels of which were laid, or which were at a similar stage of construction, before 1st January 2009, and engaged on international voyages.
 
-### 12. Compliance by ships constructed before 1st January 2009[^key-4735d9a74bc486c3b2330275cfe0bb58]
+### 12. Compliance by ships constructed before 1st January 2009[^c-4735d9a74bc486c3b2330275cfe0bb58]
 
 (1) A ship must comply with each requirement in—
 
@@ -298,11 +298,11 @@ that applies to it[^f00019].
 
 ## PART 4 — Requirements for intermediate ships engaged on international voyages
 
-### 13. Application[^key-8f2c23f3e20edd07d7395aa737718081]
+### 13. Application[^c-8f2c23f3e20edd07d7395aa737718081]
 
 This Part applies to intermediate ships which are engaged on international voyages.
 
-### 14. Compliance by intermediate ships[^key-50d0ec6e877487c5604ef180ade2f947]
+### 14. Compliance by intermediate ships[^c-50d0ec6e877487c5604ef180ade2f947]
 
 An intermediate ship must comply with each requirement applicable to that ship in—
 
@@ -312,17 +312,17 @@ An intermediate ship must comply with each requirement applicable to that ship i
 
 ## PART 5 — Requirements for new ships engaged on international voyages
 
-### 15. Application[^key-48a12d67c3e9ae292c8a8467de00a29d]
+### 15. Application[^c-48a12d67c3e9ae292c8a8467de00a29d]
 
 This Part applies to new ships which are engaged on international voyages.
 
-### 16. Compliance by new ships[^key-c241782487bea872db518b554ac8fe86]
+### 16. Compliance by new ships[^c-c241782487bea872db518b554ac8fe86]
 
 A new ship must comply with each requirement of Chapter II-1 applicable to that ship[^f00021].
 
 ## PART 6 — Enforcement
 
-### 17. Offences and penalties[^key-5c02e296b16a64044d10047f63619d20]
+### 17. Offences and penalties[^c-5c02e296b16a64044d10047f63619d20]
 
 (1) If a ship proceeds or attempts to proceed to sea or on any voyage, or arrives within United Kingdom waters, in breach of any of the requirements in, or listed in, these Regulations applicable to that ship, other than a matter to which paragraph (2) applies, the owner and the master are each guilty of an offence in respect of each case of non-compliance.
 
@@ -344,7 +344,7 @@ is an offence by the master.
 
 (4) It is a defence for a person charged with an offence under this regulation to prove that the person charged took all reasonable steps to avoid the commission of the offence.
 
-### 18. Detention[^key-20c3fe6ebe265bdbf2d77799f3e01b1f]
+### 18. Detention[^c-20c3fe6ebe265bdbf2d77799f3e01b1f]
 
 (1) For the purposes of this regulation, any reference to “**the Act**” is a reference to the Merchant Shipping Act 1995.
 
@@ -378,7 +378,7 @@ is an offence by the master.
 
 ## PART 7 — Correcting amendment of the Merchant Shipping (Radio Installations) Regulations 1998 etc.
 
-### 19. Amendment of the Merchant Shipping (Radio Installations) Regulations 1998[^key-f85c86c0e971f41d8799339cc841b893]
+### 19. Amendment of the Merchant Shipping (Radio Installations) Regulations 1998[^c-f85c86c0e971f41d8799339cc841b893]
 
 In the Merchant Shipping (Radio Installations) Regulations 1998[^f00025], in regulation 7 (interpretation of Part II), after the definition of “DSC” insert—
 
@@ -386,11 +386,11 @@ In the Merchant Shipping (Radio Installations) Regulations 1998[^f00025], in reg
 
 .
 
-### 20. Amendment of the Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021[^key-cc067b8c240ac5dc26dd27be52c19708]
+### 20. Amendment of the Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021[^c-cc067b8c240ac5dc26dd27be52c19708]
 
 In the Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021[^f00026], in paragraph 5 of Schedule 2, in the definition of “EPIRB”, omit “either”.
 
-### 21. Amendment of the Merchant Shipping (Cargo Ship) (Bilge Alarm) Regulations 2021[^key-e4e821c74479a83d8e3528f4986accbe]
+### 21. Amendment of the Merchant Shipping (Cargo Ship) (Bilge Alarm) Regulations 2021[^c-e4e821c74479a83d8e3528f4986accbe]
 
 (1) The Merchant Shipping (Cargo Ship) (Bilge Alarm) Regulations 2021[^f00027] are amended as follows.
 
@@ -403,7 +403,7 @@ In the Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021[^f00
 
   .
 
-### 22. Amendment of the Merchant Shipping (Nuclear Ships) Regulations 2022[^key-a20e8afa64d486e39f87677f6947f89f]
+### 22. Amendment of the Merchant Shipping (Nuclear Ships) Regulations 2022[^c-a20e8afa64d486e39f87677f6947f89f]
 
 (1) The Merchant Shipping (Nuclear Ships) Regulations 2022[^f00028] are amended as follows.
 
@@ -438,7 +438,7 @@ In the Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021[^f00
 
 ## PART 8 — Review
 
-### 23. Review of Parts 2 to 6 of these Regulations[^key-a9242a19c6059060cc8010fa0a62b0dc]
+### 23. Review of Parts 2 to 6 of these Regulations[^c-a9242a19c6059060cc8010fa0a62b0dc]
 
 (1) The Secretary of State must from time to time—
 
@@ -486,9 +486,9 @@ Regulation 2
 
 ### PART 1 — Amendments to the Merchant Shipping (Cargo Ship Construction) Regulations 1997
 
-**1.**[^key-e15a22d9d0460393f5f2fe4e81d17e73] The Merchant Shipping (Cargo Ship Construction) Regulations 1997 are amended as follows.
+**1.**[^c-e15a22d9d0460393f5f2fe4e81d17e73] The Merchant Shipping (Cargo Ship Construction) Regulations 1997 are amended as follows.
 
-**2.**[^key-16032617aab460fdfbd418d5f406ac96] For regulation 4 (application), substitute—
+**2.**[^c-16032617aab460fdfbd418d5f406ac96] For regulation 4 (application), substitute—
 
 > **4.** (1) Subject to paragraph (2), these Regulations apply to—
 >
@@ -527,9 +527,9 @@ Regulation 2
 
 ### PART 2 — Amendments to the Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II and II(A)) Regulations 1998
 
-**3.**[^key-87e406dd5c93e340a1b087c079ff8558] The Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II and II(A)) Regulations 1998[^f00032] are amended as follows.
+**3.**[^c-87e406dd5c93e340a1b087c079ff8558] The Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II and II(A)) Regulations 1998[^f00032] are amended as follows.
 
-**4.**[^key-39a1724ef671016a9f69bff6182c9be9] In regulation 2—
+**4.**[^c-39a1724ef671016a9f69bff6182c9be9] In regulation 2—
 
 - (a) in paragraph (2)—
   - (i) after the definition of “bulkhead deck” insert—
@@ -547,7 +547,7 @@ Regulation 2
 
   .
 
-**5.**[^key-11fef21136abfb8aea405e3f4e15810b] In regulation 3 (application)—
+**5.**[^c-11fef21136abfb8aea405e3f4e15810b] In regulation 3 (application)—
 
 - (a) in paragraph (1), for “these Regulations apply to passenger ships of Classes I, II and II(A)” substitute—
 
@@ -573,34 +573,34 @@ Regulation 2
 
   .
 
-**6.**[^key-7add6bc219691ef81e866ebc181ec879] In regulation 4 (exemptions for certain classes of ships and individual ships)—
+**6.**[^c-7add6bc219691ef81e866ebc181ec879] In regulation 4 (exemptions for certain classes of ships and individual ships)—
 
 - (a) in paragraph (b), omit “II or”;
 - (b) omit paragraph (e).
 
-**7.**[^key-fbd61a4eef7d93e0a8682b98dd829720] In regulation 11(2) (double bottoms), omit “II or”.
+**7.**[^c-fbd61a4eef7d93e0a8682b98dd829720] In regulation 11(2) (double bottoms), omit “II or”.
 
-**8.**[^key-c1eef62e9413e3595e1e129e7c5775af] In regulation 41 (automatic draught gauge system)—
+**8.**[^c-c1eef62e9413e3595e1e129e7c5775af] In regulation 41 (automatic draught gauge system)—
 
 - (a) omit paragraph (1);
 - (b) in paragraph (2), omit “I or” in both places it occurs.
 
-**9.**[^key-9588ed991f68b566f1f2d097ba9c34a0] In regulation 43 (calculation of stability prior to departure), omit paragraph (2).
+**9.**[^c-9588ed991f68b566f1f2d097ba9c34a0] In regulation 43 (calculation of stability prior to departure), omit paragraph (2).
 
 ### PART 3 — Amendments to other instruments
 
-#### 10. The Merchant Shipping (Tonnage) Regulations 1997[^key-86e0086da9f3416410dce5982838e71f]
+#### 10. The Merchant Shipping (Tonnage) Regulations 1997[^c-86e0086da9f3416410dce5982838e71f]
 
 In the Merchant Shipping (Tonnage) Regulations 1997[^f00037]—
 
 - (a) in regulation 2(1) (definitions), in the definition of “moulded draught”, for “or the Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998” substitute “, the Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998 or the Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023”;
 - (b) in regulation 11(2) (change of net tonnage necessitating issue of certificate), for “or the Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998” substitute “, the Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998 or the Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023”.
 
-#### 11. The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998[^key-dcbde98bea5d2861aade9bb9752de635]
+#### 11. The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998[^c-dcbde98bea5d2861aade9bb9752de635]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. The Merchant Shipping (Counting and Registration of Persons on Board Passenger Ships) Regulations 1999[^key-3f6cc690399559506f208515acd5d92f]
+#### 12. The Merchant Shipping (Counting and Registration of Persons on Board Passenger Ships) Regulations 1999[^c-3f6cc690399559506f208515acd5d92f]
 
 In the Merchant Shipping (Counting and Registration of Persons on Board Passenger Ships) Regulations 1999[^f00039]—
 
@@ -615,7 +615,7 @@ In the Merchant Shipping (Counting and Registration of Persons on Board Passenge
 
   .
 
-#### 13. The Merchant Shipping (Fees) Regulations 2018[^key-82258ebe28e6accee93cd3cf2fd57186]
+#### 13. The Merchant Shipping (Fees) Regulations 2018[^c-82258ebe28e6accee93cd3cf2fd57186]
 
 In the table in paragraph 5 of Part 1 of Schedule 1 (fees under the Merchant Shipping Act 1995) to the Merchant Shipping (Fees) Regulations 2018[^f00040] under heading I (Construction and Equipment)—
 
@@ -685,13 +685,13 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00003]: Footnote: [S.I. 1998/1500](https://www.legislation.gov.uk/uksi/1998/1500).
 
-[^key-4e7bb14efd12a3635aa0368010e1e12e]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2023/246) excluded (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2025/1195/schedule/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+[^c-4e7bb14efd12a3635aa0368010e1e12e]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2023/246) excluded (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2025/1195/schedule/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
 
-[^key-b31f30c5e3d06bc6891e4ebc4e2d24c3]: Commencement: Reg. 1 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-b31f30c5e3d06bc6891e4ebc4e2d24c3]: Commencement: Reg. 1 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
-[^key-1ed1361c5c7a5c9c43aeb3efd2f64487]: Commencement: Reg. 2 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-1ed1361c5c7a5c9c43aeb3efd2f64487]: Commencement: Reg. 2 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
-[^key-0e55ebcdb271b848b7189d37883121a3]: Commencement: Reg. 3 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-0e55ebcdb271b848b7189d37883121a3]: Commencement: Reg. 3 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
 [^f00004]: Footnote: Chapter II-1 in the Annex to the Convention (see footnote (b)) was replaced in full by the International Maritime Organization (IMO) Resolution MSC.1(45) and further amended by IMO Resolutions MSC.6(48) (Cm 3927), MSC.11(55) (Cm 1251), MSC.12(56) (Cm 3848), MSC.13(57), MSC.19(58) (Cm 3845), MSC.26(60), MSC.27(61), MSC.31(63) (Cm 3849), MSC.47(66) (Cm 4064), MSC.57(67) (Cm 4158), MSC.65(68) (Cm 4457), MSC.69(69) (Cm 5771), MSC.99(73) (Cm 6001), MSC.134(76) (Cm 6587), MSC.151(78), MSC.170(79), MSC.194(80), MSC.216(82), MSC.256(84), MSC.269(85), MSC.282(86), MSC.290(87), MSC.291(87), MSC.308(88), MSC.325(90), MSC.338(91), MSC.365(93), MSC.392(95), MSC.409(97), MSC.421(98) and MSC.436(99). The amendments to Chapter II-1 are available from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or found on the Foreign, Commonwealth and Development Office treaties database ( https://treaties.fcdo.gov.uk/responsive/app/consolidatedSearch/).
 
@@ -699,7 +699,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00006]: Footnote: [S.I. 1997/1510](https://www.legislation.gov.uk/uksi/1997/1510), amended by [S.I. 1998/1916](https://www.legislation.gov.uk/uksi/1998/1916), [1999/3206](https://www.legislation.gov.uk/uksi/1999/3206) and [2020/362](https://www.legislation.gov.uk/uksi/2020/362); there are other amending instruments but none is relevant.
 
-[^key-602b4ebcef35db473cdd7d9c1abcee80]: Commencement: Reg. 4 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-602b4ebcef35db473cdd7d9c1abcee80]: Commencement: Reg. 4 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 1997/1509](https://www.legislation.gov.uk/uksi/1997/1509), amended by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), [1999/643](https://www.legislation.gov.uk/uksi/1999/643), [2004/302](https://www.legislation.gov.uk/uksi/2004/302), [2004/2151](https://www.legislation.gov.uk/uksi/2004/2151), [2005/2114](https://www.legislation.gov.uk/uksi/2005/2114) and [2018/1221](https://www.legislation.gov.uk/uksi/2018/1221).
 
@@ -709,11 +709,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00010]: Footnote: Regulation 33 in Chapter V of the Convention (safety of navigation) places an obligation on the master to provide assistance to persons in distress at sea. This obligation is implemented in the Merchant Shipping (Safety of Navigation) Regulations 2020 ([S.I. 2020/673](https://www.legislation.gov.uk/uksi/2020/673)).
 
-[^key-9b26038e5a70be6232673997a6864937]: Commencement: Reg. 5 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-9b26038e5a70be6232673997a6864937]: Commencement: Reg. 5 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
-[^key-0bc677a621e8a6dcda4cc859f628def6]: Commencement: Reg. 6 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-0bc677a621e8a6dcda4cc859f628def6]: Commencement: Reg. 6 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
-[^key-e4c22216672e5e8723c11af70edeede3]: Commencement: Reg. 7 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-e4c22216672e5e8723c11af70edeede3]: Commencement: Reg. 7 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
 [^f00011]: Footnote: “Special trade” is defined in Rule 2 of the Special Trade Passenger Ships Agreement, 1971 (Cmnd 7761).
 
@@ -721,43 +721,43 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00013]: Footnote: Cmnd 7761. The rules annexed to the Protocol on Space Requirements for Special Trade Passenger Ships, 1973 are available from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or found on the Foreign, Commonwealth and Development Office treaties database (https://treaties.fcdo.gov.uk/data/Library2/pdf/1980-TS0007.pdf).
 
-[^key-57125bf642d716fbcdb10a90e293f2c0]: Commencement: Reg. 8 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-57125bf642d716fbcdb10a90e293f2c0]: Commencement: Reg. 8 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
-[^key-3063058bd80f9d24e41155542ea10d50]: Commencement: Reg. 9 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-3063058bd80f9d24e41155542ea10d50]: Commencement: Reg. 9 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
 [^f00014]: Footnote: Merchant Shipping Notice 1672 (M+F) Amendment 4 (published in December 2020) is available on https://www.gov.uk/government/publications/msn-1672-mf-amendment-4-ship-inspection-and-survey-organisations, and in hard copy from the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
 [^f00015]: Footnote: The circumstances in which the approval of the Secretary of State is required in relation to United Kingdom ships constructed on or after 1st July 2009 and engaged on international voyages are set out in Marine Guidance Note (MGN) 670(M); this is available on https://www.gov.uk/government/collections/marine-guidance-notices-mgns and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
-[^key-353b0ffa17de946021bcc07a1cefe51f]: Textual amendment: Word in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2023/246/regulation/9/3) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/21) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-353b0ffa17de946021bcc07a1cefe51f]: Textual amendment: Word in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2023/246/regulation/9/3) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/21) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
 [^f00017]: Footnote: Merchant Shipping Notice 1907(M) is available on https://www.gov.uk/government/collections/merchant-shipping-notices-msns and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
-[^key-7f7c04da211abb5aa676d3b5dbe40eab]: Commencement: Reg. 10 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-7f7c04da211abb5aa676d3b5dbe40eab]: Commencement: Reg. 10 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
-[^key-ffc38fd9842e0ae6918b822a41190c1d]: Commencement: Reg. 11 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-ffc38fd9842e0ae6918b822a41190c1d]: Commencement: Reg. 11 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
-[^key-4735d9a74bc486c3b2330275cfe0bb58]: Commencement: Reg. 12 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-4735d9a74bc486c3b2330275cfe0bb58]: Commencement: Reg. 12 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
 [^f00018]: Footnote: Merchant Shipping Notice 1907(M) is available on https://www.gov.uk/government/collections/merchant-shipping-notices-msns, and in hard copy from the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
 [^f00019]: Footnote: Ships constructed before 1st January 2009 are subject to specified requirements of Chapter II-1, including requirements in Chapter II-1 that apply to “all ships”.
 
-[^key-8f2c23f3e20edd07d7395aa737718081]: Commencement: Reg. 13 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-8f2c23f3e20edd07d7395aa737718081]: Commencement: Reg. 13 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
-[^key-50d0ec6e877487c5604ef180ade2f947]: Commencement: Reg. 14 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-50d0ec6e877487c5604ef180ade2f947]: Commencement: Reg. 14 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
 [^f00020]: Footnote: See the footnote to the definition of “Chapter II-1” in regulation 3.
 
-[^key-48a12d67c3e9ae292c8a8467de00a29d]: Commencement: Reg. 15 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-48a12d67c3e9ae292c8a8467de00a29d]: Commencement: Reg. 15 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
-[^key-c241782487bea872db518b554ac8fe86]: Commencement: Reg. 16 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-c241782487bea872db518b554ac8fe86]: Commencement: Reg. 16 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
 [^f00021]: Footnote: Chapter II-1 gives effect to the International Code on Intact Stability, 2008, the International Goal-based Ship Construction Standards for Bulk Carriers and Oil Tankers, the Code on Noise Levels on Board Ships and the International Code of Safety for Ships using Gases or other Low-Flashpoint Fuels (IGF Code). The International Code on Intact Stability, 2008 was adopted by International Maritime Organization (IMO) Resolution MSC.267(85) and made mandatory by IMO Resolution MSC.269(85). IMO Resolution 267(85) has been amended by IMO Resolutions MSC.319(89), MSC.398(95), MSC.413(97), MSC.414(97), MSC.415(97), MSC.443(99) and MSC.444(99) (and Corrigenda MSC.85/26/Add.1/Corr.3 and MSC.85/26/Add.1/Corr.3/Rev.1). The International Goal-based Ship Construction Standards for Bulk Carriers and Oil Tankers was adopted by IMO Resolution MSC.287(87) and made mandatory by IMO Resolution MSC.290(87). The Code on Noise Level on Board Ships was adopted by IMO Resolution MSC.337(91) and made mandatory by IMO Resolution MSC.338(91) (which has been amended by IMO Resolution MSC.409(97)). The International Code of Safety for Ships using Gases or other Low-Flashpoint Fuels was adopted by IMO Resolution MSC.391(95) and made mandatory by MSC.392(95). This Code has also been amended by IMO Resolution MSC.422(98). These Codes, and the International Goal-based Ship Construction Standards for Bulk Carriers and Oil Tankers, are available from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or found on the Foreign, Commonwealth and Development Office treaties database (https://treaties.fcdo.gov.uk/responsive/app/consolidatedSearch/).
 
-[^key-5c02e296b16a64044d10047f63619d20]: Commencement: Reg. 17 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-5c02e296b16a64044d10047f63619d20]: Commencement: Reg. 17 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
-[^key-20c3fe6ebe265bdbf2d77799f3e01b1f]: Commencement: Reg. 18 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-20c3fe6ebe265bdbf2d77799f3e01b1f]: Commencement: Reg. 18 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
 [^f00022]: Footnote: Section 284 was amended by Schedule 1 to the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28) and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
@@ -765,39 +765,39 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00024]: Footnote: Section 95 was amended by Schedule 1 to the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28).
 
-[^key-f85c86c0e971f41d8799339cc841b893]: Commencement: Reg. 19 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-f85c86c0e971f41d8799339cc841b893]: Commencement: Reg. 19 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
 [^f00025]: Footnote: [S.I. 1998/2070](https://www.legislation.gov.uk/uksi/1998/2070), as amended by [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), [2005/2114](https://www.legislation.gov.uk/uksi/2005/2114), [2016/1025](https://www.legislation.gov.uk/uksi/2016/1025), [2018/1221](https://www.legislation.gov.uk/uksi/2018/1221) and [2021/1316](https://www.legislation.gov.uk/uksi/2021/1316).
 
-[^key-cc067b8c240ac5dc26dd27be52c19708]: Commencement: Reg. 20 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-cc067b8c240ac5dc26dd27be52c19708]: Commencement: Reg. 20 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
 [^f00026]: Footnote: [S.I. 2021/1316](https://www.legislation.gov.uk/uksi/2021/1316), as amended by [S.I. 2022/1219](https://www.legislation.gov.uk/uksi/2022/1219).
 
-[^key-e4e821c74479a83d8e3528f4986accbe]: Commencement: Reg. 21 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-e4e821c74479a83d8e3528f4986accbe]: Commencement: Reg. 21 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
 [^f00027]: Footnote: [S.I. 2021/592](https://www.legislation.gov.uk/uksi/2021/592).
 
-[^key-a20e8afa64d486e39f87677f6947f89f]: Commencement: Reg. 22 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-a20e8afa64d486e39f87677f6947f89f]: Commencement: Reg. 22 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
 [^f00028]: Footnote: [S.I. 2022/1169](https://www.legislation.gov.uk/uksi/2022/1169).
 
-[^key-a9242a19c6059060cc8010fa0a62b0dc]: Commencement: Reg. 23 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-a9242a19c6059060cc8010fa0a62b0dc]: Commencement: Reg. 23 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
 [^f00029]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), section 19 and the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), Schedule 8, Part 2, paragraph 36.
 
-[^key-e15a22d9d0460393f5f2fe4e81d17e73]: Commencement: Sch. para. 1 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-e15a22d9d0460393f5f2fe4e81d17e73]: Commencement: Sch. para. 1 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
-[^key-16032617aab460fdfbd418d5f406ac96]: Commencement: Sch. para. 2 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-16032617aab460fdfbd418d5f406ac96]: Commencement: Sch. para. 2 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
 [^f00030]: Footnote: [S.I. 2023/246](https://www.legislation.gov.uk/uksi/2023/246).
 
 [^f00031]: Footnote: [S.I. 2022/1219](https://www.legislation.gov.uk/uksi/2022/1219).
 
-[^key-87e406dd5c93e340a1b087c079ff8558]: Commencement: Sch. para. 3 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-87e406dd5c93e340a1b087c079ff8558]: Commencement: Sch. para. 3 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
 [^f00032]: Footnote: [S.I. 1998/2514](https://www.legislation.gov.uk/uksi/1998/2514), amended by [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), [2001/1638](https://www.legislation.gov.uk/uksi/2001/1638), [2002/1650](https://www.legislation.gov.uk/uksi/2002/1650), [2004/302](https://www.legislation.gov.uk/uksi/2004/302), [2004/2884](https://www.legislation.gov.uk/uksi/2004/2884) and [2018/1221](https://www.legislation.gov.uk/uksi/2018/1221).
 
-[^key-39a1724ef671016a9f69bff6182c9be9]: Commencement: Sch. para. 4 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-39a1724ef671016a9f69bff6182c9be9]: Commencement: Sch. para. 4 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
 [^f00033]: Footnote: Merchant Shipping Notice 1837 (M) Amendment 2 is available on https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/855605/msn\_1837\_-amendment2\_june\_2017.pdf and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
@@ -805,29 +805,29 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00035]: Footnote: [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), amended by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302), [2010/680](https://www.legislation.gov.uk/uksi/2010/680), [2010/1075](https://www.legislation.gov.uk/uksi/2010/1075), [2012/2636](https://www.legislation.gov.uk/uksi/2012/2636), [2018/1221](https://www.legislation.gov.uk/uksi/2018/1221) and [2020/1222](https://www.legislation.gov.uk/uksi/2020/1222); there are other amending instruments but none is relevant.
 
-[^key-11fef21136abfb8aea405e3f4e15810b]: Commencement: Sch. para. 5 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-11fef21136abfb8aea405e3f4e15810b]: Commencement: Sch. para. 5 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
 [^f00036]: Footnote: [S.I. 2022/1219](https://www.legislation.gov.uk/uksi/2022/1219).
 
-[^key-7add6bc219691ef81e866ebc181ec879]: Commencement: Sch. para. 6 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-7add6bc219691ef81e866ebc181ec879]: Commencement: Sch. para. 6 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
-[^key-fbd61a4eef7d93e0a8682b98dd829720]: Commencement: Sch. para. 7 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-fbd61a4eef7d93e0a8682b98dd829720]: Commencement: Sch. para. 7 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
-[^key-c1eef62e9413e3595e1e129e7c5775af]: Commencement: Sch. para. 8 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-c1eef62e9413e3595e1e129e7c5775af]: Commencement: Sch. para. 8 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
-[^key-9588ed991f68b566f1f2d097ba9c34a0]: Commencement: Sch. para. 9 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-9588ed991f68b566f1f2d097ba9c34a0]: Commencement: Sch. para. 9 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
-[^key-86e0086da9f3416410dce5982838e71f]: Commencement: Sch. para. 10 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-86e0086da9f3416410dce5982838e71f]: Commencement: Sch. para. 10 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
 [^f00037]: Footnote: [S.I. 1997/1510](https://www.legislation.gov.uk/uksi/1997/1510), amended by [S.I. 1998/1916](https://www.legislation.gov.uk/uksi/1998/1916), [1999/3206](https://www.legislation.gov.uk/uksi/1999/3206) and [2020/362](https://www.legislation.gov.uk/uksi/2020/362); there are other amending instruments but none is relevant.
 
-[^key-dcbde98bea5d2861aade9bb9752de635]: Textual amendment: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2023/246/schedule/paragraph/11) revoked (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1195/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+[^c-dcbde98bea5d2861aade9bb9752de635]: Textual amendment: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2023/246/schedule/paragraph/11) revoked (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1195/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
 
-[^key-3f6cc690399559506f208515acd5d92f]: Commencement: Sch. para. 12 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-3f6cc690399559506f208515acd5d92f]: Commencement: Sch. para. 12 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
 [^f00039]: Footnote: [S.I. 1999/1869](https://www.legislation.gov.uk/uksi/1999/1869), to which there are amendments not relevant to these Regulations.
 
-[^key-82258ebe28e6accee93cd3cf2fd57186]: Commencement: Sch. para. 13 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
+[^c-82258ebe28e6accee93cd3cf2fd57186]: Commencement: Sch. para. 13 in force at 29.3.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1)
 
 [^f00040]: Footnote: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104), to which there are amendments not relevant to these Regulations.
 

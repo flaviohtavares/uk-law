@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 PUBLIC HEALTH
 
-The Marketing and Use of Dangerous Substances (No. 2) Regulations (Northern Ireland) 2003 (revoked)[^key-223ebff2afffee1360a3eb515a3145ff]
+The Marketing and Use of Dangerous Substances (No. 2) Regulations (Northern Ireland) 2003 (revoked)[^c-223ebff2afffee1360a3eb515a3145ff]
 
 Made
 
@@ -43,38 +43,38 @@ Coming into operation
 
 30th June 2003
 
-[^key-223ebff2afffee1360a3eb515a3145ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-223ebff2afffee1360a3eb515a3145ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-223ebff2afffee1360a3eb515a3145ff]
+## 1. Citation and commencement[^c-223ebff2afffee1360a3eb515a3145ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-223ebff2afffee1360a3eb515a3145ff]
+## 2. Interpretation[^c-223ebff2afffee1360a3eb515a3145ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition of the use of hexachloroethane in the manufacturing and processing of non-ferrous metals[^key-223ebff2afffee1360a3eb515a3145ff]
+## 3. Prohibition of the use of hexachloroethane in the manufacturing and processing of non-ferrous metals[^c-223ebff2afffee1360a3eb515a3145ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exception to the prohibition[^key-223ebff2afffee1360a3eb515a3145ff]
+## 4. Exception to the prohibition[^c-223ebff2afffee1360a3eb515a3145ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences and penalties[^key-223ebff2afffee1360a3eb515a3145ff]
+## 5. Offences and penalties[^c-223ebff2afffee1360a3eb515a3145ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-223ebff2afffee1360a3eb515a3145ff]
+## 6. Revocation[^c-223ebff2afffee1360a3eb515a3145ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-223ebff2afffee1360a3eb515a3145ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-223ebff2afffee1360a3eb515a3145ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-223ebff2afffee1360a3eb515a3145ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-223ebff2afffee1360a3eb515a3145ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-223ebff2afffee1360a3eb515a3145ff]: Textual amendment: regulations revoked (7.1.2007) by [The Controls on Dangerous Substances and Preparations Regulations 2006 (S.I. 2006/3311)](https://www.legislation.gov.uk/uksi/2006/3311), [reg. 18(1)](https://www.legislation.gov.uk/uksi/2006/3311/regulation/18/1), [Sch. 4 Pt. 3](https://www.legislation.gov.uk/uksi/2006/3311/schedule/4/part/3)
+[^c-223ebff2afffee1360a3eb515a3145ff]: Textual amendment: regulations revoked (7.1.2007) by [The Controls on Dangerous Substances and Preparations Regulations 2006 (S.I. 2006/3311)](https://www.legislation.gov.uk/uksi/2006/3311), [reg. 18(1)](https://www.legislation.gov.uk/uksi/2006/3311/regulation/18/1), [Sch. 4 Pt. 3](https://www.legislation.gov.uk/uksi/2006/3311/schedule/4/part/3)

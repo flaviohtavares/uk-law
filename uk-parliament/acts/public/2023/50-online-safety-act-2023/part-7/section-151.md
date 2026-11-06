@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. OFCOM’s guidance about enforcement action[^key-e7d08c7be716375c4b4d9d85fb21e5c4]
+## 151. OFCOM’s guidance about enforcement action[^c-e7d08c7be716375c4b4d9d85fb21e5c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 (4) Before producing the guidance (including revised or replacement guidance), OFCOM must consult—
 
 - (a) the Secretary of State,
-- (b) the Information Commission[^key-350771f573888af80a24c6a7cf8e98f9], and
+- (b) the Information Commission[^c-350771f573888af80a24c6a7cf8e98f9], and
 - (c) such other persons as OFCOM consider appropriate.
 
 (5) OFCOM must publish the guidance (and any revised or replacement guidance).
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e7d08c7be716375c4b4d9d85fb21e5c4]: Commencement: S. 151 in force at Royal Assent, see [s. 240(4)(t)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/t)
+[^c-e7d08c7be716375c4b4d9d85fb21e5c4]: Commencement: S. 151 in force at Royal Assent, see [s. 240(4)(t)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/t)
 
-[^key-350771f573888af80a24c6a7cf8e98f9]: Textual amendment: Words in [s. 151(4)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/151/4/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/1)[(2)(h)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/2/h); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-350771f573888af80a24c6a7cf8e98f9]: Textual amendment: Words in [s. 151(4)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/151/4/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/1)[(2)(h)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/2/h); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

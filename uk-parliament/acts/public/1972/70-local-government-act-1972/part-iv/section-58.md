@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 58. Commission’s reports and their implementation.[^key-0cb1e6ea6a301887b1138c314a1f0a5c]
+## 58. Commission’s reports and their implementation.[^c-0cb1e6ea6a301887b1138c314a1f0a5c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cb1e6ea6a301887b1138c314a1f0a5c]: Textual amendment: S. 58 repealed (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [s. 75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d), [Sch. 2](https://www.legislation.gov.uk/anaw/2013/4/schedule/2)
+[^c-0cb1e6ea6a301887b1138c314a1f0a5c]: Textual amendment: S. 58 repealed (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [s. 75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d), [Sch. 2](https://www.legislation.gov.uk/anaw/2013/4/schedule/2)

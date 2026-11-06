@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic
 
-The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2009 (revoked)[^key-f6655358816948d514b1db1ebc46bbbe]
+The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2009 (revoked)[^c-f6655358816948d514b1db1ebc46bbbe]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st August 2009
 
-[^key-f6655358816948d514b1db1ebc46bbbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6655358816948d514b1db1ebc46bbbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f6655358816948d514b1db1ebc46bbbe]
+## 1. Citation and commencement[^c-f6655358816948d514b1db1ebc46bbbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulations[^key-f6655358816948d514b1db1ebc46bbbe]
+## 2. Amendment of Regulations[^c-f6655358816948d514b1db1ebc46bbbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f6655358816948d514b1db1ebc46bbbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6655358816948d514b1db1ebc46bbbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f6655358816948d514b1db1ebc46bbbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6655358816948d514b1db1ebc46bbbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f6655358816948d514b1db1ebc46bbbe]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1806) revoked (25.6.2012) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2012 (S.I. 2012/1404)](https://www.legislation.gov.uk/uksi/2012/1404), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1404/regulation/1), [2](https://www.legislation.gov.uk/uksi/2012/1404/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/1404/schedule)
+[^c-f6655358816948d514b1db1ebc46bbbe]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1806) revoked (25.6.2012) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2012 (S.I. 2012/1404)](https://www.legislation.gov.uk/uksi/2012/1404), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1404/regulation/1), [2](https://www.legislation.gov.uk/uksi/2012/1404/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/1404/schedule)

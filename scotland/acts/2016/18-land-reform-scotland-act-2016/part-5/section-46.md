@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Eligible land[^key-342dc01aeed04ab3e003c1f4a67796b5]
+## 46. Eligible land[^c-342dc01aeed04ab3e003c1f4a67796b5]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-342dc01aeed04ab3e003c1f4a67796b5]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2016/18/section/46) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-342dc01aeed04ab3e003c1f4a67796b5]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2016/18/section/46) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

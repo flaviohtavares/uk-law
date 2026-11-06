@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Each board shall prepare a scheme specifying the procedure to be followed in relation to the suspension or expulsion of pupils from controlled schools[^key-2c4b5db1eb59f8c7e58e3eeee206f0a1] .
+(1) Each board shall prepare a scheme specifying the procedure to be followed in relation to the suspension or expulsion of pupils from controlled schools[^c-2c4b5db1eb59f8c7e58e3eeee206f0a1] .
 
 (2) The Council for Catholic Maintained Schools shall prepare a scheme specifying the procedure to be followed in relation to the suspension or expulsion of pupils from Catholic maintained schools.
 
@@ -35,12 +35,12 @@ shall prepare a scheme specifying the procedure to be followed in relation to th
 
 (5) In this Article “the expelling authority” means—
 
-- (a) in relation to a pupil in a controlled school, the Authority[^key-b411148a1ff6ad3f10e8cd22b37183f6] [^key-f8eb93afec1fd963e819509e3ee4dcf3]...; and
+- (a) in relation to a pupil in a controlled school, the Authority[^c-b411148a1ff6ad3f10e8cd22b37183f6] [^c-f8eb93afec1fd963e819509e3ee4dcf3]...; and
 - (b) in relation to a pupil in any other grant-aided school, the Board of Governors of the school.
 
 (6) Every board shall make arrangements for enabling—
 
-- (a) the parent of a pupil at a grant-aided school [^key-d3a6e5d948df26887249ae5f9387f0eb]...; or
+- (a) the parent of a pupil at a grant-aided school [^c-d3a6e5d948df26887249ae5f9387f0eb]...; or
 - (b) if the pupil has attained the age of 18 years, the pupil himself,
 
 to appeal against any decision of an expelling authority to expel the pupil from the school.
@@ -66,20 +66,20 @@ to appeal against any decision of an expelling authority to expel the pupil from
 
 (11) An appeal tribunal shall not be regarded as a committee of the Authority .
 
-(12) Article 79(1) shall apply to members of an appeal tribunal [^key-5a2871da407478815bae3a3259592c02]....
+(12) Article 79(1) shall apply to members of an appeal tribunal [^c-5a2871da407478815bae3a3259592c02]....
 
 ## Annotations
 
 [^c18623961]: Textual amendment: [1993 NI 12](https://www.legislation.gov.uk/nisi/1993)
 
-[^key-2c4b5db1eb59f8c7e58e3eeee206f0a1]: Textual amendment: Words in art. 49(1) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 9(11)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/9/11) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-2c4b5db1eb59f8c7e58e3eeee206f0a1]: Textual amendment: Words in art. 49(1) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 9(11)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/9/11) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-f8eb93afec1fd963e819509e3ee4dcf3]: Textual amendment: Words in art. 49(5)(a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-f8eb93afec1fd963e819509e3ee4dcf3]: Textual amendment: Words in art. 49(5)(a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-d3a6e5d948df26887249ae5f9387f0eb]: Textual amendment: Words in art. 49(6)(a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-d3a6e5d948df26887249ae5f9387f0eb]: Textual amendment: Words in art. 49(6)(a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17007641]: Textual amendment: [2003 NI 12](https://www.legislation.gov.uk/nisi/2003)
 
-[^key-5a2871da407478815bae3a3259592c02]: Textual amendment: Words in art. 49(12) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-5a2871da407478815bae3a3259592c02]: Textual amendment: Words in art. 49(12) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

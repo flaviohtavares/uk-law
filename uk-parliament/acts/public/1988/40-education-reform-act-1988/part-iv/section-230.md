@@ -32,12 +32,12 @@ summary: ''
 - [^c12681681]. . .
 - section 168(1) and (2);
 - section 180(1);
-- [^key-6c0cf929fb71e99a3151e5e617252695]...
+- [^c-6c0cf929fb71e99a3151e5e617252695]...
 - section 192;
-- [^key-aabd467289c3d3f2a89162b87ec73495]... and
+- [^c-aabd467289c3d3f2a89162b87ec73495]... and
 - section 228 (taken with Schedule 10).
 
-(2)[^c12681691] Subject to subsection (4) below, stamp duty shall not be chargeable in respect of any transfer to a local authority[^key-dd8a5cd1b7a66756b606dd2897e7636c] under or by virtue of section 95(6) or (7) or 101(2) of this Act of property which immediately after the transfer is held by the authority for the purposes of an institution (or institutions) falling within subsection (3) below.
+(2)[^c12681691] Subject to subsection (4) below, stamp duty shall not be chargeable in respect of any transfer to a local authority[^c-dd8a5cd1b7a66756b606dd2897e7636c] under or by virtue of section 95(6) or (7) or 101(2) of this Act of property which immediately after the transfer is held by the authority for the purposes of an institution (or institutions) falling within subsection (3) below.
 
 (3)[^c12681691] An institution falls within this subsection if it is—
 
@@ -67,13 +67,13 @@ shall be treated as duly stamped unless it is stamped with the duty to which it 
 
 [^c12681681]: Textual amendment: Words in s. 230(1) repealed (1. 4. 1993) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 93](https://www.legislation.gov.uk/ukpga/1992/13/section/93), [Sch. 8 Pt. I para. 55(a)](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8/part/I/paragraph/55/a), [Sch. 9](https://www.legislation.gov.uk/ukpga/1992/13/schedule/9); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3).
 
-[^key-6c0cf929fb71e99a3151e5e617252695]: Textual amendment: Words in s. 230 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 4
+[^c-6c0cf929fb71e99a3151e5e617252695]: Textual amendment: Words in s. 230 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 4
 
-[^key-aabd467289c3d3f2a89162b87ec73495]: Textual amendment: Words in s. 230(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-aabd467289c3d3f2a89162b87ec73495]: Textual amendment: Words in s. 230(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
 
 [^c12681691]: Textual amendment: S. 230(2)(3)(4b) repealed (1.4.1994) by [1993 c. 35](https://www.legislation.gov.uk/ukpga/1993/35), [s. 307(1)(3)](https://www.legislation.gov.uk/ukpga/1993/35/section/307/1/3), [Sch. 19 para. 137(b)](https://www.legislation.gov.uk/ukpga/1993/35/schedule/19/paragraph/137/b), [Sch. 21](https://www.legislation.gov.uk/ukpga/1993/35/schedule/21), [Pt. I](https://www.legislation.gov.uk/ukpga/1993/35/part/I); [S.I. 1994/507](https://www.legislation.gov.uk/uksi/1994/507), [art. 4](https://www.legislation.gov.uk/uksi/1994/507/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1994/507/schedule/2), Appendix.
 
-[^key-dd8a5cd1b7a66756b606dd2897e7636c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/2)
+[^c-dd8a5cd1b7a66756b606dd2897e7636c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/2)
 
 [^c12681711]: Textual amendment: S. 230(3)(b) substituted (1. 4. 1993) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 93(1)](https://www.legislation.gov.uk/ukpga/1992/13/section/93/1), [Sch. 8 Pt. I para. 55(b)(i)](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8/part/I/paragraph/55/b/i); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3).
 

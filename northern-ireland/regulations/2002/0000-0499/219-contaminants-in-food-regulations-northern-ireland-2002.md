@@ -41,15 +41,15 @@ Coming into Force
 
 The Department of Health, Social Services and Public Safety[^f00001] in exercise of the powers conferred on it by Articles 15(1)(a) and (f), 16(2), 25(1)(a) and (3), 26(3) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00002] and of all other powers enabling it in that behalf, having had regard in accordance with Article 47(3A) of the said Order to relevant advice given by the Food Standards Agency and after consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003] and in accordance with Article 47(3) and (3B) of the said Order, hereby makes the following Regulations:—
 
-## 1. Citation and commencement[^key-467b6c4934d0c0313c97638a27a4a69a]
+## 1. Citation and commencement[^c-467b6c4934d0c0313c97638a27a4a69a]
 
 These Regulations may be cited as the Contaminants in Food Regulations (Northern Ireland) 2002 and shall come into operation on 29th July 2002.
 
-## 2. Interpretation[^key-b97f55caf89da34c0dfb929e4614c31c]
+## 2. Interpretation[^c-b97f55caf89da34c0dfb929e4614c31c]
 
 (1) In these Regulations—
 
-- “the Commission Regulation” means Commission Regulation[^key-62edf772d48d6a3205b46fd27d4aa799] [(EC) No. 466/2001](https://www.legislation.gov.uk/european/regulation/2001/0466) setting maximum levels for certain contaminants in foodstuffs[^f00005] as amended by Commission Regulation [(EC) No. 221/2002](https://www.legislation.gov.uk/european/regulation/2002/0221)[^f00006], Commission Regulation [(EC) No. 257/2002](https://www.legislation.gov.uk/european/regulation/2002/0257)[^f00007], Commission Regulation [(EC) No. 472/2002](https://www.legislation.gov.uk/european/regulation/2002/0472)[^f00008] as corrected by a corrigendum published on 23rd March 2002[^f00009], and Commission Regulation [(EC) No. 563/2002](https://www.legislation.gov.uk/european/regulation/2002/0563)[^f00010] as corrected by a corrigendum published on 14th June 2002[^f00011];
+- “the Commission Regulation” means Commission Regulation[^c-62edf772d48d6a3205b46fd27d4aa799] [(EC) No. 466/2001](https://www.legislation.gov.uk/european/regulation/2001/0466) setting maximum levels for certain contaminants in foodstuffs[^f00005] as amended by Commission Regulation [(EC) No. 221/2002](https://www.legislation.gov.uk/european/regulation/2002/0221)[^f00006], Commission Regulation [(EC) No. 257/2002](https://www.legislation.gov.uk/european/regulation/2002/0257)[^f00007], Commission Regulation [(EC) No. 472/2002](https://www.legislation.gov.uk/european/regulation/2002/0472)[^f00008] as corrected by a corrigendum published on 23rd March 2002[^f00009], and Commission Regulation [(EC) No. 563/2002](https://www.legislation.gov.uk/european/regulation/2002/0563)[^f00010] as corrected by a corrigendum published on 14th June 2002[^f00011];
 - “Directive 85/591/EEC” means Council Directive [85/591/EEC](https://www.legislation.gov.uk/european/directive/1985/0591) concerning the introduction of Community methods of sampling and analysis for the monitoring of foodstuffs intended for human consumption[^f00011];
 - “Directive 93/99/EEC” means Council Directive [93/99/EEC](https://www.legislation.gov.uk/european/directive/1993/0099) on the subject of additional measures concerning the official control of foodstuffs[^f00012];
 - “Directive 98/53/EC” means Commission Directive [98/53/EC](https://www.legislation.gov.uk/european/directive/1998/0053) laying down the sampling methods and the methods of analysis for the official control of the levels for certain contaminants in foodstuffs[^f00013] as amended by Commission Directive [2002/27/EC](https://www.legislation.gov.uk/european/directive/2002/0027)[^f00014];
@@ -61,7 +61,7 @@ These Regulations may be cited as the Contaminants in Food Regulations (Northern
 
 (2) Other expressions used in these Regulations and in the Commission Regulation have the same meaning as in the Commission Regulation.
 
-## 3. Offences and penalties[^key-4f5770ac7edac5a32dd4d3187c7f9568]
+## 3. Offences and penalties[^c-4f5770ac7edac5a32dd4d3187c7f9568]
 
 (1) Subject to regulations 8 and 9, a person shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale if—
 
@@ -78,11 +78,11 @@ These Regulations may be cited as the Contaminants in Food Regulations (Northern
 - (a) “authorised spinach” means spinach of the kind specified in point 1.1 of section 1 of Annex I to the Commission Regulation, which is grown in the United Kingdom in accordance with the proviso to Article 3.1 of that Regulation and is intended for human consumption there; and
 - (b) “authorised lettuce” means lettuce of the kind specified in point 1.3 or in point 1.4 of section 1 of Annex I to the Commission Regulation, which is grown in the United Kingdom in accordance with the proviso to Article 3.1 of that Regulation and is intended for human consumption there.
 
-## 4. Enforcement[^key-674b160f9edfdfbd8f942686a6984bd2]
+## 4. Enforcement[^c-674b160f9edfdfbd8f942686a6984bd2]
 
 Each district council shall enforce and execute these Regulations within its district.
 
-## 5. Sampling, analysis and modification of Article 29 of the Order[^key-e8303a003947fdff2b509b3c927827e7]
+## 5. Sampling, analysis and modification of Article 29 of the Order[^c-e8303a003947fdff2b509b3c927827e7]
 
 (1) In its application to the taking of a sample of any food specified in sections 1 to 4 of Annex I to the Commission Regulation, Article 29 of the Order shall be modified so as to limit the power to take samples under paragraphs (b) and (d) of that Article to the taking of samples in accordance with the methods of taking samples described or referred to—
 
@@ -131,14 +131,14 @@ Each district council shall enforce and execute these Regulations within its dis
   - (i) makes use of the definitions in paragraph 3.1 of Annex II to Directive 2001/22/EC as read with the note thereto, and
   - (ii) is in accordance with the third sub-paragraph of paragraph 3.4 and with paragraph 3.6 of that Annex.
 
-## 6. Defence in relation to exports[^key-3b149bfe17523f4679dfd5c1751dce86]
+## 6. Defence in relation to exports[^c-3b149bfe17523f4679dfd5c1751dce86]
 
 In any proceedings for an offence consisting of a contravention of regulation 3 it shall be a defence for the accused to prove—
 
 - (a) that the food in respect of which the offence is alleged to have been committed was intended for export to a country which has legislation analogous to these Regulations and that it complies with that legislation; and
 - (b) in the case of export to an EEA State, that the legislation complies with the Commission Regulation.
 
-## 7. Application of various provisions of the Order[^key-07008ad26e2057fc16cd35964e94ca23]
+## 7. Application of various provisions of the Order[^c-07008ad26e2057fc16cd35964e94ca23]
 
 (1) The following provisions of the Order shall apply for the purposes of these Regulations and any reference in them to the Order shall be construed as a reference to these Regulations—
 
@@ -192,13 +192,13 @@ In any proceedings for an offence consisting of a contravention of regulation 3 
 
 (4) Articles 2(4) and 3 of the Order (extended meaning of “sale” etc.) shall apply in relation to Article 8 of the Order so far as it applies for the purposes of these Regulations by virtue of paragraph (2).
 
-## 8. Transitional provisions[^key-bd7864310e22b3ae82ac6844aaa33506]
+## 8. Transitional provisions[^c-bd7864310e22b3ae82ac6844aaa33506]
 
 Regulation 3(1)(a)(i) and (b)(i) shall not apply in relation to any food lawfully placed on the market in the European Community before 5th April 2002 which is covered by, but fails to meet the requirements of, Article 1.1, 2.1 or 2.2 of the Commission Regulation, as read with Article 1.2 of that Regulation, to the extent that the failure consists in the food being placed on the market containing a contaminant specified in section 3 or 4 of Annex I to that Regulation at a level higher than that specified in the second column of the section concerned.
 
-**9.**[^key-726e99e18fcd38cad61cac7f9adddefb] Regulation 3(1)(a)(ii) and (b)(ii) shall not apply in relation to any contravention of Article 2.3 of the Commission Regulation, to the extent that the contravention consists in the use as a food ingredient, for the production of a compound foodstuff, of food lawfully placed on the market in the European Community before 5th April 2002 and containing a contaminant specified in section 3 or 4 of Annex I to that Regulation at a level higher than that specified in the second column of the section concerned.
+**9.**[^c-726e99e18fcd38cad61cac7f9adddefb] Regulation 3(1)(a)(ii) and (b)(ii) shall not apply in relation to any contravention of Article 2.3 of the Commission Regulation, to the extent that the contravention consists in the use as a food ingredient, for the production of a compound foodstuff, of food lawfully placed on the market in the European Community before 5th April 2002 and containing a contaminant specified in section 3 or 4 of Annex I to that Regulation at a level higher than that specified in the second column of the section concerned.
 
-## 10. Revocations[^key-2475e30aee776e12ac55e596a4943913]
+## 10. Revocations[^c-2475e30aee776e12ac55e596a4943913]
 
 The statutory provisions specified in column 1 of the Schedule shall be revoked to the extent specified in column 2 of the Schedule.
 
@@ -210,7 +210,7 @@ A Senior Officer of the
 
 Department of Health, Social Services and Public Safety
 
-## SCHEDULE — REVOCATIONS[^key-3ed2b656cfa9798cc02a5248ee544c7d]
+## SCHEDULE — REVOCATIONS[^c-3ed2b656cfa9798cc02a5248ee544c7d]
 
 Regulation 10
 
@@ -266,11 +266,11 @@ The Regulations—
 
 [^f00003]: Footnote: O.J. No. L31, 1.2.2002, p. 1.
 
-[^key-467b6c4934d0c0313c97638a27a4a69a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
+[^c-467b6c4934d0c0313c97638a27a4a69a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
 
-[^key-b97f55caf89da34c0dfb929e4614c31c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/219/regulation/2) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
+[^c-b97f55caf89da34c0dfb929e4614c31c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/219/regulation/2) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
 
-[^key-62edf772d48d6a3205b46fd27d4aa799]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2002/219/regulation/2/1) substituted (8.8.2002) by [Contaminants in Food (Amendment) Regulations (Northern Ireland) 2002 (S.R. 2002/262)](https://www.legislation.gov.uk/nisr/2002/262), [regs. 1](https://www.legislation.gov.uk/nisr/2002/262/regulation/1), [2](https://www.legislation.gov.uk/nisr/2002/262/regulation/2)
+[^c-62edf772d48d6a3205b46fd27d4aa799]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2002/219/regulation/2/1) substituted (8.8.2002) by [Contaminants in Food (Amendment) Regulations (Northern Ireland) 2002 (S.R. 2002/262)](https://www.legislation.gov.uk/nisr/2002/262), [regs. 1](https://www.legislation.gov.uk/nisr/2002/262/regulation/1), [2](https://www.legislation.gov.uk/nisr/2002/262/regulation/2)
 
 [^f00005]: Footnote: O.J. No. L321, 6.12.2001, p. 1.
 
@@ -298,24 +298,24 @@ The Regulations—
 
 [^f00017]: Footnote: O.J. No. L75, 16.3.2002, p. 38
 
-[^key-4f5770ac7edac5a32dd4d3187c7f9568]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/219/regulation/3) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
+[^c-4f5770ac7edac5a32dd4d3187c7f9568]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/219/regulation/3) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
 
-[^key-674b160f9edfdfbd8f942686a6984bd2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/219/regulation/4) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
+[^c-674b160f9edfdfbd8f942686a6984bd2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/219/regulation/4) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
 
-[^key-e8303a003947fdff2b509b3c927827e7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2002/219/regulation/5) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
+[^c-e8303a003947fdff2b509b3c927827e7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2002/219/regulation/5) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
 
 [^f00018]: Footnote: O.J. No. L207, 15.8.1979, p. 26
 
-[^key-3b149bfe17523f4679dfd5c1751dce86]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2002/219/regulation/6) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
+[^c-3b149bfe17523f4679dfd5c1751dce86]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2002/219/regulation/6) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
 
-[^key-07008ad26e2057fc16cd35964e94ca23]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2002/219/regulation/7) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
+[^c-07008ad26e2057fc16cd35964e94ca23]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2002/219/regulation/7) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
 
 [^f00019]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23)
 
-[^key-bd7864310e22b3ae82ac6844aaa33506]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2002/219/regulation/8) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
+[^c-bd7864310e22b3ae82ac6844aaa33506]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2002/219/regulation/8) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
 
-[^key-726e99e18fcd38cad61cac7f9adddefb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2002/219/regulation/9) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
+[^c-726e99e18fcd38cad61cac7f9adddefb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2002/219/regulation/9) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
 
-[^key-2475e30aee776e12ac55e596a4943913]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2002/219/regulation/10) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
+[^c-2475e30aee776e12ac55e596a4943913]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2002/219/regulation/10) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
 
-[^key-3ed2b656cfa9798cc02a5248ee544c7d]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2002/219/schedule) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)
+[^c-3ed2b656cfa9798cc02a5248ee544c7d]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2002/219/schedule) in operation at 29.7.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1)

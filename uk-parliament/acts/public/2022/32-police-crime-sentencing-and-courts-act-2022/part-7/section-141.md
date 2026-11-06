@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Increase in driving disqualification periods under certain existing orders: England and Wales[^key-81ec1f104d1061bf31d60407c536d37d]
+## 141. Increase in driving disqualification periods under certain existing orders: England and Wales[^c-81ec1f104d1061bf31d60407c536d37d]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ and “appropriate extension period”, “driving disqualification order” and
 
 ## Annotations
 
-[^key-81ec1f104d1061bf31d60407c536d37d]: Commencement: S. 141 in force at Royal Assent, see [s. 208(4)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/q)
+[^c-81ec1f104d1061bf31d60407c536d37d]: Commencement: S. 141 in force at Royal Assent, see [s. 208(4)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/q)

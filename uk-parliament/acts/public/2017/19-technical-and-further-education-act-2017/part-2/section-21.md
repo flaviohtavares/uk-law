@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Appointment of two or more education administrators[^key-1bb6c17c514af19ee3d2ba53b97903f7]
+## 21. Appointment of two or more education administrators[^c-1bb6c17c514af19ee3d2ba53b97903f7]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ If an education administration order appoints two or more persons as the educati
 
 ## Annotations
 
-[^key-1bb6c17c514af19ee3d2ba53b97903f7]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/19/section/21) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-1bb6c17c514af19ee3d2ba53b97903f7]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/19/section/21) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

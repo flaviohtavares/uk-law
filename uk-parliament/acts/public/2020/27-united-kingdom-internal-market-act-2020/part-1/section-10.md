@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Further exclusions from market access principles[^key-c8feb2d0a62ba9939c203807af7fcda3]
+## 10. Further exclusions from market access principles[^c-c8feb2d0a62ba9939c203807af7fcda3]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8feb2d0a62ba9939c203807af7fcda3]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2020/27/section/10) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)
+[^c-c8feb2d0a62ba9939c203807af7fcda3]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2020/27/section/10) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)

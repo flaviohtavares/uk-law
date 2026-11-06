@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Permitted leases[^key-23458cbcbcf89b0b8dba5f1165af446d]
+## 7. Permitted leases[^c-23458cbcbcf89b0b8dba5f1165af446d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ A lease is a “permitted lease” if—
 
 ## Annotations
 
-[^key-23458cbcbcf89b0b8dba5f1165af446d]: Commencement: S. 7 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-23458cbcbcf89b0b8dba5f1165af446d]: Commencement: S. 7 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

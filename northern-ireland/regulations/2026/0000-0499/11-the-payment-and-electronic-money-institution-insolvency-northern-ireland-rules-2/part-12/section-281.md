@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 281. Charges for copy documents[^key-a36fbe131fb01707feab27c78bbe76f5]
+## 281. Charges for copy documents[^c-a36fbe131fb01707feab27c78bbe76f5]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Except where prohibited by these Rules, the administrator is entitled to require
 
 ## Annotations
 
-[^key-a36fbe131fb01707feab27c78bbe76f5]: Commencement: [Rule 281](https://www.legislation.gov.uk/nisr/2026/11/rule/281) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-a36fbe131fb01707feab27c78bbe76f5]: Commencement: [Rule 281](https://www.legislation.gov.uk/nisr/2026/11/rule/281) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

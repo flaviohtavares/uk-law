@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98A.. Exercise of functions[^key-693a6a02e89a4356d581904e78f9f26b]
+## 98A.. Exercise of functions[^c-693a6a02e89a4356d581904e78f9f26b]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-693a6a02e89a4356d581904e78f9f26b]: Textual amendment: [S. 98A](https://www.legislation.gov.uk/ukpga/2006/41/section/98A) and cross-heading inserted (27.3.2012 for specified purposes) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 49(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/49/1), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4)
+[^c-693a6a02e89a4356d581904e78f9f26b]: Textual amendment: [S. 98A](https://www.legislation.gov.uk/ukpga/2006/41/section/98A) and cross-heading inserted (27.3.2012 for specified purposes) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 49(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/49/1), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4)

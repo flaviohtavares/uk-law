@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Looked after 2 year olds: alternative arrangements to meet wellbeing needs[^key-af167dd854ab6fd3b1c0e979959b591b]
+## 49. Looked after 2 year olds: alternative arrangements to meet wellbeing needs[^c-af167dd854ab6fd3b1c0e979959b591b]
 
 *Extent: S*
 
 (1) Subsection (2) applies where—
 
-- (a) an authority's duty under section 47(1) applies in relation to a child only by virtue of the child falling within section 47(3)(a)(i)[^key-2c83af61151bdc51393e7c31fd02f952],
+- (a) an authority's duty under section 47(1) applies in relation to a child only by virtue of the child falling within section 47(3)(a)(i)[^c-2c83af61151bdc51393e7c31fd02f952],
 - (b) the authority, after assessing the child's needs, considers that making alternative arrangements in relation to the child's education and care would better safeguard or promote the child's wellbeing.
 
 (2) Where this subsection applies, the authority—
@@ -43,6 +43,6 @@ is included in any child's plan which is prepared for the child under Part 5.
 
 ## Annotations
 
-[^key-af167dd854ab6fd3b1c0e979959b591b]: Commencement: S. 49 in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/131/article/3))
+[^c-af167dd854ab6fd3b1c0e979959b591b]: Commencement: S. 49 in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/131/article/3))
 
-[^key-2c83af61151bdc51393e7c31fd02f952]: Textual amendment: Words in [s. 49(1)(a)](https://www.legislation.gov.uk/asp/2014/8/section/49/1/a) substituted (1.8.2016) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 29(3)](https://www.legislation.gov.uk/asp/2016/8/section/29/3), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
+[^c-2c83af61151bdc51393e7c31fd02f952]: Textual amendment: Words in [s. 49(1)(a)](https://www.legislation.gov.uk/asp/2014/8/section/49/1/a) substituted (1.8.2016) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 29(3)](https://www.legislation.gov.uk/asp/2016/8/section/29/3), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)

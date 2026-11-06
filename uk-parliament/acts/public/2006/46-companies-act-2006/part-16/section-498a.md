@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 498A. Auditor's duties in relation to separate corporate governance statement[^c20598981][^c20599031][^c20617851][^key-64e59957c328355f1031d968c70a6d9f][^c20593561]
+## 498A. Auditor's duties in relation to separate corporate governance statement[^c20598981][^c20599031][^c20617851][^c-64e59957c328355f1031d968c70a6d9f][^c20593561]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ Where the company is required to prepare a corporate governance statement in res
 
 [^c20617851]: Modification: Ss. 484-539 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/11) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-64e59957c328355f1031d968c70a6d9f]: Modification: Ss. 498-501 applied (with modifications) (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/7/1) (with [reg. 11](https://www.legislation.gov.uk/uksi/2015/1493/regulation/11))
+[^c-64e59957c328355f1031d968c70a6d9f]: Modification: Ss. 498-501 applied (with modifications) (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/7/1) (with [reg. 11](https://www.legislation.gov.uk/uksi/2015/1493/regulation/11))
 
 [^c20593561]: Textual amendment: S. 498A inserted (27.6.2009) by [The Companies Act 2006 (Accounts, Reports and Audit) Regulations 2009 (S.I. 2009/1581)](https://www.legislation.gov.uk/uksi/2009/1581), [reg. 7](https://www.legislation.gov.uk/uksi/2009/1581/regulation/7) (with application as stated in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2009/1581/regulation/1/3))

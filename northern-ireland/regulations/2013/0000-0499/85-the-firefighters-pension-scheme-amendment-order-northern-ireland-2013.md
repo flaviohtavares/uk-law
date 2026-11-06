@@ -34,7 +34,7 @@ Fire And Rescue Services
 
 Pensions
 
-The Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2013 (revoked)[^key-a72d804cae12e3300cdee7843125964e]
+The Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2013 (revoked)[^c-a72d804cae12e3300cdee7843125964e]
 
 Made
 
@@ -44,28 +44,28 @@ Coming into operation
 
 1st April 2013
 
-[^key-a72d804cae12e3300cdee7843125964e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a72d804cae12e3300cdee7843125964e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a72d804cae12e3300cdee7843125964e]
+## 1. Citation and commencement[^c-a72d804cae12e3300cdee7843125964e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Firefighters' Pension Scheme Order (Northern Ireland) 2007[^key-a72d804cae12e3300cdee7843125964e]
+## 2. Amendment of the Firefighters' Pension Scheme Order (Northern Ireland) 2007[^c-a72d804cae12e3300cdee7843125964e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-a72d804cae12e3300cdee7843125964e]
+## 3.[^c-a72d804cae12e3300cdee7843125964e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a72d804cae12e3300cdee7843125964e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a72d804cae12e3300cdee7843125964e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a72d804cae12e3300cdee7843125964e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a72d804cae12e3300cdee7843125964e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a72d804cae12e3300cdee7843125964e]: Textual amendment: Order revoked (1.4.2014) by [The Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2014 (S.R. 2014/56)](https://www.legislation.gov.uk/nisr/2014/56), [arts. 1](https://www.legislation.gov.uk/nisr/2014/56/article/1), [4](https://www.legislation.gov.uk/nisr/2014/56/article/4)
+[^c-a72d804cae12e3300cdee7843125964e]: Textual amendment: Order revoked (1.4.2014) by [The Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2014 (S.R. 2014/56)](https://www.legislation.gov.uk/nisr/2014/56), [arts. 1](https://www.legislation.gov.uk/nisr/2014/56/article/1), [4](https://www.legislation.gov.uk/nisr/2014/56/article/4)

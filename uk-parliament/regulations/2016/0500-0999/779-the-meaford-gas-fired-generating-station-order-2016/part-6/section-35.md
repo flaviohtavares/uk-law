@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Procedure in relation to certain approvals[^key-3c3c3d1d1cf59bbfdc01e3bcfde69946]
+## 35. Procedure in relation to certain approvals[^c-3c3c3d1d1cf59bbfdc01e3bcfde69946]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c3c3d1d1cf59bbfdc01e3bcfde69946]: Commencement: Art. 35 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)
+[^c-3c3c3d1d1cf59bbfdc01e3bcfde69946]: Commencement: Art. 35 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)

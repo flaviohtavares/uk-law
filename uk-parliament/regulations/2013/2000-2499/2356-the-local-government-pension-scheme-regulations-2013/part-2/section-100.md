@@ -37,10 +37,10 @@ summary: ''
 
 (7) Where a request under paragraph (1) is duly made, the administering authority may accept the transfer value and credit it to its pension fund.
 
-(8)[^key-705f4b2733f6ebc571d94ddcbc0a6d00] Where a relevant transfer is a Club Transfer, the administering authority must comply with the provisions in the Club Memorandum in relation to that transfer.
+(8)[^c-705f4b2733f6ebc571d94ddcbc0a6d00] Where a relevant transfer is a Club Transfer, the administering authority must comply with the provisions in the Club Memorandum in relation to that transfer.
 
 ## Annotations
 
 [^c21900561]: Marginal citation: Section 19 was amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), 2005/2050 and 2007/3014.
 
-[^key-705f4b2733f6ebc571d94ddcbc0a6d00]: Textual amendment: [Reg. 100(8)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/100/8) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2018/493/regulation/16)
+[^c-705f4b2733f6ebc571d94ddcbc0a6d00]: Textual amendment: [Reg. 100(8)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/100/8) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2018/493/regulation/16)

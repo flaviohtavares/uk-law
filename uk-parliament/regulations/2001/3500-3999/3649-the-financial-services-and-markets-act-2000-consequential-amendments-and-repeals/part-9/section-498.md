@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 498. Enforcement[^key-10c936c65769a00806dff413a77f854e]
+## 498. Enforcement[^c-10c936c65769a00806dff413a77f854e]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ In regulation 49 of the Credit Institutions (Protection of Depositors) Regulatio
 
 ## Annotations
 
-[^key-10c936c65769a00806dff413a77f854e]: Commencement: Art. 498 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-10c936c65769a00806dff413a77f854e]: Commencement: Art. 498 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

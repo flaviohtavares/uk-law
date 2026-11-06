@@ -35,14 +35,14 @@ concluding the Agreement on the International Carriage of Passengers by Road by 
 
 (82/505/EEC) (revoked)
 
-[^key-0de77ab78addebda04ca890b7bd2a39f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0de77ab78addebda04ca890b7bd2a39f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-0de77ab78addebda04ca890b7bd2a39f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-0de77ab78addebda04ca890b7bd2a39f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-0de77ab78addebda04ca890b7bd2a39f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-0de77ab78addebda04ca890b7bd2a39f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0de77ab78addebda04ca890b7bd2a39f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0de77ab78addebda04ca890b7bd2a39f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0de77ab78addebda04ca890b7bd2a39f]: Textual amendment: Decision revoked (31.12.2020) by The Common Rules for Access to the [International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/741/regulation/11/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0de77ab78addebda04ca890b7bd2a39f]: Textual amendment: Decision revoked (31.12.2020) by The Common Rules for Access to the [International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/741/regulation/11/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

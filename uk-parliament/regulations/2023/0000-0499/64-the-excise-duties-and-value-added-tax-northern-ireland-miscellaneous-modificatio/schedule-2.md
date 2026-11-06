@@ -24,7 +24,7 @@ Regulation 3
 
 ### PART 1 — Amendments relating to the Northern Ireland Modifications of the Excise Goods (Holding, Movement and Duty Point) Regulations 2010
 
-**1.**[^key-b9c526c3941abcbd96807bef0ee98d46] In regulation 5—
+**1.**[^c-b9c526c3941abcbd96807bef0ee98d46] In regulation 5—
 
 - (a) before paragraph (a) insert—
 
@@ -190,7 +190,7 @@ Regulation 3
 
   .
 
-**2.**[^key-0c135d2e393c64b2b5a54d9af71b5150] After regulation 5 insert—
+**2.**[^c-0c135d2e393c64b2b5a54d9af71b5150] After regulation 5 insert—
 
 > **5A.** For regulation 3(2) substitute—
 >
@@ -207,7 +207,7 @@ Regulation 3
 
 .
 
-**3.**[^key-2dc496ee8e7b699a78631538f0ce9d1e] For regulation 6 substitute—
+**3.**[^c-2dc496ee8e7b699a78631538f0ce9d1e] For regulation 6 substitute—
 
 > **6.** In regulation 3(3)—
 >
@@ -235,7 +235,7 @@ Regulation 3
 
 .
 
-**4.**[^key-ad6ac4d96697c27b024a3ce966f62acf] In regulation 8—
+**4.**[^c-ad6ac4d96697c27b024a3ce966f62acf] In regulation 8—
 
 - (a) omit paragraph (b)(iii) and (iv);
 - (b) for paragraph (c) substitute—
@@ -259,13 +259,13 @@ Regulation 3
 
   .
 
-**5.**[^key-85a37a3ab155dc3e74240c5a37637fe0] In regulation 9 after paragraph (b)(ii) insert—
+**5.**[^c-85a37a3ab155dc3e74240c5a37637fe0] In regulation 9 after paragraph (b)(ii) insert—
 
 > - (c) in paragraph (4) for “Article 10(6)” substitute “Article 9(6)”.
 
 .
 
-**6.**[^key-78a0e193990c9b6a1179c4422ee9a15e] For regulation 12 substitute—
+**6.**[^c-78a0e193990c9b6a1179c4422ee9a15e] For regulation 12 substitute—
 
 > **12.** In regulation 9—
 >
@@ -288,7 +288,7 @@ Regulation 3
 
 .
 
-**7.**[^key-b57a69363741e92e50f03d5cd49582cc] For regulation 14 substitute—
+**7.**[^c-b57a69363741e92e50f03d5cd49582cc] For regulation 14 substitute—
 
 > **14.** In regulation 13, for paragraphs (1) to (3) substitute—
 >
@@ -309,7 +309,7 @@ Regulation 3
 
 .
 
-**8.**[^key-927d2a6679ab4c4fc1e3501e3814a529] For regulation 17 substitute—
+**8.**[^c-927d2a6679ab4c4fc1e3501e3814a529] For regulation 17 substitute—
 
 > **17.** In regulation 16(2) and (3)—
 >
@@ -318,7 +318,7 @@ Regulation 3
 
 .
 
-**9.**[^key-bcce19718d57321680e93343f0c649fb] For regulation 18 substitute—
+**9.**[^c-bcce19718d57321680e93343f0c649fb] For regulation 18 substitute—
 
 > **18.** In regulation 17—
 >
@@ -331,7 +331,7 @@ Regulation 3
 
 .
 
-**10.**[^key-5d99dbedabb4de95c6dcf127d96e14b8] In regulation 19—
+**10.**[^c-5d99dbedabb4de95c6dcf127d96e14b8] In regulation 19—
 
 - (a) before sub-paragraph (a) insert—
 
@@ -347,7 +347,7 @@ Regulation 3
 - (d) omit sub-paragraph (d)(iii);
 - (e) in sub-paragraph (e), after “paragraph (7)(b)” insert “and (c)”.
 
-**11.**[^key-959034ec2219ab5da008f1762a88336d] For regulation 20 substitute—
+**11.**[^c-959034ec2219ab5da008f1762a88336d] For regulation 20 substitute—
 
 > **20.** In regulation 21—
 >
@@ -381,7 +381,7 @@ Regulation 3
 
 .
 
-**12.**[^key-9c8caa4befc8de35bc6e85e2251aee6b] After regulation 20 insert—
+**12.**[^c-9c8caa4befc8de35bc6e85e2251aee6b] After regulation 20 insert—
 
 > **20A.** After regulation 21 insert
 >
@@ -416,7 +416,7 @@ Regulation 3
 
 .
 
-**13.**[^key-d690326dc4913b17491994ace9ea61ab] For regulation 25 substitute—
+**13.**[^c-d690326dc4913b17491994ace9ea61ab] For regulation 25 substitute—
 
 > **25.** In regulation 25 for “UK” substitute “NI”.
 >
@@ -427,12 +427,12 @@ Regulation 3
 
 .
 
-**14.**[^key-94fb4af40c0996ef8ecd02db1bf7cb9e] In regulation 29(a)(iii)—
+**14.**[^c-94fb4af40c0996ef8ecd02db1bf7cb9e] In regulation 29(a)(iii)—
 
 - (a) omit “in paragraph (1)”;
 - (b) for “Article 201 of Regulation 952/2013 (EU)” substitute “Article 201 of the Union Customs Code Regulation”.
 
-**15.**[^key-5c885fb8d5fb66089b1d684f60ede9ef] After regulation 30 insert—
+**15.**[^c-5c885fb8d5fb66089b1d684f60ede9ef] After regulation 30 insert—
 
 > **30A.** After regulation 33 insert
 >
@@ -585,7 +585,7 @@ Regulation 3
 
 .
 
-**16.**[^key-b89bc3324b0a005ed5abe035cb7dd02a] In regulation 32—
+**16.**[^c-b89bc3324b0a005ed5abe035cb7dd02a] In regulation 32—
 
 - (a) after paragraph (c) insert—
 
@@ -598,7 +598,7 @@ Regulation 3
   ;
 - (b) in paragraph (e), for “Northern Ireland” substitute “NI”.
 
-**17.**[^key-22ef39a8c8ade1effbc147da890ba7e1] In regulation 35—
+**17.**[^c-22ef39a8c8ade1effbc147da890ba7e1] In regulation 35—
 
 - (a) omit paragraph (a);
 - (b) before paragraph (b) insert—
@@ -618,7 +618,7 @@ Regulation 3
 
   .
 
-**18.**[^key-bad5a2081d5da3095e49f78be537e7d6] After regulation 35 insert—
+**18.**[^c-bad5a2081d5da3095e49f78be537e7d6] After regulation 35 insert—
 
 > **35A.** After regulation 39 insert—
 >
@@ -643,7 +643,7 @@ Regulation 3
 
 .
 
-**19.**[^key-b3f486037b0ded7840c436ac6095c445] For regulation 36 substitute—
+**19.**[^c-b3f486037b0ded7840c436ac6095c445] For regulation 36 substitute—
 
 > **36.** For regulation 40 substitute—
 >
@@ -660,7 +660,7 @@ Regulation 3
 
 .
 
-**20.**[^key-695ea1de1a72efd46139e9d5fd9459d9] In regulation 37—
+**20.**[^c-695ea1de1a72efd46139e9d5fd9459d9] In regulation 37—
 
 - (a) in paragraph (a), for “and (5)” substitute “, (5) and (6)”.
 - (b) after paragraph (b) insert—
@@ -680,7 +680,7 @@ Regulation 3
 
   .
 
-**21.**[^key-f3472a21a49802d0d3405e7c60cf0c40] In regulation 38—
+**21.**[^c-f3472a21a49802d0d3405e7c60cf0c40] In regulation 38—
 
 - (a) after paragraph (a) insert—
 
@@ -694,7 +694,7 @@ Regulation 3
 
   .
 
-**22.**[^key-9cc070618b6b40600b962cb1913ae2ff] After regulation 38 insert—
+**22.**[^c-9cc070618b6b40600b962cb1913ae2ff] After regulation 38 insert—
 
 > **38A.** After regulation 42 insert—
 >
@@ -724,7 +724,7 @@ Regulation 3
 
 .
 
-**23.**[^key-2d6856ea010e0efaf948f706bb3ec9b4] In regulation 40, for paragraph (a) substitute—
+**23.**[^c-2d6856ea010e0efaf948f706bb3ec9b4] In regulation 40, for paragraph (a) substitute—
 
 > - (a) for paragraph (1) substitute—
 >
@@ -734,14 +734,14 @@ Regulation 3
 
 .
 
-**24.**[^key-d44439f104dd567e9c4c27cce6c388b1] In regulation 41, after paragraph (c)(ii) insert—
+**24.**[^c-d44439f104dd567e9c4c27cce6c388b1] In regulation 41, after paragraph (c)(ii) insert—
 
 > - (d) in paragraph (4) for “the requirements of Article 6(1)” to the end, substitute “the EU requirements”;
 > - (e) omit paragraph (5).
 
 .
 
-**25.**[^key-8866d5208cb2fa775e2564326b929cdb] In regulation 43—
+**25.**[^c-8866d5208cb2fa775e2564326b929cdb] In regulation 43—
 
 - (a) for paragraph (c) substitute—
 
@@ -769,7 +769,7 @@ Regulation 3
 
   .
 
-**26.**[^key-0ebd3e62532c1bdc2efae42a7ee40737] In regulation 44, for paragraph (a) substitute—
+**26.**[^c-0ebd3e62532c1bdc2efae42a7ee40737] In regulation 44, for paragraph (a) substitute—
 
 > - (a) for paragraph (1) substitute—
 >
@@ -782,7 +782,7 @@ Regulation 3
 
 .
 
-**27.**[^key-2fa7a40ba116369ea6a08d4b4fd3205a] For regulation 45 substitute—
+**27.**[^c-2fa7a40ba116369ea6a08d4b4fd3205a] For regulation 45 substitute—
 
 > **45.** For regulation 48 substitute—
 >
@@ -806,13 +806,13 @@ Regulation 3
 
 .
 
-**28.**[^key-496ecce5321f5d7f5c0ff9a5b22f91de] In regulation 46, for paragraph (c) substitute—
+**28.**[^c-496ecce5321f5d7f5c0ff9a5b22f91de] In regulation 46, for paragraph (c) substitute—
 
 > - (c) omit paragraphs (4) and (6).
 
 .
 
-**29.**[^key-5d3b548a64cccef659e7c86c859f6b0b] In regulation 47—
+**29.**[^c-5d3b548a64cccef659e7c86c859f6b0b] In regulation 47—
 
 - (a) for paragraph (b) substitute—
 
@@ -838,7 +838,7 @@ Regulation 3
 
   .
 
-**30.**[^key-b45e54ba00883ab160c159fe4bb1612f] For regulation 49 substitute—
+**30.**[^c-b45e54ba00883ab160c159fe4bb1612f] For regulation 49 substitute—
 
 > **49.** In regulation 51—
 >
@@ -895,7 +895,7 @@ Regulation 3
 
 .
 
-**31.**[^key-9e01b6572c674d57125944da36649818] After regulation 50 insert—
+**31.**[^c-9e01b6572c674d57125944da36649818] After regulation 50 insert—
 
 > **50A.** In regulation 53, for paragraphs (2) and (3) substitute—
 >
@@ -908,7 +908,7 @@ Regulation 3
 >
 > .
 
-**32.**[^key-84ce53d78c9c5ac2eab48e428fd12fb4] After regulation 54 insert—
+**32.**[^c-84ce53d78c9c5ac2eab48e428fd12fb4] After regulation 54 insert—
 
 > **54A.** Before Part 10 insert—
 >
@@ -1094,9 +1094,9 @@ Regulation 3
 
 .
 
-**33.**[^key-abb2050bbd7058908e7a94a599fbe6bf] Omit regulations 55 to 63.
+**33.**[^c-abb2050bbd7058908e7a94a599fbe6bf] Omit regulations 55 to 63.
 
-**34.**[^key-c7b422b5e929e9a7787a02bd02c260b2] For regulation 66 substitute—
+**34.**[^c-c7b422b5e929e9a7787a02bd02c260b2] For regulation 66 substitute—
 
 > **66.** In regulation 76—
 >
@@ -1106,13 +1106,13 @@ Regulation 3
 
 .
 
-**35.**[^key-88422b6739fba7a7b5bab76922bf0ebc] After regulation 69 insert—
+**35.**[^c-88422b6739fba7a7b5bab76922bf0ebc] After regulation 69 insert—
 
 > **69A.** In regulation 79 for “Article 10(6)” substitute “Article 9(6)”.
 
 .
 
-**36.**[^key-3acfb76382cd66289914938fcbf77a04] For regulation 74 substitute—
+**36.**[^c-3acfb76382cd66289914938fcbf77a04] For regulation 74 substitute—
 
 > **74.** In regulation 83—
 >
@@ -1122,7 +1122,7 @@ Regulation 3
 
 .
 
-**37.**[^key-1cd8300df031b10ce6d816de3033488e] After regulation 77 insert—
+**37.**[^c-1cd8300df031b10ce6d816de3033488e] After regulation 77 insert—
 
 > **77A.** After regulation 85 insert—
 >
@@ -1148,7 +1148,7 @@ Regulation 3
 
 .
 
-**38.**[^key-6f3c67a601c8d3c2a1fde627d0c74a7e] In regulation 80—
+**38.**[^c-6f3c67a601c8d3c2a1fde627d0c74a7e] In regulation 80—
 
 - (a) in sub-paragraph (b) for “and 63A(2)” substitute “, 63A(2), 65, 66, 68 and 69”;
 - (b) after sub-paragraph (b) insert—
@@ -1183,7 +1183,7 @@ Regulation 3
 
   .
 
-**39.**[^key-495d3ad481b0520f96005887981c4bb8] After regulation 80 insert—
+**39.**[^c-495d3ad481b0520f96005887981c4bb8] After regulation 80 insert—
 
 > **80A. Saving provision in relation to excise goods released for consumption and dispatched before 13th February 2023**
 >
@@ -1235,15 +1235,15 @@ Regulation 3
 
 .
 
-### PART 2 — Amendments relating to the Northern Ireland Modifications of the Duty Stamps Regulations 2006[^key-2fa3a972bbb13cd68e7f418e9cc9f1e1]
+### PART 2 — Amendments relating to the Northern Ireland Modifications of the Duty Stamps Regulations 2006[^c-2fa3a972bbb13cd68e7f418e9cc9f1e1]
 
 **No longer in force.**
 
-**40.**[^key-2fa3a972bbb13cd68e7f418e9cc9f1e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-2fa3a972bbb13cd68e7f418e9cc9f1e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 3 — Amendments relating to the Northern Ireland Modifications of the Excise Goods (Drawback) Regulations 1995
 
-**41.**[^key-3686776f722244fea778e5a71e334cc7] In regulation 99(2)[^f00035]—
+**41.**[^c-3686776f722244fea778e5a71e334cc7] In regulation 99(2)[^f00035]—
 
 - (a) after sub-paragraph (a) insert—
 
@@ -1320,7 +1320,7 @@ Regulation 3
 
 ## Annotations
 
-[^key-b9c526c3941abcbd96807bef0ee98d46]: Commencement: Sch. 2 para. 1 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-b9c526c3941abcbd96807bef0ee98d46]: Commencement: Sch. 2 para. 1 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
 [^f00009]: Footnote: OJ No. L 58, 27.2.2020, p. 43.
 
@@ -1338,87 +1338,87 @@ Regulation 3
 
 [^f00016]: Footnote: Paragraph 15 of this Schedule amends Part 1 of NIMMA, with the effect that Part 4B (which includes regulations 33H to 33M) is treated as inserted into the Northern Ireland Regulations.
 
-[^key-0c135d2e393c64b2b5a54d9af71b5150]: Commencement: Sch. 2 para. 2 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-0c135d2e393c64b2b5a54d9af71b5150]: Commencement: Sch. 2 para. 2 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
 [^f00017]: Footnote: OJ No. L 58, 28.2.2018, p. 1; as amended by Commission Delegated Regulation (EU) 2019/840 of 12 March 2019 amending Delegated Regulation (EU) 2018/273 as regards the importation of wine originating in Canada and exempting retailers from holding an inward and outward register (OJ No. L 138, 24.5.2019, p. 74).
 
-[^key-2dc496ee8e7b699a78631538f0ce9d1e]: Commencement: Sch. 2 para. 3 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-2dc496ee8e7b699a78631538f0ce9d1e]: Commencement: Sch. 2 para. 3 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
 [^f00018]: Footnote: OJ No. L 343 29.12.2015 p. 1; relevant amending instruments are Regulation (EU) 2018/1063 of 16 May 2018 amending and correcting Delegated Regulation (EU) 2015/2446 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code (OJ No. L 192, 30.7.2018, p. 1).
 
-[^key-ad6ac4d96697c27b024a3ce966f62acf]: Commencement: Sch. 2 para. 4 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-ad6ac4d96697c27b024a3ce966f62acf]: Commencement: Sch. 2 para. 4 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-85a37a3ab155dc3e74240c5a37637fe0]: Commencement: Sch. 2 para. 5 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-85a37a3ab155dc3e74240c5a37637fe0]: Commencement: Sch. 2 para. 5 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-78a0e193990c9b6a1179c4422ee9a15e]: Commencement: Sch. 2 para. 6 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-78a0e193990c9b6a1179c4422ee9a15e]: Commencement: Sch. 2 para. 6 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-b57a69363741e92e50f03d5cd49582cc]: Commencement: Sch. 2 para. 7 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-b57a69363741e92e50f03d5cd49582cc]: Commencement: Sch. 2 para. 7 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-927d2a6679ab4c4fc1e3501e3814a529]: Commencement: Sch. 2 para. 8 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-927d2a6679ab4c4fc1e3501e3814a529]: Commencement: Sch. 2 para. 8 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-bcce19718d57321680e93343f0c649fb]: Commencement: Sch. 2 para. 9 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-bcce19718d57321680e93343f0c649fb]: Commencement: Sch. 2 para. 9 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-5d99dbedabb4de95c6dcf127d96e14b8]: Commencement: Sch. 2 para. 10 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-5d99dbedabb4de95c6dcf127d96e14b8]: Commencement: Sch. 2 para. 10 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-959034ec2219ab5da008f1762a88336d]: Commencement: Sch. 2 para. 11 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-959034ec2219ab5da008f1762a88336d]: Commencement: Sch. 2 para. 11 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-9c8caa4befc8de35bc6e85e2251aee6b]: Commencement: Sch. 2 para. 12 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-9c8caa4befc8de35bc6e85e2251aee6b]: Commencement: Sch. 2 para. 12 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
 [^f00019]: Footnote: OJ No. L 176, 5.7.2011, p. 24.
 
-[^key-d690326dc4913b17491994ace9ea61ab]: Commencement: Sch. 2 para. 13 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-d690326dc4913b17491994ace9ea61ab]: Commencement: Sch. 2 para. 13 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-94fb4af40c0996ef8ecd02db1bf7cb9e]: Commencement: Sch. 2 para. 14 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-94fb4af40c0996ef8ecd02db1bf7cb9e]: Commencement: Sch. 2 para. 14 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-5c885fb8d5fb66089b1d684f60ede9ef]: Commencement: Sch. 2 para. 15 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-5c885fb8d5fb66089b1d684f60ede9ef]: Commencement: Sch. 2 para. 15 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
 [^f00020]: Footnote: “CEMA 1979” is defined in regulation 3(1) of the Northern Ireland Regulations.
 
-[^key-b89bc3324b0a005ed5abe035cb7dd02a]: Commencement: Sch. 2 para. 16 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-b89bc3324b0a005ed5abe035cb7dd02a]: Commencement: Sch. 2 para. 16 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
 [^f00021]: Footnote: OJ No. L 343 29.12.2015, p. 558, to which there are amendments not relevant to these Regulations.
 
 [^f00022]: Footnote: OJ No. L 343 29.12.2015 p. 1; relevant amending instruments are Regulation (EU) 2018/1063 of 16 May 2018 amending and correcting Delegated Regulation (EU) 2015/2446 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code (OJ No. L 192, 30.7.2018, p. 1).
 
-[^key-22ef39a8c8ade1effbc147da890ba7e1]: Commencement: Sch. 2 para. 17 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-22ef39a8c8ade1effbc147da890ba7e1]: Commencement: Sch. 2 para. 17 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-bad5a2081d5da3095e49f78be537e7d6]: Commencement: Sch. 2 para. 18 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-bad5a2081d5da3095e49f78be537e7d6]: Commencement: Sch. 2 para. 18 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
 [^f00023]: Footnote: OJ No. L 269, 10.10.2013, p. 1; as corrected by Corrigendum OJ No. L 287, 29.10.2013, p. 90 and Corrigendum OJ No. L 267, 30.9.2016, p. 2 (952/2013). Amending instruments are Regulation (EU) 2016/2339 of the European Parliament and of the Council of 14 December 2016 amending Regulation (EU) No 952/2013 laying down the Union Customs Code, as regards goods that have temporarily left the customs territory of the Union by sea or air (OJ No. L 354, 23.12.2016, p. 32); Regulation (EU) 2019/474 of the European Parliament and of the Council of 19 March 2019 amending Regulation (EU) No 952/2013 laying down the Union Customs Code (OJ No. L 83, 25.3.2019, p. 3) and Regulation (EU) 2019/632 of the European Parliament and of the Council of 17 April 2019 amending Regulation (EU) No 952/2013 to prolong the transitional use of means other than the electronic data-processing techniques provided for in the Union Customs Code (OJ No. L 111, 25.4.2019, p. 54).
 
 [^f00024]: Footnote: OJ No. L 121, 8.5.2012, p.1; , to which there are amendments not relevant to these Regulations.
 
-[^key-b3f486037b0ded7840c436ac6095c445]: Commencement: Sch. 2 para. 19 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-b3f486037b0ded7840c436ac6095c445]: Commencement: Sch. 2 para. 19 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
 [^f00025]: Footnote: Paragraph 22 of this Schedule amends Part 1 of NIMMA, with the effect that regulation 42A is treated as inserted into the Northern Ireland Regulations.
 
-[^key-695ea1de1a72efd46139e9d5fd9459d9]: Commencement: Sch. 2 para. 20 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-695ea1de1a72efd46139e9d5fd9459d9]: Commencement: Sch. 2 para. 20 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-f3472a21a49802d0d3405e7c60cf0c40]: Commencement: Sch. 2 para. 21 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-f3472a21a49802d0d3405e7c60cf0c40]: Commencement: Sch. 2 para. 21 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-9cc070618b6b40600b962cb1913ae2ff]: Commencement: Sch. 2 para. 22 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-9cc070618b6b40600b962cb1913ae2ff]: Commencement: Sch. 2 para. 22 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
 [^f00026]: Footnote: Paragraph 16 of this Schedule amends Part 1 of NIMMA, with the effect that regulation 35(a)(v) is treated as inserted into the Northern Ireland Regulations.
 
-[^key-2d6856ea010e0efaf948f706bb3ec9b4]: Commencement: Sch. 2 para. 23 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-2d6856ea010e0efaf948f706bb3ec9b4]: Commencement: Sch. 2 para. 23 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-d44439f104dd567e9c4c27cce6c388b1]: Commencement: Sch. 2 para. 24 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-d44439f104dd567e9c4c27cce6c388b1]: Commencement: Sch. 2 para. 24 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-8866d5208cb2fa775e2564326b929cdb]: Commencement: Sch. 2 para. 25 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-8866d5208cb2fa775e2564326b929cdb]: Commencement: Sch. 2 para. 25 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-0ebd3e62532c1bdc2efae42a7ee40737]: Commencement: Sch. 2 para. 26 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-0ebd3e62532c1bdc2efae42a7ee40737]: Commencement: Sch. 2 para. 26 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-2fa7a40ba116369ea6a08d4b4fd3205a]: Commencement: Sch. 2 para. 27 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-2fa7a40ba116369ea6a08d4b4fd3205a]: Commencement: Sch. 2 para. 27 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-496ecce5321f5d7f5c0ff9a5b22f91de]: Commencement: Sch. 2 para. 28 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-496ecce5321f5d7f5c0ff9a5b22f91de]: Commencement: Sch. 2 para. 28 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-5d3b548a64cccef659e7c86c859f6b0b]: Commencement: Sch. 2 para. 29 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-5d3b548a64cccef659e7c86c859f6b0b]: Commencement: Sch. 2 para. 29 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-b45e54ba00883ab160c159fe4bb1612f]: Commencement: Sch. 2 para. 30 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-b45e54ba00883ab160c159fe4bb1612f]: Commencement: Sch. 2 para. 30 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-9e01b6572c674d57125944da36649818]: Commencement: Sch. 2 para. 31 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-9e01b6572c674d57125944da36649818]: Commencement: Sch. 2 para. 31 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-84ce53d78c9c5ac2eab48e428fd12fb4]: Commencement: Sch. 2 para. 32 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-84ce53d78c9c5ac2eab48e428fd12fb4]: Commencement: Sch. 2 para. 32 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
 [^f00027]: Footnote: [S.I. 1999/1565](https://www.legislation.gov.uk/uksi/1999/1565); relevantly amended by [S.I. 2010/592](https://www.legislation.gov.uk/uksi/2010/592). The Excise Goods (Sales on Board Ships and Aircraft) Regulations 1999 (“**SOBSA**”) were revoked by regulation 14 of the Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 ([S.I. 2020/1412](https://www.legislation.gov.uk/uksi/2020/1412)) on IP completion day. However, regulations 7 to 18 of the Travellers’ Allowances and Miscellaneous Provisions (Northern Ireland) (EU Exit) Regulations 2020 ([S.I. 2020/1619](https://www.legislation.gov.uk/uksi/2020/1619)), which also came into force on IP completion day, save and modify SOBSA so they continue to take effect in respect of Northern Ireland.
 
@@ -1426,27 +1426,27 @@ Regulation 3
 
 [^f00029]: Footnote: “**Chewing tobacco**” and “**tobacco for heating**” are defined by regulation 3(4) of the Northern Ireland Regulations.
 
-[^key-abb2050bbd7058908e7a94a599fbe6bf]: Commencement: Sch. 2 para. 33 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-abb2050bbd7058908e7a94a599fbe6bf]: Commencement: Sch. 2 para. 33 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-c7b422b5e929e9a7787a02bd02c260b2]: Commencement: Sch. 2 para. 34 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-c7b422b5e929e9a7787a02bd02c260b2]: Commencement: Sch. 2 para. 34 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-88422b6739fba7a7b5bab76922bf0ebc]: Commencement: Sch. 2 para. 35 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-88422b6739fba7a7b5bab76922bf0ebc]: Commencement: Sch. 2 para. 35 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-3acfb76382cd66289914938fcbf77a04]: Commencement: Sch. 2 para. 36 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-3acfb76382cd66289914938fcbf77a04]: Commencement: Sch. 2 para. 36 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-1cd8300df031b10ce6d816de3033488e]: Commencement: Sch. 2 para. 37 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-1cd8300df031b10ce6d816de3033488e]: Commencement: Sch. 2 para. 37 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-6f3c67a601c8d3c2a1fde627d0c74a7e]: Commencement: Sch. 2 para. 38 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-6f3c67a601c8d3c2a1fde627d0c74a7e]: Commencement: Sch. 2 para. 38 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-495d3ad481b0520f96005887981c4bb8]: Commencement: Sch. 2 para. 39 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-495d3ad481b0520f96005887981c4bb8]: Commencement: Sch. 2 para. 39 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
 [^f00030]: Footnote: Paragraph 1(m) of this Schedule inserts new regulation 9(v) into NIMMA with the effect that a definition of “fallback simplified accompanying document” is treated as inserted into the regulation 3(1) of the Northern Ireland Regulations. See footnote (b) on page 2 for the meaning of the Northern Ireland Regulations.
 
 [^f00031]: Footnote: Paragraph 1(m) of this Schedule inserts new regulation 9(v) into NIMMA with the effect that a definition of “electronic simplified accompanying document” is treated as inserted into the regulation 3(1) of the Northern Ireland Regulations.
 
-[^key-2fa3a972bbb13cd68e7f418e9cc9f1e1]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/part/2) revoked (1.5.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(3)(i)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/3/i)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
+[^c-2fa3a972bbb13cd68e7f418e9cc9f1e1]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/part/2) revoked (1.5.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(3)(i)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/3/i)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
 
-[^key-3686776f722244fea778e5a71e334cc7]: Commencement: Sch. 2 para. 41 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-3686776f722244fea778e5a71e334cc7]: Commencement: Sch. 2 para. 41 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
 [^f00035]: Footnote: Regulation 99(1) of NIMMA applies the Excise Goods (Drawback) Regulations 1995 ([S.I. 1995/1046](https://www.legislation.gov.uk/uksi/1995/1046)) (“**the Drawback Regulations**”) as they had effect immediately before IP completion day in Northern Ireland with respect to excise. The application of the Drawback Regulations is subject to the modifications set out in regulations 99(2) of NIMMA.
 

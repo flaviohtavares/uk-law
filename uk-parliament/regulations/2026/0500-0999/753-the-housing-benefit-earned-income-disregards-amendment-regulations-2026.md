@@ -50,13 +50,13 @@ In accordance with section 173(1)(b) of the Social Security Administration Act 1
 
 In accordance with section 176(1)(a) of the Administration Act[^f00003], the Secretary of State has consulted with organisations appearing to the Secretary of State to be representative of the authorities concerned.
 
-## 1. Citation, commencement and extent[^key-d56ed49e96f7faebfdfc0895d595c15c]
+## 1. Citation, commencement and extent[^c-d56ed49e96f7faebfdfc0895d595c15c]
 
 (1) These Regulations may be cited as the Housing Benefit (Earned Income Disregards) (Amendment) Regulations 2026 and come into force on 5th October 2026.
 
 (2) These Regulations extend to England and Wales and Scotland.
 
-## 2. Amendments to the Housing Benefit Regulations 2006[^key-a60ccf65e8e575ca6b5c85bb3cb03d22]
+## 2. Amendments to the Housing Benefit Regulations 2006[^c-a60ccf65e8e575ca6b5c85bb3cb03d22]
 
 (1) The Housing Benefit Regulations 2006[^f00004] are amended as follows.
 
@@ -64,7 +64,7 @@ In accordance with section 176(1)(a) of the Administration Act[^f00003], the Sec
 
 (3) In regulation 38 (calculation of net profit of self-employed earners), in paragraph (2), after “paragraphs 1 to 14”, insert “and 18”.
 
-(4)[^key-a82309e85255f5b57f8fed282bfae416] In Schedule 4 (sums to be disregarded in the calculation of earnings)—
+(4)[^c-a82309e85255f5b57f8fed282bfae416] In Schedule 4 (sums to be disregarded in the calculation of earnings)—
 
 - (a) In paragraph 17, in sub-paragraph (3)(a), after “paragraphs 3 to 10A” insert “and 18”;
 - (b) After paragraph 17, insert—
@@ -121,10 +121,10 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00003]: Footnote: Section 176(1)(a) was amended by paragraph 23 of Schedule 9 to the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14) and was repealed, to the extent that it related to council tax benefit, by Part 1 of Schedule 14 to the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-d56ed49e96f7faebfdfc0895d595c15c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2026/753/regulation/1) in force at 5.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/753/regulation/1/1)
+[^c-d56ed49e96f7faebfdfc0895d595c15c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2026/753/regulation/1) in force at 5.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/753/regulation/1/1)
 
-[^key-a60ccf65e8e575ca6b5c85bb3cb03d22]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2026/753/regulation/2) in force at 5.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/753/regulation/1/1)
+[^c-a60ccf65e8e575ca6b5c85bb3cb03d22]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2026/753/regulation/2) in force at 5.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/753/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213), to which there are amendments not relevant to these Regulations.
 
-[^key-a82309e85255f5b57f8fed282bfae416]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2026/753/regulation/2/4) substituted (2.10.2026) by [The Housing Benefit (Earned Income Disregards) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/978)](https://www.legislation.gov.uk/uksi/2026/978), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/978/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/978/regulation/2/2)
+[^c-a82309e85255f5b57f8fed282bfae416]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2026/753/regulation/2/4) substituted (2.10.2026) by [The Housing Benefit (Earned Income Disregards) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/978)](https://www.legislation.gov.uk/uksi/2026/978), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/978/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/978/regulation/2/2)

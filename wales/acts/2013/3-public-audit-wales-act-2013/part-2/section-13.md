@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Incorporation of Wales Audit Office[^key-505bd8d5d8092061beb6d09271d9f783][^key-6492aae34df0f4be1725d21860c1ce92]
+## 13. Incorporation of Wales Audit Office[^c-505bd8d5d8092061beb6d09271d9f783][^c-6492aae34df0f4be1725d21860c1ce92]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-505bd8d5d8092061beb6d09271d9f783]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2013/3/section/13) in force at 4.7.2013 for specified purposes by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(e)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/e)
+[^c-505bd8d5d8092061beb6d09271d9f783]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2013/3/section/13) in force at 4.7.2013 for specified purposes by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(e)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/e)
 
-[^key-6492aae34df0f4be1725d21860c1ce92]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2013/3/section/13) in force at 1.4.2014 in so far as not already in force by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-6492aae34df0f4be1725d21860c1ce92]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2013/3/section/13) in force at 1.4.2014 in so far as not already in force by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

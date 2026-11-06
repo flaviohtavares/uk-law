@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32O. Fit and proper person considerations[^key-fec6dc6b1a5401f92ed919a2d5c0437e]
+## 32O. Fit and proper person considerations[^c-fec6dc6b1a5401f92ed919a2d5c0437e]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fec6dc6b1a5401f92ed919a2d5c0437e]: Textual amendment: S. 32O and cross-heading inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 71](https://www.legislation.gov.uk/asp/2014/14/section/71), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-fec6dc6b1a5401f92ed919a2d5c0437e]: Textual amendment: S. 32O and cross-heading inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 71](https://www.legislation.gov.uk/asp/2014/14/section/71), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

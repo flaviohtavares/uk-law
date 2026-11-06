@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 184. Interpretation[^key-37df67cf47a2e5ef7e9225186848f0a6]
+## 184. Interpretation[^c-37df67cf47a2e5ef7e9225186848f0a6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In this Chapter, “another police pension scheme” means a police pension sche
 
 ## Annotations
 
-[^key-37df67cf47a2e5ef7e9225186848f0a6]: Commencement: Reg. 184 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-37df67cf47a2e5ef7e9225186848f0a6]: Commencement: Reg. 184 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

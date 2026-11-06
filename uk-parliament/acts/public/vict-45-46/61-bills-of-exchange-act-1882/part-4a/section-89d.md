@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89D. Copies of instruments and evidence of payment[^key-c43371920747b9785ad0a61ef539bc28]
+## 89D. Copies of instruments and evidence of payment[^c-c43371920747b9785ad0a61ef539bc28]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c43371920747b9785ad0a61ef539bc28]: Textual amendment: Pt. 4A inserted (26.3.2015, 31.7.2016 in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/13/2), [164(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/4)
+[^c-c43371920747b9785ad0a61ef539bc28]: Textual amendment: Pt. 4A inserted (26.3.2015, 31.7.2016 in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/13/2), [164(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46A. Amount of order: supplementary[^key-c7f48804612b54905b474b5049ba84ff]
+## 46A. Amount of order: supplementary[^c-c7f48804612b54905b474b5049ba84ff]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7f48804612b54905b474b5049ba84ff]: Textual amendment: [S. 46A](https://www.legislation.gov.uk/ukpga/2016/22/section/46A) inserted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 103(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/103/7), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/j) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/421/regulation/11))
+[^c-c7f48804612b54905b474b5049ba84ff]: Textual amendment: [S. 46A](https://www.legislation.gov.uk/ukpga/2016/22/section/46A) inserted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 103(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/103/7), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/j) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/421/regulation/11))

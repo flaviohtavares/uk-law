@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Revocations and savings[^key-20c9fdf4f30e8fab6bebda9c01d08a2c]
+## 101. Revocations and savings[^c-20c9fdf4f30e8fab6bebda9c01d08a2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20c9fdf4f30e8fab6bebda9c01d08a2c]: Commencement: Reg. 101 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-20c9fdf4f30e8fab6bebda9c01d08a2c]: Commencement: Reg. 101 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

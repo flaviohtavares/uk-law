@@ -59,10 +59,10 @@ summary: ''
 
 (4) Subsection (1) above applies to disposals made on or after 17th March 1998.
 
-(5) Subsections (2) and (3) above apply to a company in respect of which an approval for the purposes of Part 6 of the Income Tax Act 2007[^key-e30f96c8d6ad6e1bb72502004e76e647] (venture capital trusts) has effect as from a time falling on or after 17th March 1998.
+(5) Subsections (2) and (3) above apply to a company in respect of which an approval for the purposes of Part 6 of the Income Tax Act 2007[^c-e30f96c8d6ad6e1bb72502004e76e647] (venture capital trusts) has effect as from a time falling on or after 17th March 1998.
 
 ## Annotations
 
 [^c16422331]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-e30f96c8d6ad6e1bb72502004e76e647]: Textual amendment: Words in [s. 135(5)](https://www.legislation.gov.uk/ukpga/1998/36/section/135/5) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 383](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/383) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-e30f96c8d6ad6e1bb72502004e76e647]: Textual amendment: Words in [s. 135(5)](https://www.legislation.gov.uk/ukpga/1998/36/section/135/5) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 383](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/383) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

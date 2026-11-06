@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. National and international functions[^key-6b5abcd4a9873a50e6a41ba478840111]
+## 94. National and international functions[^c-6b5abcd4a9873a50e6a41ba478840111]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b5abcd4a9873a50e6a41ba478840111]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2011/13/section/94) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/5))
+[^c-6b5abcd4a9873a50e6a41ba478840111]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2011/13/section/94) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/5))

@@ -24,7 +24,7 @@ Regulation 32
 
 **1.** Any person who sells raw milk intended for direct human consumption in contravention of paragraph 5 will be guilty of an offence.
 
-**1A.**[^key-0c07f1b94a02a48aa836734a06e1c0cb] Any person who sells raw milk in contravention of paragraph 7A commits an offence.
+**1A.**[^c-0c07f1b94a02a48aa836734a06e1c0cb] Any person who sells raw milk in contravention of paragraph 7A commits an offence.
 
 **1B.** Any person who sells raw milk in contravention of paragraph 7B commits an offence.
 
@@ -60,7 +60,7 @@ Regulation 32
 
 **7.** In any case where the Agency carries out sampling, analysis and examination of raw cows' milk in accordance with paragraph 6, there will be due to the Agency from the occupier of the production holding who is selling the milk a fee of £63, which is payable by the occupier to the Agency on demand.
 
-**7A.**[^key-b53fcffe0ba26eba64cd89f23a9eee78] Except in cases to which paragraph 7B applies, the container in which any raw milk is sold must be marked or labelled with the words “This milk has not been heat-treated and may therefore contain organisms harmful to health. The Food Standards Agency strongly advises that it should not be consumed by children, pregnant women, older people or those who are unwell or have chronic illness.”.
+**7A.**[^c-b53fcffe0ba26eba64cd89f23a9eee78] Except in cases to which paragraph 7B applies, the container in which any raw milk is sold must be marked or labelled with the words “This milk has not been heat-treated and may therefore contain organisms harmful to health. The Food Standards Agency strongly advises that it should not be consumed by children, pregnant women, older people or those who are unwell or have chronic illness.”.
 
 **7B.** In the case of any raw milk which is not prepacked and is sold at a catering establishment there must appear—
 
@@ -82,7 +82,7 @@ the words “Milk supplied in this establishment has not been heat-treated and m
 
 **8.** In this Schedule—
 
-- “catering establishment” (“[^key-84fcc48d00b4332a9d55bf13f123e7c2]*sefydliad arlwyo*”) means a restaurant, canteen, club, public house, school, hospital or similar establishment (including a vehicle or a fixed or mobile stall) where, in the course of a business, food is prepared for delivery to the final consumer and is ready for consumption without further preparation;
+- “catering establishment” (“[^c-84fcc48d00b4332a9d55bf13f123e7c2]*sefydliad arlwyo*”) means a restaurant, canteen, club, public house, school, hospital or similar establishment (including a vehicle or a fixed or mobile stall) where, in the course of a business, food is prepared for delivery to the final consumer and is ready for consumption without further preparation;
 - “**distributor**” (“***dosbarthwr***”) means a person who sells raw cows' milk that has been produced on a production holding of which he or she is not the occupier;
 - “**farm premises**” (“***mangre fferm***”) means a farm occupied by the occupier of a production holding as a single farm and includes the production holding and any other building situated on that farm and occupied by the same occupier;
 - “labelling” (“*labelu*”), in relation to a food, includes any words, particulars, trade mark, brand name, pictorial matter or symbol relating to the food and appearing on the packaging of the food or on any document, notice, label, ring or collar accompanying the food;
@@ -93,8 +93,8 @@ the words “Milk supplied in this establishment has not been heat-treated and m
 
 ## Annotations
 
-[^key-0c07f1b94a02a48aa836734a06e1c0cb]: Textual amendment: Sch. 6 paras. 1A, 1B inserted (13.12.2014) by [The Food Hygiene (Wales) (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3080)](https://www.legislation.gov.uk/wsi/2014/3080), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/3080/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2014/3080/regulation/2/3/a)
+[^c-0c07f1b94a02a48aa836734a06e1c0cb]: Textual amendment: Sch. 6 paras. 1A, 1B inserted (13.12.2014) by [The Food Hygiene (Wales) (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3080)](https://www.legislation.gov.uk/wsi/2014/3080), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/3080/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2014/3080/regulation/2/3/a)
 
-[^key-b53fcffe0ba26eba64cd89f23a9eee78]: Textual amendment: Sch. 6 paras. 7A-7E inserted (13.12.2014) by [The Food Hygiene (Wales) (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3080)](https://www.legislation.gov.uk/wsi/2014/3080), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/3080/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2014/3080/regulation/2/3/b)
+[^c-b53fcffe0ba26eba64cd89f23a9eee78]: Textual amendment: Sch. 6 paras. 7A-7E inserted (13.12.2014) by [The Food Hygiene (Wales) (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3080)](https://www.legislation.gov.uk/wsi/2014/3080), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/3080/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2014/3080/regulation/2/3/b)
 
-[^key-84fcc48d00b4332a9d55bf13f123e7c2]: Textual amendment: Words in Sch. 6 para. 8 inserted (13.12.2014) by [The Food Hygiene (Wales) (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3080)](https://www.legislation.gov.uk/wsi/2014/3080), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/3080/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2014/3080/regulation/2/3/c)
+[^c-84fcc48d00b4332a9d55bf13f123e7c2]: Textual amendment: Words in Sch. 6 para. 8 inserted (13.12.2014) by [The Food Hygiene (Wales) (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3080)](https://www.legislation.gov.uk/wsi/2014/3080), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/3080/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2014/3080/regulation/2/3/c)

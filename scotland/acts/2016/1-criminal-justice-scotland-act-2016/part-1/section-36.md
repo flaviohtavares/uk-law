@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Authorisation: further provision[^key-3038379806462ca38e41030644204bb9]
+## 36. Authorisation: further provision[^c-3038379806462ca38e41030644204bb9]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3038379806462ca38e41030644204bb9]: Commencement: S. 36 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 8](https://www.legislation.gov.uk/ssi/2017/345/article/8))
+[^c-3038379806462ca38e41030644204bb9]: Commencement: S. 36 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 8](https://www.legislation.gov.uk/ssi/2017/345/article/8))

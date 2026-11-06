@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 157. Use of amounts set aside—revenue expenditure[^key-e48e06d8d1cef2fef33683ed0bf7c55e]
+## 157. Use of amounts set aside—revenue expenditure[^c-e48e06d8d1cef2fef33683ed0bf7c55e]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e48e06d8d1cef2fef33683ed0bf7c55e]: Commencement: Reg. 157 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-e48e06d8d1cef2fef33683ed0bf7c55e]: Commencement: Reg. 157 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

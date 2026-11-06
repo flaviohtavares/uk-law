@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Hospitals and small emitters: failure to pay civil penalty for exceeding emissions target[^key-089e092a68052b53b8325791aa58be08]
+## 55. Hospitals and small emitters: failure to pay civil penalty for exceeding emissions target[^c-089e092a68052b53b8325791aa58be08]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-089e092a68052b53b8325791aa58be08]: Commencement: Art. 55 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-089e092a68052b53b8325791aa58be08]: Commencement: Art. 55 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)

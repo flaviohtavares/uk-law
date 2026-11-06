@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Written statement of variation[^key-c1f269f23de0caa5e0b71a15f1ad2f1f]
+## 109. Written statement of variation[^c-c1f269f23de0caa5e0b71a15f1ad2f1f]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ unless the landlord has given notice of the variation in accordance with section
 
 ## Annotations
 
-[^key-c1f269f23de0caa5e0b71a15f1ad2f1f]: Commencement: [S. 109](https://www.legislation.gov.uk/anaw/2016/1/section/109) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-c1f269f23de0caa5e0b71a15f1ad2f1f]: Commencement: [S. 109](https://www.legislation.gov.uk/anaw/2016/1/section/109) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

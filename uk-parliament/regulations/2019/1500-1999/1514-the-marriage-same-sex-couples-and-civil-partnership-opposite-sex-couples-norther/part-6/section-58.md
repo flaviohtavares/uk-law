@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Superannuation (Amendment) Act (Northern Ireland) 1966[^key-61579ee580c4bb34e8af72491cd0d929]
+## 58. Superannuation (Amendment) Act (Northern Ireland) 1966[^c-61579ee580c4bb34e8af72491cd0d929]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ In paragraph 9(3) of Schedule 1 to the Superannuation (Amendment) Act (Northern 
 
 ## Annotations
 
-[^key-61579ee580c4bb34e8af72491cd0d929]: Commencement: Reg. 58 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-61579ee580c4bb34e8af72491cd0d929]: Commencement: Reg. 58 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00084]: Footnote: [1966 c.27 (N.I.)](https://www.legislation.gov.uk/apni/1966/27).

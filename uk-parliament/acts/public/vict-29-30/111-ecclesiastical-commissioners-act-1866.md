@@ -35,7 +35,7 @@ An Act to further amend the Acts relating to Ecclesiastical Commissioners for En
 
 ## 1. Meaning of the word “Commissioners.”
 
-The word “**Commissioners**” where used in this Act shall mean the Church Commissioners[^c564674] [^key-57a4086de4758600c8cda136cf12fc0b]...
+The word “**Commissioners**” where used in this Act shall mean the Church Commissioners[^c564674] [^c-57a4086de4758600c8cda136cf12fc0b]...
 
 ## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c564675]
 
@@ -65,7 +65,7 @@ Every Order of Her Majesty in Council ratifying any scheme passed by the Commiss
 
 ## 16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c564684]
 
-## 17. Improved provision for the cure of souls in Westminster.[^key-d00a077e75849e1f631865bf1c27110f]
+## 17. Improved provision for the cure of souls in Westminster.[^c-d00a077e75849e1f631865bf1c27110f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -93,7 +93,7 @@ All expenses incurred by the Commissioners in or about the publication in the Ga
 
 [^c564674]: Textual amendment: Words substituted by virtue of [Church Commissioners Measure 1947 (No. 2)](https://www.legislation.gov.uk/ukcm/1947/2), [s. 18(2)](https://www.legislation.gov.uk/ukcm/1947/2/section/18/2)
 
-[^key-57a4086de4758600c8cda136cf12fc0b]: Textual amendment: Words in s. 1 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 2(1)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
+[^c-57a4086de4758600c8cda136cf12fc0b]: Textual amendment: Words in s. 1 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 2(1)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
 
 [^c564675]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Vict/29-30/111/section/2) repealed by [Church Commissioners Measure 1964 (No. 8)](https://www.legislation.gov.uk/ukcm/1964/8), [s. 2(3)](https://www.legislation.gov.uk/ukcm/1964/8/section/2/3)
 
@@ -113,7 +113,7 @@ All expenses incurred by the Commissioners in or about the publication in the Ga
 
 [^c564684]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/Vict/29-30/111/section/16) repealed by [Endowments and Glebe Measure 1976 (No. 4)](https://www.legislation.gov.uk/ukcm/1976/4), [Sch. 8](https://www.legislation.gov.uk/ukcm/1976/4/schedule/8)
 
-[^key-d00a077e75849e1f631865bf1c27110f]: Textual amendment: S. 17 repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-d00a077e75849e1f631865bf1c27110f]: Textual amendment: S. 17 repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
 [^c564686]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/Vict/29-30/111/section/18) repealed by [Cathedrals Measure 1931 (No. 7)](https://www.legislation.gov.uk/ukcm/1931/7), [Sch. 3](https://www.legislation.gov.uk/ukcm/1931/7/schedule/3)
 

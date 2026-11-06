@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117A. Alteration of financial year[^key-38a443e4640855eed865dcee6fbf3338]
+## 117A. Alteration of financial year[^c-38a443e4640855eed865dcee6fbf3338]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38a443e4640855eed865dcee6fbf3338]: Textual amendment: S. 117A inserted (18.2.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 16](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/16) (with [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/18))
+[^c-38a443e4640855eed865dcee6fbf3338]: Textual amendment: S. 117A inserted (18.2.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 16](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/16) (with [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/18))

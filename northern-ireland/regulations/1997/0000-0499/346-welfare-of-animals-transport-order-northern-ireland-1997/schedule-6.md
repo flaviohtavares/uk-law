@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 6 — Other vertebrate animals and cold-blooded animals[^key-9bb4d69bb62bc7d0314d76e00f2c10ce]
+## SCHEDULE 6 — Other vertebrate animals and cold-blooded animals[^c-9bb4d69bb62bc7d0314d76e00f2c10ce]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ Other vertebrate animals and cold-blooded animals shall be transported in such r
 
 ## Annotations
 
-[^key-9bb4d69bb62bc7d0314d76e00f2c10ce]: Commencement: Sch. 6 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-9bb4d69bb62bc7d0314d76e00f2c10ce]: Commencement: Sch. 6 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)

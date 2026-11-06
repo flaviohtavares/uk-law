@@ -33,34 +33,34 @@ of 28 July 2016
 
 amending Regulations (EU) 2016/72 and (EU) 2015/2072 as regards certain fishing opportunities (revoked)
 
-[^key-6c3cc2bc987ab3f80ddd615f8de57359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c3cc2bc987ab3f80ddd615f8de57359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendments to Regulation (EU) 2016/72[^key-6c3cc2bc987ab3f80ddd615f8de57359]
+## Article 1. Amendments to Regulation (EU) 2016/72[^c-6c3cc2bc987ab3f80ddd615f8de57359]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Amendment to Regulation (EU) 2015/2072[^key-6c3cc2bc987ab3f80ddd615f8de57359]
+## Article 2. Amendment to Regulation (EU) 2015/2072[^c-6c3cc2bc987ab3f80ddd615f8de57359]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-6c3cc2bc987ab3f80ddd615f8de57359]
+## Article 3. Entry into force[^c-6c3cc2bc987ab3f80ddd615f8de57359]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c3cc2bc987ab3f80ddd615f8de57359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c3cc2bc987ab3f80ddd615f8de57359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — AMENDMENTS TO ANNEXES I, IA AND IV TO REGULATION (EU) 2016/72[^key-6c3cc2bc987ab3f80ddd615f8de57359]
+## ANNEX I — AMENDMENTS TO ANNEXES I, IA AND IV TO REGULATION (EU) 2016/72[^c-6c3cc2bc987ab3f80ddd615f8de57359]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — AMENDMENT TO THE ANNEX TO REGULATION (EU) 2015/2072[^key-6c3cc2bc987ab3f80ddd615f8de57359]
+## ANNEX II — AMENDMENT TO THE ANNEX TO REGULATION (EU) 2015/2072[^c-6c3cc2bc987ab3f80ddd615f8de57359]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6c3cc2bc987ab3f80ddd615f8de57359]: Textual amendment: Regulation revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-6c3cc2bc987ab3f80ddd615f8de57359]: Textual amendment: Regulation revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

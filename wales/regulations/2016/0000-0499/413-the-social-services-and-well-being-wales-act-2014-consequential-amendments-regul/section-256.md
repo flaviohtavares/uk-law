@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**256.**[^key-37240c536833f73857caa5889c533985] (1) Section 38 of the Income Tax Act 2007 is amended as follows.
+**256.**[^c-37240c536833f73857caa5889c533985] (1) Section 38 of the Income Tax Act 2007 is amended as follows.
 
 (2) In subsection (2), for paragraph (b) substitute—
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-37240c536833f73857caa5889c533985]: Commencement: Reg. 256 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-37240c536833f73857caa5889c533985]: Commencement: Reg. 256 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00204]: Footnote: Section 38(4) was amended by [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914), Schedule, paragraph 88(1), (4)(a).

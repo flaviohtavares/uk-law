@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 59, 60, 61 and 333(7) of the Town and Country Planning Act 1990[^f00001], makes the following Order:
 
-## 1. Citation, commencement and application[^key-2d0e891f06f182475fed03e6cdf6a1f2]
+## 1. Citation, commencement and application[^c-2d0e891f06f182475fed03e6cdf6a1f2]
 
 (1) This Order may be cited as the Town and Country Planning (General Permitted Development) (Amendment) (England) Order 2008 and shall come into force on 6th April 2008.
 
 (2) This Order applies in relation to England only.
 
-## 2. Amendment of the Town and Country Planning (General Permitted Development) Order 1995[^key-28bce38066889454dc8468abbfc1fde1]
+## 2. Amendment of the Town and Country Planning (General Permitted Development) Order 1995[^c-28bce38066889454dc8468abbfc1fde1]
 
 (1) The Town and Country Planning (General Permitted Development) Order 1995[^f00002] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -187,9 +187,9 @@ An impact assessment has been prepared in relation to this Order. The assessment
 
 [^f00001]: Footnote: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8); to which there are amendments not relevant to this Order. These powers are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales. They were previously transferred to the National Assembly for Wales by article 2 of and Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672): see the entry in article 2 of and Schedule 1 for the Town and Country Planning Act [1990 (c.8)](https://www.legislation.gov.uk/ukpga/1990/8). By virtue of paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32), they were transferred to the Welsh Ministers.
 
-[^key-2d0e891f06f182475fed03e6cdf6a1f2]: Commencement: Art. 1 in force at 6.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/675/article/1/1)
+[^c-2d0e891f06f182475fed03e6cdf6a1f2]: Commencement: Art. 1 in force at 6.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/675/article/1/1)
 
-[^key-28bce38066889454dc8468abbfc1fde1]: Commencement: Art. 2 in force at 6.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/675/article/1/1)
+[^c-28bce38066889454dc8468abbfc1fde1]: Commencement: Art. 2 in force at 6.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/675/article/1/1)
 
 [^f00002]: Footnote: [S.I. 1995/418](https://www.legislation.gov.uk/uksi/1995/418). Relevant amendments were made by [S.I. 2007/406](https://www.legislation.gov.uk/uksi/2007/406).
 

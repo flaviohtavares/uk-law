@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Introduction[^key-2b834cfad350ae9464fa22cad7f453f1]
+## 34. Introduction[^c-2b834cfad350ae9464fa22cad7f453f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Part 9A of the Act (rules and guidance) is amended as follows.
 
 ## Annotations
 
-[^key-2b834cfad350ae9464fa22cad7f453f1]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-2b834cfad350ae9464fa22cad7f453f1]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

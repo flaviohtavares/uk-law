@@ -27,7 +27,7 @@ summary: ''
 - (a) are to be treated as non-trading credits or non-trading debits (within the meaning of Part 5 (loan relationships)) for the period, and
 - (b) are accordingly to be brought into account in determining whether the company has non-trading profits or a non-trading deficit from its loan relationships for the period.
 
-(2A)[^key-29c9edd2b0aee03fed7dd6a31e2dd5df] In the case of a non-UK resident company, subsection (2) needs to be read with section 5(3), (3A)(b) and (3B)(b) (territorial scope of charge to corporation tax).
+(2A)[^c-29c9edd2b0aee03fed7dd6a31e2dd5df] In the case of a non-UK resident company, subsection (2) needs to be read with section 5(3), (3A)(b) and (3B)(b) (territorial scope of charge to corporation tax).
 
 (3) For cases in which this section does not apply, see—
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29c9edd2b0aee03fed7dd6a31e2dd5df]: Textual amendment: S. 574(2A) inserted (6.4.2020) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 paras. 18](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/18), [35](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/35) (with [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/36)); and substituted (6.4.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 6 paras. 2](https://www.legislation.gov.uk/ukpga/2020/14/schedule/6/paragraph/2), [10](https://www.legislation.gov.uk/ukpga/2020/14/schedule/6/paragraph/10)
+[^c-29c9edd2b0aee03fed7dd6a31e2dd5df]: Textual amendment: S. 574(2A) inserted (6.4.2020) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 paras. 18](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/18), [35](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/35) (with [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/36)); and substituted (6.4.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 6 paras. 2](https://www.legislation.gov.uk/ukpga/2020/14/schedule/6/paragraph/2), [10](https://www.legislation.gov.uk/ukpga/2020/14/schedule/6/paragraph/10)

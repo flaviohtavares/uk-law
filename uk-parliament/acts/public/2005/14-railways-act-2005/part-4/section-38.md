@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Services, networks and stations excluded by order[^key-298f36b87bbaa32972c277a844fee4e4]
+## 38. Services, networks and stations excluded by order[^c-298f36b87bbaa32972c277a844fee4e4]
 
 *Extent: E+W+S*
 
@@ -33,8 +33,8 @@ summary: ''
   - (ii) a cross-border service in relation to which so much of the funding as is provided by a railway funding authority is funding provided by the Scottish Ministers,
 
   means those Ministers;
-- (b) as respects a network or station, or part of a network or station, that is wholly in Scotland, means the Scottish Ministers; [^key-5d1c1912f98b87fb143ce7b53f1b76a4]...
-- (ba)[^key-46b68bd1d4d58658431f3bf9f0a8941c] as respects a railway passenger service which is a Wales-only service, means the Welsh Ministers;
+- (b) as respects a network or station, or part of a network or station, that is wholly in Scotland, means the Scottish Ministers; [^c-5d1c1912f98b87fb143ce7b53f1b76a4]...
+- (ba)[^c-46b68bd1d4d58658431f3bf9f0a8941c] as respects a railway passenger service which is a Wales-only service, means the Welsh Ministers;
 - (bb) as respects a station, or part of a station, that—
   - (i) is wholly in Wales, and
   - (ii) is a station to which subsection (2A) applies or part of such a station,
@@ -42,7 +42,7 @@ summary: ''
   means the Welsh Ministers; and
 - (c) as respects any other railway passenger service, network or station, or part of a network or station, means the Secretary of State.
 
-(2A)[^key-72a5982683bdc7acd696facba675a568] This subsection applies to a station at which the only scheduled calls made by any railway passenger service are those made by a railway passenger service provided under a Welsh franchise agreement or secured to any extent by the Welsh Ministers.
+(2A)[^c-72a5982683bdc7acd696facba675a568] This subsection applies to a station at which the only scheduled calls made by any railway passenger service are those made by a railway passenger service provided under a Welsh franchise agreement or secured to any extent by the Welsh Ministers.
 
 (3) An order under this section is subject to the negative resolution procedure.
 
@@ -54,10 +54,10 @@ summary: ''
 
 ## Annotations
 
-[^key-298f36b87bbaa32972c277a844fee4e4]: Commencement: S. 38 in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-298f36b87bbaa32972c277a844fee4e4]: Commencement: S. 38 in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-5d1c1912f98b87fb143ce7b53f1b76a4]: Textual amendment: Word in [s. 38(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/38/2) omitted (14.10.2018) by virtue of [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 53(2)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/53/2)
+[^c-5d1c1912f98b87fb143ce7b53f1b76a4]: Textual amendment: Word in [s. 38(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/38/2) omitted (14.10.2018) by virtue of [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 53(2)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/53/2)
 
-[^key-46b68bd1d4d58658431f3bf9f0a8941c]: Textual amendment: [S. 38(2)(ba)](https://www.legislation.gov.uk/ukpga/2005/14/section/38/2/ba)[(bb)](https://www.legislation.gov.uk/ukpga/2005/14/section/38/2/bb) inserted (14.10.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 53(2)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/53/2)
+[^c-46b68bd1d4d58658431f3bf9f0a8941c]: Textual amendment: [S. 38(2)(ba)](https://www.legislation.gov.uk/ukpga/2005/14/section/38/2/ba)[(bb)](https://www.legislation.gov.uk/ukpga/2005/14/section/38/2/bb) inserted (14.10.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 53(2)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/53/2)
 
-[^key-72a5982683bdc7acd696facba675a568]: Textual amendment: [S. 38(2A)](https://www.legislation.gov.uk/ukpga/2005/14/section/38/2A) inserted (14.10.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 53(3)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/53/3)
+[^c-72a5982683bdc7acd696facba675a568]: Textual amendment: [S. 38(2A)](https://www.legislation.gov.uk/ukpga/2005/14/section/38/2A) inserted (14.10.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 53(3)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/53/3)

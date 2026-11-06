@@ -29,11 +29,11 @@ Industrial and Provident Societies Act 1965 (repealed)
 
 1965 c. 12
 
-[^key-34c362397c3355edb42a2aea3f55402b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34c362397c3355edb42a2aea3f55402b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### Registered societies[^key-34c362397c3355edb42a2aea3f55402b]
+### Registered societies[^c-34c362397c3355edb42a2aea3f55402b]
 
 *Extent: E+W+S*
 
@@ -45,7 +45,7 @@ Industrial and Provident Societies Act 1965 (repealed)
 - [Section 4 — Existing societies deemed to be registered.](section-4.md)
 - [Section 4A — Pre-2010 Act societies](section-4a.md)
 
-### Name and maximum shareholding[^key-34c362397c3355edb42a2aea3f55402b]
+### Name and maximum shareholding[^c-34c362397c3355edb42a2aea3f55402b]
 
 *Extent: E+W+S*
 
@@ -55,14 +55,14 @@ Industrial and Provident Societies Act 1965 (repealed)
 - [Section 5A — Status of charitable societies to appear on correspondence etc](section-5a.md)
 - [Section 6 — Maximum shareholding in society.](section-6.md)
 
-### Operations of registered society[^key-34c362397c3355edb42a2aea3f55402b]
+### Operations of registered society[^c-34c362397c3355edb42a2aea3f55402b]
 
 **No longer in force.**
 
 - [Section 7 — Carrying on of banking by societies.](section-7.md)
 - [Section 8 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](section-8.md)
 
-### Capacity of society and power of committee to bind it[^key-34c362397c3355edb42a2aea3f55402b]
+### Capacity of society and power of committee to bind it[^c-34c362397c3355edb42a2aea3f55402b]
 
 *Extent: E+W+S*
 
@@ -75,7 +75,7 @@ Industrial and Provident Societies Act 1965 (repealed)
 - [Section 7E — Transactions with committee members and other persons in excess of powers .](section-7e.md)
 - [Section 7F — Definitions relating to section 7E .](section-7f.md)
 
-### Provisions as to rules[^key-34c362397c3355edb42a2aea3f55402b]
+### Provisions as to rules[^c-34c362397c3355edb42a2aea3f55402b]
 
 **No longer in force.**
 
@@ -87,7 +87,7 @@ Industrial and Provident Societies Act 1965 (repealed)
 - [Section 14 — Rules to bind members.](section-14.md)
 - [Section 15 — Provision of copies of rules.](section-15.md)
 
-### Cancellation, suspension or refusal of registration of society or rules[^key-34c362397c3355edb42a2aea3f55402b]
+### Cancellation, suspension or refusal of registration of society or rules[^c-34c362397c3355edb42a2aea3f55402b]
 
 **No longer in force.**
 
@@ -95,7 +95,7 @@ Industrial and Provident Societies Act 1965 (repealed)
 - [Section 17 — Suspension of registration of society.](section-17.md)
 - [Section 18 — Appeal from refusal, cancellation or suspension of registration of society or rules.](section-18.md)
 
-### Membership and special provisions affecting members[^key-34c362397c3355edb42a2aea3f55402b]
+### Membership and special provisions affecting members[^c-34c362397c3355edb42a2aea3f55402b]
 
 **No longer in force.**
 
@@ -109,7 +109,7 @@ Industrial and Provident Societies Act 1965 (repealed)
 - [Section 26 — Payments in respect of mentally incapable persons.](section-26.md)
 - [Section 27 — Validity of payment to persons apparently entitled.](section-27.md)
 
-### Contracts, property, et ceteralaetc., of society[^key-34c362397c3355edb42a2aea3f55402b]
+### Contracts, property, et ceteralaetc., of society[^c-34c362397c3355edb42a2aea3f55402b]
 
 *Extent: E+W+S*
 
@@ -132,7 +132,7 @@ Industrial and Provident Societies Act 1965 (repealed)
 - [Section 35 — Receipt on payment of moneys secured to a society.](section-35.md)
 - [Section 36 — Execution of deeds in Scotland.](section-36.md)
 
-### Accounts, et ceteralaetc.[^key-34c362397c3355edb42a2aea3f55402b]
+### Accounts, et ceteralaetc.[^c-34c362397c3355edb42a2aea3f55402b]
 
 *Extent: E+W+S*
 
@@ -144,7 +144,7 @@ Industrial and Provident Societies Act 1965 (repealed)
 - [Section 39B — Year of account (new registrations)](section-39b.md)
 - [Section 40 — Display of latest balance sheet.](section-40.md)
 
-### Officers, receivers, et ceteralaetc.[^key-34c362397c3355edb42a2aea3f55402b]
+### Officers, receivers, et ceteralaetc.[^c-34c362397c3355edb42a2aea3f55402b]
 
 *Extent: E+W+S*
 
@@ -155,7 +155,7 @@ Industrial and Provident Societies Act 1965 (repealed)
 - [Section 43 — Duties of receiver or manager of society’s property.](section-43.md)
 - [Section 43A — Floating charge holder not to appoint administrative receiver](section-43a.md)
 
-### Registers, books, et ceteralaetc.[^key-34c362397c3355edb42a2aea3f55402b]
+### Registers, books, et ceteralaetc.[^c-34c362397c3355edb42a2aea3f55402b]
 
 **No longer in force.**
 
@@ -166,7 +166,7 @@ Industrial and Provident Societies Act 1965 (repealed)
 - [Section 48 — Production of documents and provision of information for certain purposes.](section-48.md)
 - [Section 49 — Appointment of inspectors and calling of special meetings.](section-49.md)
 
-### Amalgamations, transfers of engagements and conversions[^key-34c362397c3355edb42a2aea3f55402b]
+### Amalgamations, transfers of engagements and conversions[^c-34c362397c3355edb42a2aea3f55402b]
 
 **No longer in force.**
 
@@ -176,7 +176,7 @@ Industrial and Provident Societies Act 1965 (repealed)
 - [Section 53 — Conversion of company into registered society.](section-53.md)
 - [Section 54 — Saving for rights of creditors.](section-54.md)
 
-### Dissolution of society[^key-34c362397c3355edb42a2aea3f55402b]
+### Dissolution of society[^c-34c362397c3355edb42a2aea3f55402b]
 
 *Extent: E+W+S*
 
@@ -187,13 +187,13 @@ Industrial and Provident Societies Act 1965 (repealed)
 - [Section 57 — Liability of members in winding up.](section-57.md)
 - [Section 58 — Instrument of dissolution.](section-58.md)
 
-### Special restriction on dissolution, et ceteralaetc.[^key-34c362397c3355edb42a2aea3f55402b]
+### Special restriction on dissolution, et ceteralaetc.[^c-34c362397c3355edb42a2aea3f55402b]
 
 **No longer in force.**
 
 - [Section 59 — Restriction on dissolution or cancellation of registration of society.](section-59.md)
 
-### Disputes, offences and legal proceedings[^key-34c362397c3355edb42a2aea3f55402b]
+### Disputes, offences and legal proceedings[^c-34c362397c3355edb42a2aea3f55402b]
 
 **No longer in force.**
 
@@ -207,7 +207,7 @@ Industrial and Provident Societies Act 1965 (repealed)
 - [Section 67 — Recovery of costs, etc.](section-67.md)
 - [Section 68 — Service of process.](section-68.md)
 
-### Miscellaneous and general[^key-34c362397c3355edb42a2aea3f55402b]
+### Miscellaneous and general[^c-34c362397c3355edb42a2aea3f55402b]
 
 *Extent: E+W+S*
 
@@ -229,7 +229,7 @@ Industrial and Provident Societies Act 1965 (repealed)
 
 *Extent: E+W+S*
 
-[^key-34c362397c3355edb42a2aea3f55402b] SCHEDULES
+[^c-34c362397c3355edb42a2aea3f55402b] SCHEDULES
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)
@@ -239,4 +239,4 @@ Industrial and Provident Societies Act 1965 (repealed)
 
 ## Annotations
 
-[^key-34c362397c3355edb42a2aea3f55402b]: Textual amendment: Act repealed (1.8.2014 immediately after the Co-operative and Community Benefit Societies and Credit Unions Act 2010 came into force) by Co-operative and [Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)) (Act previously amended (1.8.2014) by Co-operative and [Community Benefit Societies and Credit Unions Act 2010 (c. 7)](https://www.legislation.gov.uk/ukpga/2010/7), [ss. 1](https://www.legislation.gov.uk/ukpga/2010/7/section/1), [8(2)](https://www.legislation.gov.uk/ukpga/2010/7/section/8/2); [S.I. 2014/183](https://www.legislation.gov.uk/uksi/2014/183), [art. 3](https://www.legislation.gov.uk/uksi/2014/183/article/3))
+[^c-34c362397c3355edb42a2aea3f55402b]: Textual amendment: Act repealed (1.8.2014 immediately after the Co-operative and Community Benefit Societies and Credit Unions Act 2010 came into force) by Co-operative and [Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)) (Act previously amended (1.8.2014) by Co-operative and [Community Benefit Societies and Credit Unions Act 2010 (c. 7)](https://www.legislation.gov.uk/ukpga/2010/7), [ss. 1](https://www.legislation.gov.uk/ukpga/2010/7/section/1), [8(2)](https://www.legislation.gov.uk/ukpga/2010/7/section/8/2); [S.I. 2014/183](https://www.legislation.gov.uk/uksi/2014/183), [art. 3](https://www.legislation.gov.uk/uksi/2014/183/article/3))

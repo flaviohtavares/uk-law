@@ -31,7 +31,7 @@ summary: ''
 
 Constitutional Law
 
-The National Assembly for Wales (Disqualification) Order 2010 (revoked)[^key-7b588eef438eecd0b349f7f0311a36dd]
+The National Assembly for Wales (Disqualification) Order 2010 (revoked)[^c-7b588eef438eecd0b349f7f0311a36dd]
 
 Made
 
@@ -47,42 +47,42 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-7b588eef438eecd0b349f7f0311a36dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b588eef438eecd0b349f7f0311a36dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7b588eef438eecd0b349f7f0311a36dd]
+## 1. Citation and commencement[^c-7b588eef438eecd0b349f7f0311a36dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of disqualifying offices[^key-7b588eef438eecd0b349f7f0311a36dd]
+## 2. Designation of disqualifying offices[^c-7b588eef438eecd0b349f7f0311a36dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of National Assembly for Wales (Disqualification) Order 2006[^key-7b588eef438eecd0b349f7f0311a36dd]
+## 3. Revocation of National Assembly for Wales (Disqualification) Order 2006[^c-7b588eef438eecd0b349f7f0311a36dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b588eef438eecd0b349f7f0311a36dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b588eef438eecd0b349f7f0311a36dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Offices disqualifying holders from membership of the National Assembly for Wales[^key-7b588eef438eecd0b349f7f0311a36dd]
+## SCHEDULE — Offices disqualifying holders from membership of the National Assembly for Wales[^c-7b588eef438eecd0b349f7f0311a36dd]
 
 Article 2
 
-### PART 1 — Bodies the members of which are disqualified[^key-7b588eef438eecd0b349f7f0311a36dd]
+### PART 1 — Bodies the members of which are disqualified[^c-7b588eef438eecd0b349f7f0311a36dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Other disqualifying offices[^key-7b588eef438eecd0b349f7f0311a36dd]
+### PART 2 — Other disqualifying offices[^c-7b588eef438eecd0b349f7f0311a36dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7b588eef438eecd0b349f7f0311a36dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b588eef438eecd0b349f7f0311a36dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7b588eef438eecd0b349f7f0311a36dd]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2969) revoked (1.9.2015) by [The National Assembly for Wales (Disqualification) Order 2015 (S.I. 2015/1536)](https://www.legislation.gov.uk/uksi/2015/1536), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1536/article/1), [3](https://www.legislation.gov.uk/uksi/2015/1536/article/3)
+[^c-7b588eef438eecd0b349f7f0311a36dd]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2969) revoked (1.9.2015) by [The National Assembly for Wales (Disqualification) Order 2015 (S.I. 2015/1536)](https://www.legislation.gov.uk/uksi/2015/1536), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1536/article/1), [3](https://www.legislation.gov.uk/uksi/2015/1536/article/3)

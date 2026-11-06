@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Extraction Solvents in Food (Amendment) (Wales) Regulations 2011 (revoked)[^key-91116ff9ec8526921d30ce71efded614]
+The Extraction Solvents in Food (Amendment) (Wales) Regulations 2011 (revoked)[^c-91116ff9ec8526921d30ce71efded614]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 15 August 2011
 
-[^key-91116ff9ec8526921d30ce71efded614]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-91116ff9ec8526921d30ce71efded614]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-91116ff9ec8526921d30ce71efded614]
+## 1. Title, application and commencement[^c-91116ff9ec8526921d30ce71efded614]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Extraction Solvents in Food Regulations 1993[^key-91116ff9ec8526921d30ce71efded614]
+## 2. Amendment of the Extraction Solvents in Food Regulations 1993[^c-91116ff9ec8526921d30ce71efded614]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-91116ff9ec8526921d30ce71efded614]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-91116ff9ec8526921d30ce71efded614]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-91116ff9ec8526921d30ce71efded614]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-91116ff9ec8526921d30ce71efded614]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-91116ff9ec8526921d30ce71efded614]: Textual amendment: Regulations revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Wales) Regulations 2013 (S.I. 2013/2591)](https://www.legislation.gov.uk/wsi/2013/2591), [reg. 1](https://www.legislation.gov.uk/wsi/2013/2591/regulation/1), [Sch. 5](https://www.legislation.gov.uk/wsi/2013/2591/schedule/5)
+[^c-91116ff9ec8526921d30ce71efded614]: Textual amendment: Regulations revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Wales) Regulations 2013 (S.I. 2013/2591)](https://www.legislation.gov.uk/wsi/2013/2591), [reg. 1](https://www.legislation.gov.uk/wsi/2013/2591/regulation/1), [Sch. 5](https://www.legislation.gov.uk/wsi/2013/2591/schedule/5)

@@ -39,37 +39,37 @@ Coming into operation
 
 4th January 2007
 
-The Department of Agriculture and Rural Development [^f00001], being a Department designated for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the requirement for an assessment of the impact on the environment of projects likely to have significant effects on the environment, in exercise of the powers conferred on it by the said section 2(2) and of all other powers enabling it in that behalf, hereby make the following Regulations:[^key-ef38d68622bef15eba3ef9bb9c0fa7b2]
+The Department of Agriculture and Rural Development [^f00001], being a Department designated for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the requirement for an assessment of the impact on the environment of projects likely to have significant effects on the environment, in exercise of the powers conferred on it by the said section 2(2) and of all other powers enabling it in that behalf, hereby make the following Regulations:[^c-ef38d68622bef15eba3ef9bb9c0fa7b2]
 
 ## PART I — INTRODUCTORY
 
-### 1. Citation and commencement[^key-ee0c5e80f50738614a493200fca73609]
+### 1. Citation and commencement[^c-ee0c5e80f50738614a493200fca73609]
 
 These Regulations may be cited as the Environmental Impact Assessment (Forestry) Regulations (Northern Ireland) 2006 and shall come into operation on 4<sup>th</sup> January 2007.
 
-### 2. Interpretation[^key-ad5220b11cbfd913b7878a8abb4cecec]
+### 2. Interpretation[^c-ad5220b11cbfd913b7878a8abb4cecec]
 
 (1) In these regulations—
 
 - “additional information” in any case where an environmental statement has been prepared means any information relating to the statement which is not contained in it;
 - “afforestation” means initial afforestation (which has the same meaning as in paragraph 1 (d) of annex II to the Directive);
 - “consent” means a consent under regulation 5;
-- “consultation bodies” in relation to any project means—[^key-bef9629f6cbc7560c500d61937d2dd74]
+- “consultation bodies” in relation to any project means—[^c-bef9629f6cbc7560c500d61937d2dd74]
 
   any public body, statutory authority or organisation which exercises statutory functions or is otherwise designated by any statutory provision as having responsibilities relating to the environment;;
 - “deforestation” means deforestation for the purposes of conversion to another type of land use (which has the same meaning as in paragraph 1(d) of Annex II to the Directive);
-- “the Department” means the Department of Agriculture, Environment and Rural Affairs;[^key-8f732c8b31fe63867a62644ed648a5b3]
+- “the Department” means the Department of Agriculture, Environment and Rural Affairs;[^c-8f732c8b31fe63867a62644ed648a5b3]
 - “development” means development within the meaning of Article 11 of the Planning (Northern Ireland) Order 1991[^f00003];
-- “the Directive” means[^key-fa57a2d893b957ed16d22a0d8754ca49] [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment as amended by [Directive 2014/52/EU](https://www.legislation.gov.uk/european/directive/2014/0052)
+- “the Directive” means[^c-fa57a2d893b957ed16d22a0d8754ca49] [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment as amended by [Directive 2014/52/EU](https://www.legislation.gov.uk/european/directive/2014/0052)
 - “EEA State” means a State which is a Contracting Party to the Agreement on the European Economic Area signed at Oporto on 2<sup>nd</sup> May 1992 as adjusted by the Protocol signed in Brussels on 17<sup>th</sup> March 1993;
 - “environmental information” means information in the environmental statement and any other information (including any additional information) provided in accordance with these Regulations in relation to an application for consent relating to the likely environmental effects of the project which is the subject of the application;
-- “environmental impact assessment” means—[^key-1a4244a61a1b1eaa87d8be9fbd5d8fff]
+- “environmental impact assessment” means—[^c-1a4244a61a1b1eaa87d8be9fbd5d8fff]
   - (a) the preparation of an environmental statement;
   - (b) the carrying out of consultations under regulation 9 and, where relevant, regulation 15;
   - (c) the consideration of the environmental statement and other information under regulation 16;
   - (d) reaching a conclusion about the likely significant effects of the project under regulation 16; and
   - (e) the consideration of that conclusion under regulation 16, before the decision whether or not to grant consent;
-- “environmental statement” means a statement that—[^key-5c7fa9f20d9cde7dc8dc826feecc8aa9]
+- “environmental statement” means a statement that—[^c-5c7fa9f20d9cde7dc8dc826feecc8aa9]
   - (a) includes such of the information referred to in Part 1 of Schedule 1 as is relevant to the specific characteristics of a particular project or type of project and to the environmental features likely to be affected;
   - (b) includes at least the information referred to in Part 2 of Schedule 1;
   - (c) takes into account, with a view to avoiding duplication of assessments, the available results of other relevant assessments under Union or national legislation, when preparing the statement;
@@ -82,8 +82,8 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
   - (a) in the Belfast Gazette; and
   - (b) on an official website maintained by the Department;
 - “interested parties” means those persons who notify the Department in accordance with regulation 18(5) that they wish to make representations in respect of an appeal;
-- “the Habitats Regulations” means the Conservation (Natural Habitats, etc.) Regulations (Northern Ireland 1995;[^key-7b34ed350f9b9b60725031b99631f9ef]
-- “local advertisement” means publishing or making available a notice—[^key-47d020d6972851b5713be78b3d1d5cd3]
+- “the Habitats Regulations” means the Conservation (Natural Habitats, etc.) Regulations (Northern Ireland 1995;[^c-7b34ed350f9b9b60725031b99631f9ef]
+- “local advertisement” means publishing or making available a notice—[^c-47d020d6972851b5713be78b3d1d5cd3]
   - (a) in one or more newspapers circulating in the immediate locality of any relevant project; or
   - (b) by a district council in that locality; or
   - (c) at library premises (within the meaning of section 11 of the Libraries Act (Northern Ireland) 2008 in that locality);
@@ -91,13 +91,13 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 - “project” means the execution of construction works or of other installations or schemes or other intervention in the natural surroundings or landscape including those involving the extraction of mineral resources;
 - “proposer” means the person who proposes to carry out a project; and
 - “relevant project” shall be construed in accordance with regulation 3.
-- “Union legislation” means any enactment in the domestic legislation of Northern Ireland[^key-4c632f2929ece42d72b8997503d713d4] which is assimilated[^key-0b15f09c39d7ea89d4fd07cd21d7d1dd] law
+- “Union legislation” means any enactment in the domestic legislation of Northern Ireland[^c-4c632f2929ece42d72b8997503d713d4] which is assimilated[^c-0b15f09c39d7ea89d4fd07cd21d7d1dd] law
 
 (2) In these Regulations, any reference to an enforcement notice shall be construed as including, as the context requires, a reference to a notice of variation under regulation 23(6)(a) or to an enforcement notice so varied.
 
 (3) The Interpretation Act (Northern Ireland) 1954 shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly[^f00007].
 
-### 3. Interpretation of “relevant project”[^key-3af57804187969c6ae5d0fda7c63e616]
+### 3. Interpretation of “relevant project”[^c-3af57804187969c6ae5d0fda7c63e616]
 
 (1) For the purposes of these Regulations, a project is a relevant project if —
 
@@ -105,7 +105,7 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 - (b) subject to paragraph (3) it is likely, by virtue of factors such as its nature, size and location, to have significant effects on the environment; and
 - (c) it is carried out by the Department or another Crown body or the carrying out of the project —
   - (i) does not involve development, or
-  - (ii)[^key-c442ea6f21045bd73c01d7996dddf5c2] involves development which is not mentioned in Schedule 1 to, or in column 1 of the table in Schedule 2 to the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2012; or
+  - (ii)[^c-c442ea6f21045bd73c01d7996dddf5c2] involves development which is not mentioned in Schedule 1 to, or in column 1 of the table in Schedule 2 to the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2012; or
   - (iii) involves development for which planning permission is granted by Part 8 of the Schedule to the Planning (General Permitted Development) Order (Northern Ireland) 2015
 
 (2) The types of project referred to in paragraph (1)(a) are —
@@ -117,9 +117,9 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 
 (3) For the purposes of paragraph (1)(b), and subject to regulation 7(3), a project shall be taken not to be likely to have significant effects on the environment if the area covered, or to be covered, by the project does not exceed any relevant threshold set out in Schedule 2.
 
-### 4. Exemptions[^key-4aa608c5767bd9f3d0a0cb877b4484e5]
+### 4. Exemptions[^c-4aa608c5767bd9f3d0a0cb877b4484e5]
 
-(1)[^key-17d5da9b6d1ef0bf41e938bdca9d4d7f] The Department may direct that a particular project is exempted—
+(1)[^c-17d5da9b6d1ef0bf41e938bdca9d4d7f] The Department may direct that a particular project is exempted—
 
 - (a) from the application of these Regulations, in accordance with Articles 1(3) or 2(4) of the Directive; or
 - (b) from provisions relating to public consultation, in accordance with Article 2(5) of the Directive, provided the objectives of the directive will continue to be met.
@@ -135,7 +135,7 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 
 ## PART II — FORESTRY PROJECTS GENERALLY
 
-### 5. Restriction on relevant projects[^key-58e6ca5306e95ee235b735b6ed614d24]
+### 5. Restriction on relevant projects[^c-58e6ca5306e95ee235b735b6ed614d24]
 
 (1) This Part applies to any project (including any project carried out by a Crown body) other than one to which Part 3 applies.
 
@@ -144,11 +144,11 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 - (a) a consent has been granted for that project by the Department; and
 - (b) the project is carried out in accordance with the consent (including the conditions to which the consent is subject).
 
-### 6. Application for an opinion whether a project is a relevant project[^key-b684a1da537144c47d508a56d1520af3]
+### 6. Application for an opinion whether a project is a relevant project[^c-b684a1da537144c47d508a56d1520af3]
 
 (1) A proposer may apply in writing to the Department for its opinion whether a project is a relevant project.
 
-(2)[^key-f80b8f58982f5d3f0ffab8b6a8acc2c6] An application under paragraph (1) shall include or be accompanied by—
+(2)[^c-f80b8f58982f5d3f0ffab8b6a8acc2c6] An application under paragraph (1) shall include or be accompanied by—
 
 - (a) a map or plan sufficient to identify the land that is the subject of the proposed project and the extent of the proposed project;
 - (b) information on the characteristics of the project and its likely significant effects on the environment specified in Schedule 2A; and
@@ -160,9 +160,9 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 
 (3) The Department shall, if it considers that it has not been provided with sufficient information to enable it to give an opinion under paragraph (1), notify the proposer in writing of the matters on which it requires further information and the proposer shall supply that further information to the Department within such period as the Department may reasonably require.
 
-### 7. Opinion of the Department[^key-f54e14587784967d144a943d050d7a05]
+### 7. Opinion of the Department[^c-f54e14587784967d144a943d050d7a05]
 
-(1)[^key-c43e6b011feaf4449f2d751b7145677d] Where a proposer applies to the Department under regulation 6, the Department shall give to him written notice of its opinion within 90 days beginning with the date of its receipt of the application or, where it notifies the proposer under regulation 6(3) that it requires further information, the date of its receipt of that information.
+(1)[^c-c43e6b011feaf4449f2d751b7145677d] Where a proposer applies to the Department under regulation 6, the Department shall give to him written notice of its opinion within 90 days beginning with the date of its receipt of the application or, where it notifies the proposer under regulation 6(3) that it requires further information, the date of its receipt of that information.
 
 (1A) In exceptional cases, where the nature, complexity, location or size of the works demands a longer period for determination, the Department may extend the deadline in paragraph (1), informing the proposer in writing of the reasons justifying the extension and of the date on which its determination is expected.
 
@@ -175,9 +175,9 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 
 (4) Where the opinion of the Department is that the project is a relevant project, the Department shall include in, or provide with, its opinion a written statement of its reasons for being of that opinion.
 
-(4A)[^key-3dd266c33f9b048036c1bb48ed48907b] Where the opinion of the Department is that a project is not a relevant project because an environmental assessment is not required, the Department must state the main reasons for not requiring such assessment, with reference to the relevant selection criteria in Schedule 3, and where proposed by the proposer, state any features of the project or measures envisaged to avoid or prevent what might otherwise have been significant adverse effects on the environment.
+(4A)[^c-3dd266c33f9b048036c1bb48ed48907b] Where the opinion of the Department is that a project is not a relevant project because an environmental assessment is not required, the Department must state the main reasons for not requiring such assessment, with reference to the relevant selection criteria in Schedule 3, and where proposed by the proposer, state any features of the project or measures envisaged to avoid or prevent what might otherwise have been significant adverse effects on the environment.
 
-(5)[^key-1751d379f015f20436203647b4272ce3] The Department may, in the absence of an application under regulation 6, give its opinion whether or not a project is or would be a relevant project and where it gives an opinion under this paragraph—
+(5)[^c-1751d379f015f20436203647b4272ce3] The Department may, in the absence of an application under regulation 6, give its opinion whether or not a project is or would be a relevant project and where it gives an opinion under this paragraph—
 
 - (a) it shall give written notice of its opinion to any person who reasonably appears to it to be the proposer; and
 - (b) paragraphs (2), (3), (4), (4A), (5) and (7) shall apply as they do to an opinion given under paragraph (1).
@@ -191,7 +191,7 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 - (c) state that any person may make representations to the Department in writing in relation to the likely environmental effects of the project to which the application relates at an address specified in the notice within 28 days of the date of the publication of the notice in the Belfast Gazette; and
 - (d) describe what other information relating to the environmental effects of the proposed project is available and give details of where it can be obtained.
 
-### 8. Effect of opinions[^key-d14aaad33dfca982deaea64c0863e7e3]
+### 8. Effect of opinions[^c-d14aaad33dfca982deaea64c0863e7e3]
 
 (1) This paragraph applies to an opinion given under regulation 7 that a project is not or would not be a relevant project.
 
@@ -206,9 +206,9 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 
 (4) An opinion to which paragraph 3 applies shall have the effect of determining for the purposes of these Regulations that the project specified in the opinion is or would be a relevant project.
 
-### 9. Request as to the information to be included in an environmental statement[^key-3fe4192250d2fbbdf819e9e55c0960db]
+### 9. Request as to the information to be included in an environmental statement[^c-3fe4192250d2fbbdf819e9e55c0960db]
 
-(1)[^key-2d91da5ecebcf4fb799afc56e3e1ee4d] Before applying for consent in relation to a project, the Department must give its opinion as to the scope and level of detail of the information to be contained in the environmental statement required for that project.
+(1)[^c-2d91da5ecebcf4fb799afc56e3e1ee4d] Before applying for consent in relation to a project, the Department must give its opinion as to the scope and level of detail of the information to be contained in the environmental statement required for that project.
 
 (2) Before a determination has been made whether the project is or would be a relevant project, the Department shall deal with the request on the assumption that the project is a relevant project
 
@@ -232,13 +232,13 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 - (a) the specific characteristics of the proposed project; and
 - (b) the environmental features likely to be affected by the project.
 
-### 9A. Co-ordination[^key-cc2de4b7832f3675fe683d3b26b9b4d1]
+### 9A. Co-ordination[^c-cc2de4b7832f3675fe683d3b26b9b4d1]
 
 (1) Where in relation to a particular project there is, in addition to the requirement for an environmental impact assessment to be carried out in accordance with these Regulations, also a requirement to carry out a Habitats Regulations Assessment, the Department must where appropriate ensure that the Habitats Regulations Assessment and the environmental impact assessment are co-ordinated.
 
 (2) In this regulation, a “Habitats Regulation Assessment” means an assessment under regulation 43 of The Conservation (Natural Habitats, etc.) Regulations (Northern Ireland) 1995.
 
-### 10. Applications for consent[^key-52bd8f641c2c6de57647b070d7445063]
+### 10. Applications for consent[^c-52bd8f641c2c6de57647b070d7445063]
 
 (1) An application for consent shall be made in writing to the Department and shall be accompanied by —
 
@@ -248,7 +248,7 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 
 (2) An applicant for consent shall supply to the Department such number of copies of the application, the documents accompanying it and the statement as the Department reasonably may require for the purposes of public participation in the environmental assessments under these Regulations.
 
-### 11. Assistance in preparation of environmental statements[^key-9c30f5757df58e14eee5170064556f16]
+### 11. Assistance in preparation of environmental statements[^c-9c30f5757df58e14eee5170064556f16]
 
 (1) Subject to paragraphs (2) and (3), the Department and any consultation body shall, if requested by an applicant for consent, and may without such a request, enter into consultation with an applicant for consent to determine whether it has in its possession any information which may be relevant to the preparation of the environmental statement and if it has such information, it shall make it available to the applicant.
 
@@ -256,17 +256,17 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 
 (3) Paragraph (1) shall not prevent a consultation body from imposing a charge reflecting the cost of making any information available under that paragraph (including for the identification, preparation and copying of any information) or making the payment of such a charge a condition of providing the information.
 
-### 12. Publicity[^key-97dcf678b3e827f2acc2040810d294f5]
+### 12. Publicity[^c-97dcf678b3e827f2acc2040810d294f5]
 
 (1) Where a person has made an application for consent in relation to a proposed project the Department shall by general and local advertisement —
 
 - (a) describe the nature, size and location of the proposed project;
 - (b) state where the application may be inspected;
 - (c) state that the project is likely to have significant effects on the environment and that an environmental statement is required in respect of it;
-- (d) state that any person may obtain information from, or make representations in writing to, the Department in relation to the likely environmental effects of the project at an address specified in the notice within 30 days[^key-303ee8069fa3b1d6ab92496d0295b204] of the date of the publication of the notice in the Belfast Gazette;
+- (d) state that any person may obtain information from, or make representations in writing to, the Department in relation to the likely environmental effects of the project at an address specified in the notice within 30 days[^c-303ee8069fa3b1d6ab92496d0295b204] of the date of the publication of the notice in the Belfast Gazette;
 - (e) indicate the nature of the information in question and the times where and means by which it will be made available;
 - (f) state the nature of the possible decisions that may be made in the case or, if there is one, the draft decision; and
-- (g) indicate whether the proposed project is likely to have significant effects on the environment in an[^key-acec1375574e71d695600a647966bed4] EEA State.
+- (g) indicate whether the proposed project is likely to have significant effects on the environment in an[^c-acec1375574e71d695600a647966bed4] EEA State.
 
 (2) Where the Department publishes an advertisement in accordance with paragraph (1) it shall, on or before the date of the publication of the notice in the Belfast Gazette, send a copy of that notice to each of the consultation bodies.
 
@@ -275,17 +275,17 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 (4) The advertisement shall state —
 
 - (a) that the environmental statement has been prepared and give details of the places where and times at which copies, together with details of the proposed project to which the statement relates, may be inspected;
-- (b) that any person wishing to make representations in relation to the likely environmental effects of the proposed project to which the statement relates shall make them in writing to the Department at the address specified in the advertisement within 30 days[^key-41d2fc3f901a252fe7437ac26af0972b] of the publication of the notice in the Belfast Gazette; and
+- (b) that any person wishing to make representations in relation to the likely environmental effects of the proposed project to which the statement relates shall make them in writing to the Department at the address specified in the advertisement within 30 days[^c-41d2fc3f901a252fe7437ac26af0972b] of the publication of the notice in the Belfast Gazette; and
 - (c) that where no objection in relation to the likely environmental effects of the project is made and the Department, having undertaken the assessment specified in regulation 16(3) considers that the project should proceed, may so determine.
 
 (5) On or before the date of publication in the Belfast Gazette of the notice under paragraph (3), the Department shall —
 
 - (a) send a copy of the environmental statement and notice to each of the consultation bodies so that any such body has an opportunity to make representations on the likely environmental effects of the project to which the statement relates before the expiry of the period specified in the notice; and
-- (b) make available at an office of the Department or some other convenient place for a period of at least 30 days[^key-209388c99e0b3dd40c430b15b8d6ed10] following the date of publication of the notice in the Belfast Gazette, the details of the proposed project and the environmental statement relating to the project and ensure that a reasonable number of copies of the statement are made available.
+- (b) make available at an office of the Department or some other convenient place for a period of at least 30 days[^c-209388c99e0b3dd40c430b15b8d6ed10] following the date of publication of the notice in the Belfast Gazette, the details of the proposed project and the environmental statement relating to the project and ensure that a reasonable number of copies of the statement are made available.
 
 (6) Where, in accordance with paragraph (5)(a), the Department sends any person a copy of the environmental statement it shall consult that person about the statement and the likely environmental effects of the proposed project to which it relates.
 
-### 13. Further information and evidence relating to environmental statements[^key-e16bfb5882f350977c9189e7273ae63e]
+### 13. Further information and evidence relating to environmental statements[^c-e16bfb5882f350977c9189e7273ae63e]
 
 (1) The Department, when dealing with an application for consent in relation to which an environmental statement has been provided may by notice in writing require the applicant to provide such additional information as may be specified to enable the Department to make a determination in relation to the application or concerning any matter which is required to be dealt with in the environmental statement.
 
@@ -300,14 +300,14 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 (4) Where, pursuant to paragraph (1) or otherwise, the Department obtains any additional information it shall —
 
 - (a) by general and local advertisement state that the additional information is available, and give details of the places where and times at which a copy of that additional information may be inspected or obtained; and
-- (b) state that any person who wishes to make representations in relation to the additional information should make such representations in writing to the Department at the address specified in the advertisement within 30 days[^key-c0d5e29d9012bf2bb4004a086d9c7ff7] of the date of the publication of the notice in the Belfast Gazette.
+- (b) state that any person who wishes to make representations in relation to the additional information should make such representations in writing to the Department at the address specified in the advertisement within 30 days[^c-c0d5e29d9012bf2bb4004a086d9c7ff7] of the date of the publication of the notice in the Belfast Gazette.
 
 (5) At the same time as the notice in the Belfast Gazette is published under paragraph (4)(a), the Department shall —
 
 - (a) send copies of the additional information to each consultation body; and
-- (b) make available for inspection at an office of the Department or at some other convenient place, for a period of at least 30 days[^key-5e0771d721ed665f82521a2939ae0c08] following the date of the publication of the notice in the Belfast Gazette, the additional information, the details of the proposed project in question and the environmental statement relating thereto, and ensure that a reasonable number of copies of the information are made available.
+- (b) make available for inspection at an office of the Department or at some other convenient place, for a period of at least 30 days[^c-5e0771d721ed665f82521a2939ae0c08] following the date of the publication of the notice in the Belfast Gazette, the additional information, the details of the proposed project in question and the environmental statement relating thereto, and ensure that a reasonable number of copies of the information are made available.
 
-### 14. Public participation[^key-e78129d9f12ced6f77d3394a43fa9079]
+### 14. Public participation[^c-e78129d9f12ced6f77d3394a43fa9079]
 
 (1) The Department shall, in relation to any proposed project, make available to the public—
 
@@ -315,9 +315,9 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 - (b) any other information which is relevant to a determination under regulation 16 and which only becomes available after the time that the public was given notice in accordance with regulation 12(1);
 - (c) any additional information which is relevant to a determination under regulation 16 and which only became available after the time that the notice in the Belfast Gazette relating to the project was published under regulation 12(1).
 
-### 15. Information for an EEA State[^key-deb9deba0eb809d692b8913b35cffb74][^key-82fadc3bf235137cadc6809452451bcc]
+### 15. Information for an EEA State[^c-deb9deba0eb809d692b8913b35cffb74][^c-82fadc3bf235137cadc6809452451bcc]
 
-(1) Where it appears to the Department that a project in relation to which it has received an application for consent would be likely to have significant effects on the environment of an[^key-829a37abd0d8bc4b4db6e4200302df7d] EEA State or where an EEA State likely to be significantly affected so requests, the Department shall provide a copy of the environmental statement relating to the project to that EEA State.
+(1) Where it appears to the Department that a project in relation to which it has received an application for consent would be likely to have significant effects on the environment of an[^c-829a37abd0d8bc4b4db6e4200302df7d] EEA State or where an EEA State likely to be significantly affected so requests, the Department shall provide a copy of the environmental statement relating to the project to that EEA State.
 
 (2) Where the Department provides a copy of an environmental statement in accordance with paragraph (1) it shall —
 
@@ -351,7 +351,7 @@ but only to the extent that such information has not been provided to the EEA St
 - (b) the main reasons and considerations on which the decision is based; and
 - (c) a description, where necessary, of the main measures to avoid, reduce and, if possible, offset the major adverse effects of the project.
 
-(7) Where the Department receives from an[^key-b3d3181642d2d091d38f488546917324] EEA State information which has been made available in accordance with Article 7(1) and (2) of the Directive (which relates to projects in one EEA State which are likely to have significant effects on the environment in an EEA State), the Department shall—
+(7) Where the Department receives from an[^c-b3d3181642d2d091d38f488546917324] EEA State information which has been made available in accordance with Article 7(1) and (2) of the Directive (which relates to projects in one EEA State which are likely to have significant effects on the environment in an EEA State), the Department shall—
 
 - (a) arrange for that information to be made available within a reasonable time, to such of the consultation bodies and such members of the public as, in its opinion, would be likely to be concerned by the project; and
 - (b) ensure that the consultation bodies and members of the public provided with the information in accordance with paragraph (*a*) are given an opportunity during the period agreed between the Department and the relevant EEA State in accordance with paragraph (8)(*b*) to forward to the competent authority in the relevant EEA State within reasonable time, their opinion of the information provided.
@@ -361,7 +361,7 @@ but only to the extent that such information has not been provided to the EEA St
 - (a) enter into consultations with an EEA State from which information has been received as mentioned in paragraph (7) regarding, amongst other things, the potential significant effects of the proposed project on the environment in Northern Ireland and the measures envisaged to reduce or eliminate such effects; and
 - (b) seek to agree with that EEA State a reasonable period, before consent for the project is granted, during which the consultation bodies and members of the public referred to in paragraph (7)(*b*) may forward their opinion to the competent authority of that EEA State in accordance with that paragraph.
 
-### 16. Determination of applications[^key-bb663ffb4ba68479a62179aa39d48a52]
+### 16. Determination of applications[^c-bb663ffb4ba68479a62179aa39d48a52]
 
 (1) Where an application is made to the Department for consent, it may, subject to the provisions of this regulation—
 
@@ -372,14 +372,14 @@ but only to the extent that such information has not been provided to the EEA St
 
 (3) In determining an application for a consent in relation to a proposed project, the Department shall take into consideration the environmental information, any representations received by it and any other material consideration in relation to the project including in particular its assessment of the direct and indirect effects of the relevant project on the environmental factors specified in Schedule 4.
 
-### 17. Notification of decisions[^key-195fc4b90c30eb10c78f2e2ae5e868a2]
+### 17. Notification of decisions[^c-195fc4b90c30eb10c78f2e2ae5e868a2]
 
 (1) Where an application for consent has been determined by the Department it shall—
 
-- (a)[^key-72dd597f5b06d1d395c86e6aa98bc75c] give notice in writing of its decision to the applicant, the consultation bodies and any person from whom it received representations in relation to the application in accordance with paragraph (2);
+- (a)[^c-72dd597f5b06d1d395c86e6aa98bc75c] give notice in writing of its decision to the applicant, the consultation bodies and any person from whom it received representations in relation to the application in accordance with paragraph (2);
 - (b) publish a general and local advertisement in accordance with paragraph (3).
 
-(2)[^key-e5a66e9f5e2e7f0fa55906a404721ac7] Each notice under paragraph (1)(a) shall inform the person concerned of the determination stating that the Department has taken into account the environmental information relating to the application and shall give a statement of—
+(2)[^c-e5a66e9f5e2e7f0fa55906a404721ac7] Each notice under paragraph (1)(a) shall inform the person concerned of the determination stating that the Department has taken into account the environmental information relating to the application and shall give a statement of—
 
 - (a) where the decision in paragraph (1)(a) is to grant consent—
   - (i) the reasoned conclusion of the Department pursuant to Article (1)(2)(g)(iv) of the Directive and any environmental conditions attached to the decision;
@@ -389,12 +389,12 @@ but only to the extent that such information has not been provided to the EEA St
 (3) Each of the advertisements referred to in paragraph (1)(b) shall inform the public of the determination and give details of the places where and the times at which the public may inspect a statement of—
 
 - (a) the Department’s determination and the conditions to which it is subject;
-- (b)[^key-8d19ca362abf8466fa86e35715ea4b9e] the main reasons and considerations on which its determination is based, including a summary of the results of the consultations and the information gathered pursuant to regulations 9, 10 and 15 and how those results have been incorporated or otherwise addressed; and
+- (b)[^c-8d19ca362abf8466fa86e35715ea4b9e] the main reasons and considerations on which its determination is based, including a summary of the results of the consultations and the information gathered pursuant to regulations 9, 10 and 15 and how those results have been incorporated or otherwise addressed; and
 - (c) where necessary, a description of the main measures to avoid, reduce and, if possible, offset the adverse effects of the proposed project.
 
 (4) Each notice under paragraph (1)(a) and each of the advertisements referred to in paragraph (1)(b) shall give details of the procedures by which an appeal may be made to the Department or an application for a judicial review made to the High Court in respect of a decision made under these regulations.
 
-### 18. Appeals (general provisions)[^key-3dd319e3dd7b2d9a9408239542d4ef85]
+### 18. Appeals (general provisions)[^c-3dd319e3dd7b2d9a9408239542d4ef85]
 
 (1) Persons who have been served a notice under Regulation 17(1)(a) may by notice to the Department appeal (“notice of an appeal”) against the consent, decision or conditions as the case may be (in this regulation referred to as “the relevant decision”) in accordance with this regulation.
 
@@ -418,7 +418,7 @@ but only to the extent that such information has not been provided to the EEA St
 
 (9) A person shall not be required to attend to give evidence or to produce any documents in obedience to a summons issued in accordance with paragraph (8) unless the necessary expenses of his attendance are paid or tendered to him.
 
-(10) Any person who refuses or deliberately fails to attend in obedience to a summons issued in accordance with paragraph (8) or refuses to give evidence or to produce any book or other document which he is required or is liable to be required to produce for the purposes of these Regulations shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale[^key-286e5830f6dbbc501b7acc1b7177bb56] .
+(10) Any person who refuses or deliberately fails to attend in obedience to a summons issued in accordance with paragraph (8) or refuses to give evidence or to produce any book or other document which he is required or is liable to be required to produce for the purposes of these Regulations shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale[^c-286e5830f6dbbc501b7acc1b7177bb56] .
 
 (11) Where the appointed person holds or causes to be held a hearing to determine any matter under this regulation he may direct that the costs incurred by him in relation to the hearing (including such reasonable sum as he may determine for the services of any officer engaged in conducting the hearing) may be paid by such party to the hearing as the appointed person may direct and may cause the amount of costs so incurred and directed to be paid by any person shall be recoverable from that person summarily as a civil debt.
 
@@ -430,7 +430,7 @@ but only to the extent that such information has not been provided to the EEA St
 
 (15) Any representations, statements or other documents to be submitted to the appointed person in accordance with regulation 19 or 20 shall be accompanied by such number of copies as he may specify.
 
-### 19. Determination of appeals by written representations[^key-3eb68b222ed3ba9db250d0d5d185d835]
+### 19. Determination of appeals by written representations[^c-3eb68b222ed3ba9db250d0d5d185d835]
 
 (1) This regulation shall apply to an appeal under regulation 18 which is to proceed by written representations.
 
@@ -442,7 +442,7 @@ but only to the extent that such information has not been provided to the EEA St
 
 (5) No earlier than the expiry of the period specified in paragraph (4), the appointed person shall determine the appeal and shall notify the decision and the reasons for it to the appellant, the Department and to the interested parties.
 
-### 20. Determination of appeals by hearing[^key-501224f4ef3aca3c9a53d616e87f0203]
+### 20. Determination of appeals by hearing[^c-501224f4ef3aca3c9a53d616e87f0203]
 
 (1) This regulation shall apply to an appeal which is to proceed by way of a hearing.
 
@@ -467,7 +467,7 @@ but only to the extent that such information has not been provided to the EEA St
 
 (9) A person entitled to appear at a hearing who proposes to give evidence at the hearing by reading a proof of evidence shall send a copy of the proof of evidence to the appointed person together with a written summary not less than three weeks before the date fixed for the hearing and the appointed person shall send copies of the proof and summary to the appellant, the Department and the other interested parties as the case may be.
 
-### 21. Determination of appeals[^key-ba86a90a183848e4f1f5e7fdd60181bd]
+### 21. Determination of appeals[^c-ba86a90a183848e4f1f5e7fdd60181bd]
 
 (1) After the conclusion of the hearing or after receiving all written representations the appointed person shall determine the appeal.
 
@@ -475,7 +475,7 @@ but only to the extent that such information has not been provided to the EEA St
 
 (3) The appointed person who determines an appeal shall notify his decision under this regulation and the reasons for it to the appellant, to the Department, to other interested parties and to any other persons who appeared at the hearing (if any) and asked to be notified of the decision.
 
-### 22. Conditions to be included in every consent[^key-61c5566b81c90f200a5f2ed4129a0a5a]
+### 22. Conditions to be included in every consent[^c-61c5566b81c90f200a5f2ed4129a0a5a]
 
 (1) Every consent shall include conditions to the effect that—
 
@@ -485,7 +485,7 @@ but only to the extent that such information has not been provided to the EEA St
 
 (2) In sub-paragraph (1)(c), the types of parameters to be monitored and the duration of monitoring must be proportionate to the nature, location and size of the project and the significance of its effects on the environment but, to avoid duplication, existing monitoring arrangements under Union legislation other than the Directive may be used, if appropriate.
 
-### 23. Enforcement notices[^key-e321b4f5ccf60941b988d1cd3de6adca]
+### 23. Enforcement notices[^c-e321b4f5ccf60941b988d1cd3de6adca]
 
 (1) Where it appears to the Department that a person is carrying out or has carried out work in relation to a relevant project—
 
@@ -529,7 +529,7 @@ the Department may serve an enforcement notice on that person.
 - (a) in the case of a body corporate, be served on the secretary or clerk of that body at the address of the registered or principal office of that body;
 - (b) in the case of a partnership, be served on a partner or person having the control or management of the partnership business.
 
-### 24. Penalties for non-compliance with enforcement notices[^key-aede869ad84e225f291d16114ad15c43]
+### 24. Penalties for non-compliance with enforcement notices[^c-aede869ad84e225f291d16114ad15c43]
 
 (1) Any person who carries out work in relation to a relevant project in contravention of a requirement to discontinue that work in an enforcement notice served on him in accordance with regulation 23 shall be guilty of an offence and liable—
 
@@ -538,7 +538,7 @@ the Department may serve an enforcement notice on that person.
 
 (2) Any person on whom an enforcement notice has been served in accordance with regulation 23 who fails, within the period specified in the enforcement notice, to carry out any measure, other than discontinuance of the relevant project, required by the enforcement notice shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 25. Power of entry and default powers[^key-cc429e5fb3448e7b72734b64a352f085]
+### 25. Power of entry and default powers[^c-cc429e5fb3448e7b72734b64a352f085]
 
 (1) Subject to paragraph (2), any person duly authorised in writing by the Department may at any reasonable time enter any land on which he or the Department reasonably suspects that work in relation to a relevant project is being or has been carried out—
 
@@ -552,7 +552,7 @@ the Department may serve an enforcement notice on that person.
 
 (3) A person authorised under paragraphs (1) or (2) to enter any land shall, if so requested, produce evidence of his authority before so entering.
 
-### 26. Registers of directions, decisions and opinions etc. for public inspection[^key-ad8aa1b7e63d41905ad85948e02275c2]
+### 26. Registers of directions, decisions and opinions etc. for public inspection[^c-ad8aa1b7e63d41905ad85948e02275c2]
 
 (1) The Department shall keep a register of the following—
 
@@ -567,7 +567,7 @@ the Department may serve an enforcement notice on that person.
 
 ## PART III — DEPARTMENTAL FORESTRY PROJECTS
 
-### 27. Restriction on relevant projects[^key-c98d073f6afea04e4834586f785eaceb]
+### 27. Restriction on relevant projects[^c-c98d073f6afea04e4834586f785eaceb]
 
 (1) This Part applies to any project carried out by the Department.
 
@@ -576,7 +576,7 @@ the Department may serve an enforcement notice on that person.
 - (a) that person has consented to the carrying out of the project in question; and
 - (b) the project is carried out in accordance with any conditions to which the consent is subject.
 
-### 28. Consideration whether the proposed project has significant effects on the environment[^key-6d49b22d2dd28118d89fb70876983b15]
+### 28. Consideration whether the proposed project has significant effects on the environment[^c-6d49b22d2dd28118d89fb70876983b15]
 
 The Department shall consider, taking into account the selection criteria in Schedule 3, whether any proposed project other than a project which—
 
@@ -585,14 +585,14 @@ The Department shall consider, taking into account the selection criteria in Sch
 
 is a relevant project.
 
-### 29. Determinations following consideration of project under regulation 28[^key-d31bd36f6664682dabfc8decf491e46a]
+### 29. Determinations following consideration of project under regulation 28[^c-d31bd36f6664682dabfc8decf491e46a]
 
 (1) Where, pursuant to regulation 28, the Department considers that a proposed project is not a relevant project, it shall, by general and local advertisement—
 
 - (a) state that it proposes to carry out the project in question;
 - (b) describe briefly the nature, size and location of the proposed project;
 - (c) state that it does not propose to prepare an environmental statement in respect of the project;
-- (d) state that any person may make representations to the Department in writing in relation to the likely environmental effects of the project at an address specified in the notice within 30 days[^key-5df9d53214e4ea956282889d6b49f05b] of the date of the publication of the notice in the Belfast Gazette; and
+- (d) state that any person may make representations to the Department in writing in relation to the likely environmental effects of the project at an address specified in the notice within 30 days[^c-5df9d53214e4ea956282889d6b49f05b] of the date of the publication of the notice in the Belfast Gazette; and
 - (e) describe what other information relating to the environmental effects of the proposed project is available and give details of where it can be obtained.
 
 (2) Where the Department publishes a notice in accordance with paragraph (1) in relation to any proposed project it shall, on or before the date of the publication of the notice in the Belfast Gazette, send a copy of that notice to each of the consultation bodies.
@@ -601,7 +601,7 @@ is a relevant project.
 
 (4) Where, following the period specified in paragraph (1)(d) the Department considers (whether in the light of any representations or otherwise) that the proposed project is likely to have significant effects on the environment, it shall make a determination accordingly.
 
-### 30. Notification of determination that a proposed project is likely to have significant effects on the environment[^key-bfdfeb0b2e2a401c3e4c3ff88837bfbb]
+### 30. Notification of determination that a proposed project is likely to have significant effects on the environment[^c-bfdfeb0b2e2a401c3e4c3ff88837bfbb]
 
 (1) This regulation applies to any case where, under regulation 29(4), the Department determines that any proposed project is likely to have significant effects on the environment.
 
@@ -609,35 +609,35 @@ is a relevant project.
 
 - (a) describe briefly the nature, size and location of the proposed project in question;
 - (b) state that the proposed project is likely to have significant effects on the environment and that the Department intends to prepare an environmental statement in respect of it;
-- (c) state that any person may obtain information from, or make representations in writing to, the Department in relation to the likely environmental effects of the proposed project at an address specified in the notice within 30 days[^key-c53c440bdc3cfb5977228efbe61ab744] of the date of the publication of the notice in the Belfast Gazette;
+- (c) state that any person may obtain information from, or make representations in writing to, the Department in relation to the likely environmental effects of the proposed project at an address specified in the notice within 30 days[^c-c53c440bdc3cfb5977228efbe61ab744] of the date of the publication of the notice in the Belfast Gazette;
 - (d) indicate the nature of the information in question and the times where and means by which it will be made available;
 - (e) state the nature of the possible decisions that may be made in the case or, if there is one, the draft decision; and
-- (f) indicate whether the proposed project is likely to have significant effects on the environment in an[^key-0a10d65ca70439a72110ceb9c11cc962] EEA State.
+- (f) indicate whether the proposed project is likely to have significant effects on the environment in an[^c-0a10d65ca70439a72110ceb9c11cc962] EEA State.
 
 (3) Where the Department publishes an advertisement in accordance with paragraph (2) it shall, on or before the date of the publication of the notice in the Belfast Gazette, send a copy of that notice to each of the consultation bodies.
 
-### 31. Preparation of an environmental statement[^key-6dc71c0cf73df2be15b74d6d4ea47dd2]
+### 31. Preparation of an environmental statement[^c-6dc71c0cf73df2be15b74d6d4ea47dd2]
 
 The Department shall prepare an environmental statement in any case to which regulation 30 applies.
 
-### 32. Publicity for an environmental statement[^key-352bb79c33813fc27cc87ebf4620c456]
+### 32. Publicity for an environmental statement[^c-352bb79c33813fc27cc87ebf4620c456]
 
 (1) Where the Department has prepared an environmental statement in relation to any proposed project, it shall by general and local advertisement give notice in accordance with paragraphs (2) and (3).
 
 (2) The advertisement shall state—
 
 - (a) that the environmental statement has been prepared and give details of the places where and times at which copies, together with details of the proposed project to which the statement relates, may be inspected;
-- (b) that any person wishing to make representations in relation to the likely environmental effects of the proposed project to which the statement relates shall make them in writing to the Department at the address specified in the advertisement within 30 days[^key-124b11ee3f3f9f84454a56fa7f2edc9c] of the publication of the notice in the Belfast Gazette; and;
+- (b) that any person wishing to make representations in relation to the likely environmental effects of the proposed project to which the statement relates shall make them in writing to the Department at the address specified in the advertisement within 30 days[^c-124b11ee3f3f9f84454a56fa7f2edc9c] of the publication of the notice in the Belfast Gazette; and;
 - (c) that where no objection in relation to the likely environmental effects of the project is made and the Department, having undertaken the assessment specified in regulation 36(1), considers that the project should proceed, it may so determine.
 
 (3) On or before the date of publication in the Belfast Gazette of the notice under paragraph (1), the Department shall—
 
 - (a) send a copy of the environmental statement and notice to each of the consultation bodies so that any such body has an opportunity to make representations on the likely environmental effects of the project to which the statement relates before the expiry of the period specified in the notice;
-- (b) make available at an office of the Department or some other convenient place for a period of at least 30 days[^key-8252d25494d9754bd4393c54aebfb756] following the date of publication of the notice in the Belfast Gazette, the details of the proposed project and the environmental statement relating to the project and ensure that a reasonable number of copies of the statement are made available and, if a charge is to be made for any such copy under regulation 34, the amount of the charge.
+- (b) make available at an office of the Department or some other convenient place for a period of at least 30 days[^c-8252d25494d9754bd4393c54aebfb756] following the date of publication of the notice in the Belfast Gazette, the details of the proposed project and the environmental statement relating to the project and ensure that a reasonable number of copies of the statement are made available and, if a charge is to be made for any such copy under regulation 34, the amount of the charge.
 
 (4) Where, in accordance with paragraph (3)(a), the Department sends any person a copy of the environmental statement it shall consult that person about the statement and the likely environmental effects of the proposed project to which it relates.
 
-### 33. Assistance in the preparation of environmental statements[^key-87d045c0b1ce507355b8cf1b6db4fe1f]
+### 33. Assistance in the preparation of environmental statements[^c-87d045c0b1ce507355b8cf1b6db4fe1f]
 
 (1) Subject to paragraph (6), where the Department is required to prepare an environmental statement in pursuance of regulation 31 it may consult with any person to determine whether that person has in his possession any information which may be relevant to the preparation of the environmental statement and if that person has any such information, he shall make that information available to the Department.
 
@@ -648,33 +648,33 @@ The Department shall prepare an environmental statement in any case to which reg
 (4) Where, pursuant to paragraph (3), the Department obtains any additional information it shall—
 
 - (a) by general and local advertisement state that the additional information is available, and give details of the places where and times at which a copy of that additional information may be inspected or obtained and, if a charge is to be made for any such copy under regulation 34, the amount of the charge; and
-- (b) state that any person who wishes to make representations in relation to the additional information should make such representations in writing to the Department at the address specified in the advertisement within 28 days[^key-c05fac68a006172d1a89ad903091ca8b] of the date of the publication of the notice in the Belfast Gazette.
+- (b) state that any person who wishes to make representations in relation to the additional information should make such representations in writing to the Department at the address specified in the advertisement within 28 days[^c-c05fac68a006172d1a89ad903091ca8b] of the date of the publication of the notice in the Belfast Gazette.
 
 (5) At the same time as the notice in the Belfast Gazette is published under paragraph (4)(a), the Department shall—
 
 - (a) send copies of the additional information to each consultation body;
-- (b) make available for inspection at an office of the Department or at some other convenient place, for a period of at least 30 days[^key-8ed29288eae284bafa7e0906ff6012fc] following the date of publication of the notice in the Belfast Gazette, the additional information, the details of the proposed project in question and the environmental statement relating to the project, and ensure that a reasonable number of copies of the information are made available.
+- (b) make available for inspection at an office of the Department or at some other convenient place, for a period of at least 30 days[^c-8ed29288eae284bafa7e0906ff6012fc] following the date of publication of the notice in the Belfast Gazette, the additional information, the details of the proposed project in question and the environmental statement relating to the project, and ensure that a reasonable number of copies of the information are made available.
 
 (6) Nothing in paragraph (1) or (3) shall require the disclosure by any person of information which is capable of being treated as confidential under the Environmental Information Regulations 2004.
 
 (7) Any person making information available to the Department in accordance with paragraph (1) or (3) may make a reasonable charge reflecting the cost thereof and the Department shall pay that charge.
 
-### 34. Charges[^key-cacff149763af794fd6d700425c82c8f]
+### 34. Charges[^c-cacff149763af794fd6d700425c82c8f]
 
 The Department may make a reasonable charge reflecting printing and distribution costs to any person for—
 
 - (a) any copy, in excess of one, of the whole or any part of an environmental statement supplied to that person in accordance with regulation 32(3) or 35; or
 - (b) any copy, in excess of one, of the whole or any part of any additional information supplied to that person in accordance with regulation 33(5) or 35.
 
-### 35. Proposed project likely to have significant effect on the environment in an EEA State[^key-f421895c11ee7f631f3a69968b38dd9b][^key-5e3afe6af33d46db6fb9cc3b5957a9da]
+### 35. Proposed project likely to have significant effect on the environment in an EEA State[^c-f421895c11ee7f631f3a69968b38dd9b][^c-5e3afe6af33d46db6fb9cc3b5957a9da]
 
-(1) Where it appears to the Department that any proposed project is likely to have a significant effect on the environment in an[^key-10d82a8e94c6c20c09e8db3d87826ff3] EEA State or where an EEA State likely to be significantly affected so requests, the Department shall—
+(1) Where it appears to the Department that any proposed project is likely to have a significant effect on the environment in an[^c-10d82a8e94c6c20c09e8db3d87826ff3] EEA State or where an EEA State likely to be significantly affected so requests, the Department shall—
 
 - (a) send to that State, as soon as possible and no later than the date of publication in the Belfast Gazette of the notice referred to in regulation 32(2)—
   - (i) a copy of the notice; and
   - (ii) any available information on the possible significant effects of the proposed project on the environment in that EEA State;
 - (b) make available to the State any further information which is relevant to the notice in the Belfast Gazette forwarded to it under sub–paragraph (a) but which only became available after its publication; and
-- (c) inform the EEA State in writing that if it wishes to be consulted further in relation to the proposed project in accordance with paragraphs (2) to (4) it must inform the Department of that fact within 30 days[^key-2d5e204eeef6f3b9faada2db175f240c] beginning with the day on which the Department forwarded the copy of the notice or other information, whichever is the later, to that State.
+- (c) inform the EEA State in writing that if it wishes to be consulted further in relation to the proposed project in accordance with paragraphs (2) to (4) it must inform the Department of that fact within 30 days[^c-2d5e204eeef6f3b9faada2db175f240c] beginning with the day on which the Department forwarded the copy of the notice or other information, whichever is the later, to that State.
 
 (2) Where an EEA State indicates in accordance with paragraph (1)(c), that it wishes to be consulted further, the Department shall send to that EEA State—
 
@@ -690,10 +690,10 @@ but only to the extent that such information has not been provided to the EEA St
 - (a) arrange for the particulars and information referred to in paragraphs (1) and (2) to be made available, within a reasonable time, to the authorities referred to in Article 6(1) of the Directive and the public concerned in the territory of the EEA State likely to be significantly affected; and
 - (b) ensure that these authorities and the public concerned are given an opportunity, before a determination is made as to whether the proposed project should proceed, to forward to the Department, within reasonable time their opinion on the information supplied.
 
-(4) The Department shall [^key-a82698e43d7ab6132330497bd66f0782]...—
+(4) The Department shall [^c-a82698e43d7ab6132330497bd66f0782]...—
 
 - (a) consult with the EEA State concerned regarding, inter alia, the potential significant effects of the proposed project on the environment of that EEA State and the measures envisaged to reduce or eliminate such effects; and
-- (b) determine, in agreement with the [^key-84573eab20e61faf90170624fc7880d9]...EEA State, a reasonable period of time for the duration of the consultation period.
+- (b) determine, in agreement with the [^c-84573eab20e61faf90170624fc7880d9]...EEA State, a reasonable period of time for the duration of the consultation period.
 
 (5) Where an EEA State has been consulted in relation to any proposed project in accordance with paragraph (4) the Department shall inform the EEA State of the determination in respect of the proposed project and shall forward to it a statement of—
 
@@ -701,7 +701,7 @@ but only to the extent that such information has not been provided to the EEA St
 - (b) the main reasons and considerations on which the determination is based; and
 - (c) a description, where necessary, of the main measures to avoid, reduce and, if possible, offset the adverse effects of the proposed project.
 
-### 36. Determination of whether proposed project should proceed[^key-6611c953ca084473fa194328acc057f9]
+### 36. Determination of whether proposed project should proceed[^c-6611c953ca084473fa194328acc057f9]
 
 (1) On expiry of the period referred to in regulation 32(2)(b) the Department shall assess, in the light of the environmental statement, any additional information and any representations made in accordance with regulations 32 or 35, the direct and indirect effects of the proposed project on the environmental factors specified in Schedule 4.
 
@@ -736,7 +736,7 @@ it shall publish a general and local advertisement in accordance with paragraph 
 
 (7) Where in accordance with paragraph (6), the appointed person requests further information from the Department in relation to any proposed project, the Department shall, no later than the time when it provides that information to the appointed person—
 
-- (a) by general, local and electronic[^key-09d3b006610418689ca0b734a780c7f9] advertisement, at least 30 days[^M_F_1b1d2b49-ed0c-4bca-e638-00d938dcf3ff] before a determination as to whether the proposed project should proceed—
+- (a) by general, local and electronic[^c-09d3b006610418689ca0b734a780c7f9] advertisement, at least 30 days[^M_F_1b1d2b49-ed0c-4bca-e638-00d938dcf3ff] before a determination as to whether the proposed project should proceed—
   - (i) state that the further information is available in relation to the project and give details of the places where and times at which a copy may be inspected; and
   - (ii) state that any person who wishes to make representations on the likely environmental effects of the project to which the further information relates may make them in writing to the appointed person at the address specified in the advertisement within 30 days of the date of the publication of the notice in the Belfast Gazette;
 - (b) on or before the date of the publication of the notice in the Belfast Gazette supply a copy of the further information and notice to each of the consultation bodies so that they have an opportunity to make representations to the appointed person on the likely environmental effects of the proposed project to which the further information relates before the expiry of the period specified in the notice.
@@ -764,7 +764,7 @@ it shall publish a general and local advertisement in accordance with paragraph 
 - (b) the main reasons and considerations on which the decision is based, including information about the public participation process; and
 - (c) a description, where necessary, of the main measures proposed to avoid or mitigate any major adverse effects on the environment of the project.
 
-### 37. Public Participation[^key-8a0be175ee233dee1bcbc5a23501f9bb]
+### 37. Public Participation[^c-8a0be175ee233dee1bcbc5a23501f9bb]
 
 The Department shall, in relation to any proposed project, make available to the public—
 
@@ -773,7 +773,7 @@ The Department shall, in relation to any proposed project, make available to the
 
 ## PART IV — FINAL
 
-### 38. Revocation and transitional provisions[^key-f0a87bfac67b3a496a4715a74f74035a]
+### 38. Revocation and transitional provisions[^c-f0a87bfac67b3a496a4715a74f74035a]
 
 (1) Subject to paragraph (2), the Environmental Impact Assessment (Forestry) Regulations (Northern Ireland) 2000 (in this regulation called “the 2000 Regulations”)[^f00011] are revoked.
 
@@ -785,13 +785,13 @@ The Department shall, in relation to any proposed project, make available to the
 
 was made before these Regulations came into operation and in such a case these Regulations shall not apply.
 
-(3)[^key-9fb94a7ca63b254553b971c29cf1f262] The amendments made to these regulations by the Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 do not apply to projects where, before the commencement date—
+(3)[^c-9fb94a7ca63b254553b971c29cf1f262] The amendments made to these regulations by the Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 do not apply to projects where, before the commencement date—
 
 - (a) the proposer has applied in writing to the Department under regulation 6(1) for its opinion whether a project is a relevant project;
 - (b) the proposer has requested the Department to give its opinion under regulation 9(1) as to the scope and level of detail of the information to be contained in the environmental statement required for that project; or
 - (c) the environmental statement has been submitted under regulation 10(1).
 
-### 39. Review[^key-2f172632490cfa057e21805b8021b1d8]
+### 39. Review[^c-2f172632490cfa057e21805b8021b1d8]
 
 (1) The Department must from time to time—
 
@@ -817,7 +817,7 @@ John J O’Boyle
 
 A senior officer of the Department of Agriculture and Rural Development
 
-## SCHEDULE 1 — Information for inclusion in Environmental Statements[^key-6d60639cad765235542699cc739bf890]
+## SCHEDULE 1 — Information for inclusion in Environmental Statements[^c-6d60639cad765235542699cc739bf890]
 
 Regulations 2(1) and 13(2)
 
@@ -851,7 +851,7 @@ Regulations 2(1) and 13(2)
 - (f) the impact of the project on climate (for example the nature and magnitude of greenhouse gas emissions) and the vulnerability of the project to climate change;
 - (g) the technologies used.
 
-**6.** The description of the likely significant effects on the factors specified in Schedule 4 must cover the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent or temporary, positive and negative effects of the project. This description must take into account the environmental protection objectives in[^key-682e3d759677b2fe2dfbdc243c4e0326] assimilated[^key-987774078e5581c75ad3af51976a81ba] law or under other national legislation which are relevant to the project.
+**6.** The description of the likely significant effects on the factors specified in Schedule 4 must cover the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent or temporary, positive and negative effects of the project. This description must take into account the environmental protection objectives in[^c-682e3d759677b2fe2dfbdc243c4e0326] assimilated[^c-987774078e5581c75ad3af51976a81ba] law or under other national legislation which are relevant to the project.
 
 **7.** A description of the forecasting methods or evidence, used to identify and assess the significant effects on the environment, including details of difficulties (for example technical deficiencies or lack of knowledge) encountered compiling the required information and the main uncertainties involved.
 
@@ -859,7 +859,7 @@ Regulations 2(1) and 13(2)
 
 **9.** A description of the expected significant adverse effects of the project on the environment deriving from the vulnerability of the project to risks of major accidents and/or disasters which are relevant to the project concerned. Where appropriate, this description should include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
 
-Relevant information available and obtained through risk assessments pursuant to[^key-1567ab10e74232569efe305806454563] assimilated[^key-fa8959ef9eb5628d613ce10d25e2b7c4] law or UK environmental assessments may be used for this purpose provided that the requirements of any law that implements the Directive are met.
+Relevant information available and obtained through risk assessments pursuant to[^c-1567ab10e74232569efe305806454563] assimilated[^c-fa8959ef9eb5628d613ce10d25e2b7c4] law or UK environmental assessments may be used for this purpose provided that the requirements of any law that implements the Directive are met.
 
 Where appropriate, this description should include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
 
@@ -883,7 +883,7 @@ Where appropriate, this description should include measures envisaged to prevent
 
 Regulations 3(3), 7(3) and 7(6)
 
-### 1. Interpretation[^key-3fdf08c62e207863b10d6ee6de8f9533]
+### 1. Interpretation[^c-3fdf08c62e207863b10d6ee6de8f9533]
 
 For the purposes of this Schedule—
 
@@ -894,10 +894,10 @@ For the purposes of this Schedule—
   - (d) a nature reserve within the meaning of the 1985 Order;
   - (e) a property appearing on the World Heritage List kept under Article 11(2) of the 1972 UNESCO Convention for the Protection of the World Cultural and Natural Heritage[^f00014];
   - (f) a scheduled historic monument within the meaning of the Historic Monuments and Archaeological Objects (Northern Ireland) Order 1995[^f00015];
-  - (g) a European site within the meaning of regulation 9 of the Habitats Regulations[^key-853d076b9ee271c1418436d75a2d83cc] ;
+  - (g) a European site within the meaning of regulation 9 of the Habitats Regulations[^c-853d076b9ee271c1418436d75a2d83cc] ;
 - “specified threshold” means any threshold specified in hectares in Column 2 or 3 of the Table in paragraph 2.
 
-### 2. Thresholds[^key-90419632b497ea8b0bd8c61fc3cb4d75]
+### 2. Thresholds[^c-90419632b497ea8b0bd8c61fc3cb4d75]
 
 Subject to paragraph 3, for the purposes of regulation 3(3), the threshold for any project of a type specified in an entry in Column 1 in the Table is the area (if any) specified in the corresponding entry in Column 2 or 3 of the Table, whichever is appropriate to the land covered, or proposed to be covered, by that project.
 
@@ -911,7 +911,7 @@ Table 1
 | Forest Road Works | No threshold | 1 hectare |
 | Forest Quarry Works | No threshold | 1 hectare |
 
-### 3. Thresholds for extending projects[^key-1ea8af6f18b7830acc80539d7cf0b898]
+### 3. Thresholds for extending projects[^c-1ea8af6f18b7830acc80539d7cf0b898]
 
 (1) Where the project under consideration is an extending project—
 
@@ -933,7 +933,7 @@ Table 1
     - (i) whose area adjoins the material past project, or one of them; and
     - (ii) which satisfies conditions (a) to (c) in the definition of “material past project”.
 
-### 4. Consideration of thresholds in other cases where a project adjoins or is near another project[^key-302a635dc968d9b8c22083f0e388e6fb]
+### 4. Consideration of thresholds in other cases where a project adjoins or is near another project[^c-302a635dc968d9b8c22083f0e388e6fb]
 
 (1) The facts —
 
@@ -947,7 +947,7 @@ may be regarded by the Department as rendering the circumstances of that project
 - (a) shall not affect the application of those regulations in a case which does fall within paragraph 3; and
 - (b) shall not be interpreted as limiting the generality of the references in those regulations to circumstances which are, in the opinion of the Department, exceptional.
 
-## SCHEDULE 2A — Information to be provided by the proposer for an application for an opinion whether a project is a relevant project[^key-a753f5c4b4909b73a0f98fbec7f544c0]
+## SCHEDULE 2A — Information to be provided by the proposer for an application for an opinion whether a project is a relevant project[^c-a753f5c4b4909b73a0f98fbec7f544c0]
 
 Regulation 6
 
@@ -963,7 +963,7 @@ Regulation 6
 - (a) the expected residues and emission and the production of waste, where relevant; and
 - (b) the use of natural resources, in particular soil, land, water and biodiversity.
 
-## SCHEDULE 3 — Projects having significant effects on the environment: selection criteria[^key-00e6ec74f59cb27e0808d3ec9df2c8db]
+## SCHEDULE 3 — Projects having significant effects on the environment: selection criteria[^c-00e6ec74f59cb27e0808d3ec9df2c8db]
 
 Regulations 6, 7(2) and (3) and 28
 
@@ -990,7 +990,7 @@ The environmental sensitivity of geographical areas likely to be affected by pro
   - (ii) coastal zones and the marine environment;
   - (iii) mountain and forest areas;
   - (iv) nature reserves and parks;
-  - (v) areas classified or protected under national legislation; Natura 2000 areas [^key-5d1d875f00dbcbc551d3881f8d62c76a]... ;
+  - (v) areas classified or protected under national legislation; Natura 2000 areas [^c-5d1d875f00dbcbc551d3881f8d62c76a]... ;
   - (vi) areas in which there has already been a failure to meet the environmental quality standards, laid down in legislation and relevant to the project, or in which it is considered that there is such a failure;
   - (vii) densely populated areas;
   - (viii) landscapes and sites of historical, cultural or archaeological significance.
@@ -1008,7 +1008,7 @@ The likely significant effects of the project on the environment must be conside
 - (g) the cumulation of the impact with the impact of other existing or approved projects;
 - (h) the possibility of effectively reducing the impact.
 
-## SCHEDULE 4 — Environmental factors[^key-02e9bb484d8c1f1312c61fe86623ecdc]
+## SCHEDULE 4 — Environmental factors[^c-02e9bb484d8c1f1312c61fe86623ecdc]
 
 Regulations 16(3) and 36(1)
 
@@ -1017,7 +1017,7 @@ Regulations 16(3) and 36(1)
   - (b) biodiversity, with particular attention
   - (c) land, soil, water, air and climate;
 
-    —[^key-5c62804de0cff98337b5e90c7879b7ca]
+    —[^c-5c62804de0cff98337b5e90c7879b7ca]
 
     - (i) species of naturally occurring birds in the wild state as specified in [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) on the conservation of wild birds;
     - (ii) natural habitat types in Annex 1 to Directive 92/43;
@@ -1030,26 +1030,26 @@ Regulations 16(3) and 36(1)
 
 Regulation 18(6), 36(5)
 
-**1.**[^key-63aab8d5764091aaddec6e9dc738488c] In this Schedule “appointed person” means a person appointed under regulation 18(6) or 36(5) and “appointment” means an appointment under those regulations.
+**1.**[^c-63aab8d5764091aaddec6e9dc738488c] In this Schedule “appointed person” means a person appointed under regulation 18(6) or 36(5) and “appointment” means an appointment under those regulations.
 
-**2.**[^key-ba9f00d5ced8bfb4ad88c806ea748cea] An appointment must be in writing and —
+**2.**[^c-ba9f00d5ced8bfb4ad88c806ea748cea] An appointment must be in writing and —
 
 - (a) may relate to any particular appeal or matter specified in the appointment or to appeals or matters of a description so specified;
 - (b) shall provide for the appointed person to determine the appeal or matter specified in the appointment;
 - (c) may provide for any function to which it relates to be exercisable by the appointed person either unconditionally or subject to the fulfilment of such conditions as may be specified in the appointment; and
 - (d) may, by notice in writing given to the appointed person, be revoked at any time by the Department in respect of any appeal or matter which has not been determined by the appointed person before that time.
 
-**3.**[^key-1a2a13b486755fcc077de05f1a359674] Where an appointed person holds a hearing, whether public or otherwise, an assessor may be appointed by the Department to sit with the appointed person at the inquiry or hearing and advise him on any matters arising.
+**3.**[^c-1a2a13b486755fcc077de05f1a359674] Where an appointed person holds a hearing, whether public or otherwise, an assessor may be appointed by the Department to sit with the appointed person at the inquiry or hearing and advise him on any matters arising.
 
-**4.**[^key-aa04173381816970510fcbd8cf4c726e] Subject to regulation 18, the costs of a hearing by an appointed person shall be defrayed by the Department.
+**4.**[^c-aa04173381816970510fcbd8cf4c726e] Subject to regulation 18, the costs of a hearing by an appointed person shall be defrayed by the Department.
 
-**5.**[^key-ebfbd09d4f99ffb40a1a2658b2eed0c0] (1) Where under paragraph 2(d) the appointment of the appointed person is revoked in respect of any appeal or matter, the Department shall appoint another person under regulation 18(6) or 36(5) to determine the appeal or matter instead.
+**5.**[^c-ebfbd09d4f99ffb40a1a2658b2eed0c0] (1) Where under paragraph 2(d) the appointment of the appointed person is revoked in respect of any appeal or matter, the Department shall appoint another person under regulation 18(6) or 36(5) to determine the appeal or matter instead.
 
 (2) Where such a new appointment is made, the consideration of the appeal or matter, or any hearing in connection with it, shall be begun afresh.
 
 (3) Nothing in sub-paragraph (2) shall require any person to be given an opportunity of making fresh representations or modifying or withdrawing any representations already made.
 
-**6.**[^key-b1a30dd4a47bbb4c35a1e4b82e70d143] (1) Anything done or omitted to be done by an appointed person in, or in connection with, the exercise or purported exercise of any function to which the appointment relates shall be treated for all purposes as done or omitted to be done by the Department.
+**6.**[^c-b1a30dd4a47bbb4c35a1e4b82e70d143] (1) Anything done or omitted to be done by an appointed person in, or in connection with, the exercise or purported exercise of any function to which the appointment relates shall be treated for all purposes as done or omitted to be done by the Department.
 
 (2) Sub-paragraph (1) shall not apply —
 
@@ -1110,195 +1110,195 @@ In Part 4 ‘The 2000 Regulations’ are revoked. Transitional provisions apply,
 
 [^f00002]: Footnote: [1972 C.68](https://www.legislation.gov.uk/ukpga/1972/68) Section 2 is subject to Schedule 2 to that Act and is to be read with [S.I. 1984/703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703) and [S.I. 1994/2795 (N.I. 15)](https://www.legislation.gov.uk/nisi/1994/2795)
 
-[^key-ef38d68622bef15eba3ef9bb9c0fa7b2]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2006/518) power to amend or revoke conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/4) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-ef38d68622bef15eba3ef9bb9c0fa7b2]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2006/518) power to amend or revoke conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/4) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-ee0c5e80f50738614a493200fca73609]: Commencement: Reg. 1 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-ee0c5e80f50738614a493200fca73609]: Commencement: Reg. 1 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-ad5220b11cbfd913b7878a8abb4cecec]: Commencement: Reg. 2 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-ad5220b11cbfd913b7878a8abb4cecec]: Commencement: Reg. 2 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-bef9629f6cbc7560c500d61937d2dd74]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2017/86/regulation/4/a)
+[^c-bef9629f6cbc7560c500d61937d2dd74]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2017/86/regulation/4/a)
 
-[^key-8f732c8b31fe63867a62644ed648a5b3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2017/86/regulation/4/b)
+[^c-8f732c8b31fe63867a62644ed648a5b3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2017/86/regulation/4/b)
 
 [^f00003]: Footnote: [S.I. 1991/1220 (N.I. 11)](https://www.legislation.gov.uk/nisi/1991/1220)
 
-[^key-fa57a2d893b957ed16d22a0d8754ca49]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [4(c)](https://www.legislation.gov.uk/nisr/2017/86/regulation/4/c)
+[^c-fa57a2d893b957ed16d22a0d8754ca49]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [4(c)](https://www.legislation.gov.uk/nisr/2017/86/regulation/4/c)
 
-[^key-1a4244a61a1b1eaa87d8be9fbd5d8fff]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/2/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [4(d)](https://www.legislation.gov.uk/nisr/2017/86/regulation/4/d)
+[^c-1a4244a61a1b1eaa87d8be9fbd5d8fff]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/2/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [4(d)](https://www.legislation.gov.uk/nisr/2017/86/regulation/4/d)
 
-[^key-5c7fa9f20d9cde7dc8dc826feecc8aa9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [4(e)](https://www.legislation.gov.uk/nisr/2017/86/regulation/4/e)
+[^c-5c7fa9f20d9cde7dc8dc826feecc8aa9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [4(e)](https://www.legislation.gov.uk/nisr/2017/86/regulation/4/e)
 
-[^key-7b34ed350f9b9b60725031b99631f9ef]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/2/1) inserted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b34ed350f9b9b60725031b99631f9ef]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/2/1) inserted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-47d020d6972851b5713be78b3d1d5cd3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [4(f)](https://www.legislation.gov.uk/nisr/2017/86/regulation/4/f)
+[^c-47d020d6972851b5713be78b3d1d5cd3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [4(f)](https://www.legislation.gov.uk/nisr/2017/86/regulation/4/f)
 
-[^key-4c632f2929ece42d72b8997503d713d4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/2/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [4(g)](https://www.legislation.gov.uk/nisr/2017/86/regulation/4/g)
+[^c-4c632f2929ece42d72b8997503d713d4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/2/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [4(g)](https://www.legislation.gov.uk/nisr/2017/86/regulation/4/g)
 
-[^key-0b15f09c39d7ea89d4fd07cd21d7d1dd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/2/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 7(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/7/a)
+[^c-0b15f09c39d7ea89d4fd07cd21d7d1dd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/2/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 7(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/7/a)
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-3af57804187969c6ae5d0fda7c63e616]: Commencement: Reg. 3 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-3af57804187969c6ae5d0fda7c63e616]: Commencement: Reg. 3 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-c442ea6f21045bd73c01d7996dddf5c2]: Textual amendment: [Reg. 3(c)(ii)(iii)](https://www.legislation.gov.uk/nisr/2006/518/regulation/3/c/ii/iii) substituted (16.5.2017) by virtue of [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [5](https://www.legislation.gov.uk/nisr/2017/86/regulation/5)
+[^c-c442ea6f21045bd73c01d7996dddf5c2]: Textual amendment: [Reg. 3(c)(ii)(iii)](https://www.legislation.gov.uk/nisr/2006/518/regulation/3/c/ii/iii) substituted (16.5.2017) by virtue of [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [5](https://www.legislation.gov.uk/nisr/2017/86/regulation/5)
 
-[^key-4aa608c5767bd9f3d0a0cb877b4484e5]: Commencement: Reg. 4 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-4aa608c5767bd9f3d0a0cb877b4484e5]: Commencement: Reg. 4 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-17d5da9b6d1ef0bf41e938bdca9d4d7f]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/4/1)[(2)](https://www.legislation.gov.uk/nisr/2006/518/regulation/4/2) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [6(a)](https://www.legislation.gov.uk/nisr/2017/86/regulation/6/a)
+[^c-17d5da9b6d1ef0bf41e938bdca9d4d7f]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/4/1)[(2)](https://www.legislation.gov.uk/nisr/2006/518/regulation/4/2) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [6(a)](https://www.legislation.gov.uk/nisr/2017/86/regulation/6/a)
 
-[^key-58e6ca5306e95ee235b735b6ed614d24]: Commencement: Reg. 5 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-58e6ca5306e95ee235b735b6ed614d24]: Commencement: Reg. 5 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-b684a1da537144c47d508a56d1520af3]: Commencement: Reg. 6 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-b684a1da537144c47d508a56d1520af3]: Commencement: Reg. 6 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-f80b8f58982f5d3f0ffab8b6a8acc2c6]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2006/518/regulation/6/2)[(2A)](https://www.legislation.gov.uk/nisr/2006/518/regulation/6/2A)[(2B)](https://www.legislation.gov.uk/nisr/2006/518/regulation/6/2B)[(3)](https://www.legislation.gov.uk/nisr/2006/518/regulation/6/3) substituted for [reg. 6(2)](https://www.legislation.gov.uk/nisr/2006/518/regulation/6/2)[(3)](https://www.legislation.gov.uk/nisr/2006/518/regulation/6/3) (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [7](https://www.legislation.gov.uk/nisr/2017/86/regulation/7)
+[^c-f80b8f58982f5d3f0ffab8b6a8acc2c6]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2006/518/regulation/6/2)[(2A)](https://www.legislation.gov.uk/nisr/2006/518/regulation/6/2A)[(2B)](https://www.legislation.gov.uk/nisr/2006/518/regulation/6/2B)[(3)](https://www.legislation.gov.uk/nisr/2006/518/regulation/6/3) substituted for [reg. 6(2)](https://www.legislation.gov.uk/nisr/2006/518/regulation/6/2)[(3)](https://www.legislation.gov.uk/nisr/2006/518/regulation/6/3) (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [7](https://www.legislation.gov.uk/nisr/2017/86/regulation/7)
 
-[^key-f54e14587784967d144a943d050d7a05]: Commencement: Reg. 7 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-f54e14587784967d144a943d050d7a05]: Commencement: Reg. 7 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-c43e6b011feaf4449f2d751b7145677d]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/7/1)[(1A)](https://www.legislation.gov.uk/nisr/2006/518/regulation/7/1A) substituted for [reg. 7(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/7/1) (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [8(a)](https://www.legislation.gov.uk/nisr/2017/86/regulation/8/a)
+[^c-c43e6b011feaf4449f2d751b7145677d]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/7/1)[(1A)](https://www.legislation.gov.uk/nisr/2006/518/regulation/7/1A) substituted for [reg. 7(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/7/1) (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [8(a)](https://www.legislation.gov.uk/nisr/2017/86/regulation/8/a)
 
-[^key-3dd266c33f9b048036c1bb48ed48907b]: Textual amendment: [Reg. 7(4A)](https://www.legislation.gov.uk/nisr/2006/518/regulation/7/4A) added (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2017/86/regulation/8/b)
+[^c-3dd266c33f9b048036c1bb48ed48907b]: Textual amendment: [Reg. 7(4A)](https://www.legislation.gov.uk/nisr/2006/518/regulation/7/4A) added (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2017/86/regulation/8/b)
 
-[^key-1751d379f015f20436203647b4272ce3]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/nisr/2006/518/regulation/7/5) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [8(c)](https://www.legislation.gov.uk/nisr/2017/86/regulation/8/c)
+[^c-1751d379f015f20436203647b4272ce3]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/nisr/2006/518/regulation/7/5) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [8(c)](https://www.legislation.gov.uk/nisr/2017/86/regulation/8/c)
 
-[^key-d14aaad33dfca982deaea64c0863e7e3]: Commencement: Reg. 8 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-d14aaad33dfca982deaea64c0863e7e3]: Commencement: Reg. 8 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-3fe4192250d2fbbdf819e9e55c0960db]: Commencement: Reg. 9 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-3fe4192250d2fbbdf819e9e55c0960db]: Commencement: Reg. 9 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-2d91da5ecebcf4fb799afc56e3e1ee4d]: Textual amendment: [Reg. 9(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/9/1)[(2)](https://www.legislation.gov.uk/nisr/2006/518/regulation/9/2) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [9](https://www.legislation.gov.uk/nisr/2017/86/regulation/9)
+[^c-2d91da5ecebcf4fb799afc56e3e1ee4d]: Textual amendment: [Reg. 9(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/9/1)[(2)](https://www.legislation.gov.uk/nisr/2006/518/regulation/9/2) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [9](https://www.legislation.gov.uk/nisr/2017/86/regulation/9)
 
-[^key-cc2de4b7832f3675fe683d3b26b9b4d1]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/nisr/2006/518/regulation/9A) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [10](https://www.legislation.gov.uk/nisr/2017/86/regulation/10)
+[^c-cc2de4b7832f3675fe683d3b26b9b4d1]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/nisr/2006/518/regulation/9A) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [10](https://www.legislation.gov.uk/nisr/2017/86/regulation/10)
 
-[^key-52bd8f641c2c6de57647b070d7445063]: Commencement: Reg. 10 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-52bd8f641c2c6de57647b070d7445063]: Commencement: Reg. 10 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-9c30f5757df58e14eee5170064556f16]: Commencement: Reg. 11 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-9c30f5757df58e14eee5170064556f16]: Commencement: Reg. 11 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
 [^f00010]: Footnote: [S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391)
 
-[^key-97dcf678b3e827f2acc2040810d294f5]: Commencement: Reg. 12 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-97dcf678b3e827f2acc2040810d294f5]: Commencement: Reg. 12 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-303ee8069fa3b1d6ab92496d0295b204]: Textual amendment: Words in [reg. 12(1)(d)](https://www.legislation.gov.uk/nisr/2006/518/regulation/12/1/d) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [11(a)](https://www.legislation.gov.uk/nisr/2017/86/regulation/11/a)
+[^c-303ee8069fa3b1d6ab92496d0295b204]: Textual amendment: Words in [reg. 12(1)(d)](https://www.legislation.gov.uk/nisr/2006/518/regulation/12/1/d) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [11(a)](https://www.legislation.gov.uk/nisr/2017/86/regulation/11/a)
 
-[^key-acec1375574e71d695600a647966bed4]: Textual amendment: Word in [reg. 12(1)(g)](https://www.legislation.gov.uk/nisr/2006/518/regulation/12/1/g) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-acec1375574e71d695600a647966bed4]: Textual amendment: Word in [reg. 12(1)(g)](https://www.legislation.gov.uk/nisr/2006/518/regulation/12/1/g) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-41d2fc3f901a252fe7437ac26af0972b]: Textual amendment: Words in [reg. 12(4)(b)](https://www.legislation.gov.uk/nisr/2006/518/regulation/12/4/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [11(b)](https://www.legislation.gov.uk/nisr/2017/86/regulation/11/b)
+[^c-41d2fc3f901a252fe7437ac26af0972b]: Textual amendment: Words in [reg. 12(4)(b)](https://www.legislation.gov.uk/nisr/2006/518/regulation/12/4/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [11(b)](https://www.legislation.gov.uk/nisr/2017/86/regulation/11/b)
 
-[^key-209388c99e0b3dd40c430b15b8d6ed10]: Textual amendment: Words in [reg. 12(5)(b)](https://www.legislation.gov.uk/nisr/2006/518/regulation/12/5/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [11(c)](https://www.legislation.gov.uk/nisr/2017/86/regulation/11/c)
+[^c-209388c99e0b3dd40c430b15b8d6ed10]: Textual amendment: Words in [reg. 12(5)(b)](https://www.legislation.gov.uk/nisr/2006/518/regulation/12/5/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [11(c)](https://www.legislation.gov.uk/nisr/2017/86/regulation/11/c)
 
-[^key-e16bfb5882f350977c9189e7273ae63e]: Commencement: Reg. 13 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-e16bfb5882f350977c9189e7273ae63e]: Commencement: Reg. 13 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-c0d5e29d9012bf2bb4004a086d9c7ff7]: Textual amendment: Words in [reg. 13(4)(b)](https://www.legislation.gov.uk/nisr/2006/518/regulation/13/4/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [12(a)](https://www.legislation.gov.uk/nisr/2017/86/regulation/12/a)
+[^c-c0d5e29d9012bf2bb4004a086d9c7ff7]: Textual amendment: Words in [reg. 13(4)(b)](https://www.legislation.gov.uk/nisr/2006/518/regulation/13/4/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [12(a)](https://www.legislation.gov.uk/nisr/2017/86/regulation/12/a)
 
-[^key-5e0771d721ed665f82521a2939ae0c08]: Textual amendment: Words in [reg. 13(5)(b)](https://www.legislation.gov.uk/nisr/2006/518/regulation/13/5/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [12(b)](https://www.legislation.gov.uk/nisr/2017/86/regulation/12/b)
+[^c-5e0771d721ed665f82521a2939ae0c08]: Textual amendment: Words in [reg. 13(5)(b)](https://www.legislation.gov.uk/nisr/2006/518/regulation/13/5/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [12(b)](https://www.legislation.gov.uk/nisr/2017/86/regulation/12/b)
 
-[^key-e78129d9f12ced6f77d3394a43fa9079]: Commencement: Reg. 14 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-e78129d9f12ced6f77d3394a43fa9079]: Commencement: Reg. 14 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-deb9deba0eb809d692b8913b35cffb74]: Commencement: Reg. 15 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-deb9deba0eb809d692b8913b35cffb74]: Commencement: Reg. 15 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-82fadc3bf235137cadc6809452451bcc]: Textual amendment: Word in [reg. 15](https://www.legislation.gov.uk/nisr/2006/518/regulation/15) heading substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-82fadc3bf235137cadc6809452451bcc]: Textual amendment: Word in [reg. 15](https://www.legislation.gov.uk/nisr/2006/518/regulation/15) heading substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-829a37abd0d8bc4b4db6e4200302df7d]: Textual amendment: Word in [reg. 15(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/15/1) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-829a37abd0d8bc4b4db6e4200302df7d]: Textual amendment: Word in [reg. 15(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/15/1) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b3d3181642d2d091d38f488546917324]: Textual amendment: Word in [reg. 15(7)](https://www.legislation.gov.uk/nisr/2006/518/regulation/15/7) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b3d3181642d2d091d38f488546917324]: Textual amendment: Word in [reg. 15(7)](https://www.legislation.gov.uk/nisr/2006/518/regulation/15/7) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bb663ffb4ba68479a62179aa39d48a52]: Commencement: Reg. 16 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-bb663ffb4ba68479a62179aa39d48a52]: Commencement: Reg. 16 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-195fc4b90c30eb10c78f2e2ae5e868a2]: Commencement: Reg. 17 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-195fc4b90c30eb10c78f2e2ae5e868a2]: Commencement: Reg. 17 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-72dd597f5b06d1d395c86e6aa98bc75c]: Textual amendment: [Reg. 17(1)(a)](https://www.legislation.gov.uk/nisr/2006/518/regulation/17/1/a) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [13(a)](https://www.legislation.gov.uk/nisr/2017/86/regulation/13/a)
+[^c-72dd597f5b06d1d395c86e6aa98bc75c]: Textual amendment: [Reg. 17(1)(a)](https://www.legislation.gov.uk/nisr/2006/518/regulation/17/1/a) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [13(a)](https://www.legislation.gov.uk/nisr/2017/86/regulation/13/a)
 
-[^key-e5a66e9f5e2e7f0fa55906a404721ac7]: Textual amendment: [Reg. 17(2)](https://www.legislation.gov.uk/nisr/2006/518/regulation/17/2) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [13(b)](https://www.legislation.gov.uk/nisr/2017/86/regulation/13/b)
+[^c-e5a66e9f5e2e7f0fa55906a404721ac7]: Textual amendment: [Reg. 17(2)](https://www.legislation.gov.uk/nisr/2006/518/regulation/17/2) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [13(b)](https://www.legislation.gov.uk/nisr/2017/86/regulation/13/b)
 
-[^key-8d19ca362abf8466fa86e35715ea4b9e]: Textual amendment: [Reg. 17(3)(b)](https://www.legislation.gov.uk/nisr/2006/518/regulation/17/3/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [13(c)](https://www.legislation.gov.uk/nisr/2017/86/regulation/13/c)
+[^c-8d19ca362abf8466fa86e35715ea4b9e]: Textual amendment: [Reg. 17(3)(b)](https://www.legislation.gov.uk/nisr/2006/518/regulation/17/3/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [13(c)](https://www.legislation.gov.uk/nisr/2017/86/regulation/13/c)
 
-[^key-3dd319e3dd7b2d9a9408239542d4ef85]: Commencement: Reg. 18 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-3dd319e3dd7b2d9a9408239542d4ef85]: Commencement: Reg. 18 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-286e5830f6dbbc501b7acc1b7177bb56]: Textual amendment: Words in [reg. 18(10)](https://www.legislation.gov.uk/nisr/2006/518/regulation/18/10) substituted (6.9.2007) by [Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/355)](https://www.legislation.gov.uk/nisr/2007/355), [regs. 1](https://www.legislation.gov.uk/nisr/2007/355/regulation/1), [2](https://www.legislation.gov.uk/nisr/2007/355/regulation/2)
+[^c-286e5830f6dbbc501b7acc1b7177bb56]: Textual amendment: Words in [reg. 18(10)](https://www.legislation.gov.uk/nisr/2006/518/regulation/18/10) substituted (6.9.2007) by [Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/355)](https://www.legislation.gov.uk/nisr/2007/355), [regs. 1](https://www.legislation.gov.uk/nisr/2007/355/regulation/1), [2](https://www.legislation.gov.uk/nisr/2007/355/regulation/2)
 
-[^key-3eb68b222ed3ba9db250d0d5d185d835]: Commencement: Reg. 19 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-3eb68b222ed3ba9db250d0d5d185d835]: Commencement: Reg. 19 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-501224f4ef3aca3c9a53d616e87f0203]: Commencement: Reg. 20 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-501224f4ef3aca3c9a53d616e87f0203]: Commencement: Reg. 20 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-ba86a90a183848e4f1f5e7fdd60181bd]: Commencement: Reg. 21 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-ba86a90a183848e4f1f5e7fdd60181bd]: Commencement: Reg. 21 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-61c5566b81c90f200a5f2ed4129a0a5a]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/518/regulation/22) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [14](https://www.legislation.gov.uk/nisr/2017/86/regulation/14)
+[^c-61c5566b81c90f200a5f2ed4129a0a5a]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/518/regulation/22) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [14](https://www.legislation.gov.uk/nisr/2017/86/regulation/14)
 
-[^key-e321b4f5ccf60941b988d1cd3de6adca]: Commencement: Reg. 23 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-e321b4f5ccf60941b988d1cd3de6adca]: Commencement: Reg. 23 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-aede869ad84e225f291d16114ad15c43]: Commencement: Reg. 24 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-aede869ad84e225f291d16114ad15c43]: Commencement: Reg. 24 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-cc429e5fb3448e7b72734b64a352f085]: Commencement: Reg. 25 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-cc429e5fb3448e7b72734b64a352f085]: Commencement: Reg. 25 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-ad8aa1b7e63d41905ad85948e02275c2]: Commencement: Reg. 26 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-ad8aa1b7e63d41905ad85948e02275c2]: Commencement: Reg. 26 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-c98d073f6afea04e4834586f785eaceb]: Commencement: Reg. 27 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-c98d073f6afea04e4834586f785eaceb]: Commencement: Reg. 27 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-6d49b22d2dd28118d89fb70876983b15]: Commencement: Reg. 28 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-6d49b22d2dd28118d89fb70876983b15]: Commencement: Reg. 28 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-d31bd36f6664682dabfc8decf491e46a]: Commencement: Reg. 29 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-d31bd36f6664682dabfc8decf491e46a]: Commencement: Reg. 29 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-5df9d53214e4ea956282889d6b49f05b]: Textual amendment: Words in [reg. 29(1)(d)](https://www.legislation.gov.uk/nisr/2006/518/regulation/29/1/d) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [15](https://www.legislation.gov.uk/nisr/2017/86/regulation/15)
+[^c-5df9d53214e4ea956282889d6b49f05b]: Textual amendment: Words in [reg. 29(1)(d)](https://www.legislation.gov.uk/nisr/2006/518/regulation/29/1/d) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [15](https://www.legislation.gov.uk/nisr/2017/86/regulation/15)
 
-[^key-bfdfeb0b2e2a401c3e4c3ff88837bfbb]: Commencement: Reg. 30 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-bfdfeb0b2e2a401c3e4c3ff88837bfbb]: Commencement: Reg. 30 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-c53c440bdc3cfb5977228efbe61ab744]: Textual amendment: Words in [reg. 30(2)(c)](https://www.legislation.gov.uk/nisr/2006/518/regulation/30/2/c) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [16](https://www.legislation.gov.uk/nisr/2017/86/regulation/16)
+[^c-c53c440bdc3cfb5977228efbe61ab744]: Textual amendment: Words in [reg. 30(2)(c)](https://www.legislation.gov.uk/nisr/2006/518/regulation/30/2/c) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [16](https://www.legislation.gov.uk/nisr/2017/86/regulation/16)
 
-[^key-0a10d65ca70439a72110ceb9c11cc962]: Textual amendment: Word in [reg. 30(2)(f)](https://www.legislation.gov.uk/nisr/2006/518/regulation/30/2/f) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0a10d65ca70439a72110ceb9c11cc962]: Textual amendment: Word in [reg. 30(2)(f)](https://www.legislation.gov.uk/nisr/2006/518/regulation/30/2/f) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6dc71c0cf73df2be15b74d6d4ea47dd2]: Commencement: Reg. 31 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-6dc71c0cf73df2be15b74d6d4ea47dd2]: Commencement: Reg. 31 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-352bb79c33813fc27cc87ebf4620c456]: Commencement: Reg. 32 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-352bb79c33813fc27cc87ebf4620c456]: Commencement: Reg. 32 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-124b11ee3f3f9f84454a56fa7f2edc9c]: Textual amendment: Words in [reg. 32(2)(b)](https://www.legislation.gov.uk/nisr/2006/518/regulation/32/2/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [17(a)](https://www.legislation.gov.uk/nisr/2017/86/regulation/17/a)
+[^c-124b11ee3f3f9f84454a56fa7f2edc9c]: Textual amendment: Words in [reg. 32(2)(b)](https://www.legislation.gov.uk/nisr/2006/518/regulation/32/2/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [17(a)](https://www.legislation.gov.uk/nisr/2017/86/regulation/17/a)
 
-[^key-8252d25494d9754bd4393c54aebfb756]: Textual amendment: Words in [reg. 32(3)(b)](https://www.legislation.gov.uk/nisr/2006/518/regulation/32/3/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [17(b)](https://www.legislation.gov.uk/nisr/2017/86/regulation/17/b)
+[^c-8252d25494d9754bd4393c54aebfb756]: Textual amendment: Words in [reg. 32(3)(b)](https://www.legislation.gov.uk/nisr/2006/518/regulation/32/3/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [17(b)](https://www.legislation.gov.uk/nisr/2017/86/regulation/17/b)
 
-[^key-87d045c0b1ce507355b8cf1b6db4fe1f]: Commencement: Reg. 33 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-87d045c0b1ce507355b8cf1b6db4fe1f]: Commencement: Reg. 33 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-c05fac68a006172d1a89ad903091ca8b]: Textual amendment: Words in [reg. 33(4)(b)](https://www.legislation.gov.uk/nisr/2006/518/regulation/33/4/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [18(a)](https://www.legislation.gov.uk/nisr/2017/86/regulation/18/a)
+[^c-c05fac68a006172d1a89ad903091ca8b]: Textual amendment: Words in [reg. 33(4)(b)](https://www.legislation.gov.uk/nisr/2006/518/regulation/33/4/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [18(a)](https://www.legislation.gov.uk/nisr/2017/86/regulation/18/a)
 
-[^key-8ed29288eae284bafa7e0906ff6012fc]: Textual amendment: Words in [reg. 33(5)(b)](https://www.legislation.gov.uk/nisr/2006/518/regulation/33/5/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [18(b)](https://www.legislation.gov.uk/nisr/2017/86/regulation/18/b)
+[^c-8ed29288eae284bafa7e0906ff6012fc]: Textual amendment: Words in [reg. 33(5)(b)](https://www.legislation.gov.uk/nisr/2006/518/regulation/33/5/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [18(b)](https://www.legislation.gov.uk/nisr/2017/86/regulation/18/b)
 
-[^key-cacff149763af794fd6d700425c82c8f]: Commencement: Reg. 34 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-cacff149763af794fd6d700425c82c8f]: Commencement: Reg. 34 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-f421895c11ee7f631f3a69968b38dd9b]: Commencement: Reg. 35 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-f421895c11ee7f631f3a69968b38dd9b]: Commencement: Reg. 35 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-5e3afe6af33d46db6fb9cc3b5957a9da]: Textual amendment: Word in [reg. 35](https://www.legislation.gov.uk/nisr/2006/518/regulation/35) heading substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5e3afe6af33d46db6fb9cc3b5957a9da]: Textual amendment: Word in [reg. 35](https://www.legislation.gov.uk/nisr/2006/518/regulation/35) heading substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-10d82a8e94c6c20c09e8db3d87826ff3]: Textual amendment: Word in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/35/1) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-10d82a8e94c6c20c09e8db3d87826ff3]: Textual amendment: Word in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2006/518/regulation/35/1) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2d5e204eeef6f3b9faada2db175f240c]: Textual amendment: Words in [reg. 35(1)(c)](https://www.legislation.gov.uk/nisr/2006/518/regulation/35/1/c) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [19](https://www.legislation.gov.uk/nisr/2017/86/regulation/19)
+[^c-2d5e204eeef6f3b9faada2db175f240c]: Textual amendment: Words in [reg. 35(1)(c)](https://www.legislation.gov.uk/nisr/2006/518/regulation/35/1/c) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [19](https://www.legislation.gov.uk/nisr/2017/86/regulation/19)
 
-[^key-a82698e43d7ab6132330497bd66f0782]: Textual amendment: Words in [reg. 35(4)](https://www.legislation.gov.uk/nisr/2006/518/regulation/35/4) omitted (31.12.2020) by virtue of [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(6)(b)(i)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/6/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a82698e43d7ab6132330497bd66f0782]: Textual amendment: Words in [reg. 35(4)](https://www.legislation.gov.uk/nisr/2006/518/regulation/35/4) omitted (31.12.2020) by virtue of [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(6)(b)(i)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/6/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-84573eab20e61faf90170624fc7880d9]: Textual amendment: Word in [reg. 35(4)(b)](https://www.legislation.gov.uk/nisr/2006/518/regulation/35/4/b) omitted (31.12.2020) by virtue of [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/6/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84573eab20e61faf90170624fc7880d9]: Textual amendment: Word in [reg. 35(4)(b)](https://www.legislation.gov.uk/nisr/2006/518/regulation/35/4/b) omitted (31.12.2020) by virtue of [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/6/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6611c953ca084473fa194328acc057f9]: Commencement: Reg. 36 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-6611c953ca084473fa194328acc057f9]: Commencement: Reg. 36 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-09d3b006610418689ca0b734a780c7f9]: Textual amendment: Words in [reg. 36(7)(a)(i)](https://www.legislation.gov.uk/nisr/2006/518/regulation/36/7/a/ii) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [20(a)](https://www.legislation.gov.uk/nisr/2017/86/regulation/20/b)
+[^c-09d3b006610418689ca0b734a780c7f9]: Textual amendment: Words in [reg. 36(7)(a)(i)](https://www.legislation.gov.uk/nisr/2006/518/regulation/36/7/a/ii) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [20(a)](https://www.legislation.gov.uk/nisr/2017/86/regulation/20/b)
 
 [^M_F_1b1d2b49-ed0c-4bca-e638-00d938dcf3ff]: Textual amendment: Words in [reg. 36(7)(a)(ii)](https://www.legislation.gov.uk/nisr/2006/518/regulation/36/7/a/ii) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [20(a)](https://www.legislation.gov.uk/nisr/2017/86/regulation/20/b)
 
-[^key-8a0be175ee233dee1bcbc5a23501f9bb]: Commencement: Reg. 37 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-8a0be175ee233dee1bcbc5a23501f9bb]: Commencement: Reg. 37 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-f0a87bfac67b3a496a4715a74f74035a]: Commencement: Reg. 38 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-f0a87bfac67b3a496a4715a74f74035a]: Commencement: Reg. 38 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
 [^f00011]: Footnote: [S.I. 2000/84](https://www.legislation.gov.uk/uksi/2000/84)
 
-[^key-9fb94a7ca63b254553b971c29cf1f262]: Textual amendment: [Reg. 38(3)](https://www.legislation.gov.uk/nisr/2006/518/regulation/38/3) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [21](https://www.legislation.gov.uk/nisr/2017/86/regulation/21)
+[^c-9fb94a7ca63b254553b971c29cf1f262]: Textual amendment: [Reg. 38(3)](https://www.legislation.gov.uk/nisr/2006/518/regulation/38/3) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [21](https://www.legislation.gov.uk/nisr/2017/86/regulation/21)
 
-[^key-2f172632490cfa057e21805b8021b1d8]: Textual amendment: [Reg. 39](https://www.legislation.gov.uk/nisr/2006/518/regulation/39) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [22](https://www.legislation.gov.uk/nisr/2017/86/regulation/22)
+[^c-2f172632490cfa057e21805b8021b1d8]: Textual amendment: [Reg. 39](https://www.legislation.gov.uk/nisr/2006/518/regulation/39) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [regs. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [22](https://www.legislation.gov.uk/nisr/2017/86/regulation/22)
 
-[^key-6d60639cad765235542699cc739bf890]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2006/518/schedule/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [reg. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2017/86/schedule/1)
+[^c-6d60639cad765235542699cc739bf890]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2006/518/schedule/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [reg. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2017/86/schedule/1)
 
-[^key-682e3d759677b2fe2dfbdc243c4e0326]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2006/518/schedule/1/paragraph/6) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-682e3d759677b2fe2dfbdc243c4e0326]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2006/518/schedule/1/paragraph/6) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-987774078e5581c75ad3af51976a81ba]: Textual amendment: Word in [Sch. 1 Pt. 1 para. 6](https://www.legislation.gov.uk/nisr/2006/518/schedule/1/part/1/paragraph/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 7(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/7/b)
+[^c-987774078e5581c75ad3af51976a81ba]: Textual amendment: Word in [Sch. 1 Pt. 1 para. 6](https://www.legislation.gov.uk/nisr/2006/518/schedule/1/part/1/paragraph/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 7(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/7/b)
 
-[^key-1567ab10e74232569efe305806454563]: Textual amendment: Words in [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2006/518/schedule/1/paragraph/9) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1567ab10e74232569efe305806454563]: Textual amendment: Words in [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2006/518/schedule/1/paragraph/9) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fa8959ef9eb5628d613ce10d25e2b7c4]: Textual amendment: Word in [Sch. 1 Pt. 1 para. 9](https://www.legislation.gov.uk/nisr/2006/518/schedule/1/part/1/paragraph/9) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 7(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/7/b)
+[^c-fa8959ef9eb5628d613ce10d25e2b7c4]: Textual amendment: Word in [Sch. 1 Pt. 1 para. 9](https://www.legislation.gov.uk/nisr/2006/518/schedule/1/part/1/paragraph/9) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 7(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/7/b)
 
-[^key-3fdf08c62e207863b10d6ee6de8f9533]: Commencement: Sch. 2 para. 1 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-3fdf08c62e207863b10d6ee6de8f9533]: Commencement: Sch. 2 para. 1 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
 [^f00012]: Footnote: [S.I. 1985/170 (N.I. 1)](https://www.legislation.gov.uk/nisi/1985/170)
 
@@ -1308,32 +1308,32 @@ In Part 4 ‘The 2000 Regulations’ are revoked. Transitional provisions apply,
 
 [^f00015]: Footnote: [S.I. 1995/1625 (N.I. 9)](https://www.legislation.gov.uk/nisi/1995/1625)
 
-[^key-853d076b9ee271c1418436d75a2d83cc]: Textual amendment: Words in [Sch. 2 para. 1(g)](https://www.legislation.gov.uk/nisr/2006/518/schedule/2/paragraph/1/g) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-853d076b9ee271c1418436d75a2d83cc]: Textual amendment: Words in [Sch. 2 para. 1(g)](https://www.legislation.gov.uk/nisr/2006/518/schedule/2/paragraph/1/g) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-90419632b497ea8b0bd8c61fc3cb4d75]: Commencement: Sch. 2 para. 2 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-90419632b497ea8b0bd8c61fc3cb4d75]: Commencement: Sch. 2 para. 2 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-1ea8af6f18b7830acc80539d7cf0b898]: Commencement: Sch. 2 para. 3 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-1ea8af6f18b7830acc80539d7cf0b898]: Commencement: Sch. 2 para. 3 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-302a635dc968d9b8c22083f0e388e6fb]: Commencement: Sch. 2 para. 4 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-302a635dc968d9b8c22083f0e388e6fb]: Commencement: Sch. 2 para. 4 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-a753f5c4b4909b73a0f98fbec7f544c0]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/nisr/2006/518/schedule/2A) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [reg. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [Sch. 2A](https://www.legislation.gov.uk/nisr/2017/86/schedule/2A)
+[^c-a753f5c4b4909b73a0f98fbec7f544c0]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/nisr/2006/518/schedule/2A) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [reg. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [Sch. 2A](https://www.legislation.gov.uk/nisr/2017/86/schedule/2A)
 
-[^key-00e6ec74f59cb27e0808d3ec9df2c8db]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2006/518/schedule/3) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [reg. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2017/86/schedule/3)
+[^c-00e6ec74f59cb27e0808d3ec9df2c8db]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2006/518/schedule/3) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [reg. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2017/86/schedule/3)
 
-[^key-5d1d875f00dbcbc551d3881f8d62c76a]: Textual amendment: Words in [Sch. 3 para. 2(c)(v)](https://www.legislation.gov.uk/nisr/2006/518/schedule/3/paragraph/2/c/v) omitted (31.12.2020) by virtue of [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(9)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5d1d875f00dbcbc551d3881f8d62c76a]: Textual amendment: Words in [Sch. 3 para. 2(c)(v)](https://www.legislation.gov.uk/nisr/2006/518/schedule/3/paragraph/2/c/v) omitted (31.12.2020) by virtue of [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(9)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-02e9bb484d8c1f1312c61fe86623ecdc]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nisr/2006/518/schedule/4) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [reg. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [Sch. 4](https://www.legislation.gov.uk/nisr/2017/86/schedule/4)
+[^c-02e9bb484d8c1f1312c61fe86623ecdc]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nisr/2006/518/schedule/4) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/86)](https://www.legislation.gov.uk/nisr/2017/86), [reg. 1](https://www.legislation.gov.uk/nisr/2017/86/regulation/1), [Sch. 4](https://www.legislation.gov.uk/nisr/2017/86/schedule/4)
 
-[^key-5c62804de0cff98337b5e90c7879b7ca]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisr/2006/518/schedule/4) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5c62804de0cff98337b5e90c7879b7ca]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisr/2006/518/schedule/4) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2019/279/regulation/3/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-63aab8d5764091aaddec6e9dc738488c]: Commencement: Sch. 5 para. 1 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-63aab8d5764091aaddec6e9dc738488c]: Commencement: Sch. 5 para. 1 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-ba9f00d5ced8bfb4ad88c806ea748cea]: Commencement: Sch. 5 para. 2 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-ba9f00d5ced8bfb4ad88c806ea748cea]: Commencement: Sch. 5 para. 2 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-1a2a13b486755fcc077de05f1a359674]: Commencement: Sch. 5 para. 3 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-1a2a13b486755fcc077de05f1a359674]: Commencement: Sch. 5 para. 3 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-aa04173381816970510fcbd8cf4c726e]: Commencement: Sch. 5 para. 4 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-aa04173381816970510fcbd8cf4c726e]: Commencement: Sch. 5 para. 4 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-ebfbd09d4f99ffb40a1a2658b2eed0c0]: Commencement: Sch. 5 para. 5 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-ebfbd09d4f99ffb40a1a2658b2eed0c0]: Commencement: Sch. 5 para. 5 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
 
-[^key-b1a30dd4a47bbb4c35a1e4b82e70d143]: Commencement: Sch. 5 para. 6 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)
+[^c-b1a30dd4a47bbb4c35a1e4b82e70d143]: Commencement: Sch. 5 para. 6 in operation at 4.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/518/regulation/1)

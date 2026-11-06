@@ -83,7 +83,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 .
 
-## 3. Proceedings restraining use of grossly unfair terms[^key-bf6cfe5af6d2487cecb8e588e47bbbe6]
+## 3. Proceedings restraining use of grossly unfair terms[^c-bf6cfe5af6d2487cecb8e588e47bbbe6]
 
 (1) In this regulation, “representative body” means an organisation established to represent the collective interests of any undertaking, either in general or in a particular sector or area.
 
@@ -139,4 +139,4 @@ These Regulations should be read in conjunction with the Late Payment of Commerc
 
 [^c9805261]: Marginal citation: [1998 c.20](https://www.legislation.gov.uk/ukpga/1998/20); the functions of the Secretary of State transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-bf6cfe5af6d2487cecb8e588e47bbbe6]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2002/335/regulation/3) substituted (29.6.2018) by [The Late Payment of Commercial Debts (Scotland) Amendment Regulations 2018 (S.S.I. 2018/160)](https://www.legislation.gov.uk/ssi/2018/160), [regs. 1](https://www.legislation.gov.uk/ssi/2018/160/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2018/160/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/160/regulation/3))
+[^c-bf6cfe5af6d2487cecb8e588e47bbbe6]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2002/335/regulation/3) substituted (29.6.2018) by [The Late Payment of Commercial Debts (Scotland) Amendment Regulations 2018 (S.S.I. 2018/160)](https://www.legislation.gov.uk/ssi/2018/160), [regs. 1](https://www.legislation.gov.uk/ssi/2018/160/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2018/160/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/160/regulation/3))

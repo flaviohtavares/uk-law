@@ -31,60 +31,60 @@ Air Corporations Act 1969 (repealed)
 
 1969 c.43
 
-[^key-b7434ddcbe12752552fc5ed262a98c7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7434ddcbe12752552fc5ed262a98c7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[25th July 1969\]
 
 **No longer in force.**
 
-## 1. †Financial assistance for B.E.A. by reduction of indebtedness and transfer of stock.[^key-b7434ddcbe12752552fc5ed262a98c7f][^key-b7434ddcbe12752552fc5ed262a98c7f]
+## 1. †Financial assistance for B.E.A. by reduction of indebtedness and transfer of stock.[^c-b7434ddcbe12752552fc5ed262a98c7f][^c-b7434ddcbe12752552fc5ed262a98c7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2—3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-b7434ddcbe12752552fc5ed262a98c7f][^key-b7434ddcbe12752552fc5ed262a98c7f]
+## 2—3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-b7434ddcbe12752552fc5ed262a98c7f][^c-b7434ddcbe12752552fc5ed262a98c7f]
 
-## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-b7434ddcbe12752552fc5ed262a98c7f][^key-b7434ddcbe12752552fc5ed262a98c7f]
+## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-b7434ddcbe12752552fc5ed262a98c7f][^c-b7434ddcbe12752552fc5ed262a98c7f]
 
-## 5. Short title, citation and interpretation.[^key-b7434ddcbe12752552fc5ed262a98c7f][^key-b7434ddcbe12752552fc5ed262a98c7f]
+## 5. Short title, citation and interpretation.[^c-b7434ddcbe12752552fc5ed262a98c7f][^c-b7434ddcbe12752552fc5ed262a98c7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-b7434ddcbe12752552fc5ed262a98c7f] SCHEDULES
+[^c-b7434ddcbe12752552fc5ed262a98c7f] SCHEDULES
 
-## SCHEDULE 1 — Transitional Provisions[^key-b7434ddcbe12752552fc5ed262a98c7f]
+## SCHEDULE 1 — Transitional Provisions[^c-b7434ddcbe12752552fc5ed262a98c7f]
 
 Section 1.
 
-### Part I. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-b7434ddcbe12752552fc5ed262a98c7f]
+### Part I. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-b7434ddcbe12752552fc5ed262a98c7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Transferred Stock[^key-b7434ddcbe12752552fc5ed262a98c7f]
+### Part II — Transferred Stock[^c-b7434ddcbe12752552fc5ed262a98c7f]
 
-#### Renaming of stock[^key-b7434ddcbe12752552fc5ed262a98c7f]
+#### Renaming of stock[^c-b7434ddcbe12752552fc5ed262a98c7f]
 
-**2.**[^key-b7434ddcbe12752552fc5ed262a98c7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b7434ddcbe12752552fc5ed262a98c7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Application of provisions applicable to government stock[^key-b7434ddcbe12752552fc5ed262a98c7f]
+#### Application of provisions applicable to government stock[^c-b7434ddcbe12752552fc5ed262a98c7f]
 
-**3.**[^key-b7434ddcbe12752552fc5ed262a98c7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b7434ddcbe12752552fc5ed262a98c7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b7434ddcbe12752552fc5ed262a98c7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b7434ddcbe12752552fc5ed262a98c7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Payments of interest[^key-b7434ddcbe12752552fc5ed262a98c7f]
+#### Payments of interest[^c-b7434ddcbe12752552fc5ed262a98c7f]
 
-**5.**[^key-b7434ddcbe12752552fc5ed262a98c7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b7434ddcbe12752552fc5ed262a98c7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Transitional adjustments[^key-b7434ddcbe12752552fc5ed262a98c7f]
+#### Transitional adjustments[^c-b7434ddcbe12752552fc5ed262a98c7f]
 
-**6.**[^key-b7434ddcbe12752552fc5ed262a98c7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b7434ddcbe12752552fc5ed262a98c7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-b7434ddcbe12752552fc5ed262a98c7f]
+## SCHEDULE 2[^c-b7434ddcbe12752552fc5ed262a98c7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b7434ddcbe12752552fc5ed262a98c7f]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1969/43) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-b7434ddcbe12752552fc5ed262a98c7f]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1969/43) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)

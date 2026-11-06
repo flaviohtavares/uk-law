@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Carcass classification[^key-f7402ae820b68ca1179b803c2142ff9e][^key-e601cc5f176647269180b6c2f9268a47]
+## 35. Carcass classification[^c-f7402ae820b68ca1179b803c2142ff9e][^c-e601cc5f176647269180b6c2f9268a47]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f7402ae820b68ca1179b803c2142ff9e]: Commencement: S. 35 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
+[^c-f7402ae820b68ca1179b803c2142ff9e]: Commencement: S. 35 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
 
-[^key-e601cc5f176647269180b6c2f9268a47]: Commencement: [S. 35](https://www.legislation.gov.uk/asc/2023/4/section/35) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(d)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/d)
+[^c-e601cc5f176647269180b6c2f9268a47]: Commencement: [S. 35](https://www.legislation.gov.uk/asc/2023/4/section/35) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(d)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/d)

@@ -47,35 +47,35 @@ Coming into force
 
 The Secretary of State for the Environment, Transport and the Regions, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], in exercise of the powers conferred by section 85(1)(a) and (b), (3) and (5) to (7) and section 86(1) of that Act[^f00002] and of all other powers enabling him in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-38460b86e292cac0070c5ba209e475aa]
+## 1. Citation and commencement[^c-38460b86e292cac0070c5ba209e475aa]
 
 These Regulations may be cited as the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 and shall come into force on 23rd October 2000.
 
-## 2. Interpretation[^key-422597b685ccb3bc2ed117096c6090cc]
+## 2. Interpretation[^c-422597b685ccb3bc2ed117096c6090cc]
 
 (1) In these Regulations—
 
-- “the Directive” means Directive 2009/45/EC of the European Parliament and of the Council of 6th May 2009 on safety rules and standards for passenger ships;[^key-20b548795298f087b8af18f08c982d40]
-- “[^key-614136eb369e1e8f0ce659a495a892ae]**Directive [2003/25/EC](https://www.legislation.gov.uk/european/directive/2003/0025)**” means Directive [2003/25/EC](https://www.legislation.gov.uk/european/directive/2003/0025) of the European Parliament and of the Council of 14th April 2003 on specific stability requirements for ro-ro passenger ships,
-- “[^key-2b62167f191fe4407ed010d0ee542452]**domestic voyage**” means a voyage in sea areas or sea routes[^key-1f636fc1a650cb52c447db8ed7389d2a] either—
+- “the Directive” means Directive 2009/45/EC of the European Parliament and of the Council of 6th May 2009 on safety rules and standards for passenger ships;[^c-20b548795298f087b8af18f08c982d40]
+- “[^c-614136eb369e1e8f0ce659a495a892ae]**Directive [2003/25/EC](https://www.legislation.gov.uk/european/directive/2003/0025)**” means Directive [2003/25/EC](https://www.legislation.gov.uk/european/directive/2003/0025) of the European Parliament and of the Council of 14th April 2003 on specific stability requirements for ro-ro passenger ships,
+- “[^c-2b62167f191fe4407ed010d0ee542452]**domestic voyage**” means a voyage in sea areas or sea routes[^c-1f636fc1a650cb52c447db8ed7389d2a] either—
   - (a) from a port in the United Kingdom to the same or another port within the United Kingdom, or
   - (b) from a port of a member State to the same or another port within that member State;
-- [^key-afe0ec2a2fd495146a97d1727256bb97]...
-- “[^key-495e70713101f2bb68613503b45eba2f]**EEA State**” has the meaning given by Schedule 1 to the Interpretation Act 1978
-- “**Maritime and Coastguard Agency**” means the Maritime and Coastguard Agency, an executive agency of the Department for Transport[^key-484136ffa7b792a91a19986ddfa49067];
+- [^c-afe0ec2a2fd495146a97d1727256bb97]...
+- “[^c-495e70713101f2bb68613503b45eba2f]**EEA State**” has the meaning given by Schedule 1 to the Interpretation Act 1978
+- “**Maritime and Coastguard Agency**” means the Maritime and Coastguard Agency, an executive agency of the Department for Transport[^c-484136ffa7b792a91a19986ddfa49067];
 - “**Merchant Shipping Notice**” means a Notice described as such, issued by the Maritime and Coastguard Agency, and any reference to a particular Merchant Shipping Notice includes a reference to any such document amending or replacing that Notice which is considered by the Secretary of State to be relevant from time to time;
 - “**non-United Kingdom passenger ship**” means a passenger ship which is not a United Kingdom ship;
-- “**port waters**” means waters categorised in Merchant Shipping Notice 1837(M) Amendment 2[^key-bdb67188be240de8618db8d733b936c1] on the Categorisation of Waters ;[^key-38c857a86c6db2c59e9b5d42463ed639]
-- “**sea area**” means, in relation to the waters of the United Kingdom, an area as set out by the Secretary of State in accordance with regulation 3A(2)[^key-1dbdf36fd2d16431ea9382659ee64b87], and, in relation to the waters of a Member State, means an area established by a Member State pursuant to Article 4(2) of the Directive ;[^key-423d59d67eefbb829d998935aa02fbce]
+- “**port waters**” means waters categorised in Merchant Shipping Notice 1837(M) Amendment 2[^c-bdb67188be240de8618db8d733b936c1] on the Categorisation of Waters ;[^c-38c857a86c6db2c59e9b5d42463ed639]
+- “**sea area**” means, in relation to the waters of the United Kingdom, an area as set out by the Secretary of State in accordance with regulation 3A(2)[^c-1dbdf36fd2d16431ea9382659ee64b87], and, in relation to the waters of a Member State, means an area established by a Member State pursuant to Article 4(2) of the Directive ;[^c-423d59d67eefbb829d998935aa02fbce]
 - “**United Kingdom passenger ship**” means a passenger ship which is a United Kingdom ship.
 
-(2) Save where otherwise defined in paragraph (1)[^key-ffb77fdcfb7747ca78b31e4dcc95f8ae], words and expressions specifically given a meaning by article 2 of the Directive shall have the same meaning herein.
+(2) Save where otherwise defined in paragraph (1)[^c-ffb77fdcfb7747ca78b31e4dcc95f8ae], words and expressions specifically given a meaning by article 2 of the Directive shall have the same meaning herein.
 
-(2A)[^key-e6e03066a34eb62f5c88c0971206834a] References in the Directive to Conventions or Codes in their up to date versions which—
+(2A)[^c-e6e03066a34eb62f5c88c0971206834a] References in the Directive to Conventions or Codes in their up to date versions which—
 
 - (a) relate to all or any of the purposes set out in section 85(1) of the Merchant Shipping Act 1995;
 - (b) are considered by the Secretary of State to be relevant from time to time, and
-- (c) are specified in a Merchant Shipping Notice[^key-397c9c2e897d320765de11d4e781223c]
+- (c) are specified in a Merchant Shipping Notice[^c-397c9c2e897d320765de11d4e781223c]
 
 have effect in so far as they are so specified.
 
@@ -83,7 +83,7 @@ have effect in so far as they are so specified.
 
 (4) Any approval, exemption or suspension from operation made by the Secretary of State pursuant to these Regulations shall be given in writing and shall specify the date on which it takes effect and the conditions (if any) on which it is given.
 
-## 3. Classification of ships[^key-182a0b174388f1c0c4ae3dc5261bfa84]
+## 3. Classification of ships[^c-182a0b174388f1c0c4ae3dc5261bfa84]
 
 For purposes of these Regulations passenger ships engaged on domestic voyages shall be arranged in classes as follows—
 
@@ -106,9 +106,9 @@ For purposes of these Regulations passenger ships engaged on domestic voyages sh
 - (a) maintain and update when necessary Merchant Shipping Notice 1747(M), containing a list of sea areas under United Kingdom jurisdiction which includes the limits of the inner border of the sea areas closest to the lines of the coast and the limits of zones for all year round operation and, where appropriate, for periodical operation; and
 - (b) publish that Merchant Shipping Notice in its updated version and in a public database available on the Internet site of the Maritime and Coastguard Agency.
 
-## 4. Application[^key-7ba59ca06cf4fec42315d2630a336676]
+## 4. Application[^c-7ba59ca06cf4fec42315d2630a336676]
 
-(1)[^key-1146dd4ae811c043fcfeccdc4ce0c536] These Regulations apply to—
+(1)[^c-1146dd4ae811c043fcfeccdc4ce0c536] These Regulations apply to—
 
 - (a) United Kingdom passenger ships of Class A, B, C or D of 24 metres or over in length, engaged on domestic voyages; and
 - (b) non-United Kingdom passenger ships of Class A, B, C or D of 24 metres or over in length, engaged on domestic voyages while they are within United Kingdom waters.
@@ -117,22 +117,22 @@ For purposes of these Regulations passenger ships engaged on domestic voyages sh
 
 - (a) a ship of war or a troopship;
 - (b) a ship not propelled by mechanical means;
-- (ba)[^key-9cad944d994fbfdceb34c6c411318a07] a sailing ship;
+- (ba)[^c-9cad944d994fbfdceb34c6c411318a07] a sailing ship;
 - (c) a vessel which is not constructed in steel or equivalent material, and
-  - (i) to which the Merchant Shipping (High Speed Craft) Regulations 2022[^key-bed4da5aa744886eaff87c23f601252c] do not apply, or
+  - (i) to which the Merchant Shipping (High Speed Craft) Regulations 2022[^c-bed4da5aa744886eaff87c23f601252c] do not apply, or
   - (ii) which is not a dynamically supported craft for the purposes of the Code of Safety for Dynamically Supported Craft adopted by the International Maritime Organisation by means of Resolution A.373(X) on 14th November 1977;
 - (d) a wooden ship of primitive build;
-- (e)[^key-d56ad8173d75b3f595f67cb0f138f60b] a traditional ship;
-- (f)[^key-b299635b72d217774b6d0579aece6a68] a pleasure yacht or pleasure craft;
-- (g) [^key-1b580b550948b6beeaa38ef156440d90]... a high-speed passenger craft to which the Merchant Shipping (High Speed Craft) Regulations 2022[^key-84359b063f49a06b56ffb1f38d8d01fd] apply; [^key-4cdc56d993445fe585bd6b3d2a559554]...
-- (h) a vessel exclusively engaged in port waters , or[^key-66edd4a863c1b4d9c7dad26eedaeae37]
+- (e)[^c-d56ad8173d75b3f595f67cb0f138f60b] a traditional ship;
+- (f)[^c-b299635b72d217774b6d0579aece6a68] a pleasure yacht or pleasure craft;
+- (g) [^c-1b580b550948b6beeaa38ef156440d90]... a high-speed passenger craft to which the Merchant Shipping (High Speed Craft) Regulations 2022[^c-84359b063f49a06b56ffb1f38d8d01fd] apply; [^c-4cdc56d993445fe585bd6b3d2a559554]...
+- (h) a vessel exclusively engaged in port waters , or[^c-66edd4a863c1b4d9c7dad26eedaeae37]
 - (i) a passenger ship to which Merchant Shipping (Passenger Ships) (Safety Code for UK Categorised Waters) Regulations 2010 apply, or
-- (j) a vessel to which the Merchant Shipping (Technical Requirements for Inland Waterway Vessels) Regulations 2010 apply ;[^key-408710b03f3ca19398a6a5fc19c4281c]
+- (j) a vessel to which the Merchant Shipping (Technical Requirements for Inland Waterway Vessels) Regulations 2010 apply ;[^c-408710b03f3ca19398a6a5fc19c4281c]
 - (k) an offshore service craft;
 - (l) an offshore service ship;
 - (m) a tender.
 
-(3)[^key-b82c60c6000423b4d75f277771adbdc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b82c60c6000423b4d75f277771adbdc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For the purposes of the application of these Regulations no account shall be taken of any deviation by a ship from her intended voyage due solely to stress of weather or any other circumstances that neither the master nor the owner nor the charterer (if any) of the ship could have prevented or forestalled.
 
@@ -142,38 +142,38 @@ For purposes of these Regulations passenger ships engaged on domestic voyages sh
 
 (7) Repairs, alterations and modifications referred to in paragraph (5) above shall comply with the safety requirements of the Directive which apply to a new passenger ship of the same Class and which are relevant to the repair, alteration or modification.
 
-## 5. Application and amendment of existing Regulations[^key-7284136135219658ac365190e8f24c5f]
+## 5. Application and amendment of existing Regulations[^c-7284136135219658ac365190e8f24c5f]
 
-(1) In relation to a passenger ship the keel of which was laid before 1st July 1998, the following Regulations do not apply—[^key-1f34af7abab3af9659d30a9c885e5290]
+(1) In relation to a passenger ship the keel of which was laid before 1st July 1998, the following Regulations do not apply—[^c-1f34af7abab3af9659d30a9c885e5290]
 
 - (a) the Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II and II(A)) Regulations 1998[^f00006];
 - (b) the Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998[^f00007];
-- (c)[^key-c28c6aa9bd2e6f472c7aae2e9f549d0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-c28c6aa9bd2e6f472c7aae2e9f549d0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the Merchant Shipping (Life-Saving Appliances for Ships of Classes III to VI(A)) Regulations 1999[^f00009];
 - (e) the Merchant Shipping (Fire Protection: Small Ships) Regulations 1998[^f00010];
-- (f)[^key-ab5bcd02cca58ed418897047ab5f1aa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-07c36bacde3987cdcc2b32073ffb09b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-ab5bcd02cca58ed418897047ab5f1aa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-07c36bacde3987cdcc2b32073ffb09b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) the Merchant Shipping (Radio Installations) Regulations 1998[^f00013];
-- (i)[^key-400307e4b90d0277e064ef97cd071316] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-400307e4b90d0277e064ef97cd071316] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Regulations specified in the Schedule to these Regulations shall be amended as specified in that Schedule.
 
-## 6. Safety requirements[^key-67badbc24951026ff29f5bcc59a37f20]
+## 6. Safety requirements[^c-67badbc24951026ff29f5bcc59a37f20]
 
-(1)[^key-4e79c53caa56576f058bef6568f33d43] [^key-a7fbc0fecf2055bbb47341598f7bbaf6]... A ship to which these Regulations apply shall comply with the safety requirements specified in the Directive in relation to a ship of its class.
+(1)[^c-4e79c53caa56576f058bef6568f33d43] [^c-a7fbc0fecf2055bbb47341598f7bbaf6]... A ship to which these Regulations apply shall comply with the safety requirements specified in the Directive in relation to a ship of its class.
 
-(1A)[^key-5db6159fe0bb64b3b8999929b679facd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-5db6159fe0bb64b3b8999929b679facd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1B)[^key-2b33e3216bbb24143973ce8d57bdf358] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1B)[^c-2b33e3216bbb24143973ce8d57bdf358] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) In complying with paragraph (1) [^key-ab51fe2924a536d7a1e9be4da267cb9f]... above, as respects construction or maintenance of hull, main and auxiliary machinery and electrical and automatic plant, a ship shall comply with the standards specified in Merchant Shipping Notice 1672 (M + F) Amendment 3[^key-1e9c2a5291f7f4f7eb158a968cde33ac] which are relevant to it.
+(2) In complying with paragraph (1) [^c-ab51fe2924a536d7a1e9be4da267cb9f]... above, as respects construction or maintenance of hull, main and auxiliary machinery and electrical and automatic plant, a ship shall comply with the standards specified in Merchant Shipping Notice 1672 (M + F) Amendment 3[^c-1e9c2a5291f7f4f7eb158a968cde33ac] which are relevant to it.
 
-(2A)[^key-8e8fb62100eb5755cc9b1b983ff48e6c] In complying with paragraph (1) above a ship used for public transport:
+(2A)[^c-8e8fb62100eb5755cc9b1b983ff48e6c] In complying with paragraph (1) above a ship used for public transport:
 
 - (a) the keel of which was laid or which was at a similar stage of construction on or after 1st October 2004 shall, where practicable, be constructed and equipped, and display signs, based on the guidelines in Annex III to the Directive,
 - (b) the keel of which was laid or which was at a similar stage of construction before 1st October 2004 shall, if undergoing modification, be constructed and equipped as respects that modification, and display signs as respects that modification, based on the guidelines in Annex III to the directive as far as is reasonable and practicable in economic terms.
 
-(3) Where the Secretary of State considers that the operation on a domestic voyage of a ship to which these Regulations apply creates a risk of serious danger to safety of life or property or to the environment, notwithstanding the fact that the ship complies with the requirements of the Directive specified in relation to a ship of its Class, he may, subject to the procedure laid down in paragraph 5 of Article 9[^key-a3d061df7e67a5c2debfa9cb811951a2] of the Directive—
+(3) Where the Secretary of State considers that the operation on a domestic voyage of a ship to which these Regulations apply creates a risk of serious danger to safety of life or property or to the environment, notwithstanding the fact that the ship complies with the requirements of the Directive specified in relation to a ship of its Class, he may, subject to the procedure laid down in paragraph 5 of Article 9[^c-a3d061df7e67a5c2debfa9cb811951a2] of the Directive—
 
 - (a) suspend the ship from operating on domestic voyages in United Kingdom waters; or
 - (b) impose additional safety conditions upon the continued operation of the ship in United Kingdom waters,
@@ -185,17 +185,17 @@ until such time as he considers that the danger is removed.
 - (a) otherwise than in compliance with any of the requirements of the Directive specified in relation to a ship of its Class; or
 - (b) in breach of a suspension of the operation of the ship or any conditions on the continued operation of the ship imposed under paragraph (3) above.
 
-(5) Subject to paragraph (3) above, the Secretary of State shall not withhold from operation for reasons arising from the Directive, ships engaged on domestic voyages which comply with the requirements of the Directive and any additional requirements imposed in accordance with Article 9(1)[^key-981089bc5d1a06ec05f071abd95d42d1] of the Directive.
+(5) Subject to paragraph (3) above, the Secretary of State shall not withhold from operation for reasons arising from the Directive, ships engaged on domestic voyages which comply with the requirements of the Directive and any additional requirements imposed in accordance with Article 9(1)[^c-981089bc5d1a06ec05f071abd95d42d1] of the Directive.
 
-## 7. Alternative construction, equipment and machinery[^key-3682067d2e36e2714c57557504955a70]
+## 7. Alternative construction, equipment and machinery[^c-3682067d2e36e2714c57557504955a70]
 
-(1) Where these Regulations require that the hull or machinery of a ship shall be constructed in a particular manner, or that particular equipment shall be provided, or particular provision made, the Secretary of State may [^key-07787c423f738389310fa02cee875e7f]... approve the hull or machinery of the ship to be constructed in any other manner or any other equipment to be provided or other provision made, if he is satisfied by trial thereof or otherwise that that other construction or equipment or provision is at least as effective as that required by these Regulations.
+(1) Where these Regulations require that the hull or machinery of a ship shall be constructed in a particular manner, or that particular equipment shall be provided, or particular provision made, the Secretary of State may [^c-07787c423f738389310fa02cee875e7f]... approve the hull or machinery of the ship to be constructed in any other manner or any other equipment to be provided or other provision made, if he is satisfied by trial thereof or otherwise that that other construction or equipment or provision is at least as effective as that required by these Regulations.
 
-(2) For the purpose of these Regulations, the results of verifications and tests carried out by the bodies and laboratories of [^key-e8813d76ad5e5e1021354150e874441c]... EEA States offering suitable and satisfactory guarantees of technical and provisional competence and independence shall be accepted.
+(2) For the purpose of these Regulations, the results of verifications and tests carried out by the bodies and laboratories of [^c-e8813d76ad5e5e1021354150e874441c]... EEA States offering suitable and satisfactory guarantees of technical and provisional competence and independence shall be accepted.
 
-## 7A. Stability requirements for ro-ro passenger ships[^key-3c9c47747d9a1c57b47f51b7ed4e06e7]
+## 7A. Stability requirements for ro-ro passenger ships[^c-3c9c47747d9a1c57b47f51b7ed4e06e7]
 
-(1) Subject to regulation 7B(2), a ro-ro passenger ship of Class A or B, and a ro-ro passenger ship of Class C the keel of which is laid or which is at a similar stage of construction on or after 1st October 2004, shall carry a certificate, issued as respects a United Kingdom ship by the Secretary of State and as respects any other ship by the administration of the [^key-64354737798baa40fc9215e42303434f]... third country whose flag it flies, which:
+(1) Subject to regulation 7B(2), a ro-ro passenger ship of Class A or B, and a ro-ro passenger ship of Class C the keel of which is laid or which is at a similar stage of construction on or after 1st October 2004, shall carry a certificate, issued as respects a United Kingdom ship by the Secretary of State and as respects any other ship by the administration of the [^c-64354737798baa40fc9215e42303434f]... third country whose flag it flies, which:
 
 - (a) confirms that the ship complies with Article 4 of and Annex I to Directive [2003/25/EC](https://www.legislation.gov.uk/european/directive/2003/0025), taking into account in such compliance the guidelines set out in Annex II to Directive [2003/25/EC](https://www.legislation.gov.uk/european/directive/2003/0025) in so far as those guidelines are practicable and compatible with the design of that ship, and
 - (b) indicates the highest value of significant wave height up to which the ship satisfies the requirements of Article 4 of and Annex I to Directive [2003/25/EC](https://www.legislation.gov.uk/european/directive/2003/0025).
@@ -209,7 +209,7 @@ until such time as he considers that the danger is removed.
 (2) Where:
 
 - (a) a ro-ro passenger ship to which regulation 7A applies is being introduced onto a regular service which operates throughout the year following unforeseen circumstances and in order to ensure continuity of service, and
-- (b)[^key-a1d51ca47d20bc6ffcc5bc88e0b4abf0] that ship has been inspected in accordance with the Merchant Shipping (Inspections of Ro-Ro Passenger Ships and High-Speed Passenger Craft) Regulations 2023,
+- (b)[^c-a1d51ca47d20bc6ffcc5bc88e0b4abf0] that ship has been inspected in accordance with the Merchant Shipping (Inspections of Ro-Ro Passenger Ships and High-Speed Passenger Craft) Regulations 2023,
 
 that ship need not comply with the requirements of regulation 7A, and notice of the proposed operation of that ship is not required in accordance with paragraph (1) above.
 
@@ -223,25 +223,25 @@ The Secretary of State shall:
 
 (a) co-operate with and consult organisations representing persons with reduced mobility on the implementation of the guidelines included in Annex III to the Directive, and
 
-(b)[^key-3768ec7c7385d50921aca4e23eca13d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(b)[^c-3768ec7c7385d50921aca4e23eca13d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Exemptions[^key-94b33dc8cb8ab5863265b5bc4fef4924]
+## 8. Exemptions[^c-94b33dc8cb8ab5863265b5bc4fef4924]
 
 The Secretary of State may, subject to such conditions as he may specify, exempt classes of ships or individual ships from specified provisions of these Regulations, and may alter or cancel any such exemption.
 
-## 9. Penalties[^key-81917f72c5705421f728f779413e1582]
+## 9. Penalties[^c-81917f72c5705421f728f779413e1582]
 
-(1) Any contravention of these Regulations other than regulation 7B[^key-cf7b80069877e566862eb959126ad2c8] in respect of a ship shall be an offence by both the owner and the master of that ship punishable on summary conviction by a fine not exceeding the statutory maximum and on conviction on indictment by imprisonment for a term not exceeding two years or a fine, or both.
+(1) Any contravention of these Regulations other than regulation 7B[^c-cf7b80069877e566862eb959126ad2c8] in respect of a ship shall be an offence by both the owner and the master of that ship punishable on summary conviction by a fine not exceeding the statutory maximum and on conviction on indictment by imprisonment for a term not exceeding two years or a fine, or both.
 
-(1A)[^key-92ee9bb586ede575926ff0e3339d85a5] Any contravention of regulation 7B(1) or (3) of these Regulations by the operator of a regular service shall be an offence by that operator punishable on summary conviction by a fine not exceeding the statutory maximum, and on conviction on indictment by imprisonment for a term not exceeding two years, or a fine, or both.
+(1A)[^c-92ee9bb586ede575926ff0e3339d85a5] Any contravention of regulation 7B(1) or (3) of these Regulations by the operator of a regular service shall be an offence by that operator punishable on summary conviction by a fine not exceeding the statutory maximum, and on conviction on indictment by imprisonment for a term not exceeding two years, or a fine, or both.
 
 (2) It shall be a defence for a person charged under these Regulations to show that he took all reasonable steps to avoid the commission of the offence.
 
-## 10. Detention[^key-c58954d1e6f8e4f5d356f28059b02a52]
+## 10. Detention[^c-c58954d1e6f8e4f5d356f28059b02a52]
 
 In any case where a ship does not comply with the requirements of these Regulations, the ship shall be liable to be detained and section 284(1) to (6) and (8) of the Merchant Shipping Act 1995[^f00014] (which relates to the detention of a ship) shall have effect in relation to that ship, as if for the words “this Act” wherever they appear, there were substituted the words “the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000”.
 
-## 11. Review[^key-6ebc75582eec4f800ea8e72e3c570f61]
+## 11. Review[^c-6ebc75582eec4f800ea8e72e3c570f61]
 
 (1) The Secretary of State must from time to time—
 
@@ -275,7 +275,7 @@ Department of the Environment, Transport and the Regions
 
 Regulation 5
 
-### 1. Amendments to the Passenger Ship Construction Regulations[^key-c665d2ef04613bec809ee524a7a2f699]
+### 1. Amendments to the Passenger Ship Construction Regulations[^c-c665d2ef04613bec809ee524a7a2f699]
 
 (1) The Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II and II(A)) Regulations 1998 shall be amended as follows.
 
@@ -289,7 +289,7 @@ Regulation 5
 
 (3) In regulation 3(1), after the words “Subject to paragraphs (2) to (6) below” there shall be inserted the words “and to regulation 5(1) of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (which relates to passenger ships of Class II(A) which are 24 metres or over in length and are existing ships, engaged on domestic voyages, for the purposes of thos Regulations),”.
 
-**2.**[^key-0ac0c6c6c9e63dbe0500b74d35e59946] (1) The Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998 shall be amended as follows.
+**2.**[^c-0ac0c6c6c9e63dbe0500b74d35e59946] (1) The Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998 shall be amended as follows.
 
 (2) In regulation 3, at the beginning, there shall be inserted the words “Subject to regulation 3A below, and to regulation (5)(1) of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (which relates to passenger ships of Classes III, VI and VI(A) which are 24 metres or over in length and are existing ships, engaged on domestic voyages, for the purposes of those Regulations),”.
 
@@ -299,11 +299,11 @@ Regulation 5
 
 .
 
-### 3. Amendments to the Life Saving Appliances Regulations[^key-1b7e2f6359adab193bf7613335b9b1c4]
+### 3. Amendments to the Life Saving Appliances Regulations[^c-1b7e2f6359adab193bf7613335b9b1c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-514adcdc99fe9eadff010d38d7be47a6] (1) The Merchant Shipping (Life-Saving Appliances for Ships of Classes III to VI(A)) Regulations 1999 shall be amended as follows.
+**4.**[^c-514adcdc99fe9eadff010d38d7be47a6] (1) The Merchant Shipping (Life-Saving Appliances for Ships of Classes III to VI(A)) Regulations 1999 shall be amended as follows.
 
 (2) In regulation 4(1), at the beginning, there shall be inserted the words “Subject to regulation 4A below, and to regulation 5(1) of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (which relates to passenger ships of Classes III, VI and VI(A) which are 24 metres or over in length and are existing ships, engaged on domestic voyages, for the purposes of those Regulations),”.
 
@@ -313,11 +313,11 @@ Regulation 5
 
 .
 
-### 5. Amendments to the Fire Protection Regulations[^key-d90137fd6bfae1a2f9a4072e9d528ef6]
+### 5. Amendments to the Fire Protection Regulations[^c-d90137fd6bfae1a2f9a4072e9d528ef6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4c4d6ea7bc8b662e814b6e637853b840] (1) The Merchant Shipping (Fire Protection: Small Ships) Regulations 1998 shall be amended as follows.
+**6.**[^c-4c4d6ea7bc8b662e814b6e637853b840] (1) The Merchant Shipping (Fire Protection: Small Ships) Regulations 1998 shall be amended as follows.
 
 (2) In regulation 1(7)—
 
@@ -336,7 +336,7 @@ Regulation 5
 
 .
 
-### 7. Amendments to the Survey and Certification Regulations[^key-bf3589f10c8c6851a21aa2a9ee1139bc]
+### 7. Amendments to the Survey and Certification Regulations[^c-bf3589f10c8c6851a21aa2a9ee1139bc]
 
 (1) The Merchant Shipping (Survey and Certification) Regulations 1995[^f00015] shall be amended as follows.
 
@@ -391,7 +391,7 @@ Regulation 5
 
   .
 
-### 8. Amendments to the Radio Installations Regulations[^key-b97a4e0be8a90df19fae8460c2cee0de]
+### 8. Amendments to the Radio Installations Regulations[^c-b97a4e0be8a90df19fae8460c2cee0de]
 
 (1) The Merchant Shipping (Radio Installations) Regulations 1998 shall be amended as follows.
 
@@ -416,7 +416,7 @@ Regulation 5
 
 .
 
-### 9. Amendments to the Navigational Equipment Regulations[^key-a81e48449f0531b9ced19e2f3e31d12f]
+### 9. Amendments to the Navigational Equipment Regulations[^c-a81e48449f0531b9ced19e2f3e31d12f]
 
 (1) The Merchant Shipping (Navigational Equipment) Regulations 1993 shall be amended as follows.
 
@@ -464,150 +464,150 @@ Merchant Shipping Notices can be obtained from iForce, Unit B, Imber Court Tradi
 
 [^f00002]: Footnote: Sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), section 8, and are applied to hovercraft by the Hovercraft (Application of Enactments) Order 1989 (S.I. [1989/1350](https://www.legislation.gov.uk/uksi/1989/1350)).
 
-[^key-38460b86e292cac0070c5ba209e475aa]: Commencement: Reg. 1 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
+[^c-38460b86e292cac0070c5ba209e475aa]: Commencement: Reg. 1 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
 
-[^key-422597b685ccb3bc2ed117096c6090cc]: Commencement: Reg. 2 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
+[^c-422597b685ccb3bc2ed117096c6090cc]: Commencement: Reg. 2 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
 
-[^key-20b548795298f087b8af18f08c982d40]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/1) substituted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/2/a)
+[^c-20b548795298f087b8af18f08c982d40]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/1) substituted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/2/a)
 
-[^key-614136eb369e1e8f0ce659a495a892ae]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/1) inserted (29.11.2004) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) (Amendment) (No. 2) Regulations 2004 (S.I. 2004/2883)](https://www.legislation.gov.uk/uksi/2004/2883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/2/1/b)
+[^c-614136eb369e1e8f0ce659a495a892ae]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/1) inserted (29.11.2004) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) (Amendment) (No. 2) Regulations 2004 (S.I. 2004/2883)](https://www.legislation.gov.uk/uksi/2004/2883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/2/1/b)
 
-[^key-2b62167f191fe4407ed010d0ee542452]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/1) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 16(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/16/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2b62167f191fe4407ed010d0ee542452]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/1) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 16(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/16/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1f636fc1a650cb52c447db8ed7389d2a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/1) inserted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/2/b)
+[^c-1f636fc1a650cb52c447db8ed7389d2a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/1) inserted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/2/b)
 
-[^key-afe0ec2a2fd495146a97d1727256bb97]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2) omitted (15.2.2018) by virtue of [The Merchant Shipping (Safety Rules and Standards for Passenger Ships) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/53)](https://www.legislation.gov.uk/uksi/2018/53), [regs. 1](https://www.legislation.gov.uk/uksi/2018/53/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/53/regulation/4/2/b)
+[^c-afe0ec2a2fd495146a97d1727256bb97]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2) omitted (15.2.2018) by virtue of [The Merchant Shipping (Safety Rules and Standards for Passenger Ships) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/53)](https://www.legislation.gov.uk/uksi/2018/53), [regs. 1](https://www.legislation.gov.uk/uksi/2018/53/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/53/regulation/4/2/b)
 
-[^key-495e70713101f2bb68613503b45eba2f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2) substituted (15.2.2018) by [The Merchant Shipping (Safety Rules and Standards for Passenger Ships) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/53)](https://www.legislation.gov.uk/uksi/2018/53), [regs. 1](https://www.legislation.gov.uk/uksi/2018/53/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2018/53/regulation/4/2/c)
+[^c-495e70713101f2bb68613503b45eba2f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2) substituted (15.2.2018) by [The Merchant Shipping (Safety Rules and Standards for Passenger Ships) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/53)](https://www.legislation.gov.uk/uksi/2018/53), [regs. 1](https://www.legislation.gov.uk/uksi/2018/53/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2018/53/regulation/4/2/c)
 
-[^key-484136ffa7b792a91a19986ddfa49067]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/1) substituted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/2/c)
+[^c-484136ffa7b792a91a19986ddfa49067]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/1) substituted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/2/c)
 
-[^key-bdb67188be240de8618db8d733b936c1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/1) substituted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/2/d)
+[^c-bdb67188be240de8618db8d733b936c1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/1) substituted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/2/d)
 
-[^key-38c857a86c6db2c59e9b5d42463ed639]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/1) inserted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 16(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/16/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-38c857a86c6db2c59e9b5d42463ed639]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/1) inserted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 16(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/16/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1dbdf36fd2d16431ea9382659ee64b87]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/1) substituted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/2/e)
+[^c-1dbdf36fd2d16431ea9382659ee64b87]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/1) substituted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/2/e)
 
-[^key-423d59d67eefbb829d998935aa02fbce]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/1) inserted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(2)(f)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/2/f)
+[^c-423d59d67eefbb829d998935aa02fbce]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/1) inserted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(2)(f)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/2/f)
 
-[^key-ffb77fdcfb7747ca78b31e4dcc95f8ae]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/2) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 16(2)(b)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/16/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ffb77fdcfb7747ca78b31e4dcc95f8ae]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/2) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 16(2)(b)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/16/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e6e03066a34eb62f5c88c0971206834a]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/2A) substituted (15.2.2018) by [The Merchant Shipping (Safety Rules and Standards for Passenger Ships) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/53)](https://www.legislation.gov.uk/uksi/2018/53), [regs. 1](https://www.legislation.gov.uk/uksi/2018/53/regulation/1), [4(2)(d)](https://www.legislation.gov.uk/uksi/2018/53/regulation/4/2/d)
+[^c-e6e03066a34eb62f5c88c0971206834a]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/2A) substituted (15.2.2018) by [The Merchant Shipping (Safety Rules and Standards for Passenger Ships) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/53)](https://www.legislation.gov.uk/uksi/2018/53), [regs. 1](https://www.legislation.gov.uk/uksi/2018/53/regulation/1), [4(2)(d)](https://www.legislation.gov.uk/uksi/2018/53/regulation/4/2/d)
 
-[^key-397c9c2e897d320765de11d4e781223c]: Textual amendment: Word in [reg. 2(2A)(c)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/2A/c) substituted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/3)
+[^c-397c9c2e897d320765de11d4e781223c]: Textual amendment: Word in [reg. 2(2A)(c)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/2/2A/c) substituted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/3)
 
-[^key-182a0b174388f1c0c4ae3dc5261bfa84]: Textual amendment: Regs. 3, 3A substituted for reg. 3 (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/4)
+[^c-182a0b174388f1c0c4ae3dc5261bfa84]: Textual amendment: Regs. 3, 3A substituted for reg. 3 (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/4)
 
-[^key-7ba59ca06cf4fec42315d2630a336676]: Commencement: Reg. 4 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
+[^c-7ba59ca06cf4fec42315d2630a336676]: Commencement: Reg. 4 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
 
-[^key-1146dd4ae811c043fcfeccdc4ce0c536]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/1) substituted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/5/a)
+[^c-1146dd4ae811c043fcfeccdc4ce0c536]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/1) substituted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/5/a)
 
-[^key-9cad944d994fbfdceb34c6c411318a07]: Textual amendment: [Reg. 4(2)(ba)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/2/ba) inserted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/5/b/i)
+[^c-9cad944d994fbfdceb34c6c411318a07]: Textual amendment: [Reg. 4(2)(ba)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/2/ba) inserted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/5/b/i)
 
-[^key-bed4da5aa744886eaff87c23f601252c]: Textual amendment: Words in [reg. 4(2)(c)(i)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/2/c/i) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/11) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+[^c-bed4da5aa744886eaff87c23f601252c]: Textual amendment: Words in [reg. 4(2)(c)(i)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/2/c/i) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/11) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
 
-[^key-d56ad8173d75b3f595f67cb0f138f60b]: Textual amendment: [Reg. 4(2)(e)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/2/e) substituted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/5/b/ii)
+[^c-d56ad8173d75b3f595f67cb0f138f60b]: Textual amendment: [Reg. 4(2)(e)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/2/e) substituted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/5/b/ii)
 
-[^key-b299635b72d217774b6d0579aece6a68]: Textual amendment: [Reg. 4(2)(f)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/2/f) substituted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/5/b/iii)
+[^c-b299635b72d217774b6d0579aece6a68]: Textual amendment: [Reg. 4(2)(f)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/2/f) substituted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/5/b/iii)
 
-[^key-1b580b550948b6beeaa38ef156440d90]: Textual amendment: Words in [reg. 4(2)(g)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/2/g) revoked (16.11.2012) by [The Merchant Shipping (Passenger Ships on Domestic Voyages)(Amendment) Regulations 2012 (S.I. 2012/2636)](https://www.legislation.gov.uk/uksi/2012/2636), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2636/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2012/2636/regulation/3/3/a)
+[^c-1b580b550948b6beeaa38ef156440d90]: Textual amendment: Words in [reg. 4(2)(g)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/2/g) revoked (16.11.2012) by [The Merchant Shipping (Passenger Ships on Domestic Voyages)(Amendment) Regulations 2012 (S.I. 2012/2636)](https://www.legislation.gov.uk/uksi/2012/2636), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2636/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2012/2636/regulation/3/3/a)
 
-[^key-84359b063f49a06b56ffb1f38d8d01fd]: Textual amendment: Words in [reg. 4(2)(g)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/2/g) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/11) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+[^c-84359b063f49a06b56ffb1f38d8d01fd]: Textual amendment: Words in [reg. 4(2)(g)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/2/g) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/11) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
 
-[^key-4cdc56d993445fe585bd6b3d2a559554]: Textual amendment: Word in [reg. 4(2)(g)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/2/g) omitted (6.4.2010) by virtue of [The Merchant Shipping (Passenger Ships) (Safety Code for UK Categorised Waters) Regulations 2010 (S.I. 2010/680)](https://www.legislation.gov.uk/uksi/2010/680), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2010/680/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/680/regulation/3))
+[^c-4cdc56d993445fe585bd6b3d2a559554]: Textual amendment: Word in [reg. 4(2)(g)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/2/g) omitted (6.4.2010) by virtue of [The Merchant Shipping (Passenger Ships) (Safety Code for UK Categorised Waters) Regulations 2010 (S.I. 2010/680)](https://www.legislation.gov.uk/uksi/2010/680), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2010/680/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/680/regulation/3))
 
-[^key-66edd4a863c1b4d9c7dad26eedaeae37]: Textual amendment: [Reg. 4(2)(i)(j)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/2/i) and word substituted for reg. 4(2)(i) and word (20.4.2010) by [The Merchant Shipping (Technical Requirements for Inland Waterway Vessels) Regulations 2010 (S.I. 2010/1075)](https://www.legislation.gov.uk/uksi/2010/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1075/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1075/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1075/regulation/3))
+[^c-66edd4a863c1b4d9c7dad26eedaeae37]: Textual amendment: [Reg. 4(2)(i)(j)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/2/i) and word substituted for reg. 4(2)(i) and word (20.4.2010) by [The Merchant Shipping (Technical Requirements for Inland Waterway Vessels) Regulations 2010 (S.I. 2010/1075)](https://www.legislation.gov.uk/uksi/2010/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1075/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1075/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1075/regulation/3))
 
-[^key-408710b03f3ca19398a6a5fc19c4281c]: Textual amendment: [Reg. 4(2)(k)-(m)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/2/k) inserted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(5)(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/5/b/iv)
+[^c-408710b03f3ca19398a6a5fc19c4281c]: Textual amendment: [Reg. 4(2)(k)-(m)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/2/k) inserted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(5)(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/5/b/iv)
 
-[^key-b82c60c6000423b4d75f277771adbdc1]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/3) revoked (16.11.2012) by [The Merchant Shipping (Passenger Ships on Domestic Voyages)(Amendment) Regulations 2012 (S.I. 2012/2636)](https://www.legislation.gov.uk/uksi/2012/2636), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2636/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2012/2636/regulation/3/3/b)
+[^c-b82c60c6000423b4d75f277771adbdc1]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/4/3) revoked (16.11.2012) by [The Merchant Shipping (Passenger Ships on Domestic Voyages)(Amendment) Regulations 2012 (S.I. 2012/2636)](https://www.legislation.gov.uk/uksi/2012/2636), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2636/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2012/2636/regulation/3/3/b)
 
-[^key-7284136135219658ac365190e8f24c5f]: Commencement: Reg. 5 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
+[^c-7284136135219658ac365190e8f24c5f]: Commencement: Reg. 5 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
 
-[^key-1f34af7abab3af9659d30a9c885e5290]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/5/1) substituted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/6/a)
+[^c-1f34af7abab3af9659d30a9c885e5290]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/5/1) substituted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/6/a)
 
 [^f00006]: Footnote: S.I. [1998/2514](https://www.legislation.gov.uk/uksi/1998/2514).
 
 [^f00007]: Footnote: S.I. [1998/2515](https://www.legislation.gov.uk/uksi/1998/2515).
 
-[^key-c28c6aa9bd2e6f472c7aae2e9f549d0b]: Textual amendment: [Reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/5/1/c) omitted (9.6.2020) by virtue of [The Merchant Shipping (Life-Saving Appliances and Arrangements) Regulations 2020 (S.I. 2020/501)](https://www.legislation.gov.uk/uksi/2020/501), [reg. 1](https://www.legislation.gov.uk/uksi/2020/501/regulation/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2020/501/schedule/1/paragraph/12) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/501/regulation/4))
+[^c-c28c6aa9bd2e6f472c7aae2e9f549d0b]: Textual amendment: [Reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/5/1/c) omitted (9.6.2020) by virtue of [The Merchant Shipping (Life-Saving Appliances and Arrangements) Regulations 2020 (S.I. 2020/501)](https://www.legislation.gov.uk/uksi/2020/501), [reg. 1](https://www.legislation.gov.uk/uksi/2020/501/regulation/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2020/501/schedule/1/paragraph/12) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/501/regulation/4))
 
 [^f00009]: Footnote: S.I. [1999/2723](https://www.legislation.gov.uk/uksi/1999/2723).
 
 [^f00010]: Footnote: S.I. [1998/1011](https://www.legislation.gov.uk/uksi/1998/1011).
 
-[^key-ab5bcd02cca58ed418897047ab5f1aa4]: Textual amendment: [Reg. 5(1)(f)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/5/1/f) omitted (15.6.2023) by virtue of [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/paragraph/10) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
+[^c-ab5bcd02cca58ed418897047ab5f1aa4]: Textual amendment: [Reg. 5(1)(f)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/5/1/f) omitted (15.6.2023) by virtue of [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/paragraph/10) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
 
-[^key-07c36bacde3987cdcc2b32073ffb09b0]: Textual amendment: [Reg. 5(1)(g)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/5/1/g) revoked (1.7.2002) by [The Merchant Shipping (Safety of Navigation) Regulations 2002 (S.I. 2002/1473)](https://www.legislation.gov.uk/uksi/2002/1473), [reg. 1](https://www.legislation.gov.uk/uksi/2002/1473/regulation/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2002/1473/schedule/1/paragraph/8) (with [regs. 4](https://www.legislation.gov.uk/uksi/2002/1473/regulation/4), [5](https://www.legislation.gov.uk/uksi/2002/1473/regulation/5))
+[^c-07c36bacde3987cdcc2b32073ffb09b0]: Textual amendment: [Reg. 5(1)(g)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/5/1/g) revoked (1.7.2002) by [The Merchant Shipping (Safety of Navigation) Regulations 2002 (S.I. 2002/1473)](https://www.legislation.gov.uk/uksi/2002/1473), [reg. 1](https://www.legislation.gov.uk/uksi/2002/1473/regulation/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2002/1473/schedule/1/paragraph/8) (with [regs. 4](https://www.legislation.gov.uk/uksi/2002/1473/regulation/4), [5](https://www.legislation.gov.uk/uksi/2002/1473/regulation/5))
 
 [^f00013]: Footnote: S.I. [1998/2070](https://www.legislation.gov.uk/uksi/1998/2070).
 
-[^key-400307e4b90d0277e064ef97cd071316]: Textual amendment: [Reg. 5(1)(i)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/5/1/i) omitted (1.1.2021) by virtue of [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/6/b)
+[^c-400307e4b90d0277e064ef97cd071316]: Textual amendment: [Reg. 5(1)(i)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/5/1/i) omitted (1.1.2021) by virtue of [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/6/b)
 
-[^key-67badbc24951026ff29f5bcc59a37f20]: Commencement: Reg. 6 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
+[^c-67badbc24951026ff29f5bcc59a37f20]: Commencement: Reg. 6 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
 
-[^key-4e79c53caa56576f058bef6568f33d43]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/6/1) substituted (29.11.2004) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) (Amendment) (No. 2) Regulations 2004 (S.I. 2004/2883)](https://www.legislation.gov.uk/uksi/2004/2883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/2/3)
+[^c-4e79c53caa56576f058bef6568f33d43]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/6/1) substituted (29.11.2004) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) (Amendment) (No. 2) Regulations 2004 (S.I. 2004/2883)](https://www.legislation.gov.uk/uksi/2004/2883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/2/3)
 
-[^key-a7fbc0fecf2055bbb47341598f7bbaf6]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/6/1) omitted (1.1.2021) by virtue of [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/7/a)
+[^c-a7fbc0fecf2055bbb47341598f7bbaf6]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/6/1) omitted (1.1.2021) by virtue of [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/7/a)
 
-[^key-5db6159fe0bb64b3b8999929b679facd]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/6/1A) omitted (1.1.2021) by virtue of [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/7/b)
+[^c-5db6159fe0bb64b3b8999929b679facd]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/6/1A) omitted (1.1.2021) by virtue of [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/7/b)
 
-[^key-2b33e3216bbb24143973ce8d57bdf358]: Textual amendment: [Reg. 6(1B)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/6/1B) omitted (1.1.2021) by virtue of [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/7/b)
+[^c-2b33e3216bbb24143973ce8d57bdf358]: Textual amendment: [Reg. 6(1B)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/6/1B) omitted (1.1.2021) by virtue of [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/7/b)
 
-[^key-ab51fe2924a536d7a1e9be4da267cb9f]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/6/2) omitted (1.1.2021) by virtue of [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(7)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/7/c/i)
+[^c-ab51fe2924a536d7a1e9be4da267cb9f]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/6/2) omitted (1.1.2021) by virtue of [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(7)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/7/c/i)
 
-[^key-1e9c2a5291f7f4f7eb158a968cde33ac]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/6/2) substituted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/7/c/ii)
+[^c-1e9c2a5291f7f4f7eb158a968cde33ac]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/6/2) substituted (1.1.2021) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/7/c/ii)
 
-[^key-8e8fb62100eb5755cc9b1b983ff48e6c]: Textual amendment: [Reg. 6(2A)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/6/2A) inserted (29.11.2004) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) (Amendment) (No. 2) Regulations 2004 (S.I. 2004/2883)](https://www.legislation.gov.uk/uksi/2004/2883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/2/5)
+[^c-8e8fb62100eb5755cc9b1b983ff48e6c]: Textual amendment: [Reg. 6(2A)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/6/2A) inserted (29.11.2004) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) (Amendment) (No. 2) Regulations 2004 (S.I. 2004/2883)](https://www.legislation.gov.uk/uksi/2004/2883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/2/5)
 
-[^key-a3d061df7e67a5c2debfa9cb811951a2]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/6/3) substituted (16.11.2012) by [The Merchant Shipping (Passenger Ships on Domestic Voyages)(Amendment) Regulations 2012 (S.I. 2012/2636)](https://www.legislation.gov.uk/uksi/2012/2636), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2636/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2012/2636/regulation/3/4/a)
+[^c-a3d061df7e67a5c2debfa9cb811951a2]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/6/3) substituted (16.11.2012) by [The Merchant Shipping (Passenger Ships on Domestic Voyages)(Amendment) Regulations 2012 (S.I. 2012/2636)](https://www.legislation.gov.uk/uksi/2012/2636), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2636/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2012/2636/regulation/3/4/a)
 
-[^key-981089bc5d1a06ec05f071abd95d42d1]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/6/5) substituted (16.11.2012) by [The Merchant Shipping (Passenger Ships on Domestic Voyages)(Amendment) Regulations 2012 (S.I. 2012/2636)](https://www.legislation.gov.uk/uksi/2012/2636), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2636/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2012/2636/regulation/3/4/b)
+[^c-981089bc5d1a06ec05f071abd95d42d1]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/6/5) substituted (16.11.2012) by [The Merchant Shipping (Passenger Ships on Domestic Voyages)(Amendment) Regulations 2012 (S.I. 2012/2636)](https://www.legislation.gov.uk/uksi/2012/2636), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2636/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2012/2636/regulation/3/4/b)
 
-[^key-3682067d2e36e2714c57557504955a70]: Commencement: Reg. 7 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
+[^c-3682067d2e36e2714c57557504955a70]: Commencement: Reg. 7 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
 
-[^key-07787c423f738389310fa02cee875e7f]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/7/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 16(3)(a)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/16/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-07787c423f738389310fa02cee875e7f]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/7/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 16(3)(a)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/16/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e8813d76ad5e5e1021354150e874441c]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/7/2) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 16(3)(b)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/16/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e8813d76ad5e5e1021354150e874441c]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/7/2) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 16(3)(b)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/16/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3c9c47747d9a1c57b47f51b7ed4e06e7]: Textual amendment: [Regs. 7A](https://www.legislation.gov.uk/uksi/2000/2687/regulation/7A)-[7C](https://www.legislation.gov.uk/uksi/2000/2687/regulation/7B) inserted (29.11.2004) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) (Amendment) (No. 2) Regulations 2004 (S.I. 2004/2883)](https://www.legislation.gov.uk/uksi/2004/2883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/2/6)
+[^c-3c9c47747d9a1c57b47f51b7ed4e06e7]: Textual amendment: [Regs. 7A](https://www.legislation.gov.uk/uksi/2000/2687/regulation/7A)-[7C](https://www.legislation.gov.uk/uksi/2000/2687/regulation/7B) inserted (29.11.2004) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) (Amendment) (No. 2) Regulations 2004 (S.I. 2004/2883)](https://www.legislation.gov.uk/uksi/2004/2883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/2/6)
 
-[^key-64354737798baa40fc9215e42303434f]: Textual amendment: Words in [reg. 7A(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/7A/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 16(4)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/16/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-64354737798baa40fc9215e42303434f]: Textual amendment: Words in [reg. 7A(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/7A/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 16(4)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/16/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a1d51ca47d20bc6ffcc5bc88e0b4abf0]: Textual amendment: [Reg. 7B(2)(b)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/7B/2/b) substituted (5.10.2023) by [The Merchant Shipping (Inspections of Ro-Ro Passenger Ships and High-Speed Passenger Craft) Regulations 2023 (S.I. 2023/984)](https://www.legislation.gov.uk/uksi/2023/984), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2023/984/schedule/5/paragraph/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/984/regulation/3))
+[^c-a1d51ca47d20bc6ffcc5bc88e0b4abf0]: Textual amendment: [Reg. 7B(2)(b)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/7B/2/b) substituted (5.10.2023) by [The Merchant Shipping (Inspections of Ro-Ro Passenger Ships and High-Speed Passenger Craft) Regulations 2023 (S.I. 2023/984)](https://www.legislation.gov.uk/uksi/2023/984), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2023/984/schedule/5/paragraph/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/984/regulation/3))
 
-[^key-3768ec7c7385d50921aca4e23eca13d8]: Textual amendment: [Reg. 7C(b)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/7C/b) omitted (1.1.2021) by virtue of [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/8)
+[^c-3768ec7c7385d50921aca4e23eca13d8]: Textual amendment: [Reg. 7C(b)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/7C/b) omitted (1.1.2021) by virtue of [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1222)](https://www.legislation.gov.uk/uksi/2020/1222), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2/8)
 
-[^key-94b33dc8cb8ab5863265b5bc4fef4924]: Commencement: Reg. 8 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
+[^c-94b33dc8cb8ab5863265b5bc4fef4924]: Commencement: Reg. 8 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
 
-[^key-81917f72c5705421f728f779413e1582]: Commencement: Reg. 9 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
+[^c-81917f72c5705421f728f779413e1582]: Commencement: Reg. 9 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
 
-[^key-cf7b80069877e566862eb959126ad2c8]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/9/1) inserted (29.11.2004) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) (Amendment) (No. 2) Regulations 2004 (S.I. 2004/2883)](https://www.legislation.gov.uk/uksi/2004/2883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/2/7/a)
+[^c-cf7b80069877e566862eb959126ad2c8]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/9/1) inserted (29.11.2004) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) (Amendment) (No. 2) Regulations 2004 (S.I. 2004/2883)](https://www.legislation.gov.uk/uksi/2004/2883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/2/7/a)
 
-[^key-92ee9bb586ede575926ff0e3339d85a5]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/9/1A) inserted (29.11.2004) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) (Amendment) (No. 2) Regulations 2004 (S.I. 2004/2883)](https://www.legislation.gov.uk/uksi/2004/2883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/2/7/b)
+[^c-92ee9bb586ede575926ff0e3339d85a5]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/9/1A) inserted (29.11.2004) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) (Amendment) (No. 2) Regulations 2004 (S.I. 2004/2883)](https://www.legislation.gov.uk/uksi/2004/2883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/2/7/b)
 
-[^key-c58954d1e6f8e4f5d356f28059b02a52]: Commencement: Reg. 10 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
+[^c-c58954d1e6f8e4f5d356f28059b02a52]: Commencement: Reg. 10 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
 
 [^f00014]: Footnote: Section 284 was amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), Schedule 1, paragraph 5.
 
-[^key-6ebc75582eec4f800ea8e72e3c570f61]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2000/2687/regulation/11) inserted (16.11.2012) by [The Merchant Shipping (Passenger Ships on Domestic Voyages)(Amendment) Regulations 2012 (S.I. 2012/2636)](https://www.legislation.gov.uk/uksi/2012/2636), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2636/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2012/2636/regulation/3/6)
+[^c-6ebc75582eec4f800ea8e72e3c570f61]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2000/2687/regulation/11) inserted (16.11.2012) by [The Merchant Shipping (Passenger Ships on Domestic Voyages)(Amendment) Regulations 2012 (S.I. 2012/2636)](https://www.legislation.gov.uk/uksi/2012/2636), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2636/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2012/2636/regulation/3/6)
 
-[^key-c665d2ef04613bec809ee524a7a2f699]: Commencement: Sch. para. 1 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
+[^c-c665d2ef04613bec809ee524a7a2f699]: Commencement: Sch. para. 1 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
 
-[^key-0ac0c6c6c9e63dbe0500b74d35e59946]: Commencement: Sch. para. 2 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
+[^c-0ac0c6c6c9e63dbe0500b74d35e59946]: Commencement: Sch. para. 2 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
 
-[^key-1b7e2f6359adab193bf7613335b9b1c4]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2000/2687/schedule/paragraph/3) revoked (9.6.2020) by [The Merchant Shipping (Life-Saving Appliances and Arrangements) Regulations 2020 (S.I. 2020/501)](https://www.legislation.gov.uk/uksi/2020/501), [reg. 1](https://www.legislation.gov.uk/uksi/2020/501/regulation/1), [Sch. 1 Pt. 1 para. 13](https://www.legislation.gov.uk/uksi/2020/501/schedule/1/paragraph/13), [Pt. 2](https://www.legislation.gov.uk/uksi/2020/501/schedule/1/part/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/501/regulation/4))
+[^c-1b7e2f6359adab193bf7613335b9b1c4]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2000/2687/schedule/paragraph/3) revoked (9.6.2020) by [The Merchant Shipping (Life-Saving Appliances and Arrangements) Regulations 2020 (S.I. 2020/501)](https://www.legislation.gov.uk/uksi/2020/501), [reg. 1](https://www.legislation.gov.uk/uksi/2020/501/regulation/1), [Sch. 1 Pt. 1 para. 13](https://www.legislation.gov.uk/uksi/2020/501/schedule/1/paragraph/13), [Pt. 2](https://www.legislation.gov.uk/uksi/2020/501/schedule/1/part/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/501/regulation/4))
 
-[^key-514adcdc99fe9eadff010d38d7be47a6]: Commencement: Sch. para. 4 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
+[^c-514adcdc99fe9eadff010d38d7be47a6]: Commencement: Sch. para. 4 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
 
-[^key-d90137fd6bfae1a2f9a4072e9d528ef6]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2000/2687/schedule/paragraph/5) omitted (15.6.2023) by virtue of [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/paragraph/11) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
+[^c-d90137fd6bfae1a2f9a4072e9d528ef6]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2000/2687/schedule/paragraph/5) omitted (15.6.2023) by virtue of [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/paragraph/11) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
 
-[^key-4c4d6ea7bc8b662e814b6e637853b840]: Commencement: Sch. para. 6 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
+[^c-4c4d6ea7bc8b662e814b6e637853b840]: Commencement: Sch. para. 6 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
 
-[^key-bf3589f10c8c6851a21aa2a9ee1139bc]: Commencement: Sch. para. 7 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
+[^c-bf3589f10c8c6851a21aa2a9ee1139bc]: Commencement: Sch. para. 7 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
 
 [^f00015]: Footnote: S.I. [1995/1210](https://www.legislation.gov.uk/uksi/1995/1210), amended by S.I. [1996/2418](https://www.legislation.gov.uk/uksi/1996/2418) and S.I. [2000/1334](https://www.legislation.gov.uk/uksi/2000/1334).
 
-[^key-b97a4e0be8a90df19fae8460c2cee0de]: Commencement: Sch. para. 8 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
+[^c-b97a4e0be8a90df19fae8460c2cee0de]: Commencement: Sch. para. 8 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
 
-[^key-a81e48449f0531b9ced19e2f3e31d12f]: Commencement: Sch. para. 9 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)
+[^c-a81e48449f0531b9ced19e2f3e31d12f]: Commencement: Sch. para. 9 in force at 23.10.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1)

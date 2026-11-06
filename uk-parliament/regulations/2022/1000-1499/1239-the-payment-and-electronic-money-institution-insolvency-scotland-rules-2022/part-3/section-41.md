@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Requisition of meetings[^key-d3d1451385e54e6780fe31bb0c12c521]
+## 41. Requisition of meetings[^c-d3d1451385e54e6780fe31bb0c12c521]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3d1451385e54e6780fe31bb0c12c521]: Commencement: Rule 41 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-d3d1451385e54e6780fe31bb0c12c521]: Commencement: Rule 41 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

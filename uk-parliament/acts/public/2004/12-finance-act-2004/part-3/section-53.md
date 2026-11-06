@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Treatment of expenditure on research and development[^key-c4c1637061f31b9c34b9ebfb9b16ab43]
+## 53. Treatment of expenditure on research and development[^c-c4c1637061f31b9c34b9ebfb9b16ab43]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4c1637061f31b9c34b9ebfb9b16ab43]: Commencement: S. 53 in force at 1.1.2005 with effect as specified in art. 2 of the commencing S.I. by [S.I. 2004/3268](https://www.legislation.gov.uk/uksi/2004/3268), [art. 2](https://www.legislation.gov.uk/uksi/2004/3268/article/2)
+[^c-c4c1637061f31b9c34b9ebfb9b16ab43]: Commencement: S. 53 in force at 1.1.2005 with effect as specified in art. 2 of the commencing S.I. by [S.I. 2004/3268](https://www.legislation.gov.uk/uksi/2004/3268), [art. 2](https://www.legislation.gov.uk/uksi/2004/3268/article/2)

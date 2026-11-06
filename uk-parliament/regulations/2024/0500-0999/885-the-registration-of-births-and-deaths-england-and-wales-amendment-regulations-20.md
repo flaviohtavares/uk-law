@@ -41,7 +41,7 @@ Coming into force
 
 The Registrar General for England and Wales makes these Regulations with the approval of the Secretary of State in exercise of the powers conferred by sections 20, 22(2), 23, 23A(1) and (3), 24(1), 33A(2) and 39(1)(a) of the Births and Deaths Registration Act 1953[^f00001] and section 20(a) of the Registration Service Act 1953[^f00002].
 
-## 1. Citation, commencement and extent[^key-b31428b65ac22c35a1ff0b70f9650a81]
+## 1. Citation, commencement and extent[^c-b31428b65ac22c35a1ff0b70f9650a81]
 
 (1) These Regulations may be cited as the Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024.
 
@@ -49,7 +49,7 @@ The Registrar General for England and Wales makes these Regulations with the app
 
 (3) These Regulations extend to England and Wales.
 
-## 2. Amendment of the Registration of Births and Deaths (England and Wales) Regulations 1987[^key-a5d7698d239954046e26080d92caed19]
+## 2. Amendment of the Registration of Births and Deaths (England and Wales) Regulations 1987[^c-a5d7698d239954046e26080d92caed19]
 
 (1) The Registration of Births and Deaths (England and Wales) Regulations 1987 are amended as follows.
 
@@ -243,7 +243,7 @@ The Registrar General for England and Wales makes these Regulations with the app
 - (b) omit form 14, form 15 and form 16;
 - (c) after form 22, insert the forms set out under the headings “Form 1” and “Form 2” in the Schedule.
 
-## 3. Transitional provision[^key-4c75dbf799a2aa8ea0e46c2927517153]
+## 3. Transitional provision[^c-4c75dbf799a2aa8ea0e46c2927517153]
 
 (1) This regulation applies where, immediately before the date on which these Regulations come into force—
 
@@ -277,17 +277,17 @@ Home Office
 
 3rd September 2024
 
-## SCHEDULE — Prescribed forms[^key-50c3a4f26b4549eaeee830e5974ee5ed][^key-dcaa9bfaf76992dd47f725b5d150f5d6]
+## SCHEDULE — Prescribed forms[^c-50c3a4f26b4549eaeee830e5974ee5ed][^c-dcaa9bfaf76992dd47f725b5d150f5d6]
 
 Regulation 2(21)(c)
 
 ### Form 1
 
-[^key-50c3a4f26b4549eaeee830e5974ee5ed][^key-dcaa9bfaf76992dd47f725b5d150f5d6][image: see source](https://www.legislation.gov.uk/uksi/2024/885/images/uksi_20240885_en_001)
+[^c-50c3a4f26b4549eaeee830e5974ee5ed][^c-dcaa9bfaf76992dd47f725b5d150f5d6][image: see source](https://www.legislation.gov.uk/uksi/2024/885/images/uksi_20240885_en_001)
 
 ### Form 2
 
-[^key-50c3a4f26b4549eaeee830e5974ee5ed][^key-dcaa9bfaf76992dd47f725b5d150f5d6][image: see source](https://www.legislation.gov.uk/uksi/2024/885/images/uksi_20240885_en_002)
+[^c-50c3a4f26b4549eaeee830e5974ee5ed][^c-dcaa9bfaf76992dd47f725b5d150f5d6][image: see source](https://www.legislation.gov.uk/uksi/2024/885/images/uksi_20240885_en_002)
 
 EXPLANATORY NOTE
 
@@ -311,9 +311,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: [1953 c. 37](https://www.legislation.gov.uk/ukpga/1953/37). There are amendments and modifications to section 20 of that Act, but none is relevant to these Regulations.
 
-[^key-b31428b65ac22c35a1ff0b70f9650a81]: Commencement: Reg. 1 in force at 9.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2)
+[^c-b31428b65ac22c35a1ff0b70f9650a81]: Commencement: Reg. 1 in force at 9.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2)
 
-[^key-a5d7698d239954046e26080d92caed19]: Commencement: Reg. 2 in force at 9.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2)
+[^c-a5d7698d239954046e26080d92caed19]: Commencement: Reg. 2 in force at 9.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2)
 
 [^f00003]: Footnote: There are amendments to regulation 2, but none is relevant to these Regulations.
 
@@ -349,8 +349,8 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00019]: Footnote: There are amendments to Schedule 2, but none is relevant to these Regulations.
 
-[^key-4c75dbf799a2aa8ea0e46c2927517153]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/885/regulation/3) inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) (Transitional Provisions) Order 2024 (S.I. 2024/904)](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2)
+[^c-4c75dbf799a2aa8ea0e46c2927517153]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/885/regulation/3) inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) (Transitional Provisions) Order 2024 (S.I. 2024/904)](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2)
 
-[^key-50c3a4f26b4549eaeee830e5974ee5ed]: Commencement: Sch. crossheading(1) in force at 9.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2)
+[^c-50c3a4f26b4549eaeee830e5974ee5ed]: Commencement: Sch. crossheading(1) in force at 9.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2)
 
-[^key-dcaa9bfaf76992dd47f725b5d150f5d6]: Commencement: Sch. crossheading(2) in force at 9.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2)
+[^c-dcaa9bfaf76992dd47f725b5d150f5d6]: Commencement: Sch. crossheading(2) in force at 9.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2)

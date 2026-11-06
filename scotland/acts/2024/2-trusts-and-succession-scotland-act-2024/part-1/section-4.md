@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Operation of appointment or assumption as general conveyance of trust property[^key-941be32509d0742855061759102cf1ec]
+## 4. Operation of appointment or assumption as general conveyance of trust property[^c-941be32509d0742855061759102cf1ec]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-941be32509d0742855061759102cf1ec]: Commencement: S. 4 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-941be32509d0742855061759102cf1ec]: Commencement: S. 4 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

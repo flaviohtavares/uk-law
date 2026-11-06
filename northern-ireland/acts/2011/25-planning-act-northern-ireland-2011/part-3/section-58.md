@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Appeals[^key-5a964d7b67328e3c56ec7bdd95288e34][^key-ae194a64d76cd7c945deb1d661b47530][^key-840a4105856a271006dc742c8f0d3ce9][^key-b5d24b444765cc9108fa2f0f6af88683][^key-2f5f0ed73ae267031cc18d32f95f44b5][^key-2f5f0ed73ae267031cc18d32f95f44b5]
+## 58. Appeals[^c-5a964d7b67328e3c56ec7bdd95288e34][^c-ae194a64d76cd7c945deb1d661b47530][^c-840a4105856a271006dc742c8f0d3ce9][^c-b5d24b444765cc9108fa2f0f6af88683][^c-2f5f0ed73ae267031cc18d32f95f44b5][^c-2f5f0ed73ae267031cc18d32f95f44b5]
 
 *Extent: N.I.*
 
@@ -45,12 +45,12 @@ then if that permission, consent, agreement or approval is refused or is granted
 
 ## Annotations
 
-[^key-5a964d7b67328e3c56ec7bdd95288e34]: Commencement: S. 58 in operation at 1.2.2015 for specified purposes by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 2](https://www.legislation.gov.uk/nisr/2015/25/article/2)
+[^c-5a964d7b67328e3c56ec7bdd95288e34]: Commencement: S. 58 in operation at 1.2.2015 for specified purposes by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 2](https://www.legislation.gov.uk/nisr/2015/25/article/2)
 
-[^key-ae194a64d76cd7c945deb1d661b47530]: Commencement: S. 58 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 3](https://www.legislation.gov.uk/nisr/2015/25/article/3)
+[^c-ae194a64d76cd7c945deb1d661b47530]: Commencement: S. 58 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 3](https://www.legislation.gov.uk/nisr/2015/25/article/3)
 
-[^key-840a4105856a271006dc742c8f0d3ce9]: Modification: S. 58 applied with modification(s) (1.4.2015) by [The Planning (Trees) Regulations (Northern Ireland) 2015 (S.R. 2015/84)](https://www.legislation.gov.uk/nisr/2015/84), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/84/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/84/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/84/schedule) (with [reg. 11(7)](https://www.legislation.gov.uk/nisr/2015/84/regulation/11/7))
+[^c-840a4105856a271006dc742c8f0d3ce9]: Modification: S. 58 applied with modification(s) (1.4.2015) by [The Planning (Trees) Regulations (Northern Ireland) 2015 (S.R. 2015/84)](https://www.legislation.gov.uk/nisr/2015/84), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/84/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/84/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/84/schedule) (with [reg. 11(7)](https://www.legislation.gov.uk/nisr/2015/84/regulation/11/7))
 
-[^key-b5d24b444765cc9108fa2f0f6af88683]: Modification: S. 58 applied with modification(s) (1.4.2015) by [The Planning (Control of Advertisements) Regulations (Northern Ireland) 2015 (S.R. 2015/66)](https://www.legislation.gov.uk/nisr/2015/66), [regs. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1), [15](https://www.legislation.gov.uk/nisr/2015/66/regulation/15), [Sch. 4 Pts. 1](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/part/1), [2](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/part/2)
+[^c-b5d24b444765cc9108fa2f0f6af88683]: Modification: S. 58 applied with modification(s) (1.4.2015) by [The Planning (Control of Advertisements) Regulations (Northern Ireland) 2015 (S.R. 2015/66)](https://www.legislation.gov.uk/nisr/2015/66), [regs. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1), [15](https://www.legislation.gov.uk/nisr/2015/66/regulation/15), [Sch. 4 Pts. 1](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/part/1), [2](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/part/2)
 
-[^key-2f5f0ed73ae267031cc18d32f95f44b5]: Modification: Pt. 3 applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
+[^c-2f5f0ed73ae267031cc18d32f95f44b5]: Modification: Pt. 3 applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))

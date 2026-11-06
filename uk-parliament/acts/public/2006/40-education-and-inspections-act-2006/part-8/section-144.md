@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Power of entry[^key-a8d68f167a530a99ca53564699a01b5e][^key-30e71acb6997b37e1ac02e85135089d3]
+## 144. Power of entry[^c-a8d68f167a530a99ca53564699a01b5e][^c-30e71acb6997b37e1ac02e85135089d3]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a8d68f167a530a99ca53564699a01b5e]: Commencement: S. 144 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
+[^c-a8d68f167a530a99ca53564699a01b5e]: Commencement: S. 144 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
 
-[^key-30e71acb6997b37e1ac02e85135089d3]: Modification: [S. 144](https://www.legislation.gov.uk/ukpga/2006/40/section/144) applied (9.11.2015) by [The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792)](https://www.legislation.gov.uk/uksi/2015/1792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1792/regulation/1/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/1792/schedule/paragraph/4)
+[^c-30e71acb6997b37e1ac02e85135089d3]: Modification: [S. 144](https://www.legislation.gov.uk/ukpga/2006/40/section/144) applied (9.11.2015) by [The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792)](https://www.legislation.gov.uk/uksi/2015/1792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1792/regulation/1/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/1792/schedule/paragraph/4)

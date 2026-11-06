@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Modification of a certificate or licence[^key-2edcadcdfd0c3f591b26aefc10713ce2]
+## 20. Modification of a certificate or licence[^c-2edcadcdfd0c3f591b26aefc10713ce2]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The competent authority must modify a certificate or licence in respect of an op
 
 ## Annotations
 
-[^key-2edcadcdfd0c3f591b26aefc10713ce2]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2014/951/regulation/20) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-2edcadcdfd0c3f591b26aefc10713ce2]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2014/951/regulation/20) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

@@ -207,7 +207,7 @@ and the acts of an officer so authorised shall be binding on the corporation
 
 #### 12. Jurisdiction of county court in contentious matters
 
-(1) Where, on an application to the High Court for the grant or revocation of representation, the Master or the Registrar is satisfied by affidavit, and certifies, that the property included in the net estate of the person in respect of whose estate the application is made did not at the time of his death exceed £15,000 in value, the county court [^key-ded7918e344116dadbe29a117ac81fd4]... shall have the jurisdiction of the High Court in respect of any contentious matter arising in connection with that grant or revocation.
+(1) Where, on an application to the High Court for the grant or revocation of representation, the Master or the Registrar is satisfied by affidavit, and certifies, that the property included in the net estate of the person in respect of whose estate the application is made did not at the time of his death exceed £15,000 in value, the county court [^c-ded7918e344116dadbe29a117ac81fd4]... shall have the jurisdiction of the High Court in respect of any contentious matter arising in connection with that grant or revocation.
 
 (2) The statements in the affidavit as to the place of abode and value of the estate of the deceased person shall, subject to paragraph (3), be conclusive for the purpose of authorising the exercise of the jurisdiction conferred on a county court by paragraph (1) and the grant or revocation of representation in compliance with the order of the court.
 
@@ -614,7 +614,7 @@ Article 43(1).
 
 [^m00007]: Marginal citation: 1876 c.18
 
-[^key-ded7918e344116dadbe29a117ac81fd4]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/nisi/1979/1575/article/12/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 79](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/79), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-ded7918e344116dadbe29a117ac81fd4]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/nisi/1979/1575/article/12/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 79](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/79), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^m00008]: Marginal citation: 1978 c.23
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Suspension pending review[^key-f24337781ef02ae4d65d8f849715a02a]
+## 11. Suspension pending review[^c-f24337781ef02ae4d65d8f849715a02a]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f24337781ef02ae4d65d8f849715a02a]: Commencement: S. 11 in force at 6.4.2009 by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 2](https://www.legislation.gov.uk/uksi/2009/400/article/2)
+[^c-f24337781ef02ae4d65d8f849715a02a]: Commencement: S. 11 in force at 6.4.2009 by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 2](https://www.legislation.gov.uk/uksi/2009/400/article/2)

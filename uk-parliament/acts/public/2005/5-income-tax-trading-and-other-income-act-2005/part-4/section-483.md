@@ -26,9 +26,9 @@ summary: ''
 
 (3) In this section “**credit union**” means a society registered as a credit union under—
 
-- (a) the Co-operative and Community Benefit Societies Act 2014,[^key-801a1db1c629cc398ff62609c5376239] or
+- (a) the Co-operative and Community Benefit Societies Act 2014,[^c-801a1db1c629cc398ff62609c5376239] or
 - (b) the Credit Unions (Northern Ireland) Order 1985 (S.I. 1985/1205 (N.I. 12)).
 
 ## Annotations
 
-[^key-801a1db1c629cc398ff62609c5376239]: Textual amendment: S. 483(3)(a) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 95](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/95) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-801a1db1c629cc398ff62609c5376239]: Textual amendment: S. 483(3)(a) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 95](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/95) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Making treatment decisions[^key-0589d58f48db1bc753a7f6211b607db4]
+## 11. Making treatment decisions[^c-0589d58f48db1bc753a7f6211b607db4]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0589d58f48db1bc753a7f6211b607db4]: Commencement: S. 11 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-0589d58f48db1bc753a7f6211b607db4]: Commencement: S. 11 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189A. Meaning of “transfer”[^key-bc1f7ca14dfa356a1e11df77d53b00b8]
+## 189A. Meaning of “transfer”[^c-bc1f7ca14dfa356a1e11df77d53b00b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc1f7ca14dfa356a1e11df77d53b00b8]: Textual amendment: [S. 189A](https://www.legislation.gov.uk/ukpga/1989/40/section/189A) inserted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [2(11)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/2/11)
+[^c-bc1f7ca14dfa356a1e11df77d53b00b8]: Textual amendment: [S. 189A](https://www.legislation.gov.uk/ukpga/1989/40/section/189A) inserted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [2(11)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/2/11)

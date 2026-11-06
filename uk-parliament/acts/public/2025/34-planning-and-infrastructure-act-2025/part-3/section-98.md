@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Application to the Crown[^key-68b06b09d5526747eb88cc03d3bedbd9][^key-6da4905effec5407c8f4c659473d4d81]
+## 98. Application to the Crown[^c-68b06b09d5526747eb88cc03d3bedbd9][^c-6da4905effec5407c8f4c659473d4d81]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-68b06b09d5526747eb88cc03d3bedbd9]: Commencement: S. 98 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-68b06b09d5526747eb88cc03d3bedbd9]: Commencement: S. 98 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-6da4905effec5407c8f4c659473d4d81]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2025/34/section/98) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
+[^c-6da4905effec5407c8f4c659473d4d81]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2025/34/section/98) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)

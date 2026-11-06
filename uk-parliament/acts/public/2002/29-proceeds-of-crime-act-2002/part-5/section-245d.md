@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245D. Restriction on proceedings and remedies[^key-a996036f14dbbbe93393716ab95ec6e3]
+## 245D. Restriction on proceedings and remedies[^c-a996036f14dbbbe93393716ab95ec6e3]
 
 *Extent: E+W+S+N.I.*
 
 (1) While a property freezing order has effect—
 
 - (a) the court may stay any action, execution or other legal process in respect of the property to which the order applies, and
-- (b) no distress may be levied, and no power to use the procedure in Schedule 12 to the Tribunals, Courts and Enforcement Act 2007 (taking control of goods) may be exercised,[^key-f30db033c02ff4fc18dae50dcb4177f4] against the property to which the order applies except with the leave of the court and subject to any terms the court may impose.
+- (b) no distress may be levied, and no power to use the procedure in Schedule 12 to the Tribunals, Courts and Enforcement Act 2007 (taking control of goods) may be exercised,[^c-f30db033c02ff4fc18dae50dcb4177f4] against the property to which the order applies except with the leave of the court and subject to any terms the court may impose.
 
 (2) If a court (whether the High Court or any other court) in which proceedings are pending in respect of any property is satisfied that a property freezing order has been applied for or made in respect of the property, it may either stay the proceedings or allow them to continue on any terms it thinks fit.
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a996036f14dbbbe93393716ab95ec6e3]: Textual amendment: Ss. 245A-245D and cross-heading inserted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 98(1)](https://www.legislation.gov.uk/ukpga/2005/15/section/98/1), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/3136/article/3/a)
+[^c-a996036f14dbbbe93393716ab95ec6e3]: Textual amendment: Ss. 245A-245D and cross-heading inserted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 98(1)](https://www.legislation.gov.uk/ukpga/2005/15/section/98/1), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/3136/article/3/a)
 
-[^key-f30db033c02ff4fc18dae50dcb4177f4]: Textual amendment: Words in s. 245D(1)(b) inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 34(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/34/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/s)
+[^c-f30db033c02ff4fc18dae50dcb4177f4]: Textual amendment: Words in s. 245D(1)(b) inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 34(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/34/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/s)

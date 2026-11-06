@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Application and interpretation of Part 5[^key-f46202a9be4f9b2a1df227a56e2bec94]
+## 61. Application and interpretation of Part 5[^c-f46202a9be4f9b2a1df227a56e2bec94]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 (3) In this Part—
 
 - (a) “flight time”, in relation to any person, means all time spent by that person in—
-  - (i) a civil aircraft whether or not registered in the Territory (other than an aircraft of which the maximum total mass[^key-dbf22181cf3d40c45ebc7fc7d8dfc158] authorised does not exceed 1600kg and which is not flying for the purpose of commercial air transport or aerial work); or
+  - (i) a civil aircraft whether or not registered in the Territory (other than an aircraft of which the maximum total mass[^c-dbf22181cf3d40c45ebc7fc7d8dfc158] authorised does not exceed 1600kg and which is not flying for the purpose of commercial air transport or aerial work); or
   - (ii) a military aircraft;
 
   while it is in flight and the person is carried as a member of the crew; and
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f46202a9be4f9b2a1df227a56e2bec94]: Commencement: [Art. 61](https://www.legislation.gov.uk/uksi/2013/2870/article/61) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-f46202a9be4f9b2a1df227a56e2bec94]: Commencement: [Art. 61](https://www.legislation.gov.uk/uksi/2013/2870/article/61) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-dbf22181cf3d40c45ebc7fc7d8dfc158]: Textual amendment: Word in [art. 61(3)(a)(i)](https://www.legislation.gov.uk/uksi/2013/2870/article/61/3/a/i) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [8](https://www.legislation.gov.uk/uksi/2021/755/article/8)
+[^c-dbf22181cf3d40c45ebc7fc7d8dfc158]: Textual amendment: Word in [art. 61(3)(a)(i)](https://www.legislation.gov.uk/uksi/2013/2870/article/61/3/a/i) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [8](https://www.legislation.gov.uk/uksi/2021/755/article/8)

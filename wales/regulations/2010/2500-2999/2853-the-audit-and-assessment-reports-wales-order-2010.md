@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on them by section 19(3)(b) of the Local Government (Wales) Measure 2009[^f00001], make the following Order:
 
-## 1. Title, commencement, interpretation and application[^key-7d0f366d4ee0d8978ee621a26601470e]
+## 1. Title, commencement, interpretation and application[^c-7d0f366d4ee0d8978ee621a26601470e]
 
 (1) The title of this Order is The Audit and Assessment Reports (Wales) Order 2010 and it comes into force on 30 November 2010.
 
@@ -56,7 +56,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by section 19(3
 
 (3) This Order applies in relation to Wales.
 
-## 2. Date for copies of a report to be sent to a Welsh improvement authority and the Welsh Ministers[^key-3a72c83090a1eebebdf3aea2be4bb521]
+## 2. Date for copies of a report to be sent to a Welsh improvement authority and the Welsh Ministers[^c-3a72c83090a1eebebdf3aea2be4bb521]
 
 In respect of financial years beginning on or after 1 April 2011 copies of a report issued in accordance with section 19(2) of the Measure must be sent by 31 January in the financial year during which the audit was carried out or to which the assessment relates.
 
@@ -80,6 +80,6 @@ This Order amends section 19(3)(a) of the Measure in respect of the financial ye
 
 [^f00001]: Footnote: [2009 nawm 2](https://www.legislation.gov.uk/mwa/2009/2).
 
-[^key-7d0f366d4ee0d8978ee621a26601470e]: Commencement: Art. 1 in force at 30.11.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2853/article/1/1)
+[^c-7d0f366d4ee0d8978ee621a26601470e]: Commencement: Art. 1 in force at 30.11.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2853/article/1/1)
 
-[^key-3a72c83090a1eebebdf3aea2be4bb521]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/wsi/2010/2853/article/2) substituted (22.11.2011) by [The Audit and Assessment Reports (Wales) (Amendment) Order 2011 (S.I. 2011/2602)](https://www.legislation.gov.uk/wsi/2011/2602), [arts. 1](https://www.legislation.gov.uk/wsi/2011/2602/article/1), [2(2)](https://www.legislation.gov.uk/wsi/2011/2602/article/2/2)
+[^c-3a72c83090a1eebebdf3aea2be4bb521]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/wsi/2010/2853/article/2) substituted (22.11.2011) by [The Audit and Assessment Reports (Wales) (Amendment) Order 2011 (S.I. 2011/2602)](https://www.legislation.gov.uk/wsi/2011/2602), [arts. 1](https://www.legislation.gov.uk/wsi/2011/2602/article/1), [2(2)](https://www.legislation.gov.uk/wsi/2011/2602/article/2/2)

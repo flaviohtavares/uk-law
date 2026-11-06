@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65. Movements to egg processing plants[^key-76a32c57f9ffc017d53031caab21e152]
+## 65. Movements to egg processing plants[^c-76a32c57f9ffc017d53031caab21e152]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76a32c57f9ffc017d53031caab21e152]: Commencement: Reg. 65 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-76a32c57f9ffc017d53031caab21e152]: Commencement: Reg. 65 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 319. Right to compensation for effects of certain planning decisions and orders[^key-67a6aabeaf1783d616e6d26e8cbc980d]
+## 319. Right to compensation for effects of certain planning decisions and orders[^c-67a6aabeaf1783d616e6d26e8cbc980d]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67a6aabeaf1783d616e6d26e8cbc980d]: Commencement: S. 319 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-67a6aabeaf1783d616e6d26e8cbc980d]: Commencement: S. 319 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

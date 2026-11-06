@@ -48,7 +48,7 @@ Coming into force
 
 (2) Regulation 11 shall come into force in relation to a particular claimant at the beginning of the first benefit week to commence for that claimant on or after the date specified in paragraph (1); and for this purpose the expressions “claimant” and “benefit week” have the same meanings as in the Income Support (General) Regulations 1987 [^c1859061].
 
-(3)[^key-fa3e1f48202a87a831d16810a937498d] In these Regulations–
+(3)[^c-fa3e1f48202a87a831d16810a937498d] In these Regulations–
 
 “the Adoption Allowance Regulations” means the Adoption Allowance Regulations 1991 [^c1859062];
 
@@ -208,7 +208,7 @@ In article 2 of the Social Security Commissioners Order—
 
 (7) In Schedule 10 (capital to be disregarded) in paragraph 7(a) for the reference “8 or 9” there shall be substituted the reference “ 8, 9 or 9A ”.
 
-## 12. Amendment of the Housing Benefit Regulations[^key-c1a140c539391a9e380d072335998574]
+## 12. Amendment of the Housing Benefit Regulations[^c-c1a140c539391a9e380d072335998574]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -234,7 +234,7 @@ In article 2 of the Social Security Commissioners Order—
 
 In regulation 3 of the Social Fund Recovery by Deductions from Benefits Regulations (benefits from which an award may be recovered) after paragraph (cc) there shall be added the words “ (dd) disability working allowance under section 20 of the Social Security Act 1986 ”[^c1859104].
 
-## 15. Amendment of the Payments on Account, Overpayments and Recovery Regulations[^key-8b4e9c85617e80e70bcebe8e5253c1cc]
+## 15. Amendment of the Payments on Account, Overpayments and Recovery Regulations[^c-8b4e9c85617e80e70bcebe8e5253c1cc]
 
 (1) The Payments on Account, Overpayments and Recovery Regulations shall be amended in accordance with the following paragraphs of this regulation.
 
@@ -392,7 +392,7 @@ These Regulations only contain provisions consequential on the Disability Living
 
 [^c1859061]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); relevant amending instrument is [S.I. 1988/1445](https://www.legislation.gov.uk/uksi/1988/1445).
 
-[^key-fa3e1f48202a87a831d16810a937498d]: Modification: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/1991/2742/regulation/1/3) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-fa3e1f48202a87a831d16810a937498d]: Modification: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/1991/2742/regulation/1/3) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c1859062]: Marginal citation: [S.I. 1991/2030](https://www.legislation.gov.uk/uksi/1991/2030).
 
@@ -464,7 +464,7 @@ These Regulations only contain provisions consequential on the Disability Living
 
 [^c1859095]: Marginal citation: [1975 c.14](https://www.legislation.gov.uk/ukpga/1975/14). Section 35(3) was amended by the [Social Security Act 1979 (c.18)](https://www.legislation.gov.uk/ukpga/1979/18), [section 2(4)](https://www.legislation.gov.uk/ukpga/1979/18/section/2/4).
 
-[^key-c1a140c539391a9e380d072335998574]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/1991/2742/regulation/12) revoked (E.W.S.) (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-c1a140c539391a9e380d072335998574]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/1991/2742/regulation/12) revoked (E.W.S.) (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1859102]: Marginal citation: [1975 c.14](https://www.legislation.gov.uk/ukpga/1975/14); [section 37ZA](https://www.legislation.gov.uk/uksi/1991/2742/section/37ZA) was inserted by the [Disability Living Allowance and Disability Working Allowance Act 1991 (c.21)](https://www.legislation.gov.uk/ukpga/1991/21), [section 1(2)](https://www.legislation.gov.uk/ukpga/1991/21/section/1/2).
 
@@ -472,7 +472,7 @@ These Regulations only contain provisions consequential on the Disability Living
 
 [^c1859104]: Marginal citation: [Section 20](https://www.legislation.gov.uk/uksi/1991/2742/section/20) was amended to include disability working allowance by the [Disability Living Allowance and Disability Working Allowance Act 1991 (c.21)](https://www.legislation.gov.uk/ukpga/1991/21), [section 6](https://www.legislation.gov.uk/ukpga/1991/21/section/6).
 
-[^key-8b4e9c85617e80e70bcebe8e5253c1cc]: Modification: [Reg. 15](https://www.legislation.gov.uk/uksi/1991/2742/regulation/15) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-8b4e9c85617e80e70bcebe8e5253c1cc]: Modification: [Reg. 15](https://www.legislation.gov.uk/uksi/1991/2742/regulation/15) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c1859105]: Marginal citation: [1975 c.14](https://www.legislation.gov.uk/ukpga/1975/14); [section 37ZA](https://www.legislation.gov.uk/uksi/1991/2742/section/37ZA) was inserted by the [Disability Living Allowance and Disability Working Allowance Act 1991 (c.21)](https://www.legislation.gov.uk/ukpga/1991/21), [section 1(2)](https://www.legislation.gov.uk/ukpga/1991/21/section/1/2).
 

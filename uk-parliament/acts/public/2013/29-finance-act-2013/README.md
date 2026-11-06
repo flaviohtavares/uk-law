@@ -205,7 +205,7 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 - [Section 92 — Expenditure on site restoration](part-2/section-92.md)
 - [Section 93 — Restrictions on allowances for certain oil-related expenditure](part-2/section-93.md)
 
-### PART 3 — Annual tax on enveloped dwellings[^key-da772fe434c441b709be4b4806182d47][^key-89028c8e520cf36b458c57bc96d91c2a]
+### PART 3 — Annual tax on enveloped dwellings[^c-da772fe434c441b709be4b4806182d47][^c-89028c8e520cf36b458c57bc96d91c2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -416,7 +416,7 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 - [Section 204 — No deductions for UK or foreign bank levies](part-4/section-204.md)
 - [Section 205 — High quality liquid assets](part-4/section-205.md)
 
-### PART 5 — General anti-abuse rule[^key-09d7592ad45bc844679080b915f91632]
+### PART 5 — General anti-abuse rule[^c-09d7592ad45bc844679080b915f91632]
 
 *Extent: E+W+S+N.I.*
 
@@ -558,8 +558,8 @@ SCHEDULES
 
 ## Annotations
 
-[^key-da772fe434c441b709be4b4806182d47]: Modification: Pt. 3 applied (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 223(8)(9)(e)](https://www.legislation.gov.uk/ukpga/2014/26/section/223)
+[^c-da772fe434c441b709be4b4806182d47]: Modification: Pt. 3 applied (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 223(8)(9)(e)](https://www.legislation.gov.uk/ukpga/2014/26/section/223)
 
-[^key-89028c8e520cf36b458c57bc96d91c2a]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/2013/29/part/3) modified (temp.) (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 24 para. 2](https://www.legislation.gov.uk/ukpga/2023/30/schedule/24/paragraph/2)
+[^c-89028c8e520cf36b458c57bc96d91c2a]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/2013/29/part/3) modified (temp.) (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 24 para. 2](https://www.legislation.gov.uk/ukpga/2023/30/schedule/24/paragraph/2)
 
-[^key-09d7592ad45bc844679080b915f91632]: Modification: Pt. 5 extended (with effect in accordance with s. 10(7) of the amending Act) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 10(1)](https://www.legislation.gov.uk/ukpga/2014/7/section/10/1) (with [s. 10(7)](https://www.legislation.gov.uk/ukpga/2014/7/section/10/7))
+[^c-09d7592ad45bc844679080b915f91632]: Modification: Pt. 5 extended (with effect in accordance with s. 10(7) of the amending Act) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 10(1)](https://www.legislation.gov.uk/ukpga/2014/7/section/10/1) (with [s. 10(7)](https://www.legislation.gov.uk/ukpga/2014/7/section/10/7))

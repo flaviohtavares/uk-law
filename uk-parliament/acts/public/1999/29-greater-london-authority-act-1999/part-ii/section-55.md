@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Assembly committees and sub-committees.[^key-b64e4727e101cb3569657c7d21c6ab1b]
+## 55. Assembly committees and sub-committees.[^c-b64e4727e101cb3569657c7d21c6ab1b]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ shall be fixed in the case of an ordinary committee by the Assembly or, in the c
 
 ## Annotations
 
-[^key-b64e4727e101cb3569657c7d21c6ab1b]: Modification: S. 55 excluded (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 32(6)](https://www.legislation.gov.uk/ukpga/2011/13/section/32/6)[(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/32/7), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-b64e4727e101cb3569657c7d21c6ab1b]: Modification: S. 55 excluded (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 32(6)](https://www.legislation.gov.uk/ukpga/2011/13/section/32/6)[(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/32/7), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

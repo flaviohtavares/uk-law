@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Meaning of “development”[^key-b3d5fdd3d25aaa87da9afb55400344e0]
+## 3. Meaning of “development”[^c-b3d5fdd3d25aaa87da9afb55400344e0]
 
 *Extent: S*
 
 (1) In section 26 of the principal Act (meaning of “development”)—
 
-- (a)[^key-7ec4ee193bc7df359671d915a7ce419c] at the end of subsection (1) add “ , or the operation of a marine fish farm in the circumstances specified in section 26AA ”,
-- (b)[^key-c77cd0c97cd2a6bdc649163f3a68637f] after subsection (2) insert—
+- (a)[^c-7ec4ee193bc7df359671d915a7ce419c] at the end of subsection (1) add “ , or the operation of a marine fish farm in the circumstances specified in section 26AA ”,
+- (b)[^c-c77cd0c97cd2a6bdc649163f3a68637f] after subsection (2) insert—
 
   > (2AA) The Scottish Ministers may in a development order specify any circumstances, or description of circumstances, in which subsection (2) does not apply to operations mentioned in paragraph (a) of that subsection which have the effect of increasing the gross floor space of the building by such amount or percentage as is so specified.
   >
   > (2AB) The development order may make different provision for different purposes.
 
   ,
-- (c)[^key-7ec4ee193bc7df359671d915a7ce419c] in subsection (6)—
+- (c)[^c-7ec4ee193bc7df359671d915a7ce419c] in subsection (6)—
   - (i) for the words “inland waters, transitional water or coastal water” substitute
 
     > waters which—
@@ -47,12 +47,12 @@ summary: ''
     > “**nautical miles**” means international nautical miles of 1,852 metres
 
     ,
-- (d)[^key-7ec4ee193bc7df359671d915a7ce419c] after that subsection insert—
+- (d)[^c-7ec4ee193bc7df359671d915a7ce419c] after that subsection insert—
 
   > (6AA) Where the making of any material change in the use of equipment so placed or assembled for that purpose would not, apart from this subsection, involve development of the land below, this Act shall have effect as if the making of any such material change was development of that land.
 
   , and
-- (e)[^key-7ec4ee193bc7df359671d915a7ce419c] after subsection (6B) insert—
+- (e)[^c-7ec4ee193bc7df359671d915a7ce419c] after subsection (6B) insert—
 
   > (6C) The Scottish Ministers may by order make such provision as they consider necessary or expedient for the purpose of, or in connection with, the application of this Act to—
   >
@@ -91,23 +91,23 @@ summary: ''
 
   .
 
-(2)[^key-c77cd0c97cd2a6bdc649163f3a68637f] A development order under section 26(2AA) of that Act does not affect any operations begun before it is made.
+(2)[^c-c77cd0c97cd2a6bdc649163f3a68637f] A development order under section 26(2AA) of that Act does not affect any operations begun before it is made.
 
-(3)[^key-c77cd0c97cd2a6bdc649163f3a68637f] A certificate under section 151 of that Act (certificate of lawfulness of proposed use or development) is of no effect if—
+(3)[^c-c77cd0c97cd2a6bdc649163f3a68637f] A certificate under section 151 of that Act (certificate of lawfulness of proposed use or development) is of no effect if—
 
 - (a) subsection (2) of section 26 of that Act is, by virtue of a development order under subsection (2AA) of that section, disapplied in respect of any operations,
 - (b) at the date the development order comes into force the certificate is in force in respect of the operations, and
 - (c) before that date no such operations have been begun.
 
-(4)[^key-7ec4ee193bc7df359671d915a7ce419c] In section 275 of that Act (regulations and orders)—
+(4)[^c-7ec4ee193bc7df359671d915a7ce419c] In section 275 of that Act (regulations and orders)—
 
 - (a) in subsection (4), for the words “and (6A)” substitute “ , (6A) and (6C), 31A ”, and
 - (b) in subsection (5A), after the words “26(6A)” insert “ or (6C) ”.
 
 ## Annotations
 
-[^key-b3d5fdd3d25aaa87da9afb55400344e0]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2006/17/section/3) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
+[^c-b3d5fdd3d25aaa87da9afb55400344e0]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2006/17/section/3) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
 
-[^key-7ec4ee193bc7df359671d915a7ce419c]: Commencement: [S. 3(1)(a)](https://www.legislation.gov.uk/asp/2006/17/section/3/1/a)[(c)](https://www.legislation.gov.uk/asp/2006/17/section/3/1/c)[(d)](https://www.legislation.gov.uk/asp/2006/17/section/3/1/d)[(e)](https://www.legislation.gov.uk/asp/2006/17/section/3/1/e)[(4)](https://www.legislation.gov.uk/asp/2006/17/section/3/4) in force at 1.4.2007 by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-7ec4ee193bc7df359671d915a7ce419c]: Commencement: [S. 3(1)(a)](https://www.legislation.gov.uk/asp/2006/17/section/3/1/a)[(c)](https://www.legislation.gov.uk/asp/2006/17/section/3/1/c)[(d)](https://www.legislation.gov.uk/asp/2006/17/section/3/1/d)[(e)](https://www.legislation.gov.uk/asp/2006/17/section/3/1/e)[(4)](https://www.legislation.gov.uk/asp/2006/17/section/3/4) in force at 1.4.2007 by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
 
-[^key-c77cd0c97cd2a6bdc649163f3a68637f]: Commencement: [S. 3(1)(b)](https://www.legislation.gov.uk/asp/2006/17/section/3/1/b)[(2)](https://www.legislation.gov.uk/asp/2006/17/section/3/2)[(3)](https://www.legislation.gov.uk/asp/2006/17/section/3/3) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
+[^c-c77cd0c97cd2a6bdc649163f3a68637f]: Commencement: [S. 3(1)(b)](https://www.legislation.gov.uk/asp/2006/17/section/3/1/b)[(2)](https://www.legislation.gov.uk/asp/2006/17/section/3/2)[(3)](https://www.legislation.gov.uk/asp/2006/17/section/3/3) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)

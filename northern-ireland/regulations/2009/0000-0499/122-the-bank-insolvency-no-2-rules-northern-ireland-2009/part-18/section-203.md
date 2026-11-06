@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 203. Orders enforcing compliance with the rules[^key-1556d00b6b7d4e62af8e3361420c4396]
+## 203. Orders enforcing compliance with the rules[^c-1556d00b6b7d4e62af8e3361420c4396]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1556d00b6b7d4e62af8e3361420c4396]: Commencement: Rule 203 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-1556d00b6b7d4e62af8e3361420c4396]: Commencement: Rule 203 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

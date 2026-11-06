@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Forfeiture of indecent photographs of children: England and Wales[^key-e436911e0942ec29b55a14bf7b3ab207]
+## 39. Forfeiture of indecent photographs of children: England and Wales[^c-e436911e0942ec29b55a14bf7b3ab207]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ This is subject to subsection (7).
 
 ## Annotations
 
-[^key-e436911e0942ec29b55a14bf7b3ab207]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2006/48/section/39) in force at 1.4.2008 by [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/790/article/2/c)
+[^c-e436911e0942ec29b55a14bf7b3ab207]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2006/48/section/39) in force at 1.4.2008 by [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/790/article/2/c)

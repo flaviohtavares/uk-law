@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Functions of the Lord Chancellor etc[^key-74b3cad47c54b4926d0cb25eebefea24]
+## 15. Functions of the Lord Chancellor etc[^c-74b3cad47c54b4926d0cb25eebefea24]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-74b3cad47c54b4926d0cb25eebefea24]: Commencement: Art. 15 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-74b3cad47c54b4926d0cb25eebefea24]: Commencement: Art. 15 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00013]: Footnote: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26). Section 3(2)(b) was amended by Schedule 1 to the Justice (Northern Ireland) Act [2004 (c. 4)](https://www.legislation.gov.uk/ukpga/2004/4). Section 3(8) was amended by section 2 of the Justice (Northern Ireland) Act [2004 (c. 4)](https://www.legislation.gov.uk/ukpga/2004/4). Section 5A was inserted by the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), section 123; and amended by the Northern Ireland Act [2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), Schedule 3, paragraph 4. Schedule 2 was amended by section 2 of, and Schedule 1 to, the Justice (Northern Ireland) Act [2004 (c. 4)](https://www.legislation.gov.uk/ukpga/2004/4).
 

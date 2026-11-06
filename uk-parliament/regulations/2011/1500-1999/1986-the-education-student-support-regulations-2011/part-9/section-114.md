@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Payment of fee contribution loans[^key-dfbfbbb280a95231de8913cd4662abce]
+## 114. Payment of fee contribution loans[^c-dfbfbbb280a95231de8913cd4662abce]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfbfbbb280a95231de8913cd4662abce]: Textual amendment: [Reg. 114](https://www.legislation.gov.uk/uksi/2011/1986/regulation/114) omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [3(9)(c)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/3/9/c)
+[^c-dfbfbbb280a95231de8913cd4662abce]: Textual amendment: [Reg. 114](https://www.legislation.gov.uk/uksi/2011/1986/regulation/114) omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [3(9)(c)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/3/9/c)

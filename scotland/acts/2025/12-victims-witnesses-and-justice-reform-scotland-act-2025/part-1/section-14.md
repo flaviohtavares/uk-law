@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Reports on investigations[^key-906e5248cc3c0783ba85cb8cf08a7fa0]
+## 14. Reports on investigations[^c-906e5248cc3c0783ba85cb8cf08a7fa0]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-906e5248cc3c0783ba85cb8cf08a7fa0]: Commencement: S. 14 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-906e5248cc3c0783ba85cb8cf08a7fa0]: Commencement: S. 14 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

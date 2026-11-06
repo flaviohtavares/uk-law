@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**145.**[^key-41eb5d11b1ce2ab656eacb2a4df9ed75] In paragraph 3(3) of Schedule 4, for the inserted section 3(1)(ca) of the Attachment of Earnings Act 1971[^f00043], substitute—
+**145.**[^c-41eb5d11b1ce2ab656eacb2a4df9ed75] In paragraph 3(3) of Schedule 4, for the inserted section 3(1)(ca) of the Attachment of Earnings Act 1971[^f00043], substitute—
 
 > - (ca) without prejudice to paragraphs (a) and (c) above, an officer of the family court if the application is to the family court to secure payments under a maintenance order described in paragraphs 13, 14, 14A or 14B of Schedule 1 and those payments are to be made to the court;
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41eb5d11b1ce2ab656eacb2a4df9ed75]: Commencement: Art. 145 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-41eb5d11b1ce2ab656eacb2a4df9ed75]: Commencement: Art. 145 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00043]: Footnote: [1971 c.32](https://www.legislation.gov.uk/ukpga/1971/32).

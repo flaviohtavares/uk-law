@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45U. Expenditure on plant or machinery in cases not falling with section 45S etc[^key-1e8e43742ee3ad9dcf26e18f5a5b6246]
+## 45U. Expenditure on plant or machinery in cases not falling with section 45S etc[^c-1e8e43742ee3ad9dcf26e18f5a5b6246]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Expenditure is first-year qualifying expenditure if—
 
 ## Annotations
 
-[^key-1e8e43742ee3ad9dcf26e18f5a5b6246]: Textual amendment: [Ss. 45U](https://www.legislation.gov.uk/ukpga/2001/2/section/45U), [45V](https://www.legislation.gov.uk/ukpga/2001/2/section/45V) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 29(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/29/3)
+[^c-1e8e43742ee3ad9dcf26e18f5a5b6246]: Textual amendment: [Ss. 45U](https://www.legislation.gov.uk/ukpga/2001/2/section/45U), [45V](https://www.legislation.gov.uk/ukpga/2001/2/section/45V) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 29(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/29/3)

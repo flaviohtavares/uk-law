@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.37. Application to vary or rescind a live link direction[^key-8db96cfda42bcb053c860c1502651e7f]
+## 3.37. Application to vary or rescind a live link direction[^c-8db96cfda42bcb053c860c1502651e7f]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8db96cfda42bcb053c860c1502651e7f]: Commencement: [Rule 3.37](https://www.legislation.gov.uk/uksi/2025/909/rule/3.37) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8db96cfda42bcb053c860c1502651e7f]: Commencement: [Rule 3.37](https://www.legislation.gov.uk/uksi/2025/909/rule/3.37) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

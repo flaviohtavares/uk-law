@@ -44,7 +44,7 @@ Coming into force
 
 8th February 2018
 
-The Secretary of State, in exercise of the powers conferred by sections 113N(1)(a) and (b), (2)(b) and (d), (3), (4)(a), (c), (d) and (e), (5)(a)(iii), (iv) and (v) and (b) and (8) and 160(1)(b) and (c) of the Transport Act 2000 [^c22905341] makes the following Regulations.[^key-b645d23fccfc1c4d0c630963d9887c1c]
+The Secretary of State, in exercise of the powers conferred by sections 113N(1)(a) and (b), (2)(b) and (d), (3), (4)(a), (c), (d) and (e), (5)(a)(iii), (iv) and (v) and (b) and (8) and 160(1)(b) and (c) of the Transport Act 2000 [^c22905341] makes the following Regulations.[^c-b645d23fccfc1c4d0c630963d9887c1c]
 
 ## PART 1 — General
 
@@ -620,7 +620,7 @@ An Explanatory Memorandum for this instrument has been published alongside these
 
 [^c22905341]: Marginal citation: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38); section 113N was inserted by section 1 of the [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21).
 
-[^key-b645d23fccfc1c4d0c630963d9887c1c]: Modification: Regulations applied (with modifications) (4.4.2019) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2019 (S.I. 2019/793)](https://www.legislation.gov.uk/uksi/2019/793), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/793/article/1/2), [12](https://www.legislation.gov.uk/uksi/2019/793/article/12)
+[^c-b645d23fccfc1c4d0c630963d9887c1c]: Modification: Regulations applied (with modifications) (4.4.2019) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2019 (S.I. 2019/793)](https://www.legislation.gov.uk/uksi/2019/793), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/793/article/1/2), [12](https://www.legislation.gov.uk/uksi/2019/793/article/12)
 
 [^c22905351]: Marginal citation: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).
 

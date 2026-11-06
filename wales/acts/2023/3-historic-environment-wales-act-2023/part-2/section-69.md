@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Supplementary provision about powers of entry under this Part[^key-ff1b4b6ffa38459ca63b0c35b06c5e0b][^key-e6f5d4b71e8497f978e3b95cd9e73369]
+## 69. Supplementary provision about powers of entry under this Part[^c-ff1b4b6ffa38459ca63b0c35b06c5e0b][^c-e6f5d4b71e8497f978e3b95cd9e73369]
 
 *Extent: E+W*
 
@@ -74,6 +74,6 @@ the person may not carry out the works without the agreement of the Welsh Minist
 
 ## Annotations
 
-[^key-ff1b4b6ffa38459ca63b0c35b06c5e0b]: Commencement: S. 69 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-ff1b4b6ffa38459ca63b0c35b06c5e0b]: Commencement: S. 69 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-e6f5d4b71e8497f978e3b95cd9e73369]: Commencement: [S. 69](https://www.legislation.gov.uk/asc/2023/3/section/69) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-e6f5d4b71e8497f978e3b95cd9e73369]: Commencement: [S. 69](https://www.legislation.gov.uk/asc/2023/3/section/69) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

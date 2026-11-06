@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Provision of administrative, technical or professional services[^key-19e43d85c7333c8815ed23574f493260]
+## 73. Provision of administrative, technical or professional services[^c-19e43d85c7333c8815ed23574f493260]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19e43d85c7333c8815ed23574f493260]: Commencement: S. 73 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-19e43d85c7333c8815ed23574f493260]: Commencement: S. 73 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

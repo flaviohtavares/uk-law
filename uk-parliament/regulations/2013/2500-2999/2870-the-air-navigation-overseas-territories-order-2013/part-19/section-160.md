@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Noise and vibration caused by aircraft on aerodromes[^key-c7e5465764d0249a195279fab9df5cde]
+## 160. Noise and vibration caused by aircraft on aerodromes[^c-c7e5465764d0249a195279fab9df5cde]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c7e5465764d0249a195279fab9df5cde]: Commencement: [Art. 160](https://www.legislation.gov.uk/uksi/2013/2870/article/160) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-c7e5465764d0249a195279fab9df5cde]: Commencement: [Art. 160](https://www.legislation.gov.uk/uksi/2013/2870/article/160) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
 [^f00011]: Footnote: Section 41(2) is extended to the Territory by Schedule 2 to the Civil Aviation Act 1949 (Overseas Territories) Order 1969 ([S.I. 1969/592](https://www.legislation.gov.uk/uksi/1969/592)).

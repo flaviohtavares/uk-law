@@ -55,7 +55,7 @@ summary: ''
   - (v) any note of action taken by the duty holder following such a report, pursuant to regulation 9(2)(f),
 
   are kept at the address notified to the competent authority pursuant to paragraph (1)(a) until the expiration of six months after such scheme or, as the case may be, modification of that scheme, has ceased to be current; and
-- (b) records, sufficient to show the matters described in paragraph 4 of Part 1 of Schedule 4, are kept at the address notified to the competent authority pursuant to paragraph (1)(a) until the expiration of six months after completion of the offshore oil and gas operations , CCUS operations or offshore hydrogen operations[^key-c68b2f996e65db85baeb11e3c28c3242] to which they relate.
+- (b) records, sufficient to show the matters described in paragraph 4 of Part 1 of Schedule 4, are kept at the address notified to the competent authority pursuant to paragraph (1)(a) until the expiration of six months after completion of the offshore oil and gas operations , CCUS operations or offshore hydrogen operations[^c-c68b2f996e65db85baeb11e3c28c3242] to which they relate.
 
 (4) A well operator must ensure that—
 
@@ -64,7 +64,7 @@ summary: ''
 - (c) any report of the well examiner pursuant to regulation 11(2)(b); and
 - (d) any note of action taken by the well operator following such a report, pursuant to regulation 11(2)(d),
 
-are kept at an address in Great Britain notified to the competent authority, until the expiration of six months after completion of the offshore oil and gas operations , CCUS operations or offshore hydrogen operations[^key-94ebf9782a479e6d0df282b8db258f81] to which they relate.
+are kept at an address in Great Britain notified to the competent authority, until the expiration of six months after completion of the offshore oil and gas operations , CCUS operations or offshore hydrogen operations[^c-94ebf9782a479e6d0df282b8db258f81] to which they relate.
 
 (5) In this regulation, “**audit report**” means a report made pursuant to the arrangements referred to in regulation 16(1)(b).
 
@@ -72,6 +72,6 @@ are kept at an address in Great Britain notified to the competent authority, unt
 
 ## Annotations
 
-[^key-c68b2f996e65db85baeb11e3c28c3242]: Textual amendment: Words in reg. 27(3)(b) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/7)
+[^c-c68b2f996e65db85baeb11e3c28c3242]: Textual amendment: Words in reg. 27(3)(b) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/7)
 
-[^key-94ebf9782a479e6d0df282b8db258f81]: Textual amendment: Words in reg. 27(4) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/7)
+[^c-94ebf9782a479e6d0df282b8db258f81]: Textual amendment: Words in reg. 27(4) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/7)

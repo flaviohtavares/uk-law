@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) As soon as practicable after complying with Rule 154 the clerk of petty sessions shall send to the chief clerk [^key-20cd37c35b7aeced582014859ac7bb3e]...—
+(1) As soon as practicable after complying with Rule 154 the clerk of petty sessions shall send to the chief clerk [^c-20cd37c35b7aeced582014859ac7bb3e]...—
 
 - (a) the copy of the notice of appeal;
 - (b) the recognizance, if any, entered into by the appellant under Article 148 or Article 149 of the Order;
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-20cd37c35b7aeced582014859ac7bb3e]: Textual amendment: Words in [rule 155(1)](https://www.legislation.gov.uk/nisr/1984/225/rule/155/1) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(36)](https://www.legislation.gov.uk/nisr/2016/304/article/3/36); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-20cd37c35b7aeced582014859ac7bb3e]: Textual amendment: Words in [rule 155(1)](https://www.legislation.gov.uk/nisr/1984/225/rule/155/1) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(36)](https://www.legislation.gov.uk/nisr/2016/304/article/3/36); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00231]: Footnote: Word deleted by [S.R. 1997 No. 529](https://www.legislation.gov.uk/nisr/1997/529) with effect from 01.01.98
 

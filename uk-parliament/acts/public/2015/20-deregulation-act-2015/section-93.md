@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Reduction in regulation of providers of social work services[^key-a05d0d04250cafc9f5e6cfa0952ca239]
+## 93. Reduction in regulation of providers of social work services[^c-a05d0d04250cafc9f5e6cfa0952ca239]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a05d0d04250cafc9f5e6cfa0952ca239]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2015/20/section/93) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(q)](https://www.legislation.gov.uk/uksi/2015/994/article/6/q)
+[^c-a05d0d04250cafc9f5e6cfa0952ca239]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2015/20/section/93) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(q)](https://www.legislation.gov.uk/uksi/2015/994/article/6/q)

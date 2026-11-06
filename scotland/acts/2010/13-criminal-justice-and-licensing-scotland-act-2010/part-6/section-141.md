@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 141. Application for section 145 order[^key-74c4d46a835f4337e5e8adfbb238ae15]
+## 141. Application for section 145 order[^c-74c4d46a835f4337e5e8adfbb238ae15]
 
 *Extent: S*
 
-(1) This section applies where the conditions in subsection (2), (3) or (3A)[^key-d41ca0e61df04aafa8943618c6931e26] are met.
+(1) This section applies where the conditions in subsection (2), (3) or (3A)[^c-d41ca0e61df04aafa8943618c6931e26] are met.
 
 (2) The conditions are that—
 
@@ -34,7 +34,7 @@ summary: ''
 - (b) where there are proceedings, the information is not likely to form part of the evidence to be led by the prosecutor in the proceedings, and
 - (c) the prosecutor considers that subsection (4) applies.
 
-(3A)[^key-35ab602d4c8e6452ed22941b7f8ec5d8] The conditions are that—
+(3A)[^c-35ab602d4c8e6452ed22941b7f8ec5d8] The conditions are that—
 
 - (a) by virtue of section 140B(2)(b), 140C(2) or 140D(3)(b) the prosecutor is required to disclose an item of information to a respondent,
 - (b) the information is not likely to form part of the evidence to be led or relied on by the prosecutor in the proceedings, and
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-74c4d46a835f4337e5e8adfbb238ae15]: Commencement: S. 141 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/178/article/3) )
+[^c-74c4d46a835f4337e5e8adfbb238ae15]: Commencement: S. 141 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/178/article/3) )
 
-[^key-d41ca0e61df04aafa8943618c6931e26]: Textual amendment: Words in s. 141(1) substituted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 19(a)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/19/a); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-d41ca0e61df04aafa8943618c6931e26]: Textual amendment: Words in s. 141(1) substituted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 19(a)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/19/a); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-35ab602d4c8e6452ed22941b7f8ec5d8]: Textual amendment: S. 141(3A) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 19(b)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/19/b); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-35ab602d4c8e6452ed22941b7f8ec5d8]: Textual amendment: S. 141(3A) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 19(b)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/19/b); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)

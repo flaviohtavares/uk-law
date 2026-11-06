@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122B. Further penalties for continuing failure to pay visitor levy[^key-27054082cf96f7af2fc85f3d908e40fe]
+## 122B. Further penalties for continuing failure to pay visitor levy[^c-27054082cf96f7af2fc85f3d908e40fe]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27054082cf96f7af2fc85f3d908e40fe]: Textual amendment: [S. 122B](https://www.legislation.gov.uk/anaw/2016/6/section/122B) inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 45](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/45)
+[^c-27054082cf96f7af2fc85f3d908e40fe]: Textual amendment: [S. 122B](https://www.legislation.gov.uk/anaw/2016/6/section/122B) inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 45](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/45)

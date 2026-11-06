@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Power to charge community infrastructure levy[^key-db434a9307f25070e2951d04e0e66e37]
+## 35. Power to charge community infrastructure levy[^c-db434a9307f25070e2951d04e0e66e37]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 17 confers on mayors of combined authorities and CCAs powers to charge 
 
 ## Annotations
 
-[^key-db434a9307f25070e2951d04e0e66e37]: Commencement: S. 35 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-db434a9307f25070e2951d04e0e66e37]: Commencement: S. 35 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)

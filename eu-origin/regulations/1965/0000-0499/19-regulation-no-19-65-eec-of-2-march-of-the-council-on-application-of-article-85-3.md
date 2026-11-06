@@ -35,10 +35,10 @@ summary: ''
 
 Regulation No 19/65/EEC of 2 March of the Council on application of Article 85 (3) of the Treaty to certain categories of agreements and concerted practices (revoked)
 
-[^key-d4b2fcf6275f0ed133047e197b283cbf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4b2fcf6275f0ed133047e197b283cbf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-d4b2fcf6275f0ed133047e197b283cbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-d4b2fcf6275f0ed133047e197b283cbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d4b2fcf6275f0ed133047e197b283cbf]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d4b2fcf6275f0ed133047e197b283cbf]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

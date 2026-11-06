@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 153. General powers[^key-fb614fa535cd3fd318c4153dc6d490b3]
+## 153. General powers[^c-fb614fa535cd3fd318c4153dc6d490b3]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb614fa535cd3fd318c4153dc6d490b3]: Commencement: [Rule 153](https://www.legislation.gov.uk/nisr/2026/11/rule/153) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-fb614fa535cd3fd318c4153dc6d490b3]: Commencement: [Rule 153](https://www.legislation.gov.uk/nisr/2026/11/rule/153) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

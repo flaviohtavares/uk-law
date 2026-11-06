@@ -37,7 +37,7 @@ summary: ''
 | *Extent: E+W+S+N.I.*<br>**10.**[^M_I_d24c146c-68a7-4c82-9628-5bba79e08706] Electrical connections: | No individual requirement |
 | *Extent: E+W+S+N.I.*<br>**11.**[^M_I_31ca955e-b1e5-4606-a28e-790758bb46dd] Tell-tale: | No requirement |
 
-**12.**[^key-5d3187fa9c37d8a624eca08c8f4bd370] Definitions–
+**12.**[^c-5d3187fa9c37d8a624eca08c8f4bd370] Definitions–
 
 - In this Schedule “approval mark” means–
   - (a) in relation to a solo motor bicycle, a motor bicycle combination and a trailer drawn by a solo motor bicycle or a motor bicycle combination, a marking designated as an approval mark by regulation 4 of the Designation of Approval Marks Regulations and shown at item 50A of Schedule 2 to those Regulations; and
@@ -45,7 +45,7 @@ summary: ''
     - (i) a marking designated as an approval mark by regulation 5 of the Designation of Approval Marks Regulations and shown at item 10 of Schedule 4 to those Regulations; or
     - (ii) a marking designated as an approval mark by regulation 4 of the Designation of Approval Marks Regulations and shown at item 4 of Schedule 2 to those Regulations.
 
-**13.**[^key-3a453ae8e0470c79e5a025fad376734f] In this Schedule, references to a rear registration plate do not include a registration plate fixed to the rear of a trailer displaying a registration mark assigned to that trailer in accordance with regulations made under section 15 of the Haulage Permits and Trailer Registration Act [2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19).
+**13.**[^c-3a453ae8e0470c79e5a025fad376734f] In this Schedule, references to a rear registration plate do not include a registration plate fixed to the rear of a trailer displaying a registration mark assigned to that trailer in accordance with regulations made under section 15 of the Haulage Permits and Trailer Registration Act [2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19).
 
 ## Annotations
 
@@ -71,6 +71,6 @@ summary: ''
 
 [^M_I_31ca955e-b1e5-4606-a28e-790758bb46dd]: Commencement: [Sch. 15 para. 11](https://www.legislation.gov.uk/uksi/1989/1796/schedule/15/paragraph/12) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-5d3187fa9c37d8a624eca08c8f4bd370]: Commencement: [Sch. 15 para. 12](https://www.legislation.gov.uk/uksi/1989/1796/schedule/15/paragraph/12) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-5d3187fa9c37d8a624eca08c8f4bd370]: Commencement: [Sch. 15 para. 12](https://www.legislation.gov.uk/uksi/1989/1796/schedule/15/paragraph/12) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-3a453ae8e0470c79e5a025fad376734f]: Textual amendment: [Sch. 15 para. 13](https://www.legislation.gov.uk/uksi/1989/1796/schedule/15/paragraph/13) inserted (21.11.2018) by [The Trailer Registration Regulations 2018 (S.I. 2018/1203)](https://www.legislation.gov.uk/uksi/2018/1203), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/1/2), [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/uksi/2018/1203/schedule/3/paragraph/1/3)
+[^c-3a453ae8e0470c79e5a025fad376734f]: Textual amendment: [Sch. 15 para. 13](https://www.legislation.gov.uk/uksi/1989/1796/schedule/15/paragraph/13) inserted (21.11.2018) by [The Trailer Registration Regulations 2018 (S.I. 2018/1203)](https://www.legislation.gov.uk/uksi/2018/1203), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/1/2), [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/uksi/2018/1203/schedule/3/paragraph/1/3)

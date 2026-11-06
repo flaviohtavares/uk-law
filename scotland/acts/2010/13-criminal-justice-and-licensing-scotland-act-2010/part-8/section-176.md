@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 176. Licensing of public entertainment[^key-8807adc8c0ad315b16681be1c9e44f40]
+## 176. Licensing of public entertainment[^c-8807adc8c0ad315b16681be1c9e44f40]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8807adc8c0ad315b16681be1c9e44f40]: Commencement: [S. 176](https://www.legislation.gov.uk/asp/2010/13/section/176) in force at 1.4.2012 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-8807adc8c0ad315b16681be1c9e44f40]: Commencement: [S. 176](https://www.legislation.gov.uk/asp/2010/13/section/176) in force at 1.4.2012 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

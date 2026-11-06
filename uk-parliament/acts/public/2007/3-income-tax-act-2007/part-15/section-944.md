@@ -22,8 +22,8 @@ summary: ''
 
 (1) This section applies if it appears to an officer of Revenue and Customs that any person entitled to an amount taxable under—
 
-- (a)[^key-5536e17cf4dbdad02f1a1fd7a314b3a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) Chapter 4 of Part 13[^key-585f830a77df6d4be083f0ee51a6f589] (tax avoidance: sales of occupation income),
+- (a)[^c-5536e17cf4dbdad02f1a1fd7a314b3a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) Chapter 4 of Part 13[^c-585f830a77df6d4be083f0ee51a6f589] (tax avoidance: sales of occupation income),
 
 is non-UK resident.
 
@@ -38,6 +38,6 @@ is non-UK resident.
 
 ## Annotations
 
-[^key-5536e17cf4dbdad02f1a1fd7a314b3a4]: Textual amendment: S. 944(1)(a) omitted (with effect in accordance with s. 82 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 79(6)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/79/6/a) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2))
+[^c-5536e17cf4dbdad02f1a1fd7a314b3a4]: Textual amendment: S. 944(1)(a) omitted (with effect in accordance with s. 82 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 79(6)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/79/6/a) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2))
 
-[^key-585f830a77df6d4be083f0ee51a6f589]: Textual amendment: Words in s. 944(1)(b) substituted (with effect in accordance with s. 82 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 79(6)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/79/6/b) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2))
+[^c-585f830a77df6d4be083f0ee51a6f589]: Textual amendment: Words in s. 944(1)(b) substituted (with effect in accordance with s. 82 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 79(6)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/79/6/b) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2))

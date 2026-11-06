@@ -50,7 +50,7 @@ The powers exercised by the Commissioners for Her Majesty's Revenue and Customs 
 
 The Secretary of State and the Department for Communities [^c24324121] concur in the making of regulations 1, 2, 4 and 5.
 
-## 1. Citation, commencement, effect and interpretation[^key-5c5c961ec93119d7b1e2ee338b03d387]
+## 1. Citation, commencement, effect and interpretation[^c-5c5c961ec93119d7b1e2ee338b03d387]
 
 (1) These Regulations may be cited as the Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 and come into force on 6th April 2021 subject to paragraph (2).
 
@@ -65,7 +65,7 @@ The Secretary of State and the Department for Communities [^c24324121] concur in
 - “**the Intermediaries Regulations**” means the Social Security Contributions (Intermediaries) Regulations 2000 [^c24324151];
 - “**the Northern Ireland Regulations**” means the Social Security Contributions (Intermediaries) (Northern Ireland) Regulations 2000 [^c24324161].
 
-## 2. Amendment of the Social Security Contributions (Intermediaries) Regulations 2000 and the Social Security Contributions (Intermediaries) (Northern Ireland) Regulations 2000[^key-eb68b8836b70d414bc0b7839e79bdb0c]
+## 2. Amendment of the Social Security Contributions (Intermediaries) Regulations 2000 and the Social Security Contributions (Intermediaries) (Northern Ireland) Regulations 2000[^c-eb68b8836b70d414bc0b7839e79bdb0c]
 
 (1) The Intermediaries Regulations and the Northern Ireland Regulations are amended as follows.
 
@@ -220,7 +220,7 @@ The Secretary of State and the Department for Communities [^c24324121] concur in
 
 .
 
-(12)[^key-df87ce1be939b28b121fd5b8d5a26c19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-df87ce1be939b28b121fd5b8d5a26c19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (13) In regulation 16, omit paragraph (3).
 
@@ -285,7 +285,7 @@ The Secretary of State and the Department for Communities [^c24324121] concur in
 - (a) in sub-paragraph (b) for “a public authority” substitute “ another person (“**the client**”) ”, and
 - (b) in sub-paragraph (d) for “that public authority” substitute “ the client ”.
 
-## 3. Amendment of the Social Security (Contributions) Regulations 2001[^key-7cdd658a378eb590d7baa14c3f84a189]
+## 3. Amendment of the Social Security (Contributions) Regulations 2001[^c-7cdd658a378eb590d7baa14c3f84a189]
 
 (1) Schedule 4 of the Social Security (Contributions) Regulations 2001 [^c24324201] is amended as follows.
 
@@ -408,7 +408,7 @@ The Secretary of State and the Department for Communities [^c24324121] concur in
 
 .
 
-## 4. Amendment of the Social Security Contributions (Managed Service Companies) Regulations 2007[^key-b04c48f9d4f29ebdb7d486faa4d114ce]
+## 4. Amendment of the Social Security Contributions (Managed Service Companies) Regulations 2007[^c-b04c48f9d4f29ebdb7d486faa4d114ce]
 
 (1) The Social Security Contributions (Managed Service Companies) Regulations 2007 are amended as follows.
 
@@ -427,7 +427,7 @@ The Secretary of State and the Department for Communities [^c24324121] concur in
 
 .
 
-## 5. Transitional provisions[^key-9ce3680c1cf6722ab78393c23295ad5a]
+## 5. Transitional provisions[^c-9ce3680c1cf6722ab78393c23295ad5a]
 
 (1) Paragraph (2) applies where—
 
@@ -551,7 +551,7 @@ A Tax Information and Impact Note covering this instrument was published on 11 J
 
 [^c24324121]: Marginal citation: The functions of the Department of Health and Social Services under the Social Security Contributions and Benefits (Northern Ireland) Act 1992 were transferred to the Department for Social Development by article 8(b) of, and Part 2 of Schedule 6 to, the Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999 (S.R. [1999 No. 481](https://www.legislation.gov.uk/ukcm/1999/481)). The Department for Social Development was renamed the Department for Communities by section 1(7) of the [Departments Act (Northern Ireland) 2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5).
 
-[^key-5c5c961ec93119d7b1e2ee338b03d387]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1) in force at 6.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1)
+[^c-5c5c961ec93119d7b1e2ee338b03d387]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1) in force at 6.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1)
 
 [^c24324131]: Marginal citation: [S.I. 2020/1150](https://www.legislation.gov.uk/uksi/2020/1150).
 
@@ -561,7 +561,7 @@ A Tax Information and Impact Note covering this instrument was published on 11 J
 
 [^c24324161]: Marginal citation: [S.I. 2000/728](https://www.legislation.gov.uk/uksi/2000/728); amended by [S.I. 2003/2080](https://www.legislation.gov.uk/uksi/2003/2080), 2004/770, 2017/373, 2014/3159 and 2017/613.
 
-[^key-eb68b8836b70d414bc0b7839e79bdb0c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2) in force at 6.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1)
+[^c-eb68b8836b70d414bc0b7839e79bdb0c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2) in force at 6.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1)
 
 [^c24324171]: Marginal citation: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36); section 23(3) was amended by paragraph 159 of Schedule 4 to the [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [paragraph 102](https://www.legislation.gov.uk/ukpga/2005/15/paragraph/102) of Schedule 8 to the [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) and paragraph 5(2) of Schedule 2 to the [Justice and Security Act 2013 (c. 18)](https://www.legislation.gov.uk/ukpga/2013/18).
 
@@ -569,9 +569,9 @@ A Tax Information and Impact Note covering this instrument was published on 11 J
 
 [^c24324191]: Marginal citation: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36).
 
-[^key-df87ce1be939b28b121fd5b8d5a26c19]: Textual amendment: [Reg. 2(12)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/12) omitted (5.4.2021) by virtue of [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/308)](https://www.legislation.gov.uk/uksi/2021/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/308/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/308/regulation/2)
+[^c-df87ce1be939b28b121fd5b8d5a26c19]: Textual amendment: [Reg. 2(12)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/12) omitted (5.4.2021) by virtue of [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/308)](https://www.legislation.gov.uk/uksi/2021/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/308/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/308/regulation/2)
 
-[^key-7cdd658a378eb590d7baa14c3f84a189]: Commencement: Reg. 3 in force at 6.4.2021, coming into force in accordance with reg. 1(2)
+[^c-7cdd658a378eb590d7baa14c3f84a189]: Commencement: Reg. 3 in force at 6.4.2021, coming into force in accordance with reg. 1(2)
 
 [^c24324201]: Marginal citation: SI 2001/1004.
 
@@ -587,6 +587,6 @@ A Tax Information and Impact Note covering this instrument was published on 11 J
 
 [^c24324261]: Marginal citation: [Section 65(3)](https://www.legislation.gov.uk/uksi/2020/1220/section/65/3) was amended by paragraph 30 of Schedule 19 to the [Finance Act 1998 (c.36)](https://www.legislation.gov.uk/ukpga/1998/36).
 
-[^key-b04c48f9d4f29ebdb7d486faa4d114ce]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1220/regulation/4) in force at 6.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1)
+[^c-b04c48f9d4f29ebdb7d486faa4d114ce]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1220/regulation/4) in force at 6.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1)
 
-[^key-9ce3680c1cf6722ab78393c23295ad5a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1220/regulation/5) in force at 6.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1)
+[^c-9ce3680c1cf6722ab78393c23295ad5a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1220/regulation/5) in force at 6.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Application of the Land Compensation Act 1973[^key-f5fcab39ce8892283e255d9ea9a98c99]
+## 31. Application of the Land Compensation Act 1973[^c-f5fcab39ce8892283e255d9ea9a98c99]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f5fcab39ce8892283e255d9ea9a98c99]: Commencement: Art. 31 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-f5fcab39ce8892283e255d9ea9a98c99]: Commencement: Art. 31 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
 [^f00024]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26). Section 20 was amended by subsections (6) and (12) of section 146 of, and Schedule 13 to, the Road Traffic Regulation Act [1984 (c. 27)](https://www.legislation.gov.uk/ukpga/1984/27). Subsection (10) of section 20 was repealed by section 343(3) of, and Schedule 25 to, the Highway Act [1980 (c. 66)](https://www.legislation.gov.uk/ukpga/1980/66) and subsection (11) was repealed by section 155 of, and Schedule 25 to, the Rent Act [1977 (c. 42)](https://www.legislation.gov.uk/ukpga/1977/42). There are other amendments to the 1973 Act which are not relevant to this Order.

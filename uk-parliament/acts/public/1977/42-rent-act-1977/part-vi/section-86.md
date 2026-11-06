@@ -24,7 +24,7 @@ summary: ''
 
 (2) This Part of this Act applies to a tenancy (other than a co-ownership tenancy)[^c16040021] where—
 
-- (a)[^key-d6eab6a9b001f876f7cd9b8352e7c10a] the interest of the landlord under that tenancy belongs to a housing association or housing trust, or to the Regulator of Social Housing[^key-a00435c95c77a2232807b4af2240dcf3] or to the Secretary of State where that interest belongs to him as the result of the exercise by him of functions under Part III of the Housing Associations Act 1985[^c16040031]. . ., and
+- (a)[^c-d6eab6a9b001f876f7cd9b8352e7c10a] the interest of the landlord under that tenancy belongs to a housing association or housing trust, or to the Regulator of Social Housing[^c-a00435c95c77a2232807b4af2240dcf3] or to the Secretary of State where that interest belongs to him as the result of the exercise by him of functions under Part III of the Housing Associations Act 1985[^c16040031]. . ., and
 - (b)[^c16040051] the tenancy would be a protected tenancy but for section 13 or[^c16040061] 15 or 16 of this Act, and is not a tenancy to which Part II of the [^c16040071]Landlord and Tenant Act 1954 applies.
 
 (3) In this Part of this Act “**housing association**”has the same meaning as in the Housing Associations Act 1985[^c16040081]
@@ -45,9 +45,9 @@ summary: ''
 
 [^c16040021]: Textual amendment: Words inserted by [Housing Act 1980 (c. 51, SIF 61)](https://www.legislation.gov.uk/ukpga/1980/51), [Sch. 10 para. 1(2)](https://www.legislation.gov.uk/ukpga/1980/51/schedule/10/paragraph/1/2)
 
-[^key-d6eab6a9b001f876f7cd9b8352e7c10a]: Modification: S. 86(2)(a) modified (1.12.2008) by [Transfer of Housing Corporation Functions (Modifications and Transitional Provisions) Order 2008 (S.I. 2008/2839)](https://www.legislation.gov.uk/uksi/2008/2839), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2839/article/1/1), [3](https://www.legislation.gov.uk/uksi/2008/2839/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2008/2839/schedule/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/2839/article/6))
+[^c-d6eab6a9b001f876f7cd9b8352e7c10a]: Modification: S. 86(2)(a) modified (1.12.2008) by [Transfer of Housing Corporation Functions (Modifications and Transitional Provisions) Order 2008 (S.I. 2008/2839)](https://www.legislation.gov.uk/uksi/2008/2839), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2839/article/1/1), [3](https://www.legislation.gov.uk/uksi/2008/2839/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2008/2839/schedule/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/2839/article/6))
 
-[^key-a00435c95c77a2232807b4af2240dcf3]: Textual amendment: Words in [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/1977/42/section/86/2/a) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/11) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-a00435c95c77a2232807b4af2240dcf3]: Textual amendment: Words in [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/1977/42/section/86/2/a) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/11) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
 [^c16040031]: Textual amendment: Words in s. 86(2)(a) inserted (15.1.1999) by [S.I. 1999/61](https://www.legislation.gov.uk/uksi/1999/61), [art. 2](https://www.legislation.gov.uk/uksi/1999/61/article/2), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/1999/61/schedule/paragraph/1/2)
 

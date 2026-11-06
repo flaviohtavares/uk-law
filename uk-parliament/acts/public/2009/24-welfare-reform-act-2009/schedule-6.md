@@ -24,7 +24,7 @@ Section 56
 
 ### Part 1 — Amendments of Births and Deaths Registration Act 1953
 
-**1.**[^key-71d38a3d97f3438f9d541a5f698a6096] In this Schedule “**the 1953 Act**” means the Births and Deaths Registration Act 1953 (c. 20).
+**1.**[^c-71d38a3d97f3438f9d541a5f698a6096] In this Schedule “**the 1953 Act**” means the Births and Deaths Registration Act 1953 (c. 20).
 
 **Not yet in force.**
 
@@ -34,8 +34,8 @@ Section 56
 
 > - (a) the mother of the child;
 > - (aa) the father of the child where—
->   - (i) the child is one whose father and mother were married to, or civil partners of,[^key-60ef4734ef5ab6f5eab6030cba6e6329] each other at the time of the child's birth, or
->   - (ii) the father is a qualified informant by virtue of subsection (2)(a) of section 10 (registration of father where parents not married or of second female parent [^key-c601c3a1126c13377746cce1d995ed1b]... or[^key-f8d85eaa84ea2a343c3faea2a30beabe] civil partners) or by virtue of regulations under subsection (6)(b) of section 2E (scientific tests);
+>   - (i) the child is one whose father and mother were married to, or civil partners of,[^c-60ef4734ef5ab6f5eab6030cba6e6329] each other at the time of the child's birth, or
+>   - (ii) the father is a qualified informant by virtue of subsection (2)(a) of section 10 (registration of father where parents not married or of second female parent [^c-c601c3a1126c13377746cce1d995ed1b]... or[^c-f8d85eaa84ea2a343c3faea2a30beabe] civil partners) or by virtue of regulations under subsection (6)(b) of section 2E (scientific tests);
 
 .
 
@@ -48,25 +48,25 @@ Section 56
 
 (4) After subsection (3) insert—
 
-> (4) In this Part, references to a child whose father and mother were, or were not, married to, or civil partners of,[^key-318cab72df812da1f81c5fec590ab808] each other at the time of the child's birth are to be read in accordance with section 1 of the Family Law Reform Act 1987 (which extends the cases in which a person is treated as being a person whose father and mother were married to, or civil partners of, each other at the time of the person's birth).
+> (4) In this Part, references to a child whose father and mother were, or were not, married to, or civil partners of,[^c-318cab72df812da1f81c5fec590ab808] each other at the time of the child's birth are to be read in accordance with section 1 of the Family Law Reform Act 1987 (which extends the cases in which a person is treated as being a person whose father and mother were married to, or civil partners of, each other at the time of the person's birth).
 
 **Not yet in force.**
 
 **3.** (1) Section 2 of the 1953 Act (information concerning birth to be given to registrar within 42 days) is amended as follows.
 
-(2) In subsection (1), after “every birth” insert “ of a child whose father and mother were married to, or civil partners of,[^key-84ae0c00cb990b5b7e5f72c5e70cd4dc] each other at the time of the child's birth ”.
+(2) In subsection (1), after “every birth” insert “ of a child whose father and mother were married to, or civil partners of,[^c-84ae0c00cb990b5b7e5f72c5e70cd4dc] each other at the time of the child's birth ”.
 
 (3) In subsection (2), for “subsection (1)” substitute “ subsection (1)(a) and (b) ”.
 
-(4) In the title, for the words from “to be given” onwards substitute “ of child whose parents are married or civil partners[^key-6ce28a2bc073685698199adeb1212bd7]”.
+(4) In the title, for the words from “to be given” onwards substitute “ of child whose parents are married or civil partners[^c-6ce28a2bc073685698199adeb1212bd7]”.
 
 **Not yet in force.**
 
 **4.** After section 2 of the 1953 Act insert—
 
-> **2A. Information concerning birth of child whose parents are not married or civil partners[^key-c376e218dbc6a115a5d724d07d1cf502]**
+> **2A. Information concerning birth of child whose parents are not married or civil partners[^c-c376e218dbc6a115a5d724d07d1cf502]**
 >
-> (1) In the case of every birth of a child whose father and mother were not married to, or civil partners of,[^key-45544dd487d9038a1278c6f51a8d7617] each other at the time of the birth, it shall be the duty—
+> (1) In the case of every birth of a child whose father and mother were not married to, or civil partners of,[^c-45544dd487d9038a1278c6f51a8d7617] each other at the time of the birth, it shall be the duty—
 >
 > - (a) of the mother of the child, and
 > - (b) in the case of the death or inability of the mother, of each qualified informant falling within section 1(2)(b) to (e),
@@ -82,9 +82,9 @@ Section 56
 >
 > (4) In the case of a child who has a parent by virtue of section 43 of the Human Fertilisation and Embryology Act 2008, the reference in subsection (2)(a) to the father is to be read as a reference to the woman who is a parent by virtue of that section.
 >
-> **2B. Duties of mother not married or a civil partner when acting alone[^key-008aec5cba849bbb7f2af36266dcd414]**
+> **2B. Duties of mother not married or a civil partner when acting alone[^c-008aec5cba849bbb7f2af36266dcd414]**
 >
-> (1) Where no request for the entry of a person's name as the father of the child is made by virtue of any of paragraphs (a) to (g) of section 10(1) (registration of father where parents are not married or civil partners[^key-e55951d8cab0ffa0deb8e0ec578d934e]) or by virtue of regulations under section 2E (scientific tests), the information to be given under section 2A(1) by the mother includes such information relating to the father as may be prescribed for the purposes of this subsection by regulations made by the Minister, which may include information that is not intended to be entered on the register.
+> (1) Where no request for the entry of a person's name as the father of the child is made by virtue of any of paragraphs (a) to (g) of section 10(1) (registration of father where parents are not married or civil partners[^c-e55951d8cab0ffa0deb8e0ec578d934e]) or by virtue of regulations under section 2E (scientific tests), the information to be given under section 2A(1) by the mother includes such information relating to the father as may be prescribed for the purposes of this subsection by regulations made by the Minister, which may include information that is not intended to be entered on the register.
 >
 > (2) The Registrar General may by regulations authorise or require the information relating to the father to be provided in a prescribed form or manner.
 >
@@ -142,7 +142,7 @@ Section 56
 >
 > **2D. Declaration before registration by person claiming to be other parent**
 >
-> (1) The Minister may by regulations provide for a procedure under which a person may be registered as the father of a child whose father and mother were not married to, or civil partners of,[^key-6908516a9abdd32a2b2def0a325d4bd7] each other at the time of the child's birth, on the basis of information that is—
+> (1) The Minister may by regulations provide for a procedure under which a person may be registered as the father of a child whose father and mother were not married to, or civil partners of,[^c-6908516a9abdd32a2b2def0a325d4bd7] each other at the time of the child's birth, on the basis of information that is—
 >
 > - (a) given by that person (in the absence of the mother) before the birth is registered, and
 > - (b) confirmed by the mother when she provides information of the particulars required to be registered concerning the birth.
@@ -154,7 +154,7 @@ Section 56
 > - (c) where the mother acknowledges that the person is the father of the child, require the registrar to enter the person's name in the register as the father of the child, and
 > - (d) provide that in prescribed cases where the person is not required by the regulations to sign the register, the entry in the register is to be taken for the purposes of this Act to have been signed by the person.
 >
-> (3) In the case of a child who has a parent by virtue of section 43 of the Human Fertilisation and Embryology Act 2008, references in subsections (1) and (2) to the father (except in the reference in subsection (1) to a child whose father and mother were not married to, or civil partners of,[^key-656d6e4406fd4d361022402b6a5ca9fa] each other at the time of the child's birth) are to be read as references to the woman who is a parent by virtue of that section.
+> (3) In the case of a child who has a parent by virtue of section 43 of the Human Fertilisation and Embryology Act 2008, references in subsections (1) and (2) to the father (except in the reference in subsection (1) to a child whose father and mother were not married to, or civil partners of,[^c-656d6e4406fd4d361022402b6a5ca9fa] each other at the time of the child's birth) are to be read as references to the woman who is a parent by virtue of that section.
 >
 > (4) Regulations under this section may—
 >
@@ -200,15 +200,15 @@ Section 56
 >
 > (9) In this section “**prescribed**” means prescribed by regulations made under this section by the Minister.
 
-**5.**[^key-0f668516487043108483cba520853ead][^key-73d53a562ef262976e84d85cc0a3709a] In section 4 of the 1953 Act (registrar's power to require information concerning birth), in paragraph (a), for “three months” substitute “ 12 months ”.
+**5.**[^c-0f668516487043108483cba520853ead][^c-73d53a562ef262976e84d85cc0a3709a] In section 4 of the 1953 Act (registrar's power to require information concerning birth), in paragraph (a), for “three months” substitute “ 12 months ”.
 
-**6.**[^key-87fb9f49de1414f047a7baab884b03c8][^key-73d53a562ef262976e84d85cc0a3709a] In section 5 of the 1953 Act (registration of births free of charge) for “three months” substitute “ 12 months ”.
+**6.**[^c-87fb9f49de1414f047a7baab884b03c8][^c-73d53a562ef262976e84d85cc0a3709a] In section 5 of the 1953 Act (registration of births free of charge) for “three months” substitute “ 12 months ”.
 
-**7.**[^key-73d53a562ef262976e84d85cc0a3709a][^key-7f183a82ee21d1d884f73e00bffd3a84] Omit section 6 of the 1953 Act (which makes special provision about registration between 3 and 12 months from the date of birth).
+**7.**[^c-73d53a562ef262976e84d85cc0a3709a][^c-7f183a82ee21d1d884f73e00bffd3a84] Omit section 6 of the 1953 Act (which makes special provision about registration between 3 and 12 months from the date of birth).
 
-**8.**[^key-73d53a562ef262976e84d85cc0a3709a][^key-b9d51728d60fe0bf8030a7f41acc38a0] In section 7 of the 1953 Act (registration after twelve months from date of birth) omit subsection (3) (which excludes still-births).
+**8.**[^c-73d53a562ef262976e84d85cc0a3709a][^c-b9d51728d60fe0bf8030a7f41acc38a0] In section 7 of the 1953 Act (registration after twelve months from date of birth) omit subsection (3) (which excludes still-births).
 
-**9.**[^key-73d53a562ef262976e84d85cc0a3709a][^key-930af89cb060dc4a3faeb996bc1af4d8] In section 8 of the 1953 Act (penalty for improper registration after 3 months from date of birth)—
+**9.**[^c-73d53a562ef262976e84d85cc0a3709a][^c-930af89cb060dc4a3faeb996bc1af4d8] In section 8 of the 1953 Act (penalty for improper registration after 3 months from date of birth)—
 
 - (a) for “the two last foregoing sections” substitute “ section 7 ”, and
 - (b) for “three months” (both in the section and in the title) substitute “ 12 months ”.
@@ -219,7 +219,7 @@ Section 56
 
 (2) After subsection (3) insert—
 
-> (3A) Anything that section 2B (duties of mother not married or a civil partner[^key-0d94d0a6107f830efa09b248e946b024] when acting alone) requires to be done in the presence of, or in relation to, the registrar may, in prescribed cases, be done in the presence of, or in relation to, such officer as may be prescribed.
+> (3A) Anything that section 2B (duties of mother not married or a civil partner[^c-0d94d0a6107f830efa09b248e946b024] when acting alone) requires to be done in the presence of, or in relation to, the registrar may, in prescribed cases, be done in the presence of, or in relation to, such officer as may be prescribed.
 
 (3) After subsection (5) insert—
 
@@ -227,11 +227,11 @@ Section 56
 
 **Not yet in force.**
 
-**11.** (1) Section 10 of the 1953 Act (registration of father [^key-d193225bd9001c9c89e64abadeb0429b]... or of second female parent where parents not married or[^key-29e56a80b2db9a9a0b7573e9f947fcb8] civil partners) is amended as follows.
+**11.** (1) Section 10 of the 1953 Act (registration of father [^c-d193225bd9001c9c89e64abadeb0429b]... or of second female parent where parents not married or[^c-29e56a80b2db9a9a0b7573e9f947fcb8] civil partners) is amended as follows.
 
 (2) In subsection (1)—
 
-- (a) for the words from the beginning to “the registrar” substitute “ In the case of a child whose father and mother were not married to, or civil partners of,[^key-c83d48b6f38a1c1ea0e957b3d8889d01] each other at the time of the child's birth, no person shall as father of the child be required to give information concerning the birth of the child except by virtue of regulations under section 2C or 2E, and the registrar ”,
+- (a) for the words from the beginning to “the registrar” substitute “ In the case of a child whose father and mother were not married to, or civil partners of,[^c-c83d48b6f38a1c1ea0e957b3d8889d01] each other at the time of the child's birth, no person shall as father of the child be required to give information concerning the birth of the child except by virtue of regulations under section 2C or 2E, and the registrar ”,
 - (b) in paragraph (b) for sub-paragraph (ii) substitute—
 
   > - (ii) a declaration in the prescribed form which is made by that person, states himself to be the father of the child, and is countersigned by a prescribed person; or
@@ -307,7 +307,7 @@ Section 56
 
   .
 
-(4)[^key-b8d051862bb3f489c3afa5d05ad0e749] In subsection (2), omit paragraph (d) (requirement for signature by superintendent registrar where re-registration takes place more than 3 months after the birth) and the word “and” immediately before it.
+(4)[^c-b8d051862bb3f489c3afa5d05ad0e749] In subsection (2), omit paragraph (d) (requirement for signature by superintendent registrar where re-registration takes place more than 3 months after the birth) and the word “and” immediately before it.
 
 **Not yet in force.**
 
@@ -319,7 +319,7 @@ Section 56
 >
 > (2) In this section a “**relevant child**” means a child—
 >
-> - (a) whose father and mother were not married to, or civil partners of,[^key-e9cce5cc1622866bd5a970c781fdd628] each other at the time of the child's birth, and
+> - (a) whose father and mother were not married to, or civil partners of,[^c-e9cce5cc1622866bd5a970c781fdd628] each other at the time of the child's birth, and
 > - (b) whose birth has been registered before or after the commencement of this section without any person being registered as the father of the child (or as a parent of the child by virtue of section 42, 43 or 46(1) or (2) of the Human Fertilisation and Embryology Act 2008).
 >
 > (3) Regulations under subsection (1) may—
@@ -345,7 +345,7 @@ Section 56
 >
 > (2) In this section a “**relevant child**” means a child—
 >
-> - (a) whose father and mother were not married to, or civil partners of,[^key-1932029191248f71cecaf4607c7341ec] each other at the time of the child's birth, and
+> - (a) whose father and mother were not married to, or civil partners of,[^c-1932029191248f71cecaf4607c7341ec] each other at the time of the child's birth, and
 > - (b) whose birth has been registered before or after the commencement of this section without any person being registered as the father of the child (or as a parent of the child by virtue of section 42, 43 or 46(1) or (2) of the Human Fertilisation and Embryology Act 2008).
 >
 > (3) Regulations under subsection (1) may—
@@ -366,7 +366,7 @@ Section 56
 >
 > (7) In this section “**prescribed**” means prescribed by regulations made under this section by the Minister.
 
-**14.**[^key-dee38d1e90bdea318c222aeafbd676a4] In section 34 of the 1953 Act (entry in register as evidence of birth or death), in subsection (3), for paragraph (a) substitute—
+**14.**[^c-dee38d1e90bdea318c222aeafbd676a4] In section 34 of the 1953 Act (entry in register as evidence of birth or death), in subsection (3), for paragraph (a) substitute—
 
 > - (a) if it appears that not more than 12 months have so intervened—
 >   - (i) the original entry was made after the commencement of paragraph 7 of Schedule 6 to the Welfare Reform Act 2009, or
@@ -386,7 +386,7 @@ Section 56
 
 **16.** In section 39 of the 1953 Act (regulations), in paragraph (a), for “this Act” substitute “ any provision of this Act other than sections 2B(1), (4) and (6), 2C, 2D, 2E, 10B and 10C ”.
 
-**17.**[^key-18abe28fc28863f4add8adcd4f3b4247] After section 39 of the 1953 Act insert—
+**17.**[^c-18abe28fc28863f4add8adcd4f3b4247] After section 39 of the 1953 Act insert—
 
 > **39A. Regulations made by the Minister: further provisions**
 >
@@ -416,11 +416,11 @@ Section 56
 
 **19.** In section 4 of the Perjury Act 1911 (false statements, etc, as to births or deaths) after subsection (1) insert—
 
-> (1A) For the purposes of subsection (1)(a), information which a person is required to provide to a registrar of births or deaths for the purposes of subsection (1) of section 2B of the Births and Deaths Registration Act 1953 (duties of mother not married or a civil partner[^key-16b4bdbd183f1b0107a642e1233fb026] when acting alone) is to be taken to be information concerning a birth.
+> (1A) For the purposes of subsection (1)(a), information which a person is required to provide to a registrar of births or deaths for the purposes of subsection (1) of section 2B of the Births and Deaths Registration Act 1953 (duties of mother not married or a civil partner[^c-16b4bdbd183f1b0107a642e1233fb026] when acting alone) is to be taken to be information concerning a birth.
 
 #### Population (Statistics) Act 1938 (c. 12)
 
-**20.**[^key-f53af54a04b5818cf15d2b8175edec85] (1) In the Schedule to the Population (Statistics) Act 1938 (particulars which may be required on registration of a birth), in paragraph 1—
+**20.**[^c-f53af54a04b5818cf15d2b8175edec85] (1) In the Schedule to the Population (Statistics) Act 1938 (particulars which may be required on registration of a birth), in paragraph 1—
 
 - (a) for paragraph (a) substitute—
 
@@ -521,62 +521,62 @@ Section 56
 
 ## Annotations
 
-[^key-71d38a3d97f3438f9d541a5f698a6096]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/1) in force at 19.9.2016 by [S.I. 2016/913](https://www.legislation.gov.uk/uksi/2016/913), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/913/article/2/b)
+[^c-71d38a3d97f3438f9d541a5f698a6096]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/1) in force at 19.9.2016 by [S.I. 2016/913](https://www.legislation.gov.uk/uksi/2016/913), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/913/article/2/b)
 
-[^key-60ef4734ef5ab6f5eab6030cba6e6329]: Textual amendment: Words in Sch. 6 para. 2(2) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/2/a/i)
+[^c-60ef4734ef5ab6f5eab6030cba6e6329]: Textual amendment: Words in Sch. 6 para. 2(2) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/2/a/i)
 
-[^key-c601c3a1126c13377746cce1d995ed1b]: Textual amendment: Words in Sch. 6 para. 2(2) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/2/a/ii)
+[^c-c601c3a1126c13377746cce1d995ed1b]: Textual amendment: Words in Sch. 6 para. 2(2) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/2/a/ii)
 
-[^key-f8d85eaa84ea2a343c3faea2a30beabe]: Textual amendment: Words in Sch. 6 para. 2(2) inserted (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/34)
+[^c-f8d85eaa84ea2a343c3faea2a30beabe]: Textual amendment: Words in Sch. 6 para. 2(2) inserted (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/34)
 
-[^key-318cab72df812da1f81c5fec590ab808]: Textual amendment: Words in Sch. 6 para. 2(4) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(2)(b)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/2/b)
+[^c-318cab72df812da1f81c5fec590ab808]: Textual amendment: Words in Sch. 6 para. 2(4) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(2)(b)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/2/b)
 
-[^key-84ae0c00cb990b5b7e5f72c5e70cd4dc]: Textual amendment: Words in Sch. 6 para. 3(2) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(3)(a)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/3/a)
+[^c-84ae0c00cb990b5b7e5f72c5e70cd4dc]: Textual amendment: Words in Sch. 6 para. 3(2) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(3)(a)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/3/a)
 
-[^key-6ce28a2bc073685698199adeb1212bd7]: Textual amendment: Words in Sch. 6 para. 3(4) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(3)(b)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/3/b)
+[^c-6ce28a2bc073685698199adeb1212bd7]: Textual amendment: Words in Sch. 6 para. 3(4) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(3)(b)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/3/b)
 
-[^key-c376e218dbc6a115a5d724d07d1cf502]: Textual amendment: Words in Sch. 6 para. 4 inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(4)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/4/a/i)
+[^c-c376e218dbc6a115a5d724d07d1cf502]: Textual amendment: Words in Sch. 6 para. 4 inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(4)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/4/a/i)
 
-[^key-45544dd487d9038a1278c6f51a8d7617]: Textual amendment: Words in Sch. 6 para. 4 inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/4/a/ii)
+[^c-45544dd487d9038a1278c6f51a8d7617]: Textual amendment: Words in Sch. 6 para. 4 inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/4/a/ii)
 
-[^key-008aec5cba849bbb7f2af36266dcd414]: Textual amendment: Words in Sch. 6 para. 4 substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/4/b/i)
+[^c-008aec5cba849bbb7f2af36266dcd414]: Textual amendment: Words in Sch. 6 para. 4 substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/4/b/i)
 
-[^key-e55951d8cab0ffa0deb8e0ec578d934e]: Textual amendment: Words in Sch. 6 para. 4 inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/4/b/ii)
+[^c-e55951d8cab0ffa0deb8e0ec578d934e]: Textual amendment: Words in Sch. 6 para. 4 inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/4/b/ii)
 
-[^key-6908516a9abdd32a2b2def0a325d4bd7]: Textual amendment: Words in Sch. 6 para. 4 inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(4)(c)(i)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/4/c/i)
+[^c-6908516a9abdd32a2b2def0a325d4bd7]: Textual amendment: Words in Sch. 6 para. 4 inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(4)(c)(i)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/4/c/i)
 
-[^key-656d6e4406fd4d361022402b6a5ca9fa]: Textual amendment: Words in Sch. 6 para. 4 inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/4/c/ii)
+[^c-656d6e4406fd4d361022402b6a5ca9fa]: Textual amendment: Words in Sch. 6 para. 4 inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/4/c/ii)
 
-[^key-0f668516487043108483cba520853ead]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/5) in force at 21.5.2012 by [S.I. 2012/1256](https://www.legislation.gov.uk/uksi/2012/1256), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1256/article/2/2/b)
+[^c-0f668516487043108483cba520853ead]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/5) in force at 21.5.2012 by [S.I. 2012/1256](https://www.legislation.gov.uk/uksi/2012/1256), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1256/article/2/2/b)
 
-[^key-73d53a562ef262976e84d85cc0a3709a]: Commencement: [Sch. 6 paras. 5-9](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/5) in force at 21.5.2012 by [S.I. 2012/1256](https://www.legislation.gov.uk/uksi/2012/1256), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1256/article/2/2/b)
+[^c-73d53a562ef262976e84d85cc0a3709a]: Commencement: [Sch. 6 paras. 5-9](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/5) in force at 21.5.2012 by [S.I. 2012/1256](https://www.legislation.gov.uk/uksi/2012/1256), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1256/article/2/2/b)
 
-[^key-87fb9f49de1414f047a7baab884b03c8]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/6) in force at 21.5.2012 by [S.I. 2012/1256](https://www.legislation.gov.uk/uksi/2012/1256), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1256/article/2/2/b)
+[^c-87fb9f49de1414f047a7baab884b03c8]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/6) in force at 21.5.2012 by [S.I. 2012/1256](https://www.legislation.gov.uk/uksi/2012/1256), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1256/article/2/2/b)
 
-[^key-7f183a82ee21d1d884f73e00bffd3a84]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/7) in force at 21.5.2012 by [S.I. 2012/1256](https://www.legislation.gov.uk/uksi/2012/1256), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1256/article/2/2/b)
+[^c-7f183a82ee21d1d884f73e00bffd3a84]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/7) in force at 21.5.2012 by [S.I. 2012/1256](https://www.legislation.gov.uk/uksi/2012/1256), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1256/article/2/2/b)
 
-[^key-b9d51728d60fe0bf8030a7f41acc38a0]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/8) in force at 21.5.2012 by [S.I. 2012/1256](https://www.legislation.gov.uk/uksi/2012/1256), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1256/article/2/2/b)
+[^c-b9d51728d60fe0bf8030a7f41acc38a0]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/8) in force at 21.5.2012 by [S.I. 2012/1256](https://www.legislation.gov.uk/uksi/2012/1256), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1256/article/2/2/b)
 
-[^key-930af89cb060dc4a3faeb996bc1af4d8]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/9) in force at 21.5.2012 by [S.I. 2012/1256](https://www.legislation.gov.uk/uksi/2012/1256), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1256/article/2/2/b)
+[^c-930af89cb060dc4a3faeb996bc1af4d8]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/9) in force at 21.5.2012 by [S.I. 2012/1256](https://www.legislation.gov.uk/uksi/2012/1256), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1256/article/2/2/b)
 
-[^key-0d94d0a6107f830efa09b248e946b024]: Textual amendment: Words in [Sch. 6 para. 10(2)](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/10/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(5)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/5)
+[^c-0d94d0a6107f830efa09b248e946b024]: Textual amendment: Words in [Sch. 6 para. 10(2)](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/10/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(5)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/5)
 
-[^key-d193225bd9001c9c89e64abadeb0429b]: Textual amendment: Words in Sch. 6 para. 11(1) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(6)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/6/a/i)
+[^c-d193225bd9001c9c89e64abadeb0429b]: Textual amendment: Words in Sch. 6 para. 11(1) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(6)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/6/a/i)
 
-[^key-29e56a80b2db9a9a0b7573e9f947fcb8]: Textual amendment: Words in Sch. 6 para. 11(1) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/6/a/ii)
+[^c-29e56a80b2db9a9a0b7573e9f947fcb8]: Textual amendment: Words in Sch. 6 para. 11(1) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/6/a/ii)
 
-[^key-c83d48b6f38a1c1ea0e957b3d8889d01]: Textual amendment: Words in Sch. 6 para. 11(2)(a) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(6)(b)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/6/b)
+[^c-c83d48b6f38a1c1ea0e957b3d8889d01]: Textual amendment: Words in Sch. 6 para. 11(2)(a) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(6)(b)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/6/b)
 
-[^key-b8d051862bb3f489c3afa5d05ad0e749]: Commencement: [Sch. 6 para. 12(4)](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/12/4) in force at 21.5.2012 by [S.I. 2012/1256](https://www.legislation.gov.uk/uksi/2012/1256), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1256/article/2/2/b)
+[^c-b8d051862bb3f489c3afa5d05ad0e749]: Commencement: [Sch. 6 para. 12(4)](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/12/4) in force at 21.5.2012 by [S.I. 2012/1256](https://www.legislation.gov.uk/uksi/2012/1256), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1256/article/2/2/b)
 
-[^key-e9cce5cc1622866bd5a970c781fdd628]: Textual amendment: Words in Sch. 6 para. 13 inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(7)(a)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/7/a)
+[^c-e9cce5cc1622866bd5a970c781fdd628]: Textual amendment: Words in Sch. 6 para. 13 inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(7)(a)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/7/a)
 
-[^key-1932029191248f71cecaf4607c7341ec]: Textual amendment: Words in Sch. 6 para. 13 inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(7)(b)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/7/b)
+[^c-1932029191248f71cecaf4607c7341ec]: Textual amendment: Words in Sch. 6 para. 13 inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(7)(b)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/7/b)
 
-[^key-dee38d1e90bdea318c222aeafbd676a4]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/14) in force at 21.5.2012 by [S.I. 2012/1256](https://www.legislation.gov.uk/uksi/2012/1256), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1256/article/2/2/b)
+[^c-dee38d1e90bdea318c222aeafbd676a4]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/14) in force at 21.5.2012 by [S.I. 2012/1256](https://www.legislation.gov.uk/uksi/2012/1256), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1256/article/2/2/b)
 
-[^key-18abe28fc28863f4add8adcd4f3b4247]: Commencement: [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/17) in force at 19.9.2016 by [S.I. 2016/913](https://www.legislation.gov.uk/uksi/2016/913), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/913/article/2/b)
+[^c-18abe28fc28863f4add8adcd4f3b4247]: Commencement: [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/17) in force at 19.9.2016 by [S.I. 2016/913](https://www.legislation.gov.uk/uksi/2016/913), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/913/article/2/b)
 
-[^key-16b4bdbd183f1b0107a642e1233fb026]: Textual amendment: Words in [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/19) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(8)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/8)
+[^c-16b4bdbd183f1b0107a642e1233fb026]: Textual amendment: Words in [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/19) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [19(8)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/19/8)
 
-[^key-f53af54a04b5818cf15d2b8175edec85]: Commencement: [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/20) in force at 21.5.2012 by [S.I. 2012/1256](https://www.legislation.gov.uk/uksi/2012/1256), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1256/article/2/2/b)
+[^c-f53af54a04b5818cf15d2b8175edec85]: Commencement: [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2009/24/schedule/6/paragraph/20) in force at 21.5.2012 by [S.I. 2012/1256](https://www.legislation.gov.uk/uksi/2012/1256), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1256/article/2/2/b)

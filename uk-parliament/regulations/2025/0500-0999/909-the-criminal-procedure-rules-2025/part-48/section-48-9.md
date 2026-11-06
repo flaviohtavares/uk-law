@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48.9. Initial procedure on failure to comply with court order, etc.[^key-14eabfc476521109705daf8b48ad6091]
+## 48.9. Initial procedure on failure to comply with court order, etc.[^c-14eabfc476521109705daf8b48ad6091]
 
 *Extent: E+W*
 
@@ -70,7 +70,7 @@ summary: ''
 
 ## Annotations
 
-[^key-14eabfc476521109705daf8b48ad6091]: Commencement: [Rule 48.9](https://www.legislation.gov.uk/uksi/2025/909/rule/48.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-14eabfc476521109705daf8b48ad6091]: Commencement: [Rule 48.9](https://www.legislation.gov.uk/uksi/2025/909/rule/48.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01292]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 

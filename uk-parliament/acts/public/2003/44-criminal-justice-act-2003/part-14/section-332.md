@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 332. Repeals[^c5234451][^M_I_f7b21865-98cc-4ae5-f4a0-187427a83923][^key-5aebeb5e8de4f87a62d8024da36524c6][^key-c1d7d03a3781ec8561b5c821d8ed768d]
+## 332. Repeals[^c5234451][^M_I_f7b21865-98cc-4ae5-f4a0-187427a83923][^c-5aebeb5e8de4f87a62d8024da36524c6][^c-c1d7d03a3781ec8561b5c821d8ed768d]
 
 *Extent: E+S+N.I.*
 
@@ -28,6 +28,6 @@ Schedule 37 (repeals) shall have effect.
 
 [^M_I_f7b21865-98cc-4ae5-f4a0-187427a83923]: Commencement: S. 332 in force at 5.11.2012 for specified purposes by [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(1)(b)(2)(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/1/b/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3), [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), [art. 2](https://www.legislation.gov.uk/uksi/2012/2761/article/2)) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), [art. 4](https://www.legislation.gov.uk/uksi/2013/1103/article/4))
 
-[^key-5aebeb5e8de4f87a62d8024da36524c6]: Commencement: [S. 332](https://www.legislation.gov.uk/ukpga/2003/44/section/332) in force at 28.5.2013 for specified purposes by [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/3) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1103/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1103/article/4))
+[^c-5aebeb5e8de4f87a62d8024da36524c6]: Commencement: [S. 332](https://www.legislation.gov.uk/ukpga/2003/44/section/332) in force at 28.5.2013 for specified purposes by [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/3) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1103/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1103/article/4))
 
-[^key-c1d7d03a3781ec8561b5c821d8ed768d]: Commencement: [S. 332](https://www.legislation.gov.uk/ukpga/2003/44/section/332) in force at 14.7.2022 for specified purposes by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/816/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/816/regulation/2/b)
+[^c-c1d7d03a3781ec8561b5c821d8ed768d]: Commencement: [S. 332](https://www.legislation.gov.uk/ukpga/2003/44/section/332) in force at 14.7.2022 for specified purposes by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/816/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/816/regulation/2/b)

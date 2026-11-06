@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Circumstances in which no return or declaration is required[^key-ea4c9aab9ea6a229db5921c1b9b26fb9]
+## 57. Circumstances in which no return or declaration is required[^c-ea4c9aab9ea6a229db5921c1b9b26fb9]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Notwithstanding anything in article 54, 55 or 56, no return or declaration as to
 
 ## Annotations
 
-[^key-ea4c9aab9ea6a229db5921c1b9b26fb9]: Commencement: Art. 57 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-ea4c9aab9ea6a229db5921c1b9b26fb9]: Commencement: Art. 57 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

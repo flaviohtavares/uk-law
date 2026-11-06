@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This rule applies where the Judge Advocate General issues a warrant under paragraph 8A of Schedule 10 to the Sentencing Code (as inserted by paragraph 5 of Schedule 6A to the 2006 Act)[^key-2db6387982181fcab814588fedad5c7d] for the offender's arrest.
+(1) This rule applies where the Judge Advocate General issues a warrant under paragraph 8A of Schedule 10 to the Sentencing Code (as inserted by paragraph 5 of Schedule 6A to the 2006 Act)[^c-2db6387982181fcab814588fedad5c7d] for the offender's arrest.
 
 (2) The warrant shall be addressed to—
 
@@ -42,11 +42,11 @@ summary: ''
 
 (8) Where the offender has been arrested under a warrant—
 
-- (a) the court administration officer shall appoint a time and place for proceedings under paragraph 11 of Schedule 10 to the Sentencing Code[^key-4ebcb6066510de29e99419057662f6c3]; and
+- (a) the court administration officer shall appoint a time and place for proceedings under paragraph 11 of Schedule 10 to the Sentencing Code[^c-4ebcb6066510de29e99419057662f6c3]; and
 - (b) the offender shall be brought before the court at that time and place, unless he has been released from custody under rule 136(4).
 
 ## Annotations
 
-[^key-2db6387982181fcab814588fedad5c7d]: Textual amendment: Words in rule 141(1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 391(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/391/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2db6387982181fcab814588fedad5c7d]: Textual amendment: Words in rule 141(1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 391(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/391/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-4ebcb6066510de29e99419057662f6c3]: Textual amendment: Words in rule 141(8)(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 391(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/391/3) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4ebcb6066510de29e99419057662f6c3]: Textual amendment: Words in rule 141(8)(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 391(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/391/3) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

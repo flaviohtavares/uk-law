@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Exceptions from deemed market value[^key-133d2d53eda35472d2bfdeed3c1c3814]
+## 23. Exceptions from deemed market value[^c-133d2d53eda35472d2bfdeed3c1c3814]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-133d2d53eda35472d2bfdeed3c1c3814]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2013/11/section/23) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-133d2d53eda35472d2bfdeed3c1c3814]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2013/11/section/23) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

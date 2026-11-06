@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: N.I.*
 
-After he receives a notice of abandonment of an appeal to the county court the chief clerk [^key-e0e43b2fe2364e32822b99f5e4d8985c]... shall return any recognizance of the appellant entered into under Article 148 or 149 of the Order to the clerk of petty sessions.
+After he receives a notice of abandonment of an appeal to the county court the chief clerk [^c-e0e43b2fe2364e32822b99f5e4d8985c]... shall return any recognizance of the appellant entered into under Article 148 or 149 of the Order to the clerk of petty sessions.
 
 ## Annotations
 
-[^key-e0e43b2fe2364e32822b99f5e4d8985c]: Textual amendment: Words in [rule 157](https://www.legislation.gov.uk/nisr/1984/225/rule/157) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(38)](https://www.legislation.gov.uk/nisr/2016/304/article/3/38); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-e0e43b2fe2364e32822b99f5e4d8985c]: Textual amendment: Words in [rule 157](https://www.legislation.gov.uk/nisr/1984/225/rule/157) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(38)](https://www.legislation.gov.uk/nisr/2016/304/article/3/38); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)

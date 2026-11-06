@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9E. Widening access to Gaelic education[^key-a0ca98888cb972d53dd5270cbf608ed7]
+## 9E. Widening access to Gaelic education[^c-a0ca98888cb972d53dd5270cbf608ed7]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0ca98888cb972d53dd5270cbf608ed7]: Textual amendment: [S. 9E](https://www.legislation.gov.uk/asp/2005/6/section/9E) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 31(3)](https://www.legislation.gov.uk/asp/2025/10/section/31/3), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-a0ca98888cb972d53dd5270cbf608ed7]: Textual amendment: [S. 9E](https://www.legislation.gov.uk/asp/2005/6/section/9E) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 31(3)](https://www.legislation.gov.uk/asp/2025/10/section/31/3), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)

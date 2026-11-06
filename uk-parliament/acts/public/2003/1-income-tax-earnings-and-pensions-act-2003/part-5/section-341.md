@@ -24,9 +24,9 @@ summary: ''
 
 (2) Condition A is that the duties of the employment are performed wholly outside the United Kingdom.
 
-(3) Condition B is that the employee is UK resident[^key-595fa5c5dbceb92dfec7aab1ecd70ca5].
+(3) Condition B is that the employee is UK resident[^c-595fa5c5dbceb92dfec7aab1ecd70ca5].
 
-(4) Condition C is that in a case where the employer is a foreign employer, the employee is not a qualifying new resident for the purposes of Chapter 5C of Part 2 of this Act or Chapter 5 of Part 8 of ITTOIA 2005 (see section 845B of that Act).[^key-1aca4ce6699409ab2667ccee457d4a73]
+(4) Condition C is that in a case where the employer is a foreign employer, the employee is not a qualifying new resident for the purposes of Chapter 5C of Part 2 of this Act or Chapter 5 of Part 8 of ITTOIA 2005 (see section 845B of that Act).[^c-1aca4ce6699409ab2667ccee457d4a73]
 
 (5) If the travel is only partly attributable to the taking up or termination of the employment, this section applies only to the part of the expenses properly so attributable.
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-595fa5c5dbceb92dfec7aab1ecd70ca5]: Textual amendment: Words in s. 341(3) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 33](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/33)
+[^c-595fa5c5dbceb92dfec7aab1ecd70ca5]: Textual amendment: Words in s. 341(3) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 33](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/33)
 
-[^key-1aca4ce6699409ab2667ccee457d4a73]: Textual amendment: Words in s. 341(4) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3), [Sch. 8 para. 1(6)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/paragraph/1/6) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))
+[^c-1aca4ce6699409ab2667ccee457d4a73]: Textual amendment: Words in s. 341(4) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3), [Sch. 8 para. 1(6)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/paragraph/1/6) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))

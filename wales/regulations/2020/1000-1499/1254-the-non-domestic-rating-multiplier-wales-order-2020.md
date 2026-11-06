@@ -31,7 +31,7 @@ summary: ''
 
 Rating And Valuation, Wales
 
-The Non-Domestic Rating (Multiplier) (Wales) Order 2020 (revoked)[^key-9a602866a72e573be4d7cf6abab86c5d]
+The Non-Domestic Rating (Multiplier) (Wales) Order 2020 (revoked)[^c-9a602866a72e573be4d7cf6abab86c5d]
 
 Made
 
@@ -43,15 +43,15 @@ Laid before Senedd Cymru
 
 Coming into force in accordance with article 1(2)
 
-[^key-9a602866a72e573be4d7cf6abab86c5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a602866a72e573be4d7cf6abab86c5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Title, commencement and application[^key-9a602866a72e573be4d7cf6abab86c5d]
+## 1. Title, commencement and application[^c-9a602866a72e573be4d7cf6abab86c5d]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Non-domestic rating multiplier[^key-9a602866a72e573be4d7cf6abab86c5d]
+## 2. Non-domestic rating multiplier[^c-9a602866a72e573be4d7cf6abab86c5d]
 
 **Not yet in force.**
 
@@ -59,12 +59,12 @@ Coming into force in accordance with article 1(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-9a602866a72e573be4d7cf6abab86c5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a602866a72e573be4d7cf6abab86c5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9a602866a72e573be4d7cf6abab86c5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a602866a72e573be4d7cf6abab86c5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9a602866a72e573be4d7cf6abab86c5d]: Textual amendment: Order revoked (10.2.2021) by [The Non-Domestic Rating (Multiplier) (Wales) Order 2021 (S.I. 2021/16)](https://www.legislation.gov.uk/uksi/2021/16), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/16/article/1/2), [3](https://www.legislation.gov.uk/uksi/2021/16/article/3)
+[^c-9a602866a72e573be4d7cf6abab86c5d]: Textual amendment: Order revoked (10.2.2021) by [The Non-Domestic Rating (Multiplier) (Wales) Order 2021 (S.I. 2021/16)](https://www.legislation.gov.uk/uksi/2021/16), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/16/article/1/2), [3](https://www.legislation.gov.uk/uksi/2021/16/article/3)

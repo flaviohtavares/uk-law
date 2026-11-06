@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Enforcement of court orders[^key-8df44bc1e9903785ec09fc7c86f1ed84]
+## 106. Enforcement of court orders[^c-8df44bc1e9903785ec09fc7c86f1ed84]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In any energy administration proceedings, orders of the court may be enforced in
 
 ## Annotations
 
-[^key-8df44bc1e9903785ec09fc7c86f1ed84]: Commencement: Rule 106 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-8df44bc1e9903785ec09fc7c86f1ed84]: Commencement: Rule 106 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

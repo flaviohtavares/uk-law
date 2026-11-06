@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31A. Restrictions on the movement of wild game bird products[^key-2814f956331d2032d690d78f2c5768a3]
+## 31A. Restrictions on the movement of wild game bird products[^c-2814f956331d2032d690d78f2c5768a3]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2814f956331d2032d690d78f2c5768a3]: Textual amendment: [Art. 31A](https://www.legislation.gov.uk/wsi/2006/2927/article/31A) inserted (10.3.2022 at 8.47 p.m.) by [The Avian Influenza (Wales) (Amendment and Revocation) Order 2022 (S.I. 2022/280)](https://www.legislation.gov.uk/wsi/2022/280), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/280/article/1/2), [7](https://www.legislation.gov.uk/wsi/2022/280/article/7)
+[^c-2814f956331d2032d690d78f2c5768a3]: Textual amendment: [Art. 31A](https://www.legislation.gov.uk/wsi/2006/2927/article/31A) inserted (10.3.2022 at 8.47 p.m.) by [The Avian Influenza (Wales) (Amendment and Revocation) Order 2022 (S.I. 2022/280)](https://www.legislation.gov.uk/wsi/2022/280), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/280/article/1/2), [7](https://www.legislation.gov.uk/wsi/2022/280/article/7)

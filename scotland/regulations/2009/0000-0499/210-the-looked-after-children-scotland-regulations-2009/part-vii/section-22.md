@@ -40,7 +40,7 @@ summary: ''
 - (a) a particular child or children;
 - (b) any child;
 - (c) certain categories of child;
-- (d) the number of children each foster carer may have in their care at any one time , subject to the placement limit set out in regulation 27A.[^key-482375ce18991193d31f9999928a60d2]
+- (d) the number of children each foster carer may have in their care at any one time , subject to the placement limit set out in regulation 27A.[^c-482375ce18991193d31f9999928a60d2]
 
 (6) Where the local authority make a decision that is contrary to the recommendation of the fostering panel the authority must record in writing the reasons for that decision.
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-482375ce18991193d31f9999928a60d2]: Textual amendment: Words in reg. 22(5)(d) inserted (29.12.2014) by [The Looked After Children (Scotland) Amendment Regulations 2014 (S.S.I. 2014/310)](https://www.legislation.gov.uk/ssi/2014/310), [regs. 1](https://www.legislation.gov.uk/ssi/2014/310/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2014/310/regulation/2/3)
+[^c-482375ce18991193d31f9999928a60d2]: Textual amendment: Words in reg. 22(5)(d) inserted (29.12.2014) by [The Looked After Children (Scotland) Amendment Regulations 2014 (S.S.I. 2014/310)](https://www.legislation.gov.uk/ssi/2014/310), [regs. 1](https://www.legislation.gov.uk/ssi/2014/310/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2014/310/regulation/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 93. Committee procedure[^key-bb1801cdf9c2d978c07fbd7f18cf01bb]
+## Article 93. Committee procedure[^c-bb1801cdf9c2d978c07fbd7f18cf01bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb1801cdf9c2d978c07fbd7f18cf01bb]: Textual amendment: Ch. 10 omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/72) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/80)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb1801cdf9c2d978c07fbd7f18cf01bb]: Textual amendment: Ch. 10 omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/72) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/80)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

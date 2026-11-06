@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17CA. Breath testing at authorised check-points[^key-c0d36ce961b283abd9d79a8818324c5d]
+## 17CA. Breath testing at authorised check-points[^c-c0d36ce961b283abd9d79a8818324c5d]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ to co-operate with a check-point breath test administered to the person by the c
 
 ## Annotations
 
-[^key-c0d36ce961b283abd9d79a8818324c5d]: Textual amendment: [Art. 17CA](https://www.legislation.gov.uk/nisi/1995/2994/article/17CA) inserted (25.11.2016) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [ss. 3(1)](https://www.legislation.gov.uk/nia/2016/11/section/3/1), [26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1); [S.R. 2016/399](https://www.legislation.gov.uk/nisr/2016/399), [art. 2](https://www.legislation.gov.uk/nisr/2016/399/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/399/schedule)
+[^c-c0d36ce961b283abd9d79a8818324c5d]: Textual amendment: [Art. 17CA](https://www.legislation.gov.uk/nisi/1995/2994/article/17CA) inserted (25.11.2016) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [ss. 3(1)](https://www.legislation.gov.uk/nia/2016/11/section/3/1), [26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1); [S.R. 2016/399](https://www.legislation.gov.uk/nisr/2016/399), [art. 2](https://www.legislation.gov.uk/nisr/2016/399/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/399/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54A. No questioning in appeal of amounts of certain social security income[^key-62652607de1c1edef330fa9d8ac3ee24][^key-706262c38f446b9f21221f9d43f48b03]
+## 54A. No questioning in appeal of amounts of certain social security income[^c-62652607de1c1edef330fa9d8ac3ee24][^c-706262c38f446b9f21221f9d43f48b03]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-62652607de1c1edef330fa9d8ac3ee24]: Modification: Ss. 47C-57 applied (temp. until 30.4.2024) (with modifications in respect of s. 55) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 10 para. 21(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/10/paragraph/21/3)[(4)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/10/paragraph/21/4) (with [Sch. 10 para. 43](https://www.legislation.gov.uk/ukpga/2022/3/schedule/10/paragraph/43) (as amended by [S.I. 2022/1321](https://www.legislation.gov.uk/uksi/2022/1321), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1321/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1321/regulation/2/2)))
+[^c-62652607de1c1edef330fa9d8ac3ee24]: Modification: Ss. 47C-57 applied (temp. until 30.4.2024) (with modifications in respect of s. 55) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 10 para. 21(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/10/paragraph/21/3)[(4)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/10/paragraph/21/4) (with [Sch. 10 para. 43](https://www.legislation.gov.uk/ukpga/2022/3/schedule/10/paragraph/43) (as amended by [S.I. 2022/1321](https://www.legislation.gov.uk/uksi/2022/1321), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1321/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1321/regulation/2/2)))
 
-[^key-706262c38f446b9f21221f9d43f48b03]: Textual amendment: Ss. 54A-54C inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 32](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/32) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-706262c38f446b9f21221f9d43f48b03]: Textual amendment: Ss. 54A-54C inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 32](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/32) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

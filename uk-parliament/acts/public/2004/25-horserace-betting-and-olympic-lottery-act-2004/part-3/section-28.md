@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Winding up[^key-5fd90f5f6b0b1e0d54ff1de0417d2dd2]
+## 28. Winding up[^c-5fd90f5f6b0b1e0d54ff1de0417d2dd2]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State[^key-b684d9ccfb08e731333ccb28e26d6014]... may by order make provision for the winding up of the Olympic Lottery Distribution Fund.
+(1) The Secretary of State[^c-b684d9ccfb08e731333ccb28e26d6014]... may by order make provision for the winding up of the Olympic Lottery Distribution Fund.
 
 (2) An order under this section shall provide, in particular, for any money in or due to the Olympic Lottery Distribution Fund to be paid into the National Lottery Distribution Fund.
 
-(3) An order under this section shall in respect of any payment specify, or enable the Secretary of State[^key-b684d9ccfb08e731333ccb28e26d6014]... to specify, whether it is to be—
+(3) An order under this section shall in respect of any payment specify, or enable the Secretary of State[^c-b684d9ccfb08e731333ccb28e26d6014]... to specify, whether it is to be—
 
 - (a) treated as having been paid into the National Lottery Distribution Fund by virtue of section 5(6) of the National Lottery etc. Act 1993 (general payments into fund), or
 - (b) allocated entirely for expenditure on or connected with sport and held in accordance with section 23(2) of that Act (distributing bodies for sports).
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5fd90f5f6b0b1e0d54ff1de0417d2dd2]: Commencement: S. 28 in force at 8.4.2005 by [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)
+[^c-5fd90f5f6b0b1e0d54ff1de0417d2dd2]: Commencement: S. 28 in force at 8.4.2005 by [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)
 
-[^key-b684d9ccfb08e731333ccb28e26d6014]: Textual amendment: Words in s. 28 omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 4(d)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/4/d)
+[^c-b684d9ccfb08e731333ccb28e26d6014]: Textual amendment: Words in s. 28 omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 4(d)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/4/d)

@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 65 and 89
 
-### 1. Notice of initiation of a dumping investigation[^key-be3c44de7a28e1602d3a0b7a5d403158]
+### 1. Notice of initiation of a dumping investigation[^c-be3c44de7a28e1602d3a0b7a5d403158]
 
 The information referred to in regulation 65(1) is—
 
@@ -41,7 +41,7 @@ The information referred to in regulation 65(1) is—
 - (m) details of a registration period during which interested parties, or any other person, may make themselves known to the TRA;
 - (n) a statement that interested parties may request the TRA to conduct a hearing.
 
-### 2. Notice of initiation of a subsidisation investigation[^key-bc465687036b6b21691d68e67f416c9e]
+### 2. Notice of initiation of a subsidisation investigation[^c-bc465687036b6b21691d68e67f416c9e]
 
 The information referred to in regulation 65(2) is—
 
@@ -60,7 +60,7 @@ The information referred to in regulation 65(2) is—
 - (m) details of a registration period during which interested parties, or any other person, may make themselves known to the TRA;
 - (n) a statement that interested parties may request the TRA to conduct a hearing.
 
-### 3. Notice of a provisional affirmative determination with no recommendation regarding requiring a guarantee[^key-e09d5d03994c6935802b663d6132fd74]
+### 3. Notice of a provisional affirmative determination with no recommendation regarding requiring a guarantee[^c-e09d5d03994c6935802b663d6132fd74]
 
 The information referred to in regulation 65(3) is—
 
@@ -69,7 +69,7 @@ The information referred to in regulation 65(3) is—
 - (c) the reasons for the TRA's provisional affirmative determination;
 - (d) the reasons why the TRA has determined that there is no recommendation that it could make under paragraph 13(3) of Schedule 4 to the Act.
 
-### 4. Notice of the Secretary of State accepting or rejecting a recommendation by the TRA regarding requiring a guarantee[^key-28ea3369dee88fe7b05b021e5ec37c1d]
+### 4. Notice of the Secretary of State accepting or rejecting a recommendation by the TRA regarding requiring a guarantee[^c-28ea3369dee88fe7b05b021e5ec37c1d]
 
 The information referred to in regulation 65(4) is—
 
@@ -80,18 +80,18 @@ The information referred to in regulation 65(4) is—
 - (e) the reasons for the TRA's provisional affirmative determination;
 - (f) the reasons for the TRA's recommendation regarding requiring a guarantee;
 - (g) where the Secretary of State accepts the TRA's recommendation, the date the notice comes into effect;
-- (h)[^key-0361552b1de79cd94ff1d9adcf535d4d] where the Secretary of State rejects the TRA’s recommendation—
+- (h)[^c-0361552b1de79cd94ff1d9adcf535d4d] where the Secretary of State rejects the TRA’s recommendation—
   - (i) and makes a decision under paragraph 15(3B) of Schedule 4 to the Act—
     - (aa) that such notice is a public notice made under section 13 of the Act;
     - (bb) the date the notice comes into effect;
     - (cc) the reasons for the Secretary of State’s rejection and for requiring importers to give a guarantee other than in accordance with the recommendation;
   - (ii) and does not make a decision under paragraph 15(3B) of Schedule 4 to the Act, the reasons for the Secretary of State’s rejection.
 
-### 5. Notice of a final affirmative determination with no recommendation on an anti-dumping amount or a countervailing amount[^key-3565dcaa57be8792636171a5487b156a]
+### 5. Notice of a final affirmative determination with no recommendation on an anti-dumping amount or a countervailing amount[^c-3565dcaa57be8792636171a5487b156a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Notice of the Secretary of State accepting or rejecting a recommendation by the TRA on an anti-dumping amount or a countervailing amount[^key-2f96e1300defcefe47dcd6e1b792bf0b]
+### 6. Notice of the Secretary of State accepting or rejecting a recommendation by the TRA on an anti-dumping amount or a countervailing amount[^c-2f96e1300defcefe47dcd6e1b792bf0b]
 
 The information referred to in regulation 65(6) is—
 
@@ -103,7 +103,7 @@ The information referred to in regulation 65(6) is—
   - (i) that such notice is a public notice made under section 13 of the Act;
   - (ii) a specified period for which the anti-dumping amount or countervailing amount is applicable (see paragraph 17(3)(a) or 17(4)(a) of Schedule 4 to the Act);
   - (iii) where applicable, the relevant date and the relevant period (see paragraph 19 of Schedule 4 to the Act);
-- (f)[^key-903c1ca40a9c238e70947bb8af814cd4] where the Secretary of State rejects the TRA’s recommendation—
+- (f)[^c-903c1ca40a9c238e70947bb8af814cd4] where the Secretary of State rejects the TRA’s recommendation—
   - (i) and makes a decision under paragraph 20A(2) of Schedule 4 to the Act—
     - (aa) that such notice is a public notice made under section 13 of the Act;
     - (bb) the reasons for the Secretary of State’s rejection and for applying a measure other than in accordance with the recommendation;
@@ -120,7 +120,7 @@ The information referred to in regulation 65(6) is—
   - (i) the fact that an undertaking was offered;
   - (ii) the reasons for the rejection of the recommendation.
 
-### 7. Notice of a final negative determination[^key-893f93d161ae50effa5ca993520e5b82]
+### 7. Notice of a final negative determination[^c-893f93d161ae50effa5ca993520e5b82]
 
 The information referred to in regulation 65(7) is—
 
@@ -128,15 +128,15 @@ The information referred to in regulation 65(7) is—
 - (b) the date the notice comes into effect;
 - (c) the TRA's reasons for its determination.
 
-### 8. Notice of termination[^key-eee3e429004dc3e9acbed989e14c6ee5]
+### 8. Notice of termination[^c-eee3e429004dc3e9acbed989e14c6ee5]
 
-The information referred to in regulation 65(8) [^key-e57d06f27fcbc522059a918de256ace2]... is—
+The information referred to in regulation 65(8) [^c-e57d06f27fcbc522059a918de256ace2]... is—
 
 - (a) a summary of the investigation to date;
 - (b) the date the notice comes into effect;
 - (c) the reasons for termination.
 
-### 9. Notice of repayment of an anti-dumping amount or a countervailing amount[^key-06ab2a6b25e09b2e43ba063f077cba51]
+### 9. Notice of repayment of an anti-dumping amount or a countervailing amount[^c-06ab2a6b25e09b2e43ba063f077cba51]
 
 The notice in regulation 89(8)(c) must include—
 
@@ -146,26 +146,26 @@ The notice in regulation 89(8)(c) must include—
 
 ## Annotations
 
-[^key-be3c44de7a28e1602d3a0b7a5d403158]: Commencement: Sch. 2 para. 1 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-be3c44de7a28e1602d3a0b7a5d403158]: Commencement: Sch. 2 para. 1 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
-[^key-bc465687036b6b21691d68e67f416c9e]: Commencement: Sch. 2 para. 2 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-bc465687036b6b21691d68e67f416c9e]: Commencement: Sch. 2 para. 2 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
-[^key-e09d5d03994c6935802b663d6132fd74]: Commencement: Sch. 2 para. 3 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-e09d5d03994c6935802b663d6132fd74]: Commencement: Sch. 2 para. 3 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
-[^key-28ea3369dee88fe7b05b021e5ec37c1d]: Commencement: Sch. 2 para. 4 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-28ea3369dee88fe7b05b021e5ec37c1d]: Commencement: Sch. 2 para. 4 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
-[^key-0361552b1de79cd94ff1d9adcf535d4d]: Textual amendment: [Sch. 2 para. 4(h)](https://www.legislation.gov.uk/uksi/2019/450/schedule/2/paragraph/4/h) substituted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [36(2)(a)](https://www.legislation.gov.uk/uksi/2024/545/regulation/36/2/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-0361552b1de79cd94ff1d9adcf535d4d]: Textual amendment: [Sch. 2 para. 4(h)](https://www.legislation.gov.uk/uksi/2019/450/schedule/2/paragraph/4/h) substituted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [36(2)(a)](https://www.legislation.gov.uk/uksi/2024/545/regulation/36/2/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
 
-[^key-3565dcaa57be8792636171a5487b156a]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2019/450/schedule/2/paragraph/5) omitted (23.5.2024) by virtue of [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [36(2)(b)](https://www.legislation.gov.uk/uksi/2024/545/regulation/36/2/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-3565dcaa57be8792636171a5487b156a]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2019/450/schedule/2/paragraph/5) omitted (23.5.2024) by virtue of [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [36(2)(b)](https://www.legislation.gov.uk/uksi/2024/545/regulation/36/2/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
 
-[^key-2f96e1300defcefe47dcd6e1b792bf0b]: Commencement: Sch. 2 para. 6 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-2f96e1300defcefe47dcd6e1b792bf0b]: Commencement: Sch. 2 para. 6 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
-[^key-903c1ca40a9c238e70947bb8af814cd4]: Textual amendment: [Sch. 2 para. 6(f)](https://www.legislation.gov.uk/uksi/2019/450/schedule/2/paragraph/6/f) substituted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [36(2)(c)](https://www.legislation.gov.uk/uksi/2024/545/regulation/36/2/c) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-903c1ca40a9c238e70947bb8af814cd4]: Textual amendment: [Sch. 2 para. 6(f)](https://www.legislation.gov.uk/uksi/2019/450/schedule/2/paragraph/6/f) substituted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [36(2)(c)](https://www.legislation.gov.uk/uksi/2024/545/regulation/36/2/c) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
 
-[^key-893f93d161ae50effa5ca993520e5b82]: Commencement: Sch. 2 para. 7 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-893f93d161ae50effa5ca993520e5b82]: Commencement: Sch. 2 para. 7 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
-[^key-eee3e429004dc3e9acbed989e14c6ee5]: Commencement: Sch. 2 para. 8 in force at 6.3.2019, see reg. 1(2)
+[^c-eee3e429004dc3e9acbed989e14c6ee5]: Commencement: Sch. 2 para. 8 in force at 6.3.2019, see reg. 1(2)
 
-[^key-e57d06f27fcbc522059a918de256ace2]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2019/450/schedule/2/paragraph/8) omitted (23.7.2019) by virtue of [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/1076/regulation/12)
+[^c-e57d06f27fcbc522059a918de256ace2]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2019/450/schedule/2/paragraph/8) omitted (23.7.2019) by virtue of [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/1076/regulation/12)
 
-[^key-06ab2a6b25e09b2e43ba063f077cba51]: Commencement: Sch. 2 para. 9 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-06ab2a6b25e09b2e43ba063f077cba51]: Commencement: Sch. 2 para. 9 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

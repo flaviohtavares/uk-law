@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 260I. Pensionable earnings credited under regulations 260C and 260E to be treated as capped Optant pensionable earnings[^key-5e4f8abc3e3ea4715002d1a59e22f2ed]
+## 260I. Pensionable earnings credited under regulations 260C and 260E to be treated as capped Optant pensionable earnings[^c-5e4f8abc3e3ea4715002d1a59e22f2ed]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e4f8abc3e3ea4715002d1a59e22f2ed]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/nisr/2008/256/part/3) c. 10 added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [96](https://www.legislation.gov.uk/nisr/2010/22/regulation/96)
+[^c-5e4f8abc3e3ea4715002d1a59e22f2ed]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/nisr/2008/256/part/3) c. 10 added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [96](https://www.legislation.gov.uk/nisr/2010/22/regulation/96)

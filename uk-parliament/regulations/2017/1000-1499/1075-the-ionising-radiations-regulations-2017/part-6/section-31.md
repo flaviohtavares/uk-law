@@ -31,7 +31,7 @@ summary: ''
   - (i) was in accordance with an environmental permit under the Environmental Permitting (England and Wales) Regulations 2016 [^c23074561] in respect of mobile radioactive apparatus within the meaning of those regulations;
   - (ii) was in a manner specified in such an environmental permit in respect of radioactive waste within the meaning of those regulations; or
   - (iii) did not, under regulation 12 of those regulations, require an environmental permit;
-- (b)[^key-f70277c0ab33b2446576406b7bf04916] in relation to Scotland was in accordance with an authorisation for a radioactive substances activity within the meaning given in regulation 4 of the Environmental Authorisations (Scotland) Regulations 2018.
+- (b)[^c-f70277c0ab33b2446576406b7bf04916] in relation to Scotland was in accordance with an authorisation for a radioactive substances activity within the meaning given in regulation 4 of the Environmental Authorisations (Scotland) Regulations 2018.
 
 (3) Where an employer has reasonable cause to believe that a quantity of a radioactive substance which exceeds the quantity for that substance specified in column 6 of Part 1 of Schedule 7 and which was under its control is lost or has been stolen, the employer must immediately notify the appropriate authority of that loss or theft, as the case may be.
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c23074561]: Marginal citation: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154).
 
-[^key-f70277c0ab33b2446576406b7bf04916]: Textual amendment: [Reg. 31(2)(b)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/31/2/b) substituted (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 6 para. 7](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/7) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+[^c-f70277c0ab33b2446576406b7bf04916]: Textual amendment: [Reg. 31(2)(b)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/31/2/b) substituted (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 6 para. 7](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/7) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))

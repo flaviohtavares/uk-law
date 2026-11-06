@@ -22,22 +22,22 @@ summary: ''
 
 Regulation 8
 
-### 1. Miscellaneous[^key-51a34126137752e0b1074048666fbf8e]
+### 1. Miscellaneous[^c-51a34126137752e0b1074048666fbf8e]
 
 There shall be stated the names of the persons who, at any time during the financial year, were directors of the society.
 
-**2.**[^key-a600dc618d969ddd2552741d665ff858] The directors' report shall contain—
+**2.**[^c-a600dc618d969ddd2552741d665ff858] The directors' report shall contain—
 
 - (a) a statement of the business objectives and activities of the society and of any connected undertaking;
 - (b) particulars of the events during the financial year considered by the directors of the society to have an important effect on the society or any connected undertaking;
 - (c) particulars of any events which have occurred since the end of the financial year and which are considered by the directors of the society to have an important effect on the society or any connected undertaking; and
 - (d) an indication of the opinion of the directors of the society as to the developments which they consider likely to happen in the business of the society or any connected undertaking.
 
-### 3. Land and buildings[^key-cff673b3b2a297bc0053a2941d5011bc]
+### 3. Land and buildings[^c-cff673b3b2a297bc0053a2941d5011bc]
 
 If, in the case of such of the fixed assets of the society or of any subsidiary undertaking as consist in interests in land and buildings, their market value (as at the end of the financial year) differs substantially from the amount at which they are included in the balance sheet, and the difference is, in the directors' opinion, of such significance as to require that the attention of members of the society should be drawn to it, the report shall indicate the difference with such degree of precision as is practicable.
 
-### 4. Political and charitable gifts[^key-cfa6bfd7692d5a3432f43c7aa734df8b]
+### 4. Political and charitable gifts[^c-cfa6bfd7692d5a3432f43c7aa734df8b]
 
 (1) The following applies if the society or any subsidiary undertaking of the society has in the financial year given money for political purposes or charitable purposes or both.
 
@@ -48,7 +48,7 @@ If, in the case of such of the fixed assets of the society or of any subsidiary 
   - (i) the name of each person to whom money has been given for those purposes exceeding £200 in amount and the amount of money given; and
   - (ii) if money exceeding £200 in amount has been given by way of donation or subscription to a political party, the identity of the party and the amount of money given.
 
-(2A)[^key-81f2f4e9df225edb63e6777eba506400] In addition to any statement required by sub-paragraph (2), if the money has been given by way of a transfer under section 2 of the Dormant Bank and Building Society Accounts Act 2008 or a transfer required by section 2A(8) of that Act[^key-c0b0f83c06783bea66123e9591d89b34], there shall be contained in the directors’ report for the year—
+(2A)[^c-81f2f4e9df225edb63e6777eba506400] In addition to any statement required by sub-paragraph (2), if the money has been given by way of a transfer under section 2 of the Dormant Bank and Building Society Accounts Act 2008 or a transfer required by section 2A(8) of that Act[^c-c0b0f83c06783bea66123e9591d89b34], there shall be contained in the directors’ report for the year—
 
 - (a) the name of each charity to which such a transfer was made; and
 - (b) the amount transferred to each such charity.
@@ -62,7 +62,7 @@ If, in the case of such of the fixed assets of the society or of any subsidiary 
 
 (5) In this paragraph, “charitable purposes” means purposes which are exclusively charitable; and, as respects Scotland, “charitable” is to be construed as if it were contained in the Income Tax Acts.
 
-### 5. Directors' interests[^key-2468009ebe56a3e927b796de1da315a7]
+### 5. Directors' interests[^c-2468009ebe56a3e927b796de1da315a7]
 
 (1) Subject to sub-paragraphs (2) and (3), the directors' report shall state the following, with respect to each person who, at the end of the financial year, was a director of the society—
 
@@ -83,11 +83,11 @@ If, in the case of such of the fixed assets of the society or of any subsidiary 
 - (a) the date one month prior to the date of the notice of the society’s annual general meeting; or
 - (b) if earlier, the date on which approval, under section 80 of the Act, of components of the annual accounts is completed.
 
-(6) In this paragraph, the interest of the spouse, civil partner[^key-7e7835877239b0bc7e6267b9e59f5a33], infant son or infant daughter of a director of a society (not being himself or herself a director of the society) is to be treated as an interest of the director; and “son” includes step-son and “daughter” includes step-daughter and “infant” means, in relation to Scotland, a person under the age of 18 years.
+(6) In this paragraph, the interest of the spouse, civil partner[^c-7e7835877239b0bc7e6267b9e59f5a33], infant son or infant daughter of a director of a society (not being himself or herself a director of the society) is to be treated as an interest of the director; and “son” includes step-son and “daughter” includes step-daughter and “infant” means, in relation to Scotland, a person under the age of 18 years.
 
-(7) In this paragraph, any reference to an interest of a director, or any other person mentioned in sub-paragraph (6), in shares or debentures shall be interpreted in accordance with Schedule 1 to the Companies Act 2006[^key-5fda566820bd55afea9ea4d07149acca].
+(7) In this paragraph, any reference to an interest of a director, or any other person mentioned in sub-paragraph (6), in shares or debentures shall be interpreted in accordance with Schedule 1 to the Companies Act 2006[^c-5fda566820bd55afea9ea4d07149acca].
 
-### 6. Employee information[^key-e33a95fb24ce3a7e30b81538f0bdd6a8]
+### 6. Employee information[^c-e33a95fb24ce3a7e30b81538f0bdd6a8]
 
 (1) This paragraph applies to the directors' report where the average number of persons employed by the society in each month during the financial year exceeded 250.
 
@@ -111,40 +111,40 @@ If, in the case of such of the fixed assets of the society or of any subsidiary 
 - (a) “employment” means employment other than employment to work wholly or mainly outside the United Kingdom, and “employed” and “employee” shall be construed accordingly; and
 - (b) “disabled person” has the same meaning as in the Disability Discrimination Act 1995[^f00022].
 
-### 7. Percentages[^key-95bd11216253df9b3117ef1db92104ca]
+### 7. Percentages[^c-95bd11216253df9b3117ef1db92104ca]
 
-(1) The directors' report prepared by the directors of a society whose annual accounts are Building Societies Act accounts[^key-1c3e96fd03d42b944991085a8f65fe2b] shall disclose, in accordance with sub-paragraph (2)—
+(1) The directors' report prepared by the directors of a society whose annual accounts are Building Societies Act accounts[^c-1c3e96fd03d42b944991085a8f65fe2b] shall disclose, in accordance with sub-paragraph (2)—
 
 - (a) free capital as a percentage of the total of Liability items A to D in Part I or II of Schedule 2; and
 - (b) gross capital as a percentage of the total of Liability items A to D in Part I or II of Schedule 2.
 
-(1A)[^key-b548f2b343046cfd81fc5e28de855b22] The directors’ report prepared by the directors of a society whose annual accounts are IAS accounts shall disclose, in accordance with sub-paragraph (2)—
+(1A)[^c-b548f2b343046cfd81fc5e28de855b22] The directors’ report prepared by the directors of a society whose annual accounts are IAS accounts shall disclose, in accordance with sub-paragraph (2)—
 
 - (a) free capital as a percentage of the total of the liability items listed in sub-paragraph (1B) as shown in the annual accounts; and
 - (b) gross capital as a percentage of the total of the liability items listed in sub-paragraph (1B) as shown in the annual accounts.
 
 (1B) The liability items are shares, amounts owed to credit institutions, amounts owed to other customers, and debt securities in issue.
 
-(2) The matters required to be disclosed by sub-paragraphs (1) and (1A)[^key-5cafae49617a249a7f9ecd1188482269] shall be disclosed—
+(2) The matters required to be disclosed by sub-paragraphs (1) and (1A)[^c-5cafae49617a249a7f9ecd1188482269] shall be disclosed—
 
 - (a) where the society is a single accounts society, in relation to the society; and
 - (b) where the society is a group accounts society, in relation to the society and its subsidiary undertakings.
 
-### 8. Mortgage arrears[^key-f1b87fc1e8ec3efee470704d61978fac]
+### 8. Mortgage arrears[^c-f1b87fc1e8ec3efee470704d61978fac]
 
-(1)[^key-b421bcbf4b7d9cea620fd50982c9bb81] The directors' report prepared by the directors of a society whose annual accounts are Building Societies Act accounts[^key-319fc5600f17ae4376e9f05b5d25afe7] shall disclose in respect of mortgage accounts of the society and of any subsidiary undertaking twelve or more months in arrears at the balance sheet date—
+(1)[^c-b421bcbf4b7d9cea620fd50982c9bb81] The directors' report prepared by the directors of a society whose annual accounts are Building Societies Act accounts[^c-319fc5600f17ae4376e9f05b5d25afe7] shall disclose in respect of mortgage accounts of the society and of any subsidiary undertaking twelve or more months in arrears at the balance sheet date—
 
 - (a) the number of such accounts;
 - (b) the total amount (before any provision for bad and doubtful debts or interest in suspense) outstanding on such accounts which is included in Asset item B in Part I or II of Schedule 2; and
 - (c) the total amount of arrears on such accounts.
 
-(2)[^key-da600a89b9b1a9e7d211e036c0cb0d11] The directors’ report prepared by the directors of a society whose annual accounts are IAS accounts shall disclose in respect of mortgage accounts of the society and of any subsidiary undertaking twelve or more months in arrears at the balance sheet date—
+(2)[^c-da600a89b9b1a9e7d211e036c0cb0d11] The directors’ report prepared by the directors of a society whose annual accounts are IAS accounts shall disclose in respect of mortgage accounts of the society and of any subsidiary undertaking twelve or more months in arrears at the balance sheet date—
 
 - (a) the number of such accounts;
 - (b) the total amount (before any provision for impairment losses) outstanding on such accounts; and
 - (c) the total amount of arrears on such accounts.
 
-### 9. Supplier payment policy[^key-65bb03d20f6f9efbe6eaa7f61233a035]
+### 9. Supplier payment policy[^c-65bb03d20f6f9efbe6eaa7f61233a035]
 
 (1) The directors' report shall state, with respect to the next following financial year—
 
@@ -176,18 +176,18 @@ the aggregate of the amounts in which the society was invoiced by suppliers duri
 (3) For the purposes of sub-paragraphs (1) and (2) a person is a supplier of the society at any time if—
 
 - (a) at that time, he is owed an amount in respect of goods or services supplied, and
-- (b) that amount would be included under the heading corresponding to liability item E.4 (trade creditors) in Format 1 of the balance sheet formats set out in Part 1 of Schedule 1 to the Large and Medium–sized Companies and Groups (Accounts and Reports) Regulations 2008[^key-e7dd72d76f8aab301be31b6a4f87b1ab] if—
+- (b) that amount would be included under the heading corresponding to liability item E.4 (trade creditors) in Format 1 of the balance sheet formats set out in Part 1 of Schedule 1 to the Large and Medium–sized Companies and Groups (Accounts and Reports) Regulations 2008[^c-e7dd72d76f8aab301be31b6a4f87b1ab] if—
   - (i) the society’s accounts fell to be prepared as at that time,
-  - (ii) those accounts were prepared in accordance with Schedule 1 to those Regulations[^key-a6603fda20a3aaf63a18deb5601cc45b], and
+  - (ii) those accounts were prepared in accordance with Schedule 1 to those Regulations[^c-a6603fda20a3aaf63a18deb5601cc45b], and
   - (iii) that Format were adopted.
 
-(4) For the purposes of sub-paragraph (2), the aggregate of the amounts which at the end of the financial year were owed to trade creditors shall be taken to be the amounts which would be shown under the heading corresponding to liability item E.4 (trade creditors) in Format 1 of the balance sheet formats set out in Part 1 of Schedule 1 to the Large and Medium–sized Companies and Groups (Accounts and Reports) Regulations 2008[^key-5c48e47a4d60f814ed830896cadf012a] if the society’s accounts were prepared in accordance with that Schedule[^key-15888e3cec3c181356ab130ee84558b3] and that Format were adopted.
+(4) For the purposes of sub-paragraph (2), the aggregate of the amounts which at the end of the financial year were owed to trade creditors shall be taken to be the amounts which would be shown under the heading corresponding to liability item E.4 (trade creditors) in Format 1 of the balance sheet formats set out in Part 1 of Schedule 1 to the Large and Medium–sized Companies and Groups (Accounts and Reports) Regulations 2008[^c-5c48e47a4d60f814ed830896cadf012a] if the society’s accounts were prepared in accordance with that Schedule[^c-15888e3cec3c181356ab130ee84558b3] and that Format were adopted.
 
-### 10. New activities[^key-04802429232d1007df66c457810b4450]
+### 10. New activities[^c-04802429232d1007df66c457810b4450]
 
 The directors' report shall describe any activities in which the society or any of its subsidiary undertakings has engaged during the financial year of a different nature from the activities in which it has previously engaged.
 
-### 11. Financial risk management objectives and policies[^key-574dcb37d626f1cfcee5da6e67c2083f]
+### 11. Financial risk management objectives and policies[^c-574dcb37d626f1cfcee5da6e67c2083f]
 
 The directors' report shall contain, in relation to the use of financial instruments by the society and by any subsidiary undertaking, and where material for the assessment of the society’s or (as the case may be) group’s assets, liabilities, financial position and profit or loss—
 
@@ -196,54 +196,54 @@ The directors' report shall contain, in relation to the use of financial instrum
 
 ## Annotations
 
-[^key-51a34126137752e0b1074048666fbf8e]: Commencement: Sch. 8 para. 1 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-51a34126137752e0b1074048666fbf8e]: Commencement: Sch. 8 para. 1 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-a600dc618d969ddd2552741d665ff858]: Commencement: Sch. 8 para. 2 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-a600dc618d969ddd2552741d665ff858]: Commencement: Sch. 8 para. 2 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-cff673b3b2a297bc0053a2941d5011bc]: Commencement: Sch. 8 para. 3 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-cff673b3b2a297bc0053a2941d5011bc]: Commencement: Sch. 8 para. 3 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-cfa6bfd7692d5a3432f43c7aa734df8b]: Commencement: Sch. 8 para. 4 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-cfa6bfd7692d5a3432f43c7aa734df8b]: Commencement: Sch. 8 para. 4 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-81f2f4e9df225edb63e6777eba506400]: Textual amendment: [Sch. 8 para. 4(2A)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/4/2A) inserted (13.7.2009) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2009 (S.I. 2009/1391)](https://www.legislation.gov.uk/uksi/2009/1391), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1391/regulation/1), [2](https://www.legislation.gov.uk/uksi/2009/1391/regulation/2)
+[^c-81f2f4e9df225edb63e6777eba506400]: Textual amendment: [Sch. 8 para. 4(2A)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/4/2A) inserted (13.7.2009) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2009 (S.I. 2009/1391)](https://www.legislation.gov.uk/uksi/2009/1391), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1391/regulation/1), [2](https://www.legislation.gov.uk/uksi/2009/1391/regulation/2)
 
-[^key-c0b0f83c06783bea66123e9591d89b34]: Textual amendment: Words in [Sch. 8 para. 4(2A)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/4/2A) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/1); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-c0b0f83c06783bea66123e9591d89b34]: Textual amendment: Words in [Sch. 8 para. 4(2A)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/4/2A) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/1); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-2468009ebe56a3e927b796de1da315a7]: Commencement: Sch. 8 para. 5 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-2468009ebe56a3e927b796de1da315a7]: Commencement: Sch. 8 para. 5 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-7e7835877239b0bc7e6267b9e59f5a33]: Textual amendment: Words in [Sch. 8 para. 5(6)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/5/6) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 2(16)](https://www.legislation.gov.uk/uksi/2005/2114/article/2/16), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 16 para. 15(2)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/16/paragraph/15/2)
+[^c-7e7835877239b0bc7e6267b9e59f5a33]: Textual amendment: Words in [Sch. 8 para. 5(6)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/5/6) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 2(16)](https://www.legislation.gov.uk/uksi/2005/2114/article/2/16), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 16 para. 15(2)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/16/paragraph/15/2)
 
-[^key-5fda566820bd55afea9ea4d07149acca]: Textual amendment: Words in [Sch. 8 para. 5(7)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/5/7) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [9(8)](https://www.legislation.gov.uk/uksi/2011/1265/article/9/8)
+[^c-5fda566820bd55afea9ea4d07149acca]: Textual amendment: Words in [Sch. 8 para. 5(7)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/5/7) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [9(8)](https://www.legislation.gov.uk/uksi/2011/1265/article/9/8)
 
-[^key-e33a95fb24ce3a7e30b81538f0bdd6a8]: Commencement: Sch. 8 para. 6 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-e33a95fb24ce3a7e30b81538f0bdd6a8]: Commencement: Sch. 8 para. 6 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
 [^f00022]: Footnote: [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50).
 
-[^key-95bd11216253df9b3117ef1db92104ca]: Commencement: Sch. 8 para. 7 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-95bd11216253df9b3117ef1db92104ca]: Commencement: Sch. 8 para. 7 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-1c3e96fd03d42b944991085a8f65fe2b]: Textual amendment: Words in [Sch. 8 para. 7(1)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/7/1) inserted (6.4.2007) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2007 (S.I. 2007/859)](https://www.legislation.gov.uk/uksi/2007/859), [regs. 1](https://www.legislation.gov.uk/uksi/2007/859/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2007/859/regulation/4/a)
+[^c-1c3e96fd03d42b944991085a8f65fe2b]: Textual amendment: Words in [Sch. 8 para. 7(1)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/7/1) inserted (6.4.2007) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2007 (S.I. 2007/859)](https://www.legislation.gov.uk/uksi/2007/859), [regs. 1](https://www.legislation.gov.uk/uksi/2007/859/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2007/859/regulation/4/a)
 
-[^key-b548f2b343046cfd81fc5e28de855b22]: Textual amendment: [Sch. 8 para. 7(1A)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/7/1A)[(1B)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/7/1B) inserted (6.4.2007) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2007 (S.I. 2007/859)](https://www.legislation.gov.uk/uksi/2007/859), [regs. 1](https://www.legislation.gov.uk/uksi/2007/859/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2007/859/regulation/4/b)
+[^c-b548f2b343046cfd81fc5e28de855b22]: Textual amendment: [Sch. 8 para. 7(1A)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/7/1A)[(1B)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/7/1B) inserted (6.4.2007) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2007 (S.I. 2007/859)](https://www.legislation.gov.uk/uksi/2007/859), [regs. 1](https://www.legislation.gov.uk/uksi/2007/859/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2007/859/regulation/4/b)
 
-[^key-5cafae49617a249a7f9ecd1188482269]: Textual amendment: Words in [Sch. 8 para. 7(2)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/7/2) substituted (6.4.2007) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2007 (S.I. 2007/859)](https://www.legislation.gov.uk/uksi/2007/859), [regs. 1](https://www.legislation.gov.uk/uksi/2007/859/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2007/859/regulation/4/c)
+[^c-5cafae49617a249a7f9ecd1188482269]: Textual amendment: Words in [Sch. 8 para. 7(2)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/7/2) substituted (6.4.2007) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2007 (S.I. 2007/859)](https://www.legislation.gov.uk/uksi/2007/859), [regs. 1](https://www.legislation.gov.uk/uksi/2007/859/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2007/859/regulation/4/c)
 
-[^key-f1b87fc1e8ec3efee470704d61978fac]: Commencement: Sch. 8 para. 8 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-f1b87fc1e8ec3efee470704d61978fac]: Commencement: Sch. 8 para. 8 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-b421bcbf4b7d9cea620fd50982c9bb81]: Textual amendment: Sch. 8 para. 8 renumbered as Sch. 8 para. 8(1) (6.4.2007) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2007 (S.I. 2007/859)](https://www.legislation.gov.uk/uksi/2007/859), [regs. 1](https://www.legislation.gov.uk/uksi/2007/859/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2007/859/regulation/4/d)
+[^c-b421bcbf4b7d9cea620fd50982c9bb81]: Textual amendment: Sch. 8 para. 8 renumbered as Sch. 8 para. 8(1) (6.4.2007) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2007 (S.I. 2007/859)](https://www.legislation.gov.uk/uksi/2007/859), [regs. 1](https://www.legislation.gov.uk/uksi/2007/859/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2007/859/regulation/4/d)
 
-[^key-319fc5600f17ae4376e9f05b5d25afe7]: Textual amendment: Words in [Sch. 8 para. 8(1)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/8/1) inserted (6.4.2007) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2007 (S.I. 2007/859)](https://www.legislation.gov.uk/uksi/2007/859), [regs. 1](https://www.legislation.gov.uk/uksi/2007/859/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2007/859/regulation/4/e)
+[^c-319fc5600f17ae4376e9f05b5d25afe7]: Textual amendment: Words in [Sch. 8 para. 8(1)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/8/1) inserted (6.4.2007) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2007 (S.I. 2007/859)](https://www.legislation.gov.uk/uksi/2007/859), [regs. 1](https://www.legislation.gov.uk/uksi/2007/859/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2007/859/regulation/4/e)
 
-[^key-da600a89b9b1a9e7d211e036c0cb0d11]: Textual amendment: [Sch. 8 para. 8(2)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/8/2) inserted (6.4.2007) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2007 (S.I. 2007/859)](https://www.legislation.gov.uk/uksi/2007/859), [regs. 1](https://www.legislation.gov.uk/uksi/2007/859/regulation/1), [4(f)](https://www.legislation.gov.uk/uksi/2007/859/regulation/4/f)
+[^c-da600a89b9b1a9e7d211e036c0cb0d11]: Textual amendment: [Sch. 8 para. 8(2)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/8/2) inserted (6.4.2007) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2007 (S.I. 2007/859)](https://www.legislation.gov.uk/uksi/2007/859), [regs. 1](https://www.legislation.gov.uk/uksi/2007/859/regulation/1), [4(f)](https://www.legislation.gov.uk/uksi/2007/859/regulation/4/f)
 
-[^key-65bb03d20f6f9efbe6eaa7f61233a035]: Commencement: Sch. 8 para. 9 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-65bb03d20f6f9efbe6eaa7f61233a035]: Commencement: Sch. 8 para. 9 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-e7dd72d76f8aab301be31b6a4f87b1ab]: Textual amendment: Words in [Sch. 8 para. 9(3)(b)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/9/3/b) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [9(9)](https://www.legislation.gov.uk/uksi/2011/1265/article/9/9)
+[^c-e7dd72d76f8aab301be31b6a4f87b1ab]: Textual amendment: Words in [Sch. 8 para. 9(3)(b)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/9/3/b) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [9(9)](https://www.legislation.gov.uk/uksi/2011/1265/article/9/9)
 
-[^key-a6603fda20a3aaf63a18deb5601cc45b]: Textual amendment: Words in [Sch. 8 para. 9(3)(b)(ii)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/9/3/b/ii) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [9(10)](https://www.legislation.gov.uk/uksi/2011/1265/article/9/10)
+[^c-a6603fda20a3aaf63a18deb5601cc45b]: Textual amendment: Words in [Sch. 8 para. 9(3)(b)(ii)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/9/3/b/ii) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [9(10)](https://www.legislation.gov.uk/uksi/2011/1265/article/9/10)
 
-[^key-5c48e47a4d60f814ed830896cadf012a]: Textual amendment: Words in [Sch. 8 para. 9(4)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/9/4) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [9(11)(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/9/11/a)
+[^c-5c48e47a4d60f814ed830896cadf012a]: Textual amendment: Words in [Sch. 8 para. 9(4)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/9/4) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [9(11)(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/9/11/a)
 
-[^key-15888e3cec3c181356ab130ee84558b3]: Textual amendment: Words in [Sch. 8 para. 9(4)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/9/4) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [9(11)(b)](https://www.legislation.gov.uk/uksi/2011/1265/article/9/11/b)
+[^c-15888e3cec3c181356ab130ee84558b3]: Textual amendment: Words in [Sch. 8 para. 9(4)](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/9/4) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [9(11)(b)](https://www.legislation.gov.uk/uksi/2011/1265/article/9/11/b)
 
-[^key-04802429232d1007df66c457810b4450]: Commencement: Sch. 8 para. 10 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-04802429232d1007df66c457810b4450]: Commencement: Sch. 8 para. 10 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-574dcb37d626f1cfcee5da6e67c2083f]: Textual amendment: [Sch. 8 para. 11](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/11) inserted (31.12.2004 with application in accordance with reg. 1(2) of the amending S.I.) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2004 (S.I. 2004/3199)](https://www.legislation.gov.uk/uksi/2004/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2004/3199/regulation/10)
+[^c-574dcb37d626f1cfcee5da6e67c2083f]: Textual amendment: [Sch. 8 para. 11](https://www.legislation.gov.uk/uksi/1998/504/schedule/8/paragraph/11) inserted (31.12.2004 with application in accordance with reg. 1(2) of the amending S.I.) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2004 (S.I. 2004/3199)](https://www.legislation.gov.uk/uksi/2004/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2004/3199/regulation/10)

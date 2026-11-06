@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Acquisitions[^key-456b255ece6b4fa5c2fac85c09bfcb5c]
+## 169. Acquisitions[^c-456b255ece6b4fa5c2fac85c09bfcb5c]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ After section 56 of the National Health Service Act 2006 insert—
 
 ## Annotations
 
-[^key-456b255ece6b4fa5c2fac85c09bfcb5c]: Commencement: S. 169 in force at 1.4.2013 by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
+[^c-456b255ece6b4fa5c2fac85c09bfcb5c]: Commencement: S. 169 in force at 1.4.2013 by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)

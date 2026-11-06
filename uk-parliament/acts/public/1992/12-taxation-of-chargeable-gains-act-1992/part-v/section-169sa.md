@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169SA. Meaning of “trading company” and “trading group”[^key-23127f728364967033e2790b75b01272]
+## 169SA. Meaning of “trading company” and “trading group”[^c-23127f728364967033e2790b75b01272]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 7ZA gives the meaning in this Chapter of “trading company” and “t
 
 ## Annotations
 
-[^key-23127f728364967033e2790b75b01272]: Textual amendment: S. 169SA inserted (with effect in accordance with Sch. 13 para. 6(1) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2016/24/schedule/13/paragraph/4)
+[^c-23127f728364967033e2790b75b01272]: Textual amendment: S. 169SA inserted (with effect in accordance with Sch. 13 para. 6(1) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2016/24/schedule/13/paragraph/4)

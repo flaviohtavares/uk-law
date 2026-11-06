@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Disputed claims.[^c14493561][^c14493571][^c14493591][^c14493581][^key-a74e98e474fb049a86157667748ff177][^c14479931]
+## 79. Disputed claims.[^c14493561][^c14493571][^c14493591][^c14493581][^c-a74e98e474fb049a86157667748ff177][^c14479931]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 [^c14493581]: Modification: S. 79 applied (with modifications) (1.8.2001) by [S.I. 2001/2599](https://www.legislation.gov.uk/uksi/2001/2599), [art. 3](https://www.legislation.gov.uk/uksi/2001/2599/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/2599/schedule/1) (as substituted (10.2.2009) by [S.I. 2009/256](https://www.legislation.gov.uk/uksi/2009/256), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/256/article/1/2), [3](https://www.legislation.gov.uk/uksi/2009/256/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/256/schedule/1))
 
-[^key-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
+[^c-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Short title[^key-bb1b8fc801396c6ad346fa3f650cde05]
+## 93. Short title[^c-bb1b8fc801396c6ad346fa3f650cde05]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ This Act may be referred to as—
 
 ## Annotations
 
-[^key-bb1b8fc801396c6ad346fa3f650cde05]: Commencement: S. 93 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)
+[^c-bb1b8fc801396c6ad346fa3f650cde05]: Commencement: S. 93 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Corrupt withdrawal from candidature[^key-4180ae81b67aba150be87b801455f0b3]
+## 76. Corrupt withdrawal from candidature[^c-4180ae81b67aba150be87b801455f0b3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any person who corruptly induces or procures any other person to withdraw from b
 
 ## Annotations
 
-[^key-4180ae81b67aba150be87b801455f0b3]: Commencement: Art. 76 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-4180ae81b67aba150be87b801455f0b3]: Commencement: Art. 76 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

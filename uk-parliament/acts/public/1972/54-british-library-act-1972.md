@@ -155,7 +155,7 @@ and, if a person ceases to be member of the Board and it appears to the Secretar
 
 ### Incidental powers
 
-**11.** (1) It shall be within the capacity of the Board as a statutory corporation to do all such things, and enter into all such transactions, as are incidental or conducive to the discharge of its functions [^key-5d0c7762523144af60c849e21756a1de]....
+**11.** (1) It shall be within the capacity of the Board as a statutory corporation to do all such things, and enter into all such transactions, as are incidental or conducive to the discharge of its functions [^c-5d0c7762523144af60c849e21756a1de]....
 
 (2) The Board may frame, and vary and revoke from time to time, rules relating to the exercise by them of any power or the manner of entering into any transaction; and the rules may, with the approval of the Secretary of State, provide for the imposition of charges for any services provided by the Board or for the loan or use of any item from their collections.
 
@@ -240,7 +240,7 @@ and, if a person ceases to be member of the Board and it appears to the Secretar
 
 [^c8553331]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/1972/54/schedule/paragraph/6) repealed by [House of Commons Disqualification Act 1975 (c. 24)](https://www.legislation.gov.uk/ukpga/1975/24), [Sch. 3](https://www.legislation.gov.uk/ukpga/1975/24/schedule/3)
 
-[^key-5d0c7762523144af60c849e21756a1de]: Textual amendment: Words in Sch. para. 11(1) omitted (29.6.2021) by virtue of [British Library Board (Power to Borrow) Act 2021 (c. 15)](https://www.legislation.gov.uk/ukpga/2021/15), [ss. 1](https://www.legislation.gov.uk/ukpga/2021/15/section/1), [2(2)](https://www.legislation.gov.uk/ukpga/2021/15/section/2/2)
+[^c-5d0c7762523144af60c849e21756a1de]: Textual amendment: Words in Sch. para. 11(1) omitted (29.6.2021) by virtue of [British Library Board (Power to Borrow) Act 2021 (c. 15)](https://www.legislation.gov.uk/ukpga/2021/15), [ss. 1](https://www.legislation.gov.uk/ukpga/2021/15/section/1), [2(2)](https://www.legislation.gov.uk/ukpga/2021/15/section/2/2)
 
 [^c8553351]: Textual amendment: Sch. para. 11(4)(d) and word "or" preceding it substituted (1.9.1992) for words by [Museums and Galleries Act 1992 (c. 44)](https://www.legislation.gov.uk/ukpga/1992/44), [s. 11(2)](https://www.legislation.gov.uk/ukpga/1992/44/section/11/2), [Sch. 8 Pt. II para. 12(1)](https://www.legislation.gov.uk/ukpga/1992/44/schedule/8/part/II/paragraph/12/1); [S.I. 1992/1874](https://www.legislation.gov.uk/uksi/1992/1874), [art. 2](https://www.legislation.gov.uk/uksi/1992/1874/article/2)
 

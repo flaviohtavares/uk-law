@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Police covenant report[^key-e3090d51e0863fa0715bebb0c190b150][^key-75002d5f033c74fd0d9223a27f3e0f18]
+## 1. Police covenant report[^c-e3090d51e0863fa0715bebb0c190b150][^c-75002d5f033c74fd0d9223a27f3e0f18]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,6 +81,6 @@ are sought in relation to the matters to be covered by the report.
 
 ## Annotations
 
-[^key-e3090d51e0863fa0715bebb0c190b150]: Commencement: S. 1 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-e3090d51e0863fa0715bebb0c190b150]: Commencement: S. 1 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-75002d5f033c74fd0d9223a27f3e0f18]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/32/section/1) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/a)
+[^c-75002d5f033c74fd0d9223a27f3e0f18]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/32/section/1) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/a)

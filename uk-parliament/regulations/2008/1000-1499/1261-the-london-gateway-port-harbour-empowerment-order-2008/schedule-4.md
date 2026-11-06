@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — STOPPING UP OF FOOTPATHS AND BRIDLEWAY AND NEW PUBLIC RIGHTS OF WAY TO BE SUBSTITUTED[^key-53248cf6cbe6c24d5758fd25160ecf6f]
+## SCHEDULE 4 — STOPPING UP OF FOOTPATHS AND BRIDLEWAY AND NEW PUBLIC RIGHTS OF WAY TO BE SUBSTITUTED[^c-53248cf6cbe6c24d5758fd25160ecf6f]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ Article 19
 
 ## Annotations
 
-[^key-53248cf6cbe6c24d5758fd25160ecf6f]: Commencement: Sch. 4 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-53248cf6cbe6c24d5758fd25160ecf6f]: Commencement: Sch. 4 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

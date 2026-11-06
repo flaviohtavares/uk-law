@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 138A. Overpayment of Part-time fee loan[^key-0142b909ebd9a05a11a81475c023ae08]
+## 138A. Overpayment of Part-time fee loan[^c-0142b909ebd9a05a11a81475c023ae08]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0142b909ebd9a05a11a81475c023ae08]: Textual amendment: [Reg. 138A](https://www.legislation.gov.uk/nisr/2009/373/regulation/138A) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [41](https://www.legislation.gov.uk/nisr/2017/7/regulation/41)
+[^c-0142b909ebd9a05a11a81475c023ae08]: Textual amendment: [Reg. 138A](https://www.legislation.gov.uk/nisr/2009/373/regulation/138A) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [41](https://www.legislation.gov.uk/nisr/2017/7/regulation/41)

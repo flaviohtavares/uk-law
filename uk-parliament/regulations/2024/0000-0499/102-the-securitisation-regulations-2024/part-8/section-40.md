@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Procedure for imposition, variation or revocation of a temporary ban on STS notifications[^key-f41a97825242866bf88b743234453f95]
+## 40. Procedure for imposition, variation or revocation of a temporary ban on STS notifications[^c-f41a97825242866bf88b743234453f95]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ it must give the person written notice.
 
 ## Annotations
 
-[^key-f41a97825242866bf88b743234453f95]: Commencement: Reg. 40 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-f41a97825242866bf88b743234453f95]: Commencement: Reg. 40 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

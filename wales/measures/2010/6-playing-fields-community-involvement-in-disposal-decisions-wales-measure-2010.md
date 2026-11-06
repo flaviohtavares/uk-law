@@ -38,7 +38,7 @@ A Measure of the National Assembly for Wales to make provision in relation to co
 
 **This Measure, passed by the National Assembly for Wales on 6 October 2010 and approved by Her Majesty in Council on 15 December 2010, enacts the following provisions:–**
 
-## 1. Community involvement in disposals by local authorities of playing fields[^key-6ff467f1ff821925257a2650ca4af360]
+## 1. Community involvement in disposals by local authorities of playing fields[^c-6ff467f1ff821925257a2650ca4af360]
 
 (1) The Welsh Ministers may, by regulations, make provision for the involvement of communities in decisions by local authorities about disposals by them of land consisting or forming part of a playing field.
 
@@ -68,7 +68,7 @@ A Measure of the National Assembly for Wales to make provision in relation to co
   - (iii) a National Park authority;
 - “playing field” (*“cae chwarae”*) means an open space which includes one or more areas which have at any time been marked or otherwise set aside for sport or other similar recreational activity.
 
-## 2. Amendment to the Local Government Act 1972 (c. 70)[^key-336551588620978093f4effc0a4643ec]
+## 2. Amendment to the Local Government Act 1972 (c. 70)[^c-336551588620978093f4effc0a4643ec]
 
 (1) The Local Government Act 1972 (c. 70) is amended as follows.
 
@@ -96,7 +96,7 @@ A Measure of the National Assembly for Wales to make provision in relation to co
 
 .
 
-## 3. Disposal by National Park authorities of playing fields[^key-809e64ace6f2418fc7efefd3542f804d]
+## 3. Disposal by National Park authorities of playing fields[^c-809e64ace6f2418fc7efefd3542f804d]
 
 (1) The Environment Act 1995 (c. 25) is amended as follows.
 
@@ -106,13 +106,13 @@ A Measure of the National Assembly for Wales to make provision in relation to co
 
 .
 
-## 4. Procedure for regulations[^key-6f4a2f961b047098148182c7d92ad9e0]
+## 4. Procedure for regulations[^c-6f4a2f961b047098148182c7d92ad9e0]
 
 (1) The power to make regulations conferred by this Measure is exercisable by statutory instrument.
 
 (2) A statutory instrument containing regulations made under this Measure is subject to annulment in pursuance of a resolution of the Assembly.
 
-## 5. Short title and commencement[^key-c1b953def5742004d97f938206f714cb]
+## 5. Short title and commencement[^c-c1b953def5742004d97f938206f714cb]
 
 (1) This Measure may be referred to as the Playing Fields (Community Involvement in Disposal Decisions) (Wales) Measure 2010.
 
@@ -120,12 +120,12 @@ A Measure of the National Assembly for Wales to make provision in relation to co
 
 ## Annotations
 
-[^key-6ff467f1ff821925257a2650ca4af360]: Commencement: [S. 1](https://www.legislation.gov.uk/mwa/2010/6/section/1) in force at 15.12.2010, see [s. 5(2)](https://www.legislation.gov.uk/mwa/2010/6/section/5/2)
+[^c-6ff467f1ff821925257a2650ca4af360]: Commencement: [S. 1](https://www.legislation.gov.uk/mwa/2010/6/section/1) in force at 15.12.2010, see [s. 5(2)](https://www.legislation.gov.uk/mwa/2010/6/section/5/2)
 
-[^key-336551588620978093f4effc0a4643ec]: Commencement: [S. 2](https://www.legislation.gov.uk/mwa/2010/6/section/2) in force at 15.12.2010, see [s. 5(2)](https://www.legislation.gov.uk/mwa/2010/6/section/5/2)
+[^c-336551588620978093f4effc0a4643ec]: Commencement: [S. 2](https://www.legislation.gov.uk/mwa/2010/6/section/2) in force at 15.12.2010, see [s. 5(2)](https://www.legislation.gov.uk/mwa/2010/6/section/5/2)
 
-[^key-809e64ace6f2418fc7efefd3542f804d]: Commencement: [S. 3](https://www.legislation.gov.uk/mwa/2010/6/section/3) in force at 15.12.2010, see [s. 5(2)](https://www.legislation.gov.uk/mwa/2010/6/section/5/2)
+[^c-809e64ace6f2418fc7efefd3542f804d]: Commencement: [S. 3](https://www.legislation.gov.uk/mwa/2010/6/section/3) in force at 15.12.2010, see [s. 5(2)](https://www.legislation.gov.uk/mwa/2010/6/section/5/2)
 
-[^key-6f4a2f961b047098148182c7d92ad9e0]: Commencement: [S. 4](https://www.legislation.gov.uk/mwa/2010/6/section/4) in force at 15.12.2010, see [s. 5(2)](https://www.legislation.gov.uk/mwa/2010/6/section/5/2)
+[^c-6f4a2f961b047098148182c7d92ad9e0]: Commencement: [S. 4](https://www.legislation.gov.uk/mwa/2010/6/section/4) in force at 15.12.2010, see [s. 5(2)](https://www.legislation.gov.uk/mwa/2010/6/section/5/2)
 
-[^key-c1b953def5742004d97f938206f714cb]: Commencement: [S. 5](https://www.legislation.gov.uk/mwa/2010/6/section/5) in force at 15.12.2010, see [s. 5(2)](https://www.legislation.gov.uk/mwa/2010/6/section/5/2)
+[^c-c1b953def5742004d97f938206f714cb]: Commencement: [S. 5](https://www.legislation.gov.uk/mwa/2010/6/section/5) in force at 15.12.2010, see [s. 5(2)](https://www.legislation.gov.uk/mwa/2010/6/section/5/2)

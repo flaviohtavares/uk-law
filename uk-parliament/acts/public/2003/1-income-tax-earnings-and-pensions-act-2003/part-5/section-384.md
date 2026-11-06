@@ -25,9 +25,9 @@ summary: ''
 (2) In this section “**Crown employment**” means employment under the Crown—
 
 - (a) which is of a public nature,
-- (aa)[^key-b0411d6b62824af0b0f351b3bb815f2d] which is not employment in the Royal Fleet Auxiliary Service, and
+- (aa)[^c-b0411d6b62824af0b0f351b3bb815f2d] which is not employment in the Royal Fleet Auxiliary Service, and
 - (b) the earnings from which are payable out of the public revenue of the United Kingdom or of Northern Ireland.
 
 ## Annotations
 
-[^key-b0411d6b62824af0b0f351b3bb815f2d]: Textual amendment: [S. 384(2)(aa)](https://www.legislation.gov.uk/ukpga/2003/1/section/384/2/aa) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 7](https://www.legislation.gov.uk/ukpga/2018/3/section/7)
+[^c-b0411d6b62824af0b0f351b3bb815f2d]: Textual amendment: [S. 384(2)(aa)](https://www.legislation.gov.uk/ukpga/2003/1/section/384/2/aa) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 7](https://www.legislation.gov.uk/ukpga/2018/3/section/7)

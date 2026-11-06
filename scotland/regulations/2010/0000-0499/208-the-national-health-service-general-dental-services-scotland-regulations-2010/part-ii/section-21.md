@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Health Board patient information leaflets[^key-24c6c9e5b224730ab74b6ab565c05e63]
+## 21. Health Board patient information leaflets[^c-24c6c9e5b224730ab74b6ab565c05e63]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A Health Board shall compile and make available a patient information leaflet wh
 
 ## Annotations
 
-[^key-24c6c9e5b224730ab74b6ab565c05e63]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2010/208/regulation/21) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-24c6c9e5b224730ab74b6ab565c05e63]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2010/208/regulation/21) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)

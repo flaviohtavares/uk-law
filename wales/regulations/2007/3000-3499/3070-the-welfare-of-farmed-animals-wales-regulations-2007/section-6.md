@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Codes of Practice[^key-1db31f666b36d383745fc88494e92ecb]
+## 6. Codes of Practice[^c-1db31f666b36d383745fc88494e92ecb]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1db31f666b36d383745fc88494e92ecb]: Commencement: Reg. 6 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
+[^c-1db31f666b36d383745fc88494e92ecb]: Commencement: Reg. 6 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
 
 [^f00010]: Footnote: [1968 c. 34](https://www.legislation.gov.uk/ukpga/1968/34).

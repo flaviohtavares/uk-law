@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Radiation risk assessments[^key-f1026ec679d3e660ace53b774de89c9e]
+## 8. Radiation risk assessments[^c-f1026ec679d3e660ace53b774de89c9e]
 
 *Extent: E+W+S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f1026ec679d3e660ace53b774de89c9e]: Modification: [Reg. 8](https://www.legislation.gov.uk/uksi/2017/1075/regulation/8) applied by S.I. 2009/1348, Sch. 2 para. 2 (as substituted (21.4.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations 2019 (S.I. 2019/598)](https://www.legislation.gov.uk/uksi/2019/598), [reg. 1](https://www.legislation.gov.uk/uksi/2019/598/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/598/schedule))
+[^c-f1026ec679d3e660ace53b774de89c9e]: Modification: [Reg. 8](https://www.legislation.gov.uk/uksi/2017/1075/regulation/8) applied by S.I. 2009/1348, Sch. 2 para. 2 (as substituted (21.4.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations 2019 (S.I. 2019/598)](https://www.legislation.gov.uk/uksi/2019/598), [reg. 1](https://www.legislation.gov.uk/uksi/2019/598/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/598/schedule))
 
 [^c23074541]: Marginal citation: [S.I. 1999/3242](https://www.legislation.gov.uk/uksi/1999/3242); relevant amending instruments are [S.I. 2003/2457](https://www.legislation.gov.uk/uksi/2003/2457), [S.I](https://www.legislation.gov.uk/uksi/2003/2457/section/I). 2005/1541, [S.S.I. 2006/457](https://www.legislation.gov.uk/ssi/2006/457), [S.I](https://www.legislation.gov.uk/ssi/2006/457/section/I). 2015/21 and [S.I. 2015/1637](https://www.legislation.gov.uk/uksi/2015/1637).

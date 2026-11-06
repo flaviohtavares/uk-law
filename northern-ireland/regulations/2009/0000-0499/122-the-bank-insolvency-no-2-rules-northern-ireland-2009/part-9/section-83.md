@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 83. Remuneration of bank liquidator[^key-7e9e2b7488538f0add7f343c5c3632d1]
+## 83. Remuneration of bank liquidator[^c-7e9e2b7488538f0add7f343c5c3632d1]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e9e2b7488538f0add7f343c5c3632d1]: Commencement: Rule 83 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-7e9e2b7488538f0add7f343c5c3632d1]: Commencement: Rule 83 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

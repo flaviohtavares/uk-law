@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Purposes[^key-156239addcd84bf97e059d7100e76a26][^key-efd04f9eb0173a83afbade4d4e435799]
+## 4. Purposes[^c-156239addcd84bf97e059d7100e76a26][^c-efd04f9eb0173a83afbade4d4e435799]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,8 +63,8 @@ otherwise than by compliance with the relevant UN obligations.
 
 ## Annotations
 
-[^key-156239addcd84bf97e059d7100e76a26]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-156239addcd84bf97e059d7100e76a26]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-efd04f9eb0173a83afbade4d4e435799]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1278/regulation/4) in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/1)
+[^c-efd04f9eb0173a83afbade4d4e435799]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1278/regulation/4) in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/1)
 
 [^c24334571]: Marginal citation: The asset-freezing measures provided for in paragraph 11 of resolution 2140 have been renewed by paragraph 2 of resolution 2204 (2015) adopted by the Security Council on 24 February 2015, paragraph 2 of resolution 2266 (2016) adopted by the Security Council on 24 February 2016, paragraph 2 of resolution 2342 (2017) adopted by the Security Council on 23 February 2017, paragraph 2 of resolution 2402 (2018) adopted by the Security Council on 26 February 2018, paragraph 2 of resolution 2456 (2019) adopted by the Security Council on 26 February 2019, and paragraph 2 of resolution 2511 (2020) adopted by the Security Council on 25 February 2020.

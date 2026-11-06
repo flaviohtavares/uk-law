@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48.12. Content of written witness statement[^key-6de49490dcc32a5516dfeb710a0d0d41]
+## 48.12. Content of written witness statement[^c-6de49490dcc32a5516dfeb710a0d0d41]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6de49490dcc32a5516dfeb710a0d0d41]: Commencement: [Rule 48.12](https://www.legislation.gov.uk/uksi/2025/909/rule/48.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-6de49490dcc32a5516dfeb710a0d0d41]: Commencement: [Rule 48.12](https://www.legislation.gov.uk/uksi/2025/909/rule/48.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01307]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
 

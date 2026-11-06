@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13C. Eligible rent and maximum rent (LHA)[^key-d43277c64475d53c42499e02ecb28fd8]
+## 13C. Eligible rent and maximum rent (LHA)[^c-d43277c64475d53c42499e02ecb28fd8]
 
 *Extent: N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
   - (ii) in a case where there was no eligible rent, subject to regulation 13A(3), (4) and (7), the reckonable rent due on that day; or
 - (b) the eligible rent determined in accordance with paragraph (2), where it is equal to or more than the eligible rent determined in accordance with sub-paragraph (a).
 
-(4)[^key-33114bca210608eef48ae431c793fe75] For the purposes of paragraph (3), a claimant is treated as occupying the dwelling if—
+(4)[^c-33114bca210608eef48ae431c793fe75] For the purposes of paragraph (3), a claimant is treated as occupying the dwelling if—
 
 - (a) any of paragraphs (13), (13D) (with (13E) where applicable) or (13G) of regulation 7 is satisfied and for that purpose those paragraphs shall have effect as if sub-paragraph (b) of those paragraphs were omitted; or
 - (b) any of paragraphs (17), (17C) or (17D) of regulation 7 is satisfied and for that purpose those paragraphs shall have effect as if sub-paragraph (b) of paragraph (16) of that regulation were omitted.
@@ -66,8 +66,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d43277c64475d53c42499e02ecb28fd8]: Textual amendment: [Regs. 13A-13C](https://www.legislation.gov.uk/nisr/2006/406/regulation/13A) inserted (with application in accordance with reg. 1(3) (4) of the amending Rule) by [The Housing Benefit (State Pension Credit) (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/102)](https://www.legislation.gov.uk/nisr/2008/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/102/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2008/102/regulation/2/6)
+[^c-d43277c64475d53c42499e02ecb28fd8]: Textual amendment: [Regs. 13A-13C](https://www.legislation.gov.uk/nisr/2006/406/regulation/13A) inserted (with application in accordance with reg. 1(3) (4) of the amending Rule) by [The Housing Benefit (State Pension Credit) (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/102)](https://www.legislation.gov.uk/nisr/2008/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/102/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2008/102/regulation/2/6)
 
 [^M_F_bd276688-d50f-4e98-ffbf-1f626d375b8d]: Textual amendment: Words in reg. 13C(1) inserted (1.4.2011) by [The Housing Benefit (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/51)](https://www.legislation.gov.uk/nisr/2011/51/contents), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2011/51/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2011/51/regulation/3)
 
-[^key-33114bca210608eef48ae431c793fe75]: Textual amendment: [Reg. 13C(4)](https://www.legislation.gov.uk/nisr/2006/406/regulation/13C/4) substituted (30.1.2017) by [The Housing Benefit and State Pension Credit (Temporary Absence) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/1)](https://www.legislation.gov.uk/nisr/2017/1), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2017/1/regulation/1/a), [3(3)](https://www.legislation.gov.uk/nisr/2017/1/regulation/3/3) (with [reg. 5(1)](https://www.legislation.gov.uk/nisr/2017/1/regulation/5/1))
+[^c-33114bca210608eef48ae431c793fe75]: Textual amendment: [Reg. 13C(4)](https://www.legislation.gov.uk/nisr/2006/406/regulation/13C/4) substituted (30.1.2017) by [The Housing Benefit and State Pension Credit (Temporary Absence) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/1)](https://www.legislation.gov.uk/nisr/2017/1), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2017/1/regulation/1/a), [3(3)](https://www.legislation.gov.uk/nisr/2017/1/regulation/3/3) (with [reg. 5(1)](https://www.legislation.gov.uk/nisr/2017/1/regulation/5/1))

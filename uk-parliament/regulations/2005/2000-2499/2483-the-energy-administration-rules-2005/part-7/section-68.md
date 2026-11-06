@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Notice of no dividend, or no further dividend[^key-2d845748eb171b4acf504dcb774fceca]
+## 68. Notice of no dividend, or no further dividend[^c-2d845748eb171b4acf504dcb774fceca]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ If the energy administrator gives notice to creditors that he is unable to decla
 
 ## Annotations
 
-[^key-2d845748eb171b4acf504dcb774fceca]: Commencement: Rule 68 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-2d845748eb171b4acf504dcb774fceca]: Commencement: Rule 68 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

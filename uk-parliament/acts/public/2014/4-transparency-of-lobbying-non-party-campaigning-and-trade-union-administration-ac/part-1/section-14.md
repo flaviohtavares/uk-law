@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Civil penalties[^key-6bbe927febb6406124048fcc2bde57ba]
+## 14. Civil penalties[^c-6bbe927febb6406124048fcc2bde57ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6bbe927febb6406124048fcc2bde57ba]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/4/section/14) in force at 1.4.2015 by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)
+[^c-6bbe927febb6406124048fcc2bde57ba]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/4/section/14) in force at 1.4.2015 by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)

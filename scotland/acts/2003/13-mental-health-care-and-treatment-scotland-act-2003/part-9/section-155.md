@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 155. Mental health officer’s duties: extension and variation of compulsion order[^key-c7d5326cd9304183fe46b1692e2b8ec1]
+## 155. Mental health officer’s duties: extension and variation of compulsion order[^c-c7d5326cd9304183fe46b1692e2b8ec1]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7d5326cd9304183fe46b1692e2b8ec1]: Commencement: S. 155 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-c7d5326cd9304183fe46b1692e2b8ec1]: Commencement: S. 155 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

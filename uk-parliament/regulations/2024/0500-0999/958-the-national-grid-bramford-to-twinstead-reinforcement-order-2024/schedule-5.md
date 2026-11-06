@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — STREETS SUBJECT TO STREET WORKS[^key-b1cb2a24cb704b97e707e39929722f38]
+## SCHEDULE 5 — STREETS SUBJECT TO STREET WORKS[^c-b1cb2a24cb704b97e707e39929722f38]
 
 *Extent: E+W*
 
@@ -82,4 +82,4 @@ Article 11
 
 ## Annotations
 
-[^key-b1cb2a24cb704b97e707e39929722f38]: Commencement: Sch. 5 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-b1cb2a24cb704b97e707e39929722f38]: Commencement: Sch. 5 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

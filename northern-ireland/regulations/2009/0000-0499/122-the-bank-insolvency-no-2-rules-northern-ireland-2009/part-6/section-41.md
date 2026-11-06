@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Business at first meetings of creditors and contributories[^key-9d87f15742357dbcc08c815b4a334a5b]
+## 41. Business at first meetings of creditors and contributories[^c-9d87f15742357dbcc08c815b4a334a5b]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d87f15742357dbcc08c815b4a334a5b]: Commencement: Rule 41 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-9d87f15742357dbcc08c815b4a334a5b]: Commencement: Rule 41 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

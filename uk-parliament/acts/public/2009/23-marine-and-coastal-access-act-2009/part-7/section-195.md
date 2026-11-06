@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195. Regulation of nets and other fishing gear[^c2008190][^key-1d6c56e130b48e4a822af20f6dd7fac0]
+## 195. Regulation of nets and other fishing gear[^c2008190][^c-1d6c56e130b48e4a822af20f6dd7fac0]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 [^c2008190]: Commencement: [S. 195](https://www.legislation.gov.uk/ukpga/2009/23/section/195) partly in force; [s. 195](https://www.legislation.gov.uk/ukpga/2009/23/section/195) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-1d6c56e130b48e4a822af20f6dd7fac0]: Commencement: [S. 195](https://www.legislation.gov.uk/ukpga/2009/23/section/195) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/8)
+[^c-1d6c56e130b48e4a822af20f6dd7fac0]: Commencement: [S. 195](https://www.legislation.gov.uk/ukpga/2009/23/section/195) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/8)

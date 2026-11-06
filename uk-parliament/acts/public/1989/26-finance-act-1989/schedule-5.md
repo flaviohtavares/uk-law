@@ -46,7 +46,7 @@ Section 74.
 
 - (a) the number of trustees must not be less than three;
 - (b) all the trustees must be resident in the United Kingdom;
-- (c)[^c13122361][^key-379272297613cf5741fbab5cc2c23249] the trustees must include one person who is a trust corporation, asolicitor, or a member of such other professional body as the Board may fromtime to time allow for the purposes of this paragraph;
+- (c)[^c13122361][^c-379272297613cf5741fbab5cc2c23249] the trustees must include one person who is a trust corporation, asolicitor, or a member of such other professional body as the Board may fromtime to time allow for the purposes of this paragraph;
 - (d) most of the trustees must be persons who are not and have never beendirectors of any company which falls within the founding company’s group atthe relevant time;
 - (e) most of the trustees must be persons who are employees of companies whichfall within the founding company’s group at the relevant time, and who do nothave and have never had a material interest in any such company;
 - (f) the trustees falling within paragraph (e) above must, before beingappointed as trustees, have been selected by a majority of the employees ofthe companies falling within the founding company’s group at the time of theselection or by persons elected to represent those employees.
@@ -163,10 +163,10 @@ and for the purposes of this paragraph a director is a non-professional director
 - (b) at each given time in a qualifying period he was an employee or directorof a company falling within the founding company’s group at that given time,and
 - (c) in the case of a director, at that given time he worked as a[^c13122451] director of the companyconcerned at the rate of at least 20 hours a week (ignoring such matters asholidays and sickness).
 
-(2A)[^c13122461] The trust deed may provide that a person is a beneficiary at a given time if at that time he is eligible to participate in an[^key-d22fcb285ef8845c122c1684bfb0ac93] SAYE option scheme—
+(2A)[^c13122461] The trust deed may provide that a person is a beneficiary at a given time if at that time he is eligible to participate in an[^c-d22fcb285ef8845c122c1684bfb0ac93] SAYE option scheme—
 
 - (a) which was established by a company within the founding company’s group, and
-- (b) which is approved under Schedule 3 to the Income Tax (Earnings and Pensions) Act 2003[^key-094e478ca8d0b5adbcd8660c5ccc4c69].
+- (b) which is approved under Schedule 3 to the Income Tax (Earnings and Pensions) Act 2003[^c-094e478ca8d0b5adbcd8660c5ccc4c69].
 
 (2B)[^c13122461] Where a trust deed contains a rule conforming with sub-paragraph (2A) above it must provide that the only powers and duties which the trustees may exercise in relation to persons who are beneficiaries by virtue only of that rule are those which may be exercised in accordance with the provisions of a scheme such as is mentioned in that sub-paragraph.
 
@@ -204,7 +204,7 @@ and for the purposes of this paragraph a director is a non-professional director
 - (a) it is at that time resident in the United Kingdom, and
 - (b) it is the founding company or it is at that time controlled by thefounding company.
 
-(10)[^key-198a7a882f9bb6b5742b0234a94f8847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-198a7a882f9bb6b5742b0234a94f8847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Trustees’ functions
 
@@ -289,9 +289,9 @@ and for the purposes of this paragraph a director is a non-professional director
 (2ZA)[^c13122721] For the purposes of sub-paragraph (1) above a transfer of securities is also made on qualifying terms if—
 
 - (a) it is made to a person exercising a right to acquire shares, and
-- (b) that right was obtained in accordance with the provisions of an[^key-49bfc9ae2f7f0385f20a3ad6fe853d8c] SAYE option scheme—
+- (b) that right was obtained in accordance with the provisions of an[^c-49bfc9ae2f7f0385f20a3ad6fe853d8c] SAYE option scheme—
   - (i) which was established by, or by a company controlled by, the founding company, and
-  - (ii) which is approved under Schedule 3 to the Income Tax (Earnings and Pensions) Act 2003[^key-d283edb434dc0e80f6af7b8c4fa3b910], and
+  - (ii) which is approved under Schedule 3 to the Income Tax (Earnings and Pensions) Act 2003[^c-d283edb434dc0e80f6af7b8c4fa3b910], and
 - (c) that right is being exercised in accordance with the provisions of that scheme, and
 - (d) the consideration for the transfer is payable to the trustees.
 
@@ -306,7 +306,7 @@ and for the purposes of this paragraph a director is a non-professional director
 
 ### Other features
 
-**10.**[^c13122751] The trust deed must not contain features which are not essential orreasonably incidental to the purpose of acquiring sums and securities, granting rights to acquire shares to persons who are eligible to participate in[^c13122761] SAYE[^key-b260c692b1c8644e2c640f3fbb52be3b] option schemes approved under Schedule 3 to the Income Tax (Earnings and Pensions) Act 2003, transferring shares to such persons, transferring sums and securities to employees and directors, and transferringsecurities to the trustees of profit sharing schemes approved under Schedule 9 to the Taxes Act 1988[^key-aa89f9aa67c81240a9aa5d2cdf401c9a].
+**10.**[^c13122751] The trust deed must not contain features which are not essential orreasonably incidental to the purpose of acquiring sums and securities, granting rights to acquire shares to persons who are eligible to participate in[^c13122761] SAYE[^c-b260c692b1c8644e2c640f3fbb52be3b] option schemes approved under Schedule 3 to the Income Tax (Earnings and Pensions) Act 2003, transferring shares to such persons, transferring sums and securities to employees and directors, and transferringsecurities to the trustees of profit sharing schemes approved under Schedule 9 to the Taxes Act 1988[^c-aa89f9aa67c81240a9aa5d2cdf401c9a].
 
 ### Rules about acquisition etc.
 
@@ -353,7 +353,7 @@ and for the purposes of this paragraph a director is a non-professional director
 - (a) shares;
 - (b) debentures.
 
-**15.**[^c13122901] For the purposes of this Schedule, the question whether one company is controlled by another shall be construed in accordance with section 995 of the Income Tax Act 2007[^key-7102dee947277eebbb2890d504f0b707].
+**15.**[^c13122901] For the purposes of this Schedule, the question whether one company is controlled by another shall be construed in accordance with section 995 of the Income Tax Act 2007[^c-7102dee947277eebbb2890d504f0b707].
 
 **16.**[^c13122911] (1) For the purposes of this Schedule a person shall be treated as having a material interest in a company if he, either on his own or with one or more of his associates, or if any associate of his with or without other such associates,—
 
@@ -362,9 +362,9 @@ and for the purposes of this paragraph a director is a non-professional director
 
 (2) In this paragraph—
 
-- (a) “**associate**” has the meaning given by section 448 of the Corporation Tax Act 2010[^key-5dd810e7eb2dbc60bf17de3ec99049b2], but subject to sub-paragraph (3) below,
-- (b) “**control**” has the meaning given by section 995 of the Income Tax Act 2007[^key-cd874273ea41b1fbfa80ddcdb63714d3], and
-- (c) “**participator**” has the meaning given by section 454 of the Corporation Tax Act 2010[^key-bb586a3897726a34e91a9d128e207402].
+- (a) “**associate**” has the meaning given by section 448 of the Corporation Tax Act 2010[^c-5dd810e7eb2dbc60bf17de3ec99049b2], but subject to sub-paragraph (3) below,
+- (b) “**control**” has the meaning given by section 995 of the Income Tax Act 2007[^c-cd874273ea41b1fbfa80ddcdb63714d3], and
+- (c) “**participator**” has the meaning given by section 454 of the Corporation Tax Act 2010[^c-bb586a3897726a34e91a9d128e207402].
 
 (3) Where a person has an interest in shares or obligations of the company asa beneficiary of an employee benefit trust, the trustees shall not be regarded as associates of his by reason only of that interest unless sub-paragraph (5)below applies in relation to him.
 
@@ -381,7 +381,7 @@ has been the beneficial owner of, or able (directly or through the medium of oth
 
 **17.**[^c13122921] For the purposes of this Schedule a trust is established when the deed under which it is established is executed.
 
-**18.**[^key-1edebca7acd9e83e7f80ae180c632ecf] For the purposes of this Schedule “**SAYE option scheme**” has the same meaning as in the SAYE code (see section 516 of the Income Tax (Earnings and Pensions) Act 2003 (approved SAYE option schemes)).
+**18.**[^c-1edebca7acd9e83e7f80ae180c632ecf] For the purposes of this Schedule “**SAYE option scheme**” has the same meaning as in the SAYE code (see section 516 of the Income Tax (Earnings and Pensions) Act 2003 (approved SAYE option schemes)).
 
 ## Annotations
 
@@ -395,7 +395,7 @@ has been the beneficial owner of, or able (directly or through the medium of oth
 
 [^c13122361]: Modification: [Schedule 5 para. 3(3)(c)](https://www.legislation.gov.uk/ukpga/1989/26/schedule/5/paragraph/3/3/c) amended (1.1.1992) by [S.I. 1991/2684](https://www.legislation.gov.uk/uksi/1991/2684), [arts. 2(1)](https://www.legislation.gov.uk/uksi/1991/2684/article/2/1), [4](https://www.legislation.gov.uk/uksi/1991/2684/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2684/schedule/1)
 
-[^key-379272297613cf5741fbab5cc2c23249]: Modification: [Sch. 5 para. 3(3)(c)](https://www.legislation.gov.uk/ukpga/1989/26/schedule/5/paragraph/3/3/c) applied (with modifications) (E.W.) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)
+[^c-379272297613cf5741fbab5cc2c23249]: Modification: [Sch. 5 para. 3(3)(c)](https://www.legislation.gov.uk/ukpga/1989/26/schedule/5/paragraph/3/3/c) applied (with modifications) (E.W.) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)
 
 [^c13122371]: Textual amendment: [Sch. 5 para. 3(5)](https://www.legislation.gov.uk/ukpga/1989/26/schedule/5/paragraph/3/5) inserted (3.5.1994) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 102](https://www.legislation.gov.uk/ukpga/1994/9/section/102), [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/1994/9/schedule/13/paragraph/2)
 
@@ -411,9 +411,9 @@ has been the beneficial owner of, or able (directly or through the medium of oth
 
 [^c13122461]: Textual amendment: Sch. 5 para. 4(2A)(2B) inserted (29.4.1996 with effect in relation to trusts established on or after 29.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 120(1)(12)](https://www.legislation.gov.uk/ukpga/1996/8/section/120/1/12)
 
-[^key-d22fcb285ef8845c122c1684bfb0ac93]: Textual amendment: Words in Sch. 5 para. 4(2A) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 163(2)(a)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/163/2/a) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-d22fcb285ef8845c122c1684bfb0ac93]: Textual amendment: Words in Sch. 5 para. 4(2A) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 163(2)(a)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/163/2/a) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
-[^key-094e478ca8d0b5adbcd8660c5ccc4c69]: Textual amendment: Words in Sch. 5 para. 4(2A)(b) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 163(2)(b)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/163/2/b) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-094e478ca8d0b5adbcd8660c5ccc4c69]: Textual amendment: Words in Sch. 5 para. 4(2A)(b) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 163(2)(b)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/163/2/b) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
 [^c13122481]: Textual amendment: Words in Sch. 5 para. 4(4) inserted (29.4.1996 with effect in relation to trusts established on or after 29.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 120(5)(12)](https://www.legislation.gov.uk/ukpga/1996/8/section/120/5/12)
 
@@ -423,7 +423,7 @@ has been the beneficial owner of, or able (directly or through the medium of oth
 
 [^c13122511]: Textual amendment: Words in Sch. 5 para. 4(8) inserted (29.4.1996 with effect in relation to trusts established on or after 29.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 120(7)(12)](https://www.legislation.gov.uk/ukpga/1996/8/section/120/7/12)
 
-[^key-198a7a882f9bb6b5742b0234a94f8847]: Textual amendment: Sch. 5 para. 4(10) omitted (with effect in accordance with art. 7 of the commencing S.I.) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 12](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/12), [34(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/34/2); [S.I. 2012/736](https://www.legislation.gov.uk/uksi/2012/736), [art. 7](https://www.legislation.gov.uk/uksi/2012/736/article/7)
+[^c-198a7a882f9bb6b5742b0234a94f8847]: Textual amendment: Sch. 5 para. 4(10) omitted (with effect in accordance with art. 7 of the commencing S.I.) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 12](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/12), [34(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/34/2); [S.I. 2012/736](https://www.legislation.gov.uk/uksi/2012/736), [art. 7](https://www.legislation.gov.uk/uksi/2012/736/article/7)
 
 [^c13122531]: Modification: *See* [Finance Act 1990 (c. 29)](https://www.legislation.gov.uk/ukpga/1990/29) ss.31–40—*roll-over relief for disposal of shares to employeeshare ownership trusts*
 
@@ -451,9 +451,9 @@ has been the beneficial owner of, or able (directly or through the medium of oth
 
 [^c13122721]: Textual amendment: Sch. 5 para. 9(2ZA) inserted (29.4.1996 with effect in relation to trusts established on or after 29.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 120(10)(12)](https://www.legislation.gov.uk/ukpga/1996/8/section/120/10/12)
 
-[^key-49bfc9ae2f7f0385f20a3ad6fe853d8c]: Textual amendment: Words in [Sch. 5 para. 9(2ZA)(b)](https://www.legislation.gov.uk/ukpga/1989/26/schedule/5/paragraph/9/2ZA/b) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 163(3)(a)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/163/3/a) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-49bfc9ae2f7f0385f20a3ad6fe853d8c]: Textual amendment: Words in [Sch. 5 para. 9(2ZA)(b)](https://www.legislation.gov.uk/ukpga/1989/26/schedule/5/paragraph/9/2ZA/b) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 163(3)(a)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/163/3/a) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
-[^key-d283edb434dc0e80f6af7b8c4fa3b910]: Textual amendment: Words in [Sch. 5 para. 9(2ZA)(b)(ii)](https://www.legislation.gov.uk/ukpga/1989/26/schedule/5/paragraph/9/2ZA/b/ii) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 163(3)(b)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/163/3/b) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-d283edb434dc0e80f6af7b8c4fa3b910]: Textual amendment: Words in [Sch. 5 para. 9(2ZA)(b)(ii)](https://www.legislation.gov.uk/ukpga/1989/26/schedule/5/paragraph/9/2ZA/b/ii) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 163(3)(b)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/163/3/b) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
 [^c13122731]: Textual amendment: Sch. 5 para. 9(2A) inserted (3.5.1994) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 102](https://www.legislation.gov.uk/ukpga/1994/9/section/102), [Sch. 13 para. 7(3)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/13/paragraph/7/3)
 
@@ -461,9 +461,9 @@ has been the beneficial owner of, or able (directly or through the medium of oth
 
 [^c13122761]: Textual amendment: Words in Sch. 5 para. 10 inserted (29.4.1996 with effect in relation to trusts established on or after 29.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 120(11)(a)(12)](https://www.legislation.gov.uk/ukpga/1996/8/section/120/11/a/12)
 
-[^key-b260c692b1c8644e2c640f3fbb52be3b]: Textual amendment: Words in [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/1989/26/schedule/5/paragraph/10) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 163(4)(a)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/163/4/a) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-b260c692b1c8644e2c640f3fbb52be3b]: Textual amendment: Words in [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/1989/26/schedule/5/paragraph/10) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 163(4)(a)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/163/4/a) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
-[^key-aa89f9aa67c81240a9aa5d2cdf401c9a]: Textual amendment: Words in [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/1989/26/schedule/5/paragraph/10) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 163(4)(b)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/163/4/b) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-aa89f9aa67c81240a9aa5d2cdf401c9a]: Textual amendment: Words in [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/1989/26/schedule/5/paragraph/10) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 163(4)(b)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/163/4/b) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
 [^c13122801]: Modification: *See* [Finance Act 1990 (c. 29)](https://www.legislation.gov.uk/ukpga/1990/29) ss.31–40—*roll-over relief for disposal of shares to employeeshare ownership trusts*
 
@@ -483,16 +483,16 @@ has been the beneficial owner of, or able (directly or through the medium of oth
 
 [^c13122901]: Modification: *See* [Finance Act 1990 (c. 29)](https://www.legislation.gov.uk/ukpga/1990/29) ss.31–40—*roll-over relief for disposal of shares to employeeshare ownership trusts*
 
-[^key-7102dee947277eebbb2890d504f0b707]: Textual amendment: Words in Sch. 5 para. 15 substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 283(2)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/283/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-7102dee947277eebbb2890d504f0b707]: Textual amendment: Words in Sch. 5 para. 15 substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 283(2)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/283/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c13122911]: Modification: *See* [Finance Act 1990 (c. 29)](https://www.legislation.gov.uk/ukpga/1990/29) ss.31–40—*roll-over relief for disposal of shares to employee share ownership trusts*
 
-[^key-5dd810e7eb2dbc60bf17de3ec99049b2]: Textual amendment: Words in [Sch. 5 para. 16(2)(a)](https://www.legislation.gov.uk/ukpga/1989/26/schedule/5/paragraph/16/2/a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 216(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/216/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-5dd810e7eb2dbc60bf17de3ec99049b2]: Textual amendment: Words in [Sch. 5 para. 16(2)(a)](https://www.legislation.gov.uk/ukpga/1989/26/schedule/5/paragraph/16/2/a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 216(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/216/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-cd874273ea41b1fbfa80ddcdb63714d3]: Textual amendment: Words in Sch. 5 para. 16(2)(b) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 283(3)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/283/3/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-cd874273ea41b1fbfa80ddcdb63714d3]: Textual amendment: Words in Sch. 5 para. 16(2)(b) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 283(3)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/283/3/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-bb586a3897726a34e91a9d128e207402]: Textual amendment: Words in [Sch. 5 para. 16(2)(c)](https://www.legislation.gov.uk/ukpga/1989/26/schedule/5/paragraph/16/2/c) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 216(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/216/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-bb586a3897726a34e91a9d128e207402]: Textual amendment: Words in [Sch. 5 para. 16(2)(c)](https://www.legislation.gov.uk/ukpga/1989/26/schedule/5/paragraph/16/2/c) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 216(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/216/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c13122921]: Textual amendment: Sch. 5 para. 17 inserted (3.5.1994) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 102](https://www.legislation.gov.uk/ukpga/1994/9/section/102), [Sch. 13 para. 8](https://www.legislation.gov.uk/ukpga/1994/9/schedule/13/paragraph/8)
 
-[^key-1edebca7acd9e83e7f80ae180c632ecf]: Textual amendment: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/1989/26/schedule/5/paragraph/18) inserted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 163(5)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/163/5) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-1edebca7acd9e83e7f80ae180c632ecf]: Textual amendment: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/1989/26/schedule/5/paragraph/18) inserted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 163(5)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/163/5) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Effect of payment of premiums on rights.[^key-036c31ef7347b27efbfd0fe3c8cdd455]
+## 60. Effect of payment of premiums on rights.[^c-036c31ef7347b27efbfd0fe3c8cdd455]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-036c31ef7347b27efbfd0fe3c8cdd455]: Textual amendment: [Ss. 55-68](https://www.legislation.gov.uk/ukpga/1993/48/section/55) repealed (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 37](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/37) (with savings in [The Pensions Act 2014 (Savings) Order 2015 (S.I. 2015/1502)](https://www.legislation.gov.uk/uksi/2015/1502), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/3), [2(4)-(5F)](https://www.legislation.gov.uk/uksi/2015/1502/article/2/4))
+[^c-036c31ef7347b27efbfd0fe3c8cdd455]: Textual amendment: [Ss. 55-68](https://www.legislation.gov.uk/ukpga/1993/48/section/55) repealed (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 37](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/37) (with savings in [The Pensions Act 2014 (Savings) Order 2015 (S.I. 2015/1502)](https://www.legislation.gov.uk/uksi/2015/1502), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/3), [2(4)-(5F)](https://www.legislation.gov.uk/uksi/2015/1502/article/2/4))

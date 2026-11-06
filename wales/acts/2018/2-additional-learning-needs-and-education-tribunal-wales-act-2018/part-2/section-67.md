@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Provision of goods or services in relation to additional learning provision[^key-a498b399b966af7959daed77d6b123ca]
+## 67. Provision of goods or services in relation to additional learning provision[^c-a498b399b966af7959daed77d6b123ca]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a498b399b966af7959daed77d6b123ca]: Commencement: S. 67 in force at 2.11.2020 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 2(f)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/2/f)
+[^c-a498b399b966af7959daed77d6b123ca]: Commencement: S. 67 in force at 2.11.2020 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 2(f)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/2/f)

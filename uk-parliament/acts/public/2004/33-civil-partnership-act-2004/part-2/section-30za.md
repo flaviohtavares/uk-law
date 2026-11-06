@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30ZA. Religious involvement: protection against compulsion[^key-58e23767c10aca4defe32b45ab514b9f]
+## 30ZA. Religious involvement: protection against compulsion[^c-58e23767c10aca4defe32b45ab514b9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ where the person does not wish to do things of that sort in relation to civil pa
 
 ## Annotations
 
-[^key-58e23767c10aca4defe32b45ab514b9f]: Textual amendment: [S. 30ZA](https://www.legislation.gov.uk/ukpga/2004/33/section/30ZA) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/9/3)
+[^c-58e23767c10aca4defe32b45ab514b9f]: Textual amendment: [S. 30ZA](https://www.legislation.gov.uk/ukpga/2004/33/section/30ZA) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/9/3)

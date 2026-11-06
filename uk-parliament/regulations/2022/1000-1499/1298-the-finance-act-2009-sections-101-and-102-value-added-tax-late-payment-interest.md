@@ -46,7 +46,7 @@ The Treasury make this Order in exercise of the powers conferred by section 39 o
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement, effect and interpretation[^key-5bc00d32c7f9313c2b9e48e7a4b4e6aa]
+### 1. Citation, commencement, effect and interpretation[^c-5bc00d32c7f9313c2b9e48e7a4b4e6aa]
 
 (1) This Order may be cited as the Finance Act 2009, Sections 101 and 102 (Value Added Tax) (Late Payment Interest and Repayment Interest) (Exceptions and Consequential Amendments) Order 2022.
 
@@ -68,13 +68,13 @@ The Treasury make this Order in exercise of the powers conferred by section 39 o
 
 ## PART 2 — Exceptions
 
-### 1A. Exception from section 101 of the Finance Act 2009 - late payment interest[^key-4c5840038c6a95492cbcd35577c2e834]
+### 1A. Exception from section 101 of the Finance Act 2009 - late payment interest[^c-4c5840038c6a95492cbcd35577c2e834]
 
 (1) Section 101 of the Finance Act 2009 (late payment interest on sums due to HMRC) does not apply to annual accounting scheme instalments.
 
 (2) In paragraph (1) “**annual accounting scheme instalment**” means an amount payable to HMRC by virtue of regulation 50(2)(a) of the VAT Regulations.
 
-### 2. Exceptions from section 102 of the Finance Act 2009 - repayment interest[^key-826cd26471aeb5fe6c0e0f1385eba273]
+### 2. Exceptions from section 102 of the Finance Act 2009 - repayment interest[^c-826cd26471aeb5fe6c0e0f1385eba273]
 
 (1) Section 102 of the Finance Act 2009 (repayment interest on sums to be paid by HMRC)[^f00008] does not apply to an amount that is payable by HMRC to any person under the provisions listed in paragraph (2) if the amount is payable otherwise than in consequence of a return made by the person in accordance with regulation 25 of the VAT Regulations (making of returns)[^f00009].
 
@@ -95,11 +95,11 @@ The Treasury make this Order in exercise of the powers conferred by section 39 o
 
 ### 3. Value Added Tax Act 1994
 
-(1)[^key-ef44d715500f90c66c1e0336dc792642] VATA 1994 is amended as follows.
+(1)[^c-ef44d715500f90c66c1e0336dc792642] VATA 1994 is amended as follows.
 
-(2)[^key-ef44d715500f90c66c1e0336dc792642] Omit section 74 (interest on VAT recovered or recoverable by assessment).
+(2)[^c-ef44d715500f90c66c1e0336dc792642] Omit section 74 (interest on VAT recovered or recoverable by assessment).
 
-(3)[^key-ef44d715500f90c66c1e0336dc792642] In section 76 (assessment of amounts due by way of penalty or interest)[^f00020]—
+(3)[^c-ef44d715500f90c66c1e0336dc792642] In section 76 (assessment of amounts due by way of penalty or interest)[^f00020]—
 
 - (a) in the heading, omit “or interest”;
 - (b) in subsection (1)—
@@ -119,9 +119,9 @@ The Treasury make this Order in exercise of the powers conferred by section 39 o
   - (ii) omit paragraph (b) and the “or” before that paragraph;
   - (iii) in the words after paragraph (b), omit “or, as the case may be, section 74”.
 
-(4)[^key-ef44d715500f90c66c1e0336dc792642] In section 77 (assessments: time limits and supplementary assessments)[^f00021], in each of subsections (2), (3) and (5), omit “or interest”.
+(4)[^c-ef44d715500f90c66c1e0336dc792642] In section 77 (assessments: time limits and supplementary assessments)[^f00021], in each of subsections (2), (3) and (5), omit “or interest”.
 
-(5)[^key-4f4723a492a8ab55700f401ed95b6377] After section 77 insert—
+(5)[^c-4f4723a492a8ab55700f401ed95b6377] After section 77 insert—
 
 > **77ZA. Late payment interest on amounts of VAT due**
 >
@@ -129,17 +129,17 @@ The Treasury make this Order in exercise of the powers conferred by section 39 o
 
 .
 
-(6)[^key-ef44d715500f90c66c1e0336dc792642] Omit section 77D (joint and several liability under section 77B or section 77BA: interest).
+(6)[^c-ef44d715500f90c66c1e0336dc792642] Omit section 77D (joint and several liability under section 77B or section 77BA: interest).
 
-(7)[^key-ef44d715500f90c66c1e0336dc792642] Omit section 78 (interest in certain cases of official error).
+(7)[^c-ef44d715500f90c66c1e0336dc792642] Omit section 78 (interest in certain cases of official error).
 
-(8)[^key-ef44d715500f90c66c1e0336dc792642] Omit section 78A (assessment for interest overpayments).
+(8)[^c-ef44d715500f90c66c1e0336dc792642] Omit section 78A (assessment for interest overpayments).
 
-(9)[^key-ef44d715500f90c66c1e0336dc792642] Omit section 79 (repayment supplement in respect of certain delayed payments or refunds).
+(9)[^c-ef44d715500f90c66c1e0336dc792642] Omit section 79 (repayment supplement in respect of certain delayed payments or refunds).
 
-(10)[^key-ef44d715500f90c66c1e0336dc792642] In section 80 (credit for, or repayment of, overstated or overpaid VAT)[^f00022], omit subsection (4C).
+(10)[^c-ef44d715500f90c66c1e0336dc792642] In section 80 (credit for, or repayment of, overstated or overpaid VAT)[^f00022], omit subsection (4C).
 
-(11)[^key-ef44d715500f90c66c1e0336dc792642] In section 80B (assessments of amounts due under section 80A arrangements)—
+(11)[^c-ef44d715500f90c66c1e0336dc792642] In section 80B (assessments of amounts due under section 80A arrangements)—
 
 - (a) omit subsection (2);
 - (b) at the end insert—
@@ -148,7 +148,7 @@ The Treasury make this Order in exercise of the powers conferred by section 39 o
 
   .
 
-(12)[^key-ef44d715500f90c66c1e0336dc792642] After section 80B insert—
+(12)[^c-ef44d715500f90c66c1e0336dc792642] After section 80B insert—
 
 > **80C. Assessed amounts of overpayments etc deemed to be amounts of VAT**
 >
@@ -173,22 +173,22 @@ The Treasury make this Order in exercise of the powers conferred by section 39 o
 
 .
 
-(13)[^key-ef44d715500f90c66c1e0336dc792642] In section 83 (appeals)[^f00025], in subsection (1)—
+(13)[^c-ef44d715500f90c66c1e0336dc792642] In section 83 (appeals)[^f00025], in subsection (1)—
 
 - (a) in paragraph (q), omit “or interest”;
 - (b) omit paragraphs (s) and (sa).
 
-(14)[^key-ef44d715500f90c66c1e0336dc792642] In section 85A (payment of tax on determination of appeal)[^f00026]—
+(14)[^c-ef44d715500f90c66c1e0336dc792642] In section 85A (payment of tax on determination of appeal)[^f00026]—
 
 - (a) in subsection (2), in the words after paragraph (b), omit the words from “with interest” to the end of that subsection;
 - (b) in subsection (3), in the words after paragraph (b), omit the words from “with interest” to the end of that subsection;
 - (c) omit subsections (4) and (5).
 
-(15)[^key-ef44d715500f90c66c1e0336dc792642] In section 97 (orders, rules and regulations), in subsection (5), omit paragraph (a) and the “or” at the end of that paragraph.
+(15)[^c-ef44d715500f90c66c1e0336dc792642] In section 97 (orders, rules and regulations), in subsection (5), omit paragraph (a) and the “or” at the end of that paragraph.
 
-(16)[^key-ef44d715500f90c66c1e0336dc792642] In Schedule 9ZA (VAT on acquisitions in Northern Ireland from member States), omit paragraph 30 (interest on VAT).
+(16)[^c-ef44d715500f90c66c1e0336dc792642] In Schedule 9ZA (VAT on acquisitions in Northern Ireland from member States), omit paragraph 30 (interest on VAT).
 
-(17)[^key-ef44d715500f90c66c1e0336dc792642] In Schedule 9A (anti-avoidance provisions: groups)[^f00027], in paragraph 6 (assessment in consequence of a direction)—
+(17)[^c-ef44d715500f90c66c1e0336dc792642] In Schedule 9A (anti-avoidance provisions: groups)[^f00027], in paragraph 6 (assessment in consequence of a direction)—
 
 - (a) for sub-paragraph (9) substitute—
 
@@ -197,7 +197,7 @@ The Treasury make this Order in exercise of the powers conferred by section 39 o
   ;
 - (b) omit sub-paragraph (10).
 
-### 4. Income Tax (Trading and Other Income) Act 2005[^key-761feabc4bb509ddb87a1c2086248bd5]
+### 4. Income Tax (Trading and Other Income) Act 2005[^c-761feabc4bb509ddb87a1c2086248bd5]
 
 (1) The Income Tax (Trading and Other Income) Act 2005[^f00028] is amended as follows.
 
@@ -207,7 +207,7 @@ The Treasury make this Order in exercise of the powers conferred by section 39 o
 
 (4) In section 869 (penalties and interest: non-trades etc)[^f00030], in the table in subsection (4), in the entry for interest under section 74 or 85A of VATA 1994, for the first column substitute “Interest under section 101 of FA 2009 in respect of an amount of value added tax”.
 
-### 5. Corporation Tax Act 2009[^key-9673b2e2cfaff272e32dbfd65b410013]
+### 5. Corporation Tax Act 2009[^c-9673b2e2cfaff272e32dbfd65b410013]
 
 (1) The Corporation Tax Act 2009[^f00031] is amended as follows.
 
@@ -215,13 +215,13 @@ The Treasury make this Order in exercise of the powers conferred by section 39 o
 
 (3) In section 1303 (penalties and interest)[^f00032], in the table in subsection (2), in the entry for interest under section 74 of VATA 1994, for the first column substitute “Interest under section 101 of FA 2009 in respect of an amount of value added tax”.
 
-### 6. Value Added Tax Regulations 1995[^key-cf375dba376706fbdf66c4164b403428]
+### 6. Value Added Tax Regulations 1995[^c-cf375dba376706fbdf66c4164b403428]
 
-(1)[^key-cf375dba376706fbdf66c4164b403428] The VAT Regulations are amended as follows.
+(1)[^c-cf375dba376706fbdf66c4164b403428] The VAT Regulations are amended as follows.
 
-(2)[^key-cf375dba376706fbdf66c4164b403428] In regulation 184A (application of Part 20A)[^f00033], for “184K” substitute “184KB”.
+(2)[^c-cf375dba376706fbdf66c4164b403428] In regulation 184A (application of Part 20A)[^f00033], for “184K” substitute “184KB”.
 
-(3)[^key-cf375dba376706fbdf66c4164b403428] After regulation 184K (modification of regulation 173O)[^f00034], insert—
+(3)[^c-cf375dba376706fbdf66c4164b403428] After regulation 184K (modification of regulation 173O)[^f00034], insert—
 
 > **184KA.** In regulation 173W(3)[^f00035], for “section 78 of the Act” read “section 102(3) of the Finance Act 2009”.
 >
@@ -238,9 +238,9 @@ The Treasury make this Order in exercise of the powers conferred by section 39 o
 
 .
 
-(4)[^key-feadc0bac374e607dbc3aa936a606048] Omit regulations 198 (computation of period) and 199 (duration of period).
+(4)[^c-feadc0bac374e607dbc3aa936a606048] Omit regulations 198 (computation of period) and 199 (duration of period).
 
-### 7. The Value Added Tax (Accounting Procedures for Import VAT for VAT Registered Persons and Amendment) (EU Exit) Regulations 2019[^key-902fd64b495c9e6b31ee48dacdf2fb13]
+### 7. The Value Added Tax (Accounting Procedures for Import VAT for VAT Registered Persons and Amendment) (EU Exit) Regulations 2019[^c-902fd64b495c9e6b31ee48dacdf2fb13]
 
 (1) The Value Added Tax (Accounting Procedures for Import VAT for VAT Registered Persons and Amendment) (EU Exit) Regulations 2019[^f00038] are amended as follows.
 
@@ -248,7 +248,7 @@ The Treasury make this Order in exercise of the powers conferred by section 39 o
 
 (3) In regulation 10(1) (appeals), omit sub-paragraph (a).
 
-### 8. The Value Added Tax (Miscellaneous and Transitional Provisions, Amendment and Revocation) (EU Exit) Regulations 2020[^key-45ea6603f05868c0348d4bfe1b96bcca]
+### 8. The Value Added Tax (Miscellaneous and Transitional Provisions, Amendment and Revocation) (EU Exit) Regulations 2020[^c-45ea6603f05868c0348d4bfe1b96bcca]
 
 (1) The Value Added Tax (Miscellaneous and Transitional Provisions, Amendment and Revocation) (EU Exit) Regulations 2020[^f00039] is amended as follows.
 
@@ -301,7 +301,7 @@ A Tax Information and Impact Note covering this policy was published on 3rd Marc
 
 [^f00002]: Footnote: [2009 c. 10](https://www.legislation.gov.uk/ukpga/2009/10). [S.I. 2022/1277](https://www.legislation.gov.uk/uksi/2022/1277) appoints 6th December 2022 as the day on which section 102(2)(c) comes into force for the purposes of making an order under that provision for the purposes of value added tax.
 
-[^key-5bc00d32c7f9313c2b9e48e7a4b4e6aa]: Commencement: Art. 1 in force at 1.1.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/2)
+[^c-5bc00d32c7f9313c2b9e48e7a4b4e6aa]: Commencement: Art. 1 in force at 1.1.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/2)
 
 [^f00003]: Footnote: [2021 c. 26](https://www.legislation.gov.uk/ukpga/2021/26).
 
@@ -313,9 +313,9 @@ A Tax Information and Impact Note covering this policy was published on 3rd Marc
 
 [^f00007]: Footnote: [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518).
 
-[^key-4c5840038c6a95492cbcd35577c2e834]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/uksi/2022/1298/article/1A) inserted (15.3.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/334/1)[(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/334/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/30/section/334/5)
+[^c-4c5840038c6a95492cbcd35577c2e834]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/uksi/2022/1298/article/1A) inserted (15.3.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/334/1)[(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/334/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/30/section/334/5)
 
-[^key-826cd26471aeb5fe6c0e0f1385eba273]: Commencement: Art. 2 in force at 1.1.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/2)
+[^c-826cd26471aeb5fe6c0e0f1385eba273]: Commencement: Art. 2 in force at 1.1.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/2)
 
 [^f00008]: Footnote: [S.I. 2022/1277](https://www.legislation.gov.uk/uksi/2022/1277) appoints 1st January 2023 as the day on which section 102 comes into force for the purposes of value added tax and commences amendments made to that section by paragraph 2 of Schedule 29 to the Finance Act 2021.
 
@@ -341,13 +341,13 @@ A Tax Information and Impact Note covering this policy was published on 3rd Marc
 
 [^f00019]: Footnote: Regulation 111(5) was amended by [S.I. 1997/1086](https://www.legislation.gov.uk/uksi/1997/1086).
 
-[^key-ef44d715500f90c66c1e0336dc792642]: Commencement: Art. 3(1)-(4)(6)-(17) in force at 1.1.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/3)
+[^c-ef44d715500f90c66c1e0336dc792642]: Commencement: Art. 3(1)-(4)(6)-(17) in force at 1.1.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/3)
 
 [^f00020]: Footnote: Section 76 was relevantly amended by paragraph 11 of Schedule 3 to the Finance Act 1996, section 93(5) and (7) of the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), paragraph 67(4) of Schedule 8 to the Taxation (Cross-border Trade) Act 2018 and paragraph 20 of Schedule 27 to the Finance Act 2021 (coming into force on 1st January 2023. See [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278)).
 
 [^f00021]: Footnote: Section 77 was relevantly amended by section 18(1) of the Finance Act 1999, paragraph 34(4) of Schedule 39 to the Finance Act 2008, paragraph 15 of Schedule 22 to the Finance Act [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26) and paragraph 69 of Schedule 8 to the Taxation (Cross-border Trade) Act 2018.
 
-[^key-4f4723a492a8ab55700f401ed95b6377]: Commencement: Art. 3(5) in force at 1.1.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/2)
+[^c-4f4723a492a8ab55700f401ed95b6377]: Commencement: Art. 3(5) in force at 1.1.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/2)
 
 [^f00022]: Footnote: Section 80(4C) was inserted by section 47(6) of the Finance Act 1997 and amended by section 120(4) of the Finance Act 2008.
 
@@ -361,7 +361,7 @@ A Tax Information and Impact Note covering this policy was published on 3rd Marc
 
 [^f00027]: Footnote: Schedule 9A was inserted by Schedule 4 to the Finance Act 1996.
 
-[^key-761feabc4bb509ddb87a1c2086248bd5]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2022/1298/article/4) in force at 1.1.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/3)
+[^c-761feabc4bb509ddb87a1c2086248bd5]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2022/1298/article/4) in force at 1.1.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/3)
 
 [^f00028]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5).
 
@@ -369,13 +369,13 @@ A Tax Information and Impact Note covering this policy was published on 3rd Marc
 
 [^f00030]: Footnote: Section 869 was relevantly amended by paragraph 35 of Schedule 27 to the Finance Act 2021 (coming into force on 1st January 2023. See [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278)) and [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56).
 
-[^key-9673b2e2cfaff272e32dbfd65b410013]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2022/1298/article/5) in force at 1.1.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/3)
+[^c-9673b2e2cfaff272e32dbfd65b410013]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2022/1298/article/5) in force at 1.1.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/3)
 
 [^f00031]: Footnote: [2009 c. 4](https://www.legislation.gov.uk/ukpga/2009/4).
 
 [^f00032]: Footnote: The heading to section 1303 was amended by paragraph 36(a) of Schedule 27 to the Finance Act 2021 (coming into force on 1st January 2023. See [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278)).
 
-[^key-cf375dba376706fbdf66c4164b403428]: Commencement: Art. 6(1)-(3) in force at 1.1.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/2)
+[^c-cf375dba376706fbdf66c4164b403428]: Commencement: Art. 6(1)-(3) in force at 1.1.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/2)
 
 [^f00033]: Footnote: Regulation 184A was inserted by [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545).
 
@@ -387,12 +387,12 @@ A Tax Information and Impact Note covering this policy was published on 3rd Marc
 
 [^f00037]: Footnote: Schedule 54A was inserted by paragraph 12 of Schedule 9 to the Finance (No. 3) Act [2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33) (coming into force for the purposes of value added tax on 1st January 2023. See [S.I. 2022/1277](https://www.legislation.gov.uk/uksi/2022/1277)) and was amended by paragraph 4 of Schedule 29 to the Finance Act 2021 (coming into force on 1st January 2023. See [S.I. 2022/1277](https://www.legislation.gov.uk/uksi/2022/1277)).
 
-[^key-feadc0bac374e607dbc3aa936a606048]: Commencement: [Art. 6(4)](https://www.legislation.gov.uk/uksi/2022/1298/article/6/4) in force at 1.1.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/3)
+[^c-feadc0bac374e607dbc3aa936a606048]: Commencement: [Art. 6(4)](https://www.legislation.gov.uk/uksi/2022/1298/article/6/4) in force at 1.1.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/3)
 
-[^key-902fd64b495c9e6b31ee48dacdf2fb13]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2022/1298/article/7) in force at 1.1.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/3)
+[^c-902fd64b495c9e6b31ee48dacdf2fb13]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2022/1298/article/7) in force at 1.1.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/3)
 
 [^f00038]: Footnote: [S.I. 2019/60](https://www.legislation.gov.uk/uksi/2019/60).
 
-[^key-45ea6603f05868c0348d4bfe1b96bcca]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2022/1298/article/8) in force at 1.1.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/3)
+[^c-45ea6603f05868c0348d4bfe1b96bcca]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2022/1298/article/8) in force at 1.1.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/3)
 
 [^f00039]: Footnote: [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495).

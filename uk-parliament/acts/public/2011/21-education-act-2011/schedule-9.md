@@ -24,7 +24,7 @@ Section 27
 
 ### Staff transfer schemes
 
-**1.**[^key-021dbb37db46c7d48deccc722c8f0b68] (1) The Secretary of State may make a scheme (a “staff transfer scheme”) providing—
+**1.**[^c-021dbb37db46c7d48deccc722c8f0b68] (1) The Secretary of State may make a scheme (a “staff transfer scheme”) providing—
 
 - (a) for a designated employee of the QCDA to become a member of staff of Ofqual or the Secretary of State (“the Crown employer”) (and accordingly to become employed in the civil service of the state);
 - (b) so far as may be consistent with employment in the civil service of the state, for the terms and conditions of the employee's employment with the QCDA to have effect as if they were the conditions of service as a member of the Crown employer's staff;
@@ -41,7 +41,7 @@ Section 27
 
 ### Property transfer schemes
 
-**2.**[^key-434d407fd3a2deb95a16a8ceafa612d4] (1) The Secretary of State may make a scheme (a “property transfer scheme”) providing for the transfer from the QCDA of designated property, rights or liabilities of the QCDA to Ofqual or the Secretary of State.
+**2.**[^c-434d407fd3a2deb95a16a8ceafa612d4] (1) The Secretary of State may make a scheme (a “property transfer scheme”) providing for the transfer from the QCDA of designated property, rights or liabilities of the QCDA to Ofqual or the Secretary of State.
 
 (2) A property transfer scheme may—
 
@@ -57,15 +57,15 @@ Section 27
 
 ### Continuity
 
-**3.**[^key-66b5bdf43cd6499705d714ec3ca76fc9] A transfer by virtue of a staff transfer scheme or a property transfer scheme does not affect the validity of anything done by or in relation to the QCDA before the transfer takes effect.
+**3.**[^c-66b5bdf43cd6499705d714ec3ca76fc9] A transfer by virtue of a staff transfer scheme or a property transfer scheme does not affect the validity of anything done by or in relation to the QCDA before the transfer takes effect.
 
 ### Supplementary provision etc.
 
-**4.**[^key-13691e7f26e6de8c6f2476e84982dc11] A staff transfer scheme or a property transfer scheme may include supplementary, incidental, transitional and consequential provision.
+**4.**[^c-13691e7f26e6de8c6f2476e84982dc11] A staff transfer scheme or a property transfer scheme may include supplementary, incidental, transitional and consequential provision.
 
 ### Interpretation
 
-**5.**[^key-50efbab3128e139a21dc22181b7c803c] In this Schedule—
+**5.**[^c-50efbab3128e139a21dc22181b7c803c] In this Schedule—
 
 - “**designated**”, in relation to a staff transfer scheme or a property transfer scheme, means specified in, or determined in accordance with, the scheme;
 - “**Ofqual**” means the Office of Qualifications and Examinations Regulation;
@@ -73,12 +73,12 @@ Section 27
 
 ## Annotations
 
-[^key-021dbb37db46c7d48deccc722c8f0b68]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2011/21/schedule/9/paragraph/1) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2012/924/article/4), [5](https://www.legislation.gov.uk/uksi/2012/924/article/5))
+[^c-021dbb37db46c7d48deccc722c8f0b68]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2011/21/schedule/9/paragraph/1) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2012/924/article/4), [5](https://www.legislation.gov.uk/uksi/2012/924/article/5))
 
-[^key-434d407fd3a2deb95a16a8ceafa612d4]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/9/paragraph/2) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2012/924/article/4), [5](https://www.legislation.gov.uk/uksi/2012/924/article/5))
+[^c-434d407fd3a2deb95a16a8ceafa612d4]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/9/paragraph/2) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2012/924/article/4), [5](https://www.legislation.gov.uk/uksi/2012/924/article/5))
 
-[^key-66b5bdf43cd6499705d714ec3ca76fc9]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2011/21/schedule/9/paragraph/3) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2012/924/article/4), [5](https://www.legislation.gov.uk/uksi/2012/924/article/5))
+[^c-66b5bdf43cd6499705d714ec3ca76fc9]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2011/21/schedule/9/paragraph/3) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2012/924/article/4), [5](https://www.legislation.gov.uk/uksi/2012/924/article/5))
 
-[^key-13691e7f26e6de8c6f2476e84982dc11]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2011/21/schedule/9/paragraph/4) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2012/924/article/4), [5](https://www.legislation.gov.uk/uksi/2012/924/article/5))
+[^c-13691e7f26e6de8c6f2476e84982dc11]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2011/21/schedule/9/paragraph/4) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2012/924/article/4), [5](https://www.legislation.gov.uk/uksi/2012/924/article/5))
 
-[^key-50efbab3128e139a21dc22181b7c803c]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2011/21/schedule/9/paragraph/5) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2012/924/article/4), [5](https://www.legislation.gov.uk/uksi/2012/924/article/5))
+[^c-50efbab3128e139a21dc22181b7c803c]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2011/21/schedule/9/paragraph/5) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2012/924/article/4), [5](https://www.legislation.gov.uk/uksi/2012/924/article/5))

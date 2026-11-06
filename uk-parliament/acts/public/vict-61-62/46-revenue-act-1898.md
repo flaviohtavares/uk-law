@@ -72,7 +72,7 @@ The importation[^c577451] from a place outside the British Islands and the membe
 
 ### 9. Recovery of fees under 31 & 32 Vict. c. 55.
 
-The fees to be collected under the [^key-a2f348cb28a9504d32cc0cd2efa049ec]... [^c577486]Public Offices Fees Act 1879, shall be a debt due to the Crown and shall be recoverable in such manner and by such persons as the Treasury may direct, and if so directed as part of the Inland Revenue.
+The fees to be collected under the [^c-a2f348cb28a9504d32cc0cd2efa049ec]... [^c577486]Public Offices Fees Act 1879, shall be a debt due to the Crown and shall be recoverable in such manner and by such persons as the Treasury may direct, and if so directed as part of the Inland Revenue.
 
 ### 10. Amendment of 54 & 55 Vict. c. 38. s. 22.
 
@@ -158,7 +158,7 @@ This Act may be cited as the Revenue Act 1898.
 
 [^c577484]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/Vict/61-62/46/section/8) repealed by [Finance Act 1970 (c. 24)](https://www.legislation.gov.uk/ukpga/1970/24), [s. 36(8)](https://www.legislation.gov.uk/ukpga/1970/24/section/36/8), [Sch. 8 Pt. V](https://www.legislation.gov.uk/ukpga/1970/24/schedule/8/part/V)
 
-[^key-a2f348cb28a9504d32cc0cd2efa049ec]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/ukpga/Vict/61-62/46/section/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9 Group 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9)
+[^c-a2f348cb28a9504d32cc0cd2efa049ec]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/ukpga/Vict/61-62/46/section/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9 Group 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9)
 
 [^c577486]: Marginal citation: [1879 c. 58](https://www.legislation.gov.uk/ukpga/1879/58).
 

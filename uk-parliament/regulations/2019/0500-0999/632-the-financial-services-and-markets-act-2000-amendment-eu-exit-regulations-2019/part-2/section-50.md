@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Section 186 (assessment criteria)[^key-923e0ba309db2cff94d344f1179338e2]
+## 50. Section 186 (assessment criteria)[^c-923e0ba309db2cff94d344f1179338e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ In section 186 [^c23657841] (assessment criteria), in paragraph (f)(i), for the 
 
 ## Annotations
 
-[^key-923e0ba309db2cff94d344f1179338e2]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-923e0ba309db2cff94d344f1179338e2]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23657841]: Marginal citation: Section 186 was substituted by [S.I. 2009/534](https://www.legislation.gov.uk/uksi/2009/534).
 

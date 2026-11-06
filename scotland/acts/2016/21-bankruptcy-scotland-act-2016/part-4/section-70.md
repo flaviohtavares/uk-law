@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Removal of trustee other than where trustee is unable to act or should no longer continue to act: general[^key-7d66585674d2c5058205063f5bd4a528]
+## 70. Removal of trustee other than where trustee is unable to act or should no longer continue to act: general[^c-7d66585674d2c5058205063f5bd4a528]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ the removal of T from office under subsection (1)(b), make such further or other
 
 ## Annotations
 
-[^key-7d66585674d2c5058205063f5bd4a528]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2016/21/section/70) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-7d66585674d2c5058205063f5bd4a528]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2016/21/section/70) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

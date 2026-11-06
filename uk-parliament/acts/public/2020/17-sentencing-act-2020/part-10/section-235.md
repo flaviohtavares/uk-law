@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 235. Exercise of power to make a detention and training order[^key-06d71766bf432f73481052b192cc949a]
+## 235. Exercise of power to make a detention and training order[^c-06d71766bf432f73481052b192cc949a]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ in respect of the offence.
 
 ## Annotations
 
-[^key-06d71766bf432f73481052b192cc949a]: Commencement: S. 235 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-06d71766bf432f73481052b192cc949a]: Commencement: S. 235 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

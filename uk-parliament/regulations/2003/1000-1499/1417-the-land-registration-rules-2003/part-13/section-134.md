@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Application for official copies of a registered title or of any part of it, the cautions register or for a certificate of inspection of the title plan[^key-1b4a84a449c3d5baa793204012ae583b]
+## 134. Application for official copies of a registered title or of any part of it, the cautions register or for a certificate of inspection of the title plan[^c-1b4a84a449c3d5baa793204012ae583b]
 
 *Extent: E+W*
 
@@ -43,12 +43,12 @@ summary: ''
 
 (7) An official copy of an individual caution register and any caution plan referred to in it must be issued disregarding any application or matter that may affect the subsistence of the caution.
 
-(8)[^key-0db5a8696ce064f9f302abf9743b2380] A person may apply for an official copy of part of an individual register only during the currency of a relevant notice given under Schedule 2, and subject to and in accordance with the limitations contained in the notice.
+(8)[^c-0db5a8696ce064f9f302abf9743b2380] A person may apply for an official copy of part of an individual register only during the currency of a relevant notice given under Schedule 2, and subject to and in accordance with the limitations contained in the notice.
 
 (9) The registrar must provide the official copy of part of the individual register in the manner specified in the relevant notice.
 
 ## Annotations
 
-[^key-1b4a84a449c3d5baa793204012ae583b]: Textual amendment: Words in [rule 134](https://www.legislation.gov.uk/uksi/2003/1417/rule/134) heading inserted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 22(1)](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/22/1)
+[^c-1b4a84a449c3d5baa793204012ae583b]: Textual amendment: Words in [rule 134](https://www.legislation.gov.uk/uksi/2003/1417/rule/134) heading inserted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 22(1)](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/22/1)
 
-[^key-0db5a8696ce064f9f302abf9743b2380]: Textual amendment: [Rule 134(8)](https://www.legislation.gov.uk/uksi/2003/1417/rule/134/8)[(9)](https://www.legislation.gov.uk/uksi/2003/1417/rule/134/9) added (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 22(2)](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/22/2)
+[^c-0db5a8696ce064f9f302abf9743b2380]: Textual amendment: [Rule 134(8)](https://www.legislation.gov.uk/uksi/2003/1417/rule/134/8)[(9)](https://www.legislation.gov.uk/uksi/2003/1417/rule/134/9) added (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 22(2)](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/22/2)

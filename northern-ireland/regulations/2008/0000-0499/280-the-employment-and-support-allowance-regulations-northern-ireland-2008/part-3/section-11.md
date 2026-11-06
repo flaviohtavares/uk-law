@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Condition relating to youth – residence or presence[^key-fb98bcfc76be9ae6de8f926b8b2e3a60]
+## 11. Condition relating to youth – residence or presence[^c-fb98bcfc76be9ae6de8f926b8b2e3a60]
 
 *Extent: N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (3) This paragraph applies where a person is—
 
-- (a) a member of a family of a national of a European Union[^key-5df510d42ddd39f0d3f7e88611d9c142] state;
+- (a) a member of a family of a national of a European Union[^c-5df510d42ddd39f0d3f7e88611d9c142] state;
 - (b) a person who is lawfully working in Northern Ireland and is a national of a State with which the European Union has concluded an agreement under Article 217 of the Treaty on the Functioning of the European Union providing, in the field of social security, for the equal treatment of workers who are nationals of the signatory State and their families;
 - (c) a person who is a member of a family of, and living with, a person specified in sub-paragraph (b); or
 - (d) a person who has been given leave to enter, or remain in, the United Kingdom by the Secretary of State upon an undertaking by another person pursuant to the immigration rules within the meaning of the Immigration Act 1971[^f00060] to be responsible for that person’s maintenance and accommodation.
@@ -44,10 +44,10 @@ summary: ''
 
 ## Annotations
 
-[^key-fb98bcfc76be9ae6de8f926b8b2e3a60]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2008/280/regulation/11) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-fb98bcfc76be9ae6de8f926b8b2e3a60]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2008/280/regulation/11) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
 [^f00059]: Footnote: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5)
 
-[^key-5df510d42ddd39f0d3f7e88611d9c142]: Textual amendment: Words in Rule substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+[^c-5df510d42ddd39f0d3f7e88611d9c142]: Textual amendment: Words in Rule substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
 [^f00060]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77)

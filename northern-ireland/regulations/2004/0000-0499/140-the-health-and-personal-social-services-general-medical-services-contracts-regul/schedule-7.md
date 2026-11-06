@@ -22,10 +22,10 @@ summary: ''
 
 Schedule 5, paragraph 29(8)
 
-[^key-07dd8e6688d8092f1f953cb8d158f59a]...
+[^c-07dd8e6688d8092f1f953cb8d158f59a]...
 
 [image: see source](https://www.legislation.gov.uk/nisr/2004/140/images/nisr_20040140_en_001)
 
 ## Annotations
 
-[^key-07dd8e6688d8092f1f953cb8d158f59a]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/nisr/2004/140/schedule/7) omitted (1.4.2013) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2013/59/regulation/10)
+[^c-07dd8e6688d8092f1f953cb8d158f59a]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/nisr/2004/140/schedule/7) omitted (1.4.2013) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2013/59/regulation/10)

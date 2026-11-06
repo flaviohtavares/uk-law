@@ -53,8 +53,8 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (3)[^c19760271] A person guilty of an offence under this section shall be liable—
 
-- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-973120fe8be98c61aa292f3d2a639319] or to a fine not exceeding the statutory maximum or to both;
-- (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12[^key-f4bd0915e8c2eb538a4f1fb4c1af5761] months or to a fine not exceeding the statutory maximum or to both;
+- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-973120fe8be98c61aa292f3d2a639319] or to a fine not exceeding the statutory maximum or to both;
+- (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12[^c-f4bd0915e8c2eb538a4f1fb4c1af5761] months or to a fine not exceeding the statutory maximum or to both;
 - (c) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both.
 
 ### 2. Unauthorised access with intent to commit or facilitate commission of further offences.
@@ -77,8 +77,8 @@ and the offence he intends to commit or facilitate is referred to below in this 
 
 (5)[^c19768891] A person guilty of an offence under this section shall be liable—
 
-- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-e50065cc92f4fbf540be90167ab6efcf] or to a fine not exceeding the statutory maximum or to both;
-- (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12[^key-37214832bbb782d54100e39a80f2ebe5] months or to a fine not exceeding the statutory maximum or to both;
+- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-e50065cc92f4fbf540be90167ab6efcf] or to a fine not exceeding the statutory maximum or to both;
+- (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12[^c-37214832bbb782d54100e39a80f2ebe5] months or to a fine not exceeding the statutory maximum or to both;
 - (c) on conviction on indictment, to imprisonment for a term not exceeding five years or to a fine or to both.
 
 ### 3. Unauthorised acts with intent to impair, or with recklessness as to impairing, operation of computer, etc.[^c19771231]
@@ -112,11 +112,11 @@ and the offence he intends to commit or facilitate is referred to below in this 
 
 (6) A person guilty of an offence under this section shall be liable—
 
-- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-9885632a35bf64ec7a7296e4a5baebec] or to a fine not exceeding the statutory maximum or to both;
-- (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12[^key-5de1fb864c3465dcb3972ea06f45109d] months or to a fine not exceeding the statutory maximum or to both;
+- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-9885632a35bf64ec7a7296e4a5baebec] or to a fine not exceeding the statutory maximum or to both;
+- (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12[^c-5de1fb864c3465dcb3972ea06f45109d] months or to a fine not exceeding the statutory maximum or to both;
 - (c) on conviction on indictment, to imprisonment for a term not exceeding ten years or to a fine or to both.
 
-### 3ZA. Unauthorised acts causing, or creating risk of, serious damage[^key-5f720eae553a447687221d2742a38f07]
+### 3ZA. Unauthorised acts causing, or creating risk of, serious damage[^c-5f720eae553a447687221d2742a38f07]
 
 (1) A person is guilty of an offence if—
 
@@ -161,32 +161,32 @@ and the offence he intends to commit or facilitate is referred to below in this 
 
 a person guilty of the offence is liable, on conviction on indictment, to imprisonment for life, or to a fine, or to both.
 
-### 3A. Making, supplying or obtaining articles for use in offence under section 1, 3 or 3ZA[^c19793341][^key-8c670a919bf6d8296a9dcc5724588183]
+### 3A. Making, supplying or obtaining articles for use in offence under section 1, 3 or 3ZA[^c19793341][^c-8c670a919bf6d8296a9dcc5724588183]
 
-(1) A person is guilty of an offence if he makes, adapts, supplies or offers to supply any article intending it to be used to commit, or to assist in the commission of, an offence under section 1, 3 or 3ZA[^key-43a49f4f1d9c57541f13f7df8284a959].
+(1) A person is guilty of an offence if he makes, adapts, supplies or offers to supply any article intending it to be used to commit, or to assist in the commission of, an offence under section 1, 3 or 3ZA[^c-43a49f4f1d9c57541f13f7df8284a959].
 
-(2) A person is guilty of an offence if he supplies or offers to supply any article believing that it is likely to be used to commit, or to assist in the commission of, an offence under section 1, 3 or 3ZA[^key-4df67130bfa617c27cdb94e5188f22ba].
+(2) A person is guilty of an offence if he supplies or offers to supply any article believing that it is likely to be used to commit, or to assist in the commission of, an offence under section 1, 3 or 3ZA[^c-4df67130bfa617c27cdb94e5188f22ba].
 
-(3) A person is guilty of an offence if he obtains any article—[^key-cc71a4a9ecea8974cc262d4542e012ad]
+(3) A person is guilty of an offence if he obtains any article—[^c-cc71a4a9ecea8974cc262d4542e012ad]
 
 - (a) intending to use it to commit, or to assist in the commission of, an offence under section 1, 3 or 3ZA, or
 - (b) with a view to
 
-its being supplied for use to commit, or to assist in the commission of, an offence under section 1, 3 or 3ZA[^key-1415af48387fd40800538fc244d489e2].
+its being supplied for use to commit, or to assist in the commission of, an offence under section 1, 3 or 3ZA[^c-1415af48387fd40800538fc244d489e2].
 
 (4) In this section “ **article** ” includes any program or data held in electronic form.
 
 (5) A person guilty of an offence under this section shall be liable—
 
-- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-1ff7364e0ca8ce39ef6b006bb0c02b34] or to a fine not exceeding the statutory maximum or to both;
-- (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12[^key-5d3b784ae57f0164ae04fe689272668e] months or to a fine not exceeding the statutory maximum or to both;
+- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-1ff7364e0ca8ce39ef6b006bb0c02b34] or to a fine not exceeding the statutory maximum or to both;
+- (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12[^c-5d3b784ae57f0164ae04fe689272668e] months or to a fine not exceeding the statutory maximum or to both;
 - (c) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both.
 
 ## Jurisdiction
 
-### 4. Territorial scope of offences under this Act.[^c19790521][^key-3ab73181166e74a061157b2a78401bff]
+### 4. Territorial scope of offences under this Act.[^c19790521][^c-3ab73181166e74a061157b2a78401bff]
 
-(1) Except as provided below in this section, it is immaterial for the purposes of any offence under section 1, 3 or 3ZA[^key-35a4e54ceb6d3707533671277fda5f47] above—
+(1) Except as provided below in this section, it is immaterial for the purposes of any offence under section 1, 3 or 3ZA[^c-35a4e54ceb6d3707533671277fda5f47] above—
 
 - (a) whether any act or other event proof of which is required for conviction of the offence occurred in the home country concerned; or
 - (b) whether the accused was in the home country concerned at the time of any such act or event.
@@ -202,7 +202,7 @@ its being supplied for use to commit, or to assist in the commission of, an offe
 
 section 2 above shall apply as if anything the accused intended to do or facilitate in any place outside the home country concerned which would be an offence to which section 2 applies if it took place in the home country concerned were the offence in question.
 
-(4A)[^key-20397353e1b72eb9b4b9c22450276b7f] It is immaterial for the purposes of an offence under section 3A whether the accused was in the home country concerned at the time of any act or other event proof of which is required for conviction of the offence if there is a significant link with domestic jurisdiction in relation to the offence.
+(4A)[^c-20397353e1b72eb9b4b9c22450276b7f] It is immaterial for the purposes of an offence under section 3A whether the accused was in the home country concerned at the time of any act or other event proof of which is required for conviction of the offence if there is a significant link with domestic jurisdiction in relation to the offence.
 
 (5) This section is without prejudice to any jurisdiction exercisable by a court in Scotland apart from this section.
 
@@ -216,7 +216,7 @@ section 2 above shall apply as if anything the accused intended to do or facilit
 
 (1) The following provisions of this section apply for the interpretation of section 4 above.
 
-(1A)[^key-2158b84aa0b1e7159a4b3990b17fed4f] In relation to an offence under section 1, 3, 3ZA or 3A, where the accused was in a country outside the United Kingdom at the time of the act constituting the offence there is a significant link with domestic jurisdiction if—
+(1A)[^c-2158b84aa0b1e7159a4b3990b17fed4f] In relation to an offence under section 1, 3, 3ZA or 3A, where the accused was in a country outside the United Kingdom at the time of the act constituting the offence there is a significant link with domestic jurisdiction if—
 
 - (a) the accused was a United Kingdom national at that time; and
 - (b) the act constituted an offence under the law of the country in which it occurred.
@@ -240,22 +240,22 @@ section 2 above shall apply as if anything the accused intended to do or facilit
 - (a) that the accused was in the home country concerned at the time when he did the unauthorised act (or caused it to be done)[^c19760621] ; or
 - (b)[^c19760641] that the unauthorised act was done in relation to a computer in the home country concerned.
 
-(3A)[^key-677590b7135400ec50a55f3f6bcc121b] In relation to an offence under section 3ZA, any of the following is also a significant link with domestic jurisdiction—
+(3A)[^c-677590b7135400ec50a55f3f6bcc121b] In relation to an offence under section 3ZA, any of the following is also a significant link with domestic jurisdiction—
 
 - (a) that the accused was in the home country concerned at the time when he did the unauthorised act (or caused it to be done);
 - (b) that the unauthorised act was done in relation to a computer in the home country concerned;
 - (c) that the unauthorised act caused, or created a significant risk of, serious damage of a material kind (within the meaning of that section) in the home country concerned.
 
-### 6. Territorial scope of inchoate offences related to offences under this Act.[^c19761381][^key-9f34510f3f9fd32300c8f4a6cc1ed824]
+### 6. Territorial scope of inchoate offences related to offences under this Act.[^c19761381][^c-9f34510f3f9fd32300c8f4a6cc1ed824]
 
 *Extent: E+W+N.I.*
 
-(1) On a charge of conspiracy to commit an offence under[^c19761501] this Act[^key-27fd82684b61afad95c91200eb4a0bb6] the following questions are immaterial to the accused’s guilt—
+(1) On a charge of conspiracy to commit an offence under[^c19761501] this Act[^c-27fd82684b61afad95c91200eb4a0bb6] the following questions are immaterial to the accused’s guilt—
 
 - (a) the question where any person became a party to the conspiracy; and
 - (b) the question whether any act, omission or other event occurred in the home country concerned.
 
-(2) On a charge of attempting to commit an offence under this Act[^key-91e841d3e37b238b6ff7375e5107959d] the following questions are immaterial to the accused’s guilt—
+(2) On a charge of attempting to commit an offence under this Act[^c-91e841d3e37b238b6ff7375e5107959d] the following questions are immaterial to the accused’s guilt—
 
 - (a) the question where the attempt was made; and
 - (b) the question whether it had an effect in the home country concerned.
@@ -315,26 +315,26 @@ section 2 above shall apply as if anything the accused intended to do or facilit
 
 ### 9. British citizenship immaterial.
 
-(1) Except as provided by section 5(1A),[^key-48667264608443257dc744675a347760]In any proceedings brought in England and Wales in respect of any offence to which this section applies it is immaterial to guilt whether or not the accused was a British citizen at the time of any act, omission or other event proof of which is required for conviction of the offence.
+(1) Except as provided by section 5(1A),[^c-48667264608443257dc744675a347760]In any proceedings brought in England and Wales in respect of any offence to which this section applies it is immaterial to guilt whether or not the accused was a British citizen at the time of any act, omission or other event proof of which is required for conviction of the offence.
 
 (2) This section applies to the following offences—
 
-- (a) any offence under[^c19761681] this Act[^key-4c12f52e42028b45b36ba51d0419e9c4] ;
+- (a) any offence under[^c19761681] this Act[^c-4c12f52e42028b45b36ba51d0419e9c4] ;
 - (b)[^c8078071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) any attempt to commit an offence under this Act[^key-8269e7efce1ec2f56dbddea780292b36]; and
+- (c) any attempt to commit an offence under this Act[^c-8269e7efce1ec2f56dbddea780292b36]; and
 - (d) [^c19761711]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Miscellaneous and general
 
-### 10. Savings[^key-f68191b335d1d58362b61e61af236223]
+### 10. Savings[^c-f68191b335d1d58362b61e61af236223]
 
-- Sections 1 to 3A have[^key-3bb34d4092669e5c2cb96f2da0b5c612] effect without prejudice to the operation—
-  - (a) in England and Wales of any enactment relating to powers of inspection, search or seizure or of any other enactment by virtue of which the conduct in question is authorised or required[^key-e7b1ae0de6c7baafcd0b31862393c196]; and
-  - (b) in Scotland of any enactment or rule of law relating to powers of examination, search or seizure or of any other enactment or rule of law by virtue of which the conduct in question is authorised or required[^key-aca5cd220f1b350829789846d6185c26]
+- Sections 1 to 3A have[^c-3bb34d4092669e5c2cb96f2da0b5c612] effect without prejudice to the operation—
+  - (a) in England and Wales of any enactment relating to powers of inspection, search or seizure or of any other enactment by virtue of which the conduct in question is authorised or required[^c-e7b1ae0de6c7baafcd0b31862393c196]; and
+  - (b) in Scotland of any enactment or rule of law relating to powers of examination, search or seizure or of any other enactment or rule of law by virtue of which the conduct in question is authorised or required[^c-aca5cd220f1b350829789846d6185c26]
 
-  and nothing designed to indicate a withholding of consent to access to any program or data from persons as enforcement officers shall have effect to make access unauthorised for the purposes of[^c8078081] any of those sections[^key-4a2fc752e4f9821da2616e9301e421ee].
+  and nothing designed to indicate a withholding of consent to access to any program or data from persons as enforcement officers shall have effect to make access unauthorised for the purposes of[^c8078081] any of those sections[^c-4a2fc752e4f9821da2616e9301e421ee].
 
-  In this section—[^key-56953844113433b40211eaa4749d76c7]
+  In this section—[^c-56953844113433b40211eaa4749d76c7]
 
   “ **enactment** ” means any enactment, whenever passed or made, contained in—
 
@@ -372,7 +372,7 @@ section 2 above shall apply as if anything the accused intended to do or facilit
 - (a) the accused was in the sheriffdom at the time when he did the unauthorised act (or caused it to be done)[^c19760831] ; or
 - (b)[^c19760871] the unauthorised act was done in relation to a computer in the sheriffdom.
 
-(2A)[^key-e9f3048a8462fa8ab5e2566938635305] A sheriff shall have jurisdiction in respect of an offence under section 3ZA above if—
+(2A)[^c-e9f3048a8462fa8ab5e2566938635305] A sheriff shall have jurisdiction in respect of an offence under section 3ZA above if—
 
 - (a) the accused was in the sheriffdom at the time when he did the unauthorised act (or caused it to be done), or
 - (b) the computer in relation to which the unauthorised act was done was in the sheriffdom at that time.
@@ -401,7 +401,7 @@ section 2 above shall apply as if anything the accused intended to do or facilit
 
 (10) A person found guilty of an offence under section 1 above by virtue of subsection (8) above shall be liable, in respect of that offence, only to the penalties set out in section 1.
 
-(10A)[^key-6270593d71502a618cd8668f927e7e7b] Where an offence under section 1, 3, 3ZA or 3A above is committed outside Scotland, the person committing the offence may be prosecuted, tried and punished for the offence—
+(10A)[^c-6270593d71502a618cd8668f927e7e7b] Where an offence under section 1, 3, 3ZA or 3A above is committed outside Scotland, the person committing the offence may be prosecuted, tried and punished for the offence—
 
 - (a) in any sheriff court district in Scotland in which the person is apprehended or is in custody, or
 - (b) in such sheriff court district as the Lord Advocate may direct,
@@ -427,7 +427,7 @@ as if the offence had been committed in that district; and the offence is, for a
 (1A)[^c19763321] In section 1(3)(a)—
 
 - (a) the reference to England and Wales shall be read as a reference to Northern Ireland; and
-- (b) the reference to the general limit in a magistrates’ court[^key-fd363f069285056a78f182d6ffe7ecef] shall be read as a reference to six months.
+- (b) the reference to the general limit in a magistrates’ court[^c-fd363f069285056a78f182d6ffe7ecef] shall be read as a reference to six months.
 
 (2) In section 2(2)(b)—
 
@@ -437,19 +437,19 @@ as if the offence had been committed in that district; and the offence is, for a
 (2A)[^c19763381] In section 2(5)(a)—
 
 - (a) the reference to England and Wales shall be read as a reference to Northern Ireland; and
-- (b) the reference to the general limit in a magistrates’ court[^key-f6daf41f618e402019fd9ef4046e8c1d] shall be read as a reference to six months.
+- (b) the reference to the general limit in a magistrates’ court[^c-f6daf41f618e402019fd9ef4046e8c1d] shall be read as a reference to six months.
 
 (3) [^c19763631]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3A)[^c19763441] In section 3(6)(a)—
 
 - (a) the reference to England and Wales shall be read as a reference to Northern Ireland; and
-- (b) the reference to the general limit in a magistrates’ court[^key-8a8a29e719b4a45a18d683aef28a0caa] shall be read as a reference to six months.
+- (b) the reference to the general limit in a magistrates’ court[^c-8a8a29e719b4a45a18d683aef28a0caa] shall be read as a reference to six months.
 
 (3B)[^c19763481] In section 3A(5)(a)—
 
 - (a) the reference to England and Wales shall be read as a reference to Northern Ireland; and
-- (b) the reference to the general limit in a magistrates’ court[^key-e13a4cea4aca525235e30233f697dcf3] shall be read as a reference to six months.
+- (b) the reference to the general limit in a magistrates’ court[^c-e13a4cea4aca525235e30233f697dcf3] shall be read as a reference to six months.
 
 (4) Subsection (7) below shall apply in substitution for subsection (3) of section 7[^c8078331]; [^c19763821]. . . .
 
@@ -475,7 +475,7 @@ as if the offence had been committed in that district; and the offence is, for a
 
 (9) The references in sections 9(1) and 10 to England and Wales shall be read as references to Northern Ireland.
 
-(9A)[^key-8d5ae0a20c910b2541fd26f3d92b2a80] In section 10 the definition of “enactment” shall be read as including a reference to an enactment, whenever passed or made, contained in Northern Ireland legislation or in an instrument made under such legislation.
+(9A)[^c-8d5ae0a20c910b2541fd26f3d92b2a80] In section 10 the definition of “enactment” shall be read as including a reference to an enactment, whenever passed or made, contained in Northern Ireland legislation or in an instrument made under such legislation.
 
 (10) [^c19763661]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -566,17 +566,17 @@ In this subsection “ **act** ” includes a series of acts.
 
 [^c19760271]: Textual amendment: S. 1(3) substituted (1.10.2007 for S. and 1.10.2008 otherwise) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 35(3)](https://www.legislation.gov.uk/ukpga/2006/48/section/35/3), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53) (with [s. 38(2)(6)](https://www.legislation.gov.uk/ukpga/2006/48/section/38/2/6)); [S.S.I. 2007/434](https://www.legislation.gov.uk/ssi/2007/434), [art. 2](https://www.legislation.gov.uk/ssi/2007/434/article/2); [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2503/article/2/a)
 
-[^key-973120fe8be98c61aa292f3d2a639319]: Textual amendment: Words in [s. 1(3)(a)](https://www.legislation.gov.uk/ukpga/1990/18/section/1/3/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-973120fe8be98c61aa292f3d2a639319]: Textual amendment: Words in [s. 1(3)(a)](https://www.legislation.gov.uk/ukpga/1990/18/section/1/3/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-f4bd0915e8c2eb538a4f1fb4c1af5761]: Textual amendment: Word in [s. 1(3)(b)](https://www.legislation.gov.uk/ukpga/1990/18/section/1/3/b) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 7(a)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/7/a); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
+[^c-f4bd0915e8c2eb538a4f1fb4c1af5761]: Textual amendment: Word in [s. 1(3)(b)](https://www.legislation.gov.uk/ukpga/1990/18/section/1/3/b) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 7(a)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/7/a); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
 
 [^c8077941]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
 [^c19768891]: Textual amendment: S. 2(5) substituted (1.10.2007 for S. and 1.10.2008 otherwise) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 14 para. 17](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/17) (with [s. 38(6)](https://www.legislation.gov.uk/ukpga/2006/48/section/38/6)); [S.S.I. 2007/434](https://www.legislation.gov.uk/ssi/2007/434), [art. 2](https://www.legislation.gov.uk/ssi/2007/434/article/2); [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/2503/article/2/c)
 
-[^key-e50065cc92f4fbf540be90167ab6efcf]: Textual amendment: Words in [s. 2(5)(a)](https://www.legislation.gov.uk/ukpga/1990/18/section/2/5/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-e50065cc92f4fbf540be90167ab6efcf]: Textual amendment: Words in [s. 2(5)(a)](https://www.legislation.gov.uk/ukpga/1990/18/section/2/5/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-37214832bbb782d54100e39a80f2ebe5]: Textual amendment: Word in [s. 2(5)(b)](https://www.legislation.gov.uk/ukpga/1990/18/section/2/5/b) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 7(b)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/7/b); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
+[^c-37214832bbb782d54100e39a80f2ebe5]: Textual amendment: Word in [s. 2(5)(b)](https://www.legislation.gov.uk/ukpga/1990/18/section/2/5/b) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 7(b)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/7/b); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
 
 [^c19771231]: Textual amendment: S. 3 substituted (1.10.2007 for S. and 1.10.2008 otherwise) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 36](https://www.legislation.gov.uk/ukpga/2006/48/section/36), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53) (with [s. 38(3)(4)(6)](https://www.legislation.gov.uk/ukpga/2006/48/section/38/3/4/6)); [S.S.I. 2007/434](https://www.legislation.gov.uk/ssi/2007/434), [art. 2](https://www.legislation.gov.uk/ssi/2007/434/article/2); [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2](https://www.legislation.gov.uk/uksi/2008/2503/article/2) (the substituting provision being amended for E.W.N.I. (1.10.2008) by [2007 c. 27](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 61(3)](https://www.legislation.gov.uk/ukpga/2007/27/section/61/3), [94](https://www.legislation.gov.uk/ukpga/2007/27/section/94) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a))
 
@@ -586,37 +586,37 @@ In this subsection “ **act** ” includes a series of acts.
 
 [^c22552961]: Textual amendment: S. 3(3): Words "to (c)" substituted for words "to (d)" (E.W.N.I.) (1.10.2008) by virtue of [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 61(3)(b)](https://www.legislation.gov.uk/ukpga/2007/27/section/61/3/b), [94](https://www.legislation.gov.uk/ukpga/2007/27/section/94) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
-[^key-9885632a35bf64ec7a7296e4a5baebec]: Textual amendment: Words in [s. 3(6)(a)](https://www.legislation.gov.uk/ukpga/1990/18/section/3/6/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-9885632a35bf64ec7a7296e4a5baebec]: Textual amendment: Words in [s. 3(6)(a)](https://www.legislation.gov.uk/ukpga/1990/18/section/3/6/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-5de1fb864c3465dcb3972ea06f45109d]: Textual amendment: Word in [s. 3(6)(b)](https://www.legislation.gov.uk/ukpga/1990/18/section/3/6/b) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 7(c)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/7/c); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
+[^c-5de1fb864c3465dcb3972ea06f45109d]: Textual amendment: Word in [s. 3(6)(b)](https://www.legislation.gov.uk/ukpga/1990/18/section/3/6/b) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 7(c)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/7/c); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
 
-[^key-5f720eae553a447687221d2742a38f07]: Textual amendment: [S. 3ZA](https://www.legislation.gov.uk/ukpga/1990/18/section/3ZA) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2015/9/section/41/2), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/a)
+[^c-5f720eae553a447687221d2742a38f07]: Textual amendment: [S. 3ZA](https://www.legislation.gov.uk/ukpga/1990/18/section/3ZA) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2015/9/section/41/2), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/a)
 
 [^c19793341]: Textual amendment: S. 3A inserted (1.10.2007 for S. and 1.10.2008 otherwise) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 37](https://www.legislation.gov.uk/ukpga/2006/48/section/37), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53) (with [s. 38(5)(6)](https://www.legislation.gov.uk/ukpga/2006/48/section/38/5/6)); [S.S.I. 2007/434](https://www.legislation.gov.uk/ssi/2007/434), [art. 2](https://www.legislation.gov.uk/ssi/2007/434/article/2); [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2503/article/2/a)
 
-[^key-8c670a919bf6d8296a9dcc5724588183]: Textual amendment: Words in s. 3A heading substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/8); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
+[^c-8c670a919bf6d8296a9dcc5724588183]: Textual amendment: Words in s. 3A heading substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/8); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
 
-[^key-43a49f4f1d9c57541f13f7df8284a959]: Textual amendment: Words in s. 3A(1) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 41(3)](https://www.legislation.gov.uk/ukpga/2015/9/section/41/3), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/a)
+[^c-43a49f4f1d9c57541f13f7df8284a959]: Textual amendment: Words in s. 3A(1) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 41(3)](https://www.legislation.gov.uk/ukpga/2015/9/section/41/3), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/a)
 
-[^key-4df67130bfa617c27cdb94e5188f22ba]: Textual amendment: Words in s. 3A(2) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 41(3)](https://www.legislation.gov.uk/ukpga/2015/9/section/41/3), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/a)
+[^c-4df67130bfa617c27cdb94e5188f22ba]: Textual amendment: Words in s. 3A(2) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 41(3)](https://www.legislation.gov.uk/ukpga/2015/9/section/41/3), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/a)
 
-[^key-cc71a4a9ecea8974cc262d4542e012ad]: Textual amendment: Words in s. 3A(3) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 42](https://www.legislation.gov.uk/ukpga/2015/9/section/42), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(5)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/5)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/b)
+[^c-cc71a4a9ecea8974cc262d4542e012ad]: Textual amendment: Words in s. 3A(3) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 42](https://www.legislation.gov.uk/ukpga/2015/9/section/42), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(5)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/5)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/b)
 
-[^key-1415af48387fd40800538fc244d489e2]: Textual amendment: Words in s. 3A(3) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 41(3)](https://www.legislation.gov.uk/ukpga/2015/9/section/41/3), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/a)
+[^c-1415af48387fd40800538fc244d489e2]: Textual amendment: Words in s. 3A(3) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 41(3)](https://www.legislation.gov.uk/ukpga/2015/9/section/41/3), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/a)
 
-[^key-1ff7364e0ca8ce39ef6b006bb0c02b34]: Textual amendment: Words in [s. 3A(5)(a)](https://www.legislation.gov.uk/ukpga/1990/18/section/3A/5/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-1ff7364e0ca8ce39ef6b006bb0c02b34]: Textual amendment: Words in [s. 3A(5)(a)](https://www.legislation.gov.uk/ukpga/1990/18/section/3A/5/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-5d3b784ae57f0164ae04fe689272668e]: Textual amendment: Word in s. 3A(5)(b) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 7(d)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/7/d); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
+[^c-5d3b784ae57f0164ae04fe689272668e]: Textual amendment: Word in s. 3A(5)(b) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 7(d)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/7/d); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
 
 [^c19790521]: Textual amendment: S. 4 heading: words substituted (1.10.2007 for S. and 1.10.2008 otherwise) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 14 para. 18](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/18); [S.S.I. 2007/434](https://www.legislation.gov.uk/ssi/2007/434), [art. 2](https://www.legislation.gov.uk/ssi/2007/434/article/2); [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2](https://www.legislation.gov.uk/uksi/2008/2503/article/2)
 
-[^key-3ab73181166e74a061157b2a78401bff]: Textual amendment: Words in s. 4 heading substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/9); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
+[^c-3ab73181166e74a061157b2a78401bff]: Textual amendment: Words in s. 4 heading substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/9); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
 
-[^key-35a4e54ceb6d3707533671277fda5f47]: Textual amendment: Words in s. 4(1) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 43(2)](https://www.legislation.gov.uk/ukpga/2015/9/section/43/2), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/c)
+[^c-35a4e54ceb6d3707533671277fda5f47]: Textual amendment: Words in s. 4(1) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 43(2)](https://www.legislation.gov.uk/ukpga/2015/9/section/43/2), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/c)
 
-[^key-20397353e1b72eb9b4b9c22450276b7f]: Textual amendment: S. 4(4A) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 43(3)](https://www.legislation.gov.uk/ukpga/2015/9/section/43/3), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/c)
+[^c-20397353e1b72eb9b4b9c22450276b7f]: Textual amendment: S. 4(4A) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 43(3)](https://www.legislation.gov.uk/ukpga/2015/9/section/43/3), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/c)
 
-[^key-2158b84aa0b1e7159a4b3990b17fed4f]: Textual amendment: [S. 5(1A)](https://www.legislation.gov.uk/ukpga/1990/18/section/5/1A)[(1B)](https://www.legislation.gov.uk/ukpga/1990/18/section/5/1B) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 43(4)](https://www.legislation.gov.uk/ukpga/2015/9/section/43/4), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/c)
+[^c-2158b84aa0b1e7159a4b3990b17fed4f]: Textual amendment: [S. 5(1A)](https://www.legislation.gov.uk/ukpga/1990/18/section/5/1A)[(1B)](https://www.legislation.gov.uk/ukpga/1990/18/section/5/1B) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 43(4)](https://www.legislation.gov.uk/ukpga/2015/9/section/43/4), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/c)
 
 [^c19760551]: Textual amendment: S. 5(2)(b) (as second appearing) substituted (S.) (1.10.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 14 para. 19(2)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/19/2) (with [s. 38(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/38/1)); [S.S.I. 2007/434](https://www.legislation.gov.uk/ssi/2007/434), [art. 2](https://www.legislation.gov.uk/ssi/2007/434/article/2) (the substituting provision being repealed for E.W.N.I. (1.10.2008) by [2007 c. 27](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 61(5)](https://www.legislation.gov.uk/ukpga/2007/27/section/61/5), [92](https://www.legislation.gov.uk/ukpga/2007/27/section/92), [94](https://www.legislation.gov.uk/ukpga/2007/27/section/94), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a))
 
@@ -624,17 +624,17 @@ In this subsection “ **act** ” includes a series of acts.
 
 [^c19760641]: Textual amendment: S. 5(3)(b) substituted (1.10.2007 for S. and 1.10.2008 otherwise) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 14 para. 19(3)(b)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/19/3/b) (with [s. 38(4)](https://www.legislation.gov.uk/ukpga/2006/48/section/38/4)); [S.S.I. 2007/434](https://www.legislation.gov.uk/ssi/2007/434), [art. 2](https://www.legislation.gov.uk/ssi/2007/434/article/2); [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2](https://www.legislation.gov.uk/uksi/2008/2503/article/2)
 
-[^key-677590b7135400ec50a55f3f6bcc121b]: Textual amendment: [S. 5(3A)](https://www.legislation.gov.uk/ukpga/1990/18/section/5/3A) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 43(5)](https://www.legislation.gov.uk/ukpga/2015/9/section/43/5), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/c)
+[^c-677590b7135400ec50a55f3f6bcc121b]: Textual amendment: [S. 5(3A)](https://www.legislation.gov.uk/ukpga/1990/18/section/5/3A) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 43(5)](https://www.legislation.gov.uk/ukpga/2015/9/section/43/5), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/c)
 
 [^c19761381]: Textual amendment: S. 6 heading: words substituted (1.10.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 14 para. 20(a)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/20/a); [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2](https://www.legislation.gov.uk/uksi/2008/2503/article/2)
 
-[^key-9f34510f3f9fd32300c8f4a6cc1ed824]: Textual amendment: Words in s. 6 heading substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 10(2)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/10/2) (with [s. 86(6)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/6)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
+[^c-9f34510f3f9fd32300c8f4a6cc1ed824]: Textual amendment: Words in s. 6 heading substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 10(2)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/10/2) (with [s. 86(6)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/6)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
 
 [^c19761501]: Textual amendment: Words in s. 6(1) substituted (1.10.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 14 para. 20(b)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/20/b); [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2](https://www.legislation.gov.uk/uksi/2008/2503/article/2)
 
-[^key-27fd82684b61afad95c91200eb4a0bb6]: Textual amendment: Words in s. 6(1) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 10(3)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/10/3) (with [s. 86(6)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/6)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
+[^c-27fd82684b61afad95c91200eb4a0bb6]: Textual amendment: Words in s. 6(1) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 10(3)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/10/3) (with [s. 86(6)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/6)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
 
-[^key-91e841d3e37b238b6ff7375e5107959d]: Textual amendment: Words in s. 6(2) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 10(4)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/10/4) (with [s. 86(6)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/6)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
+[^c-91e841d3e37b238b6ff7375e5107959d]: Textual amendment: Words in s. 6(2) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 10(4)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/10/4) (with [s. 86(6)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/6)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
 
 [^c19761601]: Textual amendment: S. 6(3) repealed (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 63(1)(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/63/1/2), [92](https://www.legislation.gov.uk/ukpga/2007/27/section/92), [94](https://www.legislation.gov.uk/ukpga/2007/27/section/94), [Sch. 6 para. 59(2)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/59/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2](https://www.legislation.gov.uk/uksi/2008/2504/article/2)
 
@@ -654,31 +654,31 @@ In this subsection “ **act** ” includes a series of acts.
 
 [^c8078051]: Textual amendment: Words in [s. 8(5)](https://www.legislation.gov.uk/ukpga/1990/18/section/8/5) substituted (4.9.1998) by [1998 c. 40](https://www.legislation.gov.uk/ukpga/1998/40), [s. 9(1)](https://www.legislation.gov.uk/ukpga/1998/40/section/9/1), [Sch. 1 Pt. II para. 6(1)(b)](https://www.legislation.gov.uk/ukpga/1998/40/schedule/1/part/II/paragraph/6/1/b) (with [s. 9(3)](https://www.legislation.gov.uk/ukpga/1998/40/section/9/3))
 
-[^key-48667264608443257dc744675a347760]: Textual amendment: Words in [s. 9(1)](https://www.legislation.gov.uk/ukpga/1990/18/section/9/1) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 11(2)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/11/2); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
+[^c-48667264608443257dc744675a347760]: Textual amendment: Words in [s. 9(1)](https://www.legislation.gov.uk/ukpga/1990/18/section/9/1) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 11(2)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/11/2); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
 
 [^c19761681]: Textual amendment: Words in s. 9(2)(a) substituted (1.10.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 14 para. 22](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/22); [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2](https://www.legislation.gov.uk/uksi/2008/2503/article/2)
 
-[^key-4c12f52e42028b45b36ba51d0419e9c4]: Textual amendment: Words in [s. 9(2)(a)](https://www.legislation.gov.uk/ukpga/1990/18/section/9/2/a) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 11(3)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/11/3); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
+[^c-4c12f52e42028b45b36ba51d0419e9c4]: Textual amendment: Words in [s. 9(2)(a)](https://www.legislation.gov.uk/ukpga/1990/18/section/9/2/a) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 11(3)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/11/3); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
 
 [^c8078071]: Textual amendment: [S. 9(2)(b)](https://www.legislation.gov.uk/ukpga/1990/18/section/9/2/b) repealed (4.9.1998) by [1998 c. 40](https://www.legislation.gov.uk/ukpga/1998/40), [s. 9(1)(2)](https://www.legislation.gov.uk/ukpga/1998/40/section/9/1/2), [Sch. 1 Pt. II para. 6(2)](https://www.legislation.gov.uk/ukpga/1998/40/schedule/1/part/II/paragraph/6/2), [Sch. 2 Pt. II](https://www.legislation.gov.uk/ukpga/1998/40/schedule/2/part/II) (with [s. 9(3)](https://www.legislation.gov.uk/ukpga/1998/40/section/9/3))
 
-[^key-8269e7efce1ec2f56dbddea780292b36]: Textual amendment: Words in [s. 9(2)(c)](https://www.legislation.gov.uk/ukpga/1990/18/section/9/2/c) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 11(4)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/11/4); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
+[^c-8269e7efce1ec2f56dbddea780292b36]: Textual amendment: Words in [s. 9(2)(c)](https://www.legislation.gov.uk/ukpga/1990/18/section/9/2/c) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 11(4)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/11/4); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
 
 [^c19761711]: Textual amendment: S. 9(2)(d) repealed (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 63(1)(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/63/1/2), [92](https://www.legislation.gov.uk/ukpga/2007/27/section/92), [94](https://www.legislation.gov.uk/ukpga/2007/27/section/94), [Sch. 6 para. 59(5)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/59/5), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2](https://www.legislation.gov.uk/uksi/2008/2504/article/2)
 
-[^key-f68191b335d1d58362b61e61af236223]: Textual amendment: S. 10 heading substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/12); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
+[^c-f68191b335d1d58362b61e61af236223]: Textual amendment: S. 10 heading substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/12); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(iii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/iii)
 
-[^key-3bb34d4092669e5c2cb96f2da0b5c612]: Textual amendment: Words in s. 10 substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 44(2)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/44/2/a), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/d)
+[^c-3bb34d4092669e5c2cb96f2da0b5c612]: Textual amendment: Words in s. 10 substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 44(2)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/44/2/a), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/d)
 
-[^key-e7b1ae0de6c7baafcd0b31862393c196]: Textual amendment: Words in s. 10(a) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/44/2/b), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/d)
+[^c-e7b1ae0de6c7baafcd0b31862393c196]: Textual amendment: Words in s. 10(a) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/44/2/b), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/d)
 
-[^key-aca5cd220f1b350829789846d6185c26]: Textual amendment: Words in s. 10(b) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 44(2)(c)](https://www.legislation.gov.uk/ukpga/2015/9/section/44/2/c), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/d)
+[^c-aca5cd220f1b350829789846d6185c26]: Textual amendment: Words in s. 10(b) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 44(2)(c)](https://www.legislation.gov.uk/ukpga/2015/9/section/44/2/c), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/d)
 
 [^c8078081]: Textual amendment: Words in s. 10 inserted (3.2.1995) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [s. 162(1)](https://www.legislation.gov.uk/ukpga/1994/33/section/162/1); [S.I. 1995/127](https://www.legislation.gov.uk/uksi/1995/127), [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/127/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1995/127/schedule/1)
 
-[^key-4a2fc752e4f9821da2616e9301e421ee]: Textual amendment: Words in s. 10 substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 44(2)(d)](https://www.legislation.gov.uk/ukpga/2015/9/section/44/2/d), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/d)
+[^c-4a2fc752e4f9821da2616e9301e421ee]: Textual amendment: Words in s. 10 substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 44(2)(d)](https://www.legislation.gov.uk/ukpga/2015/9/section/44/2/d), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/d)
 
-[^key-56953844113433b40211eaa4749d76c7]: Textual amendment: Words in s. 10 substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 44(2)(e)](https://www.legislation.gov.uk/ukpga/2015/9/section/44/2/e), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/d)
+[^c-56953844113433b40211eaa4749d76c7]: Textual amendment: Words in s. 10 substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 44(2)(e)](https://www.legislation.gov.uk/ukpga/2015/9/section/44/2/e), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/d)
 
 [^c19763851]: Textual amendment: S. 11 repealed (1.10.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 14 para. 23](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/23), [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/4) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2006/48/section/38/2)); [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2](https://www.legislation.gov.uk/uksi/2008/2503/article/2)
 
@@ -690,13 +690,13 @@ In this subsection “ **act** ” includes a series of acts.
 
 [^c19760871]: Textual amendment: S. 13(2)(b) substituted (1.10.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 14 para. 25(3)(b)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/25/3/b) (with [s. 38(4)](https://www.legislation.gov.uk/ukpga/2006/48/section/38/4)); [S.S.I. 2007/434](https://www.legislation.gov.uk/ssi/2007/434), [art. 2](https://www.legislation.gov.uk/ssi/2007/434/article/2)
 
-[^key-e9f3048a8462fa8ab5e2566938635305]: Textual amendment: [S. 13(2A)](https://www.legislation.gov.uk/ukpga/1990/18/section/13/2A)[(2B)](https://www.legislation.gov.uk/ukpga/1990/18/section/13/2B) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 43(6)](https://www.legislation.gov.uk/ukpga/2015/9/section/43/6), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/c)
+[^c-e9f3048a8462fa8ab5e2566938635305]: Textual amendment: [S. 13(2A)](https://www.legislation.gov.uk/ukpga/1990/18/section/13/2A)[(2B)](https://www.legislation.gov.uk/ukpga/1990/18/section/13/2B) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 43(6)](https://www.legislation.gov.uk/ukpga/2015/9/section/43/6), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/c)
 
 [^c19761001]: Textual amendment: S. 13(3)-(7) repealed (1.10.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 14 para. 25(4)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/25/4), [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/4) (with [s. 38(2)(4)](https://www.legislation.gov.uk/ukpga/2006/48/section/38/2/4)); [S.S.I. 2007/434](https://www.legislation.gov.uk/ssi/2007/434), [art. 2](https://www.legislation.gov.uk/ssi/2007/434/article/2)
 
 [^c19761021]: Textual amendment: Words in s. 13(8) repealed (1.10.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 14 para. 25(5)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/25/5), [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/4) (with [s. 38(2)(4)](https://www.legislation.gov.uk/ukpga/2006/48/section/38/2/4)); [S.S.I. 2007/434](https://www.legislation.gov.uk/ssi/2007/434), [art. 2](https://www.legislation.gov.uk/ssi/2007/434/article/2)
 
-[^key-6270593d71502a618cd8668f927e7e7b]: Textual amendment: [S. 13(10A)](https://www.legislation.gov.uk/ukpga/1990/18/section/13/10A) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 43(7)](https://www.legislation.gov.uk/ukpga/2015/9/section/43/7), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/c)
+[^c-6270593d71502a618cd8668f927e7e7b]: Textual amendment: [S. 13(10A)](https://www.legislation.gov.uk/ukpga/1990/18/section/13/10A) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 43(7)](https://www.legislation.gov.uk/ukpga/2015/9/section/43/7), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/c)
 
 [^c19768801]: Textual amendment: S. 14 repealed (1.10.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 14 para. 26](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/26), [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/4) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2006/48/section/38/2)); [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2](https://www.legislation.gov.uk/uksi/2008/2503/article/2)
 
@@ -704,7 +704,7 @@ In this subsection “ **act** ” includes a series of acts.
 
 [^c19763321]: Textual amendment: S. 16(1A) inserted (1.10.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 14 para. 27(2)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/27/2) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2006/48/section/38/2)); [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2](https://www.legislation.gov.uk/uksi/2008/2503/article/2)
 
-[^key-fd363f069285056a78f182d6ffe7ecef]: Textual amendment: Words in [s. 16(1A)(b)](https://www.legislation.gov.uk/ukpga/1990/18/section/16/1A/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-fd363f069285056a78f182d6ffe7ecef]: Textual amendment: Words in [s. 16(1A)(b)](https://www.legislation.gov.uk/ukpga/1990/18/section/16/1A/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
 [^c8078291]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
@@ -712,17 +712,17 @@ In this subsection “ **act** ” includes a series of acts.
 
 [^c19763381]: Textual amendment: S. 16(2A) inserted (1.10.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 14 para. 27(3)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/27/3); [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2](https://www.legislation.gov.uk/uksi/2008/2503/article/2)
 
-[^key-f6daf41f618e402019fd9ef4046e8c1d]: Textual amendment: Words in [s. 16(2A)(b)](https://www.legislation.gov.uk/ukpga/1990/18/section/16/2A/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-f6daf41f618e402019fd9ef4046e8c1d]: Textual amendment: Words in [s. 16(2A)(b)](https://www.legislation.gov.uk/ukpga/1990/18/section/16/2A/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
 [^c19763631]: Textual amendment: S. 16(3) repealed (1.10.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 14 para. 27(4)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/27/4), [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/4) (with [s. 38(4)](https://www.legislation.gov.uk/ukpga/2006/48/section/38/4)); [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2](https://www.legislation.gov.uk/uksi/2008/2503/article/2)
 
 [^c19763441]: Textual amendment: S. 16(3A) inserted (1.10.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 14 para. 27(5)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/27/5) (with [s. 38(4)](https://www.legislation.gov.uk/ukpga/2006/48/section/38/4)); [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2](https://www.legislation.gov.uk/uksi/2008/2503/article/2)
 
-[^key-8a8a29e719b4a45a18d683aef28a0caa]: Textual amendment: Words in [s. 16(3A)(b)](https://www.legislation.gov.uk/ukpga/1990/18/section/16/3A/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-8a8a29e719b4a45a18d683aef28a0caa]: Textual amendment: Words in [s. 16(3A)(b)](https://www.legislation.gov.uk/ukpga/1990/18/section/16/3A/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
 [^c19763481]: Textual amendment: S. 16(3B) inserted (1.10.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 14 para. 27(6)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/27/6); [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2](https://www.legislation.gov.uk/uksi/2008/2503/article/2)
 
-[^key-e13a4cea4aca525235e30233f697dcf3]: Textual amendment: Words in [s. 16(3B)(b)](https://www.legislation.gov.uk/ukpga/1990/18/section/16/3B/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-e13a4cea4aca525235e30233f697dcf3]: Textual amendment: Words in [s. 16(3B)(b)](https://www.legislation.gov.uk/ukpga/1990/18/section/16/3B/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
 [^c8078331]: Textual amendment: Words in [s. 16(4)](https://www.legislation.gov.uk/ukpga/1990/18/section/16/4) substituted (4.9.1998) by [1998 c. 40](https://www.legislation.gov.uk/ukpga/1998/40), [s. 9(1)](https://www.legislation.gov.uk/ukpga/1998/40/section/9/1), [Sch. 1 Pt. II para. 6(3)(a)](https://www.legislation.gov.uk/ukpga/1998/40/schedule/1/part/II/paragraph/6/3/a) (with [s. 9(3)](https://www.legislation.gov.uk/ukpga/1998/40/section/9/3))
 
@@ -732,7 +732,7 @@ In this subsection “ **act** ” includes a series of acts.
 
 [^c8078371]: Marginal citation: [1981 c. 47](https://www.legislation.gov.uk/ukpga/1981/47).
 
-[^key-8d5ae0a20c910b2541fd26f3d92b2a80]: Textual amendment: [S. 16(9A)](https://www.legislation.gov.uk/ukpga/1990/18/section/16/9A) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 44(3)](https://www.legislation.gov.uk/ukpga/2015/9/section/44/3), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/d)
+[^c-8d5ae0a20c910b2541fd26f3d92b2a80]: Textual amendment: [S. 16(9A)](https://www.legislation.gov.uk/ukpga/1990/18/section/16/9A) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 44(3)](https://www.legislation.gov.uk/ukpga/2015/9/section/44/3), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/d)
 
 [^c19763661]: Textual amendment: S. 16(10)(11)(12) repealed (1.10.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 14 para. 27(4)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/27/4), [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/4) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2006/48/section/38/2)); [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2](https://www.legislation.gov.uk/uksi/2008/2503/article/2)
 

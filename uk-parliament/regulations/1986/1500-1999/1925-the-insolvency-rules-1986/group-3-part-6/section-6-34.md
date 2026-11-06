@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.34. Action to follow making of order[^key-6830f35249ec8f35fa780f8b4a109788]
+## 6.34. Action to follow making of order[^c-6830f35249ec8f35fa780f8b4a109788]
 
 *Extent: E+W*
 
@@ -25,10 +25,10 @@ summary: ''
 (2) [^m00141] Subject to the next paragraph, the official receiver shall—
 
 - (a) send notice of the making of the order to the Chief Land Registrar, for registration in the register of writs and orders affecting land,
-- (b) cause the order to be advertised in such local paper[^key-855a7b6264c7585d39049ad99a034db5] as the official receiver thinks fit, and
+- (b) cause the order to be advertised in such local paper[^c-855a7b6264c7585d39049ad99a034db5] as the official receiver thinks fit, and
 - (c) cause the order to be gazetted.
 
-(3) The court may, on the application of the bankrupt or a creditor, order the official receiver to suspend action under paragraph (2) and[^M_F_eef72260-a5d4-40fc-afe2-bfbaca4b813e] Rule 6A.4(2)[^key-40b71c009b6e73582ba3c17261397a27], pending a further order of the court.
+(3) The court may, on the application of the bankrupt or a creditor, order the official receiver to suspend action under paragraph (2) and[^M_F_eef72260-a5d4-40fc-afe2-bfbaca4b813e] Rule 6A.4(2)[^c-40b71c009b6e73582ba3c17261397a27], pending a further order of the court.
 
 An application under this paragraph shall be supported by an affidavit stating the grounds on which it is made.
 
@@ -36,12 +36,12 @@ An application under this paragraph shall be supported by an affidavit stating t
 
 ## Annotations
 
-[^key-6830f35249ec8f35fa780f8b4a109788]: Commencement: Rule 6.34 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-6830f35249ec8f35fa780f8b4a109788]: Commencement: Rule 6.34 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00141]: Marginal citation: \[FORM 6.26\]
 
-[^key-855a7b6264c7585d39049ad99a034db5]: Textual amendment: Word in rule 6.34(2) substituted (2.4.1991) by [The Insolvency (Amendment) Rules 1991 (S.I. 1991/495)](https://www.legislation.gov.uk/uksi/1991/495), [rule 1](https://www.legislation.gov.uk/uksi/1991/495/article/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/1991/495/schedule/paragraph/3)
+[^c-855a7b6264c7585d39049ad99a034db5]: Textual amendment: Word in rule 6.34(2) substituted (2.4.1991) by [The Insolvency (Amendment) Rules 1991 (S.I. 1991/495)](https://www.legislation.gov.uk/uksi/1991/495), [rule 1](https://www.legislation.gov.uk/uksi/1991/495/article/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/1991/495/schedule/paragraph/3)
 
 [^M_F_eef72260-a5d4-40fc-afe2-bfbaca4b813e]: Textual amendment: Words in rule 6.34(3) inserted (22.3.1999) by [The Insolvency (Amendment) Rules 1999 (S.I. 1999/359)](https://www.legislation.gov.uk/uksi/1999/359), [rule 1](https://www.legislation.gov.uk/uksi/1999/359/rule/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/1999/359/schedule/paragraph/4)
 
-[^key-40b71c009b6e73582ba3c17261397a27]: Textual amendment: Words in rule 6.34(3) substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [35](https://www.legislation.gov.uk/uksi/2005/527/rule/35)
+[^c-40b71c009b6e73582ba3c17261397a27]: Textual amendment: Words in rule 6.34(3) substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [35](https://www.legislation.gov.uk/uksi/2005/527/rule/35)

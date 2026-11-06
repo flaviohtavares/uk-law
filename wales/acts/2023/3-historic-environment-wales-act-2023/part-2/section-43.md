@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Compulsory acquisition of monuments of special historic interest[^key-ad4ad01cccc69fb8f93ee7d549addd32][^key-d6d69852d8462df73d127d0bd1690ba4]
+## 43. Compulsory acquisition of monuments of special historic interest[^c-ad4ad01cccc69fb8f93ee7d549addd32][^c-d6d69852d8462df73d127d0bd1690ba4]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ad4ad01cccc69fb8f93ee7d549addd32]: Commencement: S. 43 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-ad4ad01cccc69fb8f93ee7d549addd32]: Commencement: S. 43 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-d6d69852d8462df73d127d0bd1690ba4]: Commencement: [S. 43](https://www.legislation.gov.uk/asc/2023/3/section/43) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-d6d69852d8462df73d127d0bd1690ba4]: Commencement: [S. 43](https://www.legislation.gov.uk/asc/2023/3/section/43) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Rules about investigations etc.[^key-3b3c3b79bdced942503de254c53538ae]
+## 28. Rules about investigations etc.[^c-3b3c3b79bdced942503de254c53538ae]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b3c3b79bdced942503de254c53538ae]: Commencement: S. 28 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
+[^c-3b3c3b79bdced942503de254c53538ae]: Commencement: S. 28 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)

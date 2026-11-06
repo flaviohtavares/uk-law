@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Initiation of investigations by IPCC[^c22718501][^key-8fab522752d53a845eedde4fabac805a]
+## 17. Initiation of investigations by IPCC[^c22718501][^c-8fab522752d53a845eedde4fabac805a]
 
 *Extent: E+W*
 
@@ -90,4 +90,4 @@ summary: ''
 
 [^c22718501]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/3/section/17) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-8fab522752d53a845eedde4fabac805a]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/3/section/17) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/e) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-8fab522752d53a845eedde4fabac805a]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/3/section/17) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/e) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))

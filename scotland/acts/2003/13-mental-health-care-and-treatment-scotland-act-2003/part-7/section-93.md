@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Responsible medical officer’s duties: variation of order[^key-743948b8813fff2c9d0d6b8046e76825]
+## 93. Responsible medical officer’s duties: variation of order[^c-743948b8813fff2c9d0d6b8046e76825]
 
 *Extent: S*
 
@@ -34,7 +34,7 @@ summary: ''
   - (i) the mental health officer; and
   - (ii) such persons as the responsible medical officer considers appropriate.
 
-(4A)[^key-277cd5e58aaa6360bc0a142c510eb091] If, having regard to any views expressed by persons consulted under subsection (4)(c) above, it continues to appear to the responsible medical officer that the compulsory treatment order should be varied as mentioned in subsection (2) above, the responsible medical officer shall, as soon as practicable, notify the mental health officer–
+(4A)[^c-277cd5e58aaa6360bc0a142c510eb091] If, having regard to any views expressed by persons consulted under subsection (4)(c) above, it continues to appear to the responsible medical officer that the compulsory treatment order should be varied as mentioned in subsection (2) above, the responsible medical officer shall, as soon as practicable, notify the mental health officer–
 
 - (a) that the responsible medical officer is proposing to make an application to the Tribunal under section 95 of this Act for an order under section 103 of this Act varying the compulsory treatment order; and
 - (b) the modification of the measures, or any recorded matter, specified in that order that the responsible medical officer is proposing.
@@ -60,14 +60,14 @@ summary: ''
 - (b) the modification of the measures or any recorded matter specified in that order that the responsible medical officer is proposing; and
 - (c) the patient’s rights in relation to such an application.
 
-(5) If, having regard to any views expressed by persons consulted under subsection (4)(c) above and any views expressed by the mental health officer under subsection (4C)(e) above[^key-61281455482bf0cafa9ca709b486e839], the responsible medical officer is satisfied that the compulsory treatment order should be varied as mentioned in subsection (2) above, the responsible medical officer shall make an application to the Tribunal under section 95 of this Act for an order under section 103 of this Act varying the compulsory treatment order in that way.
+(5) If, having regard to any views expressed by persons consulted under subsection (4)(c) above and any views expressed by the mental health officer under subsection (4C)(e) above[^c-61281455482bf0cafa9ca709b486e839], the responsible medical officer is satisfied that the compulsory treatment order should be varied as mentioned in subsection (2) above, the responsible medical officer shall make an application to the Tribunal under section 95 of this Act for an order under section 103 of this Act varying the compulsory treatment order in that way.
 
 (6) An application made under section 95 of this Act, by virtue of subsection (5) above, for an order mentioned in that subsection shall be made as soon as practicable after the duty to make it arises.
 
 ## Annotations
 
-[^key-743948b8813fff2c9d0d6b8046e76825]: Commencement: S. 93 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-743948b8813fff2c9d0d6b8046e76825]: Commencement: S. 93 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-277cd5e58aaa6360bc0a142c510eb091]: Textual amendment: S. 93(4A)-(4E) inserted (2.12.2004) by [Mental Health (Care and Treatment) (Scotland) Act 2003 Modification Order 2004 (S.S.I. 2004/533)](https://www.legislation.gov.uk/ssi/2004/533), [arts. 1](https://www.legislation.gov.uk/ssi/2004/533/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2004/533/article/2/2/a)
+[^c-277cd5e58aaa6360bc0a142c510eb091]: Textual amendment: S. 93(4A)-(4E) inserted (2.12.2004) by [Mental Health (Care and Treatment) (Scotland) Act 2003 Modification Order 2004 (S.S.I. 2004/533)](https://www.legislation.gov.uk/ssi/2004/533), [arts. 1](https://www.legislation.gov.uk/ssi/2004/533/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2004/533/article/2/2/a)
 
-[^key-61281455482bf0cafa9ca709b486e839]: Textual amendment: Words in s. 93(5) inserted (2.12.2004) by [Mental Health (Care and Treatment) (Scotland) Act 2003 Modification Order 2004 (S.S.I. 2004/533)](https://www.legislation.gov.uk/ssi/2004/533), [arts. 1](https://www.legislation.gov.uk/ssi/2004/533/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2004/533/article/2/2/b)
+[^c-61281455482bf0cafa9ca709b486e839]: Textual amendment: Words in s. 93(5) inserted (2.12.2004) by [Mental Health (Care and Treatment) (Scotland) Act 2003 Modification Order 2004 (S.S.I. 2004/533)](https://www.legislation.gov.uk/ssi/2004/533), [arts. 1](https://www.legislation.gov.uk/ssi/2004/533/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2004/533/article/2/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 214A. Scheme valuation and employer cost cap[^key-cfb055c3c0f9fe5e8cf2526bdb46dbd4]
+## 214A. Scheme valuation and employer cost cap[^c-cfb055c3c0f9fe5e8cf2526bdb46dbd4]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 4 has effect.
 
 ## Annotations
 
-[^key-cfb055c3c0f9fe5e8cf2526bdb46dbd4]: Textual amendment: [Reg. 214A](https://www.legislation.gov.uk/ssi/2014/292/regulation/214A) inserted (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [26](https://www.legislation.gov.uk/ssi/2015/97/regulation/26)
+[^c-cfb055c3c0f9fe5e8cf2526bdb46dbd4]: Textual amendment: [Reg. 214A](https://www.legislation.gov.uk/ssi/2014/292/regulation/214A) inserted (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [26](https://www.legislation.gov.uk/ssi/2015/97/regulation/26)

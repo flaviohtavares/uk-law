@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-c3ae180ebb25124352be7ad8d7bf1aa0] The Proceeds of Crime Act 2002 is amended in accordance with subsections (2) to (10).
+(1)[^c-c3ae180ebb25124352be7ad8d7bf1aa0] The Proceeds of Crime Act 2002 is amended in accordance with subsections (2) to (10).
 
-(2)[^key-a66743958f5e8c92f6a9d2d69d538c5a] In section 82 (free property: England and Wales)—
+(2)[^c-a66743958f5e8c92f6a9d2d69d538c5a] In section 82 (free property: England and Wales)—
 
 - (a) in subsection (2), after paragraph (e) insert—
 
@@ -36,7 +36,7 @@ summary: ''
   > - (e) it is detained under paragraph 5B, 5C, 9A or 10G(7) of that Schedule;
   > - (f) it is the forfeitable property in relation to an order under paragraph 10I(1) of that Schedule.
 
-(3)[^key-0f8722b8382fd922f5b910c28eee459e] In section 148 (free property: Scotland)—
+(3)[^c-0f8722b8382fd922f5b910c28eee459e] In section 148 (free property: Scotland)—
 
 - (a) in subsection (2)—
   - (i) omit “or” at the end of paragraph (e);
@@ -52,7 +52,7 @@ summary: ''
   > - (e) it is detained under paragraph 5B, 5C, 9A or 10G(7) of that Schedule;
   > - (f) it is the forfeitable property in relation to an order under paragraph 10I(1) of that Schedule.
 
-(4)[^key-998ec0daec84a0be2509794a952f9f79] In section 230 (free property: Northern Ireland)—
+(4)[^c-998ec0daec84a0be2509794a952f9f79] In section 230 (free property: Northern Ireland)—
 
 - (a) in subsection (2), after paragraph (e) insert—
 
@@ -66,33 +66,33 @@ summary: ''
   > - (e) it is detained under paragraph 5B, 5C, 9A or 10G(7) of that Schedule;
   > - (f) it is the forfeitable property in relation to an order under paragraph 10I(1) of that Schedule.
 
-(5)[^key-a66743958f5e8c92f6a9d2d69d538c5a] In section 245D (restriction on proceedings and remedies), in subsection (1)(b) after “levied” insert “ , and no power to use the procedure in Schedule 12 to the Tribunals, Courts and Enforcement Act 2007 (taking control of goods) may be exercised, ”.
+(5)[^c-a66743958f5e8c92f6a9d2d69d538c5a] In section 245D (restriction on proceedings and remedies), in subsection (1)(b) after “levied” insert “ , and no power to use the procedure in Schedule 12 to the Tribunals, Courts and Enforcement Act 2007 (taking control of goods) may be exercised, ”.
 
-(6)[^key-a66743958f5e8c92f6a9d2d69d538c5a] In section 290 (prior approval to exercise of section 289 search powers), in subsection (4), after paragraph (aa) (inserted by Schedule 1 to this Act) insert—
+(6)[^c-a66743958f5e8c92f6a9d2d69d538c5a] In section 290 (prior approval to exercise of section 289 search powers), in subsection (4), after paragraph (aa) (inserted by Schedule 1 to this Act) insert—
 
 > - (ab) in relation to the exercise of a power by a National Crime Agency officer, the Director General of the National Crime Agency or any other National Crime Agency officer authorised by the Director General (whether generally or specifically) for this purpose,
 
 .
 
-(7)[^key-a66743958f5e8c92f6a9d2d69d538c5a] In section 297A (forfeiture notice), in subsection (6), after paragraph (ba) (inserted by Schedule 1 to this Act, but before the “or” at the end of that paragraph) insert—
+(7)[^c-a66743958f5e8c92f6a9d2d69d538c5a] In section 297A (forfeiture notice), in subsection (6), after paragraph (ba) (inserted by Schedule 1 to this Act, but before the “or” at the end of that paragraph) insert—
 
 > - (bb) the Director General of the National Crime Agency or any other National Crime Agency officer authorised by the Director General (whether generally or specifically) for this purpose,
 
 .
 
-(8)[^key-a66743958f5e8c92f6a9d2d69d538c5a] In section 302 (compensation), after subsection (7ZA) (inserted by Schedule 1 to this Act) insert—
+(8)[^c-a66743958f5e8c92f6a9d2d69d538c5a] In section 302 (compensation), after subsection (7ZA) (inserted by Schedule 1 to this Act) insert—
 
 > (7ZB) If the cash was seized by a National Crime Agency officer, the compensation is to be paid by the National Crime Agency.
 
-(9)[^key-a66743958f5e8c92f6a9d2d69d538c5a] In that section, in subsection (7A)(a)(i), for “that Part of that Act” substitute “ Part 1 of the Police Reform and Social Responsibility Act 2011 ”.
+(9)[^c-a66743958f5e8c92f6a9d2d69d538c5a] In that section, in subsection (7A)(a)(i), for “that Part of that Act” substitute “ Part 1 of the Police Reform and Social Responsibility Act 2011 ”.
 
-(10)[^key-a66743958f5e8c92f6a9d2d69d538c5a] In section 306 (mixing property), in subsection (3) after paragraph (c) insert—
+(10)[^c-a66743958f5e8c92f6a9d2d69d538c5a] In section 306 (mixing property), in subsection (3) after paragraph (c) insert—
 
 > - (ca) for the discharge (in whole or in part) of a mortgage, charge or other security,
 
 .
 
-(11)[^key-a66743958f5e8c92f6a9d2d69d538c5a] In section 8 of the Serious Crime Act 2015 (variation or discharge of confiscation orders), in subsection (3) before paragraph (a) insert—
+(11)[^c-a66743958f5e8c92f6a9d2d69d538c5a] In section 8 of the Serious Crime Act 2015 (variation or discharge of confiscation orders), in subsection (3) before paragraph (a) insert—
 
 > - (za) a confiscation order made under the Drug Trafficking Offences Act 1986,
 
@@ -102,10 +102,10 @@ summary: ''
 
 [^c22725371]: Commencement: S. 34 in force at Royal Assent for specified purposes, see s. 58
 
-[^key-c3ae180ebb25124352be7ad8d7bf1aa0]: Commencement: S. 34(1) in force at 31.1.2018 for specified purposes by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/r)
+[^c-c3ae180ebb25124352be7ad8d7bf1aa0]: Commencement: S. 34(1) in force at 31.1.2018 for specified purposes by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/r)
 
-[^key-a66743958f5e8c92f6a9d2d69d538c5a]: Commencement: S. 34(2)(5)-(11) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/s)
+[^c-a66743958f5e8c92f6a9d2d69d538c5a]: Commencement: S. 34(2)(5)-(11) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/s)
 
-[^key-0f8722b8382fd922f5b910c28eee459e]: Commencement: S. 34(3) in force at 31.1.2018 in so far as not already in force by [S.S.I. 2017/456](https://www.legislation.gov.uk/ssi/2017/456), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2017/456/regulation/2/d)
+[^c-0f8722b8382fd922f5b910c28eee459e]: Commencement: S. 34(3) in force at 31.1.2018 in so far as not already in force by [S.S.I. 2017/456](https://www.legislation.gov.uk/ssi/2017/456), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2017/456/regulation/2/d)
 
-[^key-998ec0daec84a0be2509794a952f9f79]: Commencement: [S. 34(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/34/4) in force at 28.6.2021 in so far as not already in force by [S.R. 2021/167](https://www.legislation.gov.uk/nisr/2021/167), [reg. 2(d)](https://www.legislation.gov.uk/nisr/2021/167/regulation/2/d)
+[^c-998ec0daec84a0be2509794a952f9f79]: Commencement: [S. 34(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/34/4) in force at 28.6.2021 in so far as not already in force by [S.R. 2021/167](https://www.legislation.gov.uk/nisr/2021/167), [reg. 2(d)](https://www.legislation.gov.uk/nisr/2021/167/regulation/2/d)

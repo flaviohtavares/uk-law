@@ -50,7 +50,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 Insofar as these Regulations are made in exercise of powers under the Food Safety Act 1990, the Scottish Ministers have had regard to relevant advice given by the Food Standards Agency in accordance with section 48(4A) of that Act [^c21930521].
 
-There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c21930531].[^key-51fa4064cdd377bd6921527b18eef8f4]
+There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c21930531].[^c-51fa4064cdd377bd6921527b18eef8f4]
 
 ## 1. Citation, extent, commencement and expiry
 
@@ -231,9 +231,9 @@ A person must not trade in a concentrated fruit juice that is not intended for d
 
 (8) Where a claim stating that sugars have not been added to a fruit nectar, or any claim likely to have the same meaning to the consumer, is made and sugars are naturally present in the fruit nectar, the indication “contains naturally occurring sugars” must also appear on the label.
 
-## 15. Manner of marking or labelling[^key-55efcb90fbd1924b261b9bf58f0fac35]
+## 15. Manner of marking or labelling[^c-55efcb90fbd1924b261b9bf58f0fac35]
 
-(1) [^key-e8b27881ca67e3874f140ca61b89d65e]... Articles 8 (responsibilities) and 13 (presentation of mandatory particulars) of Regulation ([^key-200013abb6b6d4f77a63ebbf518d5cf2]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and Commission Regulation [(EC) No 308/2004](https://www.legislation.gov.uk/european/regulation/2004/0308) apply to the particulars with which a regulated product is required to be marked or labelled by the provisions of these Regulations listed in paragraph (2).
+(1) [^c-e8b27881ca67e3874f140ca61b89d65e]... Articles 8 (responsibilities) and 13 (presentation of mandatory particulars) of Regulation ([^c-200013abb6b6d4f77a63ebbf518d5cf2]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and Commission Regulation [(EC) No 308/2004](https://www.legislation.gov.uk/european/regulation/2004/0308) apply to the particulars with which a regulated product is required to be marked or labelled by the provisions of these Regulations listed in paragraph (2).
 
 (2) The provisions are—
 
@@ -290,7 +290,7 @@ The following are revoked—
 
 Schedule 15 has effect.
 
-## 21. Transitional provisions[^key-c44113deb1eaffac8af23dc6528cc052]
+## 21. Transitional provisions[^c-c44113deb1eaffac8af23dc6528cc052]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -425,9 +425,9 @@ Regulation 2(3)
 
 ### PART 1 — General specification for fruit nectar
 
-**1.** Fruit nectar is the fermentable but unfermented product that is obtained by adding water to a product[^key-a12e0db75da2dd63f02317743416b8c2] listed in paragraph 2, either with or without one or both of the substances listed in paragraph 3.
+**1.** Fruit nectar is the fermentable but unfermented product that is obtained by adding water to a product[^c-a12e0db75da2dd63f02317743416b8c2] listed in paragraph 2, either with or without one or both of the substances listed in paragraph 3.
 
-**2.** The products[^key-93235e2131d1096a16ebc731e4918266] are—
+**2.** The products[^c-93235e2131d1096a16ebc731e4918266] are—
 
 - (a) fruit juice;
 - (b) fruit juice from concentrate;
@@ -554,7 +554,7 @@ Regulation 3(1)
 
 **9.** Chemically inert adsorption aids which comply with Regulation 1935/2004 and which are used to reduce the limonoid and naringin content of citrus juice without significantly affecting the limonoid glucosides, acid, sugars (including oligosaccharides) or mineral content of such juice.
 
-**10.**[^key-97c6f5b8acf783a9a4d4965ed06fc143] Plant proteins for clarification from—
+**10.**[^c-97c6f5b8acf783a9a4d4965ed06fc143] Plant proteins for clarification from—
 
 - (a) wheat,
 - (b) peas,
@@ -710,7 +710,7 @@ A full business and regulatory impact assessment of the effect these Regulations
 
 [^c21930531]: Marginal citation: OJ L 31, 1.2.2002, p.1, last amended by Commission Regulation (EC) No 596/2009 (OJ L 188, 18.7.2009, p.14).
 
-[^key-51fa4064cdd377bd6921527b18eef8f4]: Modification: [Instrument](https://www.legislation.gov.uk/ssi/2013/305) applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-51fa4064cdd377bd6921527b18eef8f4]: Modification: [Instrument](https://www.legislation.gov.uk/ssi/2013/305) applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^c21930541]: Marginal citation: OJ L 10, 12.1.2002, p.58, last amended by Directive 2012/12/EU of the European Parliament and of the Council (OJ L 115, 27.4.2012, p.1).
 
@@ -722,11 +722,11 @@ A full business and regulatory impact assessment of the effect these Regulations
 
 [^c21930581]: Marginal citation: OJ L 10, 12.1.2002, p.53, to which there are corrigenda not relevant to the English version of the Directive.
 
-[^key-55efcb90fbd1924b261b9bf58f0fac35]: Modification: [Reg. 15](https://www.legislation.gov.uk/ssi/2013/305/regulation/15) ceases to have effect (13.12.2014) by virtue of [The Fruit Juices and Fruit Nectars (Scotland) Regulations 2013 (S.S.I. 2013/305)](https://www.legislation.gov.uk/ssi/2013/305), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2013/305/regulation/1/3)
+[^c-55efcb90fbd1924b261b9bf58f0fac35]: Modification: [Reg. 15](https://www.legislation.gov.uk/ssi/2013/305/regulation/15) ceases to have effect (13.12.2014) by virtue of [The Fruit Juices and Fruit Nectars (Scotland) Regulations 2013 (S.S.I. 2013/305)](https://www.legislation.gov.uk/ssi/2013/305), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2013/305/regulation/1/3)
 
-[^key-e8b27881ca67e3874f140ca61b89d65e]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/ssi/2013/305/regulation/15/1) omitted (13.12.2014) by virtue of [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 18](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/18)
+[^c-e8b27881ca67e3874f140ca61b89d65e]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/ssi/2013/305/regulation/15/1) omitted (13.12.2014) by virtue of [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 18](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/18)
 
-[^key-200013abb6b6d4f77a63ebbf518d5cf2]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/ssi/2013/305/regulation/15/1) inserted (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 18](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/18)
+[^c-200013abb6b6d4f77a63ebbf518d5cf2]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/ssi/2013/305/regulation/15/1) inserted (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 18](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/18)
 
 [^c21930601]: Marginal citation: [S.S.I. 2003/293](https://www.legislation.gov.uk/ssi/2003/293) as last amended by [S.S.I. 2011/153](https://www.legislation.gov.uk/ssi/2011/153).
 
@@ -734,7 +734,7 @@ A full business and regulatory impact assessment of the effect these Regulations
 
 [^c21930621]: Marginal citation: [S.S.I. 2011/153](https://www.legislation.gov.uk/ssi/2011/153).
 
-[^key-c44113deb1eaffac8af23dc6528cc052]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/ssi/2013/305/regulation/21) omitted (28.3.2019) by virtue of [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [11(2)](https://www.legislation.gov.uk/ssi/2019/33/regulation/11/2)
+[^c-c44113deb1eaffac8af23dc6528cc052]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/ssi/2013/305/regulation/21) omitted (28.3.2019) by virtue of [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [11(2)](https://www.legislation.gov.uk/ssi/2019/33/regulation/11/2)
 
 [^c21930641]: Marginal citation: OJ L 330, 5.12.1998, p.32, last amended by Regulation (EC) No 596/2009 of the European Parliament and of the Council (OJ No L 188, 18.7.2009, p.14).
 
@@ -742,11 +742,11 @@ A full business and regulatory impact assessment of the effect these Regulations
 
 [^c21930661]: Marginal citation: OJ L 354, 31.12.2008, p.7, last amended by Commission Regulation (EU) No 1056/2012 (OJ L 313, 13.11.2012, p.9).
 
-[^key-a12e0db75da2dd63f02317743416b8c2]: Textual amendment: Word in [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2013/305/schedule/7/paragraph/1) substituted (28.3.2019) by [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [11(3)(a)](https://www.legislation.gov.uk/ssi/2019/33/regulation/11/3/a)
+[^c-a12e0db75da2dd63f02317743416b8c2]: Textual amendment: Word in [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2013/305/schedule/7/paragraph/1) substituted (28.3.2019) by [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [11(3)(a)](https://www.legislation.gov.uk/ssi/2019/33/regulation/11/3/a)
 
-[^key-93235e2131d1096a16ebc731e4918266]: Textual amendment: Word in [sch. 7 para. 2](https://www.legislation.gov.uk/ssi/2013/305/schedule/7/paragraph/2) substituted (28.3.2019) by [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [11(3)(b)](https://www.legislation.gov.uk/ssi/2019/33/regulation/11/3/b)
+[^c-93235e2131d1096a16ebc731e4918266]: Textual amendment: Word in [sch. 7 para. 2](https://www.legislation.gov.uk/ssi/2013/305/schedule/7/paragraph/2) substituted (28.3.2019) by [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [11(3)(b)](https://www.legislation.gov.uk/ssi/2019/33/regulation/11/3/b)
 
-[^key-97c6f5b8acf783a9a4d4965ed06fc143]: Textual amendment: [Sch. 9 para. 10](https://www.legislation.gov.uk/ssi/2013/305/schedule/9/paragraph/10) inserted (28.3.2019) by [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [11(4)](https://www.legislation.gov.uk/ssi/2019/33/regulation/11/4)
+[^c-97c6f5b8acf783a9a4d4965ed06fc143]: Textual amendment: [Sch. 9 para. 10](https://www.legislation.gov.uk/ssi/2013/305/schedule/9/paragraph/10) inserted (28.3.2019) by [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [11(4)](https://www.legislation.gov.uk/ssi/2019/33/regulation/11/4)
 
 [^c21930671]: Marginal citation: [Section 35(1)](https://www.legislation.gov.uk/ssi/2013/305/section/35/1) is amended by paragraph 42 of Schedule 26 to the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) from a date to be appointed.
 

@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 18
 
-### 1. Interpretation[^key-2a27100f235e6970c9fd3caa0f6dd8ee]
+### 1. Interpretation[^c-2a27100f235e6970c9fd3caa0f6dd8ee]
 
 In this Schedule—
 
@@ -44,7 +44,7 @@ In this Schedule—
 
 ### PART 1 — Plants, plant products or other objects from third countries
 
-#### 2. Temporary measures in relation to Ceratocystis platani (J.M. Walter) Engelbr. & T.C. Harr.[^key-df9d164b605a119870640c21c39f4315]
+#### 2. Temporary measures in relation to Ceratocystis platani (J.M. Walter) Engelbr. & T.C. Harr.[^c-df9d164b605a119870640c21c39f4315]
 
 (1) No person may introduce any used machinery or vehicles which have been operated for agricultural or forestry purposes and exported from Switzerland unless the machinery or vehicles—
 
@@ -53,13 +53,13 @@ In this Schedule—
 
 (2) Sub-paragraph (1) is subject to paragraph 5(1).
 
-#### 3. Temporary measures in relation to Candidatus Phytoplasma ulmi[^key-60022e7e8855ce22a0a763db2f3cd830]
+#### 3. Temporary measures in relation to Candidatus Phytoplasma ulmi[^c-60022e7e8855ce22a0a763db2f3cd830]
 
 (1) No person may introduce any plants intended for planting, other than seeds, of *Ulmus* L. which originate in Canada or the USA unless they are accompanied by a phytosanitary certificate which includes an official statement confirming that no symptoms of *Candidatus* Phytoplasma *ulmi* have been observed at the place of production of the plants or in the immediate vicinity of the place of production since the beginning of the last complete cycle of vegetation.
 
 (2) Sub-paragraph (1) is subject to paragraph 5(1).
 
-#### 4. Temporary measures in relation to Agrilus planipennis Fairmaire[^key-0761375a2216dc85cf779a1f09854d54]
+#### 4. Temporary measures in relation to Agrilus planipennis Fairmaire[^c-0761375a2216dc85cf779a1f09854d54]
 
 (1) This paragraph applies to plants, plant products or other objects described in columns (2) and (3) of Table 1 in so far as they are not subject to the prohibition on the introduction into the Union territory of high-risk plants, plant products or other objects that applies by virtue of Article 42(2) of the EU Plant Health Regulation.
 
@@ -84,7 +84,7 @@ Table 1
 - (¹) The name of the area(s) must be included in the phytosanitary certificate under the heading “Additional declaration”.
 - (²) “wood packaging material” means wood in the form of packing cases, boxes, crates, drums or similar packings, pallets, box pallets or other load boards, pallet collars or dunnage, whether or not actually in use in the transport of objects of any kind.
 
-#### 5. Exception for controlled material in transit[^key-95e13eaf84590fa0f961321fe5cfa2ed]
+#### 5. Exception for controlled material in transit[^c-95e13eaf84590fa0f961321fe5cfa2ed]
 
 (1) Paragraphs 2(1), 3(1) and 4(2) do not apply to the introduction of any controlled material from a third country if the controlled material is in transit when it arrives in Northern Ireland, or is to be transhipped on its arrival in Northern Ireland, and the conditions in sub-paragraph (2) are met.
 
@@ -100,7 +100,7 @@ Table 1
 
 ### PART 2 — Plants, plant products or other objects from another part of the Union territory
 
-#### 6. Temporary measures applying to the introduction of plants, plant products or other objects from another part of the Union territory[^key-95c39768a0999ffd6a37c96a52ace610]
+#### 6. Temporary measures applying to the introduction of plants, plant products or other objects from another part of the Union territory[^c-95c39768a0999ffd6a37c96a52ace610]
 
 In this Part—
 
@@ -108,7 +108,7 @@ In this Part—
 - “official statement” means a statement issued by, or under the supervision of, an unauthorised representative of the competent authority in the member State of origin;
 - “Spain” means that part of Spain which is included within the Union territory for the purposes of the EU Plant Health Regulation, other than the Balearic Islands.
 
-**7.**[^key-4154e8098c4ded227be19e0d488eb025] No person may introduce or move any plants, plant products or other objects described in column 2 of Table 2 unless that person is a registered operator and the plants, plant products or other objects are accompanied by an official statement confirming the matters set out in the corresponding entry in column 3 of that Table.
+**7.**[^c-4154e8098c4ded227be19e0d488eb025] No person may introduce or move any plants, plant products or other objects described in column 2 of Table 2 unless that person is a registered operator and the plants, plant products or other objects are accompanied by an official statement confirming the matters set out in the corresponding entry in column 3 of that Table.
 
 Table 2
 
@@ -120,7 +120,7 @@ Table 2
 
 ### PART 3 — Official controls on consignments from third countries
 
-**8.**[^key-b72fd16219e8d6be2f27dc185e767093] (1) In this Part—
+**8.**[^c-b72fd16219e8d6be2f27dc185e767093] (1) In this Part—
 
 - “border control post” means a border control post in Northern Ireland which has been designated pursuant to Article 59(1) of the Official Controls Regulation for the purposes of the rules referred to in Article 1(2)(g) of that Regulation;
 - “documentary check”, in relation to a Schedule 1 consignment, means an examination of the phytosanitary certificate or transit declaration which is required to accompany the consignment on its introduction from a third country pursuant to Part 1;
@@ -134,7 +134,7 @@ Table 2
 
 (2) Where any controlled material is required to be accompanied by a phytosanitary certificate pursuant to Part 1, any reference in this Part to the controlled material complying with the domestic import rules relating to that material is to be construed as including its compliance with the matters certified in the official statement that has been included in the phytosanitary certificate in respect of the controlled material.
 
-#### 9. Application of this Part[^key-b9ee4256215c75bc188be3419143c1ed]
+#### 9. Application of this Part[^c-b9ee4256215c75bc188be3419143c1ed]
 
 (1) This Part applies to a Schedule 1 consignment which is to be, or is, brought into the Union territory from a third country where its point of first arrival into the Union territory is in Northern Ireland.
 
@@ -145,7 +145,7 @@ Table 2
 
 (3) Where a Schedule 1 consignment contains any plant, plant product or other object which is not controlled material, and Article 47(1) of the Official Controls Regulation applies in relation to that plant, plant product or other object, this Part applies only for the purposes of the performance of official controls on the controlled material in the consignment.
 
-#### 10. Notification and presentation of Schedule 1 consignments[^key-231e6282cebc7b1356a1f8c1657e438d]
+#### 10. Notification and presentation of Schedule 1 consignments[^c-231e6282cebc7b1356a1f8c1657e438d]
 
 (1) A “plant health entry document” is an entry document, in the form required by the Department, to be used—
 
@@ -167,11 +167,11 @@ Table 2
 - “temporary border control post” means a border control post which has been exempted from the obligations in Article 64(3)(a), (c) and (f) of the Official Controls Regulation pursuant to Article 4 of Commission Delegated Regulation (EU) 2019/1012 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council by derogating from the rules on the designation of control points and from the minimum requirements for border control posts[^f00049];
 - “working day” and “working hour” have the same meaning as in regulation 7(4).
 
-#### 11. Consignments not correctly presented for official controls[^key-1a3b010280bba743be739908a0af031f]
+#### 11. Consignments not correctly presented for official controls[^c-1a3b010280bba743be739908a0af031f]
 
 Where a plant health inspector suspects or is aware that a consignment which has arrived at a border control post in Northern Ireland is a Schedule 1 consignment and the operator responsible for that consignment has not presented the consignment to the Department in accordance with paragraph 10(4), the plant health inspector must serve a notice on the operator recalling the consignment and placing the consignment under official detention.
 
-#### 12. Official controls to be performed on Schedule 1 consignments[^key-0c46cf753f4e261dc9438c472e36d0c2]
+#### 12. Official controls to be performed on Schedule 1 consignments[^c-0c46cf753f4e261dc9438c472e36d0c2]
 
 (1) The Department must perform official controls on a Schedule 1 consignment at the border control post of arrival.
 
@@ -203,7 +203,7 @@ pending the outcome of any additional official controls on the consignment which
 - (a) in relation to an airport, three days or more;
 - (b) in relation to a port, 30 days or more.
 
-#### 13. Completion of official controls[^key-40c62e2a2aa7379bfb72d6d529def79e]
+#### 13. Completion of official controls[^c-40c62e2a2aa7379bfb72d6d529def79e]
 
 Following the completion of official controls on a Schedule 1 consignment, a plant health inspector must—
 
@@ -211,7 +211,7 @@ Following the completion of official controls on a Schedule 1 consignment, a pla
 - (b) finalise the plant health entry document for that consignment; and
 - (c) where the finalised plant health entry document authorises the placing and handling of the consignment under a relevant customs procedure and the consignment was accompanied by a phytosanitary certificate, provide the responsible operator with an authenticated copy of the phytosanitary certificate or, if the consignment is to be split, with authenticated copies of the phytosanitary certificate for each part of the split consignment.
 
-#### 14. Removal of Schedule 1 consignments from border control posts of arrival[^key-710af46c01673fca98b29d33c4f8f42e]
+#### 14. Removal of Schedule 1 consignments from border control posts of arrival[^c-710af46c01673fca98b29d33c4f8f42e]
 
 (1) No person may remove a Schedule 1 consignment from its border control post of arrival or split the consignment unless—
 
@@ -226,7 +226,7 @@ Following the completion of official controls on a Schedule 1 consignment, a pla
 
 (5) In this paragraph, “HMRC” means Her Majesty’s Revenue and Customs.
 
-#### 15. Measures to be taken on non-compliant Schedule 1 consignments[^key-dab9c1896998f2d88710a8610fe16dc3]
+#### 15. Measures to be taken on non-compliant Schedule 1 consignments[^c-dab9c1896998f2d88710a8610fe16dc3]
 
 (1) Where a plant health inspector is of the opinion that a Schedule 1 consignment has been brought into Northern Ireland in contravention of a domestic import rule or that it does not otherwise comply with a domestic import rule relating to the controlled material in the consignment, the plant health inspector must—
 
@@ -243,7 +243,7 @@ Following the completion of official controls on a Schedule 1 consignment, a pla
 
 (3) The operator responsible for a Schedule 1 consignment which is detained pursuant to this paragraph must store the consignment and take the measures specified in the notice served pursuant to sub-paragraph (1)(c) at the operator’s own expense.
 
-#### 16. Measures to be taken on Schedule 1 consignments[^key-8ee20bed0efb34a862d661bc407d22cd]
+#### 16. Measures to be taken on Schedule 1 consignments[^c-8ee20bed0efb34a862d661bc407d22cd]
 
 (1) This paragraph applies where—
 
@@ -259,7 +259,7 @@ Following the completion of official controls on a Schedule 1 consignment, a pla
   - (ii) treat the controlled material in the consignment in a manner that ensures that the risk to plant health arising from the controlled material is eliminated and that it otherwise complies with the domestic import rules or any EU plant health rules relating to the controlled material; and
 - (c) invalidate the phytosanitary certificate or transit declaration accompanying the consignment (as the case may be).
 
-#### 17. Notification of decisions to refuse the entry of a Schedule 1 consignment into Northern Ireland[^key-8d2a2fc23411c842ac8d7f1e1fb23464]
+#### 17. Notification of decisions to refuse the entry of a Schedule 1 consignment into Northern Ireland[^c-8d2a2fc23411c842ac8d7f1e1fb23464]
 
 (1) The Department must ensure that any decision by a plant health inspector to refuse a Schedule 1 consignment entry into Northern Ireland is immediately notified in writing to—
 
@@ -275,7 +275,7 @@ Following the completion of official controls on a Schedule 1 consignment, a pla
 - (b) in relation to Scotland, the Scottish Ministers;
 - (c) in relation to Wales, the Welsh Ministers.
 
-#### 18. Notices under this Part[^key-63ed9166a715df65eecd38735be0a22a]
+#### 18. Notices under this Part[^c-63ed9166a715df65eecd38735be0a22a]
 
 A notice in relation to a Schedule 1 consignment under this Part may include any of the following—
 
@@ -285,48 +285,48 @@ A notice in relation to a Schedule 1 consignment under this Part may include any
 
 ## Annotations
 
-[^key-2a27100f235e6970c9fd3caa0f6dd8ee]: Commencement: Sch. 1 para. 1 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-2a27100f235e6970c9fd3caa0f6dd8ee]: Commencement: Sch. 1 para. 1 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00045]: Footnote: Adopted in 1951 (Treaty Series No. 16 (1954), Cmd 9077) and last revised in 1997 (Miscellaneous Series No. 15 (2003), Cmd 5945).
 
 [^f00046]: Footnote: Available from the IPPC Secretariat, AGPP-FAO, Viale Delle Terme di Caracalla, 00153, Rome, Italy and at https://www.ippc.int/int.
 
-[^key-df9d164b605a119870640c21c39f4315]: Commencement: Sch. 1 para. 2 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-df9d164b605a119870640c21c39f4315]: Commencement: Sch. 1 para. 2 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-60022e7e8855ce22a0a763db2f3cd830]: Commencement: Sch. 1 para. 3 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-60022e7e8855ce22a0a763db2f3cd830]: Commencement: Sch. 1 para. 3 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-0761375a2216dc85cf779a1f09854d54]: Commencement: Sch. 1 para. 4 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-0761375a2216dc85cf779a1f09854d54]: Commencement: Sch. 1 para. 4 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00047]: Footnote: “Union quarantine pest” is defined in Article 4 of Regulation (EU) 2016/2031 of the European Parliament and of the Council on protective measures against pests of plants (O.J. No. L 317, 23.11.2016, p.4), as amended by Regulation (EU) 2017/625 (O.J. No. L 95, 7.4.2017, p. 1).
 
-[^key-95e13eaf84590fa0f961321fe5cfa2ed]: Commencement: Sch. 1 para. 5 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-95e13eaf84590fa0f961321fe5cfa2ed]: Commencement: Sch. 1 para. 5 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00048]: Footnote: “Protected zone quarantine pest” is defined in Article 32 of Regulation (EU) 2016/2031.
 
-[^key-95c39768a0999ffd6a37c96a52ace610]: Commencement: Sch. 1 para. 6 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-95c39768a0999ffd6a37c96a52ace610]: Commencement: Sch. 1 para. 6 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-4154e8098c4ded227be19e0d488eb025]: Commencement: Sch. 1 para. 7 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-4154e8098c4ded227be19e0d488eb025]: Commencement: Sch. 1 para. 7 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-b72fd16219e8d6be2f27dc185e767093]: Commencement: Sch. 1 para. 8 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-b72fd16219e8d6be2f27dc185e767093]: Commencement: Sch. 1 para. 8 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-b9ee4256215c75bc188be3419143c1ed]: Commencement: Sch. 1 para. 9 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-b9ee4256215c75bc188be3419143c1ed]: Commencement: Sch. 1 para. 9 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-231e6282cebc7b1356a1f8c1657e438d]: Commencement: Sch. 1 para. 10 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-231e6282cebc7b1356a1f8c1657e438d]: Commencement: Sch. 1 para. 10 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00049]: Footnote: O.J. No. L 165, 21.6.2019, p. 4.
 
-[^key-1a3b010280bba743be739908a0af031f]: Commencement: Sch. 1 para. 11 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-1a3b010280bba743be739908a0af031f]: Commencement: Sch. 1 para. 11 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-0c46cf753f4e261dc9438c472e36d0c2]: Commencement: Sch. 1 para. 12 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-0c46cf753f4e261dc9438c472e36d0c2]: Commencement: Sch. 1 para. 12 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-40c62e2a2aa7379bfb72d6d529def79e]: Commencement: Sch. 1 para. 13 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-40c62e2a2aa7379bfb72d6d529def79e]: Commencement: Sch. 1 para. 13 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-710af46c01673fca98b29d33c4f8f42e]: Commencement: Sch. 1 para. 14 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-710af46c01673fca98b29d33c4f8f42e]: Commencement: Sch. 1 para. 14 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-dab9c1896998f2d88710a8610fe16dc3]: Commencement: Sch. 1 para. 15 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-dab9c1896998f2d88710a8610fe16dc3]: Commencement: Sch. 1 para. 15 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-8ee20bed0efb34a862d661bc407d22cd]: Commencement: Sch. 1 para. 16 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-8ee20bed0efb34a862d661bc407d22cd]: Commencement: Sch. 1 para. 16 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-8d2a2fc23411c842ac8d7f1e1fb23464]: Commencement: Sch. 1 para. 17 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-8d2a2fc23411c842ac8d7f1e1fb23464]: Commencement: Sch. 1 para. 17 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-63ed9166a715df65eecd38735be0a22a]: Commencement: Sch. 1 para. 18 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-63ed9166a715df65eecd38735be0a22a]: Commencement: Sch. 1 para. 18 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

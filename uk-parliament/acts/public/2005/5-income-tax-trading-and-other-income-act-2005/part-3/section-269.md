@@ -24,12 +24,12 @@ summary: ''
 
 (2) Profits of an overseas property business are chargeable to tax under this Chapter only if the business is carried on by a UK resident.
 
-(3)[^key-2a98b832dd13dd0ee8400c8f558761a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2a98b832dd13dd0ee8400c8f558761a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-c48181a8559a1814bd105f75a3334fcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c48181a8559a1814bd105f75a3334fcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2a98b832dd13dd0ee8400c8f558761a6]: Textual amendment: S. 269(3) omitted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 48](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/48)
+[^c-2a98b832dd13dd0ee8400c8f558761a6]: Textual amendment: S. 269(3) omitted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 48](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/48)
 
-[^key-c48181a8559a1814bd105f75a3334fcd]: Textual amendment: S. 269(4) omitted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 48](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/48)
+[^c-c48181a8559a1814bd105f75a3334fcd]: Textual amendment: S. 269(4) omitted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 48](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/48)

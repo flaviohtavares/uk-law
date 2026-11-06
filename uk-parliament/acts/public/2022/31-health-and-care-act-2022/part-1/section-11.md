@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Information about inequalities[^key-1f72f44cb1d274ff3bdf26b678b1b8a2][^key-3d5752c1d80c65bfd54a0182deedb173]
+## 11. Information about inequalities[^c-1f72f44cb1d274ff3bdf26b678b1b8a2][^c-3d5752c1d80c65bfd54a0182deedb173]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f72f44cb1d274ff3bdf26b678b1b8a2]: Commencement: S. 11 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-1f72f44cb1d274ff3bdf26b678b1b8a2]: Commencement: S. 11 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-3d5752c1d80c65bfd54a0182deedb173]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2022/31/section/11) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-3d5752c1d80c65bfd54a0182deedb173]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2022/31/section/11) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

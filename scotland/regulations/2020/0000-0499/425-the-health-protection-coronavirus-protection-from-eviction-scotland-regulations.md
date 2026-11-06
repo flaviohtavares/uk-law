@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus) (Protection from Eviction) (Scotland) Regulations 2020 (revoked)[^key-1b5edb7fceff12facd8ae6cf2e4c4c4d]
+The Health Protection (Coronavirus) (Protection from Eviction) (Scotland) Regulations 2020 (revoked)[^c-1b5edb7fceff12facd8ae6cf2e4c4c4d]
 
 Approved by the Scottish Parliament
 
@@ -48,32 +48,32 @@ Coming into force
 
 11th December 2020
 
-[^key-1b5edb7fceff12facd8ae6cf2e4c4c4d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b5edb7fceff12facd8ae6cf2e4c4c4d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1b5edb7fceff12facd8ae6cf2e4c4c4d]
+## 1. Citation and commencement[^c-1b5edb7fceff12facd8ae6cf2e4c4c4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Residential Tenancies (Protection from Eviction)[^key-1b5edb7fceff12facd8ae6cf2e4c4c4d]
+## 2. Residential Tenancies (Protection from Eviction)[^c-1b5edb7fceff12facd8ae6cf2e4c4c4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential provision[^key-1b5edb7fceff12facd8ae6cf2e4c4c4d]
+## 3. Consequential provision[^c-1b5edb7fceff12facd8ae6cf2e4c4c4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Expiry of regulation 2[^key-1b5edb7fceff12facd8ae6cf2e4c4c4d]
+## 4. Expiry of regulation 2[^c-1b5edb7fceff12facd8ae6cf2e4c4c4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b5edb7fceff12facd8ae6cf2e4c4c4d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b5edb7fceff12facd8ae6cf2e4c4c4d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1b5edb7fceff12facd8ae6cf2e4c4c4d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b5edb7fceff12facd8ae6cf2e4c4c4d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1b5edb7fceff12facd8ae6cf2e4c4c4d]: Textual amendment: Regulations revoked (22.1.2021) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Amendment (No. 12) Regulations 2021 (S.S.I. 2021/17)](https://www.legislation.gov.uk/ssi/2021/17), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2021/17/regulation/1/3), [14(1)](https://www.legislation.gov.uk/ssi/2021/17/regulation/14/1)
+[^c-1b5edb7fceff12facd8ae6cf2e4c4c4d]: Textual amendment: Regulations revoked (22.1.2021) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Amendment (No. 12) Regulations 2021 (S.S.I. 2021/17)](https://www.legislation.gov.uk/ssi/2021/17), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2021/17/regulation/1/3), [14(1)](https://www.legislation.gov.uk/ssi/2021/17/regulation/14/1)

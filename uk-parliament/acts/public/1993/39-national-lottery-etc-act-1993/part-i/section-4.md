@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Overriding duties of the Secretary of State and Director General.[^key-6fcefd7295f0970c9c3dba7ee879168d][^key-00c727d538ebbaf2b2a8669c76e6da5d]
+## 4. Overriding duties of the Secretary of State and Director General.[^c-6fcefd7295f0970c9c3dba7ee879168d][^c-00c727d538ebbaf2b2a8669c76e6da5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6fcefd7295f0970c9c3dba7ee879168d]: Modification: S. 4 modified (8.4.2005) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 34(2)](https://www.legislation.gov.uk/ukpga/2004/25/section/34/2), [40](https://www.legislation.gov.uk/ukpga/2004/25/section/40); [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)
+[^c-6fcefd7295f0970c9c3dba7ee879168d]: Modification: S. 4 modified (8.4.2005) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 34(2)](https://www.legislation.gov.uk/ukpga/2004/25/section/34/2), [40](https://www.legislation.gov.uk/ukpga/2004/25/section/40); [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)
 
-[^key-00c727d538ebbaf2b2a8669c76e6da5d]: Modification: S. 4 functions made partly exercisable concurrently (22.8.2007) by [The Transfer of Functions (Olympics and Paralympics) Order 2007 (S.I. 2007/2129)](https://www.legislation.gov.uk/uksi/2007/2129), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2129/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/1)[(2)(a)(i)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/2/a/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2129/article/4))
+[^c-00c727d538ebbaf2b2a8669c76e6da5d]: Modification: S. 4 functions made partly exercisable concurrently (22.8.2007) by [The Transfer of Functions (Olympics and Paralympics) Order 2007 (S.I. 2007/2129)](https://www.legislation.gov.uk/uksi/2007/2129), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2129/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/1)[(2)(a)(i)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/2/a/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2129/article/4))

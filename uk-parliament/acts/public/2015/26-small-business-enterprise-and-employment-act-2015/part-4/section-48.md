@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Referral for arbitration by tied pub tenants[^key-4fa4014c5eee950ef0c4d63c96b73ce0]
+## 48. Referral for arbitration by tied pub tenants[^c-4fa4014c5eee950ef0c4d63c96b73ce0]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fa4014c5eee950ef0c4d63c96b73ce0]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2015/26/section/48) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)
+[^c-4fa4014c5eee950ef0c4d63c96b73ce0]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2015/26/section/48) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Order of priority in distribution[^key-7f9dccf84964e82688c2ce1fb884da05]
+## 79. Order of priority in distribution[^c-7f9dccf84964e82688c2ce1fb884da05]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Apply rule 4.66 of the 1986 Rules[^f00037].
 
 ## Annotations
 
-[^key-7f9dccf84964e82688c2ce1fb884da05]: Commencement: Rule 79 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-7f9dccf84964e82688c2ce1fb884da05]: Commencement: Rule 79 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00037]: Footnote: Rule 4.66 was amended by paragraph 31 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921).

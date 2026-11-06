@@ -46,15 +46,15 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-82b302e2cf8a9968ea70d72078c46623]
+## 1. Citation and commencement[^c-82b302e2cf8a9968ea70d72078c46623]
 
 These Regulations may be cited as the Plant Health Fees (Scotland) Amendment Regulations 2007 and shall come into force on 1st July 2007.
 
-## 2. Amendment to the Plant Health Fees (Scotland) Regulations 1996[^key-bf76f4940843a9ccdc12280078015a8d]
+## 2. Amendment to the Plant Health Fees (Scotland) Regulations 1996[^c-bf76f4940843a9ccdc12280078015a8d]
 
 The Plant Health Fees (Scotland) Regulations 1996[^f00002] are amended in accordance with regulation 3.
 
-## 3. Amendment of regulation 2[^key-0fda44121cd7cb6dc036a6e532e86205]
+## 3. Amendment of regulation 2[^c-0fda44121cd7cb6dc036a6e532e86205]
 
 In regulation 2(1) (interpretation)–
 
@@ -100,13 +100,13 @@ No regulatory impact assessment has been carried out in respect of these Regulat
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3). The functions conferred upon the Minister of the Crown under section 2(2) of the European Communities Act 1972, in so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-82b302e2cf8a9968ea70d72078c46623]: Commencement: Reg. 1 in force at 1.7.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/314/regulation/1)
+[^c-82b302e2cf8a9968ea70d72078c46623]: Commencement: Reg. 1 in force at 1.7.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/314/regulation/1)
 
-[^key-bf76f4940843a9ccdc12280078015a8d]: Commencement: Reg. 2 in force at 1.7.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/314/regulation/1)
+[^c-bf76f4940843a9ccdc12280078015a8d]: Commencement: Reg. 2 in force at 1.7.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/314/regulation/1)
 
 [^f00002]: Footnote: S.I. [1996/1784 (S148)](https://www.legislation.gov.uk/uksi/1996/1784) as amended by [S.S.I. 2004/249](https://www.legislation.gov.uk/ssi/2004/249) and [S.S.I. 2005/555](https://www.legislation.gov.uk/ssi/2005/555).
 
-[^key-0fda44121cd7cb6dc036a6e532e86205]: Commencement: Reg. 3 in force at 1.7.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/314/regulation/1)
+[^c-0fda44121cd7cb6dc036a6e532e86205]: Commencement: Reg. 3 in force at 1.7.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2007/314/regulation/1)
 
 [^f00003]: Footnote: [S.S.I. 2004/488](https://www.legislation.gov.uk/ssi/2004/488).
 

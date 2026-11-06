@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 202. Law applicable to contracts of insurance[^key-98fbf0f1614f7768bf3f4e663c732217]
+## 202. Law applicable to contracts of insurance[^c-98fbf0f1614f7768bf3f4e663c732217]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ The following provisions of the Friendly Societies Act 1992 are repealed (having
 
 ## Annotations
 
-[^key-98fbf0f1614f7768bf3f4e663c732217]: Commencement: Art. 202 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-98fbf0f1614f7768bf3f4e663c732217]: Commencement: Art. 202 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00145]: Footnote: [S.I. 2001/2635](https://www.legislation.gov.uk/uksi/2001/2635).
 

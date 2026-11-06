@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Changes and corrections of information[^key-ad4fae239d823e2cebf7de69fcf558ad]
+## 36. Changes and corrections of information[^c-ad4fae239d823e2cebf7de69fcf558ad]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad4fae239d823e2cebf7de69fcf558ad]: Commencement: [S. 36](https://www.legislation.gov.uk/anaw/2017/3/section/36) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(j)](https://www.legislation.gov.uk/wsi/2018/35/article/2/j)
+[^c-ad4fae239d823e2cebf7de69fcf558ad]: Commencement: [S. 36](https://www.legislation.gov.uk/anaw/2017/3/section/36) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(j)](https://www.legislation.gov.uk/wsi/2018/35/article/2/j)

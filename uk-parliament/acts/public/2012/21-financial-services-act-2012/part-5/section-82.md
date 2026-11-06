@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Publication of reports of inquiries and investigations[^key-aa7b81988f22c8501a5c30a05caf6a1e]
+## 82. Publication of reports of inquiries and investigations[^c-aa7b81988f22c8501a5c30a05caf6a1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) The Treasury may withhold material in the report from publication to such extent—
 
-- (a) as is required by any statutory provision (including any provision of[^key-9b2b04a61a0344565fadf58230e18eab] assimilated direct[^key-14d2e8635f8ac0ef582e2d5d27826165] legislation) or rule of law, or
+- (a) as is required by any statutory provision (including any provision of[^c-9b2b04a61a0344565fadf58230e18eab] assimilated direct[^c-14d2e8635f8ac0ef582e2d5d27826165] legislation) or rule of law, or
 - (b) as the Treasury consider to be necessary in the public interest, having regard in particular to the matters mentioned in subsection (4).
 
 (4) Those matters are—
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-aa7b81988f22c8501a5c30a05caf6a1e]: Commencement: S. 82 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-aa7b81988f22c8501a5c30a05caf6a1e]: Commencement: S. 82 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-9b2b04a61a0344565fadf58230e18eab]: Textual amendment: Words in [s. 82(3)(a)](https://www.legislation.gov.uk/ukpga/2012/21/section/82/3/a) substituted (31.12.2020) by [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2018/1285/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b2b04a61a0344565fadf58230e18eab]: Textual amendment: Words in [s. 82(3)(a)](https://www.legislation.gov.uk/ukpga/2012/21/section/82/3/a) substituted (31.12.2020) by [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2018/1285/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-14d2e8635f8ac0ef582e2d5d27826165]: Textual amendment: Words in [s. 82(3)(a)](https://www.legislation.gov.uk/ukpga/2012/21/section/82/3/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 77(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/77/2/a)
+[^c-14d2e8635f8ac0ef582e2d5d27826165]: Textual amendment: Words in [s. 82(3)(a)](https://www.legislation.gov.uk/ukpga/2012/21/section/82/3/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 77(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/77/2/a)

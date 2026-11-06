@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Designation) Order 2003 (revoked)[^key-82472a1da01f9173d02a9a684139ed45]
+The European Communities (Designation) Order 2003 (revoked)[^c-82472a1da01f9173d02a9a684139ed45]
 
 Made
 
@@ -51,34 +51,34 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-82472a1da01f9173d02a9a684139ed45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82472a1da01f9173d02a9a684139ed45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-82472a1da01f9173d02a9a684139ed45]
+## 1. Citation, commencement and interpretation[^c-82472a1da01f9173d02a9a684139ed45]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of the National Assembly for Wales[^key-82472a1da01f9173d02a9a684139ed45]
+## 2. Designation of the National Assembly for Wales[^c-82472a1da01f9173d02a9a684139ed45]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82472a1da01f9173d02a9a684139ed45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82472a1da01f9173d02a9a684139ed45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Matter in relation to which the National Assembly for Wales is designated[^key-82472a1da01f9173d02a9a684139ed45]
+## SCHEDULE — Matter in relation to which the National Assembly for Wales is designated[^c-82472a1da01f9173d02a9a684139ed45]
 
 Article 2
 
-[^key-82472a1da01f9173d02a9a684139ed45]
+[^c-82472a1da01f9173d02a9a684139ed45]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-82472a1da01f9173d02a9a684139ed45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82472a1da01f9173d02a9a684139ed45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-82472a1da01f9173d02a9a684139ed45]: Textual amendment: Order revoked (30.5.2003) by [The European Communities (Designation) (No. 2) Order 2003 (S.I. 2003/1246)](https://www.legislation.gov.uk/uksi/2003/1246), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1246/article/1), [3](https://www.legislation.gov.uk/uksi/2003/1246/article/3)
+[^c-82472a1da01f9173d02a9a684139ed45]: Textual amendment: Order revoked (30.5.2003) by [The European Communities (Designation) (No. 2) Order 2003 (S.I. 2003/1246)](https://www.legislation.gov.uk/uksi/2003/1246), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1246/article/1), [3](https://www.legislation.gov.uk/uksi/2003/1246/article/3)

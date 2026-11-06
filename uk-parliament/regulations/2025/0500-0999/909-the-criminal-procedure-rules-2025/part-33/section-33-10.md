@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.10. External requests and orders[^key-26006147f29148e35835e8a46d2bada6]
+## 33.10. External requests and orders[^c-26006147f29148e35835e8a46d2bada6]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-26006147f29148e35835e8a46d2bada6]: Commencement: [Rule 33.10](https://www.legislation.gov.uk/uksi/2025/909/rule/33.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-26006147f29148e35835e8a46d2bada6]: Commencement: [Rule 33.10](https://www.legislation.gov.uk/uksi/2025/909/rule/33.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00789]: Footnote: [S.I. 2005/3181](https://www.legislation.gov.uk/uksi/2005/3181).
 

@@ -25,7 +25,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-[^key-16c4161f5cf6afbb4b3e7582d1a452e1]Sex Discrimination Act 1975 (repealed)
+[^c-16c4161f5cf6afbb4b3e7582d1a452e1]Sex Discrimination Act 1975 (repealed)
 
 1975 c. 65
 
@@ -33,7 +33,7 @@ An Act to render unlawful certain kinds of sex discrimination and discrimination
 
 ## Contents
 
-### Part I — Discrimination to Which Act Applies[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+### Part I — Discrimination to Which Act Applies[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 *Extent: E+W+S*
 
@@ -49,13 +49,13 @@ An Act to render unlawful certain kinds of sex discrimination and discrimination
 - [Section 4A — Harassment, including sexual harassment](part-i/section-4a.md)
 - [Section 5 — Interpretation.](part-i/section-5.md)
 
-### Part II — EMPLOYMENT FIELD[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+### Part II — EMPLOYMENT FIELD[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-#### Discrimination by employers[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+#### Discrimination by employers[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 *Extent: E+W+S*
 
@@ -75,7 +75,7 @@ An Act to render unlawful certain kinds of sex discrimination and discrimination
 - [Section 10A — Offices and posts to which section 10B applies](part-ii/section-10a.md)
 - [Section 10B — Office-holders](part-ii/section-10b.md)
 
-#### Discrimination by other bodies[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+#### Discrimination by other bodies[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 **No longer in force.**
 
@@ -86,7 +86,7 @@ An Act to render unlawful certain kinds of sex discrimination and discrimination
 - [Section 15 — Employment agencies.](part-ii/section-15.md)
 - [Section 16 — Manpower Services Commission etc.](part-ii/section-16.md)
 
-#### Special case[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+#### Special case[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 *Extent: E+W+S*
 
@@ -97,7 +97,7 @@ An Act to render unlawful certain kinds of sex discrimination and discrimination
 - [Section 19 — Ministers of religion etc.](part-ii/section-19.md)
 - [Section 20 — Midwives.](part-ii/section-20.md)
 
-#### Relationships which have come to an end[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+#### Relationships which have come to an end[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 *Extent: E+W+S*
 
@@ -107,13 +107,13 @@ An Act to render unlawful certain kinds of sex discrimination and discrimination
 - [Section 21 — Mineworkers.](part-ii/section-21.md)
 - [Section 21A — Public authorities](part-ii/section-21a.md)
 
-### Part III — Discrimination in Other Fields[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+### Part III — Discrimination in Other Fields[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-#### Education[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+#### Education[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 *Extent: E+W+S*
 
@@ -134,7 +134,7 @@ An Act to render unlawful certain kinds of sex discrimination and discrimination
 - [Section 27 — Exception for single-sex establishments turning co-educational.](part-iii/section-27.md)
 - [Section 28 — Exception for physical training.](part-iii/section-28.md)
 
-#### Goods, facilities, services and premises[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+#### Goods, facilities, services and premises[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 *Extent: E+W+S*
 
@@ -149,31 +149,31 @@ An Act to render unlawful certain kinds of sex discrimination and discrimination
 - [Section 35 — Further exceptions from ss. 29(1) and 30.](part-iii/section-35.md)
 - [Section 35ZA — Excluded matters](part-iii/section-35za.md)
 
-#### Barristers[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+#### Barristers[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 **No longer in force.**
 
 - [Section 35A — . . . Barristers.](part-iii/section-35a.md)
 
-#### Advocates[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+#### Advocates[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 **No longer in force.**
 
 - [Section 35B — . . . Advocates.](part-iii/section-35b.md)
 
-#### Relationships which have come to an end[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+#### Relationships which have come to an end[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 **No longer in force.**
 
 - [Section 35C — Relationships which have come to an end](part-iii/section-35c.md)
 
-#### Extent[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+#### Extent[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 **No longer in force.**
 
 - [Section 36 — Extent of Part III.](part-iii/section-36.md)
 
-### Part IV — Other Unlawful Acts[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+### Part IV — Other Unlawful Acts[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 *Extent: E+W+S*
 
@@ -186,7 +186,7 @@ An Act to render unlawful certain kinds of sex discrimination and discrimination
 - [Section 41 — Liability of employers and principals.](part-iv/section-41.md)
 - [Section 42 — Aiding unlawful acts.](part-iv/section-42.md)
 
-### Part V — General Exceptions from Parts II to IV[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+### Part V — General Exceptions from Parts II to IV[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 *Extent: E+W+S*
 
@@ -205,7 +205,7 @@ An Act to render unlawful certain kinds of sex discrimination and discrimination
 - [Section 52 — Acts safeguarding national security.](part-v/section-52.md)
 - [Section 52A — Construction of references to vocational training.](part-v/section-52a.md)
 
-### Part VI — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+### Part VI — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 *Extent: E+W+S*
 
@@ -216,13 +216,13 @@ An Act to render unlawful certain kinds of sex discrimination and discrimination
 - [Section 55 — Review of discriminatory provisions in health and safety legislation.](part-vi/section-55.md)
 - [Section 56](part-vi/section-56.md)
 
-#### Codes of practice[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+#### Codes of practice[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 **No longer in force.**
 
 - [Section 56A — Codes of practice.](part-vi/section-56a.md)
 
-#### Investigations[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+#### Investigations[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 **No longer in force.**
 
@@ -232,19 +232,19 @@ An Act to render unlawful certain kinds of sex discrimination and discrimination
 - [Section 60 — Recommendations and reports on formal investigations.](part-vi/section-60.md)
 - [Section 61 — Restriction on disclosure of information.](part-vi/section-61.md)
 
-### Part VII — Enforcement[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+### Part VII — Enforcement[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-#### General[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+#### General[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 **No longer in force.**
 
 - [Section 62 — Restriction of proceedings for breach of Act.](part-vii/section-62.md)
 
-#### Enforcement in employment field[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+#### Enforcement in employment field[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 *Extent: E+W+S*
 
@@ -255,7 +255,7 @@ An Act to render unlawful certain kinds of sex discrimination and discrimination
 - [Section 64 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-vii/section-64.md)
 - [Section 65 — Remedies on complaint under section 63.](part-vii/section-65.md)
 
-#### Enforcement of Part III[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+#### Enforcement of Part III[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 *Extent: E+W+S*
 
@@ -265,7 +265,7 @@ An Act to render unlawful certain kinds of sex discrimination and discrimination
 - [Section 66A — Burden of proof: county and sheriff courts](part-vii/section-66a.md)
 - [Section 66B — National security](part-vii/section-66b.md)
 
-#### Non-discrimination notices[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+#### Non-discrimination notices[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 **No longer in force.**
 
@@ -274,7 +274,7 @@ An Act to render unlawful certain kinds of sex discrimination and discrimination
 - [Section 69 — Investigation as to compliance with non-discrimination notice.](part-vii/section-69.md)
 - [Section 70 — Register of non-discrimination notices.](part-vii/section-70.md)
 
-#### Other enforcement by Commission[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+#### Other enforcement by Commission[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 **No longer in force.**
 
@@ -282,14 +282,14 @@ An Act to render unlawful certain kinds of sex discrimination and discrimination
 - [Section 72 — Enforcement of ss. 38 to 40.](part-vii/section-72.md)
 - [Section 73 — Preliminary action in employment cases.](part-vii/section-73.md)
 
-#### Help for persons suffering discrimination[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+#### Help for persons suffering discrimination[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 **No longer in force.**
 
 - [Section 74 — Help for aggrieved persons in obtaining information etc.](part-vii/section-74.md)
 - [Section 75 — Assistance by Commission.](part-vii/section-75.md)
 
-#### Period within which proceedings to be brought[^key-16c4161f5cf6afbb4b3e7582d1a452e1]
+#### Period within which proceedings to be brought[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 
 **No longer in force.**
 
@@ -343,4 +343,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-16c4161f5cf6afbb4b3e7582d1a452e1]: Textual amendment: Act repealed (1.10.2010 except for the repeal of ss. 76A-76C and s. 81 so far as it relates to those provisions, 5.4.2011 in so far as not already in force) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 27 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(15)(f)(i)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/f/i) (as amended (1.10.2010) by [S.I. 2010/2337](https://www.legislation.gov.uk/uksi/2010/2337), [art. 2](https://www.legislation.gov.uk/uksi/2010/2337/article/2)); [S.I. 2011/1066](https://www.legislation.gov.uk/uksi/2011/1066), [art. 2(h)](https://www.legislation.gov.uk/uksi/2011/1066/article/2/h) (with savings in [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279), [art. 14(6)](https://www.legislation.gov.uk/uksi/2010/2279/article/14/6) and [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [10(8)(a)](https://www.legislation.gov.uk/uksi/2010/2317/article/10/8/a))
+[^c-16c4161f5cf6afbb4b3e7582d1a452e1]: Textual amendment: Act repealed (1.10.2010 except for the repeal of ss. 76A-76C and s. 81 so far as it relates to those provisions, 5.4.2011 in so far as not already in force) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 27 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(15)(f)(i)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/f/i) (as amended (1.10.2010) by [S.I. 2010/2337](https://www.legislation.gov.uk/uksi/2010/2337), [art. 2](https://www.legislation.gov.uk/uksi/2010/2337/article/2)); [S.I. 2011/1066](https://www.legislation.gov.uk/uksi/2011/1066), [art. 2(h)](https://www.legislation.gov.uk/uksi/2011/1066/article/2/h) (with savings in [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279), [art. 14(6)](https://www.legislation.gov.uk/uksi/2010/2279/article/14/6) and [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [10(8)(a)](https://www.legislation.gov.uk/uksi/2010/2317/article/10/8/a))

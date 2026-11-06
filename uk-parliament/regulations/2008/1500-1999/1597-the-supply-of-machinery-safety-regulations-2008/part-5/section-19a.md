@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19A. Register of approved bodies[^M_E_aef51da8-e547-4ec7-b194-d27ead5a66f4][^key-ae481369d14e3895ffee39ec1cb954e8]
+## 19A. Register of approved bodies[^M_E_aef51da8-e547-4ec7-b194-d27ead5a66f4][^c-ae481369d14e3895ffee39ec1cb954e8]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (2) The register referred to in paragraph (1) must be made publicly available.
 
-## 19A. Register of UK notified bodies[^M_E_e8d161e2-830b-4fb1-cfcf-38b3520feff6][^key-b82bb65d96fe51f3b20d0d8b2bd40cfa]
+## 19A. Register of UK notified bodies[^M_E_e8d161e2-830b-4fb1-cfcf-38b3520feff6][^c-b82bb65d96fe51f3b20d0d8b2bd40cfa]
 
 *Extent: N.I.*
 
@@ -52,8 +52,8 @@ summary: ''
 
 [^M_E_aef51da8-e547-4ec7-b194-d27ead5a66f4]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-ae481369d14e3895ffee39ec1cb954e8]: Textual amendment: Reg. 19A inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 12 para. 20](https://www.legislation.gov.uk/uksi/2019/696/schedule/12/paragraph/20) (with [Sch. 12 para. 22](https://www.legislation.gov.uk/uksi/2019/696/schedule/12/paragraph/22)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ae481369d14e3895ffee39ec1cb954e8]: Textual amendment: Reg. 19A inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 12 para. 20](https://www.legislation.gov.uk/uksi/2019/696/schedule/12/paragraph/20) (with [Sch. 12 para. 22](https://www.legislation.gov.uk/uksi/2019/696/schedule/12/paragraph/22)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_e8d161e2-830b-4fb1-cfcf-38b3520feff6]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-b82bb65d96fe51f3b20d0d8b2bd40cfa]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2008/1597/regulation/19A) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/2), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/2/paragraph/3/4)
+[^c-b82bb65d96fe51f3b20d0d8b2bd40cfa]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2008/1597/regulation/19A) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/2), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/2/paragraph/3/4)

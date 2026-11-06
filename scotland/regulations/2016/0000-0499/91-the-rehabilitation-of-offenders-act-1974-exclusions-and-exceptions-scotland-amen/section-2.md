@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Amendment of article 2 of the 2013 Order[^key-4ff27e2696d9be2d509230c8cf4484a8]
+## 2. Amendment of article 2 of the 2013 Order[^c-4ff27e2696d9be2d509230c8cf4484a8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In article 2(1) of the 2013 Order (interpretation), in paragraph (a) of the defi
 
 ## Annotations
 
-[^key-4ff27e2696d9be2d509230c8cf4484a8]: Commencement: Art. 2 in force at 8.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2016/91/article/1/1)
+[^c-4ff27e2696d9be2d509230c8cf4484a8]: Commencement: Art. 2 in force at 8.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2016/91/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Designation of competent persons by local authorities[^key-a358be6c07a380e7a1efac7bbfc2b5cb][^key-284e988415035b22c326fb5869b5e715]
+## 5. Designation of competent persons by local authorities[^c-a358be6c07a380e7a1efac7bbfc2b5cb][^c-284e988415035b22c326fb5869b5e715]
 
 *Extent: S*
 
@@ -47,6 +47,6 @@ as the Scottish Ministers consider appropriate in relation to those functions.
 
 ## Annotations
 
-[^key-a358be6c07a380e7a1efac7bbfc2b5cb]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2008/5/section/5) in force at 1.4.2009 for specified purposes by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)
+[^c-a358be6c07a380e7a1efac7bbfc2b5cb]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2008/5/section/5) in force at 1.4.2009 for specified purposes by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)
 
-[^key-284e988415035b22c326fb5869b5e715]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2008/5/section/5) in force at 1.10.2009 in so far as not already in force by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-284e988415035b22c326fb5869b5e715]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2008/5/section/5) in force at 1.10.2009 in so far as not already in force by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

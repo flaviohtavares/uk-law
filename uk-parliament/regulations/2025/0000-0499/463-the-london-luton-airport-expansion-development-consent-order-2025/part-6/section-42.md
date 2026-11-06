@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Power to operate the authorised development[^key-adf9072c6c2613313a2fdcf4eedf7f27]
+## 42. Power to operate the authorised development[^c-adf9072c6c2613313a2fdcf4eedf7f27]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adf9072c6c2613313a2fdcf4eedf7f27]: Commencement: Art. 42 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-adf9072c6c2613313a2fdcf4eedf7f27]: Commencement: Art. 42 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)

@@ -35,37 +35,37 @@ implementing Regulation (EC) No 1177/2003 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-760ad29034981717a1a38df78f40e2b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-760ad29034981717a1a38df78f40e2b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-760ad29034981717a1a38df78f40e2b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-760ad29034981717a1a38df78f40e2b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-760ad29034981717a1a38df78f40e2b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-760ad29034981717a1a38df78f40e2b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-760ad29034981717a1a38df78f40e2b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-760ad29034981717a1a38df78f40e2b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-760ad29034981717a1a38df78f40e2b8]
+## ANNEX[^c-760ad29034981717a1a38df78f40e2b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-760ad29034981717a1a38df78f40e2b8]1.
+[^c-760ad29034981717a1a38df78f40e2b8]1.
 
 **Units**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-760ad29034981717a1a38df78f40e2b8]2.
+[^c-760ad29034981717a1a38df78f40e2b8]2.
 
 **Modes of data collection**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-760ad29034981717a1a38df78f40e2b8]3.
+[^c-760ad29034981717a1a38df78f40e2b8]3.
 
 **Reference period**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-760ad29034981717a1a38df78f40e2b8]4.
+[^c-760ad29034981717a1a38df78f40e2b8]4.
 
 **Data transmission**
 
@@ -73,4 +73,4 @@ implementing Regulation (EC) No 1177/2003 of the European Parliament and of the 
 
 ## Annotations
 
-[^key-760ad29034981717a1a38df78f40e2b8]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 264](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/264); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-760ad29034981717a1a38df78f40e2b8]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 264](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/264); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

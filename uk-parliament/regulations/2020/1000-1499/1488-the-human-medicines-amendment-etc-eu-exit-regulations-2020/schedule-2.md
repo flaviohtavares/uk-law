@@ -24,9 +24,9 @@ Regulation 4
 
 ### PART 1 — Amendment of Part 2 (amendment of Part 1 (General))
 
-**1.**[^key-b2000b97863cdc46116c1acd8970c9c6] In regulation 4 (definitions in relation to advanced therapy medicinal products), in the inserted regulation 2A, in paragraphs (1) and (10), after “In these Regulations,” insert “ in their application to products for sale or supply in Great Britain only, ”.
+**1.**[^c-b2000b97863cdc46116c1acd8970c9c6] In regulation 4 (definitions in relation to advanced therapy medicinal products), in the inserted regulation 2A, in paragraphs (1) and (10), after “In these Regulations,” insert “ in their application to products for sale or supply in Great Britain only, ”.
 
-**2.**[^key-ae10482e189e9a72ba9b983d18c0e87a] In regulation 5 (amendment of regulation 3 (scope of Regulations: special provisions))—
+**2.**[^c-ae10482e189e9a72ba9b983d18c0e87a] In regulation 5 (amendment of regulation 3 (scope of Regulations: special provisions))—
 
 - (a) for paragraph (2)(b) and (c) substitute—
 
@@ -37,9 +37,9 @@ Regulation 4
   >   .
 
   ;
-- (b)[^key-14d29c14e59d88749210de42e3d87f6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-14d29c14e59d88749210de42e3d87f6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-075be8dae5b9a2599f4a682a4cfc69e8] In regulation 6 (amendment of regulation 4 (special provision for pharmacies etc) substitute—
+**3.**[^c-075be8dae5b9a2599f4a682a4cfc69e8] In regulation 6 (amendment of regulation 4 (special provision for pharmacies etc) substitute—
 
 > **6.** In regulation 4—
 >
@@ -54,7 +54,7 @@ Regulation 4
 
 .
 
-**4.**[^key-44d265d18cf59e1a80db45ba85a7ffbc] In regulation 7 (amendment of regulation 5 (classification of medicinal products))—
+**4.**[^c-44d265d18cf59e1a80db45ba85a7ffbc] In regulation 7 (amendment of regulation 5 (classification of medicinal products))—
 
 - (a) for paragraph (2) substitute—
 
@@ -84,7 +84,7 @@ Regulation 4
     ; and
   - (ii) omit sub-paragraph (b).
 
-**5.**[^key-08ba4e25a9897c8eb2ab5752dc0cda6d] For regulation 8 (amendment of Schedule 1 (further provisions for classification of medicinal products)) substitute—
+**5.**[^c-08ba4e25a9897c8eb2ab5752dc0cda6d] For regulation 8 (amendment of Schedule 1 (further provisions for classification of medicinal products)) substitute—
 
 > **8.** In Schedule 1—
 >
@@ -95,9 +95,9 @@ Regulation 4
 
 .
 
-**6.**[^key-04625744c80c5848329e78575635c33e] Omit regulation 9 (amendment of regulation 6 (the licensing authority and the Ministers)).
+**6.**[^c-04625744c80c5848329e78575635c33e] Omit regulation 9 (amendment of regulation 6 (the licensing authority and the Ministers)).
 
-**7.**[^key-04d874ef502913aeebcd1e720d64346a] In regulation 10 (amendment of regulation 8 (general interpretation))—
+**7.**[^c-04d874ef502913aeebcd1e720d64346a] In regulation 10 (amendment of regulation 8 (general interpretation))—
 
 - (a) in paragraph (2)—
   - (i) in the definition of—
@@ -210,7 +210,7 @@ Regulation 4
 
 ### PART 2 — Amendment of Part 3 (amendment of Part 3 (manufacture and distribution of medicinal products and active substances))
 
-**8.**[^key-6022a3eda5f5f2211b0d123ff824d765] In regulation 13 (new regulation B17 and C17 (good manufacturing practice and good distribution practice))—
+**8.**[^c-6022a3eda5f5f2211b0d123ff824d765] In regulation 13 (new regulation B17 and C17 (good manufacturing practice and good distribution practice))—
 
 - (a) in the inserted regulation B17—
   - (i) in paragraph (1)—
@@ -227,7 +227,7 @@ Regulation 4
   - (i) in paragraph (1), after “may publish” insert “ in relation to the manufacture or assembly of a medicinal product in, or import to, Great Britain ”;
   - (ii) in paragraph (3) for “exit day” in both places it occurs substitute “ IP completion day ”.
 
-**9.**[^key-64c47184f00dc044170a8d3fecda749b] In regulation 14 (amendment of regulation 17 (manufacturing of medicinal products))—
+**9.**[^c-64c47184f00dc044170a8d3fecda749b] In regulation 14 (amendment of regulation 17 (manufacturing of medicinal products))—
 
 - (a) for paragraph (2) substitute—
 
@@ -276,7 +276,7 @@ Regulation 4
 
   .
 
-**10.**[^key-4aecc0d12e37ab25892dbf5a338bfca2] In regulation 15 (amendment of regulation 18 (wholesale dealing in medicinal products))—
+**10.**[^c-4aecc0d12e37ab25892dbf5a338bfca2] In regulation 15 (amendment of regulation 18 (wholesale dealing in medicinal products))—
 
 - (a) in paragraph (2)(c), in the inserted sub-paragraph (c)—
   - (i) after “medicinal product” insert “ into Great Britain ”;
@@ -312,7 +312,7 @@ Regulation 4
 
   .
 
-**11.**[^key-e585c9bb2ed8f7b355d1e28d4296fd8d] In regulation 17 (amendment of regulation 19 (exemptions from requirement for wholesale dealer's licence))—
+**11.**[^c-e585c9bb2ed8f7b355d1e28d4296fd8d] In regulation 17 (amendment of regulation 19 (exemptions from requirement for wholesale dealer's licence))—
 
 - (a) for paragraph (2) substitute—
 
@@ -337,7 +337,7 @@ Regulation 4
 
   .
 
-**12.**[^key-bfb9169badc748f3143a0597cb50119b] In regulation 18 (amendment of Schedule 3 (applications for licences under Part 3))—
+**12.**[^c-bfb9169badc748f3143a0597cb50119b] In regulation 18 (amendment of Schedule 3 (applications for licences under Part 3))—
 
 - (a) for paragraph (2) substitute—
 
@@ -384,7 +384,7 @@ Regulation 4
     ;
 - (d) in paragraph (4)(c)(iii), in the inserted paragraph (iii), after “export” insert “ from Great Britain ”.
 
-**13.**[^key-7f8284a342a83376ba77130ae41ee5c3] After regulation 19 (amendment of regulation 23 (grant or refusal of licence)) insert—
+**13.**[^c-7f8284a342a83376ba77130ae41ee5c3] After regulation 19 (amendment of regulation 23 (grant or refusal of licence)) insert—
 
 > **19A. Amendment of regulation 24 (standard provisions of licences)**
 >
@@ -396,7 +396,7 @@ Regulation 4
 
 .
 
-**14.**[^key-5ed4ec1f190cac7e78ed9f5028ec8cb4] In regulation 20 (amendment of Schedule 4 (standard provisions of licences under Part 3))—
+**14.**[^c-5ed4ec1f190cac7e78ed9f5028ec8cb4] In regulation 20 (amendment of Schedule 4 (standard provisions of licences under Part 3))—
 
 - (a) for paragraph (2) substitute—
 
@@ -475,7 +475,7 @@ Regulation 4
 
   .
 
-**15.**[^key-9d1f301259fb4bc3e07d6bc2f2d451e1] For regulation 21 (amendment of regulation 26 (general power to suspend, revoke or vary licences)) substitute—
+**15.**[^c-9d1f301259fb4bc3e07d6bc2f2d451e1] For regulation 21 (amendment of regulation 26 (general power to suspend, revoke or vary licences)) substitute—
 
 > **21.** For regulation 26(5)(a) substitute—
 >
@@ -489,13 +489,13 @@ Regulation 4
 
 .
 
-**16.**[^key-0c63298988563da6a477d846d7390551] In regulation 24 (amendment of regulation 31 (certification of manufacturer's licence)) for paragraph (3) substitute—
+**16.**[^c-0c63298988563da6a477d846d7390551] In regulation 24 (amendment of regulation 31 (certification of manufacturer's licence)) for paragraph (3) substitute—
 
 > (3) In paragraphs (3)(b), (5)(a) and (5)(b) for “marketing authorisation” substitute “ UK marketing authorisation, EU marketing authorisation, Article 126a authorisation ”.
 
 .
 
-**17.**[^key-d1745dc98199379bd1d5bf9c7e520a11] In regulation 27 (amendment of regulation 36 (conditions for manufacturer's licence)) for “, omit paragraphs (4) to (7)” substitute—
+**17.**[^c-d1745dc98199379bd1d5bf9c7e520a11] In regulation 27 (amendment of regulation 36 (conditions for manufacturer's licence)) for “, omit paragraphs (4) to (7)” substitute—
 
 > - (a) in paragraph (4)—
 >   - (i) for “The requirements” substitute “ Where a manufacturer's licence relates to the manufacture or assembly of a medicinal product in, or import of a medicinal product into, Northern Ireland, the requirements ”;
@@ -504,7 +504,7 @@ Regulation 4
 
 .
 
-**18.**[^key-a9f50240a4caada7542a750bf017f5c6] In regulation 28 (amendment of regulation 37 (manufacturing and assembly))—
+**18.**[^c-a9f50240a4caada7542a750bf017f5c6] In regulation 28 (amendment of regulation 37 (manufacturing and assembly))—
 
 - (a) after paragraph (1) insert—
 
@@ -541,7 +541,7 @@ Regulation 4
 
   .
 
-**19.**[^key-14bba573793b50f17ef3ea21f6cca4f8] In regulation 29 (amendment of regulation 38 (imports))—
+**19.**[^c-14bba573793b50f17ef3ea21f6cca4f8] In regulation 29 (amendment of regulation 38 (imports))—
 
 - (a) for paragraph (2) substitute—
 
@@ -566,7 +566,7 @@ Regulation 4
 
   .
 
-**20.**[^key-5187e30d0cb70663f64bef3cd3fe9c54] In regulation 30 (amendment of regulation 39 (further requirements for manufacturer's licence))—
+**20.**[^c-5187e30d0cb70663f64bef3cd3fe9c54] In regulation 30 (amendment of regulation 39 (further requirements for manufacturer's licence))—
 
 - (a) “omit “, 43A”” becomes paragraph (a);
 - (b) after paragraph (a) insert—
@@ -577,7 +577,7 @@ Regulation 4
 
   .
 
-**21.**[^key-e89eab84871b309ec78c4e857909d5de] In regulation 31 (amendment of regulation 42 (conditions for wholesale dealer's licence))—
+**21.**[^c-e89eab84871b309ec78c4e857909d5de] In regulation 31 (amendment of regulation 42 (conditions for wholesale dealer's licence))—
 
 - (a) for paragraph (2) substitute—
 
@@ -593,7 +593,7 @@ Regulation 4
 
   .
 
-**22.**[^key-c534f75382732bf2949cf72994362258] In regulation 32 (amendment of Schedule 7 (qualified persons))—
+**22.**[^c-c534f75382732bf2949cf72994362258] In regulation 32 (amendment of Schedule 7 (qualified persons))—
 
 - (a) after paragraph (3)(a)(i) insert—
 
@@ -655,7 +655,7 @@ Regulation 4
 
     .
 
-**23.**[^key-d82cc4bf15edc1c1f29f96727039d6d9] In regulation 33 (amendment of regulation 43 (obligations of licence holder))—
+**23.**[^c-d82cc4bf15edc1c1f29f96727039d6d9] In regulation 33 (amendment of regulation 43 (obligations of licence holder))—
 
 - (a) for paragraph (2) substitute—
 
@@ -772,7 +772,7 @@ Regulation 4
 
   .
 
-**24.**[^key-bc0fa86f8ada125d519b0b833dba537a] For regulation 34 (omission of regulation 43A (requirement for wholesale dealers to decommission the unique identifier)) substitute—
+**24.**[^c-bc0fa86f8ada125d519b0b833dba537a] For regulation 34 (omission of regulation 43A (requirement for wholesale dealers to decommission the unique identifier)) substitute—
 
 > **34. Amendment of regulation 43A (requirement for wholesale dealers to decommission the unique identifier)**
 >
@@ -785,7 +785,7 @@ Regulation 4
 
 .
 
-**25.**[^key-e7abf24f39e5ad973c9f4a269509649d] In regulation 35 (amendment of regulation 44 (requirement for wholesale dealers to deal only with specified persons))—
+**25.**[^c-e7abf24f39e5ad973c9f4a269509649d] In regulation 35 (amendment of regulation 44 (requirement for wholesale dealers to deal only with specified persons))—
 
 - (a) in paragraph (2)—
   - (i) for sub-paragraph (a) substitute—
@@ -855,7 +855,7 @@ Regulation 4
 
   .
 
-**26.**[^key-86103c5333bf38d571895ed9478dac4f] In regulation 36 (amendment of regulation 45 (requirement as to responsible persons))—
+**26.**[^c-86103c5333bf38d571895ed9478dac4f] In regulation 36 (amendment of regulation 45 (requirement as to responsible persons))—
 
 - (a) for paragraph (2) substitute—
 
@@ -880,7 +880,7 @@ Regulation 4
 
   .
 
-**27.**[^key-661cf877d5e7785c12e273895bd8cc74] In regulation 37 (insertion of new regulations 45AA and 45AB (responsible persons: import)), in the inserted regulation 45AA—
+**27.**[^c-661cf877d5e7785c12e273895bd8cc74] In regulation 37 (insertion of new regulations 45AA and 45AB (responsible persons: import)), in the inserted regulation 45AA—
 
 - (a) in paragraph (1), after “this regulation applies” insert “ to a licence holder in Great Britain ”;
 - (b) omit “and” at the end of paragraph (4)(a);
@@ -894,7 +894,7 @@ Regulation 4
 
   .
 
-**28.**[^key-8eddb5c2956b82ded131c56b25a63d42] In regulation 38 (amendment of regulation 45A (brokering in medicinal products))—
+**28.**[^c-8eddb5c2956b82ded131c56b25a63d42] In regulation 38 (amendment of regulation 45A (brokering in medicinal products))—
 
 - (a) for paragraph (2) substitute—
 
@@ -933,7 +933,7 @@ Regulation 4
 
   .
 
-**29.**[^key-1b9555f86c7457e17c23dac7ba8f95af] In regulation 40 (amendment of regulation 45E (criteria of broker's registration))—
+**29.**[^c-1b9555f86c7457e17c23dac7ba8f95af] In regulation 40 (amendment of regulation 45E (criteria of broker's registration))—
 
 - (a) for paragraph (a) substitute—
 
@@ -952,7 +952,7 @@ Regulation 4
 
   .
 
-**30.**[^key-266e42f1753ccad3e6fa85680de10bc0] In regulation 41 (amendment of regulation 45F (provision of information)), for the inserted sub-paragraph (b) substitute—
+**30.**[^c-266e42f1753ccad3e6fa85680de10bc0] In regulation 41 (amendment of regulation 45F (provision of information)), for the inserted sub-paragraph (b) substitute—
 
 > - (b) in the case of a broker in—
 >   - (i) Great Britain, either—
@@ -964,7 +964,7 @@ Regulation 4
 
 .
 
-**31.**[^key-68086afd9fe2792516c83744ba34a9ac] In regulation 42 (amendment of regulation 45M (criteria for importation, manufacture or distribution of an active substance)) for paragraph (2) substitute—
+**31.**[^c-68086afd9fe2792516c83744ba34a9ac] In regulation 42 (amendment of regulation 45M (criteria for importation, manufacture or distribution of an active substance)) for paragraph (2) substitute—
 
 > (2) For paragraph (2)(a) substitute—
 >
@@ -976,7 +976,7 @@ Regulation 4
 
 .
 
-**32.**[^key-35e49cb07996905ba65dc2e25c0df8ba] In regulation 44 (amendment of regulation 45O (requirements for registration as an importer, manufacturer or distributor of an active substance))—
+**32.**[^c-35e49cb07996905ba65dc2e25c0df8ba] In regulation 44 (amendment of regulation 45O (requirements for registration as an importer, manufacturer or distributor of an active substance))—
 
 - (a) for paragraph (2) substitute—
 
@@ -1039,7 +1039,7 @@ Regulation 4
 
 ### PART 3 — Amendment of Part 4 (amendment of Part 4 (requirement for authorisation))
 
-**33.**[^key-a471e9cdd4edefb3798a1ff6d6443494] In regulation 45 (amendment of regulation 46 (requirement for authorisation))—
+**33.**[^c-a471e9cdd4edefb3798a1ff6d6443494] In regulation 45 (amendment of regulation 46 (requirement for authorisation))—
 
 - (a) for paragraph (2)(b) and (c) substitute—
 
@@ -1063,11 +1063,11 @@ Regulation 4
   ;
 - (c) omit paragraph (5).
 
-**34.**[^key-2d07083559bb129e342396fe53390b28] In regulation 46 (amendment of regulation 47 (breach of requirement)), omit paragraph (3).
+**34.**[^c-2d07083559bb129e342396fe53390b28] In regulation 46 (amendment of regulation 47 (breach of requirement)), omit paragraph (3).
 
 ### PART 4 — Amendment of Part 5 (amendment of Part 5 (marketing authorisations))
 
-**35.**[^key-05a3cfdaf0a071cbbe70cf1de08a0726] In regulation 47 (amendment of regulation 48 (application of Part 5))—
+**35.**[^c-05a3cfdaf0a071cbbe70cf1de08a0726] In regulation 47 (amendment of regulation 48 (application of Part 5))—
 
 - (a) in paragraph (2)(a)—
   - (i) for the definition of “EU reference medicinal product”, substitute—
@@ -1123,7 +1123,7 @@ Regulation 4
   - (iii) in the inserted paragraph (8)(b), for “regulations 51 to 53” substitute “ regulations 51 to 53B ”;
   - (iv) in the inserted paragraph (9), for “regulation 51(1) and (8)” substitute “ regulation 51A(1) and (6) ”.
 
-**36.**[^key-924b9f0d143ecff5e847d6679471c425] In regulation 48 (amendment of regulation 49 (application for grant of UK marketing authorisation or parallel import licence))—
+**36.**[^c-924b9f0d143ecff5e847d6679471c425] In regulation 48 (amendment of regulation 49 (application for grant of UK marketing authorisation or parallel import licence))—
 
 - (a) in paragraph (3)—
   - (i) renumber the inserted paragraph (1A) as paragraph (1B);
@@ -1176,7 +1176,7 @@ Regulation 4
 
     .
 
-**37.**[^key-38154075b9bb42e110e1daf310f40ae2] In regulation 49 (amendment of regulation 50 (accompanying material))—
+**37.**[^c-38154075b9bb42e110e1daf310f40ae2] In regulation 49 (amendment of regulation 50 (accompanying material))—
 
 - (a) after paragraph (1) insert—
 
@@ -1249,7 +1249,7 @@ Regulation 4
 
   .
 
-**38.**[^key-7530fb4621aaf038a948e90094d94fea] In regulation 50 (amendment of Schedule 8 (material to accompany an application for a UK marketing authorisation))—
+**38.**[^c-7530fb4621aaf038a948e90094d94fea] In regulation 50 (amendment of Schedule 8 (material to accompany an application for a UK marketing authorisation))—
 
 - (a) in paragraph (2)—
   - (i) in paragraph (a), after “in the United Kingdom” insert “ or a member State ”;
@@ -1325,7 +1325,7 @@ Regulation 4
 - (h) in paragraph (9), in the inserted paragraph 25A, after “advanced therapy medicinal product ” insert “ for sale or supply in Great Britain ”;
 - (i) in paragraph (10), in the inserted paragraph 36, after “advanced therapy medicinal product ” insert “ for sale or supply in Great Britain ”.
 
-**39.**[^key-7e0bd7314606bd734b7d93a4195d99f1] After regulation 51 (amendment of Schedule 8A (material to accompany an application for a parallel import licence)) insert—
+**39.**[^c-7e0bd7314606bd734b7d93a4195d99f1] After regulation 51 (amendment of Schedule 8A (material to accompany an application for a parallel import licence)) insert—
 
 > **51A. Insertion of new Schedule 8C in relation to material to accompany unfettered access applications**
 >
@@ -1333,7 +1333,7 @@ Regulation 4
 
 .
 
-**40.**[^key-8bbe8530db382e4d77cec58750156346] In regulation 53 (new regulation 50A to 50J (applications in relation to particular medicinal products))—
+**40.**[^c-8bbe8530db382e4d77cec58750156346] In regulation 53 (new regulation 50A to 50J (applications in relation to particular medicinal products))—
 
 - (a) in the inserted regulation 50A (requirement for certain applications to include results of paediatric investigation plan)—
   - (i) in paragraph (1)(a) and (b) for “UK marketing authorisation” substitute “ UKMA(GB) or UKMA(UK) ”; and
@@ -1368,7 +1368,7 @@ Regulation 4
   - (i) in the heading, at the end insert “ for sale or supply in Great Britain only ”;
   - (ii) in paragraph (1), for “UK marketing authorisation” substitute “ UKMA(GB) ”.
 
-**41.**[^key-8ddb0d9db44735e8464894aeadf864ba] For regulation 56 (substitution of regulation 51 (applications relating to generic medicinal products)) substitute—
+**41.**[^c-8ddb0d9db44735e8464894aeadf864ba] For regulation 56 (substitution of regulation 51 (applications relating to generic medicinal products)) substitute—
 
 > **56. Substitution of regulation 51 (applications relating to generic medicinal products)**
 >
@@ -1459,7 +1459,7 @@ Regulation 4
 
 .
 
-**42.**[^key-bbb442f82c90994ab84f9337135311c1] For regulation 57 (amendment of regulation 52 (applications relating to certain medicinal products that do not qualify as generic etc)) substitute—
+**42.**[^c-bbb442f82c90994ab84f9337135311c1] For regulation 57 (amendment of regulation 52 (applications relating to certain medicinal products that do not qualify as generic etc)) substitute—
 
 > **57. Substitution of regulation 52 (applications relating to certain medicinal products that do not qualify as generic etc)**
 >
@@ -1523,7 +1523,7 @@ Regulation 4
 
 .
 
-**43.**[^key-9f8f6ab1749f392a684741ae770badf8] For regulation 58 (amendment of regulation 53 (applications relating to similar biological medicinal products) substitute—
+**43.**[^c-9f8f6ab1749f392a684741ae770badf8] For regulation 58 (amendment of regulation 53 (applications relating to similar biological medicinal products) substitute—
 
 > **58. Substitution of regulation 53 (applications relating to similar biological medicinal products)**
 >
@@ -1584,7 +1584,7 @@ Regulation 4
 
 .
 
-**44.**[^key-a06e631faa7d9b0e819f4f9f41b11a44] For regulation 60 (amendment of regulation 55 (applications relating to new combinations of active substances)) substitute—
+**44.**[^c-a06e631faa7d9b0e819f4f9f41b11a44] For regulation 60 (amendment of regulation 55 (applications relating to new combinations of active substances)) substitute—
 
 > **60. Substitution of regulation 55 (applications relating to new combinations of active substances)**
 >
@@ -1614,7 +1614,7 @@ Regulation 4
 
 .
 
-**45.**[^key-bbf6679cbc8384008cdad26b2b38f7eb] In regulation 62 (amendment of regulation 58 (consideration of application))—
+**45.**[^c-bbf6679cbc8384008cdad26b2b38f7eb] In regulation 62 (amendment of regulation 58 (consideration of application))—
 
 - (a) in paragraph (2), for the inserted paragraphs (4A) and (4B) substitute—
 
@@ -1650,7 +1650,7 @@ Regulation 4
 
   .
 
-**46.**[^key-328612314eea81efcb72b841e1aba2e4] In regulation 63 (amendment of Schedule 11 (advice and representations))—
+**46.**[^c-328612314eea81efcb72b841e1aba2e4] In regulation 63 (amendment of Schedule 11 (advice and representations))—
 
 - (a) for paragraph (2)(c) substitute—
 
@@ -1690,7 +1690,7 @@ Regulation 4
 
   .
 
-**47.**[^key-9b39a469fc7d9be33494d4f0be3eee49] In regulation 64 (insertion of provisions concerning consideration of certain applications for UK marketing authorisations)—
+**47.**[^c-9b39a469fc7d9be33494d4f0be3eee49] In regulation 64 (insertion of provisions concerning consideration of certain applications for UK marketing authorisations)—
 
 - (a) in the inserted regulation 58A (paediatric rewards)—
   - (i) for paragraph (1) substitute—
@@ -1747,7 +1747,7 @@ Regulation 4
 - (d) in the inserted regulation 58D (orphan rewards), omit paragraphs (2) and (3);
 - (e) in the inserted regulation 58F(1)(b) (consideration of applications relating to conditional marketing authorisations), for “UK marketing authorisation” substitute “ UKMA(GB) ”.
 
-**48.**[^key-63868e23803d73f20b712d113b84ddf8] In regulation 65 (amendment of regulation 59 (conditions of UK marketing authorisation or parallel import licence: general)—
+**48.**[^c-63868e23803d73f20b712d113b84ddf8] In regulation 65 (amendment of regulation 59 (conditions of UK marketing authorisation or parallel import licence: general)—
 
 - (a) after paragraph (1) insert—
 
@@ -1777,7 +1777,7 @@ Regulation 4
 
   .
 
-**49.**[^key-4199f4a5a165ef5e7afd45374fe24b1d] For regulation 66 (amendment of regulation 60 (conditions of UK marketing authorisation: exceptional circumstances)) substitute—
+**49.**[^c-4199f4a5a165ef5e7afd45374fe24b1d] For regulation 66 (amendment of regulation 60 (conditions of UK marketing authorisation: exceptional circumstances)) substitute—
 
 > **66.** In regulation 60—
 >
@@ -1793,7 +1793,7 @@ Regulation 4
 
 .
 
-**50.**[^key-6a15fc076e7d0de4071c45e5a166ac31] In regulation 67 (insertion of new regulations 60A (condition as to the submitting of samples and other information to the appropriate authority))—
+**50.**[^c-6a15fc076e7d0de4071c45e5a166ac31] In regulation 67 (insertion of new regulations 60A (condition as to the submitting of samples and other information to the appropriate authority))—
 
 - (a) in the heading to the regulation, at the end insert “ and 60B (submitting of samples and other information: EU marketing authorisations) ”
 - (b) in the inserted regulation 60A—
@@ -1888,7 +1888,7 @@ Regulation 4
 
   .
 
-**51.**[^key-9ab56f7e7270d94df717fd77f52c5f8b] In regulation 68 (amendment of regulation 61 (conditions of UK marketing authorisation))—
+**51.**[^c-9ab56f7e7270d94df717fd77f52c5f8b] In regulation 68 (amendment of regulation 61 (conditions of UK marketing authorisation))—
 
 - (a) in paragraph (2), in the inserted paragraph (4)(b), before “to comply” insert “ in relation to a UKMA(GB), ”;
 - (b) after paragraph (2) insert—
@@ -1935,7 +1935,7 @@ Regulation 4
 
   .
 
-**52.**[^key-4494a3a7013f09e5cc1c6996bf0fe68f] For regulation 69 (amendment of regulation 64 (duties of licensing authority in connection with determination)) substitute—
+**52.**[^c-4494a3a7013f09e5cc1c6996bf0fe68f] For regulation 69 (amendment of regulation 64 (duties of licensing authority in connection with determination)) substitute—
 
 > **69.** For regulation 64(4)(d) substitute—
 >
@@ -1947,7 +1947,7 @@ Regulation 4
 
 .
 
-**53.**[^key-fe0ac23527be6c9e257e16bb028f1fdc] In regulation 70 (obligation of licensing authority in case of change of classification), in the inserted regulation 64A, for paragraph (2)(a) substitute—
+**53.**[^c-fe0ac23527be6c9e257e16bb028f1fdc] In regulation 70 (obligation of licensing authority in case of change of classification), in the inserted regulation 64A, for paragraph (2)(a) substitute—
 
 > - (a) the licensing authority grants or varies—
 >   - (i) a UK marketing authorisation;
@@ -1957,13 +1957,13 @@ Regulation 4
 
 .
 
-**54.**[^key-9b67a89937db89be06d1d67bbeb5675c] In regulation 72 (validity of conditional marketing authorisation and variation of a UK marketing authorisation), in the inserted regulation 65C—
+**54.**[^c-9b67a89937db89be06d1d67bbeb5675c] In regulation 72 (validity of conditional marketing authorisation and variation of a UK marketing authorisation), in the inserted regulation 65C—
 
 - (a) in the heading to the regulation, for “UK marketing authorisation” substitute “ UKMA(GB) ”;
 - (b) in paragraphs (1) and (3), for “UK marketing authorisation” substitute “ UKMA(GB) ”;
 - (c) in paragraph (6), for “exit day” in each place it occurs substitute “ IP completion day ”.
 
-**55.**[^key-cef29d90e283fef0db3e4d00831e5a97] In regulation 74 (amendment of regulation 66 (application for renewal of authorisation)) for “66(2)” to the end substitute—
+**55.**[^c-cef29d90e283fef0db3e4d00831e5a97] In regulation 74 (amendment of regulation 66 (application for renewal of authorisation)) for “66(2)” to the end substitute—
 
 > 66, for paragraph (2) substitute—
 >
@@ -1981,7 +1981,7 @@ Regulation 4
 
 ;
 
-**56.**[^key-7d648fedfde8367483243d4a2aa588c7] After regulation 76 (renewal of conditional marketing authorisation) insert—
+**56.**[^c-7d648fedfde8367483243d4a2aa588c7] After regulation 76 (renewal of conditional marketing authorisation) insert—
 
 > **76A. Amendment of regulation 67 (failure to place on the market etc.)**
 >
@@ -1993,7 +1993,7 @@ Regulation 4
 
 .
 
-**57.**[^key-b944eb7c4d71ff144d7e858eba5b5459] In regulation 77 (amendment of regulation 68 (revocation, variation and suspension of UK marketing authorisation or parallel import licence))—
+**57.**[^c-b944eb7c4d71ff144d7e858eba5b5459] In regulation 77 (amendment of regulation 68 (revocation, variation and suspension of UK marketing authorisation or parallel import licence))—
 
 - (a) in paragraph (3), for sub-paragraph (b) substitute—
 
@@ -2022,7 +2022,7 @@ Regulation 4
 
     .
 
-**58.**[^key-e3ae3333e809bcde8c0450325a8b5db3] In regulation 80(2) (amendment of regulation 71 (withdrawal of medicinal product from the market)) for sub-paragraph (b) substitute—
+**58.**[^c-e3ae3333e809bcde8c0450325a8b5db3] In regulation 80(2) (amendment of regulation 71 (withdrawal of medicinal product from the market)) for sub-paragraph (b) substitute—
 
 > - (b) for sub-paragraph (b) substitute—
 >
@@ -2034,7 +2034,7 @@ Regulation 4
 
 .
 
-**59.**[^key-7cbaa4709e11edae050d0281d7411c1f] For regulation 81 (amendment of regulation 72 (sale etc of suspended medicinal product)) substitute—
+**59.**[^c-7cbaa4709e11edae050d0281d7411c1f] For regulation 81 (amendment of regulation 72 (sale etc of suspended medicinal product)) substitute—
 
 > **81.** In regulation 72(1), for “regulation 69 or 70(2) or Article 20(4) of Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/european/regulation/2004/0726)” substitute—
 >
@@ -2045,13 +2045,13 @@ Regulation 4
 
 .
 
-**60.**[^key-6a46ac9b44b7f141c3ce838b8a3c2def] In regulation 82 (amendment of regulation 73 (obligation to notify placing on the market etc) for paragraph (3) substitute—
+**60.**[^c-6a46ac9b44b7f141c3ce838b8a3c2def] In regulation 82 (amendment of regulation 73 (obligation to notify placing on the market etc) for paragraph (3) substitute—
 
 > (3) In paragraph (5C), for “UK marketing authorisation” insert “ UKMA(NI) or UKMA(UK) ”.
 
 .
 
-**61.**[^key-029634fe4f3071826e97f8ba85dff73d] For regulation 84 (amendment of regulation 76 (obligation in relation to product information)) substitute—
+**61.**[^c-029634fe4f3071826e97f8ba85dff73d] For regulation 84 (amendment of regulation 76 (obligation in relation to product information)) substitute—
 
 > **84.** For regulation 76(2), substitute—
 >
@@ -2066,16 +2066,16 @@ Regulation 4
 
 .
 
-**62.**[^key-36c97370cb4e3b9a6be08de43573120d] Omit regulation 85 (amendment of regulation 77 (record-keeping obligations)).
+**62.**[^c-36c97370cb4e3b9a6be08de43573120d] Omit regulation 85 (amendment of regulation 77 (record-keeping obligations)).
 
-**63.**[^key-d33c240050872d36656e76c43cd35655] Omit regulation 86 (amendment of regulation 78 (obligation to ensure appropriate and continued supplies)).
+**63.**[^c-d33c240050872d36656e76c43cd35655] Omit regulation 86 (amendment of regulation 78 (obligation to ensure appropriate and continued supplies)).
 
-**64.**[^key-676f0e834ebdcc673a3f7e953e6b45af] In regulation 87 (post authorisation requirements in relation to UK marketing authorisations with paediatric aspects and advanced therapy medicinal products), in the inserted regulation 78B (post authorisation requirements in relation to UK marketing authorisations for advanced therapy medicinal products)—
+**64.**[^c-676f0e834ebdcc673a3f7e953e6b45af] In regulation 87 (post authorisation requirements in relation to UK marketing authorisations with paediatric aspects and advanced therapy medicinal products), in the inserted regulation 78B (post authorisation requirements in relation to UK marketing authorisations for advanced therapy medicinal products)—
 
 - (a) in the heading to the regulation for “UK marketing authorisations” substitute “ UKMA(GB) ”;
 - (b) for “UK marketing authorisation” in each place it appears substitute “ UKMA(GB) ”.
 
-**65.**[^key-a87a8ea4b60eaa2b2914684a58dbf8d6] For regulation 88 (omission of regulation 79 (failure to provide information on marketing authorisations to EMA)) substitute—
+**65.**[^c-a87a8ea4b60eaa2b2914684a58dbf8d6] For regulation 88 (omission of regulation 79 (failure to provide information on marketing authorisations to EMA)) substitute—
 
 > **88. Amendment of regulation 79 (failure to provide information on marketing authorisations to EMA)**
 >
@@ -2086,7 +2086,7 @@ Regulation 4
 
 .
 
-**66.**[^key-93d5a93f428101b32dfb7a73689ce451] In regulation 89 (amendment of regulation 80 (urgent safety restrictions))—
+**66.**[^c-93d5a93f428101b32dfb7a73689ce451] In regulation 89 (amendment of regulation 80 (urgent safety restrictions))—
 
 - (a) for paragraph (3) substitute—
 
@@ -2122,7 +2122,7 @@ Regulation 4
   - (ii) renumber the paragraph inserted as sub-paragraph (d);
   - (iii) in the paragraph inserted, after “fails” insert “ in respect of a UKMA(GB) ”.
 
-**67.**[^key-580f0a5d70a70299acc5c92f9d2a89f9] For regulation 90 (omission of regulations 81 to 94 (offences relation to EU marketing authorisations) substitute—
+**67.**[^c-580f0a5d70a70299acc5c92f9d2a89f9] For regulation 90 (omission of regulations 81 to 94 (offences relation to EU marketing authorisations) substitute—
 
 > **90. Application of regulations 81 to 94 (offences relating to EU marketing authorisations)**
 >
@@ -2144,7 +2144,7 @@ Regulation 4
 
 .
 
-**68.**[^key-002689e9e1de58b72ba70fe52097c225] For regulation 91 (omission of regulation 94A (offences relating to Commission Regulation 2016/161)) substitute—
+**68.**[^c-002689e9e1de58b72ba70fe52097c225] For regulation 91 (omission of regulation 94A (offences relating to Commission Regulation 2016/161)) substitute—
 
 > **91. Amendment of regulation 94A (offences relating to Commission Regulation 2016/161)**
 >
@@ -2168,7 +2168,7 @@ Regulation 4
 
 .
 
-**69.**[^key-0913ba826457517dcd383e089f0274c0] For regulation 92 (amendment of regulation 95 (offences in connection with application)) substitute—
+**69.**[^c-0913ba826457517dcd383e089f0274c0] For regulation 92 (amendment of regulation 95 (offences in connection with application)) substitute—
 
 > **92. Amendment of regulation 95 (offences in connection with application)**
 >
@@ -2179,17 +2179,17 @@ Regulation 4
 
 .
 
-**70.**[^key-8b422e3502b08c34ec6b38770120722d] Omit regulation 93 (amendment of regulation 96 (provision of misleading information)).
+**70.**[^c-8b422e3502b08c34ec6b38770120722d] Omit regulation 93 (amendment of regulation 96 (provision of misleading information)).
 
-**71.**[^key-5a0d0607ee634d3da55aecf69bdc8100] In regulation 94 (amendment of regulation 97 (breach of pharmacovigilance condition)), omit paragraph (2).
+**71.**[^c-5a0d0607ee634d3da55aecf69bdc8100] In regulation 94 (amendment of regulation 97 (breach of pharmacovigilance condition)), omit paragraph (2).
 
-**72.**[^key-1dd5f54c20543d1fafbcdf02764556b7] Omit regulation 95 (amendment of regulation 98 (general offence of breach of Part 5)).
+**72.**[^c-1dd5f54c20543d1fafbcdf02764556b7] Omit regulation 95 (amendment of regulation 98 (general offence of breach of Part 5)).
 
-**73.**[^key-faddc9af647a8e864d009d8d17082871] Omit regulation 96 (amendment of regulation 99 (penalties)).
+**73.**[^c-faddc9af647a8e864d009d8d17082871] Omit regulation 96 (amendment of regulation 99 (penalties)).
 
-**74.**[^key-27b9a10e32da42958cdc3b287f1c060d] Omit regulation 97 (amendment of regulation 101 (defences)).
+**74.**[^c-27b9a10e32da42958cdc3b287f1c060d] Omit regulation 97 (amendment of regulation 101 (defences)).
 
-**75.**[^key-78396669174fd648a52794b098b06813] In regulation 98 (amendment of regulation 102 (regulation-making power to amend regulation 102(4) to (6))), for the paragraphs to be inserted substitute—
+**75.**[^c-78396669174fd648a52794b098b06813] In regulation 98 (amendment of regulation 102 (regulation-making power to amend regulation 102(4) to (6))), for the paragraphs to be inserted substitute—
 
 > (7) The Secretary of State may make regulations in respect of Great Britain to amend paragraphs (4) to (6).
 >
@@ -2197,7 +2197,7 @@ Regulation 4
 
 .
 
-**76.**[^key-d9ac157f9b34fc371956e9fc57d96561] In regulation 99 (amendment of regulation 103 (application for certificate of registration))—
+**76.**[^c-d9ac157f9b34fc371956e9fc57d96561] In regulation 99 (amendment of regulation 103 (application for certificate of registration))—
 
 - (a) after paragraph (1) insert—
 
@@ -2259,7 +2259,7 @@ Regulation 4
 
   .
 
-**77.**[^key-631e33daaae42e0d798a51f12bf6665c] For regulation 100 (amendment of regulation 104 (consideration of application)) substitute—
+**77.**[^c-631e33daaae42e0d798a51f12bf6665c] For regulation 100 (amendment of regulation 104 (consideration of application)) substitute—
 
 > **100.** (1) Regulation 104 (consideration of application) is amended as follows.
 >
@@ -2277,7 +2277,7 @@ Regulation 4
 
 .
 
-**78.**[^key-05b0bfd09227ff270dfc32bbd39fea3b] In regulation 101 (amendment of regulation 108 (application for renewal of certificate)) for “for “European Union”” to the end substitute—
+**78.**[^c-05b0bfd09227ff270dfc32bbd39fea3b] In regulation 101 (amendment of regulation 108 (application for renewal of certificate)) for “for “European Union”” to the end substitute—
 
 > for “must be established in the European Union” substitute—
 >
@@ -2295,7 +2295,7 @@ Regulation 4
 
 .
 
-**79.**[^key-482099bd164be2dd4f05a81599f3ce3d] After regulation 101 (amendment of regulation 108 (application for renewal of certificate)) insert—
+**79.**[^c-482099bd164be2dd4f05a81599f3ce3d] After regulation 101 (amendment of regulation 108 (application for renewal of certificate)) insert—
 
 > **101A. Amendment of regulation 109 (failure to place on the market etc.)**
 >
@@ -2309,7 +2309,7 @@ Regulation 4
 
 ### PART 5 — Amendment of Part 6 (amendment of Part 6 (certification of homoeopathic products))
 
-**80.**[^key-7d6a0014427559d53600ee038cfaa835] In regulation 102 (amendment of regulation 110 (revocation, variation and suspension of certificate of registration))—
+**80.**[^c-7d6a0014427559d53600ee038cfaa835] In regulation 102 (amendment of regulation 110 (revocation, variation and suspension of certificate of registration))—
 
 - (a) for paragraph (2) substitute—
 
@@ -2335,7 +2335,7 @@ Regulation 4
 
   .
 
-**81.**[^key-f55c161e9c573aae955ecc17e90ef281] For regulation 107 (amendment of regulation 116 (obligation in relation to product information)) substitute—
+**81.**[^c-f55c161e9c573aae955ecc17e90ef281] For regulation 107 (amendment of regulation 116 (obligation in relation to product information)) substitute—
 
 > **107. Amendment of regulation 116 (obligation in relation to product information)**
 >
@@ -2354,7 +2354,7 @@ Regulation 4
 
 ### PART 6 — Amendment of Part 7 (amendment of Part 7 (Traditional Herbal Registrations))
 
-**82.**[^key-ed698eaf40645165da03de7fa6ddf7d7] In regulation 110 (amendment of regulation 125 (traditional herbal medicinal products)) for “125(5)(b)” to the end substitute—
+**82.**[^c-ed698eaf40645165da03de7fa6ddf7d7] In regulation 110 (amendment of regulation 125 (traditional herbal medicinal products)) for “125(5)(b)” to the end substitute—
 
 > 125(5) for sub-paragraph (b) substitute—
 >
@@ -2366,9 +2366,9 @@ Regulation 4
 
 .
 
-**83.**[^key-8056ec22bd69f7adc081e718f02bbebd] In regulation 112 (insertion of new italic heading and regulation 126A (list of herbal substances, preparations and combinations for use in traditional herbal medicinal products)), in the inserted regulation 126A(1), after “traditional herbal medicinal products” insert “ for which a THR(GB) may be granted ”.
+**83.**[^c-8056ec22bd69f7adc081e718f02bbebd] In regulation 112 (insertion of new italic heading and regulation 126A (list of herbal substances, preparations and combinations for use in traditional herbal medicinal products)), in the inserted regulation 126A(1), after “traditional herbal medicinal products” insert “ for which a THR(GB) may be granted ”.
 
-**84.**[^key-b4a6346ad31e73e9632c0ba17f11065f] For regulation 113 (amendment of regulation 127 (application for grant of traditional herbal registration)) substitute—
+**84.**[^c-b4a6346ad31e73e9632c0ba17f11065f] For regulation 113 (amendment of regulation 127 (application for grant of traditional herbal registration)) substitute—
 
 > **113.** (1) Regulation 127 (application for grant of traditional herbal registration) is amended as follows.
 >
@@ -2416,7 +2416,7 @@ Regulation 4
 
 .
 
-**85.**[^key-27ff3257345f59ad5060296a34d616be] For regulation 114 (amendment of regulation 128 (accompanying material)) substitute—
+**85.**[^c-27ff3257345f59ad5060296a34d616be] For regulation 114 (amendment of regulation 128 (accompanying material)) substitute—
 
 > **114.** (1) Regulation 128 (accompanying material) is amended as follows.
 >
@@ -2438,13 +2438,13 @@ Regulation 4
 
 .
 
-**86.**[^key-6f752e1e11ac832432a7f09f18289eaa] For regulation 115(3)(a) (amendment of Schedule 12 (material to accompany an application for a traditional herbal registration)) substitute—
+**86.**[^c-6f752e1e11ac832432a7f09f18289eaa] For regulation 115(3)(a) (amendment of Schedule 12 (material to accompany an application for a traditional herbal registration)) substitute—
 
 > - (a) after “Article 23 of Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/european/regulation/2004/0726)” insert “ or regulation 202A, as the case may be ”;
 
 .
 
-**87.**[^key-09a517e855f52bd036432f83e41e121f] In regulation 116 (amendment of regulation 130 (consideration of application))—
+**87.**[^c-09a517e855f52bd036432f83e41e121f] In regulation 116 (amendment of regulation 130 (consideration of application))—
 
 - (a) in paragraph (3) for “for “Article” to the end substitute—
 
@@ -2499,9 +2499,9 @@ Regulation 4
 
   .
 
-**88.**[^key-18d9caf38f0d9bd2ef9de7ded661b5a7] In regulation 117 (Insertion of regulation 130A (procedure where less than 15 years use of traditional herbal medicinal product)), in the inserted regulation 130A(1), for “traditional herbal registration” substitute “ THR(GB) (other than an application under the unfettered access route) ”.
+**88.**[^c-18d9caf38f0d9bd2ef9de7ded661b5a7] In regulation 117 (Insertion of regulation 130A (procedure where less than 15 years use of traditional herbal medicinal product)), in the inserted regulation 130A(1), for “traditional herbal registration” substitute “ THR(GB) (other than an application under the unfettered access route) ”.
 
-**89.**[^key-62dbbec92cbae371cb546811b8cbbf54] In regulation 118 (amendment of regulation 133 (application for renewal of registration)) for “for “European Union”” to the end substitute—
+**89.**[^c-62dbbec92cbae371cb546811b8cbbf54] In regulation 118 (amendment of regulation 133 (application for renewal of registration)) for “for “European Union”” to the end substitute—
 
 > for “must be established in the European Union” substitute—
 >
@@ -2519,7 +2519,7 @@ Regulation 4
 
 .
 
-**90.**[^key-295a2620a10711a70de1890531e0e9b4] After regulation 118 amendment of regulation 133 (amendment of regulation 133 (application for renewal of registration)) insert—
+**90.**[^c-295a2620a10711a70de1890531e0e9b4] After regulation 118 amendment of regulation 133 (amendment of regulation 133 (application for renewal of registration)) insert—
 
 > **118A. Amendment of regulation 134 (failure to place on the market etc.)**
 >
@@ -2531,7 +2531,7 @@ Regulation 4
 
 .
 
-**91.**[^key-afa727d5e0732a3b9ba9b520dbd423f1] In regulation 119 (amendment of regulation 135 (revocation, variation and suspension of traditional herbal registration))—
+**91.**[^c-afa727d5e0732a3b9ba9b520dbd423f1] In regulation 119 (amendment of regulation 135 (revocation, variation and suspension of traditional herbal registration))—
 
 - (a) after paragraph (1) insert—
 
@@ -2564,7 +2564,7 @@ Regulation 4
 
   .
 
-**92.**[^key-bf81d65c7676977f66b6af11e9122c58] In regulation 120(2) (amendment of regulation 136 (revocation by licensing authority: further provisions)) for “for “list referred to in” to the end substitute—
+**92.**[^c-bf81d65c7676977f66b6af11e9122c58] In regulation 120(2) (amendment of regulation 136 (revocation by licensing authority: further provisions)) for “for “list referred to in” to the end substitute—
 
 > for “the list referred to in” to the end substitute—
 >
@@ -2575,7 +2575,7 @@ Regulation 4
 
 .
 
-**93.**[^key-d465b2b35ef6745016164619d6020a8f] In regulation 123 (amendment of regulation 140 (withdrawal of traditional herbal medicinal product from the market) for “140(1)(a)” to the end substitute “140(1) for sub-paragraph (a) substitute—
+**93.**[^c-d465b2b35ef6745016164619d6020a8f] In regulation 123 (amendment of regulation 140 (withdrawal of traditional herbal medicinal product from the market) for “140(1)(a)” to the end substitute “140(1) for sub-paragraph (a) substitute—
 
 > - (a) under—
 >   - (i) regulation 135 or 136, in the case of a THR(GB);
@@ -2585,11 +2585,11 @@ Regulation 4
 
 .
 
-**94.**[^key-ad7521858c9ef0d2bbefca1087710fec] In regulation 125 (amendment of regulation 142 (obligation to notify placing on the market etc)) for “Omit regulation 142(5C)” substitute “In regulation 142(5C), for “traditional herbal registration” substitute “ THR(NI) or THR(UK) ”.
+**94.**[^c-ad7521858c9ef0d2bbefca1087710fec] In regulation 125 (amendment of regulation 142 (obligation to notify placing on the market etc)) for “Omit regulation 142(5C)” substitute “In regulation 142(5C), for “traditional herbal registration” substitute “ THR(NI) or THR(UK) ”.
 
-**95.**[^key-1f162b5d45f34519f17348aebc64e578] In regulation 126 (insertion of new regulation 143A (establishment of herbal monographs)), in the inserted regulation 143A(1), after “traditional herbal medicinal products” insert “ to be placed on the market in Great Britain ”.
+**95.**[^c-1f162b5d45f34519f17348aebc64e578] In regulation 126 (insertion of new regulation 143A (establishment of herbal monographs)), in the inserted regulation 143A(1), after “traditional herbal medicinal products” insert “ to be placed on the market in Great Britain ”.
 
-**96.**[^key-f370323b4e8a1a4f491b8b8f8ad565e9] For regulation 127 (amendment of regulation 144 (obligation following new herbal monograph)) substitute—
+**96.**[^c-f370323b4e8a1a4f491b8b8f8ad565e9] For regulation 127 (amendment of regulation 144 (obligation following new herbal monograph)) substitute—
 
 > **127. Substitution of regulation 144 (obligation following new herbal monograph)**
 >
@@ -2611,7 +2611,7 @@ Regulation 4
 
 .
 
-**97.**[^key-378a2868cb7e3faac78a0d0be299764b] For regulation 129 (amendment of regulation 146 (obligation in relation to product information)) substitute—
+**97.**[^c-378a2868cb7e3faac78a0d0be299764b] For regulation 129 (amendment of regulation 146 (obligation in relation to product information)) substitute—
 
 > **129.** For regulation 146(2), substitute—
 >
@@ -2626,7 +2626,7 @@ Regulation 4
 
 .
 
-**98.**[^key-e97679d2dac0aec5570eef93db8a72e1] In regulation 131 (amendment of regulation 149 (urgent safety restrictions)) substitute—
+**98.**[^c-e97679d2dac0aec5570eef93db8a72e1] In regulation 131 (amendment of regulation 149 (urgent safety restrictions)) substitute—
 
 > **131. Substitution of regulation 149 (urgent safety restrictions)**
 >
@@ -2658,7 +2658,7 @@ Regulation 4
 
 ### PART 7 — Amendment of Part 8 (omission of Part 8 (Article 126a authorisations))
 
-**99.**[^key-386c867fcdb1f6da09c21d2bd2829ab2] For regulation 132 (omission of Part 8), substitute—
+**99.**[^c-386c867fcdb1f6da09c21d2bd2829ab2] For regulation 132 (omission of Part 8), substitute—
 
 > **132. Amendment of regulation 156 (article 126a authorisations)**
 >
@@ -2685,13 +2685,13 @@ Regulation 4
 
 ### PART 8 — Amendment of Part 9 (amendment of Part 9 (borderline products))
 
-**100.**[^key-1082462daf4e4dab9e6f732db5c739a7] In regulation 133 (amendment of regulation 159 (provisional determination)) for paragraph (b) substitute—
+**100.**[^c-1082462daf4e4dab9e6f732db5c739a7] In regulation 133 (amendment of regulation 159 (provisional determination)) for paragraph (b) substitute—
 
 > - (b) for “Article 126a authorisation” insert “ , only in relation to a product for sale or supply in Northern Ireland, an Article 126a authorisation or an EU marketing authorisation, ”.
 
 .
 
-**101.**[^key-c7c2a705202c2a316b3c081a9f8ab13a] In regulation 134 (amendment of regulation 164 (effect of determination)) for paragraph (b) substitute—
+**101.**[^c-c7c2a705202c2a316b3c081a9f8ab13a] In regulation 134 (amendment of regulation 164 (effect of determination)) for paragraph (b) substitute—
 
 > - (b) for “Article 126a authorisation” insert “ , only in relation to a product for sale or supply in Northern Ireland, an Article 126a authorisation or an EU marketing authorisation, ”.
 
@@ -2699,7 +2699,7 @@ Regulation 4
 
 ### PART 9 — Amendment of Part 10 (amendment of Part 10 (exceptions to requirement for marketing authorisations etc))
 
-**102.**[^key-434f04e7e393157de0649d5d182f6276] Before regulation 135 (amendment of regulation 168 (use of non-prescription medicines in the course of a business) insert—
+**102.**[^c-434f04e7e393157de0649d5d182f6276] Before regulation 135 (amendment of regulation 168 (use of non-prescription medicines in the course of a business) insert—
 
 > **135ZA. New regulation 135ZA (amendment of regulation 167 (supply to fulfil special patient needs))**
 >
@@ -2725,7 +2725,7 @@ Regulation 4
 
 .
 
-**103.**[^key-57c5111edc12875d143d16338dcb477d] For regulation 135 (amendment of regulation 168 (use of non-prescription medicines in the course of a business)), substitute—
+**103.**[^c-57c5111edc12875d143d16338dcb477d] For regulation 135 (amendment of regulation 168 (use of non-prescription medicines in the course of a business)), substitute—
 
 > **135. Amendment of regulation 168 (use of non-prescription medicines in the course of a business)**
 >
@@ -2748,9 +2748,9 @@ Regulation 4
 
 .
 
-**104.**[^key-f18e38ce1aa5e2717d5c1f1026cde44a] In regulation 136 (amendment of regulation 169 (mixing of general sale medicinal products)), for “insert “ UK ” before “marketing authorisation” ” substitute “for “marketing authorisation” substitute “ UK marketing authorisation or EU marketing authorisation ””.
+**104.**[^c-f18e38ce1aa5e2717d5c1f1026cde44a] In regulation 136 (amendment of regulation 169 (mixing of general sale medicinal products)), for “insert “ UK ” before “marketing authorisation” ” substitute “for “marketing authorisation” substitute “ UK marketing authorisation or EU marketing authorisation ””.
 
-**105.**[^key-ca04b28a2a1159061f1ae095f84f39d1] In regulation 137 (amendment of regulation 171 (exempt advanced therapy medicinal products)), for “substitute “regulation 49(1)”.” substitute—
+**105.**[^c-ca04b28a2a1159061f1ae095f84f39d1] In regulation 137 (amendment of regulation 171 (exempt advanced therapy medicinal products)), for “substitute “regulation 49(1)”.” substitute—
 
 > substitute—
 >
@@ -2761,11 +2761,11 @@ Regulation 4
 
 .
 
-**106.**[^key-4473fe63f0d99941d9c2654b1cc01d16] In regulation 138 (amendment of regulation 173 (exemption for certain radiopharmaceuticals)), for “insert “ UK ” before “marketing authorisation” ” substitute “for “marketing authorisation” substitute “ UK marketing authorisation or EU marketing authorisation ””.
+**106.**[^c-4473fe63f0d99941d9c2654b1cc01d16] In regulation 138 (amendment of regulation 173 (exemption for certain radiopharmaceuticals)), for “insert “ UK ” before “marketing authorisation” ” substitute “for “marketing authorisation” substitute “ UK marketing authorisation or EU marketing authorisation ””.
 
 ### PART 10 — Amendment of Part 11 (amendment of Part 11 (Pharmacovigilance))
 
-**107.**[^key-ed43772ed1e5ac33ea59f62ce8e3ca69] In regulation 139 (amendment of regulation 177 (application of part and interpretation))—
+**107.**[^c-ed43772ed1e5ac33ea59f62ce8e3ca69] In regulation 139 (amendment of regulation 177 (application of part and interpretation))—
 
 - (a) for paragraph (2) substitute—
 
@@ -2793,7 +2793,7 @@ Regulation 4
 
   .
 
-**108.**[^key-e3e070fb178f8df84ff224f6f5e2f2c7] After regulation 139 (amendment of regulation 177 (application of part and interpretation)) insert—
+**108.**[^c-e3e070fb178f8df84ff224f6f5e2f2c7] After regulation 139 (amendment of regulation 177 (application of part and interpretation)) insert—
 
 > **139A. Amendment of regulation 179 (obligation on licensing authority to operate pharmacovigilance system)**
 >
@@ -2810,7 +2810,7 @@ Regulation 4
 
 .
 
-**109.**[^key-d90b5eb006fb1f5e1b2d01bf2504d204] In regulation 140 (amendment of regulation 180 (obligation on licensing authority to audit pharmacovigilance system))—
+**109.**[^c-d90b5eb006fb1f5e1b2d01bf2504d204] In regulation 140 (amendment of regulation 180 (obligation on licensing authority to audit pharmacovigilance system))—
 
 - (a) in paragraph (2)—
   - (i) before “omit” insert—
@@ -2841,7 +2841,7 @@ Regulation 4
 
   .
 
-**110.**[^key-5aaf82740b0b2f932640800bb77b344d] For regulation 141 (omission of regulation 181 (delegation of obligations under Part 11)) substitute—
+**110.**[^c-5aaf82740b0b2f932640800bb77b344d] For regulation 141 (omission of regulation 181 (delegation of obligations under Part 11)) substitute—
 
 > **141. Amendment of regulation 181 (delegation of obligations under Part 11)**
 >
@@ -2849,7 +2849,7 @@ Regulation 4
 
 .
 
-**111.**[^key-ab8c6ed76e41c61579fb027ac3296118] In regulation 142 (amendment of regulation 182 (obligation on holder to operate a pharmacovigilance system))—
+**111.**[^c-ab8c6ed76e41c61579fb027ac3296118] In regulation 142 (amendment of regulation 182 (obligation on holder to operate a pharmacovigilance system))—
 
 - (a) in paragraph (2) for “for “resides and operates” to the end substitute “after “in the EU” insert “ or United Kingdom ””;
 - (b) after paragraph (2) insert—
@@ -2883,9 +2883,9 @@ Regulation 4
 
   .
 
-**112.**[^key-ea9c3ded9c822d10194a63b8fcb686b5] In regulation 143 (amendment of regulation 184 (obligation on holder to audit pharmacovigilance system)), in the inserted paragraph (3) after “The holder” insert “ of a UKMA(GB) or THR(GB) ”.
+**112.**[^c-ea9c3ded9c822d10194a63b8fcb686b5] In regulation 143 (amendment of regulation 184 (obligation on holder to audit pharmacovigilance system)), in the inserted paragraph (3) after “The holder” insert “ of a UKMA(GB) or THR(GB) ”.
 
-**113.**[^key-2e99404c956d75c9424e5fa2f4d66c90] For regulation 145 (amendment of regulation 186 (reporting obligations on the licensing authority)) substitute—
+**113.**[^c-2e99404c956d75c9424e5fa2f4d66c90] For regulation 145 (amendment of regulation 186 (reporting obligations on the licensing authority)) substitute—
 
 > **145.** In regulation 186—
 >
@@ -2913,13 +2913,13 @@ Regulation 4
 
 .
 
-**114.**[^key-65033b685e882eb9709484163518fdce] In regulation 147 (amendment of regulation 187 (recording obligations on holders)) for paragraph (2) substitute—
+**114.**[^c-65033b685e882eb9709484163518fdce] In regulation 147 (amendment of regulation 187 (recording obligations on holders)) for paragraph (2) substitute—
 
 > (2) In paragraph (1) for “in the EEA or in third countries” substitute “ in the United Kingdom or another country ”.
 
 .
 
-**115.**[^key-a206688b4518e95305686d77a2bcd109] In regulation 148 (amendment of regulation 188 (reporting obligations on holders))—
+**115.**[^c-a206688b4518e95305686d77a2bcd109] In regulation 148 (amendment of regulation 188 (reporting obligations on holders))—
 
 - (a) in paragraph (3), before sub-paragraph (a) insert—
 
@@ -2964,13 +2964,13 @@ Regulation 4
 
   .
 
-**116.**[^key-186d2f3b2a15672ba7122e71db9929ad] In regulation 149 (amendment of regulation 189 (signal detection: licensing authority obligations)) for paragraph (3) substitute—
+**116.**[^c-186d2f3b2a15672ba7122e71db9929ad] In regulation 149 (amendment of regulation 189 (signal detection: licensing authority obligations)) for paragraph (3) substitute—
 
 > (3) In paragraphs (2) and (3), for “The licensing” insert “ In relation to medicinal products subject to a UKMA(UK), a UKMA(NI), a THR(UK), a THR(NI) or an Article 126a authorisation, the licensing ”.
 
 .
 
-**117.**[^key-ce5587827567c0d30a9100849036ed1c] For regulation 150 (amendment of regulation 190 (signal detection: holder obligation)) substitute—
+**117.**[^c-ce5587827567c0d30a9100849036ed1c] For regulation 150 (amendment of regulation 190 (signal detection: holder obligation)) substitute—
 
 > **150.** For regulation 190(1) substitute—
 >
@@ -2985,7 +2985,7 @@ Regulation 4
 
 .
 
-**118.**[^key-cca2fe0618b7453a5f34fad4596785b7] In regulation 151 (amendment of regulation 191 (obligation on holder to submit periodic safety update reports: general requirements))—
+**118.**[^c-cca2fe0618b7453a5f34fad4596785b7] In regulation 151 (amendment of regulation 191 (obligation on holder to submit periodic safety update reports: general requirements))—
 
 - (a) in paragraph (2) for “for “EMA” substitute “ licensing authority ”” substitute “after “EMA” insert “ and the licensing authority or, in the case of a holder of a UKMA(GB), to the licensing authority only, ”;
 - (b) omit paragraph (4);
@@ -3018,7 +3018,7 @@ Regulation 4
 
   .
 
-**119.**[^key-bb460966edfd238e27214901e89e551f] In regulation 152 (amendment of regulation 192 (obligation to submit periodic safety reports: derogation from general requirements))—
+**119.**[^c-bb460966edfd238e27214901e89e551f] In regulation 152 (amendment of regulation 192 (obligation to submit periodic safety reports: derogation from general requirements))—
 
 - (a) in paragraph (3), for “for “EMA” to the end substitute “after “EMA” insert “ and the licensing authority or, in the case of a holder of a UKMA(GB), to the licensing authority only, ”;
 - (b) for paragraph (4) substitute—
@@ -3027,7 +3027,7 @@ Regulation 4
 
   .
 
-**120.**[^key-91c55be237ab1770d3d854aefaa69f2d] In regulation 153 (amendment of regulation 193 (harmonisation of PSUR frequency or date of submission))—
+**120.**[^c-91c55be237ab1770d3d854aefaa69f2d] In regulation 153 (amendment of regulation 193 (harmonisation of PSUR frequency or date of submission))—
 
 - (a) for paragraph (2) substitute—
 
@@ -3075,12 +3075,12 @@ Regulation 4
   - (iii) in the substituted paragraph (6A) for “(6A)” substitute “ (6B) ”; and
 - (g) in paragraph (7) for “(6A)” substitute “ (6B) ”.
 
-**121.**[^key-474a850598363db657defd1b03cae0e3] In regulation 154 (omission of regulation 194 (responding to a single assessment of PSUR under Article 107e of the 2001 Directive))—
+**121.**[^c-474a850598363db657defd1b03cae0e3] In regulation 154 (omission of regulation 194 (responding to a single assessment of PSUR under Article 107e of the 2001 Directive))—
 
 - (a) in the heading, for “omission” substitute “ amendment ”; and
 - (b) for “Omit regulation 194.” substitute “In regulation 194(1) after “medicinal product” insert “ authorised under a UKMA(NI), UKMA(UK), THR(NI), THR(UK) or Article 126a authorisation ”.”.
 
-**122.**[^key-871274343e3846bc87136953de54cf0a] In regulation 155 (amendment of regulation 195 (obligation on licensing authority to assess PSURs)—
+**122.**[^c-871274343e3846bc87136953de54cf0a] In regulation 155 (amendment of regulation 195 (obligation on licensing authority to assess PSURs)—
 
 - (a) after paragraph (2) insert—
 
@@ -3103,7 +3103,7 @@ Regulation 4
   - (iv) in the inserted paragraph (1A), after “to a medicinal product” insert “ authorised for sale or supply under a UKMA(GB) or THR(GB) ”;
 - (c) omit paragraph (5).
 
-**123.**[^key-3ee9264aaa3f97141bef59eb87bdf0ce] Before regulation 156 insert—
+**123.**[^c-3ee9264aaa3f97141bef59eb87bdf0ce] Before regulation 156 insert—
 
 > **156ZA. Amendment of regulation 196 (urgent action)**
 >
@@ -3117,7 +3117,7 @@ Regulation 4
 
 .
 
-**124.**[^key-139512f4fce5ad838f36cdef6bb2a25a] In regulation 156 (substitution of regulation 196 (urgent action))—
+**124.**[^c-139512f4fce5ad838f36cdef6bb2a25a] In regulation 156 (substitution of regulation 196 (urgent action))—
 
 - (a) for the heading to the regulation, substitute “ Insertion of new regulation 196A (major safety review by the licensing authority) ”;
 - (b) for “For regulation 196 and the italic heading immediately preceding it, substitute” substitute “ After regulation 196 insert ”;
@@ -3125,13 +3125,13 @@ Regulation 4
   - (i) omit the italic heading “Major safety review”;
   - (ii) renumber the regulation as regulation 196A.
 
-**125.**[^key-3f73bba66d672cc164108168224ca2f9] In regulation 157 (omission of regulation 197 (EU urgent action procedure))—
+**125.**[^c-3f73bba66d672cc164108168224ca2f9] In regulation 157 (omission of regulation 197 (EU urgent action procedure))—
 
 - (a) in the heading for “Omission” substitute “ Amendment ”;
 - (b) for “Omit” substitute “In;
 - (c) after “regulation 197” insert “, in paragraph (1), after “ class of medicinal products ” insert “ authorised for sale or supply under a UKMA(NI), UKMA(UK), THR(NI), THR(UK) or Article 126a authorisation ””.
 
-**126.**[^key-492151c5a07e2c7682f72bb2c15e10ef] In regulation 158 (amendment of regulation 198 (post-authorisation safety studies: general provisions))—
+**126.**[^c-492151c5a07e2c7682f72bb2c15e10ef] In regulation 158 (amendment of regulation 198 (post-authorisation safety studies: general provisions))—
 
 - (a) in paragraph (2), for “for “competent authorities” to the end substitute—
 
@@ -3167,7 +3167,7 @@ Regulation 4
 
     .
 
-**127.**[^key-7a87afa334894240f5acd20f17009074] In regulation 159 (amendment of regulation 199 (submission of draft study protocols for required studies))—
+**127.**[^c-7a87afa334894240f5acd20f17009074] In regulation 159 (amendment of regulation 199 (submission of draft study protocols for required studies))—
 
 - (a) for paragraph (2) substitute—
 
@@ -3193,7 +3193,7 @@ Regulation 4
   ;
 - (c) omit paragraphs (4) to (6).
 
-**128.**[^key-55ebd9df5d5ebee1181e834d82459f91] In regulation 160 (amendment of regulation 200 (amendment to study protocols for required studies))—
+**128.**[^c-55ebd9df5d5ebee1181e834d82459f91] In regulation 160 (amendment of regulation 200 (amendment to study protocols for required studies))—
 
 - (a) for paragraph (2) substitute—
 
@@ -3219,7 +3219,7 @@ Regulation 4
   ;
 - (c) omit paragraphs (4) and (5).
 
-**129.**[^key-1ea0e7ab14a00b51505b90cf107896c6] In regulation 161 (amendment of regulation 201 (submission and evaluation of final study reports for required studies))—
+**129.**[^c-1ea0e7ab14a00b51505b90cf107896c6] In regulation 161 (amendment of regulation 201 (submission and evaluation of final study reports for required studies))—
 
 - (a) for paragraph (2) substitute—
 
@@ -3238,7 +3238,7 @@ Regulation 4
 - (b) omit paragraph (3);
 - (c) in paragraph (4) for “omit from” to the end substitute “omit “for reports falling under paragraph (3)(a)” and “for reports falling under paragraph (3)(b)”.
 
-**130.**[^key-6e4c5363c963c3f5458b5a08773be656] For regulation 162 (omission of regulation 202 (follow up of final study reports)) substitute—
+**130.**[^c-6e4c5363c963c3f5458b5a08773be656] For regulation 162 (omission of regulation 202 (follow up of final study reports)) substitute—
 
 > **162. Amendment of regulation 202 (follow up of final study reports)**
 >
@@ -3246,7 +3246,7 @@ Regulation 4
 
 .
 
-**131.**[^key-4289f65cd2779330fb9d806c66734716] For regulation 164(3) (amendment of regulation 203 (obligations on licensing authority in relation to national medicines web-portal)) substitute—
+**131.**[^c-4289f65cd2779330fb9d806c66734716] For regulation 164(3) (amendment of regulation 203 (obligations on licensing authority in relation to national medicines web-portal)) substitute—
 
 > (3) In paragraph (2), after sub-paragraph (d) insert—
 >
@@ -3256,25 +3256,25 @@ Regulation 4
 
 .
 
-**132.**[^key-7384d0e235c6c9142c38d59d453fcba4] In regulation 165 (omission of regulation 204 (obligation on licensing authority in relation to public announcements))—
+**132.**[^c-7384d0e235c6c9142c38d59d453fcba4] In regulation 165 (omission of regulation 204 (obligation on licensing authority in relation to public announcements))—
 
 - (a) in the heading for “Omission” substitute “ Amendment ”;
 - (b) for “Omit” substitute “ In ”;
 - (c) after “regulation 204” insert “, in paragraph (1), after “ pharmacovigilance concerns ” insert “ which relate to products authorised under a UKMA(NI) or UKMA(UK) ”.
 
-**133.**[^key-3d05ee1279221026da06ce96f1989e38] In regulation 166 (amendment of regulation 205 (obligations on holders in relation to public announcements))—
+**133.**[^c-3d05ee1279221026da06ce96f1989e38] In regulation 166 (amendment of regulation 205 (obligations on holders in relation to public announcements))—
 
 - (a) in paragraph (2) for “for “bodies listed” to the end substitute “after “bodies listed in paragraph (3)” insert “ where the product is subject to a UKMA(NI), UKMA(UK), THR(NI), THR(UK) or Article 126a authorisation, or the licensing authority where the product is subject to a UKMA(GB) or THR(GB), ””;
 - (b) omit paragraph (3).
 
-**134.**[^key-51d6aaeadcb39ebe6c503f2ee8205f1a] In regulation 167 (insertion of regulation 205A (further obligations in respect of pharmacovigilance activities)), in the inserted regulation 205A—
+**134.**[^c-51d6aaeadcb39ebe6c503f2ee8205f1a] In regulation 167 (insertion of regulation 205A (further obligations in respect of pharmacovigilance activities)), in the inserted regulation 205A—
 
 - (a) in paragraph (1), after “Schedule 12A” insert “ applies in relation to medicinal products for sale or supply under a UKMA(GB) or THR(GB) and ”;
 - (b) in paragraph (2)—
   - (i) for “The Ministers” substitute “ The Secretary of State ”;
   - (ii) after “by regulations” insert “ in respect of Great Britain ”.
 
-**135.**[^key-c05e1ea6daa7c0163ebe65cb718beb4e] In regulation 170 (amendment of regulation 206 (infringement notices)) for paragraphs (2) and (3) substitute—
+**135.**[^c-c05e1ea6daa7c0163ebe65cb718beb4e] In regulation 170 (amendment of regulation 206 (infringement notices)) for paragraphs (2) and (3) substitute—
 
 > (2) In paragraph (3), after “paragraph (1)” insert “ in relation to a product authorised for sale or supply under a UKMA(NI), UKMA(UK), THR(NI) or THR(UK) ”.
 >
@@ -3286,9 +3286,9 @@ Regulation 4
 
 .
 
-**136.**[^key-5aeac8482743fde8782a7d02c332cd54] Omit regulations 172 (amendment regulation 208 (false and misleading information)), 173 (amendment of regulation 209 (penalties)) and 174 (Omission of regulation 210 (offences relating to pharmacovigilance obligations under Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/european/regulation/2004/0726))).
+**136.**[^c-5aeac8482743fde8782a7d02c332cd54] Omit regulations 172 (amendment regulation 208 (false and misleading information)), 173 (amendment of regulation 209 (penalties)) and 174 (Omission of regulation 210 (offences relating to pharmacovigilance obligations under Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/european/regulation/2004/0726))).
 
-**137.**[^key-db0628adc268074aea05f999746c9de6] In regulation 175 (amendment of regulation 210A (offences in relation to pharmacovigilance obligations under the Implementing Regulation))—
+**137.**[^c-db0628adc268074aea05f999746c9de6] In regulation 175 (amendment of regulation 210A (offences in relation to pharmacovigilance obligations under the Implementing Regulation))—
 
 - (a) in paragraph (2)—
   - (i) for “for” substitute “ after ”;
@@ -3313,19 +3313,19 @@ Regulation 4
 
   .
 
-**138.**[^key-b10f00813159c877a734d4f661cc607d] Omit regulation 176 (amendment of regulation 211 (persons liable)).
+**138.**[^c-b10f00813159c877a734d4f661cc607d] Omit regulation 176 (amendment of regulation 211 (persons liable)).
 
-**139.**[^key-fab3c892e824b5c3b1838f0c8f878a30] For regulation 177 (amendment of regulation 212 (transitional amendments)) substitute—
+**139.**[^c-fab3c892e824b5c3b1838f0c8f878a30] For regulation 177 (amendment of regulation 212 (transitional amendments)) substitute—
 
 > **177.** In regulation 212, omit “182, 186, 188, 191, 192”.
 
 .
 
-**140.**[^key-5fe405a2997fac241061e772c23c6b5c] In regulation 178 (amendment of Schedule 33 (transitional arrangements: pharmacovigilance)) for “4” substitute “ 5 ”.
+**140.**[^c-5fe405a2997fac241061e772c23c6b5c] In regulation 178 (amendment of Schedule 33 (transitional arrangements: pharmacovigilance)) for “4” substitute “ 5 ”.
 
 ### PART 11 — Amendment of Part 12 (amendment of Part 12 (dealings with medicinal products))
 
-**141.**[^key-8f2f0155df98d6fae1871edd84180d33] For regulation 187 (amendment of regulation 229 (exemption for supply by national health services bodies and local authorities)) substitute—
+**141.**[^c-8f2f0155df98d6fae1871edd84180d33] For regulation 187 (amendment of regulation 229 (exemption for supply by national health services bodies and local authorities)) substitute—
 
 > **187.** In regulation 229(3), for sub-paragraph (f) substitute—
 >
@@ -3339,7 +3339,7 @@ Regulation 4
 
 .
 
-**142.**[^key-8f9fc53cff3b0b88641c88cac118cb4c] For regulation 188 (amendment of regulation 230 (exemption for supply etc under a PGD to assist doctors or dentists)) substitute—
+**142.**[^c-8f9fc53cff3b0b88641c88cac118cb4c] For regulation 188 (amendment of regulation 230 (exemption for supply etc under a PGD to assist doctors or dentists)) substitute—
 
 > **188.** For regulation 230(8) substitute—
 >
@@ -3354,7 +3354,7 @@ Regulation 4
 
 .
 
-**143.**[^key-4a4027f9de093546af13b86e7f17a44d] For regulation 189 (amendment of regulation 231 (exemption for supply etc under a PGD by independent hospitals etc)) substitute—
+**143.**[^c-4a4027f9de093546af13b86e7f17a44d] For regulation 189 (amendment of regulation 231 (exemption for supply etc under a PGD by independent hospitals etc)) substitute—
 
 > **189.** For regulation 231(8) substitute—
 >
@@ -3369,7 +3369,7 @@ Regulation 4
 
 .
 
-**144.**[^key-8d737a74817835b761b9eb56f5190e2c] For regulation 190 (amendment of regulation 232 (exemption for supply etc under a PGD by dental practices and clinics: England and Wales)) substitute—
+**144.**[^c-8d737a74817835b761b9eb56f5190e2c] For regulation 190 (amendment of regulation 232 (exemption for supply etc under a PGD by dental practices and clinics: England and Wales)) substitute—
 
 > **190.** For regulation 232(8) substitute—
 >
@@ -3379,7 +3379,7 @@ Regulation 4
 
 .
 
-**145.**[^key-99da3f8c42c06c2583b083f1ee0e2c9a] For regulation 191 (amendment of regulation 233 (exemption for supply etc under a PGD by a person conducting a retail pharmacy business)) substitute—
+**145.**[^c-99da3f8c42c06c2583b083f1ee0e2c9a] For regulation 191 (amendment of regulation 233 (exemption for supply etc under a PGD by a person conducting a retail pharmacy business)) substitute—
 
 > **191.** For regulation 233(7) substitute—
 >
@@ -3394,7 +3394,7 @@ Regulation 4
 
 .
 
-**146.**[^key-67884e5590b34c1c70b474736f62bb40] For regulation 192 (amendment of regulation 234 (exemption for supply etc of products under a PGD to assist the police etc)) substitute—
+**146.**[^c-67884e5590b34c1c70b474736f62bb40] For regulation 192 (amendment of regulation 234 (exemption for supply etc of products under a PGD to assist the police etc)) substitute—
 
 > **192.** For regulation 234(9) substitute—
 >
@@ -3409,12 +3409,12 @@ Regulation 4
 
 .
 
-**147.**[^key-e3bb2ad6cea4af24119ac5bc6a67d433] In regulation 193 (amendment of Schedule 17 (exemptions for sale, supply or administration by certain persons)—
+**147.**[^c-e3bb2ad6cea4af24119ac5bc6a67d433] In regulation 193 (amendment of Schedule 17 (exemptions for sale, supply or administration by certain persons)—
 
 - (a) in paragraph (2), for “insert “ UK ” before “marketing authorisations”.” substitute “for “marketing authorisations” substitute “ UK marketing authorisations, EU marketing authorisations ”;
 - (b) in paragraph (3), for “insert “ UK ” before “marketing authorisation”.” substitute “for “marketing authorisation” substitute “ UK marketing authorisation, EU marketing authorisation ”.
 
-**148.**[^key-1b3d8c9dbfdcc63e3305eb7633b480e7] In regulation 194 (amendment of regulation 249 (restrictions on persons to be supplied with medicinal products)), for paragraphs (b) and (c) substitute—
+**148.**[^c-1b3d8c9dbfdcc63e3305eb7633b480e7] In regulation 194 (amendment of regulation 249 (restrictions on persons to be supplied with medicinal products)), for paragraphs (b) and (c) substitute—
 
 > - (b) after sub-paragraph (a) insert—
 >
@@ -3424,7 +3424,7 @@ Regulation 4
 
 ;
 
-**149.**[^key-4ca516c105810a14c4653a95d3bcbe10] After regulation 194 (amendment of regulation 249 (restrictions on persons to be supplied with medicinal products) insert—
+**149.**[^c-4ca516c105810a14c4653a95d3bcbe10] After regulation 194 (amendment of regulation 249 (restrictions on persons to be supplied with medicinal products) insert—
 
 > **194A. Amendment of regulation 251 (compliance with standards specified in certain publications)**
 >
@@ -3445,7 +3445,7 @@ Regulation 4
 
 .
 
-**150.**[^key-a8f288d1360ae516c08250a44ed55a27] For regulation 196 (omission of regulation 255A to 255C (enforcement and offences relating to Commission Regulation 2016/161)) substitute—
+**150.**[^c-a8f288d1360ae516c08250a44ed55a27] For regulation 196 (omission of regulation 255A to 255C (enforcement and offences relating to Commission Regulation 2016/161)) substitute—
 
 > **196. Amendment of regulation 255A (enforcement notices relating to Commission Regulation 2016/161: persons authorised to supply medicinal products to the public)**
 >
@@ -3459,7 +3459,7 @@ Regulation 4
 
 ### PART 12 — Amendment of Part 13 (omission of Part 12A (sale of medicines to the public at a distance))
 
-**151.**[^key-717e5300aaa13cfe026a104ddaa4fee2] For regulation 197 (omission of Part 12A) substitute—
+**151.**[^c-717e5300aaa13cfe026a104ddaa4fee2] For regulation 197 (omission of Part 12A) substitute—
 
 > **197. Amendment of Part 12A**
 >
@@ -3554,12 +3554,12 @@ Regulation 4
 
 ### PART 13 — Amendment of Part 14 (amendment of Part 13 (packaging and leaflets))
 
-**152.**[^key-4650feb69dbd49dd263e53eee9288824] In regulation 198 (amendment of regulation 257 (packaging requirements: general))—
+**152.**[^c-4650feb69dbd49dd263e53eee9288824] In regulation 198 (amendment of regulation 257 (packaging requirements: general))—
 
 - (a) in paragraph (2), after “257C” insert “ where the product is for sale or supply in Great Britain only ”;
 - (b) in paragraph (3), in the inserted paragraph (8), after “product” insert “ for sale or supply in Great Britain only ”.
 
-**153.**[^key-a19d6fd24f73309bf6ca0409f17e90a5] For regulation 199 (omission of regulations 257A and 257B (packaging requirements: medicinal products required to bear safety features and associated transitionals)) substitute—
+**153.**[^c-a19d6fd24f73309bf6ca0409f17e90a5] For regulation 199 (omission of regulations 257A and 257B (packaging requirements: medicinal products required to bear safety features and associated transitionals)) substitute—
 
 > **199. Amendment of regulation 257A (packaging requirements: medicinal products required to bear safety features)**
 >
@@ -3571,7 +3571,7 @@ Regulation 4
 
 .
 
-**154.**[^key-f0f3a93c59d11ebd573f53212e81c08f] In regulation 200 (insertion of regulations 257C (packaging requirements: advanced therapy medicinal products) and 257D and 257E (guidance and regulations in relation to packing, leaflets and labelling))—
+**154.**[^c-f0f3a93c59d11ebd573f53212e81c08f] In regulation 200 (insertion of regulations 257C (packaging requirements: advanced therapy medicinal products) and 257D and 257E (guidance and regulations in relation to packing, leaflets and labelling))—
 
 - (a) in the inserted regulation 257C(1)—
   - (i) in sub-paragraph (a), after the first reference to “advanced therapy medicinal product” insert “ for sale or supply in Great Britain only ”;
@@ -3592,7 +3592,7 @@ Regulation 4
 
   .
 
-**155.**[^key-b894347cc6a501a7296b51508eecfa4d] In regulation 201 (amendment of Schedule 24 (packaging information requirements))—
+**155.**[^c-b894347cc6a501a7296b51508eecfa4d] In regulation 201 (amendment of Schedule 24 (packaging information requirements))—
 
 - (a) in paragraph (2), after “regulation 257D” insert “ in the case of products for sale or supply in Great Britain, or in the case of products for sale or supply in Northern Ireland, any guidance published pursuant to Article 65 of the 2001 Directive [^c24373911] or under regulation 257D that is applicable to such products. ”;
 - (b) in paragraph (3), for “for “marketing authorisation”” to the end substitute “for “ marketing authorisation, ” substitute “UK marketing authorisation, EU marketing authorisation”.”;
@@ -3601,9 +3601,9 @@ Regulation 4
   - (i) in the inserted Part 4 (outer and immediate packaging: advanced therapy medicinal products), in the heading, after “products” insert “ for sale or supply in Great Britain only ”;
   - (ii) in the inserted Part 5 (immediate packaging: blister packs and small packaging (advanced therapy medicinal products)), in the heading, after “products” insert “ for sale or supply in Great Britain only ”.
 
-**156.**[^key-ec6422b9748402d93e1882f091bd6df0] In regulation 202 (amendment of regulation 259 (packaging requirements: information for blind and partially sighted patients)), for “for “marketing authorisation” to the end substitute “for “marketing authorisation,” substitute “ UK marketing authorisation, EU marketing authorisation ”.”.
+**156.**[^c-ec6422b9748402d93e1882f091bd6df0] In regulation 202 (amendment of regulation 259 (packaging requirements: information for blind and partially sighted patients)), for “for “marketing authorisation” to the end substitute “for “marketing authorisation,” substitute “ UK marketing authorisation, EU marketing authorisation ”.”.
 
-**157.**[^key-90552241d71eef832e1b4befac251725] In regulation 203 (amendment of regulation 260 (package leaflets))—
+**157.**[^c-90552241d71eef832e1b4befac251725] In regulation 203 (amendment of regulation 260 (package leaflets))—
 
 - (a) in paragraph (2), in the inserted paragraph (1A), after the first reference to “advanced therapy medicinal product” insert “ for sale or supply in Great Britain only ”;
 - (b) in paragraph (3), in the inserted text, after “advanced therapy medicinal product,” insert “ for sale or supply in Great Britain only ”;
@@ -3611,7 +3611,7 @@ Regulation 4
   - (i) omit “, Article 126a authorisation”;
   - (ii) after “UK marketing authorisation” insert “ , EU marketing authorisation, ”.
 
-**158.**[^key-3b9337f9f8a8234c18fe5d1a08affe36] In regulation 204 (amendment of Schedule 27 (package leaflets))—
+**158.**[^c-3b9337f9f8a8234c18fe5d1a08affe36] In regulation 204 (amendment of Schedule 27 (package leaflets))—
 
 - (a) in paragraph (2), after “regulation 257D” insert “ in the case of products for sale or supply in Great Britain, or in the case of products for sale or supply in Northern Ireland, any guidance published pursuant to Article 65 of the 2001 Directive [^c24373921] or under regulation 257D that is applicable to such products. ”;
 - (b) in paragraph (3), for “for “marketing authorisation” to the end substitute “for “marketing authorisation,” substitute “ UK marketing authorisation, EU marketing authorisation ”.”;
@@ -3623,11 +3623,11 @@ Regulation 4
   - (ii) for “substitute “regulation 202A”” substitute “ insert “in the case of products for sale or supply in Northern Ireland, or the list referred to in regulation 202A, in the case of products for sale or supply in Great Britain,”; ”;
 - (e) in paragraph (6), in the inserted Part 3 (advanced therapy medicinal products), in the heading, after “products” insert “ for sale or supply in Great Britain only ”.
 
-**159.**[^key-31650463b342299907517c43e428a732] Omit regulation 205 (amendment of regulation 266 (language requirements etc)).
+**159.**[^c-31650463b342299907517c43e428a732] Omit regulation 205 (amendment of regulation 266 (language requirements etc)).
 
-**160.**[^key-4d5cf67cc7d97aea1f2d0f4944485930] In regulation 206 (amendment of regulation 267 (submission of mock-ups of packaging and leaflets to licensing authority)) for “, in each place where it occurs” to the end substitute “before “ marketing authorisation ”, in each place where it occurs, insert “ UK ”.”.
+**160.**[^c-4d5cf67cc7d97aea1f2d0f4944485930] In regulation 206 (amendment of regulation 267 (submission of mock-ups of packaging and leaflets to licensing authority)) for “, in each place where it occurs” to the end substitute “before “ marketing authorisation ”, in each place where it occurs, insert “ UK ”.”.
 
-**161.**[^key-e84fc99edd46ec765ab360e35364cb2d] In regulation 207 (amendment of regulation 268 (offence relating to packaging and package leaflets))
+**161.**[^c-e84fc99edd46ec765ab360e35364cb2d] In regulation 207 (amendment of regulation 268 (offence relating to packaging and package leaflets))
 
 - (a) after paragraph (1) insert—
 
@@ -3643,7 +3643,7 @@ Regulation 4
 
   .
 
-**162.**[^key-d449b0bb7979ef4e1e9e794eca0ef933] After regulation 207 (amendment of regulation 268 (offence relating to packaging and package leaflets)) insert—
+**162.**[^c-d449b0bb7979ef4e1e9e794eca0ef933] After regulation 207 (amendment of regulation 268 (offence relating to packaging and package leaflets)) insert—
 
 > **207A. Insertion of new regulation 268A (offence relating to packaging and package leaflets in Northern Ireland: holder of authorisation etc)**
 >
@@ -3662,7 +3662,7 @@ Regulation 4
 
 .
 
-**163.**[^key-c86f197542679153a38e50929adfe0d8] In regulation 208 (amendment of regulation 269 (offences relating to packaging and package leaflets: other persons))—
+**163.**[^c-c86f197542679153a38e50929adfe0d8] In regulation 208 (amendment of regulation 269 (offences relating to packaging and package leaflets: other persons))—
 
 - (a) after paragraph (1) insert—
 
@@ -3683,7 +3683,7 @@ Regulation 4
 
   .
 
-**164.**[^key-c3fe492ae8eed929016680590564aa16] After regulation 208 (amendment of regulation 269 (offences relating to packaging and package leaflets: other persons)) insert—
+**164.**[^c-c3fe492ae8eed929016680590564aa16] After regulation 208 (amendment of regulation 269 (offences relating to packaging and package leaflets: other persons)) insert—
 
 > **208A. Insertion of new regulation 269A (offences relating to packaging and package leaflets in Northern Ireland: other persons)**
 >
@@ -3702,9 +3702,9 @@ Regulation 4
 
 .
 
-**165.**[^key-b0a0963049134ff1be5c142834a8717c] In regulation 209 (amendment of regulation 270 (non-compliance with requirements of this Part)) for “for “marketing authorisation” to the end substitute “for “marketing authorisation,” substitute “ UK marketing authorisation, EU marketing authorisation, ”.
+**165.**[^c-b0a0963049134ff1be5c142834a8717c] In regulation 209 (amendment of regulation 270 (non-compliance with requirements of this Part)) for “for “marketing authorisation” to the end substitute “for “marketing authorisation,” substitute “ UK marketing authorisation, EU marketing authorisation, ”.
 
-**166.**[^key-9cf4ee81b364fef2dc426d2b26589314] After regulation 209 (amendment of regulation 270 (non-compliance with requirements of this Part)) insert—
+**166.**[^c-9cf4ee81b364fef2dc426d2b26589314] After regulation 209 (amendment of regulation 270 (non-compliance with requirements of this Part)) insert—
 
 > **209A. Amendment of regulation 271 (offences: penalties)**
 >
@@ -3714,7 +3714,7 @@ Regulation 4
 
 ### PART 14 — Amendment of Part 15 (amendment of Part 14 (advertising))
 
-**167.**[^key-df292985aae3abeefe88659c25065717] For regulation 211 (amendment of regulation 279 (products without a marketing authorisation)) substitute—
+**167.**[^c-df292985aae3abeefe88659c25065717] For regulation 211 (amendment of regulation 279 (products without a marketing authorisation)) substitute—
 
 > **211.** For regulation 279 substitute—
 >
@@ -3741,7 +3741,7 @@ Regulation 4
 
 .
 
-**168.**[^key-57efe4e6091900957233baa1d14c1dcd] In regulation 212 (amendment of regulation 280 (general principles))—
+**168.**[^c-57efe4e6091900957233baa1d14c1dcd] In regulation 212 (amendment of regulation 280 (general principles))—
 
 - (a) for “280(1)” substitute “ 280 ”;
 - (b) in paragraph (a)—
@@ -3757,7 +3757,7 @@ Regulation 4
 
   .
 
-**169.**[^key-d94d9ad47b318d95297262ce4858cf90] In regulation 213 (amendment of regulation 281 (duties of authorisation holders and registration holders)) for paragraphs (b) and (c) substitute—
+**169.**[^c-d94d9ad47b318d95297262ce4858cf90] In regulation 213 (amendment of regulation 281 (duties of authorisation holders and registration holders)) for paragraphs (b) and (c) substitute—
 
 > - (b) omit “or” at the end of sub-paragraph (c); and
 > - (c) in sub-paragraph (d), after “for a medicinal product” insert—
@@ -3770,7 +3770,7 @@ Regulation 4
 
 .
 
-**170.**[^key-c56b904e63a16b6d57570d8f7191c645] After regulation 213 (amendment of regulation 281 (duties of authorisation holders and registration holders)) insert—
+**170.**[^c-c56b904e63a16b6d57570d8f7191c645] After regulation 213 (amendment of regulation 281 (duties of authorisation holders and registration holders)) insert—
 
 > **213A. Insertion of new regulation 284A (Medicines with differing classification status in Great Britain and Northern Ireland)**
 >
@@ -3789,7 +3789,7 @@ Regulation 4
 
 .
 
-**171.**[^key-6eebd02235a4d3748d49ec850a8a3ae2] For regulation 214 (amendment of regulation 293 (prohibition of supply to the public for promotional purposes) substitute—
+**171.**[^c-6eebd02235a4d3748d49ec850a8a3ae2] For regulation 214 (amendment of regulation 293 (prohibition of supply to the public for promotional purposes) substitute—
 
 > **214.** For regulation 293(1) substitute—
 >
@@ -3804,7 +3804,7 @@ Regulation 4
 
 .
 
-**172.**[^key-8f8945f10e0c5bfb9c8a1960c6ca99ff] After regulation 214 (amendment of regulation 293 (prohibition of supply to the public for promotional purposes) insert—
+**172.**[^c-8f8945f10e0c5bfb9c8a1960c6ca99ff] After regulation 214 (amendment of regulation 293 (prohibition of supply to the public for promotional purposes) insert—
 
 > **214A. Amendment of regulation 294 (general requirements)**
 >
@@ -3822,7 +3822,7 @@ Regulation 4
 
 .
 
-**173.**[^key-f6dd951831da2f5643cef1dd9b6b7d6f] For regulation 215 (amendment of regulation 295 (abbreviated advertisements)) substitute—
+**173.**[^c-f6dd951831da2f5643cef1dd9b6b7d6f] For regulation 215 (amendment of regulation 295 (abbreviated advertisements)) substitute—
 
 > **215.** In regulation 295—
 >
@@ -3849,7 +3849,7 @@ Regulation 4
 
 .
 
-**174.**[^key-971dc7e583476356e6bbc830f30c79fd] After regulation 215 (amendment of regulation 295 (abbreviated advertisements)) insert—
+**174.**[^c-971dc7e583476356e6bbc830f30c79fd] After regulation 215 (amendment of regulation 295 (abbreviated advertisements)) insert—
 
 > **215A. Amendment of regulation 298 (free samples for persons qualified to prescribe or supply medicinal products)**
 >
@@ -3863,7 +3863,7 @@ Regulation 4
 
 .
 
-**175.**[^key-879118b28c81ab6043372d673fc7abdb] For regulation 216 (amendment of Schedule 30 (particulars for advertisements to persons qualified to prescribe or supply)) substitute—
+**175.**[^c-879118b28c81ab6043372d673fc7abdb] For regulation 216 (amendment of Schedule 30 (particulars for advertisements to persons qualified to prescribe or supply)) substitute—
 
 > **216.** In Schedule 30—
 >
@@ -3876,9 +3876,9 @@ Regulation 4
 
 .
 
-**176.**[^key-0d37057102824f5eb7245150bf175d79] In regulation 217 (amendment of regulation 299 (medical sales representatives)), for “for “marketing authorisation” to the end substitute “for “marketing authorisation,” substitute “ UK marketing authorisation, EU marketing authorisation ”.”.
+**176.**[^c-0d37057102824f5eb7245150bf175d79] In regulation 217 (amendment of regulation 299 (medical sales representatives)), for “for “marketing authorisation” to the end substitute “for “marketing authorisation,” substitute “ UK marketing authorisation, EU marketing authorisation ”.”.
 
-**177.**[^key-fd4d7c0f1a1c52a822a46922ed113374] After regulation 217 (amendment of regulation 299 (medical sales representatives)) insert—
+**177.**[^c-fd4d7c0f1a1c52a822a46922ed113374] After regulation 217 (amendment of regulation 299 (medical sales representatives)) insert—
 
 > **217A. Amendment of regulation 305 (invitation to make representations about compatibility)**
 >
@@ -4011,7 +4011,7 @@ Regulation 4
 
 ### PART 15 — Amendment of Part 16 (amendment of Part 15 (British Pharmacopoeia))
 
-**178.**[^key-019defe3de6bd2c70444199a24490c69] In regulation 218 (amendment of regulation 321 (specified publications)), for paragraph (b) substitute—
+**178.**[^c-019defe3de6bd2c70444199a24490c69] In regulation 218 (amendment of regulation 321 (specified publications)), for paragraph (b) substitute—
 
 > - (b) after sub-paragraph (c) insert—
 >
@@ -4023,9 +4023,9 @@ Regulation 4
 
 ### PART 16 — Amendment of Part 17 (amendment of Part 16 (enforcement))
 
-**179.**[^key-1e88279ea701139a6632920098a612cf] Omit regulation 219 (amendment of regulation 322 (validity of proceedings)).
+**179.**[^c-1e88279ea701139a6632920098a612cf] Omit regulation 219 (amendment of regulation 322 (validity of proceedings)).
 
-**180.**[^key-6d2f92cc72f4dd9f4815ffd685a35201] In regulation 221 (amendment of regulation 327 (powers of inspection, sampling and seizure))—
+**180.**[^c-6d2f92cc72f4dd9f4815ffd685a35201] In regulation 221 (amendment of regulation 327 (powers of inspection, sampling and seizure))—
 
 - (a) in paragraph (2), for sub-paragraphs (b) and (c) substitute—
 
@@ -4047,7 +4047,7 @@ Regulation 4
   ;
 - (c) omit paragraphs (4) and (5).
 
-**181.**[^key-f3150da258e0f1d5549825947d82bf4b] In regulation 222 (amendment of regulation 331 (findings and reports of inspections))—
+**181.**[^c-f3150da258e0f1d5549825947d82bf4b] In regulation 222 (amendment of regulation 331 (findings and reports of inspections))—
 
 - (a) for paragraph (2) substitute—
 
@@ -4077,11 +4077,11 @@ Regulation 4
 
   .
 
-**182.**[^key-1711109b949a1f9da59389914c940710] In regulation 223 (insertion of regulation 331A (guidelines on inspections)), in the inserted regulation 331A(3), for “exit day” substitute “ IP completion day ”.
+**182.**[^c-1711109b949a1f9da59389914c940710] In regulation 223 (insertion of regulation 331A (guidelines on inspections)), in the inserted regulation 331A(3), for “exit day” substitute “ IP completion day ”.
 
 ### PART 17 — Amendment of Part 18 (amendment of Part 17 (miscellaneous and general))
 
-**183.**[^key-797e75967717b6f7b4664de445dd279d] Before regulation 224 (amendment of regulation 341 (decisions under the Human Medicines Regulations 2012)) insert—
+**183.**[^c-797e75967717b6f7b4664de445dd279d] Before regulation 224 (amendment of regulation 341 (decisions under the Human Medicines Regulations 2012)) insert—
 
 > **224ZA. Amendment of regulation 335 (contravention due to fault of another person)**
 >
@@ -4101,7 +4101,7 @@ Regulation 4
 
 .
 
-**184.**[^key-84b213cd6e32de9ff260aed101ba6582] For regulation 224 (amendment of regulation 341 (decisions under the Human Medicines Regulations 2012)) substitute—
+**184.**[^c-84b213cd6e32de9ff260aed101ba6582] For regulation 224 (amendment of regulation 341 (decisions under the Human Medicines Regulations 2012)) substitute—
 
 > **224.** In regulation 341(4)—
 >
@@ -4114,22 +4114,22 @@ Regulation 4
 
 .
 
-**185.**[^key-4b641a840b58488c929aad30db851b58] In regulation 225 (insertion of regulation 344A (modifications to deal with serious shortages) and 344B (regulation making powers)), in the inserted regulation 344A(5) for “exit day” substitute “ IP completion day ”.
+**185.**[^c-4b641a840b58488c929aad30db851b58] In regulation 225 (insertion of regulation 344A (modifications to deal with serious shortages) and 344B (regulation making powers)), in the inserted regulation 344A(5) for “exit day” substitute “ IP completion day ”.
 
-**186.**[^key-34e0130119c7ca0495af2238c8284909] For regulation 226 (amendment of regulation 345 (immunity from civil liability)) substitute—
+**186.**[^c-34e0130119c7ca0495af2238c8284909] For regulation 226 (amendment of regulation 345 (immunity from civil liability)) substitute—
 
 > **226.** In regulation 345(5), for “marketing authorisation” substitute “ UK marketing authorisation, EU marketing authorisation ”.
 
 .
 
-**187.**[^key-b36fd6fd38c316b4314a760d64049eae] In regulation 227 (amendment of regulation 346 (Secretary of State to carry out a review of certain provisions))—
+**187.**[^c-b36fd6fd38c316b4314a760d64049eae] In regulation 227 (amendment of regulation 346 (Secretary of State to carry out a review of certain provisions))—
 
 - (a) in paragraph (a), for “paragraphs (iia)” to “(xxviiij)” substitute “ paragraph (xixa) ”;
 - (b) in paragraph (b), for “paragraphs (ia) and (ivab)” substitute “ paragraph (ia) ”.
 
 ### PART 18 — Amendment of Schedule 1 (amendment of the Medicines (Products for Human Use) (Fees) Regulations 2016)
 
-**188.**[^key-2e258f40fb8ad5825ac521c44d0c58aa] In Schedule 1 (amendment of the Medicines (Products for Human Use) (Fees) Regulations 2016)—
+**188.**[^c-2e258f40fb8ad5825ac521c44d0c58aa] In Schedule 1 (amendment of the Medicines (Products for Human Use) (Fees) Regulations 2016)—
 
 - (a) before paragraph 1 insert—
 
@@ -4498,7 +4498,7 @@ Regulation 4
 
   .
 
-**189.**[^key-93f6a27d8d51d152a5d6d5a594a7e928] In Schedule 2 (insertion of new Schedule 8B (modifications of Annex I to the 2001 Directive)), in the inserted Schedule 8B—
+**189.**[^c-93f6a27d8d51d152a5d6d5a594a7e928] In Schedule 2 (insertion of new Schedule 8B (modifications of Annex I to the 2001 Directive)), in the inserted Schedule 8B—
 
 - (a) in the entry in the table for “Part I, paragraph 5.2(a)”, in the corresponding modification, for “regulations 51 to 56” substitute “ regulations 51A, 52A, 53A and 54 to 56 ”;
 - (b) in the entry in the table for “Part I, paragraph 5.2.1, second paragraph”, in the corresponding modification, for “regulation 51” substitute “ regulation 51A ”;
@@ -4507,7 +4507,7 @@ Regulation 4
 
 ### PART 19 — Insertion of Schedule 2A (insertion of new Schedule 8C (material to accompany an application for a UK marketing authorisation under the unfettered access route))
 
-**190.**[^key-9690a8512ad4c2d68ba8ebf01094977f] After Schedule 2 (insertion of new Schedule 8B (modifications of Annex I to the 2001 Directive)) insert—
+**190.**[^c-9690a8512ad4c2d68ba8ebf01094977f] After Schedule 2 (insertion of new Schedule 8B (modifications of Annex I to the 2001 Directive)) insert—
 
 > **SCHEDULE 2A — Insertion of new Schedule 8C (Material to accompany an application for a UK marketing authorisation under the unfettered access route)**
 >
@@ -4531,11 +4531,11 @@ Regulation 4
 
 ### PART 20 — Amendment of Schedule 4 (insertion of new Schedule 9A)
 
-**191.**[^key-10ee2a33a7d1683899bc6640786337a5] In Schedule 4 (insertion of new Schedule 9A), in the inserted Schedule 9A, for “the United Kingdom”, in each place it occurs (including the heading to paragraph 1) other than in paragraph 2(3), substitute “ Great Britain ”.
+**191.**[^c-10ee2a33a7d1683899bc6640786337a5] In Schedule 4 (insertion of new Schedule 9A), in the inserted Schedule 9A, for “the United Kingdom”, in each place it occurs (including the heading to paragraph 1) other than in paragraph 2(3), substitute “ Great Britain ”.
 
 ### PART 21 — Amendment of Schedule 6 (insertion of new Schedule 12A (further provision as to the performance of pharmacovigilance activities))
 
-**192.**[^key-e4ee96680fdb66abfd488537a165e478] In Schedule 6 (insertion of new Schedule 12A (further provision as to the performance of pharmacovigilance activities)), in the inserted Schedule 12A—
+**192.**[^c-e4ee96680fdb66abfd488537a165e478] In Schedule 6 (insertion of new Schedule 12A (further provision as to the performance of pharmacovigilance activities)), in the inserted Schedule 12A—
 
 - (a) in paragraphs 1(3), 12(5), 16(3), 22(1)(d) and 30(g), for “UK marketing authorisation” substitute “ UKMA(GB) ”;
 - (b) in paragraph 2(a)—
@@ -4556,7 +4556,7 @@ Regulation 4
 
 ### PART 22 — Amendment of Schedule 7 (insertion of new Schedule 33A (Transitional Provision))
 
-**193.**[^key-316c4d56432086618aede81948a82bec] In Schedule 7 (insertion of new Schedule 33A (Transitional Provision)), in the inserted Schedule 33A—
+**193.**[^c-316c4d56432086618aede81948a82bec] In Schedule 7 (insertion of new Schedule 33A (Transitional Provision)), in the inserted Schedule 33A—
 
 - (a) for “exit day”, in each place it occurs, including in headings, substitute “ IP completion day ”;
 - (b) for “21 months”, in each place it occurs, substitute “ 24 months ”;
@@ -4679,7 +4679,7 @@ Regulation 4
 
 ### PART 23 — Amendment of Schedule 8 (consequential provision)
 
-**194.**[^key-09899c6f5be46457026a061ccbd921f2] In Schedule 8 (consequential provision)—
+**194.**[^c-09899c6f5be46457026a061ccbd921f2] In Schedule 8 (consequential provision)—
 
 - (a) in paragraph 4 (amendment of the Prescription Only Medicines (Human Use) Order 1997)—
   - (i) for “In article 5(1)” substitute “ After article 5(1) ”; and
@@ -4723,7 +4723,7 @@ Regulation 4
 
 ### PART 24 — Amendment of Schedule 9 (retained EU law: revocations)
 
-**195.**[^key-595b08542a39c6ab798c1006f5760776] In Schedule 9 (retained EU law: revocations), in paragraph 1, after sub-paragraph (ii) insert—
+**195.**[^c-595b08542a39c6ab798c1006f5760776] In Schedule 9 (retained EU law: revocations), in paragraph 1, after sub-paragraph (ii) insert—
 
 > - (jj) Regulation (EU) 2019/5 of the European Parliament and of the Council of 11 December 2018 amending Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/european/regulation/2004/0726) laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, Regulation [(EC) No 1901/2006](https://www.legislation.gov.uk/european/regulation/2006/1901) on medicinal products for paediatric use and Directive [2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083) on the Community code relating to medicinal products for human use.
 
@@ -4731,418 +4731,418 @@ Regulation 4
 
 ## Annotations
 
-[^key-b2000b97863cdc46116c1acd8970c9c6]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-b2000b97863cdc46116c1acd8970c9c6]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-ae10482e189e9a72ba9b983d18c0e87a]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 immediately before IP completion day, see reg. 1
+[^c-ae10482e189e9a72ba9b983d18c0e87a]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 immediately before IP completion day, see reg. 1
 
-[^key-14d29c14e59d88749210de42e3d87f6b]: Textual amendment: [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/2/b) omitted (3.8.2021) by virtue of [The Human Medicines (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/834)](https://www.legislation.gov.uk/uksi/2021/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/834/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2021/834/regulation/4)
+[^c-14d29c14e59d88749210de42e3d87f6b]: Textual amendment: [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/2/b) omitted (3.8.2021) by virtue of [The Human Medicines (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/834)](https://www.legislation.gov.uk/uksi/2021/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/834/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2021/834/regulation/4)
 
-[^key-075be8dae5b9a2599f4a682a4cfc69e8]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-075be8dae5b9a2599f4a682a4cfc69e8]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-44d265d18cf59e1a80db45ba85a7ffbc]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-44d265d18cf59e1a80db45ba85a7ffbc]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-08ba4e25a9897c8eb2ab5752dc0cda6d]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-08ba4e25a9897c8eb2ab5752dc0cda6d]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-04625744c80c5848329e78575635c33e]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-04625744c80c5848329e78575635c33e]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-04d874ef502913aeebcd1e720d64346a]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-04d874ef502913aeebcd1e720d64346a]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
 [^c24373831]: Marginal citation: [S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431); [article 11](https://www.legislation.gov.uk/uksi/2020/1488/article/11) is amended by S.R. [2009 No. 114](https://www.legislation.gov.uk/ukcm/2009/114).
 
-[^key-6022a3eda5f5f2211b0d123ff824d765]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-6022a3eda5f5f2211b0d123ff824d765]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-64c47184f00dc044170a8d3fecda749b]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-64c47184f00dc044170a8d3fecda749b]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-4aecc0d12e37ab25892dbf5a338bfca2]: Commencement: Sch. 2 para. 10 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-4aecc0d12e37ab25892dbf5a338bfca2]: Commencement: Sch. 2 para. 10 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-e585c9bb2ed8f7b355d1e28d4296fd8d]: Commencement: Sch. 2 para. 11 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-e585c9bb2ed8f7b355d1e28d4296fd8d]: Commencement: Sch. 2 para. 11 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-bfb9169badc748f3143a0597cb50119b]: Commencement: Sch. 2 para. 12 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-bfb9169badc748f3143a0597cb50119b]: Commencement: Sch. 2 para. 12 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-7f8284a342a83376ba77130ae41ee5c3]: Commencement: Sch. 2 para. 13 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-7f8284a342a83376ba77130ae41ee5c3]: Commencement: Sch. 2 para. 13 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-5ed4ec1f190cac7e78ed9f5028ec8cb4]: Commencement: Sch. 2 para. 14 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-5ed4ec1f190cac7e78ed9f5028ec8cb4]: Commencement: Sch. 2 para. 14 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-9d1f301259fb4bc3e07d6bc2f2d451e1]: Commencement: Sch. 2 para. 15 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-9d1f301259fb4bc3e07d6bc2f2d451e1]: Commencement: Sch. 2 para. 15 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-0c63298988563da6a477d846d7390551]: Commencement: Sch. 2 para. 16 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-0c63298988563da6a477d846d7390551]: Commencement: Sch. 2 para. 16 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-d1745dc98199379bd1d5bf9c7e520a11]: Commencement: Sch. 2 para. 17 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-d1745dc98199379bd1d5bf9c7e520a11]: Commencement: Sch. 2 para. 17 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-a9f50240a4caada7542a750bf017f5c6]: Commencement: Sch. 2 para. 18 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-a9f50240a4caada7542a750bf017f5c6]: Commencement: Sch. 2 para. 18 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-14bba573793b50f17ef3ea21f6cca4f8]: Commencement: Sch. 2 para. 19 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-14bba573793b50f17ef3ea21f6cca4f8]: Commencement: Sch. 2 para. 19 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-5187e30d0cb70663f64bef3cd3fe9c54]: Commencement: Sch. 2 para. 20 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-5187e30d0cb70663f64bef3cd3fe9c54]: Commencement: Sch. 2 para. 20 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-e89eab84871b309ec78c4e857909d5de]: Commencement: Sch. 2 para. 21 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-e89eab84871b309ec78c4e857909d5de]: Commencement: Sch. 2 para. 21 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-c534f75382732bf2949cf72994362258]: Commencement: Sch. 2 para. 22 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-c534f75382732bf2949cf72994362258]: Commencement: Sch. 2 para. 22 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-d82cc4bf15edc1c1f29f96727039d6d9]: Commencement: Sch. 2 para. 23 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-d82cc4bf15edc1c1f29f96727039d6d9]: Commencement: Sch. 2 para. 23 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-bc0fa86f8ada125d519b0b833dba537a]: Commencement: Sch. 2 para. 24 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-bc0fa86f8ada125d519b0b833dba537a]: Commencement: Sch. 2 para. 24 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-e7abf24f39e5ad973c9f4a269509649d]: Commencement: Sch. 2 para. 25 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-e7abf24f39e5ad973c9f4a269509649d]: Commencement: Sch. 2 para. 25 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-86103c5333bf38d571895ed9478dac4f]: Commencement: Sch. 2 para. 26 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-86103c5333bf38d571895ed9478dac4f]: Commencement: Sch. 2 para. 26 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-661cf877d5e7785c12e273895bd8cc74]: Commencement: Sch. 2 para. 27 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-661cf877d5e7785c12e273895bd8cc74]: Commencement: Sch. 2 para. 27 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-8eddb5c2956b82ded131c56b25a63d42]: Commencement: Sch. 2 para. 28 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-8eddb5c2956b82ded131c56b25a63d42]: Commencement: Sch. 2 para. 28 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-1b9555f86c7457e17c23dac7ba8f95af]: Commencement: Sch. 2 para. 29 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-1b9555f86c7457e17c23dac7ba8f95af]: Commencement: Sch. 2 para. 29 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-266e42f1753ccad3e6fa85680de10bc0]: Commencement: Sch. 2 para. 30 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-266e42f1753ccad3e6fa85680de10bc0]: Commencement: Sch. 2 para. 30 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-68086afd9fe2792516c83744ba34a9ac]: Commencement: Sch. 2 para. 31 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-68086afd9fe2792516c83744ba34a9ac]: Commencement: Sch. 2 para. 31 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-35e49cb07996905ba65dc2e25c0df8ba]: Commencement: Sch. 2 para. 32 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-35e49cb07996905ba65dc2e25c0df8ba]: Commencement: Sch. 2 para. 32 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-a471e9cdd4edefb3798a1ff6d6443494]: Commencement: Sch. 2 para. 33 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-a471e9cdd4edefb3798a1ff6d6443494]: Commencement: Sch. 2 para. 33 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-2d07083559bb129e342396fe53390b28]: Commencement: Sch. 2 para. 34 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-2d07083559bb129e342396fe53390b28]: Commencement: Sch. 2 para. 34 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-05a3cfdaf0a071cbbe70cf1de08a0726]: Commencement: Sch. 2 para. 35 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-05a3cfdaf0a071cbbe70cf1de08a0726]: Commencement: Sch. 2 para. 35 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-924b9f0d143ecff5e847d6679471c425]: Commencement: Sch. 2 para. 36 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-924b9f0d143ecff5e847d6679471c425]: Commencement: Sch. 2 para. 36 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-38154075b9bb42e110e1daf310f40ae2]: Commencement: Sch. 2 para. 37 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-38154075b9bb42e110e1daf310f40ae2]: Commencement: Sch. 2 para. 37 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-7530fb4621aaf038a948e90094d94fea]: Commencement: Sch. 2 para. 38 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-7530fb4621aaf038a948e90094d94fea]: Commencement: Sch. 2 para. 38 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-7e0bd7314606bd734b7d93a4195d99f1]: Commencement: Sch. 2 para. 39 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-7e0bd7314606bd734b7d93a4195d99f1]: Commencement: Sch. 2 para. 39 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-8bbe8530db382e4d77cec58750156346]: Commencement: Sch. 2 para. 40 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-8bbe8530db382e4d77cec58750156346]: Commencement: Sch. 2 para. 40 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-8ddb0d9db44735e8464894aeadf864ba]: Commencement: Sch. 2 para. 41 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-8ddb0d9db44735e8464894aeadf864ba]: Commencement: Sch. 2 para. 41 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
 [^c24373841]: Marginal citation: The guidelines are available at: https://www.gov.uk/guidance/eu-guidance-documents-referred-to-in-the-human-medicines-regulations-2012 and a hard copy may be obtained from the Medicines and Healthcare products Regulatory Agency at the address given in the Explanatory Note.
 
-[^key-bbb442f82c90994ab84f9337135311c1]: Commencement: Sch. 2 para. 42 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-bbb442f82c90994ab84f9337135311c1]: Commencement: Sch. 2 para. 42 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-9f8f6ab1749f392a684741ae770badf8]: Commencement: Sch. 2 para. 43 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-9f8f6ab1749f392a684741ae770badf8]: Commencement: Sch. 2 para. 43 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
 [^c24373851]: Marginal citation: The guidelines are available at: https://www.gov.uk/guidance/eu-guidance-documents-referred-to-in-the-human-medicines-regulations-2012 and a hard copy may be obtained from the Medicines and Healthcare products Regulatory Agency at the address given in the Explanatory Note.
 
 [^c24373861]: Marginal citation: The guidelines are available at: https://www.gov.uk/guidance/eu-guidance-documents-referred-to-in-the-human-medicines-regulations-2012 and a hard copy may be obtained from the Medicines and Healthcare products Regulatory Agency at the address given in the Explanatory Note.
 
-[^key-a06e631faa7d9b0e819f4f9f41b11a44]: Commencement: Sch. 2 para. 44 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-a06e631faa7d9b0e819f4f9f41b11a44]: Commencement: Sch. 2 para. 44 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-bbf6679cbc8384008cdad26b2b38f7eb]: Commencement: Sch. 2 para. 45 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-bbf6679cbc8384008cdad26b2b38f7eb]: Commencement: Sch. 2 para. 45 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-328612314eea81efcb72b841e1aba2e4]: Commencement: Sch. 2 para. 46 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-328612314eea81efcb72b841e1aba2e4]: Commencement: Sch. 2 para. 46 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-9b39a469fc7d9be33494d4f0be3eee49]: Commencement: Sch. 2 para. 47 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-9b39a469fc7d9be33494d4f0be3eee49]: Commencement: Sch. 2 para. 47 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-63868e23803d73f20b712d113b84ddf8]: Commencement: Sch. 2 para. 48 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-63868e23803d73f20b712d113b84ddf8]: Commencement: Sch. 2 para. 48 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-4199f4a5a165ef5e7afd45374fe24b1d]: Commencement: Sch. 2 para. 49 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-4199f4a5a165ef5e7afd45374fe24b1d]: Commencement: Sch. 2 para. 49 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-6a15fc076e7d0de4071c45e5a166ac31]: Commencement: Sch. 2 para. 50 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-6a15fc076e7d0de4071c45e5a166ac31]: Commencement: Sch. 2 para. 50 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
 [^c24373871]: Marginal citation: [2012 c.7](https://www.legislation.gov.uk/ukpga/2012/7).
 
-[^key-9ab56f7e7270d94df717fd77f52c5f8b]: Commencement: Sch. 2 para. 51 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-9ab56f7e7270d94df717fd77f52c5f8b]: Commencement: Sch. 2 para. 51 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-4494a3a7013f09e5cc1c6996bf0fe68f]: Commencement: Sch. 2 para. 52 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-4494a3a7013f09e5cc1c6996bf0fe68f]: Commencement: Sch. 2 para. 52 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-fe0ac23527be6c9e257e16bb028f1fdc]: Commencement: Sch. 2 para. 53 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-fe0ac23527be6c9e257e16bb028f1fdc]: Commencement: Sch. 2 para. 53 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-9b67a89937db89be06d1d67bbeb5675c]: Commencement: Sch. 2 para. 54 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-9b67a89937db89be06d1d67bbeb5675c]: Commencement: Sch. 2 para. 54 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-cef29d90e283fef0db3e4d00831e5a97]: Commencement: Sch. 2 para. 55 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-cef29d90e283fef0db3e4d00831e5a97]: Commencement: Sch. 2 para. 55 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-7d648fedfde8367483243d4a2aa588c7]: Commencement: Sch. 2 para. 56 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-7d648fedfde8367483243d4a2aa588c7]: Commencement: Sch. 2 para. 56 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-b944eb7c4d71ff144d7e858eba5b5459]: Commencement: Sch. 2 para. 57 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-b944eb7c4d71ff144d7e858eba5b5459]: Commencement: Sch. 2 para. 57 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-e3ae3333e809bcde8c0450325a8b5db3]: Commencement: Sch. 2 para. 58 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-e3ae3333e809bcde8c0450325a8b5db3]: Commencement: Sch. 2 para. 58 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-7cbaa4709e11edae050d0281d7411c1f]: Commencement: Sch. 2 para. 59 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-7cbaa4709e11edae050d0281d7411c1f]: Commencement: Sch. 2 para. 59 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-6a46ac9b44b7f141c3ce838b8a3c2def]: Commencement: Sch. 2 para. 60 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-6a46ac9b44b7f141c3ce838b8a3c2def]: Commencement: Sch. 2 para. 60 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-029634fe4f3071826e97f8ba85dff73d]: Commencement: Sch. 2 para. 61 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-029634fe4f3071826e97f8ba85dff73d]: Commencement: Sch. 2 para. 61 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-36c97370cb4e3b9a6be08de43573120d]: Commencement: Sch. 2 para. 62 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-36c97370cb4e3b9a6be08de43573120d]: Commencement: Sch. 2 para. 62 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-d33c240050872d36656e76c43cd35655]: Commencement: Sch. 2 para. 63 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-d33c240050872d36656e76c43cd35655]: Commencement: Sch. 2 para. 63 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-676f0e834ebdcc673a3f7e953e6b45af]: Commencement: Sch. 2 para. 64 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-676f0e834ebdcc673a3f7e953e6b45af]: Commencement: Sch. 2 para. 64 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-a87a8ea4b60eaa2b2914684a58dbf8d6]: Commencement: Sch. 2 para. 65 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-a87a8ea4b60eaa2b2914684a58dbf8d6]: Commencement: Sch. 2 para. 65 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-93d5a93f428101b32dfb7a73689ce451]: Commencement: Sch. 2 para. 66 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-93d5a93f428101b32dfb7a73689ce451]: Commencement: Sch. 2 para. 66 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-580f0a5d70a70299acc5c92f9d2a89f9]: Commencement: Sch. 2 para. 67 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-580f0a5d70a70299acc5c92f9d2a89f9]: Commencement: Sch. 2 para. 67 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-002689e9e1de58b72ba70fe52097c225]: Commencement: Sch. 2 para. 68 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-002689e9e1de58b72ba70fe52097c225]: Commencement: Sch. 2 para. 68 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-0913ba826457517dcd383e089f0274c0]: Commencement: Sch. 2 para. 69 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-0913ba826457517dcd383e089f0274c0]: Commencement: Sch. 2 para. 69 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-8b422e3502b08c34ec6b38770120722d]: Commencement: Sch. 2 para. 70 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-8b422e3502b08c34ec6b38770120722d]: Commencement: Sch. 2 para. 70 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-5a0d0607ee634d3da55aecf69bdc8100]: Commencement: Sch. 2 para. 71 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-5a0d0607ee634d3da55aecf69bdc8100]: Commencement: Sch. 2 para. 71 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-1dd5f54c20543d1fafbcdf02764556b7]: Commencement: Sch. 2 para. 72 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-1dd5f54c20543d1fafbcdf02764556b7]: Commencement: Sch. 2 para. 72 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-faddc9af647a8e864d009d8d17082871]: Commencement: Sch. 2 para. 73 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-faddc9af647a8e864d009d8d17082871]: Commencement: Sch. 2 para. 73 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-27b9a10e32da42958cdc3b287f1c060d]: Commencement: Sch. 2 para. 74 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-27b9a10e32da42958cdc3b287f1c060d]: Commencement: Sch. 2 para. 74 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-78396669174fd648a52794b098b06813]: Commencement: Sch. 2 para. 75 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-78396669174fd648a52794b098b06813]: Commencement: Sch. 2 para. 75 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-d9ac157f9b34fc371956e9fc57d96561]: Commencement: Sch. 2 para. 76 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-d9ac157f9b34fc371956e9fc57d96561]: Commencement: Sch. 2 para. 76 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-631e33daaae42e0d798a51f12bf6665c]: Commencement: Sch. 2 para. 77 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-631e33daaae42e0d798a51f12bf6665c]: Commencement: Sch. 2 para. 77 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-05b0bfd09227ff270dfc32bbd39fea3b]: Commencement: Sch. 2 para. 78 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-05b0bfd09227ff270dfc32bbd39fea3b]: Commencement: Sch. 2 para. 78 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-482099bd164be2dd4f05a81599f3ce3d]: Commencement: Sch. 2 para. 79 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-482099bd164be2dd4f05a81599f3ce3d]: Commencement: Sch. 2 para. 79 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-7d6a0014427559d53600ee038cfaa835]: Commencement: Sch. 2 para. 80 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-7d6a0014427559d53600ee038cfaa835]: Commencement: Sch. 2 para. 80 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-f55c161e9c573aae955ecc17e90ef281]: Commencement: Sch. 2 para. 81 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-f55c161e9c573aae955ecc17e90ef281]: Commencement: Sch. 2 para. 81 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-ed698eaf40645165da03de7fa6ddf7d7]: Commencement: Sch. 2 para. 82 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-ed698eaf40645165da03de7fa6ddf7d7]: Commencement: Sch. 2 para. 82 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-8056ec22bd69f7adc081e718f02bbebd]: Commencement: Sch. 2 para. 83 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-8056ec22bd69f7adc081e718f02bbebd]: Commencement: Sch. 2 para. 83 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-b4a6346ad31e73e9632c0ba17f11065f]: Commencement: Sch. 2 para. 84 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-b4a6346ad31e73e9632c0ba17f11065f]: Commencement: Sch. 2 para. 84 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-27ff3257345f59ad5060296a34d616be]: Commencement: Sch. 2 para. 85 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-27ff3257345f59ad5060296a34d616be]: Commencement: Sch. 2 para. 85 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-6f752e1e11ac832432a7f09f18289eaa]: Commencement: Sch. 2 para. 86 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-6f752e1e11ac832432a7f09f18289eaa]: Commencement: Sch. 2 para. 86 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-09a517e855f52bd036432f83e41e121f]: Commencement: Sch. 2 para. 87 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-09a517e855f52bd036432f83e41e121f]: Commencement: Sch. 2 para. 87 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-18d9caf38f0d9bd2ef9de7ded661b5a7]: Commencement: Sch. 2 para. 88 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-18d9caf38f0d9bd2ef9de7ded661b5a7]: Commencement: Sch. 2 para. 88 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-62dbbec92cbae371cb546811b8cbbf54]: Commencement: Sch. 2 para. 89 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-62dbbec92cbae371cb546811b8cbbf54]: Commencement: Sch. 2 para. 89 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-295a2620a10711a70de1890531e0e9b4]: Commencement: Sch. 2 para. 90 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-295a2620a10711a70de1890531e0e9b4]: Commencement: Sch. 2 para. 90 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-afa727d5e0732a3b9ba9b520dbd423f1]: Commencement: Sch. 2 para. 91 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-afa727d5e0732a3b9ba9b520dbd423f1]: Commencement: Sch. 2 para. 91 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-bf81d65c7676977f66b6af11e9122c58]: Commencement: Sch. 2 para. 92 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-bf81d65c7676977f66b6af11e9122c58]: Commencement: Sch. 2 para. 92 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-d465b2b35ef6745016164619d6020a8f]: Commencement: Sch. 2 para. 93 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-d465b2b35ef6745016164619d6020a8f]: Commencement: Sch. 2 para. 93 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-ad7521858c9ef0d2bbefca1087710fec]: Commencement: Sch. 2 para. 94 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-ad7521858c9ef0d2bbefca1087710fec]: Commencement: Sch. 2 para. 94 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-1f162b5d45f34519f17348aebc64e578]: Commencement: Sch. 2 para. 95 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-1f162b5d45f34519f17348aebc64e578]: Commencement: Sch. 2 para. 95 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-f370323b4e8a1a4f491b8b8f8ad565e9]: Commencement: Sch. 2 para. 96 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-f370323b4e8a1a4f491b8b8f8ad565e9]: Commencement: Sch. 2 para. 96 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-378a2868cb7e3faac78a0d0be299764b]: Commencement: Sch. 2 para. 97 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-378a2868cb7e3faac78a0d0be299764b]: Commencement: Sch. 2 para. 97 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-e97679d2dac0aec5570eef93db8a72e1]: Commencement: Sch. 2 para. 98 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-e97679d2dac0aec5570eef93db8a72e1]: Commencement: Sch. 2 para. 98 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-386c867fcdb1f6da09c21d2bd2829ab2]: Commencement: Sch. 2 para. 99 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-386c867fcdb1f6da09c21d2bd2829ab2]: Commencement: Sch. 2 para. 99 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-1082462daf4e4dab9e6f732db5c739a7]: Commencement: Sch. 2 para. 100 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-1082462daf4e4dab9e6f732db5c739a7]: Commencement: Sch. 2 para. 100 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-c7c2a705202c2a316b3c081a9f8ab13a]: Commencement: Sch. 2 para. 101 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-c7c2a705202c2a316b3c081a9f8ab13a]: Commencement: Sch. 2 para. 101 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-434f04e7e393157de0649d5d182f6276]: Commencement: Sch. 2 para. 102 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-434f04e7e393157de0649d5d182f6276]: Commencement: Sch. 2 para. 102 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-57c5111edc12875d143d16338dcb477d]: Commencement: Sch. 2 para. 103 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-57c5111edc12875d143d16338dcb477d]: Commencement: Sch. 2 para. 103 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-f18e38ce1aa5e2717d5c1f1026cde44a]: Commencement: Sch. 2 para. 104 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-f18e38ce1aa5e2717d5c1f1026cde44a]: Commencement: Sch. 2 para. 104 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-ca04b28a2a1159061f1ae095f84f39d1]: Commencement: Sch. 2 para. 105 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-ca04b28a2a1159061f1ae095f84f39d1]: Commencement: Sch. 2 para. 105 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-4473fe63f0d99941d9c2654b1cc01d16]: Commencement: Sch. 2 para. 106 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-4473fe63f0d99941d9c2654b1cc01d16]: Commencement: Sch. 2 para. 106 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-ed43772ed1e5ac33ea59f62ce8e3ca69]: Commencement: Sch. 2 para. 107 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-ed43772ed1e5ac33ea59f62ce8e3ca69]: Commencement: Sch. 2 para. 107 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-e3e070fb178f8df84ff224f6f5e2f2c7]: Commencement: Sch. 2 para. 108 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-e3e070fb178f8df84ff224f6f5e2f2c7]: Commencement: Sch. 2 para. 108 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-d90b5eb006fb1f5e1b2d01bf2504d204]: Commencement: Sch. 2 para. 109 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-d90b5eb006fb1f5e1b2d01bf2504d204]: Commencement: Sch. 2 para. 109 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-5aaf82740b0b2f932640800bb77b344d]: Commencement: Sch. 2 para. 110 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-5aaf82740b0b2f932640800bb77b344d]: Commencement: Sch. 2 para. 110 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-ab8c6ed76e41c61579fb027ac3296118]: Commencement: Sch. 2 para. 111 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-ab8c6ed76e41c61579fb027ac3296118]: Commencement: Sch. 2 para. 111 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-ea9c3ded9c822d10194a63b8fcb686b5]: Commencement: Sch. 2 para. 112 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-ea9c3ded9c822d10194a63b8fcb686b5]: Commencement: Sch. 2 para. 112 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-2e99404c956d75c9424e5fa2f4d66c90]: Commencement: Sch. 2 para. 113 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-2e99404c956d75c9424e5fa2f4d66c90]: Commencement: Sch. 2 para. 113 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-65033b685e882eb9709484163518fdce]: Commencement: Sch. 2 para. 114 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-65033b685e882eb9709484163518fdce]: Commencement: Sch. 2 para. 114 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-a206688b4518e95305686d77a2bcd109]: Commencement: Sch. 2 para. 115 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-a206688b4518e95305686d77a2bcd109]: Commencement: Sch. 2 para. 115 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-186d2f3b2a15672ba7122e71db9929ad]: Commencement: Sch. 2 para. 116 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-186d2f3b2a15672ba7122e71db9929ad]: Commencement: Sch. 2 para. 116 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-ce5587827567c0d30a9100849036ed1c]: Commencement: Sch. 2 para. 117 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-ce5587827567c0d30a9100849036ed1c]: Commencement: Sch. 2 para. 117 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-cca2fe0618b7453a5f34fad4596785b7]: Commencement: Sch. 2 para. 118 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-cca2fe0618b7453a5f34fad4596785b7]: Commencement: Sch. 2 para. 118 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-bb460966edfd238e27214901e89e551f]: Commencement: Sch. 2 para. 119 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-bb460966edfd238e27214901e89e551f]: Commencement: Sch. 2 para. 119 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-91c55be237ab1770d3d854aefaa69f2d]: Commencement: Sch. 2 para. 120 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-91c55be237ab1770d3d854aefaa69f2d]: Commencement: Sch. 2 para. 120 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-474a850598363db657defd1b03cae0e3]: Commencement: Sch. 2 para. 121 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-474a850598363db657defd1b03cae0e3]: Commencement: Sch. 2 para. 121 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-871274343e3846bc87136953de54cf0a]: Commencement: Sch. 2 para. 122 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-871274343e3846bc87136953de54cf0a]: Commencement: Sch. 2 para. 122 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-3ee9264aaa3f97141bef59eb87bdf0ce]: Commencement: Sch. 2 para. 123 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-3ee9264aaa3f97141bef59eb87bdf0ce]: Commencement: Sch. 2 para. 123 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-139512f4fce5ad838f36cdef6bb2a25a]: Commencement: Sch. 2 para. 124 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-139512f4fce5ad838f36cdef6bb2a25a]: Commencement: Sch. 2 para. 124 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-3f73bba66d672cc164108168224ca2f9]: Commencement: Sch. 2 para. 125 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-3f73bba66d672cc164108168224ca2f9]: Commencement: Sch. 2 para. 125 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-492151c5a07e2c7682f72bb2c15e10ef]: Commencement: Sch. 2 para. 126 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-492151c5a07e2c7682f72bb2c15e10ef]: Commencement: Sch. 2 para. 126 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-7a87afa334894240f5acd20f17009074]: Commencement: Sch. 2 para. 127 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-7a87afa334894240f5acd20f17009074]: Commencement: Sch. 2 para. 127 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-55ebd9df5d5ebee1181e834d82459f91]: Commencement: Sch. 2 para. 128 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-55ebd9df5d5ebee1181e834d82459f91]: Commencement: Sch. 2 para. 128 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-1ea0e7ab14a00b51505b90cf107896c6]: Commencement: Sch. 2 para. 129 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-1ea0e7ab14a00b51505b90cf107896c6]: Commencement: Sch. 2 para. 129 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-6e4c5363c963c3f5458b5a08773be656]: Commencement: Sch. 2 para. 130 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-6e4c5363c963c3f5458b5a08773be656]: Commencement: Sch. 2 para. 130 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-4289f65cd2779330fb9d806c66734716]: Commencement: Sch. 2 para. 131 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-4289f65cd2779330fb9d806c66734716]: Commencement: Sch. 2 para. 131 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-7384d0e235c6c9142c38d59d453fcba4]: Commencement: Sch. 2 para. 132 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-7384d0e235c6c9142c38d59d453fcba4]: Commencement: Sch. 2 para. 132 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-3d05ee1279221026da06ce96f1989e38]: Commencement: Sch. 2 para. 133 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-3d05ee1279221026da06ce96f1989e38]: Commencement: Sch. 2 para. 133 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-51d6aaeadcb39ebe6c503f2ee8205f1a]: Commencement: Sch. 2 para. 134 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-51d6aaeadcb39ebe6c503f2ee8205f1a]: Commencement: Sch. 2 para. 134 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-c05e1ea6daa7c0163ebe65cb718beb4e]: Commencement: Sch. 2 para. 135 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-c05e1ea6daa7c0163ebe65cb718beb4e]: Commencement: Sch. 2 para. 135 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-5aeac8482743fde8782a7d02c332cd54]: Commencement: Sch. 2 para. 136 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-5aeac8482743fde8782a7d02c332cd54]: Commencement: Sch. 2 para. 136 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-db0628adc268074aea05f999746c9de6]: Commencement: Sch. 2 para. 137 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-db0628adc268074aea05f999746c9de6]: Commencement: Sch. 2 para. 137 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-b10f00813159c877a734d4f661cc607d]: Commencement: Sch. 2 para. 138 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-b10f00813159c877a734d4f661cc607d]: Commencement: Sch. 2 para. 138 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-fab3c892e824b5c3b1838f0c8f878a30]: Commencement: Sch. 2 para. 139 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-fab3c892e824b5c3b1838f0c8f878a30]: Commencement: Sch. 2 para. 139 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-5fe405a2997fac241061e772c23c6b5c]: Commencement: Sch. 2 para. 140 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-5fe405a2997fac241061e772c23c6b5c]: Commencement: Sch. 2 para. 140 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-8f2f0155df98d6fae1871edd84180d33]: Commencement: Sch. 2 para. 141 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-8f2f0155df98d6fae1871edd84180d33]: Commencement: Sch. 2 para. 141 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-8f9fc53cff3b0b88641c88cac118cb4c]: Commencement: Sch. 2 para. 142 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-8f9fc53cff3b0b88641c88cac118cb4c]: Commencement: Sch. 2 para. 142 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-4a4027f9de093546af13b86e7f17a44d]: Commencement: Sch. 2 para. 143 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-4a4027f9de093546af13b86e7f17a44d]: Commencement: Sch. 2 para. 143 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-8d737a74817835b761b9eb56f5190e2c]: Commencement: Sch. 2 para. 144 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-8d737a74817835b761b9eb56f5190e2c]: Commencement: Sch. 2 para. 144 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-99da3f8c42c06c2583b083f1ee0e2c9a]: Commencement: Sch. 2 para. 145 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-99da3f8c42c06c2583b083f1ee0e2c9a]: Commencement: Sch. 2 para. 145 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-67884e5590b34c1c70b474736f62bb40]: Commencement: Sch. 2 para. 146 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-67884e5590b34c1c70b474736f62bb40]: Commencement: Sch. 2 para. 146 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-e3bb2ad6cea4af24119ac5bc6a67d433]: Commencement: Sch. 2 para. 147 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-e3bb2ad6cea4af24119ac5bc6a67d433]: Commencement: Sch. 2 para. 147 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-1b3d8c9dbfdcc63e3305eb7633b480e7]: Commencement: Sch. 2 para. 148 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-1b3d8c9dbfdcc63e3305eb7633b480e7]: Commencement: Sch. 2 para. 148 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-4ca516c105810a14c4653a95d3bcbe10]: Commencement: Sch. 2 para. 149 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-4ca516c105810a14c4653a95d3bcbe10]: Commencement: Sch. 2 para. 149 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-a8f288d1360ae516c08250a44ed55a27]: Commencement: Sch. 2 para. 150 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-a8f288d1360ae516c08250a44ed55a27]: Commencement: Sch. 2 para. 150 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-717e5300aaa13cfe026a104ddaa4fee2]: Commencement: Sch. 2 para. 151 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-717e5300aaa13cfe026a104ddaa4fee2]: Commencement: Sch. 2 para. 151 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
 [^c24373881]: Marginal citation: [S.I. 2002/2013](https://www.legislation.gov.uk/uksi/2002/2013), as amended by [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809) and prospectively amended with effect from IP completion day by [S.I. 2019/87](https://www.legislation.gov.uk/uksi/2019/87).
 
 [^c24373891]: Marginal citation: [1968 c.67](https://www.legislation.gov.uk/ukpga/1968/67), as amended by section 26 of the [Health Act 2006 (c.28)](https://www.legislation.gov.uk/ukpga/2006/28) and [S.I. 1971/1445](https://www.legislation.gov.uk/uksi/1971/1445), 1994/2987, 2006/2407, 2011/2581 and 2012/1916, and in relation to Scotland by paragraph 5 of Schedule 3 to the [Regulation of Care (Scotland) Act 2001 (asp 8)](https://www.legislation.gov.uk/asp/2001/8).
 
-[^key-4650feb69dbd49dd263e53eee9288824]: Commencement: Sch. 2 para. 152 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-4650feb69dbd49dd263e53eee9288824]: Commencement: Sch. 2 para. 152 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-a19d6fd24f73309bf6ca0409f17e90a5]: Commencement: Sch. 2 para. 153 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-a19d6fd24f73309bf6ca0409f17e90a5]: Commencement: Sch. 2 para. 153 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-f0f3a93c59d11ebd573f53212e81c08f]: Commencement: Sch. 2 para. 154 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-f0f3a93c59d11ebd573f53212e81c08f]: Commencement: Sch. 2 para. 154 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
 [^c24373901]: Marginal citation: The guidelines are available at: https://www.gov.uk/guidance/eu-guidance-documents-referred-to-in-the-human-medicines-regulations-2012 and a hard copy may be obtained from the Medicines and Healthcare products Regulatory Agency at the address given in the Explanatory Note.
 
-[^key-b894347cc6a501a7296b51508eecfa4d]: Commencement: Sch. 2 para. 155 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-b894347cc6a501a7296b51508eecfa4d]: Commencement: Sch. 2 para. 155 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
 [^c24373911]: Marginal citation: The guidelines are available at: https://www.gov.uk/guidance/eu-guidance-documents-referred-to-in-the-human-medicines-regulations-2012 and a hard copy may be obtained from the Medicines and Healthcare products Regulatory Agency at the address given in the Explanatory Note.
 
-[^key-ec6422b9748402d93e1882f091bd6df0]: Commencement: Sch. 2 para. 156 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-ec6422b9748402d93e1882f091bd6df0]: Commencement: Sch. 2 para. 156 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-90552241d71eef832e1b4befac251725]: Commencement: Sch. 2 para. 157 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-90552241d71eef832e1b4befac251725]: Commencement: Sch. 2 para. 157 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-3b9337f9f8a8234c18fe5d1a08affe36]: Commencement: Sch. 2 para. 158 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-3b9337f9f8a8234c18fe5d1a08affe36]: Commencement: Sch. 2 para. 158 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
 [^c24373921]: Marginal citation: The guidelines are available at: https://www.gov.uk/guidance/eu-guidance-documents-referred-to-in-the-human-medicines-regulations-2012 and a hard copy may be obtained from the Medicines and Healthcare products Regulatory Agency at the address given in the Explanatory Note.
 
-[^key-31650463b342299907517c43e428a732]: Commencement: Sch. 2 para. 159 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-31650463b342299907517c43e428a732]: Commencement: Sch. 2 para. 159 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-4d5cf67cc7d97aea1f2d0f4944485930]: Commencement: Sch. 2 para. 160 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-4d5cf67cc7d97aea1f2d0f4944485930]: Commencement: Sch. 2 para. 160 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-e84fc99edd46ec765ab360e35364cb2d]: Commencement: Sch. 2 para. 161 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-e84fc99edd46ec765ab360e35364cb2d]: Commencement: Sch. 2 para. 161 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-d449b0bb7979ef4e1e9e794eca0ef933]: Commencement: Sch. 2 para. 162 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-d449b0bb7979ef4e1e9e794eca0ef933]: Commencement: Sch. 2 para. 162 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-c86f197542679153a38e50929adfe0d8]: Commencement: Sch. 2 para. 163 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-c86f197542679153a38e50929adfe0d8]: Commencement: Sch. 2 para. 163 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-c3fe492ae8eed929016680590564aa16]: Commencement: Sch. 2 para. 164 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-c3fe492ae8eed929016680590564aa16]: Commencement: Sch. 2 para. 164 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-b0a0963049134ff1be5c142834a8717c]: Commencement: Sch. 2 para. 165 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-b0a0963049134ff1be5c142834a8717c]: Commencement: Sch. 2 para. 165 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-9cf4ee81b364fef2dc426d2b26589314]: Commencement: Sch. 2 para. 166 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-9cf4ee81b364fef2dc426d2b26589314]: Commencement: Sch. 2 para. 166 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-df292985aae3abeefe88659c25065717]: Commencement: Sch. 2 para. 167 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-df292985aae3abeefe88659c25065717]: Commencement: Sch. 2 para. 167 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-57efe4e6091900957233baa1d14c1dcd]: Commencement: Sch. 2 para. 168 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-57efe4e6091900957233baa1d14c1dcd]: Commencement: Sch. 2 para. 168 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-d94d9ad47b318d95297262ce4858cf90]: Commencement: Sch. 2 para. 169 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-d94d9ad47b318d95297262ce4858cf90]: Commencement: Sch. 2 para. 169 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-c56b904e63a16b6d57570d8f7191c645]: Commencement: Sch. 2 para. 170 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-c56b904e63a16b6d57570d8f7191c645]: Commencement: Sch. 2 para. 170 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-6eebd02235a4d3748d49ec850a8a3ae2]: Commencement: Sch. 2 para. 171 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-6eebd02235a4d3748d49ec850a8a3ae2]: Commencement: Sch. 2 para. 171 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-8f8945f10e0c5bfb9c8a1960c6ca99ff]: Commencement: Sch. 2 para. 172 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-8f8945f10e0c5bfb9c8a1960c6ca99ff]: Commencement: Sch. 2 para. 172 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-f6dd951831da2f5643cef1dd9b6b7d6f]: Commencement: Sch. 2 para. 173 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-f6dd951831da2f5643cef1dd9b6b7d6f]: Commencement: Sch. 2 para. 173 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-971dc7e583476356e6bbc830f30c79fd]: Commencement: Sch. 2 para. 174 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-971dc7e583476356e6bbc830f30c79fd]: Commencement: Sch. 2 para. 174 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-879118b28c81ab6043372d673fc7abdb]: Commencement: Sch. 2 para. 175 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-879118b28c81ab6043372d673fc7abdb]: Commencement: Sch. 2 para. 175 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-0d37057102824f5eb7245150bf175d79]: Commencement: Sch. 2 para. 176 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-0d37057102824f5eb7245150bf175d79]: Commencement: Sch. 2 para. 176 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-fd4d7c0f1a1c52a822a46922ed113374]: Commencement: Sch. 2 para. 177 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-fd4d7c0f1a1c52a822a46922ed113374]: Commencement: Sch. 2 para. 177 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-019defe3de6bd2c70444199a24490c69]: Commencement: Sch. 2 para. 178 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-019defe3de6bd2c70444199a24490c69]: Commencement: Sch. 2 para. 178 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-1e88279ea701139a6632920098a612cf]: Commencement: Sch. 2 para. 179 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-1e88279ea701139a6632920098a612cf]: Commencement: Sch. 2 para. 179 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-6d2f92cc72f4dd9f4815ffd685a35201]: Commencement: Sch. 2 para. 180 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-6d2f92cc72f4dd9f4815ffd685a35201]: Commencement: Sch. 2 para. 180 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-f3150da258e0f1d5549825947d82bf4b]: Commencement: Sch. 2 para. 181 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-f3150da258e0f1d5549825947d82bf4b]: Commencement: Sch. 2 para. 181 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-1711109b949a1f9da59389914c940710]: Commencement: Sch. 2 para. 182 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-1711109b949a1f9da59389914c940710]: Commencement: Sch. 2 para. 182 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-797e75967717b6f7b4664de445dd279d]: Commencement: Sch. 2 para. 183 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-797e75967717b6f7b4664de445dd279d]: Commencement: Sch. 2 para. 183 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-84b213cd6e32de9ff260aed101ba6582]: Commencement: Sch. 2 para. 184 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-84b213cd6e32de9ff260aed101ba6582]: Commencement: Sch. 2 para. 184 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-4b641a840b58488c929aad30db851b58]: Commencement: Sch. 2 para. 185 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-4b641a840b58488c929aad30db851b58]: Commencement: Sch. 2 para. 185 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-34e0130119c7ca0495af2238c8284909]: Commencement: Sch. 2 para. 186 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-34e0130119c7ca0495af2238c8284909]: Commencement: Sch. 2 para. 186 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-b36fd6fd38c316b4314a760d64049eae]: Commencement: Sch. 2 para. 187 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-b36fd6fd38c316b4314a760d64049eae]: Commencement: Sch. 2 para. 187 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-2e258f40fb8ad5825ac521c44d0c58aa]: Commencement: Sch. 2 para. 188 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-2e258f40fb8ad5825ac521c44d0c58aa]: Commencement: Sch. 2 para. 188 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
 [^c24373931]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-93f6a27d8d51d152a5d6d5a594a7e928]: Commencement: Sch. 2 para. 189 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-93f6a27d8d51d152a5d6d5a594a7e928]: Commencement: Sch. 2 para. 189 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-9690a8512ad4c2d68ba8ebf01094977f]: Commencement: Sch. 2 para. 190 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-9690a8512ad4c2d68ba8ebf01094977f]: Commencement: Sch. 2 para. 190 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-10ee2a33a7d1683899bc6640786337a5]: Commencement: Sch. 2 para. 191 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-10ee2a33a7d1683899bc6640786337a5]: Commencement: Sch. 2 para. 191 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-e4ee96680fdb66abfd488537a165e478]: Commencement: Sch. 2 para. 192 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-e4ee96680fdb66abfd488537a165e478]: Commencement: Sch. 2 para. 192 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-316c4d56432086618aede81948a82bec]: Commencement: Sch. 2 para. 193 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-316c4d56432086618aede81948a82bec]: Commencement: Sch. 2 para. 193 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-09899c6f5be46457026a061ccbd921f2]: Commencement: Sch. 2 para. 194 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-09899c6f5be46457026a061ccbd921f2]: Commencement: Sch. 2 para. 194 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
 [^c24373941]: Marginal citation: [S.I. 2003/1680](https://www.legislation.gov.uk/uksi/2003/1680). The definition of “unlicensed product” in regulation 1(2) was amended by [S.I. 2004/3224](https://www.legislation.gov.uk/uksi/2004/3224), 2005/2750 and 2012/1916.
 
-[^key-595b08542a39c6ab798c1006f5760776]: Commencement: Sch. 2 para. 195 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-595b08542a39c6ab798c1006f5760776]: Commencement: Sch. 2 para. 195 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)

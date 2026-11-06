@@ -55,7 +55,7 @@ These Regulations may be cited as the Structural Funds (National Assembly for Wa
 In these Regulations—
 
 - “**the 2006 European Regional Development Fund Regulation**” means Regulation [(EC) No. 1080/2006](https://www.legislation.gov.uk/eur/2006/1080) of the European Parliament and of the Council of 5 July 2006 [^c17631141] on the European Regional Development Fund and repealing Regulation [(EC) No. 1783/1999](https://www.legislation.gov.uk/eur/1999/1783) [^c17631151];
-- “[^key-58987d80d67d82a39e5ba97160efabc8]**the 2006 Structural Funds Regulation**” means Council Regulation [(EC) No 1083/2006](https://www.legislation.gov.uk/eur/2006/1083) of 11 July 2006 laying down general provisions on the European Regional Development Fund, the European Social Fund and the Cohesion Fund and repealing Regulation [(EC) No 1260/1999](https://www.legislation.gov.uk/eur/1999/1260) as amended by Regulation (EU) No 539/2010 of the European Parliament and of the Council of 16 June 2010;
+- “[^c-58987d80d67d82a39e5ba97160efabc8]**the 2006 Structural Funds Regulation**” means Council Regulation [(EC) No 1083/2006](https://www.legislation.gov.uk/eur/2006/1083) of 11 July 2006 laying down general provisions on the European Regional Development Fund, the European Social Fund and the Cohesion Fund and repealing Regulation [(EC) No 1260/1999](https://www.legislation.gov.uk/eur/1999/1260) as amended by Regulation (EU) No 539/2010 of the European Parliament and of the Council of 16 June 2010;
 - “**the Assembly**” means the National Assembly for Wales;
 - “**the specified Structural Funds**” means the European Regional Development Fund and the European Social Fund; and
 - “**Wales**” includes the sea adjacent to Wales out as far as the boundary of the territorial sea, and the boundary between those parts of the sea within the Severn and Dee Estuaries which are to be treated as adjacent to Wales and those which are not shall be, in each case, a line drawn between the co-ordinates set out in Schedule 3 to the National Assembly for Wales (Transfer of Functions) Order 1999 [^c17631181].
@@ -155,6 +155,6 @@ A regulatory impact assessment has not been produced for this instrument as it h
 
 [^c17631151]: Marginal citation: O.J. No. L 213, 13.8.99, p.1.
 
-[^key-58987d80d67d82a39e5ba97160efabc8]: Textual amendment: Words in reg. 2 substituted (11.11.2010) by [The Structural Funds (National Assembly for Wales) (Amendment) Regulations 2010 (S.I. 2010/2567)](https://www.legislation.gov.uk/uksi/2010/2567), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2567/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/2567/regulation/2)
+[^c-58987d80d67d82a39e5ba97160efabc8]: Textual amendment: Words in reg. 2 substituted (11.11.2010) by [The Structural Funds (National Assembly for Wales) (Amendment) Regulations 2010 (S.I. 2010/2567)](https://www.legislation.gov.uk/uksi/2010/2567), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2567/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/2567/regulation/2)
 
 [^c17631181]: Marginal citation: [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672).

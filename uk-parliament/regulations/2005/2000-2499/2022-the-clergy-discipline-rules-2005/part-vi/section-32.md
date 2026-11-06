@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 32. Setting aside or varying directions given without a hearing[^key-04a4d6323ffb5fa58b69135370abe538]
+## 32. Setting aside or varying directions given without a hearing[^c-04a4d6323ffb5fa58b69135370abe538]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Where an order has been made without a hearing giving or varying directions unde
 
 ## Annotations
 
-[^key-04a4d6323ffb5fa58b69135370abe538]: Commencement: [Rule 32](https://www.legislation.gov.uk/uksi/2005/2022/rule/32) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-04a4d6323ffb5fa58b69135370abe538]: Commencement: [Rule 32](https://www.legislation.gov.uk/uksi/2005/2022/rule/32) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Payments in respect of advisory bodies[^key-2f2f5defb0781e83941ead9592aa775f][^key-edbb10ef0c7cc6359531c02fea6c29bf]
+## 50. Payments in respect of advisory bodies[^c-2f2f5defb0781e83941ead9592aa775f][^c-edbb10ef0c7cc6359531c02fea6c29bf]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f2f5defb0781e83941ead9592aa775f]: Commencement: S. 50 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-2f2f5defb0781e83941ead9592aa775f]: Commencement: S. 50 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-edbb10ef0c7cc6359531c02fea6c29bf]: Commencement: S. 50 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-edbb10ef0c7cc6359531c02fea6c29bf]: Commencement: S. 50 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

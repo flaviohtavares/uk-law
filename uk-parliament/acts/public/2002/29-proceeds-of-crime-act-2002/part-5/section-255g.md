@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255G. Receivers in connection with prohibitory property orders[^key-f2bfa31221d57c73ee34e0c4ea8edd37]
+## 255G. Receivers in connection with prohibitory property orders[^c-f2bfa31221d57c73ee34e0c4ea8edd37]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2bfa31221d57c73ee34e0c4ea8edd37]: Textual amendment: Ss. 255G-255I inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2015/9/section/23/2), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/b)
+[^c-f2bfa31221d57c73ee34e0c4ea8edd37]: Textual amendment: Ss. 255G-255I inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2015/9/section/23/2), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/b)

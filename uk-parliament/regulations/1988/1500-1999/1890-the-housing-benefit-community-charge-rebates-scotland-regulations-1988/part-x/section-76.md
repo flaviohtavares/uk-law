@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 76. Time and manner of payment of housing benefit in respect of personal community charges[^key-30bb09826487ee4163b6a0c2ee265dda]
+## 76. Time and manner of payment of housing benefit in respect of personal community charges[^c-30bb09826487ee4163b6a0c2ee265dda]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30bb09826487ee4163b6a0c2ee265dda]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/1988/1890/regulation/76) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-30bb09826487ee4163b6a0c2ee265dda]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/1988/1890/regulation/76) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

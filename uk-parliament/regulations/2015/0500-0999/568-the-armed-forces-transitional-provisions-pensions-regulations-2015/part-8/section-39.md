@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Amendment of article 32 (misconduct) of the AF(RRGES) (No.2) Order[^key-198a1da1199528c140a7d77a4e624248]
+## 39. Amendment of article 32 (misconduct) of the AF(RRGES) (No.2) Order[^c-198a1da1199528c140a7d77a4e624248]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ Article 32 of the AF(RRGES) (No.2) Order is amended by—
 
 ## Annotations
 
-[^key-198a1da1199528c140a7d77a4e624248]: Commencement: Reg. 39 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-198a1da1199528c140a7d77a4e624248]: Commencement: Reg. 39 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)

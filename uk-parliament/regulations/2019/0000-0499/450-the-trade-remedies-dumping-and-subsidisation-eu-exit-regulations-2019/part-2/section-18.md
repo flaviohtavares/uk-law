@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Currency conversion[^key-0c275d6212f217bbdc77b7e2c1015e10]
+## 18. Currency conversion[^c-0c275d6212f217bbdc77b7e2c1015e10]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c275d6212f217bbdc77b7e2c1015e10]: Commencement: Reg. 18 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-0c275d6212f217bbdc77b7e2c1015e10]: Commencement: Reg. 18 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

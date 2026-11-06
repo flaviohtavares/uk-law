@@ -33,14 +33,14 @@ of 29 February 1968
 
 amending Council Regulation No 423/67/EEC, 6/67/Euratom of 25 July 1967 determining the emoluments of members of the EEC and EAEC Commissions and of the High Authority who have not been appointed members of the Single Commission of the European Communities (revoked)
 
-[^key-2d2ac969b2683f923d777ee485e7576c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d2ac969b2683f923d777ee485e7576c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-2d2ac969b2683f923d777ee485e7576c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2d2ac969b2683f923d777ee485e7576c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2d2ac969b2683f923d777ee485e7576c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2d2ac969b2683f923d777ee485e7576c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d2ac969b2683f923d777ee485e7576c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d2ac969b2683f923d777ee485e7576c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2d2ac969b2683f923d777ee485e7576c]: Textual amendment: Regulation revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2d2ac969b2683f923d777ee485e7576c]: Textual amendment: Regulation revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

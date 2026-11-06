@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Determination of base price[^key-6c6b207315441e5a0995c2269791f844]
+## 34. Determination of base price[^c-6c6b207315441e5a0995c2269791f844]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c6b207315441e5a0995c2269791f844]: Commencement: Reg. 34 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-6c6b207315441e5a0995c2269791f844]: Commencement: Reg. 34 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

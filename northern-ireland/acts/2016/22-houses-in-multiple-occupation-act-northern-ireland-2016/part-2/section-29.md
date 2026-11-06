@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Death of sole licence holder: effect on licence[^key-b3671e96e7cecab94527f50e33ba8585]
+## 29. Death of sole licence holder: effect on licence[^c-b3671e96e7cecab94527f50e33ba8585]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3671e96e7cecab94527f50e33ba8585]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2016/22/section/29) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-b3671e96e7cecab94527f50e33ba8585]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2016/22/section/29) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. The electronic communications code[^key-cc766f8aacfba479fd2c249037598018][^key-1df2be93b908b62422ff71f43c25e738][^key-83436655e4293aaad675d338b6c42d5b]
+## 4. The electronic communications code[^c-cc766f8aacfba479fd2c249037598018][^c-1df2be93b908b62422ff71f43c25e738][^c-83436655e4293aaad675d338b6c42d5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,8 +42,8 @@ summary: ''
 
 ## Annotations
 
-[^key-cc766f8aacfba479fd2c249037598018]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/30/section/4) in force at 31.7.2017 for specified purposes by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(ii)(jj)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/ii/jj)
+[^c-cc766f8aacfba479fd2c249037598018]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/30/section/4) in force at 31.7.2017 for specified purposes by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(ii)(jj)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/ii/jj)
 
-[^key-1df2be93b908b62422ff71f43c25e738]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/30/section/4) in force at 22.11.2017 for specified purposes by [S.I. 2017/1136](https://www.legislation.gov.uk/uksi/2017/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1136/regulation/2)
+[^c-1df2be93b908b62422ff71f43c25e738]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/30/section/4) in force at 22.11.2017 for specified purposes by [S.I. 2017/1136](https://www.legislation.gov.uk/uksi/2017/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1136/regulation/2)
 
-[^key-83436655e4293aaad675d338b6c42d5b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/30/section/4) in force at 28.12.2017 in so far as not already in force by [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/a)
+[^c-83436655e4293aaad675d338b6c42d5b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/30/section/4) in force at 28.12.2017 in so far as not already in force by [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/a)

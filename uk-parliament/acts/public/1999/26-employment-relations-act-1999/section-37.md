@@ -24,8 +24,8 @@ summary: ''
 
 > (1A) Subsection (1) shall not apply to compensation awarded, or a compensatory award made, to a person in a case where he is regarded as unfairly dismissed by virtue of section 100, 103A, 105(3) or 105(6A).
 
-(2)[^key-604c3dbb12e0c65ad6438093c4c16f13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-604c3dbb12e0c65ad6438093c4c16f13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-604c3dbb12e0c65ad6438093c4c16f13]: Textual amendment: [S. 37(2)](https://www.legislation.gov.uk/ukpga/1999/26/section/37/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-604c3dbb12e0c65ad6438093c4c16f13]: Textual amendment: [S. 37(2)](https://www.legislation.gov.uk/ukpga/1999/26/section/37/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)

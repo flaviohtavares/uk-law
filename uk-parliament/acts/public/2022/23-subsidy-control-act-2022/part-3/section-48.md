@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Legacy and withdrawal agreement subsidies[^key-b9fca143bcda61a291fe90cc95765e52][^key-858b706b027d77edd42bd35c863935a5]
+## 48. Legacy and withdrawal agreement subsidies[^c-b9fca143bcda61a291fe90cc95765e52][^c-858b706b027d77edd42bd35c863935a5]
 
 *Extent: E+W+S+N.I.*
 
 (1) The subsidy control requirements do not apply to the following legacy subsidies and schemes—
 
 - (a) a subsidy given on or after the day on which this section comes into force, under a subsidy scheme made before that day;
-- (b)[^key-95aa571460f21616fb66854b7d276d2e] a subsidy given in accordance with—
+- (b)[^c-95aa571460f21616fb66854b7d276d2e] a subsidy given in accordance with—
   - (i) Regulation [(EC) No 1370/2007](https://www.legislation.gov.uk/european/regulation/2007/1370) of the European Parliament and of the Council on public passenger transport services by rail and by road,
   - (ii) that Regulation as it has effect by virtue of regulation 28(2) of the Public Service Obligations in Transport Regulations 2023, or
   - (iii) the Public Service Obligations in Transport Regulations 2023,
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b9fca143bcda61a291fe90cc95765e52]: Commencement: S. 48 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-b9fca143bcda61a291fe90cc95765e52]: Commencement: S. 48 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-858b706b027d77edd42bd35c863935a5]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2022/23/section/48) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-858b706b027d77edd42bd35c863935a5]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2022/23/section/48) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
 
-[^key-95aa571460f21616fb66854b7d276d2e]: Textual amendment: [S. 48(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/48/1/b) substituted (25.12.2023) by [The Public Service Obligations in Transport Regulations 2023 (S.I. 2023/1369)](https://www.legislation.gov.uk/uksi/2023/1369), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/uksi/2023/1369/schedule/3/paragraph/3/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2023/1369/regulation/28))
+[^c-95aa571460f21616fb66854b7d276d2e]: Textual amendment: [S. 48(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/48/1/b) substituted (25.12.2023) by [The Public Service Obligations in Transport Regulations 2023 (S.I. 2023/1369)](https://www.legislation.gov.uk/uksi/2023/1369), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/uksi/2023/1369/schedule/3/paragraph/3/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2023/1369/regulation/28))

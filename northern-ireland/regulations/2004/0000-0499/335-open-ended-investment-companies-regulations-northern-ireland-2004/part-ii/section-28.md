@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Procedure: refusal to revoke or vary direction[^key-5e5ca8b61bb46cf9796a20a80474d861]
+## 28. Procedure: refusal to revoke or vary direction[^c-5e5ca8b61bb46cf9796a20a80474d861]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ it must give the applicant a warning notice.
 
 ## Annotations
 
-[^key-5e5ca8b61bb46cf9796a20a80474d861]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2004/335/regulation/28) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-5e5ca8b61bb46cf9796a20a80474d861]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2004/335/regulation/28) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

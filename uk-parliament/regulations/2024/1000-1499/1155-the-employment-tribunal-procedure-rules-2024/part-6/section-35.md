@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Addition, substitution and removal of parties[^key-8b7064322050817fd682b6ffb9ea1924]
+## 35. Addition, substitution and removal of parties[^c-8b7064322050817fd682b6ffb9ea1924]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b7064322050817fd682b6ffb9ea1924]: Commencement: [Rule 35](https://www.legislation.gov.uk/uksi/2024/1155/rule/35) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-8b7064322050817fd682b6ffb9ea1924]: Commencement: [Rule 35](https://www.legislation.gov.uk/uksi/2024/1155/rule/35) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

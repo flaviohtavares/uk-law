@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) On declaration of any suspect premises the National Assembly may[^key-146f4722cd4aa0ed821387601ddde31d] also declare a temporary control zone around those premises of such size as it considers necessary to prevent the spread of disease.
+(1) On declaration of any suspect premises the National Assembly may[^c-146f4722cd4aa0ed821387601ddde31d] also declare a temporary control zone around those premises of such size as it considers necessary to prevent the spread of disease.
 
 (2) If the National Assembly is satisfied that an animal or carcase in England or Scotland is suspected of being infected or contaminated, it may declare a temporary control zone in such part of Wales and of such size as it considers necessary to prevent the spread of disease.
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-146f4722cd4aa0ed821387601ddde31d]: Textual amendment: Word in [art. 16(1)](https://www.legislation.gov.uk/wsi/2006/179/article/16/1) substituted (3.4.2025) by [The Foot-and-Mouth Disease (Wales) (Amendment) Order 2025 (S.I. 2025/425)](https://www.legislation.gov.uk/wsi/2025/425), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/425/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2025/425/article/2/2)
+[^c-146f4722cd4aa0ed821387601ddde31d]: Textual amendment: Word in [art. 16(1)](https://www.legislation.gov.uk/wsi/2006/179/article/16/1) substituted (3.4.2025) by [The Foot-and-Mouth Disease (Wales) (Amendment) Order 2025 (S.I. 2025/425)](https://www.legislation.gov.uk/wsi/2025/425), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/425/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2025/425/article/2/2)

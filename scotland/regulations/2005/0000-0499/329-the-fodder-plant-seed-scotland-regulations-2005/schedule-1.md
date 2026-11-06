@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1 — SPECIES OF SEED TO WHICH THE REGULATIONS APPLY[^key-2eace45e72f2af6095f2fac2adb9f2e7]
+## SCHEDULE 1 — SPECIES OF SEED TO WHICH THE REGULATIONS APPLY[^c-2eace45e72f2af6095f2fac2adb9f2e7]
 
 *Extent: S*
 
@@ -78,10 +78,10 @@ Regulations 2(1) and(2), 5(1), 8(2) and 12(1)
 </tbody>
 </table>
 
-[^key-f33554ce36a594f408b2f0c398d6a59b]
+[^c-f33554ce36a594f408b2f0c398d6a59b]
 
 ## Annotations
 
-[^key-2eace45e72f2af6095f2fac2adb9f2e7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2005/329/schedule/1) substituted (30.6.2010) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2010 (S.S.I. 2010/219)](https://www.legislation.gov.uk/ssi/2010/219), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/219/regulation/1/2), [7](https://www.legislation.gov.uk/ssi/2010/219/regulation/7), [sch. 3](https://www.legislation.gov.uk/ssi/2010/219/schedule/3)
+[^c-2eace45e72f2af6095f2fac2adb9f2e7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2005/329/schedule/1) substituted (30.6.2010) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2010 (S.S.I. 2010/219)](https://www.legislation.gov.uk/ssi/2010/219), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/219/regulation/1/2), [7](https://www.legislation.gov.uk/ssi/2010/219/regulation/7), [sch. 3](https://www.legislation.gov.uk/ssi/2010/219/schedule/3)
 
-[^key-f33554ce36a594f408b2f0c398d6a59b]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2005/329/schedule/1) substituted (1.1.2018) by [The Seed (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/384)](https://www.legislation.gov.uk/ssi/2017/384), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/384/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2017/384/regulation/2/3)
+[^c-f33554ce36a594f408b2f0c398d6a59b]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2005/329/schedule/1) substituted (1.1.2018) by [The Seed (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/384)](https://www.legislation.gov.uk/ssi/2017/384), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/384/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2017/384/regulation/2/3)

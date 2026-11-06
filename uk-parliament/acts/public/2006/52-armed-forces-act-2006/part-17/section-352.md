@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 352. Power to take affidavits and declarations[^key-3c2c1b202443c59c725f3a4cb56d478f][^key-b34bab1c1136e7416e25e118c94978fb]
+## 352. Power to take affidavits and declarations[^c-3c2c1b202443c59c725f3a4cb56d478f][^c-b34bab1c1136e7416e25e118c94978fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3c2c1b202443c59c725f3a4cb56d478f]: Commencement: S. 352 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-3c2c1b202443c59c725f3a4cb56d478f]: Commencement: S. 352 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-b34bab1c1136e7416e25e118c94978fb]: Commencement: S. 352 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-b34bab1c1136e7416e25e118c94978fb]: Commencement: S. 352 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Interpretation of Chapter 1[^key-fe9945831f5ea6e437bd0700603a75d0]
+## 8. Interpretation of Chapter 1[^c-fe9945831f5ea6e437bd0700603a75d0]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe9945831f5ea6e437bd0700603a75d0]: Commencement: S. 8 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-fe9945831f5ea6e437bd0700603a75d0]: Commencement: S. 8 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

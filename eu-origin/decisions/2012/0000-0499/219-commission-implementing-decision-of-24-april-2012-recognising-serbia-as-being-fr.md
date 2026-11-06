@@ -37,20 +37,20 @@ recognising Serbia as being free from *Clavibacter michiganensis* ssp. *sepedoni
 
 (2012/219/EU) (revoked)
 
-[^key-bbcd42046d90d6595d473f612e0b0b8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbcd42046d90d6595d473f612e0b0b8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Recognition[^key-bbcd42046d90d6595d473f612e0b0b8d]
+## Article 1. Recognition[^c-bbcd42046d90d6595d473f612e0b0b8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Addressees[^key-bbcd42046d90d6595d473f612e0b0b8d]
+## Article 2. Addressees[^c-bbcd42046d90d6595d473f612e0b0b8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bbcd42046d90d6595d473f612e0b0b8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbcd42046d90d6595d473f612e0b0b8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bbcd42046d90d6595d473f612e0b0b8d]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-bbcd42046d90d6595d473f612e0b0b8d]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

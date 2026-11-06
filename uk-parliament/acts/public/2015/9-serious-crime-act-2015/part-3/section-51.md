@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Injunctions to prevent gang-related violence and drug-dealing activity[^key-a894e4e4aa1203346640331949a36191]
+## 51. Injunctions to prevent gang-related violence and drug-dealing activity[^c-a894e4e4aa1203346640331949a36191]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ In Part 4 of the Policing and Crime Act 2009 (injunctions: gang-related violence
 
 ## Annotations
 
-[^key-a894e4e4aa1203346640331949a36191]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2015/9/section/51) in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/n)
+[^c-a894e4e4aa1203346640331949a36191]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2015/9/section/51) in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/n)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Critical benchmarks provided for different currencies etc[^key-f2eb0b11d0a82dadf3b48acbd3ff5f5b]
+## 18. Critical benchmarks provided for different currencies etc[^c-f2eb0b11d0a82dadf3b48acbd3ff5f5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2eb0b11d0a82dadf3b48acbd3ff5f5b]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2021/22/section/18) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/k)
+[^c-f2eb0b11d0a82dadf3b48acbd3ff5f5b]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2021/22/section/18) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/k)

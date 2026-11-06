@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57B. Noise limits maintenance requirements relating to motor cycles[^key-5fab46f2e1b1a430e89c2360c7b1073f]
+## 57B. Noise limits maintenance requirements relating to motor cycles[^c-5fab46f2e1b1a430e89c2360c7b1073f]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fab46f2e1b1a430e89c2360c7b1073f]: Textual amendment: [Regs. 57-57B](https://www.legislation.gov.uk/uksi/1986/1078/regulation/57) substituted for reg. 57 (1.7.1994) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1994 (S.I. 1994/14)](https://www.legislation.gov.uk/uksi/1994/14), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/14/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/1994/14/regulation/3/5), [Sch. 1](https://www.legislation.gov.uk/uksi/1994/14/schedule/1)
+[^c-5fab46f2e1b1a430e89c2360c7b1073f]: Textual amendment: [Regs. 57-57B](https://www.legislation.gov.uk/uksi/1986/1078/regulation/57) substituted for reg. 57 (1.7.1994) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1994 (S.I. 1994/14)](https://www.legislation.gov.uk/uksi/1994/14), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/14/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/1994/14/regulation/3/5), [Sch. 1](https://www.legislation.gov.uk/uksi/1994/14/schedule/1)

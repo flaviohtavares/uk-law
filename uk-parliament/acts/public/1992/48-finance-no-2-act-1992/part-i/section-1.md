@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Powers to fix excise duty point.[^c13516491][^key-7071d609219c9abda862c63701245b99]
+## 1. Powers to fix excise duty point.[^c13516491][^c-7071d609219c9abda862c63701245b99]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,7 +61,7 @@ and references in this section to suspension arrangements are references to any 
 
 [^c13516491]: Commencement: [S. 1(1)-(7)](https://www.legislation.gov.uk/ukpga/1992/48/section/1/1) wholly in force (and power in s. 1(8) exercisable by virtue of [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30), [s. 13](https://www.legislation.gov.uk/ukpga/1978/30/section/13)); [s. 1](https://www.legislation.gov.uk/ukpga/1992/48/section/1) not in force at Royal Assent see [s. 1(8)](https://www.legislation.gov.uk/ukpga/1992/48/section/1/8); [s. 1(1)-(4)](https://www.legislation.gov.uk/ukpga/1992/48/section/1/1)(6)(7) wholly in force and s. 1(5) in force for certain purposes at 1.12.1992 by [S.I. 1992/2979](https://www.legislation.gov.uk/uksi/1992/2979), [art. 3](https://www.legislation.gov.uk/uksi/1992/2979/article/3), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1992/2979/schedule/part/I); [s. 1(5)](https://www.legislation.gov.uk/ukpga/1992/48/section/1/5) in force for further purposes at 1.1.1993 by [S.I. 1992/3261](https://www.legislation.gov.uk/uksi/1992/3261), [art. 3](https://www.legislation.gov.uk/uksi/1992/3261/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1992/3261/schedule) (with transitional provisions in arts. 4, 5, 6, and 7) and s. 1(5) wholly in force at 1.6.1993 by [S.I. 1993/1341](https://www.legislation.gov.uk/uksi/1993/1341), [art. 2](https://www.legislation.gov.uk/uksi/1993/1341/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1993/1341/schedule)
 
-[^key-7071d609219c9abda862c63701245b99]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1992/48/section/1) applied (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 118](https://www.legislation.gov.uk/ukpga/2026/11/section/118)
+[^c-7071d609219c9abda862c63701245b99]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1992/48/section/1) applied (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 118](https://www.legislation.gov.uk/ukpga/2026/11/section/118)
 
 [^c13516501]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 

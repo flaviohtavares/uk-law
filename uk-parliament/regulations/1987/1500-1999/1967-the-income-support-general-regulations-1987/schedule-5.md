@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5[^key-dc0376da66f44a838692026da2fbc790]
+## SCHEDULE 5[^c-dc0376da66f44a838692026da2fbc790]
 
 *Extent: E+W+S*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Regulation 20
 
-### ...[^key-dc0376da66f44a838692026da2fbc790]
+### ...[^c-dc0376da66f44a838692026da2fbc790]
 
-[^key-dc0376da66f44a838692026da2fbc790] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc0376da66f44a838692026da2fbc790] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dc0376da66f44a838692026da2fbc790]
+[^c-dc0376da66f44a838692026da2fbc790]
 
-[^key-dc0376da66f44a838692026da2fbc790] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc0376da66f44a838692026da2fbc790] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dc0376da66f44a838692026da2fbc790]: Textual amendment: Sch. 5 omitted (with effect in accordance with reg. 1(1)(c) of the amending S.I.) by virtue of [The Income Support (General) Amendment Regulations 1989 (S.I. 1989/534)](https://www.legislation.gov.uk/uksi/1989/534), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/534/regulation/1/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/1989/534/schedule/1/paragraph/12)
+[^c-dc0376da66f44a838692026da2fbc790]: Textual amendment: Sch. 5 omitted (with effect in accordance with reg. 1(1)(c) of the amending S.I.) by virtue of [The Income Support (General) Amendment Regulations 1989 (S.I. 1989/534)](https://www.legislation.gov.uk/uksi/1989/534), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/534/regulation/1/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/1989/534/schedule/1/paragraph/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Appeals from the Upper Tribunal to the Supreme Court[^key-7caae305f64f631b670362e290db937b]
+## 64. Appeals from the Upper Tribunal to the Supreme Court[^c-7caae305f64f631b670362e290db937b]
 
 *Extent: E+W+S+N.I.*
 
@@ -94,4 +94,4 @@ In the Tribunals, Courts and Enforcement Act 2007, after section 14 insert—
 
 ## Annotations
 
-[^key-7caae305f64f631b670362e290db937b]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2015/2/section/64) in force at 8.8.2016 by [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(a)](https://www.legislation.gov.uk/uksi/2016/717/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2016/717/article/4))
+[^c-7caae305f64f631b670362e290db937b]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2015/2/section/64) in force at 8.8.2016 by [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(a)](https://www.legislation.gov.uk/uksi/2016/717/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2016/717/article/4))

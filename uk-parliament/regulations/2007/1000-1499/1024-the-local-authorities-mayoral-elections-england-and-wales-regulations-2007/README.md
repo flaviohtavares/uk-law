@@ -46,7 +46,7 @@ The Secretary of State has consulted the Electoral Commission about these Regula
 
 The provisions of these Regulations which relate to the limitation of election expenses (and the creation of criminal offences in connection with the limitation of such expenses) are made in accordance with a recommendation of the Electoral Commission.
 
-A draft of these Regulations has been laid before and approved by resolution of each House of Parliament:[^key-84d6dfb2e38348f1bdccfeb13b1a6150]
+A draft of these Regulations has been laid before and approved by resolution of each House of Parliament:[^c-84d6dfb2e38348f1bdccfeb13b1a6150]
 
 ## Contents
 
@@ -120,4 +120,4 @@ The new forms which are appended to the Rules reflect the changes made by the 20
 
 [^f00002]: Footnote: Subsections (3A) and (3B) of section 44 were inserted by the Political Parties, Elections and Referendums Act [2000 c.41](https://www.legislation.gov.uk/ukpga/2000/41) Schedule 21, paragraph 18(1), (2).
 
-[^key-84d6dfb2e38348f1bdccfeb13b1a6150]: Modification: Regulations modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2011/1/schedule/5/paragraph/7)
+[^c-84d6dfb2e38348f1bdccfeb13b1a6150]: Modification: Regulations modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2011/1/schedule/5/paragraph/7)

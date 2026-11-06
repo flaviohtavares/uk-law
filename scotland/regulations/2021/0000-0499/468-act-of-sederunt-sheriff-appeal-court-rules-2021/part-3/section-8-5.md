@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8.5. Application to transfer appeal to Chapter 7 procedure[^key-94dd769233c0be679e024a8004e4a26a]
+## 8.5. Application to transfer appeal to Chapter 7 procedure[^c-94dd769233c0be679e024a8004e4a26a]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ order that an appeal is to proceed as an appeal under Chapter 7 procedure instea
 
 ## Annotations
 
-[^key-94dd769233c0be679e024a8004e4a26a]: Commencement: Para. 8.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-94dd769233c0be679e024a8004e4a26a]: Commencement: Para. 8.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

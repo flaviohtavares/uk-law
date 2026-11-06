@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (Amendment) Regulations 2009 (revoked)[^key-e78a1e315edeb1ed11c8e1df5a63454e]
+The Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (Amendment) Regulations 2009 (revoked)[^c-e78a1e315edeb1ed11c8e1df5a63454e]
 
 Made
 
@@ -46,26 +46,26 @@ Coming into force
 
 10th August 2009
 
-[^key-e78a1e315edeb1ed11c8e1df5a63454e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e78a1e315edeb1ed11c8e1df5a63454e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-e78a1e315edeb1ed11c8e1df5a63454e]
+## 1. Title and commencement[^c-e78a1e315edeb1ed11c8e1df5a63454e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-e78a1e315edeb1ed11c8e1df5a63454e]
+## 2. Amendments[^c-e78a1e315edeb1ed11c8e1df5a63454e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e78a1e315edeb1ed11c8e1df5a63454e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e78a1e315edeb1ed11c8e1df5a63454e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e78a1e315edeb1ed11c8e1df5a63454e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e78a1e315edeb1ed11c8e1df5a63454e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e78a1e315edeb1ed11c8e1df5a63454e]: Textual amendment: Regulations revoked (E.S.) (1.7.2015) by [The Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (England and Scotland) Regulations 2015 (S.I. 2015/787)](https://www.legislation.gov.uk/uksi/2015/787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/787/regulation/1/1), [33](https://www.legislation.gov.uk/uksi/2015/787/regulation/33), [Sch.](https://www.legislation.gov.uk/uksi/2015/787/schedule)
+[^c-e78a1e315edeb1ed11c8e1df5a63454e]: Textual amendment: Regulations revoked (E.S.) (1.7.2015) by [The Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (England and Scotland) Regulations 2015 (S.I. 2015/787)](https://www.legislation.gov.uk/uksi/2015/787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/787/regulation/1/1), [33](https://www.legislation.gov.uk/uksi/2015/787/regulation/33), [Sch.](https://www.legislation.gov.uk/uksi/2015/787/schedule)
 
     Regulations revoked (W.) (28.3.2019) by [The Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (Wales) Regulations 2019 (S.I. 2019/569)](https://www.legislation.gov.uk/wsi/2019/569), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3), [Sch.](https://www.legislation.gov.uk/wsi/2019/569/schedule)

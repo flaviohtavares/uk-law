@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Representation of child[^c15165251][^key-82bc25a5b2e65dd5cdfb8a467617329d][^c15165241]
+## 41. Representation of child[^c15165251][^c-82bc25a5b2e65dd5cdfb8a467617329d][^c15165241]
 
 *Extent: E+W*
 
@@ -27,20 +27,20 @@ summary: ''
 - (a) be appointed in accordance with rules of court; and
 - (b) be under a duty to safeguard the interests of the child in the manner prescribed by such rules.
 
-(3)[^key-c5d82547d8abe066cbdf3f5168b3dad0] Where—
+(3)[^c-c5d82547d8abe066cbdf3f5168b3dad0] Where—
 
 - (a) the child concerned is not represented by a solicitor; and
 - (b) any of the conditions mentioned in subsection (4) is satisfied,
 
 the court may appoint a solicitor to represent him.
 
-(4)[^key-c5d82547d8abe066cbdf3f5168b3dad0] The conditions are that—
+(4)[^c-c5d82547d8abe066cbdf3f5168b3dad0] The conditions are that—
 
 - (a) no officer of the Service or Welsh family proceedings officer has been appointed for the child;
 - (b) the child has sufficient understanding to instruct a solicitor and wishes to do so;
 - (c) it appears to the court that it would be in the child’s best interests for him to be represented by a solicitor.
 
-(5)[^key-c5d82547d8abe066cbdf3f5168b3dad0] Any solicitor appointed under or by virtue of this section shall be appointed, and shall represent the child, in accordance with rules of court.
+(5)[^c-c5d82547d8abe066cbdf3f5168b3dad0] Any solicitor appointed under or by virtue of this section shall be appointed, and shall represent the child, in accordance with rules of court.
 
 (6) In this section “**specified proceedings**” means any proceedings—
 
@@ -48,12 +48,12 @@ the court may appoint a solicitor to represent him.
 - (b) in which the court has given a direction under section 37(1) and has made, or is considering whether to make, an interim care order;
 - (c) on an application for the discharge of a care order or the variation or discharge of a supervision order;
 - (d) on an application under section 39(4);
-- (e) in which the court is considering whether to make a child arrangements order with respect to the living arrangements of[^key-e285b8d0228c1642808461fb00e1bf28] a child who is the subject of a care order;
+- (e) in which the court is considering whether to make a child arrangements order with respect to the living arrangements of[^c-e285b8d0228c1642808461fb00e1bf28] a child who is the subject of a care order;
 - (f) with respect to contact between a child who is the subject of a care order and any other person;
 - (g) under Part V;
 - (h) on an appeal against—
   - (i) the making of, or refusal to make, a care order, supervision order or any order under section 34;
-  - (ii) the making of, or refusal to make, a child arrangements order with respect to the living arrangements of[^key-c5c37ebe33a40081c42fdc21fb611389] a child who is the subject of a care order; or
+  - (ii) the making of, or refusal to make, a child arrangements order with respect to the living arrangements of[^c-c5c37ebe33a40081c42fdc21fb611389] a child who is the subject of a care order; or
   - (iii) the variation or discharge, or refusal of an application to vary or discharge, an order of a kind mentioned in sub-paragraph (i) or (ii);
   - (iv) the refusal of an application under section 39(4); or
   - (v) the making of, or refusal to make, an order under Part V; or
@@ -62,7 +62,7 @@ the court may appoint a solicitor to represent him.
 
 (6A)[^c18906411] The proceedings which may be specified under subsection (6)(i) include (for example) proceedings for the making, varying or discharging of a section 8 order.
 
-(6B)[^key-21ccb64ea1aee70950dcffb56f739051] For the purposes of subsection (6), a child arrangements order is one made with respect to the living arrangements of a child if the arrangements regulated by the order consist of, or include, arrangements which relate to either or both of the following—
+(6B)[^c-21ccb64ea1aee70950dcffb56f739051] For the purposes of subsection (6), a child arrangements order is one made with respect to the living arrangements of a child if the arrangements regulated by the order consist of, or include, arrangements which relate to either or both of the following—
 
 - (a) with whom the child is to live, and
 - (b) when the child is to live with any person.
@@ -92,7 +92,7 @@ in so far as the statement or evidence is, in the opinion of the court, relevant
 
 [^c15165251]: Commencement: S. 41 in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-82bc25a5b2e65dd5cdfb8a467617329d]: Modification: S. 41 modified (1.11.2012) by [Parental Responsibility and Measures for the Protection of Children (International Obligations) (England and Wales and Northern Ireland) Regulations 2010 (S.I. 2010/1898)](https://www.legislation.gov.uk/uksi/2010/1898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2), [5(3)(c)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/5/3/c)
+[^c-82bc25a5b2e65dd5cdfb8a467617329d]: Modification: S. 41 modified (1.11.2012) by [Parental Responsibility and Measures for the Protection of Children (International Obligations) (England and Wales and Northern Ireland) Regulations 2010 (S.I. 2010/1898)](https://www.legislation.gov.uk/uksi/2010/1898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2), [5(3)(c)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/5/3/c)
 
 [^c15165241]: Textual amendment: S. 41 side note substituted (1.4.2001) by [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43), [s. 74](https://www.legislation.gov.uk/ukpga/2000/43/section/74), [Sch. 7 Pt. II para. 91(e)](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/part/II/paragraph/91/e); [S.I. 2001/919](https://www.legislation.gov.uk/uksi/2001/919), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2001/919/article/2/f/ii)
 
@@ -104,17 +104,17 @@ in so far as the statement or evidence is, in the opinion of the court, relevant
 
 [^c18805091]: Textual amendment: Words in s. 41(2)(4)(a) inserted (1.4.2005) by [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), [s. 40](https://www.legislation.gov.uk/ukpga/2004/31/section/40), [Sch. 3 para. 9(3)](https://www.legislation.gov.uk/ukpga/2004/31/schedule/3/paragraph/9/3); [S.I. 2005/700](https://www.legislation.gov.uk/uksi/2005/700), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/700/article/2/2)
 
-[^key-c5d82547d8abe066cbdf3f5168b3dad0]: Modification: S. 41(3)-(5) applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), arts. 1(2), 8(1)(2), Sch. 2
+[^c-c5d82547d8abe066cbdf3f5168b3dad0]: Modification: S. 41(3)-(5) applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), arts. 1(2), 8(1)(2), Sch. 2
 
-[^key-e285b8d0228c1642808461fb00e1bf28]: Textual amendment: Words in s. 41(6)(e) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 33(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/33/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-e285b8d0228c1642808461fb00e1bf28]: Textual amendment: Words in s. 41(6)(e) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 33(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/33/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
-[^key-c5c37ebe33a40081c42fdc21fb611389]: Textual amendment: Words in s. 41(6)(h)(ii) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 33(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/33/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-c5c37ebe33a40081c42fdc21fb611389]: Textual amendment: Words in s. 41(6)(h)(ii) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 33(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/33/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
 [^c15165301]: Textual amendment: S. 41(6)(hh) inserted (30.12.2005) by [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 122(1)(a)](https://www.legislation.gov.uk/ukpga/2002/38/section/122/1/a), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/k)
 
 [^c18906411]: Textual amendment: S. 41(6A) inserted (7.12.2004) by [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 122(1)(b)](https://www.legislation.gov.uk/ukpga/2002/38/section/122/1/b), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/l)
 
-[^key-21ccb64ea1aee70950dcffb56f739051]: Textual amendment: S. 41(6B) inserted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 33(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/33/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-21ccb64ea1aee70950dcffb56f739051]: Textual amendment: S. 41(6B) inserted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 33(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/33/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
 [^c15165321]: Textual amendment: S. 41(7)-(9)(12) repealed (1.4.2001) by [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43), [ss. 74](https://www.legislation.gov.uk/ukpga/2000/43/section/74), [75](https://www.legislation.gov.uk/ukpga/2000/43/section/75), [Sch. 7 Pt. II para. 91(d)](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/part/II/paragraph/91/d), [Sch. 8](https://www.legislation.gov.uk/ukpga/2000/43/schedule/8); [S.I. 2001/919](https://www.legislation.gov.uk/uksi/2001/919), [art. 2(f)(ii)(g)](https://www.legislation.gov.uk/uksi/2001/919/article/2/f/ii/g)
 

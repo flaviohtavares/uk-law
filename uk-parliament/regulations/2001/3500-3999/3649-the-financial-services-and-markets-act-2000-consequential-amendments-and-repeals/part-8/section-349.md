@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 349. Determination of status of particular bodies[^key-1b7d0e9c17155e742ca47e09a6554877]
+## 349. Determination of status of particular bodies[^c-1b7d0e9c17155e742ca47e09a6554877]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Section 64(3) of the Police Act 1996 (power of chief registrar of friendly socie
 
 ## Annotations
 
-[^key-1b7d0e9c17155e742ca47e09a6554877]: Commencement: Art. 349 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1b7d0e9c17155e742ca47e09a6554877]: Commencement: Art. 349 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

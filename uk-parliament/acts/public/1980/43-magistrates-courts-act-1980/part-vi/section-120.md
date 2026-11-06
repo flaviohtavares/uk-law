@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Forfeiture of recognizance.[^c18256741][^key-89c5e28b8b981097e77dfbb16449e1df]
+## 120. Forfeiture of recognizance.[^c18256741][^c-89c5e28b8b981097e77dfbb16449e1df]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ but in a case falling within subsection (1)(a) above, the court shall not declar
 
 (3) The court which declares the recognizance to be forfeited may, instead of adjudging any person to pay the whole sum in which he is bound, adjudge him to pay part only of the sum or remit the sum.
 
-(4) Payment of any sum adjudged to be paid under this section, including any costs awarded against the defendant, may be enforced, and any such sum shall be applied, as if it were a fine and as if the adjudication were a summary conviction of an offence not punishable with imprisonment and so much of section 85(1) above as empowers a court to remit fines shall not apply to the sum but so much thereof as relates to remission after a term of imprisonment has been imposed shall so apply; but at any time before the issue of a warrant of commitment to enforce payment of the sum, or before the sale of goods under a warrant of control[^key-5bed2f435fcf743bba8e6bde6fdf7cb4] to satisfy the sum, the court may remit the whole or any part of the sum either absolutely or on such conditions as the court thinks just.
+(4) Payment of any sum adjudged to be paid under this section, including any costs awarded against the defendant, may be enforced, and any such sum shall be applied, as if it were a fine and as if the adjudication were a summary conviction of an offence not punishable with imprisonment and so much of section 85(1) above as empowers a court to remit fines shall not apply to the sum but so much thereof as relates to remission after a term of imprisonment has been imposed shall so apply; but at any time before the issue of a warrant of commitment to enforce payment of the sum, or before the sale of goods under a warrant of control[^c-5bed2f435fcf743bba8e6bde6fdf7cb4] to satisfy the sum, the court may remit the whole or any part of the sum either absolutely or on such conditions as the court thinks just.
 
 (5) A recognizance such as is mentioned in this section shall not be enforced otherwise than in accordance with this section, and accordingly shall not be transmitted to the Crown Court nor shall its forfeiture be certified to that Court.
 
@@ -53,8 +53,8 @@ but in a case falling within subsection (1)(a) above, the court shall not declar
 
     S. 120 restricted (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 140(5)](https://www.legislation.gov.uk/ukpga/2000/6/section/140/5), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1)
 
-[^key-89c5e28b8b981097e77dfbb16449e1df]: Modification: S. 120 applied (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [ss. 376(10)](https://www.legislation.gov.uk/ukpga/2020/17/section/376/10), [416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1) (with [ss. 2](https://www.legislation.gov.uk/ukpga/2020/17/section/2), [398(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/398/1), [406](https://www.legislation.gov.uk/ukpga/2020/17/section/406), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-89c5e28b8b981097e77dfbb16449e1df]: Modification: S. 120 applied (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [ss. 376(10)](https://www.legislation.gov.uk/ukpga/2020/17/section/376/10), [416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1) (with [ss. 2](https://www.legislation.gov.uk/ukpga/2020/17/section/2), [398(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/398/1), [406](https://www.legislation.gov.uk/ukpga/2020/17/section/406), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c18256751]: Textual amendment: S. 120(1)(1A)(2) substituted (30.9.1998) for s. 120(1)(2) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [s.55](https://www.legislation.gov.uk/ukpga/1998/37/section/55); [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [art.2](https://www.legislation.gov.uk/uksi/1998/2327/article/2)
 
-[^key-5bed2f435fcf743bba8e6bde6fdf7cb4]: Textual amendment: Words in s. 120(4) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 56](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/56) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-5bed2f435fcf743bba8e6bde6fdf7cb4]: Textual amendment: Words in s. 120(4) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 56](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/56) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)

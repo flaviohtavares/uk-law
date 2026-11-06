@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**131.**[^key-1b8da2e0b145e209cf456f3c20915822] In section 143 (meaning of “person responsible for child or qualifying young person”), in subsection (3)(c)[^f00148]—
+**131.**[^c-1b8da2e0b145e209cf456f3c20915822] In section 143 (meaning of “person responsible for child or qualifying young person”), in subsection (3)(c)[^f00148]—
 
 - (a) omit sub-paragraph (i);
 - (b) after sub-paragraph (vii) omit “or”;
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b8da2e0b145e209cf456f3c20915822]: Commencement: Reg. 131 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-1b8da2e0b145e209cf456f3c20915822]: Commencement: Reg. 131 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00148]: Footnote: In section 143(3)(c), sub-paragraphs (vii) and (viii) were substituted by [S.I. 2013/1465](https://www.legislation.gov.uk/uksi/2013/1465), Part 1 of Schedule 1, paragraph 4(2).

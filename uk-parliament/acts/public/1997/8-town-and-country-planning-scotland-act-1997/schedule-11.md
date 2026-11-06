@@ -39,7 +39,7 @@ Sections 76 and 89.
 **3.** Where after 1st July 1948—
 
 - (a) any buildings or works have been erected or constructed, or any use of land has been instituted, and
-- (b) any condition imposed under Part III or by virtue of section 242A[^key-45e534c682fcc6d765d31c5544562349] of this Act, limiting the period for which those buildings or works may be retained, or that use may be continued, has effect in relation to those buildings or works or that use,
+- (b) any condition imposed under Part III or by virtue of section 242A[^c-45e534c682fcc6d765d31c5544562349] of this Act, limiting the period for which those buildings or works may be retained, or that use may be continued, has effect in relation to those buildings or works or that use,
 
 this Schedule shall not operate except as respects the period specified in that condition.
 
@@ -63,4 +63,4 @@ this Schedule shall not operate except as respects the period specified in that 
 
 [^c950527]: Marginal citation: [1943 c. 21](https://www.legislation.gov.uk/ukpga/1943/21).
 
-[^key-45e534c682fcc6d765d31c5544562349]: Textual amendment: Words in Sch. 11 para. 3(b) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(13)](https://www.legislation.gov.uk/ssi/2006/243/article/4/13)
+[^c-45e534c682fcc6d765d31c5544562349]: Textual amendment: Words in Sch. 11 para. 3(b) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(13)](https://www.legislation.gov.uk/ssi/2006/243/article/4/13)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. Limit on recovery[^key-9fcfc09ed01ec39f59b344b0264443f9]
+## 189. Limit on recovery[^c-9fcfc09ed01ec39f59b344b0264443f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ or both.
 
 (6) Where the court may make a recovery order in respect of any property, this article does not prevent the recovery of any profits which have accrued in respect of the property.
 
-(6A)[^key-3812ab095d38cd0724c5722fcaf2fe51] If—
+(6A)[^c-3812ab095d38cd0724c5722fcaf2fe51] If—
 
 - (a) recoverable property is forfeited in pursuance of a forfeiture notice under section 297A of the Act or (in England or Wales) under an account forfeiture notice under section 303Z9, and
 - (b) the enforcement authority subsequently seeks a recovery order in respect of related property,
@@ -55,21 +55,21 @@ the notice is to be treated for the purposes of this article as if it were a rec
 
 (7) If—
 
-- (a)[^key-a8173c383424bf14d5d7058bfd7b6321] an order is made under section 298, 303O, 303R. 303Z14, 303Z41 or 303Z60 of the Act (including sections 303Z41 or 303Z60 of the Act as applied by articles 213Z21 and 213Z22), or under articles 213L or 213Z7 (“**the forfeiture provisions**”) for the forfeiture of recoverable property, and
+- (a)[^c-a8173c383424bf14d5d7058bfd7b6321] an order is made under section 298, 303O, 303R. 303Z14, 303Z41 or 303Z60 of the Act (including sections 303Z41 or 303Z60 of the Act as applied by articles 213Z21 and 213Z22), or under articles 213L or 213Z7 (“**the forfeiture provisions**”) for the forfeiture of recoverable property, and
 - (b) the enforcement authority subsequently seeks a recovery order in respect of related property,
 
-the order under any of the forfeiture provisions[^key-371363a74c717d6594691a09c1e1c7b3] is to be treated, for the purposes of this article as if it were a recovery order obtained by the enforcement authority in respect of the forfeited property.
+the order under any of the forfeiture provisions[^c-371363a74c717d6594691a09c1e1c7b3] is to be treated, for the purposes of this article as if it were a recovery order obtained by the enforcement authority in respect of the forfeited property.
 
-(7A)[^key-5a231c53fdbafcd371e71b53b2047e32] This paragraph applies if (in England and Wales or Scotland)—
+(7A)[^c-5a231c53fdbafcd371e71b53b2047e32] This paragraph applies if (in England and Wales or Scotland)—
 
 - (a) an order is made for the forfeiture of recoverable property under—
-  - (i) section 303Q or 303Z45 (included that section as applied by article 213Z21)[^key-21fdb3e1b9ee6dbe6aac46846c5f7868] of the Act instead of an order being made under section 303O or 303Z41[^key-538766ec429d0745decc291ec0c679cb] of the Act, or
+  - (i) section 303Q or 303Z45 (included that section as applied by article 213Z21)[^c-21fdb3e1b9ee6dbe6aac46846c5f7868] of the Act instead of an order being made under section 303O or 303Z41[^c-538766ec429d0745decc291ec0c679cb] of the Act, or
   - (ii) article 213N instead of article 213L, and
 - (b) the enforcement authority subsequently seeks a recovery order in respect of related property.
 
 (7B) If paragraph (7A) applies—
 
-- (a) if the order was made under section 303Q or 303Z45 (including that section as applied by article 213Z21)[^key-57c916960eba16147376988b7f5eb821] of the Act, it is to be treated for the purposes of this article as if it were a recovery order obtained by the enforcement authority in respect of the property that was the forfeitable property in relation to the order under section 303Q or 303Z45, as the case may be,[^key-b25ea8c08965c63a47741d2145a49682] of the Act;
+- (a) if the order was made under section 303Q or 303Z45 (including that section as applied by article 213Z21)[^c-57c916960eba16147376988b7f5eb821] of the Act, it is to be treated for the purposes of this article as if it were a recovery order obtained by the enforcement authority in respect of the property that was the forfeitable property in relation to the order under section 303Q or 303Z45, as the case may be,[^c-b25ea8c08965c63a47741d2145a49682] of the Act;
 - (b) if the order was made under article 213N, it is to be treated for the purposes of this article as if it were a recovery order obtained by the enforcement authority in respect of the property that was the forfeitable property in relation to the order under article 213N.
 
 (8) If—
@@ -98,20 +98,20 @@ and, in relation to an order mentioned in sub-paragraph (b), the reference to th
 
 ## Annotations
 
-[^key-9fcfc09ed01ec39f59b344b0264443f9]: Commencement: [Art. 189](https://www.legislation.gov.uk/uksi/2005/3181/article/189) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-9fcfc09ed01ec39f59b344b0264443f9]: Commencement: [Art. 189](https://www.legislation.gov.uk/uksi/2005/3181/article/189) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-3812ab095d38cd0724c5722fcaf2fe51]: Textual amendment: [Art. 189(6A)](https://www.legislation.gov.uk/uksi/2005/3181/article/189/6A) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [27(a)](https://www.legislation.gov.uk/uksi/2018/1078/article/27/a)
+[^c-3812ab095d38cd0724c5722fcaf2fe51]: Textual amendment: [Art. 189(6A)](https://www.legislation.gov.uk/uksi/2005/3181/article/189/6A) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [27(a)](https://www.legislation.gov.uk/uksi/2018/1078/article/27/a)
 
-[^key-a8173c383424bf14d5d7058bfd7b6321]: Textual amendment: [Art. 189(7)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/189/7/a) substituted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [12(a)(i)](https://www.legislation.gov.uk/uksi/2024/1127/article/12/a/i)
+[^c-a8173c383424bf14d5d7058bfd7b6321]: Textual amendment: [Art. 189(7)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/189/7/a) substituted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [12(a)(i)](https://www.legislation.gov.uk/uksi/2024/1127/article/12/a/i)
 
-[^key-371363a74c717d6594691a09c1e1c7b3]: Textual amendment: Words in [art. 189(7)](https://www.legislation.gov.uk/uksi/2005/3181/article/189/7) substituted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [12(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1127/article/12/a/ii)
+[^c-371363a74c717d6594691a09c1e1c7b3]: Textual amendment: Words in [art. 189(7)](https://www.legislation.gov.uk/uksi/2005/3181/article/189/7) substituted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [12(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1127/article/12/a/ii)
 
-[^key-5a231c53fdbafcd371e71b53b2047e32]: Textual amendment: [Art. 189(7A)](https://www.legislation.gov.uk/uksi/2005/3181/article/189/7A)[(7B)](https://www.legislation.gov.uk/uksi/2005/3181/article/189/7B) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [27(c)](https://www.legislation.gov.uk/uksi/2018/1078/article/27/c)
+[^c-5a231c53fdbafcd371e71b53b2047e32]: Textual amendment: [Art. 189(7A)](https://www.legislation.gov.uk/uksi/2005/3181/article/189/7A)[(7B)](https://www.legislation.gov.uk/uksi/2005/3181/article/189/7B) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [27(c)](https://www.legislation.gov.uk/uksi/2018/1078/article/27/c)
 
-[^key-21fdb3e1b9ee6dbe6aac46846c5f7868]: Textual amendment: Words in [art. 189(7A)(a)(i)](https://www.legislation.gov.uk/uksi/2005/3181/article/189/7A/a/i) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [12(b)(i)](https://www.legislation.gov.uk/uksi/2024/1127/article/12/b/i)
+[^c-21fdb3e1b9ee6dbe6aac46846c5f7868]: Textual amendment: Words in [art. 189(7A)(a)(i)](https://www.legislation.gov.uk/uksi/2005/3181/article/189/7A/a/i) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [12(b)(i)](https://www.legislation.gov.uk/uksi/2024/1127/article/12/b/i)
 
-[^key-538766ec429d0745decc291ec0c679cb]: Textual amendment: Words in [art. 189(7A)(a)(i)](https://www.legislation.gov.uk/uksi/2005/3181/article/189/7A/a/i) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [12(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1127/article/12/b/ii)
+[^c-538766ec429d0745decc291ec0c679cb]: Textual amendment: Words in [art. 189(7A)(a)(i)](https://www.legislation.gov.uk/uksi/2005/3181/article/189/7A/a/i) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [12(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1127/article/12/b/ii)
 
-[^key-57c916960eba16147376988b7f5eb821]: Textual amendment: Words in [art. 189(7B)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/189/7B/a) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [12(c)(i)](https://www.legislation.gov.uk/uksi/2024/1127/article/12/c/i)
+[^c-57c916960eba16147376988b7f5eb821]: Textual amendment: Words in [art. 189(7B)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/189/7B/a) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [12(c)(i)](https://www.legislation.gov.uk/uksi/2024/1127/article/12/c/i)
 
-[^key-b25ea8c08965c63a47741d2145a49682]: Textual amendment: Words in [art. 189(7B)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/189/7B/a) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [12(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1127/article/12/c/ii)
+[^c-b25ea8c08965c63a47741d2145a49682]: Textual amendment: Words in [art. 189(7B)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/189/7B/a) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [12(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1127/article/12/c/ii)

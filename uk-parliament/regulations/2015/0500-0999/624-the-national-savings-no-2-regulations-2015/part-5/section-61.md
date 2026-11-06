@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Accrual of interest[^key-dd31d6db547be4f1103464c5afa966ce]
+## 61. Accrual of interest[^c-dd31d6db547be4f1103464c5afa966ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ I% is the annual rate of interest fixed for the current term of the certificate,
 
 ## Annotations
 
-[^key-dd31d6db547be4f1103464c5afa966ce]: Commencement: Reg. 61 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-dd31d6db547be4f1103464c5afa966ce]: Commencement: Reg. 61 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

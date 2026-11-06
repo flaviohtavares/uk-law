@@ -42,7 +42,7 @@ This Measure, passed by the National Assembly for Wales on 2 November 2010 and a
 
 ### Meaning of “local mental health partners”
 
-#### 1. Meaning of “local mental health partners”[^key-bf4ae77cb6d924d3b751fc7161a5fdd8]
+#### 1. Meaning of “local mental health partners”[^c-bf4ae77cb6d924d3b751fc7161a5fdd8]
 
 For the purposes of this Measure, the local mental health partners for a local authority area are–
 
@@ -51,7 +51,7 @@ For the purposes of this Measure, the local mental health partners for a local a
 
 ### Local primary mental health support services
 
-#### 2. Joint schemes for the provision of local primary mental health support services[^key-2dcd2c4462f2f19851fee2582109c714]
+#### 2. Joint schemes for the provision of local primary mental health support services[^c-2dcd2c4462f2f19851fee2582109c714]
 
 (1) The local mental health partners for a local authority area must take all reasonable steps to agree a scheme–
 
@@ -60,7 +60,7 @@ For the purposes of this Measure, the local mental health partners for a local a
 
 (2) If a scheme is agreed, the partners must ensure that it is recorded in writing.
 
-(2A)[^key-3abb979258d47f46a9a3bd16cde669ff] A scheme may be recorded by including it within a local well-being plan published under section 39 , 44(5) or 47(6) or (11)[^key-f207eb657a7efe926df3b6a5ef4221ad] of the Well-being of Future Generations (Wales) Act 2015 (anaw 2) by a public services board of which each of the partners is a member.
+(2A)[^c-3abb979258d47f46a9a3bd16cde669ff] A scheme may be recorded by including it within a local well-being plan published under section 39 , 44(5) or 47(6) or (11)[^c-f207eb657a7efe926df3b6a5ef4221ad] of the Well-being of Future Generations (Wales) Act 2015 (anaw 2) by a public services board of which each of the partners is a member.
 
 (3) A scheme must identify the extent to which each of the partners is to be responsible for providing local primary mental health support services.
 
@@ -87,7 +87,7 @@ For the purposes of this Measure, the local mental health partners for a local a
 
 (2) If a scheme has been altered under section 2(6) or 4(2) the services must be provided in accordance with the altered scheme.
 
-#### 4. Failures to agree schemes[^key-41c0239fb619420a101eab863f5f1802]
+#### 4. Failures to agree schemes[^c-41c0239fb619420a101eab863f5f1802]
 
 (1) If the local mental health partners for an area cannot agree a scheme under section 2–
 
@@ -99,7 +99,7 @@ For the purposes of this Measure, the local mental health partners for a local a
 
 (3) If the Welsh Ministers alter a scheme under subsection (2), they must record the alterations in writing.
 
-#### 5. Meaning of “local primary mental health support services”[^key-7700244c130432bac99d068ac7f30d28]
+#### 5. Meaning of “local primary mental health support services”[^c-7700244c130432bac99d068ac7f30d28]
 
 (1) Local primary mental health support services are the following–
 
@@ -111,12 +111,12 @@ For the purposes of this Measure, the local mental health partners for a local a
 
 (2) In subsection (1)(e)–
 
-- “**carers**” (“***gofalwyr***”) means members of the families of patients, and friends of patients, who are involved in their care and in the case of a patient who is a child, includes the child's local authority foster parent (within the meaning of section 105(1)[^key-14308717a87a6109aa51e7c36952947d] of the Children Act 1989);
+- “**carers**” (“***gofalwyr***”) means members of the families of patients, and friends of patients, who are involved in their care and in the case of a patient who is a child, includes the child's local authority foster parent (within the meaning of section 105(1)[^c-14308717a87a6109aa51e7c36952947d] of the Children Act 1989);
 - “**patients**” (“***cleifion***”) means individuals who have, or may have, a mental disorder;
 - “**services**” (“***gwasanaethau***”) means–
   - (a) secondary mental health services;
   - (b) community care services (not being secondary mental health services);
-  - (c) services provided under sections 37 to 39 and Part 6 of the Social Services and Well-being (Wales) Act 2014[^key-a68fc4ca631d7554f60a79ad64f27d99] (not being secondary mental health services);
+  - (c) services provided under sections 37 to 39 and Part 6 of the Social Services and Well-being (Wales) Act 2014[^c-a68fc4ca631d7554f60a79ad64f27d99] (not being secondary mental health services);
   - (d) housing or well-being services; and
   - (e) education or training which may be beneficial to a patient's mental health.
 
@@ -153,7 +153,7 @@ For the purposes of this Measure, the local mental health partners for a local a
 
 (7) For the purposes of this section and sections 7 and 8 a request is to be treated as made by a contractor under a general medical services contract entered into under section 42 of the National Health Service (Wales) Act 2006, a person with whom arrangements have been made under section 50 of that Act, or a practitioner employed for the purposes of section 41 of that Act, if it is made with the contractor's, person's or practitioner's authority.
 
-#### 7. Duties to carry out primary mental health assessments: other primary care referrals[^key-3826114305459392965a1cac00b1b44e][^c2068037]
+#### 7. Duties to carry out primary mental health assessments: other primary care referrals[^c-3826114305459392965a1cac00b1b44e][^c2068037]
 
 (1) This section applies to an individual–
 
@@ -221,7 +221,7 @@ For the purposes of this Measure, the local mental health partners for a local a
 - (a) secondary mental health services;
 - (b) services of a type that are normally provided by primary care providers;
 - (c) community care services (not being secondary mental health services);
-- (d) services provided under sections 37 to 39 and Part 6 of the Social Services and Well-being (Wales) Act 2014[^key-94f8e2e006763f94257651efdf975fab] (not being secondary mental health services);
+- (d) services provided under sections 37 to 39 and Part 6 of the Social Services and Well-being (Wales) Act 2014[^c-94f8e2e006763f94257651efdf975fab] (not being secondary mental health services);
 - (e) housing or well-being services; and
 - (f) education or training which may be beneficial to an individual's mental health.
 
@@ -247,7 +247,7 @@ For the purposes of this Measure, the local mental health partners for a local a
 
 ### Amendment to Children Act 2004
 
-#### 11. Inclusion of schemes under this Part in Children and Young People's plans[^key-ddb4a6417fa4614ef999bb2ee0cbb64c]
+#### 11. Inclusion of schemes under this Part in Children and Young People's plans[^c-ddb4a6417fa4614ef999bb2ee0cbb64c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -299,7 +299,7 @@ For the purposes of this Measure, the local mental health partners for a local a
 
 (7) Section 15 makes provision about the identification of the relevant mental health service provider for a relevant patient.
 
-#### 15. Identification of the relevant mental health service provider for a relevant patient[^key-52a3d2665dedba8cc7ae27a2962edea6][^c2068069]
+#### 15. Identification of the relevant mental health service provider for a relevant patient[^c-52a3d2665dedba8cc7ae27a2962edea6][^c2068069]
 
 (1) This subsection applies where–
 
@@ -327,7 +327,7 @@ For the purposes of this Measure, the local mental health partners for a local a
 - (b) if the patient is under the guardianship of a local authority, the authority;
 - (c) where neither paragraph (a) nor (b) apply but the Welsh Ministers are responsible for providing a secondary mental health service for the patient, the Welsh Ministers.
 
-#### 16. Further provision about the appointment of care coordinators[^key-e26ba15a09f83a2c42dd4d87acf16df7][^c2068070]
+#### 16. Further provision about the appointment of care coordinators[^c-e26ba15a09f83a2c42dd4d87acf16df7][^c2068070]
 
 (1) A provider must not appoint an individual as a care coordinator under section 14(1) unless the individual is eligible to be appointed as a care coordinator under regulations made under section 47.
 
@@ -339,7 +339,7 @@ For the purposes of this Measure, the local mental health partners for a local a
 
 ### Coordination of mental health services
 
-#### 17. Duty to coordinate provision of mental health services[^key-81287be7d4e8d1cb650a90a0733c30f0][^key-db2b5f299dea46a4eeb1379793889085]
+#### 17. Duty to coordinate provision of mental health services[^c-81287be7d4e8d1cb650a90a0733c30f0][^c-db2b5f299dea46a4eeb1379793889085]
 
 (1) For the purpose of improving the effectiveness of the mental health services provided to a relevant patient, a mental health service provider must take all reasonable steps to ensure that–
 
@@ -361,7 +361,7 @@ For the purposes of this Measure, the local mental health partners for a local a
 
 (6) In this section “**voluntary organisation**” means a body whose activities are carried on otherwise than for profit.
 
-#### 18. Functions of the care coordinator[^key-41ed8f4621a2e45bc9c07640ea025d57][^key-886338fad21c9878f717560e31597d06][^c2068071]
+#### 18. Functions of the care coordinator[^c-41ed8f4621a2e45bc9c07640ea025d57][^c-886338fad21c9878f717560e31597d06][^c2068071]
 
 (1) A relevant patient's care coordinator must work with the relevant patient and the patient's mental health service providers–
 
@@ -476,7 +476,7 @@ For the purposes of this Measure, the local mental health partners for a local a
 
 (3) The reference to an adult being discharged from secondary mental health services includes a discharge that occurred when the adult was a child.
 
-#### 23. Assessments: the relevant discharge period[^key-a19e3661765bf2419d2517154ac9ad2d][^c2068072]
+#### 23. Assessments: the relevant discharge period[^c-a19e3661765bf2419d2517154ac9ad2d][^c2068072]
 
 (1) The relevant discharge period in relation to an adult–
 
@@ -509,7 +509,7 @@ An assessment under this Part is an analysis of an adult's mental health which i
 - (b) the community care services, not being secondary mental health services, (if any) which might improve or prevent a deterioration in the mental health of the person being assessed; and
 - (c) the housing or well-being services (if any) which might improve or prevent a deterioration in the mental health of the person being assessed.
 
-#### 26. Assessments: further provision[^key-149fca13732aafa3c1a11c83d474aea9][^c2068073]
+#### 26. Assessments: further provision[^c-149fca13732aafa3c1a11c83d474aea9][^c2068073]
 
 (1) An assessment under this Part must be carried out as soon as is reasonably practicable after the request referred to in section 22(1) is made.
 
@@ -542,7 +542,7 @@ An assessment under this Part is an analysis of an adult's mental health which i
 
 ### Supplementary
 
-#### 29. Determination of usual residence[^key-61e365afaf606f82a211ff29b2a99506]
+#### 29. Determination of usual residence[^c-61e365afaf606f82a211ff29b2a99506]
 
 (1) For the purposes of this Part, any question as to the local authority area in which an adult usually resides is to be determined in accordance with provision in regulations made by the Welsh Ministers.
 
@@ -564,7 +564,7 @@ An assessment under this Part is an analysis of an adult's mental health which i
 
 ## PART 4 — MENTAL HEALTH ADVOCACY
 
-### 31. Independent mental health advocates: Wales[^key-a03e6b9b5d9d83b4613fb1c0bd468db2][^key-3ae35cd2169a8599480de3ccb5febbe6][^c2068076]
+### 31. Independent mental health advocates: Wales[^c-a03e6b9b5d9d83b4613fb1c0bd468db2][^c-3ae35cd2169a8599480de3ccb5febbe6][^c2068076]
 
 After section 130D of the Mental Health Act 1983 insert–
 
@@ -600,7 +600,7 @@ After section 130D of the Mental Health Act 1983 insert–
 > - (b) may make provision which applies subject to specified exceptions;
 > - (c) may include transitional, consequential, incidental or supplemental provision.
 
-### 32. Further provision about independent mental health advocacy for Welsh qualifying compulsory patients[^key-b79ce5be17f7c589ed85f2eff767607c][^c2068077]
+### 32. Further provision about independent mental health advocacy for Welsh qualifying compulsory patients[^c-b79ce5be17f7c589ed85f2eff767607c][^c2068077]
 
 After section 130E of the Mental Health Act 1983 insert–
 
@@ -625,7 +625,7 @@ After section 130E of the Mental Health Act 1983 insert–
 > - (c) the provision of information about other services which are or may be available to the patient;
 > - (d) other help specified in regulations made by the Welsh Ministers.
 
-### 33. Further provision about independent mental health advocacy for Welsh qualifying informal patients[^key-a565cc0b49bd4a3cb32b1a737aff7856][^c2068080]
+### 33. Further provision about independent mental health advocacy for Welsh qualifying informal patients[^c-a565cc0b49bd4a3cb32b1a737aff7856][^c2068080]
 
 After section 130F of the Mental Health Act 1983 insert–
 
@@ -645,7 +645,7 @@ After section 130F of the Mental Health Act 1983 insert–
 > - (b) the provision of information about other services which are or may be available to the patient;
 > - (c) other help specified in regulations made by the Welsh Ministers.
 
-### 34. Independent mental health advocates: supplementary powers and duties[^key-f864e5dfd6c38f6d2d82e6bc9aa06f63][^key-06a487cd3f07ced1a307580a5b531b47][^c2068081]
+### 34. Independent mental health advocates: supplementary powers and duties[^c-f864e5dfd6c38f6d2d82e6bc9aa06f63][^c-06a487cd3f07ced1a307580a5b531b47][^c2068081]
 
 After section 130G of the Mental Health Act 1983 insert–
 
@@ -699,7 +699,7 @@ After section 130G of the Mental Health Act 1983 insert–
 > - (a) the reference to a donee is to a donee of a lasting power of attorney (within the meaning of section 9 of the Mental Capacity Act 2005) created by the patient, where the donee, in making the decision referred to in subsection (2) or the request referred to in subsection (3) or (4), is acting within the scope of his authority and in accordance with that Act;
 > - (b) the reference to a deputy is to a deputy appointed for the patient by the Court of Protection under section 16 of that Act, where the deputy, in making the decision referred to in subsection (2) or the request referred to in subsection (3) or (4), is acting within the scope of his authority and in accordance with that Act.
 
-### 35. Welsh qualifying compulsory patients[^key-452646692ecd038baaabdcd54e3b9e06]
+### 35. Welsh qualifying compulsory patients[^c-452646692ecd038baaabdcd54e3b9e06]
 
 After section 130H of the Mental Health Act 1983 insert–
 
@@ -725,7 +725,7 @@ After section 130H of the Mental Health Act 1983 insert–
 > - (a) the proposal is withdrawn; or
 > - (b) the treatment is completed or discontinued.
 
-### 36. Welsh qualifying informal patients[^key-94d5586fc309a8c4cada2024699f82c8]
+### 36. Welsh qualifying informal patients[^c-94d5586fc309a8c4cada2024699f82c8]
 
 After section 130I of the Mental Health Act 1983 insert–
 
@@ -739,7 +739,7 @@ After section 130I of the Mental Health Act 1983 insert–
 > - (b) the patient is receiving treatment for, or assessment in relation to, mental disorder at the hospital or registered establishment; and
 > - (c) no application, order, direction or report renders the patient liable to be detained under this Act.
 
-### 37. Duty to give information about independent mental health advocates to Welsh qualifying compulsory patients[^key-1556274e1a8834df15bd8ac1a86d7463]
+### 37. Duty to give information about independent mental health advocates to Welsh qualifying compulsory patients[^c-1556274e1a8834df15bd8ac1a86d7463]
 
 After section 130J of the Mental Health Act 1983 insert–
 
@@ -778,7 +778,7 @@ After section 130J of the Mental Health Act 1983 insert–
 >
 > (7) The steps to be taken under subsection (5) above shall be taken when the information concerned is given to the patient or within a reasonable time thereafter.
 
-### 38. Duty to give information about independent mental health advocates to Welsh qualifying informal patients[^key-32f43b2dd270ba1f7d98e0a4680136f0]
+### 38. Duty to give information about independent mental health advocates to Welsh qualifying informal patients[^c-32f43b2dd270ba1f7d98e0a4680136f0]
 
 After section 130K of the Mental Health Act 1983 insert–
 
@@ -807,7 +807,7 @@ After section 130K of the Mental Health Act 1983 insert–
 >
 > (8) The steps to be taken under subsection (5) above shall be taken when the information concerned is given to the patient or within a reasonable time thereafter.
 
-### 39. Application of the Mental Health Act 1983 code of practice to Welsh independent mental health advocates[^key-057ea7f12e47b8863aee1f78ad7939c9][^key-f655b6f171a48eb6cd60bf22c0123371]
+### 39. Application of the Mental Health Act 1983 code of practice to Welsh independent mental health advocates[^c-057ea7f12e47b8863aee1f78ad7939c9][^c-f655b6f171a48eb6cd60bf22c0123371]
 
 (1) Section 118 of the Mental Health Act 1983 is amended as follows.
 
@@ -819,7 +819,7 @@ After section 130K of the Mental Health Act 1983 insert–
 
 (3) In subsection (2D), after “subsection (1)(a) or (b)” insert “ and subsection (1A) ”.
 
-### 40. Procedures for making regulations under the Mental Health Act 1983[^key-d8643e5a81f0a8f96f27a1e35ffc1300][^key-cb44da43600c9c0aea4ece1f44e2fcb2]
+### 40. Procedures for making regulations under the Mental Health Act 1983[^c-d8643e5a81f0a8f96f27a1e35ffc1300][^c-cb44da43600c9c0aea4ece1f44e2fcb2]
 
 (1) Section 143 of the Mental Health Act 1983 is amended as follows.
 
@@ -842,7 +842,7 @@ After section 130K of the Mental Health Act 1983 insert–
 
 ## PART 5 — GENERAL
 
-### 41. Cooperative and joint working between Local Health Boards and local authorities[^key-efdc7e5aced728a0745315f8c23d128b][^key-6193337f9978c75f8845688eba19dff8]
+### 41. Cooperative and joint working between Local Health Boards and local authorities[^c-efdc7e5aced728a0745315f8c23d128b][^c-6193337f9978c75f8845688eba19dff8]
 
 (1) Local mental health partners may for the purposes of their functions under Parts 1 and 3 of this Measure–
 
@@ -861,7 +861,7 @@ After section 130K of the Mental Health Act 1983 insert–
 
 (4) The local mental health partners may, if they think fit, exercise any of their functions under Parts 1 and 3 jointly.
 
-### 42. Information sharing[^key-a128880786cf74f9e390c32324297205][^key-459655827614da473d8b17778fba156c]
+### 42. Information sharing[^c-a128880786cf74f9e390c32324297205][^c-459655827614da473d8b17778fba156c]
 
 (1) A local mental health partner (partner 1) may supply to the other partner (partner 2) information–
 
@@ -879,9 +879,9 @@ After section 130K of the Mental Health Act 1983 insert–
 
 ### 43. Amendment of the Local Authority Social Services Act 1970
 
-[^key-2d5c9f76e300e1e4e27b6fe6578eb8a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d5c9f76e300e1e4e27b6fe6578eb8a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 44. Codes of practice[^key-ae68e17b39098c5843efd7de2d4d39e7]
+### 44. Codes of practice[^c-ae68e17b39098c5843efd7de2d4d39e7]
 
 (1) The Welsh Ministers may prepare, and from time to time revise, one or more codes of practice for the following purposes–
 
@@ -904,7 +904,7 @@ After section 130K of the Mental Health Act 1983 insert–
 
 (9) Any direction under subsection (8) must be laid before the National Assembly for Wales.
 
-### 45. Part 1: power to secure regional provision[^key-20723e179d61574faecb891da387facd]
+### 45. Part 1: power to secure regional provision[^c-20723e179d61574faecb891da387facd]
 
 (1) The Welsh Ministers may by regulations make provision for and in connection with–
 
@@ -918,7 +918,7 @@ After section 130K of the Mental Health Act 1983 insert–
 - (a) specifying more than one such Board or authority amongst the mental health partners for the region;
 - (b) making such modifications of Part 1 as appear to the Welsh Ministers to be necessary or expedient.
 
-### 46. Part 3: power to secure regional provision[^key-d44093af04f551974e354b5c7659fb9b]
+### 46. Part 3: power to secure regional provision[^c-d44093af04f551974e354b5c7659fb9b]
 
 (1) The Welsh Ministers may by regulations make provision for and in connection with–
 
@@ -932,7 +932,7 @@ After section 130K of the Mental Health Act 1983 insert–
 - (a) specifying more than one such Board or authority amongst the mental health partners for the region;
 - (b) making such modifications of Part 1 as appear to the Welsh Ministers to be necessary or expedient.
 
-### 47. Regulations as to the individuals who may carry out primary mental health assessments and act as care coordinators[^key-e34ad752e9f6933ac725e16b518adbe4][^key-b42ed5d1cbd18c6e050c161b5bca8f64]
+### 47. Regulations as to the individuals who may carry out primary mental health assessments and act as care coordinators[^c-e34ad752e9f6933ac725e16b518adbe4][^c-b42ed5d1cbd18c6e050c161b5bca8f64]
 
 (1) The Welsh Ministers may by regulations make provision about the eligibility of individuals to–
 
@@ -979,7 +979,7 @@ After section 130K of the Mental Health Act 1983 insert–
 - (a) a service in the form of treatment for an individual's mental disorder which is provided under Part 1 of the National Health Service (Wales) Act 2006;
 - (b) a service provided under section 117 of the Mental Health Act 1983;
 - (c) a community care service the main purpose of which is to meet a need related to an adult's mental health;
-- (d) a service provided for a child under sections 37 to 39 and Part 6 of the Social Services and Well-being (Wales) Act 2014[^key-0b029dc2a611265d13254994f3a5d070] the main purpose of which is to meet a need related to that child's mental health.
+- (d) a service provided for a child under sections 37 to 39 and Part 6 of the Social Services and Well-being (Wales) Act 2014[^c-0b029dc2a611265d13254994f3a5d070] the main purpose of which is to meet a need related to that child's mental health.
 
 (2) For the purposes of subsection (1), a service is not to be taken as provided under Part 1 of the National Health Service (Wales) Act 2006 if it is provided under–
 
@@ -999,7 +999,7 @@ After section 130K of the Mental Health Act 1983 insert–
 
 (1) For the purposes of this Measure, “**housing or well-being services**” means–
 
-- (a) the allocation of accommodation by a local housing authority under Part 6 of the Housing Act 1996 (allocation of housing accommodation) or the securing of accommodation by such an authority under Part 2 of the Housing (Wales) Act 2014[^key-2fd98faa0c908225a3e7462cef0eeb04] (homelessness);
+- (a) the allocation of accommodation by a local housing authority under Part 6 of the Housing Act 1996 (allocation of housing accommodation) or the securing of accommodation by such an authority under Part 2 of the Housing (Wales) Act 2014[^c-2fd98faa0c908225a3e7462cef0eeb04] (homelessness);
 - (b) any services related to well-being (including housing) which are specified in regulations made by the Welsh Ministers (whether or not provided by or under arrangements made with a public authority);
 - (c) the provision of information or advice about any service falling within paragraph (a) or (b) above (whether or not provided by or under arrangements made with a public authority).
 
@@ -1011,7 +1011,7 @@ After section 130K of the Mental Health Act 1983 insert–
 
 - “**adult**” (“***oedolyn***”) means a person aged 18 or above;
 - “child”(“*plentyn*”) means a person who has not attained the age of 18;
-- “community care services” (“[^key-e8e2ba55868121afff6faf1aab202006]*gwasanaethau gofal cymunedol*”) means services provided to an adult pursuant to Part 4 of the Social Services and Well-being (Wales) Act 2014;
+- “community care services” (“[^c-e8e2ba55868121afff6faf1aab202006]*gwasanaethau gofal cymunedol*”) means services provided to an adult pursuant to Part 4 of the Social Services and Well-being (Wales) Act 2014;
 - “**functions**” (“***swyddogaethau***”) includes powers and duties;
 - “**housing or well-being services**” (“***gwasanaethau tai neu wasanaethau llesiant***”) must be construed in accordance with section 50;
 - “**local authority**” (“***awdurdod lleol***”) means a county council or a county borough council;
@@ -1036,7 +1036,7 @@ After section 130K of the Mental Health Act 1983 insert–
 
 (3) In this Measure any reference (however expressed) to a service being provided by a person includes a reference to a service being provided under arrangements made by the person.
 
-(4)[^key-5e83085a3152459303a5f0311b260697] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5e83085a3152459303a5f0311b260697] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) References in this Measure to a care coordinator are to be construed as references to a care coordinator acting on behalf of the mental health service provider who had responsibility for appointing the individual as care coordinator under section 14(1) or (3), unless the context otherwise requires.
 
@@ -1065,7 +1065,7 @@ must not be made unless a draft of the instrument has been laid before, and appr
 
 ### 53. Consequential etc amendments[^c2069037]
 
-(1)[^key-8ba2a180403a3db82920fcb7b5cda4c4][^key-2d2b2eab4964aca3b2fd4f746f75ec5a] Schedule 1 has effect to make minor and consequential amendments in connection with Part 4.
+(1)[^c-8ba2a180403a3db82920fcb7b5cda4c4][^c-2d2b2eab4964aca3b2fd4f746f75ec5a] Schedule 1 has effect to make minor and consequential amendments in connection with Part 4.
 
 (2) The Welsh Ministers may by order make such provision as the Welsh Ministers consider appropriate for the general purposes, or any particular purposes, of this Measure, or in consequence of, or for giving full effect to, any provision made by this Measure or regulations under sections 45 and 46.
 
@@ -1076,7 +1076,7 @@ must not be made unless a draft of the instrument has been laid before, and appr
 
 (4) In this section “**subordinate legislation**” has the same meaning as in the Interpretation Act 1978.
 
-### 54. Repeals[^key-c738ed179588d16af2bcb0b2e36c9933][^key-af93c4f2bc64ecf1285f2f9b1e7668ca]
+### 54. Repeals[^c-c738ed179588d16af2bcb0b2e36c9933][^c-af93c4f2bc64ecf1285f2f9b1e7668ca]
 
 Schedule 2 has effect to make repeals in connection with Part 4.
 
@@ -1099,13 +1099,13 @@ This Measure may be cited as the Mental Health (Wales) Measure 2010.
 
 (*introduced by section 53(1)*)
 
-**1.**[^key-4178b17c413987900532ea04569f2cd2][^key-fdce7142865f6fb1d24a0eaac64797fd] Amend the Mental Health Act 1983 as follows.
+**1.**[^c-4178b17c413987900532ea04569f2cd2][^c-fdce7142865f6fb1d24a0eaac64797fd] Amend the Mental Health Act 1983 as follows.
 
-**2.**[^key-2852f639ad9783ebbb29d475f9009b8e][^key-07fe8ee944361e17370ed34b70485069] At the end of the title of section 130A insert “ : England ”.
+**2.**[^c-2852f639ad9783ebbb29d475f9009b8e][^c-07fe8ee944361e17370ed34b70485069] At the end of the title of section 130A insert “ : England ”.
 
-**3.**[^key-63fcb954fd6220368048818193fe35cc][^key-095d9cab13664e6be1dbd653082f7b9f] In section 130A(1), (2) and (4) for “appropriate national authority” substitute “ Secretary of State ”.
+**3.**[^c-63fcb954fd6220368048818193fe35cc][^c-095d9cab13664e6be1dbd653082f7b9f] In section 130A(1), (2) and (4) for “appropriate national authority” substitute “ Secretary of State ”.
 
-**4.**[^key-b60a47bbf011827123dbde5dfb189056][^key-0e8f86bcc2ebe40aed81cb315c2ec6cd] For section 130C(2) substitute–
+**4.**[^c-b60a47bbf011827123dbde5dfb189056][^c-0e8f86bcc2ebe40aed81cb315c2ec6cd] For section 130C(2) substitute–
 
 > (2) A patient is a qualifying patient if he is–
 >
@@ -1113,17 +1113,17 @@ This Measure may be cited as the Mental Health (Wales) Measure 2010.
 > - (b) subject to guardianship under this Act and the area of the responsible local social services authority within the meaning of section 34(3) above is situated in England;
 > - (c) a community patient and the responsible hospital is situated in England.
 
-**5.**[^key-611dea9926afc0952b30b9170435e8ec][^key-7cbf2e621a881c13afb2cac8d0678dbe] In section 130C(3) after “qualifying patient if” insert “ the patient is to be regarded as being in England for the purposes of this subsection and ”.
+**5.**[^c-611dea9926afc0952b30b9170435e8ec][^c-7cbf2e621a881c13afb2cac8d0678dbe] In section 130C(3) after “qualifying patient if” insert “ the patient is to be regarded as being in England for the purposes of this subsection and ”.
 
-**6.**[^key-8622de587125f97b6144edd01d4ff3a3][^key-4c3b2383489245d7f98522a36d4a8e11] After section 130C(3) insert–
+**6.**[^c-8622de587125f97b6144edd01d4ff3a3][^c-4c3b2383489245d7f98522a36d4a8e11] After section 130C(3) insert–
 
 > (3A) For the purposes of subsection (3), a patient is to be regarded as being in England if that has been determined in accordance with arrangements made for the purposes of that subsection and section 130I(4), and published, by the Secretary of State and the Welsh Ministers.
 
-**7.**[^key-bb9c3da72e81a1b882d7a5a1cb1c0910][^key-8d8f88dad65512b12a66a143bc1b3d69] Omit section 130C(5) and (6).
+**7.**[^c-bb9c3da72e81a1b882d7a5a1cb1c0910][^c-8d8f88dad65512b12a66a143bc1b3d69] Omit section 130C(5) and (6).
 
-**8.**[^key-682d251929f6a24229d1b9b7ef8830f5][^key-a5a24fd8cff727834bf002554ed685f1] In section 134(3A)(b)(i) after “130A” insert “ or section 130E ”.
+**8.**[^c-682d251929f6a24229d1b9b7ef8830f5][^c-a5a24fd8cff727834bf002554ed685f1] In section 134(3A)(b)(i) after “130A” insert “ or section 130E ”.
 
-## SCHEDULE 2 — REPEALS[^key-8516bdb784ecdef6c5c6f955f1ee349b][^key-dcb33724189f43fe1e9c412bd21c3224]
+## SCHEDULE 2 — REPEALS[^c-8516bdb784ecdef6c5c6f955f1ee349b][^c-dcb33724189f43fe1e9c412bd21c3224]
 
 (*introduced by section 54*)
 
@@ -1133,164 +1133,164 @@ This Measure may be cited as the Mental Health (Wales) Measure 2010.
 
 ## Annotations
 
-[^key-bf4ae77cb6d924d3b751fc7161a5fdd8]: Commencement: [S. 1](https://www.legislation.gov.uk/mwa/2010/7/section/1) in force at 8.5.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 4(a)](https://www.legislation.gov.uk/wsi/2011/3046/article/4/a) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-bf4ae77cb6d924d3b751fc7161a5fdd8]: Commencement: [S. 1](https://www.legislation.gov.uk/mwa/2010/7/section/1) in force at 8.5.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 4(a)](https://www.legislation.gov.uk/wsi/2011/3046/article/4/a) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-2dcd2c4462f2f19851fee2582109c714]: Commencement: S. 2 in force at 8.5.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 4(b)](https://www.legislation.gov.uk/wsi/2011/3046/article/4/b) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-2dcd2c4462f2f19851fee2582109c714]: Commencement: S. 2 in force at 8.5.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 4(b)](https://www.legislation.gov.uk/wsi/2011/3046/article/4/b) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-3abb979258d47f46a9a3bd16cde669ff]: Textual amendment: S. 2(2A) inserted (1.4.2016) by [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), [s. 56(2)](https://www.legislation.gov.uk/anaw/2015/2/section/56/2), [Sch. 4 para. 29](https://www.legislation.gov.uk/anaw/2015/2/schedule/4/paragraph/29); [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-3abb979258d47f46a9a3bd16cde669ff]: Textual amendment: S. 2(2A) inserted (1.4.2016) by [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), [s. 56(2)](https://www.legislation.gov.uk/anaw/2015/2/section/56/2), [Sch. 4 para. 29](https://www.legislation.gov.uk/anaw/2015/2/schedule/4/paragraph/29); [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
 
-[^key-f207eb657a7efe926df3b6a5ef4221ad]: Textual amendment: Words in [s. 2(2A)](https://www.legislation.gov.uk/mwa/2010/7/section/2/2A) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 7](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/7)
+[^c-f207eb657a7efe926df3b6a5ef4221ad]: Textual amendment: Words in [s. 2(2A)](https://www.legislation.gov.uk/mwa/2010/7/section/2/2A) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 7](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/7)
 
-[^key-41c0239fb619420a101eab863f5f1802]: Commencement: S. 4 in force at 8.5.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 4(c)](https://www.legislation.gov.uk/wsi/2011/3046/article/4/c) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-41c0239fb619420a101eab863f5f1802]: Commencement: S. 4 in force at 8.5.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 4(c)](https://www.legislation.gov.uk/wsi/2011/3046/article/4/c) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-7700244c130432bac99d068ac7f30d28]: Commencement: S. 5 in force at 8.5.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 4(d)](https://www.legislation.gov.uk/wsi/2011/3046/article/4/d) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-7700244c130432bac99d068ac7f30d28]: Commencement: S. 5 in force at 8.5.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 4(d)](https://www.legislation.gov.uk/wsi/2011/3046/article/4/d) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-14308717a87a6109aa51e7c36952947d]: Textual amendment: Words in s 5(2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [reg. 281(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/281/a)
+[^c-14308717a87a6109aa51e7c36952947d]: Textual amendment: Words in s 5(2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [reg. 281(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/281/a)
 
-[^key-a68fc4ca631d7554f60a79ad64f27d99]: Textual amendment: Words in s 5(2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [reg. 281(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/281/b)
+[^c-a68fc4ca631d7554f60a79ad64f27d99]: Textual amendment: Words in s 5(2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [reg. 281(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/281/b)
 
-[^key-3826114305459392965a1cac00b1b44e]: Commencement: [S. 7](https://www.legislation.gov.uk/mwa/2010/7/section/7) in force in so far as not already in force at 1.10.2012 by [S.I. 2012/2411](https://www.legislation.gov.uk/wsi/2012/2411), [art. 2(c)](https://www.legislation.gov.uk/wsi/2012/2411/article/2/c)
+[^c-3826114305459392965a1cac00b1b44e]: Commencement: [S. 7](https://www.legislation.gov.uk/mwa/2010/7/section/7) in force in so far as not already in force at 1.10.2012 by [S.I. 2012/2411](https://www.legislation.gov.uk/wsi/2012/2411), [art. 2(c)](https://www.legislation.gov.uk/wsi/2012/2411/article/2/c)
 
 [^c2068037]: Commencement: [S. 7](https://www.legislation.gov.uk/mwa/2010/7/section/7) partly in force; [s. 7](https://www.legislation.gov.uk/mwa/2010/7/section/7) in force at 15.2.2011 in so far as it confers power to make subordinate legislation see [s. 55](https://www.legislation.gov.uk/mwa/2010/7/section/55)
 
-[^key-94f8e2e006763f94257651efdf975fab]: Textual amendment: Words in s. 9(3)(d) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [282](https://www.legislation.gov.uk/wsi/2016/413/regulation/282)
+[^c-94f8e2e006763f94257651efdf975fab]: Textual amendment: Words in s. 9(3)(d) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [282](https://www.legislation.gov.uk/wsi/2016/413/regulation/282)
 
-[^key-ddb4a6417fa4614ef999bb2ee0cbb64c]: Textual amendment: S. 11 repealed (1.4.2016) by [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), [s. 56(2)](https://www.legislation.gov.uk/anaw/2015/2/section/56/2), [Sch. 4 para. 30](https://www.legislation.gov.uk/anaw/2015/2/schedule/4/paragraph/30); [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-ddb4a6417fa4614ef999bb2ee0cbb64c]: Textual amendment: S. 11 repealed (1.4.2016) by [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), [s. 56(2)](https://www.legislation.gov.uk/anaw/2015/2/section/56/2), [Sch. 4 para. 30](https://www.legislation.gov.uk/anaw/2015/2/schedule/4/paragraph/30); [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
 
-[^key-52a3d2665dedba8cc7ae27a2962edea6]: Commencement: [S. 15](https://www.legislation.gov.uk/mwa/2010/7/section/15) in force in so far as not already in force at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(d)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/d)
+[^c-52a3d2665dedba8cc7ae27a2962edea6]: Commencement: [S. 15](https://www.legislation.gov.uk/mwa/2010/7/section/15) in force in so far as not already in force at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(d)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/d)
 
 [^c2068069]: Commencement: [S. 15](https://www.legislation.gov.uk/mwa/2010/7/section/15) partly in force; [s. 15](https://www.legislation.gov.uk/mwa/2010/7/section/15) in force at 15.2.2011 in so far as it confers power to make subordinate legislation see [s. 55](https://www.legislation.gov.uk/mwa/2010/7/section/55)
 
-[^key-e26ba15a09f83a2c42dd4d87acf16df7]: Commencement: [S. 16](https://www.legislation.gov.uk/mwa/2010/7/section/16) in force in so far as not already in force at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(e)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/e)
+[^c-e26ba15a09f83a2c42dd4d87acf16df7]: Commencement: [S. 16](https://www.legislation.gov.uk/mwa/2010/7/section/16) in force in so far as not already in force at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(e)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/e)
 
 [^c2068070]: Commencement: [S. 16](https://www.legislation.gov.uk/mwa/2010/7/section/16) partly in force; [s. 16](https://www.legislation.gov.uk/mwa/2010/7/section/16) in force at 15.2.2011 in so far as it confers power to make subordinate legislation see [s. 55](https://www.legislation.gov.uk/mwa/2010/7/section/55)
 
-[^key-81287be7d4e8d1cb650a90a0733c30f0]: Commencement: [S. 17](https://www.legislation.gov.uk/mwa/2010/7/section/17) in force in so far as not already in force at 1.10.2012 by [S.I. 2012/2411](https://www.legislation.gov.uk/wsi/2012/2411), [art. 2(g)](https://www.legislation.gov.uk/wsi/2012/2411/article/2/g)
+[^c-81287be7d4e8d1cb650a90a0733c30f0]: Commencement: [S. 17](https://www.legislation.gov.uk/mwa/2010/7/section/17) in force in so far as not already in force at 1.10.2012 by [S.I. 2012/2411](https://www.legislation.gov.uk/wsi/2012/2411), [art. 2(g)](https://www.legislation.gov.uk/wsi/2012/2411/article/2/g)
 
-[^key-db2b5f299dea46a4eeb1379793889085]: Commencement: [S. 17](https://www.legislation.gov.uk/mwa/2010/7/section/17) in force for specified purposes at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/f)
+[^c-db2b5f299dea46a4eeb1379793889085]: Commencement: [S. 17](https://www.legislation.gov.uk/mwa/2010/7/section/17) in force for specified purposes at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/f)
 
-[^key-41ed8f4621a2e45bc9c07640ea025d57]: Commencement: [S. 18](https://www.legislation.gov.uk/mwa/2010/7/section/18) in force in so far as not already in force at 1.10.2012 by [S.I. 2012/2411](https://www.legislation.gov.uk/wsi/2012/2411), [art. 2(h)](https://www.legislation.gov.uk/wsi/2012/2411/article/2/h)
+[^c-41ed8f4621a2e45bc9c07640ea025d57]: Commencement: [S. 18](https://www.legislation.gov.uk/mwa/2010/7/section/18) in force in so far as not already in force at 1.10.2012 by [S.I. 2012/2411](https://www.legislation.gov.uk/wsi/2012/2411), [art. 2(h)](https://www.legislation.gov.uk/wsi/2012/2411/article/2/h)
 
-[^key-886338fad21c9878f717560e31597d06]: Commencement: [S. 18](https://www.legislation.gov.uk/mwa/2010/7/section/18) in force for specified purposes at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(g)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/g)
+[^c-886338fad21c9878f717560e31597d06]: Commencement: [S. 18](https://www.legislation.gov.uk/mwa/2010/7/section/18) in force for specified purposes at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(g)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/g)
 
 [^c2068071]: Commencement: [S. 18](https://www.legislation.gov.uk/mwa/2010/7/section/18) partly in force; [s. 18](https://www.legislation.gov.uk/mwa/2010/7/section/18) in force at 15.2.2011 in so far as it confers power to make subordinate legislation see [s. 55](https://www.legislation.gov.uk/mwa/2010/7/section/55)
 
-[^key-a19e3661765bf2419d2517154ac9ad2d]: Commencement: [S. 23](https://www.legislation.gov.uk/mwa/2010/7/section/23) in force in so far as not already in force at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(l)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/l)
+[^c-a19e3661765bf2419d2517154ac9ad2d]: Commencement: [S. 23](https://www.legislation.gov.uk/mwa/2010/7/section/23) in force in so far as not already in force at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(l)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/l)
 
 [^c2068072]: Commencement: [S. 23](https://www.legislation.gov.uk/mwa/2010/7/section/23) partly in force; [s. 23](https://www.legislation.gov.uk/mwa/2010/7/section/23) in force at 15.2.2011 in so far as it confers power to make subordinate legislation see [s. 55](https://www.legislation.gov.uk/mwa/2010/7/section/55)
 
-[^key-149fca13732aafa3c1a11c83d474aea9]: Commencement: [S. 26](https://www.legislation.gov.uk/mwa/2010/7/section/26) in force in so far as not already in force at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(o)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/o)
+[^c-149fca13732aafa3c1a11c83d474aea9]: Commencement: [S. 26](https://www.legislation.gov.uk/mwa/2010/7/section/26) in force in so far as not already in force at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(o)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/o)
 
 [^c2068073]: Commencement: [S. 26](https://www.legislation.gov.uk/mwa/2010/7/section/26) partly in force; [s. 26](https://www.legislation.gov.uk/mwa/2010/7/section/26) in force at 15.2.2011 in so far as it confers power to make subordinate legislation see [s. 55](https://www.legislation.gov.uk/mwa/2010/7/section/55)
 
-[^key-61e365afaf606f82a211ff29b2a99506]: Commencement: [S. 29](https://www.legislation.gov.uk/mwa/2010/7/section/29) in force in so far as not already in force at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(r)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/r)
+[^c-61e365afaf606f82a211ff29b2a99506]: Commencement: [S. 29](https://www.legislation.gov.uk/mwa/2010/7/section/29) in force in so far as not already in force at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(r)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/r)
 
-[^key-a03e6b9b5d9d83b4613fb1c0bd468db2]: Commencement: [S. 31](https://www.legislation.gov.uk/mwa/2010/7/section/31) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(a)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/a) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-a03e6b9b5d9d83b4613fb1c0bd468db2]: Commencement: [S. 31](https://www.legislation.gov.uk/mwa/2010/7/section/31) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(a)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/a) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-3ae35cd2169a8599480de3ccb5febbe6]: Commencement: [S. 31](https://www.legislation.gov.uk/mwa/2010/7/section/31) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(a)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/a) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-3ae35cd2169a8599480de3ccb5febbe6]: Commencement: [S. 31](https://www.legislation.gov.uk/mwa/2010/7/section/31) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(a)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/a) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
 [^c2068076]: Commencement: [S. 31](https://www.legislation.gov.uk/mwa/2010/7/section/31) partly in force; [s. 31](https://www.legislation.gov.uk/mwa/2010/7/section/31) in force at 15.2.2011 in so far as it confers power to make subordinate legislation see [s. 55](https://www.legislation.gov.uk/mwa/2010/7/section/55)
 
-[^key-b79ce5be17f7c589ed85f2eff767607c]: Commencement: [S. 32](https://www.legislation.gov.uk/mwa/2010/7/section/32) in force in so far as not already in force at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(b)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/b) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-b79ce5be17f7c589ed85f2eff767607c]: Commencement: [S. 32](https://www.legislation.gov.uk/mwa/2010/7/section/32) in force in so far as not already in force at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(b)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/b) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
 [^c2068077]: Commencement: [S. 32](https://www.legislation.gov.uk/mwa/2010/7/section/32) partly in force; [s. 32](https://www.legislation.gov.uk/mwa/2010/7/section/32) in force at 15.2.2011 in so far as it confers power to make subordinate legislation see [s. 55](https://www.legislation.gov.uk/mwa/2010/7/section/55)
 
-[^key-a565cc0b49bd4a3cb32b1a737aff7856]: Commencement: [S. 33](https://www.legislation.gov.uk/mwa/2010/7/section/33) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(b)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/b) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-a565cc0b49bd4a3cb32b1a737aff7856]: Commencement: [S. 33](https://www.legislation.gov.uk/mwa/2010/7/section/33) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(b)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/b) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
 [^c2068080]: Commencement: [S. 33](https://www.legislation.gov.uk/mwa/2010/7/section/33) partly in force; [s. 33](https://www.legislation.gov.uk/mwa/2010/7/section/33) in force at 15.2.2011 in so far as it confers power to make subordinate legislation see [s. 55](https://www.legislation.gov.uk/mwa/2010/7/section/55)
 
-[^key-f864e5dfd6c38f6d2d82e6bc9aa06f63]: Commencement: [S. 34](https://www.legislation.gov.uk/mwa/2010/7/section/34) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(c)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/c) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-f864e5dfd6c38f6d2d82e6bc9aa06f63]: Commencement: [S. 34](https://www.legislation.gov.uk/mwa/2010/7/section/34) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(c)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/c) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-06a487cd3f07ced1a307580a5b531b47]: Commencement: [S. 34](https://www.legislation.gov.uk/mwa/2010/7/section/34) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(c)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/c) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-06a487cd3f07ced1a307580a5b531b47]: Commencement: [S. 34](https://www.legislation.gov.uk/mwa/2010/7/section/34) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(c)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/c) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
 [^c2068081]: Commencement: [S. 34](https://www.legislation.gov.uk/mwa/2010/7/section/34) partly in force; [s. 34](https://www.legislation.gov.uk/mwa/2010/7/section/34) in force at 15.2.2011 in so far as it confers power to make subordinate legislation see [s. 55](https://www.legislation.gov.uk/mwa/2010/7/section/55)
 
-[^key-452646692ecd038baaabdcd54e3b9e06]: Commencement: [S. 35](https://www.legislation.gov.uk/mwa/2010/7/section/35) in force at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(d)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/d) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-452646692ecd038baaabdcd54e3b9e06]: Commencement: [S. 35](https://www.legislation.gov.uk/mwa/2010/7/section/35) in force at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(d)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/d) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-94d5586fc309a8c4cada2024699f82c8]: Commencement: [S. 36](https://www.legislation.gov.uk/mwa/2010/7/section/36) in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(d)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/d) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-94d5586fc309a8c4cada2024699f82c8]: Commencement: [S. 36](https://www.legislation.gov.uk/mwa/2010/7/section/36) in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(d)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/d) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-1556274e1a8834df15bd8ac1a86d7463]: Commencement: [S. 37](https://www.legislation.gov.uk/mwa/2010/7/section/37) in force at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(e)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/e) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-1556274e1a8834df15bd8ac1a86d7463]: Commencement: [S. 37](https://www.legislation.gov.uk/mwa/2010/7/section/37) in force at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(e)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/e) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-32f43b2dd270ba1f7d98e0a4680136f0]: Commencement: [S. 38](https://www.legislation.gov.uk/mwa/2010/7/section/38) in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(e)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/e) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-32f43b2dd270ba1f7d98e0a4680136f0]: Commencement: [S. 38](https://www.legislation.gov.uk/mwa/2010/7/section/38) in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(e)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/e) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-057ea7f12e47b8863aee1f78ad7939c9]: Commencement: [S. 39](https://www.legislation.gov.uk/mwa/2010/7/section/39) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(f)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/f) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-057ea7f12e47b8863aee1f78ad7939c9]: Commencement: [S. 39](https://www.legislation.gov.uk/mwa/2010/7/section/39) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(f)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/f) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-f655b6f171a48eb6cd60bf22c0123371]: Commencement: [S. 39](https://www.legislation.gov.uk/mwa/2010/7/section/39) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(f)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/f) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-f655b6f171a48eb6cd60bf22c0123371]: Commencement: [S. 39](https://www.legislation.gov.uk/mwa/2010/7/section/39) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(f)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/f) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-d8643e5a81f0a8f96f27a1e35ffc1300]: Commencement: [S. 40](https://www.legislation.gov.uk/mwa/2010/7/section/40) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(g)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/g) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-d8643e5a81f0a8f96f27a1e35ffc1300]: Commencement: [S. 40](https://www.legislation.gov.uk/mwa/2010/7/section/40) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(g)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/g) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-cb44da43600c9c0aea4ece1f44e2fcb2]: Commencement: [S. 40](https://www.legislation.gov.uk/mwa/2010/7/section/40) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(g)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/g) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-cb44da43600c9c0aea4ece1f44e2fcb2]: Commencement: [S. 40](https://www.legislation.gov.uk/mwa/2010/7/section/40) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(g)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/g) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-efdc7e5aced728a0745315f8c23d128b]: Commencement: [S. 41](https://www.legislation.gov.uk/mwa/2010/7/section/41) in force in so far as not already in force at 1.10.2012 by [S.I. 2012/2411](https://www.legislation.gov.uk/wsi/2012/2411), [art. 2(i)](https://www.legislation.gov.uk/wsi/2012/2411/article/2/i)
+[^c-efdc7e5aced728a0745315f8c23d128b]: Commencement: [S. 41](https://www.legislation.gov.uk/mwa/2010/7/section/41) in force in so far as not already in force at 1.10.2012 by [S.I. 2012/2411](https://www.legislation.gov.uk/wsi/2012/2411), [art. 2(i)](https://www.legislation.gov.uk/wsi/2012/2411/article/2/i)
 
-[^key-6193337f9978c75f8845688eba19dff8]: Commencement: [S. 41](https://www.legislation.gov.uk/mwa/2010/7/section/41) in force at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(t)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/t)
+[^c-6193337f9978c75f8845688eba19dff8]: Commencement: [S. 41](https://www.legislation.gov.uk/mwa/2010/7/section/41) in force at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(t)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/t)
 
-[^key-a128880786cf74f9e390c32324297205]: Commencement: [S. 42](https://www.legislation.gov.uk/mwa/2010/7/section/42) in force in so far as not already in force at 1.10.2012 by [S.I. 2012/2411](https://www.legislation.gov.uk/wsi/2012/2411), [art. 2(j)](https://www.legislation.gov.uk/wsi/2012/2411/article/2/j)
+[^c-a128880786cf74f9e390c32324297205]: Commencement: [S. 42](https://www.legislation.gov.uk/mwa/2010/7/section/42) in force in so far as not already in force at 1.10.2012 by [S.I. 2012/2411](https://www.legislation.gov.uk/wsi/2012/2411), [art. 2(j)](https://www.legislation.gov.uk/wsi/2012/2411/article/2/j)
 
-[^key-459655827614da473d8b17778fba156c]: Commencement: [S. 42](https://www.legislation.gov.uk/mwa/2010/7/section/42) in force at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(u)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/u)
+[^c-459655827614da473d8b17778fba156c]: Commencement: [S. 42](https://www.legislation.gov.uk/mwa/2010/7/section/42) in force at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(u)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/u)
 
-[^key-2d5c9f76e300e1e4e27b6fe6578eb8a0]: Textual amendment: S. 43 omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [283](https://www.legislation.gov.uk/wsi/2016/413/regulation/283)
+[^c-2d5c9f76e300e1e4e27b6fe6578eb8a0]: Textual amendment: S. 43 omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [283](https://www.legislation.gov.uk/wsi/2016/413/regulation/283)
 
-[^key-ae68e17b39098c5843efd7de2d4d39e7]: Commencement: [S. 44](https://www.legislation.gov.uk/mwa/2010/7/section/44) in force at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(h)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/h) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-ae68e17b39098c5843efd7de2d4d39e7]: Commencement: [S. 44](https://www.legislation.gov.uk/mwa/2010/7/section/44) in force at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(h)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/h) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-20723e179d61574faecb891da387facd]: Commencement: [S. 45](https://www.legislation.gov.uk/mwa/2010/7/section/45) in force at 8.5.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 4(g)](https://www.legislation.gov.uk/wsi/2011/3046/article/4/g) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-20723e179d61574faecb891da387facd]: Commencement: [S. 45](https://www.legislation.gov.uk/mwa/2010/7/section/45) in force at 8.5.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 4(g)](https://www.legislation.gov.uk/wsi/2011/3046/article/4/g) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-d44093af04f551974e354b5c7659fb9b]: Commencement: [S. 46](https://www.legislation.gov.uk/mwa/2010/7/section/46) in force in so far as not already in force at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(w)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/w)
+[^c-d44093af04f551974e354b5c7659fb9b]: Commencement: [S. 46](https://www.legislation.gov.uk/mwa/2010/7/section/46) in force in so far as not already in force at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(w)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/w)
 
-[^key-e34ad752e9f6933ac725e16b518adbe4]: Commencement: [S. 47](https://www.legislation.gov.uk/mwa/2010/7/section/47) in force in so far as not already in force at 1.10.2012 by [S.I. 2012/2411](https://www.legislation.gov.uk/wsi/2012/2411), [art. 2(l)](https://www.legislation.gov.uk/wsi/2012/2411/article/2/l)
+[^c-e34ad752e9f6933ac725e16b518adbe4]: Commencement: [S. 47](https://www.legislation.gov.uk/mwa/2010/7/section/47) in force in so far as not already in force at 1.10.2012 by [S.I. 2012/2411](https://www.legislation.gov.uk/wsi/2012/2411), [art. 2(l)](https://www.legislation.gov.uk/wsi/2012/2411/article/2/l)
 
-[^key-b42ed5d1cbd18c6e050c161b5bca8f64]: Commencement: [S. 47](https://www.legislation.gov.uk/mwa/2010/7/section/47) in force at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(x)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/x)
+[^c-b42ed5d1cbd18c6e050c161b5bca8f64]: Commencement: [S. 47](https://www.legislation.gov.uk/mwa/2010/7/section/47) in force at 6.6.2012 by [S.I. 2012/1397](https://www.legislation.gov.uk/wsi/2012/1397), [art. 2(x)](https://www.legislation.gov.uk/wsi/2012/1397/article/2/x)
 
-[^key-0b029dc2a611265d13254994f3a5d070]: Textual amendment: Words in [s. 49(1)(d)](https://www.legislation.gov.uk/mwa/2010/7/section/49/1/d) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [284](https://www.legislation.gov.uk/wsi/2016/413/regulation/284)
+[^c-0b029dc2a611265d13254994f3a5d070]: Textual amendment: Words in [s. 49(1)(d)](https://www.legislation.gov.uk/mwa/2010/7/section/49/1/d) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [284](https://www.legislation.gov.uk/wsi/2016/413/regulation/284)
 
-[^key-2fd98faa0c908225a3e7462cef0eeb04]: Textual amendment: Words in [s. 50(1)(a)](https://www.legislation.gov.uk/mwa/2010/7/section/50/1/a) substituted (27.4.2015) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 19](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/19); [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53)
+[^c-2fd98faa0c908225a3e7462cef0eeb04]: Textual amendment: Words in [s. 50(1)(a)](https://www.legislation.gov.uk/mwa/2010/7/section/50/1/a) substituted (27.4.2015) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 19](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/19); [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53)
 
-[^key-e8e2ba55868121afff6faf1aab202006]: Textual amendment: Definition "community care services" in [s. 51(1)](https://www.legislation.gov.uk/mwa/2010/7/section/51/1) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [285(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/285/a)
+[^c-e8e2ba55868121afff6faf1aab202006]: Textual amendment: Definition "community care services" in [s. 51(1)](https://www.legislation.gov.uk/mwa/2010/7/section/51/1) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [285(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/285/a)
 
-[^key-5e83085a3152459303a5f0311b260697]: Textual amendment: [S. 51(4)](https://www.legislation.gov.uk/mwa/2010/7/section/51/4) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [285(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/285/b)
+[^c-5e83085a3152459303a5f0311b260697]: Textual amendment: [S. 51(4)](https://www.legislation.gov.uk/mwa/2010/7/section/51/4) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [285(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/285/b)
 
 [^c2069037]: Commencement: [S. 53](https://www.legislation.gov.uk/mwa/2010/7/section/53) partly in force; [s. 53(2)-(4)](https://www.legislation.gov.uk/mwa/2010/7/section/53/2) in force at 15.2.2011 see [s. 55](https://www.legislation.gov.uk/mwa/2010/7/section/55)
 
-[^key-8ba2a180403a3db82920fcb7b5cda4c4]: Commencement: [S. 53(1)](https://www.legislation.gov.uk/mwa/2010/7/section/53/1) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(h)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/h) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-8ba2a180403a3db82920fcb7b5cda4c4]: Commencement: [S. 53(1)](https://www.legislation.gov.uk/mwa/2010/7/section/53/1) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(h)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/h) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-2d2b2eab4964aca3b2fd4f746f75ec5a]: Commencement: [S. 53(1)](https://www.legislation.gov.uk/mwa/2010/7/section/53/1) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(i)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/i) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-2d2b2eab4964aca3b2fd4f746f75ec5a]: Commencement: [S. 53(1)](https://www.legislation.gov.uk/mwa/2010/7/section/53/1) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(i)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/i) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-c738ed179588d16af2bcb0b2e36c9933]: Commencement: [S. 54](https://www.legislation.gov.uk/mwa/2010/7/section/54) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(i)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/i) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-c738ed179588d16af2bcb0b2e36c9933]: Commencement: [S. 54](https://www.legislation.gov.uk/mwa/2010/7/section/54) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(i)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/i) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-af93c4f2bc64ecf1285f2f9b1e7668ca]: Commencement: [S. 54](https://www.legislation.gov.uk/mwa/2010/7/section/54) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(j)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/j) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-af93c4f2bc64ecf1285f2f9b1e7668ca]: Commencement: [S. 54](https://www.legislation.gov.uk/mwa/2010/7/section/54) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(j)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/j) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-4178b17c413987900532ea04569f2cd2]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/1) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(j)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/j) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-4178b17c413987900532ea04569f2cd2]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/1) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(j)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/j) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-fdce7142865f6fb1d24a0eaac64797fd]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/1) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(k)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/k) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-fdce7142865f6fb1d24a0eaac64797fd]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/1) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(k)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/k) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-2852f639ad9783ebbb29d475f9009b8e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/2) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(j)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/j) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-2852f639ad9783ebbb29d475f9009b8e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/2) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(j)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/j) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-07fe8ee944361e17370ed34b70485069]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/2) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(k)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/k) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-07fe8ee944361e17370ed34b70485069]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/2) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(k)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/k) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-63fcb954fd6220368048818193fe35cc]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/3) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(j)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/j) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-63fcb954fd6220368048818193fe35cc]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/3) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(j)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/j) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-095d9cab13664e6be1dbd653082f7b9f]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/3) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(k)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/k) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-095d9cab13664e6be1dbd653082f7b9f]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/3) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(k)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/k) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-b60a47bbf011827123dbde5dfb189056]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/4) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(j)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/j) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-b60a47bbf011827123dbde5dfb189056]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/4) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(j)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/j) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-0e8f86bcc2ebe40aed81cb315c2ec6cd]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/4) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(k)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/k) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-0e8f86bcc2ebe40aed81cb315c2ec6cd]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/4) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(k)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/k) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-611dea9926afc0952b30b9170435e8ec]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/5) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(j)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/j) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-611dea9926afc0952b30b9170435e8ec]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/5) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(j)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/j) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-7cbf2e621a881c13afb2cac8d0678dbe]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/5) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(k)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/k) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-7cbf2e621a881c13afb2cac8d0678dbe]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/5) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(k)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/k) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-8622de587125f97b6144edd01d4ff3a3]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/6) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(j)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/j) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-8622de587125f97b6144edd01d4ff3a3]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/6) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(j)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/j) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-4c3b2383489245d7f98522a36d4a8e11]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/6) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(k)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/k) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-4c3b2383489245d7f98522a36d4a8e11]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/6) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(k)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/k) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-bb9c3da72e81a1b882d7a5a1cb1c0910]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/7) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(j)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/j) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-bb9c3da72e81a1b882d7a5a1cb1c0910]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/7) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(j)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/j) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-8d8f88dad65512b12a66a143bc1b3d69]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/7) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(k)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/k) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-8d8f88dad65512b12a66a143bc1b3d69]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/7) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(k)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/k) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-682d251929f6a24229d1b9b7ef8830f5]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/8) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(j)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/j) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-682d251929f6a24229d1b9b7ef8830f5]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/8) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(j)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/j) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-a5a24fd8cff727834bf002554ed685f1]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/8) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(k)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/k) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-a5a24fd8cff727834bf002554ed685f1]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/mwa/2010/7/schedule/1/paragraph/8) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(k)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/k) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-8516bdb784ecdef6c5c6f955f1ee349b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/mwa/2010/7/schedule/2) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(k)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/k) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-8516bdb784ecdef6c5c6f955f1ee349b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/mwa/2010/7/schedule/2) in force in so far as not already in force at 2.4.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(k)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/k) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-dcb33724189f43fe1e9c412bd21c3224]: Commencement: [Sch. 2](https://www.legislation.gov.uk/mwa/2010/7/schedule/2) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(l)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/l) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-dcb33724189f43fe1e9c412bd21c3224]: Commencement: [Sch. 2](https://www.legislation.gov.uk/mwa/2010/7/schedule/2) in force for specified purposes at 3.1.2012 by [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(l)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/l) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))

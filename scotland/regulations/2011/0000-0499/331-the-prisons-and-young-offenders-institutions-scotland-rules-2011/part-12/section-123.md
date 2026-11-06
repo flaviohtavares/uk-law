@@ -24,7 +24,7 @@ summary: ''
 
 (2) A referral to the ICC under paragraph (1) must be made in writing no later than 2 weeks after the RFLM response is provided to the prisoner.
 
-(2A)[^key-7754001c262cc8373140fc03341efd3e] Where a prisoner makes a request to an independent prison monitor for assistance in making a written referral to the ICC under paragraph (1), the independent prison monitor may provide such assistance to the prisoner as the independent prison monitor considers appropriate.
+(2A)[^c-7754001c262cc8373140fc03341efd3e] Where a prisoner makes a request to an independent prison monitor for assistance in making a written referral to the ICC under paragraph (1), the independent prison monitor may provide such assistance to the prisoner as the independent prison monitor considers appropriate.
 
 (3) The Governor must appoint—
 
@@ -37,7 +37,7 @@ summary: ''
 
 - (a) attend the hearing and make representations to the ICC;
 - (b) be assisted at the hearing by—
-  - (i) an officer or an employee, an independent prison monitor[^key-6f38fc1e6e4593124388ca0535944599], or any person who ordinarily works at the prison but who is not employed by the Scottish Ministers; or
+  - (i) an officer or an employee, an independent prison monitor[^c-6f38fc1e6e4593124388ca0535944599], or any person who ordinarily works at the prison but who is not employed by the Scottish Ministers; or
   - (ii) where the chair of the ICC is satisfied that there are exceptional circumstances, another prisoner at the prison concerned;
 - (c) subject to paragraphs (6) and (7), call witnesses to give evidence in support of the complaint; and
 - (d) ask questions of any person giving evidence at the inquiry.
@@ -68,6 +68,6 @@ the prisoner must, prior to the hearing, give written notice to the ICC of that 
 
 ## Annotations
 
-[^key-7754001c262cc8373140fc03341efd3e]: Textual amendment: Rule 123(2A) inserted (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [arts. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [4(5)(a)](https://www.legislation.gov.uk/ssi/2015/39/article/4/5/a) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/39/article/5))
+[^c-7754001c262cc8373140fc03341efd3e]: Textual amendment: Rule 123(2A) inserted (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [arts. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [4(5)(a)](https://www.legislation.gov.uk/ssi/2015/39/article/4/5/a) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/39/article/5))
 
-[^key-6f38fc1e6e4593124388ca0535944599]: Textual amendment: Words in rule 123(5)(b)(i) substituted (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [arts. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [4(5)(b)](https://www.legislation.gov.uk/ssi/2015/39/article/4/5/b) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/39/article/5))
+[^c-6f38fc1e6e4593124388ca0535944599]: Textual amendment: Words in rule 123(5)(b)(i) substituted (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [arts. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [4(5)(b)](https://www.legislation.gov.uk/ssi/2015/39/article/4/5/b) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/39/article/5))

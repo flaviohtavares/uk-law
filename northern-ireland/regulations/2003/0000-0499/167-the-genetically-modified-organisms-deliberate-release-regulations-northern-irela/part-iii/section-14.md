@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Requirement for consent to market[^key-cf051e6ad00d7a6b46e890c00b5000d1]
+## 14. Requirement for consent to market[^c-cf051e6ad00d7a6b46e890c00b5000d1]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The cases and circumstances prescribed for the purposes of Article 8(1)(a) of th
 
 ## Annotations
 
-[^key-cf051e6ad00d7a6b46e890c00b5000d1]: Commencement: Reg. 14 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-cf051e6ad00d7a6b46e890c00b5000d1]: Commencement: Reg. 14 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

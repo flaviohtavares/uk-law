@@ -32,7 +32,7 @@ summary: ''
 
 (3) The duties imposed by subsection (2)—
 
-- (a) are to be discharged in accordance with any regulations made for the purposes of this section by the Secretary of State[^key-34b00196265dbdf1acb1fd1ad44e4af6];
+- (a) are to be discharged in accordance with any regulations made for the purposes of this section by the Secretary of State[^c-34b00196265dbdf1acb1fd1ad44e4af6];
 - (b) are subject to any requirement imposed by or under an enactment applicable to the place in which the person to whom this section applies is accommodated.
 
 (4) Regulations under this section for the purposes of subsection (3)(a) may make provision about—
@@ -47,4 +47,4 @@ summary: ''
 
 [^c19937981]: Textual amendment: S. 23ZA and cross-heading inserted (1.9.2009 and 15.11.2010 for certain purposes for E., 26.4.2010 for certain purposes for W., 28.3.2011 for W. otherwise, 1.4.2011 for E. otherwise) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [ss. 15](https://www.legislation.gov.uk/ukpga/2008/23/section/15), [44](https://www.legislation.gov.uk/ukpga/2008/23/section/44); [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/d); [S.I. 2010/1326](https://www.legislation.gov.uk/uksi/2010/1326), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/1326/article/2/d); [S.I. 2010/2714](https://www.legislation.gov.uk/uksi/2010/2714), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/2714/article/2/d); [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/d) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/2981/article/5)); [S.I. 2011/949](https://www.legislation.gov.uk/uksi/2011/949), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2011/949/article/3/1/a)
 
-[^key-34b00196265dbdf1acb1fd1ad44e4af6]: Textual amendment: Words in s. 23ZA(3)(a) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [72](https://www.legislation.gov.uk/wsi/2016/413/regulation/72)
+[^c-34b00196265dbdf1acb1fd1ad44e4af6]: Textual amendment: Words in s. 23ZA(3)(a) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [72](https://www.legislation.gov.uk/wsi/2016/413/regulation/72)

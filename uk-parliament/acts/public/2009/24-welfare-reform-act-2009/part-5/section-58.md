@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-752277914f99f6844a2fb56b1db726cb][^key-67008e555657c7472df5b7cddd973b54] Schedule 7 contains repeals and revocations.
+(1)[^c-752277914f99f6844a2fb56b1db726cb][^c-67008e555657c7472df5b7cddd973b54] Schedule 7 contains repeals and revocations.
 
 (2) The following repeals and revocation in Part 2 of that Schedule (which are made in consequence of section 15(1)) have effect on 6 April 2010—
 
@@ -35,6 +35,6 @@ summary: ''
 
 [^c2005890]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2009/24/section/58) partly in force;s. 58(2)(3) in force on 12.1.2010 see [s. 61(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/2)
 
-[^key-752277914f99f6844a2fb56b1db726cb]: Commencement: [S. 58(1)](https://www.legislation.gov.uk/ukpga/2009/24/section/58/1) in force at 22.3.2010 for specified purposes by [S.I. 2010/293](https://www.legislation.gov.uk/uksi/2010/293), [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2010/293/article/2/3/c) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2010/293/article/2/4))
+[^c-752277914f99f6844a2fb56b1db726cb]: Commencement: [S. 58(1)](https://www.legislation.gov.uk/ukpga/2009/24/section/58/1) in force at 22.3.2010 for specified purposes by [S.I. 2010/293](https://www.legislation.gov.uk/uksi/2010/293), [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2010/293/article/2/3/c) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2010/293/article/2/4))
 
-[^key-67008e555657c7472df5b7cddd973b54]: Commencement: [S. 58(1)](https://www.legislation.gov.uk/ukpga/2009/24/section/58/1) in force at 1.4.2010 for specified purposes by [S.I. 2010/293](https://www.legislation.gov.uk/uksi/2010/293), [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2010/293/article/2/5/b)
+[^c-67008e555657c7472df5b7cddd973b54]: Commencement: [S. 58(1)](https://www.legislation.gov.uk/ukpga/2009/24/section/58/1) in force at 1.4.2010 for specified purposes by [S.I. 2010/293](https://www.legislation.gov.uk/uksi/2010/293), [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2010/293/article/2/5/b)

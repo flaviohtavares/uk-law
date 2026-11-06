@@ -33,7 +33,7 @@ amending Delegated Regulation (EU) 2017/1799 as regards the exemption of the Ban
 
 (Text with EEA relevance)
 
-[^key-e555509292f597305bbc9adf08c1a4ae]
+[^c-e555509292f597305bbc9adf08c1a4ae]
 
 THE EUROPEAN COMMISSION,
 
@@ -139,7 +139,7 @@ Jean-Claude Juncker
 
 ## Annotations
 
-[^key-e555509292f597305bbc9adf08c1a4ae]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-e555509292f597305bbc9adf08c1a4ae]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ L 173, 12.6.2014, p. 84](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.173.01.0084.01.ENG).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Detention under Part 3 of the Mental Health Act 1983[^key-edf2bab5d75a9b8f4b4cf3c03c55ba6e]
+## 45. Detention under Part 3 of the Mental Health Act 1983[^c-edf2bab5d75a9b8f4b4cf3c03c55ba6e]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edf2bab5d75a9b8f4b4cf3c03c55ba6e]: Commencement: S. 45 in force at 2.11.2020 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 2(e)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/2/e)
+[^c-edf2bab5d75a9b8f4b4cf3c03c55ba6e]: Commencement: S. 45 in force at 2.11.2020 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 2(e)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/2/e)

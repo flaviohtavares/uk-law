@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86B. Interpretation of section 86A[^key-c106fd07f43db898c312f1b2b50c5843]
+## 86B. Interpretation of section 86A[^c-c106fd07f43db898c312f1b2b50c5843]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ and the Environment Agency has allocated funding by way of grant-in-aid to the p
 
 ## Annotations
 
-[^key-c106fd07f43db898c312f1b2b50c5843]: Textual amendment: Ss. 86A, 86B and cross-heading inserted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2015/11/schedule/5/paragraph/3)
+[^c-c106fd07f43db898c312f1b2b50c5843]: Textual amendment: Ss. 86A, 86B and cross-heading inserted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2015/11/schedule/5/paragraph/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Prohibition on unlicensed activities[^key-df9bc6047c06186de52e87c844d682a8]
+## 2. Prohibition on unlicensed activities[^c-df9bc6047c06186de52e87c844d682a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ which falls within subsection (4).
 
 ## Annotations
 
-[^key-df9bc6047c06186de52e87c844d682a8]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/52/section/2) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-df9bc6047c06186de52e87c844d682a8]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/52/section/2) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

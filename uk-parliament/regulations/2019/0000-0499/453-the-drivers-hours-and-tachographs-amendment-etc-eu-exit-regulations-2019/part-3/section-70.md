@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70.[^key-9fd0fb8468c409c0aafc9573c8cba43a]
+## 70.[^c-9fd0fb8468c409c0aafc9573c8cba43a]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,7 +53,7 @@ After Chapter 5 insert—
 
 ## Annotations
 
-[^key-9fd0fb8468c409c0aafc9573c8cba43a]: Commencement: Reg. 70 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-9fd0fb8468c409c0aafc9573c8cba43a]: Commencement: Reg. 70 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23621191]: Marginal citation: S.I. [1979 No. 1573](https://www.legislation.gov.uk/ukcm/1979/1573) (N.I. 12), to which there are amendments not relevant to these Regulations.
 

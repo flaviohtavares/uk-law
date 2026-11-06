@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Calculation of amount of accrued pension for purpose of deferment or retirement[^key-098cc695cc93fe71b5d7eb5c3f40371c]
+## 36. Calculation of amount of accrued pension for purpose of deferment or retirement[^c-098cc695cc93fe71b5d7eb5c3f40371c]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-098cc695cc93fe71b5d7eb5c3f40371c]: Commencement: Reg. 36 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-098cc695cc93fe71b5d7eb5c3f40371c]: Commencement: Reg. 36 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

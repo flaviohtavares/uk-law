@@ -44,13 +44,13 @@ The Secretary of State, in relation to England, and the National Assembly for Wa
 
 A draft of these Regulations has, under paragraph 2(2) of Schedule 2 to that Act, been laid before, and approved by resolution of, each House of Parliament:
 
-## 1. Title, extent and commencement[^key-9ebb7b499b0e1a682ea5eea32545b88d]
+## 1. Title, extent and commencement[^c-9ebb7b499b0e1a682ea5eea32545b88d]
 
 (1) These Regulations may be cited as the Animal Health Act 1981 (Amendment) Regulations 2005.
 
 (2) They extend to England and Wales and come into force on 10th January 2006.
 
-## 2. Amendment to the Animal Health Act 1981[^key-575d702b5c30cbc8abf5bcb693851f8c]
+## 2. Amendment to the Animal Health Act 1981[^c-575d702b5c30cbc8abf5bcb693851f8c]
 
 Before paragraph 3 of Schedule 3 to the Animal Health Act 1981[^f00003] (but after the cross-heading “Foot-and-mouth disease”) insert—
 
@@ -105,7 +105,7 @@ Before paragraph 3 of Schedule 3 to the Animal Health Act 1981[^f00003] (but aft
 >   - (c) in relation to premises which are situated partly in England and partly in Wales, either the Secretary of State or the National Assembly for Wales, as they agree between them (or, in the absence of agreement, the Secretary of State);
 > - “susceptible animal” means a cow, sheep, goat, deer, camel, llama, alpaca, guanaco, vicuna, any other ruminant or any swine (that is, a member of the suborder *Suina* of the order *Artiodactyla*).
 
-**3.**[^key-5ef53386139922d87ab5d0cd45e8e77e] In sub-paragraph (1) of paragraph 3 of that Schedule after “in any case” insert “also”.
+**3.**[^c-5ef53386139922d87ab5d0cd45e8e77e] In sub-paragraph (1) of paragraph 3 of that Schedule after “in any case” insert “also”.
 
 Ben Bradshaw
 
@@ -147,9 +147,9 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-9ebb7b499b0e1a682ea5eea32545b88d]: Commencement: Reg. 1 in force at 10.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3475/regulation/1/2)
+[^c-9ebb7b499b0e1a682ea5eea32545b88d]: Commencement: Reg. 1 in force at 10.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3475/regulation/1/2)
 
-[^key-575d702b5c30cbc8abf5bcb693851f8c]: Commencement: Reg. 2 in force at 10.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3475/regulation/1/2)
+[^c-575d702b5c30cbc8abf5bcb693851f8c]: Commencement: Reg. 2 in force at 10.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3475/regulation/1/2)
 
 [^f00003]: Footnote: [c.22](https://www.legislation.gov.uk/ukpga/1981/22), amended by the Animal Health Act [2002, c. 42](https://www.legislation.gov.uk/ukpga/2002/42).
 
@@ -157,4 +157,4 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00005]: Footnote: OJ No. L268, 14.9.1992, p54.
 
-[^key-5ef53386139922d87ab5d0cd45e8e77e]: Commencement: Reg. 3 in force at 10.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3475/regulation/1/2)
+[^c-5ef53386139922d87ab5d0cd45e8e77e]: Commencement: Reg. 3 in force at 10.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3475/regulation/1/2)

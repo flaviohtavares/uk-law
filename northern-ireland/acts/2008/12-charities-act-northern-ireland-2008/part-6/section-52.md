@@ -25,8 +25,8 @@ summary: ''
 (2) The conditions are—
 
 - (a) that an inquiry has been instituted under section 22;
-- (b) that there is on the premises to be specified in the warrant any document or information relevant to that inquiry which the Commission could require to be produced or provided[^key-8f45a74ebef9045909e5e14ac22109a2] under section 23(1); and
-- (c) that, if the Commission were to make an order requiring the document or information to be so produced or provided[^key-c454b4fe7af4febc8e6672802fbbb09e]—
+- (b) that there is on the premises to be specified in the warrant any document or information relevant to that inquiry which the Commission could require to be produced or provided[^c-8f45a74ebef9045909e5e14ac22109a2] under section 23(1); and
+- (c) that, if the Commission were to make an order requiring the document or information to be so produced or provided[^c-c454b4fe7af4febc8e6672802fbbb09e]—
   - (i) the order would not be complied with, or
   - (ii) the document or information would be removed, tampered with, concealed or destroyed.
 
@@ -85,6 +85,6 @@ or to both.
 
 ## Annotations
 
-[^key-8f45a74ebef9045909e5e14ac22109a2]: Textual amendment: Word in [s. 52(2)(b)](https://www.legislation.gov.uk/nia/2008/12/section/52/2/b) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 6(2)(b)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/6/2/b)
+[^c-8f45a74ebef9045909e5e14ac22109a2]: Textual amendment: Word in [s. 52(2)(b)](https://www.legislation.gov.uk/nia/2008/12/section/52/2/b) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 6(2)(b)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/6/2/b)
 
-[^key-c454b4fe7af4febc8e6672802fbbb09e]: Textual amendment: Word in [s. 52(2)(c)](https://www.legislation.gov.uk/nia/2008/12/section/52/2/c) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 6(2)(b)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/6/2/b)
+[^c-c454b4fe7af4febc8e6672802fbbb09e]: Textual amendment: Word in [s. 52(2)(c)](https://www.legislation.gov.uk/nia/2008/12/section/52/2/c) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 6(2)(b)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/6/2/b)

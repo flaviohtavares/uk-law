@@ -80,7 +80,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## 3. Funding of general expenses in respect of Museum.
 
-(1)[^key-46da473a6c56a91c15cb22245191a390] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-46da473a6c56a91c15cb22245191a390] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Section 43(4) of the Local Government Act 1985 (which makes provision concerning the funding of expenses in respect of the Museum and is superseded by this section) shall not have effect.
 
@@ -100,7 +100,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 .
 
-## 5. Reports.[^key-c42f9ef9c4e3048a24edcdb714736441]
+## 5. Reports.[^c-c42f9ef9c4e3048a24edcdb714736441]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -137,8 +137,8 @@ Section 7(3).
 
 [^c788467]: Marginal citation: [1965 c. 17](https://www.legislation.gov.uk/ukpga/1965/17).
 
-[^key-46da473a6c56a91c15cb22245191a390]: Textual amendment: S. 3(1) repealed (E.W.) (6.4.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [s. 59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7), [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/24/schedule/2); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/582/article/2/e)
+[^c-46da473a6c56a91c15cb22245191a390]: Textual amendment: S. 3(1) repealed (E.W.) (6.4.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [s. 59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7), [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/24/schedule/2); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/582/article/2/e)
 
 [^c788470]: Marginal citation: [1965 c. 17](https://www.legislation.gov.uk/ukpga/1965/17).
 
-[^key-c42f9ef9c4e3048a24edcdb714736441]: Textual amendment: S. 5 repealed (E.W.) (6.4.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 49](https://www.legislation.gov.uk/ukpga/2007/24/section/49), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7), [Schs. 2](https://www.legislation.gov.uk/ukpga/2007/24/schedule/2); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(c)(e)](https://www.legislation.gov.uk/uksi/2008/582/article/2/c/e)
+[^c-c42f9ef9c4e3048a24edcdb714736441]: Textual amendment: S. 5 repealed (E.W.) (6.4.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 49](https://www.legislation.gov.uk/ukpga/2007/24/section/49), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7), [Schs. 2](https://www.legislation.gov.uk/ukpga/2007/24/schedule/2); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(c)(e)](https://www.legislation.gov.uk/uksi/2008/582/article/2/c/e)

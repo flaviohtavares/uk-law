@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Scheduled provisions[^key-7389452cab977743f1710252a0e412a8]
+## 32. Scheduled provisions[^c-7389452cab977743f1710252a0e412a8]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7389452cab977743f1710252a0e412a8]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2014/10/section/32) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-7389452cab977743f1710252a0e412a8]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2014/10/section/32) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

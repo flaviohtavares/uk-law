@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Remuneration arrangements[^key-2a1aca4ceff1ba4de0cd5c17449951a4]
+## 13. Remuneration arrangements[^c-2a1aca4ceff1ba4de0cd5c17449951a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a1aca4ceff1ba4de0cd5c17449951a4]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2011/4/section/13) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(a)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-2a1aca4ceff1ba4de0cd5c17449951a4]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2011/4/section/13) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(a)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))

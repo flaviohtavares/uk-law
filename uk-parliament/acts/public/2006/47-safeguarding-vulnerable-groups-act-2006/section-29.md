@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Part 5 of the Police Act 1997: code of practice[^key-0bc5650b294e456238b9cb20065b6b9a]
+## 29. Part 5 of the Police Act 1997: code of practice[^c-0bc5650b294e456238b9cb20065b6b9a]
 
 *Extent: E+W+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bc5650b294e456238b9cb20065b6b9a]: Commencement: S. 29 in force at 20.1.2009 by [S.I. 2009/39](https://www.legislation.gov.uk/uksi/2009/39), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2009/39/article/2/1/d)
+[^c-0bc5650b294e456238b9cb20065b6b9a]: Commencement: S. 29 in force at 20.1.2009 by [S.I. 2009/39](https://www.legislation.gov.uk/uksi/2009/39), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2009/39/article/2/1/d)

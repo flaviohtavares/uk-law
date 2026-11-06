@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-4af9abb60a8804ca89ff52bafcc15e17][^key-3a1802e1b4ae1090e763f09242274c73] Part 1 of the Childcare Act 2006 (functions of local authorities in England in relation to childcare) is amended as set out in subsections (2) and (3).
+(1)[^c-4af9abb60a8804ca89ff52bafcc15e17][^c-3a1802e1b4ae1090e763f09242274c73] Part 1 of the Childcare Act 2006 (functions of local authorities in England in relation to childcare) is amended as set out in subsections (2) and (3).
 
-(2)[^key-8c81ccf4ec7536caa09575ceb606627d][^key-3a1802e1b4ae1090e763f09242274c73] For section 7 (duty to secure prescribed early years provision free of charge) substitute—
+(2)[^c-8c81ccf4ec7536caa09575ceb606627d][^c-3a1802e1b4ae1090e763f09242274c73] For section 7 (duty to secure prescribed early years provision free of charge) substitute—
 
 > **7. Duty to secure early years provision free of charge in accordance with regulations**
 >
@@ -38,7 +38,7 @@ summary: ''
 >
 > (3) In discharging the duty under subsection (1) a local authority must have regard to any guidance given from time to time by the Secretary of State.
 
-(3)[^key-77a67a44619cfb49b10504bb4e0de6c7] After section 13 insert—
+(3)[^c-77a67a44619cfb49b10504bb4e0de6c7] After section 13 insert—
 
 > **13A. Supply of information: free of charge early years provision**
 >
@@ -94,16 +94,16 @@ summary: ''
 >
 > (5) In relation to an offence committed before the commencement of section 154(1) of the Criminal Justice Act 2003, the reference in subsection (4)(b) to 12 months is to be read as a reference to 6 months.
 
-(4)[^key-7338abbddd24088840887256b348944d] Section 100 of the Childcare Act 2006 (provision of information about young children: transitory provision) is repealed.
+(4)[^c-7338abbddd24088840887256b348944d] Section 100 of the Childcare Act 2006 (provision of information about young children: transitory provision) is repealed.
 
 ## Annotations
 
-[^key-4af9abb60a8804ca89ff52bafcc15e17]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/1/1) in force at 1.9.2012 for specified purposes by [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)
+[^c-4af9abb60a8804ca89ff52bafcc15e17]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/1/1) in force at 1.9.2012 for specified purposes by [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)
 
-[^key-3a1802e1b4ae1090e763f09242274c73]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2011/21/section/1/2) in force at 1.9.2013 in so far as not already in force by [S.I. 2012/2213](https://www.legislation.gov.uk/uksi/2012/2213), [art. 5](https://www.legislation.gov.uk/uksi/2012/2213/article/5)
+[^c-3a1802e1b4ae1090e763f09242274c73]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2011/21/section/1/2) in force at 1.9.2013 in so far as not already in force by [S.I. 2012/2213](https://www.legislation.gov.uk/uksi/2012/2213), [art. 5](https://www.legislation.gov.uk/uksi/2012/2213/article/5)
 
-[^key-8c81ccf4ec7536caa09575ceb606627d]: Commencement: [S. 1(2)](https://www.legislation.gov.uk/ukpga/2011/21/section/1/2) in force at 1.9.2012 for specified purposes by [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)
+[^c-8c81ccf4ec7536caa09575ceb606627d]: Commencement: [S. 1(2)](https://www.legislation.gov.uk/ukpga/2011/21/section/1/2) in force at 1.9.2012 for specified purposes by [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)
 
-[^key-77a67a44619cfb49b10504bb4e0de6c7]: Commencement: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/1/3) in force at 1.9.2012 by [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)
+[^c-77a67a44619cfb49b10504bb4e0de6c7]: Commencement: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/1/3) in force at 1.9.2012 by [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)
 
-[^key-7338abbddd24088840887256b348944d]: Commencement: [S. 1(4)](https://www.legislation.gov.uk/ukpga/2011/21/section/1/4) in force at 1.9.2012 by [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)
+[^c-7338abbddd24088840887256b348944d]: Commencement: [S. 1(4)](https://www.legislation.gov.uk/ukpga/2011/21/section/1/4) in force at 1.9.2012 by [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)

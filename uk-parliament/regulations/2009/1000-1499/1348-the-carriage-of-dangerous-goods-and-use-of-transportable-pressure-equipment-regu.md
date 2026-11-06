@@ -52,7 +52,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 [^c19725071]In accordance with section 50(1) and (1AA) of the Health and Safety at Work etc. Act 1974 the Secretary of State has consulted the Health and Safety Executive and such other bodies as appear to the Secretary of State to be appropriate.
 
-In accordance with paragraph 2(7) of Schedule 3 to the Railways Act 2005 [^c19725081] the Secretary of State has consulted the Office of Rail Regulation.[^key-09700266a9b69861fbf804b9dc77caed]
+In accordance with paragraph 2(7) of Schedule 3 to the Railways Act 2005 [^c19725081] the Secretary of State has consulted the Office of Rail Regulation.[^c-09700266a9b69861fbf804b9dc77caed]
 
 ## PART 1 — INTRODUCTORY PROVISIONS
 
@@ -87,44 +87,44 @@ Table
 | “the 2007 Regulations” | The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 [^c19725091]. |
 | “ADN” | The Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterway [^c19725101], as revised or reissued from time to time. |
 | “ADR” | Annexes A and B to the European Agreement concerning the International Carriage of Dangerous Goods by Road [^c19725111], as revised or reissued from time to time.<br>But—<br>- (a) to the extent that a reference in these Regulations to ADR is a reference to ADR as it applied for the purposes of the 2007 Regulations, it has the same meaning as in the Table in regulation 2 of those Regulations; and<br>- (b) in regulation 14(6)(b) it means Annexes A and B as in force on the date in question. |
-| “the Annexes”[^key-5b301636992fb91915b821b906edc968] | Subject to paragraphs (6) and (7), Annexes I and II to the Dangerous Goods Directive. |
+| “the Annexes”[^c-5b301636992fb91915b821b906edc968] | Subject to paragraphs (6) and (7), Annexes I and II to the Dangerous Goods Directive. |
 | “appointed body” | A body appointed to carry out inspections of and tests on transportable pressure equipment by the GB competent authority under regulation 29 for the purposes of ADR and RID (as applicable). |
 | “armed forces” | Means—<br>- (a) one of Her Majesty's Forces within the meaning of the Armed Forces Act 2006 [^c19725121];<br>- (b) the Ministry of Defence Police [^c19725131];<br>- (c) a visiting force within the meaning of Part 1 of the Visiting Forces Act 1952 [^c19725141]; or<br>- (d) a headquarters or organisation designated for the purposes of the International Headquarters and Defence Organisations Act 1964 [^c19725151]. |
-| “certificate of conformity”[^key-e1ee2b0b48617c348010a9ee6b61db5e] | The document issued to confirm successful completion of a conformity assessment. |
-| “civil carriage of class 7 goods”[^key-e7c96fc2556823284f286b25a9e86089] | The carriage of class 7 goods by road, rail or inland waterway otherwise than for the purposes of the department of Secretary of State having responsibility for Defence. |
-| “conformity assessment”[^key-e06595d86888d270a50d12f713ca4349] | The assessment and the procedure for assessment of conformity set out in—<br>- (a) the Annexes to the Dangerous Goods Directive, where the assessment by an appointed body will culminate in the equipment being marked with the UK TPE marking; or<br>- (b) the Directives, where the assessment by a notified body will culminate in the equipment being marked with the pi marking. |
-| [^key-61fc95a9be9d13b455fdbe51a7f62cef]. . . | [^key-61fc95a9be9d13b455fdbe51a7f62cef]. . . |
+| “certificate of conformity”[^c-e1ee2b0b48617c348010a9ee6b61db5e] | The document issued to confirm successful completion of a conformity assessment. |
+| “civil carriage of class 7 goods”[^c-e7c96fc2556823284f286b25a9e86089] | The carriage of class 7 goods by road, rail or inland waterway otherwise than for the purposes of the department of Secretary of State having responsibility for Defence. |
+| “conformity assessment”[^c-e06595d86888d270a50d12f713ca4349] | The assessment and the procedure for assessment of conformity set out in—<br>- (a) the Annexes to the Dangerous Goods Directive, where the assessment by an appointed body will culminate in the equipment being marked with the UK TPE marking; or<br>- (b) the Directives, where the assessment by a notified body will culminate in the equipment being marked with the pi marking. |
+| [^c-61fc95a9be9d13b455fdbe51a7f62cef]. . . | [^c-61fc95a9be9d13b455fdbe51a7f62cef]. . . |
 | “COTIF” | The Convention concerning International Carriage by Rail [^c19725161], as revised or re-issued from time to time. |
-| “the Dangerous Goods Directive” | Subject to paragraphs (6) and (7),[^key-f07fd8f6b0fc8281153feddce1de3953] Directive [2008/68/EC](https://www.legislation.gov.uk/eudr/2008/68) of the European Parliament and of the Council of 24th September 2008 on the inland transport of dangerous goods [^c19725171], as it had effect immediately before IP completion day[^key-0350fc93eab9e862dfc56b09765c269f]. |
-| the “Directives”[^key-d06215132beb4f96e319e6760f104d1f] | Subject to paragraphs (6) and (7), the[^key-e1653344bd7078ee61b369cd98286071] Dangerous Goods Directive and the Transportable Pressure Equipment Directive. |
-| “distributor”[^key-cc0be2120aef6e68aa45f62df42fbd98] | Subject to regulation 19(3)(b) and (4)(b), any person established in the United Kingdom, other than the manufacturer or the importer, who makes transportable pressure equipment, or parts thereof, available on the GB market. |
+| “the Dangerous Goods Directive” | Subject to paragraphs (6) and (7),[^c-f07fd8f6b0fc8281153feddce1de3953] Directive [2008/68/EC](https://www.legislation.gov.uk/eudr/2008/68) of the European Parliament and of the Council of 24th September 2008 on the inland transport of dangerous goods [^c19725171], as it had effect immediately before IP completion day[^c-0350fc93eab9e862dfc56b09765c269f]. |
+| the “Directives”[^c-d06215132beb4f96e319e6760f104d1f] | Subject to paragraphs (6) and (7), the[^c-e1653344bd7078ee61b369cd98286071] Dangerous Goods Directive and the Transportable Pressure Equipment Directive. |
+| “distributor”[^c-cc0be2120aef6e68aa45f62df42fbd98] | Subject to regulation 19(3)(b) and (4)(b), any person established in the United Kingdom, other than the manufacturer or the importer, who makes transportable pressure equipment, or parts thereof, available on the GB market. |
 | “fire and rescue authority” | The fire and rescue authority under the Fire and Rescue Services Act 2004 [^c19725181] |
 | “the GB competent authority” | The competent authority in Great Britain for the purposes of these Regulations as determined under regulation 25.<br>But a reference to “**2007 GB Competent Authority**” is a reference to the competent authority in Great Britain for the purposes of the 2007 Regulations. |
-| “importer”[^key-a0de41d75f234c2878ae28ef33437f49] | Subject to regulation 19(3)(a) and (4)(a), a person who—<br>- (a) is established in the United Kingdom; and<br>- (b) places transportable pressure equipment or parts thereof from a country outside of the United Kingdom, on the GB market. |
-| “making available on the GB market” and like expressions | Subsequent to the transportable pressure equipment being placed on the Great Britain market, any supply of that equipment for distribution or use on that market in the course of a commercial or public service activity, including any supply on a hire, lease or rental basis,[^key-2681ccb103cac26621b55a9b513295c9] whether in return for payment or free of charge. |
+| “importer”[^c-a0de41d75f234c2878ae28ef33437f49] | Subject to regulation 19(3)(a) and (4)(a), a person who—<br>- (a) is established in the United Kingdom; and<br>- (b) places transportable pressure equipment or parts thereof from a country outside of the United Kingdom, on the GB market. |
+| “making available on the GB market” and like expressions | Subsequent to the transportable pressure equipment being placed on the Great Britain market, any supply of that equipment for distribution or use on that market in the course of a commercial or public service activity, including any supply on a hire, lease or rental basis,[^c-2681ccb103cac26621b55a9b513295c9] whether in return for payment or free of charge. |
 | “manufactured in series to a design type” | Equipment that is one of a series of products manufactured to the same design. |
 | “manufacturer” | A person who—<br>- (a) manufactures transportable pressure equipment, or parts thereof, or who has such equipment designed or manufactured; and<br>- (b) markets it under their own name or trademark. |
 | “national carriage” | Carriage that includes carriage in Great Britain and does not include carriage outside the United Kingdom. |
-| “Northern Ireland competent authority”[^key-08a0c48452cc4aa7cc534722a94b284f] | The competent authority in Northern Ireland, as defined in regulation 21 of the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010, under regulation 25 of those Regulations. |
-| “Northern Ireland TPE”[^key-103c9c9916c12f469fedcb7bf7807cba] | Transportable pressure equipment which—<br>(a) complies with Part 4 of the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010, and<br>(b) is “qualifying Northern Ireland goods” within the meaning given in regulations made under section 8C(6) of the European Union (Withdrawal) Act 2018. |
+| “Northern Ireland competent authority”[^c-08a0c48452cc4aa7cc534722a94b284f] | The competent authority in Northern Ireland, as defined in regulation 21 of the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010, under regulation 25 of those Regulations. |
+| “Northern Ireland TPE”[^c-103c9c9916c12f469fedcb7bf7807cba] | Transportable pressure equipment which—<br>(a) complies with Part 4 of the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010, and<br>(b) is “qualifying Northern Ireland goods” within the meaning given in regulations made under section 8C(6) of the European Union (Withdrawal) Act 2018. |
 | “notified body” | An inspection body appearing on the list published by the European Commission pursuant to article 23(2) of the Transportable Pressure Equipment Directive. |
 | “operator” | A person established in a relevant territory who uses transportable pressure equipment. |
 | “owner” | A person established in the United Kingdom who owns transportable pressure equipment. |
-| “pi marking” | The mark referred to in article 14 of the Transportable Pressure Equipment Directive, the form of which is set out in article 15 of that Directive [^key-8fc47d85a574880e97c58cba98203eb6]... . |
-| “pi marked TPE” | Transportable pressure equipment bearing the pi marking , but excluding Northern Ireland TPE[^key-399182b0ebea371866a271cea680fe25] . |
+| “pi marking” | The mark referred to in article 14 of the Transportable Pressure Equipment Directive, the form of which is set out in article 15 of that Directive [^c-8fc47d85a574880e97c58cba98203eb6]... . |
+| “pi marked TPE” | Transportable pressure equipment bearing the pi marking , but excluding Northern Ireland TPE[^c-399182b0ebea371866a271cea680fe25] . |
 | “placing on the GB market” and like expressions | The first making available of transportable pressure equipment on the Great Britain market. |
-| [^key-508b8379340fd776bf8c54cdce09a5bb]. . . | [^key-508b8379340fd776bf8c54cdce09a5bb]. . . |
-| “relevant territory”[^key-b383cea41554d1502a36a8b9d96614ac] | Great Britain, Northern Ireland or a member State of the EU. |
+| [^c-508b8379340fd776bf8c54cdce09a5bb]. . . | [^c-508b8379340fd776bf8c54cdce09a5bb]. . . |
+| “relevant territory”[^c-b383cea41554d1502a36a8b9d96614ac] | Great Britain, Northern Ireland or a member State of the EU. |
 | “RID” | The Annex to the Regulation concerning the international carriage of dangerous goods by rail which forms Appendix C to COTIF [^c19725201], as revised or reissued from time to time.<br>But—<br>- (a) to the extent that a reference in these Regulations to RID is a reference to RID as it applied for the purposes of the 2007 Regulations, it has the same meaning as in the Table in regulation 2 of those Regulations; and<br>- (b) in regulation 14(6)(b) it means the Annex as in force on the date in question. |
 | “the security provisions” | The prohibitions and requirements of Chapter 1.10 (including those requirements deemed to be part of ADR in consequence of regulations 7 and 8.) |
-| “TPED competent authority”[^key-8f2b4c01c700c02aed1b403c549ab71e] | The GB competent authority or the competent national authority in respect of the Transportable Pressure Equipment Directive in Northern Ireland or a member State of the EU.[^key-99d9303377b16ddad445232fe24656ee] |
-| “the Transportable Pressure Equipment Directive”[^key-4e89c3169729bf45555930ee55e8417d] | Directive 2010/35/EU of the European Parliament and the Council of 16 June 2010 on transportable pressure equipment and repealing Council Directives [76/767/EEC](https://www.legislation.gov.uk/eudr/1976/767), [84/525/EEC](https://www.legislation.gov.uk/eudr/1984/525), [84/526/EEC](https://www.legislation.gov.uk/eudr/1984/526), [84/527/EEC](https://www.legislation.gov.uk/eudr/1984/527) and [1999/36/EC](https://www.legislation.gov.uk/eudr/1999/36) , as it had effect immediately before IP completion day[^key-5e84c457d3f86be239207b5f06d1366e]. |
-| “UK TPE”[^key-bb150a500c24f8b89379f0a9b9fb1c01] | Transportable pressure equipment bearing the UK TPE marking. |
+| “TPED competent authority”[^c-8f2b4c01c700c02aed1b403c549ab71e] | The GB competent authority or the competent national authority in respect of the Transportable Pressure Equipment Directive in Northern Ireland or a member State of the EU.[^c-99d9303377b16ddad445232fe24656ee] |
+| “the Transportable Pressure Equipment Directive”[^c-4e89c3169729bf45555930ee55e8417d] | Directive 2010/35/EU of the European Parliament and the Council of 16 June 2010 on transportable pressure equipment and repealing Council Directives [76/767/EEC](https://www.legislation.gov.uk/eudr/1976/767), [84/525/EEC](https://www.legislation.gov.uk/eudr/1984/525), [84/526/EEC](https://www.legislation.gov.uk/eudr/1984/526), [84/527/EEC](https://www.legislation.gov.uk/eudr/1984/527) and [1999/36/EC](https://www.legislation.gov.uk/eudr/1999/36) , as it had effect immediately before IP completion day[^c-5e84c457d3f86be239207b5f06d1366e]. |
+| “UK TPE”[^c-bb150a500c24f8b89379f0a9b9fb1c01] | Transportable pressure equipment bearing the UK TPE marking. |
 | “UK TPE marking” | The marking in the form published in accordance with regulation 22B. |
 | “vehicle” | Has the meaning given in article 2 of the Dangerous Goods Directive except that the words “at least four wheels and” are to be omitted. |
 | “wagon” | Has the meaning given in article 2 of the Dangerous Goods Directive. |
 
-(6)[^key-8587bab9a48a49793f474feeffea0a8c] References to—
+(6)[^c-8587bab9a48a49793f474feeffea0a8c] References to—
 
 - (a) “the Annexes”;
 - (b) “the Dangerous Goods Directive”; and
@@ -144,7 +144,7 @@ to the Dangerous Goods Directive are to be read as if “as applicable with effe
 For the purposes of these Regulations—
 
 - (a) the scope of ADR, RID and ADN is deemed to include national as well as international carriage;
-- (b) a member State of the EU[^key-be81f7e864e1aacc42ac084dca559689] which is not a Contracting Party to ADR or ADN is deemed to be a Contracting Party to ADR or ADN (as the case may be);
+- (b) a member State of the EU[^c-be81f7e864e1aacc42ac084dca559689] which is not a Contracting Party to ADR or ADN is deemed to be a Contracting Party to ADR or ADN (as the case may be);
 - (c) a member State of the EUwhich is not a Member State of COTIF is deemed to be a Member State of COTIF;
 - (d) a reference in—
   - (i) ADR or RID to “competent military authority”;
@@ -153,14 +153,14 @@ For the purposes of these Regulations—
 
   is to be treated as a reference to “competent authority” unless the context requires otherwise;
 - (e) Sub-section 1.1.4.4 of RID applies as if the words “or the provisions of the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 in so far as they relate to carriage by road” were included after the words “provisions of ADR”;
-- (f)[^key-a5f5fb4eef6ba0d66007b5c5871b025a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-a5f5fb4eef6ba0d66007b5c5871b025a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-a5f5fb4eef6ba0d66007b5c5871b025a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-a5f5fb4eef6ba0d66007b5c5871b025a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-a5f5fb4eef6ba0d66007b5c5871b025a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-a5f5fb4eef6ba0d66007b5c5871b025a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-a5f5fb4eef6ba0d66007b5c5871b025a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-a5f5fb4eef6ba0d66007b5c5871b025a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) the words “The competent authorities of the Contracting Parties may provide that” are omitted from Sub-section 1.8.3.2 of ADR;
 - (k) the words “The competent authorities of the Member States may provide that” are omitted from Sub-section 1.8.3.2 of RID;
-- (l) the reference in Sub-section 1.8.3.3 to “national authorities” is to be treated as a reference to “the GB competent authority or an enforcement authority”; [^key-3c07d6a4fbeb0b834e9e657260e2eb66]...
-- (m) Sub-section 5.3.4 of RID is omitted;[^key-bc4eb9e53856984999930534ac7c0079]
+- (l) the reference in Sub-section 1.8.3.3 to “national authorities” is to be treated as a reference to “the GB competent authority or an enforcement authority”; [^c-3c07d6a4fbeb0b834e9e657260e2eb66]...
+- (m) Sub-section 5.3.4 of RID is omitted;[^c-bc4eb9e53856984999930534ac7c0079]
 - (n) Sub-sections 2.2.1.1.2, 2.2.1.1.3 and 2.2.1.1.4 of ADR apply as if the words “by the competent authority of a Contracting Party” were included after the word “assigned”; and
 - (o) Sub-sections 2.2.1.1.2, 2.2.1.1.3 and 2.2.1.1.4 of RID apply as if the words “by the competent authority of a Member State of COTIF” were included after the word “assigned”.
 
@@ -168,9 +168,9 @@ For the purposes of these Regulations—
 
 (1) These Regulations apply in relation to the carriage of dangerous goods by road and by rail.
 
-(1A)[^key-a964fc2a1c305b7fe18a4ade881c8498] Part 5 of these Regulations also applies in relation to the carriage of class 7 goods by inland waterway.
+(1A)[^c-a964fc2a1c305b7fe18a4ade881c8498] Part 5 of these Regulations also applies in relation to the carriage of class 7 goods by inland waterway.
 
-(2) Parts 1 to 4, 6 and 7 of these Regulations[^key-fa09053abe52fe19e7415be598e952af] apply in relation to the carriage of dangerous goods by inland waterway but only to the extent that they apply Sub-sections 1.8.3.7 to 1.8.3.16 (which relate to the training and examination system for safety advisers and the connected issuing and renewal of vocational training certificates).
+(2) Parts 1 to 4, 6 and 7 of these Regulations[^c-fa09053abe52fe19e7415be598e952af] apply in relation to the carriage of dangerous goods by inland waterway but only to the extent that they apply Sub-sections 1.8.3.7 to 1.8.3.16 (which relate to the training and examination system for safety advisers and the connected issuing and renewal of vocational training certificates).
 
 (3) These Regulations do not apply in relation to the carriage of dangerous goods on any part of the Channel Tunnel system.
 
@@ -236,12 +236,12 @@ are deemed to be requirements of Section 5.3.2 and any conflicting requirements 
 
 - (a) “**designated parking area**” means—
   - (i) in relation to an airport or railway transhipment depot or siding, an area allocated by the occupier as an area for parking vehicles carrying class 1 goods; and
-  - (ii)[^key-94aa659164b4acdb79d942953dc7926d] in relation to a harbour or harbour area, a parking area designated for the purposes of regulation 13 of the Dangerous Goods in Harbour Areas Regulations 2016;
+  - (ii)[^c-94aa659164b4acdb79d942953dc7926d] in relation to a harbour or harbour area, a parking area designated for the purposes of regulation 13 of the Dangerous Goods in Harbour Areas Regulations 2016;
 - (b) “**qualifying premises**” means—
   - (i) premises under the control of the Secretary of State for Defence;
   - (ii) a safe and secure place; or
   - (iii) a designated parking area in an airport, a railway transhipment depot or siding or a harbour or harbour area; and
-- (c)[^key-b1c7377dd166b4f8dab00e3bcc6f5653] “a safe and secure place” means a safe and secure place—
+- (c)[^c-b1c7377dd166b4f8dab00e3bcc6f5653] “a safe and secure place” means a safe and secure place—
   - (i) within a site in relation to which a person is licensed to manufacture or store explosives under regulation 13 of the Explosives Regulations 2014; or
   - (ii) at which the manufacture or storage of explosives may lawfully take place by virtue of a certificate of exemption granted under those Regulations.
 
@@ -291,7 +291,7 @@ are deemed to be requirements of Section 5.3.2 and any conflicting requirements 
 
 (2) But paragraph (1) only applies for the purposes of—
 
-- (a)[^key-d4c2a1f1c1a42ca60d741b8483ded737] implementing a derogation authorised under article 6(2) to (4) of and listed in—
+- (a)[^c-d4c2a1f1c1a42ca60d741b8483ded737] implementing a derogation authorised under article 6(2) to (4) of and listed in—
   - (i) section I.3 of Annex I, or
   - (ii) section II.3 of Annex II
 
@@ -303,20 +303,20 @@ are deemed to be requirements of Section 5.3.2 and any conflicting requirements 
   to the Dangerous Goods Directive, subject to the modification in paragraph (3); or
 - (c) ensuring that carriage to which these Regulations apply, but the Dangerous Goods Directive, ADR or RID does not apply, is carried out in a manner consistent with a derogation or transitional provision referred to at sub-paragraph (a) or (b).
 
-(3)[^key-704c90997682e6cff300deea707d37af] The modification referred to in paragraphs (2)(a) and (b) apply to the identified sections of those Annexes to the Dangerous Goods Directive, and are that any reference to a member State is to be read as a reference to—
+(3)[^c-704c90997682e6cff300deea707d37af] The modification referred to in paragraphs (2)(a) and (b) apply to the identified sections of those Annexes to the Dangerous Goods Directive, and are that any reference to a member State is to be read as a reference to—
 
 - (a) the UK, or
 - (b) a member State of the EU.
 
-(4)[^key-48f843cfacf8d954552db3febf97ba75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-48f843cfacf8d954552db3febf97ba75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-48f843cfacf8d954552db3febf97ba75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-48f843cfacf8d954552db3febf97ba75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The Secretary of State may not bring to an end, or substantially alter, an exemption unless those who might be affected have been consulted.
 
-(7) This regulation does not limit the power to issue an authorisation under regulation 12(1) or an exception under regulation 11A(1)[^key-ca991e574262eda44cee5618bc9abefe].
+(7) This regulation does not limit the power to issue an authorisation under regulation 12(1) or an exception under regulation 11A(1)[^c-ca991e574262eda44cee5618bc9abefe].
 
-### 11A. Exceptions[^key-afa267c28c36bbfe73a4bfb467c60d01]
+### 11A. Exceptions[^c-afa267c28c36bbfe73a4bfb467c60d01]
 
 (1) The Secretary of State may issue an exception from the requirements and prohibitions arising under Part 2 of these Regulations when satisfied that safety would not be compromised and either—
 
@@ -370,7 +370,7 @@ that exemption or exception is to be set out in a document called “Carriage of
 | --- | --- |
 | The Secretary of State for Transport | The carriage is national carriage |
 | The Secretary of State for Defence | The conditions are as follows—<br>- (a)<br>  - (i) the carriage is national carriage; and<br>  - (ii) either—<br>    - (aa) the authorisation relates to prohibitions and requirements arising out of functions for which the Secretary of State for Defence is the GB competent authority; or<br>    - (bb) it is in the interests of national security to disapply the prohibitions and requirements that are the subject of the authorisation; or<br>- (b) the carriage is by a vehicle or wagon belonging to or under the responsibility of one of the armed forces and it is not reasonably practicable for operational, training or security reasons related to the role of the armed forces for the prohibitions and requirements disapplied by the authorisation to apply to the carriage. |
-| The Office for Nuclear Regulation[^key-20668bc899ef1e542c4acb7c671e5d12] | The carriage is national carriage and the authorisation relates to prohibitions and requirements arising out of functions for which the Office for Nuclear Regulation is the GB competent authority. |
+| The Office for Nuclear Regulation[^c-20668bc899ef1e542c4acb7c671e5d12] | The carriage is national carriage and the authorisation relates to prohibitions and requirements arising out of functions for which the Office for Nuclear Regulation is the GB competent authority. |
 | The Health and Safety Executive | The carriage is national carriage and the authorisation relates to prohibitions and requirements arising out of functions for which the Health and Safety Executive is the GB competent authority. |
 
 (2) An authorisation issued pursuant to paragraph (1) must be in writing and must set out—
@@ -395,7 +395,7 @@ that exemption or exception is to be set out in a document called “Carriage of
 (3) The exemption set out in paragraph (2) only applies if the tank or pressure receptacle being used for carriage —
 
 - (a) is clearly marked or labelled to show that it is suitable for national carriage only; and
-- (b) does not carry the pi marking[^key-624665bb247ab3a8684e564166f0ec43].
+- (b) does not carry the pi marking[^c-624665bb247ab3a8684e564166f0ec43].
 
 ### 14. Old pressure receptacles
 
@@ -419,7 +419,7 @@ that exemption or exception is to be set out in a document called “Carriage of
   - (ii) the nature of solvent used; and
   - (iii) the maximum safe operating pressure of the old pressure receptacle.
 
-(5) An old pressure receptacle which is of seamless construction or has contained acetylene and in relation to which a modification, major repair or re-rating has been undertaken , after these Regulations have come into force,[^key-16ff6241feaba2277d45ba5eddc74535] may not be used for the carriage of dangerous goods.
+(5) An old pressure receptacle which is of seamless construction or has contained acetylene and in relation to which a modification, major repair or re-rating has been undertaken , after these Regulations have come into force,[^c-16ff6241feaba2277d45ba5eddc74535] may not be used for the carriage of dangerous goods.
 
 (6) In this regulation “**old pressure receptacle**” means a cylinder, tube, pressure drum, closed cryogenic receptacle or bundle of cylinders—
 
@@ -428,7 +428,7 @@ that exemption or exception is to be set out in a document called “Carriage of
   - (ii) in the case of other pressure receptacles, on or before 9th May 2004;
 - (b) which did not meet the design and construction requirements applicable to that receptacle that were set out in ADR or RID as in force on the date construction was completed;
 - (c) which did comply with the design and construction requirements imposed under the law of the United Kingdom in force on the date construction was completed; and
-- (d) which has not been subject to a reassessment of conformity pursuant to a provision of the law of United Kingdom or an EEA State[^key-6cc9fb68785bfe768a8dac154c4e9dfc] giving effect to article 5 of the Transportable Pressure Equipment Directive (including regulations 20A and 21[^key-87ebc9eabbcf648992c3634a3c61c5a0] of these Regulations).
+- (d) which has not been subject to a reassessment of conformity pursuant to a provision of the law of United Kingdom or an EEA State[^c-6cc9fb68785bfe768a8dac154c4e9dfc] giving effect to article 5 of the Transportable Pressure Equipment Directive (including regulations 20A and 21[^c-87ebc9eabbcf648992c3634a3c61c5a0] of these Regulations).
 
 ### 15. Carriage within the perimeter of an enclosed area
 
@@ -459,15 +459,15 @@ Part 2 of these Regulations does not apply in relation to the carriage of class 
 
 ## PART 4 — TRANSPORTABLE PRESSURE EQUIPMENT
 
-### 19. Scope of Obligations[^key-75c85fd430db907be5c9dd2c2bfa93ec]
+### 19. Scope of Obligations[^c-75c85fd430db907be5c9dd2c2bfa93ec]
 
-(1) Regulations 19A to 19F apply to transportable pressure equipment within the scope of the Transportable Pressure Equipment Directive by virtue of article 1(2)(a) of that Directive , subject to the modification in paragraph (1A)[^key-21e3aa6439dbdb53a75d1d9bb06cc94f].
+(1) Regulations 19A to 19F apply to transportable pressure equipment within the scope of the Transportable Pressure Equipment Directive by virtue of article 1(2)(a) of that Directive , subject to the modification in paragraph (1A)[^c-21e3aa6439dbdb53a75d1d9bb06cc94f].
 
-(1A)[^key-3fbd0b31592792e50d8a0e43fa688764] The modification referred to in paragraph (1) is that the reference to “making it available on the market” in that article is to be read as a reference to making it available on the GB market, as defined by these Regulations.
+(1A)[^c-3fbd0b31592792e50d8a0e43fa688764] The modification referred to in paragraph (1) is that the reference to “making it available on the market” in that article is to be read as a reference to making it available on the GB market, as defined by these Regulations.
 
 (2) For the avoidance of doubt, any reference in those regulations to a manufacturer, importer, distributor, owner or operator as “it” is not to be construed as excluding a natural person.
 
-(3)[^key-a1217eee0a586b601b66839844addd45] Where transportable pressure equipment has been—
+(3)[^c-a1217eee0a586b601b66839844addd45] Where transportable pressure equipment has been—
 
 - (a) placed on the GB market by an importer; or
 - (b) made available on the GB market by a distributor
@@ -482,7 +482,7 @@ prior to IP completion day, references to those economic operators in the regula
   - (iii) regulation 19E(2)(a), and
 - (b) in respect of a distributor, regulation 19E(2)(a).
 
-### 19A. General Obligations[^key-ac7c6849149c6c5d067a5190ef09be3e]
+### 19A. General Obligations[^c-ac7c6849149c6c5d067a5190ef09be3e]
 
 (1) A manufacturer, importer, distributor, owner or operator may only place or make available on the market, put into service or use equipment if it ensures that the equipment meets the requirements of the Dangerous Goods Directive.
 
@@ -495,14 +495,14 @@ prior to IP completion day, references to those economic operators in the regula
 
 (4) Paragraph (5) applies where a manufacturer, importer, distributor or owner provides to an operator information about equipment it has placed or made available on the market, or put into service.
 
-(5)[^key-2660a06c0615490d63059a9007151d19] The information must comply with—
+(5)[^c-2660a06c0615490d63059a9007151d19] The information must comply with—
 
 - (a) the Annexes in respect of UK TPE; or
-- (b) the Directives in respect of pi marked TPE and Northern Ireland TPE[^key-2e1540b3002cc5288b079c672c2579ab].
+- (b) the Directives in respect of pi marked TPE and Northern Ireland TPE[^c-2e1540b3002cc5288b079c672c2579ab].
 
 (6) This regulation does not apply to an owner who is a private individual using or intending to use equipment in the circumstances set out in article 8(4) of the Transportable Pressure Equipment Directive.
 
-### 19AZA. Prohibition on placing or making available certain transportable pressure equipment on the GB market on or after 1st January 2023[^key-4d76bc66a93542f39308366a834539d5]
+### 19AZA. Prohibition on placing or making available certain transportable pressure equipment on the GB market on or after 1st January 2023[^c-4d76bc66a93542f39308366a834539d5]
 
 (1) A manufacturer, importer, or distributor may only place equipment on the GB market on or after 1st January 2023 if the equipment is UK TPE or Northern Ireland TPE.
 
@@ -517,7 +517,7 @@ prior to IP completion day, references to those economic operators in the regula
 - (b) the appointed body referred to in sub-paragraph (a) accepts responsibility for the notified body conformity assessment; and
 - (c) the appointed body issues a certificate of conformity relying, or relying in part, on any examinations or tests undertaken prior to the issue of the notified body conformity assessment.
 
-### 19AA. Obligations of Manufacturers prior to placing equipment on the GB market[^key-e43d806f3f7fd23b5a22b57f868043cd]
+### 19AA. Obligations of Manufacturers prior to placing equipment on the GB market[^c-e43d806f3f7fd23b5a22b57f868043cd]
 
 (1) A manufacturer of equipment to be placed on the GB market must comply with paragraph (2) or (3).
 
@@ -531,34 +531,34 @@ prior to IP completion day, references to those economic operators in the regula
 
   for the period specified in those Agreements.
 
-(3) Where it is intended that the equipment becomes Northern Ireland TPE[^key-9e356fc7c111340b3bc0cf8ce2f5bf65], the manufacturer must—
+(3) Where it is intended that the equipment becomes Northern Ireland TPE[^c-9e356fc7c111340b3bc0cf8ce2f5bf65], the manufacturer must—
 
 - (a) ensure a conformity assessment is carried out by a notified body;
 - (b) mark equipment in accordance with articles 14 and 15 of the Transportable Pressure Equipment Directive; and
 - (c) keep the technical documentation specified in the Dangerous Goods Directive for the period specified in that Directive.
 
-### 19AB. Obligations of Manufacturers after placing UK TPE or Northern Ireland TPE on the GB market[^key-4b59e2f892c4545c6e9043aa6032078b]
+### 19AB. Obligations of Manufacturers after placing UK TPE or Northern Ireland TPE on the GB market[^c-4b59e2f892c4545c6e9043aa6032078b]
 
-(1) This regulation applies to equipment bearing the UK TPE marking and Northern Ireland TPE[^key-837c7a87c7c0af0c27fbf2e4f4a4b783] that a manufacturer has placed on the GB market.
+(1) This regulation applies to equipment bearing the UK TPE marking and Northern Ireland TPE[^c-837c7a87c7c0af0c27fbf2e4f4a4b783] that a manufacturer has placed on the GB market.
 
-(2) Where a manufacturer knows or has reason to believe that the equipment does not comply with regulation 19AA(2) or the Annexes or with regulation 19AA(3) (as applicable)[^key-afcb915bfad17e777e2e3ee313d84993] , that manufacturer must—
+(2) Where a manufacturer knows or has reason to believe that the equipment does not comply with regulation 19AA(2) or the Annexes or with regulation 19AA(3) (as applicable)[^c-afcb915bfad17e777e2e3ee313d84993] , that manufacturer must—
 
 - (a) take immediate corrective measures to ensure that the equipment complies with—
-  - (i)[^key-e9d728340f4cdb0ce1c4acbb3610b302] regulation 19AA(2) and the Annexes, in respect of UK TPE; or
+  - (i)[^c-e9d728340f4cdb0ce1c4acbb3610b302] regulation 19AA(2) and the Annexes, in respect of UK TPE; or
   - (ii) regulation 19AA(3) and the Annexes, in respect of Northern Ireland TPE;
 - (b) withdraw the equipment from the market; or
 - (c) issue a recall of the equipment.
 
 (3) Where a manufacturer considers that the equipment presents a risk, that manufacturer must immediately inform the GB competent authority and Northern Ireland competent authority of—
 
-- (a)[^key-6ac1565faa04c2c1fd116fe52802d001] the risk, including providing details of any non-compliance with—
+- (a)[^c-6ac1565faa04c2c1fd116fe52802d001] the risk, including providing details of any non-compliance with—
   - (i) regulation 19AA(2) or the Annexes, in respect of UK TPE; and
   - (ii) regulation 19AA(3) or the Annexes, in respect of Northern Ireland TPE;”,
 - (b) any action taken in accordance with paragraph (2).
 
 (4) A manufacturer must record—
 
-- (a)[^key-fd21074ac5b7e1211d6328fb66a6ea7a] each instance of non-compliance with—
+- (a)[^c-fd21074ac5b7e1211d6328fb66a6ea7a] each instance of non-compliance with—
   - (i) regulation 19AA(2) or the Annexes, in respect of UK TPE; and
   - (ii) regulation 19AA(3) or the Annexes, in respect of Northern Ireland TPE;”,
 - (b) any corrective measure taken,
@@ -568,21 +568,21 @@ and must retain that record for at least 20 years from the date that the non-com
 (5) On receipt of a reasoned request from the GB competent authority, a manufacturer must—
 
 - (a) provide that authority with all information and documents necessary to show that the equipment meets the requirements of—
-  - (i)[^key-419691221c046a704bacea8da26a76ce] regulation 19AA(2) and the Annexes, in respect of UK TPE; or
+  - (i)[^c-419691221c046a704bacea8da26a76ce] regulation 19AA(2) and the Annexes, in respect of UK TPE; or
   - (ii) regulation 19AA(3) and the Annexes, in respect of Northern Ireland TPE;”.
 - (b) cooperate with that authority in any action it takes to eliminate risks posed by that equipment.
 
-### 19B. Obligations of Manufacturers after placing pi marked TPE on the GB market[^key-d05720bc8f3ef823a3b0cfd6f892cc71]
+### 19B. Obligations of Manufacturers after placing pi marked TPE on the GB market[^c-d05720bc8f3ef823a3b0cfd6f892cc71]
 
-(1)[^key-5808cad9e57ff6dee47e3882bae1efbe] This regulation applies to equipment bearing the pi marking that a manufacturer has placed on the GB market prior to 1st January 2023[^key-2889a5427a5b2b6dbe70f60677a5329b] .
+(1)[^c-5808cad9e57ff6dee47e3882bae1efbe] This regulation applies to equipment bearing the pi marking that a manufacturer has placed on the GB market prior to 1st January 2023[^c-2889a5427a5b2b6dbe70f60677a5329b] .
 
-(2) Where a manufacturer knows or has reason to believe that equipment bearing the pi marking that[^key-172bdbdb9461380d102687be4a4717ac] it has placed on the market does not comply with the Directives, that manufacturer must—
+(2) Where a manufacturer knows or has reason to believe that equipment bearing the pi marking that[^c-172bdbdb9461380d102687be4a4717ac] it has placed on the market does not comply with the Directives, that manufacturer must—
 
 - (a) take immediate corrective measures to ensure that the equipment complies with the Directives;
 - (b) withdraw the equipment from the market; or
 - (c) issue a recall of the equipment.
 
-(3) Where a manufacturer considers that equipment it has placed on the market presents a risk, that manufacturer must immediately inform the TPED competent authority for any relevant territory on which the equipment has been placed[^key-6e95e1ae457b896c9d97498d36895271] of the risk, including providing details of any non-compliance with the Directives and any action taken in accordance with paragraph (2).
+(3) Where a manufacturer considers that equipment it has placed on the market presents a risk, that manufacturer must immediately inform the TPED competent authority for any relevant territory on which the equipment has been placed[^c-6e95e1ae457b896c9d97498d36895271] of the risk, including providing details of any non-compliance with the Directives and any action taken in accordance with paragraph (2).
 
 (4) A manufacturer must record each instance of non-compliance with the Directives and any corrective measure taken and must retain that record for at least 20 years from the date that the non-compliance is discovered.
 
@@ -591,27 +591,27 @@ and must retain that record for at least 20 years from the date that the non-com
 - (a) provide that authority, in a language that it easily understands, all information and documents necessary to show that the equipment meets the requirements of the Directives; and
 - (b) cooperate with that authority in any action it takes to eliminate risks posed by that equipment.
 
-(6)[^key-00eafbb7b1df6465fae542dcc759b6b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-00eafbb7b1df6465fae542dcc759b6b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19BA. Application of regulations 19AA to 19B to Importers or Distributors[^key-bcc633e1ee4302f6ba664c6a80102893]
+### 19BA. Application of regulations 19AA to 19B to Importers or Distributors[^c-bcc633e1ee4302f6ba664c6a80102893]
 
 Regulations 19AA to 19B apply to an importer or a distributor as if that person were a manufacturer where the importer or distributor—
 
 - (a) places equipment on the GB market under the importer or distributor’s own name or trademark; or
 - (b) modifies equipment already placed on the GB market in such a way that it may affect compliance—
   - (i) of UK TPE with these Regulations or the Annexes; or
-  - (ii) of pi marked TPE or Northern Ireland TPE[^key-20246380a596182539ea93efd1f4b900] with the Directives.
+  - (ii) of pi marked TPE or Northern Ireland TPE[^c-20246380a596182539ea93efd1f4b900] with the Directives.
 
 ### 19BB. Obligations of Importers prior to placing equipment on the GB market
 
 (1) Before placing equipment on the GB market, an importer must ensure that—
 
 - (a) the equipment has been marked in accordance with—
-  - (i) regulation 22B , in respect of equipment which an importer intends to place on the GB market as UK TPE[^key-f8e227a420e756b5caa82c9566896fb2]; or
-  - (ii) articles 14 and 15 of the Transportable Pressure Equipment Directive , in respect of equipment which an importer intends to place on the GB market as Northern Ireland TPE[^key-6ef5f3ce0e736821cafb541f087537f7];
+  - (i) regulation 22B , in respect of equipment which an importer intends to place on the GB market as UK TPE[^c-f8e227a420e756b5caa82c9566896fb2]; or
+  - (ii) articles 14 and 15 of the Transportable Pressure Equipment Directive , in respect of equipment which an importer intends to place on the GB market as Northern Ireland TPE[^c-6ef5f3ce0e736821cafb541f087537f7];
 - (b) the manufacturer has complied with conformity assessment and drawn up the technical documentation in accordance with—
   - (i) the Annexes, in respect of UK TPE; or
-  - (ii) the Dangerous Goods Directive, in respect of Northern Ireland TPE[^key-c4c68c0e4b444d86dd8edc0d89298946]; and
+  - (ii) the Dangerous Goods Directive, in respect of Northern Ireland TPE[^c-c4c68c0e4b444d86dd8edc0d89298946]; and
 - (c) the certificate of conformity for the equipment either contains the name and address of the importer or has this information attached to it.
 
 (2) Where an importer considers that equipment presents a risk before it has been placed on the GB market, that importer must inform the manufacturer and the Health and Safety Executive of the risk.
@@ -666,15 +666,15 @@ and any corrective measure taken and must retain that record for at least 20 yea
   - (iii) the Annexes;
 - (b) cooperate with that authority in any action taken to eliminate risks posed by that equipment.
 
-### 19C. Obligations of Importers after placing pi marked TPE on the GB market[^key-22295142fe4bd8cafc3490f3b4085f29]
+### 19C. Obligations of Importers after placing pi marked TPE on the GB market[^c-22295142fe4bd8cafc3490f3b4085f29]
 
-(A1)[^key-8cf1ee887009b77992cef9d95ea94f3b] This regulation applies to equipment bearing the pi marking that a manufacturer has placed on the GB market prior to 1st January 2023[^key-9ab1d9a84178ea27525c53805497d679].
+(A1)[^c-8cf1ee887009b77992cef9d95ea94f3b] This regulation applies to equipment bearing the pi marking that a manufacturer has placed on the GB market prior to 1st January 2023[^c-9ab1d9a84178ea27525c53805497d679].
 
 (1) An importer must ensure that—
 
-- (a)[^key-51a715f8eaae9a06ddd5a056f8136a6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-51a715f8eaae9a06ddd5a056f8136a6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-51a715f8eaae9a06ddd5a056f8136a6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-51a715f8eaae9a06ddd5a056f8136a6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-51a715f8eaae9a06ddd5a056f8136a6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-51a715f8eaae9a06ddd5a056f8136a6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the conditions in which equipment under the responsibility of the importer is stored and transported do not jeopardise the equipment’s compliance with the Dangerous Goods Directive; and
 - (e) the technical documentation specified in the Dangerous Goods Directive is kept for the period set out in that Directive.
 
@@ -684,9 +684,9 @@ and any corrective measure taken and must retain that record for at least 20 yea
 - (b) withdraw the equipment from the market; or
 - (c) issue a recall of the equipment.
 
-(3)[^key-6a068ef0b09770074caa4ef817b2f9c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6a068ef0b09770074caa4ef817b2f9c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Where an importer considers that equipment it has placed on the market presents a risk, that importer must immediately inform the manufacturer and the TPED competent authority for any relevant territory on which the equipment has been placed[^key-ad88a0b7b2ab3f45beb7b359e1a8c034] of the risk, including details of any non-compliance with the Directives and any action taken in accordance with paragraph (2).
+(4) Where an importer considers that equipment it has placed on the market presents a risk, that importer must immediately inform the manufacturer and the TPED competent authority for any relevant territory on which the equipment has been placed[^c-ad88a0b7b2ab3f45beb7b359e1a8c034] of the risk, including details of any non-compliance with the Directives and any action taken in accordance with paragraph (2).
 
 (5) An importer must record each instance of non-compliance with the Directives and any corrective measure taken and must retain that record for at least 20 years from the date that the non-compliance is discovered.
 
@@ -695,13 +695,13 @@ and any corrective measure taken and must retain that record for at least 20 yea
 - (a) provide that authority, in a language that it easily understands, all information and documents necessary to show that the equipment meets the requirements of the Directives; and
 - (b) cooperate with that authority in any action taken to eliminate risks posed by that equipment.
 
-### 19CA. Obligations of Distributors prior to making equipment available on the GB market[^key-893abc3740f5fd5d8fa8a832ad81c244]
+### 19CA. Obligations of Distributors prior to making equipment available on the GB market[^c-893abc3740f5fd5d8fa8a832ad81c244]
 
 (1) Before making transportable pressure equipment available on the GB market, a distributor must ensure that—
 
 - (a) the equipment has been marked in accordance with—
-  - (i) regulation 22B , in respect of equipment which a distributor intends to make available on the GB market as UK TPE[^key-0ab2248529973369c375cbd86bc7c972]; or
-  - (ii) articles 14 and 15 of the Transportable Pressure Equipment Directive , in respect of equipment which a distributor intends to make available on the GB market as pi marked TPE and which was placed on the GB market prior to 1st January 2023, and in respect of equipment which a distributor intends to make available on the GB market as Northern Ireland TPE[^key-4de37a9e9ee6ac89bfbfc073c094f532]; and
+  - (i) regulation 22B , in respect of equipment which a distributor intends to make available on the GB market as UK TPE[^c-0ab2248529973369c375cbd86bc7c972]; or
+  - (ii) articles 14 and 15 of the Transportable Pressure Equipment Directive , in respect of equipment which a distributor intends to make available on the GB market as pi marked TPE and which was placed on the GB market prior to 1st January 2023, and in respect of equipment which a distributor intends to make available on the GB market as Northern Ireland TPE[^c-4de37a9e9ee6ac89bfbfc073c094f532]; and
 - (b) the certificate of conformity for the equipment either contains the name and address of the importer or has this information attached to it.
 
 (2) Where a distributor considers that equipment presents a risk before it has been made available on the GB market, that distributor must inform—
@@ -758,11 +758,11 @@ and any corrective measure taken and must retain that record for at least 20 yea
   - (iii) the Annexes;
 - (b) cooperate with that authority in any action taken to eliminate risks posed by that equipment.
 
-### 19D. Obligations of Distributors after making pi marked TPE or Northern Ireland TPE available on the GB market[^key-24f33455ca6b30eb1f211a18998be7b1][^key-8b172fa86bb5f168c88c27e271548f17]
+### 19D. Obligations of Distributors after making pi marked TPE or Northern Ireland TPE available on the GB market[^c-24f33455ca6b30eb1f211a18998be7b1][^c-8b172fa86bb5f168c88c27e271548f17]
 
-(A1)[^key-f1eb01cc7701a593e1016199fc0b1076] This regulation applies to equipment bearing the pi marking , and Northern Ireland TPE,[^key-2f5e44b18dd3a0549fa6be8e208b3553] that a distributor has made available on the GB market.
+(A1)[^c-f1eb01cc7701a593e1016199fc0b1076] This regulation applies to equipment bearing the pi marking , and Northern Ireland TPE,[^c-2f5e44b18dd3a0549fa6be8e208b3553] that a distributor has made available on the GB market.
 
-(1)[^key-c3b7ebdce47b044ea86b3e330a9f337d] A distributor must ensure that the conditions in which equipment under the responsibility of the distributor is stored and transported do not jeopardise the equipment’s compliance with the Directives.
+(1)[^c-c3b7ebdce47b044ea86b3e330a9f337d] A distributor must ensure that the conditions in which equipment under the responsibility of the distributor is stored and transported do not jeopardise the equipment’s compliance with the Directives.
 
 (2) Where a distributor knows or has reason to believe that equipment it made available on the market does not comply with the Directives, that distributor must—
 
@@ -770,12 +770,12 @@ and any corrective measure taken and must retain that record for at least 20 yea
 - (b) withdraw the equipment from the market; or
 - (c) issue a recall of the equipment.
 
-(3)[^key-70e31d90f7bbafe5015a02b23a848580] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-70e31d90f7bbafe5015a02b23a848580] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where a distributor considers that equipment it has made available on the market presents a risk, that distributor must immediately inform—
 
 - (a) the manufacturer or the importer; and
-- (b) the TPED competent authority for any relevant territory on which the equipment has been made available[^key-36c8fb87618c799cb2353e46b8863fab],
+- (b) the TPED competent authority for any relevant territory on which the equipment has been made available[^c-36c8fb87618c799cb2353e46b8863fab],
 
 of the risk, including details of any non-compliance with the Directives and any action taken in accordance with paragraph (2).
 
@@ -797,7 +797,7 @@ of the risk, including details of any non-compliance with the Directives and any
 
 of the risk.
 
-(2A)[^key-1a927e32ffc6e62072e166f141154542] An owner of UK TPE must record each instance of non-compliance with—
+(2A)[^c-1a927e32ffc6e62072e166f141154542] An owner of UK TPE must record each instance of non-compliance with—
 
 - (a) this regulation;
 - (b) regulation 21A; or
@@ -805,7 +805,7 @@ of the risk.
 
 and any corrective measure taken and must retain that record for at least 20 years from the date that the non-compliance is discovered.
 
-(3) An owner of pi marked TPE[^key-156fefb635f5d276ddb75a17946a5105] , or Northern Ireland TPE,[^key-05c2c225f940fbabd21a75a857bf2b40] must record each instance of non-compliance with the Directives and any corrective measure taken and must retain that record for at least 20 years from the date that the non-compliance is discovered.
+(3) An owner of pi marked TPE[^c-156fefb635f5d276ddb75a17946a5105] , or Northern Ireland TPE,[^c-05c2c225f940fbabd21a75a857bf2b40] must record each instance of non-compliance with the Directives and any corrective measure taken and must retain that record for at least 20 years from the date that the non-compliance is discovered.
 
 (4) This regulation does not apply to private individuals using or intending to use equipment in the circumstances set out in article 8(4) of the Transportable Pressure Equipment Directive.
 
@@ -813,33 +813,33 @@ and any corrective measure taken and must retain that record for at least 20 yea
 
 Where an operator considers that equipment presents a risk, that operator must inform the owner and the Health and Safety Executive of the risk.
 
-### 20. Authorised Representatives[^key-e561ccf064647ed53a671414214b84ff]
+### 20. Authorised Representatives[^c-e561ccf064647ed53a671414214b84ff]
 
-(1)[^key-d81f17af4c35135a58498a35b0a21849] Subject to paragraph (3), a manufacturer may appoint in writing a person established in a relevant territory (“an authorised representative”) to carry out some or all of the duties imposed on the manufacturer by—
+(1)[^c-d81f17af4c35135a58498a35b0a21849] Subject to paragraph (3), a manufacturer may appoint in writing a person established in a relevant territory (“an authorised representative”) to carry out some or all of the duties imposed on the manufacturer by—
 
-- (a) regulations 19A, 19AA and 19AB in respect of equipment that bears, or will bear, the UK TPE marking and equipment that is, or will become, Northern Ireland TPE[^key-ac40602a525f45c71819dd925382e485]; or
+- (a) regulations 19A, 19AA and 19AB in respect of equipment that bears, or will bear, the UK TPE marking and equipment that is, or will become, Northern Ireland TPE[^c-ac40602a525f45c71819dd925382e485]; or
 - (b) regulations 19A, 19AA and 19B in respect of equipment that bears, or will bear, the pi marking.
 
 (2) An appointment made in accordance with paragraph (1) must include at least the following duties—
 
 - (a) keeping technical documentation;
-- (b)[^key-09a4a23c88ac62596ecb239882d71c8f] in respect of UK TPE—
+- (b)[^c-09a4a23c88ac62596ecb239882d71c8f] in respect of UK TPE—
   - (i) providing to the GB competent authority or Northern Ireland competent authority, in response to a reasoned request, the information and documents necessary to show that the equipment meets the requirements of these Regulations and the Annexes; and
   - (ii) cooperating with those competent authorities in any action they take to eliminate risks posed by the equipment; and
-- (c) in respect of pi marked TPE and Northern Ireland TPE[^key-d866ad1c0d5630abf52dc1bd1cf53081]—
+- (c) in respect of pi marked TPE and Northern Ireland TPE[^c-d866ad1c0d5630abf52dc1bd1cf53081]—
   - (i) providing to a TPED competent authority, in response to a reasoned request and in a language that it easily understands, the information and documents necessary to show that the equipment meets the requirements of the Directives; and
   - (ii) cooperating with that competent authority in any action they take to eliminate risks posed by the equipment.
 
-(3) An authorised representative must not be appointed to carry out duties imposed by regulation 19A(2), 19AA(2)(a), (2)(b), (3)(a) or (3)(b)[^key-baa46dba9fbeb98c69d2c8801e80f2cd].
+(3) An authorised representative must not be appointed to carry out duties imposed by regulation 19A(2), 19AA(2)(a), (2)(b), (3)(a) or (3)(b)[^c-baa46dba9fbeb98c69d2c8801e80f2cd].
 
 (4) The name and address of the authorised representative must be included on the certificate of conformity.
 
-(5)[^key-3223422efc2b174e8682030080be353d] An authorised representative must only provide information to an operator that complies with the requirements of—
+(5)[^c-3223422efc2b174e8682030080be353d] An authorised representative must only provide information to an operator that complies with the requirements of—
 
 - (a) the Annexes in respect of UK TPE; or
-- (b) the Directives in respect of pi marked TPE and Northern Ireland TPE[^key-534cb72d718d1d71d71fd1aa4750db79].
+- (b) the Directives in respect of pi marked TPE and Northern Ireland TPE[^c-534cb72d718d1d71d71fd1aa4750db79].
 
-### 20A. Reassessment of conformity – UK TPE[^key-1ecf0b089e77ce0572acb99c27dc4e03]
+### 20A. Reassessment of conformity – UK TPE[^c-1ecf0b089e77ce0572acb99c27dc4e03]
 
 (1) This regulation applies to transportable pressure equipment which does not bear the conformity markings provided for in—
 
@@ -876,25 +876,25 @@ reassessment of conformity has issued a certificate of type reassessment, the re
 - (d) any reference to the “pi marking” is to be read as a reference to the UK TPE marking; and
 - (e) any reference to “Member States” is to be read as a reference to the GB competent authority.
 
-### 21. Reassessment of conformity - pi marked TPE[^key-e2a4a743068a992e38cb1d158b0656d4]
+### 21. Reassessment of conformity - pi marked TPE[^c-e2a4a743068a992e38cb1d158b0656d4]
 
-(1) This regulation applies to pi marked TPE[^key-608c4c017303d2f0ef85f3c21ab0c349] within the scope of the Transportable Pressure Equipment Directive by virtue of article 1(2) (c)[^key-04ed6f12bcc0957eb4adf316826de75d] of that Directive.
+(1) This regulation applies to pi marked TPE[^c-608c4c017303d2f0ef85f3c21ab0c349] within the scope of the Transportable Pressure Equipment Directive by virtue of article 1(2) (c)[^c-04ed6f12bcc0957eb4adf316826de75d] of that Directive.
 
 (2) Equipment may be reassessed for conformity in accordance with this regulation.
 
 (3) The equipment is to be—
 
-- (a) reassessed by a type A[^key-bccbb4da5eeec7d8380c4e04613bf841] notified body in accordance with the procedure set out in Annex[^key-056ac568bea429ce24deec03c243e193] III to the Transportable Pressure Equipment Directive; and
-- (b)[^key-64097ffbe2a8e04292644b59af89ad88] inspected by a notified body notified for periodic inspection of that equipment and marked in accordance with the requirements of articles 14 and 15 of that Directive.
+- (a) reassessed by a type A[^c-bccbb4da5eeec7d8380c4e04613bf841] notified body in accordance with the procedure set out in Annex[^c-056ac568bea429ce24deec03c243e193] III to the Transportable Pressure Equipment Directive; and
+- (b)[^c-64097ffbe2a8e04292644b59af89ad88] inspected by a notified body notified for periodic inspection of that equipment and marked in accordance with the requirements of articles 14 and 15 of that Directive.
 
-(4)[^key-7bb5ddee6035bee4e46f1a6aa5d49859] But if a pressure receptacle has been manufactured in series to a design type for which a type A notified body notified for reassessment of conformity has issued a certificate of type reassessment, the reassessment of conformity may be undertaken by a notified body notified for periodic inspection of that pressure receptacle.
+(4)[^c-7bb5ddee6035bee4e46f1a6aa5d49859] But if a pressure receptacle has been manufactured in series to a design type for which a type A notified body notified for reassessment of conformity has issued a certificate of type reassessment, the reassessment of conformity may be undertaken by a notified body notified for periodic inspection of that pressure receptacle.
 
-(5)[^key-a5dbd8da1f692d18eedf1a754bac8136] In this regulation—
+(5)[^c-a5dbd8da1f692d18eedf1a754bac8136] In this regulation—
 
 - (a) “certificate of type reassessment” means a certificate issued in accordance with paragraph 7 of Annex III to the Transportable Pressure Equipment Directive; and
 - (b) “type A notified body” means a notified body conforming to standard EN ISO/IEC 17020 type A as revised or reissued from time to time.
 
-### 21A. UK TPE - Periodic inspection and repeated use[^key-7db28ee681d528ecca82fc1054803e5e]
+### 21A. UK TPE - Periodic inspection and repeated use[^c-7db28ee681d528ecca82fc1054803e5e]
 
 (1) This regulation applies to UK TPE, for the purposes of its periodic inspections, intermediate inspections, exceptional checks and use.
 
@@ -909,17 +909,17 @@ in accordance with the frequency identified as being applicable to that type of 
 
 (4) The date of the periodic inspection or intermediate inspection, must be marked on the equipment along with the identification number of the appointed body responsible for the inspection.
 
-### 22. Periodic inspection - pi marked TPE and Northern Ireland TPE and repeated use[^key-3372217ec244411fbf829df8d79b5891][^key-19259df7a1e1e19e2602698aae29a745]
+### 22. Periodic inspection - pi marked TPE and Northern Ireland TPE and repeated use[^c-3372217ec244411fbf829df8d79b5891][^c-19259df7a1e1e19e2602698aae29a745]
 
-(1) This regulation applies to pi marked TPE[^key-b18fbe8efe43da968aa614e2040a47be] and Northern Ireland TPE[^key-68ae6f8379a73c01761ebae66eb42d03] within the scope of the Transportable Pressure Equipment Directive by virtue of article 1(2) (b)[^key-a2aab89efbc1e3e8f700c7db09768882] of that Directive.
+(1) This regulation applies to pi marked TPE[^c-b18fbe8efe43da968aa614e2040a47be] and Northern Ireland TPE[^c-68ae6f8379a73c01761ebae66eb42d03] within the scope of the Transportable Pressure Equipment Directive by virtue of article 1(2) (b)[^c-a2aab89efbc1e3e8f700c7db09768882] of that Directive.
 
-(2) The equipment[^key-e87014528b1ffcacb5c02ba7766bbdd2] is to be subject to periodic inspection in accordance with the requirements of the Dangerous Goods Directive[^key-1b7356b75cb0dd951c3c139060edea94].
+(2) The equipment[^c-e87014528b1ffcacb5c02ba7766bbdd2] is to be subject to periodic inspection in accordance with the requirements of the Dangerous Goods Directive[^c-1b7356b75cb0dd951c3c139060edea94].
 
-(3)[^key-b338c206f43da3a450fe359a655670f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b338c206f43da3a450fe359a655670f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) The marking requirements applicable to periodic inspections of pi marked TPE[^key-effaf76ef8302429eaf9ff7ef4dbbbf1] and Northern Ireland TPE[^key-116bdb87a8f651f3160da2b1b9333868] set out in articles 14 and 15[^key-60e322e93a4558823c729af93f1365c0] of the Transportable Pressure Equipment Directive are to be complied with in relation to the equipment.
+(4) The marking requirements applicable to periodic inspections of pi marked TPE[^c-effaf76ef8302429eaf9ff7ef4dbbbf1] and Northern Ireland TPE[^c-116bdb87a8f651f3160da2b1b9333868] set out in articles 14 and 15[^c-60e322e93a4558823c729af93f1365c0] of the Transportable Pressure Equipment Directive are to be complied with in relation to the equipment.
 
-### 22A. Conversion of pi marked TPE to UK TPE[^key-28cee1fc37d47dc816f4e0f3f5a2a7d2]
+### 22A. Conversion of pi marked TPE to UK TPE[^c-28cee1fc37d47dc816f4e0f3f5a2a7d2]
 
 (1) This regulation applies to equipment bearing the pi marking—
 
@@ -944,7 +944,7 @@ in accordance with the frequency identified as being applicable to that type of 
 
 (3) The UK TPE marking may not be affixed to a product unless these Regulations provide for its affixing.
 
-### 23. Misleading and other markings[^key-4840a76f171b30839e52cf646613266f]
+### 23. Misleading and other markings[^c-4840a76f171b30839e52cf646613266f]
 
 (1) No person is to affix a marking on transportable pressure equipment which is likely to mislead third parties with regard to the meaning of the graphics of—
 
@@ -958,7 +958,7 @@ in accordance with the frequency identified as being applicable to that type of 
 
 is not reduced.
 
-## PART 4A — Control of Volatile Organic Compounds[^key-cbc9e3799eed732fd68cad8b2833e3a0]
+## PART 4A — Control of Volatile Organic Compounds[^c-cbc9e3799eed732fd68cad8b2833e3a0]
 
 ### 23A. Interpretation of Part 4A
 
@@ -987,9 +987,9 @@ In this Part—
 
 (2) Any person who designs, manufactures, imports, supplies, modifies, repairs, examines, tests, certifies or fills any tank which is intended to be, or is being, used for the carriage of petrol, must ensure, insofar as they are matters within that person’s control, that such of the requirements specified in the approved tank requirements as are relevant to that tank are complied with.
 
-## PART 5 — Radiation Emergencies and Notifiable Events[^key-b85a6557dedc2940d505371edc6449eb]
+## PART 5 — Radiation Emergencies and Notifiable Events[^c-b85a6557dedc2940d505371edc6449eb]
 
-### 24. Radiation emergencies and notifiable events[^key-fe6914c0b36ac66b712a7a0c1b904946]
+### 24. Radiation emergencies and notifiable events[^c-fe6914c0b36ac66b712a7a0c1b904946]
 
 (1) This Part applies in relation to the carriage of class 7 goods only.
 
@@ -1024,7 +1024,7 @@ In this Part—
   - (ii) are required for research into, or the development or production of, any such instrument or part of such instrument; or
   - (iii) are produced in the course of, or in connection with, such research, development or production.
 
-(3A)[^key-4a208451e5ae9625c9d4cac0b1eba536] The Office for Nuclear Regulation[^key-d150cb0c0d320440bcf563514ee52272] is the competent authority for those functions in relation to the carriage of class 7 goods for which the Secretary of State for Defence is not the competent authority, except for the function in sub-section 1.10.1.6 of ADR (register of driver training certificates).
+(3A)[^c-4a208451e5ae9625c9d4cac0b1eba536] The Office for Nuclear Regulation[^c-d150cb0c0d320440bcf563514ee52272] is the competent authority for those functions in relation to the carriage of class 7 goods for which the Secretary of State for Defence is not the competent authority, except for the function in sub-section 1.10.1.6 of ADR (register of driver training certificates).
 
 (4) The competent authority for the functions set out in Sub-sections 1.9.5.1, 1.9.5.3.1 and 1.9.5.3.8 of ADR is the traffic authority responsible for the road that passes through the tunnel.
 
@@ -1042,7 +1042,7 @@ In this Part—
 
 (11) In this regulation—
 
-- (a)[^key-ead5b2e4771008dee53fcc8a0c3da8df] “military explosives” means any class 1 goods—
+- (a)[^c-ead5b2e4771008dee53fcc8a0c3da8df] “military explosives” means any class 1 goods—
   - (i) under the control of the Secretary of State for Defence;
   - (ii) held for the service of the Crown for the purposes of the Ministry of Defence;
   - (iii) under the control of one of the armed forces; or
@@ -1053,7 +1053,7 @@ In this Part—
 
 The GB competent authority is to perform those functions that are identified in ADR, RID and ADN as being the functions of a competent authority.
 
-### 26A. Functions of the GB competent authority arising under Part 6[^key-cc94d5cc245f116f0ce7dbeb445da4ea]
+### 26A. Functions of the GB competent authority arising under Part 6[^c-cc94d5cc245f116f0ce7dbeb445da4ea]
 
 (1) This regulation applies in respect of UK TPE when the GB competent authority is informed by—
 
@@ -1068,7 +1068,7 @@ The GB competent authority is to perform those functions that are identified in 
 
 including information about the equipment presenting the risk and measures taken in relation to that equipment by the economic operator concerned.
 
-### 27. Fees in relation to functions of the GB competent authority[^key-d945f411e3c235e28bb7f905fea63ed6]
+### 27. Fees in relation to functions of the GB competent authority[^c-d945f411e3c235e28bb7f905fea63ed6]
 
 (1) This regulation applies where a person has asked the GB competent authority to perform a function which is, by virtue of regulation 26, a function of the GB competent authority.
 
@@ -1102,18 +1102,18 @@ provided that the temperature or pressure specified in the standard is such that
 
 (3) Where it is a function of the GB competent authority, by virtue of regulation 26, to approve or authorise a body or expert to carry out, witness, supervise or decide to waive an inspection, examination, test or approval in respect of equipment used in connection with the carriage of dangerous goods, that function is to be performed by the appointment of a person pursuant to paragraph (2).
 
-(4) In respect of the appointment of a person to carry out the functions of an appointed body[^key-e8029381e1604e8b44d43ae7de3d0d47] for the purposes of Part 4 of these Regulations, the GB competent authority may not appoint a person pursuant to paragraph (2) unless that person satisfies the criteria set out in the Annexes[^key-ae0f9feeb02d8b0a9e8468d9ef50c4aa][^key-5d40c50afdd8daad4af92753e3a4e53f] and the requirements set out in paragraph (4A).[^key-a4fb8034b882aeaa9f10d2dacafca4ff]
+(4) In respect of the appointment of a person to carry out the functions of an appointed body[^c-e8029381e1604e8b44d43ae7de3d0d47] for the purposes of Part 4 of these Regulations, the GB competent authority may not appoint a person pursuant to paragraph (2) unless that person satisfies the criteria set out in the Annexes[^c-ae0f9feeb02d8b0a9e8468d9ef50c4aa][^c-5d40c50afdd8daad4af92753e3a4e53f] and the requirements set out in paragraph (4A).[^c-a4fb8034b882aeaa9f10d2dacafca4ff]
 
-(4A)[^key-a0c3d01f8a8ec24817af0e5a09366f10] An appointed body must—
+(4A)[^c-a0c3d01f8a8ec24817af0e5a09366f10] An appointed body must—
 
 - (a) be established in Great Britain; and
 - (b) satisfy the criteria set out in—
   - (i) sub-section 1.8.6.8 of ADR; or
   - (ii) sub-section 1.8.6.8 of RID.
 
-(5)[^key-9323cbc36c7a9e0d0e31e013f9cf13b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-9323cbc36c7a9e0d0e31e013f9cf13b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-ed9c7290a4b551ce865d8b643cc3ebf8][^key-5abe25b6726a1c80eb0daf9fc3e5e74d] Schedule 3 has effect in relation to the making of appointments pursuant to paragraph (2).
+(6)[^c-ed9c7290a4b551ce865d8b643cc3ebf8][^c-5abe25b6726a1c80eb0daf9fc3e5e74d] Schedule 3 has effect in relation to the making of appointments pursuant to paragraph (2).
 
 ### 30. Certain functions to be deemed to have been performed by the GB competent authority
 
@@ -1136,7 +1136,7 @@ provided that the temperature or pressure specified in the standard is such that
 
 (2) A written record of the information contained in the transport document described in Chapters 5.4 and 5.5 is to be kept for a period of three months after the completion of the carriage in question.
 
-### 32. Enforcement[^key-ce02b64b7ef90f9e87f79121c892585c][^key-5835a842a4c67cb2c935fc88298a8102]
+### 32. Enforcement[^c-ce02b64b7ef90f9e87f79121c892585c][^c-5835a842a4c67cb2c935fc88298a8102]
 
 (1) The enforcing authorities for these Regulations are—
 
@@ -1149,11 +1149,11 @@ provided that the temperature or pressure specified in the standard is such that
 - (b) the Secretary of State for Transport in relation to road and inland waterways,
 - (c) the chief of police of each area in relation to road.
 
-(3) The Health and Safety Executive is not an enforcing authority in relation to rail to the extent that the Office of Rail and Road[^key-0b7d6a3d0fe281838f48da0c28cbf83b] is an enforcing authority pursuant to regulation 3(1) of the Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006.
+(3) The Health and Safety Executive is not an enforcing authority in relation to rail to the extent that the Office of Rail and Road[^c-0b7d6a3d0fe281838f48da0c28cbf83b] is an enforcing authority pursuant to regulation 3(1) of the Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006.
 
 (4) Despite paragraphs (1) to (3), the Secretary of State for Transport is the only enforcing authority in relation to the carriage of all classes of goods, except civil carriage of class 7 goods, to the extent that these Regulations require compliance with the security provisions.
 
-### 32A. Offences in connection with the civil carriage of class 7 goods[^key-3c8a5ffd7eb57c01e673ea0ed746981e]
+### 32A. Offences in connection with the civil carriage of class 7 goods[^c-3c8a5ffd7eb57c01e673ea0ed746981e]
 
 (1) It is an offence for a person to contravene—
 
@@ -1163,7 +1163,7 @@ provided that the temperature or pressure specified in the standard is such that
 (2) A person who commits an offence under this regulation is liable—
 
 - (a) on summary conviction to—
-  - (i) imprisonment for a term not exceeding 12 months *(affected by repeal, see note)*[^key-b5c40a657ef71b498f07187c8030e494] the general limit in a magistrates’ court , or
+  - (i) imprisonment for a term not exceeding 12 months *(affected by repeal, see note)*[^c-b5c40a657ef71b498f07187c8030e494] the general limit in a magistrates’ court , or
   - (ii) a fine, or
   - (iii) both;
 - (b) on conviction on indictment to—
@@ -1173,7 +1173,7 @@ provided that the temperature or pressure specified in the standard is such that
 
 (3) Paragraphs (4) and (5) make transitional modifications to paragraph (2) as it applies to England and Wales.
 
-(4) In relation to an offence committed before 2nd May 2022[^key-25135071bf8047e3f3c863e880b12d24], the reference in paragraph (2)(a)(i) to imprisonment for a term not exceeding 12 months *(affected by repeal, see note)*[^key-b1b497b12e13ef4c9f2d59e13bfc56dc] the general limit in a magistrates’ court is to be read as reference to imprisonment for a term not exceeding six months.
+(4) In relation to an offence committed before 2nd May 2022[^c-25135071bf8047e3f3c863e880b12d24], the reference in paragraph (2)(a)(i) to imprisonment for a term not exceeding 12 months *(affected by repeal, see note)*[^c-b1b497b12e13ef4c9f2d59e13bfc56dc] the general limit in a magistrates’ court is to be read as reference to imprisonment for a term not exceeding six months.
 
 (5) In relation to an offence committed before the commencement of section 85(1) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (removal of limit on certain fines on conviction by magistrates’ court) the reference to a fine in paragraph (2)(a)(ii) is to be read as a reference to a fine not exceeding £20,000.
 
@@ -1181,7 +1181,7 @@ provided that the temperature or pressure specified in the standard is such that
 
 The 2007 Regulations are revoked.
 
-### 34. Duty to Review[^key-b52b9b7d8f2a428015b0aae929eebf4d]
+### 34. Duty to Review[^c-b52b9b7d8f2a428015b0aae929eebf4d]
 
 (1) The Secretary of State must—
 
@@ -1262,7 +1262,7 @@ and must be in black digits of not less than 30mm in height against an orange-co
 (2) The phrase “consult local depot” or “contact local depot” may be substituted for the telephone number if—
 
 - (a) the name of the carrier is clearly identifiable from the marking on any tank or the transport unit;
-- (b) as regards England and Wales, the fire and rescue authority [^key-2c1ca52c0445b5119ef31eb0260df3aa]... of each area through which the transport unit will carry the dangerous goods or, as regards Scotland, the chief officer of the Scottish Fire and Rescue Service[^key-b2db00778ce084ca25040654b953ba3a] has been notified in writing of the address and telephone number of the relevant local depot; and
+- (b) as regards England and Wales, the fire and rescue authority [^c-2c1ca52c0445b5119ef31eb0260df3aa]... of each area through which the transport unit will carry the dangerous goods or, as regards Scotland, the chief officer of the Scottish Fire and Rescue Service[^c-b2db00778ce084ca25040654b953ba3a] has been notified in writing of the address and telephone number of the relevant local depot; and
 - (c) each fire and rescue authority or chief officer, as referred to in Paragraph (b), has indicated, in writing, satisfaction with the arrangements.
 
 #### 5. Use of hazard warning panels (road)
@@ -1306,7 +1306,7 @@ If dangerous goods are being carried in tanks, a telephone number where speciali
 - (a) be displayed in accordance with paragraph 7 as if it were an orange-coloured plate; and
 - (b) comply with the requirements of paragraphs 5(2)(b) to (f).
 
-## SCHEDULE 1A — UK TPE marking[^key-9cdcb074f6aee6ebd583d04ad216d156]
+## SCHEDULE 1A — UK TPE marking[^c-9cdcb074f6aee6ebd583d04ad216d156]
 
 Regulation 22B(2)
 
@@ -1322,7 +1322,7 @@ Regulation 22B(2)
 
 **5.** For UK TPE with a diameter less than or equal to 140 millimetres, the minimum height shall be 2.5 millimetres.
 
-## SCHEDULE 2 — Radiation Emergencies and Notifiable Events[^key-a9da5c9dc4fc9509f1b5009a23be5ecb]
+## SCHEDULE 2 — Radiation Emergencies and Notifiable Events[^c-a9da5c9dc4fc9509f1b5009a23be5ecb]
 
 Regulation 24(2)
 
@@ -1352,7 +1352,7 @@ Regulation 24(2)
   - (c) any other person or organisation that is identified in an emergency plan as having a role in providing assistance in the handling of a radiation emergency;
 - “escort commander” means a person who is responsible for the escort of a package;
 - “health authority” means—
-  - (a) in relation to England, an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006[^key-bbd5772af9474f1838da9638e26ba9b9];
+  - (a) in relation to England, an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006[^c-bbd5772af9474f1838da9638e26ba9b9];
   - (b) in relation to Wales, a local health board established under section 11 of the National Health Service (Wales) Act 2006; and
   - (c) in relation to Scotland, a health board established under section 2 of the National Health Service (Scotland) Act 1978;
 - “ionising radiation” means the energy transferred in the form of particles or electromagnetic waves of a wavelength of 100 nanometres or less, or a frequency of 3 x 10<sup>15</sup> hertz or more, capable of producing ions directly or indirectly;
@@ -1522,7 +1522,7 @@ Where a duty holder carries out work involving the carriage of any package conta
   - (i) the emergency services;
   - (ii) the health authority in the area within which the radiation emergency or event took place;
   - (iii) the relevant local authority in the area within which the radiation emergency or event took place;
-  - (iv) the National Health Commissioning Board and the UK Health Security Agency[^key-064be1a9b8d91b9a100b9338d0b70158], Public Health Wales or Public Health Scotland[^key-ef80eabfa5d19c41aa6b6d463355fac3] (depending where the radiation emergency or event took place); and
+  - (iv) the National Health Commissioning Board and the UK Health Security Agency[^c-064be1a9b8d91b9a100b9338d0b70158], Public Health Wales or Public Health Scotland[^c-ef80eabfa5d19c41aa6b6d463355fac3] (depending where the radiation emergency or event took place); and
   - (v) any other person, body or authority which has functions under the carrier or the consignor’s emergency plan;
 - (b) as soon as reasonably practicable and in any event within 12 months beginning with the date on which the plan was initiated, or such longer period as the GB Competent Authority may agree, must make a full assessment of the consequences of the emergency and the effectiveness of the emergency plan put into effect as a result of the emergency; and
 - (c) within 28 days of the completion of the assessment made under paragraph (b), must make a report of the findings of the assessment and retain a copy of that report for at least 50 years from the date on which it is completed.
@@ -1678,19 +1678,19 @@ A package which has been involved in a radiation emergency must not be carried o
 
 Regulation 29(6)
 
-### 1. Applications for appointment[^key-f7fefad1ef69f51b3dbad055ab73cb0a]
+### 1. Applications for appointment[^c-f7fefad1ef69f51b3dbad055ab73cb0a]
 
 (1) An application for appointment must be made in a manner approved by the GB competent authority.
 
-(2) Subject to sub-paragraph (2A), a fee[^key-71ba7b678686eb9aeb040e3db1f69240] may be charged for, or in connection with, the consideration by, or on behalf of, the GB competent authority of an application for appointment.
+(2) Subject to sub-paragraph (2A), a fee[^c-71ba7b678686eb9aeb040e3db1f69240] may be charged for, or in connection with, the consideration by, or on behalf of, the GB competent authority of an application for appointment.
 
-(2A)[^key-0572da554265f2ed0e63860b1f9daf8c] No fee may be charged for an appointment to which paragraph 2A applies.
+(2A)[^c-0572da554265f2ed0e63860b1f9daf8c] No fee may be charged for an appointment to which paragraph 2A applies.
 
 (3) Any fee charged must be reasonable for the work performed or to be performed.
 
 ### 2. Appointment by the GB competent authority
 
-(1)[^key-617706c2466237698c57053d606c8bf2] The GB competent authority must—
+(1)[^c-617706c2466237698c57053d606c8bf2] The GB competent authority must—
 
 - (a) make any appointment in writing; and
 - (b) assign each appointed body an identification number.
@@ -1698,8 +1698,8 @@ Regulation 29(6)
 (2) An appointment may be made subject to such conditions as the GB competent authority considers appropriate and, in particular, those conditions may—
 
 - (a) restrict the scope of the appointment to equipment of a particular description;
-- (b) require markings of a particular description to be affixed to equipment by or on behalf of the appointee in connection with the giving, or the refusal to give, approval; [^key-838b2c9ba96bf0cd290d2774c0b61b0d]...
-- (c) apply upon or following termination of the appointment ; and[^key-14a4f35e04f1517f3691c1b2d37c2b0f]
+- (b) require markings of a particular description to be affixed to equipment by or on behalf of the appointee in connection with the giving, or the refusal to give, approval; [^c-838b2c9ba96bf0cd290d2774c0b61b0d]...
+- (c) apply upon or following termination of the appointment ; and[^c-14a4f35e04f1517f3691c1b2d37c2b0f]
 - (d) require the sharing of information held by the appointee in relation to its activities as a notified body prior to IP completion day, with a notified body
 
 (3) An appointment may be for the time being or for such period as may be specified in the appointment.
@@ -1713,7 +1713,7 @@ Regulation 29(6)
   for the purpose of making such arrangements for the determination of outstanding applications for approval of equipment as it considers appropriate and the person to whom the directions are given must comply with them; and
 - (b) authorise another person to take over the functions of the appointee whose appointment has been terminated in respect of such cases as it may specify.
 
-### 2A. Appointment of notified bodies as appointed bodies[^key-98871db724d270d84ff074bc8af60243]
+### 2A. Appointment of notified bodies as appointed bodies[^c-98871db724d270d84ff074bc8af60243]
 
 (1) An inspection body that, prior to IP completion day, was a notified body established only in Great Britain, must be appointed by the GB competent authority as an appointed body.
 
@@ -1721,7 +1721,7 @@ Regulation 29(6)
 
 (3) The GB competent authority must assign to an appointed body the notified body identification number that had previously been assigned to them by the European Commission under article 23(1) of the Transportable Pressure Equipment Directive.
 
-### 3. Fees that may be charged by appointees[^key-5d20892c3bb7a0c1a9c2658122e96162]
+### 3. Fees that may be charged by appointees[^c-5d20892c3bb7a0c1a9c2658122e96162]
 
 (1) An appointee may charge a fee for, or in connection with, the carrying out of a function for which the appointment has been made.
 
@@ -1732,7 +1732,7 @@ Regulation 29(6)
   - (i) the character and extent of the work done or to be done by the appointee; and
   - (ii) the commercial rate normally charged on account of profit for that work or similar work.
 
-### 4. The inspection of appointees[^key-52144c4db87a7af2ad736e2a116fb313]
+### 4. The inspection of appointees[^c-52144c4db87a7af2ad736e2a116fb313]
 
 (1) An appointee is to be subject to such inspection by, or on behalf of, the GB competent authority as is necessary to ensure compliance with any condition specified in the appointment.
 
@@ -1800,7 +1800,7 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c19725081]: Marginal citation: The meaning of “railway safety purposes” under Schedule 3 of the 2005 Act which is relevant to the obligation to consult has been amended by the [Railways Act 2005 (Amendment) Regulations 2006 (S.I. 2006/556)](https://www.legislation.gov.uk/uksi/2006/556).
 
-[^key-09700266a9b69861fbf804b9dc77caed]: Modification: Regulations modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), art. 1(2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-09700266a9b69861fbf804b9dc77caed]: Modification: Regulations modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), art. 1(2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^c19725091]: Marginal citation: [S.I. 2007/1573](https://www.legislation.gov.uk/uksi/2007/1573).
 
@@ -1808,7 +1808,7 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c19725111]: Marginal citation: ISBN 9789211391336 (2009 edition).
 
-[^key-5b301636992fb91915b821b906edc968]: Textual amendment: Words in reg. 2(5) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/2)
+[^c-5b301636992fb91915b821b906edc968]: Textual amendment: Words in reg. 2(5) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/2)
 
 [^c19725121]: Marginal citation: [2006 c.52](https://www.legislation.gov.uk/ukpga/2006/52).
 
@@ -1818,71 +1818,71 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c19725151]: Marginal citation: [1964 c.5](https://www.legislation.gov.uk/ukpga/1964/5).
 
-[^key-e1ee2b0b48617c348010a9ee6b61db5e]: Textual amendment: Words in reg. 2(5) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/3)
+[^c-e1ee2b0b48617c348010a9ee6b61db5e]: Textual amendment: Words in reg. 2(5) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/3)
 
-[^key-e7c96fc2556823284f286b25a9e86089]: Textual amendment: Words in reg. 2(5) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 28(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/28/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-e7c96fc2556823284f286b25a9e86089]: Textual amendment: Words in reg. 2(5) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 28(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/28/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-e06595d86888d270a50d12f713ca4349]: Textual amendment: Words in reg. 2(5) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/4)
+[^c-e06595d86888d270a50d12f713ca4349]: Textual amendment: Words in reg. 2(5) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/4)
 
-[^key-61fc95a9be9d13b455fdbe51a7f62cef]: Textual amendment: Words in reg. 2(5) omitted (31.12.2020) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/5)
+[^c-61fc95a9be9d13b455fdbe51a7f62cef]: Textual amendment: Words in reg. 2(5) omitted (31.12.2020) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/5)
 
 [^c19725161]: Marginal citation: Cm 3812; COTIF was modified by the Protocol signed at Vilnius on 3rd June 1999 (Cm 4873).
 
-[^key-f07fd8f6b0fc8281153feddce1de3953]: Textual amendment: Words in reg. 2(5) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/6/a)
+[^c-f07fd8f6b0fc8281153feddce1de3953]: Textual amendment: Words in reg. 2(5) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/6/a)
 
 [^c19725171]: Marginal citation: OJ No L260, 30.9.2008, p.13.
 
-[^key-0350fc93eab9e862dfc56b09765c269f]: Textual amendment: Words in reg. 2(5) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/6/b)
+[^c-0350fc93eab9e862dfc56b09765c269f]: Textual amendment: Words in reg. 2(5) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/6/b)
 
-[^key-d06215132beb4f96e319e6760f104d1f]: Textual amendment: Words in reg. 2(5) inserted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/3/4)
+[^c-d06215132beb4f96e319e6760f104d1f]: Textual amendment: Words in reg. 2(5) inserted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/3/4)
 
-[^key-e1653344bd7078ee61b369cd98286071]: Textual amendment: Words in reg. 2(5) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/7)
+[^c-e1653344bd7078ee61b369cd98286071]: Textual amendment: Words in reg. 2(5) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/7)
 
-[^key-cc0be2120aef6e68aa45f62df42fbd98]: Textual amendment: Words in reg. 2(5) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/8)
+[^c-cc0be2120aef6e68aa45f62df42fbd98]: Textual amendment: Words in reg. 2(5) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/8)
 
 [^c19725181]: Marginal citation: [2004 c.21](https://www.legislation.gov.uk/ukpga/2004/21); section 1(2)(d) was amended by the [Civil Contingencies Act 2004 (c.36)](https://www.legislation.gov.uk/ukpga/2004/36), [Schedule 2](https://www.legislation.gov.uk/ukpga/2004/36/schedule/2), [Part 1](https://www.legislation.gov.uk/ukpga/2004/36/part/1), [paragraph 10(1)](https://www.legislation.gov.uk/ukpga/2004/36/paragraph/10/1) and (2).
 
-[^key-a0de41d75f234c2878ae28ef33437f49]: Textual amendment: Words in reg. 2(5) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/9)
+[^c-a0de41d75f234c2878ae28ef33437f49]: Textual amendment: Words in reg. 2(5) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/9)
 
-[^key-2681ccb103cac26621b55a9b513295c9]: Textual amendment: Words in [reg. 2(5)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/2/5) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/3/a)
+[^c-2681ccb103cac26621b55a9b513295c9]: Textual amendment: Words in [reg. 2(5)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/2/5) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/3/a)
 
-[^key-08a0c48452cc4aa7cc534722a94b284f]: Textual amendment: Words in reg. 2(5) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/10)
+[^c-08a0c48452cc4aa7cc534722a94b284f]: Textual amendment: Words in reg. 2(5) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/10)
 
-[^key-103c9c9916c12f469fedcb7bf7807cba]: Textual amendment: Words in [reg. 2(5)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/2/5) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/3/b)
+[^c-103c9c9916c12f469fedcb7bf7807cba]: Textual amendment: Words in [reg. 2(5)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/2/5) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/3/b)
 
-[^key-8fc47d85a574880e97c58cba98203eb6]: Textual amendment: Words in [reg. 2(5)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/2/5) omitted (1.1.2023) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/3/c)
+[^c-8fc47d85a574880e97c58cba98203eb6]: Textual amendment: Words in [reg. 2(5)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/2/5) omitted (1.1.2023) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/3/c)
 
-[^key-399182b0ebea371866a271cea680fe25]: Textual amendment: Words in [reg. 2(5)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/2/5) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/3/d)
+[^c-399182b0ebea371866a271cea680fe25]: Textual amendment: Words in [reg. 2(5)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/2/5) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/3/d)
 
-[^key-508b8379340fd776bf8c54cdce09a5bb]: Textual amendment: Words in reg. 2(5) omitted (S.) (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 26(2)](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/26/2)
+[^c-508b8379340fd776bf8c54cdce09a5bb]: Textual amendment: Words in reg. 2(5) omitted (S.) (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 26(2)](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/26/2)
 
-[^key-b383cea41554d1502a36a8b9d96614ac]: Textual amendment: Words in reg. 2(5) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(11)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/11)
+[^c-b383cea41554d1502a36a8b9d96614ac]: Textual amendment: Words in reg. 2(5) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(11)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/11)
 
 [^c19725201]: Marginal citation: ISBN 9788086206394 (2009 edition).
 
-[^key-8f2b4c01c700c02aed1b403c549ab71e]: Textual amendment: Words in reg. 2(5) inserted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/3/6)
+[^c-8f2b4c01c700c02aed1b403c549ab71e]: Textual amendment: Words in reg. 2(5) inserted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/3/6)
 
-[^key-99d9303377b16ddad445232fe24656ee]: Textual amendment: Words in reg. 2(5) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(12)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/12)
+[^c-99d9303377b16ddad445232fe24656ee]: Textual amendment: Words in reg. 2(5) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(12)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/12)
 
-[^key-4e89c3169729bf45555930ee55e8417d]: Textual amendment: Words in reg. 2(5) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/3/7)
+[^c-4e89c3169729bf45555930ee55e8417d]: Textual amendment: Words in reg. 2(5) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/3/7)
 
-[^key-5e84c457d3f86be239207b5f06d1366e]: Textual amendment: Words in reg. 2(5) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(13)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/13)
+[^c-5e84c457d3f86be239207b5f06d1366e]: Textual amendment: Words in reg. 2(5) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(13)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/13)
 
-[^key-bb150a500c24f8b89379f0a9b9fb1c01]: Textual amendment: Words in reg. 2(5) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(14)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/14)
+[^c-bb150a500c24f8b89379f0a9b9fb1c01]: Textual amendment: Words in reg. 2(5) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(14)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/14)
 
-[^key-8587bab9a48a49793f474feeffea0a8c]: Textual amendment: Reg. 2(6)(7) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(15)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/15)
+[^c-8587bab9a48a49793f474feeffea0a8c]: Textual amendment: Reg. 2(6)(7) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [3(15)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/3/15)
 
-[^key-be81f7e864e1aacc42ac084dca559689]: Textual amendment: Word in reg. 3(b)(c) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/4/2)
+[^c-be81f7e864e1aacc42ac084dca559689]: Textual amendment: Word in reg. 3(b)(c) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/4/2)
 
-[^key-a5f5fb4eef6ba0d66007b5c5871b025a]: Textual amendment: Reg. 3(f)(g)(h)(i) omitted (24.10.2011) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/4/3)
+[^c-a5f5fb4eef6ba0d66007b5c5871b025a]: Textual amendment: Reg. 3(f)(g)(h)(i) omitted (24.10.2011) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/4/3)
 
-[^key-3c07d6a4fbeb0b834e9e657260e2eb66]: Textual amendment: Word in reg. 3(l) omitted (24.10.2011) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/4/4)
+[^c-3c07d6a4fbeb0b834e9e657260e2eb66]: Textual amendment: Word in reg. 3(l) omitted (24.10.2011) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/4/4)
 
-[^key-bc4eb9e53856984999930534ac7c0079]: Textual amendment: Reg. 3(n)(o) substituted for full stop (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/4/5)
+[^c-bc4eb9e53856984999930534ac7c0079]: Textual amendment: Reg. 3(n)(o) substituted for full stop (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/4/5)
 
-[^key-a964fc2a1c305b7fe18a4ade881c8498]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/4/1A) inserted (21.4.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations 2019 (S.I. 2019/598)](https://www.legislation.gov.uk/uksi/2019/598), [regs. 1](https://www.legislation.gov.uk/uksi/2019/598/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2019/598/regulation/4/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/598/regulation/9))
+[^c-a964fc2a1c305b7fe18a4ade881c8498]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/4/1A) inserted (21.4.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations 2019 (S.I. 2019/598)](https://www.legislation.gov.uk/uksi/2019/598), [regs. 1](https://www.legislation.gov.uk/uksi/2019/598/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2019/598/regulation/4/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/598/regulation/9))
 
-[^key-fa09053abe52fe19e7415be598e952af]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/4/2) substituted (21.4.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations 2019 (S.I. 2019/598)](https://www.legislation.gov.uk/uksi/2019/598), [regs. 1](https://www.legislation.gov.uk/uksi/2019/598/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2019/598/regulation/4/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/598/regulation/9))
+[^c-fa09053abe52fe19e7415be598e952af]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/4/2) substituted (21.4.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations 2019 (S.I. 2019/598)](https://www.legislation.gov.uk/uksi/2019/598), [regs. 1](https://www.legislation.gov.uk/uksi/2019/598/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2019/598/regulation/4/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/598/regulation/9))
 
 [^c19725221]: Marginal citation: [1987 c.53](https://www.legislation.gov.uk/ukpga/1987/53).
 
@@ -1890,268 +1890,268 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c19725241]: Marginal citation: ISBN 9780113413263 (2009 edition).
 
-[^key-94aa659164b4acdb79d942953dc7926d]: Textual amendment: Reg. 7(5)(a)(ii) substituted (1.10.2016) by [The Dangerous Goods in Harbour Areas Regulations 2016 (S.I. 2016/721)](https://www.legislation.gov.uk/uksi/2016/721), [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1), [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/10) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/721/regulation/5))
+[^c-94aa659164b4acdb79d942953dc7926d]: Textual amendment: Reg. 7(5)(a)(ii) substituted (1.10.2016) by [The Dangerous Goods in Harbour Areas Regulations 2016 (S.I. 2016/721)](https://www.legislation.gov.uk/uksi/2016/721), [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1), [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/10) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/721/regulation/5))
 
-[^key-b1c7377dd166b4f8dab00e3bcc6f5653]: Textual amendment: Reg. 7(5)(c) substituted (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 23](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/23)
+[^c-b1c7377dd166b4f8dab00e3bcc6f5653]: Textual amendment: Reg. 7(5)(c) substituted (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 23](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/23)
 
-[^key-d4c2a1f1c1a42ca60d741b8483ded737]: Textual amendment: [Reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/11/2/a)[(b)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/11/2/b) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/4/2)
+[^c-d4c2a1f1c1a42ca60d741b8483ded737]: Textual amendment: [Reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/11/2/a)[(b)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/11/2/b) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/4/2)
 
-[^key-704c90997682e6cff300deea707d37af]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/11/3) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/4/3)
+[^c-704c90997682e6cff300deea707d37af]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/11/3) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/4/3)
 
-[^key-48f843cfacf8d954552db3febf97ba75]: Textual amendment: [Reg. 11(4)-(5)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/11/4) omitted (31.12.2020) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/4/4)
+[^c-48f843cfacf8d954552db3febf97ba75]: Textual amendment: [Reg. 11(4)-(5)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/11/4) omitted (31.12.2020) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/4/4)
 
-[^key-ca991e574262eda44cee5618bc9abefe]: Textual amendment: Words in [reg. 11(7)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/11/7) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/4/5)
+[^c-ca991e574262eda44cee5618bc9abefe]: Textual amendment: Words in [reg. 11(7)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/11/7) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/4/5)
 
-[^key-afa267c28c36bbfe73a4bfb467c60d01]: Textual amendment: [Regs. 11A](https://www.legislation.gov.uk/uksi/2009/1348/regulation/11A), [11B](https://www.legislation.gov.uk/uksi/2009/1348/regulation/11B) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/1111/regulation/5)
+[^c-afa267c28c36bbfe73a4bfb467c60d01]: Textual amendment: [Regs. 11A](https://www.legislation.gov.uk/uksi/2009/1348/regulation/11A), [11B](https://www.legislation.gov.uk/uksi/2009/1348/regulation/11B) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/1111/regulation/5)
 
-[^key-20668bc899ef1e542c4acb7c671e5d12]: Textual amendment: Words in reg. 12(1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 28(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/28/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-20668bc899ef1e542c4acb7c671e5d12]: Textual amendment: Words in reg. 12(1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 28(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/28/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-624665bb247ab3a8684e564166f0ec43]: Textual amendment: Words in [reg. 13(3)(b)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/13/3/b) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [6](https://www.legislation.gov.uk/uksi/2020/1111/regulation/6)
+[^c-624665bb247ab3a8684e564166f0ec43]: Textual amendment: Words in [reg. 13(3)(b)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/13/3/b) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [6](https://www.legislation.gov.uk/uksi/2020/1111/regulation/6)
 
 [^c19725281]: Marginal citation: [S.I. 2004/568](https://www.legislation.gov.uk/uksi/2004/568); revoked by [S.I. 2007/1573](https://www.legislation.gov.uk/uksi/2007/1573).
 
-[^key-16ff6241feaba2277d45ba5eddc74535]: Textual amendment: Words in reg. 14(5) inserted (1.10.2014) by [The Acetylene Safety (England and Wales and Scotland) Regulations 2014 (S.I. 2014/1639)](https://www.legislation.gov.uk/uksi/2014/1639), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1639/regulation/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/1639/schedule/2/paragraph/2)
+[^c-16ff6241feaba2277d45ba5eddc74535]: Textual amendment: Words in reg. 14(5) inserted (1.10.2014) by [The Acetylene Safety (England and Wales and Scotland) Regulations 2014 (S.I. 2014/1639)](https://www.legislation.gov.uk/uksi/2014/1639), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1639/regulation/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/1639/schedule/2/paragraph/2)
 
-[^key-6cc9fb68785bfe768a8dac154c4e9dfc]: Textual amendment: Words in reg. 14(6)(d) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/7/a)
+[^c-6cc9fb68785bfe768a8dac154c4e9dfc]: Textual amendment: Words in reg. 14(6)(d) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/7/a)
 
-[^key-87ebc9eabbcf648992c3634a3c61c5a0]: Textual amendment: Words in reg. 14(6)(d) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/7/b)
+[^c-87ebc9eabbcf648992c3634a3c61c5a0]: Textual amendment: Words in reg. 14(6)(d) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/7/b)
 
 [^c19725291]: Marginal citation: [S.I. 2003/403](https://www.legislation.gov.uk/uksi/2003/403).
 
-[^key-75c85fd430db907be5c9dd2c2bfa93ec]: Textual amendment: Reg. 19 substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/7/1)
+[^c-75c85fd430db907be5c9dd2c2bfa93ec]: Textual amendment: Reg. 19 substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/7/1)
 
-[^key-21e3aa6439dbdb53a75d1d9bb06cc94f]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19/1) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/8/2)
+[^c-21e3aa6439dbdb53a75d1d9bb06cc94f]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19/1) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/8/2)
 
-[^key-3fbd0b31592792e50d8a0e43fa688764]: Textual amendment: [Reg. 19(1A)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19/1A) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/8/3)
+[^c-3fbd0b31592792e50d8a0e43fa688764]: Textual amendment: [Reg. 19(1A)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19/1A) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/8/3)
 
-[^key-a1217eee0a586b601b66839844addd45]: Textual amendment: [Reg. 19(3)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19/3)[(4)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19/4) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/8/4)
+[^c-a1217eee0a586b601b66839844addd45]: Textual amendment: [Reg. 19(3)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19/3)[(4)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19/4) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/8/4)
 
-[^key-ac7c6849149c6c5d067a5190ef09be3e]: Textual amendment: Regs. 19A-19F inserted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/7/2)
+[^c-ac7c6849149c6c5d067a5190ef09be3e]: Textual amendment: Regs. 19A-19F inserted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/7/2)
 
-[^key-2660a06c0615490d63059a9007151d19]: Textual amendment: [Reg. 19A(5)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19A/5) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/1111/regulation/9)
+[^c-2660a06c0615490d63059a9007151d19]: Textual amendment: [Reg. 19A(5)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19A/5) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/1111/regulation/9)
 
-[^key-2e1540b3002cc5288b079c672c2579ab]: Textual amendment: Words in [reg. 19A(5)(b)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19A/5/b) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2021/1370/regulation/4)
+[^c-2e1540b3002cc5288b079c672c2579ab]: Textual amendment: Words in [reg. 19A(5)(b)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19A/5/b) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2021/1370/regulation/4)
 
-[^key-4d76bc66a93542f39308366a834539d5]: Textual amendment: [Reg. 19AZA](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AZA) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2021/1370/regulation/5)
+[^c-4d76bc66a93542f39308366a834539d5]: Textual amendment: [Reg. 19AZA](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AZA) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2021/1370/regulation/5)
 
-[^key-e43d806f3f7fd23b5a22b57f868043cd]: Textual amendment: [Regs. 19AA](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AA), [19AB](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AB) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/1111/regulation/10)
+[^c-e43d806f3f7fd23b5a22b57f868043cd]: Textual amendment: [Regs. 19AA](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AA), [19AB](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AB) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/1111/regulation/10)
 
-[^key-9e356fc7c111340b3bc0cf8ce2f5bf65]: Textual amendment: Words in [reg. 19AA(3)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AA/3) substituted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2021/1370/regulation/6)
+[^c-9e356fc7c111340b3bc0cf8ce2f5bf65]: Textual amendment: Words in [reg. 19AA(3)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AA/3) substituted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2021/1370/regulation/6)
 
-[^key-4b59e2f892c4545c6e9043aa6032078b]: Textual amendment: Words in [reg. 19AB](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AB) heading inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/7/a)
+[^c-4b59e2f892c4545c6e9043aa6032078b]: Textual amendment: Words in [reg. 19AB](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AB) heading inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/7/a)
 
-[^key-837c7a87c7c0af0c27fbf2e4f4a4b783]: Textual amendment: Words in [reg. 19AB(1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AB/1) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/7/b)
+[^c-837c7a87c7c0af0c27fbf2e4f4a4b783]: Textual amendment: Words in [reg. 19AB(1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AB/1) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/7/b)
 
-[^key-afcb915bfad17e777e2e3ee313d84993]: Textual amendment: Words in [reg. 19AB(2)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AB/2) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [7(c)(i)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/7/c/i)
+[^c-afcb915bfad17e777e2e3ee313d84993]: Textual amendment: Words in [reg. 19AB(2)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AB/2) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [7(c)(i)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/7/c/i)
 
-[^key-e9d728340f4cdb0ce1c4acbb3610b302]: Textual amendment: [Reg. 19AB(2)(a)(i)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AB/2/a/i)[(ii)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AB/2/a/ii) substituted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [7(c)(ii)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/7/c/ii)
+[^c-e9d728340f4cdb0ce1c4acbb3610b302]: Textual amendment: [Reg. 19AB(2)(a)(i)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AB/2/a/i)[(ii)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AB/2/a/ii) substituted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [7(c)(ii)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/7/c/ii)
 
-[^key-6ac1565faa04c2c1fd116fe52802d001]: Textual amendment: [Reg. 19AB(3)(a)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AB/3/a) substituted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [7(d)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/7/d)
+[^c-6ac1565faa04c2c1fd116fe52802d001]: Textual amendment: [Reg. 19AB(3)(a)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AB/3/a) substituted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [7(d)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/7/d)
 
-[^key-fd21074ac5b7e1211d6328fb66a6ea7a]: Textual amendment: [Reg. 19AB(4)(a)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AB/4/a) substituted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [7(e)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/7/e)
+[^c-fd21074ac5b7e1211d6328fb66a6ea7a]: Textual amendment: [Reg. 19AB(4)(a)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AB/4/a) substituted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [7(e)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/7/e)
 
-[^key-419691221c046a704bacea8da26a76ce]: Textual amendment: [Reg. 19AB(5)(a)(i)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AB/5/a/i)[(ii)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AB/5/a/ii) substituted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [7(f)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/7/f)
+[^c-419691221c046a704bacea8da26a76ce]: Textual amendment: [Reg. 19AB(5)(a)(i)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AB/5/a/i)[(ii)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19AB/5/a/ii) substituted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [7(f)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/7/f)
 
-[^key-d05720bc8f3ef823a3b0cfd6f892cc71]: Textual amendment: Words in reg. 19B heading inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/11/2)
+[^c-d05720bc8f3ef823a3b0cfd6f892cc71]: Textual amendment: Words in reg. 19B heading inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/11/2)
 
-[^key-5808cad9e57ff6dee47e3882bae1efbe]: Textual amendment: Reg. 19B(1) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/11/3)
+[^c-5808cad9e57ff6dee47e3882bae1efbe]: Textual amendment: Reg. 19B(1) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/11/3)
 
-[^key-2889a5427a5b2b6dbe70f60677a5329b]: Textual amendment: Words in [reg. 19B(1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19B/1) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2021/1370/regulation/8)
+[^c-2889a5427a5b2b6dbe70f60677a5329b]: Textual amendment: Words in [reg. 19B(1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19B/1) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2021/1370/regulation/8)
 
-[^key-172bdbdb9461380d102687be4a4717ac]: Textual amendment: Words in reg. 19B(2) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/11/4)
+[^c-172bdbdb9461380d102687be4a4717ac]: Textual amendment: Words in reg. 19B(2) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/11/4)
 
-[^key-6e95e1ae457b896c9d97498d36895271]: Textual amendment: Words in reg. 19B(3) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [11(5)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/11/5)
+[^c-6e95e1ae457b896c9d97498d36895271]: Textual amendment: Words in reg. 19B(3) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [11(5)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/11/5)
 
-[^key-00eafbb7b1df6465fae542dcc759b6b2]: Textual amendment: Reg. 19B(6) omitted (31.12.2020) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [11(6)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/11/6)
+[^c-00eafbb7b1df6465fae542dcc759b6b2]: Textual amendment: Reg. 19B(6) omitted (31.12.2020) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [11(6)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/11/6)
 
-[^key-bcc633e1ee4302f6ba664c6a80102893]: Textual amendment: [Regs. 19BA-19BC](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19BA) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [12](https://www.legislation.gov.uk/uksi/2020/1111/regulation/12)
+[^c-bcc633e1ee4302f6ba664c6a80102893]: Textual amendment: [Regs. 19BA-19BC](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19BA) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [12](https://www.legislation.gov.uk/uksi/2020/1111/regulation/12)
 
-[^key-20246380a596182539ea93efd1f4b900]: Textual amendment: Words in [reg. 19BA(b)(ii)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19BA/b/ii) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2021/1370/regulation/9)
+[^c-20246380a596182539ea93efd1f4b900]: Textual amendment: Words in [reg. 19BA(b)(ii)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19BA/b/ii) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2021/1370/regulation/9)
 
-[^key-f8e227a420e756b5caa82c9566896fb2]: Textual amendment: Words in [reg. 19BB(1)(a)(i)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19BB/1/a/i) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [10(a)(i)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/10/a/i)
+[^c-f8e227a420e756b5caa82c9566896fb2]: Textual amendment: Words in [reg. 19BB(1)(a)(i)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19BB/1/a/i) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [10(a)(i)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/10/a/i)
 
-[^key-6ef5f3ce0e736821cafb541f087537f7]: Textual amendment: Words in [reg. 19BB(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19BB/1/a/ii) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [10(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/10/a/ii)
+[^c-6ef5f3ce0e736821cafb541f087537f7]: Textual amendment: Words in [reg. 19BB(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19BB/1/a/ii) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [10(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/10/a/ii)
 
-[^key-c4c68c0e4b444d86dd8edc0d89298946]: Textual amendment: Words in [reg. 19BB(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19BB/1/b/ii) substituted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/10/b)
+[^c-c4c68c0e4b444d86dd8edc0d89298946]: Textual amendment: Words in [reg. 19BB(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19BB/1/b/ii) substituted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/10/b)
 
-[^key-22295142fe4bd8cafc3490f3b4085f29]: Textual amendment: Words in [reg. 19C](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19C) heading inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/13/2)
+[^c-22295142fe4bd8cafc3490f3b4085f29]: Textual amendment: Words in [reg. 19C](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19C) heading inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/13/2)
 
-[^key-8cf1ee887009b77992cef9d95ea94f3b]: Textual amendment: [Reg. 19C(A1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19C/A1) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [13(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/13/3)
+[^c-8cf1ee887009b77992cef9d95ea94f3b]: Textual amendment: [Reg. 19C(A1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19C/A1) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [13(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/13/3)
 
-[^key-9ab1d9a84178ea27525c53805497d679]: Textual amendment: Words in [reg. 19C(A1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19C/A1) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2021/1370/regulation/11)
+[^c-9ab1d9a84178ea27525c53805497d679]: Textual amendment: Words in [reg. 19C(A1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19C/A1) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2021/1370/regulation/11)
 
-[^key-51a715f8eaae9a06ddd5a056f8136a6f]: Textual amendment: [Reg. 19C(1)(a)-(c)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19C/1/a) omitted (31.12.2020) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [13(4)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/13/4)
+[^c-51a715f8eaae9a06ddd5a056f8136a6f]: Textual amendment: [Reg. 19C(1)(a)-(c)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19C/1/a) omitted (31.12.2020) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [13(4)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/13/4)
 
-[^key-6a068ef0b09770074caa4ef817b2f9c3]: Textual amendment: [Reg. 19C(3)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19C/3) omitted (31.12.2020) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [13(5)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/13/5)
+[^c-6a068ef0b09770074caa4ef817b2f9c3]: Textual amendment: [Reg. 19C(3)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19C/3) omitted (31.12.2020) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [13(5)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/13/5)
 
-[^key-ad88a0b7b2ab3f45beb7b359e1a8c034]: Textual amendment: Words in [reg. 19C(4)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19C/4) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [13(6)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/13/6)
+[^c-ad88a0b7b2ab3f45beb7b359e1a8c034]: Textual amendment: Words in [reg. 19C(4)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19C/4) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [13(6)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/13/6)
 
-[^key-893abc3740f5fd5d8fa8a832ad81c244]: Textual amendment: [Regs. 19CA](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19CA), [19CB](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19CB) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [14](https://www.legislation.gov.uk/uksi/2020/1111/regulation/14)
+[^c-893abc3740f5fd5d8fa8a832ad81c244]: Textual amendment: [Regs. 19CA](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19CA), [19CB](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19CB) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [14](https://www.legislation.gov.uk/uksi/2020/1111/regulation/14)
 
-[^key-0ab2248529973369c375cbd86bc7c972]: Textual amendment: Words in [reg. 19CA(1)(a)(i)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19CA/1/a/i) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/12/a)
+[^c-0ab2248529973369c375cbd86bc7c972]: Textual amendment: Words in [reg. 19CA(1)(a)(i)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19CA/1/a/i) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/12/a)
 
-[^key-4de37a9e9ee6ac89bfbfc073c094f532]: Textual amendment: Words in [reg. 19CA(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19CA/1/a/ii) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/12/b)
+[^c-4de37a9e9ee6ac89bfbfc073c094f532]: Textual amendment: Words in [reg. 19CA(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19CA/1/a/ii) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/12/b)
 
-[^key-24f33455ca6b30eb1f211a18998be7b1]: Textual amendment: Words in [reg. 19D](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19D) heading inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/15/2)
+[^c-24f33455ca6b30eb1f211a18998be7b1]: Textual amendment: Words in [reg. 19D](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19D) heading inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/15/2)
 
-[^key-8b172fa86bb5f168c88c27e271548f17]: Textual amendment: Words in [reg. 19D](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19D) heading inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/13/a)
+[^c-8b172fa86bb5f168c88c27e271548f17]: Textual amendment: Words in [reg. 19D](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19D) heading inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/13/a)
 
-[^key-f1eb01cc7701a593e1016199fc0b1076]: Textual amendment: [Reg. 19D(A1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19D/A1) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [15(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/15/3)
+[^c-f1eb01cc7701a593e1016199fc0b1076]: Textual amendment: [Reg. 19D(A1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19D/A1) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [15(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/15/3)
 
-[^key-2f5e44b18dd3a0549fa6be8e208b3553]: Textual amendment: Words in [reg. 19D(A1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19D/A1) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/13/b)
+[^c-2f5e44b18dd3a0549fa6be8e208b3553]: Textual amendment: Words in [reg. 19D(A1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19D/A1) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/13/b)
 
-[^key-c3b7ebdce47b044ea86b3e330a9f337d]: Textual amendment: [Reg. 19D(1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19D/1) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [15(4)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/15/4)
+[^c-c3b7ebdce47b044ea86b3e330a9f337d]: Textual amendment: [Reg. 19D(1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19D/1) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [15(4)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/15/4)
 
-[^key-70e31d90f7bbafe5015a02b23a848580]: Textual amendment: [Reg. 19D(3)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19D/3) omitted (31.12.2020) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [15(5)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/15/5)
+[^c-70e31d90f7bbafe5015a02b23a848580]: Textual amendment: [Reg. 19D(3)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19D/3) omitted (31.12.2020) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [15(5)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/15/5)
 
-[^key-36c8fb87618c799cb2353e46b8863fab]: Textual amendment: Words in [reg. 19D(4)(b)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19D/4/b) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [15(6)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/15/6)
+[^c-36c8fb87618c799cb2353e46b8863fab]: Textual amendment: Words in [reg. 19D(4)(b)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19D/4/b) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [15(6)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/15/6)
 
-[^key-1a927e32ffc6e62072e166f141154542]: Textual amendment: [Reg. 19E(2A)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19E/2A) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/16/2)
+[^c-1a927e32ffc6e62072e166f141154542]: Textual amendment: [Reg. 19E(2A)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19E/2A) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/16/2)
 
-[^key-156fefb635f5d276ddb75a17946a5105]: Textual amendment: Words in [reg. 19E(3)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19E/3) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [16(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/16/3)
+[^c-156fefb635f5d276ddb75a17946a5105]: Textual amendment: Words in [reg. 19E(3)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19E/3) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [16(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/16/3)
 
-[^key-05c2c225f940fbabd21a75a857bf2b40]: Textual amendment: Words in [reg. 19E(3)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19E/3) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2021/1370/regulation/14)
+[^c-05c2c225f940fbabd21a75a857bf2b40]: Textual amendment: Words in [reg. 19E(3)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/19E/3) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2021/1370/regulation/14)
 
-[^key-e561ccf064647ed53a671414214b84ff]: Textual amendment: Reg. 20 substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [8](https://www.legislation.gov.uk/uksi/2011/1885/regulation/8)
+[^c-e561ccf064647ed53a671414214b84ff]: Textual amendment: Reg. 20 substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [8](https://www.legislation.gov.uk/uksi/2011/1885/regulation/8)
 
-[^key-d81f17af4c35135a58498a35b0a21849]: Textual amendment: Reg. 20(1) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/17/2)
+[^c-d81f17af4c35135a58498a35b0a21849]: Textual amendment: Reg. 20(1) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/17/2)
 
-[^key-ac40602a525f45c71819dd925382e485]: Textual amendment: Words in [reg. 20(1)(a)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/20/1/a) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/15/a)
+[^c-ac40602a525f45c71819dd925382e485]: Textual amendment: Words in [reg. 20(1)(a)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/20/1/a) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/15/a)
 
-[^key-09a4a23c88ac62596ecb239882d71c8f]: Textual amendment: Reg. 20(2)(b)(c) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [17(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/17/3)
+[^c-09a4a23c88ac62596ecb239882d71c8f]: Textual amendment: Reg. 20(2)(b)(c) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [17(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/17/3)
 
-[^key-d866ad1c0d5630abf52dc1bd1cf53081]: Textual amendment: Words in [reg. 20(2)(c)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/20/2/c) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [15(b)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/15/b)
+[^c-d866ad1c0d5630abf52dc1bd1cf53081]: Textual amendment: Words in [reg. 20(2)(c)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/20/2/c) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [15(b)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/15/b)
 
-[^key-baa46dba9fbeb98c69d2c8801e80f2cd]: Textual amendment: Words in reg. 20(3) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [17(4)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/17/4)
+[^c-baa46dba9fbeb98c69d2c8801e80f2cd]: Textual amendment: Words in reg. 20(3) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [17(4)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/17/4)
 
-[^key-3223422efc2b174e8682030080be353d]: Textual amendment: Reg. 20(5) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [17(5)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/17/5)
+[^c-3223422efc2b174e8682030080be353d]: Textual amendment: Reg. 20(5) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [17(5)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/17/5)
 
-[^key-534cb72d718d1d71d71fd1aa4750db79]: Textual amendment: Words in [reg. 20(5)(b)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/20/5/b) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [15(c)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/15/c)
+[^c-534cb72d718d1d71d71fd1aa4750db79]: Textual amendment: Words in [reg. 20(5)(b)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/20/5/b) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [15(c)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/15/c)
 
-[^key-1ecf0b089e77ce0572acb99c27dc4e03]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/2009/1348/regulation/20A) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [18](https://www.legislation.gov.uk/uksi/2020/1111/regulation/18)
+[^c-1ecf0b089e77ce0572acb99c27dc4e03]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/2009/1348/regulation/20A) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [18](https://www.legislation.gov.uk/uksi/2020/1111/regulation/18)
 
-[^key-e2a4a743068a992e38cb1d158b0656d4]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2009/1348/regulation/21) heading inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/19/2)
+[^c-e2a4a743068a992e38cb1d158b0656d4]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2009/1348/regulation/21) heading inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/19/2)
 
-[^key-608c4c017303d2f0ef85f3c21ab0c349]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/21/1) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [19(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/19/3)
+[^c-608c4c017303d2f0ef85f3c21ab0c349]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/21/1) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [19(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/19/3)
 
-[^key-04ed6f12bcc0957eb4adf316826de75d]: Textual amendment: Word in reg. 21(1) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/9/2)
+[^c-04ed6f12bcc0957eb4adf316826de75d]: Textual amendment: Word in reg. 21(1) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/9/2)
 
-[^key-bccbb4da5eeec7d8380c4e04613bf841]: Textual amendment: Words in reg. 21(3)(a) inserted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/9/3/a)
+[^c-bccbb4da5eeec7d8380c4e04613bf841]: Textual amendment: Words in reg. 21(3)(a) inserted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/9/3/a)
 
-[^key-056ac568bea429ce24deec03c243e193]: Textual amendment: Words in reg. 21(3)(a) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/9/3/b)
+[^c-056ac568bea429ce24deec03c243e193]: Textual amendment: Words in reg. 21(3)(a) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/9/3/b)
 
-[^key-64097ffbe2a8e04292644b59af89ad88]: Textual amendment: Reg. 21(3)(b) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/9/4)
+[^c-64097ffbe2a8e04292644b59af89ad88]: Textual amendment: Reg. 21(3)(b) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/9/4)
 
-[^key-7bb5ddee6035bee4e46f1a6aa5d49859]: Textual amendment: Reg. 21(4) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/9/5)
+[^c-7bb5ddee6035bee4e46f1a6aa5d49859]: Textual amendment: Reg. 21(4) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/9/5)
 
-[^key-a5dbd8da1f692d18eedf1a754bac8136]: Textual amendment: Reg. 21(5) inserted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/9/6)
+[^c-a5dbd8da1f692d18eedf1a754bac8136]: Textual amendment: Reg. 21(5) inserted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/9/6)
 
-[^key-7db28ee681d528ecca82fc1054803e5e]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2009/1348/regulation/21A) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [20](https://www.legislation.gov.uk/uksi/2020/1111/regulation/20)
+[^c-7db28ee681d528ecca82fc1054803e5e]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2009/1348/regulation/21A) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [20](https://www.legislation.gov.uk/uksi/2020/1111/regulation/20)
 
-[^key-3372217ec244411fbf829df8d79b5891]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2009/1348/regulation/22) heading inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/21/2)
+[^c-3372217ec244411fbf829df8d79b5891]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2009/1348/regulation/22) heading inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/21/2)
 
-[^key-19259df7a1e1e19e2602698aae29a745]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2009/1348/regulation/22) heading inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [16(a)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/16/a)
+[^c-19259df7a1e1e19e2602698aae29a745]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2009/1348/regulation/22) heading inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [16(a)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/16/a)
 
-[^key-b18fbe8efe43da968aa614e2040a47be]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/22/1) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [21(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/21/3)
+[^c-b18fbe8efe43da968aa614e2040a47be]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/22/1) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [21(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/21/3)
 
-[^key-68ae6f8379a73c01761ebae66eb42d03]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/22/1) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [16(b)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/16/b)
+[^c-68ae6f8379a73c01761ebae66eb42d03]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/22/1) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [16(b)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/16/b)
 
-[^key-a2aab89efbc1e3e8f700c7db09768882]: Textual amendment: Word in reg. 22(1) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/10/2)
+[^c-a2aab89efbc1e3e8f700c7db09768882]: Textual amendment: Word in reg. 22(1) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/10/2)
 
-[^key-e87014528b1ffcacb5c02ba7766bbdd2]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/22/2) substituted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [16(c)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/16/c)
+[^c-e87014528b1ffcacb5c02ba7766bbdd2]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/22/2) substituted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [16(c)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/16/c)
 
-[^key-1b7356b75cb0dd951c3c139060edea94]: Textual amendment: Words in reg. 22(2) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [10(3)(c)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/10/3/c)
+[^c-1b7356b75cb0dd951c3c139060edea94]: Textual amendment: Words in reg. 22(2) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [10(3)(c)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/10/3/c)
 
-[^key-b338c206f43da3a450fe359a655670f2]: Textual amendment: Reg. 22(3) omitted (24.10.2011) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/10/4)
+[^c-b338c206f43da3a450fe359a655670f2]: Textual amendment: Reg. 22(3) omitted (24.10.2011) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/10/4)
 
-[^key-effaf76ef8302429eaf9ff7ef4dbbbf1]: Textual amendment: Words in [reg. 22(4)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/22/4) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [21(4)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/21/4)
+[^c-effaf76ef8302429eaf9ff7ef4dbbbf1]: Textual amendment: Words in [reg. 22(4)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/22/4) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [21(4)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/21/4)
 
-[^key-116bdb87a8f651f3160da2b1b9333868]: Textual amendment: Words in [reg. 22(4)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/22/4) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [16(d)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/16/d)
+[^c-116bdb87a8f651f3160da2b1b9333868]: Textual amendment: Words in [reg. 22(4)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/22/4) inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [16(d)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/16/d)
 
-[^key-60e322e93a4558823c729af93f1365c0]: Textual amendment: Words in reg. 22(4) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [10(5)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/10/5)
+[^c-60e322e93a4558823c729af93f1365c0]: Textual amendment: Words in reg. 22(4) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [10(5)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/10/5)
 
-[^key-28cee1fc37d47dc816f4e0f3f5a2a7d2]: Textual amendment: [Regs. 22A](https://www.legislation.gov.uk/uksi/2009/1348/regulation/22A), [22B](https://www.legislation.gov.uk/uksi/2009/1348/regulation/22B) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [22(1)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/22/1)
+[^c-28cee1fc37d47dc816f4e0f3f5a2a7d2]: Textual amendment: [Regs. 22A](https://www.legislation.gov.uk/uksi/2009/1348/regulation/22A), [22B](https://www.legislation.gov.uk/uksi/2009/1348/regulation/22B) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [22(1)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/22/1)
 
-[^key-4840a76f171b30839e52cf646613266f]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2009/1348/regulation/23) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [23](https://www.legislation.gov.uk/uksi/2020/1111/regulation/23)
+[^c-4840a76f171b30839e52cf646613266f]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2009/1348/regulation/23) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [23](https://www.legislation.gov.uk/uksi/2020/1111/regulation/23)
 
-[^key-cbc9e3799eed732fd68cad8b2833e3a0]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2009/1348/part/4A) inserted (21.4.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations 2019 (S.I. 2019/598)](https://www.legislation.gov.uk/uksi/2019/598), [regs. 1](https://www.legislation.gov.uk/uksi/2019/598/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/598/regulation/5) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/598/regulation/9))
+[^c-cbc9e3799eed732fd68cad8b2833e3a0]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2009/1348/part/4A) inserted (21.4.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations 2019 (S.I. 2019/598)](https://www.legislation.gov.uk/uksi/2019/598), [regs. 1](https://www.legislation.gov.uk/uksi/2019/598/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/598/regulation/5) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/598/regulation/9))
 
-[^key-b85a6557dedc2940d505371edc6449eb]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2009/1348/part/5) heading substituted (21.4.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations 2019 (S.I. 2019/598)](https://www.legislation.gov.uk/uksi/2019/598), [regs. 1](https://www.legislation.gov.uk/uksi/2019/598/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/598/regulation/6) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/598/regulation/9))
+[^c-b85a6557dedc2940d505371edc6449eb]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2009/1348/part/5) heading substituted (21.4.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations 2019 (S.I. 2019/598)](https://www.legislation.gov.uk/uksi/2019/598), [regs. 1](https://www.legislation.gov.uk/uksi/2019/598/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/598/regulation/6) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/598/regulation/9))
 
-[^key-fe6914c0b36ac66b712a7a0c1b904946]: Textual amendment: Reg. 24 substituted (21.4.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations 2019 (S.I. 2019/598)](https://www.legislation.gov.uk/uksi/2019/598), [regs. 1](https://www.legislation.gov.uk/uksi/2019/598/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/598/regulation/7) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/598/regulation/9))
+[^c-fe6914c0b36ac66b712a7a0c1b904946]: Textual amendment: Reg. 24 substituted (21.4.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations 2019 (S.I. 2019/598)](https://www.legislation.gov.uk/uksi/2019/598), [regs. 1](https://www.legislation.gov.uk/uksi/2019/598/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/598/regulation/7) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/598/regulation/9))
 
-[^key-4a208451e5ae9625c9d4cac0b1eba536]: Textual amendment: Reg. 25(3A) inserted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/11/2)
+[^c-4a208451e5ae9625c9d4cac0b1eba536]: Textual amendment: Reg. 25(3A) inserted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/11/2)
 
-[^key-d150cb0c0d320440bcf563514ee52272]: Textual amendment: Words in reg. 25(3A) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 28(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/28/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-d150cb0c0d320440bcf563514ee52272]: Textual amendment: Words in reg. 25(3A) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 28(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/28/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-ead5b2e4771008dee53fcc8a0c3da8df]: Textual amendment: Reg. 25(11)(a) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/11/3)
+[^c-ead5b2e4771008dee53fcc8a0c3da8df]: Textual amendment: Reg. 25(11)(a) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/11/3)
 
 [^c19725311]: Marginal citation: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27); section 121A was inserted by the [New Roads and Street Works Act 1991 (c.22)](https://www.legislation.gov.uk/ukpga/1991/22), [Schedule 8](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8), [Part 2](https://www.legislation.gov.uk/ukpga/1991/22/part/2), [paragraph 70](https://www.legislation.gov.uk/ukpga/1991/22/paragraph/70) and amended by the [Greater London Authority Act 1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29), [section 271](https://www.legislation.gov.uk/ukpga/1999/29/section/271) and [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820) and 2001/1400.
 
-[^key-cc94d5cc245f116f0ce7dbeb445da4ea]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/2009/1348/regulation/26A) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [24](https://www.legislation.gov.uk/uksi/2020/1111/regulation/24)
+[^c-cc94d5cc245f116f0ce7dbeb445da4ea]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/2009/1348/regulation/26A) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [24](https://www.legislation.gov.uk/uksi/2020/1111/regulation/24)
 
-[^key-d945f411e3c235e28bb7f905fea63ed6]: Modification: Reg. 27 modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 8(2)(b)(i)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/8/2/b/i) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-d945f411e3c235e28bb7f905fea63ed6]: Modification: Reg. 27 modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 8(2)(b)(i)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/8/2/b/i) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-e8029381e1604e8b44d43ae7de3d0d47]: Textual amendment: Words in [reg. 29(4)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/29/4) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [25(2)(a)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/25/2/a)
+[^c-e8029381e1604e8b44d43ae7de3d0d47]: Textual amendment: Words in [reg. 29(4)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/29/4) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [25(2)(a)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/25/2/a)
 
-[^key-ae0f9feeb02d8b0a9e8468d9ef50c4aa]: Textual amendment: Words in [reg. 29(4)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/29/4) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [25(2)(b)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/25/2/b)
+[^c-ae0f9feeb02d8b0a9e8468d9ef50c4aa]: Textual amendment: Words in [reg. 29(4)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/29/4) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [25(2)(b)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/25/2/b)
 
-[^key-5d40c50afdd8daad4af92753e3a4e53f]: Textual amendment: Words in reg. 29(4) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/12/2)
+[^c-5d40c50afdd8daad4af92753e3a4e53f]: Textual amendment: Words in reg. 29(4) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/12/2)
 
-[^key-a4fb8034b882aeaa9f10d2dacafca4ff]: Textual amendment: Words in [reg. 29(4)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/29/4) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [25(2)(c)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/25/2/c)
+[^c-a4fb8034b882aeaa9f10d2dacafca4ff]: Textual amendment: Words in [reg. 29(4)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/29/4) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [25(2)(c)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/25/2/c)
 
-[^key-a0c3d01f8a8ec24817af0e5a09366f10]: Textual amendment: [Reg. 29(4A)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/29/4A) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [25(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/25/3)
+[^c-a0c3d01f8a8ec24817af0e5a09366f10]: Textual amendment: [Reg. 29(4A)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/29/4A) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [25(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/25/3)
 
-[^key-9323cbc36c7a9e0d0e31e013f9cf13b0]: Textual amendment: Reg. 29(5) omitted (24.10.2011) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/12/3)
+[^c-9323cbc36c7a9e0d0e31e013f9cf13b0]: Textual amendment: Reg. 29(5) omitted (24.10.2011) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2011/1885/regulation/12/3)
 
-[^key-ed9c7290a4b551ce865d8b643cc3ebf8]: Modification: Reg. 29(6) modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 8(2)(b)(i)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/8/2/b/i) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-ed9c7290a4b551ce865d8b643cc3ebf8]: Modification: Reg. 29(6) modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 8(2)(b)(i)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/8/2/b/i) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-5abe25b6726a1c80eb0daf9fc3e5e74d]: Modification: Reg. 29(6) modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 8(2)(c)(i)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/8/2/c/i) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-5abe25b6726a1c80eb0daf9fc3e5e74d]: Modification: Reg. 29(6) modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 8(2)(c)(i)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/8/2/c/i) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-ce02b64b7ef90f9e87f79121c892585c]: Modification: [Reg. 32](https://www.legislation.gov.uk/uksi/2009/1348/regulation/32) applied (4.8.2023) by [The A303 (Amesbury to Berwick Down) Development Consent Order 2023 (S.I. 2023/834)](https://www.legislation.gov.uk/uksi/2023/834), [arts. 1](https://www.legislation.gov.uk/uksi/2023/834/article/1), [43](https://www.legislation.gov.uk/uksi/2023/834/article/43) (with [arts. 6(2)](https://www.legislation.gov.uk/uksi/2023/834/article/6/2), [18](https://www.legislation.gov.uk/uksi/2023/834/article/18), [Sch. 11 paras. 5](https://www.legislation.gov.uk/uksi/2023/834/schedule/11/paragraph/5), [30](https://www.legislation.gov.uk/uksi/2023/834/schedule/11/paragraph/30))
+[^c-ce02b64b7ef90f9e87f79121c892585c]: Modification: [Reg. 32](https://www.legislation.gov.uk/uksi/2009/1348/regulation/32) applied (4.8.2023) by [The A303 (Amesbury to Berwick Down) Development Consent Order 2023 (S.I. 2023/834)](https://www.legislation.gov.uk/uksi/2023/834), [arts. 1](https://www.legislation.gov.uk/uksi/2023/834/article/1), [43](https://www.legislation.gov.uk/uksi/2023/834/article/43) (with [arts. 6(2)](https://www.legislation.gov.uk/uksi/2023/834/article/6/2), [18](https://www.legislation.gov.uk/uksi/2023/834/article/18), [Sch. 11 paras. 5](https://www.legislation.gov.uk/uksi/2023/834/schedule/11/paragraph/5), [30](https://www.legislation.gov.uk/uksi/2023/834/schedule/11/paragraph/30))
 
-[^key-5835a842a4c67cb2c935fc88298a8102]: Textual amendment: Reg. 32 substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 28(5)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/28/5) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-5835a842a4c67cb2c935fc88298a8102]: Textual amendment: Reg. 32 substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 28(5)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/28/5) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-0b7d6a3d0fe281838f48da0c28cbf83b]: Textual amendment: Words in reg. 32 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(v)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/v)
+[^c-0b7d6a3d0fe281838f48da0c28cbf83b]: Textual amendment: Words in reg. 32 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(v)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/v)
 
-[^key-3c8a5ffd7eb57c01e673ea0ed746981e]: Textual amendment: Reg. 32A inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 28(6)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/28/6) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-3c8a5ffd7eb57c01e673ea0ed746981e]: Textual amendment: Reg. 32A inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 28(6)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/28/6) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-b5c40a657ef71b498f07187c8030e494]: Textual amendment: Words in [reg. 32A(2)(a)(i)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/32A/2/a/i) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
+[^c-b5c40a657ef71b498f07187c8030e494]: Textual amendment: Words in [reg. 32A(2)(a)(i)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/32A/2/a/i) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
 
-[^key-25135071bf8047e3f3c863e880b12d24]: Textual amendment: Words in [reg. 32A(4)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/32A/4) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/2)
+[^c-25135071bf8047e3f3c863e880b12d24]: Textual amendment: Words in [reg. 32A(4)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/32A/4) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/2)
 
-[^key-b1b497b12e13ef4c9f2d59e13bfc56dc]: Textual amendment: Words in [reg. 32A(4)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/32A/4) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
+[^c-b1b497b12e13ef4c9f2d59e13bfc56dc]: Textual amendment: Words in [reg. 32A(4)](https://www.legislation.gov.uk/uksi/2009/1348/regulation/32A/4) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
 
-[^key-b52b9b7d8f2a428015b0aae929eebf4d]: Textual amendment: Reg. 34 inserted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [14](https://www.legislation.gov.uk/uksi/2011/1885/regulation/14)
+[^c-b52b9b7d8f2a428015b0aae929eebf4d]: Textual amendment: Reg. 34 inserted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [14](https://www.legislation.gov.uk/uksi/2011/1885/regulation/14)
 
-[^key-2c1ca52c0445b5119ef31eb0260df3aa]: Textual amendment: Words in Sch. 1 para. 4(2)(b) omitted (S.) (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 26(3)(a)](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/26/3/a)
+[^c-2c1ca52c0445b5119ef31eb0260df3aa]: Textual amendment: Words in Sch. 1 para. 4(2)(b) omitted (S.) (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 26(3)(a)](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/26/3/a)
 
-[^key-b2db00778ce084ca25040654b953ba3a]: Textual amendment: Words in Sch. 1 para. 4(2)(b) inserted (S.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 26(3)(b)](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/26/3/b)
+[^c-b2db00778ce084ca25040654b953ba3a]: Textual amendment: Words in Sch. 1 para. 4(2)(b) inserted (S.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 26(3)(b)](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/26/3/b)
 
-[^key-9cdcb074f6aee6ebd583d04ad216d156]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2009/1348/schedule/1A) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2020/1111/schedule)
+[^c-9cdcb074f6aee6ebd583d04ad216d156]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2009/1348/schedule/1A) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2020/1111/schedule)
 
-[^key-a9da5c9dc4fc9509f1b5009a23be5ecb]: Textual amendment: Sch. 2 substituted (21.4.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations 2019 (S.I. 2019/598)](https://www.legislation.gov.uk/uksi/2019/598), [reg. 1](https://www.legislation.gov.uk/uksi/2019/598/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/598/schedule) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/598/regulation/9))
+[^c-a9da5c9dc4fc9509f1b5009a23be5ecb]: Textual amendment: Sch. 2 substituted (21.4.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations 2019 (S.I. 2019/598)](https://www.legislation.gov.uk/uksi/2019/598), [reg. 1](https://www.legislation.gov.uk/uksi/2019/598/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/598/schedule) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/598/regulation/9))
 
-[^key-bbd5772af9474f1838da9638e26ba9b9]: Textual amendment: Words in Sch. 2 substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-bbd5772af9474f1838da9638e26ba9b9]: Textual amendment: Words in Sch. 2 substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-064be1a9b8d91b9a100b9338d0b70158]: Textual amendment: Words in [Sch. 2 para. 6(6)(a)(iv)](https://www.legislation.gov.uk/uksi/2009/1348/schedule/2/paragraph/6/6/a/iv) substituted (1.11.2021) by [The Radiation Emergency and Consultation Regulations 2021 (S.I. 2021/1110)](https://www.legislation.gov.uk/uksi/2021/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/1110/regulation/3)
+[^c-064be1a9b8d91b9a100b9338d0b70158]: Textual amendment: Words in [Sch. 2 para. 6(6)(a)(iv)](https://www.legislation.gov.uk/uksi/2009/1348/schedule/2/paragraph/6/6/a/iv) substituted (1.11.2021) by [The Radiation Emergency and Consultation Regulations 2021 (S.I. 2021/1110)](https://www.legislation.gov.uk/uksi/2021/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/1110/regulation/3)
 
-[^key-ef80eabfa5d19c41aa6b6d463355fac3]: Textual amendment: Words in Sch. 2 para. 6(6)(a)(iv) substituted (S.) (1.4.2020) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(3)(b)](https://www.legislation.gov.uk/ssi/2019/336/article/1/3/b), [sch. 2 para. 11(2)](https://www.legislation.gov.uk/ssi/2019/336/schedule/2/paragraph/11/2) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-ef80eabfa5d19c41aa6b6d463355fac3]: Textual amendment: Words in Sch. 2 para. 6(6)(a)(iv) substituted (S.) (1.4.2020) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(3)(b)](https://www.legislation.gov.uk/ssi/2019/336/article/1/3/b), [sch. 2 para. 11(2)](https://www.legislation.gov.uk/ssi/2019/336/schedule/2/paragraph/11/2) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
 
-[^key-f7fefad1ef69f51b3dbad055ab73cb0a]: Modification: Sch. 3 para. 1 modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 8(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/8/2/b/ii) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-f7fefad1ef69f51b3dbad055ab73cb0a]: Modification: Sch. 3 para. 1 modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 8(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/8/2/b/ii) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-71ba7b678686eb9aeb040e3db1f69240]: Textual amendment: Words in [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/uksi/2009/1348/schedule/3/paragraph/1/2) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [26(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/26/2)
+[^c-71ba7b678686eb9aeb040e3db1f69240]: Textual amendment: Words in [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/uksi/2009/1348/schedule/3/paragraph/1/2) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [26(2)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/26/2)
 
-[^key-0572da554265f2ed0e63860b1f9daf8c]: Textual amendment: [Sch. 3 para. 1(2A)](https://www.legislation.gov.uk/uksi/2009/1348/schedule/3/paragraph/1/2A) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [26(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/26/3)
+[^c-0572da554265f2ed0e63860b1f9daf8c]: Textual amendment: [Sch. 3 para. 1(2A)](https://www.legislation.gov.uk/uksi/2009/1348/schedule/3/paragraph/1/2A) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [26(3)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/26/3)
 
-[^key-617706c2466237698c57053d606c8bf2]: Textual amendment: [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/uksi/2009/1348/schedule/3/paragraph/2/1) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [26(4)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/26/4)
+[^c-617706c2466237698c57053d606c8bf2]: Textual amendment: [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/uksi/2009/1348/schedule/3/paragraph/2/1) substituted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [26(4)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/26/4)
 
-[^key-838b2c9ba96bf0cd290d2774c0b61b0d]: Textual amendment: Word in [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/uksi/2009/1348/schedule/3/paragraph/2/2) omitted (1.1.2023) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [17(a)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/17/a)
+[^c-838b2c9ba96bf0cd290d2774c0b61b0d]: Textual amendment: Word in [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/uksi/2009/1348/schedule/3/paragraph/2/2) omitted (1.1.2023) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [17(a)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/17/a)
 
-[^key-14a4f35e04f1517f3691c1b2d37c2b0f]: Textual amendment: [Sch. 3 para. 2(2)(d)](https://www.legislation.gov.uk/uksi/2009/1348/schedule/3/paragraph/2/2/d) and word inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [17(b)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/17/b)
+[^c-14a4f35e04f1517f3691c1b2d37c2b0f]: Textual amendment: [Sch. 3 para. 2(2)(d)](https://www.legislation.gov.uk/uksi/2009/1348/schedule/3/paragraph/2/2/d) and word inserted (1.1.2023) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1370)](https://www.legislation.gov.uk/uksi/2021/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/1/1), [17(b)](https://www.legislation.gov.uk/uksi/2021/1370/regulation/17/b)
 
-[^key-98871db724d270d84ff074bc8af60243]: Textual amendment: [Sch. 3 para. 2A](https://www.legislation.gov.uk/uksi/2009/1348/schedule/3/paragraph/2A) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [26(5)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/26/5)
+[^c-98871db724d270d84ff074bc8af60243]: Textual amendment: [Sch. 3 para. 2A](https://www.legislation.gov.uk/uksi/2009/1348/schedule/3/paragraph/2A) inserted (31.12.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1111)](https://www.legislation.gov.uk/uksi/2020/1111), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1111/regulation/1), [26(5)](https://www.legislation.gov.uk/uksi/2020/1111/regulation/26/5)
 
-[^key-5d20892c3bb7a0c1a9c2658122e96162]: Modification: Sch. 3 para. 3 modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 8(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/8/2/c/ii) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-5d20892c3bb7a0c1a9c2658122e96162]: Modification: Sch. 3 para. 3 modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 8(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/8/2/c/ii) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-52144c4db87a7af2ad736e2a116fb313]: Modification: Sch. 3 para. 4 modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 8(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/8/2/b/ii) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-52144c4db87a7af2ad736e2a116fb313]: Modification: Sch. 3 para. 4 modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 8(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/8/2/b/ii) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))

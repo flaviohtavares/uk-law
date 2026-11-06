@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107ZB. Health improvement and health inequalities duty[^key-6f22b831527e9e5a4bf82f56a1ac94bd]
+## 107ZB. Health improvement and health inequalities duty[^c-6f22b831527e9e5a4bf82f56a1ac94bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ and any other matters that are determinants of life expectancy or the state of h
 
 ## Annotations
 
-[^key-6f22b831527e9e5a4bf82f56a1ac94bd]: Textual amendment: [S. 107ZB](https://www.legislation.gov.uk/ukpga/2009/20/section/107ZB) and cross-heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 45(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/45/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-6f22b831527e9e5a4bf82f56a1ac94bd]: Textual amendment: [S. 107ZB](https://www.legislation.gov.uk/ukpga/2009/20/section/107ZB) and cross-heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 45(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/45/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

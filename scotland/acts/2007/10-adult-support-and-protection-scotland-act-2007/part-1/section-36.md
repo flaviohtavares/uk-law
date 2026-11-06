@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Visits: supplementary provisions[^key-a8d9a46fcf7405a1afc279813b27c1a3]
+## 36. Visits: supplementary provisions[^c-a8d9a46fcf7405a1afc279813b27c1a3]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8d9a46fcf7405a1afc279813b27c1a3]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2007/10/section/36) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-a8d9a46fcf7405a1afc279813b27c1a3]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2007/10/section/36) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

@@ -56,7 +56,7 @@ In accordance with paragraph 4 of schedule 2 of the European Union (Withdrawal) 
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation, commencement and extent[^key-d429ee6006227746a07db17a587913a2]
+### 1. Citation, commencement and extent[^c-d429ee6006227746a07db17a587913a2]
 
 (1) These Regulations may be cited as the Seed, Propagating Material and Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 and come into force as follows—
 
@@ -68,7 +68,7 @@ In accordance with paragraph 4 of schedule 2 of the European Union (Withdrawal) 
 
 ## PART 2 — AMENDMENTS MADE UNDER SECTION 2(2) OF THE EUROPEAN COMMUNITIES ACT 1972
 
-### 2. The Marketing of Vegetable Plant Material Regulations 1995[^key-b56bbd9179a6ee94b46f6c739b5e23d7]
+### 2. The Marketing of Vegetable Plant Material Regulations 1995[^c-b56bbd9179a6ee94b46f6c739b5e23d7]
 
 In the Marketing of Vegetable Plant Material Regulations 1995 [^c23843951], after regulation 4 (small producers) insert—
 
@@ -86,33 +86,33 @@ In the Marketing of Vegetable Plant Material Regulations 1995 [^c23843951], afte
 
 ## PART 3 — AMENDMENTS OF SECONDARY LEGISLATION RELATING TO WITHDRAWAL FROM THE EUROPEAN UNION
 
-### 3. The Marketing of Vegetable Plant Material Regulations 1995[^key-1f23cd32b9af3e3bdea29529766365b6]
+### 3. The Marketing of Vegetable Plant Material Regulations 1995[^c-1f23cd32b9af3e3bdea29529766365b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. The Marketing of Fruit Plant and Propagating Material (Scotland) Regulations 2017[^key-ce0cbea29b153f01ff1522d492cf0c57]
+### 4. The Marketing of Fruit Plant and Propagating Material (Scotland) Regulations 2017[^c-ce0cbea29b153f01ff1522d492cf0c57]
 
 In the Marketing of Fruit Plant and Propagating Material (Scotland) Regulations 2017 [^c23843961], in regulation 5(2) (general requirements for marketing of plant material), for “European Union” substitute “ United Kingdom ”.
 
 ## PART 4 — REVOCATIONS
 
-### 5. The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019[^key-da468a44f0b3c30019c61a41ed7e4225]
+### 5. The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019[^c-da468a44f0b3c30019c61a41ed7e4225]
 
-Regulations [^key-b35555edb3d239ef5d34ef5dc657bcca]... 13(5)(c) [^key-b35555edb3d239ef5d34ef5dc657bcca]... (the Cereal Seed (Scotland) Regulations 2005) and 16(7)(a) (the Seed Potatoes (Scotland) Regulations 2015) of the Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 [^c23843971] are revoked.
+Regulations [^c-b35555edb3d239ef5d34ef5dc657bcca]... 13(5)(c) [^c-b35555edb3d239ef5d34ef5dc657bcca]... (the Cereal Seed (Scotland) Regulations 2005) and 16(7)(a) (the Seed Potatoes (Scotland) Regulations 2015) of the Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 [^c23843971] are revoked.
 
-### 6. The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019[^key-81910be72bab3b631771828e87c5f864]
+### 6. The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019[^c-81910be72bab3b631771828e87c5f864]
 
 Regulation 7(4) (the Rural Development (Scotland) Regulations 2015) of the Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 [^c23843981] is revoked.
 
-### 7. The Marketing of Horticultural Produce and Bananas (EU Exit) (Scotland) (Amendment) Regulations 2019[^key-8200b88aaa873101b1d42d3311c43d46]
+### 7. The Marketing of Horticultural Produce and Bananas (EU Exit) (Scotland) (Amendment) Regulations 2019[^c-8200b88aaa873101b1d42d3311c43d46]
 
 Regulation 3(13) (amendment of the Marketing of Horticultural Produce (Scotland) Regulations 2009) of the Marketing of Horticultural Produce and Bananas (EU Exit) (Scotland) (Amendment) Regulations 2019 [^c23843991] is revoked.
 
-### 8. The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019[^key-96edf58e05cd5ef7bb4c2128a78fdad0]
+### 8. The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019[^c-96edf58e05cd5ef7bb4c2128a78fdad0]
 
 Regulation 6 (revocation) of the Seed and Propagating Material (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 [^c23844001] is revoked.
 
-### 9. The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019[^key-47dafc90807f5ac65e585d009347e187]
+### 9. The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019[^c-47dafc90807f5ac65e585d009347e187]
 
 Part 4 (revocation) of the Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 [^c23844011] is revoked.
 
@@ -142,36 +142,36 @@ No Business and Regulatory Impact Assessment has been produced for this instrume
 
 [^c23843941]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16) (“**the 2018 Act**”).
 
-[^key-d429ee6006227746a07db17a587913a2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/289/regulation/1) in force at 31.10.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/289/regulation/1/1/a)
+[^c-d429ee6006227746a07db17a587913a2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/289/regulation/1) in force at 31.10.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/289/regulation/1/1/a)
 
-[^key-b56bbd9179a6ee94b46f6c739b5e23d7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/289/regulation/2) in force at 31.10.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/289/regulation/1/1/a)
+[^c-b56bbd9179a6ee94b46f6c739b5e23d7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/289/regulation/2) in force at 31.10.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/289/regulation/1/1/a)
 
 [^c23843951]: Marginal citation: [S.I. 1995/2652](https://www.legislation.gov.uk/uksi/1995/2652), to which there are amendments not relevant to these Regulations.
 
-[^key-1f23cd32b9af3e3bdea29529766365b6]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/289/regulation/3) revoked (31.12.2020) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/a), [sch.](https://www.legislation.gov.uk/ssi/2020/445/schedule)
+[^c-1f23cd32b9af3e3bdea29529766365b6]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/289/regulation/3) revoked (31.12.2020) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/a), [sch.](https://www.legislation.gov.uk/ssi/2020/445/schedule)
 
-[^key-ce0cbea29b153f01ff1522d492cf0c57]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/c)
+[^c-ce0cbea29b153f01ff1522d492cf0c57]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/c)
 
 [^c23843961]: Marginal citation: [S.S.I. 2017/177](https://www.legislation.gov.uk/ssi/2017/177); relevant amending instruments are [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59) and [S.S.I. 2019/190](https://www.legislation.gov.uk/ssi/2019/190). Certain amendments made by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59) come into force on “exit day” within the meaning of section 20 of the 2018 Act (others came into force on 28 March 2019).
 
-[^key-da468a44f0b3c30019c61a41ed7e4225]: Commencement: Reg. 5 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+[^c-da468a44f0b3c30019c61a41ed7e4225]: Commencement: Reg. 5 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
 
-[^key-b35555edb3d239ef5d34ef5dc657bcca]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/ssi/2019/289/regulation/5) revoked (31.12.2020) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/a), [sch.](https://www.legislation.gov.uk/ssi/2020/445/schedule)
+[^c-b35555edb3d239ef5d34ef5dc657bcca]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/ssi/2019/289/regulation/5) revoked (31.12.2020) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/a), [sch.](https://www.legislation.gov.uk/ssi/2020/445/schedule)
 
 [^c23843971]: Marginal citation: [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59).
 
-[^key-81910be72bab3b631771828e87c5f864]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+[^c-81910be72bab3b631771828e87c5f864]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
 
 [^c23843981]: Marginal citation: [S.S.I. 2019/60](https://www.legislation.gov.uk/ssi/2019/60).
 
-[^key-8200b88aaa873101b1d42d3311c43d46]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+[^c-8200b88aaa873101b1d42d3311c43d46]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
 
 [^c23843991]: Marginal citation: [S.S.I. 2019/169](https://www.legislation.gov.uk/ssi/2019/169).
 
-[^key-96edf58e05cd5ef7bb4c2128a78fdad0]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+[^c-96edf58e05cd5ef7bb4c2128a78fdad0]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
 
 [^c23844001]: Marginal citation: [S.S.I. 2019/190](https://www.legislation.gov.uk/ssi/2019/190).
 
-[^key-47dafc90807f5ac65e585d009347e187]: Commencement: Reg. 9 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+[^c-47dafc90807f5ac65e585d009347e187]: Commencement: Reg. 9 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
 
 [^c23844011]: Marginal citation: [S.S.I. 2019/209](https://www.legislation.gov.uk/ssi/2019/209).

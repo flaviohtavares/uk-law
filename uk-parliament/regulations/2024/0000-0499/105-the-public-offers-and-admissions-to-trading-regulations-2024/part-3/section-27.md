@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Procedure for decision to refuse an application[^key-e107172212def8281d5711bef9b28a54]
+## 27. Procedure for decision to refuse an application[^c-e107172212def8281d5711bef9b28a54]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e107172212def8281d5711bef9b28a54]: Commencement: Reg. 27 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-e107172212def8281d5711bef9b28a54]: Commencement: Reg. 27 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
 
 [^f00033]: Footnote: Section 417(1) of the Financial Services and Markets Act 2000 contains a definition of “**the Tribunal**” for the purposes of that Act.

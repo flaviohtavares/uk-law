@@ -47,9 +47,9 @@ summary: ''
 
 (6) The Board shall not acquire or dispose of land without the consent of the Secretary of State[^c941394]; but that restriction does not apply to the grant of a lease of, or a licence or concession in respect of, land if the term of the proposed grant is less than one year.
 
-(7)[^key-e8b5c2fffeedd7b4354e83138cc504ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-e8b5c2fffeedd7b4354e83138cc504ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-4c6d7c3d61622502b642936da29f2747] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-4c6d7c3d61622502b642936da29f2747] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) The Board’s name shall not be taken to confine their activities to Kew.
 
@@ -57,6 +57,6 @@ summary: ''
 
 [^c941394]: Textual amendment: Words in s. 24(6) substituted (27.3.2002) by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794), [art. 5(1)](https://www.legislation.gov.uk/uksi/2002/794/article/5/1), [Sch. 1 para. 22(1)(2)](https://www.legislation.gov.uk/uksi/2002/794/schedule/1/paragraph/22/1/2) (with [arts. 5(3)](https://www.legislation.gov.uk/uksi/2002/794/article/5/3), [6](https://www.legislation.gov.uk/uksi/2002/794/article/6))
 
-[^key-e8b5c2fffeedd7b4354e83138cc504ec]: Textual amendment: [S. 24(7)](https://www.legislation.gov.uk/ukpga/1983/47/section/24/7) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/102), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-e8b5c2fffeedd7b4354e83138cc504ec]: Textual amendment: [S. 24(7)](https://www.legislation.gov.uk/ukpga/1983/47/section/24/7) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/102), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-4c6d7c3d61622502b642936da29f2747]: Textual amendment: [S. 24(8)](https://www.legislation.gov.uk/ukpga/1983/47/section/24/8) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 103](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/103), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-4c6d7c3d61622502b642936da29f2747]: Textual amendment: [S. 24(8)](https://www.legislation.gov.uk/ukpga/1983/47/section/24/8) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 103](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/103), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

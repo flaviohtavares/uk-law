@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 252. Powers of seizure, etc[^key-2d1547e643df9e07af9c8c98724c8939]
+## 252. Powers of seizure, etc[^c-2d1547e643df9e07af9c8c98724c8939]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ In this subsection “**document**” includes anything falling within paragraph
 
 ## Annotations
 
-[^key-2d1547e643df9e07af9c8c98724c8939]: Commencement: S. 252 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)
+[^c-2d1547e643df9e07af9c8c98724c8939]: Commencement: S. 252 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)

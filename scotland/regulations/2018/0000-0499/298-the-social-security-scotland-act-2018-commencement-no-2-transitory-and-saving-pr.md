@@ -76,7 +76,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (1) For the avoidance of doubt, the commencement by regulation 2(1)(d) and (n) of sections 20 and 87 of the Act does not require the Scottish Ministers to prepare any report in respect of the financial year ending on 31 March 2018.
 
-(2)[^key-cb9bb269729aacb05f17094a440e385d] Nothing in regulation 2(1)(a) brings a provision into force for any purpose within exception 1(a) insofar as it relates to industrial injuries benefits or 1(c) in section F1 (benefits for disability and industrial injury) in Part 2 of schedule 5 of the Scotland Act 1998 [^c23403251].
+(2)[^c-cb9bb269729aacb05f17094a440e385d] Nothing in regulation 2(1)(a) brings a provision into force for any purpose within exception 1(a) insofar as it relates to industrial injuries benefits or 1(c) in section F1 (benefits for disability and industrial injury) in Part 2 of schedule 5 of the Scotland Act 1998 [^c23403251].
 
 (3) Nothing in regulation 2(1)(b) to (n) brings a provision into force for any purpose within exception 1 in Section F1 (benefits for disability and industrial injury) in Part 2 of schedule 5 of the Scotland Act 1998.
 
@@ -113,6 +113,6 @@ The following provisions of the Social Security (Scotland) Act 2018 have been br
 
 [^c23403241]: Marginal citation: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9).
 
-[^key-cb9bb269729aacb05f17094a440e385d]: Textual amendment: Reg. 3(2)(3) substituted for reg. 3(2) (10.12.2019) by [The Social Security (Scotland) Act 2018 (Commencement No. 2, Transitory and Saving Provision and Commencement No. 4 and Saving Provision) Amendment Regulations 2019 (S.S.I. 2019/406)](https://www.legislation.gov.uk/ssi/2019/406), [regs. 1](https://www.legislation.gov.uk/ssi/2019/406/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/406/regulation/2/2)
+[^c-cb9bb269729aacb05f17094a440e385d]: Textual amendment: Reg. 3(2)(3) substituted for reg. 3(2) (10.12.2019) by [The Social Security (Scotland) Act 2018 (Commencement No. 2, Transitory and Saving Provision and Commencement No. 4 and Saving Provision) Amendment Regulations 2019 (S.S.I. 2019/406)](https://www.legislation.gov.uk/ssi/2019/406), [regs. 1](https://www.legislation.gov.uk/ssi/2019/406/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/406/regulation/2/2)
 
 [^c23403251]: Marginal citation: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46). Section F1 was amended by sections 22 to 28 of the [Scotland Act 2016 (c.11)](https://www.legislation.gov.uk/ukpga/2016/11). Section 22(2) of that Act inserted exception 1.

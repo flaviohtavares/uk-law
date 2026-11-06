@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Loan of equipment for Scottish parliamentary elections[^key-f11da8b8745d03aea6cafdac764709f1]
+## 20. Loan of equipment for Scottish parliamentary elections[^c-f11da8b8745d03aea6cafdac764709f1]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-93fdf7566492def98c8578e971f5656f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-93fdf7566492def98c8578e971f5656f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Any ballot boxes, fittings and compartments provided by or belonging to a local authority shall, on request, and if not required for immediate use by that authority, be lent to a CRO at a Scottish parliamentary election on such terms and conditions as may be agreed.
 
 ## Annotations
 
-[^key-f11da8b8745d03aea6cafdac764709f1]: Commencement: Art. 20 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-f11da8b8745d03aea6cafdac764709f1]: Commencement: Art. 20 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-93fdf7566492def98c8578e971f5656f]: Textual amendment: [Art. 20(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/20/1) omitted (1.7.2015) by virtue of [The Scotland Act 2012 (Saving and Consequential Provisions) Order 2015 (S.I. 2015/683)](https://www.legislation.gov.uk/uksi/2015/683), [arts. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1), [6](https://www.legislation.gov.uk/uksi/2015/683/article/6) (with [arts. 3-9](https://www.legislation.gov.uk/uksi/2015/683/article/3))
+[^c-93fdf7566492def98c8578e971f5656f]: Textual amendment: [Art. 20(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/20/1) omitted (1.7.2015) by virtue of [The Scotland Act 2012 (Saving and Consequential Provisions) Order 2015 (S.I. 2015/683)](https://www.legislation.gov.uk/uksi/2015/683), [arts. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1), [6](https://www.legislation.gov.uk/uksi/2015/683/article/6) (with [arts. 3-9](https://www.legislation.gov.uk/uksi/2015/683/article/3))

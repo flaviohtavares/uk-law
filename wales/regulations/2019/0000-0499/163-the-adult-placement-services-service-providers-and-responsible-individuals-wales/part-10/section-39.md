@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Premises, facilities and equipment - adult placement carers[^key-39b8093425d30680673f436c9ba506f7]
+## 39. Premises, facilities and equipment - adult placement carers[^c-39b8093425d30680673f436c9ba506f7]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ The service provider must have arrangements in place, to ensure that the premise
 
 ## Annotations
 
-[^key-39b8093425d30680673f436c9ba506f7]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2019/163/regulation/39) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-39b8093425d30680673f436c9ba506f7]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2019/163/regulation/39) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

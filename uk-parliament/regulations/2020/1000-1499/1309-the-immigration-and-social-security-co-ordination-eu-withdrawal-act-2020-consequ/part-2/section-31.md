@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Amendment of the Civil Partnership (Registration Provisions) Regulations 2005[^key-8b3f93bf38fa0badf6e3f3f8eb776e45]
+## 31. Amendment of the Civil Partnership (Registration Provisions) Regulations 2005[^c-8b3f93bf38fa0badf6e3f3f8eb776e45]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8b3f93bf38fa0badf6e3f3f8eb776e45]: Commencement: Reg. 31 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
+[^c-8b3f93bf38fa0badf6e3f3f8eb776e45]: Commencement: Reg. 31 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
 
 [^c24398871]: Marginal citation: [S.I. 2005/3176](https://www.legislation.gov.uk/uksi/2005/3176), relevant amendments are made by [S.I. 2015/177](https://www.legislation.gov.uk/uksi/2015/177).

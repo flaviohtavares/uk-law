@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 127. Meaning of “dies as a pensioner member”[^key-cb06ff0e33d4906864c523e050e53e66]
+## 127. Meaning of “dies as a pensioner member”[^c-cb06ff0e33d4906864c523e050e53e66]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In this Part, a member (D) dies as a pensioner member if a retirement pension be
 
 ## Annotations
 
-[^key-cb06ff0e33d4906864c523e050e53e66]: Commencement: [Reg. 127](https://www.legislation.gov.uk/ssi/2014/292/regulation/127) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-cb06ff0e33d4906864c523e050e53e66]: Commencement: [Reg. 127](https://www.legislation.gov.uk/ssi/2014/292/regulation/127) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

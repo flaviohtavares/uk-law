@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Allowances for energy-saving plant and machinery: Northern Ireland[^key-5ce7b6f46e37691dcc0c1d625cc77dfa]
+## 67. Allowances for energy-saving plant and machinery: Northern Ireland[^c-5ce7b6f46e37691dcc0c1d625cc77dfa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ce7b6f46e37691dcc0c1d625cc77dfa]: Textual amendment: S. 67 repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/a)[(c)(x)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/x)
+[^c-5ce7b6f46e37691dcc0c1d625cc77dfa]: Textual amendment: S. 67 repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/a)[(c)(x)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/x)

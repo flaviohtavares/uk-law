@@ -44,11 +44,11 @@ The Department for Infrastructure[^f00001] makes the following Order in exercise
 
 In accordance with Article 91(1) of that Order the Department has consulted with such representative organisations as it thinks fit.
 
-## 1. Citation and commencement[^key-d69c36c805e76c3cc0bb13162232cd38]
+## 1. Citation and commencement[^c-d69c36c805e76c3cc0bb13162232cd38]
 
 This Order may be cited as the Road Traffic (Fixed Penalty) (Amendment) Order (Northern Ireland) 2023 and shall come into operation on 15th May 2023.
 
-## 2. Amendment of the Road Traffic (Fixed Penalty) Order[^key-d264585b305bc29d3640dee33c6ab5ab]
+## 2. Amendment of the Road Traffic (Fixed Penalty) Order[^c-d264585b305bc29d3640dee33c6ab5ab]
 
 In Schedule 1 to the Road Traffic (Fixed Penalty) Order (Northern Ireland) 2007[^f00004] (fixed penalties), after item 25 insert—
 
@@ -84,8 +84,8 @@ An Explanatory Memorandum has been produced and is available from Safe and Acces
 
 [^f00003]: Footnote: *See* Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-d69c36c805e76c3cc0bb13162232cd38]: Commencement: Art. 1 in operation at 15.5.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/71/article/1)
+[^c-d69c36c805e76c3cc0bb13162232cd38]: Commencement: Art. 1 in operation at 15.5.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/71/article/1)
 
-[^key-d264585b305bc29d3640dee33c6ab5ab]: Commencement: Art. 2 in operation at 15.5.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/71/article/1)
+[^c-d264585b305bc29d3640dee33c6ab5ab]: Commencement: Art. 2 in operation at 15.5.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/71/article/1)
 
 [^f00004]: Footnote: [S.R. 2007 No. 319](https://www.legislation.gov.uk/nisr/2007/319); the Schedule was substituted and renumbered as Schedule 1 by Article 2(5) of [S.R. 2011 No. 288](https://www.legislation.gov.uk/nisr/2011/288) and further amended by [S.R. 2013 No. 6](https://www.legislation.gov.uk/nisr/2013/6), [S.R. 2013 No. 197](https://www.legislation.gov.uk/nisr/2013/197), [S.R. 2014 No. 232](https://www.legislation.gov.uk/nisr/2014/232), [S.R. 2016 No. 182](https://www.legislation.gov.uk/nisr/2016/182) and [S.R. 2020 No. 336](https://www.legislation.gov.uk/nisr/2020/336)

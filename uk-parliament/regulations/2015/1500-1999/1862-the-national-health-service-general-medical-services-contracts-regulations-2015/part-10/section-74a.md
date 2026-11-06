@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74A. Provision of information: GP access data[^key-b105a41e1f4b4b467a075ad3b3757f53]
+## 74A. Provision of information: GP access data[^c-b105a41e1f4b4b467a075ad3b3757f53]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b105a41e1f4b4b467a075ad3b3757f53]: Textual amendment: Reg. 74A omitted (1.10.2019) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2019 (S.I. 2019/1137)](https://www.legislation.gov.uk/uksi/2019/1137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1137/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2019/1137/regulation/9)
+[^c-b105a41e1f4b4b467a075ad3b3757f53]: Textual amendment: Reg. 74A omitted (1.10.2019) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2019 (S.I. 2019/1137)](https://www.legislation.gov.uk/uksi/2019/1137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1137/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2019/1137/regulation/9)

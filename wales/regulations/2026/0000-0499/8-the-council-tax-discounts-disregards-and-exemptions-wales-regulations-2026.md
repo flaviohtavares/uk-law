@@ -43,7 +43,7 @@ In accordance with the Senedd approval procedure applied by sections 6(4D) and 1
 
 ## Part 1 — GENERAL
 
-### 1. Title, coming into force and application[^key-8dc410a4c375d32edecaede039dca14a][^key-e913315a36a27ca6e6e40a4ed764a76f]
+### 1. Title, coming into force and application[^c-8dc410a4c375d32edecaede039dca14a][^c-e913315a36a27ca6e6e40a4ed764a76f]
 
 (1) The title of these Regulations is the Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026.
 
@@ -61,7 +61,7 @@ In accordance with the Senedd approval procedure applied by sections 6(4D) and 1
 
 (4) These Regulations apply in relation to Wales.
 
-### 2. Interpretation[^key-bf2e726501638efc81edc83139bdf022]
+### 2. Interpretation[^c-bf2e726501638efc81edc83139bdf022]
 
 In these Regulations—
 
@@ -90,42 +90,42 @@ In these Regulations—
 
 ## Part 2 — DISCOUNTS
 
-### 3. Discounts for single occupants[^key-954837a4c1c5c7306da69b1f5d13cac0]
+### 3. Discounts for single occupants[^c-954837a4c1c5c7306da69b1f5d13cac0]
 
 The amount of council tax payable in respect of any chargeable dwelling and any day[^f00011] is subject to a discount equal to 25% of that amount if on that day—
 
 - (a) there is only one resident of the dwelling and that resident does not fall to be disregarded for the purposes of discount, or
 - (b) there are two or more residents of the dwelling and each of them except one falls to be disregard for those purposes.
 
-### 4. Discounts where all occupants disregarded[^key-3b01fc283ee1097bb5e250245936af20]
+### 4. Discounts where all occupants disregarded[^c-3b01fc283ee1097bb5e250245936af20]
 
 The amount of council tax payable in respect of any chargeable dwelling and any day is subject to a discount equal to 50% of that amount if on that day—
 
 - (a) there are one or more residents of the dwelling, and
 - (b) each of them falls to be disregarded for the purposes of discount.
 
-### 5. Provision for discount disregards[^key-616676e6f85acd211f8666e35f44cfe0]
+### 5. Provision for discount disregards[^c-616676e6f85acd211f8666e35f44cfe0]
 
 Part 3 makes provision for persons to be disregarded for the purposes of discount under regulations 3 and 4.
 
-### 6. Dwelling related discounts[^key-06834fd935237f1ddeea804506f23d64]
+### 6. Dwelling related discounts[^c-06834fd935237f1ddeea804506f23d64]
 
 The amount of council tax payable in respect of any chargeable dwelling and any day is subject to a discount equal to 50% of that amount if on that day the dwelling is unoccupied and—
 
 - (a) consists of a pitch occupied by a caravan, or a mooring occupied by a boat, or
 - (b) where a qualifying person in relation to that dwelling is a qualifying person in relation to another dwelling which for them is job-related.
 
-### 7. Job-related dwellings[^key-105a8658ecd23e63c60e41eb5eabb1e0]
+### 7. Job-related dwellings[^c-105a8658ecd23e63c60e41eb5eabb1e0]
 
 A dwelling is job-related for a person if it falls within the description set out in paragraph 1 or 2 of Schedule 1.
 
 ## Part 3 — DISREGARDS
 
-### 8. Persons disregarded for purposes of discount[^key-b8592a7117263d3912880e6448f7b7eb]
+### 8. Persons disregarded for purposes of discount[^c-b8592a7117263d3912880e6448f7b7eb]
 
 A person is disregarded for the purposes of discount under regulations 3 and 4 on any day if on that day they meet any of the descriptions of persons set out in this Part.
 
-### 9. Persons in detention[^key-d9024e6296ab4f1a1fe955309e6dccf0]
+### 9. Persons in detention[^c-d9024e6296ab4f1a1fe955309e6dccf0]
 
 (1) A person who is—
 
@@ -142,7 +142,7 @@ A person is disregarded for the purposes of discount under regulations 3 and 4 o
 
 (3) In paragraph (1), “**order**” includes a sentence, direction, warrant or other means of giving effect to a decision of the court concerned.
 
-### 10. Significant cognitive impairment[^key-644f8fe47dd898b9caedf4dac7501eb6]
+### 10. Significant cognitive impairment[^c-644f8fe47dd898b9caedf4dac7501eb6]
 
 (1) A person who—
 
@@ -185,7 +185,7 @@ A person is disregarded for the purposes of discount under regulations 3 and 4 o
 - (a) the person in question is a person whose partner is in receipt of jobseeker’s allowance, and
 - (b) by virtue of the person in question’s incapacity for work, the applicable amount under regulation 83[^f00038] or 84[^f00039] of the Jobseeker’s Allowance Regulations 1996 includes a premium which falls to be determined under paragraph 14(1)(d) or (g)[^f00040] of Schedule 1 to those Regulations.
 
-### 11. Persons in respect of whom child benefit is payable[^key-12016340117f180e9c53afc18bc9d04b]
+### 11. Persons in respect of whom child benefit is payable[^c-12016340117f180e9c53afc18bc9d04b]
 
 (1) A person who—
 
@@ -194,11 +194,11 @@ A person is disregarded for the purposes of discount under regulations 3 and 4 o
 
 (2) In this regulation, “**child benefit**” has the meaning given in section 141 of the Social Security Contributions and Benefits Act 1992[^f00041].
 
-### 12. Students[^key-3caf89862c5d08167b9527f739758323]
+### 12. Students[^c-3caf89862c5d08167b9527f739758323]
 
 A person who is a student, student nurse or apprentice.
 
-### 13. Students: entitlement to certificate of education and information to be included[^key-19a0344deae7d8b8b0386f4d2e5cd607]
+### 13. Students: entitlement to certificate of education and information to be included[^c-19a0344deae7d8b8b0386f4d2e5cd607]
 
 (1) By way of evidence that a person is a student or student nurse for the purposes of regulation 12, an institution must, on request, supply a certificate under this regulation to any person who is following or, subject to paragraph (3), has followed a course of education at that institution as a student or student nurse.
 
@@ -212,7 +212,7 @@ A person who is a student, student nurse or apprentice.
 
 (3) An institution may refuse to comply with a request made more than one year after the person making it has ceased to follow a course of education at that institution.
 
-### 14. Spouses, civil partners and dependants of students[^key-18f08f19b8879a1df2e53b93f84388af]
+### 14. Spouses, civil partners and dependants of students[^c-18f08f19b8879a1df2e53b93f84388af]
 
 A person who—
 
@@ -220,7 +220,7 @@ A person who—
 - (b) is not a British citizen, and
 - (c) is prevented, by the terms of their leave to enter or remain in the United Kingdom, from taking paid employment or from claiming benefits.
 
-### 15. School and college leavers[^key-991c1424fd1158bc5dc854486033791d]
+### 15. School and college leavers[^c-991c1424fd1158bc5dc854486033791d]
 
 (1) A person who—
 
@@ -234,7 +234,7 @@ A person who—
 - (a) “**full-time course of education**” and “**qualifying course of education**” have the same meaning as set out in Part 2 of Schedule 2;
 - (b) “**relevant period**” means the period after 30 April and before 1 November in any year.
 
-### 16. Hospital patients[^key-c16c84820bf6939557b7db4777b03020]
+### 16. Hospital patients[^c-c16c84820bf6939557b7db4777b03020]
 
 (1) A person who is a patient and has their sole or main residence in a hospital.
 
@@ -243,7 +243,7 @@ A person who—
 - (a) a health service hospital within the meaning of section 275(1) of the National Health Service Act 2006[^f00042] or section 206(1) of the National Health Service (Wales) Act 2006[^f00043];
 - (b) a military, air-force or naval unit or establishment where medical or surgical treatment is provided for persons subject to service law within the meaning of section 374 of the Armed Forces Act 2006.
 
-### 17. Patients in homes in England and Wales[^key-e80a0987ed5de701423e37bfff3a8649]
+### 17. Patients in homes in England and Wales[^c-e80a0987ed5de701423e37bfff3a8649]
 
 (1) A person who—
 
@@ -266,7 +266,7 @@ A person who—
   - (a) a hospital within the meaning of section 275(1)[^f00049] of the National Health Service Act 2006 that is not a health service hospital as defined by that section;
   - (b) a hospital within the meaning given in section 2(2) of the Care Standards Act 2000[^f00050].
 
-### 18. Care workers[^key-b2cd1f8b97fea9507047827add0fcfab]
+### 18. Care workers[^c-b2cd1f8b97fea9507047827add0fcfab]
 
 (1) A person who—
 
@@ -286,7 +286,7 @@ A person who—
 - (c) providing that care or support (or both) for at least 35 hours a week on average, and
 - (d) providing that care or support (or both) to a person who is not their spouse, civil partner, or child (or step-child) under the age of 18 years.
 
-### 19. Residents of certain dwellings[^key-d8acce5c5aeec9740a5ddcdf3f97db5f]
+### 19. Residents of certain dwellings[^c-d8acce5c5aeec9740a5ddcdf3f97db5f]
 
 (1) A person who has their sole or main residence in a dwelling to which paragraph (2) applies.
 
@@ -300,15 +300,15 @@ A person who—
 
 (3) In this regulation, “**hostel**” has the meaning given in regulation 17(2).
 
-### 20. International headquarters and defence organisations[^key-a6678f1dd831810f9ddde30e6a832183]
+### 20. International headquarters and defence organisations[^c-a6678f1dd831810f9ddde30e6a832183]
 
 A person who is a civilian or military member, within the meaning of paragraph 1(1) and (3) of the Schedule to the International Headquarters and Defence Organisations Act 1964[^f00052], of a headquarters specified in Schedule 2 to the Visiting Forces and International Headquarters (Application of Law) Order 1999[^f00053], or a dependant of such a member.
 
-### 21. Visiting forces[^key-ca4a13fc745965d7886a1d5a5bb1a11c]
+### 21. Visiting forces[^c-ca4a13fc745965d7886a1d5a5bb1a11c]
 
 A person who has a relevant association with a visiting force within the meaning of section 12 of the Visiting Forces Act 1952[^f00054].
 
-### 22. Diplomats and people who benefit from diplomatic immunity[^key-3d3e891e19b7e097080212e3d258e956]
+### 22. Diplomats and people who benefit from diplomatic immunity[^c-3d3e891e19b7e097080212e3d258e956]
 
 (1) A person who satisfies the conditions in paragraphs (2) and (3).
 
@@ -330,21 +330,21 @@ A person who has a relevant association with a visiting force within the meaning
 - (e) a British subject within the meaning of Part 4 of that Act;
 - (f) a permanent resident of the United Kingdom.
 
-### 23. Religious communities[^key-1ade9b2c4b5a0574947aec4a4c2f47ab]
+### 23. Religious communities[^c-1ade9b2c4b5a0574947aec4a4c2f47ab]
 
 A person who—
 
 - (a) is a member of a religious community, the principal occupation of which consists of prayer, contemplation, education, the relief of suffering, or any combination of these, and
 - (b) has no income or capital of their own (disregarding any income by way of a pension in respect of former employment) and is dependant on the community to provide for their material needs.
 
-### 24. Care leavers[^key-15967d7dbf44b0983ed7c5ffff77239a]
+### 24. Care leavers[^c-15967d7dbf44b0983ed7c5ffff77239a]
 
 A person who is—
 
 - (a) aged 24 years or under, and
 - (b) a category 3 young person within the meaning of section 104(2) of the Social Services and Well-being (Wales) Act 2014.
 
-### 25. Persons from Ukraine[^key-adbcf484c8b937595df2c86e611d4399]
+### 25. Persons from Ukraine[^c-adbcf484c8b937595df2c86e611d4399]
 
 A person who holds permission to enter or stay in the United Kingdom—
 
@@ -355,7 +355,7 @@ where and for so long as the person resides with a sponsor or host under either 
 
 ## Part 4 — DISAPPLICATION OF JOINT AND SEVERAL LIABILITY
 
-### 26. Disapplication of joint and several liability[^key-f06da80d4d316ccd4f167dbd2b80ae61]
+### 26. Disapplication of joint and several liability[^c-f06da80d4d316ccd4f167dbd2b80ae61]
 
 The following persons are prescribed for the purposes of sections 6(4) and 9(2) (disapplication of joint and several liability) of the 1992 Act—
 
@@ -365,11 +365,11 @@ The following persons are prescribed for the purposes of sections 6(4) and 9(2) 
 
 ## Part 5 — EXEMPT DWELLINGS
 
-### 27. Exempt dwellings[^key-f41f03e8e60c24a63a81301978c07005]
+### 27. Exempt dwellings[^c-f41f03e8e60c24a63a81301978c07005]
 
 The dwellings in this Part are prescribed under section 4 of the 1992 Act as dwellings which are exempt from the liability to pay council tax.
 
-### 28. Interpretation[^key-1c15883b4a58ffaf438facdd9144cd4a]
+### 28. Interpretation[^c-1c15883b4a58ffaf438facdd9144cd4a]
 
 In this Part—
 
@@ -384,7 +384,7 @@ In this Part—
 - “**single property**” (“***eiddo sengl***”) means property which would be one dwelling within the meaning of section 3 of the 1992 Act apart from its inclusion in the Council Tax (Chargeable Dwellings) Order 1992[^f00066];
 - “**tenant**” (“***tenant***”) means a person who in relation to a dwelling in Wales is a statutory tenant of a dwelling within the meaning of section 2 of the Rent Act 1977[^f00067] or section 4 of the Rent (Agriculture) Act 1976[^f00068].
 
-### 29. Classes of exempt dwellings[^key-ad80d4ad02ce6514518e4811eb73d791]
+### 29. Classes of exempt dwellings[^c-ad80d4ad02ce6514518e4811eb73d791]
 
 A dwelling is an exempt dwelling on a particular day if on that day it falls within one of the following classes—
 
@@ -397,18 +397,18 @@ A dwelling is an exempt dwelling on a particular day if on that day it falls wit
     - (d) has undergone structural alteration, if less than 6 months have elapsed since the date on which the alteration was substantially completed and the dwelling has remained unoccupied since that date.
   - (3) In paragraph (2), “**major repair work**” includes structural repair work.
   - (4) In considering whether a dwelling has been unoccupied for any period specified in this Class, any one period not exceeding 6 weeks, during which it was not unoccupied, is to be disregarded.
-  - (5) Where a person (“**P**”) purchases a dwelling on or after 1 April 2026 which has previously been exempt within this class, a further 12 month exemption will apply if the requirement set out in paragraph (2) is satisfied[^key-279cdef610321021d00c530ee9376db1].
+  - (5) Where a person (“**P**”) purchases a dwelling on or after 1 April 2026 which has previously been exempt within this class, a further 12 month exemption will apply if the requirement set out in paragraph (2) is satisfied[^c-279cdef610321021d00c530ee9376db1].
   - (6) A billing authority may require from P evidence of the purchase in the form of a legal transfer or deed of ownership from the seller (or previous owner) to P including, for registered properties, a record of a change in ownership recorded with HM Land Registry.
-  - (7) In this Class, “[^key-1c24127d22a19cb3d94b5ca9dd0dc36f]**purchase**” means, in relation to a purchase made on or after 30 October 2026, a transaction carried out at a fair market value.
+  - (7) In this Class, “[^c-1c24127d22a19cb3d94b5ca9dd0dc36f]**purchase**” means, in relation to a purchase made on or after 30 October 2026, a transaction carried out at a fair market value.
 - *Class B*
   - (1) A dwelling, owned by a body established for charitable purposes only, which is unoccupied and has been so for less than 6 months and was last occupied in furtherance of the objects of the charity.
   - (2) In considering whether a dwelling has been unoccupied for any period specified in this Class, any one period not exceeding 6 weeks, during which it was not unoccupied, is to be disregarded.
 - *Class C*
-  - (1) A dwelling which is unoccupied and unfurnished and has been so for less than 6 months since it was occupied (but see paragraph (3))[^key-33562d22028d22127559e901892b0664].
+  - (1) A dwelling which is unoccupied and unfurnished and has been so for less than 6 months since it was occupied (but see paragraph (3))[^c-33562d22028d22127559e901892b0664].
   - (2) In considering whether a dwelling has been unoccupied for any period specified in this Class, any one period not exceeding 6 weeks, during which it was not unoccupied, is to be disregarded.
-  - (3) Where a person (“**P**”) purchases a dwelling on or after 1 April 2026 which has previously been exempt within this class, a further 6-month exemption will apply where the dwelling is unoccupied and unfurnished[^key-fddfcdff9634a4e4b33175dd955a47ab].
+  - (3) Where a person (“**P**”) purchases a dwelling on or after 1 April 2026 which has previously been exempt within this class, a further 6-month exemption will apply where the dwelling is unoccupied and unfurnished[^c-fddfcdff9634a4e4b33175dd955a47ab].
   - (4) A billing authority may require from P evidence of the purchase in the form of a legal transfer or deed of ownership from the seller (or previous owner) to P including, for registered properties, a record of a change in ownership recorded with HM Land Registry.
-  - (5) In this Class, “[^key-f116e9f35e364feed9aae6b577c0bd5f]**purchase**” means, in relation to a purchase made on or after 30 October 2026, a transaction carried out at a fair market value.
+  - (5) In this Class, “[^c-f116e9f35e364feed9aae6b577c0bd5f]**purchase**” means, in relation to a purchase made on or after 30 October 2026, a transaction carried out at a fair market value.
 - *Class D*
   - (1) An unoccupied dwelling which—
     - (a) would be, but for their detention elsewhere in the circumstances specified in regulation 9, the sole or main residence of a person (“**P**”) who is an owner or tenant of, or contract-holder in relation to, the dwelling, or
@@ -419,7 +419,7 @@ A dwelling is an exempt dwelling on a particular day if on that day it falls wit
   An unoccupied dwelling which was previously the sole or main residence of a person who is an owner or tenant of, or contract-holder in relation to, the dwelling and who, since the dwelling ceased to be their sole or main residence, has had their sole or main residence elsewhere in the circumstances specified in regulation 16 or 17.
 - *Class F*
   - (1) An unoccupied dwelling in relation to which—
-    - (a) has been unoccupied since the date of death of a person (“[^key-1733527b4e49c4d269d41ccac7676ba7]**the deceased**”),
+    - (a) has been unoccupied since the date of death of a person (“[^c-1733527b4e49c4d269d41ccac7676ba7]**the deceased**”),
     - (b) satisfies one of the conditions in paragraph (2), and
     - (c) one of the following conditions are satisfied—
       - (i) the grant of probate or letters of administration in relation to the estate have not been obtained and the second anniversary of the date of death has not passed, or
@@ -430,7 +430,7 @@ A dwelling is an exempt dwelling on a particular day if on that day it falls wit
       - (ii) a person is a qualifying person in respect of the dwelling acting in their capacity as executor or administrator, and no person is a qualifying person in any other capacity, or
     - (b) the deceased was a tenant of, or contract-holder in relation to, the dwelling at the date of their death, and an executor or administrator acting in their capacity as such is liable for rent or, as the case may be, a licence fee, for the day.
   - (3) Where the date of death of the deceased occurs before the coming into force of these Regulations, the date of death is taken as the date of the coming into force of these Regulations.
-  - (4) In considering whether a dwelling has been unoccupied for any period specified in this Class, any single period of occupation not exceeding 6 weeks must be disregarded.[^key-4e42baed5933c8921de97f5600a5d0f5]
+  - (4) In considering whether a dwelling has been unoccupied for any period specified in this Class, any single period of occupation not exceeding 6 weeks must be disregarded.[^c-4e42baed5933c8921de97f5600a5d0f5]
 - *Class G*
 
   An unoccupied dwelling—
@@ -562,7 +562,7 @@ A dwelling is an exempt dwelling on a particular day if on that day it falls wit
 
 ## Part 6 — CONSEQUENTIAL AMENDMENTS AND REVOCATIONS
 
-### 30. Consequential amendments and revocations[^key-2d488c675f33b184d6296b671bf0ebf8][^key-68075fb7581890c1cddd05b7c60faff8]
+### 30. Consequential amendments and revocations[^c-2d488c675f33b184d6296b671bf0ebf8][^c-68075fb7581890c1cddd05b7c60faff8]
 
 Schedule 4 contains consequential amendments and revocations.
 
@@ -576,7 +576,7 @@ Cabinet Secretary for Finance and Welsh Language, one of the Welsh Ministers
 
 Regulation 7
 
-**1.**[^key-7ca0542924d938e3b984e76aa1cebc71] (1) A dwelling is job-related for a person if it is provided for them by reason of their employment, or for their spouse or civil partner by reason of their employment, in any of the following cases (but see sub-paragraph (2))—
+**1.**[^c-7ca0542924d938e3b984e76aa1cebc71] (1) A dwelling is job-related for a person if it is provided for them by reason of their employment, or for their spouse or civil partner by reason of their employment, in any of the following cases (but see sub-paragraph (2))—
 
 - (a) where it is necessary for the proper performance of their employment duties that the employee should reside in the dwelling;
 - (b) where the dwelling is provided for the better performance of their employment duties and it is customary for employers to provide dwellings for employees undertaking that kind of employment;
@@ -588,13 +588,13 @@ Regulation 7
 - (b) the company does not carry on a trade nor do its functions consist wholly or mainly in the holding of investments or other property, or
 - (c) the company is established for charitable purposes only.
 
-**2.**[^key-64bb4f11c9e687e445012f49cb5633e7] (1) A dwelling is job-related for a person if they or their spouse or civil partner is required, under a contract described in sub-paragraph (3), to live in that dwelling (but see sub-paragraph (2)).
+**2.**[^c-64bb4f11c9e687e445012f49cb5633e7] (1) A dwelling is job-related for a person if they or their spouse or civil partner is required, under a contract described in sub-paragraph (3), to live in that dwelling (but see sub-paragraph (2)).
 
 (2) Sub-paragraph (1) does not apply if the dwelling concerned is in whole or in part provided by any other person or persons together with whom the person or spouse or civil partner carries on a trade or business in partnership.
 
 (3) A contract to which sub-paragraph (1) applies is a contract entered into at arm’s length and requiring the person concerned or their spouse or civil partner (as the case may be) to carry on a particular trade, profession or vocation in a dwelling provided by another person and to live in a dwelling provided by that other person.
 
-**3.**[^key-f2776bb47c0423409973f838653d80c2] In this Schedule—
+**3.**[^c-f2776bb47c0423409973f838653d80c2] In this Schedule—
 
 - a company is an associated company of another if one of them has control of the other or both are under the control of the same person;
 - “**control**” (“***rheolaeth***”) has the same meaning, in relation to a body corporate, given in section 995 of the Income Tax Act 2007[^f00072];
@@ -606,7 +606,7 @@ Regulations 2 and 15 (3)(a)
 
 ### Part 1 — Apprentices
 
-**1.**[^key-1efad45dfb32a006cd4c7a315d1b374b] (1) A person is an apprentice on a particular day if on that day they are—
+**1.**[^c-1efad45dfb32a006cd4c7a315d1b374b] (1) A person is an apprentice on a particular day if on that day they are—
 
 - (a) employed for the purpose of learning a trade, business, profession, office, employment or vocation at a salary or in receipt of an allowance or both, which do not exceed the hourly rate set out in regulation 4A(1)(c) or (d) of the National Minimum Wage Regulations 2015[^f00074], and
 - (b) for that purpose, undertaking a programme of training leading to a qualification awarded by a body—
@@ -619,21 +619,21 @@ Regulations 2 and 15 (3)(a)
 
 #### Foreign language assistant
 
-**2.**[^key-559b679367a45aea1cfa9e8c14b67de3] A person is a foreign language assistant on a particular day if—
+**2.**[^c-559b679367a45aea1cfa9e8c14b67de3] A person is a foreign language assistant on a particular day if—
 
 - (a) on the day they are registered with the British Council[^f00077] as a foreign language assistant, and
 - (b) the day falls within the period of their appointment as a foreign language assistant at a school or prescribed educational establishment within the meaning of Schedule 3.
 
 #### Full-time course of education
 
-**3.**[^key-57d3fa2f3a3daf01c116e0d7a376dd5a] (1) A person is undertaking a full-time course of education on a particular day if—
+**3.**[^c-57d3fa2f3a3daf01c116e0d7a376dd5a] (1) A person is undertaking a full-time course of education on a particular day if—
 
 - (a) on the day they are enrolled for the purpose of undertaking such a course with a prescribed educational establishment within the meaning of Schedule 3, and
 - (b) the day falls within the period beginning with the day on which they begin the course and ending with the day on which they cease to undertake it.
 
 (2) A person is to be regarded as ceasing to undertake a course of education under sub-paragraph (1)(b) if they have completed it, abandoned it or are no longer permitted by the educational establishment to undertake it.
 
-**4.**[^key-9def4c046caa984f49eaa70aca47fd0c] (1) A full-time course of education is, subject to sub-paragraphs (2) and (3), one—
+**4.**[^c-9def4c046caa984f49eaa70aca47fd0c] (1) A full-time course of education is, subject to sub-paragraphs (2) and (3), one—
 
 - (a) which subsists for at least one academic year of the educational establishment concerned or, in the case of an educational establishment which does not have academic years, for at least one calendar year;
 - (b) in relation to which persons undertaking it are normally required by the educational establishment concerned to undertake periods of study, tuition or work experience (whether at premises of the establishment or otherwise)—
@@ -654,7 +654,7 @@ Regulations 2 and 15 (3)(a)
 
 #### Qualifying course of education
 
-**5.**[^key-3ce7122a25135824fb85fce3b17d8b02] (1) A person is to be regarded as undertaking a qualifying course of education on a particular day if on that day—
+**5.**[^c-3ce7122a25135824fb85fce3b17d8b02] (1) A person is to be regarded as undertaking a qualifying course of education on a particular day if on that day—
 
 - (a) they are aged 19 years or under,
 - (b) they are not undertaking a course of full-time education within the meaning of paragraphs 3 and 4, and
@@ -667,7 +667,7 @@ Regulations 2 and 15 (3)(a)
 
 (3) In relation to a qualifying course of education, “**the relevant number of hours per week**” means the average number of hours per week a person undertaking it would normally be required to spend, in the period during which the course subsists, on relevant activities within the meaning of paragraph 6 (excluding, for the purpose of calculating that average, any period of vacation).
 
-**6.**[^key-f1efaf38999ddbc3718894ec1428b404] (1) A qualifying course of education is one—
+**6.**[^c-f1efaf38999ddbc3718894ec1428b404] (1) A qualifying course of education is one—
 
 - (a) which subsists for more than 3 months,
 - (b) which is not a course of higher education,
@@ -682,13 +682,13 @@ Regulations 2 and 15 (3)(a)
 
 ### Part 3 — Student nurses
 
-**7.**[^key-874812e68e0d710b807cb19928cd24a9] (1) A person is a student nurse on a particular day if, on that day, they are undertaking a course which would (if successfully completed) lead to a first registration in the Nurses’ Part or the Midwives’ Part of the register maintained by the Nursing and Midwifery Council under article 5 of the Nursing and Midwifery Order 2001[^f00079].
+**7.**[^c-874812e68e0d710b807cb19928cd24a9] (1) A person is a student nurse on a particular day if, on that day, they are undertaking a course which would (if successfully completed) lead to a first registration in the Nurses’ Part or the Midwives’ Part of the register maintained by the Nursing and Midwifery Council under article 5 of the Nursing and Midwifery Order 2001[^f00079].
 
 (2) A person is regarded as undertaking a course in this paragraph on a particular day if the day falls within the relevant period for that course.
 
 ### Part 4 — Interpretation
 
-**8.**[^key-e6206e7ef21be1158bad6f0018b34109] In this Schedule, the relevant period for a course or programme means the period beginning with the day on which a person begins that course or programme and ending with the day (“**the last day**”) they complete it, abandon it or are dismissed from it (which period includes any periods of vacation between terms and before the last day).
+**8.**[^c-e6206e7ef21be1158bad6f0018b34109] In this Schedule, the relevant period for a course or programme means the period beginning with the day on which a person begins that course or programme and ending with the day (“**the last day**”) they complete it, abandon it or are dismissed from it (which period includes any periods of vacation between terms and before the last day).
 
 ## Schedule 3 — Prescribed educational establishments
 
@@ -696,18 +696,18 @@ Regulations 2 and 29 and paragraph 3(1)(a) of Schedule 2
 
 ### Establishments for students and student nurses
 
-**1.**[^key-89faa129fc6a78b578c687ce267c9c7e] Subject to paragraph 2, an institution is a prescribed educational establishment within this Schedule if it is—
+**1.**[^c-89faa129fc6a78b578c687ce267c9c7e] Subject to paragraph 2, an institution is a prescribed educational establishment within this Schedule if it is—
 
 - (a) an institution within the further education sector within the meaning of section 91(3)[^f00080] of the Further and Higher Education Act 1992, or
 - (b) an institution within the higher education sector within the meaning of section 91(5)[^f00081] of that Act.
 
-**2.**[^key-435158dec5ae71ade29bf00d36b00ad9] A Ministry of Defence training establishment for the armed forces is not a prescribed educational establishment within this Schedule.
+**2.**[^c-435158dec5ae71ade29bf00d36b00ad9] A Ministry of Defence training establishment for the armed forces is not a prescribed educational establishment within this Schedule.
 
 ## Schedule 4 — Consequential amendments and revocations
 
 Regulation 30
 
-### 1. Amendment of the Council Tax (Discount Disregards) Order 1992[^key-4b6564b6cf662747505ff23cf6b8cd06]
+### 1. Amendment of the Council Tax (Discount Disregards) Order 1992[^c-4b6564b6cf662747505ff23cf6b8cd06]
 
 (1) The Council Tax (Discount Disregards) Order 1992[^f00082] is amended as follows.
 
@@ -724,7 +724,7 @@ Regulation 30
 
 (5) In Schedule 2, in paragraph 2, in the definition of “relevant territory” omit “Wales,”.
 
-### 2. Amendment of the Council Tax (Administration and Enforcement) Regulations 1992[^key-7f98bfea0076b7557f3fc9e969e41627]
+### 2. Amendment of the Council Tax (Administration and Enforcement) Regulations 1992[^c-7f98bfea0076b7557f3fc9e969e41627]
 
 (1) The Council Tax (Administration and Enforcement) Regulations 1992[^f00083] are amended as follows.
 
@@ -743,7 +743,7 @@ Regulation 30
 
 (4) In regulation 10(6)(a), after “the Exempt Dwellings Order” insert “or regulation 29 of the 2026 Regulations”.
 
-### 3. Amendment of the Council Tax (Additional Provisions for Discount Disregards) Regulations 1992[^key-871a6dafe8a858fe165bdee5565b5b2e]
+### 3. Amendment of the Council Tax (Additional Provisions for Discount Disregards) Regulations 1992[^c-871a6dafe8a858fe165bdee5565b5b2e]
 
 (1) The Council Tax (Additional Provisions for Discount Disregards) Regulations 1992[^f00084] is amended as follows.
 
@@ -753,7 +753,7 @@ Regulation 30
 
 (3) Omit regulations 4 and 5.
 
-### 4. Amendment of the Council Tax (Exempt Dwellings) Order 1992[^key-bba714e4231bba094005ba65c785be56]
+### 4. Amendment of the Council Tax (Exempt Dwellings) Order 1992[^c-bba714e4231bba094005ba65c785be56]
 
 (1) The Council Tax (Exempt Dwellings) Order 1992[^f00085] is amended as follows.
 
@@ -779,7 +779,7 @@ Regulation 30
 
 (5) Omit “Class X”.
 
-### 5. Amendment of the Council Tax (Demand Notices) (Wales) Regulations 1993[^key-354fe750688b22ae1eea911ec38b2411]
+### 5. Amendment of the Council Tax (Demand Notices) (Wales) Regulations 1993[^c-354fe750688b22ae1eea911ec38b2411]
 
 (1) The Council Tax (Demand Notices) (Wales) Regulations 1993[^f00086] are amended as follows.
 
@@ -797,7 +797,7 @@ Regulation 30
 - (d) in paragraph 15(c)(i), for “subsection (3) or (4) of section 12 of the 1992 Act shall have effect in substitution for section 11(2)(a) of that Act” substitute “section 11F(2) of the 1992 Act has effect in substitution of a discount prescribed or calculated under section 11E(1) of that Act”;
 - (e) in paragraph 15(c)(ii), omit “equal to the appropriate percentage within the meaning of section 11(3) of that Act”.
 
-### 6. Amendment of the Local Authorities (Calculation of Council Tax Base) (Wales) Regulations 1995[^key-796acb5de16863d51a7f0a25871d5c8e]
+### 6. Amendment of the Local Authorities (Calculation of Council Tax Base) (Wales) Regulations 1995[^c-796acb5de16863d51a7f0a25871d5c8e]
 
 (1) The Local Authorities (Calculation of Council Tax Base) (Wales) Regulations 1995[^f00087] are amended as follows.
 
@@ -805,19 +805,19 @@ Regulation 30
 
 (3) In regulation 3(5), for “the Council Tax (Exempt Dwellings) Order 1992” substitute “regulation 29 of the Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026”.
 
-### 7. Amendment of the Council Tax (Chargeable Dwellings, Exempt Dwellings and Discount Disregards) (Amendment) (Wales) Order 2004[^key-198254e4ce3d70bf734765a01883b512]
+### 7. Amendment of the Council Tax (Chargeable Dwellings, Exempt Dwellings and Discount Disregards) (Amendment) (Wales) Order 2004[^c-198254e4ce3d70bf734765a01883b512]
 
 In the Council Tax (Chargeable Dwellings, Exempt Dwellings and Discount Disregards) (Amendment) (Wales) Order 2004[^f00088], omit articles 3 and 4.
 
-### 8. Amendment of the Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004[^key-e1bea41796c401c012bbe91b47829d5c]
+### 8. Amendment of the Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004[^c-e1bea41796c401c012bbe91b47829d5c]
 
 In the Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004[^f00089], omit regulation 8.
 
-### 9. Amendment of the Civil Partnership Act 2004 (Consequential Amendments to Subordinate Legislation) (Wales) Order 2005[^key-da36083792759845816ce30ee4d179d9]
+### 9. Amendment of the Civil Partnership Act 2004 (Consequential Amendments to Subordinate Legislation) (Wales) Order 2005[^c-da36083792759845816ce30ee4d179d9]
 
 In the Civil Partnership Act 2004 (Consequential Amendments to Subordinate Legislation) (Wales) Order 2005[^f00090], omit paragraphs 7, 8 and 12 of the Schedule.
 
-### 10. Amendment of the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013[^key-0f5671a922f170b691caeb4d5edee157][^key-fdcac454d91878ce7bccdf4548477e49]
+### 10. Amendment of the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013[^c-0f5671a922f170b691caeb4d5edee157][^c-fdcac454d91878ce7bccdf4548477e49]
 
 (1) The Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013 are amended as follows.
 
@@ -839,7 +839,7 @@ In the Civil Partnership Act 2004 (Consequential Amendments to Subordinate Legis
   ;
 - (b) in paragraph 46(4), for “section 11 or 12” substitute “section 11(E)(1) or 11F(2)”.
 
-### 11. Amendment of the Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013[^key-293c5912646dcc68411233d5a59d298f][^key-9dc8cdf2a8f0694bf412d82de2465627]
+### 11. Amendment of the Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013[^c-293c5912646dcc68411233d5a59d298f][^c-9dc8cdf2a8f0694bf412d82de2465627]
 
 (1) The scheme set out in the Schedule to the Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013[^f00092] is amended as follows.
 
@@ -851,23 +851,23 @@ In the Civil Partnership Act 2004 (Consequential Amendments to Subordinate Legis
 
 (3) In paragraph 105(4), for “section 11 or 12” substitute “section 11(E)(1) or 11F(2)”.
 
-### 12. Amendment of the Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016[^key-c27b372f21a8edbd1c5d3064c37bfac4]
+### 12. Amendment of the Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016[^c-c27b372f21a8edbd1c5d3064c37bfac4]
 
 In the Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016[^f00093], omit regulation 4.
 
-### 13. Amendment of the Council Tax (Additional Provisions for Discount Disregards) (Amendment) (Wales) Regulations 2019[^key-dab0b792c8dcdd6b680e72789bd6945f]
+### 13. Amendment of the Council Tax (Additional Provisions for Discount Disregards) (Amendment) (Wales) Regulations 2019[^c-dab0b792c8dcdd6b680e72789bd6945f]
 
 In the Council Tax (Additional Provisions for Discount Disregards) (Amendment) (Wales) Regulations 2019[^f00094], omit regulation 2(4).
 
-### 14. Amendment of Council Tax (Exempt Dwellings) (Amendment) (Wales) Order 2019[^key-aecde519ae229e67cf73183a979259e3]
+### 14. Amendment of Council Tax (Exempt Dwellings) (Amendment) (Wales) Order 2019[^c-aecde519ae229e67cf73183a979259e3]
 
 In the Council Tax (Exempt Dwellings) (Amendment) (Wales) Order 2019[^f00095], omit article 2.
 
-### 15. Amendment of the Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022[^key-6cf8ad0497925d2aeae992ac76546de3]
+### 15. Amendment of the Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022[^c-6cf8ad0497925d2aeae992ac76546de3]
 
 In the Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022[^f00096], omit paragraph 12 of Schedule 1.
 
-### 16. Revocations[^key-49d9170e4a194cc535a93c5f05c465c5]
+### 16. Revocations[^c-49d9170e4a194cc535a93c5f05c465c5]
 
 The following statutory instruments are revoked—
 
@@ -926,13 +926,13 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00006]: Footnote: Sections 6(4D) and 11E(7) were inserted into the 1992 Act by section 18(2)(c) and (5), respectively, of the Local Government Finance (Wales) Act 2024. See also section 40 of the Legislation (Wales) Act 2019 for provision about the procedure that applies to this instrument.
 
-[^key-8dc410a4c375d32edecaede039dca14a]: Commencement: Reg. 1 in force at 26.1.2026 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-8dc410a4c375d32edecaede039dca14a]: Commencement: Reg. 1 in force at 26.1.2026 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-e913315a36a27ca6e6e40a4ed764a76f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2026/8/regulation/1) in force at 1.4.2026 in so far as not already in force, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2/a)
+[^c-e913315a36a27ca6e6e40a4ed764a76f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2026/8/regulation/1) in force at 1.4.2026 in so far as not already in force, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2/a)
 
 [^f00007]: Footnote: [S.I. 2013/3029 (W. 301)](https://www.legislation.gov.uk/wsi/2013/3029), amended by [S.I. 2014/66 (W. 6)](https://www.legislation.gov.uk/wsi/2014/66), [2014/513](https://www.legislation.gov.uk/uksi/2014/513), [2014/825 (W. 83)](https://www.legislation.gov.uk/wsi/2014/301), [2014/852](https://www.legislation.gov.uk/uksi/2014/852), [2015/44 (W. 3)](https://www.legislation.gov.uk/wsi/2015/44), [2015/971](https://www.legislation.gov.uk/uksi/2015/971), [2016/50 (W. 21)](https://www.legislation.gov.uk/wsi/2016/50), [2017/46 (W. 20)](https://www.legislation.gov.uk/wsi/2017/46), [2018/14 (W. 7)](https://www.legislation.gov.uk/wsi/2018/14), [2019/11 (W. 5)](https://www.legislation.gov.uk/wsi/2019/11), [2020/16 (W. 2)](https://www.legislation.gov.uk/wsi/2020/16), [2021/34 (W. 9)](https://www.legislation.gov.uk/wsi/2021/34), [2022/51 (W. 19)](https://www.legislation.gov.uk/wsi/2022/51), [2022/634](https://www.legislation.gov.uk/uksi/2022/634), [2022/1329](https://www.legislation.gov.uk/uksi/2022/1329), [2023/47 (W. 6)](https://www.legislation.gov.uk/wsi/2023/47), [2023/1071](https://www.legislation.gov.uk/uksi/2023/1071), [2024/56 (W. 16)](https://www.legislation.gov.uk/wsi/2024/56) and [2025/59 (W. 17)](https://www.legislation.gov.uk/wsi/2025/59).
 
-[^key-bf2e726501638efc81edc83139bdf022]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2026/8/regulation/2) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-bf2e726501638efc81edc83139bdf022]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2026/8/regulation/2) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00008]: Footnote: [1960 c. 62](https://www.legislation.gov.uk/ukpga/1960/62).
 
@@ -940,21 +940,21 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00010]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41). Section 104 was amended by paragraph 26(a) and (b) of Schedule 1 to [S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21), and paragraph 47(3) and (4) of Schedule 9 to the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22). There are other amending instruments, but none are relevant to these Regulations.
 
-[^key-954837a4c1c5c7306da69b1f5d13cac0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2026/8/regulation/3) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-954837a4c1c5c7306da69b1f5d13cac0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2026/8/regulation/3) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00011]: Footnote: See section 2 of the 1992 Act in relation to liability to tax determined on a daily basis.
 
-[^key-3b01fc283ee1097bb5e250245936af20]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2026/8/regulation/4) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-3b01fc283ee1097bb5e250245936af20]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2026/8/regulation/4) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-616676e6f85acd211f8666e35f44cfe0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2026/8/regulation/5) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-616676e6f85acd211f8666e35f44cfe0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2026/8/regulation/5) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-06834fd935237f1ddeea804506f23d64]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2026/8/regulation/6) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-06834fd935237f1ddeea804506f23d64]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2026/8/regulation/6) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-105a8658ecd23e63c60e41eb5eabb1e0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2026/8/regulation/7) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-105a8658ecd23e63c60e41eb5eabb1e0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2026/8/regulation/7) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-b8592a7117263d3912880e6448f7b7eb]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2026/8/regulation/8) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-b8592a7117263d3912880e6448f7b7eb]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2026/8/regulation/8) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-d9024e6296ab4f1a1fe955309e6dccf0]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2026/8/regulation/9) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-d9024e6296ab4f1a1fe955309e6dccf0]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2026/8/regulation/9) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00012]: Footnote: [1952 c. 52](https://www.legislation.gov.uk/ukpga/1952/52). There are amendments to section 53 which are not relevant to these Regulations.
 
@@ -978,7 +978,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00022]: Footnote: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6). Section 108 was amended by paragraph 163 of Schedule 24 to the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17).
 
-[^key-644f8fe47dd898b9caedf4dac7501eb6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2026/8/regulation/10) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-644f8fe47dd898b9caedf4dac7501eb6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2026/8/regulation/10) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00023]: Footnote: Section 64 was amended by section 66(1) of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), paragraph 41 of Schedule 1 to the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), and paragraph 5 of Schedule 9 to the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5).
 
@@ -1016,25 +1016,25 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00040]: Footnote: Paragraph 14(1)(g) was amended by [S.I. 1996/1516](https://www.legislation.gov.uk/uksi/1996/1516), [2013/388](https://www.legislation.gov.uk/uksi/2013/388), [2022/177](https://www.legislation.gov.uk/uksi/2022/177), [2024/919](https://www.legislation.gov.uk/uksi/2024/919) and [2025/227](https://www.legislation.gov.uk/uksi/2025/227).
 
-[^key-12016340117f180e9c53afc18bc9d04b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2026/8/regulation/11) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-12016340117f180e9c53afc18bc9d04b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2026/8/regulation/11) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00041]: Footnote: Section 141 was amended by section 1(1) of the Child Benefit Act [2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6).
 
-[^key-3caf89862c5d08167b9527f739758323]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2026/8/regulation/12) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-3caf89862c5d08167b9527f739758323]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2026/8/regulation/12) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-19a0344deae7d8b8b0386f4d2e5cd607]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2026/8/regulation/13) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-19a0344deae7d8b8b0386f4d2e5cd607]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2026/8/regulation/13) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-18f08f19b8879a1df2e53b93f84388af]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2026/8/regulation/14) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-18f08f19b8879a1df2e53b93f84388af]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2026/8/regulation/14) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-991c1424fd1158bc5dc854486033791d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2026/8/regulation/15) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-991c1424fd1158bc5dc854486033791d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2026/8/regulation/15) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-c16c84820bf6939557b7db4777b03020]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2026/8/regulation/16) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-c16c84820bf6939557b7db4777b03020]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2026/8/regulation/16) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00042]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Section 275(1) was amended by paragraph 138(2)(b) of Schedule 4 to the Health and Social Care Act 2012. There are other amendments which are not relevant to these Regulations.
 
 [^f00043]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42), to which there are amendments not relevant to these Regulations.
 
-[^key-e80a0987ed5de701423e37bfff3a8649]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2026/8/regulation/17) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-e80a0987ed5de701423e37bfff3a8649]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2026/8/regulation/17) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00044]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14). Section 3 was amended by paragraph 4(3) of Schedule 5 to the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), and paragraph 3 of Schedule 3 to the Regulation and Inspection of Social Care (Wales) Act [2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2).
 
@@ -1050,23 +1050,23 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00050]: Footnote: See section 2(3) for exceptions to the definition of a health service hospital and section 121(1) for the meaning of a health service hospital.
 
-[^key-b2cd1f8b97fea9507047827add0fcfab]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2026/8/regulation/18) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-b2cd1f8b97fea9507047827add0fcfab]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2026/8/regulation/18) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00051]: Footnote: Section 65 was amended by [S.I. 2011/2426](https://www.legislation.gov.uk/uksi/2011/2426).
 
-[^key-d8acce5c5aeec9740a5ddcdf3f97db5f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2026/8/regulation/19) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-d8acce5c5aeec9740a5ddcdf3f97db5f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2026/8/regulation/19) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-a6678f1dd831810f9ddde30e6a832183]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2026/8/regulation/20) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-a6678f1dd831810f9ddde30e6a832183]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2026/8/regulation/20) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00052]: Footnote: [1964 c. 5](https://www.legislation.gov.uk/ukpga/1964/5).
 
 [^f00053]: Footnote: [S.I. 1999/1736](https://www.legislation.gov.uk/uksi/1999/1736).
 
-[^key-ca4a13fc745965d7886a1d5a5bb1a11c]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2026/8/regulation/21) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-ca4a13fc745965d7886a1d5a5bb1a11c]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2026/8/regulation/21) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00054]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67). Section 12 was amended by paragraph 14 of Schedule 15 to the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33).
 
-[^key-3d3e891e19b7e097080212e3d258e956]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2026/8/regulation/22) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-3d3e891e19b7e097080212e3d258e956]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2026/8/regulation/22) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00055]: Footnote: [1964 c. 81](https://www.legislation.gov.uk/ukpga/1964/81). Section 2 is subject to section 3 of the Act. Section 2 was amended by paragraph 24 of Schedule 27 to the Social Security Act [1973 (c. 38)](https://www.legislation.gov.uk/ukpga/1973/38), Part 1 of Schedule 1 to the Social Security (Consequential Provisions) Act [1975 (c. 18)](https://www.legislation.gov.uk/ukpga/1975/18), section 14(2) of, and paragraph 87 of Schedule 3 to, the Finance (No. 2) Act [1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), paragraph 1 of Schedule 14 to the Value Added Tax Act [1994 (c. 23)](https://www.legislation.gov.uk/ukpga/1994/23), [S.I. 1974/164](https://www.legislation.gov.uk/uksi/1974/164), [1974/823](https://www.legislation.gov.uk/uksi/1974/823) and [1992/3261](https://www.legislation.gov.uk/uksi/1992/3261). There are other amendments to section 2 which are not relevant to these Regulations.
 
@@ -1084,21 +1084,21 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00062]: Footnote: The definition of “British overseas territory” was inserted into section 50(1) by section 1(1)(a) of the British Overseas Territories Act [2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8). The list of territories can be found in Schedule 6 to the British Nationality Act 1981. The definitions of “British National (Overseas)” and “British Overseas citizen” were inserted into section 50(1) by [S.I. 1986/948](https://www.legislation.gov.uk/uksi/1986/948).
 
-[^key-1ade9b2c4b5a0574947aec4a4c2f47ab]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2026/8/regulation/23) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-1ade9b2c4b5a0574947aec4a4c2f47ab]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2026/8/regulation/23) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-15967d7dbf44b0983ed7c5ffff77239a]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2026/8/regulation/24) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-15967d7dbf44b0983ed7c5ffff77239a]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2026/8/regulation/24) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-adbcf484c8b937595df2c86e611d4399]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2026/8/regulation/25) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-adbcf484c8b937595df2c86e611d4399]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2026/8/regulation/25) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00063]: Footnote: The Homes for Ukraine Sponsorship Scheme is set out under paragraphs UKR 11.1 to UKR 20.2 to Appendix Ukraine Scheme of the Immigration Rules (https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-ukraine-scheme). Home Office guidance in relation to this scheme is available here: https://www.gov.uk/guidance/apply-for-a-visa-under-the-ukraine-sponsorship-scheme.
 
 [^f00064]: Footnote: The Ukraine Permission Extension Scheme is set out under paragraphs UKR 29.1 to UKR 38.1 to Appendix Ukraine Scheme of the Immigration Rules (https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-ukraine-scheme). Home Office guidance in relation to this scheme is available here: https://www.gov.uk/guidance/applying-to-the-ukraine-permission-extension-scheme.
 
-[^key-f06da80d4d316ccd4f167dbd2b80ae61]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2026/8/regulation/26) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-f06da80d4d316ccd4f167dbd2b80ae61]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2026/8/regulation/26) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-f41f03e8e60c24a63a81301978c07005]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2026/8/regulation/27) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-f41f03e8e60c24a63a81301978c07005]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2026/8/regulation/27) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-1c15883b4a58ffaf438facdd9144cd4a]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2026/8/regulation/28) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-1c15883b4a58ffaf438facdd9144cd4a]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2026/8/regulation/28) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00065]: Footnote: [2016 anaw 1](https://www.legislation.gov.uk/anaw/2016/1).
 
@@ -1108,21 +1108,21 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00068]: Footnote: [1976 c. 80](https://www.legislation.gov.uk/ukpga/1976/80). Section 4 was amended by paragraph 72 of Schedule 23 to the Rent Act 1977, sections 39(4) and 140(2) of, and paragraphs 10 to 12 of Schedule 4, and Schedule 18 to, the Housing Act [1988 (c. 50)](https://www.legislation.gov.uk/ukpga/1988/50), paragraph 10(2), (3)(a) to (c) and (4) of Schedule 8 to the Civil Partnership Act 2004, [S.I. 2019/1458](https://www.legislation.gov.uk/uksi/2019/1458) and [2022/1166](https://www.legislation.gov.uk/uksi/2022/1166).
 
-[^key-ad80d4ad02ce6514518e4811eb73d791]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2026/8/regulation/29) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-ad80d4ad02ce6514518e4811eb73d791]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2026/8/regulation/29) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-279cdef610321021d00c530ee9376db1]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/wsi/2026/8/regulation/29) Class A substituted (30.10.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/118)](https://www.legislation.gov.uk/wsi/2026/118), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/118/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/wsi/2026/118/regulation/2/2/a/i)
+[^c-279cdef610321021d00c530ee9376db1]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/wsi/2026/8/regulation/29) Class A substituted (30.10.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/118)](https://www.legislation.gov.uk/wsi/2026/118), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/118/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/wsi/2026/118/regulation/2/2/a/i)
 
-[^key-1c24127d22a19cb3d94b5ca9dd0dc36f]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/wsi/2026/8/regulation/29) Class A inserted (30.10.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/118)](https://www.legislation.gov.uk/wsi/2026/118), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/118/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2026/118/regulation/2/2/a/ii)
+[^c-1c24127d22a19cb3d94b5ca9dd0dc36f]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/wsi/2026/8/regulation/29) Class A inserted (30.10.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/118)](https://www.legislation.gov.uk/wsi/2026/118), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/118/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2026/118/regulation/2/2/a/ii)
 
-[^key-33562d22028d22127559e901892b0664]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/wsi/2026/8/regulation/29) Class C inserted (30.10.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/118)](https://www.legislation.gov.uk/wsi/2026/118), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/118/regulation/1/2), [2(2)(b)(i)](https://www.legislation.gov.uk/wsi/2026/118/regulation/2/2/b/i)
+[^c-33562d22028d22127559e901892b0664]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/wsi/2026/8/regulation/29) Class C inserted (30.10.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/118)](https://www.legislation.gov.uk/wsi/2026/118), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/118/regulation/1/2), [2(2)(b)(i)](https://www.legislation.gov.uk/wsi/2026/118/regulation/2/2/b/i)
 
-[^key-fddfcdff9634a4e4b33175dd955a47ab]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/wsi/2026/8/regulation/29) Class C substituted (30.10.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/118)](https://www.legislation.gov.uk/wsi/2026/118), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/118/regulation/1/2), [2(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2026/118/regulation/2/2/b/ii)
+[^c-fddfcdff9634a4e4b33175dd955a47ab]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/wsi/2026/8/regulation/29) Class C substituted (30.10.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/118)](https://www.legislation.gov.uk/wsi/2026/118), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/118/regulation/1/2), [2(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2026/118/regulation/2/2/b/ii)
 
-[^key-f116e9f35e364feed9aae6b577c0bd5f]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/wsi/2026/8/regulation/29) Class C inserted (30.10.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/118)](https://www.legislation.gov.uk/wsi/2026/118), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/118/regulation/1/2), [2(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2026/118/regulation/2/2/b/iii)
+[^c-f116e9f35e364feed9aae6b577c0bd5f]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/wsi/2026/8/regulation/29) Class C inserted (30.10.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/118)](https://www.legislation.gov.uk/wsi/2026/118), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/118/regulation/1/2), [2(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2026/118/regulation/2/2/b/iii)
 
-[^key-1733527b4e49c4d269d41ccac7676ba7]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/wsi/2026/8/regulation/29) Class F substituted (30.10.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/118)](https://www.legislation.gov.uk/wsi/2026/118), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/118/regulation/1/2), [2(2)(c)(i)](https://www.legislation.gov.uk/wsi/2026/118/regulation/2/2/c/i)
+[^c-1733527b4e49c4d269d41ccac7676ba7]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/wsi/2026/8/regulation/29) Class F substituted (30.10.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/118)](https://www.legislation.gov.uk/wsi/2026/118), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/118/regulation/1/2), [2(2)(c)(i)](https://www.legislation.gov.uk/wsi/2026/118/regulation/2/2/c/i)
 
-[^key-4e42baed5933c8921de97f5600a5d0f5]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/wsi/2026/8/regulation/29) Class F inserted (30.10.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/118)](https://www.legislation.gov.uk/wsi/2026/118), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/118/regulation/1/2), [2(2)(c)(ii)](https://www.legislation.gov.uk/wsi/2026/118/regulation/2/2/c/ii)
+[^c-4e42baed5933c8921de97f5600a5d0f5]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/wsi/2026/8/regulation/29) Class F inserted (30.10.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/118)](https://www.legislation.gov.uk/wsi/2026/118), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/118/regulation/1/2), [2(2)(c)(ii)](https://www.legislation.gov.uk/wsi/2026/118/regulation/2/2/c/ii)
 
 [^f00069]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
@@ -1130,21 +1130,21 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00071]: Footnote: [2015 anaw 3](https://www.legislation.gov.uk/anaw/2015/3).
 
-[^key-2d488c675f33b184d6296b671bf0ebf8]: Commencement: Reg. 30 in force at 26.1.2026 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-2d488c675f33b184d6296b671bf0ebf8]: Commencement: Reg. 30 in force at 26.1.2026 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-68075fb7581890c1cddd05b7c60faff8]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2026/8/regulation/30) in force at 1.4.2026 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2/b)
+[^c-68075fb7581890c1cddd05b7c60faff8]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2026/8/regulation/30) in force at 1.4.2026 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2/b)
 
-[^key-7ca0542924d938e3b984e76aa1cebc71]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2026/8/schedule/1/paragraph/1) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-7ca0542924d938e3b984e76aa1cebc71]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2026/8/schedule/1/paragraph/1) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-64bb4f11c9e687e445012f49cb5633e7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2026/8/schedule/1/paragraph/2) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-64bb4f11c9e687e445012f49cb5633e7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2026/8/schedule/1/paragraph/2) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-f2776bb47c0423409973f838653d80c2]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2026/8/schedule/1/paragraph/3) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-f2776bb47c0423409973f838653d80c2]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2026/8/schedule/1/paragraph/3) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00072]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
 
 [^f00073]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1).
 
-[^key-1efad45dfb32a006cd4c7a315d1b374b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2026/8/schedule/2/paragraph/1) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-1efad45dfb32a006cd4c7a315d1b374b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2026/8/schedule/2/paragraph/1) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00074]: Footnote: [S.I. 2015/621](https://www.legislation.gov.uk/uksi/2015/621). Regulation 4A was inserted by [S.I. 2016/68](https://www.legislation.gov.uk/uksi/2016/68). Paragraph (1)(c) and (d) were amended by [S.I. 2025/401](https://www.legislation.gov.uk/uksi/2025/401).
 
@@ -1152,99 +1152,99 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00076]: Footnote: [2015 anaw 5](https://www.legislation.gov.uk/anaw/2015/5). See Part 2 for the establishment of the body corporate Qualifications Wales.
 
-[^key-559b679367a45aea1cfa9e8c14b67de3]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2026/8/schedule/2/paragraph/2) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-559b679367a45aea1cfa9e8c14b67de3]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2026/8/schedule/2/paragraph/2) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00077]: Footnote: The British Council is a charitable body registered in England and Wales (no 209131) and Scotland (SC037733) and is an executive non-departmental public body sponsored by the Foreign, Commonwealth and Development Office.
 
-[^key-57d3fa2f3a3daf01c116e0d7a376dd5a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2026/8/schedule/2/paragraph/3) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-57d3fa2f3a3daf01c116e0d7a376dd5a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2026/8/schedule/2/paragraph/3) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-9def4c046caa984f49eaa70aca47fd0c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2026/8/schedule/2/paragraph/4) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-9def4c046caa984f49eaa70aca47fd0c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2026/8/schedule/2/paragraph/4) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-3ce7122a25135824fb85fce3b17d8b02]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2026/8/schedule/2/paragraph/5) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-3ce7122a25135824fb85fce3b17d8b02]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2026/8/schedule/2/paragraph/5) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-f1efaf38999ddbc3718894ec1428b404]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2026/8/schedule/2/paragraph/6) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-f1efaf38999ddbc3718894ec1428b404]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2026/8/schedule/2/paragraph/6) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00078]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).
 
-[^key-874812e68e0d710b807cb19928cd24a9]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2026/8/schedule/2/paragraph/7) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-874812e68e0d710b807cb19928cd24a9]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2026/8/schedule/2/paragraph/7) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00079]: Footnote: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253), amended by [S.I. 2008/838](https://www.legislation.gov.uk/uksi/2008/838) and [2009/1182](https://www.legislation.gov.uk/uksi/2009/1182).
 
-[^key-e6206e7ef21be1158bad6f0018b34109]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2026/8/schedule/2/paragraph/8) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-e6206e7ef21be1158bad6f0018b34109]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2026/8/schedule/2/paragraph/8) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-89faa129fc6a78b578c687ce267c9c7e]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2026/8/schedule/3/paragraph/1) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-89faa129fc6a78b578c687ce267c9c7e]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2026/8/schedule/3/paragraph/1) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00080]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13). Section 91(3) was amended by paragraph 13(2) of Schedule 8 to the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22).
 
 [^f00081]: Footnote: Section 91(5) was amended by paragraph 4(2) of the Schedule to the Higher Education (Wales) Act [2015 (anaw 1)](https://www.legislation.gov.uk/anaw/2015/1) and [S.I. 2019/1027](https://www.legislation.gov.uk/uksi/2019/1027).
 
-[^key-435158dec5ae71ade29bf00d36b00ad9]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2026/8/schedule/3/paragraph/2) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-435158dec5ae71ade29bf00d36b00ad9]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2026/8/schedule/3/paragraph/2) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-4b6564b6cf662747505ff23cf6b8cd06]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/1) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-4b6564b6cf662747505ff23cf6b8cd06]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/1) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00082]: Footnote: [S.I. 1992/548](https://www.legislation.gov.uk/uksi/1992/548), amended by [S.I. 1994/543](https://www.legislation.gov.uk/uksi/1994/543), [1995/619](https://www.legislation.gov.uk/uksi/1995/619), [1996/636](https://www.legislation.gov.uk/uksi/1996/636), [1997/656](https://www.legislation.gov.uk/uksi/1997/656), [2013/388](https://www.legislation.gov.uk/uksi/2013/388), [2013/680](https://www.legislation.gov.uk/uksi/2013/680), [2013/638 (W. 71)](https://www.legislation.gov.uk/wsi/2013/638) and [2013/1048 (W. 110)](https://www.legislation.gov.uk/wsi/2013/1048). There are other amending instruments but none is relevant to these Regulations.
 
-[^key-7f98bfea0076b7557f3fc9e969e41627]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/2) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-7f98bfea0076b7557f3fc9e969e41627]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/2) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00083]: Footnote: [S.I. 1992/613](https://www.legislation.gov.uk/uksi/1992/613), amended by [S.I. 1992/3008](https://www.legislation.gov.uk/uksi/1992/3008), [2004/785 (W. 82)](https://www.legislation.gov.uk/wsi/2004/785), [2013/62 (W. 13)](https://www.legislation.gov.uk/wsi/2013/62) and [2014/129 (W. 17)](https://www.legislation.gov.uk/wsi/2014/129). There are other amending instruments but none is relevant to these Regulations.
 
-[^key-871a6dafe8a858fe165bdee5565b5b2e]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/3) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-871a6dafe8a858fe165bdee5565b5b2e]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/3) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00084]: Footnote: [S.I. 1992/552](https://www.legislation.gov.uk/uksi/1992/552), amended by [S.I. 2019/431 (W. 100)](https://www.legislation.gov.uk/wsi/2019/431), [2022/722 (W. 160)](https://www.legislation.gov.uk/wsi/2022/722) and [2023/154 (W. 23)](https://www.legislation.gov.uk/wsi/2023/154). There are other amending instruments but none is relevant to these Regulations.
 
-[^key-bba714e4231bba094005ba65c785be56]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/4) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-bba714e4231bba094005ba65c785be56]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/4) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00085]: Footnote: [S.I. 1992/558](https://www.legislation.gov.uk/uksi/1992/558), amended by [S.I. 1992/2941](https://www.legislation.gov.uk/uksi/1992/2941), [1994/539](https://www.legislation.gov.uk/uksi/1994/539), [1995/619](https://www.legislation.gov.uk/uksi/1995/619), [1997/656](https://www.legislation.gov.uk/uksi/1997/656), [1998/291](https://www.legislation.gov.uk/uksi/1998/291), [1999/536](https://www.legislation.gov.uk/uksi/1999/536), [2000/1025 (W. 61)](https://www.legislation.gov.uk/wsi/2000/1025), [2004/2921 (W. 260)](https://www.legislation.gov.uk/wsi/2004/2921), [2005/3302 (W. 256)](https://www.legislation.gov.uk/wsi/2005/3302), [2019/432 (W. 101)](https://www.legislation.gov.uk/wsi/2019/432) [2022/722 (W. 160)](https://www.legislation.gov.uk/wsi/2022/722) and [2022/907 (W. 198)](https://www.legislation.gov.uk/wsi/2022/907). There are other amending instruments but none is relevant to these Regulations.
 
-[^key-354fe750688b22ae1eea911ec38b2411]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/5) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-354fe750688b22ae1eea911ec38b2411]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/5) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00086]: Footnote: [S.I. 1993/255](https://www.legislation.gov.uk/uksi/1993/255), amended by [S.I. 2004/460 (W. 45)](https://www.legislation.gov.uk/wsi/2004/460) and [2013/63 (W. 14)](https://www.legislation.gov.uk/wsi/2013/63). There are other amending instruments but none is relevant to these Regulations.
 
-[^key-796acb5de16863d51a7f0a25871d5c8e]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/6) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-796acb5de16863d51a7f0a25871d5c8e]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/6) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00087]: Footnote: [S.I. 1995/2561](https://www.legislation.gov.uk/uksi/1995/2561), amended by [S.I. 2004/3094 (W. 268)](https://www.legislation.gov.uk/wsi/2004/3094) and [2016/969 (W. 238)](https://www.legislation.gov.uk/wsi/2016/969). There are other amending instruments but none is relevant to these Regulations.
 
-[^key-198254e4ce3d70bf734765a01883b512]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/7) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-198254e4ce3d70bf734765a01883b512]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/7) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00088]: Footnote: [S.I. 2004/2921 (W. 260)](https://www.legislation.gov.uk/wsi/2004/2921).
 
-[^key-e1bea41796c401c012bbe91b47829d5c]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/8) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-e1bea41796c401c012bbe91b47829d5c]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/8) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00089]: Footnote: [S.I. 2004/3094 (W. 268)](https://www.legislation.gov.uk/wsi/2004/3094).
 
-[^key-da36083792759845816ce30ee4d179d9]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/9) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-da36083792759845816ce30ee4d179d9]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/9) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00090]: Footnote: [S.I. 2005/3302 (W. 256)](https://www.legislation.gov.uk/wsi/2005/3302).
 
-[^key-0f5671a922f170b691caeb4d5edee157]: Commencement: Sch. 4 para. 10 in force at 26.1.2026 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-0f5671a922f170b691caeb4d5edee157]: Commencement: Sch. 4 para. 10 in force at 26.1.2026 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-fdcac454d91878ce7bccdf4548477e49]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/10) in force at 1.4.2026 in so far as not already in force, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2/c)
+[^c-fdcac454d91878ce7bccdf4548477e49]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/10) in force at 1.4.2026 in so far as not already in force, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2/c)
 
 [^f00091]: Footnote: [W.S.I. 2026/8](https://www.legislation.gov.uk/wsi/2026/8).
 
-[^key-293c5912646dcc68411233d5a59d298f]: Commencement: Sch. 4 para. 11 in force at 26.1.2026 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-293c5912646dcc68411233d5a59d298f]: Commencement: Sch. 4 para. 11 in force at 26.1.2026 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
-[^key-9dc8cdf2a8f0694bf412d82de2465627]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/11) in force at 1.4.2026 in so far as not already in force, see [reg. 1(2)(d)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2/d)
+[^c-9dc8cdf2a8f0694bf412d82de2465627]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/11) in force at 1.4.2026 in so far as not already in force, see [reg. 1(2)(d)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2/d)
 
 [^f00092]: Footnote: [S.I. 2013/3035 (W. 303)](https://www.legislation.gov.uk/wsi/2013/3035), amended by [S.I. 2014/66 (W. 6)](https://www.legislation.gov.uk/wsi/2014/66), [S.I. 2014/513](https://www.legislation.gov.uk/uksi/2014/513), [S.I. 2014/825 (W. 83)](https://www.legislation.gov.uk/wsi/2014/825), [S.I. 2014/852](https://www.legislation.gov.uk/uksi/2014/852), [S.I. 2015/44 (W. 3)](https://www.legislation.gov.uk/wsi/2015/44), [S.I. 2015/971](https://www.legislation.gov.uk/uksi/2015/971), [S.I. 2016/50 (W. 21)](https://www.legislation.gov.uk/wsi/2016/50), [S.I. 2017/46 (W. 20)](https://www.legislation.gov.uk/wsi/2017/46), [S.I. 2018/14 (W. 7)](https://www.legislation.gov.uk/wsi/2018/14), [S.I. 2019/11 (W. 5)](https://www.legislation.gov.uk/wsi/2019/11), [S.I. 2020/16 (W. 2)](https://www.legislation.gov.uk/wsi/2020/16), [S.I. 2021/34 (W. 9)](https://www.legislation.gov.uk/wsi/2021/34), [S.I. 2022/51 (W. 19)](https://www.legislation.gov.uk/wsi/2022/51), [S.I. 2022/634](https://www.legislation.gov.uk/uksi/2022/634), [S.I. 2022/1329](https://www.legislation.gov.uk/uksi/2022/1329), [S.I. 2023/47 (W. 6)](https://www.legislation.gov.uk/wsi/2023/47), [S.I. 2023/1071](https://www.legislation.gov.uk/uksi/2023/1071), [S.I. 2024/56 (W. 16)](https://www.legislation.gov.uk/wsi/2024/56) and [2025/59 (W. 17)](https://www.legislation.gov.uk/wsi/2025/59).
 
-[^key-c27b372f21a8edbd1c5d3064c37bfac4]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/12) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-c27b372f21a8edbd1c5d3064c37bfac4]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/12) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00093]: Footnote: [S.I. 2016/236 (W. 88)](https://www.legislation.gov.uk/wsi/2016/236).
 
-[^key-dab0b792c8dcdd6b680e72789bd6945f]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/13) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-dab0b792c8dcdd6b680e72789bd6945f]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/13) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00094]: Footnote: [S.I. 2019/431 (W. 100)](https://www.legislation.gov.uk/wsi/2019/431).
 
-[^key-aecde519ae229e67cf73183a979259e3]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/14) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-aecde519ae229e67cf73183a979259e3]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/14) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00095]: Footnote: [S.I. 2019/432 (W. 101)](https://www.legislation.gov.uk/wsi/2019/432).
 
-[^key-6cf8ad0497925d2aeae992ac76546de3]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/15) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-6cf8ad0497925d2aeae992ac76546de3]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/15) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00096]: Footnote: [S.I. 2022/907 (W. 198)](https://www.legislation.gov.uk/wsi/2022/907).
 
-[^key-49d9170e4a194cc535a93c5f05c465c5]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/16) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
+[^c-49d9170e4a194cc535a93c5f05c465c5]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/16) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2)
 
 [^f00097]: Footnote: [S.I. 1998/105](https://www.legislation.gov.uk/uksi/1998/105).
 

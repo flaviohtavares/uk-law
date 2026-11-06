@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 17 — Enactments Exempted from Section 333(6)[^key-0ffdb7fbdf5b3b35c02731801a83d698]
+## SCHEDULE 17 — Enactments Exempted from Section 333(6)[^c-0ffdb7fbdf5b3b35c02731801a83d698]
 
 *Extent: E+W*
 
@@ -52,7 +52,7 @@ Section 333(6).
 
 ## Annotations
 
-[^key-0ffdb7fbdf5b3b35c02731801a83d698]: Textual amendment: Sch. 13 para. 26 and cross-heading inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [ss. 99(2)(b)](https://www.legislation.gov.uk/asc/2024/3/section/99/2/b), [147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-0ffdb7fbdf5b3b35c02731801a83d698]: Textual amendment: Sch. 13 para. 26 and cross-heading inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [ss. 99(2)(b)](https://www.legislation.gov.uk/asc/2024/3/section/99/2/b), [147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
 
 [^c14044841]: Textual amendment: Sch. 17 para. 1 repealed by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 162(1)](https://www.legislation.gov.uk/ukpga/1990/43/section/162/1), [Sch. 16 Pt. III](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/III)
 

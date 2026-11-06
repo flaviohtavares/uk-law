@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 124. Disposal of building society’s books, papers and other records[^key-b91a13949731b708b529e5cefe062497]
+## 124. Disposal of building society’s books, papers and other records[^c-b91a13949731b708b529e5cefe062497]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Apply rule 7.34(1) and (3) of the 1986 Rules[^f00059]. In paragraph (3), ignore 
 
 ## Annotations
 
-[^key-b91a13949731b708b529e5cefe062497]: Commencement: Rule 124 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-b91a13949731b708b529e5cefe062497]: Commencement: Rule 124 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00059]: Footnote: Rule 7.34 was amended by paragraph 52 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921), and rule 14 of [S.I. 2006/734](https://www.legislation.gov.uk/uksi/2006/734).

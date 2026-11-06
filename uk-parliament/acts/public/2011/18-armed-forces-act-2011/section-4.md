@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Inspection of service police investigations[^key-519a6dc163dd3e8a529c861cb26efb07]
+## 4. Inspection of service police investigations[^c-519a6dc163dd3e8a529c861cb26efb07]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ After section 321 of AFA 2006 insert—
 
 ## Annotations
 
-[^key-519a6dc163dd3e8a529c861cb26efb07]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2011/18/section/4) in force at 4.6.2014 by [S.I. 2014/1444](https://www.legislation.gov.uk/uksi/2014/1444), [art. 3](https://www.legislation.gov.uk/uksi/2014/1444/article/3)
+[^c-519a6dc163dd3e8a529c861cb26efb07]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2011/18/section/4) in force at 4.6.2014 by [S.I. 2014/1444](https://www.legislation.gov.uk/uksi/2014/1444), [art. 3](https://www.legislation.gov.uk/uksi/2014/1444/article/3)

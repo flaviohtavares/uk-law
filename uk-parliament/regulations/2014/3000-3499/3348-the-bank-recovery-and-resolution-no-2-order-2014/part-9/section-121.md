@@ -22,8 +22,8 @@ summary: ''
 
 (1) In this Chapter—
 
-- “[^key-0f2b053d25fbdfcd4f674d8af09a0fa7]**covered bond**” means a regulated covered bond within the meaning of regulation 1(2) of the Regulated Covered Bonds Regulations 2008; and;
-- “**relevant institution**” means an institution, other than a mortgage credit institution, which is authorised by the PRA or FCA and is not part of a group subject to supervision on a consolidated basis in accordance with the capital requirements regulation and CRR rules[^key-0165ec32b9fb1545ffd072bf9b60f588].
+- “[^c-0f2b053d25fbdfcd4f674d8af09a0fa7]**covered bond**” means a regulated covered bond within the meaning of regulation 1(2) of the Regulated Covered Bonds Regulations 2008; and;
+- “**relevant institution**” means an institution, other than a mortgage credit institution, which is authorised by the PRA or FCA and is not part of a group subject to supervision on a consolidated basis in accordance with the capital requirements regulation and CRR rules[^c-0165ec32b9fb1545ffd072bf9b60f588].
 
 (2) “**Mortgage credit institution**” means an institution—
 
@@ -32,14 +32,14 @@ summary: ''
   - (i) relates to an agreement under which the obligation of the borrower to repay is secured, or is to be secured, by a legal mortgage on land; and
   - (ii) is financed by covered bonds [^c22307921].
 
-(3)[^key-f6a6e4d4caf309b03967aeaae6e8e402] In this Chapter, references to the “**minimum requirement for own funds and eligible liabilities**” include any transitional minimum requirement which the Bank determines that an institution is required to hold in accordance with article 123(1C).
+(3)[^c-f6a6e4d4caf309b03967aeaae6e8e402] In this Chapter, references to the “**minimum requirement for own funds and eligible liabilities**” include any transitional minimum requirement which the Bank determines that an institution is required to hold in accordance with article 123(1C).
 
 ## Annotations
 
-[^key-0f2b053d25fbdfcd4f674d8af09a0fa7]: Textual amendment: Words in [art. 121(1)](https://www.legislation.gov.uk/uksi/2014/3348/article/121/1) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 66(a)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/66/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0f2b053d25fbdfcd4f674d8af09a0fa7]: Textual amendment: Words in [art. 121(1)](https://www.legislation.gov.uk/uksi/2014/3348/article/121/1) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 66(a)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/66/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0165ec32b9fb1545ffd072bf9b60f588]: Textual amendment: Words in [art. 121(1)](https://www.legislation.gov.uk/uksi/2014/3348/article/121/1) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [19(8)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/19/8)
+[^c-0165ec32b9fb1545ffd072bf9b60f588]: Textual amendment: Words in [art. 121(1)](https://www.legislation.gov.uk/uksi/2014/3348/article/121/1) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [19(8)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/19/8)
 
 [^c22307921]: Marginal citation: For the meaning of “covered bond” see the recovery and resolution directive, Article 2.1, point (96).
 
-[^key-f6a6e4d4caf309b03967aeaae6e8e402]: Textual amendment: [Art. 121(3)](https://www.legislation.gov.uk/uksi/2014/3348/article/121/3) inserted (1.1.2026) by [The Bank Recovery and Resolution (Amendment) Regulations 2025 (S.I. 2025/862)](https://www.legislation.gov.uk/uksi/2025/862), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/862/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/862/regulation/2/2)
+[^c-f6a6e4d4caf309b03967aeaae6e8e402]: Textual amendment: [Art. 121(3)](https://www.legislation.gov.uk/uksi/2014/3348/article/121/3) inserted (1.1.2026) by [The Bank Recovery and Resolution (Amendment) Regulations 2025 (S.I. 2025/862)](https://www.legislation.gov.uk/uksi/2025/862), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/862/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/862/regulation/2/2)

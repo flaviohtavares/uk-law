@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 251. Consequential amendments relating to this Chapter[^key-536773341d8726d387817b7ca0c6aa67][^key-bcbd9a952c9e96f2bd3a1a7361668dc6]
+## 251. Consequential amendments relating to this Chapter[^c-536773341d8726d387817b7ca0c6aa67][^c-bcbd9a952c9e96f2bd3a1a7361668dc6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-536773341d8726d387817b7ca0c6aa67]: Commencement: S. 251 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-536773341d8726d387817b7ca0c6aa67]: Commencement: S. 251 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-bcbd9a952c9e96f2bd3a1a7361668dc6]: Commencement: [S. 251](https://www.legislation.gov.uk/ukpga/2024/13/section/251) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-bcbd9a952c9e96f2bd3a1a7361668dc6]: Commencement: [S. 251](https://www.legislation.gov.uk/ukpga/2024/13/section/251) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

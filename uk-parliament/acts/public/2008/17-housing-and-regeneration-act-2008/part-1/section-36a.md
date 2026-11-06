@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. Co-operation with the Regulator of Social Housing[^key-ac0f9702803ac99a91078e6f038d967e]
+## 36A. Co-operation with the Regulator of Social Housing[^c-ac0f9702803ac99a91078e6f038d967e]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac0f9702803ac99a91078e6f038d967e]: Textual amendment: S. 36A inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/8) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
+[^c-ac0f9702803ac99a91078e6f038d967e]: Textual amendment: S. 36A inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/8) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))

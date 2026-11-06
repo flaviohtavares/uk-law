@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## J11. National Insurance modification for flat-rate retirement pension[^key-6d9d89621f4ed132b142e6c04b5afcf3]
+## J11. National Insurance modification for flat-rate retirement pension[^c-6d9d89621f4ed132b142e6c04b5afcf3]
 
 *Extent: E+W+S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6d9d89621f4ed132b142e6c04b5afcf3]: Commencement: [Reg. J11](https://www.legislation.gov.uk/uksi/1986/24/regulation/J11) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-6d9d89621f4ed132b142e6c04b5afcf3]: Commencement: [Reg. J11](https://www.legislation.gov.uk/uksi/1986/24/regulation/J11) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00068]: Footnote: [S.I. 1969/793](https://www.legislation.gov.uk/uksi/1969/793).

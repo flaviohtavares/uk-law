@@ -38,7 +38,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Offences
 
-### 1. Offence of stalking[^key-36e0f207a64f68280fb782e093ed0a2a]
+### 1. Offence of stalking[^c-36e0f207a64f68280fb782e093ed0a2a]
 
 (1) A person (“**A**”) commits an offence (in this Act referred to as the offence of stalking) where—
 
@@ -98,7 +98,7 @@ the course of conduct is to be treated for the purposes of this section as if it
 
 (9) In this section “**statutory provision**” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954.
 
-### 2. Offence of threatening or abusive behaviour[^key-d01c659d687818f9ba6005df6405d673]
+### 2. Offence of threatening or abusive behaviour[^c-d01c659d687818f9ba6005df6405d673]
 
 (1) A person (“**A**”) commits an offence if—
 
@@ -120,7 +120,7 @@ the course of conduct is to be treated for the purposes of this section as if it
 - (a) on conviction on indictment, to imprisonment for a term not exceeding 5 years or a fine (or both), or
 - (b) on summary conviction, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both).
 
-### 3. Special measures directions[^key-db98b2736b5b6597d38c45f33bfe194e]
+### 3. Special measures directions[^c-db98b2736b5b6597d38c45f33bfe194e]
 
 (1) The Criminal Evidence (Northern Ireland) Order 1999 is amended as follows.
 
@@ -159,7 +159,7 @@ the course of conduct is to be treated for the purposes of this section as if it
 
 (7) In Article 27(1) (warning to jury), after “22A,” insert “22B,”.
 
-### 4. Alternative to conviction of the domestic abuse offence[^key-9d174c9d9e003bdf3796a735679ea1e6]
+### 4. Alternative to conviction of the domestic abuse offence[^c-9d174c9d9e003bdf3796a735679ea1e6]
 
 In section 13(2) of the Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (alternatives to the domestic abuse offence), after paragraph (b) add—
 
@@ -168,7 +168,7 @@ In section 13(2) of the Domestic Abuse and Civil Proceedings Act (Northern Irela
 
 .
 
-### 5. No right to claim trial by jury[^key-b251d114214494773ca6414a18b34196]
+### 5. No right to claim trial by jury[^c-b251d114214494773ca6414a18b34196]
 
 In Article 29(1) of the Magistrates’ Courts (Northern Ireland) Order 1981 (right to claim trial by jury for certain summary offences but not those listed in the sub-paragraphs), after sub-paragraph (q) add—
 
@@ -178,7 +178,7 @@ In Article 29(1) of the Magistrates’ Courts (Northern Ireland) Order 1981 (rig
 
 ## Stalking protection orders
 
-### 6. Meaning of act associated with stalking and risk associated with stalking[^key-2975956ae1441e5d3dfc11c1101ac29f][^key-f11a423717e40a2a7ec1d5c006efbe4f]
+### 6. Meaning of act associated with stalking and risk associated with stalking[^c-2975956ae1441e5d3dfc11c1101ac29f][^c-f11a423717e40a2a7ec1d5c006efbe4f]
 
 (1) This section applies for the purposes of this section and sections 7 to 10.
 
@@ -208,7 +208,7 @@ In Article 29(1) of the Magistrates’ Courts (Northern Ireland) Order 1981 (rig
 
 (6) A reference to being a victim of acts associated with stalking is a reference to being a target of the acts or to suffering physical or psychological harm because of, or otherwise being a victim of, the acts.
 
-### 7. Applications for orders[^key-98281a4ebafd5922b76046c0c778b143][^key-da5d2c04cd58f54d370b55276cadb714]
+### 7. Applications for orders[^c-98281a4ebafd5922b76046c0c778b143][^c-da5d2c04cd58f54d370b55276cadb714]
 
 (1) A stalking protection order is an order which, for the purpose of preventing a person from carrying out acts associated with stalking—
 
@@ -231,7 +231,7 @@ In Article 29(1) of the Magistrates’ Courts (Northern Ireland) Order 1981 (rig
 - (a) whether the acts mentioned in subsection (2)(a) were carried out in a part of the United Kingdom or elsewhere, or
 - (b) whether they were carried out before or after the coming into operation of this section.
 
-### 8. Power to make orders[^key-720f6a7e5d3f6c62bc81507b63f3691b][^key-9ece54f48f64532a40e531d874d527b6]
+### 8. Power to make orders[^c-720f6a7e5d3f6c62bc81507b63f3691b][^c-9ece54f48f64532a40e531d874d527b6]
 
 (1) This section applies where the Chief Constable has applied under section 7 to a court of summary jurisdiction for a stalking protection order against a person (“**D**”).
 
@@ -260,7 +260,7 @@ In Article 29(1) of the Magistrates’ Courts (Northern Ireland) Order 1981 (rig
 - (a) whether the acts mentioned in subsection (2)(a) were carried out in a part of the United Kingdom or elsewhere, or
 - (b) whether they were carried out before or after the coming into operation of this section.
 
-### 9. Duration of orders[^key-e46fac37b1ced69d7f60ccee84187e70][^key-6979f161bc006a527f64c1e4427d808c]
+### 9. Duration of orders[^c-e46fac37b1ced69d7f60ccee84187e70][^c-6979f161bc006a527f64c1e4427d808c]
 
 (1) A prohibition or requirement contained in a stalking protection order has effect—
 
@@ -272,7 +272,7 @@ In Article 29(1) of the Magistrates’ Courts (Northern Ireland) Order 1981 (rig
 - (a) may specify that some of its prohibitions or requirements have effect until further order and some for a fixed period;
 - (b) may specify different periods for different prohibitions or requirements.
 
-### 10. Variations, discharges and renewals[^key-6daf0963ec477a351774536e9824363e][^key-d0c5ea7480cae46448c522229eefb8d9]
+### 10. Variations, discharges and renewals[^c-6daf0963ec477a351774536e9824363e][^c-d0c5ea7480cae46448c522229eefb8d9]
 
 (1) The Chief Constable or the person against whom a stalking protection order is made may apply to a court of summary jurisdiction for an order varying, renewing or discharging the stalking protection order.
 
@@ -285,7 +285,7 @@ In Article 29(1) of the Magistrates’ Courts (Northern Ireland) Order 1981 (rig
   - (i) the person against whom the order was made, and
   - (ii) the Chief Constable.
 
-### 11. Interim stalking protection orders[^key-84d9d874adfa1334f7ca2923b7b6e29d][^key-4596558c02c9c07564219f3f3f382400]
+### 11. Interim stalking protection orders[^c-84d9d874adfa1334f7ca2923b7b6e29d][^c-4596558c02c9c07564219f3f3f382400]
 
 (1) An interim stalking protection order, in relation to a person, is an order which—
 
@@ -320,7 +320,7 @@ In Article 29(1) of the Magistrates’ Courts (Northern Ireland) Order 1981 (rig
 - (b) the time for making such an appeal (taking account of any extension granted) has expired, and
 - (c) there is no pending application to extend the time for making such an appeal.
 
-### 12. Content of, and procedure for, orders[^key-80a44c73ba17546d0972776844c5a67a][^key-ffd01cf3b1aee5fd27f8fb412e955562]
+### 12. Content of, and procedure for, orders[^c-80a44c73ba17546d0972776844c5a67a][^c-ffd01cf3b1aee5fd27f8fb412e955562]
 
 (1) A stalking protection order and an interim stalking protection order must specify—
 
@@ -343,7 +343,7 @@ In Article 29(1) of the Magistrates’ Courts (Northern Ireland) Order 1981 (rig
 - (a) constituted in accordance with Schedule 2 to the Children and Young Persons Act (Northern Ireland) 1968, and
 - (b) known as a youth court by virtue of Article 27 of the Criminal Justice (Children) (Northern Ireland) Order 1998.
 
-### 13. Offence of breaching order[^key-967085fb741b1fef9caa52ca7c44c678][^key-b087f0b11de848bfa721817dcb1c7206]
+### 13. Offence of breaching order[^c-967085fb741b1fef9caa52ca7c44c678][^c-b087f0b11de848bfa721817dcb1c7206]
 
 (1) A person who, without reasonable excuse, breaches a stalking protection order or an interim stalking protection order commits an offence.
 
@@ -358,7 +358,7 @@ In Article 29(1) of the Magistrates’ Courts (Northern Ireland) Order 1981 (rig
 
 (5) In proceedings for an offence under this section, a copy of the original stalking protection order or interim stalking protection order, certified by the clerk of petty sessions or the court which made it, is admissible as evidence of its having been made and of its contents to the same extent that oral evidence of those things is admissible in those proceedings.
 
-### 14. Notification requirements[^key-e4fb70c415e8a7ccc3f4a82b98862cd4][^key-dd6815a84c47490b311eb4a87ef51fb2]
+### 14. Notification requirements[^c-e4fb70c415e8a7ccc3f4a82b98862cd4][^c-dd6815a84c47490b311eb4a87ef51fb2]
 
 (1) A person subject to—
 
@@ -411,7 +411,7 @@ must, before the end of the period of 3 days beginning with the date on which th
 
 (9) Regulations are not to be made under subsection (2)(c) unless a draft of them has been laid before, and approved by a resolution of, the Assembly.
 
-### 15. Method of notification and related matters[^key-0086f2f51f61dcd08d7178b634164904][^key-2f248022caae017e237eb400d263be4f]
+### 15. Method of notification and related matters[^c-0086f2f51f61dcd08d7178b634164904][^c-2f248022caae017e237eb400d263be4f]
 
 (1) A person gives a notification under section 14(1), (3) or (4) by—
 
@@ -435,7 +435,7 @@ must, before the end of the period of 3 days beginning with the date on which th
 
 (6) Photographs taken of any part of the offender under this section (and any copies of such photographs) must be destroyed no later than the date on which the person ceases to be subject to a stalking protection order or, as the case may be, ceases to be subject to an interim stalking protection order that is not replaced by a stalking protection order.
 
-### 16. Offences relating to notification[^key-c0939f4f6060326397ce098a86823dee][^key-5c2db0ce2903b10cdc209a58ccab5529]
+### 16. Offences relating to notification[^c-c0939f4f6060326397ce098a86823dee][^c-5c2db0ce2903b10cdc209a58ccab5529]
 
 (1) A person commits an offence if the person—
 
@@ -456,7 +456,7 @@ must, before the end of the period of 3 days beginning with the date on which th
 
 ## Operational matters
 
-### 17. Guidance[^key-d8481c9ee781766cf7a88920d928a499][^key-6bd4e6ee76c4d659f6a31d4d9554b346]
+### 17. Guidance[^c-d8481c9ee781766cf7a88920d928a499][^c-6bd4e6ee76c4d659f6a31d4d9554b346]
 
 (1) The Department must issue guidance about—
 
@@ -479,7 +479,7 @@ must, before the end of the period of 3 days beginning with the date on which th
 
 (7) Nothing in this section permits the Department to issue guidance to a court or tribunal.
 
-### 18. Guidance on data collection[^key-5fd4c7b9847c4ed078750815e436235b]
+### 18. Guidance on data collection[^c-5fd4c7b9847c4ed078750815e436235b]
 
 (1) The Department—
 
@@ -491,7 +491,7 @@ must, before the end of the period of 3 days beginning with the date on which th
 - (a) the Police Service of Northern Ireland, and
 - (b) the Public Prosecution Service for Northern Ireland.
 
-### 19. Training[^key-0fce3d632f39b43fd12e253621b4c3b4]
+### 19. Training[^c-0fce3d632f39b43fd12e253621b4c3b4]
 
 (1) It is mandatory for each listed authority, and each specified authority, to provide for those of its relevant personnel who have responsibilities for dealing with cases under this Act—
 
@@ -523,7 +523,7 @@ and a specified authority’s “relevant personnel” are persons of a descript
 
 (7) Regulations under subsection (6) are subject to negative resolution.
 
-### 20. Report on the operation of this Act[^key-7cbda90786a2eebd1254befd9fab15f3]
+### 20. Report on the operation of this Act[^c-7cbda90786a2eebd1254befd9fab15f3]
 
 (1) The Department must prepare a report for each reporting period giving the information in subsections (2) to (5) (so far as available to the Department).
 
@@ -604,7 +604,7 @@ and a specified authority’s “relevant personnel” are persons of a descript
 
 ## Interpretation, commencement and short title
 
-### 21. Interpretation[^key-aaed8fa9a58d15626520b1aed812b9ce]
+### 21. Interpretation[^c-aaed8fa9a58d15626520b1aed812b9ce]
 
 In this Act—
 
@@ -616,7 +616,7 @@ In this Act—
   - (b) a person who under the British Nationality Act 1981 is a British subject, or
   - (c) a British protected person within the meaning of that Act.
 
-### 22. Commencement[^key-de5f5b6086d4ffd717acb61a6af292bf]
+### 22. Commencement[^c-de5f5b6086d4ffd717acb61a6af292bf]
 
 (1) Sections 1 to 5, sections 18 to 21, this section and section 23 come into operation on the day after the day on which this Act receives Royal Assent.
 
@@ -624,78 +624,78 @@ In this Act—
 
 (3) The Department may by order make such transitional, transitory or saving provision as the Department considers appropriate in connection with the coming into operation of any provision of this Act.
 
-### 23. Short title[^key-fa80a75b5171db3dc9a727c0333eadba]
+### 23. Short title[^c-fa80a75b5171db3dc9a727c0333eadba]
 
 This Act may be cited as the Protection from Stalking Act (Northern Ireland) 2022.
 
 ## Annotations
 
-[^key-36e0f207a64f68280fb782e093ed0a2a]: Commencement: S. 1 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
+[^c-36e0f207a64f68280fb782e093ed0a2a]: Commencement: S. 1 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
 
-[^key-d01c659d687818f9ba6005df6405d673]: Commencement: S. 2 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
+[^c-d01c659d687818f9ba6005df6405d673]: Commencement: S. 2 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
 
-[^key-db98b2736b5b6597d38c45f33bfe194e]: Commencement: S. 3 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
+[^c-db98b2736b5b6597d38c45f33bfe194e]: Commencement: S. 3 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
 
-[^key-9d174c9d9e003bdf3796a735679ea1e6]: Commencement: S. 4 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
+[^c-9d174c9d9e003bdf3796a735679ea1e6]: Commencement: S. 4 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
 
-[^key-b251d114214494773ca6414a18b34196]: Commencement: S. 5 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
+[^c-b251d114214494773ca6414a18b34196]: Commencement: S. 5 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
 
-[^key-2975956ae1441e5d3dfc11c1101ac29f]: Commencement: S. 6 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
+[^c-2975956ae1441e5d3dfc11c1101ac29f]: Commencement: S. 6 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
 
-[^key-f11a423717e40a2a7ec1d5c006efbe4f]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2022/17/section/6) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
+[^c-f11a423717e40a2a7ec1d5c006efbe4f]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2022/17/section/6) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
 
-[^key-98281a4ebafd5922b76046c0c778b143]: Commencement: S. 7 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
+[^c-98281a4ebafd5922b76046c0c778b143]: Commencement: S. 7 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
 
-[^key-da5d2c04cd58f54d370b55276cadb714]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2022/17/section/7) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
+[^c-da5d2c04cd58f54d370b55276cadb714]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2022/17/section/7) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
 
-[^key-720f6a7e5d3f6c62bc81507b63f3691b]: Commencement: S. 8 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
+[^c-720f6a7e5d3f6c62bc81507b63f3691b]: Commencement: S. 8 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
 
-[^key-9ece54f48f64532a40e531d874d527b6]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2022/17/section/8) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
+[^c-9ece54f48f64532a40e531d874d527b6]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2022/17/section/8) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
 
-[^key-e46fac37b1ced69d7f60ccee84187e70]: Commencement: S. 9 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
+[^c-e46fac37b1ced69d7f60ccee84187e70]: Commencement: S. 9 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
 
-[^key-6979f161bc006a527f64c1e4427d808c]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2022/17/section/9) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
+[^c-6979f161bc006a527f64c1e4427d808c]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2022/17/section/9) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
 
-[^key-6daf0963ec477a351774536e9824363e]: Commencement: S. 10 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
+[^c-6daf0963ec477a351774536e9824363e]: Commencement: S. 10 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
 
-[^key-d0c5ea7480cae46448c522229eefb8d9]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2022/17/section/10) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
+[^c-d0c5ea7480cae46448c522229eefb8d9]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2022/17/section/10) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
 
-[^key-84d9d874adfa1334f7ca2923b7b6e29d]: Commencement: S. 11 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
+[^c-84d9d874adfa1334f7ca2923b7b6e29d]: Commencement: S. 11 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
 
-[^key-4596558c02c9c07564219f3f3f382400]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2022/17/section/11) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
+[^c-4596558c02c9c07564219f3f3f382400]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2022/17/section/11) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
 
-[^key-80a44c73ba17546d0972776844c5a67a]: Commencement: S. 12 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
+[^c-80a44c73ba17546d0972776844c5a67a]: Commencement: S. 12 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
 
-[^key-ffd01cf3b1aee5fd27f8fb412e955562]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2022/17/section/12) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
+[^c-ffd01cf3b1aee5fd27f8fb412e955562]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2022/17/section/12) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
 
-[^key-967085fb741b1fef9caa52ca7c44c678]: Commencement: S. 13 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
+[^c-967085fb741b1fef9caa52ca7c44c678]: Commencement: S. 13 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
 
-[^key-b087f0b11de848bfa721817dcb1c7206]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2022/17/section/13) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
+[^c-b087f0b11de848bfa721817dcb1c7206]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2022/17/section/13) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
 
-[^key-e4fb70c415e8a7ccc3f4a82b98862cd4]: Commencement: S. 14 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
+[^c-e4fb70c415e8a7ccc3f4a82b98862cd4]: Commencement: S. 14 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
 
-[^key-dd6815a84c47490b311eb4a87ef51fb2]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2022/17/section/14) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
+[^c-dd6815a84c47490b311eb4a87ef51fb2]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2022/17/section/14) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
 
-[^key-0086f2f51f61dcd08d7178b634164904]: Commencement: S. 15 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
+[^c-0086f2f51f61dcd08d7178b634164904]: Commencement: S. 15 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
 
-[^key-2f248022caae017e237eb400d263be4f]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2022/17/section/15) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
+[^c-2f248022caae017e237eb400d263be4f]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2022/17/section/15) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
 
-[^key-c0939f4f6060326397ce098a86823dee]: Commencement: S. 16 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
+[^c-c0939f4f6060326397ce098a86823dee]: Commencement: S. 16 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
 
-[^key-5c2db0ce2903b10cdc209a58ccab5529]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2022/17/section/16) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
+[^c-5c2db0ce2903b10cdc209a58ccab5529]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2022/17/section/16) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
 
-[^key-d8481c9ee781766cf7a88920d928a499]: Commencement: S. 17 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
+[^c-d8481c9ee781766cf7a88920d928a499]: Commencement: S. 17 not in operation at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/nia/2022/17/section/22/2)
 
-[^key-6bd4e6ee76c4d659f6a31d4d9554b346]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2022/17/section/17) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
+[^c-6bd4e6ee76c4d659f6a31d4d9554b346]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2022/17/section/17) in operation at 19.10.2023 by [S.R. 2023/174](https://www.legislation.gov.uk/nisr/2023/174), [art. 2](https://www.legislation.gov.uk/nisr/2023/174/article/2)
 
-[^key-5fd4c7b9847c4ed078750815e436235b]: Commencement: S. 18 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
+[^c-5fd4c7b9847c4ed078750815e436235b]: Commencement: S. 18 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
 
-[^key-0fce3d632f39b43fd12e253621b4c3b4]: Commencement: S. 19 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
+[^c-0fce3d632f39b43fd12e253621b4c3b4]: Commencement: S. 19 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
 
-[^key-7cbda90786a2eebd1254befd9fab15f3]: Commencement: S. 20 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
+[^c-7cbda90786a2eebd1254befd9fab15f3]: Commencement: S. 20 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
 
-[^key-aaed8fa9a58d15626520b1aed812b9ce]: Commencement: S. 21 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
+[^c-aaed8fa9a58d15626520b1aed812b9ce]: Commencement: S. 21 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
 
-[^key-de5f5b6086d4ffd717acb61a6af292bf]: Commencement: S. 22 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
+[^c-de5f5b6086d4ffd717acb61a6af292bf]: Commencement: S. 22 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
 
-[^key-fa80a75b5171db3dc9a727c0333eadba]: Commencement: S. 23 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
+[^c-fa80a75b5171db3dc9a727c0333eadba]: Commencement: S. 23 in operation at 27.4.2022, see [s. 22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)

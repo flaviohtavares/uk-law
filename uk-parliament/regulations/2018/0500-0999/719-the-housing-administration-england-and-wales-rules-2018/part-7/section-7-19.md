@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.19. Standard contents of notices of the results of decisions[^key-a1009d17454ba2b42560dd815a1b38db]
+## 7.19. Standard contents of notices of the results of decisions[^c-a1009d17454ba2b42560dd815a1b38db]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ A notice of the result of a decision procedure, deemed consent procedure or meet
 
 ## Annotations
 
-[^key-a1009d17454ba2b42560dd815a1b38db]: Commencement: Rule 7.19 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-a1009d17454ba2b42560dd815a1b38db]: Commencement: Rule 7.19 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

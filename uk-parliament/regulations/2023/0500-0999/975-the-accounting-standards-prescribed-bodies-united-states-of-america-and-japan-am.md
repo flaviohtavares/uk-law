@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 464(1) and (3) and 468 of the Companies Act 2006[^f00001] and by section 14A of the Interpretation Act 1978[^f00002], makes the following Regulations.
 
-## 1. Citation, commencement and extent[^key-4376a73807c95673349aa6b535d5e679]
+## 1. Citation, commencement and extent[^c-4376a73807c95673349aa6b535d5e679]
 
 (1) These Regulations may be cited as the Accounting Standards (Prescribed Bodies) (United States of America and Japan) (Amendment) Regulations 2023.
 
@@ -54,11 +54,11 @@ The Secretary of State, in exercise of the powers conferred by sections 464(1) a
 
 (3) These Regulations extend to the whole of the United Kingdom.
 
-## 2. Amendment to the Accounting Standards (Prescribed Bodies) (United States of America and Japan) Regulations 2015[^key-269bfa39c12418bce31eca163f5acad1]
+## 2. Amendment to the Accounting Standards (Prescribed Bodies) (United States of America and Japan) Regulations 2015[^c-269bfa39c12418bce31eca163f5acad1]
 
 The Accounting Standards (Prescribed Bodies) (United States of America and Japan) Regulations 2015[^f00003] are amended in accordance with regulations 3 to 6.
 
-## 3. Amendment to regulation 1[^key-004917063cf6040951c28bb9b163d250]
+## 3. Amendment to regulation 1[^c-004917063cf6040951c28bb9b163d250]
 
 (1) Regulation 1 (citation, commencement and expiry) is amended as follows.
 
@@ -70,11 +70,11 @@ The Accounting Standards (Prescribed Bodies) (United States of America and Japan
 
 (3) Omit paragraph 3.
 
-## 4. New regulation 5A[^key-a1a39536acf491763c9bd953fcd81298]
+## 4. New regulation 5A[^c-a1a39536acf491763c9bd953fcd81298]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Substitution of regulation 8[^key-632e1490ef4b6e1f37d244b32c0c3ecb]
+## 5. Substitution of regulation 8[^c-632e1490ef4b6e1f37d244b32c0c3ecb]
 
 For regulation 8 (review) substitute—
 
@@ -96,7 +96,7 @@ For regulation 8 (review) substitute—
 
 .
 
-**6.**[^key-60c19b4057905a12455ff0288945b7f5] Omit regulation 9 (review).
+**6.**[^c-60c19b4057905a12455ff0288945b7f5] Omit regulation 9 (review).
 
 Kevin Hollinrake
 
@@ -134,16 +134,16 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30); section 14A was inserted by section 59(1) and (2) of the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24).
 
-[^key-4376a73807c95673349aa6b535d5e679]: Commencement: Reg. 1 in force at 29.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/975/regulation/1/2)
+[^c-4376a73807c95673349aa6b535d5e679]: Commencement: Reg. 1 in force at 29.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/975/regulation/1/2)
 
-[^key-269bfa39c12418bce31eca163f5acad1]: Commencement: Reg. 2 in force at 29.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/975/regulation/1/2)
+[^c-269bfa39c12418bce31eca163f5acad1]: Commencement: Reg. 2 in force at 29.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/975/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2015/1675](https://www.legislation.gov.uk/uksi/2015/1675), amended by [S.I. 2022/943](https://www.legislation.gov.uk/uksi/2022/943).
 
-[^key-004917063cf6040951c28bb9b163d250]: Commencement: Reg. 3 in force at 29.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/975/regulation/1/2)
+[^c-004917063cf6040951c28bb9b163d250]: Commencement: Reg. 3 in force at 29.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/975/regulation/1/2)
 
-[^key-a1a39536acf491763c9bd953fcd81298]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/975/regulation/4) omitted (8.5.2024) by virtue of [The Accounting Standards (Prescribed Bodies) (United States of America and Japan) (Amendment) Regulations 2024 (S.I. 2024/623)](https://www.legislation.gov.uk/uksi/2024/623), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/623/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2024/623/regulation/3)
+[^c-a1a39536acf491763c9bd953fcd81298]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/975/regulation/4) omitted (8.5.2024) by virtue of [The Accounting Standards (Prescribed Bodies) (United States of America and Japan) (Amendment) Regulations 2024 (S.I. 2024/623)](https://www.legislation.gov.uk/uksi/2024/623), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/623/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2024/623/regulation/3)
 
-[^key-632e1490ef4b6e1f37d244b32c0c3ecb]: Commencement: Reg. 5 in force at 29.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/975/regulation/1/2)
+[^c-632e1490ef4b6e1f37d244b32c0c3ecb]: Commencement: Reg. 5 in force at 29.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/975/regulation/1/2)
 
-[^key-60c19b4057905a12455ff0288945b7f5]: Commencement: Reg. 6 in force at 29.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/975/regulation/1/2)
+[^c-60c19b4057905a12455ff0288945b7f5]: Commencement: Reg. 6 in force at 29.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/975/regulation/1/2)

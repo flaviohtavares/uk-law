@@ -31,8 +31,8 @@ In this Part—
   - (b) an Act of the Scottish Parliament,
   - (c) a Measure or Act of the National Assembly for Wales, or
   - (d) Northern Ireland legislation;
-- [^key-afc26e26322d449b30580d23bf00a726]...
+- [^c-afc26e26322d449b30580d23bf00a726]...
 
 ## Annotations
 
-[^key-afc26e26322d449b30580d23bf00a726]: Textual amendment: Words in [s. 128](https://www.legislation.gov.uk/ukpga/2008/14/section/128) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 75(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/75/2); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-afc26e26322d449b30580d23bf00a726]: Textual amendment: Words in [s. 128](https://www.legislation.gov.uk/ukpga/2008/14/section/128) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 75(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/75/2); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)

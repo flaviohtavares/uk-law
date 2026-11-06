@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9C. Chargeable gains and losses of companies[^key-5b31aebf8784df39be4dde0a755737e3]
+## 9C. Chargeable gains and losses of companies[^c-5b31aebf8784df39be4dde0a755737e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ for the purposes of this section that allowable expenditure is treated as incurr
 
 ## Annotations
 
-[^key-5b31aebf8784df39be4dde0a755737e3]: Textual amendment: [S. 9C](https://www.legislation.gov.uk/ukpga/2010/4/section/9C) inserted (1.9.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 66(3)](https://www.legislation.gov.uk/ukpga/2013/29/section/66/3)[(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/66/4); [S.I. 2013/1815](https://www.legislation.gov.uk/uksi/2013/1815), [art. 2](https://www.legislation.gov.uk/uksi/2013/1815/article/2)
+[^c-5b31aebf8784df39be4dde0a755737e3]: Textual amendment: [S. 9C](https://www.legislation.gov.uk/ukpga/2010/4/section/9C) inserted (1.9.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 66(3)](https://www.legislation.gov.uk/ukpga/2013/29/section/66/3)[(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/66/4); [S.I. 2013/1815](https://www.legislation.gov.uk/uksi/2013/1815), [art. 2](https://www.legislation.gov.uk/uksi/2013/1815/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Police volunteers: police barred list and police advisory list[^c22718771][^key-d69a01e4a7afd26f129b613cba6d1fd1]
+## 42. Police volunteers: police barred list and police advisory list[^c22718771][^c-d69a01e4a7afd26f129b613cba6d1fd1]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 [^c22718771]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2017/3/section/42) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-d69a01e4a7afd26f129b613cba6d1fd1]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2017/3/section/42) in force at 15.12.2017 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/h) (as amended by S.I 2017/1162, reg. 2)
+[^c-d69a01e4a7afd26f129b613cba6d1fd1]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2017/3/section/42) in force at 15.12.2017 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/h) (as amended by S.I 2017/1162, reg. 2)

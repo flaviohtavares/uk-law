@@ -25,7 +25,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-5f7d5a13a669699b1a16bbdc52a9d399]Commission Regulation (EC) No 1662/95
+[^c-5f7d5a13a669699b1a16bbdc52a9d399]Commission Regulation (EC) No 1662/95
 
 of 7 July 1995
 
@@ -83,7 +83,7 @@ Martin Bangemann
 
 ## Annotations
 
-[^key-5f7d5a13a669699b1a16bbdc52a9d399]: Textual amendment: Regulation revoked in part (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(c)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/c) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5f7d5a13a669699b1a16bbdc52a9d399]: Textual amendment: Regulation revoked in part (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(c)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/c) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00001]: Footnote: [OJ No L 214, 24. 8. 1993, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1993.214.01.0001.01.ENG).
 

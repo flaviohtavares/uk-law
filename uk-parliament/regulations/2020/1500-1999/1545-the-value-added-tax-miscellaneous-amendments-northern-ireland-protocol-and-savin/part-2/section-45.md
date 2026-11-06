@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Part 5 (accounting payment and records)[^key-942ac06c0a19198c48fc2eb6f79925b7]
+## 45. Part 5 (accounting payment and records)[^c-942ac06c0a19198c48fc2eb6f79925b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In regulation 25 [^c24395141] (making of returns)—-
 
 ## Annotations
 
-[^key-942ac06c0a19198c48fc2eb6f79925b7]: Commencement: Reg. 45 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-942ac06c0a19198c48fc2eb6f79925b7]: Commencement: Reg. 45 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395141]: Marginal citation: Relevantly amended by [S.I. 2000/794](https://www.legislation.gov.uk/uksi/2000/794), 2012/1899 and 2019/59. The amendment made by the last-named instrument is not yet in force and is omitted by this instrument.

@@ -41,9 +41,9 @@ Section 63.
 
 (3) Sub-paragraphs (1) and (2) above apply in relation to transactions on or after the day of The Stock Exchange reforms.
 
-(4)[^key-2ecbaeb556b924817b9626f82e752be8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2ecbaeb556b924817b9626f82e752be8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-2ecbaeb556b924817b9626f82e752be8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-2ecbaeb556b924817b9626f82e752be8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Miscellaneous
 
@@ -63,6 +63,6 @@ Section 63.
 
 [^c13534901]: Textual amendment: [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/1986/41/schedule/18/paragraph/7) repealed (19.3.1997 with effect as mentioned in Sch. 10 para. 16, Sch. 18 Pt. VI(10) Note 1 of the amending Act) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [ss. 76](https://www.legislation.gov.uk/ukpga/1997/16/section/76), [113](https://www.legislation.gov.uk/ukpga/1997/16/section/113), [Sch. 10 Pt. II para. 15](https://www.legislation.gov.uk/ukpga/1997/16/schedule/10/part/II/paragraph/15), [Sch. 18 Pt. VI(10)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/18/part/VI/10); [S.I. 1997/991](https://www.legislation.gov.uk/uksi/1997/991), [art. 2](https://www.legislation.gov.uk/uksi/1997/991/article/2)
 
-[^key-2ecbaeb556b924817b9626f82e752be8]: Textual amendment: Sch. 18 para. 8(4)(5) omitted (with effect in accordance with Sch. 23 para. 65 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 23 paras. 54](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/54)[, 65(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/a) (with [Sch. 23 paras. 50](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/50)[, 65(1)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/b))
+[^c-2ecbaeb556b924817b9626f82e752be8]: Textual amendment: Sch. 18 para. 8(4)(5) omitted (with effect in accordance with Sch. 23 para. 65 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 23 paras. 54](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/54)[, 65(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/a) (with [Sch. 23 paras. 50](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/50)[, 65(1)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/b))
 
 [^c13535001]: Textual amendment: [Sch. 18 para. 9](https://www.legislation.gov.uk/ukpga/1986/41/schedule/18/paragraph/9) repealed (19.3.1997 with effect as mentioned in Sch. 10 para. 16, Sch. 18 Pt. VI(10) Note 1 of the amending Act) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [ss. 76](https://www.legislation.gov.uk/ukpga/1997/16/section/76), [113](https://www.legislation.gov.uk/ukpga/1997/16/section/113), [Sch. 10 Pt. II para. 15](https://www.legislation.gov.uk/ukpga/1997/16/schedule/10/part/II/paragraph/15), [Sch. 18 Pt. VI(10)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/18/part/VI/10); [S.I. 1997/991](https://www.legislation.gov.uk/uksi/1997/991), [art. 2](https://www.legislation.gov.uk/uksi/1997/991/article/2)

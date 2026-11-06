@@ -73,7 +73,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - (a) a blind person in charge of a dog being used for that person’s guidance;
 - (b) a person in charge of a working dog being used for the driving or tending of sheep or cattle;
-- (c) a person in charge of any dog being used on official duties by a member of Her Majesty’s Armed Forces or[^key-ef5890f1745ba06b7cc2ed0708fe6132], Her Majesty’s Customs and Excise or by a constable of the Police Service of Scotland[^key-6bd2b046efddac45dd25fbb0c15bd8d1];
+- (c) a person in charge of any dog being used on official duties by a member of Her Majesty’s Armed Forces or[^c-ef5890f1745ba06b7cc2ed0708fe6132], Her Majesty’s Customs and Excise or by a constable of the Police Service of Scotland[^c-6bd2b046efddac45dd25fbb0c15bd8d1];
 - (d) a person in charge of a dog being used in emergency rescue work; or
 - (e) a disabled person with a physical impairment which affects the person’s mobility, manual dexterity, physical co-ordination or ability to lift, carry or otherwise move everyday objects, who is in charge of a dog trained to assist the person with any such impairment.
 
@@ -158,7 +158,7 @@ Where a fixed penalty notice has been issued to the person named in the notice i
 
 (2) Subject to section 10, the fixed penalty shall be an amount equal to 20 per cent of level 1 on the standard scale or such other percentage as the Scottish Ministers may by order prescribe.
 
-(3) Any fixed penalty received by a local authority shall accrue to that authority[^key-8bdbf6b5ff29ede88e33176ba51a2b8a].
+(3) Any fixed penalty received by a local authority shall accrue to that authority[^c-8bdbf6b5ff29ede88e33176ba51a2b8a].
 
 ## 10. Increase in fixed penalty
 
@@ -226,7 +226,7 @@ if the authorised officer, person or, as the case may be, constable determines t
 
 - “**agricultural land**” has the meaning given in section 2(3);
 - “**authorised officer**” in relation to a local authority means any person who is authorised in writing by the authority under section 4 for the purpose of issuing fixed penalty notices;
-- “**disabled person**” has the meaning given by section 6 of the Equality Act 2010[^key-2973916d42b57b9c13b74316d0f45b40];
+- “**disabled person**” has the meaning given by section 6 of the Equality Act 2010[^c-2973916d42b57b9c13b74316d0f45b40];
 - “**fixed penalty notice**” means a notice issued to a person under section 5(1);
 - “**local authority**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39);
 - “**owner**” does not include a creditor in a heritable security who is not in possession of the security subjects;
@@ -248,10 +248,10 @@ Section 48 of the Civic Government (Scotland) Act 1982 (c. 45) (dogs: fouling of
 
 ## Annotations
 
-[^key-ef5890f1745ba06b7cc2ed0708fe6132]: Textual amendment: Words in s. 3(1)(c) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 22(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/22/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-ef5890f1745ba06b7cc2ed0708fe6132]: Textual amendment: Words in s. 3(1)(c) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 22(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/22/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-6bd2b046efddac45dd25fbb0c15bd8d1]: Textual amendment: Words in s. 3(1)(c) substituted (1.4.2013) by virtue of [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 22(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/22/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-6bd2b046efddac45dd25fbb0c15bd8d1]: Textual amendment: Words in s. 3(1)(c) substituted (1.4.2013) by virtue of [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 22(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/22/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-8bdbf6b5ff29ede88e33176ba51a2b8a]: Textual amendment: Words in [s. 9(3)](https://www.legislation.gov.uk/asp/2003/12/section/9/3) substituted (10.3.2008) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [s. 84(1)](https://www.legislation.gov.uk/asp/2007/6/section/84/1), [Sch. para. 31](https://www.legislation.gov.uk/asp/2007/6/schedule/paragraph/31); [S.S.I. 2008/42](https://www.legislation.gov.uk/ssi/2008/42), [art. 3](https://www.legislation.gov.uk/ssi/2008/42/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2008/42/schedule)
+[^c-8bdbf6b5ff29ede88e33176ba51a2b8a]: Textual amendment: Words in [s. 9(3)](https://www.legislation.gov.uk/asp/2003/12/section/9/3) substituted (10.3.2008) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [s. 84(1)](https://www.legislation.gov.uk/asp/2007/6/section/84/1), [Sch. para. 31](https://www.legislation.gov.uk/asp/2007/6/schedule/paragraph/31); [S.S.I. 2008/42](https://www.legislation.gov.uk/ssi/2008/42), [art. 3](https://www.legislation.gov.uk/ssi/2008/42/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2008/42/schedule)
 
-[^key-2973916d42b57b9c13b74316d0f45b40]: Textual amendment: Words in s. 16 substituted (1.10.2010) by 2010 c. 15 Sch. 26 Pt. 2 para. 105 (as inserted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6)) (see S.I. 2010/2317, art. 2)
+[^c-2973916d42b57b9c13b74316d0f45b40]: Textual amendment: Words in s. 16 substituted (1.10.2010) by 2010 c. 15 Sch. 26 Pt. 2 para. 105 (as inserted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6)) (see S.I. 2010/2317, art. 2)

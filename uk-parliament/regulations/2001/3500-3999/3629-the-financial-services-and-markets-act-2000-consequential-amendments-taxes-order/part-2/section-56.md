@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Computation of profits of life assurance companies[^key-bff61c7e0d542b490f72eb49fee1f7eb]
+## 56. Computation of profits of life assurance companies[^c-bff61c7e0d542b490f72eb49fee1f7eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bff61c7e0d542b490f72eb49fee1f7eb]: Commencement: Art. 56 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-bff61c7e0d542b490f72eb49fee1f7eb]: Commencement: Art. 56 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00078]: Footnote: Sections 83 and 83A were substituted for section 83 by paragraph 16(1) of Schedule 8 to the Finance Act 1995 and subsections (3) to (8) of section 83 were substituted for subsection (3) of that section by paragraph 4 of Schedule 31 to the Finance Act 1996.

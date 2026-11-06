@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Amendments to constitution of CIOs[^key-4bdee96b92fd9f49b60e3c5b0d3be581][^key-ef0bdac7729fbc952edffe2e934d8885]
+## 2. Amendments to constitution of CIOs[^c-4bdee96b92fd9f49b60e3c5b0d3be581][^c-ef0bdac7729fbc952edffe2e934d8885]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4bdee96b92fd9f49b60e3c5b0d3be581]: Commencement: S. 2 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-4bdee96b92fd9f49b60e3c5b0d3be581]: Commencement: S. 2 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-ef0bdac7729fbc952edffe2e934d8885]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/6/section/2) in force at 7.3.2024 by [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/2) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/265/regulation/7))
+[^c-ef0bdac7729fbc952edffe2e934d8885]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/6/section/2) in force at 7.3.2024 by [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/2) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/265/regulation/7))

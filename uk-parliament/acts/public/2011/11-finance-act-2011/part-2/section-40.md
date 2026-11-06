@@ -72,7 +72,7 @@ summary: ''
 
 (6) In section 151 of TCGA 1992 (personal equity plans), in subsection (2)—
 
-- (a)[^key-2a549a513a44720d15761f4480fcbf44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-2a549a513a44720d15761f4480fcbf44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for the words from “but with” to the end substitute
 
   > but with the following modifications—
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a549a513a44720d15761f4480fcbf44]: Textual amendment: [S. 40(6)(a)](https://www.legislation.gov.uk/ukpga/2011/11/section/40/6/a) omitted (15.9.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 27(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/27/4)
+[^c-2a549a513a44720d15761f4480fcbf44]: Textual amendment: [S. 40(6)(a)](https://www.legislation.gov.uk/ukpga/2011/11/section/40/6/a) omitted (15.9.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 27(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/27/4)

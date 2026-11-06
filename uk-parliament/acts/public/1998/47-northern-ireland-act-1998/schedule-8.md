@@ -148,7 +148,7 @@ Section 73(5).
 
 ### The Northern Ireland Commissioner for Complaints
 
-**11.**[^key-6d5bf7281f0b402f1b18d7f1cc042363] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-6d5bf7281f0b402f1b18d7f1cc042363] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Status
 
@@ -176,4 +176,4 @@ Section 73(5).
 
 [^c12400831]: Marginal citation: [1975 c.25](https://www.legislation.gov.uk/ukpga/1975/25).
 
-[^key-6d5bf7281f0b402f1b18d7f1cc042363]: Textual amendment: Sch. 8 para. 11 repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
+[^c-6d5bf7281f0b402f1b18d7f1cc042363]: Textual amendment: Sch. 8 para. 11 repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)

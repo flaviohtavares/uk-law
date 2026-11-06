@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Voluntary arrangements of members of insolvent partnership[^key-d2da922fc0319bb20f443855b187d6d0]
+## 5. Voluntary arrangements of members of insolvent partnership[^c-d2da922fc0319bb20f443855b187d6d0]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2da922fc0319bb20f443855b187d6d0]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/1994/2421/article/5) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-d2da922fc0319bb20f443855b187d6d0]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/1994/2421/article/5) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)

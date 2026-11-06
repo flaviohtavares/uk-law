@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 279. Notifications of more than one nature[^key-809ace6ef45f44ede30727bca60b6b69]
+## 279. Notifications of more than one nature[^c-809ace6ef45f44ede30727bca60b6b69]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A notification which includes two or more of the types of notification set out i
 
 ## Annotations
 
-[^key-809ace6ef45f44ede30727bca60b6b69]: Commencement: Rule 279 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-809ace6ef45f44ede30727bca60b6b69]: Commencement: Rule 279 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

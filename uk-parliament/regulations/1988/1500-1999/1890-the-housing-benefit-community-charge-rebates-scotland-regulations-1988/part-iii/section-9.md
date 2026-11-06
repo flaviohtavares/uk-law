@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Patients[^key-5ba2e8db1537b2c19f1899ea550be2fc]
+## 9. Patients[^c-5ba2e8db1537b2c19f1899ea550be2fc]
 
 *Extent: E+W+S*
 
 (1) Subject to regulation 56 (calculation of weekly amounts), where a person has been a patient for a period of more than 6 weeks–
 
-- (a) in the case of a single claimant, his applicable amount shall be £8.70[^key-67c8806f630ac94a9a0237fbc2fdf9e0];
+- (a) in the case of a single claimant, his applicable amount shall be £8.70[^c-67c8806f630ac94a9a0237fbc2fdf9e0];
 - (b) in the case of a lone parent, his applicable amount shall be £8.70 plus any amount applicable to him under regulation 7(b) or (c) or (d) (applicable amounts) by virtue of his satisfying the condition specified in paragraph 8 or 14 of Schedule 1;
 - (c) in the case of a married or unmarried couple–
   - (i) where the other member is not a patient, or has not been a patient for more than six weeks, his or, if he is not the claimant, the claimant’s applicable amount shall be the amount applicable under regulation 7 (applicable amounts) reduced by £8.70,
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5ba2e8db1537b2c19f1899ea550be2fc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1988/1890/regulation/9) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-5ba2e8db1537b2c19f1899ea550be2fc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1988/1890/regulation/9) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
-[^key-67c8806f630ac94a9a0237fbc2fdf9e0]: Textual amendment: Sums in [Reg. 9(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/9/1) substituted (1.4.1989) by [The Social Security Benefits Up-rating Order 1989 (S.I. 1989/43)](https://www.legislation.gov.uk/uksi/1989/43), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1989/43/article/1/2), [19(3)](https://www.legislation.gov.uk/uksi/1989/43/article/19/3) (with [art. 20](https://www.legislation.gov.uk/uksi/1989/43/article/20))
+[^c-67c8806f630ac94a9a0237fbc2fdf9e0]: Textual amendment: Sums in [Reg. 9(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/9/1) substituted (1.4.1989) by [The Social Security Benefits Up-rating Order 1989 (S.I. 1989/43)](https://www.legislation.gov.uk/uksi/1989/43), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1989/43/article/1/2), [19(3)](https://www.legislation.gov.uk/uksi/1989/43/article/19/3) (with [art. 20](https://www.legislation.gov.uk/uksi/1989/43/article/20))
 
 [^f00039]: Footnote: S.I. [1975/555](https://www.legislation.gov.uk/uksi/1975/555); the relevant amending instruments are S.I. [1977/1693](https://www.legislation.gov.uk/uksi/1977/1693) and [1987/1683](https://www.legislation.gov.uk/uksi/1987/1683).

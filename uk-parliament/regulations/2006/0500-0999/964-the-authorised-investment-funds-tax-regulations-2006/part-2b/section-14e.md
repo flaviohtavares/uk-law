@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14E. Tax treatment of diversely owned AIFs[^key-8d979ec81511d10ef646d41c77bb88d0]
+## 14E. Tax treatment of diversely owned AIFs[^c-8d979ec81511d10ef646d41c77bb88d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) Chapter 2 of Part 3 of CTA 2009 (income taxed as trade profits) does not apply to capital profits and losses arising from such an investment transaction.
 
-(5) For the purposes of these Regulations “investment transaction” means a transaction specified in regulation 2 of the Investment Transactions (Tax) Regulations 2014[^key-ca93cc4e7cc85be1ed13ca24c99f08dc].
+(5) For the purposes of these Regulations “investment transaction” means a transaction specified in regulation 2 of the Investment Transactions (Tax) Regulations 2014[^c-ca93cc4e7cc85be1ed13ca24c99f08dc].
 
 (6) For the purposes of paragraphs (3) and (4) capital profits, gains or losses arising from an investment transaction in an accounting period are such profits, gains or losses as fall to be dealt with under the heading “net capital gains/losses” in the statement of total return for an accounting period.
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8d979ec81511d10ef646d41c77bb88d0]: Textual amendment: Pt. 2B inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [10](https://www.legislation.gov.uk/uksi/2009/2036/regulation/10)
+[^c-8d979ec81511d10ef646d41c77bb88d0]: Textual amendment: Pt. 2B inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [10](https://www.legislation.gov.uk/uksi/2009/2036/regulation/10)
 
-[^key-ca93cc4e7cc85be1ed13ca24c99f08dc]: Textual amendment: Words in reg. 14E(5) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Transactions (Tax) Regulations 2014 (S.I. 2014/685)](https://www.legislation.gov.uk/uksi/2014/685), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/685/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2014/685/regulation/7/2)
+[^c-ca93cc4e7cc85be1ed13ca24c99f08dc]: Textual amendment: Words in reg. 14E(5) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Transactions (Tax) Regulations 2014 (S.I. 2014/685)](https://www.legislation.gov.uk/uksi/2014/685), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/685/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2014/685/regulation/7/2)

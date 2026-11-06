@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.32. Order for disclosure[^key-b1d2dad865a87fe08b99a416424a686f]
+## 3.32. Order for disclosure[^c-b1d2dad865a87fe08b99a416424a686f]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1d2dad865a87fe08b99a416424a686f]: Commencement: Rule 3.32 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-b1d2dad865a87fe08b99a416424a686f]: Commencement: Rule 3.32 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

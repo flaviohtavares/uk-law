@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Minor and consequential amendments relating to Part 4[^c1868543][^key-e7dc90e1d2bb77d186dcc178b2d747ee]
+## 63. Minor and consequential amendments relating to Part 4[^c1868543][^c-e7dc90e1d2bb77d186dcc178b2d747ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 7 (which makes miscellaneous minor amendments and amendments consequent
 
 [^c1868543]: Commencement: S. 63 partly in force; s. 63 in force at 3.7.2007 for specified purposes see s. 70
 
-[^key-e7dc90e1d2bb77d186dcc178b2d747ee]: Commencement: S. 63 in force at 1.10.2007 for specified purposes by [S.I. 2007/2819](https://www.legislation.gov.uk/uksi/2007/2819), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2007/2819/article/2/1/c)
+[^c-e7dc90e1d2bb77d186dcc178b2d747ee]: Commencement: S. 63 in force at 1.10.2007 for specified purposes by [S.I. 2007/2819](https://www.legislation.gov.uk/uksi/2007/2819), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2007/2819/article/2/1/c)

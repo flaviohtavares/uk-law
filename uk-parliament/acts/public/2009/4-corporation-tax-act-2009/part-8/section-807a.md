@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 807A. Assets representing expenditure on separate creative production trade[^key-12d62ad3b54ac970b595cec194320cc2]
+## 807A. Assets representing expenditure on separate creative production trade[^c-12d62ad3b54ac970b595cec194320cc2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Part does not apply to an intangible fixed asset held by a company treated 
 
 ## Annotations
 
-[^key-12d62ad3b54ac970b595cec194320cc2]: Textual amendment: S. 807A substituted for ss. 808-808E (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/5/2) (with [Sch. 2 paras. 16(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/16/1), [17-25](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/17))
+[^c-12d62ad3b54ac970b595cec194320cc2]: Textual amendment: S. 807A substituted for ss. 808-808E (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/5/2) (with [Sch. 2 paras. 16(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/16/1), [17-25](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/17))

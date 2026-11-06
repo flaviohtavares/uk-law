@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Revocation of article 148 direction when validity of certificate of airworthiness affected[^key-7f56c5e562608a79fa5ef0b774aedf61]
+## 150. Revocation of article 148 direction when validity of certificate of airworthiness affected[^c-7f56c5e562608a79fa5ef0b774aedf61]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ an authorised person must not revoke a direction issued pursuant to article 148 
 
 ## Annotations
 
-[^key-7f56c5e562608a79fa5ef0b774aedf61]: Commencement: [Art. 150](https://www.legislation.gov.uk/uksi/2015/870/article/150) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-7f56c5e562608a79fa5ef0b774aedf61]: Commencement: [Art. 150](https://www.legislation.gov.uk/uksi/2015/870/article/150) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Investigation reports[^key-495c3111ad425c227942f536624068f6]
+## 74. Investigation reports[^c-495c3111ad425c227942f536624068f6]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-495c3111ad425c227942f536624068f6]: Commencement: [S. 74](https://www.legislation.gov.uk/mwa/2011/1/section/74) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-495c3111ad425c227942f536624068f6]: Commencement: [S. 74](https://www.legislation.gov.uk/mwa/2011/1/section/74) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

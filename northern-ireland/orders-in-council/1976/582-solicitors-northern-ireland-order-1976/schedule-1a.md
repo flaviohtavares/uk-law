@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1A — INCORPORATED PRACTICES: SUPPLEMENTARY PROVISIONS[^key-052a6010f45dcfe19c4901ac853b1958][^c17115551]
+## SCHEDULE 1A — INCORPORATED PRACTICES: SUPPLEMENTARY PROVISIONS[^c-052a6010f45dcfe19c4901ac853b1958][^c17115551]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ Article 26A(7).
 
 **1.** (1) Subject to sub‐paragraph (2), references in this Schedule to a recognised body are references to a body corporate for the time being recognised under Article 26A.
 
-(2) References in this Schedule to a recognised body in relation to a complaint (other than such a complaint as is mentioned in paragraph 19(1)(a)) include references to[^key-5dc8927b12289205e123d1a06377f951] a body corporate that was recognised under Article 26A at the time when the conduct to which the complaint [^key-c31acf35caf7e8b4fed61c0a8d5c7718]... relates took place.
+(2) References in this Schedule to a recognised body in relation to a complaint (other than such a complaint as is mentioned in paragraph 19(1)(a)) include references to[^c-5dc8927b12289205e123d1a06377f951] a body corporate that was recognised under Article 26A at the time when the conduct to which the complaint [^c-c31acf35caf7e8b4fed61c0a8d5c7718]... relates took place.
 
 (3) References in this Schedule to an officer of a recognised body include references to a director, manager or secretary of that body and references in this Schedule to a director, in relation to a limited liability partnership, are references to a member of the limited liability partnership[^c17116071] .
 
@@ -184,7 +184,7 @@ and if it fails so to satisfy the Council, the provisions of Schedule 1 shall ap
 
 **14.** Where—
 
-- (a) a complaint is made to the Council that there has been undue delay on the part of a recognised body in connection with any matter in which it has been instructed on behalf of a client or any matter which relates to the administration of a controlled trust or in complying with an order of the Tribunal under paragraph 21(2)(c), (d) or (e) or (3) [^key-b2b0c76f658f8312a250803e20c17e51]...; and
+- (a) a complaint is made to the Council that there has been undue delay on the part of a recognised body in connection with any matter in which it has been instructed on behalf of a client or any matter which relates to the administration of a controlled trust or in complying with an order of the Tribunal under paragraph 21(2)(c), (d) or (e) or (3) [^c-b2b0c76f658f8312a250803e20c17e51]...; and
 - (b) the Council have by notice invited the body to give an explanation in respect of the matter; and
 - (c) the body has, within a period of not less than fourteen days specified in the said notice or such longer period as the Council may determine failed to give an explanation in respect of that matter which the Council regard as sufficient and satisfactory; and
 - (d) the body has been notified in writing by the Society that it has so failed,
@@ -199,7 +199,7 @@ the provisions of Schedule 1 shall apply in relation to the recognised body and 
 
 ### Examination of files
 
-**17.** (1) Where the Council are satisfied that it is necessary to do so for the purpose of investigating any such complaint as is mentioned in head (b), (c) or (d) of paragraph 19(1)[^key-06bc0958d036e447dd9ca3108b58e558], the Society may give notice to the recognised body to which the complaint relates requiring the production or delivery to any person appointed by the Society, at a time and a place to be fixed by the Society, of all documents in the body's possession in connection with the matters to which the complaint relates (whether or not they relate also to other matters).
+**17.** (1) Where the Council are satisfied that it is necessary to do so for the purpose of investigating any such complaint as is mentioned in head (b), (c) or (d) of paragraph 19(1)[^c-06bc0958d036e447dd9ca3108b58e558], the Society may give notice to the recognised body to which the complaint relates requiring the production or delivery to any person appointed by the Society, at a time and a place to be fixed by the Society, of all documents in the body's possession in connection with the matters to which the complaint relates (whether or not they relate also to other matters).
 
 (2) Paragraphs 2(2) to 8 and 17 to 21 of Schedule 1 shall apply in relation to the powers conferred by sub‐paragraph (1) as they apply in relation to the powers conferred by sub-paragraph (1) of paragraph 2 of that Schedule, and accordingly in those provisions—
 
@@ -207,9 +207,9 @@ the provisions of Schedule 1 shall apply in relation to the recognised body and 
 - (b) any reference to a person appointed, or to a requirement, under paragraph 2(1) of that Schedule shall be construed as including a reference to a person appointed, or to a requirement, under sub‐paragraph (1); and
 - (c) any reference to any such documents as are mentioned in paragraph 2(1) of that Schedule shall be construed as including a reference to any such documents as are mentioned in sub‐paragraph (1).
 
-### ...[^key-6cb8c313abf51b4c71b9bd0c1193fc17]
+### ...[^c-6cb8c313abf51b4c71b9bd0c1193fc17]
 
-**18.**[^key-6cb8c313abf51b4c71b9bd0c1193fc17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-6cb8c313abf51b4c71b9bd0c1193fc17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Complaints to Tribunal with respect to recognised bodies
 
@@ -233,7 +233,7 @@ the provisions of Schedule 1 shall apply in relation to the recognised body and 
 - (a) has been convicted as mentioned in head (a) of paragraph 19(1); or
 - (b) has failed to comply with Article 35 or with any such regulations as are mentioned in head (b) of paragraph 19(1); or
 - (c) has acted as mentioned in head (c) or (d) of that provision; or
-- (d) has failed to comply with any direction given to it under section 38 of the Legal Complaints and Regulation Act (Northern Ireland) 2016[^key-5d724ea13305f8f043def0ed6ffa98ac],
+- (d) has failed to comply with any direction given to it under section 38 of the Legal Complaints and Regulation Act (Northern Ireland) 2016[^c-5d724ea13305f8f043def0ed6ffa98ac],
 
 the Tribunal may, if they think fit, make one or more of the orders referred to in sub‐paragraph (2).
 
@@ -245,7 +245,7 @@ the Tribunal may, if they think fit, make one or more of the orders referred to 
 - (d) the payment by any party to the inquiry of a sum to be measured by the Tribunal for the costs incurred by the Tribunal, or of a stated sum as a contribution towards such costs;
 - (e) the making by any party of such restitution or satisfaction to any aggrieved party as the Tribunal thinks fit.
 
-(3) On an inquiry into a complaint under section 38(9) of the Legal Complaints and Regulation Act (Northern Ireland) 2016 relating to a direction given under that section[^key-a104893abbeac6b129abe4372d581e19], the Tribunal may, without prejudice to their powers under sub-paragraphs (1) and (2) [^key-3059aa189796b78f2062bcb2e93ede80]..., make an order providing for the direction to be treated for the purposes of this Order as if it were an order of the Tribunal.
+(3) On an inquiry into a complaint under section 38(9) of the Legal Complaints and Regulation Act (Northern Ireland) 2016 relating to a direction given under that section[^c-a104893abbeac6b129abe4372d581e19], the Tribunal may, without prejudice to their powers under sub-paragraphs (1) and (2) [^c-3059aa189796b78f2062bcb2e93ede80]..., make an order providing for the direction to be treated for the purposes of this Order as if it were an order of the Tribunal.
 
 (4) In Article 51—
 
@@ -253,15 +253,15 @@ the Tribunal may, if they think fit, make one or more of the orders referred to 
 - (b) paragraphs (6) to (9) shall apply to an order under this paragraph as they apply to an order under that Article, but in paragraph (8) the reference to the solicitor shall be construed as a reference to the recognised body;
 - (c) paragraphs (11) and (12) shall have effect in relation to the sum specified in sub‐paragraph (2)(b) as they have effect in relation to the sum specified in paragraph (1)(b) of that Article.
 
-### ...[^key-08e4c0366ca1455eb95b663e79982b5d]
+### ...[^c-08e4c0366ca1455eb95b663e79982b5d]
 
-**22.**[^key-08e4c0366ca1455eb95b663e79982b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-08e4c0366ca1455eb95b663e79982b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Powers of Tribunal in relation to legal aid
 
-**23.** (1) Where the Tribunal makes any such order as is referred to in Article 51B(1)(a) in the case of a solicitor who is an officer or employee of a recognised body, the Tribunal may, if they think fit, order that any solicitor who is for the time being a director of that body shall be prohibited from providing (either permanently or for a specified period) civil legal services or criminal defence services funded by the Department of Justice[^key-e2e39a3c7ed357e4c39361b0287ad90f] .
+**23.** (1) Where the Tribunal makes any such order as is referred to in Article 51B(1)(a) in the case of a solicitor who is an officer or employee of a recognised body, the Tribunal may, if they think fit, order that any solicitor who is for the time being a director of that body shall be prohibited from providing (either permanently or for a specified period) civil legal services or criminal defence services funded by the Department of Justice[^c-e2e39a3c7ed357e4c39361b0287ad90f] .
 
-(2)[^key-fd4218b65b0ca1314f5ae659462d8287] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-fd4218b65b0ca1314f5ae659462d8287] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Power of Tribunal to make recommendation for application of Schedule 1 to recognised body
 
@@ -273,8 +273,8 @@ the Tribunal may, if they think fit, make one or more of the orders referred to 
 
 **25.** (1) Where the Tribunal make an order—
 
-- (a) under paragraph 21(2)(b), (c), (d) or (e) or (3); [^key-46625f667803234f31e960857dd2f21c]...
-- (b)[^key-46625f667803234f31e960857dd2f21c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) under paragraph 21(2)(b), (c), (d) or (e) or (3); [^c-46625f667803234f31e960857dd2f21c]...
+- (b)[^c-46625f667803234f31e960857dd2f21c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 the registrar, if so required in writing by the Society or by any other party in whose favour the order was made, shall lodge a duly authenticated copy of the order with the Master (Queen's Bench and Appeals) who shall forthwith cause such copy to be filed; and thereupon the order shall be of the like effect as a judgment of the High Court and enforceable accordingly.
 
@@ -296,7 +296,7 @@ the registrar, if so required in writing by the Society or by any other party in
 
 - (a) an order is made by the Lord Chief Justice under Article 20(1) or 27(1) in the case of a director of a recognised body;
 - (b) any order is made by the Tribunal under Article 51 in the case of a director of a recognised body; or
-- (c)[^key-6d611d5dc8de59b28e695e9933c06a33] an order is made by the High Court or the Court of Appeal that the name of a director of a recognised body be struck off the roll or that such a director be suspended from practice as a solicitor; or
+- (c)[^c-6d611d5dc8de59b28e695e9933c06a33] an order is made by the High Court or the Court of Appeal that the name of a director of a recognised body be struck off the roll or that such a director be suspended from practice as a solicitor; or
 - (d) any such order as is mentioned in head (a), (b) or (c) is made in the case of a person employed by a recognised body and the act or omission constituting the ground on which the order was made was instigated or connived at by a director of the recognised body or, if the act or omission was a continuing act or omission, a director of the body had or reasonably ought to have had knowledge of its continuance,
 
 the Tribunal may, on an application made with respect to the recognised body by or on behalf of the Society, by order revoke its recognition under Article 26A.
@@ -459,13 +459,13 @@ any reference to a solicitor shall be construed as including a reference to a re
 
 ## Annotations
 
-[^key-052a6010f45dcfe19c4901ac853b1958]: Modification: [Sch. 1A](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(ss)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/ss)
+[^c-052a6010f45dcfe19c4901ac853b1958]: Modification: [Sch. 1A](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(ss)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/ss)
 
 [^c17115551]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/nisi/1989)
 
-[^key-5dc8927b12289205e123d1a06377f951]: Textual amendment: Words in [Sch. 1A para. 1(2)](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/1/2) substituted (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(a)(i)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/a/i); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-5dc8927b12289205e123d1a06377f951]: Textual amendment: Words in [Sch. 1A para. 1(2)](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/1/2) substituted (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(a)(i)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/a/i); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-c31acf35caf7e8b4fed61c0a8d5c7718]: Textual amendment: Words in [Sch. 1A para. 1(2)](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/1/2) repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(a)(ii)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/a/ii), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-c31acf35caf7e8b4fed61c0a8d5c7718]: Textual amendment: Words in [Sch. 1A para. 1(2)](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/1/2) repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(a)(ii)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/a/ii), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
 [^c17116071]: Textual amendment: SR 2004/307
 
@@ -473,29 +473,29 @@ any reference to a solicitor shall be construed as including a reference to a re
 
 [^c19771081]: Textual amendment: [Sch. 1A para. 3(c)](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/3/c) and preceding word inserted (27.3.2006) by [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](https://www.legislation.gov.uk/nisi/2005/1455), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [3(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/3/3), [Sch. 2 para. 10(b)](https://www.legislation.gov.uk/nisi/2005/1455/schedule/2/paragraph/10/b); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (with [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2-7](https://www.legislation.gov.uk/nisr/2006/22/article/2))
 
-[^key-b2b0c76f658f8312a250803e20c17e51]: Textual amendment: Words in [Sch. 1A para. 14(a)](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/14/a) repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(b)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/b), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-b2b0c76f658f8312a250803e20c17e51]: Textual amendment: Words in [Sch. 1A para. 14(a)](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/14/a) repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(b)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/b), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
 [^M_F_8755c430-8870-4ed9-9995-19c9e40e5444]: Textual amendment: [Sch. 1A para. 16](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/16) and cross-heading repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(c)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/c), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-06bc0958d036e447dd9ca3108b58e558]: Textual amendment: Words in [Sch. 1A para. 17(1)](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/17/1) substituted (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(d)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/d); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-06bc0958d036e447dd9ca3108b58e558]: Textual amendment: Words in [Sch. 1A para. 17(1)](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/17/1) substituted (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(d)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/d); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-6cb8c313abf51b4c71b9bd0c1193fc17]: Textual amendment: [Sch. 1A para. 18](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/18) and cross-heading repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(e)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/e), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-6cb8c313abf51b4c71b9bd0c1193fc17]: Textual amendment: [Sch. 1A para. 18](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/18) and cross-heading repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(e)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/e), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-5d724ea13305f8f043def0ed6ffa98ac]: Textual amendment: Words in [Sch. 1A para. 21(1)(d)](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/21/1/d) substituted (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(f)(i)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/f/i); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-5d724ea13305f8f043def0ed6ffa98ac]: Textual amendment: Words in [Sch. 1A para. 21(1)(d)](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/21/1/d) substituted (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(f)(i)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/f/i); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-a104893abbeac6b129abe4372d581e19]: Textual amendment: Words in [Sch. 1A para. 21(3)](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/21/3) substituted (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(f)(ii)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/f/ii); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-a104893abbeac6b129abe4372d581e19]: Textual amendment: Words in [Sch. 1A para. 21(3)](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/21/3) substituted (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(f)(ii)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/f/ii); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-3059aa189796b78f2062bcb2e93ede80]: Textual amendment: Words in [Sch. 1A para. 21(3)](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/21/3) repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(f)(iii)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/f/iii), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-3059aa189796b78f2062bcb2e93ede80]: Textual amendment: Words in [Sch. 1A para. 21(3)](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/21/3) repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(f)(iii)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/f/iii), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-08e4c0366ca1455eb95b663e79982b5d]: Textual amendment: [Sch. 1A para. 22](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/22) and cross-heading repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(g)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/g), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-08e4c0366ca1455eb95b663e79982b5d]: Textual amendment: [Sch. 1A para. 22](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/22) and cross-heading repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(g)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/g), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-e2e39a3c7ed357e4c39361b0287ad90f]: Textual amendment: Words in Sch. 1A para. 23(1) substituted (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 4 para. 2(10)](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/2/10) (as amended (18.11.2014) by [Legal Aid and Coroners’ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), Sch. 2 para 6(43)(b)(ii)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
+[^c-e2e39a3c7ed357e4c39361b0287ad90f]: Textual amendment: Words in Sch. 1A para. 23(1) substituted (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 4 para. 2(10)](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/2/10) (as amended (18.11.2014) by [Legal Aid and Coroners’ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), Sch. 2 para 6(43)(b)(ii)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
 
-[^key-fd4218b65b0ca1314f5ae659462d8287]: Textual amendment: Sch. 1A para. 23(2) repealed (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
+[^c-fd4218b65b0ca1314f5ae659462d8287]: Textual amendment: Sch. 1A para. 23(2) repealed (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
 
-[^key-46625f667803234f31e960857dd2f21c]: Textual amendment: [Sch. 1A para. 25(1)(b)](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/25/1/b) and word repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(h)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/h), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-46625f667803234f31e960857dd2f21c]: Textual amendment: [Sch. 1A para. 25(1)(b)](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/25/1/b) and word repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(10)(h)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/10/h), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-6d611d5dc8de59b28e695e9933c06a33]: Modification: [Sch. 1A para. 26(1)(c)](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/26/1/c) applied( with modifications) (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/4)
+[^c-6d611d5dc8de59b28e695e9933c06a33]: Modification: [Sch. 1A para. 26(1)(c)](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/26/1/c) applied( with modifications) (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/4)
 
 [^c22007551]: Textual amendment: Words in [Sch. 1A para. 38(3)](https://www.legislation.gov.uk/nisi/1976/582/schedule/1A/paragraph/38/3) substituted (1.4.2010 with effect as mentioned in [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [ss. 374](https://www.legislation.gov.uk/ukpga/2010/8/section/374), [381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 288](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/288) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 

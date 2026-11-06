@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159A. Relief declaration returns[^key-bced96a9056edd341b6a85558e80e8b7]
+## 159A. Relief declaration returns[^c-bced96a9056edd341b6a85558e80e8b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,8 +56,8 @@ summary: ''
 | Section 138 or 139 (property developers) | 3 |
 | Section 141 (property traders) | 4 |
 | Section 143 (financial institutions acquiring dwellings) | 5 |
-| 144A (regulated home reversion plans)[^key-77d202676640d9297480acb752a77f9b] | 5A |
-| Section 145 or 147A (occupation by certain employees[^key-527f6a6aec59a3c20be9009ae5ddabb6] etc) | 6 |
+| 144A (regulated home reversion plans)[^c-77d202676640d9297480acb752a77f9b] | 5A |
+| Section 145 or 147A (occupation by certain employees[^c-527f6a6aec59a3c20be9009ae5ddabb6] etc) | 6 |
 | Section 148 (farmhouses) | 7 |
 | Section 150 (providers of social housing) | 8 |
 
@@ -75,8 +75,8 @@ the failure may be taken, for the purposes of Schedule 55 to FA 2009, to be a fa
 
 ## Annotations
 
-[^key-bced96a9056edd341b6a85558e80e8b7]: Textual amendment: S. 159A inserted (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 73(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/73/3)
+[^c-bced96a9056edd341b6a85558e80e8b7]: Textual amendment: S. 159A inserted (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 73(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/73/3)
 
-[^key-77d202676640d9297480acb752a77f9b]: Textual amendment: Words in s. 159A(9) inserted (15.9.2016) (with effect in accordance with s. 134(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 134(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/134/6)
+[^c-77d202676640d9297480acb752a77f9b]: Textual amendment: Words in s. 159A(9) inserted (15.9.2016) (with effect in accordance with s. 134(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 134(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/134/6)
 
-[^key-527f6a6aec59a3c20be9009ae5ddabb6]: Textual amendment: Words in s. 159A(9) substituted (15.9.2016) (with effect in accordance with s. 135(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 135(11)](https://www.legislation.gov.uk/ukpga/2016/24/section/135/11)
+[^c-527f6a6aec59a3c20be9009ae5ddabb6]: Textual amendment: Words in s. 159A(9) substituted (15.9.2016) (with effect in accordance with s. 135(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 135(11)](https://www.legislation.gov.uk/ukpga/2016/24/section/135/11)

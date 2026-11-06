@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. “Contributory”[^key-4bac21e1ae3191cf1c4f6c1faf9abf71][^key-5382c63d9681977c1c8e6a38bc2e3841][^key-1546bfeaa0b0a40ea98010491510d37d][^key-5382c63d9681977c1c8e6a38bc2e3841]
+## 13. “Contributory”[^c-4bac21e1ae3191cf1c4f6c1faf9abf71][^c-5382c63d9681977c1c8e6a38bc2e3841][^c-1546bfeaa0b0a40ea98010491510d37d][^c-5382c63d9681977c1c8e6a38bc2e3841]
 
 *Extent: N.I.*
 
@@ -30,11 +30,11 @@ summary: ''
 
 ## Annotations
 
-[^key-4bac21e1ae3191cf1c4f6c1faf9abf71]: Modification: [Art. 13](https://www.legislation.gov.uk/nisi/1989/2405/article/13) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
+[^c-4bac21e1ae3191cf1c4f6c1faf9abf71]: Modification: [Art. 13](https://www.legislation.gov.uk/nisi/1989/2405/article/13) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
 
-[^key-5382c63d9681977c1c8e6a38bc2e3841]: Modification: [Pts. 1-5](https://www.legislation.gov.uk/nisi/1989/2405/part/1) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
+[^c-5382c63d9681977c1c8e6a38bc2e3841]: Modification: [Pts. 1-5](https://www.legislation.gov.uk/nisi/1989/2405/part/1) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
 
-[^key-1546bfeaa0b0a40ea98010491510d37d]: Modification: [Art. 13](https://www.legislation.gov.uk/nisi/1989/2405/article/13) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
+[^c-1546bfeaa0b0a40ea98010491510d37d]: Modification: [Art. 13](https://www.legislation.gov.uk/nisi/1989/2405/article/13) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
 
 [^c17596161]: Textual amendment: mod. by SR 2004/307
 

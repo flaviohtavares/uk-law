@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Title and commencement[^key-c0efbc7543b3f95ae754f98af7cb4f7d]
+## 1. Title and commencement[^c-c0efbc7543b3f95ae754f98af7cb4f7d]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ shall come into force on the 14th day after the day on which this Order is made.
 
 ## Annotations
 
-[^key-c0efbc7543b3f95ae754f98af7cb4f7d]: Commencement: Art. 1 in force at 24.3.1999, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/1999/671/article/1/2/a)
+[^c-c0efbc7543b3f95ae754f98af7cb4f7d]: Commencement: Art. 1 in force at 24.3.1999, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/1999/671/article/1/2/a)

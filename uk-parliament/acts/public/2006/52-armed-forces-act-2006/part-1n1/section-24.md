@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Damage to or loss of public or service property[^key-54099bec2d94c861fb258a7201f1e383][^key-e9a94bc5d96976db8783a656fb37612d]
+## 24. Damage to or loss of public or service property[^c-54099bec2d94c861fb258a7201f1e383][^c-e9a94bc5d96976db8783a656fb37612d]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-54099bec2d94c861fb258a7201f1e383]: Commencement: S. 24 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-54099bec2d94c861fb258a7201f1e383]: Commencement: S. 24 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-e9a94bc5d96976db8783a656fb37612d]: Commencement: S. 24 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-e9a94bc5d96976db8783a656fb37612d]: Commencement: S. 24 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

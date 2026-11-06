@@ -50,15 +50,15 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by paragraphs 1(1) and (3) of schedule 2 and paragraph 21(b) of schedule 7 of the European Union (Withdrawal) Act 2018[^f00001], paragraph 10A(1) of schedule 2 of the Trade in Animals and Related Products (Scotland) Regulations 2012[^f00002] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-924255eeab0c74e0b30e3671f226f780]
+## 1. Citation and commencement[^c-924255eeab0c74e0b30e3671f226f780]
 
 These Regulations may be cited as the Animal Products (Transitional Import Conditions) (Miscellaneous Amendment) (Scotland) Regulations 2021 and come into force on 1 January 2022.
 
-## 2. Amendment of Commission Decision [2000/572/EC](https://www.legislation.gov.uk/european/decision/2000/0572) laying down the animal and public health and veterinary certification conditions for imports of meat preparations from third countries[^key-b1dedd866c94f3ce2600f5fa5dda04e7]
+## 2. Amendment of Commission Decision [2000/572/EC](https://www.legislation.gov.uk/european/decision/2000/0572) laying down the animal and public health and veterinary certification conditions for imports of meat preparations from third countries[^c-b1dedd866c94f3ce2600f5fa5dda04e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Trade in Animals and Related Products (Scotland) Regulations 2012[^key-48ca31692e4e89b3c7c3490808f61acd]
+## 3. Amendment of the Trade in Animals and Related Products (Scotland) Regulations 2012[^c-48ca31692e4e89b3c7c3490808f61acd]
 
 (1) The Trade in Animals and Related Products (Scotland) Regulations 2012[^f00004] are amended as follows.
 
@@ -95,10 +95,10 @@ A Business and Regulatory Impact Assessment has not been produced for this instr
 
 [^f00002]: Footnote: [S.S.I. 2012/177](https://www.legislation.gov.uk/ssi/2012/177). Paragraph 10A of schedule 2 was inserted by [S.S.I. 2021/138](https://www.legislation.gov.uk/ssi/2021/138).
 
-[^key-924255eeab0c74e0b30e3671f226f780]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/432/regulation/1) in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/432/regulation/1)
+[^c-924255eeab0c74e0b30e3671f226f780]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/432/regulation/1) in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/432/regulation/1)
 
-[^key-b1dedd866c94f3ce2600f5fa5dda04e7]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/432/regulation/2) revoked (30.4.2024) by [The Meat Preparations (Import Conditions) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/81)](https://www.legislation.gov.uk/ssi/2024/81), [regs. 1](https://www.legislation.gov.uk/ssi/2024/81/regulation/1), [3(d)](https://www.legislation.gov.uk/ssi/2024/81/regulation/3/d)
+[^c-b1dedd866c94f3ce2600f5fa5dda04e7]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/432/regulation/2) revoked (30.4.2024) by [The Meat Preparations (Import Conditions) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/81)](https://www.legislation.gov.uk/ssi/2024/81), [regs. 1](https://www.legislation.gov.uk/ssi/2024/81/regulation/1), [3(d)](https://www.legislation.gov.uk/ssi/2024/81/regulation/3/d)
 
-[^key-48ca31692e4e89b3c7c3490808f61acd]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/432/regulation/3) in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/432/regulation/1)
+[^c-48ca31692e4e89b3c7c3490808f61acd]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/432/regulation/3) in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/432/regulation/1)
 
 [^f00004]: Footnote: [S.S.I. 2012/177](https://www.legislation.gov.uk/ssi/2012/177). Schedule 5 was inserted by [S.S.I. 2020/458](https://www.legislation.gov.uk/ssi/2020/458). Paragraph 5 was amended by [S.I. 2021/429](https://www.legislation.gov.uk/uksi/2021/429) and 809 and [S.S.I. 2021/297](https://www.legislation.gov.uk/ssi/2021/297) and [342](https://www.legislation.gov.uk/ssi/2021/342).

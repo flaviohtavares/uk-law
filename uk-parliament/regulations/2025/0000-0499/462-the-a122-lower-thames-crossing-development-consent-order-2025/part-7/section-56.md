@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Planning permission, etc.[^key-f5887cd8d78c3dab5e826106c2c35a50]
+## 56. Planning permission, etc.[^c-f5887cd8d78c3dab5e826106c2c35a50]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ then the construction, maintenance, use or operation of that development under t
 
 ## Annotations
 
-[^key-f5887cd8d78c3dab5e826106c2c35a50]: Commencement: Art. 56 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-f5887cd8d78c3dab5e826106c2c35a50]: Commencement: Art. 56 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00138]: Footnote: Section 57 was amended by paragraphs 34 and 35 of Schedule 2 to the Planning Act 2008, paragraphs 1 and 3 of Schedule 2 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and paragraphs 2 and 4 of Part 2 of Schedule 4 to the Infrastructure Act 2015.
 

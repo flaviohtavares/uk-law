@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Access to driver licensing information[^key-046720e2e100edbc29190e3ca740613b]
+## 36. Access to driver licensing information[^c-046720e2e100edbc29190e3ca740613b]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ After Article 19H of the Order of 1981 insert–
 
 ## Annotations
 
-[^key-046720e2e100edbc29190e3ca740613b]: Commencement: [Art. 36](https://www.legislation.gov.uk/nisi/2007/916/article/36) in operation at 6.2.2012 by [S.R. 2011/433](https://www.legislation.gov.uk/nisr/2011/433), [art. 2](https://www.legislation.gov.uk/nisr/2011/433/article/2)
+[^c-046720e2e100edbc29190e3ca740613b]: Commencement: [Art. 36](https://www.legislation.gov.uk/nisi/2007/916/article/36) in operation at 6.2.2012 by [S.R. 2011/433](https://www.legislation.gov.uk/nisr/2011/433), [art. 2](https://www.legislation.gov.uk/nisr/2011/433/article/2)

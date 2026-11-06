@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 132. Debt in a foreign currency[^key-3f76cf1c8066041acc61dc823fd02c0d]
+## 132. Debt in a foreign currency[^c-3f76cf1c8066041acc61dc823fd02c0d]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f76cf1c8066041acc61dc823fd02c0d]: Commencement: [Rule 132](https://www.legislation.gov.uk/nisr/2026/11/rule/132) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-3f76cf1c8066041acc61dc823fd02c0d]: Commencement: [Rule 132](https://www.legislation.gov.uk/nisr/2026/11/rule/132) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

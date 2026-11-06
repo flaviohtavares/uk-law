@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Community of Grovesend and Waungron — changes to electoral arrangements[^key-6d043a7246704c9429e62c126af6be3d]
+## 71. Community of Grovesend and Waungron — changes to electoral arrangements[^c-6d043a7246704c9429e62c126af6be3d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The number of councillors to be elected for the community of Grovesend and Waung
 
 ## Annotations
 
-[^key-6d043a7246704c9429e62c126af6be3d]: Commencement: [Art. 71](https://www.legislation.gov.uk/wsi/2026/95/article/71) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-6d043a7246704c9429e62c126af6be3d]: Commencement: [Art. 71](https://www.legislation.gov.uk/wsi/2026/95/article/71) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

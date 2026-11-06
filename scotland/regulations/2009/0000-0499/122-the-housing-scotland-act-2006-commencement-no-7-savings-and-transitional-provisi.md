@@ -38,18 +38,18 @@ Made
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by sections 191(2) and 195(3) of the Housing (Scotland) Act 2006[^f00001].
 
-## 1. Citation[^key-961c9c3898f104350ddfa1920e935d5f]
+## 1. Citation[^c-961c9c3898f104350ddfa1920e935d5f]
 
 This Order may be cited as the Housing (Scotland) Act 2006 (Commencement No. 7, Savings and Transitional Provisions) Order 2009.
 
-## 2. Interpretation[^key-a3be464e083dc08a9541a803602842cf]
+## 2. Interpretation[^c-a3be464e083dc08a9541a803602842cf]
 
 In this Order–
 
 - “the 2006 Act” means the Housing (Scotland) Act 2006; and
 - “the 1987 Act” means the Housing (Scotland) Act 1987[^f00002].
 
-## 3. Commencement of Provisions[^key-48a0f7bb9c1c1e4df09f15b08aed3f04]
+## 3. Commencement of Provisions[^c-48a0f7bb9c1c1e4df09f15b08aed3f04]
 
 The day appointed for the coming into force of the provisions of the 2006 Act specified in Column 1 of the Table below is as shown in Column 2, but where a particular purpose is specified in relation to any provision in Column 3, that provision shall come into force on that day only for that purpose.
 
@@ -64,11 +64,11 @@ Table
 | Schedule 6, paragraph 11 | 1st April 2010 |  |
 | Schedule 7 | 1st April 2010 | Only for the purpose of the repeals in the Land Compensation (Scotland) Act [1973 (c. 56)](https://www.legislation.gov.uk/ukpga/1973/56), the Civic Government (Scotland) Act [1982 (c. 45)](https://www.legislation.gov.uk/ukpga/1982/45), the Housing (Scotland) Act [1987 (c. 26)](https://www.legislation.gov.uk/ukpga/1987/26), but only the repeals in that Act of sections 85(3), 88 to 106, 108 to 112, 120(6), 124(4), 214, 215, 217, 218, 219(1)(a), in Part 13 sections 236 to 243, 244(7), (12) and (14) and 245 to 256A, in sections 309(1) and 310 the word “88”, section 311(1)(e), section 313(4), in section 319(1) in paragraph (a) the words from second “any” to “Part V or”, in section 338(1) the definitions of “disabled occupant” “housing action area”, “improvement”, “improvement grant”, “repairs grant” and Schedules 7, 8, 17 and 19, the Housing (Scotland) Act [1988 (c. 43)](https://www.legislation.gov.uk/ukpga/1988/43), the Local Government Act [1988 (c. 9)](https://www.legislation.gov.uk/ukpga/1988/9), the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), the Agricultural Holdings (Scotland) Act [1991 (c. 55)](https://www.legislation.gov.uk/ukpga/1991/55), the Clean Air Act [1993 (c. 11)](https://www.legislation.gov.uk/ukpga/1993/11), the Leasehold Reform, Housing and Urban Development Act [1993 (c. 28)](https://www.legislation.gov.uk/ukpga/1993/28), the [Housing (Scotland) Act 2001 (asp 10)](https://www.legislation.gov.uk/asp/2001/10) |
 
-## 4. Savings and Transitional Provisions[^key-15787fb68accfad6d2d1e6b4fb85a4f7]
+## 4. Savings and Transitional Provisions[^c-15787fb68accfad6d2d1e6b4fb85a4f7]
 
 Notwithstanding the repeal of sections 89 to 106 (housing action areas) and Schedules 8 and 19 to the 1987 Act, those provisions shall continue to have effect until 1st April 2012 in respect of any housing action area declared before 1st April 2010.
 
-**4A.**[^key-0aaa560f8954e0ac950d6b322bd0a20a] Notwithstanding the repeal of sections 108 and 109 (repair notices) of the 1987 Act, those sections shall continue to have effect until 1st April 2012 in respect of repair notices served before 1st April 2010.
+**4A.**[^c-0aaa560f8954e0ac950d6b322bd0a20a] Notwithstanding the repeal of sections 108 and 109 (repair notices) of the 1987 Act, those sections shall continue to have effect until 1st April 2012 in respect of repair notices served before 1st April 2010.
 
 **4B.** Notwithstanding the repeal of section 110 (recovery by lessee of expenses etc.) of the 1987 Act, that section shall continue to have effect in respect of expenditure incurred in complying with a repair notice served before 1st April 2010, and payment of the expenses of a local authority who has carried out the works specified in such a repair notice.
 
@@ -85,19 +85,19 @@ Notwithstanding the repeal of sections 89 to 106 (housing action areas) and Sche
 
 **4F.** Notwithstanding the repeal of section 219(1)(a) (interest rates on home loans) of the 1987 Act, that subsection shall continue to have effect in respect of any advance of money made before 1st April 2010.
 
-**5.**[^key-50a06f1f1e7a8804e0c39dd4ee03ce81] Notwithstanding the repeal of sections 236 to 243 and 245 to 256A (grants for improvement, repair and conversion) and Schedule 19 to the 1987 Act, those provisions shall continue to have effect in respect of–
+**5.**[^c-50a06f1f1e7a8804e0c39dd4ee03ce81] Notwithstanding the repeal of sections 236 to 243 and 245 to 256A (grants for improvement, repair and conversion) and Schedule 19 to the 1987 Act, those provisions shall continue to have effect in respect of–
 
 - (a) applications received before 1st April 2012 for improvement grant for houses situated in housing action areas within the meaning of Part 4 of the 1987 Act;
 - (b) applications for grant approved before 1st April 2010; and
 - (c) the conditions to be observed in respect of any grant made by a local authority under those provisions.
 
-**6.**[^key-888ac9a2f29a08d0411c4c71c73d0e23] Notwithstanding the repeal of section 244 (duty of local authorities to make improvement grants where an application relates exclusively to the provision of standard amenities or to disabled occupant) and schedule 19 to the 1987 Act, those provisions shall continue to have effect in respect of–
+**6.**[^c-888ac9a2f29a08d0411c4c71c73d0e23] Notwithstanding the repeal of section 244 (duty of local authorities to make improvement grants where an application relates exclusively to the provision of standard amenities or to disabled occupant) and schedule 19 to the 1987 Act, those provisions shall continue to have effect in respect of–
 
 - (a) applications received before 1st April 2012 for improvement grant for houses situated in housing action areas within the meaning of Part 4 of the 1987 Act;
 - (b) applications for grant approved before 1st April 2009; and
 - (c) the conditions to be observed in respect of any grant made by a local authority under those provisions.
 
-**7.**[^key-fae2766f206f90effb3758298bed711f] Notwithstanding the commencement of paragraphs 2, 3, 6 and 12 of schedule 6 to the 2006 Act where–
+**7.**[^c-fae2766f206f90effb3758298bed711f] Notwithstanding the commencement of paragraphs 2, 3, 6 and 12 of schedule 6 to the 2006 Act where–
 
 - (a) improvement works have been carried out in compliance with a notice of a final resolution served under Part 1 of Schedule 8 to the 1987 Act, the Crofters Holdings (Scotland) Act 1886[^f00003] shall have effect as if the commencement of paragraph 2 had not taken place;
 - (b) a person is displaced from a dwelling on any land in consequence of an order under section 88 of the 1987 Act, section 27 (right to home loss payment where person displaced from dwelling) of the Land Compensation (Scotland) Act 1973[^f00004] shall have effect as if the commencement of paragraph 3 had not taken place;
@@ -143,23 +143,23 @@ Schedule 6 to the 2006 Act makes consequential amendments to the law in various 
 
 [^f00001]: Footnote: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1).
 
-[^key-961c9c3898f104350ddfa1920e935d5f]: Commencement: Art. 1 in force at made date
+[^c-961c9c3898f104350ddfa1920e935d5f]: Commencement: Art. 1 in force at made date
 
-[^key-a3be464e083dc08a9541a803602842cf]: Commencement: Art. 2 in force at made date
+[^c-a3be464e083dc08a9541a803602842cf]: Commencement: Art. 2 in force at made date
 
 [^f00002]: Footnote: [1987 c. 26](https://www.legislation.gov.uk/ukpga/1987/26).
 
-[^key-48a0f7bb9c1c1e4df09f15b08aed3f04]: Commencement: Art. 3 in force at made date
+[^c-48a0f7bb9c1c1e4df09f15b08aed3f04]: Commencement: Art. 3 in force at made date
 
-[^key-15787fb68accfad6d2d1e6b4fb85a4f7]: Commencement: Art. 4 in force at made date
+[^c-15787fb68accfad6d2d1e6b4fb85a4f7]: Commencement: Art. 4 in force at made date
 
-[^key-0aaa560f8954e0ac950d6b322bd0a20a]: Textual amendment: [Arts. 4A-4F](https://www.legislation.gov.uk/ssi/2009/122/article/4A) inserted (17.3.2010) by [The Housing (Scotland) Act 2006 (Commencement No. 7, Savings and Transitional Provisions) Amendment Order 2010 (S.S.I. 2010/114)](https://www.legislation.gov.uk/ssi/2010/114), [art. 2](https://www.legislation.gov.uk/ssi/2010/114/article/2)
+[^c-0aaa560f8954e0ac950d6b322bd0a20a]: Textual amendment: [Arts. 4A-4F](https://www.legislation.gov.uk/ssi/2009/122/article/4A) inserted (17.3.2010) by [The Housing (Scotland) Act 2006 (Commencement No. 7, Savings and Transitional Provisions) Amendment Order 2010 (S.S.I. 2010/114)](https://www.legislation.gov.uk/ssi/2010/114), [art. 2](https://www.legislation.gov.uk/ssi/2010/114/article/2)
 
-[^key-50a06f1f1e7a8804e0c39dd4ee03ce81]: Commencement: Art. 5 in force at made date
+[^c-50a06f1f1e7a8804e0c39dd4ee03ce81]: Commencement: Art. 5 in force at made date
 
-[^key-888ac9a2f29a08d0411c4c71c73d0e23]: Commencement: Art. 6 in force at made date
+[^c-888ac9a2f29a08d0411c4c71c73d0e23]: Commencement: Art. 6 in force at made date
 
-[^key-fae2766f206f90effb3758298bed711f]: Commencement: Art. 7 in force at made date
+[^c-fae2766f206f90effb3758298bed711f]: Commencement: Art. 7 in force at made date
 
 [^f00003]: Footnote: [1886 c. 29](https://www.legislation.gov.uk/ukpga/1886/29).
 

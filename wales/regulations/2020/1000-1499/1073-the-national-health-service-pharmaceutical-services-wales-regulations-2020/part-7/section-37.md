@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Refusal of applications on fitness grounds[^key-4c87745bac04fa64c9ac45ba454c6706]
+## 37. Refusal of applications on fitness grounds[^c-4c87745bac04fa64c9ac45ba454c6706]
 
 *Extent: E+W*
 
@@ -61,7 +61,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4c87745bac04fa64c9ac45ba454c6706]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2020/1073/regulation/37) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-4c87745bac04fa64c9ac45ba454c6706]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2020/1073/regulation/37) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
 
 [^f00032]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).
 

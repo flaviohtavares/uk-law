@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Amendment of regulation 4 (directions that no environmental statement need be prepared)[^key-b05fcffbf59c593563d977922fb7d6b4]
+## 49. Amendment of regulation 4 (directions that no environmental statement need be prepared)[^c-b05fcffbf59c593563d977922fb7d6b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ In regulation 4—
 
 ## Annotations
 
-[^key-b05fcffbf59c593563d977922fb7d6b4]: Commencement: Reg. 49 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-b05fcffbf59c593563d977922fb7d6b4]: Commencement: Reg. 49 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

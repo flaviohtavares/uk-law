@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 91. Giving notices etc[^key-96c5da975cbe52700bd14f1ac897b8a1]
+## 91. Giving notices etc[^c-96c5da975cbe52700bd14f1ac897b8a1]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ In the Social Security Administration Act 1992, in section 121DA (interpretation
 
 ## Annotations
 
-[^key-96c5da975cbe52700bd14f1ac897b8a1]: Commencement: S. 91 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-96c5da975cbe52700bd14f1ac897b8a1]: Commencement: S. 91 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)

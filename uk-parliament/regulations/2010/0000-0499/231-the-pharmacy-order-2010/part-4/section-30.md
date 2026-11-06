@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Fitness to practise matters before entry or renewal of an entry[^key-d5289fed9cf47cb3ef3b351cb4d5846e][^key-7e7a2b109660f9f4649f83dc4186a4ba]
+## 30. Fitness to practise matters before entry or renewal of an entry[^c-d5289fed9cf47cb3ef3b351cb4d5846e][^c-7e7a2b109660f9f4649f83dc4186a4ba]
 
 *Extent: E+W+S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d5289fed9cf47cb3ef3b351cb4d5846e]: Commencement: Art. 30 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-d5289fed9cf47cb3ef3b351cb4d5846e]: Commencement: Art. 30 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-7e7a2b109660f9f4649f83dc4186a4ba]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2010/231/article/30) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-7e7a2b109660f9f4649f83dc4186a4ba]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2010/231/article/30) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

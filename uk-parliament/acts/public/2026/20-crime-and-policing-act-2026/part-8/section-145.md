@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Aggravated offences[^key-941277b7e15a6110dc1b90a07ba221c6]
+## 145. Aggravated offences[^c-941277b7e15a6110dc1b90a07ba221c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -170,4 +170,4 @@ summary: ''
 
 ## Annotations
 
-[^key-941277b7e15a6110dc1b90a07ba221c6]: Commencement: S. 145 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-941277b7e15a6110dc1b90a07ba221c6]: Commencement: S. 145 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

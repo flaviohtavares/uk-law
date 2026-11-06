@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Felling or lopping of trees and removal of hedgerows[^key-bc1d0f0020b0fc9b491e1a082acfc745]
+## 23. Felling or lopping of trees and removal of hedgerows[^c-bc1d0f0020b0fc9b491e1a082acfc745]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc1d0f0020b0fc9b491e1a082acfc745]: Commencement: Art. 23 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-bc1d0f0020b0fc9b491e1a082acfc745]: Commencement: Art. 23 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00080]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160).

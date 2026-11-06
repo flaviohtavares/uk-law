@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Search by other persons upon arrest[^key-02cf5160f75d110191d0a24cdfdf42f4][^key-3891ae30c4c3549a78aa1749dafc6173]
+## 71. Search by other persons upon arrest[^c-02cf5160f75d110191d0a24cdfdf42f4][^c-3891ae30c4c3549a78aa1749dafc6173]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-02cf5160f75d110191d0a24cdfdf42f4]: Commencement: S. 71 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-02cf5160f75d110191d0a24cdfdf42f4]: Commencement: S. 71 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-3891ae30c4c3549a78aa1749dafc6173]: Commencement: S. 71 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-3891ae30c4c3549a78aa1749dafc6173]: Commencement: S. 71 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

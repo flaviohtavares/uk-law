@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Winding up of insolvent partnership as unregistered company on member’s petition where no concurrent petition presented against member[^key-c13d41430169c990c7dc08f039099ba9]
+## 9. Winding up of insolvent partnership as unregistered company on member’s petition where no concurrent petition presented against member[^c-c13d41430169c990c7dc08f039099ba9]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The following provisions of the Act shall apply in relation to the winding up of
 
 ## Annotations
 
-[^key-c13d41430169c990c7dc08f039099ba9]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/1994/2421/article/9) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-c13d41430169c990c7dc08f039099ba9]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/1994/2421/article/9) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)

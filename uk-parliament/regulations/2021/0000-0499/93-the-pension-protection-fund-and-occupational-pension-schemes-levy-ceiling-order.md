@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order 2021 (revoked)[^key-92c40dce86e1716361da7f4d89d6162e]
+The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order 2021 (revoked)[^c-92c40dce86e1716361da7f4d89d6162e]
 
 Made
 
@@ -44,23 +44,23 @@ Laid before Parliament
 
 Coming into force in accordance with article 1(2) and (3)
 
-[^key-92c40dce86e1716361da7f4d89d6162e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92c40dce86e1716361da7f4d89d6162e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-92c40dce86e1716361da7f4d89d6162e]
+## 1. Citation and commencement[^c-92c40dce86e1716361da7f4d89d6162e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The levy ceiling[^key-92c40dce86e1716361da7f4d89d6162e]
+## 2. The levy ceiling[^c-92c40dce86e1716361da7f4d89d6162e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-92c40dce86e1716361da7f4d89d6162e]
+## 3. Revocation[^c-92c40dce86e1716361da7f4d89d6162e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-92c40dce86e1716361da7f4d89d6162e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92c40dce86e1716361da7f4d89d6162e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -68,4 +68,4 @@ Coming into force in accordance with article 1(2) and (3)
 
 ## Annotations
 
-[^key-92c40dce86e1716361da7f4d89d6162e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/93) revoked (1.4.2022) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order 2022 (S.I. 2022/88)](https://www.legislation.gov.uk/uksi/2022/88), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2022/88/article/1/4), [5](https://www.legislation.gov.uk/uksi/2022/88/article/5)
+[^c-92c40dce86e1716361da7f4d89d6162e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/93) revoked (1.4.2022) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order 2022 (S.I. 2022/88)](https://www.legislation.gov.uk/uksi/2022/88), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2022/88/article/1/4), [5](https://www.legislation.gov.uk/uksi/2022/88/article/5)

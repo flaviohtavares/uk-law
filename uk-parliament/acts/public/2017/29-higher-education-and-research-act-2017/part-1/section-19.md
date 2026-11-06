@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. De-registration by the OfS: procedure[^key-22836152b600c1f70cfd2af4909b1d90]
+## 19. De-registration by the OfS: procedure[^c-22836152b600c1f70cfd2af4909b1d90]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22836152b600c1f70cfd2af4909b1d90]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/29/section/19) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/b)
+[^c-22836152b600c1f70cfd2af4909b1d90]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/29/section/19) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/b)

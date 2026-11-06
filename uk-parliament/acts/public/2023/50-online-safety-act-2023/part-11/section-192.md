@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. Providers’ judgements about the status of content[^key-e2d27e6dba5953c95b1e2d8c6aad1f41][^key-987b682007cdd0f3148cd703f2355813]
+## 192. Providers’ judgements about the status of content[^c-e2d27e6dba5953c95b1e2d8c6aad1f41][^c-987b682007cdd0f3148cd703f2355813]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ involves a judgement by a provider about whether content is content of a particu
 
 ## Annotations
 
-[^key-e2d27e6dba5953c95b1e2d8c6aad1f41]: Commencement: S. 192 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-e2d27e6dba5953c95b1e2d8c6aad1f41]: Commencement: S. 192 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-987b682007cdd0f3148cd703f2355813]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2023/50/section/192) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z23)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z23)
+[^c-987b682007cdd0f3148cd703f2355813]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2023/50/section/192) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z23)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z23)

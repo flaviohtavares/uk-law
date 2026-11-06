@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41A. Conditions relating to the GPA[^key-7635130eed893598419d7e0a68e76924]
+## 41A. Conditions relating to the GPA[^c-7635130eed893598419d7e0a68e76924]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7635130eed893598419d7e0a68e76924]: Textual amendment: [Reg. 41A](https://www.legislation.gov.uk/ssi/2016/49/regulation/41A) inserted (11.6.2021) by [The Public Procurement (Agreement on Government Procurement) (Amendment) Regulations 2021 (S.I. 2021/573)](https://www.legislation.gov.uk/uksi/2021/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/573/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2021/573/regulation/6/4)
+[^c-7635130eed893598419d7e0a68e76924]: Textual amendment: [Reg. 41A](https://www.legislation.gov.uk/ssi/2016/49/regulation/41A) inserted (11.6.2021) by [The Public Procurement (Agreement on Government Procurement) (Amendment) Regulations 2021 (S.I. 2021/573)](https://www.legislation.gov.uk/uksi/2021/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/573/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2021/573/regulation/6/4)

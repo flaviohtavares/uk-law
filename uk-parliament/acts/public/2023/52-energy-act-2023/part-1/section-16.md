@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Interim power of Secretary of State to grant licences[^key-87943f8d46d03b060674350a4677d41d]
+## 16. Interim power of Secretary of State to grant licences[^c-87943f8d46d03b060674350a4677d41d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 makes provision about the power of the Secretary of State to grant li
 
 ## Annotations
 
-[^key-87943f8d46d03b060674350a4677d41d]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2023/52/section/16) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-87943f8d46d03b060674350a4677d41d]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2023/52/section/16) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

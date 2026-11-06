@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Certain sexual offences by non-natural persons[^key-1367365a8e3e4af13d7aad51ac82a07a]
+## 40. Certain sexual offences by non-natural persons[^c-1367365a8e3e4af13d7aad51ac82a07a]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1367365a8e3e4af13d7aad51ac82a07a]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2010/13/section/40) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/413/article/4))
+[^c-1367365a8e3e4af13d7aad51ac82a07a]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2010/13/section/40) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/413/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Private rights of way[^key-741ea7ee649229ddccbb8e4238d2928d]
+## 35. Private rights of way[^c-741ea7ee649229ddccbb8e4238d2928d]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-741ea7ee649229ddccbb8e4238d2928d]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2014/2935/article/35) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-741ea7ee649229ddccbb8e4238d2928d]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2014/2935/article/35) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

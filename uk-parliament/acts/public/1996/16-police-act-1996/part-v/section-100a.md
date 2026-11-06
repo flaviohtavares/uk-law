@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100A. Appointment of senior police officers as staff of College of Policing[^key-bd8a032f1babec817be91d1e9ffb425d]
+## 100A. Appointment of senior police officers as staff of College of Policing[^c-bd8a032f1babec817be91d1e9ffb425d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ is appointed as a member of the staff of the College of Policing.
 
 ## Annotations
 
-[^key-bd8a032f1babec817be91d1e9ffb425d]: Textual amendment: S. 100A inserted (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 128](https://www.legislation.gov.uk/ukpga/2014/12/section/128), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/10)
+[^c-bd8a032f1babec817be91d1e9ffb425d]: Textual amendment: S. 100A inserted (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 128](https://www.legislation.gov.uk/ukpga/2014/12/section/128), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/10)

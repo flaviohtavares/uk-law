@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Federation comprising only foundation schools[^key-c7ca029d1d1784bfc33c5af6b9ca9d83]
+## 27. Federation comprising only foundation schools[^c-c7ca029d1d1784bfc33c5af6b9ca9d83]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c7ca029d1d1784bfc33c5af6b9ca9d83]: Commencement: Reg. 27 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-c7ca029d1d1784bfc33c5af6b9ca9d83]: Commencement: Reg. 27 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00019]: Footnote: Within the meaning of section 20 of, and Schedule 2 to, the 1998 Act.

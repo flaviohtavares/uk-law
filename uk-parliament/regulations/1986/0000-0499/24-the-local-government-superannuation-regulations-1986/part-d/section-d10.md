@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## D10. Previous service of certain variable-time employees[^key-d2e3dfdb25e637760011b3aa61efa4f4]
+## D10. Previous service of certain variable-time employees[^c-d2e3dfdb25e637760011b3aa61efa4f4]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2e3dfdb25e637760011b3aa61efa4f4]: Commencement: [Reg. D10](https://www.legislation.gov.uk/uksi/1986/24/regulation/D10) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-d2e3dfdb25e637760011b3aa61efa4f4]: Commencement: [Reg. D10](https://www.legislation.gov.uk/uksi/1986/24/regulation/D10) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

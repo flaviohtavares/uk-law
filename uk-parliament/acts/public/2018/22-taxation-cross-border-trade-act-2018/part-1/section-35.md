@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Exports made in accordance with applicable export provisions[^c23439581][^key-80e861e9b89e29137e4a5d53eda973d8]
+## 35. Exports made in accordance with applicable export provisions[^c23439581][^c-80e861e9b89e29137e4a5d53eda973d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ with or without modifications.
 
 [^c23439581]: Commencement: S. 35 in force for specified purposes at 13.9.2018, see s. 57(1)(a)
 
-[^key-80e861e9b89e29137e4a5d53eda973d8]: Commencement: S. 35 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-80e861e9b89e29137e4a5d53eda973d8]: Commencement: S. 35 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)

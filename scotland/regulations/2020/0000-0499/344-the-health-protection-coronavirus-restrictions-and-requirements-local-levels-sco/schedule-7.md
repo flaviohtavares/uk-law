@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 7 — Face Covering Requirements[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+## SCHEDULE 7 — Face Covering Requirements[^c-e06b4056dfcd9f9f5a870e3231388c9d]
 
 *Extent: S*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Regulation 3
 
-### 1. Requirement to wear face coverings on public transport[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+### 1. Requirement to wear face coverings on public transport[^c-e06b4056dfcd9f9f5a870e3231388c9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Requirement to wear face coverings in certain indoor places[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+### 2. Requirement to wear face coverings in certain indoor places[^c-e06b4056dfcd9f9f5a870e3231388c9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2A.[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+### 2A.[^c-e06b4056dfcd9f9f5a870e3231388c9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Places where face coverings must be worn[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+### 3. Places where face coverings must be worn[^c-e06b4056dfcd9f9f5a870e3231388c9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e06b4056dfcd9f9f5a870e3231388c9d]: Textual amendment: Regulations revoked (9.8.2021) by [The Health Protection (Coronavirus) (Requirements) (Scotland) Regulations 2021 (S.S.I. 2021/277)](https://www.legislation.gov.uk/ssi/2021/277), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/277/regulation/1/1), [20](https://www.legislation.gov.uk/ssi/2021/277/regulation/20)
+[^c-e06b4056dfcd9f9f5a870e3231388c9d]: Textual amendment: Regulations revoked (9.8.2021) by [The Health Protection (Coronavirus) (Requirements) (Scotland) Regulations 2021 (S.S.I. 2021/277)](https://www.legislation.gov.uk/ssi/2021/277), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/277/regulation/1/1), [20](https://www.legislation.gov.uk/ssi/2021/277/regulation/20)

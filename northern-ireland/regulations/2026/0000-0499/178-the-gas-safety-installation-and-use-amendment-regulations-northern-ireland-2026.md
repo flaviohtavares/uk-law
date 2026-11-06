@@ -46,11 +46,11 @@ The Department for the Economy (“**the Department**”), being the Department 
 
 The Regulations give effect without modifications to proposals submitted to the Department by the Health and Safety Executive for Northern Ireland (“**the Executive**”) under Article 13(1A)[^f00004] of the 1978 Order. Before submitting those proposals to the Department, the Executive consulted such bodies that appeared to be appropriate as required by Article 46(3) of the 1978 Order[^f00005].
 
-## 1. Citation and commencement[^key-24dbb01e232a8830a98470a62091d839]
+## 1. Citation and commencement[^c-24dbb01e232a8830a98470a62091d839]
 
 These Regulations may be cited as the Gas Safety (Installation and Use) (Amendment) Regulations (Northern Ireland) 2026 and come into operation on 30th November 2026.
 
-## 2. Amendment to the Gas Safety (Installation and Use) Regulations (Northern Ireland) 2004[^key-41fae85e9a86020d870ca3159aed80e5]
+## 2. Amendment to the Gas Safety (Installation and Use) Regulations (Northern Ireland) 2004[^c-41fae85e9a86020d870ca3159aed80e5]
 
 (1) The Gas Safety (Installation and Use) Regulations (Northern Ireland) 2004[^f00006] are amended in accordance with paragraphs (2) to (5).
 
@@ -135,9 +135,9 @@ In Great Britain the corresponding Regulations are the Gas Safety (Installation 
 
 [^f00005]: Footnote: Article 46(3) was amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1, paragraphs 8 and 18
 
-[^key-24dbb01e232a8830a98470a62091d839]: Commencement: Reg. 1 in operation at 30.11.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/178/regulation/1)
+[^c-24dbb01e232a8830a98470a62091d839]: Commencement: Reg. 1 in operation at 30.11.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/178/regulation/1)
 
-[^key-41fae85e9a86020d870ca3159aed80e5]: Commencement: Reg. 2 in operation at 30.11.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/178/regulation/1)
+[^c-41fae85e9a86020d870ca3159aed80e5]: Commencement: Reg. 2 in operation at 30.11.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/178/regulation/1)
 
 [^f00006]: Footnote: [S.R. 2004 No. 63](https://www.legislation.gov.uk/nisr/2004/63); relevant amending regulations are [S.R. 2006 No. 205](https://www.legislation.gov.uk/nisr/2006/205) and [S.R. 2016 No. 146](https://www.legislation.gov.uk/nisr/2016/146)
 

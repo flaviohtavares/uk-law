@@ -24,7 +24,7 @@ summary: ''
 
 (2) The amount of the debit recognised for tax purposes is the same as the amount of the loss recognised by the company for accounting purposes.
 
-(3) Subsection (2) is subject to any adjustments required by this Part or Part 4 of TIOPA 2010[^key-bc3c210d698e279af7a409f58bdb46d1] (provision not at arm's length).
+(3) Subsection (2) is subject to any adjustments required by this Part or Part 4 of TIOPA 2010[^c-bc3c210d698e279af7a409f58bdb46d1] (provision not at arm's length).
 
 (4) This section does not apply if the loss represents previously capitalised expenditure.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc3c210d698e279af7a409f58bdb46d1]: Textual amendment: Words in s. 728(3) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 145(1)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/145/1), [(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/145/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-bc3c210d698e279af7a409f58bdb46d1]: Textual amendment: Words in s. 728(3) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 145(1)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/145/1), [(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/145/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

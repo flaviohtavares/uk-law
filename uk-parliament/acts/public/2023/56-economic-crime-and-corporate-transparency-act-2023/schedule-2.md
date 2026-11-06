@@ -24,14 +24,14 @@ Section 51
 
 ### PART 1 — Register of directors
 
-**1.**[^key-986e836b37211b9d610565753f69d0a3][^key-bded29c10a2009b58d7167ffe7f11202][^key-f3267a5670f6d06234717fe1ecab18ca] The Companies Act 2006 is amended as follows.
+**1.**[^c-986e836b37211b9d610565753f69d0a3][^c-bded29c10a2009b58d7167ffe7f11202][^c-f3267a5670f6d06234717fe1ecab18ca] The Companies Act 2006 is amended as follows.
 
-**2.**[^key-7480a9db0d3498af58562fd47938bffe][^key-fbbccb38c159b50872f82b595196b842] Omit—
+**2.**[^c-7480a9db0d3498af58562fd47938bffe][^c-fbbccb38c159b50872f82b595196b842] Omit—
 
 - (a) sections 161A to 167F (register of directors etc);
 - (b) the italic heading before section 161A.
 
-**3.**[^key-14d9359167392ad7874c5e123aed3c50][^key-995487bf7252b8c4ca631d20b44574be][^key-4ec2bf31362f786f2fe1bfcc58f6ec70] (1) Before section 168 (and before the italic heading before that section) insert—
+**3.**[^c-14d9359167392ad7874c5e123aed3c50][^c-995487bf7252b8c4ca631d20b44574be][^c-4ec2bf31362f786f2fe1bfcc58f6ec70] (1) Before section 168 (and before the italic heading before that section) insert—
 
 > **Notification of information about directors**
 >
@@ -164,11 +164,11 @@ Section 51
 
 ### PART 2 — Register of secretaries
 
-**4.**[^key-10e554f2992188f19286cc3b41b7eb52][^key-ab682664c89d732225b6a3f87a4de81f][^key-d0a5e9e4f2a03b24cd332b4508b7dba3] The Companies Act 2006 is amended as follows.
+**4.**[^c-10e554f2992188f19286cc3b41b7eb52][^c-ab682664c89d732225b6a3f87a4de81f][^c-d0a5e9e4f2a03b24cd332b4508b7dba3] The Companies Act 2006 is amended as follows.
 
-**5.**[^key-4b9c4aedb64a6621469f449faebed7e3][^key-b9dfd61c1ad98d30b4075c9657a19bb7] Omit sections 274A to 279F (register of secretaries etc) (including the italic heading before section 279A).
+**5.**[^c-4b9c4aedb64a6621469f449faebed7e3][^c-b9dfd61c1ad98d30b4075c9657a19bb7] Omit sections 274A to 279F (register of secretaries etc) (including the italic heading before section 279A).
 
-**6.**[^key-2cfe6c0adfc16d4262c46eeed276065a][^key-2422168b5d0422c9320fb46643e458a2][^key-90b8b06bcd166ac3d1f3031145e2b17d] Before section 280 insert—
+**6.**[^c-2cfe6c0adfc16d4262c46eeed276065a][^c-2422168b5d0422c9320fb46643e458a2][^c-90b8b06bcd166ac3d1f3031145e2b17d] Before section 280 insert—
 
 > **Notification of information about secretaries**
 >
@@ -291,9 +291,9 @@ Section 51
 
 ### PART 3 — Register of people with significant control
 
-**7.**[^key-1e3f8bc2b0d5854a6c8967f98f7ddba2][^M_I_8239ceaf-f50e-4197-a5bd-80db4c3938a4][^key-bc0b743b2949a32844c6647270685052] The Companies Act 2006 is amended as follows.
+**7.**[^c-1e3f8bc2b0d5854a6c8967f98f7ddba2][^M_I_8239ceaf-f50e-4197-a5bd-80db4c3938a4][^c-bc0b743b2949a32844c6647270685052] The Companies Act 2006 is amended as follows.
 
-**8.**[^key-64b03fb816e36bbbebb10398eff4f67e][^key-34c46353714b0bdb483aa0240b7e5256] In section 790A (overview of Part)—
+**8.**[^c-64b03fb816e36bbbebb10398eff4f67e][^c-34c46353714b0bdb483aa0240b7e5256] In section 790A (overview of Part)—
 
 - (a) in paragraph (b), for “keep the register required by Chapter 3” substitute “notify the registrar of the information in accordance with Chapter 2A”;
 - (b) for paragraphs (c) and (d) substitute—
@@ -302,9 +302,9 @@ Section 51
 
   .
 
-**9.**[^key-82397cbb83956af50e94158029e6bf98][^key-60bfdcdd9f3e35445577793c9e95b228] In section 790C (key terms), omit subsection (10).
+**9.**[^c-82397cbb83956af50e94158029e6bf98][^c-60bfdcdd9f3e35445577793c9e95b228] In section 790C (key terms), omit subsection (10).
 
-**10.**[^key-9a03602a2bba746dbaf88f2fb091d514][^key-dc16f18423935c8b8333ea669a68cc1b] After section 790C insert—
+**10.**[^c-9a03602a2bba746dbaf88f2fb091d514][^c-dc16f18423935c8b8333ea669a68cc1b] After section 790C insert—
 
 > **790CA. References to “confirmation” etc of information**
 >
@@ -316,7 +316,7 @@ Section 51
 >
 > if the person has supplied that information to the company whether or not in pursuance of any duty imposed by this Part (and references to a company obtaining confirmation of information are to be read accordingly).
 
-**11.**[^key-dcf0e2d55cab58cb65b7becb800e94ac][^key-92d2a7f244f91e21de5d3f3e94fadbe5] For sections 790D and 790E substitute—
+**11.**[^c-dcf0e2d55cab58cb65b7becb800e94ac][^c-92d2a7f244f91e21de5d3f3e94fadbe5] For sections 790D and 790E substitute—
 
 > **790CB. Duty to find out about persons with significant control**
 >
@@ -446,14 +446,14 @@ Section 51
 >
 > (2) The notice must be given within the period of 14 days beginning with the day on which the person complied with the notice under section 790D, 790DA, 790E or 790EA.
 
-**11.**[^key-2801a16319515e135ad230a6234ca483] In section 790F (failure by company to comply with information duties), for subsection (1) substitute—
+**11.**[^c-2801a16319515e135ad230a6234ca483] In section 790F (failure by company to comply with information duties), for subsection (1) substitute—
 
 > (1) If a company fails, without reasonable excuse, to comply with a duty under section 790CB, 790D, 790DA(3), 790E, 790EA, 790EB or 790EC to take steps or give a notice, an offence is committed by—
 >
 > - (a) the company, and
 > - (b) every officer of the company who is in default.
 
-**12.**[^key-9b0b766fd655df5665689bbf7fd20735][^key-439bfea104fd565808f1a2f18cdc3e4c] For sections 790G and 790H substitute—
+**12.**[^c-9b0b766fd655df5665689bbf7fd20735][^c-439bfea104fd565808f1a2f18cdc3e4c] For sections 790G and 790H substitute—
 
 > **790G. Duty to notify company on becoming PSC**
 >
@@ -502,14 +502,14 @@ Section 51
 >
 > (3) The person must comply with the duty in subsection (2) before the end of the period of one month beginning with the day on which the conditions in subsection (1) are met.
 
-**13.**[^key-24397b8eaf52185256094fbba276c073][^key-b3a813f9cf954c8e7039139a01873626] In section 790I (enforcement of disclosure requirements), for the words from “a notice” to the end substitute
+**13.**[^c-24397b8eaf52185256094fbba276c073][^c-b3a813f9cf954c8e7039139a01873626] In section 790I (enforcement of disclosure requirements), for the words from “a notice” to the end substitute
 
 > —
 >
 > - (a) a notice under section 790D, 790DA, 790E or 790EA, or
 > - (b) a duty under section 790G, 790H or 790HA.
 
-**14.**[^key-908597e40a5d3d05f504ee0fe1053a04][^key-a077754248c270e7ba8ee484a6dba857] After section 790I insert—
+**14.**[^c-908597e40a5d3d05f504ee0fe1053a04][^c-a077754248c270e7ba8ee484a6dba857] After section 790I insert—
 
 > **Power to impose further duties**
 >
@@ -536,14 +536,14 @@ Section 51
 >
 > (5) Regulations under this section are subject to affirmative resolution procedure.
 
-**15.**[^key-e5c64df748b23a13c318b0ff94be1b03][^key-50d1c5f95e4db2d6db53019ded7d0120] In section 790J (power to make exemptions)—
+**15.**[^c-e5c64df748b23a13c318b0ff94be1b03][^c-50d1c5f95e4db2d6db53019ded7d0120] In section 790J (power to make exemptions)—
 
 - (a) in subsection (2)(a), for “790D(2) or 790E” substitute “790D, 790E or 790EA”;
 - (b) in subsection (2)(c), for “790D(5)” substitute “790DA”;
 - (c) in subsection (2)(d), for “and 790H” substitute “, 790H and 790HA”;
 - (d) in subsection (2)(e) for “section 790M” substitute “any of sections 12A, 790LA, 790LC, 790LD, 790LE, 790LF, 790LG, 790LH”.”
 
-**16.**[^key-0552746a1baf4cbb25883ab922a2af85][^key-b1e74c7a2bf42366d0f9ae49eeb04624] (1) Section 790K (required particulars) is amended as follows.
+**16.**[^c-0552746a1baf4cbb25883ab922a2af85][^c-b1e74c7a2bf42366d0f9ae49eeb04624] (1) Section 790K (required particulars) is amended as follows.
 
 (2) In subsection (1), omit paragraph (i) and the “and” before it.
 
@@ -568,7 +568,7 @@ Section 51
 >
 > (4A) Where an individual is a peer or an individual usually known by a title, any requirement imposed by this Act to provide the individual’s name because it forms part of the required particulars under this section may be satisfied by providing that title instead of the individual’s forename and surname.
 
-**17.**[^key-9202fd92964ae08bd995464832b2a049][^key-cd8ea5ab78d8b61e94ba567c4e97dc53] In section 790L (required particulars: power to amend), for subsection (1) substitute—
+**17.**[^c-9202fd92964ae08bd995464832b2a049][^c-cd8ea5ab78d8b61e94ba567c4e97dc53] In section 790L (required particulars: power to amend), for subsection (1) substitute—
 
 > (1) The Secretary of State may by regulations—
 >
@@ -578,7 +578,7 @@ Section 51
 >   - (iii) a registrable relevant legal entity;
 > - (b) repeal section 790K(4A).
 
-**18.**[^key-b925cbe866dec0c12015cfffa038033a][^key-5ebd492d10f5c3499ac657e88557f87d][^key-abcb320a2b87d7503dfdae0ae1a67964] After section 790L insert—
+**18.**[^c-b925cbe866dec0c12015cfffa038033a][^c-5ebd492d10f5c3499ac657e88557f87d][^c-abcb320a2b87d7503dfdae0ae1a67964] After section 790L insert—
 
 > **CHAPTER 2A — Duty to notify registrar of persons with significant control and ID verification**
 >
@@ -765,9 +765,9 @@ Section 51
 >
 > (5) Subsection (1) does not apply in relation to information if the company is aware that, by virtue of regulations under section 1088, the registrar is required to refrain from making that information available for public inspection.
 
-**19.**[^key-5c4dcd7dd385799ac94d34fc7d68435f][^key-ae0c375402a8df3e9797ee72681ecafa] Omit Chapters 3 and 4 of Part 21A (company registers of people with significant control etc).
+**19.**[^c-5c4dcd7dd385799ac94d34fc7d68435f][^c-ae0c375402a8df3e9797ee72681ecafa] Omit Chapters 3 and 4 of Part 21A (company registers of people with significant control etc).
 
-**20.**[^key-5c355c8d82eb7fc76f3c9cdea6c5e6ea][^key-4acb63f2bcf1d94f1e8e773008ffd874] (1) Schedule 1B (enforcement of disclosure requirements in relation to persons with significant control) is amended as follows.
+**20.**[^c-5c355c8d82eb7fc76f3c9cdea6c5e6ea][^c-4acb63f2bcf1d94f1e8e773008ffd874] (1) Schedule 1B (enforcement of disclosure requirements in relation to persons with significant control) is amended as follows.
 
 (2) In each of the following provisions, for “or 790E” substitute “, 790DA, 790E or 790EA”—
 
@@ -834,9 +834,9 @@ Section 51
 
 ### PART 4 — Consequential amendments
 
-**21.**[^key-7db4d66a67744f4f02e948b121db74f8][^key-4de5bd4e40083e6e08791fbae4b37a3e] The Companies Act 2006 is amended as follows.
+**21.**[^c-7db4d66a67744f4f02e948b121db74f8][^c-4de5bd4e40083e6e08791fbae4b37a3e] The Companies Act 2006 is amended as follows.
 
-**22.**[^key-bc5387f7caf282dc7d45512f33eb9d00][^key-4bed8761c31d5e446b762aaaefc14a8a] (1) Section 12 (statement of proposed officers) is amended as follows.
+**22.**[^c-bc5387f7caf282dc7d45512f33eb9d00][^c-4bed8761c31d5e446b762aaaefc14a8a] (1) Section 12 (statement of proposed officers) is amended as follows.
 
 (2) In subsection (1), for “particulars of” substitute “information about”.
 
@@ -847,14 +847,14 @@ Section 51
 > - (a) in relation to proposed directors, see sections 167J and 167K;
 > - (b) in relation to proposed secretaries or joint secretaries, see sections 279J and 279K.
 
-**23.**[^key-b268c7cdfdc3961829c2ad9ae5fb5ee5][^key-c8b787e08d24092bb200855613001e88] In section 12A (statement of initial significant control), for subsection (1) substitute—
+**23.**[^c-b268c7cdfdc3961829c2ad9ae5fb5ee5][^c-c8b787e08d24092bb200855613001e88] In section 12A (statement of initial significant control), for subsection (1) substitute—
 
 > (1) The statement of initial significant control required to be delivered to the registrar must—
 >
 > - (a) state whether, on incorporation, there will be anyone who is either a registrable person or a registrable relevant legal entity in relation to the company, and
 > - (b) include the required particulars of any such person.
 
-**24.**[^key-c9493e498df13e1f0acb8507cf0f4d23][^key-caca2e510e072ea8606190a425a39a50] (1) Section 95 (statement of proposed secretary) is amended as follows.
+**24.**[^c-c9493e498df13e1f0acb8507cf0f4d23][^c-caca2e510e072ea8606190a425a39a50] (1) Section 95 (statement of proposed secretary) is amended as follows.
 
 (2) In subsection (1), for “particulars of” substitute “information about”.
 
@@ -862,7 +862,7 @@ Section 51
 
 > (2) For the required information in relation to proposed secretaries or joint secretaries, see sections 279J and 279K.
 
-**25.**[^key-919a784f7619b2032314b3a8445bb862][^key-fe6e4a2b93e7b0ce941410c203252ed5] (1) Section 156 (direction requiring company to make appointment of director) is amended as follows.
+**25.**[^c-919a784f7619b2032314b3a8445bb862][^c-fe6e4a2b93e7b0ce941410c203252ed5] (1) Section 156 (direction requiring company to make appointment of director) is amended as follows.
 
 (2) In subsections (4)(b) and (5), for “section 167” substitute “section 167G”.
 
@@ -870,13 +870,13 @@ Section 51
 
 > (5A) Nothing in subsection (4) or (5) affects the duty imposed by section 167G to give notice within the period mentioned in subsection (6) of that section.
 
-**26.**[^key-5d94c42474211b7a123e9ea025ddca10][^key-5b318eb65f2eb28e2e7ba6519cbcf2c6] In section 156B (power to provide for exceptions from requirement that each director to be a natural person), omit subsection (5).
+**26.**[^c-5d94c42474211b7a123e9ea025ddca10][^c-5b318eb65f2eb28e2e7ba6519cbcf2c6] In section 156B (power to provide for exceptions from requirement that each director to be a natural person), omit subsection (5).
 
-**27.**[^key-101fff85f25d2932199d8a32434c7aee][^key-e2ca26de1693d7b15280db7a66a46096] In section 156C (existing director who is not a natural person), for subsections (3) to (5) substitute—
+**27.**[^c-101fff85f25d2932199d8a32434c7aee][^c-e2ca26de1693d7b15280db7a66a46096] In section 156C (existing director who is not a natural person), for subsections (3) to (5) substitute—
 
 > (3) If it appears to the registrar that, as a result of subsection (2), a company should have given notice under section 167G of a person having ceased to be a director but has failed to do so, the registrar must include a note in the register recording that fact.
 
-**28.**[^key-9ca4c8dae32b5225095c3e028104de3b][^key-658c0f3fb061fb0bc398964876e3329b] In section 853B (duties to notify a relevant event)—
+**28.**[^c-9ca4c8dae32b5225095c3e028104de3b][^c-658c0f3fb061fb0bc398964876e3329b] In section 853B (duties to notify a relevant event)—
 
 - (a) for paragraph (c) substitute—
 
@@ -896,9 +896,9 @@ Section 51
 
   .
 
-**29.**[^key-2160b70bfd836b5810367bc72db225f4][^key-81b19b4b4e633011bc2893d804e2d740] In section 1079B (duty to notify directors), in subsections (1)(b) and (2)(b), for “section 167 or 167D” substitute “section 167G”.
+**29.**[^c-2160b70bfd836b5810367bc72db225f4][^c-81b19b4b4e633011bc2893d804e2d740] In section 1079B (duty to notify directors), in subsections (1)(b) and (2)(b), for “section 167 or 167D” substitute “section 167G”.
 
-**30.**[^key-1cd154202016dcae697a65463a27af77][^key-5a24d88089d948907493b49e34f03543] In section 1136 (regulations about where certain company records to be kept available for inspection), in subsection (2), omit—
+**30.**[^c-1cd154202016dcae697a65463a27af77][^c-5a24d88089d948907493b49e34f03543] In section 1136 (regulations about where certain company records to be kept available for inspection), in subsection (2), omit—
 
 > - section 162 (register of directors);
 
@@ -910,12 +910,12 @@ Section 51
 
 .
 
-**31.**[^key-2e1e4c51b215fc58a825b44447bff2ee][^key-f4ea3ce1990cc9c7f0a915b460b42740] In paragraph 4 of Schedule 5 (communications by a company)—
+**31.**[^c-2e1e4c51b215fc58a825b44447bff2ee][^c-f4ea3ce1990cc9c7f0a915b460b42740] In paragraph 4 of Schedule 5 (communications by a company)—
 
 - (a) in sub-paragraph (1)(d), for “the company’s register of directors” substitute “the register”;
 - (b) omit sub-paragraph (1A).
 
-**32.**[^key-c269787be930228fa0d686e72e6b0fff][^key-e80fbf703148d51c0606a5625d5fd7fb] In Schedule 8 (index of defined expressions), omit the entries relating to—
+**32.**[^c-c269787be930228fa0d686e72e6b0fff][^c-e80fbf703148d51c0606a5625d5fd7fb] In Schedule 8 (index of defined expressions), omit the entries relating to—
 
 - “the central register”;
 - “PSC register”;
@@ -925,144 +925,144 @@ Section 51
 
 ## Annotations
 
-[^key-986e836b37211b9d610565753f69d0a3]: Commencement: Sch. 2 para. 1 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-986e836b37211b9d610565753f69d0a3]: Commencement: Sch. 2 para. 1 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-bded29c10a2009b58d7167ffe7f11202]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/1) in force at 4.3.2024 for specified purposes by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z10)
+[^c-bded29c10a2009b58d7167ffe7f11202]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/1) in force at 4.3.2024 for specified purposes by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z10)
 
-[^key-f3267a5670f6d06234717fe1ecab18ca]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/1) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-f3267a5670f6d06234717fe1ecab18ca]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/1) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-7480a9db0d3498af58562fd47938bffe]: Commencement: Sch. 2 para. 2 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-7480a9db0d3498af58562fd47938bffe]: Commencement: Sch. 2 para. 2 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-fbbccb38c159b50872f82b595196b842]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/2) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-fbbccb38c159b50872f82b595196b842]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/2) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-14d9359167392ad7874c5e123aed3c50]: Commencement: Sch. 2 para. 3 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-14d9359167392ad7874c5e123aed3c50]: Commencement: Sch. 2 para. 3 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-995487bf7252b8c4ca631d20b44574be]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/3) in force at 4.3.2024 for specified purposes by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z10)
+[^c-995487bf7252b8c4ca631d20b44574be]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/3) in force at 4.3.2024 for specified purposes by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z10)
 
-[^key-4ec2bf31362f786f2fe1bfcc58f6ec70]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/3) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1118/regulation/6))
+[^c-4ec2bf31362f786f2fe1bfcc58f6ec70]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/3) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1118/regulation/6))
 
-[^key-10e554f2992188f19286cc3b41b7eb52]: Commencement: Sch. 2 para. 4 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-10e554f2992188f19286cc3b41b7eb52]: Commencement: Sch. 2 para. 4 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-ab682664c89d732225b6a3f87a4de81f]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/4) in force at 4.3.2024 for specified purposes by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z10)
+[^c-ab682664c89d732225b6a3f87a4de81f]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/4) in force at 4.3.2024 for specified purposes by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z10)
 
-[^key-d0a5e9e4f2a03b24cd332b4508b7dba3]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/4) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-d0a5e9e4f2a03b24cd332b4508b7dba3]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/4) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-4b9c4aedb64a6621469f449faebed7e3]: Commencement: Sch. 2 para. 5 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-4b9c4aedb64a6621469f449faebed7e3]: Commencement: Sch. 2 para. 5 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-b9dfd61c1ad98d30b4075c9657a19bb7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/5) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-b9dfd61c1ad98d30b4075c9657a19bb7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/5) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-2cfe6c0adfc16d4262c46eeed276065a]: Commencement: Sch. 2 para. 6 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-2cfe6c0adfc16d4262c46eeed276065a]: Commencement: Sch. 2 para. 6 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-2422168b5d0422c9320fb46643e458a2]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/6) in force at 4.3.2024 for specified purposes by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z10)
+[^c-2422168b5d0422c9320fb46643e458a2]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/6) in force at 4.3.2024 for specified purposes by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z10)
 
-[^key-90b8b06bcd166ac3d1f3031145e2b17d]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/6) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1118/regulation/6))
+[^c-90b8b06bcd166ac3d1f3031145e2b17d]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/6) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1118/regulation/6))
 
-[^key-1e3f8bc2b0d5854a6c8967f98f7ddba2]: Commencement: Sch. 2 para. 7 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-1e3f8bc2b0d5854a6c8967f98f7ddba2]: Commencement: Sch. 2 para. 7 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
 [^M_I_8239ceaf-f50e-4197-a5bd-80db4c3938a4]: Commencement: Sch. 2 para. 7 in force at 4.3.2024 for specified purposes by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z10)
 
-[^key-bc0b743b2949a32844c6647270685052]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/7) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-bc0b743b2949a32844c6647270685052]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/7) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-64b03fb816e36bbbebb10398eff4f67e]: Commencement: Sch. 2 para. 8 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-64b03fb816e36bbbebb10398eff4f67e]: Commencement: Sch. 2 para. 8 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-34c46353714b0bdb483aa0240b7e5256]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/8) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-34c46353714b0bdb483aa0240b7e5256]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/8) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-82397cbb83956af50e94158029e6bf98]: Commencement: Sch. 2 para. 9 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-82397cbb83956af50e94158029e6bf98]: Commencement: Sch. 2 para. 9 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-60bfdcdd9f3e35445577793c9e95b228]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/9) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-60bfdcdd9f3e35445577793c9e95b228]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/9) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-9a03602a2bba746dbaf88f2fb091d514]: Commencement: Sch. 2 para. 10 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-9a03602a2bba746dbaf88f2fb091d514]: Commencement: Sch. 2 para. 10 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-dc16f18423935c8b8333ea669a68cc1b]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/10) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-dc16f18423935c8b8333ea669a68cc1b]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/10) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-dcf0e2d55cab58cb65b7becb800e94ac]: Commencement: Sch. 2 para. 11 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-dcf0e2d55cab58cb65b7becb800e94ac]: Commencement: Sch. 2 para. 11 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-92d2a7f244f91e21de5d3f3e94fadbe5]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/11) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2025/1118/regulation/7))
+[^c-92d2a7f244f91e21de5d3f3e94fadbe5]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/11) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2025/1118/regulation/7))
 
-[^key-2801a16319515e135ad230a6234ca483]: Commencement: Sch. 2 para. 11 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-2801a16319515e135ad230a6234ca483]: Commencement: Sch. 2 para. 11 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-9b0b766fd655df5665689bbf7fd20735]: Commencement: Sch. 2 para. 12 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-9b0b766fd655df5665689bbf7fd20735]: Commencement: Sch. 2 para. 12 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-439bfea104fd565808f1a2f18cdc3e4c]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/12) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-439bfea104fd565808f1a2f18cdc3e4c]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/12) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-24397b8eaf52185256094fbba276c073]: Commencement: Sch. 2 para. 13 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-24397b8eaf52185256094fbba276c073]: Commencement: Sch. 2 para. 13 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-b3a813f9cf954c8e7039139a01873626]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/13) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-b3a813f9cf954c8e7039139a01873626]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/13) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-908597e40a5d3d05f504ee0fe1053a04]: Commencement: Sch. 2 para. 14 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-908597e40a5d3d05f504ee0fe1053a04]: Commencement: Sch. 2 para. 14 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-a077754248c270e7ba8ee484a6dba857]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/14) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-a077754248c270e7ba8ee484a6dba857]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/14) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-e5c64df748b23a13c318b0ff94be1b03]: Commencement: Sch. 2 para. 15 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-e5c64df748b23a13c318b0ff94be1b03]: Commencement: Sch. 2 para. 15 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-50d1c5f95e4db2d6db53019ded7d0120]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/15) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-50d1c5f95e4db2d6db53019ded7d0120]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/15) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-0552746a1baf4cbb25883ab922a2af85]: Commencement: Sch. 2 para. 16 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-0552746a1baf4cbb25883ab922a2af85]: Commencement: Sch. 2 para. 16 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-b1e74c7a2bf42366d0f9ae49eeb04624]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/16) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-b1e74c7a2bf42366d0f9ae49eeb04624]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/16) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-9202fd92964ae08bd995464832b2a049]: Commencement: Sch. 2 para. 17 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-9202fd92964ae08bd995464832b2a049]: Commencement: Sch. 2 para. 17 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-cd8ea5ab78d8b61e94ba567c4e97dc53]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/17) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-cd8ea5ab78d8b61e94ba567c4e97dc53]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/17) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-b925cbe866dec0c12015cfffa038033a]: Commencement: Sch. 2 para. 18 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-b925cbe866dec0c12015cfffa038033a]: Commencement: Sch. 2 para. 18 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-5ebd492d10f5c3499ac657e88557f87d]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/18) in force at 4.3.2024 for specified purposes by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z10)
+[^c-5ebd492d10f5c3499ac657e88557f87d]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/18) in force at 4.3.2024 for specified purposes by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z10)
 
-[^key-abcb320a2b87d7503dfdae0ae1a67964]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/18) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2025/1118/regulation/7))
+[^c-abcb320a2b87d7503dfdae0ae1a67964]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/18) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2025/1118/regulation/7))
 
-[^key-5c4dcd7dd385799ac94d34fc7d68435f]: Commencement: Sch. 2 para. 19 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-5c4dcd7dd385799ac94d34fc7d68435f]: Commencement: Sch. 2 para. 19 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-ae0c375402a8df3e9797ee72681ecafa]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/19) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-ae0c375402a8df3e9797ee72681ecafa]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/19) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-5c355c8d82eb7fc76f3c9cdea6c5e6ea]: Commencement: Sch. 2 para. 20 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-5c355c8d82eb7fc76f3c9cdea6c5e6ea]: Commencement: Sch. 2 para. 20 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-4acb63f2bcf1d94f1e8e773008ffd874]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/20) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-4acb63f2bcf1d94f1e8e773008ffd874]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/20) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-7db4d66a67744f4f02e948b121db74f8]: Commencement: Sch. 2 para. 21 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-7db4d66a67744f4f02e948b121db74f8]: Commencement: Sch. 2 para. 21 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-4de5bd4e40083e6e08791fbae4b37a3e]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/21) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-4de5bd4e40083e6e08791fbae4b37a3e]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/21) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-bc5387f7caf282dc7d45512f33eb9d00]: Commencement: Sch. 2 para. 22 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-bc5387f7caf282dc7d45512f33eb9d00]: Commencement: Sch. 2 para. 22 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-4bed8761c31d5e446b762aaaefc14a8a]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/22) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-4bed8761c31d5e446b762aaaefc14a8a]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/22) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-b268c7cdfdc3961829c2ad9ae5fb5ee5]: Commencement: Sch. 2 para. 23 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-b268c7cdfdc3961829c2ad9ae5fb5ee5]: Commencement: Sch. 2 para. 23 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-c8b787e08d24092bb200855613001e88]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/23) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-c8b787e08d24092bb200855613001e88]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/23) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-c9493e498df13e1f0acb8507cf0f4d23]: Commencement: Sch. 2 para. 24 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-c9493e498df13e1f0acb8507cf0f4d23]: Commencement: Sch. 2 para. 24 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-caca2e510e072ea8606190a425a39a50]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/24) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-caca2e510e072ea8606190a425a39a50]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/24) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-919a784f7619b2032314b3a8445bb862]: Commencement: Sch. 2 para. 25 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-919a784f7619b2032314b3a8445bb862]: Commencement: Sch. 2 para. 25 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-fe6e4a2b93e7b0ce941410c203252ed5]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/25) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-fe6e4a2b93e7b0ce941410c203252ed5]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/25) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-5d94c42474211b7a123e9ea025ddca10]: Commencement: Sch. 2 para. 26 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-5d94c42474211b7a123e9ea025ddca10]: Commencement: Sch. 2 para. 26 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-5b318eb65f2eb28e2e7ba6519cbcf2c6]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/26) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-5b318eb65f2eb28e2e7ba6519cbcf2c6]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/26) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-101fff85f25d2932199d8a32434c7aee]: Commencement: Sch. 2 para. 27 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-101fff85f25d2932199d8a32434c7aee]: Commencement: Sch. 2 para. 27 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-e2ca26de1693d7b15280db7a66a46096]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/27) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-e2ca26de1693d7b15280db7a66a46096]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/27) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-9ca4c8dae32b5225095c3e028104de3b]: Commencement: Sch. 2 para. 28 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-9ca4c8dae32b5225095c3e028104de3b]: Commencement: Sch. 2 para. 28 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-658c0f3fb061fb0bc398964876e3329b]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/28) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-658c0f3fb061fb0bc398964876e3329b]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/28) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-2160b70bfd836b5810367bc72db225f4]: Commencement: Sch. 2 para. 29 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-2160b70bfd836b5810367bc72db225f4]: Commencement: Sch. 2 para. 29 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-81b19b4b4e633011bc2893d804e2d740]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/29) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-81b19b4b4e633011bc2893d804e2d740]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/29) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-1cd154202016dcae697a65463a27af77]: Commencement: Sch. 2 para. 30 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-1cd154202016dcae697a65463a27af77]: Commencement: Sch. 2 para. 30 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-5a24d88089d948907493b49e34f03543]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/30) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-5a24d88089d948907493b49e34f03543]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/30) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-2e1e4c51b215fc58a825b44447bff2ee]: Commencement: Sch. 2 para. 31 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-2e1e4c51b215fc58a825b44447bff2ee]: Commencement: Sch. 2 para. 31 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-f4ea3ce1990cc9c7f0a915b460b42740]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/31) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-f4ea3ce1990cc9c7f0a915b460b42740]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/31) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-c269787be930228fa0d686e72e6b0fff]: Commencement: Sch. 2 para. 32 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-c269787be930228fa0d686e72e6b0fff]: Commencement: Sch. 2 para. 32 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-e80fbf703148d51c0606a5625d5fd7fb]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/32) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-e80fbf703148d51c0606a5625d5fd7fb]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/32) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)

@@ -91,7 +91,7 @@ Sections 13, 22 and 24.
 | Hawkweed, Weak-leaved | Hieracium attenuatifolium |
 | Heath, Blue | Phyllodoce caerulea |
 | Helleborine, Red | Cephalanthera rubra |
-| Helleborine, Young’s *(Extent: E+W)* *(affected by repeal, see note)*[^key-f7d9cb3fc047d781a61364e7006acd25] | Epipactis youngiana *(Extent: E+W)* *(affected by repeal, see note)*[^key-f7d9cb3fc047d781a61364e7006acd25] |
+| Helleborine, Young’s *(Extent: E+W)* *(affected by repeal, see note)*[^c-f7d9cb3fc047d781a61364e7006acd25] | Epipactis youngiana *(Extent: E+W)* *(affected by repeal, see note)*[^c-f7d9cb3fc047d781a61364e7006acd25] |
 | Horsetail, Branched | Equisetum ramosissimum |
 | Hound’s-tongue, Green | Cynoglossum germanicum |
 | Knawel, Perennial | Scleranthus perennis |
@@ -99,7 +99,7 @@ Sections 13, 22 and 24.
 | Lady’s-slipper *(affected by repeal, see note)*[^c19500011] (in respect of section 13(2) only)[^c19501561] *(affected by repeal, see note)*[^c19500011] | Cypripedium calceolus *(affected by repeal, see note)*[^c19500011] |
 | [^c4958941]. . . | [^c4958941]. . . |
 | [^c4958941]. . . | [^c4958941]. . . |
-| Lecanactis, Churchyard *(Extent: E+W)* *(affected by repeal, see note)*[^key-f7d9cb3fc047d781a61364e7006acd25] | Lecanactis hemisphaerica *(Extent: E+W)* *(affected by repeal, see note)*[^key-f7d9cb3fc047d781a61364e7006acd25] |
+| Lecanactis, Churchyard *(Extent: E+W)* *(affected by repeal, see note)*[^c-f7d9cb3fc047d781a61364e7006acd25] | Lecanactis hemisphaerica *(Extent: E+W)* *(affected by repeal, see note)*[^c-f7d9cb3fc047d781a61364e7006acd25] |
 | Lecanora, Tarn | Lecanora archariana |
 | Lecidea, Copper | Lecidea inops |
 | Leek, Round-headed | Allium sphaerocephalon |
@@ -129,7 +129,7 @@ Sections 13, 22 and 24.
 | Moss, Cordate Beard | Barbula cordata |
 | Moss, Cornish Path | Ditrichum cornubicum |
 | Moss, Derbyshire Feather | Thamnobryum angustifolium |
-| Moss, Dune Thread *(Extent: E+W)* *(affected by repeal, see note)*[^key-f7d9cb3fc047d781a61364e7006acd25] | Bryum mamillatum *(Extent: E+W)* *(affected by repeal, see note)*[^key-f7d9cb3fc047d781a61364e7006acd25] |
+| Moss, Dune Thread *(Extent: E+W)* *(affected by repeal, see note)*[^c-f7d9cb3fc047d781a61364e7006acd25] | Bryum mamillatum *(Extent: E+W)* *(affected by repeal, see note)*[^c-f7d9cb3fc047d781a61364e7006acd25] |
 | Moss, Flamingo | Desmatodon cernuus |
 | Moss, Glaucous Beard | Barbula glauca |
 | Moss, Green Shield | Buxbaumia viridis |
@@ -179,7 +179,7 @@ Sections 13, 22 and 24.
 | Restharrow, Small | Ononis reclinata |
 | Rock-cress, Alpine | Arabis alpina |
 | Rock-cress, Bristol | Arabis stricta |
-| Rock Nail *(Extent: E+W)*[^key-88b9ffda2e5d699c30be8dc44ca3cb45] | Calicium corynellum *(Extent: E+W)* |
+| Rock Nail *(Extent: E+W)*[^c-88b9ffda2e5d699c30be8dc44ca3cb45] | Calicium corynellum *(Extent: E+W)* |
 | Rustworth, Western | Marsupella profunda |
 | Sandwort, Norwegian | Arenaria norvegica |
 | Sandwort, Teesdale | Minuartia stricta |
@@ -201,7 +201,7 @@ Sections 13, 22 and 24.
 | Stonewort, Foxtail | Lamprothamnium papulosum |
 | Strapwort | Corrigiola litoralis |
 | Sulphur-tresses, Alpine | Alectoria ochroleuca |
-| Threadmoss, Long-leaved *(Extent: E+W)* *(affected by repeal, see note)*[^key-f7d9cb3fc047d781a61364e7006acd25] | Bryum neodamense *(Extent: E+W)* *(affected by repeal, see note)*[^key-f7d9cb3fc047d781a61364e7006acd25] |
+| Threadmoss, Long-leaved *(Extent: E+W)* *(affected by repeal, see note)*[^c-f7d9cb3fc047d781a61364e7006acd25] | Bryum neodamense *(Extent: E+W)* *(affected by repeal, see note)*[^c-f7d9cb3fc047d781a61364e7006acd25] |
 | Tree Lungwort (in respect of section 13(2) only) *(Extent: E+W)* | Lobaria pulmonaria *(Extent: E+W)* |
 | Turpswort | Geocalyx graveolens |
 | Violet, Fen | Viola persicifolia |
@@ -233,7 +233,7 @@ Note. The common name or names given in the first column of this Schedule are in
 
 [^c19501271]: Textual amendment: Sch. 8: words in entry inserted (E.W.) (21.8.2007) by [The Conservation (Natural Habitats, &c.) (Amendment) Regulations 2007 (S.I. 2007/1843)](https://www.legislation.gov.uk/uksi/2007/1843), [reg. 7(8)(c)](https://www.legislation.gov.uk/uksi/2007/1843/regulation/7/8/c)
 
-[^key-f7d9cb3fc047d781a61364e7006acd25]: Textual amendment: Entries in Sch. 8 omitted (E.W.) (1.10.2011) by virtue of [The Wildlife and Countryside Act 1981 (Variation of Schedules 5 and 8) (England and Wales) Order 2011 (S.I. 2011/2015)](https://www.legislation.gov.uk/uksi/2011/2015), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2011/2015/article/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2011/2015/article/3/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2015/schedule/4)
+[^c-f7d9cb3fc047d781a61364e7006acd25]: Textual amendment: Entries in Sch. 8 omitted (E.W.) (1.10.2011) by virtue of [The Wildlife and Countryside Act 1981 (Variation of Schedules 5 and 8) (England and Wales) Order 2011 (S.I. 2011/2015)](https://www.legislation.gov.uk/uksi/2011/2015), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2011/2015/article/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2011/2015/article/3/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2015/schedule/4)
 
 [^c19501561]: Textual amendment: Sch. 8: words in entry inserted (E.W.) (21.8.2007) by [The Conservation (Natural Habitats, &c.) (Amendment) Regulations 2007 (S.I. 2007/1843)](https://www.legislation.gov.uk/uksi/2007/1843), [reg. 7(8)(d)](https://www.legislation.gov.uk/uksi/2007/1843/regulation/7/8/d)
 
@@ -247,6 +247,6 @@ Note. The common name or names given in the first column of this Schedule are in
 
 [^c19503041]: Textual amendment: Sch. 8: words in entry inserted (E.W.) (21.8.2007) by [The Conservation (Natural Habitats, &c.) (Amendment) Regulations 2007 (S.I. 2007/1843)](https://www.legislation.gov.uk/uksi/2007/1843), [reg. 7(8)(h)](https://www.legislation.gov.uk/uksi/2007/1843/regulation/7/8/h)
 
-[^key-88b9ffda2e5d699c30be8dc44ca3cb45]: Textual amendment: Entries in Sch. 8 inserted (E.W.) (1.10.2011) by [The Wildlife and Countryside Act 1981 (Variation of Schedules 5 and 8) (England and Wales) Order 2011 (S.I. 2011/2015)](https://www.legislation.gov.uk/uksi/2011/2015), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2011/2015/article/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2011/2015/article/3/2) ,[Sch. 3](https://www.legislation.gov.uk/uksi/2011/2015/schedule/3)
+[^c-88b9ffda2e5d699c30be8dc44ca3cb45]: Textual amendment: Entries in Sch. 8 inserted (E.W.) (1.10.2011) by [The Wildlife and Countryside Act 1981 (Variation of Schedules 5 and 8) (England and Wales) Order 2011 (S.I. 2011/2015)](https://www.legislation.gov.uk/uksi/2011/2015), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2011/2015/article/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2011/2015/article/3/2) ,[Sch. 3](https://www.legislation.gov.uk/uksi/2011/2015/schedule/3)
 
 [^c19503171]: Textual amendment: Sch. 8: words in entry inserted (E.W.) (21.8.2007) by [The Conservation (Natural Habitats, &c.) (Amendment) Regulations 2007 (S.I. 2007/1843)](https://www.legislation.gov.uk/uksi/2007/1843), [reg. 7(8)(i)](https://www.legislation.gov.uk/uksi/2007/1843/regulation/7/8/i)

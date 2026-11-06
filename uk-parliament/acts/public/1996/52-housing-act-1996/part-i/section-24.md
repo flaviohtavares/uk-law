@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. The disposal proceeds fund.[^key-bcc4de4b63b84d4016bb4cab11849948][^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^c13148381]
+## 24. The disposal proceeds fund.[^c-bcc4de4b63b84d4016bb4cab11849948][^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^c13148381]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bcc4de4b63b84d4016bb4cab11849948]: Textual amendment: S. 24 omitted (15.8.2018) by virtue of [Regulation of Registered Social Landlords (Wales) Act 2018 (anaw 4)](https://www.legislation.gov.uk/anaw/2018/4), [ss. 15(a)](https://www.legislation.gov.uk/anaw/2018/4/section/15/a), [19(2)](https://www.legislation.gov.uk/anaw/2018/4/section/19/2); [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(e)](https://www.legislation.gov.uk/wsi/2018/777/article/3/e) (with [art. 4](https://www.legislation.gov.uk/wsi/2018/777/article/4))
+[^c-bcc4de4b63b84d4016bb4cab11849948]: Textual amendment: S. 24 omitted (15.8.2018) by virtue of [Regulation of Registered Social Landlords (Wales) Act 2018 (anaw 4)](https://www.legislation.gov.uk/anaw/2018/4), [ss. 15(a)](https://www.legislation.gov.uk/anaw/2018/4/section/15/a), [19(2)](https://www.legislation.gov.uk/anaw/2018/4/section/19/2); [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(e)](https://www.legislation.gov.uk/wsi/2018/777/article/3/e) (with [art. 4](https://www.legislation.gov.uk/wsi/2018/777/article/4))
 
 [^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8]: Modification: Pt. 1: The system of "registered social landlords" under this Part is replaced (8.9.2008 for specified purposes and 1.12.2008, 16.2.2009, 1.4.2009, 7.9.2009 and 1.4.2010 for further purposes) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), Pt. 2. This Part continues to apply in relation to Wales with certain provisions applied in relation to England and certain provisions preserved although they apply to England only, see s. 60 of the affecting Act; [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), art. 3; [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), art. 3 (with arts. 6-13); [S.I. 2009/363](https://www.legislation.gov.uk/uksi/2009/363), art. 2; [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), art. 7; [S.I. 2009/2096](https://www.legislation.gov.uk/uksi/2009/2096), art. 2(1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), art. 2 (with Sch.)
 

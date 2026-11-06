@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Rules relating to central counterparties and central securities depositories[^key-5ee73da59c9296a188c246bfa2b77e08]
+## 9. Rules relating to central counterparties and central securities depositories[^c-5ee73da59c9296a188c246bfa2b77e08]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-fd5d9a527039a8dcccdb236a44fdc6d2] FSMA 2000 is amended as follows.
+(1)[^c-fd5d9a527039a8dcccdb236a44fdc6d2] FSMA 2000 is amended as follows.
 
-(2)[^key-fd5d9a527039a8dcccdb236a44fdc6d2] After section 300E (power to disallow excessive regulatory provision: supplementary) insert—
+(2)[^c-fd5d9a527039a8dcccdb236a44fdc6d2] After section 300E (power to disallow excessive regulatory provision: supplementary) insert—
 
 > **General rule-making powers**
 >
@@ -105,16 +105,16 @@ summary: ''
 >
 > (14) The Treasury may by regulations provide for other provisions of this Act to apply in relation to third country central counterparties, or third country CSDs, to which rules under section 300F apply, with such modifications as may be specified in the regulations.
 
-(3)[^key-fd5d9a527039a8dcccdb236a44fdc6d2] In section 165 (regulators’ power to require information: authorised persons etc) omit subsection (8A).
+(3)[^c-fd5d9a527039a8dcccdb236a44fdc6d2] In section 165 (regulators’ power to require information: authorised persons etc) omit subsection (8A).
 
-(4)[^key-fd5d9a527039a8dcccdb236a44fdc6d2] In section 165A (PRA’s power to require information: financial stability) omit subsection (7A).
+(4)[^c-fd5d9a527039a8dcccdb236a44fdc6d2] In section 165A (PRA’s power to require information: financial stability) omit subsection (7A).
 
-(5)[^key-fd5d9a527039a8dcccdb236a44fdc6d2] In section 293 (notification requirements)—
+(5)[^c-fd5d9a527039a8dcccdb236a44fdc6d2] In section 293 (notification requirements)—
 
 - (a) in subsection (7A) at the end insert “and a third country central counterparty”;
 - (b) in subsection (8) for “or an overseas clearing house” substitute “, an overseas clearing house or a third country central counterparty”.
 
-(6)[^key-dcca0b7b66fe7cf5d1625943b8042f30] In section 417(1) (definitions), at the appropriate place insert—
+(6)[^c-dcca0b7b66fe7cf5d1625943b8042f30] In section 417(1) (definitions), at the appropriate place insert—
 
 > - “**Financial Stability Objective**” means the objective set out in section 2A of the Bank of England Act 1998;
 
@@ -122,8 +122,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5ee73da59c9296a188c246bfa2b77e08]: Commencement: S. 9 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-5ee73da59c9296a188c246bfa2b77e08]: Commencement: S. 9 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-fd5d9a527039a8dcccdb236a44fdc6d2]: Commencement: [S. 9(1)-(5)](https://www.legislation.gov.uk/ukpga/2023/29/section/9/1) in force at 1.1.2024 at 1.00 a.m. by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/a)
+[^c-fd5d9a527039a8dcccdb236a44fdc6d2]: Commencement: [S. 9(1)-(5)](https://www.legislation.gov.uk/ukpga/2023/29/section/9/1) in force at 1.1.2024 at 1.00 a.m. by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/a)
 
-[^key-dcca0b7b66fe7cf5d1625943b8042f30]: Commencement: [S. 9(6)](https://www.legislation.gov.uk/ukpga/2023/29/section/9/6) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/f)
+[^c-dcca0b7b66fe7cf5d1625943b8042f30]: Commencement: [S. 9(6)](https://www.legislation.gov.uk/ukpga/2023/29/section/9/6) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/f)

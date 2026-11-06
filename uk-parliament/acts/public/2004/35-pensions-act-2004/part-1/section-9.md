@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. The Determinations Panel[^key-8e0052d0b53012bb06df6ebd0b2fdc1b]
+## 9. The Determinations Panel[^c-8e0052d0b53012bb06df6ebd0b2fdc1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e0052d0b53012bb06df6ebd0b2fdc1b]: Commencement: S. 9 in force at 17.12.2004 by [S.I. 2004/3350](https://www.legislation.gov.uk/uksi/2004/3350), [art. 2](https://www.legislation.gov.uk/uksi/2004/3350/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/3350/schedule)
+[^c-8e0052d0b53012bb06df6ebd0b2fdc1b]: Commencement: S. 9 in force at 17.12.2004 by [S.I. 2004/3350](https://www.legislation.gov.uk/uksi/2004/3350), [art. 2](https://www.legislation.gov.uk/uksi/2004/3350/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/3350/schedule)

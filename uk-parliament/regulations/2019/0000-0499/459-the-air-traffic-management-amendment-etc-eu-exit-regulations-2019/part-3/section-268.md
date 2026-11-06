@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 268. Article 10 of Commission Implementing Regulation (EU) No 1206/2011[^key-9f4086332dfdcd80e8613768e158b03d]
+## 268. Article 10 of Commission Implementing Regulation (EU) No 1206/2011[^c-9f4086332dfdcd80e8613768e158b03d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In Article 10 (additional requirements for Member States)—
 
 ## Annotations
 
-[^key-9f4086332dfdcd80e8613768e158b03d]: Commencement: Reg. 268 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-9f4086332dfdcd80e8613768e158b03d]: Commencement: Reg. 268 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

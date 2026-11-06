@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34A. Approval requirement for coronavirus test devices[^key-15f4327f79e0fee06f6e8a9de725cd1a]
+## 34A. Approval requirement for coronavirus test devices[^c-15f4327f79e0fee06f6e8a9de725cd1a]
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to regulations 34B to 34D[^key-71aeb7d70ca65d97ca141d1d247dab0d], 39(1) and 39A, no person other than the Secretary of State may place on the market or put into service a coronavirus test device, unless—
+(1) Subject to regulations 34B to 34D[^c-71aeb7d70ca65d97ca141d1d247dab0d], 39(1) and 39A, no person other than the Secretary of State may place on the market or put into service a coronavirus test device, unless—
 
 - (a) the Secretary of State has approved it in accordance with regulation 38A(5); and
 - (b) the approval remains valid in accordance with regulation 38A(6).
 
-(2) Subject to regulations 34B to 34D[^key-bfc19c41dc3443ff0060428ea42a7406], 39(1) and 39A, no person other than the Secretary of State may supply a coronavirus test device—
+(2) Subject to regulations 34B to 34D[^c-bfc19c41dc3443ff0060428ea42a7406], 39(1) and 39A, no person other than the Secretary of State may supply a coronavirus test device—
 
 - (a) if that supply is also a placing on the market or putting into service of that device; or
 - (b) in circumstances where that device has been placed on the market or put into service,
@@ -36,8 +36,8 @@ unless the Secretary of State has approved it in accordance with regulation 38A(
 
 ## Annotations
 
-[^key-15f4327f79e0fee06f6e8a9de725cd1a]: Textual amendment: [Regs. 34A-34C](https://www.legislation.gov.uk/uksi/2002/618/regulation/34A) inserted (28.7.2021) by [The Medical Devices (Coronavirus Test Device Approvals) (Amendment) Regulations 2021 (S.I. 2021/910)](https://www.legislation.gov.uk/uksi/2021/910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/910/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2021/910/regulation/5)
+[^c-15f4327f79e0fee06f6e8a9de725cd1a]: Textual amendment: [Regs. 34A-34C](https://www.legislation.gov.uk/uksi/2002/618/regulation/34A) inserted (28.7.2021) by [The Medical Devices (Coronavirus Test Device Approvals) (Amendment) Regulations 2021 (S.I. 2021/910)](https://www.legislation.gov.uk/uksi/2021/910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/910/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2021/910/regulation/5)
 
-[^key-71aeb7d70ca65d97ca141d1d247dab0d]: Textual amendment: Words in reg. 34A(1) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/221/regulation/16)
+[^c-71aeb7d70ca65d97ca141d1d247dab0d]: Textual amendment: Words in reg. 34A(1) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/221/regulation/16)
 
-[^key-bfc19c41dc3443ff0060428ea42a7406]: Textual amendment: Words in reg. 34A(2) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/221/regulation/16)
+[^c-bfc19c41dc3443ff0060428ea42a7406]: Textual amendment: Words in reg. 34A(2) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/221/regulation/16)

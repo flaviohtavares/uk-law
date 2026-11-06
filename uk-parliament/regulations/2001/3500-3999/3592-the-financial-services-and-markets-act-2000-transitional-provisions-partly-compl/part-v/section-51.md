@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Notices under section 61 of the Insurance Companies Act[^key-7ea64b7156aa84d8b75f572b3bf67eb2]
+## 51. Notices under section 61 of the Insurance Companies Act[^c-7ea64b7156aa84d8b75f572b3bf67eb2]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ the company mentioned in the notice is to be treated as if it had made an applic
 
 ## Annotations
 
-[^key-7ea64b7156aa84d8b75f572b3bf67eb2]: Commencement: Art. 51 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-7ea64b7156aa84d8b75f572b3bf67eb2]: Commencement: Art. 51 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

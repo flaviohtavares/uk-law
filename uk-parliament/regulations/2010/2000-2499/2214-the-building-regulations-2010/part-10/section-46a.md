@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46A. Lapse of building control approval: commencement of work[^key-b1b56c90585f07329c4b5c137a249488][^key-826870bab9712a51392700f0e483fab0][^key-467af5648d276f002d3e512cd6a640c2]
+## 46A. Lapse of building control approval: commencement of work[^c-b1b56c90585f07329c4b5c137a249488][^c-826870bab9712a51392700f0e483fab0][^c-467af5648d276f002d3e512cd6a640c2]
 
 *Extent: E+W*
 
@@ -55,8 +55,8 @@ sets outs details of the work which the client considers amounts to 15% of the p
 
 ## Annotations
 
-[^key-b1b56c90585f07329c4b5c137a249488]: Modification: [Reg. 46A](https://www.legislation.gov.uk/uksi/2010/2214/regulation/46A) applied (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [9(11)](https://www.legislation.gov.uk/uksi/2023/909/regulation/9/11) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
+[^c-b1b56c90585f07329c4b5c137a249488]: Modification: [Reg. 46A](https://www.legislation.gov.uk/uksi/2010/2214/regulation/46A) applied (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [9(11)](https://www.legislation.gov.uk/uksi/2023/909/regulation/9/11) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
 
-[^key-826870bab9712a51392700f0e483fab0]: Modification: [Reg. 46A](https://www.legislation.gov.uk/uksi/2010/2214/regulation/46A) applied (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [17(11)](https://www.legislation.gov.uk/uksi/2023/909/regulation/17/11) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
+[^c-826870bab9712a51392700f0e483fab0]: Modification: [Reg. 46A](https://www.legislation.gov.uk/uksi/2010/2214/regulation/46A) applied (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [17(11)](https://www.legislation.gov.uk/uksi/2023/909/regulation/17/11) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
 
-[^key-467af5648d276f002d3e512cd6a640c2]: Textual amendment: [Reg. 46A](https://www.legislation.gov.uk/uksi/2010/2214/regulation/46A) inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/15/2) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-467af5648d276f002d3e512cd6a640c2]: Textual amendment: [Reg. 46A](https://www.legislation.gov.uk/uksi/2010/2214/regulation/46A) inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/15/2) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))

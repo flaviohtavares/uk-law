@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Excessive contributions in pension-sharing cases: general[^key-28a9b65b8e8b2070eec5dda574cbaa89]
+## 104. Excessive contributions in pension-sharing cases: general[^c-28a9b65b8e8b2070eec5dda574cbaa89]
 
 *Extent: S*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28a9b65b8e8b2070eec5dda574cbaa89]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2016/21/section/104) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-28a9b65b8e8b2070eec5dda574cbaa89]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2016/21/section/104) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

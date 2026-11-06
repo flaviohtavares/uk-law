@@ -31,7 +31,7 @@ summary: ''
 
 TRANSPORT, WALES
 
-The Public Transport Users' Committee for Wales (Establishment) Order 2009 (revoked)[^key-1b0259b648551b43f84fc20356d5c0f1]
+The Public Transport Users' Committee for Wales (Establishment) Order 2009 (revoked)[^c-1b0259b648551b43f84fc20356d5c0f1]
 
 Made
 
@@ -45,52 +45,52 @@ Coming into force
 
 16 November 2009
 
-[^key-1b0259b648551b43f84fc20356d5c0f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b0259b648551b43f84fc20356d5c0f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-1b0259b648551b43f84fc20356d5c0f1]
+## 1. Title, commencement and application[^c-1b0259b648551b43f84fc20356d5c0f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-1b0259b648551b43f84fc20356d5c0f1]
+## 2. Interpretation[^c-1b0259b648551b43f84fc20356d5c0f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Establishment of the Public Transport Users' Committee for Wales[^key-1b0259b648551b43f84fc20356d5c0f1]
+## 3. Establishment of the Public Transport Users' Committee for Wales[^c-1b0259b648551b43f84fc20356d5c0f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Constitution and membership of the Committee[^key-1b0259b648551b43f84fc20356d5c0f1]
+## 4. Constitution and membership of the Committee[^c-1b0259b648551b43f84fc20356d5c0f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Allowances and expenses for Committee members[^key-1b0259b648551b43f84fc20356d5c0f1]
+## 5. Allowances and expenses for Committee members[^c-1b0259b648551b43f84fc20356d5c0f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Staff[^key-1b0259b648551b43f84fc20356d5c0f1]
+## 6. Staff[^c-1b0259b648551b43f84fc20356d5c0f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Sub-committees[^key-1b0259b648551b43f84fc20356d5c0f1]
+## 7. Sub-committees[^c-1b0259b648551b43f84fc20356d5c0f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Proceedings[^key-1b0259b648551b43f84fc20356d5c0f1]
+## 8. Proceedings[^c-1b0259b648551b43f84fc20356d5c0f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Reports[^key-1b0259b648551b43f84fc20356d5c0f1]
+## 9. Reports[^c-1b0259b648551b43f84fc20356d5c0f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b0259b648551b43f84fc20356d5c0f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b0259b648551b43f84fc20356d5c0f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1b0259b648551b43f84fc20356d5c0f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b0259b648551b43f84fc20356d5c0f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1b0259b648551b43f84fc20356d5c0f1]: Textual amendment: Order revoked (15.4.2014) by [The Public Transport Users’ Committee for Wales (Abolition) Order 2014 (S.I. 2014/595)](https://www.legislation.gov.uk/uksi/2014/595), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/595/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/595/article/3/2)
+[^c-1b0259b648551b43f84fc20356d5c0f1]: Textual amendment: Order revoked (15.4.2014) by [The Public Transport Users’ Committee for Wales (Abolition) Order 2014 (S.I. 2014/595)](https://www.legislation.gov.uk/uksi/2014/595), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/595/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/595/article/3/2)

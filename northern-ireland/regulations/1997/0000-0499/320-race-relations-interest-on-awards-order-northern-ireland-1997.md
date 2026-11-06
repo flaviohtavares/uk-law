@@ -44,7 +44,7 @@ Coming into operation
 
 The Department of Economic Development, in exercise of the powers conferred on it by Article 16(1), (3) and (4) of the Industrial Tribunals (Northern Ireland) Order 1996[^f00001] (“the 1996 Order”) and Article 53(4) of the Race Relations (Northern Ireland) Order 1997[^f00002] and of every other power enabling it in that behalf, with the approval of the Department of Finance and Personnel in accordance with Article 16(1) of the 1996 Order, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-05fa735793d0136bc2a1a3ba9a44b3bc]
+## 1. Citation, commencement and interpretation[^c-05fa735793d0136bc2a1a3ba9a44b3bc]
 
 (1) This Order may be cited as the Race Relations (Interest on Awards) Order (Northern Ireland) 1997 and shall come into operation on 4th August 1997.
 
@@ -56,7 +56,7 @@ The Department of Economic Development, in exercise of the powers conferred on i
 
 (3) In this Order, any reference to a tribunal includes, in relation to an award under the Order, any tribunal which under section 6 of the Fair Employment (Northern Ireland) Act 1989[^f00004] has the jurisdiction, and exercises the powers, of the tribunal.
 
-## 2. Interest on awards[^key-e4460977aadfb049ab1935c1c943b78f]
+## 2. Interest on awards[^c-e4460977aadfb049ab1935c1c943b78f]
 
 (1) Where, at any time after 4th August 1997 a tribunal makes an award under the Order—
 
@@ -65,7 +65,7 @@ The Department of Economic Development, in exercise of the powers conferred on i
 
 (2) Nothing in paragraph (1) shall prevent the tribunal from making an award or decision, with regard to interest, in terms which have been agreed between the parties.
 
-## 3. Rate of interest[^key-b9db780e92eb66e85ed341f4a200dd8b]
+## 3. Rate of interest[^c-b9db780e92eb66e85ed341f4a200dd8b]
 
 (1) Interest shall—
 
@@ -74,7 +74,7 @@ The Department of Economic Development, in exercise of the powers conferred on i
 
 (2) Where the rate of interest applied under paragraph (1)(*a*) has varied during a period for which interest is to be calculated, the tribunal may, if it so desires in the interests of simplicity, apply such median or average of those rates as seems to it appropriate.
 
-## 4. Calculation of interest[^key-09a8ec2b0f033472b0138e8f3c2befe7]
+## 4. Calculation of interest[^c-09a8ec2b0f033472b0138e8f3c2befe7]
 
 (1) In this Article and Articles 5 and 6 in relation to an award under the Order—
 
@@ -83,9 +83,9 @@ The Department of Economic Development, in exercise of the powers conferred on i
 
 (2) The period referred to in paragraph (1) is the period beginning on the date of the contravention or, as the case may be, of the act of discrimination to which the award in question relates and ending on the day of calculation (both dates inclusive).
 
-**5.**[^key-551e6e4e32d2fcc2da7f58771bc940f9] Interest shall not be included on any sum awarded under the Order in relation to a loss or matter occurring after the day of calculation or in respect of any time before the contravention or, as the case may be, the act of discrimination to which the award relates.
+**5.**[^c-551e6e4e32d2fcc2da7f58771bc940f9] Interest shall not be included on any sum awarded under the Order in relation to a loss or matter occurring after the day of calculation or in respect of any time before the contravention or, as the case may be, the act of discrimination to which the award relates.
 
-**6.**[^key-8ef938504672f302fdc3b4e9c7a81a77] (1) Subject to paragraphs (2) and (3)—
+**6.**[^c-8ef938504672f302fdc3b4e9c7a81a77] (1) Subject to paragraphs (2) and (3)—
 
 - (a) in the case of any sum awarded under the Order for injury to feelings, any interest included shall be for the period beginning on the date of the contravention or, as the case may be, the act of discrimination to which the award relates, and ending on the day of calculation (both dates inclusive);
 - (b) in the case of all other sums of damages or compensation (other than any sum referred to in Article 7), and all arrears of remuneration awarded under the Order, interest shall be for the period beginning on the mid-point date and ending on the day of calculation (both dates inclusive).
@@ -99,13 +99,13 @@ The Department of Economic Development, in exercise of the powers conferred on i
 
 as it considers appropriate in the circumstances, having regard to the provisions of this Order.
 
-## 7. Decision in writing[^key-61f2a4f72c2a621a403c12cef7acf555]
+## 7. Decision in writing[^c-61f2a4f72c2a621a403c12cef7acf555]
 
 (1) A tribunal’s written statement of reasons for its decision to make an award under the Order shall contain a statement of the total amount of any interest included therein and, unless this amount has been agreed between the parties, either a table showing how it has been calculated or a description of the manner in which it has been calculated.
 
 (2) A tribunal’s written statement of reasons shall include reasons for any decision not to award interest made under Article 2.
 
-## 8. Interest for period after award[^key-03934f2379de1bc2dda67876beb351a3]
+## 8. Interest for period after award[^c-03934f2379de1bc2dda67876beb351a3]
 
 In relation to an award under the Order (whether or not including interest under Article 2) for which the relevant decision day under the Industrial Tribunals (Interest) Order (Northern Ireland) 1990[^f00005] (“the 1990 Order”) falls at any time after 4th August 1997—
 
@@ -144,24 +144,24 @@ Article 8 modifies the effect of the Industrial Tribunals (Interest) (Northern I
 
 [^f00002]: Footnote: [S.I. 1997/869 (N.I. 6)](https://www.legislation.gov.uk/nisi/1997/869)
 
-[^key-05fa735793d0136bc2a1a3ba9a44b3bc]: Commencement: Art. 1 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
+[^c-05fa735793d0136bc2a1a3ba9a44b3bc]: Commencement: Art. 1 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
 
 [^f00003]: Footnote: [S.R. 1996 No. 173](https://www.legislation.gov.uk/nisr/1996/173) to which there are amendments not relevant to this Order
 
 [^f00004]: Footnote: [1989 c. 32](https://www.legislation.gov.uk/ukpga/1989/32)
 
-[^key-e4460977aadfb049ab1935c1c943b78f]: Commencement: Art. 2 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
+[^c-e4460977aadfb049ab1935c1c943b78f]: Commencement: Art. 2 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
 
-[^key-b9db780e92eb66e85ed341f4a200dd8b]: Commencement: Art. 3 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
+[^c-b9db780e92eb66e85ed341f4a200dd8b]: Commencement: Art. 3 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
 
-[^key-09a8ec2b0f033472b0138e8f3c2befe7]: Commencement: Art. 4 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
+[^c-09a8ec2b0f033472b0138e8f3c2befe7]: Commencement: Art. 4 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
 
-[^key-551e6e4e32d2fcc2da7f58771bc940f9]: Commencement: Art. 5 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
+[^c-551e6e4e32d2fcc2da7f58771bc940f9]: Commencement: Art. 5 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
 
-[^key-8ef938504672f302fdc3b4e9c7a81a77]: Commencement: Art. 6 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
+[^c-8ef938504672f302fdc3b4e9c7a81a77]: Commencement: Art. 6 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
 
-[^key-61f2a4f72c2a621a403c12cef7acf555]: Commencement: Art. 7 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
+[^c-61f2a4f72c2a621a403c12cef7acf555]: Commencement: Art. 7 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
 
-[^key-03934f2379de1bc2dda67876beb351a3]: Commencement: Art. 8 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
+[^c-03934f2379de1bc2dda67876beb351a3]: Commencement: Art. 8 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
 
 [^f00005]: Footnote: [S.R. 1990 No. 87](https://www.legislation.gov.uk/nisr/1990/87)

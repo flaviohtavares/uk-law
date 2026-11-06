@@ -709,7 +709,7 @@ Regulation 58(2)
 - Rectory Lodge Trout Fishery
 - White Lough
 
-## SCHEDULE 7 — List of Waters where Catch and Release for Salmon Angling does not apply[^key-1e43f93dd502bc73baf8e47587f7551f]
+## SCHEDULE 7 — List of Waters where Catch and Release for Salmon Angling does not apply[^c-1e43f93dd502bc73baf8e47587f7551f]
 
 Regulation 50
 
@@ -767,4 +767,4 @@ The principal changes are as follows –
 
 [^c22001221]: Marginal citation: [S.I. 1983/883](https://www.legislation.gov.uk/uksi/1983/883)
 
-[^key-1e43f93dd502bc73baf8e47587f7551f]: Textual amendment: Sch. 7 substituted (1.6.2015) by [The Fisheries (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/239)](https://www.legislation.gov.uk/nisr/2015/239), [regs. 1](https://www.legislation.gov.uk/nisr/2015/239/regulation/1), [3](https://www.legislation.gov.uk/nisr/2015/239/regulation/3)
+[^c-1e43f93dd502bc73baf8e47587f7551f]: Textual amendment: Sch. 7 substituted (1.6.2015) by [The Fisheries (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/239)](https://www.legislation.gov.uk/nisr/2015/239), [regs. 1](https://www.legislation.gov.uk/nisr/2015/239/regulation/1), [3](https://www.legislation.gov.uk/nisr/2015/239/regulation/3)

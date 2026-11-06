@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Publication of information and reports[^key-b3f8071a2901c3c45147eeda73e1bcc1]
+## 13. Publication of information and reports[^c-b3f8071a2901c3c45147eeda73e1bcc1]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ The Welsh Ministers may publish—
 
 ## Annotations
 
-[^key-b3f8071a2901c3c45147eeda73e1bcc1]: Commencement: S. 13 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-b3f8071a2901c3c45147eeda73e1bcc1]: Commencement: S. 13 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

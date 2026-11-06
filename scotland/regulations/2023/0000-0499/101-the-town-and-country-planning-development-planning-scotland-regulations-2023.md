@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and interpretation[^key-ed1f12a38a31de46bf81b0ee1f655cee]
+### 1. Citation, commencement and interpretation[^c-ed1f12a38a31de46bf81b0ee1f655cee]
 
 (1) These Regulations may be cited as the Town and Country Planning (Development Planning) (Scotland) Regulations 2023 and come into force on 19 May 2023.
 
@@ -61,7 +61,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 2 — Evidence Reports
 
-### 2. Interpretation of Part 2[^key-e1fc81ef5e1cff9a52f738cc0e73e5d5]
+### 2. Interpretation of Part 2[^c-e1fc81ef5e1cff9a52f738cc0e73e5d5]
 
 In this Part—
 
@@ -69,11 +69,11 @@ In this Part—
 - “**authority**” means the planning authority preparing the evidence report,
 - “**evidence report**” means an evidence report prepared by virtue of section 16B of the Act.
 
-### 3. Notification of appointment of appointed person – assessment of evidence report[^key-fabc7eeeaacb302af759bf5f61d10b55]
+### 3. Notification of appointment of appointed person – assessment of evidence report[^c-fabc7eeeaacb302af759bf5f61d10b55]
 
 The Scottish Ministers must as soon as practicable after appointing a person to assess an evidence report under section 16B(8) of the Act notify the authority that such an appointment has been made and of the name of the appointed person.
 
-### 4. Preparation of evidence report[^key-de70c5cdf670377cc89cfe38f829b72e]
+### 4. Preparation of evidence report[^c-de70c5cdf670377cc89cfe38f829b72e]
 
 For the purposes of section 16B of the Act “**Gypsies and Travellers**” means persons, whatever their race or origin, who are—
 
@@ -82,7 +82,7 @@ For the purposes of section 16B of the Act “**Gypsies and Travellers**” mean
   - (ii) persons who have ceased to travel temporarily or permanently,
 - (b) members of an organised group of Travelling Showpeople or circus people (whether or not travelling together as such).
 
-### 5. Procedure in relation to assessment of evidence report[^key-83ac969d65095b01d4beaa1c820c8790]
+### 5. Procedure in relation to assessment of evidence report[^c-83ac969d65095b01d4beaa1c820c8790]
 
 (1) Subject to paragraphs (2) and (3), the procedure to be followed in an assessment of an evidence report under section 16B(8) of the Act is at the discretion of the appointed person.
 
@@ -92,25 +92,25 @@ For the purposes of section 16B of the Act “**Gypsies and Travellers**” mean
 
 (4) The appointed person may make a request under paragraph (3) at any stage of the assessment of the evidence report.
 
-### 6. Expenses of assessment under section 16B(8) of the Act[^key-fb274332dabd827ad3ab3516f1e3fee3]
+### 6. Expenses of assessment under section 16B(8) of the Act[^c-fb274332dabd827ad3ab3516f1e3fee3]
 
 The general administrative costs, staff costs (including any remuneration due to the appointed person) and overheads (including the costs of provision of a venue) incurred by the Scottish Ministers or the appointed person in relation to an assessment under section 16B(8) of the Act are to be met by the authority.
 
 ## PART 3 — Local Development Plans
 
-### 7. Maps to be included in local development plan[^key-bdbaa902f9fce26e4e38bd12902c16ae]
+### 7. Maps to be included in local development plan[^c-bdbaa902f9fce26e4e38bd12902c16ae]
 
 (1) A local development plan is to contain a map or maps (to be known as “**the Proposals Map**”) describing the policies and proposals set out in the local development plan, so far as practicable to illustrate such policies or proposals spatially.
 
 (2) The Proposals Map is to be sufficiently detailed so as to enable the location of proposals for the development and use of land to be identified.
 
-### 8. Schedule of land ownership[^key-6a971e68467bd01f6c2004d3e368d8a6]
+### 8. Schedule of land ownership[^c-6a971e68467bd01f6c2004d3e368d8a6]
 
 (1) The schedule of land ownership required to be appended to the plan by section 15(3) of the Act is to be in the form set out in schedule 1.
 
 (2) Where a local development plan is prepared by a National Park authority, the schedule of land ownership is also to include land owned by a local authority.
 
-### 9. Information and considerations[^key-27b6cb268ab3dba6001c70b0c3df0464]
+### 9. Information and considerations[^c-27b6cb268ab3dba6001c70b0c3df0464]
 
 (1) The information and considerations specified in paragraph (2) are for the purposes of section 16(2)(b) of the Act information and considerations to which the planning authority are to have regard to in preparing a local development plan.
 
@@ -153,7 +153,7 @@ The general administrative costs, staff costs (including any remuneration due to
 - “**regional transport strategy**” means a transport strategy approved by the Scottish Ministers under section 6 of the Transport (Scotland) Act 2005[^f00013],
 - “**river basin management plan**” means a river basin management plan approved by the Scottish Ministers under section 13(1) of the Water Environment and Water Services (Scotland) Act 2003[^f00014].
 
-### 10. Publication of proposed local development plan[^key-94bb8526fdddaed50c2e36ea9abf7d07]
+### 10. Publication of proposed local development plan[^c-94bb8526fdddaed50c2e36ea9abf7d07]
 
 (1) The manner of publication for the purposes of section 18(1)(a) of the Act is as set out in paragraph (2).
 
@@ -178,11 +178,11 @@ The general administrative costs, staff costs (including any remuneration due to
 - “**community council**” means a community council established in accordance with Part IV of the Local Government (Scotland) Act 1973[^f00016],
 - “**key agencies**” means the bodies specified as a key agency by regulation 25.
 
-### 11. Consultation on proposed local development plan[^key-06fdae8b1b1870c2c24390363c341ff1]
+### 11. Consultation on proposed local development plan[^c-06fdae8b1b1870c2c24390363c341ff1]
 
 The planning authority must, with regard to a proposed local development plan, consult the Scottish Ministers.
 
-### 12. Notification of publication of proposed local development plan[^key-218b2bec156dfd2a6f2af087fa185339]
+### 12. Notification of publication of proposed local development plan[^c-218b2bec156dfd2a6f2af087fa185339]
 
 (1) Where the proposed local development plan includes a proposal for development relating to a specific site which, if implemented, would be likely to have a significant effect on the use or amenity of that site or of neighbouring land, the planning authority are to give notice to the owner, lessee or occupier of any premises situated on that site, or on such neighbouring land, as the case may be, in accordance with paragraph (2).
 
@@ -194,7 +194,7 @@ The planning authority must, with regard to a proposed local development plan, c
 
 (3) In this regulation, “**neighbouring land**” means land which is conterminous with or within 20 metres of the boundary of a specific site in respect of which a local development plan includes a proposal for development.
 
-### 13. Publication of proposed local development plan as submitted to the Scottish Ministers[^key-dd37ac1007969aee6e29732a292a69a1]
+### 13. Publication of proposed local development plan as submitted to the Scottish Ministers[^c-dd37ac1007969aee6e29732a292a69a1]
 
 (1) The manner of publication for the purposes of section 19(5A)[^f00017] of the Act (examination of a proposed local development plan) is as set out in paragraph (2).
 
@@ -208,9 +208,9 @@ The planning authority must, with regard to a proposed local development plan, c
 
 (3) In this regulation “**modifications report**” means a report required to be published in accordance with section 19(5A)(b) of the Act.
 
-## PART 4 — Examinations[^key-d7d593980dcd12822d844cae2089208e]
+## PART 4 — Examinations[^c-d7d593980dcd12822d844cae2089208e]
 
-### 14. Application and interpretation of Part 4[^key-cbb6d464f40f9592e1b91c7179cadc52]
+### 14. Application and interpretation of Part 4[^c-cbb6d464f40f9592e1b91c7179cadc52]
 
 (1) Part 4 of these Regulations applies to an examination under section 19(3) or (4) of the Act.
 
@@ -220,11 +220,11 @@ The planning authority must, with regard to a proposed local development plan, c
 - “**authority**” means the planning authority which submitted the proposed local development plan,
 - “**unresolved representations**” means in respect of a proposed local development plan, representations mentioned in section 19(2) of the Act.
 
-### 15. Notification of appointment of appointed person - examination[^key-f2ea7adea2ac9c49df5dffaa082e39ec]
+### 15. Notification of appointment of appointed person - examination[^c-f2ea7adea2ac9c49df5dffaa082e39ec]
 
 The Scottish Ministers must as soon as practicable after appointing a person to examine a proposed local development plan under section 19(3) of the Act notify the authority that such an appointment has been made and of the name of the appointed person.
 
-### 16. Summary of unresolved issues[^key-3cd46d28888ed8c4fc9d0875eb30db37]
+### 16. Summary of unresolved issues[^c-3cd46d28888ed8c4fc9d0875eb30db37]
 
 (1) The authority must, to the extent that they have not already done so, send to the appointed person within 14 days of receiving notification under regulation 15—
 
@@ -247,11 +247,11 @@ The Scottish Ministers must as soon as practicable after appointing a person to 
 - (a) a statement that the authority has provided, or is to provide, to the appointed person a summary of the issues it considers should be assessed at the examination, and
 - (b) information as to where it is possible to inspect such summary and other information and documents provided by the authority in connection with the examination.
 
-### 17. Scope of the examination[^key-c607629258da3884a3b7d2033cc2b74d]
+### 17. Scope of the examination[^c-c607629258da3884a3b7d2033cc2b74d]
 
 An examination held under section 19(3) of the Act is only to assess issues raised in unresolved representations.
 
-### 18. Further representations or information - examination[^key-9790c4b638a043007a847b2d2689bd86]
+### 18. Further representations or information - examination[^c-9790c4b638a043007a847b2d2689bd86]
 
 (1) Where the appointed person determines that further representations should be made or further information should be provided by any person in connection with the examination of the proposed plan, the appointed person may request such further representations or information and is to do so by giving notice (a “procedure notice”) to that effect to—
 
@@ -278,13 +278,13 @@ An examination held under section 19(3) of the Act is only to assess issues rais
 - “**procedure notice**” has the meaning given in paragraph (1),
 - “**procedure notice response**” has the meaning given in paragraph (4).
 
-### 19. Expenses of examination[^key-e086fd44a9a73fc3d1f665920b9ed7a5]
+### 19. Expenses of examination[^c-e086fd44a9a73fc3d1f665920b9ed7a5]
 
 The general administrative costs, staff costs (including any remuneration due to the appointed person) and overheads (including the costs of provision of a venue for the examination) incurred by the Scottish Ministers or the appointed person in relation to an examination held under section 19(3) or (4) of the Act are to be met by the authority.
 
 ## PART 5 — Publication of recommended-modifications statement and report on modification
 
-### 20. Publication of recommended-modifications statement[^key-3964f4fce181975a813115a0920a4d54]
+### 20. Publication of recommended-modifications statement[^c-3964f4fce181975a813115a0920a4d54]
 
 (1) The manner of publication for the purposes of section 20A(1A)(a)[^f00019] of the Act is as set out in paragraph (2).
 
@@ -296,7 +296,7 @@ The general administrative costs, staff costs (including any remuneration due to
 - (b) making copies of the recommended-modification statement available for inspection at an office of the planning authority and in every public library in the local development plan area, and
 - (c) publishing the recommended-modification statement on the internet.
 
-### 21. Publication of report on modification[^key-0b6b0059dc61b54204403c83f6f456f5]
+### 21. Publication of report on modification[^c-0b6b0059dc61b54204403c83f6f456f5]
 
 (1) The manner of publication for the purposes of section 20A(1A)(b) of the Act is as set out in paragraph (2).
 
@@ -310,7 +310,7 @@ The general administrative costs, staff costs (including any remuneration due to
 
 ## PART 6 — General
 
-### 22. Development plan schemes[^key-ee4ea3e3fa9980aa09dd5b3678e80531]
+### 22. Development plan schemes[^c-ee4ea3e3fa9980aa09dd5b3678e80531]
 
 (1) In addition to those matters specified by section 20B of the Act, a development plan scheme is to indicate the anticipated timetable for constitution of the local development plan and must specify the quarter in which the planning authority expects to—
 
@@ -328,7 +328,7 @@ The general administrative costs, staff costs (including any remuneration due to
 - (a) references to a “quarter” are to a quarter of the financial year (April- March) and means a period of three months ending at the end of June (“quarter 1”), at the end of September (“quarter 2”), at the end of December (“quarter 3”) or at the end of March (“quarter 4”), and
 - (b) a requirement to specify the quarter is a requirement to specify the numbered quarter (as numbered in paragraph (a)) and year in which in which an action is expected to be done.
 
-### 23. Proposed delivery programmes - publication and consultation[^key-eb9c9da4ac47242b4497c2e65ab4b33d]
+### 23. Proposed delivery programmes - publication and consultation[^c-eb9c9da4ac47242b4497c2e65ab4b33d]
 
 (1) Publication of a proposed delivery programme under section 21(4) of the Act is to be by—
 
@@ -343,7 +343,7 @@ The general administrative costs, staff costs (including any remuneration due to
 
 (2) The Scottish Ministers are, for the purposes of section 21(3)(b) of the Act, a person whose views the planning authority is to seek and have regard to when preparing a delivery programme.
 
-### 24. Form and content of delivery programmes[^key-4bbbf8c3b5392f1761fa7a63e22b1839]
+### 24. Form and content of delivery programmes[^c-4bbbf8c3b5392f1761fa7a63e22b1839]
 
 A delivery programme is to set out the following matters—
 
@@ -351,9 +351,9 @@ A delivery programme is to set out the following matters—
 - (b) the timescale for the conclusion of each such action,
 - (c) the expected sequencing of, and timescales for, delivery of housing on sites allocated by the local development plan.
 
-### 25. Key Agencies[^key-abafd956db8625d16ecfcf4e487c7e00]
+### 25. Key Agencies[^c-abafd956db8625d16ecfcf4e487c7e00]
 
-(1) The bodies mentioned in paragraph (2) are, subject to the limitations set out in paragraph (3), specified as a key agency for the purposes of sections 3AB(4)(b)(ii), 3CB, 4ZA(3)(b)(ii)[^key-34e88cada968f689f0749cfaecbd1028], 16B(2)(a), 18(1)(b) and (d) and (10) and 21(3)(a) and (5) of the Act[^f00020].
+(1) The bodies mentioned in paragraph (2) are, subject to the limitations set out in paragraph (3), specified as a key agency for the purposes of sections 3AB(4)(b)(ii), 3CB, 4ZA(3)(b)(ii)[^c-34e88cada968f689f0749cfaecbd1028], 16B(2)(a), 18(1)(b) and (d) and (10) and 21(3)(a) and (5) of the Act[^f00020].
 
 (2) The bodies are—
 
@@ -379,13 +379,13 @@ A delivery programme is to set out the following matters—
 
 (4) In paragraphs (2) and (3), ‘Health Board’ means a board constituted by order under section 2(1)(a) of the National Health Service (Scotland) Act 1978[^f00025].
 
-### 26. Revocations[^key-9ebd9d063cb0a64cce47461a9a0634f3]
+### 26. Revocations[^c-9ebd9d063cb0a64cce47461a9a0634f3]
 
 (1) Subject to regulation 27, the Town and Country Planning (Development Planning) (Scotland) Regulations 2008[^f00026] are revoked.
 
 (2) The provisions specified in column 1 of the table in schedule 4 are revoked to the extent specified in column 3 of that table.
 
-### 27. Transitional and saving provisions[^key-733d7b679e0166578443cf6d89958776]
+### 27. Transitional and saving provisions[^c-733d7b679e0166578443cf6d89958776]
 
 (1) This regulation applies to—
 
@@ -409,25 +409,25 @@ Edinburgh
 
 22nd March 2023
 
-## SCHEDULE 1 — Form of schedule of land ownership[^key-f2c621f71d0ee9e5f181a0ff87575f73]
+## SCHEDULE 1 — Form of schedule of land ownership[^c-f2c621f71d0ee9e5f181a0ff87575f73]
 
 Regulation 8(1)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2023/101/images/ssi_20230101_en_001)
 
-## SCHEDULE 2 — Form of Notice Notification of publication of proposed local development plan[^key-7c1a7c7b47045a9ef7ef49a59f41c63f]
+## SCHEDULE 2 — Form of Notice Notification of publication of proposed local development plan[^c-7c1a7c7b47045a9ef7ef49a59f41c63f]
 
 Regulation 12(2)(a)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2023/101/images/ssi_20230101_en_002)
 
-## SCHEDULE 3 — Summary of Unresolved Issues[^key-44270d068f6939fe26d60a7a30c34288][^key-7a3358e56b0674668498eed90295fbf0]
+## SCHEDULE 3 — Summary of Unresolved Issues[^c-44270d068f6939fe26d60a7a30c34288][^c-7a3358e56b0674668498eed90295fbf0]
 
 Regulation 16(2)(b)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2023/101/images/ssi_20230101_en_003)
 
-## SCHEDULE 4 — REVOCATIONS[^key-e860ec38928ec89a4259fbbf49a9090b]
+## SCHEDULE 4 — REVOCATIONS[^c-e860ec38928ec89a4259fbbf49a9090b]
 
 Regulation 26(2)
 
@@ -454,23 +454,23 @@ Part 4 makes provision in relation to the examination of proposed local developm
 
 [^f00001]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8). Part 2 of the Act was substituted by section 2 of the Planning etc. (Scotland) Act [2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17) (“**the 2006 Act**”) and subsequently relevantly amended by sections 7, 9, 10, 11 and 14 and schedule 2 of the Planning (Scotland) Act [2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13). Section 275 was relevantly amended by section 54(16) of the 2006 Act. Section 277 contains a definition of prescribed relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State under the Town and Country Planning (Scotland) Act 1997 transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-ed1f12a38a31de46bf81b0ee1f655cee]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2023/101/regulation/1) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-ed1f12a38a31de46bf81b0ee1f655cee]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2023/101/regulation/1) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-e1fc81ef5e1cff9a52f738cc0e73e5d5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2023/101/regulation/2) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-e1fc81ef5e1cff9a52f738cc0e73e5d5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2023/101/regulation/2) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-fabc7eeeaacb302af759bf5f61d10b55]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2023/101/regulation/3) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-fabc7eeeaacb302af759bf5f61d10b55]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2023/101/regulation/3) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-de70c5cdf670377cc89cfe38f829b72e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2023/101/regulation/4) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-de70c5cdf670377cc89cfe38f829b72e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2023/101/regulation/4) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-83ac969d65095b01d4beaa1c820c8790]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2023/101/regulation/5) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-83ac969d65095b01d4beaa1c820c8790]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2023/101/regulation/5) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-fb274332dabd827ad3ab3516f1e3fee3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2023/101/regulation/6) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-fb274332dabd827ad3ab3516f1e3fee3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2023/101/regulation/6) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-bdbaa902f9fce26e4e38bd12902c16ae]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2023/101/regulation/7) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-bdbaa902f9fce26e4e38bd12902c16ae]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2023/101/regulation/7) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-6a971e68467bd01f6c2004d3e368d8a6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2023/101/regulation/8) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-6a971e68467bd01f6c2004d3e368d8a6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2023/101/regulation/8) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-27b6cb268ab3dba6001c70b0c3df0464]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2023/101/regulation/9) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-27b6cb268ab3dba6001c70b0c3df0464]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2023/101/regulation/9) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
 [^f00002]: Footnote: Section 4ZA is inserted by section 5 of the Planning (Scotland) Act [2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13).
 
@@ -498,51 +498,51 @@ Part 4 makes provision in relation to the examination of proposed local developm
 
 [^f00014]: Footnote: 2003 asp to which there are amendments which are not directly relevant to these regulations.
 
-[^key-94bb8526fdddaed50c2e36ea9abf7d07]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2023/101/regulation/10) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-94bb8526fdddaed50c2e36ea9abf7d07]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2023/101/regulation/10) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
 [^f00015]: Footnote: Section 18(2) of the Town and Country Planning (Scotland) Act 1997 as amended by section 7(8)(e) of the Planning (Scotland) Act [2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13) requires publication under section 18(1)(a) to include specification of a date (being a date not less that 12 weeks after the date of publication) by which any representations with respect to the proposed local development plan must be made to the planning authority.
 
 [^f00016]: Footnote: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65). There are amendments to Part IV which are not directly relevant to these Regulations.
 
-[^key-06fdae8b1b1870c2c24390363c341ff1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2023/101/regulation/11) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-06fdae8b1b1870c2c24390363c341ff1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2023/101/regulation/11) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-218b2bec156dfd2a6f2af087fa185339]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2023/101/regulation/12) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-218b2bec156dfd2a6f2af087fa185339]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2023/101/regulation/12) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-dd37ac1007969aee6e29732a292a69a1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2023/101/regulation/13) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-dd37ac1007969aee6e29732a292a69a1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2023/101/regulation/13) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
 [^f00017]: Footnote: Section 19(5A) is inserted by section 7(9) of the Planning (Scotland) Act [2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13).
 
-[^key-d7d593980dcd12822d844cae2089208e]: Modification: [Pt. 4](https://www.legislation.gov.uk/ssi/2023/101/part/4) applied (with modifications) (5.12.2024) by [The Town and Country Planning (Amendment of Local Development Plan) (Scotland) Regulations 2024 (S.S.I. 2024/250)](https://www.legislation.gov.uk/ssi/2024/250), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/250/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2024/250/regulation/8)
+[^c-d7d593980dcd12822d844cae2089208e]: Modification: [Pt. 4](https://www.legislation.gov.uk/ssi/2023/101/part/4) applied (with modifications) (5.12.2024) by [The Town and Country Planning (Amendment of Local Development Plan) (Scotland) Regulations 2024 (S.S.I. 2024/250)](https://www.legislation.gov.uk/ssi/2024/250), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/250/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2024/250/regulation/8)
 
-[^key-cbb6d464f40f9592e1b91c7179cadc52]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2023/101/regulation/14) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-cbb6d464f40f9592e1b91c7179cadc52]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2023/101/regulation/14) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-f2ea7adea2ac9c49df5dffaa082e39ec]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2023/101/regulation/15) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-f2ea7adea2ac9c49df5dffaa082e39ec]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2023/101/regulation/15) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-3cd46d28888ed8c4fc9d0875eb30db37]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2023/101/regulation/16) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-3cd46d28888ed8c4fc9d0875eb30db37]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2023/101/regulation/16) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
 [^f00018]: Footnote: [2005 asp 15](https://www.legislation.gov.uk/asp/2005/15).
 
-[^key-c607629258da3884a3b7d2033cc2b74d]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2023/101/regulation/17) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-c607629258da3884a3b7d2033cc2b74d]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2023/101/regulation/17) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-9790c4b638a043007a847b2d2689bd86]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2023/101/regulation/18) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-9790c4b638a043007a847b2d2689bd86]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2023/101/regulation/18) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-e086fd44a9a73fc3d1f665920b9ed7a5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2023/101/regulation/19) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-e086fd44a9a73fc3d1f665920b9ed7a5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2023/101/regulation/19) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-3964f4fce181975a813115a0920a4d54]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2023/101/regulation/20) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-3964f4fce181975a813115a0920a4d54]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2023/101/regulation/20) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
 [^f00019]: Footnote: Section 20A(1A) is inserted by section 7(13) of the Planning (Scotland) Act [2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13).
 
-[^key-0b6b0059dc61b54204403c83f6f456f5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2023/101/regulation/21) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-0b6b0059dc61b54204403c83f6f456f5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2023/101/regulation/21) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-ee4ea3e3fa9980aa09dd5b3678e80531]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2023/101/regulation/22) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-ee4ea3e3fa9980aa09dd5b3678e80531]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2023/101/regulation/22) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-eb9c9da4ac47242b4497c2e65ab4b33d]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2023/101/regulation/23) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-eb9c9da4ac47242b4497c2e65ab4b33d]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2023/101/regulation/23) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-4bbbf8c3b5392f1761fa7a63e22b1839]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2023/101/regulation/24) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-4bbbf8c3b5392f1761fa7a63e22b1839]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2023/101/regulation/24) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-abafd956db8625d16ecfcf4e487c7e00]: Commencement: Reg. 25 in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-abafd956db8625d16ecfcf4e487c7e00]: Commencement: Reg. 25 in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-34e88cada968f689f0749cfaecbd1028]: Textual amendment: Word in reg. 25(1) substituted (5.12.2024) by [The Town and Country Planning (Amendment of Local Development Plan) (Scotland) Regulations 2024 (S.S.I. 2024/250)](https://www.legislation.gov.uk/ssi/2024/250), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/250/regulation/1/1), [11(2)](https://www.legislation.gov.uk/ssi/2024/250/regulation/11/2)
+[^c-34e88cada968f689f0749cfaecbd1028]: Textual amendment: Word in reg. 25(1) substituted (5.12.2024) by [The Town and Country Planning (Amendment of Local Development Plan) (Scotland) Regulations 2024 (S.S.I. 2024/250)](https://www.legislation.gov.uk/ssi/2024/250), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/250/regulation/1/1), [11(2)](https://www.legislation.gov.uk/ssi/2024/250/regulation/11/2)
 
 [^f00020]: Footnote: Sections 3AB and 3CB are inserted by section 2(11) and (13) of the Planning (Scotland) Act 2019 (“**the 2019 Act**”). Section 4ZA is to be inserted by section 5 of the 2019 Act. Section 16B is inserted by section 7(6) of the 2019 Act.
 
@@ -556,20 +556,20 @@ Part 4 makes provision in relation to the examination of proposed local developm
 
 [^f00025]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29). Section 2(1)(a) was relevantly amended by paragraph 2(2) of Schedule 2 to the Smoking, Health & Social Care (Scotland) Act [2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13).
 
-[^key-9ebd9d063cb0a64cce47461a9a0634f3]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2023/101/regulation/26) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-9ebd9d063cb0a64cce47461a9a0634f3]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2023/101/regulation/26) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
 [^f00026]: Footnote: [S.S.I. 2008/426](https://www.legislation.gov.uk/ssi/2008/426) as amended by [S.S.I. 2009/220](https://www.legislation.gov.uk/ssi/2009/220), [S.S.I. 2009/343](https://www.legislation.gov.uk/ssi/2009/343), [S.S.I. 2011/138](https://www.legislation.gov.uk/ssi/2011/138), [S.S.I. 2015/181](https://www.legislation.gov.uk/ssi/2015/181), [S.S.I. 2015/237](https://www.legislation.gov.uk/ssi/2015/237), [S.S.I. 2019/80](https://www.legislation.gov.uk/ssi/2019/80).
 
-[^key-733d7b679e0166578443cf6d89958776]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2023/101/regulation/27) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-733d7b679e0166578443cf6d89958776]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2023/101/regulation/27) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
 [^f00027]: Footnote: Section 22 was repealed by section 9 of the Planning (Scotland) Act 2019 on 12 February 2023 subject to saving and transitional provisions contained in [S.S.I. 2023/10](https://www.legislation.gov.uk/ssi/2023/10).
 
-[^key-f2c621f71d0ee9e5f181a0ff87575f73]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2023/101/schedule/1) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-f2c621f71d0ee9e5f181a0ff87575f73]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2023/101/schedule/1) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-7c1a7c7b47045a9ef7ef49a59f41c63f]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2023/101/schedule/2) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-7c1a7c7b47045a9ef7ef49a59f41c63f]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2023/101/schedule/2) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-44270d068f6939fe26d60a7a30c34288]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2023/101/schedule/3) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-44270d068f6939fe26d60a7a30c34288]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2023/101/schedule/3) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
 
-[^key-7a3358e56b0674668498eed90295fbf0]: Modification: [Sch. 3](https://www.legislation.gov.uk/ssi/2023/101/schedule/3) applied (with modifications) (5.12.2024) by [The Town and Country Planning (Amendment of Local Development Plan) (Scotland) Regulations 2024 (S.S.I. 2024/250)](https://www.legislation.gov.uk/ssi/2024/250), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/250/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2024/250/regulation/8)
+[^c-7a3358e56b0674668498eed90295fbf0]: Modification: [Sch. 3](https://www.legislation.gov.uk/ssi/2023/101/schedule/3) applied (with modifications) (5.12.2024) by [The Town and Country Planning (Amendment of Local Development Plan) (Scotland) Regulations 2024 (S.S.I. 2024/250)](https://www.legislation.gov.uk/ssi/2024/250), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/250/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2024/250/regulation/8)
 
-[^key-e860ec38928ec89a4259fbbf49a9090b]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2023/101/schedule/4) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)
+[^c-e860ec38928ec89a4259fbbf49a9090b]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2023/101/schedule/4) in force at 19.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1)

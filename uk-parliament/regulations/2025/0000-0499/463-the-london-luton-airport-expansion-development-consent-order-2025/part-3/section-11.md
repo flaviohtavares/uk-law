@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Power to alter layout, etc., of streets[^key-c8d475b110a760adcae28085d6c5d3ea]
+## 11. Power to alter layout, etc., of streets[^c-c8d475b110a760adcae28085d6c5d3ea]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c8d475b110a760adcae28085d6c5d3ea]: Commencement: Art. 11 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-c8d475b110a760adcae28085d6c5d3ea]: Commencement: Art. 11 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
 
 [^f00055]: Footnote: Section 54 was amended by section 49 of, and Schedule 1 to, the Traffic Management Act 2004.

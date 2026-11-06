@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Colours in Food (Amendment) (Wales) Regulations 2007 (revoked)[^key-9520cea05439dce4c47c822fbd6be5ee]
+The Colours in Food (Amendment) (Wales) Regulations 2007 (revoked)[^c-9520cea05439dce4c47c822fbd6be5ee]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 10 April 2007
 
-[^key-9520cea05439dce4c47c822fbd6be5ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9520cea05439dce4c47c822fbd6be5ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-9520cea05439dce4c47c822fbd6be5ee]
+## 1. Title, application and commencement[^c-9520cea05439dce4c47c822fbd6be5ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Colours in Food Regulations 1995[^key-9520cea05439dce4c47c822fbd6be5ee]
+## 2. Amendment of the Colours in Food Regulations 1995[^c-9520cea05439dce4c47c822fbd6be5ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9520cea05439dce4c47c822fbd6be5ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9520cea05439dce4c47c822fbd6be5ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9520cea05439dce4c47c822fbd6be5ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9520cea05439dce4c47c822fbd6be5ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9520cea05439dce4c47c822fbd6be5ee]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-9520cea05439dce4c47c822fbd6be5ee]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

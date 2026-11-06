@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256. Amendment of Commission Implementing Decision (EU) 2015/696[^key-04251bc1e1fb4c34975b50d8eafc081d]
+## 256. Amendment of Commission Implementing Decision (EU) 2015/696[^c-04251bc1e1fb4c34975b50d8eafc081d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Implementing Decision (EU) 2015/696 authorising the placing on the ma
 
 ## Annotations
 
-[^key-04251bc1e1fb4c34975b50d8eafc081d]: Commencement: Reg. 256 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-04251bc1e1fb4c34975b50d8eafc081d]: Commencement: Reg. 256 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

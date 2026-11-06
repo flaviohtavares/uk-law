@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11B. Appointment of persons to carry out general investigations etc.[^key-8efe6b37f7a7fd78a56d895bbdfd499a]
+## 11B. Appointment of persons to carry out general investigations etc.[^c-8efe6b37f7a7fd78a56d895bbdfd499a]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8efe6b37f7a7fd78a56d895bbdfd499a]: Textual amendment: Regs. 11A, 11B substituted for reg. 11 (1.4.2013) by [The Uncertificated Securities (Amendment) Regulations 2013 (S.I. 2013/632)](https://www.legislation.gov.uk/uksi/2013/632), [regs. 1](https://www.legislation.gov.uk/uksi/2013/632/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2013/632/regulation/2/10) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/632/regulation/3))
+[^c-8efe6b37f7a7fd78a56d895bbdfd499a]: Textual amendment: Regs. 11A, 11B substituted for reg. 11 (1.4.2013) by [The Uncertificated Securities (Amendment) Regulations 2013 (S.I. 2013/632)](https://www.legislation.gov.uk/uksi/2013/632), [regs. 1](https://www.legislation.gov.uk/uksi/2013/632/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2013/632/regulation/2/10) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/632/regulation/3))

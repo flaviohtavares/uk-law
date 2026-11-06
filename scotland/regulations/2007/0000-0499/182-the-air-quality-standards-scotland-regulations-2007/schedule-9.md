@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 9 — Reference methods[^key-4691bce6a5fe599879f30fcbb36db03c]
+## SCHEDULE 9 — Reference methods[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 *Extent: S*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Regulation 16(3) Regulation 19(4) Regulation 20(4)
 
-### PART 1 — Group A pollutants[^key-4691bce6a5fe599879f30fcbb36db03c]
+### PART 1 — Group A pollutants[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Group B pollutants in ambient air[^key-4691bce6a5fe599879f30fcbb36db03c]
+### PART 2 — Group B pollutants in ambient air[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Ozone[^key-4691bce6a5fe599879f30fcbb36db03c]
+### PART 3 — Ozone[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — Other reference methods[^key-4691bce6a5fe599879f30fcbb36db03c]
+### PART 4 — Other reference methods[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4691bce6a5fe599879f30fcbb36db03c]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards (Scotland) Regulations 2010 (S.S.I. 2010/204)](https://www.legislation.gov.uk/ssi/2010/204), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/204/regulation/1), [29](https://www.legislation.gov.uk/ssi/2010/204/regulation/29)
+[^c-4691bce6a5fe599879f30fcbb36db03c]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards (Scotland) Regulations 2010 (S.S.I. 2010/204)](https://www.legislation.gov.uk/ssi/2010/204), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/204/regulation/1), [29](https://www.legislation.gov.uk/ssi/2010/204/regulation/29)

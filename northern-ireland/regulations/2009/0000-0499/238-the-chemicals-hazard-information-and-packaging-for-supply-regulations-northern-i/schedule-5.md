@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 5 — BRITISH AND INTERNATIONAL STANDARDS RELATING TO CHILD RESISTANT FASTENINGS AND TACTILE WARNING DEVICES[^key-ae675b9b4413e919d9aeec690c6c91dc]
+## SCHEDULE 5 — BRITISH AND INTERNATIONAL STANDARDS RELATING TO CHILD RESISTANT FASTENINGS AND TACTILE WARNING DEVICES[^c-ae675b9b4413e919d9aeec690c6c91dc]
 
 *Extent: N.I.*
 
 Regulation 11
 
-[^key-ae675b9b4413e919d9aeec690c6c91dc]
+[^c-ae675b9b4413e919d9aeec690c6c91dc]
 
 The British Standards and International Standards referred to in regulation 11 are as follows—
 
@@ -36,4 +36,4 @@ The British Standards and International Standards referred to in regulation 11 a
 
 ## Annotations
 
-[^key-ae675b9b4413e919d9aeec690c6c91dc]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/2009/238/schedule/5) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-ae675b9b4413e919d9aeec690c6c91dc]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/2009/238/schedule/5) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)

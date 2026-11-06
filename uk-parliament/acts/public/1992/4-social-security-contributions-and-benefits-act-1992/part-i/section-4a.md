@@ -54,7 +54,7 @@ relevant payments or benefits are, to the specified extent, to be treated for th
 - (g) for disregarding for the purposes of the applicable provisions of this Act, in relation to relevant payments or benefits, an employed earner’s employment in which the worker is employed (whether by the intermediary[^M_C_1813fd09-06b4-4aee-df47-05a937a0c3ce] or otherwise) to perform the services in question;
 - (h) for otherwise securing that a double liability to pay any amount by way of a contribution of any description does not arise in relation to a particular payment or benefit or (as the case may be) a particular part of a payment or benefit;
 - (i) for securing that, to the specified extent, two or more persons, whether—
-  - (i) connected persons (within the meaning of section 993 of the Income Tax Act 2007[^key-cbd0bcc5a12d379f9ae252d13e3067db]), or
+  - (i) connected persons (within the meaning of section 993 of the Income Tax Act 2007[^c-cbd0bcc5a12d379f9ae252d13e3067db]), or
   - (ii) persons of any other specified description,
 
   are treated as a single person for any purposes of the regulations;
@@ -101,7 +101,7 @@ relevant payments or benefits are, to the specified extent, to be treated for th
 
 [^M_C_1813fd09-06b4-4aee-df47-05a937a0c3ce]: Modification: [S. 4A(3)(g)](https://www.legislation.gov.uk/ukpga/1992/4/section/4A/3/g) modified (26.3.2026) by [The Social Security Contributions and Benefits Act 1992 (Modification of Section 4A) Order 2026 (S.I. 2026/341)](https://www.legislation.gov.uk/uksi/2026/341), [arts. 1](https://www.legislation.gov.uk/uksi/2026/341/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2026/341/article/2/b)
 
-[^key-cbd0bcc5a12d379f9ae252d13e3067db]: Textual amendment: Words in s. 4A(3)(i)(i) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 289](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/289) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-cbd0bcc5a12d379f9ae252d13e3067db]: Textual amendment: Words in s. 4A(3)(i)(i) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 289](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/289) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^M_C_911377cb-ef13-4a6a-c0eb-f135ce8c732a]: Modification: [S. 4A(4)(a)](https://www.legislation.gov.uk/ukpga/1992/4/section/4A/4/a) modified (26.3.2026) by [The Social Security Contributions and Benefits Act 1992 (Modification of Section 4A) Order 2026 (S.I. 2026/341)](https://www.legislation.gov.uk/uksi/2026/341), [arts. 1](https://www.legislation.gov.uk/uksi/2026/341/article/1), [2(c)(i)](https://www.legislation.gov.uk/uksi/2026/341/article/2/c/i)
 

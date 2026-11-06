@@ -14,11 +14,11 @@ summary: ''
 
 > Text as at 2015-05-26.
 
-## 59A. Notice of changes of circumstances given electronically[^key-3af1db188f8edd59635b164ac2c9ddb9]
+## 59A. Notice of changes of circumstances given electronically[^c-3af1db188f8edd59635b164ac2c9ddb9]
 
-(1)[^key-5013eab4e12639ed241c28c6c9dbbdec] A person may give notice of a change of circumstances required to be notified under regulation 59 by means of an electronic communication in accordance with Schedule 8.
+(1)[^c-5013eab4e12639ed241c28c6c9dbbdec] A person may give notice of a change of circumstances required to be notified under regulation 59 by means of an electronic communication in accordance with Schedule 8.
 
-(2)[^key-d07d218110dfb7eefedce2195289cd6c] Where—
+(2)[^c-d07d218110dfb7eefedce2195289cd6c] Where—
 
 - (a) the change of circumstances required to be notified is a death; and
 - (b) the authority administering the claimant's council tax benefit agrees with the Secretary of State that notifications may be made in accordance with regulation 59ZA(1) (alternative means of notifying changes of circumstances),
@@ -31,8 +31,8 @@ a person may give notice of the change to the Secretary of State by means of an 
 
 ## Annotations
 
-[^key-3af1db188f8edd59635b164ac2c9ddb9]: Textual amendment: Reg. 59A and heading inserted (20.12.2006) by [Housing Benefit and Council Tax Benefit (Electronic Communications) Order 2006 (S.I. 2006/2968)](https://www.legislation.gov.uk/uksi/2006/2968), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2968/article/1), [5(4)](https://www.legislation.gov.uk/uksi/2006/2968/article/5/4)
+[^c-3af1db188f8edd59635b164ac2c9ddb9]: Textual amendment: Reg. 59A and heading inserted (20.12.2006) by [Housing Benefit and Council Tax Benefit (Electronic Communications) Order 2006 (S.I. 2006/2968)](https://www.legislation.gov.uk/uksi/2006/2968), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2968/article/1), [5(4)](https://www.legislation.gov.uk/uksi/2006/2968/article/5/4)
 
-[^key-5013eab4e12639ed241c28c6c9dbbdec]: Textual amendment: Reg. 59A(1): reg. 59A renumbered as reg. 59A(1) (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2011/2943/article/5/2)
+[^c-5013eab4e12639ed241c28c6c9dbbdec]: Textual amendment: Reg. 59A(1): reg. 59A renumbered as reg. 59A(1) (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2011/2943/article/5/2)
 
-[^key-d07d218110dfb7eefedce2195289cd6c]: Textual amendment: Regs. 59A(2)-(4) inserted (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2011/2943/article/5/3)
+[^c-d07d218110dfb7eefedce2195289cd6c]: Textual amendment: Regs. 59A(2)-(4) inserted (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2011/2943/article/5/3)

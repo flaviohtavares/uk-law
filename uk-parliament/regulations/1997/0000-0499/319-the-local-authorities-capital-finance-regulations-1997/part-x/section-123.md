@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123. Exclusion for private finance transactions[^key-1e78194117a43dee718261e3278bf6f8]
+## 123. Exclusion for private finance transactions[^c-1e78194117a43dee718261e3278bf6f8]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e78194117a43dee718261e3278bf6f8]: Commencement: Reg. 123 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-1e78194117a43dee718261e3278bf6f8]: Commencement: Reg. 123 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

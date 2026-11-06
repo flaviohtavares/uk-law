@@ -35,11 +35,11 @@ summary: ''
 - (a) the Lord President,
 - (b) the Law Society,
 - (c) every approved regulator,
-- (d) the CMA[^key-0d2fb2a7d785f831cad917f2fbad2ec8], and such other organisation (appearing to them to represent the interests of consumers in Scotland) as they consider appropriate,
+- (d) the CMA[^c-0d2fb2a7d785f831cad917f2fbad2ec8], and such other organisation (appearing to them to represent the interests of consumers in Scotland) as they consider appropriate,
 - (e) such other person or body as they consider appropriate.
 
 (4) A statutory instrument containing regulations under subsection (1) is not to be made unless a draft of the instrument has been laid before, and approved by resolution of, the Scottish Parliament.
 
 ## Annotations
 
-[^key-0d2fb2a7d785f831cad917f2fbad2ec8]: Textual amendment: Word in [s. 147(3)(d)](https://www.legislation.gov.uk/asp/2010/16/section/147/3/d) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 203](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/203); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-0d2fb2a7d785f831cad917f2fbad2ec8]: Textual amendment: Word in [s. 147(3)(d)](https://www.legislation.gov.uk/asp/2010/16/section/147/3/d) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 203](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/203); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

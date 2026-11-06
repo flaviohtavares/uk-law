@@ -24,11 +24,11 @@ Section 120
 
 ### Introductory
 
-**1.**[^c24498321][^key-12ed06c9b705eba821a64d1d6022c0f2] The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)) is amended as follows.
+**1.**[^c24498321][^c-12ed06c9b705eba821a64d1d6022c0f2] The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)) is amended as follows.
 
 ### Qualifying pensions dashboard service
 
-**2.**[^c24498331][^key-bf71c0a5f3b4ce665992adb7a310dba4] After Article 215 insert—
+**2.**[^c24498331][^c-bf71c0a5f3b4ce665992adb7a310dba4] After Article 215 insert—
 
 > **Pensions dashboards**
 >
@@ -149,7 +149,7 @@ Section 120
 
 ### Information from occupational pension schemes
 
-**3.**[^c24498341][^key-0508e88141dfddcd2452c940abe84b15] After Article 215C (inserted by paragraph 2) insert—
+**3.**[^c24498341][^c-0508e88141dfddcd2452c940abe84b15] After Article 215C (inserted by paragraph 2) insert—
 
 > **Information from occupational pension schemes**
 >
@@ -292,7 +292,7 @@ Section 120
 
 ### Admissibility of statements
 
-**4.**[^c24498351][^key-126992dfac6c07bed13b438271b2ec21] In Article 282 (admissibility of statements), in paragraph (3)(b), after head (ai) (inserted by paragraph 25 of Schedule 8) insert—
+**4.**[^c24498351][^c-126992dfac6c07bed13b438271b2ec21] In Article 282 (admissibility of statements), in paragraph (3)(b), after head (ai) (inserted by paragraph 25 of Schedule 8) insert—
 
 > - (bi) Article 215G (penalties for contravention of regulations under Article 215D),
 
@@ -300,7 +300,7 @@ Section 120
 
 ### Assembly control of regulations
 
-**5.**[^c24498361][^key-d2e2a553c92931cdefc9a395b7a68550] In Article 288 (Assembly etc control of orders and regulations), in paragraph (3) (orders and regulations subject to confirmatory procedure), after sub-paragraph (j) insert—
+**5.**[^c24498361][^c-d2e2a553c92931cdefc9a395b7a68550] In Article 288 (Assembly etc control of orders and regulations), in paragraph (3) (orders and regulations subject to confirmatory procedure), after sub-paragraph (j) insert—
 
 > - (ja) regulations under Article 215A (qualifying pensions dashboard service);
 > - (jb) regulations under Article 215D (information from occupational pension schemes);
@@ -310,7 +310,7 @@ Section 120
 
 ### The Pensions Regulator: delegation
 
-**6.**[^c24498371][^key-256fe2eeeb5e99bb7263e65c644e291e] In Schedule 1 (the Pensions Regulator), in Part 1 (delegation), in paragraph 2(2), after paragraph (e) insert—
+**6.**[^c24498371][^c-256fe2eeeb5e99bb7263e65c644e291e] In Schedule 1 (the Pensions Regulator), in Part 1 (delegation), in paragraph 2(2), after paragraph (e) insert—
 
 > - (ea) the power to issue a compliance notice under regulations under Article 215G;
 > - (eb) the power to issue a third party compliance notice under regulations under Article 215G;
@@ -322,24 +322,24 @@ Section 120
 
 [^c24498321]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/1) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-12ed06c9b705eba821a64d1d6022c0f2]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/1) in force at 31.10.2022 in so far as not already in force by [S.R. 2022/291](https://www.legislation.gov.uk/nisr/2022/291), [art. 2](https://www.legislation.gov.uk/nisr/2022/291/article/2)
+[^c-12ed06c9b705eba821a64d1d6022c0f2]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/1) in force at 31.10.2022 in so far as not already in force by [S.R. 2022/291](https://www.legislation.gov.uk/nisr/2022/291), [art. 2](https://www.legislation.gov.uk/nisr/2022/291/article/2)
 
 [^c24498331]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/2) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-bf71c0a5f3b4ce665992adb7a310dba4]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/2) in force at 31.10.2022 in so far as not already in force by [S.R. 2022/291](https://www.legislation.gov.uk/nisr/2022/291), [art. 2](https://www.legislation.gov.uk/nisr/2022/291/article/2)
+[^c-bf71c0a5f3b4ce665992adb7a310dba4]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/2) in force at 31.10.2022 in so far as not already in force by [S.R. 2022/291](https://www.legislation.gov.uk/nisr/2022/291), [art. 2](https://www.legislation.gov.uk/nisr/2022/291/article/2)
 
 [^c24498341]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/3) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-0508e88141dfddcd2452c940abe84b15]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/3) in force at 31.10.2022 in so far as not already in force by [S.R. 2022/291](https://www.legislation.gov.uk/nisr/2022/291), [art. 2](https://www.legislation.gov.uk/nisr/2022/291/article/2)
+[^c-0508e88141dfddcd2452c940abe84b15]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/3) in force at 31.10.2022 in so far as not already in force by [S.R. 2022/291](https://www.legislation.gov.uk/nisr/2022/291), [art. 2](https://www.legislation.gov.uk/nisr/2022/291/article/2)
 
 [^c24498351]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/4) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-126992dfac6c07bed13b438271b2ec21]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/4) in force at 31.10.2022 in so far as not already in force by [S.R. 2022/291](https://www.legislation.gov.uk/nisr/2022/291), [art. 2](https://www.legislation.gov.uk/nisr/2022/291/article/2)
+[^c-126992dfac6c07bed13b438271b2ec21]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/4) in force at 31.10.2022 in so far as not already in force by [S.R. 2022/291](https://www.legislation.gov.uk/nisr/2022/291), [art. 2](https://www.legislation.gov.uk/nisr/2022/291/article/2)
 
 [^c24498361]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/5) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-d2e2a553c92931cdefc9a395b7a68550]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/5) in force at 31.10.2022 in so far as not already in force by [S.R. 2022/291](https://www.legislation.gov.uk/nisr/2022/291), [art. 2](https://www.legislation.gov.uk/nisr/2022/291/article/2)
+[^c-d2e2a553c92931cdefc9a395b7a68550]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/5) in force at 31.10.2022 in so far as not already in force by [S.R. 2022/291](https://www.legislation.gov.uk/nisr/2022/291), [art. 2](https://www.legislation.gov.uk/nisr/2022/291/article/2)
 
 [^c24498371]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/6) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-256fe2eeeb5e99bb7263e65c644e291e]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/6) in force at 31.10.2022 in so far as not already in force by [S.R. 2022/291](https://www.legislation.gov.uk/nisr/2022/291), [art. 2](https://www.legislation.gov.uk/nisr/2022/291/article/2)
+[^c-256fe2eeeb5e99bb7263e65c644e291e]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/6) in force at 31.10.2022 in so far as not already in force by [S.R. 2022/291](https://www.legislation.gov.uk/nisr/2022/291), [art. 2](https://www.legislation.gov.uk/nisr/2022/291/article/2)

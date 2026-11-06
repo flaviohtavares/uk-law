@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 169. Cheating[^key-9ab58b550f69261071c08ea1d6e9724a]
+## 169. Cheating[^c-9ab58b550f69261071c08ea1d6e9724a]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ is guilty of an offence.
 
 ## Annotations
 
-[^key-9ab58b550f69261071c08ea1d6e9724a]: Textual amendment: [Art. 169](https://www.legislation.gov.uk/nisi/1985/1204/article/169) substituted (1.10.2023) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 13](https://www.legislation.gov.uk/nia/2022/14/section/13), [17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3); [S.R. 2023/74](https://www.legislation.gov.uk/nisr/2023/74), [art. 2](https://www.legislation.gov.uk/nisr/2023/74/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/74/schedule)
+[^c-9ab58b550f69261071c08ea1d6e9724a]: Textual amendment: [Art. 169](https://www.legislation.gov.uk/nisi/1985/1204/article/169) substituted (1.10.2023) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 13](https://www.legislation.gov.uk/nia/2022/14/section/13), [17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3); [S.R. 2023/74](https://www.legislation.gov.uk/nisr/2023/74), [art. 2](https://www.legislation.gov.uk/nisr/2023/74/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/74/schedule)

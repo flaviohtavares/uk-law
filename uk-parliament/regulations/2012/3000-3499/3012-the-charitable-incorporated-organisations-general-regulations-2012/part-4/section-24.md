@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Official seal for use abroad[^key-90a3bb356360e0243254bd262a3599fd]
+## 24. Official seal for use abroad[^c-90a3bb356360e0243254bd262a3599fd]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90a3bb356360e0243254bd262a3599fd]: Commencement: Reg. 24 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-90a3bb356360e0243254bd262a3599fd]: Commencement: Reg. 24 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

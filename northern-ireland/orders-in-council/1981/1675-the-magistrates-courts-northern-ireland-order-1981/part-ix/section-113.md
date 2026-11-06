@@ -44,10 +44,10 @@ summary: ''
 - (a) the notice shall be deemed to have been served on him notwithstanding that it is returned as undelivered or is for any other reason not received by that person; and
 - (b) if that person does not appear at that time and place, the court may proceed with the consideration of the application in his absence.
 
-(7) In this Article “the court” means a court of summary jurisdiction [^key-34b96682f678c53defb27464e9400535]....
+(7) In this Article “the court” means a court of summary jurisdiction [^c-34b96682f678c53defb27464e9400535]....
 
 (8) This Article does not prejudice section 44 of the Judicature (Northern Ireland) Act 1978 (appeal to Court of Appeal from order or decision of a magistrates' court under Article 112).
 
 ## Annotations
 
-[^key-34b96682f678c53defb27464e9400535]: Textual amendment: Words in [art. 113(7)](https://www.legislation.gov.uk/nisi/1981/1675/article/113/7) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 86(24)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/86/24), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-34b96682f678c53defb27464e9400535]: Textual amendment: Words in [art. 113(7)](https://www.legislation.gov.uk/nisi/1981/1675/article/113/7) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 86(24)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/86/24), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

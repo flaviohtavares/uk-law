@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 354F. Information under the transparency obligations directive[^key-1ea4fb2d9fa93a45bc6fc739b379fcc8]
+## 354F. Information under the transparency obligations directive[^c-1ea4fb2d9fa93a45bc6fc739b379fcc8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ea4fb2d9fa93a45bc6fc739b379fcc8]: Textual amendment: Ss. 354D-354H omitted (31.12.2020) by virtue of [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [2(6)](https://www.legislation.gov.uk/uksi/2019/681/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1ea4fb2d9fa93a45bc6fc739b379fcc8]: Textual amendment: Ss. 354D-354H omitted (31.12.2020) by virtue of [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [2(6)](https://www.legislation.gov.uk/uksi/2019/681/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — ALTERNATIVE COURTS FOR DEBTORS' PETITIONS IN BANKRUPTCY[^key-3369e067dc3a63e2122cca17ac90adb7]
+## SCHEDULE 2 — ALTERNATIVE COURTS FOR DEBTORS' PETITIONS IN BANKRUPTCY[^c-3369e067dc3a63e2122cca17ac90adb7]
 
 *Extent: E+W*
 
@@ -121,4 +121,4 @@ Rule 6.40(3)
 
 ## Annotations
 
-[^key-3369e067dc3a63e2122cca17ac90adb7]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1986/1925/schedule/2) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/rule/1), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1987/1919/schedule/part/3)
+[^c-3369e067dc3a63e2122cca17ac90adb7]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1986/1925/schedule/2) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/rule/1), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1987/1919/schedule/part/3)

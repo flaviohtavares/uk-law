@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Disclosure with appropriate consent[^key-fa6a4422d74c2693c2a851f7a207a40a]
+## 67. Disclosure with appropriate consent[^c-fa6a4422d74c2693c2a851f7a207a40a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa6a4422d74c2693c2a851f7a207a40a]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2016/20/section/67) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-fa6a4422d74c2693c2a851f7a207a40a]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2016/20/section/67) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

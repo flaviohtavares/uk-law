@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Status[^key-01bbe96580c6025ac354444e9071a312]
+## 16. Status[^c-01bbe96580c6025ac354444e9071a312]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The body is not to be regarded as acting on behalf of the Crown and its members,
 
 ## Annotations
 
-[^key-01bbe96580c6025ac354444e9071a312]: Commencement: Reg. 16 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-01bbe96580c6025ac354444e9071a312]: Commencement: Reg. 16 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

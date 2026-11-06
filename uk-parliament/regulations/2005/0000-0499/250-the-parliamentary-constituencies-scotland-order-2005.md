@@ -31,7 +31,7 @@ summary: ''
 
 REPRESENTATION OF THE PEOPLE
 
-The Parliamentary Constituencies (Scotland) Order 2005 (revoked)[^key-2b46f24900bc776c5d67e2242fdfff81]
+The Parliamentary Constituencies (Scotland) Order 2005 (revoked)[^c-2b46f24900bc776c5d67e2242fdfff81]
 
 Made
 
@@ -47,30 +47,30 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-2b46f24900bc776c5d67e2242fdfff81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b46f24900bc776c5d67e2242fdfff81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-2b46f24900bc776c5d67e2242fdfff81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2b46f24900bc776c5d67e2242fdfff81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2b46f24900bc776c5d67e2242fdfff81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2b46f24900bc776c5d67e2242fdfff81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2b46f24900bc776c5d67e2242fdfff81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2b46f24900bc776c5d67e2242fdfff81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2b46f24900bc776c5d67e2242fdfff81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2b46f24900bc776c5d67e2242fdfff81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2b46f24900bc776c5d67e2242fdfff81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b46f24900bc776c5d67e2242fdfff81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-2b46f24900bc776c5d67e2242fdfff81]
+## SCHEDULE[^c-2b46f24900bc776c5d67e2242fdfff81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2b46f24900bc776c5d67e2242fdfff81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b46f24900bc776c5d67e2242fdfff81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2b46f24900bc776c5d67e2242fdfff81]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2005/250) revoked (29.11.2023) by [The Parliamentary Constituencies Order 2023 (S.I. 2023/1230)](https://www.legislation.gov.uk/uksi/2023/1230), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2023/1230/article/8/a)
+[^c-2b46f24900bc776c5d67e2242fdfff81]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2005/250) revoked (29.11.2023) by [The Parliamentary Constituencies Order 2023 (S.I. 2023/1230)](https://www.legislation.gov.uk/uksi/2023/1230), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2023/1230/article/8/a)

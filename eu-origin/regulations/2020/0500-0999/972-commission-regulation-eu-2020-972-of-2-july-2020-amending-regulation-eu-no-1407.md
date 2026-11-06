@@ -35,16 +35,16 @@ amending Regulation (EU) No 1407/2013 as regards its prolongation and amending R
 
 (Text with EEA relevance) (revoked)
 
-[^key-c5d87fa8252988e525bb365424b4d560]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5d87fa8252988e525bb365424b4d560]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c5d87fa8252988e525bb365424b4d560] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c5d87fa8252988e525bb365424b4d560] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c5d87fa8252988e525bb365424b4d560] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c5d87fa8252988e525bb365424b4d560] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-c5d87fa8252988e525bb365424b4d560] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-c5d87fa8252988e525bb365424b4d560] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c5d87fa8252988e525bb365424b4d560]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5d87fa8252988e525bb365424b4d560]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c5d87fa8252988e525bb365424b4d560]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(y)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/y) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-c5d87fa8252988e525bb365424b4d560]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(y)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/y) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

@@ -47,7 +47,7 @@ In accordance with section 50(6)(c) and (8) of the Agriculture Act 2020 and para
 
 ## PART 1 — Introductory
 
-### 1. Title, commencement and application[^key-804636a3102e1f01287385044c8311e8]
+### 1. Title, commencement and application[^c-804636a3102e1f01287385044c8311e8]
 
 (1) The title of these Regulations is the Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021.
 
@@ -57,7 +57,7 @@ In accordance with section 50(6)(c) and (8) of the Agriculture Act 2020 and para
 
 ## PART 2 — Rural Development: Horizontal Legislation
 
-### 2. Amendment of Regulation (EU) No. 1306/2013[^key-d7e7998fa26145c987599f96b68dbdd7]
+### 2. Amendment of Regulation (EU) No. 1306/2013[^c-d7e7998fa26145c987599f96b68dbdd7]
 
 (1) Regulation (EU) No. 1306/2013 of the European Parliament and of the Council on the financing, management and monitoring of the common agricultural policy[^f00003], is amended, insofar as it relates to domestic support for rural development, as follows.
 
@@ -132,7 +132,7 @@ In accordance with section 50(6)(c) and (8) of the Agriculture Act 2020 and para
 
 > - . Restrictions on converting, ploughing or reseeding environmentally sensitive permanent grassland.
 
-### 3. Amendment of Commission Delegated Regulation (EU) No. 640/2014[^key-cf93ca1ca9cbbee7b2e2219ac624dd02]
+### 3. Amendment of Commission Delegated Regulation (EU) No. 640/2014[^c-cf93ca1ca9cbbee7b2e2219ac624dd02]
 
 (1) Commission Delegated Regulation (EU) No. 640/2014 supplementing Regulation (EU) No. 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system and conditions for refusal or withdrawal of payments and administrative penalties applicable to direct payments, rural development support and cross compliance[^f00004], is amended, insofar as it relates to domestic support for rural development, as follows.
 
@@ -189,7 +189,7 @@ In accordance with section 50(6)(c) and (8) of the Agriculture Act 2020 and para
 
 (11) Omit Title V.
 
-### 4. Amendment of Commission Implementing Regulation (EU) No. 809/2014[^key-1a8a5428f065a3950edd97676bc6c357]
+### 4. Amendment of Commission Implementing Regulation (EU) No. 809/2014[^c-1a8a5428f065a3950edd97676bc6c357]
 
 (1) Commission Implementing Regulation (EU) No. 809/2014 laying down rules for the application of Regulation (EU) No. 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance[^f00005], is amended, in so far as it relates to domestic support for rural development, as follows.
 
@@ -323,7 +323,7 @@ In accordance with section 50(6)(c) and (8) of the Agriculture Act 2020 and para
 - (c) in paragraph 3, omit the final sentence in the first subparagraph;
 - (d) in paragraph 4, omit the second sentence of the first subparagraph.
 
-### 5. Amendment of Commission Implementing Regulation (EU) No. 908/2014[^key-5031fccc7577cabdf09f363d2c806d21]
+### 5. Amendment of Commission Implementing Regulation (EU) No. 908/2014[^c-5031fccc7577cabdf09f363d2c806d21]
 
 (1) Commission Implementing Regulation (EU) No. 908/2014 laying down rules for the application of Regulation (EU) No. 1306/2013 of the European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of accounts, rules on checks, securities and transparency[^f00006] is amended, insofar as it relates to domestic support for rural development, as follows.
 
@@ -361,7 +361,7 @@ In accordance with section 50(6)(c) and (8) of the Agriculture Act 2020 and para
 
 ## PART 3 — Rural Development: Retained Direct Legislation
 
-### 6. Amendment of Regulation (EU) No. 1303/2013 of the European Parliament and of the Council of 17 December 2013[^key-56afc79e8da5ae0316f81d62227866da]
+### 6. Amendment of Regulation (EU) No. 1303/2013 of the European Parliament and of the Council of 17 December 2013[^c-56afc79e8da5ae0316f81d62227866da]
 
 (1) Regulation (EU) No. 1303/2013 of the European Parliament and of the Council of 17 December 2013 laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund and repealing Council Regulation (EU) No 1083/2006[^f00007], is amended, insofar as it relates to domestic support for rural development, as follows.
 
@@ -543,7 +543,7 @@ In accordance with section 50(6)(c) and (8) of the Agriculture Act 2020 and para
 (27) In Article 68a(1)—
 
 - (i) for “the relevant authority” substitute “The relevant authority”;
-- (ii)[^key-88c43a3a2cb4981df6e3edce4eebd3a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ii)[^c-88c43a3a2cb4981df6e3edce4eebd3a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (28) In Article 70—
 
@@ -600,7 +600,7 @@ In accordance with section 50(6)(c) and (8) of the Agriculture Act 2020 and para
 
 (37) Omit Annex XI.
 
-### 7. Amendment of Regulation (EU) No. 1305/2013[^key-3346e6069450020715c74d0537afec18]
+### 7. Amendment of Regulation (EU) No. 1305/2013[^c-3346e6069450020715c74d0537afec18]
 
 (1) Regulation (EU) No. 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698)[^f00009] is amended, insofar as it relates to domestic support for rural development, as follows.
 
@@ -912,7 +912,7 @@ In accordance with section 50(6)(c) and (8) of the Agriculture Act 2020 and para
 
 (54) Omit Annexes V and VI.
 
-### 8. Amendment of Commission Delegated Regulation (EU) No. 480/2014[^key-c4cd7f43f6508d79d8429f78981e0807]
+### 8. Amendment of Commission Delegated Regulation (EU) No. 480/2014[^c-c4cd7f43f6508d79d8429f78981e0807]
 
 (1) Commission Delegated Regulation (EU) No 480/2014 supplementing Regulation (EU) No 1303/2013 of the European Parliament and of the Council laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund[^f00012], is amended, insofar as it relates to domestic support for rural development, as follows.
 
@@ -1008,7 +1008,7 @@ In accordance with section 50(6)(c) and (8) of the Agriculture Act 2020 and para
 - (a) omit “(EU, Euratom)” in the heading and the first subparagraph;
 - (b) omit point (d).
 
-### 9. Amendment of Commission Delegated Regulation (EU) No. 807/2014[^key-2b298821ec9f132b27009fa0e6f0c3e8]
+### 9. Amendment of Commission Delegated Regulation (EU) No. 807/2014[^c-2b298821ec9f132b27009fa0e6f0c3e8]
 
 (1) Commission Delegated Regulation (EU) No 807/2014 of 11 March 2014 supplementing Regulation (EU) No 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and introducing transitional provisions[^f00013], is amended, insofar as relates to domestic support for rural development, as follows.
 
@@ -1031,7 +1031,7 @@ In accordance with section 50(6)(c) and (8) of the Agriculture Act 2020 and para
 
 (9) Omit Annexes I and II.
 
-### 10. Amendment of Commission Implementing Regulation (EU) No. 808/2014 of the European Parliament and of the Council[^key-519c209607a3021cb8ba9baf54779594]
+### 10. Amendment of Commission Implementing Regulation (EU) No. 808/2014 of the European Parliament and of the Council[^c-519c209607a3021cb8ba9baf54779594]
 
 (1) Commission Implementing Regulation (EU) No. 808/2014 of the European Parliament and of the Council of 17 July 2014 laying down rules for the application of Regulation (EU) No 1305/2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) [^f00014], is amended, insofar as it relates to domestic support for rural development, as follows.
 
@@ -1045,7 +1045,7 @@ In accordance with section 50(6)(c) and (8) of the Agriculture Act 2020 and para
 
 (6) Omit Annex IV, V and VII.
 
-### 11. Amendment of Commission Implementing Regulation (EU) No. 821/2014[^key-55177e79d13bab00041279c50d3669f9]
+### 11. Amendment of Commission Implementing Regulation (EU) No. 821/2014[^c-55177e79d13bab00041279c50d3669f9]
 
 (1) Commission Implementing Regulation (EU) No 821/2014 laying down rules for the application of Regulation (EU) No 1303/2013 of the European Parliament and of the Council as regards detailed arrangements for the transfer and management of programme contributions, the reporting on financial instruments, technical characteristics of information and communication measures for operations and the system to record and store data[^f00015], is amended, insofar as it relates to domestic support for rural development, as follows.
 
@@ -1066,7 +1066,7 @@ In accordance with section 50(6)(c) and (8) of the Agriculture Act 2020 and para
 
 (5) Omit Annex I.
 
-### 12. Amendment of Commission Implementing Regulation (EU) No. 964/2014[^key-e17a8266c7e9b2c98dad04b0d6fcdc51]
+### 12. Amendment of Commission Implementing Regulation (EU) No. 964/2014[^c-e17a8266c7e9b2c98dad04b0d6fcdc51]
 
 (1) Commission Implementing Regulation (EU) No. 964/2014 laying down rules for the application of Regulation (EU) No. 1303/2013 of the European Parliament and of the Council as regards standard terms and conditions for financial instruments, is amended, insofar as it relates to domestic support for rural development, as follows.
 
@@ -1104,11 +1104,11 @@ In accordance with section 50(6)(c) and (8) of the Agriculture Act 2020 and para
 
 ## PART 4 — Rural Development: Domestic Legislation
 
-### 13. Amendment of the Rural Development Programmes (Wales) Regulations 2014[^key-78136d78bda1f3a52d1ae41c725a9357]
+### 13. Amendment of the Rural Development Programmes (Wales) Regulations 2014[^c-78136d78bda1f3a52d1ae41c725a9357]
 
 Omit regulation 2(3) of the Rural Development Programmes (Wales) Regulations 2014[^f00016].
 
-### 14. Amendment of the Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014[^key-56e456d09e597aff263811d84ed24ca6]
+### 14. Amendment of the Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014[^c-56e456d09e597aff263811d84ed24ca6]
 
 (1) The Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014[^f00017] are amended, in so far as they relate to domestic support for rural development, as follows.
 
@@ -1130,7 +1130,7 @@ Omit regulation 2(3) of the Rural Development Programmes (Wales) Regulations 201
 
 ## PART 5 — Direct Payments: Horizontal Legislation
 
-### 15. Amendment of Regulation (EU) No. 1306/2013[^key-0b85f2172c45120a267aa8e17759e715]
+### 15. Amendment of Regulation (EU) No. 1306/2013[^c-0b85f2172c45120a267aa8e17759e715]
 
 (1) Regulation (EU) No. 1306/2013, is amended, insofar as it relates to direct payments, as follows.
 
@@ -1144,7 +1144,7 @@ Omit regulation 2(3) of the Rural Development Programmes (Wales) Regulations 201
 
 (4) In Article 78(b), after “Article 72,” insert “and applications for payment entitlements,”.
 
-### 16. Amendment of Commission Delegated Regulation (EU) No. 640/2014[^key-aec39733e7896383f13aae51874cda0c]
+### 16. Amendment of Commission Delegated Regulation (EU) No. 640/2014[^c-aec39733e7896383f13aae51874cda0c]
 
 (1) Commission Delegated Regulation (EU) No. 640/2014, insofar as it relates to direct payments, is amended as follows.
 
@@ -1152,7 +1152,7 @@ Omit regulation 2(3) of the Rural Development Programmes (Wales) Regulations 201
 
 (3) In Article 12(b), for “third of” substitute “second subparagraph of”.
 
-### 17. Amendment of Commission Implementing Regulation (EU) No. 809/2014[^key-48e0b432134113984b124beb8019813d]
+### 17. Amendment of Commission Implementing Regulation (EU) No. 809/2014[^c-48e0b432134113984b124beb8019813d]
 
 (1) Commission Implementing Regulation (EU) No. 809/2014 is amended, insofar as it relates to direct payments, as follows.
 
@@ -1186,31 +1186,31 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). See section 20(1) for the definition of “devolved authority”.
 
-[^key-804636a3102e1f01287385044c8311e8]: Commencement: Reg. 1 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
+[^c-804636a3102e1f01287385044c8311e8]: Commencement: Reg. 1 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
 
-[^key-d7e7998fa26145c987599f96b68dbdd7]: Commencement: Reg. 2 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
+[^c-d7e7998fa26145c987599f96b68dbdd7]: Commencement: Reg. 2 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
 
 [^f00003]: Footnote: EUR 2013/1306, amended in relation to support for rural development by [S.I. 2020/90](https://www.legislation.gov.uk/uksi/2020/90) and [576](https://www.legislation.gov.uk/uksi/2020/576). EUR 2013/1306 is amended by [S.I. 2019/748](https://www.legislation.gov.uk/uksi/2019/748) (as amended by [S.I. 2019/831](https://www.legislation.gov.uk/uksi/2019/831)), 763 (as amended by [S.I. 2019/812](https://www.legislation.gov.uk/uksi/2019/812)), 831 and 1402. However, by virtue of the amendments in [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), these amendments do not have effect in relation to rural development support.
 
-[^key-cf93ca1ca9cbbee7b2e2219ac624dd02]: Commencement: Reg. 3 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
+[^c-cf93ca1ca9cbbee7b2e2219ac624dd02]: Commencement: Reg. 3 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
 
 [^f00004]: Footnote: EUR 2014/640, amended in relation to rural support by [S.I. 2020/90](https://www.legislation.gov.uk/uksi/2020/90) and in relation to England by [S.I. 2020/551](https://www.legislation.gov.uk/uksi/2020/551). EUR 2014/640 is also amended by [S.I. 2019/765](https://www.legislation.gov.uk/uksi/2019/765). However, by virtue of the amendments in [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), these amendments do not have effect in relation to support for rural development.
 
-[^key-1a8a5428f065a3950edd97676bc6c357]: Commencement: Reg. 4 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
+[^c-1a8a5428f065a3950edd97676bc6c357]: Commencement: Reg. 4 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
 
 [^f00005]: Footnote: EUR 2014/809, amended in relation to direct payment schemes by [S.I. 2020/90](https://www.legislation.gov.uk/uksi/2020/90) and [576](https://www.legislation.gov.uk/uksi/2020/576). EUR 2014/809 is also amended in relation to rural development schemes in Wales by [S.I. 2020/510](https://www.legislation.gov.uk/uksi/2020/510) and [575](https://www.legislation.gov.uk/uksi/2020/575). EUR 2014/809 is also amended by [S.I. 2019/765](https://www.legislation.gov.uk/uksi/2019/765). However, by virtue of the amendments in [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), these amendments do not have effect in relation to rural development support.
 
-[^key-5031fccc7577cabdf09f363d2c806d21]: Commencement: Reg. 5 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
+[^c-5031fccc7577cabdf09f363d2c806d21]: Commencement: Reg. 5 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
 
 [^f00006]: Footnote: EUR 2014/908, amended by [S.I. 2020/90](https://www.legislation.gov.uk/uksi/2020/90).
 
-[^key-56afc79e8da5ae0316f81d62227866da]: Commencement: Reg. 6 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
+[^c-56afc79e8da5ae0316f81d62227866da]: Commencement: Reg. 6 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
 
 [^f00007]: Footnote: EUR 2013/1303, amended by [2019/785](https://www.legislation.gov.uk/uksi/2018/785), [2018/1046](https://www.legislation.gov.uk/uksi/2018/1046), [2019/785](https://www.legislation.gov.uk/uksi/2019/785), [2019/748](https://www.legislation.gov.uk/uksi/2019/748), and [2019/1422](https://www.legislation.gov.uk/uksi/2019/1422).
 
-[^key-88c43a3a2cb4981df6e3edce4eebd3a3]: Textual amendment: [Reg. 6(27)(ii)](https://www.legislation.gov.uk/wsi/2021/400/regulation/6/27/ii) omitted (24.2.2025) by virtue of [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [52](https://www.legislation.gov.uk/wsi/2024/782/regulation/52) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)) ([S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-88c43a3a2cb4981df6e3edce4eebd3a3]: Textual amendment: [Reg. 6(27)(ii)](https://www.legislation.gov.uk/wsi/2021/400/regulation/6/27/ii) omitted (24.2.2025) by virtue of [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [52](https://www.legislation.gov.uk/wsi/2024/782/regulation/52) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)) ([S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-3346e6069450020715c74d0537afec18]: Commencement: Reg. 7 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
+[^c-3346e6069450020715c74d0537afec18]: Commencement: Reg. 7 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
 
 [^f00009]: Footnote: EUR 2013/1305, amended by [S.I. 2019/748](https://www.legislation.gov.uk/uksi/2019/748), [S.I. 2019/764](https://www.legislation.gov.uk/uksi/2019/764), and [S.I. 2019/1422](https://www.legislation.gov.uk/uksi/2019/1422).
 
@@ -1218,36 +1218,36 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00011]: Footnote: [2016 c. 3](https://www.legislation.gov.uk/ukpga/2016/3).
 
-[^key-c4cd7f43f6508d79d8429f78981e0807]: Commencement: Reg. 8 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
+[^c-c4cd7f43f6508d79d8429f78981e0807]: Commencement: Reg. 8 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
 
 [^f00012]: Footnote: EUR 2014/480, amended by [S.I. 2019/783](https://www.legislation.gov.uk/uksi/2019/783), [2015/616](https://www.legislation.gov.uk/uksi/2015/616) and [2019/625](https://www.legislation.gov.uk/uksi/2019/625).
 
-[^key-2b298821ec9f132b27009fa0e6f0c3e8]: Commencement: Reg. 9 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
+[^c-2b298821ec9f132b27009fa0e6f0c3e8]: Commencement: Reg. 9 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
 
 [^f00013]: Footnote: EUR 2014/807, amended by [S.I. 2019/770](https://www.legislation.gov.uk/uksi/2019/770).
 
-[^key-519c209607a3021cb8ba9baf54779594]: Commencement: Reg. 10 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
+[^c-519c209607a3021cb8ba9baf54779594]: Commencement: Reg. 10 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
 
 [^f00014]: Footnote: EUR 2014/808, amended by [S.I. 2019/770](https://www.legislation.gov.uk/uksi/2019/770).
 
-[^key-55177e79d13bab00041279c50d3669f9]: Commencement: Reg. 11 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
+[^c-55177e79d13bab00041279c50d3669f9]: Commencement: Reg. 11 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
 
 [^f00015]: Footnote: EUR 964/2014, amended by [2019/783](https://www.legislation.gov.uk/uksi/2019/783) and [2016/1157](https://www.legislation.gov.uk/uksi/2016/1157).
 
-[^key-e17a8266c7e9b2c98dad04b0d6fcdc51]: Commencement: Reg. 12 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
+[^c-e17a8266c7e9b2c98dad04b0d6fcdc51]: Commencement: Reg. 12 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
 
-[^key-78136d78bda1f3a52d1ae41c725a9357]: Commencement: Reg. 13 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
+[^c-78136d78bda1f3a52d1ae41c725a9357]: Commencement: Reg. 13 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
 
 [^f00016]: Footnote: [S.I. 2014/3222 (W. 327)](https://www.legislation.gov.uk/wsi/2014/3222), amended by [S.I. 2019/688 (W. 132)](https://www.legislation.gov.uk/wsi/2019/688).
 
-[^key-56e456d09e597aff263811d84ed24ca6]: Commencement: Reg. 14 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
+[^c-56e456d09e597aff263811d84ed24ca6]: Commencement: Reg. 14 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
 
 [^f00017]: Footnote: [S.I. 2014/3223 (W. 328)](https://www.legislation.gov.uk/wsi/2014/3223), amended by [S.I. 2016/217 (W. 86)](https://www.legislation.gov.uk/wsi/2016/217), [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), [S.I. 2017/565 (W. 134)](https://www.legislation.gov.uk/wsi/2017/565), [S.I. 2019/688 (W. 132)](https://www.legislation.gov.uk/wsi/2019/688), [S.I. 2020/104 (W. 17)](https://www.legislation.gov.uk/wsi/2020/104) and [S.I. 2020/1556 (W. 328)](https://www.legislation.gov.uk/wsi/2020/1556).
 
 [^f00018]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-0b85f2172c45120a267aa8e17759e715]: Commencement: Reg. 15 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
+[^c-0b85f2172c45120a267aa8e17759e715]: Commencement: Reg. 15 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
 
-[^key-aec39733e7896383f13aae51874cda0c]: Commencement: Reg. 16 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
+[^c-aec39733e7896383f13aae51874cda0c]: Commencement: Reg. 16 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
 
-[^key-48e0b432134113984b124beb8019813d]: Commencement: Reg. 17 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)
+[^c-48e0b432134113984b124beb8019813d]: Commencement: Reg. 17 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12A. Orders for compulsory acquisition of rights over land: pipe-lines for conveying carbon dioxide[^key-ac5e5fd6bf09ea5a9218aff9cf90e367]
+## 12A. Orders for compulsory acquisition of rights over land: pipe-lines for conveying carbon dioxide[^c-ac5e5fd6bf09ea5a9218aff9cf90e367]
 
 *Extent: E+W+S*
 
@@ -60,4 +60,4 @@ An order under this subsection is referred to in this Act as a “compulsory rig
 
 ## Annotations
 
-[^key-ac5e5fd6bf09ea5a9218aff9cf90e367]: Textual amendment: S. 12A and cross-heading inserted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 108(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/108/3), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/iii)
+[^c-ac5e5fd6bf09ea5a9218aff9cf90e367]: Textual amendment: S. 12A and cross-heading inserted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 108(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/108/3), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/iii)

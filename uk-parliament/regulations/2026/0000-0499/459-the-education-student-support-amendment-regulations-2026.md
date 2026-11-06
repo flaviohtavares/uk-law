@@ -48,7 +48,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## Part 1 — General
 
-### 1. Citation, commencement, extent, application and interpretation[^key-9dae237fdaf09a1d61952b320c23e5dc]
+### 1. Citation, commencement, extent, application and interpretation[^c-9dae237fdaf09a1d61952b320c23e5dc]
 
 (1) These Regulations may be cited as the Education (Student Support) (Amendment) Regulations 2026.
 
@@ -60,11 +60,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## Part 2 — Amendment of the Education (Student Support) Regulations 2011
 
-### 2. Amendment of the Education (Student Support) Regulations 2011[^key-a1aeb02e05fe4bb1e15b82532a61447a]
+### 2. Amendment of the Education (Student Support) Regulations 2011[^c-a1aeb02e05fe4bb1e15b82532a61447a]
 
 The 2011 Regulations are amended in accordance with this Part.
 
-### 3. Amendment to regulation 2 (interpretation: general)[^key-e5a42bbc95659d07adcb410dd3345cfb]
+### 3. Amendment to regulation 2 (interpretation: general)[^c-e5a42bbc95659d07adcb410dd3345cfb]
 
 In regulation 2, after the definition of “qualified teacher”, insert—
 
@@ -72,7 +72,7 @@ In regulation 2, after the definition of “qualified teacher”, insert—
 
 .
 
-### 4. Amendment to regulation 2A (meaning of “in-year qualifying event”, “protected category event”, “settled status event”, “course designation event” etc. and related matters)[^key-3f0532b0b0c33efd074833f9dd141711]
+### 4. Amendment to regulation 2A (meaning of “in-year qualifying event”, “protected category event”, “settled status event”, “course designation event” etc. and related matters)[^c-3f0532b0b0c33efd074833f9dd141711]
 
 In regulation 2A[^f00003]—
 
@@ -97,7 +97,7 @@ In regulation 2A[^f00003]—
 
     .
 
-### 5. Amendment to regulation 5 (designated courses)[^key-889804cce30da8af673025572806e031]
+### 5. Amendment to regulation 5 (designated courses)[^c-889804cce30da8af673025572806e031]
 
 In regulation 5(1)(d)[^f00004]—
 
@@ -111,7 +111,7 @@ In regulation 5(1)(d)[^f00004]—
 
   .
 
-### 6. Insertion of new Part 2A[^key-40e52d6a1ded5c38df89201e7b31b133]
+### 6. Insertion of new Part 2A[^c-40e52d6a1ded5c38df89201e7b31b133]
 
 After regulation 7, insert—
 
@@ -292,7 +292,7 @@ After regulation 7, insert—
 
 .
 
-### 7. Amendment to regulation 139 (designated part-time courses)[^key-e08822eb5e31aa0a3e3148792dee437e]
+### 7. Amendment to regulation 139 (designated part-time courses)[^c-e08822eb5e31aa0a3e3148792dee437e]
 
 In regulation 139(1)(d)[^f00016]—
 
@@ -306,7 +306,7 @@ In regulation 139(1)(d)[^f00016]—
 
   .
 
-### 8. Amendment to regulation 161 (designated postgraduate courses)[^key-2f8ec289adaad7469164a3262b8a0a5e]
+### 8. Amendment to regulation 161 (designated postgraduate courses)[^c-2f8ec289adaad7469164a3262b8a0a5e]
 
 In regulation 161(1)(c)[^f00017]—
 
@@ -322,7 +322,7 @@ In regulation 161(1)(c)[^f00017]—
 
 ## Part 3 — Transitional Provisions
 
-### 9. Interpretation of Part 3[^key-6e5c9bf4a262cc08c5490c0bb7bd6762]
+### 9. Interpretation of Part 3[^c-6e5c9bf4a262cc08c5490c0bb7bd6762]
 
 In this Part—
 
@@ -337,7 +337,7 @@ In this Part—
 - “**register**” has the meaning given in regulation 2 of the 2011 Regulations;
 - “**student population**” has the meaning given in regulation 7B of the 2011 Regulations (as inserted by regulation 6 of these Regulations).
 
-### 10. Ongoing applications for registration[^key-10cc5ad841e6a72e2e140d3b6bbef039]
+### 10. Ongoing applications for registration[^c-10cc5ad841e6a72e2e140d3b6bbef039]
 
 (1) This regulation applies where the following conditions are met—
 
@@ -348,7 +348,7 @@ In this Part—
 
 (2) That franchised provider is a qualifying franchised provider for the academic year beginning with 1st September 2028.
 
-### 11. Transitional appeals[^key-4282c8bf67df3296f11bd17327178713]
+### 11. Transitional appeals[^c-4282c8bf67df3296f11bd17327178713]
 
 (1) This regulation will cease to have effect on 31st August 2029.
 
@@ -388,23 +388,23 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30). Section 22 was amended by section 146(2)(a) of the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21) and section 88(2) of the Higher Education and Research Act [2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29); there are other amending instruments but none is relevant. There are amendments to section 42 but none is relevant.
 
-[^key-9dae237fdaf09a1d61952b320c23e5dc]: Commencement: Reg. 1 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
+[^c-9dae237fdaf09a1d61952b320c23e5dc]: Commencement: Reg. 1 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2011/1986](https://www.legislation.gov.uk/uksi/2011/1986), amended by [S.I. 2014/2765](https://www.legislation.gov.uk/uksi/2014/2765), [S.I. 2019/142](https://www.legislation.gov.uk/uksi/2019/142) and [S.I. 2023/74](https://www.legislation.gov.uk/uksi/2023/74); there are other amending instruments but none is relevant.
 
-[^key-a1aeb02e05fe4bb1e15b82532a61447a]: Commencement: Reg. 2 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
+[^c-a1aeb02e05fe4bb1e15b82532a61447a]: Commencement: Reg. 2 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
 
-[^key-e5a42bbc95659d07adcb410dd3345cfb]: Commencement: Reg. 3 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
+[^c-e5a42bbc95659d07adcb410dd3345cfb]: Commencement: Reg. 3 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
 
-[^key-3f0532b0b0c33efd074833f9dd141711]: Commencement: Reg. 4 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
+[^c-3f0532b0b0c33efd074833f9dd141711]: Commencement: Reg. 4 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
 
 [^f00003]: Footnote: Regulation 2A was inserted by [S.I. 2023/74](https://www.legislation.gov.uk/uksi/2023/74). Paragraphs (5) and (6) were amended by [S.I. 2023/74](https://www.legislation.gov.uk/uksi/2023/74).
 
-[^key-889804cce30da8af673025572806e031]: Commencement: Reg. 5 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
+[^c-889804cce30da8af673025572806e031]: Commencement: Reg. 5 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
 
 [^f00004]: Footnote: Paragraph (1)(d) was amended by [S.I. 2019/142](https://www.legislation.gov.uk/uksi/2019/142).
 
-[^key-40e52d6a1ded5c38df89201e7b31b133]: Commencement: Reg. 6 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
+[^c-40e52d6a1ded5c38df89201e7b31b133]: Commencement: Reg. 6 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
 
 [^f00005]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 4 is amended by sections 51 and 57 of, paragraph 10 of Schedule 7 and Schedule 8 to, the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44), Part 3 of Schedule 22 to the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), section 95 of the Childcare Act [2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [S.I. 2010/1080](https://www.legislation.gov.uk/uksi/2010/1080), paragraph 9(2) of Schedule 13 to the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), and [S.I. 2019/1027](https://www.legislation.gov.uk/uksi/2019/1027).
 
@@ -428,16 +428,16 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00015]: Footnote: As defined by section 1161(5) of the Companies Act [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-e08822eb5e31aa0a3e3148792dee437e]: Commencement: Reg. 7 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
+[^c-e08822eb5e31aa0a3e3148792dee437e]: Commencement: Reg. 7 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
 
 [^f00016]: Footnote: Paragraph (1)(d) was amended by [S.I. 2014/2765](https://www.legislation.gov.uk/uksi/2014/2765) and [S.I. 2019/142](https://www.legislation.gov.uk/uksi/2019/142).
 
-[^key-2f8ec289adaad7469164a3262b8a0a5e]: Commencement: Reg. 8 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
+[^c-2f8ec289adaad7469164a3262b8a0a5e]: Commencement: Reg. 8 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
 
 [^f00017]: Footnote: Regulation 161(1)(c) was substituted by [S.I. 2019/142](https://www.legislation.gov.uk/uksi/2019/142).
 
-[^key-6e5c9bf4a262cc08c5490c0bb7bd6762]: Commencement: Reg. 9 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
+[^c-6e5c9bf4a262cc08c5490c0bb7bd6762]: Commencement: Reg. 9 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
 
-[^key-10cc5ad841e6a72e2e140d3b6bbef039]: Commencement: Reg. 10 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
+[^c-10cc5ad841e6a72e2e140d3b6bbef039]: Commencement: Reg. 10 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
 
-[^key-4282c8bf67df3296f11bd17327178713]: Commencement: Reg. 11 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)
+[^c-4282c8bf67df3296f11bd17327178713]: Commencement: Reg. 11 in force at 19.5.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Application of this Act to planning permission granted under this Chapter[^key-ead3fcddd00d3cd48045392f44f70724]
+## 90. Application of this Act to planning permission granted under this Chapter[^c-ead3fcddd00d3cd48045392f44f70724]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ead3fcddd00d3cd48045392f44f70724]: Commencement: S. 90 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ead3fcddd00d3cd48045392f44f70724]: Commencement: S. 90 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 266. Appropriation of land held for planning purposes[^key-82a3830e49875eef50a39bbe62b23179]
+## 266. Appropriation of land held for planning purposes[^c-82a3830e49875eef50a39bbe62b23179]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82a3830e49875eef50a39bbe62b23179]: Commencement: S. 266 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-82a3830e49875eef50a39bbe62b23179]: Commencement: S. 266 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

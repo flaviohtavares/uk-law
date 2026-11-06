@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Death and succession[^key-b4a70c325dd3b2387fdf0482b93a5103]
+## 103. Death and succession[^c-b4a70c325dd3b2387fdf0482b93a5103]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4a70c325dd3b2387fdf0482b93a5103]: Commencement: [Reg. 103](https://www.legislation.gov.uk/uksi/2003/2682/regulation/103) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-b4a70c325dd3b2387fdf0482b93a5103]: Commencement: [Reg. 103](https://www.legislation.gov.uk/uksi/2003/2682/regulation/103) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)

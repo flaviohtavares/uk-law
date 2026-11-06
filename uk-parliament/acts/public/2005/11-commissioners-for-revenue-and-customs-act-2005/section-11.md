@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Treasury directions[^key-9f008689946296be5d4e8c7d665c4c13]
+## 11. Treasury directions[^c-9f008689946296be5d4e8c7d665c4c13]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In the exercise of their functions the Commissioners shall comply with any direc
 
 ## Annotations
 
-[^key-9f008689946296be5d4e8c7d665c4c13]: Commencement: S. 11 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-9f008689946296be5d4e8c7d665c4c13]: Commencement: S. 11 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)

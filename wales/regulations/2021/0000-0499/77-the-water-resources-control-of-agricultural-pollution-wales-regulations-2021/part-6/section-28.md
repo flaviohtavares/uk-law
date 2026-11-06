@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Separation of slurry[^key-38483a5197ec81354516eb487342593c]
+## 28. Separation of slurry[^c-38483a5197ec81354516eb487342593c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Separation of slurry into its solid and liquid fractions must either be carried 
 
 ## Annotations
 
-[^key-38483a5197ec81354516eb487342593c]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2021/77/regulation/28) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-38483a5197ec81354516eb487342593c]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2021/77/regulation/28) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

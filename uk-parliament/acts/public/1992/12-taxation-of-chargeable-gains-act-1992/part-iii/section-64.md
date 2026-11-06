@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In the case of a gain accruing to a person on the disposal of, or of a right or interest in or over, an asset held by another person as trustee, or as a personal representative of a deceased person, to which he became absolutely entitled as legatee or as against the trustee[^key-0e1e9b3393e160e4a2b468c2faf9ea7c]—
+(1) In the case of a gain accruing to a person on the disposal of, or of a right or interest in or over, an asset held by another person as trustee, or as a personal representative of a deceased person, to which he became absolutely entitled as legatee or as against the trustee[^c-0e1e9b3393e160e4a2b468c2faf9ea7c]—
 
-- (a) any expenditure within section 38(2) incurred by him in relation to the transfer of the asset to him by the personal representative or trustee[^key-282a785e2a2617a1bf15b3dcf24e5a19], and
-- (b) any such expenditure incurred in relation to the transfer of the asset by the personal representative or trustee[^key-041ea87792cac19f955e3c2045f43b7a],
+- (a) any expenditure within section 38(2) incurred by him in relation to the transfer of the asset to him by the personal representative or trustee[^c-282a785e2a2617a1bf15b3dcf24e5a19], and
+- (b) any such expenditure incurred in relation to the transfer of the asset by the personal representative or trustee[^c-041ea87792cac19f955e3c2045f43b7a],
 
 shall be allowable as a deduction in the computation of the gain accruing to that person on the disposal.
 
@@ -33,8 +33,8 @@ shall be allowable as a deduction in the computation of the gain accruing to tha
 
 ## Annotations
 
-[^key-0e1e9b3393e160e4a2b468c2faf9ea7c]: Textual amendment: Words in s. 64(1) substituted (with effect in accordance with Sch. 12 para. 12(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 12(1)(a)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/12/1/a)
+[^c-0e1e9b3393e160e4a2b468c2faf9ea7c]: Textual amendment: Words in s. 64(1) substituted (with effect in accordance with Sch. 12 para. 12(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 12(1)(a)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/12/1/a)
 
-[^key-282a785e2a2617a1bf15b3dcf24e5a19]: Textual amendment: Words in s. 64(1)(a) substituted (with effect in accordance with Sch. 12 para. 12(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/12/1/b)
+[^c-282a785e2a2617a1bf15b3dcf24e5a19]: Textual amendment: Words in s. 64(1)(a) substituted (with effect in accordance with Sch. 12 para. 12(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/12/1/b)
 
-[^key-041ea87792cac19f955e3c2045f43b7a]: Textual amendment: Words in s. 64(1)(b) substituted (with effect in accordance with Sch. 12 para. 12(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/12/1/b)
+[^c-041ea87792cac19f955e3c2045f43b7a]: Textual amendment: Words in s. 64(1)(b) substituted (with effect in accordance with Sch. 12 para. 12(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/12/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. Reporting and documentation requirements[^key-b141e3cc8cb10cfcefc257434d443ce1]
+## 96. Reporting and documentation requirements[^c-b141e3cc8cb10cfcefc257434d443ce1]
 
 *Extent: S*
 
@@ -43,18 +43,18 @@ summary: ''
 
 (6) The documentation must be kept for a period of at least 3 years from the date of award of the contract.
 
-(7)[^key-cb6a2f73c869038c96d8cc44cb197e88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-cb6a2f73c869038c96d8cc44cb197e88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8) Where the Scottish Ministers so request, the utility must communicate the information and documentation referred to in paragraphs (1) to (5), or its main elements, to the Scottish Ministers [^key-ebeb1a07ce2053c828c517a8865c4b34]....
+(8) Where the Scottish Ministers so request, the utility must communicate the information and documentation referred to in paragraphs (1) to (5), or its main elements, to the Scottish Ministers [^c-ebeb1a07ce2053c828c517a8865c4b34]....
 
-(9)[^key-d249c6e7485514eb29807c675c7afa98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-d249c6e7485514eb29807c675c7afa98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b141e3cc8cb10cfcefc257434d443ce1]: Commencement: [Reg. 96](https://www.legislation.gov.uk/ssi/2016/49/regulation/96) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-b141e3cc8cb10cfcefc257434d443ce1]: Commencement: [Reg. 96](https://www.legislation.gov.uk/ssi/2016/49/regulation/96) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
-[^key-cb6a2f73c869038c96d8cc44cb197e88]: Textual amendment: [Reg. 96(7)](https://www.legislation.gov.uk/ssi/2016/49/regulation/96/7) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(55)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/55/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-cb6a2f73c869038c96d8cc44cb197e88]: Textual amendment: [Reg. 96(7)](https://www.legislation.gov.uk/ssi/2016/49/regulation/96/7) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(55)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/55/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-ebeb1a07ce2053c828c517a8865c4b34]: Textual amendment: Words in [reg. 96(8)](https://www.legislation.gov.uk/ssi/2016/49/regulation/96/8) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(55)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/55/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-ebeb1a07ce2053c828c517a8865c4b34]: Textual amendment: Words in [reg. 96(8)](https://www.legislation.gov.uk/ssi/2016/49/regulation/96/8) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(55)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/55/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-d249c6e7485514eb29807c675c7afa98]: Textual amendment: [Reg. 96(9)](https://www.legislation.gov.uk/ssi/2016/49/regulation/96/9) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(55)(c)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/55/c) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-d249c6e7485514eb29807c675c7afa98]: Textual amendment: [Reg. 96(9)](https://www.legislation.gov.uk/ssi/2016/49/regulation/96/9) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(55)(c)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/55/c) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

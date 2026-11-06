@@ -41,13 +41,13 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety makes the following Regulations in exercise of the powers conferred by Articles 13 (2), 16 (3), 17 (3), 40 (7) and 48 (2) of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-e7996aa4e0dc22170392efa2387551e4]
+## 1. Citation, commencement and interpretation[^c-e7996aa4e0dc22170392efa2387551e4]
 
 (1) These Regulations may be cited as the Regulation and Quality Improvement Authority (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2010 and shall come into operation on 29<sup>th</sup> October 2010.
 
 (2) In these regulations “the principal regulations” means the Regulation and Improvement Authority (Fees and Frequency of Inspections) Regulations (Northern Ireland) 2005[^f00002].
 
-## 2. Amendment of the Regulation and Improvement Authority (Fees and Frequency of Inspections) Regulations (Northern Ireland) 2005[^key-e5b921ea65334be2417f3df0d4878480]
+## 2. Amendment of the Regulation and Improvement Authority (Fees and Frequency of Inspections) Regulations (Northern Ireland) 2005[^c-e5b921ea65334be2417f3df0d4878480]
 
 (1) The principal regulations shall be amended in accordance with the following paragraphs:
 
@@ -93,7 +93,7 @@ The Department of Health, Social Services and Public Safety makes the following 
 | --- | --- | --- | --- |
 | Voluntary Adoption Agency | Nil | Nil |  |
 
-**3.**[^key-12c0ba4cb2568a6d045c5f1f1352e970] In regulation 6 (Frequency of Inspections) [^f00010]—
+**3.**[^c-12c0ba4cb2568a6d045c5f1f1352e970] In regulation 6 (Frequency of Inspections) [^f00010]—
 
 (1) in paragraph (1) for “paragraphs (2) to (5A)” [^f00011] there shall be substituted
 
@@ -127,11 +127,11 @@ Fee charges for these new establishments and agencies have been set at nil pendi
 
 [^f00001]: Footnote: [S.I. 2003/431 (N.I.9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-e7996aa4e0dc22170392efa2387551e4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/291/regulation/1) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/291/regulation/1/1)
+[^c-e7996aa4e0dc22170392efa2387551e4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/291/regulation/1) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/291/regulation/1/1)
 
 [^f00002]: Footnote: [S.R. 2005 No. 182](https://www.legislation.gov.uk/nisr/2005/182) as amended by [S.R. 2006 No.341](https://www.legislation.gov.uk/nisr/2006/341) and [S.R. 2007 No.223](https://www.legislation.gov.uk/nisr/2007/223)
 
-[^key-e5b921ea65334be2417f3df0d4878480]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/291/regulation/2) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/291/regulation/1/1)
+[^c-e5b921ea65334be2417f3df0d4878480]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/291/regulation/2) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/291/regulation/1/1)
 
 [^f00003]: Footnote: Paragraph (1) (c) was inserted by [S.R. 2007 No.223](https://www.legislation.gov.uk/nisr/2007/223)
 
@@ -147,7 +147,7 @@ Fee charges for these new establishments and agencies have been set at nil pendi
 
 [^f00009]: Footnote: Regulation 5 was amended by [S.R. 2006 No.341](https://www.legislation.gov.uk/nisr/2006/341) and [S.R. 2007 No.223](https://www.legislation.gov.uk/nisr/2007/223)
 
-[^key-12c0ba4cb2568a6d045c5f1f1352e970]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/291/regulation/3) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/291/regulation/1/1)
+[^c-12c0ba4cb2568a6d045c5f1f1352e970]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/291/regulation/3) in operation at 29.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/291/regulation/1/1)
 
 [^f00010]: Footnote: Regulation 6 was amended by [S.R 2007 No.223](https://www.legislation.gov.uk/nisr/2007/223)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27C. Restrictions on dissolution in insolvency situations[^key-fae317c2b599fad314291531c62dd6d2]
+## 27C. Restrictions on dissolution in insolvency situations[^c-fae317c2b599fad314291531c62dd6d2]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fae317c2b599fad314291531c62dd6d2]: Textual amendment: [S. 27C](https://www.legislation.gov.uk/ukpga/1992/13/section/27C) inserted (31.1.2019) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [ss. 37(3)](https://www.legislation.gov.uk/ukpga/2017/19/section/37/3), [47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2); [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-fae317c2b599fad314291531c62dd6d2]: Textual amendment: [S. 27C](https://www.legislation.gov.uk/ukpga/1992/13/section/27C) inserted (31.1.2019) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [ss. 37(3)](https://www.legislation.gov.uk/ukpga/2017/19/section/37/3), [47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2); [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142A. Summary proceedings where child accused along with an adult[^key-7467853f13c167d823934ea6159d6c64]
+## 142A. Summary proceedings where child accused along with an adult[^c-7467853f13c167d823934ea6159d6c64]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7467853f13c167d823934ea6159d6c64]: Textual amendment: [S. 142A](https://www.legislation.gov.uk/ukpga/1995/46/section/142A) inserted (30.3.2026) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 16(5)](https://www.legislation.gov.uk/asp/2024/5/section/16/5), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/379](https://www.legislation.gov.uk/ssi/2025/379), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2025/379/regulation/2/2/d)
+[^c-7467853f13c167d823934ea6159d6c64]: Textual amendment: [S. 142A](https://www.legislation.gov.uk/ukpga/1995/46/section/142A) inserted (30.3.2026) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 16(5)](https://www.legislation.gov.uk/asp/2024/5/section/16/5), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/379](https://www.legislation.gov.uk/ssi/2025/379), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2025/379/regulation/2/2/d)

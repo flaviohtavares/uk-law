@@ -34,13 +34,13 @@ An Act to make provision regulating taxi operators, taxis and taxi drivers; and 
 
 \[21st April 2008\]
 
-BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^key-bc52365f2886efc5431840672dc0cbed]
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^c-bc52365f2886efc5431840672dc0cbed]
 
 ## PART 1 — REGULATION OF TAXI OPERATORS
 
 ### CHAPTER 1 — GENERAL
 
-#### 1. Requirement for operator's licence[^key-40ce5b54272be941d3f47a91b98be875][^key-ddab24f9c970d2be8f84b0765dc85a00]
+#### 1. Requirement for operator's licence[^c-40ce5b54272be941d3f47a91b98be875][^c-ddab24f9c970d2be8f84b0765dc85a00]
 
 (1) Subject to subsection (2), a person shall not operate a taxi service unless the person is the holder of an operator's licence (in this Act referred to as a “**licensed operator**”).
 
@@ -55,7 +55,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 subject to such exceptions as may be prescribed
 
-#### 2. Operator's licences[^key-5a4fab1929c7e6673d825dd6d1d1f18b][^key-e3352394394efa64545cd588a286f947]
+#### 2. Operator's licences[^c-5a4fab1929c7e6673d825dd6d1d1f18b][^c-e3352394394efa64545cd588a286f947]
 
 (1) Any person may apply to the Department for an operator's licence.
 
@@ -68,10 +68,10 @@ subject to such exceptions as may be prescribed
 - (a) the applicant—
   - (i) is a fit and proper person to hold an operator's licence; and
   - (ii) meets any further requirements that may be prescribed;
-- (aa)[^key-6674af2b7bf3598131cd073d14373320] if the applicant is an individual, the applicant is not disqualified by reason of the applicant's immigration status from operating a taxi service; and
+- (aa)[^c-6674af2b7bf3598131cd073d14373320] if the applicant is an individual, the applicant is not disqualified by reason of the applicant's immigration status from operating a taxi service; and
 - (b) any further requirements that may be prescribed (which may include requirements relating to operating centres) are met.
 
-(4A)[^key-e35aa10bd00eae9e1d1f255bfde71b99] In determining for the purposes of subsection (4) whether an applicant is disqualified by reason of the applicant's immigration status from operating a taxi service, the Department must have regard to any guidance issued by the Secretary of State.
+(4A)[^c-e35aa10bd00eae9e1d1f255bfde71b99] In determining for the purposes of subsection (4) whether an applicant is disqualified by reason of the applicant's immigration status from operating a taxi service, the Department must have regard to any guidance issued by the Secretary of State.
 
 (5) An operator's licence shall be granted subject to such conditions as may be prescribed and such other conditions as the Department may think fit (including, without prejudice to the generality of this subsection, conditions specifying the maximum number of taxis or the maximum or minimum number or percentage of taxis of different classes or different classes of use for or in respect of which a taxi operator may operate a taxi service at any one time).
 
@@ -80,7 +80,7 @@ subject to such exceptions as may be prescribed
 - (a) specify the address of any premises in Northern Ireland which the licensed operator may use as an operating centre;
 - (b) be in such form and contain such particulars as the Department may think fit.
 
-(7) Subject to section 2A, an[^key-db747d42513f5214a0512866cd731dcc] operator's licence shall be granted for five years or such shorter period as may be prescribed or such shorter period as the Department may consider appropriate in the circumstances of the case.
+(7) Subject to section 2A, an[^c-db747d42513f5214a0512866cd731dcc] operator's licence shall be granted for five years or such shorter period as may be prescribed or such shorter period as the Department may consider appropriate in the circumstances of the case.
 
 (8) An applicant for an operator's licence may by notice appeal to the Department against—
 
@@ -102,7 +102,7 @@ subject to such exceptions as may be prescribed
 
 (12) A person who is aggrieved by a decision of the Department under subsection (10) may appeal to a court of summary jurisdiction against any such decision.
 
-#### 2A. Operator's licences for persons subject to immigration control[^key-c29fb306f896a3494d29ce3c4e07ce9d]
+#### 2A. Operator's licences for persons subject to immigration control[^c-c29fb306f896a3494d29ce3c4e07ce9d]
 
 (1) Subsection (2) applies if—
 
@@ -127,7 +127,7 @@ subject to such exceptions as may be prescribed
 
 (8) A person who, without reasonable excuse, contravenes subsection (6) or (7) is guilty of an offence.
 
-#### 3. Duties of licensed operators, etc.[^key-411dc608d4bc24bff4baa1e5c02c430f][^key-3e0607789372253918e63595b1816cfa]
+#### 3. Duties of licensed operators, etc.[^c-411dc608d4bc24bff4baa1e5c02c430f][^c-3e0607789372253918e63595b1816cfa]
 
 (1) A licensed operator shall secure that any taxi for or in respect of which the licensed operator operates a taxi service is a licensed taxi driven by a person holding a taxi driver's licence.
 
@@ -168,7 +168,7 @@ as soon as reasonably practicable after doing so.
 
 (12) It is a defence in proceedings for an offence under this section for a person to show that the person exercised all due diligence to avoid committing such an offence.
 
-#### 4. Hirings accepted on behalf of another operator[^key-8dd796036247ea2eb2f88c7cd31da6ca]
+#### 4. Hirings accepted on behalf of another operator[^c-8dd796036247ea2eb2f88c7cd31da6ca]
 
 (1) A licensed operator (“the first operator”) who has accepted a taxi booking may not arrange for another person who requires an operator's licence to provide a taxi to carry out that booking as sub-contractor unless the other person is a licensed operator and the sub-contracted booking is accepted in accordance with this Act or with any provision made under it.
 
@@ -182,13 +182,13 @@ as soon as reasonably practicable after doing so.
 
 ### CHAPTER 2 — HIRING OF TAXIS AT SEPARATE FARES
 
-#### 5. Hiring of taxis at separate fares – General[^key-1012f84afb0b8f1aeea9688f47d57b7c]
+#### 5. Hiring of taxis at separate fares – General[^c-1012f84afb0b8f1aeea9688f47d57b7c]
 
 (1) A licensed operator may only operate a taxi service for or in respect of the carriage of passengers at separate fares if—
 
 - (a) the licensed operator complies with the provisions of a taxi-sharing scheme made by the Department under section 6; or
 - (b) the conditions in section 7 are met; or
-- (c)[^key-59b895af80038630810fb7a298daa66c] a service agreement or service permit under the Transport Act (Northern Ireland) 2011 so provides.
+- (c)[^c-59b895af80038630810fb7a298daa66c] a service agreement or service permit under the Transport Act (Northern Ireland) 2011 so provides.
 
 (2) If a person acts in contravention of any provision of or made under this Chapter and the contravention is not made an offence under any other statutory provision, the person is guilty of an offence.
 
@@ -196,7 +196,7 @@ as soon as reasonably practicable after doing so.
 
 (4) The provisions of this Chapter are without prejudice to any other provision of this Act.
 
-#### 6. Compliance with a Departmental taxi-sharing scheme[^key-854388490af481732fbad6db22dc072c]
+#### 6. Compliance with a Departmental taxi-sharing scheme[^c-854388490af481732fbad6db22dc072c]
 
 (1) The Department may by order make a taxi-sharing scheme referred to in section 5(1)(a) which shall—
 
@@ -215,36 +215,36 @@ as soon as reasonably practicable after doing so.
 - (g) the manner in which arrangements are to be made for the carriage of passengers at separate fares
 - (h) the conditions to apply to such use of a taxi.
 
-#### 7. Advance booking[^key-704cd2304c1ea4981a813422aad4cfdc]
+#### 7. Advance booking[^c-704cd2304c1ea4981a813422aad4cfdc]
 
 The conditions referred to in section 5(1)(b) are that—
 
 - (a) all the passengers carried on the occasion in question booked their journeys in advance; and
 - (b) each of them consented, when booking their journey, to sharing the use of the taxi on that occasion with others on the basis that a separate fare would be payable by each passenger for their own journey on that occasion.
 
-#### 8. Operator's licence conditions relating to separate fares[^key-18b419ed5f05bd835c1fe0a80193da78]
+#### 8. Operator's licence conditions relating to separate fares[^c-18b419ed5f05bd835c1fe0a80193da78]
 
 **Not yet in force.**
 
 An operator's licence may—
 
-- (a)[^key-728258c67551dc405639fc7cc1223825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) be subject to the condition that only taxis of such class as may be specified in the licence may be used for or in respect of the operation of a taxi service for or in respect of the carriage of passengers at separate fares[^key-40b39f057dae554f8b5fc01ad397470d] ;
+- (a)[^c-728258c67551dc405639fc7cc1223825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) be subject to the condition that only taxis of such class as may be specified in the licence may be used for or in respect of the operation of a taxi service for or in respect of the carriage of passengers at separate fares[^c-40b39f057dae554f8b5fc01ad397470d] ;
 - (c) be subject to such other conditions as may be prescribed and such other conditions as the Department may think fit relating to the carrying of passengers at separate fares.
 
-#### 9. Information[^key-1f4354d290c25fbb2eadfe6cb90e7ad4]
+#### 9. Information[^c-1f4354d290c25fbb2eadfe6cb90e7ad4]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Functions in relation to operator's licence authorising separate fares[^key-2dce5c795e0ecedb5571abda241b36a9]
+#### 10. Functions in relation to operator's licence authorising separate fares[^c-2dce5c795e0ecedb5571abda241b36a9]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Appeals in relation to operator's licence authorising separate fares[^key-7ccf10c0304c3dcec71c801efd032c3c]
+#### 11. Appeals in relation to operator's licence authorising separate fares[^c-7ccf10c0304c3dcec71c801efd032c3c]
 
 **Not yet in force.**
 
@@ -252,7 +252,7 @@ An operator's licence may—
 
 ## PART 2 — REGULATION OF TAXIS
 
-### 12. Requirement for taxi licence[^key-1f3da29065242789690aaf59ed4c42ac]
+### 12. Requirement for taxi licence[^c-1f3da29065242789690aaf59ed4c42ac]
 
 (1) A taxi shall not be used in standing or plying for hire or reward or to carry passengers for hire or reward except under a licence which is in force for that taxi (in this Act referred to as a “**taxi licence**”).
 
@@ -262,9 +262,9 @@ An operator's licence may—
 
 (4) It is a defence in proceedings for an offence under subsection (2) for the driver or operator to show that the driver or operator (as the case may be) exercised all due diligence to prevent the taxi being used in contravention of this section.
 
-### 13. Taxi licences[^key-760e07e3a46c9f5104585478ad6d9e81][^key-e3ad7a2336f889a1f1f79e41c033f6ea]
+### 13. Taxi licences[^c-760e07e3a46c9f5104585478ad6d9e81][^c-e3ad7a2336f889a1f1f79e41c033f6ea]
 
-(1)[^key-e54e1c59e574cc87c4b5cc6610aad02b] The owner of any taxi may apply to the Department for a taxi licence for that taxi.
+(1)[^c-e54e1c59e574cc87c4b5cc6610aad02b] The owner of any taxi may apply to the Department for a taxi licence for that taxi.
 
 (2) A taxi licence may be granted in respect of—
 
@@ -307,7 +307,7 @@ An operator's licence may—
 
 (12) A person who is aggrieved by a decision of the Department under subsection (10) may appeal to a court of summary jurisdiction against any such decision.
 
-### 14. Duties of owners of licensed taxis[^key-cf2256f879bfdaead4f00236055d8dd9]
+### 14. Duties of owners of licensed taxis[^c-cf2256f879bfdaead4f00236055d8dd9]
 
 (1) This section applies to the owner of any licensed taxi.
 
@@ -329,7 +329,7 @@ to the Department as soon as reasonably practicable and in any case within 72 ho
 
 (6) A person who, without reasonable excuse, contravenes any provision of this section is guilty of an offence.
 
-### 15. Identification of licensed vehicles[^key-611ad058ef3dfb97abc5f354116cb44a][^key-050e3a105b0eb142e4adb3bb9f4bc6d2]
+### 15. Identification of licensed vehicles[^c-611ad058ef3dfb97abc5f354116cb44a][^c-050e3a105b0eb142e4adb3bb9f4bc6d2]
 
 (1) The Department shall issue a plate, disc, sign or distinguishing mark (or any combination of these) for each licensed taxi which identifies it as a taxi for which a taxi licence has been granted.
 
@@ -341,7 +341,7 @@ to the Department as soon as reasonably practicable and in any case within 72 ho
 
 (5) It is a defence in proceedings for an offence under subsection (3) for the operator to show that the operator exercised all due diligence to prevent the taxi being used in contravention of subsection (2).
 
-### 16. Regulation of fares, etc.[^key-f2bad4d6457f555a933ec7368a08aecb][^M_I_01f0ced5-7044-4565-c175-37d31b31b68e]
+### 16. Regulation of fares, etc.[^c-f2bad4d6457f555a933ec7368a08aecb][^M_I_01f0ced5-7044-4565-c175-37d31b31b68e]
 
 (1) The Department may by regulations provide, subject to such exceptions as may be prescribed—
 
@@ -356,33 +356,33 @@ to the Department as soon as reasonably practicable and in any case within 72 ho
 
 ### 17. Display and publication, etc. of fares
 
-(1)[^key-3c953dbdfd1e0b8d55f0081d55872646][^key-0cd36b2e1c287ae5980b193c24adb0ec] Subject to such exceptions as may be prescribed, rates, fares or charges shall be displayed, in such form and in such manner as may be prescribed—
+(1)[^c-3c953dbdfd1e0b8d55f0081d55872646][^c-0cd36b2e1c287ae5980b193c24adb0ec] Subject to such exceptions as may be prescribed, rates, fares or charges shall be displayed, in such form and in such manner as may be prescribed—
 
 - (a) in a taxi; and
 - (b) at any operating centre to which any member of the public has access and at which taxi bookings are accepted for or in respect of that taxi.
 
 (2) Subject to such exceptions as may be prescribed, changes to rates, fares or charges shall be notified to the Department within such time in advance of the changes and in such manner as may be prescribed.
 
-(3)[^key-3c953dbdfd1e0b8d55f0081d55872646][^key-0cd36b2e1c287ae5980b193c24adb0ec] The Department may make regulations securing the due publication of rates, fares or charges.
+(3)[^c-3c953dbdfd1e0b8d55f0081d55872646][^c-0cd36b2e1c287ae5980b193c24adb0ec] The Department may make regulations securing the due publication of rates, fares or charges.
 
-(4)[^key-0b88323e928036885fefbe811655a383] A person who contravenes subsection (1) or (2) or any provision of regulations made under this section is guilty of an offence.
+(4)[^c-0b88323e928036885fefbe811655a383] A person who contravenes subsection (1) or (2) or any provision of regulations made under this section is guilty of an offence.
 
 ### 18. Regulation of taximeters etc.
 
-(1)[^key-1543d3e26a403f380357080b563f0681][^key-fb4f92adbbb94575c300e3b2952944e7] Subject to such exceptions as may be prescribed, a taxi shall be fitted with—
+(1)[^c-1543d3e26a403f380357080b563f0681][^c-fb4f92adbbb94575c300e3b2952944e7] Subject to such exceptions as may be prescribed, a taxi shall be fitted with—
 
 - (a) a taximeter; and
 - (b) a device constructed or adapted for the production of receipts,
 
 in accordance with regulations made under this section.
 
-(2)[^key-e046f8f551d7f805faea44dd882443fe] A taxi shall not be fitted with more than one taximeter and device referred to in subsection (1)(b).
+(2)[^c-e046f8f551d7f805faea44dd882443fe] A taxi shall not be fitted with more than one taximeter and device referred to in subsection (1)(b).
 
-(3)[^key-e046f8f551d7f805faea44dd882443fe] A taximeter and a device referred to in subsection (1)(b) shall be of a type approved by the Department.
+(3)[^c-e046f8f551d7f805faea44dd882443fe] A taximeter and a device referred to in subsection (1)(b) shall be of a type approved by the Department.
 
-(4)[^key-1543d3e26a403f380357080b563f0681][^key-fb4f92adbbb94575c300e3b2952944e7] Subject to such exceptions as may be prescribed, the driver of a taxi shall, on payment of the fare, issue a receipt produced by the device referred to in subsection (1)(b) to the person who hired the taxi or paid the fare.
+(4)[^c-1543d3e26a403f380357080b563f0681][^c-fb4f92adbbb94575c300e3b2952944e7] Subject to such exceptions as may be prescribed, the driver of a taxi shall, on payment of the fare, issue a receipt produced by the device referred to in subsection (1)(b) to the person who hired the taxi or paid the fare.
 
-(5)[^key-1543d3e26a403f380357080b563f0681][^key-fb4f92adbbb94575c300e3b2952944e7] Regulations may make provision for—
+(5)[^c-1543d3e26a403f380357080b563f0681][^c-fb4f92adbbb94575c300e3b2952944e7] Regulations may make provision for—
 
 - (a) inspection, testing and sealing of the taximeters and devices referred to in subsection (1)(b);
 - (b) operation of the taximeters and devices;
@@ -391,19 +391,19 @@ in accordance with regulations made under this section.
 - (e) prescribed details to be included on receipts;
 - (f) such other requirements as may be prescribed.
 
-(6)[^key-e046f8f551d7f805faea44dd882443fe] If a taxi is used in standing or plying for hire or reward or to carry passengers for hire or reward in contravention of this section or any provision of regulations made under it, the owner of the taxi, driver of the taxi and taxi operator for or in respect of the taxi are each guilty of an offence
+(6)[^c-e046f8f551d7f805faea44dd882443fe] If a taxi is used in standing or plying for hire or reward or to carry passengers for hire or reward in contravention of this section or any provision of regulations made under it, the owner of the taxi, driver of the taxi and taxi operator for or in respect of the taxi are each guilty of an offence
 
-(7)[^key-e046f8f551d7f805faea44dd882443fe] It is a defence in proceedings for an offence under subsection (6) for the owner, driver or operator to show that the owner, driver or operator (as the case may be) exercised all due diligence to prevent the taxi being used in contravention of this section.
+(7)[^c-e046f8f551d7f805faea44dd882443fe] It is a defence in proceedings for an offence under subsection (6) for the owner, driver or operator to show that the owner, driver or operator (as the case may be) exercised all due diligence to prevent the taxi being used in contravention of this section.
 
-(8)[^key-e046f8f551d7f805faea44dd882443fe] A person who unlawfully tampers with a taximeter or device referred to in subsection (1)(b) is guilty of an offence.
+(8)[^c-e046f8f551d7f805faea44dd882443fe] A person who unlawfully tampers with a taximeter or device referred to in subsection (1)(b) is guilty of an offence.
 
-### 19. Taxis not to carry more than the prescribed number of persons[^key-ffe8dd9e29e8af16ca2a233d94a6dabe][^key-22d5d8193a9525e13ad3bfa9ffdb08ea]
+### 19. Taxis not to carry more than the prescribed number of persons[^c-ffe8dd9e29e8af16ca2a233d94a6dabe][^c-22d5d8193a9525e13ad3bfa9ffdb08ea]
 
 (1) A taxi shall not carry a greater number of persons than that prescribed for the taxi.
 
 (2) If a greater number of persons than that prescribed for the taxi is carried in a taxi, the driver of the taxi is guilty of an offence.
 
-### 20. Regulations concerning taxis or use of taxis[^key-b93f999bd4b9c70cb0fd01bb761fd6a3][^key-4cbd2a4a857d86b2427cfdf2404697f4]
+### 20. Regulations concerning taxis or use of taxis[^c-b93f999bd4b9c70cb0fd01bb761fd6a3][^c-4cbd2a4a857d86b2427cfdf2404697f4]
 
 (1) The Department may make regulations generally as to taxis or as to the use of taxis in standing or plying for hire or reward or to carry passengers for hire or reward, and such regulations may apply to taxis generally or to taxis of a particular class or to taxis of a particular class of use.
 
@@ -499,7 +499,7 @@ in accordance with regulations made under this section.
 
 ## PART 3 — REGULATION OF DRIVERS OF TAXIS
 
-### 22. Requirement for taxi driver's licence[^key-ef809dc867829bafe72b324b1dc86924]
+### 22. Requirement for taxi driver's licence[^c-ef809dc867829bafe72b324b1dc86924]
 
 (1) A person shall not drive a taxi when it is standing or plying for hire or reward or carrying passengers for hire or reward unless the person is the holder of a taxi driver's licence.
 
@@ -517,61 +517,61 @@ in accordance with regulations made under this section.
 
 ### 23. Taxi driver's licences
 
-(1)[^key-c0d29a98ca62ee1415d57f7011c613da][^key-09ed41534aa9b7910e724af69943f36d] Any person may apply to the Department for a taxi driver's licence.
+(1)[^c-c0d29a98ca62ee1415d57f7011c613da][^c-09ed41534aa9b7910e724af69943f36d] Any person may apply to the Department for a taxi driver's licence.
 
-(2)[^key-c0d29a98ca62ee1415d57f7011c613da][^key-09ed41534aa9b7910e724af69943f36d] The Department shall grant a taxi driver's licence to an applicant if it is satisfied that—
+(2)[^c-c0d29a98ca62ee1415d57f7011c613da][^c-09ed41534aa9b7910e724af69943f36d] The Department shall grant a taxi driver's licence to an applicant if it is satisfied that—
 
 - (a) the applicant—
   - (i) subject to subsection (4), is (and has been continuously for at least three years immediately before the date of the applicant's application, or in prescribed circumstances for such lesser period as may be prescribed) authorised to drive a motor car;
   - (ii) is a fit and proper person to hold a taxi driver's licence; and
   - (iii) meets any further requirements that may be prescribed (including, without prejudice to the generality of the foregoing, requirements relating to training);
-- (aa)[^key-b9bf45ad8f9950654b459692098f8047] the applicant is not disqualified by reason of the applicant's immigration status from driving a taxi;
+- (aa)[^c-b9bf45ad8f9950654b459692098f8047] the applicant is not disqualified by reason of the applicant's immigration status from driving a taxi;
 - (b) subject to subsection (4), the requirement mentioned in subsection (3) is met; and
 - (c) any further requirements that may be prescribed are met.
 
-(2A)[^key-892c99c917f959b0e7d19c4f2f78d9f4] In determining for the purposes of subsection (2) whether an applicant is disqualified by reason of the applicant's immigration status from driving a taxi, the Department must have regard to any guidance issued by the Secretary of State.
+(2A)[^c-892c99c917f959b0e7d19c4f2f78d9f4] In determining for the purposes of subsection (2) whether an applicant is disqualified by reason of the applicant's immigration status from driving a taxi, the Department must have regard to any guidance issued by the Secretary of State.
 
-(3)[^key-c0d29a98ca62ee1415d57f7011c613da][^key-09ed41534aa9b7910e724af69943f36d] The requirement referred to in subsection (2)(b) is that the applicant shall pass such test of competence to drive a taxi as may be prescribed.
+(3)[^c-c0d29a98ca62ee1415d57f7011c613da][^c-09ed41534aa9b7910e724af69943f36d] The requirement referred to in subsection (2)(b) is that the applicant shall pass such test of competence to drive a taxi as may be prescribed.
 
-(4)[^key-c0d29a98ca62ee1415d57f7011c613da][^key-09ed41534aa9b7910e724af69943f36d] Subsections (2)(a)(i) and (b) shall not apply, for or until such time or for such a period as may be prescribed, to an applicant for a taxi driver's licence under this section who, immediately before the coming into operation of this section, was the holder of a taxi driver's licence granted under Article 79A of the 1981 Order.
+(4)[^c-c0d29a98ca62ee1415d57f7011c613da][^c-09ed41534aa9b7910e724af69943f36d] Subsections (2)(a)(i) and (b) shall not apply, for or until such time or for such a period as may be prescribed, to an applicant for a taxi driver's licence under this section who, immediately before the coming into operation of this section, was the holder of a taxi driver's licence granted under Article 79A of the 1981 Order.
 
-(5)[^key-c0d29a98ca62ee1415d57f7011c613da][^key-09ed41534aa9b7910e724af69943f36d] A taxi driver's licence shall be granted subject to such conditions as may be prescribed and such other conditions as the Department may think fit.
+(5)[^c-c0d29a98ca62ee1415d57f7011c613da][^c-09ed41534aa9b7910e724af69943f36d] A taxi driver's licence shall be granted subject to such conditions as may be prescribed and such other conditions as the Department may think fit.
 
-(6)[^key-c0d29a98ca62ee1415d57f7011c613da][^key-09ed41534aa9b7910e724af69943f36d] Without prejudice to the generality of subsection (5), a taxi driver's licence may be subject to the condition that the licence holder may only drive a taxi of such class as may be specified in the licence.
+(6)[^c-c0d29a98ca62ee1415d57f7011c613da][^c-09ed41534aa9b7910e724af69943f36d] Without prejudice to the generality of subsection (5), a taxi driver's licence may be subject to the condition that the licence holder may only drive a taxi of such class as may be specified in the licence.
 
-(7)[^key-c0d29a98ca62ee1415d57f7011c613da][^key-09ed41534aa9b7910e724af69943f36d] A taxi driver's licence shall be in such form and shall contain such particulars as the Department may think fit.
+(7)[^c-c0d29a98ca62ee1415d57f7011c613da][^c-09ed41534aa9b7910e724af69943f36d] A taxi driver's licence shall be in such form and shall contain such particulars as the Department may think fit.
 
-(8) Subject to section 23A, a[^key-0f85979297035f91b94c41458d3cc7aa] taxi driver's licence shall be granted for three years or for such shorter period as the Department may consider appropriate in the circumstances of the case.
+(8) Subject to section 23A, a[^c-0f85979297035f91b94c41458d3cc7aa] taxi driver's licence shall be granted for three years or for such shorter period as the Department may consider appropriate in the circumstances of the case.
 
-(9)[^key-c0d29a98ca62ee1415d57f7011c613da][^key-09ed41534aa9b7910e724af69943f36d] An applicant for a taxi driver's licence may by notice appeal to the Department against—
+(9)[^c-c0d29a98ca62ee1415d57f7011c613da][^c-09ed41534aa9b7910e724af69943f36d] An applicant for a taxi driver's licence may by notice appeal to the Department against—
 
 - (a) a decision not to grant such a licence; or
 - (b) any condition (other than a prescribed condition) to which the licence is subject.
 
-(10)[^key-c0d29a98ca62ee1415d57f7011c613da][^key-09ed41534aa9b7910e724af69943f36d] The time within which a person may bring such an appeal is 21 days from the date on which the notice of the decision appealed against is served on the person.
+(10)[^c-c0d29a98ca62ee1415d57f7011c613da][^c-09ed41534aa9b7910e724af69943f36d] The time within which a person may bring such an appeal is 21 days from the date on which the notice of the decision appealed against is served on the person.
 
-(11)[^key-c0d29a98ca62ee1415d57f7011c613da][^key-09ed41534aa9b7910e724af69943f36d] On an appeal under subsection (9), the Department may decide to
+(11)[^c-c0d29a98ca62ee1415d57f7011c613da][^c-09ed41534aa9b7910e724af69943f36d] On an appeal under subsection (9), the Department may decide to
 
 - (a) confirm, reverse or vary the decision; or
 - (b) approve, revoke or vary the condition,
 
 (as the case may be) as it thinks fit.
 
-(12)[^key-c0d29a98ca62ee1415d57f7011c613da][^key-09ed41534aa9b7910e724af69943f36d] The Department shall, on making a decision under subsection (11), give notice of the decision to the appellant including particulars of the grounds of the decision.
+(12)[^c-c0d29a98ca62ee1415d57f7011c613da][^c-09ed41534aa9b7910e724af69943f36d] The Department shall, on making a decision under subsection (11), give notice of the decision to the appellant including particulars of the grounds of the decision.
 
-(13)[^key-c0d29a98ca62ee1415d57f7011c613da][^key-09ed41534aa9b7910e724af69943f36d] A person who is aggrieved by a decision of the Department under subsection (11) may appeal to a court of summary jurisdiction against any such decision.
+(13)[^c-c0d29a98ca62ee1415d57f7011c613da][^c-09ed41534aa9b7910e724af69943f36d] A person who is aggrieved by a decision of the Department under subsection (11) may appeal to a court of summary jurisdiction against any such decision.
 
-(14)[^key-c0d29a98ca62ee1415d57f7011c613da][^key-09ed41534aa9b7910e724af69943f36d] For the purposes of subsection (2), a person is authorised to drive a motor car if—
+(14)[^c-c0d29a98ca62ee1415d57f7011c613da][^c-09ed41534aa9b7910e724af69943f36d] For the purposes of subsection (2), a person is authorised to drive a motor car if—
 
 - (a) the person holds a licence granted under Part 2 of the 1981 Order (other than a provisional licence) authorising the person to drive a motor car; or
 - (b) the person is authorised by virtue of Article 15A(1) or 19E(1) of that Order (Community licences and Great Britain licences) to drive a motor car in Northern Ireland.
 
-(15)[^key-c0d29a98ca62ee1415d57f7011c613da][^key-09ed41534aa9b7910e724af69943f36d] In this section “**motor car**” means a motor vehicle (other than an invalid carriage or motor cycle (within the meaning given in Article 2(2) of the 1981 Order))—
+(15)[^c-c0d29a98ca62ee1415d57f7011c613da][^c-09ed41534aa9b7910e724af69943f36d] In this section “**motor car**” means a motor vehicle (other than an invalid carriage or motor cycle (within the meaning given in Article 2(2) of the 1981 Order))—
 
 - (a) which is constructed or adapted to carry not more than 8 passengers in addition to the driver; and
 - (b) which has a maximum gross weight (within the meaning given in Part 2 of the 1981 Order) not exceeding 3.5 tonnes.
 
-### 23A. Taxi driver's licences for persons subject to immigration control[^key-ac456ad7d4318e2d1cd830ad62adfc6b]
+### 23A. Taxi driver's licences for persons subject to immigration control[^c-ac456ad7d4318e2d1cd830ad62adfc6b]
 
 (1) Subsection (2) applies if—
 
@@ -604,7 +604,7 @@ in accordance with regulations made under this section.
 
 (8) A person who, without reasonable excuse, contravenes subsection (6) or (7) is guilty of an offence.
 
-### 24. Issue of driver's badges etc.[^key-bac14db68554b883e14f24db265ced5f]
+### 24. Issue of driver's badges etc.[^c-bac14db68554b883e14f24db265ced5f]
 
 (1) The Department shall issue a badge and such other evidence of identification as it considers appropriate to each person to whom it has granted a taxi driver's licence.
 
@@ -618,7 +618,7 @@ in accordance with regulations made under this section.
 
 ## PART 4 — LICENCES: GENERAL PROVISIONS
 
-### 25. Applications for licences, etc.[^key-3ecef0095c07a2745fb69626e5cbe239]
+### 25. Applications for licences, etc.[^c-3ecef0095c07a2745fb69626e5cbe239]
 
 (1) An application for the grant of a licence under this Act shall be made in such form, and include such declarations and information, as the Department may require.
 
@@ -628,17 +628,17 @@ in accordance with regulations made under this section.
 
 (4) The provisions of this Act apply to the renewal of a licence as they apply to the grant of a licence.
 
-### 26. Power to suspend, revoke or curtail licences[^key-ed2fd63f4f462824f693a61bd4a82362]
+### 26. Power to suspend, revoke or curtail licences[^c-ed2fd63f4f462824f693a61bd4a82362]
 
 (1) The Department may suspend or revoke a licence under this Act or curtail an operator's licence for any reasonable cause including (without prejudice to the generality of this subsection) any ground mentioned below.
 
 (2) The Department may suspend or revoke an operator's licence where—
 
 - (a) the Department is no longer satisfied that the licence holder is fit to hold such a licence;
-- (aa)[^key-236a30544bda973f6e7e74874d8681e0] the licence holder has, since the grant of the licence, been convicted of an immigration offence or required to pay an immigration penalty; or
+- (aa)[^c-236a30544bda973f6e7e74874d8681e0] the licence holder has, since the grant of the licence, been convicted of an immigration offence or required to pay an immigration penalty; or
 - (b) the licence holder has failed to comply with any condition of the licence or any other obligation imposed on the licence holder by or under this Act.
 
-(2A)[^key-99fae6fd7b944d12cf12fcd828d356e5] Subsection (2)(aa) does not apply if—
+(2A)[^c-99fae6fd7b944d12cf12fcd828d356e5] Subsection (2)(aa) does not apply if—
 
 - (a) in a case where the licence holder has been convicted of an immigration offence, the conviction is a spent conviction within the meaning of the Rehabilitation of Offenders (Northern Ireland) Order 1978 (SI 1978/1908 (NI 27)), or
 - (b) in a case where the licence holder has been required to pay an immigration penalty—
@@ -660,17 +660,17 @@ in accordance with regulations made under this section.
 (6) The Department may suspend or revoke a taxi driver's licence where
 
 - (a) the Department is no longer satisfied that the licence holder is fit to hold such a licence;
-- (aa)[^key-409a6155ea870d1ce6ec5b94494646a5] the licence holder has, since the grant of the licence, been convicted of an immigration offence or required to pay an immigration penalty; or
+- (aa)[^c-409a6155ea870d1ce6ec5b94494646a5] the licence holder has, since the grant of the licence, been convicted of an immigration offence or required to pay an immigration penalty; or
 - (b) the licence holder has failed to comply with any condition of the licence or any other obligation imposed on the licence holder by or under this Act.
 
-(7)[^key-32c65248376c8b29a1f084534845b718] Subsection (6)(aa) does not apply if—
+(7)[^c-32c65248376c8b29a1f084534845b718] Subsection (6)(aa) does not apply if—
 
 - (a) in a case where the licence holder has been convicted of an immigration offence, the conviction is a spent conviction within the meaning of the Rehabilitation of Offenders (Northern Ireland) Order 1978 (SI 1978/1908 (NI 27)), or
 - (b) in a case where the licence holder has been required to pay an immigration penalty—
   - (i) more than three years have elapsed since the date on which the penalty was imposed, and
   - (ii) the amount of the penalty has been paid in full.
 
-### 27. Suspension, revocation and curtailment under section 26: procedure etc.[^key-91dc8991b8bd9ef88e4f41f435dfdc6c]
+### 27. Suspension, revocation and curtailment under section 26: procedure etc.[^c-91dc8991b8bd9ef88e4f41f435dfdc6c]
 
 (1) Where, under section 26, the Department has decided to suspend, revoke or curtail a licence—
 
@@ -689,7 +689,7 @@ in accordance with regulations made under this section.
 
 (7) A person who is aggrieved by a decision of the Department under subsection (5) may appeal to a court of summary jurisdiction against any such decision.
 
-### 28. Variation of licence on request[^key-e5511c8a77966e8d368f06c87619d00a][^key-9ecb75a4bc76246fa4e6e8e63176a9b4]
+### 28. Variation of licence on request[^c-e5511c8a77966e8d368f06c87619d00a][^c-9ecb75a4bc76246fa4e6e8e63176a9b4]
 
 (1) Subject to subsection (2), the Department may, on the application of a licensed operator, vary the licensed operator's licence by adding a reference to a new operating centre or removing an existing reference to an operating centre.
 
@@ -718,7 +718,7 @@ in accordance with regulations made under this section.
 
 (12) A person who is aggrieved by a decision of the Department under subsection (10) may appeal to a court of summary jurisdiction against any such decision.
 
-### 29. Variation of operator's licence by Department[^key-2110d89f151fdb877a2f00c437eb6d5f]
+### 29. Variation of operator's licence by Department[^c-2110d89f151fdb877a2f00c437eb6d5f]
 
 (1) The Department may—
 
@@ -742,7 +742,7 @@ if the Department is no longer satisfied that the operating centre in question m
 
 (7) A person who is aggrieved by a decision of the Department under subsection (5) may appeal to a court of summary jurisdiction against any such decision.
 
-### 30. Fees[^key-ae74cd3434eb0c75f5ee49e3cc0c2a2a][^key-b1fd9bf4f9fb54ca804377d6c4ca9994]
+### 30. Fees[^c-ae74cd3434eb0c75f5ee49e3cc0c2a2a][^c-b1fd9bf4f9fb54ca804377d6c4ca9994]
 
 (1) The Department may by regulations provide for prescribed fees to be payable—
 
@@ -765,7 +765,7 @@ if the Department is no longer satisfied that the operating centre in question m
 
 until any prescribed fee (or instalment) due in respect of the application or grant is paid.
 
-### 31. Production of documents[^key-2b61ff4f768251879b17b486ae00d9e9]
+### 31. Production of documents[^c-2b61ff4f768251879b17b486ae00d9e9]
 
 (1) The holder of an operator's licence or a taxi driver's licence shall at the request of a constable or authorised officer produce that person's licence for inspection.
 
@@ -785,7 +785,7 @@ before the end of the period of 7 days beginning with the day on which the reque
 
 (5) A person who without reasonable excuse contravenes this section is guilty of an offence.
 
-### 32. Return of licences, etc.[^key-dcf91f6f410776e37dbb5239fefb2a85]
+### 32. Return of licences, etc.[^c-dcf91f6f410776e37dbb5239fefb2a85]
 
 (1) The holder of an operator's licence shall return the licence together with such other documents or records as may be prescribed to the Department after the suspension, revocation or curtailment of that licence, within the period of 7 days after the day on which the suspension, revocation or curtailment takes effect.
 
@@ -801,7 +801,7 @@ before the end of the period of 7 days beginning with the day on which the reque
 - (b) the return by the taxi owner of the plate, disc, sign or distinguishing mark which was issued for the taxi under section 15 (in the case of a taxi licence); or
 - (c) the return by the licence holder of the driver's badge and any other evidence of identification which the Department has issued under section 24 (in the case of a taxi driver's licence).
 
-(5A)[^key-39b3726871649f628040f3bb4920f038] Subsection (4) does not apply if the licence was granted in accordance with section 2A(2) or (4) or 23A(2) or (4) (but see sections 2A(6) and 23A(6)).
+(5A)[^c-39b3726871649f628040f3bb4920f038] Subsection (4) does not apply if the licence was granted in accordance with section 2A(2) or (4) or 23A(2) or (4) (but see sections 2A(6) and 23A(6)).
 
 (6) A person who without reasonable excuse fails to comply with any requirement or direction under this section to return a licence, plate, disc, sign, distinguishing mark, badge or other evidence of identification is guilty of an offence.
 
@@ -812,19 +812,19 @@ before the end of the period of 7 days beginning with the day on which the reque
 
 (8) Where a person has failed to comply with any requirement under subsection (7) to remove a plate, disc, sign or distinguishing mark, the constable or authorised officer may remove and retain it.
 
-### 33. Register of licences[^key-2b699f58d396714444e7a66ea6ddce70]
+### 33. Register of licences[^c-2b699f58d396714444e7a66ea6ddce70]
 
 (1) The Department shall maintain a register containing the following particulars for each licence issued under this Act, namely—
 
-- (a)[^key-df561b6e3a2fdfcb95217b1344f04eaf] the number of the licence, the date on which it is granted and the expiry date;
+- (a)[^c-df561b6e3a2fdfcb95217b1344f04eaf] the number of the licence, the date on which it is granted and the expiry date;
 - (b) in respect of an operator's licence, the name and address of the licensed operator and the address of any operating centre specified in the licence;
-- (c)[^key-df561b6e3a2fdfcb95217b1344f04eaf] in respect of a taxi licence, the vehicle registration number, the number of any plate, disc, sign or distinguishing mark and the date on which it is granted and any expiry date;
-- (d)[^key-df561b6e3a2fdfcb95217b1344f04eaf] in respect of a taxi driver's licence, the identification number of the driver; and
-- (e)[^key-df561b6e3a2fdfcb95217b1344f04eaf] such other particulars as may be prescribed.
+- (c)[^c-df561b6e3a2fdfcb95217b1344f04eaf] in respect of a taxi licence, the vehicle registration number, the number of any plate, disc, sign or distinguishing mark and the date on which it is granted and any expiry date;
+- (d)[^c-df561b6e3a2fdfcb95217b1344f04eaf] in respect of a taxi driver's licence, the identification number of the driver; and
+- (e)[^c-df561b6e3a2fdfcb95217b1344f04eaf] such other particulars as may be prescribed.
 
-(2)[^key-df561b6e3a2fdfcb95217b1344f04eaf] The register shall be available for inspection free of charge by members of the public in such a manner or at such a place or places, and during such hours, as are determined by the Department.
+(2)[^c-df561b6e3a2fdfcb95217b1344f04eaf] The register shall be available for inspection free of charge by members of the public in such a manner or at such a place or places, and during such hours, as are determined by the Department.
 
-### 34. Appeals[^key-3d6f543fd7486a50103d46aca99049d6]
+### 34. Appeals[^c-3d6f543fd7486a50103d46aca99049d6]
 
 (1) This section applies to any appeal which lies under this Act to a court of summary jurisdiction against a decision of the Department in relation to, or to an application for, a licence under this Act.
 
@@ -836,12 +836,12 @@ before the end of the period of 7 days beginning with the day on which the reque
 
 (5) On any appeal the court may make such order as it thinks fit and the order shall (without prejudice to any right of appeal) be binding on the Department.
 
-(6)[^key-b5acfffa05d2800cfa0788e810ba0066] On any appeal, the court is not entitled to entertain any question as to whether—
+(6)[^c-b5acfffa05d2800cfa0788e810ba0066] On any appeal, the court is not entitled to entertain any question as to whether—
 
 - (a) a person should be, or should have been, granted leave to enter or remain in the United Kingdom, or
 - (b) a person has, after the date of the decision being appealed against, been granted leave to enter or remain in the United Kingdom.
 
-### 35. Effect of appeal on decision appealed against[^key-a31306a6104f0e4a0b646575b047826a]
+### 35. Effect of appeal on decision appealed against[^c-a31306a6104f0e4a0b646575b047826a]
 
 (1) Subject to subsection (2), any decision of the Department against which a right of appeal is conferred by this Act shall not take effect until the time for appealing has expired or (where an appeal is brought) until the appeal is disposed of or withdrawn.
 
@@ -855,7 +855,7 @@ The Department may by regulations make such further provision in respect of appe
 
 ## PART 5 — ENFORCEMENT
 
-### 37. Enforcement notices[^key-a9160a7cc3af2a5dd81f96cede405dd1]
+### 37. Enforcement notices[^c-a9160a7cc3af2a5dd81f96cede405dd1]
 
 (1) Where the Department considers that a licensed operator has failed to comply with any of the duties imposed by or under section 3(3), (4) or (6), the Department may serve on the person an enforcement notice.
 
@@ -888,7 +888,7 @@ The Department may by regulations make such further provision in respect of appe
 
 (12) Where an appeal is brought under this section against an enforcement notice, the operation of the notice shall be suspended until the appeal is finally disposed of or, if the appeal is withdrawn, until the withdrawal of the appeal.
 
-### 38. Powers of entry[^key-bf389ae6641d927273bf4b912412102f]
+### 38. Powers of entry[^c-bf389ae6641d927273bf4b912412102f]
 
 (1) Subject to subsection (2), an authorised officer or a constable may enter at all reasonable times any premises specified as an operating centre in an operator's licence and inspect those premises and any equipment and any other item found there, for the purpose of ascertaining—
 
@@ -925,7 +925,7 @@ the lay magistrate may issue a warrant under the lay magistrate's hand authorisi
 
 (12) For the purposes of a power of entry under subsection (3), “premises” also includes vehicles.
 
-### 39. Power to stop and examine licensed taxis[^key-fdad7f21a80e1b33a6397e20360cca70]
+### 39. Power to stop and examine licensed taxis[^c-fdad7f21a80e1b33a6397e20360cca70]
 
 (1) An authorised officer or constable in uniform may stop and examine any licensed taxi.
 
@@ -957,7 +957,7 @@ to provide the officer or constable with all such information, and produce for t
   - (ii) the places from which and to which the passengers have been, are being, or are to be, carried;
   - (iii) the carriage of the passengers for hire or reward.
 
-### 41. Power of seizure[^key-0d3b89b101770e0875b22080f5a8464a]
+### 41. Power of seizure[^c-0d3b89b101770e0875b22080f5a8464a]
 
 (1) Subsection (2) applies if—
 
@@ -982,7 +982,7 @@ to provide the officer or constable with all such information, and produce for t
 - (b) “**equipment or other items found in a vehicle**” means equipment or other items which the authorised officer or constable has reasonable grounds to believe may be required as evidence for the purpose of proceedings in respect of an offence under section 12;
 - (c) “**private dwelling**” does not include any garage or other structure occupied with the dwelling, or any land appurtenant to the dwelling house.
 
-### 42. Regulations concerning vehicles and equipment seized under section 38 or 41[^key-f1ebb684db80b54f1074305773fd6b4c]
+### 42. Regulations concerning vehicles and equipment seized under section 38 or 41[^c-f1ebb684db80b54f1074305773fd6b4c]
 
 (1) The Department of Justice[^c22088851] may by regulations make provision as to—
 
@@ -999,7 +999,7 @@ to provide the officer or constable with all such information, and produce for t
   - (i) of any fees, charges or costs payable in accordance with the regulations;
   - (ii) of the proceeds (if any) arising from the disposal of any vehicle, equipment or item seized under section 38 or 41.
 
-### 43. Taxi touts[^key-f87107c6b90aa0f2d6d1a0d86ce8ed58]
+### 43. Taxi touts[^c-f87107c6b90aa0f2d6d1a0d86ce8ed58]
 
 (1) Subject to subsections (2) and (3), a person who solicits any person to be carried for hire or reward in a taxi is guilty of an offence.
 
@@ -1007,7 +1007,7 @@ to provide the officer or constable with all such information, and produce for t
 
 (3) No offence is committed under this section where soliciting persons to be carried for hire or reward in licensed taxis is permitted by any provision of or made under Chapter 2 of Part 1 (whether or not supplemented by provision made under section 5(3)) or by virtue of regulations made under section 20.
 
-### 44. False statements, forgery and power of seizure in connection with certain documents[^key-b599561c0b0207ba919e273ad634b564]
+### 44. False statements, forgery and power of seizure in connection with certain documents[^c-b599561c0b0207ba919e273ad634b564]
 
 (1) A person who knowingly or recklessly makes, or causes to be made, a statement or furnishes information which is false or misleading in any material particular for the purpose of procuring the grant of a licence under this Act, or the variation of a licence under section 28, is guilty of an offence.
 
@@ -1040,7 +1040,7 @@ is a document or other thing in relation to which an offence has been committed 
 
 (6) When a document or other thing has been seized under subsection (4), the person from whom it was seized shall, unless the document or other thing has been previously returned to the person or the person has been previously charged with an offence under this section, be summoned before a court of summary jurisdiction to account for the person's possession of the document or other thing and the court shall make such order respecting the disposal of the document or other thing and award such costs as the justice of the case may require.
 
-### 45. Obstruction of authorised officers etc.[^key-451c019882a8b71b96044cf22da2526e]
+### 45. Obstruction of authorised officers etc.[^c-451c019882a8b71b96044cf22da2526e]
 
 (1) A person who wilfully obstructs an authorised officer or constable acting in pursuance of this Act is guilty of an offence.
 
@@ -1053,15 +1053,15 @@ is guilty of an offence.
 
 (3) A person who makes any statement which the person knows to be false in giving any information to an authorised officer or constable acting in pursuance of this Act is guilty of an offence.
 
-### 46. Offences due to fault of other person[^key-01b5058cf1cb77ec3423b32ded95d4af]
+### 46. Offences due to fault of other person[^c-01b5058cf1cb77ec3423b32ded95d4af]
 
 Where an offence by any person under this Act is due to the act or default of another person, then (whether proceedings are taken against the first mentioned person or not) that other person is guilty of the offence and is liable to be proceeded against and punished accordingly.
 
-### 47. Offences by corporations[^key-39db6347745d841beedaa5d7b8e38664]
+### 47. Offences by corporations[^c-39db6347745d841beedaa5d7b8e38664]
 
 Section 20(2) and (3) of the Interpretation Act (Northern Ireland) 1954 (c. 33) (offences by corporations) shall apply to this Act as if the requirement for consent in subsection (3) were omitted.
 
-### 48. Offences[^key-84030adc6b1b35e8c5c064e10d067fb6][^key-eb420d4343f6314a0c8b43dbb3cda598][^key-f28310f9461cb15cd8a419b4c60caff6]
+### 48. Offences[^c-84030adc6b1b35e8c5c064e10d067fb6][^c-eb420d4343f6314a0c8b43dbb3cda598][^c-f28310f9461cb15cd8a419b4c60caff6]
 
 The entries set out in Schedule 1 relating to offences under this Act shall be added at the end of Part 1 of Schedule 1 to the Road Traffic Offenders (Northern Ireland) Order 1996 (NI 10).
 
@@ -1084,33 +1084,33 @@ The entries set out in Schedule 1 relating to offences under this Act shall be a
 
 (3) In this section “**information**” means information held in any form.
 
-### 50. Publication of information[^key-9ac5b6601b96f388913aaefa4fb2ae8e]
+### 50. Publication of information[^c-9ac5b6601b96f388913aaefa4fb2ae8e]
 
 (1) The Department may publish, in such form and manner as it thinks appropriate, information in connection with the provisions of this Act.
 
 (2) Before the Department publishes any such information under subsection (1), it shall take into consideration any recommendations made by the General Consumer Council for Northern Ireland.
 
-### 51. Payment of grants[^key-9a917080f038fbd1d153196e5010c1fb]
+### 51. Payment of grants[^c-9a917080f038fbd1d153196e5010c1fb]
 
 (1) The Department may, with the approval of the Department of Finance and Personnel, pay such grants to such persons or bodies as it considers appropriate in connection with any provision of, or the purposes of, this Act.
 
 (2) Grants under this section may be subject to such terms and conditions as the Department may, with the approval of the Department of Finance and Personnel, determine.
 
-### 52. Training[^key-14a1f4da2642588c48eb2b7f37af4e19][^key-be9e7f9206c11628040a1cdbc3a54816]
+### 52. Training[^c-14a1f4da2642588c48eb2b7f37af4e19][^c-be9e7f9206c11628040a1cdbc3a54816]
 
 Without prejudice to any other provision of this Act, the Department may by regulations make provision requiring training for or in respect of any person in connection with this Act.
 
-### 53. Service of notices[^key-1a53c9ff4c2cd8be1542d6392690dacb]
+### 53. Service of notices[^c-1a53c9ff4c2cd8be1542d6392690dacb]
 
 For the purposes of section 24 of the Interpretation Act (Northern Ireland) 1954 (c. 33), subsection (1) shall have effect with the omission of the word “registering”.
 
 ### 54. Application of other statutory provisions[^c21473451]
 
-(1)[^key-2cd3d47bc9e6f94541769beb257f60ab] Articles 59 to 66 of the 1981 Order shall not apply to taxis, in so far as those provisions relate to any matter in relation to which requirements are or could be imposed by or under this Act.
+(1)[^c-2cd3d47bc9e6f94541769beb257f60ab] Articles 59 to 66 of the 1981 Order shall not apply to taxis, in so far as those provisions relate to any matter in relation to which requirements are or could be imposed by or under this Act.
 
 (2) Part 2 of the Transport Act (Northern Ireland) 1967 (c. 37) shall not apply to the use of a taxi to stand or ply for hire or reward or to carry passengers for hire or reward.
 
-(3)[^key-b1053399166fc157be780f4bee87ab07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b1053399166fc157be780f4bee87ab07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Notwithstanding anything in Article 215 of the 1981 Order or Article 109 of the 1995 Order, the provisions of those Orders, in so far as they relate to taxis, shall have effect in relation to the Belfast Harbour Commissioners or other harbour commissioners having in relation to their harbour area powers similar to those of the Belfast Harbour Commissioners for restricting access to, and regulating motor traffic on, roads, and a road vested in, or under the control of, any such harbour commissioners, shall be deemed for the purposes of those Orders to be a road to which the public has access.
 
@@ -1148,7 +1148,7 @@ For the purposes of section 24 of the Interpretation Act (Northern Ireland) 1954
 
 (5) [^c22088901]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 56A. Persons disqualified by reason of immigration status[^key-36da791eea2e37dc5a4787d19551b475]
+#### 56A. Persons disqualified by reason of immigration status[^c-36da791eea2e37dc5a4787d19551b475]
 
 (1) For the purposes of this Act a person is disqualified by reason of the person's immigration status from carrying on a licensable activity if the person is subject to immigration control and—
 
@@ -1246,9 +1246,9 @@ For the purposes of section 24 of the Interpretation Act (Northern Ireland) 1954
 
 #### 58. Consequential amendments and repeals[^c21473611]
 
-(1)[^key-ee12a325c10b137245d178843849dc83] Schedule 2 (which contains minor and consequential amendments) shall have effect.
+(1)[^c-ee12a325c10b137245d178843849dc83] Schedule 2 (which contains minor and consequential amendments) shall have effect.
 
-(2)[^key-eb873bfc607748657cd98938dc6bef47] The statutory provisions mentioned in the first column of Schedule 3 are repealed to the extent set out in the second column.
+(2)[^c-eb873bfc607748657cd98938dc6bef47] The statutory provisions mentioned in the first column of Schedule 3 are repealed to the extent set out in the second column.
 
 #### 59. Commencement[^c21472631]
 
@@ -1260,7 +1260,7 @@ This Act may be cited as the Taxis Act (Northern Ireland) 2008.
 
 SCHEDULES
 
-## SCHEDULE 1 — ENTRIES TO BE INSERTED IN PART 1 OF SCHEDULE 1 TO THE ROAD TRAFFIC OFFENDERS (NORTHERN IRELAND) ORDER 1996 IN RESPECT OF OFFENCES UNDER THIS ACT[^key-56ac3febc9111d4f28d4100eb64853bc][^key-431d8585bfda599b27e4a97a474981b0][^key-7641fd2d91378744341f9eaf6358a071]
+## SCHEDULE 1 — ENTRIES TO BE INSERTED IN PART 1 OF SCHEDULE 1 TO THE ROAD TRAFFIC OFFENDERS (NORTHERN IRELAND) ORDER 1996 IN RESPECT OF OFFENCES UNDER THIS ACT[^c-56ac3febc9111d4f28d4100eb64853bc][^c-431d8585bfda599b27e4a97a474981b0][^c-7641fd2d91378744341f9eaf6358a071]
 
 Section 48.
 
@@ -1313,7 +1313,7 @@ Section 58(1).
 - (a) omit “and”; and
 - (b) after “2007” add “ and the Taxis Act (Northern Ireland) 2008 ”.
 
-**2.**[^key-429157c3a3272027eaa54ec4b3629126] In Article 66A(1) (car-sharing arrangements), after “public service vehicle” insert “ or taxi (within the meaning of the Taxis Act (Northern Ireland) 2008) ”.
+**2.**[^c-429157c3a3272027eaa54ec4b3629126] In Article 66A(1) (car-sharing arrangements), after “public service vehicle” insert “ or taxi (within the meaning of the Taxis Act (Northern Ireland) 2008) ”.
 
 ### The Disability Discrimination Act 1995 (c. 50)
 
@@ -1336,7 +1336,7 @@ Section 58(1).
   ;
 - (b) in subsection (2) after “such a licence” insert “ or a public service vehicle licence granted under Article 61 of the Road Traffic (Northern Ireland) Order 1981 ”.
 
-**5.**[^key-f471d594cbc97658f02f5ecf4c6b0676] In section 37A (carrying of assistance dogs in private hire vehicles)—
+**5.**[^c-f471d594cbc97658f02f5ecf4c6b0676] In section 37A (carrying of assistance dogs in private hire vehicles)—
 
 - (a) for “private hire vehicle”, each place it occurs, substitute “ taxi ”;
 - (b) in subsection (9)—
@@ -1366,7 +1366,7 @@ Section 58(1).
 - (a) in the definition of “the Road Traffic Orders”—
   - (i) omit“and”; and
   - (ii) after “2007” add “ and the Taxis Act (Northern Ireland) 2008 ”;
-- (b)[^key-3ffc6df914a089c32a7cc4dbadb56bcd] after the definition of “statutory provision”, insert—
+- (b)[^c-3ffc6df914a089c32a7cc4dbadb56bcd] after the definition of “statutory provision”, insert—
 
   > “**taxi**” has the same meaning as in the Taxis Act (Northern Ireland) 2008;
 
@@ -1385,19 +1385,19 @@ Section 58(1).
 
   .
 
-**8.**[^key-74e824a2b429bd79566a75eb0cd44575] In Article 63(3) (obligatory test certificates), for sub-paragraph (b) substitute—
+**8.**[^c-74e824a2b429bd79566a75eb0cd44575] In Article 63(3) (obligatory test certificates), for sub-paragraph (b) substitute—
 
 > - (b) a taxi; or
 
 .
 
-**9.**[^key-7a23d1ab3ae1c0ceec0e17328130cef1] In Article 76 (inspection of public passenger vehicles and goods vehicles) in paragraph (6), after sub-paragraph (a) insert—
+**9.**[^c-7a23d1ab3ae1c0ceec0e17328130cef1] In Article 76 (inspection of public passenger vehicles and goods vehicles) in paragraph (6), after sub-paragraph (a) insert—
 
 > - (aa) taxis;
 
 .
 
-**10.**[^key-d34d499ffadf0f5422253b814fc943f9] In Article 78(1) (prohibitions conditional on inspection, etc.), after “not so adapted” insert “ or is a taxi ”.
+**10.**[^c-d34d499ffadf0f5422253b814fc943f9] In Article 78(1) (prohibitions conditional on inspection, etc.), after “not so adapted” insert “ or is a taxi ”.
 
 ### The Road Traffic Offenders (Northern Ireland) Order 1996 (NI 10)
 
@@ -1422,7 +1422,7 @@ Section 58(1).
   > An offence under Article 27A(2).
 
   ; and
-- (b)[^key-2ed87939f76475bb192d2e5c06766f4a] for the paragraph beginning “An offence under any statutory provision” substitute—
+- (b)[^c-2ed87939f76475bb192d2e5c06766f4a] for the paragraph beginning “An offence under any statutory provision” substitute—
 
   > An offence under any statutory provision of contravening—
   >
@@ -1433,7 +1433,7 @@ Section 58(1).
 
   .
 
-## SCHEDULE 3 — REPEALS[^key-8a6fc5cf9f009da3825b896c787c760f]
+## SCHEDULE 3 — REPEALS[^c-8a6fc5cf9f009da3825b896c787c760f]
 
 Section 58(2).
 
@@ -1446,187 +1446,187 @@ Section 58(2).
 
 ## Annotations
 
-[^key-bc52365f2886efc5431840672dc0cbed]: Modification: [Act](https://www.legislation.gov.uk/nia/2008/4): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-bc52365f2886efc5431840672dc0cbed]: Modification: [Act](https://www.legislation.gov.uk/nia/2008/4): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-40ce5b54272be941d3f47a91b98be875]: Commencement: S. 1 in operation at 8.8.2012 for specified purposes by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/313/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/1)
+[^c-40ce5b54272be941d3f47a91b98be875]: Commencement: S. 1 in operation at 8.8.2012 for specified purposes by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/313/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/1)
 
-[^key-ddab24f9c970d2be8f84b0765dc85a00]: Commencement: S. 1 in operation at 1.9.2012 in so far as not already in operation by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-ddab24f9c970d2be8f84b0765dc85a00]: Commencement: S. 1 in operation at 1.9.2012 in so far as not already in operation by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-5a4fab1929c7e6673d825dd6d1d1f18b]: Commencement: S. 2 in operation at 8.8.2012 for specified purposes by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/313/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/1)
+[^c-5a4fab1929c7e6673d825dd6d1d1f18b]: Commencement: S. 2 in operation at 8.8.2012 for specified purposes by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/313/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/1)
 
-[^key-e3352394394efa64545cd588a286f947]: Commencement: S. 2 in operation at 1.9.2012 in so far as not already in operation by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-e3352394394efa64545cd588a286f947]: Commencement: S. 2 in operation at 1.9.2012 in so far as not already in operation by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-6674af2b7bf3598131cd073d14373320]: Textual amendment: [S. 2(4)(aa)](https://www.legislation.gov.uk/nia/2008/4/section/2/4/aa) substituted (1.12.2016) for word in s. 2(4)(a) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 46(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/46/2) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+[^c-6674af2b7bf3598131cd073d14373320]: Textual amendment: [S. 2(4)(aa)](https://www.legislation.gov.uk/nia/2008/4/section/2/4/aa) substituted (1.12.2016) for word in s. 2(4)(a) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 46(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/46/2) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
 
-[^key-e35aa10bd00eae9e1d1f255bfde71b99]: Textual amendment: [S. 2(4A)](https://www.legislation.gov.uk/nia/2008/4/section/2/4A) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 46(3)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/46/3) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+[^c-e35aa10bd00eae9e1d1f255bfde71b99]: Textual amendment: [S. 2(4A)](https://www.legislation.gov.uk/nia/2008/4/section/2/4A) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 46(3)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/46/3) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
 
-[^key-db747d42513f5214a0512866cd731dcc]: Textual amendment: Words in [s. 2(7)](https://www.legislation.gov.uk/nia/2008/4/section/2/7) substituted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 46(4)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/46/4) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+[^c-db747d42513f5214a0512866cd731dcc]: Textual amendment: Words in [s. 2(7)](https://www.legislation.gov.uk/nia/2008/4/section/2/7) substituted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 46(4)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/46/4) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
 
-[^key-c29fb306f896a3494d29ce3c4e07ce9d]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/nia/2008/4/section/2A) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 47](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/47) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+[^c-c29fb306f896a3494d29ce3c4e07ce9d]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/nia/2008/4/section/2A) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 47](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/47) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
 
-[^key-411dc608d4bc24bff4baa1e5c02c430f]: Commencement: S. 3 in operation at 8.8.2012 for specified purposes by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/313/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/1)
+[^c-411dc608d4bc24bff4baa1e5c02c430f]: Commencement: S. 3 in operation at 8.8.2012 for specified purposes by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/313/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/1)
 
-[^key-3e0607789372253918e63595b1816cfa]: Commencement: S. 3 in operation at 1.9.2012 in so far as not already in operation by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-3e0607789372253918e63595b1816cfa]: Commencement: S. 3 in operation at 1.9.2012 in so far as not already in operation by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-8dd796036247ea2eb2f88c7cd31da6ca]: Commencement: S. 4 in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-8dd796036247ea2eb2f88c7cd31da6ca]: Commencement: S. 4 in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-1012f84afb0b8f1aeea9688f47d57b7c]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2008/4/section/5) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-1012f84afb0b8f1aeea9688f47d57b7c]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2008/4/section/5) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-59b895af80038630810fb7a298daa66c]: Textual amendment: [S. 5(1)(c)](https://www.legislation.gov.uk/nia/2008/4/section/5/1/c) substituted (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 21(2)](https://www.legislation.gov.uk/nia/2011/11/section/21/2), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
+[^c-59b895af80038630810fb7a298daa66c]: Textual amendment: [S. 5(1)(c)](https://www.legislation.gov.uk/nia/2008/4/section/5/1/c) substituted (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 21(2)](https://www.legislation.gov.uk/nia/2011/11/section/21/2), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
 
-[^key-854388490af481732fbad6db22dc072c]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2008/4/section/6) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-854388490af481732fbad6db22dc072c]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2008/4/section/6) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-704cd2304c1ea4981a813422aad4cfdc]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2008/4/section/7) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-704cd2304c1ea4981a813422aad4cfdc]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2008/4/section/7) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-18b419ed5f05bd835c1fe0a80193da78]: Textual amendment: Words in [s. 8](https://www.legislation.gov.uk/nia/2008/4/section/8) substituted (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 21(3)(c)](https://www.legislation.gov.uk/nia/2011/11/section/21/3/c), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
+[^c-18b419ed5f05bd835c1fe0a80193da78]: Textual amendment: Words in [s. 8](https://www.legislation.gov.uk/nia/2008/4/section/8) substituted (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 21(3)(c)](https://www.legislation.gov.uk/nia/2011/11/section/21/3/c), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
 
-[^key-728258c67551dc405639fc7cc1223825]: Textual amendment: [S. 8(a)](https://www.legislation.gov.uk/nia/2008/4/section/8/a) repealed (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 21(3)(a)](https://www.legislation.gov.uk/nia/2011/11/section/21/3/a), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2), [Sch. 2](https://www.legislation.gov.uk/nia/2011/11/schedule/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
+[^c-728258c67551dc405639fc7cc1223825]: Textual amendment: [S. 8(a)](https://www.legislation.gov.uk/nia/2008/4/section/8/a) repealed (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 21(3)(a)](https://www.legislation.gov.uk/nia/2011/11/section/21/3/a), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2), [Sch. 2](https://www.legislation.gov.uk/nia/2011/11/schedule/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
 
-[^key-40b39f057dae554f8b5fc01ad397470d]: Textual amendment: Words in [s. 8(b)](https://www.legislation.gov.uk/nia/2008/4/section/8/b) substituted (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 21(3)(b)](https://www.legislation.gov.uk/nia/2011/11/section/21/3/b), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
+[^c-40b39f057dae554f8b5fc01ad397470d]: Textual amendment: Words in [s. 8(b)](https://www.legislation.gov.uk/nia/2008/4/section/8/b) substituted (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 21(3)(b)](https://www.legislation.gov.uk/nia/2011/11/section/21/3/b), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
 
-[^key-1f4354d290c25fbb2eadfe6cb90e7ad4]: Textual amendment: [S. 9](https://www.legislation.gov.uk/nia/2008/4/section/9) repealed (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 21(4)(a)](https://www.legislation.gov.uk/nia/2011/11/section/21/4/a), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2), [Sch. 2](https://www.legislation.gov.uk/nia/2011/11/schedule/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
+[^c-1f4354d290c25fbb2eadfe6cb90e7ad4]: Textual amendment: [S. 9](https://www.legislation.gov.uk/nia/2008/4/section/9) repealed (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 21(4)(a)](https://www.legislation.gov.uk/nia/2011/11/section/21/4/a), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2), [Sch. 2](https://www.legislation.gov.uk/nia/2011/11/schedule/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
 
-[^key-2dce5c795e0ecedb5571abda241b36a9]: Textual amendment: [S. 10](https://www.legislation.gov.uk/nia/2008/4/section/10) repealed (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 21(4)(b)](https://www.legislation.gov.uk/nia/2011/11/section/21/4/b), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2), [Sch. 2](https://www.legislation.gov.uk/nia/2011/11/schedule/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
+[^c-2dce5c795e0ecedb5571abda241b36a9]: Textual amendment: [S. 10](https://www.legislation.gov.uk/nia/2008/4/section/10) repealed (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 21(4)(b)](https://www.legislation.gov.uk/nia/2011/11/section/21/4/b), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2), [Sch. 2](https://www.legislation.gov.uk/nia/2011/11/schedule/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
 
-[^key-7ccf10c0304c3dcec71c801efd032c3c]: Textual amendment: [S. 11](https://www.legislation.gov.uk/nia/2008/4/section/11) repealed (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 21(4)(c)](https://www.legislation.gov.uk/nia/2011/11/section/21/4/c), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2), [Sch. 2](https://www.legislation.gov.uk/nia/2011/11/schedule/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
+[^c-7ccf10c0304c3dcec71c801efd032c3c]: Textual amendment: [S. 11](https://www.legislation.gov.uk/nia/2008/4/section/11) repealed (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 21(4)(c)](https://www.legislation.gov.uk/nia/2011/11/section/21/4/c), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2), [Sch. 2](https://www.legislation.gov.uk/nia/2011/11/schedule/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
 
-[^key-1f3da29065242789690aaf59ed4c42ac]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2008/4/section/12) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-1f3da29065242789690aaf59ed4c42ac]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2008/4/section/12) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-760e07e3a46c9f5104585478ad6d9e81]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2008/4/section/13) in operation at 9.12.2014 for specified purposes by [S.R. 2014/300](https://www.legislation.gov.uk/nisr/2014/300), [art. 2(1)](https://www.legislation.gov.uk/nisr/2014/300/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2014/300/schedule/part/1)
+[^c-760e07e3a46c9f5104585478ad6d9e81]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2008/4/section/13) in operation at 9.12.2014 for specified purposes by [S.R. 2014/300](https://www.legislation.gov.uk/nisr/2014/300), [art. 2(1)](https://www.legislation.gov.uk/nisr/2014/300/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2014/300/schedule/part/1)
 
-[^key-e3ad7a2336f889a1f1f79e41c033f6ea]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2008/4/section/13) in operation at 31.5.2016 in so far as not already in operation by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-e3ad7a2336f889a1f1f79e41c033f6ea]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2008/4/section/13) in operation at 31.5.2016 in so far as not already in operation by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-e54e1c59e574cc87c4b5cc6610aad02b]: Commencement: [S. 13(1)](https://www.legislation.gov.uk/nia/2008/4/section/13/1) in operation at 9.5.2016 for specified purposes by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(2)](https://www.legislation.gov.uk/nisr/2015/389/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/2)
+[^c-e54e1c59e574cc87c4b5cc6610aad02b]: Commencement: [S. 13(1)](https://www.legislation.gov.uk/nia/2008/4/section/13/1) in operation at 9.5.2016 for specified purposes by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(2)](https://www.legislation.gov.uk/nisr/2015/389/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/2)
 
-[^key-cf2256f879bfdaead4f00236055d8dd9]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2008/4/section/14) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-cf2256f879bfdaead4f00236055d8dd9]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2008/4/section/14) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-611ad058ef3dfb97abc5f354116cb44a]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2008/4/section/15) in operation at 9.12.2014 for specified purposes by [S.R. 2014/300](https://www.legislation.gov.uk/nisr/2014/300), [art. 2(1)](https://www.legislation.gov.uk/nisr/2014/300/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2014/300/schedule/part/1)
+[^c-611ad058ef3dfb97abc5f354116cb44a]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2008/4/section/15) in operation at 9.12.2014 for specified purposes by [S.R. 2014/300](https://www.legislation.gov.uk/nisr/2014/300), [art. 2(1)](https://www.legislation.gov.uk/nisr/2014/300/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2014/300/schedule/part/1)
 
-[^key-050e3a105b0eb142e4adb3bb9f4bc6d2]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2008/4/section/15) in operation at 31.5.2016 in so far as not already in operation by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-050e3a105b0eb142e4adb3bb9f4bc6d2]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2008/4/section/15) in operation at 31.5.2016 in so far as not already in operation by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-f2bad4d6457f555a933ec7368a08aecb]: Commencement: S. 16 in operation at 2.12.2015 for specified purposes by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/389/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/1)
+[^c-f2bad4d6457f555a933ec7368a08aecb]: Commencement: S. 16 in operation at 2.12.2015 for specified purposes by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/389/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/1)
 
 [^M_I_01f0ced5-7044-4565-c175-37d31b31b68e]: Commencement: S. 16 in operation at 31.5.2016 in so far as not already in operation by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-3c953dbdfd1e0b8d55f0081d55872646]: Commencement: [S. 17(1)](https://www.legislation.gov.uk/nia/2008/4/section/17/1)[(3)](https://www.legislation.gov.uk/nia/2008/4/section/17/3) in operation at 2.12.2015 for specified purposes by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/389/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/1)
+[^c-3c953dbdfd1e0b8d55f0081d55872646]: Commencement: [S. 17(1)](https://www.legislation.gov.uk/nia/2008/4/section/17/1)[(3)](https://www.legislation.gov.uk/nia/2008/4/section/17/3) in operation at 2.12.2015 for specified purposes by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/389/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/1)
 
-[^key-0cd36b2e1c287ae5980b193c24adb0ec]: Commencement: [S. 17(1)](https://www.legislation.gov.uk/nia/2008/4/section/17/1)[(3)](https://www.legislation.gov.uk/nia/2008/4/section/17/3) in operation at 31.5.2016 in so far as not already in operation by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-0cd36b2e1c287ae5980b193c24adb0ec]: Commencement: [S. 17(1)](https://www.legislation.gov.uk/nia/2008/4/section/17/1)[(3)](https://www.legislation.gov.uk/nia/2008/4/section/17/3) in operation at 31.5.2016 in so far as not already in operation by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-0b88323e928036885fefbe811655a383]: Commencement: [S. 17(4)](https://www.legislation.gov.uk/nia/2008/4/section/17/4) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-0b88323e928036885fefbe811655a383]: Commencement: [S. 17(4)](https://www.legislation.gov.uk/nia/2008/4/section/17/4) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-1543d3e26a403f380357080b563f0681]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/nia/2008/4/section/18/1)[(4)](https://www.legislation.gov.uk/nia/2008/4/section/18/4)[(5)](https://www.legislation.gov.uk/nia/2008/4/section/18/5) in operation at 2.12.2015 for specified purposes by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/389/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/1)
+[^c-1543d3e26a403f380357080b563f0681]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/nia/2008/4/section/18/1)[(4)](https://www.legislation.gov.uk/nia/2008/4/section/18/4)[(5)](https://www.legislation.gov.uk/nia/2008/4/section/18/5) in operation at 2.12.2015 for specified purposes by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/389/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/1)
 
-[^key-fb4f92adbbb94575c300e3b2952944e7]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/nia/2008/4/section/18/1)[(4)](https://www.legislation.gov.uk/nia/2008/4/section/18/4)[(5)](https://www.legislation.gov.uk/nia/2008/4/section/18/5) in operation at 31.5.2016 in so far as not already in operation by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-fb4f92adbbb94575c300e3b2952944e7]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/nia/2008/4/section/18/1)[(4)](https://www.legislation.gov.uk/nia/2008/4/section/18/4)[(5)](https://www.legislation.gov.uk/nia/2008/4/section/18/5) in operation at 31.5.2016 in so far as not already in operation by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-e046f8f551d7f805faea44dd882443fe]: Commencement: [S. 18(2)](https://www.legislation.gov.uk/nia/2008/4/section/18/2) [(3)](https://www.legislation.gov.uk/nia/2008/4/section/18/3) [(6)-(8)](https://www.legislation.gov.uk/nia/2008/4/section/18/6) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-e046f8f551d7f805faea44dd882443fe]: Commencement: [S. 18(2)](https://www.legislation.gov.uk/nia/2008/4/section/18/2) [(3)](https://www.legislation.gov.uk/nia/2008/4/section/18/3) [(6)-(8)](https://www.legislation.gov.uk/nia/2008/4/section/18/6) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-ffe8dd9e29e8af16ca2a233d94a6dabe]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2008/4/section/19) in operation at 9.12.2014 for specified purposes by [S.R. 2014/300](https://www.legislation.gov.uk/nisr/2014/300), [art. 2(1)](https://www.legislation.gov.uk/nisr/2014/300/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2014/300/schedule/part/1)
+[^c-ffe8dd9e29e8af16ca2a233d94a6dabe]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2008/4/section/19) in operation at 9.12.2014 for specified purposes by [S.R. 2014/300](https://www.legislation.gov.uk/nisr/2014/300), [art. 2(1)](https://www.legislation.gov.uk/nisr/2014/300/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2014/300/schedule/part/1)
 
-[^key-22d5d8193a9525e13ad3bfa9ffdb08ea]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2008/4/section/19) in operation at 31.5.2016 in so far as not already in operation by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-22d5d8193a9525e13ad3bfa9ffdb08ea]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2008/4/section/19) in operation at 31.5.2016 in so far as not already in operation by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-b93f999bd4b9c70cb0fd01bb761fd6a3]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2008/4/section/20) in operation at 9.12.2014 for specified purposes by [S.R. 2014/300](https://www.legislation.gov.uk/nisr/2014/300), [art. 2(1)](https://www.legislation.gov.uk/nisr/2014/300/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2014/300/schedule/part/1)
+[^c-b93f999bd4b9c70cb0fd01bb761fd6a3]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2008/4/section/20) in operation at 9.12.2014 for specified purposes by [S.R. 2014/300](https://www.legislation.gov.uk/nisr/2014/300), [art. 2(1)](https://www.legislation.gov.uk/nisr/2014/300/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2014/300/schedule/part/1)
 
-[^key-4cbd2a4a857d86b2427cfdf2404697f4]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2008/4/section/20) in operation at 31.5.2016 in so far as not already in operation by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-4cbd2a4a857d86b2427cfdf2404697f4]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2008/4/section/20) in operation at 31.5.2016 in so far as not already in operation by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-ef809dc867829bafe72b324b1dc86924]: Commencement: S. 22 in operation at 31.10.2014 by [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/238/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2014/238/schedule/part/2)
+[^c-ef809dc867829bafe72b324b1dc86924]: Commencement: S. 22 in operation at 31.10.2014 by [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/238/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2014/238/schedule/part/2)
 
-[^key-c0d29a98ca62ee1415d57f7011c613da]: Commencement: S. 23(1)-(7) s. 23(9)-(15) in operation at 24.9.2014 for specified purposes by [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(1)](https://www.legislation.gov.uk/nisr/2014/238/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2014/238/schedule/part/1)
+[^c-c0d29a98ca62ee1415d57f7011c613da]: Commencement: S. 23(1)-(7) s. 23(9)-(15) in operation at 24.9.2014 for specified purposes by [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(1)](https://www.legislation.gov.uk/nisr/2014/238/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2014/238/schedule/part/1)
 
-[^key-09ed41534aa9b7910e724af69943f36d]: Commencement: S. 23(1)-(7) s. 23(9)-(15) in operation at 31.10.2014 in so far as not already in operation by [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/238/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2014/238/schedule/part/2)
+[^c-09ed41534aa9b7910e724af69943f36d]: Commencement: S. 23(1)-(7) s. 23(9)-(15) in operation at 31.10.2014 in so far as not already in operation by [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/238/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2014/238/schedule/part/2)
 
-[^key-b9bf45ad8f9950654b459692098f8047]: Textual amendment: [S. 23(2)(aa)](https://www.legislation.gov.uk/nia/2008/4/section/23/2/aa) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 48(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/48/2) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+[^c-b9bf45ad8f9950654b459692098f8047]: Textual amendment: [S. 23(2)(aa)](https://www.legislation.gov.uk/nia/2008/4/section/23/2/aa) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 48(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/48/2) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
 
-[^key-892c99c917f959b0e7d19c4f2f78d9f4]: Textual amendment: [S. 23(2A)](https://www.legislation.gov.uk/nia/2008/4/section/23/2A) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 48(3)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/48/3) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+[^c-892c99c917f959b0e7d19c4f2f78d9f4]: Textual amendment: [S. 23(2A)](https://www.legislation.gov.uk/nia/2008/4/section/23/2A) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 48(3)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/48/3) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
 
-[^key-0f85979297035f91b94c41458d3cc7aa]: Textual amendment: Words in [s. 23(8)](https://www.legislation.gov.uk/nia/2008/4/section/23/8) substituted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 48(4)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/48/4) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+[^c-0f85979297035f91b94c41458d3cc7aa]: Textual amendment: Words in [s. 23(8)](https://www.legislation.gov.uk/nia/2008/4/section/23/8) substituted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 48(4)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/48/4) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
 
-[^key-ac456ad7d4318e2d1cd830ad62adfc6b]: Textual amendment: [S. 23A](https://www.legislation.gov.uk/nia/2008/4/section/23A) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 49](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/49) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+[^c-ac456ad7d4318e2d1cd830ad62adfc6b]: Textual amendment: [S. 23A](https://www.legislation.gov.uk/nia/2008/4/section/23A) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 49](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/49) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
 
-[^key-bac14db68554b883e14f24db265ced5f]: Commencement: S. 24 in operation at 31.10.2014 by [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/238/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2014/238/schedule/part/2)
+[^c-bac14db68554b883e14f24db265ced5f]: Commencement: S. 24 in operation at 31.10.2014 by [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/238/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2014/238/schedule/part/2)
 
-[^key-3ecef0095c07a2745fb69626e5cbe239]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2008/4/section/25) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-3ecef0095c07a2745fb69626e5cbe239]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2008/4/section/25) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-ed2fd63f4f462824f693a61bd4a82362]: Commencement: S. 26 in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-ed2fd63f4f462824f693a61bd4a82362]: Commencement: S. 26 in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-236a30544bda973f6e7e74874d8681e0]: Textual amendment: [S. 26(2)(aa)](https://www.legislation.gov.uk/nia/2008/4/section/26/2/aa) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 50(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/50/2) (with [Sch. 5 para. 55](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/55)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+[^c-236a30544bda973f6e7e74874d8681e0]: Textual amendment: [S. 26(2)(aa)](https://www.legislation.gov.uk/nia/2008/4/section/26/2/aa) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 50(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/50/2) (with [Sch. 5 para. 55](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/55)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
 
-[^key-99fae6fd7b944d12cf12fcd828d356e5]: Textual amendment: [S. 26(2A)](https://www.legislation.gov.uk/nia/2008/4/section/26/2A) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 50(3)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/50/3) (with [Sch. 5 para. 55](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/55)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+[^c-99fae6fd7b944d12cf12fcd828d356e5]: Textual amendment: [S. 26(2A)](https://www.legislation.gov.uk/nia/2008/4/section/26/2A) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 50(3)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/50/3) (with [Sch. 5 para. 55](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/55)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
 
-[^key-409a6155ea870d1ce6ec5b94494646a5]: Textual amendment: [S. 26(6)(aa)](https://www.legislation.gov.uk/nia/2008/4/section/26/6/aa) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 50(4)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/50/4) (with [Sch. 5 para. 55](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/55)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+[^c-409a6155ea870d1ce6ec5b94494646a5]: Textual amendment: [S. 26(6)(aa)](https://www.legislation.gov.uk/nia/2008/4/section/26/6/aa) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 50(4)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/50/4) (with [Sch. 5 para. 55](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/55)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
 
-[^key-32c65248376c8b29a1f084534845b718]: Textual amendment: [S. 26(7)](https://www.legislation.gov.uk/nia/2008/4/section/26/7) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 50(5)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/50/5) (with [Sch. 5 para. 55](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/55)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+[^c-32c65248376c8b29a1f084534845b718]: Textual amendment: [S. 26(7)](https://www.legislation.gov.uk/nia/2008/4/section/26/7) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 50(5)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/50/5) (with [Sch. 5 para. 55](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/55)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
 
-[^key-91dc8991b8bd9ef88e4f41f435dfdc6c]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2008/4/section/27) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-91dc8991b8bd9ef88e4f41f435dfdc6c]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2008/4/section/27) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-e5511c8a77966e8d368f06c87619d00a]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2008/4/section/28) in operation at 8.8.2012 for specified purposes by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/313/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/1)
+[^c-e5511c8a77966e8d368f06c87619d00a]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2008/4/section/28) in operation at 8.8.2012 for specified purposes by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/313/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/1)
 
-[^key-9ecb75a4bc76246fa4e6e8e63176a9b4]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2008/4/section/28) in operation at 1.9.2012 in so far as not already in operation by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-9ecb75a4bc76246fa4e6e8e63176a9b4]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2008/4/section/28) in operation at 1.9.2012 in so far as not already in operation by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-2110d89f151fdb877a2f00c437eb6d5f]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2008/4/section/29) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-2110d89f151fdb877a2f00c437eb6d5f]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2008/4/section/29) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-ae74cd3434eb0c75f5ee49e3cc0c2a2a]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2008/4/section/30) in operation at 8.8.2012 for specified purposes by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/313/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/1)
+[^c-ae74cd3434eb0c75f5ee49e3cc0c2a2a]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2008/4/section/30) in operation at 8.8.2012 for specified purposes by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/313/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/1)
 
-[^key-b1fd9bf4f9fb54ca804377d6c4ca9994]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2008/4/section/30) in operation at 1.9.2012 in so far as not already in operation by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-b1fd9bf4f9fb54ca804377d6c4ca9994]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2008/4/section/30) in operation at 1.9.2012 in so far as not already in operation by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-2b61ff4f768251879b17b486ae00d9e9]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2008/4/section/31) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-2b61ff4f768251879b17b486ae00d9e9]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2008/4/section/31) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-dcf91f6f410776e37dbb5239fefb2a85]: Commencement: S. 32 in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-dcf91f6f410776e37dbb5239fefb2a85]: Commencement: S. 32 in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-39b3726871649f628040f3bb4920f038]: Textual amendment: [S. 32(5A)](https://www.legislation.gov.uk/nia/2008/4/section/32/5A) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 51](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/51); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+[^c-39b3726871649f628040f3bb4920f038]: Textual amendment: [S. 32(5A)](https://www.legislation.gov.uk/nia/2008/4/section/32/5A) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 51](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/51); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
 
-[^key-2b699f58d396714444e7a66ea6ddce70]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2008/4/section/33) in operation at 8.8.2012 for specified purposes by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/313/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/1)
+[^c-2b699f58d396714444e7a66ea6ddce70]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2008/4/section/33) in operation at 8.8.2012 for specified purposes by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/313/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/1)
 
-[^key-df561b6e3a2fdfcb95217b1344f04eaf]: Commencement: [S. 33(1)(a)](https://www.legislation.gov.uk/nia/2008/4/section/33/1/a) [s. 33(1)(c)-(e)](https://www.legislation.gov.uk/nia/2008/4/section/33/1/c) [(2)](https://www.legislation.gov.uk/nia/2008/4/section/33/2) in operation at 1.9.2012 in so far as not already in operation by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-df561b6e3a2fdfcb95217b1344f04eaf]: Commencement: [S. 33(1)(a)](https://www.legislation.gov.uk/nia/2008/4/section/33/1/a) [s. 33(1)(c)-(e)](https://www.legislation.gov.uk/nia/2008/4/section/33/1/c) [(2)](https://www.legislation.gov.uk/nia/2008/4/section/33/2) in operation at 1.9.2012 in so far as not already in operation by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-3d6f543fd7486a50103d46aca99049d6]: Commencement: S. 34 in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-3d6f543fd7486a50103d46aca99049d6]: Commencement: S. 34 in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-b5acfffa05d2800cfa0788e810ba0066]: Textual amendment: [S. 34(6)](https://www.legislation.gov.uk/nia/2008/4/section/34/6) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 52](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/52); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+[^c-b5acfffa05d2800cfa0788e810ba0066]: Textual amendment: [S. 34(6)](https://www.legislation.gov.uk/nia/2008/4/section/34/6) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 52](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/52); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
 
-[^key-a31306a6104f0e4a0b646575b047826a]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2008/4/section/35) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-a31306a6104f0e4a0b646575b047826a]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2008/4/section/35) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-a9160a7cc3af2a5dd81f96cede405dd1]: Commencement: [S. 37](https://www.legislation.gov.uk/nia/2008/4/section/37) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-a9160a7cc3af2a5dd81f96cede405dd1]: Commencement: [S. 37](https://www.legislation.gov.uk/nia/2008/4/section/37) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-bf389ae6641d927273bf4b912412102f]: Commencement: [S. 38](https://www.legislation.gov.uk/nia/2008/4/section/38) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-bf389ae6641d927273bf4b912412102f]: Commencement: [S. 38](https://www.legislation.gov.uk/nia/2008/4/section/38) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-fdad7f21a80e1b33a6397e20360cca70]: Commencement: [S. 39](https://www.legislation.gov.uk/nia/2008/4/section/39) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-fdad7f21a80e1b33a6397e20360cca70]: Commencement: [S. 39](https://www.legislation.gov.uk/nia/2008/4/section/39) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-0d3b89b101770e0875b22080f5a8464a]: Commencement: [S. 41](https://www.legislation.gov.uk/nia/2008/4/section/41) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-0d3b89b101770e0875b22080f5a8464a]: Commencement: [S. 41](https://www.legislation.gov.uk/nia/2008/4/section/41) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-f1ebb684db80b54f1074305773fd6b4c]: Commencement: [S. 42](https://www.legislation.gov.uk/nia/2008/4/section/42) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-f1ebb684db80b54f1074305773fd6b4c]: Commencement: [S. 42](https://www.legislation.gov.uk/nia/2008/4/section/42) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
 [^c22088851]: Textual amendment: Words in [s. 42(1)](https://www.legislation.gov.uk/nia/2008/4/section/42/1) substituted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [12](https://www.legislation.gov.uk/uksi/2010/976/article/12), [Sch. 14 para. 92(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/92/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2) (but this amendment cannot take effect until the commencement of 2008 (c.4) (N.I.), s. 42)
 
-[^key-f87107c6b90aa0f2d6d1a0d86ce8ed58]: Commencement: [S. 43](https://www.legislation.gov.uk/nia/2008/4/section/43) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-f87107c6b90aa0f2d6d1a0d86ce8ed58]: Commencement: [S. 43](https://www.legislation.gov.uk/nia/2008/4/section/43) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-b599561c0b0207ba919e273ad634b564]: Commencement: [S. 44](https://www.legislation.gov.uk/nia/2008/4/section/44) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-b599561c0b0207ba919e273ad634b564]: Commencement: [S. 44](https://www.legislation.gov.uk/nia/2008/4/section/44) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-451c019882a8b71b96044cf22da2526e]: Commencement: [S. 45](https://www.legislation.gov.uk/nia/2008/4/section/45) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-451c019882a8b71b96044cf22da2526e]: Commencement: [S. 45](https://www.legislation.gov.uk/nia/2008/4/section/45) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-01b5058cf1cb77ec3423b32ded95d4af]: Commencement: [S. 46](https://www.legislation.gov.uk/nia/2008/4/section/46) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-01b5058cf1cb77ec3423b32ded95d4af]: Commencement: [S. 46](https://www.legislation.gov.uk/nia/2008/4/section/46) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-39db6347745d841beedaa5d7b8e38664]: Commencement: [S. 47](https://www.legislation.gov.uk/nia/2008/4/section/47) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-39db6347745d841beedaa5d7b8e38664]: Commencement: [S. 47](https://www.legislation.gov.uk/nia/2008/4/section/47) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-84030adc6b1b35e8c5c064e10d067fb6]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2008/4/section/48) in operation at 1.9.2012 for specified purposes by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-84030adc6b1b35e8c5c064e10d067fb6]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2008/4/section/48) in operation at 1.9.2012 for specified purposes by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-eb420d4343f6314a0c8b43dbb3cda598]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2008/4/section/48) in operation at 31.10.2014 for specified purposes by [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/238/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2014/238/schedule/part/2)
+[^c-eb420d4343f6314a0c8b43dbb3cda598]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2008/4/section/48) in operation at 31.10.2014 for specified purposes by [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/238/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2014/238/schedule/part/2)
 
-[^key-f28310f9461cb15cd8a419b4c60caff6]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2008/4/section/48) in operation at 31.5.2016 for specified purposes by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-f28310f9461cb15cd8a419b4c60caff6]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2008/4/section/48) in operation at 31.5.2016 for specified purposes by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-9ac5b6601b96f388913aaefa4fb2ae8e]: Commencement: [S. 50](https://www.legislation.gov.uk/nia/2008/4/section/50) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-9ac5b6601b96f388913aaefa4fb2ae8e]: Commencement: [S. 50](https://www.legislation.gov.uk/nia/2008/4/section/50) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-9a917080f038fbd1d153196e5010c1fb]: Commencement: [S. 51](https://www.legislation.gov.uk/nia/2008/4/section/51) in operation at 20.12.2021 by [S.R. 2021/344](https://www.legislation.gov.uk/nisr/2021/344), [art. 2](https://www.legislation.gov.uk/nisr/2021/344/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/344/schedule)
+[^c-9a917080f038fbd1d153196e5010c1fb]: Commencement: [S. 51](https://www.legislation.gov.uk/nia/2008/4/section/51) in operation at 20.12.2021 by [S.R. 2021/344](https://www.legislation.gov.uk/nisr/2021/344), [art. 2](https://www.legislation.gov.uk/nisr/2021/344/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/344/schedule)
 
-[^key-14a1f4da2642588c48eb2b7f37af4e19]: Commencement: [S. 52](https://www.legislation.gov.uk/nia/2008/4/section/52) in operation at 24.9.2014 for specified purposes by [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(1)](https://www.legislation.gov.uk/nisr/2014/238/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2014/238/schedule/part/1)
+[^c-14a1f4da2642588c48eb2b7f37af4e19]: Commencement: [S. 52](https://www.legislation.gov.uk/nia/2008/4/section/52) in operation at 24.9.2014 for specified purposes by [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(1)](https://www.legislation.gov.uk/nisr/2014/238/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2014/238/schedule/part/1)
 
-[^key-be9e7f9206c11628040a1cdbc3a54816]: Commencement: [S. 52](https://www.legislation.gov.uk/nia/2008/4/section/52) in operation at 31.10.2014 in so far as not already in operation by [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/238/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2014/238/schedule/part/2)
+[^c-be9e7f9206c11628040a1cdbc3a54816]: Commencement: [S. 52](https://www.legislation.gov.uk/nia/2008/4/section/52) in operation at 31.10.2014 in so far as not already in operation by [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/238/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2014/238/schedule/part/2)
 
-[^key-1a53c9ff4c2cd8be1542d6392690dacb]: Commencement: [S. 53](https://www.legislation.gov.uk/nia/2008/4/section/53) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-1a53c9ff4c2cd8be1542d6392690dacb]: Commencement: [S. 53](https://www.legislation.gov.uk/nia/2008/4/section/53) in operation at 1.9.2012 by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
 [^c21473451]: Commencement: S. 54 partly in operation; s. 54 not in operation at Royal Assent see s. 59; s. 54(1) in operation for certain purposes at 23.11.2009 by [S.R. 2009/352](https://www.legislation.gov.uk/nisr/2009/352), [art. 2](https://www.legislation.gov.uk/nisr/2009/352/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/352/schedule); s. 54(4)(5) in operation at 23.11.2009 by [S.R. 2009/352](https://www.legislation.gov.uk/nisr/2009/352), [art. 2](https://www.legislation.gov.uk/nisr/2009/352/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/352/schedule)
 
-[^key-2cd3d47bc9e6f94541769beb257f60ab]: Commencement: [S. 54(1)](https://www.legislation.gov.uk/nia/2008/4/section/54/1) in operation at 31.5.2016 in so far as not already in operation by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-2cd3d47bc9e6f94541769beb257f60ab]: Commencement: [S. 54(1)](https://www.legislation.gov.uk/nia/2008/4/section/54/1) in operation at 31.5.2016 in so far as not already in operation by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-b1053399166fc157be780f4bee87ab07]: Textual amendment: [S. 54(3)](https://www.legislation.gov.uk/nia/2008/4/section/54/3) repealed (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 21(4)(d)](https://www.legislation.gov.uk/nia/2011/11/section/21/4/d), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2), [Sch. 2](https://www.legislation.gov.uk/nia/2011/11/schedule/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
+[^c-b1053399166fc157be780f4bee87ab07]: Textual amendment: [S. 54(3)](https://www.legislation.gov.uk/nia/2008/4/section/54/3) repealed (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 21(4)(d)](https://www.legislation.gov.uk/nia/2011/11/section/21/4/d), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2), [Sch. 2](https://www.legislation.gov.uk/nia/2011/11/schedule/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
 
 [^c22088861]: Textual amendment: Words in s. 56(2) substituted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [12](https://www.legislation.gov.uk/uksi/2010/976/article/12), [Sch. 14 para. 92(3)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/92/3/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
@@ -1634,38 +1634,38 @@ Section 58(2).
 
 [^c22088901]: Textual amendment: S. 56(5) omitted (12.4.2010) by virtue of [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [12](https://www.legislation.gov.uk/uksi/2010/976/article/12), [Sch. 14 para. 92(3)(c)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/92/3/c) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-36da791eea2e37dc5a4787d19551b475]: Textual amendment: [Ss. 56A](https://www.legislation.gov.uk/nia/2008/4/section/56A), [56B](https://www.legislation.gov.uk/nia/2008/4/section/56B) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 53](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/53); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+[^c-36da791eea2e37dc5a4787d19551b475]: Textual amendment: [Ss. 56A](https://www.legislation.gov.uk/nia/2008/4/section/56A), [56B](https://www.legislation.gov.uk/nia/2008/4/section/56B) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 53](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/53); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
 
 [^c21473611]: Commencement: S. 58 partly in operation; s. 58 not in operation at Royal Assent see s. 59; s. 58(1) in operation for certain purposes at 23.11.2009 by [S.R. 2009/352](https://www.legislation.gov.uk/nisr/2009/352), [art. 2](https://www.legislation.gov.uk/nisr/2009/352/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/352/schedule)
 
-[^key-ee12a325c10b137245d178843849dc83]: Commencement: S. 58(1) in operation at 31.5.2016 for specified purposes by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-ee12a325c10b137245d178843849dc83]: Commencement: S. 58(1) in operation at 31.5.2016 for specified purposes by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-eb873bfc607748657cd98938dc6bef47]: Commencement: S. 58(2) in operation at 31.10.2014 for specified purposes by [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/238/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2014/238/schedule/part/2)
+[^c-eb873bfc607748657cd98938dc6bef47]: Commencement: S. 58(2) in operation at 31.10.2014 for specified purposes by [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/238/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2014/238/schedule/part/2)
 
 [^c21472631]: Subordinate legislation: S. 59 power partly exercised: 23.11.2009 appointed for specified provisions by [S.R. 2009/352](https://www.legislation.gov.uk/nisr/2009/352), [art. 2](https://www.legislation.gov.uk/nisr/2009/352/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/352/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2009/352/article/3))
 
-[^key-56ac3febc9111d4f28d4100eb64853bc]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2008/4/schedule/1) in operation at 1.9.2012 for specified purposes by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
+[^c-56ac3febc9111d4f28d4100eb64853bc]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2008/4/schedule/1) in operation at 1.9.2012 for specified purposes by [S.R. 2012/313](https://www.legislation.gov.uk/nisr/2012/313), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/313/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/313/schedule/part/2)
 
-[^key-431d8585bfda599b27e4a97a474981b0]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2008/4/schedule/1) in operation at 31.10.2014 for specified purposes by [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/238/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2014/238/schedule/part/2)
+[^c-431d8585bfda599b27e4a97a474981b0]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2008/4/schedule/1) in operation at 31.10.2014 for specified purposes by [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/238/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2014/238/schedule/part/2)
 
-[^key-7641fd2d91378744341f9eaf6358a071]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2008/4/schedule/1) in operation at 31.5.2016 for specified purposes by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-7641fd2d91378744341f9eaf6358a071]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2008/4/schedule/1) in operation at 31.5.2016 for specified purposes by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-429157c3a3272027eaa54ec4b3629126]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/2) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-429157c3a3272027eaa54ec4b3629126]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/2) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-f471d594cbc97658f02f5ecf4c6b0676]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/5) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-f471d594cbc97658f02f5ecf4c6b0676]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/5) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
 [^c21473621]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/6) partly in operation; [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/6) not in operation at Royal Assent see [s. 59](https://www.legislation.gov.uk/nia/2008/4/section/59); [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/6/a) in operation at 23.11.2009 by [S.R. 2009/352](https://www.legislation.gov.uk/nisr/2009/352), [art. 2](https://www.legislation.gov.uk/nisr/2009/352/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/352/schedule)
 
-[^key-3ffc6df914a089c32a7cc4dbadb56bcd]: Commencement: [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/6/b) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-3ffc6df914a089c32a7cc4dbadb56bcd]: Commencement: [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/6/b) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-74e824a2b429bd79566a75eb0cd44575]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/8) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-74e824a2b429bd79566a75eb0cd44575]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/8) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-7a23d1ab3ae1c0ceec0e17328130cef1]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/9) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-7a23d1ab3ae1c0ceec0e17328130cef1]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/9) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-d34d499ffadf0f5422253b814fc943f9]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/10) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-d34d499ffadf0f5422253b814fc943f9]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/10) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
 [^c21473631]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/13) partly in operation; [Sch. 2 para. 13](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/13) not in operation at Royal Assent see [s. 59](https://www.legislation.gov.uk/nia/2008/4/section/59); [Sch. 2 para. 13(a)](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/13/a) in operation at 23.11.2009 by [S.R. 2009/352](https://www.legislation.gov.uk/nisr/2009/352), [art. 2](https://www.legislation.gov.uk/nisr/2009/352/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/352/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2009/352/article/3))
 
-[^key-2ed87939f76475bb192d2e5c06766f4a]: Commencement: [Sch. 2 para. 13(b)](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/13/b) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-2ed87939f76475bb192d2e5c06766f4a]: Commencement: [Sch. 2 para. 13(b)](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/13/b) in operation at 31.5.2016 by [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
-[^key-8a6fc5cf9f009da3825b896c787c760f]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nia/2008/4/schedule/3) in operation at 31.10.2014 for specified purposes by [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/238/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2014/238/schedule/part/2)
+[^c-8a6fc5cf9f009da3825b896c787c760f]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nia/2008/4/schedule/3) in operation at 31.10.2014 for specified purposes by [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/238/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2014/238/schedule/part/2)

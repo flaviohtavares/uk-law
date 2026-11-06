@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57A. Arrest without warrant otherwise than in respect of an offence[^key-ba1165ab7f8e63d39f427b4f88d418f6]
+## 57A. Arrest without warrant otherwise than in respect of an offence[^c-ba1165ab7f8e63d39f427b4f88d418f6]
 
 *Extent: S*
 
@@ -35,11 +35,11 @@ this Part applies subject to the modifications set out in section 57C.
 - (b) section 40 of the Prisons (Scotland) Act 1989;
 - (c) sections 19(6), 19AA(12) and 28(1) of the 1995 Act;
 - (d) section 4(1) of the Protection from Abuse (Scotland) Act 2001;
-- (e) sections 5 and 74A[^key-bb38e9ea9aaf0c0d565f245e8a227f41] of the Extradition Act 2003;
+- (e) sections 5 and 74A[^c-bb38e9ea9aaf0c0d565f245e8a227f41] of the Extradition Act 2003;
 - (f) section 28 of the Adult Support and Protection (Scotland) Act 2007.
 
 ## Annotations
 
-[^key-ba1165ab7f8e63d39f427b4f88d418f6]: Textual amendment: Ss. 57A-57C and cross-heading inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [regs. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2017/453/regulation/2/7)
+[^c-ba1165ab7f8e63d39f427b4f88d418f6]: Textual amendment: Ss. 57A-57C and cross-heading inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [regs. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2017/453/regulation/2/7)
 
-[^key-bb38e9ea9aaf0c0d565f245e8a227f41]: Textual amendment: Words in [s. 57A(3)(e)](https://www.legislation.gov.uk/asp/2016/1/section/57A/3/e) substituted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 30](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/30); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-bb38e9ea9aaf0c0d565f245e8a227f41]: Textual amendment: Words in [s. 57A(3)(e)](https://www.legislation.gov.uk/asp/2016/1/section/57A/3/e) substituted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 30](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/30); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)

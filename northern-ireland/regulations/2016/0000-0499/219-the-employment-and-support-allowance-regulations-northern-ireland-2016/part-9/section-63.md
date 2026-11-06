@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 63. Special cases[^key-c01fce29e45932c6187fd5e04457c887]
+## 63. Special cases[^c-c01fce29e45932c6187fd5e04457c887]
 
 *Extent: N.I.*
 
@@ -53,7 +53,7 @@ is the amount applicable under regulation 62(1) and the amount of nil under regu
 
 ## Annotations
 
-[^key-c01fce29e45932c6187fd5e04457c887]: Commencement: [Reg. 63](https://www.legislation.gov.uk/nisr/2016/219/regulation/63) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-c01fce29e45932c6187fd5e04457c887]: Commencement: [Reg. 63](https://www.legislation.gov.uk/nisr/2016/219/regulation/63) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00063]: Footnote: [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595); Article 53 was amended by paragraph 38 of Schedule 12 to the Justice (Northern Ireland) Act [2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26)
 

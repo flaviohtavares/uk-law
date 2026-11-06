@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Consultation of the community clinician[^key-8b6e5d6a21705ac6d3e0a9cdf75d895c]
+## 22. Consultation of the community clinician[^c-8b6e5d6a21705ac6d3e0a9cdf75d895c]
 
 *Extent: E+W+S+N.I.*
 
@@ -109,4 +109,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b6e5d6a21705ac6d3e0a9cdf75d895c]: Commencement: S. 22 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-8b6e5d6a21705ac6d3e0a9cdf75d895c]: Commencement: S. 22 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

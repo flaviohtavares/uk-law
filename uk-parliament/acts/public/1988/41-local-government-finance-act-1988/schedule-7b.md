@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7B — Local retention of non-domestic rates[^key-1a6ee4cce81408ae0e7688e12f0d53fb]
+## SCHEDULE 7B — Local retention of non-domestic rates[^c-1a6ee4cce81408ae0e7688e12f0d53fb]
 
 *Extent: E+W*
 
@@ -62,14 +62,14 @@ Section 59A
 - (e) payments made by the Secretary of State in the year under regulations under paragraph 33, and
 - (f) payments made by the Secretary of State in the year under regulations under paragraph 42.
 
-(3)[^key-456e6f43fd70ee24e28e50d52d4c9cc3] If a local government finance report for a year has been approved by resolution of the House of Commons, an amount may be—
+(3)[^c-456e6f43fd70ee24e28e50d52d4c9cc3] If a local government finance report for a year has been approved by resolution of the House of Commons, an amount may be—
 
 - (a) debited (as an item of account) to the main non-domestic rating account kept for the year, for use for the purposes of local government in England;
 - (b) credited (as an item of account) to the main non-domestic rating account kept for the year.
 
 (4) The amount that may be debited under sub-paragraph (3)(a) for a year may not exceed the amount that would result in the aggregate mentioned in paragraph 3(1)(b) for the year exceeding the aggregate mentioned in paragraph 3(1)(a) for the year.
 
-(5) The reference in sub-paragraph (3)(a)[^key-fee9685793d321903445dc316221a939] to use for the purposes of local government in England includes the making of payments under an Act or an instrument made under an Act (whenever passed or made) to—
+(5) The reference in sub-paragraph (3)(a)[^c-fee9685793d321903445dc316221a939] to use for the purposes of local government in England includes the making of payments under an Act or an instrument made under an Act (whenever passed or made) to—
 
 - (a) billing authorities in England,
 - (b) precepting authorities in England,
@@ -112,7 +112,7 @@ The Secretary of State must, for each year and in relation to each billing autho
 
 ### Part 3 — Payments to the Secretary of State in respect of the central share
 
-#### 6. Payments to the Secretary of State in respect of the central share[^key-af2b23ed0ff8406cae6b1548f83c85d4]
+#### 6. Payments to the Secretary of State in respect of the central share[^c-af2b23ed0ff8406cae6b1548f83c85d4]
 
 (1) This paragraph applies if a local government finance report for a year is approved by resolution of the House of Commons.
 
@@ -213,7 +213,7 @@ The Secretary of State must, for each year and in relation to each billing autho
 
 (2) Before making the local government finance report for a year, the Secretary of State must notify such representatives of local government as the Secretary of State thinks fit of the general nature of the basis of calculation.
 
-#### 13. Calculations following local government finance report[^key-f8132897e3c40722579d59470985a410]
+#### 13. Calculations following local government finance report[^c-f8132897e3c40722579d59470985a410]
 
 (1) This paragraph applies if a local government finance report for a year is approved by resolution of the House of Commons.
 
@@ -307,7 +307,7 @@ as the Secretary of State determines with the Treasury’s consent; but any such
 
 (6) Where an amending report under this paragraph has been approved by resolution of the House of Commons, the Secretary of State may not make a subsequent amending report under this paragraph in relation to the same local government finance report.
 
-#### 16. Calculations following amending report[^key-cc3a5fe4a1ed3a0ae732c8ddbbc121bd]
+#### 16. Calculations following amending report[^c-cc3a5fe4a1ed3a0ae732c8ddbbc121bd]
 
 (1) This paragraph applies if an amending report for a year made under paragraph 15 is approved by resolution of the House of Commons.
 
@@ -448,7 +448,7 @@ This Part is subject to Parts 9 (pooling of authorities) and 10 (designation of 
 
 (4) The regulations may, in particular, make provision for adjustments to an amount calculated under provision made under sub-paragraph (3) by reference to changes affecting the calculation of such an amount for an earlier year but not taken into account in that calculation.
 
-#### 23. Calculation of levy payments[^key-f5734f0122f0ba73d29caf7a88505ad6]
+#### 23. Calculation of levy payments[^c-f5734f0122f0ba73d29caf7a88505ad6]
 
 (1) The Secretary of State must calculate in relation to each relevant authority—
 
@@ -496,7 +496,7 @@ whichever is the later.
 
 (4) The regulations may, in particular, make provision for adjustments to an amount calculated under provision made under sub-paragraph (3) by reference to changes affecting the calculation of such an amount for an earlier year but not taken into account in that calculation.
 
-#### 26. Calculation of safety net payments[^key-5ae424237371619c2981c6068fcac010]
+#### 26. Calculation of safety net payments[^c-5ae424237371619c2981c6068fcac010]
 
 (1) The Secretary of State must calculate in relation to each relevant authority—
 
@@ -597,7 +597,7 @@ whichever is the later.
 
 (6) The amount of the excess is to be treated as the remaining balance on the levy account for the year.
 
-#### 30. Distribution of remaining balance[^key-833de5fc92666d27f26cc9491545233f]
+#### 30. Distribution of remaining balance[^c-833de5fc92666d27f26cc9491545233f]
 
 (1) The Secretary of State may determine that an amount equal to the whole or part of the remaining balance on a levy account for a year is to be distributed among one or more relevant authorities (rather than being treated in accordance with paragraph 21(2)).
 
@@ -963,20 +963,20 @@ In this Schedule—
 
 ## Annotations
 
-[^key-1a6ee4cce81408ae0e7688e12f0d53fb]: Textual amendment: Sch. 7B inserted (with effect in accordance with s. 1(6) of the amending Act) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 1(4)](https://www.legislation.gov.uk/ukpga/2012/17/section/1/4), [Sch. 1](https://www.legislation.gov.uk/ukpga/2012/17/schedule/1)
+[^c-1a6ee4cce81408ae0e7688e12f0d53fb]: Textual amendment: Sch. 7B inserted (with effect in accordance with s. 1(6) of the amending Act) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 1(4)](https://www.legislation.gov.uk/ukpga/2012/17/section/1/4), [Sch. 1](https://www.legislation.gov.uk/ukpga/2012/17/schedule/1)
 
-[^key-456e6f43fd70ee24e28e50d52d4c9cc3]: Textual amendment: [Sch. 7B para. 2(3)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7B/paragraph/2/3)[(4)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7B/paragraph/2/4) substituted (26.10.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2023/53/section/9/2), [19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
+[^c-456e6f43fd70ee24e28e50d52d4c9cc3]: Textual amendment: [Sch. 7B para. 2(3)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7B/paragraph/2/3)[(4)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7B/paragraph/2/4) substituted (26.10.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2023/53/section/9/2), [19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
 
-[^key-fee9685793d321903445dc316221a939]: Textual amendment: Words in [Sch. 7B para. 2(5)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7B/paragraph/2/5) substituted (26.10.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2023/53/section/9/3), [19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
+[^c-fee9685793d321903445dc316221a939]: Textual amendment: Words in [Sch. 7B para. 2(5)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7B/paragraph/2/5) substituted (26.10.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2023/53/section/9/3), [19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
 
-[^key-af2b23ed0ff8406cae6b1548f83c85d4]: Modification: [Sch. 7B para. 6](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7B/paragraph/6) modified (17.2.2014) by [The Non-Domestic Rating (Designated Areas) Regulations 2014 (S.I. 2014/98)](https://www.legislation.gov.uk/uksi/2014/98), [regs. 1](https://www.legislation.gov.uk/uksi/2014/98/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/98/regulation/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/98/schedule/2)
+[^c-af2b23ed0ff8406cae6b1548f83c85d4]: Modification: [Sch. 7B para. 6](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7B/paragraph/6) modified (17.2.2014) by [The Non-Domestic Rating (Designated Areas) Regulations 2014 (S.I. 2014/98)](https://www.legislation.gov.uk/uksi/2014/98), [regs. 1](https://www.legislation.gov.uk/uksi/2014/98/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/98/regulation/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/98/schedule/2)
 
-[^key-f8132897e3c40722579d59470985a410]: Modification: [Sch. 7B para. 13](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7B/paragraph/13) modified (17.2.2014) by [The Non-Domestic Rating (Designated Areas) Regulations 2014 (S.I. 2014/98)](https://www.legislation.gov.uk/uksi/2014/98), [regs. 1](https://www.legislation.gov.uk/uksi/2014/98/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/98/regulation/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/98/schedule/2)
+[^c-f8132897e3c40722579d59470985a410]: Modification: [Sch. 7B para. 13](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7B/paragraph/13) modified (17.2.2014) by [The Non-Domestic Rating (Designated Areas) Regulations 2014 (S.I. 2014/98)](https://www.legislation.gov.uk/uksi/2014/98), [regs. 1](https://www.legislation.gov.uk/uksi/2014/98/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/98/regulation/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/98/schedule/2)
 
-[^key-cc3a5fe4a1ed3a0ae732c8ddbbc121bd]: Modification: [Sch. 7B para. 16](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7B/paragraph/16) modified (17.2.2014) by [The Non-Domestic Rating (Designated Areas) Regulations 2014 (S.I. 2014/98)](https://www.legislation.gov.uk/uksi/2014/98), [regs. 1](https://www.legislation.gov.uk/uksi/2014/98/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/98/regulation/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/98/schedule/2)
+[^c-cc3a5fe4a1ed3a0ae732c8ddbbc121bd]: Modification: [Sch. 7B para. 16](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7B/paragraph/16) modified (17.2.2014) by [The Non-Domestic Rating (Designated Areas) Regulations 2014 (S.I. 2014/98)](https://www.legislation.gov.uk/uksi/2014/98), [regs. 1](https://www.legislation.gov.uk/uksi/2014/98/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/98/regulation/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/98/schedule/2)
 
-[^key-f5734f0122f0ba73d29caf7a88505ad6]: Modification: [Sch. 7B para. 23](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7B/paragraph/23) modified (17.2.2014) by [The Non-Domestic Rating (Designated Areas) Regulations 2014 (S.I. 2014/98)](https://www.legislation.gov.uk/uksi/2014/98), [regs. 1](https://www.legislation.gov.uk/uksi/2014/98/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/98/regulation/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/98/schedule/2)
+[^c-f5734f0122f0ba73d29caf7a88505ad6]: Modification: [Sch. 7B para. 23](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7B/paragraph/23) modified (17.2.2014) by [The Non-Domestic Rating (Designated Areas) Regulations 2014 (S.I. 2014/98)](https://www.legislation.gov.uk/uksi/2014/98), [regs. 1](https://www.legislation.gov.uk/uksi/2014/98/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/98/regulation/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/98/schedule/2)
 
-[^key-5ae424237371619c2981c6068fcac010]: Modification: [Sch. 7B para. 26](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7B/paragraph/26) modified (17.2.2014) by [The Non-Domestic Rating (Designated Areas) Regulations 2014 (S.I. 2014/98)](https://www.legislation.gov.uk/uksi/2014/98), [regs. 1](https://www.legislation.gov.uk/uksi/2014/98/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/98/regulation/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/98/schedule/2)
+[^c-5ae424237371619c2981c6068fcac010]: Modification: [Sch. 7B para. 26](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7B/paragraph/26) modified (17.2.2014) by [The Non-Domestic Rating (Designated Areas) Regulations 2014 (S.I. 2014/98)](https://www.legislation.gov.uk/uksi/2014/98), [regs. 1](https://www.legislation.gov.uk/uksi/2014/98/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/98/regulation/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/98/schedule/2)
 
-[^key-833de5fc92666d27f26cc9491545233f]: Modification: [Sch. 7B para. 30](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7B/paragraph/30) modified (17.2.2014) by [The Non-Domestic Rating (Designated Areas) Regulations 2014 (S.I. 2014/98)](https://www.legislation.gov.uk/uksi/2014/98), [regs. 1](https://www.legislation.gov.uk/uksi/2014/98/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/98/regulation/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/98/schedule/2)
+[^c-833de5fc92666d27f26cc9491545233f]: Modification: [Sch. 7B para. 30](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7B/paragraph/30) modified (17.2.2014) by [The Non-Domestic Rating (Designated Areas) Regulations 2014 (S.I. 2014/98)](https://www.legislation.gov.uk/uksi/2014/98), [regs. 1](https://www.legislation.gov.uk/uksi/2014/98/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/98/regulation/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/98/schedule/2)

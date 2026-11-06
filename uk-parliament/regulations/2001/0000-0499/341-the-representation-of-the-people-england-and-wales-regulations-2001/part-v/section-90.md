@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Abandoned poll[^key-e8d3865e9cba46f6334c119b7e9faf59]
+## 90. Abandoned poll[^c-e8d3865e9cba46f6334c119b7e9faf59]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8d3865e9cba46f6334c119b7e9faf59]: Commencement: Reg. 90 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-e8d3865e9cba46f6334c119b7e9faf59]: Commencement: Reg. 90 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)

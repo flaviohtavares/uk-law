@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-It shall be the duty of the Director of Service Prosecutions[^key-4708eb13ffe0e960a1f197a959f70fc3] to undertake the defence of any appeal to the Appeal Court under this Part of this Act.
+It shall be the duty of the Director of Service Prosecutions[^c-4708eb13ffe0e960a1f197a959f70fc3] to undertake the defence of any appeal to the Appeal Court under this Part of this Act.
 
 ## Annotations
 
-[^key-4708eb13ffe0e960a1f197a959f70fc3]: Textual amendment: Words in s. 38 substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 8 para. 40](https://www.legislation.gov.uk/ukpga/2006/52/schedule/8/paragraph/40); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-4708eb13ffe0e960a1f197a959f70fc3]: Textual amendment: Words in s. 38 substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 8 para. 40](https://www.legislation.gov.uk/ukpga/2006/52/schedule/8/paragraph/40); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

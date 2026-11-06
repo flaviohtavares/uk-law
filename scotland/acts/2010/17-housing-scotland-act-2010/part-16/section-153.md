@@ -22,7 +22,7 @@ summary: ''
 
 The Housing (Scotland) Act 2001 (asp 10) is amended as follows—
 
-- (a)[^key-c2ef61c8a34eacd0d8bd3072c2216a9b][^key-c9765d7b5e20cc3b66cde646bec71e38] in section 16, after subsection (5) insert—
+- (a)[^c-c2ef61c8a34eacd0d8bd3072c2216a9b][^c-c9765d7b5e20cc3b66cde646bec71e38] in section 16, after subsection (5) insert—
 
   > (5A) Where an order is made under subsection (2) in proceedings under section 14 on the ground that rent lawfully due from the tenant has not been paid (as set out in paragraph 1 of schedule 2) or on grounds including that ground—
   >
@@ -41,12 +41,12 @@ The Housing (Scotland) Act 2001 (asp 10) is amended as follows—
   > as they think fit.
 
   ,
-- (b)[^key-e92121dd8389b4ad2e15a0fedab8759e] in section 109(6), after second “section” insert “ 16(5A)(c) or ”.
+- (b)[^c-e92121dd8389b4ad2e15a0fedab8759e] in section 109(6), after second “section” insert “ 16(5A)(c) or ”.
 
 ## Annotations
 
-[^key-c2ef61c8a34eacd0d8bd3072c2216a9b]: Commencement: S. 153(a) in force at 20.3.2011 for specified purposes by [S.S.I. 2011/181](https://www.legislation.gov.uk/ssi/2011/181), [art. 2](https://www.legislation.gov.uk/ssi/2011/181/article/2)
+[^c-c2ef61c8a34eacd0d8bd3072c2216a9b]: Commencement: S. 153(a) in force at 20.3.2011 for specified purposes by [S.S.I. 2011/181](https://www.legislation.gov.uk/ssi/2011/181), [art. 2](https://www.legislation.gov.uk/ssi/2011/181/article/2)
 
-[^key-c9765d7b5e20cc3b66cde646bec71e38]: Commencement: S. 153(a) in force at 22.2.2012 for specified purposes by [S.S.I. 2012/19](https://www.legislation.gov.uk/ssi/2012/19), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/19/article/2/a)
+[^c-c9765d7b5e20cc3b66cde646bec71e38]: Commencement: S. 153(a) in force at 22.2.2012 for specified purposes by [S.S.I. 2012/19](https://www.legislation.gov.uk/ssi/2012/19), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/19/article/2/a)
 
-[^key-e92121dd8389b4ad2e15a0fedab8759e]: Commencement: S. 153(b) in force at 22.2.2012 by [S.S.I. 2012/19](https://www.legislation.gov.uk/ssi/2012/19), [art. 2(b)](https://www.legislation.gov.uk/ssi/2012/19/article/2/b)
+[^c-e92121dd8389b4ad2e15a0fedab8759e]: Commencement: S. 153(b) in force at 22.2.2012 by [S.S.I. 2012/19](https://www.legislation.gov.uk/ssi/2012/19), [art. 2(b)](https://www.legislation.gov.uk/ssi/2012/19/article/2/b)

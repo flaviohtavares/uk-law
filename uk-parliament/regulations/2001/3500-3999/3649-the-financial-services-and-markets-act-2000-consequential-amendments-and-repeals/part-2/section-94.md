@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Power to give directions[^key-e980e7139332b560cd8c4e311dbde279]
+## 94. Power to give directions[^c-e980e7139332b560cd8c4e311dbde279]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e980e7139332b560cd8c4e311dbde279]: Commencement: Art. 94 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e980e7139332b560cd8c4e311dbde279]: Commencement: Art. 94 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

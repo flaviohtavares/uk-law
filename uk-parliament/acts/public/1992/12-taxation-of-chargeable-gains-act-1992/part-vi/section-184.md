@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Definitions and other provisions supplemental to sections 182 and 183.[^key-76c7e1a83db6bb8331af30779dc05c5d]
+## 184. Definitions and other provisions supplemental to sections 182 and 183.[^c-76c7e1a83db6bb8331af30779dc05c5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76c7e1a83db6bb8331af30779dc05c5d]: Textual amendment: Ss. 182-184 repealed (with effect in accordance with s. 93(11) of the amending Act) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [s. 93(7)](https://www.legislation.gov.uk/ukpga/1994/9/section/93/7), [Sch. 26 Pt. V(8)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/26/part/V/8) (with [Sch. 12](https://www.legislation.gov.uk/ukpga/1994/9/schedule/12))
+[^c-76c7e1a83db6bb8331af30779dc05c5d]: Textual amendment: Ss. 182-184 repealed (with effect in accordance with s. 93(11) of the amending Act) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [s. 93(7)](https://www.legislation.gov.uk/ukpga/1994/9/section/93/7), [Sch. 26 Pt. V(8)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/26/part/V/8) (with [Sch. 12](https://www.legislation.gov.uk/ukpga/1994/9/schedule/12))

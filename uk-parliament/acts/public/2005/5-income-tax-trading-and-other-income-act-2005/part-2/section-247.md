@@ -27,7 +27,7 @@ summary: ''
 - section 109(2) (receipt by donor or connected person of benefit attributable to certain gifts),
 - section 185(1) (election for valuation at cost),
 - section 248 (debts paid after cessation),
-- section 249 (debts released after cessation), as qualified, where appropriate, by section 48(4) (car [^key-6bc7dd8feb9616f00b025ab69ca485df]... hire),
+- section 249 (debts released after cessation), as qualified, where appropriate, by section 48(4) (car [^c-6bc7dd8feb9616f00b025ab69ca485df]... hire),
 - section 250 (receipts relating to post-cessation expenditure),
 - section 251 (transfer of rights if transferee does not carry on trade), and
 - section 844 (income charged on withdrawal of relief after source ceases: unremittable income).
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6bc7dd8feb9616f00b025ab69ca485df]: Textual amendment: Words in s. 247(1) omitted (with effect in accordance with Sch. 11 paras. 65-67 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 40](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/40)
+[^c-6bc7dd8feb9616f00b025ab69ca485df]: Textual amendment: Words in s. 247(1) omitted (with effect in accordance with Sch. 11 paras. 65-67 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 40](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/40)

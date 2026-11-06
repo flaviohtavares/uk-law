@@ -26,7 +26,7 @@ summary: ''
 
 (3) The Commission shall consist of not fewer than three members.
 
-(4)[^key-e5d8c9e4a5ef9841e84dbc967ca7cfe2] The members of the Commission shall be appointed by Her Majesty on the recommendation of the Secretary of State.
+(4)[^c-e5d8c9e4a5ef9841e84dbc967ca7cfe2] The members of the Commission shall be appointed by Her Majesty on the recommendation of the Secretary of State.
 
 (5) At least one third of the members of the Commission shall be persons who are legally qualified; and for this purpose a person is legally qualified if he is an advocate or solicitor of at least ten years’ standing.
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c14471341]: Textual amendment: Pt. XA (ss. 194A-194L) inserted (1.1.1998 for the purpose of inserting ss. 194A, 194E and 194G, otherwise 1.4.1999) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48), [s. 25(1)](https://www.legislation.gov.uk/ukpga/1997/48/section/25/1); [S.I. 1997/3004](https://www.legislation.gov.uk/uksi/1997/3004), [art. 2](https://www.legislation.gov.uk/uksi/1997/3004/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/3004/schedule); [S.I. 1999/652](https://www.legislation.gov.uk/uksi/1999/652), [art. 2](https://www.legislation.gov.uk/uksi/1999/652/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/652/schedule) (subject to [art. 3](https://www.legislation.gov.uk/uksi/1999/652/article/3))
 
-[^key-e5d8c9e4a5ef9841e84dbc967ca7cfe2]: Modification: [S. 194A(4)](https://www.legislation.gov.uk/ukpga/1995/46/section/194A/4) modified (29.5.2020) by [Gender Representation on Public Boards (Scotland) Act 2018 (asp 4)](https://www.legislation.gov.uk/asp/2018/4), [s. 13](https://www.legislation.gov.uk/asp/2018/4/section/13), [sch. 2 para. 7(a)](https://www.legislation.gov.uk/asp/2018/4/schedule/2/paragraph/7/a); [S.S.I. 2020/119](https://www.legislation.gov.uk/ssi/2020/119), [reg. 2](https://www.legislation.gov.uk/ssi/2020/119/regulation/2)
+[^c-e5d8c9e4a5ef9841e84dbc967ca7cfe2]: Modification: [S. 194A(4)](https://www.legislation.gov.uk/ukpga/1995/46/section/194A/4) modified (29.5.2020) by [Gender Representation on Public Boards (Scotland) Act 2018 (asp 4)](https://www.legislation.gov.uk/asp/2018/4), [s. 13](https://www.legislation.gov.uk/asp/2018/4/section/13), [sch. 2 para. 7(a)](https://www.legislation.gov.uk/asp/2018/4/schedule/2/paragraph/7/a); [S.S.I. 2020/119](https://www.legislation.gov.uk/ssi/2020/119), [reg. 2](https://www.legislation.gov.uk/ssi/2020/119/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 63. Full retirement pension ceases to be payable[^key-546f30dab42889999c5e7328959634da]
+## 63. Full retirement pension ceases to be payable[^c-546f30dab42889999c5e7328959634da]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-546f30dab42889999c5e7328959634da]: Commencement: [Reg. 63](https://www.legislation.gov.uk/nisr/2014/290/regulation/63) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-546f30dab42889999c5e7328959634da]: Commencement: [Reg. 63](https://www.legislation.gov.uk/nisr/2014/290/regulation/63) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

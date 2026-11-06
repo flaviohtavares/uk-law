@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Additional and ancillary functions of Council.[^key-3006d573236b28f3024c127eaf6cf603]
+## 7. Additional and ancillary functions of Council.[^c-3006d573236b28f3024c127eaf6cf603]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3006d573236b28f3024c127eaf6cf603]: Textual amendment: Ss. 1-15 repealed (W.) (1.4.2015) by [Education (Wales) Act 2014 (anaw 5)](https://www.legislation.gov.uk/anaw/2014/5), [s. 50(4)](https://www.legislation.gov.uk/anaw/2014/5/section/50/4), [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2014/5/schedule/3/paragraph/3); [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(x)](https://www.legislation.gov.uk/wsi/2015/29/article/3/x) (with [art. 4](https://www.legislation.gov.uk/wsi/2015/29/article/4))
+[^c-3006d573236b28f3024c127eaf6cf603]: Textual amendment: Ss. 1-15 repealed (W.) (1.4.2015) by [Education (Wales) Act 2014 (anaw 5)](https://www.legislation.gov.uk/anaw/2014/5), [s. 50(4)](https://www.legislation.gov.uk/anaw/2014/5/section/50/4), [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2014/5/schedule/3/paragraph/3); [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(x)](https://www.legislation.gov.uk/wsi/2015/29/article/3/x) (with [art. 4](https://www.legislation.gov.uk/wsi/2015/29/article/4))

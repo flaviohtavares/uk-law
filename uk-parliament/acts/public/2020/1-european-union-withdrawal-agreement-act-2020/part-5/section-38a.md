@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38A. Prohibition of certain Northern Ireland-related agreements[^key-70e3d5715a7629da6ed5509483f9af4b]
+## 38A. Prohibition of certain Northern Ireland-related agreements[^c-70e3d5715a7629da6ed5509483f9af4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70e3d5715a7629da6ed5509483f9af4b]: Textual amendment: S. 38A inserted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/164/regulation/2/3)
+[^c-70e3d5715a7629da6ed5509483f9af4b]: Textual amendment: S. 38A inserted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/164/regulation/2/3)

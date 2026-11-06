@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject as follows in this section and sections 341 and 342, where an individual is made[^key-f6c53635447725fcafa3bfa4ece75d11] bankrupt and he has at a relevant time (defined in section 341) entered into a transaction with any person at an undervalue, the trustee of the bankrupt’s estate may apply to the court for an order under this section.
+(1) Subject as follows in this section and sections 341 and 342, where an individual is made[^c-f6c53635447725fcafa3bfa4ece75d11] bankrupt and he has at a relevant time (defined in section 341) entered into a transaction with any person at an undervalue, the trustee of the bankrupt’s estate may apply to the court for an order under this section.
 
 (2) The court shall, on such an application, make such order as it thinks fit for restoring the position to what it would have been if that individual had not entered into that transaction.
 
@@ -58,6 +58,6 @@ summary: ''
 
 [^c15580431]: Modification: S. 339 modified (3.2.1995) by [1994 c. 37](https://www.legislation.gov.uk/ukpga/1994/37), [ss. 32(5)(b)](https://www.legislation.gov.uk/ukpga/1994/37/section/32/5/b), [69(2)](https://www.legislation.gov.uk/ukpga/1994/37/section/69/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1994/37/schedule/2/paragraph/5) (with [s. 66(2)](https://www.legislation.gov.uk/ukpga/1994/37/section/66/2))
 
-[^key-f6c53635447725fcafa3bfa4ece75d11]: Textual amendment: Word in s. 339(1) inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 31](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/31); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-f6c53635447725fcafa3bfa4ece75d11]: Textual amendment: Word in s. 339(1) inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 31](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/31); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
 
 [^c18979041]: Textual amendment: Words in s. 339(3)(b) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(1)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/1), [263](https://www.legislation.gov.uk/ukpga/2004/33/section/263), [Sch. 27 para. 119](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/119); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2) (subject to [art. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/3))

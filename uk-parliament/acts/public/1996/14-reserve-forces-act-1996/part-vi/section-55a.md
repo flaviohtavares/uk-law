@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55A. Agreement to alter limits in section 55[^key-3a9c7cc321485fe7eed8fb0edbf70a9f]
+## 55A. Agreement to alter limits in section 55[^c-3a9c7cc321485fe7eed8fb0edbf70a9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a9c7cc321485fe7eed8fb0edbf70a9f]: Textual amendment: S. 55A inserted (15.10.2007) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 35](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/35); [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 2](https://www.legislation.gov.uk/uksi/2007/2913/article/2)
+[^c-3a9c7cc321485fe7eed8fb0edbf70a9f]: Textual amendment: S. 55A inserted (15.10.2007) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 35](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/35); [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 2](https://www.legislation.gov.uk/uksi/2007/2913/article/2)

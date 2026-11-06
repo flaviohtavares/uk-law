@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Article 60(7) and (9) of the Children (Northern Ireland) Order 1995[^f00001] and Article 66A(1) and (2) of the Adoption (Northern Ireland) Order 1987[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-addbd2f6b7638aefb2f7b1ac74be6c6f]
+## 1. Citation, commencement and interpretation[^c-addbd2f6b7638aefb2f7b1ac74be6c6f]
 
 (1) These Regulations may be cited as the Guardians Ad Litem (Panel) Regulations (Northern Ireland) 1996 and shall come into operation on 1st May 1996.
 
@@ -54,7 +54,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 - “panel committee” means a committee established under regulation 3(*b*);
 - “relevant proceedings” means specified proceedings as defined in Article 60(6) of the Children (Northern Ireland) Order 1995 or proceedings on an application for any order referred to in Article 66(1) of the Adoption (Northern Ireland) Order 1987[^f00003].
 
-## 2. Panel of guardians ad litem[^key-b0858f3dccf118f078325028a058c14c]
+## 2. Panel of guardians ad litem[^c-b0858f3dccf118f078325028a058c14c]
 
 (1) The Agency shall establish a panel of persons in accordance with regulation 4.
 
@@ -62,14 +62,14 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (3) The Agency shall ensure that, so far as possible, the number of persons appointed to the panel is sufficient to provide guardians ad litem for all relevant proceedings in which guardians ad litem may be appointed and which may be heard in a court in Northern Ireland.
 
-## 3. Complaints board and panel committee[^key-29f10e3d2061835caa9fcdba2413ada0]
+## 3. Complaints board and panel committee[^c-29f10e3d2061835caa9fcdba2413ada0]
 
 For the purpose of assisting it with matters concerning the membership of the panel, the administration and procedures of the panel and the monitoring of the work of guardians at litem in relevant proceedings, the Agency shall establish—
 
 - (a) a board (“complaints board”) in accordance with Schedule 1, which shall have the functions conferred on it by regulations 5 and 6;
 - (b) a committee (“panel committee”) in accordance with Schedule 2, which shall have the functions conferred on it by regulations 8 and 10(1).
 
-## 4. Appointments to the panel[^key-ad2f61d9a1c342fabec598f277631b90]
+## 4. Appointments to the panel[^c-ad2f61d9a1c342fabec598f277631b90]
 
 (1) The Agency shall appoint persons to be members of the panel.
 
@@ -87,7 +87,7 @@ For the purpose of assisting it with matters concerning the membership of the pa
 
 (6) The Agency shall have regard to the number of children who may become the subject of relevant proceedings in making appointments under this regulation.
 
-## 5. Termination of panel membership[^key-bfb1ca91fbaf6eca7751b41caa6b4867]
+## 5. Termination of panel membership[^c-bfb1ca91fbaf6eca7751b41caa6b4867]
 
 (1) The Agency may terminate a person’s membership of the panel at any time where it considers that he is unable or unfit to carry out the functions of a guardian ad litem.
 
@@ -102,7 +102,7 @@ For the purpose of assisting it with matters concerning the membership of the pa
 
 (5) The Agency shall consider the recommendation of the complaints board as to termination of a person’s membership and decide whether or not to terminate membership and give notice to that person in writing of its decision together with its reasons for the decision.
 
-## 6. Complaints about the operation of the panel and members of the panel[^key-d5f575ff7e31c324aeb212be1e0147db]
+## 6. Complaints about the operation of the panel and members of the panel[^c-d5f575ff7e31c324aeb212be1e0147db]
 
 (1) For the purpose of monitoring the administration and procedures of the panel and the work of guardians ad litem in relevant proceedings, the Agency shall establish a procedure for considering complaints about the operation of the panel and about any member of that panel, including refusal to reappoint a person to be a panel member.
 
@@ -117,7 +117,7 @@ For the purpose of assisting it with matters concerning the membership of the pa
 
 (5) The Agency shall only make a decision on a complaint referred to the complaints board having taken into account the recommendation of the complaints board and it shall notify the person who made the complaint and any person in respect of whom the complaint was made in writing of its decision.
 
-## 7. Administration of the panel[^key-cbb2d9d34b56b3e73bd91e082cf96872]
+## 7. Administration of the panel[^c-cbb2d9d34b56b3e73bd91e082cf96872]
 
 (1) The Agency shall appoint a person with such qualifications and experience as it considers appropriate to assist it with the administration of the panel, and that person shall not participate in the social services functions of a Health and Social Services Board or of a Health and Social Services Trust in respect of services for children and their families.
 
@@ -131,7 +131,7 @@ For the purpose of assisting it with matters concerning the membership of the pa
 - (f) details of fees, expenses and allowances in each case in which there has been such an appointment;
 - (g) the result of the proceedings in each case in which there has been such an appointment.
 
-## 8. Panel committee functions[^key-9753907e706adc9cad2c55ff734d6acd]
+## 8. Panel committee functions[^c-9753907e706adc9cad2c55ff734d6acd]
 
 The Agency shall make arrangements for the panel committee to assist with liaison between the Agency in its administration of the panel and the courts in Northern Ireland and to advise on—
 
@@ -140,13 +140,13 @@ The Agency shall make arrangements for the panel committee to assist with liaiso
 - (c) the training of members of the panel;
 - (d) matters arising from complaints under regulation 6(2) and decisions on complaints made under regulation 6(5) (but not the investigation of particular complaints).
 
-## 9. Expenses, fees and allowances of members of the panel[^key-58a573d7935328caedc12f4be6ded8de]
+## 9. Expenses, fees and allowances of members of the panel[^c-58a573d7935328caedc12f4be6ded8de]
 
 (1) The Agency shall defray the reasonable expenses incurred in respect of relevant proceedings by members of the panel and pay fees and allowances for members of the panel in respect of relevant proceedings.
 
 (2) No expenses, fees and allowances referred to in paragraph (1) shall be defrayed or paid by the Agency by virtue of paragraph (1) in respect of a member of the panel who is employed under a contract of service by a Health and Social Services Board, by a Health and Social Services Trust or by the Probation Board for Northern Ireland for thirty hours or more a week.
 
-## 10. Monitoring the work of guardians ad litem[^key-3ecf206b5071d74ba24461687f4149a2]
+## 10. Monitoring the work of guardians ad litem[^c-3ecf206b5071d74ba24461687f4149a2]
 
 (1) For the purposes of monitoring the work of guardians ad litem the Agency shall—
 
@@ -157,7 +157,7 @@ at least once during the first year of an appointment to the panel.
 
 (2) The Agency shall record in writing the results of each review and shall send a copy of the results to the member of the panel to whom they relate.
 
-## 11. Training[^key-43a97245cce489192167d4d428377ce1]
+## 11. Training[^c-43a97245cce489192167d4d428377ce1]
 
 The Agency shall, having regard to the cases in which members of the panel have been or may be appointed as a guardian ad litem, identify any training needs which members of the panel may have and make reasonable provision for such training.
 
@@ -173,30 +173,30 @@ Assistant Secretary
 
 Regulation 3(*a*)
 
-**1.**[^key-e810a26ee8f2affdac9306a563035eff] The complaints board shall consist of three persons—
+**1.**[^c-e810a26ee8f2affdac9306a563035eff] The complaints board shall consist of three persons—
 
 - (a) one of whom shall be a person who is neither an officer nor a member of the Agency or of a Health and Social Services Board or of a Health and Social Services Trust;
 - (b) another of whom shall be a person who is involved in the social services functions of a Health and Social Services Board or of a Health and Social Services Trust in respect of services for children and their families;
 - (c) another of whom shall be a clerk of petty sessions.
 
-**2.**[^key-a4b42b3d1e4be157f485821a9e852798] One of the members of the complaints board shall act as chairman.
+**2.**[^c-a4b42b3d1e4be157f485821a9e852798] One of the members of the complaints board shall act as chairman.
 
 ## SCHEDULE 2 — Panel Committee
 
 Regulation 3(*b*)
 
-**1.**[^key-825048975ec502c323c1014b480b5982] The panel committee shall consist of at least one of each of the following—
+**1.**[^c-825048975ec502c323c1014b480b5982] The panel committee shall consist of at least one of each of the following—
 
 - (a) a representative of the Agency;
 - (b) a clerk of petty sessions;
 - (c) a person who has relevant experience of child care who is neither an officer nor a member of a Health and Social Services Board or of a Health and Social Services Trust;
 - (d) a representative of the panel established under regulation 2(1).
 
-**2.**[^key-935f4e916abaca46267fcd3f5ecaf3f0] One of the members of the panel committee shall act as chairman, except that the chairman shall not be a representative of the Agency.
+**2.**[^c-935f4e916abaca46267fcd3f5ecaf3f0] One of the members of the panel committee shall act as chairman, except that the chairman shall not be a representative of the Agency.
 
-**3.**[^key-af56f7333c07eff819a3e16ba28b8fc4] The membership of the panel committee shall not consist of a majority of representatives of the Agency.
+**3.**[^c-af56f7333c07eff819a3e16ba28b8fc4] The membership of the panel committee shall not consist of a majority of representatives of the Agency.
 
-**4.**[^key-755c4215fde2b451f0108a72e14b2fe7] Appointments to the panel committee shall be for such period not exceeding three years at any one time as the Agency shall specify on making the appointment.
+**4.**[^c-755c4215fde2b451f0108a72e14b2fe7] Appointments to the panel committee shall be for such period not exceeding three years at any one time as the Agency shall specify on making the appointment.
 
 (This note is not part of the Regulations.)
 
@@ -208,38 +208,38 @@ These Regulations make provision for the establishment of a panel of guardians a
 
 [^f00002]: Footnote: S.I. [1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203); Article 66A was inserted by paragraph 166 of Schedule 9 to S.I. [1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
-[^key-addbd2f6b7638aefb2f7b1ac74be6c6f]: Commencement: S. 1 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
+[^c-addbd2f6b7638aefb2f7b1ac74be6c6f]: Commencement: S. 1 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
 
 [^f00003]: Footnote: S.I. [1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203); paragraph 166 of Schedule 9 to S.I. [1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755) substituted a new Article 66
 
-[^key-b0858f3dccf118f078325028a058c14c]: Commencement: S. 2 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
+[^c-b0858f3dccf118f078325028a058c14c]: Commencement: S. 2 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
 
-[^key-29f10e3d2061835caa9fcdba2413ada0]: Commencement: S. 3 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
+[^c-29f10e3d2061835caa9fcdba2413ada0]: Commencement: S. 3 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
 
-[^key-ad2f61d9a1c342fabec598f277631b90]: Commencement: S. 4 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
+[^c-ad2f61d9a1c342fabec598f277631b90]: Commencement: S. 4 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
 
-[^key-bfb1ca91fbaf6eca7751b41caa6b4867]: Commencement: S. 5 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
+[^c-bfb1ca91fbaf6eca7751b41caa6b4867]: Commencement: S. 5 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
 
-[^key-d5f575ff7e31c324aeb212be1e0147db]: Commencement: S. 6 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
+[^c-d5f575ff7e31c324aeb212be1e0147db]: Commencement: S. 6 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
 
-[^key-cbb2d9d34b56b3e73bd91e082cf96872]: Commencement: S. 7 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
+[^c-cbb2d9d34b56b3e73bd91e082cf96872]: Commencement: S. 7 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
 
-[^key-9753907e706adc9cad2c55ff734d6acd]: Commencement: S. 8 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
+[^c-9753907e706adc9cad2c55ff734d6acd]: Commencement: S. 8 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
 
-[^key-58a573d7935328caedc12f4be6ded8de]: Commencement: S. 9 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
+[^c-58a573d7935328caedc12f4be6ded8de]: Commencement: S. 9 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
 
-[^key-3ecf206b5071d74ba24461687f4149a2]: Commencement: S. 10 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
+[^c-3ecf206b5071d74ba24461687f4149a2]: Commencement: S. 10 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
 
-[^key-43a97245cce489192167d4d428377ce1]: Commencement: S. 11 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
+[^c-43a97245cce489192167d4d428377ce1]: Commencement: S. 11 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
 
-[^key-e810a26ee8f2affdac9306a563035eff]: Commencement: Sch. 1 para. 1 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
+[^c-e810a26ee8f2affdac9306a563035eff]: Commencement: Sch. 1 para. 1 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
 
-[^key-a4b42b3d1e4be157f485821a9e852798]: Commencement: Sch. 1 para. 2 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
+[^c-a4b42b3d1e4be157f485821a9e852798]: Commencement: Sch. 1 para. 2 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
 
-[^key-825048975ec502c323c1014b480b5982]: Commencement: Sch. 2 para. 1 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
+[^c-825048975ec502c323c1014b480b5982]: Commencement: Sch. 2 para. 1 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
 
-[^key-935f4e916abaca46267fcd3f5ecaf3f0]: Commencement: Sch. 2 para. 2 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
+[^c-935f4e916abaca46267fcd3f5ecaf3f0]: Commencement: Sch. 2 para. 2 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
 
-[^key-af56f7333c07eff819a3e16ba28b8fc4]: Commencement: Sch. 2 para. 3 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
+[^c-af56f7333c07eff819a3e16ba28b8fc4]: Commencement: Sch. 2 para. 3 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
 
-[^key-755c4215fde2b451f0108a72e14b2fe7]: Commencement: Sch. 2 para. 4 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)
+[^c-755c4215fde2b451f0108a72e14b2fe7]: Commencement: Sch. 2 para. 4 in operation at 1.5.1996, see [s. 1(1)](https://www.legislation.gov.uk/nisr/1996/128/section/1/1)

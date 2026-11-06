@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The Higher Education Funding Council for Wales (Supplementary Functions) Order 2011 (revoked)[^key-f1613a22b6820b40c170282ddc8d1042]
+The Higher Education Funding Council for Wales (Supplementary Functions) Order 2011 (revoked)[^c-f1613a22b6820b40c170282ddc8d1042]
 
 Made
 
@@ -45,26 +45,26 @@ Coming into force
 
 19 April 2011
 
-[^key-f1613a22b6820b40c170282ddc8d1042]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1613a22b6820b40c170282ddc8d1042]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-f1613a22b6820b40c170282ddc8d1042]
+## 1. Title, commencement, application and interpretation[^c-f1613a22b6820b40c170282ddc8d1042]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Supplementary Functions[^key-f1613a22b6820b40c170282ddc8d1042]
+## 2. Supplementary Functions[^c-f1613a22b6820b40c170282ddc8d1042]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f1613a22b6820b40c170282ddc8d1042] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f1613a22b6820b40c170282ddc8d1042] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f1613a22b6820b40c170282ddc8d1042]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1613a22b6820b40c170282ddc8d1042]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f1613a22b6820b40c170282ddc8d1042]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1613a22b6820b40c170282ddc8d1042]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f1613a22b6820b40c170282ddc8d1042]: Textual amendment: Order revoked (31.8.2012) by [The Higher Education Funding Council for Wales (Supplementary Functions and Revocation) Order 2012 (S.I. 2012/1904)](https://www.legislation.gov.uk/uksi/2012/1904), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1904/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/1904/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/1904/article/4))
+[^c-f1613a22b6820b40c170282ddc8d1042]: Textual amendment: Order revoked (31.8.2012) by [The Higher Education Funding Council for Wales (Supplementary Functions and Revocation) Order 2012 (S.I. 2012/1904)](https://www.legislation.gov.uk/uksi/2012/1904), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1904/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/1904/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/1904/article/4))

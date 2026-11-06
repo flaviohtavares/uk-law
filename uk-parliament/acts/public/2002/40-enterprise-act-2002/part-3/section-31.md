@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Information powers in relation to completed mergers[^key-e73cfb1feb9bd390808c61d23bb357e4][^key-35f70455b1b4affc8dd9ba46b9d90d9e]
+## 31. Information powers in relation to completed mergers[^c-e73cfb1feb9bd390808c61d23bb357e4][^c-35f70455b1b4affc8dd9ba46b9d90d9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e73cfb1feb9bd390808c61d23bb357e4]: Textual amendment: S. 31 omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 15 para. 17](https://www.legislation.gov.uk/ukpga/2013/24/schedule/15/paragraph/17); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/f) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-e73cfb1feb9bd390808c61d23bb357e4]: Textual amendment: S. 31 omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 15 para. 17](https://www.legislation.gov.uk/ukpga/2013/24/schedule/15/paragraph/17); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/f) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-35f70455b1b4affc8dd9ba46b9d90d9e]: Modification: Pt. 3 modified (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 4 paras. 28-33](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-35f70455b1b4affc8dd9ba46b9d90d9e]: Modification: Pt. 3 modified (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 4 paras. 28-33](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

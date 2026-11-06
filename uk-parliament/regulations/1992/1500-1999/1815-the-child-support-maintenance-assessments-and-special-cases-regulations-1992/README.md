@@ -39,9 +39,9 @@ Coming into force
 
 5th April 1993
 
-Whereas a draft of this instrument was laid before Parliament in accordance with section 52(2) of the Child Support Act 1991 *(affected by repeal, see note)*[^key-4b49fd0f0c12fcd0a2d7100c41b01860] [^c1869652] and approved by a resolution of each House of Parliament: *(affected by repeal, see note)*[^key-4b49fd0f0c12fcd0a2d7100c41b01860]
+Whereas a draft of this instrument was laid before Parliament in accordance with section 52(2) of the Child Support Act 1991 *(affected by repeal, see note)*[^c-4b49fd0f0c12fcd0a2d7100c41b01860] [^c1869652] and approved by a resolution of each House of Parliament: *(affected by repeal, see note)*[^c-4b49fd0f0c12fcd0a2d7100c41b01860]
 
-Now, therefore, the Secretary of State for Social Security, in exercise of the powers conferred by sections 42, 43, 51, 52(4) and 54 *(affected by repeal, see note)*[^key-4b49fd0f0c12fcd0a2d7100c41b01860][^c1869653] of, and paragraphs 1, 2 and 4 to 9 of Schedule 1 to, the Child Support Act 1991 and of all other powers enabling him in that behalf hereby makes the following Regulations: *(affected by repeal, see note)*[^key-4b49fd0f0c12fcd0a2d7100c41b01860][^key-191db7ba675b88cb577f3f488859da09][^key-191db7ba675b88cb577f3f488859da09][^key-222979872a9732b86e5f5c95e52a2535][^key-1478af94b5c2dd4f5cfdfce3069deb16][^key-3ea9212bb101096447136d1c2cfa4b53]
+Now, therefore, the Secretary of State for Social Security, in exercise of the powers conferred by sections 42, 43, 51, 52(4) and 54 *(affected by repeal, see note)*[^c-4b49fd0f0c12fcd0a2d7100c41b01860][^c1869653] of, and paragraphs 1, 2 and 4 to 9 of Schedule 1 to, the Child Support Act 1991 and of all other powers enabling him in that behalf hereby makes the following Regulations: *(affected by repeal, see note)*[^c-4b49fd0f0c12fcd0a2d7100c41b01860][^c-191db7ba675b88cb577f3f488859da09][^c-191db7ba675b88cb577f3f488859da09][^c-222979872a9732b86e5f5c95e52a2535][^c-1478af94b5c2dd4f5cfdfce3069deb16][^c-3ea9212bb101096447136d1c2cfa4b53]
 
 ## Contents
 
@@ -126,16 +126,16 @@ Regulation 28 makes provision for the amount payable where the absent parent is 
 
 ## Annotations
 
-[^key-4b49fd0f0c12fcd0a2d7100c41b01860]: Textual amendment: Regulations revoked (coming into force in accordance with reg. 1(4) of the amending S.I.) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [reg. 10(b)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/10/b)
+[^c-4b49fd0f0c12fcd0a2d7100c41b01860]: Textual amendment: Regulations revoked (coming into force in accordance with reg. 1(4) of the amending S.I.) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [reg. 10(b)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/10/b)
 
 [^c1869652]: Marginal citation: [1991 c.48](https://www.legislation.gov.uk/ukpga/1991/48).
 
 [^c1869653]: Marginal citation: Section 54 is cited because of the meaning ascribed to the word “prescribed".
 
-[^key-191db7ba675b88cb577f3f488859da09]: Modification: Instrument modified (2.4.1999) by [The New Deal (25 plus) (Miscellaneous Provisions) Order 1999 (S.I. 1999/779)](https://www.legislation.gov.uk/uksi/1999/779), [art. 2](https://www.legislation.gov.uk/uksi/1999/779/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/779/schedule)
+[^c-191db7ba675b88cb577f3f488859da09]: Modification: Instrument modified (2.4.1999) by [The New Deal (25 plus) (Miscellaneous Provisions) Order 1999 (S.I. 1999/779)](https://www.legislation.gov.uk/uksi/1999/779), [art. 2](https://www.legislation.gov.uk/uksi/1999/779/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/779/schedule)
 
-[^key-222979872a9732b86e5f5c95e52a2535]: Textual amendment: regulations revoked (3.3.2003 for specified purposes) by [The Child Support (Maintenance Calculations and Special Cases) Regulations 2000 (S.I. 2001/155)](https://www.legislation.gov.uk/uksi/2001/155), [reg. 15(1)](https://www.legislation.gov.uk/uksi/2001/155/regulation/15/1) (with [reg. 15(2)-(4)](https://www.legislation.gov.uk/uksi/2001/155/regulation/15/2))
+[^c-222979872a9732b86e5f5c95e52a2535]: Textual amendment: regulations revoked (3.3.2003 for specified purposes) by [The Child Support (Maintenance Calculations and Special Cases) Regulations 2000 (S.I. 2001/155)](https://www.legislation.gov.uk/uksi/2001/155), [reg. 15(1)](https://www.legislation.gov.uk/uksi/2001/155/regulation/15/1) (with [reg. 15(2)-(4)](https://www.legislation.gov.uk/uksi/2001/155/regulation/15/2))
 
-[^key-1478af94b5c2dd4f5cfdfce3069deb16]: Modification: Regulations applied (5.10.2009) by [The Child Support (Maintenance Assessments and Special Cases) Regulations 1992 (S.I. 2009/1562)](https://www.legislation.gov.uk/uksi/2009/1562), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/1562/regulation/2/1/c), [Sch.](https://www.legislation.gov.uk/uksi/2009/1562/schedule)
+[^c-1478af94b5c2dd4f5cfdfce3069deb16]: Modification: Regulations applied (5.10.2009) by [The Child Support (Maintenance Assessments and Special Cases) Regulations 1992 (S.I. 2009/1562)](https://www.legislation.gov.uk/uksi/2009/1562), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/1562/regulation/2/1/c), [Sch.](https://www.legislation.gov.uk/uksi/2009/1562/schedule)
 
-[^key-3ea9212bb101096447136d1c2cfa4b53]: Modification: Regulations applied (with modifications) (1.10.2010) by [The Child Support (Miscellaneous Amendments) Regulations 2007 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii)[(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+[^c-3ea9212bb101096447136d1c2cfa4b53]: Modification: Regulations applied (with modifications) (1.10.2010) by [The Child Support (Miscellaneous Amendments) Regulations 2007 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii)[(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))

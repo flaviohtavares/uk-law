@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150C. Enterprise investment scheme: re-investment.[^key-06fcb597847471a84ae2af39bc18e04d]
+## 150C. Enterprise investment scheme: re-investment.[^c-06fcb597847471a84ae2af39bc18e04d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 5B to this Act (which provides relief in respect of re-investment under
 
 ## Annotations
 
-[^key-06fcb597847471a84ae2af39bc18e04d]: Textual amendment: S. 150C inserted (with effect in accordance with Sch. 13 para. 4(4) of the amending Act) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [Sch. 13 para. 4(1)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/13/paragraph/4/1)
+[^c-06fcb597847471a84ae2af39bc18e04d]: Textual amendment: S. 150C inserted (with effect in accordance with Sch. 13 para. 4(4) of the amending Act) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [Sch. 13 para. 4(1)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/13/paragraph/4/1)

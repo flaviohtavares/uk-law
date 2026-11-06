@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24A. Review[^key-5e1bc240ffc057c59cddf5177a184d04]
+## 24A. Review[^c-5e1bc240ffc057c59cddf5177a184d04]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e1bc240ffc057c59cddf5177a184d04]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/uksi/2005/3117/regulation/24A) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2016/912/regulation/11/4)
+[^c-5e1bc240ffc057c59cddf5177a184d04]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/uksi/2005/3117/regulation/24A) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2016/912/regulation/11/4)

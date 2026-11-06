@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Measures adopted pursuant to Article 30(1) of the EU Plant Health Regulation[^key-756a1433feb548f101cf9faebd515618]
+## 4. Measures adopted pursuant to Article 30(1) of the EU Plant Health Regulation[^c-756a1433feb548f101cf9faebd515618]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-756a1433feb548f101cf9faebd515618]: Textual amendment: Reg. 4 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1628)](https://www.legislation.gov.uk/wsi/2020/1628), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/1/2/b), [4(3)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/4/3)
+[^c-756a1433feb548f101cf9faebd515618]: Textual amendment: Reg. 4 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1628)](https://www.legislation.gov.uk/wsi/2020/1628), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/1/2/b), [4(3)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/4/3)

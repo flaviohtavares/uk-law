@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Loss of benefits penalties maximum total reduction[^key-31a32ac9ce483833d29ec308e15cfb8f]
+## 39. Loss of benefits penalties maximum total reduction[^c-31a32ac9ce483833d29ec308e15cfb8f]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ must not exceed the amount of the standard allowance[^f00059] which is applicabl
 
 ## Annotations
 
-[^key-31a32ac9ce483833d29ec308e15cfb8f]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2016/226/regulation/39) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-31a32ac9ce483833d29ec308e15cfb8f]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2016/226/regulation/39) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
 
 [^f00059]: Footnote: *See* Article 14 of the Order

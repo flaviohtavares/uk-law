@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 95C. Renewal of authorisations subject to mutual recognition under Regulation 492/2014[^key-b261474fd75e07ea6a720d53ff01224a]
+## Article 95C. Renewal of authorisations subject to mutual recognition under Regulation 492/2014[^c-b261474fd75e07ea6a720d53ff01224a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 4. On receipt of the resubmitted application and data by the competent authority, the time limits under Articles 30 and 31 (where applicable) of this Regulation apply less any time which expired between the date of acceptance of the application and data under Articles 3 and 4 of Regulation (EU) No 492/2014 and exit day.
 
-4A.[^key-4e66fbbd4cc68784952c729592106eac] But paragraph 4 does not apply so as to shorten the deadlines in paragraphs 1A, 2A and 4 of Article 30.
+4A.[^c-4e66fbbd4cc68784952c729592106eac] But paragraph 4 does not apply so as to shorten the deadlines in paragraphs 1A, 2A and 4 of Article 30.
 
 5. Paragraph 6 applies where, before IP completion day, the United Kingdom was the Member State concerned for an application for renewal.
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b261474fd75e07ea6a720d53ff01224a]: Textual amendment: [Arts. 95A-95N](https://www.legislation.gov.uk/eur/2012/528/article/95A) inserted (31.12.2020) by [S.I. 2019/720](https://www.legislation.gov.uk/uksi/2019/720), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2019/720/schedule/4/paragraph/2) (as inserted by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1567/schedule/4))
+[^c-b261474fd75e07ea6a720d53ff01224a]: Textual amendment: [Arts. 95A-95N](https://www.legislation.gov.uk/eur/2012/528/article/95A) inserted (31.12.2020) by [S.I. 2019/720](https://www.legislation.gov.uk/uksi/2019/720), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2019/720/schedule/4/paragraph/2) (as inserted by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1567/schedule/4))
 
-[^key-4e66fbbd4cc68784952c729592106eac]: Textual amendment: [Art. 95C(4A)](https://www.legislation.gov.uk/eur/2012/528/article/95C/4A) inserted (31.12.2022) by [The Biocidal Products (Health and Safety) (Amendment) Regulations 2022 (S.I. 2022/1291)](https://www.legislation.gov.uk/uksi/2022/1291), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1291/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2022/1291/regulation/2/7)
+[^c-4e66fbbd4cc68784952c729592106eac]: Textual amendment: [Art. 95C(4A)](https://www.legislation.gov.uk/eur/2012/528/article/95C/4A) inserted (31.12.2022) by [The Biocidal Products (Health and Safety) (Amendment) Regulations 2022 (S.I. 2022/1291)](https://www.legislation.gov.uk/uksi/2022/1291), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1291/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2022/1291/regulation/2/7)

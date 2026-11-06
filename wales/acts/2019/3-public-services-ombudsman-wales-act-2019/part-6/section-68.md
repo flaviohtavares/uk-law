@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Working with the Auditor General for Wales[^key-753518c9a520b793defc7b338547f6b0]
+## 68. Working with the Auditor General for Wales[^c-753518c9a520b793defc7b338547f6b0]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-753518c9a520b793defc7b338547f6b0]: Commencement: [S. 68](https://www.legislation.gov.uk/anaw/2019/3/section/68) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-753518c9a520b793defc7b338547f6b0]: Commencement: [S. 68](https://www.legislation.gov.uk/anaw/2019/3/section/68) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

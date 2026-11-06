@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Directions for public safety purposes[^key-93f33ae0db0bdae32cafb2ccbaf9c574]
+## 45. Directions for public safety purposes[^c-93f33ae0db0bdae32cafb2ccbaf9c574]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93f33ae0db0bdae32cafb2ccbaf9c574]: Textual amendment: [Ss. 44-46](https://www.legislation.gov.uk/asp/2005/5/section/44) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-93f33ae0db0bdae32cafb2ccbaf9c574]: Textual amendment: [Ss. 44-46](https://www.legislation.gov.uk/asp/2005/5/section/44) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**57.**[^key-d6c52b56ae861c5dc7e320c6b0f52204] In section 18—
+**57.**[^c-d6c52b56ae861c5dc7e320c6b0f52204] In section 18—
 
 - (a) before subsection (1), insert—
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6c52b56ae861c5dc7e320c6b0f52204]: Commencement: Art. 57 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-d6c52b56ae861c5dc7e320c6b0f52204]: Commencement: Art. 57 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

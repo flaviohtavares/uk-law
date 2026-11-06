@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Power to investigate on own initiative[^key-b8f01050f1a1049950cd3102fbb62217]
+## 44. Power to investigate on own initiative[^c-b8f01050f1a1049950cd3102fbb62217]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8f01050f1a1049950cd3102fbb62217]: Commencement: [S. 44](https://www.legislation.gov.uk/anaw/2019/3/section/44) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-b8f01050f1a1049950cd3102fbb62217]: Commencement: [S. 44](https://www.legislation.gov.uk/anaw/2019/3/section/44) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

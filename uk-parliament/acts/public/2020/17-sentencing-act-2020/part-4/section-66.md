@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Hostility[^key-264f49f91c06a7424c58240d94139c5c]
+## 66. Hostility[^c-264f49f91c06a7424c58240d94139c5c]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ This is subject to subsection (3).
 
 ## Annotations
 
-[^key-264f49f91c06a7424c58240d94139c5c]: Commencement: S. 66 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-264f49f91c06a7424c58240d94139c5c]: Commencement: S. 66 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

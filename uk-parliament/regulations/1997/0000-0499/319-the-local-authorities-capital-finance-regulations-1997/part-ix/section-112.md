@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 112. Disposal of property under a private finance transaction[^key-0aa83dade046481d2dd9cebaf029c456]
+## 112. Disposal of property under a private finance transaction[^c-0aa83dade046481d2dd9cebaf029c456]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0aa83dade046481d2dd9cebaf029c456]: Commencement: Reg. 112 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-0aa83dade046481d2dd9cebaf029c456]: Commencement: Reg. 112 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

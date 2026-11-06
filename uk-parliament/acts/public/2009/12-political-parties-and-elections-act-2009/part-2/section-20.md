@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Increased thresholds in relation to donations etc[^key-c1aa8abf415a09665e68244d56f0130a]
+## 20. Increased thresholds in relation to donations etc[^c-c1aa8abf415a09665e68244d56f0130a]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1aa8abf415a09665e68244d56f0130a]: Commencement: S. 20 in force at 1.1.2010 by [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [art. 4(h)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/h)
+[^c-c1aa8abf415a09665e68244d56f0130a]: Commencement: S. 20 in force at 1.1.2010 by [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [art. 4(h)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/h)

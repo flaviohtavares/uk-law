@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Statutory undertakers[^key-f8f76eba3e4e65f37e28b296d9ee6243]
+## 35. Statutory undertakers[^c-f8f76eba3e4e65f37e28b296d9ee6243]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8f76eba3e4e65f37e28b296d9ee6243]: Commencement: Art. 35 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
+[^c-f8f76eba3e4e65f37e28b296d9ee6243]: Commencement: Art. 35 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)

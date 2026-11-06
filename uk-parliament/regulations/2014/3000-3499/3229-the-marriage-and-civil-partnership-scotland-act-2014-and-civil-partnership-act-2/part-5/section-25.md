@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Armed forces change of civil partnership into marriage[^key-eade994620c016117300af30908e0b41]
+## 25. Armed forces change of civil partnership into marriage[^c-eade994620c016117300af30908e0b41]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eade994620c016117300af30908e0b41]: Commencement: Art. 25 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-eade994620c016117300af30908e0b41]: Commencement: Art. 25 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)

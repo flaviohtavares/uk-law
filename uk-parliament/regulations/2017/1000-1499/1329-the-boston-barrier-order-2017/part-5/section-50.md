@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Arbitration in respect of removal of obstructions other than vessels[^key-dc3e616082c7f7e31e55e81b4419de43]
+## 50. Arbitration in respect of removal of obstructions other than vessels[^c-dc3e616082c7f7e31e55e81b4419de43]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ and any dispute under this article is to be determined in accordance with articl
 
 ## Annotations
 
-[^key-dc3e616082c7f7e31e55e81b4419de43]: Commencement: Art. 50 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-dc3e616082c7f7e31e55e81b4419de43]: Commencement: Art. 50 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

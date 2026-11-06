@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10.7. Draft indictment served by the prosecutor on re-instituting proceedings[^key-65a28aad4eddef584bf646f30af3c948]
+## 10.7. Draft indictment served by the prosecutor on re-instituting proceedings[^c-65a28aad4eddef584bf646f30af3c948]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-65a28aad4eddef584bf646f30af3c948]: Commencement: [Rule 10.7](https://www.legislation.gov.uk/uksi/2025/909/rule/10.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-65a28aad4eddef584bf646f30af3c948]: Commencement: [Rule 10.7](https://www.legislation.gov.uk/uksi/2025/909/rule/10.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00308]: Footnote: [1985 c. 23](https://www.legislation.gov.uk/ukpga/1985/23); section 22(4) was amended by section 43 of the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37).

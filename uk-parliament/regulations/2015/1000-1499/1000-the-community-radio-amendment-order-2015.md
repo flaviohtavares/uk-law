@@ -32,7 +32,7 @@ summary: ''
 
 Broadcasting
 
-The Community Radio (Amendment) Order 2015 (revoked)[^key-1bccb25357e6bdeee8ca6867732b44f9]
+The Community Radio (Amendment) Order 2015 (revoked)[^c-1bccb25357e6bdeee8ca6867732b44f9]
 
 Made
 
@@ -40,40 +40,40 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-1bccb25357e6bdeee8ca6867732b44f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1bccb25357e6bdeee8ca6867732b44f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1bccb25357e6bdeee8ca6867732b44f9]
+## 1. Citation and commencement[^c-1bccb25357e6bdeee8ca6867732b44f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Community Radio Order 2004[^key-1bccb25357e6bdeee8ca6867732b44f9]
+## 2. Amendment of the Community Radio Order 2004[^c-1bccb25357e6bdeee8ca6867732b44f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1bccb25357e6bdeee8ca6867732b44f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1bccb25357e6bdeee8ca6867732b44f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1bccb25357e6bdeee8ca6867732b44f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1bccb25357e6bdeee8ca6867732b44f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1bccb25357e6bdeee8ca6867732b44f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1bccb25357e6bdeee8ca6867732b44f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1bccb25357e6bdeee8ca6867732b44f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1bccb25357e6bdeee8ca6867732b44f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-1bccb25357e6bdeee8ca6867732b44f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1bccb25357e6bdeee8ca6867732b44f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-1bccb25357e6bdeee8ca6867732b44f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1bccb25357e6bdeee8ca6867732b44f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Provision for renewal of certain licences[^key-1bccb25357e6bdeee8ca6867732b44f9]
+## 9. Provision for renewal of certain licences[^c-1bccb25357e6bdeee8ca6867732b44f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1bccb25357e6bdeee8ca6867732b44f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1bccb25357e6bdeee8ca6867732b44f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1bccb25357e6bdeee8ca6867732b44f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1bccb25357e6bdeee8ca6867732b44f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1bccb25357e6bdeee8ca6867732b44f9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/1000) revoked (1.4.2025) by [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2025/160/article/7/c) (with [art. 8](https://www.legislation.gov.uk/uksi/2025/160/article/8))
+[^c-1bccb25357e6bdeee8ca6867732b44f9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/1000) revoked (1.4.2025) by [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2025/160/article/7/c) (with [art. 8](https://www.legislation.gov.uk/uksi/2025/160/article/8))

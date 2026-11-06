@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Immunities and privileges of International Organisations[^key-8fa98502371d6be0fb5b7a852c678fcb]
+## 2. Immunities and privileges of International Organisations[^c-8fa98502371d6be0fb5b7a852c678fcb]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fa98502371d6be0fb5b7a852c678fcb]: Commencement: Art. 2 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-8fa98502371d6be0fb5b7a852c678fcb]: Commencement: Art. 2 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)

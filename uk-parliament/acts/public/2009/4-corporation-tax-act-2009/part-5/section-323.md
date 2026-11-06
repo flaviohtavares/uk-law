@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-1d85aeeafedd920c1200708e30553b16] For the purposes of sections 322(5B) and 323A(1)(b) a company is unable to pay its debts if—
+(A1)[^c-1d85aeeafedd920c1200708e30553b16] For the purposes of sections 322(5B) and 323A(1)(b) a company is unable to pay its debts if—
 
 - (a) it is unable to pay its debts as they fall due, or
 - (b) the value of the company's assets is less than the amount of its liabilities, taking into account its contingent and prospective liabilities.
@@ -56,4 +56,4 @@ and “administrative receivership” is to be read accordingly.
 
 ## Annotations
 
-[^key-1d85aeeafedd920c1200708e30553b16]: Textual amendment: S. 323(A1) inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/17)
+[^c-1d85aeeafedd920c1200708e30553b16]: Textual amendment: S. 323(A1) inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/17)

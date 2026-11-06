@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30.5. Application to reduce a fine, vary payment terms or remit a courts charge[^key-c9768c7929b875915d09db3ebc028657][^key-28bc16ac35d32338d54a6afb9d47f6a2]
+## 30.5. Application to reduce a fine, vary payment terms or remit a courts charge[^c-c9768c7929b875915d09db3ebc028657][^c-28bc16ac35d32338d54a6afb9d47f6a2]
 
 *Extent: E+W*
 
-(1)[^key-dcd87f3e7dc331cc0b2b50f788b4695a] This rule applies where—
+(1)[^c-dcd87f3e7dc331cc0b2b50f788b4695a] This rule applies where—
 
 - (a) the defendant wants the court to remit the whole or any part of a fine;
 - (b) no collection order is in force and the defendant wants the court to vary payment terms; or
@@ -30,9 +30,9 @@ summary: ''
 
 - (a) apply in writing;
 - (b) serve the application on the court officer;
-- (c) if the application is to remit[^key-a888c5a3fb73f175f11ab7629ff3c204] a fine or vary payment terms, explain—
+- (c) if the application is to remit[^c-a888c5a3fb73f175f11ab7629ff3c204] a fine or vary payment terms, explain—
   - (i) what relevant circumstances have not yet been considered by the court, and
-  - (ii) why the fine should be remitted[^key-5f8f9fe45bfb0867d2fb21f0b5ddccc1], or the payment terms varied; and
+  - (ii) why the fine should be remitted[^c-5f8f9fe45bfb0867d2fb21f0b5ddccc1], or the payment terms varied; and
 - (d) if the application is to remit a criminal courts charge, explain—
   - (i) how the circumstances meet the time limits and other conditions in section 50 of the Sentencing Act 2020[^f00734], and
   - (ii) why the charge should be remitted.
@@ -54,15 +54,15 @@ summary: ''
 
 ## Annotations
 
-[^key-c9768c7929b875915d09db3ebc028657]: Commencement: [Rule 30.5](https://www.legislation.gov.uk/uksi/2025/909/rule/30.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c9768c7929b875915d09db3ebc028657]: Commencement: [Rule 30.5](https://www.legislation.gov.uk/uksi/2025/909/rule/30.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
-[^key-28bc16ac35d32338d54a6afb9d47f6a2]: Textual amendment: Word in [rule 30.5](https://www.legislation.gov.uk/uksi/2025/909/rule/30.5) heading substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [8(a)](https://www.legislation.gov.uk/uksi/2026/47/rule/8/a)
+[^c-28bc16ac35d32338d54a6afb9d47f6a2]: Textual amendment: Word in [rule 30.5](https://www.legislation.gov.uk/uksi/2025/909/rule/30.5) heading substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [8(a)](https://www.legislation.gov.uk/uksi/2026/47/rule/8/a)
 
-[^key-dcd87f3e7dc331cc0b2b50f788b4695a]: Textual amendment: [Rule 30.5(1)](https://www.legislation.gov.uk/uksi/2025/909/rule/30.5/1) substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [8(b)](https://www.legislation.gov.uk/uksi/2026/47/rule/8/b)
+[^c-dcd87f3e7dc331cc0b2b50f788b4695a]: Textual amendment: [Rule 30.5(1)](https://www.legislation.gov.uk/uksi/2025/909/rule/30.5/1) substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [8(b)](https://www.legislation.gov.uk/uksi/2026/47/rule/8/b)
 
-[^key-a888c5a3fb73f175f11ab7629ff3c204]: Textual amendment: Word in [rule 30.5(2)(c)](https://www.legislation.gov.uk/uksi/2025/909/rule/30.5/2/c) substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [8(c)(i)](https://www.legislation.gov.uk/uksi/2026/47/rule/8/c/i)
+[^c-a888c5a3fb73f175f11ab7629ff3c204]: Textual amendment: Word in [rule 30.5(2)(c)](https://www.legislation.gov.uk/uksi/2025/909/rule/30.5/2/c) substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [8(c)(i)](https://www.legislation.gov.uk/uksi/2026/47/rule/8/c/i)
 
-[^key-5f8f9fe45bfb0867d2fb21f0b5ddccc1]: Textual amendment: Word in [rule 30.5(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/909/rule/30.5/2/c/ii) substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [8(c)(ii)](https://www.legislation.gov.uk/uksi/2026/47/rule/8/c/ii)
+[^c-5f8f9fe45bfb0867d2fb21f0b5ddccc1]: Textual amendment: Word in [rule 30.5(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/909/rule/30.5/2/c/ii) substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [8(c)(ii)](https://www.legislation.gov.uk/uksi/2026/47/rule/8/c/ii)
 
 [^f00734]: Footnote: [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 243. Agreements to surrender leases.[^key-af4cb430545da2f962928d4c4f0b76a5]
+## 243. Agreements to surrender leases.[^c-af4cb430545da2f962928d4c4f0b76a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-af4cb430545da2f962928d4c4f0b76a5]: Textual amendment: Pt. VI heading substituted (30.7.2009) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 48(3)](https://www.legislation.gov.uk/ukpga/2005/22/section/48/3)[(5)](https://www.legislation.gov.uk/ukpga/2005/22/section/48/5); [S.I. 2009/2094](https://www.legislation.gov.uk/uksi/2009/2094), [art. 2](https://www.legislation.gov.uk/uksi/2009/2094/article/2)
+[^c-af4cb430545da2f962928d4c4f0b76a5]: Textual amendment: Pt. VI heading substituted (30.7.2009) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 48(3)](https://www.legislation.gov.uk/ukpga/2005/22/section/48/3)[(5)](https://www.legislation.gov.uk/ukpga/2005/22/section/48/5); [S.I. 2009/2094](https://www.legislation.gov.uk/uksi/2009/2094), [art. 2](https://www.legislation.gov.uk/uksi/2009/2094/article/2)
 
 [^c14457211]: Textual amendment: Words in s. 243 substituted (27.7.1999 with effect as mentioned in [s. 112(6)](https://www.legislation.gov.uk/ukpga/1999/16/section/112/6) of the amending Act) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 112(4)](https://www.legislation.gov.uk/ukpga/1999/16/section/112/4), [122](https://www.legislation.gov.uk/ukpga/1999/16/section/122), [Sch. 14 para. 32](https://www.legislation.gov.uk/ukpga/1999/16/schedule/14/paragraph/32)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Approval by the schools forum or the Welsh Ministers of proposals to revise financial schemes[^key-215763f0651221c9df2c946a138db687]
+## 31. Approval by the schools forum or the Welsh Ministers of proposals to revise financial schemes[^c-215763f0651221c9df2c946a138db687]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-215763f0651221c9df2c946a138db687]: Commencement: Reg. 31 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-215763f0651221c9df2c946a138db687]: Commencement: Reg. 31 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
 
 [^f00050]: Footnote: Paragraph 2A was substituted for paragraph 2, as originally enacted, by the Education and Inspections Act 2006, Schedule 5, paragraph 5(5) and amended by the Education Act 2011, section 46 and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).

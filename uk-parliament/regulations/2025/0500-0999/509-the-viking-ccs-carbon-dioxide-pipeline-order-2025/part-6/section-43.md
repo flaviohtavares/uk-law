@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Planning legislation[^key-1793aed3b2e74be5009312e53481ce1e]
+## 43. Planning legislation[^c-1793aed3b2e74be5009312e53481ce1e]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1793aed3b2e74be5009312e53481ce1e]: Commencement: Art. 43 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-1793aed3b2e74be5009312e53481ce1e]: Commencement: Art. 43 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Test purchases.[^key-5efbcd47951bec69910e9854d3ae1588][^c9338661][^key-104a3ada2b0f3660970232a40accc0fe]
+## 28. Test purchases.[^c-5efbcd47951bec69910e9854d3ae1588][^c9338661][^c-104a3ada2b0f3660970232a40accc0fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5efbcd47951bec69910e9854d3ae1588]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/1987/43/section/28) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 39](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/39); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-5efbcd47951bec69910e9854d3ae1588]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/1987/43/section/28) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 39](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/39); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
 [^c9338661]: Modification: S. 28 applied (with modifications) (1.1.1993) by [S.I. 1992/3073](https://www.legislation.gov.uk/uksi/1992/3073), [reg. 28](https://www.legislation.gov.uk/uksi/1992/3073/regulation/28), [Sch. 6 para. 3(c)](https://www.legislation.gov.uk/uksi/1992/3073/schedule/6/paragraph/3/c).
 
@@ -42,4 +42,4 @@ summary: ''
 
     Ss. 28-35 applied (with modifications) (25.8.2003) by [S.I. 2003/1941](https://www.legislation.gov.uk/uksi/2003/1941), [reg. 8](https://www.legislation.gov.uk/uksi/2003/1941/regulation/8), [Sch. IV para. 2(a)](https://www.legislation.gov.uk/uksi/2003/1941/schedule/IV/paragraph/2/a)
 
-[^key-104a3ada2b0f3660970232a40accc0fe]: Modification: S. 28 applied (with modifications) (17.8.2015) by [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1553/regulation/1), [Sch. 7 paras. 1(f)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/7/paragraph/1/f), [2](https://www.legislation.gov.uk/uksi/2015/1553/schedule/7/paragraph/2)
+[^c-104a3ada2b0f3660970232a40accc0fe]: Modification: S. 28 applied (with modifications) (17.8.2015) by [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1553/regulation/1), [Sch. 7 paras. 1(f)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/7/paragraph/1/f), [2](https://www.legislation.gov.uk/uksi/2015/1553/schedule/7/paragraph/2)

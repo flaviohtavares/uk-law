@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.163. Vacancy (creditor members)[^key-0a00dd7c5ce2785e9b5f586750128918]
+## 4.163. Vacancy (creditor members)[^c-0a00dd7c5ce2785e9b5f586750128918]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a00dd7c5ce2785e9b5f586750128918]: Commencement: [Rule 4.163](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.163) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-0a00dd7c5ce2785e9b5f586750128918]: Commencement: [Rule 4.163](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.163) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

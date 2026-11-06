@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 1.2. Application by the court of the overriding objective[^key-3d4ce1a798351613aa5d6620c0b10bb0]
+## 1.2. Application by the court of the overriding objective[^c-3d4ce1a798351613aa5d6620c0b10bb0]
 
 *Extent: E*
 
@@ -27,4 +27,4 @@ The court must seek to give effect to the overriding objective when it—
 
 ## Annotations
 
-[^key-3d4ce1a798351613aa5d6620c0b10bb0]: Commencement: [Rule 1.2](https://www.legislation.gov.uk/uksi/2015/1568/article/1.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-3d4ce1a798351613aa5d6620c0b10bb0]: Commencement: [Rule 1.2](https://www.legislation.gov.uk/uksi/2015/1568/article/1.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

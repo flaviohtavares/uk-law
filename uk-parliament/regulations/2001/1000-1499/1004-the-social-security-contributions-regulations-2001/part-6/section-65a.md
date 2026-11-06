@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65A. Amount of Class 3 contributions payable by virtue of regulation 50A[^key-c611a93686b8b0863fcc63e2c1d01684]
+## 65A. Amount of Class 3 contributions payable by virtue of regulation 50A[^c-c611a93686b8b0863fcc63e2c1d01684]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The amount of a contribution payable by virtue of regulation 50A during the peri
 
 ## Annotations
 
-[^key-c611a93686b8b0863fcc63e2c1d01684]: Textual amendment: Reg. 65A inserted (17.5.2004) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2004 (S.I. 2004/1362)](https://www.legislation.gov.uk/uksi/2004/1362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1362/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2004/1362/regulation/5)
+[^c-c611a93686b8b0863fcc63e2c1d01684]: Textual amendment: Reg. 65A inserted (17.5.2004) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2004 (S.I. 2004/1362)](https://www.legislation.gov.uk/uksi/2004/1362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1362/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2004/1362/regulation/5)

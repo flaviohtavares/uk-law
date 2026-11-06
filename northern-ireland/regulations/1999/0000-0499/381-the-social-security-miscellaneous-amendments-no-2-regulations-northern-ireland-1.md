@@ -42,13 +42,13 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1), 123(1)(e), 131(1), 132(3) and (4)(b), 133(2)(d), 171(1) and (3) to (5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], Article 36(2) of, and paragraph 1(2) of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00002] and sections 1(1), 5(1)(a), 61(2A) and 165(1) and (3) to (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00003] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00004] in so far as regulation 4 is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^f00005], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-68967fcb44fcd6d175da37d37af71d67]
+## 1. Citation, commencement and interpretation[^c-68967fcb44fcd6d175da37d37af71d67]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1999 and shall come into operation on 4th October 1999.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-28ee9917417e242d35c9ecc4265b1427]
+## 2. Amendment of the Income Support (General) Regulations[^c-28ee9917417e242d35c9ecc4265b1427]
 
 (1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00007] shall be amended in accordance with paragraphs (2) to (11).
 
@@ -122,7 +122,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 .
 
-## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-a4b8c69e7ae68b05ef4bdbb6fd90ae86]
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^c-a4b8c69e7ae68b05ef4bdbb6fd90ae86]
 
 At the end of regulation 52 of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00019] (persons treated as engaged in remunerative work) there shall be added the following paragraphs—
 
@@ -134,11 +134,11 @@ At the end of regulation 52 of the Jobseeker’s Allowance Regulations (Northern
 
 .
 
-## 4. Amendment of the Housing Benefit (General) Regulations[^key-ab441733c69b1478aa4b9d9e1c37d6d4]
+## 4. Amendment of the Housing Benefit (General) Regulations[^c-ab441733c69b1478aa4b9d9e1c37d6d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Social Security (Claims and Payments) Regulations[^key-6fcf099007632cafda6858983276f60a][^key-5c4f629d7e53c18c3473302f096eee69]
+## 5. Amendment of the Social Security (Claims and Payments) Regulations[^c-6fcf099007632cafda6858983276f60a][^c-5c4f629d7e53c18c3473302f096eee69]
 
 At the end of regulation 3 of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00026] (claims not required for entitlement to benefit in certain cases) there shall be added the following paragraph—
 
@@ -204,11 +204,11 @@ In so far as these Regulations are required, for the purposes of regulation 4, t
 
 [^f00005]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-68967fcb44fcd6d175da37d37af71d67]: Commencement: Reg. 1 in operation at 4.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/381/regulation/1/1)
+[^c-68967fcb44fcd6d175da37d37af71d67]: Commencement: Reg. 1 in operation at 4.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/381/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-28ee9917417e242d35c9ecc4265b1427]: Commencement: Reg. 2 in operation at 4.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/381/regulation/1/1)
+[^c-28ee9917417e242d35c9ecc4265b1427]: Commencement: Reg. 2 in operation at 4.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/381/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1989 No. 365](https://www.legislation.gov.uk/nisr/1989/365), [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131), [S.R. 1995 No. 67](https://www.legislation.gov.uk/nisr/1995/67), [S.R. 1996 Nos. 199](https://www.legislation.gov.uk/nisr/1996/199) and [405](https://www.legislation.gov.uk/nisr/1996/405) and [S.R. 1999 No. 342](https://www.legislation.gov.uk/nisr/1999/342)
 
@@ -234,14 +234,14 @@ In so far as these Regulations are required, for the purposes of regulation 4, t
 
 [^f00018]: Footnote: [1995 c. 34](https://www.legislation.gov.uk/ukpga/1995/34)
 
-[^key-a4b8c69e7ae68b05ef4bdbb6fd90ae86]: Commencement: Reg. 3 in operation at 4.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/381/regulation/1/1)
+[^c-a4b8c69e7ae68b05ef4bdbb6fd90ae86]: Commencement: Reg. 3 in operation at 4.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/381/regulation/1/1)
 
 [^f00019]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)
 
-[^key-ab441733c69b1478aa4b9d9e1c37d6d4]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/381/regulation/4) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-ab441733c69b1478aa4b9d9e1c37d6d4]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/381/regulation/4) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-6fcf099007632cafda6858983276f60a]: Commencement: Reg. 5 in operation at 4.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/381/regulation/1/1)
+[^c-6fcf099007632cafda6858983276f60a]: Commencement: Reg. 5 in operation at 4.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/381/regulation/1/1)
 
-[^key-5c4f629d7e53c18c3473302f096eee69]: Modification: [Reg. 5](https://www.legislation.gov.uk/nisr/1999/381/regulation/5) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-5c4f629d7e53c18c3473302f096eee69]: Modification: [Reg. 5](https://www.legislation.gov.uk/nisr/1999/381/regulation/5) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^f00026]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354)

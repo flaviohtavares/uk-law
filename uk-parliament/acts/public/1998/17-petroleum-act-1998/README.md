@@ -33,11 +33,11 @@ An Act to consolidate certain enactments about petroleum, offshore installations
 
 \[11th June 1998\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-499020c98b8efd68f9cbc05c78311cfe]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-499020c98b8efd68f9cbc05c78311cfe]
 
 ## Contents
 
-### Part I — Petroleum[^key-f4f3015e1e74cdd6a8f8f7e27fca0c05]
+### Part I — Petroleum[^c-f4f3015e1e74cdd6a8f8f7e27fca0c05]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,7 +58,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 8A — Interpretation of Part 1](part-i/section-8a.md)
 - [Section 9 — Supplementary.](part-i/section-9.md)
 
-### PART 1A — Maximising economic recovery of UK petroleum[^key-3cf64e08e6cd4abf95571c8bce33f674][^key-e273b266a99dba86f3a0e52d2b715e53]
+### PART 1A — Maximising economic recovery of UK petroleum[^c-3cf64e08e6cd4abf95571c8bce33f674][^c-e273b266a99dba86f3a0e52d2b715e53]
 
 *Extent: E+W+S+N.I.*
 
@@ -111,7 +111,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 27 — Meaning of “owner”.](part-iii/section-27.md)
 - [Section 28 — Interpretation of Part III.](part-iii/section-28.md)
 
-### Part IV — Abandonment of offshore installations[^c12434111][^key-d726a476cc53b72366ca501551f11e95][^key-28bc5944108b762883855a3bd6b5024f]
+### Part IV — Abandonment of offshore installations[^c12434111][^c-d726a476cc53b72366ca501551f11e95][^c-28bc5944108b762883855a3bd6b5024f]
 
 *Extent: E+W+S+N.I.*
 
@@ -167,16 +167,16 @@ SCHEDULES
 
 ## Annotations
 
-[^key-499020c98b8efd68f9cbc05c78311cfe]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1998/17): power to modify conferred (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 189(1)](https://www.legislation.gov.uk/ukpga/2004/20/section/189/1), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-499020c98b8efd68f9cbc05c78311cfe]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1998/17): power to modify conferred (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 189(1)](https://www.legislation.gov.uk/ukpga/2004/20/section/189/1), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-f4f3015e1e74cdd6a8f8f7e27fca0c05]: Modification: Pt. 1 modified (13.11.2009 for specified purposes) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 15(3)](https://www.legislation.gov.uk/ukpga/2008/32/section/15/3), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
+[^c-f4f3015e1e74cdd6a8f8f7e27fca0c05]: Modification: Pt. 1 modified (13.11.2009 for specified purposes) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 15(3)](https://www.legislation.gov.uk/ukpga/2008/32/section/15/3), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
 
-[^key-3cf64e08e6cd4abf95571c8bce33f674]: Extent: Pt. 1A extended (N.I.) (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 74(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/74/1), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-3cf64e08e6cd4abf95571c8bce33f674]: Extent: Pt. 1A extended (N.I.) (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 74(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/74/1), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
 
-[^key-e273b266a99dba86f3a0e52d2b715e53]: Textual amendment: Pt. 1A inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 41](https://www.legislation.gov.uk/ukpga/2015/7/section/41), [57(7)(c)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/c); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/481/regulation/3/b)
+[^c-e273b266a99dba86f3a0e52d2b715e53]: Textual amendment: Pt. 1A inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 41](https://www.legislation.gov.uk/ukpga/2015/7/section/41), [57(7)(c)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/c); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/481/regulation/3/b)
 
 [^c12434111]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/1998/17/part/4) (ss.29-45): power to transfer functions conferred (1.12.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 22(1)(c)(5)](https://www.legislation.gov.uk/ukpga/1998/38/section/22/1/c/5), [Sch. 3 Pt. 1 para. 4(1)(b)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/3/part/1/paragraph/4/1/b) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2789](https://www.legislation.gov.uk/uksi/1998/2789) art. 2
 
-[^key-d726a476cc53b72366ca501551f11e95]: Modification: Pt. 4 applied (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/2008/32/section/30/1), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)
+[^c-d726a476cc53b72366ca501551f11e95]: Modification: Pt. 4 applied (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/2008/32/section/30/1), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)
 
-[^key-28bc5944108b762883855a3bd6b5024f]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/1998/17/part/4) applied (with modifications) (26.12.2023) by [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32), [s. 30(1AA)(1AB)](https://www.legislation.gov.uk/ukpga/2008/32/section/30/1AA/1AB) (as inserted by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 95(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/95/3), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b))
+[^c-28bc5944108b762883855a3bd6b5024f]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/1998/17/part/4) applied (with modifications) (26.12.2023) by [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32), [s. 30(1AA)(1AB)](https://www.legislation.gov.uk/ukpga/2008/32/section/30/1AA/1AB) (as inserted by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 95(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/95/3), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b))

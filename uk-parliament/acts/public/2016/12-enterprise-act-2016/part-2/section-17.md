@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Power of Welsh Ministers to apply regulators' principles and code of practice[^key-db8bfc0145dbe6b232f5a3365c8bd24b]
+## 17. Power of Welsh Ministers to apply regulators' principles and code of practice[^c-db8bfc0145dbe6b232f5a3365c8bd24b]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ In section 24 of the Legislative and Regulatory Reform Act 2006 (application of 
 
 ## Annotations
 
-[^key-db8bfc0145dbe6b232f5a3365c8bd24b]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2016/12/section/17) in force at 1.10.2016 by [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 3(a)](https://www.legislation.gov.uk/uksi/2016/695/article/3/a)
+[^c-db8bfc0145dbe6b232f5a3365c8bd24b]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2016/12/section/17) in force at 1.10.2016 by [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 3(a)](https://www.legislation.gov.uk/uksi/2016/695/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Statement of compliance[^key-e60c6ed96e1cff40478e54519901b9f7]
+## 56. Statement of compliance[^c-e60c6ed96e1cff40478e54519901b9f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e60c6ed96e1cff40478e54519901b9f7]: Commencement: Reg. 56 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-e60c6ed96e1cff40478e54519901b9f7]: Commencement: Reg. 56 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

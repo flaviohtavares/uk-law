@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Meaning of fear and hatred[^key-b103a0d6c7e87adc8f77ba8a621fc1f0]
+## 38. Meaning of fear and hatred[^c-b103a0d6c7e87adc8f77ba8a621fc1f0]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b103a0d6c7e87adc8f77ba8a621fc1f0]: Textual amendment: [S. 38](https://www.legislation.gov.uk/ukpga/2001/24/section/38) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
+[^c-b103a0d6c7e87adc8f77ba8a621fc1f0]: Textual amendment: [S. 38](https://www.legislation.gov.uk/ukpga/2001/24/section/38) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)

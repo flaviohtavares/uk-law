@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Fixed penalty notices: power to require name and address[^key-8a489eefde3f7604533e28e4a5ad7b6f][^key-a37aecbc75cddc0df714e39fa3ab6f59]
+## 29. Fixed penalty notices: power to require name and address[^c-8a489eefde3f7604533e28e4a5ad7b6f][^c-a37aecbc75cddc0df714e39fa3ab6f59]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ After section 43A of the Anti-social Behaviour Act 2003 (c. 38) (as inserted by 
 
 ## Annotations
 
-[^key-8a489eefde3f7604533e28e4a5ad7b6f]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2005/16/section/29) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-8a489eefde3f7604533e28e4a5ad7b6f]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2005/16/section/29) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-a37aecbc75cddc0df714e39fa3ab6f59]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2005/16/section/29) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(n)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/n)
+[^c-a37aecbc75cddc0df714e39fa3ab6f59]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2005/16/section/29) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(n)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/n)

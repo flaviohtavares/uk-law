@@ -40,95 +40,95 @@ authorising the placing on the market of genetically modified cotton MON 15985 (
 
 (Text with EEA relevance) (revoked)
 
-[^key-16fd4f93f428324b2533a0bb3df2a6cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16fd4f93f428324b2533a0bb3df2a6cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Genetically modified organism and unique identifier[^key-16fd4f93f428324b2533a0bb3df2a6cd]
+## Article 1. Genetically modified organism and unique identifier[^c-16fd4f93f428324b2533a0bb3df2a6cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Authorisation[^key-16fd4f93f428324b2533a0bb3df2a6cd]
+## Article 2. Authorisation[^c-16fd4f93f428324b2533a0bb3df2a6cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Labelling[^key-16fd4f93f428324b2533a0bb3df2a6cd]
+## Article 3. Labelling[^c-16fd4f93f428324b2533a0bb3df2a6cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Monitoring for environmental effects[^key-16fd4f93f428324b2533a0bb3df2a6cd]
+## Article 4. Monitoring for environmental effects[^c-16fd4f93f428324b2533a0bb3df2a6cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Register[^key-16fd4f93f428324b2533a0bb3df2a6cd]
+## Article 5. Register[^c-16fd4f93f428324b2533a0bb3df2a6cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Authorisation holder[^key-16fd4f93f428324b2533a0bb3df2a6cd]
+## Article 6. Authorisation holder[^c-16fd4f93f428324b2533a0bb3df2a6cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Validity[^key-16fd4f93f428324b2533a0bb3df2a6cd]
+## Article 7. Validity[^c-16fd4f93f428324b2533a0bb3df2a6cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Addressee[^key-16fd4f93f428324b2533a0bb3df2a6cd]
+## Article 8. Addressee[^c-16fd4f93f428324b2533a0bb3df2a6cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-16fd4f93f428324b2533a0bb3df2a6cd]
+## ANNEX[^c-16fd4f93f428324b2533a0bb3df2a6cd]
 
-[^key-16fd4f93f428324b2533a0bb3df2a6cd](a)
+[^c-16fd4f93f428324b2533a0bb3df2a6cd](a)
 
 **Applicant and authorisation holder**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16fd4f93f428324b2533a0bb3df2a6cd](b)
+[^c-16fd4f93f428324b2533a0bb3df2a6cd](b)
 
 **Designation and specification of the products**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16fd4f93f428324b2533a0bb3df2a6cd](c)
+[^c-16fd4f93f428324b2533a0bb3df2a6cd](c)
 
 **Labelling**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16fd4f93f428324b2533a0bb3df2a6cd](d)
+[^c-16fd4f93f428324b2533a0bb3df2a6cd](d)
 
 **Method for detection**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16fd4f93f428324b2533a0bb3df2a6cd](e)
+[^c-16fd4f93f428324b2533a0bb3df2a6cd](e)
 
 **Unique identifier**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16fd4f93f428324b2533a0bb3df2a6cd](f)
+[^c-16fd4f93f428324b2533a0bb3df2a6cd](f)
 
 **Information required under Annex II to the Cartagena Protocol on Biosafety to the Convention on Biological Diversity**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16fd4f93f428324b2533a0bb3df2a6cd](g)
+[^c-16fd4f93f428324b2533a0bb3df2a6cd](g)
 
 **Conditions or restrictions on the placing on the market, use or handling of the products**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16fd4f93f428324b2533a0bb3df2a6cd](h)
+[^c-16fd4f93f428324b2533a0bb3df2a6cd](h)
 
 **Monitoring plan for environmental effects**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16fd4f93f428324b2533a0bb3df2a6cd](i)
+[^c-16fd4f93f428324b2533a0bb3df2a6cd](i)
 
 **Post-market monitoring requirements for the use of the food for human consumption**
 
@@ -136,4 +136,4 @@ authorising the placing on the market of genetically modified cotton MON 15985 (
 
 ## Annotations
 
-[^key-16fd4f93f428324b2533a0bb3df2a6cd]: Textual amendment: Decision revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 6 para. 23](https://www.legislation.gov.uk/uksi/2025/361/schedule/6/paragraph/23) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-16fd4f93f428324b2533a0bb3df2a6cd]: Textual amendment: Decision revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 6 para. 23](https://www.legislation.gov.uk/uksi/2025/361/schedule/6/paragraph/23) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

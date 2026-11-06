@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Disclosure orders[^key-7b9d3e71ad65bb50e383fd88dce82b01][^c22725381]
+## 35. Disclosure orders[^c-7b9d3e71ad65bb50e383fd88dce82b01][^c22725381]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 2 contains amendments to the Terrorism Act 2000 which enable the making
 
 ## Annotations
 
-[^key-7b9d3e71ad65bb50e383fd88dce82b01]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2017/22/section/35) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(t)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/t)
+[^c-7b9d3e71ad65bb50e383fd88dce82b01]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2017/22/section/35) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(t)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/t)
 
 [^c22725381]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2017/22/section/35) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

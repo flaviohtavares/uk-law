@@ -28,7 +28,7 @@ Article 164(5).
 
 - (a) a specified level of court;
 - (b) a court which falls within a specified class of court; or
-- (c)[^key-fef0a5e01829f94074f7cc0f990eb1e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-fef0a5e01829f94074f7cc0f990eb1e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Lord Chancellor may, after consultation with the Lord Chief Justice, by order specify circumstances in which specified proceedings under this Order (which might otherwise be commenced elsewhere) may only be commenced in—
 
@@ -92,7 +92,7 @@ have been commenced in or transferred to any court (whether or not by virtue of 
 
 (3) Any order under paragraph 1 may make provision as to the effect of commencing proceedings in contravention of any of the provisions of the order.
 
-(4)[^key-8e33cf4dba601553c94b7cdb499c15ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8e33cf4dba601553c94b7cdb499c15ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) An order under paragraph 2 may make provision as to the effect of a failure to comply with any of the provisions of the order.
 
@@ -105,13 +105,13 @@ have been commenced in or transferred to any court (whether or not by virtue of 
 
   as consisting entirely of proceedings of one or other of those kinds, for the purposes of the application of any order made under paragraph 2.
 
-(7)[^key-a893181ec8cfdd1ac8d91ab58d31d940] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-a893181ec8cfdd1ac8d91ab58d31d940] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c19914061]: Textual amendment: Words in Sch. 7 para. 1(1)(2)(4) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 101(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/101/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/b)
 
-[^key-fef0a5e01829f94074f7cc0f990eb1e9]: Textual amendment: [Sch. 7 para. 1(1)(c)](https://www.legislation.gov.uk/nisi/1995/755/schedule/7/paragraph/1/1/c) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 105(3)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/105/3/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-fef0a5e01829f94074f7cc0f990eb1e9]: Textual amendment: [Sch. 7 para. 1(1)(c)](https://www.legislation.gov.uk/nisi/1995/755/schedule/7/paragraph/1/1/c) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 105(3)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/105/3/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c17272091]: Textual amendment: [2000 c. 4 (NI)](https://www.legislation.gov.uk/nia/2000/4)
 
@@ -123,8 +123,8 @@ have been commenced in or transferred to any court (whether or not by virtue of 
 
 [^c19914381]: Textual amendment: Words in [Sch. 7 para. 3](https://www.legislation.gov.uk/nisi/1995/755/schedule/7/paragraph/3) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 101(4)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/101/4); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/b)
 
-[^key-8e33cf4dba601553c94b7cdb499c15ec]: Textual amendment: [Sch. 7 para. 4(4)](https://www.legislation.gov.uk/nisi/1995/755/schedule/7/paragraph/4/4) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 105(3)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/105/3/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-8e33cf4dba601553c94b7cdb499c15ec]: Textual amendment: [Sch. 7 para. 4(4)](https://www.legislation.gov.uk/nisi/1995/755/schedule/7/paragraph/4/4) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 105(3)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/105/3/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c19914441]: Textual amendment: Words in Sch. 7 para. 4(6)(a) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 101(5)(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/101/5/b); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/b)
 
-[^key-a893181ec8cfdd1ac8d91ab58d31d940]: Textual amendment: [Sch. 7 para. 4(7)](https://www.legislation.gov.uk/nisi/1995/755/schedule/7/paragraph/4/7) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 105(3)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/105/3/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-a893181ec8cfdd1ac8d91ab58d31d940]: Textual amendment: [Sch. 7 para. 4(7)](https://www.legislation.gov.uk/nisi/1995/755/schedule/7/paragraph/4/7) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 105(3)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/105/3/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

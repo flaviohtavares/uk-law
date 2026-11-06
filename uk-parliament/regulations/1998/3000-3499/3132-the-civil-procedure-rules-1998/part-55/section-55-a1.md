@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55.A1. Coronavirus – temporary provision[^key-ddc2bb37b47954d36f44d18350f95fe8][^key-6d372728ca614d30331c2a6aa037d325]
+## 55.A1. Coronavirus – temporary provision[^c-ddc2bb37b47954d36f44d18350f95fe8][^c-6d372728ca614d30331c2a6aa037d325]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ddc2bb37b47954d36f44d18350f95fe8]: Textual amendment: [Rule 55.A1](https://www.legislation.gov.uk/uksi/1998/3132/rule/55) inserted (23.8.2020) by [The Civil Procedure (Amendment No. 4) (Coronavirus) Rules 2020 (S.I. 2020/751)](https://www.legislation.gov.uk/uksi/2020/751), [rules 1](https://www.legislation.gov.uk/uksi/2020/751/rule/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/751/rule/2/b)
+[^c-ddc2bb37b47954d36f44d18350f95fe8]: Textual amendment: [Rule 55.A1](https://www.legislation.gov.uk/uksi/1998/3132/rule/55) inserted (23.8.2020) by [The Civil Procedure (Amendment No. 4) (Coronavirus) Rules 2020 (S.I. 2020/751)](https://www.legislation.gov.uk/uksi/2020/751), [rules 1](https://www.legislation.gov.uk/uksi/2020/751/rule/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/751/rule/2/b)
 
-[^key-6d372728ca614d30331c2a6aa037d325]: Textual amendment: Pt. 55 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/256/schedule/1) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
+[^c-6d372728ca614d30331c2a6aa037d325]: Textual amendment: Pt. 55 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/256/schedule/1) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))

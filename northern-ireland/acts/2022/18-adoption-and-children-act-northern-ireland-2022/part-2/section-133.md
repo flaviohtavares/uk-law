@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 133. Definition of harm[^key-1efe7538868bb3034042df06623f50c5][^key-1ee49d35ef8507eaa51f283b2cbb7f76]
+## 133. Definition of harm[^c-1efe7538868bb3034042df06623f50c5][^c-1ee49d35ef8507eaa51f283b2cbb7f76]
 
 *Extent: N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1efe7538868bb3034042df06623f50c5]: Commencement: S. 133 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-1efe7538868bb3034042df06623f50c5]: Commencement: S. 133 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-1ee49d35ef8507eaa51f283b2cbb7f76]: Commencement: [S. 133](https://www.legislation.gov.uk/nia/2022/18/section/133) in operation at 1.11.2024 by [S.R. 2024/186](https://www.legislation.gov.uk/nisr/2024/186), [art. 2(a)](https://www.legislation.gov.uk/nisr/2024/186/article/2/a)
+[^c-1ee49d35ef8507eaa51f283b2cbb7f76]: Commencement: [S. 133](https://www.legislation.gov.uk/nia/2022/18/section/133) in operation at 1.11.2024 by [S.R. 2024/186](https://www.legislation.gov.uk/nisr/2024/186), [art. 2(a)](https://www.legislation.gov.uk/nisr/2024/186/article/2/a)

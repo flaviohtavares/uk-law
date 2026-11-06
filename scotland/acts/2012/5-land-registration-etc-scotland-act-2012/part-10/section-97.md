@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Electronic documents[^key-6fa80b74b63fef30692c6ff0b349896e][^key-80dfed0ce92ced4ed261794ad0949dc8][^key-936091109eaff0c293ed142f2c8e7bfe]
+## 97. Electronic documents[^c-6fa80b74b63fef30692c6ff0b349896e][^c-80dfed0ce92ced4ed261794ad0949dc8][^c-936091109eaff0c293ed142f2c8e7bfe]
 
 *Extent: S*
 
@@ -195,8 +195,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6fa80b74b63fef30692c6ff0b349896e]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2012/5/section/97) in force at 22.3.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/1)
+[^c-6fa80b74b63fef30692c6ff0b349896e]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2012/5/section/97) in force at 22.3.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/1)
 
-[^key-80dfed0ce92ced4ed261794ad0949dc8]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2012/5/section/97) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see S.S.I. 2014/127, art. 2)
+[^c-80dfed0ce92ced4ed261794ad0949dc8]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2012/5/section/97) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see S.S.I. 2014/127, art. 2)
 
-[^key-936091109eaff0c293ed142f2c8e7bfe]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2012/5/section/97) in force at 1.4.2022 for specified purposes by [S.S.I. 2021/472](https://www.legislation.gov.uk/ssi/2021/472), [art. 2](https://www.legislation.gov.uk/ssi/2021/472/article/2)
+[^c-936091109eaff0c293ed142f2c8e7bfe]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2012/5/section/97) in force at 1.4.2022 for specified purposes by [S.S.I. 2021/472](https://www.legislation.gov.uk/ssi/2021/472), [art. 2](https://www.legislation.gov.uk/ssi/2021/472/article/2)

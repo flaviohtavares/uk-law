@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 282. Expressions used generally[^key-527dbb62fb50c40e7ed0d1359afabe69]
+## 282. Expressions used generally[^c-527dbb62fb50c40e7ed0d1359afabe69]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-527dbb62fb50c40e7ed0d1359afabe69]: Commencement: Rule 282 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-527dbb62fb50c40e7ed0d1359afabe69]: Commencement: Rule 282 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

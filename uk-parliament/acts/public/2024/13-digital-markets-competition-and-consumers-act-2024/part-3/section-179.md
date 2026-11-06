@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. Crown application[^key-1a9e8290cb6015eaf08e7f765de24730][^key-50e6718112f93ff14518cb592b3c4c74]
+## 179. Crown application[^c-1a9e8290cb6015eaf08e7f765de24730][^c-50e6718112f93ff14518cb592b3c4c74]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a9e8290cb6015eaf08e7f765de24730]: Commencement: S. 179 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-1a9e8290cb6015eaf08e7f765de24730]: Commencement: S. 179 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-50e6718112f93ff14518cb592b3c4c74]: Commencement: [S. 179](https://www.legislation.gov.uk/ukpga/2024/13/section/179) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-50e6718112f93ff14518cb592b3c4c74]: Commencement: [S. 179](https://www.legislation.gov.uk/ukpga/2024/13/section/179) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

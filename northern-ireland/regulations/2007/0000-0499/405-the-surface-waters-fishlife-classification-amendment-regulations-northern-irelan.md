@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 WATER AND SEWERAGE
 
-The Surface Waters (Fishlife) (Classification) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^key-a05d58d0fd1b1d0f0faaccabd82776ce]
+The Surface Waters (Fishlife) (Classification) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^c-a05d58d0fd1b1d0f0faaccabd82776ce]
 
 Made
 
@@ -43,22 +43,22 @@ Coming into operation
 
 29th October 2007
 
-[^key-a05d58d0fd1b1d0f0faaccabd82776ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a05d58d0fd1b1d0f0faaccabd82776ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-a05d58d0fd1b1d0f0faaccabd82776ce]
+## 1. Citation, commencement and extent[^c-a05d58d0fd1b1d0f0faaccabd82776ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Surface Waters (Fishlife) (Classification) Regulations (Northern Ireland) 1997[^key-a05d58d0fd1b1d0f0faaccabd82776ce]
+## 2. Amendments to the Surface Waters (Fishlife) (Classification) Regulations (Northern Ireland) 1997[^c-a05d58d0fd1b1d0f0faaccabd82776ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a05d58d0fd1b1d0f0faaccabd82776ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a05d58d0fd1b1d0f0faaccabd82776ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a05d58d0fd1b1d0f0faaccabd82776ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a05d58d0fd1b1d0f0faaccabd82776ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a05d58d0fd1b1d0f0faaccabd82776ce]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/405) revoked (4.3.2015) by [The Water Framework Directive (Priority Substances and Classification) (Amendment) Regulations (Northern Ireland) 2015 (revoked) 2015 (S.R. 2015/45)](https://www.legislation.gov.uk/nisr/2015/45), [reg. 5](https://www.legislation.gov.uk/nisr/2015/45/regulation/5)
+[^c-a05d58d0fd1b1d0f0faaccabd82776ce]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/405) revoked (4.3.2015) by [The Water Framework Directive (Priority Substances and Classification) (Amendment) Regulations (Northern Ireland) 2015 (revoked) 2015 (S.R. 2015/45)](https://www.legislation.gov.uk/nisr/2015/45), [reg. 5](https://www.legislation.gov.uk/nisr/2015/45/regulation/5)

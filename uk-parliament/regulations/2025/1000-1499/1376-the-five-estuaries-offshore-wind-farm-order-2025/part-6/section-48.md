@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Compensation[^key-5da77ce8a6fea6778539505cff7bae4d]
+## 48. Compensation[^c-5da77ce8a6fea6778539505cff7bae4d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Signed by authority of the Secretary of State for Energy Security and Net Zero
 
 ## Annotations
 
-[^key-5da77ce8a6fea6778539505cff7bae4d]: Commencement: Art. 48 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-5da77ce8a6fea6778539505cff7bae4d]: Commencement: Art. 48 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Registered office: appropriate address[^key-2e70729163c1d6015471adcf36ca4074][^key-700c470b47efc0d5ec52f3304a2435ac]
+## 28. Registered office: appropriate address[^c-2e70729163c1d6015471adcf36ca4074][^c-700c470b47efc0d5ec52f3304a2435ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e70729163c1d6015471adcf36ca4074]: Commencement: S. 28 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-2e70729163c1d6015471adcf36ca4074]: Commencement: S. 28 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-700c470b47efc0d5ec52f3304a2435ac]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2023/56/section/28) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/v)
+[^c-700c470b47efc0d5ec52f3304a2435ac]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2023/56/section/28) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/v)

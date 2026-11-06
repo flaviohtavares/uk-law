@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88K. Effect of inclusion in police advisory list[^key-e1108f602f9e659dc04bf626b7c17242]
+## 88K. Effect of inclusion in police advisory list[^c-e1108f602f9e659dc04bf626b7c17242]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1108f602f9e659dc04bf626b7c17242]: Textual amendment: S. 88K omitted (21.9.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 213(1)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/213/1/b), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/h)
+[^c-e1108f602f9e659dc04bf626b7c17242]: Textual amendment: S. 88K omitted (21.9.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 213(1)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/213/1/b), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/h)

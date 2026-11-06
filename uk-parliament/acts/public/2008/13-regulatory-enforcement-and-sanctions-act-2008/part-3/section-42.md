@@ -37,17 +37,17 @@ summary: ''
 - “**variable monetary penalty**” means a requirement referred to in subsection (3)(a);
 - “**non-monetary discretionary requirement**” means a requirement referred to in subsection (3)(b) or (c).
 
-(6)[^key-a9e025b8accbd14f38c02d787b03a5c8][^key-198ba53c836268edf7b2321ba7fdd6f7] Where a variable monetary penalty is imposed in relation to a relevant offence which is—
+(6)[^c-a9e025b8accbd14f38c02d787b03a5c8][^c-198ba53c836268edf7b2321ba7fdd6f7] Where a variable monetary penalty is imposed in relation to a relevant offence which is—
 
 - (a) triable summarily only, and
 - (b) punishable on summary conviction by a fine (whether or not it is also punishable by a term of imprisonment),
 
-the amount of the variable monetary penalty may not exceed the maximum amount (if any) *(Extent: E+W)*[^key-0d7605d58821ae45cf00db1882be7dcd] of that fine.
+the amount of the variable monetary penalty may not exceed the maximum amount (if any) *(Extent: E+W)*[^c-0d7605d58821ae45cf00db1882be7dcd] of that fine.
 
 ## Annotations
 
-[^key-a9e025b8accbd14f38c02d787b03a5c8]: Modification: S. 42(6) excluded (15.2.2011) by [Waste (Wales) Measure 2010 (nawm 8)](https://www.legislation.gov.uk/mwa/2010/8), [ss. 10(3)(a)](https://www.legislation.gov.uk/mwa/2010/8/section/10/3/a), [21(2)](https://www.legislation.gov.uk/mwa/2010/8/section/21/2)
+[^c-a9e025b8accbd14f38c02d787b03a5c8]: Modification: S. 42(6) excluded (15.2.2011) by [Waste (Wales) Measure 2010 (nawm 8)](https://www.legislation.gov.uk/mwa/2010/8), [ss. 10(3)(a)](https://www.legislation.gov.uk/mwa/2010/8/section/10/3/a), [21(2)](https://www.legislation.gov.uk/mwa/2010/8/section/21/2)
 
-[^key-198ba53c836268edf7b2321ba7fdd6f7]: Modification: [S. 42(6)](https://www.legislation.gov.uk/ukpga/2008/13/section/42/6) excluded by 2010 nawm 8, s. 10(3) (as substituted (E.W.) (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 68(6)](https://www.legislation.gov.uk/anaw/2016/3/section/68/6), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/c))
+[^c-198ba53c836268edf7b2321ba7fdd6f7]: Modification: [S. 42(6)](https://www.legislation.gov.uk/ukpga/2008/13/section/42/6) excluded by 2010 nawm 8, s. 10(3) (as substituted (E.W.) (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 68(6)](https://www.legislation.gov.uk/anaw/2016/3/section/68/6), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/c))
 
-[^key-0d7605d58821ae45cf00db1882be7dcd]: Textual amendment: Words in s. 42(6) inserted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 5 para. 12(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/5/paragraph/12/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-0d7605d58821ae45cf00db1882be7dcd]: Textual amendment: Words in s. 42(6) inserted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 5 para. 12(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/5/paragraph/12/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

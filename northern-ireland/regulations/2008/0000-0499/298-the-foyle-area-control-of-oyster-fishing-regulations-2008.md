@@ -41,27 +41,27 @@ Coming into operation
 
 The Foyle, Carlingford and Irish Lights Commission, with the approval of the North/South Ministerial Council, makes the following Regulations in exercise of the powers conferred by section 13(1) of the Foyle Fisheries Act 1952[^f00001] and section 13(1) of the Foyle Fisheries Act (Northern Ireland) 1952[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-24ace71ae7ded255823c06f966c57a66]
+## 1. Citation and commencement[^c-24ace71ae7ded255823c06f966c57a66]
 
 These Regulations may be cited as the Foyle Area (Control of Oyster Fishing) Regulations 2008 and shall come into operation on 31st July 2008.
 
-## 2. Interpretation[^key-9286dae2d982a63b950abb14adaa640f]
+## 2. Interpretation[^c-9286dae2d982a63b950abb14adaa640f]
 
 In these Regulations—
 
-- “the defined mouth”, in relation to the River Foyle, means the mouth of that river as defined by instrument dated 8th February 1864 made under section 17 of the Salmon Fishery (Ireland) Act 1863;[^key-45883019858e697ca4dae06dc03c15b1]
+- “the defined mouth”, in relation to the River Foyle, means the mouth of that river as defined by instrument dated 8th February 1864 made under section 17 of the Salmon Fishery (Ireland) Act 1863;[^c-45883019858e697ca4dae06dc03c15b1]
 - “dredge” means a towed device used for the collection of molluscs from the seabed;
 - “oyster” means a bivalve mollusc of the species Ostrea Edulis;
 - “oyster fishing licence” means a licence issued in accordance with the Foyle Area (Licensing of Oyster Fishing) Regulations 2008;
 - “Lough Foyle” means those waters in the Foyle Area bounded on the north or seaward side by an imaginary straight line drawn between Greencastle Fort in the County of Donegal and the Martello Tower at Magilligan Point in the County of Londonderry and bounded on the south by the defined mouth of the River Foyle;
 - “the River Foyle” means all of the River Foyle upstream of the defined mouth of the River Foyle;
-- “seaward of Lough Foyle” means those waters in the Foyle Area which lie seawards of an imaginary straight line drawn between Greencastle Fort in the County of Donegal and the Martello Tower at Magilligan Point in the County of Londonderry [^key-f5a4bfdb57ab5f806b141e8a05f2b54b]....
+- “seaward of Lough Foyle” means those waters in the Foyle Area which lie seawards of an imaginary straight line drawn between Greencastle Fort in the County of Donegal and the Martello Tower at Magilligan Point in the County of Londonderry [^c-f5a4bfdb57ab5f806b141e8a05f2b54b]....
 
-## 3. Exception[^key-a50e7cacc8f8beaa37a777bd424c001f]
+## 3. Exception[^c-a50e7cacc8f8beaa37a777bd424c001f]
 
 These Regulations do not apply to any person who is operating under the authority of, and in accordance with, an aquaculture licence granted under section 52A of the Foyle Fisheries Act (Northern Ireland) 1952 or section 53A of the Foyle Fisheries Act 1952.
 
-## 4. Restriction on oyster fishing[^key-0cf8c9290f5f74f6566161e6528afde7]
+## 4. Restriction on oyster fishing[^c-0cf8c9290f5f74f6566161e6528afde7]
 
 A person shall not use for the purpose of taking or with intent to take oysters any dredge in any area within the Foyle Area —
 
@@ -69,7 +69,7 @@ A person shall not use for the purpose of taking or with intent to take oysters 
 
 (2) during any period of suspension declared in relation to that area under regulation 9.
 
-## 5. Control of oyster fishing in the Foyle Area[^key-9c999dc9629ad7c11f17a8661140e9ae]
+## 5. Control of oyster fishing in the Foyle Area[^c-9c999dc9629ad7c11f17a8661140e9ae]
 
 (1) No dredge with a blade width exceeding 2 metres shall be used for the purpose of taking or with intent to take oysters.
 
@@ -81,15 +81,15 @@ A person shall not use for the purpose of taking or with intent to take oysters 
 
 (5) No dredge shall be used for the purpose of taking or with intent to take oysters during the period beginning on 1st April and ending on 18th September next following (both dates inclusive).
 
-## 6. Restriction on size[^key-5084f68560a5dce394bd881c7906a55f]
+## 6. Restriction on size[^c-5084f68560a5dce394bd881c7906a55f]
 
-No person shall retain on board a vessel, within the Foyle Area, any oysters which will pass through a circular ring of 80mm[^key-a5d4f729a4976e73aebea1a342173a74] in internal diameter.
+No person shall retain on board a vessel, within the Foyle Area, any oysters which will pass through a circular ring of 80mm[^c-a5d4f729a4976e73aebea1a342173a74] in internal diameter.
 
-## 7. Return of oysters[^key-41949921c3091d85ff7082a366563da3]
+## 7. Return of oysters[^c-41949921c3091d85ff7082a366563da3]
 
 Any person who takes any oyster, the retention of which on board a vessel is prohibited under regulation 6, shall immediately return it, without avoidable injury, as near as possible to the place from which it was taken.
 
-## 8. Numbering of vessels[^key-76b4b981ef06f4090a095ea51ce173b6]
+## 8. Numbering of vessels[^c-76b4b981ef06f4090a095ea51ce173b6]
 
 (1) A person shall not use a vessel for the purpose of oyster fishing in any part of the Foyle Area unless the requirements set out in paragraph (2) are met.
 
@@ -100,7 +100,7 @@ Any person who takes any oyster, the retention of which on board a vessel is pro
 - (c) such figures shall be displayed in white on a black background using materials capable of withstanding the marine environment; and
 - (d) such figures shall not be effaced, covered or obscured in any manner whatsoever.
 
-## 9. Suspension of fishing[^key-41a2983031d393d51a177e1e7d17084b]
+## 9. Suspension of fishing[^c-41a2983031d393d51a177e1e7d17084b]
 
 (1) If the Commission is satisfied that it is necessary or expedient for the conservation and protection of oysters it may declare fishing for oysters in any part of the Foyle Area suspended for such period as may be specified in the declaration.
 
@@ -150,26 +150,26 @@ These Regulations also provide for a vessel named in an oyster fishing licence t
 
 [^f00003]: Footnote: [S.I. 1999/859](https://www.legislation.gov.uk/uksi/1999/859) Article 21(1)
 
-[^key-24ace71ae7ded255823c06f966c57a66]: Commencement: Reg. 1 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/298/regulation/1)
+[^c-24ace71ae7ded255823c06f966c57a66]: Commencement: Reg. 1 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/298/regulation/1)
 
-[^key-9286dae2d982a63b950abb14adaa640f]: Commencement: Reg. 2 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/298/regulation/1)
+[^c-9286dae2d982a63b950abb14adaa640f]: Commencement: Reg. 2 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/298/regulation/1)
 
-[^key-45883019858e697ca4dae06dc03c15b1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2008/298/regulation/2) substituted (5.5.2010) by [The Foyle Area (Control of Oyster Fishing) (Amendment) Regulations 2010 (S.R. 2010/153)](https://www.legislation.gov.uk/nisr/2010/153), [regs. 1](https://www.legislation.gov.uk/nisr/2010/153/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2010/153/regulation/3/a)
+[^c-45883019858e697ca4dae06dc03c15b1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2008/298/regulation/2) substituted (5.5.2010) by [The Foyle Area (Control of Oyster Fishing) (Amendment) Regulations 2010 (S.R. 2010/153)](https://www.legislation.gov.uk/nisr/2010/153), [regs. 1](https://www.legislation.gov.uk/nisr/2010/153/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2010/153/regulation/3/a)
 
-[^key-f5a4bfdb57ab5f806b141e8a05f2b54b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2008/298/regulation/2) omitted (5.5.2010) by virtue of [The Foyle Area (Control of Oyster Fishing) (Amendment) Regulations 2010 (S.R. 2010/153)](https://www.legislation.gov.uk/nisr/2010/153), [regs. 1](https://www.legislation.gov.uk/nisr/2010/153/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2010/153/regulation/3/b)
+[^c-f5a4bfdb57ab5f806b141e8a05f2b54b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2008/298/regulation/2) omitted (5.5.2010) by virtue of [The Foyle Area (Control of Oyster Fishing) (Amendment) Regulations 2010 (S.R. 2010/153)](https://www.legislation.gov.uk/nisr/2010/153), [regs. 1](https://www.legislation.gov.uk/nisr/2010/153/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2010/153/regulation/3/b)
 
-[^key-a50e7cacc8f8beaa37a777bd424c001f]: Commencement: Reg. 3 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/298/regulation/1)
+[^c-a50e7cacc8f8beaa37a777bd424c001f]: Commencement: Reg. 3 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/298/regulation/1)
 
-[^key-0cf8c9290f5f74f6566161e6528afde7]: Commencement: Reg. 4 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/298/regulation/1)
+[^c-0cf8c9290f5f74f6566161e6528afde7]: Commencement: Reg. 4 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/298/regulation/1)
 
-[^key-9c999dc9629ad7c11f17a8661140e9ae]: Commencement: Reg. 5 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/298/regulation/1)
+[^c-9c999dc9629ad7c11f17a8661140e9ae]: Commencement: Reg. 5 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/298/regulation/1)
 
-[^key-5084f68560a5dce394bd881c7906a55f]: Commencement: Reg. 6 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/298/regulation/1)
+[^c-5084f68560a5dce394bd881c7906a55f]: Commencement: Reg. 6 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/298/regulation/1)
 
-[^key-a5d4f729a4976e73aebea1a342173a74]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/nisr/2008/298/regulation/6) substituted (5.5.2010) by [The Foyle Area (Control of Oyster Fishing) (Amendment) Regulations 2010 (S.R. 2010/153)](https://www.legislation.gov.uk/nisr/2010/153), [regs. 1](https://www.legislation.gov.uk/nisr/2010/153/regulation/1), [4](https://www.legislation.gov.uk/nisr/2010/153/regulation/4)
+[^c-a5d4f729a4976e73aebea1a342173a74]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/nisr/2008/298/regulation/6) substituted (5.5.2010) by [The Foyle Area (Control of Oyster Fishing) (Amendment) Regulations 2010 (S.R. 2010/153)](https://www.legislation.gov.uk/nisr/2010/153), [regs. 1](https://www.legislation.gov.uk/nisr/2010/153/regulation/1), [4](https://www.legislation.gov.uk/nisr/2010/153/regulation/4)
 
-[^key-41949921c3091d85ff7082a366563da3]: Commencement: Reg. 7 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/298/regulation/1)
+[^c-41949921c3091d85ff7082a366563da3]: Commencement: Reg. 7 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/298/regulation/1)
 
-[^key-76b4b981ef06f4090a095ea51ce173b6]: Commencement: Reg. 8 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/298/regulation/1)
+[^c-76b4b981ef06f4090a095ea51ce173b6]: Commencement: Reg. 8 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/298/regulation/1)
 
-[^key-41a2983031d393d51a177e1e7d17084b]: Commencement: Reg. 9 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/298/regulation/1)
+[^c-41a2983031d393d51a177e1e7d17084b]: Commencement: Reg. 9 in operation at 31.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/298/regulation/1)

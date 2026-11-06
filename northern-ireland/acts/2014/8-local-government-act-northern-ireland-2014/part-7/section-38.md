@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Regulations about standing orders[^key-36e303cac34bfb09af142cc56046a40e]
+## 38. Regulations about standing orders[^c-36e303cac34bfb09af142cc56046a40e]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36e303cac34bfb09af142cc56046a40e]: Commencement: [S. 38](https://www.legislation.gov.uk/nia/2014/8/section/38) in operation at 20.5.2014 by [S.R. 2014/142](https://www.legislation.gov.uk/nisr/2014/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2014/142/article/2/a)
+[^c-36e303cac34bfb09af142cc56046a40e]: Commencement: [S. 38](https://www.legislation.gov.uk/nia/2014/8/section/38) in operation at 20.5.2014 by [S.R. 2014/142](https://www.legislation.gov.uk/nisr/2014/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2014/142/article/2/a)

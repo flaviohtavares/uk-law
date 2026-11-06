@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Modification of sections 105(7) and 234(4) of the Inheritance Tax Act 1984[^key-f7fb758696b32ce32a7b9348de85a575]
+## 135. Modification of sections 105(7) and 234(4) of the Inheritance Tax Act 1984[^c-f7fb758696b32ce32a7b9348de85a575]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 4(a) of the Inheritance Tax (Market Makers) Regulations 1992 (modi
 
 ## Annotations
 
-[^key-f7fb758696b32ce32a7b9348de85a575]: Commencement: Art. 135 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-f7fb758696b32ce32a7b9348de85a575]: Commencement: Art. 135 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

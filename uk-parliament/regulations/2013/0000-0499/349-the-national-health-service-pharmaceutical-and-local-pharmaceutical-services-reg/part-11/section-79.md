@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] has imposed a condition on an NHS chemist (C) under regulation 35 (or thereafter under this regulation), or a Primary Care Trust has imposed a condition on C under regulation 35 or 79 of the 2012 Regulations (which relate to fitness conditions and conditions to combat fraud), NHS England may review the decision to impose the condition—
+(1) Where NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] has imposed a condition on an NHS chemist (C) under regulation 35 (or thereafter under this regulation), or a Primary Care Trust has imposed a condition on C under regulation 35 or 79 of the 2012 Regulations (which relate to fitness conditions and conditions to combat fraud), NHS England may review the decision to impose the condition—
 
 - (a) at its own volition; or
 - (b) where requested to do so by C, but C may not make such a request—
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21646961]: Marginal citation: [S.I. 2008/2699](https://www.legislation.gov.uk/uksi/2008/2699) (L 16); *see* rule 19 of those Rules.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213. Orders prohibiting the taking and sale of certain lobsters[^c2008197][^key-99e50869a2da437c7699da38f76196fa]
+## 213. Orders prohibiting the taking and sale of certain lobsters[^c2008197][^c-99e50869a2da437c7699da38f76196fa]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c2008197]: Commencement: [S. 213](https://www.legislation.gov.uk/ukpga/2009/23/section/213) partly in force; [s. 213](https://www.legislation.gov.uk/ukpga/2009/23/section/213) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-99e50869a2da437c7699da38f76196fa]: Commencement: [S. 213](https://www.legislation.gov.uk/ukpga/2009/23/section/213) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/9)
+[^c-99e50869a2da437c7699da38f76196fa]: Commencement: [S. 213](https://www.legislation.gov.uk/ukpga/2009/23/section/213) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Permanent stopping up and restriction of use of highways, streets and private means of access[^key-0366b290901ee802b1d17841e79beb48]
+## 16. Permanent stopping up and restriction of use of highways, streets and private means of access[^c-0366b290901ee802b1d17841e79beb48]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0366b290901ee802b1d17841e79beb48]: Commencement: Art. 16 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-0366b290901ee802b1d17841e79beb48]: Commencement: Art. 16 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)

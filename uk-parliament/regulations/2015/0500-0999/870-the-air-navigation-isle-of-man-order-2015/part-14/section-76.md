@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Smoking in aircraft[^key-d473c4bb0eddd0f4703784868b3df213]
+## 76. Smoking in aircraft[^c-d473c4bb0eddd0f4703784868b3df213]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d473c4bb0eddd0f4703784868b3df213]: Commencement: [Art. 76](https://www.legislation.gov.uk/uksi/2015/870/article/76) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-d473c4bb0eddd0f4703784868b3df213]: Commencement: [Art. 76](https://www.legislation.gov.uk/uksi/2015/870/article/76) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

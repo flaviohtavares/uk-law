@@ -22,7 +22,7 @@ summary: ''
 
 Article 54
 
-### 1. Applications made under requirements[^key-4062744a89178b764bf8d7f9e3791d1f]
+### 1. Applications made under requirements[^c-4062744a89178b764bf8d7f9e3791d1f]
 
 (1) Where the undertaker proposes to make an application to a discharging authority for any consent, agreement or approval required by a requirement, it shall no later than twenty eight days prior to submitting such application provide a draft of the proposed application to the discharging authority, unless otherwise agreed by the discharging authority. It shall on the same date provide a complete draft of the proposed application to any requirement consultee and shall affix a notice to a conspicuous object or objects on or near the site of the works which are the subject of such application which shall give details of the proposed application together with the address within the locality where application documents may be inspected and details of the manner in which representations on the application may be made.
 
@@ -34,7 +34,7 @@ Article 54
 
 (3) In determining any application under this paragraph the discharging body may either grant or refuse consent, and where consent is refused the discharging authority must provide its reasons for the refusal with the notice of refusal.
 
-### 2. Further information regarding requirements[^key-bc90f24b882604fd439aa01036d04328]
+### 2. Further information regarding requirements[^c-bc90f24b882604fd439aa01036d04328]
 
 (1) In relation to any application further to a requirement, the discharging authority shall have the right to request such further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -44,7 +44,7 @@ Article 54
 
 (4) In the event that the discharging authority does not give such notification within this 7 business day period as referred to in paragraph 2(2) it shall be deemed to have sufficient information to consider the application and shall not thereafter be entitled to request further information without the prior agreement of the undertaker.
 
-### 3. Fees further to requirements[^key-d944a6bc70919b773896f8aaae1e31b3]
+### 3. Fees further to requirements[^c-d944a6bc70919b773896f8aaae1e31b3]
 
 (1) Where an application is made to the discharging authority for written consent, agreement or approval in respect of a requirement, a fee shall be paid to that authority as follows—
 
@@ -63,7 +63,7 @@ Article 54
 - (c) where the application relates to development within Category 1 and the gross floor space to be created by the development exceeds 75 square metres and is not an exact multiple of 75 square metres, the area remaining after division of the total number of square metres of gross floorspace by the figure of 75 shall be treated as being 75 metres; and
 - (d) where the application relates to development within Category 2 and the site area exceeds 0.1 hectares and is not an exact multiple of 0.1 hectares, the area remaining after division of the total number of hectares by the figure of 0.1 hectares shall be treated as being 0.1 hectares.
 
-### 4. Appeals[^key-2e735b040900773727b6a79c07757a69]
+### 4. Appeals[^c-2e735b040900773727b6a79c07757a69]
 
 (1) Save as otherwise provided in this Order, the undertaker may appeal in the event that—
 
@@ -115,10 +115,10 @@ and may deal with the application as if it had been made to him in the first ins
 
 ## Annotations
 
-[^key-4062744a89178b764bf8d7f9e3791d1f]: Commencement: Sch. 17 para. 1 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-4062744a89178b764bf8d7f9e3791d1f]: Commencement: Sch. 17 para. 1 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-bc90f24b882604fd439aa01036d04328]: Commencement: Sch. 17 para. 2 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-bc90f24b882604fd439aa01036d04328]: Commencement: Sch. 17 para. 2 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-d944a6bc70919b773896f8aaae1e31b3]: Commencement: Sch. 17 para. 3 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-d944a6bc70919b773896f8aaae1e31b3]: Commencement: Sch. 17 para. 3 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-2e735b040900773727b6a79c07757a69]: Commencement: Sch. 17 para. 4 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-2e735b040900773727b6a79c07757a69]: Commencement: Sch. 17 para. 4 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

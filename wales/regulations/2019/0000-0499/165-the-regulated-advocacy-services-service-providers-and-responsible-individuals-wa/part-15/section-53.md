@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Duty of candour[^key-99a9f003424ec5de05a14dd3d4941953]
+## 53. Duty of candour[^c-99a9f003424ec5de05a14dd3d4941953]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The responsible individual must act in an open and transparent way with—
 
 ## Annotations
 
-[^key-99a9f003424ec5de05a14dd3d4941953]: Commencement: [Reg. 53](https://www.legislation.gov.uk/wsi/2019/165/regulation/53) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-99a9f003424ec5de05a14dd3d4941953]: Commencement: [Reg. 53](https://www.legislation.gov.uk/wsi/2019/165/regulation/53) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

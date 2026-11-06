@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 69. Appeals against notices[^key-3d365be6344cc3da10e874d739a2b7cc]
+## 69. Appeals against notices[^c-3d365be6344cc3da10e874d739a2b7cc]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d365be6344cc3da10e874d739a2b7cc]: Commencement: Reg. 69 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-3d365be6344cc3da10e874d739a2b7cc]: Commencement: Reg. 69 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

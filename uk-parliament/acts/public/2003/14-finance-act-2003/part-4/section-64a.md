@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64A. Initial transfer of assets to trustees of unit trust scheme[^key-9fc348b3f1bdf047f14724c026f762a6]
+## 64A. Initial transfer of assets to trustees of unit trust scheme[^c-9fc348b3f1bdf047f14724c026f762a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fc348b3f1bdf047f14724c026f762a6]: Textual amendment: S. 64A repealed (with effect in accordance with s. 166(4)-(8) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 166(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/166/2), [Sch. 26 Pt. 7(3)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/7/3)
+[^c-9fc348b3f1bdf047f14724c026f762a6]: Textual amendment: S. 64A repealed (with effect in accordance with s. 166(4)-(8) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 166(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/166/2), [Sch. 26 Pt. 7(3)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/7/3)

@@ -72,7 +72,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 - (a) a payment under this Act or under Part 4 of the Child Maintenance and Other Payments Act 2008 (c. 6);
 - (b) a payment under the 1979 Order or under the Pneumoconiosis etc. (Workers' Compensation) Act 1979 (c. 41);
-- (ba)[^key-f400bc81beabcdb48dd24625658289d0] a payment under the Diffuse Mesothelioma Payment Scheme (for the scheme, see the Mesothelioma Act 2014);
+- (ba)[^c-f400bc81beabcdb48dd24625658289d0] a payment under the Diffuse Mesothelioma Payment Scheme (for the scheme, see the Mesothelioma Act 2014);
 - (c) an extra-statutory payment;
 - (d) damages or a payment in settlement of a claim for damages;
 - (e) a payment of a description prescribed by regulations.
@@ -103,7 +103,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - (a) may reconsider a determination that a payment should not be made under this Act, on the ground that there has been a material change of circumstances since the determination was made; and
 - (b) may reconsider a determination either that a payment should or that a payment should not be made under this Act, on the ground that the determination was made in ignorance of, or was based on a mistake as to, a material fact.
 
-(2) Regulations must prescribe the manner in which and may prescribe[^key-d68a1cb0a9487a4ba920968db534d67c] the period within which—
+(2) Regulations must prescribe the manner in which and may prescribe[^c-d68a1cb0a9487a4ba920968db534d67c] the period within which—
 
 - (a) an application may be made to the Department for reconsideration of a determination, or
 - (b) the Department may institute such a reconsideration without an application.
@@ -128,7 +128,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - (a) on the claim, or
 - (b) on reconsideration under section 4 of a determination made on the claim.
 
-(1A)[^key-9b4d2bce71363d22f34697c43bcb12de] Regulations may provide that, in such cases or circumstances as may be prescribed, a person may appeal against a determination made on a claim only if the Department has decided whether to reconsider the determination under section 4.
+(1A)[^c-9b4d2bce71363d22f34697c43bcb12de] Regulations may provide that, in such cases or circumstances as may be prescribed, a person may appeal against a determination made on a claim only if the Department has decided whether to reconsider the determination under section 4.
 
 (1B) The regulations may in particular provide that that condition is met only where—
 
@@ -144,7 +144,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 - (a) as to the manner in which, and the time within which, an appeal may be made;
 - (b) as to the procedure to be followed if an appeal is made;
-- (c) for the purpose of enabling an appeal under subsection (1)(a) (or, where in accordance with regulations under subsection (1A) there is no right of appeal, any purported appeal)[^key-45369dab72b53a3e1c74430f58efd982] to be treated as an application for reconsideration under section 4 of the determination made on the claim.
+- (c) for the purpose of enabling an appeal under subsection (1)(a) (or, where in accordance with regulations under subsection (1A) there is no right of appeal, any purported appeal)[^c-45369dab72b53a3e1c74430f58efd982] to be treated as an application for reconsideration under section 4 of the determination made on the claim.
 
 ### 6. Appeal to Social Security Commissioner
 
@@ -228,7 +228,7 @@ After Article 3 of the Social Security (Recovery of Benefits) (Northern Ireland)
 
 (1) Subject to the following provisions of this section, any regulations made under this Act are subject to negative resolution.
 
-(2) Regulations under section 1 or 5(1A)[^key-e01d0e63cb8532e271ddaa9c07f68fbc] or the first regulations under section 2—
+(2) Regulations under section 1 or 5(1A)[^c-e01d0e63cb8532e271ddaa9c07f68fbc] or the first regulations under section 2—
 
 - (a) must be laid before the Assembly after being made; and
 - (b) take effect on such date as may be specified in the regulations, but (without prejudice to the validity of anything done thereunder or to the making of new regulations) cease to have effect upon the expiration of a period of six months from that date unless at some time before the expiration of that period the regulations are approved by a resolution of the Assembly.
@@ -268,19 +268,19 @@ This Act may be cited as the Mesothelioma, etc., Act (Northern Ireland) 2008.
 
 [^c22330281]: Commencement: S. 2 wholly in operation at 1.10.2008; s. 2 not in operation at Royal Assent see s. 12(1); s. 2(1)(b)(c), (2)(b)(c), (3)(e), (4)(d) in operation for the purpose only of authorising the making of regulations at 27.8.2008 and for all other purposes at 1.10.2008 by [S.R. 2008/351](https://www.legislation.gov.uk/nisr/2008/351), [art. 2(1)(a)(b)](https://www.legislation.gov.uk/nisr/2008/351/article/2/1/a/b), [Sch.](https://www.legislation.gov.uk/nisr/2008/351/schedule); s. 2 in operation at 1.10.2008 in so far as not already in operation by [S.R. 2008/351](https://www.legislation.gov.uk/nisr/2008/351), [art. 2(2)](https://www.legislation.gov.uk/nisr/2008/351/article/2/2)
 
-[^key-f400bc81beabcdb48dd24625658289d0]: Textual amendment: [S. 2(3)(ba)](https://www.legislation.gov.uk/nia/2008/9/section/2/3/ba) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/6); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
+[^c-f400bc81beabcdb48dd24625658289d0]: Textual amendment: [S. 2(3)(ba)](https://www.legislation.gov.uk/nia/2008/9/section/2/3/ba) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/6); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
 
 [^c22330291]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2008/9/section/3) wholly in operation at 1.10.2008; [s. 3](https://www.legislation.gov.uk/nia/2008/9/section/3) not in operation at Royal Assent see [s. 12(1)](https://www.legislation.gov.uk/nia/2008/9/section/12/1); [s. 3(1)-(3)](https://www.legislation.gov.uk/nia/2008/9/section/3/1) in operation for the purpose only of authorising the making of regulations at 27.8.2008 and for all other purposes at 1.10.2008 by [S.R. 2008/351](https://www.legislation.gov.uk/nisr/2008/351), [art. 2(1)(a)(b)](https://www.legislation.gov.uk/nisr/2008/351/article/2/1/a/b), [Sch.](https://www.legislation.gov.uk/nisr/2008/351/schedule); [s. 3](https://www.legislation.gov.uk/nia/2008/9/section/3) in operation at 1.10.2008 in so far as not already in operation by [S.R. 2008/351](https://www.legislation.gov.uk/nisr/2008/351), [art. 2(2)](https://www.legislation.gov.uk/nisr/2008/351/article/2/2)
 
 [^c22330301]: Commencement: S. 4 wholly in operation at 1.10.2008; s. 4 not in operation at Royal Assent see s. 12(1); s. 4(2) in operation for the purpose only of authorising the making of regulations at 27.8.2008 and for all other purposes at 1.10.2008 by [S.R. 2008/351](https://www.legislation.gov.uk/nisr/2008/351), [art. 2(1)(a)(b)](https://www.legislation.gov.uk/nisr/2008/351/article/2/1/a/b), [Sch.](https://www.legislation.gov.uk/nisr/2008/351/schedule); s. 4 in operation at 1.10.2008 in so far as not already in operation by [S.R. 2008/351](https://www.legislation.gov.uk/nisr/2008/351), [art. 2(2)](https://www.legislation.gov.uk/nisr/2008/351/article/2/2)
 
-[^key-d68a1cb0a9487a4ba920968db534d67c]: Textual amendment: Words in s. 4(2) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 13](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/13); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-d68a1cb0a9487a4ba920968db534d67c]: Textual amendment: Words in s. 4(2) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 13](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/13); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
 [^c22330331]: Commencement: S. 5 wholly in operation at 1.10.2008; s. 5 not in operation at Royal Assent see s. 12(1); s. 5(4)(c) in operation for the purpose only of authorising the making of regulations at 27.8.2008 and for all other purposes at 1.10.2008 by [S.R. 2008/351](https://www.legislation.gov.uk/nisr/2008/351), [art. 2(1)(a)(b)](https://www.legislation.gov.uk/nisr/2008/351/article/2/1/a/b), [Sch.](https://www.legislation.gov.uk/nisr/2008/351/schedule); s. 5 in operation at 1.10.2008 in so far as not already in operation by [S.R. 2008/351](https://www.legislation.gov.uk/nisr/2008/351), [art. 2(2)](https://www.legislation.gov.uk/nisr/2008/351/article/2/2)
 
-[^key-9b4d2bce71363d22f34697c43bcb12de]: Textual amendment: [S. 5(1A)](https://www.legislation.gov.uk/nia/2008/9/section/5/1A)[(1B)](https://www.legislation.gov.uk/nia/2008/9/section/5/1B) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 14(2)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/14/2); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-9b4d2bce71363d22f34697c43bcb12de]: Textual amendment: [S. 5(1A)](https://www.legislation.gov.uk/nia/2008/9/section/5/1A)[(1B)](https://www.legislation.gov.uk/nia/2008/9/section/5/1B) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 14(2)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/14/2); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
-[^key-45369dab72b53a3e1c74430f58efd982]: Textual amendment: Words in [s. 5(4)(c)](https://www.legislation.gov.uk/nia/2008/9/section/5/4/c) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 14(3)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/14/3); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-45369dab72b53a3e1c74430f58efd982]: Textual amendment: Words in [s. 5(4)(c)](https://www.legislation.gov.uk/nia/2008/9/section/5/4/c) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 14(3)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/14/3); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
 [^c22330361]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2008/9/section/8) wholly in operation at 1.10.2008; [s. 8](https://www.legislation.gov.uk/nia/2008/9/section/8) not in operation at Royal Assent see [s. 12(1)](https://www.legislation.gov.uk/nia/2008/9/section/12/1); [s. 8](https://www.legislation.gov.uk/nia/2008/9/section/8) in operation for the purpose only of authorising the making of regulations at 27.8.2008 and for all other purposes at 1.10.2008 by [S.R. 2008/351](https://www.legislation.gov.uk/nisr/2008/351), [art. 2(1)(a)(b)](https://www.legislation.gov.uk/nisr/2008/351/article/2/1/a/b), [Sch.](https://www.legislation.gov.uk/nisr/2008/351/schedule)
 
@@ -288,6 +288,6 @@ This Act may be cited as the Mesothelioma, etc., Act (Northern Ireland) 2008.
 
 [^c22330381]: Commencement: S. 10 wholly in operation at 1.10.2008; s. 10 not in operation at Royal Assent see s. 12(1); s. 10 in operation for the purpose only of authorising the making of regulations at 27.8.2008 and for all other purposes at 1.10.2008 by [S.R. 2008/351](https://www.legislation.gov.uk/nisr/2008/351), [art. 2(1)(a)(b)](https://www.legislation.gov.uk/nisr/2008/351/article/2/1/a/b), [Sch.](https://www.legislation.gov.uk/nisr/2008/351/schedule)
 
-[^key-e01d0e63cb8532e271ddaa9c07f68fbc]: Textual amendment: Words in [s. 10(2)](https://www.legislation.gov.uk/nia/2008/9/section/10/2) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 15](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/15); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-e01d0e63cb8532e271ddaa9c07f68fbc]: Textual amendment: Words in [s. 10(2)](https://www.legislation.gov.uk/nia/2008/9/section/10/2) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 15](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/15); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
 [^c22330401]: Subordinate legislation: [S. 12(1)](https://www.legislation.gov.uk/nia/2008/9/section/12/1) power fully exercised: 27.8.2008 and 1.10.2008 appointed for specified provisions by [S.R. 2008/351](https://www.legislation.gov.uk/nisr/2008/351), [art. 2](https://www.legislation.gov.uk/nisr/2008/351/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/351/schedule)

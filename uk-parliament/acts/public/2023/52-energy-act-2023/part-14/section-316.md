@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 316. Procedure for regulations under Chapter 3[^key-a39f8645ef053a455e09eb8e8ca8db05]
+## 316. Procedure for regulations under Chapter 3[^c-a39f8645ef053a455e09eb8e8ca8db05]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a39f8645ef053a455e09eb8e8ca8db05]: Commencement: S. 316 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)
+[^c-a39f8645ef053a455e09eb8e8ca8db05]: Commencement: S. 316 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)

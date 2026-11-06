@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Offences, penalties and enforcement[^key-de1509a953c48b9e02a886baf7ae45e9]
+## 7. Offences, penalties and enforcement[^c-de1509a953c48b9e02a886baf7ae45e9]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de1509a953c48b9e02a886baf7ae45e9]: Commencement: Reg. 7 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-de1509a953c48b9e02a886baf7ae45e9]: Commencement: Reg. 7 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)

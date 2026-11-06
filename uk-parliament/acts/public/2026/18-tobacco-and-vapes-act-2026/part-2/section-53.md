@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Sale of unpackaged cigarettes[^key-e49f11d062089df89756ee40688e02c9]
+## 53. Sale of unpackaged cigarettes[^c-e49f11d062089df89756ee40688e02c9]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e49f11d062089df89756ee40688e02c9]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2026/18/section/53) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-e49f11d062089df89756ee40688e02c9]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2026/18/section/53) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

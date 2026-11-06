@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Qualifying conditions[^key-5630bfcaf1b738c4b4af7010a0c5c04a]
+## 83. Qualifying conditions[^c-5630bfcaf1b738c4b4af7010a0c5c04a]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5630bfcaf1b738c4b4af7010a0c5c04a]: Commencement: Reg. 83 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-5630bfcaf1b738c4b4af7010a0c5c04a]: Commencement: Reg. 83 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

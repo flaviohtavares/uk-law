@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Frequency of ordinary general elections[^key-da6e38f32d45ee4c8425e6678bd0462a]
+## 3. Frequency of ordinary general elections[^c-da6e38f32d45ee4c8425e6678bd0462a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da6e38f32d45ee4c8425e6678bd0462a]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2024/4/section/3) in force at 8.5.2026, see [s. 25(3)](https://www.legislation.gov.uk/asc/2024/4/section/25/3)
+[^c-da6e38f32d45ee4c8425e6678bd0462a]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2024/4/section/3) in force at 8.5.2026, see [s. 25(3)](https://www.legislation.gov.uk/asc/2024/4/section/25/3)

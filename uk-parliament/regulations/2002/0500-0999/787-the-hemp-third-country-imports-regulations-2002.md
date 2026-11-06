@@ -235,7 +235,7 @@ and
 (6) Before the appropriate authority decides to—
 
 - (a) refuse to grant an authorisation pursuant to paragraph (2); or
-- (b) vary an authorisation pursuant to paragraph (5)[^key-c22a734e321bc61a05f3a281d13caafd],
+- (b) vary an authorisation pursuant to paragraph (5)[^c-c22a734e321bc61a05f3a281d13caafd],
 
 it shall—
 
@@ -291,7 +291,7 @@ An applicant, licensed importer or subsequent user, or any employee, servant or 
 - (a) suspend or revoke any licence granted pursuant to regulation 6 to that licensed importer; and
 - (b) suspend or revoke any authorisation granted pursuant to regulation 11 to that authorised importer.
 
-(2) Before the appropriate authority decides to suspend or[^key-cceb27cf666b4fd8af779ad38f522cf4] revoke a licence or authorisation pursuant to paragraph (1) it shall—
+(2) Before the appropriate authority decides to suspend or[^c-cceb27cf666b4fd8af779ad38f522cf4] revoke a licence or authorisation pursuant to paragraph (1) it shall—
 
 - (i) give the licensed importer or authorised importer, as the case may be, notice in writing of its proposed decision with a statement of its reasons;
 - (ii) give that licensed importer or authorised importer an opportunity to make written representations within such time as the appropriate authority considers reasonable; and
@@ -371,6 +371,6 @@ A Regulatory Impact Assessment has been prepared in respect of these Regulations
 
 [^c965387]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-c22a734e321bc61a05f3a281d13caafd]: Textual amendment: Words in [reg. 11(6)(b)](https://www.legislation.gov.uk/uksi/2002/787/regulation/11/6/b) substituted (1.9.2002) by [The Hemp (Third Country Imports) (Amendment) Regulations 2002 (S.I. 2002/1924)](https://www.legislation.gov.uk/uksi/2002/1924), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1924/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2002/1924/regulation/2/2)
+[^c-c22a734e321bc61a05f3a281d13caafd]: Textual amendment: Words in [reg. 11(6)(b)](https://www.legislation.gov.uk/uksi/2002/787/regulation/11/6/b) substituted (1.9.2002) by [The Hemp (Third Country Imports) (Amendment) Regulations 2002 (S.I. 2002/1924)](https://www.legislation.gov.uk/uksi/2002/1924), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1924/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2002/1924/regulation/2/2)
 
-[^key-cceb27cf666b4fd8af779ad38f522cf4]: Textual amendment: Words in reg. 15(2) inserted (1.9.2002) by [The Hemp (Third Country Imports) (Amendment) Regulations 2002 (S.I. 2002/1924)](https://www.legislation.gov.uk/uksi/2002/1924), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1924/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2002/1924/regulation/2/3)
+[^c-cceb27cf666b4fd8af779ad38f522cf4]: Textual amendment: Words in reg. 15(2) inserted (1.9.2002) by [The Hemp (Third Country Imports) (Amendment) Regulations 2002 (S.I. 2002/1924)](https://www.legislation.gov.uk/uksi/2002/1924), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1924/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2002/1924/regulation/2/3)

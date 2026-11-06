@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic
 
-The Rights of Passengers in Bus and Coach Transport (Exemptions) Regulations 2013 (revoked)[^key-a94a2c3eef0c6c2523529868fb1a631e]
+The Rights of Passengers in Bus and Coach Transport (Exemptions) Regulations 2013 (revoked)[^c-a94a2c3eef0c6c2523529868fb1a631e]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 1st March 2013
 
-[^key-a94a2c3eef0c6c2523529868fb1a631e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a94a2c3eef0c6c2523529868fb1a631e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-a94a2c3eef0c6c2523529868fb1a631e]
+## 1. Citation, commencement and extent[^c-a94a2c3eef0c6c2523529868fb1a631e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Purpose and interpretation[^key-a94a2c3eef0c6c2523529868fb1a631e]
+## 2. Purpose and interpretation[^c-a94a2c3eef0c6c2523529868fb1a631e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Domestic regular services[^key-a94a2c3eef0c6c2523529868fb1a631e]
+## 3. Domestic regular services[^c-a94a2c3eef0c6c2523529868fb1a631e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Particular regular services operated outside the European Union[^key-a94a2c3eef0c6c2523529868fb1a631e]
+## 4. Particular regular services operated outside the European Union[^c-a94a2c3eef0c6c2523529868fb1a631e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Training[^key-a94a2c3eef0c6c2523529868fb1a631e]
+## 5. Training[^c-a94a2c3eef0c6c2523529868fb1a631e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a94a2c3eef0c6c2523529868fb1a631e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a94a2c3eef0c6c2523529868fb1a631e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a94a2c3eef0c6c2523529868fb1a631e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a94a2c3eef0c6c2523529868fb1a631e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a94a2c3eef0c6c2523529868fb1a631e]: Textual amendment: Regulations revoked (19.8.2013) by [The Rights of Passengers in Bus and Coach Transport (Exemptions and Enforcement) Regulations 2013 (S.I. 2013/1865)](https://www.legislation.gov.uk/uksi/2013/1865), [reg. 3](https://www.legislation.gov.uk/uksi/2013/1865/regulation/3)
+[^c-a94a2c3eef0c6c2523529868fb1a631e]: Textual amendment: Regulations revoked (19.8.2013) by [The Rights of Passengers in Bus and Coach Transport (Exemptions and Enforcement) Regulations 2013 (S.I. 2013/1865)](https://www.legislation.gov.uk/uksi/2013/1865), [reg. 3](https://www.legislation.gov.uk/uksi/2013/1865/regulation/3)

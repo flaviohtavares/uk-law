@@ -43,69 +43,69 @@ on allowing the use of the radio spectrum for equipment using ultra-wideband tec
 
 (2007/131/EC) (repealed) (revoked)
 
-[^key-ffb1490034bb26a3063c3632ce968d17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ffb1490034bb26a3063c3632ce968d17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-ffb1490034bb26a3063c3632ce968d17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ffb1490034bb26a3063c3632ce968d17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ffb1490034bb26a3063c3632ce968d17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ffb1490034bb26a3063c3632ce968d17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-ffb1490034bb26a3063c3632ce968d17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-ffb1490034bb26a3063c3632ce968d17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-ffb1490034bb26a3063c3632ce968d17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-ffb1490034bb26a3063c3632ce968d17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-ffb1490034bb26a3063c3632ce968d17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-ffb1490034bb26a3063c3632ce968d17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-ffb1490034bb26a3063c3632ce968d17]
+## ANNEX[^c-ffb1490034bb26a3063c3632ce968d17]
 
-[^key-ffb1490034bb26a3063c3632ce968d17] 1.
+[^c-ffb1490034bb26a3063c3632ce968d17] 1.
 
 GENERIC UWB USAGE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ffb1490034bb26a3063c3632ce968d17] 2.
+[^c-ffb1490034bb26a3063c3632ce968d17] 2.
 
 LOCATION TRACKING SYSTEMS TYPE 1 (LT1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ffb1490034bb26a3063c3632ce968d17] 3.
+[^c-ffb1490034bb26a3063c3632ce968d17] 3.
 
 UWB DEVICES INSTALLED IN ROAD AND RAIL VEHICLES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ffb1490034bb26a3063c3632ce968d17] 4.
+[^c-ffb1490034bb26a3063c3632ce968d17] 4.
 
 UWB ONBOARD AIRCRAFT
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ffb1490034bb26a3063c3632ce968d17] 5.
+[^c-ffb1490034bb26a3063c3632ce968d17] 5.
 
 MATERIAL SENSING DEVICES USING UWB TECHNOLOGY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ffb1490034bb26a3063c3632ce968d17] 5.1.
+[^c-ffb1490034bb26a3063c3632ce968d17] 5.1.
 
 **Material sensing devices**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ffb1490034bb26a3063c3632ce968d17] 5.2.
+[^c-ffb1490034bb26a3063c3632ce968d17] 5.2.
 
 Building material analysis devices (BMA)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ffb1490034bb26a3063c3632ce968d17] 1.
+[^c-ffb1490034bb26a3063c3632ce968d17] 1.
 
 BMA Devices permitted under this Decision shall fulfil the following requirements:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ffb1490034bb26a3063c3632ce968d17] 2.
+[^c-ffb1490034bb26a3063c3632ce968d17] 2.
 
 Emissions radiating from BMA devices shall be kept to a minimum and in any case not exceed the maximum power limits within the table below with the BMA device on a representative wall as defined within ETSI EN 302 065-4.
 
@@ -113,4 +113,4 @@ Emissions radiating from BMA devices shall be kept to a minimum and in any case 
 
 ## Annotations
 
-[^key-ffb1490034bb26a3063c3632ce968d17]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ffb1490034bb26a3063c3632ce968d17]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

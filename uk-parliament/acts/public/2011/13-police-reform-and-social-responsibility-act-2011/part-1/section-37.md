@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Appointment of persons not employed by chief officers of police[^key-74794ca24e1e8ac7cf344083a485270e][^key-f4c4a1e5f5ca0308523284486da85ed1]
+## 37. Appointment of persons not employed by chief officers of police[^c-74794ca24e1e8ac7cf344083a485270e][^c-f4c4a1e5f5ca0308523284486da85ed1]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74794ca24e1e8ac7cf344083a485270e]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2011/13/section/37) in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-74794ca24e1e8ac7cf344083a485270e]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2011/13/section/37) in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-f4c4a1e5f5ca0308523284486da85ed1]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2011/13/section/37) in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+[^c-f4c4a1e5f5ca0308523284486da85ed1]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2011/13/section/37) in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)

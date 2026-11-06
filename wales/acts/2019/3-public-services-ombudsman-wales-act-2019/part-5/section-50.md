@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Records of complaints[^key-b35d9a6612d3bfef815120017eee8f68]
+## 50. Records of complaints[^c-b35d9a6612d3bfef815120017eee8f68]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Ombudsman must maintain a register of every complaint made or referred to th
 
 ## Annotations
 
-[^key-b35d9a6612d3bfef815120017eee8f68]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2019/3/section/50) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-b35d9a6612d3bfef815120017eee8f68]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2019/3/section/50) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

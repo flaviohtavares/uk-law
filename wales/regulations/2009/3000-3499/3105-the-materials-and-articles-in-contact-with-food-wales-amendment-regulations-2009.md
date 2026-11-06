@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Materials and Articles in Contact with Food (Wales) (Amendment) Regulations 2009 (revoked)[^key-f9e432f926bcde2feea86e5fd0a7f986]
+The Materials and Articles in Contact with Food (Wales) (Amendment) Regulations 2009 (revoked)[^c-f9e432f926bcde2feea86e5fd0a7f986]
 
 Made
 
@@ -45,38 +45,38 @@ Coming into force
 
 19 December 2009
 
-[^key-f9e432f926bcde2feea86e5fd0a7f986]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9e432f926bcde2feea86e5fd0a7f986]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-f9e432f926bcde2feea86e5fd0a7f986]
+## 1. Title, commencement and application[^c-f9e432f926bcde2feea86e5fd0a7f986]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Materials and Articles in Contact with Food (Wales) Regulations 2007[^key-f9e432f926bcde2feea86e5fd0a7f986]
+## 2. Amendments to the Materials and Articles in Contact with Food (Wales) Regulations 2007[^c-f9e432f926bcde2feea86e5fd0a7f986]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f9e432f926bcde2feea86e5fd0a7f986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f9e432f926bcde2feea86e5fd0a7f986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f9e432f926bcde2feea86e5fd0a7f986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f9e432f926bcde2feea86e5fd0a7f986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f9e432f926bcde2feea86e5fd0a7f986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f9e432f926bcde2feea86e5fd0a7f986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-f9e432f926bcde2feea86e5fd0a7f986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f9e432f926bcde2feea86e5fd0a7f986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-f9e432f926bcde2feea86e5fd0a7f986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f9e432f926bcde2feea86e5fd0a7f986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-f9e432f926bcde2feea86e5fd0a7f986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f9e432f926bcde2feea86e5fd0a7f986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-f9e432f926bcde2feea86e5fd0a7f986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-f9e432f926bcde2feea86e5fd0a7f986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9e432f926bcde2feea86e5fd0a7f986]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9e432f926bcde2feea86e5fd0a7f986]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f9e432f926bcde2feea86e5fd0a7f986]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9e432f926bcde2feea86e5fd0a7f986]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f9e432f926bcde2feea86e5fd0a7f986]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2009/3105) revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-f9e432f926bcde2feea86e5fd0a7f986]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2009/3105) revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

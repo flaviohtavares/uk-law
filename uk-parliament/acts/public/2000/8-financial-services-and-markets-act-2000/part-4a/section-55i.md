@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55I. Variation by PRA at request of authorised person[^key-b03507c0a7312de4f2bd96a84be18317]
+## 55I. Variation by PRA at request of authorised person[^c-b03507c0a7312de4f2bd96a84be18317]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,11 +26,11 @@ summary: ''
 - (b) removing a regulated activity from those to which the permission relates;
 - (c) varying the description of a regulated activity to which the permission relates
 
-but the PRA may not under this subsection add, remove or vary the description of the regulated activity specified in article 63S of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (administering a benchmark).[^key-dd0c86d217bc04b4153c228517d96c4e]
+but the PRA may not under this subsection add, remove or vary the description of the regulated activity specified in article 63S of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (administering a benchmark).[^c-dd0c86d217bc04b4153c228517d96c4e]
 
-(2) On the application of a PRA-authorised person with a Part 4A permission, the PRA may, after consulting the FCA, cancel the permission , but the PRA may not under this subsection cancel a permission where the only regulated activity to which the permission relates is the regulated activity in article 63S of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (administering a benchmark)[^key-d3e8987f3c6061dca8f6f578e0d841dd].
+(2) On the application of a PRA-authorised person with a Part 4A permission, the PRA may, after consulting the FCA, cancel the permission , but the PRA may not under this subsection cancel a permission where the only regulated activity to which the permission relates is the regulated activity in article 63S of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (administering a benchmark)[^c-d3e8987f3c6061dca8f6f578e0d841dd].
 
-(3) On the application of an authorised person other than a PRA-authorised person, the PRA may with the consent of the FCA vary the permission by adding to the regulated activities to which the permission relates one or more regulated activities which include a PRA-regulated activity , but the PRA may not under this subsection add the regulated activity specified in article 63S of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (administering a benchmark)[^key-62195b1ccdc33dc32f5e3b65890107ff].
+(3) On the application of an authorised person other than a PRA-authorised person, the PRA may with the consent of the FCA vary the permission by adding to the regulated activities to which the permission relates one or more regulated activities which include a PRA-regulated activity , but the PRA may not under this subsection add the regulated activity specified in article 63S of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (administering a benchmark)[^c-62195b1ccdc33dc32f5e3b65890107ff].
 
 (4) The PRA may refuse an application under this section if it appears to it that it is desirable to do so in order to advance any of its objectives.
 
@@ -44,10 +44,10 @@ but the PRA may not under this subsection add, remove or vary the description of
 
 ## Annotations
 
-[^key-b03507c0a7312de4f2bd96a84be18317]: Textual amendment: Pt. 4A substituted for ss. 40-55 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/11/2), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-b03507c0a7312de4f2bd96a84be18317]: Textual amendment: Pt. 4A substituted for ss. 40-55 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/11/2), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-dd0c86d217bc04b4153c228517d96c4e]: Textual amendment: Words in s. 55I(1) inserted (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [40(6)(a)](https://www.legislation.gov.uk/uksi/2018/135/regulation/40/6/a)
+[^c-dd0c86d217bc04b4153c228517d96c4e]: Textual amendment: Words in s. 55I(1) inserted (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [40(6)(a)](https://www.legislation.gov.uk/uksi/2018/135/regulation/40/6/a)
 
-[^key-d3e8987f3c6061dca8f6f578e0d841dd]: Textual amendment: Words in s. 55I(2) inserted (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [40(6)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/40/6/b)
+[^c-d3e8987f3c6061dca8f6f578e0d841dd]: Textual amendment: Words in s. 55I(2) inserted (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [40(6)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/40/6/b)
 
-[^key-62195b1ccdc33dc32f5e3b65890107ff]: Textual amendment: Words in s. 55I(3) inserted (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [40(6)(c)](https://www.legislation.gov.uk/uksi/2018/135/regulation/40/6/c)
+[^c-62195b1ccdc33dc32f5e3b65890107ff]: Textual amendment: Words in s. 55I(3) inserted (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [40(6)(c)](https://www.legislation.gov.uk/uksi/2018/135/regulation/40/6/c)

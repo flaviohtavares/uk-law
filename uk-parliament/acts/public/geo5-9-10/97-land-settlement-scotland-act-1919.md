@@ -37,23 +37,23 @@ An Act to make further provision for the acquisition of land for the purposes of
 
 ### 1. Compulsory acquisition of land for purposes of the Small Holding Colonies Acts, 1916 and 1918.
 
-(1)[^key-02e32ac12ec089858f0a00959bab3431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-02e32ac12ec089858f0a00959bab3431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-02e32ac12ec089858f0a00959bab3431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-02e32ac12ec089858f0a00959bab3431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Board shall, in addition to the powers conferred on them by the said Acts, have in relation to all land acquired by them thereunder, whether before or after the passing of this act and wherever situated, and in relation to the tenants and small landholders occupying such land, the like powers which they possess in relation to land acquired under the [^c581438]Congested Districts (Scotland) Act, 1897, and in relation to the landholders, cottars and fishermen in that Act mentioned.
 
 ### 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c581439]
 
-### 3. Provisions as to compulsory acquisition of land, and entry on land to be acquired.[^key-af8ae0c40f975759e5836373fccfe137]
+### 3. Provisions as to compulsory acquisition of land, and entry on land to be acquired.[^c-af8ae0c40f975759e5836373fccfe137]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 4. Power to contract to pay feu duty, &c.
 
-Where, under the *(Extent: S)* *(affected by repeal, see note)*[^key-946cb4d5e7be262d6092b3e537b2f8a4] [^c581441]Small Holding Colonies Acts, 1916 and *(Extent: S)* *(affected by repeal, see note)*[^key-946cb4d5e7be262d6092b3e537b2f8a4] [^c581442]1918, the Board has power to purchase land in consideration of a feu duty, ground annual, or other annual payment, the Board shall have power and shall be deemed always to have had power to contract to pay the feu duty, ground annual, or other annual payment as and when it becomes due. *(Extent: S)* *(affected by repeal, see note)*[^key-946cb4d5e7be262d6092b3e537b2f8a4]
+Where, under the *(Extent: S)* *(affected by repeal, see note)*[^c-946cb4d5e7be262d6092b3e537b2f8a4] [^c581441]Small Holding Colonies Acts, 1916 and *(Extent: S)* *(affected by repeal, see note)*[^c-946cb4d5e7be262d6092b3e537b2f8a4] [^c581442]1918, the Board has power to purchase land in consideration of a feu duty, ground annual, or other annual payment, the Board shall have power and shall be deemed always to have had power to contract to pay the feu duty, ground annual, or other annual payment as and when it becomes due. *(Extent: S)* *(affected by repeal, see note)*[^c-946cb4d5e7be262d6092b3e537b2f8a4]
 
-### 5. Compensation to labourers.[^key-2de29877849f767ee1bdd34ab736687b]
+### 5. Compensation to labourers.[^c-2de29877849f767ee1bdd34ab736687b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -67,19 +67,19 @@ Where, under the *(Extent: S)* *(affected by repeal, see note)*[^key-946cb4d5e7b
 
 (4)[^c581447] The value of the holding shall, in default of agreement, be determined by the Scottish Land Court.
 
-(5)[^key-afaebd3b74b40269023ee9c6525cd0ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-afaebd3b74b40269023ee9c6525cd0ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6)[^c581452] Subsections (3) and (4) above shall not apply to crofts as defined in section 3 of the Crofters Scotland Act 1955.
 
 ### 7. Powers of Board with respect to land acquired.
 
-Without prejudice to any other power conferred on the Board by the [^c581453]Congested Districts (Scotland) Act, 1897 [^key-e21ae053d32dc4cef1d49727034024f4]... the Board shall have power in any case where in their opinion it is necessary or expedient so to do for the better carrying into effect the purposes of those Acts or of this Act—
+Without prejudice to any other power conferred on the Board by the [^c581453]Congested Districts (Scotland) Act, 1897 [^c-e21ae053d32dc4cef1d49727034024f4]... the Board shall have power in any case where in their opinion it is necessary or expedient so to do for the better carrying into effect the purposes of those Acts or of this Act—
 
 - (a) to erect, repair, or improve dwelling-houses and other buildings on any land acquired by the Board, or to execute any other improvement on or in connection with and for the benefit of any such land, or to arrange with the tenant or holder of any such land for the execution of any such improvement on such terms as may be agreed:
 - (b) to sell, excamb, or let any such land or any right or interest therein: and
 - (c) generally to manage any such land.
 
-### 8. Power of entry to inspect land.[^key-c3c5c3ec2ba6f533b464fa2e323685b9]
+### 8. Power of entry to inspect land.[^c-c3c5c3ec2ba6f533b464fa2e323685b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -155,7 +155,7 @@ For subsection (5) of section twenty-four of the Act of 1911 shall be substitute
 
 ### 15. As to land within burgh in crofting counties.
 
-Notwithstanding anything contained in paragraph (*c*) of subsection (3) of section twenty-six of the Act of 1911, or in the reference to that paragraph in subsection (4) of the said section, a person shall be admissible to registration as a new holder under the Act of 1911 in respect of land within the parliamentary [^key-93edde103a969dd7e395ded88d9d6512]... boundary of any burgh [^key-93edde103a969dd7e395ded88d9d6512]... situate in the counties of Argyll, Inverness, Ross and Cromarty, Sutherland, Caithness, and Orkney and Shetland.
+Notwithstanding anything contained in paragraph (*c*) of subsection (3) of section twenty-six of the Act of 1911, or in the reference to that paragraph in subsection (4) of the said section, a person shall be admissible to registration as a new holder under the Act of 1911 in respect of land within the parliamentary [^c-93edde103a969dd7e395ded88d9d6512]... boundary of any burgh [^c-93edde103a969dd7e395ded88d9d6512]... situate in the counties of Argyll, Inverness, Ross and Cromarty, Sutherland, Caithness, and Orkney and Shetland.
 
 ### 16. Power to make advances to land banks, &c.[^c581465]
 
@@ -165,41 +165,41 @@ In addition to the purposes mentioned in section six of the Act of 1911, the Boa
 
 The amendments specified in the second column of the Second Schedule to this Act (which relate to consequential and minor matters) shall be made in the provisions of the Act of 1911 mentioned in the first column of that schedule.
 
-## Part III — Allotments[^key-b7ebef325057688d28e061a7bfe6e6af]
+## Part III — Allotments[^c-b7ebef325057688d28e061a7bfe6e6af]
 
 **No longer in force.**
 
-### 18. Powers relating to allotments.[^key-b7ebef325057688d28e061a7bfe6e6af]
+### 18. Powers relating to allotments.[^c-b7ebef325057688d28e061a7bfe6e6af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-b7ebef325057688d28e061a7bfe6e6af]
+### 19. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-b7ebef325057688d28e061a7bfe6e6af]
 
-### 20.[^key-b7ebef325057688d28e061a7bfe6e6af]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 21. Temporary use for allotments of land acquired for other purposes.[^key-b7ebef325057688d28e061a7bfe6e6af]
+### 20.[^c-b7ebef325057688d28e061a7bfe6e6af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Provisions as to allotments.[^key-b7ebef325057688d28e061a7bfe6e6af]
+### 21. Temporary use for allotments of land acquired for other purposes.[^c-b7ebef325057688d28e061a7bfe6e6af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Consequential and minor amendments of Act of 1892.[^key-b7ebef325057688d28e061a7bfe6e6af]
+### 22. Provisions as to allotments.[^c-b7ebef325057688d28e061a7bfe6e6af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Interpretation.[^key-b7ebef325057688d28e061a7bfe6e6af]
+### 23. Consequential and minor amendments of Act of 1892.[^c-b7ebef325057688d28e061a7bfe6e6af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-b7ebef325057688d28e061a7bfe6e6af]
+### 24. Interpretation.[^c-b7ebef325057688d28e061a7bfe6e6af]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-b7ebef325057688d28e061a7bfe6e6af]
 
 ## Part IV — Financial
 
-### 26. Loans to Board.[^key-d8c31125dc9d74962af5e701f496e39d]
+### 26. Loans to Board.[^c-d8c31125dc9d74962af5e701f496e39d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -223,27 +223,27 @@ The amendments specified in the second column of the Second Schedule to this Act
 
 This Act may be cited as the Land Settlement (Scotland) Act, 1919, and the Small Landholders (Scotland) Acts, 1886 to 1911, and so much of this Act as amends the Act of 1911 may be cited together as the Small Landholders (Scotland) Acts, 1886 to 1919.
 
-## FIRST SCHEDULE — Provisions as to the Compulsory Acquisition of Land[^key-eb2ca8b90403d11a6140e7f839622475]
+## FIRST SCHEDULE — Provisions as to the Compulsory Acquisition of Land[^c-eb2ca8b90403d11a6140e7f839622475]
 
 **No longer in force.**
 
 Sections 3 and 20.
 
-**1)**[^key-eb2ca8b90403d11a6140e7f839622475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1)**[^c-eb2ca8b90403d11a6140e7f839622475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2)**[^key-eb2ca8b90403d11a6140e7f839622475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2)**[^c-eb2ca8b90403d11a6140e7f839622475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3)**[^key-eb2ca8b90403d11a6140e7f839622475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3)**[^c-eb2ca8b90403d11a6140e7f839622475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4)**[^key-eb2ca8b90403d11a6140e7f839622475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4)**[^c-eb2ca8b90403d11a6140e7f839622475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5)**[^key-eb2ca8b90403d11a6140e7f839622475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5)**[^c-eb2ca8b90403d11a6140e7f839622475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6)**[^key-eb2ca8b90403d11a6140e7f839622475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6)**[^c-eb2ca8b90403d11a6140e7f839622475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7)**[^key-eb2ca8b90403d11a6140e7f839622475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7)**[^c-eb2ca8b90403d11a6140e7f839622475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8)**[^key-eb2ca8b90403d11a6140e7f839622475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8)**[^c-eb2ca8b90403d11a6140e7f839622475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SECOND SCHEDULE — Minor and Consequential Amendments of the Act of 1911.[^c581511]
 
@@ -289,21 +289,21 @@ Section 23.
 
 [^c581432]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/part/I) applied by [Agriculture (Scotland) Act 1948 (c. 45)](https://www.legislation.gov.uk/ukpga/1948/45), [s. 64](https://www.legislation.gov.uk/ukpga/1948/45/section/64)
 
-[^key-02e32ac12ec089858f0a00959bab3431]: Textual amendment: [S. 1(1)](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/1/1)[(2)](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/1/2) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-02e32ac12ec089858f0a00959bab3431]: Textual amendment: [S. 1(1)](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/1/1)[(2)](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/1/2) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c581438]: Marginal citation: [1897 c. 53](https://www.legislation.gov.uk/ukpga/1897/53).
 
 [^c581439]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/2) repealed by [Statute Law Revision Act 1950 (14 Geo. 6 c. 6)](https://www.legislation.gov.uk/ukpga/Geo6/14/6)
 
-[^key-af8ae0c40f975759e5836373fccfe137]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/3) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-af8ae0c40f975759e5836373fccfe137]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/3) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
-[^key-946cb4d5e7be262d6092b3e537b2f8a4]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/4) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pts. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-946cb4d5e7be262d6092b3e537b2f8a4]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/4) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pts. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c581441]: Marginal citation: [1916 c. 38](https://www.legislation.gov.uk/ukpga/1916/38).
 
 [^c581442]: Marginal citation: [1918 c. 26](https://www.legislation.gov.uk/ukpga/1918/26).
 
-[^key-2de29877849f767ee1bdd34ab736687b]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/5) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-2de29877849f767ee1bdd34ab736687b]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/5) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c581447]: Modification: [S. 6(3)(4)](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/6/3/4) modified (S.) (6.6.1997) by [1997 c. 26](https://www.legislation.gov.uk/ukpga/1997/26), [s. 6(1)](https://www.legislation.gov.uk/ukpga/1997/26/section/6/1); [S.I. 1997/1430](https://www.legislation.gov.uk/uksi/1997/1430), [art. 1](https://www.legislation.gov.uk/uksi/1997/1430/article/1).
 
@@ -313,15 +313,15 @@ Section 23.
 
 [^c581450]: Textual amendment: Words substituted by S.R. & O. 1939/782 (Rev. XV, p. 172: 1939 II, p. 2933)
 
-[^key-afaebd3b74b40269023ee9c6525cd0ca]: Textual amendment: [S. 6(5)](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/6/5) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-afaebd3b74b40269023ee9c6525cd0ca]: Textual amendment: [S. 6(5)](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/6/5) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c581452]: Textual amendment: [S. 6(6)](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/6/6) added by [Crofting Reform (Scotland) Act 1976 (c. 21, SIF 2:4)](https://www.legislation.gov.uk/ukpga/1976/21), [s. 22(1)](https://www.legislation.gov.uk/ukpga/1976/21/section/22/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1976/21/schedule/2/paragraph/2)
 
 [^c581453]: Marginal citation: [1897 c. 53](https://www.legislation.gov.uk/ukpga/1897/53).
 
-[^key-e21ae053d32dc4cef1d49727034024f4]: Textual amendment: Words in s. 7 repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-e21ae053d32dc4cef1d49727034024f4]: Textual amendment: Words in s. 7 repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
-[^key-c3c5c3ec2ba6f533b464fa2e323685b9]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/8) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-c3c5c3ec2ba6f533b464fa2e323685b9]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/8) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c581457]: Modification: The text of Ss. 9, 11, 12, 14 and 17 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -337,7 +337,7 @@ Section 23.
 
 [^c581463]: Modification: The text of Ss. 9, 11, 12, 14 and 17 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-93edde103a969dd7e395ded88d9d6512]: Textual amendment: Words in [s. 15](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/15) omitted (S.) (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/3)
+[^c-93edde103a969dd7e395ded88d9d6512]: Textual amendment: Words in [s. 15](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/15) omitted (S.) (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/3)
 
 [^c581465]: Modification: [S. 16](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/16) extended by [Small Landholders and Agricultural Holdings (Scotland) Act 1931 (c. 44)](https://www.legislation.gov.uk/ukpga/1931/44), [s. 20](https://www.legislation.gov.uk/ukpga/1931/44/section/20)
 
@@ -345,9 +345,9 @@ Section 23.
 
 [^c581467]: Modification: The text of Ss. 9, 11, 12, 14 and 17 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-b7ebef325057688d28e061a7bfe6e6af]: Textual amendment: Pt. 3 repealed (S.) (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2017/458/article/6))
+[^c-b7ebef325057688d28e061a7bfe6e6af]: Textual amendment: Pt. 3 repealed (S.) (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2017/458/article/6))
 
-[^key-d8c31125dc9d74962af5e701f496e39d]: Textual amendment: S. 26 repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-d8c31125dc9d74962af5e701f496e39d]: Textual amendment: S. 26 repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c581493]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/27) repealed by [Statute Law Revision Act 1950 (14 Geo. 6 c. 6)](https://www.legislation.gov.uk/ukpga/Geo6/14/6)
 
@@ -363,7 +363,7 @@ Section 23.
 
 [^c581499]: Textual amendment: [Ss. 28](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/section/28)—30, 32 repealed by [Statute Law Revision Act 1927 (c. 42)](https://www.legislation.gov.uk/ukpga/1927/42)
 
-[^key-eb2ca8b90403d11a6140e7f839622475]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/schedule/FIRST) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-eb2ca8b90403d11a6140e7f839622475]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/Geo5/9-10/97/schedule/FIRST) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c581511]: Modification: The text of Sch. 2 and 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

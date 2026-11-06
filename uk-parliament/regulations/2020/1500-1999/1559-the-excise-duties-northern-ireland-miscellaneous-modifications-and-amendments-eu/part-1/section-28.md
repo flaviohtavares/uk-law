@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**28.**[^key-1db401bac8385de72197b010471dd3cb] Before regulation 30 in the heading “PART 4 UK Registered consignors” for “UK” substitute “NI”.
+**28.**[^c-1db401bac8385de72197b010471dd3cb] Before regulation 30 in the heading “PART 4 UK Registered consignors” for “UK” substitute “NI”.
 
 ## Annotations
 
-[^key-1db401bac8385de72197b010471dd3cb]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-1db401bac8385de72197b010471dd3cb]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

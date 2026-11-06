@@ -22,7 +22,7 @@ summary: ''
 
 Section 188
 
-### 1. [Police and Criminal Evidence Act 1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60)[^key-10464f0c510817c07590f4eb196f6751]
+### 1. [Police and Criminal Evidence Act 1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60)[^c-10464f0c510817c07590f4eb196f6751]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ Section 188
 
 (4) In section 118(2)(a), after “section 41” insert “or 43B”.
 
-### 2. [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16)[^key-5ea22cfc0a2c9f4eec86a3e4865152f2]
+### 2. [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16)[^c-5ea22cfc0a2c9f4eec86a3e4865152f2]
 
 (1) Schedule 1 to the Criminal Justice and Police Act 2001 is amended as follows.
 
@@ -46,7 +46,7 @@ Section 188
 
 > **82B.** The power of seizure conferred by section 43E(2) of the Terrorism Act 2000 (seizure on the occasion of a search necessary for purposes connected with protecting members of the public from a risk of terrorism).
 
-### 3. [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28)[^key-5c3aa118a1a0220347e64517ee96ec19]
+### 3. [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28)[^c-5c3aa118a1a0220347e64517ee96ec19]
 
 In section 1(1) of the Counter-Terrorism Act 2008, after paragraph (bb) insert—
 
@@ -56,7 +56,7 @@ In section 1(1) of the Counter-Terrorism Act 2008, after paragraph (bb) insert�
 
 .
 
-### 4. Police and Criminal Evidence (Northern Ireland) Order 1989 ([S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341))[^key-25583cccf2d60bc60a955014e395e845]
+### 4. Police and Criminal Evidence (Northern Ireland) Order 1989 ([S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341))[^c-25583cccf2d60bc60a955014e395e845]
 
 *Extent: N.I.*
 
@@ -69,7 +69,7 @@ In section 1(1) of the Counter-Terrorism Act 2008, after paragraph (bb) insert�
 
 (3) In Article 51(b), after “section 41” insert “or 43B”.
 
-### 5. Criminal Justice (Scotland) Act [2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1)[^key-1692ea7e3aa93f1ea70bac95883250b4]
+### 5. Criminal Justice (Scotland) Act [2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1)[^c-1692ea7e3aa93f1ea70bac95883250b4]
 
 *Extent: S*
 
@@ -80,12 +80,12 @@ In section 59 of the Criminal Justice (Scotland) Act 2016—
 
 ## Annotations
 
-[^key-10464f0c510817c07590f4eb196f6751]: Commencement: [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/19/paragraph/1) in force at 28.6.2022, see [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)
+[^c-10464f0c510817c07590f4eb196f6751]: Commencement: [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/19/paragraph/1) in force at 28.6.2022, see [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)
 
-[^key-5ea22cfc0a2c9f4eec86a3e4865152f2]: Commencement: [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/19/paragraph/2) in force at 28.6.2022, see [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)
+[^c-5ea22cfc0a2c9f4eec86a3e4865152f2]: Commencement: [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/19/paragraph/2) in force at 28.6.2022, see [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)
 
-[^key-5c3aa118a1a0220347e64517ee96ec19]: Commencement: [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/19/paragraph/3) in force at 28.6.2022, see [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)
+[^c-5c3aa118a1a0220347e64517ee96ec19]: Commencement: [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/19/paragraph/3) in force at 28.6.2022, see [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)
 
-[^key-25583cccf2d60bc60a955014e395e845]: Commencement: [Sch. 19 para. 4](https://www.legislation.gov.uk/ukpga/2022/32/schedule/19/paragraph/4) in force at 28.6.2022, see [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)
+[^c-25583cccf2d60bc60a955014e395e845]: Commencement: [Sch. 19 para. 4](https://www.legislation.gov.uk/ukpga/2022/32/schedule/19/paragraph/4) in force at 28.6.2022, see [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)
 
-[^key-1692ea7e3aa93f1ea70bac95883250b4]: Commencement: [Sch. 19 para. 5](https://www.legislation.gov.uk/ukpga/2022/32/schedule/19/paragraph/5) in force at 28.6.2022, see [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)
+[^c-1692ea7e3aa93f1ea70bac95883250b4]: Commencement: [Sch. 19 para. 5](https://www.legislation.gov.uk/ukpga/2022/32/schedule/19/paragraph/5) in force at 28.6.2022, see [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)

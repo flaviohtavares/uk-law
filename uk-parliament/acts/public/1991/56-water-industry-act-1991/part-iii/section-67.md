@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Standards of wholesomeness.[^c13218411][^c20595231][^key-d04b9dc14e799c86e65e1dfbc5699153]
+## 67. Standards of wholesomeness.[^c13218411][^c20595231][^c-d04b9dc14e799c86e65e1dfbc5699153]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c20595231]: Modification: S. 67 applied by [S.I. 2000/2531](https://www.legislation.gov.uk/uksi/2000/2531), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/2531/regulation/2/2/c) (as inserted (1.10.2009) by [The Building and Approved Inspectors (Amendment) Regulations 2009 (S.I. 2009/1219)](https://www.legislation.gov.uk/uksi/2009/1219), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2009/1219/regulation/2/2/b))
 
-[^key-d04b9dc14e799c86e65e1dfbc5699153]: Modification: S. 67 applied (1.10.2010) by [The Building Regulations 2010 (S.I. 2010/2214)](https://www.legislation.gov.uk/uksi/2010/2214), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2214/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/2/5) (with [reg. 9](https://www.legislation.gov.uk/uksi/2010/2214/regulation/9))
+[^c-d04b9dc14e799c86e65e1dfbc5699153]: Modification: S. 67 applied (1.10.2010) by [The Building Regulations 2010 (S.I. 2010/2214)](https://www.legislation.gov.uk/uksi/2010/2214), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2214/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/2/5) (with [reg. 9](https://www.legislation.gov.uk/uksi/2010/2214/regulation/9))

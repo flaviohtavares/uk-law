@@ -44,17 +44,17 @@ In accordance with section 132 of the Social Security Administration (Northern I
 
 The Department of Finance now makes the following Order in exercise of the powers conferred by Article 69(1), (2), (5) and (5ZA) of the Social Security Pensions (Northern Ireland) Order 1975[^f00004] and now vested in it[^f00005].
 
-## 1. Citation and commencement[^key-8331850a9efa8c96def9f7d1138a5059]
+## 1. Citation and commencement[^c-8331850a9efa8c96def9f7d1138a5059]
 
 This Order may be cited as the Pensions Increase (Review) Order (Northern Ireland) 2024 and shall come into operation on 8th April 2024.
 
-## 2. Interpretation[^key-727d63b98da3654e400ec27c22e83da4]
+## 2. Interpretation[^c-727d63b98da3654e400ec27c22e83da4]
 
 (1) In this Order, “**the 1975 Order**” means the Social Security Pensions (Northern Ireland) Order 1975.
 
 (2) In this Order, any reference to a pension is a reference to a pension which began before 8th April 2024[^f00006].
 
-## 3. Pension increases: annual rate and lump sums[^key-b12818a7058df3c58d472eb119291ab6]
+## 3. Pension increases: annual rate and lump sums[^c-b12818a7058df3c58d472eb119291ab6]
 
 (1) This article applies to an official pension if—
 
@@ -79,7 +79,7 @@ This Order may be cited as the Pensions Increase (Review) Order (Northern Irelan
 
 where A is the number of complete months in the period between the beginning date of the lump sum (or, if later, 10th April 2023) and the date on which it becomes payable.
 
-## 4. Reductions in respect of guaranteed minimum pensions[^key-17e6311ef3458461a64cbc22ba25b429]
+## 4. Reductions in respect of guaranteed minimum pensions[^c-17e6311ef3458461a64cbc22ba25b429]
 
 (1) Where—
 
@@ -148,17 +148,17 @@ The Order also makes provision for the amount by reference to which any increase
 
 [^f00005]: Footnote: By [S.R. 1976 No. 281](https://www.legislation.gov.uk/nisr/1976/281) Art. 3 and Sch. 1, [S.I. 1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Art 3 and 4, and [2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5).
 
-[^key-8331850a9efa8c96def9f7d1138a5059]: Commencement: Art. 1 in operation at 8.4.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/77/article/1)
+[^c-8331850a9efa8c96def9f7d1138a5059]: Commencement: Art. 1 in operation at 8.4.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/77/article/1)
 
-[^key-727d63b98da3654e400ec27c22e83da4]: Commencement: Art. 2 in operation at 8.4.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/77/article/1)
+[^c-727d63b98da3654e400ec27c22e83da4]: Commencement: Art. 2 in operation at 8.4.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/77/article/1)
 
 [^f00006]: Footnote: By virtue of article 69(7) of the Social Security Pensions (Northern Ireland) Order [1975 (c.15)](https://www.legislation.gov.uk/ukpga/1975/15), sections 69 and 69A of that Order have effect as if they were contained in Part 1 of the Pensions (Increase) Act (Northern Ireland) [1971 (c.35(NI))](https://www.legislation.gov.uk/nia/1971/35). Consequently, for the purposes of section 33 of the Interpretation Act (Northern Ireland) [1954 (c. 33)(NI)](https://www.legislation.gov.uk/apni/1954/33) the following expressions used in this Order have the meaning which they bear in section 69 of the Social Security Pensions (Northern Ireland) Order1975 and the Pensions (Increase) Act (Northern Ireland) 1971: “beginning date”, “complete months”, “derivative pension”, “employment”, “guaranteed minimum pension”, “lump sum”, “official pension”, “pension authority”, “qualifying condition”, “relevant injury pension”, “substituted pension” and “transfer credit”. Section 8(2) of the Pensions (Increase) Act (Northern Ireland) 1971 also makes provision about when a pension begins for the purposes of that Act. Section 8(2) was amended by section 3(5) of the Pensions (Miscellaneous Provisions) (Northern Ireland) Order 1990 (N.I. 13) and by the Welfare Reform and Pensions (Northern Ireland) Order 1999 (N.I. 11), section 36(1) and (3)(b)&(c). Section 8 was also amended by the Public Service Pensions Act (Northern Ireland) [2014 (c.2)](https://www.legislation.gov.uk/ukpga/2014/2), Schedule 8, paragraph 2 (which inserted section 8A).
 
-[^key-b12818a7058df3c58d472eb119291ab6]: Commencement: Art. 3 in operation at 8.4.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/77/article/1)
+[^c-b12818a7058df3c58d472eb119291ab6]: Commencement: Art. 3 in operation at 8.4.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/77/article/1)
 
 [^f00007]: Footnote: Section 69(5) of the Social Security Pensions (Northern Ireland) Order 1975 provides that the increases in the rate of a pension are to be calculated by reference to the basic rate of the pension as authorised to be increased by section 1 of the Pensions (Increase) Act (Northern Ireland) 1971 or by any order under section 2 of that Act or section 69 of the Social Security Pensions (Northern Ireland) Order 1975.
 
-[^key-17e6311ef3458461a64cbc22ba25b429]: Commencement: Art. 4 in operation at 8.4.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/77/article/1)
+[^c-17e6311ef3458461a64cbc22ba25b429]: Commencement: Art. 4 in operation at 8.4.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/77/article/1)
 
 [^f00008]: Footnote: Inserted by [S.I. 1979/396 (N.I. 5)](https://www.legislation.gov.uk/nisi/1979/396) Art. 10 and amended by [S.I. 1986/1888 (N.I. 18)](https://www.legislation.gov.uk/nisi/1986/1888) Art. 11(9) and [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49) section 184 and paragraph 15(2) of sch. 7.
 

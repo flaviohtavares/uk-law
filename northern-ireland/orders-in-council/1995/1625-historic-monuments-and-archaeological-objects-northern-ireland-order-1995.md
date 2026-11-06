@@ -26,7 +26,7 @@ summary: ''
 
 1995 No. 1625 (N.I. 9)
 
-Historic Monuments and Archaeological Objects (Northern Ireland) Order 1995[^key-2d6d33f5f7000e43a48e0635daf7163a]
+Historic Monuments and Archaeological Objects (Northern Ireland) Order 1995[^c-2d6d33f5f7000e43a48e0635daf7163a]
 
 28th June 1995
 
@@ -60,7 +60,7 @@ Historic Monuments and Archaeological Objects (Northern Ireland) Order 1995[^key
 - “scheduled monument” has the meaning given by Article 3(2) and references to “scheduled monument consent” shall be construed in accordance with Articles 4(3) and 5(5);
 - [^c5482301]“statutory provision” has the meaning given to it by section 1(f) of the Interpretation Act (Northern Ireland) 1954;
 - “tipping operations” means tipping soil or spoil or depositing building or other materials or matter (including waste materials or refuse) on any land; and
-- “works” includes operations of any description and, in particular (but without prejudice to the generality of the preceding provision) flooding or tipping operations and any operations undertaken for purposes of agriculture (within the meaning of the Planning Act (Northern Ireland) 2011[^key-2d4b2309362635aa5863cab960ea8206]) or forestry (including afforestation).
+- “works” includes operations of any description and, in particular (but without prejudice to the generality of the preceding provision) flooding or tipping operations and any operations undertaken for purposes of agriculture (within the meaning of the Planning Act (Northern Ireland) 2011[^c-2d4b2309362635aa5863cab960ea8206]) or forestry (including afforestation).
 
 (3) For the purposes of this Order “archaeological investigation” means any investigation of any land, objects or other material for the purpose of obtaining and recording any information of archaeological or historical interest and (without prejudice to the generality of the preceding provision) includes in the case of an archaeological investigation of any land—
 
@@ -259,7 +259,7 @@ For the purposes of sub-paragraph (c), any use in contravention of any legal res
 
 (7) Section 33[^c5482351] of the Land Development Values (Compensation) Act (Northern Ireland) 1965[^c5482371] shall, subject to any necessary modifications, have effect in relation to any compensation payable under this Article in respect of any loss or damage consisting of depreciation of the value of an estate in land as it has effect in relation to compensation payable under Part III of that Act.
 
-(8) In this Article “development” and “planning permission” have the same meanings as in the Planning Act (Northern Ireland) 2011[^key-7108dcef42aa829f8639ded91375ef39] and “general development order” means an order made as mentioned in section 32(3)(a) of that Act[^key-f33cadc721079e96f035fd888533b1ad].
+(8) In this Article “development” and “planning permission” have the same meanings as in the Planning Act (Northern Ireland) 2011[^c-7108dcef42aa829f8639ded91375ef39] and “general development order” means an order made as mentioned in section 32(3)(a) of that Act[^c-f33cadc721079e96f035fd888533b1ad].
 
 #### 10. Recovery of compensation under Article 9 on subsequent grant of consent
 
@@ -981,13 +981,13 @@ Article 13(3).
 
 ## Annotations
 
-[^key-2d6d33f5f7000e43a48e0635daf7163a]: Modification: [Order](https://www.legislation.gov.uk/nisi/1995/1625): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-2d6d33f5f7000e43a48e0635daf7163a]: Modification: [Order](https://www.legislation.gov.uk/nisi/1995/1625): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c5482291]: Textual amendment: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
 [^c5482301]: Textual amendment: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-2d4b2309362635aa5863cab960ea8206]: Textual amendment: Words in art. 2(2) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 72](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/72) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^c-2d4b2309362635aa5863cab960ea8206]: Textual amendment: Words in art. 2(2) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 72](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/72) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
 
 [^c5482321]: Textual amendment: [1973 c. 33](https://www.legislation.gov.uk/ukpga/1973/33)
 
@@ -999,9 +999,9 @@ Article 13(3).
 
 [^c5482371]: Textual amendment: [1965 c. 23 (N.I.)](https://www.legislation.gov.uk/apni/1965/23)
 
-[^key-7108dcef42aa829f8639ded91375ef39]: Textual amendment: Words in art. 9(8) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 73(a)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/73/a) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^c-7108dcef42aa829f8639ded91375ef39]: Textual amendment: Words in art. 9(8) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 73(a)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/73/a) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
 
-[^key-f33cadc721079e96f035fd888533b1ad]: Textual amendment: Words in art. 9(8) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 73(b)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/73/b) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^c-f33cadc721079e96f035fd888533b1ad]: Textual amendment: Words in art. 9(8) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 73(b)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/73/b) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
 
 [^c5482411]: Textual amendment: [2001 c. 2 (NI)](https://www.legislation.gov.uk/nia/2001/2)
 

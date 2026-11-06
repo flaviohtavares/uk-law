@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Amendment of tampering offence[^key-349a817073d625a9d9d99c211306e2ad][^key-6d74b79dad1ab36d5c739ec49595034d]
+## 55. Amendment of tampering offence[^c-349a817073d625a9d9d99c211306e2ad][^c-6d74b79dad1ab36d5c739ec49595034d]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ In section 25 of the Road Traffic Act 1988 (tampering with motor vehicles)—
 
 ## Annotations
 
-[^key-349a817073d625a9d9d99c211306e2ad]: Commencement: S. 55 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-349a817073d625a9d9d99c211306e2ad]: Commencement: S. 55 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-6d74b79dad1ab36d5c739ec49595034d]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2024/10/section/55) in force at 1.1.2026 by [S.I. 2025/1339](https://www.legislation.gov.uk/uksi/2025/1339), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2025/1339/regulation/2/1/a)
+[^c-6d74b79dad1ab36d5c739ec49595034d]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2024/10/section/55) in force at 1.1.2026 by [S.I. 2025/1339](https://www.legislation.gov.uk/uksi/2025/1339), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2025/1339/regulation/2/1/a)

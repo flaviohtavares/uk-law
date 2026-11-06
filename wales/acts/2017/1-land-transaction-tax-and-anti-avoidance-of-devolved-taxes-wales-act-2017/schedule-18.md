@@ -24,10 +24,10 @@ summary: ''
 
 ### Overview
 
-**1.**[^key-ba83a3155ae4c6c1e20e14f5ddfb6e9d] This Schedule is arranged as follows—
+**1.**[^c-ba83a3155ae4c6c1e20e14f5ddfb6e9d] This Schedule is arranged as follows—
 
 - (a) paragraph 2 defines key terms,
-- (aa)[^key-20cfe0134215a9b5a4e45a0a091ece71] paragraphs 2A to 2D make provision about the meaning of “charity”,
+- (aa)[^c-20cfe0134215a9b5a4e45a0a091ece71] paragraphs 2A to 2D make provision about the meaning of “charity”,
 - (b) paragraph 3 describes the relief available to a charity that is a buyer in a land transaction and the circumstances in which it is available,
 - (c) paragraph 4 describes the circumstances where that relief is withdrawn,
 - (d) paragraph 5 describes the relief available where a charity does not qualify for relief under paragraph 3 but meets other criteria, and makes provision about the circumstances where such relief is withdrawn,
@@ -38,7 +38,7 @@ summary: ''
 
 ### Key terms
 
-**2.**[^key-2dfe3290f56cd6a776e179c420fc6f14] (1) In this Schedule, a charity (““C””) which is a buyer in a land transaction is a ““qualifying charity””—
+**2.**[^c-2dfe3290f56cd6a776e179c420fc6f14] (1) In this Schedule, a charity (““C””) which is a buyer in a land transaction is a ““qualifying charity””—
 
 - (a) for the purposes of paragraphs 3, 4 and 5, if C intends to hold the whole of the subject-matter of the transaction for qualifying charitable purposes;
 - (b) for the purposes of paragraphs 6, 7 and 8, if C intends to hold the whole of its undivided share of the subject-matter of the transaction for qualifying charitable purposes.
@@ -50,7 +50,7 @@ summary: ''
 
 (3) In this Schedule—
 
-- (a) “**"charity”**” has the meaning given by paragraph 2A[^key-bf9badd2900585cc235acbb4fe783b08], and
+- (a) “**"charity”**” has the meaning given by paragraph 2A[^c-bf9badd2900585cc235acbb4fe783b08], and
 - (b) “**"charitable purpose”**” has the meaning given by section 2 of the Charities Act 2011 (c. 25).
 
 (4) In this Schedule, in relation to C which is a buyer in a land transaction, a ““disqualifying event”” occurs when—
@@ -58,7 +58,7 @@ summary: ''
 - (a) C ceases to be established for charitable purposes only, or
 - (b) the whole or any part of the subject-matter of the transaction relieved from tax under this Schedule, or any interest or right derived from it, is used or held by C otherwise than for qualifying charitable purposes.
 
-### Meaning of “charity”[^key-4962ef133a39f2f4e52cd7e81ed23b54]
+### Meaning of “charity”[^c-4962ef133a39f2f4e52cd7e81ed23b54]
 
 **2A.** For the purpose of this Schedule, “charity” means a body of persons or trust that—
 
@@ -103,13 +103,13 @@ summary: ''
 
 ### The relief
 
-**3.**[^key-7636402b9f63f40af023f8057df8819c] (1) A land transaction is relieved from tax where the buyer is a qualifying charity.
+**3.**[^c-7636402b9f63f40af023f8057df8819c] (1) A land transaction is relieved from tax where the buyer is a qualifying charity.
 
 (2) But see paragraph 4 (withdrawal of relief).
 
 ### Withdrawal of charities relief
 
-**4.**[^key-49f125fb246e56a64ba6eb883b6b80f7] (1) This paragraph applies where—
+**4.**[^c-49f125fb246e56a64ba6eb883b6b80f7] (1) This paragraph applies where—
 
 - (a) a land transaction is relieved from tax under paragraph 3 (““the relieved transaction””),
 - (b) a disqualifying event occurs in relation to a charity (““C””) which was the buyer under the relieved transaction, and
@@ -136,7 +136,7 @@ summary: ''
 
 ### Charity not a qualifying charity
 
-**5.**[^key-a949195011b38acdb8275c0356212ed6] (1) This paragraph applies where—
+**5.**[^c-a949195011b38acdb8275c0356212ed6] (1) This paragraph applies where—
 
 - (a) a land transaction is not relieved from tax under paragraph 3 because the buyer is not a qualifying charity, but
 - (b) the buyer is a charity (““C””) which intends to hold the greater part of the subject-matter of the transaction for qualifying charitable purposes.
@@ -171,7 +171,7 @@ summary: ''
 
 ### Joint purchase by qualifying charity and another person: partial relief
 
-**6.**[^key-d8cff59f6de4f4ae0f1a84a4e1cd0c9a] (1) This paragraph applies where—
+**6.**[^c-d8cff59f6de4f4ae0f1a84a4e1cd0c9a] (1) This paragraph applies where—
 
 - (a) there are two or more buyers under a land transaction,
 - (b) the buyers acquire the subject-matter of the transaction as tenants in common, and
@@ -188,7 +188,7 @@ summary: ''
 
 ### Withdrawal of partial relief
 
-**7.**[^key-8fbbe4dd64a01e902b1922cb8da830b2] (1) This paragraph applies where—
+**7.**[^c-8fbbe4dd64a01e902b1922cb8da830b2] (1) This paragraph applies where—
 
 - (a) a land transaction is relieved from tax under paragraph 6 (““the relieved transaction””),
 - (b) a disqualifying event occurs in relation to a charity (““C””) which was the buyer under the relieved transaction, and
@@ -241,7 +241,7 @@ R is the amount of the relief.
 
 ### Partial relief: charity not a qualifying charity
 
-**8.**[^key-864648b4cc38db2b0c666bbb4b610aa4] (1) This paragraph applies where—
+**8.**[^c-864648b4cc38db2b0c666bbb4b610aa4] (1) This paragraph applies where—
 
 - (a) a charity (““C””) is one of two or more buyers acquiring the subject-matter of a land transaction as tenants in common,
 - (b) C is not a qualifying charity,
@@ -278,7 +278,7 @@ R is the amount of the relief.
 
 ### Application of this Schedule to certain trusts
 
-**9.**[^key-1ed20875b6ea2404d72fbb97a7076c75] (1) This Schedule applies to the following trusts as it applies to a charity but subject to the modifications in sub-paragraph (2)—
+**9.**[^c-1ed20875b6ea2404d72fbb97a7076c75] (1) This Schedule applies to the following trusts as it applies to a charity but subject to the modifications in sub-paragraph (2)—
 
 - (a) a trust of which all the beneficiaries are charities, or
 - (b) a unit trust scheme in which all the unit holders are charities.
@@ -291,26 +291,26 @@ R is the amount of the relief.
 
 ## Annotations
 
-[^key-ba83a3155ae4c6c1e20e14f5ddfb6e9d]: Commencement: Sch. 18 para. 1 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-ba83a3155ae4c6c1e20e14f5ddfb6e9d]: Commencement: Sch. 18 para. 1 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-20cfe0134215a9b5a4e45a0a091ece71]: Textual amendment: Sch. 18 para. 1(aa) inserted (31.12.2020) by [The Welsh Tax Acts (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/833)](https://www.legislation.gov.uk/wsi/2019/833), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/833/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2019/833/regulation/3/2) (with [reg. 3(5)](https://www.legislation.gov.uk/wsi/2019/833/regulation/3/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-20cfe0134215a9b5a4e45a0a091ece71]: Textual amendment: Sch. 18 para. 1(aa) inserted (31.12.2020) by [The Welsh Tax Acts (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/833)](https://www.legislation.gov.uk/wsi/2019/833), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/833/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2019/833/regulation/3/2) (with [reg. 3(5)](https://www.legislation.gov.uk/wsi/2019/833/regulation/3/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2dfe3290f56cd6a776e179c420fc6f14]: Commencement: Sch. 18 para. 2 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-2dfe3290f56cd6a776e179c420fc6f14]: Commencement: Sch. 18 para. 2 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-bf9badd2900585cc235acbb4fe783b08]: Textual amendment: Words in Sch. 18 para. 2(3)(a) substituted (31.12.2020) by [The Welsh Tax Acts (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/833)](https://www.legislation.gov.uk/wsi/2019/833), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/833/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2019/833/regulation/3/3) (with [reg. 3(5)](https://www.legislation.gov.uk/wsi/2019/833/regulation/3/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf9badd2900585cc235acbb4fe783b08]: Textual amendment: Words in Sch. 18 para. 2(3)(a) substituted (31.12.2020) by [The Welsh Tax Acts (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/833)](https://www.legislation.gov.uk/wsi/2019/833), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/833/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2019/833/regulation/3/3) (with [reg. 3(5)](https://www.legislation.gov.uk/wsi/2019/833/regulation/3/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4962ef133a39f2f4e52cd7e81ed23b54]: Textual amendment: Sch. 18 paras. 2A-2D and cross-headings inserted (31.12.2020) by [The Welsh Tax Acts (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/833)](https://www.legislation.gov.uk/wsi/2019/833), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/833/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2019/833/regulation/3/4) (with [reg. 3(5)](https://www.legislation.gov.uk/wsi/2019/833/regulation/3/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4962ef133a39f2f4e52cd7e81ed23b54]: Textual amendment: Sch. 18 paras. 2A-2D and cross-headings inserted (31.12.2020) by [The Welsh Tax Acts (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/833)](https://www.legislation.gov.uk/wsi/2019/833), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/833/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2019/833/regulation/3/4) (with [reg. 3(5)](https://www.legislation.gov.uk/wsi/2019/833/regulation/3/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7636402b9f63f40af023f8057df8819c]: Commencement: Sch. 18 para. 3 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-7636402b9f63f40af023f8057df8819c]: Commencement: Sch. 18 para. 3 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-49f125fb246e56a64ba6eb883b6b80f7]: Commencement: Sch. 18 para. 4 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-49f125fb246e56a64ba6eb883b6b80f7]: Commencement: Sch. 18 para. 4 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-a949195011b38acdb8275c0356212ed6]: Commencement: Sch. 18 para. 5 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-a949195011b38acdb8275c0356212ed6]: Commencement: Sch. 18 para. 5 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-d8cff59f6de4f4ae0f1a84a4e1cd0c9a]: Commencement: Sch. 18 para. 6 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-d8cff59f6de4f4ae0f1a84a4e1cd0c9a]: Commencement: Sch. 18 para. 6 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-8fbbe4dd64a01e902b1922cb8da830b2]: Commencement: Sch. 18 para. 7 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-8fbbe4dd64a01e902b1922cb8da830b2]: Commencement: Sch. 18 para. 7 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-864648b4cc38db2b0c666bbb4b610aa4]: Commencement: Sch. 18 para. 8 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-864648b4cc38db2b0c666bbb4b610aa4]: Commencement: Sch. 18 para. 8 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-1ed20875b6ea2404d72fbb97a7076c75]: Commencement: Sch. 18 para. 9 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-1ed20875b6ea2404d72fbb97a7076c75]: Commencement: Sch. 18 para. 9 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

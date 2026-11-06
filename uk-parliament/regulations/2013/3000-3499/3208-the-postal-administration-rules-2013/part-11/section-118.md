@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Procedure where detailed assessment required[^key-879ed9ba0d8792b8104b16a95e734c1c]
+## 118. Procedure where detailed assessment required[^c-879ed9ba0d8792b8104b16a95e734c1c]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-879ed9ba0d8792b8104b16a95e734c1c]: Commencement: [Rule 118](https://www.legislation.gov.uk/uksi/2013/3208/rule/118) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-879ed9ba0d8792b8104b16a95e734c1c]: Commencement: [Rule 118](https://www.legislation.gov.uk/uksi/2013/3208/rule/118) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

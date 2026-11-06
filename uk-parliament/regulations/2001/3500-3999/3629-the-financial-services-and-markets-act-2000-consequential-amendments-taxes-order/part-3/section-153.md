@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Interpretation[^key-de163aa028c5117234c17630fbcd229f]
+## 153. Interpretation[^c-de163aa028c5117234c17630fbcd229f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de163aa028c5117234c17630fbcd229f]: Textual amendment: [Arts. 152-165](https://www.legislation.gov.uk/uksi/2001/3629/article/152) revoked (12.8.2005 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Friendly Societies (Modification of the Corporation Tax Acts) Regulations 2005 (S.I. 2005/2014)](https://www.legislation.gov.uk/uksi/2005/2014), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2014/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2014/schedule)
+[^c-de163aa028c5117234c17630fbcd229f]: Textual amendment: [Arts. 152-165](https://www.legislation.gov.uk/uksi/2001/3629/article/152) revoked (12.8.2005 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Friendly Societies (Modification of the Corporation Tax Acts) Regulations 2005 (S.I. 2005/2014)](https://www.legislation.gov.uk/uksi/2005/2014), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2014/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2014/schedule)

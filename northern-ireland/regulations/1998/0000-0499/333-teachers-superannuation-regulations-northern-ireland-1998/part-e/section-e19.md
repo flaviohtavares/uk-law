@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E19. Commutation: exceptional circumstances of ill health[^key-904f86f82eda793e2990a57814aa956e]
+## E19. Commutation: exceptional circumstances of ill health[^c-904f86f82eda793e2990a57814aa956e]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-904f86f82eda793e2990a57814aa956e]: Commencement: Reg. E19 in operation at 2.11.1998, see reg. A1
+[^c-904f86f82eda793e2990a57814aa956e]: Commencement: Reg. E19 in operation at 2.11.1998, see reg. A1

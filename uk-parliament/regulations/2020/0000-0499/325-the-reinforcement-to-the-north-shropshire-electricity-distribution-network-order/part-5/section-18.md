@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Compulsory acquisition of rights[^key-4d01710cb8b780ee58c7a8d42ce04736]
+## 18. Compulsory acquisition of rights[^c-4d01710cb8b780ee58c7a8d42ce04736]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4d01710cb8b780ee58c7a8d42ce04736]: Commencement: Art. 18 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-4d01710cb8b780ee58c7a8d42ce04736]: Commencement: Art. 18 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24030531]: Marginal citation: [Section 8](https://www.legislation.gov.uk/uksi/2020/325/section/8) was amended and Schedule 2A substituted by the Housing and Planning Act [2016 c.22](https://www.legislation.gov.uk/ukpga/2016/22), [section 199(1)](https://www.legislation.gov.uk/ukpga/2016/22/section/199/1) and Schedule 17, paragraphs 1 and 2 and by [S.I.2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

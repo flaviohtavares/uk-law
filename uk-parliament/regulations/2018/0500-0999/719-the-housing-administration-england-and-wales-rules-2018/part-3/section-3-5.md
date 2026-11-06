@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.5. Filing of statement of affairs[^key-766f76cace7b2c5025b6c79ed41bef22]
+## 3.5. Filing of statement of affairs[^c-766f76cace7b2c5025b6c79ed41bef22]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-766f76cace7b2c5025b6c79ed41bef22]: Commencement: Rule 3.5 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-766f76cace7b2c5025b6c79ed41bef22]: Commencement: Rule 3.5 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

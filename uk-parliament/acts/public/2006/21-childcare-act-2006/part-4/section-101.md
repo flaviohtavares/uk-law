@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 101. Provision of information about children: Wales[^key-5928c11d3dacc4dd61d63b69c97b524d]
+## 101. Provision of information about children: Wales[^c-5928c11d3dacc4dd61d63b69c97b524d]
 
 *Extent: E+W*
 
 (1) Regulations may make provision, in relation to Wales, requiring—
 
-- (a) a person who is registered under Part 10A of the Children Act 1989 (c. 41) *(Extent: E)* *(affected by repeal, see note)*[^key-3f023001fa05aff0e3c31432fc290678]Part 2 of the Children and Families (Wales) Measure 2010 *(Extent: W)* to provide child minding or day care, and
+- (a) a person who is registered under Part 10A of the Children Act 1989 (c. 41) *(Extent: E)* *(affected by repeal, see note)*[^c-3f023001fa05aff0e3c31432fc290678]Part 2 of the Children and Families (Wales) Measure 2010 *(Extent: W)* to provide child minding or day care, and
 - (b) a person who provides funded nursery education,
 
 to provide to the relevant person such individual child information as may be prescribed.
@@ -64,9 +64,9 @@ to provide to the relevant person such individual child information as may be pr
 
 (9) In this section—
 
-- “**child minding**” and “**day care**” have the same meaning as in Part 10A of the Children Act 1989 *(Extent: E)* *(affected by repeal, see note)*[^key-ce3c39c43413feea7c53854d8a915fce] Part 2 of the Children and Families (Wales) Measure 2010 *(Extent: W)*;
+- “**child minding**” and “**day care**” have the same meaning as in Part 10A of the Children Act 1989 *(Extent: E)* *(affected by repeal, see note)*[^c-ce3c39c43413feea7c53854d8a915fce] Part 2 of the Children and Families (Wales) Measure 2010 *(Extent: W)*;
 - “**funded nursery education**” means nursery education, within the meaning of Part 5 of the School Standards and Framework Act 1998 (c. 31), which is provided by any person—
-  - (a) under arrangements made with that person by a local authority[^key-778ce303e3ed1e39a37e2d792964d534] in Wales in pursuance of the duty imposed on the authority by section 118 of that Act (duty of local authority to secure sufficient nursery education), and
+  - (a) under arrangements made with that person by a local authority[^c-778ce303e3ed1e39a37e2d792964d534] in Wales in pursuance of the duty imposed on the authority by section 118 of that Act (duty of local authority to secure sufficient nursery education), and
   - (b) in consideration of financial assistance provided by the authority under those arrangements,
 
   other than such education provided by a school for its pupils;
@@ -77,10 +77,10 @@ to provide to the relevant person such individual child information as may be pr
 
 ## Annotations
 
-[^key-5928c11d3dacc4dd61d63b69c97b524d]: Commencement: S. 101 in force at 31.1.2008 by [S.I. 2008/17](https://www.legislation.gov.uk/wsi/2008/17), [art. 2(c)](https://www.legislation.gov.uk/wsi/2008/17/article/2/c)
+[^c-5928c11d3dacc4dd61d63b69c97b524d]: Commencement: S. 101 in force at 31.1.2008 by [S.I. 2008/17](https://www.legislation.gov.uk/wsi/2008/17), [art. 2(c)](https://www.legislation.gov.uk/wsi/2008/17/article/2/c)
 
-[^key-3f023001fa05aff0e3c31432fc290678]: Textual amendment: Words in s. 101(1)(a) substituted (W.) (1.4.2011) by [Children and Families (Wales) Measure 2010 (nawm 1)](https://www.legislation.gov.uk/mwa/2010/1), [s. 75(3)](https://www.legislation.gov.uk/mwa/2010/1/section/75/3), [Sch. 1 para. 24(a)](https://www.legislation.gov.uk/mwa/2010/1/schedule/1/paragraph/24/a); [S.I. 2010/2582](https://www.legislation.gov.uk/uksi/2010/2582), [art. 2](https://www.legislation.gov.uk/uksi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/uksi/2010/2582/schedule/2) [3](https://www.legislation.gov.uk/uksi/2010/2582/schedule/3))
+[^c-3f023001fa05aff0e3c31432fc290678]: Textual amendment: Words in s. 101(1)(a) substituted (W.) (1.4.2011) by [Children and Families (Wales) Measure 2010 (nawm 1)](https://www.legislation.gov.uk/mwa/2010/1), [s. 75(3)](https://www.legislation.gov.uk/mwa/2010/1/section/75/3), [Sch. 1 para. 24(a)](https://www.legislation.gov.uk/mwa/2010/1/schedule/1/paragraph/24/a); [S.I. 2010/2582](https://www.legislation.gov.uk/uksi/2010/2582), [art. 2](https://www.legislation.gov.uk/uksi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/uksi/2010/2582/schedule/2) [3](https://www.legislation.gov.uk/uksi/2010/2582/schedule/3))
 
-[^key-ce3c39c43413feea7c53854d8a915fce]: Textual amendment: Words in s. 101(9) substituted (W.) (1.4.2011) by [Children and Families (Wales) Measure 2010 (nawm 1)](https://www.legislation.gov.uk/mwa/2010/1) , [s. 75(3)](https://www.legislation.gov.uk/mwa/2010/1/section/75/3) , [Sch. 1 para. 24(b)](https://www.legislation.gov.uk/mwa/2010/1/schedule/1/paragraph/24/b) ; [S.I. 2010/2582](https://www.legislation.gov.uk/uksi/2010/2582) , [art. 2](https://www.legislation.gov.uk/uksi/2010/2582/article/2) , [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/uksi/2010/2582/schedule/2) [3](https://www.legislation.gov.uk/uksi/2010/2582/schedule/3))
+[^c-ce3c39c43413feea7c53854d8a915fce]: Textual amendment: Words in s. 101(9) substituted (W.) (1.4.2011) by [Children and Families (Wales) Measure 2010 (nawm 1)](https://www.legislation.gov.uk/mwa/2010/1) , [s. 75(3)](https://www.legislation.gov.uk/mwa/2010/1/section/75/3) , [Sch. 1 para. 24(b)](https://www.legislation.gov.uk/mwa/2010/1/schedule/1/paragraph/24/b) ; [S.I. 2010/2582](https://www.legislation.gov.uk/uksi/2010/2582) , [art. 2](https://www.legislation.gov.uk/uksi/2010/2582/article/2) , [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/uksi/2010/2582/schedule/2) [3](https://www.legislation.gov.uk/uksi/2010/2582/schedule/3))
 
-[^key-778ce303e3ed1e39a37e2d792964d534]: Textual amendment: Words in s. 101(9) substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 58(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/58/5)
+[^c-778ce303e3ed1e39a37e2d792964d534]: Textual amendment: Words in s. 101(9) substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 58(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/58/5)

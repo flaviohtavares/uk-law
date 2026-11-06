@@ -44,9 +44,9 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 12(7) of that Act[^f00002] they have consulted the Secretary of State.
 
-[^key-8ef2bbf5b4950893d919097d1e4b0db5][^key-ec2d0bc25c0e0b63e1857be07f57a8d1][^key-8c4bbcc4b91c116b6f7da630193d7b47]In accordance with section 7(1) and (2)(g) of the Political Parties, Elections and Referendums Act 2000[^f00003] they have consulted the Electoral Commission.
+[^c-8ef2bbf5b4950893d919097d1e4b0db5][^c-ec2d0bc25c0e0b63e1857be07f57a8d1][^c-8c4bbcc4b91c116b6f7da630193d7b47]In accordance with section 7(1) and (2)(g) of the Political Parties, Elections and Referendums Act 2000[^f00003] they have consulted the Electoral Commission.
 
-In accordance with section 115 of, and Schedule 7 to, the Scotland Act 1998[^f00004], a draft of this Order has been laid before, and approved by resolution of, the Scottish Parliament.[^key-8ef2bbf5b4950893d919097d1e4b0db5][^key-ec2d0bc25c0e0b63e1857be07f57a8d1][^key-8c4bbcc4b91c116b6f7da630193d7b47][^key-ac85a42fe7c7a00bcb73b12fb728f71e]
+In accordance with section 115 of, and Schedule 7 to, the Scotland Act 1998[^f00004], a draft of this Order has been laid before, and approved by resolution of, the Scottish Parliament.[^c-8ef2bbf5b4950893d919097d1e4b0db5][^c-ec2d0bc25c0e0b63e1857be07f57a8d1][^c-8c4bbcc4b91c116b6f7da630193d7b47][^c-ac85a42fe7c7a00bcb73b12fb728f71e]
 
 ## Contents
 
@@ -236,14 +236,14 @@ The Appendix sets out forms for use at Scottish parliamentary elections. The lay
 
 [^f00002]: Footnote: Section 12(7) is inserted by section 1(7) of the Scotland Act 2012.
 
-[^key-8ef2bbf5b4950893d919097d1e4b0db5]: Modification: Order modified (30.1.2021) by [Scottish General Election (Coronavirus) Act 2021 (asp 5)](https://www.legislation.gov.uk/asp/2021/5), [s. 7](https://www.legislation.gov.uk/asp/2021/5/section/7) (with [s. 12](https://www.legislation.gov.uk/asp/2021/5/section/12))
+[^c-8ef2bbf5b4950893d919097d1e4b0db5]: Modification: Order modified (30.1.2021) by [Scottish General Election (Coronavirus) Act 2021 (asp 5)](https://www.legislation.gov.uk/asp/2021/5), [s. 7](https://www.legislation.gov.uk/asp/2021/5/section/7) (with [s. 12](https://www.legislation.gov.uk/asp/2021/5/section/12))
 
-[^key-ec2d0bc25c0e0b63e1857be07f57a8d1]: Modification: Order: power to modify conferred (30.1.2021) by [Scottish General Election (Coronavirus) Act 2021 (asp 5)](https://www.legislation.gov.uk/asp/2021/5), [s. 8(9)](https://www.legislation.gov.uk/asp/2021/5/section/8/9) (with [s. 12](https://www.legislation.gov.uk/asp/2021/5/section/12))
+[^c-ec2d0bc25c0e0b63e1857be07f57a8d1]: Modification: Order: power to modify conferred (30.1.2021) by [Scottish General Election (Coronavirus) Act 2021 (asp 5)](https://www.legislation.gov.uk/asp/2021/5), [s. 8(9)](https://www.legislation.gov.uk/asp/2021/5/section/8/9) (with [s. 12](https://www.legislation.gov.uk/asp/2021/5/section/12))
 
-[^key-8c4bbcc4b91c116b6f7da630193d7b47]: Modification: Order applied (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 11 para. 2(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/11/paragraph/2/3); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/l)
+[^c-8c4bbcc4b91c116b6f7da630193d7b47]: Modification: Order applied (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 11 para. 2(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/11/paragraph/2/3); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/l)
 
 [^f00003]: Footnote: [2000 c.2](https://www.legislation.gov.uk/ukpga/2000/2).
 
 [^f00004]: Footnote: Schedule 7 is amended by section 3 of the Scotland Act 2012; there are other amendments that are not relevant to this Order.
 
-[^key-ac85a42fe7c7a00bcb73b12fb728f71e]: Modification: Order modified (temp.) (19.11.2025) by [The Representation of the People Act 1983 Remedial (Scotland) Order 2025 (S.S.I. 2025/353)](https://www.legislation.gov.uk/ssi/2025/353), [art. 1(1)](https://www.legislation.gov.uk/ssi/2025/353/article/1/1), [sch. para. 3](https://www.legislation.gov.uk/ssi/2025/353/schedule/paragraph/3) (with [arts. 1(3)](https://www.legislation.gov.uk/ssi/2025/353/article/1/3), [2](https://www.legislation.gov.uk/ssi/2025/353/article/2), [8](https://www.legislation.gov.uk/ssi/2025/353/article/8))
+[^c-ac85a42fe7c7a00bcb73b12fb728f71e]: Modification: Order modified (temp.) (19.11.2025) by [The Representation of the People Act 1983 Remedial (Scotland) Order 2025 (S.S.I. 2025/353)](https://www.legislation.gov.uk/ssi/2025/353), [art. 1(1)](https://www.legislation.gov.uk/ssi/2025/353/article/1/1), [sch. para. 3](https://www.legislation.gov.uk/ssi/2025/353/schedule/paragraph/3) (with [arts. 1(3)](https://www.legislation.gov.uk/ssi/2025/353/article/1/3), [2](https://www.legislation.gov.uk/ssi/2025/353/article/2), [8](https://www.legislation.gov.uk/ssi/2025/353/article/8))

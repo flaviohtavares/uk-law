@@ -33,95 +33,95 @@ Insolvency Act 1976 (repealed)
 
 1976 c.60
 
-[^key-da95af80d5bebe2141b5dd9294d4cb01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da95af80d5bebe2141b5dd9294d4cb01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-da95af80d5bebe2141b5dd9294d4cb01][^key-da95af80d5bebe2141b5dd9294d4cb01]
+## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-da95af80d5bebe2141b5dd9294d4cb01][^c-da95af80d5bebe2141b5dd9294d4cb01]
 
-## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-da95af80d5bebe2141b5dd9294d4cb01][^key-da95af80d5bebe2141b5dd9294d4cb01]
-
-*Extent: E+W*
-
-## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-da95af80d5bebe2141b5dd9294d4cb01][^key-da95af80d5bebe2141b5dd9294d4cb01]
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-da95af80d5bebe2141b5dd9294d4cb01][^c-da95af80d5bebe2141b5dd9294d4cb01]
 
 *Extent: E+W*
 
-## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-da95af80d5bebe2141b5dd9294d4cb01][^key-da95af80d5bebe2141b5dd9294d4cb01]
+## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-da95af80d5bebe2141b5dd9294d4cb01][^c-da95af80d5bebe2141b5dd9294d4cb01]
 
 *Extent: E+W*
 
-## 5. Proof of debts in bankruptcy.[^key-da95af80d5bebe2141b5dd9294d4cb01][^key-da95af80d5bebe2141b5dd9294d4cb01]
+## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-da95af80d5bebe2141b5dd9294d4cb01][^c-da95af80d5bebe2141b5dd9294d4cb01]
+
+*Extent: E+W*
+
+## 5. Proof of debts in bankruptcy.[^c-da95af80d5bebe2141b5dd9294d4cb01][^c-da95af80d5bebe2141b5dd9294d4cb01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6—8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-da95af80d5bebe2141b5dd9294d4cb01][^key-da95af80d5bebe2141b5dd9294d4cb01]
+## 6—8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-da95af80d5bebe2141b5dd9294d4cb01][^c-da95af80d5bebe2141b5dd9294d4cb01]
 
 *Extent: E+W*
 
-## 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-da95af80d5bebe2141b5dd9294d4cb01][^key-da95af80d5bebe2141b5dd9294d4cb01]
+## 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-da95af80d5bebe2141b5dd9294d4cb01][^c-da95af80d5bebe2141b5dd9294d4cb01]
 
 *Extent: E+W*
 
-## 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-da95af80d5bebe2141b5dd9294d4cb01][^key-da95af80d5bebe2141b5dd9294d4cb01]
+## 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-da95af80d5bebe2141b5dd9294d4cb01][^c-da95af80d5bebe2141b5dd9294d4cb01]
 
 *Extent: E+W*
 
-## 11. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-da95af80d5bebe2141b5dd9294d4cb01][^key-da95af80d5bebe2141b5dd9294d4cb01]
+## 11. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-da95af80d5bebe2141b5dd9294d4cb01][^c-da95af80d5bebe2141b5dd9294d4cb01]
 
 *Extent: E+W*
 
-## 12. Administration order rules.[^key-da95af80d5bebe2141b5dd9294d4cb01][^key-da95af80d5bebe2141b5dd9294d4cb01]
-
-*Extent: E+W*
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 13. Other provisions about administration orders.[^key-da95af80d5bebe2141b5dd9294d4cb01][^key-da95af80d5bebe2141b5dd9294d4cb01]
+## 12. Administration order rules.[^c-da95af80d5bebe2141b5dd9294d4cb01][^c-da95af80d5bebe2141b5dd9294d4cb01]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Short title and supplementary provisions.[^key-da95af80d5bebe2141b5dd9294d4cb01][^key-da95af80d5bebe2141b5dd9294d4cb01]
+## 13. Other provisions about administration orders.[^c-da95af80d5bebe2141b5dd9294d4cb01][^c-da95af80d5bebe2141b5dd9294d4cb01]
+
+*Extent: E+W*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 14. Short title and supplementary provisions.[^c-da95af80d5bebe2141b5dd9294d4cb01][^c-da95af80d5bebe2141b5dd9294d4cb01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-da95af80d5bebe2141b5dd9294d4cb01] SCHEDULES
+[^c-da95af80d5bebe2141b5dd9294d4cb01] SCHEDULES
 
-## SCHEDULE 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-da95af80d5bebe2141b5dd9294d4cb01]
+## SCHEDULE 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-da95af80d5bebe2141b5dd9294d4cb01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — CONSEQUENTIAL AMENDMENTS RELATING TO INSOLVENCY SERVICES ACCOUNT[^key-da95af80d5bebe2141b5dd9294d4cb01]
+## SCHEDULE 2 — CONSEQUENTIAL AMENDMENTS RELATING TO INSOLVENCY SERVICES ACCOUNT[^c-da95af80d5bebe2141b5dd9294d4cb01]
 
 *Extent: E+W*
 
 Section 3.
 
-### The Bankruptcy Act 1914[^key-da95af80d5bebe2141b5dd9294d4cb01]
+### The Bankruptcy Act 1914[^c-da95af80d5bebe2141b5dd9294d4cb01]
 
-**1.**[^key-da95af80d5bebe2141b5dd9294d4cb01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-da95af80d5bebe2141b5dd9294d4cb01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-da95af80d5bebe2141b5dd9294d4cb01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-da95af80d5bebe2141b5dd9294d4cb01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3, 4.**[^key-da95af80d5bebe2141b5dd9294d4cb01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3, 4.**[^c-da95af80d5bebe2141b5dd9294d4cb01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The Insolvency Services (Accounting and Investment) Act 1970[^key-da95af80d5bebe2141b5dd9294d4cb01]
+### The Insolvency Services (Accounting and Investment) Act 1970[^c-da95af80d5bebe2141b5dd9294d4cb01]
 
-**5.**[^key-da95af80d5bebe2141b5dd9294d4cb01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-da95af80d5bebe2141b5dd9294d4cb01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-da95af80d5bebe2141b5dd9294d4cb01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-da95af80d5bebe2141b5dd9294d4cb01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-da95af80d5bebe2141b5dd9294d4cb01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-da95af80d5bebe2141b5dd9294d4cb01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-da95af80d5bebe2141b5dd9294d4cb01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-da95af80d5bebe2141b5dd9294d4cb01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-da95af80d5bebe2141b5dd9294d4cb01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-da95af80d5bebe2141b5dd9294d4cb01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — REPEALS[^key-da95af80d5bebe2141b5dd9294d4cb01]
+## SCHEDULE 3 — REPEALS[^c-da95af80d5bebe2141b5dd9294d4cb01]
 
 Section 14.
 
@@ -129,4 +129,4 @@ Section 14.
 
 ## Annotations
 
-[^key-da95af80d5bebe2141b5dd9294d4cb01]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6 (with [Sch. 2 para. 9,](https://www.legislation.gov.uk/ukpga/2004/14/schedule/2/paragraph/9)[10,](https://www.legislation.gov.uk/ukpga/2004/14/schedule/2/paragraph/10)[17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/2/paragraph/17))
+[^c-da95af80d5bebe2141b5dd9294d4cb01]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6 (with [Sch. 2 para. 9,](https://www.legislation.gov.uk/ukpga/2004/14/schedule/2/paragraph/9)[10,](https://www.legislation.gov.uk/ukpga/2004/14/schedule/2/paragraph/10)[17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/2/paragraph/17))

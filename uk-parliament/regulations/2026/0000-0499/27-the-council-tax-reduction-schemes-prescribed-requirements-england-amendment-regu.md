@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 113(1) and (2) of, and paragraph 2 of Schedule 1A to, the Local Government Finance Act 1992[^f00001].
 
-## 1. Citation, commencement, extent and application[^key-5a16b0b89210ac63a920a9ddf45137e0]
+## 1. Citation, commencement, extent and application[^c-5a16b0b89210ac63a920a9ddf45137e0]
 
 (1) These Regulations may be cited as the Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2026 and come into force on 13th February 2026.
 
@@ -54,11 +54,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) These Regulations apply in relation to council tax reduction schemes[^f00002] made by billing authorities for financial years beginning on or after 1st April 2026.
 
-## 2. Amendment of the Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012[^key-56ea8629c8dd98a02f965731e38d7eaa]
+## 2. Amendment of the Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012[^c-56ea8629c8dd98a02f965731e38d7eaa]
 
 The Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012[^f00003] are amended as follows.
 
-## 3. Amendment of regulation 2[^key-822515fdb047c41ab4c2c39ab661df0b]
+## 3. Amendment of regulation 2[^c-822515fdb047c41ab4c2c39ab661df0b]
 
 In regulation 2(1) (interpretation)—
 
@@ -83,7 +83,7 @@ In regulation 2(1) (interpretation)—
 
   .
 
-## 4. Amendment of regulation 12[^key-08192f46a1bb20909d8603a6fc7f06d5]
+## 4. Amendment of regulation 12[^c-08192f46a1bb20909d8603a6fc7f06d5]
 
 In regulation 12 (persons treated as not being in Great Britain)—
 
@@ -116,7 +116,7 @@ In regulation 12 (persons treated as not being in Great Britain)—
 
   .
 
-## 5. Amendment of Schedule 1[^key-4d3cec305f2b84a9cfc2d9a1d675dd13]
+## 5. Amendment of Schedule 1[^c-4d3cec305f2b84a9cfc2d9a1d675dd13]
 
 (1) Schedule 1 (pensioners: matters that must be included in an authority’s scheme) is amended as follows.
 
@@ -189,7 +189,7 @@ In regulation 12 (persons treated as not being in Great Britain)—
 
   .
 
-## 6. Amendment of Schedule 2[^key-5609c167b92476d83b826fd12452071b]
+## 6. Amendment of Schedule 2[^c-5609c167b92476d83b826fd12452071b]
 
 (1) Schedule 2 (applicable amounts) is amended as follows.
 
@@ -252,14 +252,14 @@ In regulation 12 (persons treated as not being in Great Britain)—
 - (d) in paragraph (3) for “£81.37” substitute “£84.46”;
 - (e) in paragraph (4) for “£46.40” substitute “£48.15”.
 
-## 7. Amendment of Schedule 3[^key-639f3fd0013b37a6dae75ea9ab9e14b9]
+## 7. Amendment of Schedule 3[^c-639f3fd0013b37a6dae75ea9ab9e14b9]
 
 In Schedule 3 (amount of alternative maximum council tax reduction) in column (1) of the Table in paragraph 1—
 
 - (a) in sub-paragraph (b)(i) for “£276.00” substitute “£289.00”;
 - (b) in sub-paragraph (b)(ii) for “£276.00” and “£358.00” substitute “£289.00” and “£375.00” respectively.
 
-## 8. Amendment of Schedule 4[^key-a9d8442565e1a96ae35e6991f22d2b9f]
+## 8. Amendment of Schedule 4[^c-a9d8442565e1a96ae35e6991f22d2b9f]
 
 In Schedule 4, in paragraph 5(1)(a) (sums disregarded from applicant’s earnings) after sub-paragraph (iv) insert—
 
@@ -267,11 +267,11 @@ In Schedule 4, in paragraph 5(1)(a) (sums disregarded from applicant’s earning
 
 .
 
-## 9. Amendment of Schedule 5[^key-3d6ec30c9690f69e1cc4687bf0597001]
+## 9. Amendment of Schedule 5[^c-3d6ec30c9690f69e1cc4687bf0597001]
 
 In Schedule 5 (amounts to be disregarded in the calculation of income other than earnings) in paragraph 19(2)(b) for “£72.90” substitute “£75.65”.
 
-## 10. Amendment of Schedule 6[^key-3916df1c72d7902bc9b345411c24fbc0]
+## 10. Amendment of Schedule 6[^c-3916df1c72d7902bc9b345411c24fbc0]
 
 In paragraph 16 of Schedule 6 (capital to be disregarded)—
 
@@ -316,34 +316,34 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). Section 113(1) and (2) was amended by paragraphs 2 and 9(a) of Schedule 1 to the Local Government Act [1999 (c. 27)](https://www.legislation.gov.uk/ukpga/1999/27); paragraphs 40 and 52 of Schedule 7 to the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26); section 80 of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20); [S.I. 2013/2597](https://www.legislation.gov.uk/uksi/2013/2597), [2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), [2016/997](https://www.legislation.gov.uk/uksi/2016/997) and [2021/1265](https://www.legislation.gov.uk/uksi/2021/1265). Schedule 1A was inserted by Schedule 4 to the Local Government Finance Act [2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17) and was amended by [S.I. 2017/1305](https://www.legislation.gov.uk/uksi/2017/1305).
 
-[^key-5a16b0b89210ac63a920a9ddf45137e0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2026/27/regulation/1) in force at 13.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/27/regulation/1/1)
+[^c-5a16b0b89210ac63a920a9ddf45137e0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2026/27/regulation/1) in force at 13.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/27/regulation/1/1)
 
 [^f00002]: Footnote: See section 13A(9) of the Local Government Finance Act 1992 for the definition of “council tax reduction scheme”. Section 13A was inserted by section 10 of the Local Government Finance Act 2012.
 
-[^key-56ea8629c8dd98a02f965731e38d7eaa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2026/27/regulation/2) in force at 13.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/27/regulation/1/1)
+[^c-56ea8629c8dd98a02f965731e38d7eaa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2026/27/regulation/2) in force at 13.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/27/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2012/2885](https://www.legislation.gov.uk/uksi/2012/2885); relevant amending instruments are [S.I. 2012/3085](https://www.legislation.gov.uk/uksi/2012/3085), [2013/3181](https://www.legislation.gov.uk/uksi/2013/3181), [2014/448](https://www.legislation.gov.uk/uksi/2014/448), [2014/3312](https://www.legislation.gov.uk/uksi/2014/3312), [2015/2041](https://www.legislation.gov.uk/uksi/2015/2041), [2016/1262](https://www.legislation.gov.uk/uksi/2016/1262), [2017/1305](https://www.legislation.gov.uk/uksi/2017/1305), [2018/1346](https://www.legislation.gov.uk/uksi/2018/1346), [2020/23](https://www.legislation.gov.uk/uksi/2020/23), [2021/29](https://www.legislation.gov.uk/uksi/2021/29), [2022/25](https://www.legislation.gov.uk/uksi/2022/25), [2023/16](https://www.legislation.gov.uk/uksi/2023/16), [2024/29](https://www.legislation.gov.uk/uksi/2024/29) and [2025/39](https://www.legislation.gov.uk/uksi/2025/39).
 
-[^key-822515fdb047c41ab4c2c39ab661df0b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2026/27/regulation/3) in force at 13.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/27/regulation/1/1)
+[^c-822515fdb047c41ab4c2c39ab661df0b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2026/27/regulation/3) in force at 13.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/27/regulation/1/1)
 
 [^f00004]: Footnote: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33).
 
 [^f00005]: Footnote: [S.S.I. 2025/3](https://www.legislation.gov.uk/ssi/2025/3).
 
-[^key-08192f46a1bb20909d8603a6fc7f06d5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2026/27/regulation/4) in force at 13.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/27/regulation/1/1)
+[^c-08192f46a1bb20909d8603a6fc7f06d5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2026/27/regulation/4) in force at 13.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/27/regulation/1/1)
 
 [^f00006]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). Section 2 was substituted by section 39(2) of the British Nationality Act [1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61) and amended by [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745).
 
 [^f00007]: Footnote: Section 3ZA was inserted by section 2(2) of the Immigration and Social Security Co-ordination (EU Withdrawal) Act [2020 (c. 20)](https://www.legislation.gov.uk/ukpga/2020/20).
 
-[^key-4d3cec305f2b84a9cfc2d9a1d675dd13]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2026/27/regulation/5) in force at 13.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/27/regulation/1/1)
+[^c-4d3cec305f2b84a9cfc2d9a1d675dd13]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2026/27/regulation/5) in force at 13.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/27/regulation/1/1)
 
-[^key-5609c167b92476d83b826fd12452071b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2026/27/regulation/6) in force at 13.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/27/regulation/1/1)
+[^c-5609c167b92476d83b826fd12452071b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2026/27/regulation/6) in force at 13.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/27/regulation/1/1)
 
-[^key-639f3fd0013b37a6dae75ea9ab9e14b9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2026/27/regulation/7) in force at 13.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/27/regulation/1/1)
+[^c-639f3fd0013b37a6dae75ea9ab9e14b9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2026/27/regulation/7) in force at 13.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/27/regulation/1/1)
 
-[^key-a9d8442565e1a96ae35e6991f22d2b9f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2026/27/regulation/8) in force at 13.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/27/regulation/1/1)
+[^c-a9d8442565e1a96ae35e6991f22d2b9f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2026/27/regulation/8) in force at 13.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/27/regulation/1/1)
 
-[^key-3d6ec30c9690f69e1cc4687bf0597001]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2026/27/regulation/9) in force at 13.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/27/regulation/1/1)
+[^c-3d6ec30c9690f69e1cc4687bf0597001]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2026/27/regulation/9) in force at 13.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/27/regulation/1/1)
 
-[^key-3916df1c72d7902bc9b345411c24fbc0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2026/27/regulation/10) in force at 13.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/27/regulation/1/1)
+[^c-3916df1c72d7902bc9b345411c24fbc0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2026/27/regulation/10) in force at 13.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/27/regulation/1/1)

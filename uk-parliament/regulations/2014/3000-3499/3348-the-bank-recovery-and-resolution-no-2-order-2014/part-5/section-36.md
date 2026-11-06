@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-In this Chapter “**relevant institution**” means an institution which is authorised by the PRA or FCA and is not part of a group subject to supervision on a consolidated basis in accordance with the capital requirements regulation and CRR rules[^key-686235ec7d648daf9d184e08d020020f].
+In this Chapter “**relevant institution**” means an institution which is authorised by the PRA or FCA and is not part of a group subject to supervision on a consolidated basis in accordance with the capital requirements regulation and CRR rules[^c-686235ec7d648daf9d184e08d020020f].
 
 ## Annotations
 
-[^key-686235ec7d648daf9d184e08d020020f]: Textual amendment: Words in [art. 36](https://www.legislation.gov.uk/uksi/2014/3348/article/36) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [19(5)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/19/5)
+[^c-686235ec7d648daf9d184e08d020020f]: Textual amendment: Words in [art. 36](https://www.legislation.gov.uk/uksi/2014/3348/article/36) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [19(5)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/19/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Procedure for regulations specifying tax bands and tax rates[^key-57c5e708d900cbd535987f2dfe53b0ad]
+## 25. Procedure for regulations specifying tax bands and tax rates[^c-57c5e708d900cbd535987f2dfe53b0ad]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ the instrument ceases to have effect at the end of the day on which the vote tak
 
 ## Annotations
 
-[^key-57c5e708d900cbd535987f2dfe53b0ad]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2017/1/section/25) in force at 18.10.2017 by [S.I. 2017/953](https://www.legislation.gov.uk/wsi/2017/953), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/953/article/2/c)
+[^c-57c5e708d900cbd535987f2dfe53b0ad]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2017/1/section/25) in force at 18.10.2017 by [S.I. 2017/953](https://www.legislation.gov.uk/wsi/2017/953), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/953/article/2/c)

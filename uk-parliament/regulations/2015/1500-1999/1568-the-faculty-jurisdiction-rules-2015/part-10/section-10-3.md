@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England.
 
-## 10.3. Procedure following receipt of letter of objection[^key-8025546536ae0352a83d916bd0e7e93d]
+## 10.3. Procedure following receipt of letter of objection[^c-8025546536ae0352a83d916bd0e7e93d]
 
 *Extent: E*
 
 (1) Following receipt of a letter of objection the registrar must send a written notice to the objector which states that the objector may—
 
-- (a) become a party opponent to the proceedings by serving the petitioner and sending the registrar particulars of objection in Form 5 to reach them no later than the date specified in the written notice, being a date 21 days after the date on which the objector will be deemed by rule 17.5 to have received the notice[^key-8d0047a4e2212ec09142a599ea1c1797]; or
+- (a) become a party opponent to the proceedings by serving the petitioner and sending the registrar particulars of objection in Form 5 to reach them no later than the date specified in the written notice, being a date 21 days after the date on which the objector will be deemed by rule 17.5 to have received the notice[^c-8d0047a4e2212ec09142a599ea1c1797]; or
 - (b) leave the chancellor to take the letter of objection into account in reaching a decision without becoming a party to the proceedings.
 
 (2) The written notice must additionally contain—
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8025546536ae0352a83d916bd0e7e93d]: Commencement: [Rule 10.3](https://www.legislation.gov.uk/uksi/2015/1568/article/10.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-8025546536ae0352a83d916bd0e7e93d]: Commencement: [Rule 10.3](https://www.legislation.gov.uk/uksi/2015/1568/article/10.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
 
-[^key-8d0047a4e2212ec09142a599ea1c1797]: Textual amendment: Words in [rule 10.3(1)(a)](https://www.legislation.gov.uk/uksi/2015/1568/rule/10.3/1/a) substituted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2019/1184/rule/12/a) (with [rule 23(3)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/3)[(4)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/4))
+[^c-8d0047a4e2212ec09142a599ea1c1797]: Textual amendment: Words in [rule 10.3(1)(a)](https://www.legislation.gov.uk/uksi/2015/1568/rule/10.3/1/a) substituted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2019/1184/rule/12/a) (with [rule 23(3)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/3)[(4)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/4))

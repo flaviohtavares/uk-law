@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2C. Primary function: reports[^key-8ea95dd104748cc2602776d53d347772]
+## 2C. Primary function: reports[^c-8ea95dd104748cc2602776d53d347772]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ea95dd104748cc2602776d53d347772]: Textual amendment: Ss. 2-2C substituted for s. 2 (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 107](https://www.legislation.gov.uk/ukpga/2014/6/section/107), [139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5)
+[^c-8ea95dd104748cc2602776d53d347772]: Textual amendment: Ss. 2-2C substituted for s. 2 (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 107](https://www.legislation.gov.uk/ukpga/2014/6/section/107), [139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5)

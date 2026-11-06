@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Interpretation[^key-5e67e02a01c67a33ff71d0e95cef36e0]
+## 12. Interpretation[^c-5e67e02a01c67a33ff71d0e95cef36e0]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In this Part—
 
 ## Annotations
 
-[^key-5e67e02a01c67a33ff71d0e95cef36e0]: Commencement: Reg. 12 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-5e67e02a01c67a33ff71d0e95cef36e0]: Commencement: Reg. 12 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

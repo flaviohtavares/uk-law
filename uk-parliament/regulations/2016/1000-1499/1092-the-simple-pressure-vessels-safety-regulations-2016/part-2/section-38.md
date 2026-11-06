@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Prohibition on improper use of UK marking[^M_E_d68c03aa-3a52-447e-c888-3c0df6e6a414][^key-3e680abb2cffc39f094854b7c1b46fa0]
+## 38. Prohibition on improper use of UK marking[^M_E_d68c03aa-3a52-447e-c888-3c0df6e6a414][^c-3e680abb2cffc39f094854b7c1b46fa0]
 
 *Extent: E+W+S*
 
-(1) An economic operator must not affix the UK[^key-c83b36dc1e49cc9c46257a9660c3828e] marking to a Category A vessel unless—
+(1) An economic operator must not affix the UK[^c-c83b36dc1e49cc9c46257a9660c3828e] marking to a Category A vessel unless—
 
 - (a) that economic operator is the manufacturer of the vessel; and
 - (b) the conformity of the vessel with the essential safety requirements has been demonstrated by a relevant conformity assessment procedure.
@@ -50,8 +50,8 @@ summary: ''
 
 [^M_E_d68c03aa-3a52-447e-c888-3c0df6e6a414]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-3e680abb2cffc39f094854b7c1b46fa0]: Textual amendment: Word in reg. 38 heading substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 21 para. 23](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/23) (with [Sch. 21 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/37)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e680abb2cffc39f094854b7c1b46fa0]: Textual amendment: Word in reg. 38 heading substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 21 para. 23](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/23) (with [Sch. 21 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/37)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c83b36dc1e49cc9c46257a9660c3828e]: Textual amendment: Word in reg. 38 substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 21 para. 23](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/23) (with [Sch. 21 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/37)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c83b36dc1e49cc9c46257a9660c3828e]: Textual amendment: Word in reg. 38 substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 21 para. 23](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/23) (with [Sch. 21 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/37)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_ea58fcee-8e57-4512-c5b7-81a249a25ddd]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

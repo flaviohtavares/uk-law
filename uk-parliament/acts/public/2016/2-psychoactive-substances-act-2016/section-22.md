@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Provision that may be made by prohibition orders and premises orders[^key-caa91b540574987fbfec9ebae34b57e4]
+## 22. Provision that may be made by prohibition orders and premises orders[^c-caa91b540574987fbfec9ebae34b57e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-caa91b540574987fbfec9ebae34b57e4]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2016/2/section/22) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-caa91b540574987fbfec9ebae34b57e4]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2016/2/section/22) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

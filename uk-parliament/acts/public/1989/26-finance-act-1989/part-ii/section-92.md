@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-3ec71d7d1e3fb3e5dd4b1b54f7dd93fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-3ec71d7d1e3fb3e5dd4b1b54f7dd93fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-3ec71d7d1e3fb3e5dd4b1b54f7dd93fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3ec71d7d1e3fb3e5dd4b1b54f7dd93fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c13115021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3ec71d7d1e3fb3e5dd4b1b54f7dd93fa]: Textual amendment: [S. 92(1)](https://www.legislation.gov.uk/ukpga/1989/26/section/92/1)[(2)](https://www.legislation.gov.uk/ukpga/1989/26/section/92/2) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-3ec71d7d1e3fb3e5dd4b1b54f7dd93fa]: Textual amendment: [S. 92(1)](https://www.legislation.gov.uk/ukpga/1989/26/section/92/1)[(2)](https://www.legislation.gov.uk/ukpga/1989/26/section/92/2) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
 [^c13115021]: Textual amendment: S. 92(3) repealed (6.3.1992 with effect as mentioned in s. 289(1)(2) of the repealing Act) by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [ss. 289](https://www.legislation.gov.uk/ukpga/1992/12/section/289), [290](https://www.legislation.gov.uk/ukpga/1992/12/section/290), [Sch. 12](https://www.legislation.gov.uk/ukpga/1992/12/schedule/12) (with [ss. 201(3)](https://www.legislation.gov.uk/ukpga/1992/12/section/201/3), [Sch. 11 paras. 22](https://www.legislation.gov.uk/ukpga/1992/12/schedule/11/paragraph/22), [26(2)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/11/paragraph/26/2), [27](https://www.legislation.gov.uk/ukpga/1992/12/schedule/11/paragraph/27))
 

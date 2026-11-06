@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Fees in family proceedings.[^key-30599fc6d4f02caeeb2e6a20554d9162]
+## 41. Fees in family proceedings.[^c-30599fc6d4f02caeeb2e6a20554d9162]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30599fc6d4f02caeeb2e6a20554d9162]: Textual amendment: S. 41 repealed (4.1.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 278(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/278/b), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2004/3123](https://www.legislation.gov.uk/uksi/2004/3123), [art. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2004/3123/article/2/b/c/iv)[(c)(iv)](https://www.legislation.gov.uk/uksi/2004/3123/article/2/b/iv) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/3123/article/3))
+[^c-30599fc6d4f02caeeb2e6a20554d9162]: Textual amendment: S. 41 repealed (4.1.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 278(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/278/b), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2004/3123](https://www.legislation.gov.uk/uksi/2004/3123), [art. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2004/3123/article/2/b/c/iv)[(c)(iv)](https://www.legislation.gov.uk/uksi/2004/3123/article/2/b/iv) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/3123/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Earnings trigger for automatic enrolment and re-enrolment[^key-f58b185a25d8f4d9b783bfe44174733b]
+## 6. Earnings trigger for automatic enrolment and re-enrolment[^c-f58b185a25d8f4d9b783bfe44174733b]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f58b185a25d8f4d9b783bfe44174733b]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2012/3/section/6) in operation at 30.6.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2012/265/article/2/2/a)
+[^c-f58b185a25d8f4d9b783bfe44174733b]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2012/3/section/6) in operation at 30.6.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2012/265/article/2/2/a)

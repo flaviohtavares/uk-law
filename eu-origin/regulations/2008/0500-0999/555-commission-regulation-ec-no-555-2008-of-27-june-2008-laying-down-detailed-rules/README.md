@@ -46,11 +46,11 @@ of 27 June 2008
 
 laying down detailed rules for implementing Council Regulation (EC) No 479/2008 on the common organisation of the market in wine as regards support programmes, trade with third countries, production potential and on controls in the wine sector (revoked)
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf1c6cc0846c956ff05312fc59b52ae1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### TITLE I — INTRODUCTORY PROVISIONS[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+### TITLE I — INTRODUCTORY PROVISIONS[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,13 +58,13 @@ laying down detailed rules for implementing Council Regulation (EC) No 479/2008 
 
 - [Section Article 1 — Scope and use of terms](section-article-1.md)
 
-### TITLE II — SUPPORT PROGRAMMES[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+### TITLE II — SUPPORT PROGRAMMES[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER I — Procedure for submission[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+#### CHAPTER I — Procedure for submission[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,13 +73,13 @@ laying down detailed rules for implementing Council Regulation (EC) No 479/2008 
 - [Section Article 2 — Submission of support programmes](section-article-2.md)
 - [Section Article 3 — Modifications of support programmes](section-article-3.md)
 
-#### CHAPTER II — Eligible measures[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+#### CHAPTER II — Eligible measures[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### Section 1 — Promotion[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+##### Section 1 — Promotion[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -89,7 +89,7 @@ laying down detailed rules for implementing Council Regulation (EC) No 479/2008 
 
 **No longer in force.**
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] Sub-section 1
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] Sub-section 1
 
 Promotion in third countries
 
@@ -101,7 +101,7 @@ Promotion in third countries
 
 **No longer in force.**
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] Sub-section 2
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] Sub-section 2
 
 Promotion in the Member States
 
@@ -116,13 +116,13 @@ Promotion in the Member States
 
 **No longer in force.**
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] Sub-section 3
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] Sub-section 3
 
 Common rules
 
 - [Section Article 5g — Eligible costs](section-article-5g.md)
 
-##### Section 2 — Restructuring and conversion of vineyards[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+##### Section 2 — Restructuring and conversion of vineyards[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -136,7 +136,7 @@ Common rules
 - [Section Article 10 — Transitional measures](section-article-10.md)
 - [Section Article 10a — Compatibility and consistency](section-article-10a.md)
 
-##### Section 3 — Green harvesting[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+##### Section 3 — Green harvesting[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -147,7 +147,7 @@ Common rules
 - [Section Article 13 — Application procedure](section-article-13.md)
 - [Section Article 14 — Compensation](section-article-14.md)
 
-##### Section 4 — Mutual funds[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+##### Section 4 — Mutual funds[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -155,7 +155,7 @@ Common rules
 
 - [Section Article 15 — Level of the aid](section-article-15.md)
 
-##### Section 5 — Harvest insurance[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+##### Section 5 — Harvest insurance[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -163,7 +163,7 @@ Common rules
 
 - [Section Article 16 — Conditions of eligibility](section-article-16.md)
 
-##### Section 6 — Investments[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+##### Section 6 — Investments[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -174,7 +174,7 @@ Common rules
 - [Section Article 19 — Financial management](section-article-19.md)
 - [Section Article 20 — Compatibility and consistency](section-article-20.md)
 
-##### Section 6a — Innovation[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+##### Section 6a — Innovation[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -184,7 +184,7 @@ Common rules
 - [Section Article 20b — Demarcation with rural development and other legal regimes and financial instruments](section-article-20b.md)
 - [Section Article 20c — Financial management](section-article-20c.md)
 
-##### Section 7 — Disposal of by-products[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+##### Section 7 — Disposal of by-products[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -197,7 +197,7 @@ Common rules
 - [Section Article 25 — Amount of the aid](section-article-25.md)
 - [Section Article 25a — Verification of conditions](section-article-25a.md)
 
-##### Section 8 — Potable alcohol distillation[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+##### Section 8 — Potable alcohol distillation[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -206,7 +206,7 @@ Common rules
 - [Section Article 26 — Purpose of the aid](section-article-26.md)
 - [Section Article 27 — Amount of the aid](section-article-27.md)
 
-##### Section 9 — Crisis distillation[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+##### Section 9 — Crisis distillation[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -217,7 +217,7 @@ Common rules
 - [Section Article 30 — Amount of the aid](section-article-30.md)
 - [Section Article 31 — National aid](section-article-31.md)
 
-##### Section 10 — Use of concentrated grape must[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+##### Section 10 — Use of concentrated grape must[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -227,7 +227,7 @@ Common rules
 - [Section Article 33 — Amount of the aid](section-article-33.md)
 - [Section Article 34 — Checks](section-article-34.md)
 
-#### CHAPTER III — Reporting, evaluation and general provisions[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+#### CHAPTER III — Reporting, evaluation and general provisions[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -239,13 +239,13 @@ Common rules
 - [Section Article 37a — Communication related to State aid](section-article-37a.md)
 - [Section Article 37b — Communication related to advances](section-article-37b.md)
 
-### TITLE III — TRADE WITH THIRD COUNTRIES[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+### TITLE III — TRADE WITH THIRD COUNTRIES[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER I — Entry price arrangements for grape juice and must[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+#### CHAPTER I — Entry price arrangements for grape juice and must[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -254,13 +254,13 @@ Common rules
 - [Section Article 38 — Definition](section-article-38.md)
 - [Section Article 39 — Verification by consignment](section-article-39.md)
 
-#### CHAPTER II — Certificates and analysis reports for wine, grape juice and must on import[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+#### CHAPTER II — Certificates and analysis reports for wine, grape juice and must on import[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### Section 1 — General[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+##### Section 1 — General[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -270,7 +270,7 @@ Common rules
 - [Section Article 41 — Contents of the analysis report](section-article-41.md)
 - [Section Article 42 — Exemptions](section-article-42.md)
 
-##### Section 2 — Requirements to be met and detailed rules for drawing up and using the certificate and analysis report for imports of wine, grape juice and grape must[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+##### Section 2 — Requirements to be met and detailed rules for drawing up and using the certificate and analysis report for imports of wine, grape juice and grape must[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -287,7 +287,7 @@ Common rules
 - [Section Article 50 — Special rules for particular wines](section-article-50.md)
 - [Section Article 51 — Conformity of imported wines](section-article-51.md)
 
-#### CHAPTER III — Specific provisions on exports[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+#### CHAPTER III — Specific provisions on exports[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -295,7 +295,7 @@ Common rules
 
 - [Section Article 52 — Notification of official bodies](section-article-52.md)
 
-#### CHAPTER IV — Transitional provisions[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+#### CHAPTER IV — Transitional provisions[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -304,13 +304,13 @@ Common rules
 - [Section Article 53 — V I 1 and V I 2 conformity](section-article-53.md)
 - [Section Article 54 — Release of security](section-article-54.md)
 
-### TITLE IV — PRODUCTION POTENTIAL[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+### TITLE IV — PRODUCTION POTENTIAL[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER I — Unlawful plantings[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+#### CHAPTER I — Unlawful plantings[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -322,7 +322,7 @@ Common rules
 - [Section Article 58 — Communications](section-article-58.md)
 - [Section Article 59 — Reductions imposed on Member States](section-article-59.md)
 
-#### CHAPTER II — Transitional planting right regime[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+#### CHAPTER II — Transitional planting right regime[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -336,7 +336,7 @@ Common rules
 - [Section Article 65 — Reserves of planting rights](section-article-65.md)
 - [Section Article 66 — Maintenance of the planting rights system](section-article-66.md)
 
-#### CHAPTER III — Grubbing-up scheme[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+#### CHAPTER III — Grubbing-up scheme[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -350,7 +350,7 @@ Common rules
 - [Section Article 72 — Payment of the premium](section-article-72.md)
 - [Section Article 73 — Communications](section-article-73.md)
 
-#### CHAPTER IV — Inventory and measurement of the area planted[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+#### CHAPTER IV — Inventory and measurement of the area planted[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -359,13 +359,13 @@ Common rules
 - [Section Article 74 — Inventory](section-article-74.md)
 - [Section Article 75 — Area planted](section-article-75.md)
 
-### TITLE V — CONTROLS IN THE WINE SECTOR[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+### TITLE V — CONTROLS IN THE WINE SECTOR[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER I — Principles of control[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+#### CHAPTER I — Principles of control[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -380,7 +380,7 @@ Common rules
 - [Section Article 82 — Control bodies](section-article-82.md)
 - [Section Article 83 — Powers of control officials](section-article-83.md)
 
-#### CHAPTER II — Assistance between control bodies[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+#### CHAPTER II — Assistance between control bodies[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -390,7 +390,7 @@ Common rules
 - [Section Article 85 — Unsolicited assistance](section-article-85.md)
 - [Section Article 86 — Common provisions](section-article-86.md)
 
-#### CHAPTER III — Analytical databank[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+#### CHAPTER III — Analytical databank[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -402,7 +402,7 @@ Common rules
 - [Section Article 90 — Communication of results](section-article-90.md)
 - [Section Article 91 — Compliance with procedures](section-article-91.md)
 
-#### CHAPTER IV — Collection of samples for control purposes[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+#### CHAPTER IV — Collection of samples for control purposes[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -411,7 +411,7 @@ Common rules
 - [Section Article 92 — Request for collection of samples](section-article-92.md)
 - [Section Article 93 — Costs of collection, dispatch and analysis of samples](section-article-93.md)
 
-#### CHAPTER V — General provisions[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+#### CHAPTER V — General provisions[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -421,7 +421,7 @@ Common rules
 - [Section Article 95 — Persons subject to controls](section-article-95.md)
 - [Section Article 95a — Coordination of controls and access to information](section-article-95a.md)
 
-### TITLE VI — GENERAL, TRANSITIONAL AND FINAL PROVISIONS[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+### TITLE VI — GENERAL, TRANSITIONAL AND FINAL PROVISIONS[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -467,8 +467,8 @@ Common rules
 
 **No longer in force.**
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf1c6cc0846c956ff05312fc59b52ae1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1]: Textual amendment: Regulation revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 25](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cf1c6cc0846c956ff05312fc59b52ae1]: Textual amendment: Regulation revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 25](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture, england
 
-The Feed (Specified Undesirable Substances) (England) Regulations 2006 (revoked)[^key-a97173400c57bd83fa383552285b235e]
+The Feed (Specified Undesirable Substances) (England) Regulations 2006 (revoked)[^c-a97173400c57bd83fa383552285b235e]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 26th December 2006
 
-[^key-a97173400c57bd83fa383552285b235e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a97173400c57bd83fa383552285b235e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and Commencement[^key-a97173400c57bd83fa383552285b235e]
+## 1. Title and Commencement[^c-a97173400c57bd83fa383552285b235e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Feeding Stuffs (England) Regulations 2005[^key-a97173400c57bd83fa383552285b235e]
+## 2. Amendments to the Feeding Stuffs (England) Regulations 2005[^c-a97173400c57bd83fa383552285b235e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Feed (Hygiene and Enforcement) (England) Regulations 2005[^key-a97173400c57bd83fa383552285b235e]
+## 3. Amendments to the Feed (Hygiene and Enforcement) (England) Regulations 2005[^c-a97173400c57bd83fa383552285b235e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a97173400c57bd83fa383552285b235e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a97173400c57bd83fa383552285b235e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-a97173400c57bd83fa383552285b235e]
+## SCHEDULE 1[^c-a97173400c57bd83fa383552285b235e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-a97173400c57bd83fa383552285b235e]
+## SCHEDULE 2[^c-a97173400c57bd83fa383552285b235e]
 
-[^key-a97173400c57bd83fa383552285b235e]
+[^c-a97173400c57bd83fa383552285b235e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a97173400c57bd83fa383552285b235e]
+[^c-a97173400c57bd83fa383552285b235e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a97173400c57bd83fa383552285b235e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a97173400c57bd83fa383552285b235e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a97173400c57bd83fa383552285b235e]: Textual amendment: Regulations revoked (6.4.2015) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (England) Regulations 2015 (S.I. 2015/454)](https://www.legislation.gov.uk/uksi/2015/454), [reg. 1](https://www.legislation.gov.uk/uksi/2015/454/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/454/schedule/5)
+[^c-a97173400c57bd83fa383552285b235e]: Textual amendment: Regulations revoked (6.4.2015) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (England) Regulations 2015 (S.I. 2015/454)](https://www.legislation.gov.uk/uksi/2015/454), [reg. 1](https://www.legislation.gov.uk/uksi/2015/454/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/454/schedule/5)

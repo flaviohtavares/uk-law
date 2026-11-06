@@ -35,40 +35,40 @@ on a pilot project to implement certain administrative cooperation provisions se
 
 (Text with EEA relevance) (revoked)
 
-[^key-9f7082d952edba4807bed17d941ef8e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f7082d952edba4807bed17d941ef8e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. The pilot project[^key-9f7082d952edba4807bed17d941ef8e2]
+## Article 1. The pilot project[^c-9f7082d952edba4807bed17d941ef8e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Competent authorities[^key-9f7082d952edba4807bed17d941ef8e2]
+## Article 2. Competent authorities[^c-9f7082d952edba4807bed17d941ef8e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Administrative cooperation between competent authorities[^key-9f7082d952edba4807bed17d941ef8e2]
+## Article 3. Administrative cooperation between competent authorities[^c-9f7082d952edba4807bed17d941ef8e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Formal closure of administrative cooperation procedures[^key-9f7082d952edba4807bed17d941ef8e2]
+## Article 4. Formal closure of administrative cooperation procedures[^c-9f7082d952edba4807bed17d941ef8e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Monitoring and reporting[^key-9f7082d952edba4807bed17d941ef8e2]
+## Article 5. Monitoring and reporting[^c-9f7082d952edba4807bed17d941ef8e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Evaluation[^key-9f7082d952edba4807bed17d941ef8e2]
+## Article 6. Evaluation[^c-9f7082d952edba4807bed17d941ef8e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Entry into force[^key-9f7082d952edba4807bed17d941ef8e2]
+## Article 7. Entry into force[^c-9f7082d952edba4807bed17d941ef8e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f7082d952edba4807bed17d941ef8e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f7082d952edba4807bed17d941ef8e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9f7082d952edba4807bed17d941ef8e2]: Textual amendment: Decision revoked (E.W.S.) (9.12.2022) by [The Internal Market Information System Regulation (Amendment etc.) Regulations 2022 (S.I. 2022/1306)](https://www.legislation.gov.uk/uksi/2022/1306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1306/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/1306/regulation/7)
+[^c-9f7082d952edba4807bed17d941ef8e2]: Textual amendment: Decision revoked (E.W.S.) (9.12.2022) by [The Internal Market Information System Regulation (Amendment etc.) Regulations 2022 (S.I. 2022/1306)](https://www.legislation.gov.uk/uksi/2022/1306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1306/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/1306/regulation/7)

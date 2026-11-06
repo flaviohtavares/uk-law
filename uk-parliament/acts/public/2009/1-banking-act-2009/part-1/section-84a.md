@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84A. Bail-in option: building societies[^key-a0d7a44be39d941c786e623e31308c6c]
+## 84A. Bail-in option: building societies[^c-a0d7a44be39d941c786e623e31308c6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0d7a44be39d941c786e623e31308c6c]: Textual amendment: Ss. 84A-84D inserted (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/2/3)
+[^c-a0d7a44be39d941c786e623e31308c6c]: Textual amendment: Ss. 84A-84D inserted (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/2/3)

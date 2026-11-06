@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — The electronic communications code[^key-ffb0fc803358a35a7cbdb9ff7c5d89b7][^key-78b8dc6ba8319276c30d74f8a4bb6a01][^key-4dcf444c269ed114cab5c361deffd1c6]
+## SCHEDULE 1 — The electronic communications code[^c-ffb0fc803358a35a7cbdb9ff7c5d89b7][^c-78b8dc6ba8319276c30d74f8a4bb6a01][^c-4dcf444c269ed114cab5c361deffd1c6]
 
 *Extent: E+W+S+N.I.*
 
 Section 4
 
-[^key-ffb0fc803358a35a7cbdb9ff7c5d89b7][^key-78b8dc6ba8319276c30d74f8a4bb6a01][^key-4dcf444c269ed114cab5c361deffd1c6]
+[^c-ffb0fc803358a35a7cbdb9ff7c5d89b7][^c-78b8dc6ba8319276c30d74f8a4bb6a01][^c-4dcf444c269ed114cab5c361deffd1c6]
 
 This is the Schedule to be inserted before Schedule 4 to the Communications Act 2003—
 
@@ -2033,8 +2033,8 @@ This is the Schedule to be inserted before Schedule 4 to the Communications Act 
 
 ## Annotations
 
-[^key-ffb0fc803358a35a7cbdb9ff7c5d89b7]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2017/30/schedule/1) in force at 31.7.2017 for specified purposes by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(ii)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/ii)
+[^c-ffb0fc803358a35a7cbdb9ff7c5d89b7]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2017/30/schedule/1) in force at 31.7.2017 for specified purposes by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(ii)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/ii)
 
-[^key-78b8dc6ba8319276c30d74f8a4bb6a01]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2017/30/schedule/1) in force at 22.11.2017 for specified purposes by [S.I. 2017/1136](https://www.legislation.gov.uk/uksi/2017/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1136/regulation/2)
+[^c-78b8dc6ba8319276c30d74f8a4bb6a01]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2017/30/schedule/1) in force at 22.11.2017 for specified purposes by [S.I. 2017/1136](https://www.legislation.gov.uk/uksi/2017/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1136/regulation/2)
 
-[^key-4dcf444c269ed114cab5c361deffd1c6]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2017/30/schedule/1) in force at 28.12.2017 in so far as not already in force by [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/b)
+[^c-4dcf444c269ed114cab5c361deffd1c6]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2017/30/schedule/1) in force at 28.12.2017 in so far as not already in force by [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Establishment of Flood and Coastal Erosion Committee[^key-0b64c7a0e059fda11e6045edac709d3c]
+## 81. Establishment of Flood and Coastal Erosion Committee[^c-0b64c7a0e059fda11e6045edac709d3c]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b64c7a0e059fda11e6045edac709d3c]: Commencement: [S. 81](https://www.legislation.gov.uk/anaw/2016/3/section/81) in force at 14.7.2017 by [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
+[^c-0b64c7a0e059fda11e6045edac709d3c]: Commencement: [S. 81](https://www.legislation.gov.uk/anaw/2016/3/section/81) in force at 14.7.2017 by [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)

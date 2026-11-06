@@ -22,7 +22,7 @@ summary: ''
 
 Article 14
 
-### PART 1 — STREETS SUBJECT TO PERMANENT ALTERATION OF LAYOUT[^key-1cb19ba4e2b411c9f92080e92e84c6fa]
+### PART 1 — STREETS SUBJECT TO PERMANENT ALTERATION OF LAYOUT[^c-1cb19ba4e2b411c9f92080e92e84c6fa]
 
 SUFFOLK COUNTY COUNCIL
 
@@ -39,7 +39,7 @@ ESSEX COUNTY COUNCIL
 | A131 (Sudbury Road) | At access point H-AP1 a permanent bellmouth will be created (as shown on Sheet 23) to enable access/egress with sufficient size to accommodate a HGV vehicle. Comprising the installation of a new road surface, road markings, kerbing and a suitable drainage system, where required. |
 | Henny Back Road | At access point G-AP14 a permanent bellmouth will be created (as shown on Sheet 27) to enable access/egress with sufficient size to accommodate a HGV vehicle. Comprising the installation of a new road surface, road markings, kerbing and a suitable drainage system, where required. |
 
-### PART 2 — STREETS SUBJECT TO TEMPORARY ALTERATION OF LAYOUT[^key-a65e927a4d3f330b00d046c9fccd54dd]
+### PART 2 — STREETS SUBJECT TO TEMPORARY ALTERATION OF LAYOUT[^c-a65e927a4d3f330b00d046c9fccd54dd]
 
 SUFFOLK COUNTY COUNCIL
 
@@ -102,6 +102,6 @@ ESSEX COUNTY COUNCIL
 
 ## Annotations
 
-[^key-1cb19ba4e2b411c9f92080e92e84c6fa]: Commencement: Sch. 6 Pt. 1 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-1cb19ba4e2b411c9f92080e92e84c6fa]: Commencement: Sch. 6 Pt. 1 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-a65e927a4d3f330b00d046c9fccd54dd]: Commencement: Sch. 6 Pt. 2 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-a65e927a4d3f330b00d046c9fccd54dd]: Commencement: Sch. 6 Pt. 2 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

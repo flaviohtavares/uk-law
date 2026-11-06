@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Response to recommendation[^key-2720c94eb78967e9839a3f32a2064da2]
+## 70. Response to recommendation[^c-2720c94eb78967e9839a3f32a2064da2]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ to the same extent as the recommendation was published by the Commissioner.
 
 ## Annotations
 
-[^key-2720c94eb78967e9839a3f32a2064da2]: Commencement: Reg. 70 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-2720c94eb78967e9839a3f32a2064da2]: Commencement: Reg. 70 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

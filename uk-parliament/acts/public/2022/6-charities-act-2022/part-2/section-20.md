@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Advice relating to the disposition of charity land[^key-fe2a0b5c4c77f4e7954bf6898167d03e][^key-853ea2bf1259bfc58424bab3a82ff27b]
+## 20. Advice relating to the disposition of charity land[^c-fe2a0b5c4c77f4e7954bf6898167d03e][^c-853ea2bf1259bfc58424bab3a82ff27b]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ In section 119 of the Charities Act 2011 (requirements for dispositions other th
 
 ## Annotations
 
-[^key-fe2a0b5c4c77f4e7954bf6898167d03e]: Commencement: S. 20 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-fe2a0b5c4c77f4e7954bf6898167d03e]: Commencement: S. 20 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-853ea2bf1259bfc58424bab3a82ff27b]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2022/6/section/20) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/9)
+[^c-853ea2bf1259bfc58424bab3a82ff27b]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2022/6/section/20) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/9)

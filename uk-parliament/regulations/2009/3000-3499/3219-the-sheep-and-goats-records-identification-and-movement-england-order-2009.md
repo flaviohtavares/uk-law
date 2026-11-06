@@ -62,15 +62,15 @@ This Order—
 - “animal” means any animal of the ovine or caprine species;
 - “central point of recording” means a holding approved by the Secretary of State under Section C.2 of the Annex to the Council Regulation for recording the identities of animals arriving at that holding;
 - “Council Directive [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102)” means Council Directive [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102) on the identification and registration of animals[^f00003];
-- “the Council Regulation” means Council Regulation [(EC) No. 21/2004](https://www.legislation.gov.uk/european/regulation/2004/0021) establishing a system for the identification and registration of ovine and caprine animals and amending Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782) and Directives [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102) and [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432)[^f00004] as amended from time to time[^key-fd892d96cb7fce6c1ba7e48d18b4e45e];
-- “export” means sending to a[^key-aa9c757c97420e855eb2508e712b19c9] member State or a third country;
+- “the Council Regulation” means Council Regulation [(EC) No. 21/2004](https://www.legislation.gov.uk/european/regulation/2004/0021) establishing a system for the identification and registration of ovine and caprine animals and amending Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782) and Directives [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102) and [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432)[^f00004] as amended from time to time[^c-fd892d96cb7fce6c1ba7e48d18b4e45e];
+- “export” means sending to a[^c-aa9c757c97420e855eb2508e712b19c9] member State or a third country;
 - “flockmark” means the number allocated by the Secretary of State in respect of a flock of sheep on a holding;
 - “herdmark” means the number allocated by the Secretary of State in respect of a herd of goats on a holding;
 - “holding” has the meaning given in Article 2 of the Council Regulation;
 - “identification code” means the code set out on a means of identification as required under this Order or under the previous Orders;
-- “identification device” means an eartag, electronic eartag, pastern tag, electronic pastern tag, bolus or, in relation to goats, an injectable transponder[^key-a10f68803123168251e77e43af0628b3];
+- “identification device” means an eartag, electronic eartag, pastern tag, electronic pastern tag, bolus or, in relation to goats, an injectable transponder[^c-a10f68803123168251e77e43af0628b3];
 - “identification mark” means a method of identification applied in a member State, a means of identification or an older means of identification;
-- “illegible” means, in relation to an electronic identification device, unreadable either electronically or visually;[^key-c6cf9ed39320ac2074ce6664dc43d993]
+- “illegible” means, in relation to an electronic identification device, unreadable either electronically or visually;[^c-c6cf9ed39320ac2074ce6664dc43d993]
 - “inspector” means a person appointed to be an inspector for the purposes of this Order by the Secretary of State or a local authority;
 - “keeper” has the meaning given in Article 2 of the Council Regulation;
 - “local authority” means—
@@ -82,7 +82,7 @@ This Order—
     - (iv) in the city of London, the Common Council;
 - “market operator” means a person responsible for managing the reception or the sale of animals in a market or a duly authorised representative of such a person;
 - “means of identification” means an identification device or a tattoo;
-- “method of identification” means an eartag, pastern tag, injectable transponder[^key-1e8c6c0693a556f65b39ce1037045be3] or tattoo applied in a member State or a third country;
+- “method of identification” means an eartag, pastern tag, injectable transponder[^c-1e8c6c0693a556f65b39ce1037045be3] or tattoo applied in a member State or a third country;
 - “movement document” means the movement document required by Article 6 of the Council Regulation;
 - “the previous Orders” means—
   - (a) the Sheep and Goats (Registration, Identification and Movement)(England) Order 2007[^f00006];
@@ -132,17 +132,17 @@ Identification devices used to comply with this Order must be of a model approve
 
 ### 7. Colour of identification devices
 
-(1)[^key-fca09dc66df4ba767c698142bafebf98] Subject to paragraph (8) all electronic identification devices, other than replacement devices, injectable transponders and boluses, must be yellow and no keeper may apply a yellow identification device that is not electronic.
+(1)[^c-fca09dc66df4ba767c698142bafebf98] Subject to paragraph (8) all electronic identification devices, other than replacement devices, injectable transponders and boluses, must be yellow and no keeper may apply a yellow identification device that is not electronic.
 
 (2) No person may attach a red identification device to any animal, other than a replacement identification device.
 
-(3) Where a keeper re-identifies an animal and that animal is not on its holding of birth, or the keeper does not know the holding of birth, they must use a red replacement identification device but the requirement to use a red identification device does not apply to the use of boluses or injectable transponders[^key-027e304a542866bbeb1940ef47f2b840].
+(3) Where a keeper re-identifies an animal and that animal is not on its holding of birth, or the keeper does not know the holding of birth, they must use a red replacement identification device but the requirement to use a red identification device does not apply to the use of boluses or injectable transponders[^c-027e304a542866bbeb1940ef47f2b840].
 
-(4)[^key-6b9c61fcf150029eb7ac8bc5a050c7a2] Where an animal is identified by means of a bolus and a second identification device that second device must be black and have the letter “B” printed on it and a black identification device may only be used in combination with a bolus or injectable transponder.
+(4)[^c-6b9c61fcf150029eb7ac8bc5a050c7a2] Where an animal is identified by means of a bolus and a second identification device that second device must be black and have the letter “B” printed on it and a black identification device may only be used in combination with a bolus or injectable transponder.
 
 (5) The characters on all identification devices must be a different colour from the background of the device and must be clearly legible at all times when the device is attached to an animal.
 
-(6)[^key-889a1ed6ce143b9ae4efa93634794ccc] Where a goat is identified by an injectable transponder and a second identification device that second device must be black and have the letter “I” printed on it.
+(6)[^c-889a1ed6ce143b9ae4efa93634794ccc] Where a goat is identified by an injectable transponder and a second identification device that second device must be black and have the letter “I” printed on it.
 
 (7) A keeper who identifies a goat with an injectable transponders must insert the transponder in the goat’s groin.
 
@@ -174,7 +174,7 @@ Identification devices used to comply with this Order must be of a model approve
 - (a) 9 months from the date of birth, in the case of an animal kept in extensive or free range farming conditions; or
 - (b) 6 months from the date of birth, in the case of any other animal.
 
-(4) No animal may be identified by the use of a bolus or injectable transponder[^key-7dec6f21b68eca6737f03e1b5ced98c7] in combination with a tattoo.
+(4) No animal may be identified by the use of a bolus or injectable transponder[^c-7dec6f21b68eca6737f03e1b5ced98c7] in combination with a tattoo.
 
 (5) The identification code on a means of identification for the purposes of Section A.2. of the Annex to the Council Regulation must be—
 
@@ -185,7 +185,7 @@ and must be identical on the first and second means of identification.
 
 ### 10. Identification of animals intended for slaughter
 
-(1) For animals intended for slaughter before the age of 12 months and not intended for export, the identification method in Section A.7 of the Annex to the Council Regulation is authorised and that identification method must be electronic in the case of sheep[^key-9e5cf9c715e8ab06428edde3bad698cd].
+(1) For animals intended for slaughter before the age of 12 months and not intended for export, the identification method in Section A.7 of the Annex to the Council Regulation is authorised and that identification method must be electronic in the case of sheep[^c-9e5cf9c715e8ab06428edde3bad698cd].
 
 (2) The identification code for the purposes of Section A.7 of the Annex to the Council Regulation must be the letters “UK” followed by the flockmark or herdmark; no other number issued by the competent authority may be visibly recorded on this eartag.
 
@@ -199,7 +199,7 @@ and must be identical on the first and second means of identification.
 
 (5) Where an animal is re-identified under paragraph (4)(b) and its tag contains a unique electronic identifier that unique identifier must be cross-referenced to the new identification code in the holding register.
 
-(6) A keeper may re-identify a goat[^key-fb611f66e60fded548ec857dafe1e2c1] identified under paragraph (1) by using an eartag of the kind described in paragraph (2) which includes an electronic identifier but may not then re-identify that animal according to article 9 unless the animal is still on its holding of birth.
+(6) A keeper may re-identify a goat[^c-fb611f66e60fded548ec857dafe1e2c1] identified under paragraph (1) by using an eartag of the kind described in paragraph (2) which includes an electronic identifier but may not then re-identify that animal according to article 9 unless the animal is still on its holding of birth.
 
 (7) Where an animal is re-identified under this article and it is no longer on its holding of birth the keeper must cross-reference the old and new identification codes in the holding register.
 
@@ -319,7 +319,7 @@ Where an animal identified before the coming into force of this Order is not ide
 - (a) in the case of the movement of an animal onto or from a holding other than via a central point of recording, within 36 hours of the movement;
 - (b) in the case of a movement of an animal onto or from a holding via a central point of recording, within 48 hours of the movement;
 - (c) in the case of the replacement of an identification mark, within 36 hours of the replacement;
-- (d) in the case of the identification code of an animal, the year of its birth, the date of its identification, if known, its breed and genotype[^key-bf26c0dc339e0f8a6996a8551bac1b0f], within 36 hours of its identification;
+- (d) in the case of the identification code of an animal, the year of its birth, the date of its identification, if known, its breed and genotype[^c-bf26c0dc339e0f8a6996a8551bac1b0f], within 36 hours of its identification;
 - (e) in the case of the death of an animal, within 36 hours of the discovery of its death.
 
 (7) Where a keeper moves their animals to another holding but continues to be the keeper, the keeper does not have to keep the register on that holding but must be able to produce it within a reasonable time to the Secretary of State upon request.
@@ -330,7 +330,7 @@ Where an animal identified before the coming into force of this Order is not ide
 
 ## PART 8 — Movement documents
 
-### 22. Movement document[^key-6502629a52aa35f7c32238098119a80f]
+### 22. Movement document[^c-6502629a52aa35f7c32238098119a80f]
 
 (1) The Secretary of State shall nominate a person to operate a computerised central database to record animal movements capable of accepting notification of movements electronically.
 
@@ -368,7 +368,7 @@ the keeper need not complete a movement document.
 
 and the keeper must keep any copies in chronological order.
 
-### 23. Supply of movement document[^key-ad3d5c168562b2887b07b2af48e889c1]
+### 23. Supply of movement document[^c-ad3d5c168562b2887b07b2af48e889c1]
 
 (1) When an animal is moved onto a holding the transporter of that animal must give to the keeper at that holding—
 
@@ -387,7 +387,7 @@ and the keeper must keep any copies in chronological order.
 
 (2) It is an offence for a keeper to fail to provide the result of the annual inventory to the Secretary of State by 31st December each year.
 
-### 24A. Notification of holdings where animals are kept[^key-c312f514a6cb756ea6054707d0906dcc]
+### 24A. Notification of holdings where animals are kept[^c-c312f514a6cb756ea6054707d0906dcc]
 
 (1) Where, on or after 6th April 2016, a person becomes the keeper of any animal on a holding, they must within 30 days after they begin to keep that animal, notify the Secretary of State in accordance with Article 8(2) of the Council Regulation.
 
@@ -418,7 +418,7 @@ and the keeper must keep any copies in chronological order.
 - (a) it is identified in accordance with this Order; and
 - (b) it is accompanied by a movement document which is completed in accordance with Part 8.
 
-(5)[^key-a02ff8cd078d903c3e54c09fdf4a75c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-a02ff8cd078d903c3e54c09fdf4a75c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 27. Replacement of identification marks lost at markets
 
@@ -444,7 +444,7 @@ where a contingency plan has been agreed between the local authority and the mar
 
 (5) For the purposes of this article “collection centre” means any holding at which sheep or goats originating from different holdings are grouped together to form consignments of animals intended for export or which is used in the course of export.
 
-(6)[^key-95b221d4506ffd5b2cbe3b454b85ab35] When animals arrive at a market, collection centre or abattoir which—
+(6)[^c-95b221d4506ffd5b2cbe3b454b85ab35] When animals arrive at a market, collection centre or abattoir which—
 
 - (a) is a central point of recording, and
 - (b) is applying the exemptions in paragraph (1) with the consent of the local authority,
@@ -453,14 +453,14 @@ if the identity of those animals is not recorded on a movement document accompan
 
 ## PART 11 — Animals brought into England
 
-### 29. Receipt of animals from a member State[^key-b485452993f9b80cb01c9d4e29d1f69c]
+### 29. Receipt of animals from a member State[^c-b485452993f9b80cb01c9d4e29d1f69c]
 
-(1) No person may receive an animal from a[^key-3f411a426d00d3c1790604953bf0f575] member State unless it is identified in accordance with—
+(1) No person may receive an animal from a[^c-3f411a426d00d3c1790604953bf0f575] member State unless it is identified in accordance with—
 
 - (a) the Council Regulation, in the case of an animal born after 9th July 2005; or
 - (b) Council Directive [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102), in the case of an animal born on or before 9th July 2005.
 
-(2) It is an offence to remove or replace the original method of identification of an animal originating in a[^key-f200ec0534a88e7669d352ba86391747] member State in contravention of Article 4(5) of the Council Regulation.
+(2) It is an offence to remove or replace the original method of identification of an animal originating in a[^c-f200ec0534a88e7669d352ba86391747] member State in contravention of Article 4(5) of the Council Regulation.
 
 ### 30. Receipt of animals from Scotland, Wales, Northern Ireland or the Crown Dependencies
 
@@ -509,7 +509,7 @@ It is a defence for any person charged with an offence of contravening or failin
 - (d) have access to, and check the operation of, any computer and any associated apparatus or material which is or has been used in connection with records;
 - (e) where a record is kept by means of a computer, require the record to be produced in a form which may be taken away;
 - (f) require the production of any unused identification devices, and record their numbers;
-- (g) take with them [^key-a1ec8c399f7d4b5a8f04fe6836c9906d]... any people or things they consider necessary.
+- (g) take with them [^c-a1ec8c399f7d4b5a8f04fe6836c9906d]... any people or things they consider necessary.
 
 (2) A person required to do anything by an inspector acting under paragraph (1) must, unless they have reasonable cause, do so without delay and proof of any such reasonable cause lies on that person.
 
@@ -532,7 +532,7 @@ No person may alter, obliterate or deface the information on any identification 
 - (a) the Council Regulation;
 - (b) this Order or any provision that gives effect to the Council Regulation in Scotland, Wales or Northern Ireland;
 - (c) the previous Orders; or
-- (d) Council Directive [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102), in the case of an animal marked in a[^key-85a8f26895a9c60045cc5864abcb8015] member State in accordance with that Directive.
+- (d) Council Directive [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102), in the case of an animal marked in a[^c-85a8f26895a9c60045cc5864abcb8015] member State in accordance with that Directive.
 
 ### 39. Offences by bodies corporate
 
@@ -572,21 +572,21 @@ For these purposes, “officer” means an officer of the association or a membe
 
 (2) The Secretary of State may direct, in relation to cases of a particular description or any particular case, that an enforcement duty imposed on a local authority by this Order must be discharged by the Secretary of State and not by the local authority.
 
-(3)[^key-dc9941c8616d27c120370102be2e7548] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
+(3)[^c-dc9941c8616d27c120370102be2e7548] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
 
 ### 42. Revocations
 
 The Sheep and Goats (Records, Identification and Movement) (England) Order 2007[^f00024] is revoked.
 
-### 43. Review of this Order[^key-a37a7a0599d0de04f7fa3d90537d3185]
+### 43. Review of this Order[^c-a37a7a0599d0de04f7fa3d90537d3185]
 
-(1)[^key-c3f16a39c6929344a7041a0bf4bd55e6] The Secretary of State must from time to time—
+(1)[^c-c3f16a39c6929344a7041a0bf4bd55e6] The Secretary of State must from time to time—
 
 - (a) carry out a review of this Order;
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
-(1A)[^key-d55c0a5f6e94ca54fbcf7d7854e88ad3] In carrying out the review the Secretary of State must, so far as reasonable, have regard to the powers and mechanisms available in other Member States to enable the provisions of the Council Regulation to be implemented.
+(1A)[^c-d55c0a5f6e94ca54fbcf7d7854e88ad3] In carrying out the review the Secretary of State must, so far as reasonable, have regard to the powers and mechanisms available in other Member States to enable the provisions of the Council Regulation to be implemented.
 
 (2) The report must in particular—
 
@@ -594,9 +594,9 @@ The Sheep and Goats (Records, Identification and Movement) (England) Order 2007[
 - (b) assess the extent to which those objectives have been achieved; and
 - (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
 
-(3)[^key-b73593d4e8745db2b03a2b141fe65200] The first report under this article must be published before the end of the period of five years beginning with 6th April 2014.
+(3)[^c-b73593d4e8745db2b03a2b141fe65200] The first report under this article must be published before the end of the period of five years beginning with 6th April 2014.
 
-(4)[^key-e5bbda47f666a415de2e3dde1b14e8cb] Reports under this article are afterwards to be published at intervals not exceeding five years.
+(4)[^c-e5bbda47f666a415de2e3dde1b14e8cb] Reports under this article are afterwards to be published at intervals not exceeding five years.
 
 Jim Fitzpatrick
 
@@ -646,17 +646,17 @@ An Impact Assessment has been prepared and placed in the library of each House o
 
 [^f00004]: Footnote: OJ No L 5, 9.1.04, p 8 to which there are amendments not relevant to this Order.
 
-[^key-fd892d96cb7fce6c1ba7e48d18b4e45e]: Textual amendment: Words in art. 2(1) added (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [3(1)](https://www.legislation.gov.uk/uksi/2014/331/article/3/1)
+[^c-fd892d96cb7fce6c1ba7e48d18b4e45e]: Textual amendment: Words in art. 2(1) added (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [3(1)](https://www.legislation.gov.uk/uksi/2014/331/article/3/1)
 
-[^key-aa9c757c97420e855eb2508e712b19c9]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/2009/3219/article/2) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1238)](https://www.legislation.gov.uk/uksi/2018/1238), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1238/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1238/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aa9c757c97420e855eb2508e712b19c9]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/2009/3219/article/2) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1238)](https://www.legislation.gov.uk/uksi/2018/1238), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1238/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1238/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a10f68803123168251e77e43af0628b3]: Textual amendment: Words in art. 2(1) substituted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2014/331/article/3/2)
+[^c-a10f68803123168251e77e43af0628b3]: Textual amendment: Words in art. 2(1) substituted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2014/331/article/3/2)
 
-[^key-c6cf9ed39320ac2074ce6664dc43d993]: Textual amendment: Words in art. 2(1) inserted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/331/article/3/3)
+[^c-c6cf9ed39320ac2074ce6664dc43d993]: Textual amendment: Words in art. 2(1) inserted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/331/article/3/3)
 
 [^f00005]: Footnote: [S.I. 1994/867](https://www.legislation.gov.uk/uksi/1994/867) to which there are amendments not relevant to this Order.
 
-[^key-1e8c6c0693a556f65b39ce1037045be3]: Textual amendment: Words in art. 2(1) added (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [3(4)](https://www.legislation.gov.uk/uksi/2014/331/article/3/4)
+[^c-1e8c6c0693a556f65b39ce1037045be3]: Textual amendment: Words in art. 2(1) added (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [3(4)](https://www.legislation.gov.uk/uksi/2014/331/article/3/4)
 
 [^f00006]: Footnote: [S.I. 2007/3493](https://www.legislation.gov.uk/uksi/2007/3493).
 
@@ -690,56 +690,56 @@ An Impact Assessment has been prepared and placed in the library of each House o
 
 [^f00021]: Footnote: [S.S.I. 2000/418](https://www.legislation.gov.uk/ssi/2000/418), amended by [S.S.I. 2002/531](https://www.legislation.gov.uk/ssi/2002/531) and [S.S.I. 2002/39](https://www.legislation.gov.uk/ssi/2002/39).
 
-[^key-fca09dc66df4ba767c698142bafebf98]: Textual amendment: Art. 7(1) substituted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [4(2)](https://www.legislation.gov.uk/uksi/2014/331/article/4/2)
+[^c-fca09dc66df4ba767c698142bafebf98]: Textual amendment: Art. 7(1) substituted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [4(2)](https://www.legislation.gov.uk/uksi/2014/331/article/4/2)
 
-[^key-027e304a542866bbeb1940ef47f2b840]: Textual amendment: Words in art. 7(3) added (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [4(3)](https://www.legislation.gov.uk/uksi/2014/331/article/4/3)
+[^c-027e304a542866bbeb1940ef47f2b840]: Textual amendment: Words in art. 7(3) added (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [4(3)](https://www.legislation.gov.uk/uksi/2014/331/article/4/3)
 
-[^key-6b9c61fcf150029eb7ac8bc5a050c7a2]: Textual amendment: Art. 7(4) substituted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [4(4)](https://www.legislation.gov.uk/uksi/2014/331/article/4/4)
+[^c-6b9c61fcf150029eb7ac8bc5a050c7a2]: Textual amendment: Art. 7(4) substituted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [4(4)](https://www.legislation.gov.uk/uksi/2014/331/article/4/4)
 
-[^key-889a1ed6ce143b9ae4efa93634794ccc]: Textual amendment: Art. 7(6)-(9) inserted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [4(5)](https://www.legislation.gov.uk/uksi/2014/331/article/4/5)
+[^c-889a1ed6ce143b9ae4efa93634794ccc]: Textual amendment: Art. 7(6)-(9) inserted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [4(5)](https://www.legislation.gov.uk/uksi/2014/331/article/4/5)
 
-[^key-7dec6f21b68eca6737f03e1b5ced98c7]: Textual amendment: Words in [art. 9(4)](https://www.legislation.gov.uk/uksi/2009/3219/article/9/4) added (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [5](https://www.legislation.gov.uk/uksi/2014/331/article/5)
+[^c-7dec6f21b68eca6737f03e1b5ced98c7]: Textual amendment: Words in [art. 9(4)](https://www.legislation.gov.uk/uksi/2009/3219/article/9/4) added (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [5](https://www.legislation.gov.uk/uksi/2014/331/article/5)
 
-[^key-9e5cf9c715e8ab06428edde3bad698cd]: Textual amendment: Words in art. 10(1) added (1.1.2015) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [6(1)](https://www.legislation.gov.uk/uksi/2014/331/article/6/1)
+[^c-9e5cf9c715e8ab06428edde3bad698cd]: Textual amendment: Words in art. 10(1) added (1.1.2015) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [6(1)](https://www.legislation.gov.uk/uksi/2014/331/article/6/1)
 
-[^key-fb611f66e60fded548ec857dafe1e2c1]: Textual amendment: Words in art. 10(6) substituted (1.1.2015) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [6(2)](https://www.legislation.gov.uk/uksi/2014/331/article/6/2)
+[^c-fb611f66e60fded548ec857dafe1e2c1]: Textual amendment: Words in art. 10(6) substituted (1.1.2015) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [6(2)](https://www.legislation.gov.uk/uksi/2014/331/article/6/2)
 
-[^key-bf26c0dc339e0f8a6996a8551bac1b0f]: Textual amendment: Words in art. 21(6)(d) replaced (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [7](https://www.legislation.gov.uk/uksi/2014/331/article/7)
+[^c-bf26c0dc339e0f8a6996a8551bac1b0f]: Textual amendment: Words in art. 21(6)(d) replaced (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [7](https://www.legislation.gov.uk/uksi/2014/331/article/7)
 
-[^key-6502629a52aa35f7c32238098119a80f]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/uksi/2009/3219/article/22) substituted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [8](https://www.legislation.gov.uk/uksi/2014/331/article/8)
+[^c-6502629a52aa35f7c32238098119a80f]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/uksi/2009/3219/article/22) substituted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [8](https://www.legislation.gov.uk/uksi/2014/331/article/8)
 
-[^key-ad3d5c168562b2887b07b2af48e889c1]: Textual amendment: [Art. 23](https://www.legislation.gov.uk/uksi/2009/3219/article/23) substituted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [9](https://www.legislation.gov.uk/uksi/2014/331/article/9)
+[^c-ad3d5c168562b2887b07b2af48e889c1]: Textual amendment: [Art. 23](https://www.legislation.gov.uk/uksi/2009/3219/article/23) substituted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [9](https://www.legislation.gov.uk/uksi/2014/331/article/9)
 
-[^key-c312f514a6cb756ea6054707d0906dcc]: Textual amendment: [Art. 24A](https://www.legislation.gov.uk/uksi/2009/3219/article/24A) inserted (6.4.2016) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2016 (S.I. 2016/76)](https://www.legislation.gov.uk/uksi/2016/76), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2016/76/article/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2016/76/article/2/2)
+[^c-c312f514a6cb756ea6054707d0906dcc]: Textual amendment: [Art. 24A](https://www.legislation.gov.uk/uksi/2009/3219/article/24A) inserted (6.4.2016) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2016 (S.I. 2016/76)](https://www.legislation.gov.uk/uksi/2016/76), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2016/76/article/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2016/76/article/2/2)
 
-[^key-a02ff8cd078d903c3e54c09fdf4a75c4]: Textual amendment: [Art. 26(5)](https://www.legislation.gov.uk/uksi/2009/3219/article/26/5) omitted (6.4.2014) by virtue of [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [10](https://www.legislation.gov.uk/uksi/2014/331/article/10)
+[^c-a02ff8cd078d903c3e54c09fdf4a75c4]: Textual amendment: [Art. 26(5)](https://www.legislation.gov.uk/uksi/2009/3219/article/26/5) omitted (6.4.2014) by virtue of [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [10](https://www.legislation.gov.uk/uksi/2014/331/article/10)
 
-[^key-95b221d4506ffd5b2cbe3b454b85ab35]: Textual amendment: Art. 28(6) added (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [11](https://www.legislation.gov.uk/uksi/2014/331/article/11)
+[^c-95b221d4506ffd5b2cbe3b454b85ab35]: Textual amendment: Art. 28(6) added (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [11](https://www.legislation.gov.uk/uksi/2014/331/article/11)
 
-[^key-b485452993f9b80cb01c9d4e29d1f69c]: Textual amendment: Word in [art. 29](https://www.legislation.gov.uk/uksi/2009/3219/article/29) heading substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1238)](https://www.legislation.gov.uk/uksi/2018/1238), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1238/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1238/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b485452993f9b80cb01c9d4e29d1f69c]: Textual amendment: Word in [art. 29](https://www.legislation.gov.uk/uksi/2009/3219/article/29) heading substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1238)](https://www.legislation.gov.uk/uksi/2018/1238), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1238/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1238/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3f411a426d00d3c1790604953bf0f575]: Textual amendment: Word in [art. 29(1)](https://www.legislation.gov.uk/uksi/2009/3219/article/29/1) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1238)](https://www.legislation.gov.uk/uksi/2018/1238), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1238/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1238/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3f411a426d00d3c1790604953bf0f575]: Textual amendment: Word in [art. 29(1)](https://www.legislation.gov.uk/uksi/2009/3219/article/29/1) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1238)](https://www.legislation.gov.uk/uksi/2018/1238), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1238/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1238/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f200ec0534a88e7669d352ba86391747]: Textual amendment: Word in [art. 29(2)](https://www.legislation.gov.uk/uksi/2009/3219/article/29/2) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1238)](https://www.legislation.gov.uk/uksi/2018/1238), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1238/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1238/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f200ec0534a88e7669d352ba86391747]: Textual amendment: Word in [art. 29(2)](https://www.legislation.gov.uk/uksi/2009/3219/article/29/2) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1238)](https://www.legislation.gov.uk/uksi/2018/1238), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1238/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1238/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a1ec8c399f7d4b5a8f04fe6836c9906d]: Textual amendment: Words in [art. 35(1)(g)](https://www.legislation.gov.uk/uksi/2009/3219/article/35/1/g) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1238)](https://www.legislation.gov.uk/uksi/2018/1238), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1238/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/1238/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a1ec8c399f7d4b5a8f04fe6836c9906d]: Textual amendment: Words in [art. 35(1)(g)](https://www.legislation.gov.uk/uksi/2009/3219/article/35/1/g) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1238)](https://www.legislation.gov.uk/uksi/2018/1238), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1238/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/1238/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-85a8f26895a9c60045cc5864abcb8015]: Textual amendment: Word in [art. 38(d)](https://www.legislation.gov.uk/uksi/2009/3219/article/38/d) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1238)](https://www.legislation.gov.uk/uksi/2018/1238), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1238/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2018/1238/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-85a8f26895a9c60045cc5864abcb8015]: Textual amendment: Word in [art. 38(d)](https://www.legislation.gov.uk/uksi/2009/3219/article/38/d) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1238)](https://www.legislation.gov.uk/uksi/2018/1238), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1238/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2018/1238/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00022]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Subsections (1) and (2) of section 33 were repealed by the Magistrates Courts Act [1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55), section 132 and Schedule 6; subsection (3) was amended by the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), section 56(1) and Schedule 8, part II, paragraph 19; subsection (4) was amended by the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 109(1) and (3), Schedule 8, paragraph 71 and Schedule 10, and by the Magistrates’ Courts Act [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), section 154 and Schedule 7, paragraph 5; subsection (5) was repealed by the Magistrates’ Courts Act 1952, section 132, Schedule 6.
 
 [^f00023]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Sub-paragraph 2(a) was amended by the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), section 47, Schedule 1, paragraph 13, and was repealed by the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), sections 41 and 332, Schedule 3, part 2, paragraph 51, sub-paragraphs (1), (13)(a) and Schedule 37, part 4 (with effect from a date to be appointed); paragraph 5 was repealed by the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), sections 25(2) and 101(2) and Schedule 13; paragraph 6 was amended by the Criminal Justice Act 2003, section 41, Schedule 3, part 2, paragraph 51, sub-paragraphs (1) and (13)(b) (with effect from a date to be appointed).
 
-[^key-dc9941c8616d27c120370102be2e7548]: Textual amendment: Art. 41(3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [32](https://www.legislation.gov.uk/uksi/2012/2897/article/32)
+[^c-dc9941c8616d27c120370102be2e7548]: Textual amendment: Art. 41(3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [32](https://www.legislation.gov.uk/uksi/2012/2897/article/32)
 
 [^f00024]: Footnote: [S.I. 2007/3493](https://www.legislation.gov.uk/uksi/2007/3493).
 
-[^key-a37a7a0599d0de04f7fa3d90537d3185]: Textual amendment: Art. 43 added (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [12](https://www.legislation.gov.uk/uksi/2014/331/article/12)
+[^c-a37a7a0599d0de04f7fa3d90537d3185]: Textual amendment: Art. 43 added (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [12](https://www.legislation.gov.uk/uksi/2014/331/article/12)
 
-[^key-c3f16a39c6929344a7041a0bf4bd55e6]: Textual amendment: Words in art. 43(1) substituted (6.4.2016) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2016 (S.I. 2016/76)](https://www.legislation.gov.uk/uksi/2016/76), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2016/76/article/1/b), [2(3)(a)](https://www.legislation.gov.uk/uksi/2016/76/article/2/3/a)
+[^c-c3f16a39c6929344a7041a0bf4bd55e6]: Textual amendment: Words in art. 43(1) substituted (6.4.2016) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2016 (S.I. 2016/76)](https://www.legislation.gov.uk/uksi/2016/76), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2016/76/article/1/b), [2(3)(a)](https://www.legislation.gov.uk/uksi/2016/76/article/2/3/a)
 
-[^key-d55c0a5f6e94ca54fbcf7d7854e88ad3]: Textual amendment: Art. 43(1A) inserted (6.4.2016) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2016 (S.I. 2016/76)](https://www.legislation.gov.uk/uksi/2016/76), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2016/76/article/1/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2016/76/article/2/3/b)
+[^c-d55c0a5f6e94ca54fbcf7d7854e88ad3]: Textual amendment: Art. 43(1A) inserted (6.4.2016) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2016 (S.I. 2016/76)](https://www.legislation.gov.uk/uksi/2016/76), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2016/76/article/1/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2016/76/article/2/3/b)
 
-[^key-b73593d4e8745db2b03a2b141fe65200]: Textual amendment: Art. 43(3) substituted (6.4.2016) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2016 (S.I. 2016/76)](https://www.legislation.gov.uk/uksi/2016/76), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2016/76/article/1/b), [2(3)(c)](https://www.legislation.gov.uk/uksi/2016/76/article/2/3/c)
+[^c-b73593d4e8745db2b03a2b141fe65200]: Textual amendment: Art. 43(3) substituted (6.4.2016) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2016 (S.I. 2016/76)](https://www.legislation.gov.uk/uksi/2016/76), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2016/76/article/1/b), [2(3)(c)](https://www.legislation.gov.uk/uksi/2016/76/article/2/3/c)
 
-[^key-e5bbda47f666a415de2e3dde1b14e8cb]: Textual amendment: Art. 43(4) inserted (6.4.2016) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2016 (S.I. 2016/76)](https://www.legislation.gov.uk/uksi/2016/76), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2016/76/article/1/b), [2(3)(d)](https://www.legislation.gov.uk/uksi/2016/76/article/2/3/d)
+[^c-e5bbda47f666a415de2e3dde1b14e8cb]: Textual amendment: Art. 43(4) inserted (6.4.2016) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2016 (S.I. 2016/76)](https://www.legislation.gov.uk/uksi/2016/76), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2016/76/article/1/b), [2(3)(d)](https://www.legislation.gov.uk/uksi/2016/76/article/2/3/d)

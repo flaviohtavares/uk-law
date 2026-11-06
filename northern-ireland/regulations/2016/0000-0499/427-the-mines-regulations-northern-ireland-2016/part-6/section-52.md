@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Intake airways[^key-69501f141149ecfec96a38bd6606e5bc]
+## 52. Intake airways[^c-69501f141149ecfec96a38bd6606e5bc]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The mine operator shall ensure, so far as is reasonably practicable, that the in
 
 ## Annotations
 
-[^key-69501f141149ecfec96a38bd6606e5bc]: Commencement: [Reg. 52](https://www.legislation.gov.uk/nisr/2016/427/regulation/52) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-69501f141149ecfec96a38bd6606e5bc]: Commencement: [Reg. 52](https://www.legislation.gov.uk/nisr/2016/427/regulation/52) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

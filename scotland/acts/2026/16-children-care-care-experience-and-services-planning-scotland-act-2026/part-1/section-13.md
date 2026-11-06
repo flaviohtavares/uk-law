@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Interpretation[^key-f0ac43cc58c70807c02d1cf0d506fa88][^key-7e09b88507d7f3c52a57da60f44c7e2d]
+## 13. Interpretation[^c-f0ac43cc58c70807c02d1cf0d506fa88][^c-7e09b88507d7f3c52a57da60f44c7e2d]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f0ac43cc58c70807c02d1cf0d506fa88]: Commencement: S. 13 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-f0ac43cc58c70807c02d1cf0d506fa88]: Commencement: S. 13 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
 
-[^key-7e09b88507d7f3c52a57da60f44c7e2d]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2026/16/section/13) in force at 30.9.2026 by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)
+[^c-7e09b88507d7f3c52a57da60f44c7e2d]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2026/16/section/13) in force at 30.9.2026 by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)

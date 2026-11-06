@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Duty of Bank to provide information to Treasury[^key-4a40593cecea4055b54973709977927d]
+## 36. Duty of Bank to provide information to Treasury[^c-4a40593cecea4055b54973709977927d]
 
 *Extent: E+W+S+N.I.*
 
@@ -142,4 +142,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a40593cecea4055b54973709977927d]: Commencement: S. 36 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(aa)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/aa)
+[^c-4a40593cecea4055b54973709977927d]: Commencement: S. 36 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(aa)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/aa)

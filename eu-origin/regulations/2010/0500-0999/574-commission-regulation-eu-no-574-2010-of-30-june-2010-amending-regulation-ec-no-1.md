@@ -35,67 +35,67 @@ amending Regulation (EC) No 1126/2008 adopting certain international accounting 
 
 (Text with EEA relevance) (revoked)
 
-[^key-40de5e60ca4f904d0db5ecdc8c89c7ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40de5e60ca4f904d0db5ecdc8c89c7ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-40de5e60ca4f904d0db5ecdc8c89c7ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-40de5e60ca4f904d0db5ecdc8c89c7ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-40de5e60ca4f904d0db5ecdc8c89c7ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-40de5e60ca4f904d0db5ecdc8c89c7ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-40de5e60ca4f904d0db5ecdc8c89c7ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-40de5e60ca4f904d0db5ecdc8c89c7ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40de5e60ca4f904d0db5ecdc8c89c7ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40de5e60ca4f904d0db5ecdc8c89c7ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-40de5e60ca4f904d0db5ecdc8c89c7ab]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-40de5e60ca4f904d0db5ecdc8c89c7ab]LIMITED EXEMPTION FROM COMPARATIVE IFRS 7 DISCLOSURES FOR FIRST-TIME ADOPTERS
+## ANNEX[^c-40de5e60ca4f904d0db5ecdc8c89c7ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40de5e60ca4f904d0db5ecdc8c89c7ab] Amendment to IFRS 1
+[^c-40de5e60ca4f904d0db5ecdc8c89c7ab]LIMITED EXEMPTION FROM COMPARATIVE IFRS 7 DISCLOSURES FOR FIRST-TIME ADOPTERS
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-40de5e60ca4f904d0db5ecdc8c89c7ab] Amendment to IFRS 1
 
 ***First-time Adoption of International Financial Reporting Standards***
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40de5e60ca4f904d0db5ecdc8c89c7ab]EFFECTIVE DATE
+[^c-40de5e60ca4f904d0db5ecdc8c89c7ab]EFFECTIVE DATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40de5e60ca4f904d0db5ecdc8c89c7ab]39C
+[^c-40de5e60ca4f904d0db5ecdc8c89c7ab]39C
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40de5e60ca4f904d0db5ecdc8c89c7ab]Appendix E
+[^c-40de5e60ca4f904d0db5ecdc8c89c7ab]Appendix E
 
 **Short-term exemptions from IFRSs**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40de5e60ca4f904d0db5ecdc8c89c7ab] Disclosures about financial instruments
+[^c-40de5e60ca4f904d0db5ecdc8c89c7ab] Disclosures about financial instruments
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40de5e60ca4f904d0db5ecdc8c89c7ab]E3
+[^c-40de5e60ca4f904d0db5ecdc8c89c7ab]E3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40de5e60ca4f904d0db5ecdc8c89c7ab]Appendix
+[^c-40de5e60ca4f904d0db5ecdc8c89c7ab]Appendix
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40de5e60ca4f904d0db5ecdc8c89c7ab] Amendment to IFRS 7
+[^c-40de5e60ca4f904d0db5ecdc8c89c7ab] Amendment to IFRS 7
 
 ***Financial Instruments: Disclosures***
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40de5e60ca4f904d0db5ecdc8c89c7ab]EFFECTIVE DATE AND TRANSITION
+[^c-40de5e60ca4f904d0db5ecdc8c89c7ab]EFFECTIVE DATE AND TRANSITION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40de5e60ca4f904d0db5ecdc8c89c7ab]44G
+[^c-40de5e60ca4f904d0db5ecdc8c89c7ab]44G
 
 *Improving Disclosures about Financial Instruments* (Amendments to IFRS 7), issued in March 2009, amended paragraphs 27, 39 and B11 and added paragraphs 27A, 27B, B10A and B11A–B11F. An entity shall apply those amendments for annual periods beginning on or after 1 January 2009. An entity need not provide the disclosures required by the amendments for:
 
@@ -103,4 +103,4 @@ amending Regulation (EC) No 1126/2008 adopting certain international accounting 
 
 ## Annotations
 
-[^key-40de5e60ca4f904d0db5ecdc8c89c7ab]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/26) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-40de5e60ca4f904d0db5ecdc8c89c7ab]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/26) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

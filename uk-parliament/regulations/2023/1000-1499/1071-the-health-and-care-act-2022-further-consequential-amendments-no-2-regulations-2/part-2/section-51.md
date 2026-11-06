@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^key-b7fb8c6601fde90fd893d934d66b03f0]
+## 51. Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^c-b7fb8c6601fde90fd893d934d66b03f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b7fb8c6601fde90fd893d934d66b03f0]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2023/1071/regulation/51) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-b7fb8c6601fde90fd893d934d66b03f0]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2023/1071/regulation/51) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00041]: Footnote: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319), relevant amending instruments are [S.I. 2013/49](https://www.legislation.gov.uk/uksi/2013/49) and [S.I. 2022/634](https://www.legislation.gov.uk/uksi/2022/634).

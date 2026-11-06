@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1A)[^key-d11807caf009d9d1c2772491ab4ca9a0] Sections 21 and 24—
+(1A)[^c-d11807caf009d9d1c2772491ab4ca9a0] Sections 21 and 24—
 
 - (a) apply for the purpose of determining the amount of profits of a non-UK resident company that are attributable to a permanent establishment of the company in the United Kingdom, and
 - (b) contain provision about the separate enterprise principle.
@@ -44,10 +44,10 @@ summary: ''
 
 “**Specified**” means specified in regulations.
 
-(3)[^key-ed080ce74feb7e4e15cb9281734d26b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ed080ce74feb7e4e15cb9281734d26b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d11807caf009d9d1c2772491ab4ca9a0]: Textual amendment: [S. 20(1A)-(1E)](https://www.legislation.gov.uk/ukpga/2009/4/section/20/1A) substituted for s. 20(1)(2) (for chargeable periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 4](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/4), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-d11807caf009d9d1c2772491ab4ca9a0]: Textual amendment: [S. 20(1A)-(1E)](https://www.legislation.gov.uk/ukpga/2009/4/section/20/1A) substituted for s. 20(1)(2) (for chargeable periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 4](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/4), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
 
-[^key-ed080ce74feb7e4e15cb9281734d26b0]: Textual amendment: [S. 20(3)](https://www.legislation.gov.uk/ukpga/2009/4/section/20/3) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 18(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/18/2), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-ed080ce74feb7e4e15cb9281734d26b0]: Textual amendment: [S. 20(3)](https://www.legislation.gov.uk/ukpga/2009/4/section/20/3) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 18(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/18/2), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)

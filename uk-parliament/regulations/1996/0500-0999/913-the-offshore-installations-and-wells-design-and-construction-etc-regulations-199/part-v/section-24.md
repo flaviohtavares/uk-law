@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Transitional provision[^key-f40838f6171306cc3a19c5baa64ffa7b]
+## 24. Transitional provision[^c-f40838f6171306cc3a19c5baa64ffa7b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f40838f6171306cc3a19c5baa64ffa7b]: Textual amendment: Reg. 24 omitted (19.7.2015) by virtue of [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 32](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/32), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-f40838f6171306cc3a19c5baa64ffa7b]: Textual amendment: Reg. 24 omitted (19.7.2015) by virtue of [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 32](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/32), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))

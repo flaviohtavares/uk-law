@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198A. Power to make provision about treatment of payroll costs and assets[^key-f90d46c0ea16fa3d5440717abc6f82e6]
+## 198A. Power to make provision about treatment of payroll costs and assets[^c-f90d46c0ea16fa3d5440717abc6f82e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f90d46c0ea16fa3d5440717abc6f82e6]: Textual amendment: S. 198A inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/26)
+[^c-f90d46c0ea16fa3d5440717abc6f82e6]: Textual amendment: S. 198A inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/26)

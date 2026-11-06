@@ -33,7 +33,7 @@ An Act to provide for the construction of a bridge over the river Thames between
 
 \[28th June 1988\] [^c8137221]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-46eede43440d21c386195dec2cb4f22d][^key-0886457c7b3cc9e8de6e64c07aaf9eb7]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-46eede43440d21c386195dec2cb4f22d][^c-0886457c7b3cc9e8de6e64c07aaf9eb7]
 
 ## Contents
 
@@ -132,6 +132,6 @@ SCHEDULES
 
 [^c8137221]: Commencement: Act partly in force at Royal Assent see [s. 47(2)](https://www.legislation.gov.uk/ukpga/1988/20/section/47/2); Act wholly in force 31.7.1988 see [ss. 4](https://www.legislation.gov.uk/ukpga/1988/20/section/4), [47(2)](https://www.legislation.gov.uk/ukpga/1988/20/section/47/2)
 
-[^key-46eede43440d21c386195dec2cb4f22d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1988/20) applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/6)
+[^c-46eede43440d21c386195dec2cb4f22d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1988/20) applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/6)
 
-[^key-0886457c7b3cc9e8de6e64c07aaf9eb7]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1988/20) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/6)
+[^c-0886457c7b3cc9e8de6e64c07aaf9eb7]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1988/20) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/6)

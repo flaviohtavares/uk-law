@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Welfare Reform Act (Northern Ireland) 2007[^key-c59fb429dd8358d6ef1fa9f407bcf794]
+## 72. Welfare Reform Act (Northern Ireland) 2007[^c-c59fb429dd8358d6ef1fa9f407bcf794]
 
 *Extent: N.I.*
 
@@ -33,6 +33,6 @@ In paragraph 6 of Schedule 1 to the Welfare Reform Act (Northern Ireland) 2007[^
 
 ## Annotations
 
-[^key-c59fb429dd8358d6ef1fa9f407bcf794]: Commencement: Reg. 72 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-c59fb429dd8358d6ef1fa9f407bcf794]: Commencement: Reg. 72 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00131]: Footnote: [2007 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2).

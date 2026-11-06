@@ -33,7 +33,7 @@ An Act to consolidate the Clean Air Acts 1956 and 1968 and certain related enact
 
 \[27th May 1993\] [^c10490201]
 
-[^c10490191]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-3610200b5df20d930a944fcf596fdec7][^key-f2b09d1cc0f437a40eaaafc00974dc7c][^key-9e27299559ade9858566f8d09e6e7927][^key-569554db207c2f4ee6b4bf2655dd46bb][^key-9995db15db0cfb49051cbda2f9d851b0][^key-3a33f7d80197e0f1df20c270d4310d5f]
+[^c10490191]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-3610200b5df20d930a944fcf596fdec7][^c-f2b09d1cc0f437a40eaaafc00974dc7c][^c-9e27299559ade9858566f8d09e6e7927][^c-569554db207c2f4ee6b4bf2655dd46bb][^c-9995db15db0cfb49051cbda2f9d851b0][^c-3a33f7d80197e0f1df20c270d4310d5f]
 
 ## Contents
 
@@ -86,7 +86,7 @@ An Act to consolidate the Clean Air Acts 1956 and 1968 and certain related enact
 
 - [Section 17 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-17.md)
 
-### Part III — Smoke control areas[^key-5bc10fcccd9bcf7dcef58f83d79cb7e5][^key-3cbd7c48989ea97cfa14ea70bec7ae59]
+### Part III — Smoke control areas[^c-5bc10fcccd9bcf7dcef58f83d79cb7e5][^c-3cbd7c48989ea97cfa14ea70bec7ae59]
 
 *Extent: E+W+S*
 
@@ -95,14 +95,14 @@ An Act to consolidate the Clean Air Acts 1956 and 1968 and certain related enact
 - [Section 18 — Declaration of smoke control area by local authority.](part-iii/section-18.md)
 - [Section 19 — Power of Secretary of State to require creation of smoke control areas.](part-iii/section-19.md)
 
-#### Regulation of smoke and fuel in smoke control areas in England[^key-63db98e023d77f7587b39443988b245c]
+#### Regulation of smoke and fuel in smoke control areas in England[^c-63db98e023d77f7587b39443988b245c]
 
 - [Section 19A — Penalty for emission of smoke in smoke control area in England](part-iii/section-19a.md)
 - [Section 19B — Acquisition and sale of controlled solid fuel in England](part-iii/section-19b.md)
 - [Section 19C — Exemptions relating to particular areas in England](part-iii/section-19c.md)
 - [Section 19D — Interpretation: “approved fireplace” and “controlled solid fuel”](part-iii/section-19d.md)
 
-#### Regulation of smoke and fuel in smoke control areas in Wales[^key-4e04277b53d3dc94104038d30bf74f79]
+#### Regulation of smoke and fuel in smoke control areas in Wales[^c-4e04277b53d3dc94104038d30bf74f79]
 
 *Extent: E+W*
 
@@ -111,13 +111,13 @@ An Act to consolidate the Clean Air Acts 1956 and 1968 and certain related enact
 - [Section 19G — Section 19F: interpretation](part-iii/section-19g.md)
 - [Section 19H — Exemptions relating to particular areas in Wales](part-iii/section-19h.md)
 
-#### Prohibition on emission of smoke in smoke control area (affected by repeal, see note)[^key-994953bf38659969bbd8142e491d2af1]
+#### Prohibition on emission of smoke in smoke control area (affected by repeal, see note)[^c-994953bf38659969bbd8142e491d2af1]
 
 - [Section 20 — Prohibition on emission of smoke in smoke control area.](part-iii/section-20.md)
 - [Section 21 — Power ... to exempt certain fireplaces.](part-iii/section-21.md)
 - [Section 22 — Exemptions relating to particular areas.](part-iii/section-22.md)
 
-#### Dealings with unauthorised fuel (affected by repeal, see note)[^key-994953bf38659969bbd8142e491d2af1]
+#### Dealings with unauthorised fuel (affected by repeal, see note)[^c-994953bf38659969bbd8142e491d2af1]
 
 - [Section 23 — Acquisition and sale of unauthorised fuel in a smoke control area.](part-iii/section-23.md)
 
@@ -233,24 +233,24 @@ SCHEDULES
 
     Act: applied (with modifications) (23.6.1999) by [S.I. 1999/1736](https://www.legislation.gov.uk/uksi/1999/1736), [art. 15](https://www.legislation.gov.uk/uksi/1999/1736/article/15)
 
-[^key-3610200b5df20d930a944fcf596fdec7]: Modification: Act modified (E.) (6.4.2010) by [The Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
+[^c-3610200b5df20d930a944fcf596fdec7]: Modification: Act modified (E.) (6.4.2010) by [The Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
 
-[^key-f2b09d1cc0f437a40eaaafc00974dc7c]: Modification: Act modified (E.) (6.4.2010) by [The Southampton Port Health Authority Order 2010 (S.I. 2010/1218)](https://www.legislation.gov.uk/uksi/2010/1218), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1218/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1218/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1218/schedule)
+[^c-f2b09d1cc0f437a40eaaafc00974dc7c]: Modification: Act modified (E.) (6.4.2010) by [The Southampton Port Health Authority Order 2010 (S.I. 2010/1218)](https://www.legislation.gov.uk/uksi/2010/1218), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1218/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1218/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1218/schedule)
 
-[^key-9e27299559ade9858566f8d09e6e7927]: Modification: Act modified (E.) (6.4.2010) by [The Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
+[^c-9e27299559ade9858566f8d09e6e7927]: Modification: Act modified (E.) (6.4.2010) by [The Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
 
-[^key-569554db207c2f4ee6b4bf2655dd46bb]: Modification: Act modified (E.) (6.4.2010) by [The Bristol Port Health Authority Order 2010 (S.I. 2010/1214)](https://www.legislation.gov.uk/uksi/2010/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1214/article/1), [4](https://www.legislation.gov.uk/uksi/2010/1214/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1214/schedule)
+[^c-569554db207c2f4ee6b4bf2655dd46bb]: Modification: Act modified (E.) (6.4.2010) by [The Bristol Port Health Authority Order 2010 (S.I. 2010/1214)](https://www.legislation.gov.uk/uksi/2010/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1214/article/1), [4](https://www.legislation.gov.uk/uksi/2010/1214/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1214/schedule)
 
-[^key-9995db15db0cfb49051cbda2f9d851b0]: Modification: Act applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
+[^c-9995db15db0cfb49051cbda2f9d851b0]: Modification: Act applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
 
-[^key-3a33f7d80197e0f1df20c270d4310d5f]: Modification: Act applied (with modifications) (E.) (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
+[^c-3a33f7d80197e0f1df20c270d4310d5f]: Modification: Act applied (with modifications) (E.) (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
 
-[^key-5bc10fcccd9bcf7dcef58f83d79cb7e5]: Modification: Pt. 3: functions etc. assigned to the Port Health Authority and modified (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/558/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/558/schedule/2) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/558/article/9/3))
+[^c-5bc10fcccd9bcf7dcef58f83d79cb7e5]: Modification: Pt. 3: functions etc. assigned to the Port Health Authority and modified (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/558/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/558/schedule/2) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/558/article/9/3))
 
-[^key-3cbd7c48989ea97cfa14ea70bec7ae59]: Modification: Pt. 3: functions etc. assigned to the Port Health Authority (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1161/schedule) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))
+[^c-3cbd7c48989ea97cfa14ea70bec7ae59]: Modification: Pt. 3: functions etc. assigned to the Port Health Authority (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1161/schedule) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))
 
-[^key-63db98e023d77f7587b39443988b245c]: Textual amendment: S. 19A and cross-heading inserted (E.W.) (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144), [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/26)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-63db98e023d77f7587b39443988b245c]: Textual amendment: S. 19A and cross-heading inserted (E.W.) (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144), [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/26)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-4e04277b53d3dc94104038d30bf74f79]: Textual amendment: [Ss. 19E-19H](https://www.legislation.gov.uk/ukpga/1993/11/section/19E) and cross-heading inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 19(2)](https://www.legislation.gov.uk/asc/2024/2/section/19/2), [30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3); [S.I. 2025/937](https://www.legislation.gov.uk/uksi/2025/937), [art. 2(d)](https://www.legislation.gov.uk/uksi/2025/937/article/2/d)
+[^c-4e04277b53d3dc94104038d30bf74f79]: Textual amendment: [Ss. 19E-19H](https://www.legislation.gov.uk/ukpga/1993/11/section/19E) and cross-heading inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 19(2)](https://www.legislation.gov.uk/asc/2024/2/section/19/2), [30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3); [S.I. 2025/937](https://www.legislation.gov.uk/uksi/2025/937), [art. 2(d)](https://www.legislation.gov.uk/uksi/2025/937/article/2/d)
 
-[^key-994953bf38659969bbd8142e491d2af1]: Textual amendment: Ss. 20-23 and cross-headings repealed (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 12](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/12); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-994953bf38659969bbd8142e491d2af1]: Textual amendment: Ss. 20-23 and cross-headings repealed (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 12](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/12); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)

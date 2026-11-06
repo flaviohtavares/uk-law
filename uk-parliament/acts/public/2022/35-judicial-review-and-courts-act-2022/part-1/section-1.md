@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Quashing orders[^key-a4ad28b3c40a4340716581a633467a3e][^key-158202cc9cf781f2a27ce8ca4db18c1d]
+## 1. Quashing orders[^c-a4ad28b3c40a4340716581a633467a3e][^c-158202cc9cf781f2a27ce8ca4db18c1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a4ad28b3c40a4340716581a633467a3e]: Commencement: S. 1 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-a4ad28b3c40a4340716581a633467a3e]: Commencement: S. 1 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-158202cc9cf781f2a27ce8ca4db18c1d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/35/section/1) in force at 14.7.2022 by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/a)
+[^c-158202cc9cf781f2a27ce8ca4db18c1d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/35/section/1) in force at 14.7.2022 by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/a)

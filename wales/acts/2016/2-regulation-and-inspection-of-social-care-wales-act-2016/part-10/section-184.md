@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Service of documents etc.[^key-ad63def22e154646828600c0ddbcaf06][^key-0db0b2617b7163801051dc5a48f2c6c8]
+## 184. Service of documents etc.[^c-ad63def22e154646828600c0ddbcaf06][^c-0db0b2617b7163801051dc5a48f2c6c8]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ad63def22e154646828600c0ddbcaf06]: Commencement: [S. 184](https://www.legislation.gov.uk/anaw/2016/2/section/184) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(i)](https://www.legislation.gov.uk/wsi/2017/309/article/2/i) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-ad63def22e154646828600c0ddbcaf06]: Commencement: [S. 184](https://www.legislation.gov.uk/anaw/2016/2/section/184) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(i)](https://www.legislation.gov.uk/wsi/2017/309/article/2/i) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
 
-[^key-0db0b2617b7163801051dc5a48f2c6c8]: Modification: [S. 184](https://www.legislation.gov.uk/anaw/2016/2/section/184) applied (2.4.2018) by [The Regulated Services (Penalty Notices) (Wales) Regulations 2017 (S.I. 2017/1292)](https://www.legislation.gov.uk/wsi/2017/1292), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/1292/regulation/1/2), [7(2)](https://www.legislation.gov.uk/wsi/2017/1292/regulation/7/2)
+[^c-0db0b2617b7163801051dc5a48f2c6c8]: Modification: [S. 184](https://www.legislation.gov.uk/anaw/2016/2/section/184) applied (2.4.2018) by [The Regulated Services (Penalty Notices) (Wales) Regulations 2017 (S.I. 2017/1292)](https://www.legislation.gov.uk/wsi/2017/1292), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/1292/regulation/1/2), [7(2)](https://www.legislation.gov.uk/wsi/2017/1292/regulation/7/2)

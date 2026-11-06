@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55. Investigation and prosecution after 1st April 2019 in relation to conduct before that date[^key-d998af24a8437c5ada86a1c35acfc790][^key-8ba0b6f7cb17b7d195651846a0c1fe50]
+## 55. Investigation and prosecution after 1st April 2019 in relation to conduct before that date[^c-d998af24a8437c5ada86a1c35acfc790][^c-8ba0b6f7cb17b7d195651846a0c1fe50]
 
 *Extent: E+W+S*
 
@@ -66,9 +66,9 @@ summary: ''
 
 ## Annotations
 
-[^key-d998af24a8437c5ada86a1c35acfc790]: Commencement: Art. 55 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-d998af24a8437c5ada86a1c35acfc790]: Commencement: Art. 55 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-8ba0b6f7cb17b7d195651846a0c1fe50]: Commencement: [Art. 55](https://www.legislation.gov.uk/uksi/2018/1253/article/55) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-8ba0b6f7cb17b7d195651846a0c1fe50]: Commencement: [Art. 55](https://www.legislation.gov.uk/uksi/2018/1253/article/55) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00095]: Footnote: Section 167 was amended by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), section 41.
 

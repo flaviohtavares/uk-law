@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 71. Repeals[^key-06de30e1f1535dac681396f6c1104cc6]
+## 71. Repeals[^c-06de30e1f1535dac681396f6c1104cc6]
 
 *Extent: E*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06de30e1f1535dac681396f6c1104cc6]: Commencement: S. 71 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-06de30e1f1535dac681396f6c1104cc6]: Commencement: S. 71 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

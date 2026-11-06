@@ -50,13 +50,13 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-1fa1889a70f4a48851d14975bfcef9a0]
+### 1. Citation and commencement[^c-1fa1889a70f4a48851d14975bfcef9a0]
 
 These Regulations may be cited as the Protecting against the Effects of the Extraterritorial Application of Third Country Legislation (Amendment) (EU Exit) Regulations 2020 and come into force on the day after the day on which they are made.
 
 ## PART 2 — Amendment of subordinate legislation
 
-### 2. Amendment of the Extraterritorial US Legislation (Sanctions against Cuba, Iran and Libya) (Protection of Trading Interests) Order 1996[^key-fbfd7fc0cea86852529349914f86028f]
+### 2. Amendment of the Extraterritorial US Legislation (Sanctions against Cuba, Iran and Libya) (Protection of Trading Interests) Order 1996[^c-fbfd7fc0cea86852529349914f86028f]
 
 (1) The Extraterritorial US Legislation (Sanctions against Cuba, Iran and Libya) (Protection of Trading Interests) Order 1996[^f00002] is amended as follows.
 
@@ -72,7 +72,7 @@ These Regulations may be cited as the Protecting against the Effects of the Extr
 
 ## PART 3 — Amendment of retained direct EU legislation
 
-### 3. Amendment of Council Regulation [(EC) No 2271/96](https://www.legislation.gov.uk/european/regulation/1996/2271)[^key-90af0c77916668224e4cf35c384570b2]
+### 3. Amendment of Council Regulation [(EC) No 2271/96](https://www.legislation.gov.uk/european/regulation/1996/2271)[^c-90af0c77916668224e4cf35c384570b2]
 
 (1) Council Regulation [(EC) No 2271/96](https://www.legislation.gov.uk/european/regulation/1996/2271) of 22 November 1996 protecting against the effects of the extra-territorial application of legislation adopted by a third country, and actions based thereon or resulting therefrom, is amended as follows.
 
@@ -167,7 +167,7 @@ These Regulations may be cited as the Protecting against the Effects of the Extr
 - (a) for “EU interests” in each place that it occurs, substitute “United Kingdom interests”;
 - (b) for “EU citizens or companies”, substitute “United Kingdom nationals or companies”.
 
-### 4. Amendment of [Commission Implementing Regulation (EU) 2018/1101](https://www.legislation.gov.uk/european/regulation/2018/1101)[^key-eaf5cd69cbf87d37a06dca554702c6a7]
+### 4. Amendment of [Commission Implementing Regulation (EU) 2018/1101](https://www.legislation.gov.uk/european/regulation/2018/1101)[^c-eaf5cd69cbf87d37a06dca554702c6a7]
 
 (1) [Commission Implementing Regulation (EU) 2018/1101](https://www.legislation.gov.uk/european/regulation/2018/1101) of 3 August 2018 laying down the criteria for the application of the second paragraph of Article 5 of Council Regulation [(EC) No 2271/96](https://www.legislation.gov.uk/european/regulation/1996/2271) protecting against the effects of the extra-territorial application of legislation adopted by a third country, and actions based thereon or resulting therefrom, is amended as follows.
 
@@ -207,19 +207,19 @@ These Regulations may be cited as the Protecting against the Effects of the Extr
 
 ## PART 4 — Transitional etc provisions
 
-### 5. Treatment of assimilated [Commission Implementing Regulation (EU) 2018/1101](https://www.legislation.gov.uk/european/regulation/2018/1101)[^key-cbeaf1da5c708a85dcc2b236d40af205][^key-a2669fe853e903c26d9bd598b857cff9]
+### 5. Treatment of assimilated [Commission Implementing Regulation (EU) 2018/1101](https://www.legislation.gov.uk/european/regulation/2018/1101)[^c-cbeaf1da5c708a85dcc2b236d40af205][^c-a2669fe853e903c26d9bd598b857cff9]
 
-The assimilated[^key-af1d79e858dd671be8932f948c6f5750] Commission Implementing Regulation is to be treated as if it were regulations made by the Secretary of State under point (b) of the second paragraph of Article 5 of the assimilated Blocking Regulation.
+The assimilated[^c-af1d79e858dd671be8932f948c6f5750] Commission Implementing Regulation is to be treated as if it were regulations made by the Secretary of State under point (b) of the second paragraph of Article 5 of the assimilated Blocking Regulation.
 
-### 6. Transitional provision relating to certain authorisations[^key-a0117835e9b184aeed97bf2a6caf8cd2]
+### 6. Transitional provision relating to certain authorisations[^c-a0117835e9b184aeed97bf2a6caf8cd2]
 
-A United Kingdom person authorised pursuant to the second paragraph of Article 5 of Council Regulation [(EC) No 2271/96](https://www.legislation.gov.uk/european/regulation/1996/2271) of 22 November 1996 protecting against the effects of the extra-territorial application of legislation adopted by a third country, and actions based thereon or resulting therefrom, as it had effect immediately before exit day, is to be treated as if authorised by regulations made by the Secretary of State under point (a) of the second paragraph of Article 5 of the assimilated[^key-528a780bde956eab76320e6fd99dc41b] Blocking Regulation.
+A United Kingdom person authorised pursuant to the second paragraph of Article 5 of Council Regulation [(EC) No 2271/96](https://www.legislation.gov.uk/european/regulation/1996/2271) of 22 November 1996 protecting against the effects of the extra-territorial application of legislation adopted by a third country, and actions based thereon or resulting therefrom, as it had effect immediately before exit day, is to be treated as if authorised by regulations made by the Secretary of State under point (a) of the second paragraph of Article 5 of the assimilated[^c-528a780bde956eab76320e6fd99dc41b] Blocking Regulation.
 
-### 7. Definitions in this Part[^key-e692f8f79c47b337e4c41ab64d0244af]
+### 7. Definitions in this Part[^c-e692f8f79c47b337e4c41ab64d0244af]
 
 In this Part—
 
-- “ assimilated[^key-af6cd020c8eab08647772b89b58da60c] Blocking Regulation” means Council Regulation [(EC) No 2271/96](https://www.legislation.gov.uk/european/regulation/1996/2271) of 22 November 1996 protecting against the effects of the extra-territorial application of legislation adopted by a third country, and actions based thereon or resulting therefrom, as it forms part of domestic law by virtue of section 3 of the European Union (Withdrawal) Act 2018 and the provision made by these regulations;
+- “ assimilated[^c-af6cd020c8eab08647772b89b58da60c] Blocking Regulation” means Council Regulation [(EC) No 2271/96](https://www.legislation.gov.uk/european/regulation/1996/2271) of 22 November 1996 protecting against the effects of the extra-territorial application of legislation adopted by a third country, and actions based thereon or resulting therefrom, as it forms part of domestic law by virtue of section 3 of the European Union (Withdrawal) Act 2018 and the provision made by these regulations;
 - “ assimilated Commission Implementing Regulation” means [Commission Implementing Regulation 2018 (EU) 2018/1101](https://www.legislation.gov.uk/european/regulation/2018/1101) of 3 August 2018 laying down the criteria for the application of the second paragraph of Article 5 of Council Regulation [(EC) No 2271/96](https://www.legislation.gov.uk/european/regulation/1996/2271) protecting against the effects of the extra-territorial application of legislation adopted by a third country, and actions based thereon or resulting therefrom, as it forms part of domestic law by virtue of section 3 of the European Union (Withdrawal) Act 2018 and the provision made by these regulations;
 - “United Kingdom person” means a person who would, upon the coming into force of these regulations, fall within Article 11 of the assimilated Blocking Regulation.
 
@@ -247,30 +247,30 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-1fa1889a70f4a48851d14975bfcef9a0]: Commencement: Reg. 1 in force at 1.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1)
+[^c-1fa1889a70f4a48851d14975bfcef9a0]: Commencement: Reg. 1 in force at 1.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1)
 
-[^key-fbfd7fc0cea86852529349914f86028f]: Commencement: Reg. 2 in force at 1.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1)
+[^c-fbfd7fc0cea86852529349914f86028f]: Commencement: Reg. 2 in force at 1.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1996/3171](https://www.legislation.gov.uk/uksi/1996/3171), amended by [S.I. 2018/1357](https://www.legislation.gov.uk/uksi/2018/1357); there is another amending instrument but it is not relevant.
 
 [^f00003]: Footnote: [S.I. 2020/1660](https://www.legislation.gov.uk/uksi/2020/1660).
 
-[^key-90af0c77916668224e4cf35c384570b2]: Commencement: Reg. 3 in force at 1.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1)
+[^c-90af0c77916668224e4cf35c384570b2]: Commencement: Reg. 3 in force at 1.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1)
 
 [^f00004]: Footnote: [1981 c.61](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^key-eaf5cd69cbf87d37a06dca554702c6a7]: Commencement: Reg. 4 in force at 1.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1)
+[^c-eaf5cd69cbf87d37a06dca554702c6a7]: Commencement: Reg. 4 in force at 1.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1)
 
-[^key-cbeaf1da5c708a85dcc2b236d40af205]: Commencement: Reg. 5 in force at 1.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1)
+[^c-cbeaf1da5c708a85dcc2b236d40af205]: Commencement: Reg. 5 in force at 1.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1)
 
-[^key-a2669fe853e903c26d9bd598b857cff9]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2020/1660/regulation/5) heading substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 14(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/14/2/a)
+[^c-a2669fe853e903c26d9bd598b857cff9]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2020/1660/regulation/5) heading substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 14(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/14/2/a)
 
-[^key-af1d79e858dd671be8932f948c6f5750]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2020/1660/regulation/5) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 14(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/14/2/a)
+[^c-af1d79e858dd671be8932f948c6f5750]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2020/1660/regulation/5) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 14(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/14/2/a)
 
-[^key-a0117835e9b184aeed97bf2a6caf8cd2]: Commencement: Reg. 6 in force at 1.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1)
+[^c-a0117835e9b184aeed97bf2a6caf8cd2]: Commencement: Reg. 6 in force at 1.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1)
 
-[^key-528a780bde956eab76320e6fd99dc41b]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/uksi/2020/1660/regulation/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 14(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/14/2/b)
+[^c-528a780bde956eab76320e6fd99dc41b]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/uksi/2020/1660/regulation/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 14(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/14/2/b)
 
-[^key-e692f8f79c47b337e4c41ab64d0244af]: Commencement: Reg. 7 in force at 1.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1)
+[^c-e692f8f79c47b337e4c41ab64d0244af]: Commencement: Reg. 7 in force at 1.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1)
 
-[^key-af6cd020c8eab08647772b89b58da60c]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/2020/1660/regulation/7) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 14(2)(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/14/2/c)
+[^c-af6cd020c8eab08647772b89b58da60c]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/2020/1660/regulation/7) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 14(2)(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/14/2/c)

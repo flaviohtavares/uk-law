@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Obligatory warning beacons[^key-7869b733231d9861ba894681a2654b75]
+## 20. Obligatory warning beacons[^c-7869b733231d9861ba894681a2654b75]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7869b733231d9861ba894681a2654b75]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2000/169/regulation/20) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-7869b733231d9861ba894681a2654b75]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2000/169/regulation/20) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

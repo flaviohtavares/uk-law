@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Removal of notification conditions[^key-52b428fc759de35cb38104c9708cd530]
+## 187. Removal of notification conditions[^c-52b428fc759de35cb38104c9708cd530]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52b428fc759de35cb38104c9708cd530]: Commencement: S. 187 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-52b428fc759de35cb38104c9708cd530]: Commencement: S. 187 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

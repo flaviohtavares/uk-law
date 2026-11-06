@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Supplementary provision and interpretation[^key-311a9c706965b5ec5ced52a2bfb29b23]
+## 75. Supplementary provision and interpretation[^c-311a9c706965b5ec5ced52a2bfb29b23]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-311a9c706965b5ec5ced52a2bfb29b23]: Commencement: [S. 75](https://www.legislation.gov.uk/mwa/2011/4/section/75) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/h)
+[^c-311a9c706965b5ec5ced52a2bfb29b23]: Commencement: [S. 75](https://www.legislation.gov.uk/mwa/2011/4/section/75) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/h)

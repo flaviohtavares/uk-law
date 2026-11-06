@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Judicial examination: questioning by prosecutor.[^key-2aa1c2a76e6772787f643e252adae824]
+## 36. Judicial examination: questioning by prosecutor.[^c-2aa1c2a76e6772787f643e252adae824]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2aa1c2a76e6772787f643e252adae824]: Textual amendment: [S. 36](https://www.legislation.gov.uk/ukpga/1995/46/section/36) repealed (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 78(2)(b)](https://www.legislation.gov.uk/asp/2016/1/section/78/2/b), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/426/article/3))
+[^c-2aa1c2a76e6772787f643e252adae824]: Textual amendment: [S. 36](https://www.legislation.gov.uk/ukpga/1995/46/section/36) repealed (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 78(2)(b)](https://www.legislation.gov.uk/asp/2016/1/section/78/2/b), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/426/article/3))

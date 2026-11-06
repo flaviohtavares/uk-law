@@ -31,53 +31,53 @@ Licensing (Sunday Hours) Act 1995 (repealed)
 
 1995 c. 33
 
-[^key-c846fba0de8a1a8ccdd317e5fdb6b00d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c846fba0de8a1a8ccdd317e5fdb6b00d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Permitted hours in licensed premises.[^key-c846fba0de8a1a8ccdd317e5fdb6b00d][^key-c846fba0de8a1a8ccdd317e5fdb6b00d]
+## 1. Permitted hours in licensed premises.[^c-c846fba0de8a1a8ccdd317e5fdb6b00d][^c-c846fba0de8a1a8ccdd317e5fdb6b00d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Permitted hours in registered clubs.[^key-c846fba0de8a1a8ccdd317e5fdb6b00d][^key-c846fba0de8a1a8ccdd317e5fdb6b00d]
+## 2. Permitted hours in registered clubs.[^c-c846fba0de8a1a8ccdd317e5fdb6b00d][^c-c846fba0de8a1a8ccdd317e5fdb6b00d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Restriction orders.[^key-c846fba0de8a1a8ccdd317e5fdb6b00d][^key-c846fba0de8a1a8ccdd317e5fdb6b00d]
+## 3. Restriction orders.[^c-c846fba0de8a1a8ccdd317e5fdb6b00d][^c-c846fba0de8a1a8ccdd317e5fdb6b00d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Consequential amendments and repeals.[^key-c846fba0de8a1a8ccdd317e5fdb6b00d][^key-c846fba0de8a1a8ccdd317e5fdb6b00d]
+## 4. Consequential amendments and repeals.[^c-c846fba0de8a1a8ccdd317e5fdb6b00d][^c-c846fba0de8a1a8ccdd317e5fdb6b00d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Commencement.[^key-c846fba0de8a1a8ccdd317e5fdb6b00d][^key-c846fba0de8a1a8ccdd317e5fdb6b00d]
+## 5. Commencement.[^c-c846fba0de8a1a8ccdd317e5fdb6b00d][^c-c846fba0de8a1a8ccdd317e5fdb6b00d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Short title and extent.[^key-c846fba0de8a1a8ccdd317e5fdb6b00d][^key-c846fba0de8a1a8ccdd317e5fdb6b00d]
+## 6. Short title and extent.[^c-c846fba0de8a1a8ccdd317e5fdb6b00d][^c-c846fba0de8a1a8ccdd317e5fdb6b00d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-c846fba0de8a1a8ccdd317e5fdb6b00d] SCHEDULES
+[^c-c846fba0de8a1a8ccdd317e5fdb6b00d] SCHEDULES
 
-## SCHEDULE 1 — Consequential Amendments[^key-c846fba0de8a1a8ccdd317e5fdb6b00d]
+## SCHEDULE 1 — Consequential Amendments[^c-c846fba0de8a1a8ccdd317e5fdb6b00d]
 
 Section 4(1)
 
-**1.**[^key-c846fba0de8a1a8ccdd317e5fdb6b00d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c846fba0de8a1a8ccdd317e5fdb6b00d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c846fba0de8a1a8ccdd317e5fdb6b00d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c846fba0de8a1a8ccdd317e5fdb6b00d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c846fba0de8a1a8ccdd317e5fdb6b00d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c846fba0de8a1a8ccdd317e5fdb6b00d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c846fba0de8a1a8ccdd317e5fdb6b00d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c846fba0de8a1a8ccdd317e5fdb6b00d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c846fba0de8a1a8ccdd317e5fdb6b00d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c846fba0de8a1a8ccdd317e5fdb6b00d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Repeals[^key-c846fba0de8a1a8ccdd317e5fdb6b00d]
+## SCHEDULE 2 — Repeals[^c-c846fba0de8a1a8ccdd317e5fdb6b00d]
 
 Section 4(2).
 
@@ -85,4 +85,4 @@ Section 4(2).
 
 ## Annotations
 
-[^key-c846fba0de8a1a8ccdd317e5fdb6b00d]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1995/33) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-c846fba0de8a1a8ccdd317e5fdb6b00d]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1995/33) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))

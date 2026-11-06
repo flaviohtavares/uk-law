@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Revocation of retained direct EU legislation[^key-e33ff860f001ceafdbf5f4069441f346]
+## 22. Revocation of retained direct EU legislation[^c-e33ff860f001ceafdbf5f4069441f346]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Regulation (EU) No. 415/2013 laying down additional responsibilities 
 
 ## Annotations
 
-[^key-e33ff860f001ceafdbf5f4069441f346]: Commencement: Reg. 22 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
+[^c-e33ff860f001ceafdbf5f4069441f346]: Commencement: Reg. 22 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Consultation of youth offending team[^key-84bd961daa4858671900f81112839b72]
+## 36. Consultation of youth offending team[^c-84bd961daa4858671900f81112839b72]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84bd961daa4858671900f81112839b72]: Commencement: S. 36 in force at 9.1.2012 by [S.I. 2011/3016](https://www.legislation.gov.uk/uksi/2011/3016), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/3016/article/2/c)
+[^c-84bd961daa4858671900f81112839b72]: Commencement: S. 36 in force at 9.1.2012 by [S.I. 2011/3016](https://www.legislation.gov.uk/uksi/2011/3016), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/3016/article/2/c)

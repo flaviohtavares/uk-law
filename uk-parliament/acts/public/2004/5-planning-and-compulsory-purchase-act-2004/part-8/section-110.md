@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 110. Corresponding amendments of other enactments[^key-7dc33d1c90e955efa84c954444c0194f]
+## 110. Corresponding amendments of other enactments[^c-7dc33d1c90e955efa84c954444c0194f]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7dc33d1c90e955efa84c954444c0194f]: Commencement: S. 110 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
+[^c-7dc33d1c90e955efa84c954444c0194f]: Commencement: S. 110 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)

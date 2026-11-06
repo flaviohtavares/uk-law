@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25ZA. Power to modify this Part[^key-0b6be597e9fd824bc1feed4e476d8cfb]
+## 25ZA. Power to modify this Part[^c-0b6be597e9fd824bc1feed4e476d8cfb]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b6be597e9fd824bc1feed4e476d8cfb]: Textual amendment: [S. 25ZA](https://www.legislation.gov.uk/ukpga/1988/43/section/25ZA) inserted (temp. until the end of 31.3.2025) (28.10.2022) by virtue of [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1), [sch. 3 para. 2(2)](https://www.legislation.gov.uk/asp/2022/10/schedule/3/paragraph/2/2) (with [s. 11](https://www.legislation.gov.uk/asp/2022/10/section/11)) (with savings for expiry in [S.S.I. 2025/29](https://www.legislation.gov.uk/ssi/2025/29), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/29/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2025/29/regulation/2))
+[^c-0b6be597e9fd824bc1feed4e476d8cfb]: Textual amendment: [S. 25ZA](https://www.legislation.gov.uk/ukpga/1988/43/section/25ZA) inserted (temp. until the end of 31.3.2025) (28.10.2022) by virtue of [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1), [sch. 3 para. 2(2)](https://www.legislation.gov.uk/asp/2022/10/schedule/3/paragraph/2/2) (with [s. 11](https://www.legislation.gov.uk/asp/2022/10/section/11)) (with savings for expiry in [S.S.I. 2025/29](https://www.legislation.gov.uk/ssi/2025/29), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/29/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2025/29/regulation/2))

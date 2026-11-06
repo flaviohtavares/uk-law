@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Persons competent to make applications under s. 136.[^key-dbd96113761245f9130a3500d06799c1]
+## 137. Persons competent to make applications under s. 136.[^c-dbd96113761245f9130a3500d06799c1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbd96113761245f9130a3500d06799c1]: Textual amendment: Ss. 136-141 repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [ss. 161](https://www.legislation.gov.uk/ukpga/1995/26/section/161), [180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 7 Pt. IV](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/IV); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/II) (with [art. 9](https://www.legislation.gov.uk/uksi/1997/664/article/9))
+[^c-dbd96113761245f9130a3500d06799c1]: Textual amendment: Ss. 136-141 repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [ss. 161](https://www.legislation.gov.uk/ukpga/1995/26/section/161), [180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 7 Pt. IV](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/IV); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/II) (with [art. 9](https://www.legislation.gov.uk/uksi/1997/664/article/9))

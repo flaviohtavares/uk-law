@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Interpretation[^key-72369f7509d51ce0514445a98478b018]
+## 127. Interpretation[^c-72369f7509d51ce0514445a98478b018]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-72369f7509d51ce0514445a98478b018]: Commencement: Art. 127 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-72369f7509d51ce0514445a98478b018]: Commencement: Art. 127 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00121]: Footnote: Regulation 2(1) was relevantly amended by regulation 3(a) and (b) of S.I. [1996/3114](https://www.legislation.gov.uk/uksi/1996/3114).

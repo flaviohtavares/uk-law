@@ -45,12 +45,12 @@ summary: ''
 
 (5) Where there is only one defendant and he objects to the making of an order under subsection (2), (3) or (4)—
 
-- (a) the judge, the Court of Appeal or the Supreme Court is[^c19163971] to make the order if (and only if) satisfied, after considering[^key-7f73763eb0df4bca51dcb1e3cbb3b071] the representations of the defendant, that it is in the interests of justice to do so, and
+- (a) the judge, the Court of Appeal or the Supreme Court is[^c19163971] to make the order if (and only if) satisfied, after considering[^c-7f73763eb0df4bca51dcb1e3cbb3b071] the representations of the defendant, that it is in the interests of justice to do so, and
 - (b) the order (if made) is not to apply to the extent that a report deals with any such objection or representations.
 
 (6) Where there are two or more defendants and one or more of them object to the making of an order under subsection (2), (3) or (4)—
 
-- (a) the judge, the Court of Appeal or the Supreme Court is to make the order if (and only if) satisfied, after considering[^key-910979cbeb37376267fccc3a09851c99] the representations of each of the defendants, that it is in the interests of justice to do so, and
+- (a) the judge, the Court of Appeal or the Supreme Court is to make the order if (and only if) satisfied, after considering[^c-910979cbeb37376267fccc3a09851c99] the representations of each of the defendants, that it is in the interests of justice to do so, and
 - (b) the order (if made) is not to apply to the extent that a report deals with any such objection or representations.
 
 (7) Subsection (1) does not apply to the inclusion in a publication of a report of—
@@ -70,7 +70,7 @@ at the conclusion of the trial of the defendant or the last of the defendants to
 - (d) the names of counsel and solicitors in the proceedings,
 - (e) where the proceedings are adjourned, the date and place to which they are adjourned,
 - (f) any arrangements as to bail,
-- (g)[^key-b0a57528a9ab6234dd526eac14bd9251] whether, for the purposes of the proceedings, representation was provided to the defendant or any of the defendants under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
+- (g)[^c-b0a57528a9ab6234dd526eac14bd9251] whether, for the purposes of the proceedings, representation was provided to the defendant or any of the defendants under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
 
 (9) The addresses that may be included in a report by virtue of subsection (8) are addresses—
 
@@ -98,8 +98,8 @@ at the conclusion of the trial of the defendant or the last of the defendants to
 
 [^c19163971]: Textual amendment: Words in s. 71(5)(6) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40(4)](https://www.legislation.gov.uk/ukpga/2005/4/section/40/4), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 82(3)(c)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/82/3/c); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-7f73763eb0df4bca51dcb1e3cbb3b071]: Textual amendment: Word in [s. 71(5)(a)](https://www.legislation.gov.uk/ukpga/2003/44/section/71/5/a) substituted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 15(7)](https://www.legislation.gov.uk/ukpga/2022/35/section/15/7), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
+[^c-7f73763eb0df4bca51dcb1e3cbb3b071]: Textual amendment: Word in [s. 71(5)(a)](https://www.legislation.gov.uk/ukpga/2003/44/section/71/5/a) substituted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 15(7)](https://www.legislation.gov.uk/ukpga/2022/35/section/15/7), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
 
-[^key-910979cbeb37376267fccc3a09851c99]: Textual amendment: Word in [s. 71(6)(a)](https://www.legislation.gov.uk/ukpga/2003/44/section/71/6/a) substituted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 15(7)](https://www.legislation.gov.uk/ukpga/2022/35/section/15/7), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
+[^c-910979cbeb37376267fccc3a09851c99]: Textual amendment: Word in [s. 71(6)(a)](https://www.legislation.gov.uk/ukpga/2003/44/section/71/6/a) substituted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 15(7)](https://www.legislation.gov.uk/ukpga/2022/35/section/15/7), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
 
-[^key-b0a57528a9ab6234dd526eac14bd9251]: Textual amendment: [S. 71(8)(g)](https://www.legislation.gov.uk/ukpga/2003/44/section/71/8/g) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 65](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/65); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-b0a57528a9ab6234dd526eac14bd9251]: Textual amendment: [S. 71(8)(g)](https://www.legislation.gov.uk/ukpga/2003/44/section/71/8/g) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 65](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/65); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)

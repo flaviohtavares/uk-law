@@ -292,12 +292,12 @@ the works or use shall, at all times after the coming into effect of the transfe
 
 (5) In the ordnance provisions—
 
-- “**company**” means a company formed and registered under the Companies Act 2006[^key-f2ee92f2c57785d16f758c4665668027];
+- “**company**” means a company formed and registered under the Companies Act 2006[^c-f2ee92f2c57785d16f758c4665668027];
 - “**debenture**” includes debenture stock;
 - “**scheme**” means a scheme made under section 1(1);
 - “**securities**”, in relation to a company, includes shares, debentures, bonds and other securities of the company, whether or not constituting a charge on the assets of the company;
 - “**shares**” includes stock;
-- “[^c1002103] **subsidiary** ” and “ **wholly owned subsidiary** ” have the meanings given by section 1159 of the Companies Act 2006[^key-f023d8e4e21c333f9c0debca02f3d63c].
+- “[^c1002103] **subsidiary** ” and “ **wholly owned subsidiary** ” have the meanings given by section 1159 of the Companies Act 2006[^c-f023d8e4e21c333f9c0debca02f3d63c].
 
 ### 15. Repeal.
 
@@ -402,21 +402,21 @@ Section 4.
 
 **1.** Subject to paragraph 2, no scheme may provide for the transfer of rights or liabilities relating to a person’s employment.
 
-**2.** (1) This paragraph applies where a scheme contains provision under section 1(1)(a) for a transfer that is a relevant transfer for the purposes of the[^key-4eb1dabb4e5def709835318618b63660] 2006 regulations..
+**2.** (1) This paragraph applies where a scheme contains provision under section 1(1)(a) for a transfer that is a relevant transfer for the purposes of the[^c-4eb1dabb4e5def709835318618b63660] 2006 regulations..
 
-(2) In their application to the transfer, the 2006 regulations[^key-502ed8462226a037618c19b7f037e4af] shall not have effect so as to transfer any right to restrain the political activities of an employee or to dismiss an employee at pleasure, but (subject to that) the regulations shall have effect as nearly as the circumstances permit, having regard to the fact that the transfer is from Her Majesty or a Minister.
+(2) In their application to the transfer, the 2006 regulations[^c-502ed8462226a037618c19b7f037e4af] shall not have effect so as to transfer any right to restrain the political activities of an employee or to dismiss an employee at pleasure, but (subject to that) the regulations shall have effect as nearly as the circumstances permit, having regard to the fact that the transfer is from Her Majesty or a Minister.
 
-(3) The scheme may include provision that persons falling within sub-paragraph (4) shall be treated for the purposes of the[^key-4105b42119e6d78a678236d580660022] 2006 regulations as if, immediately before the appointed day, they were employed in the entity subject to the transfer as if they were employed immediately before the appointed day in the undertaking or part.
+(3) The scheme may include provision that persons falling within sub-paragraph (4) shall be treated for the purposes of the[^c-4105b42119e6d78a678236d580660022] 2006 regulations as if, immediately before the appointed day, they were employed in the entity subject to the transfer as if they were employed immediately before the appointed day in the undertaking or part.
 
 (4) A person falls within this sub-paragraph if—
 
 - (a) he is employed in the civil service of the State immediately before the appointed day,
-- (b) in the Secretary of State’s opinion his connection with the entity subject to the transfer[^key-96146cf6e0c1260669a1c2fce88284a0] is such as to make it expedient to treat him for the purposes of the[^key-52ff92823e30aea7b5be3171eeb06bf4] 2006 regulations as if he were employed in the entity subject to the transfer, and
+- (b) in the Secretary of State’s opinion his connection with the entity subject to the transfer[^c-96146cf6e0c1260669a1c2fce88284a0] is such as to make it expedient to treat him for the purposes of the[^c-52ff92823e30aea7b5be3171eeb06bf4] 2006 regulations as if he were employed in the entity subject to the transfer, and
 - (c) he is prescribed for the purposes of this sub-paragraph.
 
 (5) On the appointed day, any provision made by virtue of sub-paragraph (3) shall have effect in accordance with the scheme.
 
-(6) Sub-paragraph (2) shall not affect any question as to the application or effect of the 2006 regulations[^key-60c506bc2cc3c5a86be38d5206de4b30] in the case of—
+(6) Sub-paragraph (2) shall not affect any question as to the application or effect of the 2006 regulations[^c-60c506bc2cc3c5a86be38d5206de4b30] in the case of—
 
 - (a) a transfer from Her Majesty or a Minister apart from this Act, or
 - (b) a transfer under a provision made by virtue of section 1(1)(b) or (c).
@@ -425,7 +425,7 @@ Section 4.
 
 - “**appointed day**” means the day on which the scheme comes into force;
 - “**prescribed**” means specified or described in or determined in accordance with the scheme;
-- “the[^key-40ad3178cff14f0d3b98b85849e7f326] 2006 regulations” means the Transfer of Undertakings (Protection of Employment) Regulations 2006.
+- “the[^c-40ad3178cff14f0d3b98b85849e7f326] 2006 regulations” means the Transfer of Undertakings (Protection of Employment) Regulations 2006.
 
 **3.** (1) Where a person employed in the civil service of the State is to become employed by a company, and would not do so if it were not for a scheme made under section 1(1), none of the agreed redundancy procedures applicable to persons employed in that service shall apply to him.
 
@@ -460,27 +460,27 @@ he shall not, on so ceasing, be treated for the purposes of any scheme under sec
 
 [^c1002101]: Textual amendment: [S. 13(3)](https://www.legislation.gov.uk/ukpga/1984/59/section/13/3) repealed by [Finance Act 1988 (c. 39, SIF 114)](https://www.legislation.gov.uk/ukpga/1988/39), [s. 148](https://www.legislation.gov.uk/ukpga/1988/39/section/148), [Sch. 14 Pt. XI](https://www.legislation.gov.uk/ukpga/1988/39/schedule/14/part/XI)
 
-[^key-f2ee92f2c57785d16f758c4665668027]: Textual amendment: Words in [s. 14(5)](https://www.legislation.gov.uk/ukpga/1984/59/section/14/5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 56(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/56/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-f2ee92f2c57785d16f758c4665668027]: Textual amendment: Words in [s. 14(5)](https://www.legislation.gov.uk/ukpga/1984/59/section/14/5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 56(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/56/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c1002103]: Textual amendment: Definitions substituted by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 144(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/144/4), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2), [Sch. 18 para. 31](https://www.legislation.gov.uk/ukpga/1989/40/schedule/18/paragraph/31) (subject to the transitional provisions referred to in [S.I. 1990/1392](https://www.legislation.gov.uk/uksi/1990/1392), [arts. 2(d)](https://www.legislation.gov.uk/uksi/1990/1392/article/2/d), [6](https://www.legislation.gov.uk/uksi/1990/1392/article/6))
 
-[^key-f023d8e4e21c333f9c0debca02f3d63c]: Textual amendment: Words in [s. 14(5)](https://www.legislation.gov.uk/ukpga/1984/59/section/14/5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 56(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/56/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-f023d8e4e21c333f9c0debca02f3d63c]: Textual amendment: Words in [s. 14(5)](https://www.legislation.gov.uk/ukpga/1984/59/section/14/5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 56(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/56/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c1002104]: Marginal citation: [1973 c. 63](https://www.legislation.gov.uk/ukpga/1973/63).
 
-[^key-4eb1dabb4e5def709835318618b63660]: Textual amendment: Words in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/ukpga/1984/59/schedule/2/paragraph/2/1) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/3/2)
+[^c-4eb1dabb4e5def709835318618b63660]: Textual amendment: Words in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/ukpga/1984/59/schedule/2/paragraph/2/1) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/3/2)
 
-[^key-502ed8462226a037618c19b7f037e4af]: Textual amendment: Words in [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/ukpga/1984/59/schedule/2/paragraph/2/2) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/3/3)
+[^c-502ed8462226a037618c19b7f037e4af]: Textual amendment: Words in [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/ukpga/1984/59/schedule/2/paragraph/2/2) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/3/3)
 
-[^key-4105b42119e6d78a678236d580660022]: Textual amendment: Words in [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/ukpga/1984/59/schedule/2/paragraph/2/3) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/3/4)
+[^c-4105b42119e6d78a678236d580660022]: Textual amendment: Words in [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/ukpga/1984/59/schedule/2/paragraph/2/3) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/3/4)
 
-[^key-96146cf6e0c1260669a1c2fce88284a0]: Textual amendment: Words in [Sch. 2 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/1984/59/schedule/2/paragraph/2/4/b) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 3(5)(a)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/3/5/a)
+[^c-96146cf6e0c1260669a1c2fce88284a0]: Textual amendment: Words in [Sch. 2 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/1984/59/schedule/2/paragraph/2/4/b) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 3(5)(a)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/3/5/a)
 
-[^key-52ff92823e30aea7b5be3171eeb06bf4]: Textual amendment: Words in [Sch. 2 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/1984/59/schedule/2/paragraph/2/4/b) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 3(5)(b)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/3/5/b)
+[^c-52ff92823e30aea7b5be3171eeb06bf4]: Textual amendment: Words in [Sch. 2 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/1984/59/schedule/2/paragraph/2/4/b) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 3(5)(b)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/3/5/b)
 
-[^key-60c506bc2cc3c5a86be38d5206de4b30]: Textual amendment: Words in [Sch. 2 para. 2(6)](https://www.legislation.gov.uk/ukpga/1984/59/schedule/2/paragraph/2/6) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/3/3)
+[^c-60c506bc2cc3c5a86be38d5206de4b30]: Textual amendment: Words in [Sch. 2 para. 2(6)](https://www.legislation.gov.uk/ukpga/1984/59/schedule/2/paragraph/2/6) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/3/3)
 
-[^key-40ad3178cff14f0d3b98b85849e7f326]: Textual amendment: Words in [Sch. 2 para. 2(7)](https://www.legislation.gov.uk/ukpga/1984/59/schedule/2/paragraph/2/7) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 3(6)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/3/6)
+[^c-40ad3178cff14f0d3b98b85849e7f326]: Textual amendment: Words in [Sch. 2 para. 2(7)](https://www.legislation.gov.uk/ukpga/1984/59/schedule/2/paragraph/2/7) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 3(6)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/3/6)
 
 [^c1002105]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 

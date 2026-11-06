@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Suitability of adopters[^key-5c125d9d5385f070cd142eefca727fcc]
+## 42. Suitability of adopters[^c-5c125d9d5385f070cd142eefca727fcc]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c125d9d5385f070cd142eefca727fcc]: Commencement: S. 42 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-5c125d9d5385f070cd142eefca727fcc]: Commencement: S. 42 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

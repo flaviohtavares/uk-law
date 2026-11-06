@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Each board shall, at such intervals and in accordance with such arrangements as may be determined by the Department after consultation with the Authority[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a] , review its procedures for the carrying out of such activities as the Department may direct with a view to ensuring that such activities are carried out as eﬀectively, eﬃciently and economically as practicable.
+(1) Each board shall, at such intervals and in accordance with such arrangements as may be determined by the Department after consultation with the Authority[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a] , review its procedures for the carrying out of such activities as the Department may direct with a view to ensuring that such activities are carried out as eﬀectively, eﬃciently and economically as practicable.
 
 (2) The Department may direct that paragraph (1) shall apply to any of the bodies or persons listed in Article 101(3)(b) to (h) of the principal Order as it applies to the Authority but with the substitution for the reference to consultation with the Authority of a reference to consultation with the bodies or persons concerned.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

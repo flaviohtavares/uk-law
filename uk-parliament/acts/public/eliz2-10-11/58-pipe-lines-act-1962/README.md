@@ -70,7 +70,7 @@ An Act to regulate and facilitate the construction, and secure the safe operatio
 
 - [Section 12 — Orders for compulsory acquisition of rights over land for pipe-line construction.](section-12.md)
 
-### Pipe-lines for Conveying Carbon Dioxide: Compulsory Acquisition of Rights over Land[^key-ac5e5fd6bf09ea5a9218aff9cf90e367]
+### Pipe-lines for Conveying Carbon Dioxide: Compulsory Acquisition of Rights over Land[^c-ac5e5fd6bf09ea5a9218aff9cf90e367]
 
 - [Section 12A — Orders for compulsory acquisition of rights over land: pipe-lines for conveying carbon dioxide](section-12a.md)
 - [Section 13 — Power of Minister to attach conditions to compulsory rights orders.](section-13.md)
@@ -208,4 +208,4 @@ SCHEDULES
 
     Act modified (1.4.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 37](https://www.legislation.gov.uk/ukpga/2000/38/section/37), [Sch. 5 para. 4(1)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/5/paragraph/4/1) (with [s. 106](https://www.legislation.gov.uk/ukpga/2000/38/section/106)); [S.I. 2001/869](https://www.legislation.gov.uk/uksi/2001/869), [art. 2](https://www.legislation.gov.uk/uksi/2001/869/article/2)
 
-[^key-ac5e5fd6bf09ea5a9218aff9cf90e367]: Textual amendment: S. 12A and cross-heading inserted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 108(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/108/3), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/iii)
+[^c-ac5e5fd6bf09ea5a9218aff9cf90e367]: Textual amendment: S. 12A and cross-heading inserted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 108(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/108/3), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/iii)

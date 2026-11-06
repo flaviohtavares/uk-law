@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Formula for determination of budget shares[^key-0b3f0122e244d93c3d884b2c11185290]
+## 10. Formula for determination of budget shares[^c-0b3f0122e244d93c3d884b2c11185290]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b3f0122e244d93c3d884b2c11185290]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2010/824/regulation/10) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-0b3f0122e244d93c3d884b2c11185290]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2010/824/regulation/10) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)

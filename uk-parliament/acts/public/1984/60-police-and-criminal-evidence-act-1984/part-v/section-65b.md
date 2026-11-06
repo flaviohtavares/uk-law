@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65B. Persons convicted of an offence”[^key-1dd51faadf59ce32e3b407ff4bd2913d]
+## 65B. Persons convicted of an offence”[^c-1dd51faadf59ce32e3b407ff4bd2913d]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1dd51faadf59ce32e3b407ff4bd2913d]: Textual amendment: S. 65B inserted (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 18(5)](https://www.legislation.gov.uk/ukpga/2012/9/section/18/5), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/d)
+[^c-1dd51faadf59ce32e3b407ff4bd2913d]: Textual amendment: S. 65B inserted (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 18(5)](https://www.legislation.gov.uk/ukpga/2012/9/section/18/5), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/d)

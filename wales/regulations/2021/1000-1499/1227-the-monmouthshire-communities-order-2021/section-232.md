@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 232. Skenfrith — creation of community council and community electoral arrangements[^key-5ce42ef10d3c806becfc06300c2a1002][^key-32403f42dc2e2196a00c863ad8e437fc]
+## 232. Skenfrith — creation of community council and community electoral arrangements[^c-5ce42ef10d3c806becfc06300c2a1002][^c-32403f42dc2e2196a00c863ad8e437fc]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ A council for the community of Skenfrith is established.
 
 ## Annotations
 
-[^key-5ce42ef10d3c806becfc06300c2a1002]: Commencement: Art. 232 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-5ce42ef10d3c806becfc06300c2a1002]: Commencement: Art. 232 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-32403f42dc2e2196a00c863ad8e437fc]: Commencement: [Art. 232](https://www.legislation.gov.uk/wsi/2021/1227/article/232) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-32403f42dc2e2196a00c863ad8e437fc]: Commencement: [Art. 232](https://www.legislation.gov.uk/wsi/2021/1227/article/232) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

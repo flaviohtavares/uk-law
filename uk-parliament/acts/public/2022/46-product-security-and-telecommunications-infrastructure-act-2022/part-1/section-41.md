@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Appeals against penalty notices[^key-c1be00cb73e70a78605925bbfea4e947][^key-ee4166f895c5b6a8c991c7aa7ea050fc]
+## 41. Appeals against penalty notices[^c-c1be00cb73e70a78605925bbfea4e947][^c-ee4166f895c5b6a8c991c7aa7ea050fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c1be00cb73e70a78605925bbfea4e947]: Commencement: S. 41 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-c1be00cb73e70a78605925bbfea4e947]: Commencement: S. 41 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-ee4166f895c5b6a8c991c7aa7ea050fc]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2022/46/section/41) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-ee4166f895c5b6a8c991c7aa7ea050fc]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2022/46/section/41) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

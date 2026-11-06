@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Saving for Trinity House[^key-36f3d41bd1a363132bb8c301f19b4ab7]
+## 65. Saving for Trinity House[^c-36f3d41bd1a363132bb8c301f19b4ab7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Nothing in this Order shall prejudice or derogate from any of the rights, duties
 
 ## Annotations
 
-[^key-36f3d41bd1a363132bb8c301f19b4ab7]: Commencement: Art. 65 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-36f3d41bd1a363132bb8c301f19b4ab7]: Commencement: Art. 65 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

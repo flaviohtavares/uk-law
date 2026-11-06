@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Directions under section 127 may require NHS England[^key-c26379f595629655ada8a57e0d3d2bfd], when making arrangements—
+(1) Directions under section 127 may require NHS England[^c-c26379f595629655ada8a57e0d3d2bfd], when making arrangements—
 
 - (a) to include, in the terms on which the arrangements are made, such terms as may be specified in the directions,
 - (b) to impose, on any person providing a service in accordance with the arrangements, such conditions as may be so specified.
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c26379f595629655ada8a57e0d3d2bfd]: Textual amendment: Words in Act substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-c26379f595629655ada8a57e0d3d2bfd]: Textual amendment: Words in Act substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

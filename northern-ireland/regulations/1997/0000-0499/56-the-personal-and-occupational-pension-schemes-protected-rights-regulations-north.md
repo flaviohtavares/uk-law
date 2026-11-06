@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 5(3) and (5), 6(2)(*c*) and (3)(*c*), 23(3), 24(1A)(*a*) and (2) to (5), 24A(3)(*b*) and (5)(*a*), 25(1)(*b*), (3)(*b*) and (4), 28, 151, 176(1), 177(2) to (4) and 178(1) and (3) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-492a9882640cb8846e35ee2c5c9e4444]
+## 1. Citation, commencement and interpretation[^c-492a9882640cb8846e35ee2c5c9e4444]
 
 (1) These Regulations may be cited as the Personal and Occupational Pension Schemes (Protected Rights) Regulations (Northern Ireland) 1997 and shall come into operation on 6th April 1997.
 
@@ -65,7 +65,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 - (a) any reference to a numbered section is a reference to the section of the Pension Schemes (Northern Ireland) Act 1993 bearing that number; and
 - (b) any reference to a numbered Article is a reference to the Article of the Pensions (Northern Ireland) Order 1995 bearing that number.
 
-## 2. Manner of calculation and verification of protected rights[^key-11dfa3a3de2211d9a5fb225bfec70348]
+## 2. Manner of calculation and verification of protected rights[^c-11dfa3a3de2211d9a5fb225bfec70348]
 
 (1) For the purposes of section 23(3) (identification and valuation of protected rights), the value of a member’s protected rights shall, subject to paragraph (2), be calculated and verified—
 
@@ -84,7 +84,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
   - (i) if not determined by the trustees or managers of the scheme in question, are notified to them by an actuary; and
   - (ii) are certified by an actuary to the trustees or managers of the scheme as being consistent with the requirements of sections 5(3) and (5), 6[^f00009] and 22 to 28 and as being consistent with the guidance note “Retirement Benefit Schemes — Transfer Values (GN 11)” published by the Institute of Actuaries and the Faculty of Actuaries[^f00010] and current at the date of the calculation.
 
-## 3. Options under section 6(2) and (3) for schemes to designate which rights are protected rights[^key-2f596fffd65fcd0b260f35e6abfedb92]
+## 3. Options under section 6(2) and (3) for schemes to designate which rights are protected rights[^c-2f596fffd65fcd0b260f35e6abfedb92]
 
 For the purposes of section 6(2) and (3) (scheme rules may provide that a member’s protected rights are rights specified in section 6(2) and (3) and such other rights as may be prescribed), the prescribed rights are rights to money purchase benefits which derive from—
 
@@ -95,7 +95,7 @@ For the purposes of section 6(2) and (3) (scheme rules may provide that a member
 - (e) in the case of an occupational pension scheme, a payment of minimum contributions made to the trustees or managers of the scheme in accordance with regulation 14(3) of the Personal Pension Schemes (Appropriate Schemes) Regulations (Northern Ireland) 1988[^f00016]; and
 - (f) in the case of a personal pension scheme, a payment attributable to tax relief on the employee’s share of minimum contributions, being the difference between that share and the grossed-up equivalent of that share; the expressions “employee’s share” and “grossed-up equivalent” having the meanings given to them by section 649(2) of the Income and Corporation Taxes Act 1988[^f00017].
 
-## 4. Conditions applying to pensions and annuities which give effect to protected rights[^key-74b9951f371c413e97d1d36127253422]
+## 4. Conditions applying to pensions and annuities which give effect to protected rights[^c-74b9951f371c413e97d1d36127253422]
 
 (1) For the purposes of subsections (2)(*a*) (effect may be given to protected rights by the provision by the scheme of a pension which among other things satisfies such conditions as may be prescribed) and (3) (effect may be given in certain circumstances to protected rights by the purchase by the scheme of an annuity which among other things satisfies such conditions as may be prescribed) of section 24, the prescribed conditions are that the pension or annuity gives effect to all the protected rights of the member, and that the terms on which the pension is provided, or the terms of the purchase of the annuity—
 
@@ -147,7 +147,7 @@ be increased by the same percentage as that by which parts of guaranteed minimum
   - (i) which is within 5 years of the date on which the pension or annuity commenced; and
   - (ii) which immediately follows the death of a person who died while the pension or annuity was being paid to him in accordance with sub-paragraph (*a*) or (*b*) or in accordance with this sub-paragraph, or which begins on the date on which the child or the last of the children in respect of whom the pension or annuity has been paid in accordance with sub-paragraph (*c*) attained the age of 18 or died under that age.
 
-## 5. Circumstances in which and periods for which pension or annuity is to be paid to widow or widower after being paid to member[^key-a51cc601168cfc6eee0792cf168b0c75]
+## 5. Circumstances in which and periods for which pension or annuity is to be paid to widow or widower after being paid to member[^c-a51cc601168cfc6eee0792cf168b0c75]
 
 (1) For the purposes of section 25(1)(*b*)(i) (pension or annuity to be paid to member’s widow or widower in prescribed circumstances and for the prescribed period) the prescribed circumstances are, subject to paragraph (4), that—
 
@@ -168,7 +168,7 @@ be increased by the same percentage as that by which parts of guaranteed minimum
 
 (4) The prescribed circumstances referred to in paragraph (1) in which a pension or annuity is to be paid to the member’s widow or widower do not include circumstances where the rate of the pension or annuity paid to the member has, in accordance with regulation 4(2)(*b*)(iii), been determined by reference to his or her life only.
 
-## 6. Interim arrangements[^key-6be405d31045b90fa7f5929fb7baf16c]
+## 6. Interim arrangements[^c-6be405d31045b90fa7f5929fb7baf16c]
 
 For the purposes of section 24(1A) (in the case of a personal pension scheme effect may be given to protected rights by the making of payments under an interim arrangement which among other things satisfies such conditions as may be prescribed) the prescribed conditions are that—
 
@@ -176,7 +176,7 @@ For the purposes of section 24(1A) (in the case of a personal pension scheme eff
 - (b) the interim arrangement provides for the member to be able to elect to terminate the interim arrangement at any time during the interim period; and
 - (c) the interim arrangement provides for, in the event of the death of an unmarried member or, where section 24A(2) would apply, the death of the widow or widower, the balance of the value of the protected rights to be paid to any person in accordance with directions given by that member, widow or widower in writing, or where no such directions are given, to his or her estate.
 
-## 7. Payments made under interim arrangements[^key-083c6b24ecf2fbb8432606926a27b40f]
+## 7. Payments made under interim arrangements[^c-083c6b24ecf2fbb8432606926a27b40f]
 
 (1) For the purposes of section 24A(3)(*b*) (aggregate amount of payments made to a person under an interim arrangement in each successive period of 12 months must not be less than the prescribed percentage of the annual amount of the annuity which would have been purchasable by him on the relevant reference date) the prescribed percentage is 35 per cent.
 
@@ -197,7 +197,7 @@ For the purposes of section 24(1A) (in the case of a personal pension scheme eff
 
   in respect of protected rights which derive from minimum contributions and other amounts payable to the scheme in respect of a tax year after the tax year 1996-1997 by reference to the current published table prepared by the Government Actuary in accordance with regulation 7(3)(*d*) of the Protected Rights Regulations.
 
-## 8. Giving effect to protected rights by the provision of a lump sum[^key-e375ba556771d54dc8610211c92e2910]
+## 8. Giving effect to protected rights by the provision of a lump sum[^c-e375ba556771d54dc8610211c92e2910]
 
 (1) For the purposes of section 24(4)(*b*) (effect may be given to protected rights by the provision of a lump sum where the annual rate of the pension or annuity would not exceed the prescribed amount) the prescribed amount is £260.
 
@@ -208,7 +208,7 @@ For the purposes of section 24(1A) (in the case of a personal pension scheme eff
   - (i) the member has no rights under the scheme other than his protected rights; or
   - (ii) effect is given to all those of his rights under the scheme which are not protected rights by the provision of a lump sum.
 
-## 9. Suspension and forfeiture of payments giving effect to protected rights[^key-e5e2a264d447f221cd32973bf948ad02]
+## 9. Suspension and forfeiture of payments giving effect to protected rights[^c-e5e2a264d447f221cd32973bf948ad02]
 
 (1) For the purposes of section 28, the circumstances in which the rules of a scheme may provide for payments giving effect to a member’s protected rights to be suspended are—
 
@@ -220,7 +220,7 @@ For the purposes of section 24(1A) (in the case of a personal pension scheme eff
 - (a) that the trustees or managers of the scheme do not know the address of the person to whom the payment should be made; and
 - (b) that a period of at least 6 years has elapsed from the date on which that payment became due.
 
-## 10. Choice of insurance company by annuitant[^key-3b5c89f671ed3d15cf6b6df40a84adce]
+## 10. Choice of insurance company by annuitant[^c-3b5c89f671ed3d15cf6b6df40a84adce]
 
 For the purposes of section 25(4) (scheme member to be taken to have chosen an insurance company to provide his annuity only if he gives notice in the prescribed manner and within the prescribed period) the prescribed manner is in writing, and the prescribed period is—
 
@@ -235,7 +235,7 @@ For the purposes of section 25(4) (scheme member to be taken to have chosen an i
 
   or such longer period as the rules of the scheme may allow.
 
-## 11. Insurance companies that may provide protected rights by way of annuities[^key-57f83dfa352206bc1dd1ccf39f01b2f8]
+## 11. Insurance companies that may provide protected rights by way of annuities[^c-57f83dfa352206bc1dd1ccf39f01b2f8]
 
 For the purposes of section 25(3) (annuity complies with the annuity requirements if it is provided by an insurance company which satisfies prescribed conditions) the prescribed conditions are that the insurance company—
 
@@ -247,7 +247,7 @@ For the purposes of section 25(3) (annuity complies with the annuity requirement
 - (b) offers annuities, with a view to purchase of those annuities by schemes in order to give effect to the protected rights of their members, without having regard to the sex or, except to the extent allowed under regulation 4(2)(*b*), to the marital status of the members either in making the offers or in determining the rates at which the annuities are paid; and
 - (c) where annuities are issued by a friendly society as described in paragraph (*a*)(iv), provides that the terms of the annuities are not capable of being amended, revoked or rescinded.
 
-## 12. Death of scheme member before effect given to his protected rights[^key-df3ff7f8a77d5f1aa932cade47b9381b]
+## 12. Death of scheme member before effect given to his protected rights[^c-df3ff7f8a77d5f1aa932cade47b9381b]
 
 (1) In this regulation “qualifying widow or widower” means a widow or widower of the member who immediately after the member’s death either—
 
@@ -321,7 +321,7 @@ the pension or annuity may be paid, at a rate which satisfies the requirements o
   - (i) the member, when he died, had no rights under the scheme other than his protected rights; or
   - (ii) effect is given to all those of his rights under the scheme which are not protected rights by the provision of a lump sum.
 
-## 13. Death before effect given to protected rights: interim arrangements for widow or widower[^key-31f9f48d0a9818424ccb2819b2f11c2f]
+## 13. Death before effect given to protected rights: interim arrangements for widow or widower[^c-31f9f48d0a9818424ccb2819b2f11c2f]
 
 (1) Where the member has died without effect being given to his protected rights and that member is survived by—
 
@@ -339,15 +339,15 @@ effect shall be given to those rights if that widow or widower so elects by the 
 
 (3) In this regulation “qualifying widow or widower” shall have the same meaning as in regulation 12.
 
-## 14. Enforceable entitlement after death of member[^key-48d39330821f84586fcbfec6a5fd0f20]
+## 14. Enforceable entitlement after death of member[^c-48d39330821f84586fcbfec6a5fd0f20]
 
 Without prejudice to any other requirements, a personal pension scheme can be an appropriate scheme and an occupational pension scheme can be a money purchase contracted-out scheme only if the provision it makes for giving effect to the protected rights of a member who has died is such that any widow, widower or other person who is entitled to any payment giving effect to those rights is able to enforce that entitlement.
 
-## 15. Further requirements in respect of giving effect to protected rights[^key-d78cf118966d85c5256c5ca46f27593a]
+## 15. Further requirements in respect of giving effect to protected rights[^c-d78cf118966d85c5256c5ca46f27593a]
 
 Without prejudice to other requirements, a scheme which offers pensions with a view to giving effect, under section 24(2)(*a*), to protected rights by means of those pensions, can be (in the case of a personal pension scheme) an appropriate scheme or (in the case of an occupational pension scheme) a money purchase contracted-out scheme only if it offers those pensions without having regard to the sex or, except to the extent allowed under regulation 4(2)(*b*), to the marital status of the persons to whom it offers them, both in making those offers and in determining the rates at which those pensions are paid.
 
-## 16. Personal pension schemes — notifications to the Department[^key-09f1e503f07cc2c6f9496eadf3e2861a]
+## 16. Personal pension schemes — notifications to the Department[^c-09f1e503f07cc2c6f9496eadf3e2861a]
 
 (1) Within 5 weeks after effect has been given to the protected rights of a member of a personal pension scheme, the trustees or managers of that scheme shall notify the Department in writing that effect has been given to those rights, giving such particulars as the Department may require to enable it—
 
@@ -359,11 +359,11 @@ Without prejudice to other requirements, a scheme which offers pensions with a v
 
 (2) The trustees or managers of a personal pension scheme which is or has been an appropriate scheme shall, if required to do so by the Department, in such manner and at such times as it may require, furnish to it such information relating to members of the scheme as it may require in order to know for what, if any, protected rights the scheme is responsible, and from what minimum contributions, minimum payments or transfer payments they derive.
 
-## 17. Tax-exemption and tax-approval[^key-4673caaf0941bfa2a881f684d4eef8ec]
+## 17. Tax-exemption and tax-approval[^c-4673caaf0941bfa2a881f684d4eef8ec]
 
 For the purposes of section 29 (nothing in sections 22 to 28 to be taken to prejudice any requirements with which a scheme must comply if it is to qualify for tax-exemption or tax-approval) “tax-exemption” and “tax-approval” mean respectively exemption from tax and approval of the Inland Revenue under Chapter I or Chapter IV of Part XIV of the Income and Corporation Taxes Act 1988[^f00023].
 
-## 18. Revocations[^key-35e3b2e00668d1149867dc5a13195153]
+## 18. Revocations[^c-35e3b2e00668d1149867dc5a13195153]
 
 The Regulations specified in column (1) of the Schedule are revoked to the extent mentioned in column (3) of that Schedule.
 
@@ -375,7 +375,7 @@ Assistant Secretary
 
 11th February 1997.
 
-## SCHEDULE — Regulations Revoked[^key-11cf3c766b9286c1d19450ceb8545dd2]
+## SCHEDULE — Regulations Revoked[^c-11cf3c766b9286c1d19450ceb8545dd2]
 
 Regulation 18
 
@@ -452,7 +452,7 @@ Article 133(4), for the purpose only of authorising the making of regulations, o
 
 [^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 5(3) was amended by Article 133(4) of the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)); section 24(1A) was inserted by Article 139(3) of that Order; section 24(3) was amended by Article 139(4) of that Order; section 24(4) was amended by Article 139(5) of, and paragraph 27(*b*) of Schedule 3 to, that Order; section 24(5) was amended by Article 139(6) of that Order; section 24A was inserted by Article 140 of that Order; section 25(1) was amended by Article 141(2) of, and paragraph 28 of Schedule 3 to, that Order; section 25(3) was amended by Article 141(3) of that Order; section 25(4) was amended by Article 141(4) of that Order and section 151 was amended by paragraph 55 of Schedule 3 to that Order
 
-[^key-492a9882640cb8846e35ee2c5c9e4444]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
+[^c-492a9882640cb8846e35ee2c5c9e4444]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
 
 [^f00002]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7). *See* Part IX of that Act
 
@@ -466,7 +466,7 @@ Article 133(4), for the purpose only of authorising the making of regulations, o
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-11dfa3a3de2211d9a5fb225bfec70348]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
+[^c-11dfa3a3de2211d9a5fb225bfec70348]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
 
 [^f00008]: Footnote: Section 24 is amended by Articles 139 and 143(2) of, and paragraph 27 of Schedule 3 to, the Pensions (Northern Ireland) Order 1995; sections 24A and 24B were inserted by Article 140 of that Order; section 25 was amended by Article 141 of, and paragraph 28 of Schedule 3 to, that Order; section 26 is amended by paragraph 14(*a*) of Schedule 3 to that Order and section 27 was amended by paragraph 29 of Schedule 3 to that Order
 
@@ -474,7 +474,7 @@ Article 133(4), for the purpose only of authorising the making of regulations, o
 
 [^f00010]: Footnote: Copies of GN 11 may be obtained from the Faculty of Actuaries, 17 Thistle Street, Edinburgh EH2 1DF
 
-[^key-2f596fffd65fcd0b260f35e6abfedb92]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
+[^c-2f596fffd65fcd0b260f35e6abfedb92]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
 
 [^f00011]: Footnote: Section 8C was inserted by Article 133(5) of the Pensions (Northern Ireland) Order 1995
 
@@ -490,23 +490,23 @@ Article 133(4), for the purpose only of authorising the making of regulations, o
 
 [^f00017]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 649 was amended by paragraph 20(3) to (5) of Schedule 8 to the Pension Schemes Act [1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48) and paragraph 22(3) of Schedule 7 to the Pension Schemes (Northern Ireland) Act 1993 and is amended by paragraph 12(1) of Schedule 5 to the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26) and paragraph 8 of Schedule 3 to the Pensions (Northern Ireland) Order 1995. *See* paragraph 73 of Schedule 3 to that Order which extends the amendment by paragraph 12(1) of Schedule 5 to the Pensions Act 1995 to Northern Ireland
 
-[^key-74b9951f371c413e97d1d36127253422]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
+[^c-74b9951f371c413e97d1d36127253422]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
 
 [^f00018]: Footnote: Section 105 was amended by Article 55 of the Pensions (Northern Ireland) Order 1995
 
-[^key-a51cc601168cfc6eee0792cf168b0c75]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
+[^c-a51cc601168cfc6eee0792cf168b0c75]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
 
-[^key-6be405d31045b90fa7f5929fb7baf16c]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
+[^c-6be405d31045b90fa7f5929fb7baf16c]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
 
-[^key-083c6b24ecf2fbb8432606926a27b40f]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
+[^c-083c6b24ecf2fbb8432606926a27b40f]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
 
-[^key-e375ba556771d54dc8610211c92e2910]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
+[^c-e375ba556771d54dc8610211c92e2910]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
 
-[^key-e5e2a264d447f221cd32973bf948ad02]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
+[^c-e5e2a264d447f221cd32973bf948ad02]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
 
-[^key-3b5c89f671ed3d15cf6b6df40a84adce]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
+[^c-3b5c89f671ed3d15cf6b6df40a84adce]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
 
-[^key-57f83dfa352206bc1dd1ccf39f01b2f8]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
+[^c-57f83dfa352206bc1dd1ccf39f01b2f8]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
 
 [^f00019]: Footnote: [1982 c. 50](https://www.legislation.gov.uk/ukpga/1982/50)
 
@@ -516,20 +516,20 @@ Article 133(4), for the purpose only of authorising the making of regulations, o
 
 [^f00022]: Footnote: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40); subsection (4) was substituted by regulation 4 of [S.I. 1994/1984](https://www.legislation.gov.uk/uksi/1994/1984)
 
-[^key-df3ff7f8a77d5f1aa932cade47b9381b]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
+[^c-df3ff7f8a77d5f1aa932cade47b9381b]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
 
-[^key-31f9f48d0a9818424ccb2819b2f11c2f]: Commencement: Reg. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
+[^c-31f9f48d0a9818424ccb2819b2f11c2f]: Commencement: Reg. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
 
-[^key-48d39330821f84586fcbfec6a5fd0f20]: Commencement: Reg. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
+[^c-48d39330821f84586fcbfec6a5fd0f20]: Commencement: Reg. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
 
-[^key-d78cf118966d85c5256c5ca46f27593a]: Commencement: Reg. 15 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
+[^c-d78cf118966d85c5256c5ca46f27593a]: Commencement: Reg. 15 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
 
-[^key-09f1e503f07cc2c6f9496eadf3e2861a]: Commencement: Reg. 16 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
+[^c-09f1e503f07cc2c6f9496eadf3e2861a]: Commencement: Reg. 16 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
 
-[^key-4673caaf0941bfa2a881f684d4eef8ec]: Commencement: Reg. 17 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
+[^c-4673caaf0941bfa2a881f684d4eef8ec]: Commencement: Reg. 17 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
 
 [^f00023]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
-[^key-35e3b2e00668d1149867dc5a13195153]: Commencement: Reg. 18 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
+[^c-35e3b2e00668d1149867dc5a13195153]: Commencement: Reg. 18 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
 
-[^key-11cf3c766b9286c1d19450ceb8545dd2]: Commencement: Sch. in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)
+[^c-11cf3c766b9286c1d19450ceb8545dd2]: Commencement: Sch. in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/56/regulation/1/1)

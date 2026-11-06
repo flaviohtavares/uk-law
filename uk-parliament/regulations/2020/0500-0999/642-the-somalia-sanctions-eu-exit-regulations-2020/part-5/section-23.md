@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Making goods and technology available[^key-99e437b51e7eac14c198c3c02ca969ce]
+## 23. Making goods and technology available[^c-99e437b51e7eac14c198c3c02ca969ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99e437b51e7eac14c198c3c02ca969ce]: Commencement: Reg. 23 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-99e437b51e7eac14c198c3c02ca969ce]: Commencement: Reg. 23 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)

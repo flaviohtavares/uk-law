@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Third party expenditure in respect of candidates[^key-eed272293e394b426020ffa6421cb4b1]
+## 36. Third party expenditure in respect of candidates[^c-eed272293e394b426020ffa6421cb4b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eed272293e394b426020ffa6421cb4b1]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2014/4/section/36) in force at 1.7.2014 by [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/1236/article/3))
+[^c-eed272293e394b426020ffa6421cb4b1]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2014/4/section/36) in force at 1.7.2014 by [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/1236/article/3))

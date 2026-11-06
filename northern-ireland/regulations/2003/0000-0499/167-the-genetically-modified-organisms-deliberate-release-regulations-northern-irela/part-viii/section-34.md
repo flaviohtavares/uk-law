@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Information to be included in the register[^key-dbcc4afba7b7ceda5ae1a00eac55a6fa]
+## 34. Information to be included in the register[^c-dbcc4afba7b7ceda5ae1a00eac55a6fa]
 
 *Extent: N.I.*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbcc4afba7b7ceda5ae1a00eac55a6fa]: Commencement: Reg. 34 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-dbcc4afba7b7ceda5ae1a00eac55a6fa]: Commencement: Reg. 34 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

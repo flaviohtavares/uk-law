@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Liability in damages[^key-fe8ca8aa7bcdb47c92826502852b3c23][^key-47b1c00c2bdf6d6c40119fa45b9a22b5]
+## 18. Liability in damages[^c-fe8ca8aa7bcdb47c92826502852b3c23][^c-47b1c00c2bdf6d6c40119fa45b9a22b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe8ca8aa7bcdb47c92826502852b3c23]: Commencement: S. 18 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-fe8ca8aa7bcdb47c92826502852b3c23]: Commencement: S. 18 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-47b1c00c2bdf6d6c40119fa45b9a22b5]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2025/18/section/18) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-47b1c00c2bdf6d6c40119fa45b9a22b5]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2025/18/section/18) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

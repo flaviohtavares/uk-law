@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Enforcement of obligation[^key-015bc7e3f79e1866afe752ea0d4d0c84][^key-838b66fc894662cf1ef0c89364169653]
+## 125. Enforcement of obligation[^c-015bc7e3f79e1866afe752ea0d4d0c84][^c-838b66fc894662cf1ef0c89364169653]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-015bc7e3f79e1866afe752ea0d4d0c84]: Commencement: S. 125 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-015bc7e3f79e1866afe752ea0d4d0c84]: Commencement: S. 125 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-838b66fc894662cf1ef0c89364169653]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2021/30/section/125) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-838b66fc894662cf1ef0c89364169653]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2021/30/section/125) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)

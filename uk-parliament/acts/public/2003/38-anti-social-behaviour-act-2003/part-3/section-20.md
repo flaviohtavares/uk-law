@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Parenting orders in cases of exclusion or potential exclusion from school[^M_I_1147a4d3-f357-415d-bea7-ad2fbbf237d8][^M_I_c00043f9-5d21-4362-e3e3-d0f86703b9b4][^key-14f7718865bb9001b94dde3a9930c984]
+## 20. Parenting orders in cases of exclusion or potential exclusion from school[^M_I_1147a4d3-f357-415d-bea7-ad2fbbf237d8][^M_I_c00043f9-5d21-4362-e3e3-d0f86703b9b4][^c-14f7718865bb9001b94dde3a9930c984]
 
 *Extent: E+W*
 
-(1) Subsection (2)[^key-c695a839189df87ad80e596f9cd6f1c8] applies where—
+(1) Subsection (2)[^c-c695a839189df87ad80e596f9cd6f1c8] applies where—
 
 - (a) a pupil has been excluded on disciplinary grounds from a relevant school for a fixed period or permanently, and
 - (b) such conditions as may be prescribed in regulations made by the appropriate person are satisfied.
 
-(2) A relevant body[^key-24369ab6a965f24d30aa7db50d0c652d] may apply to a magistrates' court for a parenting order in respect of a parent of the pupil.
+(2) A relevant body[^c-24369ab6a965f24d30aa7db50d0c652d] may apply to a magistrates' court for a parenting order in respect of a parent of the pupil.
 
-(2A)[^key-0ba7e382da7d3b1c40b77fd2c50cd3f1] A relevant body may also apply to a magistrates' court for a parenting order in respect of a pupil at a relevant school if—
+(2A)[^c-0ba7e382da7d3b1c40b77fd2c50cd3f1] A relevant body may also apply to a magistrates' court for a parenting order in respect of a pupil at a relevant school if—
 
 - (a) it appears to the body making the application that the pupil has engaged in behaviour which would warrant the exclusion of the pupil from the school on disciplinary grounds for a fixed period or permanently, and
 - (b) such conditions as may be prescribed in regulations made by the appropriate person are satisfied.
@@ -37,7 +37,7 @@ summary: ''
 - (a) any practice restricting the use of exclusion at a particular school, or at schools of a particular description, and
 - (b) any grounds that might exist for not excluding the pupil, to the extent that those grounds relate to his education or welfare after exclusion.
 
-(3)[^key-c94c1437b54da91378d371b670893364] If an application is made under subsection (2) or (2A), the court may make a parenting order in respect of a pupil if it is satisfied—
+(3)[^c-c94c1437b54da91378d371b670893364] If an application is made under subsection (2) or (2A), the court may make a parenting order in respect of a pupil if it is satisfied—
 
 - (a) in the case of an application under subsection (2A), that the pupil has engaged in behaviour of the kind mentioned in that subsection, and
 - (b) in any case, that the making of the order would be desirable in the interests of improving the behaviour of the pupil.
@@ -55,9 +55,9 @@ summary: ''
 
 (8) The second condition is that any interference with family life which is likely to result from the attendance of the parent at a residential course is proportionate in all the circumstances.
 
-(9)[^key-e2105fab1159daef7138de76425eab67] In this section “**a relevant body**” means—
+(9)[^c-e2105fab1159daef7138de76425eab67] In this section “**a relevant body**” means—
 
-- (a) a local authority[^key-1d4835667c539562024b7dd85b718f6a] ,
+- (a) a local authority[^c-1d4835667c539562024b7dd85b718f6a] ,
 - (b) the governing body of any relevant school in England at which the pupil to whom the application relates is a pupil or from which he has been excluded.
 
 ## Annotations
@@ -66,16 +66,16 @@ summary: ''
 
 [^M_I_c00043f9-5d21-4362-e3e3-d0f86703b9b4]: Commencement: S. 20 in force at 11.5.2006 for W. by [S.I. 2006/1278](https://www.legislation.gov.uk/uksi/2006/1278), [art. 2](https://www.legislation.gov.uk/uksi/2006/1278/article/2)
 
-[^key-14f7718865bb9001b94dde3a9930c984]: Textual amendment: Words in s. 20 heading inserted (1.9.2007 for E., 31.10.2010 for W. for specified purposes and 5.1.2011 so far as not already in force) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 98(7)](https://www.legislation.gov.uk/ukpga/2006/40/section/98/7), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c); [S.I. 2010/2543, arts. 2(h), 3(a)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c)
+[^c-14f7718865bb9001b94dde3a9930c984]: Textual amendment: Words in s. 20 heading inserted (1.9.2007 for E., 31.10.2010 for W. for specified purposes and 5.1.2011 so far as not already in force) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 98(7)](https://www.legislation.gov.uk/ukpga/2006/40/section/98/7), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c); [S.I. 2010/2543, arts. 2(h), 3(a)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c)
 
-[^key-c695a839189df87ad80e596f9cd6f1c8]: Textual amendment: Words in s. 20(1) substituted (1.9.2007 for E., 31.10.2010 for W. for specified purposes and 5.1.2011 so far as not already in force) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 98(2)](https://www.legislation.gov.uk/ukpga/2006/40/section/98/2), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c); S.I. 2010/2543, arts. 2(h), 3(a)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c)
+[^c-c695a839189df87ad80e596f9cd6f1c8]: Textual amendment: Words in s. 20(1) substituted (1.9.2007 for E., 31.10.2010 for W. for specified purposes and 5.1.2011 so far as not already in force) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 98(2)](https://www.legislation.gov.uk/ukpga/2006/40/section/98/2), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c); S.I. 2010/2543, arts. 2(h), 3(a)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c)
 
-[^key-24369ab6a965f24d30aa7db50d0c652d]: Textual amendment: Words in s. 20(2) substituted (1.9.2007 for E., 31.10.2010 for W. for specified purposes and 5.1.2011 so far as not already in force) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 98(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/98/3), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c); [S.I. 2010/2543, arts. 2(h), 3(a)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c)
+[^c-24369ab6a965f24d30aa7db50d0c652d]: Textual amendment: Words in s. 20(2) substituted (1.9.2007 for E., 31.10.2010 for W. for specified purposes and 5.1.2011 so far as not already in force) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 98(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/98/3), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c); [S.I. 2010/2543, arts. 2(h), 3(a)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c)
 
-[^key-0ba7e382da7d3b1c40b77fd2c50cd3f1]: Textual amendment: S. 20(2A)(2B) inserted (1.9.2007 for E., 31.10.2010 for W. for specified purposes and 5.1.2011 so far as not already in force) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 98(4)](https://www.legislation.gov.uk/ukpga/2006/40/section/98/4), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c); [S.I. 2010/2543, arts. 2(h), 3(a)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c)
+[^c-0ba7e382da7d3b1c40b77fd2c50cd3f1]: Textual amendment: S. 20(2A)(2B) inserted (1.9.2007 for E., 31.10.2010 for W. for specified purposes and 5.1.2011 so far as not already in force) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 98(4)](https://www.legislation.gov.uk/ukpga/2006/40/section/98/4), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c); [S.I. 2010/2543, arts. 2(h), 3(a)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c)
 
-[^key-c94c1437b54da91378d371b670893364]: Textual amendment: S. 20(3) substituted (1.9.2007 for E., 31.10.2010 for W. for specified purposes and 5.1.2011 so far as not already in force) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 98(5)](https://www.legislation.gov.uk/ukpga/2006/40/section/98/5), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c); [S.I. 2010/2543, arts. 2(h), 3(a)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c)
+[^c-c94c1437b54da91378d371b670893364]: Textual amendment: S. 20(3) substituted (1.9.2007 for E., 31.10.2010 for W. for specified purposes and 5.1.2011 so far as not already in force) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 98(5)](https://www.legislation.gov.uk/ukpga/2006/40/section/98/5), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c); [S.I. 2010/2543, arts. 2(h), 3(a)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c)
 
-[^key-e2105fab1159daef7138de76425eab67]: Textual amendment: S. 20(9) inserted (1.9.2007 for E., 31.10.2010 for W. for specified purposes and 5.1.2011 so far as not already in force) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 98(6)](https://www.legislation.gov.uk/ukpga/2006/40/section/98/6), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c); [S.I. 2010/2543, arts. 2(h), 3(a)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c)
+[^c-e2105fab1159daef7138de76425eab67]: Textual amendment: S. 20(9) inserted (1.9.2007 for E., 31.10.2010 for W. for specified purposes and 5.1.2011 so far as not already in force) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 98(6)](https://www.legislation.gov.uk/ukpga/2006/40/section/98/6), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c); [S.I. 2010/2543, arts. 2(h), 3(a)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c)
 
-[^key-1d4835667c539562024b7dd85b718f6a]: Textual amendment: Words in ss. 19-21 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/52)
+[^c-1d4835667c539562024b7dd85b718f6a]: Textual amendment: Words in ss. 19-21 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/52)

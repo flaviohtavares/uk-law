@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43K. Restriction on diligence[^key-2bc8b7ee75e99ad342663964f6ce171a]
+## 43K. Restriction on diligence[^c-2bc8b7ee75e99ad342663964f6ce171a]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Except with the leave of the First-tier Tribunal, no diligence is to be done in 
 
 ## Annotations
 
-[^key-2bc8b7ee75e99ad342663964f6ce171a]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/asp/2016/19/part/4A) inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 23(4)](https://www.legislation.gov.uk/asp/2025/13/section/23/4), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-2bc8b7ee75e99ad342663964f6ce171a]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/asp/2016/19/part/4A) inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 23(4)](https://www.legislation.gov.uk/asp/2025/13/section/23/4), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

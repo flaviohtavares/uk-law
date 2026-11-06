@@ -24,10 +24,10 @@ summary: ''
 
 - (a)[^c21395591] crime and disorder in its area (including anti-social and other behaviour adversely affecting the local environment); and
 - (b) the misuse of drugs, alcohol and other substances in its area; and[^c21401121]
-- (c) re-offending in its area ; and[^key-d45edb1fa0369de7e299adae37ad4b8e]
+- (c) re-offending in its area ; and[^c-d45edb1fa0369de7e299adae37ad4b8e]
 - (d) serious violence in its area.
 
-(1A)[^key-1dc3ad618ffc5093b45667d68cced6ce] The duty imposed on an authority by subsection (1) to do all it reasonably can to prevent serious violence in its area is a duty on the authority to do all it reasonably can to—
+(1A)[^c-1dc3ad618ffc5093b45667d68cced6ce] The duty imposed on an authority by subsection (1) to do all it reasonably can to prevent serious violence in its area is a duty on the authority to do all it reasonably can to—
 
 - (a) prevent people from becoming involved in serious violence in its area, and
 - (b) reduce instances of serious violence in its area.
@@ -36,18 +36,18 @@ summary: ''
 
 - a local authority;
 - a joint authority;
-- a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales)[^key-dc82f57e061cd1785eb07ee7ec820e5d] [Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1);
+- a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales)[^c-dc82f57e061cd1785eb07ee7ec820e5d] [Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1);
 - a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009;[^c21400541]
-- a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023;[^key-e3ecc0dab479031121fcf01ae66c06b2]
-- the London Fire Commissioner;[^key-4ca5808235b95b6381c52dd3cb5ec0a1]
+- a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023;[^c-e3ecc0dab479031121fcf01ae66c06b2]
+- the London Fire Commissioner;[^c-4ca5808235b95b6381c52dd3cb5ec0a1]
 - a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies;
-- a fire and rescue authority created by an order under section 4A of that Act;[^key-f440032e71449356336cffea409b674e]
+- a fire and rescue authority created by an order under section 4A of that Act;[^c-f440032e71449356336cffea409b674e]
 - a metropolitan county fire authority;
 - a local policing body[^c21414821];
 - a National Park authority;
 - the Broads Authority;
 - the Greater London Authority;[^c21396371]
-- [^key-aea12e8065698d4df9d360b9c98986f7]...
+- [^c-aea12e8065698d4df9d360b9c98986f7]...
 - Transport for London.
 
 (3) In this section—
@@ -64,7 +64,7 @@ summary: ''
 
 (5) In subsection (4) “**the appropriate national authority**” has the same meaning as in section 5.
 
-(6)[^key-03ba2b2494814ff37547638bf278bdcc] References in this section to serious violence and to becoming involved in serious violence are to be construed in accordance with section 18.
+(6)[^c-03ba2b2494814ff37547638bf278bdcc] References in this section to serious violence and to becoming involved in serious violence are to be construed in accordance with section 18.
 
 ## Annotations
 
@@ -74,27 +74,27 @@ summary: ''
 
 [^c21401121]: Textual amendment: S. 17(1)(c) and preceding word inserted (1.4.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 108(6)](https://www.legislation.gov.uk/ukpga/2009/26/section/108/6), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(p)](https://www.legislation.gov.uk/uksi/2010/507/article/5/p)
 
-[^key-d45edb1fa0369de7e299adae37ad4b8e]: Textual amendment: [S. 17(1)(d)](https://www.legislation.gov.uk/ukpga/1998/37/section/17/1/d) and word inserted (28.4.2022 for specified purposes, 31.1.2023 in so far as not already in force) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 20(9)](https://www.legislation.gov.uk/ukpga/2022/32/section/20/9), [208(4)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/f); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(l)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/l)
+[^c-d45edb1fa0369de7e299adae37ad4b8e]: Textual amendment: [S. 17(1)(d)](https://www.legislation.gov.uk/ukpga/1998/37/section/17/1/d) and word inserted (28.4.2022 for specified purposes, 31.1.2023 in so far as not already in force) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 20(9)](https://www.legislation.gov.uk/ukpga/2022/32/section/20/9), [208(4)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/f); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(l)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/l)
 
-[^key-1dc3ad618ffc5093b45667d68cced6ce]: Textual amendment: [S. 17(1A)](https://www.legislation.gov.uk/ukpga/1998/37/section/17/1A) inserted (28.4.2022 for specified purposes, 31.1.2023 in so far as not already in force) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 20(10)](https://www.legislation.gov.uk/ukpga/2022/32/section/20/10), [208(4)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/f); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(l)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/l)
+[^c-1dc3ad618ffc5093b45667d68cced6ce]: Textual amendment: [S. 17(1A)](https://www.legislation.gov.uk/ukpga/1998/37/section/17/1A) inserted (28.4.2022 for specified purposes, 31.1.2023 in so far as not already in force) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 20(10)](https://www.legislation.gov.uk/ukpga/2022/32/section/20/10), [208(4)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/f); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(l)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/l)
 
 [^c21395611]: Textual amendment: S. 17(2) substituted (1.8.2007 for E. and 19.11.2007 for W.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 22](https://www.legislation.gov.uk/ukpga/2006/48/section/22), [53(1)(a)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1/a), [Sch. 9 para. 4(3)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/4/3); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art 3(b)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/b); [S.I. 2007/3073](https://www.legislation.gov.uk/uksi/2007/3073), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3073/article/2/a)
 
-[^key-dc82f57e061cd1785eb07ee7ec820e5d]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/ukpga/1998/37/section/17/2) inserted (25.3.2022) by [The Crime and Disorder Act 1998 (Additional Authority) (Wales) Order 2022 (S.I. 2022/367)](https://www.legislation.gov.uk/wsi/2022/367), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/367/article/1/2), [2](https://www.legislation.gov.uk/wsi/2022/367/article/2)
+[^c-dc82f57e061cd1785eb07ee7ec820e5d]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/ukpga/1998/37/section/17/2) inserted (25.3.2022) by [The Crime and Disorder Act 1998 (Additional Authority) (Wales) Order 2022 (S.I. 2022/367)](https://www.legislation.gov.uk/wsi/2022/367), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/367/article/1/2), [2](https://www.legislation.gov.uk/wsi/2022/367/article/2)
 
 [^c21400541]: Textual amendment: Words in s. 17(2) inserted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 119](https://www.legislation.gov.uk/ukpga/2009/20/section/119), [148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 90](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/90); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(b)(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/b/c)
 
-[^key-e3ecc0dab479031121fcf01ae66c06b2]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/ukpga/1998/37/section/17/2) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 120](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/120) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-e3ecc0dab479031121fcf01ae66c06b2]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/ukpga/1998/37/section/17/2) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 120](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/120) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-4ca5808235b95b6381c52dd3cb5ec0a1]: Textual amendment: Words in s. 17(2) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 105](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/105); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+[^c-4ca5808235b95b6381c52dd3cb5ec0a1]: Textual amendment: Words in s. 17(2) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 105](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/105); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
-[^key-f440032e71449356336cffea409b674e]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/ukpga/1998/37/section/17/2) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 79](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/79); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-f440032e71449356336cffea409b674e]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/ukpga/1998/37/section/17/2) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 79](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/79); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c21414821]: Textual amendment: Words in s. 17(2) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 99](https://www.legislation.gov.uk/ukpga/2011/13/section/99), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 233](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/233); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) para. (nnn)(iii)
 
 [^c21396371]: Textual amendment: Words in s. 17(2) inserted (15.2.2008) by [The Crime and Disorder Act 1998 (Additional Authorities) Order 2008 (S.I. 2008/78)](https://www.legislation.gov.uk/uksi/2008/78), [art. 2](https://www.legislation.gov.uk/uksi/2008/78/article/2)
 
-[^key-aea12e8065698d4df9d360b9c98986f7]: Textual amendment: Words in s. 17(2) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
+[^c-aea12e8065698d4df9d360b9c98986f7]: Textual amendment: Words in s. 17(2) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
 
 [^c9523241]: Marginal citation: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
@@ -104,4 +104,4 @@ summary: ''
 
 [^c21395651]: Textual amendment: S. 17(4)(5) inserted (1.8.2007 for E. and 19.11.2007 for W.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 22](https://www.legislation.gov.uk/ukpga/2006/48/section/22), [53(1)(a)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1/a), [Sch. 9 para. 4(4)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/9/paragraph/4/4); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art 3(b)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/b); [S.I. 2007/3073](https://www.legislation.gov.uk/uksi/2007/3073), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3073/article/2/a)
 
-[^key-03ba2b2494814ff37547638bf278bdcc]: Textual amendment: [S. 17(6)](https://www.legislation.gov.uk/ukpga/1998/37/section/17/6) inserted (28.4.2022 for specified purposes, 31.1.2023 in so far as not already in force) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 20(11)](https://www.legislation.gov.uk/ukpga/2022/32/section/20/11), [208(4)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/f); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(l)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/l)
+[^c-03ba2b2494814ff37547638bf278bdcc]: Textual amendment: [S. 17(6)](https://www.legislation.gov.uk/ukpga/1998/37/section/17/6) inserted (28.4.2022 for specified purposes, 31.1.2023 in so far as not already in force) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 20(11)](https://www.legislation.gov.uk/ukpga/2022/32/section/20/11), [208(4)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/f); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(l)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/l)

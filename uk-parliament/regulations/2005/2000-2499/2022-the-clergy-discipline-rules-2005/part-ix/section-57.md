@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England.
 
-## 57. President may direct withdrawal if no person is nominated or substituted[^key-74ceb28b8023fae10b02024108dc110e]
+## 57. President may direct withdrawal if no person is nominated or substituted[^c-74ceb28b8023fae10b02024108dc110e]
 
 *Extent: E*
 
-In the event of the death, serious illness or incapacity of the complainant, if no other person is duly nominated or substituted as complainant in the proceedings, the President may direct under rule 58 that the allegation of misconduct[^key-1cddba37dcc6c49f7e7e59f46c2c8c4e] is to be withdrawn, whereupon no further action shall be taken in the proceedings.
+In the event of the death, serious illness or incapacity of the complainant, if no other person is duly nominated or substituted as complainant in the proceedings, the President may direct under rule 58 that the allegation of misconduct[^c-1cddba37dcc6c49f7e7e59f46c2c8c4e] is to be withdrawn, whereupon no further action shall be taken in the proceedings.
 
 ## Annotations
 
-[^key-74ceb28b8023fae10b02024108dc110e]: Commencement: [Rule 57](https://www.legislation.gov.uk/uksi/2005/2022/rule/57) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-74ceb28b8023fae10b02024108dc110e]: Commencement: [Rule 57](https://www.legislation.gov.uk/uksi/2005/2022/rule/57) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
 
-[^key-1cddba37dcc6c49f7e7e59f46c2c8c4e]: Textual amendment: Words in [rule 57](https://www.legislation.gov.uk/uksi/2005/2022/rule/57) substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)
+[^c-1cddba37dcc6c49f7e7e59f46c2c8c4e]: Textual amendment: Words in [rule 57](https://www.legislation.gov.uk/uksi/2005/2022/rule/57) substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)

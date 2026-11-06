@@ -32,7 +32,7 @@ summary: ''
 
 Dangerous Drugs
 
-The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment) Regulations 2024 (revoked)[^key-5d06f249b63bc50506b18a5784bcbe46]
+The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment) Regulations 2024 (revoked)[^c-5d06f249b63bc50506b18a5784bcbe46]
 
 Made
 
@@ -46,21 +46,21 @@ Coming into force
 
 20th March 2024
 
-[^key-5d06f249b63bc50506b18a5784bcbe46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d06f249b63bc50506b18a5784bcbe46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and extent[^key-5d06f249b63bc50506b18a5784bcbe46]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of the Misuse of Drugs Regulations 2001[^key-5d06f249b63bc50506b18a5784bcbe46]
+## 1. Citation, commencement and extent[^c-5d06f249b63bc50506b18a5784bcbe46]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Misuse of Drugs (Designation) (England, Wales and Scotland) Order 2015[^key-5d06f249b63bc50506b18a5784bcbe46]
+## 2. Amendment of the Misuse of Drugs Regulations 2001[^c-5d06f249b63bc50506b18a5784bcbe46]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Misuse of Drugs (Designation) (England, Wales and Scotland) Order 2015[^c-5d06f249b63bc50506b18a5784bcbe46]
 
 **Not yet in force.**
 
@@ -68,10 +68,10 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-5d06f249b63bc50506b18a5784bcbe46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d06f249b63bc50506b18a5784bcbe46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d06f249b63bc50506b18a5784bcbe46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d06f249b63bc50506b18a5784bcbe46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5d06f249b63bc50506b18a5784bcbe46]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/239) revoked (19.3.2024) by [The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment and Revocation) Regulations 2024 (S.I. 2024/248)](https://www.legislation.gov.uk/uksi/2024/248), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/248/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2024/248/regulation/4)
+[^c-5d06f249b63bc50506b18a5784bcbe46]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/239) revoked (19.3.2024) by [The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment and Revocation) Regulations 2024 (S.I. 2024/248)](https://www.legislation.gov.uk/uksi/2024/248), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/248/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2024/248/regulation/4)

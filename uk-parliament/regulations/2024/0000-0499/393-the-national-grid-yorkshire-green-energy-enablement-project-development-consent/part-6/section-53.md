@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Temporary closure of, and works in, the river Ouse[^key-e80a461cb73de85a36bb3d339554915a]
+## 53. Temporary closure of, and works in, the river Ouse[^c-e80a461cb73de85a36bb3d339554915a]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e80a461cb73de85a36bb3d339554915a]: Commencement: Art. 53 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-e80a461cb73de85a36bb3d339554915a]: Commencement: Art. 53 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

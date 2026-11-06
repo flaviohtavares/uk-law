@@ -30,7 +30,7 @@ summary: ''
 
 *Extent: E+W*
 
-Democracy and Boundary Commission Cymru etc. Act 2013[^key-bdc42ca27ca3ca3eb3b44bd4f04331f6]
+Democracy and Boundary Commission Cymru etc. Act 2013[^c-bdc42ca27ca3ca3eb3b44bd4f04331f6]
 
 2013 anaw 4
 
@@ -46,7 +46,7 @@ An Act of the National Assembly for Wales to make provision about the constituti
 
 - [Section 1 — Overview](part-1/section-1.md)
 
-### PART 2 — Democracy and Boundary Commission Cymru[^key-eaf352224693ca356afff9cd35b8526c]
+### PART 2 — Democracy and Boundary Commission Cymru[^c-eaf352224693ca356afff9cd35b8526c]
 
 #### Continuation and name
 
@@ -80,7 +80,7 @@ An Act of the National Assembly for Wales to make provision about the constituti
 - [Section 13 — Delegation](part-2/section-13.md)
 - [Section 14 — Directions](part-2/section-14.md)
 
-#### Financial matters and governance[^key-ae19d092e50a6200d93db4ff5486ae31]
+#### Financial matters and governance[^c-ae19d092e50a6200d93db4ff5486ae31]
 
 - [Section 15 — Funding](part-2/section-15.md)
 - [Section 16 — Accounting officer](part-2/section-16.md)
@@ -89,26 +89,26 @@ An Act of the National Assembly for Wales to make provision about the constituti
 - [Section 19 — Accounts and external audit](part-2/section-19.md)
 - [Section 20 — Annual reports](part-2/section-20.md)
 
-### PART 2A — CO-ORDINATION OF ELECTORAL ADMINISTRATION[^key-8fcfc78a56a254c2758114e5f2aa083a]
+### PART 2A — CO-ORDINATION OF ELECTORAL ADMINISTRATION[^c-8fcfc78a56a254c2758114e5f2aa083a]
 
-#### General functions[^key-8fcfc78a56a254c2758114e5f2aa083a]
+#### General functions[^c-8fcfc78a56a254c2758114e5f2aa083a]
 
 - [Section 20A — Electoral administration functions](part-2a/section-20a.md)
 
-#### Directions[^key-8fcfc78a56a254c2758114e5f2aa083a]
+#### Directions[^c-8fcfc78a56a254c2758114e5f2aa083a]
 
 - [Section 20B — Directions to returning officers](part-2a/section-20b.md)
 - [Section 20C — Directions to electoral registration officers](part-2a/section-20c.md)
 - [Section 20D — Consultation with the Electoral Commission](part-2a/section-20d.md)
 
-#### The Board[^key-8fcfc78a56a254c2758114e5f2aa083a]
+#### The Board[^c-8fcfc78a56a254c2758114e5f2aa083a]
 
 - [Section 20E — Electoral Management Board](part-2a/section-20e.md)
 - [Section 20F — Board membership](part-2a/section-20f.md)
 - [Section 20G — Tenure](part-2a/section-20g.md)
 - [Section 20H — Board proceedings](part-2a/section-20h.md)
 
-#### General[^key-8fcfc78a56a254c2758114e5f2aa083a]
+#### General[^c-8fcfc78a56a254c2758114e5f2aa083a]
 
 - [Section 20I — Interpretation of this Part](part-2a/section-20i.md)
 
@@ -202,7 +202,7 @@ An Act of the National Assembly for Wales to make provision about the constituti
 - [Section 49ZA — Publication of orders under Part 3](part-3/section-49za.md)
 - [Section 49ZB — Publication of up-to-date lists of communities and community councils](part-3/section-49zb.md)
 
-### PART 3A — SENEDD CONSTITUENCY BOUNDARY REVIEWS[^key-f14967f4e7e783795db23833bc6fb250]
+### PART 3A — SENEDD CONSTITUENCY BOUNDARY REVIEWS[^c-f14967f4e7e783795db23833bc6fb250]
 
 - [Section 49A — Senedd constituency boundary reviews](part-3a/section-49a.md)
 - [Section 49B — Notice of commencement of Senedd constituency boundary review](part-3a/section-49b.md)
@@ -252,7 +252,7 @@ An Act of the National Assembly for Wales to make provision about the constituti
 
 - [Section 61 — Audit committees](part-5/section-61.md)
 
-#### ...[^key-0f9b1c32e19ed383b4d886b954cb651c]
+#### ...[^c-0f9b1c32e19ed383b4d886b954cb651c]
 
 - [Section 62 — Functions relating to payments to members](part-5/section-62.md)
 - [Section 63 — Functions relating to salaries of heads of paid service](part-5/section-63.md)
@@ -266,9 +266,9 @@ An Act of the National Assembly for Wales to make provision about the constituti
 - [Section 68 — Joint standards committees](part-5/section-68.md)
 - [Section 69 — Referral of cases relating to conduct](part-5/section-69.md)
 
-### PART 5A — FUNCTIONS RELATING TO PAYMENTS AND PENSIONS[^key-88e9afcb47af4993c9f0217ab16abf83]
+### PART 5A — FUNCTIONS RELATING TO PAYMENTS AND PENSIONS[^c-88e9afcb47af4993c9f0217ab16abf83]
 
-#### Remuneration of authority members[^key-88e9afcb47af4993c9f0217ab16abf83]
+#### Remuneration of authority members[^c-88e9afcb47af4993c9f0217ab16abf83]
 
 - [Section 69A — Function relating to payments to members](part-5a/section-69a.md)
 - [Section 69B — Functions relating to members’ pensions](part-5a/section-69b.md)
@@ -306,16 +306,16 @@ An Act of the National Assembly for Wales to make provision about the constituti
 
 ## Annotations
 
-[^key-bdc42ca27ca3ca3eb3b44bd4f04331f6]: Textual amendment: Short Title substituted (25.6.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 11(1)](https://www.legislation.gov.uk/asc/2024/4/section/11/1), [25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)
+[^c-bdc42ca27ca3ca3eb3b44bd4f04331f6]: Textual amendment: Short Title substituted (25.6.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 11(1)](https://www.legislation.gov.uk/asc/2024/4/section/11/1), [25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)
 
-[^key-eaf352224693ca356afff9cd35b8526c]: Textual amendment: Pt. 2 heading substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 44(3)](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/44/3)
+[^c-eaf352224693ca356afff9cd35b8526c]: Textual amendment: Pt. 2 heading substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 44(3)](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/44/3)
 
-[^key-ae19d092e50a6200d93db4ff5486ae31]: Textual amendment: Words in s. 15 cross-heading inserted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 67(2)](https://www.legislation.gov.uk/asc/2024/5/section/67/2), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(o)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/o)
+[^c-ae19d092e50a6200d93db4ff5486ae31]: Textual amendment: Words in s. 15 cross-heading inserted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 67(2)](https://www.legislation.gov.uk/asc/2024/5/section/67/2), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(o)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/o)
 
-[^key-8fcfc78a56a254c2758114e5f2aa083a]: Textual amendment: Pt. 2A inserted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 1(2)](https://www.legislation.gov.uk/asc/2024/5/section/1/2), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(a)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/a)
+[^c-8fcfc78a56a254c2758114e5f2aa083a]: Textual amendment: Pt. 2A inserted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 1(2)](https://www.legislation.gov.uk/asc/2024/5/section/1/2), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(a)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/a)
 
-[^key-f14967f4e7e783795db23833bc6fb250]: Textual amendment: Pt. 3A inserted (24.8.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(2)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/c), [Sch. 3 para. 1](https://www.legislation.gov.uk/asc/2024/4/schedule/3/paragraph/1) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/asc/2024/4/schedule/3/paragraph/3))
+[^c-f14967f4e7e783795db23833bc6fb250]: Textual amendment: Pt. 3A inserted (24.8.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(2)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/c), [Sch. 3 para. 1](https://www.legislation.gov.uk/asc/2024/4/schedule/3/paragraph/1) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/asc/2024/4/schedule/3/paragraph/3))
 
-[^key-0f9b1c32e19ed383b4d886b954cb651c]: Textual amendment: [Ss. 62-67](https://www.legislation.gov.uk/anaw/2013/4/section/62) and cross-heading omitted (1.4.2025) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/13/3); [S.I. 2024/1337](https://www.legislation.gov.uk/uksi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/uksi/2024/1337/article/3/e)
+[^c-0f9b1c32e19ed383b4d886b954cb651c]: Textual amendment: [Ss. 62-67](https://www.legislation.gov.uk/anaw/2013/4/section/62) and cross-heading omitted (1.4.2025) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/13/3); [S.I. 2024/1337](https://www.legislation.gov.uk/uksi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/uksi/2024/1337/article/3/e)
 
-[^key-88e9afcb47af4993c9f0217ab16abf83]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/anaw/2013/4/part/5A) inserted (1.4.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 57(2)](https://www.legislation.gov.uk/asc/2024/5/section/57/2), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/c)
+[^c-88e9afcb47af4993c9f0217ab16abf83]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/anaw/2013/4/part/5A) inserted (1.4.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 57(2)](https://www.legislation.gov.uk/asc/2024/5/section/57/2), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Restriction of period for which person can apply for postal vote[^key-4f38038067cba97f69bb2614627c09e5][^key-e9be06175fb285772617f316a6d42e1f]
+## 3. Restriction of period for which person can apply for postal vote[^c-4f38038067cba97f69bb2614627c09e5][^c-e9be06175fb285772617f316a6d42e1f]
 
 *Extent: E+W+S*
 
@@ -27,6 +27,6 @@ Schedule 3 contains provision limiting the period for which a person can apply t
 
 ## Annotations
 
-[^key-4f38038067cba97f69bb2614627c09e5]: Commencement: S. 3 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-4f38038067cba97f69bb2614627c09e5]: Commencement: S. 3 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-e9be06175fb285772617f316a6d42e1f]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/37/section/3) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/a)
+[^c-e9be06175fb285772617f316a6d42e1f]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/37/section/3) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/a)

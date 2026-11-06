@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Maintenance orders[^key-45245b15e480ecb6033d63aec8ff11bb]
+## 88. Maintenance orders[^c-45245b15e480ecb6033d63aec8ff11bb]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ In section 42(2) of the 2006 Act (circumstances in which a maintenance order may
 
 ## Annotations
 
-[^key-45245b15e480ecb6033d63aec8ff11bb]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2014/14/section/88) in force at 1.4.2015 by [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/122/article/2/1)[(2)(c)](https://www.legislation.gov.uk/ssi/2015/122/article/2/2/c)
+[^c-45245b15e480ecb6033d63aec8ff11bb]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2014/14/section/88) in force at 1.4.2015 by [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/122/article/2/1)[(2)(c)](https://www.legislation.gov.uk/ssi/2015/122/article/2/2/c)

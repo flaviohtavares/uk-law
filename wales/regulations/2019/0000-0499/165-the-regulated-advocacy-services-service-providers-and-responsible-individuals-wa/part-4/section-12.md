@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Advocacy plan[^key-56fcc88e825052fcb38343d0764be090]
+## 12. Advocacy plan[^c-56fcc88e825052fcb38343d0764be090]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56fcc88e825052fcb38343d0764be090]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2019/165/regulation/12) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-56fcc88e825052fcb38343d0764be090]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2019/165/regulation/12) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for the Economy[^f00001], in exercise of the powers conferred by Article 4 (12) of the Higher Education (Northern Ireland) Order 2005 (“**the 2005 Order**”)[^f00002] makes the following Regulations.
 
-## 1. Citation and commencement[^key-fb3ccee0e4af8543f4068410398d643e]
+## 1. Citation and commencement[^c-fb3ccee0e4af8543f4068410398d643e]
 
 These Regulations may be cited as The Student Fees (Inflation Index) Regulations (Northern Ireland) 2023 and come into operation on 13th October 2023.
 
-## 2. Inflation Index[^key-0b8e361f2fd26ed7cad06a721fcdb288]
+## 2. Inflation Index[^c-0b8e361f2fd26ed7cad06a721fcdb288]
 
 The index of prices to which the Department is required by Articles 4(11)(a)(i) and (b)(i) of the 2005 Order to have regard in satisfying itself that any increase to the basic and higher amounts is no greater than is required to maintain the value of the amount in real terms, is the All Items Retail Prices Index Excluding Mortgage Interest Repayments published by the Office for Budget Responsibility.
 
@@ -74,6 +74,6 @@ A Section 75 assessment is not required as there is no change to existing policy
 
 [^f00002]: Footnote: [S.I. 2005/1116 (N.I. 5)](https://www.legislation.gov.uk/nisi/2005/1116).
 
-[^key-fb3ccee0e4af8543f4068410398d643e]: Commencement: Reg. 1 in operation at 13.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/136/regulation/1)
+[^c-fb3ccee0e4af8543f4068410398d643e]: Commencement: Reg. 1 in operation at 13.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/136/regulation/1)
 
-[^key-0b8e361f2fd26ed7cad06a721fcdb288]: Commencement: Reg. 2 in operation at 13.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/136/regulation/1)
+[^c-0b8e361f2fd26ed7cad06a721fcdb288]: Commencement: Reg. 2 in operation at 13.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/136/regulation/1)

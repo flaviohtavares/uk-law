@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.4. Case progression officers and their duties[^key-507a31b002c221720b08ce1e1e4e45ed]
+## 3.4. Case progression officers and their duties[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-507a31b002c221720b08ce1e1e4e45ed]: Textual amendment: Rules revoked (5.4.2010) by [The Criminal Procedure Rules 2010 (S.I. 2010/60)](https://www.legislation.gov.uk/uksi/2010/60), [Preamble](https://www.legislation.gov.uk/uksi/2010/60/introduction) (with [rule 2](https://www.legislation.gov.uk/uksi/2010/60/rule/2))
+[^c-507a31b002c221720b08ce1e1e4e45ed]: Textual amendment: Rules revoked (5.4.2010) by [The Criminal Procedure Rules 2010 (S.I. 2010/60)](https://www.legislation.gov.uk/uksi/2010/60), [Preamble](https://www.legislation.gov.uk/uksi/2010/60/introduction) (with [rule 2](https://www.legislation.gov.uk/uksi/2010/60/rule/2))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

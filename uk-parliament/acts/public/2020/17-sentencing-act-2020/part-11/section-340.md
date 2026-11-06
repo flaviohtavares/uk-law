@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 340. Special measures for witnesses[^key-1af9f7033f6a1e75e049dd398a559aed]
+## 340. Special measures for witnesses[^c-1af9f7033f6a1e75e049dd398a559aed]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ Sections 49 and 51 of that Act (offences) apply accordingly.
 
 ## Annotations
 
-[^key-1af9f7033f6a1e75e049dd398a559aed]: Commencement: [S. 340](https://www.legislation.gov.uk/ukpga/2020/17/section/340) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-1af9f7033f6a1e75e049dd398a559aed]: Commencement: [S. 340](https://www.legislation.gov.uk/ukpga/2020/17/section/340) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

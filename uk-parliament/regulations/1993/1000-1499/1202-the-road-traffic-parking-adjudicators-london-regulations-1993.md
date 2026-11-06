@@ -46,18 +46,18 @@ The Secretary of State for Transport, in exercise of the powers conferred by sec
 
 ## PART I — Preliminary
 
-### 1. Citation and Commencement[^key-358a0df25bde085d815b11e57b652122]
+### 1. Citation and Commencement[^c-358a0df25bde085d815b11e57b652122]
 
 These Regulations may be cited as the Road Traffic (Parking Adjudicators) (London) Regulations 1993 and shall come into force on 1st July 1993.
 
-### 2. Interpretation[^key-033740c4dd45e4af767dcaf23c724f49]
+### 2. Interpretation[^c-033740c4dd45e4af767dcaf23c724f49]
 
 (1) In these Regulations—
 
 - “the Act” means the Road Traffic Act 1991;
-- “the[^key-6e8911e62028e57eb36ecae21ad404af] 1996 Act” means the London Local Authorities Act 1996;
-- “appeal” means an appeal under section 72 of, or paragraph 5 of Schedule 6 to, the Act or an appeal under paragraph 6 of Schedule 1 to the[^key-ca5be071cae5bbabeb99a366b9a58195] 1996 Act;
-- “the adjudicator” means a parking adjudicator appointed under section 73(3)(a) of the Act and includes a person so appointed when discharging the function of a traffic adjudicator under Schedule 1 to the[^key-36e9ed577dc8041cab2e2a60a02523eb] 1996 Act;
+- “the[^c-6e8911e62028e57eb36ecae21ad404af] 1996 Act” means the London Local Authorities Act 1996;
+- “appeal” means an appeal under section 72 of, or paragraph 5 of Schedule 6 to, the Act or an appeal under paragraph 6 of Schedule 1 to the[^c-ca5be071cae5bbabeb99a366b9a58195] 1996 Act;
+- “the adjudicator” means a parking adjudicator appointed under section 73(3)(a) of the Act and includes a person so appointed when discharging the function of a traffic adjudicator under Schedule 1 to the[^c-36e9ed577dc8041cab2e2a60a02523eb] 1996 Act;
 - “document exchange” means a document exchange which is for the time being a document exchange approved by the Lord Chancellor under order 65, rule 5(4) of the Rules of the Supreme Court 1965[^f00003];
 - “FAX” means the making of a facsimile copy of a document by the transmission of electronic signals;
 - “hearing” means an oral hearing;
@@ -68,10 +68,10 @@ These Regulations may be cited as the Road Traffic (Parking Adjudicators) (Londo
 
 - “appellant” means the person making the appeal;
 - “disputed decision” means the decision against which an appeal is brought under these Regulations;
-- “local authority” (except in regulation 3) means—[^key-0df4a8b749b4dc0147788dd81f0afd0e]
+- “local authority” (except in regulation 3) means—[^c-0df4a8b749b4dc0147788dd81f0afd0e]
   - (a) in a case where Transport for London made the disputed decisions, Transport for London;
   - (b) in any other case, the London authority which made the disputed decision;
-- “the original representations” means the representations to the local authority under section 71 of, or paragraph 2 of Schedule 6 to, the Act or under paragraph 2 of Schedule 1 to the[^key-dc2241f32a48b2f4872b1bd32c414638] 1996 Act.
+- “the original representations” means the representations to the local authority under section 71 of, or paragraph 2 of Schedule 6 to, the Act or under paragraph 2 of Schedule 1 to the[^c-dc2241f32a48b2f4872b1bd32c414638] 1996 Act.
 
 (3) Unless the context otherwise requires, any reference in these Regulations to—
 
@@ -80,7 +80,7 @@ These Regulations may be cited as the Road Traffic (Parking Adjudicators) (Londo
 
 ## PART II — Procedure relating to appeals
 
-### 3. Initiating an appeal[^key-437f63334eeef9ae6dfafafb6f05405f]
+### 3. Initiating an appeal[^c-437f63334eeef9ae6dfafafb6f05405f]
 
 (1) An appeal shall be made by delivering a notice of appeal to the proper officer.
 
@@ -91,11 +91,11 @@ These Regulations may be cited as the Road Traffic (Parking Adjudicators) (Londo
 - (c) must state the date and any reference number of the decision and the name of the local authority who made the disputed decision; and
 - (d) may include any representations which the appellant desires to make in addition to the original representations.
 
-(3) If the notice of appeal is delivered to the proper officer later than the time limit mentioned in section 72(1) of, or paragraph 5(1) of Schedule 6 to, the Act or mentioned in paragraph 6(1) of Schedule 1 to the[^key-96d2b00f9a337a5b3bb7852c0fb5c843] 1996 Act (as the case may be), the appellant must include in the notice a statement of the reasons on which he relies for justifying the delay, and the adjudicator shall treat any such statement of reasons for delay as a request for extending that time limit.
+(3) If the notice of appeal is delivered to the proper officer later than the time limit mentioned in section 72(1) of, or paragraph 5(1) of Schedule 6 to, the Act or mentioned in paragraph 6(1) of Schedule 1 to the[^c-96d2b00f9a337a5b3bb7852c0fb5c843] 1996 Act (as the case may be), the appellant must include in the notice a statement of the reasons on which he relies for justifying the delay, and the adjudicator shall treat any such statement of reasons for delay as a request for extending that time limit.
 
 (4) The appellant or his authorised representative shall sign the notice of appeal.
 
-### 4. Action upon receipt of notice of appeal and copy of such notice[^key-a6ca9754f4541f5a2fd163cef09b3496]
+### 4. Action upon receipt of notice of appeal and copy of such notice[^c-a6ca9754f4541f5a2fd163cef09b3496]
 
 (1) Upon receiving a notice of appeal the proper officer shall—
 
@@ -107,9 +107,9 @@ These Regulations may be cited as the Road Traffic (Parking Adjudicators) (Londo
 
 - (a) the original representations;
 - (b) a copy of the relevant charge notice (if any); and
-- (c)[^key-03a3456f77f184991dcb92200c010aff] a copy of the notice served under section 71(6) of, or paragraph 2(7) of Schedule 6 to, the Act or under paragraph 2(10) of Schedule 1 to the 1996 Act (as the case may be).
+- (c)[^c-03a3456f77f184991dcb92200c010aff] a copy of the notice served under section 71(6) of, or paragraph 2(7) of Schedule 6 to, the Act or under paragraph 2(10) of Schedule 1 to the 1996 Act (as the case may be).
 
-### 5. Further representations[^key-51757b0cfe081d0a2cdf542ab6b3fa8a]
+### 5. Further representations[^c-51757b0cfe081d0a2cdf542ab6b3fa8a]
 
 (1) Any party may deliver representations to the proper officer at any time before an appeal is determined.
 
@@ -125,11 +125,11 @@ These Regulations may be cited as the Road Traffic (Parking Adjudicators) (Londo
 
 (7) This regulation is without prejudice to the powers of an adjudicator under regulation 9.
 
-### 6. Power to require attendance of witnesses[^key-0cd2caa8d446b61f9e0c3d741a021803]
+### 6. Power to require attendance of witnesses[^c-0cd2caa8d446b61f9e0c3d741a021803]
 
 (1) The adjudicator may require the attendance of any person (including a party to the proceedings) as a witness, at a time and place specified by him, at the hearing of an appeal and require him to answer any questions or produce any documents in his custody or control which relate to any matter in the proceedings.
 
-(2) Every document containing a requirement under paragraph (1) shall contain a reference to the fact that, under section 73(14) of the Act or under section 73(14) of the Act as applied by section 6(3) of the[^key-2b1c155a02f50e10a2e6444a0eb0adc9] 1996 Act (as the case may be), any person who without reasonable excuse fails to comply with this requirement shall be liable on summary conviction to a fine, and the document shall state the amount of the current maximum fine.
+(2) Every document containing a requirement under paragraph (1) shall contain a reference to the fact that, under section 73(14) of the Act or under section 73(14) of the Act as applied by section 6(3) of the[^c-2b1c155a02f50e10a2e6444a0eb0adc9] 1996 Act (as the case may be), any person who without reasonable excuse fails to comply with this requirement shall be liable on summary conviction to a fine, and the document shall state the amount of the current maximum fine.
 
 (3) A person in respect of whom a requirement has been made under paragraph (1) may apply to the adjudicator to vary or set aside the requirement.
 
@@ -139,7 +139,7 @@ These Regulations may be cited as the Road Traffic (Parking Adjudicators) (Londo
 
 (6) No person shall be required to give any evidence or produce any document under paragraph (1) which he could not be required to give or produce on the trial of an action in a court of law.
 
-### 7. Disposing of an appeal without a hearing[^key-a62c779a5092b9a751a4b6caf9aff602]
+### 7. Disposing of an appeal without a hearing[^c-a62c779a5092b9a751a4b6caf9aff602]
 
 (1) Subject to paragraph (2), the adjudicator may dispose of an appeal without a hearing.
 
@@ -152,7 +152,7 @@ These Regulations may be cited as the Road Traffic (Parking Adjudicators) (Londo
 
 (4) Notwithstanding anything in paragraphs (2) and (3), if both parties, having been sent a notice of the hearing of an appeal in accordance with regulation 8, fail to attend or be represented at the hearing, the adjudicator may subsequently dispose of the appeal without a hearing.
 
-### 8. Notice of time and place of hearing[^key-c8453a8c10bc8e4238ee09174d62ec32]
+### 8. Notice of time and place of hearing[^c-c8453a8c10bc8e4238ee09174d62ec32]
 
 (1) This regulation shall have effect where a hearing is to be held for the purpose of disposing of an appeal.
 
@@ -162,7 +162,7 @@ These Regulations may be cited as the Road Traffic (Parking Adjudicators) (Londo
 
 (4) This regulation applies to an adjourned hearing but, if the time and place of the adjourned hearing are announced before the adjournment, no further notice shall be required.
 
-### 9. Procedure at a hearing[^key-f7c4a0f9bc18247ca5c0953dfa8f6134]
+### 9. Procedure at a hearing[^c-f7c4a0f9bc18247ca5c0953dfa8f6134]
 
 (1) At the beginning of the hearing of an appeal the adjudicator shall explain the order of proceeding which he proposes to adopt.
 
@@ -170,13 +170,13 @@ These Regulations may be cited as the Road Traffic (Parking Adjudicators) (Londo
 
 (3) Any hearing of an appeal by the adjudicator shall be in public except where the adjudicator is satisfied that, by reason of exceptional circumstances, it is just and reasonable for the hearing, or part of the hearing, to be in private.
 
-(4)[^key-d2252a9324b56b8022c1a2a5ef98db58] Any adjudicator appointed under section 73(3)(a) of the Act shall be entitled to attend the hearing of an appeal whether or not it is in private.
+(4)[^c-d2252a9324b56b8022c1a2a5ef98db58] Any adjudicator appointed under section 73(3)(a) of the Act shall be entitled to attend the hearing of an appeal whether or not it is in private.
 
 (5) The adjudicator, with the consent of the parties, may permit any other person to attend the hearing of an appeal which is held in private.
 
 (6) Without prejudice to any other powers he may have, the adjudicator may exclude from the hearing of an appeal, or part of it, any person whose conduct has disrupted or is likely, in the opinion of the adjudicator, to disrupt the hearing.
 
-(7) At the hearing of an appeal, the appellant may conduct his case himself (with assistance from any person[^key-87183cc24ce4cd98dade22e6b29cf74d] if he wishes) or may appear and be represented by any person whether or not legally qualified.
+(7) At the hearing of an appeal, the appellant may conduct his case himself (with assistance from any person[^c-87183cc24ce4cd98dade22e6b29cf74d] if he wishes) or may appear and be represented by any person whether or not legally qualified.
 
 However, if in any particular case the adjudicator is satisfied that there are good and sufficient reasons for doing so, he may refuse to permit a particular person to assist or represent the appellant at the hearing.
 
@@ -187,20 +187,20 @@ However, if in any particular case the adjudicator is satisfied that there are g
 
 (9) Without prejudice to regulation 7(4), a party who has been sent a notice of the hearing of an appeal or otherwise notified of the hearing in accordance with regulation 8 fails to attend or be represented at the hearing, the adjudicator may dispose of the appeal in his absence.
 
-### 10. Decisions on appeals[^key-641e260ed308ab9857f2a9356dc88eb9]
+### 10. Decisions on appeals[^c-641e260ed308ab9857f2a9356dc88eb9]
 
 (1) Where an appeal is disposed of at a hearing, the decision of the adjudicator may be given orally at the end of the hearing or reserved.
 
 (2) Where an appeal has been disposed of whether at a hearing or otherwise, the decision shall be recorded forthwith in the register with (save in the case of a decision by consent) a statement of the reasons for the decision and the proper officer shall send a copy of the entry to each party.
 
-### 11. Review of adjudicator’s decision[^key-e2af52be6d275a587eb842794bb0e2b6]
+### 11. Review of adjudicator’s decision[^c-e2af52be6d275a587eb842794bb0e2b6]
 
 (1) The adjudicator shall have power on the application of a party, to review and revoke or vary any decision to dismiss or allow an appeal or any decision as to costs on the grounds (in each case) that—
 
 - (a) the decision was wrongly made as the result of an error on the part of his administrative staff;
 - (b) a party who had failed to appear or be represented at a hearing had good and sufficient reason for his failure to appear;
 - (c) where the decision was made after a hearing, new evidence has become available since the conclusion of the hearing the existence of which could not have been reasonably known of or foreseen;
-- (d) where the decision was made without a hearing, new evidence has become available since the decision was made, the existence of which could not have been reasonably known of or foreseen[^key-86c158714f6f540fde2d1cb874aa6c96]; or
+- (d) where the decision was made without a hearing, new evidence has become available since the decision was made, the existence of which could not have been reasonably known of or foreseen[^c-86c158714f6f540fde2d1cb874aa6c96]; or
 - (e) the interests of justice require such a review.
 
 (2) An adjudicator shall have power, on the application of a party, to review and revoke or vary any interlocutory decision.
@@ -211,7 +211,7 @@ However, if in any particular case the adjudicator is satisfied that there are g
 
 (5) Regulation 10 shall apply to a decision under paragraph (1) as it applies to a decision made on the disposal of an appeal.
 
-### 12. Costs[^key-14560430a5664f97e701d0384be9a522]
+### 12. Costs[^c-14560430a5664f97e701d0384be9a522]
 
 (1) The adjudicator shall not normally make an order awarding costs and expenses, but may, subject to paragraph (2) make such an order—
 
@@ -222,7 +222,7 @@ However, if in any particular case the adjudicator is satisfied that there are g
 
 (3) An order under paragraph (1) shall require the party against whom it is made to pay the other party a specified sum in respect of the costs and expenses incurred by that other party in connection with the proceedings.
 
-### 13. Consolidation of proceedings[^key-9d6350f49c0b0e6ab536aff1719760aa]
+### 13. Consolidation of proceedings[^c-9d6350f49c0b0e6ab536aff1719760aa]
 
 (1) Where there are pending two or more appeals, then, should it at any time appear to the adjudicator that—
 
@@ -233,7 +233,7 @@ the adjudicator may order that some (as specified in the orders) or all of the a
 
 (2) An order shall not be made under this regulation unless all parties concerned have been given an opportunity to make representations against the making of such an order.
 
-### 14. Miscellaneous powers of the adjudicator[^key-d3742e6be31c86bffc8707a61672d352]
+### 14. Miscellaneous powers of the adjudicator[^c-d3742e6be31c86bffc8707a61672d352]
 
 (1) The adjudicator may, if he thinks fit—
 
@@ -246,17 +246,17 @@ the adjudicator may order that some (as specified in the orders) or all of the a
 (2) The powers of the adjudicator conferred by—
 
 - (a) these Regulations (other than regulation 11);
-- (b) section 72(1)(b) of the Act; [^key-f0ccdbbda4387d49c302a2e450da399a]...
-- (c)[^key-8502f03146ea48b50d10accd27fb659e] paragraph 5(1)(b) of Schedule 6 to the Act, and
+- (b) section 72(1)(b) of the Act; [^c-f0ccdbbda4387d49c302a2e450da399a]...
+- (c)[^c-8502f03146ea48b50d10accd27fb659e] paragraph 5(1)(b) of Schedule 6 to the Act, and
 - (d) paragraph 6(1)(b) of Schedule 1 to the 1996 Act,
 
 may be exercised on his own motion or on the application of a party.
 
-### 15. Clerical errors[^key-9f83a71ad8b28dcd46044804ef8d50db]
+### 15. Clerical errors[^c-9f83a71ad8b28dcd46044804ef8d50db]
 
 Clerical mistakes in any document recording a direction or decision of the adjudicator, or errors arising in such a document from an accidental slip or omission, may be corrected by the proper officer on the direction of the adjudicator.
 
-### 16. Service of documents[^key-7fb95ad94f6c085e24d965a955fd4874]
+### 16. Service of documents[^c-7fb95ad94f6c085e24d965a955fd4874]
 
 (1) This regulation has effect in relation to any notice or other document required or authorised by these Regulations to be sent to a party to an appeal.
 
@@ -290,7 +290,7 @@ Clerical mistakes in any document recording a direction or decision of the adjud
 
 (10) A party may by notice in writing delivered to the proper officer vary or revoke any indication given by him under paragraph (3).
 
-### 17. Delivery of documents to the proper officer[^key-2e31082a43f1bb78e8df6d88904c4351]
+### 17. Delivery of documents to the proper officer[^c-2e31082a43f1bb78e8df6d88904c4351]
 
 (1) This regulation has effect in relation to any notice or other document required or authorised to be delivered to the proper officer and is without prejudice to regulation 5(3).
 
@@ -305,7 +305,7 @@ Clerical mistakes in any document recording a direction or decision of the adjud
 
 ## PART III — References to the Adjudicator under paragraph 8(7) of Schedule 6 to the Act
 
-### 18. Interpretation of Part III[^key-7cff1a83b57671b38607c6c1d58728de]
+### 18. Interpretation of Part III[^c-7cff1a83b57671b38607c6c1d58728de]
 
 This Part of these Regulations shall have effect for determining the procedure where—
 
@@ -314,9 +314,9 @@ This Part of these Regulations shall have effect for determining the procedure w
 
 and in relation to a case so referred, for the purposes of this Part of these Regulations, a relevant person is the person against whom the county court order has been made.
 
-### 19. Procedure[^key-f7dc98c6d65535421c17a28423640b38]
+### 19. Procedure[^c-f7dc98c6d65535421c17a28423640b38]
 
-(1) Where a case has been referred to the adjudicator under paragraph 8(7) of Schedule 6 to the Act or under paragraph 10(7) of Schedule 1 to the[^key-2b0eecc62803ce7ceb606283decbae8f] 1996 Act—
+(1) Where a case has been referred to the adjudicator under paragraph 8(7) of Schedule 6 to the Act or under paragraph 10(7) of Schedule 1 to the[^c-2b0eecc62803ce7ceb606283decbae8f] 1996 Act—
 
 - (a) the proper officer shall enter particulars of the case in the register; and
 - (b) without prejudice to his powers under that provision, the adjudicator shall give directions as to the conduct of the proceedings unless he decides that no such directions are necessary.
@@ -330,7 +330,7 @@ and in relation to a case so referred, for the purposes of this Part of these Re
 
 ## PART IV — The Register
 
-### 20. The register[^key-7f7ad64c84f8fe6bee572089c0d319f5]
+### 20. The register[^c-7f7ad64c84f8fe6bee572089c0d319f5]
 
 (1) The register shall be kept at the principal office of the adjudicator and shall be open to the inspection of any person without charge at all reasonable hours.
 
@@ -366,74 +366,74 @@ The procedures relate to—
 
 [^f00002]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-358a0df25bde085d815b11e57b652122]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+[^c-358a0df25bde085d815b11e57b652122]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
 
-[^key-033740c4dd45e4af767dcaf23c724f49]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1993/1202/regulation/2) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+[^c-033740c4dd45e4af767dcaf23c724f49]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1993/1202/regulation/2) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
 
-[^key-6e8911e62028e57eb36ecae21ad404af]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/2/1) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/1999/1205/regulation/3/1/a)
+[^c-6e8911e62028e57eb36ecae21ad404af]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/2/1) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/1999/1205/regulation/3/1/a)
 
-[^key-ca5be071cae5bbabeb99a366b9a58195]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/2/1) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/1999/1205/regulation/3/1/b)
+[^c-ca5be071cae5bbabeb99a366b9a58195]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/2/1) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/1999/1205/regulation/3/1/b)
 
-[^key-36e9ed577dc8041cab2e2a60a02523eb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/2/1) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/1999/1205/regulation/3/1/c)
+[^c-36e9ed577dc8041cab2e2a60a02523eb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/2/1) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/1999/1205/regulation/3/1/c)
 
 [^f00003]: Footnote: [S.I. 1965/1776](https://www.legislation.gov.uk/uksi/1965/1776); relevant amending instrument is [S.I. 1990/2599](https://www.legislation.gov.uk/uksi/1990/2599).
 
-[^key-0df4a8b749b4dc0147788dd81f0afd0e]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/2) substituted (3.7.2000) by [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [arts. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [5](https://www.legislation.gov.uk/uksi/2000/1547/article/5)
+[^c-0df4a8b749b4dc0147788dd81f0afd0e]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/2) substituted (3.7.2000) by [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [arts. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [5](https://www.legislation.gov.uk/uksi/2000/1547/article/5)
 
-[^key-dc2241f32a48b2f4872b1bd32c414638]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/2/2) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/1999/1205/regulation/3/2)
+[^c-dc2241f32a48b2f4872b1bd32c414638]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/2/2) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/1999/1205/regulation/3/2)
 
-[^key-437f63334eeef9ae6dfafafb6f05405f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1993/1202/regulation/3) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+[^c-437f63334eeef9ae6dfafafb6f05405f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1993/1202/regulation/3) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
 
-[^key-96d2b00f9a337a5b3bb7852c0fb5c843]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/3/3) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [4](https://www.legislation.gov.uk/uksi/1999/1205/regulation/4)
+[^c-96d2b00f9a337a5b3bb7852c0fb5c843]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/3/3) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [4](https://www.legislation.gov.uk/uksi/1999/1205/regulation/4)
 
-[^key-a6ca9754f4541f5a2fd163cef09b3496]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1993/1202/regulation/4) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+[^c-a6ca9754f4541f5a2fd163cef09b3496]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1993/1202/regulation/4) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
 
-[^key-03a3456f77f184991dcb92200c010aff]: Textual amendment: [Reg. 4(2)(c)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/4/2/c) substituted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [5](https://www.legislation.gov.uk/uksi/1999/1205/regulation/5)
+[^c-03a3456f77f184991dcb92200c010aff]: Textual amendment: [Reg. 4(2)(c)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/4/2/c) substituted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [5](https://www.legislation.gov.uk/uksi/1999/1205/regulation/5)
 
-[^key-51757b0cfe081d0a2cdf542ab6b3fa8a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1993/1202/regulation/5) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+[^c-51757b0cfe081d0a2cdf542ab6b3fa8a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1993/1202/regulation/5) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
 
-[^key-0cd2caa8d446b61f9e0c3d741a021803]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1993/1202/regulation/6) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+[^c-0cd2caa8d446b61f9e0c3d741a021803]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1993/1202/regulation/6) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
 
-[^key-2b1c155a02f50e10a2e6444a0eb0adc9]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/6/2) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [6](https://www.legislation.gov.uk/uksi/1999/1205/regulation/6)
+[^c-2b1c155a02f50e10a2e6444a0eb0adc9]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/6/2) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [6](https://www.legislation.gov.uk/uksi/1999/1205/regulation/6)
 
-[^key-a62c779a5092b9a751a4b6caf9aff602]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1993/1202/regulation/7) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+[^c-a62c779a5092b9a751a4b6caf9aff602]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1993/1202/regulation/7) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
 
-[^key-c8453a8c10bc8e4238ee09174d62ec32]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1993/1202/regulation/8) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+[^c-c8453a8c10bc8e4238ee09174d62ec32]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1993/1202/regulation/8) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
 
-[^key-f7c4a0f9bc18247ca5c0953dfa8f6134]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1993/1202/regulation/9) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+[^c-f7c4a0f9bc18247ca5c0953dfa8f6134]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1993/1202/regulation/9) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
 
-[^key-d2252a9324b56b8022c1a2a5ef98db58]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/9/4) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 64](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/64)
+[^c-d2252a9324b56b8022c1a2a5ef98db58]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/9/4) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 64](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/64)
 
-[^key-87183cc24ce4cd98dade22e6b29cf74d]: Textual amendment: Words in [reg. 9(7)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/9/7) substituted (1.6.1999) by virtue of [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [7](https://www.legislation.gov.uk/uksi/1999/1205/regulation/7)
+[^c-87183cc24ce4cd98dade22e6b29cf74d]: Textual amendment: Words in [reg. 9(7)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/9/7) substituted (1.6.1999) by virtue of [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [7](https://www.legislation.gov.uk/uksi/1999/1205/regulation/7)
 
-[^key-641e260ed308ab9857f2a9356dc88eb9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1993/1202/regulation/10) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+[^c-641e260ed308ab9857f2a9356dc88eb9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1993/1202/regulation/10) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
 
-[^key-e2af52be6d275a587eb842794bb0e2b6]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1993/1202/regulation/11) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+[^c-e2af52be6d275a587eb842794bb0e2b6]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1993/1202/regulation/11) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
 
-[^key-86c158714f6f540fde2d1cb874aa6c96]: Textual amendment: Words in [reg. 11(1)(d)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/11/1/d) substituted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [8](https://www.legislation.gov.uk/uksi/1999/1205/regulation/8)
+[^c-86c158714f6f540fde2d1cb874aa6c96]: Textual amendment: Words in [reg. 11(1)(d)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/11/1/d) substituted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [8](https://www.legislation.gov.uk/uksi/1999/1205/regulation/8)
 
-[^key-14560430a5664f97e701d0384be9a522]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1993/1202/regulation/12) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+[^c-14560430a5664f97e701d0384be9a522]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1993/1202/regulation/12) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
 
-[^key-9d6350f49c0b0e6ab536aff1719760aa]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1993/1202/regulation/13) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+[^c-9d6350f49c0b0e6ab536aff1719760aa]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1993/1202/regulation/13) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
 
-[^key-d3742e6be31c86bffc8707a61672d352]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1993/1202/regulation/14) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+[^c-d3742e6be31c86bffc8707a61672d352]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1993/1202/regulation/14) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
 
-[^key-f0ccdbbda4387d49c302a2e450da399a]: Textual amendment: Word in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/14/2/b) omitted (1.6.1999) by virtue of [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [9](https://www.legislation.gov.uk/uksi/1999/1205/regulation/9)
+[^c-f0ccdbbda4387d49c302a2e450da399a]: Textual amendment: Word in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/14/2/b) omitted (1.6.1999) by virtue of [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [9](https://www.legislation.gov.uk/uksi/1999/1205/regulation/9)
 
-[^key-8502f03146ea48b50d10accd27fb659e]: Textual amendment: [Reg. 14(2)(c)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/14/2/c)[(d)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/14/2/d) substituted for [reg. 14(2)(c)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/14/2/c) (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [9](https://www.legislation.gov.uk/uksi/1999/1205/regulation/9)
+[^c-8502f03146ea48b50d10accd27fb659e]: Textual amendment: [Reg. 14(2)(c)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/14/2/c)[(d)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/14/2/d) substituted for [reg. 14(2)(c)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/14/2/c) (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [9](https://www.legislation.gov.uk/uksi/1999/1205/regulation/9)
 
-[^key-9f83a71ad8b28dcd46044804ef8d50db]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1993/1202/regulation/15) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+[^c-9f83a71ad8b28dcd46044804ef8d50db]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1993/1202/regulation/15) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
 
-[^key-7fb95ad94f6c085e24d965a955fd4874]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1993/1202/regulation/16) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+[^c-7fb95ad94f6c085e24d965a955fd4874]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1993/1202/regulation/16) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
 
 [^f00004]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-2e31082a43f1bb78e8df6d88904c4351]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1993/1202/regulation/17) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+[^c-2e31082a43f1bb78e8df6d88904c4351]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1993/1202/regulation/17) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
 
-[^key-7cff1a83b57671b38607c6c1d58728de]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/1993/1202/regulation/18) substituted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [10](https://www.legislation.gov.uk/uksi/1999/1205/regulation/10)
+[^c-7cff1a83b57671b38607c6c1d58728de]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/1993/1202/regulation/18) substituted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [10](https://www.legislation.gov.uk/uksi/1999/1205/regulation/10)
 
-[^key-f7dc98c6d65535421c17a28423640b38]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1993/1202/regulation/19) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+[^c-f7dc98c6d65535421c17a28423640b38]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1993/1202/regulation/19) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
 
-[^key-2b0eecc62803ce7ceb606283decbae8f]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/19/1) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [11](https://www.legislation.gov.uk/uksi/1999/1205/regulation/11)
+[^c-2b0eecc62803ce7ceb606283decbae8f]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/19/1) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [11](https://www.legislation.gov.uk/uksi/1999/1205/regulation/11)
 
-[^key-7f7ad64c84f8fe6bee572089c0d319f5]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1993/1202/regulation/20) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+[^c-7f7ad64c84f8fe6bee572089c0d319f5]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1993/1202/regulation/20) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)

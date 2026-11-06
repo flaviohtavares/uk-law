@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Power to make provision about winding up[^key-5b03d38f4fe41feb798f1450db959dbf]
+## 133. Power to make provision about winding up[^c-5b03d38f4fe41feb798f1450db959dbf]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ After section 29 of the Limited Partnerships Act 1907 (inserted by section 132 o
 
 ## Annotations
 
-[^key-5b03d38f4fe41feb798f1450db959dbf]: Commencement: S. 133 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-5b03d38f4fe41feb798f1450db959dbf]: Commencement: S. 133 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

@@ -77,7 +77,7 @@ Section 230
 
 ### Determination of tariffs
 
-**4.**[^key-db0f451d711d91e63f646d9b9235ea81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-db0f451d711d91e63f646d9b9235ea81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -87,4 +87,4 @@ Section 230
 
 [^c19398661]: Commencement: Sch. 18 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/40) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
-[^key-db0f451d711d91e63f646d9b9235ea81]: Textual amendment: Sch. 18 para. 4 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 21 para. 35(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/21/paragraph/35/a); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(s)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/s)
+[^c-db0f451d711d91e63f646d9b9235ea81]: Textual amendment: Sch. 18 para. 4 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 21 para. 35(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/21/paragraph/35/a); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(s)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/s)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Meaning of “negligible” in relation to subsidised imports[^key-e7ab3f64cddb93edd434317d338a3273]
+## 5. Meaning of “negligible” in relation to subsidised imports[^c-e7ab3f64cddb93edd434317d338a3273]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7ab3f64cddb93edd434317d338a3273]: Commencement: Reg. 5 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-e7ab3f64cddb93edd434317d338a3273]: Commencement: Reg. 5 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

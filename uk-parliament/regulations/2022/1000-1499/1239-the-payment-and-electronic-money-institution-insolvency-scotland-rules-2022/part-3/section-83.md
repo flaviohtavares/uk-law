@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Members dealing with the institution[^key-204e21e51c37cc5ae751404c18c1599e]
+## 83. Members dealing with the institution[^c-204e21e51c37cc5ae751404c18c1599e]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-204e21e51c37cc5ae751404c18c1599e]: Commencement: Rule 83 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-204e21e51c37cc5ae751404c18c1599e]: Commencement: Rule 83 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

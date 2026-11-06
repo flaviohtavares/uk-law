@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1[^key-a10563a9c92de56df4824c6deeee5542]
+## SCHEDULE 1[^c-a10563a9c92de56df4824c6deeee5542]
 
 *Extent: N.I.*
 
 Regulation 2(4)
 
-[^key-a10563a9c92de56df4824c6deeee5542]
+[^c-a10563a9c92de56df4824c6deeee5542]
 
 > **SCHEDULE A1 — Categories of Members of a Joint-claim couple who are not required to satisfy the conditions in Article 3(2B)(b) of the Order**
 >
@@ -139,7 +139,7 @@ Regulation 2(4)
 
 ## Annotations
 
-[^key-a10563a9c92de56df4824c6deeee5542]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2000/350/schedule/1) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-a10563a9c92de56df4824c6deeee5542]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2000/350/schedule/1) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00026]: Footnote: Regulation 13 was amended by [S.R. 1989 No. 249](https://www.legislation.gov.uk/nisr/1989/249), [S.R. 1991 No. 46](https://www.legislation.gov.uk/nisr/1991/46) and S.R. 1998
 

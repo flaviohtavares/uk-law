@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10A. Qualification to Transitional Provision[^key-79db0110282c7cc14b10b865253a4ccb]
+## 10A. Qualification to Transitional Provision[^c-79db0110282c7cc14b10b865253a4ccb]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,4 +82,4 @@ the relevant proceedings shall be dealt with under the 1994 Act as it had effect
 
 ## Annotations
 
-[^key-79db0110282c7cc14b10b865253a4ccb]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2019/638/regulation/10A) inserted (26.11.2021) by [The Trade Marks and International Trade Marks (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1235)](https://www.legislation.gov.uk/uksi/2021/1235), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1235/regulation/1), [7](https://www.legislation.gov.uk/uksi/2021/1235/regulation/7)
+[^c-79db0110282c7cc14b10b865253a4ccb]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2019/638/regulation/10A) inserted (26.11.2021) by [The Trade Marks and International Trade Marks (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1235)](https://www.legislation.gov.uk/uksi/2021/1235), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1235/regulation/1), [7](https://www.legislation.gov.uk/uksi/2021/1235/regulation/7)

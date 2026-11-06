@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Witnesses and documents to be supplied[^key-6f9b28618198420d5117df6b4aabc180]
+## 32. Witnesses and documents to be supplied[^c-6f9b28618198420d5117df6b4aabc180]
 
 *Extent: E+W*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f9b28618198420d5117df6b4aabc180]: Commencement: Reg. 32 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-6f9b28618198420d5117df6b4aabc180]: Commencement: Reg. 32 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Transfer schemes[^key-d293784a4c1ce050c9b60a08dab1bfb3]
+## 65. Transfer schemes[^c-d293784a4c1ce050c9b60a08dab1bfb3]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d293784a4c1ce050c9b60a08dab1bfb3]: Commencement: S. 65 in force at 8.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)
+[^c-d293784a4c1ce050c9b60a08dab1bfb3]: Commencement: S. 65 in force at 8.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)

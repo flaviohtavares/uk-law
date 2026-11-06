@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9C. Application for warrant for interim attachment[^key-f533edabd47adb0f974a7e91bcbc7cda]
+## 9C. Application for warrant for interim attachment[^c-f533edabd47adb0f974a7e91bcbc7cda]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f533edabd47adb0f974a7e91bcbc7cda]: Textual amendment: Pt. 1A inserted (1.4.2008) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 173](https://www.legislation.gov.uk/asp/2007/3/section/173), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2008/115/article/3/1/c) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10), [15](https://www.legislation.gov.uk/ssi/2008/115/article/15)) (as amended: (23.2.2009) by [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), art. 7; (31.1.2011) by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), art. 5(a); and (4.10.2014) by [S.S.I. 2014/173](https://www.legislation.gov.uk/ssi/2014/173), arts. 1(2), 3)
+[^c-f533edabd47adb0f974a7e91bcbc7cda]: Textual amendment: Pt. 1A inserted (1.4.2008) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 173](https://www.legislation.gov.uk/asp/2007/3/section/173), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2008/115/article/3/1/c) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10), [15](https://www.legislation.gov.uk/ssi/2008/115/article/15)) (as amended: (23.2.2009) by [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), art. 7; (31.1.2011) by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), art. 5(a); and (4.10.2014) by [S.S.I. 2014/173](https://www.legislation.gov.uk/ssi/2014/173), arts. 1(2), 3)

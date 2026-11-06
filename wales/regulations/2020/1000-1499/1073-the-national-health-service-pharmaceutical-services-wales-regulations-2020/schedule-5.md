@@ -24,14 +24,14 @@ Regulation 12
 
 ### PART 1 — General
 
-#### 1. Interpretation[^key-c55c2a828ecdd19989ec2fcf647511a2]
+#### 1. Interpretation[^c-c55c2a828ecdd19989ec2fcf647511a2]
 
 In this Schedule, drugs or appliances are to be taken to be requested or provided in accordance with a repeatable prescription even if the person who wishes to obtain pharmaceutical services does not present that prescription, as long as—
 
 - (a) the NHS pharmacist has that prescription in their possession, and
 - (b) that person presents, or the NHS pharmacist has in their possession, an associated batch issue.
 
-#### 2. Incorporation of provisions[^key-87d2a2ca6d4366a56d53aef7b8500005]
+#### 2. Incorporation of provisions[^c-87d2a2ca6d4366a56d53aef7b8500005]
 
 Any provisions of the following affecting the rights and obligations of NHS pharmacists who provide pharmaceutical services form part of the terms of service—
 
@@ -39,27 +39,27 @@ Any provisions of the following affecting the rights and obligations of NHS phar
 - (b) the Drug Tariff in so far as it lists drugs and appliances for the purposes of section 80 of the 2006 Act (arrangements for pharmaceutical services),
 - (c) so much of Part 2 of the National Health Service (Service Committees and Tribunal) Regulations 1992 as relates to—
   - (i) investigations made by the pharmaceutical discipline committee and the joint discipline committee and action which may be taken by the Local Health Board as a result of such investigations, and,
-  - (ii) appeals to the Welsh Ministers from decisions of the Local Health Board.[^key-0f13d16b5a86f119ba7f5f02a7f4457a]
-- (d)[^key-6632e8e3abd8d361d9c567df7d870a6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) appeals to the Welsh Ministers from decisions of the Local Health Board.[^c-0f13d16b5a86f119ba7f5f02a7f4457a]
+- (d)[^c-6632e8e3abd8d361d9c567df7d870a6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2A.**[^key-8d4d2d5f5255920191d6805068abcfdb] Code of practice on access to premises
+**2A.**[^c-8d4d2d5f5255920191d6805068abcfdb] Code of practice on access to premises
 
 An NHS pharmacist who provides pharmaceutical services must have regard to the code of practice on access to premises prepared and published by the Welsh Ministers under section 19(1) of the Health and Social Care (Quality and Engagement) (Wales) Act 2020 (“**the 2020 Act**”) (so far as the code is relevant) in exercising any function that relates to the provision of health services or social services (within the meaning of those terms in section 21 of the 2020 Act).
 
 ### PART 2 — Essential services
 
-#### 3. Essential services[^key-368ac604c0a4ec09168cd64f07252cf5]
+#### 3. Essential services[^c-368ac604c0a4ec09168cd64f07252cf5]
 
 For the purposes of this Schedule, “essential services” means—
 
 - (a) the services described in this Part, and
 - (b) the activities described in this Part to be carried out in connection with those services.
 
-#### 4. Dispensing services[^key-f80b5bb1d6072daf3ca7aaf8865db78a]
+#### 4. Dispensing services[^c-f80b5bb1d6072daf3ca7aaf8865db78a]
 
-An NHS pharmacist must, to the extent that paragraphs 5 to 9 require and in the manner described in those paragraphs, provide proper and sufficient drugs and appliances to persons presenting a prescription for that drug or appliance signed by a prescriber in pursuance of their functions in the health service in Wales, England, Scotland or Northern Ireland and persons presenting an order for an ophthalmic listed appliance or an ophthalmic listed medicine signed by a qualifying optometrist in pursuance of their functions in the health service in Wales[^key-379402da2fcee36ab8160011f22606e1].
+An NHS pharmacist must, to the extent that paragraphs 5 to 9 require and in the manner described in those paragraphs, provide proper and sufficient drugs and appliances to persons presenting a prescription for that drug or appliance signed by a prescriber in pursuance of their functions in the health service in Wales, England, Scotland or Northern Ireland and persons presenting an order for an ophthalmic listed appliance or an ophthalmic listed medicine signed by a qualifying optometrist in pursuance of their functions in the health service in Wales[^c-379402da2fcee36ab8160011f22606e1].
 
-#### 5. Dispensing of drugs and appliances[^key-3ae90bdc4c410e76eed01002de99d541]
+#### 5. Dispensing of drugs and appliances[^c-3ae90bdc4c410e76eed01002de99d541]
 
 (1) Subject to the following provisions of this Part, where a person presents on a prescription form—
 
@@ -87,9 +87,9 @@ an NHS pharmacist must, with reasonable promptness and in accordance with any di
 - (a) the NHS pharmacist has that prescription in their possession, and
 - (b) that person presents, or the NHS pharmacist has in their possession, an associated batch issue.
 
-#### 5A. Dispensing ophthalmic listed appliances and ophthalmic listed medicines ordered by qualifying optometrists[^key-afb9aea3ba1150188397df502ea5d4e9][^key-d06f0d55ab34d46a48d149aa85246341]
+#### 5A. Dispensing ophthalmic listed appliances and ophthalmic listed medicines ordered by qualifying optometrists[^c-afb9aea3ba1150188397df502ea5d4e9][^c-d06f0d55ab34d46a48d149aa85246341]
 
-(1) Subject to the following provisions of this Part, where a person presents an order for an ophthalmic listed[^key-408df0ebc7e718d925e675b52c70f478] appliance or an ophthalmic listed medicine signed by a qualifying optometrist, an NHS pharmacist must, promptly and in accordance with any directions given by the qualifying optometrist, provide the drugs or appliance so ordered, and such of the appliances so ordered they supply in the normal course of business.
+(1) Subject to the following provisions of this Part, where a person presents an order for an ophthalmic listed[^c-408df0ebc7e718d925e675b52c70f478] appliance or an ophthalmic listed medicine signed by a qualifying optometrist, an NHS pharmacist must, promptly and in accordance with any directions given by the qualifying optometrist, provide the drugs or appliance so ordered, and such of the appliances so ordered they supply in the normal course of business.
 
 (2) If the person presenting the order signed by a qualifying optometrist asks the NHS pharmacist to do so—
 
@@ -98,12 +98,12 @@ an NHS pharmacist must, with reasonable promptness and in accordance with any di
 
 (3) Where an NHS pharmacist is presented with an order signed by a qualifying optometrist for an ophthalmic listed appliance or an ophthalmic listed medicine, the NHS pharmacist must only provide the drugs or appliances so ordered—
 
-- (a) if the order is duly signed and endorsed by the qualifying optometrist as described in sub-paragraph[^key-091af5c2c7843259b3a5aaa604906e80] (1), and
+- (a) if the order is duly signed and endorsed by the qualifying optometrist as described in sub-paragraph[^c-091af5c2c7843259b3a5aaa604906e80] (1), and
 - (b) in accordance with the order and any directions given by the qualifying optometrist subject to any regulations in force under the Weights and Measures Act 1985 and the following provisions of this Part.
 
-(4)[^key-20fb82a6277c212887dba274ae29ba13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-20fb82a6277c212887dba274ae29ba13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-1caeb9b221b11a48e23e78aef18a6068] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1caeb9b221b11a48e23e78aef18a6068] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Where any drug to which this paragraph applies is ordered by a qualifying optometrist and is available for provision by an NHS pharmacist in a pack in a quantity which is different to the quantity which has been so ordered, and that drug is—
 
@@ -129,7 +129,7 @@ the NHS pharmacist must provide the drug in the pack whose quantity is nearest t
 
 (10) An NHS pharmacist must refuse to provide an appliance or drug ordered on an order signed by a qualifying optometrist where the order is for a drug or appliance which the qualifying optometrist was not entitled to order, but if the NHS pharmacist does refuse to do so, they must provide the patient or the person requesting the drug or appliance on behalf of the patient with appropriate advice, as necessary, about reverting to the qualifying optometrist to review the patient’s treatment.
 
-#### 6. Supply in accordance with a SSP[^key-a7e4cd9c29ae708a52d58494d0de6f6b]
+#### 6. Supply in accordance with a SSP[^c-a7e4cd9c29ae708a52d58494d0de6f6b]
 
 (1) This sub-paragraph applies where—
 
@@ -163,7 +163,7 @@ the NHS pharmacist must provide the drug in the pack whose quantity is nearest t
 
 the requirements to act with reasonable promptness in paragraph 5(1) and (2) are to be read as requirements to act within a reasonable timescale.
 
-#### 7. Urgent supply without a prescription[^key-f687452cd7a5fe545f11ac92ce6178d0]
+#### 7. Urgent supply without a prescription[^c-f687452cd7a5fe545f11ac92ce6178d0]
 
 (1) This paragraph applies where, in a case of urgency, a prescriber requests an NHS pharmacist to provide a drug or appliance.
 
@@ -174,9 +174,9 @@ the requirements to act with reasonable promptness in paragraph 5(1) and (2) are
   - (ii) a controlled drug within the meaning of the Misuse of Drugs Act 1971, other than a drug which is for the time being specified in Schedule 4 or 5 to the Misuse of Drugs Regulations 2001, and
 - (b) in the case of a request for a drug or an appliance, the prescriber undertakes to—
   - (i) give the NHS pharmacist a non-electronic prescription form or non-electronic repeatable prescription in respect of the drug or appliance within 72 hours of the request being made, or
-  - (ii) give the NHS pharmacist an electronic prescription form or electronic repeatable prescription complying with the Electronic Prescription Service[^key-8a0a16e4c406c2536ae6b642dc6e5fd3] within 72 hours of the request being made.
+  - (ii) give the NHS pharmacist an electronic prescription form or electronic repeatable prescription complying with the Electronic Prescription Service[^c-8a0a16e4c406c2536ae6b642dc6e5fd3] within 72 hours of the request being made.
 
-#### 8. Preliminary matters before providing ordered drugs or appliances[^key-e87429155632f5578b74c55b3b302cea]
+#### 8. Preliminary matters before providing ordered drugs or appliances[^c-e87429155632f5578b74c55b3b302cea]
 
 (1) If the person presenting the prescription form or repeatable prescription, or requesting the provision of drugs or appliances in accordance with a repeatable prescription, asks the NHS pharmacist to do so—
 
@@ -195,7 +195,7 @@ to produce satisfactory evidence of such entitlement, unless the declaration is 
 
 (3) Sub-paragraph (2) applies to the provision of a drug or appliance in accordance with a SSP as it does to the provision of a drug or appliance in accordance with a prescription form or a repeatable prescription (or an associated batch issue), and for these purposes, the prescription for product reimbursement purposes, as mentioned in paragraph 6(4)(a), is treated as being the prescription in accordance with which the drug or appliance is provided (even though the supply is not in pursuance of that prescription).
 
-#### 9. Providing ordered drugs or appliances[^key-261d45e4c48e8b573fbcb6617a89301b]
+#### 9. Providing ordered drugs or appliances[^c-261d45e4c48e8b573fbcb6617a89301b]
 
 (1) Where an NHS pharmacist is presented with a prescription form or a repeatable prescription, the NHS pharmacist must only provide the drugs or appliances so ordered—
 
@@ -204,9 +204,9 @@ to produce satisfactory evidence of such entitlement, unless the declaration is 
 
 subject to any regulations in force under the Weights and Measures Act 1985[^f00039] and the following provisions of this Part.
 
-(2)[^key-01cc733b56cd2046d9badf54fd66add0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-01cc733b56cd2046d9badf54fd66add0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-d61ea6c1d4604c19cca796ea12185bf6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d61ea6c1d4604c19cca796ea12185bf6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) If the order is for, or a product to be provided in accordance with a SSP is, an appliance of a type requiring measuring and fitting (for example a truss), the NHS pharmacist must make all necessary arrangements—
 
@@ -241,7 +241,7 @@ which is not available for provision as part of pharmaceutical services except i
 
 the NHS pharmacist must provide the drug in the pack whose quantity is nearest to the quantity which has been so ordered.
 
-(8A)[^key-86651b20d3efd4636f311b6767d234b5] Subject to sub-paragraphs (8B) to (8E) and without prejudice to sub-paragraphs (10) and (11), for the purposes of sub-paragraph (1)(b), a drug is provided in accordance with the order on a prescription form or repeatable prescription if (in addition to where the provision is exactly in accordance with the order)—
+(8A)[^c-86651b20d3efd4636f311b6767d234b5] Subject to sub-paragraphs (8B) to (8E) and without prejudice to sub-paragraphs (10) and (11), for the purposes of sub-paragraph (1)(b), a drug is provided in accordance with the order on a prescription form or repeatable prescription if (in addition to where the provision is exactly in accordance with the order)—
 
 - (a) a different quantity is provided to that ordered on the prescription form or repeatable prescription to allow for the provision of the drug in its manufacturer’s original outer packaging, and
 - (b) the provision is otherwise in accordance with the order.
@@ -254,7 +254,7 @@ the NHS pharmacist must provide the drug in the pack whose quantity is nearest t
 (8C) In the case of an order for a drug that is not a prescription only medicine, sub-paragraph (8A) only applies if sub-paragraph (8) applies or the provision of a different quantity to that ordered on the prescription is in circumstances where—
 
 - (a) the different quantity is no more than 10% greater or no more than 10% less than the quantity ordered; and
-- (b) the registered pharmacist carrying out or [^key-e2fce0e0ba076bc4ee0e206b3e00c491]... supervising the provision does not consider, in the exercise of their professional skill and judgement, that the provision of a different quantity to that ordered may mean that the patient does not, or is not able to, follow the medication regimen as intended by the prescriber.
+- (b) the registered pharmacist carrying out or [^c-e2fce0e0ba076bc4ee0e206b3e00c491]... supervising the provision does not consider, in the exercise of their professional skill and judgement, that the provision of a different quantity to that ordered may mean that the patient does not, or is not able to, follow the medication regimen as intended by the prescriber.
 
 (8D) Where the NHS pharmacist may, pursuant to sub-paragraph (8A) and sub-paragraph (8B)(a) or (8C)(a) and (b), provide a different quantity of a drug to that ordered on a prescription form or a repeatable prescription, the NHS pharmacist must consider, in the exercise of their professional skill and judgement, whether it is reasonable and appropriate to do so, having regard to the benefits to patients where they are provided with drugs in their manufacturer’s original outer packaging.
 
@@ -280,7 +280,7 @@ the NHS pharmacist must provide the drug in the pack whose quantity is nearest t
 
 (15) Where an NHS pharmacist provides a drug or appliance under paragraph 6, the NHS pharmacist must include in the dispensing label on the packaging of the product, for the patient’s benefit, information to the effect that the product is being supplied in accordance with a SSP, identifying the particular SSP.
 
-#### 10. Refusal to provide drugs or appliances ordered[^key-08716f9a0f0aefae18f63ab7e846ae11]
+#### 10. Refusal to provide drugs or appliances ordered[^c-08716f9a0f0aefae18f63ab7e846ae11]
 
 (1) An NHS pharmacist may refuse to provide the drugs or appliances ordered on a prescription form or repeatable prescription where—
 
@@ -327,7 +327,7 @@ but if the NHS pharmacist does refuse to do so, they must provide the patient or
 - (b) that the medication regimen of, or manner of utilisation of the appliance by, the patient in respect of whom the prescription was written has not altered in a way which indicates the need or desirability of reviewing the patient’s treatment, and
 - (c) there have been no changes to the health of the patient in respect of whom the prescription was written which indicate the need or desirability of reviewing the patient’s treatment.
 
-#### 11. Further activities to be carried out in connection with the provision of dispensing services[^key-6566819114998620e3917f6d03918d8d]
+#### 11. Further activities to be carried out in connection with the provision of dispensing services[^c-6566819114998620e3917f6d03918d8d]
 
 (1) In connection with the services provided under paragraph 4, an NHS pharmacist must—
 
@@ -363,7 +363,7 @@ but if the NHS pharmacist does refuse to do so, they must provide the patient or
 - (a) if the patient consents, refer the prescription form or repeatable prescription to another NHS pharmacist or to an NHS appliance contractor, or
 - (b) if the patient does not consent to a referral, provide the patient with contact details of at least two people who are NHS pharmacists or NHS appliance contractors who are able to provide the appliance or stoma appliance customisation (as the case may be), if these details are known to the NHS pharmacist.
 
-#### 12. Additional requirements in relation to specified appliances[^key-c42a1f3317c2218df589f7aba40c3428]
+#### 12. Additional requirements in relation to specified appliances[^c-c42a1f3317c2218df589f7aba40c3428]
 
 (1) This paragraph sets out the additional requirements referred to in paragraph 11(1)(o) relating to the provision of specified appliances.
 
@@ -395,11 +395,11 @@ but if the NHS pharmacist does refuse to do so, they must provide the patient or
   - (a) is obliged to provide pharmaceutical services at the pharmacy by virtue of paragraph 22(1) or 26(1), or
   - (b) does provide pharmaceutical services at the pharmacy in accordance with a notification under paragraph 22(2).
 
-#### 13. Disposal service in respect of unwanted drugs[^key-457dc19dd5c77b6fcf9c9562820216f0]
+#### 13. Disposal service in respect of unwanted drugs[^c-457dc19dd5c77b6fcf9c9562820216f0]
 
 An NHS pharmacist must, to the extent paragraph 14 requires and in the manner described in that paragraph, accept and dispose of unwanted drugs provided to the NHS pharmacist for disposal.
 
-#### 14. Basic procedure in respect of unwanted drugs[^key-f63ff26f61d7b5fba9e9ed8a46b2a61f]
+#### 14. Basic procedure in respect of unwanted drugs[^c-f63ff26f61d7b5fba9e9ed8a46b2a61f]
 
 (1) Subject to sub-paragraph (2), where a person presents to an NHS pharmacist or any of the NHS pharmacist’s staff any drugs provided for a patient in, and which have been kept in—
 
@@ -418,23 +418,23 @@ the NHS pharmacist must accept the drugs and dispose of them in accordance with 
 
 and must co-operate with any suitable arrangements that the Local Health Board has in place for regular collection of the drugs from the NHS pharmacist’s premises by or on behalf of the Local Health Board.
 
-#### 15. Further activities to be carried out in connection with the disposal of unwanted drugs[^key-db223bfa4f2b001c81e41ff54e7a6614]
+#### 15. Further activities to be carried out in connection with the disposal of unwanted drugs[^c-db223bfa4f2b001c81e41ff54e7a6614]
 
 In connection with the services provided under paragraph 13, an NHS pharmacist must—
 
 - (a) ensure that they and any of their staff, are aware of the risks associated with the handling of waste drugs and the correct procedures to be used to minimise those risks, and
 - (b) ensure that they and any of their staff have readily available and close to any place where waste drugs are stored appropriate protective equipment, including gloves, overalls and materials to deal with spillages.
 
-#### 16. Promotion of healthy lifestyles[^key-8fcfbd97ad78668f4a496ab269c0403b]
+#### 16. Promotion of healthy lifestyles[^c-8fcfbd97ad78668f4a496ab269c0403b]
 
 An NHS pharmacist must, to the extent paragraphs 17 and 18 require and in the manner set out in those paragraphs and, generally, where in the opinion of the NHS pharmacist it is appropriate to do so, promote public health messages to members of the public.
 
-#### 17. Prescription linked intervention[^key-9aefe553489ee6e140a77ab9c93d0ab1]
+#### 17. Prescription linked intervention[^c-9aefe553489ee6e140a77ab9c93d0ab1]
 
 (1) Where a person using a pharmacy—
 
 - (a) presents a prescription form or repeatable prescription to an NHS pharmacist, and
-- (b)[^key-e97a7d4e6e7dbc9c4c0018c27e669453] it appears to the NHS pharmacist that the person is suffering from or at risk of developing an adverse health issue,
+- (b)[^c-e97a7d4e6e7dbc9c4c0018c27e669453] it appears to the NHS pharmacist that the person is suffering from or at risk of developing an adverse health issue,
 
 the NHS pharmacist must, as appropriate, provide advice to that person with the aim of increasing that person’s knowledge and understanding of the health issues which are relevant to that person’s personal circumstances.
 
@@ -443,20 +443,20 @@ the NHS pharmacist must, as appropriate, provide advice to that person with the 
 - (a) by the provision of written material (for example leaflets), and
 - (b) by referring the person to other sources of information or advice.
 
-(3)[^key-875b9ca363b473a920e84fb969527b97] An NHS pharmacist must, in appropriate cases, keep and maintain a record of any advice given and any interventions or referrals made (in particular of clinically significant interventions).
+(3)[^c-875b9ca363b473a920e84fb969527b97] An NHS pharmacist must, in appropriate cases, keep and maintain a record of any advice given and any interventions or referrals made (in particular of clinically significant interventions).
 
-#### 18. Public health campaigns[^key-3fcccdf14ca4e0958e6f7fd4fbb38a01]
+#### 18. Public health campaigns[^c-3fcccdf14ca4e0958e6f7fd4fbb38a01]
 
 An NHS pharmacist must, at the request of the Local Health Board on whose pharmaceutical list the NHS pharmacist is included, ensure that—
 
-- (a) they, and any of their staff, participate, in the manner reasonably requested by the Local Health Board, in up to four[^key-a4b161f46766efbc6d87c96fed8eac59] campaigns in each calendar year to promote public health messages to users of the NHS pharmacist’s pharmacy, and
-- (b)[^key-c416c040164984792492cd17035431eb] where requested to do so by the Local Health Board (or health boards in the case of a national campaign), participate in the evaluation of a health promotion campaign they are participating in.
+- (a) they, and any of their staff, participate, in the manner reasonably requested by the Local Health Board, in up to four[^c-a4b161f46766efbc6d87c96fed8eac59] campaigns in each calendar year to promote public health messages to users of the NHS pharmacist’s pharmacy, and
+- (b)[^c-c416c040164984792492cd17035431eb] where requested to do so by the Local Health Board (or health boards in the case of a national campaign), participate in the evaluation of a health promotion campaign they are participating in.
 
-#### 19. Signposting[^key-a6e7707af18765db141c016419c3037e]
+#### 19. Signposting[^c-a6e7707af18765db141c016419c3037e]
 
 An NHS pharmacist must, to the extent paragraph 20 requires and in the manner set out in that paragraph, provide information to users of the NHS pharmacist’s pharmacy about other health and social care providers and support organisations.
 
-#### 20. Service outline in respect of signposting[^key-6278330a532b9e181aac9c3239b4ddc8]
+#### 20. Service outline in respect of signposting[^c-6278330a532b9e181aac9c3239b4ddc8]
 
 (1) Where it appears to an NHS pharmacist or their staff, having regard to the need to minimise inappropriate use of health and social care services and of support services, that a person using the NHS pharmacist’s pharmacy—
 
@@ -472,24 +472,24 @@ the NHS pharmacist must provide contact details of that provider to that person 
 
 (3) Where appropriate, a referral under this paragraph may be made by means of a written referral note.
 
-(4)[^key-fc8211301e456c8f792bb2f8e511300a] The NHS pharmacist must, in appropriate cases, keep and maintain a record of any advice given and any interventions or referrals made (in particular of clinically significant interventions) under this paragraph.
+(4)[^c-fc8211301e456c8f792bb2f8e511300a] The NHS pharmacist must, in appropriate cases, keep and maintain a record of any advice given and any interventions or referrals made (in particular of clinically significant interventions) under this paragraph.
 
-#### 21. Support for self-care[^key-49dd9814ec2b5d85be859f7ef3a0928d]
+#### 21. Support for self-care[^c-49dd9814ec2b5d85be859f7ef3a0928d]
 
 An NHS pharmacist must, to the extent paragraph 22 requires and in the manner set out in that paragraph, provide advice and support to people caring for themselves or their families.
 
-#### 22. Service outline in respect of support for self-care[^key-5d09bf9b33e38c3e89ed973d2167df01]
+#### 22. Service outline in respect of support for self-care[^c-5d09bf9b33e38c3e89ed973d2167df01]
 
 (1) Where it appears to an NHS pharmacist or their staff, having regard to the need to minimise the inappropriate use of health and social care services, that a person using the NHS pharmacist’s pharmacy would benefit from advice from the NHS pharmacist to help the person manage a medical condition (including, in the case of a carer, to help the carer in assisting in the management of another person’s medical condition), the NHS pharmacist must provide advice to the person using the pharmacy as regards managing the medical condition, including as appropriate advice—
 
 - (a) on treatment options, including advice on the selection and use of appropriate drugs which are not prescription only medicines, and
 - (b) on changes to the patient’s lifestyle.
 
-(2)[^key-a357f4760e53df05d65f37a5d8cd47fd] An NHS pharmacist must, in appropriate cases, keep and maintain a record of any advice given and any interventions or referral made (in particular of clinically significant interventions) under sub-paragraph (1).
+(2)[^c-a357f4760e53df05d65f37a5d8cd47fd] An NHS pharmacist must, in appropriate cases, keep and maintain a record of any advice given and any interventions or referral made (in particular of clinically significant interventions) under sub-paragraph (1).
 
 ### PART 3 — Pharmacy opening hours
 
-#### 23. Pharmacy opening hours: general[^key-ae5e14de28cbd47f04ed3dd5b06c385f]
+#### 23. Pharmacy opening hours: general[^c-ae5e14de28cbd47f04ed3dd5b06c385f]
 
 (1) An NHS pharmacist must ensure that pharmaceutical services are provided at each of the premises from which the NHS pharmacist has undertaken to provide pharmaceutical services—
 
@@ -516,34 +516,34 @@ but a Local Health Board may, in appropriate circumstances, agree a temporary su
 
 (5) Where an NHS pharmacist changes—
 
-- (a) the days on which or the times at which or the supplementary opening hours during which[^key-f6a30782f0d02015f07b361cfc062274] pharmaceutical services are to be provided at premises from which the NHS pharmacist has undertaken to provide pharmaceutical services, or
+- (a) the days on which or the times at which or the supplementary opening hours during which[^c-f6a30782f0d02015f07b361cfc062274] pharmaceutical services are to be provided at premises from which the NHS pharmacist has undertaken to provide pharmaceutical services, or
 - (b) the pharmaceutical services which the NHS pharmacist is ordinarily to provide at those premises,
 
-the NHS pharmacist must supply the Local Health Board on whose pharmaceutical list the NHS pharmacist is included with a return informing it of the change 12 weeks before the change takes place[^key-46bc1c05825ca4f75ab3aa167181657d].
+the NHS pharmacist must supply the Local Health Board on whose pharmaceutical list the NHS pharmacist is included with a return informing it of the change 12 weeks before the change takes place[^c-46bc1c05825ca4f75ab3aa167181657d].
 
 (6) Where an NHS pharmacist has submitted a return under sub-paragraph (4) or (5) in respect of any premises, or where the NHS pharmacist has set out in an application under these Regulations for inclusion in the pharmaceutical list the days on which and the times at which pharmaceutical services will be provided at the premises to which the application relates if the application is granted—
 
-- (a) the NHS pharmacist must ensure that pharmaceutical services are provided at the premises to which the return or application relates on the days and at the times set out in the return or application (unless the return or application has been superseded by a return, or a further return, under sub-paragraph (5) or sub-paragraph (6A) applies[^key-ced33917cff7ded334a19477475d97b0]), and
+- (a) the NHS pharmacist must ensure that pharmaceutical services are provided at the premises to which the return or application relates on the days and at the times set out in the return or application (unless the return or application has been superseded by a return, or a further return, under sub-paragraph (5) or sub-paragraph (6A) applies[^c-ced33917cff7ded334a19477475d97b0]), and
 - (b) the NHS pharmacist must not change—
   - (i) the days on which or the times at which pharmaceutical services are to be provided at those premises, or
   - (ii) the pharmaceutical services which the NHS pharmacist is ordinarily to provide at those premises,
 
-[^key-5e17c5eb3f76d5e4de95a5f937a07145]..., for a period of at least 3 months after that return or application was received by the Local Health Board without the written permission of the Local Health Board[^key-7a6694f202036f1110d29e3f02fe4441].
+[^c-5e17c5eb3f76d5e4de95a5f937a07145]..., for a period of at least 3 months after that return or application was received by the Local Health Board without the written permission of the Local Health Board[^c-7a6694f202036f1110d29e3f02fe4441].
 
-(6A)[^key-de07dd9c57ca432d506e74250ea945bf] Paragraph 23(6)(b) does not apply where the changes amount to the inclusion of a rest break which is no longer than 1 hour (or a change to such a rest break)—
+(6A)[^c-de07dd9c57ca432d506e74250ea945bf] Paragraph 23(6)(b) does not apply where the changes amount to the inclusion of a rest break which is no longer than 1 hour (or a change to such a rest break)—
 
 - (a) on a Monday to Saturday if the rest break starts at least 3 hours after the start of the pharmacy’s opening hours and ends at least 3 hours before the end of the pharmacy’s opening hours,
 - (b) on a Sunday, and
 
 the inclusion or change to the rest break does not change the total number of the NHS pharmacist’s core hours set out in sub-paragraph (1) on any particular day, otherwise than as provided for, and in accordance with the procedures set out in, paragraphs 25 and 26.
 
-(6B)[^key-31e8588f55af12cece9d125e38791250] Where an NHS pharmacist has submitted a return under sub-paragraph (2) in respect of any premises, the effect of which would be to increase the number of supplementary opening hours the premises is open without changing the periods the premises already opens, the requirements set out in sub-paragraph[^key-14554e6d9a92e935e00d2875a56010dd] (6) do not apply.
+(6B)[^c-31e8588f55af12cece9d125e38791250] Where an NHS pharmacist has submitted a return under sub-paragraph (2) in respect of any premises, the effect of which would be to increase the number of supplementary opening hours the premises is open without changing the periods the premises already opens, the requirements set out in sub-paragraph[^c-14554e6d9a92e935e00d2875a56010dd] (6) do not apply.
 
 (7) Where an NHS pharmacist is prevented by illness or other reasonable cause from complying with their obligations under sub-paragraph (1), they must, where practicable, make arrangements with one or more other NHS pharmacists whose premises are situated in the neighbourhood for the provision of pharmaceutical services during that time.
 
 (8) Where there is a temporary suspension in the provision of pharmaceutical services for a reason beyond the control of the NHS pharmacist, the NHS pharmacist will not be in breach of sub-paragraphs (1), (2) and (3) provided that—
 
-- (a) the NHS pharmacist notifies the Local Health Board on whose pharmaceutical list the NHS pharmacist is included of that suspension as soon as practicable in the approved manner prescribed by the Local Health Board,[^key-350eafff8e884633490371f52b6d359c] and
+- (a) the NHS pharmacist notifies the Local Health Board on whose pharmaceutical list the NHS pharmacist is included of that suspension as soon as practicable in the approved manner prescribed by the Local Health Board,[^c-350eafff8e884633490371f52b6d359c] and
 - (b) the NHS pharmacist uses all reasonable endeavours to resume provision of pharmaceutical services as soon as practicable.
 
 (9) Planned refurbishment of a pharmacy is neither a “reasonable cause” for the purposes of sub-paragraph (7), nor a “reason beyond the control of the NHS pharmacist” for the purposes of sub-paragraph (8).
@@ -555,7 +555,7 @@ the inclusion or change to the rest break does not change the total number of th
 - “additional hours” (“*oriau ychwanegol*”) for which an NHS pharmacist is to be required to provide pharmaceutical services are those hours during which the NHS pharmacist would not be providing pharmaceutical services, were the NHS pharmacist subject to the condition set out in sub-paragraph (1)(a) and not the condition set out in sub-paragraph (1)(d);
 - “existing direction” (“*cyfarwyddyd presennol*”) means one that has been made in accordance with this Part or one that was in existence on the date that these Regulations come into force.
 
-#### 24. Matters to be considered when issuing directions in respect of pharmacy opening hours[^key-d9a22204e0bd1fcc1fc33285c999e7ca]
+#### 24. Matters to be considered when issuing directions in respect of pharmacy opening hours[^c-d9a22204e0bd1fcc1fc33285c999e7ca]
 
 (1) Where a Local Health Board issues a direction setting any times or days under this Part, it must in doing so seek to ensure that the hours at which premises are open for the provision of pharmaceutical services are such as to ensure that the pharmaceutical services are provided on such days and at such times as are necessary to meet the needs of people in the neighbourhood, or other likely users of the pharmacy, for pharmaceutical services.
 
@@ -565,7 +565,7 @@ the inclusion or change to the rest break does not change the total number of th
 
 (4) The Local Health Board may only direct that an NHS pharmacist must provide pharmaceutical services at premises for more than 40 hours in any week where it is satisfied that the NHS pharmacist will receive reasonable remuneration in respect of the additional hours for which they are required to provide pharmaceutical services (and any additional remuneration payable in accordance with a determination made as a consequence of regulation 42 in respect of those hours is “reasonable remuneration” for these purposes).
 
-#### 25. Determination of pharmacy opening hours instigated by the Local Health Board[^key-3c96346ca91ce8cdcc49ec1a0719f15a]
+#### 25. Determination of pharmacy opening hours instigated by the Local Health Board[^c-3c96346ca91ce8cdcc49ec1a0719f15a]
 
 (1) Where it appears to the Local Health Board in whose pharmaceutical list the NHS pharmacist is included, after consultation with or having considered the matter at the request of the Local Pharmaceutical Committee, that the times at which a pharmacy is or will be open for the provision of pharmaceutical services will not, or no longer meet, the needs of—
 
@@ -615,7 +615,7 @@ but it must not set out in that direction the days on which or the times at whic
 - (a) if they have not appealed under sub-paragraph (7), not later than 8 weeks after the date on which they receive notification under sub-paragraph (6), or
 - (b) if they have appealed under sub-paragraph (7), not later than 8 weeks after the date on which they receive notification under sub-paragraph (9).
 
-#### 26. Determination of pharmacy opening hours instigated by the NHS pharmacist[^key-9270ef4fa8ae31dd80791740471077ea]
+#### 26. Determination of pharmacy opening hours instigated by the NHS pharmacist[^c-9270ef4fa8ae31dd80791740471077ea]
 
 (1) An NHS pharmacist may apply to a Local Health Board on whose pharmaceutical list the NHS pharmacist is included for it to change the days on which or the times at which the NHS pharmacist is obliged to provide pharmaceutical services at the NHS pharmacist’s pharmacy in a way that—
 
@@ -664,7 +664,7 @@ but it must not set out in that direction the days on which or the times at whic
 - (a) if they have not appealed under sub-paragraph (9), not earlier than 30 days after the date on which they receive notification under sub-paragraph (8), or
 - (b) if they have appealed under sub-paragraph (9), not earlier than 30 days after the date on which they receive notification under sub-paragraph (11).
 
-#### 27. Temporary opening hours and closures during an emergency requiring the flexible provision of pharmaceutical services[^key-379bb2b2445468ab6f851a31e5ee3d0e]
+#### 27. Temporary opening hours and closures during an emergency requiring the flexible provision of pharmaceutical services[^c-379bb2b2445468ab6f851a31e5ee3d0e]
 
 (1) Notwithstanding the provisions of this Schedule, during an emergency requiring the flexible provision of pharmaceutical services, the Local Health Board in whose pharmaceutical list the NHS pharmacist is included may, on application from the NHS pharmacist, permit the NHS pharmacist a temporary change to the days on which or times at which the NHS pharmacist is obliged to provide pharmaceutical services at the premises from which the NHS pharmacist has undertaken to provide pharmaceutical services, or permit temporary closure of those premises, if—
 
@@ -675,7 +675,7 @@ but it must not set out in that direction the days on which or the times at whic
 
 ### PART 4 — Clinical governance and complaints
 
-#### 28. Clinical governance[^key-a9bf26be30ead585d11f86acf3830872]
+#### 28. Clinical governance[^c-a9bf26be30ead585d11f86acf3830872]
 
 (1) An NHS pharmacist must, in connection with all the pharmaceutical services that the NHS pharmacist provides, participate, in the manner reasonably required by the Local Health Board on whose pharmaceutical list the NHS pharmacist is included, in an acceptable system of clinical governance.
 
@@ -690,26 +690,26 @@ but it must not set out in that direction the days on which or the times at whic
   - (i) a requirement that the NHS pharmacist should produce in an approved manner, and make available in an appropriate manner, a practice leaflet in respect of the NHS pharmacist’s pharmacy,
   - (ii) a requirement that the NHS pharmacist publicises the NHS services that are available at or from the NHS pharmacist’s pharmacy,
   - (iii) a requirement that where the NHS pharmacist publicises the NHS services that are available at or from the NHS pharmacist’s pharmacy (whether the NHS pharmacist is producing their own publicity material or advertising services in material published by another person), the NHS pharmacist does so in a manner which makes clear that those services are funded as part of the health service,
-  - (iv)[^key-97f3b697d85b4777a4a83ada8deb4ba6] a requirement that the NHS pharmacist should engage users of the pharmacy in activities to assess their satisfaction with the pharmaceutical services provided by the pharmacy, including a requirement to publicise the results of the assessments carried out and any appropriate action the NHS pharmacist intends to take as a result,
+  - (iv)[^c-97f3b697d85b4777a4a83ada8deb4ba6] a requirement that the NHS pharmacist should engage users of the pharmacy in activities to assess their satisfaction with the pharmaceutical services provided by the pharmacy, including a requirement to publicise the results of the assessments carried out and any appropriate action the NHS pharmacist intends to take as a result,
   - (v) monitoring arrangements for drugs or appliances owed to patients but which are out of stock,
   - (vi) an approved complaints system (which meets the requirements of this Part),
-  - (vii)[^key-0c53000a88c0a2704e0e9ceee4c268e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (viii) a requirement that the NHS pharmacist co-operates appropriately with any reasonable inspection or review that the Local Health Board or any relevant statutory authority wishes to undertake, [^key-26c17c2765a3dba31fe1c9a2962ab104]...
-  - (ix) monitoring arrangements for compliance with the Equality Act 2010[^f00041], and[^key-0e951c796f439043e96a90ae791b6004]
-  - (x)[^key-ccefa4ec99e2ae614541900924f0437d] a requirement that the NHS pharmacist must have regard to the code of practice on access to premises prepared and published by the Welsh Ministers under section 19(1) of the Health and Social Care (Quality and Engagement) (Wales) Act 2020 (“**the 2020 Act**”) (so far as the code is relevant) in exercising any function that relates to the provision of health services or social services (within the meaning of those terms in section 21 of the 2020 Act),
-- (b)[^key-cfceae25a4e984d24c9800e3a9192ec6] collaborate with other healthcare professionals through clusters in order to identify and improve the health and wellbeing of the population served by the pharmacy,
+  - (vii)[^c-0c53000a88c0a2704e0e9ceee4c268e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (viii) a requirement that the NHS pharmacist co-operates appropriately with any reasonable inspection or review that the Local Health Board or any relevant statutory authority wishes to undertake, [^c-26c17c2765a3dba31fe1c9a2962ab104]...
+  - (ix) monitoring arrangements for compliance with the Equality Act 2010[^f00041], and[^c-0e951c796f439043e96a90ae791b6004]
+  - (x)[^c-ccefa4ec99e2ae614541900924f0437d] a requirement that the NHS pharmacist must have regard to the code of practice on access to premises prepared and published by the Welsh Ministers under section 19(1) of the Health and Social Care (Quality and Engagement) (Wales) Act 2020 (“**the 2020 Act**”) (so far as the code is relevant) in exercising any function that relates to the provision of health services or social services (within the meaning of those terms in section 21 of the 2020 Act),
+- (b)[^c-cfceae25a4e984d24c9800e3a9192ec6] collaborate with other healthcare professionals through clusters in order to identify and improve the health and wellbeing of the population served by the pharmacy,
 - (c) a risk management programme, which includes—
   - (i) arrangements for ensuring that all stock is handled in an appropriate way,
   - (ii) arrangements for ensuring that all equipment used in the provision of pharmaceutical services is maintained appropriately,
   - (iii) an approved incident reporting system, together with arrangements for analysing and responding to critical incidents, which comprises of—
     - (aa) a patient safety incident log, and
     - (bb) a near-miss log,
-  - (iiia)[^key-e58edeed4b1facf413782038b01af9d4] arrangements for the reporting of patient safety incidents to the national system approved the Welsh Ministers,
-  - (iv) arrangements, including record keeping arrangements, for dealing appropriately and timeously with communications concerning patient safety from the Welsh Ministers, the Medicines and Healthcare Products Regulatory Agency and NHS England[^key-403821da007be1ccc89d22af131c39ab],
+  - (iiia)[^c-e58edeed4b1facf413782038b01af9d4] arrangements for the reporting of patient safety incidents to the national system approved the Welsh Ministers,
+  - (iv) arrangements, including record keeping arrangements, for dealing appropriately and timeously with communications concerning patient safety from the Welsh Ministers, the Medicines and Healthcare Products Regulatory Agency and NHS England[^c-403821da007be1ccc89d22af131c39ab],
   - (v) appropriate standard operating procedures, including standard operating procedures in respect of repeatable prescriptions and providing advice and support to people caring for themselves or their families,
   - (vi) appropriate waste disposal arrangements (in addition to those required under paragraphs 14 and 15) for clinical and confidential waste,
-  - (vii)[^key-102671b4acfa2f7b252aa8dda875a797] a clinical governance lead person for each pharmacy, appointed as such by the NHS pharmacist (or that is the NHS pharmacist), who either works regularly at the pharmacy or provides an operational role and is knowledgeable about the local adoption of the pharmacy procedures by staff employed or engaged at the pharmacy,
-  - (viii) appropriate procedures for safeguarding both children and adults who are at risk of abuse and neglect[^key-6fbc3380f6b433aab3ed90176b2a6604], and
+  - (vii)[^c-102671b4acfa2f7b252aa8dda875a797] a clinical governance lead person for each pharmacy, appointed as such by the NHS pharmacist (or that is the NHS pharmacist), who either works regularly at the pharmacy or provides an operational role and is knowledgeable about the local adoption of the pharmacy procedures by staff employed or engaged at the pharmacy,
+  - (viii) appropriate procedures for safeguarding both children and adults who are at risk of abuse and neglect[^c-6fbc3380f6b433aab3ed90176b2a6604], and
   - (ix) monitoring arrangements for compliance with the Health and Safety etc. Act 1974[^f00042],
 - (d) a clinical effectiveness programme, which includes arrangements for ensuring that appropriate advice is given by the NHS pharmacist—
   - (i) in respect of the provision of drugs in accordance with a repeatable prescription,
@@ -734,11 +734,11 @@ and arrangements for ensuring that the NHS pharmacist, when giving advice to any
   - (i) a system for maintaining cleanliness at the pharmacy which is designed to ensure, in a proportionate manner, that the risk to people at the pharmacy of healthcare acquired infection is minimised, and
   - (ii) arrangements for there to be a clear separation between the areas of a pharmacy which are an appropriate healthcare environment (where patients receive NHS services) and those areas that are a non-healthcare environment.
 
-#### 29. Professional standards[^key-ba0f1c49e47612e510b53f0fdc96cc0c]
+#### 29. Professional standards[^c-ba0f1c49e47612e510b53f0fdc96cc0c]
 
 An NHS pharmacist must provide pharmaceutical services and exercise any professional judgments in connection with the provision of such services in conformity with the standards generally accepted in the pharmaceutical profession.
 
-#### 30. Inducements[^key-4746bbda11299a2c66d18c3bd3eba052]
+#### 30. Inducements[^c-4746bbda11299a2c66d18c3bd3eba052]
 
 (1) An NHS pharmacist or their staff must not give, promise or offer to any person any gift or reward (whether by way of a share of or dividend on the profits of the business or by way of discount or rebate or otherwise) as an inducement to or in consideration of the person presenting an order for drugs or appliances on a prescription form or repeatable prescription.
 
@@ -749,7 +749,7 @@ An NHS pharmacist must provide pharmaceutical services and exercise any professi
 - (a) providing contact details of alternative NHS pharmacists or NHS appliance contractors pursuant to paragraph 11(2)(b), 12(4) or 20(2)(b), or
 - (b) referring a prescription form or repeatable prescription to another NHS pharmacist or NHS appliance contractor pursuant to paragraph 11(2)(a) or 20(2)(a) and providing no additional service in connection with the item on that prescription.
 
-#### 31. Duty to provide information about fitness to practice matters as they arise[^key-03c1757c828bbf7635fa4e437734a042]
+#### 31. Duty to provide information about fitness to practice matters as they arise[^c-03c1757c828bbf7635fa4e437734a042]
 
 (1) Subject to paragraph 32, an NHS pharmacist, and where the NHS pharmacist is part of a body corporate each of its directors, must, within 7 days of its occurrence, inform the Local Health Board in writing if the NHS pharmacist or a director—
 
@@ -784,21 +784,21 @@ and if so, that person must give the name and registered office of the body corp
 
 (3) A person to whom sub-paragraph (1) or (2) applies must consent to a request being made by the Local Health Board to any employer or former employer or licensing or regulatory body in the United Kingdom or elsewhere, for information relating to a current investigation, or an investigation where the outcome was adverse.
 
-#### 32. Home Local Health Board of bodies corporate[^key-8ab3d3e2cd73ac300d91ff712b7e8a5d]
+#### 32. Home Local Health Board of bodies corporate[^c-8ab3d3e2cd73ac300d91ff712b7e8a5d]
 
 Where an NHS pharmacist is a body corporate with a registered office in England and Wales, the information to be provided under paragraphs 31 and 35(3) to (6) may be provided instead to a home Local Health Board (as defined in regulation 60). When the NHS pharmacist provides the information to its home Local Health Board, it must also provide the home Local Health Board with details of all the other Local Health Boards in whose pharmaceutical lists the NHS pharmacist is included.
 
-#### 33. Complaints[^key-2b253627b77cabfb52c4e1ac0edb7e0e]
+#### 33. Complaints[^c-2b253627b77cabfb52c4e1ac0edb7e0e]
 
 An NHS pharmacist must have in place arrangements which comply with the requirements of the National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011[^f00046], for the handling and consideration of any concerns or complaints about a matter connected with the provision of pharmaceutical services by the NHS pharmacist.
 
 ### PART 5 — Other terms of service
 
-#### 34. Directed services[^key-9a9c8bdc9642a631216e61cf1787f2d4]
+#### 34. Directed services[^c-9a9c8bdc9642a631216e61cf1787f2d4]
 
 An NHS pharmacist with whom a Local Health Board on whose pharmaceutical list the NHS pharmacist is included makes an arrangement for the provision of any directed services must comply with the terms and conditions of the arrangement.
 
-#### 35. Information to be supplied[^key-109c2fb8acb702b8bd657ce1e12a82d1]
+#### 35. Information to be supplied[^c-109c2fb8acb702b8bd657ce1e12a82d1]
 
 (1) An NHS pharmacist must give notice to the Local Health Board on whose pharmaceutical list the NHS pharmacist is included within 28 days (or if this is impracticable, as soon as practicable thereafter) of—
 
@@ -829,11 +829,11 @@ that requests it.
 - (a) a pharmaceutical list, or
 - (b) a list maintained of approved performers or providers of primary medical, dental or ophthalmic services.
 
-#### 36. Withdrawal from pharmaceutical lists[^key-57610179ee2e11c9bb8ffa0a5ba6ca85]
+#### 36. Withdrawal from pharmaceutical lists[^c-57610179ee2e11c9bb8ffa0a5ba6ca85]
 
 Where an NHS pharmacist intends to withdraw from the pharmaceutical list, they must notify the Local Health Board of this at least 3 months in advance of that date, unless it is impracticable to do so in which case they must notify the Local Health Board as soon as it is practicable to do so.
 
-#### 37. Charges for drugs and refunds[^key-d8cf80de0c39735075a10cc654f0a537]
+#### 37. Charges for drugs and refunds[^c-d8cf80de0c39735075a10cc654f0a537]
 
 (1) Subject to regulations made under section 121 of the 2006 Act (charges for drugs, medicines or appliances, or pharmaceutical services) all drugs, containers and appliances provided under these terms of service must be provided free of charge.
 
@@ -843,7 +843,7 @@ Where an NHS pharmacist intends to withdraw from the pharmaceutical list, they m
 
 (4) For the purposes of sub-paragraph (3), a claim for repayment is only valid if it is duly made on Form WP57 0405 within 3 months of the date on which the charge was paid.
 
-#### 38. Inspections and access to information[^key-1b46e38df7a67b39fc84c4d54d8bf64f]
+#### 38. Inspections and access to information[^c-1b46e38df7a67b39fc84c4d54d8bf64f]
 
 (1) An NHS pharmacist must allow persons authorised in writing by the Local Health Board in whose pharmaceutical list the NHS pharmacist is included to enter and inspect the NHS pharmacist’s pharmacy at any reasonable time, for the purposes of—
 
@@ -866,7 +866,7 @@ where the conditions in sub-paragraph (2) are satisfied.
 - (a) for the purposes mentioned in sub-paragraph (1), or
 - (b) in the case of the Local Health Board, in connection with its functions that relate to pharmaceutical services.
 
-#### 39. Welsh language[^key-d68b633f5608798640a7a5c67239347b]
+#### 39. Welsh language[^c-d68b633f5608798640a7a5c67239347b]
 
 (1) Where an NHS pharmacist provides pharmaceutical services through the medium of Welsh, the NHS pharmacist must notify the Local Health Board on whose pharmaceutical list the NHS pharmacist is included, in writing.
 
@@ -883,7 +883,7 @@ where the conditions in sub-paragraph (2) are satisfied.
 
 (6) An NHS pharmacist must encourage those delivering pharmaceutical services to establish and record the Welsh or English language preference expressed by or on behalf of a patient.
 
-#### 40. Workforce reporting[^key-cd33ecf0df297b3adfbed04bd3008704]
+#### 40. Workforce reporting[^c-cd33ecf0df297b3adfbed04bd3008704]
 
 (1) An NHS pharmacist must provide such workforce data to the Local Health Board in whose pharmaceutical list the NHS pharmacist is included as the Local Health Board may from time to time require in connection with its functions.
 
@@ -893,182 +893,182 @@ where the conditions in sub-paragraph (2) are satisfied.
 
 ## Annotations
 
-[^key-c55c2a828ecdd19989ec2fcf647511a2]: Commencement: Sch. 5 para. 1 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-c55c2a828ecdd19989ec2fcf647511a2]: Commencement: Sch. 5 para. 1 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-87d2a2ca6d4366a56d53aef7b8500005]: Commencement: Sch. 5 para. 2 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-87d2a2ca6d4366a56d53aef7b8500005]: Commencement: Sch. 5 para. 2 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-0f13d16b5a86f119ba7f5f02a7f4457a]: Textual amendment: Sch. 5 para. 2(c)(ii): full stop substituted (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/wsi/2023/299/regulation/9/5/a)
+[^c-0f13d16b5a86f119ba7f5f02a7f4457a]: Textual amendment: Sch. 5 para. 2(c)(ii): full stop substituted (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/wsi/2023/299/regulation/9/5/a)
 
-[^key-6632e8e3abd8d361d9c567df7d870a6a]: Textual amendment: Sch. 5 para. 2(d) omitted (1.4.2023) by virtue of [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [9(5)(b)](https://www.legislation.gov.uk/wsi/2023/299/regulation/9/5/b)
+[^c-6632e8e3abd8d361d9c567df7d870a6a]: Textual amendment: Sch. 5 para. 2(d) omitted (1.4.2023) by virtue of [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [9(5)(b)](https://www.legislation.gov.uk/wsi/2023/299/regulation/9/5/b)
 
-[^key-8d4d2d5f5255920191d6805068abcfdb]: Textual amendment: Sch. 5 para. 2A inserted (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(3)(b)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/3/b), [9(5)(c)](https://www.legislation.gov.uk/wsi/2023/299/regulation/9/5/c)
+[^c-8d4d2d5f5255920191d6805068abcfdb]: Textual amendment: Sch. 5 para. 2A inserted (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(3)(b)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/3/b), [9(5)(c)](https://www.legislation.gov.uk/wsi/2023/299/regulation/9/5/c)
 
-[^key-368ac604c0a4ec09168cd64f07252cf5]: Commencement: Sch. 5 para. 3 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-368ac604c0a4ec09168cd64f07252cf5]: Commencement: Sch. 5 para. 3 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-f80b5bb1d6072daf3ca7aaf8865db78a]: Commencement: Sch. 5 para. 4 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-f80b5bb1d6072daf3ca7aaf8865db78a]: Commencement: Sch. 5 para. 4 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-379402da2fcee36ab8160011f22606e1]: Textual amendment: Words in [Sch. 5 para. 4](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/4) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/uksi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1196/regulation/1/4), [3(2)](https://www.legislation.gov.uk/uksi/2024/1196/regulation/3/2) (as amended by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/uksi/2025/285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/285/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/285/regulation/3/3/a))
+[^c-379402da2fcee36ab8160011f22606e1]: Textual amendment: Words in [Sch. 5 para. 4](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/4) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/uksi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1196/regulation/1/4), [3(2)](https://www.legislation.gov.uk/uksi/2024/1196/regulation/3/2) (as amended by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/uksi/2025/285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/285/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/285/regulation/3/3/a))
 
-[^key-3ae90bdc4c410e76eed01002de99d541]: Commencement: Sch. 5 para. 5 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-3ae90bdc4c410e76eed01002de99d541]: Commencement: Sch. 5 para. 5 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
 [^f00037]: Footnote: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38). See section 2(1)(a) of that Act which defines “controlled drug” for the purposes of that Act.
 
 [^f00038]: Footnote: [S.I. 2001/3998](https://www.legislation.gov.uk/uksi/2001/3998).
 
-[^key-afb9aea3ba1150188397df502ea5d4e9]: Textual amendment: [Sch. 5 para. 5A](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/5A) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(3)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/3)
+[^c-afb9aea3ba1150188397df502ea5d4e9]: Textual amendment: [Sch. 5 para. 5A](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/5A) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(3)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/3)
 
-[^key-d06f0d55ab34d46a48d149aa85246341]: Textual amendment: Word in [Sch. 5 para. 5A](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/5A) heading inserted (1.4.2025 at 12:01 a.m.) by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/uksi/2025/285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/285/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/285/regulation/2/3/a)
+[^c-d06f0d55ab34d46a48d149aa85246341]: Textual amendment: Word in [Sch. 5 para. 5A](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/5A) heading inserted (1.4.2025 at 12:01 a.m.) by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/uksi/2025/285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/285/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/285/regulation/2/3/a)
 
-[^key-408df0ebc7e718d925e675b52c70f478]: Textual amendment: Words in [Sch. 5 para. 5A](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/5A) substituted (1.4.2025 at 12:01 a.m.) by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/wsi/2025/285), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/3), [2(3)(b)(i)](https://www.legislation.gov.uk/wsi/2025/285/regulation/2/3/b/i)
+[^c-408df0ebc7e718d925e675b52c70f478]: Textual amendment: Words in [Sch. 5 para. 5A](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/5A) substituted (1.4.2025 at 12:01 a.m.) by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/wsi/2025/285), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/3), [2(3)(b)(i)](https://www.legislation.gov.uk/wsi/2025/285/regulation/2/3/b/i)
 
-[^key-091af5c2c7843259b3a5aaa604906e80]: Textual amendment: Word in [Sch. 5 para. 5A(3)(a)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/5A/3/a) substituted (1.4.2025 at 12:01 a.m.) by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/wsi/2025/285), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/3), [2(3)(b)(ii)](https://www.legislation.gov.uk/wsi/2025/285/regulation/2/3/b/ii)
+[^c-091af5c2c7843259b3a5aaa604906e80]: Textual amendment: Word in [Sch. 5 para. 5A(3)(a)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/5A/3/a) substituted (1.4.2025 at 12:01 a.m.) by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/wsi/2025/285), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/3), [2(3)(b)(ii)](https://www.legislation.gov.uk/wsi/2025/285/regulation/2/3/b/ii)
 
-[^key-20fb82a6277c212887dba274ae29ba13]: Textual amendment: [Sch. 5 para. 5A(4)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/5A/4) omitted (2.6.2026) by virtue of [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2026 (W.S.I. 2026/92)](https://www.legislation.gov.uk/wsi/2026/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/92/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/wsi/2026/92/regulation/2/3/e)
+[^c-20fb82a6277c212887dba274ae29ba13]: Textual amendment: [Sch. 5 para. 5A(4)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/5A/4) omitted (2.6.2026) by virtue of [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2026 (W.S.I. 2026/92)](https://www.legislation.gov.uk/wsi/2026/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/92/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/wsi/2026/92/regulation/2/3/e)
 
-[^key-1caeb9b221b11a48e23e78aef18a6068]: Textual amendment: [Sch. 5 para. 5A(5)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/5A/5) omitted (2.6.2026) by virtue of [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2026 (W.S.I. 2026/92)](https://www.legislation.gov.uk/wsi/2026/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/92/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/wsi/2026/92/regulation/2/3/e)
+[^c-1caeb9b221b11a48e23e78aef18a6068]: Textual amendment: [Sch. 5 para. 5A(5)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/5A/5) omitted (2.6.2026) by virtue of [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2026 (W.S.I. 2026/92)](https://www.legislation.gov.uk/wsi/2026/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/92/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/wsi/2026/92/regulation/2/3/e)
 
-[^key-a7e4cd9c29ae708a52d58494d0de6f6b]: Commencement: Sch. 5 para. 6 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-a7e4cd9c29ae708a52d58494d0de6f6b]: Commencement: Sch. 5 para. 6 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-f687452cd7a5fe545f11ac92ce6178d0]: Commencement: Sch. 5 para. 7 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-f687452cd7a5fe545f11ac92ce6178d0]: Commencement: Sch. 5 para. 7 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-8a0a16e4c406c2536ae6b642dc6e5fd3]: Textual amendment: Words in [Sch. 5 para. 7(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/7/2/b/ii) substituted (2.6.2026) by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2026 (W.S.I. 2026/92)](https://www.legislation.gov.uk/wsi/2026/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/92/regulation/1/2), [2(3)(f)](https://www.legislation.gov.uk/wsi/2026/92/regulation/2/3/f)
+[^c-8a0a16e4c406c2536ae6b642dc6e5fd3]: Textual amendment: Words in [Sch. 5 para. 7(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/7/2/b/ii) substituted (2.6.2026) by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2026 (W.S.I. 2026/92)](https://www.legislation.gov.uk/wsi/2026/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/92/regulation/1/2), [2(3)(f)](https://www.legislation.gov.uk/wsi/2026/92/regulation/2/3/f)
 
-[^key-e87429155632f5578b74c55b3b302cea]: Commencement: Sch. 5 para. 8 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-e87429155632f5578b74c55b3b302cea]: Commencement: Sch. 5 para. 8 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-261d45e4c48e8b573fbcb6617a89301b]: Commencement: Sch. 5 para. 9 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-261d45e4c48e8b573fbcb6617a89301b]: Commencement: Sch. 5 para. 9 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
 [^f00039]: Footnote: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72).
 
-[^key-01cc733b56cd2046d9badf54fd66add0]: Textual amendment: [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/9/2) omitted (2.6.2026) by virtue of [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2026 (W.S.I. 2026/92)](https://www.legislation.gov.uk/wsi/2026/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/92/regulation/1/2), [2(3)(g)](https://www.legislation.gov.uk/wsi/2026/92/regulation/2/3/g)
+[^c-01cc733b56cd2046d9badf54fd66add0]: Textual amendment: [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/9/2) omitted (2.6.2026) by virtue of [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2026 (W.S.I. 2026/92)](https://www.legislation.gov.uk/wsi/2026/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/92/regulation/1/2), [2(3)(g)](https://www.legislation.gov.uk/wsi/2026/92/regulation/2/3/g)
 
-[^key-d61ea6c1d4604c19cca796ea12185bf6]: Textual amendment: [Sch. 5 para. 9(3)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/9/3) omitted (2.6.2026) by virtue of [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2026 (W.S.I. 2026/92)](https://www.legislation.gov.uk/wsi/2026/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/92/regulation/1/2), [2(3)(g)](https://www.legislation.gov.uk/wsi/2026/92/regulation/2/3/g)
+[^c-d61ea6c1d4604c19cca796ea12185bf6]: Textual amendment: [Sch. 5 para. 9(3)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/9/3) omitted (2.6.2026) by virtue of [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2026 (W.S.I. 2026/92)](https://www.legislation.gov.uk/wsi/2026/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/92/regulation/1/2), [2(3)(g)](https://www.legislation.gov.uk/wsi/2026/92/regulation/2/3/g)
 
-[^key-86651b20d3efd4636f311b6767d234b5]: Textual amendment: Sch. 5 para. 9(8A)-(8E) inserted (1.1.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(5)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/5) (as amended by [S.I. 2024/1315](https://www.legislation.gov.uk/uksi/2024/1315), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1315/regulation/1), [2](https://www.legislation.gov.uk/uksi/2024/1315/regulation/2))
+[^c-86651b20d3efd4636f311b6767d234b5]: Textual amendment: Sch. 5 para. 9(8A)-(8E) inserted (1.1.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(5)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/5) (as amended by [S.I. 2024/1315](https://www.legislation.gov.uk/uksi/2024/1315), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1315/regulation/1), [2](https://www.legislation.gov.uk/uksi/2024/1315/regulation/2))
 
-[^key-e2fce0e0ba076bc4ee0e206b3e00c491]: Textual amendment: Word in [Sch. 5 para. 9(8C)(b)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/9/8C/b) omitted (1.4.2025 at 12:01 a.m.) by virtue of [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/wsi/2025/285), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/wsi/2025/285/regulation/2/3/c)
+[^c-e2fce0e0ba076bc4ee0e206b3e00c491]: Textual amendment: Word in [Sch. 5 para. 9(8C)(b)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/9/8C/b) omitted (1.4.2025 at 12:01 a.m.) by virtue of [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/wsi/2025/285), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/wsi/2025/285/regulation/2/3/c)
 
-[^key-08716f9a0f0aefae18f63ab7e846ae11]: Commencement: Sch. 5 para. 10 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-08716f9a0f0aefae18f63ab7e846ae11]: Commencement: Sch. 5 para. 10 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-6566819114998620e3917f6d03918d8d]: Commencement: Sch. 5 para. 11 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-6566819114998620e3917f6d03918d8d]: Commencement: Sch. 5 para. 11 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-c42a1f3317c2218df589f7aba40c3428]: Commencement: Sch. 5 para. 12 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-c42a1f3317c2218df589f7aba40c3428]: Commencement: Sch. 5 para. 12 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
 [^f00040]: Footnote: NHS Direct Wales telephone number 0845 46 47, website address www.nhsdirect.wales.nhs.uk.
 
-[^key-457dc19dd5c77b6fcf9c9562820216f0]: Commencement: Sch. 5 para. 13 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-457dc19dd5c77b6fcf9c9562820216f0]: Commencement: Sch. 5 para. 13 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-f63ff26f61d7b5fba9e9ed8a46b2a61f]: Commencement: Sch. 5 para. 14 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-f63ff26f61d7b5fba9e9ed8a46b2a61f]: Commencement: Sch. 5 para. 14 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-db223bfa4f2b001c81e41ff54e7a6614]: Commencement: Sch. 5 para. 15 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-db223bfa4f2b001c81e41ff54e7a6614]: Commencement: Sch. 5 para. 15 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-8fcfbd97ad78668f4a496ab269c0403b]: Textual amendment: [Sch. 5 para. 16](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/16) substituted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(6)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/6)
+[^c-8fcfbd97ad78668f4a496ab269c0403b]: Textual amendment: [Sch. 5 para. 16](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/16) substituted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(6)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/6)
 
-[^key-9aefe553489ee6e140a77ab9c93d0ab1]: Commencement: Sch. 5 para. 17 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-9aefe553489ee6e140a77ab9c93d0ab1]: Commencement: Sch. 5 para. 17 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-e97a7d4e6e7dbc9c4c0018c27e669453]: Textual amendment: [Sch. 5 para. 17(1)(b)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/17/1/b) substituted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(7)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/7)
+[^c-e97a7d4e6e7dbc9c4c0018c27e669453]: Textual amendment: [Sch. 5 para. 17(1)(b)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/17/1/b) substituted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(7)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/7)
 
-[^key-875b9ca363b473a920e84fb969527b97]: Textual amendment: [Sch. 5 para. 17(3)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/17/3) substituted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(8)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/8)
+[^c-875b9ca363b473a920e84fb969527b97]: Textual amendment: [Sch. 5 para. 17(3)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/17/3) substituted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(8)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/8)
 
-[^key-3fcccdf14ca4e0958e6f7fd4fbb38a01]: Commencement: Sch. 5 para. 18 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-3fcccdf14ca4e0958e6f7fd4fbb38a01]: Commencement: Sch. 5 para. 18 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-a4b161f46766efbc6d87c96fed8eac59]: Textual amendment: Word in [Sch. 5 para. 18(a)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/18/a) substituted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(9)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/9)
+[^c-a4b161f46766efbc6d87c96fed8eac59]: Textual amendment: Word in [Sch. 5 para. 18(a)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/18/a) substituted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(9)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/9)
 
-[^key-c416c040164984792492cd17035431eb]: Textual amendment: [Sch. 5 para. 18(b)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/18/b) substituted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(10)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/10)
+[^c-c416c040164984792492cd17035431eb]: Textual amendment: [Sch. 5 para. 18(b)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/18/b) substituted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(10)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/10)
 
-[^key-a6e7707af18765db141c016419c3037e]: Commencement: Sch. 5 para. 19 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-a6e7707af18765db141c016419c3037e]: Commencement: Sch. 5 para. 19 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-6278330a532b9e181aac9c3239b4ddc8]: Commencement: Sch. 5 para. 20 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-6278330a532b9e181aac9c3239b4ddc8]: Commencement: Sch. 5 para. 20 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-fc8211301e456c8f792bb2f8e511300a]: Textual amendment: [Sch. 5 para. 20(4)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/20/4) substituted (1.4.2025 at 12:01 a.m.) by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/wsi/2025/285), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/3), [2(3)(d)](https://www.legislation.gov.uk/wsi/2025/285/regulation/2/3/d)
+[^c-fc8211301e456c8f792bb2f8e511300a]: Textual amendment: [Sch. 5 para. 20(4)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/20/4) substituted (1.4.2025 at 12:01 a.m.) by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/wsi/2025/285), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/3), [2(3)(d)](https://www.legislation.gov.uk/wsi/2025/285/regulation/2/3/d)
 
-[^key-49dd9814ec2b5d85be859f7ef3a0928d]: Commencement: Sch. 5 para. 21 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-49dd9814ec2b5d85be859f7ef3a0928d]: Commencement: Sch. 5 para. 21 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-5d09bf9b33e38c3e89ed973d2167df01]: Commencement: Sch. 5 para. 22 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-5d09bf9b33e38c3e89ed973d2167df01]: Commencement: Sch. 5 para. 22 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-a357f4760e53df05d65f37a5d8cd47fd]: Textual amendment: [Sch. 5 para. 22(2)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/22/2) substituted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(12)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/12)
+[^c-a357f4760e53df05d65f37a5d8cd47fd]: Textual amendment: [Sch. 5 para. 22(2)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/22/2) substituted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(12)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/12)
 
-[^key-ae5e14de28cbd47f04ed3dd5b06c385f]: Commencement: Sch. 5 para. 23 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-ae5e14de28cbd47f04ed3dd5b06c385f]: Commencement: Sch. 5 para. 23 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-f6a30782f0d02015f07b361cfc062274]: Textual amendment: Words in [Sch. 5 para. 23(5)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/23/5) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(13)(a)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/13/a)
+[^c-f6a30782f0d02015f07b361cfc062274]: Textual amendment: Words in [Sch. 5 para. 23(5)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/23/5) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(13)(a)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/13/a)
 
-[^key-46bc1c05825ca4f75ab3aa167181657d]: Textual amendment: Words in [Sch. 5 para. 23(5)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/23/5) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(13)(b)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/13/b)
+[^c-46bc1c05825ca4f75ab3aa167181657d]: Textual amendment: Words in [Sch. 5 para. 23(5)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/23/5) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(13)(b)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/13/b)
 
-[^key-ced33917cff7ded334a19477475d97b0]: Textual amendment: Words in [Sch. 5 para. 23(6)(a)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/23/6/a) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/uksi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1196/regulation/1/4), [3(14)(a)](https://www.legislation.gov.uk/uksi/2024/1196/regulation/3/14/a) (as amended by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/uksi/2025/285), [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2025/285/regulation/3/3/b))
+[^c-ced33917cff7ded334a19477475d97b0]: Textual amendment: Words in [Sch. 5 para. 23(6)(a)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/23/6/a) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/uksi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1196/regulation/1/4), [3(14)(a)](https://www.legislation.gov.uk/uksi/2024/1196/regulation/3/14/a) (as amended by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/uksi/2025/285), [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2025/285/regulation/3/3/b))
 
-[^key-5e17c5eb3f76d5e4de95a5f937a07145]: Textual amendment: Words in [Sch. 5 para. 23(6)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/23/6) omitted (1.4.2025) by virtue of [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(14)(b)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/14/b)
+[^c-5e17c5eb3f76d5e4de95a5f937a07145]: Textual amendment: Words in [Sch. 5 para. 23(6)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/23/6) omitted (1.4.2025) by virtue of [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(14)(b)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/14/b)
 
-[^key-7a6694f202036f1110d29e3f02fe4441]: Textual amendment: Words in [Sch. 5 para. 23(6)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/23/6) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(14)(c)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/14/c)
+[^c-7a6694f202036f1110d29e3f02fe4441]: Textual amendment: Words in [Sch. 5 para. 23(6)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/23/6) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(14)(c)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/14/c)
 
-[^key-de07dd9c57ca432d506e74250ea945bf]: Textual amendment: [Sch. 5 para. 23(6A)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/23/6A) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(15)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/15)
+[^c-de07dd9c57ca432d506e74250ea945bf]: Textual amendment: [Sch. 5 para. 23(6A)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/23/6A) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(15)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/15)
 
-[^key-31e8588f55af12cece9d125e38791250]: Textual amendment: [Sch. 5 para. 23(6B)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/23/6B) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(16)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/16)
+[^c-31e8588f55af12cece9d125e38791250]: Textual amendment: [Sch. 5 para. 23(6B)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/23/6B) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(16)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/16)
 
-[^key-14554e6d9a92e935e00d2875a56010dd]: Textual amendment: Word in [Sch. 5 para. 23(6B)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/23/6B) substituted (1.4.2025 at 12:01 a.m.) by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/wsi/2025/285), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/3), [2(3)(e)](https://www.legislation.gov.uk/wsi/2025/285/regulation/2/3/e)
+[^c-14554e6d9a92e935e00d2875a56010dd]: Textual amendment: Word in [Sch. 5 para. 23(6B)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/23/6B) substituted (1.4.2025 at 12:01 a.m.) by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/wsi/2025/285), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/3), [2(3)(e)](https://www.legislation.gov.uk/wsi/2025/285/regulation/2/3/e)
 
-[^key-350eafff8e884633490371f52b6d359c]: Textual amendment: Words in [Sch. 5 para. 23(8)(a)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/23/8/a) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(17)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/17)
+[^c-350eafff8e884633490371f52b6d359c]: Textual amendment: Words in [Sch. 5 para. 23(8)(a)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/23/8/a) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(17)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/17)
 
-[^key-d9a22204e0bd1fcc1fc33285c999e7ca]: Commencement: Sch. 5 para. 24 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-d9a22204e0bd1fcc1fc33285c999e7ca]: Commencement: Sch. 5 para. 24 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-3c96346ca91ce8cdcc49ec1a0719f15a]: Commencement: Sch. 5 para. 25 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-3c96346ca91ce8cdcc49ec1a0719f15a]: Commencement: Sch. 5 para. 25 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-9270ef4fa8ae31dd80791740471077ea]: Commencement: Sch. 5 para. 26 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-9270ef4fa8ae31dd80791740471077ea]: Commencement: Sch. 5 para. 26 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-379bb2b2445468ab6f851a31e5ee3d0e]: Commencement: Sch. 5 para. 27 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-379bb2b2445468ab6f851a31e5ee3d0e]: Commencement: Sch. 5 para. 27 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-a9bf26be30ead585d11f86acf3830872]: Commencement: Sch. 5 para. 28 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-a9bf26be30ead585d11f86acf3830872]: Commencement: Sch. 5 para. 28 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-97f3b697d85b4777a4a83ada8deb4ba6]: Textual amendment: [Sch. 5 para. 28(3)(a)(iv)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/28/3/a/iv) substituted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(18)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/18)
+[^c-97f3b697d85b4777a4a83ada8deb4ba6]: Textual amendment: [Sch. 5 para. 28(3)(a)(iv)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/28/3/a/iv) substituted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(18)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/18)
 
-[^key-0c53000a88c0a2704e0e9ceee4c268e7]: Textual amendment: Sch. 5 para. 28(3)(a)(vii) omitted (1.4.2023) by virtue of [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [9(5)(d)](https://www.legislation.gov.uk/wsi/2023/299/regulation/9/5/d)
+[^c-0c53000a88c0a2704e0e9ceee4c268e7]: Textual amendment: Sch. 5 para. 28(3)(a)(vii) omitted (1.4.2023) by virtue of [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [9(5)(d)](https://www.legislation.gov.uk/wsi/2023/299/regulation/9/5/d)
 
-[^key-26c17c2765a3dba31fe1c9a2962ab104]: Textual amendment: Word in Sch. 5 para. 28(3)(a)(viii) omitted (1.4.2023) by virtue of [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(3)(b)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/3/b), [9(5)(e)](https://www.legislation.gov.uk/wsi/2023/299/regulation/9/5/e)
+[^c-26c17c2765a3dba31fe1c9a2962ab104]: Textual amendment: Word in Sch. 5 para. 28(3)(a)(viii) omitted (1.4.2023) by virtue of [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(3)(b)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/3/b), [9(5)(e)](https://www.legislation.gov.uk/wsi/2023/299/regulation/9/5/e)
 
 [^f00041]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-0e951c796f439043e96a90ae791b6004]: Textual amendment: Word in Sch. 5 para. 28(3)(a)(ix) inserted (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(3)(b)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/3/b), [9(5)(f)](https://www.legislation.gov.uk/wsi/2023/299/regulation/9/5/f)
+[^c-0e951c796f439043e96a90ae791b6004]: Textual amendment: Word in Sch. 5 para. 28(3)(a)(ix) inserted (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(3)(b)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/3/b), [9(5)(f)](https://www.legislation.gov.uk/wsi/2023/299/regulation/9/5/f)
 
-[^key-ccefa4ec99e2ae614541900924f0437d]: Textual amendment: Sch. 5 para. 28(3)(a)(x) inserted (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(3)(b)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/3/b), [9(5)(g)](https://www.legislation.gov.uk/wsi/2023/299/regulation/9/5/g)
+[^c-ccefa4ec99e2ae614541900924f0437d]: Textual amendment: Sch. 5 para. 28(3)(a)(x) inserted (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(3)(b)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/3/b), [9(5)(g)](https://www.legislation.gov.uk/wsi/2023/299/regulation/9/5/g)
 
-[^key-cfceae25a4e984d24c9800e3a9192ec6]: Textual amendment: [Sch. 5 para. 28(3)(b)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/28/3/b) substituted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(19)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/19)
+[^c-cfceae25a4e984d24c9800e3a9192ec6]: Textual amendment: [Sch. 5 para. 28(3)(b)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/28/3/b) substituted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(19)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/19)
 
-[^key-e58edeed4b1facf413782038b01af9d4]: Textual amendment: [Sch. 5 para. 28(3)(c)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/28/3/c), [(iiia)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/28/3/iiia) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(20)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/20)
+[^c-e58edeed4b1facf413782038b01af9d4]: Textual amendment: [Sch. 5 para. 28(3)(c)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/28/3/c), [(iiia)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/28/3/iiia) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(20)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/20)
 
-[^key-403821da007be1ccc89d22af131c39ab]: Textual amendment: Words in Sch. 5 para. 28(3)(c)(iv) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [103(4)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/103/4)
+[^c-403821da007be1ccc89d22af131c39ab]: Textual amendment: Words in Sch. 5 para. 28(3)(c)(iv) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [103(4)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/103/4)
 
-[^key-102671b4acfa2f7b252aa8dda875a797]: Textual amendment: [Sch. 5 para. 28(3)(c)(vii)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/28/3/c/vii) substituted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(21)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/21)
+[^c-102671b4acfa2f7b252aa8dda875a797]: Textual amendment: [Sch. 5 para. 28(3)(c)(vii)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/28/3/c/vii) substituted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(21)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/21)
 
-[^key-6fbc3380f6b433aab3ed90176b2a6604]: Textual amendment: Words in [Sch. 5 para. 28(3)(c)(viii)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/28/3/c/viii) substituted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(22)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/22)
+[^c-6fbc3380f6b433aab3ed90176b2a6604]: Textual amendment: Words in [Sch. 5 para. 28(3)(c)(viii)](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/28/3/c/viii) substituted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [3(22)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/22)
 
 [^f00042]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37).
 
 [^f00043]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18); section 43A was inserted by section 1 of the Public Interest Disclosure Act [1998 (c. 23)](https://www.legislation.gov.uk/ukpga/1998/23). See also section 43K(1)(c) of the Employment Rights Act 1996 which extends the meaning of “worker” for the Part of that Act that deals with protected disclosures so that it covers all individuals who provide pharmaceutical services in accordance with arrangements made by a Local Health Board under section 80 of the 2006 Act.
 
-[^key-ba0f1c49e47612e510b53f0fdc96cc0c]: Commencement: Sch. 5 para. 29 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-ba0f1c49e47612e510b53f0fdc96cc0c]: Commencement: Sch. 5 para. 29 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-4746bbda11299a2c66d18c3bd3eba052]: Commencement: Sch. 5 para. 30 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-4746bbda11299a2c66d18c3bd3eba052]: Commencement: Sch. 5 para. 30 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-03c1757c828bbf7635fa4e437734a042]: Commencement: Sch. 5 para. 31 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-03c1757c828bbf7635fa4e437734a042]: Commencement: Sch. 5 para. 31 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
 [^f00044]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
 [^f00045]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-8ab3d3e2cd73ac300d91ff712b7e8a5d]: Commencement: Sch. 5 para. 32 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-8ab3d3e2cd73ac300d91ff712b7e8a5d]: Commencement: Sch. 5 para. 32 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-2b253627b77cabfb52c4e1ac0edb7e0e]: Commencement: Sch. 5 para. 33 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-2b253627b77cabfb52c4e1ac0edb7e0e]: Commencement: Sch. 5 para. 33 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
 [^f00046]: Footnote: [S.I. 2011/704 (W. 108)](https://www.legislation.gov.uk/wsi/2011/704), amended by [S.I. 2011/1706 (W. 192)](https://www.legislation.gov.uk/wsi/2011/1706).
 
-[^key-9a9c8bdc9642a631216e61cf1787f2d4]: Commencement: Sch. 5 para. 34 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-9a9c8bdc9642a631216e61cf1787f2d4]: Commencement: Sch. 5 para. 34 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-109c2fb8acb702b8bd657ce1e12a82d1]: Commencement: Sch. 5 para. 35 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-109c2fb8acb702b8bd657ce1e12a82d1]: Commencement: Sch. 5 para. 35 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-57610179ee2e11c9bb8ffa0a5ba6ca85]: Commencement: Sch. 5 para. 36 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-57610179ee2e11c9bb8ffa0a5ba6ca85]: Commencement: Sch. 5 para. 36 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-d8cf80de0c39735075a10cc654f0a537]: Commencement: Sch. 5 para. 37 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-d8cf80de0c39735075a10cc654f0a537]: Commencement: Sch. 5 para. 37 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-1b46e38df7a67b39fc84c4d54d8bf64f]: Commencement: Sch. 5 para. 38 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-1b46e38df7a67b39fc84c4d54d8bf64f]: Commencement: Sch. 5 para. 38 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-d68b633f5608798640a7a5c67239347b]: Commencement: Sch. 5 para. 39 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-d68b633f5608798640a7a5c67239347b]: Commencement: Sch. 5 para. 39 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-cd33ecf0df297b3adfbed04bd3008704]: Textual amendment: [Sch. 5 para. 40](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/40) inserted (2.6.2026) by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2026 (W.S.I. 2026/92)](https://www.legislation.gov.uk/wsi/2026/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/92/regulation/1/2), [2(3)(h)](https://www.legislation.gov.uk/wsi/2026/92/regulation/2/3/h)
+[^c-cd33ecf0df297b3adfbed04bd3008704]: Textual amendment: [Sch. 5 para. 40](https://www.legislation.gov.uk/wsi/2020/1073/schedule/5/paragraph/40) inserted (2.6.2026) by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2026 (W.S.I. 2026/92)](https://www.legislation.gov.uk/wsi/2026/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/92/regulation/1/2), [2(3)(h)](https://www.legislation.gov.uk/wsi/2026/92/regulation/2/3/h)

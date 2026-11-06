@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**170.**[^key-f2e24ba9ab12143975a1ec6c6ffaa50a] The Care Standards Act 2000 is amended as follows.
+**170.**[^c-f2e24ba9ab12143975a1ec6c6ffaa50a] The Care Standards Act 2000 is amended as follows.
 
 ## Annotations
 
-[^key-f2e24ba9ab12143975a1ec6c6ffaa50a]: Commencement: Reg. 170 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-f2e24ba9ab12143975a1ec6c6ffaa50a]: Commencement: Reg. 170 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

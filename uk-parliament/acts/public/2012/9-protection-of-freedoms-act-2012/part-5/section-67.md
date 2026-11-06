@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Alteration of test for barring decisions[^key-5171487480274d594155b69adf7101d9]
+## 67. Alteration of test for barring decisions[^c-5171487480274d594155b69adf7101d9]
 
 *Extent: E+W*
 
@@ -178,4 +178,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5171487480274d594155b69adf7101d9]: Commencement: S. 67 in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/d) (with [arts. 6-16](https://www.legislation.gov.uk/uksi/2012/2234/article/6)) (as amended (31.3.2014) by [S.I. 2014/831](https://www.legislation.gov.uk/uksi/2014/831), art. 2(2))
+[^c-5171487480274d594155b69adf7101d9]: Commencement: S. 67 in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/d) (with [arts. 6-16](https://www.legislation.gov.uk/uksi/2012/2234/article/6)) (as amended (31.3.2014) by [S.I. 2014/831](https://www.legislation.gov.uk/uksi/2014/831), art. 2(2))

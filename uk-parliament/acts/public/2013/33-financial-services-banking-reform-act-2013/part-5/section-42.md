@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Participants in payment systems etc[^key-1ab40e678358fa9a3212c76f59c63113]
+## 42. Participants in payment systems etc[^c-1ab40e678358fa9a3212c76f59c63113]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) the operator of the payment system (see subsection (3));
 - (b) any infrastructure provider (see subsection (4));
-- (c) any payment service provider (see subsections (5) and (5A)[^key-e66758a653407b928c4b84cbf7c2c31e]).
+- (c) any payment service provider (see subsections (5) and (5A)[^c-e66758a653407b928c4b84cbf7c2c31e]).
 
 (But see also subsection (8).)
 
@@ -36,7 +36,7 @@ summary: ''
 
 (5) “**Payment service provider**”, in relation to a payment system, means any person who provides services to persons who are not participants in the system for the purposes of enabling the transfer of funds using the payment system.
 
-(5A)[^key-1a64fdd54b07a57e48a81b46d3051bca] “**Payment service provider**” in relation to a payment system that includes arrangements using digital settlement assets means—
+(5A)[^c-1a64fdd54b07a57e48a81b46d3051bca] “**Payment service provider**” in relation to a payment system that includes arrangements using digital settlement assets means—
 
 - (a) a person responsible for managing the issuance and redemption of digital settlement assets;
 - (b) a person whose business or occupation is to safeguard, or to safeguard and administer digital settlement assets, including their private cryptographic keys (or means of access);
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1ab40e678358fa9a3212c76f59c63113]: Commencement: S. 42 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-1ab40e678358fa9a3212c76f59c63113]: Commencement: S. 42 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-e66758a653407b928c4b84cbf7c2c31e]: Textual amendment: Words in [s. 42(2)(c)](https://www.legislation.gov.uk/ukpga/2013/33/section/42/2/c) substituted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a), [Sch. 6 para. 42(2)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/42/2)
+[^c-e66758a653407b928c4b84cbf7c2c31e]: Textual amendment: Words in [s. 42(2)(c)](https://www.legislation.gov.uk/ukpga/2013/33/section/42/2/c) substituted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a), [Sch. 6 para. 42(2)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/42/2)
 
-[^key-1a64fdd54b07a57e48a81b46d3051bca]: Textual amendment: [S. 42(5A)](https://www.legislation.gov.uk/ukpga/2013/33/section/42/5A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a), [Sch. 6 para. 42(3)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/42/3)
+[^c-1a64fdd54b07a57e48a81b46d3051bca]: Textual amendment: [S. 42(5A)](https://www.legislation.gov.uk/ukpga/2013/33/section/42/5A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a), [Sch. 6 para. 42(3)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/42/3)

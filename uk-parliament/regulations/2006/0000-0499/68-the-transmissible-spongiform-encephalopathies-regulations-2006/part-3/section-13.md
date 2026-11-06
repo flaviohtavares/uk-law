@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Revocations of approvals, etc.[^key-d254f769f4f4efe9fe754cab13e2f21d]
+## 13. Revocations of approvals, etc.[^c-d254f769f4f4efe9fe754cab13e2f21d]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d254f769f4f4efe9fe754cab13e2f21d]: Commencement: Reg. 13 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-d254f769f4f4efe9fe754cab13e2f21d]: Commencement: Reg. 13 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

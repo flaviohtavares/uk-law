@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. International tax enforcement: disclosable arrangements[^key-20d91f9a0448c41018d09ebe7278d32b]
+## 84. International tax enforcement: disclosable arrangements[^c-20d91f9a0448c41018d09ebe7278d32b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20d91f9a0448c41018d09ebe7278d32b]: Textual amendment: [S. 84](https://www.legislation.gov.uk/ukpga/2019/1/section/84) repealed (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 349(11)(c)](https://www.legislation.gov.uk/ukpga/2023/30/section/349/11/c)
+[^c-20d91f9a0448c41018d09ebe7278d32b]: Textual amendment: [S. 84](https://www.legislation.gov.uk/ukpga/2019/1/section/84) repealed (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 349(11)(c)](https://www.legislation.gov.uk/ukpga/2023/30/section/349/11/c)

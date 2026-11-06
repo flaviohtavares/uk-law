@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Qualification and entitlement to be registered as a small ship on Part III of the Register[^key-130e0ab2cc369f6038a0128babc28d71][^key-ad8562749a4e061214fd114d4da3f1c4]
+## 88. Qualification and entitlement to be registered as a small ship on Part III of the Register[^c-130e0ab2cc369f6038a0128babc28d71][^c-ad8562749a4e061214fd114d4da3f1c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ To be eligible to be registered on Part III of the Register a ship must be a sma
 
 ## Annotations
 
-[^key-130e0ab2cc369f6038a0128babc28d71]: Commencement: [Reg. 88](https://www.legislation.gov.uk/uksi/1993/3138/regulation/88) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-130e0ab2cc369f6038a0128babc28d71]: Commencement: [Reg. 88](https://www.legislation.gov.uk/uksi/1993/3138/regulation/88) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-ad8562749a4e061214fd114d4da3f1c4]: Modification: [Reg. 88](https://www.legislation.gov.uk/uksi/1993/3138/regulation/88) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [Sch. 1 paras. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/2)
+[^c-ad8562749a4e061214fd114d4da3f1c4]: Modification: [Reg. 88](https://www.legislation.gov.uk/uksi/1993/3138/regulation/88) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [Sch. 1 paras. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/2)

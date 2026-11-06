@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Devolution: annual report[^key-157a0bdc846472e43ee0ebc2377b21e3]
+## 1. Devolution: annual report[^c-157a0bdc846472e43ee0ebc2377b21e3]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-157a0bdc846472e43ee0ebc2377b21e3]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2016/1/section/1) substituted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 20](https://www.legislation.gov.uk/ukpga/2026/23/section/20), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-157a0bdc846472e43ee0ebc2377b21e3]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2016/1/section/1) substituted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 20](https://www.legislation.gov.uk/ukpga/2026/23/section/20), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

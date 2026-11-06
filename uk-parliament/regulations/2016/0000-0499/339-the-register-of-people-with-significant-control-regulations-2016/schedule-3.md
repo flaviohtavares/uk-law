@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — SPECIFIED PUBLIC AUTHORITES[^key-b8014c3707e8f73dbb31ce6ced5bbb4d]
+## SCHEDULE 3 — SPECIFIED PUBLIC AUTHORITES[^c-b8014c3707e8f73dbb31ce6ced5bbb4d]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 22(1)
 
-- — The Bank of England (including the Bank in its capacity as the Prudential Regulation Authority)[^key-c226a26dd0df6611f557503869332364];
+- — The Bank of England (including the Bank in its capacity as the Prudential Regulation Authority)[^c-c226a26dd0df6611f557503869332364];
 - — the Charity Commission;
 - — the Charity Commission for Northern Ireland;
 - — the Commissioners for Her Majesty's Revenue and Customs;
@@ -34,24 +34,24 @@ Regulation 22(1)
 - — the Food Standards Agency;
 - — the Gas and Electricity Markets Authority;
 - — the Gambling Commission;
-- — the Gangmasters Labour and Abuse Authority[^key-ab52fe0266672565a334173c19a8742c];
+- — the Gangmasters Labour and Abuse Authority[^c-ab52fe0266672565a334173c19a8742c];
 - — the Government Communications Headquarters;
 - — the Health and Safety Executive;
 - — the Health and Safety Executive for Northern Ireland;
-- — the Information Commission;[^key-1d71a9436a4a367483b838994612a0ae]
+- — the Information Commission;[^c-1d71a9436a4a367483b838994612a0ae]
 - — the Marine Management Organisation;
 - — the Minister for the Cabinet Office;
 - — the National Crime Agency;
 - — the Northern Ireland Authority for Utility Regulation;
 - — any Northern Ireland Department;
 - — the Office of Communications;
-- [^key-2e23061b1b00c23d8367c881e0b3dc37]...
+- [^c-2e23061b1b00c23d8367c881e0b3dc37]...
 - — the Office for Nuclear Regulation;
 - — the Office of the Scottish Charity Regulator;
 - — the Official Receiver for Northern Ireland;
 - — the Panel on Takeovers and Mergers;
 - — the Pensions Regulator;
-- [^key-13a515c2b6a8d314e5b45849e00ff29d]...
+- [^c-13a515c2b6a8d314e5b45849e00ff29d]...
 - — the Registry of Credit Unions and Industrial and Provident Societies for Northern Ireland;
 - — the Regulator of Community Interest Companies;
 - — the Scottish Housing Regulator;
@@ -80,17 +80,17 @@ Regulation 22(1)
 
 ## Annotations
 
-[^key-b8014c3707e8f73dbb31ce6ced5bbb4d]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2016/339/schedule/4) applied (E.W.S.) (6.4.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2016/340/regulation/4), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2016/340/schedule/2/paragraph/4) (as amended (26.6.2017) by [S.I. 2017/693](https://www.legislation.gov.uk/uksi/2017/693), [regs. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2), [31](https://www.legislation.gov.uk/uksi/2017/693/regulation/31) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2017/693/schedule/part/2)); and (18.11.2025) by [S.I. 2025/1033](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(3)(d)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/3/d), [11(4)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/11/4) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i))
+[^c-b8014c3707e8f73dbb31ce6ced5bbb4d]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2016/339/schedule/4) applied (E.W.S.) (6.4.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2016/340/regulation/4), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2016/340/schedule/2/paragraph/4) (as amended (26.6.2017) by [S.I. 2017/693](https://www.legislation.gov.uk/uksi/2017/693), [regs. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2), [31](https://www.legislation.gov.uk/uksi/2017/693/regulation/31) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2017/693/schedule/part/2)); and (18.11.2025) by [S.I. 2025/1033](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(3)(d)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/3/d), [11(4)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/11/4) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i))
 
-[^key-c226a26dd0df6611f557503869332364]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2016/339/schedule/3) inserted (1.3.2017) by [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 46(a)](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/46/a)
+[^c-c226a26dd0df6611f557503869332364]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2016/339/schedule/3) inserted (1.3.2017) by [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 46(a)](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/46/a)
 
-[^key-ab52fe0266672565a334173c19a8742c]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2016/339/schedule/3) substituted (12.7.2016) by [The Immigration Act 2016 (Consequential Amendments) Regulations 2016 (S.I. 2016/655)](https://www.legislation.gov.uk/uksi/2016/655), [reg. 1](https://www.legislation.gov.uk/uksi/2016/655/regulation/1), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2016/655/schedule/paragraph/12)
+[^c-ab52fe0266672565a334173c19a8742c]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2016/339/schedule/3) substituted (12.7.2016) by [The Immigration Act 2016 (Consequential Amendments) Regulations 2016 (S.I. 2016/655)](https://www.legislation.gov.uk/uksi/2016/655), [reg. 1](https://www.legislation.gov.uk/uksi/2016/655/regulation/1), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2016/655/schedule/paragraph/12)
 
-[^key-1d71a9436a4a367483b838994612a0ae]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2016/339/schedule/3) inserted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 18(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/18/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-1d71a9436a4a367483b838994612a0ae]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2016/339/schedule/3) inserted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 18(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/18/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-2e23061b1b00c23d8367c881e0b3dc37]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2016/339/schedule/3) omitted (30.9.2026) by virtue of [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 18(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/18/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-2e23061b1b00c23d8367c881e0b3dc37]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2016/339/schedule/3) omitted (30.9.2026) by virtue of [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 18(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/18/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-13a515c2b6a8d314e5b45849e00ff29d]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2016/339/schedule/3) entry omitted (1.3.2017) by virtue of [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 46(b)](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/46/b)
+[^c-13a515c2b6a8d314e5b45849e00ff29d]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2016/339/schedule/3) entry omitted (1.3.2017) by virtue of [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 46(b)](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/46/b)
 
 [^c23150991]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 

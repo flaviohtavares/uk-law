@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 176. Calculation of periods of membership and service[^key-b23db3d74b97cd73728a6f538b81d923]
+## 176. Calculation of periods of membership and service[^c-b23db3d74b97cd73728a6f538b81d923]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ are converted into years by dividing the number of days in excess of the period 
 
 ## Annotations
 
-[^key-b23db3d74b97cd73728a6f538b81d923]: Commencement: [Reg. 176](https://www.legislation.gov.uk/nisr/2014/290/regulation/176) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-b23db3d74b97cd73728a6f538b81d923]: Commencement: [Reg. 176](https://www.legislation.gov.uk/nisr/2014/290/regulation/176) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

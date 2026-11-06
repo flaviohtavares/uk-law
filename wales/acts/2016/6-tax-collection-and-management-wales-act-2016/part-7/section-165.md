@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 165. Relevant amounts payable to WRA[^key-d5891eacb090a2efd96120e301d5b045]
+## 165. Relevant amounts payable to WRA[^c-d5891eacb090a2efd96120e301d5b045]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any relevant amount that becomes payable (whether under an enactment or contract
 
 ## Annotations
 
-[^key-d5891eacb090a2efd96120e301d5b045]: Commencement: S. 165 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(h)](https://www.legislation.gov.uk/wsi/2018/33/article/2/h)
+[^c-d5891eacb090a2efd96120e301d5b045]: Commencement: S. 165 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(h)](https://www.legislation.gov.uk/wsi/2018/33/article/2/h)

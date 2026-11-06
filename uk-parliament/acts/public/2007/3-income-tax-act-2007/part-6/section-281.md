@@ -29,16 +29,16 @@ summary: ''
   - (ii) any part of that period,
 - (d) in a case where the use of any money falls to be ignored for any accounting period in accordance with section 280(2), that—
   - (i) the first accounting period of the company for which the use of that money will not be ignored will be a period in relation to which any of the conditions mentioned in section 274(2) will fail to be met, or
-  - (ii) the company has not met such other conditions as may be prescribed by regulations made by the Commissioners in relation to, or to any part of, an accounting period for which the use of that money falls to be ignored, [^key-abe6328d6c2deeed0c86b90d294191fd]...
+  - (ii) the company has not met such other conditions as may be prescribed by regulations made by the Commissioners in relation to, or to any part of, an accounting period for which the use of that money falls to be ignored, [^c-abe6328d6c2deeed0c86b90d294191fd]...
 - (e) that—
   - (i) the company's most recent complete accounting period or its current one is a period in relation to which there has been or will be a failure of any of the conditions mentioned in section 274(2) to be met, and
   - (ii) the failure was not or will not be one which, at the time of the approval, was allowed for in relation to that period by virtue of section 275(2).
-- (f)[^key-11bc20e7bafb0d64297cca346e0de4f6][^key-3fc6615d37a4c41da93edb31233ff679] that, while it has been a VCT, the company has issued shares and, before the end of the restricted period, the company, other than for the purpose of redeeming or repurchasing any of those shares, has—
-  - (i)[^key-89ae5ee16c502154afc94257760ca874] made a payment to all or any of its shareholders of an amount representing (directly or indirectly) a repayment of its share capital, whether that payment was made out of a reserve arising from a reduction of share capital or otherwise,
-  - (ii)[^key-0029217839a25ccba2a19268096a9ee1] where the shares were issued at a premium, made a payment to all or any of its shareholders of an amount representing (directly or indirectly) that premium or any part of it, whether that payment was made out of a share premium reserve or otherwise, or
+- (f)[^c-11bc20e7bafb0d64297cca346e0de4f6][^c-3fc6615d37a4c41da93edb31233ff679] that, while it has been a VCT, the company has issued shares and, before the end of the restricted period, the company, other than for the purpose of redeeming or repurchasing any of those shares, has—
+  - (i)[^c-89ae5ee16c502154afc94257760ca874] made a payment to all or any of its shareholders of an amount representing (directly or indirectly) a repayment of its share capital, whether that payment was made out of a reserve arising from a reduction of share capital or otherwise,
+  - (ii)[^c-0029217839a25ccba2a19268096a9ee1] where the shares were issued at a premium, made a payment to all or any of its shareholders of an amount representing (directly or indirectly) that premium or any part of it, whether that payment was made out of a share premium reserve or otherwise, or
   - (iii) used an amount which represents (directly or indirectly) the company's share capital or an amount by which that share capital has been diminished, or, where the shares were issued at a premium, that premium (or any part of it), to pay up new shares to be allotted to all or any of its shareholders.
 
-(1A)[^key-25b5c2c7c2da17f4f3e98a290e58b6d4] In subsection (1)(f)—
+(1A)[^c-25b5c2c7c2da17f4f3e98a290e58b6d4] In subsection (1)(f)—
 
 - “payment”—
   - (a) does not include any distribution of assets made in connection with the winding up of the company, but
@@ -65,14 +65,14 @@ But the time so specified must be no earlier than the beginning of the accountin
 
 ## Annotations
 
-[^key-abe6328d6c2deeed0c86b90d294191fd]: Textual amendment: Word in s. 281(1)(d) omitted (with effect in accordance with Sch. 10 para. 3(4) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 10 para. 3(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/10/paragraph/3/2)
+[^c-abe6328d6c2deeed0c86b90d294191fd]: Textual amendment: Word in s. 281(1)(d) omitted (with effect in accordance with Sch. 10 para. 3(4) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 10 para. 3(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/10/paragraph/3/2)
 
-[^key-11bc20e7bafb0d64297cca346e0de4f6]: Textual amendment: S. 281(1)(f) applied (with modifications) by SI 2004/2199 reg. 13(10) as inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Venture Capital Trust (Winding up and Mergers) (Tax) (Amendment) Regulations 2015 (S.I. 2015/361)](https://www.legislation.gov.uk/uksi/2015/361), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/361/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/361/regulation/2/2)
+[^c-11bc20e7bafb0d64297cca346e0de4f6]: Textual amendment: S. 281(1)(f) applied (with modifications) by SI 2004/2199 reg. 13(10) as inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Venture Capital Trust (Winding up and Mergers) (Tax) (Amendment) Regulations 2015 (S.I. 2015/361)](https://www.legislation.gov.uk/uksi/2015/361), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/361/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/361/regulation/2/2)
 
-[^key-3fc6615d37a4c41da93edb31233ff679]: Textual amendment: S. 281(1)(f) inserted (with effect in accordance with Sch. 10 para. 3(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 10 para. 3(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/10/paragraph/3/2)
+[^c-3fc6615d37a4c41da93edb31233ff679]: Textual amendment: S. 281(1)(f) inserted (with effect in accordance with Sch. 10 para. 3(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 10 para. 3(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/10/paragraph/3/2)
 
-[^key-89ae5ee16c502154afc94257760ca874]: Modification: S. 281(f)(i) modified (with effect in accordance with Sch. 10 para. 3(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 10 para. 3(5)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/10/paragraph/3/5)
+[^c-89ae5ee16c502154afc94257760ca874]: Modification: S. 281(f)(i) modified (with effect in accordance with Sch. 10 para. 3(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 10 para. 3(5)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/10/paragraph/3/5)
 
-[^key-0029217839a25ccba2a19268096a9ee1]: Modification: S. 281(f)(iii) modified (with effect in accordance with Sch. 10 para. 3(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 10 para. 3(5)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/10/paragraph/3/5)
+[^c-0029217839a25ccba2a19268096a9ee1]: Modification: S. 281(f)(iii) modified (with effect in accordance with Sch. 10 para. 3(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 10 para. 3(5)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/10/paragraph/3/5)
 
-[^key-25b5c2c7c2da17f4f3e98a290e58b6d4]: Textual amendment: S. 281(1A) inserted (with effect in accordance with Sch. 10 para. 3(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 10 para. 3(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/10/paragraph/3/3)
+[^c-25b5c2c7c2da17f4f3e98a290e58b6d4]: Textual amendment: S. 281(1A) inserted (with effect in accordance with Sch. 10 para. 3(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 10 para. 3(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/10/paragraph/3/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Amendments of health service legislation in connection with consolidation[^key-33999e08b13525c2ad7e034aafefcadc]
+## 36. Amendments of health service legislation in connection with consolidation[^c-33999e08b13525c2ad7e034aafefcadc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33999e08b13525c2ad7e034aafefcadc]: Textual amendment: S. 36 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-33999e08b13525c2ad7e034aafefcadc]: Textual amendment: S. 36 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))

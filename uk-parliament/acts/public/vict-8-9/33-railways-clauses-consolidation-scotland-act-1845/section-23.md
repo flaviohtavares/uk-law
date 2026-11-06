@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Penalty for obstructing supply of gas or water.[^c5588981][^key-25b0bdc5ed23b3458e4571edca5fe195][^c5588971]
+## 23. Penalty for obstructing supply of gas or water.[^c5588981][^c-25b0bdc5ed23b3458e4571edca5fe195][^c5588971]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ If by any such operations as foresaid the company shall interrupt the supply of 
 
 [^c5588981]: Modification: S. 23 incorporated (21.5.1992) by [S.I. 1992/1267](https://www.legislation.gov.uk/uksi/1992/1267),art. 4(1)
 
-[^key-25b0bdc5ed23b3458e4571edca5fe195]: Modification: [S. 23](https://www.legislation.gov.uk/ukpga/Vict/8-9/33/section/23) incorporated (28.12.2012) by [The Banchory and Crathes Light Railway Order 2012 (S.S.I. 2012/345)](https://www.legislation.gov.uk/ssi/2012/345), [arts. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1), [5(1)](https://www.legislation.gov.uk/ssi/2012/345/article/5/1)
+[^c-25b0bdc5ed23b3458e4571edca5fe195]: Modification: [S. 23](https://www.legislation.gov.uk/ukpga/Vict/8-9/33/section/23) incorporated (28.12.2012) by [The Banchory and Crathes Light Railway Order 2012 (S.S.I. 2012/345)](https://www.legislation.gov.uk/ssi/2012/345), [arts. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1), [5(1)](https://www.legislation.gov.uk/ssi/2012/345/article/5/1)
 
 [^c5588971]: Modification: Functions of regional water boards now exercisable by water authorities: [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [s. 148](https://www.legislation.gov.uk/ukpga/1973/65/section/148)
 

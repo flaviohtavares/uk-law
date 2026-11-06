@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 141. Offences by bodies corporate etc.[^key-7844a540ff0022f32e0a9e9a6f0b7eb2]
+## 141. Offences by bodies corporate etc.[^c-7844a540ff0022f32e0a9e9a6f0b7eb2]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ that person, as well as the body corporate, partnership or, as the case may be, 
 
 ## Annotations
 
-[^key-7844a540ff0022f32e0a9e9a6f0b7eb2]: Commencement: S. 141 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
+[^c-7844a540ff0022f32e0a9e9a6f0b7eb2]: Commencement: S. 141 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)

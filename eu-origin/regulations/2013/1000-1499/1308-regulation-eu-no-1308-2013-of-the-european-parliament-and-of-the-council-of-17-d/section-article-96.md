@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 96. Preliminary national procedure[^key-8b9b6ba8c371be12f835e689a7daab68]
+## Article 96. Preliminary national procedure[^c-8b9b6ba8c371be12f835e689a7daab68]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b9b6ba8c371be12f835e689a7daab68]: Textual amendment: [Art. 96](https://www.legislation.gov.uk/eur/2013/1308/article/96) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [35](https://www.legislation.gov.uk/uksi/2019/821/regulation/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8b9b6ba8c371be12f835e689a7daab68]: Textual amendment: [Art. 96](https://www.legislation.gov.uk/eur/2013/1308/article/96) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [35](https://www.legislation.gov.uk/uksi/2019/821/regulation/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

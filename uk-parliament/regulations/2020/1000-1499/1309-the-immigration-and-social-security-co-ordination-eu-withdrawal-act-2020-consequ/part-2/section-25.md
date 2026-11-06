@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Amendment and saving of the Immigration (Control of Entry through Republic of Ireland) Order 1972[^key-8795852ead5d228b2bb17def75e553cc][^M_I_5958afc2-63e4-4041-dd25-a7810c17a081]
+## 25. Amendment and saving of the Immigration (Control of Entry through Republic of Ireland) Order 1972[^c-8795852ead5d228b2bb17def75e553cc][^M_I_5958afc2-63e4-4041-dd25-a7810c17a081]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8795852ead5d228b2bb17def75e553cc]: Commencement: Reg. 25 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-8795852ead5d228b2bb17def75e553cc]: Commencement: Reg. 25 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_5958afc2-63e4-4041-dd25-a7810c17a081]: Commencement: Reg. 25 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

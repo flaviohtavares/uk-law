@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Expenses of members[^key-f550f99dda00f098c145450ee786b060]
+## 82. Expenses of members[^c-f550f99dda00f098c145450ee786b060]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f550f99dda00f098c145450ee786b060]: Commencement: Rule 82 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-f550f99dda00f098c145450ee786b060]: Commencement: Rule 82 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

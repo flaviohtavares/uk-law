@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) This regulation applies for determining the amount of a member's pensionable pay for the purposes of calculating so much of any benefit under this Section of[^key-f9e033ab2b291c7c0083be6fa4eee621] the Scheme as falls to be calculated by reference to capped transferred-in service.
+(1) This regulation applies for determining the amount of a member's pensionable pay for the purposes of calculating so much of any benefit under this Section of[^c-f9e033ab2b291c7c0083be6fa4eee621] the Scheme as falls to be calculated by reference to capped transferred-in service.
 
 (2) If a member's pensionable pay exceeds the permitted maximum, the excess is disregarded for the purposes of any such calculation as is mentioned in paragraph (1).
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9e033ab2b291c7c0083be6fa4eee621]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/17/1) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-f9e033ab2b291c7c0083be6fa4eee621]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/17/1) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)

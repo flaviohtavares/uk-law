@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 151. Transfer statement[^key-227e8eca3d3c5acd87757e4eac8771e7]
+## 151. Transfer statement[^c-227e8eca3d3c5acd87757e4eac8771e7]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-227e8eca3d3c5acd87757e4eac8771e7]: Commencement: Reg. 151 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-227e8eca3d3c5acd87757e4eac8771e7]: Commencement: Reg. 151 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

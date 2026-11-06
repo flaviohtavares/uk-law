@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Public notice by the Authority of receipt and issue of certain documents[^key-483b8d9b7389d6f9c172d3cfaffce556]
+## 78. Public notice by the Authority of receipt and issue of certain documents[^c-483b8d9b7389d6f9c172d3cfaffce556]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-483b8d9b7389d6f9c172d3cfaffce556]: Textual amendment: Reg. 78 omitted (6.4.2005) by virtue of [The Open-Ended Investment Companies (Amendment) Regulations 2005 (S.I. 2005/923)](https://www.legislation.gov.uk/uksi/2005/923), [regs. 1](https://www.legislation.gov.uk/uksi/2005/923/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2005/923/regulation/2/8)
+[^c-483b8d9b7389d6f9c172d3cfaffce556]: Textual amendment: Reg. 78 omitted (6.4.2005) by virtue of [The Open-Ended Investment Companies (Amendment) Regulations 2005 (S.I. 2005/923)](https://www.legislation.gov.uk/uksi/2005/923), [regs. 1](https://www.legislation.gov.uk/uksi/2005/923/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2005/923/regulation/2/8)

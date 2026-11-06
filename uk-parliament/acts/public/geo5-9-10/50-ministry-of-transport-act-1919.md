@@ -61,15 +61,15 @@ An Act to establish a Ministry of Transport and for purposes connected therewith
 
 ## 16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c581116]
 
-## 17. Power to make advances for certain purposes.[^c581117][^key-4316b9dbc4e1fb3f5fb09a2839556f5b]
+## 17. Power to make advances for certain purposes.[^c581117][^c-4316b9dbc4e1fb3f5fb09a2839556f5b]
 
 (1)[^c581118][^c581119] The Minister may, subject to the approval of the Treasury, make advances out of the moneys provided by Parliament to any authority, company or person, either by way of grant or by way of loan, or partly in one way and partly in another, and upon such terms and conditions as he thinks fit for any of the following purposes:—
 
-- (a)[^key-012718cc8ce700ff16c40d509257b677] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-012718cc8ce700ff16c40d509257b677] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c581120]
 - (c) The construction, improvement or maintenance of harbours, docks or piers:
 - (d) The construction, improvement or maintenance of canals or inland navigations:
-- (e) The promotion and improvement of transport services by land in Wales *(Extent: E+W)*[^key-04caceca6dda7b6e1a5e7e3a456eddff] or water:
+- (e) The promotion and improvement of transport services by land in Wales *(Extent: E+W)*[^c-04caceca6dda7b6e1a5e7e3a456eddff] or water:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c581121]
 
@@ -81,7 +81,7 @@ Provided that the Minister shall not make an advance exceeding one million pound
 
 ## 19. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c581124]
 
-## 20. Power to hold inquiries.[^key-b76f637c8560a06d201284386ccc42d1]
+## 20. Power to hold inquiries.[^c-b76f637c8560a06d201284386ccc42d1]
 
 *Extent: E+W+S*
 
@@ -170,17 +170,17 @@ Section 2.
 
 [^c581117]: Modification: S. 17: certain functions made exercisable by the National Assembly for Wales concurrently with the Secretary of State (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-4316b9dbc4e1fb3f5fb09a2839556f5b]: Modification: [S. 17](https://www.legislation.gov.uk/ukpga/Geo5/9-10/50/section/17) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-4316b9dbc4e1fb3f5fb09a2839556f5b]: Modification: [S. 17](https://www.legislation.gov.uk/ukpga/Geo5/9-10/50/section/17) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c581118]: Modification: Functions of Minister under s. 17(1) so far as relating to roads, bridges and ferries exercisable (S.) by Secretary of State: [S.I. 1955/1955](https://www.legislation.gov.uk/uksi/1955/1955) (1955 I, p. 1205), art. 2 Sch. 1 Pt. I; (W.) by Secretary of State: [S.I. 1965/319](https://www.legislation.gov.uk/uksi/1965/319), [art. 3(1)](https://www.legislation.gov.uk/uksi/1965/319/article/3/1), [Sch. 2 Pts. I](https://www.legislation.gov.uk/uksi/1965/319/schedule/2/part/I), [II](https://www.legislation.gov.uk/uksi/1965/319/schedule/2/part/II) para. 1(1)
 
 [^c581119]: Modification: S. 17(1): certain functions of Minister of the Crown to be exercised by Minister of the Crown as well as by Scottish Ministers (1.7.1999) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [ss. 53](https://www.legislation.gov.uk/ukpga/1998/46/section/53), [56(1)](https://www.legislation.gov.uk/ukpga/1998/46/section/56/1) (with [s. 126(3)-(11)](https://www.legislation.gov.uk/ukpga/1998/46/section/126/3)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [arts. 2](https://www.legislation.gov.uk/uksi/1998/3178/article/2), [3](https://www.legislation.gov.uk/uksi/1998/3178/article/3).
 
-[^key-012718cc8ce700ff16c40d509257b677]: Textual amendment: S. 17(1)(a) repealed (8.6.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 6(8)](https://www.legislation.gov.uk/ukpga/2005/14/section/6/8), [60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1); [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-012718cc8ce700ff16c40d509257b677]: Textual amendment: S. 17(1)(a) repealed (8.6.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 6(8)](https://www.legislation.gov.uk/ukpga/2005/14/section/6/8), [60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1); [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
 [^c581120]: Textual amendment: S. 17(1)(b) repealed by (E.W.) [Local Government Act 1966 (c. 42)](https://www.legislation.gov.uk/ukpga/1966/42), [s. 27(3)](https://www.legislation.gov.uk/ukpga/1966/42/section/27/3), [Sch. 6 Pt. II](https://www.legislation.gov.uk/ukpga/1966/42/schedule/6/part/II) and (S.) [Local Government (Scotland) Act 1966 (c. 51)](https://www.legislation.gov.uk/ukpga/1966/51), [Sch. 6](https://www.legislation.gov.uk/ukpga/1966/51/schedule/6)
 
-[^key-04caceca6dda7b6e1a5e7e3a456eddff]: Textual amendment: Words in [s. 17(1)(e)](https://www.legislation.gov.uk/ukpga/Geo5/9-10/50/section/17/1/e) inserted (E.W.) (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 17(7)](https://www.legislation.gov.uk/ukpga/2015/7/section/17/7), [57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-04caceca6dda7b6e1a5e7e3a456eddff]: Textual amendment: Words in [s. 17(1)(e)](https://www.legislation.gov.uk/ukpga/Geo5/9-10/50/section/17/1/e) inserted (E.W.) (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 17(7)](https://www.legislation.gov.uk/ukpga/2015/7/section/17/7), [57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c581121]: Textual amendment: Words repealed by [Fisheries Act 1955 (c. 7)](https://www.legislation.gov.uk/ukpga/1955/7), [Sch.](https://www.legislation.gov.uk/ukpga/1955/7/schedule) and [Statute Law (Repeals) Act 1977 (c. 18)](https://www.legislation.gov.uk/ukpga/1977/18), [Sch. 1 Pt. IX](https://www.legislation.gov.uk/ukpga/1977/18/schedule/1/part/IX)
 
@@ -190,7 +190,7 @@ Section 2.
 
 [^c581124]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/Geo5/9-10/50/section/19) repealed by [Transport Act 1947 (c. 49)](https://www.legislation.gov.uk/ukpga/1947/49), [Sch. 15 Pt. I](https://www.legislation.gov.uk/ukpga/1947/49/schedule/15/part/I)
 
-[^key-b76f637c8560a06d201284386ccc42d1]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/Geo5/9-10/50/section/20) repealed (7.6.2005) by [Inquiries Act 2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/51/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2005/12/schedule/2/paragraph/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/12/schedule/3) (with [ss. 44](https://www.legislation.gov.uk/ukpga/2005/12/section/44), [50](https://www.legislation.gov.uk/ukpga/2005/12/section/50)); [S.I. 2005/1432](https://www.legislation.gov.uk/uksi/2005/1432), [art. 2](https://www.legislation.gov.uk/uksi/2005/1432/article/2)
+[^c-b76f637c8560a06d201284386ccc42d1]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/Geo5/9-10/50/section/20) repealed (7.6.2005) by [Inquiries Act 2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/51/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2005/12/schedule/2/paragraph/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/12/schedule/3) (with [ss. 44](https://www.legislation.gov.uk/ukpga/2005/12/section/44), [50](https://www.legislation.gov.uk/ukpga/2005/12/section/50)); [S.I. 2005/1432](https://www.legislation.gov.uk/uksi/2005/1432), [art. 2](https://www.legislation.gov.uk/uksi/2005/1432/article/2)
 
 [^c581135]: Textual amendment: [S. 21](https://www.legislation.gov.uk/ukpga/Geo5/9-10/50/section/21) repealed by [Statute Law Revision Act 1950 (c. 6)](https://www.legislation.gov.uk/ukpga/1950/6)
 

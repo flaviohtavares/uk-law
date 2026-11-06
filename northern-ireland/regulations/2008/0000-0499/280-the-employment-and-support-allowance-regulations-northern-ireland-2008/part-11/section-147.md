@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 147. Recovery orders[^key-57b99615a4df8393fb22ce2853e1834e]
+## 147. Recovery orders[^c-57b99615a4df8393fb22ce2853e1834e]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-57b99615a4df8393fb22ce2853e1834e]: Commencement: [Reg. 147](https://www.legislation.gov.uk/nisr/2008/280/regulation/147) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-57b99615a4df8393fb22ce2853e1834e]: Commencement: [Reg. 147](https://www.legislation.gov.uk/nisr/2008/280/regulation/147) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
 [^f00141]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)

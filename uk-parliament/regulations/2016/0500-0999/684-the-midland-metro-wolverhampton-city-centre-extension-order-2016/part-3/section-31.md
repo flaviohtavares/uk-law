@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. New rights only to be acquired in certain lands[^key-80fa18e9e4255a4dafe8aa51b8cbe318]
+## 31. New rights only to be acquired in certain lands[^c-80fa18e9e4255a4dafe8aa51b8cbe318]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In the case of land specified in Schedule 4 (acquisition of new rights only) the
 
 ## Annotations
 
-[^key-80fa18e9e4255a4dafe8aa51b8cbe318]: Commencement: Art. 31 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-80fa18e9e4255a4dafe8aa51b8cbe318]: Commencement: Art. 31 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

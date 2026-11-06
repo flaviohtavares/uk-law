@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Interpretation[^key-c05b7906ab2a9f94ef08c94b3a7a841a]
+## 103. Interpretation[^c-c05b7906ab2a9f94ef08c94b3a7a841a]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In this Part, “**appeal body**” means—
 
 ## Annotations
 
-[^key-c05b7906ab2a9f94ef08c94b3a7a841a]: Commencement: Reg. 103 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-c05b7906ab2a9f94ef08c94b3a7a841a]: Commencement: Reg. 103 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

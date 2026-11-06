@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Schemes divided into sections[^c24459351][^key-4a608cec462127885a3bc6a6ac284b35]
+## 56. Schemes divided into sections[^c24459351][^c-4a608cec462127885a3bc6a6ac284b35]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ the qualifying scheme (taken as a whole) is to be treated as if it were not a co
 
 [^c24459351]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2021/1/section/56) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-4a608cec462127885a3bc6a6ac284b35]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2021/1/section/56) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-4a608cec462127885a3bc6a6ac284b35]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2021/1/section/56) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

@@ -25,7 +25,7 @@ summary: ''
 - (a) immediately, if the notice under subsection (2) states that that is the case;
 - (b) in any other case, on such date as may be specified in the notice.
 
-(2) If the FCA[^key-9927ca5530fa26b483ba2aa61ac1396f]—
+(2) If the FCA[^c-9927ca5530fa26b483ba2aa61ac1396f]—
 
 - (a) proposes to exercise the powers in section 89L in relation to a person, or
 - (b) exercises any of those powers in relation to a person with immediate effect,
@@ -48,4 +48,4 @@ it must give that person written notice.
 
 [^c2076389]: Textual amendment: Ss. 89K-89N and cross-heading inserted (8.11.2006) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1268](https://www.legislation.gov.uk/ukpga/2006/46/section/1268), [1300(1)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/1/a)
 
-[^key-9927ca5530fa26b483ba2aa61ac1396f]: Textual amendment: Words in ss. 89A-97 substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss.](https://www.legislation.gov.uk/ukpga/2012/21/section) [16(2)(3)(g)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/3/g), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-9927ca5530fa26b483ba2aa61ac1396f]: Textual amendment: Words in ss. 89A-97 substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss.](https://www.legislation.gov.uk/ukpga/2012/21/section) [16(2)(3)(g)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/3/g), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

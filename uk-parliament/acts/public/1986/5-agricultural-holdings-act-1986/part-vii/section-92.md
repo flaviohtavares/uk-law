@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Advisory committee on valuation of improvements and tenant-right matters.[^key-87b9e749b56e59ba6b6a1142e5584b10]
+## 92. Advisory committee on valuation of improvements and tenant-right matters.[^c-87b9e749b56e59ba6b6a1142e5584b10]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87b9e749b56e59ba6b6a1142e5584b10]: Textual amendment: S. 92 repealed (23.4.2014) by [The Public Bodies (Abolition of the Committee on Agricultural Valuation) Order 2014 (S.I. 2014/1068)](https://www.legislation.gov.uk/uksi/2014/1068), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1068/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2014/1068/article/3/1)
+[^c-87b9e749b56e59ba6b6a1142e5584b10]: Textual amendment: S. 92 repealed (23.4.2014) by [The Public Bodies (Abolition of the Committee on Agricultural Valuation) Order 2014 (S.I. 2014/1068)](https://www.legislation.gov.uk/uksi/2014/1068), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1068/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2014/1068/article/3/1)

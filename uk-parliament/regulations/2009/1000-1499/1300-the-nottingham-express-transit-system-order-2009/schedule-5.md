@@ -22,7 +22,7 @@ summary: ''
 
 Article 12
 
-### PART 1 — HIGHWAYS TO BE TEMPORARILY STOPPED UP[^key-20662de3dcd4d77ce761bd9e1482cd72]
+### PART 1 — HIGHWAYS TO BE TEMPORARILY STOPPED UP[^c-20662de3dcd4d77ce761bd9e1482cd72]
 
 <table>
 <thead>
@@ -129,7 +129,7 @@ Article 12
 </tbody>
 </table>
 
-### PART 2 — FOOTPATHS AND BRIDLEWAYS TO BE TEMPORARILY STOPPED UP[^key-3618725c9044d9671e1afc7b9609cb4a]
+### PART 2 — FOOTPATHS AND BRIDLEWAYS TO BE TEMPORARILY STOPPED UP[^c-3618725c9044d9671e1afc7b9609cb4a]
 
 **Key to Schedule 5 Part 2**
 
@@ -169,6 +169,6 @@ Article 12
 
 ## Annotations
 
-[^key-20662de3dcd4d77ce761bd9e1482cd72]: Commencement: Sch. 5 Pt. 1 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-20662de3dcd4d77ce761bd9e1482cd72]: Commencement: Sch. 5 Pt. 1 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
-[^key-3618725c9044d9671e1afc7b9609cb4a]: Commencement: Sch. 5 Pt. 2 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-3618725c9044d9671e1afc7b9609cb4a]: Commencement: Sch. 5 Pt. 2 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

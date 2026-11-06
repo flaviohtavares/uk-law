@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167ZLA. Entitlement: prospective adopters with whom looked after children are placed[^key-86a30ab9e288f9392a00162b82bcacc1]
+## 167ZLA. Entitlement: prospective adopters with whom looked after children are placed[^c-86a30ab9e288f9392a00162b82bcacc1]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86a30ab9e288f9392a00162b82bcacc1]: Textual amendment: [S. 167ZLA](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZLA) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 9(4)](https://www.legislation.gov.uk/nia/2015/1/section/9/4), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(g)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/g)
+[^c-86a30ab9e288f9392a00162b82bcacc1]: Textual amendment: [S. 167ZLA](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZLA) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 9(4)](https://www.legislation.gov.uk/nia/2015/1/section/9/4), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(g)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/g)

@@ -32,7 +32,7 @@ summary: ''
 - (a) in relation to the initial compliance period, 31st December 2014,
 - (b) in relation to a subsequent compliance period, the 31st December immediately preceding the compliance date for that compliance period.
 
-(4)[^key-611c503c6bd32612aed6adb1813d501d] The “**compliance date**” means—
+(4)[^c-611c503c6bd32612aed6adb1813d501d] The “**compliance date**” means—
 
 - (a) in relation to the compliance period beginning on 6th December 2019—
   - (i) for the purposes of regulations 10 (publication of information), 22(3) (exclusion of assets no longer held on the compliance date), 26(4) (period of energy audit), 27A (ESOS report), 29 (notification of compliance) and paragraphs 7 and 7A of Schedule 2 (groups of undertakings - change of group), 5th June 2024,
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-611c503c6bd32612aed6adb1813d501d]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/4/4) substituted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1182/regulation/4)
+[^c-611c503c6bd32612aed6adb1813d501d]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/4/4) substituted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1182/regulation/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67. Amendment of the Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2007[^key-38542c4c2b3370bd2ba17f890b71770a]
+## 67. Amendment of the Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2007[^c-38542c4c2b3370bd2ba17f890b71770a]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-38542c4c2b3370bd2ba17f890b71770a]: Commencement: Reg. 67 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-38542c4c2b3370bd2ba17f890b71770a]: Commencement: Reg. 67 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00060]: Footnote: [S.R.2007 No.198](https://www.legislation.gov.uk/nisr/2007/198)

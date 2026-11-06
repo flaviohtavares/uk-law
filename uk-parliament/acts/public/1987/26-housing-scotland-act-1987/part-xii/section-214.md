@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 214. Power of local authority to make advances for the purpose of increasing housing accommodation.[^key-fd356ee47fa87d5937bec7c6efc0ff9e]
+## 214. Power of local authority to make advances for the purpose of increasing housing accommodation.[^c-fd356ee47fa87d5937bec7c6efc0ff9e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd356ee47fa87d5937bec7c6efc0ff9e]: Textual amendment: [S. 214](https://www.legislation.gov.uk/ukpga/1987/26/section/214) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-fd356ee47fa87d5937bec7c6efc0ff9e]: Textual amendment: [S. 214](https://www.legislation.gov.uk/ukpga/1987/26/section/214) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

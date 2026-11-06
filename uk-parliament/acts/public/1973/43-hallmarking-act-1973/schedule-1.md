@@ -49,7 +49,7 @@ Section 1.
 
 **5.**[^c13244311] Any battered article fit only to be remanufactured.
 
-**6.** Any article of gold silver, or palladium[^key-0720cd4753ae85df7230661d870152ca] thread.
+**6.** Any article of gold silver, or palladium[^c-0720cd4753ae85df7230661d870152ca] thread.
 
 **7.** Any raw material (including any bar, plate, sheet, foil, rod, wire, strip or tube) or bullion.
 
@@ -57,7 +57,7 @@ Section 1.
 
 **9.** Any article which is wholly or mainly of platinum, and which was manufactured before 1st January 1975.
 
-**9A.**[^key-2d138f548037d4b75f4809dd88799808] Any article which is wholly or partly of palladium, and which was manufactured before 1st January 2010.
+**9A.**[^c-2d138f548037d4b75f4809dd88799808] Any article which is wholly or partly of palladium, and which was manufactured before 1st January 2010.
 
 #### Articles exempt if of minimum fineness
 
@@ -75,7 +75,7 @@ Section 1.
 | gold | 1 gram |
 | silver | 7·78 grams |
 | platinum | 0·5 gram |
-| palladium[^key-39324ac89ee2065f19a0c3a20343e927] | 1 gram. |
+| palladium[^c-39324ac89ee2065f19a0c3a20343e927] | 1 gram. |
 
 (2)[^c19422461] This paragraph does not apply—
 
@@ -91,7 +91,7 @@ Section 1.
 
 (2) This paragraph does not apply to any article—
 
-- (a) which contains gold, platinum or palladium[^key-01a299f86e246af34e1c19261d7688d9], of the minimum fineness,
+- (a) which contains gold, platinum or palladium[^c-01a299f86e246af34e1c19261d7688d9], of the minimum fineness,
 - (b) which contains any precious metal that is not of the minimum fineness, or
 - (c) which contains materials other than precious metal, unless the article satisfies the conditions for hallmarking of Part 3 of Schedule 2 to this Act.
 
@@ -116,7 +116,7 @@ Section 1.
 - (a) which contains any precious metal that is not of the minimum fineness, or
 - (b) which contains materials other than precious metal, unless the article satisfies the conditions for hallmarking of Part 3 of Schedule 2 to this Act.
 
-**12D.**[^key-91c6cc1ec5e2ab38bc0b7c1a4c45043f] (1) Subject to paragraph 14AA, any article—
+**12D.**[^c-91c6cc1ec5e2ab38bc0b7c1a4c45043f] (1) Subject to paragraph 14AA, any article—
 
 - (a) which contains palladium of minimum fineness, and
 - (b) in which the total weight of the metal is less than 1 gram.
@@ -179,7 +179,7 @@ Section 1.
 
 ### Part III — Use of the Words “Carats”, “Sterling” and “Britannia”
 
-**1.** This Part of this Schedule applies for the purposes of section 1 of this Act, this Schedule , the Business Protection from Misleading Marketing Regulations 2008 and[^c19872971] Chapter 1 of Part 4 of the Digital Markets, Competition and Consumers Act 2024[^key-0651b52834e2651641a9adae6402c0fa].
+**1.** This Part of this Schedule applies for the purposes of section 1 of this Act, this Schedule , the Business Protection from Misleading Marketing Regulations 2008 and[^c19872971] Chapter 1 of Part 4 of the Digital Markets, Competition and Consumers Act 2024[^c-0651b52834e2651641a9adae6402c0fa].
 
 **2.** (1) A description indicating that an article, or the metal in an article, is of so many carats is to be presumed to be an indication that the article or metal is of gold, and that its fineness is that specified in the following table for that number of carats.
 
@@ -223,9 +223,9 @@ and so in proportion for any other number of carats.
 
 [^c13244311]: Textual amendment: Sch. 1 Pt. II para. 5 substituted by [S.I. 1975/1883](https://www.legislation.gov.uk/uksi/1975/1883), [Sch. para. 1](https://www.legislation.gov.uk/uksi/1975/1883/schedule/paragraph/1)
 
-[^key-0720cd4753ae85df7230661d870152ca]: Textual amendment: Words in Sch. 1 para. 6 substituted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 6(3)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/6/3)
+[^c-0720cd4753ae85df7230661d870152ca]: Textual amendment: Words in Sch. 1 para. 6 substituted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 6(3)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/6/3)
 
-[^key-2d138f548037d4b75f4809dd88799808]: Textual amendment: [Sch. 1 para. 9A](https://www.legislation.gov.uk/ukpga/1973/43/schedule/1/paragraph/9A) inserted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 6(4)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/6/4)
+[^c-2d138f548037d4b75f4809dd88799808]: Textual amendment: [Sch. 1 para. 9A](https://www.legislation.gov.uk/ukpga/1973/43/schedule/1/paragraph/9A) inserted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 6(4)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/6/4)
 
 [^c13244321]: Textual amendment: Para. 10 substituted by [S.I. 1975/1883](https://www.legislation.gov.uk/uksi/1975/1883), [Sch. para. 2](https://www.legislation.gov.uk/uksi/1975/1883/schedule/paragraph/2)
 
@@ -237,7 +237,7 @@ and so in proportion for any other number of carats.
 
 [^c4449361]: Textual amendment: Words inserted by [S.I. 1986/1758](https://www.legislation.gov.uk/uksi/1986/1758), [art. 2](https://www.legislation.gov.uk/uksi/1986/1758/article/2)(*b*)
 
-[^key-39324ac89ee2065f19a0c3a20343e927]: Textual amendment: Words in Sch. 1 Pt. 2 para. 12(1) inserted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 6(5)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/6/5)
+[^c-39324ac89ee2065f19a0c3a20343e927]: Textual amendment: Words in Sch. 1 Pt. 2 para. 12(1) inserted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 6(5)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/6/5)
 
 [^c19422461]: Textual amendment: Sch. 1 Pt. 2 para. 12(2) substituted (1.10.2007) by [The Hallmarking Act 1973 (Exemption) (Amendment No. 2) Order 2007 (S.I. 2007/2493)](https://www.legislation.gov.uk/uksi/2007/2493), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/2493/article/2/2)
 
@@ -245,9 +245,9 @@ and so in proportion for any other number of carats.
 
 [^c19422521]: Textual amendment: Sch. 1 Pt. 2 paras. 12A-12C inserted (1.10.2007) by [The Hallmarking Act 1973 (Exemption) (Amendment No. 2) Order 2007 (S.I. 2007/2493)](https://www.legislation.gov.uk/uksi/2007/2493), [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/2493/article/2/4)
 
-[^key-01a299f86e246af34e1c19261d7688d9]: Textual amendment: Words in Sch. 1 Pt. 2 para. 12A(2)(a) substituted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 6(6)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/6/6)
+[^c-01a299f86e246af34e1c19261d7688d9]: Textual amendment: Words in Sch. 1 Pt. 2 para. 12A(2)(a) substituted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 6(6)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/6/6)
 
-[^key-91c6cc1ec5e2ab38bc0b7c1a4c45043f]: Textual amendment: [Sch. 1 para. 12D](https://www.legislation.gov.uk/ukpga/1973/43/schedule/1/paragraph/12D) inserted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 6(7)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/6/7)
+[^c-91c6cc1ec5e2ab38bc0b7c1a4c45043f]: Textual amendment: [Sch. 1 para. 12D](https://www.legislation.gov.uk/ukpga/1973/43/schedule/1/paragraph/12D) inserted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 6(7)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/6/7)
 
 [^c13252001]: Textual amendment: Para. 13 substituted by [S.I. 1975/1883](https://www.legislation.gov.uk/uksi/1975/1883), [Sch. para. 4](https://www.legislation.gov.uk/uksi/1975/1883/schedule/paragraph/4)
 
@@ -273,4 +273,4 @@ and so in proportion for any other number of carats.
 
 [^c19872971]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/1973/43/schedule/1/part/3) substituted (26.5.2008) by The Consumer Protection from [Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 30(1)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/30/1), [Sch. 2 para. 16(4)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/16/4) (with [reg. 28(2)(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2/3))
 
-[^key-0651b52834e2651641a9adae6402c0fa]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 1](https://www.legislation.gov.uk/ukpga/1973/43/schedule/1/part/III/paragraph/1) substituted (6.4.2025) by [The Digital Markets, Competition and Consumers Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/381)](https://www.legislation.gov.uk/uksi/2025/381), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/381/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2025/381/schedule/paragraph/4)
+[^c-0651b52834e2651641a9adae6402c0fa]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 1](https://www.legislation.gov.uk/ukpga/1973/43/schedule/1/part/III/paragraph/1) substituted (6.4.2025) by [The Digital Markets, Competition and Consumers Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/381)](https://www.legislation.gov.uk/uksi/2025/381), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/381/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2025/381/schedule/paragraph/4)

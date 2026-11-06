@@ -20,17 +20,17 @@ summary: ''
 
 *Extent: N.I.*
 
-**1.**[^key-3450ecfef6b74dc365cd81d995c70781] The following Scheme shall have effect.
+**1.**[^c-3450ecfef6b74dc365cd81d995c70781] The following Scheme shall have effect.
 
 ### PART A — GENERAL PROVISIONS AND RETIREMENT
 
-#### 1. Interpretation[^key-0b08174f24558cf170fa5e6c54f950a0]
+#### 1. Interpretation[^c-0b08174f24558cf170fa5e6c54f950a0]
 
 (1) Part I of Schedule 1 contains a glossary of expressions; in this Scheme any expression for which there is an entry in the first column of that Schedule has the meaning given against it in the second column or is to be construed in accordance with directions given against it in that column.
 
 (2) Part II of Schedule 1 has effect for construing references in this Scheme to certain expressions related to the National Insurance and Social Security Acts and Orders.
 
-#### 2. Exclusive application to regular firefighters[^key-8b64776ff8e245855901b7816723063a]
+#### 2. Exclusive application to regular firefighters[^c-8b64776ff8e245855901b7816723063a]
 
 (1) Subject to paragraphs (3) to (5), this Scheme applies in relation to regular firefighters and their spouses or civil partners and dependants to the exclusion of pension provision under any enactment other than Article 10 of the Fire Services (Northern Ireland) Order 1984 and the Pension Schemes (Northern Ireland) Act 1993[^f00004].
 
@@ -62,7 +62,7 @@ on the day on which a scheme, other than the Compensation Scheme, is brought int
 
 this Scheme shall continue to apply solely in respect of those accrued pension rights.
 
-#### 3. Application to temporary employment connected with fire and rescue services[^key-e890b96a573e1bb70a94066cba092867]
+#### 3. Application to temporary employment connected with fire and rescue services[^c-e890b96a573e1bb70a94066cba092867]
 
 (1) This article applies in the case of a person who has ceased to perform duties as a regular firefighter and has entered relevant employment.
 
@@ -81,7 +81,7 @@ this Scheme shall continue to apply solely in respect of those accrued pension r
 - (d) articles 10, 11 and 90 were omitted; and
 - (e) any reference to the Board were a reference to the Secretary of State.
 
-#### 4. Application to permanent employment as instructor[^key-c1df3d0a7e9086775121df3c8c906f45]
+#### 4. Application to permanent employment as instructor[^c-c1df3d0a7e9086775121df3c8c906f45]
 
 (1) This article applies in the case of a person who has ceased to perform duties as a regular firefighter and has entered relevant employment.
 
@@ -94,7 +94,7 @@ this Scheme shall continue to apply solely in respect of those accrued pension r
 - (c) any reference to the Board were a reference to the Secretary of State; and
 - (d) articles 10, 11 and 90 were omitted.
 
-#### 5. Reckoning of service for purposes of awards[^key-cb5a61aaa6abfa9059308568242921ee]
+#### 5. Reckoning of service for purposes of awards[^c-cb5a61aaa6abfa9059308568242921ee]
 
 (1) For the purpose of calculating an award payable to or in respect of a member of the fire and rescue service by reference to any period in years (including a period of pensionable or other service) the period shall be reckoned as (A + (B/365)) years; where A is the number of completed years in the period, and B is the number of completed days in any remaining part of a year; and accordingly a part of a year which includes 29th February in a leap year and comprises 365 days, shall be treated as a whole year.
 
@@ -109,7 +109,7 @@ the credited period counts as pensionable service reckonable by reason of servic
 
 (4) Subject to article 24 and Part IV of Schedule 2, any period of service as a part-time member of the fire brigade shall be treated as service as a whole-time member of the fire brigade when calculating a person’s pensionable service.
 
-#### 6. Aggregate pension contributions for purposes of awards[^key-b1ed947b67afe6c737d2b079d8faba3f]
+#### 6. Aggregate pension contributions for purposes of awards[^c-b1ed947b67afe6c737d2b079d8faba3f]
 
 (1) A regular firefighter’s aggregate pension contributions comprise—
 
@@ -129,7 +129,7 @@ the credited period counts as pensionable service reckonable by reason of servic
 
 (4) The notional award mentioned in paragraph (1)(e) is the award by way of return of contributions or analogous payment that would have been made to him if, at the end of the previous employment period, he had voluntarily retired in circumstances entitling him to such an award under the applicable superannuation arrangements.
 
-#### 7. Disablement[^key-73ceb2787242ad99b43fbf669c8cca3f]
+#### 7. Disablement[^c-73ceb2787242ad99b43fbf669c8cca3f]
 
 (1) References in this Scheme to a person’s being permanently disabled are references to his being disabled at the time when the question arises for decision and to his disablement being at that time likely to be permanent.
 
@@ -139,7 +139,7 @@ the credited period counts as pensionable service reckonable by reason of servic
 
 (4) Where a person has retired before becoming disabled and the date on which he becomes disabled cannot be ascertained, it shall be taken to be the date on which the claim that he is disabled is first made known to the Board.
 
-#### 8. Relevant service in the armed forces[^key-d46a822e4f6c1babe9431db5491eecd1]
+#### 8. Relevant service in the armed forces[^c-d46a822e4f6c1babe9431db5491eecd1]
 
 References in this Scheme to relevant service in the armed forces are references to—
 
@@ -147,11 +147,11 @@ References in this Scheme to relevant service in the armed forces are references
 - (b) part-time service under the National Service Act 1948[^f00008], otherwise than pursuant to a training notice under that Act; and
 - (c) service for the purposes of training only performed by a person mentioned in paragraph 7 of Schedule 1 to the 1951 Act for a period shorter than 7 days.
 
-#### 9. Normal pension age[^key-d08eff73933e3519b52da86c40ca3694]
+#### 9. Normal pension age[^c-d08eff73933e3519b52da86c40ca3694]
 
 The normal pension age of employees of the Board appointed on terms under which they are or may be required to engage in fire-fighting is 55.
 
-#### 10. Compulsory retirement on grounds of efficiency[^key-a63ccb131c12a9fb1226ee22545408b6]
+#### 10. Compulsory retirement on grounds of efficiency[^c-a63ccb131c12a9fb1226ee22545408b6]
 
 A regular firefighter who—
 
@@ -160,19 +160,19 @@ A regular firefighter who—
 
 may be required by the Board to retire on the grounds that his retention in the fire and rescue service would not be in the general interests of its efficiency.
 
-#### 11. Compulsory retirement on grounds of disablement[^key-7d1d32baed982d6a6da68884a06f14c2]
+#### 11. Compulsory retirement on grounds of disablement[^c-7d1d32baed982d6a6da68884a06f14c2]
 
 (1) Subject to paragraph (2), a regular firefighter may be required by the Board to retire on the date on which the Board determines that he ought to retire on the ground that he is permanently disabled.
 
 (2) A retirement under this article is void if, on an appeal against the medical opinion on which the Board acted in determining that he ought to retire, the independent medical referee appointed under Schedule 8 decides that the appellant is not permanently disabled.
 
-#### 12. Effective date of retirement[^key-ea52c399c805438e5575da0917586463]
+#### 12. Effective date of retirement[^c-ea52c399c805438e5575da0917586463]
 
 For the purposes of this Scheme a member of the fire and rescue service shall be taken to retire immediately after his last day of service.
 
 ### PART B — PERSONAL AWARDS
 
-#### 13. Ordinary pension[^key-de893603d03fd2b113e31b48dd71b2d9]
+#### 13. Ordinary pension[^c-de893603d03fd2b113e31b48dd71b2d9]
 
 (1) Subject to paragraph (2), this article applies to a regular firefighter who retires if he then—
 
@@ -187,7 +187,7 @@ For the purposes of this Scheme a member of the fire and rescue service shall be
 
 (3) A person to whom this article applies becomes entitled on retiring to an ordinary pension calculated in accordance with Part I of Schedule 2.
 
-#### 14. Short service award[^key-4a31c7b1ab6e3fc96bb4656b2f3bc923]
+#### 14. Short service award[^c-4a31c7b1ab6e3fc96bb4656b2f3bc923]
 
 (1) This article applies, unless immediately before his retirement an election under article 59 not to pay pension contributions had effect, to a regular firefighter who—
 
@@ -199,7 +199,7 @@ For the purposes of this Scheme a member of the fire and rescue service shall be
 - (a) if he is entitled to reckon at least 2 years’ pensionable service or if a transfer payment in respect of his rights under a personal pension scheme has been made to the scheme, to a short service pension calculated in accordance with Part II of Schedule 2; and
 - (b) in any other case, to a short service lump sum of an amount equal to the aggregate of his pension contributions.
 
-#### 15. Ill-health award[^key-1b457ff970b0b6b1ea469fd4943e8fff]
+#### 15. Ill-health award[^c-1b457ff970b0b6b1ea469fd4943e8fff]
 
 (1) This article applies to a regular firefighter who is required to retire under article 11 (compulsory retirement on grounds of disablement) unless, immediately before his retirement, an election under article 59 not to pay pension contributions had effect.
 
@@ -226,7 +226,7 @@ becomes entitled on retiring—
 
 (7) In paragraphs (3) and (4) “regular employment” means employment for at least 30 hours a week on average over a period of not less than 12 consecutive months beginning with the date on which the issue of his capacity for employment arises.
 
-#### 16. Deferred pension[^key-989c2c7ccbad8b44df8987d94d2383ac]
+#### 16. Deferred pension[^c-989c2c7ccbad8b44df8987d94d2383ac]
 
 (1) This article applies to a regular firefighter—
 
@@ -260,7 +260,7 @@ he becomes entitled to a deferred pension calculated in accordance with Part V o
 
 (5) A person who under article 49(7)(b) relinquishes his entitlement to a deferred pension ceases to be entitled to it.
 
-#### 17. Repayment of aggregate pension contributions[^key-a83f6b837b8412514da218743dd8cb9a]
+#### 17. Repayment of aggregate pension contributions[^c-a83f6b837b8412514da218743dd8cb9a]
 
 (1) This article applies to a regular firefighter, with less than 2 years’ pensionable service, who ceases to be a regular member of the fire and rescue service or elects under article 59 not to pay pension contributions, in circumstances in which—
 
@@ -271,7 +271,7 @@ he becomes entitled to a deferred pension calculated in accordance with Part V o
 
 (3) Where aggregate pension contributions are repaid under paragraph (2), the Board shall transfer from its Firefighters’ Pension Fund to any other fund maintained by it an amount equal to the aggregate of the amounts that it has paid by way of employer’s contributions under article 57(4) in respect of the firefighter concerned.
 
-#### 18. Commutation — general provision[^key-f6941dd147761fc35a1526df8823462c]
+#### 18. Commutation — general provision[^c-f6941dd147761fc35a1526df8823462c]
 
 (1) This article applies to an ordinary, short service, ill-health or deferred pension under this Part; in relation to a deferred pension, it has effect as if references to retirement and to the date of retirement were references respectively to the pension becoming payable and to the date of its coming into payment.
 
@@ -313,7 +313,7 @@ the other pension shall be reduced by the amount by which the ill-health pension
 
 (13) For the purposes of this article no account shall be taken of any increase under article 69(3) or rule 2 or 3 or Part 7 of the Compensation Scheme in an award to a serviceman.
 
-#### 19. Commutation - small pensions[^key-c83294955fc3c5f39be41f33795ad173]
+#### 19. Commutation - small pensions[^c-c83294955fc3c5f39be41f33795ad173]
 
 (1) Where the amount of any pension payable under this Part to a person who has attained state pensionable age, together with any pension to which he is entitled under article 74 and any increase under the Pensions (Increase) Act (Northern Ireland) 1971[^f00009], does not exceed the commutation limit specified for the purposes of Part I of Schedule 29 to the Finance Act 2004 (lump sum rule)[^f00010].
 
@@ -321,7 +321,7 @@ the other pension shall be reduced by the amount by which the ill-health pension
 
 (3) Where a person is entitled to more than one pension, the pensions shall be treated as one for the purposes of this article.
 
-#### 20. Allocation[^key-993dad23a2ab4c069392d345fc2ae962]
+#### 20. Allocation[^c-993dad23a2ab4c069392d345fc2ae962]
 
 (1) This article applies to an ordinary, short service, ill-health or deferred pension under this Part.
 
@@ -358,7 +358,7 @@ and must have satisfied the Board of his good health.
 
 (12) For the purposes of this article no account shall be taken of any increase under article 69(3) or rule 2 or 3 of Part 7 of the Compensation Scheme.
 
-#### 21. Limitation of commuted or allocated portion of pension[^key-c087afcd0771b890495d4418ad307df3]
+#### 21. Limitation of commuted or allocated portion of pension[^c-c087afcd0771b890495d4418ad307df3]
 
 A person may not commute under article 18 or allocate under article 20—
 
@@ -366,24 +366,24 @@ A person may not commute under article 18 or allocate under article 20—
 - (b) in the case of a deferred pension in relation to which, when it becomes payable, he has a guaranteed minimum, so much of the pension that its weekly amount, including any increase under the Pensions (Increase) Act (Northern Ireland) 1971, is then less than the guaranteed minimum.
 - (c) For the purposes of this article no account shall be taken of any increase under article 69(3) or rule 2 or 3 of Part 7 of the Compensation Scheme in an award to a serviceman.
 
-#### 22. Deduction of tax and lifetime allowance charge[^key-ed98c82f6b6ff3428c11e8f6183e9092]
+#### 22. Deduction of tax and lifetime allowance charge[^c-ed98c82f6b6ff3428c11e8f6183e9092]
 
 The Board shall deduct from any payment which is chargeable to tax, or subject to a lifetime allowance charge within the meaning of the Finance Act 2004[^f00011], the amount of tax charged or the amount of charge to be recovered.
 
-#### 23. Pension debit members[^key-cda8b047aff6452be78475311723f6f1]
+#### 23. Pension debit members[^c-cda8b047aff6452be78475311723f6f1]
 
 Where a pension debit member is entitled to an award under article 13, 14, 15 or 16—
 
 - (a) the award is calculated by reference to the member’s rights under this Scheme as reduced by virtue of Article 28 of the 1999 Order and in accordance with such tables and other guidance as are provided for the purpose by the Government Actuary, and
 - (b) articles 18 to 21 have effect accordingly.
 
-#### 24. Part-time members[^key-4c85b72f179d98ad96fa1852e187976c]
+#### 24. Part-time members[^c-4c85b72f179d98ad96fa1852e187976c]
 
 Where a person is entitled to an award under this Part and some or all of his service, by virtue of which his pensionable service is reckonable, was part-time service, his award shall be calculated in accordance with Part IV of Schedule 2.
 
 ### PART C — AWARDS ON DEATH — SPOUSES OR CIVIL PARTNERS
 
-#### 25. Spouse’s or civil partner’s ordinary pension[^key-91a18a301665cc841f4c58bcb47a4ada]
+#### 25. Spouse’s or civil partner’s ordinary pension[^c-91a18a301665cc841f4c58bcb47a4ada]
 
 (1) This article applies where a person entitled to reckon at least 2 years’ pensionable service dies, leaving a surviving spouse or civil partner—
 
@@ -396,7 +396,7 @@ Where a person is entitled to an award under this Part and some or all of his se
 
 (3) The surviving civil partner is entitled to an ordinary pension of such amount as bears to the ordinary pension to which he would have been entitled had he been the deceased’s surviving spouse (calculated in accordance with Part I of Schedule 3), the same proportion that the deceased’s service after 5th April 1988 bears to the whole of his pensionable service.
 
-#### 26. Spouse’s or civil partner’s accrued pension[^key-c0a74a9759b64717b61a9d0329161907]
+#### 26. Spouse’s or civil partner’s accrued pension[^c-c0a74a9759b64717b61a9d0329161907]
 
 (1) This article applies, whether or not the pension has come into payment, where a person entitled to a deferred pension dies leaving a surviving spouse or civil partner.
 
@@ -404,7 +404,7 @@ Where a person is entitled to an award under this Part and some or all of his se
 
 (3) Where this article applies the surviving spouse or civil partner is entitled to an accrued pension calculated in accordance with Part II of Schedule 3.
 
-#### 27. Limitation award to surviving spouse or civil partner with reference to date of marriage or civil partnership[^key-6fd9b80356c04b54e963a9feb426520a]
+#### 27. Limitation award to surviving spouse or civil partner with reference to date of marriage or civil partnership[^c-6fd9b80356c04b54e963a9feb426520a]
 
 (1) A surviving spouse or civil partner is not entitled to an ordinary pension under article 25 or an accrued pension under article 26 unless that person was married to, or had formed a civil partnership with, the deceased during a period before the deceased last ceased to be a regular firefighter.
 
@@ -412,7 +412,7 @@ Where a person is entitled to an award under this Part and some or all of his se
 
 (3) A surviving civil partner who, but for paragraph (1), would be entitled to a pension mentioned in that paragraph, is instead entitled to a pension of such amount as bears to the pension to which, under paragraph (2), he would have been entitled had he been the deceased’s surviving spouse, the same proportion that the deceased’s service after 5th April 1988 bears to the whole of his pensionable service.
 
-#### 28. Surviving spouse’s or civil partner’s requisite benefit and temporary pension[^key-7ba5fbc4da54d8ed2d57ad45ae209c18]
+#### 28. Surviving spouse’s or civil partner’s requisite benefit and temporary pension[^c-7ba5fbc4da54d8ed2d57ad45ae209c18]
 
 (1) This article applies, with effect from 1st March 1992, where—
 
@@ -441,7 +441,7 @@ Where a person is entitled to an award under this Part and some or all of his se
 
 the surviving spouse or civil partner is entitled to a gratuity equal to the difference between those amounts.
 
-#### 29. Surviving spouse’s or civil partner’s award where no other award payable[^key-c85c956a0413825c57e78db6300ea566]
+#### 29. Surviving spouse’s or civil partner’s award where no other award payable[^c-c85c956a0413825c57e78db6300ea566]
 
 (1) This article applies where—
 
@@ -454,7 +454,7 @@ the surviving spouse or civil partner is entitled to a gratuity equal to the dif
 - (a) in respect of the first 13 weeks following the death, to a temporary pension calculated as if article 28(2)(a) and (3) had applied; and
 - (b) to a lump sum of an amount equal to the deceased’s average pensionable pay.
 
-#### 30. Limitation where spouses or civil partners living apart[^key-d7e0a5ece22b7386ff670b0125929e2e]
+#### 30. Limitation where spouses or civil partners living apart[^c-d7e0a5ece22b7386ff670b0125929e2e]
 
 (1) A surviving spouse or civil partner who at the time of the death was living apart from the deceased is not entitled to any award under articles 25 and 26 to 29.
 
@@ -483,19 +483,19 @@ the amount of which exceeds that of the requisite benefit pension that would oth
 
 (7) Where but for paragraph (1) the surviving spouse or civil partner would be entitled to a gratuity, the Board may decide that the gratuity be paid in whole or part.
 
-#### 31. Effect of remarriage or subsequent civil partnership[^key-5a8846b019347be9a079ecb0aab8f0de]
+#### 31. Effect of remarriage or subsequent civil partnership[^c-5a8846b019347be9a079ecb0aab8f0de]
 
 (1) A person entitled to a pension under this Part who remarries or forms a subsequent civil partnership is not entitled to receive any payment on account of the pension in respect of any subsequent period; but if the marriage or civil partnership is dissolved or the other party dies the Board may pay the whole or any part of the pension for such period after the dissolution or death.
 
 (2) Where a person entitled to a gratuity under this Part remarries or forms a subsequent civil partnership any part of the gratuity that has not already been paid (“the outstanding amount”) ceases to be payable; but if the marriage or civil partnership is dissolved or the other party to it dies the Board may pay the person the whole or any part of the outstanding amount.
 
-#### 32. Pension debit members[^key-c7be66e40457fea30ca411683255d96e]
+#### 32. Pension debit members[^c-c7be66e40457fea30ca411683255d96e]
 
 (1) Where a pension debit member dies leaving a surviving spouse or civil partner, any award under article 25, 26, 27, 28, 29 or 30, and the pension under any of those articles by reference to which any payment under article 31 is made, is calculated by reference to the member’s rights under this Scheme as reduced by virtue of Article 28 of the 1999 Order and in accordance with such tables and other guidance as are provided for the purpose by the Government Actuary.
 
 ### PART D — AWARDS ON DEATH — CHILDREN
 
-#### 33. Child’s ordinary allowance[^key-847f86e83626e8001e95ce45198c9f98]
+#### 33. Child’s ordinary allowance[^c-847f86e83626e8001e95ce45198c9f98]
 
 (1) This article applies where a person dies, leaving a child—
 
@@ -506,13 +506,13 @@ the amount of which exceeds that of the requisite benefit pension that would oth
 
 (2) Subject to article 35, where this article applies the child is entitled to an ordinary allowance calculated, subject to Part II of Schedule 9 (children’s awards), in accordance with Part I of Schedule 4.
 
-#### 34. Child’s accrued allowance[^key-6c95640e8b942cccfdb9500b7c0f66a6]
+#### 34. Child’s accrued allowance[^c-6c95640e8b942cccfdb9500b7c0f66a6]
 
 (1) This article applies, whether or not the pension has come into payment, where a person entitled to a deferred pension dies leaving a child.
 
 (2) Subject to article 35 where this article applies the child is entitled to an accrued allowance calculated in accordance with Part II of Schedule 4.
 
-#### 35. Child’s allowance or special gratuity — limitations[^key-98b3c36bb5f21c400a4f9110d1b48178]
+#### 35. Child’s allowance or special gratuity — limitations[^c-98b3c36bb5f21c400a4f9110d1b48178]
 
 (1) No allowance or gratuity under this Part shall be paid—
 
@@ -549,13 +549,13 @@ unless the employment constitutes full-time training of at least one year’s du
 
 (6) Part III of Schedule 4 has effect for the reduction, in certain circumstances, of allowances under this Part.
 
-#### 36. Pension debit members[^key-fc686175f777f678c0d28404e29337a7]
+#### 36. Pension debit members[^c-fc686175f777f678c0d28404e29337a7]
 
 (1) Where a pension debit member dies leaving a child, the reduction in his rights under this Scheme by virtue of Article 28 of the 1999 Order is disregarded for the purposes of calculating any award payable under this Part.
 
 ### PART E — AWARDS ON DEATH — ADDITIONAL PROVISIONS
 
-#### 37. Lump sum death grant[^key-60f2a1b0cc1d7cccde47c5a61a8be2a1]
+#### 37. Lump sum death grant[^c-60f2a1b0cc1d7cccde47c5a61a8be2a1]
 
 (1) On the death of a person while serving as a regular firefighter a lump sum death grant becomes payable unless, at the time of his death—
 
@@ -576,7 +576,7 @@ unless the employment constitutes full-time training of at least one year’s du
 
 (5) A surviving spouse or civil partner who qualifies for the grant is one who was not living apart from the deceased at the time of the death.
 
-#### 38. Dependent relative’s gratuity[^key-54be081a2b2c4d82d193b528613df674]
+#### 38. Dependent relative’s gratuity[^c-54be081a2b2c4d82d193b528613df674]
 
 (1) This article applies where a person dies—
 
@@ -592,7 +592,7 @@ and there is a dependent relative.
 
 (3) If the Board thinks fit, it may grant a gratuity to a dependent relative, but the aggregate of all gratuities granted under this article in respect of the death shall not exceed the amount of the deceased’s aggregate pension contributions.
 
-#### 39. Payment of balance of contributions to estate[^key-16ec2ce86febdbf1c505a93f51d55e52]
+#### 39. Payment of balance of contributions to estate[^c-16ec2ce86febdbf1c505a93f51d55e52]
 
 (1) This article applies where a person dies—
 
@@ -617,7 +617,7 @@ and the aggregate of the relevant amounts is less than the amount of his aggrega
 
 (4) The Board shall pay the difference between the aggregate of the relevant amounts and the deceased’s aggregate pension contributions to his personal representatives.
 
-#### 40. Lump sum in lieu of surviving spouse’s or civil partner’s pension[^key-579d261def59333f099a2f3bd7a17056]
+#### 40. Lump sum in lieu of surviving spouse’s or civil partner’s pension[^c-579d261def59333f099a2f3bd7a17056]
 
 (1) Subject to paragraph (2) and article 42, where the amount of any pension payable under Part C, together with any increase under the Pensions (Increase) Act (Northern Ireland) 1971, does not exceed the commutation limit specified for the purposes of Part I of Schedule 29 to the Finance Act 2004 (lump sum rule) in paragraph 7(4) of that Part (trivial commutation lump sum), the Board may commute the whole or any part of the pension for a lump sum.
 
@@ -636,7 +636,7 @@ the Board may commute the whole or any part of the pension for a lump sum.
 
 (5) A lump sum under this article shall be calculated in accordance with such guidance as is provided for the purpose by the Government Actuary.
 
-#### 41. Lump sum in lieu of child’s allowance[^key-bf63cf981067130ccd3b0813dd6ec0a2]
+#### 41. Lump sum in lieu of child’s allowance[^c-bf63cf981067130ccd3b0813dd6ec0a2]
 
 (1) Where the amount of a child’s allowance under Part D, together with any increase under the Pensions (Increase) Act 1971, does not exceed the commutation limit for the purposes of Part 2 of Schedule 29 to the Finance Act 2004 (trivial commutation lump sum death benefit)[^f00013], the Board may, subject to the provisions of this article and article 42, commute the whole or any part of the allowance for a lump sum.
 
@@ -650,7 +650,7 @@ the Board may commute the whole or any part of the pension for a lump sum.
 
 (4) A lump sum under this article shall be calculated in accordance with Schedule 5.
 
-#### 42. Limitation on discretion to commute pension or allowance for gratuity[^key-a2d462bfb50aa6c04e056ed8edd5cc07]
+#### 42. Limitation on discretion to commute pension or allowance for gratuity[^c-a2d462bfb50aa6c04e056ed8edd5cc07]
 
 (1) This article applies where a person dies while in receipt of an ordinary, short service, ill-health or deferred pension (“the principal pension”).
 
@@ -669,7 +669,7 @@ the Board may commute the whole or any part of the pension for a lump sum.
 
 (5) For the purposes of this article no account shall be taken of an increase under article 69(3) or rule 2 or 3 of Part 7 of the Compensation Scheme in an award to a serviceman.
 
-#### 43. Increase of pensions and allowances during first 13 weeks[^key-76897ecfe073e13fe23afce9528ccc8e]
+#### 43. Increase of pensions and allowances during first 13 weeks[^c-76897ecfe073e13fe23afce9528ccc8e]
 
 (1) Paragraphs (2) to (4) apply to a surviving spouse’s or civil partner’s ordinary or accrued pension (“the survivor’s pension”) where the deceased died—
 
@@ -704,7 +704,7 @@ immediately before the death.
 
 (7) No allowance shall be increased under paragraph (6) for any week for which a pension is payable under this Scheme or an injury pension under the Compensation Scheme to a surviving spouse or civil partner.
 
-#### 44. Flat-rate awards[^key-7731f902c81945122ff527033a0b3543]
+#### 44. Flat-rate awards[^c-7731f902c81945122ff527033a0b3543]
 
 (1) This article applies where an election has effect under—
 
@@ -766,7 +766,7 @@ increased, in each case, in accordance with paragraph (8).
 
 ### PART F — PENSIONABLE SERVICE AND TRANSFER VALUES
 
-#### 45. Reckoning of and certificates as to pensionable service[^key-30b270fca7f3b1dee14d82634d4493f6]
+#### 45. Reckoning of and certificates as to pensionable service[^c-30b270fca7f3b1dee14d82634d4493f6]
 
 (1) Subject to paragraph (2), a person is entitled to reckon as pensionable service the total of the periods he is entitled to reckon under articles 46 to 53 and, in the case of a serviceman, any period reckonable under article 72 (pensionable service).
 
@@ -782,7 +782,7 @@ increased, in each case, in accordance with paragraph (8).
 
 (7) For the purposes of paragraphs (3) to (6) a serviceman shall be treated as only becoming entitled to reckon service under article 72 if and when he resumes service as a member of the fire and rescue service.
 
-#### 46. Current service[^key-c4975fab00d5fcab96bb87d5ebbc1245]
+#### 46. Current service[^c-c4975fab00d5fcab96bb87d5ebbc1245]
 
 (1) Subject to paragraphs (2) and (3), a person serving as a regular firefighter is entitled to reckon as pensionable service—
 
@@ -812,7 +812,7 @@ increased, in each case, in accordance with paragraph (8).
 
 (7) Any periods of pensionable service before and after any period of maternity or adoption leave in respect of which the person has the right to, but does not, pay continuous contributions under article 58 shall be treated as continuous.
 
-#### 47. Maternity, paternity and adoption leave[^key-354236fba947220ca5c710b826353c44]
+#### 47. Maternity, paternity and adoption leave[^c-354236fba947220ca5c710b826353c44]
 
 (1) A woman serving as a regular firefighter is entitled to reckon as pensionable service any period of —
 
@@ -829,7 +829,7 @@ taken on or after 23rd June 1994.
 - (c) paid additional adoption leave; and
 - (d) unpaid additional adoption leave in respect of which he has paid contributions to the Board in accordance with article 58.
 
-#### 48. Previous service reckonable without payment[^key-a7b5ee43ed453759f167fa6f57893f82]
+#### 48. Previous service reckonable without payment[^c-a7b5ee43ed453759f167fa6f57893f82]
 
 A person who—
 
@@ -838,7 +838,7 @@ A person who—
 
 is entitled to reckon as pensionable service the period he was entitled to reckon when he retired.
 
-#### 49. Previous service reckonable on payment[^key-ca170d94e898358d696239425b9f55dc]
+#### 49. Previous service reckonable on payment[^c-ca170d94e898358d696239425b9f55dc]
 
 (1) A person who—
 
@@ -889,7 +889,7 @@ is entitled to reckon as pensionable service the period he was entitled to recko
 - (a) the Board shall repay him the amount he paid by way of such contributions; and
 - (b) he shall be treated as having neither paid nor elected to pay the contributions.
 
-#### 50. Period during which injury pension was payable[^key-b9c393f88aa326a582bffc4d809ecb5f]
+#### 50. Period during which injury pension was payable[^c-b9c393f88aa326a582bffc4d809ecb5f]
 
 (1) A person who—
 
@@ -903,7 +903,7 @@ is entitled to reckon as pensionable service the period during which he was enti
 
 (2) The required amount is the total of the pension contributions (excluding such additional and further contributions as were mentioned in Articles 51 and 52 of the 1973 Scheme) that would have been payable by him for the pension period if he had continued to serve as a regular firefighter in the rank he held immediately before the retirement.
 
-#### 51. Previous service reckonable following actionable loss[^key-cea26b24f45b9c41191c4b05bf4cc20e]
+#### 51. Previous service reckonable following actionable loss[^c-cea26b24f45b9c41191c4b05bf4cc20e]
 
 (1) This article applies to a regular firefighter who—
 
@@ -943,7 +943,7 @@ payment of a transfer value in relation to a regular firefighter by whom a notic
 - (b) a person shall be taken to have transferred out if a transfer value has been paid in respect of him under article 55 (payment of transfer values) by the Board to a personal pension scheme;and
 - (c) “relevant period”, in relation to a regular firefighter, means the total of any periods of opted out and, where appropriate, transferred out service.
 
-#### 52. Calculation of amount of restitution payment[^key-71b1173aba1ca0acc80a13a8c60cab24]
+#### 52. Calculation of amount of restitution payment[^c-71b1173aba1ca0acc80a13a8c60cab24]
 
 (1) The Board shall calculate in accordance with this article the restitution payment that would need to be made to it in respect of a person to whom article 51 applies to create or restore his position to what it would have been if he had not opted out or, where relevant, also transferred out.
 
@@ -960,7 +960,7 @@ payment of a transfer value in relation to a regular firefighter by whom a notic
 - “material date” means the date on which the Board receives a notice under article 51(2); and
 - “relevant methods and assumptions” means ones notified by the Government Actuary for the calculation of cash equivalent values from occupational pension schemes.
 
-#### 53. Receipt of transfer value[^key-972c97236ddf38e2d2697a8f8d4604cb]
+#### 53. Receipt of transfer value[^c-972c97236ddf38e2d2697a8f8d4604cb]
 
 (1) Subject to paragraphs (2) to (4) and (6), the Board may accept a transfer value offered to it, in respect of a person who has become a regular firefighter, by the scheme managers of a superannuation scheme to which he was subject in previous service or employment (“the previous scheme”).
 
@@ -990,7 +990,7 @@ payment of a transfer value in relation to a regular firefighter by whom a notic
 
 (6) A transfer value may not be accepted in respect of any pension credit rights.
 
-#### 54. Transfer payments between fire authorities[^key-295dbae3d7cc872f96dca3d1c8e926bd]
+#### 54. Transfer payments between fire authorities[^c-295dbae3d7cc872f96dca3d1c8e926bd]
 
 (1) Where a person—
 
@@ -1002,7 +1002,7 @@ the Board shall subject to paragraph (2) pay to the fire authority maintaining t
 
 (2) No sum may be paid in respect of any pension credit rights.
 
-#### 55. Payment of transfer values[^key-05b654d5a64ec186afcbf52e9becd5b7]
+#### 55. Payment of transfer values[^c-05b654d5a64ec186afcbf52e9becd5b7]
 
 (1) Subject to paragraphs (2) to (9), the Board—
 
@@ -1043,7 +1043,7 @@ the Board shall subject to paragraph (2) pay to the fire authority maintaining t
 
 ### PART G — PENSIONABLE PAY AND CONTRIBUTIONS
 
-#### 56. Pensionable pay and average pensionable pay[^key-5cd6adb734317782943f556cfdc9cba5]
+#### 56. Pensionable pay and average pensionable pay[^c-5cd6adb734317782943f556cfdc9cba5]
 
 (1) Subject to paragraph (2), the pensionable pay of a regular firefighter is the pay he receives (whether as a whole-time or part-time member of the fire and rescue service) in the ordinary course of fulfilling his duties as determined—
 
@@ -1086,7 +1086,7 @@ shall be disregarded.
 
 (10) A regular firefighter’s average pensionable pay for a week is his average pensionable pay divided by 52 1/6th.
 
-#### 57. Pension contributions[^key-00b1d84528b99cdb32c0727190fd8835]
+#### 57. Pension contributions[^c-00b1d84528b99cdb32c0727190fd8835]
 
 (1) A regular firefighter shall, except where an election under article 59 has effect, pay pension contributions to the Board at the rate specified in paragraph (2).
 
@@ -1106,7 +1106,7 @@ shall be disregarded.
 - (a) in the financial year in which notice of that election is given, the part of the year that falls after the first date after the notice is received on which an instalment of pay falls due; and
 - (b) any later period in which the election not to pay pension contributions has effect.
 
-#### 58. Optional pension contributions during maternity and adoption leave[^key-cfef4d878969b11e3e9de9d1ca9f5263]
+#### 58. Optional pension contributions during maternity and adoption leave[^c-cfef4d878969b11e3e9de9d1ca9f5263]
 
 (1) A regular firefighter who—
 
@@ -1130,7 +1130,7 @@ may elect to pay pension contributions in respect of such period.
 
 (7) Where the period of additional maternity or additional adoption leave ended prior to 1st April 2006 the provisions of this article shall apply where the person gives written notice to the Board by 30th April 2007.
 
-#### 59. Election not to pay pension contributions[^key-ab1ae72acba38d7e164e5d9040315eb8]
+#### 59. Election not to pay pension contributions[^c-ab1ae72acba38d7e164e5d9040315eb8]
 
 (1) Subject to paragraph (11), a regular firefighter may at any time, by giving written notice to the Board, elect that article 57 is not to apply in his case.
 
@@ -1164,11 +1164,11 @@ the election shall be treated as given on his first day of employment and the Bo
 
 (12) References in this Scheme to any period during which an election under this article not to pay pension contributions had effect shall not include any period in respect of which a transfer value or lump sum has been paid under article 51.
 
-#### 60. Continued payment of additional and further contributions[^key-04e28d58b1e434aea281a1ab73b05f11]
+#### 60. Continued payment of additional and further contributions[^c-04e28d58b1e434aea281a1ab73b05f11]
 
 A regular firefighter who immediately before 1st April 2006 was still liable to pay additional or further contributions pursuant to an election under Article 52(2) or (3) of the 1973 Scheme shall continue to pay them, except while an election under article 59 has effect, for so long as they would have remained payable if that Scheme had not been revoked.
 
-#### 61. Purchase of increased benefits[^key-9ec09cf0f21c8622e7bc8ac219764917]
+#### 61. Purchase of increased benefits[^c-9ec09cf0f21c8622e7bc8ac219764917]
 
 (1) For the purpose of securing increased benefits as provided in article 64, additional sixtieths of average pensionable pay may be purchased in accordance with articles 62 and 63 by eligible persons.
 
@@ -1178,7 +1178,7 @@ A regular firefighter who immediately before 1st April 2006 was still liable to 
 - (b) whose normal pension age is at least 9 years after the date on which he last became a regular firefighter; and
 - (c) who at his normal pension age would be entitled to reckon less than 30 years’ pensionable service.
 
-#### 62. Election to purchase increased benefits[^key-04ca7a8c3b7d927dcf2d1c884f1256b1]
+#### 62. Election to purchase increased benefits[^c-04ca7a8c3b7d927dcf2d1c884f1256b1]
 
 (1) Subject to paragraphs (2) to (4), an eligible person may, by giving written notice to the Board, elect to purchase a specified number of sixtieths on his average pensionable pay by paying to the Board—
 
@@ -1206,7 +1206,7 @@ A regular firefighter who immediately before 1st April 2006 was still liable to 
 - (b) continues to have effect notwithstanding any postponement by reason of promotion of the date on which the person could be required to retire on account of age; and
 - (c) is irrevocable.
 
-#### 63. Payment of periodical contributions for increased benefits[^key-6d7d6d248cdb266f444f6ad79cf353f2]
+#### 63. Payment of periodical contributions for increased benefits[^c-6d7d6d248cdb266f444f6ad79cf353f2]
 
 (1) Subject to paragraphs (2) and (3), where a person has elected under article 62 to pay periodical contributions they are payable from his next birthday and continue to be payable until the earliest of—
 
@@ -1223,7 +1223,7 @@ the contributions again become payable, and continue to be payable as provided i
 
 (3) If the Board is satisfied that payment of the periodical contributions is causing, or is likely to cause, financial hardship it may consent to the discontinuance of payment for such period as it thinks fit.
 
-#### 64. Effect of payment for increased benefits[^key-418ec78246b00ea925c6d977f88c0d52]
+#### 64. Effect of payment for increased benefits[^c-418ec78246b00ea925c6d977f88c0d52]
 
 (1) Where a person has paid a lump sum, or begun paying periodical contributions, in accordance with an election under article 62—
 
@@ -1261,7 +1261,7 @@ the person does not become entitled to the repayment of his aggregate pension co
 
 ### PART H — DETERMINATION OF QUESTIONS AND APPEALS
 
-#### 65. Determination by the Board[^key-e891495c95ae1418a165743f8d68999e]
+#### 65. Determination by the Board[^c-e891495c95ae1418a165743f8d68999e]
 
 (1) The question whether a person is entitled to any and, if so, what awards shall be determined in the first instance by the Board.
 
@@ -1282,7 +1282,7 @@ the Board shall obtain the written opinion of at least one qualified medical pra
 
 give such decision on the issue as it may choose to give.
 
-#### 66. Appeal against opinion on a medical issue[^key-7e3af6c33892d54029c7cdc669a95222]
+#### 66. Appeal against opinion on a medical issue[^c-7e3af6c33892d54029c7cdc669a95222]
 
 (1) Where—
 
@@ -1299,7 +1299,7 @@ the Board shall supply him with a copy, together with a statement informing the 
 
 (5) Further provisions as to appeals under this article are contained in Schedule 8.
 
-#### 67. Appeal against decision of the Board[^key-907d1bb6285ed4daf1db0bbda5e27509]
+#### 67. Appeal against decision of the Board[^c-907d1bb6285ed4daf1db0bbda5e27509]
 
 (1) Where a person claims that he is entitled to an award or to any payment in respect of an award and the Board—
 
@@ -1324,13 +1324,13 @@ the Board shall reconsider the case if he applies to it to do so.
 
 ### PART I — SERVICEMEN
 
-#### 68. Preliminary[^key-11299e8dd06063dcb5170f93ca33d309]
+#### 68. Preliminary[^c-11299e8dd06063dcb5170f93ca33d309]
 
 (1) A serviceman is a person who immediately before undertaking relevant service in the armed forces was a regular firefighter.
 
 (2) For the purposes of this Scheme a serviceman is to be treated as having continued to be a regular firefighter during his period of relevant service in the armed forces (referred to in this Part as his “forces period”).
 
-#### 69. Award to servicemen[^key-85d30a8670e3affe95e6e9d0312a0b98]
+#### 69. Award to servicemen[^c-85d30a8670e3affe95e6e9d0312a0b98]
 
 (1) This article applies to a serviceman who at the end of his forces period is permanently disabled.
 
@@ -1343,7 +1343,7 @@ the Board shall reconsider the case if he applies to it to do so.
 
 (4) Schedule 6 to the Compensation Scheme has effect for limiting increases under paragraph (3)(b).
 
-#### 70. Awards on death of servicemen[^key-bc81ef70714477e01b43343de9da71a1]
+#### 70. Awards on death of servicemen[^c-bc81ef70714477e01b43343de9da71a1]
 
 (1) This article applies in the case of a serviceman who—
 
@@ -1366,7 +1366,7 @@ the Board shall reconsider the case if he applies to it to do so.
 
 (6) Schedule 6 to the Compensation Scheme has effect for limiting increases under paragraph (4)(b).
 
-#### 71. Servicemen who do not resume service in the fire and rescue service[^key-56f988cd329c3d3c692733ae530b40e5]
+#### 71. Servicemen who do not resume service in the fire and rescue service[^c-56f988cd329c3d3c692733ae530b40e5]
 
 (1) Subject to paragraph (3), a serviceman who does not resume service in the fire and rescue service within one month from the end of his forces period shall be treated for the purposes of the material provisions as having left the fire and rescue service at the end of that period.
 
@@ -1374,11 +1374,11 @@ the Board shall reconsider the case if he applies to it to do so.
 
 (3) The serviceman may apply for the consent mentioned in article 49(1)(b) (Authority’s consent to rejoining fire and rescue service) within one month from the end of his forces period.
 
-#### 72. Pensionable service[^key-2a1706ac7a24b3a65ddde57c3e9f294c]
+#### 72. Pensionable service[^c-2a1706ac7a24b3a65ddde57c3e9f294c]
 
 For the purposes of article 46(1) a serviceman shall be treated as having continued during his forces period to serve in the fire and rescue service.
 
-#### 73. Pension contributions[^key-5d60939311ae2dac7676c866d9cc71e6]
+#### 73. Pension contributions[^c-5d60939311ae2dac7676c866d9cc71e6]
 
 (1) Subject to paragraph (2), for the purposes of article 57 a serviceman’s pensionable pay during his forces period is the pay he would have received if he had continued to serve in the fire and rescue service.
 
@@ -1391,7 +1391,7 @@ is less than the pensionable pay described in paragraph (1).
 
 ### PART J — PENSION CREDIT MEMBERS
 
-#### 74. Pension credit member’s entitlement to pension[^key-0d5cfa9124a1bec12b816be58bb7c402]
+#### 74. Pension credit member’s entitlement to pension[^c-0d5cfa9124a1bec12b816be58bb7c402]
 
 (1) Subject to article 75, a pension credit member is entitled to a pension for life which becomes payable -
 
@@ -1400,7 +1400,7 @@ is less than the pensionable pay described in paragraph (1).
 
 (2) The pension must be of such an amount that its actuarial value is equal to the member’s pension credit, as calculated from tables prepared by the Government Actuary and in accordance with regulations made under paragraph 5(b) of Schedule 5 to the 1999 Order.
 
-#### 75. Commutation of the pension credit benefits[^key-b049c4eb813e5673175003874aec3906]
+#### 75. Commutation of the pension credit benefits[^c-b049c4eb813e5673175003874aec3906]
 
 (1) In the circumstances described in regulation 3(2)(b) of the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000[^f00025] (commutation of the whole of pension credit benefit), the Board may commute for a lump sum the whole of the pension to which a pension credit member is entitled under article 74.
 
@@ -1433,11 +1433,11 @@ whichever is the later, give the Board written notice of commutation, specifying
 
 whichever is the later.
 
-#### 76. Death grants where pension credit member dies before pension credit benefits payable[^key-5f4a1e76526005392ea6084630602bc6]
+#### 76. Death grants where pension credit member dies before pension credit benefits payable[^c-5f4a1e76526005392ea6084630602bc6]
 
 If a pension credit member dies before any benefits deriving from the member’s pension credit have become payable to him under this Scheme, a lump sum death grant is to be paid to the personal representatives of an amount equal to the annual rate of the pension to which the member would have been entitled under article 74 if he had attained normal benefit age on the date of his death (as calculated from tables prepared by the Government Actuary) multiplied by 2.25.
 
-#### 77. Application of general rules[^key-5a20c9520d7fd328acaeed87d677ad9c]
+#### 77. Application of general rules[^c-5a20c9520d7fd328acaeed87d677ad9c]
 
 (1) The provisions of this Scheme specified in paragraph (2) apply to pension credit members and awards payable to or in respect of them, but apart from where provision is made by this Part or a contrary intention is otherwise indicated—
 
@@ -1460,7 +1460,7 @@ If a pension credit member dies before any benefits deriving from the member’s
 
 ### PART K — SPECIAL CASES
 
-#### 78. Guaranteed minimum pensions[^key-4b33867fa0860171eacf82d6c4c5a830]
+#### 78. Guaranteed minimum pensions[^c-4b33867fa0860171eacf82d6c4c5a830]
 
 (1) This article applies where a person who is or has been a regular firefighter has a guaranteed minimum in relation to a pension provided by this Scheme by reason of service before 6<sup>th</sup> April 1997 which is contracted-out employment by reference to the Scheme.
 
@@ -1491,7 +1491,7 @@ If a pension credit member dies before any benefits deriving from the member’s
 
 (8) A pension under paragraph (2) shall not be reduced or extinguished except as provided in this article.
 
-#### 79. Revaluation of guaranteed minimum[^key-b8540917824775c046d924341093337a]
+#### 79. Revaluation of guaranteed minimum[^c-b8540917824775c046d924341093337a]
 
 (1) This article applies where a person—
 
@@ -1514,7 +1514,7 @@ and has taken a right to a cash equivalent by exercising the option conferred by
 
 ### PART L — REVISION AND WITHDRAWAL OF AWARDS
 
-#### 80. Review of ill-health and certain deferred pensions[^key-96a80873fa78c17235dae9f91dab2527]
+#### 80. Review of ill-health and certain deferred pensions[^c-96a80873fa78c17235dae9f91dab2527]
 
 (1) So long as a person—
 
@@ -1541,7 +1541,7 @@ the Board shall also consider, at such intervals as it thinks proper, whether he
 - (ii) of undertaking regular employment.
 - (c) In this Part, “regular employment” means employment for at least 30 hours a week on average over a period of 12 consecutive months beginning with the date on which the issue of his capacity for undertaking employment arises.
 
-#### 81. Consequences of review[^key-a5d2b611492ceb5eebb30f7fb482ae1f]
+#### 81. Consequences of review[^c-a5d2b611492ceb5eebb30f7fb482ae1f]
 
 (1) If, on such consideration as is mentioned in article 80(2), it is found that a person has become capable of undertaking regular employment, the Board shall immediately terminate his higher tier ill-health pension.
 
@@ -1554,7 +1554,7 @@ the Board shall also consider, at such intervals as it thinks proper, whether he
 
 (4) A person who declines a paragraph (2)(b) offer shall then become entitled to a deferred pension under article 16.
 
-#### 82. Reduction of award in case of default[^key-6afb159936a0109d04ddf7f7d8982b81]
+#### 82. Reduction of award in case of default[^c-6afb159936a0109d04ddf7f7d8982b81]
 
 (1) Subject to paragraph (2), where a person—
 
@@ -1572,11 +1572,11 @@ the amount of the reduced pension shall be increased to that of the notional def
 
 (3) The notional deferred pension is the deferred pension that would have been payable if the person had become entitled to one on the date of his ceasing to serve.
 
-#### 83. Withdrawal of pension during service as regular firefighter[^key-6e2559f039bba69e7a3b543645e49b50]
+#### 83. Withdrawal of pension during service as regular firefighter[^c-6e2559f039bba69e7a3b543645e49b50]
 
 The Board may withdraw the whole or any part of the pension, except a pension under Part C (Awards on death – spouses and civil partners), for any period during which the person entitled to it is serving as a regular firefighter in a fire and rescue service maintained under the Fire and Rescue Services Act 2004.
 
-#### 84. Withdrawal of pension on conviction of certain offences[^key-33d063d3a41896840b36cad173fad0cc]
+#### 84. Withdrawal of pension on conviction of certain offences[^c-33d063d3a41896840b36cad173fad0cc]
 
 (1) Subject to paragraph (4), in the circumstances specified in paragraph (2), the Board may withdraw a pension in whole or in part, and permanently or temporarily as it may specify.
 
@@ -1606,7 +1606,7 @@ so much of any pension as has been withdrawn under this article.
 
 ### PART M — PAYMENT OF AWARDS AND FINANCIAL PROVISIONS
 
-#### 85. Payment of awards[^key-68f3c57af50014aebd5d7e3000c85ecd]
+#### 85. Payment of awards[^c-68f3c57af50014aebd5d7e3000c85ecd]
 
 (1) While a pension or allowance is payable—
 
@@ -1644,7 +1644,7 @@ no survivors’ benefits are payable before the end of that period.
 
 whichever is the earlier.
 
-#### 86. Prevention of duplication[^key-483a3aa795f337629c2e926cc0dae487]
+#### 86. Prevention of duplication[^c-483a3aa795f337629c2e926cc0dae487]
 
 (1) This article applies where a person is entitled in respect of any particular period to two or more pensions or allowances under this Scheme or the Compensation Scheme.
 
@@ -1666,7 +1666,7 @@ is not a pension for the purposes of this article.
 
 those pensions shall be treated as one.
 
-#### 87. Payment of awards - supplementary[^key-424d562e99770fba8c869da2417f043d]
+#### 87. Payment of awards - supplementary[^c-424d562e99770fba8c869da2417f043d]
 
 (1) Any sum payable to a minor in respect of an award may, if the Board thinks fit, be paid by it to such other person as it may determine, who shall, in accordance with any directions given by the Board, apply it for the minor’s benefit.
 
@@ -1703,13 +1703,13 @@ those pensions shall be treated as one.
 
 ### PART N — SCHEME ADMINISTRATION, RECEIPTS AND EXPENSES
 
-#### 88. Scheme administrator for purposes of Part 4 of Finance Act 2004[^key-4fe0776edf068ba595c2acc65565c135]
+#### 88. Scheme administrator for purposes of Part 4 of Finance Act 2004[^c-4fe0776edf068ba595c2acc65565c135]
 
 For the purposes of Part 4 (pension schemes, etc) of the Finance Act 2004, the Head of the Department of Health, Social Services and Public Safety shall be the scheme administrator of this Scheme[^f00034].
 
 ### PART O — SUPPLEMENTAL PROVISION
 
-#### 89. Transitional and other matters[^key-dff94b46e4a7345abb765444612b0f7d]
+#### 89. Transitional and other matters[^c-dff94b46e4a7345abb765444612b0f7d]
 
 (1) Schedule 10 has effect with respect to transitional and other matters in connection with the coming into operation of this Scheme.
 
@@ -1717,7 +1717,7 @@ For the purposes of Part 4 (pension schemes, etc) of the Finance Act 2004, the H
 
 ### PART P — FIREFIGHTERS’ PENSION FUND
 
-#### 90. Establishment, maintenance and operation of Firefighters’ Pension Fund[^key-935fab581e6200ebc2ed6a9bd636f43a]
+#### 90. Establishment, maintenance and operation of Firefighters’ Pension Fund[^c-935fab581e6200ebc2ed6a9bd636f43a]
 
 (1) For the purposes of this Scheme, and in connection with rights acquired and liabilities incurred under the 1973 Scheme or previous Firemen’s Pension Schemes and transferred to the Board, the Board shall establish and maintain, in accordance with proper practices, a pension fund, which shall be known as their Firefighters’ Pension Fund (in this Part referred to as the FPF).
 
@@ -1743,7 +1743,7 @@ For the purposes of Part 4 (pension schemes, etc) of the Finance Act 2004, the H
 - (a) references to the total amount payable out of the FPF do not include references to any amount which the Department required the Board to pay to it under any of articles 94 to 97; and
 - (b) references to the total amount credited to the FPF do not include references to any amount which the Department pays to the Board for crediting to the FPF under any of articles 94 to 97.
 
-#### 91. Special payments and transfers into Firefighters’ Pension Fund[^key-0ee2be3679ee3a552f81f3fea1bff158]
+#### 91. Special payments and transfers into Firefighters’ Pension Fund[^c-0ee2be3679ee3a552f81f3fea1bff158]
 
 (1) The Board shall make transfers into their FPF in accordance with paragraphs (2) to (5).
 
@@ -1760,7 +1760,7 @@ the Board shall transfer into the FPF such amount as shall be determined and not
 
 (5) The amount to be transferred under paragraph (3) or (4) shall be transferred in accordance with arrangements agreed with the Department.
 
-#### 92. Transfer from Firefighters’ Pension Fund[^key-f1b91461729221ac399a2c7b9d261f82]
+#### 92. Transfer from Firefighters’ Pension Fund[^c-f1b91461729221ac399a2c7b9d261f82]
 
 (1) Where, in consequence of a review under article 80 (review of ill-health and certain deferred pensions)—
 
@@ -1792,7 +1792,7 @@ the amount referred to in paragraph (2) shall be transferred from the FPF to any
 
 article 91(3) or (4) (as the case may be) shall be disregarded in his case (to the extent that it remains to be complied with); and the Board shall transfer from the FPF to any other fund maintained by it an amount equal to the aggregate of the instalments that have been transferred to the FPF in respect of the pension that has been terminated.
 
-#### 93. Excess amounts – information[^key-e87de505690f13dc078f0abc25adbcf1]
+#### 93. Excess amounts – information[^c-e87de505690f13dc078f0abc25adbcf1]
 
 (1) Beginning with the financial year ending on 31st March 2007, the Board shall, in relation to each financial year, send the following information to the Department—
 
@@ -1824,7 +1824,7 @@ article 91(3) or (4) (as the case may be) shall be disregarded in his case (to t
   - (ii) his opinion on the statement; or
 - (b) where he makes a report to the Board at the conclusion of the audit, he includes the certificate and opinion referred to in sub-paragraph (a) in that report instead of making an entry on the statement.
 
-#### 94. Excess amounts – estimated deficits[^key-c3459e560f7fbef550ea9fa1038d8c86]
+#### 94. Excess amounts – estimated deficits[^c-c3459e560f7fbef550ea9fa1038d8c86]
 
 (1) Where, having taken into account the initial estimate or, as the case may be, the estimate, and any other relevant information available to it, it appears to the Department that the total amount likely to be payable out of the Board’s FPF in the year in question will exceed the total amount likely to be credited to the Board’s FPF in that year, it shall pay to the Board an amount equal to the likely deficit.
 
@@ -1848,7 +1848,7 @@ it may pay to the Board such amount as it thinks fit.
 
 (6) Any amount payable or repayable by the Department to the Board under paragraph (2) or (4) shall be paid or repaid before the end of the year in question.
 
-#### 95. Excess amounts – estimated surpluses[^key-7e9f21a7f0ab6e1bd7ce2786a1f1ef2d]
+#### 95. Excess amounts – estimated surpluses[^c-7e9f21a7f0ab6e1bd7ce2786a1f1ef2d]
 
 (1) Where, having taken into account the initial estimate or, as the case may be, the estimate, and any other relevant information available to it, it appears to the Department that the total amount likely to be credited to the Board’s FPF in the year in question will exceed the total amount likely to be payable out of their FPF in that year, it shall require the Board to pay to it an amount equal to the likely surplus.
 
@@ -1869,7 +1869,7 @@ it may require the Board to pay to it such amount as it may by notice specify.
 
 (6) An amount payable or repayable by the Board to the Department under paragraph (1), (2) or (4) shall be paid or repaid in March in the year in question.
 
-#### 96. Excess amounts – actual deficits[^key-b2d538030f3c6819cb666892caf7f2f6]
+#### 96. Excess amounts – actual deficits[^c-b2d538030f3c6819cb666892caf7f2f6]
 
 (1) Where, having taken into account the un-audited information and any other relevant information available to it, it appears to the Department that the total amount likely to be payable out of the Board’s FPF in the year in question exceeds the total amount likely to be credited to the Board’s FPF in that year—
 
@@ -1889,7 +1889,7 @@ it may require the Board to pay to it such amount as it may by notice specify.
 
 (4) An amount payable or repayable by the Department to the Board, or vice versa, under paragraph (2), shall be paid or repaid in July in the financial year following the second year.
 
-#### 97. Excess amount – actual surpluses[^key-dfa559691f760fbab0923062ee021926]
+#### 97. Excess amount – actual surpluses[^c-dfa559691f760fbab0923062ee021926]
 
 (1) Where, having taken into account the un-audited information and any other relevant information available to it, it appears to the Department that the total amount credited to the Board’s FPF in the year in question exceed the total amount paid out of their FPF in that year—
 
@@ -1913,223 +1913,223 @@ it may require the Board to pay to it such amount as it may by notice specify.
 
 (6) An amount payable or repayable by the Board to the Department, or vice versa, by virtue of paragraph (2), shall be paid or repaid in July in the third year.
 
-#### 98. Duty to provide information[^key-1fddf5031bc3312e40db002ac367a3d5]
+#### 98. Duty to provide information[^c-1fddf5031bc3312e40db002ac367a3d5]
 
 (1) The Board shall provide the Department with such information relevant to the exercise of the Board’s functions under this Part as the Department may, by written notice, require.
 
 (2) The Board shall respond to a request under paragraph (1) within such period as the Department shall specify in its notice under that paragraph, or such longer period as it may in any particular case allow.
 
-#### 99. Duty to have regard to guidance[^key-b45191931d023e1812792988af82a6ac]
+#### 99. Duty to have regard to guidance[^c-b45191931d023e1812792988af82a6ac]
 
 In exercising its functions under this Part the Board shall have regard to such guidance as may be issued by the Department from time to time.
 
 ## Annotations
 
-[^key-3450ecfef6b74dc365cd81d995c70781]: Commencement: ANNEX Scheme art. 1 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-3450ecfef6b74dc365cd81d995c70781]: Commencement: ANNEX Scheme art. 1 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-0b08174f24558cf170fa5e6c54f950a0]: Commencement: ANNEX Scheme Pt. A art. 1 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-0b08174f24558cf170fa5e6c54f950a0]: Commencement: ANNEX Scheme Pt. A art. 1 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-8b64776ff8e245855901b7816723063a]: Commencement: ANNEX Scheme Pt. A art. 2 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-8b64776ff8e245855901b7816723063a]: Commencement: ANNEX Scheme Pt. A art. 2 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00004]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
 [^f00005]: Footnote: [S.I. 2006/1254 (N.I. 9)](https://www.legislation.gov.uk/nisi/2006/1254).
 
-[^key-e890b96a573e1bb70a94066cba092867]: Commencement: ANNEX Scheme Pt. A art. 3 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-e890b96a573e1bb70a94066cba092867]: Commencement: ANNEX Scheme Pt. A art. 3 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00006]: Footnote: [1947 c.41](https://www.legislation.gov.uk/ukpga/1947/41)
 
-[^key-c1df3d0a7e9086775121df3c8c906f45]: Commencement: ANNEX Scheme Pt. A art. 4 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-c1df3d0a7e9086775121df3c8c906f45]: Commencement: ANNEX Scheme Pt. A art. 4 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-cb5a61aaa6abfa9059308568242921ee]: Commencement: ANNEX Scheme Pt. A art. 5 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-cb5a61aaa6abfa9059308568242921ee]: Commencement: ANNEX Scheme Pt. A art. 5 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-b1ed947b67afe6c737d2b079d8faba3f]: Commencement: ANNEX Scheme Pt. A art. 6 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-b1ed947b67afe6c737d2b079d8faba3f]: Commencement: ANNEX Scheme Pt. A art. 6 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-73ceb2787242ad99b43fbf669c8cca3f]: Commencement: ANNEX Scheme Pt. A art. 7 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-73ceb2787242ad99b43fbf669c8cca3f]: Commencement: ANNEX Scheme Pt. A art. 7 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-d46a822e4f6c1babe9431db5491eecd1]: Commencement: ANNEX Scheme Pt. A art. 8 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-d46a822e4f6c1babe9431db5491eecd1]: Commencement: ANNEX Scheme Pt. A art. 8 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00007]: Footnote: [1951 c. 65](https://www.legislation.gov.uk/ukpga/1951/65)
 
 [^f00008]: Footnote: [1948 c. 64](https://www.legislation.gov.uk/ukpga/1948/64)
 
-[^key-d08eff73933e3519b52da86c40ca3694]: Commencement: ANNEX Scheme Pt. A art. 9 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-d08eff73933e3519b52da86c40ca3694]: Commencement: ANNEX Scheme Pt. A art. 9 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-a63ccb131c12a9fb1226ee22545408b6]: Commencement: ANNEX Scheme Pt. A art. 10 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-a63ccb131c12a9fb1226ee22545408b6]: Commencement: ANNEX Scheme Pt. A art. 10 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-7d1d32baed982d6a6da68884a06f14c2]: Commencement: ANNEX Scheme Pt. A art. 11 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-7d1d32baed982d6a6da68884a06f14c2]: Commencement: ANNEX Scheme Pt. A art. 11 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-ea52c399c805438e5575da0917586463]: Commencement: ANNEX Scheme Pt. A art. 12 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-ea52c399c805438e5575da0917586463]: Commencement: ANNEX Scheme Pt. A art. 12 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-de893603d03fd2b113e31b48dd71b2d9]: Commencement: ANNEX Scheme Pt. B art. 13 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-de893603d03fd2b113e31b48dd71b2d9]: Commencement: ANNEX Scheme Pt. B art. 13 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-4a31c7b1ab6e3fc96bb4656b2f3bc923]: Commencement: ANNEX Scheme Pt. B art. 14 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-4a31c7b1ab6e3fc96bb4656b2f3bc923]: Commencement: ANNEX Scheme Pt. B art. 14 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-1b457ff970b0b6b1ea469fd4943e8fff]: Commencement: ANNEX Scheme Pt. B art. 15 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-1b457ff970b0b6b1ea469fd4943e8fff]: Commencement: ANNEX Scheme Pt. B art. 15 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-989c2c7ccbad8b44df8987d94d2383ac]: Commencement: ANNEX Scheme Pt. B art. 16 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-989c2c7ccbad8b44df8987d94d2383ac]: Commencement: ANNEX Scheme Pt. B art. 16 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-a83f6b837b8412514da218743dd8cb9a]: Commencement: ANNEX Scheme Pt. B art. 17 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-a83f6b837b8412514da218743dd8cb9a]: Commencement: ANNEX Scheme Pt. B art. 17 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-f6941dd147761fc35a1526df8823462c]: Commencement: ANNEX Scheme Pt. B art. 18 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-f6941dd147761fc35a1526df8823462c]: Commencement: ANNEX Scheme Pt. B art. 18 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-c83294955fc3c5f39be41f33795ad173]: Commencement: ANNEX Scheme Pt. B art. 19 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-c83294955fc3c5f39be41f33795ad173]: Commencement: ANNEX Scheme Pt. B art. 19 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00009]: Footnote: [1971 c. 35(N.I)](https://www.legislation.gov.uk/apni/1971/35)
 
 [^f00010]: Footnote: As to the lump sum rule *see* section 166 of the Finance Act 2004. As to the commutation limit *see* paragraph 7(4) of Part I of Schedule 29 to that Act.
 
-[^key-993dad23a2ab4c069392d345fc2ae962]: Commencement: ANNEX Scheme Pt. B art. 20 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-993dad23a2ab4c069392d345fc2ae962]: Commencement: ANNEX Scheme Pt. B art. 20 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-c087afcd0771b890495d4418ad307df3]: Commencement: ANNEX Scheme Pt. B art. 21 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-c087afcd0771b890495d4418ad307df3]: Commencement: ANNEX Scheme Pt. B art. 21 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-ed98c82f6b6ff3428c11e8f6183e9092]: Commencement: ANNEX Scheme Pt. B art. 22 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-ed98c82f6b6ff3428c11e8f6183e9092]: Commencement: ANNEX Scheme Pt. B art. 22 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00011]: Footnote: *See* section 214 of the Finance Act [2004 (c.12)](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-cda8b047aff6452be78475311723f6f1]: Commencement: ANNEX Scheme Pt. B art. 23 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-cda8b047aff6452be78475311723f6f1]: Commencement: ANNEX Scheme Pt. B art. 23 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-4c85b72f179d98ad96fa1852e187976c]: Commencement: ANNEX Scheme Pt. B art. 24 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-4c85b72f179d98ad96fa1852e187976c]: Commencement: ANNEX Scheme Pt. B art. 24 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-91a18a301665cc841f4c58bcb47a4ada]: Commencement: ANNEX Scheme Pt. C art. 25 in operation at 1.4.2006 with effect in accordance with [art. 1(2)(a)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision), see[art. 1(2)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision)
+[^c-91a18a301665cc841f4c58bcb47a4ada]: Commencement: ANNEX Scheme Pt. C art. 25 in operation at 1.4.2006 with effect in accordance with [art. 1(2)(a)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision), see[art. 1(2)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision)
 
-[^key-c0a74a9759b64717b61a9d0329161907]: Commencement: ANNEX Scheme Pt. C art. 26 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-c0a74a9759b64717b61a9d0329161907]: Commencement: ANNEX Scheme Pt. C art. 26 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-6fd9b80356c04b54e963a9feb426520a]: Commencement: ANNEX Scheme Pt. C art. 27 in operation at 1.4.2006 with effect in accordance with [art. 1(2)(b)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision), see[art. 1(2)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision)
+[^c-6fd9b80356c04b54e963a9feb426520a]: Commencement: ANNEX Scheme Pt. C art. 27 in operation at 1.4.2006 with effect in accordance with [art. 1(2)(b)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision), see[art. 1(2)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision)
 
-[^key-7ba5fbc4da54d8ed2d57ad45ae209c18]: Commencement: ANNEX Scheme Pt. C art. 28 in operation at 1.4.2006 with effect in accordance with [art. 1(2)(c)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision), see[art. 1(2)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision)
+[^c-7ba5fbc4da54d8ed2d57ad45ae209c18]: Commencement: ANNEX Scheme Pt. C art. 28 in operation at 1.4.2006 with effect in accordance with [art. 1(2)(c)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision), see[art. 1(2)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision)
 
 [^f00012]: Footnote: [1971 c. 35(N.I.)](https://www.legislation.gov.uk/apni/1971/35)
 
-[^key-c85c956a0413825c57e78db6300ea566]: Commencement: ANNEX Scheme Pt. C art. 29 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-c85c956a0413825c57e78db6300ea566]: Commencement: ANNEX Scheme Pt. C art. 29 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-d7e0a5ece22b7386ff670b0125929e2e]: Commencement: ANNEX Scheme Pt. C art. 30 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-d7e0a5ece22b7386ff670b0125929e2e]: Commencement: ANNEX Scheme Pt. C art. 30 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-5a8846b019347be9a079ecb0aab8f0de]: Commencement: ANNEX Scheme Pt. C art. 31 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-5a8846b019347be9a079ecb0aab8f0de]: Commencement: ANNEX Scheme Pt. C art. 31 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-c7be66e40457fea30ca411683255d96e]: Commencement: ANNEX Scheme Pt. C art. 32 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-c7be66e40457fea30ca411683255d96e]: Commencement: ANNEX Scheme Pt. C art. 32 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-847f86e83626e8001e95ce45198c9f98]: Commencement: ANNEX Scheme Pt. D art. 33 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-847f86e83626e8001e95ce45198c9f98]: Commencement: ANNEX Scheme Pt. D art. 33 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-6c95640e8b942cccfdb9500b7c0f66a6]: Commencement: ANNEX Scheme Pt. D art. 34 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-6c95640e8b942cccfdb9500b7c0f66a6]: Commencement: ANNEX Scheme Pt. D art. 34 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-98b3c36bb5f21c400a4f9110d1b48178]: Commencement: ANNEX Scheme Pt. D art. 35 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-98b3c36bb5f21c400a4f9110d1b48178]: Commencement: ANNEX Scheme Pt. D art. 35 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-fc686175f777f678c0d28404e29337a7]: Commencement: ANNEX Scheme Pt. D art. 36 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-fc686175f777f678c0d28404e29337a7]: Commencement: ANNEX Scheme Pt. D art. 36 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-60f2a1b0cc1d7cccde47c5a61a8be2a1]: Commencement: ANNEX Scheme Pt. E art. 37 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-60f2a1b0cc1d7cccde47c5a61a8be2a1]: Commencement: ANNEX Scheme Pt. E art. 37 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-54be081a2b2c4d82d193b528613df674]: Commencement: ANNEX Scheme Pt. E art. 38 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-54be081a2b2c4d82d193b528613df674]: Commencement: ANNEX Scheme Pt. E art. 38 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-16ec2ce86febdbf1c505a93f51d55e52]: Commencement: ANNEX Scheme Pt. E art. 39 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-16ec2ce86febdbf1c505a93f51d55e52]: Commencement: ANNEX Scheme Pt. E art. 39 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-579d261def59333f099a2f3bd7a17056]: Commencement: ANNEX Scheme Pt. E art. 40 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-579d261def59333f099a2f3bd7a17056]: Commencement: ANNEX Scheme Pt. E art. 40 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-bf63cf981067130ccd3b0813dd6ec0a2]: Commencement: ANNEX Scheme Pt. E art. 41 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-bf63cf981067130ccd3b0813dd6ec0a2]: Commencement: ANNEX Scheme Pt. E art. 41 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00013]: Footnote: As to the lump sum rule, *see* section 166 of the Finance Act 2004.
 
-[^key-a2d462bfb50aa6c04e056ed8edd5cc07]: Commencement: ANNEX Scheme Pt. E art. 42 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-a2d462bfb50aa6c04e056ed8edd5cc07]: Commencement: ANNEX Scheme Pt. E art. 42 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00014]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12)
 
-[^key-76897ecfe073e13fe23afce9528ccc8e]: Commencement: ANNEX Scheme Pt. E art. 43 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-76897ecfe073e13fe23afce9528ccc8e]: Commencement: ANNEX Scheme Pt. E art. 43 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-7731f902c81945122ff527033a0b3543]: Commencement: ANNEX Scheme Pt. E art. 44 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-7731f902c81945122ff527033a0b3543]: Commencement: ANNEX Scheme Pt. E art. 44 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-30b270fca7f3b1dee14d82634d4493f6]: Commencement: ANNEX Scheme Pt. F art. 45 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-30b270fca7f3b1dee14d82634d4493f6]: Commencement: ANNEX Scheme Pt. F art. 45 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-c4975fab00d5fcab96bb87d5ebbc1245]: Commencement: ANNEX Scheme Pt. F art. 46 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-c4975fab00d5fcab96bb87d5ebbc1245]: Commencement: ANNEX Scheme Pt. F art. 46 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-354236fba947220ca5c710b826353c44]: Commencement: ANNEX Scheme Pt. F art. 47 in operation at 1.4.2006 with effect in accordance with [art. 1(2)(d)(e)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision), see[art. 1(2)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision)
+[^c-354236fba947220ca5c710b826353c44]: Commencement: ANNEX Scheme Pt. F art. 47 in operation at 1.4.2006 with effect in accordance with [art. 1(2)(d)(e)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision), see[art. 1(2)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision)
 
-[^key-a7b5ee43ed453759f167fa6f57893f82]: Commencement: ANNEX Scheme Pt. F art. 48 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-a7b5ee43ed453759f167fa6f57893f82]: Commencement: ANNEX Scheme Pt. F art. 48 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-ca170d94e898358d696239425b9f55dc]: Commencement: ANNEX Scheme Pt. F art. 49 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-ca170d94e898358d696239425b9f55dc]: Commencement: ANNEX Scheme Pt. F art. 49 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00015]: Footnote: [1947 c. 41](https://www.legislation.gov.uk/ukpga/1947/41)
 
-[^key-b9c393f88aa326a582bffc4d809ecb5f]: Commencement: ANNEX Scheme Pt. F art. 50 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-b9c393f88aa326a582bffc4d809ecb5f]: Commencement: ANNEX Scheme Pt. F art. 50 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-cea26b24f45b9c41191c4b05bf4cc20e]: Commencement: ANNEX Scheme Pt. F art. 51 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-cea26b24f45b9c41191c4b05bf4cc20e]: Commencement: ANNEX Scheme Pt. F art. 51 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00016]: Footnote: [1986 c.60](https://www.legislation.gov.uk/ukpga/1986/60)
 
 [^f00017]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8)
 
-[^key-71b1173aba1ca0acc80a13a8c60cab24]: Commencement: ANNEX Scheme Pt. F art. 52 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-71b1173aba1ca0acc80a13a8c60cab24]: Commencement: ANNEX Scheme Pt. F art. 52 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00018]: Footnote: [1971 c. 35(N.I.)](https://www.legislation.gov.uk/apni/1971/35)
 
 [^f00019]: Footnote: [S.I. 1974/1267 (N.I. 2)](https://www.legislation.gov.uk/nisi/1974/1267)
 
-[^key-972c97236ddf38e2d2697a8f8d4604cb]: Commencement: ANNEX Scheme Pt. F art. 53 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-972c97236ddf38e2d2697a8f8d4604cb]: Commencement: ANNEX Scheme Pt. F art. 53 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00020]: Footnote: Article 65A was inserted by paragraph 7 of Part II of Schedule 1 to [S.R. 1979 No. 88](https://www.legislation.gov.uk/nisr/1979/88) and amended by [S.R. 1991 No. 312](https://www.legislation.gov.uk/nisr/1991/312)
 
-[^key-295dbae3d7cc872f96dca3d1c8e926bd]: Commencement: ANNEX Scheme Pt. F art. 54 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-295dbae3d7cc872f96dca3d1c8e926bd]: Commencement: ANNEX Scheme Pt. F art. 54 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-05b654d5a64ec186afcbf52e9becd5b7]: Commencement: ANNEX Scheme Pt. F art. 55 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-05b654d5a64ec186afcbf52e9becd5b7]: Commencement: ANNEX Scheme Pt. F art. 55 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-5cd6adb734317782943f556cfdc9cba5]: Commencement: ANNEX Scheme Pt. G art. 56 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-5cd6adb734317782943f556cfdc9cba5]: Commencement: ANNEX Scheme Pt. G art. 56 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00021]: Footnote: [S.I. 1990/586](https://www.legislation.gov.uk/uksi/1990/586)
 
 [^f00022]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1):section 590C was inserted, and section 594 amended, by the Finance Act [1989 (c.26)](https://www.legislation.gov.uk/ukpga/1989/26), section 75 and Schedule 6 paragraphs 4 and 6.
 
-[^key-00b1d84528b99cdb32c0727190fd8835]: Commencement: ANNEX Scheme Pt. G art. 57 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-00b1d84528b99cdb32c0727190fd8835]: Commencement: ANNEX Scheme Pt. G art. 57 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-cfef4d878969b11e3e9de9d1ca9f5263]: Commencement: ANNEX Scheme Pt. G art. 58 in operation at 1.4.2006 with effect in accordance with [art. 1(2)(d)(e)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision), see[art. 1(2)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision)
+[^c-cfef4d878969b11e3e9de9d1ca9f5263]: Commencement: ANNEX Scheme Pt. G art. 58 in operation at 1.4.2006 with effect in accordance with [art. 1(2)(d)(e)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision), see[art. 1(2)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision)
 
 [^f00023]: Footnote: [1992 c.7](https://www.legislation.gov.uk/ukpga/1992/7)
 
-[^key-ab1ae72acba38d7e164e5d9040315eb8]: Commencement: ANNEX Scheme Pt. G art. 59 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-ab1ae72acba38d7e164e5d9040315eb8]: Commencement: ANNEX Scheme Pt. G art. 59 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-04e28d58b1e434aea281a1ab73b05f11]: Commencement: ANNEX Scheme Pt. G art. 60 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-04e28d58b1e434aea281a1ab73b05f11]: Commencement: ANNEX Scheme Pt. G art. 60 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-9ec09cf0f21c8622e7bc8ac219764917]: Commencement: ANNEX Scheme Pt. G art. 61 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-9ec09cf0f21c8622e7bc8ac219764917]: Commencement: ANNEX Scheme Pt. G art. 61 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-04ca7a8c3b7d927dcf2d1c884f1256b1]: Commencement: ANNEX Scheme Pt. G art. 62 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-04ca7a8c3b7d927dcf2d1c884f1256b1]: Commencement: ANNEX Scheme Pt. G art. 62 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-6d7d6d248cdb266f444f6ad79cf353f2]: Commencement: ANNEX Scheme Pt. G art. 63 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-6d7d6d248cdb266f444f6ad79cf353f2]: Commencement: ANNEX Scheme Pt. G art. 63 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-418ec78246b00ea925c6d977f88c0d52]: Commencement: ANNEX Scheme Pt. G art. 64 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-418ec78246b00ea925c6d977f88c0d52]: Commencement: ANNEX Scheme Pt. G art. 64 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-e891495c95ae1418a165743f8d68999e]: Commencement: ANNEX Scheme Pt. H art. 65 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-e891495c95ae1418a165743f8d68999e]: Commencement: ANNEX Scheme Pt. H art. 65 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-7e3af6c33892d54029c7cdc669a95222]: Commencement: ANNEX Scheme Pt. H art. 66 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-7e3af6c33892d54029c7cdc669a95222]: Commencement: ANNEX Scheme Pt. H art. 66 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-907d1bb6285ed4daf1db0bbda5e27509]: Commencement: ANNEX Scheme Pt. H art. 67 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-907d1bb6285ed4daf1db0bbda5e27509]: Commencement: ANNEX Scheme Pt. H art. 67 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-11299e8dd06063dcb5170f93ca33d309]: Commencement: ANNEX Scheme Pt. I art. 68 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-11299e8dd06063dcb5170f93ca33d309]: Commencement: ANNEX Scheme Pt. I art. 68 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-85d30a8670e3affe95e6e9d0312a0b98]: Commencement: ANNEX Scheme Pt. I art. 69 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-85d30a8670e3affe95e6e9d0312a0b98]: Commencement: ANNEX Scheme Pt. I art. 69 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-bc81ef70714477e01b43343de9da71a1]: Commencement: ANNEX Scheme Pt. I art. 70 in operation at 1.4.2006 with effect in accordance with [art. 1(2)(f)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision), see[art. 1(2)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision)
+[^c-bc81ef70714477e01b43343de9da71a1]: Commencement: ANNEX Scheme Pt. I art. 70 in operation at 1.4.2006 with effect in accordance with [art. 1(2)(f)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision), see[art. 1(2)](https://editorial.legislation.gov.uk/nisr/2007/144/article/1/2006-04-01/revision)
 
-[^key-56f988cd329c3d3c692733ae530b40e5]: Commencement: ANNEX Scheme Pt. I art. 71 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-56f988cd329c3d3c692733ae530b40e5]: Commencement: ANNEX Scheme Pt. I art. 71 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-2a1706ac7a24b3a65ddde57c3e9f294c]: Commencement: ANNEX Scheme Pt. I art. 72 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-2a1706ac7a24b3a65ddde57c3e9f294c]: Commencement: ANNEX Scheme Pt. I art. 72 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-5d60939311ae2dac7676c866d9cc71e6]: Commencement: ANNEX Scheme Pt. I art. 73 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-5d60939311ae2dac7676c866d9cc71e6]: Commencement: ANNEX Scheme Pt. I art. 73 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00024]: Footnote: [1951 c.23](https://www.legislation.gov.uk/ukpga/1951/23)
 
-[^key-0d5cfa9124a1bec12b816be58bb7c402]: Commencement: ANNEX Scheme Pt. J art. 74 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-0d5cfa9124a1bec12b816be58bb7c402]: Commencement: ANNEX Scheme Pt. J art. 74 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-b049c4eb813e5673175003874aec3906]: Commencement: ANNEX Scheme Pt. J art. 75 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-b049c4eb813e5673175003874aec3906]: Commencement: ANNEX Scheme Pt. J art. 75 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00025]: Footnote: [SR 2000 No. 146](https://www.legislation.gov.uk/nisr/2000/146)
 
-[^key-5f4a1e76526005392ea6084630602bc6]: Commencement: ANNEX Scheme Pt. J art. 76 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-5f4a1e76526005392ea6084630602bc6]: Commencement: ANNEX Scheme Pt. J art. 76 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-5a20c9520d7fd328acaeed87d677ad9c]: Commencement: ANNEX Scheme Pt. J art. 77 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-5a20c9520d7fd328acaeed87d677ad9c]: Commencement: ANNEX Scheme Pt. J art. 77 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-4b33867fa0860171eacf82d6c4c5a830]: Commencement: ANNEX Scheme Pt. K art. 78 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-4b33867fa0860171eacf82d6c4c5a830]: Commencement: ANNEX Scheme Pt. K art. 78 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00026]: Footnote: [1971 c.35(N.I.)](https://www.legislation.gov.uk/apni/1971/35)
 
-[^key-b8540917824775c046d924341093337a]: Commencement: ANNEX Scheme Pt. K art. 79 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-b8540917824775c046d924341093337a]: Commencement: ANNEX Scheme Pt. K art. 79 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00027]: Footnote: [1993 c.49](https://www.legislation.gov.uk/ukpga/1993/49)
 
@@ -2141,54 +2141,54 @@ In exercising its functions under this Part the Board shall have regard to such 
 
 [^f00031]: Footnote: [S.R. 1996 No. 493](https://www.legislation.gov.uk/nisr/1996/493)
 
-[^key-96a80873fa78c17235dae9f91dab2527]: Commencement: ANNEX Scheme Pt. L art. 80 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-96a80873fa78c17235dae9f91dab2527]: Commencement: ANNEX Scheme Pt. L art. 80 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-a5d2b611492ceb5eebb30f7fb482ae1f]: Commencement: ANNEX Scheme Pt. L art. 81 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-a5d2b611492ceb5eebb30f7fb482ae1f]: Commencement: ANNEX Scheme Pt. L art. 81 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-6afb159936a0109d04ddf7f7d8982b81]: Commencement: ANNEX Scheme Pt. L art. 82 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-6afb159936a0109d04ddf7f7d8982b81]: Commencement: ANNEX Scheme Pt. L art. 82 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-6e2559f039bba69e7a3b543645e49b50]: Commencement: ANNEX Scheme Pt L art. 83 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-6e2559f039bba69e7a3b543645e49b50]: Commencement: ANNEX Scheme Pt L art. 83 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-33d063d3a41896840b36cad173fad0cc]: Commencement: ANNEX Scheme Pt. L art. 84 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-33d063d3a41896840b36cad173fad0cc]: Commencement: ANNEX Scheme Pt. L art. 84 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00032]: Footnote: [1911 c. 28](https://www.legislation.gov.uk/ukpga/1911/28), [1920 c. 75](https://www.legislation.gov.uk/ukpga/1920/75), [1939 c. 121](https://www.legislation.gov.uk/ukpga/1939/121). [1989 c.6](https://www.legislation.gov.uk/ukpga/1989/6)
 
-[^key-68f3c57af50014aebd5d7e3000c85ecd]: Commencement: ANNEX Scheme Pt. M art. 85 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-68f3c57af50014aebd5d7e3000c85ecd]: Commencement: ANNEX Scheme Pt. M art. 85 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-483a3aa795f337629c2e926cc0dae487]: Commencement: ANNEX Scheme Pt. M art. 86 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-483a3aa795f337629c2e926cc0dae487]: Commencement: ANNEX Scheme Pt. M art. 86 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-424d562e99770fba8c869da2417f043d]: Commencement: ANNEX Scheme Pt. M art. 87 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-424d562e99770fba8c869da2417f043d]: Commencement: ANNEX Scheme Pt. M art. 87 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00033]: Footnote: [1967 c. 5 (N.I.)](https://www.legislation.gov.uk/apni/1967/5)
 
-[^key-4fe0776edf068ba595c2acc65565c135]: Commencement: ANNEX Scheme Pt. N art. 88 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-4fe0776edf068ba595c2acc65565c135]: Commencement: ANNEX Scheme Pt. N art. 88 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00034]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12) *See* section 270 for the meaning of “scheme administrator”
 
-[^key-dff94b46e4a7345abb765444612b0f7d]: Commencement: ANNEX Scheme Pt. O art. 89 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-dff94b46e4a7345abb765444612b0f7d]: Commencement: ANNEX Scheme Pt. O art. 89 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00035]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-935fab581e6200ebc2ed6a9bd636f43a]: Commencement: ANNEX Scheme Pt. P art. 90 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-935fab581e6200ebc2ed6a9bd636f43a]: Commencement: ANNEX Scheme Pt. P art. 90 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00036]: Footnote: [S.I. 1992/129](https://www.legislation.gov.uk/uksi/1992/129) – *see* footnote (b) on page 2 of [S.I. 2006/1810](https://www.legislation.gov.uk/uksi/2006/1810).
 
 [^f00037]: Footnote: *See* [S.I. 2004/2918 (W.257)](https://www.legislation.gov.uk/wsi/2004/2918) as amended by [S.I. 2006/1672 (W.160)](https://www.legislation.gov.uk/wsi/2006/1672)
 
-[^key-0ee2be3679ee3a552f81f3fea1bff158]: Commencement: ANNEX Scheme Pt. P art. 91 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-0ee2be3679ee3a552f81f3fea1bff158]: Commencement: ANNEX Scheme Pt. P art. 91 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-f1b91461729221ac399a2c7b9d261f82]: Commencement: ANNEX Scheme Pt. P art. 92 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-f1b91461729221ac399a2c7b9d261f82]: Commencement: ANNEX Scheme Pt. P art. 92 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-e87de505690f13dc078f0abc25adbcf1]: Commencement: ANNEX Scheme Pt. P art. 93 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-e87de505690f13dc078f0abc25adbcf1]: Commencement: ANNEX Scheme Pt. P art. 93 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-c3459e560f7fbef550ea9fa1038d8c86]: Commencement: ANNEX Scheme Pt. P art. 94 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-c3459e560f7fbef550ea9fa1038d8c86]: Commencement: ANNEX Scheme Pt. P art. 94 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-7e9f21a7f0ab6e1bd7ce2786a1f1ef2d]: Commencement: ANNEX Scheme Pt. P art. 95 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-7e9f21a7f0ab6e1bd7ce2786a1f1ef2d]: Commencement: ANNEX Scheme Pt. P art. 95 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-b2d538030f3c6819cb666892caf7f2f6]: Commencement: ANNEX Scheme Pt. P art. 96 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-b2d538030f3c6819cb666892caf7f2f6]: Commencement: ANNEX Scheme Pt. P art. 96 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-dfa559691f760fbab0923062ee021926]: Commencement: ANNEX Scheme Pt. P art. 97 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-dfa559691f760fbab0923062ee021926]: Commencement: ANNEX Scheme Pt. P art. 97 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-1fddf5031bc3312e40db002ac367a3d5]: Commencement: ANNEX Scheme Pt P art. 98 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-1fddf5031bc3312e40db002ac367a3d5]: Commencement: ANNEX Scheme Pt P art. 98 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-b45191931d023e1812792988af82a6ac]: Commencement: ANNEX Scheme Pt. P art. 99 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-b45191931d023e1812792988af82a6ac]: Commencement: ANNEX Scheme Pt. P art. 99 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)

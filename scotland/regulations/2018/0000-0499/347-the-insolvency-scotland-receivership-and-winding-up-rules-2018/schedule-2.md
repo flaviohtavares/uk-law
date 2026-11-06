@@ -108,9 +108,9 @@ In this Schedule—
 
 ### 7. Progress reports and statements to the registrar of companies
 
-(1) Where an obligation to prepare a progress report arises before the commencement date but has not yet been fulfilled 1986 rules 4.10 (information to creditors and contributories), 4.11 (information to register of companies) and 4.56 (liquidator's reports) continue to apply and the provisions of these Rules relating to progress reporting do not apply[^key-0776e073ef34808f4f62ae4a6321e6f8].
+(1) Where an obligation to prepare a progress report arises before the commencement date but has not yet been fulfilled 1986 rules 4.10 (information to creditors and contributories), 4.11 (information to register of companies) and 4.56 (liquidator's reports) continue to apply and the provisions of these Rules relating to progress reporting do not apply[^c-0776e073ef34808f4f62ae4a6321e6f8].
 
-(2)[^key-8456b6e4fedbdbb02909c0d81448bf5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8456b6e4fedbdbb02909c0d81448bf5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 8. Foreign currency
 
@@ -163,9 +163,9 @@ The 1986 Rules, insofar as they apply to insolvency proceedings under the Limite
 
 [^c23538891]: Marginal citation: A new section 94 is prospectively inserted by paragraph 18 of schedule 9 of the 2015 Act.
 
-[^key-0776e073ef34808f4f62ae4a6321e6f8]: Textual amendment: Words in sch. 2 para. 7(1) inserted (23.7.2019) by [The Insolvency (Scotland) Rules 2018 (Miscellaneous Amendments) Rules 2019 (S.I. 2019/1059)](https://www.legislation.gov.uk/uksi/2019/1059), [rules 1](https://www.legislation.gov.uk/uksi/2019/1059/rule/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2019/1059/rule/8/3/a)
+[^c-0776e073ef34808f4f62ae4a6321e6f8]: Textual amendment: Words in sch. 2 para. 7(1) inserted (23.7.2019) by [The Insolvency (Scotland) Rules 2018 (Miscellaneous Amendments) Rules 2019 (S.I. 2019/1059)](https://www.legislation.gov.uk/uksi/2019/1059), [rules 1](https://www.legislation.gov.uk/uksi/2019/1059/rule/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2019/1059/rule/8/3/a)
 
-[^key-8456b6e4fedbdbb02909c0d81448bf5f]: Textual amendment: Sch. 2 para. 7(2) omitted (23.7.2019) by virtue of [The Insolvency (Scotland) Rules 2018 (Miscellaneous Amendments) Rules 2019 (S.I. 2019/1059)](https://www.legislation.gov.uk/uksi/2019/1059), [rules 1](https://www.legislation.gov.uk/uksi/2019/1059/rule/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2019/1059/rule/8/3/b)
+[^c-8456b6e4fedbdbb02909c0d81448bf5f]: Textual amendment: Sch. 2 para. 7(2) omitted (23.7.2019) by virtue of [The Insolvency (Scotland) Rules 2018 (Miscellaneous Amendments) Rules 2019 (S.I. 2019/1059)](https://www.legislation.gov.uk/uksi/2019/1059), [rules 1](https://www.legislation.gov.uk/uksi/2019/1059/rule/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2019/1059/rule/8/3/b)
 
 [^c23538901]: Marginal citation: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26).
 

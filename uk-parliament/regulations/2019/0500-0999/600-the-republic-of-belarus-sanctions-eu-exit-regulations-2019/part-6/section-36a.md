@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. Aircraft: licensing offences[^key-ea26c4f19afea45371028ae9b54477a7]
+## 36A. Aircraft: licensing offences[^c-ea26c4f19afea45371028ae9b54477a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ for the purpose of obtaining an aircraft licence (whether for P or anyone else).
 
 ## Annotations
 
-[^key-ea26c4f19afea45371028ae9b54477a7]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2019/600/regulation/36A) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2022/748/regulation/38)
+[^c-ea26c4f19afea45371028ae9b54477a7]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2019/600/regulation/36A) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2022/748/regulation/38)

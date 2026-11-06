@@ -54,7 +54,7 @@ In these Regulations:—
 
 - “**approved tenancy deposit scheme**” means a scheme which has been approved by the Department for the purposes of safeguarding deposits paid in connection with private tenancies;
 - "bankruptcy restrictions order” means an order made under Schedule 2A of the Insolvency (Northern Ireland) Order 1989 or Schedule 4A of the Insolvency Act 1986,[^M_F_d5fa64e3-d5e2-4fd4-b7cb-793d3dba054e]
-- “debt relief restrictions order” means an order made under Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989 or Schedule 4ZB to the Insolvency Act 1986;[^key-4599b71155e0fd6221366ad197603a65]
+- “debt relief restrictions order” means an order made under Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989 or Schedule 4ZB to the Insolvency Act 1986;[^c-4599b71155e0fd6221366ad197603a65]
 - “**designated account**” means an account which cannot contain any sums other than:—
   - (a) the whole or any part of tenancy deposits paid into it;
   - (b) such sums of money belonging to the scheme administrator as may be necessary for the purpose of opening the account;
@@ -73,8 +73,8 @@ In these Regulations:—
 (2) The Department must not approve an application where the applicant:—
 
 - (a) has been convicted of any offence involving fraud or dishonesty;
-- (b) is a bankrupt, or is the subject of a bankruptcy restrictions order;[^key-30823551613c7b5c274292870b70756e] or
-- (ac)[^key-0ac9aa4e4befaac7caf46f0583938ed1] he is a person in relation to whom a moratorium period under a debt relief order applies or he is the subject of a debt relief restrictions order ; or
+- (b) is a bankrupt, or is the subject of a bankruptcy restrictions order;[^c-30823551613c7b5c274292870b70756e] or
+- (ac)[^c-0ac9aa4e4befaac7caf46f0583938ed1] he is a person in relation to whom a moratorium period under a debt relief order applies or he is the subject of a debt relief restrictions order ; or
 - (c) is disqualified from being a director of a company.
 
 ### 4. Coming into force of a scheme and amendments
@@ -179,8 +179,8 @@ A scheme administrator must accept any tenancy deposit offered to him under a sc
 
 Where a landlord safeguards a tenancy deposit in a scheme, he must:—
 
-- (a) within 28 days[^key-816e98b0e08898d0bd1d46b3958f4fa9] of receipt of the deposit furnish the information specified in paragraph 1 of Schedule 1, to the scheme administrator; and
-- (b) within 35 days[^key-9cf44d6bf9efd89d85957550b0c09d3d] of receipt of the deposit furnish the information specified in paragraph 3 of Schedule 1 to the tenant and any relevant person[^key-c821b2a00a50aae721b49a932776bad7] .
+- (a) within 28 days[^c-816e98b0e08898d0bd1d46b3958f4fa9] of receipt of the deposit furnish the information specified in paragraph 1 of Schedule 1, to the scheme administrator; and
+- (b) within 35 days[^c-9cf44d6bf9efd89d85957550b0c09d3d] of receipt of the deposit furnish the information specified in paragraph 3 of Schedule 1 to the tenant and any relevant person[^c-c821b2a00a50aae721b49a932776bad7] .
 
 ### 13. Protection of deposits in a scheme
 
@@ -491,7 +491,7 @@ The scheme administrator must ensure that the scheme is publicised across Northe
 - (c) the procedures governing the payment, holding and repayment of tenancy deposits in accordance with these Regulations; and
 - (d) the dispute resolution mechanism.
 
-(2) Where a scheme administrator furnishes an information leaflet to a landlord under regulation 13, that landlord shall furnish a copy of the leaflet to the tenant within 35 days[^key-4bcdfd763dfcd820517401eefae41a70] of receipt of the deposit as specified in Regulation 12.
+(2) Where a scheme administrator furnishes an information leaflet to a landlord under regulation 13, that landlord shall furnish a copy of the leaflet to the tenant within 35 days[^c-4bcdfd763dfcd820517401eefae41a70] of receipt of the deposit as specified in Regulation 12.
 
 ### 38. Duty to provide updated information
 
@@ -548,7 +548,7 @@ Department for Social Development
 
 Regulations 12, 13 & 37
 
-**1.** Written information must be supplied by the landlord to the scheme administrator [^key-db7b67af4862f34695502d9454a11c71]... detailing:—
+**1.** Written information must be supplied by the landlord to the scheme administrator [^c-db7b67af4862f34695502d9454a11c71]... detailing:—
 
 - (a) the amount of the deposit paid and the full address to which it relates, including the post code;
 - (b) the landlord's full name and date of birth;
@@ -569,7 +569,7 @@ Regulations 12, 13 & 37
 
 The scheme administrator must also provide to the landlord a copy of the information leaflet as described in regulation 37 for sharing with the tenant.
 
-**3.** Written information must be supplied by the landlord to their tenant and any relevant person (i.e. anyone who has paid the deposit on the tenant's behalf) [^key-5d8d1fdbd53dc247fdcf8266a11cdc1c]...and must detail:—
+**3.** Written information must be supplied by the landlord to their tenant and any relevant person (i.e. anyone who has paid the deposit on the tenant's behalf) [^c-5d8d1fdbd53dc247fdcf8266a11cdc1c]...and must detail:—
 
 - (a) the amount of the deposit protected and the full address to which it relates, including the postcode;
 - (b) the landlord's full name;
@@ -615,20 +615,20 @@ A Regulatory Impact Assessment has been prepared for these Regulations. Copies m
 
 [^M_F_d5fa64e3-d5e2-4fd4-b7cb-793d3dba054e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/373/regulation/1/2) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 50(2)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/50/2)
 
-[^key-4599b71155e0fd6221366ad197603a65]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/373/regulation/2) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 58(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/58/2)
+[^c-4599b71155e0fd6221366ad197603a65]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/373/regulation/2) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 58(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/58/2)
 
-[^key-30823551613c7b5c274292870b70756e]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/nisr/2012/373/regulation/3/2/b) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 50(3)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/50/3)
+[^c-30823551613c7b5c274292870b70756e]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/nisr/2012/373/regulation/3/2/b) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 50(3)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/50/3)
 
-[^key-0ac9aa4e4befaac7caf46f0583938ed1]: Textual amendment: [Reg. 3(2)(ac)](https://www.legislation.gov.uk/nisr/2012/373/regulation/3/2/ac) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 58(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/58/3)
+[^c-0ac9aa4e4befaac7caf46f0583938ed1]: Textual amendment: [Reg. 3(2)(ac)](https://www.legislation.gov.uk/nisr/2012/373/regulation/3/2/ac) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 58(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/58/3)
 
-[^key-816e98b0e08898d0bd1d46b3958f4fa9]: Textual amendment: Words in [reg. 12(a)](https://www.legislation.gov.uk/nisr/2012/373/regulation/12/a) substituted (1.4.2023) by [The Tenancy Deposit Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/18)](https://www.legislation.gov.uk/nisr/2023/18), [regs. 1](https://www.legislation.gov.uk/nisr/2023/18/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/nisr/2023/18/regulation/3/1/a)
+[^c-816e98b0e08898d0bd1d46b3958f4fa9]: Textual amendment: Words in [reg. 12(a)](https://www.legislation.gov.uk/nisr/2012/373/regulation/12/a) substituted (1.4.2023) by [The Tenancy Deposit Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/18)](https://www.legislation.gov.uk/nisr/2023/18), [regs. 1](https://www.legislation.gov.uk/nisr/2023/18/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/nisr/2023/18/regulation/3/1/a)
 
-[^key-9cf44d6bf9efd89d85957550b0c09d3d]: Textual amendment: Words in [reg. 12(b)](https://www.legislation.gov.uk/nisr/2012/373/regulation/12/b) substituted (1.4.2023) by [The Tenancy Deposit Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/18)](https://www.legislation.gov.uk/nisr/2023/18), [regs. 1](https://www.legislation.gov.uk/nisr/2023/18/regulation/1), [3(1)(b)(i)](https://www.legislation.gov.uk/nisr/2023/18/regulation/3/1/b/i)
+[^c-9cf44d6bf9efd89d85957550b0c09d3d]: Textual amendment: Words in [reg. 12(b)](https://www.legislation.gov.uk/nisr/2012/373/regulation/12/b) substituted (1.4.2023) by [The Tenancy Deposit Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/18)](https://www.legislation.gov.uk/nisr/2023/18), [regs. 1](https://www.legislation.gov.uk/nisr/2023/18/regulation/1), [3(1)(b)(i)](https://www.legislation.gov.uk/nisr/2023/18/regulation/3/1/b/i)
 
-[^key-c821b2a00a50aae721b49a932776bad7]: Textual amendment: Words in [reg. 12(b)](https://www.legislation.gov.uk/nisr/2012/373/regulation/12/b) inserted (1.4.2023) by [The Tenancy Deposit Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/18)](https://www.legislation.gov.uk/nisr/2023/18), [regs. 1](https://www.legislation.gov.uk/nisr/2023/18/regulation/1), [3(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/18/regulation/3/1/b/ii)
+[^c-c821b2a00a50aae721b49a932776bad7]: Textual amendment: Words in [reg. 12(b)](https://www.legislation.gov.uk/nisr/2012/373/regulation/12/b) inserted (1.4.2023) by [The Tenancy Deposit Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/18)](https://www.legislation.gov.uk/nisr/2023/18), [regs. 1](https://www.legislation.gov.uk/nisr/2023/18/regulation/1), [3(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/18/regulation/3/1/b/ii)
 
-[^key-4bcdfd763dfcd820517401eefae41a70]: Textual amendment: Words in [reg. 37(2)](https://www.legislation.gov.uk/nisr/2012/373/regulation/37/2) substituted (1.4.2023) by [The Tenancy Deposit Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/18)](https://www.legislation.gov.uk/nisr/2023/18), [regs. 1](https://www.legislation.gov.uk/nisr/2023/18/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2023/18/regulation/3/2)
+[^c-4bcdfd763dfcd820517401eefae41a70]: Textual amendment: Words in [reg. 37(2)](https://www.legislation.gov.uk/nisr/2012/373/regulation/37/2) substituted (1.4.2023) by [The Tenancy Deposit Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/18)](https://www.legislation.gov.uk/nisr/2023/18), [regs. 1](https://www.legislation.gov.uk/nisr/2023/18/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2023/18/regulation/3/2)
 
-[^key-db7b67af4862f34695502d9454a11c71]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2012/373/schedule/1/paragraph/1) omitted (1.4.2023) by virtue of [The Tenancy Deposit Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/18)](https://www.legislation.gov.uk/nisr/2023/18), [regs. 1](https://www.legislation.gov.uk/nisr/2023/18/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2023/18/regulation/3/3/a)
+[^c-db7b67af4862f34695502d9454a11c71]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2012/373/schedule/1/paragraph/1) omitted (1.4.2023) by virtue of [The Tenancy Deposit Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/18)](https://www.legislation.gov.uk/nisr/2023/18), [regs. 1](https://www.legislation.gov.uk/nisr/2023/18/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2023/18/regulation/3/3/a)
 
-[^key-5d8d1fdbd53dc247fdcf8266a11cdc1c]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2012/373/schedule/1/paragraph/3) omitted (1.4.2023) by virtue of [The Tenancy Deposit Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/18)](https://www.legislation.gov.uk/nisr/2023/18), [regs. 1](https://www.legislation.gov.uk/nisr/2023/18/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2023/18/regulation/3/3/b)
+[^c-5d8d1fdbd53dc247fdcf8266a11cdc1c]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2012/373/schedule/1/paragraph/3) omitted (1.4.2023) by virtue of [The Tenancy Deposit Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/18)](https://www.legislation.gov.uk/nisr/2023/18), [regs. 1](https://www.legislation.gov.uk/nisr/2023/18/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2023/18/regulation/3/3/b)

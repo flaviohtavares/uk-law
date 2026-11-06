@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Sexual Offences Act 2003 (Prescribed Police Stations) Regulations (Northern Ireland) 2016 (revoked)[^key-ef797b01e8c17cac65ca4ba05fba6211]
+The Sexual Offences Act 2003 (Prescribed Police Stations) Regulations (Northern Ireland) 2016 (revoked)[^c-ef797b01e8c17cac65ca4ba05fba6211]
 
 Made
 
@@ -42,27 +42,27 @@ Coming into operation
 
 21st November 2016
 
-[^key-ef797b01e8c17cac65ca4ba05fba6211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef797b01e8c17cac65ca4ba05fba6211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ef797b01e8c17cac65ca4ba05fba6211]
+## 1. Citation and commencement[^c-ef797b01e8c17cac65ca4ba05fba6211]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed police stations[^key-ef797b01e8c17cac65ca4ba05fba6211]
+## 2. Prescribed police stations[^c-ef797b01e8c17cac65ca4ba05fba6211]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-ef797b01e8c17cac65ca4ba05fba6211]
+## 3. Revocation[^c-ef797b01e8c17cac65ca4ba05fba6211]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ef797b01e8c17cac65ca4ba05fba6211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef797b01e8c17cac65ca4ba05fba6211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Police stations in Northern Ireland[^key-ef797b01e8c17cac65ca4ba05fba6211]
+## SCHEDULE — Police stations in Northern Ireland[^c-ef797b01e8c17cac65ca4ba05fba6211]
 
 Regulation 2
 
@@ -70,8 +70,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-ef797b01e8c17cac65ca4ba05fba6211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef797b01e8c17cac65ca4ba05fba6211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ef797b01e8c17cac65ca4ba05fba6211]: Textual amendment: Regulations revoked (30.6.2020) by [The Sexual Offences Act 2003 (Prescribed Police Stations) Regulations (Northern Ireland) 2020 (S.R. 2020/93)](https://www.legislation.gov.uk/nisr/2020/93), [regs. 1](https://www.legislation.gov.uk/nisr/2020/93/regulation/1), [3](https://www.legislation.gov.uk/nisr/2020/93/regulation/3)
+[^c-ef797b01e8c17cac65ca4ba05fba6211]: Textual amendment: Regulations revoked (30.6.2020) by [The Sexual Offences Act 2003 (Prescribed Police Stations) Regulations (Northern Ireland) 2020 (S.R. 2020/93)](https://www.legislation.gov.uk/nisr/2020/93), [regs. 1](https://www.legislation.gov.uk/nisr/2020/93/regulation/1), [3](https://www.legislation.gov.uk/nisr/2020/93/regulation/3)

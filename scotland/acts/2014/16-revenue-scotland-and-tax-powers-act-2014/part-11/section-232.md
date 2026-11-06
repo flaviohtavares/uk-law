@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 232. Overview[^key-96110635b17ad5ef92bc7ad401102da5]
+## 232. Overview[^c-96110635b17ad5ef92bc7ad401102da5]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ This Part makes provision about the review and appeal of certain decisions of Re
 
 ## Annotations
 
-[^key-96110635b17ad5ef92bc7ad401102da5]: Commencement: [S. 232](https://www.legislation.gov.uk/asp/2014/16/section/232) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-96110635b17ad5ef92bc7ad401102da5]: Commencement: [S. 232](https://www.legislation.gov.uk/asp/2014/16/section/232) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

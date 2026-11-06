@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. No double recovery[^key-e3422d77abc4fd9b2c618a4b9f66a239]
+## 20. No double recovery[^c-e3422d77abc4fd9b2c618a4b9f66a239]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Compensation is not payable in respect of the same matter both under this Order 
 
 ## Annotations
 
-[^key-e3422d77abc4fd9b2c618a4b9f66a239]: Commencement: Art. 20 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-e3422d77abc4fd9b2c618a4b9f66a239]: Commencement: Art. 20 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)

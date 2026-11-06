@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240. Commencement and transitional provision[^key-cdfd29a93d66fdea3055313ed589ebf6]
+## 240. Commencement and transitional provision[^c-cdfd29a93d66fdea3055313ed589ebf6]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdfd29a93d66fdea3055313ed589ebf6]: Commencement: S. 240 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)
+[^c-cdfd29a93d66fdea3055313ed589ebf6]: Commencement: S. 240 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)

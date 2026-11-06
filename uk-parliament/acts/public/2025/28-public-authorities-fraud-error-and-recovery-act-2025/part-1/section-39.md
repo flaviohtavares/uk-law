@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Deduction from earnings orders[^key-88970d284a6805ed09718cbe4b2f74d0][^key-2fa9ce15c1d50d86225ca3fa2d756a22]
+## 39. Deduction from earnings orders[^c-88970d284a6805ed09718cbe4b2f74d0][^c-2fa9ce15c1d50d86225ca3fa2d756a22]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-88970d284a6805ed09718cbe4b2f74d0]: Commencement: S. 39 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-88970d284a6805ed09718cbe4b2f74d0]: Commencement: S. 39 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
 
-[^key-2fa9ce15c1d50d86225ca3fa2d756a22]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2025/28/section/39) in force at 1.4.2026 in so far as not already in force by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-2fa9ce15c1d50d86225ca3fa2d756a22]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2025/28/section/39) in force at 1.4.2026 in so far as not already in force by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

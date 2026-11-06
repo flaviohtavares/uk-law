@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — STANDARD RULES ON EMPLOYEE INVOLVEMENT[^key-d0b61e3bb03433309d4788e4314080f5]
+## SCHEDULE 3 — STANDARD RULES ON EMPLOYEE INVOLVEMENT[^c-d0b61e3bb03433309d4788e4314080f5]
 
 *Extent: E+W+S*
 
@@ -24,28 +24,28 @@ summary: ''
 
 Regulation 32
 
-### Part 1: Composition of the representative body[^key-d0b61e3bb03433309d4788e4314080f5]
+### Part 1: Composition of the representative body[^c-d0b61e3bb03433309d4788e4314080f5]
 
-[^key-d0b61e3bb03433309d4788e4314080f5]
+[^c-d0b61e3bb03433309d4788e4314080f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d0b61e3bb03433309d4788e4314080f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d0b61e3bb03433309d4788e4314080f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d0b61e3bb03433309d4788e4314080f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d0b61e3bb03433309d4788e4314080f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d0b61e3bb03433309d4788e4314080f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d0b61e3bb03433309d4788e4314080f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d0b61e3bb03433309d4788e4314080f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d0b61e3bb03433309d4788e4314080f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 2: Standard rules for information and consultation[^key-d0b61e3bb03433309d4788e4314080f5]
+### Part 2: Standard rules for information and consultation[^c-d0b61e3bb03433309d4788e4314080f5]
 
-**6.**[^key-d0b61e3bb03433309d4788e4314080f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d0b61e3bb03433309d4788e4314080f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 3: Standard rules for participation[^key-d0b61e3bb03433309d4788e4314080f5]
+### Part 3: Standard rules for participation[^c-d0b61e3bb03433309d4788e4314080f5]
 
-**7.**[^key-d0b61e3bb03433309d4788e4314080f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-d0b61e3bb03433309d4788e4314080f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d0b61e3bb03433309d4788e4314080f5]: Textual amendment: Sch. 3 omitted (1.10.2009) by virtue of [The European Public Limited-Liability Company (Amendment) Regulations 2009 (S.I. 2009/2400)](https://www.legislation.gov.uk/uksi/2009/2400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2400/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2009/2400/regulation/39) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/2400/regulation/2))
+[^c-d0b61e3bb03433309d4788e4314080f5]: Textual amendment: Sch. 3 omitted (1.10.2009) by virtue of [The European Public Limited-Liability Company (Amendment) Regulations 2009 (S.I. 2009/2400)](https://www.legislation.gov.uk/uksi/2009/2400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2400/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2009/2400/regulation/39) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/2400/regulation/2))

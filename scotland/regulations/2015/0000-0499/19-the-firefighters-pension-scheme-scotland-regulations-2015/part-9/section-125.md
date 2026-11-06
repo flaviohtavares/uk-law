@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 125. Statement of entitlement[^key-95475f16691582e1a0d6a6066832065e]
+## 125. Statement of entitlement[^c-95475f16691582e1a0d6a6066832065e]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95475f16691582e1a0d6a6066832065e]: Commencement: [Reg. 125](https://www.legislation.gov.uk/ssi/2015/19/regulation/125) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-95475f16691582e1a0d6a6066832065e]: Commencement: [Reg. 125](https://www.legislation.gov.uk/ssi/2015/19/regulation/125) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

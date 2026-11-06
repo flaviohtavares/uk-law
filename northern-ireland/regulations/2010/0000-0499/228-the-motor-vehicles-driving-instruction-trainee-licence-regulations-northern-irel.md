@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of the Environment makes the following Regulations, in exercise of the powers conferred upon it by Articles 132(2)[^f00001], 135 and 218(1) of the Road Traffic (Northern Ireland) Order 1981[^f00002]:
 
-## 1. Citation and commencement[^key-71f5e590b673049f02bbbd72fb59d4da]
+## 1. Citation and commencement[^c-71f5e590b673049f02bbbd72fb59d4da]
 
 These Regulations may be cited as the Motor Vehicles (Driving Instruction)(Trainee Licence) Regulations (Northern Ireland) 2010 and shall come into operation on 2<sup>nd</sup> August 2010.
 
-## 2. Interpretation[^key-ffbf51174a8c5cf80eea12c793fd01ba]
+## 2. Interpretation[^c-ffbf51174a8c5cf80eea12c793fd01ba]
 
 In these Regulations
 
@@ -77,13 +77,13 @@ In these Regulations
 
 ## PART 1 — TRAINEE LICENCE SCHEME
 
-### 3. Application for a trainee licence[^key-981daa5f2ac2dc45f79ee965989b9336]
+### 3. Application for a trainee licence[^c-981daa5f2ac2dc45f79ee965989b9336]
 
 (1) An application for a trainee licence shall be made in such form and contain such information as the Department may determine.
 
 (2) A person shall be deemed to have made an application on the date that his application and the fee prescribed by these Regulations are received by the Registrar.
 
-### 4. Trainee licence[^key-cd43fa4666353e6fb2ad4ac72cffeffe]
+### 4. Trainee licence[^c-cd43fa4666353e6fb2ad4ac72cffeffe]
 
 (1) An applicant for a trainee licence shall apply to the Registrar who, subject to regulation 5, shall grant a licence on being satisfied that the applicant—
 
@@ -96,17 +96,17 @@ In these Regulations
 - (g) has not failed the instructional ability and fitness test more than twice since he passed the theory test; and
 - (h) submits with his application for a licence the name, address and registration number of the approved driving instructor who has consented to take responsibility for his supervision in accordance with regulation 7(3) (and the counter-signature of the application by that approved driving instructor shall be taken as sufficient evidence of such consent).
 
-(1A)[^key-59e8ff12908aee1476baa2e62c387257] Notwithstanding paragraph (1)(f), an applicant for a trainee licence may make the application within three years after passing the theory test where the two year period would otherwise have expired or would otherwise expire between 31<sup>st</sup> May 2020 and 31<sup>st</sup> August 2021.
+(1A)[^c-59e8ff12908aee1476baa2e62c387257] Notwithstanding paragraph (1)(f), an applicant for a trainee licence may make the application within three years after passing the theory test where the two year period would otherwise have expired or would otherwise expire between 31<sup>st</sup> May 2020 and 31<sup>st</sup> August 2021.
 
 (2) The Registrar shall also be satisfied that the approved driving instructor referred to in paragraph (1)(h) is fit and able to undertake responsibility for the supervision, and in determining whether or not he is able to undertake that responsibility the Registrar shall have regard to the number of licence holders in respect of whom he has already consented to undertake similar responsibility.
 
-### 5. Refusal to grant a trainee licence[^key-ca99ffa851f988ee7eccee91eb5a9917]
+### 5. Refusal to grant a trainee licence[^c-ca99ffa851f988ee7eccee91eb5a9917]
 
 (1) The Registrar may refuse to grant a trainee licence to an applicant to whom two or more such trainee licences have previously been issued.
 
 (2) Where the Registrar refuses to grant a trainee licence under regulation 4 or paragraph (1) he shall give written notice of the decision to the applicant and shall state the grounds for the refusal.
 
-### 6. Duration of trainee licence[^key-db89a004e93f2bf53463a555c9bee9fe]
+### 6. Duration of trainee licence[^c-db89a004e93f2bf53463a555c9bee9fe]
 
 (1) Subject to paragraph (2) and regulation 7 a trainee licence shall remain in force until—
 
@@ -118,7 +118,7 @@ In these Regulations
 - (a) the commencement of the new trainee licence; or
 - (b) if the Registrar decides to refuse the application, until the time limited for an appeal under regulation 12 against the decision has expired and, if such an appeal is duly brought, it is finally disposed of.
 
-### 7. Conditions subject to which trainee licences are granted[^key-abdbbe5fa5b4ba2a3f1424f91d6c0b42]
+### 7. Conditions subject to which trainee licences are granted[^c-abdbbe5fa5b4ba2a3f1424f91d6c0b42]
 
 (1) A trainee licence shall be granted subject to such of the conditions specified in paragraphs (2) to (4) as apply to it.
 
@@ -127,12 +127,12 @@ In these Regulations
 - (a) for one-fifth of the total time he spends giving instruction in the driving of a motor car, receive direct supervision from an approved driving instructor present with him in the car;
 - (b) maintain, for each working day while the licence is in force, a record in the form specified in Schedule 1 of the time he spends giving such instruction;
 - (c) sign the record at the end of every working day and, if he has received supervision from an approved driving instructor on any day, ensure that the instructor also signs the record for that day;
-- (d) produce on request, for examination by a person authorised by the Registrar in that behalf, all the records maintained under sub-paragraph (b) during the period ending on the day before the date of the request and further, if required to do so, deliver those records to such a person for retention by him; [^key-da3513d4dcd47ec94799adc41ab9b35f]...
+- (d) produce on request, for examination by a person authorised by the Registrar in that behalf, all the records maintained under sub-paragraph (b) during the period ending on the day before the date of the request and further, if required to do so, deliver those records to such a person for retention by him; [^c-da3513d4dcd47ec94799adc41ab9b35f]...
 - (e) not later than seven days after the expiry of the trainee licence, deliver to a person authorised by the Registrar in that behalf all the records maintained under sub-paragraph (b) during the period when the trainee licence was in force, other than such records as have been delivered under sub-paragraph (d) and not returned to him.
-- (f)[^key-a2e806e3d355bca21023710b6143ef04] at all times when acting in accordance with these Regulations, wear the trainee licence or display the trainee licence in the motor car in such position and manner as to be plainly and distinctly visible; and
+- (f)[^c-a2e806e3d355bca21023710b6143ef04] at all times when acting in accordance with these Regulations, wear the trainee licence or display the trainee licence in the motor car in such position and manner as to be plainly and distinctly visible; and
 - (g) not later that fourteen days after the expiry of the trainee licence, deliver said trainee licence to the person authorised by the Registrar in that behalf.
 
-(3)[^key-388b944bacdde3eefe4dac4982a2001c] The holder may give instruction in the driving of a motor car—
+(3)[^c-388b944bacdde3eefe4dac4982a2001c] The holder may give instruction in the driving of a motor car—
 
 - (a) only on behalf of the approved driving instructor identified in the trainee licence; and
 - (b) where the driving ability and fitness test has been passed in a motor car with an automatic transmission, instruction can only be given in motor cars fitted with automatic transmission.
@@ -143,7 +143,7 @@ In these Regulations
 
 - “working day” means any day during which the licence holder gives paid instruction in the driving of a motor car.
 
-### 8. Revocation of licence[^key-5bd8a5f3039c40cbbb8ee9c16125d471]
+### 8. Revocation of licence[^c-5bd8a5f3039c40cbbb8ee9c16125d471]
 
 (1) The Registrar may revoke a licence at any time during the currency of the said trainee licence if he is satisfied that the trainee licence holder—
 
@@ -157,7 +157,7 @@ In these Regulations
 
 ## PART 2 — INSTRUCTIONAL ABILITY TEST
 
-### 9. Instructional ability and fitness test[^key-52765298f7c8ac546abb87f780ddd046]
+### 9. Instructional ability and fitness test[^c-52765298f7c8ac546abb87f780ddd046]
 
 (1) The instructional ability and fitness test shall be a test in which the candidate is required to demonstrate his knowledge and ability by giving practical driving instruction to an examiner as specified in paragraph (2), as if the examiner were—
 
@@ -193,7 +193,7 @@ In these Regulations
 - (a) the person authorised to conduct the test; and
 - (b) any person or persons authorised by the Department for the purpose of supervising the test or otherwise.
 
-### 10. Motor car to be provided for practical part of examination[^key-2cb24562faad330611be9632eb72c071]
+### 10. Motor car to be provided for practical part of examination[^c-2cb24562faad330611be9632eb72c071]
 
 (1) A candidate for the instructional ability and fitness test shall provide, at his own expense, a motor car for the purposes of that test, in respect of which the following conditions are satisfied.
 
@@ -202,7 +202,7 @@ In these Regulations
 - (a) constructed solely for the carriage of passengers and their effects and fitted with a rigid roof, with or without a sliding panel; or
 - (b) a dual purpose vehicle as defined in Article 2(2) of the Order of 1981.
 
-(3) Subject to paragraph (3A), the motor car must[^key-6b1757c67dfdd61248832b7bb6ef385e]—
+(3) Subject to paragraph (3A), the motor car must[^c-6b1757c67dfdd61248832b7bb6ef385e]—
 
 - (a) have a readily adjustable driving seat and a seat for a forward-facing front passenger;
 - (b) have a steering wheel on its off-side;
@@ -213,7 +213,7 @@ In these Regulations
 - (g) be fitted with an interior rear-view mirror providing adequate rearward vision from the front passenger seat; and
 - (h) be otherwise suitable for the purposes of the test.
 
-(3A)[^key-7affa5adacf415ef1a228c76fb7b1065] The requirements in paragraph (3)(c) shall not apply where the Registrar is satisfied that the candidate has a disabled person’s limited driving licence.
+(3A)[^c-7affa5adacf415ef1a228c76fb7b1065] The requirements in paragraph (3)(c) shall not apply where the Registrar is satisfied that the candidate has a disabled person’s limited driving licence.
 
 (4) In the case of a vehicle provided for the purposes of an instructional ability and fitness test, there must be in force in relation to the use of the vehicle a policy of insurance that—
 
@@ -223,7 +223,7 @@ In these Regulations
 
 and throughout the test there shall be displayed in a conspicuous manner on the front and on the back of the vehicle distinguishing marks in the form referred to in regulation 12(1)(b) of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996.
 
-(5)[^key-30e0baaaf6b3e8246aa7035d84c8db47] In this regulation—
+(5)[^c-30e0baaaf6b3e8246aa7035d84c8db47] In this regulation—
 
 - “disabled person’s limited driving licence” means a licence of one of the following kinds—
   - (a) a licence to drive a vehicle granted under Part II of the Order of 1981 (not being a provisional licence within the meaning of Part II of that Order) which is limited, by virtue of a notice served under Article 9(5)(b) of that Order, to a motor vehicle equipped with automatic transmission;
@@ -232,7 +232,7 @@ and throughout the test there shall be displayed in a conspicuous manner on the 
 
 ## PART 3 — SUPPLEMENTARY
 
-### 11. Decisions[^key-84fcea63d01e30e014f4e993d0a805fc]
+### 11. Decisions[^c-84fcea63d01e30e014f4e993d0a805fc]
 
 A decision of the Registrar under regulation 8 shall take effect—
 
@@ -240,7 +240,7 @@ A decision of the Registrar under regulation 8 shall take effect—
 - (b) where such an appeal is brought and is withdrawn or struck out for want of prosecution, on the withdrawal or striking out of the appeal;
 - (c) where such an appeal is brought and not withdrawn or struck out as aforesaid, if and when the appeal is dismissed, and not otherwise.
 
-### 12. Appeals[^key-85f75fb2f558ebccbd1d0718b0ff131a]
+### 12. Appeals[^c-85f75fb2f558ebccbd1d0718b0ff131a]
 
 A person who is aggrieved by a decision of the Registrar—
 
@@ -249,13 +249,13 @@ A person who is aggrieved by a decision of the Registrar—
 
 may by notice in writing appeal to the Department within a period of fourteen days from the date of the notice of the decision or such longer period as the Department may in special circumstances allow, and the Department may make such determination as it thinks fit having regard to the circumstances.
 
-### 13. Fees[^key-fc2daf8e7c28554bd01f6e79fe6a7cc1]
+### 13. Fees[^c-fc2daf8e7c28554bd01f6e79fe6a7cc1]
 
 (1) The fee to be paid by a person applying for a trainee licence or a renewal thereof shall be £120.
 
 (2) The fee to be paid by a person applying for the instructional ability and fitness test shall be £138.
 
-### 14. Repayment of fees[^key-610fe92361349144c434181ea6fc78f4]
+### 14. Repayment of fees[^c-610fe92361349144c434181ea6fc78f4]
 
 (1) The fee paid in pursuance of regulation 13(2) shall be repaid—
 
@@ -266,11 +266,11 @@ may by notice in writing appeal to the Department within a period of fourteen da
 
 (2) In this regulation “exceptional circumstances” means an accident, a fire, a failure in the supply of essential services or other unexpected happening (excluding a breakdown or mechanical defect in a vehicle or non-delivery of spare parts therefor).
 
-### 15. Form of licence[^key-f8a6b63e326988e8b508dde298429a54]
+### 15. Form of licence[^c-f8a6b63e326988e8b508dde298429a54]
 
 A licence shall be in the form set out in Schedule 2.
 
-### 16. Revocations[^key-0ea4faf8205ba0e5c29da997969bfb51]
+### 16. Revocations[^c-0ea4faf8205ba0e5c29da997969bfb51]
 
 Regulations 16 to 22 of, and Schedule 1 to, the Motor Cars (Driving Instruction) Regulations (Northern Ireland) 2004[^f00007] and regulations 1 and 2 of those Regulations in so far as they relate to the provisions aforesaid are revoked.
 
@@ -286,13 +286,13 @@ Department of the Environment
 
 Regulation 7(2)(b)
 
-**1.**[^key-62cc437991e4653a16d1b8ae886a185b] The name and address of the holder of the licence.
+**1.**[^c-62cc437991e4653a16d1b8ae886a185b] The name and address of the holder of the licence.
 
-**2.**[^key-c1b4cb21dbf0bbc26141706c8d2c7ed9] The number of the licence.
+**2.**[^c-c1b4cb21dbf0bbc26141706c8d2c7ed9] The number of the licence.
 
-**3.**[^key-4a90a89273c1a4d666dc7db61158673a] The name and address of the approved driving instructor responsible for supervision of the licence holder.
+**3.**[^c-4a90a89273c1a4d666dc7db61158673a] The name and address of the approved driving instructor responsible for supervision of the licence holder.
 
-**4.**[^key-171586d2b71f7c7093a24b45f79f944b] In respect of each working day -
+**4.**[^c-171586d2b71f7c7093a24b45f79f944b] In respect of each working day -
 
 - (a) the date;
 - (b) the total number of hours spent giving instruction from the establishment;
@@ -300,7 +300,7 @@ Regulation 7(2)(b)
 - (d) the signature of the holder of the licence; and
 - (e) the counter-signature of the person referred to in paragraph (3) of regulation 7.
 
-## SCHEDULE 2 — FORM OF LICENCE[^key-d0907400f58a2f0273f78025c37b40ec]
+## SCHEDULE 2 — FORM OF LICENCE[^c-d0907400f58a2f0273f78025c37b40ec]
 
 Regulation 15
 
@@ -318,9 +318,9 @@ These Regulations revoke and reenact those provisions of the Motor Cars (Driving
 
 [^f00002]: Footnote: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154)
 
-[^key-71f5e590b673049f02bbbd72fb59d4da]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-71f5e590b673049f02bbbd72fb59d4da]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
 
-[^key-ffbf51174a8c5cf80eea12c793fd01ba]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/228/regulation/2) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-ffbf51174a8c5cf80eea12c793fd01ba]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/228/regulation/2) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2010 No. 227](https://www.legislation.gov.uk/nisr/2010/227)
 
@@ -328,58 +328,58 @@ These Regulations revoke and reenact those provisions of the Motor Cars (Driving
 
 [^f00005]: Footnote: [S.I 2007/916 (N.I. 10)](https://www.legislation.gov.uk/nisi/2007/916)
 
-[^key-981daa5f2ac2dc45f79ee965989b9336]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/228/regulation/3) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-981daa5f2ac2dc45f79ee965989b9336]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/228/regulation/3) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
 
-[^key-cd43fa4666353e6fb2ad4ac72cffeffe]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/228/regulation/4) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-cd43fa4666353e6fb2ad4ac72cffeffe]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/228/regulation/4) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
 
-[^key-59e8ff12908aee1476baa2e62c387257]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/nisr/2010/228/regulation/4/1A) inserted (31.5.2021) by [The Motor Vehicles (Driving Instruction) (Trainee Licence) (Amendment) (Coronavirus) Regulations (Northern Ireland) 2021 (S.R. 2021/136)](https://www.legislation.gov.uk/nisr/2021/136), [regs. 1](https://www.legislation.gov.uk/nisr/2021/136/regulation/1), [2](https://www.legislation.gov.uk/nisr/2021/136/regulation/2)
+[^c-59e8ff12908aee1476baa2e62c387257]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/nisr/2010/228/regulation/4/1A) inserted (31.5.2021) by [The Motor Vehicles (Driving Instruction) (Trainee Licence) (Amendment) (Coronavirus) Regulations (Northern Ireland) 2021 (S.R. 2021/136)](https://www.legislation.gov.uk/nisr/2021/136), [regs. 1](https://www.legislation.gov.uk/nisr/2021/136/regulation/1), [2](https://www.legislation.gov.uk/nisr/2021/136/regulation/2)
 
-[^key-ca99ffa851f988ee7eccee91eb5a9917]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/228/regulation/5) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-ca99ffa851f988ee7eccee91eb5a9917]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/228/regulation/5) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
 
-[^key-db89a004e93f2bf53463a555c9bee9fe]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/228/regulation/6) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-db89a004e93f2bf53463a555c9bee9fe]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/228/regulation/6) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
 
-[^key-abdbbe5fa5b4ba2a3f1424f91d6c0b42]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2010/228/regulation/7) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-abdbbe5fa5b4ba2a3f1424f91d6c0b42]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2010/228/regulation/7) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
 
-[^key-da3513d4dcd47ec94799adc41ab9b35f]: Textual amendment: Word in [reg. 7(2)(d)](https://www.legislation.gov.uk/nisr/2010/228/regulation/7/2) omitted (28.2.2015) by virtue of [The Motor Vehicles (Driving Instruction) (Trainee Licence) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/4)](https://www.legislation.gov.uk/nisr/2015/4), [regs. 1](https://www.legislation.gov.uk/nisr/2015/4/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/nisr/2015/4/regulation/2/2/a/i)
+[^c-da3513d4dcd47ec94799adc41ab9b35f]: Textual amendment: Word in [reg. 7(2)(d)](https://www.legislation.gov.uk/nisr/2010/228/regulation/7/2) omitted (28.2.2015) by virtue of [The Motor Vehicles (Driving Instruction) (Trainee Licence) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/4)](https://www.legislation.gov.uk/nisr/2015/4), [regs. 1](https://www.legislation.gov.uk/nisr/2015/4/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/nisr/2015/4/regulation/2/2/a/i)
 
-[^key-a2e806e3d355bca21023710b6143ef04]: Textual amendment: [Reg. 7(2)(f)(g)](https://www.legislation.gov.uk/nisr/2010/228/regulation/7/2/f) added (28.2.2015) by [The Motor Vehicles (Driving Instruction) (Trainee Licence) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/4)](https://www.legislation.gov.uk/nisr/2015/4), [regs. 1](https://www.legislation.gov.uk/nisr/2015/4/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2015/4/regulation/2/2/a/ii)
+[^c-a2e806e3d355bca21023710b6143ef04]: Textual amendment: [Reg. 7(2)(f)(g)](https://www.legislation.gov.uk/nisr/2010/228/regulation/7/2/f) added (28.2.2015) by [The Motor Vehicles (Driving Instruction) (Trainee Licence) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/4)](https://www.legislation.gov.uk/nisr/2015/4), [regs. 1](https://www.legislation.gov.uk/nisr/2015/4/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2015/4/regulation/2/2/a/ii)
 
-[^key-388b944bacdde3eefe4dac4982a2001c]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/nisr/2010/228/regulation/7/3) substituted (28.2.2015) by [The Motor Vehicles (Driving Instruction) (Trainee Licence) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/4)](https://www.legislation.gov.uk/nisr/2015/4), [regs. 1](https://www.legislation.gov.uk/nisr/2015/4/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2015/4/regulation/2/2/b)
+[^c-388b944bacdde3eefe4dac4982a2001c]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/nisr/2010/228/regulation/7/3) substituted (28.2.2015) by [The Motor Vehicles (Driving Instruction) (Trainee Licence) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/4)](https://www.legislation.gov.uk/nisr/2015/4), [regs. 1](https://www.legislation.gov.uk/nisr/2015/4/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2015/4/regulation/2/2/b)
 
-[^key-5bd8a5f3039c40cbbb8ee9c16125d471]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2010/228/regulation/8) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-5bd8a5f3039c40cbbb8ee9c16125d471]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2010/228/regulation/8) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
 
-[^key-52765298f7c8ac546abb87f780ddd046]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2010/228/regulation/9) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-52765298f7c8ac546abb87f780ddd046]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2010/228/regulation/9) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
 
-[^key-2cb24562faad330611be9632eb72c071]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2010/228/regulation/10) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-2cb24562faad330611be9632eb72c071]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2010/228/regulation/10) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
 
-[^key-6b1757c67dfdd61248832b7bb6ef385e]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/nisr/2010/228/regulation/10/3) substituted (28.2.2015) by [The Motor Vehicles (Driving Instruction) (Trainee Licence) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/4)](https://www.legislation.gov.uk/nisr/2015/4), [regs. 1](https://www.legislation.gov.uk/nisr/2015/4/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2015/4/regulation/2/3/a)
+[^c-6b1757c67dfdd61248832b7bb6ef385e]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/nisr/2010/228/regulation/10/3) substituted (28.2.2015) by [The Motor Vehicles (Driving Instruction) (Trainee Licence) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/4)](https://www.legislation.gov.uk/nisr/2015/4), [regs. 1](https://www.legislation.gov.uk/nisr/2015/4/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2015/4/regulation/2/3/a)
 
 [^f00006]: Footnote: Council Directive of 16 October 1978 on the approximation of laws relating to head restraints of seats of motor vehicles (O.J. No. L325,20.11.78, p.1)
 
-[^key-7affa5adacf415ef1a228c76fb7b1065]: Textual amendment: [Reg. 10(3A)](https://www.legislation.gov.uk/nisr/2010/228/regulation/10/3A) inserted (28.2.2015) by [The Motor Vehicles (Driving Instruction) (Trainee Licence) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/4)](https://www.legislation.gov.uk/nisr/2015/4), [regs. 1](https://www.legislation.gov.uk/nisr/2015/4/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2015/4/regulation/2/3/b)
+[^c-7affa5adacf415ef1a228c76fb7b1065]: Textual amendment: [Reg. 10(3A)](https://www.legislation.gov.uk/nisr/2010/228/regulation/10/3A) inserted (28.2.2015) by [The Motor Vehicles (Driving Instruction) (Trainee Licence) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/4)](https://www.legislation.gov.uk/nisr/2015/4), [regs. 1](https://www.legislation.gov.uk/nisr/2015/4/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2015/4/regulation/2/3/b)
 
-[^key-30e0baaaf6b3e8246aa7035d84c8db47]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/nisr/2010/228/regulation/10/5) added (28.2.2015) by [The Motor Vehicles (Driving Instruction) (Trainee Licence) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/4)](https://www.legislation.gov.uk/nisr/2015/4), [regs. 1](https://www.legislation.gov.uk/nisr/2015/4/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2015/4/regulation/2/3/c)
+[^c-30e0baaaf6b3e8246aa7035d84c8db47]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/nisr/2010/228/regulation/10/5) added (28.2.2015) by [The Motor Vehicles (Driving Instruction) (Trainee Licence) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/4)](https://www.legislation.gov.uk/nisr/2015/4), [regs. 1](https://www.legislation.gov.uk/nisr/2015/4/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2015/4/regulation/2/3/c)
 
-[^key-84fcea63d01e30e014f4e993d0a805fc]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2010/228/regulation/11) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-84fcea63d01e30e014f4e993d0a805fc]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2010/228/regulation/11) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
 
-[^key-85f75fb2f558ebccbd1d0718b0ff131a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2010/228/regulation/12) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-85f75fb2f558ebccbd1d0718b0ff131a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2010/228/regulation/12) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
 
-[^key-fc2daf8e7c28554bd01f6e79fe6a7cc1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2010/228/regulation/13) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-fc2daf8e7c28554bd01f6e79fe6a7cc1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2010/228/regulation/13) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
 
-[^key-610fe92361349144c434181ea6fc78f4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2010/228/regulation/14) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-610fe92361349144c434181ea6fc78f4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2010/228/regulation/14) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
 
-[^key-f8a6b63e326988e8b508dde298429a54]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2010/228/regulation/15) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-f8a6b63e326988e8b508dde298429a54]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2010/228/regulation/15) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
 
-[^key-0ea4faf8205ba0e5c29da997969bfb51]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2010/228/regulation/16) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-0ea4faf8205ba0e5c29da997969bfb51]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2010/228/regulation/16) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
 
 [^f00007]: Footnote: [S.R. 2004 No. 179](https://www.legislation.gov.uk/nisr/2004/179)
 
-[^key-62cc437991e4653a16d1b8ae886a185b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2010/228/schedule/1/paragraph/1) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-62cc437991e4653a16d1b8ae886a185b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2010/228/schedule/1/paragraph/1) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
 
-[^key-c1b4cb21dbf0bbc26141706c8d2c7ed9]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2010/228/schedule/1/paragraph/2) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-c1b4cb21dbf0bbc26141706c8d2c7ed9]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2010/228/schedule/1/paragraph/2) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
 
-[^key-4a90a89273c1a4d666dc7db61158673a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2010/228/schedule/1/paragraph/3) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-4a90a89273c1a4d666dc7db61158673a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2010/228/schedule/1/paragraph/3) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
 
-[^key-171586d2b71f7c7093a24b45f79f944b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2010/228/schedule/1/paragraph/4) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-171586d2b71f7c7093a24b45f79f944b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2010/228/schedule/1/paragraph/4) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
 
-[^key-d0907400f58a2f0273f78025c37b40ec]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2010/228/schedule/2) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)
+[^c-d0907400f58a2f0273f78025c37b40ec]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2010/228/schedule/2) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1)

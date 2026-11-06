@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Dynamic Purchasing Systems[^key-684003b78436bc517edae8522c2bc1ff]
+## 50. Dynamic Purchasing Systems[^c-684003b78436bc517edae8522c2bc1ff]
 
 *Extent: S*
 
@@ -43,8 +43,8 @@ summary: ''
 (8) The minimum time period for receipt of requests to participate—
 
 - (a) other than in exceptional circumstances, shall be 30 days from the date on which—
-  - (i) the contract notice is submitted[^key-6adb1937f118a22fcf88390c9b09a68a] for publication; [^key-5d07084e032c99946da0ae76a85dde9d]...
-  - (ii)[^key-5d07084e032c99946da0ae76a85dde9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) the contract notice is submitted[^c-6adb1937f118a22fcf88390c9b09a68a] for publication; [^c-5d07084e032c99946da0ae76a85dde9d]...
+  - (ii)[^c-5d07084e032c99946da0ae76a85dde9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) shall, in any event, be 15 days from such date.
 
 (9) No further time limits for receipt of requests to participate shall apply once the invitation to tender for the first specific procurement under the dynamic purchasing system has been sent.
@@ -81,16 +81,16 @@ summary: ''
 (21) A utility must award the contract to the tenderer that submitted the most economically advantageous tender on the basis of the award criteria set out in—
 
 - (a) the contract notice for the dynamic purchasing system;
-- (b)[^key-abf11d67d170d12b0f46e8f65eb8c780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-abf11d67d170d12b0f46e8f65eb8c780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) where a notice on the existence of a qualification system is used as a means of calling for competition, in the invitation to tender.
 
 (22) For the purposes of paragraph (21), those criteria, where appropriate, may be formulated more precisely in the invitation to tender.
 
-(23) A utility which, in accordance with regulation 78 (use of exclusion grounds and selection criteria provided for under the Public Contracts (Scotland) Regulations), applies exclusion grounds and selection criteria provided for under the Public Contracts (Scotland) Regulations may, at any time throughout the period of validity of the dynamic purchasing system, require admitted participants to submit a renewed SPD[^key-b0032958fce6cac43d3fcc2216391fec] as provided for in regulation 60(1) of those Regulations within 5 working days from the date on which that request is transmitted.
+(23) A utility which, in accordance with regulation 78 (use of exclusion grounds and selection criteria provided for under the Public Contracts (Scotland) Regulations), applies exclusion grounds and selection criteria provided for under the Public Contracts (Scotland) Regulations may, at any time throughout the period of validity of the dynamic purchasing system, require admitted participants to submit a renewed SPD[^c-b0032958fce6cac43d3fcc2216391fec] as provided for in regulation 60(1) of those Regulations within 5 working days from the date on which that request is transmitted.
 
 (24) Regulation 60(7) to (10) of the Public Contracts (Scotland) Regulations applies throughout the period of validity of the dynamic purchasing system.
 
-(25)[^key-9f6328185069f120c2a4ad784db4b5d9] Where the period of validity is changed without terminating the dynamic purchasing system, the utility must submit for publication on the UK e-notification service a notice of the kind used initially for the call for competition for the dynamic purchasing system.
+(25)[^c-9f6328185069f120c2a4ad784db4b5d9] Where the period of validity is changed without terminating the dynamic purchasing system, the utility must submit for publication on the UK e-notification service a notice of the kind used initially for the call for competition for the dynamic purchasing system.
 
 (25A) Where a dynamic purchasing system is terminated before the end of the period of validity that had most recently been indicated under paragraph (20)(a)(ii) or (25), the utility must submit for publication on the UK e-notification service a contract award notice under regulation 68.
 
@@ -100,14 +100,14 @@ summary: ''
 
 ## Annotations
 
-[^key-684003b78436bc517edae8522c2bc1ff]: Commencement: [Reg. 50](https://www.legislation.gov.uk/ssi/2016/49/regulation/50) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-684003b78436bc517edae8522c2bc1ff]: Commencement: [Reg. 50](https://www.legislation.gov.uk/ssi/2016/49/regulation/50) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
-[^key-6adb1937f118a22fcf88390c9b09a68a]: Textual amendment: Word in [reg. 50(8)(a)(i)](https://www.legislation.gov.uk/ssi/2016/49/regulation/50/8/a/i) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(33)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/33/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-6adb1937f118a22fcf88390c9b09a68a]: Textual amendment: Word in [reg. 50(8)(a)(i)](https://www.legislation.gov.uk/ssi/2016/49/regulation/50/8/a/i) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(33)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/33/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-5d07084e032c99946da0ae76a85dde9d]: Textual amendment: [Reg. 50(8)(a)(ii)](https://www.legislation.gov.uk/ssi/2016/49/regulation/50/8/a/ii) and word omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(12)(a)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/12/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+[^c-5d07084e032c99946da0ae76a85dde9d]: Textual amendment: [Reg. 50(8)(a)(ii)](https://www.legislation.gov.uk/ssi/2016/49/regulation/50/8/a/ii) and word omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(12)(a)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/12/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
 
-[^key-abf11d67d170d12b0f46e8f65eb8c780]: Textual amendment: [Reg. 50(21)(b)](https://www.legislation.gov.uk/ssi/2016/49/regulation/50/21/b) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(12)(b)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/12/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+[^c-abf11d67d170d12b0f46e8f65eb8c780]: Textual amendment: [Reg. 50(21)(b)](https://www.legislation.gov.uk/ssi/2016/49/regulation/50/21/b) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(12)(b)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/12/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
 
-[^key-b0032958fce6cac43d3fcc2216391fec]: Textual amendment: Word in [reg. 50(23)](https://www.legislation.gov.uk/ssi/2016/49/regulation/50/23) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(33)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/33/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-b0032958fce6cac43d3fcc2216391fec]: Textual amendment: Word in [reg. 50(23)](https://www.legislation.gov.uk/ssi/2016/49/regulation/50/23) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(33)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/33/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-9f6328185069f120c2a4ad784db4b5d9]: Textual amendment: [Reg. 50(25)](https://www.legislation.gov.uk/ssi/2016/49/regulation/50/25)[(25A)](https://www.legislation.gov.uk/ssi/2016/49/regulation/50/25A) substituted for [reg. 50(25)](https://www.legislation.gov.uk/ssi/2016/49/regulation/50/25) (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(33)(c)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/33/c) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-9f6328185069f120c2a4ad784db4b5d9]: Textual amendment: [Reg. 50(25)](https://www.legislation.gov.uk/ssi/2016/49/regulation/50/25)[(25A)](https://www.legislation.gov.uk/ssi/2016/49/regulation/50/25A) substituted for [reg. 50(25)](https://www.legislation.gov.uk/ssi/2016/49/regulation/50/25) (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(33)(c)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/33/c) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

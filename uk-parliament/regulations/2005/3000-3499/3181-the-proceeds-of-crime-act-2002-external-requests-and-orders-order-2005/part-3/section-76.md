@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Disposal of family home[^key-ae7470e5e15ca29ab2fde73a2af82789]
+## 76. Disposal of family home[^c-ae7470e5e15ca29ab2fde73a2af82789]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,13 +45,13 @@ brought by an administrator as it applies to an application under paragraph (2)
 (5) In this article—
 
 - “family home”, in relation to any offender means any property in which the offender has or had (whether alone or in common with any other person) a right or interest, being property which is occupied as a residence by the offender and his or her spouse or by the offender’s spouse or former spouse (in any case with or without a child of the family) or by the offender with a child of the family;
-- “child of the family” includes any child or grandchild of either the offender or the offender’s spouse or former spouse, and any person who has been treated by either the offender or the offender’s spouse or former spouse as if he or she were a child of the offender, spouse or former spouse, whatever the age of such a child, grandchild or person may be;[^key-e19ccdedee79e0ae9fb7820991deae8a]
+- “child of the family” includes any child or grandchild of either the offender or the offender’s spouse or former spouse, and any person who has been treated by either the offender or the offender’s spouse or former spouse as if he or she were a child of the offender, spouse or former spouse, whatever the age of such a child, grandchild or person may be;[^c-e19ccdedee79e0ae9fb7820991deae8a]
 - “relevant consent” means in relation to the disposal of any right or interest in a family home—
   - (a) in a case where the family home is occupied by the spouse or former spouse of the offender, the consent of the spouse or, as the case may be, of the former spouse, whether or not the family home is also occupied by the offender;
   - (b) where sub-paragraph (a) does not apply, in a case where the family home is occupied by the offender with a child of the family, the consent of the offender.
 
 ## Annotations
 
-[^key-ae7470e5e15ca29ab2fde73a2af82789]: Commencement: [Art. 76](https://www.legislation.gov.uk/uksi/2005/3181/article/76) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-ae7470e5e15ca29ab2fde73a2af82789]: Commencement: [Art. 76](https://www.legislation.gov.uk/uksi/2005/3181/article/76) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-e19ccdedee79e0ae9fb7820991deae8a]: Textual amendment: Words in [art. 76(5)](https://www.legislation.gov.uk/uksi/2005/3181/article/76/5) substituted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [17](https://www.legislation.gov.uk/uksi/2016/662/article/17)
+[^c-e19ccdedee79e0ae9fb7820991deae8a]: Textual amendment: Words in [art. 76(5)](https://www.legislation.gov.uk/uksi/2005/3181/article/76/5) substituted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [17](https://www.legislation.gov.uk/uksi/2016/662/article/17)

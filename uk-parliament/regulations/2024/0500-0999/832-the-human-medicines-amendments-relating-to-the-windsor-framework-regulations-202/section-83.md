@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Amendment to regulation 192[^key-5396c65cca1ba4219d76cce1dee7905d]
+## 83. Amendment to regulation 192[^c-5396c65cca1ba4219d76cce1dee7905d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In regulation 192 (obligation on holder to submit periodic safety update reports
 
 ## Annotations
 
-[^key-5396c65cca1ba4219d76cce1dee7905d]: Commencement: [Reg. 83](https://www.legislation.gov.uk/uksi/2024/832/regulation/83) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-5396c65cca1ba4219d76cce1dee7905d]: Commencement: [Reg. 83](https://www.legislation.gov.uk/uksi/2024/832/regulation/83) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00093]: Footnote: Regulation 192 was amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), including as that instrument was amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

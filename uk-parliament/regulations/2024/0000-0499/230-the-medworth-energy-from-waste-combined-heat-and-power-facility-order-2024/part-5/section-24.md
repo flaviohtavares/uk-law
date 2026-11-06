@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Time limit for exercise of authority to acquire land compulsorily[^key-480cedae0c0c20e6d46bf593e64c4305]
+## 24. Time limit for exercise of authority to acquire land compulsorily[^c-480cedae0c0c20e6d46bf593e64c4305]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-480cedae0c0c20e6d46bf593e64c4305]: Commencement: Art. 24 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-480cedae0c0c20e6d46bf593e64c4305]: Commencement: Art. 24 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)

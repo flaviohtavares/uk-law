@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141G. Exclusions[^key-60d328b1519329044b0e7f9eeb27db3e]
+## 141G. Exclusions[^c-60d328b1519329044b0e7f9eeb27db3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,11 +35,11 @@ summary: ''
 
 (4) An exclusion may be made subject to conditions.
 
-(4A)[^key-92f65a5cba68520593e080eb6d504857] Where the court exercises the power to make an exclusion for the purpose of enabling a person to meet legal expenses that the person has incurred, or may incur, in respect of proceedings under this Part, it must ensure that the exclusion—
+(4A)[^c-92f65a5cba68520593e080eb6d504857] Where the court exercises the power to make an exclusion for the purpose of enabling a person to meet legal expenses that the person has incurred, or may incur, in respect of proceedings under this Part, it must ensure that the exclusion—
 
 - (a) is limited to reasonable legal expenses that the person has reasonably incurred or reasonably incurs;
 - (b) specifies the total amount that may be released for legal expenses in pursuance of the exclusion; and
-- (c) is made subject to the required conditions (see article 141NA[^key-e2f8b285610114005e7216d44d0dd040]) in addition to any conditions imposed under paragraph (4).
+- (c) is made subject to the required conditions (see article 141NA[^c-e2f8b285610114005e7216d44d0dd040]) in addition to any conditions imposed under paragraph (4).
 
 (4B) The court, in deciding whether to make an exclusion for the purpose of enabling a person to meet their legal expenses in respect of proceedings under this Part—
 
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-60d328b1519329044b0e7f9eeb27db3e]: Textual amendment: [Pts. 4A](https://www.legislation.gov.uk/uksi/2005/3181/part/4A), [4B](https://www.legislation.gov.uk/uksi/2005/3181/part/4B) inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2604/article/3)
+[^c-60d328b1519329044b0e7f9eeb27db3e]: Textual amendment: [Pts. 4A](https://www.legislation.gov.uk/uksi/2005/3181/part/4A), [4B](https://www.legislation.gov.uk/uksi/2005/3181/part/4B) inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2604/article/3)
 
-[^key-92f65a5cba68520593e080eb6d504857]: Textual amendment: [Art. 141G(4A)](https://www.legislation.gov.uk/uksi/2005/3181/article/141G/4A)[(4B)](https://www.legislation.gov.uk/uksi/2005/3181/article/141G/4B) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [33](https://www.legislation.gov.uk/uksi/2015/1750/article/33)
+[^c-92f65a5cba68520593e080eb6d504857]: Textual amendment: [Art. 141G(4A)](https://www.legislation.gov.uk/uksi/2005/3181/article/141G/4A)[(4B)](https://www.legislation.gov.uk/uksi/2005/3181/article/141G/4B) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [33](https://www.legislation.gov.uk/uksi/2015/1750/article/33)
 
-[^key-e2f8b285610114005e7216d44d0dd040]: Textual amendment: Word in [art. 141G(4A)(c)](https://www.legislation.gov.uk/uksi/2005/3181/article/141G/4A/c) substituted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [37](https://www.legislation.gov.uk/uksi/2016/662/article/37)
+[^c-e2f8b285610114005e7216d44d0dd040]: Textual amendment: Word in [art. 141G(4A)(c)](https://www.legislation.gov.uk/uksi/2005/3181/article/141G/4A/c) substituted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [37](https://www.legislation.gov.uk/uksi/2016/662/article/37)

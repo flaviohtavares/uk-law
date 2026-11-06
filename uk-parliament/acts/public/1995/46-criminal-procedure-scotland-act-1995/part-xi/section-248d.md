@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248D. Extension of disqualification where sentence of imprisonment also imposed[^key-24122da656eac7c910dd64327611a125][^M_C_bd128683-cc84-4dc4-b7b9-c8537e24d410]
+## 248D. Extension of disqualification where sentence of imprisonment also imposed[^c-24122da656eac7c910dd64327611a125][^M_C_bd128683-cc84-4dc4-b7b9-c8537e24d410]
 
 *Extent: S*
 
@@ -64,13 +64,13 @@ summary: ''
 - “**life prisoner**” has the meaning given by section 2(1) of the 1993 Act[^M_F_68de1911-3f5c-4263-8aae-82a45a93ea57];
 - “punishment part”, in relation to a life sentence, means the punishment part of the sentence as specified in an order mentioned in section 2(2) of the 1993 Act;[^M_F_78a8542f-5c6d-4eec-9d19-0673c33147d7]
 - “**sentence of imprisonment**” includes—
-  - (a) an order for detention in a residential establishment[^key-7d93214a7205ac848311974054723911] under section 44 of this Act, and
+  - (a) an order for detention in a residential establishment[^c-7d93214a7205ac848311974054723911] under section 44 of this Act, and
   - (b) a sentence of detention under section 205, 205ZA(7), 205ZC(4),[^M_F_b3f295c7-8c73-4878-990c-0aae25147c53] 207 or 208 of this Act.
 - “serious terrorism sentence” means a sentence imposed under section 205ZA of the 1995 Act;[^M_F_5c690e2f-c549-4b1e-b7e1-1ff9fa074629]
 
 ## Annotations
 
-[^key-24122da656eac7c910dd64327611a125]: Textual amendment: Ss. 248D, 248E inserted (16.7.2018) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/16/paragraph/3) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 paras. 29](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/29), [36](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/36)); [S.I. 2018/733](https://www.legislation.gov.uk/uksi/2018/733), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/733/article/2/b)
+[^c-24122da656eac7c910dd64327611a125]: Textual amendment: Ss. 248D, 248E inserted (16.7.2018) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/16/paragraph/3) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 paras. 29](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/29), [36](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/36)); [S.I. 2018/733](https://www.legislation.gov.uk/uksi/2018/733), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/733/article/2/b)
 
 [^M_C_bd128683-cc84-4dc4-b7b9-c8537e24d410]: Modification: S. 248D excluded by [2003 c. 32](https://www.legislation.gov.uk/ukpga/2003/32), [s. 54(3A)(b)](https://www.legislation.gov.uk/ukpga/2003/32/section/54/3A/b) (as inserted (1.8.2017 as notified in the London Gazette dated 1.8.2017 (Issue 62012, p. 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 2(4)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/2/4) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3))
 
@@ -100,7 +100,7 @@ summary: ''
 
 [^M_F_78a8542f-5c6d-4eec-9d19-0673c33147d7]: Textual amendment: Words in s. 248D(10) substituted (28.4.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 142(10)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/142/10/f), [208(4)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/q)
 
-[^key-7d93214a7205ac848311974054723911]: Textual amendment: Words in [s. 248D(10)](https://www.legislation.gov.uk/ukpga/1995/46/section/248D/10) substituted (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 10(4)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/10/4); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(j)(i)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/j/i) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
+[^c-7d93214a7205ac848311974054723911]: Textual amendment: Words in [s. 248D(10)](https://www.legislation.gov.uk/ukpga/1995/46/section/248D/10) substituted (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 10(4)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/10/4); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(j)(i)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/j/i) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
 
 [^M_F_b3f295c7-8c73-4878-990c-0aae25147c53]: Textual amendment: Words in s. 248D(10) inserted (28.4.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 142(10)(g)](https://www.legislation.gov.uk/ukpga/2022/32/section/142/10/g), [208(4)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/q)
 

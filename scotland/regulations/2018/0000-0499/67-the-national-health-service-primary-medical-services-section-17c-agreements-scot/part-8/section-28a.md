@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 28A. Transitional arrangements for vaccination and immunisation services[^key-78fe0dee193c863ead5cf0a0d8f2b4f9]
+## 28A. Transitional arrangements for vaccination and immunisation services[^c-78fe0dee193c863ead5cf0a0d8f2b4f9]
 
 (1) Where on 17 October 2021 an agreement included a requirement to provide the vaccinations and immunisations additional service, the childhood vaccinations and immunisations additional service, or both services in accordance with schedule 3—
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) be served no later than 1 December 2021; and
 - (b) specify a period which ends no later than 1 April 2022.
 
-(3)[^key-7722a4fa4c8617a58b2d61c669bc3347] A notice served by the Health Board under sub-paragraph (1)(a) must list all of the vaccinations and immunisations which the provider is required to provide as a consequence of the notice, as of the date of the notice.
+(3)[^c-7722a4fa4c8617a58b2d61c669bc3347] A notice served by the Health Board under sub-paragraph (1)(a) must list all of the vaccinations and immunisations which the provider is required to provide as a consequence of the notice, as of the date of the notice.
 
 (4) A letter stating that the provider is to continue to provide the vaccinations and immunisations additional service, the childhood vaccinations and immunisations additional service, or both services, for a period specified in the letter, which is sent by the Health Board to the provider’s official correspondence address (specified in accordance with regulation 15) before the coming into force of this regulation is deemed to have the same effect as a notice under sub-paragraph (1)(a), if it complies with the requirements of this regulation.
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-78fe0dee193c863ead5cf0a0d8f2b4f9]: Textual amendment: [Reg. 28A](https://www.legislation.gov.uk/ssi/2018/67/regulation/28A) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [15](https://www.legislation.gov.uk/ssi/2021/302/regulation/15)
+[^c-78fe0dee193c863ead5cf0a0d8f2b4f9]: Textual amendment: [Reg. 28A](https://www.legislation.gov.uk/ssi/2018/67/regulation/28A) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [15](https://www.legislation.gov.uk/ssi/2021/302/regulation/15)
 
-[^key-7722a4fa4c8617a58b2d61c669bc3347]: Textual amendment: [Reg. 28A(3)](https://www.legislation.gov.uk/ssi/2018/67/regulation/28A/3)[(4)](https://www.legislation.gov.uk/ssi/2018/67/regulation/28A/4) substituted (28.5.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/2), [17](https://www.legislation.gov.uk/ssi/2022/130/regulation/17)
+[^c-7722a4fa4c8617a58b2d61c669bc3347]: Textual amendment: [Reg. 28A(3)](https://www.legislation.gov.uk/ssi/2018/67/regulation/28A/3)[(4)](https://www.legislation.gov.uk/ssi/2018/67/regulation/28A/4) substituted (28.5.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/2), [17](https://www.legislation.gov.uk/ssi/2022/130/regulation/17)

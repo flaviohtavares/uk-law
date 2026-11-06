@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Receipts to be a full discharge[^key-419eb49a9ca5220fb4b121740d8308e7]
+## 74. Receipts to be a full discharge[^c-419eb49a9ca5220fb4b121740d8308e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-419eb49a9ca5220fb4b121740d8308e7]: Commencement: Reg. 74 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-419eb49a9ca5220fb4b121740d8308e7]: Commencement: Reg. 74 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

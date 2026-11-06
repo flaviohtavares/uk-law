@@ -22,7 +22,7 @@ summary: ''
 
 (1) A person must not sell water which is bottled and labelled “natural mineral water” unless that water is natural mineral water recognised in accordance with regulation 4(2).
 
-(2)[^key-1be8db9805cb865e8db90ca9b59bdcb7] A person must not sell bottled natural mineral water if it—
+(2)[^c-1be8db9805cb865e8db90ca9b59bdcb7] A person must not sell bottled natural mineral water if it—
 
 - (a) has been extracted from a spring—
   - (i) in Northern Ireland, which has been exploited in contravention of regulation 8; or
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1be8db9805cb865e8db90ca9b59bdcb7]: Textual amendment: [Reg. 13(2)](https://www.legislation.gov.uk/nisr/2015/365/regulation/13/2) substituted (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/201)](https://www.legislation.gov.uk/nisr/2017/201), [regs. 1](https://www.legislation.gov.uk/nisr/2017/201/regulation/1), [4](https://www.legislation.gov.uk/nisr/2017/201/regulation/4)
+[^c-1be8db9805cb865e8db90ca9b59bdcb7]: Textual amendment: [Reg. 13(2)](https://www.legislation.gov.uk/nisr/2015/365/regulation/13/2) substituted (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/201)](https://www.legislation.gov.uk/nisr/2017/201), [regs. 1](https://www.legislation.gov.uk/nisr/2017/201/regulation/1), [4](https://www.legislation.gov.uk/nisr/2017/201/regulation/4)

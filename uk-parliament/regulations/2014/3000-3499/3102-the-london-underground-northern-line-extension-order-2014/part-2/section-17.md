@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Water abstraction[^key-d7f92fe7c368a3a00c5c54a3ddc5aafc]
+## 17. Water abstraction[^c-d7f92fe7c368a3a00c5c54a3ddc5aafc]
 
 *Extent: E+W+S*
 
@@ -39,7 +39,7 @@ LUL must compensate the other person for the loss or damage.
 
 ## Annotations
 
-[^key-d7f92fe7c368a3a00c5c54a3ddc5aafc]: Commencement: Art. 17 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-d7f92fe7c368a3a00c5c54a3ddc5aafc]: Commencement: Art. 17 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
 
 [^f00030]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 6 — INDUSTRIAL TRIBUNALS (NON-DISCRIMINATION NOTICES APPEALS) RULES OF PROCEDURE[^key-2a5468f6af0b2384dff9dd1b131b476c]
+## SCHEDULE 6 — INDUSTRIAL TRIBUNALS (NON-DISCRIMINATION NOTICES APPEALS) RULES OF PROCEDURE[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 *Extent: N.I.*
 
@@ -24,62 +24,62 @@ summary: ''
 
 Regulations 2(5), (6) and (10), 9, 10(6)(c) and 11(2)
 
-[^key-2a5468f6af0b2384dff9dd1b131b476c]
+[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 *For use only in proceedings on an appeal against a non-discrimination notice*
 
-### 1. Notice of appeal[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 1. Notice of appeal[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Duty of the Secretary upon receipt of notice of appeal[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 2. Duty of the Secretary upon receipt of notice of appeal[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Power to require attendance of witnesses and production of documents, etc.[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 3. Power to require attendance of witnesses and production of documents, etc.[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Time and place of hearing[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 4. Time and place of hearing[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. The hearing[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 5. The hearing[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Procedure at hearing[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 6. Procedure at hearing[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Decision of tribunal[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 7. Decision of tribunal[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Review of tribunal’s decision[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 8. Review of tribunal’s decision[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Costs[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 9. Costs[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Miscellaneous powers[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 10. Miscellaneous powers[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Restricted reporting orders[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 11. Restricted reporting orders[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Devolution issues[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 12. Devolution issues[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Notices, etc.[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 13. Notices, etc.[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2a5468f6af0b2384dff9dd1b131b476c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/165) revoked (3.4.2005) by [The Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2005 (S.R. 2005/150)](https://www.legislation.gov.uk/nisr/2005/150), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/2)[(3)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/3) (with [reg. 15](https://www.legislation.gov.uk/nisr/2005/150/regulation/15))
+[^c-2a5468f6af0b2384dff9dd1b131b476c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/165) revoked (3.4.2005) by [The Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2005 (S.R. 2005/150)](https://www.legislation.gov.uk/nisr/2005/150), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/2)[(3)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/3) (with [reg. 15](https://www.legislation.gov.uk/nisr/2005/150/regulation/15))

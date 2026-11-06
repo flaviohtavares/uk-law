@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Control of entry[^key-290691b36878344cb0e8ccc6f40affe4]
+## 18. Control of entry[^c-290691b36878344cb0e8ccc6f40affe4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ After paragraph 2A(2) of Schedule 2 to the Immigration Act 1971 (control of entr
 
 ## Annotations
 
-[^key-290691b36878344cb0e8ccc6f40affe4]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2004/19/section/18) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)
+[^c-290691b36878344cb0e8ccc6f40affe4]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2004/19/section/18) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)

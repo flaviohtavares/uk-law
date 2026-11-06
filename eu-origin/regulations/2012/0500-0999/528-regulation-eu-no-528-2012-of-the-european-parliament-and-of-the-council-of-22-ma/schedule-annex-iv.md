@@ -77,7 +77,7 @@ In all cases adequate and reliable documentation shall be provided.
 
 Weight of evidence
 
-There may be sufficient weight of evidence from several independent sources of information leading to the assumption/conclusion that a substance has or does not have a particular dangerous property, while the information from each single source alone is considered insufficient to support this notion. There may be sufficient weight of evidence from the use of positive results of newly developed test methods, not yet included in the relevant test methods or from an international test method recognised by the competent authority[^key-d75bbe20302478e03fc7c189edc4be43] as being equivalent, leading to the conclusion that a substance has a particular dangerous property. However, if the newly developed test method has been approved by the competent authority, but has not yet been published, its results may be taken into account even where this leads to the conclusion that a substance does not have a particular dangerous property.
+There may be sufficient weight of evidence from several independent sources of information leading to the assumption/conclusion that a substance has or does not have a particular dangerous property, while the information from each single source alone is considered insufficient to support this notion. There may be sufficient weight of evidence from the use of positive results of newly developed test methods, not yet included in the relevant test methods or from an international test method recognised by the competent authority[^c-d75bbe20302478e03fc7c189edc4be43] as being equivalent, leading to the conclusion that a substance has a particular dangerous property. However, if the newly developed test method has been approved by the competent authority, but has not yet been published, its results may be taken into account even where this leads to the conclusion that a substance does not have a particular dangerous property.
 
 Where consideration of all the available data provides sufficient weight of evidence for the presence or absence of a particular dangerous property:
 
@@ -97,7 +97,7 @@ Results obtained from valid qualitative or quantitative structure-activity relat
 - the results are adequate for the purpose of classification and labelling and risk assessment, and
 - adequate and reliable documentation of the applied method is provided.
 
-[^key-041e10879d7d524e550e14b658f78dde]...
+[^c-041e10879d7d524e550e14b658f78dde]...
 
 1.4.
 
@@ -135,7 +135,7 @@ In all cases results shall:
 
 In all cases, adequate and reliable documentation of the applied method shall be provided.
 
-[^key-e2f6052963b78b32df8bf794a3ad09c5]...
+[^c-e2f6052963b78b32df8bf794a3ad09c5]...
 
 2\.
 
@@ -159,7 +159,7 @@ In that case, the following conditions shall be met:
 
 However, testing cannot be omitted for non-threshold effects. As a consequence, certain core data shall always be obligatory, e.g. genotoxicity testing.
 
-[^key-42fd2234631683f36c4e0c05a49dd82e]...
+[^c-42fd2234631683f36c4e0c05a49dd82e]...
 
 3.2.
 
@@ -167,10 +167,10 @@ In all cases, adequate justification and documentation shall be provided. The ju
 
 ## Annotations
 
-[^key-d75bbe20302478e03fc7c189edc4be43]: Textual amendment: Words in [Annex 4 para. 1.2](https://www.legislation.gov.uk/eur/2012/528/annex/IV/paragraph/1.2) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 142(a)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/142/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d75bbe20302478e03fc7c189edc4be43]: Textual amendment: Words in [Annex 4 para. 1.2](https://www.legislation.gov.uk/eur/2012/528/annex/IV/paragraph/1.2) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 142(a)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/142/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-041e10879d7d524e550e14b658f78dde]: Textual amendment: Words in [Annex 4 para. 1.3](https://www.legislation.gov.uk/eur/2012/528/annex/IV/paragraph/1.3) omitted (31.12.2020) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 142(b)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/142/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-041e10879d7d524e550e14b658f78dde]: Textual amendment: Words in [Annex 4 para. 1.3](https://www.legislation.gov.uk/eur/2012/528/annex/IV/paragraph/1.3) omitted (31.12.2020) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 142(b)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/142/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e2f6052963b78b32df8bf794a3ad09c5]: Textual amendment: Words in [Annex 4 para. 1.5](https://www.legislation.gov.uk/eur/2012/528/annex/IV/paragraph/1.5) omitted (31.12.2020) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 142(c)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/142/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e2f6052963b78b32df8bf794a3ad09c5]: Textual amendment: Words in [Annex 4 para. 1.5](https://www.legislation.gov.uk/eur/2012/528/annex/IV/paragraph/1.5) omitted (31.12.2020) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 142(c)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/142/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-42fd2234631683f36c4e0c05a49dd82e]: Textual amendment: Words in [Annex 4 para. 3.1](https://www.legislation.gov.uk/eur/2012/528/annex/IV/paragraph/3.1) omitted (31.12.2020) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 142(d)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/142/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-42fd2234631683f36c4e0c05a49dd82e]: Textual amendment: Words in [Annex 4 para. 3.1](https://www.legislation.gov.uk/eur/2012/528/annex/IV/paragraph/3.1) omitted (31.12.2020) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 142(d)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/142/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

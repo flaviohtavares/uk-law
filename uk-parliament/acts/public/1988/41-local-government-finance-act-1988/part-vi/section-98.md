@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 98. Other transfers between funds.[^c13072671][^key-4102bd57b7dfa1935e1ada6872724849][^key-0c54dee3428636abb7195dea61c0ea12]
+## 98. Other transfers between funds.[^c13072671][^c-4102bd57b7dfa1935e1ada6872724849][^c-0c54dee3428636abb7195dea61c0ea12]
 
 *Extent: E+W*
 
@@ -45,9 +45,9 @@ summary: ''
 
     [S. 98](https://www.legislation.gov.uk/ukpga/1988/41/section/98) modified (27.7.1999 by [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14), [s. 52V(3)](https://www.legislation.gov.uk/ukpga/1992/14/section/52V/3) (as inserted by [1999 c. 27](https://www.legislation.gov.uk/ukpga/1999/27), [s. 30](https://www.legislation.gov.uk/ukpga/1999/27/section/30), [Sch. 1 Pt. I para. 1](https://www.legislation.gov.uk/ukpga/1999/27/schedule/1/part/I/paragraph/1))
 
-[^key-4102bd57b7dfa1935e1ada6872724849]: Modification: Ss. 97, 98 modified by 1992 c. 14, s. 52ZI(2)(3) (as inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 72(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/72/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/5); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i))
+[^c-4102bd57b7dfa1935e1ada6872724849]: Modification: Ss. 97, 98 modified by 1992 c. 14, s. 52ZI(2)(3) (as inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 72(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/72/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/5); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i))
 
-[^key-0c54dee3428636abb7195dea61c0ea12]: Modification: Ss. 97, 98 modified by 1992 c. 14, s. 52ZW(4) (as inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 72(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/72/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/5); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i))
+[^c-0c54dee3428636abb7195dea61c0ea12]: Modification: Ss. 97, 98 modified by 1992 c. 14, s. 52ZW(4) (as inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 72(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/72/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/5); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i))
 
 [^c13072681]: Textual amendment: [S. 98(1)(2)](https://www.legislation.gov.uk/ukpga/1988/41/section/98/1/2) repealed (6.3.1992) by [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14), [ss. 104](https://www.legislation.gov.uk/ukpga/1992/14/section/104), [117(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/117/2), [Sch. 10 Pt. III para. 23(1)(a)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/10/part/III/paragraph/23/1/a), [Sch.14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4))
 

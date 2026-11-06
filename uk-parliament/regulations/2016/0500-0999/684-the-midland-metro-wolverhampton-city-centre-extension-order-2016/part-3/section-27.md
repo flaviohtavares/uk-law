@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Power to acquire land[^key-28fa72c52bb7274ba8a9962de14f05fb]
+## 27. Power to acquire land[^c-28fa72c52bb7274ba8a9962de14f05fb]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28fa72c52bb7274ba8a9962de14f05fb]: Commencement: Art. 27 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-28fa72c52bb7274ba8a9962de14f05fb]: Commencement: Art. 27 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

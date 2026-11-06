@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Deemed marine licences under the 2009 Act[^key-f736bed819200b08ecf5d0e795792e4b]
+## 32. Deemed marine licences under the 2009 Act[^c-f736bed819200b08ecf5d0e795792e4b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The marine licences set out in Schedules 9, 10, 11 and 12 are deemed to have bee
 
 ## Annotations
 
-[^key-f736bed819200b08ecf5d0e795792e4b]: Commencement: Art. 32 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-f736bed819200b08ecf5d0e795792e4b]: Commencement: Art. 32 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)

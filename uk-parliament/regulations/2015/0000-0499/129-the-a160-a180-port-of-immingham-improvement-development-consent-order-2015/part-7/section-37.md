@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Protection of interests[^key-78dd482524d715d397604fa1a5eb9f98]
+## 37. Protection of interests[^c-78dd482524d715d397604fa1a5eb9f98]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 8 (protective provisions) to the Order has effect.
 
 ## Annotations
 
-[^key-78dd482524d715d397604fa1a5eb9f98]: Commencement: Art. 37 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
+[^c-78dd482524d715d397604fa1a5eb9f98]: Commencement: Art. 37 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)

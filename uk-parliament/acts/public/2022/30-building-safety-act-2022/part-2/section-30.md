@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Interpretation of Part 2[^key-48e672d48d72484cf4d26648bc099935]
+## 30. Interpretation of Part 2[^c-48e672d48d72484cf4d26648bc099935]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48e672d48d72484cf4d26648bc099935]: Commencement: S. 30 in force at Royal Assent, see [s. 170(1)(e)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/e)
+[^c-48e672d48d72484cf4d26648bc099935]: Commencement: S. 30 in force at Royal Assent, see [s. 170(1)(e)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/e)

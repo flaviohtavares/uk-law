@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Suitability of living accommodation for multiple occupation[^key-995131ee9b07ab6d1150f7b34fe82c21]
+## 13. Suitability of living accommodation for multiple occupation[^c-995131ee9b07ab6d1150f7b34fe82c21]
 
 *Extent: N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-995131ee9b07ab6d1150f7b34fe82c21]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2016/22/section/13) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-995131ee9b07ab6d1150f7b34fe82c21]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2016/22/section/13) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

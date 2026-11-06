@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Person to whom lump sum death benefit payable[^key-bc7cc3eaa2ca49a9364a6d0f8f93e0a2]
+## 95. Person to whom lump sum death benefit payable[^c-bc7cc3eaa2ca49a9364a6d0f8f93e0a2]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The scheme manager may, at its absolute discretion, pay any lump sum death benef
 
 ## Annotations
 
-[^key-bc7cc3eaa2ca49a9364a6d0f8f93e0a2]: Commencement: [Reg. 95](https://www.legislation.gov.uk/ssi/2015/19/regulation/95) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-bc7cc3eaa2ca49a9364a6d0f8f93e0a2]: Commencement: [Reg. 95](https://www.legislation.gov.uk/ssi/2015/19/regulation/95) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

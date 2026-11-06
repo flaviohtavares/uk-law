@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 PUBLIC HEALTH
 
-The Marketing and Use of Dangerous Substances (No. 3) Regulations (Northern Ireland) 2004 (revoked)[^key-c9fc1f811bc6ce843ef81186aa99ad1c]
+The Marketing and Use of Dangerous Substances (No. 3) Regulations (Northern Ireland) 2004 (revoked)[^c-c9fc1f811bc6ce843ef81186aa99ad1c]
 
 Made
 
@@ -43,34 +43,34 @@ Coming into operation
 
 17th January 2005
 
-[^key-c9fc1f811bc6ce843ef81186aa99ad1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9fc1f811bc6ce843ef81186aa99ad1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c9fc1f811bc6ce843ef81186aa99ad1c]
+## 1. Citation and commencement[^c-c9fc1f811bc6ce843ef81186aa99ad1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c9fc1f811bc6ce843ef81186aa99ad1c]
+## 2. Interpretation[^c-c9fc1f811bc6ce843ef81186aa99ad1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Scope[^key-c9fc1f811bc6ce843ef81186aa99ad1c]
+## 3. Scope[^c-c9fc1f811bc6ce843ef81186aa99ad1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibition on the placing on the market and use of nonylphenol and nonylphenol ethoxylate[^key-c9fc1f811bc6ce843ef81186aa99ad1c]
+## 4. Prohibition on the placing on the market and use of nonylphenol and nonylphenol ethoxylate[^c-c9fc1f811bc6ce843ef81186aa99ad1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences and penalties[^key-c9fc1f811bc6ce843ef81186aa99ad1c]
+## 5. Offences and penalties[^c-c9fc1f811bc6ce843ef81186aa99ad1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c9fc1f811bc6ce843ef81186aa99ad1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9fc1f811bc6ce843ef81186aa99ad1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c9fc1f811bc6ce843ef81186aa99ad1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9fc1f811bc6ce843ef81186aa99ad1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c9fc1f811bc6ce843ef81186aa99ad1c]: Textual amendment: Regulations revoked (7.1.2007) by [The Controls on Dangerous Substances and Preparations Regulations 2006 (S.I. 2006/3311)](https://www.legislation.gov.uk/uksi/2006/3311), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3311/regulation/1), [18(1)](https://www.legislation.gov.uk/uksi/2006/3311/regulation/18), [Sch. 4 Pt. 3](https://www.legislation.gov.uk/uksi/2006/3311/schedule/4/part/3)
+[^c-c9fc1f811bc6ce843ef81186aa99ad1c]: Textual amendment: Regulations revoked (7.1.2007) by [The Controls on Dangerous Substances and Preparations Regulations 2006 (S.I. 2006/3311)](https://www.legislation.gov.uk/uksi/2006/3311), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3311/regulation/1), [18(1)](https://www.legislation.gov.uk/uksi/2006/3311/regulation/18), [Sch. 4 Pt. 3](https://www.legislation.gov.uk/uksi/2006/3311/schedule/4/part/3)

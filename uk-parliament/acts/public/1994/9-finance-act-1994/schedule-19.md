@@ -351,7 +351,7 @@ Section 196.
 
 **20.**[^c14461311] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-f2700e2c25e3125a51bd179d58bdf42c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-f2700e2c25e3125a51bd179d58bdf42c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **22.** (1) After section 70 of the Management Act there shall be inserted the following section—
 
@@ -461,13 +461,13 @@ Section 196.
 > - “**the period of default**”, in relation to any failure to deliver a return, means the period beginning with the filing date and ending with the day before that on which the return was delivered;
 > - “**relevant partner**” means a person who was a partner at any time during the period in respect of which the return was required.
 
-**27.** (1)[^key-49097f22b28bed732999db8961d6a737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.** (1)[^c-49097f22b28bed732999db8961d6a737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In subsection (3) of that section, the words from “and the references” to the end shall cease to have effect.
 
-**28.**[^key-99d1eb1fb528d14bd60c409c9b618880] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-99d1eb1fb528d14bd60c409c9b618880] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-9e936e32995f954e4c7d087a20e89b42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-9e936e32995f954e4c7d087a20e89b42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **30.** (1) For subsection (2) of section 98B of the Management Act (European Economic Interest Groupings) there shall be substituted the following subsections—
 
@@ -485,7 +485,7 @@ Section 196.
 
 (2) At the beginning of subsection (2) of that section there shall be inserted the words “ Subject to sections 93(8) and 93A(7) of this Act ”.
 
-**32.**[^key-15204e3422bd19d39b341fbaa6dbe147] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-15204e3422bd19d39b341fbaa6dbe147] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **33.** After section 103 of the Management Act there shall be inserted the following section—
 
@@ -654,17 +654,17 @@ Section 196.
 
 #### Time limits for claims under section 96
 
-**37.**[^key-f3ea7c12fc96987b323557877e0281dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-f3ea7c12fc96987b323557877e0281dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Interest on Schedule E tax
 
-**38.**[^key-1e982319f5c4e661ca77234eac5114c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-1e982319f5c4e661ca77234eac5114c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Time limits for claims under sections 534 and 537A
 
-**39.**[^key-1e982319f5c4e661ca77234eac5114c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-1e982319f5c4e661ca77234eac5114c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**40.**[^key-221d00a6b1b6b25123cdc387a38f3387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-221d00a6b1b6b25123cdc387a38f3387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Repayment supplements: income tax
 
@@ -797,27 +797,27 @@ Section 196.
 
 [^c14461311]: Textual amendment: Sch. 19 para. 20 repealed (11.5.2001 with effect as mentioned in Note 2 to Sch. 33 Pt. 2(14) of the repealing Act) by [2001 c. 9](https://www.legislation.gov.uk/ukpga/2001/9), [s. 110](https://www.legislation.gov.uk/ukpga/2001/9/section/110), [Sch. 33 Pt. 2(14)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/33/part/2/14)
 
-[^key-f2700e2c25e3125a51bd179d58bdf42c]: Textual amendment: Sch. 19 para. 21 omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 44 para. 11(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/44/paragraph/11/a)
+[^c-f2700e2c25e3125a51bd179d58bdf42c]: Textual amendment: Sch. 19 para. 21 omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 44 para. 11(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/44/paragraph/11/a)
 
 [^c14461321]: Textual amendment: Sch. 19 para. 23 repealed and superseded (29.4.1996 with effect in accordance with s. 121(8) of the repealing Act) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [ss. 131(3)](https://www.legislation.gov.uk/ukpga/1996/8/section/131/3), [205(1)(2)](https://www.legislation.gov.uk/ukpga/1996/8/section/205/1/2), [Sch. 41 Pt. V(6)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/6), Note 3
 
-[^key-49097f22b28bed732999db8961d6a737]: Textual amendment: Sch. 19 para. 27(1) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/5)
+[^c-49097f22b28bed732999db8961d6a737]: Textual amendment: Sch. 19 para. 27(1) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/5)
 
-[^key-99d1eb1fb528d14bd60c409c9b618880]: Textual amendment: Sch. 19 para. 28 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/5)
+[^c-99d1eb1fb528d14bd60c409c9b618880]: Textual amendment: Sch. 19 para. 28 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/5)
 
-[^key-9e936e32995f954e4c7d087a20e89b42]: Textual amendment: Sch. 19 para. 29 omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 113(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/113/2), [Sch. 36 para. 92(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/92/c) (with [Sch. 36 para. 38](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/38)); [S.I. 2009/404](https://www.legislation.gov.uk/uksi/2009/404), [art. 2](https://www.legislation.gov.uk/uksi/2009/404/article/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2009/404/article/12))
+[^c-9e936e32995f954e4c7d087a20e89b42]: Textual amendment: Sch. 19 para. 29 omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 113(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/113/2), [Sch. 36 para. 92(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/92/c) (with [Sch. 36 para. 38](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/38)); [S.I. 2009/404](https://www.legislation.gov.uk/uksi/2009/404), [art. 2](https://www.legislation.gov.uk/uksi/2009/404/article/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2009/404/article/12))
 
-[^key-15204e3422bd19d39b341fbaa6dbe147]: Textual amendment: Sch. 19 para. 32 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/5)
+[^c-15204e3422bd19d39b341fbaa6dbe147]: Textual amendment: Sch. 19 para. 32 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/5)
 
 [^c14461331]: Textual amendment: Words in Sch. 19 para.34(1) substituted (1.9.1994) by [S.I. 1994/1813](https://www.legislation.gov.uk/uksi/1994/1813), [reg. 2(1)](https://www.legislation.gov.uk/uksi/1994/1813/regulation/2/1), [Sch. 1 para. 25(c)](https://www.legislation.gov.uk/uksi/1994/1813/schedule/1/paragraph/25/c)
 
 [^c14461341]: Textual amendment: Sch. 19 para. 36 repealed (29.4.1996 with effect in accordance with Sch. 22 of the repealing Act) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 205(1)(2)](https://www.legislation.gov.uk/ukpga/1996/8/section/205/1/2), [Sch. 41 Pt. V(12)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/12), Note
 
-[^key-f3ea7c12fc96987b323557877e0281dc]: Textual amendment: [Sch. 19 para. 37](https://www.legislation.gov.uk/ukpga/1994/9/schedule/19/paragraph/37) repealed (1.4.2010) (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 13](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/13) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-f3ea7c12fc96987b323557877e0281dc]: Textual amendment: [Sch. 19 para. 37](https://www.legislation.gov.uk/ukpga/1994/9/schedule/19/paragraph/37) repealed (1.4.2010) (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 13](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/13) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-1e982319f5c4e661ca77234eac5114c3]: Textual amendment: [Sch. 19 para. 39](https://www.legislation.gov.uk/ukpga/1994/9/schedule/19/paragraph/39) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-1e982319f5c4e661ca77234eac5114c3]: Textual amendment: [Sch. 19 para. 39](https://www.legislation.gov.uk/ukpga/1994/9/schedule/19/paragraph/39) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
-[^key-221d00a6b1b6b25123cdc387a38f3387]: Textual amendment: [Sch. 19 para. 40](https://www.legislation.gov.uk/ukpga/1994/9/schedule/19/paragraph/40) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-221d00a6b1b6b25123cdc387a38f3387]: Textual amendment: [Sch. 19 para. 40](https://www.legislation.gov.uk/ukpga/1994/9/schedule/19/paragraph/40) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
 [^c14461351]: Marginal citation: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26).
 

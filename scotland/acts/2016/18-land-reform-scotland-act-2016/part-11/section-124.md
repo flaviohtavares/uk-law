@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 124. Review of small landholdings legislation[^key-c5ae0e3ebb4fb3ea53d238b5c3a4471b]
+## 124. Review of small landholdings legislation[^c-c5ae0e3ebb4fb3ea53d238b5c3a4471b]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ and “**small landholders**” is to be construed accordingly.
 
 ## Annotations
 
-[^key-c5ae0e3ebb4fb3ea53d238b5c3a4471b]: Commencement: [S. 124](https://www.legislation.gov.uk/asp/2016/18/section/124) in force at 23.12.2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
+[^c-c5ae0e3ebb4fb3ea53d238b5c3a4471b]: Commencement: [S. 124](https://www.legislation.gov.uk/asp/2016/18/section/124) in force at 23.12.2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))

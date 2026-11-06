@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105. Compensation for refusal or conditional grant of planning permission previously granted by order[^key-ad74d138fb1a301f3a1f3fa824398d5c]
+## 105. Compensation for refusal or conditional grant of planning permission previously granted by order[^c-ad74d138fb1a301f3a1f3fa824398d5c]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ this section does not apply if the conditions in subsection (7) are met.
 
 ## Annotations
 
-[^key-ad74d138fb1a301f3a1f3fa824398d5c]: Commencement: S. 105 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ad74d138fb1a301f3a1f3fa824398d5c]: Commencement: S. 105 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

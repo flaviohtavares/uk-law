@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.217. Application by bankrupt for discharge[^key-847ce3e321611a67c07d35a7dcf48150]
+## 6.217. Application by bankrupt for discharge[^c-847ce3e321611a67c07d35a7dcf48150]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-847ce3e321611a67c07d35a7dcf48150]: Commencement: [Rule 6.217](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.217) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-847ce3e321611a67c07d35a7dcf48150]: Commencement: [Rule 6.217](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.217) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies to any copy of a friendly society’s balance sheet which—
 
-- (a)[^key-e860af50bda4c61dfc785f6fcb840ec5] is furnished under section 78 to the FCA and, if the society is a PRA-authorised person, the PRA;
+- (a)[^c-e860af50bda4c61dfc785f6fcb840ec5] is furnished under section 78 to the FCA and, if the society is a PRA-authorised person, the PRA;
 - (aa) is furnished to either the FCA or the PRA at its request;
 - (b) is laid before the society at its annual general meeting; or
 - (c) is furnished to a member at his request.
@@ -38,7 +38,7 @@ together with a statement that the society has made a request to the actuary to 
 
 (3) Subsection (2) above applies in relation—
 
-- (a) to the actuary’s spouse or civil partner[^key-4c745850eb64700fac4919fc177d1015];
+- (a) to the actuary’s spouse or civil partner[^c-4c745850eb64700fac4919fc177d1015];
 - (b) to a partner of the actuary;
 - (c) to any child or step-child of the actuary who is under 18;
 - (d) to any person (other than the society concerned or any subsidiary of that society) of whom the actuary is an employee; and
@@ -57,6 +57,6 @@ as it applies in relation to the actuary.
 
 [^c15384931]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/1992/40/section/77) wholly in force; [s. 77](https://www.legislation.gov.uk/ukpga/1992/40/section/77) not in force at Royal Assent see [s. 126(2)](https://www.legislation.gov.uk/ukpga/1992/40/section/126/2); [s. 77](https://www.legislation.gov.uk/ukpga/1992/40/section/77) in force for certain purposes at 13.1.1993 by [S.I. 1993/16](https://www.legislation.gov.uk/uksi/1993/16), [art. 2](https://www.legislation.gov.uk/uksi/1993/16/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/16/schedule/1); [s. 77](https://www.legislation.gov.uk/ukpga/1992/40/section/77) in force for all remaining purposes at 1.1.1994 by [S.I. 1993/2213](https://www.legislation.gov.uk/uksi/1993/2213), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/2213/article/2/1), [Sch. 5](https://www.legislation.gov.uk/uksi/1993/2213/schedule/5)
 
-[^key-e860af50bda4c61dfc785f6fcb840ec5]: Textual amendment: [S. 77(1)(a)](https://www.legislation.gov.uk/ukpga/1992/40/section/77/1/a)[(aa)](https://www.legislation.gov.uk/ukpga/1992/40/section/77/1/aa) substituted for [s. 77(1)(a)](https://www.legislation.gov.uk/ukpga/1992/40/section/77/1/a) (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 31](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/31) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-e860af50bda4c61dfc785f6fcb840ec5]: Textual amendment: [S. 77(1)(a)](https://www.legislation.gov.uk/ukpga/1992/40/section/77/1/a)[(aa)](https://www.legislation.gov.uk/ukpga/1992/40/section/77/1/aa) substituted for [s. 77(1)(a)](https://www.legislation.gov.uk/ukpga/1992/40/section/77/1/a) (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 31](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/31) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-4c745850eb64700fac4919fc177d1015]: Textual amendment: Words in [s. 77(3)(a)](https://www.legislation.gov.uk/ukpga/1992/40/section/77/3/a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 141](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/141); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
+[^c-4c745850eb64700fac4919fc177d1015]: Textual amendment: Words in [s. 77(3)(a)](https://www.legislation.gov.uk/ukpga/1992/40/section/77/3/a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 141](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/141); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)

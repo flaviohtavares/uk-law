@@ -22,7 +22,7 @@ summary: ''
 
  
 
-(1) The court may, on an application by the CMA[^key-eff3c9549f8e04e80d276dca8820e085] , enquire into whether any person (“**the defaulter**”) has refused or otherwise failed, without reasonable excuse, to comply with a notice under section 64C(1).
+(1) The court may, on an application by the CMA[^c-eff3c9549f8e04e80d276dca8820e085] , enquire into whether any person (“**the defaulter**”) has refused or otherwise failed, without reasonable excuse, to comply with a notice under section 64C(1).
 
 (2) An application under subsection (1) shall include details of the possible failure which the CMA considers has occurred.
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c20643801]: Textual amendment: [Ss. 64CA](https://www.legislation.gov.uk/ukpga/1980/46/section/64CA), [64CB](https://www.legislation.gov.uk/ukpga/1980/46/section/64CB) inserted (20.6.2003) by [The Enterprise Act 2002 (Consequential and Supplemental Provisions) Order 2003 (S.I. 2003/1398)](https://www.legislation.gov.uk/uksi/2003/1398), [art. 2](https://www.legislation.gov.uk/uksi/2003/1398/article/2), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2003/1398/schedule/paragraph/2/3)
 
-[^key-eff3c9549f8e04e80d276dca8820e085]: Textual amendment: Word in [s. 64CA(1)](https://www.legislation.gov.uk/ukpga/1980/46/section/64CA/1)[(2)](https://www.legislation.gov.uk/ukpga/1980/46/section/64CA/2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/13); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-eff3c9549f8e04e80d276dca8820e085]: Textual amendment: Word in [s. 64CA(1)](https://www.legislation.gov.uk/ukpga/1980/46/section/64CA/1)[(2)](https://www.legislation.gov.uk/ukpga/1980/46/section/64CA/2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/13); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

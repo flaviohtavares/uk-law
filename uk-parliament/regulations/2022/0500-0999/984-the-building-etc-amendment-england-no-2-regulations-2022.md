@@ -49,7 +49,7 @@ The Secretary of State has consulted the Building Regulations Advisory Committee
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 1, 3(1), 34, 47(1) and (5), 50(4), 51A(2), 54 and 126 of, paragraphs 2, 7, 8 and 10 of Schedule 1 to, and paragraph 2(2) of Schedule 4 to, that Act[^f00002].
 
-## 1. Citation, extent, application and commencement[^key-61ab17748c7ed2b38f22e2327f5931ca]
+## 1. Citation, extent, application and commencement[^c-61ab17748c7ed2b38f22e2327f5931ca]
 
 (1) These Regulations may be cited as the Building etc. (Amendment) (England) (No. 2) Regulations 2022.
 
@@ -59,13 +59,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (4) These Regulations come into force on 26th December 2022.
 
-## 2. Amendments to building regulations[^key-aa76c9745c4369f01a9d6646e739fbbb]
+## 2. Amendments to building regulations[^c-aa76c9745c4369f01a9d6646e739fbbb]
 
 (1) The Building Regulations 2010[^f00003] are amended in accordance with Part 1 of the Schedule.
 
 (2) The Building (Approved Inspectors etc.) Regulations 2010[^f00004] are amended in accordance with Part 2 of the Schedule.
 
-## 3. Transitional provision[^key-847d753aad750a8a0526840118380aee]
+## 3. Transitional provision[^c-847d753aad750a8a0526840118380aee]
 
 (1) The amendments made by paragraphs 2 to 6 and 8 and 9 of the Schedule do not apply in relation to previously notified work if it—
 
@@ -93,9 +93,9 @@ Regulation 2
 
 ### PART 1 — Amendments to Building Regulations 2010
 
-**1.**[^key-ce60bdcf14f80d7e05eb0a69ae21744f] The Building Regulations 2010 are amended as follows.
+**1.**[^c-ce60bdcf14f80d7e05eb0a69ae21744f] The Building Regulations 2010 are amended as follows.
 
-**2.**[^key-d1c73bef659b2c2edf6ff6499925bc42] In regulation 13 (particulars and plans where a building notice given)[^f00005], after paragraph (2) insert—
+**2.**[^c-d1c73bef659b2c2edf6ff6499925bc42] In regulation 13 (particulars and plans where a building notice given)[^f00005], after paragraph (2) insert—
 
 > (2A) In the case of the erection of a dwelling, or a building that is to contain one or more dwellings, a building notice shall be accompanied by—
 >
@@ -107,11 +107,11 @@ Regulation 2
 
 .
 
-**3.**[^key-5ab7a166f9b9aa8f8f95c11b5cb23d9c] In regulation 14 (full plans)[^f00006], in paragraph (3)(a), for “and (2)” substitute “, (2) and (2A)”.
+**3.**[^c-5ab7a166f9b9aa8f8f95c11b5cb23d9c] In regulation 14 (full plans)[^f00006], in paragraph (3)(a), for “and (2)” substitute “, (2) and (2A)”.
 
-**4.**[^key-e86496ea1c7dbd946a6c5547110ed456] For the heading to Part 9A[^f00007] substitute “Infrastructure for electronic communications”.
+**4.**[^c-e86496ea1c7dbd946a6c5547110ed456] For the heading to Part 9A[^f00007] substitute “Infrastructure for electronic communications”.
 
-**5.**[^key-189c87fc83f9339921607d54c3348678] In Part 9A, before regulation 44A insert—
+**5.**[^c-189c87fc83f9339921607d54c3348678] In Part 9A, before regulation 44A insert—
 
 > **44ZB. Exemptions from paragraphs RA1 and RA2 of Schedule 1**
 >
@@ -170,7 +170,7 @@ Regulation 2
 
 .
 
-**6.**[^key-b3e7a8137dfd03b0fc3f6face5b99155] (1) Regulation 44C (interpretation of Part R of Schedule 1)[^f00009] is amended as follows.
+**6.**[^c-b3e7a8137dfd03b0fc3f6face5b99155] (1) Regulation 44C (interpretation of Part R of Schedule 1)[^f00009] is amended as follows.
 
 (2) In the heading, after “of”, in the first place where it occurs, insert “Part 9A and of”.
 
@@ -192,9 +192,9 @@ Regulation 2
 
 .
 
-**7.**[^key-f1f37a31910f2bab84a139ed58aec8c7] In regulation 55 (review of Part 9A and Part R of Schedule 1)[^f00010], omit paragraph (2).
+**7.**[^c-f1f37a31910f2bab84a139ed58aec8c7] In regulation 55 (review of Part 9A and Part R of Schedule 1)[^f00010], omit paragraph (2).
 
-**8.**[^key-ed95a0d45497a99ea7b95c462409c496] (1) In Schedule 1 (requirements), Part R (physical infrastructure for high-speed electronic communications networks)[^f00011] is amended as follows.
+**8.**[^c-ed95a0d45497a99ea7b95c462409c496] (1) In Schedule 1 (requirements), Part R (physical infrastructure for high-speed electronic communications networks)[^f00011] is amended as follows.
 
 (2) For the heading substitute “Infrastructure for electronic communications”.
 
@@ -219,7 +219,7 @@ Regulation 2
 
 ### PART 2 — Amendments to Building (Approved Inspectors etc.) Regulations 2010
 
-**9.**[^key-e9b35d097667c5eb5f77f8681f20f7d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e9b35d097667c5eb5f77f8681f20f7d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 EXPLANATORY NOTE
 
@@ -241,44 +241,44 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: Section 1 was amended by section 1(1) to (3) of the Sustainable and Secure Buildings Act [2004 (c. 22)](https://www.legislation.gov.uk/ukpga/2004/22). Section 47(1) was amended by [S.I. 1996/1905](https://www.legislation.gov.uk/uksi/1996/1905) and by section 8(2) of that Act; section 47(1)(c) was omitted by section 48(2)(a) of the Building Safety Act [2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30). Section 51A was inserted by [S.I. 1996/1905](https://www.legislation.gov.uk/uksi/1996/1905). Section 126 is cited for the definition of “prescribed”. There are other amendments of the provisions cited but none is relevant to this instrument.
 
-[^key-61ab17748c7ed2b38f22e2327f5931ca]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/984/regulation/1) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
+[^c-61ab17748c7ed2b38f22e2327f5931ca]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/984/regulation/1) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
 
-[^key-aa76c9745c4369f01a9d6646e739fbbb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/984/regulation/2) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
+[^c-aa76c9745c4369f01a9d6646e739fbbb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/984/regulation/2) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
 
 [^f00003]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214), as amended, in relation to buildings in England, by [S.I. 2011/1515](https://www.legislation.gov.uk/uksi/2011/1515), [S.I. 2011/3058](https://www.legislation.gov.uk/uksi/2011/3058), [S.I. 2012/809](https://www.legislation.gov.uk/uksi/2012/809), [S.I. 2012/3118](https://www.legislation.gov.uk/uksi/2012/3118), [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [S.I. 2013/10](https://www.legislation.gov.uk/uksi/2013/10), [S.I. 2013/181](https://www.legislation.gov.uk/uksi/2013/181), [S.I. 2013/1105](https://www.legislation.gov.uk/uksi/2013/1105), [S.I. 2013/1959](https://www.legislation.gov.uk/uksi/2013/1959), [S.I. 2014/579](https://www.legislation.gov.uk/uksi/2014/579), [S.I. 2014/1638](https://www.legislation.gov.uk/uksi/2014/1638), [S.I. 2014/2362](https://www.legislation.gov.uk/uksi/2014/2362), [S.I. 2015/767](https://www.legislation.gov.uk/uksi/2015/767), [S.I. 2016/285](https://www.legislation.gov.uk/uksi/2016/285), [S.I. 2016/490](https://www.legislation.gov.uk/uksi/2016/490), [S.I. 2016/1101](https://www.legislation.gov.uk/uksi/2016/1101), [S.I. 2017/856](https://www.legislation.gov.uk/uksi/2017/856), [S.I. 2018/1230](https://www.legislation.gov.uk/uksi/2018/1230), [S.I. 2021/1391](https://www.legislation.gov.uk/uksi/2021/1391), [S.I. 2021/1392](https://www.legislation.gov.uk/uksi/2021/1392) and [S.I. 2022/603](https://www.legislation.gov.uk/uksi/2022/603). There are other amendments which do not apply in relation to buildings in England.
 
 [^f00004]: Footnote: [S.I. 2010/2215](https://www.legislation.gov.uk/uksi/2010/2215), as amended, in relation to buildings in England, by [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [S.I. 2013/1959](https://www.legislation.gov.uk/uksi/2013/1959), [S.I. 2014/579](https://www.legislation.gov.uk/uksi/2014/579), [S.I. 2015/767](https://www.legislation.gov.uk/uksi/2015/767), [S.I. 2016/285](https://www.legislation.gov.uk/uksi/2016/285), [S.I. 2021/1391](https://www.legislation.gov.uk/uksi/2021/1391), [S.I. 2021/1392](https://www.legislation.gov.uk/uksi/2021/1392) and [S.I. 2022/718](https://www.legislation.gov.uk/uksi/2022/718). There are other amendments which do not apply in relation to buildings in England.
 
-[^key-847d753aad750a8a0526840118380aee]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/984/regulation/3) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
+[^c-847d753aad750a8a0526840118380aee]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/984/regulation/3) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
 
-[^key-ce60bdcf14f80d7e05eb0a69ae21744f]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/1) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
+[^c-ce60bdcf14f80d7e05eb0a69ae21744f]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/1) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
 
-[^key-d1c73bef659b2c2edf6ff6499925bc42]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/2) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
+[^c-d1c73bef659b2c2edf6ff6499925bc42]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/2) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
 
 [^f00005]: Footnote: Regulation 13 was amended, in relation to buildings in England, by [S.I. 2015/767](https://www.legislation.gov.uk/uksi/2015/767).
 
-[^key-5ab7a166f9b9aa8f8f95c11b5cb23d9c]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/3) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
+[^c-5ab7a166f9b9aa8f8f95c11b5cb23d9c]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/3) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
 
 [^f00006]: Footnote: Regulation 14(3)(a) was amended, in relation to buildings in England, by [S.I. 2015/767](https://www.legislation.gov.uk/uksi/2015/767).
 
-[^key-e86496ea1c7dbd946a6c5547110ed456]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/4) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
+[^c-e86496ea1c7dbd946a6c5547110ed456]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/4) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
 
 [^f00007]: Footnote: Part 9A (regulations 44A to 44C) was inserted, in relation to buildings in England, by [S.I. 2016/490](https://www.legislation.gov.uk/uksi/2016/490).
 
-[^key-189c87fc83f9339921607d54c3348678]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/5) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
+[^c-189c87fc83f9339921607d54c3348678]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/5) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
 
 [^f00008]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Section 65(2B) was inserted by section 1(4) of the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30) and amended by [S.I. 2020/1419](https://www.legislation.gov.uk/uksi/2020/1419).
 
-[^key-b3e7a8137dfd03b0fc3f6face5b99155]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/6) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
+[^c-b3e7a8137dfd03b0fc3f6face5b99155]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/6) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
 
 [^f00009]: Footnote: Regulation 44C was inserted, in relation to buildings in England, by [S.I. 2016/490](https://www.legislation.gov.uk/uksi/2016/490).
 
-[^key-f1f37a31910f2bab84a139ed58aec8c7]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/7) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
+[^c-f1f37a31910f2bab84a139ed58aec8c7]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/7) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
 
 [^f00010]: Footnote: Regulation 55 was inserted, in relation to buildings in England, by [S.I. 2016/490](https://www.legislation.gov.uk/uksi/2016/490). Paragraph (2) has as a result of paragraph 9 of Schedule 8 to the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) ceased to have substantive effect.
 
-[^key-ed95a0d45497a99ea7b95c462409c496]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/8) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
+[^c-ed95a0d45497a99ea7b95c462409c496]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/8) in force at 26.12.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4)
 
 [^f00011]: Footnote: Part R of Schedule 1 was inserted, in relation to buildings in England, by [S.I. 2016/490](https://www.legislation.gov.uk/uksi/2016/490).
 
-[^key-e9b35d097667c5eb5f77f8681f20f7d9]: Textual amendment: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/9) revoked (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(e)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/e) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
+[^c-e9b35d097667c5eb5f77f8681f20f7d9]: Textual amendment: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/9) revoked (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(e)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/e) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45B. Duties of registration officer and his staff in relation to record of anonymous entries[^key-a6cf39ee2f48a767abab5b051a6d4fa8]
+## 45B. Duties of registration officer and his staff in relation to record of anonymous entries[^c-a6cf39ee2f48a767abab5b051a6d4fa8]
 
 *Extent: S*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the registration officer; and
 - (b) any person appointed to assist that officer or who in the course of his employment is assigned to assist that officer in his registration duties.
 
-(2)[^key-4e16dd5d53cfb9fe56105d7f7fafb66a] Where the registration officer is also the returning officer at any election or counting officer at a referendum (and in consequence has access to the record of anonymous entries without being supplied with a copy of it), this regulation applies to–
+(2)[^c-4e16dd5d53cfb9fe56105d7f7fafb66a] Where the registration officer is also the returning officer at any election or counting officer at a referendum (and in consequence has access to the record of anonymous entries without being supplied with a copy of it), this regulation applies to–
 
 - (a) the registration officer acting in that other capacity; and
 - (b) any person appointed to assist that officer or who in the course of his employment is assigned to assist that officer in his duties in respect of the election or referendum in question.
@@ -49,6 +49,6 @@ otherwise than in accordance with an enactment (including these Regulations) or 
 
 ## Annotations
 
-[^key-a6cf39ee2f48a767abab5b051a6d4fa8]: Textual amendment: [Regs. 45A-45G](https://www.legislation.gov.uk/uksi/2001/497/regulation/45A) inserted (1.4.2007) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2007/925/regulation/18)
+[^c-a6cf39ee2f48a767abab5b051a6d4fa8]: Textual amendment: [Regs. 45A-45G](https://www.legislation.gov.uk/uksi/2001/497/regulation/45A) inserted (1.4.2007) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2007/925/regulation/18)
 
-[^key-4e16dd5d53cfb9fe56105d7f7fafb66a]: Modification: [Reg. 45B(2)](https://www.legislation.gov.uk/uksi/2001/497/regulation/45B/2) modified (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/5)
+[^c-4e16dd5d53cfb9fe56105d7f7fafb66a]: Modification: [Reg. 45B(2)](https://www.legislation.gov.uk/uksi/2001/497/regulation/45B/2) modified (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/5)

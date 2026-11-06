@@ -41,7 +41,7 @@ Coming into operation
 
 The Department of Higher and Further Education, Training and Employment[^f00001] in exercise of the powers conferred by Article 33 and 39(3) of the Employment Relations (Northern Ireland) Order 1999[^f00002] and now vested in it, and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-496edf52b84c0c0bd549ad4ff5a0a6ce]
+## 1. Citation, commencement and interpretation[^c-496edf52b84c0c0bd549ad4ff5a0a6ce]
 
 (1) This Order may be cited as the Employment Rights (Increase of Limits) Order (Northern Ireland) 2000 and shall come into operation on 5th March 2000.
 
@@ -50,15 +50,15 @@ The Department of Higher and Further Education, Training and Employment[^f00001]
 - (a) “the 1995 Order” means the Trade Union and Labour Relations (Northern Ireland) Order 1995[^f00003];
 - (b) “the 1996 Order” means the Employment Rights (Northern Ireland) Order 1996[^f00004].
 
-## 2. Revocation[^key-5e851f4eca40d479826c34e24d19e254]
+## 2. Revocation[^c-5e851f4eca40d479826c34e24d19e254]
 
 Subject to Article 4 below, the Employment Rights (Increase of Limits) Order (Northern Ireland) 1998[^f00005] is revoked.
 
-## 3. Increase of limits[^key-4c081db5ae64a4d4be43f51275c08138]
+## 3. Increase of limits[^c-4c081db5ae64a4d4be43f51275c08138]
 
 Subject to Article 4, each of the limits referred to in the first and second columns of the Table in the Schedule to this Order is increased by the substitution, in place of the old amount specified in the third column, of the new amount specified in the fourth column.
 
-## 4. Transitional provisions[^key-303517bb8a0d80591a86b2deffe2bb6e]
+## 4. Transitional provisions[^c-303517bb8a0d80591a86b2deffe2bb6e]
 
 (1) The increases provided for in Article 3 have effect in any case where the appropriate date falls on or after 5th March 2000.
 
@@ -84,7 +84,7 @@ Senior Officer of the
 
 Department of Higher and Further Education, Training and Employment
 
-## SCHEDULE — Table of increase of Limits[^key-539a0b1d88300e66a7cee2958f3f244d]
+## SCHEDULE — Table of increase of Limits[^c-539a0b1d88300e66a7cee2958f3f244d]
 
 Article 3
 
@@ -109,18 +109,18 @@ Article 4 of the Order contains transitional provisions determining the circumst
 
 [^f00002]: Footnote: S.I. [1999/2790 (N.I. 9)](https://www.legislation.gov.uk/nisi/1999/2790)
 
-[^key-496edf52b84c0c0bd549ad4ff5a0a6ce]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2000/6/article/1) in operation at 5.3.2000, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/6/article/1/1)
+[^c-496edf52b84c0c0bd549ad4ff5a0a6ce]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2000/6/article/1) in operation at 5.3.2000, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/6/article/1/1)
 
 [^f00003]: Footnote: S.I. [1995/1980 (N.I. 12)](https://www.legislation.gov.uk/nisi/1995/1980)
 
 [^f00004]: Footnote: S.I. [1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
 
-[^key-5e851f4eca40d479826c34e24d19e254]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2000/6/article/2) in operation at 5.3.2000, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/6/article/1/1)
+[^c-5e851f4eca40d479826c34e24d19e254]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2000/6/article/2) in operation at 5.3.2000, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/6/article/1/1)
 
 [^f00005]: Footnote: [S.R. 1998 No. 130](https://www.legislation.gov.uk/nisr/1998/130)
 
-[^key-4c081db5ae64a4d4be43f51275c08138]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2000/6/article/3) in operation at 5.3.2000, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/6/article/1/1)
+[^c-4c081db5ae64a4d4be43f51275c08138]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2000/6/article/3) in operation at 5.3.2000, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/6/article/1/1)
 
-[^key-303517bb8a0d80591a86b2deffe2bb6e]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2000/6/article/4) in operation at 5.3.2000, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/6/article/1/1)
+[^c-303517bb8a0d80591a86b2deffe2bb6e]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2000/6/article/4) in operation at 5.3.2000, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/6/article/1/1)
 
-[^key-539a0b1d88300e66a7cee2958f3f244d]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2000/6/schedule) in operation at 5.3.2000, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/6/article/1/1)
+[^c-539a0b1d88300e66a7cee2958f3f244d]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2000/6/schedule) in operation at 5.3.2000, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/6/article/1/1)

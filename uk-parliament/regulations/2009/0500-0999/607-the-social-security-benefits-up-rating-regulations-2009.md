@@ -40,39 +40,39 @@ Coming into force
 
 6th April 2009
 
-[^key-3bb488b0348f52b7d341081aba8698fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bb488b0348f52b7d341081aba8698fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-3bb488b0348f52b7d341081aba8698fb]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^key-3bb488b0348f52b7d341081aba8698fb]
+## 1. Citation, commencement and interpretation[^c-3bb488b0348f52b7d341081aba8698fb]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons not ordinarily resident in Great Britain[^key-3bb488b0348f52b7d341081aba8698fb]
+## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^c-3bb488b0348f52b7d341081aba8698fb]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security Benefit (Dependency) Regulations 1977[^key-3bb488b0348f52b7d341081aba8698fb]
+## 3. Persons not ordinarily resident in Great Britain[^c-3bb488b0348f52b7d341081aba8698fb]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Social Security (Claims and Payments) Regulations 1987[^key-3bb488b0348f52b7d341081aba8698fb]
+## 4. Amendment of the Social Security Benefit (Dependency) Regulations 1977[^c-3bb488b0348f52b7d341081aba8698fb]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-3bb488b0348f52b7d341081aba8698fb]
+## 5. Amendment of the Social Security (Claims and Payments) Regulations 1987[^c-3bb488b0348f52b7d341081aba8698fb]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Revocation[^c-3bb488b0348f52b7d341081aba8698fb]
 
 **No longer in force.**
 
@@ -80,10 +80,10 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-3bb488b0348f52b7d341081aba8698fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bb488b0348f52b7d341081aba8698fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3bb488b0348f52b7d341081aba8698fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bb488b0348f52b7d341081aba8698fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3bb488b0348f52b7d341081aba8698fb]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2009/607) revoked (11.4.2011) by [The Social Security Benefits Up-rating Regulations 2011 (S.I. 2011/830)](https://www.legislation.gov.uk/uksi/2011/830), [reg. 6(a)](https://www.legislation.gov.uk/uksi/2011/830/regulation/6/a)
+[^c-3bb488b0348f52b7d341081aba8698fb]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2009/607) revoked (11.4.2011) by [The Social Security Benefits Up-rating Regulations 2011 (S.I. 2011/830)](https://www.legislation.gov.uk/uksi/2011/830), [reg. 6(a)](https://www.legislation.gov.uk/uksi/2011/830/regulation/6/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Power of mayors to convene meetings with local partners[^key-68eac8e0c14117da714e491d0b333182][^key-eb07e80f43414906bb2b89b5a5ee73df]
+## 22. Power of mayors to convene meetings with local partners[^c-68eac8e0c14117da714e491d0b333182][^c-eb07e80f43414906bb2b89b5a5ee73df]
 
 *Extent: E+W*
 
@@ -96,6 +96,6 @@ summary: ''
 
 ## Annotations
 
-[^key-68eac8e0c14117da714e491d0b333182]: Commencement: S. 22 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-68eac8e0c14117da714e491d0b333182]: Commencement: S. 22 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-eb07e80f43414906bb2b89b5a5ee73df]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2026/23/section/22) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-eb07e80f43414906bb2b89b5a5ee73df]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2026/23/section/22) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

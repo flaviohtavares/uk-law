@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Control over authorised persons[^key-ed6b34610d5b2952a942e412cfcf759c]
+## 61. Control over authorised persons[^c-ed6b34610d5b2952a942e412cfcf759c]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In Part 12 of FSMA 2000 (control over authorised persons), in section 187 (appro
 
 ## Annotations
 
-[^key-ed6b34610d5b2952a942e412cfcf759c]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2023/29/section/61) in force at 29.8.2023, see [s. 86(2)(g)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/g)
+[^c-ed6b34610d5b2952a942e412cfcf759c]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2023/29/section/61) in force at 29.8.2023, see [s. 86(2)(g)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/g)

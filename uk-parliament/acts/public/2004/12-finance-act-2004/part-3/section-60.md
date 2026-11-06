@@ -30,7 +30,7 @@ summary: ''
 
 (3) This exception applies if the payment is treated as earnings from an employment by virtue of Chapter 7 of Part 2 of the Income Tax (Earnings and Pensions) Act 2003 (c. 1) (agency workers).
 
-(3A)[^key-fe3e19235adeea34ea1956971aeb3485] This exception applies in so far as—
+(3A)[^c-fe3e19235adeea34ea1956971aeb3485] This exception applies in so far as—
 
 - (a) the payment can reasonably be taken to be for the services of an individual, and
 - (b) the provision of those services gives rise to an engagement to which Chapter 10 of Part 2 of ITEPA 2003 applies (workers' services provided through intermediaries to public authorities or medium or large clients).
@@ -79,4 +79,4 @@ the payment is for those purposes to be taken to be made to A.
 
 ## Annotations
 
-[^key-fe3e19235adeea34ea1956971aeb3485]: Textual amendment: [S. 60(3A)-(3C)](https://www.legislation.gov.uk/ukpga/2004/12/section/60/3A) inserted (with effect in accordance with Sch. 1 para. 27 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/20) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))
+[^c-fe3e19235adeea34ea1956971aeb3485]: Textual amendment: [S. 60(3A)-(3C)](https://www.legislation.gov.uk/ukpga/2004/12/section/60/3A) inserted (with effect in accordance with Sch. 1 para. 27 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/20) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))

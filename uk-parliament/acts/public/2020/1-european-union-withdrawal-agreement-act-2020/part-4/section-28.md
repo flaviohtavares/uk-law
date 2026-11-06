@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Ancillary fee-charging powers[^key-2883c3c25cb05b8d7f8ec618a34b62a8]
+## 28. Ancillary fee-charging powers[^c-2883c3c25cb05b8d7f8ec618a34b62a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ In Part 1 of Schedule 4 to the European Union (Withdrawal) Act 2018 (charging in
 
 ## Annotations
 
-[^key-2883c3c25cb05b8d7f8ec618a34b62a8]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2020/1/section/28) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/m)
+[^c-2883c3c25cb05b8d7f8ec618a34b62a8]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2020/1/section/28) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/m)

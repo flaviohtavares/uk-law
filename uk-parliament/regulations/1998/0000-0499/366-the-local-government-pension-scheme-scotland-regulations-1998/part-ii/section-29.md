@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Further provisions about elections under regulation 28[^key-e4b0c3fc55bae135ca5745763ebcf292]
+## 29. Further provisions about elections under regulation 28[^c-e4b0c3fc55bae135ca5745763ebcf292]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4b0c3fc55bae135ca5745763ebcf292]: Commencement: Reg. 29 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-e4b0c3fc55bae135ca5745763ebcf292]: Commencement: Reg. 29 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

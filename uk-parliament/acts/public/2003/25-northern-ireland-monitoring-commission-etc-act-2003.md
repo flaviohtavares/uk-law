@@ -40,44 +40,44 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ### 1. The Monitoring Commission
 
-(1)[^key-e6373d121f54d739324aad084cfc5044] In this Act, “ *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044] **the Monitoring Commission *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]** ” means an independent organisation established, by an agreement made in connection with the affairs of Northern Ireland between Her Majesty’s Government in the United Kingdom and the Government of Ireland, to carry out functions which include— *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+(1)[^c-e6373d121f54d739324aad084cfc5044] In this Act, “ *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044] **the Monitoring Commission *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]** ” means an independent organisation established, by an agreement made in connection with the affairs of Northern Ireland between Her Majesty’s Government in the United Kingdom and the Government of Ireland, to carry out functions which include— *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
 
-- (a) monitoring activity by paramilitary groups, *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
-- (b) monitoring security normalisation, and *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
-- (c) reporting on claims relating to commitment to the observing of terms of the pledge of office set out in Schedule 4 to the Northern Ireland Act 1998 (c. 47). *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+- (a) monitoring activity by paramilitary groups, *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
+- (b) monitoring security normalisation, and *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
+- (c) reporting on claims relating to commitment to the observing of terms of the pledge of office set out in Schedule 4 to the Northern Ireland Act 1998 (c. 47). *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
 
-(2) The Secretary of State may by order— *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+(2) The Secretary of State may by order— *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
 
-- (a) confer on the Monitoring Commission the legal capacities of a body corporate; *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
-- (b) confer on the Monitoring Commission, in such cases, to such extent and with such modifications as the order may specify, any of the privileges and immunities set out in Part 1 of Schedule 1 to the International Organisations Act 1968 (c. 48); *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
-- (c) confer on members and servants of the Monitoring Commission and members of their families who form part of their households, in such cases, to such extent and with such modifications as the order may specify, any of the privileges and immunities set out in Parts 2, 3 and 5 of that Schedule; *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
-- (d) make provision about the waiver of privileges and immunities. *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+- (a) confer on the Monitoring Commission the legal capacities of a body corporate; *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
+- (b) confer on the Monitoring Commission, in such cases, to such extent and with such modifications as the order may specify, any of the privileges and immunities set out in Part 1 of Schedule 1 to the International Organisations Act 1968 (c. 48); *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
+- (c) confer on members and servants of the Monitoring Commission and members of their families who form part of their households, in such cases, to such extent and with such modifications as the order may specify, any of the privileges and immunities set out in Parts 2, 3 and 5 of that Schedule; *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
+- (d) make provision about the waiver of privileges and immunities. *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
 
-(3) The reference in subsection (2)(c) to servants of the Monitoring Commission includes agents of, and persons carrying out work for or giving advice to, the Monitoring Commission. *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+(3) The reference in subsection (2)(c) to servants of the Monitoring Commission includes agents of, and persons carrying out work for or giving advice to, the Monitoring Commission. *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
 
-(4) An order under subsection (2)— *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+(4) An order under subsection (2)— *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
 
-- (a) may make different provision for different cases (including different provision for different persons), and *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
-- (b) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament. *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+- (a) may make different provision for different cases (including different provision for different persons), and *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
+- (b) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament. *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
 
-(5) The Secretary of State— *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+(5) The Secretary of State— *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
 
-- (a) may make payments to the Monitoring Commission or to members of the Monitoring Commission, and *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
-- (b) may provide for the Monitoring Commission such premises and facilities, and the services of such staff, as he thinks appropriate. *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+- (a) may make payments to the Monitoring Commission or to members of the Monitoring Commission, and *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
+- (b) may provide for the Monitoring Commission such premises and facilities, and the services of such staff, as he thinks appropriate. *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
 
 ### 2. Commission’s duty to avoid prejudicial effects
 
-(1) The Monitoring Commission shall not do anything in carrying out its functions which might— *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+(1) The Monitoring Commission shall not do anything in carrying out its functions which might— *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
 
-- (a) prejudice the national security interests of the United Kingdom or Ireland, *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
-- (b) put at risk the safety or life of any person, or *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
-- (c) have a prejudicial effect on any present or future legal proceedings. *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+- (a) prejudice the national security interests of the United Kingdom or Ireland, *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
+- (b) put at risk the safety or life of any person, or *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
+- (c) have a prejudicial effect on any present or future legal proceedings. *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
 
-(2) The duty under subsection (1) is owed to Her Majesty’s Government in the United Kingdom. *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+(2) The duty under subsection (1) is owed to Her Majesty’s Government in the United Kingdom. *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
 
 ### 3. Laying of Commission reports before Parliament
 
-Where a report of the Monitoring Commission, or a report made by members of the Commission under the agreement establishing the Commission, is delivered by the Commission, or by members of the Commission, to Her Majesty’s Government in the United Kingdom, the Secretary of State shall lay a copy of the report before each House of Parliament. *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+Where a report of the Monitoring Commission, or a report made by members of the Commission under the agreement establishing the Commission, is delivered by the Commission, or by members of the Commission, to Her Majesty’s Government in the United Kingdom, the Secretary of State shall lay a copy of the report before each House of Parliament. *(affected by repeal, see note)*[^c-e6373d121f54d739324aad084cfc5044]
 
 ## Exclusion from Ministerial office
 
@@ -564,23 +564,23 @@ After section 51C of the Northern Ireland Act 1998 (c. 47) there is inserted—
 
 ### 11. Secretary of State’s duty to prepare reports
 
-(1)[^key-b8bf5374c3f8fbd274897a8cbedaf62a] The Secretary of State shall report on the operation of— *(affected by repeal, see note)*[^key-b8bf5374c3f8fbd274897a8cbedaf62a]
+(1)[^c-b8bf5374c3f8fbd274897a8cbedaf62a] The Secretary of State shall report on the operation of— *(affected by repeal, see note)*[^c-b8bf5374c3f8fbd274897a8cbedaf62a]
 
-- (a) the agreement mentioned in section 1(1), and *(affected by repeal, see note)*[^key-b8bf5374c3f8fbd274897a8cbedaf62a]
-- (b) so much of this Act as amends the Northern Ireland Act 1998 (c. 47). *(affected by repeal, see note)*[^key-b8bf5374c3f8fbd274897a8cbedaf62a]
+- (a) the agreement mentioned in section 1(1), and *(affected by repeal, see note)*[^c-b8bf5374c3f8fbd274897a8cbedaf62a]
+- (b) so much of this Act as amends the Northern Ireland Act 1998 (c. 47). *(affected by repeal, see note)*[^c-b8bf5374c3f8fbd274897a8cbedaf62a]
 
-(2) The first report under this section shall be in respect of the period of twelve months beginning with the passing of this Act. *(affected by repeal, see note)*[^key-b8bf5374c3f8fbd274897a8cbedaf62a]
+(2) The first report under this section shall be in respect of the period of twelve months beginning with the passing of this Act. *(affected by repeal, see note)*[^c-b8bf5374c3f8fbd274897a8cbedaf62a]
 
-(3) Subsequent reports under this section shall be in respect of the period of twelve months beginning with the end of the previous reporting period. *(affected by repeal, see note)*[^key-b8bf5374c3f8fbd274897a8cbedaf62a]
+(3) Subsequent reports under this section shall be in respect of the period of twelve months beginning with the end of the previous reporting period. *(affected by repeal, see note)*[^c-b8bf5374c3f8fbd274897a8cbedaf62a]
 
-(4) Each report under this section shall be prepared as soon as practicable after the end of the period to which it relates. *(affected by repeal, see note)*[^key-b8bf5374c3f8fbd274897a8cbedaf62a]
+(4) Each report under this section shall be prepared as soon as practicable after the end of the period to which it relates. *(affected by repeal, see note)*[^c-b8bf5374c3f8fbd274897a8cbedaf62a]
 
-(5) A report under this section shall include any additional information which the Secretary of State thinks it appropriate for the report to include. *(affected by repeal, see note)*[^key-b8bf5374c3f8fbd274897a8cbedaf62a]
+(5) A report under this section shall include any additional information which the Secretary of State thinks it appropriate for the report to include. *(affected by repeal, see note)*[^c-b8bf5374c3f8fbd274897a8cbedaf62a]
 
-(6) The Secretary of State shall— *(affected by repeal, see note)*[^key-b8bf5374c3f8fbd274897a8cbedaf62a]
+(6) The Secretary of State shall— *(affected by repeal, see note)*[^c-b8bf5374c3f8fbd274897a8cbedaf62a]
 
-- (a) lay a copy of each report under this section before each House of Parliament, and *(affected by repeal, see note)*[^key-b8bf5374c3f8fbd274897a8cbedaf62a]
-- (b) publish each such report in such manner as he thinks fit. *(affected by repeal, see note)*[^key-b8bf5374c3f8fbd274897a8cbedaf62a]
+- (a) lay a copy of each report under this section before each House of Parliament, and *(affected by repeal, see note)*[^c-b8bf5374c3f8fbd274897a8cbedaf62a]
+- (b) publish each such report in such manner as he thinks fit. *(affected by repeal, see note)*[^c-b8bf5374c3f8fbd274897a8cbedaf62a]
 
 ### 12. Short title, commencement and repeals
 
@@ -588,18 +588,18 @@ After section 51C of the Northern Ireland Act 1998 (c. 47) there is inserted—
 
 (2)[^c2031685][^c2031687] This Act, other than this section, comes into force on such day as the Secretary of State may by order made by statutory instrument appoint, and different days may be so appointed for different purposes.
 
-(3)[^key-0a5c7c98b4ebc450e18a27485a81911b] Sections 1 to 3 and 11 of this Act, and sections 30A, 47B and 51B of the Northern Ireland Act 1998 (c. 47), shall cease to have effect at the end of such day as the Secretary of State may by order made by statutory instrument appoint.
+(3)[^c-0a5c7c98b4ebc450e18a27485a81911b] Sections 1 to 3 and 11 of this Act, and sections 30A, 47B and 51B of the Northern Ireland Act 1998 (c. 47), shall cease to have effect at the end of such day as the Secretary of State may by order made by statutory instrument appoint.
 
 (4) An order under subsection (3) may include such consequential provision (including provision amending or repealing an enactment) and such transitional provision as the Secretary of State thinks fit.
 
 ## Annotations
 
-[^key-e6373d121f54d739324aad084cfc5044]: Textual amendment: Ss. 1-3 cease to have effect (31.3.2011 at the end of the day) by [Northern Ireland (Monitoring Commission etc.) Act 2003 (c. 25)](https://www.legislation.gov.uk/ukpga/2003/25), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2003/25/section/12/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/25/section/12/3); [S.I. 2011/978](https://www.legislation.gov.uk/uksi/2011/978), [art. 2](https://www.legislation.gov.uk/uksi/2011/978/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2011/978/article/3))
+[^c-e6373d121f54d739324aad084cfc5044]: Textual amendment: Ss. 1-3 cease to have effect (31.3.2011 at the end of the day) by [Northern Ireland (Monitoring Commission etc.) Act 2003 (c. 25)](https://www.legislation.gov.uk/ukpga/2003/25), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2003/25/section/12/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/25/section/12/3); [S.I. 2011/978](https://www.legislation.gov.uk/uksi/2011/978), [art. 2](https://www.legislation.gov.uk/uksi/2011/978/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2011/978/article/3))
 
-[^key-b8bf5374c3f8fbd274897a8cbedaf62a]: Textual amendment: S. 11 ceases to have effect (31.3.2011 at the end of the day) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (c. 25)](https://www.legislation.gov.uk/ukpga/2003/25), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2003/25/section/12/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/25/section/12/3); [S.I. 2011/978](https://www.legislation.gov.uk/uksi/2011/978), [art. 2](https://www.legislation.gov.uk/uksi/2011/978/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2011/978/article/3))
+[^c-b8bf5374c3f8fbd274897a8cbedaf62a]: Textual amendment: S. 11 ceases to have effect (31.3.2011 at the end of the day) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (c. 25)](https://www.legislation.gov.uk/ukpga/2003/25), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2003/25/section/12/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/25/section/12/3); [S.I. 2011/978](https://www.legislation.gov.uk/uksi/2011/978), [art. 2](https://www.legislation.gov.uk/uksi/2011/978/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2011/978/article/3))
 
 [^c2031685]: Subordinate legislation: S. 12(2) power partly exercised: 13.10.2003 appointed for specified provision by {[S.I. 2003/2646](https://www.legislation.gov.uk/uksi/2003/2646)}, art. 2
 
 [^c2031687]: Subordinate legislation: S. 12(2) power partly exercised: 7.1.2004 appointed for specified provisions by {[S.I. 2004/83](https://www.legislation.gov.uk/uksi/2004/83)}, art. 2
 
-[^key-0a5c7c98b4ebc450e18a27485a81911b]: Modification: S. 12(3): 31.3.2011 appointed for the purposes of s. 12(3) by [S.I. 2011/978](https://www.legislation.gov.uk/uksi/2011/978), art. 2 (with arts. 2, 3) and accordingly the provisions referred to therein cease to have effect at the end of that day
+[^c-0a5c7c98b4ebc450e18a27485a81911b]: Modification: S. 12(3): 31.3.2011 appointed for the purposes of s. 12(3) by [S.I. 2011/978](https://www.legislation.gov.uk/uksi/2011/978), art. 2 (with arts. 2, 3) and accordingly the provisions referred to therein cease to have effect at the end of that day

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Amendment of article 2 (interpretation) of the AF(RRGES) (No.2) Order[^key-3bad59d315b36c24a600385482de5fe4]
+## 36. Amendment of article 2 (interpretation) of the AF(RRGES) (No.2) Order[^c-3bad59d315b36c24a600385482de5fe4]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ Article 2 (interpretation) of the AF(RRGES)(No.2) Order is amended by inserting 
 
 ## Annotations
 
-[^key-3bad59d315b36c24a600385482de5fe4]: Commencement: Reg. 36 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-3bad59d315b36c24a600385482de5fe4]: Commencement: Reg. 36 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00029]: Footnote: [S.I 2014/2336](https://www.legislation.gov.uk/uksi/2014/2336).

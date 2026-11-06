@@ -568,7 +568,7 @@ this paragraph applies as if the authority had refused the request and notified 
 
 **30.** In this Schedule—
 
-- “**"appropriate Ministers”**” means the Secretary of State for Housing, Communities and Local Government[^key-7847c46ab945860afa6a81142023cb48] and the Secretary of State for Transport and, in relation to the carrying out of any function, means those Ministers acting jointly;
+- “**"appropriate Ministers”**” means the Secretary of State for Housing, Communities and Local Government[^c-7847c46ab945860afa6a81142023cb48] and the Secretary of State for Transport and, in relation to the carrying out of any function, means those Ministers acting jointly;
 - “**"building”**” includes any structure other than—
   - (a) anything in the nature of plant or machinery,
   - (b) any gate, fence, wall or other means of enclosure,
@@ -585,4 +585,4 @@ this paragraph applies as if the authority had refused the request and notified 
 
 ## Annotations
 
-[^key-7847c46ab945860afa6a81142023cb48]: Textual amendment: Words in [Sch. 17 para. 30](https://www.legislation.gov.uk/ukpga/2017/7/schedule/17/paragraph/30) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 12(c)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/12/c) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-7847c46ab945860afa6a81142023cb48]: Textual amendment: Words in [Sch. 17 para. 30](https://www.legislation.gov.uk/ukpga/2017/7/schedule/17/paragraph/30) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 12(c)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/12/c) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))

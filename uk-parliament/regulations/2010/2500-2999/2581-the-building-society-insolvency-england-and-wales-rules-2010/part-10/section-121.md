@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 121. The chair at meetings[^key-7713b8ea7e4a6c1bfba78c71cb2761eb]
+## 121. The chair at meetings[^c-7713b8ea7e4a6c1bfba78c71cb2761eb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.157 of the 1986 Rules.
 
 ## Annotations
 
-[^key-7713b8ea7e4a6c1bfba78c71cb2761eb]: Commencement: Rule 121 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-7713b8ea7e4a6c1bfba78c71cb2761eb]: Commencement: Rule 121 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

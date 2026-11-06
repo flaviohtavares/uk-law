@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## Schedule ZA — Commuted portion: special members[^key-b81fa19349b5005fc3350f20fb4bf77f]
+## Schedule ZA — Commuted portion: special members[^c-b81fa19349b5005fc3350f20fb4bf77f]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ Part 3, article 19(2A) and Part 6, article 39(7B)
 
 ## Annotations
 
-[^key-b81fa19349b5005fc3350f20fb4bf77f]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2007/215/schedule) ZA inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 12(1)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/12/1)
+[^c-b81fa19349b5005fc3350f20fb4bf77f]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2007/215/schedule) ZA inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 12(1)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/12/1)

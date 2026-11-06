@@ -43,11 +43,11 @@ The Department of the Environment makes the following Regulations in exercise of
 
 In accordance with Article 9 of that Order the Department has consulted with the Northern Ireland Local Government Association, the Northern Ireland Local Government Officers' Superannuation Committee and representatives of those whom the Department considers to be likely to be affected by the Regulations:
 
-## 1. Citation, commencement and retrospection[^key-a9d5152333ee0471622415cfe2abc96f]
+## 1. Citation, commencement and retrospection[^c-a9d5152333ee0471622415cfe2abc96f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Local Government (Discretionary Payments) Regulations (Northern Ireland) 2001[^key-16bf587bf99b3471bf4df01ad609d879]
+## 2. The Local Government (Discretionary Payments) Regulations (Northern Ireland) 2001[^c-16bf587bf99b3471bf4df01ad609d879]
 
 (1) The Local Government (Discretionary Payments) Regulations (Northern Ireland) 2001[^f00003] shall be amended in accordance with paragraph (2).
 
@@ -57,15 +57,15 @@ In accordance with Article 9 of that Order the Department has consulted with the
 
 .
 
-## 3. Local Government Pension Scheme Regulations (Northern Ireland) 2002[^key-a9d5152333ee0471622415cfe2abc96f]
+## 3. Local Government Pension Scheme Regulations (Northern Ireland) 2002[^c-a9d5152333ee0471622415cfe2abc96f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Local Government Pension Scheme (Amendment No. 2 and Transitional Provisions) Regulations (Northern Ireland) 2002[^key-a9d5152333ee0471622415cfe2abc96f]
+## 4. Local Government Pension Scheme (Amendment No. 2 and Transitional Provisions) Regulations (Northern Ireland) 2002[^c-a9d5152333ee0471622415cfe2abc96f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. The Local Government (Early Termination of Employment) (Discretionary Compensation) Regulations (Northern Ireland) 2003[^key-ae1b626ca607867c323158e6b1a7399b]
+## 5. The Local Government (Early Termination of Employment) (Discretionary Compensation) Regulations (Northern Ireland) 2003[^c-ae1b626ca607867c323158e6b1a7399b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -110,10 +110,10 @@ Some bodies within the business, charity and voluntary sectors are employers wit
 
 [^f00002]: Footnote: [S.R. & O (N.I.) 1973 No 504](https://www.legislation.gov.uk/nisro/1973/504) Article 7 (1); [S.I. 1976/424 (N.I. 6)](https://www.legislation.gov.uk/nisi/1976/424)
 
-[^key-a9d5152333ee0471622415cfe2abc96f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/6) revoked (except reg. 2) (1.4.2009) by [Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/34)](https://www.legislation.gov.uk/nisr/2009/34), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/34/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2009/34/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/nisr/2009/34/regulation/3))
+[^c-a9d5152333ee0471622415cfe2abc96f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/6) revoked (except reg. 2) (1.4.2009) by [Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/34)](https://www.legislation.gov.uk/nisr/2009/34), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/34/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2009/34/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/nisr/2009/34/regulation/3))
 
-[^key-16bf587bf99b3471bf4df01ad609d879]: Commencement: Reg. 2 in operation at 10.2.2006 with effect in accordance with reg. 1(2)
+[^c-16bf587bf99b3471bf4df01ad609d879]: Commencement: Reg. 2 in operation at 10.2.2006 with effect in accordance with reg. 1(2)
 
 [^f00003]: Footnote: [S.R. 2001 No. 279](https://www.legislation.gov.uk/nisr/2001/279) to which there are amendments not relevant to these Regulations
 
-[^key-ae1b626ca607867c323158e6b1a7399b]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/6/regulation/5) revoked (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government (Early Termination of Employment) (Discretionary Compensation) Regulations (Northern Ireland) 2007 (S.R. 2007/93)](https://www.legislation.gov.uk/nisr/2007/93), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/93/regulation/1/2), [9(1)(b)](https://www.legislation.gov.uk/nisr/2007/93/regulation/9/1/b) (with [reg. 9](https://www.legislation.gov.uk/nisr/2007/93/regulation/9))
+[^c-ae1b626ca607867c323158e6b1a7399b]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/6/regulation/5) revoked (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government (Early Termination of Employment) (Discretionary Compensation) Regulations (Northern Ireland) 2007 (S.R. 2007/93)](https://www.legislation.gov.uk/nisr/2007/93), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/93/regulation/1/2), [9(1)(b)](https://www.legislation.gov.uk/nisr/2007/93/regulation/9/1/b) (with [reg. 9](https://www.legislation.gov.uk/nisr/2007/93/regulation/9))

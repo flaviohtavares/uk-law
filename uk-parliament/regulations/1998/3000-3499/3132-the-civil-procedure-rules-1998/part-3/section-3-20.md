@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.20. Application for a costs capping order[^key-4079a04c63c1990c9203ca9a6e2ec5ec]
+## 3.20. Application for a costs capping order[^c-4079a04c63c1990c9203ca9a6e2ec5ec]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 (3) The court may give directions for the determination of the application and such directions may –
 
 - (a) direct any party to the proceedings –
-  - (i) to file a schedule of costs in the form set out in paragraph 3 of Practice Direction 3E[^key-056368394c4a72954867080abfb7fa6b] – Costs capping;
+  - (i) to file a schedule of costs in the form set out in paragraph 3 of Practice Direction 3E[^c-056368394c4a72954867080abfb7fa6b] – Costs capping;
   - (ii) to file written submissions on all or any part of the issues arising;
 - (b) fix the date and time estimate of the hearing of the application;
 - (c) indicate whether the judge hearing the application will sit with an assessor at the hearing of the application; and
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4079a04c63c1990c9203ca9a6e2ec5ec]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/1998/3132/part/3) Sections 2, 3 inserted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [5(h)](https://www.legislation.gov.uk/uksi/2013/262/rule/5/h) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
+[^c-4079a04c63c1990c9203ca9a6e2ec5ec]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/1998/3132/part/3) Sections 2, 3 inserted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [5(h)](https://www.legislation.gov.uk/uksi/2013/262/rule/5/h) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
 
-[^key-056368394c4a72954867080abfb7fa6b]: Textual amendment: Word in [rule 3.20(3)(a)(i)](https://www.legislation.gov.uk/uksi/1998/3132/rule/3.20/3/a/i) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2022/783/rule/4/7)
+[^c-056368394c4a72954867080abfb7fa6b]: Textual amendment: Word in [rule 3.20(3)(a)(i)](https://www.legislation.gov.uk/uksi/1998/3132/rule/3.20/3/a/i) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2022/783/rule/4/7)

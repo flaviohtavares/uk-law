@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271. Duty to report an occurrence[^key-902208fd284347aaec3cf5f661b66233]
+## 271. Duty to report an occurrence[^c-902208fd284347aaec3cf5f661b66233]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-902208fd284347aaec3cf5f661b66233]: Commencement: Reg. 271 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-902208fd284347aaec3cf5f661b66233]: Commencement: Reg. 271 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

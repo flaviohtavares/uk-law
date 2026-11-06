@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Permanent lights on tidal works[^key-bbd4c282191542956ed5877aca9b2393]
+## 28. Permanent lights on tidal works[^c-bbd4c282191542956ed5877aca9b2393]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbd4c282191542956ed5877aca9b2393]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2014/2935/article/28) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-bbd4c282191542956ed5877aca9b2393]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2014/2935/article/28) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

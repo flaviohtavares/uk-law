@@ -33,24 +33,24 @@ of 27 November 2015
 
 on the appointment of the chairperson, the members and their alternates of the Network Management Board for the air traffic management network functions for the second reference period (2015-2019) (revoked)
 
-[^key-610c4bd4fb166ea5ed75281ba5466af0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-610c4bd4fb166ea5ed75281ba5466af0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-610c4bd4fb166ea5ed75281ba5466af0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-610c4bd4fb166ea5ed75281ba5466af0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-610c4bd4fb166ea5ed75281ba5466af0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-610c4bd4fb166ea5ed75281ba5466af0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-610c4bd4fb166ea5ed75281ba5466af0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-610c4bd4fb166ea5ed75281ba5466af0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-610c4bd4fb166ea5ed75281ba5466af0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-610c4bd4fb166ea5ed75281ba5466af0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-610c4bd4fb166ea5ed75281ba5466af0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-610c4bd4fb166ea5ed75281ba5466af0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-610c4bd4fb166ea5ed75281ba5466af0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-610c4bd4fb166ea5ed75281ba5466af0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — VOTING AND NON-VOTING MEMBERS AND THEIR ALTERNATES OF THE NETWORK MANAGEMENT BOARD[^key-610c4bd4fb166ea5ed75281ba5466af0]
+## ANNEX — VOTING AND NON-VOTING MEMBERS AND THEIR ALTERNATES OF THE NETWORK MANAGEMENT BOARD[^c-610c4bd4fb166ea5ed75281ba5466af0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-610c4bd4fb166ea5ed75281ba5466af0]: Textual amendment: Decision revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [381](https://www.legislation.gov.uk/uksi/2019/459/regulation/381); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-610c4bd4fb166ea5ed75281ba5466af0]: Textual amendment: Decision revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [381](https://www.legislation.gov.uk/uksi/2019/459/regulation/381); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

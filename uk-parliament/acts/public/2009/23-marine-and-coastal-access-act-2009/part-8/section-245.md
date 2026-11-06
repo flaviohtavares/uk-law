@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245. Common enforcement powers[^key-cf5726e74b8c37187b2662c11c483cc4]
+## 245. Common enforcement powers[^c-cf5726e74b8c37187b2662c11c483cc4]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf5726e74b8c37187b2662c11c483cc4]: Commencement: S. 245 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)
+[^c-cf5726e74b8c37187b2662c11c483cc4]: Commencement: S. 245 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)

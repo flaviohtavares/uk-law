@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Amount of grant or loan[^key-9dcc833fc87c269677b9c84d267d146d][^key-4c49ba1640b4c3536db2269b1c038971]
+## 79. Amount of grant or loan[^c-9dcc833fc87c269677b9c84d267d146d][^c-4c49ba1640b4c3536db2269b1c038971]
 
 *Extent: S*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9dcc833fc87c269677b9c84d267d146d]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2006/1/section/79) in force at 29.9.2008 for specified purposes by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3)
+[^c-9dcc833fc87c269677b9c84d267d146d]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2006/1/section/79) in force at 29.9.2008 for specified purposes by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3)
 
-[^key-4c49ba1640b4c3536db2269b1c038971]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2006/1/section/79) in force at 1.4.2009 in so far as not already in force by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-4c49ba1640b4c3536db2269b1c038971]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2006/1/section/79) in force at 1.4.2009 in so far as not already in force by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

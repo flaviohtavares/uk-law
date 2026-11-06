@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10A. Duty to consult on unpaid work requirements[^key-b4b90a49c441de76e8d126ff16aeb03d]
+## 10A. Duty to consult on unpaid work requirements[^c-b4b90a49c441de76e8d126ff16aeb03d]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4b90a49c441de76e8d126ff16aeb03d]: Textual amendment: [S. 10A](https://www.legislation.gov.uk/ukpga/2007/21/section/10A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 155](https://www.legislation.gov.uk/ukpga/2022/32/section/155), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(r)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/r)
+[^c-b4b90a49c441de76e8d126ff16aeb03d]: Textual amendment: [S. 10A](https://www.legislation.gov.uk/ukpga/2007/21/section/10A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 155](https://www.legislation.gov.uk/ukpga/2022/32/section/155), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(r)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/r)

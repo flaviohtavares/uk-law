@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 164. Commutation amount for lump sum payable under regulation 162[^key-8dc6de8827b98162bda8d337cb5133d1]
+## 164. Commutation amount for lump sum payable under regulation 162[^c-8dc6de8827b98162bda8d337cb5133d1]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8dc6de8827b98162bda8d337cb5133d1]: Commencement: [Reg. 164](https://www.legislation.gov.uk/ssi/2014/292/regulation/164) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-8dc6de8827b98162bda8d337cb5133d1]: Commencement: [Reg. 164](https://www.legislation.gov.uk/ssi/2014/292/regulation/164) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57ZE. Right to time off to accompany to ante-natal appointment[^key-9b9a5b4d863f0ab222e6f5c0e622878a]
+## 57ZE. Right to time off to accompany to ante-natal appointment[^c-9b9a5b4d863f0ab222e6f5c0e622878a]
 
 *Extent: E+W+S*
 
@@ -42,8 +42,8 @@ summary: ''
 - (a) the person is the husband or civil partner of the pregnant woman,
 - (b) the person, being of a different sex or the same sex, lives with the woman in an enduring family relationship but is not a relative of the woman,
 - (c) the person is the father of the expected child,
-- (d) the person is a parent of the expected child by virtue of section 42 or 43 of the Human Fertilisation and Embryology Act 2008, [^key-0ae63e23c605c55fc1e13135c25952de]...
-- (e) the person is a potential applicant for a parental order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the expected child, or[^key-59875b5d9f0939c60ea9fa16d98a3270]
+- (d) the person is a parent of the expected child by virtue of section 42 or 43 of the Human Fertilisation and Embryology Act 2008, [^c-0ae63e23c605c55fc1e13135c25952de]...
+- (e) the person is a potential applicant for a parental order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the expected child, or[^c-59875b5d9f0939c60ea9fa16d98a3270]
 - (f) the person is a potential applicant for a parental order under section 54A of the Human Fertilisation and Embryology Act 2008 in respect of the expected child.
 
 (8) For the purposes of subsection (7) a relative of a person is the person's parent, grandparent, sister, brother, aunt or uncle.
@@ -63,7 +63,7 @@ but do not include any other adoptive relationships.
 - (d) A and B would satisfy section 54(2) if they made an application under section 54 at the time that A seeks to exercise the right under this section, and
 - (e) A expects that A and B will satisfy the conditions in section 54(2), (4), (5) and (8) as regards the intended application.
 
-(10A)[^key-7afeafea3c1c44e2ce8464f642027329] For the purposes of subsection (7)(f) a person is a potential applicant for a parental order under section 54A of the Human Fertilisation and Embryology Act 2008 in respect of an expected child only if—
+(10A)[^c-7afeafea3c1c44e2ce8464f642027329] For the purposes of subsection (7)(f) a person is a potential applicant for a parental order under section 54A of the Human Fertilisation and Embryology Act 2008 in respect of an expected child only if—
 
 - (a) the person intends to apply for such an order in respect of the expected child within the time allowed by section 54A(2),
 - (b) the expected child is being carried by the pregnant woman as a result of such procedure as is described in section 54A(1)(a),
@@ -79,10 +79,10 @@ but do not include any other adoptive relationships.
 
 ## Annotations
 
-[^key-9b9a5b4d863f0ab222e6f5c0e622878a]: Textual amendment: Ss. 57ZE-57ZI and cross-headings inserted (1.10.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 127(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/127/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/4/a)
+[^c-9b9a5b4d863f0ab222e6f5c0e622878a]: Textual amendment: Ss. 57ZE-57ZI and cross-headings inserted (1.10.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 127(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/127/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/4/a)
 
-[^key-0ae63e23c605c55fc1e13135c25952de]: Textual amendment: Word in s. 57ZE(7) omitted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 11(3)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/11/3)
+[^c-0ae63e23c605c55fc1e13135c25952de]: Textual amendment: Word in s. 57ZE(7) omitted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 11(3)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/11/3)
 
-[^key-59875b5d9f0939c60ea9fa16d98a3270]: Textual amendment: S. 57ZE(7)(f) and word inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 11(4)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/11/4)
+[^c-59875b5d9f0939c60ea9fa16d98a3270]: Textual amendment: S. 57ZE(7)(f) and word inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 11(4)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/11/4)
 
-[^key-7afeafea3c1c44e2ce8464f642027329]: Textual amendment: S. 57ZE(10A) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 11(5)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/11/5)
+[^c-7afeafea3c1c44e2ce8464f642027329]: Textual amendment: S. 57ZE(10A) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 11(5)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/11/5)

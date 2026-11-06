@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 26. Power of Board to commute pension for capital sum[^key-69011deda748f1138c8465cd60fcab42]
+## 26. Power of Board to commute pension for capital sum[^c-69011deda748f1138c8465cd60fcab42]
 
 *Extent: E*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69011deda748f1138c8465cd60fcab42]: Commencement: [S. 26](https://www.legislation.gov.uk/ukcm/2018/9/section/26) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-69011deda748f1138c8465cd60fcab42]: Commencement: [S. 26](https://www.legislation.gov.uk/ukcm/2018/9/section/26) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

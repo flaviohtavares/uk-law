@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Title, commencement and extent[^key-cbccdd4ba7c761f203daaafa36a750a4]
+## 1. Title, commencement and extent[^c-cbccdd4ba7c761f203daaafa36a750a4]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbccdd4ba7c761f203daaafa36a750a4]: Textual amendment: Regulations revoked (31.12.2003) by [The Products of Animal Origin (Third Country Imports) (England) Regulations 2003 (S.I. 2003/3177)](https://www.legislation.gov.uk/uksi/2003/3177), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3177/regulation/1), [68](https://www.legislation.gov.uk/uksi/2003/3177/regulation/68), [Sch. 6](https://www.legislation.gov.uk/uksi/2003/3177/schedule/6)
+[^c-cbccdd4ba7c761f203daaafa36a750a4]: Textual amendment: Regulations revoked (31.12.2003) by [The Products of Animal Origin (Third Country Imports) (England) Regulations 2003 (S.I. 2003/3177)](https://www.legislation.gov.uk/uksi/2003/3177), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3177/regulation/1), [68](https://www.legislation.gov.uk/uksi/2003/3177/regulation/68), [Sch. 6](https://www.legislation.gov.uk/uksi/2003/3177/schedule/6)

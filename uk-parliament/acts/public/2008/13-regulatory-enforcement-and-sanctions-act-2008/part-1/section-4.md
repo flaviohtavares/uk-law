@@ -48,14 +48,14 @@ summary: ''
 
 (5) An order under subsection (4) may make different provision for different purposes (including different provision in relation to local authorities in England and Wales respectively).
 
-(6) An order under subsection (4) requires the consent of the Welsh Ministers to make provision, in relation to local authorities in Wales, in respect of a devolved Welsh[^key-cae531b1fbb702c2ef1686d254fbd09b] matter.
+(6) An order under subsection (4) requires the consent of the Welsh Ministers to make provision, in relation to local authorities in Wales, in respect of a devolved Welsh[^c-cae531b1fbb702c2ef1686d254fbd09b] matter.
 
 (7) The Secretary of State may by order determine whether, for the purposes of subsection (3), an enactment made under section 2(2) of the European Communities Act 1972 is made with respect to any of the matters specified in that subsection.
 
 (8) An order under subsection (7) requires the consent of the Welsh Ministers where—
 
 - (a) the determination affects the application of this Part in relation to local authorities in Wales, and
-- (b) the enactment made under section 2(2) of the European Communities Act 1972 relates to a devolved Welsh[^key-72692c61b5068033c3c51326f300e363] matter.
+- (b) the enactment made under section 2(2) of the European Communities Act 1972 relates to a devolved Welsh[^c-72692c61b5068033c3c51326f300e363] matter.
 
 (9) In subsection (1)—
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cae531b1fbb702c2ef1686d254fbd09b]: Textual amendment: Words in [s. 4(6)](https://www.legislation.gov.uk/ukpga/2008/13/section/4/6) substituted (1.10.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2016/12/section/21/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5); [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/695/article/3/c)
+[^c-cae531b1fbb702c2ef1686d254fbd09b]: Textual amendment: Words in [s. 4(6)](https://www.legislation.gov.uk/ukpga/2008/13/section/4/6) substituted (1.10.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2016/12/section/21/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5); [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/695/article/3/c)
 
-[^key-72692c61b5068033c3c51326f300e363]: Textual amendment: Words in [s. 4(8)(b)](https://www.legislation.gov.uk/ukpga/2008/13/section/4/8/b) substituted (1.10.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2016/12/section/21/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5); [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/695/article/3/c)
+[^c-72692c61b5068033c3c51326f300e363]: Textual amendment: Words in [s. 4(8)(b)](https://www.legislation.gov.uk/ukpga/2008/13/section/4/8/b) substituted (1.10.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2016/12/section/21/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5); [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/695/article/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Powers of regulators in relation to parent undertakings[^key-5aada4a14c6e6befb66320d4f264a2ee][^key-8e23c7fc3fe95e70b3e2d11ba134c558][^key-de3eba7a4cf3f6e76e15d615a1802458]
+## 27. Powers of regulators in relation to parent undertakings[^c-5aada4a14c6e6befb66320d4f264a2ee][^c-8e23c7fc3fe95e70b3e2d11ba134c558][^c-de3eba7a4cf3f6e76e15d615a1802458]
 
 *Extent: E+W+S+N.I.*
 
@@ -326,8 +326,8 @@ After section 192 of FSMA 2000 insert—
 
 ## Annotations
 
-[^key-5aada4a14c6e6befb66320d4f264a2ee]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2012/21/section/27) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-5aada4a14c6e6befb66320d4f264a2ee]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2012/21/section/27) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-8e23c7fc3fe95e70b3e2d11ba134c558]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2012/21/section/27) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
+[^c-8e23c7fc3fe95e70b3e2d11ba134c558]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2012/21/section/27) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
 
-[^key-de3eba7a4cf3f6e76e15d615a1802458]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2012/21/section/27) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-de3eba7a4cf3f6e76e15d615a1802458]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2012/21/section/27) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

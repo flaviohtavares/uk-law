@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Temporary possession of land for maintenance of works[^key-a70f62bfd93fe25c94e253e46afb5c59]
+## 39. Temporary possession of land for maintenance of works[^c-a70f62bfd93fe25c94e253e46afb5c59]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a70f62bfd93fe25c94e253e46afb5c59]: Commencement: Art. 39 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-a70f62bfd93fe25c94e253e46afb5c59]: Commencement: Art. 39 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
 [^f00061]: Footnote: Section 10 was amended by section 4 of, and paragraph 13(2) of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).

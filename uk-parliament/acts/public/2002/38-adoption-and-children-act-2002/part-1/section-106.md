@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Effect of certain Northern Irish orders and provisions[^key-cc4c1e2a8d515d8b6133331d11942a78]
+## 106. Effect of certain Northern Irish orders and provisions[^c-cc4c1e2a8d515d8b6133331d11942a78]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,17 +24,17 @@ summary: ''
 
 (2) An order made under Article 17 or 18 of the Adoption (Northern Ireland) Order 1987 (freeing orders), or the variation or revocation of such an order under Article 20 or 21 of that Order, have effect in England and Wales as they have in Northern Ireland.
 
-(3)[^key-a9fd9a76e4d8734227d37dd0208615b6] Any person who—
+(3)[^c-a9fd9a76e4d8734227d37dd0208615b6] Any person who—
 
 - (a) contravenes Article 28(1) or (2) of the Adoption (Northern Ireland) Order 1987 (removal where adoption agreed etc.), or
 - (b) contravenes Article 29(1) or (2) of that Order (removal where applicant provided home),
 
 is guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding three months, or a fine not exceeding level 5 on the standard scale, or both.
 
-(4)[^key-a9fd9a76e4d8734227d37dd0208615b6] Orders made under Article 30 of that Order (order to return or not to remove child) are to have effect in England and Wales as if they were orders of the High Court under section 41 of this Act.
+(4)[^c-a9fd9a76e4d8734227d37dd0208615b6] Orders made under Article 30 of that Order (order to return or not to remove child) are to have effect in England and Wales as if they were orders of the High Court under section 41 of this Act.
 
 ## Annotations
 
-[^key-cc4c1e2a8d515d8b6133331d11942a78]: Commencement: S. 106 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(j)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/j) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-cc4c1e2a8d515d8b6133331d11942a78]: Commencement: S. 106 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(j)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/j) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-a9fd9a76e4d8734227d37dd0208615b6]: Modification: S. 106(3)(4) applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)
+[^c-a9fd9a76e4d8734227d37dd0208615b6]: Modification: S. 106(3)(4) applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)

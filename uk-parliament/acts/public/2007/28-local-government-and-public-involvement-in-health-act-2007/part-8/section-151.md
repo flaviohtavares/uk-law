@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Powers of auditors and inspectors to obtain information[^key-526291f1ad11a5837fcbf72fa02dd216]
+## 151. Powers of auditors and inspectors to obtain information[^c-526291f1ad11a5837fcbf72fa02dd216]
 
 *Extent: E+W*
 
-(1)[^key-27df2035aca59dacaf14b0606886bd6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-27df2035aca59dacaf14b0606886bd6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 11 of the Local Government Act 1999 (c. 27) (inspectors' powers and duties in connection with best value inspections)—
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-526291f1ad11a5837fcbf72fa02dd216]: Commencement: S. 151 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/b)
+[^c-526291f1ad11a5837fcbf72fa02dd216]: Commencement: S. 151 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/b)
 
-[^key-27df2035aca59dacaf14b0606886bd6d]: Textual amendment: S. 151(1) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-27df2035aca59dacaf14b0606886bd6d]: Textual amendment: S. 151(1) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)

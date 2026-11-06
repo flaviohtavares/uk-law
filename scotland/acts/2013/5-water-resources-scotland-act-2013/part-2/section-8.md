@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. The relevant threshold[^key-8032d06a4331d7a074053aa14f88837b]
+## 8. The relevant threshold[^c-8032d06a4331d7a074053aa14f88837b]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8032d06a4331d7a074053aa14f88837b]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2013/5/section/8) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-8032d06a4331d7a074053aa14f88837b]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2013/5/section/8) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

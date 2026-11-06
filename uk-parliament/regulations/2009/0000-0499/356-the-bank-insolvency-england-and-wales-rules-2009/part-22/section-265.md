@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 265. Evidence of proceedings at meetings[^key-a278f2f4013a8f85a9135c878459e590]
+## 265. Evidence of proceedings at meetings[^c-a278f2f4013a8f85a9135c878459e590]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 12.5 of the 1986 Rules.
 
 ## Annotations
 
-[^key-a278f2f4013a8f85a9135c878459e590]: Commencement: Rule 265 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-a278f2f4013a8f85a9135c878459e590]: Commencement: Rule 265 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

@@ -76,10 +76,10 @@ Section 52
 
 **3.** A life peerage (within the meaning of the Life Peerages Act 1958), or any other dignity or honour conferred by the Crown, is not a personal or public office.
 
-### Bishops[^key-be6ad43bc9847b467a6942ed09ff0bad]
+### Bishops[^c-be6ad43bc9847b467a6942ed09ff0bad]
 
 **4.** The office of diocesan or suffragan bishop is not a public office.
 
 ## Annotations
 
-[^key-be6ad43bc9847b467a6942ed09ff0bad]: Textual amendment: Sch. 6 para. 4 and cross-heading inserted (17.11.2014) by [Bishops and Priests (Consecration and Ordination of Women) Measure 2014 (No. 2)](https://www.legislation.gov.uk/ukcm/2014/2), [ss. 2](https://www.legislation.gov.uk/ukcm/2014/2/section/2), [4(2)](https://www.legislation.gov.uk/ukcm/2014/2/section/4/2); [2014 No. 5](https://www.legislation.gov.uk/ukci/2014/5), [art. 2](https://www.legislation.gov.uk/ukci/2014/5/article/2)
+[^c-be6ad43bc9847b467a6942ed09ff0bad]: Textual amendment: Sch. 6 para. 4 and cross-heading inserted (17.11.2014) by [Bishops and Priests (Consecration and Ordination of Women) Measure 2014 (No. 2)](https://www.legislation.gov.uk/ukcm/2014/2), [ss. 2](https://www.legislation.gov.uk/ukcm/2014/2/section/2), [4(2)](https://www.legislation.gov.uk/ukcm/2014/2/section/4/2); [2014 No. 5](https://www.legislation.gov.uk/ukci/2014/5), [art. 2](https://www.legislation.gov.uk/ukci/2014/5/article/2)

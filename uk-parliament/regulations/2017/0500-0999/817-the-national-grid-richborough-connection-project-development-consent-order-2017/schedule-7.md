@@ -22,7 +22,7 @@ summary: ''
 
 Article 13
 
-### PART 1 — STREETS OR PUBLIC RIGHTS OF WAY TO BE TEMPORARILY STOPPED UP FOR WHICH A DIVERSION IS TO BE PROVIDED[^key-e15f69308a37c6a4fb24e4b5bcc4cac2]
+### PART 1 — STREETS OR PUBLIC RIGHTS OF WAY TO BE TEMPORARILY STOPPED UP FOR WHICH A DIVERSION IS TO BE PROVIDED[^c-e15f69308a37c6a4fb24e4b5bcc4cac2]
 
 <table>
 <thead>
@@ -71,7 +71,7 @@ Article 13
 </tbody>
 </table>
 
-### PART 2 — STREETS OR PUBLIC RIGHTS OF WAY TO BE TEMPORARILY STOPPED UP FOR WHICH NO DIVERSION IS TO BE PROVIDED[^key-d78f523649038cf452cdf92209ca4119]
+### PART 2 — STREETS OR PUBLIC RIGHTS OF WAY TO BE TEMPORARILY STOPPED UP FOR WHICH NO DIVERSION IS TO BE PROVIDED[^c-d78f523649038cf452cdf92209ca4119]
 
 <table>
 <thead>
@@ -87,6 +87,6 @@ Article 13
 
 ## Annotations
 
-[^key-e15f69308a37c6a4fb24e4b5bcc4cac2]: Commencement: Sch. 7 Pt. 1 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-e15f69308a37c6a4fb24e4b5bcc4cac2]: Commencement: Sch. 7 Pt. 1 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
 
-[^key-d78f523649038cf452cdf92209ca4119]: Commencement: Sch. 7 Pt. 2 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-d78f523649038cf452cdf92209ca4119]: Commencement: Sch. 7 Pt. 2 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

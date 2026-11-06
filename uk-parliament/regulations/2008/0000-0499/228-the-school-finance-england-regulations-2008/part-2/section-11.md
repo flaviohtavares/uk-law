@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Delegated budgets for new schools[^key-7752d7c0d926af5acf106d2017afc115]
+## 11. Delegated budgets for new schools[^c-7752d7c0d926af5acf106d2017afc115]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ the authority may make an application to the Secretary of State for variation of
 
 ## Annotations
 
-[^key-7752d7c0d926af5acf106d2017afc115]: Commencement: Reg. 11 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-7752d7c0d926af5acf106d2017afc115]: Commencement: Reg. 11 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
 
 [^f00030]: Footnote: Section 47A(2) of the 1998 Act provides that the requirement in section 47A(1) of that Act to establish school forums for their area does not apply to the Common Council of the City of London or the Council of the Isles of Scilly.

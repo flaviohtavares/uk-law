@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Prohibition orders on application[^key-a2b8b870554631fc320e28d1ef37dbe4]
+## 18. Prohibition orders on application[^c-a2b8b870554631fc320e28d1ef37dbe4]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2b8b870554631fc320e28d1ef37dbe4]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2016/2/section/18) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-a2b8b870554631fc320e28d1ef37dbe4]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2016/2/section/18) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 399A. Property partnerships: restriction of relief for investment loan interest[^key-f33debfd7d8b0440e11f2e57acc4a594][^key-3cc000833a30f07932c49d78f6e320da]
+## 399A. Property partnerships: restriction of relief for investment loan interest[^c-f33debfd7d8b0440e11f2e57acc4a594][^c-3cc000833a30f07932c49d78f6e320da]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 (8) Anything that in the course of a property business is done for creating (by construction or adaptation) a dwelling-house, or part of a dwelling-house, from which income is to be generated is, for the purposes of subsection (1)(b), to be treated as done for the purpose mentioned in subsection (1)(b).
 
-(9)[^key-7c060237117a39251d7e7f72cefd6ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-7c060237117a39251d7e7f72cefd6ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) A reference in this section to a “**dwelling-house**” includes any land occupied or enjoyed with it as its garden or grounds.
 
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f33debfd7d8b0440e11f2e57acc4a594]: Modification: [S. 399A](https://www.legislation.gov.uk/ukpga/2007/3/section/399A) excluded by [S.I. 2002/2006](https://www.legislation.gov.uk/uksi/2002/2006), [reg. 11(2A)](https://www.legislation.gov.uk/uksi/2002/2006/regulation/11/2A) (as inserted (with effect in relation to awards of tax credit for the tax year 2017-18 and subsequent years of the amending S.I.) by [The Tax Credits (Definition and Calculation of Income) (Amendment) Regulations 2017 (S.I. 2017/396)](https://www.legislation.gov.uk/uksi/2017/396), [regs. 1](https://www.legislation.gov.uk/uksi/2017/396/regulation/1), [5](https://www.legislation.gov.uk/uksi/2017/396/regulation/5))
+[^c-f33debfd7d8b0440e11f2e57acc4a594]: Modification: [S. 399A](https://www.legislation.gov.uk/ukpga/2007/3/section/399A) excluded by [S.I. 2002/2006](https://www.legislation.gov.uk/uksi/2002/2006), [reg. 11(2A)](https://www.legislation.gov.uk/uksi/2002/2006/regulation/11/2A) (as inserted (with effect in relation to awards of tax credit for the tax year 2017-18 and subsequent years of the amending S.I.) by [The Tax Credits (Definition and Calculation of Income) (Amendment) Regulations 2017 (S.I. 2017/396)](https://www.legislation.gov.uk/uksi/2017/396), [regs. 1](https://www.legislation.gov.uk/uksi/2017/396/regulation/1), [5](https://www.legislation.gov.uk/uksi/2017/396/regulation/5))
 
-[^key-3cc000833a30f07932c49d78f6e320da]: Textual amendment: Ss. 399A, 399B inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 24(7)](https://www.legislation.gov.uk/ukpga/2015/33/section/24/7)
+[^c-3cc000833a30f07932c49d78f6e320da]: Textual amendment: Ss. 399A, 399B inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 24(7)](https://www.legislation.gov.uk/ukpga/2015/33/section/24/7)
 
-[^key-7c060237117a39251d7e7f72cefd6ce5]: Textual amendment: [S. 399A(9)](https://www.legislation.gov.uk/ukpga/2007/3/section/399A/9) omitted (in relation to the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 3(6)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/3/6), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [16](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/16), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-7c060237117a39251d7e7f72cefd6ce5]: Textual amendment: [S. 399A(9)](https://www.legislation.gov.uk/ukpga/2007/3/section/399A/9) omitted (in relation to the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 3(6)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/3/6), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [16](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/16), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))

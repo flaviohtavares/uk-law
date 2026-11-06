@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Meaning of “prove”[^key-640a1b83334ab0203d1ca2d694d2e546]
+## 58. Meaning of “prove”[^c-640a1b83334ab0203d1ca2d694d2e546]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-640a1b83334ab0203d1ca2d694d2e546]: Commencement: Rule 58 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-640a1b83334ab0203d1ca2d694d2e546]: Commencement: Rule 58 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00024]: Footnote: Paragraph (8) was added by [S.I. 2003/1730](https://www.legislation.gov.uk/uksi/2003/1730).

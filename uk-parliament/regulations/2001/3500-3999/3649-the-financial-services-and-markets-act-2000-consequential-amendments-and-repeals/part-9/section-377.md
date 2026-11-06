@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 377. Authorised deposit-takers and former authorised deposit-takers[^key-0623453082f2448cc0fcc5376679aa6e]
+## 377. Authorised deposit-takers and former authorised deposit-takers[^c-0623453082f2448cc0fcc5376679aa6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0623453082f2448cc0fcc5376679aa6e]: Commencement: Art. 377 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-0623453082f2448cc0fcc5376679aa6e]: Commencement: Art. 377 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00267]: Footnote: Paragraph (4A) was inserted by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Entry on to medical performers list of persons approved under regulations 18A or 18B of the 1992 Regulations[^key-c7c6de927ca9e4164e18e1795f3a3cfc]
+## 35. Entry on to medical performers list of persons approved under regulations 18A or 18B of the 1992 Regulations[^c-c7c6de927ca9e4164e18e1795f3a3cfc]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ it shall add that person’s name to its medical performers list unless he or sh
 
 ## Annotations
 
-[^key-c7c6de927ca9e4164e18e1795f3a3cfc]: Commencement: Art. 35 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-c7c6de927ca9e4164e18e1795f3a3cfc]: Commencement: Art. 35 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00042]: Footnote: Regulations 18A and 18B were substituted by [S.I. 1998/2838](https://www.legislation.gov.uk/uksi/1998/2838) and amended by [S.I. 2002/916 (W.104)](https://www.legislation.gov.uk/wsi/2002/916).
 

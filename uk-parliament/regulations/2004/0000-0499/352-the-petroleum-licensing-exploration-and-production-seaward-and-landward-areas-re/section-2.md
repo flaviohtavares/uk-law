@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-4f0b489a579c6daa6393f8975604f60e]
+## 2. Interpretation[^c-4f0b489a579c6daa6393f8975604f60e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ In these Regulations—
   - (a) its distance from existing petroleum-related infrastructure;
   - (b) great water depth; or
   - (c) the lack of existing pertinent technical data relating to such area;
-- “landward area” has the meaning given by regulation 3(1) of the Petroleum (Production) (Landward Areas) Regulations 1995;[^key-48d9c8bfcf4a91daf382cb96708e34e4]
+- “landward area” has the meaning given by regulation 3(1) of the Petroleum (Production) (Landward Areas) Regulations 1995;[^c-48d9c8bfcf4a91daf382cb96708e34e4]
 - “licence” means any licence granted pursuant to Part I of the Petroleum Act 1998 ;
 - “petroleum exploration and development licence” means a licence to search and bore for, and get, petroleum in a landward area;
 - “production licence” means a licence to search and bore for, and get, petroleum in strata, in the sea bed and in the subsoil in a seaward area; and
@@ -36,6 +36,6 @@ In these Regulations—
 
 ## Annotations
 
-[^key-4f0b489a579c6daa6393f8975604f60e]: Commencement: Reg. 2 in force at 5.3.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/352/regulation/1)
+[^c-4f0b489a579c6daa6393f8975604f60e]: Commencement: Reg. 2 in force at 5.3.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/352/regulation/1)
 
-[^key-48d9c8bfcf4a91daf382cb96708e34e4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2004/352/regulation/2) substituted (20.1.2010) by [The Petroleum Licensing (Amendment) Regulations 2009 (S.I. 2009/3283)](https://www.legislation.gov.uk/uksi/2009/3283), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3283/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2009/3283/regulation/3/1)
+[^c-48d9c8bfcf4a91daf382cb96708e34e4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2004/352/regulation/2) substituted (20.1.2010) by [The Petroleum Licensing (Amendment) Regulations 2009 (S.I. 2009/3283)](https://www.legislation.gov.uk/uksi/2009/3283), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3283/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2009/3283/regulation/3/1)

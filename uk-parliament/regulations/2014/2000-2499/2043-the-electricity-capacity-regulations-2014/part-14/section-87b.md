@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 87B. Transitory provisions: the third T-4 auction and supplementary auction[^key-49fe9177c6424761409a69f6d5b8995e]
+## 87B. Transitory provisions: the third T-4 auction and supplementary auction[^c-49fe9177c6424761409a69f6d5b8995e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49fe9177c6424761409a69f6d5b8995e]: Textual amendment: [Regs. 87-87B](https://www.legislation.gov.uk/uksi/2014/2043/regulation/87) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/16)
+[^c-49fe9177c6424761409a69f6d5b8995e]: Textual amendment: [Regs. 87-87B](https://www.legislation.gov.uk/uksi/2014/2043/regulation/87) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/16)

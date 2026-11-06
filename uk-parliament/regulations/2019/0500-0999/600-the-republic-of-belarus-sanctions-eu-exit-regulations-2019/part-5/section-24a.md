@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24A. Provision of interception and monitoring services[^key-dde0cb65311250e6c571619a3094456f]
+## 24A. Provision of interception and monitoring services[^c-dde0cb65311250e6c571619a3094456f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dde0cb65311250e6c571619a3094456f]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/uksi/2019/600/regulation/24A) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2021/1146/regulation/18)
+[^c-dde0cb65311250e6c571619a3094456f]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/uksi/2019/600/regulation/24A) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2021/1146/regulation/18)

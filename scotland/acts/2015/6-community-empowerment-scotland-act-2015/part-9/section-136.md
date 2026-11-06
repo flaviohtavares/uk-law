@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 136. Set-off of compensation etc.[^key-96b05f5bc8c7b10b89e1a60662d27b6c]
+## 136. Set-off of compensation etc.[^c-96b05f5bc8c7b10b89e1a60662d27b6c]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96b05f5bc8c7b10b89e1a60662d27b6c]: Commencement: [S. 136](https://www.legislation.gov.uk/asp/2015/6/section/136) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
+[^c-96b05f5bc8c7b10b89e1a60662d27b6c]: Commencement: [S. 136](https://www.legislation.gov.uk/asp/2015/6/section/136) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)

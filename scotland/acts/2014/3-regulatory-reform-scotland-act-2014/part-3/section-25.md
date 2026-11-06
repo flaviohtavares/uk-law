@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Variable monetary penalties: effect on criminal proceedings etc.[^key-cbd5e5ff772c30f7edc4b1b01a627b40]
+## 25. Variable monetary penalties: effect on criminal proceedings etc.[^c-cbd5e5ff772c30f7edc4b1b01a627b40]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbd5e5ff772c30f7edc4b1b01a627b40]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2014/3/section/25) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-cbd5e5ff772c30f7edc4b1b01a627b40]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2014/3/section/25) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 148. Work or training beneficiaries[^key-95ab2f8e021f1b21d71f465665e82fe6]
+## 148. Work or training beneficiaries[^c-95ab2f8e021f1b21d71f465665e82fe6]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95ab2f8e021f1b21d71f465665e82fe6]: Textual amendment: [Reg. 148](https://www.legislation.gov.uk/nisr/2008/280/regulation/148) omitted (28.11.2016) by virtue of [The Employment and Support Allowance (Amendment of Linking Rules) Regulations (Northern Ireland) 2016 (S.R. 2016/176)](https://www.legislation.gov.uk/nisr/2016/176), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/176/regulation/1/2), [4(6)(a)](https://www.legislation.gov.uk/nisr/2016/176/regulation/4/6/a)
+[^c-95ab2f8e021f1b21d71f465665e82fe6]: Textual amendment: [Reg. 148](https://www.legislation.gov.uk/nisr/2008/280/regulation/148) omitted (28.11.2016) by virtue of [The Employment and Support Allowance (Amendment of Linking Rules) Regulations (Northern Ireland) 2016 (S.R. 2016/176)](https://www.legislation.gov.uk/nisr/2016/176), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/176/regulation/1/2), [4(6)(a)](https://www.legislation.gov.uk/nisr/2016/176/regulation/4/6/a)

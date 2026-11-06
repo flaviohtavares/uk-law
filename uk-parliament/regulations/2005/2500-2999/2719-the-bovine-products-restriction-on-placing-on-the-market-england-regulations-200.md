@@ -32,7 +32,7 @@ summary: ''
 
 FOOD, ENGLAND
 
-The Bovine Products (Restriction on Placing on the Market) (England) Regulations 2005 (revoked)[^key-cb5db6b47f9b3e612856150f3d0a0d00]
+The Bovine Products (Restriction on Placing on the Market) (England) Regulations 2005 (revoked)[^c-cb5db6b47f9b3e612856150f3d0a0d00]
 
 Made
 
@@ -46,52 +46,52 @@ Coming into force
 
 7th November 2005
 
-[^key-cb5db6b47f9b3e612856150f3d0a0d00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb5db6b47f9b3e612856150f3d0a0d00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-cb5db6b47f9b3e612856150f3d0a0d00]
+## 1. Title, application and commencement[^c-cb5db6b47f9b3e612856150f3d0a0d00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-cb5db6b47f9b3e612856150f3d0a0d00]
+## 2. Interpretation[^c-cb5db6b47f9b3e612856150f3d0a0d00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on the placing on the market of certain products derived from older bovine animals[^key-cb5db6b47f9b3e612856150f3d0a0d00]
+## 3. Prohibition on the placing on the market of certain products derived from older bovine animals[^c-cb5db6b47f9b3e612856150f3d0a0d00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Application of various provisions of the Food Safety Act 1990[^key-cb5db6b47f9b3e612856150f3d0a0d00]
+## 4. Application of various provisions of the Food Safety Act 1990[^c-cb5db6b47f9b3e612856150f3d0a0d00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Inspection and seizure of suspected products[^key-cb5db6b47f9b3e612856150f3d0a0d00]
+## 5. Inspection and seizure of suspected products[^c-cb5db6b47f9b3e612856150f3d0a0d00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences and penalties[^key-cb5db6b47f9b3e612856150f3d0a0d00]
+## 6. Offences and penalties[^c-cb5db6b47f9b3e612856150f3d0a0d00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Enforcement[^key-cb5db6b47f9b3e612856150f3d0a0d00]
+## 7. Enforcement[^c-cb5db6b47f9b3e612856150f3d0a0d00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Animal By–Products (Identification) Regulations 1995[^key-cb5db6b47f9b3e612856150f3d0a0d00]
+## 8. Amendment of the Animal By–Products (Identification) Regulations 1995[^c-cb5db6b47f9b3e612856150f3d0a0d00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Revocation[^key-cb5db6b47f9b3e612856150f3d0a0d00]
+## 9. Revocation[^c-cb5db6b47f9b3e612856150f3d0a0d00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cb5db6b47f9b3e612856150f3d0a0d00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb5db6b47f9b3e612856150f3d0a0d00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cb5db6b47f9b3e612856150f3d0a0d00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb5db6b47f9b3e612856150f3d0a0d00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cb5db6b47f9b3e612856150f3d0a0d00]: Textual amendment: Regulations revoked (1.1.2006) by [The Bovine Products (Restriction on Placing on the Market) (England) (No. 2) Regulations 2005 (S.I. 2005/3068)](https://www.legislation.gov.uk/uksi/2005/3068), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3068/regulation/1), [9](https://www.legislation.gov.uk/uksi/2005/3068/regulation/9)
+[^c-cb5db6b47f9b3e612856150f3d0a0d00]: Textual amendment: Regulations revoked (1.1.2006) by [The Bovine Products (Restriction on Placing on the Market) (England) (No. 2) Regulations 2005 (S.I. 2005/3068)](https://www.legislation.gov.uk/uksi/2005/3068), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3068/regulation/1), [9](https://www.legislation.gov.uk/uksi/2005/3068/regulation/9)

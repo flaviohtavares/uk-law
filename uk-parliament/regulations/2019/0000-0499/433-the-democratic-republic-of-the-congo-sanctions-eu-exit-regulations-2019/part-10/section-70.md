@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Transitional provision: trade licences[^key-9230c4024b2b3ae543f847c9f8f55175][^key-2a618600b308c59cc747c3ad5b442bb3]
+## 70. Transitional provision: trade licences[^c-9230c4024b2b3ae543f847c9f8f55175][^c-2a618600b308c59cc747c3ad5b442bb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,8 +36,8 @@ and such a licence or authorisation is referred to in this regulation as an “*
 
 (3) Paragraphs (4) to (6) apply to a licence or authorisation granted by the Secretary of State which—
 
-- (a) was in effect immediately before the relevant date, [^key-f9eefa836fe501c3cfe89a389a4cbb9e]...
-- (aa)[^key-1d5df11e1b416bcef19c46d7180f613a] is not an existing trade licence, and
+- (a) was in effect immediately before the relevant date, [^c-f9eefa836fe501c3cfe89a389a4cbb9e]...
+- (aa)[^c-1d5df11e1b416bcef19c46d7180f613a] is not an existing trade licence, and
 - (b) authorises an act—
   - (i) which would otherwise be prohibited by the EU DRC Regulation, and
   - (ii) which would (on and after the relevant date, and in the absence of paragraphs (4) to (6)) be prohibited by Part 5 (Trade),
@@ -57,10 +57,10 @@ and such a licence or authorisation is referred to in this regulation as an “*
 
 ## Annotations
 
-[^key-9230c4024b2b3ae543f847c9f8f55175]: Commencement: Reg. 70 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
+[^c-9230c4024b2b3ae543f847c9f8f55175]: Commencement: Reg. 70 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
 
-[^key-2a618600b308c59cc747c3ad5b442bb3]: Commencement: Reg. 70 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2a618600b308c59cc747c3ad5b442bb3]: Commencement: Reg. 70 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f9eefa836fe501c3cfe89a389a4cbb9e]: Textual amendment: Word in [reg. 70(3)](https://www.legislation.gov.uk/uksi/2019/433/regulation/70/3) omitted (31.12.2020 immediately after IP completion day) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [3(7)(a)](https://www.legislation.gov.uk/uksi/2020/591/regulation/3/7/a); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-f9eefa836fe501c3cfe89a389a4cbb9e]: Textual amendment: Word in [reg. 70(3)](https://www.legislation.gov.uk/uksi/2019/433/regulation/70/3) omitted (31.12.2020 immediately after IP completion day) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [3(7)(a)](https://www.legislation.gov.uk/uksi/2020/591/regulation/3/7/a); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
 
-[^key-1d5df11e1b416bcef19c46d7180f613a]: Textual amendment: Reg. 70(3)(aa) inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [3(7)(b)](https://www.legislation.gov.uk/uksi/2020/591/regulation/3/7/b); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-1d5df11e1b416bcef19c46d7180f613a]: Textual amendment: Reg. 70(3)(aa) inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [3(7)(b)](https://www.legislation.gov.uk/uksi/2020/591/regulation/3/7/b); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)

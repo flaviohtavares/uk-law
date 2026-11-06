@@ -39,18 +39,18 @@ concerning the non-inclusion of trifluralin in Annex I to Council Directive 91/4
 
 (2007/629/EC) (revoked)
 
-[^key-880cb3e1115f32409d7d710676cd7a8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-880cb3e1115f32409d7d710676cd7a8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-880cb3e1115f32409d7d710676cd7a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-880cb3e1115f32409d7d710676cd7a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-880cb3e1115f32409d7d710676cd7a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-880cb3e1115f32409d7d710676cd7a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-880cb3e1115f32409d7d710676cd7a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-880cb3e1115f32409d7d710676cd7a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-880cb3e1115f32409d7d710676cd7a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-880cb3e1115f32409d7d710676cd7a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-880cb3e1115f32409d7d710676cd7a8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-880cb3e1115f32409d7d710676cd7a8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-880cb3e1115f32409d7d710676cd7a8a]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/2) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-880cb3e1115f32409d7d710676cd7a8a]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/2) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

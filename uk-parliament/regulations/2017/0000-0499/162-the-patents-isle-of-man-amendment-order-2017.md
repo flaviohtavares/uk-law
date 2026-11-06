@@ -32,7 +32,7 @@ summary: ''
 
 Patents
 
-The Patents (Isle of Man) (Amendment) Order 2017 (revoked)[^key-fede169240322cc47c40c2772fc12a3d]
+The Patents (Isle of Man) (Amendment) Order 2017 (revoked)[^c-fede169240322cc47c40c2772fc12a3d]
 
 Made
 
@@ -50,21 +50,21 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-fede169240322cc47c40c2772fc12a3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fede169240322cc47c40c2772fc12a3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-fede169240322cc47c40c2772fc12a3d]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendments of Patents (Isle of Man) Order 2013[^key-fede169240322cc47c40c2772fc12a3d]
+## 1. Citation and commencement[^c-fede169240322cc47c40c2772fc12a3d]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional Provision[^key-fede169240322cc47c40c2772fc12a3d]
+## 2. Amendments of Patents (Isle of Man) Order 2013[^c-fede169240322cc47c40c2772fc12a3d]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Transitional Provision[^c-fede169240322cc47c40c2772fc12a3d]
 
 **Not yet in force.**
 
@@ -72,27 +72,27 @@ The Queen’s Most Excellent Majesty in Council
 
 **May not be in force at this date. Check the source.**
 
-[^key-fede169240322cc47c40c2772fc12a3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fede169240322cc47c40c2772fc12a3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-## SCHEDULE — Amendments of Schedule to Patents (Isle of Man) Order 2013[^key-fede169240322cc47c40c2772fc12a3d]
+## SCHEDULE — Amendments of Schedule to Patents (Isle of Man) Order 2013[^c-fede169240322cc47c40c2772fc12a3d]
 
 Article 2
 
-**1.**[^key-fede169240322cc47c40c2772fc12a3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fede169240322cc47c40c2772fc12a3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fede169240322cc47c40c2772fc12a3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fede169240322cc47c40c2772fc12a3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-fede169240322cc47c40c2772fc12a3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fede169240322cc47c40c2772fc12a3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-fede169240322cc47c40c2772fc12a3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-fede169240322cc47c40c2772fc12a3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-fede169240322cc47c40c2772fc12a3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-fede169240322cc47c40c2772fc12a3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-fede169240322cc47c40c2772fc12a3d]EXPLANATORY NOTE
+[^c-fede169240322cc47c40c2772fc12a3d]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -106,4 +106,4 @@ A full impact assessment of the effect that Order has on the costs of business, 
 
 ## Annotations
 
-[^key-fede169240322cc47c40c2772fc12a3d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/162) revoked (12.4.2021) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) (Repeal and Revocation) Regulations 2021 (S.I. 2021/355)](https://www.legislation.gov.uk/uksi/2021/355), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/355/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/355/schedule/paragraph/2)
+[^c-fede169240322cc47c40c2772fc12a3d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/162) revoked (12.4.2021) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) (Repeal and Revocation) Regulations 2021 (S.I. 2021/355)](https://www.legislation.gov.uk/uksi/2021/355), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/355/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/355/schedule/paragraph/2)

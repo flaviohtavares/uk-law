@@ -55,33 +55,33 @@ These Regulations are made by the Secretary of State in exercise of the powers c
 
 ## PART 1 — Introductory provisions
 
-### 1. Citation, commencement and extent[^key-51fcea0cf4f9151e85b5282045503fc1]
+### 1. Citation, commencement and extent[^c-51fcea0cf4f9151e85b5282045503fc1]
 
 (1) These Regulations—
 
 - (a) may be cited as the Fluorinated Greenhouse Gases Regulations 2015; and
 - (b) come into force on 19th March 2015.
 
-(2) They extend to Northern Ireland only in so far as they deal with import and export controls and trade with any place outside the United Kingdom, within the meaning of paragraph 20 of Schedule 3 to the Northern Ireland Act 1998 [^c22360121] or they deal with controls on gases, products and equipment traded between Great Britain and Northern Ireland *(Extent: E+W+S)*[^key-350c4250c8aab09bbe3066f1dc5aff47].
+(2) They extend to Northern Ireland only in so far as they deal with import and export controls and trade with any place outside the United Kingdom, within the meaning of paragraph 20 of Schedule 3 to the Northern Ireland Act 1998 [^c22360121] or they deal with controls on gases, products and equipment traded between Great Britain and Northern Ireland *(Extent: E+W+S)*[^c-350c4250c8aab09bbe3066f1dc5aff47].
 
-(3)[^key-2c25fabc32e3ad3a7b87f2a773a4be5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2c25fabc32e3ad3a7b87f2a773a4be5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2. Interpretation: general
 
 (1) In these Regulations—
 
 - “**authorised person**” means a person authorised under regulation 21;
-- “civil penalty notice” means a notice served under paragraph 1 (as read with paragraphs 4 and 5) of Schedule 4; *(Extent: E+S)*[^key-bf0752adbab9f46166135857013894e7]
+- “civil penalty notice” means a notice served under paragraph 1 (as read with paragraphs 4 and 5) of Schedule 4; *(Extent: E+S)*[^c-bf0752adbab9f46166135857013894e7]
 - “enforcement cost recovery notice” means a notice served under paragraph 6 of Schedule 4; *(Extent: E+S)*
 - “**enforcement notice**” means an enforcement notice served under regulation 25;
 - “**enforcing authority**” means—
   - (a) as regards England, the Environment Agency, the local authority, the port health authority or the Secretary of State;
   - (b) as regards Wales, the Natural Resources Body for Wales, the local authority, the port health authority or the Welsh Ministers;
-  - (c) as regards Scotland, subject to paragraphs (e) and (f)—[^key-4c1c36390271c97cba7487ff867155a9]
+  - (c) as regards Scotland, subject to paragraphs (e) and (f)—[^c-4c1c36390271c97cba7487ff867155a9]
     - (i) each local authority;
     - (ii) SEPA;
     - (iii) the Scottish Ministers;
-  - (d) as regards Northern Ireland, the Department of Agriculture, Environment and Rural Affairs[^key-f00cc89a2316ca0388f4ac777cddc4e7] or the local authority;
+  - (d) as regards Northern Ireland, the Department of Agriculture, Environment and Rural Affairs[^c-f00cc89a2316ca0388f4ac777cddc4e7] or the local authority;
   - (e) as regards offshore installations, the Secretary of State;
   - (f) as regards Scottish offshore installations, the Scottish Ministers;
   - (g) as regards Northern Ireland offshore installations—
@@ -95,7 +95,7 @@ These Regulations are made by the Secretary of State in exercise of the powers c
   - (e) an offshore installation or part of an offshore installation;
   - (f) a Scottish offshore installation or part of a Scottish offshore installation;
   - (g) a Northern Ireland offshore installation or part of a Northern Ireland offshore installation;
-- “relevant enforcing authority” means— *(Extent: E+S)*[^key-f609e1534ff8a50f7fb46d635d28b6bf]
+- “relevant enforcing authority” means— *(Extent: E+S)*[^c-f609e1534ff8a50f7fb46d635d28b6bf]
   - (a) as regards England— *(Extent: E+S)*
     - (i) the Environment Agency; *(Extent: E+S)*
     - (ii) the Secretary of State; *(Extent: E+S)*
@@ -104,7 +104,7 @@ These Regulations are made by the Secretary of State in exercise of the powers c
     - (ii) the Scottish Ministers; *(Extent: E+S)*
   - (c) as regards offshore installations, the Secretary of State; *(Extent: E+S)*
   - (d) as regards Scottish offshore installations, the Scottish Ministers; *(Extent: E+S)*
-- “Scotland” is to be construed in accordance with section 126(1) and (2) of the Scotland Act 1998;[^key-f1f40418e5000d3d0c388cc24cab269c]
+- “Scotland” is to be construed in accordance with section 126(1) and (2) of the Scotland Act 1998;[^c-f1f40418e5000d3d0c388cc24cab269c]
 - “SEPA” means the Scottish Environment Protection Agency;
 - “**ship**” includes a hovercraft, submersible craft and any other floating craft but not a vessel which permanently rests on or is permanently attached to the seabed.
 
@@ -124,17 +124,17 @@ These Regulations are made by the Secretary of State in exercise of the powers c
 (1) In these Regulations—
 
 - “**the 2014 Regulation**” means Regulation (EU) No 517/2014 of the European Parliament and of the Council on fluorinated greenhouse gases [^c22360161];
-- [^key-c8333b1e5b3f343ad4f1c7c0d3945554]...
+- [^c-c8333b1e5b3f343ad4f1c7c0d3945554]...
 - “**Commission Regulation 1497/2007**” means Commission Regulation [(EC) No 1497/2007](https://www.legislation.gov.uk/european/regulation/2007/1497) establishing, pursuant to Regulation [(EC) No 842/2006](https://www.legislation.gov.uk/european/regulation/2006/0842) of the European Parliament and of the Council, standard leakage checking requirements for stationary fire protection systems containing certain fluorinated greenhouse gases [^c22360171];
 - “**Commission Regulation 1516/2007**” means Commission Regulation [(EC) No 1516/2007](https://www.legislation.gov.uk/european/regulation/2007/1516) establishing, pursuant to Regulation [(EC) No 842/2006](https://www.legislation.gov.uk/european/regulation/2006/0842) of the European Parliament and of the Council, standard leakage checking requirements for stationary refrigeration, air conditioning and heat pump equipment containing certain fluorinated greenhouse gases [^c22360181];
-- [^key-b6045b57bd50338e8357407a675cefd7]...
+- [^c-b6045b57bd50338e8357407a675cefd7]...
 - “**Commission Regulation 304/2008**” means Commission Regulation [(EC) No 304/2008](https://www.legislation.gov.uk/european/regulation/2008/0304) establishing, pursuant to Regulation [(EC) No 842/2006](https://www.legislation.gov.uk/european/regulation/2006/0842) of the European Parliament and of the Council, minimum requirements and the conditions for mutual recognition for the certification of companies and personnel as regards stationary fire protection systems and fire extinguishers containing certain fluorinated greenhouse gases [^c22360201];
-- [^key-4e03c034f54cc91265bae4cf5f9a7f30]...
+- [^c-4e03c034f54cc91265bae4cf5f9a7f30]...
 - “**Commission Regulation 306/2008**” means Commission Regulation [(EC) No 306/2008](https://www.legislation.gov.uk/european/regulation/2008/0306) establishing, pursuant to Regulation [(EC) No 842/2006](https://www.legislation.gov.uk/european/regulation/2006/0842) of the European Parliament and of the Council, minimum requirements and the conditions for mutual recognition for the certification of personnel recovering certain fluorinated greenhouse gas-based solvents from equipment [^c22360221];
 - “**Commission Regulation 307/2008**” means Commission Regulation [(EC) No 307/2008](https://www.legislation.gov.uk/european/regulation/2008/0307) establishing, pursuant to Regulation [(EC) No 842/2006](https://www.legislation.gov.uk/european/regulation/2006/0842) of the European Parliament and of the Council, minimum requirements for training programmes and the conditions for mutual recognition of training attestations for personnel as regards air-conditioning systems in certain motor vehicles containing certain fluorinated greenhouse gases [^c22360231];
-- [^key-2b12b1c15087f80334a691c15bc3a777]...
+- [^c-2b12b1c15087f80334a691c15bc3a777]...
 - “**Commission Regulation 1191/2014**” means Commission Implementing Regulation (EU) No 1191/2014 determining the format and means for submitting the report referred to in Article 19 of Regulation (EU) No 517/2014 of the European Parliament and of the Council on fluorinated greenhouse gases.
-- “Commission Regulation 2015/2065” means Commission Implementing Regulation ([^key-4e8bd079076e15ae81ad177e21cfcf0f]EU) 2015/2065 establishing, pursuant to Regulation (EU) No 517/2014 of the European Parliament and of the Council, the format for notification of the training and certification programmes of the Member States;
+- “Commission Regulation 2015/2065” means Commission Implementing Regulation ([^c-4e8bd079076e15ae81ad177e21cfcf0f]EU) 2015/2065 establishing, pursuant to Regulation (EU) No 517/2014 of the European Parliament and of the Council, the format for notification of the training and certification programmes of the Member States;
 - “Commission Regulation 2015/2066” means Commission Implementing Regulation (EU) 2015/2066 establishing, pursuant to Regulation (EU) No 517/2014 of the European Parliament and of the Council, minimum requirements and the conditions for mutual recognition for the certification of natural persons carrying out installation, servicing, maintenance, repair or decommissioning of electrical switchgear containing fluorinated greenhouse gases or recovery of fluorinated greenhouse gases from stationary electrical switchgear;
 - “Commission Regulation 2015/2067” means Commission Implementing Regulation (EU) 2015/2067 establishing, pursuant to Regulation (EU) No 517/2014 of the European Parliament and of the Council, minimum requirements and the conditions for mutual recognition for the certification of natural persons as regards stationary refrigeration, air conditioning and heat pump equipment, and refrigeration units of refrigerated trucks and trailers, containing fluorinated greenhouse gases and for the certification of companies as regards stationary refrigeration, air conditioning and heat pump equipment, containing fluorinated greenhouse gases;
 - “Commission Regulation 2015/2068” means Commission Implementing Regulation (EU) 2015/2068 establishing, pursuant to Regulation (EU) No 517/2014 of the European Parliament and of the Council, the format of labels for products and equipment containing fluorinated greenhouse gases;
@@ -143,7 +143,7 @@ These Regulations are made by the Secretary of State in exercise of the powers c
 (2) Expressions used but not defined in these Regulations and used in the following legislation have the same meaning as they have in that legislation—
 
 - (a) the 2014 Regulation;
-- (b)[^key-942292423bfe81713ea3f6482008584e] Commission Regulation 1497/2007;
+- (b)[^c-942292423bfe81713ea3f6482008584e] Commission Regulation 1497/2007;
 - (c) Commission Regulation 1516/2007;
 - (d) Commission Regulation 304/2008;
 - (e) Commission Regulation 306/2008;
@@ -157,18 +157,18 @@ These Regulations are made by the Secretary of State in exercise of the powers c
 
 (3) A reference in these Regulations to the following is a reference to those Commission Regulations as amended from time to time—
 
-- (a)[^key-5bc7269d62117594b7716767d81e92ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-5bc7269d62117594b7716767d81e92ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) Commission Regulation 1191/2014.
 
 ### 4. Interpretation: offshore installations
 
-(1) In these Regulations, “**offshore installation**” means an installation or structure (other than a Scottish offshore installation, a Northern Ireland offshore installation or a ship)[^key-0ab78f5bf144d1ddd15f0ce464983265] which is—
+(1) In these Regulations, “**offshore installation**” means an installation or structure (other than a Scottish offshore installation, a Northern Ireland offshore installation or a ship)[^c-0ab78f5bf144d1ddd15f0ce464983265] which is—
 
 - (a) situated in the waters of, or on or under the seabed in—
   - (i) the tidal waters and parts of the sea in or adjacent to the United Kingdom up to the seaward limits of the territorial sea;
   - (ii) in the case of the activities listed in sub-paragraph (b)(i) to (vi), an area designated by an Order in Council under section 1(7) of the Continental Shelf Act 1964 [^c22360251]; or
   - (iii) in the case of the activity listed in sub-paragraph (b)(vii), the sea in any area for the time being designated under section 41(3) of the Marine and Coastal Access Act 2009 [^c22360261]; and
-- (b) used, intended to be used or has been used,[^key-beed3709ec5e07bb955226a7a89d563c] in connection with—
+- (b) used, intended to be used or has been used,[^c-beed3709ec5e07bb955226a7a89d563c] in connection with—
   - (i) the exploitation, or the exploration with a view to exploitation, of mineral resources in or under the shore or bed of waters described in sub-paragraph (a)(i) and (ii);
   - (ii) the exploration of a place in, under or over such waters with a view to the storage of gas;
   - (iii) the conversion of a place under the shore or bed of such waters for the purpose of storing gas;
@@ -205,24 +205,24 @@ These Regulations are made by the Secretary of State in exercise of the powers c
 
 (5) In paragraph (4), “**marine area**” means the area (together with the places above and below it) comprising the waters of, or on or under the seabed in—
 
-- (a)[^key-6b31dd73b5a79c889b4c3d77fe421aac] the Northern Ireland inshore region;
+- (a)[^c-6b31dd73b5a79c889b4c3d77fe421aac] the Northern Ireland inshore region;
 - (b) the sea in any area for the time being designated under section 41(3) of the Marine and Coastal Access Act 2009 in respect of which any Northern Ireland department has functions designated by an order made under section 41(4) of that Act.
 
 (6) For the purposes of paragraphs (1)(b) and (3)(b), each of the activities described in those paragraphs includes the provision of access to or accommodation for persons who work on or from an installation which is or has been maintained, or is intended to be established, in connection with such an activity.
 
-(7)[^key-2659048fbd3db5e817bdc6470c38fe9c] In paragraph (5), “Northern Ireland inshore region” has the meaning given in section 322(1) of the Marine and Coastal Access Act 2009 (interpretation).
+(7)[^c-2659048fbd3db5e817bdc6470c38fe9c] In paragraph (5), “Northern Ireland inshore region” has the meaning given in section 322(1) of the Marine and Coastal Access Act 2009 (interpretation).
 
-### 5 (Extent: E+W+S) (affected by repeal, see note). Competent authority[^key-54762e2bfd34a180ee8a14f4f52ffea7]
+### 5 (Extent: E+W+S) (affected by repeal, see note). Competent authority[^c-54762e2bfd34a180ee8a14f4f52ffea7]
 
-(1 (Extent: E+W+S) (affected by repeal, see note))[^key-54762e2bfd34a180ee8a14f4f52ffea7] The Secretary of State is the competent authority for the purposes of the 2014 Regulation in its application to— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-54762e2bfd34a180ee8a14f4f52ffea7]
+(1 (Extent: E+W+S) (affected by repeal, see note))[^c-54762e2bfd34a180ee8a14f4f52ffea7] The Secretary of State is the competent authority for the purposes of the 2014 Regulation in its application to— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-54762e2bfd34a180ee8a14f4f52ffea7]
 
-- (a (Extent: E+W+S) (affected by repeal, see note))[^key-54762e2bfd34a180ee8a14f4f52ffea7] England, Wales and Scotland; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-54762e2bfd34a180ee8a14f4f52ffea7]
-- (b (Extent: E+W+S) (affected by repeal, see note))[^key-54762e2bfd34a180ee8a14f4f52ffea7] offshore installations; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-54762e2bfd34a180ee8a14f4f52ffea7]
-- (c (Extent: E+W+S) (affected by repeal, see note))[^key-54762e2bfd34a180ee8a14f4f52ffea7] Northern Ireland and Northern Ireland offshore installations. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-54762e2bfd34a180ee8a14f4f52ffea7]
+- (a (Extent: E+W+S) (affected by repeal, see note))[^c-54762e2bfd34a180ee8a14f4f52ffea7] England, Wales and Scotland; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-54762e2bfd34a180ee8a14f4f52ffea7]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^c-54762e2bfd34a180ee8a14f4f52ffea7] offshore installations; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-54762e2bfd34a180ee8a14f4f52ffea7]
+- (c (Extent: E+W+S) (affected by repeal, see note))[^c-54762e2bfd34a180ee8a14f4f52ffea7] Northern Ireland and Northern Ireland offshore installations. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-54762e2bfd34a180ee8a14f4f52ffea7]
 
-(2 (Extent: E+W+S) (affected by repeal, see note))[^key-54762e2bfd34a180ee8a14f4f52ffea7] The Scottish Ministers are the competent authority for the purposes of the 2014 Regulation in its application to Scottish offshore installations. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-54762e2bfd34a180ee8a14f4f52ffea7]
+(2 (Extent: E+W+S) (affected by repeal, see note))[^c-54762e2bfd34a180ee8a14f4f52ffea7] The Scottish Ministers are the competent authority for the purposes of the 2014 Regulation in its application to Scottish offshore installations. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-54762e2bfd34a180ee8a14f4f52ffea7]
 
-### 5A. Service of notices[^key-85a1aa6d071401921adbe1828fdfac39]
+### 5A. Service of notices[^c-85a1aa6d071401921adbe1828fdfac39]
 
 (1) This regulation applies to the service of notices under these Regulations, subject to any specific provision made in these Regulations for a particular type of notice.
 
@@ -267,19 +267,19 @@ These Regulations are made by the Secretary of State in exercise of the powers c
 
 *Extent: E+W+S*
 
-In respect of the importation of any product or equipment referred to in Annex III to the 2014 Regulation into Great Britain[^key-b69bfb7134f3428bca9dfbacdd5d6547], section 170 of the Customs and Excise Management Act 1979 [^c22360281] has effect in relation to the fraudulent evasion or attempted evasion of the prohibition set out in Article 11(1) of the 2014 Regulation, as qualified by Article 11(2) of that Regulation.
+In respect of the importation of any product or equipment referred to in Annex III to the 2014 Regulation into Great Britain[^c-b69bfb7134f3428bca9dfbacdd5d6547], section 170 of the Customs and Excise Management Act 1979 [^c22360281] has effect in relation to the fraudulent evasion or attempted evasion of the prohibition set out in Article 11(1) of the 2014 Regulation, as qualified by Article 11(2) of that Regulation.
 
 ### 6. Importation[^M_E_e082ef32-eb3b-4a28-cc05-97e0e82767fb]
 
 *Extent: N.I.*
 
-In respect of the importation of any product or equipment referred to in Annex III to the 2014 Regulation into Northern Ireland[^key-e7048355b9c0b553a032028dd80e6899] from outside the customs territory of the EU, section 170 of the Customs and Excise Management Act 1979 [^V_NI_9e542fee-c3e3-6cb8-bc9b-299e11284fa3] has effect in relation to the fraudulent evasion or attempted evasion of the prohibition set out in Article 11(1) of the 2014 Regulation, as qualified by Article 11(2) of that Regulation.
+In respect of the importation of any product or equipment referred to in Annex III to the 2014 Regulation into Northern Ireland[^c-e7048355b9c0b553a032028dd80e6899] from outside the customs territory of the EU, section 170 of the Customs and Excise Management Act 1979 [^V_NI_9e542fee-c3e3-6cb8-bc9b-299e11284fa3] has effect in relation to the fraudulent evasion or attempted evasion of the prohibition set out in Article 11(1) of the 2014 Regulation, as qualified by Article 11(2) of that Regulation.
 
 ### 7. Proof of lawful import[^M_E_24b43c4d-2fdd-4383-a22b-fdbd4067a1a4]
 
 *Extent: E+W+S*
 
-(1) Where any product or equipment is being, or has been, imported into Great Britain[^key-0ef9dc26f2b645a7e0607e8225d94e53], an officer of Revenue and Customs may require any person possessing or having control of that product or equipment to furnish, within such reasonable time as that officer may specify, evidence that the importation is, or was, in accordance with the provisions of the 2014 Regulation.
+(1) Where any product or equipment is being, or has been, imported into Great Britain[^c-0ef9dc26f2b645a7e0607e8225d94e53], an officer of Revenue and Customs may require any person possessing or having control of that product or equipment to furnish, within such reasonable time as that officer may specify, evidence that the importation is, or was, in accordance with the provisions of the 2014 Regulation.
 
 (2) Until such evidence is furnished to the satisfaction of the Commissioners for Revenue and Customs, the product or equipment may be detained by them.
 
@@ -289,13 +289,13 @@ In respect of the importation of any product or equipment referred to in Annex I
 
 *Extent: N.I.*
 
-(1) Where any product or equipment is being, or has been, imported into Northern Ireland[^key-737fc8012000cd8209dc74971f446799] from outside the customs territory of the EU, an officer of Revenue and Customs may require any person possessing or having control of that product or equipment to furnish, within such reasonable time as that officer may specify, evidence that the importation is, or was, in accordance with the provisions of the 2014 Regulation.
+(1) Where any product or equipment is being, or has been, imported into Northern Ireland[^c-737fc8012000cd8209dc74971f446799] from outside the customs territory of the EU, an officer of Revenue and Customs may require any person possessing or having control of that product or equipment to furnish, within such reasonable time as that officer may specify, evidence that the importation is, or was, in accordance with the provisions of the 2014 Regulation.
 
 (2) Until such evidence is furnished to the satisfaction of the Commissioners for Revenue and Customs, the product or equipment may be detained by them.
 
 (3) If such evidence is not furnished to the satisfaction of the Commissioners for Revenue and Customs within the period specified under paragraph (1), the product or equipment is liable to forfeiture and the Customs and Excise Management Act 1979 applies in relation to it as if it were liable to forfeiture under that Act.
 
-### 7A. Disclosure of information held by Revenue and Customs[^key-186e0f406d97e35f590d27cf5a0318e3]
+### 7A. Disclosure of information held by Revenue and Customs[^c-186e0f406d97e35f590d27cf5a0318e3]
 
 *Extent: E+W+S*
 
@@ -321,7 +321,7 @@ In respect of the importation of any product or equipment referred to in Annex I
 
 ## PART 3 — Certification, evaluation and attestation
 
-### 8. Appointment of certification, evaluation and attestation bodies[^key-294dea45d4d5f8542a51e6ed7777aca3]
+### 8. Appointment of certification, evaluation and attestation bodies[^c-294dea45d4d5f8542a51e6ed7777aca3]
 
 (1) The Secretary of State may appoint, after consulting the Scottish Ministers, the Welsh Ministers and the Department of Agriculture, Environment and Rural Affairs, such person and on such terms as the Secretary of State thinks fit to be—
 
@@ -347,59 +347,59 @@ In respect of the importation of any product or equipment referred to in Annex I
 
 ### 9. Certificates relating to stationary refrigeration, air conditioning and heat pump equipment issued in EEA States and Northern Ireland
 
-(1) A person who holds a valid certificate issued under Article 4 or 6 of Commission Regulation 2015/2067[^key-482b382d981f6f1d2426e35f7dc3cf93] by a certification body in an EEA State other than the United Kingdom *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-1700e7881644b357d027f47fc3719ee4] in respect of an activity mentioned in Article 2 of that Regulation may not carry out that activity unless—
+(1) A person who holds a valid certificate issued under Article 4 or 6 of Commission Regulation 2015/2067[^c-482b382d981f6f1d2426e35f7dc3cf93] by a certification body in an EEA State other than the United Kingdom *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-1700e7881644b357d027f47fc3719ee4] in respect of an activity mentioned in Article 2 of that Regulation may not carry out that activity unless—
 
 - (a) the certificate is written in English; or
 - (b) the person holds a translation of the certificate in English.
 
-(2) A person who holds a valid certificate issued under Article 4 or 6 of Commission Regulation 2015/2067[^key-acb0a1ea77f06ad37964a356d8a95c5f] by a certification body appointed in Northern Ireland in respect of an activity mentioned in Article 2 of that Regulation may carry out that activity.
+(2) A person who holds a valid certificate issued under Article 4 or 6 of Commission Regulation 2015/2067[^c-acb0a1ea77f06ad37964a356d8a95c5f] by a certification body appointed in Northern Ireland in respect of an activity mentioned in Article 2 of that Regulation may carry out that activity.
 
-### 10. Certification and evaluation bodies: fire protection systems and fire extinguishers[^key-6719ec4dec31f4b1a2875d89f2b92360]
+### 10. Certification and evaluation bodies: fire protection systems and fire extinguishers[^c-6719ec4dec31f4b1a2875d89f2b92360]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 11. Certificates relating to fire protection systems and fire extinguishers issued in EEA States and Northern Ireland
 
-(1) A person who holds a valid certificate issued under Article 5 or 8 of Commission Regulation 304/2008 by a certification body in an EEA State other than the United Kingdom *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f7ca564969d2d258db0bc43c13e7b093] in respect of an activity mentioned in Article 2 of that Regulation may not carry out that activity unless—
+(1) A person who holds a valid certificate issued under Article 5 or 8 of Commission Regulation 304/2008 by a certification body in an EEA State other than the United Kingdom *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f7ca564969d2d258db0bc43c13e7b093] in respect of an activity mentioned in Article 2 of that Regulation may not carry out that activity unless—
 
 - (a) the certificate is written in English; or
 - (b) the person holds a translation of the certificate in English.
 
 (2) A person who holds a valid certificate issued under Article 5 or 8 of Commission Regulation 304/2008 by a certification body appointed in Northern Ireland in respect of an activity mentioned in Article 2 of that Regulation may carry out that activity.
 
-### 12. Certification and evaluation bodies: high-voltage switchgear[^key-aab47dc3f89ccbcd9b6b1f95a257a73f]
+### 12. Certification and evaluation bodies: high-voltage switchgear[^c-aab47dc3f89ccbcd9b6b1f95a257a73f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Certificates relating to electrical switchgear issued in EEA States and Northern Ireland[^key-2a24724b4a174be70dcbcb5d276304d4]
+### 13. Certificates relating to electrical switchgear issued in EEA States and Northern Ireland[^c-2a24724b4a174be70dcbcb5d276304d4]
 
-(1) An individual who holds a valid certificate issued under Article 3 of Commission Regulation 2015/2066[^key-d9b887756f2856821014715c08a838d1] by a certification body in an EEA State other than the United Kingdom *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f7b17963d28b052c4589d3337fada774] may not carry out the activity mentioned in Article 1 of that Regulation unless—
+(1) An individual who holds a valid certificate issued under Article 3 of Commission Regulation 2015/2066[^c-d9b887756f2856821014715c08a838d1] by a certification body in an EEA State other than the United Kingdom *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f7b17963d28b052c4589d3337fada774] may not carry out the activity mentioned in Article 1 of that Regulation unless—
 
 - (a) the certificate is written in English; or
 - (b) the individual holds a translation of the certificate in English.
 
-(2) An individual who holds a valid certificate issued under Article 3 of Commission Regulation 2015/2066[^key-822ee28e6e00216edcaff2e703416a21] by a certification body appointed in Northern Ireland in respect of the activity mentioned in Article 1 of that Regulation may carry out that activity.
+(2) An individual who holds a valid certificate issued under Article 3 of Commission Regulation 2015/2066[^c-822ee28e6e00216edcaff2e703416a21] by a certification body appointed in Northern Ireland in respect of the activity mentioned in Article 1 of that Regulation may carry out that activity.
 
-### 14. Certification and evaluation body: fluorinated greenhouse gas-based solvents[^key-01a9aab6b554c850bf91d170f7bee59c]
+### 14. Certification and evaluation body: fluorinated greenhouse gas-based solvents[^c-01a9aab6b554c850bf91d170f7bee59c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 15. Certificates relating to fluorinated greenhouse gas-based solvents issued in EEA States and Northern Ireland
 
-(1) An individual who holds a valid certificate issued under Article 3 of Commission Regulation 306/2008 by a certification body in an EEA State other than the United Kingdom *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-d1c7c94ec29dde2a591775fd3e097338] may not carry out the activity mentioned in Article 1 of that Regulation unless—
+(1) An individual who holds a valid certificate issued under Article 3 of Commission Regulation 306/2008 by a certification body in an EEA State other than the United Kingdom *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-d1c7c94ec29dde2a591775fd3e097338] may not carry out the activity mentioned in Article 1 of that Regulation unless—
 
 - (a) the certificate is written in English; or
 - (b) the individual holds a translation of the certificate in English.
 
 (2) An individual who holds a valid certificate issued under Article 3 of Commission Regulation 306/2008 by a certification body appointed in Northern Ireland in respect of the activity mentioned in Article 1 of that Regulation may carry out that activity.
 
-### 16. Attestation bodies: air conditioning systems in certain motor vehicles[^key-17bcdb789c707587e11ecabd132397a7]
+### 16. Attestation bodies: air conditioning systems in certain motor vehicles[^c-17bcdb789c707587e11ecabd132397a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 17. Attestations relating to air conditioning systems in certain motor vehicles issued in EEA States and Northern Ireland
 
-(1) An individual who holds a valid attestation issued under Article 3(2) of Commission Regulation 307/2008 by an attestation body in an EEA State other than the United Kingdom *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-293a19df58851c4469ccfb238b17d2cc] may not carry out the activity mentioned in Article 1 of that Regulation unless—
+(1) An individual who holds a valid attestation issued under Article 3(2) of Commission Regulation 307/2008 by an attestation body in an EEA State other than the United Kingdom *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-293a19df58851c4469ccfb238b17d2cc] may not carry out the activity mentioned in Article 1 of that Regulation unless—
 
 - (a) the attestation is written in English; or
 - (b) the individual holds a translation of the attestation in English.
@@ -410,9 +410,9 @@ In respect of the importation of any product or equipment referred to in Annex I
 
 The employer of an individual employed to carry out any work or activity referred to in the following provisions must ensure that that individual holds the qualification necessary to enable the individual to carry out the work or activity—
 
-- (a) Article 2(1) of Commission Regulation 2015/2067[^key-f070cbb2da21af1882400247dcda1e0f];
+- (a) Article 2(1) of Commission Regulation 2015/2067[^c-f070cbb2da21af1882400247dcda1e0f];
 - (b) Article 2(1) of Commission Regulation 304/2008;
-- (c) Article 1 of Commission Regulation 2015/2066[^key-f7aab9995731de3ace7865fbaa69b3f3];
+- (c) Article 1 of Commission Regulation 2015/2066[^c-f7aab9995731de3ace7865fbaa69b3f3];
 - (d) Article 1 of Commission Regulation 306/2008;
 - (e) Article 1 of Commission Regulation 307/2008.
 
@@ -420,9 +420,9 @@ The employer of an individual employed to carry out any work or activity referre
 
 (1) When requested to do so by any person, a certification body must, within 14 days of the request being made, provide details of any certificate issued by it pursuant to—
 
-- (a)[^key-4ae117642762fc8ac376b54423ad0895] Commission Regulation 2015/2067;
+- (a)[^c-4ae117642762fc8ac376b54423ad0895] Commission Regulation 2015/2067;
 - (b) Commission Regulation 304/2008;
-- (c)[^key-065de45f4ef4c60ffc827917ead5782e] Commission Regulation 2015/2066;
+- (c)[^c-065de45f4ef4c60ffc827917ead5782e] Commission Regulation 2015/2066;
 - (d) Commission Regulation 306/2008.
 
 (2) When requested to do so by any person, an attestation body must, within 14 days of the request being made, provide details of an attestation issued by it pursuant to Commission Regulation 307/2008.
@@ -433,11 +433,11 @@ The employer of an individual employed to carry out any work or activity referre
 - (b) the date on which the certificate or attestation was issued; and
 - (c) in the case of an individual, the examination or training to which the certificate or attestation relates.
 
-(4) When requested to do so by the Secretary of State, a relevant body must provide as soon as reasonably practicable to the Secretary of State such information as the Secretary of State may require to ensure that the obligations of the United Kingdom imposed by the first sentence of Article 10(10) of the 2014 Regulation (training and certification) and by Commission Regulation 2015/2065[^key-7b6937900edd2b0fba2871f1f07cbfae] are complied with.
+(4) When requested to do so by the Secretary of State, a relevant body must provide as soon as reasonably practicable to the Secretary of State such information as the Secretary of State may require to ensure that the obligations of the United Kingdom imposed by the first sentence of Article 10(10) of the 2014 Regulation (training and certification) and by Commission Regulation 2015/2065[^c-7b6937900edd2b0fba2871f1f07cbfae] are complied with.
 
 (5) In paragraph (4), “**relevant body**” means a certification body, an attestation body or an evaluation body referred to in, or appointed under, these Regulations.
 
-### 19A. Publication of details of certification bodies, attestation bodies and evaluation bodies[^key-317b9f0028e5a17374210d539a169dd9]
+### 19A. Publication of details of certification bodies, attestation bodies and evaluation bodies[^c-317b9f0028e5a17374210d539a169dd9]
 
 (1) The Secretary of State must, after consulting the Scottish Ministers, the Welsh Ministers and the Department of Agriculture, Environment and Rural Affairs, publish the following information about any person appointed as a certification body, attestation body or evaluation body under regulation 8—
 
@@ -453,24 +453,24 @@ The employer of an individual employed to carry out any work or activity referre
 
 ### 20. Enforcement
 
-(1) Subject to paragraph (2A), each[^key-f93d74ca7500c0c7dd8e452b822d87d3] enforcing authority must enforce these Regulations.
+(1) Subject to paragraph (2A), each[^c-f93d74ca7500c0c7dd8e452b822d87d3] enforcing authority must enforce these Regulations.
 
 (2) In relation to cases of a particular description, or a particular case—
 
 - (a) the Secretary of State may, as regards England, direct that the duty in paragraph (1) is to be discharged by the Secretary of State and not by another enforcing authority;
-- (b) the Welsh Ministers may, as regards Wales, direct that the duty in paragraph (1) is only to be discharged by a specific[^key-8261661bce33e6b16cc28f00fda964eb] enforcing authority;
-- (c) the Scottish Ministers may, as regards Scotland, direct SEPA[^key-f861b5e433566665cfe6b2da9bbf091a] or a local authority that the duty in paragraph (1) is, or is not, to be discharged by it;
-- (d) the Department of Agriculture, Environment and Rural Affairs[^key-78a9370e853e27ce60c27dacd23139fe] may, as regards Northern Ireland, direct that the duty in paragraph (1) is to be discharged by the Department of Agriculture, Environment and Rural Affairs and not by another enforcing authority.
+- (b) the Welsh Ministers may, as regards Wales, direct that the duty in paragraph (1) is only to be discharged by a specific[^c-8261661bce33e6b16cc28f00fda964eb] enforcing authority;
+- (c) the Scottish Ministers may, as regards Scotland, direct SEPA[^c-f861b5e433566665cfe6b2da9bbf091a] or a local authority that the duty in paragraph (1) is, or is not, to be discharged by it;
+- (d) the Department of Agriculture, Environment and Rural Affairs[^c-78a9370e853e27ce60c27dacd23139fe] may, as regards Northern Ireland, direct that the duty in paragraph (1) is to be discharged by the Department of Agriculture, Environment and Rural Affairs and not by another enforcing authority.
 
-(2A)[^key-4680a34df0e536715f79479c971415a0] An enforcing authority must comply with a direction given to it under paragraph (2).
+(2A)[^c-4680a34df0e536715f79479c971415a0] An enforcing authority must comply with a direction given to it under paragraph (2).
 
 (2B) A direction given under paragraph (2) may be revoked or modified by a further direction given under that paragraph.
 
-(3)[^key-b6e5f487d97c208b7fe4b83a15050a35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b6e5f487d97c208b7fe4b83a15050a35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 21. Appointment of authorised persons
 
-(1) An[^key-2196b0a73fee39edb69a75fc1cc88337] enforcing authority may authorise in writing such persons (“authorised persons”) as it considers appropriate to act for the purpose of enforcing these Regulations.
+(1) An[^c-2196b0a73fee39edb69a75fc1cc88337] enforcing authority may authorise in writing such persons (“authorised persons”) as it considers appropriate to act for the purpose of enforcing these Regulations.
 
 (2) An authorisation under any of the following is an authorisation for the purposes of these Regulations—
 
@@ -548,22 +548,22 @@ The employer of an individual employed to carry out any work or activity referre
 
 ### 24. Information notices
 
-An enforcing authority[^key-27c5af93b97ed30ca404e7caab205c39] may, by notice served on any person, require that person to furnish such information as is specified in the notice, in such form and within such period following the service of the notice or at such time as is so specified.
+An enforcing authority[^c-27c5af93b97ed30ca404e7caab205c39] may, by notice served on any person, require that person to furnish such information as is specified in the notice, in such form and within such period following the service of the notice or at such time as is so specified.
 
 ### 25. Enforcement notices
 
-(1) An enforcing authority[^key-c77ff89e88aac89997d8739dd7553346] may serve an enforcement notice on any person who—
+(1) An enforcing authority[^c-c77ff89e88aac89997d8739dd7553346] may serve an enforcement notice on any person who—
 
-- (a) in the opinion of the enforcing authority[^key-54116e50223da2a559f53ba016c1b337], fails to, or is likely to fail to, comply with—
+- (a) in the opinion of the enforcing authority[^c-54116e50223da2a559f53ba016c1b337], fails to, or is likely to fail to, comply with—
   - (i) a provision of the 2014 Regulation specified in Schedule 2; or
   - (ii) a provision of the Commission Regulations specified in Schedule 3, read in association with Part 3 of these Regulations;
 - (b) submits a report under Article 19 of the 2014 Regulation which is not submitted in accordance with Commission Regulation 1191/2014;
-- (c) fails, where labelling for products and equipment is required under Article 12 of the 2014 Regulation, to comply with Article 2 of Commission Regulation 2015/2068 (labelling format)[^key-2727adef460b688a9c3ab58661f03b03].
+- (c) fails, where labelling for products and equipment is required under Article 12 of the 2014 Regulation, to comply with Article 2 of Commission Regulation 2015/2068 (labelling format)[^c-2727adef460b688a9c3ab58661f03b03].
 - (d) fails to comply with a requirement under regulation 18;
 - (e) fails to comply with a requirement under regulation 19; or
 - (f) fails to comply with an information notice served under regulation 24.
 
-(2) An enforcing authority[^key-6f877a7176d1f55e291c52856c831867] may serve an enforcement notice on a person qualified in relation to fire protection systems who fails to comply with any of the following requirements of Commission Regulation 1497/2007—
+(2) An enforcing authority[^c-6f877a7176d1f55e291c52856c831867] may serve an enforcement notice on a person qualified in relation to fire protection systems who fails to comply with any of the following requirements of Commission Regulation 1497/2007—
 
 - (a) Article 3 (checking system records);
 - (b) Article 4(1) (visual checks by certified personnel);
@@ -614,14 +614,14 @@ An enforcing authority[^key-27c5af93b97ed30ca404e7caab205c39] may, by notice ser
 - (b) specify the steps that must be taken to remedy or avert the failure to comply;
 - (c) specify the period in which those steps must be taken;
 - (d) provide information on the right to appeal under regulation 26; and
-- (e (Extent: E+S) (affected by repeal, see note))[^key-e6877354601826e280c1310c5a17a27d] state that it is an offence under regulation 29(1)(e) to fail to comply with the enforcement notice. *(Extent: E+S)* *(affected by repeal, see note)*[^key-e6877354601826e280c1310c5a17a27d]
+- (e (Extent: E+S) (affected by repeal, see note))[^c-e6877354601826e280c1310c5a17a27d] state that it is an offence under regulation 29(1)(e) to fail to comply with the enforcement notice. *(Extent: E+S)* *(affected by repeal, see note)*[^c-e6877354601826e280c1310c5a17a27d]
 - (e (Extent: E+S)) state that a requirement to pay a civil penalty may be imposed if a person fails, or causes or permits another person to fail, to comply with the enforcement notice. *(Extent: E+S)*
 
-(8) An enforcing authority[^key-5b6fbcf6edcc48cf85dcb4dce20bbe2c] may at any time withdraw an enforcement notice.
+(8) An enforcing authority[^c-5b6fbcf6edcc48cf85dcb4dce20bbe2c] may at any time withdraw an enforcement notice.
 
 (9) A person on whom an enforcement notice is served must comply with it at their own expense.
 
-(10) If an enforcement notice is not complied with, the enforcing authority which served the notice[^key-736480b6d11519586928f328af65faf6] may arrange for it to be complied with at the expense of the person on whom it was served.
+(10) If an enforcement notice is not complied with, the enforcing authority which served the notice[^c-736480b6d11519586928f328af65faf6] may arrange for it to be complied with at the expense of the person on whom it was served.
 
 (11) In this regulation—
 
@@ -630,33 +630,33 @@ An enforcing authority[^key-27c5af93b97ed30ca404e7caab205c39] may, by notice ser
   - (i) holds a certificate issued under Article 5 of Commission Regulation 304/2008 which relates to leakage checking of fire protection systems; or
   - (ii) is exempt from holding such a certificate by virtue of Article 4(2) of Commission Regulation 304/2008;
 - (c) “**person qualified in relation to stationary equipment**” means an individual who—
-  - (i) holds a valid certificate issued under Article 4 of Commission Regulation 2015/2067[^key-9180768b065497c09e469b1f6572884c] which relates to leakage checking of stationary equipment;
-  - (ii) is exempt from holding such a certificate by virtue of Article 3(3)(b) or (4) of Commission Regulation 2015/2067[^key-38d011fda55ebc9c2c9dcf813aaa9a34]; or
-  - (iii) is exempt from holding such a certificate by virtue of Article 3(3)(a) of Commission Regulation 2015/2067 where the person is suitably qualified for the purposes of the essential safety requirements in paragraph 21(3) in Part 3 of Schedule 2 to the Pressure Equipment (Safety) Regulations 2016 (permanent joining)[^key-52d12f6ec24a27cf1b4ff81c0c69314f];
+  - (i) holds a valid certificate issued under Article 4 of Commission Regulation 2015/2067[^c-9180768b065497c09e469b1f6572884c] which relates to leakage checking of stationary equipment;
+  - (ii) is exempt from holding such a certificate by virtue of Article 3(3)(b) or (4) of Commission Regulation 2015/2067[^c-38d011fda55ebc9c2c9dcf813aaa9a34]; or
+  - (iii) is exempt from holding such a certificate by virtue of Article 3(3)(a) of Commission Regulation 2015/2067 where the person is suitably qualified for the purposes of the essential safety requirements in paragraph 21(3) in Part 3 of Schedule 2 to the Pressure Equipment (Safety) Regulations 2016 (permanent joining)[^c-52d12f6ec24a27cf1b4ff81c0c69314f];
 - (d) “**stationary equipment**” means stationary refrigeration, air conditioning or heat pump equipment which contains three kilograms or more of fluorinated greenhouse gases.
 
-### 26. Appeals against enforcement notices etc.[^key-73bea09c93ce5b1da426109f897e9c1f]
+### 26. Appeals against enforcement notices etc.[^c-73bea09c93ce5b1da426109f897e9c1f]
 
 *Extent: E+S*
 
 (1) A person who is aggrieved by an enforcement notice may appeal against it.
 
-(2) Except in the case of an appeal mentioned in paragraph (2A), the right[^key-703a5dd1c77bd53a0b606b9210cec69b] of appeal is to a magistrates' court or, in Scotland, to the sheriff.
+(2) Except in the case of an appeal mentioned in paragraph (2A), the right[^c-703a5dd1c77bd53a0b606b9210cec69b] of appeal is to a magistrates' court or, in Scotland, to the sheriff.
 
-(2A)[^key-c1cef8dfc0565002acdbf0d8822ac9be] Schedule 5 sets out the procedure for an appeal against an enforcement notice, a civil penalty notice or an enforcement cost recovery notice, served by the Secretary of State, the Environment Agency, the Scottish Ministers or SEPA.
+(2A)[^c-c1cef8dfc0565002acdbf0d8822ac9be] Schedule 5 sets out the procedure for an appeal against an enforcement notice, a civil penalty notice or an enforcement cost recovery notice, served by the Secretary of State, the Environment Agency, the Scottish Ministers or SEPA.
 
 (3) The procedure on appeal to a magistrates' court is—
 
 - (a) in England and Wales, by way of complaint, and the Magistrates' Courts Act 1980 [^c22360351] applies to the proceedings;
 - (b) in Northern Ireland, by way of notice, and Part 7 of the Magistrates' Courts (Northern Ireland) Order 1981 [^c22360361] applies to the proceedings.
 
-(4)[^key-ee3fca06408d8a5f668bd4c212bfc113] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ee3fca06408d8a5f668bd4c212bfc113] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) An appeal must be brought by no later than 28 days after the date on which the enforcement notice is served.
 
 (6) An enforcement notice is not suspended pending an appeal unless the court or sheriff orders otherwise.
 
-(7)[^key-43dd5339674cccb32a7d6f6b7e8df563] The grounds for an appeal brought under this regulation are that a decision to serve the enforcement notice was—
+(7)[^c-43dd5339674cccb32a7d6f6b7e8df563] The grounds for an appeal brought under this regulation are that a decision to serve the enforcement notice was—
 
 - (a) based on an error of fact;
 - (b) wrong in law;
@@ -665,18 +665,18 @@ An enforcing authority[^key-27c5af93b97ed30ca404e7caab205c39] may, by notice ser
 
 ### 27. Proceedings before a civil court
 
-(1) If the *(Extent: E+S)* *(affected by repeal, see note)*[^key-53d60890f096190596749ac9a70c872f] If an *(Extent: E+S)* enforcing authority is of the opinion that proceedings against a person for an offence under regulation 29(1)(e) *(Extent: E+S)* *(affected by repeal, see note)*[^key-7f404ae8315879b358dc6a3d382abf58] a civil penalty imposed for a failure to comply with an enforcement notice under regulation 31A(2)(h)(ii) *(Extent: E+S)* would afford an ineffectual remedy against that person, the enforcing authority may take civil proceedings against that person for the purposes of seeking such remedy as the enforcing authority believes is appropriate in the circumstances.
+(1) If the *(Extent: E+S)* *(affected by repeal, see note)*[^c-53d60890f096190596749ac9a70c872f] If an *(Extent: E+S)* enforcing authority is of the opinion that proceedings against a person for an offence under regulation 29(1)(e) *(Extent: E+S)* *(affected by repeal, see note)*[^c-7f404ae8315879b358dc6a3d382abf58] a civil penalty imposed for a failure to comply with an enforcement notice under regulation 31A(2)(h)(ii) *(Extent: E+S)* would afford an ineffectual remedy against that person, the enforcing authority may take civil proceedings against that person for the purposes of seeking such remedy as the enforcing authority believes is appropriate in the circumstances.
 
 (2) Civil proceedings under paragraph (1) may be taken—
 
 - (a) in the County Court or the High Court; or
 - (b) in Scotland, before the sheriff.
 
-### 28. Powers of the Secretary of State, the Scottish Ministers and the Department of Agriculture, Environment and Rural Affairs[^M_E_a8d97b9e-0d68-4e55-bd4e-f0594e31a3d1][^key-e0083fd545c96bc0c876fec6f91d5182]
+### 28. Powers of the Secretary of State, the Scottish Ministers and the Department of Agriculture, Environment and Rural Affairs[^M_E_a8d97b9e-0d68-4e55-bd4e-f0594e31a3d1][^c-e0083fd545c96bc0c876fec6f91d5182]
 
 *Extent: E+W+S*
 
-(1) This regulation applies where, in contravention of Article 11 of the 2014 Regulation, a person has imported into Great Britain[^key-2b8925793b6bb80f8a36daf632e09fe1] a product or equipment containing, or whose functioning relies upon, fluorinated greenhouse gases.
+(1) This regulation applies where, in contravention of Article 11 of the 2014 Regulation, a person has imported into Great Britain[^c-2b8925793b6bb80f8a36daf632e09fe1] a product or equipment containing, or whose functioning relies upon, fluorinated greenhouse gases.
 
 (2) The Secretary of State may require the person to, within a reasonable period of time—
 
@@ -685,17 +685,17 @@ An enforcing authority[^key-27c5af93b97ed30ca404e7caab205c39] may, by notice ser
 - (c) remove it from—
   - (i) the United Kingdom;
   - (ii) an offshore installation; or
-  - (iii) a Northern Ireland offshore installation used in connection with any of the activities described in regulation 4(4)(a) to (g)[^key-4eca888660334d08144a9a8d1062f9cb].
+  - (iii) a Northern Ireland offshore installation used in connection with any of the activities described in regulation 4(4)(a) to (g)[^c-4eca888660334d08144a9a8d1062f9cb].
 
 (3) The Scottish Ministers may require the person to, within a reasonable period of time, remove the product or equipment from a Scottish offshore installation.
 
-(4) The Department of Agriculture, Environment and Rural Affairs[^key-9201fd8cbf4f2f047981206ae5be2aaf] may require the person to, within a reasonable period of time, remove the product or equipment from a Northern Ireland offshore installation used in connection with any of the activities described in regulation 4(4)(h) and (i).
+(4) The Department of Agriculture, Environment and Rural Affairs[^c-9201fd8cbf4f2f047981206ae5be2aaf] may require the person to, within a reasonable period of time, remove the product or equipment from a Northern Ireland offshore installation used in connection with any of the activities described in regulation 4(4)(h) and (i).
 
 ### 28. Powers of the Secretary of State, the Scottish Ministers and the Department of Agriculture, Environment and Rural Affairs[^M_E_c6e23b95-e22e-4be5-ea5d-1b07f018a8f5][^V_NI_ecf8d594-5a95-8a2a-7417-f2a4a002ced2]
 
 *Extent: N.I.*
 
-(1) This regulation applies where, in contravention of Article 11 of the 2014 Regulation, a person has imported into Northern Ireland[^key-21fe402a9569e9bca8028c4f06aee739] from outside the customs territory of the EU a product or equipment containing, or whose functioning relies upon, fluorinated greenhouse gases.
+(1) This regulation applies where, in contravention of Article 11 of the 2014 Regulation, a person has imported into Northern Ireland[^c-21fe402a9569e9bca8028c4f06aee739] from outside the customs territory of the EU a product or equipment containing, or whose functioning relies upon, fluorinated greenhouse gases.
 
 (2) The Secretary of State may require the person to, within a reasonable period of time—
 
@@ -740,7 +740,7 @@ An enforcing authority[^key-27c5af93b97ed30ca404e7caab205c39] may, by notice ser
 
 It is an offence for a person to breach, or to cause or permit another person to breach, the prohibition in Article 3(1) of the 2014 Regulation (prohibition on intentional release of fluorinated greenhouse gas).
 
-### 29A. Offences relating to disclosure of information held by Revenue and Customs[^key-5b7799118f3ed6122f6dee9487f6c520]
+### 29A. Offences relating to disclosure of information held by Revenue and Customs[^c-5b7799118f3ed6122f6dee9487f6c520]
 
 *Extent: E+W+S*
 
@@ -756,7 +756,7 @@ It is an offence for a person to breach, or to cause or permit another person to
 
 (3) Subsections (4) to (7) of section 19 of the Commissioners for Revenue and Customs Act 2005 apply to an offence under this regulation as they apply to an offence under that section.
 
-### 30. Offences committed by bodies corporate, partnerships and unincorporated associations[^key-13e9066868f5f4f795070b03c91a8cfb]
+### 30. Offences committed by bodies corporate, partnerships and unincorporated associations[^c-13e9066868f5f4f795070b03c91a8cfb]
 
 (1) In respect of any offence under these Regulations committed by a body corporate, an officer as well as the body corporate, is guilty of the offence and liable if the offence is proved—
 
@@ -801,7 +801,7 @@ Except as provided in regulation 29A(3), a person *(Extent: E+W+S)*[^M_F_8653e3f
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine.
 
-## PART 5A — Civil penalties[^key-85734ee1b9c93f8c86b28f9292fd47ae]
+## PART 5A — Civil penalties[^c-85734ee1b9c93f8c86b28f9292fd47ae]
 
 *Extent: E+S*
 
@@ -916,13 +916,13 @@ Parliamentary Under Secretary of State
 
 Department for Environment, Food and Rural Affairs
 
-## SCHEDULE 1 — Certification and evaluation bodies (high voltage switchgear)[^key-44187f8714e32596e1608c2a43430dac]
+## SCHEDULE 1 — Certification and evaluation bodies (high voltage switchgear)[^c-44187f8714e32596e1608c2a43430dac]
 
 **No longer in force.**
 
 Regulation 12
 
-[^key-44187f8714e32596e1608c2a43430dac]
+[^c-44187f8714e32596e1608c2a43430dac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -983,13 +983,13 @@ Regulation 25(1)(a)(i)
 </tbody>
 </table>
 
-[^key-925f6067f3f98c5872ee95e9a2a9c907][^key-925f6067f3f98c5872ee95e9a2a9c907][^key-925f6067f3f98c5872ee95e9a2a9c907][^key-70e36ff9ac501aab10ebd0953ab4685c][^key-6d375421f15c414f6c8263fcb20b4182][^key-bc1465c9b8f996feecd6bd649953563a][^key-bf7835bb4961908655c54aca06235232][^key-0be564dfa3e3c100601a42a2c1f67cc1][^key-c79c8be2a501f0585a60174944ff089f][^key-7acb6ca6b49a4249992384eae85e6dab][^key-82c514a2165bc8f239b1042771c70eaa]
+[^c-925f6067f3f98c5872ee95e9a2a9c907][^c-925f6067f3f98c5872ee95e9a2a9c907][^c-925f6067f3f98c5872ee95e9a2a9c907][^c-70e36ff9ac501aab10ebd0953ab4685c][^c-6d375421f15c414f6c8263fcb20b4182][^c-bc1465c9b8f996feecd6bd649953563a][^c-bf7835bb4961908655c54aca06235232][^c-0be564dfa3e3c100601a42a2c1f67cc1][^c-c79c8be2a501f0585a60174944ff089f][^c-7acb6ca6b49a4249992384eae85e6dab][^c-82c514a2165bc8f239b1042771c70eaa]
 
 ## SCHEDULE 3 — Commission Regulation provisions
 
 Regulation 25(1)(a)(ii)
 
-Table 1[^key-fc6f2bd269a0c3da52717b7b1b781bb8]
+Table 1[^c-fc6f2bd269a0c3da52717b7b1b781bb8]
 
 Certification for stationary refrigeration, air conditioning and heat pump equipment
 
@@ -1007,7 +1007,7 @@ Certification for stationary fire protection systems and fire extinguishers
 | Article 4(1) (read in association with Articles 2 and 4(2)) | Requirement on personnel carrying out activities referred to in Article 2(1) (scope) to hold a certificate as referred to in Article 5 (personnel certificates). |
 | Article 7(1) | Requirement on companies carrying out activities referred to in Article 2(2) to hold a certificate as referred to in Article 8 (company certificates). |
 
-Table 3[^key-265ac2bca8a94cc17249f4d4279e0f98]
+Table 3[^c-265ac2bca8a94cc17249f4d4279e0f98]
 
 Certification for electrical switchgear
 
@@ -1031,7 +1031,7 @@ Attestation for air conditioning systems in motor vehicles
 | --- | --- |
 | Article 2(1) (read in association with Article 2(2)) | Requirement on personnel carrying out the activity referred to in Article 1 (subject matter) hold a training attestation as referred to in Article 3 (issuance of training attestations to personnel). |
 
-Table 6[^key-e95206f55f145d8f3ce84c46e54495c9]
+Table 6[^c-e95206f55f145d8f3ce84c46e54495c9]
 
 Declaration of conformity and verification document for equipment charged with hydrofluorocarbons
 
@@ -1040,7 +1040,7 @@ Declaration of conformity and verification document for equipment charged with h
 | Article 1(2) | Requirement for importers of equipment charged with hydrofluorocarbons to ensure that a copy of the declaration of conformity is available to the customs authorities when the customs declaration is submitted. |
 | Article 4 | Requirement for importers of equipment to submit the verification document using the reporting tool made available by the Commission *(Extent: EWS)* *(affected by repeal, see note)*[^M_F_3b05528d-5461-489b-a2b2-2e8fdacd6ddd] appropriate regulator *(Extent: EWS)* under Article 1 of Commission Regulation 1191/2014 by 31st March every year for the preceding calendar year. |
 
-## SCHEDULE 4 (Extent: E+S) — Civil penalties (Extent: E+S)[^key-f95cb44fcfa1910ba0d478e5b6f3e4fb]
+## SCHEDULE 4 (Extent: E+S) — Civil penalties (Extent: E+S)[^c-f95cb44fcfa1910ba0d478e5b6f3e4fb]
 
 Regulation 31A(8) *(Extent: E+S)*
 
@@ -1334,23 +1334,23 @@ An assessment of the effects that this instrument will have on the costs of busi
 
 [^c22360111]: Marginal citation: [Paragraph 1A](https://www.legislation.gov.uk/uksi/2015/310/paragraph/1A) is inserted by section 28 of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and is amended by Part 1 of the Schedule to the European Union (Amendment) Act 2008 and by [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388).
 
-[^key-51fcea0cf4f9151e85b5282045503fc1]: Textual amendment: Words in reg. 1 heading substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/3/2)
+[^c-51fcea0cf4f9151e85b5282045503fc1]: Textual amendment: Words in reg. 1 heading substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/3/2)
 
 [^c22360121]: Marginal citation: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-350c4250c8aab09bbe3066f1dc5aff47]: Textual amendment: Words in reg. 1(2) inserted (E.W.S.) (31.12.2020) by [S.I. 2019/583](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(1A)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/1) (as amended by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(18)(a)(b)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1); and inserted (N.I.) (31.12.2020) by [S.I. 2019/583](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35A(1)(2)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35A/1) (as amended by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(19)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-350c4250c8aab09bbe3066f1dc5aff47]: Textual amendment: Words in reg. 1(2) inserted (E.W.S.) (31.12.2020) by [S.I. 2019/583](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(1A)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/1) (as amended by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(18)(a)(b)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1); and inserted (N.I.) (31.12.2020) by [S.I. 2019/583](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35A(1)(2)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35A/1) (as amended by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(19)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2c25fabc32e3ad3a7b87f2a773a4be5b]: Textual amendment: Reg. 1(3) omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/3/3)
+[^c-2c25fabc32e3ad3a7b87f2a773a4be5b]: Textual amendment: Reg. 1(3) omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/3/3)
 
-[^key-bf0752adbab9f46166135857013894e7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/310/regulation/2/1) inserted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2018/98/regulation/4/a)
+[^c-bf0752adbab9f46166135857013894e7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/310/regulation/2/1) inserted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2018/98/regulation/4/a)
 
-[^key-4c1c36390271c97cba7487ff867155a9]: Textual amendment: Words in reg. 2(1) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [4(b)(i)](https://www.legislation.gov.uk/uksi/2018/98/regulation/4/b/i)
+[^c-4c1c36390271c97cba7487ff867155a9]: Textual amendment: Words in reg. 2(1) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [4(b)(i)](https://www.legislation.gov.uk/uksi/2018/98/regulation/4/b/i)
 
-[^key-f00cc89a2316ca0388f4ac777cddc4e7]: Textual amendment: Words in reg. 2(1) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2018/98/regulation/4/b/ii)
+[^c-f00cc89a2316ca0388f4ac777cddc4e7]: Textual amendment: Words in reg. 2(1) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2018/98/regulation/4/b/ii)
 
-[^key-f609e1534ff8a50f7fb46d635d28b6bf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/310/regulation/2/1) inserted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2018/98/regulation/4/c)
+[^c-f609e1534ff8a50f7fb46d635d28b6bf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/310/regulation/2/1) inserted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2018/98/regulation/4/c)
 
-[^key-f1f40418e5000d3d0c388cc24cab269c]: Textual amendment: Words in reg. 2(1) inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [4(d)](https://www.legislation.gov.uk/uksi/2018/98/regulation/4/d)
+[^c-f1f40418e5000d3d0c388cc24cab269c]: Textual amendment: Words in reg. 2(1) inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [4(d)](https://www.legislation.gov.uk/uksi/2018/98/regulation/4/d)
 
 [^c22360131]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39). Section 2 is amended by paragraph 232(1) of Schedule 22 to the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
 
@@ -1360,125 +1360,125 @@ An assessment of the effects that this instrument will have on the costs of busi
 
 [^c22360161]: Marginal citation: OJ No L 150, 20.5.2014, p 195.
 
-[^key-c8333b1e5b3f343ad4f1c7c0d3945554]: Textual amendment: Words in reg. 3(1) omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [5(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/98/regulation/5/2/a/i)
+[^c-c8333b1e5b3f343ad4f1c7c0d3945554]: Textual amendment: Words in reg. 3(1) omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [5(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/98/regulation/5/2/a/i)
 
 [^c22360171]: Marginal citation: OJ No L 333, 19.12.2007, p 4.
 
 [^c22360181]: Marginal citation: OJ No L 335, 20.12.2007, p 10.
 
-[^key-b6045b57bd50338e8357407a675cefd7]: Textual amendment: Words in reg. 3(1) omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [5(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/98/regulation/5/2/a/ii)
+[^c-b6045b57bd50338e8357407a675cefd7]: Textual amendment: Words in reg. 3(1) omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [5(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/98/regulation/5/2/a/ii)
 
 [^c22360201]: Marginal citation: OJ No L 92, 3.4.2008, p 12.
 
-[^key-4e03c034f54cc91265bae4cf5f9a7f30]: Textual amendment: Words in reg. 3(1) omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [5(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/98/regulation/5/2/a/iii)
+[^c-4e03c034f54cc91265bae4cf5f9a7f30]: Textual amendment: Words in reg. 3(1) omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [5(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/98/regulation/5/2/a/iii)
 
 [^c22360221]: Marginal citation: OJ No L 92, 3.4.2008, p 21. There is a relevant corrigendum (OJ No L 280, 23.10.2008, p 38).
 
 [^c22360231]: Marginal citation: OJ No L 92, 3.4.2008, p 25.
 
-[^key-2b12b1c15087f80334a691c15bc3a777]: Textual amendment: Words in reg. 3(1) omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [5(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2018/98/regulation/5/2/a/iv)
+[^c-2b12b1c15087f80334a691c15bc3a777]: Textual amendment: Words in reg. 3(1) omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [5(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2018/98/regulation/5/2/a/iv)
 
-[^key-4e8bd079076e15ae81ad177e21cfcf0f]: Textual amendment: Words in reg. 3(1) inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2018/98/regulation/5/2/b)
+[^c-4e8bd079076e15ae81ad177e21cfcf0f]: Textual amendment: Words in reg. 3(1) inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2018/98/regulation/5/2/b)
 
-[^key-942292423bfe81713ea3f6482008584e]: Textual amendment: Reg. 3(2)(b)-(l) substituted for reg. 3(2)(b)-(j) (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/5/3)
+[^c-942292423bfe81713ea3f6482008584e]: Textual amendment: Reg. 3(2)(b)-(l) substituted for reg. 3(2)(b)-(j) (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/5/3)
 
-[^key-5bc7269d62117594b7716767d81e92ec]: Textual amendment: Reg. 3(3)(a) omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2018/98/regulation/5/4)
+[^c-5bc7269d62117594b7716767d81e92ec]: Textual amendment: Reg. 3(3)(a) omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2018/98/regulation/5/4)
 
-[^key-0ab78f5bf144d1ddd15f0ce464983265]: Textual amendment: Words in reg. 4(1) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2018/98/regulation/6/2/a)
+[^c-0ab78f5bf144d1ddd15f0ce464983265]: Textual amendment: Words in reg. 4(1) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2018/98/regulation/6/2/a)
 
 [^c22360251]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29). Section 1(7) is amended by paragraph 1 of Schedule 3 to the [Oil and Gas (Enterprise) Act 1982 (c. 23)](https://www.legislation.gov.uk/ukpga/1982/23) and section 103 of the [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16). Areas have been designated under section 1(7) by [S.I. 1987/1265](https://www.legislation.gov.uk/uksi/1987/1265) (as amended by [S.I. 2000/3062](https://www.legislation.gov.uk/uksi/2000/3062)) and 2013/3162.
 
 [^c22360261]: Marginal citation: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23). A designation has been made by [S.I. 2013/3161](https://www.legislation.gov.uk/uksi/2013/3161).
 
-[^key-beed3709ec5e07bb955226a7a89d563c]: Textual amendment: Words in reg. 4(1)(b) inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/98/regulation/6/2/b)
+[^c-beed3709ec5e07bb955226a7a89d563c]: Textual amendment: Words in reg. 4(1)(b) inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/98/regulation/6/2/b)
 
 [^c22360271]: Marginal citation: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32).
 
-[^key-6b31dd73b5a79c889b4c3d77fe421aac]: Textual amendment: Reg. 4(5)(a) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/6/3)
+[^c-6b31dd73b5a79c889b4c3d77fe421aac]: Textual amendment: Reg. 4(5)(a) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/6/3)
 
-[^key-2659048fbd3db5e817bdc6470c38fe9c]: Textual amendment: Reg. 4(7) inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2018/98/regulation/6/4)
+[^c-2659048fbd3db5e817bdc6470c38fe9c]: Textual amendment: Reg. 4(7) inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2018/98/regulation/6/4)
 
-[^key-54762e2bfd34a180ee8a14f4f52ffea7]: Textual amendment: Reg. 5 omitted (E.W.S.) (31.12.2020) by [S.I. 2019/583](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(1B)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/1) (as amended by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(18)(a)(b)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-54762e2bfd34a180ee8a14f4f52ffea7]: Textual amendment: Reg. 5 omitted (E.W.S.) (31.12.2020) by [S.I. 2019/583](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(1B)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/1) (as amended by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(18)(a)(b)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-85a1aa6d071401921adbe1828fdfac39]: Textual amendment: Reg. 5A inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2018/98/regulation/7)
+[^c-85a1aa6d071401921adbe1828fdfac39]: Textual amendment: Reg. 5A inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2018/98/regulation/7)
 
 [^M_E_ef377062-2303-4ece-aae5-328fb4b9af37]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-b69bfb7134f3428bca9dfbacdd5d6547]: Textual amendment: Words in reg. 6 substituted (E.W.S.) (31.12.2020) by [S.I. 2019/583](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(2)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/1) (as amended by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(18)(a)(c)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b69bfb7134f3428bca9dfbacdd5d6547]: Textual amendment: Words in reg. 6 substituted (E.W.S.) (31.12.2020) by [S.I. 2019/583](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(2)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/1) (as amended by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(18)(a)(c)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22360281]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2). Section 170 is amended by section 114(1) of the [Police and Criminal Evidence Act 1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60), [section 12(1)](https://www.legislation.gov.uk/ukpga/1984/60/section/12/1) and (6) of the [Finance Act 1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), [paragraph 7](https://www.legislation.gov.uk/ukpga/1988/39/paragraph/7) of Schedule 2 to the [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), [section 293(4)](https://www.legislation.gov.uk/ukpga/1992/48/section/293/4) of the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [paragraph 8(5)](https://www.legislation.gov.uk/ukpga/2003/44/paragraph/8/5) of Part 2 of Schedule 17 to the [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), and section 111(4) and (5) of the Anti-social [Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), and by [S.I. 1996/2686](https://www.legislation.gov.uk/uksi/1996/2686), 2004/702 and 2005/1966.
 
 [^M_E_e082ef32-eb3b-4a28-cc05-97e0e82767fb]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-e7048355b9c0b553a032028dd80e6899]: Textual amendment: Words in reg. 6 substituted (N.I.) (31.12.2020) by [S.I. 2019/583](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35A(1)(3)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35A/1) (as amended by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(19)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e7048355b9c0b553a032028dd80e6899]: Textual amendment: Words in reg. 6 substituted (N.I.) (31.12.2020) by [S.I. 2019/583](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35A(1)(3)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35A/1) (as amended by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(19)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^V_NI_9e542fee-c3e3-6cb8-bc9b-299e11284fa3]: Textual amendment: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2). Section 170 is amended by section 114(1) of the [Police and Criminal Evidence Act 1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60), [section 12(1)](https://www.legislation.gov.uk/ukpga/1984/60/section/12/1) and (6) of the [Finance Act 1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), [paragraph 7](https://www.legislation.gov.uk/ukpga/1988/39/paragraph/7) of Schedule 2 to the [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), [section 293(4)](https://www.legislation.gov.uk/ukpga/1992/48/section/293/4) of the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [paragraph 8(5)](https://www.legislation.gov.uk/ukpga/2003/44/paragraph/8/5) of Part 2 of Schedule 17 to the [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), and section 111(4) and (5) of the Anti-social [Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), and by [S.I. 1996/2686](https://www.legislation.gov.uk/uksi/1996/2686), 2004/702 and 2005/1966.
 
 [^M_E_24b43c4d-2fdd-4383-a22b-fdbd4067a1a4]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-0ef9dc26f2b645a7e0607e8225d94e53]: Textual amendment: Words in reg. 7(1) substituted (E.W.S.) (31.12.2020) by [S.I. 2019/583](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(3)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/1) (as amended by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)[(d)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0ef9dc26f2b645a7e0607e8225d94e53]: Textual amendment: Words in reg. 7(1) substituted (E.W.S.) (31.12.2020) by [S.I. 2019/583](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(3)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/1) (as amended by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)[(d)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_aa7bb080-951e-44e6-98b4-594962445711]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-737fc8012000cd8209dc74971f446799]: Textual amendment: Words in reg. 7(1) substituted (N.I.) (31.12.2020) by [S.I. 2019/583](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35A(1)(4)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35A/1) (as amended by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(19)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-737fc8012000cd8209dc74971f446799]: Textual amendment: Words in reg. 7(1) substituted (N.I.) (31.12.2020) by [S.I. 2019/583](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35A(1)(4)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35A/1) (as amended by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(19)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-186e0f406d97e35f590d27cf5a0318e3]: Textual amendment: Reg. 7A inserted (E.W.S.) (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2018/98/regulation/8)
+[^c-186e0f406d97e35f590d27cf5a0318e3]: Textual amendment: Reg. 7A inserted (E.W.S.) (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2018/98/regulation/8)
 
-[^key-294dea45d4d5f8542a51e6ed7777aca3]: Textual amendment: Reg. 8 substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2018/98/regulation/9)
+[^c-294dea45d4d5f8542a51e6ed7777aca3]: Textual amendment: Reg. 8 substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2018/98/regulation/9)
 
-[^key-482b382d981f6f1d2426e35f7dc3cf93]: Textual amendment: Words in reg. 9(1) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2018/98/regulation/10)
+[^c-482b382d981f6f1d2426e35f7dc3cf93]: Textual amendment: Words in reg. 9(1) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2018/98/regulation/10)
 
-[^key-1700e7881644b357d027f47fc3719ee4]: Textual amendment: Words in reg. 9(1) omitted (E.W.S.) (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/1)[(4)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/4) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1700e7881644b357d027f47fc3719ee4]: Textual amendment: Words in reg. 9(1) omitted (E.W.S.) (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/1)[(4)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/4) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-acb0a1ea77f06ad37964a356d8a95c5f]: Textual amendment: Words in reg. 9(2) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2018/98/regulation/10)
+[^c-acb0a1ea77f06ad37964a356d8a95c5f]: Textual amendment: Words in reg. 9(2) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2018/98/regulation/10)
 
-[^key-6719ec4dec31f4b1a2875d89f2b92360]: Textual amendment: Reg. 10 omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2018/98/regulation/11)
+[^c-6719ec4dec31f4b1a2875d89f2b92360]: Textual amendment: Reg. 10 omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2018/98/regulation/11)
 
-[^key-f7ca564969d2d258db0bc43c13e7b093]: Textual amendment: Words in reg. 11(1) omitted (E.W.S.) (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(4)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/4) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7ca564969d2d258db0bc43c13e7b093]: Textual amendment: Words in reg. 11(1) omitted (E.W.S.) (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(4)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/4) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aab47dc3f89ccbcd9b6b1f95a257a73f]: Textual amendment: Reg. 12 omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2018/98/regulation/11)
+[^c-aab47dc3f89ccbcd9b6b1f95a257a73f]: Textual amendment: Reg. 12 omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2018/98/regulation/11)
 
-[^key-2a24724b4a174be70dcbcb5d276304d4]: Textual amendment: Word in reg. 13 heading substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/12/2)
+[^c-2a24724b4a174be70dcbcb5d276304d4]: Textual amendment: Word in reg. 13 heading substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/12/2)
 
-[^key-d9b887756f2856821014715c08a838d1]: Textual amendment: Words in reg. 13(1) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/12/3)
+[^c-d9b887756f2856821014715c08a838d1]: Textual amendment: Words in reg. 13(1) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/12/3)
 
-[^key-f7b17963d28b052c4589d3337fada774]: Textual amendment: Words in reg. 13(1) omitted (E.W.S.) (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(4)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/4) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7b17963d28b052c4589d3337fada774]: Textual amendment: Words in reg. 13(1) omitted (E.W.S.) (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(4)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/4) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-822ee28e6e00216edcaff2e703416a21]: Textual amendment: Words in reg. 13(2) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/12/3)
+[^c-822ee28e6e00216edcaff2e703416a21]: Textual amendment: Words in reg. 13(2) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/12/3)
 
-[^key-01a9aab6b554c850bf91d170f7bee59c]: Textual amendment: Reg. 14 omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2018/98/regulation/13)
+[^c-01a9aab6b554c850bf91d170f7bee59c]: Textual amendment: Reg. 14 omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2018/98/regulation/13)
 
-[^key-d1c7c94ec29dde2a591775fd3e097338]: Textual amendment: Words in reg. 15(1) omitted (E.W.S.) (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(4)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/4) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d1c7c94ec29dde2a591775fd3e097338]: Textual amendment: Words in reg. 15(1) omitted (E.W.S.) (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(4)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/4) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-17bcdb789c707587e11ecabd132397a7]: Textual amendment: Reg. 16 omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2018/98/regulation/13)
+[^c-17bcdb789c707587e11ecabd132397a7]: Textual amendment: Reg. 16 omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2018/98/regulation/13)
 
-[^key-293a19df58851c4469ccfb238b17d2cc]: Textual amendment: Words in reg. 17(1) omitted (E.W.S.) (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(4)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/4) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-293a19df58851c4469ccfb238b17d2cc]: Textual amendment: Words in reg. 17(1) omitted (E.W.S.) (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(4)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/4) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f070cbb2da21af1882400247dcda1e0f]: Textual amendment: Words in reg. 18(a) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2018/98/regulation/14/a)
+[^c-f070cbb2da21af1882400247dcda1e0f]: Textual amendment: Words in reg. 18(a) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2018/98/regulation/14/a)
 
-[^key-f7aab9995731de3ace7865fbaa69b3f3]: Textual amendment: Words in reg. 18(c) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2018/98/regulation/14/b)
+[^c-f7aab9995731de3ace7865fbaa69b3f3]: Textual amendment: Words in reg. 18(c) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2018/98/regulation/14/b)
 
-[^key-4ae117642762fc8ac376b54423ad0895]: Textual amendment: Reg. 19(1)(a) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [15(2)(a)](https://www.legislation.gov.uk/uksi/2018/98/regulation/15/2/a)
+[^c-4ae117642762fc8ac376b54423ad0895]: Textual amendment: Reg. 19(1)(a) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [15(2)(a)](https://www.legislation.gov.uk/uksi/2018/98/regulation/15/2/a)
 
-[^key-065de45f4ef4c60ffc827917ead5782e]: Textual amendment: Reg. 19(1)(c) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [15(2)(b)](https://www.legislation.gov.uk/uksi/2018/98/regulation/15/2/b)
+[^c-065de45f4ef4c60ffc827917ead5782e]: Textual amendment: Reg. 19(1)(c) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [15(2)(b)](https://www.legislation.gov.uk/uksi/2018/98/regulation/15/2/b)
 
-[^key-7b6937900edd2b0fba2871f1f07cbfae]: Textual amendment: Words in reg. 19(4) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/15/3)
+[^c-7b6937900edd2b0fba2871f1f07cbfae]: Textual amendment: Words in reg. 19(4) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/15/3)
 
-[^key-317b9f0028e5a17374210d539a169dd9]: Textual amendment: Reg. 19A inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2018/98/regulation/16)
+[^c-317b9f0028e5a17374210d539a169dd9]: Textual amendment: Reg. 19A inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2018/98/regulation/16)
 
-[^key-f93d74ca7500c0c7dd8e452b822d87d3]: Textual amendment: Words in reg. 20(1) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/17/2)
+[^c-f93d74ca7500c0c7dd8e452b822d87d3]: Textual amendment: Words in reg. 20(1) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/17/2)
 
-[^key-8261661bce33e6b16cc28f00fda964eb]: Textual amendment: Words in reg. 20(2)(b) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [17(3)(a)](https://www.legislation.gov.uk/uksi/2018/98/regulation/17/3/a)
+[^c-8261661bce33e6b16cc28f00fda964eb]: Textual amendment: Words in reg. 20(2)(b) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [17(3)(a)](https://www.legislation.gov.uk/uksi/2018/98/regulation/17/3/a)
 
-[^key-f861b5e433566665cfe6b2da9bbf091a]: Textual amendment: Words in reg. 20(2)(c) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [17(3)(b)](https://www.legislation.gov.uk/uksi/2018/98/regulation/17/3/b)
+[^c-f861b5e433566665cfe6b2da9bbf091a]: Textual amendment: Words in reg. 20(2)(c) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [17(3)(b)](https://www.legislation.gov.uk/uksi/2018/98/regulation/17/3/b)
 
-[^key-78a9370e853e27ce60c27dacd23139fe]: Textual amendment: Words in reg. 20(2)(d) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [17(3)(c)](https://www.legislation.gov.uk/uksi/2018/98/regulation/17/3/c)
+[^c-78a9370e853e27ce60c27dacd23139fe]: Textual amendment: Words in reg. 20(2)(d) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [17(3)(c)](https://www.legislation.gov.uk/uksi/2018/98/regulation/17/3/c)
 
-[^key-4680a34df0e536715f79479c971415a0]: Textual amendment: Reg. 20(2A)(2B) inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [17(4)](https://www.legislation.gov.uk/uksi/2018/98/regulation/17/4)
+[^c-4680a34df0e536715f79479c971415a0]: Textual amendment: Reg. 20(2A)(2B) inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [17(4)](https://www.legislation.gov.uk/uksi/2018/98/regulation/17/4)
 
-[^key-b6e5f487d97c208b7fe4b83a15050a35]: Textual amendment: Reg. 20(3) omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [17(5)](https://www.legislation.gov.uk/uksi/2018/98/regulation/17/5)
+[^c-b6e5f487d97c208b7fe4b83a15050a35]: Textual amendment: Reg. 20(3) omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [17(5)](https://www.legislation.gov.uk/uksi/2018/98/regulation/17/5)
 
-[^key-2196b0a73fee39edb69a75fc1cc88337]: Textual amendment: Word in reg. 21(1) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2018/98/regulation/18)
+[^c-2196b0a73fee39edb69a75fc1cc88337]: Textual amendment: Word in reg. 21(1) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2018/98/regulation/18)
 
 [^c22360291]: Marginal citation: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25). Section 108 is amended by Schedule 3 to the [Pollution Prevention and Control Act 1999 (c. 24)](https://www.legislation.gov.uk/ukpga/1999/24), [section 55(7) to (9)](https://www.legislation.gov.uk/ukpga/1999/24/section/55/7) of the Anti-social [Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [section 53](https://www.legislation.gov.uk/ukpga/2003/38/section/53) of the [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [paragraph 3](https://www.legislation.gov.uk/ukpga/2005/16/paragraph/3) of Part 1 of Schedule 2 to the [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [section 46(2)](https://www.legislation.gov.uk/ukpga/2012/9/section/46/2) of, and paragraph 5(3) of Part 1 of Schedule 3, and paragraph 43(1) and (10)(a) of Part 6 of Schedule 3 to, the [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), by [S.I. 2000/1973](https://www.legislation.gov.uk/uksi/2000/1973), 2010/675 and 2013/755, and by [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323) and 2006/181.
 
@@ -1490,61 +1490,61 @@ An assessment of the effects that this instrument will have on the costs of busi
 
 [^c22360331]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80). See section 1 and Schedule 1, which was amended by section 1 of the St. [Andrew's Day Bank Holiday (Scotland) Act 2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2).
 
-[^key-27c5af93b97ed30ca404e7caab205c39]: Textual amendment: Words in reg. 24 substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2018/98/regulation/19)
+[^c-27c5af93b97ed30ca404e7caab205c39]: Textual amendment: Words in reg. 24 substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2018/98/regulation/19)
 
-[^key-c77ff89e88aac89997d8739dd7553346]: Textual amendment: Words in reg. 25(1)(a) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2018/98/regulation/20/2/a)
+[^c-c77ff89e88aac89997d8739dd7553346]: Textual amendment: Words in reg. 25(1)(a) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2018/98/regulation/20/2/a)
 
-[^key-54116e50223da2a559f53ba016c1b337]: Textual amendment: Words in reg. 25(1) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2018/98/regulation/20/2/a)
+[^c-54116e50223da2a559f53ba016c1b337]: Textual amendment: Words in reg. 25(1) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2018/98/regulation/20/2/a)
 
-[^key-2727adef460b688a9c3ab58661f03b03]: Textual amendment: Words in reg. 25(1)(c) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2018/98/regulation/20/2/b)
+[^c-2727adef460b688a9c3ab58661f03b03]: Textual amendment: Words in reg. 25(1)(c) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2018/98/regulation/20/2/b)
 
-[^key-6f877a7176d1f55e291c52856c831867]: Textual amendment: Words in reg. 25(2)-(5) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/20/3)
+[^c-6f877a7176d1f55e291c52856c831867]: Textual amendment: Words in reg. 25(2)-(5) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/20/3)
 
-[^key-e6877354601826e280c1310c5a17a27d]: Textual amendment: Reg. 25(7)(e) substituted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2018/98/regulation/20/4)
+[^c-e6877354601826e280c1310c5a17a27d]: Textual amendment: Reg. 25(7)(e) substituted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2018/98/regulation/20/4)
 
-[^key-5b6fbcf6edcc48cf85dcb4dce20bbe2c]: Textual amendment: Words in reg. 25(8) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [20(5)](https://www.legislation.gov.uk/uksi/2018/98/regulation/20/5)
+[^c-5b6fbcf6edcc48cf85dcb4dce20bbe2c]: Textual amendment: Words in reg. 25(8) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [20(5)](https://www.legislation.gov.uk/uksi/2018/98/regulation/20/5)
 
-[^key-736480b6d11519586928f328af65faf6]: Textual amendment: Words in reg. 25(10) inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [20(6)](https://www.legislation.gov.uk/uksi/2018/98/regulation/20/6)
+[^c-736480b6d11519586928f328af65faf6]: Textual amendment: Words in reg. 25(10) inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [20(6)](https://www.legislation.gov.uk/uksi/2018/98/regulation/20/6)
 
-[^key-9180768b065497c09e469b1f6572884c]: Textual amendment: Words in reg. 25(11)(c)(i) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [20(7)(a)](https://www.legislation.gov.uk/uksi/2018/98/regulation/20/7/a)
+[^c-9180768b065497c09e469b1f6572884c]: Textual amendment: Words in reg. 25(11)(c)(i) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [20(7)(a)](https://www.legislation.gov.uk/uksi/2018/98/regulation/20/7/a)
 
-[^key-38d011fda55ebc9c2c9dcf813aaa9a34]: Textual amendment: Words in reg. 25(11)(c)(ii) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [20(7)(b)](https://www.legislation.gov.uk/uksi/2018/98/regulation/20/7/b)
+[^c-38d011fda55ebc9c2c9dcf813aaa9a34]: Textual amendment: Words in reg. 25(11)(c)(ii) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [20(7)(b)](https://www.legislation.gov.uk/uksi/2018/98/regulation/20/7/b)
 
-[^key-52d12f6ec24a27cf1b4ff81c0c69314f]: Textual amendment: Words in reg. 25(11)(c)(iii) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [20(7)(c)](https://www.legislation.gov.uk/uksi/2018/98/regulation/20/7/c)
+[^c-52d12f6ec24a27cf1b4ff81c0c69314f]: Textual amendment: Words in reg. 25(11)(c)(iii) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [20(7)(c)](https://www.legislation.gov.uk/uksi/2018/98/regulation/20/7/c)
 
-[^key-73bea09c93ce5b1da426109f897e9c1f]: Textual amendment: Word in [reg. 26](https://www.legislation.gov.uk/uksi/2015/310/regulation/26) heading inserted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/21/2)
+[^c-73bea09c93ce5b1da426109f897e9c1f]: Textual amendment: Word in [reg. 26](https://www.legislation.gov.uk/uksi/2015/310/regulation/26) heading inserted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/21/2)
 
-[^key-703a5dd1c77bd53a0b606b9210cec69b]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2015/310/regulation/26/2) substituted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/21/3)
+[^c-703a5dd1c77bd53a0b606b9210cec69b]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2015/310/regulation/26/2) substituted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/21/3)
 
-[^key-c1cef8dfc0565002acdbf0d8822ac9be]: Textual amendment: [Reg. 26(2A)](https://www.legislation.gov.uk/uksi/2015/310/regulation/26/2A) inserted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [21(4)](https://www.legislation.gov.uk/uksi/2018/98/regulation/21/4)
+[^c-c1cef8dfc0565002acdbf0d8822ac9be]: Textual amendment: [Reg. 26(2A)](https://www.legislation.gov.uk/uksi/2015/310/regulation/26/2A) inserted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [21(4)](https://www.legislation.gov.uk/uksi/2018/98/regulation/21/4)
 
 [^c22360351]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
 [^c22360361]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-ee3fca06408d8a5f668bd4c212bfc113]: Textual amendment: Reg. 26(4) omitted (1.4.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [21(5)](https://www.legislation.gov.uk/uksi/2018/98/regulation/21/5)
+[^c-ee3fca06408d8a5f668bd4c212bfc113]: Textual amendment: Reg. 26(4) omitted (1.4.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [21(5)](https://www.legislation.gov.uk/uksi/2018/98/regulation/21/5)
 
-[^key-43dd5339674cccb32a7d6f6b7e8df563]: Textual amendment: Reg. 26(7) inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [21(6)](https://www.legislation.gov.uk/uksi/2018/98/regulation/21/6)
+[^c-43dd5339674cccb32a7d6f6b7e8df563]: Textual amendment: Reg. 26(7) inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [21(6)](https://www.legislation.gov.uk/uksi/2018/98/regulation/21/6)
 
-[^key-53d60890f096190596749ac9a70c872f]: Textual amendment: Words in reg. 27(1) substituted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2018/98/regulation/22/a)
+[^c-53d60890f096190596749ac9a70c872f]: Textual amendment: Words in reg. 27(1) substituted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2018/98/regulation/22/a)
 
-[^key-7f404ae8315879b358dc6a3d382abf58]: Textual amendment: Words in reg. 27(1) substituted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2018/98/regulation/22/b)
+[^c-7f404ae8315879b358dc6a3d382abf58]: Textual amendment: Words in reg. 27(1) substituted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2018/98/regulation/22/b)
 
 [^M_E_a8d97b9e-0d68-4e55-bd4e-f0594e31a3d1]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-e0083fd545c96bc0c876fec6f91d5182]: Textual amendment: Words in reg. 28 heading substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [23(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/23/2)
+[^c-e0083fd545c96bc0c876fec6f91d5182]: Textual amendment: Words in reg. 28 heading substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [23(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/23/2)
 
-[^key-2b8925793b6bb80f8a36daf632e09fe1]: Textual amendment: Words in reg. 28(1) substituted (E.W.S.) (31.12.2020) by [S.I. 2019/583](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(5)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/5) (as amended by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(18)(a)(e)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2b8925793b6bb80f8a36daf632e09fe1]: Textual amendment: Words in reg. 28(1) substituted (E.W.S.) (31.12.2020) by [S.I. 2019/583](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(5)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/5) (as amended by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(18)(a)(e)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4eca888660334d08144a9a8d1062f9cb]: Textual amendment: Words in reg. 28(2)(c)(iii) inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [23(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/23/3)
+[^c-4eca888660334d08144a9a8d1062f9cb]: Textual amendment: Words in reg. 28(2)(c)(iii) inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [23(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/23/3)
 
-[^key-9201fd8cbf4f2f047981206ae5be2aaf]: Textual amendment: Words in reg. 28(4) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [23(4)](https://www.legislation.gov.uk/uksi/2018/98/regulation/23/4)
+[^c-9201fd8cbf4f2f047981206ae5be2aaf]: Textual amendment: Words in reg. 28(4) substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [23(4)](https://www.legislation.gov.uk/uksi/2018/98/regulation/23/4)
 
 [^M_E_c6e23b95-e22e-4be5-ea5d-1b07f018a8f5]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^V_NI_ecf8d594-5a95-8a2a-7417-f2a4a002ced2]: Textual amendment: Words in reg. 28 heading substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [23(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/23/2)
 
-[^key-21fe402a9569e9bca8028c4f06aee739]: Textual amendment: Words in reg. 28(1) substituted (N.I.) (31.12.2020) by [S.I. 2019/583](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35A(1)(5)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35A/5) (as amended by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(19)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-21fe402a9569e9bca8028c4f06aee739]: Textual amendment: Words in reg. 28(1) substituted (N.I.) (31.12.2020) by [S.I. 2019/583](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35A(1)(5)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35A/5) (as amended by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2)[(19)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^V_NI_f35ec7a9-a31d-7e27-38ec-89b29f21313c]: Textual amendment: Words in reg. 28(2)(c)(iii) inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [23(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/23/3)
 
@@ -1556,9 +1556,9 @@ An assessment of the effects that this instrument will have on the costs of busi
 
 [^V_ES_722d1814-084a-3aa9-603b-11061b59b3af]: Textual amendment: Reg. 29 substituted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2018/98/regulation/24)
 
-[^key-5b7799118f3ed6122f6dee9487f6c520]: Textual amendment: Reg. 29A inserted (E.W.S.) (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2018/98/regulation/25)
+[^c-5b7799118f3ed6122f6dee9487f6c520]: Textual amendment: Reg. 29A inserted (E.W.S.) (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2018/98/regulation/25)
 
-[^key-13e9066868f5f4f795070b03c91a8cfb]: Modification: [Reg. 30](https://www.legislation.gov.uk/uksi/2015/310/regulation/30) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)
+[^c-13e9066868f5f4f795070b03c91a8cfb]: Modification: [Reg. 30](https://www.legislation.gov.uk/uksi/2015/310/regulation/30) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)
 
 [^c22360371]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46). Section 70 is amended by section 10(6) of the [Criminal Procedure (Amendment) (Scotland) Act 2004 (asp 5)](https://www.legislation.gov.uk/asp/2004/5), [section 28](https://www.legislation.gov.uk/asp/2004/5/section/28) of the [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [section 66(1)](https://www.legislation.gov.uk/asp/2007/6/section/66/1) and (3) to (12) of the [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) and section 6(4) of the [Partnerships (Prosecution) (Scotland) Act 2013 (c. 21)](https://www.legislation.gov.uk/ukpga/2013/21), and by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149).
 
@@ -1572,7 +1572,7 @@ An assessment of the effects that this instrument will have on the costs of busi
 
 [^M_F_8653e3f6-b55e-42ed-8c8c-13da0f0e9ff6]: Textual amendment: Words in reg. 31 substituted (E.W.S.) (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2018/98/regulation/26)
 
-[^key-85734ee1b9c93f8c86b28f9292fd47ae]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2015/310/part/5A) inserted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2018/98/regulation/27)
+[^c-85734ee1b9c93f8c86b28f9292fd47ae]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2015/310/part/5A) inserted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2018/98/regulation/27)
 
 [^c22360421]: Marginal citation: [S.I. 2010/1513](https://www.legislation.gov.uk/uksi/2010/1513), to which there are amendments not relevant to this instrument.
 
@@ -1582,32 +1582,32 @@ An assessment of the effects that this instrument will have on the costs of busi
 
 [^c22360451]: Marginal citation: [S.I. 2009/261](https://www.legislation.gov.uk/uksi/2009/261), amended by [S.I. 2010/1513](https://www.legislation.gov.uk/uksi/2010/1513), 2011/1043, 2012/2897 and 2013/755.
 
-[^key-44187f8714e32596e1608c2a43430dac]: Textual amendment: Sch. 1 omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2018/98/regulation/28)
+[^c-44187f8714e32596e1608c2a43430dac]: Textual amendment: Sch. 1 omitted (22.2.2018) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2018/98/regulation/28)
 
-[^key-925f6067f3f98c5872ee95e9a2a9c907]: Textual amendment: Words in Sch. 2 substituted (E.W.S.) (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(6)(a)(i)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/6/a/i) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-925f6067f3f98c5872ee95e9a2a9c907]: Textual amendment: Words in Sch. 2 substituted (E.W.S.) (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(6)(a)(i)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/6/a/i) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-70e36ff9ac501aab10ebd0953ab4685c]: Textual amendment: Words in Sch. 2 substituted (E.W.S.) (31.12.2020) by The Ozone-[Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/1/6/a/ii) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-70e36ff9ac501aab10ebd0953ab4685c]: Textual amendment: Words in Sch. 2 substituted (E.W.S.) (31.12.2020) by The Ozone-[Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/1/6/a/ii) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6d375421f15c414f6c8263fcb20b4182]: Textual amendment: Words in Sch. 2 inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2018/98/regulation/29)
+[^c-6d375421f15c414f6c8263fcb20b4182]: Textual amendment: Words in Sch. 2 inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2018/98/regulation/29)
 
-[^key-bc1465c9b8f996feecd6bd649953563a]: Textual amendment: Words in Sch. 2 substituted (E.W.S.) (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(6)(b)(i)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/6/b/i) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bc1465c9b8f996feecd6bd649953563a]: Textual amendment: Words in Sch. 2 substituted (E.W.S.) (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(6)(b)(i)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/6/b/i) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bf7835bb4961908655c54aca06235232]: Textual amendment: Words in Sch. 2 substituted (E.W.S.) (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/6/b/ii) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf7835bb4961908655c54aca06235232]: Textual amendment: Words in Sch. 2 substituted (E.W.S.) (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/6/b/ii) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0be564dfa3e3c100601a42a2c1f67cc1]: Textual amendment: Words in Sch. 2 substituted (E.W.S.) (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/6/b/iii) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0be564dfa3e3c100601a42a2c1f67cc1]: Textual amendment: Words in Sch. 2 substituted (E.W.S.) (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/6/b/iii) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c79c8be2a501f0585a60174944ff089f]: Textual amendment: Words in Sch. 2 substituted (E.W.S.) (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(6)(b)(iv)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/6/b/iv) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c79c8be2a501f0585a60174944ff089f]: Textual amendment: Words in Sch. 2 substituted (E.W.S.) (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(6)(b)(iv)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/6/b/iv) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7acb6ca6b49a4249992384eae85e6dab]: Textual amendment: Words in Sch. 2 substituted (E.W.S.) (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(6)(b)(v)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/6/b/v) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7acb6ca6b49a4249992384eae85e6dab]: Textual amendment: Words in Sch. 2 substituted (E.W.S.) (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(6)(b)(v)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/6/b/v) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-82c514a2165bc8f239b1042771c70eaa]: Textual amendment: Words in Sch. 2 substituted (E.W.S) (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(6)(c)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/6/c) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-82c514a2165bc8f239b1042771c70eaa]: Textual amendment: Words in Sch. 2 substituted (E.W.S) (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(6)(c)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/6/c) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fc6f2bd269a0c3da52717b7b1b781bb8]: Textual amendment: Sch. 3 Table 1 substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [30(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/30/2)
+[^c-fc6f2bd269a0c3da52717b7b1b781bb8]: Textual amendment: Sch. 3 Table 1 substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [30(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/30/2)
 
-[^key-265ac2bca8a94cc17249f4d4279e0f98]: Textual amendment: Sch. 3 Table 3 substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [30(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/30/3)
+[^c-265ac2bca8a94cc17249f4d4279e0f98]: Textual amendment: Sch. 3 Table 3 substituted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [30(3)](https://www.legislation.gov.uk/uksi/2018/98/regulation/30/3)
 
-[^key-e95206f55f145d8f3ce84c46e54495c9]: Textual amendment: Sch. 3 Table 6 inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [30(4)](https://www.legislation.gov.uk/uksi/2018/98/regulation/30/4)
+[^c-e95206f55f145d8f3ce84c46e54495c9]: Textual amendment: Sch. 3 Table 6 inserted (22.2.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [30(4)](https://www.legislation.gov.uk/uksi/2018/98/regulation/30/4)
 
 [^M_F_3b05528d-5461-489b-a2b2-2e8fdacd6ddd]: Textual amendment: Words in Sch. 3 Table 6 substituted (E.W.S) (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/583/regulation/1/1), [35(1)(7)](https://www.legislation.gov.uk/uksi/2019/583/regulation/35/1/7) (as amended by [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(2)(18)(a)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/2/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f95cb44fcfa1910ba0d478e5b6f3e4fb]: Textual amendment: Schs. 4, 5 inserted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2018/98/regulation/31)
+[^c-f95cb44fcfa1910ba0d478e5b6f3e4fb]: Textual amendment: Schs. 4, 5 inserted (E.S.) (1.4.2018) by [The Fluorinated Greenhouse Gases (Amendment) Regulations 2018 (S.I. 2018/98)](https://www.legislation.gov.uk/uksi/2018/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/98/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2018/98/regulation/31)

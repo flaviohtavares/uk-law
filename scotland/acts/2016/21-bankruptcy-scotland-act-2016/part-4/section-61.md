@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Procedure in application to Accountant in Bankruptcy under section 60[^key-8f3abc166a212d037e0ddc40f24dd87b]
+## 61. Procedure in application to Accountant in Bankruptcy under section 60[^c-8f3abc166a212d037e0ddc40f24dd87b]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f3abc166a212d037e0ddc40f24dd87b]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2016/21/section/61) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-8f3abc166a212d037e0ddc40f24dd87b]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2016/21/section/61) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

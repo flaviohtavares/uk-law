@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Livestock manure brought on to or sent off the holding[^key-6060ef8de89ae72710252129e3dc78c1]
+## 37. Livestock manure brought on to or sent off the holding[^c-6060ef8de89ae72710252129e3dc78c1]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6060ef8de89ae72710252129e3dc78c1]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2021/77/regulation/37) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-6060ef8de89ae72710252129e3dc78c1]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2021/77/regulation/37) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

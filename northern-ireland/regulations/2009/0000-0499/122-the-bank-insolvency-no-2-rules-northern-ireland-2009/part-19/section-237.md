@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 237. Proxy-holder with financial interest[^key-c4a5fc23b7baad8488b2ccb6b1c468bf]
+## 237. Proxy-holder with financial interest[^c-c4a5fc23b7baad8488b2ccb6b1c468bf]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 8.6 of the 1991 Rules.
 
 ## Annotations
 
-[^key-c4a5fc23b7baad8488b2ccb6b1c468bf]: Commencement: Rule 237 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-c4a5fc23b7baad8488b2ccb6b1c468bf]: Commencement: Rule 237 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

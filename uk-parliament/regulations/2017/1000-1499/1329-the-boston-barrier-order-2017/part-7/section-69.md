@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Service of notices[^key-18df5a9a08e7e859a001968b646f4c62]
+## 69. Service of notices[^c-18df5a9a08e7e859a001968b646f4c62]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-18df5a9a08e7e859a001968b646f4c62]: Commencement: Art. 69 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-18df5a9a08e7e859a001968b646f4c62]: Commencement: Art. 69 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
 [^f00070]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The Board shall appoint traffic wardens on such terms and conditions as the Department of Justice[^key-c477a94425a9b826a1e2bb7fd7b7aada] may determine.
+(1) The Board shall appoint traffic wardens on such terms and conditions as the Department of Justice[^c-c477a94425a9b826a1e2bb7fd7b7aada] may determine.
 
 (2) Traffic wardens shall be under the direction and control of the Chief Constable.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c477a94425a9b826a1e2bb7fd7b7aada]: Textual amendment: Words in [s. 71(1)](https://www.legislation.gov.uk/ukpga/2000/32/section/71/1) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 80](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/80) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-c477a94425a9b826a1e2bb7fd7b7aada]: Textual amendment: Words in [s. 71(1)](https://www.legislation.gov.uk/ukpga/2000/32/section/71/1) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 80](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/80) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

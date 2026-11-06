@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Appointment of health and safety lead by registered provider[^key-b362cd83ef06e5694518058d2e08ded1]
+## 10. Appointment of health and safety lead by registered provider[^c-b362cd83ef06e5694518058d2e08ded1]
 
 *Extent: E+W*
 
-(1)[^key-26fa968813a0ca4eef98ffa9139c402e] The Housing and Regeneration Act 2008 is amended as follows.
+(1)[^c-26fa968813a0ca4eef98ffa9139c402e] The Housing and Regeneration Act 2008 is amended as follows.
 
-(2)[^key-26fa968813a0ca4eef98ffa9139c402e] Before section 127 (and the heading immediately before it) insert—
+(2)[^c-26fa968813a0ca4eef98ffa9139c402e] Before section 127 (and the heading immediately before it) insert—
 
 > **Health and safety lead for registered provider**
 >
@@ -140,7 +140,7 @@ summary: ''
 >
 > (3) A registered provider may nominate an individual to carry out the functions of the health and safety lead if the health and safety lead is unable to act due to absence or illness.
 
-(3)[^key-26fa968813a0ca4eef98ffa9139c402e] In section 220 (grounds for giving enforcement notice), at the appropriate place insert—
+(3)[^c-26fa968813a0ca4eef98ffa9139c402e] In section 220 (grounds for giving enforcement notice), at the appropriate place insert—
 
 > (11B) Case 12 is where—
 >
@@ -149,7 +149,7 @@ summary: ''
 >   - (ii) has failed to meet a requirement under section 126C, or
 > - (b) the functions of the health and safety lead are not being carried out.
 
-(4)[^key-26fa968813a0ca4eef98ffa9139c402e] In section 227 (grounds for imposition of penalty), at the appropriate place insert—
+(4)[^c-26fa968813a0ca4eef98ffa9139c402e] In section 227 (grounds for imposition of penalty), at the appropriate place insert—
 
 > (7B) Case 8 is where—
 >
@@ -158,7 +158,7 @@ summary: ''
 >   - (ii) has failed to meet a requirement under section 126C, or
 > - (b) the functions of the health and safety lead are not being carried out.
 
-(5)[^key-26fa968813a0ca4eef98ffa9139c402e] In section 247(1) (management tender), before paragraph (b) insert—
+(5)[^c-26fa968813a0ca4eef98ffa9139c402e] In section 247(1) (management tender), before paragraph (b) insert—
 
 > - (ab) a registered provider—
 >   - (i) does not have a health and safety lead designated under section 126A, or
@@ -176,7 +176,7 @@ summary: ''
 
 .
 
-(7)[^key-26fa968813a0ca4eef98ffa9139c402e] In section 252A(2) (appointment of advisers to local authorities)—
+(7)[^c-26fa968813a0ca4eef98ffa9139c402e] In section 252A(2) (appointment of advisers to local authorities)—
 
 - (a) in paragraph (a), omit the final “or”;
 - (b) after paragraph (b) insert—
@@ -188,10 +188,10 @@ summary: ''
 
   .
 
-(8)[^key-26fa968813a0ca4eef98ffa9139c402e] In section 320 (orders and regulations), in subsection (3)(d), for “or 72” substitute “, 72 or 126A”.
+(8)[^c-26fa968813a0ca4eef98ffa9139c402e] In section 320 (orders and regulations), in subsection (3)(d), for “or 72” substitute “, 72 or 126A”.
 
 ## Annotations
 
-[^key-b362cd83ef06e5694518058d2e08ded1]: Commencement: S. 10 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-b362cd83ef06e5694518058d2e08ded1]: Commencement: S. 10 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-26fa968813a0ca4eef98ffa9139c402e]: Commencement: [S. 10(1)-(5)](https://www.legislation.gov.uk/ukpga/2023/36/section/10/1)(7)(8) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/d)
+[^c-26fa968813a0ca4eef98ffa9139c402e]: Commencement: [S. 10(1)-(5)](https://www.legislation.gov.uk/ukpga/2023/36/section/10/1)(7)(8) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-9e628dd09590e886c84d8ecca5777417]
+## 1. Citation and commencement[^c-9e628dd09590e886c84d8ecca5777417]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e628dd09590e886c84d8ecca5777417]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1997/2781/article/1) in force at 5.1.1998, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1997/2781/article/1/2)
+[^c-9e628dd09590e886c84d8ecca5777417]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1997/2781/article/1) in force at 5.1.1998, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1997/2781/article/1/2)

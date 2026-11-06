@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Time limit for exercise of authority to acquire rights compulsorily[^key-09d5882d17b01b1b8a476411b3e5e493]
+## 20. Time limit for exercise of authority to acquire rights compulsorily[^c-09d5882d17b01b1b8a476411b3e5e493]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-09d5882d17b01b1b8a476411b3e5e493]: Commencement: Art. 20 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-09d5882d17b01b1b8a476411b3e5e493]: Commencement: Art. 20 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24030551]: Marginal citation: [Section 4](https://www.legislation.gov.uk/uksi/2020/325/section/4) was amended by the Housing and Planning Act 2016, sections 184 and 185 and Schedule 18, paragraphs 1 and 2.

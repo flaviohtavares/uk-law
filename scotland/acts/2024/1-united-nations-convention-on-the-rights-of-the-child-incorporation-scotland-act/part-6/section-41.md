@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Urgent remedial regulations[^key-847bd2b608d0d4f44b4b740e5626c1d3]
+## 41. Urgent remedial regulations[^c-847bd2b608d0d4f44b4b740e5626c1d3]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-847bd2b608d0d4f44b4b740e5626c1d3]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2024/1/section/41) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-847bd2b608d0d4f44b4b740e5626c1d3]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2024/1/section/41) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

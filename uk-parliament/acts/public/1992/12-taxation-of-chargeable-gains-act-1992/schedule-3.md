@@ -24,16 +24,16 @@ Section 35.
 
 ### Previous no gain/no loss disposals
 
-**1.** (1) For the purposes of corporation tax, where—[^key-382a12c12f2f57fce11f1b6a59c41fe6]
+**1.** (1) For the purposes of corporation tax, where—[^c-382a12c12f2f57fce11f1b6a59c41fe6]
 
-- (a) a person makes a disposal, not being a no gain/no loss disposal, of an asset which the person[^key-49cac76368672d5f20d5672a4589a358] acquired after 31st March 1982, and
+- (a) a person makes a disposal, not being a no gain/no loss disposal, of an asset which the person[^c-49cac76368672d5f20d5672a4589a358] acquired after 31st March 1982, and
 - (b) the disposal by which the person acquired the asset and any previous disposal of the asset after 31st March 1982 was a no gain/no loss disposal,
 
 the person shall be treated for the purposes of section 35 as having held the asset on 31st March 1982.
 
-(2) For the purposes of this paragraph a no gain/no loss disposal is one on which by virtue of any of the no gain/no loss provisions[^key-3bd5f48e7037be71ab4d44100427f0d0] or any of sections 195B, 195C or 195E[^key-c95c78a108895a043567c241a1531c87] neither a gain nor a loss accrues to the person making the disposal.
+(2) For the purposes of this paragraph a no gain/no loss disposal is one on which by virtue of any of the no gain/no loss provisions[^c-3bd5f48e7037be71ab4d44100427f0d0] or any of sections 195B, 195C or 195E[^c-c95c78a108895a043567c241a1531c87] neither a gain nor a loss accrues to the person making the disposal.
 
-**1A.**[^key-73ea8674a133bdec77aec5503ac4f35c] (1) This paragraph applies where—
+**1A.**[^c-73ea8674a133bdec77aec5503ac4f35c] (1) This paragraph applies where—
 
 - (a) paragraph 1(1) applies to a disposal of shares in or securities of a company that are of a class,
 - (b) accordingly, the shares or securities constitute or form part of a holding which the person making the disposal (“P”) is treated as having held on 31st March 1982 (“the deemed 1982 holding”),
@@ -64,14 +64,14 @@ where—
 
 (6) Shares in or securities of a company shall not be treated as being of the same class unless they are so treated by the practice of a recognised stock exchange or would be so treated if dealt with on a recognised stock exchange.
 
-**2.** (1) Sub-paragraph (2) below applies where a person makes a disposal of an asset acquired by him on or after 6th April 1988 in circumstances in which section [^key-d6a9acec6340a502225b519594620456]... 171 applied.
+**2.** (1) Sub-paragraph (2) below applies where a person makes a disposal of an asset acquired by him on or after 6th April 1988 in circumstances in which section [^c-d6a9acec6340a502225b519594620456]... 171 applied.
 
 (2) Where this sub-paragraph applies—
 
 - (a) an election under section 35(5) by the person making the disposal shall not cover the disposal, but
 - (b) the making of such an election by the person from whom the asset was acquired shall cause the disposal to fall outside subsection (3) of that section (so that subsection (2) of that section is not excluded by it) whether or not the person making the disposal makes such an election.
 
-(3) Where the person from whom the asset was acquired by the person making the disposal himself acquired it on or after 6th April 1988 in circumstances in which section [^key-b9fee706a6dc4a24d9c9198b73bdb46d]... 171 applied, an election made by him shall not have the effect described in sub-paragraph (2)(b) above but an election made by—
+(3) Where the person from whom the asset was acquired by the person making the disposal himself acquired it on or after 6th April 1988 in circumstances in which section [^c-b9fee706a6dc4a24d9c9198b73bdb46d]... 171 applied, an election made by him shall not have the effect described in sub-paragraph (2)(b) above but an election made by—
 
 - (a) the last person by whom the asset was acquired after 5th April 1988 otherwise than in such circumstances, or
 - (b) if there is no such person, the person who held the asset on 5th April 1988,
@@ -112,14 +112,14 @@ the amount allowable as a deduction on the disposal shall be reduced by the amou
 - (b) an asset which the person making the disposal has at any time held for the purposes of or in connection with—
   - (i) a trade consisting of the working of a source of mineral deposits, or
   - (ii) where a trade involves (but does not consist of) such working, the part of the trade which involves such working, or
-- (c) a licence under Part I of the Petroleum Act 1998[^key-c7e2f434756485f265efc8bb39552b33] or the [^c2138460]Petroleum (Production) Act (Northern Ireland) 1964; or
+- (c) a licence under Part I of the Petroleum Act 1998[^c-c7e2f434756485f265efc8bb39552b33] or the [^c2138460]Petroleum (Production) Act (Northern Ireland) 1964; or
 - (d) shares which, on 31st March 1982, were unquoted and derived their value, or the greater part of their value, directly or indirectly from oil exploration or exploitation assets situated in the United Kingdom or a designated area or from such assets and oil exploration or exploitation rights taken together;
 
 but a disposal does not fall within paragraph (a) or (b) above unless a capital allowance in respect of any expenditure attributable to the asset has been made to the person making the disposal or would have been made to him had he made a claim.
 
 (3) For the purposes of sub-paragraph (2)(d) above,—
 
-- (a) “**shares**” includes stock and any security, as defined in section 1117(1) of CTA 2010[^key-f021fc1d165d23551599defa253867a1]; and
+- (a) “**shares**” includes stock and any security, as defined in section 1117(1) of CTA 2010[^c-f021fc1d165d23551599defa253867a1]; and
 - (b) shares (as so defined) were unquoted on 31st March 1982 if, on that date, they were neither quoted on a recognised stock exchange nor dealt in on the Unlisted Securities Market;
 
 but nothing in this paragraph affects the operation, in relation to such unquoted shares, of sections 126 to 130.
@@ -148,7 +148,7 @@ and in this sub-paragraph “**oil**” has the same meaning as in Part I of the
 
 (8) In this paragraph—
 
-- (a) “**source of mineral deposits**” shall be construed in accordance with section 394 of the Capital Allowances Act[^key-684fd4ac550167e57ef6955c3fb79ceb], and
+- (a) “**source of mineral deposits**” shall be construed in accordance with section 394 of the Capital Allowances Act[^c-684fd4ac550167e57ef6955c3fb79ceb], and
 - (b) references to a no gain/no loss disposal shall be construed in accordance with paragraph 1 above.
 
 ### Elections under section 35(5): groups of companies
@@ -191,25 +191,25 @@ whichever is earliest.
 
 ## Annotations
 
-[^key-382a12c12f2f57fce11f1b6a59c41fe6]: Textual amendment: Words in Sch. 3 para. 1(1) substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 65(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/65/2/a/i)
+[^c-382a12c12f2f57fce11f1b6a59c41fe6]: Textual amendment: Words in Sch. 3 para. 1(1) substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 65(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/65/2/a/i)
 
-[^key-49cac76368672d5f20d5672a4589a358]: Textual amendment: Words in Sch. 3 para. 1(1) substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 65(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/65/2/a/ii)
+[^c-49cac76368672d5f20d5672a4589a358]: Textual amendment: Words in Sch. 3 para. 1(1) substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 65(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/65/2/a/ii)
 
-[^key-3bd5f48e7037be71ab4d44100427f0d0]: Textual amendment: Words in Sch. 3 para. 1(2) substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 65(2)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/65/2/b)
+[^c-3bd5f48e7037be71ab4d44100427f0d0]: Textual amendment: Words in Sch. 3 para. 1(2) substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 65(2)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/65/2/b)
 
-[^key-c95c78a108895a043567c241a1531c87]: Textual amendment: Words in Sch. 3 para. 1(2) inserted (with effect in accordance with Sch. 40 para. 8 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 40 para. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/40/paragraph/7)
+[^c-c95c78a108895a043567c241a1531c87]: Textual amendment: Words in Sch. 3 para. 1(2) inserted (with effect in accordance with Sch. 40 para. 8 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 40 para. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/40/paragraph/7)
 
-[^key-73ea8674a133bdec77aec5503ac4f35c]: Textual amendment: Sch. 3 para. 1A inserted (with effect in accordance with art. 7(4) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2010/157/article/7/3)
+[^c-73ea8674a133bdec77aec5503ac4f35c]: Textual amendment: Sch. 3 para. 1A inserted (with effect in accordance with art. 7(4) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2010/157/article/7/3)
 
-[^key-d6a9acec6340a502225b519594620456]: Textual amendment: Words in Sch. 3 para. 2(1) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 65(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/65/3)
+[^c-d6a9acec6340a502225b519594620456]: Textual amendment: Words in Sch. 3 para. 2(1) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 65(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/65/3)
 
-[^key-b9fee706a6dc4a24d9c9198b73bdb46d]: Textual amendment: Words in Sch. 3 para. 2(3) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 65(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/65/3)
+[^c-b9fee706a6dc4a24d9c9198b73bdb46d]: Textual amendment: Words in Sch. 3 para. 2(3) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 65(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/65/3)
 
-[^key-c7e2f434756485f265efc8bb39552b33]: Textual amendment: Words in Sch. 3 para. 7(2)(c) substituted (15.2.1999) by [Petroleum Act 1998 (c. 17)](https://www.legislation.gov.uk/ukpga/1998/17), [s. 52(4)](https://www.legislation.gov.uk/ukpga/1998/17/section/52/4), [Sch. 4 para. 32(4)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/32/4) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/1998/17/schedule/3)); [S.I. 1999/161](https://www.legislation.gov.uk/uksi/1999/161), art. 2(1)
+[^c-c7e2f434756485f265efc8bb39552b33]: Textual amendment: Words in Sch. 3 para. 7(2)(c) substituted (15.2.1999) by [Petroleum Act 1998 (c. 17)](https://www.legislation.gov.uk/ukpga/1998/17), [s. 52(4)](https://www.legislation.gov.uk/ukpga/1998/17/section/52/4), [Sch. 4 para. 32(4)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/32/4) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/1998/17/schedule/3)); [S.I. 1999/161](https://www.legislation.gov.uk/uksi/1999/161), art. 2(1)
 
 [^c2138460]: Marginal citation: [1964 c. 28 (N.l.)](https://www.legislation.gov.uk/ukpga/1964/28).
 
-[^key-f021fc1d165d23551599defa253867a1]: Textual amendment: Words in Sch. 3 para. 7(3)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 265](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/265) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-f021fc1d165d23551599defa253867a1]: Textual amendment: Words in Sch. 3 para. 7(3)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 265](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/265) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c2138461]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29).
 
@@ -217,4 +217,4 @@ whichever is earliest.
 
 [^c2138463]: Marginal citation: [1975 c. 22](https://www.legislation.gov.uk/ukpga/1975/22).
 
-[^key-684fd4ac550167e57ef6955c3fb79ceb]: Textual amendment: Words in Sch. 3 para. 7(8) substituted (22.3.2001) by [Capital Allowances Act 2001 (c. 2)](https://www.legislation.gov.uk/ukpga/2001/2), [Sch. 2 para. 81](https://www.legislation.gov.uk/ukpga/2001/2/schedule/2/paragraph/81)
+[^c-684fd4ac550167e57ef6955c3fb79ceb]: Textual amendment: Words in Sch. 3 para. 7(8) substituted (22.3.2001) by [Capital Allowances Act 2001 (c. 2)](https://www.legislation.gov.uk/ukpga/2001/2), [Sch. 2 para. 81](https://www.legislation.gov.uk/ukpga/2001/2/schedule/2/paragraph/81)

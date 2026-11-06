@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. The Committee for the Protection of Animals Used for Scientific Purposes[^c1016529][^key-166451049d47607c5c67029be53a6cf6]
+## 19. The Committee for the Protection of Animals Used for Scientific Purposes[^c1016529][^c-166451049d47607c5c67029be53a6cf6]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c1016529]: Extent: In its application to Northern Ireland, this section has effect subject to the modifications set out in s. 29, see s. 29(1)
 
-[^key-166451049d47607c5c67029be53a6cf6]: Textual amendment: Ss. 19, 20 substituted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2012/3039/regulation/20) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-166451049d47607c5c67029be53a6cf6]: Textual amendment: Ss. 19, 20 substituted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2012/3039/regulation/20) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))

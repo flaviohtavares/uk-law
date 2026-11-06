@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 2(1) and 14(1)(a)(i)
 
-In this Schedule, ‘NACE Rev.1’ has the same meaning as in Council Regulation [(EEC) No 3037/90](https://www.legislation.gov.uk/european/regulation/1990/3037) on the statistical classification of economic activities in the European Community [^c22606701] as that Regulation had effect in EU law immediately before IP completion day[^key-064ee4553f33b0489c159a27aa5e83fb], and numerical references in the columns relating to the NACE Rev.1 relate to the Annex to that Regulation. In the event of any difference of interpretation between the CPV and the NACE Rev.1, the CPV nomenclature shall apply.
+In this Schedule, ‘NACE Rev.1’ has the same meaning as in Council Regulation [(EEC) No 3037/90](https://www.legislation.gov.uk/european/regulation/1990/3037) on the statistical classification of economic activities in the European Community [^c22606701] as that Regulation had effect in EU law immediately before IP completion day[^c-064ee4553f33b0489c159a27aa5e83fb], and numerical references in the columns relating to the NACE Rev.1 relate to the Annex to that Regulation. In the event of any difference of interpretation between the CPV and the NACE Rev.1, the CPV nomenclature shall apply.
 
 <table>
 <tbody>
@@ -79,12 +79,12 @@ In this Schedule, ‘NACE Rev.1’ has the same meaning as in Council Regulation
 </tbody>
 </table>
 
-[^key-f398f10636512e6fddc4ec2a00e62e5a]
+[^c-f398f10636512e6fddc4ec2a00e62e5a]
 
 ## Annotations
 
 [^c22606701]: Marginal citation: OJ L 293, 24.10.1990, p.1; last amended by Regulation (EC) No 1893/2006 of the European Parliament and of the Council (OJ L 393, 30.12.2006, p.1).
 
-[^key-064ee4553f33b0489c159a27aa5e83fb]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2015/446/schedule/2) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(61)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/61) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-064ee4553f33b0489c159a27aa5e83fb]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2015/446/schedule/2) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(61)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/61) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-f398f10636512e6fddc4ec2a00e62e5a]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2015/446/schedule/2) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 56(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/56/2)
+[^c-f398f10636512e6fddc4ec2a00e62e5a]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2015/446/schedule/2) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 56(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/56/2)

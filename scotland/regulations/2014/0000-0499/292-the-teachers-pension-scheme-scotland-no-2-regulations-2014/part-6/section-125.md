@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 125. Meaning of “dies in service”[^key-285289913c0132789036d5d4ef7bf32e]
+## 125. Meaning of “dies in service”[^c-285289913c0132789036d5d4ef7bf32e]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-285289913c0132789036d5d4ef7bf32e]: Commencement: [Reg. 125](https://www.legislation.gov.uk/ssi/2014/292/regulation/125) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-285289913c0132789036d5d4ef7bf32e]: Commencement: [Reg. 125](https://www.legislation.gov.uk/ssi/2014/292/regulation/125) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

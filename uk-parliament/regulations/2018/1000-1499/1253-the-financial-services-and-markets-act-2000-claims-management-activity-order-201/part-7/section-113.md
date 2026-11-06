@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 113. Review[^key-4324d2268c8a7d0c12d5927e42fc9350][^key-7f190883f0973dbda8e835c0a17f8a32]
+## 113. Review[^c-4324d2268c8a7d0c12d5927e42fc9350][^c-7f190883f0973dbda8e835c0a17f8a32]
 
 *Extent: E+W+S*
 
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4324d2268c8a7d0c12d5927e42fc9350]: Commencement: Art. 113 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-4324d2268c8a7d0c12d5927e42fc9350]: Commencement: Art. 113 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-7f190883f0973dbda8e835c0a17f8a32]: Commencement: [Art. 113](https://www.legislation.gov.uk/uksi/2018/1253/article/113) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-7f190883f0973dbda8e835c0a17f8a32]: Commencement: [Art. 113](https://www.legislation.gov.uk/uksi/2018/1253/article/113) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00157]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).

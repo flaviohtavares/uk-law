@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Information as to compliance with duties: annual notices[^key-6c2389177c963391e41787686dd31b7e]
+## 36. Information as to compliance with duties: annual notices[^c-6c2389177c963391e41787686dd31b7e]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ After section 40 of the 1993 Act insert—
 
 ## Annotations
 
-[^key-6c2389177c963391e41787686dd31b7e]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2010/14/section/36) in force at 1.4.2012 by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/2)
+[^c-6c2389177c963391e41787686dd31b7e]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2010/14/section/36) in force at 1.4.2012 by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/2)

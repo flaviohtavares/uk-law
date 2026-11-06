@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Review of Part 9A and Part R of Schedule 1[^key-600a448393503df6fffc87e2338b8058]
+## 55. Review of Part 9A and Part R of Schedule 1[^c-600a448393503df6fffc87e2338b8058]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) carry out a review of Part 9A and Part R of Schedule 1; and
 - (b) publish a report setting out the conclusions of the review.
 
-(2)[^key-539548b5969b49a226d8b667b1719409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-539548b5969b49a226d8b667b1719409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must in particular—
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-600a448393503df6fffc87e2338b8058]: Textual amendment: [Reg. 55](https://www.legislation.gov.uk/uksi/2010/2214/regulation/55) added (E., but only in relation to excepted energy buildings in W.) (9.5.2016) by [The Building (Amendment) Regulations 2016 (S.I. 2016/490)](https://www.legislation.gov.uk/uksi/2016/490), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2016/490/regulation/1/4), [2(5)](https://www.legislation.gov.uk/uksi/2016/490/regulation/2/5) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/490/regulation/1/3))
+[^c-600a448393503df6fffc87e2338b8058]: Textual amendment: [Reg. 55](https://www.legislation.gov.uk/uksi/2010/2214/regulation/55) added (E., but only in relation to excepted energy buildings in W.) (9.5.2016) by [The Building (Amendment) Regulations 2016 (S.I. 2016/490)](https://www.legislation.gov.uk/uksi/2016/490), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2016/490/regulation/1/4), [2(5)](https://www.legislation.gov.uk/uksi/2016/490/regulation/2/5) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/490/regulation/1/3))
 
-[^key-539548b5969b49a226d8b667b1719409]: Textual amendment: [Reg. 55(2)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/55/2) omitted (26.12.2022) by virtue of [The Building etc. (Amendment) (England) (No. 2) Regulations 2022 (S.I. 2022/984)](https://www.legislation.gov.uk/uksi/2022/984), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/7)
+[^c-539548b5969b49a226d8b667b1719409]: Textual amendment: [Reg. 55(2)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/55/2) omitted (26.12.2022) by virtue of [The Building etc. (Amendment) (England) (No. 2) Regulations 2022 (S.I. 2022/984)](https://www.legislation.gov.uk/uksi/2022/984), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/7)

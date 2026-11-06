@@ -26,7 +26,7 @@ Subject to—
 - (b) the functions of statutory undertakers and port authorities; and
 - (c) any public rights of way
 
-a local authority[^c13377481] may exercise, with respect to the seashore and adjacent waters, the powers conferred on them by sections 121 and 122 of this Act [^key-7b11224ee4a0045f67f4de85300fae3d]....
+a local authority[^c13377481] may exercise, with respect to the seashore and adjacent waters, the powers conferred on them by sections 121 and 122 of this Act [^c-7b11224ee4a0045f67f4de85300fae3d]....
 
 ## Annotations
 
@@ -38,4 +38,4 @@ a local authority[^c13377481] may exercise, with respect to the seashore and adj
 
 [^c13377481]: Textual amendment: Words in s. 120 substituted (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 129(17)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/129/17); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/c)
 
-[^key-7b11224ee4a0045f67f4de85300fae3d]: Textual amendment: Words in s. 120 repealed (9.2.2005) by [Land Reform (Scotland) Act 2003 (asp 2)](https://www.legislation.gov.uk/asp/2003/2), [s. 100(3)](https://www.legislation.gov.uk/asp/2003/2/section/100/3), [sch. 2 para. 8(a)](https://www.legislation.gov.uk/asp/2003/2/schedule/2/paragraph/8/a) (with [s. 100(2)](https://www.legislation.gov.uk/asp/2003/2/section/100/2)); [S.S.I. 2005/17](https://www.legislation.gov.uk/ssi/2005/17), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/17/article/2/b)
+[^c-7b11224ee4a0045f67f4de85300fae3d]: Textual amendment: Words in s. 120 repealed (9.2.2005) by [Land Reform (Scotland) Act 2003 (asp 2)](https://www.legislation.gov.uk/asp/2003/2), [s. 100(3)](https://www.legislation.gov.uk/asp/2003/2/section/100/3), [sch. 2 para. 8(a)](https://www.legislation.gov.uk/asp/2003/2/schedule/2/paragraph/8/a) (with [s. 100(2)](https://www.legislation.gov.uk/asp/2003/2/section/100/2)); [S.S.I. 2005/17](https://www.legislation.gov.uk/ssi/2005/17), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/17/article/2/b)

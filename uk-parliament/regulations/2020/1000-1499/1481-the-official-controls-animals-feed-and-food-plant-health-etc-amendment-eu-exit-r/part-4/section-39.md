@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Amendments relating to Decision 210/2019 of the EEA Joint Committee amending Annex 1 (Veterinary and phytosanitary matters) and Annex 2 (Technical regulations, standards, testing and certification) to the EEA Agreement[^key-67ca136789c1adc2459e12ebb4652ae7]
+## 39. Amendments relating to Decision 210/2019 of the EEA Joint Committee amending Annex 1 (Veterinary and phytosanitary matters) and Annex 2 (Technical regulations, standards, testing and certification) to the EEA Agreement[^c-67ca136789c1adc2459e12ebb4652ae7]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67ca136789c1adc2459e12ebb4652ae7]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-67ca136789c1adc2459e12ebb4652ae7]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)

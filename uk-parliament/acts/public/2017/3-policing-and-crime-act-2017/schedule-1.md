@@ -28,15 +28,15 @@ Section 6
 
 *Extent: E+W*
 
-**1.**[^c22722321][^key-d1dffab66a20a44087f5941a63fafbf4] The Fire and Rescue Services Act 2004 is amended as follows.
+**1.**[^c22722321][^c-d1dffab66a20a44087f5941a63fafbf4] The Fire and Rescue Services Act 2004 is amended as follows.
 
 *Extent: E+W*
 
-**2.**[^c22722331][^key-58ad51a280a3f805abe24bcd7f85120e] Before section 1 insert— “ Fire and rescue authorities ”.
+**2.**[^c22722331][^c-58ad51a280a3f805abe24bcd7f85120e] Before section 1 insert— “ Fire and rescue authorities ”.
 
 *Extent: E+W*
 
-**3.**[^c22722341][^key-64cb0fddbe7291d96735692c5dc4cac6] In section 1(4) (fire and rescue authorities) for the words from “sections” to the end substitute
+**3.**[^c22722341][^c-64cb0fddbe7291d96735692c5dc4cac6] In section 1(4) (fire and rescue authorities) for the words from “sections” to the end substitute
 
 > —
 >
@@ -45,11 +45,11 @@ Section 6
 
 *Extent: E+W*
 
-**4.**[^c22722951][^key-69cf71eea1ee130de995211b2f2e2246] Before section 2 insert— “ Combined fire and rescue authorities ”.
+**4.**[^c22722951][^c-69cf71eea1ee130de995211b2f2e2246] Before section 2 insert— “ Combined fire and rescue authorities ”.
 
 *Extent: E+W*
 
-**5.**[^c22722961][^key-774df60a85760cc163bdbfa440ce3929] After section 4 insert—
+**5.**[^c22722961][^c-774df60a85760cc163bdbfa440ce3929] After section 4 insert—
 
 > **Fire and rescue authority involving police and crime commissioner**
 >
@@ -447,11 +447,11 @@ Section 6
 
 *Extent: E+W*
 
-**6.**[^c22722971][^key-9efda02588bc16c4ba9a7b2caddbaaca] Before section 5A insert— “ Powers of certain fire and rescue authorities ”.
+**6.**[^c22722971][^c-9efda02588bc16c4ba9a7b2caddbaaca] Before section 5A insert— “ Powers of certain fire and rescue authorities ”.
 
 *Extent: E+W*
 
-**7.**[^c22722981][^key-5bea00ea494cb5c888535acdc3d80b0e] In section 5A (powers of certain fire and rescue authorities) in subsection (3) (authorities to which powers apply)—
+**7.**[^c22722981][^c-5bea00ea494cb5c888535acdc3d80b0e] In section 5A (powers of certain fire and rescue authorities) in subsection (3) (authorities to which powers apply)—
 
 - (a) omit the “or” at the end of paragraph (c), and
 - (b) at the end of paragraph (d) insert
@@ -462,7 +462,7 @@ Section 6
 
 *Extent: E+W*
 
-**8.**[^c22722991][^key-5359407f4a8c3c0966668bb53949cd4c] After section 5L insert—
+**8.**[^c22722991][^c-5359407f4a8c3c0966668bb53949cd4c] After section 5L insert—
 
 > **Interpretation of Part 1**
 >
@@ -476,13 +476,13 @@ Section 6
 
 *Extent: E+W*
 
-**9.**[^c22728811][^key-74930a05e02291fe07eb4c5f29acdde1] In section 21 (Fire and Rescue National Framework) after subsection (2) insert—
+**9.**[^c22728811][^c-74930a05e02291fe07eb4c5f29acdde1] In section 21 (Fire and Rescue National Framework) after subsection (2) insert—
 
 > (2A) The Framework may contain different provision for different descriptions of fire and rescue authority.
 
 *Extent: E+W*
 
-**10.**[^c22728821][^key-1f551545e57d27a6915eb748002ad92a] After section 25 (but before the italic heading before section 26) insert—
+**10.**[^c22728821][^c-1f551545e57d27a6915eb748002ad92a] After section 25 (but before the italic heading before section 26) insert—
 
 > **Police and crime plan**
 >
@@ -493,7 +493,7 @@ Section 6
 > - (a) which corresponds to the area of the fire and rescue authority, or
 > - (b) within which the area of the fire and rescue authority falls.
 
-**11.**[^c22728831][^key-eed09915bd4ed06774c4e67b7bf585e7] In section 34 (pensions etc) after subsection (10) insert—
+**11.**[^c22728831][^c-eed09915bd4ed06774c4e67b7bf585e7] In section 34 (pensions etc) after subsection (10) insert—
 
 > (11) References in subsection (1) to persons who are or have been employed by a fire and rescue authority include persons who are or have been employed by the chief constable of the police force for a police area having been—
 >
@@ -504,7 +504,7 @@ Section 6
 
 *Extent: E+W*
 
-**12.**[^c22728841][^key-6ef2e05bf6d09cd8c43333c4c534c0a6] For section 37 (prohibition on employment of police) substitute—
+**12.**[^c22728841][^c-6ef2e05bf6d09cd8c43333c4c534c0a6] For section 37 (prohibition on employment of police) substitute—
 
 > **37. Prohibition on employment of police in fire-fighting**
 >
@@ -522,7 +522,7 @@ Section 6
 
 *Extent: E+W*
 
-**13.**[^c22728851][^key-34dc02cbbdf7db452bcff5f3c44c9dab] Before Schedule 1 insert—
+**13.**[^c22728851][^c-34dc02cbbdf7db452bcff5f3c44c9dab] Before Schedule 1 insert—
 
 > **Schedule A1 — Procedure for orders under section 4A**
 >
@@ -798,7 +798,7 @@ Section 6
 
 *Extent: E+W+S*
 
-**14.**[^c22728861][^key-bce2b756671894ab98ecb97131f4f95c] In section 26 of the Fire Services Act 1947 (firefighters' pension scheme) (as continued in force by order under section 36 of the Fire and Rescue Services Act 2004) after subsection (5) insert—
+**14.**[^c22728861][^c-bce2b756671894ab98ecb97131f4f95c] In section 26 of the Fire Services Act 1947 (firefighters' pension scheme) (as continued in force by order under section 36 of the Fire and Rescue Services Act 2004) after subsection (5) insert—
 
 > (5A) References in this section to employment as a member of a fire brigade or on duties connected with the provision of fire services include employment by the chief constable of the police force for a police area as a result of—
 >
@@ -811,23 +811,23 @@ Section 6
 
 *Extent: E+W*
 
-**15.**[^c22728871][^key-3c0dcdaf8ef819f2586f0b8c8119f7c1] In section 69(1) of the Landlord and Tenant Act 1954 (interpretation) in the definition of “local authority” for “or a combined authority established under section 103 of that Act” substitute “ , a combined authority established under section 103 of that Act or a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 ”.
+**15.**[^c22728871][^c-3c0dcdaf8ef819f2586f0b8c8119f7c1] In section 69(1) of the Landlord and Tenant Act 1954 (interpretation) in the definition of “local authority” for “or a combined authority established under section 103 of that Act” substitute “ , a combined authority established under section 103 of that Act or a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 ”.
 
 #### Local Government Act 1966 (c. 42)
 
 *Extent: E+W*
 
-**16.**[^c22728881][^key-392a51db2fcc9daa6433c265fd7c3de5] In section 11 of the Local Government Act 1966 (grants for certain expenditure due to ethnic minority population) in subsection (2) (bodies to which the section applies) after “This section shall apply to” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
+**16.**[^c22728881][^c-392a51db2fcc9daa6433c265fd7c3de5] In section 11 of the Local Government Act 1966 (grants for certain expenditure due to ethnic minority population) in subsection (2) (bodies to which the section applies) after “This section shall apply to” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
 
 #### Leasehold Reform Act 1967 (c. 88)
 
 *Extent: E+W*
 
-**17.**[^c22728891][^key-2d326c02119147548f1ea04981abb34a] The Leasehold Reform Act 1967 is amended as follows.
+**17.**[^c22728891][^c-2d326c02119147548f1ea04981abb34a] The Leasehold Reform Act 1967 is amended as follows.
 
-**18.**[^c22728901][^key-4b53fd3441a5a12a4e1f578ca3cc75c4] In section 28 (retention or resumption of land required for public purposes) in subsection (5)(a) (application to local authorities) after “any combined authority established under section 103 of that Act,” insert “ any fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
+**18.**[^c22728901][^c-4b53fd3441a5a12a4e1f578ca3cc75c4] In section 28 (retention or resumption of land required for public purposes) in subsection (5)(a) (application to local authorities) after “any combined authority established under section 103 of that Act,” insert “ any fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
 
-**19.**[^c22728911][^key-afe6a3ead8daabda419a46fb224eebdc] In Schedule 4A (exclusion of certain shared ownership leases) in paragraph 2(2) (leases granted by certain local authorities: bodies to which the exclusion applies) after paragraph (b) insert—
+**19.**[^c22728911][^c-afe6a3ead8daabda419a46fb224eebdc] In Schedule 4A (exclusion of certain shared ownership leases) in paragraph 2(2) (leases granted by certain local authorities: bodies to which the exclusion applies) after paragraph (b) insert—
 
 > - (ba) a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004;
 
@@ -837,55 +837,55 @@ Section 6
 
 *Extent: E+W+S*
 
-**20.**[^c22728921][^key-50c61f8d7865b7113bcb3e917e602aaa] In section 1 of the Local Government Grants (Social Need) Act 1969 (grants for special social needs) in subsection (3) (meaning of “local authority”) after “shall also include” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
+**20.**[^c22728921][^c-50c61f8d7865b7113bcb3e917e602aaa] In section 1 of the Local Government Grants (Social Need) Act 1969 (grants for special social needs) in subsection (3) (meaning of “local authority”) after “shall also include” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
 
 #### Employers' Liability (Compulsory Insurance) Act 1969 (c. 57)
 
 *Extent: E+W+S*
 
-**21.**[^c22728931][^key-d10a71ce4054c09d9a8218d44bb2902e] In section 3(2)(b) of the Employers' Liability (Compulsory Insurance) Act 1969 (employers exempted from insurance: employers to which the exemption applies) after “a combined authority established under section 103 of that Act,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
+**21.**[^c22728931][^c-d10a71ce4054c09d9a8218d44bb2902e] In section 3(2)(b) of the Employers' Liability (Compulsory Insurance) Act 1969 (employers exempted from insurance: employers to which the exemption applies) after “a combined authority established under section 103 of that Act,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
 
 #### Local Authorities (Goods and Services) Act 1970 (c. 39)
 
 *Extent: E+W+S*
 
-**22.**[^c22728941][^key-4c88164f7330f4cfe63dc8ef36f5fc04] In section 1 of the Local Authorities (Goods and Services) Act 1970 (supply of goods and services by local authorities) in subsection (4) (interpretation) after “any combined authority established under section 103 of that Act,” insert “ any fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
+**22.**[^c22728941][^c-4c88164f7330f4cfe63dc8ef36f5fc04] In section 1 of the Local Authorities (Goods and Services) Act 1970 (supply of goods and services by local authorities) in subsection (4) (interpretation) after “any combined authority established under section 103 of that Act,” insert “ any fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
 
 #### Local Government Act 1972 (c. 70)
 
 *Extent: E+W*
 
-**23.**[^c22728951][^key-0bbb81039153998e0f346f4d10463329] The Local Government Act 1972 is amended as follows.
+**23.**[^c22728951][^c-0bbb81039153998e0f346f4d10463329] The Local Government Act 1972 is amended as follows.
 
-**24.**[^c22728961][^key-d3e720444d3680ca04a3fbd7fc821713] In section 120 (acquisition of land by agreement) after subsection (3A) insert—
+**24.**[^c22728961][^c-d3e720444d3680ca04a3fbd7fc821713] In section 120 (acquisition of land by agreement) after subsection (3A) insert—
 
 > (3B) A fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 is to be treated as a principal council for the purposes of this section (apart from subsection (1)(b)).
 
-**25.**[^c22728971][^key-a49045a9ab44dbbfce7ff77a0500bbca] In section 138C(1) (application of provisions about religious etc observance and involvement with religious etc events) after paragraph (p) insert—
+**25.**[^c22728971][^c-a49045a9ab44dbbfce7ff77a0500bbca] In section 138C(1) (application of provisions about religious etc observance and involvement with religious etc events) after paragraph (p) insert—
 
 > - (pa) a fire and rescue authority created by an order under section 4A of that Act, but only for the purposes of section 138B;
 
 .
 
-**26.**[^c22728981][^key-ca0c2a35ddc27d53af969e494ba498c1] In section 222 (power of local authority to prosecute or defend legal proceedings) in subsection (2) (application to bodies other than local authorities) after “the Common Council” insert “ and a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 ”.
+**26.**[^c22728981][^c-ca0c2a35ddc27d53af969e494ba498c1] In section 222 (power of local authority to prosecute or defend legal proceedings) in subsection (2) (application to bodies other than local authorities) after “the Common Council” insert “ and a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 ”.
 
-**27.**[^c22728991][^key-008a1e1fb17a6c59cbcfe060b9ccf40a] In section 223 (appearance of local authorities in legal proceedings) in subsection (2) (application to bodies other than local authorities) after “a combined authority,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
+**27.**[^c22728991][^c-008a1e1fb17a6c59cbcfe060b9ccf40a] In section 223 (appearance of local authorities in legal proceedings) in subsection (2) (application to bodies other than local authorities) after “a combined authority,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
 
-**28.**[^c22729001][^key-451addc35c4eb65c7f2c6f12ce0b4d97] In section 229 (photographic copies of documents) in subsection (8) (meaning of “local authority”) after “a combined authority,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
+**28.**[^c22729001][^c-451addc35c4eb65c7f2c6f12ce0b4d97] In section 229 (photographic copies of documents) in subsection (8) (meaning of “local authority”) after “a combined authority,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
 
-**29.**[^c22729011][^key-d06d11edefcbbd9917c931870ed2d3d4] In section 231 (service of notices on local authorities, etc) in subsection (4) (meaning of “local authority”) after “a combined authority,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
+**29.**[^c22729011][^c-d06d11edefcbbd9917c931870ed2d3d4] In section 231 (service of notices on local authorities, etc) in subsection (4) (meaning of “local authority”) after “a combined authority,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
 
-**30.**[^c22729021][^key-1c73ee8d83c0fa970d343bccbd0b753c] In section 232 (public notices) in subsection (1A) (meaning of “local authority”) after “a combined authority,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
+**30.**[^c22729021][^c-1c73ee8d83c0fa970d343bccbd0b753c] In section 232 (public notices) in subsection (1A) (meaning of “local authority”) after “a combined authority,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
 
-**31.**[^c22729031][^key-9ac3d92eaf279e859f8cf23ea44c28f4] In section 233 (service of notices by local authorities) in subsection (11) (meaning of “local authority”) after “a combined authority,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
+**31.**[^c22729031][^c-9ac3d92eaf279e859f8cf23ea44c28f4] In section 233 (service of notices by local authorities) in subsection (11) (meaning of “local authority”) after “a combined authority,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
 
-**32.**[^c22729041][^key-cb09719f22e99e0bc1f8157b075921ea] In section 234 (authentication of documents) in subsection (4) (meaning of “local authority”) after “a combined authority,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
+**32.**[^c22729041][^c-cb09719f22e99e0bc1f8157b075921ea] In section 234 (authentication of documents) in subsection (4) (meaning of “local authority”) after “a combined authority,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
 
 #### Employment Agencies Act 1973 (c. 35)
 
 *Extent: E+W+S*
 
-**33.**[^c22729051][^key-af262f70074bac90d05524ec61a69dec] In section 13(7) of the Employment Agencies Act 1973 (activities to which the Act does not apply) after paragraph (fh) insert—
+**33.**[^c22729051][^c-af262f70074bac90d05524ec61a69dec] In section 13(7) of the Employment Agencies Act 1973 (activities to which the Act does not apply) after paragraph (fh) insert—
 
 > - (fi) the exercise by a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 of any of its functions;
 
@@ -895,7 +895,7 @@ Section 6
 
 *Extent: E+W*
 
-**34.**[^c22729061][^key-f10308d87bd0ee7ab15ade15d70b65fb] In section 25(1) of the Local Government Act 1974 (authorities subject to investigation) after paragraph (bg) insert—
+**34.**[^c22729061][^c-f10308d87bd0ee7ab15ade15d70b65fb] In section 25(1) of the Local Government Act 1974 (authorities subject to investigation) after paragraph (bg) insert—
 
 > - (bh) a fire and rescue authority created by an order under section 4A of that Act;
 
@@ -905,19 +905,19 @@ Section 6
 
 *Extent: E+W+S*
 
-**35.**[^c22729071][^key-f00c47a980efe2a5db44f8c7f3fc44c4] In section 28(6) of the Health and Safety at Work etc Act 1974 (restrictions on disclosure of information: meaning of local authority) after “a combined authority established under section 103 of that Act” insert “ , a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 ”.
+**35.**[^c22729071][^c-f00c47a980efe2a5db44f8c7f3fc44c4] In section 28(6) of the Health and Safety at Work etc Act 1974 (restrictions on disclosure of information: meaning of local authority) after “a combined authority established under section 103 of that Act” insert “ , a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 ”.
 
 #### Local Government (Miscellaneous Provisions) Act 1976 (c. 57)
 
 *Extent: E+W*
 
-**36.**[^c22729081][^key-bcf150d539d3f444061416c0ab464146] In section 44(1) of the Local Government (Miscellaneous Provisions) Act 1976 (interpretation of Part 1) in paragraph (a) of the definition of “local authority” after “a combined authority established under section 103 of that Act” insert “ , a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 ”.
+**36.**[^c22729081][^c-bcf150d539d3f444061416c0ab464146] In section 44(1) of the Local Government (Miscellaneous Provisions) Act 1976 (interpretation of Part 1) in paragraph (a) of the definition of “local authority” after “a combined authority established under section 103 of that Act” insert “ , a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 ”.
 
 #### Rent (Agriculture) Act 1976 (c. 80)
 
 *Extent: E+W*
 
-**37.**[^c22729091][^key-e3d5a292b5f237baba6d79e7e4de09a2] In section 5(3) of the Rent (Agriculture) Act 1976 (tenancies which are not statutory tenancies) after paragraph (bbb) insert—
+**37.**[^c22729091][^c-e3d5a292b5f237baba6d79e7e4de09a2] In section 5(3) of the Rent (Agriculture) Act 1976 (tenancies which are not statutory tenancies) after paragraph (bbb) insert—
 
 > - (bbc) a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004;
 
@@ -927,7 +927,7 @@ Section 6
 
 *Extent: E+W*
 
-**38.**[^c22729101][^key-6fab6b13e5359601d36fdc3ba2adce0b] In section 14(1) of the Rent Act 1977 (tenancies which are not protected tenancies) after paragraph (cc) insert—
+**38.**[^c22729101][^c-6fab6b13e5359601d36fdc3ba2adce0b] In section 14(1) of the Rent Act 1977 (tenancies which are not protected tenancies) after paragraph (cc) insert—
 
 > - (cd) a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004;
 
@@ -937,21 +937,21 @@ Section 6
 
 *Extent: E+W*
 
-**39.**[^c22729111][^key-8a585c32e9067a78419146183130280c] In section 3A(8)(a) of the Protection from Eviction Act 1977 (excluded tenancies and licences: licences to occupy local authority etc hostels) after “the Inner London Education Authority,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
+**39.**[^c22729111][^c-8a585c32e9067a78419146183130280c] In section 3A(8)(a) of the Protection from Eviction Act 1977 (excluded tenancies and licences: licences to occupy local authority etc hostels) after “the Inner London Education Authority,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
 
 #### Local Government, Planning and Land Act 1980 (c. 65)
 
 *Extent: E+W*
 
-**40.**[^c22729121][^key-f1dd81602b94c36c59b7dda29a5245db] The Local Government, Planning and Land Act 1980 is amended as follows.
+**40.**[^c22729121][^c-f1dd81602b94c36c59b7dda29a5245db] The Local Government, Planning and Land Act 1980 is amended as follows.
 
-**41.**[^c22729131][^key-cb2cf5e4a7b6d14f2533e4201ee6ab5b] In section 99 (disposal of land at direction of Secretary of State - supplementary) in subsection (4) (authorities who may make representations about directions) after paragraph (dbb) insert—
+**41.**[^c22729131][^c-cb2cf5e4a7b6d14f2533e4201ee6ab5b] In section 99 (disposal of land at direction of Secretary of State - supplementary) in subsection (4) (authorities who may make representations about directions) after paragraph (dbb) insert—
 
 > - (dbc) a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004;
 
 .
 
-**42.**[^c22729141][^key-b6fbb6505c9a471f41ce34599c98514a] In Schedule 16 (bodies to whom Part 10 applies) after paragraph 5BC insert—
+**42.**[^c22729141][^c-b6fbb6505c9a471f41ce34599c98514a] In Schedule 16 (bodies to whom Part 10 applies) after paragraph 5BC insert—
 
 > **5BD.** A fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004.
 
@@ -959,23 +959,23 @@ Section 6
 
 *Extent: E+W*
 
-**43.**[^c22729151][^key-edfa5f47435b4c16210d648571f9b5c9] In section 17(4) of the Acquisition of Land Act 1981 (local authority and statutory undertakers' land: interpretation) in paragraph (a) of the definition of “local authority” after “the Common Council of the City of London,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
+**43.**[^c22729151][^c-edfa5f47435b4c16210d648571f9b5c9] In section 17(4) of the Acquisition of Land Act 1981 (local authority and statutory undertakers' land: interpretation) in paragraph (a) of the definition of “local authority” after “the Common Council of the City of London,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
 
 #### Local Government (Miscellaneous Provisions) Act 1982 (c. 30)
 
 *Extent: E+W*
 
-**44.**[^c22729161][^key-fe271b55568184fb4d0ba3b3abbb5644] The Local Government (Miscellaneous Provisions) Act 1982 is amended as follows.
+**44.**[^c22729161][^c-fe271b55568184fb4d0ba3b3abbb5644] The Local Government (Miscellaneous Provisions) Act 1982 is amended as follows.
 
-**45.**[^c22729171][^key-4dd9908f5db4f8804a4bf3aa9262cbb3] In section 33 (enforceability by local authorities of certain covenants relating to land) in subsection (9)(a) (meaning of “principal council”) after “the London Residuary Body,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
+**45.**[^c22729171][^c-4dd9908f5db4f8804a4bf3aa9262cbb3] In section 33 (enforceability by local authorities of certain covenants relating to land) in subsection (9)(a) (meaning of “principal council”) after “the London Residuary Body,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
 
-**46.**[^c22729181][^key-5643840d5a0c401f4cec72ce79dcaa7e] In section 41 (lost and uncollected property) in subsection (13) (interpretation) in the definition of “local authority” after paragraph (ezb) insert—
+**46.**[^c22729181][^c-5643840d5a0c401f4cec72ce79dcaa7e] In section 41 (lost and uncollected property) in subsection (13) (interpretation) in the definition of “local authority” after paragraph (ezb) insert—
 
 > - (ezc) a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004;
 
 .
 
-**47.**[^c22729191][^key-ac8cb96ad4847b3868f46b8587c4906b] In section 45 (arrangements under Employment and Training Act 1973) in subsection (2) (local authorities to which section applies) after paragraph (c) (but before the “and” at the end of that paragraph) insert—
+**47.**[^c22729191][^c-ac8cb96ad4847b3868f46b8587c4906b] In section 45 (arrangements under Employment and Training Act 1973) in subsection (2) (local authorities to which section applies) after paragraph (c) (but before the “and” at the end of that paragraph) insert—
 
 > - (ca) a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004;
 
@@ -985,19 +985,19 @@ Section 6
 
 *Extent: E+W*
 
-**48.**[^c22729201][^key-340216542210a0dff63549994026ce78] In section 60(3) of the County Courts Act 1984 (right of audience of local authority: interpretation) in the definition of “local authority” after “a combined authority established under section 103 of that Act,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
+**48.**[^c22729201][^c-340216542210a0dff63549994026ce78] In section 60(3) of the County Courts Act 1984 (right of audience of local authority: interpretation) in the definition of “local authority” after “a combined authority established under section 103 of that Act,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
 
 #### Housing Act 1985 (c. 68)
 
 *Extent: E+W*
 
-**49.**[^c22729211][^key-7cf64d3f969edbeb151b683f6e8210b9] In section 4(1)(e) of the Housing Act 1985 (other descriptions of authority: local authorities) after “a combined authority” in both places insert “ , a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 ”.
+**49.**[^c22729211][^c-7cf64d3f969edbeb151b683f6e8210b9] In section 4(1)(e) of the Housing Act 1985 (other descriptions of authority: local authorities) after “a combined authority” in both places insert “ , a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 ”.
 
 #### Landlord and Tenant Act 1985 (c.70)
 
 *Extent: E+W*
 
-**50.**[^c22729221][^key-be97a9d477d733ef93054eeec49007da] In section 38 of the Landlord and Tenant Act 1985 (minor definitions) in the definition of “local authority” after “a combined authority established under section 103 of that Act” insert “ , a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 ”.
+**50.**[^c22729221][^c-be97a9d477d733ef93054eeec49007da] In section 38 of the Landlord and Tenant Act 1985 (minor definitions) in the definition of “local authority” after “a combined authority established under section 103 of that Act” insert “ , a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 ”.
 
 #### Local Government Act 1986 (c. 10)
 
@@ -1005,9 +1005,9 @@ Section 6
 
 *Extent: E+W*
 
-**51.**[^c22729231][^key-1f9c36153c9330a35945d328b072f4ca] The Local Government Act 1986 is amended as follows.
+**51.**[^c22729231][^c-1f9c36153c9330a35945d328b072f4ca] The Local Government Act 1986 is amended as follows.
 
-**52.**[^c22729241][^key-ecbdb1fab5ba496ef1366ea37d231926] In section 6(2)(a) (meaning of “**local authority**” for the purposes of Part 2) after the entry relating to a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009 insert—
+**52.**[^c22729241][^c-ecbdb1fab5ba496ef1366ea37d231926] In section 6(2)(a) (meaning of “**local authority**” for the purposes of Part 2) after the entry relating to a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009 insert—
 
 > a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004,
 
@@ -1015,7 +1015,7 @@ Section 6
 
 *Extent: E+W*
 
-**53.**[^c22729251][^key-205b4e4c7e33a06dc5ebb8ae9ab38645] In section 9(1)(a) (meaning of “**local authority**” for the purposes of Part 3) after the entry relating to a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009 insert—
+**53.**[^c22729251][^c-205b4e4c7e33a06dc5ebb8ae9ab38645] In section 9(1)(a) (meaning of “**local authority**” for the purposes of Part 3) after the entry relating to a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009 insert—
 
 > a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004,
 
@@ -1025,27 +1025,27 @@ Section 6
 
 *Extent: E+W*
 
-**54.**[^c22729261][^key-8f932654cb01cf5f84214cdc81610a2c] In section 58(1) of the Landlord and Tenant Act 1987 (exempt landlords) in paragraph (a) (local authorities) after “the Common Council of the City of London,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
+**54.**[^c22729261][^c-8f932654cb01cf5f84214cdc81610a2c] In section 58(1) of the Landlord and Tenant Act 1987 (exempt landlords) in paragraph (a) (local authorities) after “the Common Council of the City of London,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
 
 #### Local Government Act 1988 (c. 9)
 
 *Extent: E+W+S*
 
-**55.**[^c22729271][^key-c6f1f3ca6123418f6d0fbb0347194839] In Schedule 2 to the Local Government Act 1988 (public supply or works contracts: the public authorities) in the entry relating to a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 and other fire and rescue authorities, after “applies” insert “ , a fire and rescue authority created by an order under section 4A of that Act ”.
+**55.**[^c22729271][^c-c6f1f3ca6123418f6d0fbb0347194839] In Schedule 2 to the Local Government Act 1988 (public supply or works contracts: the public authorities) in the entry relating to a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 and other fire and rescue authorities, after “applies” insert “ , a fire and rescue authority created by an order under section 4A of that Act ”.
 
 #### Housing Act 1988 (c. 50)
 
 *Extent: E+W*
 
-**56.**[^c22729281][^key-e39621f2b4e743b70e6bfbe6d016e1ad] The Housing Act 1988 is amended as follows.
+**56.**[^c22729281][^c-e39621f2b4e743b70e6bfbe6d016e1ad] The Housing Act 1988 is amended as follows.
 
-**57.**[^c22729291][^key-1ac627572913abae37c38ea3dae0ae9e] In section 74(8) (transfer of land etc to housing action trusts: meaning of “local authority”) after paragraph (fb) insert—
+**57.**[^c22729291][^c-1ac627572913abae37c38ea3dae0ae9e] In section 74(8) (transfer of land etc to housing action trusts: meaning of “local authority”) after paragraph (fb) insert—
 
 > - (fc) a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004;
 
 .
 
-**58.**[^c22729301][^key-742581fc288a32f3d8b6db34b31747c7] In Part 1 of Schedule 1 (tenancies which cannot be assured tenancies) in paragraph 12(2) (local authority tenancies: meaning of “local authority”) after paragraph (e) insert—
+**58.**[^c22729301][^c-742581fc288a32f3d8b6db34b31747c7] In Part 1 of Schedule 1 (tenancies which cannot be assured tenancies) in paragraph 12(2) (local authority tenancies: meaning of “local authority”) after paragraph (e) insert—
 
 > - (ea) a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004;
 
@@ -1055,17 +1055,17 @@ Section 6
 
 *Extent: E+W+S*
 
-**59.**[^c22729311][^key-6cbc06bb79d30e02a1c72184d7938494] In section 144(2)(a)(i) of the Road Traffic Act 1988 (exceptions from the requirement for third party insurance) after “the Inner London Education Authority,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
+**59.**[^c22729311][^c-6cbc06bb79d30e02a1c72184d7938494] In section 144(2)(a)(i) of the Road Traffic Act 1988 (exceptions from the requirement for third party insurance) after “the Inner London Education Authority,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
 
 #### Local Government and Housing Act 1989 (c. 42)
 
 *Extent: E+W+S*
 
-**60.**[^c22729321][^key-1f9d39e82e57e40b70685c3635611749] The Local Government and Housing Act 1989 is amended as follows.
+**60.**[^c22729321][^c-1f9d39e82e57e40b70685c3635611749] The Local Government and Housing Act 1989 is amended as follows.
 
-**61.**[^c22729331][^key-0cfde92cc7c9f3828d7befb2844459bf] In section 1(9) (meaning of politically restricted post under a local authority) at the end insert “ , and every member of staff of a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004. ”
+**61.**[^c22729331][^c-0cfde92cc7c9f3828d7befb2844459bf] In section 1(9) (meaning of politically restricted post under a local authority) at the end insert “ , and every member of staff of a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004. ”
 
-**62.**[^c22729341][^key-f137986b12fb8cff7547a8cdf34a4d10] (1) Section 4 (designation and reports of head of paid service) is amended as follows.
+**62.**[^c22729341][^c-f137986b12fb8cff7547a8cdf34a4d10] (1) Section 4 (designation and reports of head of paid service) is amended as follows.
 
 (2) In subsection (4) after paragraph (a) insert—
 
@@ -1081,7 +1081,7 @@ Section 6
 
 (4) In subsection (6)(a) for “and an elected local policing body” substitute “ , an elected local policing body and a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 ”.
 
-**63.**[^c22729351][^key-ce07681b32372202427015d00cad524a] (1) Section 5 (designation and reports of monitoring officer) is amended as follows.
+**63.**[^c22729351][^c-ce07681b32372202427015d00cad524a] (1) Section 5 (designation and reports of monitoring officer) is amended as follows.
 
 (2) In subsection (3) after the second paragraph (a) insert—
 
@@ -1102,19 +1102,19 @@ Section 6
 - (a) in the definition of “chief finance officer” after “Schedule 1 to the Police Reform and Social Responsibility Act 2011” insert “ , section 4D(4) of the Fire and Rescue Services Act 2004 ”, and
 - (b) in paragraph (a) of the definition of “relevant authority” for “and an elected local policing body” substitute “ , an elected local policing body and a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 ”.
 
-**64.**[^c22729361][^key-9ec06245cef306d3dc2d14eca26258d3] In section 21 (interpretation of Part 1) after subsection (1) insert—
+**64.**[^c22729361][^c-9ec06245cef306d3dc2d14eca26258d3] In section 21 (interpretation of Part 1) after subsection (1) insert—
 
 > (1A) In section 7 references to a local authority include a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004.
 >
 > (1B) In the application of section 1(1) to a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 by virtue of subsection (1A) the reference to being or remaining a member of a local authority is to be read as a reference to becoming or remaining such an authority.
 
-**65.**[^c22729371][^key-c53f9babde6097e45e3d1c11c5d21c89] In section 152(2) (meaning of “**relevant authority**” for the purposes of sections 150 and 151) after paragraph (f) insert—
+**65.**[^c22729371][^c-c53f9babde6097e45e3d1c11c5d21c89] In section 152(2) (meaning of “**relevant authority**” for the purposes of sections 150 and 151) after paragraph (f) insert—
 
 > - (fa) a fire and rescue authority created by an order under section 4A of that Act;
 
 .
 
-**66.**[^c22729381][^key-f0afa63d955603c918e01b0cdb9039d9] In section 155(4) (emergency financial assistance to local authorities: meaning of “local authority”) after paragraph (h) insert—
+**66.**[^c22729381][^c-f0afa63d955603c918e01b0cdb9039d9] In section 155(4) (emergency financial assistance to local authorities: meaning of “local authority”) after paragraph (h) insert—
 
 > - (ha) a fire and rescue authority created by an order under section 4A of that Act;
 
@@ -1122,7 +1122,7 @@ Section 6
 
 *Extent: E+W*
 
-**67.**[^c22729391][^key-1159a35a381c7fd6e968c091c971da15] Until the coming into force of the repeal of section 67 of the Local Government and Housing Act 1989 (application of provisions about companies in which local authorities have interests) by the Local Government and Public Involvement in Health Act 2007, subsection (3) of that section has effect as if after paragraph (h) there were inserted—
+**67.**[^c22729391][^c-1159a35a381c7fd6e968c091c971da15] Until the coming into force of the repeal of section 67 of the Local Government and Housing Act 1989 (application of provisions about companies in which local authorities have interests) by the Local Government and Public Involvement in Health Act 2007, subsection (3) of that section has effect as if after paragraph (h) there were inserted—
 
 > - (ha) a fire and rescue authority created by an order under section 4A of that Act;
 
@@ -1132,17 +1132,17 @@ Section 6
 
 *Extent: E+W*
 
-**68.**[^c22729401][^key-916c419dae3cd9b89057b57b27d07a88] The Town and Country Planning Act 1990 is amended as follows.
+**68.**[^c22729401][^c-916c419dae3cd9b89057b57b27d07a88] The Town and Country Planning Act 1990 is amended as follows.
 
-**69.**[^c22729411][^key-bb44ddf6aa421c5a53dc69c630a270a2] In section 252 (procedures for highways orders) in the definition of “local authority” in subsection (12) after “a combined authority established under section 103 of that Act,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
+**69.**[^c22729411][^c-bb44ddf6aa421c5a53dc69c630a270a2] In section 252 (procedures for highways orders) in the definition of “local authority” in subsection (12) after “a combined authority established under section 103 of that Act,” insert “ a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, ”.
 
-**70.**[^c22729421][^key-0aab4d56658818ce8091c3568406dd6f] In Schedule 14 (procedure for footpaths and bridleway orders) in paragraph 1(3) (meaning of “council”) for “or a combined authority established under section 103 of that Act” substitute “ , a combined authority established under section 103 of that Act or a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 ”.
+**70.**[^c22729421][^c-0aab4d56658818ce8091c3568406dd6f] In Schedule 14 (procedure for footpaths and bridleway orders) in paragraph 1(3) (meaning of “council”) for “or a combined authority established under section 103 of that Act” substitute “ , a combined authority established under section 103 of that Act or a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 ”.
 
 #### Local Government Finance Act 1992 (c. 14)
 
 *Extent: E+W*
 
-**71.**[^c22729431][^key-3ed60ecccb936113233587a549b42c3a] (1) The Local Government Finance Act 1992 is amended as follows.
+**71.**[^c22729431][^c-3ed60ecccb936113233587a549b42c3a] (1) The Local Government Finance Act 1992 is amended as follows.
 
 (2) In section 39(1) (major precepting authorities) after paragraph (da) insert—
 
@@ -1156,7 +1156,7 @@ Section 6
 
 *Extent: E+W+S*
 
-**72.**[^c22729441][^key-386b8ecddd7013d8854010a6d1f67743] In section 1 of the Local Government (Overseas Assistance) Act 1993 (power to provide advice and assistance) in subsection (10) (other bodies) after paragraph (a) insert—
+**72.**[^c22729441][^c-386b8ecddd7013d8854010a6d1f67743] In section 1 of the Local Government (Overseas Assistance) Act 1993 (power to provide advice and assistance) in subsection (10) (other bodies) after paragraph (a) insert—
 
 > - (aa) a fire and rescue authority created by an order under section 4A of that Act;
 
@@ -1166,11 +1166,11 @@ Section 6
 
 *Extent: E+W+S*
 
-**73.**[^c22729451][^key-48826d329b7c422022726aa944eee566] The Deregulation and Contracting Out Act 1994 is amended as follows.
+**73.**[^c22729451][^c-48826d329b7c422022726aa944eee566] The Deregulation and Contracting Out Act 1994 is amended as follows.
 
-**74.**[^c22729461][^key-af5dc477e22d5a47d54cc3651963d00d] In section 70(1ZB) (functions of local authorities: application to certain fire and rescue authorities) after “applies” insert “ or a fire and rescue authority created by an order under section 4A of that Act ”.
+**74.**[^c22729461][^c-af5dc477e22d5a47d54cc3651963d00d] In section 70(1ZB) (functions of local authorities: application to certain fire and rescue authorities) after “applies” insert “ or a fire and rescue authority created by an order under section 4A of that Act ”.
 
-**75.**[^c22729471][^key-7aa57c5084b216cb7bf8fcf23b9e8e94] In section 79A (local authorities in England) after paragraph (n) insert—
+**75.**[^c22729471][^c-7aa57c5084b216cb7bf8fcf23b9e8e94] In section 79A (local authorities in England) after paragraph (n) insert—
 
 > - (na) a fire and rescue authority created by an order under section 4A of that Act;
 
@@ -1180,7 +1180,7 @@ Section 6
 
 *Extent: E+W*
 
-**76.**[^c22729481][^key-11cece98874de58ad28c481b770f3ee3] In section 63 of the Police Act 1996 (Police Advisory Board for England and Wales), at the end insert—
+**76.**[^c22729481][^c-11cece98874de58ad28c481b770f3ee3] In section 63 of the Police Act 1996 (Police Advisory Board for England and Wales), at the end insert—
 
 > (4) Section 4K of the Fire and Rescue Services Act 2004 also imposes a requirement on the Secretary of State to consult the Police Advisory Board for England and Wales.
 
@@ -1190,11 +1190,11 @@ Section 6
 
 *Extent: E+W*
 
-**77.**[^c22729491][^key-f48a0665b1214bc8de2bae0bd019e7e6] The Crime and Disorder Act 1998 is amended as follows.
+**77.**[^c22729491][^c-f48a0665b1214bc8de2bae0bd019e7e6] The Crime and Disorder Act 1998 is amended as follows.
 
 *Extent: E+W*
 
-**78.**[^c22729501][^key-9049e8a42f109ad070e34eb22e80ebe3] In section 5(5) (authorities responsible for strategies: interpretation) in the definition of “fire and rescue authority” after paragraph (a) insert—
+**78.**[^c22729501][^c-9049e8a42f109ad070e34eb22e80ebe3] In section 5(5) (authorities responsible for strategies: interpretation) in the definition of “fire and rescue authority” after paragraph (a) insert—
 
 > - (aa) a fire and rescue authority created by an order under section 4A of that Act;
 
@@ -1202,13 +1202,13 @@ Section 6
 
 *Extent: E+W*
 
-**79.**[^c22729511][^key-c9f26ee674d139ee01af217d8198b0c7] In section 17(2) (duty to consider crime and disorder implications: authorities to which duty applies) after the entry relating to a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies insert—
+**79.**[^c22729511][^c-c9f26ee674d139ee01af217d8198b0c7] In section 17(2) (duty to consider crime and disorder implications: authorities to which duty applies) after the entry relating to a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies insert—
 
 > a fire and rescue authority created by an order under section 4A of that Act;
 
 .
 
-**80.**[^c22729521][^key-2b18c7f79204f0714ed44a1a474554ee] In section 115(2) (disclosure of information: meaning of relevant authority) after paragraph (i) insert—
+**80.**[^c22729521][^c-2b18c7f79204f0714ed44a1a474554ee] In section 115(2) (disclosure of information: meaning of relevant authority) after paragraph (i) insert—
 
 > - (ia) a fire and rescue authority created by an order under section 4A of that Act;
 
@@ -1216,7 +1216,7 @@ Section 6
 
 #### Freedom of Information Act 2000 (c. 36)
 
-**81.**[^c22729531][^key-bdbc0fd6f1edb6ae6328510a7bf9ceb5] In Part 2 of Schedule 1 to the Freedom of Information Act 2000 (public authorities: local government) after paragraph 14 insert—
+**81.**[^c22729531][^c-bdbc0fd6f1edb6ae6328510a7bf9ceb5] In Part 2 of Schedule 1 to the Freedom of Information Act 2000 (public authorities: local government) after paragraph 14 insert—
 
 > **14A.** A fire and rescue authority created by an order under section 4A of that Act.
 
@@ -1224,7 +1224,7 @@ Section 6
 
 *Extent: E+W*
 
-**82.**[^c22729541][^key-eea1a6f7f2177ed44702027dd2a315aa] In section 38 of the Police Reform Act 2002 (police powers for civilian staff) after subsection (11) insert—
+**82.**[^c22729541][^c-eea1a6f7f2177ed44702027dd2a315aa] In section 38 of the Police Reform Act 2002 (police powers for civilian staff) after subsection (11) insert—
 
 > (11A) In the case of a police force maintained for a police area in England in accordance with section 2 of the Police Act 1996, the following are also relevant employees for the purposes of this section—
 >
@@ -1235,7 +1235,7 @@ Section 6
 
 *Extent: E+W*
 
-**83.**[^c22729551][^key-40997f27882deb51fd824d6f971746a7] (1) The Local Government Act 2003 is amended as follows.
+**83.**[^c22729551][^c-40997f27882deb51fd824d6f971746a7] (1) The Local Government Act 2003 is amended as follows.
 
 (2) In section 23(1) (local authorities to which the provisions about capital finance etc and accounts apply) after paragraph (m) insert—
 
@@ -1265,7 +1265,7 @@ Section 6
 
 *Extent: E+W*
 
-**84.**[^c22729561][^key-5e31f1658068895042f2d00be56e32f8] In section 104 of the Local Government and Public Involvement in Health Act 2007 (partner authorities) in subsection (5) (meaning of “fire and rescue authority”) after paragraph (a) insert—
+**84.**[^c22729561][^c-5e31f1658068895042f2d00be56e32f8] In section 104 of the Local Government and Public Involvement in Health Act 2007 (partner authorities) in subsection (5) (meaning of “fire and rescue authority”) after paragraph (a) insert—
 
 > - (aa) a fire and rescue authority created by an order under section 4A of that Act;
 
@@ -1275,7 +1275,7 @@ Section 6
 
 *Extent: E+W+S*
 
-**85.**[^c22729571][^key-a5058d6a5e519305bf8720dffd35ae42] In Part 1 of Schedule 19 to the Equality Act 2010 (public authorities) after the entry relating to a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies insert—
+**85.**[^c22729571][^c-a5058d6a5e519305bf8720dffd35ae42] In Part 1 of Schedule 19 to the Equality Act 2010 (public authorities) after the entry relating to a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies insert—
 
 > A fire and rescue authority created by an order under section 4A of that Act.
 
@@ -1283,9 +1283,9 @@ Section 6
 
 *Extent: E+W*
 
-**86.**[^c22729581][^key-97820bdb8b3832ae668826a006d55e6f] The Police Reform and Social Responsibility Act 2011 is amended as follows.
+**86.**[^c22729581][^c-97820bdb8b3832ae668826a006d55e6f] The Police Reform and Social Responsibility Act 2011 is amended as follows.
 
-**87.**[^c22729591][^key-16b25eab1085cfcf225473372131204b] (1) Section 1 (police and crime commissioners) is amended as follows.
+**87.**[^c22729591][^c-16b25eab1085cfcf225473372131204b] (1) Section 1 (police and crime commissioners) is amended as follows.
 
 (2) In subsection (3) for “The” substitute “ Unless subsection (3B) applies, the ”.
 
@@ -1295,7 +1295,7 @@ Section 6
 >
 > (3B) In that case the name of the police and crime commissioner is “the Police, Fire and Crime Commissioner for” with the addition of the name of the police area.
 
-**88.**[^c22729601][^key-c48f40a06035f9b9105d59ec9753cd3a] In section 5 (police and crime commissioner to issue police and crime plan) after subsection (5) insert—
+**88.**[^c22729601][^c-c48f40a06035f9b9105d59ec9753cd3a] In section 5 (police and crime commissioner to issue police and crime plan) after subsection (5) insert—
 
 > (5A) Subsections (5B) to (5E) apply to a police and crime commissioner for a police area—
 >
@@ -1313,13 +1313,13 @@ Section 6
 >
 > (5E) Subsection (5B)(b) does not apply to a joint police and crime plan.
 
-**89.**[^c22729611][^key-baf2932dbf8b96f77797b1f80646e8bf] In section 28 (police and crime panels outside London) after subsection (1) insert—
+**89.**[^c22729611][^c-baf2932dbf8b96f77797b1f80646e8bf] In section 28 (police and crime panels outside London) after subsection (1) insert—
 
 > (1A) Subsection (1B) applies if the person who is the police and crime commissioner for a police area is also the fire and rescue authority for the area which corresponds to, or an area which falls within, the police area.
 >
 > (1B) The police and crime panel for the police area is to be known as “**the Police, Fire and Crime Panel**”.
 
-**90.**[^c22729621][^key-de1d5f9b66b69ce8913b1accc7ef1737] In section 66 (disqualification from election or holding office as police and crime commissioner: other grounds) after subsection (9) insert—
+**90.**[^c22729621][^c-de1d5f9b66b69ce8913b1accc7ef1737] In section 66 (disqualification from election or holding office as police and crime commissioner: other grounds) after subsection (9) insert—
 
 > (10) Subsection (11) applies to the police and crime commissioner for a police area if, by virtue of an order under section 4A of the Fire and Rescue Services Act 2004, the person who is for the time being the commissioner for that area is also the fire rescue authority for an area which corresponds to or falls within the police area.
 >
@@ -1329,11 +1329,11 @@ Section 6
 > - (b) a fire and rescue authority constituted by a scheme under section 2 of that Act or a scheme to which section 4 of that Act relates, or
 > - (c) a fire and rescue authority created by an order under section 4A of that Act.
 
-**91.**[^c22729631][^key-498743faab12f7dc91465652731c3c76] In Schedule 1 (police and crime commissioners) in paragraph 2 (salary etc) after sub-paragraph (3) insert—
+**91.**[^c22729631][^c-498743faab12f7dc91465652731c3c76] In Schedule 1 (police and crime commissioners) in paragraph 2 (salary etc) after sub-paragraph (3) insert—
 
 > (4) Where the person who is the police and crime commissioner for a police area is also a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, a determination under this paragraph in relation to that person may, in particular, take account of the fact that the person also exercises functions as that fire and rescue authority.
 
-**92.**[^c22729641][^key-1d97742f9617fb2da8c40f46b2b8d71f][^key-491b7a12be205f17cb54cc58891cc3f1][^key-55a58e1e878f9b5dce114ffbf96f4905] (1) Schedule 6 (police and crime panels) is amended as follows.
+**92.**[^c22729641][^c-1d97742f9617fb2da8c40f46b2b8d71f][^c-491b7a12be205f17cb54cc58891cc3f1][^c-55a58e1e878f9b5dce114ffbf96f4905] (1) Schedule 6 (police and crime panels) is amended as follows.
 
 (2) In paragraph 4(6) (functions of panels) at the end insert “ or by, or by virtue of, the Fire and Rescue Services Act 2004. ”
 
@@ -1377,7 +1377,7 @@ Section 6
 >
 > (4) The “fire and rescue expertise objective” referred to in this paragraph is the objective that members of the panel (when taken together) have the skills, knowledge and experience necessary for the panel effectively to discharge its functions in relation to the fire and rescue authority.
 
-**93.**[^c22729651][^key-15a3c923453f1d570a94ff44d8dd16dc] In Schedule 8 (appointment, suspension and removal of senior police officers) in paragraph 2 (no appointment until end of confirmation process)—
+**93.**[^c22729651][^c-15a3c923453f1d570a94ff44d8dd16dc] In Schedule 8 (appointment, suspension and removal of senior police officers) in paragraph 2 (no appointment until end of confirmation process)—
 
 - (a) in sub-paragraph (1A) for “A person” substitute insert “ Subject to sub-paragraph (1AA), a person ”, and
 - (b) after sub-paragraph (1A) insert—
@@ -1391,7 +1391,7 @@ Section 6
 
 *Extent: E+W*
 
-**94.**[^c22729661][^key-c1e1b86fc62a5f57913806c55339ae4d] (1) The Localism Act 2011 is amended as follows.
+**94.**[^c22729661][^c-c1e1b86fc62a5f57913806c55339ae4d] (1) The Localism Act 2011 is amended as follows.
 
 (2) In section 41(3) (power of fire and rescue authority to appoint officers and employees to be subject to pay policy statement) after “43(1)(i)” insert “ or (j) ”.
 
@@ -1406,7 +1406,7 @@ Section 6
 
 #### Public Service Pensions Act 2013 (c. 25)
 
-**95.**[^c22729671][^key-f84682d3b42f2a0174926c8b4a9c511f] In Schedule 1 to the Public Service Pensions Act 2013 (persons in public service: definitions) in paragraph 6 (fire and rescue workers) for the “or” at end of paragraph (a) substitute—
+**95.**[^c22729671][^c-f84682d3b42f2a0174926c8b4a9c511f] In Schedule 1 to the Public Service Pensions Act 2013 (persons in public service: definitions) in paragraph 6 (fire and rescue workers) for the “or” at end of paragraph (a) substitute—
 
 > - (aa) the chief constable of the police force for a police area having been—
 >   - (i) transferred to the chief constable under a scheme made under section 4I(1) of the Fire and Rescue Services Act 2004, or
@@ -1416,7 +1416,7 @@ Section 6
 
 #### Energy Act 2013 (c. 32)
 
-**96.**[^c22729681][^key-65cd2bc636615c523be4bc358134c579] In Part 3 of Schedule 9 to the Energy Act 2013 (protected information: permitted disclosures and restrictions on use) in paragraph 14(3) (local authorities and water authorities: interpretation) in the definition of “local authority” after paragraph (d) insert—
+**96.**[^c22729681][^c-65cd2bc636615c523be4bc358134c579] In Part 3 of Schedule 9 to the Energy Act 2013 (protected information: permitted disclosures and restrictions on use) in paragraph 14(3) (local authorities and water authorities: interpretation) in the definition of “local authority” after paragraph (d) insert—
 
 > - (da) a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004;
 
@@ -1426,7 +1426,7 @@ Section 6
 
 *Extent: E+W*
 
-**97.**[^c22729691][^key-9020586cd3d6acc22c5894a9df4b52a5] (1) The Local Audit and Accountability Act 2014 is amended as follows.
+**97.**[^c22729691][^c-9020586cd3d6acc22c5894a9df4b52a5] (1) The Local Audit and Accountability Act 2014 is amended as follows.
 
 (2) In Schedule 2 (relevant authorities) after paragraph 22 insert—
 
@@ -1438,392 +1438,392 @@ Section 6
 
 [^c22722321]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/1) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-d1dffab66a20a44087f5941a63fafbf4]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/1) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-d1dffab66a20a44087f5941a63fafbf4]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/1) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22722331]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/2) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-58ad51a280a3f805abe24bcd7f85120e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/2) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-58ad51a280a3f805abe24bcd7f85120e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/2) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22722341]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/3) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-64cb0fddbe7291d96735692c5dc4cac6]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/3) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-64cb0fddbe7291d96735692c5dc4cac6]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/3) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22722951]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/4) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-69cf71eea1ee130de995211b2f2e2246]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/4) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-69cf71eea1ee130de995211b2f2e2246]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/4) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22722961]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/5) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-774df60a85760cc163bdbfa440ce3929]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/5) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-774df60a85760cc163bdbfa440ce3929]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/5) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22722971]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/6) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-9efda02588bc16c4ba9a7b2caddbaaca]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/6) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-9efda02588bc16c4ba9a7b2caddbaaca]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/6) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22722981]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/7) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-5bea00ea494cb5c888535acdc3d80b0e]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/7) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-5bea00ea494cb5c888535acdc3d80b0e]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/7) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22722991]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/8) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-5359407f4a8c3c0966668bb53949cd4c]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/8) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-5359407f4a8c3c0966668bb53949cd4c]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/8) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22728811]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/9) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-74930a05e02291fe07eb4c5f29acdde1]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/9) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-74930a05e02291fe07eb4c5f29acdde1]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/9) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22728821]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/10) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-1f551545e57d27a6915eb748002ad92a]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/10) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-1f551545e57d27a6915eb748002ad92a]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/10) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22728831]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/11) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-eed09915bd4ed06774c4e67b7bf585e7]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/11) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-eed09915bd4ed06774c4e67b7bf585e7]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/11) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22728841]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/12) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-6ef2e05bf6d09cd8c43333c4c534c0a6]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/12) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-6ef2e05bf6d09cd8c43333c4c534c0a6]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/12) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22728851]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/13) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-34dc02cbbdf7db452bcff5f3c44c9dab]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/13) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-34dc02cbbdf7db452bcff5f3c44c9dab]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/13) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22728861]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/14) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-bce2b756671894ab98ecb97131f4f95c]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/14) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-bce2b756671894ab98ecb97131f4f95c]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/14) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22728871]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/15) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-3c0dcdaf8ef819f2586f0b8c8119f7c1]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/15) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-3c0dcdaf8ef819f2586f0b8c8119f7c1]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/15) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22728881]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/16) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-392a51db2fcc9daa6433c265fd7c3de5]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/16) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-392a51db2fcc9daa6433c265fd7c3de5]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/16) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22728891]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/17) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-2d326c02119147548f1ea04981abb34a]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/17) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-2d326c02119147548f1ea04981abb34a]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/17) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22728901]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/18) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-4b53fd3441a5a12a4e1f578ca3cc75c4]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/18) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-4b53fd3441a5a12a4e1f578ca3cc75c4]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/18) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22728911]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/19) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-afe6a3ead8daabda419a46fb224eebdc]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/19) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-afe6a3ead8daabda419a46fb224eebdc]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/19) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22728921]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/20) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-50c61f8d7865b7113bcb3e917e602aaa]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/20) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-50c61f8d7865b7113bcb3e917e602aaa]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/20) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22728931]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/21) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-d10a71ce4054c09d9a8218d44bb2902e]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/21) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-d10a71ce4054c09d9a8218d44bb2902e]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/21) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22728941]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/22) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-4c88164f7330f4cfe63dc8ef36f5fc04]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/22) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-4c88164f7330f4cfe63dc8ef36f5fc04]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/22) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22728951]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/23) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-0bbb81039153998e0f346f4d10463329]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/23) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-0bbb81039153998e0f346f4d10463329]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/23) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22728961]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/24) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-d3e720444d3680ca04a3fbd7fc821713]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/24) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-d3e720444d3680ca04a3fbd7fc821713]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/24) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22728971]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/25) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-a49045a9ab44dbbfce7ff77a0500bbca]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/25) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-a49045a9ab44dbbfce7ff77a0500bbca]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/25) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22728981]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/26) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-ca0c2a35ddc27d53af969e494ba498c1]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/26) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-ca0c2a35ddc27d53af969e494ba498c1]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/26) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22728991]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/27) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-008a1e1fb17a6c59cbcfe060b9ccf40a]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/27) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-008a1e1fb17a6c59cbcfe060b9ccf40a]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/27) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729001]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/28) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-451addc35c4eb65c7f2c6f12ce0b4d97]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/28) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-451addc35c4eb65c7f2c6f12ce0b4d97]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/28) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729011]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/29) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-d06d11edefcbbd9917c931870ed2d3d4]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/29) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-d06d11edefcbbd9917c931870ed2d3d4]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/29) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729021]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/30) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-1c73ee8d83c0fa970d343bccbd0b753c]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/30) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-1c73ee8d83c0fa970d343bccbd0b753c]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/30) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729031]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/31) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-9ac3d92eaf279e859f8cf23ea44c28f4]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/31) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-9ac3d92eaf279e859f8cf23ea44c28f4]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/31) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729041]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/32) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-cb09719f22e99e0bc1f8157b075921ea]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/32) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-cb09719f22e99e0bc1f8157b075921ea]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/32) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729051]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/33) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-af262f70074bac90d05524ec61a69dec]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/33) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-af262f70074bac90d05524ec61a69dec]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/33) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729061]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/34) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-f10308d87bd0ee7ab15ade15d70b65fb]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/34) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-f10308d87bd0ee7ab15ade15d70b65fb]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/34) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729071]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/35) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-f00c47a980efe2a5db44f8c7f3fc44c4]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/35) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-f00c47a980efe2a5db44f8c7f3fc44c4]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/35) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729081]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/36) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-bcf150d539d3f444061416c0ab464146]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/36) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-bcf150d539d3f444061416c0ab464146]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/36) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729091]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/37) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-e3d5a292b5f237baba6d79e7e4de09a2]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/37) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-e3d5a292b5f237baba6d79e7e4de09a2]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/37) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729101]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/38) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-6fab6b13e5359601d36fdc3ba2adce0b]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/38) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-6fab6b13e5359601d36fdc3ba2adce0b]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/38) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729111]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/39) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-8a585c32e9067a78419146183130280c]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/39) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-8a585c32e9067a78419146183130280c]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/39) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729121]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/40) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-f1dd81602b94c36c59b7dda29a5245db]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/40) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-f1dd81602b94c36c59b7dda29a5245db]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/40) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729131]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/41) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-cb2cf5e4a7b6d14f2533e4201ee6ab5b]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/41) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-cb2cf5e4a7b6d14f2533e4201ee6ab5b]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/41) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729141]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/42) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-b6fbb6505c9a471f41ce34599c98514a]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/42) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-b6fbb6505c9a471f41ce34599c98514a]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/42) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729151]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/43) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-edfa5f47435b4c16210d648571f9b5c9]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/43) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-edfa5f47435b4c16210d648571f9b5c9]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/43) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729161]: Commencement: [Sch. 1 para. 44](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/44) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-fe271b55568184fb4d0ba3b3abbb5644]: Commencement: [Sch. 1 para. 44](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/44) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-fe271b55568184fb4d0ba3b3abbb5644]: Commencement: [Sch. 1 para. 44](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/44) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729171]: Commencement: [Sch. 1 para. 45](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/45) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-4dd9908f5db4f8804a4bf3aa9262cbb3]: Commencement: [Sch. 1 para. 45](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/45) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-4dd9908f5db4f8804a4bf3aa9262cbb3]: Commencement: [Sch. 1 para. 45](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/45) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729181]: Commencement: [Sch. 1 para. 46](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/46) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-5643840d5a0c401f4cec72ce79dcaa7e]: Commencement: [Sch. 1 para. 46](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/46) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-5643840d5a0c401f4cec72ce79dcaa7e]: Commencement: [Sch. 1 para. 46](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/46) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729191]: Commencement: [Sch. 1 para. 47](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/47) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-ac8cb96ad4847b3868f46b8587c4906b]: Commencement: [Sch. 1 para. 47](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/47) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-ac8cb96ad4847b3868f46b8587c4906b]: Commencement: [Sch. 1 para. 47](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/47) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729201]: Commencement: [Sch. 1 para. 48](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/48) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-340216542210a0dff63549994026ce78]: Commencement: [Sch. 1 para. 48](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/48) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-340216542210a0dff63549994026ce78]: Commencement: [Sch. 1 para. 48](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/48) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729211]: Commencement: [Sch. 1 para. 49](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/49) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-7cf64d3f969edbeb151b683f6e8210b9]: Commencement: [Sch. 1 para. 49](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/49) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-7cf64d3f969edbeb151b683f6e8210b9]: Commencement: [Sch. 1 para. 49](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/49) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729221]: Commencement: [Sch. 1 para. 50](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/50) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-be97a9d477d733ef93054eeec49007da]: Commencement: [Sch. 1 para. 50](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/50) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-be97a9d477d733ef93054eeec49007da]: Commencement: [Sch. 1 para. 50](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/50) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729231]: Commencement: [Sch. 1 para. 51](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/51) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-1f9c36153c9330a35945d328b072f4ca]: Commencement: [Sch. 1 para. 51](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/51) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-1f9c36153c9330a35945d328b072f4ca]: Commencement: [Sch. 1 para. 51](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/51) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729241]: Commencement: [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/52) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-ecbdb1fab5ba496ef1366ea37d231926]: Commencement: [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/52) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-ecbdb1fab5ba496ef1366ea37d231926]: Commencement: [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/52) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729251]: Commencement: [Sch. 1 para. 53](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/53) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-205b4e4c7e33a06dc5ebb8ae9ab38645]: Commencement: [Sch. 1 para. 53](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/53) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-205b4e4c7e33a06dc5ebb8ae9ab38645]: Commencement: [Sch. 1 para. 53](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/53) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729261]: Commencement: [Sch. 1 para. 54](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/54) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-8f932654cb01cf5f84214cdc81610a2c]: Commencement: [Sch. 1 para. 54](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/54) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-8f932654cb01cf5f84214cdc81610a2c]: Commencement: [Sch. 1 para. 54](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/54) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729271]: Commencement: [Sch. 1 para. 55](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/55) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-c6f1f3ca6123418f6d0fbb0347194839]: Commencement: [Sch. 1 para. 55](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/55) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-c6f1f3ca6123418f6d0fbb0347194839]: Commencement: [Sch. 1 para. 55](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/55) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729281]: Commencement: [Sch. 1 para. 56](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/56) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-e39621f2b4e743b70e6bfbe6d016e1ad]: Commencement: [Sch. 1 para. 56](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/56) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-e39621f2b4e743b70e6bfbe6d016e1ad]: Commencement: [Sch. 1 para. 56](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/56) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729291]: Commencement: [Sch. 1 para. 57](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/57) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-1ac627572913abae37c38ea3dae0ae9e]: Commencement: [Sch. 1 para. 57](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/57) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-1ac627572913abae37c38ea3dae0ae9e]: Commencement: [Sch. 1 para. 57](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/57) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729301]: Commencement: [Sch. 1 para. 58](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/58) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-742581fc288a32f3d8b6db34b31747c7]: Commencement: [Sch. 1 para. 58](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/58) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-742581fc288a32f3d8b6db34b31747c7]: Commencement: [Sch. 1 para. 58](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/58) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729311]: Commencement: [Sch. 1 para. 59](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/59) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-6cbc06bb79d30e02a1c72184d7938494]: Commencement: [Sch. 1 para. 59](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/59) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-6cbc06bb79d30e02a1c72184d7938494]: Commencement: [Sch. 1 para. 59](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/59) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729321]: Commencement: [Sch. 1 para. 60](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/60) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-1f9d39e82e57e40b70685c3635611749]: Commencement: [Sch. 1 para. 60](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/60) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-1f9d39e82e57e40b70685c3635611749]: Commencement: [Sch. 1 para. 60](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/60) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729331]: Commencement: [Sch. 1 para. 61](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/61) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-0cfde92cc7c9f3828d7befb2844459bf]: Commencement: [Sch. 1 para. 61](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/61) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-0cfde92cc7c9f3828d7befb2844459bf]: Commencement: [Sch. 1 para. 61](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/61) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729341]: Commencement: [Sch. 1 para. 62](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/62) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-f137986b12fb8cff7547a8cdf34a4d10]: Commencement: [Sch. 1 para. 62](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/62) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-f137986b12fb8cff7547a8cdf34a4d10]: Commencement: [Sch. 1 para. 62](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/62) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729351]: Commencement: [Sch. 1 para. 63](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/63) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-ce07681b32372202427015d00cad524a]: Commencement: [Sch. 1 para. 63](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/63) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-ce07681b32372202427015d00cad524a]: Commencement: [Sch. 1 para. 63](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/63) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729361]: Commencement: [Sch. 1 para. 64](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/64) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-9ec06245cef306d3dc2d14eca26258d3]: Commencement: [Sch. 1 para. 64](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/64) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-9ec06245cef306d3dc2d14eca26258d3]: Commencement: [Sch. 1 para. 64](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/64) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729371]: Commencement: [Sch. 1 para. 65](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/65) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-c53f9babde6097e45e3d1c11c5d21c89]: Commencement: [Sch. 1 para. 65](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/65) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-c53f9babde6097e45e3d1c11c5d21c89]: Commencement: [Sch. 1 para. 65](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/65) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729381]: Commencement: [Sch. 1 para. 66](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/66) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-f0afa63d955603c918e01b0cdb9039d9]: Commencement: [Sch. 1 para. 66](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/66) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-f0afa63d955603c918e01b0cdb9039d9]: Commencement: [Sch. 1 para. 66](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/66) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729391]: Commencement: [Sch. 1 para. 67](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/67) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-1159a35a381c7fd6e968c091c971da15]: Commencement: [Sch. 1 para. 67](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/67) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-1159a35a381c7fd6e968c091c971da15]: Commencement: [Sch. 1 para. 67](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/67) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729401]: Commencement: [Sch. 1 para. 68](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/68) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-916c419dae3cd9b89057b57b27d07a88]: Commencement: [Sch. 1 para. 68](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/68) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-916c419dae3cd9b89057b57b27d07a88]: Commencement: [Sch. 1 para. 68](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/68) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729411]: Commencement: [Sch. 1 para. 69](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/69) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-bb44ddf6aa421c5a53dc69c630a270a2]: Commencement: [Sch. 1 para. 69](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/69) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-bb44ddf6aa421c5a53dc69c630a270a2]: Commencement: [Sch. 1 para. 69](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/69) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729421]: Commencement: [Sch. 1 para. 70](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/70) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-0aab4d56658818ce8091c3568406dd6f]: Commencement: [Sch. 1 para. 70](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/70) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-0aab4d56658818ce8091c3568406dd6f]: Commencement: [Sch. 1 para. 70](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/70) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729431]: Commencement: [Sch. 1 para. 71](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/71) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-3ed60ecccb936113233587a549b42c3a]: Commencement: [Sch. 1 para. 71](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/71) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-3ed60ecccb936113233587a549b42c3a]: Commencement: [Sch. 1 para. 71](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/71) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729441]: Commencement: [Sch. 1 para. 72](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/72) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-386b8ecddd7013d8854010a6d1f67743]: Commencement: [Sch. 1 para. 72](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/72) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-386b8ecddd7013d8854010a6d1f67743]: Commencement: [Sch. 1 para. 72](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/72) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729451]: Commencement: [Sch. 1 para. 73](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/73) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-48826d329b7c422022726aa944eee566]: Commencement: [Sch. 1 para. 73](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/73) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-48826d329b7c422022726aa944eee566]: Commencement: [Sch. 1 para. 73](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/73) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729461]: Commencement: [Sch. 1 para. 74](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/74) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-af5dc477e22d5a47d54cc3651963d00d]: Commencement: [Sch. 1 para. 74](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/74) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-af5dc477e22d5a47d54cc3651963d00d]: Commencement: [Sch. 1 para. 74](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/74) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729471]: Commencement: [Sch. 1 para. 75](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/75) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-7aa57c5084b216cb7bf8fcf23b9e8e94]: Commencement: [Sch. 1 para. 75](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/75) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-7aa57c5084b216cb7bf8fcf23b9e8e94]: Commencement: [Sch. 1 para. 75](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/75) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729481]: Commencement: [Sch. 1 para. 76](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/76) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-11cece98874de58ad28c481b770f3ee3]: Commencement: [Sch. 1 para. 76](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/76) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-11cece98874de58ad28c481b770f3ee3]: Commencement: [Sch. 1 para. 76](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/76) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729491]: Commencement: [Sch. 1 para. 77](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/77) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-f48a0665b1214bc8de2bae0bd019e7e6]: Commencement: [Sch. 1 para. 77](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/77) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-f48a0665b1214bc8de2bae0bd019e7e6]: Commencement: [Sch. 1 para. 77](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/77) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729501]: Commencement: [Sch. 1 para. 78](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/78) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-9049e8a42f109ad070e34eb22e80ebe3]: Commencement: [Sch. 1 para. 78](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/78) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-9049e8a42f109ad070e34eb22e80ebe3]: Commencement: [Sch. 1 para. 78](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/78) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729511]: Commencement: [Sch. 1 para. 79](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/79) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-c9f26ee674d139ee01af217d8198b0c7]: Commencement: [Sch. 1 para. 79](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/79) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-c9f26ee674d139ee01af217d8198b0c7]: Commencement: [Sch. 1 para. 79](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/79) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729521]: Commencement: [Sch. 1 para. 80](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/80) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-2b18c7f79204f0714ed44a1a474554ee]: Commencement: [Sch. 1 para. 80](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/80) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-2b18c7f79204f0714ed44a1a474554ee]: Commencement: [Sch. 1 para. 80](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/80) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729531]: Commencement: [Sch. 1 para. 81](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/81) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-bdbc0fd6f1edb6ae6328510a7bf9ceb5]: Commencement: [Sch. 1 para. 81](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/81) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-bdbc0fd6f1edb6ae6328510a7bf9ceb5]: Commencement: [Sch. 1 para. 81](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/81) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729541]: Commencement: [Sch. 1 para. 82](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/82) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-eea1a6f7f2177ed44702027dd2a315aa]: Commencement: [Sch. 1 para. 82](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/82) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-eea1a6f7f2177ed44702027dd2a315aa]: Commencement: [Sch. 1 para. 82](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/82) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729551]: Commencement: [Sch. 1 para. 83](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/83) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-40997f27882deb51fd824d6f971746a7]: Commencement: [Sch. 1 para. 83](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/83) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-40997f27882deb51fd824d6f971746a7]: Commencement: [Sch. 1 para. 83](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/83) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729561]: Commencement: [Sch. 1 para. 84](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/84) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-5e31f1658068895042f2d00be56e32f8]: Commencement: [Sch. 1 para. 84](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/84) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-5e31f1658068895042f2d00be56e32f8]: Commencement: [Sch. 1 para. 84](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/84) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729571]: Commencement: [Sch. 1 para. 85](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/85) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-a5058d6a5e519305bf8720dffd35ae42]: Commencement: [Sch. 1 para. 85](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/85) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-a5058d6a5e519305bf8720dffd35ae42]: Commencement: [Sch. 1 para. 85](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/85) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729581]: Commencement: [Sch. 1 para. 86](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/86) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-97820bdb8b3832ae668826a006d55e6f]: Commencement: [Sch. 1 para. 86](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/86) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-97820bdb8b3832ae668826a006d55e6f]: Commencement: [Sch. 1 para. 86](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/86) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729591]: Commencement: [Sch. 1 para. 87](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/87) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-16b25eab1085cfcf225473372131204b]: Commencement: [Sch. 1 para. 87](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/87) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-16b25eab1085cfcf225473372131204b]: Commencement: [Sch. 1 para. 87](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/87) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729601]: Commencement: [Sch. 1 para. 88](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/88) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-c48f40a06035f9b9105d59ec9753cd3a]: Commencement: [Sch. 1 para. 88](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/88) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-c48f40a06035f9b9105d59ec9753cd3a]: Commencement: [Sch. 1 para. 88](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/88) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729611]: Commencement: [Sch. 1 para. 89](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/89) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-baf2932dbf8b96f77797b1f80646e8bf]: Commencement: [Sch. 1 para. 89](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/89) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-baf2932dbf8b96f77797b1f80646e8bf]: Commencement: [Sch. 1 para. 89](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/89) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729621]: Commencement: [Sch. 1 para. 90](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/90) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-de1d5f9b66b69ce8913b1accc7ef1737]: Commencement: [Sch. 1 para. 90](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/90) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-de1d5f9b66b69ce8913b1accc7ef1737]: Commencement: [Sch. 1 para. 90](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/90) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729631]: Commencement: [Sch. 1 para. 91](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/91) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-498743faab12f7dc91465652731c3c76]: Commencement: [Sch. 1 para. 91](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/91) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-498743faab12f7dc91465652731c3c76]: Commencement: [Sch. 1 para. 91](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/91) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729641]: Commencement: [Sch. 1 para. 92](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/92) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-1d97742f9617fb2da8c40f46b2b8d71f]: Modification: [Sch. 1 para. 92](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/92) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/23)
+[^c-1d97742f9617fb2da8c40f46b2b8d71f]: Modification: [Sch. 1 para. 92](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/92) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/23)
 
-[^key-491b7a12be205f17cb54cc58891cc3f1]: Commencement: [Sch. 1 para. 92](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/92) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-491b7a12be205f17cb54cc58891cc3f1]: Commencement: [Sch. 1 para. 92](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/92) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
-[^key-55a58e1e878f9b5dce114ffbf96f4905]: Modification: [Sch. 1 para. 92](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/92) excluded (29.6.2026) by [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13), [Sch. 10A para. 63](https://www.legislation.gov.uk/ukpga/2011/13/schedule/10A/paragraph/63) (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
+[^c-55a58e1e878f9b5dce114ffbf96f4905]: Modification: [Sch. 1 para. 92](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/92) excluded (29.6.2026) by [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13), [Sch. 10A para. 63](https://www.legislation.gov.uk/ukpga/2011/13/schedule/10A/paragraph/63) (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
 
 [^c22729651]: Commencement: [Sch. 1 para. 93](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/93) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-15a3c923453f1d570a94ff44d8dd16dc]: Commencement: [Sch. 1 para. 93](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/93) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-15a3c923453f1d570a94ff44d8dd16dc]: Commencement: [Sch. 1 para. 93](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/93) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729661]: Commencement: [Sch. 1 para. 94](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/94) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-c1e1b86fc62a5f57913806c55339ae4d]: Commencement: [Sch. 1 para. 94](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/94) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-c1e1b86fc62a5f57913806c55339ae4d]: Commencement: [Sch. 1 para. 94](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/94) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729671]: Commencement: [Sch. 1 para. 95](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/95) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-f84682d3b42f2a0174926c8b4a9c511f]: Commencement: [Sch. 1 para. 95](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/95) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-f84682d3b42f2a0174926c8b4a9c511f]: Commencement: [Sch. 1 para. 95](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/95) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729681]: Commencement: [Sch. 1 para. 96](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/96) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-65cd2bc636615c523be4bc358134c579]: Commencement: [Sch. 1 para. 96](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/96) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-65cd2bc636615c523be4bc358134c579]: Commencement: [Sch. 1 para. 96](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/96) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^c22729691]: Commencement: [Sch. 1 para. 97](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/97) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-9020586cd3d6acc22c5894a9df4b52a5]: Commencement: [Sch. 1 para. 97](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/97) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-9020586cd3d6acc22c5894a9df4b52a5]: Commencement: [Sch. 1 para. 97](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/97) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)

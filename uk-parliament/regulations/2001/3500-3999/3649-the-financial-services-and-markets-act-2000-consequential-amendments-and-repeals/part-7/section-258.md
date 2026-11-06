@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 258. Meaning of “investment manager”[^key-ab0956182100ea9344a00067d5c48d76]
+## 258. Meaning of “investment manager”[^c-ab0956182100ea9344a00067d5c48d76]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab0956182100ea9344a00067d5c48d76]: Commencement: Art. 258 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-ab0956182100ea9344a00067d5c48d76]: Commencement: Art. 258 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Governing bodies consisting of interim executive members[^key-0cf21f505444ac22c4e1ab0cb7cc4f04][^c381707][^key-a10edeea05c6f5e7e1946bef18030158]
+## 59. Governing bodies consisting of interim executive members[^c-0cf21f505444ac22c4e1ab0cb7cc4f04][^c381707][^c-a10edeea05c6f5e7e1946bef18030158]
 
 *Extent: E+W*
 
@@ -24,8 +24,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0cf21f505444ac22c4e1ab0cb7cc4f04]: Textual amendment: [Ss. 55-59](https://www.legislation.gov.uk/ukpga/2002/32/section/55) omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 6(6)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/6/6); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-0cf21f505444ac22c4e1ab0cb7cc4f04]: Textual amendment: [Ss. 55-59](https://www.legislation.gov.uk/ukpga/2002/32/section/55) omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 6(6)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/6/6); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
 [^c381707]: Commencement: S. 59 in force at 2.9.2002 for E. by [S.I. 2002/2002](https://www.legislation.gov.uk/uksi/2002/2002), [art. 4](https://www.legislation.gov.uk/uksi/2002/2002/article/4)
 
-[^key-a10edeea05c6f5e7e1946bef18030158]: Commencement: S. 59 in force at 2.1.2008 for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+[^c-a10edeea05c6f5e7e1946bef18030158]: Commencement: S. 59 in force at 2.1.2008 for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. No first-instance applications to the High Court in tribunal matters[^key-026d6db9f3b8ef1c2e5b09b713834766]
+## 44. No first-instance applications to the High Court in tribunal matters[^c-026d6db9f3b8ef1c2e5b09b713834766]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-026d6db9f3b8ef1c2e5b09b713834766]: Commencement: S. 44 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-026d6db9f3b8ef1c2e5b09b713834766]: Commencement: S. 44 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

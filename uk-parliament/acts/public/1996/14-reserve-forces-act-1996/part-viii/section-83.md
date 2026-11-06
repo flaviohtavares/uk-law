@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Payments to individuals in respect of financial loss attributable to call out or recall.[^key-ae369f5b15ec5e804de7fa6d1c13e266]
+## 83. Payments to individuals in respect of financial loss attributable to call out or recall.[^c-ae369f5b15ec5e804de7fa6d1c13e266]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae369f5b15ec5e804de7fa6d1c13e266]: Textual amendment: Words in s. 83 heading inserted (5.9.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/3) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 3](https://www.legislation.gov.uk/uksi/2014/2370/article/3)
+[^c-ae369f5b15ec5e804de7fa6d1c13e266]: Textual amendment: Words in s. 83 heading inserted (5.9.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/3) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 3](https://www.legislation.gov.uk/uksi/2014/2370/article/3)

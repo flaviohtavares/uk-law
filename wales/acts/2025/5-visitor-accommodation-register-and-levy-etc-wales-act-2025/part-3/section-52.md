@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Arrangements with third party to collect the levy etc. on behalf of provider[^key-f4acf2c22600ef526567e0acfebf9ce1]
+## 52. Arrangements with third party to collect the levy etc. on behalf of provider[^c-f4acf2c22600ef526567e0acfebf9ce1]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4acf2c22600ef526567e0acfebf9ce1]: Commencement: S. 52 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-f4acf2c22600ef526567e0acfebf9ce1]: Commencement: S. 52 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

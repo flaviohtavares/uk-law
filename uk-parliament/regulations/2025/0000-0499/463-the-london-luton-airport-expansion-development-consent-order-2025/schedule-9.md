@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 9 — DOCUMENTS TO BE CERTIFIED[^key-1fd8dfb7c89d8ef1a6d64773c18492eb]
+## SCHEDULE 9 — DOCUMENTS TO BE CERTIFIED[^c-1fd8dfb7c89d8ef1a6d64773c18492eb]
 
 *Extent: E+W*
 
@@ -227,4 +227,4 @@ Article 50
 
 ## Annotations
 
-[^key-1fd8dfb7c89d8ef1a6d64773c18492eb]: Commencement: Sch. 9 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-1fd8dfb7c89d8ef1a6d64773c18492eb]: Commencement: Sch. 9 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)

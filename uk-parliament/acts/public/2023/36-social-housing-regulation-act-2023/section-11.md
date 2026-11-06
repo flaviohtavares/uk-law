@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Electrical safety standards[^key-120c63a90d4e0c750a58958a7fbc5afd]
+## 11. Electrical safety standards[^c-120c63a90d4e0c750a58958a7fbc5afd]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-120c63a90d4e0c750a58958a7fbc5afd]: Commencement: S. 11 in force at Royal Assent, see [s. 46(1)(a)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/1/a)
+[^c-120c63a90d4e0c750a58958a7fbc5afd]: Commencement: S. 11 in force at Royal Assent, see [s. 46(1)(a)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/1/a)

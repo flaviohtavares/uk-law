@@ -52,7 +52,7 @@ TABLE[^c17614641]
 
 (6) No approved training scheme for drivers shall be amended without the approval of the Department.
 
-(7)[^key-8213fc25ad92a8f4c0530a42d9008f0f] “Medium-sized goods vehicle” specified in the Table includes a tractor and trailer combination.
+(7)[^c-8213fc25ad92a8f4c0530a42d9008f0f] “Medium-sized goods vehicle” specified in the Table includes a tractor and trailer combination.
 
 ## Annotations
 
@@ -60,4 +60,4 @@ TABLE[^c17614641]
 
 [^c17614641]: Textual amendment: SR 1996/426
 
-[^key-8213fc25ad92a8f4c0530a42d9008f0f]: Textual amendment: [Art. 17(7)](https://www.legislation.gov.uk/nisi/1981/154/article/17/7) added (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/170)](https://www.legislation.gov.uk/nisr/2012/170), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/170/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2012/170/regulation/2/6)
+[^c-8213fc25ad92a8f4c0530a42d9008f0f]: Textual amendment: [Art. 17(7)](https://www.legislation.gov.uk/nisi/1981/154/article/17/7) added (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/170)](https://www.legislation.gov.uk/nisr/2012/170), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/170/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2012/170/regulation/2/6)

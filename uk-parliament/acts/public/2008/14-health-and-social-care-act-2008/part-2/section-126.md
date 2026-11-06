@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Education and training of approved mental health professionals: Wales[^key-eecb3c8473c714d37b44b6d2171c40a2]
+## 126. Education and training of approved mental health professionals: Wales[^c-eecb3c8473c714d37b44b6d2171c40a2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eecb3c8473c714d37b44b6d2171c40a2]: Textual amendment: S. 126 repealed (3.4.2017) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 58(c)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/58/c); [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(j)](https://www.legislation.gov.uk/wsi/2017/309/article/2/j) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-eecb3c8473c714d37b44b6d2171c40a2]: Textual amendment: S. 126 repealed (3.4.2017) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 58(c)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/58/c); [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(j)](https://www.legislation.gov.uk/wsi/2017/309/article/2/j) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Offences by bodies corporate, etc.[^key-0ed2ec993ce07b1d31bce5b7968d2928]
+## 46. Offences by bodies corporate, etc.[^c-0ed2ec993ce07b1d31bce5b7968d2928]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 
 ## Annotations
 
-[^key-0ed2ec993ce07b1d31bce5b7968d2928]: Commencement: Reg. 46 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-0ed2ec993ce07b1d31bce5b7968d2928]: Commencement: Reg. 46 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)

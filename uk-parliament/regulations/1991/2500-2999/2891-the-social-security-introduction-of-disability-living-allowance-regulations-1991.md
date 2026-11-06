@@ -52,7 +52,7 @@ Now, therefore, the Secretary of State for Social Security, in exercise of the p
 - “the 1975Act” means the Social Security Act 1975 [^c1852685];
 - “the 1986 Act” means the Social Security Act 1986 [^c1852686];
 - “care component” means the care component of a disability living allowance;
-- [^key-949b76ca2a3d6f0c69eb91b4c08d7055]...
+- [^c-949b76ca2a3d6f0c69eb91b4c08d7055]...
 - “mobility component” means the mobility component of a disability living allowance;
 - “adjudicating authority” means, as the case may require, an adjudication officer, a social security appeal tribunal, a disability appeal tribunal or the chief or any other Social Security Commissioner appointed in accordance with section 97(3) of the 1975 Act, including a Tribunal of 3 such Commissioners constituted in accordance with section 116 of that Act;
 - “second tier adjudication” has the meaning given to it in regulation 15.
@@ -315,18 +315,18 @@ the award so made shall be in addition to the award of disability living allowan
 
 ### 13. Treatment of two awards of disability living allowance
 
-(1) Where a person has two awards of disability living allowance both of which are for periods which commence before 27th December 1993[^key-a2cd6b08c3ef7172bb5dafcbe52f2608] and expire after 26th December 1993[^key-d9be86f75111830c6fe0a00f615aaba4], then subject to paragraph (1A)[^key-5b6e0e0b4d87d990529de2292c951707] those awards shall both terminate immediately before 27th December 1993.
+(1) Where a person has two awards of disability living allowance both of which are for periods which commence before 27th December 1993[^c-a2cd6b08c3ef7172bb5dafcbe52f2608] and expire after 26th December 1993[^c-d9be86f75111830c6fe0a00f615aaba4], then subject to paragraph (1A)[^c-5b6e0e0b4d87d990529de2292c951707] those awards shall both terminate immediately before 27th December 1993.
 
-(1A)[^key-5bc281fdc372238eac15c8bbf3d12992] Paragraph (1) shall not apply where the two awards referred to in paragraph (1) are for fixed periods ending on different days.
+(1A)[^c-5bc281fdc372238eac15c8bbf3d12992] Paragraph (1) shall not apply where the two awards referred to in paragraph (1) are for fixed periods ending on different days.
 
-(2) A person whose awards of disability living allowance have been terminated by virtue of paragraph (1) shall be treated, as from 27th December 1993[^key-119238ff398417981cf4b8b1193487df], as having been granted one award of disability living allowance—
+(2) A person whose awards of disability living allowance have been terminated by virtue of paragraph (1) shall be treated, as from 27th December 1993[^c-119238ff398417981cf4b8b1193487df], as having been granted one award of disability living allowance—
 
 - (a) where both the awards terminated by virtue of paragraph (1) were for life, consisting of both components for life, payable at a weekly rate which is the aggregate of the appropriate weekly rate for each of those components;
 - (b) where one of the awards terminated by virtue of paragraph (1) was for life and the other was for a fixed period, consisting of one component for life, corresponding to the component which was for life under the terminated award, and the other component for a fixed period ending on the day the award for the fixed period would have ended but for the termination of the award under paragraph (1), and payable at the weekly rate which is the aggregate of the appropriate weekly rate for each of the components from 27th December 1993 until the day the period of the fixed award ends, and thereafter at the weekly rate which is the appropriate weekly rate for the component awarded for life;
-- (c)[^key-2104f73d27846a88d0dcb083b1b49974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-2104f73d27846a88d0dcb083b1b49974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) where both awards terminated by virtue of paragraph (1) were for fixed periods ending on the same day, consisting of both components for a period ending on that day, payable at the weekly rate which is the aggregate of the appropriate weekly rate for each of those components.
 
-(2A)[^key-edec34795d1a6df596db4abbecc42598] Where, after 26th December 1993, a person has two awards of disability living allowance for fixed periods ending on different days those awards shall terminate on the day the shorter period ends if the adjudication officer has determined that an award for the component corresponding to the award which was for the shorter period should be made—
+(2A)[^c-edec34795d1a6df596db4abbecc42598] Where, after 26th December 1993, a person has two awards of disability living allowance for fixed periods ending on different days those awards shall terminate on the day the shorter period ends if the adjudication officer has determined that an award for the component corresponding to the award which was for the shorter period should be made—
 
 - (a) for life, or
 - (b) for a period ending on the day the award for the longer fixed period ends.
@@ -350,9 +350,9 @@ those awards shall terminate immediately after they are made and the person shal
 
 (2E) Where a person is treated as having one award of disability living allowance under paragraph (2D) the award shall be payable at the weekly rate which is the aggregate of the appropriate weekly rate for each of those components until the award for the fixed period ends and, if one component has been awarded for life, thereafter at the appropriate weekly rate for the component awarded for life.
 
-(3) In this regulation, the “appropriate weekly rate” in relation to either component of disability living allowance is the rate which corresponds to the rate payable for that component under any award terminated in accordance with paragraph (1), (2A) or (2D)[^key-b3b99bb2031dd2a049ebb275c9772c0b].
+(3) In this regulation, the “appropriate weekly rate” in relation to either component of disability living allowance is the rate which corresponds to the rate payable for that component under any award terminated in accordance with paragraph (1), (2A) or (2D)[^c-b3b99bb2031dd2a049ebb275c9772c0b].
 
-(3A)[^key-55e9a4ba687029d213c9019cff63c58f] In this regulation, in relation to references to two awards for fixed periods ending on different days, a reference to the shorter period is a reference to the award which ends first and a reference to the longer period is a reference to the award that ends second notwithstanding that the shorter period may be of longer duration.
+(3A)[^c-55e9a4ba687029d213c9019cff63c58f] In this regulation, in relation to references to two awards for fixed periods ending on different days, a reference to the shorter period is a reference to the award which ends first and a reference to the longer period is a reference to the award that ends second notwithstanding that the shorter period may be of longer duration.
 
 (4) An award of disability living allowance granted in accordance with this regulation shall continue for the period of the award only so long as the person to whom the award is treated as having been granted continues to satisfy—
 
@@ -394,7 +394,7 @@ For the purposes of this Part of these Regulations, the expression “second tie
 
 (4) An award shall not be made in accordance with Paragraph (3) where the period of the award would commence after 4th April 1993.
 
-(5) Where a claim submitted in accordance with paragraph (1) is received in an office of the Department of Social Security or the Department for Education and Employment[^key-dcc5b012b170285c5a6ceb974e7c9e38] before 5th April 1993, any award on that claim may, notwithstanding anything in section 37ZE(1) of the 1975 Act [^c1852692] , commence on a date not earlier than 6th April 1992.
+(5) Where a claim submitted in accordance with paragraph (1) is received in an office of the Department of Social Security or the Department for Education and Employment[^c-dcc5b012b170285c5a6ceb974e7c9e38] before 5th April 1993, any award on that claim may, notwithstanding anything in section 37ZE(1) of the 1975 Act [^c1852692] , commence on a date not earlier than 6th April 1992.
 
 ### 17. Claims in addition
 
@@ -545,7 +545,7 @@ at the instance of the claimant in question or the Secretary of State.
 - (c) where the medical question has been determined by the medical board before 6th April 1992, shall have regard to any report made by the board on that question;
 - (d) where the medical question has been referred to a medical board otherwise than on an appeal by the person claiming the allowance, but the board has not determined that question by 6th April 1992, shall consider the question as though—
   - (i) the reference had not been made, and
-  - (ii) the provisions in section 115C of the 1975 Act (references of claims to medical practitioners [^key-ce2b121e3e909490ffe391432ca20ff0]...) relating to disability living allowance applied also to the medical question;
+  - (ii) the provisions in section 115C of the 1975 Act (references of claims to medical practitioners [^c-ce2b121e3e909490ffe391432ca20ff0]...) relating to disability living allowance applied also to the medical question;
 - (e) where the medical question was referred to the medical board following an appeal by the person claiming the allowance but the board has not determined that question by 6th April 1992, shall consider the question as though—
   - (i) it was an application for a review under section 100A(1) of the 1975 Act (reviews of decisions by adjudication officers) of the decision appealed against, and
   - (ii) the provisions in section 115C of the 1975 Act relating to disability living allowance applied also to the medical question;
@@ -615,7 +615,7 @@ the award mentioned in sub-paragraph (b) above shall continue to be paid by dire
 - (a) has two awards of disability living allowance, and
 - (b) those awards are paid separately but into the same account by direct credit transfer in accordance with regulation 21 of the Social Security (Claims and Payments) Regulations 1987,
 
-then those payments may at any time before 28th December 1993[^key-f17a827080e029f00daac1845ecc063c] be combined into one payment, equal to the aggregate of the two payments, payable by direct credit transfer into that account.
+then those payments may at any time before 28th December 1993[^c-f17a827080e029f00daac1845ecc063c] be combined into one payment, equal to the aggregate of the two payments, payable by direct credit transfer into that account.
 
 (4) Where a person has two awards of disability living allowance paid by direct credit transfer in accordance with regulation 21 of the Social Security (Claims and Payments) Regulations 1987 into different accounts, those payments may, with the consent of the Secretary of State, be made into such one account as the person to whom the payments are made may specify in a notice in writing to the Secretary of State.
 
@@ -629,33 +629,33 @@ then those payments may at any time before 28th December 1993[^key-f17a827080e02
 
 (9) Where both attendance allowance and mobility allowance were payable to a person otherwise than by direct credit transfer, any disability living allowance payable in accordance with an award treated as made by virtue of these Regulations shall be payable—
 
-- (a) from such date before 28th December 1993[^key-d3745ba299c88cb20b41ae55cce8b1c4] as the Secretary of State may in any particular case determine—
+- (a) from such date before 28th December 1993[^c-d3745ba299c88cb20b41ae55cce8b1c4] as the Secretary of State may in any particular case determine—
   - (i) except in a case to which head (ii) below applies, on a Wednesday; or
   - (ii) where in any particular case payment of attendance allowance was combined with the payment of another benefit and that benefit was payable on a day of the week other than Wednesday, the care component shall be payable on that day and the mobility component shall be payable on a Wednesday;
 - (b) until that day, care component shall be payable in the manner and at the time when attendance allowance was payable and mobility component shall likewise be payable in the manner and at the time when mobility allowance was payable.
 
-(10) Where attendance allowance was payable to a person otherwise than by direct credit transfer and an award of mobility component is made to that person, any award of disability living allowance treated as having been made by virtue of these Regulations shall be payable, from such date before 28th December 1993[^key-07212c55e3669211397bc0ad1aea7c0a] as the Secretary of State may in any particular case determine—
+(10) Where attendance allowance was payable to a person otherwise than by direct credit transfer and an award of mobility component is made to that person, any award of disability living allowance treated as having been made by virtue of these Regulations shall be payable, from such date before 28th December 1993[^c-07212c55e3669211397bc0ad1aea7c0a] as the Secretary of State may in any particular case determine—
 
 - (a) except in a case to which sub-paragraph (b) applies, on a Wednesday; or
 - (b) where in any particular case the payment of attendance allowance was combined with the payment of another benefit and that benefit was payable on a day of the week other than Wednesday, the care component shall be payable on that day and the mobility component shall be payable on a Wednesday.
 
 (11) Where in accordance with this regulation payment of a person’s award of disability living allowance is changed to a Wednesday, and because of this change in pay day the interval between the first Wednesday pay day and the last previous pay day (referred to in this paragraph as “the relevant period”) is greater than it would have been but for that change, then the first Wednesday payment of disability living allowance shall include by way of adjustment an additional payment which is equal to the daily rate for the benefit or part of a benefit which is subject to that change, multiplied by a number determined by deducting from the number of days in the relevant period, the number of days which would have been in that period but for the change in pay days.
 
-(12)[^key-de201445b7bada3229d1a32e3fa18742] Where a person—
+(12)[^c-de201445b7bada3229d1a32e3fa18742] Where a person—
 
 - (a) before 6th April 1992 has an award of attendance allowance and of mobility allowance and—
   - (i) those awards are paid in a different manner, and
-  - (ii) both awards are terminated or cancelled[^key-7cf827caa562f2286acc03978b5f8811] in accordance with Parts II and III of these Regulations; or
+  - (ii) both awards are terminated or cancelled[^c-7cf827caa562f2286acc03978b5f8811] in accordance with Parts II and III of these Regulations; or
 - (b) has been awarded disability living allowance under regulation 11,
 
 then the awards of disability living allowance shall be paid in accordance with paragraph (13).
 
 (13) In cases to which this paragraph refers, disability living allowance shall be paid—
 
-- (a)[^key-94e848fb17adc975a4d2f1ad8be870e8] from such date before 27th December 1993 as the Secretary of State may in any particular case determine, on the day, for the period and, subject to paragraph (13A), in the manner determined by the Secretary of State;
+- (a)[^c-94e848fb17adc975a4d2f1ad8be870e8] from such date before 27th December 1993 as the Secretary of State may in any particular case determine, on the day, for the period and, subject to paragraph (13A), in the manner determined by the Secretary of State;
 - (b) until that date, on such days, at such intervals and in such manner as the former awards of attendance allowance and mobility allowance were paid.
 
-(13A)[^key-55179c5364afccf5487d1a8e8ca4d94f] Where the person to whom the allowance is payable (whether for himself or another)[^key-53df2bb11755f04b36ed43b31f526ad2] has within 4 weeks of receiving notice of the Secretary of State’s determination under paragraph (13)(a) made an election which has been approved by the Secretary of State that he wishes the allowance to be paid in a manner other than that determined under paragraph (13)(a), the allowance shall be paid in the manner specified in the election from a date determined by the Secretary of State.
+(13A)[^c-55179c5364afccf5487d1a8e8ca4d94f] Where the person to whom the allowance is payable (whether for himself or another)[^c-53df2bb11755f04b36ed43b31f526ad2] has within 4 weeks of receiving notice of the Secretary of State’s determination under paragraph (13)(a) made an election which has been approved by the Secretary of State that he wishes the allowance to be paid in a manner other than that determined under paragraph (13)(a), the allowance shall be paid in the manner specified in the election from a date determined by the Secretary of State.
 
 (14) Where a person who has not attained the age of 65 on 6th April 1992—
 
@@ -674,11 +674,11 @@ and that award is for a period commencing before 6th April 1992, both the attend
 
 (3) Where on 5th April 1992 a person holds an appointment in respect of a child under regulation 43 of the Claims and Payments Regulations (mobility allowance) and that person is different from the person mentioned in paragraph (1) as being entitled to an attendance allowance in respect of that same child, then that appointment shall terminate on 6th April 1992 and the Secretary of State shall make a new appointment under regulation 43 of the Claims and Payments Regulations to take effect on that day.
 
-(3A)[^key-21482a3c1130d3d953fa694c4d831077] In this regulation “the Claims and Payments Regulations” means the Social Security (Claims and Payments) Regulations 1987 .
+(3A)[^c-21482a3c1130d3d953fa694c4d831077] In this regulation “the Claims and Payments Regulations” means the Social Security (Claims and Payments) Regulations 1987 .
 
 (4)[^M_F_109c308c-df71-45d7-c106-119ca5c79a5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-d2eaf9cf77e7519b8754905cc62406a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d2eaf9cf77e7519b8754905cc62406a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority of the Secretary of State for Social Security.
 
@@ -722,7 +722,7 @@ Part V relates to claims, payments and adjudication. Regulation 15 contains a de
 
 [^c1852686]: Marginal citation: [1986 c.50](https://www.legislation.gov.uk/ukpga/1986/50).
 
-[^key-949b76ca2a3d6f0c69eb91b4c08d7055]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1991/2891/regulation/1/2) omitted (25.11.1993) by virtue of [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No. 3) Regulations 1993 (S.I. 1993/2704)](https://www.legislation.gov.uk/uksi/1993/2704), [regs. 1](https://www.legislation.gov.uk/uksi/1993/2704/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1993/2704/regulation/2/2)
+[^c-949b76ca2a3d6f0c69eb91b4c08d7055]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1991/2891/regulation/1/2) omitted (25.11.1993) by virtue of [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No. 3) Regulations 1993 (S.I. 1993/2704)](https://www.legislation.gov.uk/uksi/1993/2704), [regs. 1](https://www.legislation.gov.uk/uksi/1993/2704/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1993/2704/regulation/2/2)
 
 [^c1852687]: Marginal citation: [S.I. 1986/2218](https://www.legislation.gov.uk/uksi/1986/2218).
 
@@ -730,29 +730,29 @@ Part V relates to claims, payments and adjudication. Regulation 15 contains a de
 
 [^c1852689]: Marginal citation: [S.I. 1986/2218](https://www.legislation.gov.uk/uksi/1986/2218).
 
-[^key-a2cd6b08c3ef7172bb5dafcbe52f2608]: Textual amendment: Words in reg. 13(1) substituted (1.4.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/408)](https://www.legislation.gov.uk/uksi/1993/408), [regs. 1](https://www.legislation.gov.uk/uksi/1993/408/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/1993/408/regulation/2/2/a/ii)
+[^c-a2cd6b08c3ef7172bb5dafcbe52f2608]: Textual amendment: Words in reg. 13(1) substituted (1.4.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/408)](https://www.legislation.gov.uk/uksi/1993/408), [regs. 1](https://www.legislation.gov.uk/uksi/1993/408/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/1993/408/regulation/2/2/a/ii)
 
-[^key-d9be86f75111830c6fe0a00f615aaba4]: Textual amendment: Words in reg. 13(1) substituted (1.4.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/408)](https://www.legislation.gov.uk/uksi/1993/408), [regs. 1](https://www.legislation.gov.uk/uksi/1993/408/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/1993/408/regulation/2/2/a/i)
+[^c-d9be86f75111830c6fe0a00f615aaba4]: Textual amendment: Words in reg. 13(1) substituted (1.4.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/408)](https://www.legislation.gov.uk/uksi/1993/408), [regs. 1](https://www.legislation.gov.uk/uksi/1993/408/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/1993/408/regulation/2/2/a/i)
 
-[^key-5b6e0e0b4d87d990529de2292c951707]: Textual amendment: Words in reg. 13(1) inserted (6.8.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No.2) Regulations 1993 (S.I. 1993/1739)](https://www.legislation.gov.uk/uksi/1993/1739), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/2/3/a)
+[^c-5b6e0e0b4d87d990529de2292c951707]: Textual amendment: Words in reg. 13(1) inserted (6.8.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No.2) Regulations 1993 (S.I. 1993/1739)](https://www.legislation.gov.uk/uksi/1993/1739), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/2/3/a)
 
-[^key-5bc281fdc372238eac15c8bbf3d12992]: Textual amendment: Reg. 13(1A) inserted (6.8.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No.2) Regulations 1993 (S.I. 1993/1739)](https://www.legislation.gov.uk/uksi/1993/1739), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/2/3/b)
+[^c-5bc281fdc372238eac15c8bbf3d12992]: Textual amendment: Reg. 13(1A) inserted (6.8.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No.2) Regulations 1993 (S.I. 1993/1739)](https://www.legislation.gov.uk/uksi/1993/1739), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/2/3/b)
 
-[^key-119238ff398417981cf4b8b1193487df]: Textual amendment: Words in reg. 13(2) substituted (1.4.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/408)](https://www.legislation.gov.uk/uksi/1993/408), [regs. 1](https://www.legislation.gov.uk/uksi/1993/408/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/1993/408/regulation/2/2/b)
+[^c-119238ff398417981cf4b8b1193487df]: Textual amendment: Words in reg. 13(2) substituted (1.4.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/408)](https://www.legislation.gov.uk/uksi/1993/408), [regs. 1](https://www.legislation.gov.uk/uksi/1993/408/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/1993/408/regulation/2/2/b)
 
-[^key-2104f73d27846a88d0dcb083b1b49974]: Textual amendment: Reg. 13(2)(c) omitted (6.8.1993) by virtue of [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No.2) Regulations 1993 (S.I. 1993/1739)](https://www.legislation.gov.uk/uksi/1993/1739), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/2/3/c)
+[^c-2104f73d27846a88d0dcb083b1b49974]: Textual amendment: Reg. 13(2)(c) omitted (6.8.1993) by virtue of [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No.2) Regulations 1993 (S.I. 1993/1739)](https://www.legislation.gov.uk/uksi/1993/1739), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/2/3/c)
 
-[^key-edec34795d1a6df596db4abbecc42598]: Textual amendment: Reg. 13(2A)-(2E) inserted (6.8.1993) by virtue of[The Social Security (Introduction of Disability Living Allowance) (Amendment) (No.2) Regulations 1993 (S.I. 1993/1739)](https://www.legislation.gov.uk/uksi/1993/1739), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/1/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/2/3/d)
+[^c-edec34795d1a6df596db4abbecc42598]: Textual amendment: Reg. 13(2A)-(2E) inserted (6.8.1993) by virtue of[The Social Security (Introduction of Disability Living Allowance) (Amendment) (No.2) Regulations 1993 (S.I. 1993/1739)](https://www.legislation.gov.uk/uksi/1993/1739), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/1/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/2/3/d)
 
-[^key-b3b99bb2031dd2a049ebb275c9772c0b]: Textual amendment: Words in reg. 13(3) substituted (25.11.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No. 3) Regulations 1993 (S.I. 1993/2704)](https://www.legislation.gov.uk/uksi/1993/2704), [regs. 1](https://www.legislation.gov.uk/uksi/1993/2704/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1993/2704/regulation/2/3)
+[^c-b3b99bb2031dd2a049ebb275c9772c0b]: Textual amendment: Words in reg. 13(3) substituted (25.11.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No. 3) Regulations 1993 (S.I. 1993/2704)](https://www.legislation.gov.uk/uksi/1993/2704), [regs. 1](https://www.legislation.gov.uk/uksi/1993/2704/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1993/2704/regulation/2/3)
 
-[^key-55e9a4ba687029d213c9019cff63c58f]: Textual amendment: Reg. 13(3A) inserted (6.8.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No.2) Regulations 1993 (S.I. 1993/1739)](https://www.legislation.gov.uk/uksi/1993/1739), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/1/1), [2(3)(e)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/2/3/e)
+[^c-55e9a4ba687029d213c9019cff63c58f]: Textual amendment: Reg. 13(3A) inserted (6.8.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No.2) Regulations 1993 (S.I. 1993/1739)](https://www.legislation.gov.uk/uksi/1993/1739), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/1/1), [2(3)(e)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/2/3/e)
 
 [^c1852690]: Marginal citation: [S.I. 1986/2218](https://www.legislation.gov.uk/uksi/1986/2218); [regulation 53](https://www.legislation.gov.uk/uksi/1991/2891/regulation/53) was amended by regulation 2(2) and (3) of [S.I. 1988/1725](https://www.legislation.gov.uk/uksi/1988/1725) and regulation 3 of [S.I. 1989/1689](https://www.legislation.gov.uk/uksi/1989/1689).
 
 [^c1852691]: Marginal citation: [Section 1OOA](https://www.legislation.gov.uk/uksi/1991/2891/section/1OOA) was inserted by the [Disability Living Allowance and Disability Working Allowance Act 1991 (c.21)](https://www.legislation.gov.uk/ukpga/1991/21), [Schedule 1](https://www.legislation.gov.uk/ukpga/1991/21/schedule/1), [paragraph 5](https://www.legislation.gov.uk/ukpga/1991/21/paragraph/5).
 
-[^key-dcc5b012b170285c5a6ceb974e7c9e38]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/uksi/1991/2891/regulation/16/5) substituted (1.1.1996) by [The Transfer of Functions (Education and Employment) Order 1995 (S.I. 1995/2986)](https://www.legislation.gov.uk/uksi/1995/2986), [arts. 1](https://www.legislation.gov.uk/uksi/1995/2986/article/1), [6(5)](https://www.legislation.gov.uk/uksi/1995/2986/article/6/5)
+[^c-dcc5b012b170285c5a6ceb974e7c9e38]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/uksi/1991/2891/regulation/16/5) substituted (1.1.1996) by [The Transfer of Functions (Education and Employment) Order 1995 (S.I. 1995/2986)](https://www.legislation.gov.uk/uksi/1995/2986), [arts. 1](https://www.legislation.gov.uk/uksi/1995/2986/article/1), [6(5)](https://www.legislation.gov.uk/uksi/1995/2986/article/6/5)
 
 [^c1852692]: Marginal citation: Section 37ZE was inserted in the [Social Security Act 1975 (c. 14)](https://www.legislation.gov.uk/ukpga/1975/14) by the [Disability Living Allowance and Disability Working Allowance Act 1991 (c.21)](https://www.legislation.gov.uk/ukpga/1991/21), [section 1](https://www.legislation.gov.uk/ukpga/1991/21/section/1).
 
@@ -766,7 +766,7 @@ Part V relates to claims, payments and adjudication. Regulation 15 contains a de
 
 [^c1852693]: Marginal citation: [S.I. 1986/2218](https://www.legislation.gov.uk/uksi/1986/2218); regulation 53 was amended by regulation 2(2) and (3) of [S.I. 1988/1725](https://www.legislation.gov.uk/uksi/1988/1725) and regulation 3 of [S.I. 1989/1689](https://www.legislation.gov.uk/uksi/1989/1689).
 
-[^key-ce2b121e3e909490ffe391432ca20ff0]: Textual amendment: Words in reg. 24(4)(d)(ii) omitted (7.2.2013) by virtue of [The Public Bodies (Abolition of the Disability Living Allowance Advisory Board) Order 2013 (S.I. 2013/252)](https://www.legislation.gov.uk/uksi/2013/252), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/252/article/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/252/schedule/part/2)
+[^c-ce2b121e3e909490ffe391432ca20ff0]: Textual amendment: Words in reg. 24(4)(d)(ii) omitted (7.2.2013) by virtue of [The Public Bodies (Abolition of the Disability Living Allowance Advisory Board) Order 2013 (S.I. 2013/252)](https://www.legislation.gov.uk/uksi/2013/252), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/252/article/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/252/schedule/part/2)
 
 [^c1852694]: Marginal citation: [S.I. 1986/2218](https://www.legislation.gov.uk/uksi/1986/2218).
 
@@ -774,26 +774,26 @@ Part V relates to claims, payments and adjudication. Regulation 15 contains a de
 
 [^c1852696]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
 
-[^key-f17a827080e029f00daac1845ecc063c]: Textual amendment: Words in reg. 26(3) substituted (1.4.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/408)](https://www.legislation.gov.uk/uksi/1993/408), [regs. 1](https://www.legislation.gov.uk/uksi/1993/408/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/1993/408/regulation/2/3/a)
+[^c-f17a827080e029f00daac1845ecc063c]: Textual amendment: Words in reg. 26(3) substituted (1.4.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/408)](https://www.legislation.gov.uk/uksi/1993/408), [regs. 1](https://www.legislation.gov.uk/uksi/1993/408/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/1993/408/regulation/2/3/a)
 
-[^key-d3745ba299c88cb20b41ae55cce8b1c4]: Textual amendment: Words in reg. 26(9) substituted (1.4.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/408)](https://www.legislation.gov.uk/uksi/1993/408), [regs. 1](https://www.legislation.gov.uk/uksi/1993/408/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/1993/408/regulation/2/3/a)
+[^c-d3745ba299c88cb20b41ae55cce8b1c4]: Textual amendment: Words in reg. 26(9) substituted (1.4.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/408)](https://www.legislation.gov.uk/uksi/1993/408), [regs. 1](https://www.legislation.gov.uk/uksi/1993/408/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/1993/408/regulation/2/3/a)
 
-[^key-07212c55e3669211397bc0ad1aea7c0a]: Textual amendment: Words in reg. 26(10) substituted (1.4.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/408)](https://www.legislation.gov.uk/uksi/1993/408), [regs. 1](https://www.legislation.gov.uk/uksi/1993/408/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/1993/408/regulation/2/3/a)
+[^c-07212c55e3669211397bc0ad1aea7c0a]: Textual amendment: Words in reg. 26(10) substituted (1.4.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/408)](https://www.legislation.gov.uk/uksi/1993/408), [regs. 1](https://www.legislation.gov.uk/uksi/1993/408/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/1993/408/regulation/2/3/a)
 
-[^key-de201445b7bada3229d1a32e3fa18742]: Textual amendment: Reg. 26(12) substituted (6.8.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No.2) Regulations 1993 (S.I. 1993/1739)](https://www.legislation.gov.uk/uksi/1993/1739), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/2/4/a)
+[^c-de201445b7bada3229d1a32e3fa18742]: Textual amendment: Reg. 26(12) substituted (6.8.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No.2) Regulations 1993 (S.I. 1993/1739)](https://www.legislation.gov.uk/uksi/1993/1739), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/2/4/a)
 
-[^key-7cf827caa562f2286acc03978b5f8811]: Textual amendment: Words in reg. 26(12)(a)(ii) inserted (25.11.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No. 3) Regulations 1993 (S.I. 1993/2704)](https://www.legislation.gov.uk/uksi/1993/2704), [regs. 1](https://www.legislation.gov.uk/uksi/1993/2704/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/1993/2704/regulation/2/4/a)
+[^c-7cf827caa562f2286acc03978b5f8811]: Textual amendment: Words in reg. 26(12)(a)(ii) inserted (25.11.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No. 3) Regulations 1993 (S.I. 1993/2704)](https://www.legislation.gov.uk/uksi/1993/2704), [regs. 1](https://www.legislation.gov.uk/uksi/1993/2704/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/1993/2704/regulation/2/4/a)
 
-[^key-94e848fb17adc975a4d2f1ad8be870e8]: Textual amendment: Reg. 26(13)(a) substituted (6.8.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No.2) Regulations 1993 (S.I. 1993/1739)](https://www.legislation.gov.uk/uksi/1993/1739), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/2/4/b)
+[^c-94e848fb17adc975a4d2f1ad8be870e8]: Textual amendment: Reg. 26(13)(a) substituted (6.8.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No.2) Regulations 1993 (S.I. 1993/1739)](https://www.legislation.gov.uk/uksi/1993/1739), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/2/4/b)
 
-[^key-55179c5364afccf5487d1a8e8ca4d94f]: Textual amendment: Reg. 26(13A) inserted (6.8.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No.2) Regulations 1993 (S.I. 1993/1739)](https://www.legislation.gov.uk/uksi/1993/1739), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/2/4/c)
+[^c-55179c5364afccf5487d1a8e8ca4d94f]: Textual amendment: Reg. 26(13A) inserted (6.8.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No.2) Regulations 1993 (S.I. 1993/1739)](https://www.legislation.gov.uk/uksi/1993/1739), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/2/4/c)
 
-[^key-53df2bb11755f04b36ed43b31f526ad2]: Textual amendment: Words in reg. 26(13A) substituted (25.11.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No. 3) Regulations 1993 (S.I. 1993/2704)](https://www.legislation.gov.uk/uksi/1993/2704), [regs. 1](https://www.legislation.gov.uk/uksi/1993/2704/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/1993/2704/regulation/2/4/b)
+[^c-53df2bb11755f04b36ed43b31f526ad2]: Textual amendment: Words in reg. 26(13A) substituted (25.11.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No. 3) Regulations 1993 (S.I. 1993/2704)](https://www.legislation.gov.uk/uksi/1993/2704), [regs. 1](https://www.legislation.gov.uk/uksi/1993/2704/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/1993/2704/regulation/2/4/b)
 
 [^M_F_3ee398ff-08ea-444e-cff5-11b1ef6ebf0b]: Textual amendment: Words in reg. 27 substituted (16.3.92) by [S.I. 1992/728](https://www.legislation.gov.uk/uksi/1992/728), [reg. 1](https://www.legislation.gov.uk/uksi/1992/728/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/1992/728/regulation/5/a)
 
-[^key-21482a3c1130d3d953fa694c4d831077]: Textual amendment: Reg. 27(3A) added (25.11.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No. 3) Regulations 1993 (S.I. 1993/2704)](https://www.legislation.gov.uk/uksi/1993/2704), [regs. 1](https://www.legislation.gov.uk/uksi/1993/2704/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/1993/2704/regulation/2/5)
+[^c-21482a3c1130d3d953fa694c4d831077]: Textual amendment: Reg. 27(3A) added (25.11.1993) by [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No. 3) Regulations 1993 (S.I. 1993/2704)](https://www.legislation.gov.uk/uksi/1993/2704), [regs. 1](https://www.legislation.gov.uk/uksi/1993/2704/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/1993/2704/regulation/2/5)
 
 [^M_F_109c308c-df71-45d7-c106-119ca5c79a5f]: Textual amendment: Reg. 27(4) omitted (16.3.92) by [S.I. 1992/728](https://www.legislation.gov.uk/uksi/1992/728), [reg. 1](https://www.legislation.gov.uk/uksi/1992/728/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/1992/728/regulation/5/b)
 
-[^key-d2eaf9cf77e7519b8754905cc62406a0]: Textual amendment: Reg. 27(5) omitted (6.8.1993) by virtue of [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No.2) Regulations 1993 (S.I. 1993/1739)](https://www.legislation.gov.uk/uksi/1993/1739), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/2/5)
+[^c-d2eaf9cf77e7519b8754905cc62406a0]: Textual amendment: Reg. 27(5) omitted (6.8.1993) by virtue of [The Social Security (Introduction of Disability Living Allowance) (Amendment) (No.2) Regulations 1993 (S.I. 1993/1739)](https://www.legislation.gov.uk/uksi/1993/1739), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/1993/1739/regulation/2/5)

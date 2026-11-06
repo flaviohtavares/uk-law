@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2[^key-80a672c1843a040a5746d5e5d2c29624]
+## SCHEDULE 2[^c-80a672c1843a040a5746d5e5d2c29624]
 
 *Extent: E+W*
 
@@ -44,13 +44,13 @@ Regulation 2(2)
 | National Assistance (Assessment of Resources) (Amendment) Regulations 1998 | [S.I. 1998/497](https://www.legislation.gov.uk/uksi/1998/497) | The whole Regulations as they apply in relation to Wales |
 | National Assistance (Assessment of Resources) (Amendment No. 2) Regulations 1998 | [S.I. 1998/1730](https://www.legislation.gov.uk/uksi/1998/1730) | The whole Regulations as the apply in relation to Wales |
 | Children Act 1989, Section 17(12) Regulations 2003 | [S.I. 2003/2077](https://www.legislation.gov.uk/uksi/2003/2077) | The whole Regulations as they apply in relation to Wales |
-| [^key-5de033e00c6e3a85ed1a8e1e34040678]. . . | [^key-5de033e00c6e3a85ed1a8e1e34040678]. . . | [^key-5de033e00c6e3a85ed1a8e1e34040678]. . . |
-| [^key-ea60a034bf8802da4ae2e28fb2d2fe13]. . . | [^key-ea60a034bf8802da4ae2e28fb2d2fe13]. . . | [^key-ea60a034bf8802da4ae2e28fb2d2fe13]. . . |
+| [^c-5de033e00c6e3a85ed1a8e1e34040678]. . . | [^c-5de033e00c6e3a85ed1a8e1e34040678]. . . | [^c-5de033e00c6e3a85ed1a8e1e34040678]. . . |
+| [^c-ea60a034bf8802da4ae2e28fb2d2fe13]. . . | [^c-ea60a034bf8802da4ae2e28fb2d2fe13]. . . | [^c-ea60a034bf8802da4ae2e28fb2d2fe13]. . . |
 
 ## Annotations
 
-[^key-80a672c1843a040a5746d5e5d2c29624]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2016/211/schedule/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2)
+[^c-80a672c1843a040a5746d5e5d2c29624]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2016/211/schedule/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2)
 
-[^key-5de033e00c6e3a85ed1a8e1e34040678]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2016/211/schedule/2) omitted (5.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) (Amendment) Regulations 2016 (S.I. 2016/351)](https://www.legislation.gov.uk/wsi/2016/351), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/351/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2016/351/regulation/2/2/a)
+[^c-5de033e00c6e3a85ed1a8e1e34040678]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2016/211/schedule/2) omitted (5.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) (Amendment) Regulations 2016 (S.I. 2016/351)](https://www.legislation.gov.uk/wsi/2016/351), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/351/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2016/351/regulation/2/2/a)
 
-[^key-ea60a034bf8802da4ae2e28fb2d2fe13]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2016/211/schedule/2) omitted (5.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) (Amendment) Regulations 2016 (S.I. 2016/351)](https://www.legislation.gov.uk/wsi/2016/351), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/351/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2016/351/regulation/2/2/b)
+[^c-ea60a034bf8802da4ae2e28fb2d2fe13]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2016/211/schedule/2) omitted (5.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) (Amendment) Regulations 2016 (S.I. 2016/351)](https://www.legislation.gov.uk/wsi/2016/351), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/351/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2016/351/regulation/2/2/b)

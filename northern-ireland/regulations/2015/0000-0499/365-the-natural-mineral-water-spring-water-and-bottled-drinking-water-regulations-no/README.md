@@ -46,7 +46,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 In accordance with Article 47(3A) of the Food Safety (Northern Ireland) Order 1991, the Department of Health, Social Services and Public Safety has taken into account relevant advice given by the Food Standards Agency.
 
-There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c22616311].[^key-f5834ef5d9606232e246172a3a4b0405]
+There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c22616311].[^c-f5834ef5d9606232e246172a3a4b0405]
 
 ## Contents
 
@@ -185,4 +185,4 @@ The Regulations—
 
 [^c22616311]: Marginal citation: OJ No L 31, 1.2.02, p 1, last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council (OJ No L 189, 27.6.2014 p 1)
 
-[^key-f5834ef5d9606232e246172a3a4b0405]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2015/365) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-f5834ef5d9606232e246172a3a4b0405]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2015/365) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)

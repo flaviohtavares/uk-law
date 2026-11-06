@@ -31,7 +31,7 @@ summary: ''
 
 UNITED NATIONS
 
-The Terrorism (United Nations Measures) Order 2001 (Amendment) Regulations 2003 (revoked)[^key-fc7c3b55a5617148ba5f0c1b013d79e3]
+The Terrorism (United Nations Measures) Order 2001 (Amendment) Regulations 2003 (revoked)[^c-fc7c3b55a5617148ba5f0c1b013d79e3]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 4th June 2003
 
-[^key-fc7c3b55a5617148ba5f0c1b013d79e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc7c3b55a5617148ba5f0c1b013d79e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-fc7c3b55a5617148ba5f0c1b013d79e3]
+## 1. Citation, commencement and interpretation[^c-fc7c3b55a5617148ba5f0c1b013d79e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Order[^key-fc7c3b55a5617148ba5f0c1b013d79e3]
+## 2. Amendment to the Order[^c-fc7c3b55a5617148ba5f0c1b013d79e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-fc7c3b55a5617148ba5f0c1b013d79e3]
+## 3.[^c-fc7c3b55a5617148ba5f0c1b013d79e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fc7c3b55a5617148ba5f0c1b013d79e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc7c3b55a5617148ba5f0c1b013d79e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fc7c3b55a5617148ba5f0c1b013d79e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc7c3b55a5617148ba5f0c1b013d79e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fc7c3b55a5617148ba5f0c1b013d79e3]: Textual amendment: Regulations revoked (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/1)
+[^c-fc7c3b55a5617148ba5f0c1b013d79e3]: Textual amendment: Regulations revoked (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/1)

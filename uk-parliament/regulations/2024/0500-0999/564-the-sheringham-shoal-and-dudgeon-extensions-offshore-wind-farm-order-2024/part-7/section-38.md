@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Abatement of works abandoned or decayed[^key-0d71db931c86a64b8e0204f40c818c56]
+## 38. Abatement of works abandoned or decayed[^c-0d71db931c86a64b8e0204f40c818c56]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d71db931c86a64b8e0204f40c818c56]: Commencement: Art. 38 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-0d71db931c86a64b8e0204f40c818c56]: Commencement: Art. 38 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)

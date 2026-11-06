@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Enabling or facilitating the conduct of armed hostilities[^key-08d8e6acb041fb7f6c2d448673b90948][^key-318b77af76e9b0360560997283312a95]
+## 27. Enabling or facilitating the conduct of armed hostilities[^c-08d8e6acb041fb7f6c2d448673b90948][^c-318b77af76e9b0360560997283312a95]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ where such provision enables or facilitates the conduct of armed hostilities.
 
 ## Annotations
 
-[^key-08d8e6acb041fb7f6c2d448673b90948]: Commencement: Reg. 27 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-08d8e6acb041fb7f6c2d448673b90948]: Commencement: Reg. 27 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-318b77af76e9b0360560997283312a95]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2020/1278/regulation/27) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-318b77af76e9b0360560997283312a95]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2020/1278/regulation/27) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

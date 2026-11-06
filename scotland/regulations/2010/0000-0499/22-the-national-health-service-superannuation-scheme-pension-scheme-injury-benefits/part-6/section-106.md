@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Option to persons detrimentally affected by these Regulations[^key-f8a08d1ae686a33eb785916018de2486]
+## 106. Option to persons detrimentally affected by these Regulations[^c-f8a08d1ae686a33eb785916018de2486]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8a08d1ae686a33eb785916018de2486]: Commencement: Reg. 106 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-f8a08d1ae686a33eb785916018de2486]: Commencement: Reg. 106 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.48. Certificate of summary administration[^key-06e85268f0c95c8a2ef3b552c89b04bb]
+## 6.48. Certificate of summary administration[^c-06e85268f0c95c8a2ef3b552c89b04bb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06e85268f0c95c8a2ef3b552c89b04bb]: Textual amendment: Rules 6.48-6.50 revoked (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/34) (with [rule 9(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/9/2))
+[^c-06e85268f0c95c8a2ef3b552c89b04bb]: Textual amendment: Rules 6.48-6.50 revoked (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/34) (with [rule 9(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/9/2))

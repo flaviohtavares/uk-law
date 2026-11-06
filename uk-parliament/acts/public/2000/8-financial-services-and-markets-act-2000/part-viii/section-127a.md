@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127A. Consultation with the PRA in relation to administrative sanctions[^key-adb0c76aece60a270c4ed5c3b9b7d526]
+## 127A. Consultation with the PRA in relation to administrative sanctions[^c-adb0c76aece60a270c4ed5c3b9b7d526]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adb0c76aece60a270c4ed5c3b9b7d526]: Textual amendment: S. 127A inserted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(9)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/9)
+[^c-adb0c76aece60a270c4ed5c3b9b7d526]: Textual amendment: S. 127A inserted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(9)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 11 — REVOCATIONS[^key-bd11561da08e2ecdc01a62801dcc99f0]
+## SCHEDULE 11 — REVOCATIONS[^c-bd11561da08e2ecdc01a62801dcc99f0]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Regulation 41
 
 ## Annotations
 
-[^key-bd11561da08e2ecdc01a62801dcc99f0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/3468) revoked (16.3.2007) by [The Producer Responsibility Obligations (Packaging Waste) Regulations 2007 (S.I. 2007/871)](https://www.legislation.gov.uk/uksi/2007/871), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/871/regulation/1/1), [41(1)](https://www.legislation.gov.uk/uksi/2007/871/regulation/41/1) (with [reg. 41(2)](https://www.legislation.gov.uk/uksi/2007/871/regulation/41/2)[(3)](https://www.legislation.gov.uk/uksi/2007/871/regulation/41/3))
+[^c-bd11561da08e2ecdc01a62801dcc99f0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/3468) revoked (16.3.2007) by [The Producer Responsibility Obligations (Packaging Waste) Regulations 2007 (S.I. 2007/871)](https://www.legislation.gov.uk/uksi/2007/871), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/871/regulation/1/1), [41(1)](https://www.legislation.gov.uk/uksi/2007/871/regulation/41/1) (with [reg. 41(2)](https://www.legislation.gov.uk/uksi/2007/871/regulation/41/2)[(3)](https://www.legislation.gov.uk/uksi/2007/871/regulation/41/3))

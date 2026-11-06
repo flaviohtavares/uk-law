@@ -44,7 +44,7 @@ Coming into force
 
 1st December 2017
 
-The President of the Family Division (the judicial office holder nominated by the Lord Chief Justice), being President of the Court of Protection, makes the following Rules in exercise of the powers conferred by sections 49(5), 50(2), 51, 53(2) and (4), 55, 56 and 65(1) of the Mental Capacity Act 2005 [^c23071541], and in accordance with Part 1 of Schedule 1 to the Constitutional Reform Act 2005 [^c23071551].[^key-7293b502244f2d7f464759dfe416be33]
+The President of the Family Division (the judicial office holder nominated by the Lord Chief Justice), being President of the Court of Protection, makes the following Rules in exercise of the powers conferred by sections 49(5), 50(2), 51, 53(2) and (4), 55, 56 and 65(1) of the Mental Capacity Act 2005 [^c23071541], and in accordance with Part 1 of Schedule 1 to the Constitutional Reform Act 2005 [^c23071551].[^c-7293b502244f2d7f464759dfe416be33]
 
 ## Contents
 
@@ -180,7 +180,7 @@ The President of the Family Division (the judicial office holder nominated by th
 
 - [Section 20 — Scope of this Part](part-20/section-20.md)
 
-### PART 21 — APPLICATIONS AND PROCEEDINGS IN RELATION TO CONTEMPT OF COURT[^key-d301ac6fb80ebdbaa10b54f971c927c8]
+### PART 21 — APPLICATIONS AND PROCEEDINGS IN RELATION TO CONTEMPT OF COURT[^c-d301ac6fb80ebdbaa10b54f971c927c8]
 
 - [Section 21.1 — Scope](part-21/section-21-1.md)
 - [Section 21.2 — Interpretation](part-21/section-21-2.md)
@@ -323,7 +323,7 @@ Contents of this Part
 </tbody>
 </table>
 
-[^key-0315b383eeef4ff70321758f60296b33][^key-0315b383eeef4ff70321758f60296b33]
+[^c-0315b383eeef4ff70321758f60296b33][^c-0315b383eeef4ff70321758f60296b33]
 
 *Extent: E+W*
 
@@ -482,7 +482,7 @@ Contents of this Part
 </tbody>
 </table>
 
-[^key-e7ac51ccc2a2b1d60351c882271acd15][^key-e7ac51ccc2a2b1d60351c882271acd15][^key-e7ac51ccc2a2b1d60351c882271acd15][^key-e7ac51ccc2a2b1d60351c882271acd15]
+[^c-e7ac51ccc2a2b1d60351c882271acd15][^c-e7ac51ccc2a2b1d60351c882271acd15][^c-e7ac51ccc2a2b1d60351c882271acd15][^c-e7ac51ccc2a2b1d60351c882271acd15]
 
 *Extent: E+W*
 
@@ -600,7 +600,7 @@ Contents of this Part
 
 *Extent: E+W*
 
-Contents of this Part[^key-d301ac6fb80ebdbaa10b54f971c927c8]
+Contents of this Part[^c-d301ac6fb80ebdbaa10b54f971c927c8]
 
 | Title | Rule number |
 | --- | --- |
@@ -683,10 +683,10 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23071551]: Marginal citation: [2005 c. 4](https://www.legislation.gov.uk/ukpga/2005/4).
 
-[^key-7293b502244f2d7f464759dfe416be33]: Modification: Rules continued in part (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/100/regulation/3)
+[^c-7293b502244f2d7f464759dfe416be33]: Modification: Rules continued in part (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/100/regulation/3)
 
-[^key-d301ac6fb80ebdbaa10b54f971c927c8]: Textual amendment: Pt. 21 substituted (1.1.2023) by [The Court of Protection (Amendment) Rules 2022 (S.I. 2022/1192)](https://www.legislation.gov.uk/uksi/2022/1192), [rule 1(1)](https://www.legislation.gov.uk/uksi/2022/1192/rule/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/1192/schedule)
+[^c-d301ac6fb80ebdbaa10b54f971c927c8]: Textual amendment: Pt. 21 substituted (1.1.2023) by [The Court of Protection (Amendment) Rules 2022 (S.I. 2022/1192)](https://www.legislation.gov.uk/uksi/2022/1192), [rule 1(1)](https://www.legislation.gov.uk/uksi/2022/1192/rule/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/1192/schedule)
 
-[^key-0315b383eeef4ff70321758f60296b33]: Textual amendment: Words in Pt. 6 Table omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [30(2)](https://www.legislation.gov.uk/uksi/2019/517/regulation/30/2) (with [reg. 33](https://www.legislation.gov.uk/uksi/2019/517/regulation/33)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(h)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/h)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0315b383eeef4ff70321758f60296b33]: Textual amendment: Words in Pt. 6 Table omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [30(2)](https://www.legislation.gov.uk/uksi/2019/517/regulation/30/2) (with [reg. 33](https://www.legislation.gov.uk/uksi/2019/517/regulation/33)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(h)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/h)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e7ac51ccc2a2b1d60351c882271acd15]: Textual amendment: Words in Pt. 14 Table omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2019/517/regulation/32/2) (with [reg. 33](https://www.legislation.gov.uk/uksi/2019/517/regulation/33)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(h)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/h)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e7ac51ccc2a2b1d60351c882271acd15]: Textual amendment: Words in Pt. 14 Table omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2019/517/regulation/32/2) (with [reg. 33](https://www.legislation.gov.uk/uksi/2019/517/regulation/33)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(h)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/h)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Defences.[^c9546401][^key-03f780a02e4c03c0cd024e83136ff4e5][^key-02107bbc66a0fb3ac15817e62653d561][^key-75e09a126c0ba84ebca859030a9632c6][^key-0afb22b2fb9e6097d9eb56db1590cefa]
+## 50. Defences.[^c9546401][^c-03f780a02e4c03c0cd024e83136ff4e5][^c-02107bbc66a0fb3ac15817e62653d561][^c-75e09a126c0ba84ebca859030a9632c6][^c-0afb22b2fb9e6097d9eb56db1590cefa]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,7 +59,7 @@ and (where the consent was given by an appropriate person) that written notice h
   - (ii) was so given in sufficient time to enable the inclusion in the publication of the matter in question to be prevented; or
 - (b) subsection (8) applies.
 
-(6A)[^key-245914bde5007ec912afbb2b4791da3a] Where—
+(6A)[^c-245914bde5007ec912afbb2b4791da3a] Where—
 
 - (a) a person is charged with an offence under section 49, and
 - (b) the offence relates to the inclusion of any matter in a publication in contravention of a direction under section 45A(2),
@@ -75,7 +75,7 @@ it shall be a defence, unless subsection (6B) or (8) applies, to prove that the 
 
 it shall be a defence, unless subsection (8) applies, to prove that the person in relation to whom the direction was given had given written consent to the inclusion of that matter in the publication.
 
-(8) Written consent is not a defence by virtue of subsections (5) to (7)[^key-41395dd16c7fac073aaa9d5489d25529] if it is proved that any person interfered—
+(8) Written consent is not a defence by virtue of subsections (5) to (7)[^c-41395dd16c7fac073aaa9d5489d25529] if it is proved that any person interfered—
 
 - (a) with the peace or comfort of the person giving the consent, or
 - (b) (where the consent was given by an appropriate person) with the peace or comfort of either that person or the protected person,
@@ -91,7 +91,7 @@ with intent to obtain the consent.
   - (a) (in England and Wales) the [^c9546431]Children Act 1989, or
   - (b) (in Northern Ireland) the [^c9546441]Children (Northern Ireland) Order 1995.
 
-(10) Where the protected person is (within the meaning of the Children Act 1989 or the Social Services and Well-being (Wales) Act 2014[^key-8a08af8641c49254b239362e7edddccd]) a child who is looked after by a local authority, “**an appropriate person**” means a person who is—
+(10) Where the protected person is (within the meaning of the Children Act 1989 or the Social Services and Well-being (Wales) Act 2014[^c-8a08af8641c49254b239362e7edddccd]) a child who is looked after by a local authority, “**an appropriate person**” means a person who is—
 
 - (a) a representative of that authority, or
 - (b) a parent or guardian of the protected person with whom the protected person is allowed to live.
@@ -120,19 +120,19 @@ and for this purpose “**person**” includes a body of persons and a partnersh
 
 [^c9546401]: Commencement: Pt. II Chs. 1-4 (ss. 16-52) in force for certain purposes at Royal Assent, see s. 68(4)
 
-[^key-03f780a02e4c03c0cd024e83136ff4e5]: Commencement: S. 50 in force at 7.10.2004 for specified purposes for E.W. by [S.I. 2004/2428](https://www.legislation.gov.uk/uksi/2004/2428), [art. 2(c)](https://www.legislation.gov.uk/uksi/2004/2428/article/2/c)
+[^c-03f780a02e4c03c0cd024e83136ff4e5]: Commencement: S. 50 in force at 7.10.2004 for specified purposes for E.W. by [S.I. 2004/2428](https://www.legislation.gov.uk/uksi/2004/2428), [art. 2(c)](https://www.legislation.gov.uk/uksi/2004/2428/article/2/c)
 
-[^key-02107bbc66a0fb3ac15817e62653d561]: Commencement: S. 50 in force at 7.10.2004 for specified purposes for S. by [S.S.I. 2004/408](https://www.legislation.gov.uk/ssi/2004/408), [art. 3(b)](https://www.legislation.gov.uk/ssi/2004/408/article/3/b)
+[^c-02107bbc66a0fb3ac15817e62653d561]: Commencement: S. 50 in force at 7.10.2004 for specified purposes for S. by [S.S.I. 2004/408](https://www.legislation.gov.uk/ssi/2004/408), [art. 3(b)](https://www.legislation.gov.uk/ssi/2004/408/article/3/b)
 
-[^key-75e09a126c0ba84ebca859030a9632c6]: Commencement: S. 50 in force at 8.11.2004 for specified purposes for N.I. by [S.R. 2004/467](https://www.legislation.gov.uk/nisr/2004/467), [art. 2(d)](https://www.legislation.gov.uk/nisr/2004/467/article/2/d)
+[^c-75e09a126c0ba84ebca859030a9632c6]: Commencement: S. 50 in force at 8.11.2004 for specified purposes for N.I. by [S.R. 2004/467](https://www.legislation.gov.uk/nisr/2004/467), [art. 2(d)](https://www.legislation.gov.uk/nisr/2004/467/article/2/d)
 
-[^key-0afb22b2fb9e6097d9eb56db1590cefa]: Commencement: S. 50 in force at 13.4.2015 for specified purposes for E.W. by [S.I. 2015/818](https://www.legislation.gov.uk/uksi/2015/818), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/818/article/2/d)
+[^c-0afb22b2fb9e6097d9eb56db1590cefa]: Commencement: S. 50 in force at 13.4.2015 for specified purposes for E.W. by [S.I. 2015/818](https://www.legislation.gov.uk/uksi/2015/818), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/818/article/2/d)
 
 [^c9546411]: Marginal citation: [1992 c. 34](https://www.legislation.gov.uk/ukpga/1992/34).
 
-[^key-245914bde5007ec912afbb2b4791da3a]: Textual amendment: S. 50(6A)(6B) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 78(4)(a)](https://www.legislation.gov.uk/ukpga/2015/2/section/78/4/a), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 63](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/63)
+[^c-245914bde5007ec912afbb2b4791da3a]: Textual amendment: S. 50(6A)(6B) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 78(4)(a)](https://www.legislation.gov.uk/ukpga/2015/2/section/78/4/a), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 63](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/63)
 
-[^key-41395dd16c7fac073aaa9d5489d25529]: Textual amendment: Words in s. 50(8) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 78(4)(b)](https://www.legislation.gov.uk/ukpga/2015/2/section/78/4/b), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 63](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/63)
+[^c-41395dd16c7fac073aaa9d5489d25529]: Textual amendment: Words in s. 50(8) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 78(4)(b)](https://www.legislation.gov.uk/ukpga/2015/2/section/78/4/b), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 63](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/63)
 
 [^c9546421]: Marginal citation: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
 
@@ -140,7 +140,7 @@ and for this purpose “**person**” includes a body of persons and a partnersh
 
 [^c9546441]: Marginal citation: [S.I. 1995/755](https://www.legislation.gov.uk/uksi/1995/755) (N.I. 2.).
 
-[^key-8a08af8641c49254b239362e7edddccd]: Textual amendment: Words in s. 50(10) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [163](https://www.legislation.gov.uk/wsi/2016/413/regulation/163)
+[^c-8a08af8641c49254b239362e7edddccd]: Textual amendment: Words in s. 50(10) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [163](https://www.legislation.gov.uk/wsi/2016/413/regulation/163)
 
 [^c9546451]: Marginal citation: [S.I. 1995/755](https://www.legislation.gov.uk/uksi/1995/755) (N.I. 2.).
 

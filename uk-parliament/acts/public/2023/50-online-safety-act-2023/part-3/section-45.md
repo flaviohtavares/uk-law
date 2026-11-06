@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Procedure for issuing codes of practice following direction under section 44[^key-aa1f2b074dad2574ca5144e253464d77]
+## 45. Procedure for issuing codes of practice following direction under section 44[^c-aa1f2b074dad2574ca5144e253464d77]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa1f2b074dad2574ca5144e253464d77]: Commencement: S. 45 in force at Royal Assent, see [s. 240(4)(e)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/e)
+[^c-aa1f2b074dad2574ca5144e253464d77]: Commencement: S. 45 in force at Royal Assent, see [s. 240(4)(e)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/e)

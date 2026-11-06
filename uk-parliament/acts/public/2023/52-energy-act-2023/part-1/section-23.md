@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. CMA’s powers on allowing appeal[^key-370eaaa96256eb201ba951f99904e05e]
+## 23. CMA’s powers on allowing appeal[^c-370eaaa96256eb201ba951f99904e05e]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-370eaaa96256eb201ba951f99904e05e]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2023/52/section/23) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-370eaaa96256eb201ba951f99904e05e]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2023/52/section/23) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

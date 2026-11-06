@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Assessment of whether an advance application is complete[^key-699e49fa67535fe39d4ea4e044474d56]
+## 25. Assessment of whether an advance application is complete[^c-699e49fa67535fe39d4ea4e044474d56]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ The FCA must, before the end of a period of 20 working days beginning with the d
 
 ## Annotations
 
-[^key-699e49fa67535fe39d4ea4e044474d56]: Commencement: Reg. 25 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)
+[^c-699e49fa67535fe39d4ea4e044474d56]: Commencement: Reg. 25 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)

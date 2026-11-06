@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Annual report and accounts[^key-705a5b18965c04bf9f1f130d8e5aa26f]
+## 16. Annual report and accounts[^c-705a5b18965c04bf9f1f130d8e5aa26f]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ The Minister of Finance and Personnel shall lay before the Assembly a copy of—
 
 ## Annotations
 
-[^key-705a5b18965c04bf9f1f130d8e5aa26f]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/1999/859/article/16) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-705a5b18965c04bf9f1f130d8e5aa26f]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/1999/859/article/16) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)

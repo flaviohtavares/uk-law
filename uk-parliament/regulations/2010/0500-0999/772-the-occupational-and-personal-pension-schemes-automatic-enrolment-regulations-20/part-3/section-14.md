@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Jobholders excluded from automatic re-enrolment[^key-059f25277fcdf298fc5dad5ae9fda9ed]
+## 14. Jobholders excluded from automatic re-enrolment[^c-059f25277fcdf298fc5dad5ae9fda9ed]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-059f25277fcdf298fc5dad5ae9fda9ed]: Textual amendment: Reg. 14 revoked (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [6](https://www.legislation.gov.uk/uksi/2015/501/regulation/6)
+[^c-059f25277fcdf298fc5dad5ae9fda9ed]: Textual amendment: Reg. 14 revoked (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [6](https://www.legislation.gov.uk/uksi/2015/501/regulation/6)

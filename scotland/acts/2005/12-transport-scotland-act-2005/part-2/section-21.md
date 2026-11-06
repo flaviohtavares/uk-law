@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Directions as to placing of apparatus in roads[^key-127890ca5f61e44db8856cc404a3230f]
+## 21. Directions as to placing of apparatus in roads[^c-127890ca5f61e44db8856cc404a3230f]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-127890ca5f61e44db8856cc404a3230f]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2005/12/section/21) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-127890ca5f61e44db8856cc404a3230f]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2005/12/section/21) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

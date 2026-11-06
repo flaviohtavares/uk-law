@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 140. Duty to consult the Commission on careers services[^key-5f1b199cf03d0827628ea902f23df2f3][^key-340f821cc902475a443e15b6db161d08]
+## 140. Duty to consult the Commission on careers services[^c-5f1b199cf03d0827628ea902f23df2f3][^c-340f821cc902475a443e15b6db161d08]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ In the [Employment and Training Act 1973 (c.50)](https://www.legislation.gov.uk/
 
 ## Annotations
 
-[^key-5f1b199cf03d0827628ea902f23df2f3]: Commencement: S. 140 not in force at Royal Assent, see [s. 148](https://www.legislation.gov.uk/asc/2022/1/section/148)
+[^c-5f1b199cf03d0827628ea902f23df2f3]: Commencement: S. 140 not in force at Royal Assent, see [s. 148](https://www.legislation.gov.uk/asc/2022/1/section/148)
 
-[^key-340f821cc902475a443e15b6db161d08]: Commencement: [S. 140](https://www.legislation.gov.uk/asc/2022/1/section/140) in force at 1.8.2024 by [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(i)](https://www.legislation.gov.uk/wsi/2024/806/article/2/i) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-340f821cc902475a443e15b6db161d08]: Commencement: [S. 140](https://www.legislation.gov.uk/asc/2022/1/section/140) in force at 1.8.2024 by [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(i)](https://www.legislation.gov.uk/wsi/2024/806/article/2/i) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))

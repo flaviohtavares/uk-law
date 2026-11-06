@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Pollution Prevention and Control (Designation of Energy Efficiency Directive) (Scotland) Order 2013 (revoked)[^key-ff2e48341a8723915534c612cd261b19]
+The Pollution Prevention and Control (Designation of Energy Efficiency Directive) (Scotland) Order 2013 (revoked)[^c-ff2e48341a8723915534c612cd261b19]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 15th December 2013
 
-[^key-ff2e48341a8723915534c612cd261b19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff2e48341a8723915534c612cd261b19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-ff2e48341a8723915534c612cd261b19]
+## 1. Citation, commencement and extent[^c-ff2e48341a8723915534c612cd261b19]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of Energy Efficiency Directive[^key-ff2e48341a8723915534c612cd261b19]
+## 2. Designation of Energy Efficiency Directive[^c-ff2e48341a8723915534c612cd261b19]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ff2e48341a8723915534c612cd261b19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff2e48341a8723915534c612cd261b19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-ff2e48341a8723915534c612cd261b19]EXPLANATORY NOTE
+[^c-ff2e48341a8723915534c612cd261b19]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -74,4 +74,4 @@ The effect of this Order is to enable the powers in the Act to be used to implem
 
 ## Annotations
 
-[^key-ff2e48341a8723915534c612cd261b19]: Textual amendment: Order revoked (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [sch.](https://www.legislation.gov.uk/ssi/2019/436/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ff2e48341a8723915534c612cd261b19]: Textual amendment: Order revoked (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [sch.](https://www.legislation.gov.uk/ssi/2019/436/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

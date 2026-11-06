@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15.3. Prosecutor’s application for public interest ruling[^key-6ed34a709a438bf471ef06aa1d7866f0]
+## 15.3. Prosecutor’s application for public interest ruling[^c-6ed34a709a438bf471ef06aa1d7866f0]
 
 *Extent: E+W*
 
@@ -84,6 +84,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6ed34a709a438bf471ef06aa1d7866f0]: Commencement: [Rule 15.3](https://www.legislation.gov.uk/uksi/2025/909/rule/15.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-6ed34a709a438bf471ef06aa1d7866f0]: Commencement: [Rule 15.3](https://www.legislation.gov.uk/uksi/2025/909/rule/15.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00406]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25); section 16 was amended by section 331 of, and paragraphs 20 and 32 of Schedule 36 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44). Section 19 was amended by section 109 of, and paragraph 377 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 331 of, and paragraphs 20 and 34 of Schedule 36 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and section 15 of, and paragraph 251 of Schedule 4 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).

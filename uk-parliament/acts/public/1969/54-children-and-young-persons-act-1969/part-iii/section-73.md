@@ -28,7 +28,7 @@ summary: ''
 
 (4) This section and the following provisions only of this Act extend to Scotland, that is to say—
 
-- (a) sections 10(1) and (2), 32(1)[^c8361301] to (1E)[^key-34a3d6a2b26b6c74b9b7ab9ed8958ff5] and (2A) to (4), 56 and 57(1);
+- (a) sections 10(1) and (2), 32(1)[^c8361301] to (1E)[^c-34a3d6a2b26b6c74b9b7ab9ed8958ff5] and (2A) to (4), 56 and 57(1);
 - (b) section 72(2) and Part II of Schedule 4;
 - (c) paragraphs 25, 26, 33, 35, 38, 42, 43, 53, 54 and 57 to 83 of Schedule 5 and section 72(3) so far as it relates to those paragraphs;
 - (d) section 72(4) and Schedule 6 so far as they relate to the [^c8361311]Merchant Shipping Act 1894, the [^c8361321]Superannuation (Miscellaneous Provisions) Act 1948, sections 10, 53, 55 and 59 of the Act of 1963, the [^c8361331]Family Allowances Act 1965 and the [^c8361341]Social Work (Scotland) Act 1968.
@@ -55,7 +55,7 @@ summary: ''
 
 [^c8361301]: Textual amendment: Words in s. 73(4)(a) substituted (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(4)(6)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/4/6), [Sch. 12 para.30(a)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/12/paragraph/30/a), (with Sch. 14 para. 1(1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-34a3d6a2b26b6c74b9b7ab9ed8958ff5]: Textual amendment: Words in [s. 73(4)(a)](https://www.legislation.gov.uk/ukpga/1969/54/section/73/4/a) substituted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/19) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-34a3d6a2b26b6c74b9b7ab9ed8958ff5]: Textual amendment: Words in [s. 73(4)(a)](https://www.legislation.gov.uk/ukpga/1969/54/section/73/4/a) substituted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/19) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
 [^c8361311]: Marginal citation: [1894 c. 60](https://www.legislation.gov.uk/ukpga/1894/60)**(111)**.
 

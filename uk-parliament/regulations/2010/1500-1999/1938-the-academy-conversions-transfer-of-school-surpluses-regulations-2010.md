@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The Academy Conversions (Transfer of School Surpluses) Regulations 2010 (revoked)[^key-5930aa74fd368432af88080a136c9ccc]
+The Academy Conversions (Transfer of School Surpluses) Regulations 2010 (revoked)[^c-5930aa74fd368432af88080a136c9ccc]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 1st September 2010
 
-[^key-5930aa74fd368432af88080a136c9ccc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5930aa74fd368432af88080a136c9ccc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-5930aa74fd368432af88080a136c9ccc]
+## 1. Citation, commencement and application[^c-5930aa74fd368432af88080a136c9ccc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-5930aa74fd368432af88080a136c9ccc]
+## 2. Interpretation[^c-5930aa74fd368432af88080a136c9ccc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Determination of school surplus[^key-5930aa74fd368432af88080a136c9ccc]
+## 3. Determination of school surplus[^c-5930aa74fd368432af88080a136c9ccc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Review of local authority determination[^key-5930aa74fd368432af88080a136c9ccc]
+## 4. Review of local authority determination[^c-5930aa74fd368432af88080a136c9ccc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Payment of school surplus[^key-5930aa74fd368432af88080a136c9ccc]
+## 5. Payment of school surplus[^c-5930aa74fd368432af88080a136c9ccc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5930aa74fd368432af88080a136c9ccc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5930aa74fd368432af88080a136c9ccc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5930aa74fd368432af88080a136c9ccc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5930aa74fd368432af88080a136c9ccc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5930aa74fd368432af88080a136c9ccc]: Textual amendment: Regulations revoked (1.1.2014) by [The Academy Conversions (Transfer of School Surpluses) Regulations 2013 (S.I. 2013/3037)](https://www.legislation.gov.uk/uksi/2013/3037), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3037/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/3037/regulation/3/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/3037/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2013/3037/regulation/3/2))
+[^c-5930aa74fd368432af88080a136c9ccc]: Textual amendment: Regulations revoked (1.1.2014) by [The Academy Conversions (Transfer of School Surpluses) Regulations 2013 (S.I. 2013/3037)](https://www.legislation.gov.uk/uksi/2013/3037), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3037/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/3037/regulation/3/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/3037/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2013/3037/regulation/3/2))

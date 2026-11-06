@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Financial Services and Markets Act 2000 (Transparency) Regulations 2014 (revoked)[^key-7d1e76e4c5f7e3238a41c46b872a4716]
+The Financial Services and Markets Act 2000 (Transparency) Regulations 2014 (revoked)[^c-7d1e76e4c5f7e3238a41c46b872a4716]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 6th June 2014
 
-[^key-7d1e76e4c5f7e3238a41c46b872a4716]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d1e76e4c5f7e3238a41c46b872a4716]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-7d1e76e4c5f7e3238a41c46b872a4716]
+## 1. Citation, commencement and interpretation[^c-7d1e76e4c5f7e3238a41c46b872a4716]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modified application of section 103(1) of the Act[^key-7d1e76e4c5f7e3238a41c46b872a4716]
+## 2. Modified application of section 103(1) of the Act[^c-7d1e76e4c5f7e3238a41c46b872a4716]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d1e76e4c5f7e3238a41c46b872a4716]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d1e76e4c5f7e3238a41c46b872a4716]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7d1e76e4c5f7e3238a41c46b872a4716]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d1e76e4c5f7e3238a41c46b872a4716]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7d1e76e4c5f7e3238a41c46b872a4716]: Textual amendment: Regulations revoked (17.12.2014) by [The Payments to Governments and Miscellaneous Provisions Regulations 2014 (S.I. 2014/3293)](https://www.legislation.gov.uk/uksi/2014/3293), [reg. 6](https://www.legislation.gov.uk/uksi/2014/3293/regulation/6)
+[^c-7d1e76e4c5f7e3238a41c46b872a4716]: Textual amendment: Regulations revoked (17.12.2014) by [The Payments to Governments and Miscellaneous Provisions Regulations 2014 (S.I. 2014/3293)](https://www.legislation.gov.uk/uksi/2014/3293), [reg. 6](https://www.legislation.gov.uk/uksi/2014/3293/regulation/6)

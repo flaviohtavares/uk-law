@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20.1. Taxation of expenses[^key-ed3476e1e27f8190b792ffb57a04089b]
+## 20.1. Taxation of expenses[^c-ed3476e1e27f8190b792ffb57a04089b]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed3476e1e27f8190b792ffb57a04089b]: Commencement: Para. 20.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-ed3476e1e27f8190b792ffb57a04089b]: Commencement: Para. 20.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

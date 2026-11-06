@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255. Apportionment of allowances and charges[^key-b1058336fbd2921d3fabde88c23abdce][^key-2e8531eaafbc07ab7ce454c92ffb0c03]
+## 255. Apportionment of allowances and charges[^c-b1058336fbd2921d3fabde88c23abdce][^c-2e8531eaafbc07ab7ce454c92ffb0c03]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ must be apportioned between the businesses in accordance with Chapter 7 of Part 
 
 ## Annotations
 
-[^key-b1058336fbd2921d3fabde88c23abdce]: Modification: [S. 255](https://www.legislation.gov.uk/ukpga/2001/2/section/255) modified (31.12.2012) by [The Friendly Societies (Modifications of the Tax Acts) Regulations 2012 (S.I. 2012/3008)](https://www.legislation.gov.uk/uksi/2012/3008), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2012/3008/regulation/4) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/3008/regulation/2))
+[^c-b1058336fbd2921d3fabde88c23abdce]: Modification: [S. 255](https://www.legislation.gov.uk/ukpga/2001/2/section/255) modified (31.12.2012) by [The Friendly Societies (Modifications of the Tax Acts) Regulations 2012 (S.I. 2012/3008)](https://www.legislation.gov.uk/uksi/2012/3008), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2012/3008/regulation/4) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/3008/regulation/2))
 
-[^key-2e8531eaafbc07ab7ce454c92ffb0c03]: Textual amendment: S. 255 substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 98](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/98)
+[^c-2e8531eaafbc07ab7ce454c92ffb0c03]: Textual amendment: S. 255 substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 98](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/98)

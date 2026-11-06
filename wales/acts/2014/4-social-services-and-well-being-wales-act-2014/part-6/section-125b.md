@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 125B. Rules of court[^key-3de6ef323b33608d7e2164dcc7f394fb]
+## 125B. Rules of court[^c-3de6ef323b33608d7e2164dcc7f394fb]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ The rules may, in particular, make provision—
 
 ## Annotations
 
-[^key-3de6ef323b33608d7e2164dcc7f394fb]: Textual amendment: Ss. 125A-125D and cross-heading inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [308](https://www.legislation.gov.uk/wsi/2016/413/regulation/308)
+[^c-3de6ef323b33608d7e2164dcc7f394fb]: Textual amendment: Ss. 125A-125D and cross-heading inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [308](https://www.legislation.gov.uk/wsi/2016/413/regulation/308)

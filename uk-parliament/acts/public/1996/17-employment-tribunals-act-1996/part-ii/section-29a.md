@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-((not yet in force: 1)) *(not yet in force: Directions about the)* *(not yet in force: practice and[^key-075cff9c81ccd037cb8f7294689dbb69])* *(not yet in force: procedure of the Appeal Tribunal may be given—)*
+((not yet in force: 1)) *(not yet in force: Directions about the)* *(not yet in force: practice and[^c-075cff9c81ccd037cb8f7294689dbb69])* *(not yet in force: procedure of the Appeal Tribunal may be given—)*
 
 - ((not yet in force: a)) *(not yet in force: by the Senior President of Tribunals, or)*
 - ((not yet in force: b)) *(not yet in force: by the President of the Appeal Tribunal.)*
@@ -37,7 +37,7 @@ summary: ''
 - ((not yet in force: a)) *(not yet in force: the Senior President of Tribunals, and)*
 - ((not yet in force: b)) *(not yet in force: the Lord Chancellor.)*
 
-((not yet in force: 5)) *(not yet in force: Subsection (1) does not prejudice any power apart from that subsection to give directions about the)* *(not yet in force: practice or[^key-2510eff2ccd75c95c6b4f0d938e7c55a])* *(not yet in force: procedure of the Appeal Tribunal.)*
+((not yet in force: 5)) *(not yet in force: Subsection (1) does not prejudice any power apart from that subsection to give directions about the)* *(not yet in force: practice or[^c-2510eff2ccd75c95c6b4f0d938e7c55a])* *(not yet in force: procedure of the Appeal Tribunal.)*
 
 ((not yet in force: 6)) *(not yet in force: Directions may not be given in exercise of any such power as is mentioned in subsection (5) without the approval of—)*
 
@@ -59,6 +59,6 @@ summary: ''
 
 [^c19531491]: Textual amendment: S. 29A inserted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 8 para. 47](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/47); [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), [art. 5(c)(i)](https://www.legislation.gov.uk/uksi/2008/2696/article/5/c/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2696/article/3))
 
-[^key-075cff9c81ccd037cb8f7294689dbb69]: Textual amendment: Words in [s. 29A(1)](https://www.legislation.gov.uk/ukpga/1996/17/section/29A/1) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 18(a)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/18/a); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/f)
+[^c-075cff9c81ccd037cb8f7294689dbb69]: Textual amendment: Words in [s. 29A(1)](https://www.legislation.gov.uk/ukpga/1996/17/section/29A/1) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 18(a)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/18/a); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/f)
 
-[^key-2510eff2ccd75c95c6b4f0d938e7c55a]: Textual amendment: Words in [s. 29A(5)](https://www.legislation.gov.uk/ukpga/1996/17/section/29A/5) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 18(b)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/18/b); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/f)
+[^c-2510eff2ccd75c95c6b4f0d938e7c55a]: Textual amendment: Words in [s. 29A(5)](https://www.legislation.gov.uk/ukpga/1996/17/section/29A/5) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 18(b)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/18/b); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/f)

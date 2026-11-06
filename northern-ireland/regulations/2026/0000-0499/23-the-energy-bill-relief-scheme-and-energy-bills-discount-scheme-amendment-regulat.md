@@ -46,7 +46,7 @@ The Department for the Economy makes these regulations, in exercise of the power
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement, interpretation and extent[^key-ee9fb4da0216ed2797be20e2183aa058]
+### 1. Citation, commencement, interpretation and extent[^c-ee9fb4da0216ed2797be20e2183aa058]
 
 (1) The Interpretation Act (Northern Ireland) 1954 applies to these regulations as it applies to an Act of the Assembly.
 
@@ -56,11 +56,11 @@ The Department for the Economy makes these regulations, in exercise of the power
 
 ## PART 2
 
-### 2. Amendment of the Energy Bill Relief Scheme (Northern Ireland) Regulations 2022[^key-cd697f7e549e6921953d530c6768b40b]
+### 2. Amendment of the Energy Bill Relief Scheme (Northern Ireland) Regulations 2022[^c-cd697f7e549e6921953d530c6768b40b]
 
 The Energy Bill Relief Scheme (Northern Ireland) Regulations 2022[^f00002] are amended as follows.
 
-### 3. Amendment to regulation 19 (duty of suppliers to provide the discount)[^key-cba50576124abb4cadf2a1b6eaa420ec]
+### 3. Amendment to regulation 19 (duty of suppliers to provide the discount)[^c-cba50576124abb4cadf2a1b6eaa420ec]
 
 In regulation 19, after paragraph (3) insert—
 
@@ -75,7 +75,7 @@ In regulation 19, after paragraph (3) insert—
 > - (b) supplied in a billing period in respect of which the supplier has not billed the customer before the discount duties end date, or
 > - (c) in respect of which unreasonable delay or other failure by the supplier has led to it not billing the customer for the energy accurately or at all before the discount duties end date.
 
-### 4. Amendment to regulation 39 (adjustment of discount in relation to arrangements which alter a customer’s exposure to the wholesale price)[^key-736344ab29e1be90d6130008951f06f4]
+### 4. Amendment to regulation 39 (adjustment of discount in relation to arrangements which alter a customer’s exposure to the wholesale price)[^c-736344ab29e1be90d6130008951f06f4]
 
 In Regulation 39, after paragraph (1)(d) insert –
 
@@ -86,7 +86,7 @@ In Regulation 39, after paragraph (1)(d) insert –
 >   - (iii) in respect of which an unreasonable delay or other failure by the supplier has led to it not billing the customer for the energy accurately or at all before the discount duties end date;
 > - (g) in sub-paragraphs (e) and (f), “**discount duties end date**” has the same meaning as in regulation 19(3A).
 
-### 5. Amendment to Regulation 68 (referrals in respect of disagreement between contract parties)[^key-360c181c768fe6ae8b81dd1f88bb36c1]
+### 5. Amendment to Regulation 68 (referrals in respect of disagreement between contract parties)[^c-360c181c768fe6ae8b81dd1f88bb36c1]
 
 In regulation 68 –
 
@@ -102,11 +102,11 @@ In regulation 68 –
 
 ## PART 3
 
-### 6. Amendment of the Energy Bills Discount Scheme (Northern Ireland) Regulations 2023[^key-e22c9f34852d202d2e5bba01b836b218]
+### 6. Amendment of the Energy Bills Discount Scheme (Northern Ireland) Regulations 2023[^c-e22c9f34852d202d2e5bba01b836b218]
 
 The Energy Bills Discount Scheme (Northern Ireland) Regulations 2023[^f00003] are amended as follows.
 
-### 7. Amendment to regulation 30 (duty of suppliers to provide the discount)[^key-96c0611578ecd48faaaca7b347b92075]
+### 7. Amendment to regulation 30 (duty of suppliers to provide the discount)[^c-96c0611578ecd48faaaca7b347b92075]
 
 In Regulation 30, after paragraph (3) insert—
 
@@ -121,7 +121,7 @@ In Regulation 30, after paragraph (3) insert—
 > - (b) supplied in a billing period in respect of which the supplier has not billed the customer before the discount duties end date, or
 > - (c) in respect of which unreasonable delay or other failure by the supplier has led to it not billing the customer for the energy accurately or at all before the discount duties end date.
 
-### 8. Amendment to regulation 49 (adjustment of discount in relation to arrangements which alter a customer’s exposure to the wholesale price)[^key-42f3d6721c02cff8ba4681f4abe695ce]
+### 8. Amendment to regulation 49 (adjustment of discount in relation to arrangements which alter a customer’s exposure to the wholesale price)[^c-42f3d6721c02cff8ba4681f4abe695ce]
 
 In regulation 49, after paragraph (1)(d) insert—
 
@@ -132,7 +132,7 @@ In regulation 49, after paragraph (1)(d) insert—
 >   - (iii) in respect of which unreasonable delay or other failure by the supplier has led to it not billing the customer for the energy accurately or at all before the discount duties end date;
 > - (g) in sub-paragraphs (e) and (f), “**discount duties end date**” has the same meaning as in regulation 30(3A).
 
-### 9. Amendment to regulation 73 (referrals in respect of disagreement between contract parties)[^key-21ca001297345ba1bea554d9e90fb05f]
+### 9. Amendment to regulation 73 (referrals in respect of disagreement between contract parties)[^c-21ca001297345ba1bea554d9e90fb05f]
 
 In regulation 73—
 
@@ -174,24 +174,24 @@ A de minimis impact assessment of the effect that this instrument will have is a
 
 [^f00001]: Footnote: [2022 c. 44](https://www.legislation.gov.uk/ukpga/2022/44)
 
-[^key-ee9fb4da0216ed2797be20e2183aa058]: Commencement: Reg. 1 in operation at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2)
+[^c-ee9fb4da0216ed2797be20e2183aa058]: Commencement: Reg. 1 in operation at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2)
 
-[^key-cd697f7e549e6921953d530c6768b40b]: Commencement: Reg. 2 in operation at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2)
+[^c-cd697f7e549e6921953d530c6768b40b]: Commencement: Reg. 2 in operation at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2022/1106](https://www.legislation.gov.uk/uksi/2022/1106) to which there are amendments not relevant to these Regulations
 
-[^key-cba50576124abb4cadf2a1b6eaa420ec]: Commencement: Reg. 3 in operation at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2)
+[^c-cba50576124abb4cadf2a1b6eaa420ec]: Commencement: Reg. 3 in operation at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2)
 
-[^key-736344ab29e1be90d6130008951f06f4]: Commencement: Reg. 4 in operation at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2)
+[^c-736344ab29e1be90d6130008951f06f4]: Commencement: Reg. 4 in operation at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2)
 
-[^key-360c181c768fe6ae8b81dd1f88bb36c1]: Commencement: Reg. 5 in operation at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2)
+[^c-360c181c768fe6ae8b81dd1f88bb36c1]: Commencement: Reg. 5 in operation at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2)
 
-[^key-e22c9f34852d202d2e5bba01b836b218]: Commencement: Reg. 6 in operation at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2)
+[^c-e22c9f34852d202d2e5bba01b836b218]: Commencement: Reg. 6 in operation at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2023/454](https://www.legislation.gov.uk/uksi/2023/454), to which there are amendments not relevant to these Regulations.
 
-[^key-96c0611578ecd48faaaca7b347b92075]: Commencement: Reg. 7 in operation at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2)
+[^c-96c0611578ecd48faaaca7b347b92075]: Commencement: Reg. 7 in operation at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2)
 
-[^key-42f3d6721c02cff8ba4681f4abe695ce]: Commencement: Reg. 8 in operation at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2)
+[^c-42f3d6721c02cff8ba4681f4abe695ce]: Commencement: Reg. 8 in operation at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2)
 
-[^key-21ca001297345ba1bea554d9e90fb05f]: Commencement: Reg. 9 in operation at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2)
+[^c-21ca001297345ba1bea554d9e90fb05f]: Commencement: Reg. 9 in operation at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2)

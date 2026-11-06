@@ -33,51 +33,51 @@ An Act to enable provision to be made for the purpose of reforming legislation w
 
 \[10th April 2001\]
 
-[^key-3facfd6351d91ebf78890b98732f1e3c]...[^key-0d92df61e3c8e9c04748c90d21371208]
+[^c-3facfd6351d91ebf78890b98732f1e3c]...[^c-0d92df61e3c8e9c04748c90d21371208]
 
 ## Power to make provision reforming law which imposes burdens
 
-### 1. Power by order to make provision reforming law which imposes burdens[^key-3facfd6351d91ebf78890b98732f1e3c]
+### 1. Power by order to make provision reforming law which imposes burdens[^c-3facfd6351d91ebf78890b98732f1e3c]
 
 **No longer in force (ended 2007-01-08).**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Meaning of “burden” and related expressions[^key-3facfd6351d91ebf78890b98732f1e3c]
+### 2. Meaning of “burden” and related expressions[^c-3facfd6351d91ebf78890b98732f1e3c]
 
 **No longer in force (ended 2007-01-08).**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Limitations on order-making power[^key-3facfd6351d91ebf78890b98732f1e3c]
+### 3. Limitations on order-making power[^c-3facfd6351d91ebf78890b98732f1e3c]
 
 **No longer in force (ended 2007-01-08).**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Statutory instrument procedure[^key-3facfd6351d91ebf78890b98732f1e3c]
+### 4. Statutory instrument procedure[^c-3facfd6351d91ebf78890b98732f1e3c]
 
 **No longer in force (ended 2007-01-08).**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Preliminary consultation[^key-3facfd6351d91ebf78890b98732f1e3c]
+### 5. Preliminary consultation[^c-3facfd6351d91ebf78890b98732f1e3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Document to be laid before Parliament[^key-3facfd6351d91ebf78890b98732f1e3c]
+### 6. Document to be laid before Parliament[^c-3facfd6351d91ebf78890b98732f1e3c]
 
 **No longer in force (ended 2007-01-08).**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Representations made in confidence or containing damaging information[^key-3facfd6351d91ebf78890b98732f1e3c]
+### 7. Representations made in confidence or containing damaging information[^c-3facfd6351d91ebf78890b98732f1e3c]
 
 **No longer in force (ended 2007-01-08).**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Parliamentary consideration of proposals[^key-3facfd6351d91ebf78890b98732f1e3c]
+### 8. Parliamentary consideration of proposals[^c-3facfd6351d91ebf78890b98732f1e3c]
 
 **No longer in force (ended 2007-01-08).**
 
@@ -85,19 +85,19 @@ An Act to enable provision to be made for the purpose of reforming legislation w
 
 ## Enforcement practice
 
-### 9. Codes of practice relating to enforcement of regulatory requirements[^key-3facfd6351d91ebf78890b98732f1e3c]
+### 9. Codes of practice relating to enforcement of regulatory requirements[^c-3facfd6351d91ebf78890b98732f1e3c]
 
 **No longer in force (ended 2007-01-08).**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Making of codes of practice by Ministers of the Crown[^key-3facfd6351d91ebf78890b98732f1e3c]
+### 10. Making of codes of practice by Ministers of the Crown[^c-3facfd6351d91ebf78890b98732f1e3c]
 
 **No longer in force (ended 2007-01-08).**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Making of codes of practice by National Assembly for Wales[^key-3facfd6351d91ebf78890b98732f1e3c]
+### 11. Making of codes of practice by National Assembly for Wales[^c-3facfd6351d91ebf78890b98732f1e3c]
 
 **No longer in force (ended 2007-01-08).**
 
@@ -105,7 +105,7 @@ An Act to enable provision to be made for the purpose of reforming legislation w
 
 ## Supplementary
 
-### 12. Repeals and savings[^key-3facfd6351d91ebf78890b98732f1e3c]
+### 12. Repeals and savings[^c-3facfd6351d91ebf78890b98732f1e3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -115,7 +115,7 @@ An Act to enable provision to be made for the purpose of reforming legislation w
 
 (1) In section 6 of the 1994 Act (model provisions with respect to appeals), in subsection (7)—
 
-- (a)[^key-3facfd6351d91ebf78890b98732f1e3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3facfd6351d91ebf78890b98732f1e3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for the definition of “interested person” there is substituted—
 
   > “**interested person**” means—
@@ -133,10 +133,10 @@ An Act to enable provision to be made for the purpose of reforming legislation w
 In this Act—
 
 - “**the 1994 Act**” means the Deregulation and Contracting Out Act 1994 (c. 40);
-- [^key-3facfd6351d91ebf78890b98732f1e3c]...
-- [^key-3facfd6351d91ebf78890b98732f1e3c]...
-- [^key-3facfd6351d91ebf78890b98732f1e3c]...
-- [^key-3facfd6351d91ebf78890b98732f1e3c]...
+- [^c-3facfd6351d91ebf78890b98732f1e3c]...
+- [^c-3facfd6351d91ebf78890b98732f1e3c]...
+- [^c-3facfd6351d91ebf78890b98732f1e3c]...
+- [^c-3facfd6351d91ebf78890b98732f1e3c]...
 
 ### 15. Short title and extent
 
@@ -144,10 +144,10 @@ In this Act—
 
 (2) This Act extends to Northern Ireland.
 
-(3)[^key-3facfd6351d91ebf78890b98732f1e3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3facfd6351d91ebf78890b98732f1e3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3facfd6351d91ebf78890b98732f1e3c]: Textual amendment: The whole Act except section 13(1)(b)(2), the definition of "the 1994 Act" in section 14 and section 15(1)(2) repealed (8.1.2007) by [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), [s. 30](https://www.legislation.gov.uk/ukpga/2006/51/section/30), [Sch.](https://www.legislation.gov.uk/ukpga/2006/51/schedule) (subject to savings in [s. 30(2)-(5)](https://www.legislation.gov.uk/ukpga/2006/51/section/30/2) and subject to a temporary modification of [s. 1](https://www.legislation.gov.uk/ukpga/2006/51/section/1) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 124](https://www.legislation.gov.uk/ukpga/2006/36/section/124), [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/paragraph/9))
+[^c-3facfd6351d91ebf78890b98732f1e3c]: Textual amendment: The whole Act except section 13(1)(b)(2), the definition of "the 1994 Act" in section 14 and section 15(1)(2) repealed (8.1.2007) by [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), [s. 30](https://www.legislation.gov.uk/ukpga/2006/51/section/30), [Sch.](https://www.legislation.gov.uk/ukpga/2006/51/schedule) (subject to savings in [s. 30(2)-(5)](https://www.legislation.gov.uk/ukpga/2006/51/section/30/2) and subject to a temporary modification of [s. 1](https://www.legislation.gov.uk/ukpga/2006/51/section/1) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 124](https://www.legislation.gov.uk/ukpga/2006/36/section/124), [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/paragraph/9))
 
-[^key-0d92df61e3c8e9c04748c90d21371208]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2001/6) applied (with modifications) (16.11.2017) by [Northern Ireland Budget Act 2017 (c. 34)](https://www.legislation.gov.uk/ukpga/2017/34), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2017/34/section/5/2) (with [s. 5(3)](https://www.legislation.gov.uk/ukpga/2017/34/section/5/3))
+[^c-0d92df61e3c8e9c04748c90d21371208]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2001/6) applied (with modifications) (16.11.2017) by [Northern Ireland Budget Act 2017 (c. 34)](https://www.legislation.gov.uk/ukpga/2017/34), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2017/34/section/5/2) (with [s. 5(3)](https://www.legislation.gov.uk/ukpga/2017/34/section/5/3))

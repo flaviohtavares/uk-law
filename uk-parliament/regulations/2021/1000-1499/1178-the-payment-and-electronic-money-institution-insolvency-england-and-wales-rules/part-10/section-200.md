@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 200. Service on joint office-holders[^key-b8344e66d518a3176a41fb2b6c6e4ea4]
+## 200. Service on joint office-holders[^c-b8344e66d518a3176a41fb2b6c6e4ea4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where there are joint administrators, service of court documents on one of them 
 
 ## Annotations
 
-[^key-b8344e66d518a3176a41fb2b6c6e4ea4]: Commencement: Rule 200 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-b8344e66d518a3176a41fb2b6c6e4ea4]: Commencement: Rule 200 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

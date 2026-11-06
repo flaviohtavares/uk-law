@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. River not to be a reservoir[^key-20f3d07d00a0117e5b946d1f57da06f3]
+## 9. River not to be a reservoir[^c-20f3d07d00a0117e5b946d1f57da06f3]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Regardless of the provisions of subsection (2) of section 1 of the Reservoirs Ac
 
 ## Annotations
 
-[^key-20f3d07d00a0117e5b946d1f57da06f3]: Commencement: Art. 9 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-20f3d07d00a0117e5b946d1f57da06f3]: Commencement: Art. 9 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
 
 [^f00014]: Footnote: [1975 c. 23](https://www.legislation.gov.uk/ukpga/1975/23).

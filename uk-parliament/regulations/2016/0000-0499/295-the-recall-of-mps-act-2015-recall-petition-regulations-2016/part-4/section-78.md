@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Cancellation of proxy appointment[^key-fcfe8247f9cdfd4b3be52b21f89d8e13]
+## 78. Cancellation of proxy appointment[^c-fcfe8247f9cdfd4b3be52b21f89d8e13]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Where the appointment of a proxy is cancelled by notice given to the registratio
 
 ## Annotations
 
-[^key-fcfe8247f9cdfd4b3be52b21f89d8e13]: Commencement: Reg. 78 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-fcfe8247f9cdfd4b3be52b21f89d8e13]: Commencement: Reg. 78 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

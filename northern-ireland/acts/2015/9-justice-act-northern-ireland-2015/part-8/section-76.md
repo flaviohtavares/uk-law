@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 76. Interpretation of this Part[^key-d78691e6e4c73c067fd24a18e830b868]
+## 76. Interpretation of this Part[^c-d78691e6e4c73c067fd24a18e830b868]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d78691e6e4c73c067fd24a18e830b868]: Commencement: [S. 76](https://www.legislation.gov.uk/nia/2015/9/section/76) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(u)](https://www.legislation.gov.uk/nisr/2016/417/article/2/u)
+[^c-d78691e6e4c73c067fd24a18e830b868]: Commencement: [S. 76](https://www.legislation.gov.uk/nia/2015/9/section/76) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(u)](https://www.legislation.gov.uk/nisr/2016/417/article/2/u)

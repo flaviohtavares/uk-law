@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Amendment of Article 21 of Regulation (EU) No 376/2014[^key-134a0e09644865a6b91e3e63b68f2bdc]
+## 76. Amendment of Article 21 of Regulation (EU) No 376/2014[^c-134a0e09644865a6b91e3e63b68f2bdc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit Article 21 (penalties).
 
 ## Annotations
 
-[^key-134a0e09644865a6b91e3e63b68f2bdc]: Commencement: Reg. 76 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-134a0e09644865a6b91e3e63b68f2bdc]: Commencement: Reg. 76 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Rent (Northern Ireland) Order 1978[^key-1969389fdb3362c51737e02102541cdd]
+## 136. Rent (Northern Ireland) Order 1978[^c-1969389fdb3362c51737e02102541cdd]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ In Schedule 4 to the Rent (Northern Ireland) Order 1978[^f00222], in each of the
 
 ## Annotations
 
-[^key-1969389fdb3362c51737e02102541cdd]: Commencement: Reg. 136 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-1969389fdb3362c51737e02102541cdd]: Commencement: Reg. 136 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00222]: Footnote: [S.I. 1978/1050 (N.I. 20)](https://www.legislation.gov.uk/nisi/1978/1050).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Protective provisions[^key-1b3f31a417a816ee7f2ee41cbab9c6e8]
+## 40. Protective provisions[^c-1b3f31a417a816ee7f2ee41cbab9c6e8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 9 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-1b3f31a417a816ee7f2ee41cbab9c6e8]: Commencement: Art. 40 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
+[^c-1b3f31a417a816ee7f2ee41cbab9c6e8]: Commencement: Art. 40 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)

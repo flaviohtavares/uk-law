@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.3. References to legislation, including these Rules[^key-64c6f5e4078a3c214bd53566ac4e74bc]
+## 2.3. References to legislation, including these Rules[^c-64c6f5e4078a3c214bd53566ac4e74bc]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-64c6f5e4078a3c214bd53566ac4e74bc]: Commencement: [Rule 2.3](https://www.legislation.gov.uk/uksi/2025/909/rule/2.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-64c6f5e4078a3c214bd53566ac4e74bc]: Commencement: [Rule 2.3](https://www.legislation.gov.uk/uksi/2025/909/rule/2.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00050]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25).
 

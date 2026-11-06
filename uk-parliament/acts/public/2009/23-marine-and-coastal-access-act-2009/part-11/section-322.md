@@ -82,7 +82,7 @@ summary: ''
 - “**statutory undertaker**” means a person who is, or is deemed to be, a statutory undertaker for the purposes of any provision of any of the following—
   - (a) Part 11 of the Town and Country Planning Act 1990 (c. 8);
   - (b) Part 10 of the Town and Country Planning (Scotland) Act 1997 (c. 8);
-  - (c) the Planning Act (Northern Ireland) 2011.[^key-be27502ac0abd1dd0fa0b9312c0a4751]
+  - (c) the Planning Act (Northern Ireland) 2011.[^c-be27502ac0abd1dd0fa0b9312c0a4751]
 
 (3) For the purposes of the definition of “public office holder” in subsection (1)—
 
@@ -124,4 +124,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be27502ac0abd1dd0fa0b9312c0a4751]: Textual amendment: S. 322(2)(c) substituted (N.I.) (1.4.2015) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 104](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/104) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2))
+[^c-be27502ac0abd1dd0fa0b9312c0a4751]: Textual amendment: S. 322(2)(c) substituted (N.I.) (1.4.2015) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 104](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/104) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2))

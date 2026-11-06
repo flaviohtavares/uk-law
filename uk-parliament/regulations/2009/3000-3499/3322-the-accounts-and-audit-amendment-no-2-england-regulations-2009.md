@@ -32,7 +32,7 @@ summary: ''
 
 Local Government, England
 
-The Accounts and Audit (Amendment No. 2) (England) Regulations 2009 (revoked)[^key-4cf78b9b50b554de7ae8b2b38d69c2fc]
+The Accounts and Audit (Amendment No. 2) (England) Regulations 2009 (revoked)[^c-4cf78b9b50b554de7ae8b2b38d69c2fc]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 31st March 2010
 
-[^key-4cf78b9b50b554de7ae8b2b38d69c2fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4cf78b9b50b554de7ae8b2b38d69c2fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and application[^key-4cf78b9b50b554de7ae8b2b38d69c2fc]
+## 1. Citation and application[^c-4cf78b9b50b554de7ae8b2b38d69c2fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Commencement[^key-4cf78b9b50b554de7ae8b2b38d69c2fc]
+## 2. Commencement[^c-4cf78b9b50b554de7ae8b2b38d69c2fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Accounts and Audit Regulations 2003[^key-4cf78b9b50b554de7ae8b2b38d69c2fc]
+## 3. Amendment of the Accounts and Audit Regulations 2003[^c-4cf78b9b50b554de7ae8b2b38d69c2fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Declaration of remuneration[^key-4cf78b9b50b554de7ae8b2b38d69c2fc]
+## 4. Declaration of remuneration[^c-4cf78b9b50b554de7ae8b2b38d69c2fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4cf78b9b50b554de7ae8b2b38d69c2fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4cf78b9b50b554de7ae8b2b38d69c2fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4cf78b9b50b554de7ae8b2b38d69c2fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4cf78b9b50b554de7ae8b2b38d69c2fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4cf78b9b50b554de7ae8b2b38d69c2fc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/3322) revoked (31.3.2011) by [The Accounts and Audit (England) Regulations 2011 (S.I. 2011/817)](https://www.legislation.gov.uk/uksi/2011/817), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/817/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/817/schedule)
+[^c-4cf78b9b50b554de7ae8b2b38d69c2fc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/3322) revoked (31.3.2011) by [The Accounts and Audit (England) Regulations 2011 (S.I. 2011/817)](https://www.legislation.gov.uk/uksi/2011/817), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/817/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/817/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24.10. Application to withdraw a guilty plea[^key-0c743f44c0b95834124f9bd0b7885d70]
+## 24.10. Application to withdraw a guilty plea[^c-0c743f44c0b95834124f9bd0b7885d70]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c743f44c0b95834124f9bd0b7885d70]: Commencement: [Rule 24.10](https://www.legislation.gov.uk/uksi/2025/909/rule/24.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-0c743f44c0b95834124f9bd0b7885d70]: Commencement: [Rule 24.10](https://www.legislation.gov.uk/uksi/2025/909/rule/24.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -28,12 +28,12 @@ summary: ''
 
 (2) The Secretary of State is to award an allowance to be known as armed forces independence payment.
 
-(3) The amount of the allowance is to be £194.60[^key-8201940ddb4d4d8de79e6d4fb7b41e25][^key-8f5f937ddee7e15b93609e5b34c0dadb] per week.
+(3) The amount of the allowance is to be £194.60[^c-8201940ddb4d4d8de79e6d4fb7b41e25][^c-8f5f937ddee7e15b93609e5b34c0dadb] per week.
 
 ## Annotations
 
 [^c2179251]: Textual amendment: Arts. 24A-24F inserted (8.4.2013) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2013 (S.I. 2013/436)](https://www.legislation.gov.uk/uksi/2013/436), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/436/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/436/article/2/4)
 
-[^key-8201940ddb4d4d8de79e6d4fb7b41e25]: Textual amendment: Sum in art. 24A(3) substituted (6.4.2026) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2026 (S.I. 2026/272)](https://www.legislation.gov.uk/uksi/2026/272), [arts. 1](https://www.legislation.gov.uk/uksi/2026/272/article/1), [6](https://www.legislation.gov.uk/uksi/2026/272/article/6)
+[^c-8201940ddb4d4d8de79e6d4fb7b41e25]: Textual amendment: Sum in art. 24A(3) substituted (6.4.2026) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2026 (S.I. 2026/272)](https://www.legislation.gov.uk/uksi/2026/272), [arts. 1](https://www.legislation.gov.uk/uksi/2026/272/article/1), [6](https://www.legislation.gov.uk/uksi/2026/272/article/6)
 
-[^key-8f5f937ddee7e15b93609e5b34c0dadb]: Textual amendment: Words in art. 24A(3) substituted (10.4.2017) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2017 (S.I. 2017/247)](https://www.legislation.gov.uk/uksi/2017/247), [arts. 1](https://www.legislation.gov.uk/uksi/2017/247/article/1), [5](https://www.legislation.gov.uk/uksi/2017/247/article/5)
+[^c-8f5f937ddee7e15b93609e5b34c0dadb]: Textual amendment: Words in art. 24A(3) substituted (10.4.2017) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2017 (S.I. 2017/247)](https://www.legislation.gov.uk/uksi/2017/247), [arts. 1](https://www.legislation.gov.uk/uksi/2017/247/article/1), [5](https://www.legislation.gov.uk/uksi/2017/247/article/5)

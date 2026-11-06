@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Restriction on information provided to certain persons[^M_C_94b59b3f-94ef-4ae1-8dd0-9d7a9b08129a][^key-024bac72edc08a9845fed4178830b139][^key-580f78e87e0fe84e470c41c8ac9657b2]
+## 79. Restriction on information provided to certain persons[^M_C_94b59b3f-94ef-4ae1-8dd0-9d7a9b08129a][^c-024bac72edc08a9845fed4178830b139][^c-580f78e87e0fe84e470c41c8ac9657b2]
 
 *Extent: E+W*
 
-(1)[^key-5de1a149417df8926c1d2fe70f1cab20] Omit section 93 of the Policing and Crime Act 2009 (which, if commenced, would insert section 112(2A) into the Police Act 1997 requiring copies of certain criminal conviction certificates to be given to employers etc.).
+(1)[^c-5de1a149417df8926c1d2fe70f1cab20] Omit section 93 of the Policing and Crime Act 2009 (which, if commenced, would insert section 112(2A) into the Police Act 1997 requiring copies of certain criminal conviction certificates to be given to employers etc.).
 
 (2) Omit—
 
-- (a)[^key-b3be5064d1be43359db1a6721538491f] section 113A(4) of the Police Act 1997 (requirement to send copy of criminal record certificate to registered person), and
-- (b)[^key-deb23b4da114fd373dc83ef64a3bc1fa][^key-73b80f4a6f1a72c28d13834f33003b8e] section 113B(5) and (6) of that Act (requirement to give relevant information, and copy of enhanced criminal record certificate to registered person).
+- (a)[^c-b3be5064d1be43359db1a6721538491f] section 113A(4) of the Police Act 1997 (requirement to send copy of criminal record certificate to registered person), and
+- (b)[^c-deb23b4da114fd373dc83ef64a3bc1fa][^c-73b80f4a6f1a72c28d13834f33003b8e] section 113B(5) and (6) of that Act (requirement to give relevant information, and copy of enhanced criminal record certificate to registered person).
 
-(3)[^key-06ef476c042c0d63377c9011dd74aba0][^key-73b80f4a6f1a72c28d13834f33003b8e] After section 120AB of the Police Act 1997 (procedure for certain cancellations or suspensions of registration) insert—
+(3)[^c-06ef476c042c0d63377c9011dd74aba0][^c-73b80f4a6f1a72c28d13834f33003b8e] After section 120AB of the Police Act 1997 (procedure for certain cancellations or suspensions of registration) insert—
 
 > **120AC. Registered persons: information on progress of an application**
 >
@@ -81,16 +81,16 @@ summary: ''
 
 [^M_C_94b59b3f-94ef-4ae1-8dd0-9d7a9b08129a]: Modification: S. 79 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(2)(3) of the amending S.I.) by [The Police Act 1997 (Criminal Records) (Guernsey) (Amendment) Order 2012 (S.I. 2012/1762)](https://www.legislation.gov.uk/uksi/2012/1762), [art. 4(1)(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/4/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1762/schedule/1)
 
-[^key-024bac72edc08a9845fed4178830b139]: Modification: S. 79 extended (Jersey) (with modifications) (17.10.2012 coming into force in accordance with art. 1(2)(3)) by [The Police Act 1997 (Criminal Records) (Jersey) (Amendment) Order 2012 (S.I. 2012/2591)](https://www.legislation.gov.uk/uksi/2012/2591), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2591/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2591/article/1/3)[4(1)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2591/schedule/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2591/article/5))
+[^c-024bac72edc08a9845fed4178830b139]: Modification: S. 79 extended (Jersey) (with modifications) (17.10.2012 coming into force in accordance with art. 1(2)(3)) by [The Police Act 1997 (Criminal Records) (Jersey) (Amendment) Order 2012 (S.I. 2012/2591)](https://www.legislation.gov.uk/uksi/2012/2591), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2591/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2591/article/1/3)[4(1)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2591/schedule/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2591/article/5))
 
-[^key-580f78e87e0fe84e470c41c8ac9657b2]: Modification: S. 79 extended (Isle of Man) (with modifications) (with effect in accordance with art. 1(3)(4) of the amending S.I.) by [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [4(1)(a)](https://www.legislation.gov.uk/uksi/2012/2598/article/4/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2598/schedule/1)
+[^c-580f78e87e0fe84e470c41c8ac9657b2]: Modification: S. 79 extended (Isle of Man) (with modifications) (with effect in accordance with art. 1(3)(4) of the amending S.I.) by [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [4(1)(a)](https://www.legislation.gov.uk/uksi/2012/2598/article/4/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2598/schedule/1)
 
-[^key-5de1a149417df8926c1d2fe70f1cab20]: Commencement: S. 79(1) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(p)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/p)
+[^c-5de1a149417df8926c1d2fe70f1cab20]: Commencement: S. 79(1) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(p)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/p)
 
-[^key-b3be5064d1be43359db1a6721538491f]: Commencement: S. 79(2)(a) in force at 17.6.2013 by [S.I. 2013/1180](https://www.legislation.gov.uk/uksi/2013/1180), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1180/article/2/a)
+[^c-b3be5064d1be43359db1a6721538491f]: Commencement: S. 79(2)(a) in force at 17.6.2013 by [S.I. 2013/1180](https://www.legislation.gov.uk/uksi/2013/1180), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1180/article/2/a)
 
-[^key-deb23b4da114fd373dc83ef64a3bc1fa]: Commencement: S. 79(2)(b) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) for specified purposes by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(q)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/q)
+[^c-deb23b4da114fd373dc83ef64a3bc1fa]: Commencement: S. 79(2)(b) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) for specified purposes by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(q)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/q)
 
-[^key-73b80f4a6f1a72c28d13834f33003b8e]: Commencement: S. 79(2)(b)(3) in force at 17.6.2013 in so far as not already in force by [S.I. 2013/1180](https://www.legislation.gov.uk/uksi/2013/1180), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1180/article/2/a)
+[^c-73b80f4a6f1a72c28d13834f33003b8e]: Commencement: S. 79(2)(b)(3) in force at 17.6.2013 in so far as not already in force by [S.I. 2013/1180](https://www.legislation.gov.uk/uksi/2013/1180), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1180/article/2/a)
 
-[^key-06ef476c042c0d63377c9011dd74aba0]: Commencement: S. 79(3) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) for specified purposes by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(r)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/r)
+[^c-06ef476c042c0d63377c9011dd74aba0]: Commencement: S. 79(3) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) for specified purposes by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(r)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/r)

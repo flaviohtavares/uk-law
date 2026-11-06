@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179A. Exchange of information with overseas authorities[^key-a9acb26387f903f38a2adc2cbf4cc5de]
+## 179A. Exchange of information with overseas authorities[^c-a9acb26387f903f38a2adc2cbf4cc5de]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9acb26387f903f38a2adc2cbf4cc5de]: Textual amendment: [S. 179A](https://www.legislation.gov.uk/ukpga/1992/5/section/179A) inserted (14.2.2003) by [Social Security Fraud Act 2001 (c. 11)](https://www.legislation.gov.uk/ukpga/2001/11), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2001/11/section/5/1), [20(1)](https://www.legislation.gov.uk/ukpga/2001/11/section/20/1); [S.I. 2003/273](https://www.legislation.gov.uk/uksi/2003/273), [art. 2](https://www.legislation.gov.uk/uksi/2003/273/article/2)
+[^c-a9acb26387f903f38a2adc2cbf4cc5de]: Textual amendment: [S. 179A](https://www.legislation.gov.uk/ukpga/1992/5/section/179A) inserted (14.2.2003) by [Social Security Fraud Act 2001 (c. 11)](https://www.legislation.gov.uk/ukpga/2001/11), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2001/11/section/5/1), [20(1)](https://www.legislation.gov.uk/ukpga/2001/11/section/20/1); [S.I. 2003/273](https://www.legislation.gov.uk/uksi/2003/273), [art. 2](https://www.legislation.gov.uk/uksi/2003/273/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4A. Prohibitions in connection with genetic material not of human origin[^key-ad1bf0b3d8294e7b7dc27d60e17c7cef]
+## 4A. Prohibitions in connection with genetic material not of human origin[^c-ad1bf0b3d8294e7b7dc27d60e17c7cef]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,4 +79,4 @@ except in pursuance of a licence.
 
 ## Annotations
 
-[^key-ad1bf0b3d8294e7b7dc27d60e17c7cef]: Textual amendment: S. 4A inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/4/2), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/a)
+[^c-ad1bf0b3d8294e7b7dc27d60e17c7cef]: Textual amendment: S. 4A inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/4/2), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/a)

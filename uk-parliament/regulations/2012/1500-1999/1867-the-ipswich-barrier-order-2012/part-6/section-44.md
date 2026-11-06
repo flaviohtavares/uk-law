@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Protection of A.B. Ports[^key-096d1be7dde1c9b009ef1c18f85c0d8f]
+## 44. Protection of A.B. Ports[^c-096d1be7dde1c9b009ef1c18f85c0d8f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 7 (protection of A.B. Ports) has effect.
 
 ## Annotations
 
-[^key-096d1be7dde1c9b009ef1c18f85c0d8f]: Commencement: Art. 44 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-096d1be7dde1c9b009ef1c18f85c0d8f]: Commencement: Art. 44 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

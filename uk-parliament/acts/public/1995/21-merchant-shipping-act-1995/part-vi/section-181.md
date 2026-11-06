@@ -50,7 +50,7 @@ but does not include any damage attributable to any impairment of the environmen
 - (a) references to a discharge or escape of oil from a ship are references to such a discharge or escape wherever it may occur, and whether it is of oil carried in a cargo tank or of oil carried in a bunker fuel tank; and
 - (b) where more than one discharge or escape results from the same occurrence or from a series of occurrences having the same origin, they shall be treated as one.
 
-(3) References in this Chapter to the territory of any country shall be construed in accordance with section 170(4) reading the reference to a Liability Convention country as a reference to a Fund Convention country or a Supplementary Fund Protocol country (as the case may be)[^key-a83782d2072e950060f0c82f3745d4c7] .
+(3) References in this Chapter to the territory of any country shall be construed in accordance with section 170(4) reading the reference to a Liability Convention country as a reference to a Fund Convention country or a Supplementary Fund Protocol country (as the case may be)[^c-a83782d2072e950060f0c82f3745d4c7] .
 
 ## Annotations
 
@@ -84,4 +84,4 @@ but does not include any damage attributable to any impairment of the environmen
 
     S. 181 extended (with modifications) to Saint Helena (20.5.1998) by [S.I. 1998/1263](https://www.legislation.gov.uk/uksi/1998/1263), [art. 2](https://www.legislation.gov.uk/uksi/1998/1263/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1263/schedule)
 
-[^key-a83782d2072e950060f0c82f3745d4c7]: Textual amendment: Words in s. 181(3) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [11](https://www.legislation.gov.uk/uksi/2006/1265/article/11)
+[^c-a83782d2072e950060f0c82f3745d4c7]: Textual amendment: Words in s. 181(3) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [11](https://www.legislation.gov.uk/uksi/2006/1265/article/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Withdrawal from a supplementary list[^key-254cccf23f672f5d4db6ef5a1ec1daf3]
+## 22. Withdrawal from a supplementary list[^c-254cccf23f672f5d4db6ef5a1ec1daf3]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-254cccf23f672f5d4db6ef5a1ec1daf3]: Commencement: Reg. 22 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-254cccf23f672f5d4db6ef5a1ec1daf3]: Commencement: Reg. 22 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

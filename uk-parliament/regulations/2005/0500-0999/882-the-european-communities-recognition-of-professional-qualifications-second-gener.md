@@ -32,7 +32,7 @@ summary: ''
 
 PROFESSIONAL QUALIFICATIONS
 
-The European Communities (Recognition of Professional Qualifications) (Second General System) (Amendment) Regulations 2005 (revoked)[^key-625ed0ec7ad6fe106c2055dc664291f7]
+The European Communities (Recognition of Professional Qualifications) (Second General System) (Amendment) Regulations 2005 (revoked)[^c-625ed0ec7ad6fe106c2055dc664291f7]
 
 Made
 
@@ -46,46 +46,46 @@ Coming into force
 
 29th April 2005
 
-[^key-625ed0ec7ad6fe106c2055dc664291f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-625ed0ec7ad6fe106c2055dc664291f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-625ed0ec7ad6fe106c2055dc664291f7]
+## 1. Citation and commencement[^c-625ed0ec7ad6fe106c2055dc664291f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the European Communities (Recognition of Professional Qualifications (Second General System) Regulations 2002.[^key-625ed0ec7ad6fe106c2055dc664291f7]
+## 2. Amendment to the European Communities (Recognition of Professional Qualifications (Second General System) Regulations 2002.[^c-625ed0ec7ad6fe106c2055dc664291f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-625ed0ec7ad6fe106c2055dc664291f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-625ed0ec7ad6fe106c2055dc664291f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Amendment to the European Communities (Recognition of Professional Qualifications) (Second General System) Regulations 2002[^key-625ed0ec7ad6fe106c2055dc664291f7]
+## SCHEDULE — Amendment to the European Communities (Recognition of Professional Qualifications) (Second General System) Regulations 2002[^c-625ed0ec7ad6fe106c2055dc664291f7]
 
 Regulation 2
 
-**1.**[^key-625ed0ec7ad6fe106c2055dc664291f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-625ed0ec7ad6fe106c2055dc664291f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-625ed0ec7ad6fe106c2055dc664291f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-625ed0ec7ad6fe106c2055dc664291f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-625ed0ec7ad6fe106c2055dc664291f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-625ed0ec7ad6fe106c2055dc664291f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-625ed0ec7ad6fe106c2055dc664291f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-625ed0ec7ad6fe106c2055dc664291f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-625ed0ec7ad6fe106c2055dc664291f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-625ed0ec7ad6fe106c2055dc664291f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-625ed0ec7ad6fe106c2055dc664291f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-625ed0ec7ad6fe106c2055dc664291f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-625ed0ec7ad6fe106c2055dc664291f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-625ed0ec7ad6fe106c2055dc664291f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-625ed0ec7ad6fe106c2055dc664291f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-625ed0ec7ad6fe106c2055dc664291f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-625ed0ec7ad6fe106c2055dc664291f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-625ed0ec7ad6fe106c2055dc664291f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-625ed0ec7ad6fe106c2055dc664291f7]: Textual amendment: Regulations revoked (19.10.2007) by [The European Communities (Recognition of Professional Qualifications) Regulations 2007 (S.I. 2007/2781)](https://www.legislation.gov.uk/uksi/2007/2781), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2781/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2007/2781/schedule/6)
+[^c-625ed0ec7ad6fe106c2055dc664291f7]: Textual amendment: Regulations revoked (19.10.2007) by [The European Communities (Recognition of Professional Qualifications) Regulations 2007 (S.I. 2007/2781)](https://www.legislation.gov.uk/uksi/2007/2781), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2781/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2007/2781/schedule/6)

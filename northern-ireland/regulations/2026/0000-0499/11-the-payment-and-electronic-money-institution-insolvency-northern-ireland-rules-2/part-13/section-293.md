@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 293. Application of the I (N.I.) O 1989 and the Company Directors Disqualification (N.I.) Order 2002[^key-7860a02f3263c51ff724e57b235fba3f]
+## 293. Application of the I (N.I.) O 1989 and the Company Directors Disqualification (N.I.) Order 2002[^c-7860a02f3263c51ff724e57b235fba3f]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ For the purposes of these Rules, any reference in I (N.I.) O 1989 or the Company
 
 ## Annotations
 
-[^key-7860a02f3263c51ff724e57b235fba3f]: Commencement: [Rule 293](https://www.legislation.gov.uk/nisr/2026/11/rule/293) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-7860a02f3263c51ff724e57b235fba3f]: Commencement: [Rule 293](https://www.legislation.gov.uk/nisr/2026/11/rule/293) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
 
 [^f00026]: Footnote: [2002 No.3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150).

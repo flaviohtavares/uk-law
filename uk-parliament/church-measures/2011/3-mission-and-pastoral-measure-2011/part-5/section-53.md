@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 53. Amendment and revocation of pastoral schemes and orders[^key-8548fcdc36a653b76faf78b77bb5b1d3]
+## 53. Amendment and revocation of pastoral schemes and orders[^c-8548fcdc36a653b76faf78b77bb5b1d3]
 
 *Extent: E*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8548fcdc36a653b76faf78b77bb5b1d3]: Commencement: S. 53 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-8548fcdc36a653b76faf78b77bb5b1d3]: Commencement: S. 53 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

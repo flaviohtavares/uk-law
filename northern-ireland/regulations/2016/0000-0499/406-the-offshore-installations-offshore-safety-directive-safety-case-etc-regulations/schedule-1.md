@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 4
 
-### 1. Interpretation[^key-f596563ee741f4ab1b126975ad2974a5]
+### 1. Interpretation[^c-f596563ee741f4ab1b126975ad2974a5]
 
 (1) In this Schedule—
 
@@ -36,7 +36,7 @@ Regulation 4
 
 (3) Any reference in this Schedule to premises and activities includes a reference to any person, article or substance on those premises or engaged in, or, as the case may be, used or for use in connection with any such activity, but does not include a reference to an aircraft which is airborne.
 
-### 2. Offshore installations[^key-b1264a78ff2818b514ba91563d54e6d2]
+### 2. Offshore installations[^c-b1264a78ff2818b514ba91563d54e6d2]
 
 (1) This paragraph shall apply within the territorial sea or a designated area to and in relation to—
 
@@ -75,7 +75,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 
 (5) Sub-paragraph (4)(b) does not apply in respect of a vessel in or from which an activity is carried on in connection with, or any activity that is immediately preparatory to an activity in connection with, an offshore installation other than an activity falling within sub-paragraph 4(b).
 
-### 3. Wells[^key-9a3a84fa3838ec98e55aac770c901961]
+### 3. Wells[^c-9a3a84fa3838ec98e55aac770c901961]
 
 (1) Subject to sub-paragraph (2), this paragraph applies within the territorial sea or a designated area to and in relation to—
 
@@ -84,7 +84,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 
 (2) Sub-paragraph (1) includes keeping a vessel on station for the purpose of working on a well but otherwise does not include navigation or an activity connected with navigation.
 
-### 4. Pipelines[^key-dc396c7d1b06135b0679f827504f9620]
+### 4. Pipelines[^c-dc396c7d1b06135b0679f827504f9620]
 
 (1) This paragraph applies within the territorial sea or a designated area to and in relation to—
 
@@ -118,13 +118,13 @@ together with any supplementary unit which is ordinarily connected to it, and al
   - (e) any activities incidental to the activities described in heads (a) to (d);
   - (f) a diving project in connection with any of the works mentioned in heads (a) to (e) or for the purpose of determining whether a place is suitable as part of the site of a proposed pipeline and the carrying out of surveying operations for settling the route of a proposed pipeline.
 
-### 5. Mines[^key-303efd884e6c06a7b590843e34ee3388]
+### 5. Mines[^c-303efd884e6c06a7b590843e34ee3388]
 
 (1) This paragraph applies to and in relation to a mine within the territorial sea, and any activity in connection with it, while it is being worked.
 
 (2) In this paragraph “mine” has the same meaning as in the Mines Act (Northern Ireland) 1969[^f00037].
 
-### 6. Gas Importation and Storage[^key-ed2131edf69c6b584943b3f874c64b9b]
+### 6. Gas Importation and Storage[^c-ed2131edf69c6b584943b3f874c64b9b]
 
 (1) Subject to sub-paragraph (3), this paragraph applies within the territorial sea to and in relation to any activities connected with or immediately preparatory to the activities set out in sub-paragraph (2).
 
@@ -145,7 +145,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 
 (5) For the purposes of sub-paragraphs (2) and (4), references to gas include any substance which consists wholly or mainly of gas.
 
-### 7. Production of Energy from Water or Wind[^key-5624f446c99d9f9a1493d13e1c5dc6aa]
+### 7. Production of Energy from Water or Wind[^c-5624f446c99d9f9a1493d13e1c5dc6aa]
 
 (1) This paragraph applies within the territorial sea to and in relation to any energy structure or activities connected with or preparatory to—
 
@@ -155,7 +155,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 
 (2) In this paragraph “energy structure” means a fixed or floating structure or machine, other than a vessel, which is, or is to be, or has been, used for producing energy from water or wind.
 
-### 8. Underground Coal Gasification[^key-117f6c616d2b54b3f83d52984e258a96]
+### 8. Underground Coal Gasification[^c-117f6c616d2b54b3f83d52984e258a96]
 
  This paragraph applies within the territorial sea or a designated area to and in relation to—
 
@@ -163,7 +163,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 - (b) any activity which is immediately preparatory to any activity in sub-paragraph (a); and
 - (c) any fixed or floating structure which is, or is to be, or has been, used in connection with the carrying on of activities within sub-paragraphs (a) and (b).
 
-### 9. Other activities[^key-ff55a6d5122bc90647d09941e5ec7af0]
+### 9. Other activities[^c-ff55a6d5122bc90647d09941e5ec7af0]
 
 (1) Subject to sub-paragraph (2), this paragraph applies within the territorial sea to and in relation to—
 
@@ -183,24 +183,24 @@ together with any supplementary unit which is ordinarily connected to it, and al
 
 ## Annotations
 
-[^key-f596563ee741f4ab1b126975ad2974a5]: Commencement: Sch. 1 para. 1 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-f596563ee741f4ab1b126975ad2974a5]: Commencement: Sch. 1 para. 1 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00036]: Footnote: [S.R. 2005 No. 45](https://www.legislation.gov.uk/nisr/2005/45), as amended by [S.R. 2007 No. 247](https://www.legislation.gov.uk/nisr/2007/247)
 
-[^key-b1264a78ff2818b514ba91563d54e6d2]: Commencement: Sch. 1 para. 2 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-b1264a78ff2818b514ba91563d54e6d2]: Commencement: Sch. 1 para. 2 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-9a3a84fa3838ec98e55aac770c901961]: Commencement: Sch. 1 para. 3 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-9a3a84fa3838ec98e55aac770c901961]: Commencement: Sch. 1 para. 3 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-dc396c7d1b06135b0679f827504f9620]: Commencement: Sch. 1 para. 4 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-dc396c7d1b06135b0679f827504f9620]: Commencement: Sch. 1 para. 4 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-303efd884e6c06a7b590843e34ee3388]: Commencement: Sch. 1 para. 5 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-303efd884e6c06a7b590843e34ee3388]: Commencement: Sch. 1 para. 5 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00037]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
 
-[^key-ed2131edf69c6b584943b3f874c64b9b]: Commencement: Sch. 1 para. 6 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-ed2131edf69c6b584943b3f874c64b9b]: Commencement: Sch. 1 para. 6 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-5624f446c99d9f9a1493d13e1c5dc6aa]: Commencement: Sch. 1 para. 7 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-5624f446c99d9f9a1493d13e1c5dc6aa]: Commencement: Sch. 1 para. 7 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-117f6c616d2b54b3f83d52984e258a96]: Commencement: Sch. 1 para. 8 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-117f6c616d2b54b3f83d52984e258a96]: Commencement: Sch. 1 para. 8 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-ff55a6d5122bc90647d09941e5ec7af0]: Commencement: Sch. 1 para. 9 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-ff55a6d5122bc90647d09941e5ec7af0]: Commencement: Sch. 1 para. 9 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

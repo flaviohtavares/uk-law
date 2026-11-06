@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Shadow directors, etc[^key-d816bb6165cb5ad74ded7923fed08189][^key-536f01a165d787a1702eb83e5c9dff8f]
+## 88. Shadow directors, etc[^c-d816bb6165cb5ad74ded7923fed08189][^c-536f01a165d787a1702eb83e5c9dff8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d816bb6165cb5ad74ded7923fed08189]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2023/52/section/88) in force at Royal Assent for specified purposes, see [s. 334(3)(a)(vi)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a/vi)
+[^c-d816bb6165cb5ad74ded7923fed08189]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2023/52/section/88) in force at Royal Assent for specified purposes, see [s. 334(3)(a)(vi)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a/vi)
 
-[^key-536f01a165d787a1702eb83e5c9dff8f]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2023/52/section/88) in force at 26.12.2023 in so far as not already in force, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-536f01a165d787a1702eb83e5c9dff8f]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2023/52/section/88) in force at 26.12.2023 in so far as not already in force, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

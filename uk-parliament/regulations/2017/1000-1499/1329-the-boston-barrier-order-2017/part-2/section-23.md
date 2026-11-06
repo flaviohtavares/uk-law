@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Power to survey and investigate land, etc.[^key-33e6953b678e200f9e04c411f061bbe5]
+## 23. Power to survey and investigate land, etc.[^c-33e6953b678e200f9e04c411f061bbe5]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ but such consent must not be unreasonably withheld.
 
 ## Annotations
 
-[^key-33e6953b678e200f9e04c411f061bbe5]: Commencement: Art. 23 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-33e6953b678e200f9e04c411f061bbe5]: Commencement: Art. 23 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

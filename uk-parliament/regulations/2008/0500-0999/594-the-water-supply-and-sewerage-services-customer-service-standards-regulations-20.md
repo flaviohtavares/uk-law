@@ -62,7 +62,7 @@ The Secretary of State and the Welsh Ministers have considered a written summary
 
 The only provisions of these Regulations (other than provisions representing the consolidation of the Water Supply and Sewerage Services (Customer Service Standards) Regulations 1989[^f00003]) are the provisions proposed by the Authority in its applications.
 
-## PART 1 — Introduction[^key-9414c60e325e79218a624ea36ecb2ee7]
+## PART 1 — Introduction[^c-9414c60e325e79218a624ea36ecb2ee7]
 
 ### 1. Citation
 
@@ -80,15 +80,15 @@ These Regulations extend to England and Wales only.
 
 (1) In these Regulations—
 
-- [^key-2615661514000bd94abd0a71b8591b1d]...
+- [^c-2615661514000bd94abd0a71b8591b1d]...
 - “**domestic premises**” means premises used wholly or partly as a dwelling or intended for that use;
 - “**outbuilding**” means a shed, garage or similar building that is not attached to any other building other than another outbuilding;
 - “**the WIA**” means the Water Industry Act 1991[^f00004]; and
 - “**working day**” means any day that is not a Saturday, a Sunday, Christmas Day, Good Friday nor a bank holiday under the Banking and Financial Dealings Act 1971[^f00005].
 
-(2)[^key-18dcda519f5a8855c9873f5dfd897a34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-18dcda519f5a8855c9873f5dfd897a34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Customer service standards for Welsh undertakers[^key-ba2f9b9464775330565d0d3d7392da6b]
+## PART 2 — Customer service standards for Welsh undertakers[^c-ba2f9b9464775330565d0d3d7392da6b]
 
 ### 4A. Interpretation of Part 2
 
@@ -105,7 +105,7 @@ These Regulations extend to England and Wales only.
 
 ### 5. Exclusions
 
-(1) Nothing in this Part[^key-529334619cbff7be0c15614e8fc81dc3] requires a relevant Welsh undertaker[^key-ddc51ade794c984d2e9fc9badec24a4c]—
+(1) Nothing in this Part[^c-529334619cbff7be0c15614e8fc81dc3] requires a relevant Welsh undertaker[^c-ddc51ade794c984d2e9fc9badec24a4c]—
 
 - (a) to give notice to more than one person in respect of the same premises; or
 - (b) to make a payment to more than one person in respect of any one claim.
@@ -210,7 +210,7 @@ These Regulations extend to England and Wales only.
 
 ### 8. Notice of interruption of supply
 
-(1) This regulation applies where a Welsh water undertaker[^key-4a94a5734cee6c28ac8fc71e3180920e] exercises its power under section 60(1) of the WIA (disconnections for the carrying out of necessary works).
+(1) This regulation applies where a Welsh water undertaker[^c-4a94a5734cee6c28ac8fc71e3180920e] exercises its power under section 60(1) of the WIA (disconnections for the carrying out of necessary works).
 
 (2) If under section 60(3) of the WIA the Welsh undertaker is required to serve a notice, the Welsh undertaker must—
 
@@ -319,7 +319,7 @@ These Regulations extend to England and Wales only.
 
 ### 11. Flooding from sewers—internal flooding of buildings
 
-(1) Effluent from a sewer that is vested in a Welsh sewerage undertaker[^key-14faa376f40dcf2e2b3509c039b22805] must not enter a customer’s building.
+(1) Effluent from a sewer that is vested in a Welsh sewerage undertaker[^c-14faa376f40dcf2e2b3509c039b22805] must not enter a customer’s building.
 
 (2) Subject to paragraphs (3) and (5), if effluent from a sewer that is vested in a Welsh sewerage undertaker enters a building (other than an outbuilding) of a customer, the Welsh undertaker must pay the customer, in respect of each incident of such entry, the lesser of—
 
@@ -440,7 +440,7 @@ the Welsh undertaker must make the payment, or so much of it as does not exceed 
 
 (3) If the Authority determines the dispute in the customer’s favour but the Welsh undertaker fails to give effect to the determination, the customer may set off the amount in question against any liability that he has to the Welsh undertaker.
 
-## PART 3 — Customer service standards for English service providers and English wholesalers[^key-d6749476f4dd9db8aa683d141a125a64]
+## PART 3 — Customer service standards for English service providers and English wholesalers[^c-d6749476f4dd9db8aa683d141a125a64]
 
 ### 17A. Interpretation of Part 3
 
@@ -449,7 +449,7 @@ In this Part—
 - “customer” includes—
   - (a) in cases of self-supply, the relevant water supply licensee, sewerage licensee or person associated with a licensee; and
   - (b) in all other cases, customers or potential customers of water supply licensees or sewerage licensees that are operating in accordance with a retail authorisation, but does not include a person associated with the relevant licensee;
-- “[^key-f35bb5b998113cba4d91df0bb2dc9e67]**English duty-holder**” means—
+- “[^c-f35bb5b998113cba4d91df0bb2dc9e67]**English duty-holder**” means—
   - (a) an English service provider, or
   - (b) an English wholesaler;
 - “English service provider” means—
@@ -459,7 +459,7 @@ In this Part—
     - (ii) the English undertaker who supplies water or provides sewerage services to the customer;
 - “English undertaker” means a water undertaker or sewerage undertaker whose area is wholly or mainly in England;
 - “English wholesaler” means an English undertaker acting in their capacity of providing, developing, maintaining, improving or extending a water supply system or sewerage system, as appropriate, and “English water wholesaler” and “English sewerage wholesaler” are to be construed accordingly;
-- “[^key-1d282d2ec1b280765c28598fc09fe290]**EW sewer**” means a sewer which is vested in an English sewerage wholesaler;
+- “[^c-1d282d2ec1b280765c28598fc09fe290]**EW sewer**” means a sewer which is vested in an English sewerage wholesaler;
 - “**non-domestic outbuilding**” means an outbuilding which is not part of domestic premises;
 - “person associated with a licensee” has the meaning given—
   - (a) for a water supply licence, in paragraph 11 of Schedule 2A to the WIA; and
@@ -471,7 +471,7 @@ In this Part—
   - (b) for a sewerage licence, in paragraph 1 of Schedule 2B to the WIA;
 - “self-supply” means situations where a water supply licensee or sewerage licensee supplies water or provides sewerage services, as appropriate, to the premises of the relevant licensee or a person associated with the relevant licensee;
 - “sewerage system”, in relation to an English sewerage undertaker or English sewerage wholesaler, has the meaning given by section 17BA(7) of the WIA;
-- “[^key-65d90935953889eb24c993c48ffa40c9]**valid claim**” means a claim by a customer (however made) for a payment under regulation 17E, 17F, 17G or 17H which—
+- “[^c-65d90935953889eb24c993c48ffa40c9]**valid claim**” means a claim by a customer (however made) for a payment under regulation 17E, 17F, 17G or 17H which—
   - (a) includes the name of the customer and at least one of the following—
     - (i) an address for correspondence;
     - (ii) an email address for correspondence;
@@ -485,7 +485,7 @@ In this Part—
 
 ### 17B. Exclusions
 
-(1) Nothing in this Part requires an English duty-holder[^key-9a2b0ee3692e573a1917634cd64ac4c9]—
+(1) Nothing in this Part requires an English duty-holder[^c-9a2b0ee3692e573a1917634cd64ac4c9]—
 
 - (a) to give notice to more than one person in respect of the same premises; or
 - (b) to make a payment to more than one person in respect of any one claim.
@@ -494,7 +494,7 @@ In this Part—
 
 ### 17C. Keeping of appointments
 
-(1)[^key-57d9e799b1a774ed42ac42f58bde9e45] This regulation applies if a representative of an English duty-holder is to visit a customer’s premises in connection with the provision of water supply services or sewerage services other than in emergency circumstances.
+(1)[^c-57d9e799b1a774ed42ac42f58bde9e45] This regulation applies if a representative of an English duty-holder is to visit a customer’s premises in connection with the provision of water supply services or sewerage services other than in emergency circumstances.
 
 (1A) A representative of an English duty-holder is to visit a customer’s premises in emergency circumstances if—
 
@@ -506,7 +506,7 @@ In this Part—
 
 (1B) For the purposes of paragraph (1A), an English duty-holder’s normal working hours on a working day include the periods that the duty-holder specifies as the morning and the afternoon for a visit on that working day in accordance with paragraph (3)(d).
 
-(2) If the representative requires access to the premises, or it would otherwise be reasonable to expect the customer or a person acting on the customer’s behalf to be on the premises, the English duty-holder[^key-6feb1b96d94f86da3d05a9339bf86264] must—
+(2) If the representative requires access to the premises, or it would otherwise be reasonable to expect the customer or a person acting on the customer’s behalf to be on the premises, the English duty-holder[^c-6feb1b96d94f86da3d05a9339bf86264] must—
 
 - (a) consult the customer orally or in writing to try to agree on a day to attend the premises; and
 - (b) give the customer notice, orally or in writing, of when the representative will attend the premises.
@@ -518,26 +518,26 @@ In this Part—
 - (c) either—
   - (i) if the customer so requests, a period of two hours during which the visit will be made; or
   - (ii) otherwise, whether the visit will be made during the morning or the afternoon; and
-- (d) if the notice specifies that the visit will be made during the morning or afternoon, at what times the English duty-holder[^key-c1264296c103fa4f534dc7583122e610] regards the morning or afternoon, as the case requires, as beginning and ending.
+- (d) if the notice specifies that the visit will be made during the morning or afternoon, at what times the English duty-holder[^c-c1264296c103fa4f534dc7583122e610] regards the morning or afternoon, as the case requires, as beginning and ending.
 
 (4) Subject to paragraph (6)—
 
-- (a)[^key-90c0d5395a2708fd00ecb1d93a15c875] the English service provider must pay the customer £40, if the English duty-holder gives a notice that is not in accordance with paragraph (3);
+- (a)[^c-90c0d5395a2708fd00ecb1d93a15c875] the English service provider must pay the customer £40, if the English duty-holder gives a notice that is not in accordance with paragraph (3);
 - (aa) the English service provider must pay the customer £50 if—
   - (i) a representative does not attend the premises on the date specified in the notice; or
   - (ii) a representative attends the premises on the date specified in the notice but not during (as the case may be)—
     - (aa) the period of two hours specified in the notice;
     - (bb) the period specified in the notice as “the morning”; or
     - (cc) the period specified in the notice as “the afternoon”;
-- (b) if the English wholesaler is responsible for a breach that gives rise to a payment obligation on the English service provider under sub-paragraph (a) or (aa)[^key-798ce34287493a1b387b07f8bbfd0971] it must pay the English service provider in accordance with regulation 17K.
+- (b) if the English wholesaler is responsible for a breach that gives rise to a payment obligation on the English service provider under sub-paragraph (a) or (aa)[^c-798ce34287493a1b387b07f8bbfd0971] it must pay the English service provider in accordance with regulation 17K.
 
-(5)[^key-0a1687cdd6dccd41c97874c1feca77b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0a1687cdd6dccd41c97874c1feca77b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The English service provider need not pay the customer, and the English wholesaler need not pay the English service provider, under paragraph (4) if—
 
 - (a) the customer cancels the appointment;
-- (b) the English duty-holder[^key-2cd73e5cd724fc3877dfd249e922442b] cancels the appointment by giving the customer at least 24 hours’ notice, orally or in writing, of the cancellation; or
-- (c) it became impracticable, for a reason mentioned in paragraph (7), for the representative to keep the appointment, and the English duty-holder[^key-4df480348945d95cd74a48c13559ccf4] could not reasonably have so foreseen in time to enable it—
+- (b) the English duty-holder[^c-2cd73e5cd724fc3877dfd249e922442b] cancels the appointment by giving the customer at least 24 hours’ notice, orally or in writing, of the cancellation; or
+- (c) it became impracticable, for a reason mentioned in paragraph (7), for the representative to keep the appointment, and the English duty-holder[^c-4df480348945d95cd74a48c13559ccf4] could not reasonably have so foreseen in time to enable it—
   - (i) to cancel the appointment giving 24 hours’ notice; or
   - (ii) to make other suitable arrangements for a representative to attend the premises at the arranged time.
 
@@ -545,15 +545,15 @@ In this Part—
 
 - (a) severe weather;
 - (b) where the appointment is made by the English service provider—
-  - (i) industrial action by employees of the English duty-holder[^key-f557877e829df94d991d85d7b01dfda0];
+  - (i) industrial action by employees of the English duty-holder[^c-f557877e829df94d991d85d7b01dfda0];
   - (ii) the act or default of a person who is not an officer, employee or agent of the English service provider; or
   - (iii) the act or default of a person who is not a person acting on behalf of the English service provider or of an agent of the English service provider; and
 - (c) where the appointment is made by the English wholesaler who is not the English service provider—
-  - (i) industrial action by employees of the English duty-holder[^key-2e1763102f9b558cf1e2f879462d3659];
+  - (i) industrial action by employees of the English duty-holder[^c-2e1763102f9b558cf1e2f879462d3659];
   - (ii) the act or default of a person who is not an officer, employee or agent of the English wholesaler; or
   - (iii) the act or default of a person who is not a person acting on behalf of the English wholesaler or of an agent of the English wholesaler.
 
-(8) The representative of an English duty-holder[^key-2a8b78308db32f17f066b8782e687dcb] who attended a customer’s premises may make and sign a written record stating that the representative attended the premises and the time and date of attendance.
+(8) The representative of an English duty-holder[^c-2a8b78308db32f17f066b8782e687dcb] who attended a customer’s premises may make and sign a written record stating that the representative attended the premises and the time and date of attendance.
 
 (9) Unless the customer establishes that the record is incorrect, it is to be treated as confirming that the representative attended the premises as stated in the record.
 
@@ -561,13 +561,13 @@ In this Part—
 
 (1) This regulation applies where—
 
-- (a)[^key-cc134486f79908bd90b0474d0043e2fa] an English service provider receives a valid complaint from a customer about the supply of water or the provision of sewerage services by the provider;
+- (a)[^c-cc134486f79908bd90b0474d0043e2fa] an English service provider receives a valid complaint from a customer about the supply of water or the provision of sewerage services by the provider;
 - (b) an English wholesaler receives a valid complaint from a customer about the water supply system or sewerage system of the wholesaler; or
 - (c) an English service provider, apart from in cases of self-supply, receives—
   - (i) a valid query from a customer about the correctness of an account for the supply of water or the provision of sewerage services; or
   - (ii) a valid request from a customer for a change to payment arrangements.
 
-(1A)[^key-ce8cf4f5359e964fd3275cb307a170bf] In this regulation—
+(1A)[^c-ce8cf4f5359e964fd3275cb307a170bf] In this regulation—
 
 - “**valid complaint**” means a complaint (however made) which—
   - (a) includes the name of the customer and at least one of the following—
@@ -592,27 +592,27 @@ In this Part—
   - (c) identifies the particular payment arrangements to which it relates; and
   - (d) describes the change that the customer wants to make to the arrangements.
 
-(2)[^key-df33f59c1f6c75f55876640f81890336] An English duty-holder who receives a valid complaint must provide a substantive reply to the complaint to the customer within 10 working days.
+(2)[^c-df33f59c1f6c75f55876640f81890336] An English duty-holder who receives a valid complaint must provide a substantive reply to the complaint to the customer within 10 working days.
 
 (3) The English service provider must provide a substantive reply to the customer—
 
-- (a) to a valid query[^key-7e32e4ab92907c18cdd9a9603cf7fb78], within 10 working days; or
-- (b) to a valid request[^key-d23b7eb805b2eb16e478d26b58082521] for a change to payment arrangements that cannot be met, within 5 working days.
+- (a) to a valid query[^c-7e32e4ab92907c18cdd9a9603cf7fb78], within 10 working days; or
+- (b) to a valid request[^c-d23b7eb805b2eb16e478d26b58082521] for a change to payment arrangements that cannot be met, within 5 working days.
 
-(4)[^key-b7e4f933a56200ba26241a171d0f0289] The first day of the period for reply is the day after the day on which the English duty-holder receives the valid complaint, valid query or valid request.
+(4)[^c-b7e4f933a56200ba26241a171d0f0289] The first day of the period for reply is the day after the day on which the English duty-holder receives the valid complaint, valid query or valid request.
 
 (5) Subject to paragraph (7)—
 
-- (a) the English service provider must pay the customer £40[^key-0af2d1e0d052365c0c8aed7d6cb4a56b] if—
+- (a) the English service provider must pay the customer £40[^c-0af2d1e0d052365c0c8aed7d6cb4a56b] if—
   - (i) the English wholesaler does not comply with paragraph (2); or
   - (ii) the English service provider does not comply with paragraph (2) or (3); and
 - (b) if the English wholesaler does not comply with paragraph (2) it must pay the English service provider in accordance with regulation 17K.
 
-(6)[^key-611c25bd76f3f1e76f8c2340f6a155dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-611c25bd76f3f1e76f8c2340f6a155dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) The English service provider need not pay the customer, and the English wholesaler need not pay the English service provider, under paragraph (5) if—
 
-- (a)[^key-bd1b80e9243a1479daf763ab63dc8f9e] the customer makes the complaint, query or request using an alternative means of communication, the means used by the consumer is not a valid alternative means of communication;
+- (a)[^c-bd1b80e9243a1479daf763ab63dc8f9e] the customer makes the complaint, query or request using an alternative means of communication, the means used by the consumer is not a valid alternative means of communication;
 - (aa) a customer makes a complaint, query or request to an English duty-holder by post or other similar service or email, the customer did not make the complaint to the English duty-holder at a valid address or a valid email address;
 - (ab) a complaint, query or request is made orally by telephone, the telephone number used to make the complaint was not a valid telephone number;
 - (b) the customer does not wish to pursue the complaint, query or request and has so informed the English service provider or English wholesaler, as appropriate;
@@ -624,10 +624,10 @@ In this Part—
   - (i) industrial action by employees of the English wholesaler or the English service provider;
   - (ii) the act or default of a person who is not an officer, employee or agent of the English wholesaler; or
   - (iii) the act or default of a person who is not a person acting on behalf of the English wholesaler or of an agent of the English wholesaler; or
-- (e)[^key-c685c6ecab26013d97aa9d798fa3f922] the complaint, query or request was frivolous or vexatious;
+- (e)[^c-c685c6ecab26013d97aa9d798fa3f922] the complaint, query or request was frivolous or vexatious;
 - (ea) in the case of a reply to a complaint or query, the English duty-holder reasonably considered that a visit was necessary before replying, and severe weather made that visit impracticable.
 
-(7A)[^key-6566202bba4ddba38d7cee257105c868] For the purposes of this regulation—
+(7A)[^c-6566202bba4ddba38d7cee257105c868] For the purposes of this regulation—
 
 - (a) an alternative means of communication is a means of communication other than—
   - (i) post or a similar service;
@@ -638,7 +638,7 @@ In this Part—
   includes in particular communication via a social media service, SMS or other messaging service;
 - (b) an alternative means of communication is a valid alternative means of communication if that means of communication has been specified by the English duty-holder to the customer as a means by which a complaint, request or query (as the case may be) may be made to it.
 
-(8)[^key-a2728fcbec5e0cf0cdae59d855d2cd9d] For the purposes of this regulation—
+(8)[^c-a2728fcbec5e0cf0cdae59d855d2cd9d] For the purposes of this regulation—
 
 - (a) an address is a valid address if it is an address notified by the English duty-holder as an address to which a complaint, query or request (as the case may be) may be sent;
 - (b) an email address is a valid email address if it is an email address notified by the English duty-holder as an email address to which a complaint, query or request (as the case may be) may be sent;
@@ -657,21 +657,21 @@ In this Part—
 
 ### 17E. Notice of interruption of supply
 
-(1)[^key-43eaee112c87ced49ba66b4953c97637] This regulation applies where the supply of water to premises is, or is to be, interrupted or cut off for any reason.
+(1)[^c-43eaee112c87ced49ba66b4953c97637] This regulation applies where the supply of water to premises is, or is to be, interrupted or cut off for any reason.
 
 (1A) Paragraph (2) applies where an English wholesaler—
 
 - (a) exercises its power under section 60(1) of the WIA (disconnections for the carrying out of necessary works), and
 - (b) is required to serve a notice under section 60(3) of the WIA.
 
-(2) If this paragraph applies[^key-7c667dfda8c01420b5a07c5a7ed88db4], the English wholesaler must—
+(2) If this paragraph applies[^c-7c667dfda8c01420b5a07c5a7ed88db4], the English wholesaler must—
 
 - (a) specify in the notice—
   - (i) the earliest date and time after which the English wholesaler reasonably expects that the supply will be interrupted or cut off; and
   - (ii) the latest date and time by which the English wholesaler reasonably expects that the supply will be restored; and
 - (b) if the water is to be cut off for more than four hours, give at least 48 hours’ notice before the supply is interrupted or cut off.
 
-(3)[^key-49ac32c1b79da58fbf5eddc277c24ab4] Paragraph (4) applies if—
+(3)[^c-49ac32c1b79da58fbf5eddc277c24ab4] Paragraph (4) applies if—
 
 - (a) because of an emergency, an English wholesaler—
   - (i) interrupts or cuts off the supply of water to the premises of a customer in exercise of its powers under section 60(1) of the WIA, and
@@ -688,11 +688,11 @@ In this Part—
 (5) Subject to paragraph (7), if the English wholesaler fails to comply with paragraph (2)(b)—
 
 - (a) the English service provider must pay each customer whose supply of water was interrupted or cut off—
-  - (i) if the supply is to domestic premises, £50[^key-686131ed55f99c10fc5b74b7bc42583a]; and
-  - (ii) if the supply is to premises of any other kind, £100[^key-23cc2c627c7234374bf13b75c7dc01d0]; and
+  - (i) if the supply is to domestic premises, £50[^c-686131ed55f99c10fc5b74b7bc42583a]; and
+  - (ii) if the supply is to premises of any other kind, £100[^c-23cc2c627c7234374bf13b75c7dc01d0]; and
 - (b) the English wholesaler must pay the English service provider in accordance with regulation 17K.
 
-(6)[^key-bb959c3dbfc76cb02a4b2f815b4812b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-bb959c3dbfc76cb02a4b2f815b4812b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) The English service provider need not pay the customer, and the English wholesaler need not pay the English service provider, under paragraph (5)—
 
@@ -704,38 +704,38 @@ In this Part—
   - (i) the English service provider could not practicably have identified the customer as having been affected; and
   - (ii) the customer does not make a claim (orally or in writing) to the English service provider for a payment under this regulation within the 3 months following the date on which the supply was interrupted or cut off.
 
-### 17F. Entitlement to payment or credit where supply not restored as promised or as required[^key-77fbc49ab35cc52688e76e62e88cb500]
+### 17F. Entitlement to payment or credit where supply not restored as promised or as required[^c-77fbc49ab35cc52688e76e62e88cb500]
 
-(1)[^key-be6d2e7f744e94275f5a38e1e4d45163] This regulation applies where the supply of water to premises is interrupted or cut off otherwise than—
+(1)[^c-be6d2e7f744e94275f5a38e1e4d45163] This regulation applies where the supply of water to premises is interrupted or cut off otherwise than—
 
 - (a) because of drought; or
 - (b) by the English water wholesaler in exercise of its powers under section 61 or 62 of the WIA.
 
 (1A) Such an incident is referred to in this regulation as a “**supply incident**”.
 
-(2)[^key-38cb090c91cb5d0f220aff50432c3b7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-38cb090c91cb5d0f220aff50432c3b7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-ef2f889dccde83dcccedfbe20a311771] The English wholesaler must restore the supply following a supply incident—
+(3)[^c-ef2f889dccde83dcccedfbe20a311771] The English wholesaler must restore the supply following a supply incident—
 
 - (a) if it was required to serve a notice under 60(3) of the WIA, by the date and time specified in the notice;
 - (b) in any other case, within the period of 12 hours beginning when it interrupted or cut off the supply or, as the case may be**,** it first became aware of the supply incident.
 
-(4) Subject to paragraphs (6) and (6A)[^key-0faea7f6c00a3b3591e5c50d90652a37], if the English wholesaler fails to restore the supply following the supply incident by[^key-ab89e6682624d100d2424e4159f5c2f6] the time by which the English wholesaler should, under paragraph (3), have done so—
+(4) Subject to paragraphs (6) and (6A)[^c-0faea7f6c00a3b3591e5c50d90652a37], if the English wholesaler fails to restore the supply following the supply incident by[^c-ab89e6682624d100d2424e4159f5c2f6] the time by which the English wholesaler should, under paragraph (3), have done so—
 
 - (a) the English service provider must pay the customer—
-  - (i) where the supply is to domestic premises, £50[^key-087142f50c02ce96eb83f71dde1fdbd9];
-  - (ii) where the supply is to premises of any other kind, £100[^key-ccbc00e0c3b060a960cd868cf86f23ba]; and
-  - (iii) for each subsequent full period of 12[^key-135665108d9015dfd2d7e39bf932361f] hours during which the supply has not been restored—
-    - (aa) where the supply is to domestic premises, £50[^key-cfa12b4e536302ff47bc85c000c992f3]; and
-    - (bb) where the supply is to premises of any other kind, £100[^key-40d2b132a7904a9ad7efd34280dd6a34]; and
+  - (i) where the supply is to domestic premises, £50[^c-087142f50c02ce96eb83f71dde1fdbd9];
+  - (ii) where the supply is to premises of any other kind, £100[^c-ccbc00e0c3b060a960cd868cf86f23ba]; and
+  - (iii) for each subsequent full period of 12[^c-135665108d9015dfd2d7e39bf932361f] hours during which the supply has not been restored—
+    - (aa) where the supply is to domestic premises, £50[^c-cfa12b4e536302ff47bc85c000c992f3]; and
+    - (bb) where the supply is to premises of any other kind, £100[^c-40d2b132a7904a9ad7efd34280dd6a34]; and
 - (b) the English wholesaler must pay the English service provider in accordance with regulation 17K.
 
-(5)[^key-e73f8acb9d006c2b932bebbd1d49de8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e73f8acb9d006c2b932bebbd1d49de8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The English service provider need not pay the customer, and the English wholesaler need not pay the English service provider, under paragraph (4)—
 
 - (a) if (or, as the case may be, so long as) the English wholesaler was prevented from restoring the supply by—
-  - (i)[^key-27dc753f296eab477e483de3dea158ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-27dc753f296eab477e483de3dea158ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) industrial action by the employees of the English wholesaler;
   - (iii) the act or default of a person who is not an officer, employee or agent of the English wholesaler; or
   - (iv) the act or default of a person who is not a person acting on behalf of the English wholesaler or of an agent of the English wholesaler;
@@ -744,19 +744,19 @@ In this Part—
   - (i) the English service provider could not practicably have identified the customer has having been affected; and
   - (ii) the customer does not make a claim (orally or in writing) to the English service provider for a payment under this regulation within the 3 months following the date on which the supply was interrupted or cut off.
 
-(6A)[^key-f4847f52ebd8094e1faaf7a3fba352d0] An English wholesaler is not required to make payments under paragraph (4) to a customer in respect of a particular supply incident which, in total, exceed twice the water supply charge amount.
+(6A)[^c-f4847f52ebd8094e1faaf7a3fba352d0] An English wholesaler is not required to make payments under paragraph (4) to a customer in respect of a particular supply incident which, in total, exceed twice the water supply charge amount.
 
 (6B) The “**water supply charge amount**”, in relation to a customer, is a sum equal to the charges payable by the customer for the relevant supply period for the supply of water to the affected premises.
 
 (6C) For the purposes of paragraph (6B), the relevant supply period, in relation to a particular supply incident, is the period of 12 months beginning with the day on which the supply was interrupted or cut off.
 
-(7)[^key-9d7e70b971bb627aa17894145d98c6cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-9d7e70b971bb627aa17894145d98c6cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 17G. Pressure standard
 
-(1)[^key-74cb1034502d8c7fa15c590d4cf227b2] An English water wholesaler must maintain, in a communication pipe serving premises supplied with water, a minimum water pressure of seven metres static head (the “MW pressure”)[^key-023a692e1b384ec412ffd42531d70502].
+(1)[^c-74cb1034502d8c7fa15c590d4cf227b2] An English water wholesaler must maintain, in a communication pipe serving premises supplied with water, a minimum water pressure of seven metres static head (the “MW pressure”)[^c-023a692e1b384ec412ffd42531d70502].
 
-(2)[^key-6518a1b342439150b2d77ee129259e8b] Subject to paragraph (5), if the pressure failure conditions are satisfied—
+(2)[^c-6518a1b342439150b2d77ee129259e8b] Subject to paragraph (5), if the pressure failure conditions are satisfied—
 
 - (a) the English service provider must pay the customer £50; and
 - (b) the English wholesaler must pay the English service provider in accordance with regulation 17K.
@@ -770,15 +770,15 @@ In this Part—
   - (i) in connection with the carrying out of necessary works; or
   - (ii) because of drought.
 
-(4)[^key-ab9f935df0a26aed4af4febfd964db46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ab9f935df0a26aed4af4febfd964db46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The English service provider need not pay the customer, and the English wholesaler need not pay the English service provider, under paragraph (2) where—
 
-- (a)[^key-7e5db0d156dfa5275d2ec2d4f6a11c0a] the English service provider has already made payments totalling £250 to the customer in respect of occasions on which the pressure failure conditions were satisfied in the same financial year;
+- (a)[^c-7e5db0d156dfa5275d2ec2d4f6a11c0a] the English service provider has already made payments totalling £250 to the customer in respect of occasions on which the pressure failure conditions were satisfied in the same financial year;
 - (b) if—
   - (i) the English service provider could not practicably have identified the customer as having been affected; and
-  - (ii) the customer does not make a claim (orally or in writing) to the English service provider for a payment under this regulation within the 3 months following the date of the second relevant occasion on which the pressure fell below MW pressure[^key-f2b7469b555398edc1a5fa1bdfa1598c] for an hour or more; or
-- (c) it was impracticable to maintain the MW pressure[^key-fcfa2504544b236e6804da81c9f7946c] because of—
+  - (ii) the customer does not make a claim (orally or in writing) to the English service provider for a payment under this regulation within the 3 months following the date of the second relevant occasion on which the pressure fell below MW pressure[^c-f2b7469b555398edc1a5fa1bdfa1598c] for an hour or more; or
+- (c) it was impracticable to maintain the MW pressure[^c-fcfa2504544b236e6804da81c9f7946c] because of—
   - (i) industrial action by employees of the English wholesaler;
   - (ii) the act or default of a person who is not an officer, employee or agent of the English wholesaler; or
   - (iii) the act or default of a person who is not a person acting on behalf of the English wholesaler or an agent of the English wholesaler.
@@ -794,7 +794,7 @@ In this Part—
 
 ### 17H. Flooding from sewers – internal flooding of buildings
 
-(1)[^key-3dff5b5489fd1ea1b668a92151dd724e] Effluent from an EW sewer must not enter a customer’s building.
+(1)[^c-3dff5b5489fd1ea1b668a92151dd724e] Effluent from an EW sewer must not enter a customer’s building.
 
 (2) Subject to paragraph (5), if effluent from an EW sewer enters a customer’s building (other than a non-domestic outbuilding) (an “incident of entry”)—
 
@@ -830,14 +830,14 @@ In this Part—
 - (a) the “entry date” for an incident of entry is the day on which the effluent enters the building;
 - (b) the “end date” for such an incident is the day on which effluent stops entering the particular building as a result of the incident (whether or not any effluent remains in the building).
 
-(3)[^key-f20e551afdb267b94a71af3fb1178430] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f20e551afdb267b94a71af3fb1178430] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-92cbc24b616cccee9bd051c01ef6bb6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-92cbc24b616cccee9bd051c01ef6bb6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) The English service provider need not pay the customer, and the English wholesaler need not pay the English service provider, under paragraph (2) [^key-183e3fb6797d4ca0aee47593962e3550]...—
+(5) The English service provider need not pay the customer, and the English wholesaler need not pay the English service provider, under paragraph (2) [^c-183e3fb6797d4ca0aee47593962e3550]...—
 
 - (a) if the entry of effluent was caused by one or more of the following—
-  - (i)[^key-f19e820b85f8aeef1016822e5276c9c3] an abnormal or unforeseeable event, including a natural event, outside the control of the English wholesaler, the consequences of which could not have been avoided by the exercise of all due care by the English wholesaler;
+  - (i)[^c-f19e820b85f8aeef1016822e5276c9c3] an abnormal or unforeseeable event, including a natural event, outside the control of the English wholesaler, the consequences of which could not have been avoided by the exercise of all due care by the English wholesaler;
   - (ii) industrial action by employees of the English wholesaler;
   - (iii) an action of the customer;
   - (iv) a defect, inadequacy or blockage in the customer’s drain or sewer; or
@@ -850,9 +850,9 @@ In this Part—
 - (a) in the case of a building that has a suspended floor, the space beneath that floor is part of the building;
 - (b) effluent is not taken to have entered a building while it is in a drain or sewer.
 
-### 17I. Flooding from sewers – external flooding and flooding of non-domestic outbuildings[^key-88e3aded2dea9e44da280425467e9844]
+### 17I. Flooding from sewers – external flooding and flooding of non-domestic outbuildings[^c-88e3aded2dea9e44da280425467e9844]
 
-(1)[^key-5b4a2492aa9ffcaf8a43fd4e72a56027] Effluent from an EW sewer must not enter a customer’s land or property.
+(1)[^c-5b4a2492aa9ffcaf8a43fd4e72a56027] Effluent from an EW sewer must not enter a customer’s land or property.
 
 (2) Subject to paragraph (4), if effluent from an EW sewer enters a customer’s land or property (including a non-domestic outbuilding) (an “incident of entry”)—
 
@@ -888,12 +888,12 @@ In this Part—
 - (a) the “entry date” for an incident of entry is the day on which effluent enters the land or property;
 - (b) the “end date” for an incident of entry is the day on which effluent stops entering the particular land or property as a result of that incident (whether or not any effluent remains on the land or property).
 
-(3)[^key-7a5d15ab56fdcd94c8449be966258c70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7a5d15ab56fdcd94c8449be966258c70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) The English service provider need not pay the customer, and an English wholesaler need not pay the English service provider, under paragraph (2) [^key-1b9f19ea22d9d91860a22db8101dd64e]... if—
+(4) The English service provider need not pay the customer, and an English wholesaler need not pay the English service provider, under paragraph (2) [^c-1b9f19ea22d9d91860a22db8101dd64e]... if—
 
 - (a) the entry of effluent was caused by one or more of the following—
-  - (i)[^key-bff4ed0506301ece62d6aa21c9aadb32] an abnormal or unforeseeable event, including a natural event, outside the control of the English wholesaler, the consequences of which could not have been avoided by the exercise of all due care by the English wholesaler;
+  - (i)[^c-bff4ed0506301ece62d6aa21c9aadb32] an abnormal or unforeseeable event, including a natural event, outside the control of the English wholesaler, the consequences of which could not have been avoided by the exercise of all due care by the English wholesaler;
   - (ii) industrial action by the employees of the English wholesaler;
   - (iii) an action of the customer;
   - (iv) a defect, inadequacy or blockage in the customer’s drain or sewer;
@@ -914,7 +914,7 @@ In this Part—
 
 (7) For the purposes of this regulation, effluent is not taken to have entered land or property while it is in a drain or sewer.
 
-### 17IA. Domestic customers in arrears[^key-6398f269a3ed52c585242a89dd67053f]
+### 17IA. Domestic customers in arrears[^c-6398f269a3ed52c585242a89dd67053f]
 
 (1) This regulation applies where an English service provider considers that a domestic customer has failed to pay any charges due to them for which the customer is liable in respect of the supply of water to a premises falling within Schedule 4A to the WIA (such charges are referred to in this regulation as the “**outstanding charges**”).
 
@@ -1182,7 +1182,7 @@ the English service provider must pay the customer £150.
   - (b) 1st April in any subsequent year;
 - “**the reference month**”, in relation to a payment change date, means the September immediately preceding that date.
 
-### 17J. Timing etc. of payments under regulations 17C to 17H and 17IA to 17IE[^key-fb4aabeb1393a649e2a848b3f1df1fb6][^key-4d6e1eb14613bdbf8a47c050eb5e7426]
+### 17J. Timing etc. of payments under regulations 17C to 17H and 17IA to 17IE[^c-fb4aabeb1393a649e2a848b3f1df1fb6][^c-4d6e1eb14613bdbf8a47c050eb5e7426]
 
 (1) Where an English service provider is required to make a payment to a customer under a provision of this Part (other than regulation 17I), the English service provider must make that payment—
 
@@ -1219,14 +1219,14 @@ the English service provider must pay the customer £150.
 
 (1) This regulation applies where—
 
-- (a) an English wholesaler is responsible for a breach of a service standard that gives rise to a payment obligation on the English service provider under any of regulations 17C to 17IE[^key-12540c9437ab49d4bc075350eb978ecc]; and
+- (a) an English wholesaler is responsible for a breach of a service standard that gives rise to a payment obligation on the English service provider under any of regulations 17C to 17IE[^c-12540c9437ab49d4bc075350eb978ecc]; and
 - (b) the English wholesaler is not the English service provider.
 
 (2) Where this regulation applies the English wholesaler must pay the English service provider the sum required to be paid by the English service provider to the customer for the breach of the service standard specified in the relevant regulation.
 
 (3) The English wholesaler must make any payment required by paragraph (2) by the payment deadline.
 
-(4) For the purposes of this regulation “the payment deadline” means the day by which the English service provider must pay the customer under regulation 17J(1) or 17JA(1)[^key-a67fa5d06ca66c697c93cda3a461688d] as appropriate.
+(4) For the purposes of this regulation “the payment deadline” means the day by which the English service provider must pay the customer under regulation 17J(1) or 17JA(1)[^c-a67fa5d06ca66c697c93cda3a461688d] as appropriate.
 
 ### 17L. Means of payment, including where customer is in arrears
 
@@ -1256,7 +1256,7 @@ the English service provider must make the payment, or so much of it as does not
 
 (1) An English service provider must, at least once in every financial year, give every customer to whom it sends an account in that year a detailed statement of the rights provided by this Part.
 
-(1A)[^key-00f39a0b9c524d6a2e715ed46edda289] The statement referred to in paragraph (1) for each financial year beginning on or after 1st April 2026, must include—
+(1A)[^c-00f39a0b9c524d6a2e715ed46edda289] The statement referred to in paragraph (1) for each financial year beginning on or after 1st April 2026, must include—
 
 - (a) a statement as to whether the English service provider accepts relevant communications from customers made using either or both of the following—
   - (i) an alternative means of communication;
@@ -1324,7 +1324,7 @@ the English service provider must make the payment, or so much of it as does not
 
 (5) In this regulation, “regulatory provision” has the meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
 
-## PART 4 — Revocation[^key-33c440ddfb58b25e3da70ee194ed2c3c]
+## PART 4 — Revocation[^c-33c440ddfb58b25e3da70ee194ed2c3c]
 
 ### 18. Revocation
 
@@ -1374,168 +1374,168 @@ The new Regulations revoke the existing Water Supply and Sewerage Services (Cust
 
 [^f00003]: Footnote: [S.I. 1989/1159](https://www.legislation.gov.uk/uksi/1989/1159).
 
-[^key-9414c60e325e79218a624ea36ecb2ee7]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/uksi/2008/594/part/1) heading inserted (1.4.2017) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2017/246/regulation/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
+[^c-9414c60e325e79218a624ea36ecb2ee7]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/uksi/2008/594/part/1) heading inserted (1.4.2017) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2017/246/regulation/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
 
-[^key-2615661514000bd94abd0a71b8591b1d]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2008/594/regulation/4) omitted (1.4.2017) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2017/246/regulation/4/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
+[^c-2615661514000bd94abd0a71b8591b1d]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2008/594/regulation/4) omitted (1.4.2017) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2017/246/regulation/4/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
 
 [^f00004]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
 [^f00005]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-18dcda519f5a8855c9873f5dfd897a34]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2008/594/regulation/4/2) omitted (1.4.2017) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2017/246/regulation/4/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
+[^c-18dcda519f5a8855c9873f5dfd897a34]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2008/594/regulation/4/2) omitted (1.4.2017) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2017/246/regulation/4/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
 
-[^key-ba2f9b9464775330565d0d3d7392da6b]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2008/594/part/2) heading and reg. 4A inserted (1.4.2017) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2017/246/regulation/5) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
+[^c-ba2f9b9464775330565d0d3d7392da6b]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2008/594/part/2) heading and reg. 4A inserted (1.4.2017) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2017/246/regulation/5) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
 
-[^key-529334619cbff7be0c15614e8fc81dc3]: Textual amendment: Words in [regs. 5-17](https://www.legislation.gov.uk/uksi/2008/594/regulation/5) substituted (1.4.2017) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2017/246/regulation/6/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
+[^c-529334619cbff7be0c15614e8fc81dc3]: Textual amendment: Words in [regs. 5-17](https://www.legislation.gov.uk/uksi/2008/594/regulation/5) substituted (1.4.2017) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2017/246/regulation/6/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
 
-[^key-ddc51ade794c984d2e9fc9badec24a4c]: Textual amendment: Words in [regs. 5-17](https://www.legislation.gov.uk/uksi/2008/594/regulation/5) substituted (1.4.2017) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2017/246/regulation/6/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
+[^c-ddc51ade794c984d2e9fc9badec24a4c]: Textual amendment: Words in [regs. 5-17](https://www.legislation.gov.uk/uksi/2008/594/regulation/5) substituted (1.4.2017) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2017/246/regulation/6/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
 
-[^key-4a94a5734cee6c28ac8fc71e3180920e]: Textual amendment: Words in [regs. 5-17](https://www.legislation.gov.uk/uksi/2008/594/regulation/5) substituted (1.4.2017) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2017/246/regulation/6/c) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
+[^c-4a94a5734cee6c28ac8fc71e3180920e]: Textual amendment: Words in [regs. 5-17](https://www.legislation.gov.uk/uksi/2008/594/regulation/5) substituted (1.4.2017) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2017/246/regulation/6/c) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
 
-[^key-14faa376f40dcf2e2b3509c039b22805]: Textual amendment: Words in [regs. 5-17](https://www.legislation.gov.uk/uksi/2008/594/regulation/5) substituted (1.4.2017) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2017/246/regulation/6/d) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
+[^c-14faa376f40dcf2e2b3509c039b22805]: Textual amendment: Words in [regs. 5-17](https://www.legislation.gov.uk/uksi/2008/594/regulation/5) substituted (1.4.2017) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2017/246/regulation/6/d) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
 
-[^key-d6749476f4dd9db8aa683d141a125a64]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2008/594/part/3) inserted (1.4.2017) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2017/246/regulation/7) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
+[^c-d6749476f4dd9db8aa683d141a125a64]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2008/594/part/3) inserted (1.4.2017) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2017/246/regulation/7) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
 
-[^key-f35bb5b998113cba4d91df0bb2dc9e67]: Textual amendment: Words in [reg. 17A](https://www.legislation.gov.uk/uksi/2008/594/regulation/17A) inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/4/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-f35bb5b998113cba4d91df0bb2dc9e67]: Textual amendment: Words in [reg. 17A](https://www.legislation.gov.uk/uksi/2008/594/regulation/17A) inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/4/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-1d282d2ec1b280765c28598fc09fe290]: Textual amendment: Words in [reg. 17A](https://www.legislation.gov.uk/uksi/2008/594/regulation/17A) inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/4/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-1d282d2ec1b280765c28598fc09fe290]: Textual amendment: Words in [reg. 17A](https://www.legislation.gov.uk/uksi/2008/594/regulation/17A) inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/4/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-65d90935953889eb24c993c48ffa40c9]: Textual amendment: Words in [reg. 17A](https://www.legislation.gov.uk/uksi/2008/594/regulation/17A) inserted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/a), [4(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/4/c) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-65d90935953889eb24c993c48ffa40c9]: Textual amendment: Words in [reg. 17A](https://www.legislation.gov.uk/uksi/2008/594/regulation/17A) inserted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/a), [4(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/4/c) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-9a2b0ee3692e573a1917634cd64ac4c9]: Textual amendment: Words in [reg. 17B](https://www.legislation.gov.uk/uksi/2008/594/regulation/17B) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2025/662/regulation/5) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-9a2b0ee3692e573a1917634cd64ac4c9]: Textual amendment: Words in [reg. 17B](https://www.legislation.gov.uk/uksi/2008/594/regulation/17B) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2025/662/regulation/5) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-57d9e799b1a774ed42ac42f58bde9e45]: Textual amendment: [Reg. 17C(1)-(1B)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/1) substituted for [reg. 17C(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/1) (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/b), [6(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-57d9e799b1a774ed42ac42f58bde9e45]: Textual amendment: [Reg. 17C(1)-(1B)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/1) substituted for [reg. 17C(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/1) (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/b), [6(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-6feb1b96d94f86da3d05a9339bf86264]: Textual amendment: Words in [reg. 17C(2)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/2) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-6feb1b96d94f86da3d05a9339bf86264]: Textual amendment: Words in [reg. 17C(2)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/2) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-c1264296c103fa4f534dc7583122e610]: Textual amendment: Words in [reg. 17C(3)(d)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/3/d) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(4)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/4) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-c1264296c103fa4f534dc7583122e610]: Textual amendment: Words in [reg. 17C(3)(d)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/3/d) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(4)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/4) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-90c0d5395a2708fd00ecb1d93a15c875]: Textual amendment: [Reg. 17C(4)(a)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/4/a)[(aa)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/4/aa) substituted for [reg. 17C(4)(a)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/4/a) (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(5)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/5/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-90c0d5395a2708fd00ecb1d93a15c875]: Textual amendment: [Reg. 17C(4)(a)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/4/a)[(aa)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/4/aa) substituted for [reg. 17C(4)(a)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/4/a) (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(5)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/5/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-798ce34287493a1b387b07f8bbfd0971]: Textual amendment: Words in [reg. 17C(4)(b)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/4/b) inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(5)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/5/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-798ce34287493a1b387b07f8bbfd0971]: Textual amendment: Words in [reg. 17C(4)(b)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/4/b) inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(5)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/5/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-0a1687cdd6dccd41c97874c1feca77b5]: Textual amendment: [Reg. 17C(5)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/5) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(6)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/6) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-0a1687cdd6dccd41c97874c1feca77b5]: Textual amendment: [Reg. 17C(5)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/5) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(6)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/6) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-2cd73e5cd724fc3877dfd249e922442b]: Textual amendment: Words in [reg. 17C(6)(b)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/6/b) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(7)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/7/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-2cd73e5cd724fc3877dfd249e922442b]: Textual amendment: Words in [reg. 17C(6)(b)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/6/b) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(7)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/7/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-4df480348945d95cd74a48c13559ccf4]: Textual amendment: Words in [reg. 17C(6)(c)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/6/c) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(7)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/7/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-4df480348945d95cd74a48c13559ccf4]: Textual amendment: Words in [reg. 17C(6)(c)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/6/c) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(7)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/7/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-f557877e829df94d991d85d7b01dfda0]: Textual amendment: Words in [reg. 17C(7)(b)(i)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/7/b/i) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(8)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/8/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-f557877e829df94d991d85d7b01dfda0]: Textual amendment: Words in [reg. 17C(7)(b)(i)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/7/b/i) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(8)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/8/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-2e1763102f9b558cf1e2f879462d3659]: Textual amendment: Words in [reg. 17C(7)(c)(i)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/7/c/i) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(8)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/8/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-2e1763102f9b558cf1e2f879462d3659]: Textual amendment: Words in [reg. 17C(7)(c)(i)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/7/c/i) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(8)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/8/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-2a8b78308db32f17f066b8782e687dcb]: Textual amendment: Words in [reg. 17C(8)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/8) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(9)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/9) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-2a8b78308db32f17f066b8782e687dcb]: Textual amendment: Words in [reg. 17C(8)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/8) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(9)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/9) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-cc134486f79908bd90b0474d0043e2fa]: Textual amendment: [Reg. 17D(1)(a)-(c)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/1/a) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(2)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/2/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-cc134486f79908bd90b0474d0043e2fa]: Textual amendment: [Reg. 17D(1)(a)-(c)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/1/a) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(2)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/2/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-ce8cf4f5359e964fd3275cb307a170bf]: Textual amendment: [Reg. 17D(1A)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/1A) inserted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-ce8cf4f5359e964fd3275cb307a170bf]: Textual amendment: [Reg. 17D(1A)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/1A) inserted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-df33f59c1f6c75f55876640f81890336]: Textual amendment: [Reg. 17D(2)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/2) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(4)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/4) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-df33f59c1f6c75f55876640f81890336]: Textual amendment: [Reg. 17D(2)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/2) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(4)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/4) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-7e32e4ab92907c18cdd9a9603cf7fb78]: Textual amendment: Words in [reg. 17D(3)(a)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/3/a) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(5)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/5/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-7e32e4ab92907c18cdd9a9603cf7fb78]: Textual amendment: Words in [reg. 17D(3)(a)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/3/a) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(5)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/5/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-d23b7eb805b2eb16e478d26b58082521]: Textual amendment: Words in [reg. 17D(3)(b)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/3/b) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(5)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/5/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-d23b7eb805b2eb16e478d26b58082521]: Textual amendment: Words in [reg. 17D(3)(b)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/3/b) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(5)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/5/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-b7e4f933a56200ba26241a171d0f0289]: Textual amendment: [Reg. 17D(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/4) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(6)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/6) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-b7e4f933a56200ba26241a171d0f0289]: Textual amendment: [Reg. 17D(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/4) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(6)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/6) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-0af2d1e0d052365c0c8aed7d6cb4a56b]: Textual amendment: Sum in reg. 17D(5)(a) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [7(7)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/7) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-0af2d1e0d052365c0c8aed7d6cb4a56b]: Textual amendment: Sum in reg. 17D(5)(a) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [7(7)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/7) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-611c25bd76f3f1e76f8c2340f6a155dd]: Textual amendment: [Reg. 17D(6)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/6) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [7(8)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/8) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-611c25bd76f3f1e76f8c2340f6a155dd]: Textual amendment: [Reg. 17D(6)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/6) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [7(8)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/8) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-bd1b80e9243a1479daf763ab63dc8f9e]: Textual amendment: [Reg. 17D(7)(a)-(ab)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/7/a) substituted for [reg. 17D(7)(a)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/7/a) (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(9)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/9/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-bd1b80e9243a1479daf763ab63dc8f9e]: Textual amendment: [Reg. 17D(7)(a)-(ab)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/7/a) substituted for [reg. 17D(7)(a)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/7/a) (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(9)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/9/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-c685c6ecab26013d97aa9d798fa3f922]: Textual amendment: [Reg. 17D(7)(e)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/7/e)[(ea)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/7/ea) substituted for [reg. 17D(7)(e)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/7/e) (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(9)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/9/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-c685c6ecab26013d97aa9d798fa3f922]: Textual amendment: [Reg. 17D(7)(e)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/7/e)[(ea)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/7/ea) substituted for [reg. 17D(7)(e)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/7/e) (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(9)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/9/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-6566202bba4ddba38d7cee257105c868]: Textual amendment: [Reg. 17D(7A)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/7A) inserted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(10)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/10) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-6566202bba4ddba38d7cee257105c868]: Textual amendment: [Reg. 17D(7A)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/7A) inserted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(10)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/10) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-a2728fcbec5e0cf0cdae59d855d2cd9d]: Textual amendment: [Reg. 17D(8)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/8) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(11)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/11) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-a2728fcbec5e0cf0cdae59d855d2cd9d]: Textual amendment: [Reg. 17D(8)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/8) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(11)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/11) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-43eaee112c87ced49ba66b4953c97637]: Textual amendment: [Reg. 17E(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17E/1)[(1A)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17E/1A) substituted for [reg. 17E(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17E/1) (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/8/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-43eaee112c87ced49ba66b4953c97637]: Textual amendment: [Reg. 17E(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17E/1)[(1A)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17E/1A) substituted for [reg. 17E(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17E/1) (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/8/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-7c667dfda8c01420b5a07c5a7ed88db4]: Textual amendment: Words in [reg. 17E(2)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17E/2) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/8/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-7c667dfda8c01420b5a07c5a7ed88db4]: Textual amendment: Words in [reg. 17E(2)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17E/2) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/8/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-49ac32c1b79da58fbf5eddc277c24ab4]: Textual amendment: [Reg. 17E(3)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17E/3) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [8(4)](https://www.legislation.gov.uk/uksi/2025/662/regulation/8/4) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-49ac32c1b79da58fbf5eddc277c24ab4]: Textual amendment: [Reg. 17E(3)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17E/3) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [8(4)](https://www.legislation.gov.uk/uksi/2025/662/regulation/8/4) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-686131ed55f99c10fc5b74b7bc42583a]: Textual amendment: Sum in reg. 17E(5)(a)(i) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [8(5)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/8/5/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-686131ed55f99c10fc5b74b7bc42583a]: Textual amendment: Sum in reg. 17E(5)(a)(i) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [8(5)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/8/5/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-23cc2c627c7234374bf13b75c7dc01d0]: Textual amendment: Sum in reg. 17E(5)(a)(ii) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [8(5)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/8/5/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-23cc2c627c7234374bf13b75c7dc01d0]: Textual amendment: Sum in reg. 17E(5)(a)(ii) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [8(5)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/8/5/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-bb959c3dbfc76cb02a4b2f815b4812b8]: Textual amendment: [Reg. 17E(6)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17E/6) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [8(6)](https://www.legislation.gov.uk/uksi/2025/662/regulation/8/6) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-bb959c3dbfc76cb02a4b2f815b4812b8]: Textual amendment: [Reg. 17E(6)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17E/6) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [8(6)](https://www.legislation.gov.uk/uksi/2025/662/regulation/8/6) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-77fbc49ab35cc52688e76e62e88cb500]: Textual amendment: Words in [reg. 17F](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F) heading inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-77fbc49ab35cc52688e76e62e88cb500]: Textual amendment: Words in [reg. 17F](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F) heading inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-be6d2e7f744e94275f5a38e1e4d45163]: Textual amendment: [Reg. 17F(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/1)[(1A)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/1A) substituted for [reg. 17F(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/1) (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-be6d2e7f744e94275f5a38e1e4d45163]: Textual amendment: [Reg. 17F(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/1)[(1A)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/1A) substituted for [reg. 17F(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/1) (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-38cb090c91cb5d0f220aff50432c3b7b]: Textual amendment: [Reg. 17F(2)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/2) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(4)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/4) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-38cb090c91cb5d0f220aff50432c3b7b]: Textual amendment: [Reg. 17F(2)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/2) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(4)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/4) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-ef2f889dccde83dcccedfbe20a311771]: Textual amendment: [Reg. 17F(3)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/3) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(5)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/5) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-ef2f889dccde83dcccedfbe20a311771]: Textual amendment: [Reg. 17F(3)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/3) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(5)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/5) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-0faea7f6c00a3b3591e5c50d90652a37]: Textual amendment: Words in [reg. 17F(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/4) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-0faea7f6c00a3b3591e5c50d90652a37]: Textual amendment: Words in [reg. 17F(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/4) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-ab89e6682624d100d2424e4159f5c2f6]: Textual amendment: Words in [reg. 17F(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/4) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-ab89e6682624d100d2424e4159f5c2f6]: Textual amendment: Words in [reg. 17F(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/4) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-087142f50c02ce96eb83f71dde1fdbd9]: Textual amendment: Sum in reg. 17F(4)(a)(i) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(c)(i)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/c/i) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-087142f50c02ce96eb83f71dde1fdbd9]: Textual amendment: Sum in reg. 17F(4)(a)(i) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(c)(i)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/c/i) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-ccbc00e0c3b060a960cd868cf86f23ba]: Textual amendment: Sum in reg. 17F(4)(a)(ii) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/c/ii) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-ccbc00e0c3b060a960cd868cf86f23ba]: Textual amendment: Sum in reg. 17F(4)(a)(ii) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/c/ii) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-135665108d9015dfd2d7e39bf932361f]: Textual amendment: Word in [reg. 17F(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/4/a/iii) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(c)(iii)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/c/iii) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-135665108d9015dfd2d7e39bf932361f]: Textual amendment: Word in [reg. 17F(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/4/a/iii) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(c)(iii)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/c/iii) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-cfa12b4e536302ff47bc85c000c992f3]: Textual amendment: Sum in reg. 17F(4)(a)(iii)(aa) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(c)(iv)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/c/iv) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-cfa12b4e536302ff47bc85c000c992f3]: Textual amendment: Sum in reg. 17F(4)(a)(iii)(aa) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(c)(iv)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/c/iv) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-40d2b132a7904a9ad7efd34280dd6a34]: Textual amendment: Sum in reg. 17F(4)(a)(iii)(bb) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(c)(v)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/c/v) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-40d2b132a7904a9ad7efd34280dd6a34]: Textual amendment: Sum in reg. 17F(4)(a)(iii)(bb) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(c)(v)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/c/v) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-e73f8acb9d006c2b932bebbd1d49de8e]: Textual amendment: [Reg. 17F(5)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/5) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(7)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/7) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-e73f8acb9d006c2b932bebbd1d49de8e]: Textual amendment: [Reg. 17F(5)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/5) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(7)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/7) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-27dc753f296eab477e483de3dea158ae]: Textual amendment: [Reg. 17F(6)(a)(i)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/6/a/i) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(8)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/8) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-27dc753f296eab477e483de3dea158ae]: Textual amendment: [Reg. 17F(6)(a)(i)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/6/a/i) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(8)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/8) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-f4847f52ebd8094e1faaf7a3fba352d0]: Textual amendment: [Reg. 17F(6A)-(6C)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/6A) inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(9)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/9) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-f4847f52ebd8094e1faaf7a3fba352d0]: Textual amendment: [Reg. 17F(6A)-(6C)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/6A) inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(9)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/9) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-9d7e70b971bb627aa17894145d98c6cf]: Textual amendment: [Reg. 17F(7)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/7) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(10)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/10) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-9d7e70b971bb627aa17894145d98c6cf]: Textual amendment: [Reg. 17F(7)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/7) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(10)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/10) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-74cb1034502d8c7fa15c590d4cf227b2]: Modification: [Reg. 17G(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/1) modified (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [19](https://www.legislation.gov.uk/uksi/2025/662/regulation/19)
+[^c-74cb1034502d8c7fa15c590d4cf227b2]: Modification: [Reg. 17G(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/1) modified (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [19](https://www.legislation.gov.uk/uksi/2025/662/regulation/19)
 
-[^key-023a692e1b384ec412ffd42531d70502]: Textual amendment: Words in [reg. 17G(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/1) inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [10(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/10/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-023a692e1b384ec412ffd42531d70502]: Textual amendment: Words in [reg. 17G(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/1) inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [10(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/10/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-6518a1b342439150b2d77ee129259e8b]: Textual amendment: [Reg. 17G(2)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/2)[(3)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/3) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [10(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/10/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-6518a1b342439150b2d77ee129259e8b]: Textual amendment: [Reg. 17G(2)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/2)[(3)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/3) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [10(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/10/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-ab9f935df0a26aed4af4febfd964db46]: Textual amendment: [Reg. 17G(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/4) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [10(4)](https://www.legislation.gov.uk/uksi/2025/662/regulation/10/4) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-ab9f935df0a26aed4af4febfd964db46]: Textual amendment: [Reg. 17G(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/4) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [10(4)](https://www.legislation.gov.uk/uksi/2025/662/regulation/10/4) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-7e5db0d156dfa5275d2ec2d4f6a11c0a]: Textual amendment: [Reg. 17G(5)(a)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/5/a) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [10(5)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/10/5/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-7e5db0d156dfa5275d2ec2d4f6a11c0a]: Textual amendment: [Reg. 17G(5)(a)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/5/a) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [10(5)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/10/5/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-f2b7469b555398edc1a5fa1bdfa1598c]: Textual amendment: Words in [reg. 17G(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/5/b/ii) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [10(5)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/10/5/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-f2b7469b555398edc1a5fa1bdfa1598c]: Textual amendment: Words in [reg. 17G(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/5/b/ii) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [10(5)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/10/5/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-fcfa2504544b236e6804da81c9f7946c]: Textual amendment: Words in [reg. 17G(5)(c)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/5/c) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [10(5)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/10/5/c) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-fcfa2504544b236e6804da81c9f7946c]: Textual amendment: Words in [reg. 17G(5)(c)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/5/c) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [10(5)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/10/5/c) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-3dff5b5489fd1ea1b668a92151dd724e]: Textual amendment: [Reg. 17H(1)-(2F)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17H/1) substituted for reg. 17H(1)(2) (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/11/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-3dff5b5489fd1ea1b668a92151dd724e]: Textual amendment: [Reg. 17H(1)-(2F)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17H/1) substituted for reg. 17H(1)(2) (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/11/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-f20e551afdb267b94a71af3fb1178430]: Textual amendment: [Reg. 17H(3)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17H/3) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [11(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/11/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-f20e551afdb267b94a71af3fb1178430]: Textual amendment: [Reg. 17H(3)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17H/3) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [11(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/11/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-92cbc24b616cccee9bd051c01ef6bb6a]: Textual amendment: [Reg. 17H(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17H/4) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [11(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/11/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-92cbc24b616cccee9bd051c01ef6bb6a]: Textual amendment: [Reg. 17H(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17H/4) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [11(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/11/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-183e3fb6797d4ca0aee47593962e3550]: Textual amendment: Words in [reg. 17H(5)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17H/5) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [11(4)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/11/4/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-183e3fb6797d4ca0aee47593962e3550]: Textual amendment: Words in [reg. 17H(5)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17H/5) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [11(4)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/11/4/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-f19e820b85f8aeef1016822e5276c9c3]: Textual amendment: [Reg. 17H(5)(a)(i)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17H/5/a/i) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [11(4)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/11/4/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-f19e820b85f8aeef1016822e5276c9c3]: Textual amendment: [Reg. 17H(5)(a)(i)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17H/5/a/i) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [11(4)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/11/4/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-88e3aded2dea9e44da280425467e9844]: Textual amendment: Words in [reg. 17I](https://www.legislation.gov.uk/uksi/2008/594/regulation/17I) heading inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [12(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/12/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-88e3aded2dea9e44da280425467e9844]: Textual amendment: Words in [reg. 17I](https://www.legislation.gov.uk/uksi/2008/594/regulation/17I) heading inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [12(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/12/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-5b4a2492aa9ffcaf8a43fd4e72a56027]: Textual amendment: [Reg. 17I(1)-(2F)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17I/1) substituted for reg. 17I(1)(2) (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [12(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/12/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-5b4a2492aa9ffcaf8a43fd4e72a56027]: Textual amendment: [Reg. 17I(1)-(2F)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17I/1) substituted for reg. 17I(1)(2) (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [12(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/12/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-7a5d15ab56fdcd94c8449be966258c70]: Textual amendment: [Reg. 17I(3)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17I/3) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [12(4)](https://www.legislation.gov.uk/uksi/2025/662/regulation/12/4) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-7a5d15ab56fdcd94c8449be966258c70]: Textual amendment: [Reg. 17I(3)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17I/3) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [12(4)](https://www.legislation.gov.uk/uksi/2025/662/regulation/12/4) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-1b9f19ea22d9d91860a22db8101dd64e]: Textual amendment: Words in [reg. 17I(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17I/4) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [12(5)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/12/5/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-1b9f19ea22d9d91860a22db8101dd64e]: Textual amendment: Words in [reg. 17I(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17I/4) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [12(5)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/12/5/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-bff4ed0506301ece62d6aa21c9aadb32]: Textual amendment: [Reg. 17I(4)(a)(i)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17I/4/a/i) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [12(5)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/12/5/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-bff4ed0506301ece62d6aa21c9aadb32]: Textual amendment: [Reg. 17I(4)(a)(i)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17I/4/a/i) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [12(5)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/12/5/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-6398f269a3ed52c585242a89dd67053f]: Textual amendment: [Regs. 17IA-17IF](https://www.legislation.gov.uk/uksi/2008/594/regulation/17IA) inserted (2.7.2025 for specified purposes, 1.10.2025 in so far as not already in force) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/d)[(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [13(1)](https://www.legislation.gov.uk/uksi/2025/662/regulation/13/1) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-6398f269a3ed52c585242a89dd67053f]: Textual amendment: [Regs. 17IA-17IF](https://www.legislation.gov.uk/uksi/2008/594/regulation/17IA) inserted (2.7.2025 for specified purposes, 1.10.2025 in so far as not already in force) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/d)[(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [13(1)](https://www.legislation.gov.uk/uksi/2025/662/regulation/13/1) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-fb4aabeb1393a649e2a848b3f1df1fb6]: Modification: [Reg. 17J](https://www.legislation.gov.uk/uksi/2008/594/regulation/17J) modified (temp.) (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [14(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/14/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-fb4aabeb1393a649e2a848b3f1df1fb6]: Modification: [Reg. 17J](https://www.legislation.gov.uk/uksi/2008/594/regulation/17J) modified (temp.) (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [14(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/14/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-4d6e1eb14613bdbf8a47c050eb5e7426]: Textual amendment: [Regs. 17J](https://www.legislation.gov.uk/uksi/2008/594/regulation/17J), [17JA](https://www.legislation.gov.uk/uksi/2008/594/regulation/17JA) substituted for reg. 17J (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [14(1)](https://www.legislation.gov.uk/uksi/2025/662/regulation/14/1) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-4d6e1eb14613bdbf8a47c050eb5e7426]: Textual amendment: [Regs. 17J](https://www.legislation.gov.uk/uksi/2008/594/regulation/17J), [17JA](https://www.legislation.gov.uk/uksi/2008/594/regulation/17JA) substituted for reg. 17J (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [14(1)](https://www.legislation.gov.uk/uksi/2025/662/regulation/14/1) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-12540c9437ab49d4bc075350eb978ecc]: Textual amendment: Word in [reg. 17K(1)(a)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17K/1/a) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(e)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/e), [15(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/15/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-12540c9437ab49d4bc075350eb978ecc]: Textual amendment: Word in [reg. 17K(1)(a)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17K/1/a) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(e)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/e), [15(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/15/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-a67fa5d06ca66c697c93cda3a461688d]: Textual amendment: Words in [reg. 17K(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17K/4) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [15(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/15/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-a67fa5d06ca66c697c93cda3a461688d]: Textual amendment: Words in [reg. 17K(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17K/4) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [15(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/15/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-00f39a0b9c524d6a2e715ed46edda289]: Textual amendment: [Reg. 17N(1A)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17N/1A)[(1B)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17N/1B) inserted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(f)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/f), [16](https://www.legislation.gov.uk/uksi/2025/662/regulation/16) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+[^c-00f39a0b9c524d6a2e715ed46edda289]: Textual amendment: [Reg. 17N(1A)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17N/1A)[(1B)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17N/1B) inserted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(f)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/f), [16](https://www.legislation.gov.uk/uksi/2025/662/regulation/16) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
 
-[^key-33c440ddfb58b25e3da70ee194ed2c3c]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2008/594/part/4) heading inserted (1.4.2017) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2017/246/regulation/8) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
+[^c-33c440ddfb58b25e3da70ee194ed2c3c]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2008/594/part/4) heading inserted (1.4.2017) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2017/246/regulation/8) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))

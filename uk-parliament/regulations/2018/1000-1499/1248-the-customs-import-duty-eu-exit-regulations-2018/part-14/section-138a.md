@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138A. Fees specified in a notice[^key-c72349d3924f8ff4bb54e17ea36e0950]
+## 138A. Fees specified in a notice[^c-c72349d3924f8ff4bb54e17ea36e0950]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ HMRC is authorised to charge fees specified in a notice.
 
 ## Annotations
 
-[^key-c72349d3924f8ff4bb54e17ea36e0950]: Textual amendment: Reg. 138A inserted (31.12.2020) by [The Customs Transit Procedures (Amendment, etc) (EU Exit) Regulations 2020 (S.I. 2020/1491)](https://www.legislation.gov.uk/uksi/2020/1491), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2020/1491/regulation/6/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-c72349d3924f8ff4bb54e17ea36e0950]: Textual amendment: Reg. 138A inserted (31.12.2020) by [The Customs Transit Procedures (Amendment, etc) (EU Exit) Regulations 2020 (S.I. 2020/1491)](https://www.legislation.gov.uk/uksi/2020/1491), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2020/1491/regulation/6/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

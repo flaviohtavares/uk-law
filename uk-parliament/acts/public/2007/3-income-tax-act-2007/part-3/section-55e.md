@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55E. Limitation on number of tax reductions and elections[^key-43c97adaec095385e898551abeefba9d]
+## 55E. Limitation on number of tax reductions and elections[^c-43c97adaec095385e898551abeefba9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43c97adaec095385e898551abeefba9d]: Textual amendment: Pt. 3 Ch. 3A inserted (with effect in accordance with s. 11(12) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 11(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/11/2)
+[^c-43c97adaec095385e898551abeefba9d]: Textual amendment: Pt. 3 Ch. 3A inserted (with effect in accordance with s. 11(12) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 11(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/11/2)

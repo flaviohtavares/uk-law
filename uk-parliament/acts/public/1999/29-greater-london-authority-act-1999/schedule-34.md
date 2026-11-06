@@ -45,7 +45,7 @@ Section 423.
 |  |  | In Schedule 4, in paragraph 5(8)(a), the words “other than the Receiver for the Metropolitan Police District”. |
 | 1999 c. 22. | The Access to Justice Act 1999. | In Schedule 10, paragraph 40. |
 
-### Part II — Transport for London and London Regional Transport[^c12816801][^key-8abcf890ec11833efa047370b18da289]
+### Part II — Transport for London and London Regional Transport[^c12816801][^c-8abcf890ec11833efa047370b18da289]
 
 | Chapter | Short title | Extent of repeal |
 | --- | --- | --- |
@@ -219,7 +219,7 @@ Section 423.
 
 [^c12816801]: Commencement: Sch. 34 Pt. II partly in force; Sch. 34 Pt. II not in force at Royal Assent see s. 425(2); Sch. 34 Pt. II in force for specified purposes at 3.7.2000 by [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
 
-[^key-8abcf890ec11833efa047370b18da289]: Commencement: Sch. 34 Pt. 2 in force at 15.7.2003 for specified purposes by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(h)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/h)
+[^c-8abcf890ec11833efa047370b18da289]: Commencement: Sch. 34 Pt. 2 in force at 15.7.2003 for specified purposes by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(h)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/h)
 
 [^c12816811]: Commencement: Sch. 34 Pt. V partly in force; Sch. 34 Pt. V not in force at Royal Assent see s. 425(2); Sch. 34 Pt. V in force for specified purposes at 3.7.2000 by [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
 

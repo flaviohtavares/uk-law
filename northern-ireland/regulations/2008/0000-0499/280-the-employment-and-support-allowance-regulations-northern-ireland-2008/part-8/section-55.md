@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Work-focused interview[^key-4830f19df385768058140e4c26f71963]
+## 55. Work-focused interview[^c-4830f19df385768058140e4c26f71963]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ The purposes of a work-focused interview are any or all of the following—
 
 ## Annotations
 
-[^key-4830f19df385768058140e4c26f71963]: Commencement: [Reg. 55](https://www.legislation.gov.uk/nisr/2008/280/regulation/55) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-4830f19df385768058140e4c26f71963]: Commencement: [Reg. 55](https://www.legislation.gov.uk/nisr/2008/280/regulation/55) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

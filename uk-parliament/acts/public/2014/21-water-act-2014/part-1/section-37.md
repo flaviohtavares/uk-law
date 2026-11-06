@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Appeals relating to revisions of codes[^key-fc2be276b606df8ef4f5acbe7cf7f34f]
+## 37. Appeals relating to revisions of codes[^c-fc2be276b606df8ef4f5acbe7cf7f34f]
 
 *Extent: E+W*
 
@@ -132,4 +132,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc2be276b606df8ef4f5acbe7cf7f34f]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2014/21/section/37) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(g)](https://www.legislation.gov.uk/uksi/2016/465/article/2/g) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-fc2be276b606df8ef4f5acbe7cf7f34f]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2014/21/section/37) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(g)](https://www.legislation.gov.uk/uksi/2016/465/article/2/g) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))

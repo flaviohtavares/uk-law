@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Conversion of existing electricity supply licences[^key-579a69946bdaf9ef005ef3b1c99a415a]
+## 41. Conversion of existing electricity supply licences[^c-579a69946bdaf9ef005ef3b1c99a415a]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-579a69946bdaf9ef005ef3b1c99a415a]: Commencement: Reg. 41 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-579a69946bdaf9ef005ef3b1c99a415a]: Commencement: Reg. 41 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)

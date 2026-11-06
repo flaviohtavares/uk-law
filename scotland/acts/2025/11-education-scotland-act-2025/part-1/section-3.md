@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. The quality assurance function[^key-172097c76f4196411b6bc3060e028cfa][^key-c55c1739adaccc58771fff564dbc63d6]
+## 3. The quality assurance function[^c-172097c76f4196411b6bc3060e028cfa][^c-c55c1739adaccc58771fff564dbc63d6]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ Qualifications Scotland—
 
 ## Annotations
 
-[^key-172097c76f4196411b6bc3060e028cfa]: Commencement: S. 3 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-172097c76f4196411b6bc3060e028cfa]: Commencement: S. 3 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-c55c1739adaccc58771fff564dbc63d6]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2025/11/section/3) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-c55c1739adaccc58771fff564dbc63d6]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2025/11/section/3) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)

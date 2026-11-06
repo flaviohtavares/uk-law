@@ -41,28 +41,28 @@ on the harmonisation of the 900 MHz and 1 800 MHz frequency bands for terrestr
 
 (2009/766/EC) (revoked)
 
-[^key-4faac0c1e5df153c52f2416c895e057d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4faac0c1e5df153c52f2416c895e057d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-4faac0c1e5df153c52f2416c895e057d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4faac0c1e5df153c52f2416c895e057d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4faac0c1e5df153c52f2416c895e057d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4faac0c1e5df153c52f2416c895e057d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-4faac0c1e5df153c52f2416c895e057d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-4faac0c1e5df153c52f2416c895e057d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-4faac0c1e5df153c52f2416c895e057d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-4faac0c1e5df153c52f2416c895e057d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4a.**[^key-4faac0c1e5df153c52f2416c895e057d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4a.**[^c-4faac0c1e5df153c52f2416c895e057d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-4faac0c1e5df153c52f2416c895e057d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-4faac0c1e5df153c52f2416c895e057d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-4faac0c1e5df153c52f2416c895e057d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-4faac0c1e5df153c52f2416c895e057d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-4faac0c1e5df153c52f2416c895e057d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-4faac0c1e5df153c52f2416c895e057d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — LIST OF TERRESTRIAL SYSTEMS REFERRED TO IN ARTICLE 3 AND ARTICLE 4(2)[^key-4faac0c1e5df153c52f2416c895e057d]
+## ANNEX — LIST OF TERRESTRIAL SYSTEMS REFERRED TO IN ARTICLE 3 AND ARTICLE 4(2)[^c-4faac0c1e5df153c52f2416c895e057d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4faac0c1e5df153c52f2416c895e057d]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4faac0c1e5df153c52f2416c895e057d]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

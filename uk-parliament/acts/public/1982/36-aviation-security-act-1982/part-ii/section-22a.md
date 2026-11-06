@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22A. Civil penalties for failure to provide information or comply with a direction[^key-beb51b5d1da2d704d8d6a0d56c4e027e]
+## 22A. Civil penalties for failure to provide information or comply with a direction[^c-beb51b5d1da2d704d8d6a0d56c4e027e]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ and the regulations may make different provision for different purposes.
 
 ## Annotations
 
-[^key-beb51b5d1da2d704d8d6a0d56c4e027e]: Textual amendment: S. 22A inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 5 para. 11(2)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/11/2)
+[^c-beb51b5d1da2d704d8d6a0d56c4e027e]: Textual amendment: S. 22A inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 5 para. 11(2)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/11/2)

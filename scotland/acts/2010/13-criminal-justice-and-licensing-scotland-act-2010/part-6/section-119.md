@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 119. Provision of information to prosecutor: summary cases[^key-c503da9d3261eaf88f584de031ca56a0]
+## 119. Provision of information to prosecutor: summary cases[^c-c503da9d3261eaf88f584de031ca56a0]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c503da9d3261eaf88f584de031ca56a0]: Commencement: S. 119 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) )
+[^c-c503da9d3261eaf88f584de031ca56a0]: Commencement: S. 119 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) )

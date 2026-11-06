@@ -44,15 +44,15 @@ Coming into operation
 
 The Department of Justice makes the following Regulations in exercise of the powers conferred by Article 66 of the Criminal Justice (Northern Ireland) Order 2008 [^f00001] and now vested in it [^f00002].
 
-## 1. Citation and Commencement[^key-4cae0965020b2bfcb4953a4670638602]
+## 1. Citation and Commencement[^c-4cae0965020b2bfcb4953a4670638602]
 
 These regulations may be cited as the Criminal Justice (Northern Ireland) Order 2008 (Retention and Disposal of Seized Motor Vehicles) (Amendment) Regulations (Northern Ireland) 2025 and shall come into operation on 10th November 2025.
 
-## 2. Amendment of the Criminal Justice (Northern Ireland) Order 2008 (Retention and Disposal of Seized Motor Vehicles) Regulations (Northern Ireland) 2008[^key-315ef3a64147e7f611770fc4812020f0]
+## 2. Amendment of the Criminal Justice (Northern Ireland) Order 2008 (Retention and Disposal of Seized Motor Vehicles) Regulations (Northern Ireland) 2008[^c-315ef3a64147e7f611770fc4812020f0]
 
 The Criminal Justice (Northern Ireland) Order 2008 (Retention and Disposal of Seized Motor Vehicles) Regulations (Northern Ireland) 2008 [^f00003] are amended as follows.
 
-**3.**[^key-f9d3922b145a6b78c138f5c0f324d5f5] In Regulation 6(2), for the table entitled “Table 1 – Regulation 6(2)”, substitute the following table–
+**3.**[^c-f9d3922b145a6b78c138f5c0f324d5f5] In Regulation 6(2), for the table entitled “Table 1 – Regulation 6(2)”, substitute the following table–
 
 > - Table 1 – Regulation 6(2)
 >
@@ -71,7 +71,7 @@ The Criminal Justice (Northern Ireland) Order 2008 (Retention and Disposal of Se
 >   </tbody>
 >   </table>
 
-**4.**[^key-1e1f933dc444a8990087cd8f29c68dec] In Regulation 6(3), for the table entitled “Table 2 – Regulation 6(3)”, substitute the following table –
+**4.**[^c-1e1f933dc444a8990087cd8f29c68dec] In Regulation 6(3), for the table entitled “Table 2 – Regulation 6(3)”, substitute the following table –
 
 > - Table 2 – Regulation 6(3)
 >
@@ -79,7 +79,7 @@ The Criminal Justice (Northern Ireland) Order 2008 (Retention and Disposal of Se
 >   | --- | --- | --- | --- | --- |
 >   | £13 | £26 | £32 | £38 | £45 |
 
-## 5. Transitional provision[^key-e1f64f3c56605958ea853b837d226ed5]
+## 5. Transitional provision[^c-e1f64f3c56605958ea853b837d226ed5]
 
 Regulations 3 and 4 only have effect in respect of a vehicle seized on or after 10th November 2025.
 
@@ -107,14 +107,14 @@ Regulation 5 provides that the amendments made by regulations 3 and 4 only have 
 
 [^f00002]: Footnote: Article 4(1) of, and paragraph 32 of Schedule 1 to, the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 ([S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)) transferred the functions of the Secretary of State under the Criminal Justice (Northern Ireland) Order 2008, except for Chapters 4 and 7 of Part 2, to the Department of Justice.
 
-[^key-4cae0965020b2bfcb4953a4670638602]: Commencement: Reg. 1 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/167/regulation/1)
+[^c-4cae0965020b2bfcb4953a4670638602]: Commencement: Reg. 1 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/167/regulation/1)
 
-[^key-315ef3a64147e7f611770fc4812020f0]: Commencement: Reg. 2 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/167/regulation/1)
+[^c-315ef3a64147e7f611770fc4812020f0]: Commencement: Reg. 2 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/167/regulation/1)
 
 [^f00003]: Footnote: [SR (N.I) 2008 No. 495](https://www.legislation.gov.uk/nisr/2008/495)
 
-[^key-f9d3922b145a6b78c138f5c0f324d5f5]: Commencement: Reg. 3 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/167/regulation/1)
+[^c-f9d3922b145a6b78c138f5c0f324d5f5]: Commencement: Reg. 3 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/167/regulation/1)
 
-[^key-1e1f933dc444a8990087cd8f29c68dec]: Commencement: Reg. 4 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/167/regulation/1)
+[^c-1e1f933dc444a8990087cd8f29c68dec]: Commencement: Reg. 4 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/167/regulation/1)
 
-[^key-e1f64f3c56605958ea853b837d226ed5]: Commencement: Reg. 5 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/167/regulation/1)
+[^c-e1f64f3c56605958ea853b837d226ed5]: Commencement: Reg. 5 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/167/regulation/1)

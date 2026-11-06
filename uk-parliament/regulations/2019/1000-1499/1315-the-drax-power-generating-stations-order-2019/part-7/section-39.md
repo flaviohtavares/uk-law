@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Defence to proceedings in respect of statutory nuisance[^key-7198ce93a31f171e239334c374ab72c9]
+## 39. Defence to proceedings in respect of statutory nuisance[^c-7198ce93a31f171e239334c374ab72c9]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7198ce93a31f171e239334c374ab72c9]: Commencement: Art. 39 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-7198ce93a31f171e239334c374ab72c9]: Commencement: Art. 39 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
 
 [^c23895951]: Marginal citation: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43).
 

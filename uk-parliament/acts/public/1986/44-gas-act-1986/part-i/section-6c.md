@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6C. Duties of supply exemption holders[^key-f6534c11e5849729f8334f1ec8d5622c]
+## 6C. Duties of supply exemption holders[^c-f6534c11e5849729f8334f1ec8d5622c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 2AB (which relates to the duties of supply exemption holders) has effec
 
 ## Annotations
 
-[^key-f6534c11e5849729f8334f1ec8d5622c]: Textual amendment: Ss. 6B , 6C inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [20(2)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/20/2)
+[^c-f6534c11e5849729f8334f1ec8d5622c]: Textual amendment: Ss. 6B , 6C inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [20(2)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/20/2)

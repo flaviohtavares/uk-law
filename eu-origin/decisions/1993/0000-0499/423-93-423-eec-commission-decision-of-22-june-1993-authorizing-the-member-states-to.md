@@ -35,22 +35,22 @@ authorizing the Member States to provide for derogations from certain provisions
 
 (93/423/EEC) (revoked)
 
-[^key-06886bb7887ad94b7fc08c680b6882bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06886bb7887ad94b7fc08c680b6882bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-06886bb7887ad94b7fc08c680b6882bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-06886bb7887ad94b7fc08c680b6882bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-06886bb7887ad94b7fc08c680b6882bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-06886bb7887ad94b7fc08c680b6882bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-06886bb7887ad94b7fc08c680b6882bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-06886bb7887ad94b7fc08c680b6882bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-06886bb7887ad94b7fc08c680b6882bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-06886bb7887ad94b7fc08c680b6882bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-06886bb7887ad94b7fc08c680b6882bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06886bb7887ad94b7fc08c680b6882bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-06886bb7887ad94b7fc08c680b6882bf]
+[^c-06886bb7887ad94b7fc08c680b6882bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-06886bb7887ad94b7fc08c680b6882bf]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/5) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-06886bb7887ad94b7fc08c680b6882bf]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/5) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

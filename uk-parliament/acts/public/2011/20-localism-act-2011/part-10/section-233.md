@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 233. Tax[^c2116526][^key-614cbed0eb0046142512e7f829fefb1e]
+## 233. Tax[^c2116526][^c-614cbed0eb0046142512e7f829fefb1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 24 (provision about tax in connection with certain transfers and transf
 
 [^c2116526]: Commencement: S. 233 in force for specified purposes at Royal Assent see s. 240(5)(o)
 
-[^key-614cbed0eb0046142512e7f829fefb1e]: Commencement: S. 233 in force at 30.3.2012 for E.W. by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/628/article/3/a)
+[^c-614cbed0eb0046142512e7f829fefb1e]: Commencement: S. 233 in force at 30.3.2012 for E.W. by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/628/article/3/a)

@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 12, 14 and 42
 
-### 1. Incorporation of provisions[^key-1d30748d7a7469f329ccac277157e80e]
+### 1. Incorporation of provisions[^c-1d30748d7a7469f329ccac277157e80e]
 
 (1) Any provisions of the following affecting the rights and obligations of contractors form part of the terms of service—
 
@@ -39,7 +39,7 @@ Regulations 12, 14 and 42
 
 (3) In this paragraph, “**fee directions**” has the meaning given in regulation 32.
 
-### 2. Duty to make available basic glasses[^key-7ecf56f7ae419fcd4f284078c6821511]
+### 2. Duty to make available basic glasses[^c-7ecf56f7ae419fcd4f284078c6821511]
 
 (1) Sub-paragraphs (2) and (3) apply where—
 
@@ -55,11 +55,11 @@ Regulations 12, 14 and 42
 
 (4) In sub-paragraph (3), “**face value**” has the meaning given in the National Health Service (Optical Charges and Payments) Regulations 1997.
 
-### 3. Premises at which primary ophthalmic services are to be provided[^key-d61286c2567383b0c052f95a195cc8a9]
+### 3. Premises at which primary ophthalmic services are to be provided[^c-d61286c2567383b0c052f95a195cc8a9]
 
 Subject to paragraph 4, a contractor may provide primary ophthalmic services only at the contractor’s registered premises.
 
-### 4. Provision of mobile services[^key-6d53e10c630f43189f9dd90424199e08]
+### 4. Provision of mobile services[^c-6d53e10c630f43189f9dd90424199e08]
 
 (1) A contractor who has made arrangements with a Local Health Board to provide mobile services in that Local Health Board’s area may only provide them in accordance with sub-paragraph (2).
 
@@ -69,7 +69,7 @@ Subject to paragraph 4, a contractor may provide primary ophthalmic services onl
 - (b) the patient’s circumstances related to their physical or mental illness or disability make it impossible or unreasonable for them to receive primary ophthalmic services at a registered premises, and
 - (c) the contractor is satisfied that the patient is eligible for mobile services in accordance with these Regulations.
 
-### 5. Premises and equipment[^key-dc1f830bd01a4a8442b1ee8c43315c85]
+### 5. Premises and equipment[^c-dc1f830bd01a4a8442b1ee8c43315c85]
 
 (1) Subject to sub-paragraphs (2) to (6) and paragraph 18(4), a contractor must provide, as necessary, proper and sufficient consulting and waiting room accommodation and suitable equipment for the provision of primary ophthalmic services which the contractor has undertaken to provide.
 
@@ -101,7 +101,7 @@ Subject to paragraph 4, a contractor may provide primary ophthalmic services onl
 
 (9) A contractor must have regard to the code of practice on access to premises prepared and published by the Welsh Ministers under section 19(1) of the Health and Social Care (Quality and Engagement) (Wales) Act 2020[^f00056] (code of practice on access to premises) (so far as the code is relevant) in exercising any function that relates to the provision of health services or social services (within the meaning of those terms in section 21 of that Act).
 
-### 6. Displaying of notices[^key-edb2352754a08b81467b6ba429aca6df]
+### 6. Displaying of notices[^c-edb2352754a08b81467b6ba429aca6df]
 
 (1) Subject to sub-paragraph (2), a contractor must prominently display at each place at which the contractor provides primary ophthalmic services—
 
@@ -110,7 +110,7 @@ Subject to paragraph 4, a contractor may provide primary ophthalmic services onl
 
 (2) Where mobile services are being provided, a notice is required to be displayed only in so far as it is reasonably practicable to do so.
 
-### 7. Welsh Language[^key-ab216b9acf11cb4d1ec8cbc026da6af7]
+### 7. Welsh Language[^c-ab216b9acf11cb4d1ec8cbc026da6af7]
 
 (1) Where the contractor provides primary ophthalmic services through the medium of Welsh, the contractor must notify the Local Health Board of that fact.
 
@@ -129,11 +129,11 @@ Subject to paragraph 4, a contractor may provide primary ophthalmic services onl
 
 (7) The contractor must encourage those delivering primary ophthalmic services to establish and record the Welsh or English language preference expressed by or on behalf of a patient.
 
-### 8. Times at which primary ophthalmic services must be provided[^key-f58ac99ea0e334dee3644689a755b0b7]
+### 8. Times at which primary ophthalmic services must be provided[^c-f58ac99ea0e334dee3644689a755b0b7]
 
 The contractor must provide primary ophthalmic services during times agreed with the Local Health Board.
 
-### 9. Records[^key-8cf471fe979d67f10ba5d5d2a36038e2]
+### 9. Records[^c-8cf471fe979d67f10ba5d5d2a36038e2]
 
 (1) Subject to paragraph 10, a contractor must keep a proper record in respect of each patient to whom the contractor provides primary ophthalmic services.
 
@@ -144,7 +144,7 @@ The contractor must provide primary ophthalmic services during times agreed with
 - (a) to an officer authorised by a Local Health Board or by the Welsh Ministers, and
 - (b) within such period, not being less than 14 days, as the Local Health Board or the Welsh Ministers may specify.
 
-### 10. Alternative records arrangements[^key-a279d818a8d35daabfb70bf1a353ed0b]
+### 10. Alternative records arrangements[^c-a279d818a8d35daabfb70bf1a353ed0b]
 
 (1) Where the circumstances in sub-paragraph (2) apply, a contractor may, instead of keeping the records required under paragraph 9, comply with the conditions set out in sub-paragraph (3).
 
@@ -163,7 +163,7 @@ The contractor must provide primary ophthalmic services during times agreed with
 - (b) satisfied the Local Health Board’s requirements as to the keeping of records and that the arrangements are legally enforceable and require such production, and
 - (c) access to those records at all reasonable times.
 
-### 11. Audits[^key-ecb5406558009b456d55265cf1d84320]
+### 11. Audits[^c-ecb5406558009b456d55265cf1d84320]
 
 (1) A contractor must—
 
@@ -179,7 +179,7 @@ The contractor must provide primary ophthalmic services during times agreed with
 
 (4) For the purposes of this Schedule, “**financial year**” has the meaning given in section 206 of the Act (interpretation).
 
-### 12. Workforce reporting[^key-03c96bea3c66dbb8da28d539c3d4ca97]
+### 12. Workforce reporting[^c-03c96bea3c66dbb8da28d539c3d4ca97]
 
 (1) A contractor must provide such workforce data to the Local Health Board on whose ophthalmic list the contractor is included as the Local Health Board may, from time to time, require.
 
@@ -190,7 +190,7 @@ The contractor must provide primary ophthalmic services during times agreed with
 - “**data protection legislation**” (“***deddfwriaeth diogelu data***”) has the meaning given in section 3 of the Data Protection Act 2018[^f00057] (terms relating to the processing of personal data);
 - “**workforce data**” (“***data am y gweithlu***”) means data relating to those employed by the contractor.
 
-### 13. Optometry collaborative[^key-5ca10215cb4183460457de76228e0eb7]
+### 13. Optometry collaborative[^c-5ca10215cb4183460457de76228e0eb7]
 
 (1) A contractor must—
 
@@ -206,7 +206,7 @@ The contractor must provide primary ophthalmic services during times agreed with
 - “**primary care cluster**” (“***clwstwr gofal sylfaenol***”) means a group of health and social care providers that have agreed to work collaboratively to deliver primary care services across a specified geographical area;
 - “**relevant optometry collaborative**” (“***cydweithredfa optometreg berthnasol***”) means the optometry collaborative in whose area the contractor provides primary ophthalmic services.
 
-### 14. Quality improvement and governance[^key-68e25dc9a908ab00407408d342349c36]
+### 14. Quality improvement and governance[^c-68e25dc9a908ab00407408d342349c36]
 
 (1) A contractor must—
 
@@ -218,7 +218,7 @@ The contractor must provide primary ophthalmic services during times agreed with
 
 (3) For the purposes of this paragraph, “**relevant employees**” means, in relation to a contractor, employees of such a description as required by the Local Health Board.
 
-### 15. Declarations of Convictions etc.[^key-401f7b98c6e716fcdea9be8731cd319e]
+### 15. Declarations of Convictions etc.[^c-401f7b98c6e716fcdea9be8731cd319e]
 
 (1) On becoming aware of a change to the information the contractor provided in accordance with paragraph 7 of Schedule 3 when applying to be included in a Local Health Board’s ophthalmic list, the contractor must notify the Local Health Board in writing within 7 days.
 
@@ -226,7 +226,7 @@ The contractor must provide primary ophthalmic services during times agreed with
 
 (3) A contractor who is included in an ophthalmic list of a Local Health Board must supply that Local Health Board with an enhanced criminal record certificate under section 113B of the Police Act 1997 in relation to them, if the Local Health Board at any time, for reasonable cause, gives the contractor notice to provide such a certificate.
 
-### 16. Applications to other lists[^key-4ca1d4c9169308603dab75ad02463a03]
+### 16. Applications to other lists[^c-4ca1d4c9169308603dab75ad02463a03]
 
 A contractor who is an ophthalmic medical practitioner or optometrist must inform the Local Health Board in whose list they are included—
 
@@ -234,7 +234,7 @@ A contractor who is an ophthalmic medical practitioner or optometrist must infor
 - (b) if they become a director of a body corporate that is included in any primary care list, or apply to be included in such a list, and the outcome of any such application;
 - (c) in the case of a corporate optician, if any of its directors applies to be included in a primary care list or equivalent list and the outcome of any such application.
 
-### 17. Deputies[^key-b6946f3233ca998fbfedeb9b67635b76]
+### 17. Deputies[^c-b6946f3233ca998fbfedeb9b67635b76]
 
 (1) A contractor may arrange for a deputy to provide primary ophthalmic services on the contractor’s behalf.
 
@@ -244,7 +244,7 @@ A contractor who is an ophthalmic medical practitioner or optometrist must infor
 
 (4) A deputy who is also a contractor is jointly responsible to the same extent as the contractor for whom the deputy is deputising.
 
-### 18. Employees[^key-f91c9ebcceffdc32e923f3c70de8e46d]
+### 18. Employees[^c-f91c9ebcceffdc32e923f3c70de8e46d]
 
 (1) A contractor may employ—
 
@@ -269,13 +269,13 @@ A contractor who is an ophthalmic medical practitioner or optometrist must infor
   - (c) has provided evidence of (b) to the contractor;
 - “**employee**” (“***cyflogai***”) includes, in the case of a body corporate, a director and “**employ**” (“***cyflogi***”) must be interpreted accordingly.
 
-### 19. Concerns procedure[^key-b9b8e1b0229420082c56f9b6abfa3955]
+### 19. Concerns procedure[^c-b9b8e1b0229420082c56f9b6abfa3955]
 
 (1) A contractor must have in place arrangements which comply with the requirements of the National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011[^f00059] (“**the 2011 Regulations**”), for the handling and consideration of any concerns.
 
 (2) References in this paragraph and in paragraph 20 to a “concern” are to a concern notified in accordance with the 2011 Regulations.
 
-### 20. Co-operation with investigations[^key-f4500ec339bacfa122ef53231369e112]
+### 20. Co-operation with investigations[^c-f4500ec339bacfa122ef53231369e112]
 
 (1) A contractor must co-operate with any investigation of a complaint or concern in relation to any matter reasonably connected to the contractor’s provision of primary ophthalmic services undertaken by a “relevant body”, which includes—
 
@@ -289,7 +289,7 @@ A contractor who is an ophthalmic medical practitioner or optometrist must infor
 - (b) providing any information relating to the complaint or concern reasonably required by a relevant body;
 - (c) attending any meeting to consider the complaint or the concern (if held at a reasonably accessible place and at a reasonable hour, and due notice has been given), if the contractor’s presence is reasonably required by a relevant body.
 
-### 21. Complaints made against and concerns notified about ophthalmic medical practitioners[^key-1d762d77935edb25b0fe5b12252bbc9e]
+### 21. Complaints made against and concerns notified about ophthalmic medical practitioners[^c-1d762d77935edb25b0fe5b12252bbc9e]
 
 (1) Where a contractor who, being an ophthalmic medical practitioner, also performs primary medical services under a GMS contract for any person for whom the contractor provides primary ophthalmic services, the complaints procedure or procedure for notifying concerns established and operated in accordance with the terms of that GMS contract applies in relation to any matter reasonably connected with the contractor’s provision of primary ophthalmic services as it applies as respects the provision of services under the GMS contract.
 
@@ -297,7 +297,7 @@ A contractor who is an ophthalmic medical practitioner or optometrist must infor
 
 (3) For the purposes of this paragraph, “**GMS contract**” means a general medical services contract under section 42 of the Act (general medical services contracts: introductory) and “GMS contractor” must be interpreted accordingly.
 
-### 22. Payment claims[^key-b89573d23b2f7bbf93ce912a5ad35b40]
+### 22. Payment claims[^c-b89573d23b2f7bbf93ce912a5ad35b40]
 
 (1) Any claim by a contractor for fees for the provision of primary ophthalmic services under these Regulations must be made by completing a primary ophthalmic services form and sending it to the Local Health Board in whose area the primary ophthalmic services were provided within 3 months beginning with the date of completion of the provision of those services.
 
@@ -326,7 +326,7 @@ A contractor who is an ophthalmic medical practitioner or optometrist must infor
 - (a) which has not been provided under primary ophthalmic services, or
 - (b) for which another claim has already been submitted to the Local Health Board.
 
-### 23. Testing of sight[^key-c9144752d24e233a269aafd271b43002]
+### 23. Testing of sight[^c-c9144752d24e233a269aafd271b43002]
 
 (1) Where a contractor has accepted an application for the testing of sight under these Regulations, the contractor must—
 
@@ -350,7 +350,7 @@ A contractor who is an ophthalmic medical practitioner or optometrist must infor
 - (c) recommendations for managing the patient’s eye condition or eye health or vision, and
 - (d) such other advice, for the purpose of increasing the patient’s knowledge and understanding of any health issues connected to the patient’s eye condition, eye health or vision, which appears to the contractor to be relevant to the patient’s personal circumstances.
 
-### 24. Eye examinations[^key-198e4253a70146e8aa0daf80ca1f1fcc]
+### 24. Eye examinations[^c-198e4253a70146e8aa0daf80ca1f1fcc]
 
 (1) A contractor must provide an eye examination to a person in the circumstances in sub-paragraph (2).
 
@@ -367,7 +367,7 @@ A contractor who is an ophthalmic medical practitioner or optometrist must infor
 
 (4) For the purposes of this paragraph, “**health care professional**” means a person who is a member of a profession regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002[^f00062] (the Professional Standards Authority for Health and Social Care).
 
-### 25. Refusal to provide services[^key-df9218e73ce45e9f5e70688de5ae9812]
+### 25. Refusal to provide services[^c-df9218e73ce45e9f5e70688de5ae9812]
 
 (1) Paragraphs (2) and (3) apply—
 
@@ -380,7 +380,7 @@ A contractor who is an ophthalmic medical practitioner or optometrist must infor
 
 (3) For the purposes of paragraph (2), reasonable grounds may not relate to the person’s age, ophthalmic condition or related medical condition.
 
-### 26. Referrals[^key-aecc61dc16434e93c4f4437314b1b737]
+### 26. Referrals[^c-aecc61dc16434e93c4f4437314b1b737]
 
 (1) Where a contractor, or qualified practitioner assisting the contractor in the provision of primary ophthalmic services, is of the opinion that a patient who has received a sight test pursuant to paragraph 23 or an eye examination pursuant to paragraph 24 of this Schedule—
 
@@ -403,7 +403,7 @@ the contractor must, if appropriate, and with the consent of the patient, take t
 
 (5) A referral made by a contractor in accordance with this paragraph must be made electronically where the means of making electronic referrals are available to the contractor.
 
-### 27. Use of disqualified name[^key-e07ef5088ba9bb78d9c7abbd564006cb]
+### 27. Use of disqualified name[^c-e07ef5088ba9bb78d9c7abbd564006cb]
 
 (1) Subject to sub-paragraph (2), a contractor must not use in any manner the name or part of the name, either alone or in combination with any other words or letters of, or used by, any person so long as that person is disqualified by the First-tier Tribunal from inclusion in any combined list by virtue of the Act or these Regulations.
 
@@ -412,7 +412,7 @@ the contractor must, if appropriate, and with the consent of the patient, take t
 - (a) a contractor other than a body corporate from using the contractor’s own name, or
 - (b) a contractor that is a body corporate from using the name by which it is enrolled in the register maintained under the Opticians Act 1989.
 
-### 28. Training[^key-fe12d3acbe3685c8d27326b6c8aed848]
+### 28. Training[^c-fe12d3acbe3685c8d27326b6c8aed848]
 
 (1) A contractor must ensure that the persons specified in sub-paragraph (2) undertake training, as required by the Local Health Board on whose list the contractor is included, which—
 
@@ -427,7 +427,7 @@ the contractor must, if appropriate, and with the consent of the patient, take t
 
 (3) A contractor may not employ or otherwise engage a qualified practitioner in relation to the provision of primary ophthalmic services unless the contractor is satisfied that the qualified practitioner has the clinical experience and training necessary to enable them to properly perform the services that they are to be required to perform.
 
-### 29. Compliance with legislation and guidance[^key-0b778843b860697aa1a657ce08e2c3c5]
+### 29. Compliance with legislation and guidance[^c-0b778843b860697aa1a657ce08e2c3c5]
 
 A contractor must—
 
@@ -436,78 +436,78 @@ A contractor must—
 
 ## Annotations
 
-[^key-1d30748d7a7469f329ccac277157e80e]: Commencement: Sch. 4 para. 1 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-1d30748d7a7469f329ccac277157e80e]: Commencement: Sch. 4 para. 1 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00054]: Footnote: [S.I. 1992/664](https://www.legislation.gov.uk/uksi/1992/664); relevant amending instruments are [S.I. 1996/703](https://www.legislation.gov.uk/uksi/1996/703), [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) and [S.I. 2013/2042](https://www.legislation.gov.uk/uksi/2013/2042).
 
 [^f00055]: Footnote: [S.I. 1997/818](https://www.legislation.gov.uk/uksi/1997/818), amended by [S.I. 2003/301](https://www.legislation.gov.uk/uksi/2003/301).
 
-[^key-7ecf56f7ae419fcd4f284078c6821511]: Commencement: Sch. 4 para. 2 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-7ecf56f7ae419fcd4f284078c6821511]: Commencement: Sch. 4 para. 2 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-d61286c2567383b0c052f95a195cc8a9]: Commencement: Sch. 4 para. 3 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-d61286c2567383b0c052f95a195cc8a9]: Commencement: Sch. 4 para. 3 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-6d53e10c630f43189f9dd90424199e08]: Commencement: Sch. 4 para. 4 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-6d53e10c630f43189f9dd90424199e08]: Commencement: Sch. 4 para. 4 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-dc1f830bd01a4a8442b1ee8c43315c85]: Commencement: Sch. 4 para. 5 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-dc1f830bd01a4a8442b1ee8c43315c85]: Commencement: Sch. 4 para. 5 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00056]: Footnote: [2020 asc 1](https://www.legislation.gov.uk/asc/2020/1)
 
-[^key-edb2352754a08b81467b6ba429aca6df]: Commencement: Sch. 4 para. 6 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-edb2352754a08b81467b6ba429aca6df]: Commencement: Sch. 4 para. 6 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-ab216b9acf11cb4d1ec8cbc026da6af7]: Commencement: Sch. 4 para. 7 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-ab216b9acf11cb4d1ec8cbc026da6af7]: Commencement: Sch. 4 para. 7 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-f58ac99ea0e334dee3644689a755b0b7]: Commencement: Sch. 4 para. 8 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-f58ac99ea0e334dee3644689a755b0b7]: Commencement: Sch. 4 para. 8 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-8cf471fe979d67f10ba5d5d2a36038e2]: Commencement: Sch. 4 para. 9 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-8cf471fe979d67f10ba5d5d2a36038e2]: Commencement: Sch. 4 para. 9 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-a279d818a8d35daabfb70bf1a353ed0b]: Commencement: Sch. 4 para. 10 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-a279d818a8d35daabfb70bf1a353ed0b]: Commencement: Sch. 4 para. 10 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-ecb5406558009b456d55265cf1d84320]: Commencement: Sch. 4 para. 11 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-ecb5406558009b456d55265cf1d84320]: Commencement: Sch. 4 para. 11 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-03c96bea3c66dbb8da28d539c3d4ca97]: Commencement: Sch. 4 para. 12 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-03c96bea3c66dbb8da28d539c3d4ca97]: Commencement: Sch. 4 para. 12 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00057]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12); the definition in section 3 was amended by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419).
 
-[^key-5ca10215cb4183460457de76228e0eb7]: Commencement: Sch. 4 para. 13 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-5ca10215cb4183460457de76228e0eb7]: Commencement: Sch. 4 para. 13 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-68e25dc9a908ab00407408d342349c36]: Commencement: Sch. 4 para. 14 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-68e25dc9a908ab00407408d342349c36]: Commencement: Sch. 4 para. 14 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-401f7b98c6e716fcdea9be8731cd319e]: Commencement: Sch. 4 para. 15 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-401f7b98c6e716fcdea9be8731cd319e]: Commencement: Sch. 4 para. 15 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-4ca1d4c9169308603dab75ad02463a03]: Commencement: Sch. 4 para. 16 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-4ca1d4c9169308603dab75ad02463a03]: Commencement: Sch. 4 para. 16 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-b6946f3233ca998fbfedeb9b67635b76]: Commencement: Sch. 4 para. 17 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-b6946f3233ca998fbfedeb9b67635b76]: Commencement: Sch. 4 para. 17 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-f91c9ebcceffdc32e923f3c70de8e46d]: Commencement: Sch. 4 para. 18 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-f91c9ebcceffdc32e923f3c70de8e46d]: Commencement: Sch. 4 para. 18 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00058]: Footnote: Section 24 was amended by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848).
 
-[^key-b9b8e1b0229420082c56f9b6abfa3955]: Commencement: Sch. 4 para. 19 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-b9b8e1b0229420082c56f9b6abfa3955]: Commencement: Sch. 4 para. 19 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00059]: Footnote: [S.I. 2011/704](https://www.legislation.gov.uk/uksi/2011/704); relevant amending instruments are [S.I. 2023/274 (W. 41)](https://www.legislation.gov.uk/wsi/2023/274) and [S.I. 2023/281 (W. 42)](https://www.legislation.gov.uk/wsi/2023/281).
 
-[^key-f4500ec339bacfa122ef53231369e112]: Commencement: Sch. 4 para. 20 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-f4500ec339bacfa122ef53231369e112]: Commencement: Sch. 4 para. 20 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-1d762d77935edb25b0fe5b12252bbc9e]: Commencement: Sch. 4 para. 21 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-1d762d77935edb25b0fe5b12252bbc9e]: Commencement: Sch. 4 para. 21 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00060]: Footnote: [S.I. 2023/953 (W. 155)](https://www.legislation.gov.uk/wsi/2023/953).
 
-[^key-b89573d23b2f7bbf93ce912a5ad35b40]: Commencement: Sch. 4 para. 22 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-b89573d23b2f7bbf93ce912a5ad35b40]: Commencement: Sch. 4 para. 22 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-c9144752d24e233a269aafd271b43002]: Commencement: Sch. 4 para. 23 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-c9144752d24e233a269aafd271b43002]: Commencement: Sch. 4 para. 23 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00061]: Footnote: Section 26 was amended by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848), article 19.
 
-[^key-198e4253a70146e8aa0daf80ca1f1fcc]: Commencement: Sch. 4 para. 24 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-198e4253a70146e8aa0daf80ca1f1fcc]: Commencement: Sch. 4 para. 24 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00062]: Footnote: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17).
 
-[^key-df9218e73ce45e9f5e70688de5ae9812]: Commencement: Sch. 4 para. 25 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-df9218e73ce45e9f5e70688de5ae9812]: Commencement: Sch. 4 para. 25 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-aecc61dc16434e93c4f4437314b1b737]: Commencement: Sch. 4 para. 26 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-aecc61dc16434e93c4f4437314b1b737]: Commencement: Sch. 4 para. 26 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-e07ef5088ba9bb78d9c7abbd564006cb]: Commencement: Sch. 4 para. 27 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-e07ef5088ba9bb78d9c7abbd564006cb]: Commencement: Sch. 4 para. 27 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-fe12d3acbe3685c8d27326b6c8aed848]: Commencement: Sch. 4 para. 28 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-fe12d3acbe3685c8d27326b6c8aed848]: Commencement: Sch. 4 para. 28 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-0b778843b860697aa1a657ce08e2c3c5]: Commencement: Sch. 4 para. 29 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-0b778843b860697aa1a657ce08e2c3c5]: Commencement: Sch. 4 para. 29 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

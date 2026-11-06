@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Amendments of section 106 of TCPA[^key-e0ef5a0209ffc4b23dba184be863ac33]
+## 33. Amendments of section 106 of TCPA[^c-e0ef5a0209ffc4b23dba184be863ac33]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0ef5a0209ffc4b23dba184be863ac33]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2007/24/section/33) in force at 6.4.2008 by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/582/article/2/a)
+[^c-e0ef5a0209ffc4b23dba184be863ac33]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2007/24/section/33) in force at 6.4.2008 by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/582/article/2/a)

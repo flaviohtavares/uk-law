@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 163. Authentication[^key-c45f2c0d4f86069e877b6973287c7b1b]
+## 163. Authentication[^c-c45f2c0d4f86069e877b6973287c7b1b]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c45f2c0d4f86069e877b6973287c7b1b]: Commencement: [Rule 163](https://www.legislation.gov.uk/uksi/2013/3208/rule/163) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-c45f2c0d4f86069e877b6973287c7b1b]: Commencement: [Rule 163](https://www.legislation.gov.uk/uksi/2013/3208/rule/163) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

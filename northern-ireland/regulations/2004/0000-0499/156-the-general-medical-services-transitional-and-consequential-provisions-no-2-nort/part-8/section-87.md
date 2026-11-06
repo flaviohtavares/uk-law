@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 87. Transitory interpretation of references to general medical services contracts[^key-e04cc46707c4941837510b536024528e]
+## 87. Transitory interpretation of references to general medical services contracts[^c-e04cc46707c4941837510b536024528e]
 
 *Extent: N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e04cc46707c4941837510b536024528e]: Commencement: Art. 87 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-e04cc46707c4941837510b536024528e]: Commencement: Art. 87 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
 [^f00036]: Footnote: Article 2(2) was amended by paragraph 2 of Schedule 1 to the 2004 Order
 

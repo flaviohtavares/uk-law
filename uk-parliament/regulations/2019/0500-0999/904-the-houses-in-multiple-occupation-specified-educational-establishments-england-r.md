@@ -32,7 +32,7 @@ summary: ''
 
 Housing, England
 
-The Houses in Multiple Occupation (Specified Educational Establishments) (England) Regulations 2019 (revoked)[^key-96e5df89e9c870f84050b58d6b174e3f]
+The Houses in Multiple Occupation (Specified Educational Establishments) (England) Regulations 2019 (revoked)[^c-96e5df89e9c870f84050b58d6b174e3f]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 1st June 2019
 
-[^key-96e5df89e9c870f84050b58d6b174e3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-96e5df89e9c870f84050b58d6b174e3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-96e5df89e9c870f84050b58d6b174e3f]
+## 1. Citation, commencement and application[^c-96e5df89e9c870f84050b58d6b174e3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Educational establishments specified for certain purposes of the Housing Act 2004[^key-96e5df89e9c870f84050b58d6b174e3f]
+## 2. Educational establishments specified for certain purposes of the Housing Act 2004[^c-96e5df89e9c870f84050b58d6b174e3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-96e5df89e9c870f84050b58d6b174e3f]
+## 3. Revocation[^c-96e5df89e9c870f84050b58d6b174e3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-96e5df89e9c870f84050b58d6b174e3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-96e5df89e9c870f84050b58d6b174e3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Educational establishments specified for the purposes of paragraph 4 of Schedule 14 to the Housing Act 2004[^key-96e5df89e9c870f84050b58d6b174e3f]
+## SCHEDULE — Educational establishments specified for the purposes of paragraph 4 of Schedule 14 to the Housing Act 2004[^c-96e5df89e9c870f84050b58d6b174e3f]
 
 Regulation 2
 
@@ -74,8 +74,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-96e5df89e9c870f84050b58d6b174e3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-96e5df89e9c870f84050b58d6b174e3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-96e5df89e9c870f84050b58d6b174e3f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/904) revoked (1.5.2025) by [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2025/431/regulation/3/a)
+[^c-96e5df89e9c870f84050b58d6b174e3f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/904) revoked (1.5.2025) by [The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) (Amendment) Regulations 2025 (S.I. 2025/431)](https://www.legislation.gov.uk/uksi/2025/431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/431/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2025/431/regulation/3/a)

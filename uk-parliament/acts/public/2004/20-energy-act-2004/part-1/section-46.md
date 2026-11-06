@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Pensions[^key-c454ea74f964c2c6bd6da397d32ca144]
+## 46. Pensions[^c-c454ea74f964c2c6bd6da397d32ca144]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 8 (which makes provision about pensions in connection with transfers af
 
 ## Annotations
 
-[^key-c454ea74f964c2c6bd6da397d32ca144]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2004/20/section/46) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-c454ea74f964c2c6bd6da397d32ca144]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2004/20/section/46) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

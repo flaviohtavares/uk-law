@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 269. Non-Gazette notice relating to an institution that is a company[^key-6ec1e9d14953bc7a3d693755ab4df523]
+## 269. Non-Gazette notice relating to an institution that is a company[^c-6ec1e9d14953bc7a3d693755ab4df523]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ In addition to the information required by rule 268 of these Rules, a notice rel
 
 ## Annotations
 
-[^key-6ec1e9d14953bc7a3d693755ab4df523]: Commencement: [Rule 269](https://www.legislation.gov.uk/nisr/2026/11/rule/269) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-6ec1e9d14953bc7a3d693755ab4df523]: Commencement: [Rule 269](https://www.legislation.gov.uk/nisr/2026/11/rule/269) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210A. Extraordinary audit: local authorities[^key-4adc3a1be51d0c5a951db698260d9555][^M_F_b128cd8c-0ec1-4dea-d4d1-f32e148c1139]
+## 210A. Extraordinary audit: local authorities[^c-4adc3a1be51d0c5a951db698260d9555][^M_F_b128cd8c-0ec1-4dea-d4d1-f32e148c1139]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4adc3a1be51d0c5a951db698260d9555]: Textual amendment: S. 210A inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/55)
+[^c-4adc3a1be51d0c5a951db698260d9555]: Textual amendment: S. 210A inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/55)
 
 [^M_F_b128cd8c-0ec1-4dea-d4d1-f32e148c1139]: Textual amendment: Word in s. 210A heading substituted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 95(7)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/95/7); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/2)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), [art. 2](https://www.legislation.gov.uk/uksi/2016/675/article/2))
 

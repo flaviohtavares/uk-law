@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Delegation of functions by local policing bodies[^c22718561][^key-f50c3fb4ffb458259ecedafa0b15ab18]
+## 23. Delegation of functions by local policing bodies[^c22718561][^c-f50c3fb4ffb458259ecedafa0b15ab18]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 [^c22718561]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2017/3/section/23) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-f50c3fb4ffb458259ecedafa0b15ab18]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2017/3/section/23) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/j) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-f50c3fb4ffb458259ecedafa0b15ab18]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2017/3/section/23) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/j) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))

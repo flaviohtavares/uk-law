@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Sale etc. of invasive non-native species[^key-a24a541703a9d7d2725142c6073a0246]
+## 50. Sale etc. of invasive non-native species[^c-a24a541703a9d7d2725142c6073a0246]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ After section 14 of the 1981 Act insert—
 
 ## Annotations
 
-[^key-a24a541703a9d7d2725142c6073a0246]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2006/16/section/50) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-a24a541703a9d7d2725142c6073a0246]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2006/16/section/50) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

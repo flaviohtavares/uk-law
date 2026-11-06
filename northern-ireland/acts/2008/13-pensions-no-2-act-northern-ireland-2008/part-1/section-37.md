@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Unpaid contributions notices[^c19558151][^key-318b4080286a33744e893471da0c5c7a]
+## 37. Unpaid contributions notices[^c19558151][^c-318b4080286a33744e893471da0c5c7a]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c19558151]: Commencement: S. 37 partly in force; s. 37 in force for certain purposes at Royal Assent see s. 118(2)
 
-[^key-318b4080286a33744e893471da0c5c7a]: Commencement: S. 37 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)
+[^c-318b4080286a33744e893471da0c5c7a]: Commencement: S. 37 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)

@@ -32,7 +32,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Designation) (No. 2) Order 2006 (revoked)[^key-c0856ca9c46e4491d747d2b5f30946d0]
+The European Communities (Designation) (No. 2) Order 2006 (revoked)[^c-c0856ca9c46e4491d747d2b5f30946d0]
 
 Made
 
@@ -52,40 +52,40 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-c0856ca9c46e4491d747d2b5f30946d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0856ca9c46e4491d747d2b5f30946d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c0856ca9c46e4491d747d2b5f30946d0]
+## 1. Citation, commencement and interpretation[^c-c0856ca9c46e4491d747d2b5f30946d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of Minister or department[^key-c0856ca9c46e4491d747d2b5f30946d0]
+## 2. Designation of Minister or department[^c-c0856ca9c46e4491d747d2b5f30946d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of Northern Ireland Departments[^key-c0856ca9c46e4491d747d2b5f30946d0]
+## 3. Designation of Northern Ireland Departments[^c-c0856ca9c46e4491d747d2b5f30946d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0856ca9c46e4491d747d2b5f30946d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0856ca9c46e4491d747d2b5f30946d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — DESIGNATION OF MINISTERS OR DEPARTMENTS[^key-c0856ca9c46e4491d747d2b5f30946d0]
+## SCHEDULE 1 — DESIGNATION OF MINISTERS OR DEPARTMENTS[^c-c0856ca9c46e4491d747d2b5f30946d0]
 
 Article 2(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — MATTERS IN RELATION TO WHICH ANY NORTHERN IRELAND DEPARTMENT IS DESIGNATED[^key-c0856ca9c46e4491d747d2b5f30946d0]
+## SCHEDULE 2 — MATTERS IN RELATION TO WHICH ANY NORTHERN IRELAND DEPARTMENT IS DESIGNATED[^c-c0856ca9c46e4491d747d2b5f30946d0]
 
 Article 3(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0856ca9c46e4491d747d2b5f30946d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0856ca9c46e4491d747d2b5f30946d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c0856ca9c46e4491d747d2b5f30946d0]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2006/1461) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c0856ca9c46e4491d747d2b5f30946d0]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2006/1461) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

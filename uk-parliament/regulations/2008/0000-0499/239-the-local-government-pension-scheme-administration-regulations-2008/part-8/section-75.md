@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 75. Protection of guaranteed minimum pension rights[^key-1686895fb2b26e802fc64c40b7a52aba]
+## 75. Protection of guaranteed minimum pension rights[^c-1686895fb2b26e802fc64c40b7a52aba]
 
 *Extent: E+W+S*
 
@@ -38,6 +38,6 @@ may not be exercised so as to deprive a person of his guaranteed minimum pension
 
 ## Annotations
 
-[^key-1686895fb2b26e802fc64c40b7a52aba]: Commencement: Reg. 75 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-1686895fb2b26e802fc64c40b7a52aba]: Commencement: Reg. 75 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00046]: Footnote: [1911 c.28](https://www.legislation.gov.uk/ukpga/1911/28) and [1989 c.6](https://www.legislation.gov.uk/ukpga/1989/6).

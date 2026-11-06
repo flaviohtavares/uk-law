@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Fingerprints and samples[^key-374bb035aeb0ffdbd9494e16def93048][^key-bb55dce6e89ce75c4ef3e9da40da8dae]
+## 58. Fingerprints and samples[^c-374bb035aeb0ffdbd9494e16def93048][^c-bb55dce6e89ce75c4ef3e9da40da8dae]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 12 makes provision about fingerprints and samples.
 
 ## Annotations
 
-[^key-374bb035aeb0ffdbd9494e16def93048]: Commencement: S. 58 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-374bb035aeb0ffdbd9494e16def93048]: Commencement: S. 58 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-bb55dce6e89ce75c4ef3e9da40da8dae]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2023/32/section/58) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-bb55dce6e89ce75c4ef3e9da40da8dae]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2023/32/section/58) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

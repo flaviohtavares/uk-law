@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45A. Arranging pre-hearing panels to determinate opportunity to participate - notice to persons other than person seeking opportunity[^key-3c70047037392aeb66f68ebfb4ee35bc]
+## 45A. Arranging pre-hearing panels to determinate opportunity to participate - notice to persons other than person seeking opportunity[^c-3c70047037392aeb66f68ebfb4ee35bc]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c70047037392aeb66f68ebfb4ee35bc]: Textual amendment: Rules 45A, 45B inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(13)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/13)
+[^c-3c70047037392aeb66f68ebfb4ee35bc]: Textual amendment: Rules 45A, 45B inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(13)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/13)

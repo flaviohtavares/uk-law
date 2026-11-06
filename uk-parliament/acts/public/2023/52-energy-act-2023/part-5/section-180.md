@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Interpretation of Part 5[^key-3ca96e615b702a364bdbdde85c54192f]
+## 180. Interpretation of Part 5[^c-3ca96e615b702a364bdbdde85c54192f]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ca96e615b702a364bdbdde85c54192f]: Commencement: S. 180 in force at Royal Assent, see [s. 334(2)(h)(iv)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-3ca96e615b702a364bdbdde85c54192f]: Commencement: S. 180 in force at Royal Assent, see [s. 334(2)(h)(iv)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)

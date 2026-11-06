@@ -48,7 +48,7 @@ summary: ''
 - (k) subsection (2) of section 42 of the 2006 Act, and paragraph 2A(1)(b) and (ba) of Schedule 12 to the 1977 Act as substituted by that subsection (see section 180 of this Act),
 - (l) subsection (3) of section 42 of the 2006 Act, and paragraph 2B of Schedule 12 to the 1977 Act as inserted by that subsection (see section 181 of this Act),
 - (m) sections 44 to 55 of the 2006 Act, and sections 76 to 78 of that Act so far as relating to those sections (see Part 10 of this Act),
-- (n)[^key-a1e57b51bc6f235027336287eabd83ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (n)[^c-a1e57b51bc6f235027336287eabd83ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (o) paragraphs 14, 24(b) and 25 of Schedule 8 to the 2006 Act (which relate to the substitution of “optometrist” for “ophthalmic optician”) and the 1977 Act as amended by those paragraphs.
 
 (4) To the extent that—
@@ -62,4 +62,4 @@ the re-enactment by this Act of the provision does not come into force until the
 
 ## Annotations
 
-[^key-a1e57b51bc6f235027336287eabd83ab]: Textual amendment: [S. 277(3)(n)](https://www.legislation.gov.uk/ukpga/2006/41/section/277/3/n) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 87(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/31/section/87/3/b/ii), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-a1e57b51bc6f235027336287eabd83ab]: Textual amendment: [S. 277(3)(n)](https://www.legislation.gov.uk/ukpga/2006/41/section/277/3/n) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 87(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/31/section/87/3/b/ii), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

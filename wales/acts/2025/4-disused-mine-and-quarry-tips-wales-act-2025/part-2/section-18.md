@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Notice of intention to carry out full assessment[^key-26469b3e7defa0de0034f88ed4990991]
+## 18. Notice of intention to carry out full assessment[^c-26469b3e7defa0de0034f88ed4990991]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26469b3e7defa0de0034f88ed4990991]: Commencement: S. 18 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-26469b3e7defa0de0034f88ed4990991]: Commencement: S. 18 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

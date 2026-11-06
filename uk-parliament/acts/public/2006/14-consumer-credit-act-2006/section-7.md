@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-8d712660fc4031f142d24f9598531bdf] In section 78 of the 1974 Act (duty to give information to debtor under running-account credit agreement) after subsection (4) insert—
+(1)[^c-8d712660fc4031f142d24f9598531bdf] In section 78 of the 1974 Act (duty to give information to debtor under running-account credit agreement) after subsection (4) insert—
 
 > (4A) Regulations may require a statement under subsection (4) to contain also information in the prescribed terms about the consequences of the debtor—
 >
 > - (a) failing to make payments as required by the agreement; or
 > - (b) only making payments of a prescribed description in prescribed circumstances.
 
-(2)[^key-8d712660fc4031f142d24f9598531bdf] In subsection (7) of that section for “(4) and (5)” substitute “ (4) to (5) ”.
+(2)[^c-8d712660fc4031f142d24f9598531bdf] In subsection (7) of that section for “(4) and (5)” substitute “ (4) to (5) ”.
 
-(3)[^key-0b81184f83a05ccb9f4a59260bd1a193] In section 185 of that Act (agreement with more than one debtor or hirer) for subsection (2) substitute—
+(3)[^c-0b81184f83a05ccb9f4a59260bd1a193] In section 185 of that Act (agreement with more than one debtor or hirer) for subsection (2) substitute—
 
 > (2) Notwithstanding subsection (1)(a), where credit is provided under an agreement to two or more debtors jointly, in performing his duties—
 >
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8d712660fc4031f142d24f9598531bdf]: Commencement: [S. 7(1)](https://www.legislation.gov.uk/ukpga/2006/14/section/7/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/14/section/7/2) in force at 16.6.2006 by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)
+[^c-8d712660fc4031f142d24f9598531bdf]: Commencement: [S. 7(1)](https://www.legislation.gov.uk/ukpga/2006/14/section/7/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/14/section/7/2) in force at 16.6.2006 by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)
 
-[^key-0b81184f83a05ccb9f4a59260bd1a193]: Commencement: [S. 7(3)](https://www.legislation.gov.uk/ukpga/2006/14/section/7/3) in force at 1.10.2008 by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)
+[^c-0b81184f83a05ccb9f4a59260bd1a193]: Commencement: [S. 7(3)](https://www.legislation.gov.uk/ukpga/2006/14/section/7/3) in force at 1.10.2008 by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)

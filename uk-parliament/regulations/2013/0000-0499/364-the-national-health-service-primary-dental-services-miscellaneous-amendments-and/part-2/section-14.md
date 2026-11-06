@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Amendment of regulation 21[^key-3ca65e3fbe6e41e1e9fbbe356460aa5e]
+## 14. Amendment of regulation 21[^c-3ca65e3fbe6e41e1e9fbbe356460aa5e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In regulation 21 (finance)—
 
 ## Annotations
 
-[^key-3ca65e3fbe6e41e1e9fbbe356460aa5e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/364/regulation/14) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-3ca65e3fbe6e41e1e9fbbe356460aa5e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/364/regulation/14) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

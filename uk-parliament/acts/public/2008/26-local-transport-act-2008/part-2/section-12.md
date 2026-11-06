@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Development of policies by ITA no longer joint duty with district councils[^key-9136fcf8d06dfe5f60392df42e9aa438][^key-55b8c20f27e17eab8d69591f4e29979d]
+## 12. Development of policies by ITA no longer joint duty with district councils[^c-9136fcf8d06dfe5f60392df42e9aa438][^c-55b8c20f27e17eab8d69591f4e29979d]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9136fcf8d06dfe5f60392df42e9aa438]: Commencement: S. 12 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/paragraph/3))
+[^c-9136fcf8d06dfe5f60392df42e9aa438]: Commencement: S. 12 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/paragraph/3))
 
-[^key-55b8c20f27e17eab8d69591f4e29979d]: Commencement: S. 12 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/579/article/2/b)
+[^c-55b8c20f27e17eab8d69591f4e29979d]: Commencement: S. 12 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/579/article/2/b)

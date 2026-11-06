@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Application[^key-7de5bff48ac69f7b48cc0503d40e7072]
+## 4. Application[^c-7de5bff48ac69f7b48cc0503d40e7072]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7de5bff48ac69f7b48cc0503d40e7072]: Commencement: Reg. 4 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-7de5bff48ac69f7b48cc0503d40e7072]: Commencement: Reg. 4 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

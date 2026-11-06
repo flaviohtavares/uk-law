@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Conditions of accreditation[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+## 25. Conditions of accreditation[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/356) revoked (5.4.2007) by [The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2007 (S.R. 2007/198)](https://www.legislation.gov.uk/nisr/2007/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/198/regulation/1/1), [41(1)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/1) (with [reg. 41(2)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/2)[(3)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/3))
+[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/356) revoked (5.4.2007) by [The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2007 (S.R. 2007/198)](https://www.legislation.gov.uk/nisr/2007/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/198/regulation/1/1), [41(1)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/1) (with [reg. 41(2)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/2)[(3)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/3))

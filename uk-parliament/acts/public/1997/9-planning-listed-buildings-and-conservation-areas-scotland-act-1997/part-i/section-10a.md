@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10A. Declining to determine an application[^key-0481d14bae1c8a1056cb3179ae30282c][^key-2c4aa80240a6bbab90bf7c4cc2926807]
+## 10A. Declining to determine an application[^c-0481d14bae1c8a1056cb3179ae30282c][^c-2c4aa80240a6bbab90bf7c4cc2926807]
 
 *Extent: S*
 
-(1)[^key-9cf4d6b91483b3c8e7402fe4151cec83] A planning authority may decline to determine an application (in this subsection referred to as the “**current application**”) for listed building consent—
+(1)[^c-9cf4d6b91483b3c8e7402fe4151cec83] A planning authority may decline to determine an application (in this subsection referred to as the “**current application**”) for listed building consent—
 
 - (a) if—
   - (i) in the period of two years ending with the date on which the current application is received, the Scottish Ministers have refused a similar application referred to them under section 11 or have dismissed an appeal against the refusal of, or an appeal under section 18(2) in respect of, a similar application, and
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0481d14bae1c8a1056cb3179ae30282c]: Modification: Ss. 6-25 applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
+[^c-0481d14bae1c8a1056cb3179ae30282c]: Modification: Ss. 6-25 applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
 
-[^key-2c4aa80240a6bbab90bf7c4cc2926807]: Textual amendment: [S. 10A](https://www.legislation.gov.uk/ukpga/1997/9/section/10A) inserted (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 20(1)](https://www.legislation.gov.uk/asp/2011/3/section/20/1), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-2c4aa80240a6bbab90bf7c4cc2926807]: Textual amendment: [S. 10A](https://www.legislation.gov.uk/ukpga/1997/9/section/10A) inserted (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 20(1)](https://www.legislation.gov.uk/asp/2011/3/section/20/1), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-9cf4d6b91483b3c8e7402fe4151cec83]: Modification: [S. 10A(1)](https://www.legislation.gov.uk/ukpga/1997/9/section/10A/1) modified (1.12.2011) by [The Historic Environment (Amendment) (Scotland) Act 2011 (Saving, Transitional and Consequential Provisions) Order2011 (S.S.I. 2011/377)](https://www.legislation.gov.uk/ssi/2011/377), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/377/article/1/1), [5](https://www.legislation.gov.uk/ssi/2011/377/article/5)
+[^c-9cf4d6b91483b3c8e7402fe4151cec83]: Modification: [S. 10A(1)](https://www.legislation.gov.uk/ukpga/1997/9/section/10A/1) modified (1.12.2011) by [The Historic Environment (Amendment) (Scotland) Act 2011 (Saving, Transitional and Consequential Provisions) Order2011 (S.S.I. 2011/377)](https://www.legislation.gov.uk/ssi/2011/377), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/377/article/1/1), [5](https://www.legislation.gov.uk/ssi/2011/377/article/5)

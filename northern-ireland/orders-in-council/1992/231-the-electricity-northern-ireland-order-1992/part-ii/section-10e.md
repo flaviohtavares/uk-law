@@ -38,7 +38,7 @@ then the period of 4 months referred to in paragraph (1) shall be extended by th
 
 (4) The Authority must enclose with the notification under paragraph (3)(a), (b) or (d) a copy of any report which the Department has prepared under Article 10D in respect of the applicant and which the Authority receives before giving the notification.
 
-(5) Article 51[^key-08bacb50e8102d45697948ebaff9afe2] of the Electricity Regulation sets out the obligation to make a final decision, together with related processes, time limits, matters to be taken into account and conditions.
+(5) Article 51[^c-08bacb50e8102d45697948ebaff9afe2] of the Electricity Regulation sets out the obligation to make a final decision, together with related processes, time limits, matters to be taken into account and conditions.
 
 (6) As soon as is reasonably practicable after making the final decision in any case, the Authority must notify the decision and the reasons for it to—
 
@@ -51,4 +51,4 @@ then the period of 4 months referred to in paragraph (1) shall be extended by th
 
 [^c21262041]: Textual amendment: Arts. 10B-10L inserted (15.4.2011) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [reg. 10](https://www.legislation.gov.uk/nisr/2011/155/regulation/10)
 
-[^key-08bacb50e8102d45697948ebaff9afe2]: Textual amendment: Words in [art. 10E(5)](https://www.legislation.gov.uk/nisi/1992/231/article/10E/5) substituted (25.2.2020) by [The Electricity and Gas (Internal Markets) Regulations 2020 (S.I. 2020/96)](https://www.legislation.gov.uk/uksi/2020/96), [regs. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2020/96/regulation/6/3)
+[^c-08bacb50e8102d45697948ebaff9afe2]: Textual amendment: Words in [art. 10E(5)](https://www.legislation.gov.uk/nisi/1992/231/article/10E/5) substituted (25.2.2020) by [The Electricity and Gas (Internal Markets) Regulations 2020 (S.I. 2020/96)](https://www.legislation.gov.uk/uksi/2020/96), [regs. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2020/96/regulation/6/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49.5. Record of proceedings to receive evidence before a nominated court[^key-0806249318b21c6570914e1e1f9a9a1b]
+## 49.5. Record of proceedings to receive evidence before a nominated court[^c-0806249318b21c6570914e1e1f9a9a1b]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0806249318b21c6570914e1e1f9a9a1b]: Commencement: [Rule 49.5](https://www.legislation.gov.uk/uksi/2025/909/rule/49.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-0806249318b21c6570914e1e1f9a9a1b]: Commencement: [Rule 49.5](https://www.legislation.gov.uk/uksi/2025/909/rule/49.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01324]: Footnote: [1978 c. 19](https://www.legislation.gov.uk/ukpga/1978/19).

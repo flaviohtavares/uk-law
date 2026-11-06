@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Duty to comply with directions under s. 18[^key-1618f40a3ecca9c5a3c021269c2ec3af]
+## 20. Duty to comply with directions under s. 18[^c-1618f40a3ecca9c5a3c021269c2ec3af]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1618f40a3ecca9c5a3c021269c2ec3af]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2004/20/section/20) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-1618f40a3ecca9c5a3c021269c2ec3af]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2004/20/section/20) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

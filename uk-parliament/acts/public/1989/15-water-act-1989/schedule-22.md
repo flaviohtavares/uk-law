@@ -275,7 +275,7 @@ Section 168.
 >
 > The Secretary of State may by regulations provide that the provisions of this Part shall have effect with such modifications as may be prescribed for the purpose of enabling Her Majesty’s Government in the United Kingdom to give effect to—
 >
-> - (a) any EU[^key-1de60de88362ce5ac0a349e47c8dfc7c] obligations; or
+> - (a) any EU[^c-1de60de88362ce5ac0a349e47c8dfc7c] obligations; or
 > - (b) any international agreement to which the United Kingdom is for the time being a party.
 >
 > **76L. Interpretation etc. of Part VI A.**
@@ -297,4 +297,4 @@ Section 168.
 
 [^c3802031]: Marginal citation: [1980 c. 45](https://www.legislation.gov.uk/ukpga/1980/45).
 
-[^key-1de60de88362ce5ac0a349e47c8dfc7c]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-1de60de88362ce5ac0a349e47c8dfc7c]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

@@ -69,8 +69,8 @@ The Secretary of State makes the following Regulations in exercise of the powers
   - (i) the purification (including refining) of crude petroleum or of oil extracted from petroleum, shale or any other bituminous substance except coal; or
   - (ii) the manufacture or processing of explosives;
 - (d) land on which a prescribed process designated for central control has been or is being carried on under an authorisation, where the process does not solely consist of things being done which are required by way of remediation;
-- (e) land on which an activity has been or is being carried on in a Part A(1) installation [^key-5e3854909e6014984265d7398db46503]...under a permit, where the activity does not solely consist of things being done which are required by way of remediation;
-- (ea)[^key-8f6f17a25e2b3d8e012f23ed7bb66590] land on which an activity has been carried on by means of Part A(1) mobile plant under a permit, where the activity did not solely consist of things being done which were required by way of remediation;
+- (e) land on which an activity has been or is being carried on in a Part A(1) installation [^c-5e3854909e6014984265d7398db46503]...under a permit, where the activity does not solely consist of things being done which are required by way of remediation;
+- (ea)[^c-8f6f17a25e2b3d8e012f23ed7bb66590] land on which an activity has been carried on by means of Part A(1) mobile plant under a permit, where the activity did not solely consist of things being done which were required by way of remediation;
 - (f) land within a nuclear site;
 - (g) land owned or occupied by or on behalf of—
   - (i) the Secretary of State for Defence;
@@ -100,9 +100,9 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) In paragraph (1)(d), “**authorisation**” and “**prescribed process**” have the same meanings as in Part 1 of the 1990 Act (integrated pollution control and air pollution control by local authorities) and the reference to designation for central control is a reference to designation under section 2(4) (which provides for processes to be designated for central or local control).
 
-(4)[^key-4f625e29479b22d423e9ec2d863ca935] In paragraph (1)(e), “Part A(1) installation” has the same meaning as in the Environmental Permitting (England and Wales) Regulations 2016[^key-c519efe1bfa49f74a9d4ecff1f767007], and “permit” has the same meaning as “environmental permit” in those Regulations
+(4)[^c-4f625e29479b22d423e9ec2d863ca935] In paragraph (1)(e), “Part A(1) installation” has the same meaning as in the Environmental Permitting (England and Wales) Regulations 2016[^c-c519efe1bfa49f74a9d4ecff1f767007], and “permit” has the same meaning as “environmental permit” in those Regulations
 
-(4A)[^key-f69cfb7830c99074631073d71272d1bc] In paragraph (1)(ea), “Part A(1) mobile plant” has the same meaning as in the Environmental Permitting (England and Wales) Regulations 2010 as those Regulations were in force on 26th February 2013, and “permit” has the same meaning as “environmental permit” in those Regulations as at that date.
+(4A)[^c-f69cfb7830c99074631073d71272d1bc] In paragraph (1)(ea), “Part A(1) mobile plant” has the same meaning as in the Environmental Permitting (England and Wales) Regulations 2010 as those Regulations were in force on 26th February 2013, and “permit” has the same meaning as “environmental permit” in those Regulations as at that date.
 
 (5) In paragraph (1)(f), “**nuclear site**” means—
 
@@ -122,17 +122,17 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## 3. Pollution of controlled waters
 
-(1)[^key-2898d8e8b36fde825a28d2fe380ebe74] The circumstances to which regulation 2(1)(a) refers are where—
+(1)[^c-2898d8e8b36fde825a28d2fe380ebe74] The circumstances to which regulation 2(1)(a) refers are where—
 
 - (a) controlled waters which are, or are intended to be, used for the supply of drinking water for human consumption are being affected by the land and, as a result, require a treatment process or a change in such a process to be applied to those waters before use, so as to be regarded as wholesome within the meaning of Part 3 of the Water Industry Act 1991 [^c1588049] (water supply);
-- (b)[^key-67ab39fed21f8d103a4d30c6c711f2d3] controlled waters are being affected by the land and, as a result—
+- (b)[^c-67ab39fed21f8d103a4d30c6c711f2d3] controlled waters are being affected by the land and, as a result—
   - (i) those waters do not meet or are not likely to meet the criterion for classification applying to the relevant description of waters specified in regulations made under section 82 of the Water Resources Act 1991 (classification of quality of waters); or
-  - (ii)[^key-ba513771b6441cbb7f0f7bef702f23cc] for controlled waters that are designated as shellfish water protected areas or bathing waters, those waters do not meet the environmental objectives that apply to them; or
+  - (ii)[^c-ba513771b6441cbb7f0f7bef702f23cc] for controlled waters that are designated as shellfish water protected areas or bathing waters, those waters do not meet the environmental objectives that apply to them; or
 - (c) controlled waters are being affected by the land and—
   - (i) any of the substances by reason of which the pollution of the waters is being or is likely to be caused falls within any of the families or groups of substances listed in paragraph 1 of Schedule 1 to these Regulations; and
-  - (ii) the waters, or any part of the waters, are contained in underground strata within the saturation zone[^key-af5997b19bdbc6ed45782f191f2ab3b9] which comprise wholly or partly any of the formations of rocks listed in paragraph 2 of Schedule 1 to these Regulations.
+  - (ii) the waters, or any part of the waters, are contained in underground strata within the saturation zone[^c-af5997b19bdbc6ed45782f191f2ab3b9] which comprise wholly or partly any of the formations of rocks listed in paragraph 2 of Schedule 1 to these Regulations.
 
-(2)[^key-064b2ead257fb2c065e0f7083898aee3] In this regulation—
+(2)[^c-064b2ead257fb2c065e0f7083898aee3] In this regulation—
 
 - “**the Northumbria WFD Regulations**” means the Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003 ;
 - “**the Solway Tweed WFD Regulations**” means the Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004 ;
@@ -203,7 +203,7 @@ Schedule 2 to these Regulations specifies—
 
 and makes further provision relating to such compensation.
 
-## 7. Grounds of appeal against a remediation notice[^key-945488750ab3e853e36c7c269cf2cc2d]
+## 7. Grounds of appeal against a remediation notice[^c-945488750ab3e853e36c7c269cf2cc2d]
 
 (1) The grounds of appeal against a remediation notice under section 78L(1) are any of the following—
 
@@ -304,7 +304,7 @@ and makes further provision relating to such compensation.
 
 (2) Where, in accordance with paragraph (1), the appellant or any other person is heard, the enforcing authority is also entitled to be heard.
 
-(3)[^key-662c6ae70cb9e3abcd7c6f50f72aeddf] this regulation applies only in relation to appeals made in accordance with regulation 8(1) prior to 6 April 2012.
+(3)[^c-662c6ae70cb9e3abcd7c6f50f72aeddf] this regulation applies only in relation to appeals made in accordance with regulation 8(1) prior to 6 April 2012.
 
 ## 12. Suspension of a remediation notice
 
@@ -417,7 +417,7 @@ Subject to paragraph 5(3) and (5)(b), compensation is payable under section 78G(
 
 (2) The rules set out in section 5 [^c1588062] of the 1961 Act (rules for assessing compensation), so far as applicable and subject to any necessary modifications, have effect for the purpose of assessing any such compensation as they have effect for the purpose of assessing compensation for the compulsory acquisition of an interest in land.
 
-(3) No account must be taken of any enhancement of the value of any interest in land, by reason of any building erected, work done or improvement or alteration made on any land in which the grantor is, or was at the time of erection, doing or making, directly or indirectly concerned, if the Upper Tribunal[^key-4adf6a83529b0ef2b4a6e4aaecfaf36a] is satisfied that the erection of the building, the doing of the work, the making of the improvement or the alteration was not reasonably necessary and was undertaken with a view to obtaining compensation or increased compensation.
+(3) No account must be taken of any enhancement of the value of any interest in land, by reason of any building erected, work done or improvement or alteration made on any land in which the grantor is, or was at the time of erection, doing or making, directly or indirectly concerned, if the Upper Tribunal[^c-4adf6a83529b0ef2b4a6e4aaecfaf36a] is satisfied that the erection of the building, the doing of the work, the making of the improvement or the alteration was not reasonably necessary and was undertaken with a view to obtaining compensation or increased compensation.
 
 (4) In calculating the amount of any loss under paragraph 4(e), expenditure incurred in the preparation of plans or on other similar preparatory matters must be taken into account.
 
@@ -436,11 +436,11 @@ Subject to paragraph 5(3) and (5)(b), compensation is payable under section 78G(
 
 - (a) where the appropriate person and the grantor or mortgagee agree that a single payment is to be made on a specified date, on that date;
 - (b) where the appropriate person and the grantor or mortgagee agree that payment is to be made in instalments on different dates, on the date agreed as regards each instalment; and
-- (c) in any other case, subject to any direction of the Upper Tribunal[^key-6ddda781cfc12c47733a2c4f98dfcb99] or the court, as soon as reasonably practicable after the amount of the compensation has been finally determined.
+- (c) in any other case, subject to any direction of the Upper Tribunal[^c-6ddda781cfc12c47733a2c4f98dfcb99] or the court, as soon as reasonably practicable after the amount of the compensation has been finally determined.
 
-(3) Any question as to the application of paragraph 5(3) or of disputed compensation must be referred to and determined by the Upper Tribunal[^key-9b5562e78444b2c04937ea991547a74f].
+(3) Any question as to the application of paragraph 5(3) or of disputed compensation must be referred to and determined by the Upper Tribunal[^c-9b5562e78444b2c04937ea991547a74f].
 
-(4)[^key-9e350cb7a2a18a581cac4c9d633bd3f3] In relation to the determination of any such question, section 4 of the 1961 Act (costs) applies as if—
+(4)[^c-9e350cb7a2a18a581cac4c9d633bd3f3] In relation to the determination of any such question, section 4 of the 1961 Act (costs) applies as if—
 
 - (a) the reference to section 1 of that Act were a reference to sub-paragraph (3) of this paragraph;
 - (b) references to the acquiring authority were references to the appropriate person; and
@@ -527,9 +527,9 @@ Where the enforcing authority is precluded by virtue of section 78YB(1) or 78YB(
 - (b) the matters referred to in sub–paragraphs (c), (d) and (e) of paragraph 1; and
 - (c) any steps of which the enforcing authority has knowledge, carried out under section 59 [^c1588072], in relation to that waste or the consequences of its deposit, and in a case where a waste collection authority (within the meaning of section 30(3) [^c1588073]) took those steps or required the steps to be taken, the name of that authority.
 
-**16.** Where, as a result of an environmental permit granted under regulation 13 of[^key-3892e8e60fb2afbf487f8fae6bc7e7c1] the Environmental Permitting (England and Wales) Regulations 2016[^key-36ce38fd71764d7385a5413819b56ede], the enforcing authority is precluded by virtue of section 78YB(4) from specifying in a remediation notice any particular thing by way of remediation which it would otherwise have specified in such a notice,—
+**16.** Where, as a result of an environmental permit granted under regulation 13 of[^c-3892e8e60fb2afbf487f8fae6bc7e7c1] the Environmental Permitting (England and Wales) Regulations 2016[^c-36ce38fd71764d7385a5413819b56ede], the enforcing authority is precluded by virtue of section 78YB(4) from specifying in a remediation notice any particular thing by way of remediation which it would otherwise have specified in such a notice,—
 
-- (a) the environmental permit[^key-94b89efc1faa9cc14db2d4c3afaf35ae];
+- (a) the environmental permit[^c-94b89efc1faa9cc14db2d4c3afaf35ae];
 - (b) the location and extent of the contaminated land in question, in sufficient detail to enable it to be identified, whether by reference to a plan or otherwise; and
 - (c) the matters referred to in sub–paragraphs (c), (d) and (e) of paragraph 1.
 
@@ -565,9 +565,9 @@ To the extent that provisions in these Regulations arise solely by virtue of the
 
 [^c1588040]: Marginal citation: [S.I. 2006/1379](https://www.legislation.gov.uk/uksi/2006/1379).
 
-[^key-5e3854909e6014984265d7398db46503]: Textual amendment: Words in [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1380/regulation/2/1/e) omitted (1.1.2017) by virtue of [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 22(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/22/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-5e3854909e6014984265d7398db46503]: Textual amendment: Words in [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1380/regulation/2/1/e) omitted (1.1.2017) by virtue of [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 22(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/22/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-8f6f17a25e2b3d8e012f23ed7bb66590]: Textual amendment: [Reg. 2(1)(ea)](https://www.legislation.gov.uk/uksi/2006/1380/regulation/2/1/ea) inserted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 22(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/22/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-8f6f17a25e2b3d8e012f23ed7bb66590]: Textual amendment: [Reg. 2(1)(ea)](https://www.legislation.gov.uk/uksi/2006/1380/regulation/2/1/ea) inserted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 22(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/22/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^c1588041]: Marginal citation: [1974 c. 6](https://www.legislation.gov.uk/ukpga/1974/6).
 
@@ -575,11 +575,11 @@ To the extent that provisions in these Regulations arise solely by virtue of the
 
 [^c1588043]: Marginal citation: [1996 c. 46](https://www.legislation.gov.uk/ukpga/1996/46).
 
-[^key-4f625e29479b22d423e9ec2d863ca935]: Textual amendment: Reg. 2(4) substituted (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 49](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/49) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))
+[^c-4f625e29479b22d423e9ec2d863ca935]: Textual amendment: Reg. 2(4) substituted (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 49](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/49) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))
 
-[^key-c519efe1bfa49f74a9d4ecff1f767007]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/uksi/2006/1380/regulation/2/4) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 22(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/22/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-c519efe1bfa49f74a9d4ecff1f767007]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/uksi/2006/1380/regulation/2/4) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 22(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/22/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-f69cfb7830c99074631073d71272d1bc]: Textual amendment: [Reg. 2(4A)](https://www.legislation.gov.uk/uksi/2006/1380/regulation/2/4A) inserted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 22(5)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/22/5) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-f69cfb7830c99074631073d71272d1bc]: Textual amendment: [Reg. 2(4A)](https://www.legislation.gov.uk/uksi/2006/1380/regulation/2/4A) inserted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 22(5)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/22/5) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^c1588045]: Marginal citation: [1965 c. 57](https://www.legislation.gov.uk/ukpga/1965/57).
 
@@ -589,19 +589,19 @@ To the extent that provisions in these Regulations arise solely by virtue of the
 
 [^c1588048]: Marginal citation: 1996 c .6.
 
-[^key-2898d8e8b36fde825a28d2fe380ebe74]: Textual amendment: Reg. 3 renumbered as reg. 3(1) (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/458/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2898d8e8b36fde825a28d2fe380ebe74]: Textual amendment: Reg. 3 renumbered as reg. 3(1) (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/458/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c1588049]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-67ab39fed21f8d103a4d30c6c711f2d3]: Textual amendment: Reg. 3(b) substituted (6.4.2012) by [The Contaminated Land (England) (Amendment) Regulations 2012 (S.I. 2012/263)](https://www.legislation.gov.uk/uksi/2012/263), [regs. 1](https://www.legislation.gov.uk/uksi/2012/263/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2012/263/regulation/2/2/a)
+[^c-67ab39fed21f8d103a4d30c6c711f2d3]: Textual amendment: Reg. 3(b) substituted (6.4.2012) by [The Contaminated Land (England) (Amendment) Regulations 2012 (S.I. 2012/263)](https://www.legislation.gov.uk/uksi/2012/263), [regs. 1](https://www.legislation.gov.uk/uksi/2012/263/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2012/263/regulation/2/2/a)
 
-[^key-ba513771b6441cbb7f0f7bef702f23cc]: Textual amendment: [Reg. 3(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2006/1380/regulation/3/1/b/ii) substituted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/458/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ba513771b6441cbb7f0f7bef702f23cc]: Textual amendment: [Reg. 3(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2006/1380/regulation/3/1/b/ii) substituted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/458/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-af5997b19bdbc6ed45782f191f2ab3b9]: Textual amendment: Words in reg. 3(c)(ii) substituted (6.4.2012) by [The Contaminated Land (England) (Amendment) Regulations 2012 (S.I. 2012/263)](https://www.legislation.gov.uk/uksi/2012/263), [regs. 1](https://www.legislation.gov.uk/uksi/2012/263/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2012/263/regulation/2/2/b)
+[^c-af5997b19bdbc6ed45782f191f2ab3b9]: Textual amendment: Words in reg. 3(c)(ii) substituted (6.4.2012) by [The Contaminated Land (England) (Amendment) Regulations 2012 (S.I. 2012/263)](https://www.legislation.gov.uk/uksi/2012/263), [regs. 1](https://www.legislation.gov.uk/uksi/2012/263/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2012/263/regulation/2/2/b)
 
-[^key-064b2ead257fb2c065e0f7083898aee3]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2006/1380/regulation/3/2) inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2019/458/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-064b2ead257fb2c065e0f7083898aee3]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2006/1380/regulation/3/2) inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2019/458/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-945488750ab3e853e36c7c269cf2cc2d]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/1380/regulation/7) modified by S.I. 2006/1379, reg. 19 (as inserted (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2007 (S.I. 2007/3245)](https://www.legislation.gov.uk/uksi/2007/3245), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3245/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2007/3245/regulation/3/7))
+[^c-945488750ab3e853e36c7c269cf2cc2d]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/1380/regulation/7) modified by S.I. 2006/1379, reg. 19 (as inserted (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2007 (S.I. 2007/3245)](https://www.legislation.gov.uk/uksi/2007/3245), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3245/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2007/3245/regulation/3/7))
 
 [^c1588051]: Marginal citation: [Section 78YB](https://www.legislation.gov.uk/uksi/2006/1380/section/78YB) was amended, in relation to England and Wales, by [S.I. 2000/1973](https://www.legislation.gov.uk/uksi/2000/1973), [regulation 39](https://www.legislation.gov.uk/uksi/2000/1973/regulation/39) and Schedule 10, Part 1, paragraphs 2 and 6.
 
@@ -611,7 +611,7 @@ To the extent that provisions in these Regulations arise solely by virtue of the
 
 [^c1588058]: Marginal citation: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-662c6ae70cb9e3abcd7c6f50f72aeddf]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/2006/1380/regulation/11/3) inserted (6.4.2012) by [The Contaminated Land (England) (Amendment) Regulations 2012 (S.I. 2012/263)](https://www.legislation.gov.uk/uksi/2012/263), [regs. 1](https://www.legislation.gov.uk/uksi/2012/263/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/263/regulation/2/3)
+[^c-662c6ae70cb9e3abcd7c6f50f72aeddf]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/2006/1380/regulation/11/3) inserted (6.4.2012) by [The Contaminated Land (England) (Amendment) Regulations 2012 (S.I. 2012/263)](https://www.legislation.gov.uk/uksi/2012/263), [regs. 1](https://www.legislation.gov.uk/uksi/2012/263/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/263/regulation/2/3)
 
 [^c1588059]: Marginal citation: [S.I. 2000/227](https://www.legislation.gov.uk/uksi/2000/227).
 
@@ -621,13 +621,13 @@ To the extent that provisions in these Regulations arise solely by virtue of the
 
 [^c1588062]: Marginal citation: Section 5 was amended by the [Planning and Compensation Act 1991 (c. 43)](https://www.legislation.gov.uk/ukpga/1991/43), [sections 70](https://www.legislation.gov.uk/ukpga/1991/43/section/70) and 84, Schedule 15, paragraph 1, and Schedule 19, Part 3.
 
-[^key-4adf6a83529b0ef2b4a6e4aaecfaf36a]: Textual amendment: Words in [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2006/1380/schedule/2/paragraph/5/3) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 113(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/113/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-4adf6a83529b0ef2b4a6e4aaecfaf36a]: Textual amendment: Words in [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2006/1380/schedule/2/paragraph/5/3) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 113(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/113/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-6ddda781cfc12c47733a2c4f98dfcb99]: Textual amendment: Words in Sch. 2 para. 6(2)(c) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 113(b)(i)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/113/b/i) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-6ddda781cfc12c47733a2c4f98dfcb99]: Textual amendment: Words in Sch. 2 para. 6(2)(c) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 113(b)(i)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/113/b/i) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-9b5562e78444b2c04937ea991547a74f]: Textual amendment: Words in Sch. 2 para. 6(3) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 113(b)(i)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/113/b/i) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-9b5562e78444b2c04937ea991547a74f]: Textual amendment: Words in Sch. 2 para. 6(3) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 113(b)(i)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/113/b/i) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-9e350cb7a2a18a581cac4c9d633bd3f3]: Textual amendment: [Sch. 2 para. 6(4)](https://www.legislation.gov.uk/uksi/2006/1380/schedule/2/paragraph/6/4) substituted (6.4.2012) by [The Contaminated Land (England) (Amendment) Regulations 2012 (S.I. 2012/263)](https://www.legislation.gov.uk/uksi/2012/263), [regs. 1](https://www.legislation.gov.uk/uksi/2012/263/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2012/263/regulation/2/4)
+[^c-9e350cb7a2a18a581cac4c9d633bd3f3]: Textual amendment: [Sch. 2 para. 6(4)](https://www.legislation.gov.uk/uksi/2006/1380/schedule/2/paragraph/6/4) substituted (6.4.2012) by [The Contaminated Land (England) (Amendment) Regulations 2012 (S.I. 2012/263)](https://www.legislation.gov.uk/uksi/2012/263), [regs. 1](https://www.legislation.gov.uk/uksi/2012/263/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2012/263/regulation/2/4)
 
 [^c1588069]: Marginal citation: Subsection (2B) of section 78YB was inserted, in relation to England and Wales, by [S.I. 2000/1973](https://www.legislation.gov.uk/uksi/2000/1973), [regulation 39](https://www.legislation.gov.uk/uksi/2000/1973/regulation/39) and Schedule 10, Part 1, paragraphs 2 and 6.
 
@@ -639,10 +639,10 @@ To the extent that provisions in these Regulations arise solely by virtue of the
 
 [^c1588073]: Marginal citation: Subsection (3) of section 30 was amended by the [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), [sections 22(3)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/3) and 66(8) and Schedule 9, paragraph 17(3), and Schedule 18, and by the [Local Government etc (Scotland) Act 1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), [section 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1) and Schedule 13, paragraph 167(3).
 
-[^key-3892e8e60fb2afbf487f8fae6bc7e7c1]: Textual amendment: Words in Sch. 3 para. 16 substituted (6.4.2010 immediately after S.I. 2009/3381 comes into force) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 32(3)(a)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/32/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
+[^c-3892e8e60fb2afbf487f8fae6bc7e7c1]: Textual amendment: Words in Sch. 3 para. 16 substituted (6.4.2010 immediately after S.I. 2009/3381 comes into force) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 32(3)(a)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/32/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
 
-[^key-36ce38fd71764d7385a5413819b56ede]: Textual amendment: Words in Sch. 3 para. 16 substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 22(6)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/22/6) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-36ce38fd71764d7385a5413819b56ede]: Textual amendment: Words in Sch. 3 para. 16 substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 22(6)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/22/6) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-94b89efc1faa9cc14db2d4c3afaf35ae]: Textual amendment: Words in Sch. 3 para. 16(a) substituted (6.4.2010 immediately after S.I. 2009/3381 comes into force) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 32(3)(b)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/32/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
+[^c-94b89efc1faa9cc14db2d4c3afaf35ae]: Textual amendment: Words in Sch. 3 para. 16(a) substituted (6.4.2010 immediately after S.I. 2009/3381 comes into force) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 32(3)(b)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/32/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
 
 [^c1588074]: Marginal citation: [2005 c. 16](https://www.legislation.gov.uk/ukpga/2005/16).

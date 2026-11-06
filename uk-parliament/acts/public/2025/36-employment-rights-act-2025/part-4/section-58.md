@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Right to statement of trade union rights[^key-93786627be59893a696d6ad83fb0e556]
+## 58. Right to statement of trade union rights[^c-93786627be59893a696d6ad83fb0e556]
 
 *Extent: E+W+S*
 
-(1)[^key-b4b147c5d0c135d75a4681044b0956ec] The Trade Union and Labour Relations (Consolidation) Act 1992 is amended in accordance with subsections (2) to (6).
+(1)[^c-b4b147c5d0c135d75a4681044b0956ec] The Trade Union and Labour Relations (Consolidation) Act 1992 is amended in accordance with subsections (2) to (6).
 
-(2)[^key-bc68b666e8450f439ceb7a07ba457031] In Part 3 (rights in relation to trade union membership and activities), before section 137 (and the italic heading before it) insert—
+(2)[^c-bc68b666e8450f439ceb7a07ba457031] In Part 3 (rights in relation to trade union membership and activities), before section 137 (and the italic heading before it) insert—
 
 > **Statement of trade union rights**
 >
@@ -71,7 +71,7 @@ summary: ''
   ;
 - (b) in subsection (1A), for “Sections 145A to 151” substitute “Section 136A, and sections 145A to 151,”.
 
-(5)[^key-1a8465b59af4da7cea2573b6bc394353] In section 286 (power to provide for other exceptions), before “sections 145A to 151” insert “section 136A (right to statement of trade union rights) and”.
+(5)[^c-1a8465b59af4da7cea2573b6bc394353] In section 286 (power to provide for other exceptions), before “sections 145A to 151” insert “section 136A (right to statement of trade union rights) and”.
 
 (6) In section 296 (meaning of “**worker**”), in subsection (3), after “68(4),” insert “136A(5),”.
 
@@ -82,10 +82,10 @@ summary: ''
 
 ## Annotations
 
-[^key-93786627be59893a696d6ad83fb0e556]: Commencement: S. 58 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-93786627be59893a696d6ad83fb0e556]: Commencement: S. 58 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-b4b147c5d0c135d75a4681044b0956ec]: Commencement: [S. 58(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/58/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(18)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/18/a)
+[^c-b4b147c5d0c135d75a4681044b0956ec]: Commencement: [S. 58(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/58/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(18)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/18/a)
 
-[^key-bc68b666e8450f439ceb7a07ba457031]: Commencement: [S. 58(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/58/2) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(18)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/18/b)
+[^c-bc68b666e8450f439ceb7a07ba457031]: Commencement: [S. 58(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/58/2) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(18)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/18/b)
 
-[^key-1a8465b59af4da7cea2573b6bc394353]: Commencement: [S. 58(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/58/5) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(18)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/18/c)
+[^c-1a8465b59af4da7cea2573b6bc394353]: Commencement: [S. 58(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/58/5) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(18)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/18/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Validation by the OfS[^key-df97cc3c6b3f3f7c3b3813dddbf4ba49]
+## 51. Validation by the OfS[^c-df97cc3c6b3f3f7c3b3813dddbf4ba49]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ to be subject to such conditions as the OfS considers appropriate.
 
 ## Annotations
 
-[^key-df97cc3c6b3f3f7c3b3813dddbf4ba49]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2017/29/section/51) in force at 1.8.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/f)
+[^c-df97cc3c6b3f3f7c3b3813dddbf4ba49]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2017/29/section/51) in force at 1.8.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/f)

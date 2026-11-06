@@ -82,20 +82,20 @@ Sections 1 & 3.
 | Session and Chapter | Short title | Relevant provisions |
 | --- | --- | --- |
 | . . . [^c601462] | . . . [^c601462] | . . . [^c601462] |
-| [^key-08c676ed9b0344fdaf4c50360863e23d]... | [^key-08c676ed9b0344fdaf4c50360863e23d]... | [^key-08c676ed9b0344fdaf4c50360863e23d]... |
+| [^c-08c676ed9b0344fdaf4c50360863e23d]... | [^c-08c676ed9b0344fdaf4c50360863e23d]... | [^c-08c676ed9b0344fdaf4c50360863e23d]... |
 | . . . [^c601429] | . . . [^c601429] | . . . [^c601429] |
 | . . . [^c601462] | . . . [^c601462] | . . . [^c601462] |
 | . . . [^c601471] | . . . [^c601471] | . . . [^c601471] |
 | [^c601474]. . .. | [^c601474]. . . |  |
 | 11 Geo. 3. c. 31. | The White Herring Fisheries Act 1771. |  |
 | . . . [^c601459] | . . . [^c601459] | . . . [^c601459] |
-| [^key-08c676ed9b0344fdaf4c50360863e23d]... | [^key-08c676ed9b0344fdaf4c50360863e23d]... |  |
+| [^c-08c676ed9b0344fdaf4c50360863e23d]... | [^c-08c676ed9b0344fdaf4c50360863e23d]... |  |
 | . . . [^c601441] | . . . [^c601441] | . . . [^c601441] |
 | . . . | . . . | . . . |
 | . . . | . . . | . . . |
 | . . . | . . . | . . . |
 | . . . [^c601482] | . . . [^c601482] | . . . [^c601482] |
-| [^key-98b862973b77370d94063e6be5bc1e4b]... | [^key-98b862973b77370d94063e6be5bc1e4b]... | [^key-98b862973b77370d94063e6be5bc1e4b]... |
+| [^c-98b862973b77370d94063e6be5bc1e4b]... | [^c-98b862973b77370d94063e6be5bc1e4b]... | [^c-98b862973b77370d94063e6be5bc1e4b]... |
 | . . . | . . . | . . . |
 | . . . | . . . | . . . |
 | . . . [^c601485] | . . . [^c601485] | . . . [^c601485] |
@@ -121,7 +121,7 @@ Sections 1 & 3.
 </tbody>
 </table>
 
-[^c601429][^c601429][^c601429][^key-3a71ccf6ca47de6c74594bbf5dd6b97b][^key-3a71ccf6ca47de6c74594bbf5dd6b97b][^key-3a71ccf6ca47de6c74594bbf5dd6b97b][^c601497][^c601497][^c601497][^c601500][^c601500][^c601500][^c601488][^c601488][^c601488][^c601506][^c601506][^c601506][^c601509][^c601509][^c601509][^c601512][^c601512][^c601514][^c601514][^c601514][^c601514][^c601514][^c601514][^c601520][^c601520][^c601520]
+[^c601429][^c601429][^c601429][^c-3a71ccf6ca47de6c74594bbf5dd6b97b][^c-3a71ccf6ca47de6c74594bbf5dd6b97b][^c-3a71ccf6ca47de6c74594bbf5dd6b97b][^c601497][^c601497][^c601497][^c601500][^c601500][^c601500][^c601488][^c601488][^c601488][^c601506][^c601506][^c601506][^c601509][^c601509][^c601509][^c601512][^c601512][^c601514][^c601514][^c601514][^c601514][^c601514][^c601514][^c601520][^c601520][^c601520]
 
 ## Annotations
 
@@ -145,7 +145,7 @@ Sections 1 & 3.
 
 [^c601462]: Textual amendment: Entries relating to the Plate Assay Act 1700 and the Disorderly Houses Act 1751 repealed by [Statute Law Revision Act 1966 (c. 5)](https://www.legislation.gov.uk/ukpga/1966/5) Sch.
 
-[^key-08c676ed9b0344fdaf4c50360863e23d]: Textual amendment: Sch. entries repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-08c676ed9b0344fdaf4c50360863e23d]: Textual amendment: Sch. entries repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c601471]: Textual amendment: Entry relating to the Fisheries (Scotland) Act 1756 repealed (S.) by [Inshore Fishing (Scotland) Act 1984 (c. 26, SIF 52;1)](https://www.legislation.gov.uk/ukpga/1984/26), [s. 10](https://www.legislation.gov.uk/ukpga/1984/26/section/10), [Sch. 2](https://www.legislation.gov.uk/ukpga/1984/26/schedule/2)
 
@@ -153,13 +153,13 @@ Sections 1 & 3.
 
 [^c601482]: Textual amendment: Entry relating to Partridges Act 1799 repealed by [Statute Law (Repeals) Act 1978 (c. 45)](https://www.legislation.gov.uk/ukpga/1978/45), [Sch. 1 Pt. XVII](https://www.legislation.gov.uk/ukpga/1978/45/schedule/1/part/XVII)
 
-[^key-98b862973b77370d94063e6be5bc1e4b]: Textual amendment: Words in Sch. repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/2) Group 7
+[^c-98b862973b77370d94063e6be5bc1e4b]: Textual amendment: Words in Sch. repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/2) Group 7
 
 [^c601485]: Textual amendment: Entries relating to the Apothecaries Act 1815 and the North American Fisheries Act 1819 repealed by [Statute Law (Repeals) Act 1976 (c. 16)](https://www.legislation.gov.uk/ukpga/1976/16), [Sch. I Pts. X](https://www.legislation.gov.uk/ukpga/1976/16/schedule/I/part/X), [XIV](https://www.legislation.gov.uk/ukpga/1976/16/schedule/I/part/XIV)
 
 [^c601488]: Textual amendment: Entries relating to the Levy of Fines Act 1822 and the Juries Act 1825 and to the Summary Jurisdiction Act 1848 repealed by the [Courts Act 1971 (c.23)](https://www.legislation.gov.uk/ukpga/1971/23), [s. 56(4)](https://www.legislation.gov.uk/ukpga/1971/23/section/56/4), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1971/23/schedule/11/part/IV)
 
-[^key-3a71ccf6ca47de6c74594bbf5dd6b97b]: Textual amendment: Sch. entry repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-3a71ccf6ca47de6c74594bbf5dd6b97b]: Textual amendment: Sch. entry repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
 [^c601497]: Textual amendment: Entries relating to the Places of Religious Worship Act 1812 and the Metropolitan Police Courts Act 1839 repealed by the [Statute Law Repeals Act 1977 (c. 18)](https://www.legislation.gov.uk/ukpga/1977/18), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1977/18/section/1/1), [Sch. I Pts. V](https://www.legislation.gov.uk/ukpga/1977/18/schedule/I/part/V), [XIX](https://www.legislation.gov.uk/ukpga/1977/18/schedule/I/part/XIX)
 

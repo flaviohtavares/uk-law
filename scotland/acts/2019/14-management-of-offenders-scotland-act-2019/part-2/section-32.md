@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. How particular powers are exercisable[^key-d002ee180cffd2a4dc4a79309c8a2bee]
+## 32. How particular powers are exercisable[^c-d002ee180cffd2a4dc4a79309c8a2bee]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d002ee180cffd2a4dc4a79309c8a2bee]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2019/14/section/32) in force at 21.12.2019 by [S.S.I. 2019/413](https://www.legislation.gov.uk/ssi/2019/413), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2019/413/regulation/2/a)
+[^c-d002ee180cffd2a4dc4a79309c8a2bee]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2019/14/section/32) in force at 21.12.2019 by [S.S.I. 2019/413](https://www.legislation.gov.uk/ssi/2019/413), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2019/413/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.57. Requisitioned meetings[^key-5ef09a20878e9b372042627f175794e8]
+## 4.57. Requisitioned meetings[^c-5ef09a20878e9b372042627f175794e8]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ Sub-paragraphs (a) and (b) do not apply if the requisitioning creditor's debt is
 
 ## Annotations
 
-[^key-5ef09a20878e9b372042627f175794e8]: Commencement: [Rule 4.57](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.57) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-5ef09a20878e9b372042627f175794e8]: Commencement: [Rule 4.57](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.57) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00052]: Marginal citation: \[FORM 4.21\]
 

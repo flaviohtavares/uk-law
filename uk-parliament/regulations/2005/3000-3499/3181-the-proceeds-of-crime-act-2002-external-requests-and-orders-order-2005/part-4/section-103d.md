@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103D. Search power: people[^key-91aacc5d822454192a27006b1b5713b5]
+## 103D. Search power: people[^c-91aacc5d822454192a27006b1b5713b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91aacc5d822454192a27006b1b5713b5]: Textual amendment: [Pt. 4 Ch. 1A](https://www.legislation.gov.uk/uksi/2005/3181/part/4/chapter/1A) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [27](https://www.legislation.gov.uk/uksi/2016/662/article/27)
+[^c-91aacc5d822454192a27006b1b5713b5]: Textual amendment: [Pt. 4 Ch. 1A](https://www.legislation.gov.uk/uksi/2005/3181/part/4/chapter/1A) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [27](https://www.legislation.gov.uk/uksi/2016/662/article/27)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34ZA. Fixed penalty notices: offences under section 34(6) relating to section 34(2A): England[^key-71f1ec0dcbb2352ee5fe402854cdf64f]
+## 34ZA. Fixed penalty notices: offences under section 34(6) relating to section 34(2A): England[^c-71f1ec0dcbb2352ee5fe402854cdf64f]
 
 *Extent: E+W*
 
@@ -43,11 +43,11 @@ summary: ''
 - (a) the amount specified by the authority in respect of the offence; or
 - (b) if no amount is specified by the authority, £200.
 
-(8) The amount specified by an authority in respect of the offence under subsection (7)(a) must not be less than £150 or more than £600[^key-8a2397f169ad8521db698a61775696da].
+(8) The amount specified by an authority in respect of the offence under subsection (7)(a) must not be less than £150 or more than £600[^c-8a2397f169ad8521db698a61775696da].
 
-(9) The enforcement authority to which a fixed penalty is payable under this section may make provision for treating it as having been paid if a lesser amount of not less than £120 is paid before the end of a period specified by the authority.[^key-7b3fbe98c247261e9e56209d4ca2d63e]
+(9) The enforcement authority to which a fixed penalty is payable under this section may make provision for treating it as having been paid if a lesser amount of not less than £120 is paid before the end of a period specified by the authority.[^c-7b3fbe98c247261e9e56209d4ca2d63e]
 
-(9A)[^key-54514f0a6c2b095432a957445d2b836f] The Secretary of State may by regulations substitute different amounts for the amounts for the time being specified in subsections (7)(b), (8) and (9).
+(9A)[^c-54514f0a6c2b095432a957445d2b836f] The Secretary of State may by regulations substitute different amounts for the amounts for the time being specified in subsections (7)(b), (8) and (9).
 
 (10) A notice under this section must give such particulars of the circumstances alleged to constitute the offence as are necessary for giving reasonable information of the offence.
 
@@ -90,10 +90,10 @@ is evidence of the facts stated.
 
 ## Annotations
 
-[^key-71f1ec0dcbb2352ee5fe402854cdf64f]: Textual amendment: S. 34ZA inserted (E.W.) (7.1.2019) by [The Environmental Protection (Miscellaneous Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1227)](https://www.legislation.gov.uk/uksi/2018/1227), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/2/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/3/2)
+[^c-71f1ec0dcbb2352ee5fe402854cdf64f]: Textual amendment: S. 34ZA inserted (E.W.) (7.1.2019) by [The Environmental Protection (Miscellaneous Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1227)](https://www.legislation.gov.uk/uksi/2018/1227), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/2/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/3/2)
 
-[^key-8a2397f169ad8521db698a61775696da]: Textual amendment: Sum in [s. 34ZA(8)](https://www.legislation.gov.uk/ukpga/1990/43/section/34ZA/8) substituted (31.7.2023) by [The Environmental Offences (Fixed Penalties) (Amendment) (England) Regulations 2023 (S.I. 2023/770)](https://www.legislation.gov.uk/uksi/2023/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/770/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2023/770/regulation/3/3)
+[^c-8a2397f169ad8521db698a61775696da]: Textual amendment: Sum in [s. 34ZA(8)](https://www.legislation.gov.uk/ukpga/1990/43/section/34ZA/8) substituted (31.7.2023) by [The Environmental Offences (Fixed Penalties) (Amendment) (England) Regulations 2023 (S.I. 2023/770)](https://www.legislation.gov.uk/uksi/2023/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/770/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2023/770/regulation/3/3)
 
-[^key-7b3fbe98c247261e9e56209d4ca2d63e]: Textual amendment: Words in [s. 34ZA(9)](https://www.legislation.gov.uk/ukpga/1990/43/section/34ZA/9) substituted (1.4.2023) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 69(4)(a)](https://www.legislation.gov.uk/ukpga/2021/30/section/69/4/a), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2023/381](https://www.legislation.gov.uk/uksi/2023/381), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/381/regulation/2/b)
+[^c-7b3fbe98c247261e9e56209d4ca2d63e]: Textual amendment: Words in [s. 34ZA(9)](https://www.legislation.gov.uk/ukpga/1990/43/section/34ZA/9) substituted (1.4.2023) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 69(4)(a)](https://www.legislation.gov.uk/ukpga/2021/30/section/69/4/a), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2023/381](https://www.legislation.gov.uk/uksi/2023/381), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/381/regulation/2/b)
 
-[^key-54514f0a6c2b095432a957445d2b836f]: Textual amendment: [S. 34ZA(9A)](https://www.legislation.gov.uk/ukpga/1990/43/section/34ZA/9A) inserted (1.4.2023) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 69(4)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/69/4/b), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2023/381](https://www.legislation.gov.uk/uksi/2023/381), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/381/regulation/2/b)
+[^c-54514f0a6c2b095432a957445d2b836f]: Textual amendment: [S. 34ZA(9A)](https://www.legislation.gov.uk/ukpga/1990/43/section/34ZA/9A) inserted (1.4.2023) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 69(4)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/69/4/b), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2023/381](https://www.legislation.gov.uk/uksi/2023/381), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/381/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Notice of declaration of a dividend[^key-0d37d5747f22a976eb301d9f9783f74c]
+## 66. Notice of declaration of a dividend[^c-0d37d5747f22a976eb301d9f9783f74c]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d37d5747f22a976eb301d9f9783f74c]: Commencement: Rule 66 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-0d37d5747f22a976eb301d9f9783f74c]: Commencement: Rule 66 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

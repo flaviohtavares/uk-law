@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 19. Suspension or reduction of pension in light of medical evidence etc.[^key-8295b35fbd13ef20a8a4d99e85832eea]
+## 19. Suspension or reduction of pension in light of medical evidence etc.[^c-8295b35fbd13ef20a8a4d99e85832eea]
 
 *Extent: E*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8295b35fbd13ef20a8a4d99e85832eea]: Commencement: [S. 19](https://www.legislation.gov.uk/ukcm/2018/9/section/19) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-8295b35fbd13ef20a8a4d99e85832eea]: Commencement: [S. 19](https://www.legislation.gov.uk/ukcm/2018/9/section/19) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

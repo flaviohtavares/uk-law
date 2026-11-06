@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Opt outs of additional and out of hours services[^key-65d3af24c3f0ae2d97e981ee705578db]
+## 17. Opt outs of additional and out of hours services[^c-65d3af24c3f0ae2d97e981ee705578db]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65d3af24c3f0ae2d97e981ee705578db]: Commencement: Reg. 17 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-65d3af24c3f0ae2d97e981ee705578db]: Commencement: Reg. 17 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

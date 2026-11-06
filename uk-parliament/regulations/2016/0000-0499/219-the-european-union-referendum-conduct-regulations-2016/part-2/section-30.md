@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Challenge of voter[^key-cb3b1c62854201144e22a6346f9a3ee4]
+## 30. Challenge of voter[^c-cb3b1c62854201144e22a6346f9a3ee4]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A person is not to be prevented from voting by reason only that—
 
 ## Annotations
 
-[^key-cb3b1c62854201144e22a6346f9a3ee4]: Commencement: Reg. 30 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-cb3b1c62854201144e22a6346f9a3ee4]: Commencement: Reg. 30 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

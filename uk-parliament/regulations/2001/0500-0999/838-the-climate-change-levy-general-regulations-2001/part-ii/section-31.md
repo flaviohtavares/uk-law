@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**31.**[^key-9f0679d03d965a13fa0643de621ce2f3] (1) Regulation 29 or 30 shall not require any such amount as is mentioned in paragraph (1)(b) of either regulation (“the credit”) to be set against any item mentioned in paragraph (1)(a) of either regulation (“the debit”) where—
+**31.**[^c-9f0679d03d965a13fa0643de621ce2f3] (1) Regulation 29 or 30 shall not require any such amount as is mentioned in paragraph (1)(b) of either regulation (“the credit”) to be set against any item mentioned in paragraph (1)(a) of either regulation (“the debit”) where—
 
 - (a) an insolvency procedure has been applied to the person entitled to the credit;
 - (b) the credit became due after that procedure was applied; and
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f0679d03d965a13fa0643de621ce2f3]: Commencement: Reg. 31 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-9f0679d03d965a13fa0643de621ce2f3]: Commencement: Reg. 31 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

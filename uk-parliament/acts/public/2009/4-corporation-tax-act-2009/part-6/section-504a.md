@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 504A. Diminishing shared ownership arrangements: refinancing[^key-ea7a1c4b5f341bb64dc8b82f32542214]
+## 504A. Diminishing shared ownership arrangements: refinancing[^c-ea7a1c4b5f341bb64dc8b82f32542214]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea7a1c4b5f341bb64dc8b82f32542214]: Textual amendment: [S. 504A](https://www.legislation.gov.uk/ukpga/2009/4/section/504A) inserted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/4), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
+[^c-ea7a1c4b5f341bb64dc8b82f32542214]: Textual amendment: [S. 504A](https://www.legislation.gov.uk/ukpga/2009/4/section/504A) inserted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/4), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)

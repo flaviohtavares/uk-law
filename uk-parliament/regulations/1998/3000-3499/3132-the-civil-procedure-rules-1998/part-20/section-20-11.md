@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20.11. Special provisions relating to default judgment on an additional claim other than a counterclaim or a contribution or indemnity notice[^key-5901d3f8919b858d7dbecf241e0051d7]
+## 20.11. Special provisions relating to default judgment on an additional claim other than a counterclaim or a contribution or indemnity notice[^c-5901d3f8919b858d7dbecf241e0051d7]
 
 *Extent: E+W*
 
@@ -29,13 +29,13 @@ summary: ''
 
 (2) The party against whom the additional claim is made—
 
-- (a) is deemed to admit the additional claim, and is bound by any judgment or decision in the proceedings as[^key-813c62c2e55e07907ba3600a5d711090] far as it is relevant to any matter arising in the additional claim;
+- (a) is deemed to admit the additional claim, and is bound by any judgment or decision in the proceedings as[^c-813c62c2e55e07907ba3600a5d711090] far as it is relevant to any matter arising in the additional claim;
 - (b) subject to paragraph (3), if default judgment under Part 12 is given against the additional claimant, the additional claimant may obtain judgment in respect of the additional claim by filing a request in the relevant practice form.
 
 (3) An additional claimant may not enter judgment under paragraph (2)(b) without the court’s permission if—
 
-- (a) they have[^key-c7a833b87c29d14b1b6c64a7386646c9] not satisfied the default judgment which has been given against them[^key-9624b4673939cb0229dc033ecf7d81f5]; or
-- (b) they[^key-624bdda9a235d0c723679a02b87ad7d2] wishes to obtain judgment for any remedy other than a contribution or indemnity.
+- (a) they have[^c-c7a833b87c29d14b1b6c64a7386646c9] not satisfied the default judgment which has been given against them[^c-9624b4673939cb0229dc033ecf7d81f5]; or
+- (b) they[^c-624bdda9a235d0c723679a02b87ad7d2] wishes to obtain judgment for any remedy other than a contribution or indemnity.
 
 (4) An application for the court’s permission under paragraph (3) may be made without notice unless the court directs otherwise.
 
@@ -43,12 +43,12 @@ summary: ''
 
 ## Annotations
 
-[^key-5901d3f8919b858d7dbecf241e0051d7]: Textual amendment: Pt. 20 substituted (6.4.2006) by [The Civil Procedure (Amendment No.4) Rules 2005 (S.I. 2005/3515)](https://www.legislation.gov.uk/uksi/2005/3515), [rule 1](https://www.legislation.gov.uk/uksi/2005/3515/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3515/schedule/1)
+[^c-5901d3f8919b858d7dbecf241e0051d7]: Textual amendment: Pt. 20 substituted (6.4.2006) by [The Civil Procedure (Amendment No.4) Rules 2005 (S.I. 2005/3515)](https://www.legislation.gov.uk/uksi/2005/3515), [rule 1](https://www.legislation.gov.uk/uksi/2005/3515/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3515/schedule/1)
 
-[^key-813c62c2e55e07907ba3600a5d711090]: Textual amendment: Word in rule 20.11(2)(a) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [13(8)(a)](https://www.legislation.gov.uk/uksi/2023/105/rule/13/8/a)
+[^c-813c62c2e55e07907ba3600a5d711090]: Textual amendment: Word in rule 20.11(2)(a) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [13(8)(a)](https://www.legislation.gov.uk/uksi/2023/105/rule/13/8/a)
 
-[^key-c7a833b87c29d14b1b6c64a7386646c9]: Textual amendment: Words in rule 20.11(3)(a) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [13(8)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2023/105/rule/13/8/b/i/aa)
+[^c-c7a833b87c29d14b1b6c64a7386646c9]: Textual amendment: Words in rule 20.11(3)(a) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [13(8)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2023/105/rule/13/8/b/i/aa)
 
-[^key-9624b4673939cb0229dc033ecf7d81f5]: Textual amendment: Word in rule 20.11(3)(a) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [13(8)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2023/105/rule/13/8/b/i/bb)
+[^c-9624b4673939cb0229dc033ecf7d81f5]: Textual amendment: Word in rule 20.11(3)(a) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [13(8)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2023/105/rule/13/8/b/i/bb)
 
-[^key-624bdda9a235d0c723679a02b87ad7d2]: Textual amendment: Word in rule 20.11(3)(b) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [13(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/105/rule/13/8/b/ii)
+[^c-624bdda9a235d0c723679a02b87ad7d2]: Textual amendment: Word in rule 20.11(3)(b) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [13(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/105/rule/13/8/b/ii)

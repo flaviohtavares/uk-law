@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Extension of power to vary specified sums[^key-2ec8874880ebc88c37dc83a191f24be2]
+## 31. Extension of power to vary specified sums[^c-2ec8874880ebc88c37dc83a191f24be2]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ec8874880ebc88c37dc83a191f24be2]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2014/4/section/31) in force at 23.5.2014 by [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/1/g)
+[^c-2ec8874880ebc88c37dc83a191f24be2]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2014/4/section/31) in force at 23.5.2014 by [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/1/g)

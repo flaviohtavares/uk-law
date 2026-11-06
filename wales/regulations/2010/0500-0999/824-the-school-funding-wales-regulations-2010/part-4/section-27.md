@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Manner of publication[^key-96bf544f68620a5fccb2ae6a14282323]
+## 27. Manner of publication[^c-96bf544f68620a5fccb2ae6a14282323]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ For the purposes of paragraph 1(7) of Schedule 14 to the 1998 Act (prescribed ma
 
 ## Annotations
 
-[^key-96bf544f68620a5fccb2ae6a14282323]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2010/824/regulation/27) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-96bf544f68620a5fccb2ae6a14282323]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2010/824/regulation/27) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)

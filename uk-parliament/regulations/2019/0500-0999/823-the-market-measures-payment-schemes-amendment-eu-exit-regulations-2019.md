@@ -44,11 +44,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with paragraph 1(3) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-90ac06c694e8ed8779934d056a07088b]
+## 1. Citation and commencement[^c-90ac06c694e8ed8779934d056a07088b]
 
 These Regulations may be cited as the Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 and come into force on the later of exit day or the day after the day on which they are made.
 
-## 2. Amendment of Commission Regulation [(EC) 1312/2008](https://www.legislation.gov.uk/eur/2008/1312)[^key-b2b1c005d06e2b0478acd5fd65516cf3]
+## 2. Amendment of Commission Regulation [(EC) 1312/2008](https://www.legislation.gov.uk/eur/2008/1312)[^c-b2b1c005d06e2b0478acd5fd65516cf3]
 
 (1) Commission Regulation [(EC) No 1312/2008](https://www.legislation.gov.uk/eur/2008/1312) fixing the conversion rates, the processing costs and the value of the by-products for the various stages of rice processing is amended as follows.
 
@@ -58,7 +58,7 @@ These Regulations may be cited as the Market Measures Payment Schemes (Amendment
 
 (4) Omit Annexes 1 and 2.
 
-## 3. Amendment of Commission Delegated Regulation (EU) 2015/1829[^key-559ca36b866c9cdf02474010323ec180]
+## 3. Amendment of Commission Delegated Regulation (EU) 2015/1829[^c-559ca36b866c9cdf02474010323ec180]
 
 (1) Commission Delegated Regulation (EU) 2015/1829 supplementing Regulation (EU) No 1144/2014 of the European Parliament and of the Council on information provision and promotion measures concerning agricultural products implemented in the internal market and in third countries is amended as follows.
 
@@ -118,7 +118,7 @@ These Regulations may be cited as the Market Measures Payment Schemes (Amendment
 
 (6) After Article 7, omit the words from “This Regulation” to “Member States.”.
 
-## 4. Amendment of Commission Implementing Regulation [(EU) 2015/1831](https://www.legislation.gov.uk/eur/1831/2015)[^key-748cf5b2449756487efb0f01bf25d6d2]
+## 4. Amendment of Commission Implementing Regulation [(EU) 2015/1831](https://www.legislation.gov.uk/eur/1831/2015)[^c-748cf5b2449756487efb0f01bf25d6d2]
 
 (1) Commission Implementing Regulation (EU) 2015/1831 laying down rules for application of Regulation (EU) No 1144/2014 of the European Parliament and of the Council on information provision and promotion measures concerning agricultural products implemented in the internal market and in the third countries is amended as follows.
 
@@ -244,7 +244,7 @@ These Regulations may be cited as the Market Measures Payment Schemes (Amendment
 
 (23) In the Annex, omit “Union” in each place it occurs.
 
-## 5. Amendment of Commission Delegated Regulation (EU) 2016/1238[^key-d757b3fb83f7630b4d5ca7179efad83f]
+## 5. Amendment of Commission Delegated Regulation (EU) 2016/1238[^c-d757b3fb83f7630b4d5ca7179efad83f]
 
 (1) Commission Delegated Regulation (EU) No 2016/1238 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to public intervention and aid for private storage, is amended as follows.
 
@@ -272,7 +272,7 @@ These Regulations may be cited as the Market Measures Payment Schemes (Amendment
 
 (4) In Article 4(a), omit the words from “, or the disposal” to the end.
 
-(4A)[^key-8660fc4db26e6c5359f882f976c0c7cd] In Article 4(b)—
+(4A)[^c-8660fc4db26e6c5359f882f976c0c7cd] In Article 4(b)—
 
 - (a) omit “an Implementing Regulation opening”;
 - (b) after “procedure or” insert “ the Regulations ”;
@@ -450,7 +450,7 @@ These Regulations may be cited as the Market Measures Payment Schemes (Amendment
   - (i) for “the requirements”, in both places those words occur, substitute “ any statutory requirements ”;
   - (ii) omit “by the Member State concerned” in both places those words occur.
 
-## 6. Amendment of Regulation (EU) 2016/1240[^key-ae974b70a6efad406bd1deef2a9d6025]
+## 6. Amendment of Regulation (EU) 2016/1240[^c-ae974b70a6efad406bd1deef2a9d6025]
 
 (1) Commission Implementing Regulation (EU) No 2016/1240 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to public intervention and aid for private storage is amended as follows.
 
@@ -518,7 +518,7 @@ These Regulations may be cited as the Market Measures Payment Schemes (Amendment
 (10) In Article 11(1)—
 
 - (a) for “Commission”, in each place it occurs, substitute “ appropriate authority ”;
-- (ab)[^key-5b85f9c08df7057d9294b22b15bb103f] omit “as provided for in Article 3(6)(a) of that Regulation”;
+- (ab)[^c-5b85f9c08df7057d9294b22b15bb103f] omit “as provided for in Article 3(6)(a) of that Regulation”;
 - (b) for “Commission's” substitute “appropriate authority's”;
 - (c) in subparagraph (c)—
   - (i) for “agencies of the Member States” substitute, “agency”;
@@ -599,7 +599,7 @@ These Regulations may be cited as the Market Measures Payment Schemes (Amendment
 
 (25) In Article 43—
 
-- (a)[^key-1c512535f6fc013bf2deba3b1aa3347b] in paragraph 1—
+- (a)[^c-1c512535f6fc013bf2deba3b1aa3347b] in paragraph 1—
   - (i) for “tenders notified in accordance with Article 42” substitute “ admissible tenders received within the time limits set down in the published tendering procedure ”;
   - (ii) omit “, as provided for in Article 4(2)(a) of Regulation (EU) No 1370/2013”;
 - (b) in paragraphs 1 and 2, for “Commission”, in both places it occurs, substitute “ appropriate authority ”;
@@ -708,24 +708,24 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23706291]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-90ac06c694e8ed8779934d056a07088b]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-90ac06c694e8ed8779934d056a07088b]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-b2b1c005d06e2b0478acd5fd65516cf3]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b2b1c005d06e2b0478acd5fd65516cf3]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-559ca36b866c9cdf02474010323ec180]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-559ca36b866c9cdf02474010323ec180]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23706301]: Marginal citation: [1994 c.23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-748cf5b2449756487efb0f01bf25d6d2]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-748cf5b2449756487efb0f01bf25d6d2]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23706311]: Marginal citation: [1994 c.26](https://www.legislation.gov.uk/ukpga/1994/26).
 
-[^key-d757b3fb83f7630b4d5ca7179efad83f]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d757b3fb83f7630b4d5ca7179efad83f]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-8660fc4db26e6c5359f882f976c0c7cd]: Textual amendment: Reg. 5(4A)(4B) inserted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [15(2)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/15/2)
+[^c-8660fc4db26e6c5359f882f976c0c7cd]: Textual amendment: Reg. 5(4A)(4B) inserted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [15(2)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/15/2)
 
-[^key-ae974b70a6efad406bd1deef2a9d6025]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ae974b70a6efad406bd1deef2a9d6025]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5b85f9c08df7057d9294b22b15bb103f]: Textual amendment: Reg. 6(10)(ab) inserted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [15(3)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/15/3/a)
+[^c-5b85f9c08df7057d9294b22b15bb103f]: Textual amendment: Reg. 6(10)(ab) inserted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [15(3)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/15/3/a)
 
-[^key-1c512535f6fc013bf2deba3b1aa3347b]: Textual amendment: Reg. 6(25)(a) substituted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [15(3)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/15/3/b)
+[^c-1c512535f6fc013bf2deba3b1aa3347b]: Textual amendment: Reg. 6(25)(a) substituted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [15(3)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/15/3/b)

@@ -46,14 +46,14 @@ It shall be the right of an individual to have access, in accordance with the pr
 - “**the applicant**” means the person referred to in section 3(1) below;
 - “**care**” includes examination, investigation or diagnosis for the purposes of, or in connection with, any form of medical treatment;
 - “**employment purposes**”, in the case of any individual, means the purposes in relation to the individual of any person by whom he is or has been, or is seeking to be, employed (whether under a contract of service or otherwise);
-- “[^key-51920a61c58b61ad415766f90dc9fffd]**health professional**” has the same meaning as in the Data Protection Act 2018 (see section 204 of that Act);
+- “[^c-51920a61c58b61ad415766f90dc9fffd]**health professional**” has the same meaning as in the Data Protection Act 2018 (see section 204 of that Act);
 
 “insurance purposes”, in a case of any individual who has entered into, or is seeking to enter into, a contract of insurance with an insurer, means the purposes of that insurer in relation to that individual;[^c803500]
 
 “insurer” means—
 
-- (a) a person who has permission under Part 4A[^key-bcc30b4592c352d8cf37a6711da65f0e] of the Financial Services and Markets Act 2000 to effect or carry out contracts of insurance;
-- (b)[^key-9035bcc0c89b8dd0d02348ba19497690] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a person who has permission under Part 4A[^c-bcc30b4592c352d8cf37a6711da65f0e] of the Financial Services and Markets Act 2000 to effect or carry out contracts of insurance;
+- (b)[^c-9035bcc0c89b8dd0d02348ba19497690] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 - “**medical practitioner**” means a person registered under the [^c803501]Medical Act 1983;
 - “**medical report**”, in the case of an individual, means a report relating to the physical or mental health of the individual prepared by a medical practitioner who is or has been responsible for the clinical care of the individual.
@@ -166,7 +166,7 @@ and accordingly, if he is so notified by the individual, the restrictions impose
 
 (1) If a court is satisfied on the application of an individual that any person, in connection with a medical report relating to that individual, has failed or is likely to fail to comply with any requirement of this Act, the court may order that person to comply with that requirement.
 
-(2) The jurisdiction conferred by this section shall be exercisable by the county court[^key-eb53fd11e1e11ab137507c776b9cea9d] or, in Scotland, by the sheriff.
+(2) The jurisdiction conferred by this section shall be exercisable by the county court[^c-eb53fd11e1e11ab137507c776b9cea9d] or, in Scotland, by the sheriff.
 
 ## 9. Notifications under this Act.
 
@@ -193,16 +193,16 @@ Any notification required or authorised to be given under this Act—
 
 [^c803498]: Modification: S. 2(1) amended (*prosp.*) by [1994 c. 17](https://www.legislation.gov.uk/ukpga/1994/17), [ss. 38(5)(6)](https://www.legislation.gov.uk/ukpga/1994/17/section/38/5/6), [44(3)](https://www.legislation.gov.uk/ukpga/1994/17/section/44/3) (which s. 38 of the 1994 Act was repealed (1.3.2000) by [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29), [s. 74(2)](https://www.legislation.gov.uk/ukpga/1998/29/section/74/2), [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/1998/29/schedule/16/part/I); [S.I. 2000/183](https://www.legislation.gov.uk/uksi/2000/183), [art. 2(1)](https://www.legislation.gov.uk/uksi/2000/183/article/2/1))
 
-[^key-51920a61c58b61ad415766f90dc9fffd]: Textual amendment: Words in s. 2(1) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 34](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/34) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-51920a61c58b61ad415766f90dc9fffd]: Textual amendment: Words in s. 2(1) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 34](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/34) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
 [^c803500]: Textual amendment: Definitions of "insurance purposes" and "insurer" in s. 2(1) substituted (1.12.2001) for definition of "insurance purposes" by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [311(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/311/2)
 
-[^key-bcc30b4592c352d8cf37a6711da65f0e]: Textual amendment: Words in s. 2(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 59](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/59) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-bcc30b4592c352d8cf37a6711da65f0e]: Textual amendment: Words in s. 2(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 59](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/59) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-9035bcc0c89b8dd0d02348ba19497690]: Textual amendment: Words in s. 2(1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 30](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/30) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9035bcc0c89b8dd0d02348ba19497690]: Textual amendment: Words in s. 2(1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 30](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/30) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c803501]: Marginal citation: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54).
 
 [^c803502]: Textual amendment: S. 2(1A) inserted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [311(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/311/3)
 
-[^key-eb53fd11e1e11ab137507c776b9cea9d]: Textual amendment: Words in [s. 8(2)](https://www.legislation.gov.uk/ukpga/1988/28/section/8/2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52(1)(b)(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-eb53fd11e1e11ab137507c776b9cea9d]: Textual amendment: Words in [s. 8(2)](https://www.legislation.gov.uk/ukpga/1988/28/section/8/2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52(1)(b)(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

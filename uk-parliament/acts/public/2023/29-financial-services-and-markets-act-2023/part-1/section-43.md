@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Cost Benefit Analysis Panels[^key-fdd92257d7bdbcb524ec141fc3f84bea][^key-27f0787e6e08ac27f007c09f85eedd95][^key-66c48b891ea00a5c03702e03999b8ec9]
+## 43. Cost Benefit Analysis Panels[^c-fdd92257d7bdbcb524ec141fc3f84bea][^c-27f0787e6e08ac27f007c09f85eedd95][^c-66c48b891ea00a5c03702e03999b8ec9]
 
 *Extent: E+W+S+N.I.*
 
@@ -94,8 +94,8 @@ summary: ''
 
 ## Annotations
 
-[^key-fdd92257d7bdbcb524ec141fc3f84bea]: Commencement: S. 43 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-fdd92257d7bdbcb524ec141fc3f84bea]: Commencement: S. 43 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-27f0787e6e08ac27f007c09f85eedd95]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2023/29/section/43) in force at 29.8.2023 for specified purposes by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(gg)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/gg)
+[^c-27f0787e6e08ac27f007c09f85eedd95]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2023/29/section/43) in force at 29.8.2023 for specified purposes by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(gg)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/gg)
 
-[^key-66c48b891ea00a5c03702e03999b8ec9]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2023/29/section/43) in force at 1.8.2024 for specified purposes by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 11(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/11/a)
+[^c-66c48b891ea00a5c03702e03999b8ec9]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2023/29/section/43) in force at 1.8.2024 for specified purposes by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 11(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/11/a)

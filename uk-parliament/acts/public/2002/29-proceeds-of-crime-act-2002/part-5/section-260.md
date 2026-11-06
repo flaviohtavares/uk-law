@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 260. Supervision of interim administrator and variation of order[^key-ecd5b8cf924fdd25abe21c8dca7443a4]
+## 260. Supervision of interim administrator and variation of order[^c-ecd5b8cf924fdd25abe21c8dca7443a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ecd5b8cf924fdd25abe21c8dca7443a4]: Commencement: S. 260 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-ecd5b8cf924fdd25abe21c8dca7443a4]: Commencement: S. 260 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)

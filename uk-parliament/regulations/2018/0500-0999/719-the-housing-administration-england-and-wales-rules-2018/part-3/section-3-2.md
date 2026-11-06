@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.2. Notice requiring statement of affairs and delivery to the housing administrator[^key-d06f9b64dd9a003650b71eb8b336ece1]
+## 3.2. Notice requiring statement of affairs and delivery to the housing administrator[^c-d06f9b64dd9a003650b71eb8b336ece1]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d06f9b64dd9a003650b71eb8b336ece1]: Commencement: Rule 3.2 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-d06f9b64dd9a003650b71eb8b336ece1]: Commencement: Rule 3.2 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Amendments to the 2011 Regulation — Great Britain[^key-c89747dc099161f4633f6fd9ccbb6fab]
+## SCHEDULE 1 — Amendments to the 2011 Regulation — Great Britain[^c-c89747dc099161f4633f6fd9ccbb6fab]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,21 +24,21 @@ Regulation 3
 
 ### PART 1 — Introductory provision
 
-**1.**[^key-3f4805959d1c22c9f86f3cf4f9d82fbd][^key-c1754effe4b29783e0e8c862bf2948a2] The 2011 Regulation is amended in accordance with paragraphs 2 to 69 of this Schedule in respect of construction products made available or placed on the market in Great Britain.
+**1.**[^c-3f4805959d1c22c9f86f3cf4f9d82fbd][^c-c1754effe4b29783e0e8c862bf2948a2] The 2011 Regulation is amended in accordance with paragraphs 2 to 69 of this Schedule in respect of construction products made available or placed on the market in Great Britain.
 
 ### PART 2 — Amendments to Chapter 1
 
-#### 2. Amendment to Article 1[^key-d9db75f5f1dde96ab7e417ab42312fea][^key-61f71014f682dc0b2f62bddfdf83f33e]
+#### 2. Amendment to Article 1[^c-d9db75f5f1dde96ab7e417ab42312fea][^c-61f71014f682dc0b2f62bddfdf83f33e]
 
 In Article 1 (subject matter), for “use of CE marking” substitute “use of UK marking, and in certain cases CE marking or CE marking accompanied by the UK(NI) indication,”.
 
-#### 3. Amendments to Article 2[^key-ae8d88f018621ff4ac24f87010dcf280]
+#### 3. Amendments to Article 2[^c-ae8d88f018621ff4ac24f87010dcf280]
 
 (1) Article 2 (definitions) is amended as follows.
 
 (2) After paragraph 9, insert—
 
-> **9A.** ‘relevant enactment’ means any retained EU law which is derived from an EU instrument issued before IP completion day[^key-9635bc4ebdbf8c0795bf7a92933c607c] harmonising the conditions for the marketing of products in the EU;
+> **9A.** ‘relevant enactment’ means any retained EU law which is derived from an EU instrument issued before IP completion day[^c-9635bc4ebdbf8c0795bf7a92933c607c] harmonising the conditions for the marketing of products in the EU;
 >
 > **9B.** ‘the EU Construction Products Regulation’ means Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive [89/106/EEC](https://www.legislation.gov.uk/eudr/1989/106) [^c23684241] as it has effect in EU law as amended from time to time;.
 
@@ -84,7 +84,7 @@ In Article 1 (subject matter), for “use of CE marking” substitute “use of 
 > **13F.** ‘pre-exit European Assessment Document’ means:
 >
 > - (a) a European Assessment Document for which:
->   - (i) a reference was published in the Official Journal of the European Union under Article 22 as it had effect immediately before IP completion day[^key-c6a797126068d833d38f7ed0747c7fd3] ; and
+>   - (i) a reference was published in the Official Journal of the European Union under Article 22 as it had effect immediately before IP completion day[^c-c6a797126068d833d38f7ed0747c7fd3] ; and
 >   - (ii) the reference was not removed from publication before IP completion day ; or
 > - (b) guidelines published before 1 July 2013 under Article 11 of Council Directive [89/106/EEC](https://www.legislation.gov.uk/eudr/1989/106) of 21 December 1988 on the approximation of laws, regulations and administrative provisions of the Member States relating to construction products [^c23684261] which, immediately before IP completion day , could be used for the purposes of issuing European Technical Assessments under this Regulation;
 
@@ -92,7 +92,7 @@ In Article 1 (subject matter), for “use of CE marking” substitute “use of 
 
 (8) In paragraph 15, for “harmonised” substitute “ designated ”.
 
-(9) In paragraphs 16 and 17, for “Union” substitute “market of Great Britain”[^key-4b21f276f9c774ab85bcbda4a79e8299] .
+(9) In paragraphs 16 and 17, for “Union” substitute “market of Great Britain”[^c-4b21f276f9c774ab85bcbda4a79e8299] .
 
 (10) After paragraph 17, insert—
 
@@ -102,13 +102,13 @@ In Article 1 (subject matter), for “use of CE marking” substitute “use of 
 >
 > **17C.** ‘CE marking’ means the marking presented in Annex 2 to Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/eur/2008/765) of the European Parliament and of the Council setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation [(EEC) No 339/93](https://www.legislation.gov.uk/eur/1993/339) [^c23684271] as it has effect in EU law as amended from time to time;
 >
-> **17CA.**[^key-c7e3fd45587f910e16e8f4b41c43c943] ‘CE marking accompanied by the UK(NI) indication’ means CE marking (as defined above) accompanied by the marking in the form set out in Schedule 1 to the Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020.
+> **17CA.**[^c-c7e3fd45587f910e16e8f4b41c43c943] ‘CE marking accompanied by the UK(NI) indication’ means CE marking (as defined above) accompanied by the marking in the form set out in Schedule 1 to the Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020.
 >
 > **17D.** ‘competent authority’ has the meaning prescribed by the Construction Products Regulations 2013;
 
 .
 
-(11)[^key-5ec85aeb9c7e0c65d7600929b382d7bb] For paragraph 21, substitute—
+(11)[^c-5ec85aeb9c7e0c65d7600929b382d7bb] For paragraph 21, substitute—
 
 > **21.** ‘importer’ means any natural or legal person who—
 >
@@ -122,7 +122,7 @@ In Article 1 (subject matter), for “use of CE marking” substitute “use of 
 > **22.** ‘authorised representative’ means—
 >
 > - (a) a person who—
->   - (i) immediately before IP completion day[^key-af6e341d845c8b6a34560a1dd519995c] was established in the United Kingdom or a member State and has received a written mandate from a manufacturer to perform specified tasks, in accordance with Article 12 as it had effect immediately before IP completion day ; and
+>   - (i) immediately before IP completion day[^c-af6e341d845c8b6a34560a1dd519995c] was established in the United Kingdom or a member State and has received a written mandate from a manufacturer to perform specified tasks, in accordance with Article 12 as it had effect immediately before IP completion day ; and
 >   - (ii) on or after IP completion day continues to be so established and mandated to act on the manufacturer's behalf in relation to those tasks; or
 > - (b) a person who on or after IP completion day is appointed in accordance with Article 12;
 >
@@ -145,7 +145,7 @@ In Article 1 (subject matter), for “use of CE marking” substitute “use of 
 
 .
 
-#### 4. Amendments to Article 3[^key-7b399bf9111807042f18e86ccc6db38c]
+#### 4. Amendments to Article 3[^c-7b399bf9111807042f18e86ccc6db38c]
 
 (1) Article 3 (basic requirements for construction works and essential characteristics of construction products) is amended as follows.
 
@@ -163,11 +163,11 @@ In Article 1 (subject matter), for “use of CE marking” substitute “use of 
 
 ### PART 3 — Amendments to Chapter 2
 
-#### 5. Amendment to the heading of Chapter 2[^key-0c9323518ce2628f6ef37b1534c07362]
+#### 5. Amendment to the heading of Chapter 2[^c-0c9323518ce2628f6ef37b1534c07362]
 
 In the heading of Chapter 2, for “CE” substitute “ UK ”.
 
-#### 6. Amendments to Article 4[^key-b50244f821f5d5b8004f927d0e5560bc]
+#### 6. Amendments to Article 4[^c-b50244f821f5d5b8004f927d0e5560bc]
 
 (1) Article 4 (declaration of performance) is amended as follows.
 
@@ -186,18 +186,18 @@ In the heading of Chapter 2, for “CE” substitute “ UK ”.
 - (a) omit “Member States shall presume”;
 - (b) after “manufacturer”, in the second place it occurs, insert “ shall be presumed ”.
 
-#### 7. Amendments to Article 5[^key-66538dbcb1cb4750609aba34de6df0d5]
+#### 7. Amendments to Article 5[^c-66538dbcb1cb4750609aba34de6df0d5]
 
 (1) Article 5 (derogations from drawing up a declaration of performance) is amended as follows.
 
 (2) In the words before point (a)—
 
-- (a) for “Union or national provisions” substitute “ any enactment or rule of law in the United Kingdom in respect of Great Britain[^key-18abbea9b1f1377ef77a9b4e26dcbdb6] ”;
+- (a) for “Union or national provisions” substitute “ any enactment or rule of law in the United Kingdom in respect of Great Britain[^c-18abbea9b1f1377ef77a9b4e26dcbdb6] ”;
 - (b) for “harmonised” substitute “ designated ”.
 
-(3) In points (a), (b) and (c), for “national rules”, in each place it occurs, substitute “ enactment or rule of law in the United Kingdom in respect of Great Britain[^key-aad5896e4ba107b74d1bfadc37144a87] ”.
+(3) In points (a), (b) and (c), for “national rules”, in each place it occurs, substitute “ enactment or rule of law in the United Kingdom in respect of Great Britain[^c-aad5896e4ba107b74d1bfadc37144a87] ”.
 
-#### 8. Amendments to Article 6[^key-f505a40db9a00885f2aa010e860b5b4c]
+#### 8. Amendments to Article 6[^c-f505a40db9a00885f2aa010e860b5b4c]
 
 (1) Article 6 (content of the declaration of performance) is amended as follows.
 
@@ -213,7 +213,7 @@ In the heading of Chapter 2, for “CE” substitute “ UK ”.
 
 (4) In paragraph 5, after “Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/eur/2006/1907)” insert “ as amended from time to time ”.
 
-#### 9. Amendments to Article 7[^key-85da5bbe827d2fd0612183cfd9b72dac]
+#### 9. Amendments to Article 7[^c-85da5bbe827d2fd0612183cfd9b72dac]
 
 (1) Article 7 (supply of the declaration of performance) is amended as follows.
 
@@ -224,7 +224,7 @@ In the heading of Chapter 2, for “CE” substitute “ UK ”.
 
 (3) In paragraph 4, for the words from “the language” to the end substitute “ English ”.
 
-#### 10. Substitution of Article 8[^key-4308db94443307e679a677096070a70b]
+#### 10. Substitution of Article 8[^c-4308db94443307e679a677096070a70b]
 
 For Article 8 (general principles and use of CE marking), substitute—
 
@@ -240,24 +240,24 @@ For Article 8 (general principles and use of CE marking), substitute—
 >
 > **4.** The rules for affixing the UK marking provided for in other enactments (including in Article 30 of RAMS) apply without prejudice to this Article.
 >
-> **5.** A public authority within the meaning of section 6 of the Human Rights Act 1998 [^c23684281] may not impose rules or conditions impeding the use of a construction product bearing the UK marking, or the CE marking (or CE marking accompanied by the UK(NI) indication)[^key-08884052680d09d9a0b1a378bb7f2a2c] where Article 16A(2)(a) applies, when the declared performances correspond to the requirements for such use in Great Britain[^key-7c2da0210b247ef95486172958892e60] .
+> **5.** A public authority within the meaning of section 6 of the Human Rights Act 1998 [^c23684281] may not impose rules or conditions impeding the use of a construction product bearing the UK marking, or the CE marking (or CE marking accompanied by the UK(NI) indication)[^c-08884052680d09d9a0b1a378bb7f2a2c] where Article 16A(2)(a) applies, when the declared performances correspond to the requirements for such use in Great Britain[^c-7c2da0210b247ef95486172958892e60] .
 
 .
 
-#### 11. Amendments to Article 9[^key-0c897e0ecf195919c7a3ea1a18ad6011]
+#### 11. Amendments to Article 9[^c-0c897e0ecf195919c7a3ea1a18ad6011]
 
 In Article 9 (rules and conditions for the affixing of CE marking)—
 
 - (a) for “CE”, in each place it occurs (including the heading), substitute “ UK ”;
 - (b) in paragraph 2, for “notified” substitute “ approved ”.
 
-#### 12. Omission of Article 10[^key-a7fe4de5725a65554a6171eb69b00f7e]
+#### 12. Omission of Article 10[^c-a7fe4de5725a65554a6171eb69b00f7e]
 
 Omit Article 10 (product contact points for construction).
 
 ### PART 4 — Amendments to Chapter 3
 
-#### 13. Amendments to Article 11[^key-4f5d04839da6f4268e24d51e0e727914]
+#### 13. Amendments to Article 11[^c-4f5d04839da6f4268e24d51e0e727914]
 
 (1) Article 11 (obligations of manufacturers) is amended as follows.
 
@@ -277,7 +277,7 @@ Omit Article 10 (product contact points for construction).
 - (a) omit “national”;
 - (b) for the words from “a language” to the end of the sentence substitute “ English. ”.
 
-#### 14. Amendments to Article 12[^key-74ea7dad66c8871c2bb626703accd628]
+#### 14. Amendments to Article 12[^c-74ea7dad66c8871c2bb626703accd628]
 
 (1) Article 12 (authorised representatives) is amended as follows.
 
@@ -289,11 +289,11 @@ Omit Article 10 (product contact points for construction).
 - (b) in point (b), omit “national”;
 - (c) in point (c), for “the competent national authorities, at their” substitute “ a competent authority, at its ”.
 
-#### 15. Amendments to Article 13[^key-581b95bffaa4eb79e26c0c7f500b395c]
+#### 15. Amendments to Article 13[^c-581b95bffaa4eb79e26c0c7f500b395c]
 
 (1) Article 13 (obligations of importers) is amended as follows.
 
-(2)[^key-7a517839a29cb0f5e398eb16058db6a4] In paragraph 1, for “Union market” substitute “market of Great Britain”.
+(2)[^c-7a517839a29cb0f5e398eb16058db6a4] In paragraph 1, for “Union market” substitute “market of Great Britain”.
 
 (3) In paragraph 2, for “CE” substitute “ UK ”.
 
@@ -306,7 +306,7 @@ Omit Article 10 (product contact points for construction).
 - (a) omit “national”;
 - (b) for the words from “a language” to the end of the sentence substitute “ English. ”.
 
-#### 16. Amendments to Article 14[^key-7bbfa091a891b8d35a5a85ae87b64c6c]
+#### 16. Amendments to Article 14[^c-7bbfa091a891b8d35a5a85ae87b64c6c]
 
 (1) Article 14 (obligations of distributors) is amended as follows.
 
@@ -322,7 +322,7 @@ Omit Article 10 (product contact points for construction).
 - (a) omit “national”;
 - (b) for the words from “a language” to the end of the sentence substitute “ English. ”.
 
-#### 17. Insertion of new Articles 16A to 16C[^key-d4bd2b0aae0c471897f6e626a6fab573]
+#### 17. Insertion of new Articles 16A to 16C[^c-d4bd2b0aae0c471897f6e626a6fab573]
 
 After Article 16 (identification of economic operators), insert—
 
@@ -339,7 +339,7 @@ After Article 16 (identification of economic operators), insert—
 >   - (iii) draws up a declaration of performance for the product in accordance with Articles 4 and 6 of the EU Construction Products Regulation;
 >   - (iv) provides the information referred to in Article 6(4) of the EU Construction Products Regulation with the declaration of performance;
 >   - (v) draws up the technical documentation referred to in Article 11(1) of the EU Construction Products Regulation; and
->   - (vi) affixes or has affixed a CE marking in accordance with Articles 8 and 9 of the EU Construction Products Regulation or, in the case of a product to which regulation 4(2)(b) of the Construction Products (Amendment etc.) (EU Exit) Regulations 2020 applies, a CE marking accompanied by the UK(NI) indication in accordance with Articles 8 and 9 of the EU Construction Products Regulation[^key-519bd1ba7121b52cf4af111fd2fd4e53].
+>   - (vi) affixes or has affixed a CE marking in accordance with Articles 8 and 9 of the EU Construction Products Regulation or, in the case of a product to which regulation 4(2)(b) of the Construction Products (Amendment etc.) (EU Exit) Regulations 2020 applies, a CE marking accompanied by the UK(NI) indication in accordance with Articles 8 and 9 of the EU Construction Products Regulation[^c-519bd1ba7121b52cf4af111fd2fd4e53].
 >
 > **2.** Where this paragraph applies:
 >
@@ -352,7 +352,7 @@ After Article 16 (identification of economic operators), insert—
 >   - (vi) Article 28(1);
 > - (b) Article 8(3) has effect as if there were substituted:
 >
->   > **3.** By affixing or having affixed the CE marking or CE marking accompanied by the UK(NI) indication[^key-f4e4d109b97dfaa44e10bc51145ec746], manufacturers indicate that they take responsibility for the conformity of the construction product with the declared performance as well as the compliance with all applicable requirements laid down in this Regulation and in other enactments allowing for the affixing of the CE marking or CE marking accompanied by the UK(NI) indication in satisfaction of a requirement to affix the UK marking.
+>   > **3.** By affixing or having affixed the CE marking or CE marking accompanied by the UK(NI) indication[^c-f4e4d109b97dfaa44e10bc51145ec746], manufacturers indicate that they take responsibility for the conformity of the construction product with the declared performance as well as the compliance with all applicable requirements laid down in this Regulation and in other enactments allowing for the affixing of the CE marking or CE marking accompanied by the UK(NI) indication in satisfaction of a requirement to affix the UK marking.
 >
 >   ;
 > - (c) the following provisions have effect subject to the modifications in paragraph 3:
@@ -367,7 +367,7 @@ After Article 16 (identification of economic operators), insert—
 >
 > - (a) any reference to technical documentation is to be read as a reference to the technical documentation referred to in the second subparagraph of Article 11(1) of the EU Construction Products Regulation;
 > - (b) any reference to a declaration of performance is to be read as a reference to the declaration of performance drawn up by the manufacturer in accordance with Articles 4 and 6 of the EU Construction Products Regulation;
-> - (c) any reference to the UK marking is to be read as a reference to the CE marking or, as the case may be, CE marking accompanied by the UK(NI) indication[^key-380c972f2789fa15323afa9c0dd44d60].
+> - (c) any reference to the UK marking is to be read as a reference to the CE marking or, as the case may be, CE marking accompanied by the UK(NI) indication[^c-380c972f2789fa15323afa9c0dd44d60].
 >
 > **Article 16B — Obligations on an importer which are met by complying with obligations in the EU Construction Products Regulation**
 >
@@ -383,7 +383,7 @@ After Article 16 (identification of economic operators), insert—
 >     - (bb) drawn up the technical documentation referred to in the second subparagraph of Article 11(1) of the EU Construction Products Regulation;
 >     - (cc) drawn up the declaration of performance in accordance with Articles 4 and 6 of the EU Construction Products Regulation; and
 >     - (dd) complied with Article 11(4) and (5) of this Regulation; and
->   - (iii)[^key-dc420be4bf9c2baf77a653d80d7c9c8b] ensures that the product bears the CE marking, or in the case of a product to which regulation 4(2)(b) of the Construction Products (Amendment etc.) (EU Exit) Regulations 2020 applies, the CE marking accompanied by the UK(NI) indication;
+>   - (iii)[^c-dc420be4bf9c2baf77a653d80d7c9c8b] ensures that the product bears the CE marking, or in the case of a product to which regulation 4(2)(b) of the Construction Products (Amendment etc.) (EU Exit) Regulations 2020 applies, the CE marking accompanied by the UK(NI) indication;
 >   - (iv) ensures that the product is accompanied by the ‘required documents’ referred to in Article 13(2) of the EU Construction Products Regulation.
 >
 > **2.** Where this paragraph applies:
@@ -409,7 +409,7 @@ After Article 16 (identification of economic operators), insert—
 > - (b) before making the product available on the market, a distributor:
 >   - (i) finds that the product does not bear the UK marking; and
 >   - (ii) ensures that:
->     - (aa)[^key-ce1ef9d1334ee15617f094e941861393] the product bears the CE marking, or in the case of a product to which regulation 4(2)(b) of the Construction Products (Amendment etc.) (EU Exit) Regulations 2020 applies, the CE marking accompanied by the UK(NI) indication;
+>     - (aa)[^c-ce1ef9d1334ee15617f094e941861393] the product bears the CE marking, or in the case of a product to which regulation 4(2)(b) of the Construction Products (Amendment etc.) (EU Exit) Regulations 2020 applies, the CE marking accompanied by the UK(NI) indication;
 >     - (bb) the product is accompanied by the ‘documents required’ referred to in Article 14(2) of the EU Construction Products Regulation and by instructions and safety information in English;
 >     - (cc) the manufacturer has complied with Article 11(4) and (5) of this Regulation; and
 >     - (dd) the importer has complied with Article 13(3) of this Regulation.
@@ -423,11 +423,11 @@ After Article 16 (identification of economic operators), insert—
 
 ### PART 5 — Amendments to Chapter 4
 
-#### 18. Omission of Articles 17 and 18[^key-833a92203444a39467e0bc8d01902746]
+#### 18. Omission of Articles 17 and 18[^c-833a92203444a39467e0bc8d01902746]
 
 Omit articles 17 (harmonised standards) and 18 (formal objection against harmonised standards).
 
-#### 19. Insertion of new Articles 18A to 18C[^key-2f9179c92a3d6a7bbec4a2130b07fd87]
+#### 19. Insertion of new Articles 18A to 18C[^c-2f9179c92a3d6a7bbec4a2130b07fd87]
 
 After Article 18 (omitted by paragraph 18), insert—
 
@@ -454,7 +454,7 @@ After Article 18 (omitted by paragraph 18), insert—
 > **1.** The Secretary of State may designate as a designated standard:
 >
 > - (a) a standard which is prepared by a recognised standardisation body and satisfies the requirements of Article 18A(5);
-> - (b) a harmonised standard which is adopted by a European standardisation body before, or on or after IP completion day[^key-b2db8382175988ae7cd6608c837ebd5a], which does not become designated under paragraph 2.
+> - (b) a harmonised standard which is adopted by a European standardisation body before, or on or after IP completion day[^c-b2db8382175988ae7cd6608c837ebd5a], which does not become designated under paragraph 2.
 >
 > **2.** Where, immediately before IP completion day -
 >
@@ -498,7 +498,7 @@ After Article 18 (omitted by paragraph 18), insert—
 
 .
 
-#### 20. Amendments to Article 19[^key-86687b236704bb9aec0399822dd871d8]
+#### 20. Amendments to Article 19[^c-86687b236704bb9aec0399822dd871d8]
 
 (1) Article 19 (European Assessment Document) is amended as follows.
 
@@ -524,7 +524,7 @@ After Article 18 (omitted by paragraph 18), insert—
 
 .
 
-#### 21. Amendments to Article 20[^key-0c01c1e74012fd5a93b767bae3678505]
+#### 21. Amendments to Article 20[^c-0c01c1e74012fd5a93b767bae3678505]
 
 (1) Article 20 (principles for the development and adoption of European Assessment Documents) is amended as follows.
 
@@ -540,7 +540,7 @@ After Article 18 (omitted by paragraph 18), insert—
 - (a) omit “, together with the organisation of TABs,”;
 - (b) for “European” substitute “ UK ”.
 
-#### 22. Amendments to Article 21[^key-be70e5c8f41fec69a4bcb48a12dadc85]
+#### 22. Amendments to Article 21[^c-be70e5c8f41fec69a4bcb48a12dadc85]
 
 (1) Article 21 (obligations of the TAB receiving a request for a European Technical Assessment) is amended as follows.
 
@@ -566,7 +566,7 @@ After Article 18 (omitted by paragraph 18), insert—
 
 (6) In paragraph 3, for “Commission” substitute “ Secretary of State ”.
 
-#### 23. Substitution of Article 22[^key-e2f7cc637bd935b8e2bb34b8ffeab0f4]
+#### 23. Substitution of Article 22[^c-e2f7cc637bd935b8e2bb34b8ffeab0f4]
 
 For Article 22 (publication), substitute—
 
@@ -580,7 +580,7 @@ For Article 22 (publication), substitute—
 
 .
 
-#### 24. Amendments to Article 23[^key-7b0b31331e2d25513c2a496f7885b24f]
+#### 24. Amendments to Article 23[^c-7b0b31331e2d25513c2a496f7885b24f]
 
 In Article 23 (dispute resolution in cases of disagreement between TABs)—
 
@@ -588,7 +588,7 @@ In Article 23 (dispute resolution in cases of disagreement between TABs)—
 - (b) for “organisation of TABs” substitute “ responsible TAB ”;
 - (c) for “Commission” substitute “ Secretary of State ”.
 
-#### 25. Amendments to Article 24[^key-fefe68380b2b2d73bf1d421dd0c194e3]
+#### 25. Amendments to Article 24[^c-fefe68380b2b2d73bf1d421dd0c194e3]
 
 (1) Article 24 (content of the European Assessment Document) is amended as follows.
 
@@ -612,7 +612,7 @@ In Article 23 (dispute resolution in cases of disagreement between TABs)—
 
 .
 
-#### 26. Amendments to Article 25[^key-27a16d39d7416a56e35ee8ffc3efacdd]
+#### 26. Amendments to Article 25[^c-27a16d39d7416a56e35ee8ffc3efacdd]
 
 For Article 25 (formal objections against European Assessment Documents), substitute—
 
@@ -624,7 +624,7 @@ For Article 25 (formal objections against European Assessment Documents), substi
 
 .
 
-#### 27. Amendments to Article 26[^key-89a7261b7cdb8db0b195e3e10337998c]
+#### 27. Amendments to Article 26[^c-89a7261b7cdb8db0b195e3e10337998c]
 
 (1) Article 26 (European Technical Assessment) is amended as follows.
 
@@ -647,7 +647,7 @@ For Article 25 (formal objections against European Assessment Documents), substi
 
 .
 
-#### 28. Substitution of Article 27[^key-caf15f4652524f7c7dca4a1029685229]
+#### 28. Substitution of Article 27[^c-caf15f4652524f7c7dca4a1029685229]
 
 For Article 27 (levels or classes of performance), substitute—
 
@@ -659,7 +659,7 @@ For Article 27 (levels or classes of performance), substitute—
 >
 > Where classes of performance in relation to the essential characteristics of construction products are not established by the Secretary of State, they may be established by a recognised standardisation body in a standard prepared under Article 18A, on the basis of a revised standardisation mandate.
 >
-> **3.** When provided for in the relevant standardisation mandate, a recognised standardisation body must establish in a standard prepared under Article 18A threshold levels in relation to essential characteristics and, when appropriate, for intended uses, to be fulfilled by construction products in Great Britain[^key-7f111f1fde4de022420b0553046ce339].
+> **3.** When provided for in the relevant standardisation mandate, a recognised standardisation body must establish in a standard prepared under Article 18A threshold levels in relation to essential characteristics and, when appropriate, for intended uses, to be fulfilled by construction products in Great Britain[^c-7f111f1fde4de022420b0553046ce339].
 >
 > **4.** Where a recognised standardisation body has established classes of performance in a designated standard or a European standardisation body has established such classes in a harmonised standard which is a designated standard, a responsible TAB must use those classes in the UK Assessment Documents where they are relevant for the construction product.
 >
@@ -675,7 +675,7 @@ For Article 27 (levels or classes of performance), substitute—
 
 .
 
-#### 29. Amendments to Article 28[^key-09905ac2bbf6c789cc4589a4d8540fcd]
+#### 29. Amendments to Article 28[^c-09905ac2bbf6c789cc4589a4d8540fcd]
 
 (1) Article 28 (assessment and verification of constancy of performance) is amended as follows.
 
@@ -691,7 +691,7 @@ For Article 27 (levels or classes of performance), substitute—
 
 ### PART 6 — Amendments to Chapter 5
 
-#### 30. Amendments to Article 29[^key-d1859e3a1dd63a2445138427be2c94a0]
+#### 30. Amendments to Article 29[^c-d1859e3a1dd63a2445138427be2c94a0]
 
 For Article 29 (designation, monitoring and evaluation of TABs), substitute—
 
@@ -700,7 +700,7 @@ For Article 29 (designation, monitoring and evaluation of TABs), substitute—
 > **1.** A ‘TAB’ is a technical assessment body which:
 >
 > - (a) is designated as such by the Secretary of State under paragraph 3; or
-> - (b) immediately before IP completion day[^key-a642adfd21f8d5f974efaaed0d089a41] was designated as such a body by the Secretary of State under this Article for one or several product areas.
+> - (b) immediately before IP completion day[^c-a642adfd21f8d5f974efaaed0d089a41] was designated as such a body by the Secretary of State under this Article for one or several product areas.
 >
 > **2.** Paragraph 1 is subject to Article 30(3) (withdrawal of designation).
 >
@@ -714,7 +714,7 @@ For Article 29 (designation, monitoring and evaluation of TABs), substitute—
 
 .
 
-#### 31. Amendments to Article 30[^key-7778fdd2c9f61fd81aa0418bb061ddfd]
+#### 31. Amendments to Article 30[^c-7778fdd2c9f61fd81aa0418bb061ddfd]
 
 (1) Article 30 (requirements for TABs) is amended as follows.
 
@@ -736,7 +736,7 @@ For Article 29 (designation, monitoring and evaluation of TABs), substitute—
 - (a) for “Member State” substitute “ Secretary of State ”;
 - (b) omit “and inform the Commission and the other Member States thereof”.
 
-#### 32. Substitution of Article 31[^key-55b080925401a3f21d731e9a8ea72024]
+#### 32. Substitution of Article 31[^c-55b080925401a3f21d731e9a8ea72024]
 
 For Article 31 (coordination of TABs), substitute—
 
@@ -757,7 +757,7 @@ For Article 31 (coordination of TABs), substitute—
 
 .
 
-#### 33. Amendments to Article 32[^key-cbcd5f42d1656fa3a615c584916eb6c8]
+#### 33. Amendments to Article 32[^c-cbcd5f42d1656fa3a615c584916eb6c8]
 
 For Article 32 (Union financing), substitute—
 
@@ -769,13 +769,13 @@ For Article 32 (Union financing), substitute—
 
 .
 
-#### 34. Omission of Articles 33 to 35[^key-be601027c427f57a9ab393cafa3c8f5e]
+#### 34. Omission of Articles 33 to 35[^c-be601027c427f57a9ab393cafa3c8f5e]
 
 Omit Articles 33 (financing arrangements) to 35 (protection of the Union's financial interests).
 
 ### PART 7 — Amendments to Chapter 6
 
-#### 35. Amendments to Article 36[^key-b73b0a20bbb72a7c9278da94aa02552c]
+#### 35. Amendments to Article 36[^c-b73b0a20bbb72a7c9278da94aa02552c]
 
 (1) Article 36 (use of appropriate technical documentation) is amended as follows.
 
@@ -786,11 +786,11 @@ Omit Articles 33 (financing arrangements) to 35 (protection of the Union's finan
 
 (3) In paragraph 2, for “a notified” substitute “ an approved ”.
 
-#### 36. Amendments to Article 37[^key-d69f0dfce6cb85b7da703566f6e220d6]
+#### 36. Amendments to Article 37[^c-d69f0dfce6cb85b7da703566f6e220d6]
 
 In Article 37 (use of simplified procedures by micro-enterprises), for “harmonised”, in each place it occurs, substitute “ designated ”.
 
-#### 37. Amendments to Article 38[^key-f112a9503c3310c33c1f05a3c2b6a27e]
+#### 37. Amendments to Article 38[^c-f112a9503c3310c33c1f05a3c2b6a27e]
 
 (1) Article 38 (other simplified procedures) is amended as follows.
 
@@ -800,15 +800,15 @@ In Article 37 (use of simplified procedures by micro-enterprises), for “harmon
 
 ### PART 8 — Amendments to Chapter 7
 
-#### 38. Amendment to the heading of Chapter 7[^key-aaf9f0e98a77c3c709677a9a5e0409e1]
+#### 38. Amendment to the heading of Chapter 7[^c-aaf9f0e98a77c3c709677a9a5e0409e1]
 
 For the heading of Chapter 7, substitute “ Approved Bodies ”.
 
-#### 39. Omission of Article 39[^key-d009445b3c514e6f0cee97a9687ccfa1]
+#### 39. Omission of Article 39[^c-d009445b3c514e6f0cee97a9687ccfa1]
 
 Omit Article 39 (notification).
 
-#### 40. Insertion of new Article 39A[^key-421f51b8d712f04e0e20981437cb0e8b]
+#### 40. Insertion of new Article 39A[^c-421f51b8d712f04e0e20981437cb0e8b]
 
 After Article 39 (omitted by paragraph 39), insert—
 
@@ -817,7 +817,7 @@ After Article 39 (omitted by paragraph 39), insert—
 > **1.** An “approved body” is a body which:
 >
 > - (a) is approved by the Secretary of State under Article 48 as a body authorised to carry out third party tasks in the process of assessment and verification of constancy of performance under this Regulation; or
-> - (b) immediately before IP completion day[^key-7703a244d3cda47dfb04eddc8665fbf6] was a notified body in respect of which the Secretary of State had taken no action under Article 50(1) (as it had effect immediately before IP completion day) to suspend or withdraw the body's status as a notified body.
+> - (b) immediately before IP completion day[^c-7703a244d3cda47dfb04eddc8665fbf6] was a notified body in respect of which the Secretary of State had taken no action under Article 50(1) (as it had effect immediately before IP completion day) to suspend or withdraw the body's status as a notified body.
 >
 > **2.** Paragraph 1 has effect subject to Article 50(1) (restriction, suspension or withdrawal of approval).
 >
@@ -828,7 +828,7 @@ After Article 39 (omitted by paragraph 39), insert—
 
 .
 
-#### 41. Amendments to Article 40[^key-39232c9e6704aeecae4306393a8ef891]
+#### 41. Amendments to Article 40[^c-39232c9e6704aeecae4306393a8ef891]
 
 (1) Article 40 (notifying authorities) is amended as follows.
 
@@ -860,11 +860,11 @@ After Article 39 (omitted by paragraph 39), insert—
 
 (5) In paragraph 4, for “notifying authority” substitute “ Secretary of State ”.
 
-#### 42. Omission of Articles 41 and 42[^key-a3561210b3b0a3c31a0e14396368f640]
+#### 42. Omission of Articles 41 and 42[^c-a3561210b3b0a3c31a0e14396368f640]
 
 Omit Articles 41 (requirements relating to notifying authorities) and 42 (information obligation for Member States).
 
-#### 43. Amendments to Article 43[^key-90c032e4c9b4ed5f2d245bb4a8f6299e]
+#### 43. Amendments to Article 43[^c-90c032e4c9b4ed5f2d245bb4a8f6299e]
 
 (1) Article 43 (requirements for notified bodies) is amended as follows.
 
@@ -905,7 +905,7 @@ Omit Articles 41 (requirements relating to notifying authorities) and 42 (inform
 - (a) for “A notified” substitute “ An approved ”;
 - (b) for “notified”, in the second place it occurs, substitute “ approved ”.
 
-#### 44. Amendments to Article 44[^key-af21e8a2cb562f692c5cb31f08e2069f]
+#### 44. Amendments to Article 44[^c-af21e8a2cb562f692c5cb31f08e2069f]
 
 In Article 44 (presumption of conformity)—
 
@@ -913,7 +913,7 @@ In Article 44 (presumption of conformity)—
 - (b) for “harmonised”, in both places, substitute “ designated ”;
 - (c) omit the words from “, the references” to “*Union*,”.
 
-#### 45. Amendments to Article 45[^key-9f4455f71b26c15d4eb8ec3497cc4652]
+#### 45. Amendments to Article 45[^c-9f4455f71b26c15d4eb8ec3497cc4652]
 
 (1) Article 45 (subsidiaries and subcontractors of notified bodies) is amended as follows.
 
@@ -931,11 +931,11 @@ In Article 44 (presumption of conformity)—
 - (a) for “notified” substitute “ approved ”;
 - (b) for “notifying authority” substitute “ Secretary of State ”.
 
-#### 46. Amendments to Article 46[^key-5570213f4ba5a2a46b6e9b7e9a043ae7]
+#### 46. Amendments to Article 46[^c-5570213f4ba5a2a46b6e9b7e9a043ae7]
 
 In Article 46 (use of facilities outside the testing laboratory of the notified body), for “notified”, in each place it occurs (including the heading) substitute “ approved ”.
 
-#### 47. Amendments to Article 47[^key-45bea591f6485f7ba7dfc3fa42edb7e5]
+#### 47. Amendments to Article 47[^c-45bea591f6485f7ba7dfc3fa42edb7e5]
 
 (1) Article 47 (applications for notification) is amended as follows.
 
@@ -953,7 +953,7 @@ In Article 46 (use of facilities outside the testing laboratory of the notified 
 
 (5) In paragraph 3, for “notifying authority” substitute “ Secretary of State ”.
 
-#### 48. Amendments to Article 48[^key-125c958bbdb091bd5e80210f5071430d]
+#### 48. Amendments to Article 48[^c-125c958bbdb091bd5e80210f5071430d]
 
 (1) Article 48 (notification procedure) is amended as follows.
 
@@ -970,7 +970,7 @@ In Article 46 (use of facilities outside the testing laboratory of the notified 
 
 (6) Omit paragraphs 4 to 6.
 
-#### 49. Amendments to Article 49[^key-e4eff8390a2cfdc4b60db1b68ab3da55]
+#### 49. Amendments to Article 49[^c-e4eff8390a2cfdc4b60db1b68ab3da55]
 
 (1) Article 49 (identification numbers and lists of notified bodies) is amended as follows.
 
@@ -996,7 +996,7 @@ In Article 46 (use of facilities outside the testing laboratory of the notified 
 
 .
 
-#### 50. Substitution of Article 50[^key-f16098a7b3a3e6c6a9eedc72562ac832]
+#### 50. Substitution of Article 50[^c-f16098a7b3a3e6c6a9eedc72562ac832]
 
 For Article 50 (changes to the notification), substitute—
 
@@ -1008,11 +1008,11 @@ For Article 50 (changes to the notification), substitute—
 
 .
 
-#### 51. Omission of Article 51[^key-b0d56a57e3e76dc1a730d54ed1d1a787]
+#### 51. Omission of Article 51[^c-b0d56a57e3e76dc1a730d54ed1d1a787]
 
 Omit Article 51 (challenge of the competence of notified bodies).
 
-#### 52. Amendments to Article 52[^key-8f7ad5b5b99bd2178add70b5b3930abe]
+#### 52. Amendments to Article 52[^c-8f7ad5b5b99bd2178add70b5b3930abe]
 
 (1) Article 52 (operational obligations for notified bodies) is amended as follows.
 
@@ -1022,7 +1022,7 @@ Omit Article 51 (challenge of the competence of notified bodies).
 
 (4) In paragraph 5, for “notified” substitute “ approved ”.
 
-#### 53. Amendments to Article 53[^key-60fcb596138929d608e80a8886781fe6]
+#### 53. Amendments to Article 53[^c-60fcb596138929d608e80a8886781fe6]
 
 (1) Article 53 (information obligations for notified bodies) is amended as follows.
 
@@ -1037,11 +1037,11 @@ Omit Article 51 (challenge of the competence of notified bodies).
 
 (4) In paragraph 2, for “notified”, in both places, substitute “ approved ”.
 
-#### 54. Omission of Article 54[^key-d1009111821165f6af8d268e2f54041a]
+#### 54. Omission of Article 54[^c-d1009111821165f6af8d268e2f54041a]
 
 Omit Article 54 (exchange of experience).
 
-#### 55. Substitution of Article 55[^key-c55805998d8ff115fedd773fff4233b8]
+#### 55. Substitution of Article 55[^c-c55805998d8ff115fedd773fff4233b8]
 
 For Article 55 (coordination of notified bodies) substitute—
 
@@ -1055,11 +1055,11 @@ For Article 55 (coordination of notified bodies) substitute—
 
 ### PART 9 — Amendments to Chapter 8
 
-#### 56. Amendment to the heading of Chapter 8[^key-d9dbb1ac9ceee750ada4ac497dd548ac]
+#### 56. Amendment to the heading of Chapter 8[^c-d9dbb1ac9ceee750ada4ac497dd548ac]
 
 In the heading of Chapter 8, omit “and safeguard procedures”.
 
-#### 57. Amendments to Article 56[^key-4cae4c34c99d7440494949cc05ea98c9]
+#### 57. Amendments to Article 56[^c-4cae4c34c99d7440494949cc05ea98c9]
 
 (1) Article 56 (procedure to deal at national level with construction products presenting a risk) is amended as follows.
 
@@ -1086,18 +1086,18 @@ In the heading of Chapter 8, omit “and safeguard procedures”.
 
 (6) Omit paragraphs 5 to 8.
 
-#### 58. Omission of Article 57[^key-8c842b8c468db26de7e7187c8db434e1]
+#### 58. Omission of Article 57[^c-8c842b8c468db26de7e7187c8db434e1]
 
 Omit Article 57 (Union safeguard procedure).
 
-#### 59. Amendments to Article 58[^key-3b2609ba31b24c08dec927b5a65a5afc]
+#### 59. Amendments to Article 58[^c-3b2609ba31b24c08dec927b5a65a5afc]
 
 In Article 58 (complying construction products which nevertheless present a risk to health and safety)—
 
 - (a) in paragraph 1, for “a Member State” substitute “ a market surveillance authority ”;
 - (b) omit paragraphs 2 to 5.
 
-#### 60. Amendments to Article 59[^key-839cb6be6dea99ebb3c08f552bb1fb06]
+#### 60. Amendments to Article 59[^c-839cb6be6dea99ebb3c08f552bb1fb06]
 
 (1) Article 59 (formal non-compliance) is amended as follows.
 
@@ -1108,7 +1108,7 @@ In Article 58 (complying construction products which nevertheless present a risk
 
 (3) In paragraph 2, for “Member State” substitute “ market surveillance authority ”.
 
-#### 61. Insertion of new Article 59A[^key-fb11a3db2b1eb32fd0a6c69052f3accf]
+#### 61. Insertion of new Article 59A[^c-fb11a3db2b1eb32fd0a6c69052f3accf]
 
 After Article 59, insert—
 
@@ -1116,7 +1116,7 @@ After Article 59, insert—
 >
 > **1.** Without prejudice to Article 56, where a market surveillance authority considers an economic operator is seeking to rely on provisions in Article 16A, 16B or 16C in order to comply with the requirements of this Regulation and makes one of the following findings, it must require the relevant economic operator to put an end to the non-compliance concerned:
 >
-> - (a)[^key-cf3f11d5d5f3535be7ed1cb8357b38e2] the CE marking, or in the case of a product to which regulation 4(2)(b) of the Construction Products (Amendment etc.) (EU Exit) Regulations 2020 applies, the CE marking accompanied by the UK(NI) indication, has not been affixed in accordance with Article 8(2) of the EU Construction Products Regulation;
+> - (a)[^c-cf3f11d5d5f3535be7ed1cb8357b38e2] the CE marking, or in the case of a product to which regulation 4(2)(b) of the Construction Products (Amendment etc.) (EU Exit) Regulations 2020 applies, the CE marking accompanied by the UK(NI) indication, has not been affixed in accordance with Article 8(2) of the EU Construction Products Regulation;
 > - (b) the CE marking, or in the case of a product to which that regulation 4(2)(b) applies, the CE marking accompanied by the UK(NI) indication, has been affixed in breach of Article 8 or 9 of the EU Construction Products Regulation;
 > - (c) the declaration of performance has not been drawn up in accordance with Articles 4 and 6 of the EU Construction Products Regulation and Article 7 of this Regulation (as modified by Article 16A);
 > - (d) the technical documentation referred to in the second subparagraph of Article 11(1) of the EU Construction Products Regulation is either not available or not complete.
@@ -1143,7 +1143,7 @@ After Article 59, insert—
 
 ### PART 10 — Amendments to Chapter 9
 
-#### 62. Substitution of Article 60[^key-886d2bf80a1806fa385a430c3d237417]
+#### 62. Substitution of Article 60[^c-886d2bf80a1806fa385a430c3d237417]
 
 For Article 60 (delegated acts), substitute—
 
@@ -1175,21 +1175,21 @@ For Article 60 (delegated acts), substitute—
 
 .
 
-#### 63. Omission of Articles 61 to 64[^key-031f0e5a6508cb8cf2b7953fa55d90f0]
+#### 63. Omission of Articles 61 to 64[^c-031f0e5a6508cb8cf2b7953fa55d90f0]
 
 Omit Articles 61 (exercise of the delegation) to 64 (Committee).
 
-#### 64. Amendments to Article 66[^key-cc6c1cf1f8d658ea13633310d20b595e]
+#### 64. Amendments to Article 66[^c-cc6c1cf1f8d658ea13633310d20b595e]
 
 In Article 66 (transitional provisions), omit paragraphs 2 to 4.
 
-#### 65. Omission of Articles 67 and 68[^key-770ac2413029e0d364d6e6376c2632c8]
+#### 65. Omission of Articles 67 and 68[^c-770ac2413029e0d364d6e6376c2632c8]
 
 Omit Articles 67 (reporting by the Commission) and 68 (entry into force).
 
 ### PART 11 — Amendments to the Annexes
 
-#### 66. Substitution of Annex 2[^key-36cf19739f80855c6b4e5e09e631c2d8]
+#### 66. Substitution of Annex 2[^c-36cf19739f80855c6b4e5e09e631c2d8]
 
 For Annex 2 (procedure for adopting a European Assessment Document), substitute—
 
@@ -1235,7 +1235,7 @@ For Annex 2 (procedure for adopting a European Assessment Document), substitute�
 >
 > **8. Amendments and adoption of a UK Assessment Document**
 >
-> The responsible TAB must communicate the draft UK Assessment Document to the manufacturer. The manufacturer has 21 days[^key-871fdfb3fc12f3cb674a9e87006287e6] to provide representations to the responsible TAB. Thereafter, the responsible TAB must:
+> The responsible TAB must communicate the draft UK Assessment Document to the manufacturer. The manufacturer has 21 days[^c-871fdfb3fc12f3cb674a9e87006287e6] to provide representations to the responsible TAB. Thereafter, the responsible TAB must:
 >
 > - (a) consider any representations from the manufacturer with the working group referred to in section 2 and agree any changes to the draft UK Assessment Document with that group;
 > - (b) if applicable, inform the manufacturer as to how the manufacturer's reactions have been taken into account;
@@ -1244,7 +1244,7 @@ For Annex 2 (procedure for adopting a European Assessment Document), substitute�
 >
 > If, within 21 days of receipt, the Secretary of State provides observations to the responsible TAB on the draft UK Assessment Document, the responsible TAB, after it and any relevant TABs have been given the opportunity to comment, must amend the draft accordingly and must send a copy of the adopted UK Assessment Document to the manufacturer and to the Secretary of State.
 >
-> [^key-431f12d497fb2099d7390ad0734e2378]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> [^c-431f12d497fb2099d7390ad0734e2378]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **9. Final UK Assessment Document to be published**
 >
@@ -1260,7 +1260,7 @@ For Annex 2 (procedure for adopting a European Assessment Document), substitute�
 
 .
 
-#### 67. Amendments to Annex 3[^key-9b8590f25924ffd3e4204eddadde670a]
+#### 67. Amendments to Annex 3[^c-9b8590f25924ffd3e4204eddadde670a]
 
 (1) Annex 3 (declaration of performance) is amended as follows.
 
@@ -1274,11 +1274,11 @@ For Annex 2 (procedure for adopting a European Assessment Document), substitute�
 - (a) for “European”, in both places, substitute “ UK ”;
 - (b) for “Notified” substitute “ Approved ”.
 
-(4) In point 8, after “Regulation (EU) No 305/2011” insert “ as it has effect in the United Kingdom in respect of Great Britain[^key-e70b715876221f9d4ded3740d8a9a492]”.
+(4) In point 8, after “Regulation (EU) No 305/2011” insert “ as it has effect in the United Kingdom in respect of Great Britain[^c-e70b715876221f9d4ded3740d8a9a492]”.
 
 (5) In the instructions for drawing up the declaration of performance—
 
-- (a) in paragraph 1, after “Regulation (EU) 305/2011”, in the first place it occurs, insert “ as it has effect in the United Kingdom in respect of Great Britain[^key-5eb2642ababc0a12896673910818655c]”.
+- (a) in paragraph 1, after “Regulation (EU) 305/2011”, in the first place it occurs, insert “ as it has effect in the United Kingdom in respect of Great Britain[^c-5eb2642ababc0a12896673910818655c]”.
 - (b) in paragraph 2, in point 4—
   - (i) for “harmonised” substitute “ designated ”;
   - (ii) for “European” substitute “ UK ”.
@@ -1289,14 +1289,14 @@ For Annex 2 (procedure for adopting a European Assessment Document), substitute�
     - (bb) for “European”, in each place it occurs, substitute “ UK ”;
     - (cc) for “notified”, in each place it occurs, substitute “ approved ”.
 
-#### 68. Amendments to Annex 4[^key-96083207e97dc4037ac1c77707349fa7]
+#### 68. Amendments to Annex 4[^c-96083207e97dc4037ac1c77707349fa7]
 
 In Annex 4 (product areas and requirements for TABs), in table 2, in the requirement set out in the third column in relation to the first three competences—
 
-- (a)[^key-73f83f820099a061be0d0b05f6e36cf5] in point b, for “the Member States where it is designated” substitute “Great Britain”;
+- (a)[^c-73f83f820099a061be0d0b05f6e36cf5] in point b, for “the Member States where it is designated” substitute “Great Britain”;
 - (b) in point e, for “harmonised” substitute “ designated ”.
 
-#### 69. Amendments to Annex 5[^key-55382ceedc4e85ced2baf4a3e21b80cc]
+#### 69. Amendments to Annex 5[^c-55382ceedc4e85ced2baf4a3e21b80cc]
 
 (1) Annex 5 (assessment and verification of constancy of performance) is amended as follows.
 
@@ -1313,19 +1313,19 @@ In Annex 4 (product areas and requirements for TABs), in table 2, in the require
 
 ### PART 12 — Transitional and saving provisions in relation to EU Exit
 
-#### 70. Transitional provision in respect of economic operators[^key-898edda4f0054e0f52f8067f48faf8a1]
+#### 70. Transitional provision in respect of economic operators[^c-898edda4f0054e0f52f8067f48faf8a1]
 
-(1) Subject to sub-paragraph (2), where a construction product was made available on the market of the United Kingdom during the pre-exit period, despite the amendments made by this Schedule, any obligation to which an economic operator was subject under the 2011 Regulation as it had effect immediately before IP completion day[^key-89e147e1ca1149bdbb314e4b13b02b25], continues to have effect as it did immediately before IP completion day, in relation to that product.
+(1) Subject to sub-paragraph (2), where a construction product was made available on the market of the United Kingdom during the pre-exit period, despite the amendments made by this Schedule, any obligation to which an economic operator was subject under the 2011 Regulation as it had effect immediately before IP completion day[^c-89e147e1ca1149bdbb314e4b13b02b25], continues to have effect as it did immediately before IP completion day, in relation to that product.
 
 (2) Sub-paragraph (1) does not apply to—
 
-- (a) any obligation to inform an authority established in a state which, after IP completion day[^key-c02024aeee5315eef2ff08360b2e0f3a], is an EEA state of any matter;
+- (a) any obligation to inform an authority established in a state which, after IP completion day[^c-c02024aeee5315eef2ff08360b2e0f3a], is an EEA state of any matter;
 - (b) any obligation to provide documentation to an authority referred to in paragraph (a); or
 - (c) any obligation to take action outside of the market of the United Kingdom in respect of that product.
 
-#### 71. Transitional provision in respect of market surveillance[^key-4450d1078c59303eddad434163e75f97]
+#### 71. Transitional provision in respect of market surveillance[^c-4450d1078c59303eddad434163e75f97]
 
-(1) Subject to the modifications in sub-paragraph (3), where a construction product was made available on the market of Great Britain[^key-5fd1ce7f83500287af92f81ae56352fc] during the pre-exit period, despite the amendments made by this Schedule, any obligation to which a market surveillance authority, or the United Kingdom as a member State, was subject under the specified provisions of the 2011 Regulation as they had effect immediately before IP completion day[^key-f84981eb44aeb1a3fd2c2c1d0c7c314f], continues to have effect as it did immediately before IP completion day, in relation to that product.
+(1) Subject to the modifications in sub-paragraph (3), where a construction product was made available on the market of Great Britain[^c-5fd1ce7f83500287af92f81ae56352fc] during the pre-exit period, despite the amendments made by this Schedule, any obligation to which a market surveillance authority, or the United Kingdom as a member State, was subject under the specified provisions of the 2011 Regulation as they had effect immediately before IP completion day[^c-f84981eb44aeb1a3fd2c2c1d0c7c314f], continues to have effect as it did immediately before IP completion day, in relation to that product.
 
 (2) The “specified provisions” are—
 
@@ -1338,13 +1338,13 @@ In Annex 4 (product areas and requirements for TABs), in table 2, in the require
 
 - (a) in Article 56(1)—
   - (i) the requirement on a market surveillance authority—
-    - (aa) to carry out an evaluation is also to apply where the authority takes action under Article 20 of Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/eur/2008/765) of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation [(EEC) No 339/93](https://www.legislation.gov.uk/eur/1993/339) as it has effect in the United Kingdom in respect of Great Britain[^key-b97dd3448cd2988beb89383ec0f3fb71] on or after exit day;
+    - (aa) to carry out an evaluation is also to apply where the authority takes action under Article 20 of Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/eur/2008/765) of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation [(EEC) No 339/93](https://www.legislation.gov.uk/eur/1993/339) as it has effect in the United Kingdom in respect of Great Britain[^c-b97dd3448cd2988beb89383ec0f3fb71] on or after exit day;
     - (bb) to inform the notified body is only to apply where it is a UK notified body;
-  - (ii) the reference to Article 21 of Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/eur/2008/765) is to be read as a reference to that Regulation as it has effect in the United Kingdom in respect of Great Britain on or after IP completion day[^key-8af29d0f76202451bd4d5ab7284193cb] ;
+  - (ii) the reference to Article 21 of Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/eur/2008/765) is to be read as a reference to that Regulation as it has effect in the United Kingdom in respect of Great Britain on or after IP completion day[^c-8af29d0f76202451bd4d5ab7284193cb] ;
 - (b) any obligation on the United Kingdom as a member State is to be read as an obligation on a market surveillance authority;
 - (c) in the first subparagraph of Article 56(4), the reference to “provisional” is to be read as if it were omitted.
 
-**72.**[^key-f3cd4141377bd04d5fae405f0d83387b] (1) Sub-paragraph (2) applies where a construction product was made available on the market of the United Kingdom during the pre-exit period and on or after IP completion day[^key-9bc67c3ff98bf6665b57db0e825a8192] —
+**72.**[^c-f3cd4141377bd04d5fae405f0d83387b] (1) Sub-paragraph (2) applies where a construction product was made available on the market of the United Kingdom during the pre-exit period and on or after IP completion day[^c-9bc67c3ff98bf6665b57db0e825a8192] —
 
 - (a) the manufacturer is required, or becomes aware that another economic operator is required, under the EU Construction Products Regulation to take corrective measures in relation to products on the market of the EU, or to withdraw or recall products from that market, and, if the United Kingdom had remained a member State, this requirement would have extended to the product made available on the market of the United Kingdom; or
 - (b) any certificate in relation to the product is suspended or withdrawn, or restricted to the extent that it is no longer valid for that product, under Article 52(4) or (5) of the EU Construction Products Regulation.
@@ -1352,32 +1352,32 @@ In Annex 4 (product areas and requirements for TABs), in table 2, in the require
 (2) Where this sub-paragraph applies—
 
 - (a) the manufacturer must inform a market surveillance authority and any economic operator who made the product available on the market of the United Kingdom during the pre-exit period of the action referred to in sub-paragraph (1)(a) or (b) which is required, or has been taken, under the EU Construction Products Regulation;
-- (b) the manufacturer and any other economic operator who made the product available on the market of the United Kingdom during the pre-exit period must take any action required under Article 11(7), Article 13(7) or Article 14(4) of the 2011 Regulation as it had effect immediately before IP completion day[^key-3d5c23480b203eaef9c0b4ba4626e62a].
+- (b) the manufacturer and any other economic operator who made the product available on the market of the United Kingdom during the pre-exit period must take any action required under Article 11(7), Article 13(7) or Article 14(4) of the 2011 Regulation as it had effect immediately before IP completion day[^c-3d5c23480b203eaef9c0b4ba4626e62a].
 
-#### 73. Transitional provision in respect of notified bodies and certificates[^key-1b984df4d41d0b0d7add8e9f0c7ffcbf]
+#### 73. Transitional provision in respect of notified bodies and certificates[^c-1b984df4d41d0b0d7add8e9f0c7ffcbf]
 
-(1) Subject to sub-paragraph (2), where a construction product was made available on the market of the United Kingdom during the pre-exit period, despite the amendments made by this Schedule, any obligation to which a UK notified body was subject under Articles 52 and 53 of the 2011 Regulation as they had effect immediately before IP completion day[^key-8c188e5efd0bc81e7a5d84140d68d857], continues to have effect as it did immediately before IP completion day, in relation to that product.
+(1) Subject to sub-paragraph (2), where a construction product was made available on the market of the United Kingdom during the pre-exit period, despite the amendments made by this Schedule, any obligation to which a UK notified body was subject under Articles 52 and 53 of the 2011 Regulation as they had effect immediately before IP completion day[^c-8c188e5efd0bc81e7a5d84140d68d857], continues to have effect as it did immediately before IP completion day, in relation to that product.
 
 (2) Sub-paragraph (1) does not apply to any requirement to inform a notified body which is not a UK notified body of any matter.
 
-**74.**[^key-62d2257dbcf19da98028a9e33f35f789] (1) Subject to sub-paragraph (2), where a construction product was made available on the market of the United Kingdom during the pre-exit period, any relevant certificate issued by a notified body in respect of that product which is valid immediately before IP completion day[^key-54458bce2f65b53b36dbdfa88c4cae22] is to remain valid, on or after IP completion day, for the purposes of the market of the United Kingdom.
+**74.**[^c-62d2257dbcf19da98028a9e33f35f789] (1) Subject to sub-paragraph (2), where a construction product was made available on the market of the United Kingdom during the pre-exit period, any relevant certificate issued by a notified body in respect of that product which is valid immediately before IP completion day[^c-54458bce2f65b53b36dbdfa88c4cae22] is to remain valid, on or after IP completion day, for the purposes of the market of the United Kingdom.
 
-(2) Sub-paragraph (1) is subject to any action which may be taken to restrict, suspend or withdraw the certificate on or after IP completion day[^key-c2b0128e3b81fca6c676e8c49cfb7071] by—
+(2) Sub-paragraph (1) is subject to any action which may be taken to restrict, suspend or withdraw the certificate on or after IP completion day[^c-c2b0128e3b81fca6c676e8c49cfb7071] by—
 
 - (a) a notified body under the EU Construction Products Regulation; or
 - (b) a UK notified body under Article 52 of the 2011 Regulation as it had effect immediately before IP completion day.
 
-#### 75. Transitional provision in respect of products not yet placed on the market during the pre-exit period[^key-5add7d1df79436587afbbcee8a6bd88e]
+#### 75. Transitional provision in respect of products not yet placed on the market during the pre-exit period[^c-5add7d1df79436587afbbcee8a6bd88e]
 
 Where during the pre-exit period—
 
 - (a) a construction product has not yet been placed on the market of the United Kingdom,
-- (b) a manufacturer, or a UK notified body, has carried out tasks or issued certification in relation to that product under Article 28 of, and Annex 5 to, the 2011 Regulation as they had effect immediately before IP completion day[^key-3de9bc5f5a4bedcd328659d5282c8ea8],
-- (c)[^key-258320a65c4d84a56dfa323f599ac1c9] the manufacturer intends to place the product on the market of Great Britain,
+- (b) a manufacturer, or a UK notified body, has carried out tasks or issued certification in relation to that product under Article 28 of, and Annex 5 to, the 2011 Regulation as they had effect immediately before IP completion day[^c-3de9bc5f5a4bedcd328659d5282c8ea8],
+- (c)[^c-258320a65c4d84a56dfa323f599ac1c9] the manufacturer intends to place the product on the market of Great Britain,
 
-the actions in sub-paragraph (b)[^key-c0c0ea6140dbbfc9e390d3a25530c09b] have effect as if they had been done under those provisions as they have effect in the United Kingdom in respect of Great Britain[^key-0584967e3fe83a0f68c90cdf9e7545dd] on or after IP completion day .
+the actions in sub-paragraph (b)[^c-c0c0ea6140dbbfc9e390d3a25530c09b] have effect as if they had been done under those provisions as they have effect in the United Kingdom in respect of Great Britain[^c-0584967e3fe83a0f68c90cdf9e7545dd] on or after IP completion day .
 
-#### 76. Saving provision in respect of pre-exit EU tertiary legislation[^key-48c33c5e7d1243a695e704bd4593cad9]
+#### 76. Saving provision in respect of pre-exit EU tertiary legislation[^c-48c33c5e7d1243a695e704bd4593cad9]
 
 Subject to the amendments made by Schedule 3 to these Regulations—
 
@@ -1385,13 +1385,13 @@ Subject to the amendments made by Schedule 3 to these Regulations—
 - (b) any implementing act adopted by the Commission under Article 26(3) of the 2011 Regulation, and
 - (c) any decision adopted by the Commission under the Construction Products Directive;
 
-which was in force immediately before IP completion day[^key-a128d7001d7e1bb4180474b1a5a9cbe8] is to be treated on or after IP completion day as if it was made by the Secretary of State under the 2011 Regulation.
+which was in force immediately before IP completion day[^c-a128d7001d7e1bb4180474b1a5a9cbe8] is to be treated on or after IP completion day as if it was made by the Secretary of State under the 2011 Regulation.
 
-#### 77. Interpretation of Part 12[^key-61c073d7def1fbdc10cc4d4486c775cc]
+#### 77. Interpretation of Part 12[^c-61c073d7def1fbdc10cc4d4486c775cc]
 
 In this Part—
 
-- “**construction product**” and “**economic operator**” have the same meaning as in the 2011 Regulation as it had effect immediately before IP completion day[^key-7b91dc449daae5e7f7d2140c2ba3aefc] ;
+- “**construction product**” and “**economic operator**” have the same meaning as in the 2011 Regulation as it had effect immediately before IP completion day[^c-7b91dc449daae5e7f7d2140c2ba3aefc] ;
 - “**the Construction Products Directive**” means Council Directive [89/106/EEC](https://www.legislation.gov.uk/eudr/1989/106) of 21 December 1988 on the approximation of laws, regulations and administrative provisions of the Member States relating to construction products [^c23684311];
 - “**EU Construction Products Regulation**” means Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive [89/106/EEC](https://www.legislation.gov.uk/eudr/1989/106) [^c23684321] as it has effect in EU law as amended from time to time;
 - “**make available on the market**” means the supply of a construction product for distribution or use on the market in the course of a commercial activity, whether in return for payment or free of charge (and related expressions must be construed accordingly);
@@ -1405,263 +1405,263 @@ In this Part—
 
 ## Annotations
 
-[^key-c89747dc099161f4633f6fd9ccbb6fab]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2019/465/schedule/1) heading inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/2)
+[^c-c89747dc099161f4633f6fd9ccbb6fab]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2019/465/schedule/1) heading inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/2)
 
-[^key-3f4805959d1c22c9f86f3cf4f9d82fbd]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3f4805959d1c22c9f86f3cf4f9d82fbd]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c1754effe4b29783e0e8c862bf2948a2]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/1) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/3)
+[^c-c1754effe4b29783e0e8c862bf2948a2]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/1) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/3)
 
-[^key-d9db75f5f1dde96ab7e417ab42312fea]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d9db75f5f1dde96ab7e417ab42312fea]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-61f71014f682dc0b2f62bddfdf83f33e]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/2) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/4)
+[^c-61f71014f682dc0b2f62bddfdf83f33e]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/2) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/4)
 
-[^key-ae8d88f018621ff4ac24f87010dcf280]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ae8d88f018621ff4ac24f87010dcf280]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-9635bc4ebdbf8c0795bf7a92933c607c]: Textual amendment: Words in [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/3/2) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(a)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/a)
+[^c-9635bc4ebdbf8c0795bf7a92933c607c]: Textual amendment: Words in [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/3/2) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(a)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/a)
 
 [^c23684241]: Marginal citation: OJ L 88, 4.4.2011, p. 5–43.
 
 [^c23684251]: Marginal citation: OJ L 316, 14.11.2012, p. 12–33.
 
-[^key-c6a797126068d833d38f7ed0747c7fd3]: Textual amendment: Words in [Sch. 1 para. 3(7)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/3/7) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(b)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/b)
+[^c-c6a797126068d833d38f7ed0747c7fd3]: Textual amendment: Words in [Sch. 1 para. 3(7)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/3/7) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(b)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/b)
 
 [^c23684261]: Marginal citation: OJ L 40, 11.2.1989, p. 12–26. Directive 89/106/EEC was repealed by Article 65 of Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products. Article 66(3) of Regulation (EU) No 305/2011, as it has effect in EU law, provides that guidelines for European technical approval published before 1 July 2013 in accordance with Article 11 of Directive 89/106/EEC may be used as European Assessment Documents.
 
-[^key-4b21f276f9c774ab85bcbda4a79e8299]: Textual amendment: Words in Sch. 1 para. 3(9) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/5/a)
+[^c-4b21f276f9c774ab85bcbda4a79e8299]: Textual amendment: Words in Sch. 1 para. 3(9) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/5/a)
 
 [^c23684271]: Marginal citation: OJ L 218, 13.8.2008, p. 30–47.
 
-[^key-c7e3fd45587f910e16e8f4b41c43c943]: Textual amendment: Words in Sch. 1 para. 3(10) inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/5/b)
+[^c-c7e3fd45587f910e16e8f4b41c43c943]: Textual amendment: Words in Sch. 1 para. 3(10) inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/5/b)
 
-[^key-5ec85aeb9c7e0c65d7600929b382d7bb]: Textual amendment: Sch. 1 para. 3(11) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 5(c)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/5/c)
+[^c-5ec85aeb9c7e0c65d7600929b382d7bb]: Textual amendment: Sch. 1 para. 3(11) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 5(c)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/5/c)
 
-[^key-af6e341d845c8b6a34560a1dd519995c]: Textual amendment: Words in [Sch. 1 para. 3(12)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/3/12) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(c)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/c)
+[^c-af6e341d845c8b6a34560a1dd519995c]: Textual amendment: Words in [Sch. 1 para. 3(12)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/3/12) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(c)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/c)
 
-[^key-7b399bf9111807042f18e86ccc6db38c]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-7b399bf9111807042f18e86ccc6db38c]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-0c9323518ce2628f6ef37b1534c07362]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-0c9323518ce2628f6ef37b1534c07362]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-b50244f821f5d5b8004f927d0e5560bc]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-b50244f821f5d5b8004f927d0e5560bc]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-66538dbcb1cb4750609aba34de6df0d5]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-66538dbcb1cb4750609aba34de6df0d5]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-18abbea9b1f1377ef77a9b4e26dcbdb6]: Textual amendment: Words in [Sch. 1 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/7/2/a) inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/6)
+[^c-18abbea9b1f1377ef77a9b4e26dcbdb6]: Textual amendment: Words in [Sch. 1 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/7/2/a) inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/6)
 
-[^key-aad5896e4ba107b74d1bfadc37144a87]: Textual amendment: Words in [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/7/3) inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/6)
+[^c-aad5896e4ba107b74d1bfadc37144a87]: Textual amendment: Words in [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/7/3) inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/6)
 
-[^key-f505a40db9a00885f2aa010e860b5b4c]: Commencement: Sch. 1 para. 8 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-f505a40db9a00885f2aa010e860b5b4c]: Commencement: Sch. 1 para. 8 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-85da5bbe827d2fd0612183cfd9b72dac]: Commencement: Sch. 1 para. 9 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-85da5bbe827d2fd0612183cfd9b72dac]: Commencement: Sch. 1 para. 9 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-4308db94443307e679a677096070a70b]: Commencement: Sch. 1 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4308db94443307e679a677096070a70b]: Commencement: Sch. 1 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23684281]: Marginal citation: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
 
-[^key-08884052680d09d9a0b1a378bb7f2a2c]: Textual amendment: Words in [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/10) inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/7/a)
+[^c-08884052680d09d9a0b1a378bb7f2a2c]: Textual amendment: Words in [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/10) inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/7/a)
 
-[^key-7c2da0210b247ef95486172958892e60]: Textual amendment: Words in [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/10) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/7/b)
+[^c-7c2da0210b247ef95486172958892e60]: Textual amendment: Words in [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/10) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/7/b)
 
-[^key-0c897e0ecf195919c7a3ea1a18ad6011]: Commencement: Sch. 1 para. 11 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-0c897e0ecf195919c7a3ea1a18ad6011]: Commencement: Sch. 1 para. 11 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-a7fe4de5725a65554a6171eb69b00f7e]: Commencement: Sch. 1 para. 12 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-a7fe4de5725a65554a6171eb69b00f7e]: Commencement: Sch. 1 para. 12 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-4f5d04839da6f4268e24d51e0e727914]: Commencement: Sch. 1 para. 13 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-4f5d04839da6f4268e24d51e0e727914]: Commencement: Sch. 1 para. 13 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-74ea7dad66c8871c2bb626703accd628]: Commencement: Sch. 1 para. 14 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-74ea7dad66c8871c2bb626703accd628]: Commencement: Sch. 1 para. 14 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-581b95bffaa4eb79e26c0c7f500b395c]: Commencement: Sch. 1 para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-581b95bffaa4eb79e26c0c7f500b395c]: Commencement: Sch. 1 para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-7a517839a29cb0f5e398eb16058db6a4]: Textual amendment: [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/15/2) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/8)
+[^c-7a517839a29cb0f5e398eb16058db6a4]: Textual amendment: [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/15/2) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/8)
 
-[^key-7bbfa091a891b8d35a5a85ae87b64c6c]: Commencement: Sch. 1 para. 16 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-7bbfa091a891b8d35a5a85ae87b64c6c]: Commencement: Sch. 1 para. 16 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-d4bd2b0aae0c471897f6e626a6fab573]: Commencement: Sch. 1 para. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d4bd2b0aae0c471897f6e626a6fab573]: Commencement: Sch. 1 para. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-519bd1ba7121b52cf4af111fd2fd4e53]: Textual amendment: Words in Sch. 1 para. 17 inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 9(a)(i)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/9/a/i)
+[^c-519bd1ba7121b52cf4af111fd2fd4e53]: Textual amendment: Words in Sch. 1 para. 17 inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 9(a)(i)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/9/a/i)
 
-[^key-f4e4d109b97dfaa44e10bc51145ec746]: Textual amendment: Words in Sch. 1 para. 17 inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 9(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/9/a/ii)
+[^c-f4e4d109b97dfaa44e10bc51145ec746]: Textual amendment: Words in Sch. 1 para. 17 inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 9(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/9/a/ii)
 
-[^key-380c972f2789fa15323afa9c0dd44d60]: Textual amendment: Words in Sch. 1 para. 17 inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 9(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/9/a/iii)
+[^c-380c972f2789fa15323afa9c0dd44d60]: Textual amendment: Words in Sch. 1 para. 17 inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 9(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/9/a/iii)
 
-[^key-dc420be4bf9c2baf77a653d80d7c9c8b]: Textual amendment: Words in Sch. 1 para. 17 substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/9/b)
+[^c-dc420be4bf9c2baf77a653d80d7c9c8b]: Textual amendment: Words in Sch. 1 para. 17 substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/9/b)
 
-[^key-ce1ef9d1334ee15617f094e941861393]: Textual amendment: Words in Sch. 1 para. 17 substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 9(c)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/9/c)
+[^c-ce1ef9d1334ee15617f094e941861393]: Textual amendment: Words in Sch. 1 para. 17 substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 9(c)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/9/c)
 
-[^key-833a92203444a39467e0bc8d01902746]: Commencement: Sch. 1 para. 18 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-833a92203444a39467e0bc8d01902746]: Commencement: Sch. 1 para. 18 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-2f9179c92a3d6a7bbec4a2130b07fd87]: Commencement: Sch. 1 para. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2f9179c92a3d6a7bbec4a2130b07fd87]: Commencement: Sch. 1 para. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-b2db8382175988ae7cd6608c837ebd5a]: Textual amendment: Words in Sch. 1 para. 19 substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(d)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/d)
+[^c-b2db8382175988ae7cd6608c837ebd5a]: Textual amendment: Words in Sch. 1 para. 19 substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(d)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/d)
 
-[^key-86687b236704bb9aec0399822dd871d8]: Commencement: Sch. 1 para. 20 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-86687b236704bb9aec0399822dd871d8]: Commencement: Sch. 1 para. 20 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-0c01c1e74012fd5a93b767bae3678505]: Commencement: Sch. 1 para. 21 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-0c01c1e74012fd5a93b767bae3678505]: Commencement: Sch. 1 para. 21 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-be70e5c8f41fec69a4bcb48a12dadc85]: Commencement: Sch. 1 para. 22 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-be70e5c8f41fec69a4bcb48a12dadc85]: Commencement: Sch. 1 para. 22 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-e2f7cc637bd935b8e2bb34b8ffeab0f4]: Commencement: Sch. 1 para. 23 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-e2f7cc637bd935b8e2bb34b8ffeab0f4]: Commencement: Sch. 1 para. 23 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-7b0b31331e2d25513c2a496f7885b24f]: Commencement: Sch. 1 para. 24 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-7b0b31331e2d25513c2a496f7885b24f]: Commencement: Sch. 1 para. 24 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-fefe68380b2b2d73bf1d421dd0c194e3]: Commencement: Sch. 1 para. 25 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-fefe68380b2b2d73bf1d421dd0c194e3]: Commencement: Sch. 1 para. 25 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
 [^c23684291]: Marginal citation: OJ L 40, 11.2.1989, p. 12–26.
 
-[^key-27a16d39d7416a56e35ee8ffc3efacdd]: Commencement: Sch. 1 para. 26 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-27a16d39d7416a56e35ee8ffc3efacdd]: Commencement: Sch. 1 para. 26 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-89a7261b7cdb8db0b195e3e10337998c]: Commencement: Sch. 1 para. 27 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-89a7261b7cdb8db0b195e3e10337998c]: Commencement: Sch. 1 para. 27 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-caf15f4652524f7c7dca4a1029685229]: Commencement: Sch. 1 para. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-caf15f4652524f7c7dca4a1029685229]: Commencement: Sch. 1 para. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-7f111f1fde4de022420b0553046ce339]: Textual amendment: Words in [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/28) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/10)
+[^c-7f111f1fde4de022420b0553046ce339]: Textual amendment: Words in [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/28) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/10)
 
-[^key-09905ac2bbf6c789cc4589a4d8540fcd]: Commencement: Sch. 1 para. 29 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-09905ac2bbf6c789cc4589a4d8540fcd]: Commencement: Sch. 1 para. 29 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-d1859e3a1dd63a2445138427be2c94a0]: Commencement: Sch. 1 para. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d1859e3a1dd63a2445138427be2c94a0]: Commencement: Sch. 1 para. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-a642adfd21f8d5f974efaaed0d089a41]: Textual amendment: Words in [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/30) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(e)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/e)
+[^c-a642adfd21f8d5f974efaaed0d089a41]: Textual amendment: Words in [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/30) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(e)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/e)
 
-[^key-7778fdd2c9f61fd81aa0418bb061ddfd]: Commencement: Sch. 1 para. 31 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-7778fdd2c9f61fd81aa0418bb061ddfd]: Commencement: Sch. 1 para. 31 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-55b080925401a3f21d731e9a8ea72024]: Commencement: Sch. 1 para. 32 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-55b080925401a3f21d731e9a8ea72024]: Commencement: Sch. 1 para. 32 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-cbcd5f42d1656fa3a615c584916eb6c8]: Commencement: Sch. 1 para. 33 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-cbcd5f42d1656fa3a615c584916eb6c8]: Commencement: Sch. 1 para. 33 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-be601027c427f57a9ab393cafa3c8f5e]: Commencement: Sch. 1 para. 34 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-be601027c427f57a9ab393cafa3c8f5e]: Commencement: Sch. 1 para. 34 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-b73b0a20bbb72a7c9278da94aa02552c]: Commencement: Sch. 1 para. 35 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-b73b0a20bbb72a7c9278da94aa02552c]: Commencement: Sch. 1 para. 35 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-d69f0dfce6cb85b7da703566f6e220d6]: Commencement: Sch. 1 para. 36 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-d69f0dfce6cb85b7da703566f6e220d6]: Commencement: Sch. 1 para. 36 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-f112a9503c3310c33c1f05a3c2b6a27e]: Commencement: Sch. 1 para. 37 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-f112a9503c3310c33c1f05a3c2b6a27e]: Commencement: Sch. 1 para. 37 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-aaf9f0e98a77c3c709677a9a5e0409e1]: Commencement: Sch. 1 para. 38 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-aaf9f0e98a77c3c709677a9a5e0409e1]: Commencement: Sch. 1 para. 38 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-d009445b3c514e6f0cee97a9687ccfa1]: Commencement: Sch. 1 para. 39 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-d009445b3c514e6f0cee97a9687ccfa1]: Commencement: Sch. 1 para. 39 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-421f51b8d712f04e0e20981437cb0e8b]: Commencement: Sch. 1 para. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-421f51b8d712f04e0e20981437cb0e8b]: Commencement: Sch. 1 para. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-7703a244d3cda47dfb04eddc8665fbf6]: Textual amendment: Words in [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/40) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(f)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/f)
+[^c-7703a244d3cda47dfb04eddc8665fbf6]: Textual amendment: Words in [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/40) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(f)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/f)
 
-[^key-39232c9e6704aeecae4306393a8ef891]: Commencement: Sch. 1 para. 41 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-39232c9e6704aeecae4306393a8ef891]: Commencement: Sch. 1 para. 41 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-a3561210b3b0a3c31a0e14396368f640]: Commencement: Sch. 1 para. 42 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-a3561210b3b0a3c31a0e14396368f640]: Commencement: Sch. 1 para. 42 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-90c032e4c9b4ed5f2d245bb4a8f6299e]: Commencement: Sch. 1 para. 43 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-90c032e4c9b4ed5f2d245bb4a8f6299e]: Commencement: Sch. 1 para. 43 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-af21e8a2cb562f692c5cb31f08e2069f]: Commencement: Sch. 1 para. 44 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-af21e8a2cb562f692c5cb31f08e2069f]: Commencement: Sch. 1 para. 44 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-9f4455f71b26c15d4eb8ec3497cc4652]: Commencement: Sch. 1 para. 45 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-9f4455f71b26c15d4eb8ec3497cc4652]: Commencement: Sch. 1 para. 45 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-5570213f4ba5a2a46b6e9b7e9a043ae7]: Commencement: Sch. 1 para. 46 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-5570213f4ba5a2a46b6e9b7e9a043ae7]: Commencement: Sch. 1 para. 46 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-45bea591f6485f7ba7dfc3fa42edb7e5]: Commencement: Sch. 1 para. 47 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-45bea591f6485f7ba7dfc3fa42edb7e5]: Commencement: Sch. 1 para. 47 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-125c958bbdb091bd5e80210f5071430d]: Commencement: Sch. 1 para. 48 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-125c958bbdb091bd5e80210f5071430d]: Commencement: Sch. 1 para. 48 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-e4eff8390a2cfdc4b60db1b68ab3da55]: Commencement: Sch. 1 para. 49 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-e4eff8390a2cfdc4b60db1b68ab3da55]: Commencement: Sch. 1 para. 49 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-f16098a7b3a3e6c6a9eedc72562ac832]: Commencement: Sch. 1 para. 50 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-f16098a7b3a3e6c6a9eedc72562ac832]: Commencement: Sch. 1 para. 50 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-b0d56a57e3e76dc1a730d54ed1d1a787]: Commencement: Sch. 1 para. 51 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-b0d56a57e3e76dc1a730d54ed1d1a787]: Commencement: Sch. 1 para. 51 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-8f7ad5b5b99bd2178add70b5b3930abe]: Commencement: Sch. 1 para. 52 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-8f7ad5b5b99bd2178add70b5b3930abe]: Commencement: Sch. 1 para. 52 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-60fcb596138929d608e80a8886781fe6]: Commencement: Sch. 1 para. 53 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-60fcb596138929d608e80a8886781fe6]: Commencement: Sch. 1 para. 53 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-d1009111821165f6af8d268e2f54041a]: Commencement: Sch. 1 para. 54 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-d1009111821165f6af8d268e2f54041a]: Commencement: Sch. 1 para. 54 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-c55805998d8ff115fedd773fff4233b8]: Commencement: Sch. 1 para. 55 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-c55805998d8ff115fedd773fff4233b8]: Commencement: Sch. 1 para. 55 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-d9dbb1ac9ceee750ada4ac497dd548ac]: Commencement: Sch. 1 para. 56 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-d9dbb1ac9ceee750ada4ac497dd548ac]: Commencement: Sch. 1 para. 56 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-4cae4c34c99d7440494949cc05ea98c9]: Commencement: Sch. 1 para. 57 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-4cae4c34c99d7440494949cc05ea98c9]: Commencement: Sch. 1 para. 57 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-8c842b8c468db26de7e7187c8db434e1]: Commencement: Sch. 1 para. 58 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-8c842b8c468db26de7e7187c8db434e1]: Commencement: Sch. 1 para. 58 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-3b2609ba31b24c08dec927b5a65a5afc]: Commencement: Sch. 1 para. 59 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-3b2609ba31b24c08dec927b5a65a5afc]: Commencement: Sch. 1 para. 59 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-839cb6be6dea99ebb3c08f552bb1fb06]: Commencement: Sch. 1 para. 60 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-839cb6be6dea99ebb3c08f552bb1fb06]: Commencement: Sch. 1 para. 60 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-fb11a3db2b1eb32fd0a6c69052f3accf]: Commencement: Sch. 1 para. 61 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-fb11a3db2b1eb32fd0a6c69052f3accf]: Commencement: Sch. 1 para. 61 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-cf3f11d5d5f3535be7ed1cb8357b38e2]: Textual amendment: Words in Sch. 1 para. 61 substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/11)
+[^c-cf3f11d5d5f3535be7ed1cb8357b38e2]: Textual amendment: Words in Sch. 1 para. 61 substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/11)
 
-[^key-886d2bf80a1806fa385a430c3d237417]: Commencement: Sch. 1 para. 62 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-886d2bf80a1806fa385a430c3d237417]: Commencement: Sch. 1 para. 62 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-031f0e5a6508cb8cf2b7953fa55d90f0]: Commencement: Sch. 1 para. 63 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-031f0e5a6508cb8cf2b7953fa55d90f0]: Commencement: Sch. 1 para. 63 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-cc6c1cf1f8d658ea13633310d20b595e]: Commencement: Sch. 1 para. 64 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-cc6c1cf1f8d658ea13633310d20b595e]: Commencement: Sch. 1 para. 64 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-770ac2413029e0d364d6e6376c2632c8]: Commencement: Sch. 1 para. 65 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-770ac2413029e0d364d6e6376c2632c8]: Commencement: Sch. 1 para. 65 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-36cf19739f80855c6b4e5e09e631c2d8]: Commencement: Sch. 1 para. 66 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-36cf19739f80855c6b4e5e09e631c2d8]: Commencement: Sch. 1 para. 66 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-871fdfb3fc12f3cb674a9e87006287e6]: Textual amendment: Words in Sch. 1 para. 66 substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/12/a)
+[^c-871fdfb3fc12f3cb674a9e87006287e6]: Textual amendment: Words in Sch. 1 para. 66 substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/12/a)
 
-[^key-431f12d497fb2099d7390ad0734e2378]: Textual amendment: Words in Sch. 1 para. 66 omitted (31.12.2020 immediately before S.I. 2019/465 comes into force) by virtue of [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 12(b)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/12/b)
+[^c-431f12d497fb2099d7390ad0734e2378]: Textual amendment: Words in Sch. 1 para. 66 omitted (31.12.2020 immediately before S.I. 2019/465 comes into force) by virtue of [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 12(b)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/12/b)
 
-[^key-9b8590f25924ffd3e4204eddadde670a]: Commencement: Sch. 1 para. 67 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9b8590f25924ffd3e4204eddadde670a]: Commencement: Sch. 1 para. 67 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-e70b715876221f9d4ded3740d8a9a492]: Textual amendment: Words in Sch. 1 para. 67(4) inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/13)
+[^c-e70b715876221f9d4ded3740d8a9a492]: Textual amendment: Words in Sch. 1 para. 67(4) inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/13)
 
-[^key-5eb2642ababc0a12896673910818655c]: Textual amendment: Words in Sch. 1 para. 67(5) inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/13)
+[^c-5eb2642ababc0a12896673910818655c]: Textual amendment: Words in Sch. 1 para. 67(5) inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/13)
 
-[^key-96083207e97dc4037ac1c77707349fa7]: Commencement: Sch. 1 para. 68 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-96083207e97dc4037ac1c77707349fa7]: Commencement: Sch. 1 para. 68 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-73f83f820099a061be0d0b05f6e36cf5]: Textual amendment: [Sch. 1 para. 68(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/68/a) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/14)
+[^c-73f83f820099a061be0d0b05f6e36cf5]: Textual amendment: [Sch. 1 para. 68(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/68/a) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/14)
 
-[^key-55382ceedc4e85ced2baf4a3e21b80cc]: Commencement: Sch. 1 para. 69 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-55382ceedc4e85ced2baf4a3e21b80cc]: Commencement: Sch. 1 para. 69 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-898edda4f0054e0f52f8067f48faf8a1]: Commencement: Sch. 1 para. 70 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-898edda4f0054e0f52f8067f48faf8a1]: Commencement: Sch. 1 para. 70 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-89e147e1ca1149bdbb314e4b13b02b25]: Textual amendment: Words in [Sch. 1 para. 70(1)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/70/1) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(g)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/g)
+[^c-89e147e1ca1149bdbb314e4b13b02b25]: Textual amendment: Words in [Sch. 1 para. 70(1)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/70/1) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(g)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/g)
 
-[^key-c02024aeee5315eef2ff08360b2e0f3a]: Textual amendment: Words in [Sch. 1 para. 70(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/70/2) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(g)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/g)
+[^c-c02024aeee5315eef2ff08360b2e0f3a]: Textual amendment: Words in [Sch. 1 para. 70(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/70/2) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(g)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/g)
 
-[^key-4450d1078c59303eddad434163e75f97]: Commencement: Sch. 1 para. 71 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4450d1078c59303eddad434163e75f97]: Commencement: Sch. 1 para. 71 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5fd1ce7f83500287af92f81ae56352fc]: Textual amendment: Words in Sch. 1 para. 71(1) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 15(a)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/15/a)
+[^c-5fd1ce7f83500287af92f81ae56352fc]: Textual amendment: Words in Sch. 1 para. 71(1) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 15(a)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/15/a)
 
-[^key-f84981eb44aeb1a3fd2c2c1d0c7c314f]: Textual amendment: Words in [Sch. 1 para. 71(1)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/71/1) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(h)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/h)
+[^c-f84981eb44aeb1a3fd2c2c1d0c7c314f]: Textual amendment: Words in [Sch. 1 para. 71(1)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/71/1) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(h)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/h)
 
-[^key-b97dd3448cd2988beb89383ec0f3fb71]: Textual amendment: Words in Sch. 1 para. 71(3)(a) inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 15(b)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/15/b)
+[^c-b97dd3448cd2988beb89383ec0f3fb71]: Textual amendment: Words in Sch. 1 para. 71(3)(a) inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 15(b)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/15/b)
 
-[^key-8af29d0f76202451bd4d5ab7284193cb]: Textual amendment: Words in [Sch. 1 para. 71(3)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/71/3) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(h)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/h)
+[^c-8af29d0f76202451bd4d5ab7284193cb]: Textual amendment: Words in [Sch. 1 para. 71(3)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/71/3) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(h)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/h)
 
-[^key-f3cd4141377bd04d5fae405f0d83387b]: Commencement: Sch. 1 para. 72 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f3cd4141377bd04d5fae405f0d83387b]: Commencement: Sch. 1 para. 72 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-9bc67c3ff98bf6665b57db0e825a8192]: Textual amendment: Words in [Sch. 1 para. 72(1)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/72/1) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(i)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/i)
+[^c-9bc67c3ff98bf6665b57db0e825a8192]: Textual amendment: Words in [Sch. 1 para. 72(1)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/72/1) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(i)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/i)
 
-[^key-3d5c23480b203eaef9c0b4ba4626e62a]: Textual amendment: Words in [Sch. 1 para. 72(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/72/2) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(i)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/i)
+[^c-3d5c23480b203eaef9c0b4ba4626e62a]: Textual amendment: Words in [Sch. 1 para. 72(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/72/2) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(i)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/i)
 
-[^key-1b984df4d41d0b0d7add8e9f0c7ffcbf]: Commencement: Sch. 1 para. 73 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1b984df4d41d0b0d7add8e9f0c7ffcbf]: Commencement: Sch. 1 para. 73 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-8c188e5efd0bc81e7a5d84140d68d857]: Textual amendment: Words in [Sch. 1 para. 73(1)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/73/1) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(j)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/j)
+[^c-8c188e5efd0bc81e7a5d84140d68d857]: Textual amendment: Words in [Sch. 1 para. 73(1)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/73/1) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(j)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/j)
 
-[^key-62d2257dbcf19da98028a9e33f35f789]: Commencement: Sch. 1 para. 74 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-62d2257dbcf19da98028a9e33f35f789]: Commencement: Sch. 1 para. 74 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-54458bce2f65b53b36dbdfa88c4cae22]: Textual amendment: Words in [Sch. 1 para. 74(1)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/74/1) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(k)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/k)
+[^c-54458bce2f65b53b36dbdfa88c4cae22]: Textual amendment: Words in [Sch. 1 para. 74(1)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/74/1) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(k)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/k)
 
-[^key-c2b0128e3b81fca6c676e8c49cfb7071]: Textual amendment: Words in [Sch. 1 para. 74(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/74/2) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(k)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/k)
+[^c-c2b0128e3b81fca6c676e8c49cfb7071]: Textual amendment: Words in [Sch. 1 para. 74(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/74/2) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(k)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/k)
 
-[^key-5add7d1df79436587afbbcee8a6bd88e]: Commencement: Sch. 1 para. 75 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5add7d1df79436587afbbcee8a6bd88e]: Commencement: Sch. 1 para. 75 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-3de9bc5f5a4bedcd328659d5282c8ea8]: Textual amendment: Words in [Sch. 1 para. 75](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/75) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(l)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/l)
+[^c-3de9bc5f5a4bedcd328659d5282c8ea8]: Textual amendment: Words in [Sch. 1 para. 75](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/75) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(l)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/l)
 
-[^key-258320a65c4d84a56dfa323f599ac1c9]: Textual amendment: Sch. 1 para. 75(c) inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 16(a)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/16/a)
+[^c-258320a65c4d84a56dfa323f599ac1c9]: Textual amendment: Sch. 1 para. 75(c) inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 16(a)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/16/a)
 
-[^key-c0c0ea6140dbbfc9e390d3a25530c09b]: Textual amendment: Words in Sch. 1 para. 75 substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 16(b)(i)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/16/b/i)
+[^c-c0c0ea6140dbbfc9e390d3a25530c09b]: Textual amendment: Words in Sch. 1 para. 75 substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 16(b)(i)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/16/b/i)
 
-[^key-0584967e3fe83a0f68c90cdf9e7545dd]: Textual amendment: Words in Sch. 1 para. 75 inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 16(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/16/b/ii)
+[^c-0584967e3fe83a0f68c90cdf9e7545dd]: Textual amendment: Words in Sch. 1 para. 75 inserted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 16(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/16/b/ii)
 
-[^key-48c33c5e7d1243a695e704bd4593cad9]: Commencement: Sch. 1 para. 76 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-48c33c5e7d1243a695e704bd4593cad9]: Commencement: Sch. 1 para. 76 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-a128d7001d7e1bb4180474b1a5a9cbe8]: Textual amendment: Words in [Sch. 1 para. 76](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/76) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(m)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/m)
+[^c-a128d7001d7e1bb4180474b1a5a9cbe8]: Textual amendment: Words in [Sch. 1 para. 76](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/76) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(m)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/m)
 
-[^key-61c073d7def1fbdc10cc4d4486c775cc]: Commencement: Sch. 1 para. 77 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-61c073d7def1fbdc10cc4d4486c775cc]: Commencement: Sch. 1 para. 77 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-7b91dc449daae5e7f7d2140c2ba3aefc]: Textual amendment: Words in [Sch. 1 para. 77](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/77) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(n)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/n)
+[^c-7b91dc449daae5e7f7d2140c2ba3aefc]: Textual amendment: Words in [Sch. 1 para. 77](https://www.legislation.gov.uk/uksi/2019/465/schedule/1/paragraph/77) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 1 para. 17(n)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/1/paragraph/17/n)
 
 [^c23684311]: Marginal citation: OJ L 40, 11.2.1989, p. 12–26. Directive 89/106/EEC was repealed by Article 65 of Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products.
 

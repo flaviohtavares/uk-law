@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Amendment of the Criminal Justice Act 1987[^key-293a42c364b654e822a9cbd8a6f5e3cd]
+## 75. Amendment of the Criminal Justice Act 1987[^c-293a42c364b654e822a9cbd8a6f5e3cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-293a42c364b654e822a9cbd8a6f5e3cd]: Commencement: Reg. 75 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-293a42c364b654e822a9cbd8a6f5e3cd]: Commencement: Reg. 75 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23691691]: Marginal citation: [1987 c. 38](https://www.legislation.gov.uk/ukpga/1987/38).
 

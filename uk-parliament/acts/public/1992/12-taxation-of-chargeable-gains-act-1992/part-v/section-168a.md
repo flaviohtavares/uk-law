@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168A. Postponing held-over gain: interests in UK land[^key-0810bb85c3b6adfcf039e7eb54e573ef]
+## 168A. Postponing held-over gain: interests in UK land[^c-0810bb85c3b6adfcf039e7eb54e573ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0810bb85c3b6adfcf039e7eb54e573ef]: Textual amendment: S. 168A substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 57](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/57)
+[^c-0810bb85c3b6adfcf039e7eb54e573ef]: Textual amendment: S. 168A substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 57](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/57)

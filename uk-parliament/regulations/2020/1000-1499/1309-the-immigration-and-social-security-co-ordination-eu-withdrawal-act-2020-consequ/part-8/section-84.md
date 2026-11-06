@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Transitional and further saving provision[^key-e778abcd11acd2b5bad3857a5197df6a][^M_I_e1863eb8-0d07-46ed-e0b2-dc096c9a9b46]
+## 84. Transitional and further saving provision[^c-e778abcd11acd2b5bad3857a5197df6a][^M_I_e1863eb8-0d07-46ed-e0b2-dc096c9a9b46]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 5 has effect.
 
 ## Annotations
 
-[^key-e778abcd11acd2b5bad3857a5197df6a]: Commencement: Reg. 84 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-e778abcd11acd2b5bad3857a5197df6a]: Commencement: Reg. 84 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_e1863eb8-0d07-46ed-e0b2-dc096c9a9b46]: Commencement: Reg. 84 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)

@@ -35,38 +35,38 @@ supplementing Regulation (EU) 2019/1700 of the European Parliament and of the Co
 
 (Text with EEA relevance) (revoked)
 
-[^key-a9b3abdc48a7bc1bcd5a668d40432c82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9b3abdc48a7bc1bcd5a668d40432c82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-a9b3abdc48a7bc1bcd5a668d40432c82]
+## Article 1. Subject matter[^c-a9b3abdc48a7bc1bcd5a668d40432c82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Data collection periods for domains and for associated detailed topics[^key-a9b3abdc48a7bc1bcd5a668d40432c82]
+## Article 2. Data collection periods for domains and for associated detailed topics[^c-a9b3abdc48a7bc1bcd5a668d40432c82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Data collection periods for ad-hoc subjects requested by users[^key-a9b3abdc48a7bc1bcd5a668d40432c82]
+## Article 3. Data collection periods for ad-hoc subjects requested by users[^c-a9b3abdc48a7bc1bcd5a668d40432c82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force[^key-a9b3abdc48a7bc1bcd5a668d40432c82]
+## Article 4. Entry into force[^c-a9b3abdc48a7bc1bcd5a668d40432c82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a9b3abdc48a7bc1bcd5a668d40432c82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9b3abdc48a7bc1bcd5a668d40432c82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Data collection periods[^key-a9b3abdc48a7bc1bcd5a668d40432c82]
+## ANNEX I — Data collection periods[^c-a9b3abdc48a7bc1bcd5a668d40432c82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-a9b3abdc48a7bc1bcd5a668d40432c82]
+## ANNEX II[^c-a9b3abdc48a7bc1bcd5a668d40432c82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a9b3abdc48a7bc1bcd5a668d40432c82]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 124](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/124)
+[^c-a9b3abdc48a7bc1bcd5a668d40432c82]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 124](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/124)

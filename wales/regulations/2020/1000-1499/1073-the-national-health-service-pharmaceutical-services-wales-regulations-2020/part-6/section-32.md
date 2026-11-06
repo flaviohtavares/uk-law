@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Lapse of outline consent and premises approval[^key-217bf552ec2cff985062b345eb6b4d05]
+## 32. Lapse of outline consent and premises approval[^c-217bf552ec2cff985062b345eb6b4d05]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-217bf552ec2cff985062b345eb6b4d05]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2020/1073/regulation/32) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-217bf552ec2cff985062b345eb6b4d05]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2020/1073/regulation/32) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

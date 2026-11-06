@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Council Regulation [(EEC) No 2136/89](https://www.legislation.gov.uk/eur/1989/2136) laying down common marketing standards for preserved sardines and trade descriptions for preserved sardines and sardine-type products[^key-e7123c4f792e52e1a15c6a37124ce93c]
+## 35. Council Regulation [(EEC) No 2136/89](https://www.legislation.gov.uk/eur/1989/2136) laying down common marketing standards for preserved sardines and trade descriptions for preserved sardines and sardine-type products[^c-e7123c4f792e52e1a15c6a37124ce93c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7123c4f792e52e1a15c6a37124ce93c]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-e7123c4f792e52e1a15c6a37124ce93c]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

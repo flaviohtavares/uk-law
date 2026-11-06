@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1A. Power to alter membership of court of directors[^key-f4456d83e896f490960b32dd027efbcd]
+## 1A. Power to alter membership of court of directors[^c-f4456d83e896f490960b32dd027efbcd]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4456d83e896f490960b32dd027efbcd]: Textual amendment: S. 1A inserted (6.7.2016 for specified purposes, 1.3.2017 in so far as not already in force) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/1/3), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/b); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/a)
+[^c-f4456d83e896f490960b32dd027efbcd]: Textual amendment: S. 1A inserted (6.7.2016 for specified purposes, 1.3.2017 in so far as not already in force) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/1/3), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/b); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39A. Lump sum test scheme requirements[^key-d8756a0b62a0e0863a94e6b92021223e]
+## 39A. Lump sum test scheme requirements[^c-d8756a0b62a0e0863a94e6b92021223e]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8756a0b62a0e0863a94e6b92021223e]: Textual amendment: [Reg. 39A](https://www.legislation.gov.uk/nisr/2010/122/regulation/39A) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a), [4(9)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/9)
+[^c-d8756a0b62a0e0863a94e6b92021223e]: Textual amendment: [Reg. 39A](https://www.legislation.gov.uk/nisr/2010/122/regulation/39A) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a), [4(9)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/9)

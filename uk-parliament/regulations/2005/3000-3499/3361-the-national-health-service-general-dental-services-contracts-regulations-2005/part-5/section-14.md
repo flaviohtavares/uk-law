@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to paragraph (1A),[^key-bcdaa371c8d8d7c876954af1eb56c242] for the purposes of section 28L of the Act [^c12418051] (requirement to provide certain primary dental services), the services which must be provided under a general dental services contract (“mandatory services”) are described in paragraphs (2) to (4).
+(1) Subject to paragraph (1A),[^c-bcdaa371c8d8d7c876954af1eb56c242] for the purposes of section 28L of the Act [^c12418051] (requirement to provide certain primary dental services), the services which must be provided under a general dental services contract (“mandatory services”) are described in paragraphs (2) to (4).
 
-(1A)[^key-8eb0ce08c3abd75a8ca6975109240487] The services described in paragraphs (2) to (4) are not required to be provided by the contractor during any period in respect of which the Care Quality Commission has suspended the contractor as a service provider under section 18 of the Health and Social Care Act 2008 (suspension of registration).
+(1A)[^c-8eb0ce08c3abd75a8ca6975109240487] The services described in paragraphs (2) to (4) are not required to be provided by the contractor during any period in respect of which the Care Quality Commission has suspended the contractor as a service provider under section 18 of the Health and Social Care Act 2008 (suspension of registration).
 
 (2) A contractor must provide to its patients, during the period specified in paragraph (3), all proper and necessary dental care and treatment which includes—
 
@@ -55,8 +55,8 @@ but it does not include additional services.
 
 ## Annotations
 
-[^key-bcdaa371c8d8d7c876954af1eb56c242]: Textual amendment: Words in reg. 14(1) inserted (1.4.2012) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/502)](https://www.legislation.gov.uk/uksi/2012/502), [regs. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2012/502/regulation/2/3/a)
+[^c-bcdaa371c8d8d7c876954af1eb56c242]: Textual amendment: Words in reg. 14(1) inserted (1.4.2012) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/502)](https://www.legislation.gov.uk/uksi/2012/502), [regs. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2012/502/regulation/2/3/a)
 
 [^c12418051]: Marginal citation: Section 28L was inserted into the Act by section 172(1) of the 2003 Act.
 
-[^key-8eb0ce08c3abd75a8ca6975109240487]: Textual amendment: Reg. 14(1A) inserted (1.4.2012) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/502)](https://www.legislation.gov.uk/uksi/2012/502), [regs. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2012/502/regulation/2/3/b)
+[^c-8eb0ce08c3abd75a8ca6975109240487]: Textual amendment: Reg. 14(1A) inserted (1.4.2012) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/502)](https://www.legislation.gov.uk/uksi/2012/502), [regs. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2012/502/regulation/2/3/b)

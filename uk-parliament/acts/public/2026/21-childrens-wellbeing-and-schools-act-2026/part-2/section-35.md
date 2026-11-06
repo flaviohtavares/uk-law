@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. School uniforms: limits on branded items[^key-6197fab773a34ecca1c984fb3455b16b][^key-57d49d797230d15b348e693ae306503a]
+## 35. School uniforms: limits on branded items[^c-6197fab773a34ecca1c984fb3455b16b][^c-57d49d797230d15b348e693ae306503a]
 
 *Extent: E+W*
 
@@ -75,6 +75,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6197fab773a34ecca1c984fb3455b16b]: Commencement: S. 35 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-6197fab773a34ecca1c984fb3455b16b]: Commencement: S. 35 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-57d49d797230d15b348e693ae306503a]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2026/21/section/35) in force at 1.9.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2026/803/regulation/5/b)
+[^c-57d49d797230d15b348e693ae306503a]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2026/21/section/35) in force at 1.9.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2026/803/regulation/5/b)

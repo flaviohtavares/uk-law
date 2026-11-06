@@ -22,11 +22,11 @@ summary: ''
 
 Schedule 11 makes provision about the following matters—
 
-- (a)[^key-60ddd6d572504ff70c85c5b3f9deda00] drink and drug driving offences;
+- (a)[^c-60ddd6d572504ff70c85c5b3f9deda00] drink and drug driving offences;
 - (b) bus lane contraventions.
 
 ## Annotations
 
 [^c22547871]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2015/20/section/52) in force for certain purposes at 26.5.2015, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-60ddd6d572504ff70c85c5b3f9deda00]: Commencement: [S. 52(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/52/a) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-60ddd6d572504ff70c85c5b3f9deda00]: Commencement: [S. 52(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/52/a) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)

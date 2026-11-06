@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Notice by the Director General of Fair Trading of intention to impose a prohibition etc. under the ISD Regulations or 2BCD Regulations[^key-1bca25ac6179f980710509c6413ed1d3]
+## 24. Notice by the Director General of Fair Trading of intention to impose a prohibition etc. under the ISD Regulations or 2BCD Regulations[^c-1bca25ac6179f980710509c6413ed1d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ the notice has effect as a notice under paragraph 2(2) of Schedule 16 that the D
 
 ## Annotations
 
-[^key-1bca25ac6179f980710509c6413ed1d3]: Commencement: Art. 24 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-1bca25ac6179f980710509c6413ed1d3]: Commencement: Art. 24 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00014]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).

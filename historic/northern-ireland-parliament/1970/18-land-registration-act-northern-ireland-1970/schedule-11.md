@@ -27,7 +27,7 @@ Section 87(1) and (2).
 - (a) the Towns Improvement (Ireland) Act 1854 [^m00027] or the Acts incorporated therewith; or
 - (b) the Public Health Acts (Northern Ireland) 1878 to 1967; or
 - (c) section 31 of the Planning and Housing Act (Northern Ireland) 1931 [^m00028]; or
-- (ca)[^key-e38d7d85f6bef349e32380ff8bef364c] section 68 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011; or
+- (ca)[^c-e38d7d85f6bef349e32380ff8bef364c] section 68 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011; or
 - (d) any other statutory provision, being a charge which takes effect by virtue of that provision; and
 
 any similar charge acquired either before, on or after the 2nd April 1951 by a local authority under any local or private Act.
@@ -103,7 +103,7 @@ any similar charge acquired either before, on or after the 2nd April 1951 by a l
 
 **26.**[^c16960321] Any Part I or Part II conditions, within the meaning of the Housing on Farms Act (Northern Ireland) 1972 [^m00040], attached to any premises by virtue of that Act.\]
 
-**27.**[^key-5b40f214d3ea097f3bb2fe0fa8c15019] Any of the following matters under the Planning Act (Northern Ireland) 2011—
+**27.**[^c-5b40f214d3ea097f3bb2fe0fa8c15019] Any of the following matters under the Planning Act (Northern Ireland) 2011—
 
 - (a) planning agreements under section 76;
 - (b) an entry in a list compiled under section 80;
@@ -145,7 +145,7 @@ any similar charge acquired either before, on or after the 2nd April 1951 by a l
 
 **37.**[^c16960371] Any of the following matters under the Housing (Northern Ireland) Order 1981 [^m00043]
 
-(za)[^key-73fe1dc19cd29c2aa9bbdcf07f1f6680] any charge created under Article 9;
+(za)[^c-73fe1dc19cd29c2aa9bbdcf07f1f6680] any charge created under Article 9;
 
 (a) any clearance order made under Article 33;
 
@@ -177,7 +177,7 @@ any similar charge acquired either before, on or after the 2nd April 1951 by a l
 
 **41.**[^c20334001] Any of the following matters under the Housing (Northern Ireland) Order 1992—
 
-(a)[^key-d39e5d1d73c23162f870f71346c71741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(a)[^c-d39e5d1d73c23162f870f71346c71741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (b) any grant condition registrable by virtue of Articles 57(5), 58(3), 59(3), 60(7) or 61(3);
 
@@ -185,11 +185,11 @@ any similar charge acquired either before, on or after the 2nd April 1951 by a l
 
 (d) any grant condition registrable by virtue of regulations made under Article 73(3);
 
-(e)[^key-1e821e87e56bdac4cc14707bfc678e6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(e)[^c-1e821e87e56bdac4cc14707bfc678e6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(f)[^key-57b27ab3cf32d24297673cfd15d4ef56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(f)[^c-57b27ab3cf32d24297673cfd15d4ef56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(g)[^key-4bce4a083aa84161776bb800735a257c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(g)[^c-4bce4a083aa84161776bb800735a257c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **42.**[^c20335261] Any agreement under regulation 13 of the Conservation (Natural Habitats, etc. ) Regulations (Northern Ireland) 1995 and any entry in the register under regulation 10 of those Regulations.
 
@@ -213,29 +213,29 @@ any similar charge acquired either before, on or after the 2nd April 1951 by a l
 
 **48.**[^c19059361] Any agreement under regulations under Article 29A of the Rates (Northern Ireland) Order 1977.
 
-**49.**[^key-b52bcdc0fc20231db90587bd69bfe6f6] The following matters under the High Hedges Act (Northern Ireland) 2011—
+**49.**[^c-b52bcdc0fc20231db90587bd69bfe6f6] The following matters under the High Hedges Act (Northern Ireland) 2011—
 
 - (a) a remedial notice which has effect under that Act;
 - (b) fees payable under section 4(4) of that Act and expenses recoverable under section 12 of that Act.
 
-**50.**[^key-b35c09ea02e09df6ae5176c67fdf4f94] Any notice given under paragraph (4) of Article 220 of the Water and Sewerage Services (Northern Ireland) Order 2006 where that notice relates to—
+**50.**[^c-b35c09ea02e09df6ae5176c67fdf4f94] Any notice given under paragraph (4) of Article 220 of the Water and Sewerage Services (Northern Ireland) Order 2006 where that notice relates to—
 
 - (a) any power under paragraph (1)(a) of that Article; or
 - (b) any power under paragraph (1)(c) of that Article where the exercise of that power is requisite for, or incidental to, the purposes of any work falling within paragraph (1)(a) of that Article.
 
-**51.**[^key-710122c500dc5932de66c2f3237186ba] Any order under section 5 of the Tobacco Retailers Act (Northern Ireland) 2014.
+**51.**[^c-710122c500dc5932de66c2f3237186ba] Any order under section 5 of the Tobacco Retailers Act (Northern Ireland) 2014.
 
-**51A.**[^key-f3ce3cb4075754ce5942232df6424f6b] A charge created under Article 13(7)(c) of the Welfare Reform and Work (Northern Ireland) Order 2016 (regulations charging land as security for loans for mortgage interest etc).
+**51A.**[^c-f3ce3cb4075754ce5942232df6424f6b] A charge created under Article 13(7)(c) of the Welfare Reform and Work (Northern Ireland) Order 2016 (regulations charging land as security for loans for mortgage interest etc).
 
-**52.**[^key-09eb320ea829383079e389aa63c21f9d] Any of the following notices under the Houses in Multiple Occupation Act (Northern Ireland) 2016—
+**52.**[^c-09eb320ea829383079e389aa63c21f9d] Any of the following notices under the Houses in Multiple Occupation Act (Northern Ireland) 2016—
 
 - (a) a rectification notice;
 - (b) a Part 4 notice;
 - (c) a notice under paragraph 5(3)(b) of Schedule 3 (notice of intention to carry out work in default).
 
-**53.**[^key-9d0caddefb644996aef38f6033875ffa] Any order or direction, affecting land in Northern Ireland, to which section 45 of the Space Industry Act 2018 applies.
+**53.**[^c-9d0caddefb644996aef38f6033875ffa] Any order or direction, affecting land in Northern Ireland, to which section 45 of the Space Industry Act 2018 applies.
 
-**54.**[^key-cf2e4f7785a9435d0fd189f489191eab] A charge created by Regulation 10(1) of the Electrical Safety Standards for Private Tenancies Regulations (Northern Ireland) 2024.
+**54.**[^c-cf2e4f7785a9435d0fd189f489191eab] A charge created by Regulation 10(1) of the Electrical Safety Standards for Private Tenancies Regulations (Northern Ireland) 2024.
 
 ## Annotations
 
@@ -243,7 +243,7 @@ any similar charge acquired either before, on or after the 2nd April 1951 by a l
 
 [^m00028]: Marginal citation: 1931 c.12
 
-[^key-e38d7d85f6bef349e32380ff8bef364c]: Textual amendment: Sch. 11 para. 1(ca) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 68(8)](https://www.legislation.gov.uk/nia/2011/23/section/68/8), [78](https://www.legislation.gov.uk/nia/2011/23/section/78) (with [s. 71](https://www.legislation.gov.uk/nia/2011/23/section/71)); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-e38d7d85f6bef349e32380ff8bef364c]: Textual amendment: Sch. 11 para. 1(ca) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 68(8)](https://www.legislation.gov.uk/nia/2011/23/section/68/8), [78](https://www.legislation.gov.uk/nia/2011/23/section/78) (with [s. 71](https://www.legislation.gov.uk/nia/2011/23/section/71)); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
 [^m00029]: Marginal citation: 1903 c.37
 
@@ -287,7 +287,7 @@ any similar charge acquired either before, on or after the 2nd April 1951 by a l
 
 [^m00040]: Marginal citation: 1972 c.3
 
-[^key-5b40f214d3ea097f3bb2fe0fa8c15019]: Textual amendment: Sch. 11 para. 27 substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [ss. 245](https://www.legislation.gov.uk/nia/2011/25/section/245), [254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1), [(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^c-5b40f214d3ea097f3bb2fe0fa8c15019]: Textual amendment: Sch. 11 para. 27 substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [ss. 245](https://www.legislation.gov.uk/nia/2011/25/section/245), [254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1), [(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
 
 [^c20272001]: Textual amendment: Sch. 11 para. 28 substituted (1.4.2007) by [Water and Sewerage Services (Northern Ireland) Order 2006 (S.I. 2006/3336 (N.I. 21))](https://www.legislation.gov.uk/nisi/2006/3336), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/3336/article/1/2), [308(1)](https://www.legislation.gov.uk/nisi/2006/3336/article/308/1), [Sch. 12 para. 9](https://www.legislation.gov.uk/nisi/2006/3336/schedule/12/paragraph/9) (with [arts. 8(8)](https://www.legislation.gov.uk/nisi/2006/3336/article/8/8),[121(3)](https://www.legislation.gov.uk/nisi/2006/3336/article/121/3), [307](https://www.legislation.gov.uk/nisi/2006/3336/article/307)); [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (with transitional, transitory and saving provisions in [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
@@ -307,7 +307,7 @@ any similar charge acquired either before, on or after the 2nd April 1951 by a l
 
 [^m00043]: Marginal citation: 1981 NI 3
 
-[^key-73fe1dc19cd29c2aa9bbdcf07f1f6680]: Textual amendment: Sch. 11 para. 37(za) inserted (9.7.2016) by [Housing (Amendment) Act (Northern Ireland) 2016 (c. 17)](https://www.legislation.gov.uk/nia/2016/17), [ss. 3(3)](https://www.legislation.gov.uk/nia/2016/17/section/3/3), [4](https://www.legislation.gov.uk/nia/2016/17/section/4)
+[^c-73fe1dc19cd29c2aa9bbdcf07f1f6680]: Textual amendment: Sch. 11 para. 37(za) inserted (9.7.2016) by [Housing (Amendment) Act (Northern Ireland) 2016 (c. 17)](https://www.legislation.gov.uk/nia/2016/17), [ss. 3(3)](https://www.legislation.gov.uk/nia/2016/17/section/3/3), [4](https://www.legislation.gov.uk/nia/2016/17/section/4)
 
 [^c16960381]: Textual amendment: [1992 NI 15](https://www.legislation.gov.uk/nisi/1992)
 
@@ -321,13 +321,13 @@ any similar charge acquired either before, on or after the 2nd April 1951 by a l
 
 [^c20334001]: Textual amendment: [1992 NI 15](https://www.legislation.gov.uk/nisi/1992)
 
-[^key-d39e5d1d73c23162f870f71346c71741]: Textual amendment: Sch. 11 para. 41(a) repealed (29.8.2020) by [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [ss. 1(3)(a)](https://www.legislation.gov.uk/nia/2020/5/section/1/3/a), [10(2)](https://www.legislation.gov.uk/nia/2020/5/section/10/2)
+[^c-d39e5d1d73c23162f870f71346c71741]: Textual amendment: Sch. 11 para. 41(a) repealed (29.8.2020) by [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [ss. 1(3)(a)](https://www.legislation.gov.uk/nia/2020/5/section/1/3/a), [10(2)](https://www.legislation.gov.uk/nia/2020/5/section/10/2)
 
-[^key-1e821e87e56bdac4cc14707bfc678e6a]: Textual amendment: Sch. 11 para. 41(e) repealed (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/8); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-1e821e87e56bdac4cc14707bfc678e6a]: Textual amendment: Sch. 11 para. 41(e) repealed (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/8); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-57b27ab3cf32d24297673cfd15d4ef56]: Textual amendment: Sch. 11 para. 41(f) repealed (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/8); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-57b27ab3cf32d24297673cfd15d4ef56]: Textual amendment: Sch. 11 para. 41(f) repealed (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/8); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-4bce4a083aa84161776bb800735a257c]: Textual amendment: Sch. 11 para. 41(g) repealed (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/8); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-4bce4a083aa84161776bb800735a257c]: Textual amendment: Sch. 11 para. 41(g) repealed (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/8); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
 [^c20335261]: Textual amendment: SR 1995/380
 
@@ -349,16 +349,16 @@ any similar charge acquired either before, on or after the 2nd April 1951 by a l
 
 [^c19059361]: Textual amendment: Sch. 11 para. 48 added (1.12.2006) by [Rates (Amendment) (Northern Ireland) Order 2006 (S.I. 2006/2954 (N.I. 18))](https://www.legislation.gov.uk/nisi/2006/2954), [arts. 1(3)(4)](https://www.legislation.gov.uk/nisi/2006/2954/article/1/3/4), [10(2)](https://www.legislation.gov.uk/nisi/2006/2954/article/10/2); [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(2)](https://www.legislation.gov.uk/nisr/2006/464/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2006/464/schedule/2)
 
-[^key-b52bcdc0fc20231db90587bd69bfe6f6]: Textual amendment: Sch. 11 para. 49 added (31.3.2012) by [High Hedges Act (Northern Ireland) 2011 (c. 21)](https://www.legislation.gov.uk/nia/2011/21), [ss. 15](https://www.legislation.gov.uk/nia/2011/21/section/15), [20](https://www.legislation.gov.uk/nia/2011/21/section/20) (with [s. 18](https://www.legislation.gov.uk/nia/2011/21/section/18)); [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/20/article/2/2)
+[^c-b52bcdc0fc20231db90587bd69bfe6f6]: Textual amendment: Sch. 11 para. 49 added (31.3.2012) by [High Hedges Act (Northern Ireland) 2011 (c. 21)](https://www.legislation.gov.uk/nia/2011/21), [ss. 15](https://www.legislation.gov.uk/nia/2011/21/section/15), [20](https://www.legislation.gov.uk/nia/2011/21/section/20) (with [s. 18](https://www.legislation.gov.uk/nia/2011/21/section/18)); [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/20/article/2/2)
 
-[^key-b35c09ea02e09df6ae5176c67fdf4f94]: Textual amendment: Sch. 11 para. 50 added (25.4.2013) by [Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013 (c. 6)](https://www.legislation.gov.uk/nia/2013/6), [s. 2](https://www.legislation.gov.uk/nia/2013/6/section/2)
+[^c-b35c09ea02e09df6ae5176c67fdf4f94]: Textual amendment: Sch. 11 para. 50 added (25.4.2013) by [Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013 (c. 6)](https://www.legislation.gov.uk/nia/2013/6), [s. 2](https://www.legislation.gov.uk/nia/2013/6/section/2)
 
-[^key-710122c500dc5932de66c2f3237186ba]: Textual amendment: Sch. 11 para. 51 added (1.7.2016) by [Tobacco Retailers Act (Northern Ireland) 2014 (c. 4)](https://www.legislation.gov.uk/nia/2014/4), [ss. 19](https://www.legislation.gov.uk/nia/2014/4/section/19), [25(2)](https://www.legislation.gov.uk/nia/2014/4/section/25/2); [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
+[^c-710122c500dc5932de66c2f3237186ba]: Textual amendment: Sch. 11 para. 51 added (1.7.2016) by [Tobacco Retailers Act (Northern Ireland) 2014 (c. 4)](https://www.legislation.gov.uk/nia/2014/4), [ss. 19](https://www.legislation.gov.uk/nia/2014/4/section/19), [25(2)](https://www.legislation.gov.uk/nia/2014/4/section/25/2); [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
 
-[^key-f3ce3cb4075754ce5942232df6424f6b]: Textual amendment: [Sch. 11 para. 51A](https://www.legislation.gov.uk/apni/1970/18/schedule/11/paragraph/51A) inserted (7.6.2022) by [Support for Mortgage Interest etc (Security for Loans) Act (Northern Ireland) 2022 (c. 28)](https://www.legislation.gov.uk/nia/2022/28), [ss. 1(2)](https://www.legislation.gov.uk/nia/2022/28/section/1/2), [2(1)](https://www.legislation.gov.uk/nia/2022/28/section/2/1)
+[^c-f3ce3cb4075754ce5942232df6424f6b]: Textual amendment: [Sch. 11 para. 51A](https://www.legislation.gov.uk/apni/1970/18/schedule/11/paragraph/51A) inserted (7.6.2022) by [Support for Mortgage Interest etc (Security for Loans) Act (Northern Ireland) 2022 (c. 28)](https://www.legislation.gov.uk/nia/2022/28), [ss. 1(2)](https://www.legislation.gov.uk/nia/2022/28/section/1/2), [2(1)](https://www.legislation.gov.uk/nia/2022/28/section/2/1)
 
-[^key-09eb320ea829383079e389aa63c21f9d]: Textual amendment: Sch. 11 para. 52 inserted (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 7 para. 1](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/1); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-09eb320ea829383079e389aa63c21f9d]: Textual amendment: Sch. 11 para. 52 inserted (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 7 para. 1](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/1); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-9d0caddefb644996aef38f6033875ffa]: Textual amendment: [Sch. 11 para. 53](https://www.legislation.gov.uk/apni/1970/18/schedule/11/paragraph/53) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 116](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/116) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-9d0caddefb644996aef38f6033875ffa]: Textual amendment: [Sch. 11 para. 53](https://www.legislation.gov.uk/apni/1970/18/schedule/11/paragraph/53) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 116](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/116) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-cf2e4f7785a9435d0fd189f489191eab]: Textual amendment: [Sch. 11 para. 54](https://www.legislation.gov.uk/apni/1970/18/schedule/11/paragraph/54) inserted (with application in accordance with reg. 1(3) of the amending Rule) by [The Electrical Safety Standards for Private Tenancies Regulations (Northern Ireland) 2024 (S.R. 2024/201)](https://www.legislation.gov.uk/nisr/2024/201), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/2), [13](https://www.legislation.gov.uk/nisr/2024/201/regulation/13)
+[^c-cf2e4f7785a9435d0fd189f489191eab]: Textual amendment: [Sch. 11 para. 54](https://www.legislation.gov.uk/apni/1970/18/schedule/11/paragraph/54) inserted (with application in accordance with reg. 1(3) of the amending Rule) by [The Electrical Safety Standards for Private Tenancies Regulations (Northern Ireland) 2024 (S.R. 2024/201)](https://www.legislation.gov.uk/nisr/2024/201), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/2), [13](https://www.legislation.gov.uk/nisr/2024/201/regulation/13)

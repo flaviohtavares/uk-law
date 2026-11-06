@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212. Taking of crabs and lobsters for scientific purposes[^key-643c69b53b6073ce3498d2137cf446e1]
+## 212. Taking of crabs and lobsters for scientific purposes[^c-643c69b53b6073ce3498d2137cf446e1]
 
 *Extent: E+W+S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-643c69b53b6073ce3498d2137cf446e1]: Commencement: [S. 212](https://www.legislation.gov.uk/ukpga/2009/23/section/212) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/9)
+[^c-643c69b53b6073ce3498d2137cf446e1]: Commencement: [S. 212](https://www.legislation.gov.uk/ukpga/2009/23/section/212) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/9)

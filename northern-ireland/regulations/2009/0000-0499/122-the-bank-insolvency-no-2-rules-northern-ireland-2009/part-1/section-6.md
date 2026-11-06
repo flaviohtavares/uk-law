@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Time[^key-04bc016131aff709882fc0bd47bad06e]
+## 6. Time[^c-04bc016131aff709882fc0bd47bad06e]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04bc016131aff709882fc0bd47bad06e]: Commencement: Rule 6 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-04bc016131aff709882fc0bd47bad06e]: Commencement: Rule 6 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

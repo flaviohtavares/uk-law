@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 12C. Determining the number of renewables obligation certificates to be produced by a designated electricity supplier in order to discharge its renewables obligation: revisions of the obligation level for the 2024/25 obligation period[^key-f5b377119bcd1ca18b24b841e65ccde7]
+## 12C. Determining the number of renewables obligation certificates to be produced by a designated electricity supplier in order to discharge its renewables obligation: revisions of the obligation level for the 2024/25 obligation period[^c-f5b377119bcd1ca18b24b841e65ccde7]
 
 (1) This article applies in respect of the 2024/25 obligation period.
 
@@ -44,4 +44,4 @@ with the references to “D” in the formulae set out in article 12A(2) and (3)
 
 ## Annotations
 
-[^key-f5b377119bcd1ca18b24b841e65ccde7]: Textual amendment: [Art. 12C](https://www.legislation.gov.uk/ssi/2009/140/article/12C) inserted (22.3.2024) by [The Renewables Obligation (Scotland) Amendment Order 2024 (S.S.I. 2024/98)](https://www.legislation.gov.uk/ssi/2024/98), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/98/article/1/1), [6](https://www.legislation.gov.uk/ssi/2024/98/article/6)
+[^c-f5b377119bcd1ca18b24b841e65ccde7]: Textual amendment: [Art. 12C](https://www.legislation.gov.uk/ssi/2009/140/article/12C) inserted (22.3.2024) by [The Renewables Obligation (Scotland) Amendment Order 2024 (S.S.I. 2024/98)](https://www.legislation.gov.uk/ssi/2024/98), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/98/article/1/1), [6](https://www.legislation.gov.uk/ssi/2024/98/article/6)

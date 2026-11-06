@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Manner of publication of outturn statements[^key-cf9d04da7fc1e837810afb79978046be]
+## 37. Manner of publication of outturn statements[^c-cf9d04da7fc1e837810afb79978046be]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf9d04da7fc1e837810afb79978046be]: Commencement: Reg. 37 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-cf9d04da7fc1e837810afb79978046be]: Commencement: Reg. 37 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

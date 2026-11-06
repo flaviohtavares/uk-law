@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Underage functions[^key-93bd3f5333c7ea1b8fe644d2ff64743b][^key-ca43ac015d3224122218342b4446b14c]
+## 14. Underage functions[^c-93bd3f5333c7ea1b8fe644d2ff64743b][^c-ca43ac015d3224122218342b4446b14c]
 
 *Extent: N.I.*
 
@@ -130,6 +130,6 @@ summary: ''
 
 ## Annotations
 
-[^key-93bd3f5333c7ea1b8fe644d2ff64743b]: Commencement: S. 14 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-93bd3f5333c7ea1b8fe644d2ff64743b]: Commencement: S. 14 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-ca43ac015d3224122218342b4446b14c]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2021/7/section/14) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-ca43ac015d3224122218342b4446b14c]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2021/7/section/14) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

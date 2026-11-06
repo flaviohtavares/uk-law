@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Terms in insurance contracts relating to children or benefits status[^key-83306044e0cded2b45b452706199108b][^key-97eeddb592be68dd1e0e7c4efdbb011c]
+## 52. Terms in insurance contracts relating to children or benefits status[^c-83306044e0cded2b45b452706199108b][^c-97eeddb592be68dd1e0e7c4efdbb011c]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83306044e0cded2b45b452706199108b]: Commencement: S. 52 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-83306044e0cded2b45b452706199108b]: Commencement: S. 52 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-97eeddb592be68dd1e0e7c4efdbb011c]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2025/26/section/52) in force at 1.5.2026 by [S.S.I. 2026/125](https://www.legislation.gov.uk/ssi/2026/125), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/125/regulation/2/c)
+[^c-97eeddb592be68dd1e0e7c4efdbb011c]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2025/26/section/52) in force at 1.5.2026 by [S.S.I. 2026/125](https://www.legislation.gov.uk/ssi/2026/125), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/125/regulation/2/c)

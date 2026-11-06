@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Application of Rules[^key-39cb273400cfdb802a165e139de6d0ad]
+## 5. Application of Rules[^c-39cb273400cfdb802a165e139de6d0ad]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Rules apply in respect of a special administration.
 
 ## Annotations
 
-[^key-39cb273400cfdb802a165e139de6d0ad]: Commencement: Rule 5 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-39cb273400cfdb802a165e139de6d0ad]: Commencement: Rule 5 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

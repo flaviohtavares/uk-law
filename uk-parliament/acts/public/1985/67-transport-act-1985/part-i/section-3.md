@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-fdcae3ce1108ef6b007f1de527493248] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-fdcae3ce1108ef6b007f1de527493248] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) For sections 4 and 5 of the 1981 Act (traffic commissioners) there shall be substituted the following sections—
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fdcae3ce1108ef6b007f1de527493248]: Textual amendment: S. 3(1) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/11)
+[^c-fdcae3ce1108ef6b007f1de527493248]: Textual amendment: S. 3(1) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/11)

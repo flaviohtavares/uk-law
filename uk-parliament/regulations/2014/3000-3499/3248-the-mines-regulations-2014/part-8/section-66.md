@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 66. Tips rules[^key-efd96b677c2daf58d95f1fbf6daf6ac7]
+## 66. Tips rules[^c-efd96b677c2daf58d95f1fbf6daf6ac7]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efd96b677c2daf58d95f1fbf6daf6ac7]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2014/3248/regulation/66) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-efd96b677c2daf58d95f1fbf6daf6ac7]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2014/3248/regulation/66) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

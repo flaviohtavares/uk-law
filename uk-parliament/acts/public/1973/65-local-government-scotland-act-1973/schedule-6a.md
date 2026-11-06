@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6A — Candidacy Rights of Foreign Nationals[^key-be19b587cb19c68055df7d7514d40abc]
+## SCHEDULE 6A — Candidacy Rights of Foreign Nationals[^c-be19b587cb19c68055df7d7514d40abc]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ Section 29(8)
 
 ## Annotations
 
-[^key-be19b587cb19c68055df7d7514d40abc]: Textual amendment: [Sch. 6A](https://www.legislation.gov.uk/ukpga/1973/65/schedule/6A) repealed (1.8.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 2(3)](https://www.legislation.gov.uk/asp/2025/4/section/2/3), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-be19b587cb19c68055df7d7514d40abc]: Textual amendment: [Sch. 6A](https://www.legislation.gov.uk/ukpga/1973/65/schedule/6A) repealed (1.8.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 2(3)](https://www.legislation.gov.uk/asp/2025/4/section/2/3), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

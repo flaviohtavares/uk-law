@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Amendment to the Landfill Allowances Scheme Regulations (Northern Ireland) 2004[^key-914f357d0856afdc5a4fffd714e85eb0]
+## 44. Amendment to the Landfill Allowances Scheme Regulations (Northern Ireland) 2004[^c-914f357d0856afdc5a4fffd714e85eb0]
 
 *Extent: N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-914f357d0856afdc5a4fffd714e85eb0]: Commencement: Reg. 44 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-914f357d0856afdc5a4fffd714e85eb0]: Commencement: Reg. 44 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00056]: Footnote: [S.R.2004 No.416](https://www.legislation.gov.uk/nisr/2004/416)

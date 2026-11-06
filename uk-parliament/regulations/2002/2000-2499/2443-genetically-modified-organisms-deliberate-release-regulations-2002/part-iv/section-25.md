@@ -23,12 +23,12 @@ summary: ''
 - (c) either—
   - (i) send to the applicant an assessment report prepared in accordance with Schedule 4 which indicates that the genetically modified organisms should continue to be permitted to be marketed and under which conditions, or
   - (ii) refuse the application, stating reasons for her decision, supported by an assessment report which indicates that the genetically modified organisms should not continue to be marketed,
-- (d)[^key-1786f768bf45ab3e4a1833a293f13dba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-1786f768bf45ab3e4a1833a293f13dba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-6e1c6861f2a49bf4bf5f20a0deb9584a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6e1c6861f2a49bf4bf5f20a0deb9584a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1786f768bf45ab3e4a1833a293f13dba]: Textual amendment: [Reg. 25(1)(d)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/25/1/d) omitted (31.12.2020) by virtue of [The Genetically Modified Organisms (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/88)](https://www.legislation.gov.uk/uksi/2019/88), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/88/regulation/1/2/b), [3(11)](https://www.legislation.gov.uk/uksi/2019/88/regulation/3/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1786f768bf45ab3e4a1833a293f13dba]: Textual amendment: [Reg. 25(1)(d)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/25/1/d) omitted (31.12.2020) by virtue of [The Genetically Modified Organisms (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/88)](https://www.legislation.gov.uk/uksi/2019/88), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/88/regulation/1/2/b), [3(11)](https://www.legislation.gov.uk/uksi/2019/88/regulation/3/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6e1c6861f2a49bf4bf5f20a0deb9584a]: Textual amendment: [Reg. 25(2)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/25/2) omitted (31.12.2020) by virtue of [The Genetically Modified Organisms (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/88)](https://www.legislation.gov.uk/uksi/2019/88), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/88/regulation/1/2/b), [3(11)](https://www.legislation.gov.uk/uksi/2019/88/regulation/3/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6e1c6861f2a49bf4bf5f20a0deb9584a]: Textual amendment: [Reg. 25(2)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/25/2) omitted (31.12.2020) by virtue of [The Genetically Modified Organisms (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/88)](https://www.legislation.gov.uk/uksi/2019/88), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/88/regulation/1/2/b), [3(11)](https://www.legislation.gov.uk/uksi/2019/88/regulation/3/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

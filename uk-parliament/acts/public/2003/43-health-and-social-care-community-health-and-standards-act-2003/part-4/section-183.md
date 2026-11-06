@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Charges for dental services[^key-671219bf2ddf50f3df0da6a821a07d23]
+## 183. Charges for dental services[^c-671219bf2ddf50f3df0da6a821a07d23]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-671219bf2ddf50f3df0da6a821a07d23]: Textual amendment: [Ss. 177-183](https://www.legislation.gov.uk/ukpga/2003/43/section/177) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-671219bf2ddf50f3df0da6a821a07d23]: Textual amendment: [Ss. 177-183](https://www.legislation.gov.uk/ukpga/2003/43/section/177) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))

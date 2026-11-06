@@ -168,7 +168,7 @@ Section 138.
 
 **13.**[^c10577621] Section 108 (premises not to be used as committee rooms) shall be omitted.
 
-**14.**[^c10577641][^key-ae5103265a279f16df11f1c1be860030] For section 110 there shall be substituted—
+**14.**[^c10577641][^c-ae5103265a279f16df11f1c1be860030] For section 110 there shall be substituted—
 
 > **110. Details to appear on election publications.**
 >
@@ -351,7 +351,7 @@ Section 138.
 
 [^c10577641]: Commencement: [Sch. 18 para. 14](https://www.legislation.gov.uk/ukpga/2000/41/schedule/18/paragraph/14) (which was commenced on 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))) was deemed not to have come into force (10.4.2001) by [2001 c. 5](https://www.legislation.gov.uk/ukpga/2001/5), [s. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2001/5/section/1/1/b) (with [s. 3(3)(4)(6)](https://www.legislation.gov.uk/ukpga/2001/5/section/3/3/4/6))
 
-[^key-ae5103265a279f16df11f1c1be860030]: Commencement: Sch. 18 para. 14 in force at 11.8.2021 for N.I. by [S.I. 2021/890](https://www.legislation.gov.uk/uksi/2021/890), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/890/article/2/1/b) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2021/890/article/2/3))
+[^c-ae5103265a279f16df11f1c1be860030]: Commencement: Sch. 18 para. 14 in force at 11.8.2021 for N.I. by [S.I. 2021/890](https://www.legislation.gov.uk/uksi/2021/890), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/890/article/2/1/b) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2021/890/article/2/3))
 
 [^c10577651]: Commencement: Sch. 18 para. 15 wholly in force at 1.7.2001; Sch. 18 para. 15 not in force at Royal Assent, see s. 163(2); Sch. 18 para. 15 in force at 1.7.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 4](https://www.legislation.gov.uk/uksi/2001/222/article/4), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/2/part/I) (with [Sch. 2 Pt. II para. 1](https://www.legislation.gov.uk/uksi/2001/222/schedule/2/part/II/paragraph/1))
 

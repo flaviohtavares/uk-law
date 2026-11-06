@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22.3. Decisions and reasons[^key-3c452a170ef0995d1b3c47ebe25565bb]
+## 22.3. Decisions and reasons[^c-3c452a170ef0995d1b3c47ebe25565bb]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3c452a170ef0995d1b3c47ebe25565bb]: Commencement: [Rule 22.3](https://www.legislation.gov.uk/uksi/2025/909/rule/22.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-3c452a170ef0995d1b3c47ebe25565bb]: Commencement: [Rule 22.3](https://www.legislation.gov.uk/uksi/2025/909/rule/22.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00497]: Footnote: [2004 c. 28](https://www.legislation.gov.uk/ukpga/2004/28); section 32 was amended by article 8 of, and paragraph 10 of the Schedule to, [S.I. 2007/2128](https://www.legislation.gov.uk/uksi/2007/2128).
 

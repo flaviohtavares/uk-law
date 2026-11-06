@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Payment of death benefits to dual capacity member[^key-2db720e934c6e73211212f7cd6cdb2db]
+## 90. Payment of death benefits to dual capacity member[^c-2db720e934c6e73211212f7cd6cdb2db]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2db720e934c6e73211212f7cd6cdb2db]: Commencement: [Reg. 90](https://www.legislation.gov.uk/uksi/2014/2336/regulation/90) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-2db720e934c6e73211212f7cd6cdb2db]: Commencement: [Reg. 90](https://www.legislation.gov.uk/uksi/2014/2336/regulation/90) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

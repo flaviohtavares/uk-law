@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12B. Requirement to report serious adverse reactions and events[^key-b5b981a36f6a3750f9f8aa5d4456f17a]
+## 12B. Requirement to report serious adverse reactions and events[^c-b5b981a36f6a3750f9f8aa5d4456f17a]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,9 +41,9 @@ summary: ''
 
 - (a) as soon as is reasonably practicable after each serious adverse event, evaluates that serious adverse event to identify preventable causes within the process;
 - (b) upon completion of the investigation, completes the serious adverse event notification, using the format set out in Section B of Part 8 of the Schedule; and
-- (c)[^key-e384eb398ed7dd1a3a5d58a20870481c] submits a complete report to the Secretary of State on serious adverse events in any calendar year by no later than 1st April in the following calendar year, using the format set out in Section C of Part 8 of the Schedule.
+- (c)[^c-e384eb398ed7dd1a3a5d58a20870481c] submits a complete report to the Secretary of State on serious adverse events in any calendar year by no later than 1st April in the following calendar year, using the format set out in Section C of Part 8 of the Schedule.
 
-(5) Provided that either the condition set out in paragraph (6)(a), or the conditions set out in paragraph (6)(b) and (c) are satisfied, a facility may make arrangements with a hospital blood bank for the hospital blood bank to submit to the Secretary of State or the blood establishment the reports required by paragraphs (1)(b) and (c), (2)(a),(b),(e) and (f) and (4)(b)[^key-bfdb41b89aadbbbf024b8544252cf189] and (c) on the facility’s behalf.
+(5) Provided that either the condition set out in paragraph (6)(a), or the conditions set out in paragraph (6)(b) and (c) are satisfied, a facility may make arrangements with a hospital blood bank for the hospital blood bank to submit to the Secretary of State or the blood establishment the reports required by paragraphs (1)(b) and (c), (2)(a),(b),(e) and (f) and (4)(b)[^c-bfdb41b89aadbbbf024b8544252cf189] and (c) on the facility’s behalf.
 
 (6) The conditions referred to in paragraph (5) are that—
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b5b981a36f6a3750f9f8aa5d4456f17a]: Textual amendment: Regs. 12A, 12B inserted (31.8.2006) by [The Blood Safety and Quality (Amendment) Regulations 2006 (S.I. 2006/2013)](https://www.legislation.gov.uk/uksi/2006/2013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2013/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2006/2013/regulation/7)
+[^c-b5b981a36f6a3750f9f8aa5d4456f17a]: Textual amendment: Regs. 12A, 12B inserted (31.8.2006) by [The Blood Safety and Quality (Amendment) Regulations 2006 (S.I. 2006/2013)](https://www.legislation.gov.uk/uksi/2006/2013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2013/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2006/2013/regulation/7)
 
-[^key-e384eb398ed7dd1a3a5d58a20870481c]: Textual amendment: Reg. 12B(4)(c) substituted (1.4.2007) by [The Blood Safety and Quality (Amendment) Regulations 2007 (S.I. 2007/604)](https://www.legislation.gov.uk/uksi/2007/604), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/604/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2007/604/regulation/2)
+[^c-e384eb398ed7dd1a3a5d58a20870481c]: Textual amendment: Reg. 12B(4)(c) substituted (1.4.2007) by [The Blood Safety and Quality (Amendment) Regulations 2007 (S.I. 2007/604)](https://www.legislation.gov.uk/uksi/2007/604), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/604/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2007/604/regulation/2)
 
-[^key-bfdb41b89aadbbbf024b8544252cf189]: Textual amendment: Word in reg. 12B(5) substituted (1.5.2008) by [The Medicines for Human Use (Clinical Trials) and Blood Safety and Quality (Amendment) Regulations 2008 (S.I. 2008/941)](https://www.legislation.gov.uk/uksi/2008/941), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/941/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2008/941/regulation/9)
+[^c-bfdb41b89aadbbbf024b8544252cf189]: Textual amendment: Word in reg. 12B(5) substituted (1.5.2008) by [The Medicines for Human Use (Clinical Trials) and Blood Safety and Quality (Amendment) Regulations 2008 (S.I. 2008/941)](https://www.legislation.gov.uk/uksi/2008/941), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/941/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2008/941/regulation/9)

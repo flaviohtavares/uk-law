@@ -38,11 +38,11 @@ Regulations 15 and 16
 - (a) automatic enrolment date; or
 - (b) automatic re-enrolment date, where that notice was not given within the 12 months immediately preceding that date.
 
-(5)[^key-64f0fc086e57f7b973a7d896b534424e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-64f0fc086e57f7b973a7d896b534424e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-69b69f499652620ec58ab8c58fd1f2e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-69b69f499652620ec58ab8c58fd1f2e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-ab1b9859553636be17faaf2b58fa46bb] Sub-paragraph (8) applies if a person—
+(7)[^c-ab1b9859553636be17faaf2b58fa46bb] Sub-paragraph (8) applies if a person—
 
 - (a) belongs, or would belong, to groups A, B or C in regulation 27(1); and
 - (b) has more than one employment to which those groups apply.
@@ -55,8 +55,8 @@ A person who has opted out of the scheme pursuant to paragraph 1 may, if eligibl
 
 ## Annotations
 
-[^key-64f0fc086e57f7b973a7d896b534424e]: Textual amendment: [Sch. 4 para. 1(5)](https://www.legislation.gov.uk/ssi/2015/94/schedule/4/paragraph/1/5) omitted (29.11.2024) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [54](https://www.legislation.gov.uk/ssi/2024/272/regulation/54)
+[^c-64f0fc086e57f7b973a7d896b534424e]: Textual amendment: [Sch. 4 para. 1(5)](https://www.legislation.gov.uk/ssi/2015/94/schedule/4/paragraph/1/5) omitted (29.11.2024) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [54](https://www.legislation.gov.uk/ssi/2024/272/regulation/54)
 
-[^key-69b69f499652620ec58ab8c58fd1f2e1]: Textual amendment: [Sch. 4 para. 1(6)](https://www.legislation.gov.uk/ssi/2015/94/schedule/4/paragraph/1/6) omitted (29.11.2024) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [54](https://www.legislation.gov.uk/ssi/2024/272/regulation/54)
+[^c-69b69f499652620ec58ab8c58fd1f2e1]: Textual amendment: [Sch. 4 para. 1(6)](https://www.legislation.gov.uk/ssi/2015/94/schedule/4/paragraph/1/6) omitted (29.11.2024) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [54](https://www.legislation.gov.uk/ssi/2024/272/regulation/54)
 
-[^key-ab1b9859553636be17faaf2b58fa46bb]: Textual amendment: [Sch. 4 para. 1(6)-(8)](https://www.legislation.gov.uk/ssi/2015/94/schedule/4/paragraph/1/6) substituted for [sch. 4](https://www.legislation.gov.uk/ssi/2015/94/schedule/4) [para. 1(6)](https://www.legislation.gov.uk/ssi/2015/94/schedule/4/paragraph/1/6) (13.3.2017) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [25](https://www.legislation.gov.uk/ssi/2017/28/regulation/25)
+[^c-ab1b9859553636be17faaf2b58fa46bb]: Textual amendment: [Sch. 4 para. 1(6)-(8)](https://www.legislation.gov.uk/ssi/2015/94/schedule/4/paragraph/1/6) substituted for [sch. 4](https://www.legislation.gov.uk/ssi/2015/94/schedule/4) [para. 1(6)](https://www.legislation.gov.uk/ssi/2015/94/schedule/4/paragraph/1/6) (13.3.2017) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [25](https://www.legislation.gov.uk/ssi/2017/28/regulation/25)

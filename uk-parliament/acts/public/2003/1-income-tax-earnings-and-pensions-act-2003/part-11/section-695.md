@@ -27,7 +27,7 @@ summary: ''
 
 the employer is to be treated, for the purposes of PAYE regulations, as making a payment of PAYE income of the employee of an amount equal to the amount ascertained under section 94(2) (benefit of credit-token treated as earnings).
 
-(1A)[^key-2e64500206d354a7263185dddcf998a4] If the credit-token is provided pursuant to optional remuneration arrangements, the reference in subsection (1) to the amount ascertained under section 94(2) is to be read as a reference to what that amount would be were the credit-token provided otherwise than pursuant to optional remuneration arrangements.
+(1A)[^c-2e64500206d354a7263185dddcf998a4] If the credit-token is provided pursuant to optional remuneration arrangements, the reference in subsection (1) to the amount ascertained under section 94(2) is to be read as a reference to what that amount would be were the credit-token provided otherwise than pursuant to optional remuneration arrangements.
 
 In this subsection “optional remuneration arrangements” is to be interpreted in accordance with section 69A.
 
@@ -40,4 +40,4 @@ In this subsection “optional remuneration arrangements” is to be interpreted
 
 ## Annotations
 
-[^key-2e64500206d354a7263185dddcf998a4]: Textual amendment: [S. 695(1A)](https://www.legislation.gov.uk/ukpga/2003/1/section/695/1A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 59](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/59)
+[^c-2e64500206d354a7263185dddcf998a4]: Textual amendment: [S. 695(1A)](https://www.legislation.gov.uk/ukpga/2003/1/section/695/1A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 59](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/59)

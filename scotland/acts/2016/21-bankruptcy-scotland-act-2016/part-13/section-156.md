@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 156. Grounds for making bankruptcy restrictions order[^key-20c5a8b255baa35b6aa8ec8cb7c4cf8c]
+## 156. Grounds for making bankruptcy restrictions order[^c-20c5a8b255baa35b6aa8ec8cb7c4cf8c]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20c5a8b255baa35b6aa8ec8cb7c4cf8c]: Commencement: [S. 156](https://www.legislation.gov.uk/asp/2016/21/section/156) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-20c5a8b255baa35b6aa8ec8cb7c4cf8c]: Commencement: [S. 156](https://www.legislation.gov.uk/asp/2016/21/section/156) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

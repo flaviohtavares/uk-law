@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Power to proceed in absence of relevant person[^key-2536c38bcbf8e934753a602f72917a38]
+## 75. Power to proceed in absence of relevant person[^c-2536c38bcbf8e934753a602f72917a38]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2536c38bcbf8e934753a602f72917a38]: Commencement: S. 75 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-2536c38bcbf8e934753a602f72917a38]: Commencement: S. 75 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

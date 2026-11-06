@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Approvals and authorisations granted under regulations[^c23439241][^key-681a12dc75e849cd06bd660ffd01addf][^key-a89ce3a3c193dfa507a80b88e48c6b47]
+## 23. Approvals and authorisations granted under regulations[^c23439241][^c-681a12dc75e849cd06bd660ffd01addf][^c-a89ce3a3c193dfa507a80b88e48c6b47]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 [^c23439241]: Commencement: S. 23 in force for specified purposes at 13.9.2018, see s. 57(1)(a)
 
-[^key-681a12dc75e849cd06bd660ffd01addf]: Commencement: S. 23 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-681a12dc75e849cd06bd660ffd01addf]: Commencement: S. 23 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-a89ce3a3c193dfa507a80b88e48c6b47]: Modification: S. 23 applied (31.12.2020) by [The Customs Transit Procedures (EU Exit) Regulations 2018 (S.I. 2018/1258)](https://www.legislation.gov.uk/uksi/2018/1258), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1258/article/1/2), [Sch. 2 para. 26(8)](https://www.legislation.gov.uk/uksi/2018/1258/schedule/2/paragraph/26/8); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-a89ce3a3c193dfa507a80b88e48c6b47]: Modification: S. 23 applied (31.12.2020) by [The Customs Transit Procedures (EU Exit) Regulations 2018 (S.I. 2018/1258)](https://www.legislation.gov.uk/uksi/2018/1258), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1258/article/1/2), [Sch. 2 para. 26(8)](https://www.legislation.gov.uk/uksi/2018/1258/schedule/2/paragraph/26/8); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

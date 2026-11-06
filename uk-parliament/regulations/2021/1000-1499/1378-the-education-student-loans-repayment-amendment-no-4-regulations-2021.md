@@ -32,7 +32,7 @@ summary: ''
 
 Education, England And Wales
 
-The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2021 (revoked)[^key-5f2adba27632acb7ff55cf2f9204049f]
+The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2021 (revoked)[^c-5f2adba27632acb7ff55cf2f9204049f]
 
 Made
 
@@ -50,22 +50,22 @@ Coming into force
 
 1st January 2022
 
-[^key-5f2adba27632acb7ff55cf2f9204049f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f2adba27632acb7ff55cf2f9204049f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and expiry[^key-5f2adba27632acb7ff55cf2f9204049f]
+## 1. Citation, commencement and expiry[^c-5f2adba27632acb7ff55cf2f9204049f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Education (Student Loans) (Repayment) Regulations 2009[^key-5f2adba27632acb7ff55cf2f9204049f]
+## 2. Amendment of the Education (Student Loans) (Repayment) Regulations 2009[^c-5f2adba27632acb7ff55cf2f9204049f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f2adba27632acb7ff55cf2f9204049f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f2adba27632acb7ff55cf2f9204049f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f2adba27632acb7ff55cf2f9204049f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f2adba27632acb7ff55cf2f9204049f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5f2adba27632acb7ff55cf2f9204049f]: Textual amendment: Regulations revoked (16.1.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(1)(e)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/1/e), [66](https://www.legislation.gov.uk/uksi/2022/1335/regulation/66)
+[^c-5f2adba27632acb7ff55cf2f9204049f]: Textual amendment: Regulations revoked (16.1.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(1)(e)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/1/e), [66](https://www.legislation.gov.uk/uksi/2022/1335/regulation/66)

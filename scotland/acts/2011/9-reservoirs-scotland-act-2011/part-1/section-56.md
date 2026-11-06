@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-64378eef9d58e0bb3e40be40de1970a6] The reservoir manager of a controlled reservoir must maintain a record of relevant documents.
+(1)[^c-64378eef9d58e0bb3e40be40de1970a6] The reservoir manager of a controlled reservoir must maintain a record of relevant documents.
 
-(2)[^key-64378eef9d58e0bb3e40be40de1970a6] The record must include all of the relevant documents.
+(2)[^c-64378eef9d58e0bb3e40be40de1970a6] The record must include all of the relevant documents.
 
-(3)[^key-8b246eb762939cecc52611e65614596a][^key-b89718133daa5f02be2f60abf2be83ee] Where the reservoir is a low-risk reservoir, the record must in addition contain information about repairs to the reservoir in such form as the Scottish Ministers may require by regulations.
+(3)[^c-8b246eb762939cecc52611e65614596a][^c-b89718133daa5f02be2f60abf2be83ee] Where the reservoir is a low-risk reservoir, the record must in addition contain information about repairs to the reservoir in such form as the Scottish Ministers may require by regulations.
 
-(4)[^key-64378eef9d58e0bb3e40be40de1970a6] The relevant documents are—
+(4)[^c-64378eef9d58e0bb3e40be40de1970a6] The relevant documents are—
 
 - (a) any of the following which is given to the reservoir manager (or copied to the manager pursuant to section 68)—
   - (i) a safety report, safety measure certificate, preliminary certificate, construction certificate or final certificate,
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-64378eef9d58e0bb3e40be40de1970a6]: Commencement: [S. 56(1)](https://www.legislation.gov.uk/asp/2011/9/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2011/9/section/56/2)[(4)](https://www.legislation.gov.uk/asp/2011/9/section/56/4) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-64378eef9d58e0bb3e40be40de1970a6]: Commencement: [S. 56(1)](https://www.legislation.gov.uk/asp/2011/9/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2011/9/section/56/2)[(4)](https://www.legislation.gov.uk/asp/2011/9/section/56/4) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
 
-[^key-8b246eb762939cecc52611e65614596a]: Commencement: [S. 56(3)](https://www.legislation.gov.uk/asp/2011/9/section/56/3) in force at 1.1.2015 for specified purposes by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-8b246eb762939cecc52611e65614596a]: Commencement: [S. 56(3)](https://www.legislation.gov.uk/asp/2011/9/section/56/3) in force at 1.1.2015 for specified purposes by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
 
-[^key-b89718133daa5f02be2f60abf2be83ee]: Commencement: [S. 56(3)](https://www.legislation.gov.uk/asp/2011/9/section/56/3) in force at 1.4.2016 in so far as not already in force by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-b89718133daa5f02be2f60abf2be83ee]: Commencement: [S. 56(3)](https://www.legislation.gov.uk/asp/2011/9/section/56/3) in force at 1.4.2016 in so far as not already in force by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

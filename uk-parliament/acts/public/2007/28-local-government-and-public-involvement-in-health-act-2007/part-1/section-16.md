@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Agreements about incidental matters[^key-0c8e355287613f5f877506d2e634c8bc][^key-287e86d4e4ae753f64c709b617ecddb9]
+## 16. Agreements about incidental matters[^c-0c8e355287613f5f877506d2e634c8bc][^c-287e86d4e4ae753f64c709b617ecddb9]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0c8e355287613f5f877506d2e634c8bc]: Commencement: S. 16 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)
+[^c-0c8e355287613f5f877506d2e634c8bc]: Commencement: S. 16 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)
 
-[^key-287e86d4e4ae753f64c709b617ecddb9]: Modification: S. 16 applied (with modifications) by 1972 c. 70, s. 12(2) (as amended) (1.11.2007 for E.) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 1 para. 11(3)(a)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/1/paragraph/11/3/a); [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/b)
+[^c-287e86d4e4ae753f64c709b617ecddb9]: Modification: S. 16 applied (with modifications) by 1972 c. 70, s. 12(2) (as amended) (1.11.2007 for E.) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 1 para. 11(3)(a)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/1/paragraph/11/3/a); [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/b)

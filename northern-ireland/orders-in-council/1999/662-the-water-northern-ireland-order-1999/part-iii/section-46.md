@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Power of Department to enter into arrangements for improvement or restoration of waterways[^key-80effcb8f6c831bf6595d84cd37f8620]
+## 46. Power of Department to enter into arrangements for improvement or restoration of waterways[^c-80effcb8f6c831bf6595d84cd37f8620]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-80effcb8f6c831bf6595d84cd37f8620]: Modification: Arts. 41-56: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-80effcb8f6c831bf6595d84cd37f8620]: Modification: Arts. 41-56: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c21431371]: Textual amendment: Words in [art. 46(2)(a)](https://www.legislation.gov.uk/nisi/1999/662/article/46/2/a) substituted (1.10.2009) by [Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1), [Sch. 1 para. 180](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/180) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

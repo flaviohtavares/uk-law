@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40A. Conditions for consent[^key-a3a1a5f2e7f8e2b0b3f53919b3ac198d]
+## 40A. Conditions for consent[^c-a3a1a5f2e7f8e2b0b3f53919b3ac198d]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3a1a5f2e7f8e2b0b3f53919b3ac198d]: Textual amendment: S. 40A inserted (19.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 69(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/69/4), [142(3)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/3/a)
+[^c-a3a1a5f2e7f8e2b0b3f53919b3ac198d]: Textual amendment: S. 40A inserted (19.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 69(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/69/4), [142(3)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/3/a)

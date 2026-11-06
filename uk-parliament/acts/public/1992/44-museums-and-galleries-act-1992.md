@@ -293,7 +293,7 @@ it shall, subject to subsection (2) below, vest in such of the bodies for the ti
 - (a) it has, in accordance with the provisions of section 12 of the [^c1309892]Stamp Act 1891, been stamped with a particular stamp denoting that it is not chargeable with any duty or that it has been duly stamped; or
 - (b) it has been stamped with the duty to which it would, apart from subsection (2) above, be liable.
 
-### 8A. Stamp duty land tax[^key-2283ab9a91a05234fe57be570430eb74]
+### 8A. Stamp duty land tax[^c-2283ab9a91a05234fe57be570430eb74]
 
 (1) This section applies to a land transaction by which land occupied wholly or partly for the purposes of an institution specified in column 1 of Schedule 6 to this Act is transferred by the Secretary of State to the body specified in relation to that institution in column 2 of that Schedule.
 
@@ -523,7 +523,7 @@ Section 1(2)(b).
 
 ### Membership
 
-**2.**[^c1309915] (1) The Board shall consist of fourteen[^key-653092dbc1acd3cccd4d7d3683e46cc5] members (in this Schedule referred to as “**trustees**”) of whom—
+**2.**[^c1309915] (1) The Board shall consist of fourteen[^c-653092dbc1acd3cccd4d7d3683e46cc5] members (in this Schedule referred to as “**trustees**”) of whom—
 
 - (a) one shall be appointed by the National Gallery Board from among the members of that Board; and
 - (b) the remainder shall be appointed by the Prime Minister;
@@ -830,7 +830,7 @@ The Board of Trustees of the National Gallery
 
 The Board of Trustees of the National Galleries of Scotland
 
-The Board of Trustees of the National Library of Scotland *(Extent: S)* *(affected by repeal, see note)*[^key-f2371c2edff015bc62860526f9055ceb]The National Library of Scotland *(Extent: S)*
+The Board of Trustees of the National Library of Scotland *(Extent: S)* *(affected by repeal, see note)*[^c-f2371c2edff015bc62860526f9055ceb]The National Library of Scotland *(Extent: S)*
 
 The Trustees of the National Maritime Museum
 
@@ -879,7 +879,7 @@ Section 8.
 | The Imperial War Museum | The Trustees of the Imperial War Museum |
 | The National Gallery | The Board of Trustees of the National Gallery |
 | The National Galleries of Scotland | The Board of Trustees of the National Galleries of Scotland |
-| The National Library of Scotland, established by section 1(1) of the National Library of Scotland Act 1925 (c.73)[^key-f156ad41b02440f59ca6468f6c8de6f8] | The Board of Trustees of the National Library of Scotland *(Extent: S)* *(affected by repeal, see note)*[^key-b5c6338edc726f6625947bfc80e71bd9]The National Library of Scotland *(Extent: S)* |
+| The National Library of Scotland, established by section 1(1) of the National Library of Scotland Act 1925 (c.73)[^c-f156ad41b02440f59ca6468f6c8de6f8] | The Board of Trustees of the National Library of Scotland *(Extent: S)* *(affected by repeal, see note)*[^c-b5c6338edc726f6625947bfc80e71bd9]The National Library of Scotland *(Extent: S)* |
 | The National Maritime Museum | The Trustees of the National Maritime Museum |
 | The National Museums of Scotland | The Board of Trustees of the National Museums of Scotland |
 | The National Portrait Gallery | The Board of Trustees of the National Portrait Gallery |
@@ -958,7 +958,7 @@ Section 11(2).
 
 (7)[^c1309971] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-f1156394485efa005b969c0a88d399d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-f1156394485efa005b969c0a88d399d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In section 271(6)(a) of the [^c1309973]Taxation of Chargeable Gains Act 1992 (exemption from tax on chargeable gains for the Trustees of the British Museum (Natural History) etc) for the words “British Museum (Natural History)” there shall be substituted the words “ Natural History Museum ”.
 
@@ -1191,7 +1191,7 @@ Section 11(3).
 
 [^c1309892]: Marginal citation: [1891 c. 39](https://www.legislation.gov.uk/ukpga/1891/39).
 
-[^key-2283ab9a91a05234fe57be570430eb74]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/1992/44/section/8A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/21)
+[^c-2283ab9a91a05234fe57be570430eb74]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/1992/44/section/8A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/21)
 
 [^c1309893]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/1992/44/section/9) wholly in force at 1.4.1993, see [s. 11(4)](https://www.legislation.gov.uk/ukpga/1992/44/section/11/4) and [S.I. 1992/1874](https://www.legislation.gov.uk/uksi/1992/1874), [art. 3](https://www.legislation.gov.uk/uksi/1992/1874/article/3)
 
@@ -1231,7 +1231,7 @@ Section 11(3).
 
 [^c1309915]: Commencement: Sch. 2 wholly in force at 1.9.1992 see s. 11(4) and [S.I. 1992/1874](https://www.legislation.gov.uk/uksi/1992/1874), [art. 2](https://www.legislation.gov.uk/uksi/1992/1874/article/2)
 
-[^key-653092dbc1acd3cccd4d7d3683e46cc5]: Textual amendment: Word in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/ukpga/1992/44/schedule/2/paragraph/2/1) substituted (21.3.2008) by [Tate Gallery Board (Additional Members) Order 2008 (S.I. 2008/919)](https://www.legislation.gov.uk/uksi/2008/919), [arts. 1](https://www.legislation.gov.uk/uksi/2008/919/article/1), [2](https://www.legislation.gov.uk/uksi/2008/919/article/2)
+[^c-653092dbc1acd3cccd4d7d3683e46cc5]: Textual amendment: Word in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/ukpga/1992/44/schedule/2/paragraph/2/1) substituted (21.3.2008) by [Tate Gallery Board (Additional Members) Order 2008 (S.I. 2008/919)](https://www.legislation.gov.uk/uksi/2008/919), [arts. 1](https://www.legislation.gov.uk/uksi/2008/919/article/1), [2](https://www.legislation.gov.uk/uksi/2008/919/article/2)
 
 [^c1309916]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/1992/44/schedule/2) wholly in force at 1.9.1992 see [s. 11(4)](https://www.legislation.gov.uk/ukpga/1992/44/section/11/4) and [S.I. 1992/1874](https://www.legislation.gov.uk/uksi/1992/1874), [art. 2](https://www.legislation.gov.uk/uksi/1992/1874/article/2)
 
@@ -1279,7 +1279,7 @@ Section 11(3).
 
 [^c1309939]: Commencement: Sch. 5 Pt. I wholly in force at 1.9.1992 see s. 11(4) and [S.I. 1992/1874](https://www.legislation.gov.uk/uksi/1992/1874), [art. 2](https://www.legislation.gov.uk/uksi/1992/1874/article/2)
 
-[^key-f2371c2edff015bc62860526f9055ceb]: Textual amendment: Words in Sch. 5 Pt. I substituted (S.) (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/3/a); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-f2371c2edff015bc62860526f9055ceb]: Textual amendment: Words in Sch. 5 Pt. I substituted (S.) (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/3/a); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
 [^c1309940]: Textual amendment: Entry in Sch. 5 Pt. I inserted (23.11.2000) by [S.I. 2000/2955](https://www.legislation.gov.uk/uksi/2000/2955), [art. 2(1)](https://www.legislation.gov.uk/uksi/2000/2955/article/2/1)
 
@@ -1291,9 +1291,9 @@ Section 11(3).
 
 [^c1309948]: Commencement: Sch. 6 wholly in force at 1.9.1992 see s. 11(4) and [S.I. 1992/1874](https://www.legislation.gov.uk/uksi/1992/1874), [art. 2](https://www.legislation.gov.uk/uksi/1992/1874/article/2)
 
-[^key-f156ad41b02440f59ca6468f6c8de6f8]: Textual amendment: Words in Sch. 6 inserted (S.) (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [Sch. 2 para. 3(b)(i)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/3/b/i); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-f156ad41b02440f59ca6468f6c8de6f8]: Textual amendment: Words in Sch. 6 inserted (S.) (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [Sch. 2 para. 3(b)(i)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/3/b/i); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-b5c6338edc726f6625947bfc80e71bd9]: Textual amendment: Words in Sch. 6 substituted (S.) (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [Sch. 2 para. 3(b)(ii)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/3/b/ii); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-b5c6338edc726f6625947bfc80e71bd9]: Textual amendment: Words in Sch. 6 substituted (S.) (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [Sch. 2 para. 3(b)(ii)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/3/b/ii); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
 [^c1309949]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/1992/44/schedule/7) wholly in force at 1.9.1992 see [s. 11(4)](https://www.legislation.gov.uk/ukpga/1992/44/section/11/4) and [S.I. 1992/1874](https://www.legislation.gov.uk/uksi/1992/1874), [art. 2](https://www.legislation.gov.uk/uksi/1992/1874/article/2)
 
@@ -1319,7 +1319,7 @@ Section 11(3).
 
 [^c1309971]: Textual amendment: Sch. 8 para. 1(7) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. XIII](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/XIII) Group1
 
-[^key-f1156394485efa005b969c0a88d399d8]: Textual amendment: [Sch. 8 para. 1(8)](https://www.legislation.gov.uk/ukpga/1992/44/schedule/8/paragraph/1/8) repealed (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-f1156394485efa005b969c0a88d399d8]: Textual amendment: [Sch. 8 para. 1(8)](https://www.legislation.gov.uk/ukpga/1992/44/schedule/8/paragraph/1/8) repealed (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c1309973]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 

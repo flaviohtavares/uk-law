@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Disclosure of information about transaction costs to members etc[^key-63888b84f85d6db7401341095f79fbee]
+## 44. Disclosure of information about transaction costs to members etc[^c-63888b84f85d6db7401341095f79fbee]
 
 *Extent: E+W+S*
 
@@ -89,4 +89,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63888b84f85d6db7401341095f79fbee]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2014/19/section/44) in force at 18.9.2017 by [S.I. 2017/916](https://www.legislation.gov.uk/uksi/2017/916), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/916/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2017/916/regulation/2/2))
+[^c-63888b84f85d6db7401341095f79fbee]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2014/19/section/44) in force at 18.9.2017 by [S.I. 2017/916](https://www.legislation.gov.uk/uksi/2017/916), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/916/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2017/916/regulation/2/2))

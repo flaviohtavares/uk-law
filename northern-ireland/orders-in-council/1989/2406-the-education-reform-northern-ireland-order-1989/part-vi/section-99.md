@@ -26,7 +26,7 @@ summary: ''
   - (i) in relation to any school in respect of which a proposal for acquisition of controlled integrated status is required to be submitted under Article 92(1), to the date speciﬁed in accordance with Article 70(4)(b) (as applied by Article 91) in the information given for the purposes of the originating ballot to persons eligible to vote in that ballot (within the meaning of Article 70 (as so applied)); and
   - (ii) in relation to any school in respect of which a proposal has been submitted under Article 92(1) or (2)[^c17610041], to the date speciﬁed in the proposal as the proposed date of implementation;
 - (b) references, in relation to any school in respect of which such a proposal has been approved, to the proposal are references to the proposal as approved;
-- (c)[^key-2fc115b49f5539f779292207db25d66b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-2fc115b49f5539f779292207db25d66b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In relation to any proposal for acquisition of controlled integrated status required to be submitted under Article 92(1) in respect of any school, the reference in paragraph (1)(a) to the originating ballot is a reference—
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c17610041]: Textual amendment: [1996 NI 1](https://www.legislation.gov.uk/nisi/1996)
 
-[^key-2fc115b49f5539f779292207db25d66b]: Textual amendment: Art. 99(1)(c) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-2fc115b49f5539f779292207db25d66b]: Textual amendment: Art. 99(1)(c) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

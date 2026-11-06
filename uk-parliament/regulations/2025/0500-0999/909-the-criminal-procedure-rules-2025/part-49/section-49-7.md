@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49.7. Record of television link hearing before a nominated court[^key-291c0528f60eb258f6ebaf7c6ed7bc21]
+## 49.7. Record of television link hearing before a nominated court[^c-291c0528f60eb258f6ebaf7c6ed7bc21]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-291c0528f60eb258f6ebaf7c6ed7bc21]: Commencement: [Rule 49.7](https://www.legislation.gov.uk/uksi/2025/909/rule/49.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-291c0528f60eb258f6ebaf7c6ed7bc21]: Commencement: [Rule 49.7](https://www.legislation.gov.uk/uksi/2025/909/rule/49.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

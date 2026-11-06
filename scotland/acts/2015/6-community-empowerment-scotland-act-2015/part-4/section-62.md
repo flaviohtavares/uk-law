@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Crofting community bodies[^key-037912902a9a057a44eb5458db3a5217][^key-ccb8aa418760e77da8ffc648e0e59731]
+## 62. Crofting community bodies[^c-037912902a9a057a44eb5458db3a5217][^c-ccb8aa418760e77da8ffc648e0e59731]
 
 *Extent: S*
 
@@ -129,6 +129,6 @@ summary: ''
 
 ## Annotations
 
-[^key-037912902a9a057a44eb5458db3a5217]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2015/6/section/62) in force at 16.12.2016 for specified purposes by [S.S.I. 2016/394](https://www.legislation.gov.uk/ssi/2016/394), [art. 2](https://www.legislation.gov.uk/ssi/2016/394/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/394/schedule)
+[^c-037912902a9a057a44eb5458db3a5217]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2015/6/section/62) in force at 16.12.2016 for specified purposes by [S.S.I. 2016/394](https://www.legislation.gov.uk/ssi/2016/394), [art. 2](https://www.legislation.gov.uk/ssi/2016/394/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/394/schedule)
 
-[^key-ccb8aa418760e77da8ffc648e0e59731]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2015/6/section/62) in force at 24.2.2021 in so far as not already in force by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))
+[^c-ccb8aa418760e77da8ffc648e0e59731]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2015/6/section/62) in force at 24.2.2021 in so far as not already in force by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))

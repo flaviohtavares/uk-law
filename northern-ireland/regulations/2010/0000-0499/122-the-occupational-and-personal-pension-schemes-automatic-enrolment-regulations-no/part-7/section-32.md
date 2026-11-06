@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Refunds[^key-c272b05457b5de1e922f909db8486673]
+## 32. Refunds[^c-c272b05457b5de1e922f909db8486673]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The arrangements in regulation 11 apply for the purposes of section 8 (jobholder
 
 ## Annotations
 
-[^key-c272b05457b5de1e922f909db8486673]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2010/122/regulation/32) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
+[^c-c272b05457b5de1e922f909db8486673]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2010/122/regulation/32) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 25
 
-### 1. Interpretation[^key-f38460cb07352e81e1d3466df95ef49e]
+### 1. Interpretation[^c-f38460cb07352e81e1d3466df95ef49e]
 
 In this Schedule—
 
@@ -66,4 +66,4 @@ In this Schedule—
 
 ## Annotations
 
-[^key-f38460cb07352e81e1d3466df95ef49e]: Commencement: Sch. 7 para. 1 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-f38460cb07352e81e1d3466df95ef49e]: Commencement: Sch. 7 para. 1 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)

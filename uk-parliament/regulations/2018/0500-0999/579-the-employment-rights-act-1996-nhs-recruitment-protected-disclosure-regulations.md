@@ -46,7 +46,7 @@ In accordance with section 49B(8) of that Act, the Secretary of State has consul
 
 In accordance with section 49B(9) of that Act, the Secretary of State has consulted the Scottish Ministers before prescribing certain Scottish NHS bodies for the purposes of the definition of “NHS employer” in section 49B(6) of that Act by virtue of provision made in regulation 2.
 
-## 1. Citation, commencement and extent[^key-bd3801e7f3eb3be23d06c2789745c562]
+## 1. Citation, commencement and extent[^c-bd3801e7f3eb3be23d06c2789745c562]
 
 (1) These Regulations may be cited as the Employment Rights Act 1996 (NHS Recruitment – Protected Disclosure) Regulations 2018.
 
@@ -54,21 +54,21 @@ In accordance with section 49B(9) of that Act, the Secretary of State has consul
 
 (3) These Regulations extend to England and Wales and Scotland.
 
-## 2. NHS public bodies prescribed for the purposes of the definition of “NHS employer”[^key-6e5298d075148e3eab4d31cdab8a47bd]
+## 2. NHS public bodies prescribed for the purposes of the definition of “NHS employer”[^c-6e5298d075148e3eab4d31cdab8a47bd]
 
 The NHS public bodies prescribed for the purposes of section 49B(6) of the Employment Rights Act 1996 (which defines “NHS employer” by reference to those NHS public bodies that are prescribed by regulations) are the bodies listed in paragraphs (a) to (p) of subsection (7) of that section.
 
-## 3. Prohibition of discrimination because of protected disclosure[^key-21cb5faf3025abe6e0f26fff9383ece2]
+## 3. Prohibition of discrimination because of protected disclosure[^c-21cb5faf3025abe6e0f26fff9383ece2]
 
 An NHS employer[^f00003] must not discriminate[^f00004] against an applicant[^f00005] because it appears to the NHS employer that the applicant has made a protected disclosure[^f00006].
 
-## 4. Right of complaint to an employment tribunal[^key-67873933c1def3ab39b4c89e25d8e9d4]
+## 4. Right of complaint to an employment tribunal[^c-67873933c1def3ab39b4c89e25d8e9d4]
 
 (1) An applicant has a right of complaint to an employment tribunal[^f00007] against an NHS employer if the NHS employer contravenes regulation 3.
 
 (2) If there are facts from which the employment tribunal could decide, in the absence of any other explanation, that an NHS employer contravened regulation 3, the tribunal must find that such a contravention occurred unless the NHS employer shows that it did not contravene regulation 3.
 
-## 5. Time limit for proceedings under regulation 4[^key-f06da1170ffb84be2dab2f172ccd01f1]
+## 5. Time limit for proceedings under regulation 4[^c-f06da1170ffb84be2dab2f172ccd01f1]
 
 (1) Subject to paragraph (4), an employment tribunal must not consider a complaint under regulation 4 unless it is presented to the tribunal before the end of the period of three months beginning with the date of the conduct to which the complaint relates.
 
@@ -88,7 +88,7 @@ An NHS employer[^f00003] must not discriminate[^f00004] against an applicant[^f0
 
 (4) Where a complaint under regulation 4 relates to conduct extending over a period, the conduct is to be treated as done at the end of the period.
 
-## 6. Remedies in proceedings under regulation 4[^key-bd78d8a3d98f91e4f210a702d821c6f1]
+## 6. Remedies in proceedings under regulation 4[^c-bd78d8a3d98f91e4f210a702d821c6f1]
 
 Where an employment tribunal finds in proceedings under regulation 4 that there has been a contravention of regulation 3—
 
@@ -96,7 +96,7 @@ Where an employment tribunal finds in proceedings under regulation 4 that there 
 - (b) it may order the NHS employer to pay compensation to the applicant in respect of the conduct complained of; and
 - (c) it may recommend that, within a specified period, the NHS employer takes specified steps for the purpose of obviating or reducing the adverse effect on the applicant of the discrimination to which the proceedings relate.
 
-## 7. Amount of compensation[^key-dbe20098ee12f00eac1c4af17706cffd]
+## 7. Amount of compensation[^c-dbe20098ee12f00eac1c4af17706cffd]
 
 (1) Subject to the following paragraphs, the amount of compensation which the employment tribunal may award must be such as the tribunal considers just and equitable in all the circumstances.
 
@@ -116,7 +116,7 @@ Where an employment tribunal finds in proceedings under regulation 4 that there 
 
 (6) If the NHS employer fails without reasonable justification to comply with a recommendation under regulation 6(c), the tribunal may increase its award or, if it has not made such an award, make one.
 
-## 8. Action for breach of statutory duty[^key-c1794ef5b93f6295f2595e177f2190a3]
+## 8. Action for breach of statutory duty[^c-c1794ef5b93f6295f2595e177f2190a3]
 
 (1) A contravention of regulation 3 is actionable as a breach of statutory duty.
 
@@ -131,7 +131,7 @@ Where an employment tribunal finds in proceedings under regulation 4 that there 
 
 (5) An applicant may complain to an employment tribunal under regulation 4 and bring an action for breach of statutory duty in respect of the same conduct for the purpose of restraining or preventing the defendant from contravening regulation 3.
 
-## 9. Discrimination by worker or agent of NHS employer[^key-84d3934c52a2ebd994f214cd51ab693a]
+## 9. Discrimination by worker or agent of NHS employer[^c-84d3934c52a2ebd994f214cd51ab693a]
 
 (1) Discrimination by a worker[^f00008] of an NHS employer is to be treated, for the purposes of these Regulations, as discrimination by the NHS employer where the discriminatory conduct occurs in the course of the worker’s employment.
 
@@ -144,7 +144,7 @@ Where an employment tribunal finds in proceedings under regulation 4 that there 
 - (a) from doing that thing; or
 - (b) from doing anything of that description.
 
-## 10. Consequential amendments[^key-8bc04059f337930214cad9aa4cac8a58]
+## 10. Consequential amendments[^c-8bc04059f337930214cad9aa4cac8a58]
 
 (1) The Employment Tribunals Act 1996 is amended as follows.
 
@@ -225,11 +225,11 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00002]: Footnote: Section 236(3) was amended by paragraph 42 of Schedule 4 to the Employment Relations Act [1999 (c.26)](https://www.legislation.gov.uk/ukpga/1999/26) and section 149 of the 2015 Act.
 
-[^key-bd3801e7f3eb3be23d06c2789745c562]: Commencement: Reg. 1 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
+[^c-bd3801e7f3eb3be23d06c2789745c562]: Commencement: Reg. 1 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
 
-[^key-6e5298d075148e3eab4d31cdab8a47bd]: Commencement: Reg. 2 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
+[^c-6e5298d075148e3eab4d31cdab8a47bd]: Commencement: Reg. 2 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
 
-[^key-21cb5faf3025abe6e0f26fff9383ece2]: Commencement: Reg. 3 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
+[^c-21cb5faf3025abe6e0f26fff9383ece2]: Commencement: Reg. 3 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
 
 [^f00003]: Footnote: *See* section 49B(6) and (7) of the 1996 Act read with regulation 2 of these Regulations as to the definition of “NHS employer”.
 
@@ -239,20 +239,20 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00006]: Footnote: *See* sections 43A and 235 of the 1996 Act as to the definition of “protected disclosure”. Section 43A was inserted by section 1 of the Public Interest Disclosure Act [1998 (c.23)](https://www.legislation.gov.uk/ukpga/1998/23) (“the 1998 Act”). Section 235 was amended, so far as relevant, by section 15 of the 1998 Act.
 
-[^key-67873933c1def3ab39b4c89e25d8e9d4]: Commencement: Reg. 4 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
+[^c-67873933c1def3ab39b4c89e25d8e9d4]: Commencement: Reg. 4 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
 
 [^f00007]: Footnote: An “employment tribunal” is a tribunal established under section 1 of the Employment Tribunals Act [1996 (c.17)](https://www.legislation.gov.uk/ukpga/1996/17).
 
-[^key-f06da1170ffb84be2dab2f172ccd01f1]: Commencement: Reg. 5 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
+[^c-f06da1170ffb84be2dab2f172ccd01f1]: Commencement: Reg. 5 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
 
-[^key-bd78d8a3d98f91e4f210a702d821c6f1]: Commencement: Reg. 6 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
+[^c-bd78d8a3d98f91e4f210a702d821c6f1]: Commencement: Reg. 6 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
 
-[^key-dbe20098ee12f00eac1c4af17706cffd]: Commencement: Reg. 7 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
+[^c-dbe20098ee12f00eac1c4af17706cffd]: Commencement: Reg. 7 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
 
-[^key-c1794ef5b93f6295f2595e177f2190a3]: Commencement: Reg. 8 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
+[^c-c1794ef5b93f6295f2595e177f2190a3]: Commencement: Reg. 8 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
 
-[^key-84d3934c52a2ebd994f214cd51ab693a]: Commencement: Reg. 9 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
+[^c-84d3934c52a2ebd994f214cd51ab693a]: Commencement: Reg. 9 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
 
 [^f00008]: Footnote: *See* sections 43K and 230 of the 1996 Act as to the definition of “worker” and “employment”. Section 43K was inserted by section 1 of the 1998 Act, amended by paragraph 65 of Schedule 11 to the Health and Social Care (Community Health and Standards) Act [2003 (c.43)](https://www.legislation.gov.uk/ukpga/2003/43), paragraphs 177 and 178 of Schedule 1 to the National Health Service (Consequential Provisions) Act [2006 (c.43)](https://www.legislation.gov.uk/ukpga/2006/43), paragraphs 72 and 73 of Schedule 5 to the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) and section 20 of the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24) and by [S.I. 2004/957](https://www.legislation.gov.uk/uksi/2004/957), [2006/1056](https://www.legislation.gov.uk/uksi/2006/1056) (from a date to be appointed), [2007/961](https://www.legislation.gov.uk/ssi/2007/961) and [2015/491](https://www.legislation.gov.uk/ssi/2015/491), and modified by [S.S.I. 2004/163](https://www.legislation.gov.uk/ssi/2004/163). Section 230 of the 1996 Act was amended by section 15 of the 1998 Act and section 149 of the 2015 Act.
 
-[^key-8bc04059f337930214cad9aa4cac8a58]: Commencement: Reg. 10 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
+[^c-8bc04059f337930214cad9aa4cac8a58]: Commencement: Reg. 10 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Children’s long-term pensions[^key-cf45eef9cf6c63474656dd4aceb1362c]
+## 45. Children’s long-term pensions[^c-cf45eef9cf6c63474656dd4aceb1362c]
 
 *Extent: E+W+S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf45eef9cf6c63474656dd4aceb1362c]: Commencement: Reg. 45 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-cf45eef9cf6c63474656dd4aceb1362c]: Commencement: Reg. 45 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

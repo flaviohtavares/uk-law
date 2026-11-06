@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75.4. Electronic delivery of documents[^key-90c898404514b11719f9cb6cd287012d]
+## 75.4. Electronic delivery of documents[^c-90c898404514b11719f9cb6cd287012d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90c898404514b11719f9cb6cd287012d]: Textual amendment: [Pt. 75](https://www.legislation.gov.uk/uksi/1998/3132/part/75) inserted (1.10.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(a)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/a), [Sch. 9](https://www.legislation.gov.uk/uksi/2002/2058/schedule/9)
+[^c-90c898404514b11719f9cb6cd287012d]: Textual amendment: [Pt. 75](https://www.legislation.gov.uk/uksi/1998/3132/part/75) inserted (1.10.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(a)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/a), [Sch. 9](https://www.legislation.gov.uk/uksi/2002/2058/schedule/9)

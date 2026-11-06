@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 176. Amendment of Vulnerable Witnesses (Scotland) Act 2004[^key-a8e67e7bcc54c14a2fc4f37cb6a8deca]
+## 176. Amendment of Vulnerable Witnesses (Scotland) Act 2004[^c-a8e67e7bcc54c14a2fc4f37cb6a8deca]
 
 *Extent: S*
 
@@ -32,7 +32,7 @@ summary: ''
 - (b) in the definition of “civil proceedings”, for the words from “any proceedings” to the end substitute “ relevant proceedings ”, and
 - (c) after the definition of “court” insert—
 
-  > “**relevant proceedings**” means proceedings under Part 10 of the 2011 Act (other than section 98 or 99[^key-9cc9c7c59c2a6d018adb88086a042aef]),
+  > “**relevant proceedings**” means proceedings under Part 10 of the 2011 Act (other than section 98 or 99[^c-9cc9c7c59c2a6d018adb88086a042aef]),
 
   .
 
@@ -111,6 +111,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a8e67e7bcc54c14a2fc4f37cb6a8deca]: Commencement: S. 176 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-a8e67e7bcc54c14a2fc4f37cb6a8deca]: Commencement: S. 176 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-9cc9c7c59c2a6d018adb88086a042aef]: Textual amendment: Words in s. 176(2)(c) inserted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(19)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/19)
+[^c-9cc9c7c59c2a6d018adb88086a042aef]: Textual amendment: Words in s. 176(2)(c) inserted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(19)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/19)

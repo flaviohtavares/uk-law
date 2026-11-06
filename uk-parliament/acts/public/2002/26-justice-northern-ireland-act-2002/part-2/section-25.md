@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Participation by Attorney General in Assembly proceedings[^key-5de01b6ac5070c4fb908f0d5f9713503]
+## 25. Participation by Attorney General in Assembly proceedings[^c-5de01b6ac5070c4fb908f0d5f9713503]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5de01b6ac5070c4fb908f0d5f9713503]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2002/26/section/25) in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 5](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/5)
+[^c-5de01b6ac5070c4fb908f0d5f9713503]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2002/26/section/25) in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 5](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 123. Evidence as to validity or amount of claim[^key-6532f0fcd84e0c801b1b88b0defe14df]
+## 123. Evidence as to validity or amount of claim[^c-6532f0fcd84e0c801b1b88b0defe14df]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6532f0fcd84e0c801b1b88b0defe14df]: Commencement: [S. 123](https://www.legislation.gov.uk/asp/2016/21/section/123) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-6532f0fcd84e0c801b1b88b0defe14df]: Commencement: [S. 123](https://www.legislation.gov.uk/asp/2016/21/section/123) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

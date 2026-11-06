@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. References: restricted patients not subject to deprivation of liberty conditions[^key-7a614b76f44d2aa2aae8db380a0536f3]
+## 33. References: restricted patients not subject to deprivation of liberty conditions[^c-7a614b76f44d2aa2aae8db380a0536f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a614b76f44d2aa2aae8db380a0536f3]: Commencement: S. 33 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-7a614b76f44d2aa2aae8db380a0536f3]: Commencement: S. 33 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

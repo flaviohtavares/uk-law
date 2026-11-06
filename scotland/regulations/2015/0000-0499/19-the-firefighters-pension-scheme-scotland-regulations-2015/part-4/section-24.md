@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Calculation of “retirement index adjustment”[^key-6454ce9d0ae02fadd0d2f6cdf9b14cae]
+## 24. Calculation of “retirement index adjustment”[^c-6454ce9d0ae02fadd0d2f6cdf9b14cae]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ where—
 
 ## Annotations
 
-[^key-6454ce9d0ae02fadd0d2f6cdf9b14cae]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2015/19/regulation/24) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-6454ce9d0ae02fadd0d2f6cdf9b14cae]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2015/19/regulation/24) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

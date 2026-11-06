@@ -48,7 +48,7 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 
 In accordance with section 74(2)(i) of the Act a draft of this Order has been laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and transitional provision[^key-27fa2c0fb171957769f79cb7583af534]
+## 1. Citation, commencement and transitional provision[^c-27fa2c0fb171957769f79cb7583af534]
 
 (1) This Order may be cited as the Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015.
 
@@ -56,7 +56,7 @@ In accordance with section 74(2)(i) of the Act a draft of this Order has been la
 
 (3) Article 2(1) and (3) and the amendments made by Schedules 1 and 3, and article 2(4) and Schedule 4 so far as those provisions relate to amendments to sections 48 and 50 of the Immigration Act 2014, apply only to proposed marriages and civil partnerships in respect of which notice is given under Article 3(1) of the Marriage (Northern Ireland) Order 2003[^f00002] or section 139 of the Civil Partnership Act 2004[^f00003] after the day on which this Order comes into force.
 
-## 2. Extension of referral and investigation scheme[^key-e763f9946573f1657e41868d6a931ea9]
+## 2. Extension of referral and investigation scheme[^c-e763f9946573f1657e41868d6a931ea9]
 
 (1) Schedule 1 (which amends the Marriage (Northern Ireland) Order 2003) and the Marriage Regulations (Northern Ireland) 2003) has effect.
 
@@ -82,9 +82,9 @@ Article 2(1)
 
 ### PART 1
 
-**1.**[^key-fde4bb720fb3846407a13d4bcb5503e6] The Marriage (Northern Ireland) Order 2003 is amended as follows.
+**1.**[^c-fde4bb720fb3846407a13d4bcb5503e6] The Marriage (Northern Ireland) Order 2003 is amended as follows.
 
-**2.**[^key-1c45f44c6999e2387923c431c0530f7c] In Article 2(2) (interpretation)—
+**2.**[^c-1c45f44c6999e2387923c431c0530f7c] In Article 2(2) (interpretation)—
 
 - (a) before the definition of “civil marriage” insert—
 
@@ -101,7 +101,7 @@ Article 2(1)
 
   .
 
-**3.**[^key-978ae492115b8f5d6d8200f7b002e925] After Article 3 insert—
+**3.**[^c-978ae492115b8f5d6d8200f7b002e925] After Article 3 insert—
 
 > **3A. Additional information if party not relevant national**
 >
@@ -217,7 +217,7 @@ Article 2(1)
 > - (b) “prescribed information” means information prescribed in regulations;
 > - (c) “regulations” means regulations made by the Secretary of State under section 54(2) of, and Schedule 5 to, the 2014 Act.
 
-**4.**[^key-167628f115c5e0ec979a6dec26dd58f9] After the Schedule (repeals), which becomes Schedule 1, insert—
+**4.**[^c-167628f115c5e0ec979a6dec26dd58f9] After the Schedule (repeals), which becomes Schedule 1, insert—
 
 > **SCHEDULE 2 — Modifications if proposed marriage referred under Article 3E**
 >
@@ -329,7 +329,7 @@ Article 2(1)
 >
 > (5) In this paragraph “investigation” means an investigation, conducted following a decision by the Secretary of State under section 48 of the 2014 Act, whether a proposed marriage is a sham.
 
-**5.**[^key-dd349b2ae0fd9a2c88ff48ec97718221] (1) In Article 4 (marriage notice book), after paragraph (2) insert—
+**5.**[^c-dd349b2ae0fd9a2c88ff48ec97718221] (1) In Article 4 (marriage notice book), after paragraph (2) insert—
 
 > (2A) But the registrar shall not enter the particulars relating to a marriage in the marriage notice book in a case where any of the following requirements is applicable but not complied with—
 >
@@ -342,7 +342,7 @@ Article 2(1)
 >
 > (2B) Where the registrar may not enter the particulars relating to a marriage in the marriage notice book as mentioned in paragraph (2A) the parties are to be taken not to have given notice under Article 3(1).
 
-**6.**[^key-72ceb67342dad8b43c8a3d821a444560] (1) After Article 7 (marriage schedule) insert—
+**6.**[^c-72ceb67342dad8b43c8a3d821a444560] (1) After Article 7 (marriage schedule) insert—
 
 > **7A. Marriage notice: false information or evidence**
 >
@@ -368,9 +368,9 @@ Article 2(1)
 
 ### PART 2
 
-**7.**[^key-e3f445c233f0361ecc93ede7915ab3d2] The Marriage Regulations (Northern Ireland) 2003 are amended as follows.
+**7.**[^c-e3f445c233f0361ecc93ede7915ab3d2] The Marriage Regulations (Northern Ireland) 2003 are amended as follows.
 
-**8.**[^key-e15cc852823e952cb9d96a698d03b6bf] In regulation 3 (marriage notice)[^f00009]—
+**8.**[^c-e15cc852823e952cb9d96a698d03b6bf] In regulation 3 (marriage notice)[^f00009]—
 
 - (a) in paragraph (2)(b), at the beginning, insert “subject to paragraph (3),”;
 - (b) after paragraph (2) insert—
@@ -379,7 +379,7 @@ Article 2(1)
   >
   > (4) This paragraph applies if the request is made because a party to the referred marriage is gravely ill and not expected to recover.
 
-**9.**[^key-b530b79dae5aaaea197872d50b3e9a72] In regulation 6 (marriage schedule) after paragraph (5) insert—
+**9.**[^c-b530b79dae5aaaea197872d50b3e9a72] In regulation 6 (marriage schedule) after paragraph (5) insert—
 
 > (6) Where a marriage schedule is cancelled under Article 7A of the Order (whether or not it has already been issued), the registrar shall inform both parties to the marriage.
 
@@ -387,9 +387,9 @@ Article 2(1)
 
 Article 2(2)
 
-**1.**[^key-47c4b87dc4129079278e1682ebb9c54b] Section 23 of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004[^f00010] (procedure for marriage: Northern Ireland) is amended as follows.
+**1.**[^c-47c4b87dc4129079278e1682ebb9c54b] Section 23 of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004[^f00010] (procedure for marriage: Northern Ireland) is amended as follows.
 
-**2.**[^key-7708df1b614d8386e4346487a8b1b834] For subsection (1) substitute—
+**2.**[^c-7708df1b614d8386e4346487a8b1b834] For subsection (1) substitute—
 
 > (1) This section applies to a marriage which is intended to be solemnised in Northern Ireland unless each party to the marriage falls within exception A or exception B.
 >
@@ -400,7 +400,7 @@ Article 2(2)
 > - (a) the person is exempt from immigration control, and
 > - (b) the notice of intention to marry is accompanied by the specified evidence required by Article 3B(1) of the Marriage (Northern Ireland) Order 2003[^f00011] that the person is exempt from immigration control.
 
-**3.**[^key-0df7dde3872fc0c6ad3cccab95faf7e5] For subsection (6) substitute—
+**3.**[^c-0df7dde3872fc0c6ad3cccab95faf7e5] For subsection (6) substitute—
 
 > (6) In this section—
 >
@@ -414,9 +414,9 @@ Article 2(3)
 
 ### PART 1
 
-**1.**[^key-c743d8e11ba11bebafa8e496feb9216b] The Civil Partnership Act 2004[^f00012] is amended as follows.
+**1.**[^c-c743d8e11ba11bebafa8e496feb9216b] The Civil Partnership Act 2004[^f00012] is amended as follows.
 
-**2.**[^key-4ccce223af0d893c1c677e0de1890dd2] After section 139 insert—
+**2.**[^c-4ccce223af0d893c1c677e0de1890dd2] After section 139 insert—
 
 > **139A. Additional information if party not relevant national**
 >
@@ -532,7 +532,7 @@ Article 2(3)
 > - (b) “prescribed information” means information prescribed in regulations;
 > - (c) “regulations” means regulations made by the Secretary of State under section 54(2) of, and Schedule 5 to, the 2014 Act.
 
-**3.**[^key-0c544001ac2593029f26bb4cfd98e1ed] After Schedule 13 (civil partnership of persons under 18) insert—
+**3.**[^c-0c544001ac2593029f26bb4cfd98e1ed] After Schedule 13 (civil partnership of persons under 18) insert—
 
 > **SCHEDULE 13A — Modifications if proposed civil partnership referred under section 139E**
 >
@@ -644,7 +644,7 @@ Article 2(3)
 >
 > (5) In this paragraph “investigation” means an investigation, conducted following a decision by the Secretary of State under section 48 of the 2014 Act, whether a proposed civil partnership is a sham.
 
-**4.**[^key-a0f18b20be178244eb0b58fd249743b1] In section 140 (civil partnership notice book), after subsection (2) insert—
+**4.**[^c-a0f18b20be178244eb0b58fd249743b1] In section 140 (civil partnership notice book), after subsection (2) insert—
 
 > (2A) But the registrar must not enter the particulars relating to the civil partnership in the civil partnership notice book in a case where any of the requirements imposed by or under any of the following provisions of this Act is applicable but not complied with—
 >
@@ -655,7 +655,7 @@ Article 2(3)
 >
 > (2B) Where the registrar may not enter the particulars relating to the civil partnership notice book as mentioned in subsection (2A) the parties are to be taken not to have given notice under section 139.
 
-**5.**[^key-f81060780f4faf7ce53488a8ec87a5c4] After section 143 (civil partnership schedule) insert—
+**5.**[^c-f81060780f4faf7ce53488a8ec87a5c4] After section 143 (civil partnership schedule) insert—
 
 > **143A. Civil partnership notice: false information or evidence**
 >
@@ -674,7 +674,7 @@ Article 2(3)
 > - “exempt person” has the same meaning as in section 139E;
 > - “relevant decision” means a decision of a registrar that a party to the proposed civil partnership is an exempt person.
 
-**6.**[^key-222bedf5d20d7e1801a32aefb6c4fd47] In section 160 (interpretation), in the appropriate places insert—
+**6.**[^c-222bedf5d20d7e1801a32aefb6c4fd47] In section 160 (interpretation), in the appropriate places insert—
 
 > - (a) “2014 Act” means the Immigration Act 2014;
 
@@ -684,13 +684,13 @@ Article 2(3)
 
 .
 
-**7.**[^key-da3a7f91520be1e2945bd03a5786e587] In section 176 (proof of certain matters not necessary to validity of civil partnership), after paragraph (b) insert—
+**7.**[^c-da3a7f91520be1e2945bd03a5786e587] In section 176 (proof of certain matters not necessary to validity of civil partnership), after paragraph (b) insert—
 
 > - (c) that, in the case of a civil partnership to which Schedule 13A applied, any of the events listed in paragraph 2(2) to (6) of that Schedule occurred;
 
 .
 
-**8.**[^key-6c663512a6849f5721e096f8451aad7a] In Schedule 23 (immigration control and formation of civil partnerships)—
+**8.**[^c-6c663512a6849f5721e096f8451aad7a] In Schedule 23 (immigration control and formation of civil partnerships)—
 
 - (a) in paragraph A1(4)[^f00017] for “paragraph” substitute “Schedule”;
 - (b) for paragraph 1[^f00018] substitute—
@@ -712,9 +712,9 @@ Article 2(3)
 
 ### PART 2
 
-**9.**[^key-3aaad74506bbc031b1ca4d5cff36827b] The Civil Partnership Regulations (Northern Ireland) 2005[^f00020] are amended as follows.
+**9.**[^c-3aaad74506bbc031b1ca4d5cff36827b] The Civil Partnership Regulations (Northern Ireland) 2005[^f00020] are amended as follows.
 
-**10.**[^key-b0460a80c79ee42d9376183bd90f9839] In regulation 3 (civil partnership notice)[^f00021]—
+**10.**[^c-b0460a80c79ee42d9376183bd90f9839] In regulation 3 (civil partnership notice)[^f00021]—
 
 - (a) in paragraph (2)(b), at the beginning, insert “subject to paragraph (3),”;
 - (b) after paragraph (2) insert—
@@ -723,7 +723,7 @@ Article 2(3)
   >
   > (4) This paragraph applies if the request is made because a party to the referred civil partnership is gravely ill and not expected to recover.
 
-**11.**[^key-37680593943e13091c17ba1c07011a7e] In regulation 6 (civil partnership schedule), which becomes paragraph (1), after paragraph (1) insert—
+**11.**[^c-37680593943e13091c17ba1c07011a7e] In regulation 6 (civil partnership schedule), which becomes paragraph (1), after paragraph (1) insert—
 
 > (2) Where a civil partnership schedule is cancelled under section 143A of the Act, the registrar shall inform both parties to the proposed civil partnership.
 
@@ -731,9 +731,9 @@ Article 2(3)
 
 Article 2(4)
 
-**1.**[^key-d05b017414378301b8dfe620f761e55d] The Immigration Act 2014[^f00022] is amended as follows.
+**1.**[^c-d05b017414378301b8dfe620f761e55d] The Immigration Act 2014[^f00022] is amended as follows.
 
-**2.**[^key-7643fd7435b2d687935ea045df6ba9c2] In section 48 (decision whether to investigate)—
+**2.**[^c-7643fd7435b2d687935ea045df6ba9c2] In section 48 (decision whether to investigate)—
 
 - (a) after subsection (1) insert—
 
@@ -757,7 +757,7 @@ Article 2(4)
   > - (a) both of the parties to the proposed civil partnership, and
   > - (b) the registrar who referred the proposed civil partnership to the Secretary of State.
 
-**3.**[^key-04cbb75caa7a8002acf72de8ef93f437] In section 50 (conduct of investigation)—
+**3.**[^c-04cbb75caa7a8002acf72de8ef93f437] In section 50 (conduct of investigation)—
 
 - (a) in subsection (11) in the definition of “relevant requirement” after ““relevant requirement”” insert “in relation to a proposed marriage or civil partnership under the law of England and Wales,”;
 - (b) after the definition of “relevant requirement” insert—
@@ -772,7 +772,7 @@ Article 2(4)
 
   .
 
-**4.**[^key-4097b36c5ad506dd7e283a9796b40672] In section 62(1) (interpretation of Part 4)—
+**4.**[^c-4097b36c5ad506dd7e283a9796b40672] In section 62(1) (interpretation of Part 4)—
 
 - (a) in the definition of “Registrar General” for “means the Registrar General for England and Wales” substitute—
 
@@ -812,7 +812,7 @@ Article 2(5)
 
 ### PART 1 — General Provisions
 
-#### 1. Interpretation[^key-74eff3de53533181010a3152dec6c6e7]
+#### 1. Interpretation[^c-74eff3de53533181010a3152dec6c6e7]
 
 In this Schedule—
 
@@ -826,21 +826,21 @@ In this Schedule—
   - (a) the Registrar General for Northern Ireland; or
   - (b) a registrar.
 
-#### 2. Limitations on powers[^key-c9e33a4be680a35762c94bf00a72970c]
+#### 2. Limitations on powers[^c-c9e33a4be680a35762c94bf00a72970c]
 
 This Schedule does not authorise—
 
 - (a) a disclosure, in contravention of any provisions of the Data Protection Act 1988[^f00028], of personal data which are not exempt from those provisions, or
-- (b) a disclosure which is prohibited under any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016[^key-3bf9a39180ddd8921a1576484957b482].
+- (b) a disclosure which is prohibited under any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016[^c-3bf9a39180ddd8921a1576484957b482].
 
-#### 3. No breach of confidentiality etc[^key-62d5fbf3b967436856679199eaa563bb]
+#### 3. No breach of confidentiality etc[^c-62d5fbf3b967436856679199eaa563bb]
 
 Subject to paragraph 2, a disclosure of information which is authorised by this Schedule does not breach—
 
 - (a) an obligation of confidence owed by the person making the disclosure, or
 - (b) any other restriction on the disclosure of information (however imposed).
 
-#### 4. Retention, copying and disposal of documents[^key-95ef45fbb739ce821f5915dcd5d617c2]
+#### 4. Retention, copying and disposal of documents[^c-95ef45fbb739ce821f5915dcd5d617c2]
 
 A person to whom a document is supplied under any provision of this Schedule may—
 
@@ -848,7 +848,7 @@ A person to whom a document is supplied under any provision of this Schedule may
 - (b) copy the document;
 - (c) dispose of the document in such manner as the person thinks appropriate.
 
-#### 5. Saving for existing powers[^key-3e26b0ec37c04767323f38125c65c6b2]
+#### 5. Saving for existing powers[^c-3e26b0ec37c04767323f38125c65c6b2]
 
 This Schedule does not limit any other power under which—
 
@@ -857,7 +857,7 @@ This Schedule does not limit any other power under which—
 
 ### PART 2 — Disclosure of information etc where proposed marriage or civil partnership referred to Secretary of State
 
-**6.**[^key-f7ccd5c0ebc1d2a32efc2dad1bbdc8b6] (1) This paragraph applies if—
+**6.**[^c-f7ccd5c0ebc1d2a32efc2dad1bbdc8b6] (1) This paragraph applies if—
 
 - (a) a registrar refers a proposed marriage to the Secretary of State under Article 3E of the 2003 Order, or
 - (b) a registrar refers a proposed civil partnership to the Secretary of State under section 139E of the 2004 Act.
@@ -878,7 +878,7 @@ This Schedule does not limit any other power under which—
 
 ### PART 3 — Disclosure of information etc for immigration purposes etc
 
-#### 7. Disclosures by registration officials[^key-5151baf7e3a4f1c50b2bf9cd8a36acf5]
+#### 7. Disclosures by registration officials[^c-5151baf7e3a4f1c50b2bf9cd8a36acf5]
 
 (1) A registration official may—
 
@@ -902,14 +902,14 @@ to the Secretary of State, or to another registration official, for use for eith
 - (d) the provision of support for asylum-seekers and their dependants under Part 6 of that Act (support for asylum-seekers);
 - (e) such other purposes as may be specified by the Secretary of State by order under section 54(6) of the 2014 Act.
 
-**8.**[^key-2b946336cf4fa5b69ef3cf41d2432ea4][^key-5151baf7e3a4f1c50b2bf9cd8a36acf5] A registration official may disclose to another registration official—
+**8.**[^c-2b946336cf4fa5b69ef3cf41d2432ea4][^c-5151baf7e3a4f1c50b2bf9cd8a36acf5] A registration official may disclose to another registration official—
 
 - (a) the fact that a suspicion about a marriage or civil partnership has been reported to the Secretary of State under section 24 or 24A of the Immigration and Asylum Act 1999[^f00031], and
 - (b) the content of any such report,
 
 (whether or not the suspicion was reported by the registration official making the disclosure).
 
-#### 9. Disclosures by the Secretary of State[^key-96204b85b07dad143ee5185d22cd958d]
+#### 9. Disclosures by the Secretary of State[^c-96204b85b07dad143ee5185d22cd958d]
 
 (1) The Secretary of State may—
 
@@ -963,23 +963,23 @@ No impact assessment has been produced for this Order as no impact on the volunt
 
 [^f00001]: Footnote: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22).
 
-[^key-27fa2c0fb171957769f79cb7583af534]: Commencement: Art. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-27fa2c0fb171957769f79cb7583af534]: Commencement: Art. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
 [^f00002]: Footnote: [S.I. 2003/413 (N.I. 3)](https://www.legislation.gov.uk/nisi/2003/413).
 
 [^f00003]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-e763f9946573f1657e41868d6a931ea9]: Commencement: Art. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-e763f9946573f1657e41868d6a931ea9]: Commencement: Art. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
 [^f00004]: Footnote: [2004 c. 19](https://www.legislation.gov.uk/ukpga/2004/19).
 
-[^key-fde4bb720fb3846407a13d4bcb5503e6]: Commencement: Sch. 1 para. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-fde4bb720fb3846407a13d4bcb5503e6]: Commencement: Sch. 1 para. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
-[^key-1c45f44c6999e2387923c431c0530f7c]: Commencement: Sch. 1 para. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-1c45f44c6999e2387923c431c0530f7c]: Commencement: Sch. 1 para. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
-[^key-978ae492115b8f5d6d8200f7b002e925]: Commencement: Sch. 1 para. 3 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-978ae492115b8f5d6d8200f7b002e925]: Commencement: Sch. 1 para. 3 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
-[^key-167628f115c5e0ec979a6dec26dd58f9]: Commencement: Sch. 1 para. 4 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-167628f115c5e0ec979a6dec26dd58f9]: Commencement: Sch. 1 para. 4 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
 [^f00005]: Footnote: The definition of relevant statutory period is amended by paragraph 4 of Schedule 4 to this Order and paragraph 4 of Schedule 4 to [S.I. 2015/396](https://www.legislation.gov.uk/uksi/2015/396).
 
@@ -987,55 +987,55 @@ No impact assessment has been produced for this Order as no impact on the volunt
 
 [^f00007]: Footnote: [S.R. (NI) 2003 No 468](https://www.legislation.gov.uk/nisr/2003/468); paragraph (2) of regulation 3 is amended by, and paragraphs (3) and (4) inserted by, paragraph 8 of Schedule 1 to this Order. Regulation 3(2) is also amended with effect from 2 March 2015 by [S.I. 2014/296 (N.I.)](https://www.legislation.gov.uk/nisr/2014/296).
 
-[^key-dd349b2ae0fd9a2c88ff48ec97718221]: Commencement: Sch. 1 para. 5 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-dd349b2ae0fd9a2c88ff48ec97718221]: Commencement: Sch. 1 para. 5 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
 [^f00008]: Footnote: Section 23 has been amended by [S.I. 2011/1158](https://www.legislation.gov.uk/uksi/2011/1158).
 
-[^key-72ceb67342dad8b43c8a3d821a444560]: Commencement: Sch. 1 para. 6 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-72ceb67342dad8b43c8a3d821a444560]: Commencement: Sch. 1 para. 6 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
-[^key-e3f445c233f0361ecc93ede7915ab3d2]: Commencement: Sch. 1 para. 7 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-e3f445c233f0361ecc93ede7915ab3d2]: Commencement: Sch. 1 para. 7 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
-[^key-e15cc852823e952cb9d96a698d03b6bf]: Commencement: Sch. 1 para. 8 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-e15cc852823e952cb9d96a698d03b6bf]: Commencement: Sch. 1 para. 8 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
 [^f00009]: Footnote: Regulation 3(2) is amended by [S.I. 2014/296 (N.I.)](https://www.legislation.gov.uk/nisr/2014/296) with effect from 2 March 2015 increasing the required notice referred to in that regulation from at least 14 days before the intended marriage to at least 28 days.
 
-[^key-b530b79dae5aaaea197872d50b3e9a72]: Commencement: Sch. 1 para. 9 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-b530b79dae5aaaea197872d50b3e9a72]: Commencement: Sch. 1 para. 9 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
-[^key-47c4b87dc4129079278e1682ebb9c54b]: Commencement: Sch. 2 para. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-47c4b87dc4129079278e1682ebb9c54b]: Commencement: Sch. 2 para. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
 [^f00010]: Footnote: [2004 c. 19](https://www.legislation.gov.uk/ukpga/2004/19); section 23 was amended by [S.I. 2011/1158](https://www.legislation.gov.uk/uksi/2011/1158).
 
-[^key-7708df1b614d8386e4346487a8b1b834]: Commencement: Sch. 2 para. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-7708df1b614d8386e4346487a8b1b834]: Commencement: Sch. 2 para. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
 [^f00011]: Footnote: [S.I. 2003/413 (N.I. 3)](https://www.legislation.gov.uk/nisi/2003/413); section 3B is inserted by paragraph 3 of Schedule 1 to this Order.
 
-[^key-0df7dde3872fc0c6ad3cccab95faf7e5]: Commencement: Sch. 2 para. 3 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-0df7dde3872fc0c6ad3cccab95faf7e5]: Commencement: Sch. 2 para. 3 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
-[^key-c743d8e11ba11bebafa8e496feb9216b]: Commencement: Sch. 3 para. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-c743d8e11ba11bebafa8e496feb9216b]: Commencement: Sch. 3 para. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
 [^f00012]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-4ccce223af0d893c1c677e0de1890dd2]: Commencement: Sch. 3 para. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-4ccce223af0d893c1c677e0de1890dd2]: Commencement: Sch. 3 para. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
 [^f00013]: Footnote: “statutory provision” is defined by section 160 of the Civil Partnership Act (c. [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)) to have the same meaning as in section 1(f) of the Interpretation Act (Northern Ireland) [1954 (NI c. 33)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-0c544001ac2593029f26bb4cfd98e1ed]: Commencement: Sch. 3 para. 3 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-0c544001ac2593029f26bb4cfd98e1ed]: Commencement: Sch. 3 para. 3 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
 [^f00014]: Footnote: Section 48(8B) is inserted by paragraph 2 of Schedule 4 to this Order.
 
 [^f00015]: Footnote: [S.R. (NI) 2005 No. 482](https://www.legislation.gov.uk/nisr/2005/482); paragraph 10 of Schedule 3to this Order amends paragraph (2) of regulation 3 and inserts new paragraphs (3) and (4). Paragraph (2) of regulation 3 is also amended with effect from 2 March 2015 by [S.I. 2014/297](https://www.legislation.gov.uk/uksi/2014/297).
 
-[^key-a0f18b20be178244eb0b58fd249743b1]: Commencement: Sch. 3 para. 4 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-a0f18b20be178244eb0b58fd249743b1]: Commencement: Sch. 3 para. 4 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
-[^key-f81060780f4faf7ce53488a8ec87a5c4]: Commencement: Sch. 3 para. 5 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-f81060780f4faf7ce53488a8ec87a5c4]: Commencement: Sch. 3 para. 5 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
-[^key-222bedf5d20d7e1801a32aefb6c4fd47]: Commencement: Sch. 3 para. 6 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-222bedf5d20d7e1801a32aefb6c4fd47]: Commencement: Sch. 3 para. 6 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
 [^f00016]: Footnote: Section 30A was inserted by section 52 of, and paragraph 27 of Schedule 4 to, the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22).
 
-[^key-da3a7f91520be1e2945bd03a5786e587]: Commencement: Sch. 3 para. 7 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-da3a7f91520be1e2945bd03a5786e587]: Commencement: Sch. 3 para. 7 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
-[^key-6c663512a6849f5721e096f8451aad7a]: Commencement: Sch. 3 para. 8 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-6c663512a6849f5721e096f8451aad7a]: Commencement: Sch. 3 para. 8 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
 [^f00017]: Footnote: Paragraph A1 was inserted by section 58(5) of the Immigration Act 2014.
 
@@ -1043,31 +1043,31 @@ No impact assessment has been produced for this Order as no impact on the volunt
 
 [^f00019]: Footnote: Paragraphs 8 and 12 were substituted by section 58(8) and (9) of the Immigration Act 2014. Those amendments will also be commenced immediately before or at the same as this Order comes into force.
 
-[^key-3aaad74506bbc031b1ca4d5cff36827b]: Commencement: Sch. 3 para. 9 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-3aaad74506bbc031b1ca4d5cff36827b]: Commencement: Sch. 3 para. 9 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
 [^f00020]: Footnote: [S.R.(NI) 2005 No. 482](https://www.legislation.gov.uk/nisr/2005/482).
 
-[^key-b0460a80c79ee42d9376183bd90f9839]: Commencement: Sch. 3 para. 10 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-b0460a80c79ee42d9376183bd90f9839]: Commencement: Sch. 3 para. 10 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
 [^f00021]: Footnote: Regulation 3(2) is amended by [S.I. 2014/297 (N.I.)](https://www.legislation.gov.uk/nisr/2014/297) with effect from 2 March 2015 so as to increase the required period referred to in that paragraph from at least 14 days before the date of intended civil partnership to at least 28 days.
 
-[^key-37680593943e13091c17ba1c07011a7e]: Commencement: Sch. 3 para. 11 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-37680593943e13091c17ba1c07011a7e]: Commencement: Sch. 3 para. 11 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
-[^key-d05b017414378301b8dfe620f761e55d]: Commencement: Sch. 4 para. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-d05b017414378301b8dfe620f761e55d]: Commencement: Sch. 4 para. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
 [^f00022]: Footnote: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22).
 
-[^key-7643fd7435b2d687935ea045df6ba9c2]: Commencement: Sch. 4 para. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-7643fd7435b2d687935ea045df6ba9c2]: Commencement: Sch. 4 para. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
 [^f00023]: Footnote: [S.I. 2003/413 (N.I. 3)](https://www.legislation.gov.uk/nisi/2003/413); section 3E is inserted by article 3 of Schedule 1 to this Order.
 
 [^f00024]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33); section 139E is inserted by article 2 of Schedule 3 to this Order.
 
-[^key-04cbb75caa7a8002acf72de8ef93f437]: Commencement: Sch. 4 para. 3 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-04cbb75caa7a8002acf72de8ef93f437]: Commencement: Sch. 4 para. 3 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
-[^key-4097b36c5ad506dd7e283a9796b40672]: Commencement: Sch. 4 para. 4 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-4097b36c5ad506dd7e283a9796b40672]: Commencement: Sch. 4 para. 4 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
-[^key-74eff3de53533181010a3152dec6c6e7]: Commencement: Sch. 5 para. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-74eff3de53533181010a3152dec6c6e7]: Commencement: Sch. 5 para. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
 [^f00025]: Footnote: [S.I. 2003/413 (N.I. 3)](https://www.legislation.gov.uk/nisi/2003/413).
 
@@ -1075,26 +1075,26 @@ No impact assessment has been produced for this Order as no impact on the volunt
 
 [^f00027]: Footnote: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22).
 
-[^key-c9e33a4be680a35762c94bf00a72970c]: Commencement: Sch. 5 para. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-c9e33a4be680a35762c94bf00a72970c]: Commencement: Sch. 5 para. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
 [^f00028]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).
 
-[^key-3bf9a39180ddd8921a1576484957b482]: Textual amendment: Words in [Sch. 5 para. 2(b)](https://www.legislation.gov.uk/uksi/2015/395/schedule/5/paragraph/2/b) substituted (27.6.2018) by [The Investigatory Powers (Consequential Amendments etc.) Regulations 2018 (S.I. 2018/682)](https://www.legislation.gov.uk/uksi/2018/682), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/682/regulation/1/3), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2018/682/schedule/1/paragraph/31) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/682/regulation/4))
+[^c-3bf9a39180ddd8921a1576484957b482]: Textual amendment: Words in [Sch. 5 para. 2(b)](https://www.legislation.gov.uk/uksi/2015/395/schedule/5/paragraph/2/b) substituted (27.6.2018) by [The Investigatory Powers (Consequential Amendments etc.) Regulations 2018 (S.I. 2018/682)](https://www.legislation.gov.uk/uksi/2018/682), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/682/regulation/1/3), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2018/682/schedule/1/paragraph/31) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/682/regulation/4))
 
-[^key-62d5fbf3b967436856679199eaa563bb]: Commencement: Sch. 5 para. 3 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-62d5fbf3b967436856679199eaa563bb]: Commencement: Sch. 5 para. 3 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
-[^key-95ef45fbb739ce821f5915dcd5d617c2]: Commencement: Sch. 5 para. 4 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-95ef45fbb739ce821f5915dcd5d617c2]: Commencement: Sch. 5 para. 4 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
-[^key-3e26b0ec37c04767323f38125c65c6b2]: Commencement: Sch. 5 para. 5 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-3e26b0ec37c04767323f38125c65c6b2]: Commencement: Sch. 5 para. 5 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
-[^key-f7ccd5c0ebc1d2a32efc2dad1bbdc8b6]: Commencement: Sch. 5 para. 6 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-f7ccd5c0ebc1d2a32efc2dad1bbdc8b6]: Commencement: Sch. 5 para. 6 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
-[^key-5151baf7e3a4f1c50b2bf9cd8a36acf5]: Commencement: Sch. 5 para. 7 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-5151baf7e3a4f1c50b2bf9cd8a36acf5]: Commencement: Sch. 5 para. 7 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
 [^f00030]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
 
-[^key-2b946336cf4fa5b69ef3cf41d2432ea4]: Commencement: Sch. 5 para. 8 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-2b946336cf4fa5b69ef3cf41d2432ea4]: Commencement: Sch. 5 para. 8 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
 
 [^f00031]: Footnote: Subsection (4) of section 24 was amended by [S.I. 2008/678](https://www.legislation.gov.uk/uksi/2008/678); subsection (5) was substituted and subsection inserted by section 55 of the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22). Section 24A was inserted by section 261 of, and paragraph 162 of Schedule 27 to, the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33); subsection (4) was amended by [S.I. 2008/678](https://www.legislation.gov.uk/uksi/2008/678); and subsection 5 substituted and subsection (6) inserted by section 55 of the Immigration Act 2014.
 
-[^key-96204b85b07dad143ee5185d22cd958d]: Commencement: Sch. 5 para. 9 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)
+[^c-96204b85b07dad143ee5185d22cd958d]: Commencement: Sch. 5 para. 9 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2)

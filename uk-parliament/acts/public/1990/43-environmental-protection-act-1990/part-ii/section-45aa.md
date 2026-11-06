@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45AA. Wales: separate collection etc. of waste[^key-0e7fe122dcca51a325d0b117bb4f6220]
+## 45AA. Wales: separate collection etc. of waste[^c-0e7fe122dcca51a325d0b117bb4f6220]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ must do so in accordance with any applicable separation requirements.
 
 ## Annotations
 
-[^key-0e7fe122dcca51a325d0b117bb4f6220]: Textual amendment: Ss. 45AA, 45AB inserted (E.W.) (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 65](https://www.legislation.gov.uk/anaw/2016/3/section/65), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(a)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/a)
+[^c-0e7fe122dcca51a325d0b117bb4f6220]: Textual amendment: Ss. 45AA, 45AB inserted (E.W.) (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 65](https://www.legislation.gov.uk/anaw/2016/3/section/65), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(a)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/a)

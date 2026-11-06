@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Application to the Crown etc.[^key-eb769ff4ceaedf32b5a84a21c8c80258]
+## 50. Application to the Crown etc.[^c-eb769ff4ceaedf32b5a84a21c8c80258]
 
 *Extent: N.I.*
 
@@ -29,7 +29,7 @@ as they apply to an act done by a private person.
 
 (2) These Regulations apply to Crown employment as they apply to employment by a private person, and shall so apply as if references to a contract of employment included references to the terms of service, and references to dismissal included references to termination of Crown employment.
 
-(3) Paragraphs (1) and (2) have effect subject to paragraph (4) and regulations 14 (Police Service of Northern Ireland and Police Service of Northern Ireland Reserve), 15 (other police bodies) and 16 ( National Crime Agency[^key-4e32681f6135588733550b17d0d49819] ).
+(3) Paragraphs (1) and (2) have effect subject to paragraph (4) and regulations 14 (Police Service of Northern Ireland and Police Service of Northern Ireland Reserve), 15 (other police bodies) and 16 ( National Crime Agency[^c-4e32681f6135588733550b17d0d49819] ).
 
 (4) These Regulations do not apply to service in any of the naval, military or air forces of the Crown.
 
@@ -39,8 +39,8 @@ as they apply to an act done by a private person.
 
 ## Annotations
 
-[^key-eb769ff4ceaedf32b5a84a21c8c80258]: Commencement: [Reg. 50](https://www.legislation.gov.uk/nisr/2006/261/regulation/50) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-eb769ff4ceaedf32b5a84a21c8c80258]: Commencement: [Reg. 50](https://www.legislation.gov.uk/nisr/2006/261/regulation/50) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-4e32681f6135588733550b17d0d49819]: Textual amendment: Words in [reg. 50(3)](https://www.legislation.gov.uk/nisr/2006/261/regulation/50/3) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 52](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/52)
+[^c-4e32681f6135588733550b17d0d49819]: Textual amendment: Words in [reg. 50(3)](https://www.legislation.gov.uk/nisr/2006/261/regulation/50/3) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 52](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/52)
 
 [^f00038]: Footnote: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Meaning of “final pay”[^key-3d337a980353bb0a370f85aa2cd8ab4f]
+## 119. Meaning of “final pay”[^c-3d337a980353bb0a370f85aa2cd8ab4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,19 +35,19 @@ summary: ''
 - (a) that pension was eligible to be so increased; and
 - (b) the beginning date for that pension was the first day of the next scheme year after the earnings year.
 
-(4)[^key-7563c132d458887c87b53e21ca011613] In this regulation and in regulation 120, if the member is a transition member with continuity of service, “pensionable earnings” in respect of any period includes—
+(4)[^c-7563c132d458887c87b53e21ca011613] In this regulation and in regulation 120, if the member is a transition member with continuity of service, “pensionable earnings” in respect of any period includes—
 
 - (a) the member’s pensionable earnings under an existing scheme before the closing date; and
 - (b) the amount which is the higher of —
   - (i) the total fees paid to the member in respect of qualifying fee-paid service in the period in question, or
   - (ii) the total fees which would have been paid to the member in respect of such service in the period in question if, for any office held by the member, the daily fee paid to the member had been the daily fee determined by an Employment Tribunal or accepted by the appropriate Minister to be payable in respect of that period.
 
-(5)[^key-e3448b398c3f1cc60b1b75908297eecc] In this regulation “qualifying fee-paid service” has the meaning given in regulation 4 of the FPJR 2017.
+(5)[^c-e3448b398c3f1cc60b1b75908297eecc] In this regulation “qualifying fee-paid service” has the meaning given in regulation 4 of the FPJR 2017.
 
 ## Annotations
 
-[^key-3d337a980353bb0a370f85aa2cd8ab4f]: Commencement: [Reg. 119](https://www.legislation.gov.uk/uksi/2015/182/regulation/119) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-3d337a980353bb0a370f85aa2cd8ab4f]: Commencement: [Reg. 119](https://www.legislation.gov.uk/uksi/2015/182/regulation/119) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
 
-[^key-7563c132d458887c87b53e21ca011613]: Textual amendment: [Reg. 119(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/119/4) substituted (1.4.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2017/508/regulation/11/a)
+[^c-7563c132d458887c87b53e21ca011613]: Textual amendment: [Reg. 119(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/119/4) substituted (1.4.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2017/508/regulation/11/a)
 
-[^key-e3448b398c3f1cc60b1b75908297eecc]: Textual amendment: [Reg. 119(5)](https://www.legislation.gov.uk/uksi/2015/182/regulation/119/5) inserted (1.4.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2017/508/regulation/11/b)
+[^c-e3448b398c3f1cc60b1b75908297eecc]: Textual amendment: [Reg. 119(5)](https://www.legislation.gov.uk/uksi/2015/182/regulation/119/5) inserted (1.4.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2017/508/regulation/11/b)

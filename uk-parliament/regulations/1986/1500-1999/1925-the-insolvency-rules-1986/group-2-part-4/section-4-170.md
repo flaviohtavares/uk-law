@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.170. Dealings by committee-members and others[^key-fbc59ea1c75e819650ea3ca4acc283dd]
+## 4.170. Dealings by committee-members and others[^c-fbc59ea1c75e819650ea3ca4acc283dd]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbc59ea1c75e819650ea3ca4acc283dd]: Commencement: [Rule 4.170](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.170) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-fbc59ea1c75e819650ea3ca4acc283dd]: Commencement: [Rule 4.170](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.170) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

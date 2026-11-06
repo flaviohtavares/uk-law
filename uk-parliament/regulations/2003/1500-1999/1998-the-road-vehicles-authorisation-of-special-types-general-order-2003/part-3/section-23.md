@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Forward and rearward projections: police notification, Secretary of State notification and attendants[^key-d171fd5791021a9f48013ae1a60d8601]
+## 23. Forward and rearward projections: police notification, Secretary of State notification and attendants[^c-d171fd5791021a9f48013ae1a60d8601]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ regardless of whether any part of the weight of the implement is transmitted to 
 
 ## Annotations
 
-[^key-d171fd5791021a9f48013ae1a60d8601]: Commencement: Art. 23 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-d171fd5791021a9f48013ae1a60d8601]: Commencement: Art. 23 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

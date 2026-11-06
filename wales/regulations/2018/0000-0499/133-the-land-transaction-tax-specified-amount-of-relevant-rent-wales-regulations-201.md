@@ -51,7 +51,7 @@ In accordance with section 79(2) of that Act, a draft of these Regulations was l
 
 ## 2. Specified amount of relevant rent
 
-The amount of relevant rent specified under paragraph 36(1)(b) of Schedule 6 to the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 is £13,500[^key-78088f17dfc9f32e62575926f32ec1bf].
+The amount of relevant rent specified under paragraph 36(1)(b) of Schedule 6 to the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 is £13,500[^c-78088f17dfc9f32e62575926f32ec1bf].
 
 Mark Drakeford
 
@@ -69,4 +69,4 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c22976821]: Marginal citation: 2017 anaw 1.
 
-[^key-78088f17dfc9f32e62575926f32ec1bf]: Textual amendment: Sum in reg. 2 substituted (4.2.2021) by [The Land Transaction Tax (Specified Amount of Relevant Rent) (Wales) (Amendment) Regulations 2021 (S.I. 2021/119)](https://www.legislation.gov.uk/wsi/2021/119), [regs. 1](https://www.legislation.gov.uk/wsi/2021/119/regulation/1), [4(2)](https://www.legislation.gov.uk/wsi/2021/119/regulation/4/2) (with [reg. 3](https://www.legislation.gov.uk/wsi/2021/119/regulation/3))
+[^c-78088f17dfc9f32e62575926f32ec1bf]: Textual amendment: Sum in reg. 2 substituted (4.2.2021) by [The Land Transaction Tax (Specified Amount of Relevant Rent) (Wales) (Amendment) Regulations 2021 (S.I. 2021/119)](https://www.legislation.gov.uk/wsi/2021/119), [regs. 1](https://www.legislation.gov.uk/wsi/2021/119/regulation/1), [4(2)](https://www.legislation.gov.uk/wsi/2021/119/regulation/4/2) (with [reg. 3](https://www.legislation.gov.uk/wsi/2021/119/regulation/3))

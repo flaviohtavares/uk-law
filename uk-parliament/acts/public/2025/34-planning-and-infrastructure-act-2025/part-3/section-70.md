@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Remedial action by Secretary of State where EDP ends or is revoked[^key-31b6d61f0e72e5b30fc0b4ee96cd8260][^key-3953369c4f38830dc24eb0f16bb34d42]
+## 70. Remedial action by Secretary of State where EDP ends or is revoked[^c-31b6d61f0e72e5b30fc0b4ee96cd8260][^c-3953369c4f38830dc24eb0f16bb34d42]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-31b6d61f0e72e5b30fc0b4ee96cd8260]: Commencement: S. 70 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-31b6d61f0e72e5b30fc0b4ee96cd8260]: Commencement: S. 70 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-3953369c4f38830dc24eb0f16bb34d42]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2025/34/section/70) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-3953369c4f38830dc24eb0f16bb34d42]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2025/34/section/70) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

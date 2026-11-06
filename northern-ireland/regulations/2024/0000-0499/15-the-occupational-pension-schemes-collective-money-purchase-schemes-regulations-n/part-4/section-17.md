@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Calculation of benefits[^key-bc4ea00b3864416e5609e30b271b01b1]
+## 17. Calculation of benefits[^c-bc4ea00b3864416e5609e30b271b01b1]
 
 *Extent: N.I.*
 
@@ -37,13 +37,13 @@ summary: ''
 - (b) that any such adjustment must be based on the actuarial valuation calculated by reference to the most recent effective date;
 - (c) that any such adjustment must be applied to all the members of the scheme without variation;
 - (d) that any such adjustment must be applied on the benefit adjustment date;
-- (e)[^key-b630421de919edc0ab20ce2c2ef4bf1a] that, except where there is a multi-annual reduction in effect, the amount of any adjustment required or made to the rate or amount of benefits provided under the scheme that is an increase must be determined on the assumptions that—
+- (e)[^c-b630421de919edc0ab20ce2c2ef4bf1a] that, except where there is a multi-annual reduction in effect, the amount of any adjustment required or made to the rate or amount of benefits provided under the scheme that is an increase must be determined on the assumptions that—
   - (i) that increase will be made in each year for the remaining lives of—
     - (aa) the beneficiaries of the scheme on the effective date;
     - (bb) the expected survivors in relation to the members of the scheme on the effective date, and
   - (ii) that increase will include the projected change in inflation.
 
-(5)[^key-fab5a6904ac6005d1a8dcae35236cf8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-fab5a6904ac6005d1a8dcae35236cf8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Subject to paragraphs (3) and (4), it is for the trustees of a collective money purchase scheme to determine, having obtained advice from the scheme actuary, which assumptions are to be used for the purposes of determining the required amount on which the adjustment to the rate or amount of benefits provided under the scheme is based.
 
@@ -54,11 +54,11 @@ summary: ''
 - (a) the multi-annual reduction is to be applied in full on or before the third benefit adjustment date beginning with the benefit adjustment date which relates to the actuarial valuation as a result of which the multi-annual reduction is to be applied;
 - (b) the reduction applied in any year of the multi-annual reduction must not be greater than the reduction applied in the previous year of the multi-annual reduction.
 
-(9) Except as provided by paragraph (10), the trustees[^key-be9d70c3cc8b8c3f6794785faaba7c06] of a collective money purchase scheme must not vary any planned adjustments under a multi-annual reduction after the first benefit adjustment date which relates to the actuarial valuation as a result of which the multi-annual reduction is to be applied.
+(9) Except as provided by paragraph (10), the trustees[^c-be9d70c3cc8b8c3f6794785faaba7c06] of a collective money purchase scheme must not vary any planned adjustments under a multi-annual reduction after the first benefit adjustment date which relates to the actuarial valuation as a result of which the multi-annual reduction is to be applied.
 
-(10)[^key-66d31193522334e4edc2382468d380d0] Where there is one or more multi-annual reduction or reductions in effect and a subsequent actuarial valuation results in an increase in the rate or amount of benefits provided under the scheme, the trustees, having obtained the advice of the scheme actuary, must vary one or more multi-annual reduction or reductions then in effect, by applying that increase to offset the planned reduction or reductions under the multi-annual reduction or reductions, which take effect on or after the benefit adjustment date following that valuation.
+(10)[^c-66d31193522334e4edc2382468d380d0] Where there is one or more multi-annual reduction or reductions in effect and a subsequent actuarial valuation results in an increase in the rate or amount of benefits provided under the scheme, the trustees, having obtained the advice of the scheme actuary, must vary one or more multi-annual reduction or reductions then in effect, by applying that increase to offset the planned reduction or reductions under the multi-annual reduction or reductions, which take effect on or after the benefit adjustment date following that valuation.
 
-(10A)[^key-e63d171fdaaa89062a430b8fbd4abf00] Paragraph (8)(b) does not apply to a multi-annual reduction that has been varied in accordance with paragraph (10).
+(10A)[^c-e63d171fdaaa89062a430b8fbd4abf00] Paragraph (8)(b) does not apply to a multi-annual reduction that has been varied in accordance with paragraph (10).
 
 (10B) Any offsetting increase pursuant to paragraph (10) must be applied to the remaining years of the multi-annual reduction or reductions so that the total reduction applied in any year of the multi-annual reduction or reductions must not be greater than the total reduction applied in the previous year of the multi-annual reduction or reductions.
 
@@ -84,14 +84,14 @@ summary: ''
 
 ## Annotations
 
-[^key-bc4ea00b3864416e5609e30b271b01b1]: Commencement: Reg. 17 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-bc4ea00b3864416e5609e30b271b01b1]: Commencement: Reg. 17 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-b630421de919edc0ab20ce2c2ef4bf1a]: Textual amendment: [Reg. 17(4)(e)](https://www.legislation.gov.uk/nisr/2024/15/regulation/17/4/e) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(11)(a)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/11/a)
+[^c-b630421de919edc0ab20ce2c2ef4bf1a]: Textual amendment: [Reg. 17(4)(e)](https://www.legislation.gov.uk/nisr/2024/15/regulation/17/4/e) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(11)(a)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/11/a)
 
-[^key-fab5a6904ac6005d1a8dcae35236cf8a]: Textual amendment: [Reg. 17(5)](https://www.legislation.gov.uk/nisr/2024/15/regulation/17/5) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(11)(b)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/11/b)
+[^c-fab5a6904ac6005d1a8dcae35236cf8a]: Textual amendment: [Reg. 17(5)](https://www.legislation.gov.uk/nisr/2024/15/regulation/17/5) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(11)(b)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/11/b)
 
-[^key-be9d70c3cc8b8c3f6794785faaba7c06]: Textual amendment: Words in [reg. 17(9)](https://www.legislation.gov.uk/nisr/2024/15/regulation/17/9) substituted (20.6.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/136)](https://www.legislation.gov.uk/nisr/2024/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2024/136/regulation/3/3)
+[^c-be9d70c3cc8b8c3f6794785faaba7c06]: Textual amendment: Words in [reg. 17(9)](https://www.legislation.gov.uk/nisr/2024/15/regulation/17/9) substituted (20.6.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/136)](https://www.legislation.gov.uk/nisr/2024/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2024/136/regulation/3/3)
 
-[^key-66d31193522334e4edc2382468d380d0]: Textual amendment: [Reg. 17(10)](https://www.legislation.gov.uk/nisr/2024/15/regulation/17/10) substituted (20.6.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/136)](https://www.legislation.gov.uk/nisr/2024/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2024/136/regulation/3/4)
+[^c-66d31193522334e4edc2382468d380d0]: Textual amendment: [Reg. 17(10)](https://www.legislation.gov.uk/nisr/2024/15/regulation/17/10) substituted (20.6.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/136)](https://www.legislation.gov.uk/nisr/2024/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2024/136/regulation/3/4)
 
-[^key-e63d171fdaaa89062a430b8fbd4abf00]: Textual amendment: [Reg. 17(10A)-(10C)](https://www.legislation.gov.uk/nisr/2024/15/regulation/17/10A) inserted (20.6.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/136)](https://www.legislation.gov.uk/nisr/2024/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2024/136/regulation/3/5)
+[^c-e63d171fdaaa89062a430b8fbd4abf00]: Textual amendment: [Reg. 17(10A)-(10C)](https://www.legislation.gov.uk/nisr/2024/15/regulation/17/10A) inserted (20.6.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/136)](https://www.legislation.gov.uk/nisr/2024/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2024/136/regulation/3/5)

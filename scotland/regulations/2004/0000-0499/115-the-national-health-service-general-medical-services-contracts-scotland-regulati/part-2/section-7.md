@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Appeal[^key-14ab04fcc1c8853f0a905fa7756796e0]
+## 7. Appeal[^c-14ab04fcc1c8853f0a905fa7756796e0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A person who has been served with a notice under regulation 6(1) may appeal to t
 
 ## Annotations
 
-[^key-14ab04fcc1c8853f0a905fa7756796e0]: Commencement: Reg. 7 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-14ab04fcc1c8853f0a905fa7756796e0]: Commencement: Reg. 7 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

@@ -35,14 +35,14 @@ summary: ''
 
 As to claims for repayment, see section 111.
 
-(6)[^key-cef8fab13912604a1606a3f22ac3e4d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-cef8fab13912604a1606a3f22ac3e4d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-c4a5e090720eb7e9dfa11bd283d15e0f] This section does not apply to regulations containing only provision varying Schedule 6ZA or paragraph 16 of Schedule 9 which does not increase any person's liability to tax.
+(7)[^c-c4a5e090720eb7e9dfa11bd283d15e0f] This section does not apply to regulations containing only provision varying Schedule 6ZA or paragraph 16 of Schedule 9 which does not increase any person's liability to tax.
 
 ## Annotations
 
 [^c5522301]: Commencement: Pt. 4 wholly in force at Royal Assent subject to Sch. 19, see s. 124, Sch. 19 para. 1(1)
 
-[^key-cef8fab13912604a1606a3f22ac3e4d6]: Textual amendment: S. 110(6) repealed (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 41(6)(c)](https://www.legislation.gov.uk/ukpga/2018/3/section/41/6/c)
+[^c-cef8fab13912604a1606a3f22ac3e4d6]: Textual amendment: S. 110(6) repealed (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 41(6)(c)](https://www.legislation.gov.uk/ukpga/2018/3/section/41/6/c)
 
-[^key-c4a5e090720eb7e9dfa11bd283d15e0f]: Textual amendment: S. 110(7) inserted (with effect in accordance with s. 41(8) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2018/3/section/41/4)
+[^c-c4a5e090720eb7e9dfa11bd283d15e0f]: Textual amendment: S. 110(7) inserted (with effect in accordance with s. 41(8) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2018/3/section/41/4)

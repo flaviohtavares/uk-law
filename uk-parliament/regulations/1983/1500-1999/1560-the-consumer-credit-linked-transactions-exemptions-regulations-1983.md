@@ -45,24 +45,24 @@ Coming into Operation
 
 The Secretary of State, in exercise of the powers conferred on him by sections 19(4), 69(5), 96(3) and 189(1) of the Consumer Credit Act 1974 and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
 
-## 1. Citation, commencement and interpretation[^key-621672ad6a81d9db95510aadcf3c9e1b]
+## 1. Citation, commencement and interpretation[^c-621672ad6a81d9db95510aadcf3c9e1b]
 
 (1) These Regulations may be cited as the Consumer Credit (Linked Transactions) (Exemptions) Regulations 1983 and shall come into operation on 19th May 1985.
 
 (2) In these Regulations—
 
 - “**the Act**” means the Consumer Credit Act 1974;
-- [^key-15029a17b8e61a66f7431a6d64f6dbd1]...
-- [^key-15029a17b8e61a66f7431a6d64f6dbd1]...
+- [^c-15029a17b8e61a66f7431a6d64f6dbd1]...
+- [^c-15029a17b8e61a66f7431a6d64f6dbd1]...
 - “**guarantee of goods**” means anything in writing which contains or purports to contain some promise or assurance (however worded or presented) that defects in goods will be made good by complete or partial replacement, or by repair, monetary compensation or otherwise.
 
-(2A)[^key-f294040a08d4b37ec176e8aeb756b5dc] References in these Regulations to contracts of insurance and to deposits must be read with—
+(2A)[^c-f294040a08d4b37ec176e8aeb756b5dc] References in these Regulations to contracts of insurance and to deposits must be read with—
 
 - (a) section 22 of the Financial Services and Markets Act 2000;
 - (b) any relevant order under that section; and
 - (c) Schedule 2 to that Act.
 
-## 2. Exempted linked transactions[^key-e0eb3f9d36d7ea24b7954f4b28e33314]
+## 2. Exempted linked transactions[^c-e0eb3f9d36d7ea24b7954f4b28e33314]
 
 (1) The linked transactions of the descriptions specified in paragraph (2) below shall be excluded from—
 
@@ -98,10 +98,10 @@ These Regulations exclude certain transactions (“linked transactions”) assoc
 
 ## Annotations
 
-[^key-621672ad6a81d9db95510aadcf3c9e1b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1983/1560/regulation/1) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1560/regulation/1/1)
+[^c-621672ad6a81d9db95510aadcf3c9e1b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1983/1560/regulation/1) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1560/regulation/1/1)
 
-[^key-15029a17b8e61a66f7431a6d64f6dbd1]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1983/1560/regulation/1/2) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [376(1)](https://www.legislation.gov.uk/uksi/2001/3649/article/376/1)
+[^c-15029a17b8e61a66f7431a6d64f6dbd1]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1983/1560/regulation/1/2) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [376(1)](https://www.legislation.gov.uk/uksi/2001/3649/article/376/1)
 
-[^key-f294040a08d4b37ec176e8aeb756b5dc]: Textual amendment: [Reg. 1(2A)](https://www.legislation.gov.uk/uksi/1983/1560/regulation/1/2A) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [376(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/376/2)
+[^c-f294040a08d4b37ec176e8aeb756b5dc]: Textual amendment: [Reg. 1(2A)](https://www.legislation.gov.uk/uksi/1983/1560/regulation/1/2A) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [376(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/376/2)
 
-[^key-e0eb3f9d36d7ea24b7954f4b28e33314]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1983/1560/regulation/2) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1560/regulation/1/1)
+[^c-e0eb3f9d36d7ea24b7954f4b28e33314]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1983/1560/regulation/2) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1560/regulation/1/1)

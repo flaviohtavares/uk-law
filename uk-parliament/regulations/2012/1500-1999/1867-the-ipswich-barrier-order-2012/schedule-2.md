@@ -22,7 +22,7 @@ summary: ''
 
 Articles 6 and 7
 
-### PART 1 — SUBSTITUTED WAYS FOR ALLEGED RIGHTS OF WAY IF SUCH RIGHTS ARE ESTABLISHED[^key-6f59c5d74cf58610eb36ec95767e84ae]
+### PART 1 — SUBSTITUTED WAYS FOR ALLEGED RIGHTS OF WAY IF SUCH RIGHTS ARE ESTABLISHED[^c-6f59c5d74cf58610eb36ec95767e84ae]
 
 | Alleged Rights of Way | Possible diversion or substitute Rights of Way |
 | --- | --- |
@@ -31,7 +31,7 @@ Articles 6 and 7
 | Alleged footpath (West Bank Claim A to B to C) | Footpath diverted through the flood gate between the points marked D1 and D2 |
 | Alleged byway (West Bank Claim A to B) | Byway between A and B diverted through the flood gate between points marked D1 and D2 and narrower than otherwise provided for between those points |
 
-### PART 2 — PATHS TO BE TEMPORARILY STOPPED UP[^key-80ece85bf136e728aeb36f86fd1a75c1]
+### PART 2 — PATHS TO BE TEMPORARILY STOPPED UP[^c-80ece85bf136e728aeb36f86fd1a75c1]
 
 <table>
 <thead>
@@ -56,6 +56,6 @@ Articles 6 and 7
 
 ## Annotations
 
-[^key-6f59c5d74cf58610eb36ec95767e84ae]: Commencement: Sch. 2 Pt. 1 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-6f59c5d74cf58610eb36ec95767e84ae]: Commencement: Sch. 2 Pt. 1 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
 
-[^key-80ece85bf136e728aeb36f86fd1a75c1]: Commencement: Sch. 2 Pt. 2 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-80ece85bf136e728aeb36f86fd1a75c1]: Commencement: Sch. 2 Pt. 2 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

@@ -24,11 +24,11 @@ Section 31
 
 ### Coast Protection Act 1949
 
-**1.**[^key-57f1e12eb8be6b83e264e29566c286bd][^key-6e23a8ae886e8f8feecd40ac3b828c51] The Coast Protection Act 1949 is amended as follows.
+**1.**[^c-57f1e12eb8be6b83e264e29566c286bd][^c-6e23a8ae886e8f8feecd40ac3b828c51] The Coast Protection Act 1949 is amended as follows.
 
-**2.**[^key-d6cb80248dbdaa03e56e892bae3a2187][^key-baa294dfd6be77ec2ab15238b51cc84f] Section 2 (constitution of coast protection boards) is repealed.
+**2.**[^c-d6cb80248dbdaa03e56e892bae3a2187][^c-baa294dfd6be77ec2ab15238b51cc84f] Section 2 (constitution of coast protection boards) is repealed.
 
-**3.**[^key-1f1eb06a8c7fe1ddb7c27d4bdf61467b][^key-5451cd8f9e17db610466ffcb48220053] After section 2 insert—
+**3.**[^c-1f1eb06a8c7fe1ddb7c27d4bdf61467b][^c-5451cd8f9e17db610466ffcb48220053] After section 2 insert—
 
 > **2A. Coastal erosion risk management authorities**
 >
@@ -37,7 +37,7 @@ Section 31
 > - (a) coast protection authorities, and
 > - (b) the Environment Agency.
 
-**4.**[^key-b90c365b9ade8914769e6ce35a2cd61d][^key-ded5b339bf32052749bef6fb6bb10747] (1) Section 4 (general powers) is amended as follows.
+**4.**[^c-b90c365b9ade8914769e6ce35a2cd61d][^c-ded5b339bf32052749bef6fb6bb10747] (1) Section 4 (general powers) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -53,7 +53,7 @@ Section 31
 
 (4) In subsection (3) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
 
-**5.**[^key-3e464aff2f36c83806090ca57100e846][^key-b36162143496166c4a323be4cfffe2c6] (1) Section 5 (coast protection work: objections and approvals) is amended as follows.
+**5.**[^c-3e464aff2f36c83806090ca57100e846][^c-b36162143496166c4a323be4cfffe2c6] (1) Section 5 (coast protection work: objections and approvals) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -89,9 +89,9 @@ Section 31
 - (c) in paragraph (a) for “where it is not represented on the coast protection authority” substitute “ (in the case of work carried out by a coast protection authority) ”, and
 - (d) in paragraph (b) omit “which are not so represented and”.
 
-**6.**[^key-a8e46d6698e54c68ef109d2987a98571][^key-30f5addd596e89a30decbb42645e3f34] In section 6 (power to make schemes for carrying out work) in subsection (1) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
+**6.**[^c-a8e46d6698e54c68ef109d2987a98571][^c-30f5addd596e89a30decbb42645e3f34] In section 6 (power to make schemes for carrying out work) in subsection (1) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
 
-**7.**[^key-71a6e8fb64011e23c6ce6d5747e198c6][^key-eac8c64c12d7387a5bce538f29bf6b71] (1) In section 8(1) (confirmation of works schemes)—
+**7.**[^c-71a6e8fb64011e23c6ce6d5747e198c6][^c-eac8c64c12d7387a5bce538f29bf6b71] (1) In section 8(1) (confirmation of works schemes)—
 
 - (a) for “coast protection authority” substitute “ coastal erosion risk management authority ”,
 - (b) for “area of the authority” substitute “ area in which the proposed work is to take place ”, and
@@ -99,15 +99,15 @@ Section 31
 
 (2) In section 8(5) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
 
-**8.**[^key-ad2f0fe65a8590b1896f394b8bf9227d][^key-052ae8c888512d83bed0c6a75d2f8228] In section 9 (carrying out of work) in subsection (4) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
+**8.**[^c-ad2f0fe65a8590b1896f394b8bf9227d][^c-052ae8c888512d83bed0c6a75d2f8228] In section 9 (carrying out of work) in subsection (4) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
 
-**9.**[^key-3b4075729975fe233721867ab84de72e][^key-13520ded1b106c3a803d6eb04a74856c] In section 10 (recovery of coast protection charges) in subsections (2), (5) and (8) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
+**9.**[^c-3b4075729975fe233721867ab84de72e][^c-13520ded1b106c3a803d6eb04a74856c] In section 10 (recovery of coast protection charges) in subsections (2), (5) and (8) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
 
-**10.**[^key-35726d7bbcc4c3040a5ed1dd49a87cfb][^key-a3585af189d2bd0daf0626ad34623c14] In section 12 (maintenance and repair) in subsections (1) and (3) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
+**10.**[^c-35726d7bbcc4c3040a5ed1dd49a87cfb][^c-a3585af189d2bd0daf0626ad34623c14] In section 12 (maintenance and repair) in subsections (1) and (3) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
 
-**11.**[^key-1c705b9f0b3c696c5a229c68023c6080][^key-329b71fcc554c2fe24e5a2ac7f29264a] In section 13 (recovery of maintenance cost) in subsections (1), (3)(b), (4) and (6) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
+**11.**[^c-1c705b9f0b3c696c5a229c68023c6080][^c-329b71fcc554c2fe24e5a2ac7f29264a] In section 13 (recovery of maintenance cost) in subsections (1), (3)(b), (4) and (6) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
 
-**12.**[^key-f1da8f70ea35cfe87d8bca6363b2065a][^key-f6d690df14df5f92e3de82b0b2ea3938] (1) Section 14 (compulsory acquisition of land) is amended as follows.
+**12.**[^c-f1da8f70ea35cfe87d8bca6363b2065a][^c-f6d690df14df5f92e3de82b0b2ea3938] (1) Section 14 (compulsory acquisition of land) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -116,29 +116,29 @@ Section 31
 
 (3) Omit subsection (2).
 
-**13.**[^key-69d25d8e52b91af115f5fb05241aad02][^key-5d56497bd50e36faa181469f0e5767fe] In section 19 (compensation for depreciation of value of an interest in land) in subsections (1) and (2) for “coast protection authority”, in each place, substitute “ coastal erosion risk management authority ”.
+**13.**[^c-69d25d8e52b91af115f5fb05241aad02][^c-5d56497bd50e36faa181469f0e5767fe] In section 19 (compensation for depreciation of value of an interest in land) in subsections (1) and (2) for “coast protection authority”, in each place, substitute “ coastal erosion risk management authority ”.
 
-**14.**[^key-4beec7f26812e380ada33ebb26616731][^key-e9e38f698a7b30e3c7906fd5a5c12ce5] Section 20 (contributions towards expenses) is repealed.
+**14.**[^c-4beec7f26812e380ada33ebb26616731][^c-e9e38f698a7b30e3c7906fd5a5c12ce5] Section 20 (contributions towards expenses) is repealed.
 
-**15.**[^key-ded589a6816a4b083787ab860b3e939e][^key-077ebbc09e5da4f22bb8820b8d375e0f] Section 21 (grants to coast protection authorities) is repealed.
+**15.**[^c-ded589a6816a4b083787ab860b3e939e][^c-077ebbc09e5da4f22bb8820b8d375e0f] Section 21 (grants to coast protection authorities) is repealed.
 
-**16.**[^key-0821471417be6a2beb1907531453252a][^key-ab63cd47d6d592a5e86484411f2da1e8] In section 23 (power to sell materials) in subsections (1) and (2) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
+**16.**[^c-0821471417be6a2beb1907531453252a][^c-ab63cd47d6d592a5e86484411f2da1e8] In section 23 (power to sell materials) in subsections (1) and (2) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
 
-**17.**[^key-df5ded2d96415f5b89b9944263493ed9][^key-2ad166bfb19f9b65835c12592758926e] In section 24 (arbitrations) in subsection (3) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
+**17.**[^c-df5ded2d96415f5b89b9944263493ed9][^c-2ad166bfb19f9b65835c12592758926e] In section 24 (arbitrations) in subsection (3) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
 
-**18.**[^key-fe3ae4dfcb05cbdab21b0d76f9702860][^key-53bcefd2c43f772e501811580c289a67] In section 25 (powers of entry and inspection) in subsections (1) and (9)(b) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
+**18.**[^c-fe3ae4dfcb05cbdab21b0d76f9702860][^c-53bcefd2c43f772e501811580c289a67] In section 25 (powers of entry and inspection) in subsections (1) and (9)(b) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
 
-**19.**[^key-839f9ee2fc961b29e1feae1509d26b9f][^key-19b606bee719fb2d8e9727e7aeb9fc8e] In section 26 (power to require information) in subsections (1) and (2) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
+**19.**[^c-839f9ee2fc961b29e1feae1509d26b9f][^c-19b606bee719fb2d8e9727e7aeb9fc8e] In section 26 (power to require information) in subsections (1) and (2) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
 
-**20.**[^key-474b24dbcaf9910a122ce6efd79ff937][^key-a6063b6a5cd7211aa4479e4bd939d3d3] In section 27 (acquisition of right of passage) in subsections (1), (4)(b) and (5) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
+**20.**[^c-474b24dbcaf9910a122ce6efd79ff937][^c-a6063b6a5cd7211aa4479e4bd939d3d3] In section 27 (acquisition of right of passage) in subsections (1), (4)(b) and (5) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
 
-**21.**[^key-b1fdef8e2eb8c4b09ea3239590158446][^key-ff78eaf28ba80b954773919b2c2d8929] In section 28 (power of Minister to facilitate coast protection work) in subsections (1) and (2) for “coast protection authority”, in each place, substitute “ coastal erosion risk management authority ”.
+**21.**[^c-b1fdef8e2eb8c4b09ea3239590158446][^c-ff78eaf28ba80b954773919b2c2d8929] In section 28 (power of Minister to facilitate coast protection work) in subsections (1) and (2) for “coast protection authority”, in each place, substitute “ coastal erosion risk management authority ”.
 
-**22.**[^key-df72c1176e180947afcb1b037bbca92b][^key-011b8ee40a692b8a202db11968e8bc1d] In section 44 (regulations and orders) in subsection (2) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
+**22.**[^c-df72c1176e180947afcb1b037bbca92b][^c-011b8ee40a692b8a202db11968e8bc1d] In section 44 (regulations and orders) in subsection (2) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
 
-**23.**[^key-daa9c1141f7a30ca22344ee7e2300720][^key-24a92d3df7509c15d614b2f82133dc5f] In section 45 (service) in subsection (2) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
+**23.**[^c-daa9c1141f7a30ca22344ee7e2300720][^c-24a92d3df7509c15d614b2f82133dc5f] In section 45 (service) in subsection (2) for “coast protection authority” substitute “ coastal erosion risk management authority ”.
 
-**24.**[^key-17156d6f5fc51b7610bed717b977b598][^key-1bfd02f817b7db57d71d16041dc27ebf] In section 49 (interpretation) for the definition of “coast protection work” substitute—
+**24.**[^c-17156d6f5fc51b7610bed717b977b598][^c-1bfd02f817b7db57d71d16041dc27ebf] In section 49 (interpretation) for the definition of “coast protection work” substitute—
 
 > “**coast protection work**” means any of the following done for the purpose of managing a coastal erosion risk (within the meaning of Part 1 of the Flood and Water Management Act 2010)—
 >
@@ -148,20 +148,20 @@ Section 31
 
 ### Land Drainage Act 1991
 
-**25.**[^key-0a1c4169b85332b9002c72117c1faa6c] The Land Drainage Act 1991 is amended as follows.
+**25.**[^c-0a1c4169b85332b9002c72117c1faa6c] The Land Drainage Act 1991 is amended as follows.
 
-**26.**[^key-7ec158fc41cddf1b4428cdde2d6cefd8] Section 8 (concurrent powers of the Environment Agency) is repealed.
+**26.**[^c-7ec158fc41cddf1b4428cdde2d6cefd8] Section 8 (concurrent powers of the Environment Agency) is repealed.
 
-**27.**[^key-157cbb5a37b4b5ecd5b42600e4e62ba9] In section 9(1) (default powers of the Agency)—
+**27.**[^c-157cbb5a37b4b5ecd5b42600e4e62ba9] In section 9(1) (default powers of the Agency)—
 
 - (a) omit “but without prejudice to section 8 above”, and
 - (b) omit “flooding or”.
 
-**28.**[^key-0a5faf2d716d780957fab19f1b9ec3fd] At the end of section 11 (arrangements between drainage authorities) add—
+**28.**[^c-0a5faf2d716d780957fab19f1b9ec3fd] At the end of section 11 (arrangements between drainage authorities) add—
 
 > (5) Two internal drainage boards may agree that one is to provide administrative, professional or technical services for the other.
 
-**29.**[^key-5b66168a834bd283bac1a4dddd2adc4a][^key-ebef6f3c93a04479d2bd9253f48b5ddc] (1) After section 14 (general drainage powers of boards and local authorities) insert—
+**29.**[^c-5b66168a834bd283bac1a4dddd2adc4a][^c-ebef6f3c93a04479d2bd9253f48b5ddc] (1) After section 14 (general drainage powers of boards and local authorities) insert—
 
 > **14A. General powers: flood risk management works**
 >
@@ -225,9 +225,9 @@ Section 31
 
 (3) Omit section 14(4)(b) (and the “or” before it).
 
-**30.**[^key-eb6720388c4be47e65b3e9d2008a9118][^key-966a26606e5af3532b33e2ddb1270c06] Section 17 (supervision by the Agency: works) is repealed.
+**30.**[^c-eb6720388c4be47e65b3e9d2008a9118][^c-966a26606e5af3532b33e2ddb1270c06] Section 17 (supervision by the Agency: works) is repealed.
 
-**31.**[^key-d62379f75d1d49936cd0e060486ba1f5] (1) Section 21 (enforcement of obligations to repair watercourses and bridges) is amended as follows.
+**31.**[^c-d62379f75d1d49936cd0e060486ba1f5] (1) Section 21 (enforcement of obligations to repair watercourses and bridges) is amended as follows.
 
 (2) For subsection (6)(b) substitute—
 
@@ -268,7 +268,7 @@ Section 31
 
 > (9) Lead local flood authority” has the meaning given by section 6 of the Flood and Water Management Act 2010.
 
-**33.**[^key-e92f50034338bc908b1bb80a639ba277] (1) Section 25 (powers to require works for maintaining the flow of watercourse) is amended as follows.
+**33.**[^c-e92f50034338bc908b1bb80a639ba277] (1) Section 25 (powers to require works for maintaining the flow of watercourse) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -279,9 +279,9 @@ Section 31
 
 (4) In subsections (6)(a), (7) and (8) omit “or local authority”.
 
-**34.**[^key-1d46219a96e6f3196bc0a6dc3bd01acf] Section 26 (competing jurisdictions under section 25) is repealed.
+**34.**[^c-1d46219a96e6f3196bc0a6dc3bd01acf] Section 26 (competing jurisdictions under section 25) is repealed.
 
-**35.**[^key-b1d1311e0d7a75ba54a29cfba5bea607][^key-96220472f9a1ad3acd5e88b29082adfe] (1) Section 33 (commutation of obligations) is amended as follows.
+**35.**[^c-b1d1311e0d7a75ba54a29cfba5bea607][^c-96220472f9a1ad3acd5e88b29082adfe] (1) Section 33 (commutation of obligations) is amended as follows.
 
 (2) In subsection (1) for “Agency or the drainage board for the internal drainage district” substitute “ relevant authority for the area ”.
 
@@ -308,7 +308,7 @@ Section 31
 
 .
 
-**36.**[^key-c8dfdb220b65e032385ef9e420bb1e29][^key-fcfdc3056585ccbc712b30f6294d47a3] (1) Section 34 (financial consequences of commutation) is amended as follows.
+**36.**[^c-c8dfdb220b65e032385ef9e420bb1e29][^c-fcfdc3056585ccbc712b30f6294d47a3] (1) Section 34 (financial consequences of commutation) is amended as follows.
 
 (2) In subsection (2) for “Agency or internal drainage board” substitute “ relevant authority ”.
 
@@ -326,9 +326,9 @@ Section 31
 
 (6) In subsections (7) and (9) for “Agency or internal drainage board” substitute “ relevant authority ”.
 
-**37.**[^key-022dda0f048b1678eca97e9c7393c99b] In section 59 (grants) omit subsection (4)(c).
+**37.**[^c-022dda0f048b1678eca97e9c7393c99b] In section 59 (grants) omit subsection (4)(c).
 
-**38.**[^key-fc1e773d7a23a17a21d7d75c51df375a][^key-7a70bc89a042eeff8de07bad232b15d4] (1) Section 66 (byelaws) is amended as follows.
+**38.**[^c-fc1e773d7a23a17a21d7d75c51df375a][^c-7a70bc89a042eeff8de07bad232b15d4] (1) Section 66 (byelaws) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -352,21 +352,21 @@ Section 31
 
 > (3) An internal drainage board may not rely on this section to do anything in connection with a main river, the banks of a main river or any drainage works in connection with a main river.
 
-**39.**[^key-c756baed9da31ff7f84e55a7f0db0e6a][^key-856d95a0e33d724c2ab26f56eaddbf28] In section 72 (interpretation) in subsection (1) after the definition of “conservancy authority” insert—
+**39.**[^c-c756baed9da31ff7f84e55a7f0db0e6a][^c-856d95a0e33d724c2ab26f56eaddbf28] In section 72 (interpretation) in subsection (1) after the definition of “conservancy authority” insert—
 
 > “**culvert**” means a covered channel or pipe which prevents the obstruction of a watercourse or drainage path by an artificial construction.
 
 ### Water Resources Act 1991
 
-**40.**[^key-27b3dafc8b2908997e6fd80aa307d29b] The Water Resources Act 1991 is amended as follows.
+**40.**[^c-27b3dafc8b2908997e6fd80aa307d29b] The Water Resources Act 1991 is amended as follows.
 
-**41.**[^key-946a28503e4bf5a664b01420e6850948] Section 106 (obligation to carry out flood defence functions through committees) is repealed.
+**41.**[^c-946a28503e4bf5a664b01420e6850948] Section 106 (obligation to carry out flood defence functions through committees) is repealed.
 
 **Not yet in force.**
 
 **42.** In section 110 (main river structures: applications for consent) in subsection (1) for “and the amount of that fee shall be £50 or such other sum as may be prescribed” substitute “ and the amount of the fee shall be determined in accordance with a prescribed charging scheme ”.
 
-**43.**[^key-a857ab0c95b85d8216d13adf51088548] (1) Section 118 (special duties with respect to flood defence revenues) is amended as follows.
+**43.**[^c-a857ab0c95b85d8216d13adf51088548] (1) Section 118 (special duties with respect to flood defence revenues) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -390,23 +390,23 @@ Section 31
 
 > (7) In this section “**flood risk management region**” means the region of a Regional Flood and Coastal Committee, within the meaning of section 22 of the Flood and Water Management Act 2010.
 
-**44.**[^key-46aa2994a1f4280942e88f8d8e8ad815] Section 133 (power to authorise the Agency to issue levies) is repealed.
+**44.**[^c-46aa2994a1f4280942e88f8d8e8ad815] Section 133 (power to authorise the Agency to issue levies) is repealed.
 
-**45.**[^key-ea1233baa4e6d0c8b9c2553d31696eb3][^key-c2bd97d32b3593e66323ef620c88fe8e] In section 159 (powers to lay pipes in streets) after subsection (1) insert—
-
-> (1A) The Agency may carry out work within subsection (1)(a) to (c) if—
->
-> - (a) it thinks the work desirable having regard to the national flood and coastal erosion risk management strategies under sections 7 and 8 of the Flood and Water Management Act 2010, and
-> - (b) the purpose of the work is to manage a flood risk (within the meaning of that Act) from (i) the sea, or (ii) a main river.
-
-**46.**[^key-6aa71c4e85c5283c4fe1cc7f01c48f8c][^key-f5da08364e88623c63cc4342eb0be10d] In section 160 (power to lay pipes in other land) after subsection (1) insert—
+**45.**[^c-ea1233baa4e6d0c8b9c2553d31696eb3][^c-c2bd97d32b3593e66323ef620c88fe8e] In section 159 (powers to lay pipes in streets) after subsection (1) insert—
 
 > (1A) The Agency may carry out work within subsection (1)(a) to (c) if—
 >
 > - (a) it thinks the work desirable having regard to the national flood and coastal erosion risk management strategies under sections 7 and 8 of the Flood and Water Management Act 2010, and
 > - (b) the purpose of the work is to manage a flood risk (within the meaning of that Act) from (i) the sea, or (ii) a main river.
 
-**47.**[^key-a68a947689d18a5cc091d23f885d491a][^key-6cb4b6cdb1b8ccb0ee12c033357efa7c] (1) Section 165 (powers to carry out works) is amended as follows.
+**46.**[^c-6aa71c4e85c5283c4fe1cc7f01c48f8c][^c-f5da08364e88623c63cc4342eb0be10d] In section 160 (power to lay pipes in other land) after subsection (1) insert—
+
+> (1A) The Agency may carry out work within subsection (1)(a) to (c) if—
+>
+> - (a) it thinks the work desirable having regard to the national flood and coastal erosion risk management strategies under sections 7 and 8 of the Flood and Water Management Act 2010, and
+> - (b) the purpose of the work is to manage a flood risk (within the meaning of that Act) from (i) the sea, or (ii) a main river.
+
+**47.**[^c-a68a947689d18a5cc091d23f885d491a][^c-6cb4b6cdb1b8ccb0ee12c033357efa7c] (1) Section 165 (powers to carry out works) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -446,13 +446,13 @@ Section 31
 
 (6) The heading becomes “General powers to carry out works”.
 
-**48.**[^key-7f11c58e1ee37026dc9457b932a63101] After section 204(2)(c) (exceptions to prohibition on disclosure of information) insert—
+**48.**[^c-7f11c58e1ee37026dc9457b932a63101] After section 204(2)(c) (exceptions to prohibition on disclosure of information) insert—
 
 > - (ca) for the purpose of complying with a request under section 14 of the Flood and Water Management Act 2010;
 
 .
 
-**49.**[^key-ec5d4a8800fcc77b9f4b23fbdcf7c8d9][^key-84d380e995163fe025c2e2f38e12239d] In Schedule 25 (byelaws) for paragraph 5(1)(a) and (b) substitute—
+**49.**[^c-ec5d4a8800fcc77b9f4b23fbdcf7c8d9][^c-84d380e995163fe025c2e2f38e12239d] In Schedule 25 (byelaws) for paragraph 5(1)(a) and (b) substitute—
 
 > for any of Purposes 1 to 4.
 >
@@ -466,7 +466,7 @@ Section 31
 
 ### Water Industry Act 1991
 
-**50.**[^key-9ce45febe5e1278961d5c632851b1495] After section 206(3)(c) of the Water Industry Act 1991 (exceptions to prohibition on disclosure of information) insert—
+**50.**[^c-9ce45febe5e1278961d5c632851b1495] After section 206(3)(c) of the Water Industry Act 1991 (exceptions to prohibition on disclosure of information) insert—
 
 > - (ca) for the purpose of complying with a request under section 14 of the Flood and Water Management Act 2010;
 
@@ -474,190 +474,190 @@ Section 31
 
 ### Environment Act 1995
 
-**51.**[^key-c0bafd3dff6f87b9d87106055b47416b] The Environment Act 1995 is amended as follows.
+**51.**[^c-c0bafd3dff6f87b9d87106055b47416b] The Environment Act 1995 is amended as follows.
 
-**52.**[^key-03e65f50af9fbfc47b48b0efe55ddc02] For section 6(4) (general supervision by the Environment Agency) substitute—
+**52.**[^c-03e65f50af9fbfc47b48b0efe55ddc02] For section 6(4) (general supervision by the Environment Agency) substitute—
 
 > (4) The Agency shall in relation to England and Wales exercise a general supervision over all matters relating to flood and coastal erosion risk management, in accordance with Part 1 of the Flood and Water Management Act 2010.
 
-**53.**[^key-a01e76307d553a3b1760f2e5ea87604d] Sections 14 to 19 and Schedules 4 and 5 (flood defence committees) are repealed.
+**53.**[^c-a01e76307d553a3b1760f2e5ea87604d] Sections 14 to 19 and Schedules 4 and 5 (flood defence committees) are repealed.
 
-### ...[^key-78053501ac07351a3e8fc418a2933e6a]
+### ...[^c-78053501ac07351a3e8fc418a2933e6a]
 
-**54.**[^key-78053501ac07351a3e8fc418a2933e6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54.**[^c-78053501ac07351a3e8fc418a2933e6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-57f1e12eb8be6b83e264e29566c286bd]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/1) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-57f1e12eb8be6b83e264e29566c286bd]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/1) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-6e23a8ae886e8f8feecd40ac3b828c51]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/1) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-6e23a8ae886e8f8feecd40ac3b828c51]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/1) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-d6cb80248dbdaa03e56e892bae3a2187]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/2) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-d6cb80248dbdaa03e56e892bae3a2187]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/2) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-baa294dfd6be77ec2ab15238b51cc84f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/2) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-baa294dfd6be77ec2ab15238b51cc84f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/2) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-1f1eb06a8c7fe1ddb7c27d4bdf61467b]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/3) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-1f1eb06a8c7fe1ddb7c27d4bdf61467b]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/3) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-5451cd8f9e17db610466ffcb48220053]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/3) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-5451cd8f9e17db610466ffcb48220053]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/3) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-b90c365b9ade8914769e6ce35a2cd61d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/4) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-b90c365b9ade8914769e6ce35a2cd61d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/4) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-ded5b339bf32052749bef6fb6bb10747]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/4) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-ded5b339bf32052749bef6fb6bb10747]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/4) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-3e464aff2f36c83806090ca57100e846]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/5) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-3e464aff2f36c83806090ca57100e846]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/5) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-b36162143496166c4a323be4cfffe2c6]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/5) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-b36162143496166c4a323be4cfffe2c6]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/5) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-a8e46d6698e54c68ef109d2987a98571]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/6) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-a8e46d6698e54c68ef109d2987a98571]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/6) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-30f5addd596e89a30decbb42645e3f34]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/6) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-30f5addd596e89a30decbb42645e3f34]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/6) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-71a6e8fb64011e23c6ce6d5747e198c6]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/7) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-71a6e8fb64011e23c6ce6d5747e198c6]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/7) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-eac8c64c12d7387a5bce538f29bf6b71]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/7) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-eac8c64c12d7387a5bce538f29bf6b71]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/7) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-ad2f0fe65a8590b1896f394b8bf9227d]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/8) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-ad2f0fe65a8590b1896f394b8bf9227d]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/8) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-052ae8c888512d83bed0c6a75d2f8228]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/8) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-052ae8c888512d83bed0c6a75d2f8228]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/8) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-3b4075729975fe233721867ab84de72e]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/9) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-3b4075729975fe233721867ab84de72e]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/9) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-13520ded1b106c3a803d6eb04a74856c]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/9) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-13520ded1b106c3a803d6eb04a74856c]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/9) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-35726d7bbcc4c3040a5ed1dd49a87cfb]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/10) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-35726d7bbcc4c3040a5ed1dd49a87cfb]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/10) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-a3585af189d2bd0daf0626ad34623c14]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/10) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-a3585af189d2bd0daf0626ad34623c14]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/10) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-1c705b9f0b3c696c5a229c68023c6080]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/11) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-1c705b9f0b3c696c5a229c68023c6080]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/11) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-329b71fcc554c2fe24e5a2ac7f29264a]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/11) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-329b71fcc554c2fe24e5a2ac7f29264a]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/11) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-f1da8f70ea35cfe87d8bca6363b2065a]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/12) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-f1da8f70ea35cfe87d8bca6363b2065a]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/12) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-f6d690df14df5f92e3de82b0b2ea3938]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/12) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-f6d690df14df5f92e3de82b0b2ea3938]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/12) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-69d25d8e52b91af115f5fb05241aad02]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/13) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-69d25d8e52b91af115f5fb05241aad02]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/13) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-5d56497bd50e36faa181469f0e5767fe]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/13) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-5d56497bd50e36faa181469f0e5767fe]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/13) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-4beec7f26812e380ada33ebb26616731]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/14) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-4beec7f26812e380ada33ebb26616731]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/14) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-e9e38f698a7b30e3c7906fd5a5c12ce5]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/14) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-e9e38f698a7b30e3c7906fd5a5c12ce5]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/14) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-ded589a6816a4b083787ab860b3e939e]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/15) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-ded589a6816a4b083787ab860b3e939e]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/15) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-077ebbc09e5da4f22bb8820b8d375e0f]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/15) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-077ebbc09e5da4f22bb8820b8d375e0f]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/15) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-0821471417be6a2beb1907531453252a]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/16) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-0821471417be6a2beb1907531453252a]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/16) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-ab63cd47d6d592a5e86484411f2da1e8]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/16) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-ab63cd47d6d592a5e86484411f2da1e8]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/16) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-df5ded2d96415f5b89b9944263493ed9]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/17) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-df5ded2d96415f5b89b9944263493ed9]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/17) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-2ad166bfb19f9b65835c12592758926e]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/17) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-2ad166bfb19f9b65835c12592758926e]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/17) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-fe3ae4dfcb05cbdab21b0d76f9702860]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/18) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-fe3ae4dfcb05cbdab21b0d76f9702860]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/18) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-53bcefd2c43f772e501811580c289a67]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/18) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-53bcefd2c43f772e501811580c289a67]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/18) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-839f9ee2fc961b29e1feae1509d26b9f]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/19) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-839f9ee2fc961b29e1feae1509d26b9f]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/19) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-19b606bee719fb2d8e9727e7aeb9fc8e]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/19) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-19b606bee719fb2d8e9727e7aeb9fc8e]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/19) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-474b24dbcaf9910a122ce6efd79ff937]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/20) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-474b24dbcaf9910a122ce6efd79ff937]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/20) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-a6063b6a5cd7211aa4479e4bd939d3d3]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/20) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-a6063b6a5cd7211aa4479e4bd939d3d3]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/20) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-b1fdef8e2eb8c4b09ea3239590158446]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/21) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-b1fdef8e2eb8c4b09ea3239590158446]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/21) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-ff78eaf28ba80b954773919b2c2d8929]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/21) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-ff78eaf28ba80b954773919b2c2d8929]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/21) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-df72c1176e180947afcb1b037bbca92b]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/22) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-df72c1176e180947afcb1b037bbca92b]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/22) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-011b8ee40a692b8a202db11968e8bc1d]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/22) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-011b8ee40a692b8a202db11968e8bc1d]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/22) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-daa9c1141f7a30ca22344ee7e2300720]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/23) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-daa9c1141f7a30ca22344ee7e2300720]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/23) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-24a92d3df7509c15d614b2f82133dc5f]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/23) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-24a92d3df7509c15d614b2f82133dc5f]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/23) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-17156d6f5fc51b7610bed717b977b598]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/24) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
+[^c-17156d6f5fc51b7610bed717b977b598]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/24) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1))
 
-[^key-1bfd02f817b7db57d71d16041dc27ebf]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/24) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-1bfd02f817b7db57d71d16041dc27ebf]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/24) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
-[^key-0a1c4169b85332b9002c72117c1faa6c]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/25) in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-0a1c4169b85332b9002c72117c1faa6c]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/25) in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
 
-[^key-7ec158fc41cddf1b4428cdde2d6cefd8]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/26) in force at 6.4.2012 by [S.I. 2012/879](https://www.legislation.gov.uk/uksi/2012/879), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/879/article/3/b)
+[^c-7ec158fc41cddf1b4428cdde2d6cefd8]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/26) in force at 6.4.2012 by [S.I. 2012/879](https://www.legislation.gov.uk/uksi/2012/879), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/879/article/3/b)
 
-[^key-157cbb5a37b4b5ecd5b42600e4e62ba9]: Commencement: Sch. 2 para. 27 in force at 6.4.2012 by [S.I. 2012/879](https://www.legislation.gov.uk/uksi/2012/879), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/879/article/3/b)
+[^c-157cbb5a37b4b5ecd5b42600e4e62ba9]: Commencement: Sch. 2 para. 27 in force at 6.4.2012 by [S.I. 2012/879](https://www.legislation.gov.uk/uksi/2012/879), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/879/article/3/b)
 
-[^key-0a5faf2d716d780957fab19f1b9ec3fd]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/28) in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-0a5faf2d716d780957fab19f1b9ec3fd]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/28) in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
 
-[^key-5b66168a834bd283bac1a4dddd2adc4a]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/29) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(e)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/e)
+[^c-5b66168a834bd283bac1a4dddd2adc4a]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/29) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(e)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/e)
 
-[^key-ebef6f3c93a04479d2bd9253f48b5ddc]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/29) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/c)
+[^c-ebef6f3c93a04479d2bd9253f48b5ddc]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/29) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/c)
 
-[^key-eb6720388c4be47e65b3e9d2008a9118]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/30) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(e)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/e) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/2))
+[^c-eb6720388c4be47e65b3e9d2008a9118]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/30) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(e)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/e) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/2))
 
-[^key-966a26606e5af3532b33e2ddb1270c06]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/30) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/c) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/2))
+[^c-966a26606e5af3532b33e2ddb1270c06]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/30) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/c) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/2))
 
-[^key-d62379f75d1d49936cd0e060486ba1f5]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/31) in force at 6.4.2012 by [S.I. 2012/879](https://www.legislation.gov.uk/uksi/2012/879), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/879/article/3/b)
+[^c-d62379f75d1d49936cd0e060486ba1f5]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/31) in force at 6.4.2012 by [S.I. 2012/879](https://www.legislation.gov.uk/uksi/2012/879), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/879/article/3/b)
 
 [^M_I_32278555-95b1-4eca-a12f-03078a13524e]: Commencement: S. 32(1)(2)(3)(5)(6)(7) in force at 6.4.2012 by [S.I. 2012/879](https://www.legislation.gov.uk/uksi/2012/879), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/879/article/3/b)
 
-[^key-e92f50034338bc908b1bb80a639ba277]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/33) in force at 6.4.2012 by [S.I. 2012/879](https://www.legislation.gov.uk/uksi/2012/879), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/879/article/3/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/879/article/4))
+[^c-e92f50034338bc908b1bb80a639ba277]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/33) in force at 6.4.2012 by [S.I. 2012/879](https://www.legislation.gov.uk/uksi/2012/879), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/879/article/3/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/879/article/4))
 
-[^key-1d46219a96e6f3196bc0a6dc3bd01acf]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/34) in force at 6.4.2012 by [S.I. 2012/879](https://www.legislation.gov.uk/uksi/2012/879), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/879/article/3/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/879/article/4))
+[^c-1d46219a96e6f3196bc0a6dc3bd01acf]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/34) in force at 6.4.2012 by [S.I. 2012/879](https://www.legislation.gov.uk/uksi/2012/879), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/879/article/3/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/879/article/4))
 
-[^key-b1d1311e0d7a75ba54a29cfba5bea607]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/35) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(e)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/e)
+[^c-b1d1311e0d7a75ba54a29cfba5bea607]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/35) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(e)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/e)
 
-[^key-96220472f9a1ad3acd5e88b29082adfe]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/35) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/c)
+[^c-96220472f9a1ad3acd5e88b29082adfe]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/35) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/c)
 
-[^key-c8dfdb220b65e032385ef9e420bb1e29]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/36) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(e)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/e)
+[^c-c8dfdb220b65e032385ef9e420bb1e29]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/36) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(e)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/e)
 
-[^key-fcfdc3056585ccbc712b30f6294d47a3]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/36) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/c)
+[^c-fcfdc3056585ccbc712b30f6294d47a3]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/36) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/c)
 
-[^key-022dda0f048b1678eca97e9c7393c99b]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/37) in force at 6.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 4(1)(i)](https://www.legislation.gov.uk/uksi/2011/694/article/4/1/i)
+[^c-022dda0f048b1678eca97e9c7393c99b]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/37) in force at 6.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 4(1)(i)](https://www.legislation.gov.uk/uksi/2011/694/article/4/1/i)
 
-[^key-fc1e773d7a23a17a21d7d75c51df375a]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/38) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(e)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/e)
+[^c-fc1e773d7a23a17a21d7d75c51df375a]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/38) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(e)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/e)
 
-[^key-7a70bc89a042eeff8de07bad232b15d4]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/38) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/c)
+[^c-7a70bc89a042eeff8de07bad232b15d4]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/38) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/c)
 
-[^key-c756baed9da31ff7f84e55a7f0db0e6a]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/39) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(e)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/e)
+[^c-c756baed9da31ff7f84e55a7f0db0e6a]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/39) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(e)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/e)
 
-[^key-856d95a0e33d724c2ab26f56eaddbf28]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/39) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/c)
+[^c-856d95a0e33d724c2ab26f56eaddbf28]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/39) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/c)
 
-[^key-27b3dafc8b2908997e6fd80aa307d29b]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/40) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(g)](https://www.legislation.gov.uk/uksi/2011/694/article/3/g)
+[^c-27b3dafc8b2908997e6fd80aa307d29b]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/40) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(g)](https://www.legislation.gov.uk/uksi/2011/694/article/3/g)
 
-[^key-946a28503e4bf5a664b01420e6850948]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/41) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(g)](https://www.legislation.gov.uk/uksi/2011/694/article/3/g)
+[^c-946a28503e4bf5a664b01420e6850948]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/41) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(g)](https://www.legislation.gov.uk/uksi/2011/694/article/3/g)
 
-[^key-a857ab0c95b85d8216d13adf51088548]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/43) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(g)](https://www.legislation.gov.uk/uksi/2011/694/article/3/g)
+[^c-a857ab0c95b85d8216d13adf51088548]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/43) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(g)](https://www.legislation.gov.uk/uksi/2011/694/article/3/g)
 
-[^key-46aa2994a1f4280942e88f8d8e8ad815]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/44) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(g)](https://www.legislation.gov.uk/uksi/2011/694/article/3/g) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/694/article/5/1))
+[^c-46aa2994a1f4280942e88f8d8e8ad815]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/44) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(g)](https://www.legislation.gov.uk/uksi/2011/694/article/3/g) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/694/article/5/1))
 
-[^key-ea1233baa4e6d0c8b9c2553d31696eb3]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/45) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/f)
+[^c-ea1233baa4e6d0c8b9c2553d31696eb3]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/45) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/f)
 
-[^key-c2bd97d32b3593e66323ef620c88fe8e]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/45) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/d)
+[^c-c2bd97d32b3593e66323ef620c88fe8e]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/45) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/d)
 
-[^key-6aa71c4e85c5283c4fe1cc7f01c48f8c]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/46) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/f)
+[^c-6aa71c4e85c5283c4fe1cc7f01c48f8c]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/46) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/f)
 
-[^key-f5da08364e88623c63cc4342eb0be10d]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/46) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/d)
+[^c-f5da08364e88623c63cc4342eb0be10d]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/46) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/d)
 
-[^key-a68a947689d18a5cc091d23f885d491a]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/47) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/f)
+[^c-a68a947689d18a5cc091d23f885d491a]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/47) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/f)
 
-[^key-6cb4b6cdb1b8ccb0ee12c033357efa7c]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/47) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/d)
+[^c-6cb4b6cdb1b8ccb0ee12c033357efa7c]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/47) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/d)
 
-[^key-7f11c58e1ee37026dc9457b932a63101]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/48) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(g)](https://www.legislation.gov.uk/uksi/2011/694/article/3/g)
+[^c-7f11c58e1ee37026dc9457b932a63101]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/48) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(g)](https://www.legislation.gov.uk/uksi/2011/694/article/3/g)
 
-[^key-ec5d4a8800fcc77b9f4b23fbdcf7c8d9]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/49) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/f)
+[^c-ec5d4a8800fcc77b9f4b23fbdcf7c8d9]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/49) in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/f)
 
-[^key-84d380e995163fe025c2e2f38e12239d]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/49) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/d)
+[^c-84d380e995163fe025c2e2f38e12239d]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/49) in force at 1.10.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/d)
 
-[^key-9ce45febe5e1278961d5c632851b1495]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/50) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(h)](https://www.legislation.gov.uk/uksi/2011/694/article/3/h)
+[^c-9ce45febe5e1278961d5c632851b1495]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/50) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(h)](https://www.legislation.gov.uk/uksi/2011/694/article/3/h)
 
-[^key-c0bafd3dff6f87b9d87106055b47416b]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/51) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(i)](https://www.legislation.gov.uk/uksi/2011/694/article/3/i)
+[^c-c0bafd3dff6f87b9d87106055b47416b]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/51) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(i)](https://www.legislation.gov.uk/uksi/2011/694/article/3/i)
 
-[^key-03e65f50af9fbfc47b48b0efe55ddc02]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/52) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(i)](https://www.legislation.gov.uk/uksi/2011/694/article/3/i)
+[^c-03e65f50af9fbfc47b48b0efe55ddc02]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/52) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(i)](https://www.legislation.gov.uk/uksi/2011/694/article/3/i)
 
-[^key-a01e76307d553a3b1760f2e5ea87604d]: Commencement: [Sch. 2 para. 53](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/53) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(i)](https://www.legislation.gov.uk/uksi/2011/694/article/3/i) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2011/694/article/5/2))
+[^c-a01e76307d553a3b1760f2e5ea87604d]: Commencement: [Sch. 2 para. 53](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/53) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(i)](https://www.legislation.gov.uk/uksi/2011/694/article/3/i) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2011/694/article/5/2))
 
-[^key-78053501ac07351a3e8fc418a2933e6a]: Textual amendment: Sch. 2 para. 54 and preceding italic heading repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)
+[^c-78053501ac07351a3e8fc418a2933e6a]: Textual amendment: Sch. 2 para. 54 and preceding italic heading repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)

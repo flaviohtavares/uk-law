@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Exercise of choice in certain cases[^key-e904b9f35e69455754313e31572a115b]
+## 62. Exercise of choice in certain cases[^c-e904b9f35e69455754313e31572a115b]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ An application to an NHS pharmacist or an NHS appliance contractor for pharmaceu
 
 ## Annotations
 
-[^key-e904b9f35e69455754313e31572a115b]: Commencement: Reg. 62 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)
+[^c-e904b9f35e69455754313e31572a115b]: Commencement: Reg. 62 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)
 
 [^f00035]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).

@@ -41,7 +41,7 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001] in exercise of the powers conferred on it by Articles 56, 63(1), (2), (2A) to (2D), 64, 106(*b*) and 107(6) of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00002] and of all other powers enabling it in that behalf, and in conjunction with the Department of Finance and Personnel and after consultation with such organisations as appear to the Department of Health, Social Services and Public Safety to be representative of the medical and pharmaceutical professions as required by Articles 56(5) and 63(3) of that Order, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-85c2aacfeb904317b467263f71063bd2]
+## 1. Citation, commencement and interpretation[^c-85c2aacfeb904317b467263f71063bd2]
 
 (1) These Regulations may be cited as the Pharmaceutical Services and General Medical Services (Amendment) Regulations (Northern Ireland) 2002 and shall come into operation on 1st April 2002.
 
@@ -50,7 +50,7 @@ The Department of Health, Social Services and Public Safety[^f00001] in exercise
 - (a) “the Pharmaceutical Regulations” means the Pharmaceutical Services Regulations (Northern Ireland) 1997[^f00003];
 - (b) “the Medical Regulations” means the General Medical Services Regulations (Northern Ireland) 1997[^f00004].
 
-## 2. Amendment of regulation 2 of the Pharmaceutical Regulations[^key-bdef1ae1ee1b87fae437195b11c38236]
+## 2. Amendment of regulation 2 of the Pharmaceutical Regulations[^c-bdef1ae1ee1b87fae437195b11c38236]
 
 (1) Regulation 2 of the Pharmaceutical Regulations (interpretation) is amended as follows.
 
@@ -62,19 +62,19 @@ The Department of Health, Social Services and Public Safety[^f00001] in exercise
 
   .
 
-## 3. Amendment of regulation 7 of the Pharmaceutical Regulations[^key-79fe8915181e1d1467268a21c088d1b9]
+## 3. Amendment of regulation 7 of the Pharmaceutical Regulations[^c-79fe8915181e1d1467268a21c088d1b9]
 
 In regulation 7 of the Pharmaceutical Regulations (removal from pharmaceutical list) paragraph (5)[^f00005] shall be renumbered paragraph (4A).
 
-## 4. Amendment of regulation 9 of the Pharmaceutical Regulations[^key-e4145e2d9d923befe7ec8b2af88840df]
+## 4. Amendment of regulation 9 of the Pharmaceutical Regulations[^c-e4145e2d9d923befe7ec8b2af88840df]
 
 In regulation 9 of the Pharmaceutical Regulations (standards of, and payments for, drugs and appliances), in sub-paragraph (1)(*a*), at the end, insert “and in the case of a restricted availability appliance, the categories of persons for whom or purposes for which the appliance is approved”.
 
-## 5. Amendment of regulation 11 of the Pharmaceutical Regulations[^key-2b0cd9db8fa1e51c779177a67bb919ae]
+## 5. Amendment of regulation 11 of the Pharmaceutical Regulations[^c-2b0cd9db8fa1e51c779177a67bb919ae]
 
 In regulation 11 of the Pharmaceutical Regulations (provision of pharmaceutical services for immediate treatment or personal administration) after sub-paragraph (*b*) insert “but shall, in either case, provide a restricted availability appliance only if it is for a person or a purpose specified in the Drug Tariff.”.
 
-## 6. Amendment of Schedule 2 to the Pharmaceutical Regulations[^key-5673fb7006a822de77a915c6d226f7c8]
+## 6. Amendment of Schedule 2 to the Pharmaceutical Regulations[^c-5673fb7006a822de77a915c6d226f7c8]
 
 In Schedule 2 of the Pharmaceutical Regulations (terms of service for chemists)—
 
@@ -102,7 +102,7 @@ In Schedule 2 of the Pharmaceutical Regulations (terms of service for chemists)�
 - (c) in paragraph 14(2), after “nurse prescriber,” insert “or an order for a restricted availability appliance, signed by and endorsed on its face with the reference “S11” by a nurse prescriber,”;
 - (d) in paragraph 15(2), after “in this paragraph”, insert “or paragraph 13” and, after “a scheduled drug”, insert “or a restricted availability appliance”.
 
-## 7. Amendment of Schedule 2 to the Medical Regulations[^key-3ac0013e3a6c261b07aa26b728381048]
+## 7. Amendment of Schedule 2 to the Medical Regulations[^c-3ac0013e3a6c261b07aa26b728381048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -132,22 +132,22 @@ These Regulations further amend the Pharmaceutical Services Regulations (Norther
 
 [^f00002]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265) relevant amending instruments are S.I. [1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907) Articles 12 and 14; S.I. [1986/2023 (N.I. 20)](https://www.legislation.gov.uk/nisi/1986/2023) Articles 5(1) and (2); S.I. [1986/2229 (N.I. 24)](https://www.legislation.gov.uk/nisi/1986/2229) Article 7; S.I. [1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249) Article 4(5); S.I. [1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194) Articles 29(1), 31(1) and (2) and Schedule 6; section 4 of, and paragraph 30(*a*) and (*b*) of the Schedule to [1995 c. 51](https://www.legislation.gov.uk/ukpga/1995/51); S.I. [1992/2671 (N.I. 18)](https://www.legislation.gov.uk/nisi/1992/2671) Article 3 and S.I. [1997/1177(N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177) Articles 29 and 32, and Schedule 2
 
-[^key-85c2aacfeb904317b467263f71063bd2]: Commencement: Reg. 1 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/92/regulation/1/1)
+[^c-85c2aacfeb904317b467263f71063bd2]: Commencement: Reg. 1 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/92/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1997 No. 381](https://www.legislation.gov.uk/nisr/1997/381); relevant amending instruments are [S.R. 1997 No. 547](https://www.legislation.gov.uk/nisr/1997/547), [S.R. 1998 No. 95](https://www.legislation.gov.uk/nisr/1998/95), [S.R. 1999 Nos. 100](https://www.legislation.gov.uk/nisr/1999/100) and [254](https://www.legislation.gov.uk/nisr/1999/254) and [S.R. 2001 No. 222](https://www.legislation.gov.uk/nisr/2001/222)
 
 [^f00004]: Footnote: [S.R. 1997 No. 380](https://www.legislation.gov.uk/nisr/1997/380) to which there are amendments not relevant to these Regulations
 
-[^key-bdef1ae1ee1b87fae437195b11c38236]: Commencement: Reg. 2 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/92/regulation/1/1)
+[^c-bdef1ae1ee1b87fae437195b11c38236]: Commencement: Reg. 2 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/92/regulation/1/1)
 
-[^key-79fe8915181e1d1467268a21c088d1b9]: Commencement: Reg. 3 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/92/regulation/1/1)
+[^c-79fe8915181e1d1467268a21c088d1b9]: Commencement: Reg. 3 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/92/regulation/1/1)
 
 [^f00005]: Footnote: Paragraph (5) was inserted by [S.R. 2001 No. 222](https://www.legislation.gov.uk/nisr/2001/222)
 
-[^key-e4145e2d9d923befe7ec8b2af88840df]: Commencement: Reg. 4 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/92/regulation/1/1)
+[^c-e4145e2d9d923befe7ec8b2af88840df]: Commencement: Reg. 4 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/92/regulation/1/1)
 
-[^key-2b0cd9db8fa1e51c779177a67bb919ae]: Commencement: Reg. 5 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/92/regulation/1/1)
+[^c-2b0cd9db8fa1e51c779177a67bb919ae]: Commencement: Reg. 5 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/92/regulation/1/1)
 
-[^key-5673fb7006a822de77a915c6d226f7c8]: Commencement: Reg. 6 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/92/regulation/1/1)
+[^c-5673fb7006a822de77a915c6d226f7c8]: Commencement: Reg. 6 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/92/regulation/1/1)
 
-[^key-3ac0013e3a6c261b07aa26b728381048]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2002/92/regulation/7) revoked (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2004/156/schedule/2)
+[^c-3ac0013e3a6c261b07aa26b728381048]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2002/92/regulation/7) revoked (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2004/156/schedule/2)

@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Income Support (General) (Standard Interest Rate Amendment No. 3) Regulations (Northern Ireland) 1997 (revoked)[^key-2b5271a3279538549fb33d9e4a4084f6]
+The Income Support (General) (Standard Interest Rate Amendment No. 3) Regulations (Northern Ireland) 1997 (revoked)[^c-2b5271a3279538549fb33d9e4a4084f6]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 23rd November 1997
 
-[^key-2b5271a3279538549fb33d9e4a4084f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b5271a3279538549fb33d9e4a4084f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-2b5271a3279538549fb33d9e4a4084f6]
+## 1. Citation, commencement and interpretation[^c-2b5271a3279538549fb33d9e4a4084f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 3 to the Income Support Regulations[^key-2b5271a3279538549fb33d9e4a4084f6]
+## 2. Amendment of Schedule 3 to the Income Support Regulations[^c-2b5271a3279538549fb33d9e4a4084f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-2b5271a3279538549fb33d9e4a4084f6]
+## 3. Revocation[^c-2b5271a3279538549fb33d9e4a4084f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2b5271a3279538549fb33d9e4a4084f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b5271a3279538549fb33d9e4a4084f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2b5271a3279538549fb33d9e4a4084f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b5271a3279538549fb33d9e4a4084f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2b5271a3279538549fb33d9e4a4084f6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/476) revoked (with effect in accordance with reg. 1(2) of the amending Rule) by [The Income Support (General) (Standard Interest Rate Amendment) Regulations (Northern Ireland) 1998 (revoked) 1998 (S.R. 1998/165)](https://www.legislation.gov.uk/nisr/1998/165), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1998/165/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/1998/165/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/nisr/1998/165/regulation/3))
+[^c-2b5271a3279538549fb33d9e4a4084f6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/476) revoked (with effect in accordance with reg. 1(2) of the amending Rule) by [The Income Support (General) (Standard Interest Rate Amendment) Regulations (Northern Ireland) 1998 (revoked) 1998 (S.R. 1998/165)](https://www.legislation.gov.uk/nisr/1998/165), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1998/165/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/1998/165/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/nisr/1998/165/regulation/3))

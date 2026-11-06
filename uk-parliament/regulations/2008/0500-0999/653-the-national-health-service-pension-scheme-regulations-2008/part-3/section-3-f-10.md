@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.F.10. Acceptance of transfer value payments[^key-e8e363b5d46c949000a6a083cee48882][^key-d8b7394b5516cee263fa1805f85422f4]
+## 3.F.10. Acceptance of transfer value payments[^c-e8e363b5d46c949000a6a083cee48882][^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -50,7 +50,7 @@ This is subject to paragraph (8).
 
 (10) The Secretary of State may not accept a transfer value payment if—
 
-- (a) it would be applied in whole or in part in respect of the member’s [^key-96b82598b6e88d6daad5e9cb9ad86647]... entitlement to a guaranteed minimum pension, and
+- (a) it would be applied in whole or in part in respect of the member’s [^c-96b82598b6e88d6daad5e9cb9ad86647]... entitlement to a guaranteed minimum pension, and
 - (b) it is less than the amount required for that purpose, as calculated in accordance with guidance and tables prepared by the Scheme actuary for the purposes of this paragraph.
 
 This is subject to paragraph (11).
@@ -61,8 +61,8 @@ This is subject to paragraph (11).
 
 ## Annotations
 
-[^key-e8e363b5d46c949000a6a083cee48882]: Textual amendment: [Reg. 3.F.10](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.F.10) substituted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [90](https://www.legislation.gov.uk/uksi/2009/2446/regulation/90)
+[^c-e8e363b5d46c949000a6a083cee48882]: Textual amendment: [Reg. 3.F.10](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.F.10) substituted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [90](https://www.legislation.gov.uk/uksi/2009/2446/regulation/90)
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-96b82598b6e88d6daad5e9cb9ad86647]: Textual amendment: Words in [reg. 3.F.10(10)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.F.10/10) omitted (13.3.2014) by virtue of [The National Health Service Pension Scheme, Additional Voluntary Contributions, Compensation for Premature Retirement and Injury Benefits (Amendment) Regulations 2014 (S.I. 2014/78)](https://www.legislation.gov.uk/uksi/2014/78), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/78/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2014/78/regulation/16)
+[^c-96b82598b6e88d6daad5e9cb9ad86647]: Textual amendment: Words in [reg. 3.F.10(10)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.F.10/10) omitted (13.3.2014) by virtue of [The National Health Service Pension Scheme, Additional Voluntary Contributions, Compensation for Premature Retirement and Injury Benefits (Amendment) Regulations 2014 (S.I. 2014/78)](https://www.legislation.gov.uk/uksi/2014/78), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/78/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2014/78/regulation/16)

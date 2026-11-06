@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^M_C_8b25fc7b-3a57-40a0-cc00-92561774dfbb][^key-f5bf5bb61dfca4cb076ad708b7576940] Subject to subsection (2), nothing in this Act applies in relation to—
+(1)[^M_C_8b25fc7b-3a57-40a0-cc00-92561774dfbb][^c-f5bf5bb61dfca4cb076ad708b7576940] Subject to subsection (2), nothing in this Act applies in relation to—
 
 - (a) proceedings before a court (other than a civilian court) in respect of a service offence; or
 - (b) any investigation conducted with a view to its being ascertained whether a person should be charged with a service offence or whether a person charged with such an offence is guilty of it.
@@ -43,4 +43,4 @@ summary: ''
 
 [^M_C_8b25fc7b-3a57-40a0-cc00-92561774dfbb]: Modification: S. 78(1) modified (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/37)
 
-[^key-f5bf5bb61dfca4cb076ad708b7576940]: Textual amendment: S. 78 substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 137](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/137); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-f5bf5bb61dfca4cb076ad708b7576940]: Textual amendment: S. 78 substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 137](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/137); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

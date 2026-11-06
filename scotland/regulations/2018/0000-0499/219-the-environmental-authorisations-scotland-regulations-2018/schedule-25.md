@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 25 — ENERGY EFFICIENCY REQUIREMENTS FOR SPECIFIED ACTIVITIES[^key-edfbf98c13a167c8b5d217dc1797abf0]
+## SCHEDULE 25 — ENERGY EFFICIENCY REQUIREMENTS FOR SPECIFIED ACTIVITIES[^c-edfbf98c13a167c8b5d217dc1797abf0]
 
 *Extent: S*
 
@@ -262,4 +262,4 @@ Table 2
 
 ## Annotations
 
-[^key-edfbf98c13a167c8b5d217dc1797abf0]: Textual amendment: [Sch. 25](https://www.legislation.gov.uk/ssi/2018/219/schedule/25) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 16](https://www.legislation.gov.uk/ssi/2025/165/schedule/16) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-edfbf98c13a167c8b5d217dc1797abf0]: Textual amendment: [Sch. 25](https://www.legislation.gov.uk/ssi/2018/219/schedule/25) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 16](https://www.legislation.gov.uk/ssi/2025/165/schedule/16) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Amendments to Commission Implementing Regulation (EU) 2019/2130 establishing detailed rules on the operations to be carried out during and after documentary checks, identity checks and physical checks on animals and goods subject to official controls at border control posts[^key-7a421a3cfd504017e097635215e4ebda]
+## 37. Amendments to Commission Implementing Regulation (EU) 2019/2130 establishing detailed rules on the operations to be carried out during and after documentary checks, identity checks and physical checks on animals and goods subject to official controls at border control posts[^c-7a421a3cfd504017e097635215e4ebda]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7a421a3cfd504017e097635215e4ebda]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-7a421a3cfd504017e097635215e4ebda]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
 
 [^c24368961]: Marginal citation: The definition of “GB quarantine pest” is inserted by regulation 24 of the [Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482).

@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Pollution Prevention and Control (Amendment No.2) Regulations (Northern Ireland) 2011 (revoked)[^key-978c6ecdd7c284c65741744fa9a5471a]
+The Pollution Prevention and Control (Amendment No.2) Regulations (Northern Ireland) 2011 (revoked)[^c-978c6ecdd7c284c65741744fa9a5471a]
 
 Made
 
@@ -42,44 +42,44 @@ Coming into operation
 
 31st December 2011
 
-[^key-978c6ecdd7c284c65741744fa9a5471a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-978c6ecdd7c284c65741744fa9a5471a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-978c6ecdd7c284c65741744fa9a5471a]
+## 1. Citation, commencement and interpretation[^c-978c6ecdd7c284c65741744fa9a5471a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Principal Regulations[^key-978c6ecdd7c284c65741744fa9a5471a]
+## 2. Amendment to the Principal Regulations[^c-978c6ecdd7c284c65741744fa9a5471a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-978c6ecdd7c284c65741744fa9a5471a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-978c6ecdd7c284c65741744fa9a5471a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Schedule 1[^key-978c6ecdd7c284c65741744fa9a5471a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-978c6ecdd7c284c65741744fa9a5471a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-978c6ecdd7c284c65741744fa9a5471a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-978c6ecdd7c284c65741744fa9a5471a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-978c6ecdd7c284c65741744fa9a5471a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 9. Amendment of Schedule 4.[^key-978c6ecdd7c284c65741744fa9a5471a]
+## 4. Amendment of Schedule 1[^c-978c6ecdd7c284c65741744fa9a5471a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of Schedule 7.[^key-978c6ecdd7c284c65741744fa9a5471a]
+**5.**[^c-978c6ecdd7c284c65741744fa9a5471a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^c-978c6ecdd7c284c65741744fa9a5471a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-978c6ecdd7c284c65741744fa9a5471a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-978c6ecdd7c284c65741744fa9a5471a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Amendment of Schedule 4.[^c-978c6ecdd7c284c65741744fa9a5471a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-978c6ecdd7c284c65741744fa9a5471a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 10. Amendment of Schedule 7.[^c-978c6ecdd7c284c65741744fa9a5471a]
 
-[^key-978c6ecdd7c284c65741744fa9a5471a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-978c6ecdd7c284c65741744fa9a5471a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-978c6ecdd7c284c65741744fa9a5471a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-978c6ecdd7c284c65741744fa9a5471a]: Textual amendment: Regulation revoked (7.1.2014) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 (S.R. 2013/160)](https://www.legislation.gov.uk/nisr/2013/160), [Sch. 17](https://www.legislation.gov.uk/nisr/2013/160/schedule/17) (with [reg. 5](https://www.legislation.gov.uk/nisr/2013/160/regulation/5))
+[^c-978c6ecdd7c284c65741744fa9a5471a]: Textual amendment: Regulation revoked (7.1.2014) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 (S.R. 2013/160)](https://www.legislation.gov.uk/nisr/2013/160), [Sch. 17](https://www.legislation.gov.uk/nisr/2013/160/schedule/17) (with [reg. 5](https://www.legislation.gov.uk/nisr/2013/160/regulation/5))

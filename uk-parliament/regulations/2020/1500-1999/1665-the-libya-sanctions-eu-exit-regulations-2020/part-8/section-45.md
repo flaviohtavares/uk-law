@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Aircraft: exceptions[^key-2ee97c64c27774f06fce642fad574308]
+## 45. Aircraft: exceptions[^c-2ee97c64c27774f06fce642fad574308]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ee97c64c27774f06fce642fad574308]: Commencement: Reg. 45 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-2ee97c64c27774f06fce642fad574308]: Commencement: Reg. 45 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

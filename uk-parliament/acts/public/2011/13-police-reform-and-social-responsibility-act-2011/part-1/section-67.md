@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Disqualification of person holding office as police and crime commissioner[^key-14fd6a1dab7910db76f9585b89f5ab3c][^key-0dcf683e5f97f882b10d269fa48f2b67]
+## 67. Disqualification of person holding office as police and crime commissioner[^c-14fd6a1dab7910db76f9585b89f5ab3c][^c-0dcf683e5f97f882b10d269fa48f2b67]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ A person becomes disqualified from being a police and crime commissioner upon be
 
 ## Annotations
 
-[^key-14fd6a1dab7910db76f9585b89f5ab3c]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2011/13/section/67) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
+[^c-14fd6a1dab7910db76f9585b89f5ab3c]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2011/13/section/67) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
 
-[^key-0dcf683e5f97f882b10d269fa48f2b67]: Modification: Ss. 64-68: power to apply conferred by [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20), [Sch. 5C para. 9(1)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5C/paragraph/9/1) (as inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2016/1/schedule/2))
+[^c-0dcf683e5f97f882b10d269fa48f2b67]: Modification: Ss. 64-68: power to apply conferred by [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20), [Sch. 5C para. 9(1)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5C/paragraph/9/1) (as inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2016/1/schedule/2))

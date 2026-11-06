@@ -328,15 +328,15 @@ This is subject to sub-paragraph (2).
 - Parishes of Calvert Green and Steeple Claydon—
   - Work No. 2/75 - A footbridge over Works Nos. 2/49 and 2/77 commencing at a point 120 metres north-west of the junction of bridleway SCL/18/2 with footpath SCL/13/2 and terminating on that footpath at a point 150 metres north of that junction;
   - Work No. 2/75A – A bridge over Works Nos. 2/49 and 2/77 commencing at a point 540 metres south-east of the junction of Cotswolds Way with Brickhill Way and terminating at a point 110 metres north-east of its commencement;
-  - [^key-c9074c8507f3cf6ac756f30291631dc7]...
-- [^key-c9074c8507f3cf6ac756f30291631dc7]...
+  - [^c-c9074c8507f3cf6ac756f30291631dc7]...
+- [^c-c9074c8507f3cf6ac756f30291631dc7]...
 - Parishes of Grendon Underwood, Calvert Green and Steeple Claydon—
 
   Work No. 2/77 - A railway (4.42 kilometres in length) commencing by a junction with the Aylesbury Link at a point 40 metres east of the junction of bridleway GUN/25/1, with bridleway CAG/3/1 and terminating by a junction with Work No. 2/81 at a point 18 metres west of the bridge carrying Addison Road over the Bicester to Bletchley Line Railway.
 - Parish of Steeple Claydon—
-  - [^key-c9074c8507f3cf6ac756f30291631dc7]...
+  - [^c-c9074c8507f3cf6ac756f30291631dc7]...
   - Work No. 2/79 - A railway (2.51 kilometres in length) commencing by a junction with the Aylesbury Link and Work No. 2/49 at a point 275 metres east of the junction of Cotswolds Way with Brickhill Way and terminating at a point 10 metres north of the bridge carrying Addison Road over the Bicester to Bletchley Line;
-  - Work No. 2/80 - A realignment of School Hill commencing at a point 5 metres north of the junction of that road with Brackley Lane and terminating on that road at a point 30 metres north-east of the junction of that road with footpath SCL/12/1. Work No. 2/80 includes bridges over Works Nos. 2/49, 2/77 and 2/79[^key-6e7457f3bca14c13be36eedc3a7bdc5e];
+  - Work No. 2/80 - A realignment of School Hill commencing at a point 5 metres north of the junction of that road with Brackley Lane and terminating on that road at a point 30 metres north-east of the junction of that road with footpath SCL/12/1. Work No. 2/80 includes bridges over Works Nos. 2/49, 2/77 and 2/79[^c-6e7457f3bca14c13be36eedc3a7bdc5e];
   - Work No. 2/80A - An accommodation access road commencing by a junction with Work No. 2/80 at the junction of School Hill with footpath SCL/12/1 and terminating at a point 490 metres west of that junction.
 - Parishes of Twyford and Steeple Claydon—
   - Work No. 2/81 - A railway (3.73 kilometres in length) being a realignment of the Bicester to Bletchley Line commencing at a point 20 metres west of the level crossing over Queen Catherine Road and terminating at a point 22 metres east of the bridge carrying Main Street over that railway. Work No. 2/81 includes bridges over Works Nos. 2/49 and 2/79;
@@ -1058,6 +1058,6 @@ This is subject to sub-paragraph (2).
 
 ## Annotations
 
-[^key-c9074c8507f3cf6ac756f30291631dc7]: Textual amendment: Words in Sch. 1 omitted (28.6.2018) by virtue of [The High Speed Rail (London West Midlands) (Greatmoor Railway Sidings Etc.) Order 2018 (S.I. 2018/693)](https://www.legislation.gov.uk/uksi/2018/693), [arts. 1](https://www.legislation.gov.uk/uksi/2018/693/article/1), [26(1)(b)](https://www.legislation.gov.uk/uksi/2018/693/article/26/1/b)
+[^c-c9074c8507f3cf6ac756f30291631dc7]: Textual amendment: Words in Sch. 1 omitted (28.6.2018) by virtue of [The High Speed Rail (London West Midlands) (Greatmoor Railway Sidings Etc.) Order 2018 (S.I. 2018/693)](https://www.legislation.gov.uk/uksi/2018/693), [arts. 1](https://www.legislation.gov.uk/uksi/2018/693/article/1), [26(1)(b)](https://www.legislation.gov.uk/uksi/2018/693/article/26/1/b)
 
-[^key-6e7457f3bca14c13be36eedc3a7bdc5e]: Textual amendment: Words in Sch. 1 substituted (28.6.2018) by [The High Speed Rail (London West Midlands) (Greatmoor Railway Sidings Etc.) Order 2018 (S.I. 2018/693)](https://www.legislation.gov.uk/uksi/2018/693), [arts. 1](https://www.legislation.gov.uk/uksi/2018/693/article/1), [26(2)](https://www.legislation.gov.uk/uksi/2018/693/article/26/2)
+[^c-6e7457f3bca14c13be36eedc3a7bdc5e]: Textual amendment: Words in Sch. 1 substituted (28.6.2018) by [The High Speed Rail (London West Midlands) (Greatmoor Railway Sidings Etc.) Order 2018 (S.I. 2018/693)](https://www.legislation.gov.uk/uksi/2018/693), [arts. 1](https://www.legislation.gov.uk/uksi/2018/693/article/1), [26(2)](https://www.legislation.gov.uk/uksi/2018/693/article/26/2)

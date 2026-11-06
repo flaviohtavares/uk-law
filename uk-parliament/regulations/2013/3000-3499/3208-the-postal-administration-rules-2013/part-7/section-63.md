@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Test of security’s value[^key-f4b829240dfaf9df4286c3d26624580b]
+## 63. Test of security’s value[^c-f4b829240dfaf9df4286c3d26624580b]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4b829240dfaf9df4286c3d26624580b]: Commencement: [Rule 63](https://www.legislation.gov.uk/uksi/2013/3208/rule/63) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-f4b829240dfaf9df4286c3d26624580b]: Commencement: [Rule 63](https://www.legislation.gov.uk/uksi/2013/3208/rule/63) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

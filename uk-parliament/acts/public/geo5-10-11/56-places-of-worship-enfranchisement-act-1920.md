@@ -31,7 +31,7 @@ Places of Worship (Enfranchisement) Act 1920
 
 An Act to authorise the Enfranchisement of the Sites of Places of Worship held under Lease.
 
-\[3rd December 1920\][^key-448341aceb71188c5f949570444b4adc]
+\[3rd December 1920\][^c-448341aceb71188c5f949570444b4adc]
 
 ## 1. Right of persons holding leasehold interest in place of worship or minister’s house to acquire freehold.[^c581936]
 
@@ -44,7 +44,7 @@ Provided that—
 - (b) this Act shall not apply where the premises are used or are proposed to be used for the purposes of a place of worship in contravention of any covenant contained in the lease under which the premises are held or in any lease superior thereto; and
 - (c) this Act shall not apply where the premises form part of land which has been acquired by or is vested in any municipal, local or rating authority or in the owners thereof for the purposes of a railway, dock, canal or navigation under any Act of Parliament, Provisional Order or Order having the force of an Act of Parliament and the freehold reversion in the premises is held or retained by such owners for those purposes.
 
-(1A) Where the residence house of a benefice is held by the incumbent under a lease to which this Act applies, this Act shall have effect (with any necessary modifications) in relation to the enlargement of the incumbent’s leashold interest into a fee simple, and in relation to the estate so acquired, as it would have effect if the residence house were vested for that interest in trustees; and the Church Property Measure 2018 applies to the acquisition under this Act of the freehold reversion as it applies to the purchase under Part 1 of that Measure of a house for the residence and occupation of the incumbent of a benefice.[^key-f8b1e10199a0a5cdb353169d2f4866b8]
+(1A) Where the residence house of a benefice is held by the incumbent under a lease to which this Act applies, this Act shall have effect (with any necessary modifications) in relation to the enlargement of the incumbent’s leashold interest into a fee simple, and in relation to the estate so acquired, as it would have effect if the residence house were vested for that interest in trustees; and the Church Property Measure 2018 applies to the acquisition under this Act of the freehold reversion as it applies to the purchase under Part 1 of that Measure of a house for the residence and occupation of the incumbent of a benefice.[^c-f8b1e10199a0a5cdb353169d2f4866b8]
 
 (2) The leases to which this Act applies are leases (including under-leases and agreements for leases or underleases), whether granted or made before or after the passing of this Act, for lives or a life or for a term of years where the term as originally created was a term of not less than twenty-one years, whether determinable on a life or lives or not.
 
@@ -87,11 +87,11 @@ In this Act, unless the context otherwise requires—
 
 ## Annotations
 
-[^key-448341aceb71188c5f949570444b4adc]: Modification: Act restricted (E.) (1.1.2007) by 1983 gsm 1, s. 56(2G)(a) (as inserted by [Pastoral (Amendment) Measure 2006 (No. 2)](https://www.legislation.gov.uk/ukcm/2006/2), [ss. 1(b)](https://www.legislation.gov.uk/ukcm/2006/2/section/1/b), [2(2)](https://www.legislation.gov.uk/ukcm/2006/2/section/2/2); Instrument made by Archbishops [S.I. 2006/3](https://www.legislation.gov.uk/ukci/2006/3) )
+[^c-448341aceb71188c5f949570444b4adc]: Modification: Act restricted (E.) (1.1.2007) by 1983 gsm 1, s. 56(2G)(a) (as inserted by [Pastoral (Amendment) Measure 2006 (No. 2)](https://www.legislation.gov.uk/ukcm/2006/2), [ss. 1(b)](https://www.legislation.gov.uk/ukcm/2006/2/section/1/b), [2(2)](https://www.legislation.gov.uk/ukcm/2006/2/section/2/2); Instrument made by Archbishops [S.I. 2006/3](https://www.legislation.gov.uk/ukci/2006/3) )
 
 [^c581936]: Textual amendment: Ss. 1–3,5,6 as set out in [Leasehold Reform Act 1967 (c. 88)](https://www.legislation.gov.uk/ukpga/1967/88), [Sch. 6](https://www.legislation.gov.uk/ukpga/1967/88/schedule/6) substituted by virtue of s. 40(7)(8) of that Act subject to saving where an interest has been acquired, or notice to treat for its acquisition has been served, under this Act before 27.11.1967
 
-[^key-f8b1e10199a0a5cdb353169d2f4866b8]: Textual amendment: Words in [s. 1(1A)](https://www.legislation.gov.uk/ukpga/Geo5/10-11/56/section/1/1A) substituted (E.) (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/1); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-f8b1e10199a0a5cdb353169d2f4866b8]: Textual amendment: Words in [s. 1(1A)](https://www.legislation.gov.uk/ukpga/Geo5/10-11/56/section/1/1A) substituted (E.) (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/1); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
 [^c581938]: Marginal citation: [1965 c.56](https://www.legislation.gov.uk/ukpga/1965/56).
 

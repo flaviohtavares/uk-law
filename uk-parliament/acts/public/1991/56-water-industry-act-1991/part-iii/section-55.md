@@ -28,10 +28,10 @@ summary: ''
 (1A)[^c19800181] This section also applies where—
 
 - (a) a water undertaker is requested to provide a supply of water to premises which are not in the undertaker’s area by the owner or occupier of the premises;
-- (b) the premises are household premises (as defined in section 17C above) , in the case of premises to be supplied using the supply system of a water undertaker whose area is wholly or mainly in Wales,[^key-5af5788e4525973474cdc704feb2038b] or the total quantity of water estimated to be supplied to the premises annually for the purposes of subsection (2) of section 17D above is less than the quantity specified in that subsection; and
+- (b) the premises are household premises (as defined in section 17C above) , in the case of premises to be supplied using the supply system of a water undertaker whose area is wholly or mainly in Wales,[^c-5af5788e4525973474cdc704feb2038b] or the total quantity of water estimated to be supplied to the premises annually for the purposes of subsection (2) of section 17D above is less than the quantity specified in that subsection; and
 - (c) paragraph (a) or (b) of subsection (1) above applies.
 
-(1B)[^key-c7a0b7679e6a3d5448daa98c5476ac0e] But this section does not apply to any premises if—
+(1B)[^c-c7a0b7679e6a3d5448daa98c5476ac0e] But this section does not apply to any premises if—
 
 - (a) they are in a retail exit area, and
 - (b) they are not household premises (as defined in section 17C above).
@@ -72,8 +72,8 @@ the failure of the undertaker to acquire the necessary authority or agreement sh
 
 [^c19800181]: Textual amendment: S. 55(1A) inserted (1.12.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/101/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 8 para. 16(2)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/16/2); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-5af5788e4525973474cdc704feb2038b]: Textual amendment: Words in [s. 55(1A)(b)](https://www.legislation.gov.uk/ukpga/1991/56/section/55/1A/b) inserted (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 59](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/59); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(vii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/vii)
+[^c-5af5788e4525973474cdc704feb2038b]: Textual amendment: Words in [s. 55(1A)(b)](https://www.legislation.gov.uk/ukpga/1991/56/section/55/1A/b) inserted (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 59](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/59); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(vii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/vii)
 
-[^key-c7a0b7679e6a3d5448daa98c5476ac0e]: Textual amendment: S. 55(1B) inserted (3.10.2016) by [The Water and Sewerage Undertakers (Exit from Non-household Retail Market) Regulations 2016 (S.I. 2016/744)](https://www.legislation.gov.uk/uksi/2016/744), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/744/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2016/744/schedule/2/paragraph/5)
+[^c-c7a0b7679e6a3d5448daa98c5476ac0e]: Textual amendment: S. 55(1B) inserted (3.10.2016) by [The Water and Sewerage Undertakers (Exit from Non-household Retail Market) Regulations 2016 (S.I. 2016/744)](https://www.legislation.gov.uk/uksi/2016/744), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/744/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2016/744/schedule/2/paragraph/5)
 
 [^c19800231]: Textual amendment: Words in s. 55(8) inserted (1.12.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/101/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 8 para. 16(3)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/16/3); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))

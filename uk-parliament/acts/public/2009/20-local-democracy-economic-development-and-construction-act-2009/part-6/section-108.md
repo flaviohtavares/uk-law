@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Review by authorities: new combined authority[^key-9521aa09c02501b98575471ab804f1e4]
+## 108. Review by authorities: new combined authority[^c-9521aa09c02501b98575471ab804f1e4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9521aa09c02501b98575471ab804f1e4]: Textual amendment: [S. 108](https://www.legislation.gov.uk/ukpga/2009/20/section/108) omitted (26.12.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 65(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/65/2), [255(2)(h)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/h) (with [ss. 65(9)](https://www.legislation.gov.uk/ukpga/2023/55/section/65/9), [247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-9521aa09c02501b98575471ab804f1e4]: Textual amendment: [S. 108](https://www.legislation.gov.uk/ukpga/2009/20/section/108) omitted (26.12.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 65(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/65/2), [255(2)(h)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/h) (with [ss. 65(9)](https://www.legislation.gov.uk/ukpga/2023/55/section/65/9), [247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

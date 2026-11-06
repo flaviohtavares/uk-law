@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 280D. The no business acquisition condition[^key-05d3afc148a0797ee3c651c7097e4b85]
+## 280D. The no business acquisition condition[^c-05d3afc148a0797ee3c651c7097e4b85]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ and section 280B(8) and (9) apply for the purposes of this section as they apply
 
 ## Annotations
 
-[^key-05d3afc148a0797ee3c651c7097e4b85]: Textual amendment: Ss. 280C, 280D inserted (with effect in accordance with Sch. 6 para. 23(1) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/5)
+[^c-05d3afc148a0797ee3c651c7097e4b85]: Textual amendment: Ss. 280C, 280D inserted (with effect in accordance with Sch. 6 para. 23(1) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/5)

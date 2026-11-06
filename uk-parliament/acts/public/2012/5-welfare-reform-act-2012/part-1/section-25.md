@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Compliance with requirements[^key-c516a86df40c845ce51f7f48cddca3f8]
+## 25. Compliance with requirements[^c-c516a86df40c845ce51f7f48cddca3f8]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Regulations may make provision as to circumstances in which a claimant is to be 
 
 ## Annotations
 
-[^key-c516a86df40c845ce51f7f48cddca3f8]: Commencement: S. 25 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/12)
+[^c-c516a86df40c845ce51f7f48cddca3f8]: Commencement: S. 25 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/12)

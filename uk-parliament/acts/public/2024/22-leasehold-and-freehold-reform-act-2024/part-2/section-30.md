@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Eligibility for enfranchisement and extension: specific cases[^key-bae72d5b1c02149b27099e414fc2dba4]
+## 30. Eligibility for enfranchisement and extension: specific cases[^c-bae72d5b1c02149b27099e414fc2dba4]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 3 makes provision about the availability of rights to enfranchisement a
 
 ## Annotations
 
-[^key-bae72d5b1c02149b27099e414fc2dba4]: Commencement: S. 30 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-bae72d5b1c02149b27099e414fc2dba4]: Commencement: S. 30 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

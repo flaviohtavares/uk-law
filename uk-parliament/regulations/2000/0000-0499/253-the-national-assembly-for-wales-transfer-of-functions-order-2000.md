@@ -47,9 +47,9 @@ The Queen’s Most Excellent Majesty in Council
 
 Whereas the draft of this Order has been laid before, and approved by a resolution of, each House of Parliament and the National Assembly for Wales :
 
-Now, therefore, Her Majesty, in pursuance of sections 22, 24(1), 42(4) and 151(2) of, and paragraphs 1, 3 and 9 of Schedule 3 to, the Government of Wales Act 1998[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^key-d782d1551c4f4762ab52a201866a3db1]
+Now, therefore, Her Majesty, in pursuance of sections 22, 24(1), 42(4) and 151(2) of, and paragraphs 1, 3 and 9 of Schedule 3 to, the Government of Wales Act 1998[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^c-d782d1551c4f4762ab52a201866a3db1]
 
-## 1. Citation, commencement and interpretation[^key-879242f437e516fda024aafbbde791d0]
+## 1. Citation, commencement and interpretation[^c-879242f437e516fda024aafbbde791d0]
 
 (1) This Order may be cited as the National Assembly for Wales (Transfer of Functions) Order 2000.
 
@@ -64,7 +64,7 @@ Now, therefore, Her Majesty, in pursuance of sections 22, 24(1), 42(4) and 151(2
 - “the Assembly” means the National Assembly for Wales;
 - “former function” means a function of the Assembly that was transferred to it by the 1999 transfer order but which, by virtue of article 4 of, and Schedule 3 to, this Order, ceases to be exercisable by the Assembly.
 
-## 2. Transfer of functions etc.[^key-5495bd949094e25f6126cb1a0fb2a6a5]
+## 2. Transfer of functions etc.[^c-5495bd949094e25f6126cb1a0fb2a6a5]
 
 (1) Except as provided in this article, all functions of a Minister of the Crown under the enactments specified in Schedule 1 to this Order are, to the extent there specified and so far as exercisable in relation to Wales, transferred to the Assembly and the provisions contained in Schedule 1, in relation to the enactments specified therein, shall have effect.
 
@@ -76,19 +76,19 @@ Now, therefore, Her Majesty, in pursuance of sections 22, 24(1), 42(4) and 151(2
 
 (5) Schedule 1 does not transfer any functions of the Lord Chancellor or the Attorney General.
 
-## 3. Minister of the Crown functions exercisable with Assembly agreement[^key-71502055d33f8bc2cd48f03a61ede346]
+## 3. Minister of the Crown functions exercisable with Assembly agreement[^c-71502055d33f8bc2cd48f03a61ede346]
 
 It is directed that the functions exercisable by a Minister of the Crown under the enactments specified in Schedule 2 to this Order shall, so far as they are exercisable in relation to Wales and as specified in the said Schedule, be exercisable by the Minister only with the agreement of the Assembly.
 
-## 4. Variation of the 1999 Transfer Order[^key-99c5bc233b4cfb3f964e169eb3c293e8]
+## 4. Variation of the 1999 Transfer Order[^c-99c5bc233b4cfb3f964e169eb3c293e8]
 
 Schedule 3 (variation of the 1999 transfer order) to this Order shall have effect.
 
-## 5. Miscellaneous Provisions[^key-72172b353db50f256baa0e33a20c6050]
+## 5. Miscellaneous Provisions[^c-72172b353db50f256baa0e33a20c6050]
 
 A former function shall be exercisable by the Minister of the Crown by whom it was exercisable, in relation to Wales, immediately before 1st July 1999.
 
-**6.**[^key-dab0cf312028fe69ec320c93702ada66] (1) This article applies to any inquiry the procedures of which are prescribed by the Rules specified in Schedule 4 to this Order.
+**6.**[^c-dab0cf312028fe69ec320c93702ada66] (1) This article applies to any inquiry the procedures of which are prescribed by the Rules specified in Schedule 4 to this Order.
 
 (2) In relation to any inquiry to which this article applies, references in each of the said Rules to “government policy” shall have effect as if they included reference to policy adopted or formulated by the Assembly.
 
@@ -96,26 +96,26 @@ A former function shall be exercisable by the Minister of the Crown by whom it w
 
 (4) In the preceding paragraph (3), reference to an inquiry does not include an inquiry held by an inspector where jurisdiction to determine the appeal to which that inquiry relates has been transferred to the inspector by the Assembly.
 
-**7.**[^key-7ab870863c64894ca705b578519a617f] Schedule 5 (modification of enactments) to this Order shall have effect.
+**7.**[^c-7ab870863c64894ca705b578519a617f] Schedule 5 (modification of enactments) to this Order shall have effect.
 
-**8.**[^key-dd02fba65d3ae87f9c12ea1f0cc19f71] Any reference in this Order to a function of a Minister of the Crown under an enactment includes a reference to any functions of that Minister which are included in any scheme, regulations, rules, order, bye-laws or other instrument having effect under or in relation to that enactment, and the power to confer functions on that Minister by any such scheme, regulations, rules, order, bye-laws or other instrument shall have effect as a power to confer such functions on the Assembly.
+**8.**[^c-dd02fba65d3ae87f9c12ea1f0cc19f71] Any reference in this Order to a function of a Minister of the Crown under an enactment includes a reference to any functions of that Minister which are included in any scheme, regulations, rules, order, bye-laws or other instrument having effect under or in relation to that enactment, and the power to confer functions on that Minister by any such scheme, regulations, rules, order, bye-laws or other instrument shall have effect as a power to confer such functions on the Assembly.
 
-**9.**[^key-818547cf47bb042effbd891ec7b3aec8] (1) This article applies where —
+**9.**[^c-818547cf47bb042effbd891ec7b3aec8] (1) This article applies where —
 
 - (a) any function under an enactment is expressly required to be exercised by two or more Ministers of the Crown acting jointly; and
 - (b) any transfer in respect thereof in this Order does not transfer to the Assembly the functions of all such Ministers of the Crown.
 
 (2) Where this article applies, section 42 of the Act shall not have effect to allow the function to be exercised by the Assembly otherwise than in accordance with the joint action requirement.
 
-## 10. Transfer of property etc.[^key-c7ea1b53fabe81e9e109bf1b7d343548]
+## 10. Transfer of property etc.[^c-c7ea1b53fabe81e9e109bf1b7d343548]
 
 The provisions of section 23(1) of the Act shall not apply to any documentary or electronic records.
 
-**11.**[^key-d14df443d1b199312501e363a719ac88] (1) Subject to paragraph (2), Schedule 6 (transfer of property, rights, liabilities etc from the Assembly to Ministers of the Crown) shall have effect.
+**11.**[^c-d14df443d1b199312501e363a719ac88] (1) Subject to paragraph (2), Schedule 6 (transfer of property, rights, liabilities etc from the Assembly to Ministers of the Crown) shall have effect.
 
 (2) Schedule 6 does not apply to rights or liabilities relating to the employment of persons in Crown employment (as defined in section 191(3) of the Employment Rights Act 1996[^f00006]).
 
-## 12. Revocation[^key-31b66fda147d41f70e21de5a43f96b74]
+## 12. Revocation[^c-31b66fda147d41f70e21de5a43f96b74]
 
 The National Assembly for Wales (Transfer of Functions) (No.2) Order 1999[^f00007] is revoked.
 
@@ -123,7 +123,7 @@ A.K. Galloway
 
 Clerk of the Privy Council
 
-## SCHEDULE 1 — ENACTMENTS CONFERRING FUNCTIONS TRANSFERRED ETC. BY ARTICLE 2[^key-b4c8fdc9c9eef3da88851d57602213dc]
+## SCHEDULE 1 — ENACTMENTS CONFERRING FUNCTIONS TRANSFERRED ETC. BY ARTICLE 2[^c-b4c8fdc9c9eef3da88851d57602213dc]
 
 Article 2
 
@@ -190,7 +190,7 @@ Article 2
 - **The Bovines and Bovine Products (Trade) Regulations 1999 (S.I. [1999/1103](https://www.legislation.gov.uk/uksi/1999/1103))**[^f00031]
 - **The Marketing of Ornamental Plant Material Regulations 1999 (S.I. [1999/180](https://www.legislation.gov.uk/uksi/1999/180)**
 
-## SCHEDULE 2 — ENACTMENTS SUBJECT TO CONSTRAINT ON MINISTERIAL EXERCISE OF FUNCTIONS[^key-be2460d013bc1acb41da37ddcda52583]
+## SCHEDULE 2 — ENACTMENTS SUBJECT TO CONSTRAINT ON MINISTERIAL EXERCISE OF FUNCTIONS[^c-be2460d013bc1acb41da37ddcda52583]
 
 Article 3
 
@@ -202,11 +202,11 @@ The function of the Secretary of State of making regulations under section 15 sh
 
 The function of the Secretary of State under paragraph 2 of Schedule 1 of making appointments to the Disability Rights Commission shall be exercisable only with the agreement of the Assembly so far as necessary to ensure that there is at all times one Commissioner who has been appointed with the agreement of the Assembly.
 
-## SCHEDULE 3 — VARIATION OF THE 1999 TRANSFER ORDER[^key-b2dfa7e86e7a28d232efb5750e8f2a4c]
+## SCHEDULE 3 — VARIATION OF THE 1999 TRANSFER ORDER[^c-b2dfa7e86e7a28d232efb5750e8f2a4c]
 
 Article 4
 
-[^key-b2dfa7e86e7a28d232efb5750e8f2a4c]
+[^c-b2dfa7e86e7a28d232efb5750e8f2a4c]
 
 Schedule 1 to the 1999 transfer order is varied as follows :
 
@@ -318,11 +318,11 @@ Schedule 1 to the 1999 transfer order is varied as follows :
   .
 - (g) the entry in relation to the Data Protection Act [1998 (c. 29)](https://www.legislation.gov.uk/ukpga/1998/29) shall be omitted.
 
-## SCHEDULE 4 — INQUIRIES PROCEDURE RULES[^key-9263bb13230884d3ea3ccfba371a4415]
+## SCHEDULE 4 — INQUIRIES PROCEDURE RULES[^c-9263bb13230884d3ea3ccfba371a4415]
 
 Article 6
 
-[^key-9263bb13230884d3ea3ccfba371a4415]
+[^c-9263bb13230884d3ea3ccfba371a4415]
 
 - **The Town and Country Planning (Inquiries Procedure) Rules 1974 (S.I. [1974/419](https://www.legislation.gov.uk/uksi/1974/419))**
 - **The Drought Orders (Inquiries Procedure) Rules 1984 (S.I. [1984/999](https://www.legislation.gov.uk/uksi/1984/999))**
@@ -340,21 +340,21 @@ Article 6
 
 Article 7
 
-### 1. The Dentists Act [1984 (c. 24)](https://www.legislation.gov.uk/ukpga/1984/24)[^key-51d7ffa1761d922accd32af217615bb8]
+### 1. The Dentists Act [1984 (c. 24)](https://www.legislation.gov.uk/ukpga/1984/24)[^c-51d7ffa1761d922accd32af217615bb8]
 
 In paragraph 1(2)(b) of Schedule 1 to the Dentists Act 1984 (General Dental Council and Committees of the Council: supplementary provisions) for “the Welsh Office” substitute “the National Assembly for Wales”.
 
-### 2. The Housing and Planning Act [1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63)[^key-97784884b57549556f24bcb3eab65f27]
+### 2. The Housing and Planning Act [1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63)[^c-97784884b57549556f24bcb3eab65f27]
 
 Section 42 (recovery of Minister’s costs in connection with inquiries) shall have effect as if in subsection (2)(b) the reference to “government department” included reference to the Assembly.
 
-### 3. Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14)[^key-390ef868209e237cfd47f2d93f7fb61f]
+### 3. Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14)[^c-390ef868209e237cfd47f2d93f7fb61f]
 
 In section 6(6)(b) of the Social Security Act 1998 (panel for appointment to appeal tribunals) for “Welsh Office” substitute “National Assembly for Wales”.
 
-**4.**[^key-73a37b79a1fff613e93bea9ff8ae2bc8] In paragraph 8(2)(b) of Schedule 1 to that Act of 1998 (appeal tribunals: supplementary provisions) for “Welsh Office” substitute “National Assembly for Wales”.
+**4.**[^c-73a37b79a1fff613e93bea9ff8ae2bc8] In paragraph 8(2)(b) of Schedule 1 to that Act of 1998 (appeal tribunals: supplementary provisions) for “Welsh Office” substitute “National Assembly for Wales”.
 
-### 5. The Novel Foods and Novel Food Ingredients Regulations 1997 (S.I. [1997/1335](https://www.legislation.gov.uk/uksi/1997/1335))[^key-39446d80076b763036bf666b4a7c4090][^f00032]
+### 5. The Novel Foods and Novel Food Ingredients Regulations 1997 (S.I. [1997/1335](https://www.legislation.gov.uk/uksi/1997/1335))[^c-39446d80076b763036bf666b4a7c4090][^f00032]
 
 In regulation 3 of the Novel Foods and Novel Food Ingredients Regulations 1997 —
 
@@ -366,7 +366,7 @@ In regulation 3 of the Novel Foods and Novel Food Ingredients Regulations 1997 �
 
   .
 
-### 6. The Novel Foods and Novel Food Ingredients (Fees) Regulations 1997 (S.I. [1997/1336](https://www.legislation.gov.uk/uksi/1997/1336))[^key-ef25ff444de582330c4ce5989026cc03][^f00033]
+### 6. The Novel Foods and Novel Food Ingredients (Fees) Regulations 1997 (S.I. [1997/1336](https://www.legislation.gov.uk/uksi/1997/1336))[^c-ef25ff444de582330c4ce5989026cc03][^f00033]
 
 In Regulation 3(1) of the Novel Foods and Novel Food Ingredients (Fees) Regulations 1997 —
 
@@ -374,13 +374,13 @@ In Regulation 3(1) of the Novel Foods and Novel Food Ingredients (Fees) Regulati
 - (b) after “or, as the case may be,” insert “to the Assembly or to”; and
 - (c) omit “, in connection with the services provided by him acting jointly with the Secretary of State for Health as the food assessment body for the purposes of that Regulation,”.
 
-**7.**[^key-74ef1018689ab29c0663c0876144fca9] After regulation 3(2), add as follows —
+**7.**[^c-74ef1018689ab29c0663c0876144fca9] After regulation 3(2), add as follows —
 
 > (3) The appropriate fee payable to the Minister under paragraph (1) above shall be in connection with the services provided by him acting jointly with the Secretary of State for Health as the food assessment body for the purposes of the said Regulation [(EC) No. 258/97](https://www.legislation.gov.uk/european/regulation/1997/0258).
 
 .
 
-### 8. Employers' Liability (Compulsory Insurance) Regulations 1998 (S.I. [1998/2573](https://www.legislation.gov.uk/uksi/1998/2573))[^key-140f2ddf8229f59f471e140429b25a05][^f00034]
+### 8. Employers' Liability (Compulsory Insurance) Regulations 1998 (S.I. [1998/2573](https://www.legislation.gov.uk/uksi/1998/2573))[^c-140f2ddf8229f59f471e140429b25a05][^f00034]
 
 (1) Paragraph 1 of Schedule 2 (employers exempted from insurance) to the Employers' Liability (Compulsory Insurance) Regulations 1998 is amended as follows.
 
@@ -392,16 +392,16 @@ In Regulation 3(1) of the Novel Foods and Novel Food Ingredients (Fees) Regulati
 
 Article 11
 
-**1.**[^key-76dbc028732e91a492679b1b591f2d1d] There shall be transferred to and vest in a Minister of the Crown all property, rights and liabilities to which the Assembly is entitled or subject, at the coming into force of this Order, in connection with any function exercisable by the Assembly which is transferred to that Minister by virtue of articles 4 and 5 of, and Schedule 3 to, this Order.
+**1.**[^c-76dbc028732e91a492679b1b591f2d1d] There shall be transferred to and vest in a Minister of the Crown all property, rights and liabilities to which the Assembly is entitled or subject, at the coming into force of this Order, in connection with any function exercisable by the Assembly which is transferred to that Minister by virtue of articles 4 and 5 of, and Schedule 3 to, this Order.
 
-**2.**[^key-a87e07419baabb0ed2c98db5d6d773a8] There may be continued by or in relation to a Minister of the Crown anything (including legal proceedings) which relates to—
+**2.**[^c-a87e07419baabb0ed2c98db5d6d773a8] There may be continued by or in relation to a Minister of the Crown anything (including legal proceedings) which relates to—
 
 - (a) any function exercisable by the Assembly which is so transferred by this Order to that Minister, or
 - (b) any property, rights or liabilities transferred by paragraph 1,
 
 and which is in the process of being done by or in relation to the Assembly immediately before the coming into force of this Order.
 
-**3.**[^key-7a1c0883bfb445358aa7249b2e88e323] Anything which was done by the Assembly for the purpose of or in connection with —
+**3.**[^c-7a1c0883bfb445358aa7249b2e88e323] Anything which was done by the Assembly for the purpose of or in connection with —
 
 - (a) any function exercisable by the Assembly which is transferred by this Order,
   - or
@@ -409,7 +409,7 @@ and which is in the process of being done by or in relation to the Assembly imme
 
 and which is in effect immediately before the coming into force of this Order shall have effect as if done by the Minister of the Crown to whom the functions are transferred by this Order.
 
-**4.**[^key-aa30fc9b68a1189236668bd8a414e399] The Minister of the Crown to whom any function of the Assembly is transferred by this Order shall be substituted for the Assembly in any instruments, contracts or legal proceedings which relate to—
+**4.**[^c-aa30fc9b68a1189236668bd8a414e399] The Minister of the Crown to whom any function of the Assembly is transferred by this Order shall be substituted for the Assembly in any instruments, contracts or legal proceedings which relate to—
 
 - (a) any function exercisable by the Assembly which is transferred to that Minister by this Order, or
 - (b) any property, rights or liabilities transferred by paragraph 1,
@@ -457,9 +457,9 @@ Article 12 revokes the National Assembly for Wales (Transfer of Functions) (No. 
 
 [^f00001]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-d782d1551c4f4762ab52a201866a3db1]: Modification: Order modified (1.1.2005) by [The Town and Country Planning (Electronic Communications) (Wales) (No. 1) Order 2004 (S.I. 2004/3156)](https://www.legislation.gov.uk/uksi/2004/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3156/article/1/1), [14](https://www.legislation.gov.uk/uksi/2004/3156/article/14)
+[^c-d782d1551c4f4762ab52a201866a3db1]: Modification: Order modified (1.1.2005) by [The Town and Country Planning (Electronic Communications) (Wales) (No. 1) Order 2004 (S.I. 2004/3156)](https://www.legislation.gov.uk/uksi/2004/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3156/article/1/1), [14](https://www.legislation.gov.uk/uksi/2004/3156/article/14)
 
-[^key-879242f437e516fda024aafbbde791d0]: Commencement: Art. 1 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-879242f437e516fda024aafbbde791d0]: Commencement: Art. 1 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
 [^f00002]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
 
@@ -469,33 +469,33 @@ Article 12 revokes the National Assembly for Wales (Transfer of Functions) (No. 
 
 [^f00005]: Footnote: S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672).
 
-[^key-5495bd949094e25f6126cb1a0fb2a6a5]: Commencement: Art. 2 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-5495bd949094e25f6126cb1a0fb2a6a5]: Commencement: Art. 2 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
-[^key-71502055d33f8bc2cd48f03a61ede346]: Commencement: Art. 3 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-71502055d33f8bc2cd48f03a61ede346]: Commencement: Art. 3 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
-[^key-99c5bc233b4cfb3f964e169eb3c293e8]: Commencement: Art. 4 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-99c5bc233b4cfb3f964e169eb3c293e8]: Commencement: Art. 4 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
-[^key-72172b353db50f256baa0e33a20c6050]: Commencement: Art. 5 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-72172b353db50f256baa0e33a20c6050]: Commencement: Art. 5 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
-[^key-dab0cf312028fe69ec320c93702ada66]: Commencement: Art. 6 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-dab0cf312028fe69ec320c93702ada66]: Commencement: Art. 6 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
-[^key-7ab870863c64894ca705b578519a617f]: Commencement: Art. 7 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-7ab870863c64894ca705b578519a617f]: Commencement: Art. 7 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
-[^key-dd02fba65d3ae87f9c12ea1f0cc19f71]: Commencement: Art. 8 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-dd02fba65d3ae87f9c12ea1f0cc19f71]: Commencement: Art. 8 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
-[^key-818547cf47bb042effbd891ec7b3aec8]: Commencement: Art. 9 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-818547cf47bb042effbd891ec7b3aec8]: Commencement: Art. 9 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
-[^key-c7ea1b53fabe81e9e109bf1b7d343548]: Commencement: Art. 10 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-c7ea1b53fabe81e9e109bf1b7d343548]: Commencement: Art. 10 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
-[^key-d14df443d1b199312501e363a719ac88]: Commencement: Art. 11 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-d14df443d1b199312501e363a719ac88]: Commencement: Art. 11 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
 [^f00006]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-31b66fda147d41f70e21de5a43f96b74]: Commencement: Art. 12 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-31b66fda147d41f70e21de5a43f96b74]: Commencement: Art. 12 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
 [^f00007]: Footnote: S.I. [1999/2787](https://www.legislation.gov.uk/uksi/1999/2787).
 
-[^key-b4c8fdc9c9eef3da88851d57602213dc]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2000/253/schedule/1/crossheading) in force at 16.2.2000 for specified purposes and 1.4.2000 otherwise, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-b4c8fdc9c9eef3da88851d57602213dc]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2000/253/schedule/1/crossheading) in force at 16.2.2000 for specified purposes and 1.4.2000 otherwise, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
 [^M_I_ead8b703-d462-49c4-f8f8-5c8c43a65114]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2000/253/schedule/1/crossheading) in force at 16.2.2000 for specified purposes and 1.4.2000 otherwise, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
@@ -549,42 +549,42 @@ Article 12 revokes the National Assembly for Wales (Transfer of Functions) (No. 
 
 [^f00031]: Footnote: S.I. [1999/1103](https://www.legislation.gov.uk/uksi/1999/1103) amended by S.I. [1999/1554](https://www.legislation.gov.uk/uksi/1999/1554).
 
-[^key-be2460d013bc1acb41da37ddcda52583]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2000/253/schedule/2/act/1999) in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-be2460d013bc1acb41da37ddcda52583]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2000/253/schedule/2/act/1999) in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
 [^M_I_ca0da9ef-3e0d-46d9-bd5c-6100a1a25bce]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2000/253/schedule/2/act/1999) in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
 [^M_I_2594a11f-1553-414e-b636-ed9eb2c75105]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2000/253/schedule/2/act/1999) in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
-[^key-b2dfa7e86e7a28d232efb5750e8f2a4c]: Commencement: Sch. 3 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-b2dfa7e86e7a28d232efb5750e8f2a4c]: Commencement: Sch. 3 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
-[^key-9263bb13230884d3ea3ccfba371a4415]: Commencement: Sch. 4 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-9263bb13230884d3ea3ccfba371a4415]: Commencement: Sch. 4 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
-[^key-51d7ffa1761d922accd32af217615bb8]: Commencement: Sch. 5 para. 1 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-51d7ffa1761d922accd32af217615bb8]: Commencement: Sch. 5 para. 1 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
-[^key-97784884b57549556f24bcb3eab65f27]: Commencement: Sch. 5 para. 2 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-97784884b57549556f24bcb3eab65f27]: Commencement: Sch. 5 para. 2 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
-[^key-390ef868209e237cfd47f2d93f7fb61f]: Commencement: Sch. 5 para. 3 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-390ef868209e237cfd47f2d93f7fb61f]: Commencement: Sch. 5 para. 3 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
-[^key-73a37b79a1fff613e93bea9ff8ae2bc8]: Commencement: Sch. 5 para. 4 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-73a37b79a1fff613e93bea9ff8ae2bc8]: Commencement: Sch. 5 para. 4 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
-[^key-39446d80076b763036bf666b4a7c4090]: Commencement: Sch. 5 para. 5 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-39446d80076b763036bf666b4a7c4090]: Commencement: Sch. 5 para. 5 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
 [^f00032]: Footnote: S.I. [1997/1335](https://www.legislation.gov.uk/uksi/1997/1335) amended by S.I. [1999/1756](https://www.legislation.gov.uk/uksi/1999/1756) and [1999/3182](https://www.legislation.gov.uk/uksi/1999/3182)
 
-[^key-ef25ff444de582330c4ce5989026cc03]: Commencement: Sch. 5 para. 6 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-ef25ff444de582330c4ce5989026cc03]: Commencement: Sch. 5 para. 6 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
 [^f00033]: Footnote: [S.I. 1997/ 1336](https://www.legislation.gov.uk/uksi/1997/1336) amended by S.I. [1999/1756](https://www.legislation.gov.uk/uksi/1999/1756)
 
-[^key-74ef1018689ab29c0663c0876144fca9]: Commencement: Sch. 5 para. 7 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-74ef1018689ab29c0663c0876144fca9]: Commencement: Sch. 5 para. 7 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
-[^key-140f2ddf8229f59f471e140429b25a05]: Commencement: Sch. 5 para. 8 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-140f2ddf8229f59f471e140429b25a05]: Commencement: Sch. 5 para. 8 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
 [^f00034]: Footnote: S.I. [1998/2573](https://www.legislation.gov.uk/uksi/1998/2573) to which there is a relevant amendment by S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)
 
-[^key-76dbc028732e91a492679b1b591f2d1d]: Commencement: Sch. 6 para. 1 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-76dbc028732e91a492679b1b591f2d1d]: Commencement: Sch. 6 para. 1 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
-[^key-a87e07419baabb0ed2c98db5d6d773a8]: Commencement: Sch. 6 para. 2 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-a87e07419baabb0ed2c98db5d6d773a8]: Commencement: Sch. 6 para. 2 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
-[^key-7a1c0883bfb445358aa7249b2e88e323]: Commencement: Sch. 6 para. 3 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-7a1c0883bfb445358aa7249b2e88e323]: Commencement: Sch. 6 para. 3 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
 
-[^key-aa30fc9b68a1189236668bd8a414e399]: Commencement: Sch. 6 para. 4 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+[^c-aa30fc9b68a1189236668bd8a414e399]: Commencement: Sch. 6 para. 4 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)

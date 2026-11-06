@@ -24,7 +24,7 @@ Section 137.
 
 ### Submission of scheme
 
-**1.** (1) Before submitting a special charges scheme to either of the Ministers, the appropriate agency[^key-bd1c19cedf83a94eba37866642540ed7] shall consult organisations appearing to it to represent the interests of persons engaged in agriculture in the area designated in the scheme.
+**1.** (1) Before submitting a special charges scheme to either of the Ministers, the appropriate agency[^c-bd1c19cedf83a94eba37866642540ed7] shall consult organisations appearing to it to represent the interests of persons engaged in agriculture in the area designated in the scheme.
 
 (2) As soon as any special charges scheme has been submitted to either of the Ministers, the appropriate agency shall—
 
@@ -127,7 +127,7 @@ he may, within six weeks of the relevant date, make an application for the purpo
 
 may quash the order either generally or in so far as it affects the applicant.
 
-(3) Except by leave of the Court of Appeal, no appeal shall lie to the Supreme Court[^key-1e2d6456a8cf9fa47300ccbe31f3deb1] from a decision of the Court of Appeal in proceedings under this paragraph.
+(3) Except by leave of the Court of Appeal, no appeal shall lie to the Supreme Court[^c-1e2d6456a8cf9fa47300ccbe31f3deb1] from a decision of the Court of Appeal in proceedings under this paragraph.
 
 (4) Subject to the preceding provisions of this paragraph an unconfirmed order shall not at any time be questioned in any legal proceedings whatsoever.
 
@@ -155,12 +155,12 @@ may quash the order either generally or in so far as it affects the applicant.
 
 ## Annotations
 
-[^key-bd1c19cedf83a94eba37866642540ed7]: Textual amendment: Words in [Sch. 16 paras. 1-3](https://www.legislation.gov.uk/ukpga/1991/57/schedule/16/paragraph/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 311(d)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/311/d) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-bd1c19cedf83a94eba37866642540ed7]: Textual amendment: Words in [Sch. 16 paras. 1-3](https://www.legislation.gov.uk/ukpga/1991/57/schedule/16/paragraph/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 311(d)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/311/d) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18747021]: Textual amendment: Words in Sch. 16 para. 1(2)(a)(i) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 22(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/5), [Sch. 11 Pt. I para. 3(10)(a)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/11/part/I/paragraph/3/10/a) (with [ss. 54(4)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/4/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 3](https://www.legislation.gov.uk/uksi/1996/396/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/396/schedule/1)
 
 [^c18747071]: Textual amendment: Words in Sch. 16 para. 3(2)(a) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 22(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/5), [Sch. 11 Pt. I para. 3(10)(b)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/11/part/I/paragraph/3/10/b) (with [ss. 54(4)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/4/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 3](https://www.legislation.gov.uk/uksi/1996/396/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/396/schedule/1)
 
-[^key-1e2d6456a8cf9fa47300ccbe31f3deb1]: Textual amendment: Words in Sch. 16 para. 8(3) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 55](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/55); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-1e2d6456a8cf9fa47300ccbe31f3deb1]: Textual amendment: Words in Sch. 16 para. 8(3) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 55](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/55); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c18747091]: Marginal citation: [1945 c. 18 (9 & 10 Geo 6)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/18).

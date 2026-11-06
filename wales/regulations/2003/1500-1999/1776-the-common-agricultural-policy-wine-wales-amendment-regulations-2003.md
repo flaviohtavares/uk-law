@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The Common Agricultural Policy (Wine) (Wales) (Amendment) Regulations 2003 (revoked)[^key-addc2a3ae56212e82dce2db71c5eba64]
+The Common Agricultural Policy (Wine) (Wales) (Amendment) Regulations 2003 (revoked)[^c-addc2a3ae56212e82dce2db71c5eba64]
 
 Made
 
@@ -41,38 +41,38 @@ Coming into force
 
 31st July 2003
 
-[^key-addc2a3ae56212e82dce2db71c5eba64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-addc2a3ae56212e82dce2db71c5eba64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, extent and commencement[^key-addc2a3ae56212e82dce2db71c5eba64]
+## 1. Title, extent and commencement[^c-addc2a3ae56212e82dce2db71c5eba64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-addc2a3ae56212e82dce2db71c5eba64]
+## 2. Interpretation[^c-addc2a3ae56212e82dce2db71c5eba64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-addc2a3ae56212e82dce2db71c5eba64]
+## 3. Amendment of the principal Regulations[^c-addc2a3ae56212e82dce2db71c5eba64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-addc2a3ae56212e82dce2db71c5eba64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-addc2a3ae56212e82dce2db71c5eba64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-addc2a3ae56212e82dce2db71c5eba64]
+## SCHEDULE 1[^c-addc2a3ae56212e82dce2db71c5eba64]
 
 Regulation 3(g)
 
-[^key-addc2a3ae56212e82dce2db71c5eba64]
+[^c-addc2a3ae56212e82dce2db71c5eba64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-addc2a3ae56212e82dce2db71c5eba64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-addc2a3ae56212e82dce2db71c5eba64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-addc2a3ae56212e82dce2db71c5eba64]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/1776) revoked (30.12.2011) by [The Wine Regulations 2011 (S.I. 2011/2936)](https://www.legislation.gov.uk/uksi/2011/2936), [reg. 20](https://www.legislation.gov.uk/uksi/2011/2936/regulation/20) (with [reg. 3(9)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/9))
+[^c-addc2a3ae56212e82dce2db71c5eba64]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/1776) revoked (30.12.2011) by [The Wine Regulations 2011 (S.I. 2011/2936)](https://www.legislation.gov.uk/uksi/2011/2936), [reg. 20](https://www.legislation.gov.uk/uksi/2011/2936/regulation/20) (with [reg. 3(9)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/9))

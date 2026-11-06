@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 283A. Income payments agreement[^key-f60b32b34f2b8bc8c776a6f78aaad7ad][^c20145141]
+## 283A. Income payments agreement[^c-f60b32b34f2b8bc8c776a6f78aaad7ad][^c20145141]
 
 *Extent: N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f60b32b34f2b8bc8c776a6f78aaad7ad]: Modification: [Art. 283A](https://www.legislation.gov.uk/nisi/1989/2405/article/283A) excluded (with application in accordance with reg. 1 of the amending S.I.) by [The Education (Postgraduate Master's Degree Loans) Regulations 2016 (S.I. 2016/606)](https://www.legislation.gov.uk/uksi/2016/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/606/regulation/1/1), [97(2)(a)](https://www.legislation.gov.uk/uksi/2016/606/regulation/97/2/a)
+[^c-f60b32b34f2b8bc8c776a6f78aaad7ad]: Modification: [Art. 283A](https://www.legislation.gov.uk/nisi/1989/2405/article/283A) excluded (with application in accordance with reg. 1 of the amending S.I.) by [The Education (Postgraduate Master's Degree Loans) Regulations 2016 (S.I. 2016/606)](https://www.legislation.gov.uk/uksi/2016/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/606/regulation/1/1), [97(2)(a)](https://www.legislation.gov.uk/uksi/2016/606/regulation/97/2/a)
 
 [^c20145141]: Textual amendment: [Art. 283A](https://www.legislation.gov.uk/nisi/1989/2405/article/283A) inserted (27.3.2006) by [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](https://www.legislation.gov.uk/nisi/2005/1455), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [16](https://www.legislation.gov.uk/nisi/2005/1455/article/16) (with [art. 4](https://www.legislation.gov.uk/nisi/2005/1455/article/4)); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (with [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2](https://www.legislation.gov.uk/nisr/2006/22/article/2)-7)

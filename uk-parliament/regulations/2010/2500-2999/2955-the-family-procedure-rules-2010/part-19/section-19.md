@@ -28,7 +28,7 @@ summary: ''
 - (b) the applicant seeks the court's decision on a question which is unlikely to involve a substantial dispute of fact; or
 - (c) paragraph (5) applies.
 
-(2A)[^key-e65514b48b205ab82f3a952406640da4] This Part is subject to any provision made by or pursuant to Part 41 (proceeding by electronic means).
+(2A)[^c-e65514b48b205ab82f3a952406640da4] This Part is subject to any provision made by or pursuant to Part 41 (proceeding by electronic means).
 
 (3) The court may at any stage direct that the application is to continue as if the applicant had not used the Part 19 procedure and, if it does so, the court may give any directions it considers appropriate.
 
@@ -47,7 +47,7 @@ summary: ''
 
 - (a) section 60(3) of the 2002 Act (order to prevent disclosure of information to an adopted person);
 - (b) section 79(4) of the 2002 Act (order for Registrar General to give any information referred to in section 79(3) of the 2002 Act); and
-- (c) rule 14.21 (directions [^key-43500efe663d6271aed204d0747cc933]... regarding fathers without parental responsibility).
+- (c) rule 14.21 (directions [^c-43500efe663d6271aed204d0747cc933]... regarding fathers without parental responsibility).
 
 (2) The respondent to an application made in accordance with paragraph (1)(b) is the Registrar General.
 
@@ -154,6 +154,6 @@ must state the reasons for that contention when filing the acknowledgment of ser
 
 ## Annotations
 
-[^key-e65514b48b205ab82f3a952406640da4]: Textual amendment: [Rule 19.1(2A)](https://www.legislation.gov.uk/uksi/2010/2955/rule/19.1/2A) inserted (6.4.2020) by [The Family Procedure (Amendment) Rules 2020 (S.I. 2020/135)](https://www.legislation.gov.uk/uksi/2020/135), [rules 1](https://www.legislation.gov.uk/uksi/2020/135/rule/1), [23](https://www.legislation.gov.uk/uksi/2020/135/rule/23)
+[^c-e65514b48b205ab82f3a952406640da4]: Textual amendment: [Rule 19.1(2A)](https://www.legislation.gov.uk/uksi/2010/2955/rule/19.1/2A) inserted (6.4.2020) by [The Family Procedure (Amendment) Rules 2020 (S.I. 2020/135)](https://www.legislation.gov.uk/uksi/2020/135), [rules 1](https://www.legislation.gov.uk/uksi/2020/135/rule/1), [23](https://www.legislation.gov.uk/uksi/2020/135/rule/23)
 
-[^key-43500efe663d6271aed204d0747cc933]: Textual amendment: Words in [rule 19.2(c)](https://www.legislation.gov.uk/uksi/2010/2955/rule/19.2/c) omitted (6.4.2020) by virtue of [The Family Procedure (Amendment) Rules 2020 (S.I. 2020/135)](https://www.legislation.gov.uk/uksi/2020/135), [rules 1](https://www.legislation.gov.uk/uksi/2020/135/rule/1), [24](https://www.legislation.gov.uk/uksi/2020/135/rule/24)
+[^c-43500efe663d6271aed204d0747cc933]: Textual amendment: Words in [rule 19.2(c)](https://www.legislation.gov.uk/uksi/2010/2955/rule/19.2/c) omitted (6.4.2020) by virtue of [The Family Procedure (Amendment) Rules 2020 (S.I. 2020/135)](https://www.legislation.gov.uk/uksi/2020/135), [rules 1](https://www.legislation.gov.uk/uksi/2020/135/rule/1), [24](https://www.legislation.gov.uk/uksi/2020/135/rule/24)

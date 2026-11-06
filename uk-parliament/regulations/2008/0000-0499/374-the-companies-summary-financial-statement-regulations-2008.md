@@ -50,13 +50,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation, commencement and application[^key-737a519d9e87762c2bad61d78180af74]
+### 1. Citation, commencement and application[^c-737a519d9e87762c2bad61d78180af74]
 
 (1) These Regulations may be cited as the Companies (Summary Financial Statement) Regulations 2008.
 
 (2) These Regulations come into force on 6th April 2008 and apply in relation to companies’ financial years beginning on or after that date.
 
-### 2. Interpretation[^key-fdccb6bbef0e2277ec6cb3ff8b39c3e6]
+### 2. Interpretation[^c-fdccb6bbef0e2277ec6cb3ff8b39c3e6]
 
 In these Regulations, unless otherwise stated—
 
@@ -65,7 +65,7 @@ In these Regulations, unless otherwise stated—
 - “the Small Companies Accounts Regulations” means the Small Companies (Accounts and Directors’ Report) Regulations 2008[^f00003];
 - “**full accounts and reports**” means, in relation to a company, the annual accounts and reports, copies of which the company is required to send to the persons specified in section 423(l) of the 2006 Act, and “**full**” in relation to any balance sheet, profit and loss account, group accounts, directors’ report or directors’ remuneration report means any such document contained in the full accounts and reports.
 
-### 3. Persons to whom a company may send a summary financial statement[^key-f4496e7df77b4bef1a6e335619c3f197]
+### 3. Persons to whom a company may send a summary financial statement[^c-f4496e7df77b4bef1a6e335619c3f197]
 
 Subject to these Regulations, a company may send a summary financial statement instead of a copy of its full accounts and reports to—
 
@@ -74,7 +74,7 @@ Subject to these Regulations, a company may send a summary financial statement i
 
 ## PART 2 — CONDITIONS FOR SENDING OUT SUMMARY FINANCIAL STATEMENT
 
-### 4. Cases in which sending of summary financial statement prohibited[^key-a39fe9f576e0cec739e8b34db363ca4f]
+### 4. Cases in which sending of summary financial statement prohibited[^c-a39fe9f576e0cec739e8b34db363ca4f]
 
 (1) In the following cases a company may not send a summary financial statement to a person specified in regulation 3—
 
@@ -89,7 +89,7 @@ Subject to these Regulations, a company may send a summary financial statement i
 
 (3) For the purposes of paragraph (l) any provision (however expressed) which requires copies of the full accounts and reports to be sent to a person specified in regulation 3, or which forbids the sending of summary financial statements under section 426 of the 2006 Act (option to provide summary financial statement), is a relevant provision.
 
-### 5. Ascertainment of the wishes of a person specified in regulation 3[^key-f1b8befbe919fb8147c8879fb0a952a7]
+### 5. Ascertainment of the wishes of a person specified in regulation 3[^c-f1b8befbe919fb8147c8879fb0a952a7]
 
 (1) A company may not send a summary financial statement to a person specified in regulation 3 unless the company has ascertained that the person does not wish to receive copies of its full accounts and reports, and paragraphs (2) and (3) apply for the ascertainment of whether or not such a person wishes to receive copies of the full accounts and reports for a financial year.
 
@@ -102,7 +102,7 @@ Subject to these Regulations, a company may send a summary financial statement i
 
 (4) For the purposes of paragraph (2) a notification has effect in relation to a financial year if it relates to that year (whether or not it has been given at the invitation of the company) and if it has been received by the company not later than 28 days before the first date on which copies of the full accounts and reports for that year are sent to the persons specified in regulation 3 in accordance with section 423 of the 2006 Act.
 
-### 6. Consultation by notice[^key-2616dd8b8e7ac9427f244d2dee782f5e]
+### 6. Consultation by notice[^c-2616dd8b8e7ac9427f244d2dee782f5e]
 
 (1) A consultation notice under this regulation is notice given by a company to a person specified in regulation 3 which—
 
@@ -125,7 +125,7 @@ Subject to these Regulations, a company may send a summary financial statement i
   - (ii) complies with the requirements of section 428 of the 2006 Act (form and contents of summary financial statement: quoted companies) and of these Regulations;
 - (b) state whether the auditor’s report on the annual accounts was unqualified or qualified.
 
-### 7. Relevant consultation[^key-0062c834412358214ddb88340af17b09]
+### 7. Relevant consultation[^c-0062c834412358214ddb88340af17b09]
 
 (1) A company may conduct a relevant consultation to ascertain the wishes of a person specified in regulation 3.
 
@@ -135,7 +135,7 @@ Subject to these Regulations, a company may send a summary financial statement i
 - (b) accompanies a copy of the full accounts and reports; and
 - (c) accompanies a copy of a summary financial statement, prepared in accordance with section 426 of the 2006 Act, and sections 427 and 428 of that Act, as appropriate, and these Regulations, with respect to the financial year covered by those full accounts and reports and which is identified in the notice as an example of the document which that person will receive for the future, so long as he is a person specified in regulation 3, unless he notifies the company to the contrary.
 
-### 8. Supplementary provisions for Part 2[^key-cb793ac93e72f3690ffb2c0683d41668]
+### 8. Supplementary provisions for Part 2[^c-cb793ac93e72f3690ffb2c0683d41668]
 
 (1) Subject to any requirement or contrary provision of this Part the company communications provisions of the 2006 Act apply to any notice or other communication required or authorised to be sent to or by the company by any provision in this Part.
 
@@ -154,7 +154,7 @@ Subject to these Regulations, a company may send a summary financial statement i
 
 ## PART 3 — FORM AND CONTENT OF SUMMARY FINANCIAL STATEMENT
 
-### 9. Provisions applying to all companies and groups[^key-1ea4a27f15a2bba4d026d07c1a380297]
+### 9. Provisions applying to all companies and groups[^c-1ea4a27f15a2bba4d026d07c1a380297]
 
 (1) Every summary financial statement issued by a company in place of the full accounts and reports must comply with this regulation.
 
@@ -175,7 +175,7 @@ Subject to these Regulations, a company may send a summary financial statement i
 
 (8) The summary financial statement must contain any other information necessary to ensure that the statement is consistent with the full accounts and reports for the financial year in question.
 
-### 10. Provisions applying only to certain types of company[^key-b3f65b037dba78c953967cddca362c51]
+### 10. Provisions applying only to certain types of company[^c-b3f65b037dba78c953967cddca362c51]
 
 (1) The summary financial statement of a company having certain securities publicly traded as specified in paragraph 13 of Schedule 7 to the Large and Medium-sized Companies Accounts Regulations (disclosure required by certain publicly-traded companies) must—
 
@@ -184,7 +184,7 @@ Subject to these Regulations, a company may send a summary financial statement i
 
 (2) The summary financial statement of a quoted company must contain the whole of, or a summary of, those portions of the directors’ remuneration report for the financial year in question which set out the matters required by paragraphs 3 (statement of company’s policy on directors’ remuneration) and 5 (performance graph) of Schedule 8 to the Large and Medium-sized Companies Accounts Regulations.
 
-### 11. Contents of summary financial statements[^key-9c05038d9c3ae73cb87658768849a9d4]
+### 11. Contents of summary financial statements[^c-9c05038d9c3ae73cb87658768849a9d4]
 
 (1) Subject to regulations 9 and 10, the summary financial statement of a company must be in such form, and contain such information, as is prescribed in relation to that company in the following paragraphs of this regulation so far as applicable to that company.
 
@@ -221,7 +221,7 @@ must comply with Schedule 3 to these Regulations.
 
 ## PART 4 — SUPPLEMENTARY PROVISIONS
 
-### 12. Revocation, transitionals and saving[^key-aa95e50e0cb953aaa8df0192316c5bcf]
+### 12. Revocation, transitionals and saving[^c-aa95e50e0cb953aaa8df0192316c5bcf]
 
 (1) Subject to paragraph (2), the Companies (Summary Financial Statement) Regulations 1995[^f00004] and the Companies (Summary Financial Statement) Regulations (Northern Ireland) 1996[^f00005] are revoked.
 
@@ -243,7 +243,7 @@ Department for Business, Enterprise and Regulatory Reform
 
 Regulation 11(2)
 
-### 1. Summary profit and loss account[^key-dd0dc580ace0804fd5b5fdf071e6976e]
+### 1. Summary profit and loss account[^c-dd0dc580ace0804fd5b5fdf071e6976e]
 
 (1) The summary financial statement must contain a summary profit and loss account showing, in so far as they may be derived from the full profit and loss account, the items, or combinations of items, listed in sub-paragraph (3), in the order set out in that sub-paragraph.
 
@@ -288,11 +288,11 @@ Regulation 11(2)
   - (iii) format 3, item A11 or B9
   - (iv) format 4, item A13 or B11.
 
-### 2. Dividends[^key-b0f1faa15f1c724e03148f04eba2b659]
+### 2. Dividends[^c-b0f1faa15f1c724e03148f04eba2b659]
 
 The summary financial statement must also contain the information concerning recognized and proposed dividends included in the full accounts and reports.
 
-### 3. Summary balance sheet[^key-4a2b37c9e26e504ccb70c6360a9f10f7]
+### 3. Summary balance sheet[^c-4a2b37c9e26e504ccb70c6360a9f10f7]
 
 (1) The summary financial statement must contain a summary balance sheet.
 
@@ -302,7 +302,7 @@ The summary financial statement must also contain the information concerning rec
 
 (4) Where the full balance sheet used is format 2 in Schedule 1 to the Small Companies Accounts Regulations or format 2 in Schedule 1 to the Large and Medium-sized Companies Accounts Regulations, then in the case of heading C under “Liabilities” two figures must be shown, one figure for amounts falling due within one year and one for amounts falling due after one year.
 
-### 4. Corresponding amounts[^key-0429a9bf1e2b8fed7eb164e4b18dcd6e]
+### 4. Corresponding amounts[^c-0429a9bf1e2b8fed7eb164e4b18dcd6e]
 
 (1) In respect of every item shown in the summary profit and loss account, or in the summary balance sheet, the corresponding amount must be shown for the immediately preceding financial year.
 
@@ -312,7 +312,7 @@ The summary financial statement must also contain the information concerning rec
 
 Regulation 11(3)
 
-### 1. Summary profit and loss account[^key-8b9470268092f54c03ff9860e9134ee0]
+### 1. Summary profit and loss account[^c-8b9470268092f54c03ff9860e9134ee0]
 
 (1) The summary financial statement must contain a summary profit and loss account showing, in so far as they may be derived from the full profit and loss account, the items, or combinations of items, listed in sub-paragraph (3), in the order set out in that sub-paragraph.
 
@@ -351,11 +351,11 @@ Regulation 11(3)
   - (i) format 1, item 24
   - (ii) format 2, item A16 or B12.
 
-### 2. Dividends[^key-e74803e1ca4c5503ce10e7b942488f09]
+### 2. Dividends[^c-e74803e1ca4c5503ce10e7b942488f09]
 
 The summary financial statement must also contain the information concerning recognised and proposed dividends included in the full accounts and reports.
 
-### 3. Summary balance sheet[^key-7a8d3ba447e191a5a701c4e9ef8ccc44]
+### 3. Summary balance sheet[^c-7a8d3ba447e191a5a701c4e9ef8ccc44]
 
 (1) The summary financial statement must contain a summary balance sheet which must show, in so far as they may be derived from the full balance sheet, the items, or combinations of items, set out in sub-paragraph (2), in the order set out in that sub-paragraph and under such headings as the directors consider appropriate.
 
@@ -392,7 +392,7 @@ The summary financial statement must also contain the information concerning rec
 - (p) commitments—
   - item 2 under the heading “MEMORANDUM ITEMS”.
 
-### 4. Corresponding amounts[^key-65f61c143cceea2d273236d7add43af3]
+### 4. Corresponding amounts[^c-65f61c143cceea2d273236d7add43af3]
 
 (1) In respect of every item shown in the summary profit and loss account, or in the summary balance sheet, the corresponding amount must be shown for the immediately preceding financial year.
 
@@ -402,7 +402,7 @@ The summary financial statement must also contain the information concerning rec
 
 Regulation 11(4)
 
-### 1. Summary profit and loss account[^key-51fcf7d1d5162e4f14f83d2edd2455db]
+### 1. Summary profit and loss account[^c-51fcf7d1d5162e4f14f83d2edd2455db]
 
 (1) The summary financial statement must contain a summary profit and loss account showing, in so far as they may be derived from the full profit and loss account, the items, or combinations of items, listed in sub-paragraph (3), in the order set out in that sub-paragraph.
 
@@ -440,11 +440,11 @@ Regulation 11(4)
 - (k) profit or loss for the financial year—
   - item III 16.
 
-### 2. Dividends[^key-9611f6e83dd5f21c6f86b2e6c741eda0]
+### 2. Dividends[^c-9611f6e83dd5f21c6f86b2e6c741eda0]
 
 The summary financial statement must also contain the information concerning recognized and proposed dividends included in the full accounts and reports.
 
-### 3. Summary balance sheet[^key-ca92223263513a267b393284b04f3dd7]
+### 3. Summary balance sheet[^c-ca92223263513a267b393284b04f3dd7]
 
 (1) The summary financial statement must contain a summary balance sheet which must show, in so far as they may be derived from the full balance sheet, the items, or combinations of items, set out in sub-paragraph (2) in the order of that sub-paragraph and under such headings as the directors consider appropriate.
 
@@ -471,7 +471,7 @@ The summary financial statement must also contain the information concerning rec
   - the aggregate of items E, F, G and H under the heading “LIABILITIES”; and
 - (k) total liabilities under the heading “LIABILITIES”.
 
-### 4. Corresponding amounts[^key-75c658723050ea794c2b54e58d7f0b67]
+### 4. Corresponding amounts[^c-75c658723050ea794c2b54e58d7f0b67]
 
 (1) In respect of every item shown in the summary profit and loss account, or in the summary balance sheet, the corresponding amount must be shown for the immediately preceding financial year.
 
@@ -481,7 +481,7 @@ The summary financial statement must also contain the information concerning rec
 
 Regulation 11(5)
 
-### 1. Summary profit and loss account[^key-97c705a4790c49ea17347e0b35a19ad1]
+### 1. Summary profit and loss account[^c-97c705a4790c49ea17347e0b35a19ad1]
 
 (1) The summary financial statement must contain a summary consolidated profit and loss account showing the items or combinations of items required by paragraph 1 of Schedule 1 to these Regulations in the order required by that paragraph and under such headings as the directors consider appropriate, but with the modifications specified in sub-paragraph (3).
 
@@ -499,14 +499,14 @@ Regulation 11(5)
   - (i) in the profit and loss account formats in Part 1 of Schedule 1 to the Small Companies Accounts Regulations by paragraph 17(3)(b) of Schedule 6 to those Regulations (minority interests), or
   - (ii) in the profit and loss account formats in Part 1 of Schedule 1 to the Large and Medium-sized Companies Accounts Regulations, by paragraph 17(3)(b) of Schedule 6 to those Regulations (minority interests).
 
-### 2. Summary balance sheet[^key-f911e1ae80ea57b44864603240ed543b]
+### 2. Summary balance sheet[^c-f911e1ae80ea57b44864603240ed543b]
 
 The summary financial statement must contain a summary consolidated balance sheet showing the items required by paragraph 3 of Schedule 1 to these Regulations in the order required by that paragraph and under such headings as the directors consider appropriate, but with the addition of the item required to be inserted—
 
 - (a) by paragraph 17(2) of Schedule 6 to the Small Companies Accounts Regulations (minority interests), or
 - (b) by paragraph 17(2) of Schedule 6 to the Large and Medium-sized Companies Accounts Regulations (minority interests).
 
-### 3. Corresponding amounts[^key-3b1d31214507cdf68cf41e4db5769beb]
+### 3. Corresponding amounts[^c-3b1d31214507cdf68cf41e4db5769beb]
 
 (1) In respect of every item shown in the summary consolidated profit and loss account, or in the summary consolidated balance sheet, the corresponding amount must be shown for the immediately preceding financial year.
 
@@ -516,7 +516,7 @@ The summary financial statement must contain a summary consolidated balance shee
 
 Regulation 11(6)
 
-### 1. Summary profit and loss account[^key-e1146488d6fc45e746a7a29696f414b4]
+### 1. Summary profit and loss account[^c-e1146488d6fc45e746a7a29696f414b4]
 
 (1) The summary financial statement must contain a summary consolidated profit and loss account showing the items, or combinations of items, required by paragraph 1 of Schedule 2 to these Regulations, in the order required by that paragraph and under such headings as the directors consider appropriate, but with the modifications specified in sub-paragraph (3).
 
@@ -528,13 +528,13 @@ Regulation 11(6)
 - (b) between the information required by paragraph 1(3)(g) and that required by paragraph 1(3)(h) of Schedule 2 to these Regulations there must in addition be shown, under such heading as the directors consider appropriate, the item required to be shown in the formats in Schedule 2 to the Large and Medium-sized Companies Accounts Regulations by paragraph 17(3)(a) of Schedule 6 to those Regulations (minority interests) as applied by paragraph 25 of Schedule 6 to those Regulations; and
 - (c) the figures required by paragraph 1(3)(h) and (i) of Schedule 2 to these Regulations must each be shown after the deduction or the addition (as the case may be) of the item required to be shown in the formats in Schedule 2 to the Large and Medium-sized Companies Accounts Regulations by paragraph 17(3)(b) of Schedule 6 to those Regulations (minority interests) as applied by paragraph 25 of Schedule 6 to those Regulations.
 
-### 2. Summary balance sheet[^key-3f722ad0bbdf09046d4dbdc2f8edbd27]
+### 2. Summary balance sheet[^c-3f722ad0bbdf09046d4dbdc2f8edbd27]
 
 (1) The summary financial statement must contain a summary consolidated balance sheet showing the items required by paragraph 3 of Schedule 2 to these Regulations, in the order required by that paragraph and under such headings as the directors consider appropriate, but with the addition specified in sub-paragraph (2).
 
 (2) Between the items required by paragraph 3(2)(1) and (m) or after the item required by paragraph 3(2)(m) (whichever is the position adopted for the full accounts), there must in addition be shown under an appropriate heading the item required to be shown in the balance sheet format in Schedule 2 to the Large and Medium-sized Companies Accounts Regulations by paragraph 17(2) of Schedule 6 to those Regulations (minority interests) as applied by paragraph 25 in Part 2 of Schedule 6 to those Regulations.
 
-### 3. Corresponding amounts[^key-b7e65dcc27562bf693bf45ffc6817f8b]
+### 3. Corresponding amounts[^c-b7e65dcc27562bf693bf45ffc6817f8b]
 
 (1) In respect of every item shown in the summary consolidated profit and loss account, or in the summary consolidated balance sheet, the corresponding amount must be shown for the immediately preceding financial year.
 
@@ -544,7 +544,7 @@ Regulation 11(6)
 
 Regulation 11(7)
 
-### 1. Summary profit and loss account[^key-3226866efc71407f16f00d75a96ee575]
+### 1. Summary profit and loss account[^c-3226866efc71407f16f00d75a96ee575]
 
 (1) The summary financial statement must contain a summary consolidated profit and loss account showing the items, or combinations of items, required by paragraph 1 of Schedule 3 to these Regulations, in the order required by that paragraph and under such headings as the directors consider appropriate, but with the modifications specified in sub-paragraph (3).
 
@@ -556,13 +556,13 @@ Regulation 11(7)
 - (b) between the information required by paragraph 1(3)(h) and that required by paragraph 1(3)(i) of Schedule 3 to these Regulations there must in addition be shown, under such heading as the directors consider appropriate, the item required to be shown in the profit and loss account formats in Schedule 3 to the Large and Medium-sized Companies Accounts Regulations by paragraph 17(3)(a) of Schedule 6 to those Regulations (minority interests) as applied by paragraph 36 of Schedule 6 to those Regulations; and
 - (c) the figures required by paragraph 1(3)(i) and (j) of Schedule 3 to these Regulations must each be shown after the deduction or the addition (as the case may be) of the item required to be shown in the profit and loss account formats in Schedule 3 to the Large and Medium-sized Companies Accounts Regulations by paragraph 17(3)(b) of Schedule 6 to those Regulations (minority interests) as applied by paragraph 36 of Schedule 6 to those Regulations.
 
-### 2. Summary balance sheet[^key-294bd3208600f25aa6c71a78a36e58be]
+### 2. Summary balance sheet[^c-294bd3208600f25aa6c71a78a36e58be]
 
 (1) The summary financial statement must contain a summary consolidated balance sheet showing the items required by paragraph 3 of Schedule 3 to these Regulations, in the order required by that paragraph and under such headings as the directors consider appropriate, but with the addition of the item specified in sub-paragraph (2).
 
 (2) Between the items required by paragraph 3(2)(d) and (e) of Schedule 3 to these Regulations, there must in addition be shown under an appropriate heading the item required to be shown in the balance sheet format in Schedule 3 to the Large and Medium-sized Companies Accounts Regulations by paragraph 17(2) of Schedule 6 to those Regulations (minority interests), as applied by paragraph 36 of Schedule 6 to those Regulations.
 
-### 3. Corresponding amounts[^key-cf75be3070cf6a2066e845bc9d24d094]
+### 3. Corresponding amounts[^c-cf75be3070cf6a2066e845bc9d24d094]
 
 (1) In respect of every item shown in the summary consolidated profit and loss account, or in the summary consolidated balance sheet, the corresponding amount must be shown for the immediately preceding financial year.
 
@@ -572,7 +572,7 @@ Regulation 11(7)
 
 Regulation 11(8)
 
-### 1. Summary profit and loss account[^key-2c1961c269e1be971c8c44183aaaa4f1]
+### 1. Summary profit and loss account[^c-2c1961c269e1be971c8c44183aaaa4f1]
 
 (1) The summary financial statement must contain a summary profit and loss account showing either—
 
@@ -583,14 +583,14 @@ Regulation 11(8)
 
 (3) In this paragraph and in paragraph 2, the expressions “**headings**” and “**subtotals**” have the same meaning as in international accounting standard 1 on the presentation of financial statements[^f00006].
 
-### 2. Summary balance sheet[^key-53349b07e3e2e00ab2c224b4ab987631]
+### 2. Summary balance sheet[^c-53349b07e3e2e00ab2c224b4ab987631]
 
 The summary financial statement must contain a summary balance sheet showing either—
 
 - (a) each of the headings and sub-totals included in the full balance sheet in accordance with international accounting standards, or
 - (b) where the directors consider it appropriate, a combination of such headings and sub-totals where they are of a similar nature.
 
-### 3. Corresponding amounts[^key-cea94b246f04613422f0196cdf40857a]
+### 3. Corresponding amounts[^c-cea94b246f04613422f0196cdf40857a]
 
 (1) In respect of every item shown in the summary profit and loss account, or in the summary balance sheet, the corresponding amount must be shown for the immediately preceding financial year.
 
@@ -600,7 +600,7 @@ The summary financial statement must contain a summary balance sheet showing eit
 
 Regulation 11(9)
 
-### 1. Summary profit and loss account[^key-c333dd6543d80a023b15ff6f6c8ed95e]
+### 1. Summary profit and loss account[^c-c333dd6543d80a023b15ff6f6c8ed95e]
 
 (1) The summary financial statement must contain a summary consolidated profit and loss account showing either—
 
@@ -611,14 +611,14 @@ Regulation 11(9)
 
 (3) In this paragraph and in paragraph 2, the expressions “**headings**” and “**subtotals**” have the same meaning as in international accounting standard 1 on the presentation of financial statements.
 
-### 2. Summary balance sheet[^key-90ebf763f86df914fc6b55e80af5e452]
+### 2. Summary balance sheet[^c-90ebf763f86df914fc6b55e80af5e452]
 
 The summary financial statement must contain a summary consolidated balance sheet showing either—
 
 - (a) each of the headings and sub-totals included in the full consolidated balance sheet in accordance with international accounting standards, or
 - (b) where the directors consider it appropriate, a combination of such headings and sub-totals where they are of a similar nature.
 
-### 3. Corresponding amounts[^key-724a55b29ddde65c9c6d14c8935a9d9b]
+### 3. Corresponding amounts[^c-724a55b29ddde65c9c6d14c8935a9d9b]
 
 (1) In respect of every item shown in the summary consolidated profit and loss account, or in the summary consolidated balance sheet, the corresponding amount must be shown for the immediately preceding financial year.
 
@@ -648,90 +648,90 @@ An Impact Assessment has not been produced for these Regulations as they have on
 
 [^f00001]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-737a519d9e87762c2bad61d78180af74]: Commencement: Reg. 1 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-737a519d9e87762c2bad61d78180af74]: Commencement: Reg. 1 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-fdccb6bbef0e2277ec6cb3ff8b39c3e6]: Commencement: Reg. 2 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-fdccb6bbef0e2277ec6cb3ff8b39c3e6]: Commencement: Reg. 2 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2008/410](https://www.legislation.gov.uk/uksi/2008/410).
 
 [^f00003]: Footnote: [S.I. 2008/409](https://www.legislation.gov.uk/uksi/2008/409).
 
-[^key-f4496e7df77b4bef1a6e335619c3f197]: Commencement: Reg. 3 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-f4496e7df77b4bef1a6e335619c3f197]: Commencement: Reg. 3 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-a39fe9f576e0cec739e8b34db363ca4f]: Commencement: Reg. 4 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-a39fe9f576e0cec739e8b34db363ca4f]: Commencement: Reg. 4 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-f1b8befbe919fb8147c8879fb0a952a7]: Commencement: Reg. 5 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-f1b8befbe919fb8147c8879fb0a952a7]: Commencement: Reg. 5 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-2616dd8b8e7ac9427f244d2dee782f5e]: Commencement: Reg. 6 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-2616dd8b8e7ac9427f244d2dee782f5e]: Commencement: Reg. 6 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-0062c834412358214ddb88340af17b09]: Commencement: Reg. 7 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-0062c834412358214ddb88340af17b09]: Commencement: Reg. 7 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-cb793ac93e72f3690ffb2c0683d41668]: Commencement: Reg. 8 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-cb793ac93e72f3690ffb2c0683d41668]: Commencement: Reg. 8 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-1ea4a27f15a2bba4d026d07c1a380297]: Commencement: Reg. 9 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-1ea4a27f15a2bba4d026d07c1a380297]: Commencement: Reg. 9 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-b3f65b037dba78c953967cddca362c51]: Commencement: Reg. 10 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-b3f65b037dba78c953967cddca362c51]: Commencement: Reg. 10 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-9c05038d9c3ae73cb87658768849a9d4]: Commencement: Reg. 11 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-9c05038d9c3ae73cb87658768849a9d4]: Commencement: Reg. 11 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-aa95e50e0cb953aaa8df0192316c5bcf]: Commencement: Reg. 12 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-aa95e50e0cb953aaa8df0192316c5bcf]: Commencement: Reg. 12 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 1995/2092](https://www.legislation.gov.uk/uksi/1995/2092), as amended by S.I.s [2000/3373](https://www.legislation.gov.uk/uksi/2000/3373), [2002/1780](https://www.legislation.gov.uk/uksi/2002/1780) and [2005/2281](https://www.legislation.gov.uk/uksi/2005/2281).
 
 [^f00005]: Footnote: [S.R. 1996/179](https://www.legislation.gov.uk/nisr/1996/179), as amended by Article 29 of, and Schedule 2 to, [S.R. 2003/3](https://www.legislation.gov.uk/nisr/2003/3), [S.R. 2005/57](https://www.legislation.gov.uk/nisr/2005/57) and [S.R. 2006/138](https://www.legislation.gov.uk/nisr/2006/138).
 
-[^key-dd0dc580ace0804fd5b5fdf071e6976e]: Commencement: Sch. 1 para. 1 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-dd0dc580ace0804fd5b5fdf071e6976e]: Commencement: Sch. 1 para. 1 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-b0f1faa15f1c724e03148f04eba2b659]: Commencement: Sch. 1 para. 2 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-b0f1faa15f1c724e03148f04eba2b659]: Commencement: Sch. 1 para. 2 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-4a2b37c9e26e504ccb70c6360a9f10f7]: Commencement: Sch. 1 para. 3 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-4a2b37c9e26e504ccb70c6360a9f10f7]: Commencement: Sch. 1 para. 3 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-0429a9bf1e2b8fed7eb164e4b18dcd6e]: Commencement: Sch. 1 para. 4 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-0429a9bf1e2b8fed7eb164e4b18dcd6e]: Commencement: Sch. 1 para. 4 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-8b9470268092f54c03ff9860e9134ee0]: Commencement: Sch. 2 para. 1 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-8b9470268092f54c03ff9860e9134ee0]: Commencement: Sch. 2 para. 1 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-e74803e1ca4c5503ce10e7b942488f09]: Commencement: Sch. 2 para. 2 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-e74803e1ca4c5503ce10e7b942488f09]: Commencement: Sch. 2 para. 2 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-7a8d3ba447e191a5a701c4e9ef8ccc44]: Commencement: Sch. 2 para. 3 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-7a8d3ba447e191a5a701c4e9ef8ccc44]: Commencement: Sch. 2 para. 3 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-65f61c143cceea2d273236d7add43af3]: Commencement: Sch. 2 para. 4 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-65f61c143cceea2d273236d7add43af3]: Commencement: Sch. 2 para. 4 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-51fcf7d1d5162e4f14f83d2edd2455db]: Commencement: Sch. 3 para. 1 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-51fcf7d1d5162e4f14f83d2edd2455db]: Commencement: Sch. 3 para. 1 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-9611f6e83dd5f21c6f86b2e6c741eda0]: Commencement: Sch. 3 para. 2 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-9611f6e83dd5f21c6f86b2e6c741eda0]: Commencement: Sch. 3 para. 2 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-ca92223263513a267b393284b04f3dd7]: Commencement: Sch. 3 para. 3 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-ca92223263513a267b393284b04f3dd7]: Commencement: Sch. 3 para. 3 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-75c658723050ea794c2b54e58d7f0b67]: Commencement: Sch. 3 para. 4 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-75c658723050ea794c2b54e58d7f0b67]: Commencement: Sch. 3 para. 4 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-97c705a4790c49ea17347e0b35a19ad1]: Commencement: Sch. 4 para. 1 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-97c705a4790c49ea17347e0b35a19ad1]: Commencement: Sch. 4 para. 1 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-f911e1ae80ea57b44864603240ed543b]: Commencement: Sch. 4 para. 2 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-f911e1ae80ea57b44864603240ed543b]: Commencement: Sch. 4 para. 2 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-3b1d31214507cdf68cf41e4db5769beb]: Commencement: Sch. 4 para. 3 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-3b1d31214507cdf68cf41e4db5769beb]: Commencement: Sch. 4 para. 3 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-e1146488d6fc45e746a7a29696f414b4]: Commencement: Sch. 5 para. 1 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-e1146488d6fc45e746a7a29696f414b4]: Commencement: Sch. 5 para. 1 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-3f722ad0bbdf09046d4dbdc2f8edbd27]: Commencement: Sch. 5 para. 2 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-3f722ad0bbdf09046d4dbdc2f8edbd27]: Commencement: Sch. 5 para. 2 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-b7e65dcc27562bf693bf45ffc6817f8b]: Commencement: Sch. 5 para. 3 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-b7e65dcc27562bf693bf45ffc6817f8b]: Commencement: Sch. 5 para. 3 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-3226866efc71407f16f00d75a96ee575]: Commencement: Sch. 6 para. 1 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-3226866efc71407f16f00d75a96ee575]: Commencement: Sch. 6 para. 1 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-294bd3208600f25aa6c71a78a36e58be]: Commencement: Sch. 6 para. 2 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-294bd3208600f25aa6c71a78a36e58be]: Commencement: Sch. 6 para. 2 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-cf75be3070cf6a2066e845bc9d24d094]: Commencement: Sch. 6 para. 3 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-cf75be3070cf6a2066e845bc9d24d094]: Commencement: Sch. 6 para. 3 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-2c1961c269e1be971c8c44183aaaa4f1]: Commencement: Sch. 7 para. 1 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-2c1961c269e1be971c8c44183aaaa4f1]: Commencement: Sch. 7 para. 1 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
 [^f00006]: Footnote: IAS 1 was adopted by EC [Commission Regulation (EC) No. 1725/2003](https://www.legislation.gov.uk/european/regulation/2003/1725) of 29th September 2003 adopting certain international accounting standards in accordance with Regulation [(EC) No. 1606/2002](https://www.legislation.gov.uk/european/regulation/2002/1606) of the European Parliament and the Council (O.J. L261 of 13.10.2003, pages 1-420).
 
-[^key-53349b07e3e2e00ab2c224b4ab987631]: Commencement: Sch. 7 para. 2 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-53349b07e3e2e00ab2c224b4ab987631]: Commencement: Sch. 7 para. 2 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-cea94b246f04613422f0196cdf40857a]: Commencement: Sch. 7 para. 3 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-cea94b246f04613422f0196cdf40857a]: Commencement: Sch. 7 para. 3 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-c333dd6543d80a023b15ff6f6c8ed95e]: Commencement: Sch. 8 para. 1 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-c333dd6543d80a023b15ff6f6c8ed95e]: Commencement: Sch. 8 para. 1 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-90ebf763f86df914fc6b55e80af5e452]: Commencement: Sch. 8 para. 2 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-90ebf763f86df914fc6b55e80af5e452]: Commencement: Sch. 8 para. 2 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
 
-[^key-724a55b29ddde65c9c6d14c8935a9d9b]: Commencement: Sch. 8 para. 3 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)
+[^c-724a55b29ddde65c9c6d14c8935a9d9b]: Commencement: Sch. 8 para. 3 in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/374/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Powers of entry[^key-10fd1e3fb214dfa02c2ff6cb05a2c51f]
+## 115. Powers of entry[^c-10fd1e3fb214dfa02c2ff6cb05a2c51f]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10fd1e3fb214dfa02c2ff6cb05a2c51f]: Commencement: [S. 115](https://www.legislation.gov.uk/anaw/2014/7/section/115) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-10fd1e3fb214dfa02c2ff6cb05a2c51f]: Commencement: [S. 115](https://www.legislation.gov.uk/anaw/2014/7/section/115) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

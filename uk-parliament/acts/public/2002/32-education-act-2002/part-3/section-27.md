@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Power of governing body to provide community facilities etc.[^c381693][^c381827][^key-693de350fea48173e6ddb126525e683c][^key-a4e026e47da1a2c5ae46b32c7df7648f][^key-83eddae4bf77967f977a75a08f5032d0][^key-f459871567dbc9d066d885a08736f003][^key-5dff1ca43b68ac8f186cdac4520e2894]
+## 27. Power of governing body to provide community facilities etc.[^c381693][^c381827][^c-693de350fea48173e6ddb126525e683c][^c-a4e026e47da1a2c5ae46b32c7df7648f][^c-83eddae4bf77967f977a75a08f5032d0][^c-f459871567dbc9d066d885a08736f003][^c-5dff1ca43b68ac8f186cdac4520e2894]
 
 *Extent: E+W*
 
@@ -42,12 +42,12 @@ summary: ''
 
 [^c381827]: Modification: S. 27 modified (temp. from 2.9.2002) by [The Education Act 2002 (Transitional Provisions etc.) (England) Regulations 2002 (S.I. 2002/2113)](https://www.legislation.gov.uk/uksi/2002/2113), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2002/2113/regulation/3/1); s. 27 modified (E.) (temp. from 1.10.2002) by [S.I. 2002/2316](https://www.legislation.gov.uk/uksi/2002/2316), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2002/2316/regulation/3/1)
 
-[^key-693de350fea48173e6ddb126525e683c]: Modification: S. 27 applied (with modifications) (10.7.2003) by [New Schools (General) (England) Regulations 2003 (S.I. 2003/1558)](https://www.legislation.gov.uk/uksi/2003/1558), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1558/regulation/1), [31](https://www.legislation.gov.uk/uksi/2003/1558/regulation/31)
+[^c-693de350fea48173e6ddb126525e683c]: Modification: S. 27 applied (with modifications) (10.7.2003) by [New Schools (General) (England) Regulations 2003 (S.I. 2003/1558)](https://www.legislation.gov.uk/uksi/2003/1558), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1558/regulation/1), [31](https://www.legislation.gov.uk/uksi/2003/1558/regulation/31)
 
-[^key-a4e026e47da1a2c5ae46b32c7df7648f]: Commencement: S. 27 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
+[^c-a4e026e47da1a2c5ae46b32c7df7648f]: Commencement: S. 27 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
 
-[^key-83eddae4bf77967f977a75a08f5032d0]: Modification: S. 27 applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/uksi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2912/regulation/1/1), [30(1)](https://www.legislation.gov.uk/uksi/2005/2912/regulation/30/1) (with [reg. 30(2)](https://www.legislation.gov.uk/uksi/2005/2912/regulation/30/2))
+[^c-83eddae4bf77967f977a75a08f5032d0]: Modification: S. 27 applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/uksi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2912/regulation/1/1), [30(1)](https://www.legislation.gov.uk/uksi/2005/2912/regulation/30/1) (with [reg. 30(2)](https://www.legislation.gov.uk/uksi/2005/2912/regulation/30/2))
 
-[^key-f459871567dbc9d066d885a08736f003]: Modification: S. 27 applied (with modifications) (25.5.2007) by [The School Governance (New Schools) (England) Regulations 2007 (S.I. 2007/958)](https://www.legislation.gov.uk/uksi/2007/958), [regs. 1](https://www.legislation.gov.uk/uksi/2007/958/regulation/1), [30](https://www.legislation.gov.uk/uksi/2007/958/regulation/30)
+[^c-f459871567dbc9d066d885a08736f003]: Modification: S. 27 applied (with modifications) (25.5.2007) by [The School Governance (New Schools) (England) Regulations 2007 (S.I. 2007/958)](https://www.legislation.gov.uk/uksi/2007/958), [regs. 1](https://www.legislation.gov.uk/uksi/2007/958/regulation/1), [30](https://www.legislation.gov.uk/uksi/2007/958/regulation/30)
 
-[^key-5dff1ca43b68ac8f186cdac4520e2894]: Modification: S. 27 applied (with modifications) (1.2.2008) by [The Education (Pupil Referral Units) (Application of Enactments) (England) Regulations 2007 (S.I. 2007/2979)](https://www.legislation.gov.uk/uksi/2007/2979), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2979/regulation/1/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2007/2979/schedule/1/paragraph/13)
+[^c-5dff1ca43b68ac8f186cdac4520e2894]: Modification: S. 27 applied (with modifications) (1.2.2008) by [The Education (Pupil Referral Units) (Application of Enactments) (England) Regulations 2007 (S.I. 2007/2979)](https://www.legislation.gov.uk/uksi/2007/2979), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2979/regulation/1/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2007/2979/schedule/1/paragraph/13)

@@ -45,9 +45,9 @@ summary: ''
 
 (6) Subject to Article 283 (protected items), no duty to which a person is subject is to be regarded as contravened merely because of any information or opinion contained in a notice under this Article.
 
-(7) Where the trustees or managers of a scheme fail to comply with an obligation imposed on them by paragraph (1), Article 83A (financial penalties)[^key-f6cdf98eecd94ca6e351a922e8494c52] applies in relation to any trustee or manager who has failed to take all reasonable steps to secure compliance with that paragraph.
+(7) Where the trustees or managers of a scheme fail to comply with an obligation imposed on them by paragraph (1), Article 83A (financial penalties)[^c-f6cdf98eecd94ca6e351a922e8494c52] applies in relation to any trustee or manager who has failed to take all reasonable steps to secure compliance with that paragraph.
 
-(8) Article 83A[^key-9a01f028d5f5f309100726c811eef623] also applies to any other person who, without reasonable excuse, fails to comply with an obligation imposed on him by paragraph (1).
+(8) Article 83A[^c-9a01f028d5f5f309100726c811eef623] also applies to any other person who, without reasonable excuse, fails to comply with an obligation imposed on him by paragraph (1).
 
 (9) In this Article—
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f6cdf98eecd94ca6e351a922e8494c52]: Textual amendment: Words in [art. 64(7)](https://www.legislation.gov.uk/nisi/2005/255/article/64/7) substituted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 7(1)(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/7/1/a); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(e)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/e) (with [arts. 4](https://www.legislation.gov.uk/nisr/2021/271/article/4), [8](https://www.legislation.gov.uk/nisr/2021/271/article/8))
+[^c-f6cdf98eecd94ca6e351a922e8494c52]: Textual amendment: Words in [art. 64(7)](https://www.legislation.gov.uk/nisi/2005/255/article/64/7) substituted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 7(1)(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/7/1/a); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(e)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/e) (with [arts. 4](https://www.legislation.gov.uk/nisr/2021/271/article/4), [8](https://www.legislation.gov.uk/nisr/2021/271/article/8))
 
-[^key-9a01f028d5f5f309100726c811eef623]: Textual amendment: Words in [art. 64(8)](https://www.legislation.gov.uk/nisi/2005/255/article/64/8) substituted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 7(1)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/7/1/b); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(e)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/e) (with [arts. 4](https://www.legislation.gov.uk/nisr/2021/271/article/4), [8](https://www.legislation.gov.uk/nisr/2021/271/article/8))
+[^c-9a01f028d5f5f309100726c811eef623]: Textual amendment: Words in [art. 64(8)](https://www.legislation.gov.uk/nisi/2005/255/article/64/8) substituted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 7(1)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/7/1/b); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(e)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/e) (with [arts. 4](https://www.legislation.gov.uk/nisr/2021/271/article/4), [8](https://www.legislation.gov.uk/nisr/2021/271/article/8))

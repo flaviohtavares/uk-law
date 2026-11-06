@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Commission Delegated Regulation (EU) 2019/829 supplementing Regulation (EU) 2016/2031 of the European Parliament and of the Council on protective measures against pests of plants, authorising Member States to provide for temporary derogations in view of official testing, scientific or educational purposes, trials, varietal selections, or breeding[^key-c12d6982c78e58dbb223c5fe0559dd28]
+## 47. Commission Delegated Regulation (EU) 2019/829 supplementing Regulation (EU) 2016/2031 of the European Parliament and of the Council on protective measures against pests of plants, authorising Member States to provide for temporary derogations in view of official testing, scientific or educational purposes, trials, varietal selections, or breeding[^c-c12d6982c78e58dbb223c5fe0559dd28]
 
 *Extent: E+W+S+N.I.*
 
@@ -143,6 +143,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c12d6982c78e58dbb223c5fe0559dd28]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
+[^c-c12d6982c78e58dbb223c5fe0559dd28]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
 
 [^c24375251]: Marginal citation: EUR 2019/829.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Services of public economic interest[^key-a55948d71822423dc30dddc5d233db3b][^key-e770cecebb79efb27e201269fb90e231]
+## 29. Services of public economic interest[^c-a55948d71822423dc30dddc5d233db3b][^c-e770cecebb79efb27e201269fb90e231]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a55948d71822423dc30dddc5d233db3b]: Commencement: S. 29 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-a55948d71822423dc30dddc5d233db3b]: Commencement: S. 29 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-e770cecebb79efb27e201269fb90e231]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/23/section/29) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-e770cecebb79efb27e201269fb90e231]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/23/section/29) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

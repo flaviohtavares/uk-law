@@ -33,7 +33,7 @@ MEDICINES
 
 FEES AND CHARGES
 
-The Medicines (Products for Human Use—Fees) Amendment Regulations 2000 (revoked)[^key-10f8527404545541ab612100d9af7aef]
+The Medicines (Products for Human Use—Fees) Amendment Regulations 2000 (revoked)[^c-10f8527404545541ab612100d9af7aef]
 
 Made
 
@@ -47,40 +47,40 @@ Coming into force
 
 1st December 2000
 
-[^key-10f8527404545541ab612100d9af7aef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-10f8527404545541ab612100d9af7aef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-10f8527404545541ab612100d9af7aef]
+## 1. Citation, commencement and interpretation[^c-10f8527404545541ab612100d9af7aef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 2(1) of the principal Regulations[^key-10f8527404545541ab612100d9af7aef]
+## 2. Amendment of regulation 2(1) of the principal Regulations[^c-10f8527404545541ab612100d9af7aef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. New Part IIA of the principal Regulations[^key-10f8527404545541ab612100d9af7aef]
+## 3. New Part IIA of the principal Regulations[^c-10f8527404545541ab612100d9af7aef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 16 of the principal Regulations[^key-10f8527404545541ab612100d9af7aef]
+## 4. Amendment of regulation 16 of the principal Regulations[^c-10f8527404545541ab612100d9af7aef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Schedule 1 of the principal Regulations[^key-10f8527404545541ab612100d9af7aef]
+## 5. Amendment of Schedule 1 of the principal Regulations[^c-10f8527404545541ab612100d9af7aef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Schedule 4 to the principal Regulations[^key-10f8527404545541ab612100d9af7aef]
+## 6. Amendment of Schedule 4 to the principal Regulations[^c-10f8527404545541ab612100d9af7aef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-10f8527404545541ab612100d9af7aef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-10f8527404545541ab612100d9af7aef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-10f8527404545541ab612100d9af7aef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-10f8527404545541ab612100d9af7aef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-10f8527404545541ab612100d9af7aef]: Textual amendment: Regulations revoked (1.4.2008) by [The Medicines (Products for Human Use-Fees) Regulations 2008 (S.I. 2008/552)](https://www.legislation.gov.uk/uksi/2008/552), [regs. 1](https://www.legislation.gov.uk/uksi/2008/552/regulation/1), [48(1)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2008/552/schedule/7) (with [reg. 48(2)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/2))
+[^c-10f8527404545541ab612100d9af7aef]: Textual amendment: Regulations revoked (1.4.2008) by [The Medicines (Products for Human Use-Fees) Regulations 2008 (S.I. 2008/552)](https://www.legislation.gov.uk/uksi/2008/552), [regs. 1](https://www.legislation.gov.uk/uksi/2008/552/regulation/1), [48(1)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2008/552/schedule/7) (with [reg. 48(2)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/2))

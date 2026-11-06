@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Provision of information by constable: child in place of safety[^key-9fc9b0e70a55d57680bb6d5d3ea81f4a]
+## 65. Provision of information by constable: child in place of safety[^c-9fc9b0e70a55d57680bb6d5d3ea81f4a]
 
 *Extent: S*
 
-(1)[^key-8c60f20bec8be2862b34e7701a403ebd] Subsection (2) applies where the Principal Reporter is informed under subsection (2) of section 53 of the Criminal Justice (Scotland) Act 2016 that a child is being kept in a place of safety under subsection (3) of that section.
+(1)[^c-8c60f20bec8be2862b34e7701a403ebd] Subsection (2) applies where the Principal Reporter is informed under subsection (2) of section 53 of the Criminal Justice (Scotland) Act 2016 that a child is being kept in a place of safety under subsection (3) of that section.
 
 (2) The Principal Reporter may direct—
 
 - (a) that the child be released from the place of safety, or
-- (b) that the child continue to be kept in a[^key-230c1e4d5f430a750e86d97ba3b0281b] place of safety until the Principal Reporter makes a determination under section 66(2).
+- (b) that the child continue to be kept in a[^c-230c1e4d5f430a750e86d97ba3b0281b] place of safety until the Principal Reporter makes a determination under section 66(2).
 
 ## Annotations
 
-[^key-9fc9b0e70a55d57680bb6d5d3ea81f4a]: Commencement: S. 65 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-9fc9b0e70a55d57680bb6d5d3ea81f4a]: Commencement: S. 65 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-8c60f20bec8be2862b34e7701a403ebd]: Textual amendment: S. 65(1) substituted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 40(a)(i)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/40/a/i); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
+[^c-8c60f20bec8be2862b34e7701a403ebd]: Textual amendment: S. 65(1) substituted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 40(a)(i)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/40/a/i); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
 
-[^key-230c1e4d5f430a750e86d97ba3b0281b]: Textual amendment: Words in s. 65(2) substituted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 40(a)(ii)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/40/a/ii); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
+[^c-230c1e4d5f430a750e86d97ba3b0281b]: Textual amendment: Words in s. 65(2) substituted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 40(a)(ii)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/40/a/ii); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))

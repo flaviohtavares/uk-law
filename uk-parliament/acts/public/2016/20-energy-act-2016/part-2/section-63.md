@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Disclosure by OGA to certain persons[^key-58d258035d8623e429cbc7a397929147]
+## 63. Disclosure by OGA to certain persons[^c-58d258035d8623e429cbc7a397929147]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58d258035d8623e429cbc7a397929147]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2016/20/section/63) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-58d258035d8623e429cbc7a397929147]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2016/20/section/63) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

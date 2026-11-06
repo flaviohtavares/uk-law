@@ -24,25 +24,25 @@ Article 35(2)
 
 ### PART 1 — Primary legislation
 
-#### 1. Police (Property) Act 1897[^key-38baf57d2c23e3aa97a6878fc35b1e77]
+#### 1. Police (Property) Act 1897[^c-38baf57d2c23e3aa97a6878fc35b1e77]
 
 (1) The Police (Property) Act 1897 [^c24434111] is modified as follows.
 
 (2) In section 2(2A), for the last reference to “relevant body” substitute “ Combined Authority ”.
 
-#### 2. Trustee Investments Act 1961[^key-3296a82d91f5147b88a0ac19054e272f]
+#### 2. Trustee Investments Act 1961[^c-3296a82d91f5147b88a0ac19054e272f]
 
 (1) The Trustee Investments Act 1961 [^c24434121] is modified as follows.
 
 (2) In paragraph 9 of Part 2 of Schedule 1, for “similar officer of the authority” substitute “ similar officer of the Combined Authority deployed wholly or partly in relation to the PCC functions of the Mayor ”.
 
-#### 3. Pensions (Increase) Act 1971[^key-91260a9bd84c2e9614a4775d06602ede]
+#### 3. Pensions (Increase) Act 1971[^c-91260a9bd84c2e9614a4775d06602ede]
 
 (1) The Pensions (Increase) Act 1971 [^c24434131] is modified as follows.
 
 (2) In paragraph 51(aa) of Schedule 2, for “a police and crime commissioner” substitute “ the police and crime commissioner for West Yorkshire or of the Combined Authority deployed wholly or partly in relation to the Mayor's PCC functions ”.
 
-#### 4. Local Government (Miscellaneous Provisions) Act 1976[^key-bdfc6d46ccf6f2826a780754ffca356b]
+#### 4. Local Government (Miscellaneous Provisions) Act 1976[^c-bdfc6d46ccf6f2826a780754ffca356b]
 
 (1) The Local Government (Miscellaneous Provisions) Act 1976 [^c24434141] is modified as follows.
 
@@ -52,7 +52,7 @@ Article 35(2)
 
 (4) In section 44(1), in paragraph (a) [^c24434171] of the definition of “local authority”, for “13 to 16, 29, 30, 38, 39 and 41” substitute “ 13, 14, 16, 29 and 38 ”.
 
-#### 5. Local Government, Planning and Land Act 1980[^key-a7a038da4c88a5eb0967c2f8781b614d]
+#### 5. Local Government, Planning and Land Act 1980[^c-a7a038da4c88a5eb0967c2f8781b614d]
 
 (1) The Local Government, Planning and Land Act 1980 [^c24434181] is modified as follows.
 
@@ -67,13 +67,13 @@ Article 35(2)
   - (i) in paragraph (dbzb) after “that Act”, insert “ or (as the case may be) the Mayor ”[^c24434191] ;
   - (ii) omit paragraph (dc) [^c24434201].
 
-#### 6. Dartford-Thurrock Crossing Act 1988[^key-676cc1cba20241053997bacfa0210ab8]
+#### 6. Dartford-Thurrock Crossing Act 1988[^c-676cc1cba20241053997bacfa0210ab8]
 
 (1) The Dartford-Thurrock Crossing Act 1988 [^c24434211] is modified as follows.
 
 (2) In section 19(a)(i), for “a local policing body” substitute “ the Combined Authority for use in relation to the exercise of the Mayor's PCC functions ”.
 
-#### 7. Local Government Finance Act 1988[^key-82b0202700975370af2a892bfc99bdbe]
+#### 7. Local Government Finance Act 1988[^c-82b0202700975370af2a892bfc99bdbe]
 
 (1) The Local Government Finance Act 1988 [^c24434221] is modified as follows.
 
@@ -98,7 +98,7 @@ Article 35(2)
 
 .
 
-#### 8. Road Traffic Act 1988[^key-25d3df6f92216459cd2cb5e698fb407f]
+#### 8. Road Traffic Act 1988[^c-25d3df6f92216459cd2cb5e698fb407f]
 
 (1) The Road Traffic Act 1988 [^c24434281] is modified as follows.
 
@@ -107,7 +107,7 @@ Article 35(2)
 - (a) for “a local policing body” substitute “ the Combined Authority for use in relation to the Mayor's PCC functions ”;
 - (b) for “a police and crime commissioner's staff (within the meaning of Part 1 of the Police Reform and Social Responsibility Act 2011)” substitute “ the Combined Authority's staff deployed wholly or partly in relation to the Mayor's PCC functions ”.
 
-#### 9. Local Government and Housing Act 1989[^key-5250cf4452b28a9ed8119041ea8a95bb]
+#### 9. Local Government and Housing Act 1989[^c-5250cf4452b28a9ed8119041ea8a95bb]
 
 (1) The Local Government and Housing Act 1989 [^c24434291] is modified as follows.
 
@@ -146,7 +146,7 @@ Article 35(2)
 
 (6) Omit section 13(5ZA) [^c24434411].
 
-#### 10. Police Act 1996[^key-1bc173b4a05c390453169ea34b013210]
+#### 10. Police Act 1996[^c-1bc173b4a05c390453169ea34b013210]
 
 (1) The Police Act 1996 [^c24434421] is modified as follows.
 
@@ -171,7 +171,7 @@ Article 35(2)
 
 (7) In section 96(1B) [^c24434501], for “precept for a financial year is issued by the police and crime commissioner under section 40 of the Local Government Finance Act 1992” substitute “ PCC component is determined by the Mayor ”.
 
-#### 11. Police Reform Act 2002[^key-d6d9514a2fec9d4bc4e4ccc688d8da51]
+#### 11. Police Reform Act 2002[^c-d6d9514a2fec9d4bc4e4ccc688d8da51]
 
 (1) The Police Reform Act 2002 [^c24434511] is modified as follows.
 
@@ -183,7 +183,7 @@ Article 35(2)
 - (b) for the second reference to “local policing body” substitute “ Combined Authority ”;
 - (c) for “or body” substitute “ or Combined Authority ”.
 
-#### 12. Proceeds of Crime Act 2002[^key-50279c6af5161eda3e6b132efb59c1ee]
+#### 12. Proceeds of Crime Act 2002[^c-50279c6af5161eda3e6b132efb59c1ee]
 
 (1) The Proceeds of Crime Act 2002 [^c24434541] is modified as follows.
 
@@ -193,7 +193,7 @@ Article 35(2)
 
 .
 
-#### 13. Local Government Act 2003[^key-eece87c34951163a49bc3f31fb274f94]
+#### 13. Local Government Act 2003[^c-eece87c34951163a49bc3f31fb274f94]
 
 (1) The Local Government Act 2003 [^c24434551] is modified as follows.
 
@@ -202,7 +202,7 @@ Article 35(2)
 - (a) in subsection (1)(a), for “its part”, substitute “ the part of the Combined Authority ”;
 - (b) in subsection (2), for “on the part of the authority”, substitute “ on the part of the Combined Authority ”.
 
-#### 14. Railways and Transport Safety Act 2003[^key-3d74f6263bd8ac1058dba1a660cf9edc]
+#### 14. Railways and Transport Safety Act 2003[^c-3d74f6263bd8ac1058dba1a660cf9edc]
 
 (1) The Railways and Transport Safety Act 2003 [^c24434561] is modified as follows.
 
@@ -212,7 +212,7 @@ Article 35(2)
 
 .
 
-#### 15. Local Government and Public Involvement in Health Act 2007[^key-24638b84f5c3edee9e14193f2970a741]
+#### 15. Local Government and Public Involvement in Health Act 2007[^c-24638b84f5c3edee9e14193f2970a741]
 
 (1) The Local Government and Public Involvement in Health Act 2007 [^c24434571] is modified as follows.
 
@@ -222,31 +222,31 @@ Article 35(2)
 
 .
 
-#### 16. Local Democracy, Economic Development and Construction Act 2009[^key-34f931ce588fcc119737cd5f8d11be5b]
+#### 16. Local Democracy, Economic Development and Construction Act 2009[^c-34f931ce588fcc119737cd5f8d11be5b]
 
 (1) The 2009 Act is modified as follows.
 
 (2) In paragraph 9(1)(a) of Schedule 5B [^c24434581], for “or deputy mayor” substitute “ , deputy mayor or deputy mayor for policing and crime ”.
 
-#### 17. Police Reform and Social Responsibility Act 2011[^key-06026f0f96f545e508d00e0c3f92f554]
+#### 17. Police Reform and Social Responsibility Act 2011[^c-06026f0f96f545e508d00e0c3f92f554]
 
 The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
-**18.**[^key-68857f1e9af306ce031cd15c804a2c81] In section 5 [^c24434591]—
+**18.**[^c-68857f1e9af306ce031cd15c804a2c81] In section 5 [^c24434591]—
 
 - (a) in subsection (1), for “ordinary election” substitute “ election for the return of a Mayor ”;
 - (b) in subsection (13)—
   - (i) in the definition of “financial year”, for “year of the police and crime commissioner” substitute “ year of the Combined Authority ”;
   - (ii) omit the definition of “ordinary election”.
 
-**19.**[^key-06b6a82b85110a8e68164fb01670a29d] In section 7(7) [^c24434601]—
+**19.**[^c-06b6a82b85110a8e68164fb01670a29d] In section 7(7) [^c24434601]—
 
 - (a) in the definition of “financial year”, for “year of the elected local policing body” substitute “ year of the Combined Authority ”;
 - (b) omit the definition of “ordinary election”;
 - (c) in the definition of “planning period” for “ordinary election” substitute “ election for the return of a Mayor ”;
 - (d) in the definition of “qualifying day” for “ordinary election” substitute “ election for the return of a Mayor ”.
 
-**20.**[^key-a929c42cc03f32ee0bbf6af8e4f3a702] In section 16—
+**20.**[^c-a929c42cc03f32ee0bbf6af8e4f3a702] In section 16—
 
 - (a) for subsection (1), substitute—
 
@@ -260,10 +260,10 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
   ;
 - (b) in subsection (2), for “the body” substitute “ the Combined Authority ”.
 
-**21.**[^key-d39af55267db428e4032db5d96346a99] In section 18 [^c24434611] —
+**21.**[^c-d39af55267db428e4032db5d96346a99] In section 18 [^c24434611] —
 
 - (a) for each reference to “deputy police and crime commissioner” substitute “ deputy mayor for policing and crime ”;
-- (aa)[^key-6e0ad6fb8cbce44f6da95d6cfc3c5b51] for subsection (1) substitute—
+- (aa)[^c-6e0ad6fb8cbce44f6da95d6cfc3c5b51] for subsection (1) substitute—
 
   > (1) The Mayor must—
   >
@@ -293,18 +293,18 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
   .
 
-**22.**[^key-97d047ea14fe0b78bd26e76db092e941] In section 21, after subsection (3) insert—
+**22.**[^c-97d047ea14fe0b78bd26e76db092e941] In section 21, after subsection (3) insert—
 
 > (3A) Expenditure may be paid out of the police fund only if, and to the extent that, it is incurred in or otherwise relates to, the exercise of the Mayor's PCC functions.
 
 .
 
-**23.**[^key-48f9264a9a15e199d5df84a124b15d6f] In section 28—
+**23.**[^c-48f9264a9a15e199d5df84a124b15d6f] In section 28—
 
 - (a) omit subsections (1A) and (1B) [^c24434641];
 - (b) in subsection (6)(a), after “police and crime commissioner” insert, “ , the deputy mayor for policing and crime and any other person who exercises any function of the Mayor pursuant to arrangements made under section 18 ”.
 
-**24.**[^key-f67c2fd858fc4b053f286ddbbb811459] In section 29—
+**24.**[^c-f67c2fd858fc4b053f286ddbbb811459] In section 29—
 
 - (a) for subsection (1), substitute—
 
@@ -334,7 +334,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
   ;
 - (d) in subsection (6), after “commissioner” insert “ or the deputy mayor for policing and crime ”.
 
-**25.**[^key-07436799addc7a3690664f76a0ecbcea] In section 30—
+**25.**[^c-07436799addc7a3690664f76a0ecbcea] In section 30—
 
 - (a) in subsection (1), for “relevant police and crime commissioner” substitute “ Mayor so far as acting in the exercise of PCC functions ”;
 - (b) for subsection (3), substitute—
@@ -343,13 +343,13 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
   .
 
-**26.**[^key-520195ad09ebabd6069f1d2047cf6eaa] In section 31(3), for paragraphs (b) to (d) substitute—
+**26.**[^c-520195ad09ebabd6069f1d2047cf6eaa] In section 31(3), for paragraphs (b) to (d) substitute—
 
 > - (b) deputy mayor for policing and crime.
 
 .
 
-**27.**[^key-eb83026c1a6731f62862f72b7f07d975] In section 62—
+**27.**[^c-eb83026c1a6731f62862f72b7f07d975] In section 62—
 
 - (a) for subsection (1), substitute—
 
@@ -374,7 +374,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
   - (ii) omit “(c) or”;
 - (h) omit subsection (8).
 
-**28.**[^key-c96455ff31e14ac47c04f386d11dd8f4] For section 63(1) and (2), substitute—
+**28.**[^c-c96455ff31e14ac47c04f386d11dd8f4] For section 63(1) and (2), substitute—
 
 > (1) Subsection (2) applies where—
 >
@@ -388,7 +388,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 .
 
-**29.**[^key-c36ae80a587539b6e3201b82c0661d75] For section 64(3) to (4A) [^c24434651], substitute—
+**29.**[^c-c36ae80a587539b6e3201b82c0661d75] For section 64(3) to (4A) [^c24434651], substitute—
 
 > (3) A person is disqualified from being elected as the Mayor at an election held under the West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 if—
 >
@@ -402,7 +402,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 .
 
-**30.**[^key-17ac1f0387513837a999529a3deb255b] In section 65 [^c24434671]—
+**30.**[^c-17ac1f0387513837a999529a3deb255b] In section 65 [^c24434671]—
 
 - (a) in subsection (1)(e), insert after paragraph (ii)—
 
@@ -418,7 +418,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
   .
 
-**31.**[^key-5e67b53757d3a2e7384fa4160dff0bab] In section 70—
+**31.**[^c-5e67b53757d3a2e7384fa4160dff0bab] In section 70—
 
 - (a) for subsection (1), substitute—
 
@@ -438,7 +438,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
   ;
 - (e) omit subsection (7).
 
-**32.**[^key-1d4b09d7268e70856697ec28a135cdad] In Schedule 1—
+**32.**[^c-1d4b09d7268e70856697ec28a135cdad] In Schedule 1—
 
 - (a) for paragraph 1, substitute—
 
@@ -507,7 +507,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
   .
 
-**33.**[^key-f55b3f8281cdc9e02b0005fe054b6a60] In Schedule 5—
+**33.**[^c-f55b3f8281cdc9e02b0005fe054b6a60] In Schedule 5—
 
 - (a) in paragraph 1—
   - (i) for sub-paragraph (1), substitute—
@@ -531,7 +531,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
   - (i) in sub-paragraph (1), for “the issuing of precepts” substitute “ determining the amount of the PCC component ”;
   - (ii) in sub-paragraph (4), for “precept that may be issued” substitute “ amount of the PCC component ”.
 
-**34.**[^key-272bc880220bf43a787851b6d43eefb1] In Schedule 6 [^c24434711]—
+**34.**[^c-272bc880220bf43a787851b6d43eefb1] In Schedule 6 [^c24434711]—
 
 - (a) for paragraph 21, substitute—
 
@@ -550,7 +550,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
   .
 
-**35.**[^key-a0c8738c15184397c674ba36658572d0] In Schedule 7—
+**35.**[^c-a0c8738c15184397c674ba36658572d0] In Schedule 7—
 
 - (a) in paragraph 3(1)(a)(ii), for “deputy police and crime commissioner” substitute “ deputy mayor for policing and crime (unless the holder of that office is a member of the Combined Authority) ”;
 - (b) for paragraph 4, substitute—
@@ -566,7 +566,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
   .
 
-**36.**[^key-afc89e0c340229325e72170ab4fd6cdb] In Schedule 8—
+**36.**[^c-afc89e0c340229325e72170ab4fd6cdb] In Schedule 8—
 
 - (a) for paragraph 4(10), substitute—
 
@@ -585,7 +585,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
   .
 
-#### 37. Local Audit and Accountability Act 2014[^key-f0400342965b14426f6e5bdf92c691ae]
+#### 37. Local Audit and Accountability Act 2014[^c-f0400342965b14426f6e5bdf92c691ae]
 
 (1) The Local Audit and Accountability Act 2014 [^c24434721] is modified as follows.
 
@@ -604,7 +604,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 ### PART 2 — Secondary legislation
 
-#### 38. Motor Vehicles (Third Party Risks) Regulations 1972[^key-1f199cb549a34892dfcb0bf111813253]
+#### 38. Motor Vehicles (Third Party Risks) Regulations 1972[^c-1f199cb549a34892dfcb0bf111813253]
 
 (1) The Motor Vehicles (Third Party Risks) Regulations 1972 [^c24434731] are modified as follows.
 
@@ -614,19 +614,19 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 .
 
-#### 39. Official Secrets Act 1989 (Prescription) Order 1990[^key-25614bfec73c36149a5e8cbbd7bb6900]
+#### 39. Official Secrets Act 1989 (Prescription) Order 1990[^c-25614bfec73c36149a5e8cbbd7bb6900]
 
 (1) The Official Secrets Act 1989 (Prescription) Order 1990 [^c24434741] is modified as follows.
 
 (2) In Schedule 2, for “a Deputy police and crime commissioner”, substitute “ a deputy mayor for policing and crime ”.
 
-#### 40. Police (Disposal of Sound Equipment) Regulations 1995[^key-259f91ee9dcdae5ad810b914da14ca0c]
+#### 40. Police (Disposal of Sound Equipment) Regulations 1995[^c-259f91ee9dcdae5ad810b914da14ca0c]
 
 (1) The Police (Disposal of Sound Equipment) Regulations 1995 [^c24434751] are modified as follows.
 
 (2) In regulation 4(4), for “local policing body” substitute “ Combined Authority ”.
 
-#### 41. Police (Property) Regulations 1997[^key-045b28fe66dd1c8e01075ea608cb4ced]
+#### 41. Police (Property) Regulations 1997[^c-045b28fe66dd1c8e01075ea608cb4ced]
 
 (1) The Police (Property) Regulations 1997 [^c24434761] are modified as follows.
 
@@ -634,13 +634,13 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 (3) In regulation 7(1), for “vest in them” substitute “ vest in the Combined Authority ”.
 
-#### 42. Health and Safety (Enforcing Authority) Regulations 1998[^key-aca668a24c8dd0983899798768034b94]
+#### 42. Health and Safety (Enforcing Authority) Regulations 1998[^c-aca668a24c8dd0983899798768034b94]
 
 (1) The Health and Safety (Enforcing Authority) Regulations 1998 [^c24434771] are modified as follows.
 
 (2) In regulation 4(3)(d), for “a local policing body” substitute “ the Combined Authority in relation to the Mayor's PCC functions ”.
 
-#### 43. Motor Vehicles (Driving Licences) Regulations 1999[^key-48945ba6aeb002240242e50640679e58]
+#### 43. Motor Vehicles (Driving Licences) Regulations 1999[^c-48945ba6aeb002240242e50640679e58]
 
 (1) The Motor Vehicles (Driving Licences) Regulations 1999 [^c24434781] are modified as follows.
 
@@ -650,7 +650,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 (4) In regulation 58(2)(c)(ii) [^c24434811], for “local policing body” substitute “ the Combined Authority deployed wholly or partly in relation to the Mayor's PCC functions ”.
 
-#### 44. Redundancy Payments (Continuity of Employment in Local Government, etc) (Modification) Order 1999[^key-a4346912334a582c971b8561b9ef66a6]
+#### 44. Redundancy Payments (Continuity of Employment in Local Government, etc) (Modification) Order 1999[^c-a4346912334a582c971b8561b9ef66a6]
 
 (1) The Redundancy Payments (Continuity of Employment in Local Government, etc) (Modification) Order 1999 [^c24434821] is modified as follows.
 
@@ -660,19 +660,19 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 .
 
-#### 45. Motor Vehicles (Access to Driver Licensing Records) Regulations 2001[^key-a0018c7f15d5b97e308b2bc7bd58c485]
+#### 45. Motor Vehicles (Access to Driver Licensing Records) Regulations 2001[^c-a0018c7f15d5b97e308b2bc7bd58c485]
 
 (1) The Motor Vehicles (Access to Driver Licensing Records) Regulations 2001 [^c24434831] are modified as follows.
 
 (2) In regulation 3(2), for “local policing body or” substitute “ the Combined Authority deployed wholly or partly in relation to the Mayor's PCC functions or a ”.
 
-#### 46. Police and Criminal Evidence Act 1984 (Drug Testing of Persons in Police Detention) (Prescribed Persons) Regulations 2001[^key-7592ebf692b5d2f49518ebed7a96a696]
+#### 46. Police and Criminal Evidence Act 1984 (Drug Testing of Persons in Police Detention) (Prescribed Persons) Regulations 2001[^c-7592ebf692b5d2f49518ebed7a96a696]
 
 (1) The Police and Criminal Evidence Act 1984 (Drug Testing of Persons in Police Detention) (Prescribed Persons) Regulations 2001 [^c24434841] are modified as follows.
 
 (2) In regulation 2(1)(b), for “a local policing body or” substitute “ the Combined Authority deployed wholly or partly in relation to the Mayor's PCC functions or a ”.
 
-#### 47. Police Regulations 2003[^key-22243213e6e6b9cf47001160ab1924a8]
+#### 47. Police Regulations 2003[^c-22243213e6e6b9cf47001160ab1924a8]
 
 (1) The Police Regulations 2003 [^c24434851] are modified as follows.
 
@@ -680,7 +680,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 (3) In regulation 24(1)(b), for “local policing body” substitute “ Combined Authority deployed wholly or partly in relation to the Mayor's PCC functions ”.
 
-#### 48. Docking of Working Dogs' Tails (England) Regulations 2007[^key-e03544ac9190b04307880235d081742c]
+#### 48. Docking of Working Dogs' Tails (England) Regulations 2007[^c-e03544ac9190b04307880235d081742c]
 
 (1) The Docking of Working Dogs' Tails (England) Regulations 2007 [^c24434861] are modified as follows.
 
@@ -695,13 +695,13 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 .
 
-#### 49. REACH Enforcement Regulations 2008[^key-d6338e9fa64560983831f31660991dd1]
+#### 49. REACH Enforcement Regulations 2008[^c-d6338e9fa64560983831f31660991dd1]
 
 (1) The REACH Enforcement Regulations 2008 [^c24434871] are modified as follows.
 
 (2) In paragraph 5(c) of Part 3 of Schedule 3, for “local policing body” substitute “ the Combined Authority in relation to the Mayor's PCC functions ”.
 
-#### 50. Elected Local Policing Bodies (Specified Information) Order 2011[^key-43d037a993f865bfb7237b285cdd66e9]
+#### 50. Elected Local Policing Bodies (Specified Information) Order 2011[^c-43d037a993f865bfb7237b285cdd66e9]
 
 (1) The Elected Local Policing Bodies (Specified Information) Order 2011 [^c24434881] is modified as follows.
 
@@ -750,7 +750,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
     .
 
-#### 51. Policing Protocol Order 2011[^key-51dd7bff7841f008bcbcb838bdc06335]
+#### 51. Policing Protocol Order 2011[^c-51dd7bff7841f008bcbcb838bdc06335]
 
 (1) The Policing Protocol Order 2011 [^c24434911] is modified as follows.
 
@@ -776,7 +776,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
   .
 
-#### 52. Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2012[^key-c6dece50f8b02027c0e238a30c958205]
+#### 52. Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2012[^c-c6dece50f8b02027c0e238a30c958205]
 
 (1) The Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2012 [^c24434921] are modified as follows.
 
@@ -834,13 +834,13 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 .
 
-#### 53. Police Appeals Tribunals Rules 2012[^key-738f72f922fffb68ab13601f818062c4]
+#### 53. Police Appeals Tribunals Rules 2012[^c-738f72f922fffb68ab13601f818062c4]
 
 (1) The Police Appeals Tribunals Rules 2012 [^c24434951] are modified as follows.
 
 (2) In rule 15(4) for “relevant local policing body” substitute “ Combined authority ”.
 
-#### 54. Police and Crime Commissioner (Disqualification) (Supplementary Provisions) Regulations 2012[^key-67a9fdbb67945c2b4f88bd9e8e94c274]
+#### 54. Police and Crime Commissioner (Disqualification) (Supplementary Provisions) Regulations 2012[^c-67a9fdbb67945c2b4f88bd9e8e94c274]
 
 (1) The Police and Crime Commissioner (Disqualification) (Supplementary Provisions) Regulations 2012 [^c24434961] are modified as follows.
 
@@ -854,7 +854,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
   .
 
-#### 55. Police and Crime Panels (Precepts and Chief Constable Appointments) Regulations 2012[^key-43c2d08b6fb12eca2a925a8dfcaba0f3]
+#### 55. Police and Crime Panels (Precepts and Chief Constable Appointments) Regulations 2012[^c-43c2d08b6fb12eca2a925a8dfcaba0f3]
 
 (1) The Police and Crime Panels (Precepts and Chief Constable Appointments) Regulations 2012 [^c24434971] are modified as follows.
 
@@ -878,7 +878,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
   - (i) in sub-paragraph (a), for “issue a precept” substitute “ finalise the PCC component ”;
   - (ii) in sub-paragraph (b), for “issue a precept” substitute “ finalise the PCC component ”.
 
-#### 56. Local Government Pension Scheme Regulations 2013[^key-683532710c46d96d270eb841dd7f7459]
+#### 56. Local Government Pension Scheme Regulations 2013[^c-683532710c46d96d270eb841dd7f7459]
 
 (1) The Local Government Pension Scheme Regulations 2013 [^c24434981] are modified as follows.
 
@@ -890,7 +890,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 .
 
-#### 57. Local Audit (Auditor Resignation and Removal) Regulations 2014[^key-07866a1e62eb27314c4a6ac41c078572]
+#### 57. Local Audit (Auditor Resignation and Removal) Regulations 2014[^c-07866a1e62eb27314c4a6ac41c078572]
 
 (1) The Local Audit (Auditor Resignation and Removal) Regulations 2014 [^c24434991] are modified as follows.
 
@@ -899,7 +899,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 - (a) in paragraph (3), for “police and crime commissioner” substitute “ Combined Authority ”;
 - (b) in paragraph (4), for “a police and crime commissioner” substitute “ the Combined Authority in relation to the Mayor's PCC functions ”.
 
-#### 58. Combined Authorities (Mayors) (Filling of Vacancies) Order 2017[^key-115c9e108aebeae58c11501fff43ffdf]
+#### 58. Combined Authorities (Mayors) (Filling of Vacancies) Order 2017[^c-115c9e108aebeae58c11501fff43ffdf]
 
 (1) The Combined Authorities (Mayors) (Filling of Vacancies) Order 2017 [^c24435001] is modified as follows.
 
@@ -913,7 +913,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
   .
 
-#### 59. Police Appeals Tribunals Rules 2020[^key-b6689222a03f0a69b733adb65aef47b3]
+#### 59. Police Appeals Tribunals Rules 2020[^c-b6689222a03f0a69b733adb65aef47b3]
 
 (1) The Police Appeals Tribunals Rules 2020 [^c24435011] are modified as follows.
 
@@ -921,19 +921,19 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 ## Annotations
 
-[^key-38baf57d2c23e3aa97a6878fc35b1e77]: Commencement: Sch. 5 para. 1 in force at 10.5.2021, see art. 1(4)
+[^c-38baf57d2c23e3aa97a6878fc35b1e77]: Commencement: Sch. 5 para. 1 in force at 10.5.2021, see art. 1(4)
 
 [^c24434111]: Marginal citation: [1897 c. 30](https://www.legislation.gov.uk/ukpga/1897/30). Section 2(2A) was inserted by section 1(2) and (3) of the [Police (Property) Act 1997 (c. 30)](https://www.legislation.gov.uk/ukpga/1997/30).
 
-[^key-3296a82d91f5147b88a0ac19054e272f]: Commencement: Sch. 5 para. 2 in force at 10.5.2021, see art. 1(4)
+[^c-3296a82d91f5147b88a0ac19054e272f]: Commencement: Sch. 5 para. 2 in force at 10.5.2021, see art. 1(4)
 
 [^c24434121]: Marginal citation: [1961 c. 62](https://www.legislation.gov.uk/ukpga/1961/62).
 
-[^key-91260a9bd84c2e9614a4775d06602ede]: Commencement: Sch. 5 para. 3 in force at 10.5.2021, see art. 1(4)
+[^c-91260a9bd84c2e9614a4775d06602ede]: Commencement: Sch. 5 para. 3 in force at 10.5.2021, see art. 1(4)
 
 [^c24434131]: Marginal citation: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56). Paragraph 51(aa) was inserted by section 99 of, and paragraph 97 of Schedule 16 to, the Police Reform and Social Responsibility Act 2011.
 
-[^key-bdfc6d46ccf6f2826a780754ffca356b]: Commencement: Sch. 5 para. 4 in force at 10.5.2021, see art. 1(4)
+[^c-bdfc6d46ccf6f2826a780754ffca356b]: Commencement: Sch. 5 para. 4 in force at 10.5.2021, see art. 1(4)
 
 [^c24434141]: Marginal citation: [1976 c. 57](https://www.legislation.gov.uk/ukpga/1976/57).
 
@@ -943,7 +943,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 [^c24434171]: Marginal citation: Section 44(1) was amended by section 119 of, and paragraph 43(a) of Schedule 6 to, the [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20); and section 99 of, and paragraph 127 of Schedule 16, to the Police Reform and Social Responsibility Act 2011; there are other amendments to this section, but none is relevant.
 
-[^key-a7a038da4c88a5eb0967c2f8781b614d]: Commencement: Sch. 5 para. 5 in force at 10.5.2021, see art. 1(4)
+[^c-a7a038da4c88a5eb0967c2f8781b614d]: Commencement: Sch. 5 para. 5 in force at 10.5.2021, see art. 1(4)
 
 [^c24434181]: Marginal citation: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65).
 
@@ -951,11 +951,11 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 [^c24434201]: Marginal citation: Section 99(4)(dc) was substituted by section 99 of, and paragraph 141 of Schedule 16 to, the Police Reform and Social Responsibility Act 2011.
 
-[^key-676cc1cba20241053997bacfa0210ab8]: Commencement: Sch. 5 para. 6 in force at 10.5.2021, see art. 1(4)
+[^c-676cc1cba20241053997bacfa0210ab8]: Commencement: Sch. 5 para. 6 in force at 10.5.2021, see art. 1(4)
 
 [^c24434211]: Marginal citation: [1988 c. 20](https://www.legislation.gov.uk/ukpga/1988/20); section 19(a)(i) was substituted by section 99 of, and paragraph 177 of Schedule 16 to, the Police Reform and Social Responsibility Act 2011. There are other amendments to section 19(a) that are not relevant to this Order.
 
-[^key-82b0202700975370af2a892bfc99bdbe]: Commencement: Sch. 5 para. 7 in force at 10.5.2021, see art. 1(4)
+[^c-82b0202700975370af2a892bfc99bdbe]: Commencement: Sch. 5 para. 7 in force at 10.5.2021, see art. 1(4)
 
 [^c24434221]: Marginal citation: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41).
 
@@ -969,11 +969,11 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 [^c24434271]: Marginal citation: Subsection (2B) was amended by section 99 of, and paragraph 190(3) of Schedule 16 to, the Police Reform and Social Responsibility Act 2011.
 
-[^key-25d3df6f92216459cd2cb5e698fb407f]: Commencement: Sch. 5 para. 8 in force at 10.5.2021, see art. 1(4)
+[^c-25d3df6f92216459cd2cb5e698fb407f]: Commencement: Sch. 5 para. 8 in force at 10.5.2021, see art. 1(4)
 
 [^c24434281]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52); section 144(2)(b) was amended by section 99 of, and paragraph 197(3)(a) and (b) of Schedule 16 to, the Police Reform and Social Responsibility Act 2011. There are other amendments to the section, but none is relevant.
 
-[^key-5250cf4452b28a9ed8119041ea8a95bb]: Commencement: Sch. 5 para. 9 in force at 10.5.2021, see art. 1(4)
+[^c-5250cf4452b28a9ed8119041ea8a95bb]: Commencement: Sch. 5 para. 9 in force at 10.5.2021, see art. 1(4)
 
 [^c24434291]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
@@ -1001,7 +1001,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 [^c24434411]: Marginal citation: Section 13(5ZA) was inserted by section 7 of the [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3).
 
-[^key-1bc173b4a05c390453169ea34b013210]: Commencement: Sch. 5 para. 10 in force at 10.5.2021, see art. 1(4)
+[^c-1bc173b4a05c390453169ea34b013210]: Commencement: Sch. 5 para. 10 in force at 10.5.2021, see art. 1(4)
 
 [^c24434421]: Marginal citation: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16).
 
@@ -1021,7 +1021,7 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 [^c24434501]: Marginal citation: Section 96(1B) was inserted by section 14(3) of the Police Reform and Social Responsibility Act 2011.
 
-[^key-d6d9514a2fec9d4bc4e4ccc688d8da51]: Commencement: Sch. 5 para. 11 in force at 10.5.2021, see art. 1(4)
+[^c-d6d9514a2fec9d4bc4e4ccc688d8da51]: Commencement: Sch. 5 para. 11 in force at 10.5.2021, see art. 1(4)
 
 [^c24434511]: Marginal citation: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30).
 
@@ -1029,71 +1029,71 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 [^c24434531]: Marginal citation: Section 42(7) was amended by section 99 of, and paragraphs 277 and 295 of Schedule 16 to, the Police Reform and Social Responsibility Act 2011.
 
-[^key-50279c6af5161eda3e6b132efb59c1ee]: Commencement: Sch. 5 para. 12 in force at 10.5.2021, see art. 1(4)
+[^c-50279c6af5161eda3e6b132efb59c1ee]: Commencement: Sch. 5 para. 12 in force at 10.5.2021, see art. 1(4)
 
 [^c24434541]: Marginal citation: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); paragraph (aa) was inserted by section 99 of, and paragraph 305 of Schedule 16 to, the Police Reform and Social Responsibility Act 2011.
 
-[^key-eece87c34951163a49bc3f31fb274f94]: Commencement: Sch. 5 para. 13 in force at 10.5.2021, see art. 1(4)
+[^c-eece87c34951163a49bc3f31fb274f94]: Commencement: Sch. 5 para. 13 in force at 10.5.2021, see art. 1(4)
 
 [^c24434551]: Marginal citation: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26).
 
-[^key-3d74f6263bd8ac1058dba1a660cf9edc]: Commencement: Sch. 5 para. 14 in force at 10.5.2021, see art. 1(4)
+[^c-3d74f6263bd8ac1058dba1a660cf9edc]: Commencement: Sch. 5 para. 14 in force at 10.5.2021, see art. 1(4)
 
 [^c24434561]: Marginal citation: [2003 c. 20](https://www.legislation.gov.uk/ukpga/2003/20); paragraph 7(2)(c) was inserted by section 99 of, and paragraph 328 of Schedule 16 to, the Police Reform and Social Responsibility Act 2011.
 
-[^key-24638b84f5c3edee9e14193f2970a741]: Commencement: Sch. 5 para. 15 in force at 10.5.2021, see art. 1(4)
+[^c-24638b84f5c3edee9e14193f2970a741]: Commencement: Sch. 5 para. 15 in force at 10.5.2021, see art. 1(4)
 
 [^c24434571]: Marginal citation: [2007 c. 28](https://www.legislation.gov.uk/ukpga/2007/28); section 15(1)(a) was amended by section 74 of, and paragraph 14(2)(a) of Schedule 10 to, the Police Reform and Social Responsibility Act 2011.
 
-[^key-34f931ce588fcc119737cd5f8d11be5b]: Commencement: Sch. 5 para. 16 in force at 10.5.2021, see art. 1(4)
+[^c-34f931ce588fcc119737cd5f8d11be5b]: Commencement: Sch. 5 para. 16 in force at 10.5.2021, see art. 1(4)
 
 [^c24434581]: Marginal citation: [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20); paragraph 9(1) of Schedule 5B was inserted by section 2 of, and paragraph 1 of Schedule 1 to, the [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1).
 
-[^key-06026f0f96f545e508d00e0c3f92f554]: Commencement: Sch. 5 para. 17 in force at 10.5.2021, see art. 1(4)
+[^c-06026f0f96f545e508d00e0c3f92f554]: Commencement: Sch. 5 para. 17 in force at 10.5.2021, see art. 1(4)
 
-[^key-68857f1e9af306ce031cd15c804a2c81]: Commencement: Sch. 5 para. 18 in force at 10.5.2021, see art. 1(4)
+[^c-68857f1e9af306ce031cd15c804a2c81]: Commencement: Sch. 5 para. 18 in force at 10.5.2021, see art. 1(4)
 
 [^c24434591]: Marginal citation: There are amendments to section 5, none of which are relevant to this Order.
 
-[^key-06b6a82b85110a8e68164fb01670a29d]: Commencement: Sch. 5 para. 19 in force at 10.5.2021, see art. 1(4)
+[^c-06b6a82b85110a8e68164fb01670a29d]: Commencement: Sch. 5 para. 19 in force at 10.5.2021, see art. 1(4)
 
 [^c24434601]: Marginal citation: Section 7 was amended by section 181 of, and paragraph 97 of Schedule 11 to, the Anti-social [Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12).
 
-[^key-a929c42cc03f32ee0bbf6af8e4f3a702]: Commencement: Sch. 5 para. 20 in force at 10.5.2021, see art. 1(4)
+[^c-a929c42cc03f32ee0bbf6af8e4f3a702]: Commencement: Sch. 5 para. 20 in force at 10.5.2021, see art. 1(4)
 
-[^key-d39af55267db428e4032db5d96346a99]: Commencement: Sch. 5 para. 21 in force at 10.5.2021, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4)
+[^c-d39af55267db428e4032db5d96346a99]: Commencement: Sch. 5 para. 21 in force at 10.5.2021, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4)
 
 [^c24434611]: Marginal citation: Section 18 was amended by section 79 of, and paragraph 53 of Schedule 7 to, the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20); and section 45 of, and paragraph 116 of Schedule 12 to, the [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2).
 
-[^key-6e0ad6fb8cbce44f6da95d6cfc3c5b51]: Textual amendment: [Sch. 5 para. 21(aa)](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/21/aa) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 46(8)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/46/8/a), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-6e0ad6fb8cbce44f6da95d6cfc3c5b51]: Textual amendment: [Sch. 5 para. 21(aa)](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/21/aa) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 46(8)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/46/8/a), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
 [^c24434621]: Marginal citation: 2009\. c. 20. Section 107C was inserted by section 3 of the [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1).
 
 [^c24434631]: Marginal citation: Paragraphs (7)(g) and (h) were added by section 45 of, and paragraph 116 of Schedule 12 to, the [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2).
 
-[^key-97d047ea14fe0b78bd26e76db092e941]: Commencement: Sch. 5 para. 22 in force at 10.5.2021, see art. 1(4)
+[^c-97d047ea14fe0b78bd26e76db092e941]: Commencement: Sch. 5 para. 22 in force at 10.5.2021, see art. 1(4)
 
-[^key-48f9264a9a15e199d5df84a124b15d6f]: Commencement: Sch. 5 para. 23 in force at 10.5.2021, see art. 1(4)
+[^c-48f9264a9a15e199d5df84a124b15d6f]: Commencement: Sch. 5 para. 23 in force at 10.5.2021, see art. 1(4)
 
 [^c24434641]: Marginal citation: Subsections (1A) and (1B) were added by section 6 of, and paragraph 89 of Schedule 1 to, the [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3).
 
-[^key-f67c2fd858fc4b053f286ddbbb811459]: Commencement: Sch. 5 para. 24 in force at 10.5.2021, see art. 1(4)
+[^c-f67c2fd858fc4b053f286ddbbb811459]: Commencement: Sch. 5 para. 24 in force at 10.5.2021, see art. 1(4)
 
-[^key-07436799addc7a3690664f76a0ecbcea]: Commencement: Sch. 5 para. 25 in force at 10.5.2021, see art. 1(4)
+[^c-07436799addc7a3690664f76a0ecbcea]: Commencement: Sch. 5 para. 25 in force at 10.5.2021, see art. 1(4)
 
-[^key-520195ad09ebabd6069f1d2047cf6eaa]: Commencement: Sch. 5 para. 26 in force at 10.5.2021, see art. 1(4)
+[^c-520195ad09ebabd6069f1d2047cf6eaa]: Commencement: Sch. 5 para. 26 in force at 10.5.2021, see art. 1(4)
 
-[^key-eb83026c1a6731f62862f72b7f07d975]: Commencement: Sch. 5 para. 27 in force at 10.5.2021, see art. 1(4)
+[^c-eb83026c1a6731f62862f72b7f07d975]: Commencement: Sch. 5 para. 27 in force at 10.5.2021, see art. 1(4)
 
-[^key-c96455ff31e14ac47c04f386d11dd8f4]: Commencement: Sch. 5 para. 28 in force at 10.5.2021, see art. 1(4)
+[^c-c96455ff31e14ac47c04f386d11dd8f4]: Commencement: Sch. 5 para. 28 in force at 10.5.2021, see art. 1(4)
 
-[^key-c36ae80a587539b6e3201b82c0661d75]: Commencement: Sch. 5 para. 29 in force at 10.5.2021, see art. 1(4)
+[^c-c36ae80a587539b6e3201b82c0661d75]: Commencement: Sch. 5 para. 29 in force at 10.5.2021, see art. 1(4)
 
 [^c24434651]: Marginal citation: Subsections (3A) and (4A) were inserted into section 64 by article 10 of the [Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470).
 
 [^c24434661]: Marginal citation: [S.I. 2017/69](https://www.legislation.gov.uk/uksi/2017/69).
 
-[^key-17ac1f0387513837a999529a3deb255b]: Commencement: Sch. 5 para. 30 in force at 10.5.2021, see art. 1(4)
+[^c-17ac1f0387513837a999529a3deb255b]: Commencement: Sch. 5 para. 30 in force at 10.5.2021, see art. 1(4)
 
 [^c24434671]: Marginal citation: Section 65(1) was amended by paragraph 184 of Schedule 8 to the [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
 
@@ -1101,47 +1101,47 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 [^c24434691]: Marginal citation: [S.I. 2017/69](https://www.legislation.gov.uk/uksi/2017/69).
 
-[^key-5e67b53757d3a2e7384fa4160dff0bab]: Commencement: Sch. 5 para. 31 in force at 10.5.2021, see art. 1(4)
+[^c-5e67b53757d3a2e7384fa4160dff0bab]: Commencement: Sch. 5 para. 31 in force at 10.5.2021, see art. 1(4)
 
-[^key-1d4b09d7268e70856697ec28a135cdad]: Commencement: Sch. 5 para. 32 in force at 10.5.2021, see art. 1(4)
+[^c-1d4b09d7268e70856697ec28a135cdad]: Commencement: Sch. 5 para. 32 in force at 10.5.2021, see art. 1(4)
 
 [^c24434701]: Marginal citation: Paragraph 8 was amended by section 122(2) and (3) of the [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3).
 
-[^key-f55b3f8281cdc9e02b0005fe054b6a60]: Commencement: Sch. 5 para. 33 in force at 10.5.2021, see art. 1(4)
+[^c-f55b3f8281cdc9e02b0005fe054b6a60]: Commencement: Sch. 5 para. 33 in force at 10.5.2021, see art. 1(4)
 
-[^key-272bc880220bf43a787851b6d43eefb1]: Commencement: Sch. 5 para. 34 in force at 10.5.2021, see art. 1(4)
+[^c-272bc880220bf43a787851b6d43eefb1]: Commencement: Sch. 5 para. 34 in force at 10.5.2021, see art. 1(4)
 
 [^c24434711]: Marginal citation: There are amendments to Schedule 6, none of which is relevant to this instrument.
 
-[^key-a0c8738c15184397c674ba36658572d0]: Commencement: Sch. 5 para. 35 in force at 10.5.2021, see art. 1(4)
+[^c-a0c8738c15184397c674ba36658572d0]: Commencement: Sch. 5 para. 35 in force at 10.5.2021, see art. 1(4)
 
-[^key-afc89e0c340229325e72170ab4fd6cdb]: Commencement: Sch. 5 para. 36 in force at 10.5.2021, see art. 1(4)
+[^c-afc89e0c340229325e72170ab4fd6cdb]: Commencement: Sch. 5 para. 36 in force at 10.5.2021, see art. 1(4)
 
-[^key-f0400342965b14426f6e5bdf92c691ae]: Commencement: Sch. 5 para. 37 in force at 10.5.2021, see art. 1(4)
+[^c-f0400342965b14426f6e5bdf92c691ae]: Commencement: Sch. 5 para. 37 in force at 10.5.2021, see art. 1(4)
 
 [^c24434721]: Marginal citation: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2).
 
-[^key-1f199cb549a34892dfcb0bf111813253]: Commencement: Sch. 5 para. 38 in force at 10.5.2021, see art. 1(4)
+[^c-1f199cb549a34892dfcb0bf111813253]: Commencement: Sch. 5 para. 38 in force at 10.5.2021, see art. 1(4)
 
 [^c24434731]: Marginal citation: [S.I. 1972/1217](https://www.legislation.gov.uk/uksi/1972/1217); regulation 7(3) was amended by [S.I. 2011/3058](https://www.legislation.gov.uk/uksi/2011/3058). There are other amending instruments, but none is relevant.
 
-[^key-25614bfec73c36149a5e8cbbd7bb6900]: Commencement: Sch. 5 para. 39 in force at 10.5.2021, see art. 1(4)
+[^c-25614bfec73c36149a5e8cbbd7bb6900]: Commencement: Sch. 5 para. 39 in force at 10.5.2021, see art. 1(4)
 
 [^c24434741]: Marginal citation: [S.I. 1990/200](https://www.legislation.gov.uk/uksi/1990/200); amended by [S.I. 2012/2900](https://www.legislation.gov.uk/uksi/2012/2900). There are other amending instruments, but none is relevant.
 
-[^key-259f91ee9dcdae5ad810b914da14ca0c]: Commencement: Sch. 5 para. 40 in force at 10.5.2021, see art. 1(4)
+[^c-259f91ee9dcdae5ad810b914da14ca0c]: Commencement: Sch. 5 para. 40 in force at 10.5.2021, see art. 1(4)
 
 [^c24434751]: Marginal citation: [S.I. 1995/722](https://www.legislation.gov.uk/uksi/1995/722); regulation 4 was amended by [S.I. 2000/1549](https://www.legislation.gov.uk/uksi/2000/1549) and [S.I. 2011/3058](https://www.legislation.gov.uk/uksi/2011/3058).
 
-[^key-045b28fe66dd1c8e01075ea608cb4ced]: Commencement: Sch. 5 para. 41 in force at 10.5.2021, see art. 1(4)
+[^c-045b28fe66dd1c8e01075ea608cb4ced]: Commencement: Sch. 5 para. 41 in force at 10.5.2021, see art. 1(4)
 
 [^c24434761]: Marginal citation: [S.I. 1997/1908](https://www.legislation.gov.uk/uksi/1997/1908); regulations 6 and 7 were amended by [S.I. 2002/2313](https://www.legislation.gov.uk/uksi/2002/2313) and [S.I. 2013/2318](https://www.legislation.gov.uk/uksi/2013/2318).
 
-[^key-aca668a24c8dd0983899798768034b94]: Commencement: Sch. 5 para. 42 in force at 10.5.2021, see art. 1(4)
+[^c-aca668a24c8dd0983899798768034b94]: Commencement: Sch. 5 para. 42 in force at 10.5.2021, see art. 1(4)
 
 [^c24434771]: Marginal citation: [S.I. 1998/494](https://www.legislation.gov.uk/uksi/1998/494); regulation 4(3)(d) was amended by [S.I. 2011/3058](https://www.legislation.gov.uk/uksi/2011/3058). There are other amending instruments, but none is relevant.
 
-[^key-48945ba6aeb002240242e50640679e58]: Commencement: Sch. 5 para. 43 in force at 10.5.2021, see art. 1(4)
+[^c-48945ba6aeb002240242e50640679e58]: Commencement: Sch. 5 para. 43 in force at 10.5.2021, see art. 1(4)
 
 [^c24434781]: Marginal citation: [S.I. 1999/2864](https://www.legislation.gov.uk/uksi/1999/2864).
 
@@ -1151,31 +1151,31 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 [^c24434811]: Marginal citation: Regulation 58(2)(c)(ii) was substituted by [S.I. 2011/3058](https://www.legislation.gov.uk/uksi/2011/3058).
 
-[^key-a4346912334a582c971b8561b9ef66a6]: Commencement: Sch. 5 para. 44 in force at 10.5.2021, see art. 1(4)
+[^c-a4346912334a582c971b8561b9ef66a6]: Commencement: Sch. 5 para. 44 in force at 10.5.2021, see art. 1(4)
 
 [^c24434821]: Marginal citation: [S.I. 1999/2277](https://www.legislation.gov.uk/uksi/1999/2277); paragraph 2 of Section 6 of Schedule 1 was substituted by [S.I. 2012/2733](https://www.legislation.gov.uk/uksi/2012/2733).
 
-[^key-a0018c7f15d5b97e308b2bc7bd58c485]: Commencement: Sch. 5 para. 45 in force at 10.5.2021, see art. 1(4)
+[^c-a0018c7f15d5b97e308b2bc7bd58c485]: Commencement: Sch. 5 para. 45 in force at 10.5.2021, see art. 1(4)
 
 [^c24434831]: Marginal citation: [S.I. 2001/3343](https://www.legislation.gov.uk/uksi/2001/3343); regulation 3 was amended by [S.I. 2011/3058](https://www.legislation.gov.uk/uksi/2011/3058).
 
-[^key-7592ebf692b5d2f49518ebed7a96a696]: Commencement: Sch. 5 para. 46 in force at 10.5.2021, see art. 1(4)
+[^c-7592ebf692b5d2f49518ebed7a96a696]: Commencement: Sch. 5 para. 46 in force at 10.5.2021, see art. 1(4)
 
 [^c24434841]: Marginal citation: [S.I. 2001/2645](https://www.legislation.gov.uk/uksi/2001/2645); regulation 2(1)(b) was amended by [S.I. 2012/61](https://www.legislation.gov.uk/uksi/2012/61).
 
-[^key-22243213e6e6b9cf47001160ab1924a8]: Commencement: Sch. 5 para. 47 in force at 10.5.2021, see art. 1(4)
+[^c-22243213e6e6b9cf47001160ab1924a8]: Commencement: Sch. 5 para. 47 in force at 10.5.2021, see art. 1(4)
 
 [^c24434851]: Marginal citation: [S.I. 2003/527](https://www.legislation.gov.uk/uksi/2003/527); regulation 24(1)(b) was amended by [S.I. 2011/3026](https://www.legislation.gov.uk/uksi/2011/3026).
 
-[^key-e03544ac9190b04307880235d081742c]: Commencement: Sch. 5 para. 48 in force at 10.5.2021, see art. 1(4)
+[^c-e03544ac9190b04307880235d081742c]: Commencement: Sch. 5 para. 48 in force at 10.5.2021, see art. 1(4)
 
 [^c24434861]: Marginal citation: [S.I. 2007/1120](https://www.legislation.gov.uk/uksi/2007/1120); regulation 2 was amended by [S.I. 2012/61](https://www.legislation.gov.uk/uksi/2012/61).
 
-[^key-d6338e9fa64560983831f31660991dd1]: Commencement: Sch. 5 para. 49 in force at 10.5.2021, see art. 1(4)
+[^c-d6338e9fa64560983831f31660991dd1]: Commencement: Sch. 5 para. 49 in force at 10.5.2021, see art. 1(4)
 
 [^c24434871]: Marginal citation: [S.I. 2008/2852](https://www.legislation.gov.uk/uksi/2008/2852); paragraph 5(c) of Part 3 of Schedule 3 was amended by [S.I. 2011/3058](https://www.legislation.gov.uk/uksi/2011/3058). There are other amendments but none is relevant.
 
-[^key-43d037a993f865bfb7237b285cdd66e9]: Commencement: Sch. 5 para. 50 in force at 10.5.2021, see art. 1(4)
+[^c-43d037a993f865bfb7237b285cdd66e9]: Commencement: Sch. 5 para. 50 in force at 10.5.2021, see art. 1(4)
 
 [^c24434881]: Marginal citation: [S.I. 2011/3050](https://www.legislation.gov.uk/uksi/2011/3050).
 
@@ -1183,11 +1183,11 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 [^c24434901]: Marginal citation: Paragraph 4 of the Schedule was amended by [S.I. 2012/2479](https://www.legislation.gov.uk/uksi/2012/2479).
 
-[^key-51dd7bff7841f008bcbcb838bdc06335]: Commencement: Sch. 5 para. 51 in force at 10.5.2021, see art. 1(4)
+[^c-51dd7bff7841f008bcbcb838bdc06335]: Commencement: Sch. 5 para. 51 in force at 10.5.2021, see art. 1(4)
 
 [^c24434911]: Marginal citation: [S.I. 2011/2744](https://www.legislation.gov.uk/uksi/2011/2744).
 
-[^key-c6dece50f8b02027c0e238a30c958205]: Commencement: Sch. 5 para. 52 in force at 10.5.2021, see art. 1(4)
+[^c-c6dece50f8b02027c0e238a30c958205]: Commencement: Sch. 5 para. 52 in force at 10.5.2021, see art. 1(4)
 
 [^c24434921]: Marginal citation: [S.I. 2012/62](https://www.legislation.gov.uk/uksi/2012/62), to which there are amendments not relevant to this Order.
 
@@ -1195,30 +1195,30 @@ The Police Reform and Social Responsibility Act 2011 is modified as follows.
 
 [^c24434941]: Marginal citation: [2011 c. 20](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-738f72f922fffb68ab13601f818062c4]: Commencement: Sch. 5 para. 53 in force at 10.5.2021, see art. 1(4)
+[^c-738f72f922fffb68ab13601f818062c4]: Commencement: Sch. 5 para. 53 in force at 10.5.2021, see art. 1(4)
 
 [^c24434951]: Marginal citation: [S.I. 2012/2630](https://www.legislation.gov.uk/uksi/2012/2630) subject to revocation and saving by the [Police Appeals Tribunals Rules 2020 (S.I. 2020/1)](https://www.legislation.gov.uk/uksi/2020/1).
 
-[^key-67a9fdbb67945c2b4f88bd9e8e94c274]: Commencement: Sch. 5 para. 54 in force at 10.5.2021, see art. 1(4)
+[^c-67a9fdbb67945c2b4f88bd9e8e94c274]: Commencement: Sch. 5 para. 54 in force at 10.5.2021, see art. 1(4)
 
 [^c24434961]: Marginal citation: [S.I. 2012/2087](https://www.legislation.gov.uk/uksi/2012/2087).
 
-[^key-43c2d08b6fb12eca2a925a8dfcaba0f3]: Commencement: Sch. 5 para. 55 in force at 10.5.2021, see art. 1(4)
+[^c-43c2d08b6fb12eca2a925a8dfcaba0f3]: Commencement: Sch. 5 para. 55 in force at 10.5.2021, see art. 1(4)
 
 [^c24434971]: Marginal citation: [S.I. 2012/2271](https://www.legislation.gov.uk/uksi/2012/2271).
 
-[^key-683532710c46d96d270eb841dd7f7459]: Commencement: Sch. 5 para. 56 in force at 10.5.2021, see art. 1(4)
+[^c-683532710c46d96d270eb841dd7f7459]: Commencement: Sch. 5 para. 56 in force at 10.5.2021, see art. 1(4)
 
 [^c24434981]: Marginal citation: [S.I. 2013/2356](https://www.legislation.gov.uk/uksi/2013/2356), to which there are amendments not relevant to this Order.
 
-[^key-07866a1e62eb27314c4a6ac41c078572]: Commencement: Sch. 5 para. 57 in force at 10.5.2021, see art. 1(4)
+[^c-07866a1e62eb27314c4a6ac41c078572]: Commencement: Sch. 5 para. 57 in force at 10.5.2021, see art. 1(4)
 
 [^c24434991]: Marginal citation: [S.I. 2014/1710](https://www.legislation.gov.uk/uksi/2014/1710), to which there are amendments not relevant to this Order.
 
-[^key-115c9e108aebeae58c11501fff43ffdf]: Commencement: Sch. 5 para. 58 in force at 10.5.2021, see art. 1(4)
+[^c-115c9e108aebeae58c11501fff43ffdf]: Commencement: Sch. 5 para. 58 in force at 10.5.2021, see art. 1(4)
 
 [^c24435001]: Marginal citation: [S.I. 2017/69](https://www.legislation.gov.uk/uksi/2017/69).
 
-[^key-b6689222a03f0a69b733adb65aef47b3]: Commencement: Sch. 5 para. 59 in force at 10.5.2021, see art. 1(4)
+[^c-b6689222a03f0a69b733adb65aef47b3]: Commencement: Sch. 5 para. 59 in force at 10.5.2021, see art. 1(4)
 
 [^c24435011]: Marginal citation: [S.I. 2020/1](https://www.legislation.gov.uk/uksi/2020/1).

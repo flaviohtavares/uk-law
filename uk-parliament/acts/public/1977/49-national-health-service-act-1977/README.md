@@ -29,19 +29,19 @@ National Health Service Act 1977
 
 1977 c. 49
 
-[^key-9bc6cd74c32e58ec6afa147b71aacfe8]An Act to consolidate certain provisions relating to the health service for England and Wales; and to repeal certain enactments relating to the health service which have ceased to have any effect.
+[^c-9bc6cd74c32e58ec6afa147b71aacfe8]An Act to consolidate certain provisions relating to the health service for England and Wales; and to repeal certain enactments relating to the health service which have ceased to have any effect.
 
 \[29th July 1977\]
 
 ## Contents
 
-### Part I — Services and Administration[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+### Part I — Services and Administration[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-#### Functions of the Secretary of State[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### Functions of the Secretary of State[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 *Extent: E+W+S*
 
@@ -53,14 +53,14 @@ National Health Service Act 1977
 - [Section 4 — High security psychiatric services.](part-i/section-4.md)
 - [Section 5 — Other services.](part-i/section-5.md)
 
-#### Central Health Services Council and Medical Practices Committee[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### Central Health Services Council and Medical Practices Committee[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 **No longer in force.**
 
 - [Section 6 — Central Health Services Council, and standing advisory committees.](part-i/section-6.md)
 - [Section 7 — Medical Practices Committee.](part-i/section-7.md)
 
-#### Local administration[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### Local administration[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 *Extent: E+W+S*
 
@@ -82,7 +82,7 @@ National Health Service Act 1977
 - [Section 16BC — Exercise of functions by Local Health Boards](part-i/section-16bc.md)
 - [Section 16C — Advice for Health Authorities and Primary Care Trusts.](part-i/section-16c.md)
 
-#### Functions of Primary Care Trusts and Local Health Boards[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### Functions of Primary Care Trusts and Local Health Boards[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 *Extent: E+W+S*
 
@@ -92,7 +92,7 @@ National Health Service Act 1977
 - [Section 16CB — Dental public health](part-i/section-16cb.md)
 - [Section 16CC — Primary medical services](part-i/section-16cc.md)
 
-#### Directions as to distribution and exercise of functions[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### Directions as to distribution and exercise of functions[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 *Extent: E+W+S*
 
@@ -103,19 +103,19 @@ National Health Service Act 1977
 - [Section 17A — Strategic Health Authority’s directions: distribution of functions.](part-i/section-17a.md)
 - [Section 17B — Health Authority’s directions: exercise of functions.](part-i/section-17b.md)
 
-#### Directions and regulations: general[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### Directions and regulations: general[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 **No longer in force.**
 
 - [Section 18 — Directions and regulations under preceding provisions.](part-i/section-18.md)
 
-#### Primary Care Trusts: further functions[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### Primary Care Trusts: further functions[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 **No longer in force.**
 
 - [Section 18A — Provision of services etc.](part-i/section-18a.md)
 
-#### Advisory committees for Wales and Community Health Councils[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### Advisory committees for Wales and Community Health Councils[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 *Extent: E+W+S*
 
@@ -126,7 +126,7 @@ National Health Service Act 1977
 - [Section 20 — Community Health Councils.](part-i/section-20.md)
 - [Section 20A — Community Health Councils in Wales](part-i/section-20a.md)
 
-#### Co-operation and assistance[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### Co-operation and assistance[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 **No longer in force.**
 
@@ -142,7 +142,7 @@ National Health Service Act 1977
 - [Section 28B — Power of Secretary of State to make payments towards expenditure on community services in Wales.](part-i/section-28b.md)
 - [Section 28BB — Power of local authorities to make payments to NHS bodies.](part-i/section-28bb.md)
 
-#### Provision of personal medical or dental services[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### Provision of personal medical or dental services[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 *Extent: E+W+S*
 
@@ -159,7 +159,7 @@ National Health Service Act 1977
 - [Section 28I — Use of accommodation.](part-i/section-28i.md)
 - [Section 28J — Local pharmaceutical services schemes](part-i/section-28j.md)
 
-#### General dental services contracts[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### General dental services contracts[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 **No longer in force.**
 
@@ -170,7 +170,7 @@ National Health Service Act 1977
 - [Section 28O — GDS contracts: other required terms](part-i/section-28o.md)
 - [Section 28P — GDS contracts: disputes and enforcement](part-i/section-28p.md)
 
-#### General medical services contracts[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### General medical services contracts[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 *Extent: E+W+S*
 
@@ -186,13 +186,13 @@ National Health Service Act 1977
 - [Section 28X — Persons performing primary medical and dental services](part-i/section-28x.md)
 - [Section 28Y — Assistance and support](part-i/section-28y.md)
 
-### Part II — General Medical, General Dental, General Ophthalmic, and Pharmaceutical Services[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+### Part II — General Medical, General Dental, General Ophthalmic, and Pharmaceutical Services[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-#### General medical services[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### General medical services[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 *Extent: E+W+S*
 
@@ -207,7 +207,7 @@ National Health Service Act 1977
 - [Section 33 — Distribution of general medical services.](part-ii/section-33.md)
 - [Section 34 — Regulations for Medical Practices Committee.](part-ii/section-34.md)
 
-#### General dental services[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### General dental services[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 *Extent: E+W+S*
 
@@ -217,7 +217,7 @@ National Health Service Act 1977
 - [Section 36 — Regulations as to s. 35.](part-ii/section-36.md)
 - [Section 37 — Dental Estimates Board.](part-ii/section-37.md)
 
-#### General ophthalmic services[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### General ophthalmic services[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 **No longer in force.**
 
@@ -225,7 +225,7 @@ National Health Service Act 1977
 - [Section 39 — Regulations as to s. 38.](part-ii/section-39.md)
 - [Section 40 — Medical practitioners with qualifications prescribed under s. 38.](part-ii/section-40.md)
 
-#### Pharmaceutical services[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### Pharmaceutical services[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 *Extent: E+W+S*
 
@@ -240,7 +240,7 @@ National Health Service Act 1977
 - [Section 43 — Persons authorised to provide pharmaceutical services.](part-ii/section-43.md)
 - [Section 43ZA — Conditional inclusion in medical, dental, ophthalmic and pharmaceutical lists](part-ii/section-43za.md)
 
-#### Indemnity cover[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### Indemnity cover[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 *Extent: E+W+S*
 
@@ -249,7 +249,7 @@ National Health Service Act 1977
 - [Section 43C — Indemnity cover.](part-ii/section-43c.md)
 - [Section 43D — Supplementary lists](part-ii/section-43d.md)
 
-#### Local representative committees[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### Local representative committees[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 *Extent: E+W+S*
 
@@ -260,7 +260,7 @@ National Health Service Act 1977
 - [Section 45A — Local Medical Committees](part-ii/section-45a.md)
 - [Section 45B — Local Dental Committees](part-ii/section-45b.md)
 
-#### Provisions as to disqualification of practitioners[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### Provisions as to disqualification of practitioners[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 *Extent: E+W+S*
 
@@ -289,13 +289,13 @@ National Health Service Act 1977
 - [Section 49Q — Regulations](part-ii/section-49q.md)
 - [Section 49R — Corresponding provision in Scotland and Northern Ireland](part-ii/section-49r.md)
 
-#### The Family Health Services Appeal Authority[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### The Family Health Services Appeal Authority[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 **No longer in force.**
 
 - [Section 49S — The Family Health Services Appeal Authority](part-ii/section-49s.md)
 
-#### Other provisions supplementary to Part II[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### Other provisions supplementary to Part II[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 *Extent: E+W+S*
 
@@ -367,13 +367,13 @@ National Health Service Act 1977
 - [Section 85 — Default powers.](part-iii/section-85.md)
 - [Section 86 — Emergency powers.](part-iii/section-86.md)
 
-### Part IV — Property and Finance[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+### Part IV — Property and Finance[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-#### Land and other Property[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### Land and other Property[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 **No longer in force.**
 
@@ -381,7 +381,7 @@ National Health Service Act 1977
 - [Section 88 — Transferred property free of trusts.](part-iv/section-88.md)
 - [Section 89 — Power of voluntary organisations to transfer property.](part-iv/section-89.md)
 
-#### Trusts[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### Trusts[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 *Extent: E+W+S*
 
@@ -397,13 +397,13 @@ National Health Service Act 1977
 - [Section 96A — Power of health authorities, etc. to raise money, etc., by appeals, collections, etc.](part-iv/section-96a.md)
 - [Section 96B — Trust-funds and trustees for Primary Care Trusts.](part-iv/section-96b.md)
 
-#### Companies[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### Companies[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 **No longer in force.**
 
 - [Section 96C — Public-private partnerships](part-iv/section-96c.md)
 
-#### Finance and Accounts[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### Finance and Accounts[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 *Extent: E+W+S*
 
@@ -424,7 +424,7 @@ National Health Service Act 1977
 - [Section 100 — Other Payments.](part-iv/section-100.md)
 - [Section 101 — Secretary of State’s receipts.](part-iv/section-101.md)
 
-#### Miscellaneous provisions as to remuneration, allowances and superannuation[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+#### Miscellaneous provisions as to remuneration, allowances and superannuation[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 **No longer in force.**
 
@@ -514,7 +514,7 @@ SCHEDULES
 
 ## Annotations
 
-[^key-9bc6cd74c32e58ec6afa147b71aacfe8]: Textual amendment: Act repealed (except ss. 57, Sch. 11 and ss. 126, 128 so far as they relate to those provisions, which are repealed only for E.W., see [s. 7(3)](https://www.legislation.gov.uk/ukpga/2006/43/section/7/3) of the repealing Act; and except s. 41B(2)(6)(b) as amended by [S.I. 2006/1056](https://www.legislation.gov.uk/uksi/2006/1056), which is repealed immediately after that amendment comes into force, see [s. 8(4)-(6)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/4); and except ss. 19, 28J, 38, 39, 41, 41B(2)(6)(b), 42(2B)(2C), 42A, 42B, 43(2), 49F, 49H, 98, 128, Sch. 8 para. 2(2B), Sch. 8A, Sch. 9A para. 6, Sch. 12 paras. 2A(1)(b)(ba), 2B, Sch. 12B as amended by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28) which are repealed immediately after those amendments come into force on 1.8.2008 and 9.5.2013, see [s. 8(4)-(6)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/4); and except ss. 3, 15, 16CD, 16CE, 18A, 26, 28WA-28WF, 28X, 28Y, 38, 39, 43D, 44, 45A, 45C, 72, 103 as amended by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28) and to the extent that they relate to primary ophthalmic services, which are repealed immediately after those amendments come into force on 1.8.2008, see [s. 8(4)-(6)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/4)) (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [ss. 6](https://www.legislation.gov.uk/ukpga/2006/43/section/6), [8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with saving for s. 126 in [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/paragraph/7) and general savings and transitional provisions in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1) and transitory modifications relating to primary ophthalmic services in [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/paragraph/1)); [S.I. 2008/1972](https://www.legislation.gov.uk/uksi/2008/1972), [art. 2](https://www.legislation.gov.uk/uksi/2008/1972/article/2); [S.I. 2013/1112](https://www.legislation.gov.uk/uksi/2013/1112), [art. 2](https://www.legislation.gov.uk/uksi/2013/1112/article/2)
+[^c-9bc6cd74c32e58ec6afa147b71aacfe8]: Textual amendment: Act repealed (except ss. 57, Sch. 11 and ss. 126, 128 so far as they relate to those provisions, which are repealed only for E.W., see [s. 7(3)](https://www.legislation.gov.uk/ukpga/2006/43/section/7/3) of the repealing Act; and except s. 41B(2)(6)(b) as amended by [S.I. 2006/1056](https://www.legislation.gov.uk/uksi/2006/1056), which is repealed immediately after that amendment comes into force, see [s. 8(4)-(6)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/4); and except ss. 19, 28J, 38, 39, 41, 41B(2)(6)(b), 42(2B)(2C), 42A, 42B, 43(2), 49F, 49H, 98, 128, Sch. 8 para. 2(2B), Sch. 8A, Sch. 9A para. 6, Sch. 12 paras. 2A(1)(b)(ba), 2B, Sch. 12B as amended by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28) which are repealed immediately after those amendments come into force on 1.8.2008 and 9.5.2013, see [s. 8(4)-(6)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/4); and except ss. 3, 15, 16CD, 16CE, 18A, 26, 28WA-28WF, 28X, 28Y, 38, 39, 43D, 44, 45A, 45C, 72, 103 as amended by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28) and to the extent that they relate to primary ophthalmic services, which are repealed immediately after those amendments come into force on 1.8.2008, see [s. 8(4)-(6)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/4)) (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [ss. 6](https://www.legislation.gov.uk/ukpga/2006/43/section/6), [8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with saving for s. 126 in [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/paragraph/7) and general savings and transitional provisions in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1) and transitory modifications relating to primary ophthalmic services in [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/paragraph/1)); [S.I. 2008/1972](https://www.legislation.gov.uk/uksi/2008/1972), [art. 2](https://www.legislation.gov.uk/uksi/2008/1972/article/2); [S.I. 2013/1112](https://www.legislation.gov.uk/uksi/2013/1112), [art. 2](https://www.legislation.gov.uk/uksi/2013/1112/article/2)
 
     Act: specified provisions amended and repealed and specified amendments and repeals by specified legislation commenced (1.3.2007 immediately before the [National Health Service Act 2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41) comes into force) by virtue of [The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [arts. 1-3](https://www.legislation.gov.uk/uksi/2006/1407/article/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2006/1407/schedule/1), [2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
 

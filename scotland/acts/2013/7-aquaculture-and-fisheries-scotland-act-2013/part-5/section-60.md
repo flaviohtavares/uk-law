@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Fixed penalty notices[^key-e4abca06806d40e849bf1e5a51411a31]
+## 60. Fixed penalty notices[^c-e4abca06806d40e849bf1e5a51411a31]
 
 *Extent: S*
 
@@ -91,4 +91,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4abca06806d40e849bf1e5a51411a31]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2013/7/section/60) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-e4abca06806d40e849bf1e5a51411a31]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2013/7/section/60) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

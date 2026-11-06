@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Construction and maintenance of new or altered highway[^key-59e99864bef2323d87a3db89ac15bc5c]
+## 12. Construction and maintenance of new or altered highway[^c-59e99864bef2323d87a3db89ac15bc5c]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59e99864bef2323d87a3db89ac15bc5c]: Commencement: Art. 12 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-59e99864bef2323d87a3db89ac15bc5c]: Commencement: Art. 12 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)

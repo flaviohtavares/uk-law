@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1A. Planning authorities: chief planning officer[^key-7eba77200cea9618028e9f4be441088f]
+## 1A. Planning authorities: chief planning officer[^c-7eba77200cea9618028e9f4be441088f]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7eba77200cea9618028e9f4be441088f]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/1997/8/section/1A) inserted (1.4.2024) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 50(2)](https://www.legislation.gov.uk/asp/2019/13/section/50/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2024/79](https://www.legislation.gov.uk/ssi/2024/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/2/d)
+[^c-7eba77200cea9618028e9f4be441088f]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/1997/8/section/1A) inserted (1.4.2024) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 50(2)](https://www.legislation.gov.uk/asp/2019/13/section/50/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2024/79](https://www.legislation.gov.uk/ssi/2024/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/2/d)

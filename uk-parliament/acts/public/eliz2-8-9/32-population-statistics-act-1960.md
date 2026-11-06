@@ -35,7 +35,7 @@ An Act to make permanent the Population (Statistics) Act 1938, and to make furth
 
 ## 1. Amendment of Population (Statistics) Act, 1938.
 
-(1)[^key-a01143b4152d754e8d2cabfb5d9ae236] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-a01143b4152d754e8d2cabfb5d9ae236] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2)[^c624449] The Schedule to this act shall be substituted for the Schedule to the said Act of 1938.
 
@@ -66,7 +66,7 @@ The general abstracts which under section nineteen of the [^c624462]Registration
 
 (2) This Act shall not extend to Northern Ireland.
 
-(3)[^key-2dae92c6627961b9beed38023b471bbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2dae92c6627961b9beed38023b471bbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE — Particulars which may be required
 
@@ -88,7 +88,7 @@ Section 1.
 
 ## Annotations
 
-[^key-a01143b4152d754e8d2cabfb5d9ae236]: Textual amendment: S. 1(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
+[^c-a01143b4152d754e8d2cabfb5d9ae236]: Textual amendment: S. 1(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
 
 [^c624449]: Modification: The text of s. 1(2) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -108,6 +108,6 @@ Section 1.
 
 [^c624469]: Marginal citation: [1953 c. 37](https://www.legislation.gov.uk/ukpga/1953/37).
 
-[^key-2dae92c6627961b9beed38023b471bbd]: Textual amendment: S. 5(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
+[^c-2dae92c6627961b9beed38023b471bbd]: Textual amendment: S. 5(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
 
 [^c624471]: Modification: The text of Sch.is in the form in which it was originally enacted:it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

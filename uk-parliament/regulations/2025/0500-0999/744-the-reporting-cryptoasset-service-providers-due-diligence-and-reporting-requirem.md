@@ -48,11 +48,11 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 ## Part 1 — Introductory and general provisions
 
-### 1. Citation and commencement[^key-b2b371f535de387d0f94d2526a498576]
+### 1. Citation and commencement[^c-b2b371f535de387d0f94d2526a498576]
 
 These Regulations may be cited as the Reporting Cryptoasset Service Providers (Due Diligence and Reporting Requirements) Regulations 2025 and come into force on 1st January 2026.
 
-### 2. Interpretation[^key-e3e7661a542c20e3c84e32f75956f4c8][^key-75f347b3aac39bad8556bc61344c3966]
+### 2. Interpretation[^c-e3e7661a542c20e3c84e32f75956f4c8][^c-75f347b3aac39bad8556bc61344c3966]
 
 (1) In these Regulations—
 
@@ -73,7 +73,7 @@ These Regulations may be cited as the Reporting Cryptoasset Service Providers (D
 - (c) the list referred to in (b) of Section IV(D)(9)(b) (definition of reportable jurisdiction) is the list contained in a notice published by the Commissioners for HMRC further to this regulation, and
 - (d) the list referred to in Section IV(F)(1) (definition of partner jurisdiction) is the list contained in a notice published by the Commissioners for HMRC further to this regulation.
 
-### 3. UK reporting cryptoasset service provider[^key-0e7c8ee2d3837f1732a20c8c3b36fa94][^key-c8bd61b6eb56dadb434d8b02f5d36c16]
+### 3. UK reporting cryptoasset service provider[^c-0e7c8ee2d3837f1732a20c8c3b36fa94][^c-c8bd61b6eb56dadb434d8b02f5d36c16]
 
 (1) For the purpose of these Regulations, a UK reporting cryptoasset service provider is a reporting cryptoasset service provider which is—
 
@@ -92,7 +92,7 @@ These Regulations may be cited as the Reporting Cryptoasset Service Providers (D
 
 ## Part 2 — Due diligence, record-keeping and reporting obligations
 
-### 4. Due diligence and record-keeping[^key-1b50e5d765c535ffc2b93e0df9648c45]
+### 4. Due diligence and record-keeping[^c-1b50e5d765c535ffc2b93e0df9648c45]
 
 (1) A UK reporting cryptoasset service provider must apply, and establish and maintain arrangements designed to apply, the due diligence procedures set out in Section III of the rules.
 
@@ -109,7 +109,7 @@ These Regulations may be cited as the Reporting Cryptoasset Service Providers (D
 - (b) generated, or
 - (c) relied on under Section III of the rules.
 
-### 5. Provision of a valid self-certification[^key-151f204ceccbbe08672621d069ae8b75]
+### 5. Provision of a valid self-certification[^c-151f204ceccbbe08672621d069ae8b75]
 
 (1) A self-certification provider must provide the self-certification requested—
 
@@ -118,7 +118,7 @@ These Regulations may be cited as the Reporting Cryptoasset Service Providers (D
 
 (2) The self-certification provided must satisfy the requirements as to validity in Section III(C) of the rules.
 
-### 6. Reporting of Information[^key-22b7e98e3eaee5c29fffd299dc67240f][^key-557e34033aca17ff99e07c59f0587161]
+### 6. Reporting of Information[^c-22b7e98e3eaee5c29fffd299dc67240f][^c-557e34033aca17ff99e07c59f0587161]
 
 (1) A UK reporting cryptoasset service provider must, for each calendar year, make a report to HMRC setting out the information in paragraph (2) on or before 31st May following the end of the calendar year.
 
@@ -127,7 +127,7 @@ These Regulations may be cited as the Reporting Cryptoasset Service Providers (D
 - (a) for a UK reporting cryptoasset service provider within regulation 3(1)(a)(i), the information set out in Section II(A) to (F) of the rules, and
 - (b) for a UK reporting cryptoasset service provider within regulation 3(1)(a)(ii), the information set out in Section II(A) to (F) of the rules, with respect to relevant transactions effectuated through a branch in the United Kingdom.
 
-### 7. Electronic report system[^key-e17ba0ccba11bad2e7c5b94c98518e74]
+### 7. Electronic report system[^c-e17ba0ccba11bad2e7c5b94c98518e74]
 
 (1) A report under regulation 6(1) must be made electronically using an electronic report system.
 
@@ -143,7 +143,7 @@ These Regulations may be cited as the Reporting Cryptoasset Service Providers (D
 - (b) the time of making the report is presumed to be time recorded as such by the relevant electronic validation process, and
 - (c) the person delivering the report is presumed to be the person identified as such by any relevant feature of the electronic report system.
 
-### 8. Notification to reportable users and reportable persons[^key-4f485c13fd85c3af0a695dc6ce03010a][^key-713d96f02d3ec0b6548d86a3f9c4e1dd]
+### 8. Notification to reportable users and reportable persons[^c-4f485c13fd85c3af0a695dc6ce03010a][^c-713d96f02d3ec0b6548d86a3f9c4e1dd]
 
 (1) Where a UK reporting cryptoasset service provider must make a report under regulation 6(1) that will include information relating to a reportable user or a reportable person, it must notify that reportable user or reportable person that the information—
 
@@ -152,7 +152,7 @@ These Regulations may be cited as the Reporting Cryptoasset Service Providers (D
 
 (2) The notification must be made on or before 31st January following the first calendar year for which the UK reporting cryptoasset service provider must report information required by regulation 6 relating to that reportable user or reportable person.
 
-### 9. Provision of information to HMRC[^key-62cf8e7c7466fc78019c4839c01ae666]
+### 9. Provision of information to HMRC[^c-62cf8e7c7466fc78019c4839c01ae666]
 
 (1) In order to determine whether or not the obligations arising under these Regulations have been complied with, an officer of Revenue and Customs may require a reporting cryptoasset service provider on whom the officer reasonably suspects these Regulations impose obligations, to provide such information and documents as the officer reasonably requires as specified by written notice.
 
@@ -163,7 +163,7 @@ These Regulations may be cited as the Reporting Cryptoasset Service Providers (D
 
 as is reasonably required by the officer of Revenue and Customs.
 
-### 10. Registration with HMRC: UK reporting cryptoasset service providers[^key-c08f9088933981c08682e78ee870a337]
+### 10. Registration with HMRC: UK reporting cryptoasset service providers[^c-c08f9088933981c08682e78ee870a337]
 
 (1) A UK reporting cryptoasset service provider, and a reporting cryptoasset service provider which has lodged a notification under Section I(H) of the rules in accordance with regulation 3(2), must register with HMRC on or before the later of—
 
@@ -176,31 +176,31 @@ as is reasonably required by the officer of Revenue and Customs.
 
 ## Part 3 — Penalties for breach of obligations
 
-### 11. Penalties for failure to apply due diligence procedures[^key-27f97e190a5e9e18aa9c3870f5f7af0f]
+### 11. Penalties for failure to apply due diligence procedures[^c-27f97e190a5e9e18aa9c3870f5f7af0f]
 
 (1) Subject to paragraph (2), if a UK reporting cryptoasset service provider fails to comply with regulation 4(1), the UK reporting cryptoasset service provider is liable to a penalty not exceeding £100 for each reportable user or reportable person in respect of which the UK reporting cryptoasset service provider fails to apply the due diligence procedures in regulation 4(1).
 
 (2) Where the failure in question is a failure to obtain a valid self-certification required by the rules, the UK reporting cryptoasset service provider is liable to a penalty not exceeding £300 for each reportable user or reportable person in respect of which the UK reporting cryptoasset service provider fails to apply the due diligence procedures in regulation 4(1).
 
-### 12. Penalties for failure to comply with record-keeping requirements[^key-79cd5dc0935d0bac3848c74fa0ac60e3]
+### 12. Penalties for failure to comply with record-keeping requirements[^c-79cd5dc0935d0bac3848c74fa0ac60e3]
 
 If a UK reporting cryptoasset service provider fails to comply with regulation 4(2), the UK reporting cryptoasset service provider is liable to a penalty not exceeding £5,000 for each calendar year in respect of which one or more failures have occurred.
 
-### 13. Penalties for failure to provide a valid self-certification[^key-bdf436945a91c32f5e6fbc3ecc7b7e80]
+### 13. Penalties for failure to provide a valid self-certification[^c-bdf436945a91c32f5e6fbc3ecc7b7e80]
 
 If a self-certification provider fails to provide a self-certification under regulation 5 (provision of a valid self-certification), the self-certification provider is liable to a penalty not exceeding £300—
 
 - (a) where the failure is deliberate, or
 - (b) where the failure is due to a failure to take reasonable care.
 
-### 14. Penalties for late reports[^key-508de8f7ff4e625d879f45c549bed661]
+### 14. Penalties for late reports[^c-508de8f7ff4e625d879f45c549bed661]
 
 If a UK reporting cryptoasset service provider fails to make a report required under regulation 6(1) on or before the date specified in that paragraph, the UK reporting cryptoasset service provider is liable—
 
 - (a) to a penalty not exceeding £5,000, and
 - (b) if the failure continues after notice of assessment of a penalty under paragraph (a) is issued, to a penalty or penalties not exceeding £600 for each subsequent day on which any of the failures continue.
 
-### 15. Penalties for inaccurate or incomplete reports[^key-d41a6497bd9d8ede5ed7f60e5783b5f7]
+### 15. Penalties for inaccurate or incomplete reports[^c-d41a6497bd9d8ede5ed7f60e5783b5f7]
 
 If a UK reporting cryptoasset service provider makes a report under regulation 6(1) which contains inaccurate information, or which is incomplete, the UK reporting cryptoasset service provider is liable to a penalty not exceeding £100 for each cryptoasset user that is a reportable user or has controlling persons that are reportable persons in respect of which the information in the report is inaccurate or incomplete, where—
 
@@ -208,28 +208,28 @@ If a UK reporting cryptoasset service provider makes a report under regulation 6
 - (b) the inaccuracy or incompleteness is due to a failure to take reasonable care, or
 - (c) the UK reporting cryptoasset service provider discovers the inaccuracy or incompleteness some time later and fails to take reasonable steps to inform HMRC.
 
-### 16. Penalties for failure to provide notification to reportable users and reportable persons[^key-bf00be4f7791a2aaeb14400330b4fbad]
+### 16. Penalties for failure to provide notification to reportable users and reportable persons[^c-bf00be4f7791a2aaeb14400330b4fbad]
 
 If a UK reporting cryptoasset service provider fails to comply with regulation 8 (notification to reportable users and reportable persons), the UK reporting cryptoasset service provider is liable—
 
 - (a) to a penalty not exceeding £100 for each reportable person in respect of which one or more failures have occurred, and
 - (b) if any of the failures continue after notice of an assessment of a penalty under paragraph (a) is issued, to a penalty or penalties not exceeding £100 for each subsequent day on which any of the failures continue.
 
-### 17. Penalties for failure to provide information to HMRC[^key-62f8f70d4331cfa484e0519e7e609a7c]
+### 17. Penalties for failure to provide information to HMRC[^c-62f8f70d4331cfa484e0519e7e609a7c]
 
 If a reporting cryptoasset service provider fails to comply with regulation 9 (provision of information to HMRC), the reporting cryptoasset service provider is liable—
 
 - (a) to a penalty not exceeding £5,000 and
 - (b) if the failure continues after notice of an assessment of a penalty under paragraph (a) is issued, to a penalty or penalties not exceeding £600 for each subsequent day on which the failure occurs.
 
-### 18. Penalties for failure to register with HMRC[^key-0d5a905c2ddfacdc0fcf7895f950e6c0]
+### 18. Penalties for failure to register with HMRC[^c-0d5a905c2ddfacdc0fcf7895f950e6c0]
 
 If a reporting cryptoasset service provider fails to comply with regulation 10 (registration with HMRC: UK reporting cryptoasset service providers), the reporting cryptoasset service provider is liable—
 
 - (a) to a penalty not exceeding £1,000, and
 - (b) if the failure continues after notice of assessment of a penalty under paragraph (a) is issued, to a penalty or penalties not exceeding £300 for each subsequent day on which the failure occurs.
 
-### 19. Liable persons[^key-80b9caf0ff1c35974c3f7bd061e6ae2d]
+### 19. Liable persons[^c-80b9caf0ff1c35974c3f7bd061e6ae2d]
 
 (1) Where under this Part—
 
@@ -246,7 +246,7 @@ the liability to the penalty falls upon a liable person of the reporting cryptoa
 
 (3) In this regulation, “**collective investment scheme**” means any arrangements that are a “collective investment scheme” within the meaning of the Financial Services and Markets Act 2000[^f00005].
 
-### 20. Reasonable excuse[^key-e835b7292c266218a1185548a0ad20e4]
+### 20. Reasonable excuse[^c-e835b7292c266218a1185548a0ad20e4]
 
 (1) Liability to a penalty under this Part does not arise if the person satisfies an officer of Revenue and Customs or, on an appeal notified to the tribunal, the tribunal that there is a reasonable excuse for a failure to do anything required to be done under the applicable regulation.
 
@@ -257,13 +257,13 @@ the liability to the penalty falls upon a liable person of the reporting cryptoa
 
 (3) If a person had a reasonable excuse for a failure but the excuse has ceased, the person is to be treated as having continued to have the excuse if the failure is remedied without unreasonable delay after the excuse ceased.
 
-### 21. Duplication of liability to penalties[^key-11b8d30094db4e6a27f9f3efd0625aa5]
+### 21. Duplication of liability to penalties[^c-11b8d30094db4e6a27f9f3efd0625aa5]
 
 (1) A UK reporting cryptoasset service provider cannot be liable to penalties under any two or more of regulations 11 (failure to apply due diligence procedures), 12 (failure to comply with record-keeping requirements), and 15 (inaccurate or incomplete reports) in respect of the same act or omission.
 
 (2) Where, apart from paragraph (1), a UK reporting cryptoasset service provider would be so liable, the UK reporting cryptoasset service provider is liable to a penalty in respect of that act or omission under whichever of regulations 11, 12, or 15 is, in the opinion of an officer of Revenue and Customs, correct or appropriate in the circumstances.
 
-### 22. Assessment of penalties by HMRC[^key-6cb19350c7757df7c11c849510045d5b]
+### 22. Assessment of penalties by HMRC[^c-6cb19350c7757df7c11c849510045d5b]
 
 (1) An officer of Revenue and Customs may make an assessment imposing a penalty under any of regulations 11 to 18 and setting it at such amount as, in the opinion of the officer, is appropriate.
 
@@ -277,7 +277,7 @@ the liability to the penalty falls upon a liable person of the reporting cryptoa
 
 (4) If it is discovered by an officer of Revenue and Customs that the amount of a penalty under regulation 14(b), 16(b), 17(b) or 18(b) which has been assessed under this regulation is or has become insufficient, the officer may make an assessment in a further amount so that the penalty is set at the amount which, in the opinion of that officer, is appropriate.
 
-### 23. Time limit and treatment of penalties[^key-eadf80a68087b540d6e28969bf1c5cd0]
+### 23. Time limit and treatment of penalties[^c-eadf80a68087b540d6e28969bf1c5cd0]
 
 (1) An assessment of a penalty under regulation 12, 14, 16, 17, or 18 must be made within the period of 12 months beginning with the date on which the person became liable to the penalty.
 
@@ -290,14 +290,14 @@ the liability to the penalty falls upon a liable person of the reporting cryptoa
 
 (4) A penalty assessed under regulation 22 is to be treated for all purposes as if it were tax charged in an assessment and due and payable.
 
-### 24. Right to appeal against penalty assessments[^key-201c86e592d043bfff08ebb65002d947]
+### 24. Right to appeal against penalty assessments[^c-201c86e592d043bfff08ebb65002d947]
 
 An appeal may be brought against a penalty assessment under regulation 22—
 
 - (a) on the grounds that liability to a penalty under any of regulations 11 to 18 does not arise, or
 - (b) as to the amount of a penalty assessed under any of regulations 11 to 18.
 
-### 25. Procedure on appeal[^key-9709d3e5149e6a95b593c84d46e2808e]
+### 25. Procedure on appeal[^c-9709d3e5149e6a95b593c84d46e2808e]
 
 (1) Notice of an appeal under regulation 24 must—
 
@@ -318,7 +318,7 @@ An appeal may be brought against a penalty assessment under regulation 22—
 
 ## Part 4 — Supplementary
 
-### 26. Anti-avoidance[^key-72a2a2e2166be0f2ca1f1bd04ffeb2cb]
+### 26. Anti-avoidance[^c-72a2a2e2166be0f2ca1f1bd04ffeb2cb]
 
 If—
 
@@ -335,7 +335,7 @@ Two of the Lords Commissioners of His Majesty's Treasury
 
 24th June 2025
 
-## Schedule — Defined terms[^key-00b9fffa97eaddd7c8553374ffe1561a]
+## Schedule — Defined terms[^c-00b9fffa97eaddd7c8553374ffe1561a]
 
 Regulation 2(3)
 
@@ -372,72 +372,72 @@ A Tax Information and Impact Note (TIIN) covering this instrument will be publis
 
 [^f00002]: Footnote: [2023 c. 30](https://www.legislation.gov.uk/ukpga/2023/30). Section 349(2) was amended by section 82 of the Finance Act [2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8).
 
-[^key-b2b371f535de387d0f94d2526a498576]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-b2b371f535de387d0f94d2526a498576]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-e3e7661a542c20e3c84e32f75956f4c8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/744/regulation/2) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-e3e7661a542c20e3c84e32f75956f4c8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/744/regulation/2) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-75f347b3aac39bad8556bc61344c3966]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/744/regulation/2) applied (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 275(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/275/3)
+[^c-75f347b3aac39bad8556bc61344c3966]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/744/regulation/2) applied (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 275(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/275/3)
 
 [^f00003]: Footnote: The OECD Crypto-Asset Reporting Framework, first published in 2022 and subsequently amended in June 2023 and October 2023, is available at https://doi.org/10.1787/896d79d1-en and a hard copy is available for inspection at the offices of HMRC at 14 Westfield Avenue, Stratford, London E20 1HZ.
 
 [^f00004]: Footnote: As to which see section 22 of the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-0e7c8ee2d3837f1732a20c8c3b36fa94]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/744/regulation/3) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-0e7c8ee2d3837f1732a20c8c3b36fa94]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/744/regulation/3) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-c8bd61b6eb56dadb434d8b02f5d36c16]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/744/regulation/3) modified (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 275(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/275/4)
+[^c-c8bd61b6eb56dadb434d8b02f5d36c16]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/744/regulation/3) modified (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 275(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/275/4)
 
-[^key-1b50e5d765c535ffc2b93e0df9648c45]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/744/regulation/4) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-1b50e5d765c535ffc2b93e0df9648c45]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/744/regulation/4) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-151f204ceccbbe08672621d069ae8b75]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/744/regulation/5) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-151f204ceccbbe08672621d069ae8b75]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/744/regulation/5) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-22b7e98e3eaee5c29fffd299dc67240f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/744/regulation/6) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-22b7e98e3eaee5c29fffd299dc67240f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/744/regulation/6) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-557e34033aca17ff99e07c59f0587161]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/744/regulation/6) applied (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 275(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/275/1)
+[^c-557e34033aca17ff99e07c59f0587161]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/744/regulation/6) applied (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 275(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/275/1)
 
-[^key-e17ba0ccba11bad2e7c5b94c98518e74]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/744/regulation/7) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-e17ba0ccba11bad2e7c5b94c98518e74]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/744/regulation/7) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-4f485c13fd85c3af0a695dc6ce03010a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/744/regulation/8) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-4f485c13fd85c3af0a695dc6ce03010a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/744/regulation/8) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-713d96f02d3ec0b6548d86a3f9c4e1dd]: Modification: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/744/regulation/8) applied (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 275(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/275/2)
+[^c-713d96f02d3ec0b6548d86a3f9c4e1dd]: Modification: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/744/regulation/8) applied (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 275(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/275/2)
 
-[^key-62cf8e7c7466fc78019c4839c01ae666]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/744/regulation/9) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-62cf8e7c7466fc78019c4839c01ae666]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/744/regulation/9) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-c08f9088933981c08682e78ee870a337]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/744/regulation/10) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-c08f9088933981c08682e78ee870a337]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/744/regulation/10) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-27f97e190a5e9e18aa9c3870f5f7af0f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/744/regulation/11) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-27f97e190a5e9e18aa9c3870f5f7af0f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/744/regulation/11) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-79cd5dc0935d0bac3848c74fa0ac60e3]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/744/regulation/12) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-79cd5dc0935d0bac3848c74fa0ac60e3]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/744/regulation/12) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-bdf436945a91c32f5e6fbc3ecc7b7e80]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/744/regulation/13) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-bdf436945a91c32f5e6fbc3ecc7b7e80]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/744/regulation/13) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-508de8f7ff4e625d879f45c549bed661]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2025/744/regulation/14) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-508de8f7ff4e625d879f45c549bed661]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2025/744/regulation/14) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-d41a6497bd9d8ede5ed7f60e5783b5f7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2025/744/regulation/15) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-d41a6497bd9d8ede5ed7f60e5783b5f7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2025/744/regulation/15) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-bf00be4f7791a2aaeb14400330b4fbad]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2025/744/regulation/16) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-bf00be4f7791a2aaeb14400330b4fbad]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2025/744/regulation/16) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-62f8f70d4331cfa484e0519e7e609a7c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2025/744/regulation/17) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-62f8f70d4331cfa484e0519e7e609a7c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2025/744/regulation/17) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-0d5a905c2ddfacdc0fcf7895f950e6c0]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2025/744/regulation/18) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-0d5a905c2ddfacdc0fcf7895f950e6c0]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2025/744/regulation/18) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-80b9caf0ff1c35974c3f7bd061e6ae2d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2025/744/regulation/19) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-80b9caf0ff1c35974c3f7bd061e6ae2d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2025/744/regulation/19) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
 [^f00005]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). The meaning of “collective investment scheme” is given in section 235 of the Financial Services and Markets Act 2000. The power under section 235(5) to provide that arrangements do not amount to a collective investment scheme has been exercised by the Treasury by the following instruments: [S.I. 2001/1062](https://www.legislation.gov.uk/uksi/2001/1062), [2001/3650](https://www.legislation.gov.uk/uksi/2001/3650), [2005/57](https://www.legislation.gov.uk/uksi/2005/57), [2007/800](https://www.legislation.gov.uk/uksi/2007/800), [2008/1641](https://www.legislation.gov.uk/uksi/2008/1641), [2008/1813](https://www.legislation.gov.uk/uksi/2008/1813), [2015/754](https://www.legislation.gov.uk/uksi/2015/754), [2015/2061](https://www.legislation.gov.uk/uksi/2015/2061), [2021/90](https://www.legislation.gov.uk/uksi/2021/90), [2021/566](https://www.legislation.gov.uk/uksi/2021/566), [2022/466](https://www.legislation.gov.uk/uksi/2022/466) and [2025/17](https://www.legislation.gov.uk/uksi/2025/17).
 
-[^key-e835b7292c266218a1185548a0ad20e4]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2025/744/regulation/20) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-e835b7292c266218a1185548a0ad20e4]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2025/744/regulation/20) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-11b8d30094db4e6a27f9f3efd0625aa5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2025/744/regulation/21) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-11b8d30094db4e6a27f9f3efd0625aa5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2025/744/regulation/21) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-6cb19350c7757df7c11c849510045d5b]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2025/744/regulation/22) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-6cb19350c7757df7c11c849510045d5b]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2025/744/regulation/22) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-eadf80a68087b540d6e28969bf1c5cd0]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/744/regulation/23) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-eadf80a68087b540d6e28969bf1c5cd0]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/744/regulation/23) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-201c86e592d043bfff08ebb65002d947]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2025/744/regulation/24) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-201c86e592d043bfff08ebb65002d947]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2025/744/regulation/24) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-9709d3e5149e6a95b593c84d46e2808e]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2025/744/regulation/25) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-9709d3e5149e6a95b593c84d46e2808e]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2025/744/regulation/25) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
 [^f00006]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
-[^key-72a2a2e2166be0f2ca1f1bd04ffeb2cb]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2025/744/regulation/26) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-72a2a2e2166be0f2ca1f1bd04ffeb2cb]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2025/744/regulation/26) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
 
-[^key-00b9fffa97eaddd7c8553374ffe1561a]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2025/744/schedule) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+[^c-00b9fffa97eaddd7c8553374ffe1561a]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2025/744/schedule) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)

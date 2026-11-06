@@ -41,179 +41,179 @@ on establishing the ecological criteria for the award of the EU Ecolabel for cop
 
 (2011/333/EU) (repealed) (revoked)
 
-[^key-daf732193845e8256ccae2c7a2159337]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-daf732193845e8256ccae2c7a2159337]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-daf732193845e8256ccae2c7a2159337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-daf732193845e8256ccae2c7a2159337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-daf732193845e8256ccae2c7a2159337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-daf732193845e8256ccae2c7a2159337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-daf732193845e8256ccae2c7a2159337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-daf732193845e8256ccae2c7a2159337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-daf732193845e8256ccae2c7a2159337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-daf732193845e8256ccae2c7a2159337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-daf732193845e8256ccae2c7a2159337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-daf732193845e8256ccae2c7a2159337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-daf732193845e8256ccae2c7a2159337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-daf732193845e8256ccae2c7a2159337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-daf732193845e8256ccae2c7a2159337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-daf732193845e8256ccae2c7a2159337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-daf732193845e8256ccae2c7a2159337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-daf732193845e8256ccae2c7a2159337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-daf732193845e8256ccae2c7a2159337]
+## ANNEX[^c-daf732193845e8256ccae2c7a2159337]
 
-[^key-daf732193845e8256ccae2c7a2159337] FRAMEWORK
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-daf732193845e8256ccae2c7a2159337] The aims of the criteria
+[^c-daf732193845e8256ccae2c7a2159337] FRAMEWORK
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] CRITERIA
+[^c-daf732193845e8256ccae2c7a2159337] The aims of the criteria
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] Assessment and verification requirements
+[^c-daf732193845e8256ccae2c7a2159337] CRITERIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] EU ECOLABEL CRITERIA
+[^c-daf732193845e8256ccae2c7a2159337] Assessment and verification requirements
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] Criterion 1 —
+[^c-daf732193845e8256ccae2c7a2159337] EU ECOLABEL CRITERIA
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-daf732193845e8256ccae2c7a2159337] Criterion 1 —
 
 **Emissions to water and air**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] (a)
+[^c-daf732193845e8256ccae2c7a2159337] (a)
 
 COD, Sulphur (S), NOx, Phosphorous (P)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] (b)
+[^c-daf732193845e8256ccae2c7a2159337] (b)
 
 AOX
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] (c)
+[^c-daf732193845e8256ccae2c7a2159337] (c)
 
 CO<sub>2</sub>
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] Criterion 2 —
+[^c-daf732193845e8256ccae2c7a2159337] Criterion 2 —
 
 **Energy use**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] (a)
+[^c-daf732193845e8256ccae2c7a2159337] (a)
 
 Electricity
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] (b)
+[^c-daf732193845e8256ccae2c7a2159337] (b)
 
 Fuel (heat)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] Criterion 3 —
+[^c-daf732193845e8256ccae2c7a2159337] Criterion 3 —
 
 **Fibres: sustainable forest management**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] Criterion 4 —
+[^c-daf732193845e8256ccae2c7a2159337] Criterion 4 —
 
 **Excluded or limited substances and mixtures**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] (a)
+[^c-daf732193845e8256ccae2c7a2159337] (a)
 
 Hazardous substances and mixtures
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] (b)
+[^c-daf732193845e8256ccae2c7a2159337] (b)
 
 Substances listed in accordance with Article 59(1) of Regulation (EC) No 1907/2006
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] (c)
+[^c-daf732193845e8256ccae2c7a2159337] (c)
 
 Chlorine
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] (d)
+[^c-daf732193845e8256ccae2c7a2159337] (d)
 
 APEOs
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] (e)
+[^c-daf732193845e8256ccae2c7a2159337] (e)
 
 Residual monomers
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] (f)
+[^c-daf732193845e8256ccae2c7a2159337] (f)
 
 Surfactants in de-inking
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] (g)
+[^c-daf732193845e8256ccae2c7a2159337] (g)
 
 Biocides:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] (h)
+[^c-daf732193845e8256ccae2c7a2159337] (h)
 
 Azo dyes
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] (i)
+[^c-daf732193845e8256ccae2c7a2159337] (i)
 
 Metal complex dye stuffs or pigments
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] (j)
+[^c-daf732193845e8256ccae2c7a2159337] (j)
 
 Ionic impurities in dye stuffs
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] Criterion 5 —
+[^c-daf732193845e8256ccae2c7a2159337] Criterion 5 —
 
 **Waste management**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] Criterion 6 —
+[^c-daf732193845e8256ccae2c7a2159337] Criterion 6 —
 
 **Fitness for use**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] Criterion 7 —
+[^c-daf732193845e8256ccae2c7a2159337] Criterion 7 —
 
 **Information on the packaging**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf732193845e8256ccae2c7a2159337] Criterion 8 —
+[^c-daf732193845e8256ccae2c7a2159337] Criterion 8 —
 
 **Information appearing on the EU Ecolabel**
 
@@ -221,4 +221,4 @@ Ionic impurities in dye stuffs
 
 ## Annotations
 
-[^key-daf732193845e8256ccae2c7a2159337]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-daf732193845e8256ccae2c7a2159337]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

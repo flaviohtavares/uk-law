@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Commission Decision [1997/152/EC](https://www.legislation.gov.uk/european/decision/1997/0152) concerning the information to be entered in the computerized file of consignments of animals or animal products from third countries which are re-dispatched[^key-96cb31fc79f87d85f37fee9ffcfd27ad]
+## 39. Commission Decision [1997/152/EC](https://www.legislation.gov.uk/european/decision/1997/0152) concerning the information to be entered in the computerized file of consignments of animals or animal products from third countries which are re-dispatched[^c-96cb31fc79f87d85f37fee9ffcfd27ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96cb31fc79f87d85f37fee9ffcfd27ad]: Commencement: Reg. 39 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-96cb31fc79f87d85f37fee9ffcfd27ad]: Commencement: Reg. 39 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64A. Obligation of licensing authority in case of change of classification[^key-fa16e578c33aca2a5511b1ffb20f46e1]
+## 64A. Obligation of licensing authority in case of change of classification[^c-fa16e578c33aca2a5511b1ffb20f46e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa16e578c33aca2a5511b1ffb20f46e1]: Textual amendment: Reg. 64A inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [70](https://www.legislation.gov.uk/uksi/2019/775/regulation/70) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 53](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/53)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fa16e578c33aca2a5511b1ffb20f46e1]: Textual amendment: Reg. 64A inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [70](https://www.legislation.gov.uk/uksi/2019/775/regulation/70) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 53](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/53)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

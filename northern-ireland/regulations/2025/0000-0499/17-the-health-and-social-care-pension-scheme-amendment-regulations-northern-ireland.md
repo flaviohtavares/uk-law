@@ -50,15 +50,15 @@ In accordance with section 22(2)(b) of the 2014 Act, the Department has laid a r
 
 In accordance with Article 12(1) of the 1972 Order and section 3(5) of the 2014 Act, these Regulations are made with the consent of the Department of Finance.
 
-## 1. Citation and commencement[^key-2cf6b531da962d1f14f529a46bfa2644]
+## 1. Citation and commencement[^c-2cf6b531da962d1f14f529a46bfa2644]
 
 These Regulations may be cited as the Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2025 and come into operation on 1st April 2025.
 
-## 2. General[^key-0cd806b223197cbd2683c6bcf2298cc6]
+## 2. General[^c-0cd806b223197cbd2683c6bcf2298cc6]
 
 The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^f00003] are amended as provided by regulations 3 to 5.
 
-## 3. Amendment of regulation 30[^key-86a637743760aaa1d045eee9c9f688a2]
+## 3. Amendment of regulation 30[^c-86a637743760aaa1d045eee9c9f688a2]
 
 In regulation 30 (members’ contributions: employees)[^f00004]—
 
@@ -110,7 +110,7 @@ In regulation 30 (members’ contributions: employees)[^f00004]—
 
   .
 
-## 4. Amendment of regulation 31[^key-d0fcac42570c903c7dd6f1797eb95787]
+## 4. Amendment of regulation 31[^c-d0fcac42570c903c7dd6f1797eb95787]
 
 In regulation 31 (members’ contributions: practitioners and non-GP providers)[^f00005]—
 
@@ -145,7 +145,7 @@ In regulation 31 (members’ contributions: practitioners and non-GP providers)[
   .
 - (g) In paragraph (11) for “Table 3” substitute “Table 4”.
 
-## 5. Amendment of Schedule 13[^key-9b318ecf3a151436d1d9c3f4809bf6c3]
+## 5. Amendment of Schedule 13[^c-9b318ecf3a151436d1d9c3f4809bf6c3]
 
 Schedule 13 (definitions), for the entry in column 2 corresponding to the expression active member, for “124(1)” substitute “121(1)”.
 
@@ -191,18 +191,18 @@ Regulation 5 corrects a pre-existing error in the 2015 Regulations.
 
 [^f00002]: Footnote: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2) Section 3(1) and (2) were amended by section 94(2) and (3) of the Public Service Pensions and Judicial Offices Act [2022 (c.7)](https://www.legislation.gov.uk/ukpga/2022/7).
 
-[^key-2cf6b531da962d1f14f529a46bfa2644]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/17/regulation/1) in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/17/regulation/1)
+[^c-2cf6b531da962d1f14f529a46bfa2644]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/17/regulation/1) in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/17/regulation/1)
 
-[^key-0cd806b223197cbd2683c6bcf2298cc6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/17/regulation/2) in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/17/regulation/1)
+[^c-0cd806b223197cbd2683c6bcf2298cc6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/17/regulation/2) in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/17/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2015 No. 120](https://www.legislation.gov.uk/nisr/2015/120).
 
-[^key-86a637743760aaa1d045eee9c9f688a2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2025/17/regulation/3) in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/17/regulation/1)
+[^c-86a637743760aaa1d045eee9c9f688a2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2025/17/regulation/3) in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/17/regulation/1)
 
 [^f00004]: Footnote: Regulation 30 is amended by [S.R. 2019 No.62](https://www.legislation.gov.uk/nisr/2019/62), [S.R. 2022 No.33](https://www.legislation.gov.uk/nisr/2022/33), [S.R. 2022 No.244](https://www.legislation.gov.uk/nisr/2022/244), [S.R. 2024 No.116](https://www.legislation.gov.uk/nisr/2024/116) & [S.R. 2024 No 117](https://www.legislation.gov.uk/nisr/2024/117).
 
-[^key-d0fcac42570c903c7dd6f1797eb95787]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2025/17/regulation/4) in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/17/regulation/1)
+[^c-d0fcac42570c903c7dd6f1797eb95787]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2025/17/regulation/4) in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/17/regulation/1)
 
 [^f00005]: Footnote: Regulation 31 is amended by [S.R. 2019 No.62](https://www.legislation.gov.uk/nisr/2019/62), [S.R. 2022 No.33](https://www.legislation.gov.uk/nisr/2022/33), [S.R. 2022 No.244](https://www.legislation.gov.uk/nisr/2022/244)., [S.R. 2024 No.116](https://www.legislation.gov.uk/nisr/2024/116) & [S.R. 2024 No 117](https://www.legislation.gov.uk/nisr/2024/117).
 
-[^key-9b318ecf3a151436d1d9c3f4809bf6c3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2025/17/regulation/5) in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/17/regulation/1)
+[^c-9b318ecf3a151436d1d9c3f4809bf6c3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2025/17/regulation/5) in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/17/regulation/1)

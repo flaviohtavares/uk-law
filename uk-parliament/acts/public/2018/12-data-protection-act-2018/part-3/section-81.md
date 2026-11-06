@@ -25,7 +25,7 @@ summary: ''
 (2) The mechanisms implemented under subsection (1) must provide that an infringement may be reported to any of the following persons—
 
 - (a) the controller;
-- (b) the Commission[^key-1ebdb9263691caedc5a8cc9312dfe263].
+- (b) the Commission[^c-1ebdb9263691caedc5a8cc9312dfe263].
 
 (3) The mechanisms implemented under subsection (1) must include—
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^M_I_76da4643-8e05-4859-98a5-b82748f4a71d]: Commencement: S. 81 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
 
-[^key-1ebdb9263691caedc5a8cc9312dfe263]: Textual amendment: Word in s. 81(2)(b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-1ebdb9263691caedc5a8cc9312dfe263]: Textual amendment: Word in s. 81(2)(b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

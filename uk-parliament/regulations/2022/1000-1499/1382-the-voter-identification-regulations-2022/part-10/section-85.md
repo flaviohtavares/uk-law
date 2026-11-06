@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Amendment of regulation 60 (general requirements for applications for absent signing)[^key-a25fff1fc54ed73ae6df52224571aead]
+## 85. Amendment of regulation 60 (general requirements for applications for absent signing)[^c-a25fff1fc54ed73ae6df52224571aead]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 60 (general requirements for applications for absent signing), in 
 
 ## Annotations
 
-[^key-a25fff1fc54ed73ae6df52224571aead]: Commencement: Reg. 85 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-a25fff1fc54ed73ae6df52224571aead]: Commencement: Reg. 85 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

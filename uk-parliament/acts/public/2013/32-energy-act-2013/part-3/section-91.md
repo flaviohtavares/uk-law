@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Provision of services or facilities[^key-897d26437163d09bcf2208f265a0cfdb]
+## 91. Provision of services or facilities[^c-897d26437163d09bcf2208f265a0cfdb]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-897d26437163d09bcf2208f265a0cfdb]: Commencement: S. 91 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-897d26437163d09bcf2208f265a0cfdb]: Commencement: S. 91 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Arrangements with respect to payment of corporation tax.[^key-f887e79afc821ce9fa7953d3b9244bfd]
+## 36. Arrangements with respect to payment of corporation tax.[^c-f887e79afc821ce9fa7953d3b9244bfd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f887e79afc821ce9fa7953d3b9244bfd]: Textual amendment: [S. 36](https://www.legislation.gov.uk/ukpga/1998/36/section/36) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 82](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/82), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-f887e79afc821ce9fa7953d3b9244bfd]: Textual amendment: [S. 36](https://www.legislation.gov.uk/ukpga/1998/36/section/36) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 82](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/82), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. The Director of Fair Access to Higher Education[^key-9b1e98abdfb1a9e454a8f6cf80ebcb3b]
+## 82. The Director of Fair Access to Higher Education[^c-9b1e98abdfb1a9e454a8f6cf80ebcb3b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The office of Director of Fair Access to Higher Education ceases to exist.
 
 ## Annotations
 
-[^key-9b1e98abdfb1a9e454a8f6cf80ebcb3b]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2017/29/section/82) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/j)
+[^c-9b1e98abdfb1a9e454a8f6cf80ebcb3b]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2017/29/section/82) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/j)

@@ -79,11 +79,11 @@ Within the territorial sea these Regulations shall apply only to and in relation
 - “**the Biocides Regulation**” means Regulation (EU) No 528/2012 of the European Parliament and of the Council concerning the making available on the market and use of biocidal products, of which Annexes I to IV are to be read as amended from time to time;
 - “**the CLP Regulation**” means Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) and [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045), and amending Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907), of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;
 - “**the Commission**” means the Commission of the European Union;
-- “**competent authority**” means the authority or authorities appointed in a relevant state[^key-c971275d2096481f88d6c4f54ed530a1] for the purpose of carrying out the duties of a competent authority under the Biocides Regulation or the CLP Regulation;
+- “**competent authority**” means the authority or authorities appointed in a relevant state[^c-c971275d2096481f88d6c4f54ed530a1] for the purpose of carrying out the duties of a competent authority under the Biocides Regulation or the CLP Regulation;
 - “**the Department**” means the Department of Enterprise, Trade and Investment;
 - “**the Department concerned**” has the same meaning as in Article 2(2) of the 1978 Order;
 - “**inspector**” means a person appointed under Article 21 of the 1978 Order;
-- “[^key-885653f463eaf3d1ab6091b8cd3f3ea2]**relevant state**” means—
+- “[^c-885653f463eaf3d1ab6091b8cd3f3ea2]**relevant state**” means—
   - (a) Northern Ireland; or
   - (b) any EEA state.
 - “**territorial sea**” means the territorial sea of the United Kingdom adjacent to Northern Ireland and “**within the territorial sea**” includes on, over and under it;
@@ -127,7 +127,7 @@ For the purposes of Article 43 of the CLP Regulation the competent authority sha
 - (b) subject to regulations 20 and 21, Articles 31 to 39 (in relation to offences); and
 - (c) Article 43(2) (in relation to civil liability).
 
-(2) The Articles of the 1978 Order referred to in paragraph (1) shall not apply to duties placed by the Biocides Regulation on the competent authority or relevant state[^key-fcc90e8b79d1f1bd3ed5d891e73322ca].
+(2) The Articles of the 1978 Order referred to in paragraph (1) shall not apply to duties placed by the Biocides Regulation on the competent authority or relevant state[^c-fcc90e8b79d1f1bd3ed5d891e73322ca].
 
 (3) A failure by any person to discharge a duty referred to in paragraph (4) shall not constitute an offence under Article 31(1)(c) of the 1978 Order.
 
@@ -279,7 +279,7 @@ Schedule 1 shall have effect.
 
 #### 16. Application of the 1978 Order
 
-(1) The following provisions of the 1978 Order shall apply to the CLP Regulation as if it were health and safety regulations for the purposes of that Order, except that those Articles shall not apply to duties placed by the CLP Regulation on the competent authority or the relevant state[^key-c8ddb9c250910750f8d26fcee87cd7b5]—
+(1) The following provisions of the 1978 Order shall apply to the CLP Regulation as if it were health and safety regulations for the purposes of that Order, except that those Articles shall not apply to duties placed by the CLP Regulation on the competent authority or the relevant state[^c-c8ddb9c250910750f8d26fcee87cd7b5]—
 
 - (a) Articles 20 to 30 (in relation to enforcement);
 - (b) subject to regulations 20 and 21, Articles 31 to 39 (in relation to offences); and
@@ -311,7 +311,7 @@ Schedule 1 shall have effect.
 (1) A person shall be exempt from compliance with provisions imposing requirements or prohibitions in the Biocides Regulation or the CLP Regulation, if that person—
 
 - (a) has the benefit of a defence exemption certificate made by the Secretary of State in respect of that provision; or
-- (b) can demonstrate that the appropriate authorities of another relevant state[^key-89abf858257650c6a37441f8fdecc3a3] have exempted that person from compliance in the interests of defence.
+- (b) can demonstrate that the appropriate authorities of another relevant state[^c-89abf858257650c6a37441f8fdecc3a3] have exempted that person from compliance in the interests of defence.
 
 (2) Schedule 2 (defence exemption certificates) shall have effect.
 
@@ -353,9 +353,9 @@ The following provisions of the 2009 Regulations are revoked—
 
 - (a) regulation 5;
 - (b) regulations 4, 6 to 11 and 13, with effect from 1st June 2015;
-- (c) except to the extent that they continue to apply for the purposes of enforcing regulation 12 of the 2009 Regulations, regulations 14 to 18, with effect from 1st June 2015; [^key-acbd2dfab472c7bda44d00efdbed9f68]...
-- (d)[^key-4c55cee59b91cb8b512f03462d037cdf] regulation 5A, with effect from 1st June 2017; and
-- (e)[^key-f77e328dd4c47f3bfc99fd17202f07c5] regulations 2, 3 and 12, with effect from 1st June 2018.
+- (c) except to the extent that they continue to apply for the purposes of enforcing regulation 12 of the 2009 Regulations, regulations 14 to 18, with effect from 1st June 2015; [^c-acbd2dfab472c7bda44d00efdbed9f68]...
+- (d)[^c-4c55cee59b91cb8b512f03462d037cdf] regulation 5A, with effect from 1st June 2017; and
+- (e)[^c-f77e328dd4c47f3bfc99fd17202f07c5] regulations 2, 3 and 12, with effect from 1st June 2018.
 
 ### 25.
 
@@ -497,7 +497,7 @@ Regulation 18(2)
 
 - (a) an enforcing authority;
 - (b) a competent authority;
-- (c) the equivalent of an enforcing authority of another relevant state[^key-038252bf4066b4c46284d74c24cd5f0a];
+- (c) the equivalent of an enforcing authority of another relevant state[^c-038252bf4066b4c46284d74c24cd5f0a];
 - (d) the European Chemicals Agency.
 
 **8.** Unless the contrary is proved—
@@ -827,13 +827,13 @@ In Great Britain the corresponding legislation is the Biocidal Products and Chem
 
 [^c21875911]: Marginal citation: S.R. [2009 No.238](https://www.legislation.gov.uk/ukcm/2009/238), as amended by S.R. [2009 No. 273](https://www.legislation.gov.uk/ukcm/2009/273). S.R. [2010 No. 160](https://www.legislation.gov.uk/ukcm/2010/160) and S.R. [2011 No. 295](https://www.legislation.gov.uk/ukcm/2011/295)
 
-[^key-c971275d2096481f88d6c4f54ed530a1]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/4/1) substituted (23.2.2026) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment) (EU Exit) Regulations (Northern Ireland) 2026 (S.R. 2026/9)](https://www.legislation.gov.uk/nisr/2026/9), [regs. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2026/9/regulation/2/2/a)
+[^c-c971275d2096481f88d6c4f54ed530a1]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/4/1) substituted (23.2.2026) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment) (EU Exit) Regulations (Northern Ireland) 2026 (S.R. 2026/9)](https://www.legislation.gov.uk/nisr/2026/9), [regs. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2026/9/regulation/2/2/a)
 
-[^key-885653f463eaf3d1ab6091b8cd3f3ea2]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/4/1) inserted (23.2.2026) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment) (EU Exit) Regulations (Northern Ireland) 2026 (S.R. 2026/9)](https://www.legislation.gov.uk/nisr/2026/9), [regs. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2026/9/regulation/2/2/b)
+[^c-885653f463eaf3d1ab6091b8cd3f3ea2]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/4/1) inserted (23.2.2026) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment) (EU Exit) Regulations (Northern Ireland) 2026 (S.R. 2026/9)](https://www.legislation.gov.uk/nisr/2026/9), [regs. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2026/9/regulation/2/2/b)
 
 [^c21875921]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-fcc90e8b79d1f1bd3ed5d891e73322ca]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2013/206/regulation/7/2) substituted (23.2.2026) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment) (EU Exit) Regulations (Northern Ireland) 2026 (S.R. 2026/9)](https://www.legislation.gov.uk/nisr/2026/9), [regs. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2026/9/regulation/2/3)
+[^c-fcc90e8b79d1f1bd3ed5d891e73322ca]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2013/206/regulation/7/2) substituted (23.2.2026) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment) (EU Exit) Regulations (Northern Ireland) 2026 (S.R. 2026/9)](https://www.legislation.gov.uk/nisr/2026/9), [regs. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2026/9/regulation/2/3)
 
 [^c21875931]: Marginal citation: OJ L 325, 11.12.2007, p.3.
 
@@ -843,13 +843,13 @@ In Great Britain the corresponding legislation is the Biocidal Products and Chem
 
 [^c21875961]: Marginal citation: S.R. [2001 No. 422](https://www.legislation.gov.uk/ukcm/2001/422), as amended by S.R. [2002 No. 302](https://www.legislation.gov.uk/ukcm/2002/302), [S.I](https://www.legislation.gov.uk/ukcm/2002/302/section/I). 2003/429, [S.I. 2005/2451](https://www.legislation.gov.uk/uksi/2005/2451), S.R. [2007 No. 190](https://www.legislation.gov.uk/ukcm/2007/190), S.R. [2009 No. 238](https://www.legislation.gov.uk/ukcm/2009/238), S.R. [2010 No. 163](https://www.legislation.gov.uk/ukcm/2010/163), S.R. [2011 No. 295](https://www.legislation.gov.uk/ukcm/2011/295)
 
-[^key-c8ddb9c250910750f8d26fcee87cd7b5]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/16/1) substituted (23.2.2026) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment) (EU Exit) Regulations (Northern Ireland) 2026 (S.R. 2026/9)](https://www.legislation.gov.uk/nisr/2026/9), [regs. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2026/9/regulation/2/4)
+[^c-c8ddb9c250910750f8d26fcee87cd7b5]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/16/1) substituted (23.2.2026) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment) (EU Exit) Regulations (Northern Ireland) 2026 (S.R. 2026/9)](https://www.legislation.gov.uk/nisr/2026/9), [regs. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2026/9/regulation/2/4)
 
 [^c21875971]: Marginal citation: [1968 c.67](https://www.legislation.gov.uk/ukpga/1968/67): section 75(8) was amended by [S.I. 1968/1699](https://www.legislation.gov.uk/uksi/1968/1699)
 
 [^c21875981]: Marginal citation: [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43); [section 11(7)(c)](https://www.legislation.gov.uk/nisr/2013/206/section/11/7/c) was amended by SI 1996/275 (N.I. 2), Article 71(1) and Schedule 6
 
-[^key-89abf858257650c6a37441f8fdecc3a3]: Textual amendment: Words in [reg. 18(1)(b)](https://www.legislation.gov.uk/nisr/2013/206/regulation/18/1/b) substituted (23.2.2026) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment) (EU Exit) Regulations (Northern Ireland) 2026 (S.R. 2026/9)](https://www.legislation.gov.uk/nisr/2026/9), [regs. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2026/9/regulation/2/5)
+[^c-89abf858257650c6a37441f8fdecc3a3]: Textual amendment: Words in [reg. 18(1)(b)](https://www.legislation.gov.uk/nisr/2013/206/regulation/18/1/b) substituted (23.2.2026) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment) (EU Exit) Regulations (Northern Ireland) 2026 (S.R. 2026/9)](https://www.legislation.gov.uk/nisr/2026/9), [regs. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2026/9/regulation/2/5)
 
 [^c21875991]: Marginal citation: S.R. [2002 No.302](https://www.legislation.gov.uk/ukcm/2002/302)
 
@@ -857,17 +857,17 @@ In Great Britain the corresponding legislation is the Biocidal Products and Chem
 
 [^c21876011]: Marginal citation: S.R. [2010 No.163](https://www.legislation.gov.uk/ukcm/2010/163)
 
-[^key-acbd2dfab472c7bda44d00efdbed9f68]: Textual amendment: Word in [reg. 24(c)](https://www.legislation.gov.uk/nisr/2013/206/regulation/24/c) deleted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [15(2)(a)](https://www.legislation.gov.uk/nisr/2015/265/regulation/15/2/a)
+[^c-acbd2dfab472c7bda44d00efdbed9f68]: Textual amendment: Word in [reg. 24(c)](https://www.legislation.gov.uk/nisr/2013/206/regulation/24/c) deleted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [15(2)(a)](https://www.legislation.gov.uk/nisr/2015/265/regulation/15/2/a)
 
-[^key-4c55cee59b91cb8b512f03462d037cdf]: Textual amendment: [Reg. 24(d)](https://www.legislation.gov.uk/nisr/2013/206/regulation/24/d) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [15(2)(b)](https://www.legislation.gov.uk/nisr/2015/265/regulation/15/2/b)
+[^c-4c55cee59b91cb8b512f03462d037cdf]: Textual amendment: [Reg. 24(d)](https://www.legislation.gov.uk/nisr/2013/206/regulation/24/d) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [15(2)(b)](https://www.legislation.gov.uk/nisr/2015/265/regulation/15/2/b)
 
-[^key-f77e328dd4c47f3bfc99fd17202f07c5]: Textual amendment: [Reg. 24(e)](https://www.legislation.gov.uk/nisr/2013/206/regulation/24/e) inserted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [15(2)(c)](https://www.legislation.gov.uk/nisr/2015/265/regulation/15/2/c)
+[^c-f77e328dd4c47f3bfc99fd17202f07c5]: Textual amendment: [Reg. 24(e)](https://www.legislation.gov.uk/nisr/2013/206/regulation/24/e) inserted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [15(2)(c)](https://www.legislation.gov.uk/nisr/2015/265/regulation/15/2/c)
 
 [^c21876021]: Marginal citation: S.R. [1987 No.414](https://www.legislation.gov.uk/ukcm/1987/414)
 
 [^c21876031]: Marginal citation: OJ No. L309, 24.11.2009, p.1.
 
-[^key-038252bf4066b4c46284d74c24cd5f0a]: Textual amendment: Words in [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/nisr/2013/206/schedule/2/paragraph/7/c) substituted (23.2.2026) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment) (EU Exit) Regulations (Northern Ireland) 2026 (S.R. 2026/9)](https://www.legislation.gov.uk/nisr/2026/9), [regs. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2026/9/regulation/2/6)
+[^c-038252bf4066b4c46284d74c24cd5f0a]: Textual amendment: Words in [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/nisr/2013/206/schedule/2/paragraph/7/c) substituted (23.2.2026) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment) (EU Exit) Regulations (Northern Ireland) 2026 (S.R. 2026/9)](https://www.legislation.gov.uk/nisr/2026/9), [regs. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2026/9/regulation/2/6)
 
 [^c21876041]: Marginal citation: [1985 No. 171](https://www.legislation.gov.uk/ukcm/1985/171) (N.I. 2); [Article 15B](https://www.legislation.gov.uk/nisr/2013/206/article/15B) inserted by Wildlife and Natural Environment Act (NI) 2011, [2011 c.15](https://www.legislation.gov.uk/ukpga/2011/15)
 

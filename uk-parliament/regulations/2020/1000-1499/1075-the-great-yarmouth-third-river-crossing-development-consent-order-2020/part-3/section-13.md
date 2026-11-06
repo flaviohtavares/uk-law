@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Classification of roads[^key-a7635e3c6a2290c161beb2425f1b4caf]
+## 13. Classification of roads[^c-a7635e3c6a2290c161beb2425f1b4caf]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ as if such classification had been made under section 12(3) (general provision a
 
 ## Annotations
 
-[^key-a7635e3c6a2290c161beb2425f1b4caf]: Commencement: Art. 13 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-a7635e3c6a2290c161beb2425f1b4caf]: Commencement: Art. 13 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

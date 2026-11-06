@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Register of authorisations[^key-b584c1f5d4bbd0d35bebc2fefd9bb1a2]
+## 10. Register of authorisations[^c-b584c1f5d4bbd0d35bebc2fefd9bb1a2]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b584c1f5d4bbd0d35bebc2fefd9bb1a2]: Commencement: S. 10 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-b584c1f5d4bbd0d35bebc2fefd9bb1a2]: Commencement: S. 10 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

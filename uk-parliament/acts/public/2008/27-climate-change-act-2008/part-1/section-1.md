@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) It is the duty of the Secretary of State to ensure that the net UK carbon account for the year 2050 is at least 100%[^key-d4737b57d602aed69cf130f6872b5abe] lower than the 1990 baseline.
+(1) It is the duty of the Secretary of State to ensure that the net UK carbon account for the year 2050 is at least 100%[^c-d4737b57d602aed69cf130f6872b5abe] lower than the 1990 baseline.
 
 (2) “**The 1990 baseline**” means the aggregate amount of—
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4737b57d602aed69cf130f6872b5abe]: Textual amendment: Word in [s. 1(1)](https://www.legislation.gov.uk/ukpga/2008/27/section/1/1) substituted (27.6.2019) by [The Climate Change Act 2008 (2050 Target Amendment) Order 2019 (S.I. 2019/1056)](https://www.legislation.gov.uk/uksi/2019/1056), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1056/article/1), [2](https://www.legislation.gov.uk/uksi/2019/1056/article/2)
+[^c-d4737b57d602aed69cf130f6872b5abe]: Textual amendment: Word in [s. 1(1)](https://www.legislation.gov.uk/ukpga/2008/27/section/1/1) substituted (27.6.2019) by [The Climate Change Act 2008 (2050 Target Amendment) Order 2019 (S.I. 2019/1056)](https://www.legislation.gov.uk/uksi/2019/1056), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1056/article/1), [2](https://www.legislation.gov.uk/uksi/2019/1056/article/2)

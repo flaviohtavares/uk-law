@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Guidance about general best value duty[^key-ce8cdd4e9813c21bc0fe34108983c216][^key-60401dd5acf638311c8043f41f6aff0c]
+## 137. Guidance about general best value duty[^c-ce8cdd4e9813c21bc0fe34108983c216][^c-60401dd5acf638311c8043f41f6aff0c]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ In section 3 of the Local Government Act 1999 (c. 27) (best value authorities: g
 
 ## Annotations
 
-[^key-ce8cdd4e9813c21bc0fe34108983c216]: Commencement: S. 137 in force at 1.4.2008 in relation to E. and police authorities in W. by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/b)
+[^c-ce8cdd4e9813c21bc0fe34108983c216]: Commencement: S. 137 in force at 1.4.2008 in relation to E. and police authorities in W. by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/b)
 
-[^key-60401dd5acf638311c8043f41f6aff0c]: Commencement: S. 137 in force at 1.4.2008 for W. save in relation to a police authority for a police area in Wales by [S.I. 2008/591](https://www.legislation.gov.uk/uksi/2008/591), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/591/article/2/a)
+[^c-60401dd5acf638311c8043f41f6aff0c]: Commencement: S. 137 in force at 1.4.2008 for W. save in relation to a police authority for a police area in Wales by [S.I. 2008/591](https://www.legislation.gov.uk/uksi/2008/591), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/591/article/2/a)

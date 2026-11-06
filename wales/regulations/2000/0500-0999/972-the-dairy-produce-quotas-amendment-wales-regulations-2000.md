@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Dairy Produce Quotas (Amendment) (Wales) Regulations 2000 (revoked)[^key-8bcf1c1e104f8e99984a17b3ef7fe6ed]
+The Dairy Produce Quotas (Amendment) (Wales) Regulations 2000 (revoked)[^c-8bcf1c1e104f8e99984a17b3ef7fe6ed]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into force
 
 1st April 2000
 
-[^key-8bcf1c1e104f8e99984a17b3ef7fe6ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8bcf1c1e104f8e99984a17b3ef7fe6ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-8bcf1c1e104f8e99984a17b3ef7fe6ed]
+## 1. Title and commencement[^c-8bcf1c1e104f8e99984a17b3ef7fe6ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Dairy Produce Quotas Regulations 1997[^key-8bcf1c1e104f8e99984a17b3ef7fe6ed]
+## 2. Amendment of the Dairy Produce Quotas Regulations 1997[^c-8bcf1c1e104f8e99984a17b3ef7fe6ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-8bcf1c1e104f8e99984a17b3ef7fe6ed]
+## 3.[^c-8bcf1c1e104f8e99984a17b3ef7fe6ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-8bcf1c1e104f8e99984a17b3ef7fe6ed]
+## 4.[^c-8bcf1c1e104f8e99984a17b3ef7fe6ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-8bcf1c1e104f8e99984a17b3ef7fe6ed]
+## 5.[^c-8bcf1c1e104f8e99984a17b3ef7fe6ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-8bcf1c1e104f8e99984a17b3ef7fe6ed]
+## 6.[^c-8bcf1c1e104f8e99984a17b3ef7fe6ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-8bcf1c1e104f8e99984a17b3ef7fe6ed]
+## 7.[^c-8bcf1c1e104f8e99984a17b3ef7fe6ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8bcf1c1e104f8e99984a17b3ef7fe6ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8bcf1c1e104f8e99984a17b3ef7fe6ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8bcf1c1e104f8e99984a17b3ef7fe6ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8bcf1c1e104f8e99984a17b3ef7fe6ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8bcf1c1e104f8e99984a17b3ef7fe6ed]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2000/972) revoked (31.3.2002) by [The Dairy Produce Quotas (Wales) Regulations 2002 (revoked) 2002 (S.I. 2002/897)](https://www.legislation.gov.uk/wsi/2002/897), [regs. 1](https://www.legislation.gov.uk/wsi/2002/897/regulation/1), [35(1)](https://www.legislation.gov.uk/wsi/2002/897/regulation/35/1), [Sch. 4](https://www.legislation.gov.uk/wsi/2002/897/schedule/4)
+[^c-8bcf1c1e104f8e99984a17b3ef7fe6ed]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2000/972) revoked (31.3.2002) by [The Dairy Produce Quotas (Wales) Regulations 2002 (revoked) 2002 (S.I. 2002/897)](https://www.legislation.gov.uk/wsi/2002/897), [regs. 1](https://www.legislation.gov.uk/wsi/2002/897/regulation/1), [35(1)](https://www.legislation.gov.uk/wsi/2002/897/regulation/35/1), [Sch. 4](https://www.legislation.gov.uk/wsi/2002/897/schedule/4)

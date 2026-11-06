@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Competence[^key-bc4323a9edbbd56bb3c51afbe36fba66]
+## 11. Competence[^c-bc4323a9edbbd56bb3c51afbe36fba66]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ The mine operator shall ensure that—
 
 ## Annotations
 
-[^key-bc4323a9edbbd56bb3c51afbe36fba66]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2016/427/regulation/11) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-bc4323a9edbbd56bb3c51afbe36fba66]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2016/427/regulation/11) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

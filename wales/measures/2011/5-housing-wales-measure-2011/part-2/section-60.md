@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Warning[^key-2580b55d947d9e5d8a063a67cf214803]
+## 60. Warning[^c-2580b55d947d9e5d8a063a67cf214803]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ After section 50J of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-2580b55d947d9e5d8a063a67cf214803]: Commencement: [S. 60](https://www.legislation.gov.uk/mwa/2011/5/section/60) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(l)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/l)
+[^c-2580b55d947d9e5d8a063a67cf214803]: Commencement: [S. 60](https://www.legislation.gov.uk/mwa/2011/5/section/60) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(l)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/l)

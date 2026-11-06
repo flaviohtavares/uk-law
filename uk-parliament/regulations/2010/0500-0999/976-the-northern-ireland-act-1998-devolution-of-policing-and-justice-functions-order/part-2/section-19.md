@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19.[^key-6721494bc0f7433da33e33e37b84326d]
+## 19.[^c-6721494bc0f7433da33e33e37b84326d]
 
 *Extent: E+W+S+N.I.*
 
@@ -93,7 +93,7 @@ transfer on that date to the Northern Ireland Civil Service to be employed in th
 
 ## Annotations
 
-[^key-6721494bc0f7433da33e33e37b84326d]: Commencement: Art. 19 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-6721494bc0f7433da33e33e37b84326d]: Commencement: Art. 19 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00032]: Footnote: [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283). A reference to the Department of Justice is inserted into Schedule 1 by section 1(3) of the Department of Justice Act (Northern Ireland) [2010 (c. 3) (N.I.)](https://www.legislation.gov.uk/nia/2010/3).
 

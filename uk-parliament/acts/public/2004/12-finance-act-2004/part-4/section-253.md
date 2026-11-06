@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 253. Appeal against notices[^key-5d081131d7c8447d9b825d53823da17c]
+## 253. Appeal against notices[^c-5d081131d7c8447d9b825d53823da17c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d081131d7c8447d9b825d53823da17c]: Textual amendment: S. 253 omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/13) (with [art. 8](https://www.legislation.gov.uk/uksi/2009/3054/article/8))
+[^c-5d081131d7c8447d9b825d53823da17c]: Textual amendment: S. 253 omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/13) (with [art. 8](https://www.legislation.gov.uk/uksi/2009/3054/article/8))

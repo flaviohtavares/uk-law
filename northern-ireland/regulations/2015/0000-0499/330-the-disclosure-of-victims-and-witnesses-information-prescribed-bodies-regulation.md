@@ -42,15 +42,15 @@ Coming into operation
 
 The Department of Justice, in exercise of the powers conferred by section 36 of, and paragraph 6(1) of Schedule 3 to, the Justice Act (Northern Ireland) 2015[^f00001], makes the following Regulations.
 
-## 1. Citation and commencement[^key-0d8e37c7f1472ba6c9d938b63113dbcb]
+## 1. Citation and commencement[^c-0d8e37c7f1472ba6c9d938b63113dbcb]
 
 These Regulations may be cited as the Disclosure of Victims' and Witnesses' Information (Prescribed Bodies) Regulations (Northern Ireland) 2015 and shall come into operation on 15th November 2015.
 
-## 2. Interpretation[^key-42b8e6855b708c45a82951c29548c56f]
+## 2. Interpretation[^c-42b8e6855b708c45a82951c29548c56f]
 
 In these Regulations "the Act" means the Justice Act (Northern Ireland) 2015.
 
-## 3. Prescribed bodies[^key-6ef025b3981a340cf8e8f15f93c17ed1]
+## 3. Prescribed bodies[^c-6ef025b3981a340cf8e8f15f93c17ed1]
 
 (1) The following bodies are prescribed for the purposes of paragraph 1(1) of Schedule 3 to the Act-
 
@@ -59,7 +59,7 @@ In these Regulations "the Act" means the Justice Act (Northern Ireland) 2015.
 
 (2) In this regulation, “**support services**” has the same meaning as in paragraph 1(2) of Schedule 3 to the Act.
 
-## 4.[^key-2a6ec391c059166e6bf536acd8422af6]
+## 4.[^c-2a6ec391c059166e6bf536acd8422af6]
 
 (1) The following bodies are prescribed for the purposes of paragraph 2(1) of Schedule 3 to the Act─
 
@@ -91,10 +91,10 @@ These Regulations prescribe Victim Support Northern Ireland as a body for the pu
 
 [^f00001]: Footnote: [2015 c.9 (N.I.)](https://www.legislation.gov.uk/nia/2015/9).
 
-[^key-0d8e37c7f1472ba6c9d938b63113dbcb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/330/regulation/1) in operation at 15.11.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/330/regulation/1)
+[^c-0d8e37c7f1472ba6c9d938b63113dbcb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/330/regulation/1) in operation at 15.11.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/330/regulation/1)
 
-[^key-42b8e6855b708c45a82951c29548c56f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/330/regulation/2) in operation at 15.11.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/330/regulation/1)
+[^c-42b8e6855b708c45a82951c29548c56f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/330/regulation/2) in operation at 15.11.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/330/regulation/1)
 
-[^key-6ef025b3981a340cf8e8f15f93c17ed1]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/330/regulation/3) substituted (2.2.2026) by [The Disclosure of Victims’ and Witnesses’ Information (Prescribed Bodies) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/10)](https://www.legislation.gov.uk/nisr/2026/10), [regs. 1](https://www.legislation.gov.uk/nisr/2026/10/regulation/1), [2(1)](https://www.legislation.gov.uk/nisr/2026/10/regulation/2/1)
+[^c-6ef025b3981a340cf8e8f15f93c17ed1]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/330/regulation/3) substituted (2.2.2026) by [The Disclosure of Victims’ and Witnesses’ Information (Prescribed Bodies) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/10)](https://www.legislation.gov.uk/nisr/2026/10), [regs. 1](https://www.legislation.gov.uk/nisr/2026/10/regulation/1), [2(1)](https://www.legislation.gov.uk/nisr/2026/10/regulation/2/1)
 
-[^key-2a6ec391c059166e6bf536acd8422af6]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/330/regulation/4) substituted (2.2.2026) by [The Disclosure of Victims’ and Witnesses’ Information (Prescribed Bodies) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/10)](https://www.legislation.gov.uk/nisr/2026/10), [regs. 1](https://www.legislation.gov.uk/nisr/2026/10/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2026/10/regulation/2/2)
+[^c-2a6ec391c059166e6bf536acd8422af6]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/330/regulation/4) substituted (2.2.2026) by [The Disclosure of Victims’ and Witnesses’ Information (Prescribed Bodies) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/10)](https://www.legislation.gov.uk/nisr/2026/10), [regs. 1](https://www.legislation.gov.uk/nisr/2026/10/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2026/10/regulation/2/2)

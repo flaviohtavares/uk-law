@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22J. Accommodation of looked after children: regional co-operation arrangements[^key-7c12101661a376fa057dbe99fe5f6e5f]
+## 22J. Accommodation of looked after children: regional co-operation arrangements[^c-7c12101661a376fa057dbe99fe5f6e5f]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c12101661a376fa057dbe99fe5f6e5f]: Textual amendment: [S. 22J and cross-heading](https://www.legislation.gov.uk/ukpga/1989/41/part/III/crossheading/accommodation-of-looked-after-children-regional-cooperation-arrangements) inserted (29.4.2026 for specified purposes, 15.7.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/12/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/b)
+[^c-7c12101661a376fa057dbe99fe5f6e5f]: Textual amendment: [S. 22J and cross-heading](https://www.legislation.gov.uk/ukpga/1989/41/part/III/crossheading/accommodation-of-looked-after-children-regional-cooperation-arrangements) inserted (29.4.2026 for specified purposes, 15.7.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/12/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/b)

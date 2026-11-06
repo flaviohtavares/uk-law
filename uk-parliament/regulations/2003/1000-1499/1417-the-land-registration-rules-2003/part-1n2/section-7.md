@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-Where practicable, the[^key-3e17a2421cbaab10cfa931ed0beec8d4] property register of a registered estate in a rentcharge, franchise or a profit a prendre in gross must, if the estate was created by an instrument, also contain sufficient particulars of the instrument to enable it to be identified.
+Where practicable, the[^c-3e17a2421cbaab10cfa931ed0beec8d4] property register of a registered estate in a rentcharge, franchise or a profit a prendre in gross must, if the estate was created by an instrument, also contain sufficient particulars of the instrument to enable it to be identified.
 
 ## Annotations
 
-[^key-3e17a2421cbaab10cfa931ed0beec8d4]: Textual amendment: Words in rule 7 substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/3) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-3e17a2421cbaab10cfa931ed0beec8d4]: Textual amendment: Words in rule 7 substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/3) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

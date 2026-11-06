@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Entry to residential units for purpose of repairs[^key-7949828ede54c8eb5c30528cee68b438]
+## 57. Entry to residential units for purpose of repairs[^c-7949828ede54c8eb5c30528cee68b438]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7949828ede54c8eb5c30528cee68b438]: Commencement: S. 57 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-7949828ede54c8eb5c30528cee68b438]: Commencement: S. 57 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

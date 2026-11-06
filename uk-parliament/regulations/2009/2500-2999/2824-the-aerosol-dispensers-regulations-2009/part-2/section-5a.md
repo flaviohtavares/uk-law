@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. Obligations that are met by complying with obligations in the Directive[^key-a2d108c690a812360bdcc21fb72e8124]
+## 5A. Obligations that are met by complying with obligations in the Directive[^c-a2d108c690a812360bdcc21fb72e8124]
 
 *Extent: E+W+S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2d108c690a812360bdcc21fb72e8124]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2009/2824/regulation/5A) substituted (1.10.2024) by [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/5/2) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))
+[^c-a2d108c690a812360bdcc21fb72e8124]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2009/2824/regulation/5A) substituted (1.10.2024) by [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/5/2) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Public defence solicitors[^key-ce3b23fa7bfa59ef2a29403b086f6475]
+## 112. Public defence solicitors[^c-ce3b23fa7bfa59ef2a29403b086f6475]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce3b23fa7bfa59ef2a29403b086f6475]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2010/13/section/112) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-ce3b23fa7bfa59ef2a29403b086f6475]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2010/13/section/112) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

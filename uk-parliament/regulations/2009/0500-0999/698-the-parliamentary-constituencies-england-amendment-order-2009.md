@@ -34,7 +34,7 @@ Representation Of The People, England
 
 Redistribution Of Seats
 
-The Parliamentary Constituencies (England) (Amendment) Order 2009 (revoked)[^key-8ca50ae0055a503a5e170cca3b821d51]
+The Parliamentary Constituencies (England) (Amendment) Order 2009 (revoked)[^c-8ca50ae0055a503a5e170cca3b821d51]
 
 Made
 
@@ -48,27 +48,27 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-8ca50ae0055a503a5e170cca3b821d51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ca50ae0055a503a5e170cca3b821d51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8ca50ae0055a503a5e170cca3b821d51]
+## 1. Citation and commencement[^c-8ca50ae0055a503a5e170cca3b821d51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Parliamentary constituencies in England[^key-8ca50ae0055a503a5e170cca3b821d51]
+## 2. Parliamentary constituencies in England[^c-8ca50ae0055a503a5e170cca3b821d51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Electoral registers[^key-8ca50ae0055a503a5e170cca3b821d51]
+## 3. Electoral registers[^c-8ca50ae0055a503a5e170cca3b821d51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8ca50ae0055a503a5e170cca3b821d51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ca50ae0055a503a5e170cca3b821d51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Name, designation and composition of constituencies of Daventry, South Northamptonshire, Somerton and Frome and Wells[^key-8ca50ae0055a503a5e170cca3b821d51]
+## SCHEDULE — Name, designation and composition of constituencies of Daventry, South Northamptonshire, Somerton and Frome and Wells[^c-8ca50ae0055a503a5e170cca3b821d51]
 
 Article 2
 
@@ -76,8 +76,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-8ca50ae0055a503a5e170cca3b821d51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ca50ae0055a503a5e170cca3b821d51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8ca50ae0055a503a5e170cca3b821d51]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/698) revoked (29.11.2023) by [The Parliamentary Constituencies Order 2023 (S.I. 2023/1230)](https://www.legislation.gov.uk/uksi/2023/1230), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2), [8(e)](https://www.legislation.gov.uk/uksi/2023/1230/article/8/e)
+[^c-8ca50ae0055a503a5e170cca3b821d51]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/698) revoked (29.11.2023) by [The Parliamentary Constituencies Order 2023 (S.I. 2023/1230)](https://www.legislation.gov.uk/uksi/2023/1230), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2), [8(e)](https://www.legislation.gov.uk/uksi/2023/1230/article/8/e)

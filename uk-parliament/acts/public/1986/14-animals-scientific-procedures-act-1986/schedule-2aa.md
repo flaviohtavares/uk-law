@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 2AA — Severity of procedures[^key-351a32f2ce768f683b40b4acf54d0575]
+## Schedule 2AA — Severity of procedures[^c-351a32f2ce768f683b40b4acf54d0575]
 
 *Extent: E+W+S+N.I.*
 
@@ -182,4 +182,4 @@ where any adverse effects are expected to be mild or moderate and to last for le
 
 ## Annotations
 
-[^key-351a32f2ce768f683b40b4acf54d0575]: Textual amendment: Sch. 2AA inserted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/663/schedule)
+[^c-351a32f2ce768f683b40b4acf54d0575]: Textual amendment: Sch. 2AA inserted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/663/schedule)

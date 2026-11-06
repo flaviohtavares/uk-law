@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Compulsory acquisition of rights[^key-8b85841c3aa7acf81b4cb9835e531777]
+## 21. Compulsory acquisition of rights[^c-8b85841c3aa7acf81b4cb9835e531777]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8b85841c3aa7acf81b4cb9835e531777]: Commencement: Art. 21 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-8b85841c3aa7acf81b4cb9835e531777]: Commencement: Art. 21 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
 [^f00034]: Footnote: Section 8 was amended by section 216 of and paragraph 2 of Schedule 17 to the Housing and Planning Act 2016 and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307) and Schedule 2A was amended by section 216 of and paragraph 3 of Schedule 17 to the Housing and Planning Act 2016.

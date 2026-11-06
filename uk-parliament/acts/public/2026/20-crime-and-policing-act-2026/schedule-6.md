@@ -22,7 +22,7 @@ summary: ''
 
 Section 63
 
-**1.**[^key-859559c0e7af1815058560acc3121af1][^key-8dd3fb59d6ab5947d27df43c63980ff8] In Part 11 of the Sentencing Code, after Chapter 2 insert—
+**1.**[^c-859559c0e7af1815058560acc3121af1][^c-8dd3fb59d6ab5947d27df43c63980ff8] In Part 11 of the Sentencing Code, after Chapter 2 insert—
 
 > **Chapter 2A — Child criminal exploitation prevention orders**
 >
@@ -288,7 +288,7 @@ Section 63
 
 **Not yet in force.**
 
-**2.**[^key-f1c5e9543bdd2cbee1bf2c3aa2c32693] In section 80(3) of the Sentencing Code (list of circumstances where an order for conditional discharge is not available) after paragraph (e) insert—
+**2.**[^c-f1c5e9543bdd2cbee1bf2c3aa2c32693] In section 80(3) of the Sentencing Code (list of circumstances where an order for conditional discharge is not available) after paragraph (e) insert—
 
 > - (ea) section 358G(3) (breach of CCE prevention order);
 
@@ -296,8 +296,8 @@ Section 63
 
 ## Annotations
 
-[^key-859559c0e7af1815058560acc3121af1]: Commencement: Sch. 6 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-859559c0e7af1815058560acc3121af1]: Commencement: Sch. 6 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-8dd3fb59d6ab5947d27df43c63980ff8]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2026/20/schedule/6/paragraph/1) in force at 21.9.2026 for specified purposes by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/i)
+[^c-8dd3fb59d6ab5947d27df43c63980ff8]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2026/20/schedule/6/paragraph/1) in force at 21.9.2026 for specified purposes by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/i)
 
-[^key-f1c5e9543bdd2cbee1bf2c3aa2c32693]: Commencement: Sch. 6 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-f1c5e9543bdd2cbee1bf2c3aa2c32693]: Commencement: Sch. 6 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

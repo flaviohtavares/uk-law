@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Transparency in supply chains etc[^key-5565b65a1118e7abc722aab9bb71cf43]
+## 54. Transparency in supply chains etc[^c-5565b65a1118e7abc722aab9bb71cf43]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,11 +83,11 @@ summary: ''
   - (a) conduct which constitutes an offence under any of the following—
     - (i) section 1, 2 or 4 of this Act,
     - (ii) section 1, 2 or 4 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2 (N.I.)) (equivalent offences in Northern Ireland),
-    - (iii) section 1 or 4 of the Human Trafficking and Exploitation (Scotland) Act[^key-c8ca66ebe683cf11992d7c9f6f41ddd1] [2015 (asp 12)](https://www.legislation.gov.uk/asp/2015/12) (equivalent offences in Scotland), or
+    - (iii) section 1 or 4 of the Human Trafficking and Exploitation (Scotland) Act[^c-c8ca66ebe683cf11992d7c9f6f41ddd1] [2015 (asp 12)](https://www.legislation.gov.uk/asp/2015/12) (equivalent offences in Scotland), or
   - (b) conduct which would constitute an offence in a part of the United Kingdom under any of those provisions if the conduct took place in that part of the United Kingdom.
 
 ## Annotations
 
-[^key-5565b65a1118e7abc722aab9bb71cf43]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2015/30/section/54) in force at 29.10.2015 by [S.I. 2015/1816](https://www.legislation.gov.uk/uksi/2015/1816), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1816/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1816/regulation/3))
+[^c-5565b65a1118e7abc722aab9bb71cf43]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2015/30/section/54) in force at 29.10.2015 by [S.I. 2015/1816](https://www.legislation.gov.uk/uksi/2015/1816), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1816/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1816/regulation/3))
 
-[^key-c8ca66ebe683cf11992d7c9f6f41ddd1]: Textual amendment: Words in [s. 54(12)](https://www.legislation.gov.uk/ukpga/2015/30/section/54/12) substituted (17.12.2016) by [The Human Trafficking and Exploitation (Scotland) Act 2015 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1031)](https://www.legislation.gov.uk/uksi/2016/1031), [art. 1(1)](https://www.legislation.gov.uk/uksi/2016/1031/article/1/1), [Sch. para. 3(5)](https://www.legislation.gov.uk/uksi/2016/1031/schedule/paragraph/3/5)
+[^c-c8ca66ebe683cf11992d7c9f6f41ddd1]: Textual amendment: Words in [s. 54(12)](https://www.legislation.gov.uk/ukpga/2015/30/section/54/12) substituted (17.12.2016) by [The Human Trafficking and Exploitation (Scotland) Act 2015 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1031)](https://www.legislation.gov.uk/uksi/2016/1031), [art. 1(1)](https://www.legislation.gov.uk/uksi/2016/1031/article/1/1), [Sch. para. 3(5)](https://www.legislation.gov.uk/uksi/2016/1031/schedule/paragraph/3/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188B. Defences to commission of cartel offence[^key-c4548f3f65c131a8d9f4f37176826996]
+## 188B. Defences to commission of cartel offence[^c-c4548f3f65c131a8d9f4f37176826996]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4548f3f65c131a8d9f4f37176826996]: Textual amendment: [S. 188B](https://www.legislation.gov.uk/ukpga/2002/40/section/188B) inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 47(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/6), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3) (with [s. 47(8)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/8)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-c4548f3f65c131a8d9f4f37176826996]: Textual amendment: [S. 188B](https://www.legislation.gov.uk/ukpga/2002/40/section/188B) inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 47(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/6), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3) (with [s. 47(8)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/8)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

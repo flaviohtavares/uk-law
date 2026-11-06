@@ -33,7 +33,7 @@ An Act to consolidate certain enactments relating to the health service.
 
 \[8th November 2006\] [^c1761280]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-ea6eea385eb74547cd0b39dee2a3c0b1][^key-9c674594cdbc1acf98fd19ecffc34f04][^key-28bcee9a81ea6d35d008b9f71a84b62b][^key-e25e4b8c210d12f03e1978523ee61574]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-ea6eea385eb74547cd0b39dee2a3c0b1][^c-9c674594cdbc1acf98fd19ecffc34f04][^c-28bcee9a81ea6d35d008b9f71a84b62b][^c-e25e4b8c210d12f03e1978523ee61574]
 
 ## Contents
 
@@ -53,30 +53,30 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 1G — Secretary of State's duty as to reporting on and reviewing treatment of providers](part-1/section-1g.md)
 - [Section 1GA — Secretary of State’s duty to report on workforce systems](part-1/section-1ga.md)
 
-#### Role of NHS England in the health service in England[^key-2c8431bc0c5c711eede3d947dc59f9c6][^key-c26379f595629655ada8a57e0d3d2bfd]
+#### Role of NHS England in the health service in England[^c-2c8431bc0c5c711eede3d947dc59f9c6][^c-c26379f595629655ada8a57e0d3d2bfd]
 
 *Extent: E+W*
 
 - [Section 1H — NHS England and its general functions](part-1/section-1h.md)
 
-#### Role of integrated care boards in the health service in England[^key-3555dbb18f14688fae4cf9cc21cdf4ff]
+#### Role of integrated care boards in the health service in England[^c-3555dbb18f14688fae4cf9cc21cdf4ff]
 
 *Extent: E+W*
 
 - [Section 1I — General functions of integrated care boards](part-1/section-1i.md)
 
-#### General power[^key-9ea1dc5b8d6730156bf87e5c10771807]
+#### General power[^c-9ea1dc5b8d6730156bf87e5c10771807]
 
 *Extent: E+W*
 
 - [Section 2. — General power](part-1/section-2.md)
 
-#### Provision for protection or improvement of public health[^key-97920648b293cf4d106f3f5b8df3a59d]
+#### Provision for protection or improvement of public health[^c-97920648b293cf4d106f3f5b8df3a59d]
 
 - [Section 2A — Secretary of State's duty as to protection of public health](part-1/section-2a.md)
 - [Section 2B — Functions of local authorities and Secretary of State as to improvement of public health](part-1/section-2b.md)
 
-#### Arrangements for the provision of certain health services[^key-1ecd5c53c194055f08f19896bc088e0c]
+#### Arrangements for the provision of certain health services[^c-1ecd5c53c194055f08f19896bc088e0c]
 
 *Extent: E+W*
 
@@ -96,7 +96,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 6BA — Reimbursement of cost of services provided in another EEA state where expenditure incurred on or after 25 October 2013.](part-1/section-6ba.md)
 - [Section 6BB — Prior authorisation for the purposes of section 6BA](part-1/section-6bb.md)
 
-#### Regulations as to the exercise of functions[^key-fad6fe248246e3d6fe9b220e4ab50eed]
+#### Regulations as to the exercise of functions[^c-fad6fe248246e3d6fe9b220e4ab50eed]
 
 *Extent: E+W*
 
@@ -106,13 +106,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 6F — Enforcement of section 6E regulations relating to patient choice](part-1/section-6f.md)
 - [Section 6G — Guidance relating to patient choice](part-1/section-6g.md)
 
-#### Functions of Special Health Authorities[^key-48313c182e5113a88af7ce14d4b78aef]
+#### Functions of Special Health Authorities[^c-48313c182e5113a88af7ce14d4b78aef]
 
 *Extent: E+W*
 
 - [Section 7 — Functions of Special Health Authorities](part-1/section-7.md)
 
-#### Exercise of Secretary of State's public health functions[^key-7a5baf40df5397aaaaecbd8fd0340e4f]
+#### Exercise of Secretary of State's public health functions[^c-7a5baf40df5397aaaaecbd8fd0340e4f]
 
 *Extent: E+W*
 
@@ -122,7 +122,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 7D — Transfer schemes in connection with a direction under section 7C](part-1/section-7d.md)
 - [Section 7E — Transfer schemes under section 7D: taxation](part-1/section-7e.md)
 
-#### Directions to certain NHS bodies[^key-902e5dd2ef9f965ebab5bc81d7dec84c]
+#### Directions to certain NHS bodies[^c-902e5dd2ef9f965ebab5bc81d7dec84c]
 
 *Extent: E+W*
 
@@ -137,26 +137,26 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 10A — Provision for bodies in Scotland](part-1/section-10a.md)
 - [Section 11 — Arrangements to be treated as NHS contracts](part-1/section-11.md)
 
-#### Arrangements with other bodies[^key-6f93944c29040ab462e1391e86ccf81f]
+#### Arrangements with other bodies[^c-6f93944c29040ab462e1391e86ccf81f]
 
 *Extent: E+W*
 
 - [Section 12 — Secretary of State's arrangements with other bodies](part-1/section-12.md)
 - [Section 12ZA — Commissioning arrangements by NHS England or integrated care boards](part-1/section-12za.md)
 
-#### Procurement[^key-e8a263d827f1e306f985b06a04ef3783]
+#### Procurement[^c-e8a263d827f1e306f985b06a04ef3783]
 
 - [Section 12ZB — Procurement regulations](part-1/section-12zb.md)
 - [Section 12ZC — Eradicating slavery and human trafficking in supply chains](part-1/section-12zc.md)
 
-#### Direct payments for health care[^key-5fa311cd640bc6dd3f28029e1e18e6cd][^key-e8a263d827f1e306f985b06a04ef3783]
+#### Direct payments for health care[^c-5fa311cd640bc6dd3f28029e1e18e6cd][^c-e8a263d827f1e306f985b06a04ef3783]
 
 - [Section 12A — Direct payments for health care](part-1/section-12a.md)
 - [Section 12B — Regulations about direct payments](part-1/section-12b.md)
 - [Section 12C — Direct payments pilot schemes](part-1/section-12c.md)
 - [Section 12D — Arrangements with other bodies relating to direct payments](part-1/section-12d.md)
 
-#### Miscellaneous[^key-eaff8908bd83bf3704326f926e3ba9ea][^key-e8a263d827f1e306f985b06a04ef3783]
+#### Miscellaneous[^c-eaff8908bd83bf3704326f926e3ba9ea][^c-e8a263d827f1e306f985b06a04ef3783]
 
 *Extent: E+W*
 
@@ -167,16 +167,16 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W*
 
-#### CHAPTER A1 — NHS England[^key-c17c605fbd7569f0644650e6ed66435c][^key-c26379f595629655ada8a57e0d3d2bfd]
+#### CHAPTER A1 — NHS England[^c-c17c605fbd7569f0644650e6ed66435c][^c-c26379f595629655ada8a57e0d3d2bfd]
 
 *Extent: E+W*
 
-##### Secretary of State's mandate to NHS England[^key-c17c605fbd7569f0644650e6ed66435c][^key-c26379f595629655ada8a57e0d3d2bfd]
+##### Secretary of State's mandate to NHS England[^c-c17c605fbd7569f0644650e6ed66435c][^c-c26379f595629655ada8a57e0d3d2bfd]
 
 - [Section 13A — Mandate to NHS England](part-2/section-13a.md)
 - [Section 13B — Review of NHS England’s performance in implementing the mandate](part-2/section-13b.md)
 
-##### General duties of NHS England[^key-c17c605fbd7569f0644650e6ed66435c][^key-c26379f595629655ada8a57e0d3d2bfd]
+##### General duties of NHS England[^c-c17c605fbd7569f0644650e6ed66435c][^c-c26379f595629655ada8a57e0d3d2bfd]
 
 - [Section 13C — Duty to promote NHS Constitution](part-2/section-13c.md)
 - [Section 13D — Duty as to effectiveness, efficiency etc.](part-2/section-13d.md)
@@ -198,46 +198,46 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 13P — Duty as respects variation in provision of health services](part-2/section-13p.md)
 - [Section 13PA — Duty to cooperate for education and training functions and specified functions](part-2/section-13pa.md)
 
-##### Public involvement[^key-c17c605fbd7569f0644650e6ed66435c]
+##### Public involvement[^c-c17c605fbd7569f0644650e6ed66435c]
 
 - [Section 13Q — Public involvement and consultation by NHS England](part-2/section-13q.md)
 
-##### Functions in relation to information[^key-c17c605fbd7569f0644650e6ed66435c]
+##### Functions in relation to information[^c-c17c605fbd7569f0644650e6ed66435c]
 
 - [Section 13R — Information on safety of services provided by the health service](part-2/section-13r.md)
 - [Section 13S — Guidance in relation to processing of information](part-2/section-13s.md)
 - [Section 13SA — Information about inequalities](part-2/section-13sa.md)
 
-##### Regulatory functions[^key-4d095f19a35d341261dc63166c0ff860][^key-c17c605fbd7569f0644650e6ed66435c]
+##### Regulatory functions[^c-4d095f19a35d341261dc63166c0ff860][^c-c17c605fbd7569f0644650e6ed66435c]
 
 - [Section 13SB — Minimising conflicts between regulatory and other functions](part-2/section-13sb.md)
 - [Section 13SC — Provision of regulatory information or assistance to the CMA](part-2/section-13sc.md)
 
-##### Business plan and report[^key-c17c605fbd7569f0644650e6ed66435c]
+##### Business plan and report[^c-c17c605fbd7569f0644650e6ed66435c]
 
 - [Section 13T — Business plan](part-2/section-13t.md)
 - [Section 13U — Annual report](part-2/section-13u.md)
 
-##### Joint appointments[^key-46f313b09bcfcad07d8d930803e9bd30][^key-c17c605fbd7569f0644650e6ed66435c]
+##### Joint appointments[^c-46f313b09bcfcad07d8d930803e9bd30][^c-c17c605fbd7569f0644650e6ed66435c]
 
 - [Section 13UA — Guidance about joint appointments](part-2/section-13ua.md)
 
-##### Additional powers[^key-c17c605fbd7569f0644650e6ed66435c]
+##### Additional powers[^c-c17c605fbd7569f0644650e6ed66435c]
 
 - [Section 13V — Establishment of pooled funds](part-2/section-13v.md)
 - [Section 13W — NHS England’s power to generate income, etc.](part-2/section-13w.md)
 - [Section 13X — Power to make grants etc.](part-2/section-13x.md)
 - [Section 13Y — NHS England’s incidental powers: further provision](part-2/section-13y.md)
 
-##### Assistance and support[^key-323de74825ad4db128c7cc3608c03e54][^key-c17c605fbd7569f0644650e6ed66435c]
+##### Assistance and support[^c-323de74825ad4db128c7cc3608c03e54][^c-c17c605fbd7569f0644650e6ed66435c]
 
 - [Section 13YA — Power of NHS England to provide assistance and support](part-2/section-13ya.md)
 
-##### Discharge of functions[^key-70d2f9c3403451f3e8aa91932cc412bc][^key-c17c605fbd7569f0644650e6ed66435c]
+##### Discharge of functions[^c-70d2f9c3403451f3e8aa91932cc412bc][^c-c17c605fbd7569f0644650e6ed66435c]
 
 - [Section 13YB — Directions in respect of functions relating to provision of services](part-2/section-13yb.md)
 
-##### ...[^key-6da2806ccaf9e62f9db7f93833195352][^key-c17c605fbd7569f0644650e6ed66435c]
+##### ...[^c-6da2806ccaf9e62f9db7f93833195352][^c-c17c605fbd7569f0644650e6ed66435c]
 
 *Extent: E+W*
 
@@ -245,30 +245,30 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 13ZA — Section 13Z: further provision in relation to devolved arrangements](part-2/section-13za.md)
 - [Section 13ZB — Section 13Z: arrangements in relation to the function under section 3B(1)(d)](part-2/section-13zb.md)
 
-##### Powers of direction[^key-82d9f757a105dee8d80d0c23139b8000][^key-c17c605fbd7569f0644650e6ed66435c]
+##### Powers of direction[^c-82d9f757a105dee8d80d0c23139b8000][^c-c17c605fbd7569f0644650e6ed66435c]
 
 - [Section 13ZC — Secretary of State directions as to exercise of NHS England functions](part-2/section-13zc.md)
 - [Section 13ZD — Power to give directions: exceptions](part-2/section-13zd.md)
 - [Section 13ZE — Compliance with directions: significant failure](part-2/section-13ze.md)
 - [Section 13ZF — Secretary of State directions to provide information](part-2/section-13zf.md)
 
-##### Power to confer additional functions[^key-c17c605fbd7569f0644650e6ed66435c]
+##### Power to confer additional functions[^c-c17c605fbd7569f0644650e6ed66435c]
 
 - [Section 13Z1 — Power to confer additional functions on NHS England](part-2/section-13z1.md)
 
-##### ...[^key-b34524861daa6ae6c75294ad70893ff6][^key-c17c605fbd7569f0644650e6ed66435c]
+##### ...[^c-b34524861daa6ae6c75294ad70893ff6][^c-c17c605fbd7569f0644650e6ed66435c]
 
 - [Section 13Z2 — Failure by the Board to discharge any of its functions](part-2/section-13z2.md)
 
-##### Disclosure of information[^key-c17c605fbd7569f0644650e6ed66435c]
+##### Disclosure of information[^c-c17c605fbd7569f0644650e6ed66435c]
 
 - [Section 13Z3 — Permitted disclosures of information](part-2/section-13z3.md)
 
-##### Interpretation[^key-c17c605fbd7569f0644650e6ed66435c]
+##### Interpretation[^c-c17c605fbd7569f0644650e6ed66435c]
 
 - [Section 13Z4 — Interpretation](part-2/section-13z4.md)
 
-#### CHAPTER A2 — Clinical commissioning groups[^key-d504964dfc83cb183dafe3faf00dd2f6]
+#### CHAPTER A2 — Clinical commissioning groups[^c-d504964dfc83cb183dafe3faf00dd2f6]
 
 *Extent: E+W*
 
@@ -415,28 +415,28 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 14Z24 — Interpretation](part-2/section-14z24.md)
 
-#### CHAPTER A3 — Integrated care boards[^key-b6af639f7551d731516bf50373d99124]
+#### CHAPTER A3 — Integrated care boards[^c-b6af639f7551d731516bf50373d99124]
 
-##### Establishment of integrated care boards (including by re-purposing clinical commissioning groups)[^key-b6af639f7551d731516bf50373d99124]
+##### Establishment of integrated care boards (including by re-purposing clinical commissioning groups)[^c-b6af639f7551d731516bf50373d99124]
 
 - [Section 14Z25 — Duty to establish integrated care boards](part-2/section-14z25.md)
 - [Section 14Z26 — Process for establishing initial integrated care boards](part-2/section-14z26.md)
 - [Section 14Z27 — Abolition of clinical commissioning groups](part-2/section-14z27.md)
 - [Section 14Z28 — Transfer schemes in connection with integrated care boards](part-2/section-14z28.md)
 
-##### Constitution: publication[^key-b6af639f7551d731516bf50373d99124]
+##### Constitution: publication[^c-b6af639f7551d731516bf50373d99124]
 
 - [Section 14Z29 — Duty for integrated care board to publish constitution](part-2/section-14z29.md)
 
-##### Conflicts of interest[^key-b6af639f7551d731516bf50373d99124]
+##### Conflicts of interest[^c-b6af639f7551d731516bf50373d99124]
 
 - [Section 14Z30 — Register of interests and management of conflicts of interests](part-2/section-14z30.md)
 
-##### People for whom integrated care board has responsibility[^key-1c14b41eea63136ad7dcb691cfba3d95]
+##### People for whom integrated care board has responsibility[^c-1c14b41eea63136ad7dcb691cfba3d95]
 
 - [Section 14Z31 — People for whom integrated care board has responsibility](part-2/section-14z31.md)
 
-##### General duties of integrated care boards[^key-0977b6b7f4c41c860f11375ed30d35ad]
+##### General duties of integrated care boards[^c-0977b6b7f4c41c860f11375ed30d35ad]
 
 - [Section 14Z32 — Duty to promote NHS Constitution](part-2/section-14z32.md)
 - [Section 14Z33 — Duty as to effectiveness, efficiency etc](part-2/section-14z33.md)
@@ -452,29 +452,29 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 14Z43 — Duty to have regard to wider effect of decisions](part-2/section-14z43.md)
 - [Section 14Z44 — Duties as to climate change etc](part-2/section-14z44.md)
 
-##### Involvement of the public[^key-0977b6b7f4c41c860f11375ed30d35ad]
+##### Involvement of the public[^c-0977b6b7f4c41c860f11375ed30d35ad]
 
 - [Section 14Z45 — Public involvement and consultation by integrated care boards](part-2/section-14z45.md)
 
-##### Joint exercise of functions with Local Health Boards[^key-0977b6b7f4c41c860f11375ed30d35ad]
+##### Joint exercise of functions with Local Health Boards[^c-0977b6b7f4c41c860f11375ed30d35ad]
 
 - [Section 14Z46 — Joint exercise of functions with Local Health Boards](part-2/section-14z46.md)
 
-##### Additional powers of integrated care boards[^key-0977b6b7f4c41c860f11375ed30d35ad]
+##### Additional powers of integrated care boards[^c-0977b6b7f4c41c860f11375ed30d35ad]
 
 - [Section 14Z47 — Raising additional income](part-2/section-14z47.md)
 - [Section 14Z48 — Power to make grants](part-2/section-14z48.md)
 
-##### Experience of members[^key-0977b6b7f4c41c860f11375ed30d35ad]
+##### Experience of members[^c-0977b6b7f4c41c860f11375ed30d35ad]
 
 - [Section 14Z49 — Duty to keep experience of members under review etc](part-2/section-14z49.md)
 
-##### NHS England’s functions in relation to integrated care boards[^key-0977b6b7f4c41c860f11375ed30d35ad]
+##### NHS England’s functions in relation to integrated care boards[^c-0977b6b7f4c41c860f11375ed30d35ad]
 
 - [Section 14Z50 — Responsibility for payments to providers](part-2/section-14z50.md)
 - [Section 14Z51 — Guidance by NHS England](part-2/section-14z51.md)
 
-##### Forward planning and reports[^key-0977b6b7f4c41c860f11375ed30d35ad]
+##### Forward planning and reports[^c-0977b6b7f4c41c860f11375ed30d35ad]
 
 - [Section 14Z52 — Joint forward plans for integrated care board and its partners](part-2/section-14z52.md)
 - [Section 14Z53 — Revision of forward plans](part-2/section-14z53.md)
@@ -484,28 +484,28 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 14Z57 — Revision of joint capital resource use plans](part-2/section-14z57.md)
 - [Section 14Z58 — Annual report](part-2/section-14z58.md)
 
-##### Performance assessment of integrated care boards[^key-0977b6b7f4c41c860f11375ed30d35ad]
+##### Performance assessment of integrated care boards[^c-0977b6b7f4c41c860f11375ed30d35ad]
 
 - [Section 14Z59 — Performance assessment of integrated care boards](part-2/section-14z59.md)
 
-##### Power of NHS England to obtain information[^key-0977b6b7f4c41c860f11375ed30d35ad]
+##### Power of NHS England to obtain information[^c-0977b6b7f4c41c860f11375ed30d35ad]
 
 - [Section 14Z60 — Power of NHS England to obtain information](part-2/section-14z60.md)
 
-##### Intervention powers[^key-0977b6b7f4c41c860f11375ed30d35ad]
+##### Intervention powers[^c-0977b6b7f4c41c860f11375ed30d35ad]
 
 - [Section 14Z61 — Power to give directions to integrated care boards](part-2/section-14z61.md)
 - [Section 14Z62 — Section 14Z61 directions: consultation and cooperation](part-2/section-14z62.md)
 
-##### Disclosure of information[^key-0977b6b7f4c41c860f11375ed30d35ad]
+##### Disclosure of information[^c-0977b6b7f4c41c860f11375ed30d35ad]
 
 - [Section 14Z63 — Permitted disclosures of information](part-2/section-14z63.md)
 
-##### Interpretation[^key-0977b6b7f4c41c860f11375ed30d35ad]
+##### Interpretation[^c-0977b6b7f4c41c860f11375ed30d35ad]
 
 - [Section 14Z64 — Interpretation](part-2/section-14z64.md)
 
-#### Chapter 1 — Strategic Health Authorities[^key-5f613362ffac3b2c96c17ea8ed04ed4f]
+#### Chapter 1 — Strategic Health Authorities[^c-5f613362ffac3b2c96c17ea8ed04ed4f]
 
 *Extent: E+W*
 
@@ -518,7 +518,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 17 — Advice for Strategic Health Authorities](part-2/section-17.md)
 - [Section 17A — Reports on consultation](part-2/section-17a.md)
 
-#### Chapter 2 — Primary Care Trusts[^key-03477279c50bbb27711066616a136e1b]
+#### Chapter 2 — Primary Care Trusts[^c-03477279c50bbb27711066616a136e1b]
 
 *Extent: E+W*
 
@@ -617,7 +617,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 54 — Dissolution etc](part-2/section-54.md)
 - [Section 55 — Sections 53 and 54: supplementary](part-2/section-55.md)
 
-##### Mergers, acquisitions and separations[^key-eb9ddcb5620cf2023ca0806440fbb908]
+##### Mergers, acquisitions and separations[^c-eb9ddcb5620cf2023ca0806440fbb908]
 
 *Extent: E+W*
 
@@ -644,21 +644,21 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 64 — Orders and regulations under this Chapter](part-2/section-64.md)
 - [Section 65 — Interpretation of this Chapter](part-2/section-65.md)
 
-#### Chapter 5A — Trust special administrators: NHS trusts and NHS foundation trusts[^key-17cf88763d4009b94ad6caf0b8ba8e30]
+#### Chapter 5A — Trust special administrators: NHS trusts and NHS foundation trusts[^c-17cf88763d4009b94ad6caf0b8ba8e30]
 
 *Extent: E+W*
 
-##### Application[^key-17cf88763d4009b94ad6caf0b8ba8e30]
+##### Application[^c-17cf88763d4009b94ad6caf0b8ba8e30]
 
 - [Section 65A — Application](part-2/section-65a.md)
 
-##### Appointment[^key-17cf88763d4009b94ad6caf0b8ba8e30]
+##### Appointment[^c-17cf88763d4009b94ad6caf0b8ba8e30]
 
 - [Section 65B — NHS trusts: appointment of trust special administrator](part-2/section-65b.md)
 - [Section 65BA — Care Quality Commission report on safety and quality of services](part-2/section-65ba.md)
 - [Section 65C — Suspension of directors](part-2/section-65c.md)
 
-##### ...[^key-438d918d60609d598ae33d5d5ccb2549][^key-17cf88763d4009b94ad6caf0b8ba8e30]
+##### ...[^c-438d918d60609d598ae33d5d5ccb2549][^c-17cf88763d4009b94ad6caf0b8ba8e30]
 
 *Extent: E+W*
 
@@ -666,7 +666,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 65DA — Objective of trust special administration](part-2/section-65da.md)
 - [Section 65E — NHS foundation trusts: de-authorisation and appointment of trust special administrator](part-2/section-65e.md)
 
-##### Consultation and report[^key-17cf88763d4009b94ad6caf0b8ba8e30]
+##### Consultation and report[^c-17cf88763d4009b94ad6caf0b8ba8e30]
 
 *Extent: E+W*
 
@@ -676,7 +676,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 65I — Final report](part-2/section-65i.md)
 - [Section 65J — Power to extend time](part-2/section-65j.md)
 
-##### Action by the Secretary of State and NHS England[^M_F_1bcaf067-a9e8-4f1a-e9e6-1d75bedb4903][^key-17cf88763d4009b94ad6caf0b8ba8e30][^key-d5a727a0b2669f31e1fbb672e2bb8d9b]
+##### Action by the Secretary of State and NHS England[^M_F_1bcaf067-a9e8-4f1a-e9e6-1d75bedb4903][^c-17cf88763d4009b94ad6caf0b8ba8e30][^c-d5a727a0b2669f31e1fbb672e2bb8d9b]
 
 *Extent: E+W*
 
@@ -688,19 +688,19 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 65L — Trusts coming out of administration](part-2/section-65l.md)
 - [Section 65LA — Trusts to be dissolved](part-2/section-65la.md)
 
-##### Supplementary[^key-17cf88763d4009b94ad6caf0b8ba8e30]
+##### Supplementary[^c-17cf88763d4009b94ad6caf0b8ba8e30]
 
 - [Section 65M — Replacement of trust special administrator](part-2/section-65m.md)
 - [Section 65N — Guidance](part-2/section-65n.md)
 - [Section 65O — Interpretation of this Chapter](part-2/section-65o.md)
 
-#### Chapter 5B — Trust special administrators: Primary Care Trusts[^key-085bfd05775c70ad88217af898115276]
+#### Chapter 5B — Trust special administrators: Primary Care Trusts[^c-085bfd05775c70ad88217af898115276]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-##### Appointment[^key-085bfd05775c70ad88217af898115276]
+##### Appointment[^c-085bfd05775c70ad88217af898115276]
 
 **No longer in force.**
 
@@ -709,11 +709,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 #### Chapter 6 — Miscellaneous
 
-##### Consolidated accounts[^key-c5cb390cb88a3d0d97ea4fb5a2034eb4]
+##### Consolidated accounts[^c-c5cb390cb88a3d0d97ea4fb5a2034eb4]
 
 - [Section 65Z4 — Consolidated accounts for NHS trusts and NHS foundation trusts](part-2/section-65z4.md)
 
-##### Joint working arrangements and delegation[^key-8036e60c978c3bcba72adba3d57f1384]
+##### Joint working arrangements and delegation[^c-8036e60c978c3bcba72adba3d57f1384]
 
 - [Section 65Z5 — Joint working and delegation arrangements](part-2/section-65z5.md)
 - [Section 65Z6 — Joint committees and pooled funds](part-2/section-65z6.md)
@@ -725,7 +725,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 67 — Effect of intervention orders](part-2/section-67.md)
 - [Section 68 — Default powers](part-2/section-68.md)
 
-##### Reconfiguration of NHS services[^key-9b23af2be9cf6f25ab18862cdb23e3a6]
+##### Reconfiguration of NHS services[^c-9b23af2be9cf6f25ab18862cdb23e3a6]
 
 - [Section 68A — Reconfiguration of NHS services](part-2/section-68a.md)
 
@@ -733,7 +733,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 69 — Protection from personal liability](part-2/section-69.md)
 
-##### Transfer schemes[^key-87175c6bed8deef967dbcadf1e2c5f4a]
+##### Transfer schemes[^c-87175c6bed8deef967dbcadf1e2c5f4a]
 
 - [Section 69A — Transfer schemes: NHS trusts and NHS foundation trusts](part-2/section-69a.md)
 
@@ -751,7 +751,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 72 — Co-operation between NHS bodies](part-2/section-72.md)
 
-##### NHS trusts and foundation trusts: exemption from merger legislation[^key-5f8af2d855734e8c64cf1687abcf2faf]
+##### NHS trusts and foundation trusts: exemption from merger legislation[^c-5f8af2d855734e8c64cf1687abcf2faf]
 
 - [Section 72A — Exemption from Part 3 of the Enterprise Act 2002](part-2/section-72a.md)
 
@@ -780,7 +780,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W*
 
-#### Duty of NHS England in relation to primary medical services[^key-a368b99ad301f031b3ef8f51ec3b8c1f][^key-c26379f595629655ada8a57e0d3d2bfd]
+#### Duty of NHS England in relation to primary medical services[^c-a368b99ad301f031b3ef8f51ec3b8c1f][^c-c26379f595629655ada8a57e0d3d2bfd]
 
 *Extent: E+W*
 
@@ -819,7 +819,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 98 — Use of accommodation: provision of primary medical services](part-4/section-98.md)
 
-#### Directions[^key-693a6a02e89a4356d581904e78f9f26b]
+#### Directions[^c-693a6a02e89a4356d581904e78f9f26b]
 
 *Extent: E+W*
 
@@ -829,7 +829,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W*
 
-#### Duty of NHS England in relation to primary dental services[^key-77f8d2651686a01da60bdd7392d1917a][^key-c26379f595629655ada8a57e0d3d2bfd]
+#### Duty of NHS England in relation to primary dental services[^c-77f8d2651686a01da60bdd7392d1917a][^c-c26379f595629655ada8a57e0d3d2bfd]
 
 *Extent: E+W*
 
@@ -871,7 +871,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 114 — Use of accommodation: provision of primary dental services](part-5/section-114.md)
 
-#### Directions[^key-50bced38dae3064e7ccb050db2b62fc2]
+#### Directions[^c-50bced38dae3064e7ccb050db2b62fc2]
 
 *Extent: E+W*
 
@@ -881,7 +881,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W*
 
-#### Duty of the Board in relation to primary ophthalmic services[^key-09a24fc582f3631c2fdb27b782483a6c]
+#### Duty of the Board in relation to primary ophthalmic services[^c-09a24fc582f3631c2fdb27b782483a6c]
 
 *Extent: E+W*
 
@@ -909,7 +909,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 125 — Local Optical Committees](part-6/section-125.md)
 
-#### Directions[^key-677d6271d7a4cd330ed7341e8cebe301]
+#### Directions[^c-677d6271d7a4cd330ed7341e8cebe301]
 
 - [Section 125A — Exercise of functions](part-6/section-125a.md)
 
@@ -962,12 +962,12 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 147 — Assistance and support: local pharmaceutical services](part-7/section-147.md)
 
-#### CHAPTER 4A — Lists of performers of pharmaceutical services and assistants[^key-9de86e1011a257f2e6a8d4402f7d125c]
+#### CHAPTER 4A — Lists of performers of pharmaceutical services and assistants[^c-9de86e1011a257f2e6a8d4402f7d125c]
 
 - [Section 147A — Performers of pharmaceutical services and assistants](part-7/section-147a.md)
 - [Section 147B — Further provision about regulations under section 147A](part-7/section-147b.md)
 
-#### Chapter 5 — Conditional inclusion in pharmaceutical lists[^key-7f2ed1a53ab6ac8f39c3d66ee2af7f28]
+#### Chapter 5 — Conditional inclusion in pharmaceutical lists[^c-7f2ed1a53ab6ac8f39c3d66ee2af7f28]
 
 *Extent: E+W*
 
@@ -975,7 +975,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 149 — Supplementary lists](part-7/section-149.md)
 - [Section 150 — Further provision about regulations under section 149](part-7/section-150.md)
 
-#### Chapter 5A — Notices and penalties[^key-e7c3dc1c3bd7604647e946f0e1a82485]
+#### Chapter 5A — Notices and penalties[^c-e7c3dc1c3bd7604647e946f0e1a82485]
 
 - [Section 150A — Notices and penalties](part-7/section-150a.md)
 
@@ -1019,11 +1019,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 168 — Use of accommodation: provision of pharmaceutical services and local pharmaceutical services](part-7/section-168.md)
 
-##### Directions[^key-8bdf1e28e0d678a42b4dc624dd5c3ba2]
+##### Directions[^c-8bdf1e28e0d678a42b4dc624dd5c3ba2]
 
 - [Section 168A — Exercise of functions](part-7/section-168a.md)
 
-### Part 8 — Appeals to First-Tier Tribunal[^key-a2084812ceca0a46ded1cd57be868e9e]
+### Part 8 — Appeals to First-Tier Tribunal[^c-a2084812ceca0a46ded1cd57be868e9e]
 
 *Extent: E+W*
 
@@ -1153,7 +1153,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W*
 
-##### NHS England[^key-c26379f595629655ada8a57e0d3d2bfd][^key-c4da92b9c472463d47ca87e3586e5833]
+##### NHS England[^c-c26379f595629655ada8a57e0d3d2bfd][^c-c4da92b9c472463d47ca87e3586e5833]
 
 *Extent: E+W*
 
@@ -1164,7 +1164,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 223E. — Financial duties of NHS England: additional controls on resource use](part-11/section-223e.md)
 - [Section 223F — Power to establish contingency fund](part-11/section-223f.md)
 
-##### Integrated care boards[^key-f97e43582e46abb03e96302cd695aa59][^key-1f69d47caf7ad4abe93033ae36af797b]
+##### Integrated care boards[^c-f97e43582e46abb03e96302cd695aa59][^c-1f69d47caf7ad4abe93033ae36af797b]
 
 *Extent: E+W*
 
@@ -1178,13 +1178,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 223J — Financial duties of clinical commissioning groups: additional controls on resource use](part-11/section-223j.md)
 - [Section 223K — Payments in respect of quality](part-11/section-223k.md)
 
-##### Joint duties of an integrated care board and its partner NHS trusts and NHS foundation trusts[^key-164a6ad914592bdc60b0f4e23d1a2f53]
+##### Joint duties of an integrated care board and its partner NHS trusts and NHS foundation trusts[^c-164a6ad914592bdc60b0f4e23d1a2f53]
 
 - [Section 223L — Joint financial objectives for integrated care boards etc](part-11/section-223l.md)
 - [Section 223M — Financial duties of integrated care boards etc: use of resources](part-11/section-223m.md)
 - [Section 223N — Financial duties of integrated care boards etc: additional controls on resource use](part-11/section-223n.md)
 
-##### Directions about resources etc to be taken into account[^key-164a6ad914592bdc60b0f4e23d1a2f53]
+##### Directions about resources etc to be taken into account[^c-164a6ad914592bdc60b0f4e23d1a2f53]
 
 - [Section 223O — Resources etc relevant to section 223D, 223E or 223M](part-11/section-223o.md)
 
@@ -1206,7 +1206,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 230 — Resource limits for Primary Care Trusts](part-11/section-230.md)
 - [Section 231 — Further provision about the expenditure of Primary Care Trusts](part-11/section-231.md)
 
-##### ...[^key-6cff2c10c199c9baba113e71c632feb2]
+##### ...[^c-6cff2c10c199c9baba113e71c632feb2]
 
 - [Section 232 — Accounts and audit](part-11/section-232.md)
 
@@ -1238,7 +1238,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 242B — Directions in cases where Strategic Health Authority arranges involvement](part-12/section-242b.md)
 - [Section 243 — The Commission for Patient and Public Involvement in Health](part-12/section-243.md)
 
-#### Chapter 3 — Review and scrutiny by local authorities[^key-76da3754b5cc922a7a4351a60308d832]
+#### Chapter 3 — Review and scrutiny by local authorities[^c-76da3754b5cc922a7a4351a60308d832]
 
 *Extent: E+W*
 
@@ -1252,15 +1252,15 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W+S+N.I.*
 
-#### Co-operation in relation to public health functions[^key-57606d9de364ea15e64649091326a583]
+#### Co-operation in relation to public health functions[^c-57606d9de364ea15e64649091326a583]
 
 - [Section 247B — Co-operation in relation to public health functions](part-13/section-247b.md)
 
-#### Duty to keep under review[^key-d9a59fc378350c80eaa3c1c7f581e0b1]
+#### Duty to keep under review[^c-d9a59fc378350c80eaa3c1c7f581e0b1]
 
 - [Section 247C — Secretary of State's duty to keep health service functions under review](part-13/section-247c.md)
 
-#### Annual report[^key-619aea0c19a1b85bf2edc4d5c709ca65]
+#### Annual report[^c-619aea0c19a1b85bf2edc4d5c709ca65]
 
 - [Section 247D — Secretary of State's annual report](part-13/section-247d.md)
 
@@ -1298,7 +1298,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 251 — Control of patient information](part-13/section-251.md)
 - [Section 252 — Consultation with the Care Quality Commission](part-13/section-252.md)
 
-#### Emergencies: role of the Secretary of State, NHS England and integrated care boards[^key-97cb194b91d390aa63ae0dad995f5b53][^key-c26379f595629655ada8a57e0d3d2bfd][^key-bac1b9e3ffd3487d99fc9009a6b27e75]
+#### Emergencies: role of the Secretary of State, NHS England and integrated care boards[^c-97cb194b91d390aa63ae0dad995f5b53][^c-c26379f595629655ada8a57e0d3d2bfd][^c-bac1b9e3ffd3487d99fc9009a6b27e75]
 
 *Extent: E+W*
 
@@ -1311,7 +1311,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 254 — Local social service authorities](part-13/section-254.md)
 
-#### Support functions of the Secretary of State[^key-511ac98985f1405c1e711dc059dff4ef]
+#### Support functions of the Secretary of State[^c-511ac98985f1405c1e711dc059dff4ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -1363,7 +1363,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 267 — Permission for use of facilities in private practice](part-13/section-267.md)
 
-#### ...[^key-64aeaf0b49f5ce5f4ec8332b5dde16a6]
+#### ...[^c-64aeaf0b49f5ce5f4ec8332b5dde16a6]
 
 *Extent: E+W*
 
@@ -1429,136 +1429,136 @@ SCHEDULES
 
 [^c1761280]: Commencement: Act in force at 1.3.2007 subject to provisions of s. 277
 
-[^key-ea6eea385eb74547cd0b39dee2a3c0b1]: Modification: Act modified (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-ea6eea385eb74547cd0b39dee2a3c0b1]: Modification: Act modified (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
-[^key-9c674594cdbc1acf98fd19ecffc34f04]: Modification: Act applied (with modifications) (27.3.2012 for specified purposes, 1.10.2012 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 6 para. 8(6)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/6/paragraph/8/6); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-9c674594cdbc1acf98fd19ecffc34f04]: Modification: Act applied (with modifications) (27.3.2012 for specified purposes, 1.10.2012 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 6 para. 8(6)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/6/paragraph/8/6); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
 
-[^key-28bcee9a81ea6d35d008b9f71a84b62b]: Modification: Act modified by 1983 c. 20, s. 12ZB(7) (as inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/38/1), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7)))
+[^c-28bcee9a81ea6d35d008b9f71a84b62b]: Modification: Act modified by 1983 c. 20, s. 12ZB(7) (as inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/38/1), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7)))
 
-[^key-e25e4b8c210d12f03e1978523ee61574]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/41) modified (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 47(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/47/2), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/g)
+[^c-e25e4b8c210d12f03e1978523ee61574]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/41) modified (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 47(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/47/2), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/g)
 
-[^key-2c8431bc0c5c711eede3d947dc59f9c6]: Textual amendment: S. 1H and cross-heading inserted (1.10.2012 for specified purposes, 1.2.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/9/1), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4) (with [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2012/7/schedule/6/paragraph/2)); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2012/1831/article/3/1)); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-2c8431bc0c5c711eede3d947dc59f9c6]: Textual amendment: S. 1H and cross-heading inserted (1.10.2012 for specified purposes, 1.2.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/9/1), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4) (with [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2012/7/schedule/6/paragraph/2)); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2012/1831/article/3/1)); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-c26379f595629655ada8a57e0d3d2bfd]: Textual amendment: Words in Act substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-c26379f595629655ada8a57e0d3d2bfd]: Textual amendment: Words in Act substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-3555dbb18f14688fae4cf9cc21cdf4ff]: Textual amendment: [S. 1I and cross-heading](https://www.legislation.gov.uk/ukpga/2006/41/part/1/crossheading/role-of-clinical-commissioning-groups-in-the-health-service-in-england) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 18](https://www.legislation.gov.uk/ukpga/2022/31/section/18), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-3555dbb18f14688fae4cf9cc21cdf4ff]: Textual amendment: [S. 1I and cross-heading](https://www.legislation.gov.uk/ukpga/2006/41/part/1/crossheading/role-of-clinical-commissioning-groups-in-the-health-service-in-england) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 18](https://www.legislation.gov.uk/ukpga/2022/31/section/18), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-9ea1dc5b8d6730156bf87e5c10771807]: Textual amendment: S. 2 cross-heading substituted (1.10.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/1/2); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2012/1831/article/10)) (as amended (22.10.2012) by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), art. 15); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-9ea1dc5b8d6730156bf87e5c10771807]: Textual amendment: S. 2 cross-heading substituted (1.10.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/1/2); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2012/1831/article/10)) (as amended (22.10.2012) by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), art. 15); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-97920648b293cf4d106f3f5b8df3a59d]: Textual amendment: S. 2A and cross-heading inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 11](https://www.legislation.gov.uk/ukpga/2012/7/section/11), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-97920648b293cf4d106f3f5b8df3a59d]: Textual amendment: S. 2A and cross-heading inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 11](https://www.legislation.gov.uk/ukpga/2012/7/section/11), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-1ecd5c53c194055f08f19896bc088e0c]: Textual amendment: S. 3 cross-heading substituted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 13(7)](https://www.legislation.gov.uk/ukpga/2012/7/section/13/7), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-1ecd5c53c194055f08f19896bc088e0c]: Textual amendment: S. 3 cross-heading substituted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 13(7)](https://www.legislation.gov.uk/ukpga/2012/7/section/13/7), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-fad6fe248246e3d6fe9b220e4ab50eed]: Textual amendment: S. 6C and cross-heading inserted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/18/1), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-fad6fe248246e3d6fe9b220e4ab50eed]: Textual amendment: S. 6C and cross-heading inserted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/18/1), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-48313c182e5113a88af7ce14d4b78aef]: Textual amendment: S. 7 cross-heading and heading substituted (27.3.2012 for specified purposes, 1.10.2012 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 21(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/21/4), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-48313c182e5113a88af7ce14d4b78aef]: Textual amendment: S. 7 cross-heading and heading substituted (27.3.2012 for specified purposes, 1.10.2012 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 21(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/21/4), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
 
-[^key-7a5baf40df5397aaaaecbd8fd0340e4f]: Textual amendment: S. 7A and cross-heading inserted (1.10.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 22](https://www.legislation.gov.uk/ukpga/2012/7/section/22), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-7a5baf40df5397aaaaecbd8fd0340e4f]: Textual amendment: S. 7A and cross-heading inserted (1.10.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 22](https://www.legislation.gov.uk/ukpga/2012/7/section/22), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-902e5dd2ef9f965ebab5bc81d7dec84c]: Textual amendment: S. 8 cross-heading inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 5(3)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/5/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-902e5dd2ef9f965ebab5bc81d7dec84c]: Textual amendment: S. 8 cross-heading inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 5(3)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/5/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-6f93944c29040ab462e1391e86ccf81f]: Textual amendment: S. 12 cross-heading substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 8(7)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/8/7); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-6f93944c29040ab462e1391e86ccf81f]: Textual amendment: S. 12 cross-heading substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 8(7)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/8/7); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-e8a263d827f1e306f985b06a04ef3783]: Textual amendment: [S. 12ZB](https://www.legislation.gov.uk/ukpga/2006/41/section/12ZB) and cross-heading inserted (1.1.2024) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 79](https://www.legislation.gov.uk/ukpga/2022/31/section/79), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/b)
+[^c-e8a263d827f1e306f985b06a04ef3783]: Textual amendment: [S. 12ZB](https://www.legislation.gov.uk/ukpga/2006/41/section/12ZB) and cross-heading inserted (1.1.2024) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 79](https://www.legislation.gov.uk/ukpga/2022/31/section/79), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/b)
 
-[^key-5fa311cd640bc6dd3f28029e1e18e6cd]: Textual amendment: Ss. 12A-12D and cross-heading inserted (19.1.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 11](https://www.legislation.gov.uk/ukpga/2009/21/section/11), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1); [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/30/article/2/b)
+[^c-5fa311cd640bc6dd3f28029e1e18e6cd]: Textual amendment: Ss. 12A-12D and cross-heading inserted (19.1.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 11](https://www.legislation.gov.uk/ukpga/2009/21/section/11), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1); [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/30/article/2/b)
 
-[^key-eaff8908bd83bf3704326f926e3ba9ea]: Textual amendment: S. 12E and cross-heading inserted (1.10.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 147](https://www.legislation.gov.uk/ukpga/2012/7/section/147), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-eaff8908bd83bf3704326f926e3ba9ea]: Textual amendment: S. 12E and cross-heading inserted (1.10.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 147](https://www.legislation.gov.uk/ukpga/2012/7/section/147), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-c17c605fbd7569f0644650e6ed66435c]: Textual amendment: Pt. 2 Ch. A1 inserted (27.3.2012 for specified purposes, 1.10.2012 for specified purposes, 1.2.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/23/1), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/1831/article/4)); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-c17c605fbd7569f0644650e6ed66435c]: Textual amendment: Pt. 2 Ch. A1 inserted (27.3.2012 for specified purposes, 1.10.2012 for specified purposes, 1.2.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/23/1), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/1831/article/4)); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-4d095f19a35d341261dc63166c0ff860]: Textual amendment: [S. 13SB](https://www.legislation.gov.uk/ukpga/2006/41/section/13SB) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 34(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/34/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [19(1)](https://www.legislation.gov.uk/uksi/2022/734/regulation/19/1)[(2)](https://www.legislation.gov.uk/uksi/2022/734/regulation/19/2), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-4d095f19a35d341261dc63166c0ff860]: Textual amendment: [S. 13SB](https://www.legislation.gov.uk/ukpga/2006/41/section/13SB) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 34(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/34/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [19(1)](https://www.legislation.gov.uk/uksi/2022/734/regulation/19/1)[(2)](https://www.legislation.gov.uk/uksi/2022/734/regulation/19/2), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-46f313b09bcfcad07d8d930803e9bd30]: Textual amendment: [S. 13UA](https://www.legislation.gov.uk/ukpga/2006/41/section/13UA) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 74](https://www.legislation.gov.uk/ukpga/2022/31/section/74), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-46f313b09bcfcad07d8d930803e9bd30]: Textual amendment: [S. 13UA](https://www.legislation.gov.uk/ukpga/2006/41/section/13UA) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 74](https://www.legislation.gov.uk/ukpga/2022/31/section/74), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-323de74825ad4db128c7cc3608c03e54]: Textual amendment: [S. 13YA](https://www.legislation.gov.uk/ukpga/2006/41/section/13YA) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 12](https://www.legislation.gov.uk/ukpga/2022/31/section/12), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-323de74825ad4db128c7cc3608c03e54]: Textual amendment: [S. 13YA](https://www.legislation.gov.uk/ukpga/2006/41/section/13YA) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 12](https://www.legislation.gov.uk/ukpga/2022/31/section/12), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-70d2f9c3403451f3e8aa91932cc412bc]: Textual amendment: [S. 13YB](https://www.legislation.gov.uk/ukpga/2006/41/section/13YB) and cross-heading inserted (1.4.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/13/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/a)
+[^c-70d2f9c3403451f3e8aa91932cc412bc]: Textual amendment: [S. 13YB](https://www.legislation.gov.uk/ukpga/2006/41/section/13YB) and cross-heading inserted (1.4.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/13/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/a)
 
-[^key-6da2806ccaf9e62f9db7f93833195352]: Textual amendment: [S. 13Z-13ZB](https://www.legislation.gov.uk/ukpga/2006/41/section/13Z) and cross-heading omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 71(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/71/4), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-6da2806ccaf9e62f9db7f93833195352]: Textual amendment: [S. 13Z-13ZB](https://www.legislation.gov.uk/ukpga/2006/41/section/13Z) and cross-heading omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 71(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/71/4), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-82d9f757a105dee8d80d0c23139b8000]: Textual amendment: [Ss. 13ZC-13ZF](https://www.legislation.gov.uk/ukpga/2006/41/section/13ZC) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 45(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/45/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-82d9f757a105dee8d80d0c23139b8000]: Textual amendment: [Ss. 13ZC-13ZF](https://www.legislation.gov.uk/ukpga/2006/41/section/13ZC) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 45(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/45/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-b34524861daa6ae6c75294ad70893ff6]: Textual amendment: [S. 13Z2 and cross-heading](https://www.legislation.gov.uk/ukpga/2006/41/part/2/chapter/A1/crossheading/intervention-powers) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 45(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/45/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-b34524861daa6ae6c75294ad70893ff6]: Textual amendment: [S. 13Z2 and cross-heading](https://www.legislation.gov.uk/ukpga/2006/41/part/2/chapter/A1/crossheading/intervention-powers) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 45(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/45/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-d504964dfc83cb183dafe3faf00dd2f6]: Textual amendment: [Pt. 2 Ch. A2](https://www.legislation.gov.uk/ukpga/2006/41/part/2/chapter/A2) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 100](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/100); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [23](https://www.legislation.gov.uk/uksi/2022/734/regulation/23), [24](https://www.legislation.gov.uk/uksi/2022/734/regulation/24), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-d504964dfc83cb183dafe3faf00dd2f6]: Textual amendment: [Pt. 2 Ch. A2](https://www.legislation.gov.uk/ukpga/2006/41/part/2/chapter/A2) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 100](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/100); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [23](https://www.legislation.gov.uk/uksi/2022/734/regulation/23), [24](https://www.legislation.gov.uk/uksi/2022/734/regulation/24), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-b6af639f7551d731516bf50373d99124]: Textual amendment: [Pt. 2 Ch. A3](https://www.legislation.gov.uk/ukpga/2006/41/part/2/chapter/A3) inserted (9.5.2022 but only for the insertion of ss. 14Z25 (for specified purposes), 14Z26, 14Z28, 1.7.2022 in so far as not already in force) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/19/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/515](https://www.legislation.gov.uk/uksi/2022/515), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/515/regulation/2/c); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-b6af639f7551d731516bf50373d99124]: Textual amendment: [Pt. 2 Ch. A3](https://www.legislation.gov.uk/ukpga/2006/41/part/2/chapter/A3) inserted (9.5.2022 but only for the insertion of ss. 14Z25 (for specified purposes), 14Z26, 14Z28, 1.7.2022 in so far as not already in force) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/19/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/515](https://www.legislation.gov.uk/uksi/2022/515), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/515/regulation/2/c); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-1c14b41eea63136ad7dcb691cfba3d95]: Textual amendment: [S. 14Z31](https://www.legislation.gov.uk/ukpga/2006/41/section/14Z31) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 20(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/20/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-1c14b41eea63136ad7dcb691cfba3d95]: Textual amendment: [S. 14Z31](https://www.legislation.gov.uk/ukpga/2006/41/section/14Z31) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 20(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/20/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-0977b6b7f4c41c860f11375ed30d35ad]: Textual amendment: [Ss. 14Z32-14Z64](https://www.legislation.gov.uk/ukpga/2006/41/section/14Z32) and cross-headings inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/25/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30), [33](https://www.legislation.gov.uk/uksi/2022/734/regulation/33))
+[^c-0977b6b7f4c41c860f11375ed30d35ad]: Textual amendment: [Ss. 14Z32-14Z64](https://www.legislation.gov.uk/ukpga/2006/41/section/14Z32) and cross-headings inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/25/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30), [33](https://www.legislation.gov.uk/uksi/2022/734/regulation/33))
 
-[^key-5f613362ffac3b2c96c17ea8ed04ed4f]: Textual amendment: [Pt. 2 Ch. 1](https://www.legislation.gov.uk/ukpga/2006/41/part/2/chapter/1) repealed (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/33/2), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-5f613362ffac3b2c96c17ea8ed04ed4f]: Textual amendment: [Pt. 2 Ch. 1](https://www.legislation.gov.uk/ukpga/2006/41/part/2/chapter/1) repealed (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/33/2), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-03477279c50bbb27711066616a136e1b]: Textual amendment: Pt. 2 Ch. 2 repealed (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 34(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/34/2), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-03477279c50bbb27711066616a136e1b]: Textual amendment: Pt. 2 Ch. 2 repealed (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 34(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/34/2), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-eb9ddcb5620cf2023ca0806440fbb908]: Textual amendment: S. 56 cross-heading substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 172(9)](https://www.legislation.gov.uk/ukpga/2012/7/section/172/9), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
+[^c-eb9ddcb5620cf2023ca0806440fbb908]: Textual amendment: S. 56 cross-heading substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 172(9)](https://www.legislation.gov.uk/ukpga/2012/7/section/172/9), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
 
-[^key-17cf88763d4009b94ad6caf0b8ba8e30]: Textual amendment: Pt. 2 Ch. 5A inserted (15.2.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 16](https://www.legislation.gov.uk/ukpga/2009/21/section/16), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1); [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/30/article/3/a)
+[^c-17cf88763d4009b94ad6caf0b8ba8e30]: Textual amendment: Pt. 2 Ch. 5A inserted (15.2.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 16](https://www.legislation.gov.uk/ukpga/2009/21/section/16), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1); [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/30/article/3/a)
 
-[^key-438d918d60609d598ae33d5d5ccb2549]: Textual amendment: S. 65D cross-heading omitted (1.11.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 174(7)](https://www.legislation.gov.uk/ukpga/2012/7/section/174/7), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/2)
+[^c-438d918d60609d598ae33d5d5ccb2549]: Textual amendment: S. 65D cross-heading omitted (1.11.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 174(7)](https://www.legislation.gov.uk/ukpga/2012/7/section/174/7), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/2)
 
 [^M_F_1bcaf067-a9e8-4f1a-e9e6-1d75bedb4903]: Textual amendment: S. 65K cross-heading substituted (27.3.2012 for specified purposes, 1.11.2012 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), ss. 177(7), 306(1)(d)(4); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/2)
 
-[^key-d5a727a0b2669f31e1fbb672e2bb8d9b]: Textual amendment: Words in [s. 65K cross-heading](https://www.legislation.gov.uk/ukpga/2006/41/part/2/chapter/5A/crossheading/action-by-the-secretary-of-state) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/10); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-d5a727a0b2669f31e1fbb672e2bb8d9b]: Textual amendment: Words in [s. 65K cross-heading](https://www.legislation.gov.uk/ukpga/2006/41/part/2/chapter/5A/crossheading/action-by-the-secretary-of-state) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/10); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-085bfd05775c70ad88217af898115276]: Textual amendment: [Pt. 2 Ch. 5B](https://www.legislation.gov.uk/ukpga/2006/41/part/2/chapter/5B) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/15); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-085bfd05775c70ad88217af898115276]: Textual amendment: [Pt. 2 Ch. 5B](https://www.legislation.gov.uk/ukpga/2006/41/part/2/chapter/5B) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/15); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-c5cb390cb88a3d0d97ea4fb5a2034eb4]: Textual amendment: [S. 65Z4](https://www.legislation.gov.uk/ukpga/2006/41/section/65Z4) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 14](https://www.legislation.gov.uk/ukpga/2022/31/section/14), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [15](https://www.legislation.gov.uk/uksi/2022/734/regulation/15), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-c5cb390cb88a3d0d97ea4fb5a2034eb4]: Textual amendment: [S. 65Z4](https://www.legislation.gov.uk/ukpga/2006/41/section/65Z4) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 14](https://www.legislation.gov.uk/ukpga/2022/31/section/14), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [15](https://www.legislation.gov.uk/uksi/2022/734/regulation/15), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-8036e60c978c3bcba72adba3d57f1384]: Textual amendment: [Ss. 65Z5-65Z7](https://www.legislation.gov.uk/ukpga/2006/41/section/65Z5) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 71(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/71/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-8036e60c978c3bcba72adba3d57f1384]: Textual amendment: [Ss. 65Z5-65Z7](https://www.legislation.gov.uk/ukpga/2006/41/section/65Z5) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 71(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/71/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-9b23af2be9cf6f25ab18862cdb23e3a6]: Textual amendment: [S. 68A](https://www.legislation.gov.uk/ukpga/2006/41/section/68A) and cross-heading inserted (31.1.2024) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 46(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/46/1), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/4/a)
+[^c-9b23af2be9cf6f25ab18862cdb23e3a6]: Textual amendment: [S. 68A](https://www.legislation.gov.uk/ukpga/2006/41/section/68A) and cross-heading inserted (31.1.2024) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 46(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/46/1), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/4/a)
 
-[^key-87175c6bed8deef967dbcadf1e2c5f4a]: Textual amendment: [S. 69A](https://www.legislation.gov.uk/ukpga/2006/41/section/69A) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 69](https://www.legislation.gov.uk/ukpga/2022/31/section/69), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-87175c6bed8deef967dbcadf1e2c5f4a]: Textual amendment: [S. 69A](https://www.legislation.gov.uk/ukpga/2006/41/section/69A) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 69](https://www.legislation.gov.uk/ukpga/2022/31/section/69), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-5f8af2d855734e8c64cf1687abcf2faf]: Textual amendment: [S. 72A](https://www.legislation.gov.uk/ukpga/2006/41/section/72A) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 83(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/83/1), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-5f8af2d855734e8c64cf1687abcf2faf]: Textual amendment: [S. 72A](https://www.legislation.gov.uk/ukpga/2006/41/section/72A) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 83(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/83/1), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-a368b99ad301f031b3ef8f51ec3b8c1f]: Textual amendment: S. 83 cross-heading substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 30(5)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/30/5); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-a368b99ad301f031b3ef8f51ec3b8c1f]: Textual amendment: S. 83 cross-heading substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 30(5)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/30/5); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-693a6a02e89a4356d581904e78f9f26b]: Textual amendment: [S. 98A](https://www.legislation.gov.uk/ukpga/2006/41/section/98A) and cross-heading inserted (27.3.2012 for specified purposes) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 49(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/49/1), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4)
+[^c-693a6a02e89a4356d581904e78f9f26b]: Textual amendment: [S. 98A](https://www.legislation.gov.uk/ukpga/2006/41/section/98A) and cross-heading inserted (27.3.2012 for specified purposes) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 49(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/49/1), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4)
 
-[^key-77f8d2651686a01da60bdd7392d1917a]: Textual amendment: [S. 99 cross-heading](https://www.legislation.gov.uk/ukpga/2006/41/part/5/crossheading/duty-of-primary-care-trusts-in-relation-to-primary-dental-services) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 42(6)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/42/6); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-77f8d2651686a01da60bdd7392d1917a]: Textual amendment: [S. 99 cross-heading](https://www.legislation.gov.uk/ukpga/2006/41/part/5/crossheading/duty-of-primary-care-trusts-in-relation-to-primary-dental-services) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 42(6)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/42/6); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-50bced38dae3064e7ccb050db2b62fc2]: Textual amendment: S. 114A and cross-heading inserted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 49(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/49/2), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-50bced38dae3064e7ccb050db2b62fc2]: Textual amendment: S. 114A and cross-heading inserted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 49(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/49/2), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-09a24fc582f3631c2fdb27b782483a6c]: Textual amendment: [S. 115 cross-heading](https://www.legislation.gov.uk/ukpga/2006/41/part/6/crossheading/duty-of-primary-care-trusts-in-relation-to-primary-ophthalmic-services) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 54(8)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/54/8); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-09a24fc582f3631c2fdb27b782483a6c]: Textual amendment: [S. 115 cross-heading](https://www.legislation.gov.uk/ukpga/2006/41/part/6/crossheading/duty-of-primary-care-trusts-in-relation-to-primary-ophthalmic-services) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 54(8)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/54/8); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-677d6271d7a4cd330ed7341e8cebe301]: Textual amendment: S. 125A and cross-heading inserted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 49(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/49/3), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-677d6271d7a4cd330ed7341e8cebe301]: Textual amendment: S. 125A and cross-heading inserted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 49(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/49/3), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-9de86e1011a257f2e6a8d4402f7d125c]: Textual amendment: [Pt. 7 Ch. 4A](https://www.legislation.gov.uk/ukpga/2006/41/part/7/chapter/4A) inserted (27.3.2012 for specified purposes, 1.10.2026 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 208(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/208/2), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2026/852](https://www.legislation.gov.uk/uksi/2026/852), [art. 2](https://www.legislation.gov.uk/uksi/2026/852/article/2)
+[^c-9de86e1011a257f2e6a8d4402f7d125c]: Textual amendment: [Pt. 7 Ch. 4A](https://www.legislation.gov.uk/ukpga/2006/41/part/7/chapter/4A) inserted (27.3.2012 for specified purposes, 1.10.2026 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 208(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/208/2), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2026/852](https://www.legislation.gov.uk/uksi/2026/852), [art. 2](https://www.legislation.gov.uk/uksi/2026/852/article/2)
 
-[^key-7f2ed1a53ab6ac8f39c3d66ee2af7f28]: Textual amendment: [Pt. 7 Ch. 5](https://www.legislation.gov.uk/ukpga/2006/41/part/7/chapter/5) heading substituted (27.3.2012 for specified purposes, 1.10.2026 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 208(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/208/3), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2026/852](https://www.legislation.gov.uk/uksi/2026/852), [art. 2](https://www.legislation.gov.uk/uksi/2026/852/article/2)
+[^c-7f2ed1a53ab6ac8f39c3d66ee2af7f28]: Textual amendment: [Pt. 7 Ch. 5](https://www.legislation.gov.uk/ukpga/2006/41/part/7/chapter/5) heading substituted (27.3.2012 for specified purposes, 1.10.2026 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 208(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/208/3), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2026/852](https://www.legislation.gov.uk/uksi/2026/852), [art. 2](https://www.legislation.gov.uk/uksi/2026/852/article/2)
 
-[^key-e7c3dc1c3bd7604647e946f0e1a82485]: Textual amendment: Pt. 7 Ch. 5A inserted (1.9.2012) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 28](https://www.legislation.gov.uk/ukpga/2009/21/section/28), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1); [S.I. 2012/1902](https://www.legislation.gov.uk/uksi/2012/1902), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/1902/article/2/c)
+[^c-e7c3dc1c3bd7604647e946f0e1a82485]: Textual amendment: Pt. 7 Ch. 5A inserted (1.9.2012) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 28](https://www.legislation.gov.uk/ukpga/2009/21/section/28), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1); [S.I. 2012/1902](https://www.legislation.gov.uk/uksi/2012/1902), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/1902/article/2/c)
 
-[^key-8bdf1e28e0d678a42b4dc624dd5c3ba2]: Textual amendment: S. 168A and cross-heading inserted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 49(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/49/4), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-8bdf1e28e0d678a42b4dc624dd5c3ba2]: Textual amendment: S. 168A and cross-heading inserted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 49(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/49/4), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-a2084812ceca0a46ded1cd57be868e9e]: Textual amendment: Pt. 8 heading substituted (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 120](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/120) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-a2084812ceca0a46ded1cd57be868e9e]: Textual amendment: Pt. 8 heading substituted (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 120](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/120) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
 
-[^key-c4da92b9c472463d47ca87e3586e5833]: Textual amendment: Ss. 223B-223F and cross-heading inserted (27.3.2012 for specified purposes, 1.10.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 24](https://www.legislation.gov.uk/ukpga/2012/7/section/24), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-c4da92b9c472463d47ca87e3586e5833]: Textual amendment: Ss. 223B-223F and cross-heading inserted (27.3.2012 for specified purposes, 1.10.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 24](https://www.legislation.gov.uk/ukpga/2012/7/section/24), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-f97e43582e46abb03e96302cd695aa59]: Textual amendment: [S. 223G cross-heading](https://www.legislation.gov.uk/ukpga/2006/41/chapter/6/crossheading/clinical-commissioning-groups) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 29(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/29/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [34](https://www.legislation.gov.uk/uksi/2022/734/regulation/34))
+[^c-f97e43582e46abb03e96302cd695aa59]: Textual amendment: [S. 223G cross-heading](https://www.legislation.gov.uk/ukpga/2006/41/chapter/6/crossheading/clinical-commissioning-groups) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 29(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/29/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [34](https://www.legislation.gov.uk/uksi/2022/734/regulation/34))
 
-[^key-1f69d47caf7ad4abe93033ae36af797b]: Textual amendment: Ss. 223G-223K and cross-heading inserted (27.3.2012 for specified purposes, 1.10.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 27](https://www.legislation.gov.uk/ukpga/2012/7/section/27), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-1f69d47caf7ad4abe93033ae36af797b]: Textual amendment: Ss. 223G-223K and cross-heading inserted (27.3.2012 for specified purposes, 1.10.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 27](https://www.legislation.gov.uk/ukpga/2012/7/section/27), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-164a6ad914592bdc60b0f4e23d1a2f53]: Textual amendment: [Ss. 223L-223O](https://www.legislation.gov.uk/ukpga/2006/41/section/223L) and cross-headings inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2022/31/section/29/5), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [34](https://www.legislation.gov.uk/uksi/2022/734/regulation/34))
+[^c-164a6ad914592bdc60b0f4e23d1a2f53]: Textual amendment: [Ss. 223L-223O](https://www.legislation.gov.uk/ukpga/2006/41/section/223L) and cross-headings inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2022/31/section/29/5), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [34](https://www.legislation.gov.uk/uksi/2022/734/regulation/34))
 
-[^key-6cff2c10c199c9baba113e71c632feb2]: Textual amendment: [S. 232 and cross-heading](https://www.legislation.gov.uk/ukpga/2006/41/part/11/chapter/6/crossheading/accounts-and-audit) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 87(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2022/31/section/87/3/b/i), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-6cff2c10c199c9baba113e71c632feb2]: Textual amendment: [S. 232 and cross-heading](https://www.legislation.gov.uk/ukpga/2006/41/part/11/chapter/6/crossheading/accounts-and-audit) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 87(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2022/31/section/87/3/b/i), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-76da3754b5cc922a7a4351a60308d832]: Textual amendment: Pt. 12 Ch. 3 title substituted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 190(8)](https://www.legislation.gov.uk/ukpga/2012/7/section/190/8), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-76da3754b5cc922a7a4351a60308d832]: Textual amendment: Pt. 12 Ch. 3 title substituted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 190(8)](https://www.legislation.gov.uk/ukpga/2012/7/section/190/8), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-57606d9de364ea15e64649091326a583]: Textual amendment: [S. 247B](https://www.legislation.gov.uk/ukpga/2006/41/section/247B) and cross-heading inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 60(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/60/1), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-57606d9de364ea15e64649091326a583]: Textual amendment: [S. 247B](https://www.legislation.gov.uk/ukpga/2006/41/section/247B) and cross-heading inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 60(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/60/1), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-d9a59fc378350c80eaa3c1c7f581e0b1]: Textual amendment: S. 247C and cross-heading inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 52](https://www.legislation.gov.uk/ukpga/2012/7/section/52), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-d9a59fc378350c80eaa3c1c7f581e0b1]: Textual amendment: S. 247C and cross-heading inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 52](https://www.legislation.gov.uk/ukpga/2012/7/section/52), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-619aea0c19a1b85bf2edc4d5c709ca65]: Textual amendment: [S. 247D](https://www.legislation.gov.uk/ukpga/2006/41/section/247D) and cross-heading inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 53](https://www.legislation.gov.uk/ukpga/2012/7/section/53), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-619aea0c19a1b85bf2edc4d5c709ca65]: Textual amendment: [S. 247D](https://www.legislation.gov.uk/ukpga/2006/41/section/247D) and cross-heading inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 53](https://www.legislation.gov.uk/ukpga/2012/7/section/53), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-97cb194b91d390aa63ae0dad995f5b53]: Textual amendment: [S. 253 cross-heading](https://www.legislation.gov.uk/ukpga/2006/41/part/13/crossheading/emergency-powers) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 46](https://www.legislation.gov.uk/ukpga/2012/7/section/46), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-97cb194b91d390aa63ae0dad995f5b53]: Textual amendment: [S. 253 cross-heading](https://www.legislation.gov.uk/ukpga/2006/41/part/13/crossheading/emergency-powers) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 46](https://www.legislation.gov.uk/ukpga/2012/7/section/46), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-bac1b9e3ffd3487d99fc9009a6b27e75]: Textual amendment: Words in [s. 252A cross-heading](https://www.legislation.gov.uk/ukpga/2006/41/part/13/crossheading/emergency-powers) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 123](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/123); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-bac1b9e3ffd3487d99fc9009a6b27e75]: Textual amendment: Words in [s. 252A cross-heading](https://www.legislation.gov.uk/ukpga/2006/41/part/13/crossheading/emergency-powers) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 123](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/123); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-511ac98985f1405c1e711dc059dff4ef]: Textual amendment: S. 254A and cross-heading inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 128](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/128); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-511ac98985f1405c1e711dc059dff4ef]: Textual amendment: S. 254A and cross-heading inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 128](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/128); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-64aeaf0b49f5ce5f4ec8332b5dde16a6]: Textual amendment: S. 268 and cross-heading omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 133](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/133); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-64aeaf0b49f5ce5f4ec8332b5dde16a6]: Textual amendment: S. 268 and cross-heading omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 133](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/133); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

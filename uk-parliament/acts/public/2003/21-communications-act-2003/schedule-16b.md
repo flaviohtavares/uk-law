@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 16B — Parts 3A and 3B: liability of parent entities etc[^key-3fb7ebfa6deac645dcfc2326f536246e]
+## Schedule 16B — Parts 3A and 3B: liability of parent entities etc[^c-3fb7ebfa6deac645dcfc2326f536246e]
 
 *Extent: E+W+S+N.I.*
 
@@ -227,4 +227,4 @@ In its application for the purposes of this Schedule, paragraph 4 of Schedule 7 
 
 ## Annotations
 
-[^key-3fb7ebfa6deac645dcfc2326f536246e]: Textual amendment: [Sch. 16B](https://www.legislation.gov.uk/ukpga/2003/21/schedule/16B) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(g)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/g), [Sch. 11](https://www.legislation.gov.uk/ukpga/2024/15/schedule/11); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z5)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z5)
+[^c-3fb7ebfa6deac645dcfc2326f536246e]: Textual amendment: [Sch. 16B](https://www.legislation.gov.uk/ukpga/2003/21/schedule/16B) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(g)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/g), [Sch. 11](https://www.legislation.gov.uk/ukpga/2024/15/schedule/11); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z5)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z5)

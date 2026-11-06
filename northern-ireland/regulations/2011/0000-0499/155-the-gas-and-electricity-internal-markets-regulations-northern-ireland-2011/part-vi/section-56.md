@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Amendment to the Electricity Order[^key-678a7d827e952146f1d97eebed01fbe2]
+## 56. Amendment to the Electricity Order[^c-678a7d827e952146f1d97eebed01fbe2]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In Article 50(2) of the Electricity Order for the words “give general directio
 
 ## Annotations
 
-[^key-678a7d827e952146f1d97eebed01fbe2]: Commencement: Reg. 56 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-678a7d827e952146f1d97eebed01fbe2]: Commencement: Reg. 56 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

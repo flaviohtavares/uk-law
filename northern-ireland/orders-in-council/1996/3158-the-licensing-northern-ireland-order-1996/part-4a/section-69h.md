@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69H. Enforcement of closure order[^key-ef70bbf2419afa46388f7b74ad26523a]
+## 69H. Enforcement of closure order[^c-ef70bbf2419afa46388f7b74ad26523a]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A constable may use such force as may be necessary for the purposes of closing p
 
 ## Annotations
 
-[^key-ef70bbf2419afa46388f7b74ad26523a]: Textual amendment: Pt. 4A inserted (10.12.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 1(1)](https://www.legislation.gov.uk/nia/2011/18/section/1/1), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/420](https://www.legislation.gov.uk/nisr/2012/420), [art. 2](https://www.legislation.gov.uk/nisr/2012/420/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/420/schedule)
+[^c-ef70bbf2419afa46388f7b74ad26523a]: Textual amendment: Pt. 4A inserted (10.12.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 1(1)](https://www.legislation.gov.uk/nia/2011/18/section/1/1), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/420](https://www.legislation.gov.uk/nisr/2012/420), [art. 2](https://www.legislation.gov.uk/nisr/2012/420/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/420/schedule)

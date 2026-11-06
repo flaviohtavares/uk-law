@@ -145,7 +145,7 @@ Section 122
 > - (a) social security, or
 > - (b) any scheme made under section 286 (financial assistance scheme).
 
-**15.**[^key-611b3ef299a414cda390a4d3a22c30a2] In paragraph 33, make the existing provision sub-paragraph (1) and at the end add—
+**15.**[^c-611b3ef299a414cda390a4d3a22c30a2] In paragraph 33, make the existing provision sub-paragraph (1) and at the end add—
 
 > (2) Where the scheme is a variable-rate scheme, regulations under this paragraph may have the effect that the amount of periodic compensation payable to a person is, from a specified time, to be different from the amount that would otherwise be payable under this Schedule.
 >
@@ -184,4 +184,4 @@ Section 122
 
 [^c21652721]: Commencement: Sch. 8 para. 14 partly in force; para. 14 not in force at Royal Assent see s. 149(1); para. 14 in force for specified purposes at 1.4.2009 by [S.I. 2009/809](https://www.legislation.gov.uk/uksi/2009/809), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2009/809/article/2/b/iii)
 
-[^key-611b3ef299a414cda390a4d3a22c30a2]: Commencement: [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2008/30/schedule/8/paragraph/15) in force at 22.1.2018 by [S.I. 2018/63](https://www.legislation.gov.uk/uksi/2018/63), [art. 2](https://www.legislation.gov.uk/uksi/2018/63/article/2)
+[^c-611b3ef299a414cda390a4d3a22c30a2]: Commencement: [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2008/30/schedule/8/paragraph/15) in force at 22.1.2018 by [S.I. 2018/63](https://www.legislation.gov.uk/uksi/2018/63), [art. 2](https://www.legislation.gov.uk/uksi/2018/63/article/2)

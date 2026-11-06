@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11D. Income charged at the savings basic, higher and additional rates : individuals[^M_F_0bdb417b-a26d-4b81-b990-555b06da4236][^key-fac30f18b4a1e2da936f01db88804b78]
+## 11D. Income charged at the savings basic, higher and additional rates : individuals[^M_F_0bdb417b-a26d-4b81-b990-555b06da4236][^c-fac30f18b4a1e2da936f01db88804b78]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^M_F_0bdb417b-a26d-4b81-b990-555b06da4236]: Textual amendment: Ss. 11C, 11D inserted (30.11.2016 with effect in relation to tax year 2017-18 and subsequent tax years) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 6(8)(b)(24)](https://www.legislation.gov.uk/ukpga/2016/24/section/6/8/b); [S.I. 2016/1161](https://www.legislation.gov.uk/uksi/2016/1161), [regs. 2](https://www.legislation.gov.uk/uksi/2016/1161/regulation/2), [3](https://www.legislation.gov.uk/uksi/2016/1161/regulation/3)
 
-[^key-fac30f18b4a1e2da936f01db88804b78]: Textual amendment: Word in s. 11D heading inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/11)
+[^c-fac30f18b4a1e2da936f01db88804b78]: Textual amendment: Word in s. 11D heading inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/11)

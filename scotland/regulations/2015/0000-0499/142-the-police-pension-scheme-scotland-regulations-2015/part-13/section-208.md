@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 208. Scheme manager to be scheme administrator for purposes of Part 4 of Finance Act 2004[^key-c448eaebb2adfce56221d62dc619594e]
+## 208. Scheme manager to be scheme administrator for purposes of Part 4 of Finance Act 2004[^c-c448eaebb2adfce56221d62dc619594e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The scheme manager is appointed to be responsible for all functions that are fun
 
 ## Annotations
 
-[^key-c448eaebb2adfce56221d62dc619594e]: Commencement: Reg. 208 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-c448eaebb2adfce56221d62dc619594e]: Commencement: Reg. 208 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

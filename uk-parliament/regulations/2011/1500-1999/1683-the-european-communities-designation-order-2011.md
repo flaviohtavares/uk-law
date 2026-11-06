@@ -32,7 +32,7 @@ summary: ''
 
 European Union
 
-The European Communities (Designation) Order 2011 (revoked)[^key-8dbb416450c8703dd90fdc0ba8c018bb]
+The European Communities (Designation) Order 2011 (revoked)[^c-8dbb416450c8703dd90fdc0ba8c018bb]
 
 Made
 
@@ -52,31 +52,31 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-8dbb416450c8703dd90fdc0ba8c018bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8dbb416450c8703dd90fdc0ba8c018bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-8dbb416450c8703dd90fdc0ba8c018bb]
+## 1. Citation, commencement and interpretation[^c-8dbb416450c8703dd90fdc0ba8c018bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation in relation to flooding[^key-8dbb416450c8703dd90fdc0ba8c018bb]
+## 2. Designation in relation to flooding[^c-8dbb416450c8703dd90fdc0ba8c018bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Territorial restrictions[^key-8dbb416450c8703dd90fdc0ba8c018bb]
+## 3. Territorial restrictions[^c-8dbb416450c8703dd90fdc0ba8c018bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Relationship with other designations[^key-8dbb416450c8703dd90fdc0ba8c018bb]
+## 4. Relationship with other designations[^c-8dbb416450c8703dd90fdc0ba8c018bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8dbb416450c8703dd90fdc0ba8c018bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8dbb416450c8703dd90fdc0ba8c018bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-8dbb416450c8703dd90fdc0ba8c018bb]EXPLANATORY NOTE
+[^c-8dbb416450c8703dd90fdc0ba8c018bb]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -90,4 +90,4 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 ## Annotations
 
-[^key-8dbb416450c8703dd90fdc0ba8c018bb]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1683) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8dbb416450c8703dd90fdc0ba8c018bb]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1683) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

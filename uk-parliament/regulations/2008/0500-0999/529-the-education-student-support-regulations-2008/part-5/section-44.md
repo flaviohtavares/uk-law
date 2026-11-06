@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Parents’ learning allowance[^key-85dbd49e79e1c0cf0cd3f06f69eb3da4]
+## 44. Parents’ learning allowance[^c-85dbd49e79e1c0cf0cd3f06f69eb3da4]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85dbd49e79e1c0cf0cd3f06f69eb3da4]: Commencement: Reg. 44 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-85dbd49e79e1c0cf0cd3f06f69eb3da4]: Commencement: Reg. 44 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Fee loans in respect of courses beginning before 1 September 2012: eligible student who is a 2010 cohort student or a 2011 cohort student[^key-24c93ae3f9a1c6bb81cf9052df03f5fa]
+## 18. Fee loans in respect of courses beginning before 1 September 2012: eligible student who is a 2010 cohort student or a 2011 cohort student[^c-24c93ae3f9a1c6bb81cf9052df03f5fa]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24c93ae3f9a1c6bb81cf9052df03f5fa]: Commencement: Reg. 18 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-24c93ae3f9a1c6bb81cf9052df03f5fa]: Commencement: Reg. 18 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

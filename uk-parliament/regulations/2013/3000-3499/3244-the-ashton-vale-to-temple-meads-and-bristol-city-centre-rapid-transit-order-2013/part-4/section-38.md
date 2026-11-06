@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Removal of obstructions[^key-f11f82f12541b1a585f78242c42957a3]
+## 38. Removal of obstructions[^c-f11f82f12541b1a585f78242c42957a3]
 
 *Extent: E+W+S*
 
@@ -42,6 +42,6 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-f11f82f12541b1a585f78242c42957a3]: Commencement: Art. 38 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-f11f82f12541b1a585f78242c42957a3]: Commencement: Art. 38 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
 
 [^f00022]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22).

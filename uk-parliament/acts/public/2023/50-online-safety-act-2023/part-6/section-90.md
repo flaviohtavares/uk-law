@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Meaning of “charging year” and “initial charging year”[^key-5cd417a047b67aacaab53e4be0a210bf]
+## 90. Meaning of “charging year” and “initial charging year”[^c-5cd417a047b67aacaab53e4be0a210bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In this Part—
 
 ## Annotations
 
-[^key-5cd417a047b67aacaab53e4be0a210bf]: Commencement: S. 90 in force at Royal Assent, see [s. 240(4)(n)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/n)
+[^c-5cd417a047b67aacaab53e4be0a210bf]: Commencement: S. 90 in force at Royal Assent, see [s. 240(4)(n)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/n)

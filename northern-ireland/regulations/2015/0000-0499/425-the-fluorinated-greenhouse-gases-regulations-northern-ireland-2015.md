@@ -55,15 +55,15 @@ to be construed as references to those Commission Regulations as amended from ti
 
 (1) These Regulations may be cited as the Fluorinated Greenhouse Gases Regulations (Northern Ireland) 2015 and come into operation on 31st January 2016.
 
-(2) They apply to Northern Ireland [^key-78d2970ba48b44537f7f3e50a54aedd4]... only in so far as they do not deal with import and export controls and trade with any place outside the United Kingdom, within the meaning of paragraph 20 of Schedule 3 to the Northern Ireland Act 1998 or they do not deal with gases, products and equipment traded between Great Britain and Northern Ireland.[^key-4ff6047f179eaad514a3213116adc9c8] [^c22610111].
+(2) They apply to Northern Ireland [^c-78d2970ba48b44537f7f3e50a54aedd4]... only in so far as they do not deal with import and export controls and trade with any place outside the United Kingdom, within the meaning of paragraph 20 of Schedule 3 to the Northern Ireland Act 1998 or they do not deal with gases, products and equipment traded between Great Britain and Northern Ireland.[^c-4ff6047f179eaad514a3213116adc9c8] [^c22610111].
 
 ### 2. Interpretation: general
 
 (1) In these Regulations—
 
-- “the Interpretation Act” means the Interpretation Act (Northern Ireland) 1954;[^key-ca776ac07006564d090d0ac21c832e9e]
+- “the Interpretation Act” means the Interpretation Act (Northern Ireland) 1954;[^c-ca776ac07006564d090d0ac21c832e9e]
 - “**authorised person**” means a person authorised under regulation 19;
-- “**the Department**” means the Department of Agriculture, Environment and Rural Affairs[^key-303fe1bfb37f41c09521186339fd9092] ;
+- “**the Department**” means the Department of Agriculture, Environment and Rural Affairs[^c-303fe1bfb37f41c09521186339fd9092] ;
 - “**enforcement notice**” means an enforcement notice served under regulation 23;
 - “**enforcing authority**” means—
   - (a) as regards Northern Ireland, the Department or the district council, except where otherwise provided for in sub-paragraph (b);
@@ -78,7 +78,7 @@ to be construed as references to those Commission Regulations as amended from ti
   - (e) a Northern Ireland offshore installation or part of a Northern Ireland offshore installation; and
 - “**ship**” includes a hovercraft, submersible craft and any other floating craft but not a vessel which permanently rests on or is permanently attached to the seabed.
 
-(2)[^key-ae1b2a86ba72cb7a633936b614870f93] The Interpretation Act applies to these Regulations as it applies to an Act of the Assembly.
+(2)[^c-ae1b2a86ba72cb7a633936b614870f93] The Interpretation Act applies to these Regulations as it applies to an Act of the Assembly.
 
 (3) Section 20A (references to EU instruments) of the Interpretation Act 1978 applies to these Regulations as it applies to Acts of Parliament.
 
@@ -87,27 +87,27 @@ to be construed as references to those Commission Regulations as amended from ti
 (1) In these Regulations—
 
 - “**the 2014 Regulation**” means Regulation (EU) No 517/2014 of the European Parliament and of the Council on fluorinated greenhouse gases and repealing Regulation [(EC) No 842/2006](https://www.legislation.gov.uk/european/regulation/2006/0842) [^c22610131];
-- [^key-ea52ee4d44070be460f008f1181b8e53]...
+- [^c-ea52ee4d44070be460f008f1181b8e53]...
 - “**Commission Regulation 1497/2007**” means Commission Regulation [(EC) No 1497/2007](https://www.legislation.gov.uk/european/regulation/2007/1497) establishing, pursuant to Regulation [(EC) No 842/2006](https://www.legislation.gov.uk/european/regulation/2006/0842) of the European Parliament and of the
 
   Council, standard leakage checking requirements for stationary fire protection systems containing certain fluorinated greenhouse gases [^c22610141];
 - “**Commission Regulation 1516/2007**” means Commission Regulation [(EC) No 1516/2007](https://www.legislation.gov.uk/european/regulation/2007/1516) establishing, pursuant to Regulation [(EC) No 842/2006](https://www.legislation.gov.uk/european/regulation/2006/0842) of the European Parliament and of the
 
   Council, standard leakage checking requirements for stationary refrigeration, air conditioning and heat pump equipment containing certain fluorinated greenhouse gases [^c22610151];
-- [^key-1e1a21d7360babcec2a63a8740b3a6b9]...
+- [^c-1e1a21d7360babcec2a63a8740b3a6b9]...
 - “**Commission Regulation 304/2008**” means Commission Regulation [(EC) No 304/2008](https://www.legislation.gov.uk/european/regulation/2008/0304) establishing, pursuant to Regulation [(EC) No 842/2006](https://www.legislation.gov.uk/european/regulation/2006/0842) of the European Parliament and of the
 
   Council, minimum requirements and the conditions for mutual recognition for the certification of companies and personnel as regards stationary fire protection systems and fire extinguishers containing certain fluorinated greenhouse gases [^c22610171];
-- [^key-c3ae903a4eb20b27ddb981337b38eb81]...
+- [^c-c3ae903a4eb20b27ddb981337b38eb81]...
 - “**Commission Regulation 306/2008**” means Commission Regulation [(EC) No 306/2008](https://www.legislation.gov.uk/european/regulation/2008/0306) establishing, pursuant to Regulation [(EC) No 842/2006](https://www.legislation.gov.uk/european/regulation/2006/0842) of the European Parliament and of the
 
   Council, minimum requirements and the conditions for mutual recognition for the certification of personnel recovering certain fluorinated greenhouse gas-based solvents from equipment [^c22610191];
 - “**Commission Regulation 307/2008**” means Commission Regulation [(EC) No 307/2008](https://www.legislation.gov.uk/european/regulation/2008/0307) establishing, pursuant to Regulation [(EC) No 842/2006](https://www.legislation.gov.uk/european/regulation/2006/0842) of the European Parliament and of the
 
   Council, minimum requirements for training programmes and the conditions for mutual recognition of training attestations for personnel as regards air conditioning systems in certain motor vehicles containing certain fluorinated greenhouse gases [^c22610201];
-- [^key-30bebc92a0a13e1694e7609ea5ec05fd]... [^key-fc31a532f7c80a6d9ed5aaafa834aaf1]...
-- “**Commission Regulation 1191/2014**” means Commission Implementing Regulation (EU) No 1191/2014 determining the format and means for submitting the report referred to in Article 19 of Regulation (EU) No 517/2014 of the European Parliament and of the Council on fluorinated greenhouse gases [^c22610221];[^key-963a889beb2d71d9cd4e69b0a01dbec1]
-- “Commission Regulation 2015/2065” means Commission Implementing Regulation ([^key-7fbdae7b1a3478154b827854e4da818f]EU) 2015/2065 establishing, pursuant to Regulation (EU) No 517/2014 of the European Parliament and of the Council, the format for notification of the training and certification programmes of the Member States;
+- [^c-30bebc92a0a13e1694e7609ea5ec05fd]... [^c-fc31a532f7c80a6d9ed5aaafa834aaf1]...
+- “**Commission Regulation 1191/2014**” means Commission Implementing Regulation (EU) No 1191/2014 determining the format and means for submitting the report referred to in Article 19 of Regulation (EU) No 517/2014 of the European Parliament and of the Council on fluorinated greenhouse gases [^c22610221];[^c-963a889beb2d71d9cd4e69b0a01dbec1]
+- “Commission Regulation 2015/2065” means Commission Implementing Regulation ([^c-7fbdae7b1a3478154b827854e4da818f]EU) 2015/2065 establishing, pursuant to Regulation (EU) No 517/2014 of the European Parliament and of the Council, the format for notification of the training and certification programmes of the Member States;
 - “Commission Regulation 2015/2066” means Commission Implementing Regulation (EU) 2015/2066 establishing, pursuant to Regulation (EU) No 517/2014 of the European Parliament and of the Council, minimum requirements and the conditions for mutual recognition for the certification of natural persons carrying out installation, servicing, maintenance, repair or decommissioning of electrical switchgear containing fluorinated greenhouse gases or recovery of fluorinated greenhouse gases from stationary electrical switchgear;
 - “Commission Regulation 2015/2067” means Commission Implementing Regulation (EU) 2015/2067 establishing, pursuant to Regulation (EU) No 517/2014 of the European Parliament and of the Council, minimum requirements and the conditions for mutual recognition for the certification of natural persons as regards stationary refrigeration, air conditioning and heat pump equipment, and refrigeration units of refrigerated trucks and trailers, containing fluorinated greenhouse gases and for the certification of companies as regards stationary refrigeration, air conditioning and heat pump equipment, containing fluorinated greenhouse gases; and
 - “Commission Regulation 2015/2068” means Commission Implementing Regulation (EU) 2015/2068 establishing, pursuant to Regulation (EU) No 517/2014 of the European Parliament and of the Council, the format of labels for products and equipment containing fluorinated greenhouse gases.
@@ -115,7 +115,7 @@ to be construed as references to those Commission Regulations as amended from ti
 (2) Expressions used but not defined in these Regulations and used in the following legislation have the same meaning as they have in that legislation—
 
 - (a) the 2014 Regulation;
-- (b)[^key-58f9f5c091bd0230ac244920644127a5] Commission Regulation 1497/2007;
+- (b)[^c-58f9f5c091bd0230ac244920644127a5] Commission Regulation 1497/2007;
 - (c) Commission Regulation 1516/2007;
 - (d) Commission Regulation 304/2008;
 - (e) Commission Regulation 306/2008;
@@ -126,11 +126,11 @@ to be construed as references to those Commission Regulations as amended from ti
 - (j) Commission Regulation 2015/2067; and
 - (k) Commission Regulation 2015/2068.
 
-(3)[^key-090b896c68add0e52f543dc052a177fe] A reference in these Regulations to Commission Regulation 1191/2014 is a reference to that Commission Regulation as amended from time to time.
+(3)[^c-090b896c68add0e52f543dc052a177fe] A reference in these Regulations to Commission Regulation 1191/2014 is a reference to that Commission Regulation as amended from time to time.
 
 ### 4. Interpretation: offshore installations
 
-(1) In these Regulations, “**Northern Ireland offshore installation**” means an installation or a structure (other than a ship)[^key-d3b437a4ba211fb2c15a1b4353d3f9ba] which is situated in the marine area and used , or intended to be used or has been used,[^key-883b2533177251eb3807370cf3f5b77d] in connection with any of the following activities—
+(1) In these Regulations, “**Northern Ireland offshore installation**” means an installation or a structure (other than a ship)[^c-d3b437a4ba211fb2c15a1b4353d3f9ba] which is situated in the marine area and used , or intended to be used or has been used,[^c-883b2533177251eb3807370cf3f5b77d] in connection with any of the following activities—
 
 - (a) the exploitation, or exploration with a view to exploitation, of mineral resources in the marine area;
 - (b) the exploration of any place in the marine area, with a view to the storage of gas;
@@ -157,7 +157,7 @@ to be construed as references to those Commission Regulations as amended from ti
 
 The Department is the competent authority for the purposes of the 2014 Regulation in so far as that Regulation does not deal with import and export controls and trade with any place outside the United Kingdom, within the meaning of paragraph 20 of Schedule 3 to the Northern Ireland Act 1998.
 
-### 5A. Service of notices[^key-4666608c0c33e9f8de7844a5ba6cb84d]
+### 5A. Service of notices[^c-4666608c0c33e9f8de7844a5ba6cb84d]
 
 (1) Section 24 (service of documents) of the Interpretation Act applies to the service of notices subject to this regulation and any specific provision made in these Regulations for a particular type of notice.
 
@@ -185,7 +185,7 @@ The Department is the competent authority for the purposes of the 2014 Regulatio
 
 ## PART 2 — Certification, evaluation and attestation
 
-### 6. Appointment of certification, attestation and evaluation bodies[^key-a166efeb4ff991befb1578ec376d9a2a]
+### 6. Appointment of certification, attestation and evaluation bodies[^c-a166efeb4ff991befb1578ec376d9a2a]
 
 (1) The Department, after consulting the Scottish Ministers, the Welsh Ministers and the Secretary of State, may appoint such person and on such terms as the Department thinks fit to be—
 
@@ -211,14 +211,14 @@ The Department is the competent authority for the purposes of the 2014 Regulatio
 
 ### 7. Certificates, relating to stationary refrigeration, air conditioning and heat pump equipment, issued in EEA States and Great Britain
 
-(1) A person who holds a valid certificate issued under Article 4 or 6 of Commission Regulation 2015/2067[^key-eb51056d33ba6fde1e3b931bea2b5dde] by a certification body in an EEA State other than the United Kingdom in respect of an activity mentioned in Article 2 of that Regulation cannot carry out that activity unless—
+(1) A person who holds a valid certificate issued under Article 4 or 6 of Commission Regulation 2015/2067[^c-eb51056d33ba6fde1e3b931bea2b5dde] by a certification body in an EEA State other than the United Kingdom in respect of an activity mentioned in Article 2 of that Regulation cannot carry out that activity unless—
 
 - (a) the certificate is written in English; or
 - (b) the person holds a translation of the certificate in English.
 
 (2) A person who holds a valid certificate issued under Article 4 or 6 of Commission Regulation 2015/2067 by a certification body appointed in Great Britain in respect of an activity mentioned in Article 2 of that Regulation may carry out that activity.
 
-### 8. Certification and evaluation bodies: fire protection systems and fire extinguishers[^key-d5e3616bd65cbcee58234425fabe3c9a]
+### 8. Certification and evaluation bodies: fire protection systems and fire extinguishers[^c-d5e3616bd65cbcee58234425fabe3c9a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -231,20 +231,20 @@ The Department is the competent authority for the purposes of the 2014 Regulatio
 
 (2) A person who holds a valid certificate issued under Article 5 or 8 of Commission Regulation 304/2008 by a certification body appointed in Great Britain in respect of an activity mentioned in Article 2 of that Regulation may carry out that activity.
 
-### 10. Certification and evaluation bodies: high-voltage switchgear[^key-a427d7b188b4af6409ac9adc5c123f03]
+### 10. Certification and evaluation bodies: high-voltage switchgear[^c-a427d7b188b4af6409ac9adc5c123f03]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Certificates relating to electrical switchgear issued in EEA States and Great Britain[^key-0316ecff6ba1fea80c7a6d2053558ff7]
+### 11. Certificates relating to electrical switchgear issued in EEA States and Great Britain[^c-0316ecff6ba1fea80c7a6d2053558ff7]
 
-(1) An individual who holds a valid certificate issued under Article 3 of Commission Regulation 2015/2066[^key-ca0b56914617ecbe6dd3d05ed8810292] by a certification body in an EEA State other than the United Kingdom cannot carry out the activity mentioned in Article 1 of that Regulation unless—
+(1) An individual who holds a valid certificate issued under Article 3 of Commission Regulation 2015/2066[^c-ca0b56914617ecbe6dd3d05ed8810292] by a certification body in an EEA State other than the United Kingdom cannot carry out the activity mentioned in Article 1 of that Regulation unless—
 
 - (a) the certificate is written in English; or
 - (b) the individual holds a translation of the certificate in English.
 
 (2) An individual who holds a valid certificate issued under Article 3 of Commission Regulation 2015/2066 by a certification body appointed in Great Britain in respect of the activity mentioned in Article 1 of that Regulation may carry out that activity.
 
-### 12. Certification and evaluation body: fluorinated greenhouse gas-based solvents[^key-8d9265748710740dc436b0093aa221be]
+### 12. Certification and evaluation body: fluorinated greenhouse gas-based solvents[^c-8d9265748710740dc436b0093aa221be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -257,7 +257,7 @@ The Department is the competent authority for the purposes of the 2014 Regulatio
 
 (2) An individual who holds a valid certificate issued under Article 3 of Commission Regulation 306/2008 by a certification body appointed in Great Britain in respect of the activity mentioned in Article 1 of that Regulation may carry out that activity.
 
-### 14. Attestation bodies: air conditioning systems in certain motor vehicles[^key-b02a8805906738621c061e40b1fda3d9]
+### 14. Attestation bodies: air conditioning systems in certain motor vehicles[^c-b02a8805906738621c061e40b1fda3d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -274,9 +274,9 @@ The Department is the competent authority for the purposes of the 2014 Regulatio
 
 The employer of an individual employed to carry out any work or activity referred to in the following provisions must ensure that that individual holds the qualification necessary to enable the individual to carry out the work or activity—
 
-- (a) Article 2(1) of Commission Regulation 2015/2067[^key-ad1ab7476c42663a6652abf217dde294] ;
+- (a) Article 2(1) of Commission Regulation 2015/2067[^c-ad1ab7476c42663a6652abf217dde294] ;
 - (b) Article 2(1) of Commission Regulation 304**/**2008;
-- (c) Article 1 of Commission Regulation 2015/2066[^key-c634657a2a8d316a1a49e3b6436e8190] ;
+- (c) Article 1 of Commission Regulation 2015/2066[^c-c634657a2a8d316a1a49e3b6436e8190] ;
 - (d) Article 1 of Commission Regulation 306/2008; or
 - (e) Article 1 of Commission Regulation 307/2008.
 
@@ -284,9 +284,9 @@ The employer of an individual employed to carry out any work or activity referre
 
 (1) When requested to do so by any person, a certification body in Northern Ireland must, within 14 days of the request being made, provide details of any certificate issued by it pursuant to—
 
-- (a) Commission Regulation 2015/2067[^key-af3ea23db1b4772448db8472bf467efc] ;
+- (a) Commission Regulation 2015/2067[^c-af3ea23db1b4772448db8472bf467efc] ;
 - (b) Commission Regulation 304/2008;
-- (c) Commission Regulation 2015/2066[^key-d8d1536ec64e30979d94cbcb26586ec1] ; or
+- (c) Commission Regulation 2015/2066[^c-d8d1536ec64e30979d94cbcb26586ec1] ; or
 - (d) Commission Regulation 306/2008.
 
 (2) When requested to do so by any person, an attestation body in Northern Ireland must, within 14 days of the request being made, provide details of an attestation issued by it pursuant to Commission Regulation 307/2008.
@@ -297,11 +297,11 @@ The employer of an individual employed to carry out any work or activity referre
 - (b) the date on which the certificate or attestation was issued; and
 - (c) in the case of an individual, the examination or training to which the certificate or attestation relates.
 
-(4) When requested to do so by the Department, a relevant body in Northern Ireland must provide as soon as reasonably practicable to the Department such information as the Department may require to ensure that the obligations imposed by the first sentence of Article 10(10) of the 2014 Regulation (training and certification) and by Commission Regulation 2015/2065[^key-19e6717bacf5121d7aec14a45a9aefb9] are complied with.
+(4) When requested to do so by the Department, a relevant body in Northern Ireland must provide as soon as reasonably practicable to the Department such information as the Department may require to ensure that the obligations imposed by the first sentence of Article 10(10) of the 2014 Regulation (training and certification) and by Commission Regulation 2015/2065[^c-19e6717bacf5121d7aec14a45a9aefb9] are complied with.
 
 (5) In this regulation, “**relevant body**” means a certification body, an attestation body or an evaluation body referred to in, or appointed under, these Regulations.
 
-### 17A. Publication of details of certification bodies, attestation bodies and evaluation bodies[^key-635341c991d98a4ecfe761f582f80797]
+### 17A. Publication of details of certification bodies, attestation bodies and evaluation bodies[^c-635341c991d98a4ecfe761f582f80797]
 
 (1) The Department, after consulting the Scottish Ministers, the Welsh Ministers and the Secretary of State, must publish the following information about any person appointed as a certification body, attestation body or evaluation body under regulation 6—
 
@@ -332,7 +332,7 @@ The employer of an individual employed to carry out any work or activity referre
 
 (6) In this regulation, “**Part A installation**” has the same meaning as in regulation 2(1) of the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 [^c22610371].
 
-(7)[^key-009d0bba1114692b45a4dfb37e47434a] The district council must comply with a direction given to it under paragraph (2).
+(7)[^c-009d0bba1114692b45a4dfb37e47434a] The district council must comply with a direction given to it under paragraph (2).
 
 (8) A direction given under paragraph (2) may be revoked or modified by a further direction given under that paragraph.
 
@@ -420,7 +420,7 @@ An enforcing authority[^M_F_5d831282-5da0-49c2-909f-ea54889c3854] may, by notice
   - (i) a provision of the 2014 Regulation specified in Schedule 2; or
   - (ii) a provision of the Commission Regulations specified in Schedule 3, read in association with Part 2 of these Regulations;
 - (b) submits a report under Article 19 of the 2014 Regulation which is not submitted in accordance with Commission Regulation 1191/2014;
-- (c)[^key-b19343f90d958be0057ed4f2bbe7b248] fails, where labelling for products and equipment is required under Article 12 of the 2014 Regulation, to comply with Article 2 of Commission Regulation 2015/2068 (labelling format);
+- (c)[^c-b19343f90d958be0057ed4f2bbe7b248] fails, where labelling for products and equipment is required under Article 12 of the 2014 Regulation, to comply with Article 2 of Commission Regulation 2015/2068 (labelling format);
 - (d) fails to comply with a requirement under regulation 16 (obligation of employers to employ qualified employees);
 - (e) fails to comply with a requirement under regulation 17 (obligations on certification bodies, attestation bodies and evaluation bodies to provide information); or
 - (f) fails to comply with an information notice served under regulation 22 (information notices).
@@ -484,7 +484,7 @@ An enforcing authority[^M_F_5d831282-5da0-49c2-909f-ea54889c3854] may, by notice
 
 (10) If an enforcement notice is not complied with—
 
-- (a) the enforcing authority which served the notice[^key-f9df7bf5813a1a0a7d2b3d61158cac0f] may arrange for it to be complied with at the expense of the person on whom it was served; and
+- (a) the enforcing authority which served the notice[^c-f9df7bf5813a1a0a7d2b3d61158cac0f] may arrange for it to be complied with at the expense of the person on whom it was served; and
 - (b) the enforcing authority which served the notice may recover those expenses summarily or in any court of competent jurisdiction as a civil debt due to it.
 
 (11) In this regulation—
@@ -494,9 +494,9 @@ An enforcing authority[^M_F_5d831282-5da0-49c2-909f-ea54889c3854] may, by notice
   - (i) holds a certificate issued under Article 5 of Commission Regulation 304/2008 which relates to leakage checking of fire protection systems; or
   - (ii) is exempt from holding such a certificate by virtue of Article 4(2) of Commission Regulation 304/2008;
 - (c) “**person qualified in relation to stationary equipment**” means an individual who—
-  - (i) holds a valid certificate issued under Article 4 of Commission Regulation 2015/2067[^key-76b5eb0413466a4d76ec89b4455b6123] which relates to leakage checking of stationary equipment;
-  - (ii) is exempt from holding such a certificate by virtue of Article 3(3)(b) or (4) of Commission Regulation 2015/2067[^key-7009afa346c4959b2e7b3d8bb298d1df] ; or
-  - (iii)[^key-702ef42255c2be3533cc2bcd42fd07e4] is exempt from holding such a certificate by virtue of Article 3(3)(a) of Commission Regulation 2015/2067 where the person is suitably qualified for the purposes of the essential safety requirements in paragraph 21(3) (permanent joining) of Part 3 of Schedule 2 to the Pressure Equipment (Safety) Regulations 2016;
+  - (i) holds a valid certificate issued under Article 4 of Commission Regulation 2015/2067[^c-76b5eb0413466a4d76ec89b4455b6123] which relates to leakage checking of stationary equipment;
+  - (ii) is exempt from holding such a certificate by virtue of Article 3(3)(b) or (4) of Commission Regulation 2015/2067[^c-7009afa346c4959b2e7b3d8bb298d1df] ; or
+  - (iii)[^c-702ef42255c2be3533cc2bcd42fd07e4] is exempt from holding such a certificate by virtue of Article 3(3)(a) of Commission Regulation 2015/2067 where the person is suitably qualified for the purposes of the essential safety requirements in paragraph 21(3) (permanent joining) of Part 3 of Schedule 2 to the Pressure Equipment (Safety) Regulations 2016;
 - (d) “**stationary equipment**” means stationary refrigeration, air conditioning or heat pump equipment which contains 3 kilograms or more of fluorinated greenhouse gases.
 
 ### 24. Appeals against enforcement notices
@@ -511,7 +511,7 @@ An enforcing authority[^M_F_5d831282-5da0-49c2-909f-ea54889c3854] may, by notice
 
 (5) An enforcement notice is not suspended pending an appeal unless the court orders otherwise.
 
-(6)[^key-7809f7914ff2525fc32d507c3a2535fd] The grounds for an appeal brought under this regulation are that a decision to serve the enforcement notice was—
+(6)[^c-7809f7914ff2525fc32d507c3a2535fd] The grounds for an appeal brought under this regulation are that a decision to serve the enforcement notice was—
 
 - (a) based on an error of fact;
 - (b) wrong in law;
@@ -547,7 +547,7 @@ If the enforcing authority is of the opinion that proceedings against a person f
 
 (1) For the purposes of these Regulations—
 
-- (a) section 20(2) of the Interpretation Act [^key-4ed21f81ea435024eea04748dfd421fc]... applies with the omission of the words “the liability of whose members is limited”;
+- (a) section 20(2) of the Interpretation Act [^c-4ed21f81ea435024eea04748dfd421fc]... applies with the omission of the words “the liability of whose members is limited”;
 - (b) section 20(3) of that Act does not apply; and
 - (c) where the affairs of a body corporate are managed by its members, section 20(2) of the Act applies in relation to the acts or defaults of a member in connection with the member's functions of management as if the member were a director of the body corporate.
 
@@ -605,13 +605,13 @@ A senior officer of the
 
 Department of the Environment
 
-## SCHEDULE 1 — Certification and evaluation bodies (high voltage switchgear)[^key-2c6cfd7ea6f78f8a4b3a4fec69a055a3]
+## SCHEDULE 1 — Certification and evaluation bodies (high voltage switchgear)[^c-2c6cfd7ea6f78f8a4b3a4fec69a055a3]
 
 **No longer in force.**
 
 Regulation 10
 
-[^key-2c6cfd7ea6f78f8a4b3a4fec69a055a3]
+[^c-2c6cfd7ea6f78f8a4b3a4fec69a055a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -672,13 +672,13 @@ Regulation 23(1)(a)(i)
 </tbody>
 </table>
 
-[^key-c7e091d648f61a9bea97f88d6f84859c][^key-0083fce0ce424317b8d25150d6360cbb][^M_F_acf4f25e-981c-4817-851c-9693dcd40134][^key-65264e214e0dc16153c45e2200ec9a1d]
+[^c-c7e091d648f61a9bea97f88d6f84859c][^c-0083fce0ce424317b8d25150d6360cbb][^M_F_acf4f25e-981c-4817-851c-9693dcd40134][^c-65264e214e0dc16153c45e2200ec9a1d]
 
 ## SCHEDULE 3 — Commission Regulation provisions
 
 Regulation 23(1)(a)(ii)
 
-Table 1[^key-ebbad5c567ada1e449bd5780f4df0d39]
+Table 1[^c-ebbad5c567ada1e449bd5780f4df0d39]
 
 Certification for stationary refrigeration, air conditioning and heat pump equipment
 
@@ -694,7 +694,7 @@ Table 2: Certification for stationary fire protection systems and fire extinguis
 | Article 4(1) (read in association with Articles 2 and 4(2)). | Requirement on personnel carrying out activities referred to in Article 2(1) (scope) to hold a certificate as referred to in Article 5 (personnel certificates). |
 | Article 7(1). | Requirement on companies carrying out activities referred to in Article 2(2) to hold a certificate as referred to in Article 8 (company certificates). |
 
-Table 3[^key-ff99d5e83ad7493227cbac0317e6ce43]
+Table 3[^c-ff99d5e83ad7493227cbac0317e6ce43]
 
 Certification for electrical switchgear
 
@@ -748,93 +748,93 @@ A full impact assessment of the effect that these Regulations would have upon th
 
 [^c22610101]: Marginal citation: OJ No L 332, 18.12.2007, p 25.
 
-[^key-78d2970ba48b44537f7f3e50a54aedd4]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/425/regulation/1/2) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2018/206/regulation/3)
+[^c-78d2970ba48b44537f7f3e50a54aedd4]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/425/regulation/1/2) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2018/206/regulation/3)
 
-[^key-4ff6047f179eaad514a3213116adc9c8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/425/regulation/1/2) added (31.12.2020) by [The Fluorinated Greenhouse Gases and Ozone-Depleting Substances (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/304)](https://www.legislation.gov.uk/nisr/2020/304), [regs. 1(2)(b)](https://www.legislation.gov.uk/nisr/2020/304/regulation/1/2/b), [3(2)](https://www.legislation.gov.uk/nisr/2020/304/regulation/3/2) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2020/304/regulation/1/3))
+[^c-4ff6047f179eaad514a3213116adc9c8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/425/regulation/1/2) added (31.12.2020) by [The Fluorinated Greenhouse Gases and Ozone-Depleting Substances (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/304)](https://www.legislation.gov.uk/nisr/2020/304), [regs. 1(2)(b)](https://www.legislation.gov.uk/nisr/2020/304/regulation/1/2/b), [3(2)](https://www.legislation.gov.uk/nisr/2020/304/regulation/3/2) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2020/304/regulation/1/3))
 
 [^c22610111]: Marginal citation: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-ca776ac07006564d090d0ac21c832e9e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/425/regulation/2/1) inserted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2018/206/regulation/4/1/a)
+[^c-ca776ac07006564d090d0ac21c832e9e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/425/regulation/2/1) inserted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2018/206/regulation/4/1/a)
 
-[^key-303fe1bfb37f41c09521186339fd9092]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/425/regulation/2/1) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [4(1)(b)](https://www.legislation.gov.uk/nisr/2018/206/regulation/4/1/b)
+[^c-303fe1bfb37f41c09521186339fd9092]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/425/regulation/2/1) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [4(1)(b)](https://www.legislation.gov.uk/nisr/2018/206/regulation/4/1/b)
 
-[^key-ae1b2a86ba72cb7a633936b614870f93]: Textual amendment: [Reg. 2(2)-(3)](https://www.legislation.gov.uk/nisr/2015/425/regulation/2/2) substituted for [reg. 2(2)](https://www.legislation.gov.uk/nisr/2015/425/regulation/2/2) (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2018/206/regulation/4/2)
+[^c-ae1b2a86ba72cb7a633936b614870f93]: Textual amendment: [Reg. 2(2)-(3)](https://www.legislation.gov.uk/nisr/2015/425/regulation/2/2) substituted for [reg. 2(2)](https://www.legislation.gov.uk/nisr/2015/425/regulation/2/2) (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2018/206/regulation/4/2)
 
 [^c22610131]: Marginal citation: OJ No L 150, 20.5.2014, p 195.
 
-[^key-ea52ee4d44070be460f008f1181b8e53]: Textual amendment: Words in reg. 3(1) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [5(2)(a)(i)](https://www.legislation.gov.uk/nisr/2018/206/regulation/5/2/a/i)
+[^c-ea52ee4d44070be460f008f1181b8e53]: Textual amendment: Words in reg. 3(1) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [5(2)(a)(i)](https://www.legislation.gov.uk/nisr/2018/206/regulation/5/2/a/i)
 
 [^c22610141]: Marginal citation: OJ No L 333, 19.12.2007, p 4.
 
 [^c22610151]: Marginal citation: OJ No L 335, 20.12.2007, p 10.
 
-[^key-1e1a21d7360babcec2a63a8740b3a6b9]: Textual amendment: Words in reg. 3(1) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [5(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2018/206/regulation/5/2/a/ii)
+[^c-1e1a21d7360babcec2a63a8740b3a6b9]: Textual amendment: Words in reg. 3(1) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [5(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2018/206/regulation/5/2/a/ii)
 
 [^c22610171]: Marginal citation: OJ No L 92, 3.4.2008, p 12.
 
-[^key-c3ae903a4eb20b27ddb981337b38eb81]: Textual amendment: Words in reg. 3(1) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [5(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2018/206/regulation/5/2/a/iii)
+[^c-c3ae903a4eb20b27ddb981337b38eb81]: Textual amendment: Words in reg. 3(1) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [5(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2018/206/regulation/5/2/a/iii)
 
 [^c22610191]: Marginal citation: OJ No L 92, 3.4.2008, p 21. There is a relevant corrigendum, OJ No L 280, 23.10.2008, p 38.
 
 [^c22610201]: Marginal citation: OJ No L 92, 3.4.2008, p 25.
 
-[^key-30bebc92a0a13e1694e7609ea5ec05fd]: Textual amendment: Words in reg. 3(1) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [5(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2018/206/regulation/5/2/a/iv)
+[^c-30bebc92a0a13e1694e7609ea5ec05fd]: Textual amendment: Words in reg. 3(1) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [5(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2018/206/regulation/5/2/a/iv)
 
-[^key-fc31a532f7c80a6d9ed5aaafa834aaf1]: Textual amendment: Word in reg. 3(1) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/nisr/2018/206/regulation/5/2/b)
+[^c-fc31a532f7c80a6d9ed5aaafa834aaf1]: Textual amendment: Word in reg. 3(1) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/nisr/2018/206/regulation/5/2/b)
 
 [^c22610221]: Marginal citation: OJ No L 318, 5.11.2014, p 5
 
-[^key-963a889beb2d71d9cd4e69b0a01dbec1]: Textual amendment: In reg. 3(1) semicolon substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [5(2)(c)](https://www.legislation.gov.uk/nisr/2018/206/regulation/5/2/c)
+[^c-963a889beb2d71d9cd4e69b0a01dbec1]: Textual amendment: In reg. 3(1) semicolon substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [5(2)(c)](https://www.legislation.gov.uk/nisr/2018/206/regulation/5/2/c)
 
-[^key-7fbdae7b1a3478154b827854e4da818f]: Textual amendment: Words in reg. 3(1) inserted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [5(2)(d)](https://www.legislation.gov.uk/nisr/2018/206/regulation/5/2/d)
+[^c-7fbdae7b1a3478154b827854e4da818f]: Textual amendment: Words in reg. 3(1) inserted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [5(2)(d)](https://www.legislation.gov.uk/nisr/2018/206/regulation/5/2/d)
 
-[^key-58f9f5c091bd0230ac244920644127a5]: Textual amendment: Reg. 3(2)(b)-(k) substituted for (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [5(3)](https://www.legislation.gov.uk/nisr/2018/206/regulation/5/3)
+[^c-58f9f5c091bd0230ac244920644127a5]: Textual amendment: Reg. 3(2)(b)-(k) substituted for (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [5(3)](https://www.legislation.gov.uk/nisr/2018/206/regulation/5/3)
 
-[^key-090b896c68add0e52f543dc052a177fe]: Textual amendment: Reg. 3(3) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [5(4)](https://www.legislation.gov.uk/nisr/2018/206/regulation/5/4)
+[^c-090b896c68add0e52f543dc052a177fe]: Textual amendment: Reg. 3(3) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [5(4)](https://www.legislation.gov.uk/nisr/2018/206/regulation/5/4)
 
-[^key-d3b437a4ba211fb2c15a1b4353d3f9ba]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2015/425/regulation/4/1) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2018/206/regulation/6/2)
+[^c-d3b437a4ba211fb2c15a1b4353d3f9ba]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2015/425/regulation/4/1) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2018/206/regulation/6/2)
 
-[^key-883b2533177251eb3807370cf3f5b77d]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2015/425/regulation/4/1) inserted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [6(3)](https://www.legislation.gov.uk/nisr/2018/206/regulation/6/3)
+[^c-883b2533177251eb3807370cf3f5b77d]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2015/425/regulation/4/1) inserted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [6(3)](https://www.legislation.gov.uk/nisr/2018/206/regulation/6/3)
 
 [^c22610231]: Marginal citation: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32).
 
 [^c22610241]: Marginal citation: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-4666608c0c33e9f8de7844a5ba6cb84d]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/nisr/2015/425/regulation/5A) inserted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2018/206/regulation/7)
+[^c-4666608c0c33e9f8de7844a5ba6cb84d]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/nisr/2015/425/regulation/5A) inserted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2018/206/regulation/7)
 
-[^key-a166efeb4ff991befb1578ec376d9a2a]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2015/425/regulation/6) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2018/206/regulation/8)
+[^c-a166efeb4ff991befb1578ec376d9a2a]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2015/425/regulation/6) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2018/206/regulation/8)
 
-[^key-eb51056d33ba6fde1e3b931bea2b5dde]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2015/425/regulation/7) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2018/206/regulation/9)
+[^c-eb51056d33ba6fde1e3b931bea2b5dde]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2015/425/regulation/7) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2018/206/regulation/9)
 
-[^key-d5e3616bd65cbcee58234425fabe3c9a]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2015/425/regulation/8) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2018/206/regulation/10)
+[^c-d5e3616bd65cbcee58234425fabe3c9a]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2015/425/regulation/8) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2018/206/regulation/10)
 
-[^key-a427d7b188b4af6409ac9adc5c123f03]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2015/425/regulation/10) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2018/206/regulation/10)
+[^c-a427d7b188b4af6409ac9adc5c123f03]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2015/425/regulation/10) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2018/206/regulation/10)
 
-[^key-0316ecff6ba1fea80c7a6d2053558ff7]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/nisr/2015/425/regulation/11) heading substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [11(2)](https://www.legislation.gov.uk/nisr/2018/206/regulation/11/2)
+[^c-0316ecff6ba1fea80c7a6d2053558ff7]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/nisr/2015/425/regulation/11) heading substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [11(2)](https://www.legislation.gov.uk/nisr/2018/206/regulation/11/2)
 
-[^key-ca0b56914617ecbe6dd3d05ed8810292]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/nisr/2015/425/regulation/11) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [11(3)](https://www.legislation.gov.uk/nisr/2018/206/regulation/11/3)
+[^c-ca0b56914617ecbe6dd3d05ed8810292]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/nisr/2015/425/regulation/11) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [11(3)](https://www.legislation.gov.uk/nisr/2018/206/regulation/11/3)
 
-[^key-8d9265748710740dc436b0093aa221be]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/nisr/2015/425/regulation/12) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2018/206/regulation/12)
+[^c-8d9265748710740dc436b0093aa221be]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/nisr/2015/425/regulation/12) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2018/206/regulation/12)
 
-[^key-b02a8805906738621c061e40b1fda3d9]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2015/425/regulation/14) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2018/206/regulation/12)
+[^c-b02a8805906738621c061e40b1fda3d9]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2015/425/regulation/14) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2018/206/regulation/12)
 
-[^key-ad1ab7476c42663a6652abf217dde294]: Textual amendment: Word in [reg. 16(a)](https://www.legislation.gov.uk/nisr/2015/425/regulation/16/a) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [13(a)](https://www.legislation.gov.uk/nisr/2018/206/regulation/13/a)
+[^c-ad1ab7476c42663a6652abf217dde294]: Textual amendment: Word in [reg. 16(a)](https://www.legislation.gov.uk/nisr/2015/425/regulation/16/a) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [13(a)](https://www.legislation.gov.uk/nisr/2018/206/regulation/13/a)
 
-[^key-c634657a2a8d316a1a49e3b6436e8190]: Textual amendment: Word in [reg. 16(c)](https://www.legislation.gov.uk/nisr/2015/425/regulation/16/c) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [13(b)](https://www.legislation.gov.uk/nisr/2018/206/regulation/13/b)
+[^c-c634657a2a8d316a1a49e3b6436e8190]: Textual amendment: Word in [reg. 16(c)](https://www.legislation.gov.uk/nisr/2015/425/regulation/16/c) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [13(b)](https://www.legislation.gov.uk/nisr/2018/206/regulation/13/b)
 
-[^key-af3ea23db1b4772448db8472bf467efc]: Textual amendment: Word in [reg. 17(1)(a)](https://www.legislation.gov.uk/nisr/2015/425/regulation/17/1/a) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [14(a)](https://www.legislation.gov.uk/nisr/2018/206/regulation/14/a)
+[^c-af3ea23db1b4772448db8472bf467efc]: Textual amendment: Word in [reg. 17(1)(a)](https://www.legislation.gov.uk/nisr/2015/425/regulation/17/1/a) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [14(a)](https://www.legislation.gov.uk/nisr/2018/206/regulation/14/a)
 
-[^key-d8d1536ec64e30979d94cbcb26586ec1]: Textual amendment: Word in [reg. 17(1)(c)](https://www.legislation.gov.uk/nisr/2015/425/regulation/17/1/c) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [14(b)](https://www.legislation.gov.uk/nisr/2018/206/regulation/14/b)
+[^c-d8d1536ec64e30979d94cbcb26586ec1]: Textual amendment: Word in [reg. 17(1)(c)](https://www.legislation.gov.uk/nisr/2015/425/regulation/17/1/c) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [14(b)](https://www.legislation.gov.uk/nisr/2018/206/regulation/14/b)
 
-[^key-19e6717bacf5121d7aec14a45a9aefb9]: Textual amendment: Word in [reg. 17(4)](https://www.legislation.gov.uk/nisr/2015/425/regulation/17/4) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [14(c)](https://www.legislation.gov.uk/nisr/2018/206/regulation/14/c)
+[^c-19e6717bacf5121d7aec14a45a9aefb9]: Textual amendment: Word in [reg. 17(4)](https://www.legislation.gov.uk/nisr/2015/425/regulation/17/4) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [14(c)](https://www.legislation.gov.uk/nisr/2018/206/regulation/14/c)
 
-[^key-635341c991d98a4ecfe761f582f80797]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2015/425/regulation/17A) inserted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2018/206/regulation/15)
+[^c-635341c991d98a4ecfe761f582f80797]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2015/425/regulation/17A) inserted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2018/206/regulation/15)
 
 [^M_F_1ef47efd-ef38-4893-bab7-498da7d3b442]: Textual amendment: Word in reg. 18(1) substituted (17.1 2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [16(2)](https://www.legislation.gov.uk/nisr/2018/206/regulation/16/2)
 
 [^c22610371]: Marginal citation: S.R. [2013 No. 160](https://www.legislation.gov.uk/ukcm/2013/160)
 
-[^key-009d0bba1114692b45a4dfb37e47434a]: Textual amendment: [Reg. 18(7)-(8)](https://www.legislation.gov.uk/nisr/2015/425/regulation/18/7) inserted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [16(3)](https://www.legislation.gov.uk/nisr/2018/206/regulation/16/3)
+[^c-009d0bba1114692b45a4dfb37e47434a]: Textual amendment: [Reg. 18(7)-(8)](https://www.legislation.gov.uk/nisr/2015/425/regulation/18/7) inserted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [16(3)](https://www.legislation.gov.uk/nisr/2018/206/regulation/16/3)
 
 [^c22610381]: Marginal citation: [S.I. 2002/3153 (N.I. 7)](https://www.legislation.gov.uk/nisi/2002/3153).
 
@@ -848,21 +848,21 @@ A full impact assessment of the effect that these Regulations would have upon th
 
 [^M_F_c00f3766-6c20-41cc-9e89-4d335e8a259b]: Textual amendment: Words in reg. 23 substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [18(2)](https://www.legislation.gov.uk/nisr/2018/206/regulation/18/2)
 
-[^key-b19343f90d958be0057ed4f2bbe7b248]: Textual amendment: Reg. 23(1)(c) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [18(3)](https://www.legislation.gov.uk/nisr/2018/206/regulation/18/3)
+[^c-b19343f90d958be0057ed4f2bbe7b248]: Textual amendment: Reg. 23(1)(c) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [18(3)](https://www.legislation.gov.uk/nisr/2018/206/regulation/18/3)
 
-[^key-f9df7bf5813a1a0a7d2b3d61158cac0f]: Textual amendment: Words in reg. 23(10) inserted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [18(4)](https://www.legislation.gov.uk/nisr/2018/206/regulation/18/4)
+[^c-f9df7bf5813a1a0a7d2b3d61158cac0f]: Textual amendment: Words in reg. 23(10) inserted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [18(4)](https://www.legislation.gov.uk/nisr/2018/206/regulation/18/4)
 
-[^key-76b5eb0413466a4d76ec89b4455b6123]: Textual amendment: Words in reg. 23(11)(c)(i) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [18(5)(a)](https://www.legislation.gov.uk/nisr/2018/206/regulation/18/5/a)
+[^c-76b5eb0413466a4d76ec89b4455b6123]: Textual amendment: Words in reg. 23(11)(c)(i) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [18(5)(a)](https://www.legislation.gov.uk/nisr/2018/206/regulation/18/5/a)
 
-[^key-7009afa346c4959b2e7b3d8bb298d1df]: Textual amendment: Words in reg. 23(11)(c)(ii) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [18(5)(b)](https://www.legislation.gov.uk/nisr/2018/206/regulation/18/5/b)
+[^c-7009afa346c4959b2e7b3d8bb298d1df]: Textual amendment: Words in reg. 23(11)(c)(ii) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [18(5)(b)](https://www.legislation.gov.uk/nisr/2018/206/regulation/18/5/b)
 
-[^key-702ef42255c2be3533cc2bcd42fd07e4]: Textual amendment: Reg. 23(11)(c)(iii) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [18(5)(c)](https://www.legislation.gov.uk/nisr/2018/206/regulation/18/5/c)
+[^c-702ef42255c2be3533cc2bcd42fd07e4]: Textual amendment: Reg. 23(11)(c)(iii) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [18(5)(c)](https://www.legislation.gov.uk/nisr/2018/206/regulation/18/5/c)
 
 [^c22610431]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-7809f7914ff2525fc32d507c3a2535fd]: Textual amendment: [Reg. 24(6)](https://www.legislation.gov.uk/nisr/2015/425/regulation/24/6) inserted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [19](https://www.legislation.gov.uk/nisr/2018/206/regulation/19)
+[^c-7809f7914ff2525fc32d507c3a2535fd]: Textual amendment: [Reg. 24(6)](https://www.legislation.gov.uk/nisr/2015/425/regulation/24/6) inserted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [19](https://www.legislation.gov.uk/nisr/2018/206/regulation/19)
 
-[^key-4ed21f81ea435024eea04748dfd421fc]: Textual amendment: Words in [reg. 27(1)(a)](https://www.legislation.gov.uk/nisr/2015/425/regulation/27/1/a) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [20](https://www.legislation.gov.uk/nisr/2018/206/regulation/20)
+[^c-4ed21f81ea435024eea04748dfd421fc]: Textual amendment: Words in [reg. 27(1)(a)](https://www.legislation.gov.uk/nisr/2015/425/regulation/27/1/a) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [20](https://www.legislation.gov.uk/nisr/2018/206/regulation/20)
 
 [^c22610451]: Marginal citation: [1945 c.15 (N.I.)](https://www.legislation.gov.uk/apni/1945/15)
 
@@ -874,16 +874,16 @@ A full impact assessment of the effect that these Regulations would have upon th
 
 [^c22610491]: Marginal citation: S.R. [2014 No. 77](https://www.legislation.gov.uk/ukcm/2014/77).
 
-[^key-2c6cfd7ea6f78f8a4b3a4fec69a055a3]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2015/425/schedule/1) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [21](https://www.legislation.gov.uk/nisr/2018/206/regulation/21)
+[^c-2c6cfd7ea6f78f8a4b3a4fec69a055a3]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2015/425/schedule/1) omitted (17.1.2019) by virtue of [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [21](https://www.legislation.gov.uk/nisr/2018/206/regulation/21)
 
-[^key-c7e091d648f61a9bea97f88d6f84859c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/425/schedule/2) added (31.12.2020) by [The Fluorinated Greenhouse Gases and Ozone-Depleting Substances (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/304)](https://www.legislation.gov.uk/nisr/2020/304), [regs. 1(2)(b)](https://www.legislation.gov.uk/nisr/2020/304/regulation/1/2/b), [3(3)(a)(i)](https://www.legislation.gov.uk/nisr/2020/304/regulation/3/3/a/i) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2020/304/regulation/1/3))
+[^c-c7e091d648f61a9bea97f88d6f84859c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/425/schedule/2) added (31.12.2020) by [The Fluorinated Greenhouse Gases and Ozone-Depleting Substances (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/304)](https://www.legislation.gov.uk/nisr/2020/304), [regs. 1(2)(b)](https://www.legislation.gov.uk/nisr/2020/304/regulation/1/2/b), [3(3)(a)(i)](https://www.legislation.gov.uk/nisr/2020/304/regulation/3/3/a/i) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2020/304/regulation/1/3))
 
-[^key-0083fce0ce424317b8d25150d6360cbb]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/425/schedule/2) added (31.12.2020) by [The Fluorinated Greenhouse Gases and Ozone-Depleting Substances (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/304)](https://www.legislation.gov.uk/nisr/2020/304), [regs. 1(2)(b)](https://www.legislation.gov.uk/nisr/2020/304/regulation/1/2/b), [3(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2020/304/regulation/3/3/a/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2020/304/regulation/1/3))
+[^c-0083fce0ce424317b8d25150d6360cbb]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/425/schedule/2) added (31.12.2020) by [The Fluorinated Greenhouse Gases and Ozone-Depleting Substances (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/304)](https://www.legislation.gov.uk/nisr/2020/304), [regs. 1(2)(b)](https://www.legislation.gov.uk/nisr/2020/304/regulation/1/2/b), [3(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2020/304/regulation/3/3/a/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2020/304/regulation/1/3))
 
 [^M_F_acf4f25e-981c-4817-851c-9693dcd40134]: Textual amendment: Words in Sch. 2 inserted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [22](https://www.legislation.gov.uk/nisr/2018/206/regulation/22)
 
-[^key-65264e214e0dc16153c45e2200ec9a1d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/425/schedule/2) added (31.12.2020) by [The Fluorinated Greenhouse Gases and Ozone-Depleting Substances (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/304)](https://www.legislation.gov.uk/nisr/2020/304), [regs. 1(2)(b)](https://www.legislation.gov.uk/nisr/2020/304/regulation/1/2/b), [3(3)(c)](https://www.legislation.gov.uk/nisr/2020/304/regulation/3/3/c) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2020/304/regulation/1/3))
+[^c-65264e214e0dc16153c45e2200ec9a1d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/425/schedule/2) added (31.12.2020) by [The Fluorinated Greenhouse Gases and Ozone-Depleting Substances (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/304)](https://www.legislation.gov.uk/nisr/2020/304), [regs. 1(2)(b)](https://www.legislation.gov.uk/nisr/2020/304/regulation/1/2/b), [3(3)(c)](https://www.legislation.gov.uk/nisr/2020/304/regulation/3/3/c) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2020/304/regulation/1/3))
 
-[^key-ebbad5c567ada1e449bd5780f4df0d39]: Textual amendment: [Sch. 3 Table 1](https://www.legislation.gov.uk/nisr/2015/425/schedule/3) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [23(2)](https://www.legislation.gov.uk/nisr/2018/206/regulation/23/2)
+[^c-ebbad5c567ada1e449bd5780f4df0d39]: Textual amendment: [Sch. 3 Table 1](https://www.legislation.gov.uk/nisr/2015/425/schedule/3) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [23(2)](https://www.legislation.gov.uk/nisr/2018/206/regulation/23/2)
 
-[^key-ff99d5e83ad7493227cbac0317e6ce43]: Textual amendment: [Sch. 3 Table 3](https://www.legislation.gov.uk/nisr/2015/425/schedule/3) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [23(3)](https://www.legislation.gov.uk/nisr/2018/206/regulation/23/3)
+[^c-ff99d5e83ad7493227cbac0317e6ce43]: Textual amendment: [Sch. 3 Table 3](https://www.legislation.gov.uk/nisr/2015/425/schedule/3) substituted (17.1.2019) by [The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/206)](https://www.legislation.gov.uk/nisr/2018/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/206/regulation/1/1), [23(3)](https://www.legislation.gov.uk/nisr/2018/206/regulation/23/3)

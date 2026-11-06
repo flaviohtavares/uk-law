@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Properly authenticated dematerialised instructions, etc.[^key-c9e362adb037fd8f248de3fc27c439ce]
+## 35. Properly authenticated dematerialised instructions, etc.[^c-c9e362adb037fd8f248de3fc27c439ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,4 +87,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9e362adb037fd8f248de3fc27c439ce]: Commencement: Reg. 35 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-c9e362adb037fd8f248de3fc27c439ce]: Commencement: Reg. 35 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Information in relation to apparatus: Northern Ireland[^key-7118e8db7074b0a20cecd5b49f57f972]
+## 59. Information in relation to apparatus: Northern Ireland[^c-7118e8db7074b0a20cecd5b49f57f972]
 
 *Extent: N.I.*
 
@@ -101,4 +101,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7118e8db7074b0a20cecd5b49f57f972]: Commencement: S. 59 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-7118e8db7074b0a20cecd5b49f57f972]: Commencement: S. 59 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)

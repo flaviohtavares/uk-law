@@ -30,7 +30,7 @@ The following are “**protected roads**” for this purpose—
 (2) Consent is not required for the placing of apparatus—
 
 - (a) by way of renewal of existing apparatus, or
-- (b) in pursuance of a permission granted under section 109 of this Act (permission to execute road works) [^key-2f3188725ebbbf7d41336d8ba793ea1a]..., except where the permission was granted before the road became a protected road.
+- (b) in pursuance of a permission granted under section 109 of this Act (permission to execute road works) [^c-2f3188725ebbbf7d41336d8ba793ea1a]..., except where the permission was granted before the road became a protected road.
 
 (3) The road works authority may require the payment of—
 
@@ -45,7 +45,7 @@ This shall not be construed as affecting any right of the authority where they o
 
 (5) Consent to the placing of apparatus in a protected road may be given subject to conditions; and the road works authority may agree to contribute to the expenses incurred by the undertaker in complying with the conditions.
 
-(6) Any dispute between a road works authority and an undertaker as to the withholding of consent, the imposition of conditions, or the making of contributions shall be settled in the prescribed manner[^key-d06e4992eeb4bf23cc2cda196afaa2df].
+(6) Any dispute between a road works authority and an undertaker as to the withholding of consent, the imposition of conditions, or the making of contributions shall be settled in the prescribed manner[^c-d06e4992eeb4bf23cc2cda196afaa2df].
 
 (7) An undertaker having a statutory duty to afford a supply or service shall not be regarded as in breach of that duty if, or to the extent that, it is not reasonably practicable to afford a supply or service by reason of anything done by the road works authority in exercise of their functions in relation to a protected road.
 
@@ -55,6 +55,6 @@ This shall not be construed as affecting any right of the authority where they o
 
 [^c14150411]: Marginal citation: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
 
-[^key-2f3188725ebbbf7d41336d8ba793ea1a]: Textual amendment: Words in [s. 120(2)(b)](https://www.legislation.gov.uk/ukpga/1991/22/section/120/2/b) repealed (10.1.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 6(6)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/6/6) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-2f3188725ebbbf7d41336d8ba793ea1a]: Textual amendment: Words in [s. 120(2)(b)](https://www.legislation.gov.uk/ukpga/1991/22/section/120/2/b) repealed (10.1.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 6(6)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/6/6) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
 
-[^key-d06e4992eeb4bf23cc2cda196afaa2df]: Textual amendment: Words in [s. 120(6)](https://www.legislation.gov.uk/ukpga/1991/22/section/120/6) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 36(1)](https://www.legislation.gov.uk/asp/2005/12/section/36/1)[(2)(b)](https://www.legislation.gov.uk/asp/2005/12/section/36/2/b), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-d06e4992eeb4bf23cc2cda196afaa2df]: Textual amendment: Words in [s. 120(6)](https://www.legislation.gov.uk/ukpga/1991/22/section/120/6) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 36(1)](https://www.legislation.gov.uk/asp/2005/12/section/36/1)[(2)(b)](https://www.legislation.gov.uk/asp/2005/12/section/36/2/b), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

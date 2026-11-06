@@ -47,11 +47,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 The Secretary of State has consulted the persons referred to in section 86(4) of the Merchant Shipping Act 1995.
 
-## 1. Citation and commencement[^key-79d8a54058d7e4060325aadb79cd5a76]
+## 1. Citation and commencement[^c-79d8a54058d7e4060325aadb79cd5a76]
 
 These Regulations may be cited as the Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2020 and come into force on 1st January 2021.
 
-## 2. Amendment of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^key-8ce90404020bde5017f17d10e3c791fa]
+## 2. Amendment of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^c-8ce90404020bde5017f17d10e3c791fa]
 
 (1) The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^f00002] are amended as follows.
 
@@ -158,7 +158,7 @@ These Regulations may be cited as the Merchant Shipping (Safety Standards for Pa
 
 (8) In regulation 7C (safety requirements for persons with reduced mobility), omit sub-paragraph (b).
 
-## 3. Amendment of the Merchant Shipping (High Speed Craft) Regulations 2004[^key-b426ac824cc447eae8fdba7ec97c34a9]
+## 3. Amendment of the Merchant Shipping (High Speed Craft) Regulations 2004[^c-b426ac824cc447eae8fdba7ec97c34a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -188,12 +188,12 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Sections 85 was amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), section 8 and Schedule 7 Part 1 and the British Overseas Territories Act [2003 (c. 8)](https://www.legislation.gov.uk/ukpga/2003/8), section 2(3) and section 86 was amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), section 8 and Schedule 7 Part 1.
 
-[^key-79d8a54058d7e4060325aadb79cd5a76]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1) in force at 1.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1)
+[^c-79d8a54058d7e4060325aadb79cd5a76]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1) in force at 1.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1)
 
-[^key-8ce90404020bde5017f17d10e3c791fa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2) in force at 1.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1)
+[^c-8ce90404020bde5017f17d10e3c791fa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1222/regulation/2) in force at 1.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1222/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), amended by [S.I. 2002/1473](https://www.legislation.gov.uk/uksi/2002/1473), [2003/771](https://www.legislation.gov.uk/uksi/2003/771), [2004/302](https://www.legislation.gov.uk/uksi/2004/302), [2004/2883](https://www.legislation.gov.uk/uksi/2004/2883), [2010/680](https://www.legislation.gov.uk/uksi/2010/680), [2010/1075](https://www.legislation.gov.uk/uksi/2010/1075), [2012/2636](https://www.legislation.gov.uk/uksi/2012/2636), [2018/53](https://www.legislation.gov.uk/uksi/2018/53), [2020/501](https://www.legislation.gov.uk/uksi/2020/501) and prospectively amended by [S.I. 2018/1221](https://www.legislation.gov.uk/uksi/2018/1221).
 
 [^f00003]: Footnote: OJ L 163, 25.6.2009, p. 1, as amended by Commission [Directive 2010/36/EU](https://www.legislation.gov.uk/european/directive/2010/0036) dated 1 June 2010 (OJ L 162, 29.6.2010, p. 1), Commission Directive (EU) 2016/844 dated 27 May 2016 (OJ L 141, 28.5.2016, p. 51) and Directive (EU) 2017/2108 of the European Parliament and of the Council dated 15 November 2017 (OJ L 315, 30.11.2017, p. 40).
 
-[^key-b426ac824cc447eae8fdba7ec97c34a9]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1222/regulation/3) revoked (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/1219/schedule/part/2) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+[^c-b426ac824cc447eae8fdba7ec97c34a9]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1222/regulation/3) revoked (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/1219/schedule/part/2) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))

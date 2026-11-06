@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Amendment of Regulation [(EEC) No 574/72](https://www.legislation.gov.uk/eur/1972/574)[^key-3951e09f7a7dacc8c3861e4ce4f11bd2]
+## 2. Amendment of Regulation [(EEC) No 574/72](https://www.legislation.gov.uk/eur/1972/574)[^c-3951e09f7a7dacc8c3861e4ce4f11bd2]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3951e09f7a7dacc8c3861e4ce4f11bd2]: Textual amendment: Regulations revoked (31.12.2020) by [The Social Security Co-ordination (Revocation of Retained Direct EU Legislation and Related Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1508)](https://www.legislation.gov.uk/uksi/2020/1508), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1508/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/1508/regulation/4) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2020/1508/part/3)); and revoked (S.) (31.12.2020 in relation to devolved social security matters) by [The Social Security Co-ordination (EU Exit) (Scotland) (Amendments etc.) Regulations 2020 (S.S.I. 2020/399)](https://www.legislation.gov.uk/ssi/2020/399), [regs. 1](https://www.legislation.gov.uk/ssi/2020/399/regulation/1), [8(a)](https://www.legislation.gov.uk/ssi/2020/399/regulation/8) (with [reg. 6](https://www.legislation.gov.uk/ssi/2020/399/regulation/6))
+[^c-3951e09f7a7dacc8c3861e4ce4f11bd2]: Textual amendment: Regulations revoked (31.12.2020) by [The Social Security Co-ordination (Revocation of Retained Direct EU Legislation and Related Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1508)](https://www.legislation.gov.uk/uksi/2020/1508), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1508/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/1508/regulation/4) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2020/1508/part/3)); and revoked (S.) (31.12.2020 in relation to devolved social security matters) by [The Social Security Co-ordination (EU Exit) (Scotland) (Amendments etc.) Regulations 2020 (S.S.I. 2020/399)](https://www.legislation.gov.uk/ssi/2020/399), [regs. 1](https://www.legislation.gov.uk/ssi/2020/399/regulation/1), [8(a)](https://www.legislation.gov.uk/ssi/2020/399/regulation/8) (with [reg. 6](https://www.legislation.gov.uk/ssi/2020/399/regulation/6))

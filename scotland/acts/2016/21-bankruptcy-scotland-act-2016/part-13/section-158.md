@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 158. Timing for making a bankruptcy restrictions order[^key-97857f03b3fb8d437ecc29981d984084]
+## 158. Timing for making a bankruptcy restrictions order[^c-97857f03b3fb8d437ecc29981d984084]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ with the permission of the sheriff.
 
 ## Annotations
 
-[^key-97857f03b3fb8d437ecc29981d984084]: Commencement: [S. 158](https://www.legislation.gov.uk/asp/2016/21/section/158) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-97857f03b3fb8d437ecc29981d984084]: Commencement: [S. 158](https://www.legislation.gov.uk/asp/2016/21/section/158) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

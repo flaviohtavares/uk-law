@@ -48,19 +48,19 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 The Secretary of State has consulted the Health and Safety Executive, the Environment Agency, and the Department of the Environment for Northern Ireland, in so far as these Regulations relate to a function conferred on them by or under an enactment.
 
-## 1. Citation and commencement[^key-51c088d1d3fdc230f9ef21134cafeec1]
+## 1. Citation and commencement[^c-51c088d1d3fdc230f9ef21134cafeec1]
 
 These Regulations may be cited as the Nuclear Decommissioning and Waste Handling (Finance and Fees) Regulations 2013 and come into force on 4th March 2013.
 
-## 2. Revocation of the Nuclear Decommissioning and Waste Handling (Finance and Fees) Regulations 2011[^key-cfa09ca7672ccaba734cf8f1865910fb]
+## 2. Revocation of the Nuclear Decommissioning and Waste Handling (Finance and Fees) Regulations 2011[^c-cfa09ca7672ccaba734cf8f1865910fb]
 
 The Nuclear Decommissioning and Waste Handling (Finance and Fees) Regulations 2011[^f00002] are revoked.
 
-## 3. Transitional provision[^key-12799f00bc5015763b93e4623d50829f]
+## 3. Transitional provision[^c-12799f00bc5015763b93e4623d50829f]
 
 A funded decommissioning programme submitted to the Secretary of State in accordance with the Nuclear Decommissioning and Waste Handling (Finance and Fees) Regulations 2011will be treated as satisfying the requirements relating to submission set out in these Regulations.
 
-## 4. Interpretation[^key-19bddb201c6a92dd0f0a48eea44bdbe5]
+## 4. Interpretation[^c-19bddb201c6a92dd0f0a48eea44bdbe5]
 
 (1) In these Regulations—
 
@@ -121,7 +121,7 @@ A funded decommissioning programme submitted to the Secretary of State in accord
 
 (2) Where these Regulations provide that a report or a notice must be submitted to the Secretary of State, it must be submitted in writing.
 
-## 5. Content of funded decommissioning programmes[^key-1b0674ebfbc22ea525ad8c00c1554946]
+## 5. Content of funded decommissioning programmes[^c-1b0674ebfbc22ea525ad8c00c1554946]
 
 (1) A person who submits a funded decommissioning programme must show separately in that programme the estimates of the costs likely to be incurred in connection with—
 
@@ -135,14 +135,14 @@ A funded decommissioning programme submitted to the Secretary of State in accord
   - (b) which does not generate heat which needs to be taken into account in the design of storage or disposal facilities;
 - “spent fuel” means nuclear fuel that has been irradiated in and permanently removed from a reactor core.
 
-## 6. Fees payable in relation to funded decommissioning programmes[^key-cdd48b79b51f7d5fe952fd6e612a76ec]
+## 6. Fees payable in relation to funded decommissioning programmes[^c-cdd48b79b51f7d5fe952fd6e612a76ec]
 
 (1) A person who submits a funded decommissioning programme must pay a fee to the Secretary of State for the amount of costs reasonably incurred by the Secretary of State for relevant advice in relation to—
 
 - (a) the programme; or
 - (b) information in respect of the programme which the Secretary of State requires to be provided under section 52(4).
 
-(1A)[^key-1486ae9ddf8eb956e036d3285dfbc1d6] A person who informs the Secretary of State of a proposal to submit a funded decommissioning programme must pay a fee to the Secretary of State for the amount of costs reasonably incurred by the Secretary of State for relevant advice in relation to the consideration of the proposed programme (or any particular aspect of it).
+(1A)[^c-1486ae9ddf8eb956e036d3285dfbc1d6] A person who informs the Secretary of State of a proposal to submit a funded decommissioning programme must pay a fee to the Secretary of State for the amount of costs reasonably incurred by the Secretary of State for relevant advice in relation to the consideration of the proposed programme (or any particular aspect of it).
 
 (2) Where a person makes a section 48 proposal, the site operator must pay a fee to the Secretary of State for the amount of costs reasonably incurred by the Secretary of State for relevant advice in relation to—
 
@@ -150,7 +150,7 @@ A funded decommissioning programme submitted to the Secretary of State in accord
 - (b) information in respect of the proposal which the Secretary of State has required to be provided under section 52(4); or
 - (c) information in respect of the proposal provided to the Secretary of State in accordance with these Regulations.
 
-(2A)[^key-c56e26f42aa6800746feb6c9ddbedfb6] Where a person requests advice from the Secretary of State about the making of a section 48 proposal, the site operator must pay a fee to the Secretary of State for the amount of costs reasonably incurred by the Secretary of State for relevant advice in relation to that request.
+(2A)[^c-c56e26f42aa6800746feb6c9ddbedfb6] Where a person requests advice from the Secretary of State about the making of a section 48 proposal, the site operator must pay a fee to the Secretary of State for the amount of costs reasonably incurred by the Secretary of State for relevant advice in relation to that request.
 
 (3) Where the Secretary of State gives a notice under section 53(2) or (5) the site operator responsible for the funded decommissioning programme to which the notice relates must pay a fee to the Secretary of State for the amount of costs reasonably incurred by the Secretary of State for relevant advice in relation to information provided in response to the notice.
 
@@ -171,7 +171,7 @@ must pay a fee to the Secretary of State for the amount of the costs reasonably 
 - (a) the Nuclear Liabilities Financing Assurance Board; or
 - (b) any person who is independent of the site operator.
 
-## 6A. Fees payable in relation to section 46 agreements[^key-fb99808fdf4c7c913ec7f07aa4bbc2de]
+## 6A. Fees payable in relation to section 46 agreements[^c-fb99808fdf4c7c913ec7f07aa4bbc2de]
 
 (1) Where the Secretary of State makes or amends a section 46 agreement (or it is proposed that such an agreement be made or amended) the site operator must pay a fee to the Secretary of State for the amount of costs reasonably incurred for relevant advice in relation to—
 
@@ -201,11 +201,11 @@ must pay a fee to the Secretary of State for the amount of the costs reasonably 
 - “relevant advice” has the same meaning as in regulation 6; and
 - “section 66 agreement” means an agreement of the kind referred to in section 66(1).
 
-## 7. Information requirements on submission of a funded decommissioning programme[^key-fd8a9efde529bcb2fa151d5b68c428b2]
+## 7. Information requirements on submission of a funded decommissioning programme[^c-fd8a9efde529bcb2fa151d5b68c428b2]
 
 Where a person submits a funded decommissioning programme to the Secretary of State for approval, the programme must be accompanied by a DTM verification report.
 
-## 8. Reporting requirements[^key-4b05fed716511607c1124cafe4ac3a04]
+## 8. Reporting requirements[^c-4b05fed716511607c1124cafe4ac3a04]
 
 (1) The site operator must make a first criticality report to the Secretary of State within 9 months of the end of the first criticality reporting period.
 
@@ -215,7 +215,7 @@ Where a person submits a funded decommissioning programme to the Secretary of St
 
 (4) An annual report is not required for an annual reporting period where that period is the fifth annual reporting period of a quinquennial reporting period.
 
-## 9. Reports: general content[^key-6af65ef9939172ae2a170ee3c4380595]
+## 9. Reports: general content[^c-6af65ef9939172ae2a170ee3c4380595]
 
 (1) A first criticality report, an annual report or a quinquennial report must set out, as at the last day of the period to which the report relates—
 
@@ -232,7 +232,7 @@ Where a person submits a funded decommissioning programme to the Secretary of St
 
 (3) An annual report must be accompanied by a DTM verification report.
 
-## 10. Reports: requirements relating to verification[^key-3669017aea32d8b6f4e4fb0f7850136b]
+## 10. Reports: requirements relating to verification[^c-3669017aea32d8b6f4e4fb0f7850136b]
 
 (1) A DTM verification report, a financial verification report or a modification verification report must contain a statement from the verifier—
 
@@ -242,7 +242,7 @@ Where a person submits a funded decommissioning programme to the Secretary of St
 
 (2) In the case of a financial verification report, the verifier must also set out the standards and methods in accordance with which the verifier has assessed the site operator’s compliance with the funded decommissioning programme and has valued the assets in any fund and any specified security.
 
-## 11. Modifications to which section 49 does not apply[^key-02acb45f0818e66aac203b04d5b5f0f8]
+## 11. Modifications to which section 49 does not apply[^c-02acb45f0818e66aac203b04d5b5f0f8]
 
 (1) Section 49 does not apply to a proposal for a modification of an approved funded decommissioning programme under section 48 (“a proposal”) if the proposal is an exempt proposal as described in paragraph (2) or (3).
 
@@ -254,7 +254,7 @@ Where a person submits a funded decommissioning programme to the Secretary of St
   - (ii) relates only to the funding of the costs likely to be incurred in connection with the designated technical matters; and
 - (c) the requirements of regulation 14 are complied with in relation to the proposal.
 
-(3)[^key-5a408b9894c28f6995b5ac14d11e9e4c] A proposal (other than a proposal described in paragraph (2)) is an exempt proposal where—
+(3)[^c-5a408b9894c28f6995b5ac14d11e9e4c] A proposal (other than a proposal described in paragraph (2)) is an exempt proposal where—
 
 - (a) the proposal—
   - (i) would result in only a change in the estimates of costs described in regulation 5(1)(a) or, as appropriate, (b); or
@@ -262,7 +262,7 @@ Where a person submits a funded decommissioning programme to the Secretary of St
 - (b) the conditions set out in paragraph (4) are satisfied; and
 - (c) the requirements of regulation 14 are complied with in relation to the proposal.
 
-(4) The conditions referred to in paragraph (3)(b)[^key-320254a5751f41f2f38493925d1c2d5f] are that the proposal would result in a relevant change in A which is—
+(4) The conditions referred to in paragraph (3)(b)[^c-320254a5751f41f2f38493925d1c2d5f] are that the proposal would result in a relevant change in A which is—
 
 - (a) less than 5%;
 - (b) an increase of 5% or more, provided that the conditions set out in regulation 12 are satisfied; or
@@ -277,7 +277,7 @@ Where a person submits a funded decommissioning programme to the Secretary of St
 - “relevant change in A” is the difference, expressed as a percentage, between—
   - (a) the amount of A set out in the section 48 proposal; and
   - (b) the amount of A set out in the relevant estimate, adjusted in accordance with the formula—
-    - [^key-0e088138f674ffc9847b8d13416fa0dd][formula: see source](https://www.legislation.gov.uk/uksi/2013/126)
+    - [^c-0e088138f674ffc9847b8d13416fa0dd][formula: see source](https://www.legislation.gov.uk/uksi/2013/126)
 
     where—
 
@@ -292,7 +292,7 @@ Where a person submits a funded decommissioning programme to the Secretary of St
 - “relevant modification” means a modification specified in the funded decommissioning programme as a modification to which this regulation applies and includes a modification which is permitted only if conditions set out in the programme are met;
 - “section 66 agreement” means an agreement made pursuant to section 66 between the site operator and the Secretary of State and which relates to the site which is the subject of the proposal.
 
-## 12. Modifications involving significant increases in the estimated costs of decommissioning or waste management[^key-2e3041b12b829d8bd4bfc2c6b299b442]
+## 12. Modifications involving significant increases in the estimated costs of decommissioning or waste management[^c-2e3041b12b829d8bd4bfc2c6b299b442]
 
 (1) The conditions referred to in regulation 11(4)(b) are that—
 
@@ -305,13 +305,13 @@ Where a person submits a funded decommissioning programme to the Secretary of St
 
 (2) For the purposes of this regulation, “the required value” means, in relation to a section 48 proposal, the amount set out in, or determined in accordance with, the funded decommissioning programme by reference to the DTM estimates as they would be modified if the modification it proposes were to be made on the date notified to the Secretary of State in accordance with regulation 14(1)(b).
 
-## 13. Information requirements for section 48 proposals to which section 49 applies[^key-86d9fd90e9aa1900399d48882cda417b]
+## 13. Information requirements for section 48 proposals to which section 49 applies[^c-86d9fd90e9aa1900399d48882cda417b]
 
 (1) A person making a section 48 proposal to which section 49 applies must give notice to the Secretary of State which contains details of the proposed modification to the funded decommissioning programme including any changes to the DTM estimates, or to the details of the steps to be taken under the programme in relation to the technical matters.
 
 (2) Where the proposal relates to changes to the DTM estimates, it must be accompanied by a DTM verification report.
 
-## 14. Information requirements for section 48 proposals to which section 49 does not apply[^key-46b4f3ac25452be2a6bca342c4fafec7]
+## 14. Information requirements for section 48 proposals to which section 49 does not apply[^c-46b4f3ac25452be2a6bca342c4fafec7]
 
 (1) Where a person submits a section 48 proposal to the Secretary of State to which section 49 does not apply, that proposal must include—
 
@@ -327,7 +327,7 @@ Where a person submits a funded decommissioning programme to the Secretary of St
 - (d) in the case of a proposal to which regulation 11(4)(a) or 11(4)(c) apply, confirmation from the site operator that the requirement in regulation 11(4)(a) or, as the case may be 11(4)(c), will be satisfied at the date the relevant modification is intended to take effect;
 - (e) in the case of a proposal to which regulation 11(4)(b) applies, a statement from a verifier confirming that the condition in regulation 12(1)(b) has been met.
 
-## 15. Review[^key-f7a492f4da6b945be9ca0bb5d8f89bee]
+## 15. Review[^c-f7a492f4da6b945be9ca0bb5d8f89bee]
 
 (1) Before the end of the review period, the Secretary of State must—
 
@@ -369,50 +369,50 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32).
 
-[^key-51c088d1d3fdc230f9ef21134cafeec1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
+[^c-51c088d1d3fdc230f9ef21134cafeec1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
 
-[^key-cfa09ca7672ccaba734cf8f1865910fb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/126/regulation/2) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
+[^c-cfa09ca7672ccaba734cf8f1865910fb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/126/regulation/2) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
 
 [^f00002]: Footnote: [S.I 2011/134](https://www.legislation.gov.uk/uksi/2011/134).
 
-[^key-12799f00bc5015763b93e4623d50829f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/126/regulation/3) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
+[^c-12799f00bc5015763b93e4623d50829f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/126/regulation/3) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
 
-[^key-19bddb201c6a92dd0f0a48eea44bdbe5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/126/regulation/4) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
+[^c-19bddb201c6a92dd0f0a48eea44bdbe5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/126/regulation/4) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
 
 [^f00003]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
 [^f00004]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-1b0674ebfbc22ea525ad8c00c1554946]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/126/regulation/5) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
+[^c-1b0674ebfbc22ea525ad8c00c1554946]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/126/regulation/5) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
 
-[^key-cdd48b79b51f7d5fe952fd6e612a76ec]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/126/regulation/6) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
+[^c-cdd48b79b51f7d5fe952fd6e612a76ec]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/126/regulation/6) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
 
-[^key-1486ae9ddf8eb956e036d3285dfbc1d6]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2013/126/regulation/6/1A) inserted (31.7.2016) by [The Nuclear Decommissioning and Waste Handling (Finance and Fees) (Amendment) Regulations 2016 (S.I. 2016/702)](https://www.legislation.gov.uk/uksi/2016/702), [regs. 1](https://www.legislation.gov.uk/uksi/2016/702/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/702/regulation/3/2)
+[^c-1486ae9ddf8eb956e036d3285dfbc1d6]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2013/126/regulation/6/1A) inserted (31.7.2016) by [The Nuclear Decommissioning and Waste Handling (Finance and Fees) (Amendment) Regulations 2016 (S.I. 2016/702)](https://www.legislation.gov.uk/uksi/2016/702), [regs. 1](https://www.legislation.gov.uk/uksi/2016/702/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/702/regulation/3/2)
 
-[^key-c56e26f42aa6800746feb6c9ddbedfb6]: Textual amendment: [Reg. 6(2A)](https://www.legislation.gov.uk/uksi/2013/126/regulation/6/2A) inserted (31.7.2016) by [The Nuclear Decommissioning and Waste Handling (Finance and Fees) (Amendment) Regulations 2016 (S.I. 2016/702)](https://www.legislation.gov.uk/uksi/2016/702), [regs. 1](https://www.legislation.gov.uk/uksi/2016/702/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/702/regulation/3/3)
+[^c-c56e26f42aa6800746feb6c9ddbedfb6]: Textual amendment: [Reg. 6(2A)](https://www.legislation.gov.uk/uksi/2013/126/regulation/6/2A) inserted (31.7.2016) by [The Nuclear Decommissioning and Waste Handling (Finance and Fees) (Amendment) Regulations 2016 (S.I. 2016/702)](https://www.legislation.gov.uk/uksi/2016/702), [regs. 1](https://www.legislation.gov.uk/uksi/2016/702/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/702/regulation/3/3)
 
-[^key-fb99808fdf4c7c913ec7f07aa4bbc2de]: Textual amendment: [Regs. 6A](https://www.legislation.gov.uk/uksi/2013/126/regulation/6A), [6B](https://www.legislation.gov.uk/uksi/2013/126/regulation/6B) inserted (31.7.2016) by [The Nuclear Decommissioning and Waste Handling (Finance and Fees) (Amendment) Regulations 2016 (S.I. 2016/702)](https://www.legislation.gov.uk/uksi/2016/702), [regs. 1](https://www.legislation.gov.uk/uksi/2016/702/regulation/1), [4](https://www.legislation.gov.uk/uksi/2016/702/regulation/4)
+[^c-fb99808fdf4c7c913ec7f07aa4bbc2de]: Textual amendment: [Regs. 6A](https://www.legislation.gov.uk/uksi/2013/126/regulation/6A), [6B](https://www.legislation.gov.uk/uksi/2013/126/regulation/6B) inserted (31.7.2016) by [The Nuclear Decommissioning and Waste Handling (Finance and Fees) (Amendment) Regulations 2016 (S.I. 2016/702)](https://www.legislation.gov.uk/uksi/2016/702), [regs. 1](https://www.legislation.gov.uk/uksi/2016/702/regulation/1), [4](https://www.legislation.gov.uk/uksi/2016/702/regulation/4)
 
-[^key-fd8a9efde529bcb2fa151d5b68c428b2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/126/regulation/7) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
+[^c-fd8a9efde529bcb2fa151d5b68c428b2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/126/regulation/7) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
 
-[^key-4b05fed716511607c1124cafe4ac3a04]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/126/regulation/8) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
+[^c-4b05fed716511607c1124cafe4ac3a04]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/126/regulation/8) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
 
-[^key-6af65ef9939172ae2a170ee3c4380595]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/126/regulation/9) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
+[^c-6af65ef9939172ae2a170ee3c4380595]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/126/regulation/9) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
 
-[^key-3669017aea32d8b6f4e4fb0f7850136b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/126/regulation/10) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
+[^c-3669017aea32d8b6f4e4fb0f7850136b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/126/regulation/10) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
 
-[^key-02acb45f0818e66aac203b04d5b5f0f8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/126/regulation/11) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
+[^c-02acb45f0818e66aac203b04d5b5f0f8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/126/regulation/11) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
 
-[^key-5a408b9894c28f6995b5ac14d11e9e4c]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/2013/126/regulation/11/3) substituted (22.8.2013) by [The Nuclear Decommissioning and Waste Handling (Finance and Fees) (Amendment) Regulations 2013 (S.I. 2013/1875)](https://www.legislation.gov.uk/uksi/2013/1875), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1875/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/1875/regulation/3/1)
+[^c-5a408b9894c28f6995b5ac14d11e9e4c]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/2013/126/regulation/11/3) substituted (22.8.2013) by [The Nuclear Decommissioning and Waste Handling (Finance and Fees) (Amendment) Regulations 2013 (S.I. 2013/1875)](https://www.legislation.gov.uk/uksi/2013/1875), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1875/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/1875/regulation/3/1)
 
-[^key-320254a5751f41f2f38493925d1c2d5f]: Textual amendment: Words in [reg. 11(4)](https://www.legislation.gov.uk/uksi/2013/126/regulation/11/4) substituted (22.8.2013) by [The Nuclear Decommissioning and Waste Handling (Finance and Fees) (Amendment) Regulations 2013 (S.I. 2013/1875)](https://www.legislation.gov.uk/uksi/2013/1875), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1875/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/1875/regulation/3/2)
+[^c-320254a5751f41f2f38493925d1c2d5f]: Textual amendment: Words in [reg. 11(4)](https://www.legislation.gov.uk/uksi/2013/126/regulation/11/4) substituted (22.8.2013) by [The Nuclear Decommissioning and Waste Handling (Finance and Fees) (Amendment) Regulations 2013 (S.I. 2013/1875)](https://www.legislation.gov.uk/uksi/2013/1875), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1875/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/1875/regulation/3/2)
 
-[^key-0e088138f674ffc9847b8d13416fa0dd]: Textual amendment: Formula in [reg. 11(5)](https://www.legislation.gov.uk/uksi/2013/126/regulation/11/5) substituted (22.8.2013) by [The Nuclear Decommissioning and Waste Handling (Finance and Fees) (Amendment) Regulations 2013 (S.I. 2013/1875)](https://www.legislation.gov.uk/uksi/2013/1875), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1875/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/1875/regulation/3/3)
+[^c-0e088138f674ffc9847b8d13416fa0dd]: Textual amendment: Formula in [reg. 11(5)](https://www.legislation.gov.uk/uksi/2013/126/regulation/11/5) substituted (22.8.2013) by [The Nuclear Decommissioning and Waste Handling (Finance and Fees) (Amendment) Regulations 2013 (S.I. 2013/1875)](https://www.legislation.gov.uk/uksi/2013/1875), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1875/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/1875/regulation/3/3)
 
-[^key-2e3041b12b829d8bd4bfc2c6b299b442]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/126/regulation/12) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
+[^c-2e3041b12b829d8bd4bfc2c6b299b442]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/126/regulation/12) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
 
-[^key-86d9fd90e9aa1900399d48882cda417b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/126/regulation/13) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
+[^c-86d9fd90e9aa1900399d48882cda417b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/126/regulation/13) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
 
-[^key-46b4f3ac25452be2a6bca342c4fafec7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/126/regulation/14) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
+[^c-46b4f3ac25452be2a6bca342c4fafec7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/126/regulation/14) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
 
-[^key-f7a492f4da6b945be9ca0bb5d8f89bee]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/126/regulation/15) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)
+[^c-f7a492f4da6b945be9ca0bb5d8f89bee]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/126/regulation/15) in force at 4.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1)

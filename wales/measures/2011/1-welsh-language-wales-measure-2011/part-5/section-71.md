@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Investigating failure to comply with standards etc[^key-0c4a923df87a9f1f9b5fc1e14a3e434f]
+## 71. Investigating failure to comply with standards etc[^c-0c4a923df87a9f1f9b5fc1e14a3e434f]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c4a923df87a9f1f9b5fc1e14a3e434f]: Commencement: [S. 71](https://www.legislation.gov.uk/mwa/2011/1/section/71) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-0c4a923df87a9f1f9b5fc1e14a3e434f]: Commencement: [S. 71](https://www.legislation.gov.uk/mwa/2011/1/section/71) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

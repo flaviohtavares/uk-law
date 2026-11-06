@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Terms of agreements[^key-335876b76355ce58fb75ff63995b9b9e]
+## 50. Terms of agreements[^c-335876b76355ce58fb75ff63995b9b9e]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ and subsection (7) of section 49 applies for the purposes of this subsection as 
 
 ## Annotations
 
-[^key-335876b76355ce58fb75ff63995b9b9e]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2013/6/section/50) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-335876b76355ce58fb75ff63995b9b9e]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2013/6/section/50) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

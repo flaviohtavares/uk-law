@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Schools and rooms for Senedd election meetings[^key-90efad42c7382c580741d748a24e4f76]
+## 71. Schools and rooms for Senedd election meetings[^c-90efad42c7382c580741d748a24e4f76]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90efad42c7382c580741d748a24e4f76]: Commencement: Art. 71 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-90efad42c7382c580741d748a24e4f76]: Commencement: Art. 71 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

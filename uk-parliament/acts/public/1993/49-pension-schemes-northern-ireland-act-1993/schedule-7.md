@@ -168,7 +168,7 @@ Section 184.
 
 *Extent: N.I.*
 
-**20.**[^key-7a6f4eed4ac11d39b67146dbb6185d80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-7a6f4eed4ac11d39b67146dbb6185d80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Audit (Northern Ireland) Order 1987 (N.I. 5)
 
@@ -181,7 +181,7 @@ Section 184.
 
 ### The Income and Corporation Taxes Act 1988 (c. 1)
 
-**22.**[^key-4f17dac452793c337f433c56df3f7feb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-4f17dac452793c337f433c56df3f7feb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Official Secrets Act 1989 (c. 6)
 
@@ -331,9 +331,9 @@ Section 184.
 
 [^c11738051]: Textual amendment: Sch. 7 para. 10 repealed (1.1.1996) by [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213), [arts. 119](https://www.legislation.gov.uk/nisi/1995/3213/article/119), [168](https://www.legislation.gov.uk/nisi/1995/3213/article/168), [Sch. 1 para. 39](https://www.legislation.gov.uk/nisi/1995/3213/schedule/1/paragraph/39), [Sch. 5 Pt. I](https://www.legislation.gov.uk/nisi/1995/3213/schedule/5/part/I) (with [art. 118(5)(6)](https://www.legislation.gov.uk/nisi/1995/3213/article/118/5/6)); [S.R. 1995/477](https://www.legislation.gov.uk/nisr/1995/477), [art. 2(b)](https://www.legislation.gov.uk/nisr/1995/477/article/2/b), [Sch. Pt. II](https://www.legislation.gov.uk/nisr/1995/477/schedule/part/II)
 
-[^key-7a6f4eed4ac11d39b67146dbb6185d80]: Textual amendment: Sch. 7 para. 20 repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-7a6f4eed4ac11d39b67146dbb6185d80]: Textual amendment: Sch. 7 para. 20 repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-4f17dac452793c337f433c56df3f7feb]: Textual amendment: Sch. 7 para. 22 repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-4f17dac452793c337f433c56df3f7feb]: Textual amendment: Sch. 7 para. 22 repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
 
 [^c11738061]: Textual amendment: Sch. 7 para. 26 repealed (6.4.1997) by [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213), [art. 168](https://www.legislation.gov.uk/nisi/1995/3213/article/168), [Sch. 5 Pt. III](https://www.legislation.gov.uk/nisi/1995/3213/schedule/5/part/III); [S.R. 1997/192](https://www.legislation.gov.uk/nisr/1997/192), [art. 2(b)](https://www.legislation.gov.uk/nisr/1997/192/article/2/b)
 

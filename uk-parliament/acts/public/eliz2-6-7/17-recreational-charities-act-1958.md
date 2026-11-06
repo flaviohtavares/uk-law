@@ -29,34 +29,34 @@ Recreational Charities Act 1958 (repealed)
 
 1958 c.17
 
-[^key-20901817d79593f7c578048ea90c3559]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-20901817d79593f7c578048ea90c3559]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. General provision as to recreational and similar trusts, et ceteralaetc.[^key-20901817d79593f7c578048ea90c3559][^key-20901817d79593f7c578048ea90c3559]
+## 1. General provision as to recreational and similar trusts, et ceteralaetc.[^c-20901817d79593f7c578048ea90c3559][^c-20901817d79593f7c578048ea90c3559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Miners’ welfare trusts.[^key-20901817d79593f7c578048ea90c3559][^key-20901817d79593f7c578048ea90c3559]
+## 2. Miners’ welfare trusts.[^c-20901817d79593f7c578048ea90c3559][^c-20901817d79593f7c578048ea90c3559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Savings and other provisions as to past transactions.[^key-20901817d79593f7c578048ea90c3559][^key-20901817d79593f7c578048ea90c3559]
+## 3. Savings and other provisions as to past transactions.[^c-20901817d79593f7c578048ea90c3559][^c-20901817d79593f7c578048ea90c3559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-20901817d79593f7c578048ea90c3559][^key-20901817d79593f7c578048ea90c3559]
+## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-20901817d79593f7c578048ea90c3559][^c-20901817d79593f7c578048ea90c3559]
 
-## 5. Application to Crown.[^key-fae21b591314cf83a71f28a6ebc26dea][^key-20901817d79593f7c578048ea90c3559][^key-20901817d79593f7c578048ea90c3559]
+## 5. Application to Crown.[^c-fae21b591314cf83a71f28a6ebc26dea][^c-20901817d79593f7c578048ea90c3559][^c-20901817d79593f7c578048ea90c3559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Short title and extent.[^key-20901817d79593f7c578048ea90c3559][^key-20901817d79593f7c578048ea90c3559]
+## 6. Short title and extent.[^c-20901817d79593f7c578048ea90c3559][^c-20901817d79593f7c578048ea90c3559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-20901817d79593f7c578048ea90c3559]: Textual amendment: Act repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8 and with further savings in S.I. 2011/1396, Sch. paras. 1-3](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-20901817d79593f7c578048ea90c3559]: Textual amendment: Act repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8 and with further savings in S.I. 2011/1396, Sch. paras. 1-3](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-fae21b591314cf83a71f28a6ebc26dea]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/17/section/5) omitted (14.3.2012 immediately before the Charities Act 2006 comes into force) by virtue of [The Charities (Pre-consolidation Amendments) Order 2011 (S.I. 2011/1396)](https://www.legislation.gov.uk/uksi/2011/1396), [art. 1](https://www.legislation.gov.uk/uksi/2011/1396/article/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/3)
+[^c-fae21b591314cf83a71f28a6ebc26dea]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/17/section/5) omitted (14.3.2012 immediately before the Charities Act 2006 comes into force) by virtue of [The Charities (Pre-consolidation Amendments) Order 2011 (S.I. 2011/1396)](https://www.legislation.gov.uk/uksi/2011/1396), [art. 1](https://www.legislation.gov.uk/uksi/2011/1396/article/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/3)

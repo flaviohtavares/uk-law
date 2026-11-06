@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Pre-application consultation: compliance[^key-6a61f7dcdc5ecb40f2c86d8371fda810]
+## 23. Pre-application consultation: compliance[^c-6a61f7dcdc5ecb40f2c86d8371fda810]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a61f7dcdc5ecb40f2c86d8371fda810]: Commencement: S. 23 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-6a61f7dcdc5ecb40f2c86d8371fda810]: Commencement: S. 23 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

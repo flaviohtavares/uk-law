@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 17 — Transfers of Business: Supplementary Provisions[^key-bbe5fc1306add4ceabc772435234b1b6][^key-48350539732cd5b6e0948ec880b4751f]
+## SCHEDULE 17 — Transfers of Business: Supplementary Provisions[^c-bbe5fc1306add4ceabc772435234b1b6][^c-48350539732cd5b6e0948ec880b4751f]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ Section 97 and 98.
 **3.**[^c15527631] (1) A transfer statement, in relation to a transfer of business by a building society, shall contain—
 
 - (a) the particulars required, in relation to the prescribed matters, by the regulations made under paragraph 5(1) below, and
-- (b) particulars of any other matters required by the appropriate authority[^key-bf96a893434463ee55ebe18c63700cb6] in the case of the particular transfer,
+- (b) particulars of any other matters required by the appropriate authority[^c-bf96a893434463ee55ebe18c63700cb6] in the case of the particular transfer,
 
 with or without other particulars regarding the transfer.
 
@@ -52,7 +52,7 @@ with or without other particulars regarding the transfer.
 
 **4.**[^c15527671] (1) Subject to sub-paragraph (3) below, a building society shall, in relation to a transfer of business, include a transfer statement, or a transfer summary, in or with the notice to be sent to its members of the meeting of the society at which the requisite transfer resolutions are to be moved.
 
-(1A)[^key-36f8000a40d6dc19f1eeb1e62acdf0d3] Where a transfer statement or transfer summary is required under sub-paragraph (1) to be sent to a member in or with the notice of the meeting of the society at which the requisite transfer resolutions are to be moved—
+(1A)[^c-36f8000a40d6dc19f1eeb1e62acdf0d3] Where a transfer statement or transfer summary is required under sub-paragraph (1) to be sent to a member in or with the notice of the meeting of the society at which the requisite transfer resolutions are to be moved—
 
 - (a) in a case where notice of that meeting is given to that member electronically in accordance with paragraph 22A of Schedule 2, the transfer statement or transfer summary may be sent to him electronically only if it is sent to the same electronic address, and at the same time as the notice;
 - (b) in a case where notice of that meeting is given on a web site in accordance with paragraph 22B of Schedule 2, the requirement to send the statement or summary to that member shall also be treated as satisfied if the conditions set out in sub-paragraph (1B) are satisfied.
@@ -79,7 +79,7 @@ the failure shall not invalidate the proceedings of a meeting or prevent the req
 - (a) shall be handed forthwith and free of charge to any member to whom the summary was sent who asks for such a statement at an office or branch of the society; and
 - (b) shall be sent forthwith and free of charge to any such member who asks for such a statement otherwise than at such an office or branch.
 
-(2A)[^key-758aa7a250c7ecaf9fbb840a1c719a3d] Where a transfer statement is required to be sent to a member under sub-paragraph (2)(b)—
+(2A)[^c-758aa7a250c7ecaf9fbb840a1c719a3d] Where a transfer statement is required to be sent to a member under sub-paragraph (2)(b)—
 
 - (a) it may be sent to him electronically only if it is sent to an electronic address notified by him to the society for the purpose;
 - (b) the requirement to send it shall also be treated as satisfied if the conditions set out in sub-paragraph (2B) are satisfied.
@@ -103,7 +103,7 @@ the failure shall not invalidate the proceedings of a meeting or prevent the req
 
 (3) No transfer statement shall be sent or handed to a member unless its contents, so far as they concern the prescribed matters or any matter of which particulars are required to be given under paragraph 3(1)(b) above, have been approved by the appropriate authority .
 
-(4)[^key-427c8d63678d085a6be34d043ab2c04a] The PRA must consult the FCA before approving a statement under sub-paragraph (3).
+(4)[^c-427c8d63678d085a6be34d043ab2c04a] The PRA must consult the FCA before approving a statement under sub-paragraph (3).
 
 **5.**[^c15527701][^c15527711] (1) The Treasury[^c15527721], may make regulations for the purpose of specifying, as prescribed matters, the matters of which transfer statements are to give particulars; and the regulations may also require particulars to be given of any alternatives to the particular transfer which were available to the society making the transfer.
 
@@ -136,14 +136,14 @@ with or without other particulars regarding the proposal.
 
 (3) Sub-paragraph (1) above does not require a transfer proposal notification to be sent to members if the proposer has requested in writing that the requisite particulars are to be treated as confidential; and, where such a request is made and is at a later date withdrawn in writing, the society receiving the proposal shall, for the purposes of this Part of this Schedule, treat the proposal as having been received on that date instead of any earlier date.
 
-**5C.**[^c15527801] (1)[^key-a3429e01100233a0a21c78c875178efe] A building society shall include in or with every notice of its annual general meeting a transfer proposal notification with respect to any transfer proposal, other than a proposal of which notice has already been given under this paragraph—
+**5C.**[^c15527801] (1)[^c-a3429e01100233a0a21c78c875178efe] A building society shall include in or with every notice of its annual general meeting a transfer proposal notification with respect to any transfer proposal, other than a proposal of which notice has already been given under this paragraph—
 
 - (a) received by it during the period of 12 months ending with the ninth month of the last financial year of the society before that meeting; or
 - (b) treated by paragraph 5B(3) above as having been received by it during the last three months of that financial year;
 
 and the society may also include, under this paragraph, a transfer proposal notification with respect to any proposal received, or treated as received, by it after the end of either period.
 
-(2)[^key-bb5e189649228a3b9e4dbb50cbdb2940] Where a transfer proposal notification is required under sub-paragraph (1) to be sent to a member in or with the notice of an annual general meeting of the society—
+(2)[^c-bb5e189649228a3b9e4dbb50cbdb2940] Where a transfer proposal notification is required under sub-paragraph (1) to be sent to a member in or with the notice of an annual general meeting of the society—
 
 - (a) in a case where notice of that meeting is given to that member electronically in accordance with paragraph 22A of Schedule 2, the transfer proposal notification may be sent to him electronically only if it is sent to the same electronic address, and at the same time as the notice.
 - (b) in a case where notice of that meeting is given on a website in accordance with paragraph 22B of Schedule 2, the requirement to send it shall also be treated as satisfied if the conditions set out in sub-paragraph (3) are satisfied.
@@ -167,15 +167,15 @@ the failure shall not invalidate the proceedings of a meeting.
 
 #### Duty to notify appropriate authority[^c15527821]
 
-**5D.**[^c15527851] (1) Where a building society sends a transfer proposal notification to its members under paragraph 5C above in connection with a meeting of the society, it shall send a copy of the notification to the FCA[^key-e53a28b50396d6944eab377b4857a531] and, if the society is a PRA-authorised person, the PRA at least 14 days before the date of the meeting.
+**5D.**[^c15527851] (1) Where a building society sends a transfer proposal notification to its members under paragraph 5C above in connection with a meeting of the society, it shall send a copy of the notification to the FCA[^c-e53a28b50396d6944eab377b4857a531] and, if the society is a PRA-authorised person, the PRA at least 14 days before the date of the meeting.
 
-(2) The FCA[^key-b8fddac8d70deafc583ba7ef3264ac50] must keep the copy of a transfer proposal notification received by it from a building society in the public file of that society.
+(2) The FCA[^c-b8fddac8d70deafc583ba7ef3264ac50] must keep the copy of a transfer proposal notification received by it from a building society in the public file of that society.
 
 #### Penalty[^c15527881]
 
-**5E.**[^c15527891] (1)[^key-509a127cd7f8d1a7e5c40dcf8e7375fa] If default is made by a building society in complying with paragraph 5C or 5D above, the society shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale; and so shall any officer who is also guilty of the offence.
+**5E.**[^c15527891] (1)[^c-509a127cd7f8d1a7e5c40dcf8e7375fa] If default is made by a building society in complying with paragraph 5C or 5D above, the society shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale; and so shall any officer who is also guilty of the offence.
 
-(2)[^key-e877ad082366858537eb89e1dabbe02c] But no offence is committed under this paragraph, in a case in which paragraph 5C(2)(b) is relied on for compliance with a requirement under paragraph 5C(1), where—
+(2)[^c-e877ad082366858537eb89e1dabbe02c] But no offence is committed under this paragraph, in a case in which paragraph 5C(2)(b) is relied on for compliance with a requirement under paragraph 5C(1), where—
 
 - (a) a transfer proposal notification is published for a part, but not all, of the period mentioned in paragraph 5C(3)(d); and
 - (b) the failure to publish that notification throughout that period is wholly attributable to circumstances which it would not be reasonable to have expected the society to prevent or avoid.
@@ -202,9 +202,9 @@ the failure shall not invalidate the proceedings of a meeting.
 
 ## Annotations
 
-[^key-bbe5fc1306add4ceabc772435234b1b6]: Modification: Sch. 17: power to modify conferred (16.1.2009) by [Building Societies (Funding) and Mutual Societies (Transfers) Act 2007 (c. 26)](https://www.legislation.gov.uk/ukpga/2007/26), [ss. 3](https://www.legislation.gov.uk/ukpga/2007/26/section/3), [6(2)](https://www.legislation.gov.uk/ukpga/2007/26/section/6/2); [S.I. 2009/36](https://www.legislation.gov.uk/uksi/2009/36), [art. 2](https://www.legislation.gov.uk/uksi/2009/36/article/2)
+[^c-bbe5fc1306add4ceabc772435234b1b6]: Modification: Sch. 17: power to modify conferred (16.1.2009) by [Building Societies (Funding) and Mutual Societies (Transfers) Act 2007 (c. 26)](https://www.legislation.gov.uk/ukpga/2007/26), [ss. 3](https://www.legislation.gov.uk/ukpga/2007/26/section/3), [6(2)](https://www.legislation.gov.uk/ukpga/2007/26/section/6/2); [S.I. 2009/36](https://www.legislation.gov.uk/uksi/2009/36), [art. 2](https://www.legislation.gov.uk/uksi/2009/36/article/2)
 
-[^key-48350539732cd5b6e0948ec880b4751f]: Modification: Sch. 17 applied (with modifications) (5.3.2009) by [The Mutual Societies (Transfers) Order 2009 (S.I. 2009/509)](https://www.legislation.gov.uk/uksi/2009/509), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/509/article/1/2), [3-18](https://www.legislation.gov.uk/uksi/2009/509/article/3)
+[^c-48350539732cd5b6e0948ec880b4751f]: Modification: Sch. 17 applied (with modifications) (5.3.2009) by [The Mutual Societies (Transfers) Order 2009 (S.I. 2009/509)](https://www.legislation.gov.uk/uksi/2009/509), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/509/article/1/2), [3-18](https://www.legislation.gov.uk/uksi/2009/509/article/3)
 
 [^c15527561]: Textual amendment: Sch. 17 Pts. I, IA substituted for Sch. 17 Pt. I (1.12.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 30(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/30/3), [Sch. 5 Pts. I](https://www.legislation.gov.uk/ukpga/1997/32/schedule/5/part/I), [II](https://www.legislation.gov.uk/ukpga/1997/32/schedule/5/part/II); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. I(e)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/I/e)
 
@@ -220,15 +220,15 @@ the failure shall not invalidate the proceedings of a meeting.
 
 [^c15527631]: Textual amendment: Sch. 17 Pts. I, IA substituted for Sch. 17 Pt. I (1.12.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 30(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/30/3), [Sch. 5 Pts. I](https://www.legislation.gov.uk/ukpga/1997/32/schedule/5/part/I), [II](https://www.legislation.gov.uk/ukpga/1997/32/schedule/5/part/II); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. I(e)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/I/e)
 
-[^key-bf96a893434463ee55ebe18c63700cb6]: Textual amendment: Words in Sch. 17 substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 60(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/60/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-bf96a893434463ee55ebe18c63700cb6]: Textual amendment: Words in Sch. 17 substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 60(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/60/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15527671]: Textual amendment: Sch. 17 Pts. I, IA substituted for Sch. 17 Pt. I (1.12.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 30(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/30/3), [Sch. 5 Pts. I](https://www.legislation.gov.uk/ukpga/1997/32/schedule/5/part/I), [II](https://www.legislation.gov.uk/ukpga/1997/32/schedule/5/part/II); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. I(e)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/I/e)
 
-[^key-36f8000a40d6dc19f1eeb1e62acdf0d3]: Textual amendment: Sch. 17 para. 4(1A)-(1C) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [27(2)](https://www.legislation.gov.uk/uksi/2003/404/article/27/2)
+[^c-36f8000a40d6dc19f1eeb1e62acdf0d3]: Textual amendment: Sch. 17 para. 4(1A)-(1C) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [27(2)](https://www.legislation.gov.uk/uksi/2003/404/article/27/2)
 
-[^key-758aa7a250c7ecaf9fbb840a1c719a3d]: Textual amendment: Sch. 17 para. 4(2A)-(2C) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [27(3)](https://www.legislation.gov.uk/uksi/2003/404/article/27/3)
+[^c-758aa7a250c7ecaf9fbb840a1c719a3d]: Textual amendment: Sch. 17 para. 4(2A)-(2C) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [27(3)](https://www.legislation.gov.uk/uksi/2003/404/article/27/3)
 
-[^key-427c8d63678d085a6be34d043ab2c04a]: Textual amendment: [Sch. 17 para. 4(4)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/17/paragraph/4/4) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 60(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/60/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-427c8d63678d085a6be34d043ab2c04a]: Textual amendment: [Sch. 17 para. 4(4)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/17/paragraph/4/4) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 60(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/60/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15527701]: Modification: Sch. 17 para. 5(1) function of Building Societies Commission transferred (1.12.2001) to Treasury by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617) arts. 2(b), 4(1), Sch. I Pt. III
 
@@ -250,24 +250,24 @@ the failure shall not invalidate the proceedings of a meeting.
 
 [^c15527801]: Textual amendment: Sch. 17 Pts. I, IA substituted for Sch. 17 Pt. I (1.12.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 30(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/30/3), [Sch. 5 Pts. I](https://www.legislation.gov.uk/ukpga/1997/32/schedule/5/part/I), [II](https://www.legislation.gov.uk/ukpga/1997/32/schedule/5/part/II); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. I(e)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/I/e)
 
-[^key-a3429e01100233a0a21c78c875178efe]: Textual amendment: Sch. 17 para. 5C(1) renumbered (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [28(2)](https://www.legislation.gov.uk/uksi/2003/404/article/28/2)
+[^c-a3429e01100233a0a21c78c875178efe]: Textual amendment: Sch. 17 para. 5C(1) renumbered (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [28(2)](https://www.legislation.gov.uk/uksi/2003/404/article/28/2)
 
-[^key-bb5e189649228a3b9e4dbb50cbdb2940]: Textual amendment: Sch. 17 paras. 5C(2)-(4) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [28(2)](https://www.legislation.gov.uk/uksi/2003/404/article/28/2)
+[^c-bb5e189649228a3b9e4dbb50cbdb2940]: Textual amendment: Sch. 17 paras. 5C(2)-(4) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [28(2)](https://www.legislation.gov.uk/uksi/2003/404/article/28/2)
 
 [^c15527821]: Textual amendment: Sch. 17 Pts. I, IA substituted for Sch. 17 Pt. I (1.12.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 30(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/30/3), [Sch. 5 Pts. I](https://www.legislation.gov.uk/ukpga/1997/32/schedule/5/part/I), [II](https://www.legislation.gov.uk/ukpga/1997/32/schedule/5/part/II); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. I(e)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/I/e)
 
 [^c15527851]: Textual amendment: Sch. 17 Pts. I, IA substituted for Sch. 17 Pt. I (1.12.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 30(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/30/3), [Sch. 5 Pts. I](https://www.legislation.gov.uk/ukpga/1997/32/schedule/5/part/I), [II](https://www.legislation.gov.uk/ukpga/1997/32/schedule/5/part/II); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. I(e)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/I/e)
 
-[^key-e53a28b50396d6944eab377b4857a531]: Textual amendment: Words in [Sch. 17 para. 5D(1)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/17/paragraph/5D/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 60(4)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/60/4/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-e53a28b50396d6944eab377b4857a531]: Textual amendment: Words in [Sch. 17 para. 5D(1)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/17/paragraph/5D/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 60(4)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/60/4/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-b8fddac8d70deafc583ba7ef3264ac50]: Textual amendment: Words in [Sch. 17 para. 5D(2)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/17/paragraph/5D/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 60(4)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/60/4/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-b8fddac8d70deafc583ba7ef3264ac50]: Textual amendment: Words in [Sch. 17 para. 5D(2)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/17/paragraph/5D/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 60(4)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/60/4/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15527881]: Textual amendment: Sch. 17 Pts. I, IA substituted for Sch. 17 Pt. I (1.12.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 30(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/30/3), [Sch. 5 Pts. I](https://www.legislation.gov.uk/ukpga/1997/32/schedule/5/part/I), [II](https://www.legislation.gov.uk/ukpga/1997/32/schedule/5/part/II); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. I(e)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/I/e)
 
 [^c15527891]: Textual amendment: Sch. 17 Pts. I, IA substituted for Sch. 17 Pt. I (1.12.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 30(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/30/3), [Sch. 5 Pts. I](https://www.legislation.gov.uk/ukpga/1997/32/schedule/5/part/I), [II](https://www.legislation.gov.uk/ukpga/1997/32/schedule/5/part/II); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. I(e)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/I/e)
 
-[^key-509a127cd7f8d1a7e5c40dcf8e7375fa]: Textual amendment: Sch. 17 para. 5E(1) renumbered (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [28(3)](https://www.legislation.gov.uk/uksi/2003/404/article/28/3)
+[^c-509a127cd7f8d1a7e5c40dcf8e7375fa]: Textual amendment: Sch. 17 para. 5E(1) renumbered (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [28(3)](https://www.legislation.gov.uk/uksi/2003/404/article/28/3)
 
-[^key-e877ad082366858537eb89e1dabbe02c]: Textual amendment: Sch. 17 para. 5E(2) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [28(3)](https://www.legislation.gov.uk/uksi/2003/404/article/28/3)
+[^c-e877ad082366858537eb89e1dabbe02c]: Textual amendment: Sch. 17 para. 5E(2) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [28(3)](https://www.legislation.gov.uk/uksi/2003/404/article/28/3)
 
 [^c15527931]: Textual amendment: Word in Sch. 17 para. 6 substituted (17.8.2001 for certain purposes and otherwise 1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2](https://www.legislation.gov.uk/uksi/2001/2617/article/2), [8](https://www.legislation.gov.uk/uksi/2001/2617/article/8), [13(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1), [Sch. 3 Pt. II para. 212(d)](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/II/paragraph/212/d) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)

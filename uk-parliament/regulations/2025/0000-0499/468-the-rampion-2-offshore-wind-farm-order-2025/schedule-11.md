@@ -24,7 +24,7 @@ Article 39
 
 ### PART 1 — LICENSED MARINE ACTIVITIES
 
-**1.**[^key-94eaa2471c8bc172ad80a7289dbf47e5] (1) In this licence—
+**1.**[^c-94eaa2471c8bc172ad80a7289dbf47e5] (1) In this licence—
 
 - “**the 2004 Act**” means the Energy Act 2004[^f00052];
 - “**the 2008 Act**” means the Planning Act 2008[^f00053];
@@ -87,7 +87,7 @@ Article 39
 - “**undertaker**” means Rampion Extension Development Limited or such other person to whom the benefit of this licence is transferred pursuant to the terms of article 5 (benefit of the Order) of the Rampion 2 Offshore Windfarm Order 2025;
 - “**vessel**” means every description of vessel, however propelled or moved, and includes a non-displacement craft, a personal watercraft, a seaplane on the surface of the water, a hydrofoil vessel, a hovercraft or any other amphibious vehicle and any other thing constructed or adapted for movement through, in, on or over water and which is at the time in, on or over water;
 - “**VHF**” means very high frequency;
-- “**wind farm separation zones**” means those parts of the array area within which Work No. 1. and Work No. 3(a) as permitted pursuant to licence 2 (transmission)[^key-5c36a29c76c0c2749a101558f0ad1c11] may not be constructed as shown on the offshore works plan;
+- “**wind farm separation zones**” means those parts of the array area within which Work No. 1. and Work No. 3(a) as permitted pursuant to licence 2 (transmission)[^c-5c36a29c76c0c2749a101558f0ad1c11] may not be constructed as shown on the offshore works plan;
 - “**wind turbine generator**” means a structure comprising a tower, rotor with three blades connected at the hub, nacelle, transition pieces and ancillary electrical and other equipment which may include J-tube(s), access and rest platforms, access ladders, boat access systems, corrosion protection systems, fenders and maintenance equipment, helicopter landing facilities and other associated equipment, fixed to a foundation or transition piece; and
 - “**Working in Proximity to Wildlife in the Marine Environment Protocol**” means the document certified as Appendix 10 – Further information for action point 42 -proximity to marine wildlife by the Secretary of State for the purpose of this Order under article 49 (certification of plans and documents etc).
 
@@ -193,7 +193,7 @@ Article 39
 
   EC4R 2YA
 
-#### 2. Details of licensed marine activities[^key-44fa07fb04138803ab4fca7e728f2cbf]
+#### 2. Details of licensed marine activities[^c-44fa07fb04138803ab4fca7e728f2cbf]
 
 Subject to the licence conditions, this licence authorises the undertaker (and any agent or contractor acting on their behalf) to carry out the following licensable marine activities under section 66(1) (licensable marine activities) of the 2009 Act—
 
@@ -204,7 +204,7 @@ Subject to the licence conditions, this licence authorises the undertaker (and a
 - (e) the removal of sediment samples for the purposes of informing environmental monitoring under this licence during pre-construction, construction and operation; and
 - (f) site clearance and preparation works including debris removal, levelling, boulder clearance works either by displacement ploughing or subsea grab technique or any other equivalent method and removal of static fishing equipment.
 
-**3.**[^key-792f17ec9d9a5257fc2f49130c1d5363] (1) Such activities are authorised in relation to the construction, maintenance and operation of the following in the locations shown on the offshore works plans—
+**3.**[^c-792f17ec9d9a5257fc2f49130c1d5363] (1) Such activities are authorised in relation to the construction, maintenance and operation of the following in the locations shown on the offshore works plans—
 
 - (a) Work No. 1— an offshore wind turbine generating station which is to have a gross electrical output of over 100 megawatts and is to comprise no more than 90 wind turbine generators, with each wind turbine fixed to the seabed by either monopile foundation or multileg foundation and including a connection to the subsea cable circuits comprising Work no. 2(a) or 2(b).
 - (b) Work No. 2—
@@ -226,7 +226,7 @@ Subject to the licence conditions, this licence authorises the undertaker (and a
 - (a) temporary landing places, moorings or other means of accommodating vessels in the construction and/or maintenance of the authorised scheme; and
 - (b) marking buoys, beacons, fenders and other navigational warning or ship impact protection works.
 
-**4.**[^key-60fced3ffcdcb685375f4804b4f89c7a] The substances or articles authorised for deposit at sea are—
+**4.**[^c-60fced3ffcdcb685375f4804b4f89c7a] The substances or articles authorised for deposit at sea are—
 
 - (a) iron and steel, copper and aluminium;
 - (b) stone and rock;
@@ -236,7 +236,7 @@ Subject to the licence conditions, this licence authorises the undertaker (and a
 - (f) material extracted from within the offshore Order limits during construction drilling or seabed preparation for foundation works seabed preparation works and cable installation; and
 - (g) marine coatings, other chemicals and timber.
 
-**5.**[^key-b6593425653ad66c99b6c997c1c3d380] (1) The grid coordinates for that part of the offshore Order limits where those parts of the authorised project comprising Work No. 1 and 2(c) may be carried out as shown on the offshore works plans are specified below—
+**5.**[^c-b6593425653ad66c99b6c997c1c3d380] (1) The grid coordinates for that part of the offshore Order limits where those parts of the authorised project comprising Work No. 1 and 2(c) may be carried out as shown on the offshore works plans are specified below—
 
 | Point | Latitude | Longitude | Point | Latitude | Longitude |
 | --- | --- | --- | --- | --- | --- |
@@ -363,17 +363,17 @@ Subject to the licence conditions, this licence authorises the undertaker (and a
 | 46 | 50° 39’ 22.8501″ | \-000° 11’ 0.5488″ | 93 | 50° 39’ 1.7938″ | \-000° 36’ 8.7262″ |
 | 47 | 50° 39’ 22.8994″ | \-000° 11’ 0.3078″ | 94 | 50° 39’ 24.3939″ | \-000° 33’ 40.8674″ |
 
-**6.**[^key-4b58b983458654f8a19fce564e2d0030] This licence remains in force until the authorised project has been decommissioned in accordance with a programme approved by the Secretary of State under section 106 (approval of decommissioning programmes) of the 2004 Act, including any modification to the programme under section 108, and the completion of such programme has been confirmed by the Secretary of State in writing.
+**6.**[^c-4b58b983458654f8a19fce564e2d0030] This licence remains in force until the authorised project has been decommissioned in accordance with a programme approved by the Secretary of State under section 106 (approval of decommissioning programmes) of the 2004 Act, including any modification to the programme under section 108, and the completion of such programme has been confirmed by the Secretary of State in writing.
 
-**7.**[^key-2bb37c09edd46349367815d183e6e9de] The provisions of sections 72 (variation, suspension, revocation and transfer) of the 2009 Act apply to this licence except that the provisions of section 72(7) and (8) relating to the transfer of the licence only apply to a transfer not falling within article 5 (benefit of the Order) of the Order.
+**7.**[^c-2bb37c09edd46349367815d183e6e9de] The provisions of sections 72 (variation, suspension, revocation and transfer) of the 2009 Act apply to this licence except that the provisions of section 72(7) and (8) relating to the transfer of the licence only apply to a transfer not falling within article 5 (benefit of the Order) of the Order.
 
-**8.**[^key-3e400b19502ba288407fb88ada4f5e8f] With respect to any condition which requires the authorised scheme or licensed activities to be carried out in accordance with the plans, protocols or statements approved under this licence, the approved details, plan or scheme are taken to include any amendments that may subsequently be approved in writing by the MMO.
+**8.**[^c-3e400b19502ba288407fb88ada4f5e8f] With respect to any condition which requires the authorised scheme or licensed activities to be carried out in accordance with the plans, protocols or statements approved under this licence, the approved details, plan or scheme are taken to include any amendments that may subsequently be approved in writing by the MMO.
 
-**9.**[^key-040f60b58c62ebcfff6cca70fc4de404] Any amendments to or variations from the approved plans, protocols or statements must be in accordance with the principles and assessments set out in the environmental statement and approval for an amendment or variation may only be given in relation to immaterial changes where it has been demonstrated to the satisfaction of the MMO that the amendment or variation is unlikely to give rise to any new or materially different environmental effects from those assessed in the environmental statement.
+**9.**[^c-040f60b58c62ebcfff6cca70fc4de404] Any amendments to or variations from the approved plans, protocols or statements must be in accordance with the principles and assessments set out in the environmental statement and approval for an amendment or variation may only be given in relation to immaterial changes where it has been demonstrated to the satisfaction of the MMO that the amendment or variation is unlikely to give rise to any new or materially different environmental effects from those assessed in the environmental statement.
 
 ### PART 2 — CONDITIONS
 
-#### 1. Design parameters[^key-58df4dd2616c08904e365c89dc4a86e1]
+#### 1. Design parameters[^c-58df4dd2616c08904e365c89dc4a86e1]
 
 (1) The total number of wind turbine generators comprised in the authorised scheme must be no more than 90 having a total rotor swept area of no more than 4.45 square kilometres.
 
@@ -404,7 +404,7 @@ and the authorised scheme will comprise turbines of a uniform height and rotor d
 
 (6) The total volume of scour protection for wind turbine generators (where necessary) must be no more than 1,215,000 cubic metres with a maximum footprint of 405,000 square metres.
 
-**2.**[^key-e15f0b9080dcf9e6a4dce6213acf5475] (1) The total length of the array cables comprising Work No. 2 must be no more than 250 kilometres.
+**2.**[^c-e15f0b9080dcf9e6a4dce6213acf5475] (1) The total length of the array cables comprising Work No. 2 must be no more than 250 kilometres.
 
 (2) The total volume of cable protection comprising Work No. 2 must be no more than 175,000 cubic metres with a maximum footprint of 300,000 square metres.
 
@@ -418,7 +418,7 @@ and the authorised scheme will comprise turbines of a uniform height and rotor d
 
 (7) The array cables comprising Work No. 2 must be installed using one or more of the following installation methods: ploughing, trenching or jetting and are to be installed at a target burial depth of 1 metre below seabed surface.
 
-#### 3. Maintenance of the authorised scheme[^key-9c95986aea1a6d279eaa6b134e8b98c2]
+#### 3. Maintenance of the authorised scheme[^c-9c95986aea1a6d279eaa6b134e8b98c2]
 
 (1) No less than four months prior to the completion of construction of the authorised scheme the undertaker must submit to the MMO for approval an operations and maintenance plan which accords with the outline offshore operations and maintenance plan.
 
@@ -439,11 +439,11 @@ and the authorised scheme will comprise turbines of a uniform height and rotor d
 
 (5) Where the MMO’s approval is required under paragraph (3), approval may be given only where it has been demonstrated to the satisfaction of the MMO that the works for which approval is sought are unlikely to give rise to any new or materially different effects from those assessed in the environmental statement.
 
-#### 4. Extension of time periods[^key-e57ec22c0d1d10e97e4485fddc7c5e24]
+#### 4. Extension of time periods[^c-e57ec22c0d1d10e97e4485fddc7c5e24]
 
 Any time period in this licence given to either the undertaker or the MMO may be extended with the written agreement of the other party.
 
-#### 5. Notifications and inspection[^key-3192078ce376544c7a25c6f6443908bd]
+#### 5. Notifications and inspection[^c-3192078ce376544c7a25c6f6443908bd]
 
 (1) The undertaker must ensure that—
 
@@ -483,7 +483,7 @@ and confirmation of notification must be provided to the MMO within five days th
 
 (12) In case of cable exposure on or above the seabed, the undertaker must within three days following identification by the undertaker notify mariners by issuing a notice to mariners, regional fisheries contacts and notify the Kingfisher Information Service of Seafish of the location of the exposure and copies of all such notices must be provided to the MMO, MCA, Trinity House and UKHO within five days.
 
-#### 6. Aids to navigation[^key-9443dd0c70e9fc427476e01070db117b]
+#### 6. Aids to navigation[^c-9443dd0c70e9fc427476e01070db117b]
 
 (1) The undertaker must during the whole period from commencement of the authorised scheme to completion of decommissioning exhibit such lights, marks, sounds, signals and other aids to navigation, and take such other steps for the prevention of danger to navigation as Trinity House may from time to time direct.
 
@@ -499,13 +499,13 @@ and confirmation of notification must be provided to the MMO within five days th
 
 (5) In the event that the provisions of condition 5(11) or 5(12) are invoked, the undertaker must lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as directed by Trinity House.
 
-#### 7. Colour of structures[^key-11cc546a791de30dbc8ea8a26376d65b]
+#### 7. Colour of structures[^c-11cc546a791de30dbc8ea8a26376d65b]
 
 (1) The undertaker must colour all structures yellow (colour code RAL 1023) from at least highest astronomical tide to a height directed by Trinity House, or must colour the structure as directed by Trinity House from time to time.
 
 (2) Subject to sub-paragraph (1), unless the MMO otherwise directs, the undertaker must ensure that the remainder of the structures are painted light grey (colour code RAL 7035).
 
-#### 8. Aviation safety[^key-4c3b7ef1dff7464a90dc04b6080a6b67]
+#### 8. Aviation safety[^c-4c3b7ef1dff7464a90dc04b6080a6b67]
 
 (1) The undertaker must exhibit such lights, with such shape, colour and character and at such times as are required by Air Navigation Order 2016[^f00056] and determined necessary for aviation safety following consultation with the Defence Infrastructure Organisation Safeguarding and as directed by the Civil Aviation Authority. Lighting installed specifically to meet Ministry of Defence aviation safety requirements must remain operational for the life of the authorised scheme unless otherwise agreed with the Ministry of Defence.
 
@@ -525,7 +525,7 @@ and the Defence Infrastructure Organisation Safeguarding must be notified of any
 
 (5) The lights installed in accordance with sub-paragraphs (1) and (4) will be operated at the lowest permissible lighting intensity level.
 
-#### 9. Chemicals, drilling and debris[^key-e072a745e4993692b337ebc3502d91ba]
+#### 9. Chemicals, drilling and debris[^c-e072a745e4993692b337ebc3502d91ba]
 
 (1) Unless otherwise agreed in writing by the MMO all chemicals and substances including paints and coatings used below the MHWS for the undertaking of the licensed activities must be approved in writing by the MMO prior to use. Submission for approval to the MMO must take place no later than ten weeks prior to use, unless otherwise agreed to by the MMO in writing.
 
@@ -543,13 +543,13 @@ and the Defence Infrastructure Organisation Safeguarding must be notified of any
 
 (8) All dropped objects must be reported to the MMO using the dropped object procedure form as soon as reasonably practicable and in any event within 24 hours following the undertaker becoming aware of an incident. On receipt of the dropped object procedure form, the MMO may require relevant surveys to be carried out by the undertaker (such as side scan sonar) if reasonable to do so and on receipt of such surveys the MMO may require obstructions which are hazardous to other marine users to be removed from the seabed at the undertaker’s expense if reasonable to do so.
 
-#### 10. Force majeure[^key-75c86fe96708542ca5520e04d3db700c]
+#### 10. Force majeure[^c-75c86fe96708542ca5520e04d3db700c]
 
 (1) If, due to stress of weather or any other cause the master of a vessel determines that it is necessary to deposit the authorised deposits within or outside of the Order limits because the safety of human life or of the vessel is threatened, within 48 hours full details of the circumstances of the deposit must be notified to the MMO.
 
 (2) The unauthorised deposits must be removed at the expense of the undertaker unless written approval is obtained from the MMO.
 
-#### 11. Pre-construction plans and documentation[^key-11666be3d2cb5cd02a9ea8f18d4ed26a]
+#### 11. Pre-construction plans and documentation[^c-11666be3d2cb5cd02a9ea8f18d4ed26a]
 
 (1) The authorised scheme or any part thereof must not commence until the following (insofar as relevant to that part) has been submitted to and approved in writing by the MMO, following consultation with (where relevant) Natural England, Trinity House and the MCA—
 
@@ -625,7 +625,7 @@ unless otherwise agreed in writing with the MMO;
 
 (3) Pre-commencement archaeological investigations and pre-commencement material operations which involve intrusive activities must only take place in accordance with a specific written scheme of investigation (which must accord with the details set out in the outline marine written scheme of investigation) which has been submitted to and approved by the MMO.
 
-**12.**[^key-8b02b0d78a00b2055920bdbbb33318f5] (1) Each programme, statement, plan, protocol or scheme required to be approved under condition 11 (save for those required under conditions 11(1)(j) and 11(1)(p)) must be submitted for approval at least four months prior to the intended commencement of the authorised scheme or relevant part thereof, except where otherwise stated or otherwise agreed in writing by the MMO.
+**12.**[^c-8b02b0d78a00b2055920bdbbb33318f5] (1) Each programme, statement, plan, protocol or scheme required to be approved under condition 11 (save for those required under conditions 11(1)(j) and 11(1)(p)) must be submitted for approval at least four months prior to the intended commencement of the authorised scheme or relevant part thereof, except where otherwise stated or otherwise agreed in writing by the MMO.
 
 (2) The monitoring plan required under condition 11(1)(j) must be submitted in accordance with the following, unless otherwise agreed in writing with the MMO—
 
@@ -644,15 +644,15 @@ unless otherwise agreed in writing with the MMO;
 
 (6) The authorised scheme must be carried out in accordance with the approved plans, protocols, statements, schemes and details approved under condition 11, unless otherwise agreed in writing by the MMO, in consultation with (where relevant) Natural England.
 
-#### 13. Safety Zones[^key-72c867b42132e36f07784f944d2b6f14]
+#### 13. Safety Zones[^c-72c867b42132e36f07784f944d2b6f14]
 
 The authorised scheme or relevant part thereof must not commence until (insofar as relevant to the part of the authorised scheme) an application has been made to the Secretary of State for a safety zone for the relevant activities pursuant to the 2004 Act.
 
-#### 14. Offshore safety management[^key-9a2ea33b93ab5d75f54c7c75512a07d1]
+#### 14. Offshore safety management[^c-9a2ea33b93ab5d75f54c7c75512a07d1]
 
 No part of the authorised scheme may commence until the MMO, following consultation with the MCA, has confirmed in writing that the undertaker has taken into account and, so far as is applicable to that part of the authorised scheme, adequately addressed all MCA recommendations as appropriate to the authorised scheme contained within MGN654 “Offshore Renewable Energy Installations (OREIs) – Guidance on UK Navigational Practice, Safety and Emergency Response Issues” and its annexes.
 
-#### 15. Reporting of engaged agents, contractors and vessels[^key-63a8a285f904eb4ebdebf0a09b6bc4d1]
+#### 15. Reporting of engaged agents, contractors and vessels[^c-63a8a285f904eb4ebdebf0a09b6bc4d1]
 
 (1) The undertaker must provide the following information to the MMO—
 
@@ -663,7 +663,7 @@ No part of the authorised scheme may commence until the MMO, following consultat
 
 (3) The undertaker must ensure that a copy of this licence and any subsequent revisions or amendments has been provided to any agents, contractors or subcontractors that will carry out the part of the authorised scheme on behalf of the undertaker prior to them carrying out any licensed activity.
 
-#### 16. Pre-construction monitoring and surveys[^key-6eeb2cd576c2cdc3b51ebfc428762e7b]
+#### 16. Pre-construction monitoring and surveys[^c-6eeb2cd576c2cdc3b51ebfc428762e7b]
 
 (1) The undertaker must, in discharging condition 11(1)(j) in respect of surveys and monitoring, provide details of proposed surveys, including methodologies and timings, and a proposed format and content for a pre-construction baseline report and—
 
@@ -687,11 +687,11 @@ No part of the authorised scheme may commence until the MMO, following consultat
 
 (5) The undertaker must carry out the surveys as agreed under sub-paragraph (4) and provide the pre-construction monitoring reports to the MMO and Natural England in the agreed format and in accordance with the agreed timetable, unless otherwise agreed in writing by the MMO, in consultation with Natural England.
 
-#### 17. Construction monitoring[^key-d37843f785c5a22b13364f1ef731abc2]
+#### 17. Construction monitoring[^c-d37843f785c5a22b13364f1ef731abc2]
 
 The undertaker must in discharging condition 11(1)(j) for the monitoring plan for the construction phase provide details of any proposed construction monitoring, including methodologies and timings, and a proposed format, content and timings for providing reports on the results. The survey proposals must be in accordance with the principles set out in the offshore in-principle monitoring plan and must specify each survey’s objectives and explain how it will assist in either informing a useful and valid comparison with the pre-construction position and/or will enable the validation or otherwise of key predictions in the environmental statement.
 
-#### 18. Post-construction monitoring[^key-d6b51401955497aae8f67b9deb19805f]
+#### 18. Post-construction monitoring[^c-d6b51401955497aae8f67b9deb19805f]
 
 (1) The undertaker must, in discharging condition 11(1)(j), submit a monitoring plan for the post-construction monitoring providing details of proposed post-construction surveys, including methodologies (including appropriate buffers, where relevant) and timings, and a proposed format, content and timings for providing reports on the results. The survey proposals must be in accordance with the in-principle monitoring plan and must specify each survey’s objectives and explain how it will assist in either informing a useful and valid comparison with the pre–construction position and/or will enable the validation or otherwise of key predictions in the environmental statement and is to include a survey to determine the location, extent and composition of and Sabellaria spinulosa reef and potential nesting sites for black seabream.
 
@@ -717,7 +717,7 @@ The undertaker must in discharging condition 11(1)(j) for the monitoring plan fo
 
 (10) In the event that the reports provided to the MMO and Natural England under sub-paragraph (6) identify impacts which are unanticipated and/or in the view of the MMO in consultation with the relevant statutory nature conservation body are significantly beyond those predicted within the Environmental Statement, an adaptive management plan to reduce effects to within what was predicted within the Environment Statement, unless otherwise agreed by the MMO in writing in consultation with the relevant statutory nature conservation body, must be submitted alongside the monitoring reports submitted under sub-paragraph (6). This plan must be agreed by the MMO in consultation with the relevant statutory nature conservation bodies. Any such agreed and approved adaptive management or mitigation should be implemented and monitored in full to a timetable agreed in writing with the MMO, in consultation with the relevant statutory nature conservation body. In the event that this adaptive management or mitigation requires a separate consent, the undertaker must apply for such consent. Where a separate consent is required to undertake the agreed adaptive management or mitigation, the undertaker shall only be required to undertake the adaptive management or mitigation once the consent is granted.
 
-#### 19. Monitoring of underwater noise from piling[^key-19ac92ef85df7a0622a72e16adcc23dd]
+#### 19. Monitoring of underwater noise from piling[^c-19ac92ef85df7a0622a72e16adcc23dd]
 
 (1) The undertaker must, in discharging condition 11(1)(j), submit details (which accord with the offshore in-principle monitoring plan) for approval by the MMO in consultation with the relevant statutory nature conservation bodies, of any proposed monitoring, including methodologies and timings, to be carried out during the construction of the authorised scheme. The survey proposals must specify each survey’s objectives. In the event that driven or part-driven pile foundations are proposed, such monitoring must include measurements of noise generated by the installation of at least eight of the first twelve piled foundations of each piled foundation type to be installed unless otherwise agreed in writing by the MMO, in consultation with the relevant statutory nature conservation bodies.
 
@@ -727,22 +727,22 @@ The undertaker must in discharging condition 11(1)(j) for the monitoring plan fo
 
 (4) In the event that piled foundations are proposed to be used, the details submitted in accordance with the offshore in-principle monitoring plan must include proposals for monitoring marine mammals and noise abatement mitigation used, unless otherwise agreed in writing by the MMO, in consultation with the relevant statutory nature conservation bodies.
 
-#### 20. Timing of monitoring report[^key-e9a09fa37de307347d6ee1ed79808311]
+#### 20. Timing of monitoring report[^c-e9a09fa37de307347d6ee1ed79808311]
 
 Any monitoring report compiled in accordance with the monitoring plans provided under condition 11 must be provided to the MMO no later than four months following completion of the monitoring to which it relates, unless otherwise agreed in writing with the MMO.
 
-#### 21. Updating of cable monitoring plan[^key-b5f7d594d3f1d8156d80d9e3a8a2ef70]
+#### 21. Updating of cable monitoring plan[^c-b5f7d594d3f1d8156d80d9e3a8a2ef70]
 
 Following installation of array cables, the cable monitoring plan required under condition 11(1)(n)(v) must be updated with the results of the post-installation surveys. The plan must be implemented during the operational lifetime of the project and reviewed as specified within the plan, following cable burial surveys, or as instructed in writing by the MMO.
 
-#### 22. Piling[^key-af75da896de2a780f1a1d80d2175089b]
+#### 22. Piling[^c-af75da896de2a780f1a1d80d2175089b]
 
 In the event that driven or part-driven pile foundations are proposed to be used any such piling must be undertaken in accordance with—
 
 - (a) the piling marine mammals mitigation protocol approved under condition 11(1)(l)(ii); and
 - (b) the sensitive features mitigation plan approved under condition 11(1)(k).
 
-#### 23. Reporting of cable protection[^key-833915d365a956ad6233c0fb08f508f6]
+#### 23. Reporting of cable protection[^c-833915d365a956ad6233c0fb08f508f6]
 
 (1) Not more than four months following completion of the construction phase of the authorised scheme, the undertaker must provide the MMO and the statutory nature conservation body with a report setting out details of the cable protection used for the authorised scheme.
 
@@ -752,13 +752,13 @@ In the event that driven or part-driven pile foundations are proposed to be used
 - (b) volume of cable protection; and
 - (c) any other information relating to the cable protection as agreed between the MMO and the undertaker.
 
-#### 24. Decommissioning[^key-1d89f1408188ceb5f221880579df6281]
+#### 24. Decommissioning[^c-1d89f1408188ceb5f221880579df6281]
 
 (1) Prior to any decommissioning activities being undertaken the undertaker must submit and secure the written approval of the MMO in consultation with the relevant statutory nature conversation body for a decommissioning mammal protection protocol (Decommissioning MPP).
 
 (2) The Decommissioning MPP must be implemented as approved.
 
-#### 25. Completion of construction[^key-68498cf10d5ccb3705466bcc1cbe2186]
+#### 25. Completion of construction[^c-68498cf10d5ccb3705466bcc1cbe2186]
 
 (1) The undertaker must submit a close out report to the MMO, MCA, UKHO and the statutory nature conservation body within three months of the date of completion of construction. The close out report must confirm the date of completion of construction and must include the following details—
 
@@ -770,7 +770,7 @@ In the event that driven or part-driven pile foundations are proposed to be used
 
 (2) Following completion of construction, no further construction activities can be undertaken under this licence.
 
-#### 26. Herring piling restriction[^key-3e1d422ff922bfa50e0af7f527740f20]
+#### 26. Herring piling restriction[^c-3e1d422ff922bfa50e0af7f527740f20]
 
 (1) No piling activity can commence within the eastern array area during the herring spawning season until a spawning herring piling restriction plan (in accordance with the outline spawning herring piling restriction plan) containing updated underwater noise modelling has been submitted to and approved by the MMO. The updated underwater noise model must be based on final project parameters to be used to install piles in the eastern array area and must include details of any verified mitigation measures to be employed.
 
@@ -784,7 +784,7 @@ In the event that driven or part-driven pile foundations are proposed to be used
 - “**outline spawning herring piling restriction plan**” means the plan certified as the outline spawning herring piling restriction plan by the Secretary of State for the purposes of the Order under article 49 (certification of plans and documents etc); and
 - “**herring spawning season**” means 1 November to 31 January inclusive.
 
-#### 27. Reporting of impact pile driving[^key-313195e3133d9b12e2562295938ea32f]
+#### 27. Reporting of impact pile driving[^c-313195e3133d9b12e2562295938ea32f]
 
 (1) Only when driven or part-driven pile foundations are proposed to be used as part of the foundation installation the undertaker must provide the following information to the Marine Noise Registry—
 
@@ -795,13 +795,13 @@ In the event that driven or part-driven pile foundations are proposed to be used
 
 (3) For the purpose of this condition, “Forward Look” and “Close Out” mean the requirements as set out in the UK Marine Noise Registry Information Document Version 1 (July 2015) as amended, updated or superseded from time to time.
 
-#### 28. Piling restriction[^key-3ca0128417715cce918d30de4d6c2ef4]
+#### 28. Piling restriction[^c-3ca0128417715cce918d30de4d6c2ef4]
 
 No piling associated with the authorised development may be undertaken between 1 March to 31 July inclusive, unless otherwise agreed in writing by the MMO in consultation with the relevant statutory nature conservation body.
 
 ## Annotations
 
-[^key-94eaa2471c8bc172ad80a7289dbf47e5]: Commencement: Sch. 11 Pt. 1 para. 1 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-94eaa2471c8bc172ad80a7289dbf47e5]: Commencement: Sch. 11 Pt. 1 para. 1 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
 [^f00052]: Footnote: [2004 c. 20](https://www.legislation.gov.uk/ukpga/2004/20).
 
@@ -811,78 +811,78 @@ No piling associated with the authorised development may be undertaken between 1
 
 [^f00055]: Footnote: [S.I 2014/1873](https://www.legislation.gov.uk/uksi/2014/1873), as amended by [S.I 2015/1319](https://www.legislation.gov.uk/uksi/2015/1319) and [S.I. 2021/535](https://www.legislation.gov.uk/uksi/2021/535).
 
-[^key-5c36a29c76c0c2749a101558f0ad1c11]: Textual amendment: Word in [Sch. 11 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2025/468/schedule/11/part/1/paragraph/1) substituted (24.4.2026) by [The Rampion 2 Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/465)](https://www.legislation.gov.uk/uksi/2026/465), [art. 1](https://www.legislation.gov.uk/uksi/2026/465/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/465/schedule)
+[^c-5c36a29c76c0c2749a101558f0ad1c11]: Textual amendment: Word in [Sch. 11 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2025/468/schedule/11/part/1/paragraph/1) substituted (24.4.2026) by [The Rampion 2 Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/465)](https://www.legislation.gov.uk/uksi/2026/465), [art. 1](https://www.legislation.gov.uk/uksi/2026/465/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/465/schedule)
 
-[^key-44fa07fb04138803ab4fca7e728f2cbf]: Commencement: Sch. 11 Pt. 1 para. 2 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-44fa07fb04138803ab4fca7e728f2cbf]: Commencement: Sch. 11 Pt. 1 para. 2 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-792f17ec9d9a5257fc2f49130c1d5363]: Commencement: Sch. 11 Pt. 1 para. 3 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-792f17ec9d9a5257fc2f49130c1d5363]: Commencement: Sch. 11 Pt. 1 para. 3 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-60fced3ffcdcb685375f4804b4f89c7a]: Commencement: Sch. 11 Pt. 1 para. 4 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-60fced3ffcdcb685375f4804b4f89c7a]: Commencement: Sch. 11 Pt. 1 para. 4 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-b6593425653ad66c99b6c997c1c3d380]: Commencement: Sch. 11 Pt. 1 para. 5 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-b6593425653ad66c99b6c997c1c3d380]: Commencement: Sch. 11 Pt. 1 para. 5 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-4b58b983458654f8a19fce564e2d0030]: Commencement: Sch. 11 Pt. 1 para. 6 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-4b58b983458654f8a19fce564e2d0030]: Commencement: Sch. 11 Pt. 1 para. 6 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-2bb37c09edd46349367815d183e6e9de]: Commencement: Sch. 11 Pt. 1 para. 7 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-2bb37c09edd46349367815d183e6e9de]: Commencement: Sch. 11 Pt. 1 para. 7 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-3e400b19502ba288407fb88ada4f5e8f]: Commencement: Sch. 11 Pt. 1 para. 8 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-3e400b19502ba288407fb88ada4f5e8f]: Commencement: Sch. 11 Pt. 1 para. 8 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-040f60b58c62ebcfff6cca70fc4de404]: Commencement: Sch. 11 Pt. 1 para. 9 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-040f60b58c62ebcfff6cca70fc4de404]: Commencement: Sch. 11 Pt. 1 para. 9 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-58df4dd2616c08904e365c89dc4a86e1]: Commencement: Sch. 11 Pt. 2 para. 1 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-58df4dd2616c08904e365c89dc4a86e1]: Commencement: Sch. 11 Pt. 2 para. 1 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-e15f0b9080dcf9e6a4dce6213acf5475]: Commencement: Sch. 11 Pt. 2 para. 2 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-e15f0b9080dcf9e6a4dce6213acf5475]: Commencement: Sch. 11 Pt. 2 para. 2 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-9c95986aea1a6d279eaa6b134e8b98c2]: Commencement: Sch. 11 Pt. 2 para. 3 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-9c95986aea1a6d279eaa6b134e8b98c2]: Commencement: Sch. 11 Pt. 2 para. 3 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-e57ec22c0d1d10e97e4485fddc7c5e24]: Commencement: Sch. 11 Pt. 2 para. 4 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-e57ec22c0d1d10e97e4485fddc7c5e24]: Commencement: Sch. 11 Pt. 2 para. 4 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-3192078ce376544c7a25c6f6443908bd]: Commencement: Sch. 11 Pt. 2 para. 5 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-3192078ce376544c7a25c6f6443908bd]: Commencement: Sch. 11 Pt. 2 para. 5 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-9443dd0c70e9fc427476e01070db117b]: Commencement: Sch. 11 Pt. 2 para. 6 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-9443dd0c70e9fc427476e01070db117b]: Commencement: Sch. 11 Pt. 2 para. 6 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-11cc546a791de30dbc8ea8a26376d65b]: Commencement: Sch. 11 Pt. 2 para. 7 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-11cc546a791de30dbc8ea8a26376d65b]: Commencement: Sch. 11 Pt. 2 para. 7 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-4c3b7ef1dff7464a90dc04b6080a6b67]: Commencement: Sch. 11 Pt. 2 para. 8 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-4c3b7ef1dff7464a90dc04b6080a6b67]: Commencement: Sch. 11 Pt. 2 para. 8 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
 [^f00056]: Footnote: [S.I. 2016/765](https://www.legislation.gov.uk/uksi/2016/765).
 
-[^key-e072a745e4993692b337ebc3502d91ba]: Commencement: Sch. 11 Pt. 2 para. 9 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-e072a745e4993692b337ebc3502d91ba]: Commencement: Sch. 11 Pt. 2 para. 9 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-75c86fe96708542ca5520e04d3db700c]: Commencement: Sch. 11 para. 10 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-75c86fe96708542ca5520e04d3db700c]: Commencement: Sch. 11 para. 10 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-11666be3d2cb5cd02a9ea8f18d4ed26a]: Commencement: Sch. 11 para. 11 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-11666be3d2cb5cd02a9ea8f18d4ed26a]: Commencement: Sch. 11 para. 11 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-8b02b0d78a00b2055920bdbbb33318f5]: Commencement: Sch. 11 para. 12 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-8b02b0d78a00b2055920bdbbb33318f5]: Commencement: Sch. 11 para. 12 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-72c867b42132e36f07784f944d2b6f14]: Commencement: Sch. 11 para. 13 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-72c867b42132e36f07784f944d2b6f14]: Commencement: Sch. 11 para. 13 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-9a2ea33b93ab5d75f54c7c75512a07d1]: Commencement: Sch. 11 para. 14 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-9a2ea33b93ab5d75f54c7c75512a07d1]: Commencement: Sch. 11 para. 14 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-63a8a285f904eb4ebdebf0a09b6bc4d1]: Commencement: Sch. 11 para. 15 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-63a8a285f904eb4ebdebf0a09b6bc4d1]: Commencement: Sch. 11 para. 15 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-6eeb2cd576c2cdc3b51ebfc428762e7b]: Commencement: Sch. 11 para. 16 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-6eeb2cd576c2cdc3b51ebfc428762e7b]: Commencement: Sch. 11 para. 16 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-d37843f785c5a22b13364f1ef731abc2]: Commencement: Sch. 11 para. 17 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-d37843f785c5a22b13364f1ef731abc2]: Commencement: Sch. 11 para. 17 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-d6b51401955497aae8f67b9deb19805f]: Commencement: Sch. 11 para. 18 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-d6b51401955497aae8f67b9deb19805f]: Commencement: Sch. 11 para. 18 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-19ac92ef85df7a0622a72e16adcc23dd]: Commencement: Sch. 11 para. 19 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-19ac92ef85df7a0622a72e16adcc23dd]: Commencement: Sch. 11 para. 19 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-e9a09fa37de307347d6ee1ed79808311]: Commencement: Sch. 11 para. 20 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-e9a09fa37de307347d6ee1ed79808311]: Commencement: Sch. 11 para. 20 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-b5f7d594d3f1d8156d80d9e3a8a2ef70]: Commencement: Sch. 11 para. 21 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-b5f7d594d3f1d8156d80d9e3a8a2ef70]: Commencement: Sch. 11 para. 21 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-af75da896de2a780f1a1d80d2175089b]: Commencement: Sch. 11 para. 22 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-af75da896de2a780f1a1d80d2175089b]: Commencement: Sch. 11 para. 22 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-833915d365a956ad6233c0fb08f508f6]: Commencement: Sch. 11 para. 23 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-833915d365a956ad6233c0fb08f508f6]: Commencement: Sch. 11 para. 23 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-1d89f1408188ceb5f221880579df6281]: Commencement: Sch. 11 para. 24 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-1d89f1408188ceb5f221880579df6281]: Commencement: Sch. 11 para. 24 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-68498cf10d5ccb3705466bcc1cbe2186]: Commencement: Sch. 11 para. 25 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-68498cf10d5ccb3705466bcc1cbe2186]: Commencement: Sch. 11 para. 25 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-3e1d422ff922bfa50e0af7f527740f20]: Commencement: Sch. 11 para. 26 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-3e1d422ff922bfa50e0af7f527740f20]: Commencement: Sch. 11 para. 26 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-313195e3133d9b12e2562295938ea32f]: Commencement: Sch. 11 para. 27 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-313195e3133d9b12e2562295938ea32f]: Commencement: Sch. 11 para. 27 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-3ca0128417715cce918d30de4d6c2ef4]: Commencement: Sch. 11 para. 28 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-3ca0128417715cce918d30de4d6c2ef4]: Commencement: Sch. 11 para. 28 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

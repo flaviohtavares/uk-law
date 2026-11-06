@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Calculation of capital outside the United Kingdom[^key-ddaeeb0ac5f98d7f949f5b67f56d3adb]
+## 21. Calculation of capital outside the United Kingdom[^c-ddaeeb0ac5f98d7f949f5b67f56d3adb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Capital which the adult possesses outside of the United Kingdom shall be calcula
 
 ## Annotations
 
-[^key-ddaeeb0ac5f98d7f949f5b67f56d3adb]: Commencement: Reg. 21 in force at 1.4.2015 in accordance with reg. 1
+[^c-ddaeeb0ac5f98d7f949f5b67f56d3adb]: Commencement: Reg. 21 in force at 1.4.2015 in accordance with reg. 1

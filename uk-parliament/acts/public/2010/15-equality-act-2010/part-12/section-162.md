@@ -47,8 +47,8 @@ summary: ''
   which applies in relation to taxis or drivers of taxis;
 - “**transport facility**” means premises which form part of a port, airport, railway station or bus station.
 
-(4)[^key-c8dbc442116d9b17c224e129dcb2306a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c8dbc442116d9b17c224e129dcb2306a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c8dbc442116d9b17c224e129dcb2306a]: Textual amendment: [S. 162(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/162/4) omitted (31.12.2020) by virtue of [The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305)](https://www.legislation.gov.uk/uksi/2019/305), [regs. 1](https://www.legislation.gov.uk/uksi/2019/305/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/305/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c8dbc442116d9b17c224e129dcb2306a]: Textual amendment: [S. 162(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/162/4) omitted (31.12.2020) by virtue of [The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305)](https://www.legislation.gov.uk/uksi/2019/305), [regs. 1](https://www.legislation.gov.uk/uksi/2019/305/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/305/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

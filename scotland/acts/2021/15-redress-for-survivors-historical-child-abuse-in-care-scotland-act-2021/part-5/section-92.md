@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Duty on the Scottish Ministers to pay fee for legal work in making an application[^key-b2b90b9ad55b7babd9a9389c2da7ddd9]
+## 92. Duty on the Scottish Ministers to pay fee for legal work in making an application[^c-b2b90b9ad55b7babd9a9389c2da7ddd9]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2b90b9ad55b7babd9a9389c2da7ddd9]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2021/15/section/92) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-b2b90b9ad55b7babd9a9389c2da7ddd9]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2021/15/section/92) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

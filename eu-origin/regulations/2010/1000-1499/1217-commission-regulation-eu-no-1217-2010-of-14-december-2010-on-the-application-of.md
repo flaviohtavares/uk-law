@@ -35,48 +35,48 @@ on the application of Article 101(3) of the Treaty on the Functioning of the Eur
 
 (Text with EEA relevance) (revoked)
 
-[^key-453de348de294329e0c6363107172218]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-453de348de294329e0c6363107172218]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Definitions[^key-453de348de294329e0c6363107172218]
+## Article 1. Definitions[^c-453de348de294329e0c6363107172218]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Exemption[^key-453de348de294329e0c6363107172218]
+## Article 2. Exemption[^c-453de348de294329e0c6363107172218]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Conditions for exemption[^key-453de348de294329e0c6363107172218]
+## Article 3. Conditions for exemption[^c-453de348de294329e0c6363107172218]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Market share threshold and duration of exemption[^key-453de348de294329e0c6363107172218]
+## Article 4. Market share threshold and duration of exemption[^c-453de348de294329e0c6363107172218]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Hardcore restrictions[^key-453de348de294329e0c6363107172218]
+## Article 5. Hardcore restrictions[^c-453de348de294329e0c6363107172218]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Excluded restrictions[^key-453de348de294329e0c6363107172218]
+## Article 6. Excluded restrictions[^c-453de348de294329e0c6363107172218]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Application of the market share threshold[^key-453de348de294329e0c6363107172218]
+## Article 7. Application of the market share threshold[^c-453de348de294329e0c6363107172218]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Transitional period[^key-453de348de294329e0c6363107172218]
+## Article 8. Transitional period[^c-453de348de294329e0c6363107172218]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Period of validity[^key-453de348de294329e0c6363107172218]
+## Article 9. Period of validity[^c-453de348de294329e0c6363107172218]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-453de348de294329e0c6363107172218]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-453de348de294329e0c6363107172218]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-453de348de294329e0c6363107172218]: Textual amendment: Regulation revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-453de348de294329e0c6363107172218]: Textual amendment: Regulation revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

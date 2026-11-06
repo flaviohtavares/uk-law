@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Electronically tracked stolen goods: search without warrant[^key-f02e3527c17f8ef9e31251b33be49029]
+## 171. Electronically tracked stolen goods: search without warrant[^c-f02e3527c17f8ef9e31251b33be49029]
 
 *Extent: E+W*
 
@@ -110,4 +110,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f02e3527c17f8ef9e31251b33be49029]: Commencement: S. 171 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-f02e3527c17f8ef9e31251b33be49029]: Commencement: S. 171 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

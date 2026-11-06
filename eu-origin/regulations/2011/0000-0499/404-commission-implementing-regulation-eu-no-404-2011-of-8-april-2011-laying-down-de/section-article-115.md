@@ -28,8 +28,8 @@ summary: ''
 
 4. If required, the operator shall have the right to contact his representative or the competent authorities of his flag State, if serious difficulties arise regarding comprehension of the outcomes of the inspection and of the ensuing report.
 
-5.[^key-c2c27c621e6c52873418e794948256c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.[^c-c2c27c621e6c52873418e794948256c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c2c27c621e6c52873418e794948256c3]: Textual amendment: [Art. 115(5)](https://www.legislation.gov.uk/eur/2011/404/article/115/5) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(85)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/85); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c2c27c621e6c52873418e794948256c3]: Textual amendment: [Art. 115(5)](https://www.legislation.gov.uk/eur/2011/404/article/115/5) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(85)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/85); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

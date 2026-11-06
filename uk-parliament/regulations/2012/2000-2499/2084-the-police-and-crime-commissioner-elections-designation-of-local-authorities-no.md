@@ -31,7 +31,7 @@ summary: ''
 
 Police, England And Wales
 
-The Police and Crime Commissioner Elections (Designation of Local Authorities) (No.2) Order 2012 (revoked)[^key-b201fd09c49f3930bb2a150e44e4db16]
+The Police and Crime Commissioner Elections (Designation of Local Authorities) (No.2) Order 2012 (revoked)[^c-b201fd09c49f3930bb2a150e44e4db16]
 
 Made
 
@@ -39,35 +39,35 @@ Made
 
 Coming into force in accordance with article 1(2)
 
-[^key-b201fd09c49f3930bb2a150e44e4db16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b201fd09c49f3930bb2a150e44e4db16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-b201fd09c49f3930bb2a150e44e4db16]
+## 1. Citation, commencement and interpretation[^c-b201fd09c49f3930bb2a150e44e4db16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-b201fd09c49f3930bb2a150e44e4db16]
+## 2. Revocation[^c-b201fd09c49f3930bb2a150e44e4db16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of police area returning officers[^key-b201fd09c49f3930bb2a150e44e4db16]
+## 3. Designation of police area returning officers[^c-b201fd09c49f3930bb2a150e44e4db16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b201fd09c49f3930bb2a150e44e4db16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b201fd09c49f3930bb2a150e44e4db16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-b201fd09c49f3930bb2a150e44e4db16]SCHEDULES
+[^c-b201fd09c49f3930bb2a150e44e4db16]SCHEDULES
 
-## SCHEDULE 1 — Appropriate officers: England[^key-b201fd09c49f3930bb2a150e44e4db16]
+## SCHEDULE 1 — Appropriate officers: England[^c-b201fd09c49f3930bb2a150e44e4db16]
 
 Article 3(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Appropriate officers: Wales[^key-b201fd09c49f3930bb2a150e44e4db16]
+## SCHEDULE 2 — Appropriate officers: Wales[^c-b201fd09c49f3930bb2a150e44e4db16]
 
 Article 3(3)
 
@@ -75,8 +75,8 @@ Article 3(3)
 
 **May not be in force at this date. Check the source.**
 
-[^key-b201fd09c49f3930bb2a150e44e4db16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b201fd09c49f3930bb2a150e44e4db16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b201fd09c49f3930bb2a150e44e4db16]: Textual amendment: Order revoked (5.5.2016) by [The Police and Crime Commissioner Elections (Designation of Local Authorities) Order 2015 (S.I. 2015/2028)](https://www.legislation.gov.uk/uksi/2015/2028), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/2028/article/1/2), [3](https://www.legislation.gov.uk/uksi/2015/2028/article/3)
+[^c-b201fd09c49f3930bb2a150e44e4db16]: Textual amendment: Order revoked (5.5.2016) by [The Police and Crime Commissioner Elections (Designation of Local Authorities) Order 2015 (S.I. 2015/2028)](https://www.legislation.gov.uk/uksi/2015/2028), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/2028/article/1/2), [3](https://www.legislation.gov.uk/uksi/2015/2028/article/3)

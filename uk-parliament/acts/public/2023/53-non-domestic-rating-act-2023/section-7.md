@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 7. Completion notices[^key-b98b923c16777e17a2266b4194065a02]
+## 7. Completion notices[^c-b98b923c16777e17a2266b4194065a02]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ In section 46A of the Act (unoccupied hereditaments: new buildings), in subsecti
 
 ## Annotations
 
-[^key-b98b923c16777e17a2266b4194065a02]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/53/section/7) in force at 26.12.2023, see [s. 19(3)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/3)
+[^c-b98b923c16777e17a2266b4194065a02]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/53/section/7) in force at 26.12.2023, see [s. 19(3)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/3)

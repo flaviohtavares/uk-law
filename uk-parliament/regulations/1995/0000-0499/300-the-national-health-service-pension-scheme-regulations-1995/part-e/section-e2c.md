@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E2C. Further employment after a benefit is paid under regulation E2A[^key-650d38873ec88ec32d23557105525728]
+## E2C. Further employment after a benefit is paid under regulation E2A[^c-650d38873ec88ec32d23557105525728]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ if sooner.
 
 ## Annotations
 
-[^key-650d38873ec88ec32d23557105525728]: Textual amendment: [Regs. E2A-E2C](https://www.legislation.gov.uk/uksi/1995/300/regulation/E2A) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2008/654/regulation/11)
+[^c-650d38873ec88ec32d23557105525728]: Textual amendment: [Regs. E2A-E2C](https://www.legislation.gov.uk/uksi/1995/300/regulation/E2A) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2008/654/regulation/11)

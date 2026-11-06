@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Extinguishment or suspension of private rights of way[^key-e59e4cd24464d306335f9c25f8303ddf]
+## 33. Extinguishment or suspension of private rights of way[^c-e59e4cd24464d306335f9c25f8303ddf]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ whichever is sooner.
 
 ## Annotations
 
-[^key-e59e4cd24464d306335f9c25f8303ddf]: Commencement: Art. 33 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-e59e4cd24464d306335f9c25f8303ddf]: Commencement: Art. 33 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Procedure for enforcement decisions[^key-59720e9f1dea582ad512e20c2875d3f5]
+## 126. Procedure for enforcement decisions[^c-59720e9f1dea582ad512e20c2875d3f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59720e9f1dea582ad512e20c2875d3f5]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2023/52/section/126) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-59720e9f1dea582ad512e20c2875d3f5]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2023/52/section/126) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

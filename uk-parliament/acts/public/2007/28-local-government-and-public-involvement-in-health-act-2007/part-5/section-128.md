@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Transitional provision[^key-e1963d7aaab768c61a7ebf01b914120d]
+## 128. Transitional provision[^c-e1963d7aaab768c61a7ebf01b914120d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1963d7aaab768c61a7ebf01b914120d]: Commencement: S. 128 in force at 1.4.2009 by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 4(h)](https://www.legislation.gov.uk/uksi/2008/3110/article/4/h)
+[^c-e1963d7aaab768c61a7ebf01b914120d]: Commencement: S. 128 in force at 1.4.2009 by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 4(h)](https://www.legislation.gov.uk/uksi/2008/3110/article/4/h)

@@ -29,28 +29,28 @@ summary: ''
 
 Pensions
 
-The Pensions Act 2004 (Code of Practice) (Authorisation and Supervision of Collective Defined Contribution Schemes) Appointed Day Order 2022 (revoked)[^key-5425af032575e2b0ed47dabd68d587f4]
+The Pensions Act 2004 (Code of Practice) (Authorisation and Supervision of Collective Defined Contribution Schemes) Appointed Day Order 2022 (revoked)[^c-5425af032575e2b0ed47dabd68d587f4]
 
 Made
 
 20th July 2022
 
-[^key-5425af032575e2b0ed47dabd68d587f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5425af032575e2b0ed47dabd68d587f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and extent[^key-5425af032575e2b0ed47dabd68d587f4]
+## 1. Citation and extent[^c-5425af032575e2b0ed47dabd68d587f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointed day[^key-5425af032575e2b0ed47dabd68d587f4]
+## 2. Appointed day[^c-5425af032575e2b0ed47dabd68d587f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5425af032575e2b0ed47dabd68d587f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5425af032575e2b0ed47dabd68d587f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5425af032575e2b0ed47dabd68d587f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5425af032575e2b0ed47dabd68d587f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5425af032575e2b0ed47dabd68d587f4]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2022/855) revoked (31.7.2026) by [The Pensions Act 2004 (Code of Practice) (Authorisation and Supervision of Collective Defined Contribution Schemes) Appointed Day and Revocation Order 2026 (S.I. 2026/730)](https://www.legislation.gov.uk/uksi/2026/730), [art. 3](https://www.legislation.gov.uk/uksi/2026/730/article/3)
+[^c-5425af032575e2b0ed47dabd68d587f4]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2022/855) revoked (31.7.2026) by [The Pensions Act 2004 (Code of Practice) (Authorisation and Supervision of Collective Defined Contribution Schemes) Appointed Day and Revocation Order 2026 (S.I. 2026/730)](https://www.legislation.gov.uk/uksi/2026/730), [art. 3](https://www.legislation.gov.uk/uksi/2026/730/article/3)

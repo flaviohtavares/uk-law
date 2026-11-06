@@ -259,7 +259,7 @@ the employer must postpone the hearing to the time proposed by the worker.
 - (a) before the end of the period of three months beginning with the date of the failure or threat, or
 - (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
 
-(2A)[^key-4b983b3387ca05e90832ad2d9660f547] Article 249B of the Employment Rights Order (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
+(2A)[^c-4b983b3387ca05e90832ad2d9660f547] Article 249B of the Employment Rights Order (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 (2B) Paragraphs (2) and (2A) shall be treated as provisions of the Employment Rights Order for the purposes of Article 249B of that Order.
 
@@ -401,7 +401,7 @@ the words from “except” to the end shall be omitted.
 - (g) provide for the provisions of specified agreements to have effect in place of provisions of the regulations to such extent and in such circumstances as may be specified;
 - (h) include consequential provision, including provision amending a statutory provision.
 
-(4)[^key-b82f085feabc85e93e1711faceb870b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b82f085feabc85e93e1711faceb870b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Regulations under this Article which create an offence—
 
@@ -668,14 +668,14 @@ Schedule 7 shall have effect.
 - (e) Article 158(1) of that Order (unfair dismissal: limit of compensatory award);
 - (f) Article 231(1)(a) and (b) of that Order (employee's rights on insolvency of employer: maximum amount payable).
 
-(2) If the retail prices index for September of a year is higher or lower than the index for the previous September, the Department shall [^key-0a9969281ec72eab870510e254aa8f95]... make an order in relation to each sum mentioned in paragraph (1)—
+(2) If the retail prices index for September of a year is higher or lower than the index for the previous September, the Department shall [^c-0a9969281ec72eab870510e254aa8f95]... make an order in relation to each sum mentioned in paragraph (1)—
 
 - (a) increasing each sum, if the new index is higher, or
 - (b) decreasing each sum, if the new index is lower,
 
-by the same percentage as the amount of the increase or decrease of the index and the order shall come into operation on the following 6th April[^key-9f447efd01184eef3762012ec5c7105c] .
+by the same percentage as the amount of the increase or decrease of the index and the order shall come into operation on the following 6th April[^c-9f447efd01184eef3762012ec5c7105c] .
 
-(3) In making the calculation required by paragraph (2) the Department shall round the result to the nearest whole pound, taking 50p as nearest to the next whole pound above[^key-6c4519d550d36757f96bac4d1487851d] .
+(3) In making the calculation required by paragraph (2) the Department shall round the result to the nearest whole pound, taking 50p as nearest to the next whole pound above[^c-6c4519d550d36757f96bac4d1487851d] .
 
 (4) For the sum specified in Article 158(1) of the Employment Rights Order (unfair dismissal: limit of compensatory award) there shall be substituted the sum of £50,000 (subject to paragraph (2) above).
 
@@ -684,9 +684,9 @@ by the same percentage as the amount of the increase or decrease of the index an
 - (a) the general index of retail prices (for all items) published by the Office for National Statistics, or
 - (b) where that index is not published for a month, any substituted index or figures published by that Office.
 
-(6) An order under paragraph (2)[^key-15ede610e40ed69c743be2cdfec03e49] shall be laid before the Assembly after being made.
+(6) An order under paragraph (2)[^c-15ede610e40ed69c743be2cdfec03e49] shall be laid before the Assembly after being made.
 
-(7)[^key-d84ce0af2a0e82f891d06abd8e088461] The Department may at any time make an order increasing or decreasing any sum to which this Article applies if a draft of the order has been laid before, and approved by resolution of, the Assembly.
+(7)[^c-d84ce0af2a0e82f891d06abd8e088461] The Department may at any time make an order increasing or decreasing any sum to which this Article applies if a draft of the order has been laid before, and approved by resolution of, the Assembly.
 
 (8) An order under paragraph (7) may exclude the application of paragraph (2) in relation to any sum increased or decreased by the order for such period as may be specified in the order.
 
@@ -719,7 +719,7 @@ For Article 63(7) of the Employment Rights Order (guarantee payments: limits) th
 
 #### 37. Transfer of undertakings
 
-(1)[^key-ddbee16f79fba30cefd367a0751bc1ae] The Department may by regulations make TUPE-like provision in relation to the treatment of employees in circumstances other than those to which the main part of the TUPE regulations applies.
+(1)[^c-ddbee16f79fba30cefd367a0751bc1ae] The Department may by regulations make TUPE-like provision in relation to the treatment of employees in circumstances other than those to which the main part of the TUPE regulations applies.
 
 (2) In this Article—
 
@@ -787,7 +787,7 @@ Schedule 8 shall have effect.
 
 [^c17098251]: Textual amendment: [2004 NI 19](https://www.legislation.gov.uk/nisi/2004)
 
-[^key-4b983b3387ca05e90832ad2d9660f547]: Textual amendment: [Art. 13(2A)](https://www.legislation.gov.uk/nisi/1999/2790/article/13/2A)[(2B)](https://www.legislation.gov.uk/nisi/1999/2790/article/13/2B) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 44](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/44); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-4b983b3387ca05e90832ad2d9660f547]: Textual amendment: [Art. 13(2A)](https://www.legislation.gov.uk/nisi/1999/2790/article/13/2A)[(2B)](https://www.legislation.gov.uk/nisi/1999/2790/article/13/2B) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 44](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/44); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
 [^c17098271]: Textual amendment: [2004 NI 19](https://www.legislation.gov.uk/2004/ni19)
 
@@ -799,7 +799,7 @@ Schedule 8 shall have effect.
 
 [^m00007]: Marginal citation: 1998 c. 39.
 
-[^key-b82f085feabc85e93e1711faceb870b1]: Textual amendment: [Art. 21(4)](https://www.legislation.gov.uk/nisi/1999/2790/article/21/4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/2) (with [Sch. para. 11](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b82f085feabc85e93e1711faceb870b1]: Textual amendment: [Art. 21(4)](https://www.legislation.gov.uk/nisi/1999/2790/article/21/4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/2) (with [Sch. para. 11](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c17098361]: Textual amendment: [2004 NI 1](https://www.legislation.gov.uk/2004/ni1)
 
@@ -821,14 +821,14 @@ Schedule 8 shall have effect.
 
 [^c17098511]: Textual amendment: [2004 NI 19](https://www.legislation.gov.uk/nisi/2004)
 
-[^key-0a9969281ec72eab870510e254aa8f95]: Textual amendment: Words in art. 33(2) repealed (30.3.2018) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 22(2)(a)](https://www.legislation.gov.uk/nia/2016/15/section/22/2/a), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3); [S.R. 2018/79](https://www.legislation.gov.uk/nisr/2018/79), [art. 2](https://www.legislation.gov.uk/nisr/2018/79/article/2)
+[^c-0a9969281ec72eab870510e254aa8f95]: Textual amendment: Words in art. 33(2) repealed (30.3.2018) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 22(2)(a)](https://www.legislation.gov.uk/nia/2016/15/section/22/2/a), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3); [S.R. 2018/79](https://www.legislation.gov.uk/nisr/2018/79), [art. 2](https://www.legislation.gov.uk/nisr/2018/79/article/2)
 
-[^key-9f447efd01184eef3762012ec5c7105c]: Textual amendment: Words in art. 33(2) added (30.3.2018) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 22(2)(b)](https://www.legislation.gov.uk/nia/2016/15/section/22/2/b), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2018/79](https://www.legislation.gov.uk/nisr/2018/79), [art. 2(1)](https://www.legislation.gov.uk/nisr/2018/79/article/2/1)
+[^c-9f447efd01184eef3762012ec5c7105c]: Textual amendment: Words in art. 33(2) added (30.3.2018) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 22(2)(b)](https://www.legislation.gov.uk/nia/2016/15/section/22/2/b), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2018/79](https://www.legislation.gov.uk/nisr/2018/79), [art. 2(1)](https://www.legislation.gov.uk/nisr/2018/79/article/2/1)
 
-[^key-6c4519d550d36757f96bac4d1487851d]: Textual amendment: Words in art. 33(3) substituted (30.3.2018) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 22(3)](https://www.legislation.gov.uk/nia/2016/15/section/22/3), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2018/79](https://www.legislation.gov.uk/nisr/2018/79), [art. 2(1)](https://www.legislation.gov.uk/nisr/2018/79/article/2/1)
+[^c-6c4519d550d36757f96bac4d1487851d]: Textual amendment: Words in art. 33(3) substituted (30.3.2018) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 22(3)](https://www.legislation.gov.uk/nia/2016/15/section/22/3), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2018/79](https://www.legislation.gov.uk/nisr/2018/79), [art. 2(1)](https://www.legislation.gov.uk/nisr/2018/79/article/2/1)
 
-[^key-15ede610e40ed69c743be2cdfec03e49]: Textual amendment: Words in art. 33(6) substituted (30.3.2018) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 22(4)](https://www.legislation.gov.uk/nia/2016/15/section/22/4), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2018/79](https://www.legislation.gov.uk/nisr/2018/79), [art. 2(1)](https://www.legislation.gov.uk/nisr/2018/79/article/2/1)
+[^c-15ede610e40ed69c743be2cdfec03e49]: Textual amendment: Words in art. 33(6) substituted (30.3.2018) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 22(4)](https://www.legislation.gov.uk/nia/2016/15/section/22/4), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2018/79](https://www.legislation.gov.uk/nisr/2018/79), [art. 2(1)](https://www.legislation.gov.uk/nisr/2018/79/article/2/1)
 
-[^key-d84ce0af2a0e82f891d06abd8e088461]: Textual amendment: Art. 33(7)(8) added (30.3.2018) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 22(5)](https://www.legislation.gov.uk/nia/2016/15/section/22/5), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2018/79](https://www.legislation.gov.uk/nisr/2018/79), [art. 2(1)](https://www.legislation.gov.uk/nisr/2018/79/article/2/1)
+[^c-d84ce0af2a0e82f891d06abd8e088461]: Textual amendment: Art. 33(7)(8) added (30.3.2018) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 22(5)](https://www.legislation.gov.uk/nia/2016/15/section/22/5), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2018/79](https://www.legislation.gov.uk/nisr/2018/79), [art. 2(1)](https://www.legislation.gov.uk/nisr/2018/79/article/2/1)
 
-[^key-ddbee16f79fba30cefd367a0751bc1ae]: Textual amendment: [Art. 37(1)-(2A)](https://www.legislation.gov.uk/nisi/1999/2790/article/37/1) substituted (31.12.2020) for art. 37(1)(2) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/538)](https://www.legislation.gov.uk/uksi/2019/538), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/538/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/538/schedule/paragraph/1) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/538/schedule/paragraph/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ddbee16f79fba30cefd367a0751bc1ae]: Textual amendment: [Art. 37(1)-(2A)](https://www.legislation.gov.uk/nisi/1999/2790/article/37/1) substituted (31.12.2020) for art. 37(1)(2) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/538)](https://www.legislation.gov.uk/uksi/2019/538), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/538/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/538/schedule/paragraph/1) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/538/schedule/paragraph/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

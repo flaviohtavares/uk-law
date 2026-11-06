@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Using minor to mind weapon[^key-18f7d3530eac25bc481adf8a0fec8225]
+## 70. Using minor to mind weapon[^c-18f7d3530eac25bc481adf8a0fec8225]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18f7d3530eac25bc481adf8a0fec8225]: Commencement: S. 70 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-18f7d3530eac25bc481adf8a0fec8225]: Commencement: S. 70 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

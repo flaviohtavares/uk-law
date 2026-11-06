@@ -32,7 +32,7 @@ summary: ''
 
 (5) In subsection (4) there shall be inserted at the appropriate place—
 
-> “**Community relief**” means any relief which is conferred by an[^key-097264584a884a4c2c88801c43c478c0] EU instrument and is of a kind, or of a kind similar to that, which could otherwise be conferred by order made under this section;.
+> “**Community relief**” means any relief which is conferred by an[^c-097264584a884a4c2c88801c43c478c0] EU instrument and is of a kind, or of a kind similar to that, which could otherwise be conferred by order made under this section;.
 
 (6) In section 17 of the [^c10406981] Customs and Excise Duties (General Reliefs) Act 1979 (parliamentary control of orders and regulations), in subsection (4), after the figure “13" there shall be inserted “ (1) ”.
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-097264584a884a4c2c88801c43c478c0]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-097264584a884a4c2c88801c43c478c0]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c10406981]: Marginal citation: [1979 c. 3](https://www.legislation.gov.uk/ukpga/1979/3).
 

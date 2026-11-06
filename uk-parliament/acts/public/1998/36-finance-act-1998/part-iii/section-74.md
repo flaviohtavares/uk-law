@@ -24,7 +24,7 @@ summary: ''
 
 (2) The provisions are—
 
-- (a)[^key-b66bd06714cfa132928c620beb1e16a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b66bd06714cfa132928c620beb1e16a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) sections 150A and 150B of the [^c16420821]Taxation of Chargeable Gains Act 1992 (EIS relief in respect of chargeable gains);
 - (c) Schedule 5B to that Act (EIS deferral of chargeable gains); and
 - (d) that Chapter as it has effect in relation to shares issued before 1st January 1994 (BES income tax relief) and section 150 of that Act (BES relief in respect of chargeable gains).
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b66bd06714cfa132928c620beb1e16a1]: Textual amendment: [S. 74(2)(a)](https://www.legislation.gov.uk/ukpga/1998/36/section/74/2/a) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-b66bd06714cfa132928c620beb1e16a1]: Textual amendment: [S. 74(2)(a)](https://www.legislation.gov.uk/ukpga/1998/36/section/74/2/a) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c16420821]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).

@@ -59,54 +59,54 @@ The Secretary of State is a Minister designated [^c20193181] for the purposes of
 In these Regulations—
 
 - “**the 1974 Act**” means the Health and Safety at Work etc Act 1974 [^c20193191];
-- “[^key-e333c644734811eb1e468890061d4c89]**British Channel Tunnel zone**” means the part of the tunnel system within Great Britain together with the network—
+- “[^c-e333c644734811eb1e468890061d4c89]**British Channel Tunnel zone**” means the part of the tunnel system within Great Britain together with the network—
   - (a) from the tunnel system to and including Ashford International station for railway passenger services using the tunnel system, or
   - (b) from the tunnel system to and including Dollands Moor freight yard for services for the carriage of goods by rail using the tunnel system;
 - “**Channel Tunnel train driving certificate**” means a train driving certificate which authorises the holder to drive a train in the Channel Tunnel zone;
 - “**Channel Tunnel train driving licence**” means a train driving licence which is held by a person who is at any time deployed by a railway undertaking or infrastructure manager to drive a train in the Channel Tunnel zone;
 - “**Channel Tunnel zone**” means the British Channel Tunnel zone together with the French Channel Tunnel zone;
-- [^key-acfcc4481c2a4c7f8ff9fdee7462b957]...
-- “[^key-3f29c1d074081bba41592556f5556b19]**the Department for Infrastructure**” means the Department renamed as such by the Departments Act (Northern Ireland) 2016 and originally established as the Department for Regional Development by article 3(1) of the Departments (Northern Ireland) Order 1999
-- “[^key-95deace8110a431d0ee912c8581e0d77]**the Directive**” means Directive [2007/59/EC](https://www.legislation.gov.uk/eudr/2007/59) of the European Parliament and of the Council on the certification of train drivers operating locomotives and trains on the railway system in the Community as amended from time to time, before and after IP completion day;
+- [^c-acfcc4481c2a4c7f8ff9fdee7462b957]...
+- “[^c-3f29c1d074081bba41592556f5556b19]**the Department for Infrastructure**” means the Department renamed as such by the Departments Act (Northern Ireland) 2016 and originally established as the Department for Regional Development by article 3(1) of the Departments (Northern Ireland) Order 1999
+- “[^c-95deace8110a431d0ee912c8581e0d77]**the Directive**” means Directive [2007/59/EC](https://www.legislation.gov.uk/eudr/2007/59) of the European Parliament and of the Council on the certification of train drivers operating locomotives and trains on the railway system in the Community as amended from time to time, before and after IP completion day;
 - “**employed**” means engaged to do something whether under a contract of employment, or as an independent contractor or as a volunteer and related expressions must be construed accordingly;
-- “[^key-6da8a42f00843240dae73a588d81eed0]**European train driving licence**” means a licence, issued by a safety authority in accordance with article 14 of the Directive, indicating the holder satisfies medical, educational and professional skills requirements for train driving;
-- “[^key-6cba8ff97bf852a17f9528c9e6c4dcb7]**French Channel Tunnel zone**” means the part of the tunnel system within France together with the network—
+- “[^c-6da8a42f00843240dae73a588d81eed0]**European train driving licence**” means a licence, issued by a safety authority in accordance with article 14 of the Directive, indicating the holder satisfies medical, educational and professional skills requirements for train driving;
+- “[^c-6cba8ff97bf852a17f9528c9e6c4dcb7]**French Channel Tunnel zone**” means the part of the tunnel system within France together with the network—
   - (a) from the tunnel system to and including Calais-Fréthun station for railway passenger services using the tunnel system, or
   - (b) from the tunnel system to and including Fréthun freight yard for services for the carriage of goods using the tunnel system;
-- “[^key-e5857f2547efe434615666825dd762d9]**French licensing authority**” means the body responsible for granting European train driving licences in France;
-- “in code form” is a reference to a code representing additional information or a medical restriction, as provided for in Annex I to Commission Regulation ([^key-413b4e8c647e6a1409f26ab21c57d4fd]EU) No 36/2010 on Community models for train driving licences, complementary certificates, certified copies of complementary certificates and application forms for train driving licences, under Directive [2007/59/EC](https://www.legislation.gov.uk/european/directive/2007/0059) of the European Parliament and the Council, as that Annex to that Regulation is amended from time to time;
+- “[^c-e5857f2547efe434615666825dd762d9]**French licensing authority**” means the body responsible for granting European train driving licences in France;
+- “in code form” is a reference to a code representing additional information or a medical restriction, as provided for in Annex I to Commission Regulation ([^c-413b4e8c647e6a1409f26ab21c57d4fd]EU) No 36/2010 on Community models for train driving licences, complementary certificates, certified copies of complementary certificates and application forms for train driving licences, under Directive [2007/59/EC](https://www.legislation.gov.uk/european/directive/2007/0059) of the European Parliament and the Council, as that Annex to that Regulation is amended from time to time;
 - “**infrastructure manager**” means the holder of a safety authorisation issued by—
   - (a) the ORR in accordance with regulation 10 or 12 of ROGS; or
   - (b) the Intergovernmental Commission pursuant to the requirements of article 27 of the Regulation set out in the Schedule to the Channel Tunnel (Safety) Order 2007 [^c20193231];
 - “**Intergovernmental Commission**” means the Commission established under article 10 of the Treaty of Canterbury of 12th February 1986 [^c20193241] to supervise, in the name and on behalf of the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the French Republic, all matters concerning the construction and operation of the Channel Tunnel;
 - “**mainline railway**” has the same meaning as in regulation 2(1) of ROGS but includes the “tunnel system” within the meaning of section 1(7) of the Channel Tunnel Act 1987 [^c20193251];
-- “[^key-3c6f1d8668081f3160466f2a7455f5dc]**network**” has the meaning given in section 83(1) of the Railways Act 1993;
-- “[^key-62dabfd8eeea8abe4d0e4325fe861bda]**Northern Ireland train driving licence**” means a licence issued by the Department for Infrastructure under the Northern Ireland Regulations indicating that the holder satisfies medical, educational and professional skills for train driving;
+- “[^c-3c6f1d8668081f3160466f2a7455f5dc]**network**” has the meaning given in section 83(1) of the Railways Act 1993;
+- “[^c-62dabfd8eeea8abe4d0e4325fe861bda]**Northern Ireland train driving licence**” means a licence issued by the Department for Infrastructure under the Northern Ireland Regulations indicating that the holder satisfies medical, educational and professional skills for train driving;
 - “**the Northern Ireland Regulations**” means the Train Driving Licences and Certificates Regulations (Northern Ireland) 2010;
-- “**ORR**” means the Office of Rail and Road[^key-8ca2658cc867fb66030c2802baca8c7e];
-- “[^key-d25272332b4628c981b542ccab03bc22]**railway passenger service**” has the meaning given in section 83(1) of the Railways Act 1993;
+- “**ORR**” means the Office of Rail and Road[^c-8ca2658cc867fb66030c2802baca8c7e];
+- “[^c-d25272332b4628c981b542ccab03bc22]**railway passenger service**” has the meaning given in section 83(1) of the Railways Act 1993;
 - “**railway undertaking**” means the holder of—
   - (a) a safety certificate issued by the ORR in accordance with regulation 7 or 9 of ROGS; or
   - (b) a Part B certificate issued by the Intergovernmental Commission pursuant to the requirements of article 39(ii) of the Regulation set out in the Schedule to the Channel Tunnel (Safety) Order 2007;
-- “[^key-9b6a895312e7cd474cdaea6da32b006c]**Recast Safety Directive**” means Directive (EU) 2016/798 of the European Parliament and of the Council on railway safety (recast);
+- “[^c-9b6a895312e7cd474cdaea6da32b006c]**Recast Safety Directive**” means Directive (EU) 2016/798 of the European Parliament and of the Council on railway safety (recast);
 - “**recognised doctor**” means a registered medical practitioner whose name appears in a register of doctors that the ORR has published, or caused to be published, under regulation 23(1);
 - “**recognised examiner**” means a person whose name appears in a register of examiners that the ORR has published, or caused to be published, under regulation 23(1);
 - “**recognised psychologist**” means a person who holds the qualification of the British Psychological Society Certificate in Occupational Testing (Level A) and whose name appears in a register of psychologists that the ORR has published, or caused to be published, under regulation 23(1);
 - “**recognised trainer**” means a person whose name appears in a register of trainers that the ORR has published, or caused to be published, under regulation 23(1);
-- “[^key-a97704881384232140f6d311ca94aeae]**relevant European train driving licence**” means a European train driving licence which is held by a driver who is at any time deployed by a railway undertaking or infrastructure manager to drive trains in the Channel Tunnel zone;
+- “[^c-a97704881384232140f6d311ca94aeae]**relevant European train driving licence**” means a European train driving licence which is held by a driver who is at any time deployed by a railway undertaking or infrastructure manager to drive trains in the Channel Tunnel zone;
 - “**ROGS**” means the Railways and Other Guided Transport Systems (Safety) Regulations 2006 [^c20193261];
-- “[^key-5dfe98493af06f3ec49db44c6a250396]**safety authority**” means an authority established in an EEA state, other than the Intergovernmental Commission, in accordance with article 16(1) of Directive [2004/49/EC](https://www.legislation.gov.uk/eudr/2004/49) of the European Parliament and of the Council on safety on the Community's railways and amending Directive 95/18 EC on the licensing of railway undertakings and Directive [2001/14/EC](https://www.legislation.gov.uk/eudr/2001/14) on the allocation of infrastructure capacity and the levying of charges for the use of railway infrastructure and safety certification or article 16(1) of the Recast Safety Directive;
+- “[^c-5dfe98493af06f3ec49db44c6a250396]**safety authority**” means an authority established in an EEA state, other than the Intergovernmental Commission, in accordance with article 16(1) of Directive [2004/49/EC](https://www.legislation.gov.uk/eudr/2004/49) of the European Parliament and of the Council on safety on the Community's railways and amending Directive 95/18 EC on the licensing of railway undertakings and Directive [2001/14/EC](https://www.legislation.gov.uk/eudr/2001/14) on the allocation of infrastructure capacity and the levying of charges for the use of railway infrastructure and safety certification or article 16(1) of the Recast Safety Directive;
 - “**safety management system**” in relation to a railway undertaking or infrastructure manager means the organisation and arrangements established by it, under regulation 5 of ROGS or articles 22 to 25 of the Channel Tunnel (Safety) Order 2007, to ensure the safe management of its operation;
 - “**train**” includes a locomotive, a shunting locomotive, a work train and a maintenance railway vehicle;
-- “[^key-c5d09a99b9a9207dac7209815fafaa32]**train driving certificate**” means a certificate issued by a railway undertaking or infrastructure manager under these Regulations indicating the infrastructure on which the holder is authorised to drive and the types of train which the holder is authorised to drive;
-- “[^key-3c213d14c4aaa0b070a9b99cc1e37f1f]**train driving licence**” means a licence issued by or on behalf of the ORR under these Regulations indicating that the holder satisfies medical, educational and professional skills requirements for train driving;
-- “[^key-608b6546f3bf79c45769beda1b55f861]**transitional period**” means the period commencing on exit day and expiring at the end of two years.
+- “[^c-c5d09a99b9a9207dac7209815fafaa32]**train driving certificate**” means a certificate issued by a railway undertaking or infrastructure manager under these Regulations indicating the infrastructure on which the holder is authorised to drive and the types of train which the holder is authorised to drive;
+- “[^c-3c213d14c4aaa0b070a9b99cc1e37f1f]**train driving licence**” means a licence issued by or on behalf of the ORR under these Regulations indicating that the holder satisfies medical, educational and professional skills requirements for train driving;
+- “[^c-608b6546f3bf79c45769beda1b55f861]**transitional period**” means the period commencing on exit day and expiring at the end of two years.
 
 ### 3. Application and extent
 
 (1) Subject to paragraphs (2) and (3), these Regulations apply in relation to the driving of trains on the mainline railway.
 
-(1A)[^key-fe66c10bc4c4d7ff8c90b4775746becf] These Regulations do not apply in relation to the driving of trains which the Office of Rail and Road[^key-f83d75b866ce035a8dbae435ecab14e9] has determined under regulation 2A(2) of ROGS are deemed not to operate on the mainline railway.
+(1A)[^c-fe66c10bc4c4d7ff8c90b4775746becf] These Regulations do not apply in relation to the driving of trains which the Office of Rail and Road[^c-f83d75b866ce035a8dbae435ecab14e9] has determined under regulation 2A(2) of ROGS are deemed not to operate on the mainline railway.
 
 (2) These Regulations do not apply in relation to the driving of trains on track which is temporarily closed to normal traffic for the purpose of maintaining, renewing or upgrading railway infrastructure.
 
@@ -116,28 +116,28 @@ In these Regulations—
 
 ### 4. Requirement for licences and certificates
 
-(1)[^key-7647b447d96ab6693acbe7a8efcab0e6] Subject to paragraph (12), a railway undertaking or infrastructure manager must not deploy a person to drive a train unless that person is authorised to do so—
+(1)[^c-7647b447d96ab6693acbe7a8efcab0e6] Subject to paragraph (12), a railway undertaking or infrastructure manager must not deploy a person to drive a train unless that person is authorised to do so—
 
 - (a) by a train driving licence;
 - (b) by a Northern Ireland train driving licence; or
-- (c) in the British Channel Tunnel zone[^key-c5d2f2b36a86370947738a2df2f19260], by a European train driving licence.
+- (c) in the British Channel Tunnel zone[^c-c5d2f2b36a86370947738a2df2f19260], by a European train driving licence.
 
 (2) Subject to paragraphs (7) and (12), a railway undertaking must not deploy a person to drive a particular type of train, or to drive a train on particular infrastructure, unless that person is authorised to do so by a train driving certificate issued by it.
 
 (3) Subject to paragraphs (7) and (12), an infrastructure manager must not deploy a person to drive a particular type of train, or to drive a train on particular infrastructure, unless that person is authorised to do so by a train driving certificate issued by it.
 
-(3A)[^key-c39c6f101b45e1fbdffe2b094ee8f769] A railway undertaking or infrastructure manager must not deploy a person under 20 years of age to drive a train in the British Channel Tunnel zone.
+(3A)[^c-c39c6f101b45e1fbdffe2b094ee8f769] A railway undertaking or infrastructure manager must not deploy a person under 20 years of age to drive a train in the British Channel Tunnel zone.
 
 (3B) A person under 20 years of age must not drive a train in the British Channel Tunnel zone.
 
-(4)[^key-2156cc5af7e934ef16b4fab2a3858c11] Subject to paragraphs (7) and (12) a person must not drive a train unless that person is authorised to do so by—
+(4)[^c-2156cc5af7e934ef16b4fab2a3858c11] Subject to paragraphs (7) and (12) a person must not drive a train unless that person is authorised to do so by—
 
-- (a) a train driving licence, a Northern Ireland train driving licence, or, in the British Channel Tunnel zone[^key-a548cb9ef2e99191267de69c23595762], a European train driving licence; and
+- (a) a train driving licence, a Northern Ireland train driving licence, or, in the British Channel Tunnel zone[^c-a548cb9ef2e99191267de69c23595762], a European train driving licence; and
 - (b) a train driving certificate for the type of train driven and the infrastructure driven on, issued by the railway undertaking or infrastructure manager by whom that person is deployed to drive a train.
 
-(4A)[^key-453c8d8e9633d1c976683626207e4ed2] For the purposes of paragraphs (5) (6) (8) (12) and (13) a train driving licence includes a Northern Ireland train driving licence and, in the British Channel Tunnel zone[^key-1e04d2a85e18170e46f654412bcf1207], a European train driving licence.
+(4A)[^c-453c8d8e9633d1c976683626207e4ed2] For the purposes of paragraphs (5) (6) (8) (12) and (13) a train driving licence includes a Northern Ireland train driving licence and, in the British Channel Tunnel zone[^c-1e04d2a85e18170e46f654412bcf1207], a European train driving licence.
 
-(4B)[^key-55e89cbe8ae506a2558a7fc3ecbe7993] Subject to paragraphs (7) and (12)—
+(4B)[^c-55e89cbe8ae506a2558a7fc3ecbe7993] Subject to paragraphs (7) and (12)—
 
 - (a) a railway undertaking or an infrastructure manager must not deploy a person to drive a particular type of train in the French Channel Tunnel zone unless that person is authorised to drive that type of train in that zone by a train driving certificate issued by it; and
 - (b) a person must not drive a particular type of train in the French Channel Tunnel zone unless that person is authorised to drive that type of train in that zone by a train driving certificate issued by the railway undertaking or infrastructure manager by whom that person is deployed to drive a train.
@@ -156,27 +156,27 @@ In these Regulations—
 
 (8) Paragraph (7) does not apply unless—
 
-- (a) [^key-ecec74faaeda67704c0e07584b161c6f]... another train driver, who holds a train driving licence and a train driving certificate relating to the specific infrastructure, accompanies and supervises the driver in the cab whilst the train is driven on that infrastructure; and
+- (a) [^c-ecec74faaeda67704c0e07584b161c6f]... another train driver, who holds a train driving licence and a train driving certificate relating to the specific infrastructure, accompanies and supervises the driver in the cab whilst the train is driven on that infrastructure; and
 - (b) the infrastructure manager of the specific infrastructure is given prior notice.
 
-(9)[^key-d8c589a978c8e7928fb7e17459c78373] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-d8c589a978c8e7928fb7e17459c78373] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) An infrastructure manager may not oblige a railway undertaking to make a decision under paragraph (7).
 
-(11) A Northern Ireland train driving licence or,[^key-6e855bf1275394b691b71a104952aa2e] in the British Channel Tunnel zone[^key-43b6629e1dff13a2ad927f479c269ef2], a European train driving licence issued on the basis of an exemption from the medical requirements set out in Schedule 1 is not valid in Great Britain, and the holding of such a licence will not satisfy the requirements of paragraphs (1) or (4)(a).
+(11) A Northern Ireland train driving licence or,[^c-6e855bf1275394b691b71a104952aa2e] in the British Channel Tunnel zone[^c-43b6629e1dff13a2ad927f479c269ef2], a European train driving licence issued on the basis of an exemption from the medical requirements set out in Schedule 1 is not valid in Great Britain, and the holding of such a licence will not satisfy the requirements of paragraphs (1) or (4)(a).
 
 (12) A person who is training to be train driver (“the trainee driver”) may drive a train without being authorised to do so by a train driving licence and a train driving certificate provided that an authorised driver—
 
 - (a) accompanies and supervises the trainee driver in the cab whilst the trainee driver drives the train, and
 - (b) complies with the requirements of paragraph (5) as if the authorised driver was the driver of the train.
 
-(13) In[^key-3321e674422a3fd4444d82cc22d2c5e9] paragraph (12) “**authorised driver**” means a train driver who is authorised to drive the train by a train driving licence and a train driving certificate issued by the railway undertaking, or infrastructure manager, for whom the train is driven relating to the type of train driven and the infrastructure driven on.
+(13) In[^c-3321e674422a3fd4444d82cc22d2c5e9] paragraph (12) “**authorised driver**” means a train driver who is authorised to drive the train by a train driving licence and a train driving certificate issued by the railway undertaking, or infrastructure manager, for whom the train is driven relating to the type of train driven and the infrastructure driven on.
 
-(14)[^key-70fb49d28190d6c28200880440cd0872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-70fb49d28190d6c28200880440cd0872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 5. Licence and certificate characteristics
 
-(1)[^key-3f4bd4eb31ef3e00532910013887c424] The form of a train driving licence and a train driving certificate issued under these Regulations must comply with the requirements set out in Schedule 2.
+(1)[^c-3f4bd4eb31ef3e00532910013887c424] The form of a train driving licence and a train driving certificate issued under these Regulations must comply with the requirements set out in Schedule 2.
 
 (2) In particular, a train driving certificate must show the categories of train which the train driver may drive comprising either or both of—
 
@@ -199,7 +199,7 @@ A train driving certificate is owned by the railway undertaking or infrastructur
 
 (2) The conditions are that the applicant has—
 
-- (a) attained the age of 18[^key-de044a0f831be4ba275825132c971011] years;
+- (a) attained the age of 18[^c-de044a0f831be4ba275825132c971011] years;
 - (b) completed at least nine years' education (primary and secondary);
 - (c) successfully completed basic training equivalent to at least level 3 referred to in Council Decision [85/368/EEC](https://www.legislation.gov.uk/european/decision/1985/0368) on the comparability of vocational training qualifications between the Member States of the European Community [^c20193281];
 - (d) passed the required medical examination;
@@ -210,18 +210,18 @@ A train driving certificate is owned by the railway undertaking or infrastructur
 
 (4) For the purpose of paragraph (2)(e) the required occupational psychological fitness examination means an examination that includes the minimum content set out in paragraph 2(2) of Schedule 1 and is conducted by or under the supervision of a recognised psychologist or recognised doctor.
 
-(5)[^key-dd9d1e2dcc49e673ceec5be0484cd63e] For the purpose of paragraph (2)(f) the required general professional competence examination means:
+(5)[^c-dd9d1e2dcc49e673ceec5be0484cd63e] For the purpose of paragraph (2)(f) the required general professional competence examination means:
 
 - (a) an examination that covers the objectives and requirements set out in Schedule 3; or
 - (b) an aptitude test pursuant to Part 2 of the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023, where there is a significant difference between the applicant’s professional knowledge and the objectives and requirements set out in Schedule 3.
 
-(6)[^key-816a92e4661aa8a2cb5088c1cd688cd3] For the purposes of this regulation an aptitude test means a test, limited to the professional knowledge of a train driver specified by the ORR with the aim of ensuring that the applicant’s knowledge covers the objectives and requirements set out in Schedule 3.
+(6)[^c-816a92e4661aa8a2cb5088c1cd688cd3] For the purposes of this regulation an aptitude test means a test, limited to the professional knowledge of a train driver specified by the ORR with the aim of ensuring that the applicant’s knowledge covers the objectives and requirements set out in Schedule 3.
 
 ### 9. Conditions for obtaining a certificate
 
 (1) A railway undertaking or infrastructure manager may only issue a train driving certificate to an applicant if it is satisfied the applicant holds a train driving licence and fulfils the conditions indicated in paragraph (2), and must issue one if so satisfied.
 
-(1A)[^key-1b1c594231622793c74282d82ab9b79f] In paragraph (1) a train driving licence includes a Northern Ireland train driving licence and, in relation to the Channel Tunnel zone[^key-9efebc72d155473cc3d4ac95c432a43a], a European train driving licence.
+(1A)[^c-1b1c594231622793c74282d82ab9b79f] In paragraph (1) a train driving licence includes a Northern Ireland train driving licence and, in relation to the Channel Tunnel zone[^c-9efebc72d155473cc3d4ac95c432a43a], a European train driving licence.
 
 (2) The conditions are that the applicant—
 
@@ -284,7 +284,7 @@ A train driving certificate is owned by the railway undertaking or infrastructur
 
 (1) The holder of a train driving licence must pass periodic medical and psychological examinations meeting the requirements described in regulation 8(3) and (4).
 
-(1A)[^key-9a3db16c1cc53bf997f1c1811d837a7a] In paragraph (1) a train driving licence includes a Northern Ireland train driving licence and, during the transitional period only, a European train driving licence.
+(1A)[^c-9a3db16c1cc53bf997f1c1811d837a7a] In paragraph (1) a train driving licence includes a Northern Ireland train driving licence and, during the transitional period only, a European train driving licence.
 
 (2) For the purpose of paragraph (1) periodic medical examinations means examinations conducted at the minimum frequency and at other times set out in paragraph 3 of Schedule 1.
 
@@ -333,13 +333,13 @@ A train driving certificate ceases to be valid once it is suspended or withdrawn
 
 (5) A railway undertaking or infrastructure manager must inform the ORR when a train driver employed by them has suffered work incapacity for a period of more than three months.
 
-(6)[^key-b85508155f1506b9023f35f1ff9a6ccc] For the purposes of paragraphs (2) and (4) a train driving licence includes a Northern Ireland train driving licence and, in relation to the Channel Tunnel zone[^key-319ce75a040f6db2a5f47191186a48f5], a European train driving licence.
+(6)[^c-b85508155f1506b9023f35f1ff9a6ccc] For the purposes of paragraphs (2) and (4) a train driving licence includes a Northern Ireland train driving licence and, in relation to the Channel Tunnel zone[^c-319ce75a040f6db2a5f47191186a48f5], a European train driving licence.
 
 ## PART 6 — SUSPENSION AND WITHDRAWAL OF LICENCES AND CERTIFICATES
 
 ### 18. Suspension or withdrawal of licences issued by the ORR
 
-(1) Without prejudice to regulation 21, if the ORR considers that the holder of a train driving licence [^key-9177e999f49c15cd76cc98bb7c14b2c5]... no longer satisfies a condition required for the holding of it, or decides to suspend or withdraw the licence pursuant to paragraph (3), the ORR must—
+(1) Without prejudice to regulation 21, if the ORR considers that the holder of a train driving licence [^c-9177e999f49c15cd76cc98bb7c14b2c5]... no longer satisfies a condition required for the holding of it, or decides to suspend or withdraw the licence pursuant to paragraph (3), the ORR must—
 
 - (a) suspend or withdraw the licence; and
 - (b) inform the holder and his employer of—
@@ -350,14 +350,14 @@ A train driving certificate ceases to be valid once it is suspended or withdrawn
 
 (2) If the ORR suspends or withdraws a train driving licence the holder must surrender it to the ORR.
 
-(3) If [^key-59c64070fdc42d568499cd537cd1007e]... the Department for Infrastructure[^key-21c8a80f1876e134dcf4800d003d33a5] or the Intergovernmental Commission—
+(3) If [^c-59c64070fdc42d568499cd537cd1007e]... the Department for Infrastructure[^c-21c8a80f1876e134dcf4800d003d33a5] or the Intergovernmental Commission—
 
 - (a) informs the ORR that it considers the holder of a train driving licence issued by the ORR no longer satisfies a condition required for the holding of it, and
 - (b) gives the ORR a reasoned request for a review of the holder's eligibility to hold the licence, or for the licence to be suspended or withdrawn,
 
-the ORR must consider that request and, within four weeks, notify [^key-59c64070fdc42d568499cd537cd1007e]... the Department for Infrastructure or the Intergovernmental Commission, as the case may be, of its decision whether to suspend or withdraw the licence or take any other action.
+the ORR must consider that request and, within four weeks, notify [^c-59c64070fdc42d568499cd537cd1007e]... the Department for Infrastructure or the Intergovernmental Commission, as the case may be, of its decision whether to suspend or withdraw the licence or take any other action.
 
-### 19. Suspension or withdrawal of other train driving licences and driver prohibition[^key-747b2ccb1afe8672f38e6baed0fabc88]
+### 19. Suspension or withdrawal of other train driving licences and driver prohibition[^c-747b2ccb1afe8672f38e6baed0fabc88]
 
 (1) Without prejudice to regulation 21, if the ORR considers that the holder of a Northern Ireland train driving licence no longer satisfies a condition required for the holding of it the ORR must—
 
@@ -365,7 +365,7 @@ the ORR must consider that request and, within four weeks, notify [^key-59c64070
 - (b) give the Department for Infrastructure a reasoned request for a review of the holder's eligibility to hold the licence, or for the licence to be suspended or withdrawn; and
 - (c) notify the Intergovernmental Commission of the request.
 
-(2)[^key-92707e83a4a028b9531a7d563a0245aa] Without prejudice to regulation 21, if the ORR considers that the holder of a relevant European train driving licence no longer satisfies a condition required for holding it, the ORR—
+(2)[^c-92707e83a4a028b9531a7d563a0245aa] Without prejudice to regulation 21, if the ORR considers that the holder of a relevant European train driving licence no longer satisfies a condition required for holding it, the ORR—
 
 - (a) must—
   - (i) inform the French licensing authority, and the Intergovernmental Commission of this view; and
@@ -379,7 +379,7 @@ the ORR must consider that request and, within four weeks, notify [^key-59c64070
 
 ### 20. Suspension or withdrawal of certificates and driver prohibition
 
-(1)[^key-c28524105b96daf471488d348a42b35c] This regulation applies if —
+(1)[^c-c28524105b96daf471488d348a42b35c] This regulation applies if —
 
 - (a) the ORR considers that the holder of a train driving certificate no longer satisfies a condition required for the holding of it; or
 - (b) the French licensing authority —
@@ -400,7 +400,7 @@ the ORR must consider that request and, within four weeks, notify [^key-59c64070
 
 (4) Pending any suspension or withdrawal of the train driving certificate, or other conclusion on the request, the ORR may prohibit the holder from driving a train in Great Britain.
 
-(5)[^key-4c00ec8b63c11706e3e0c713b840ceba] If the ORR exercises the power in paragraph (4) it—
+(5)[^c-4c00ec8b63c11706e3e0c713b840ceba] If the ORR exercises the power in paragraph (4) it—
 
 - (a) must inform the Department for Infrastructure and the Intergovernmental Commission and, in the case of the holder of a Channel Tunnel train driving certificate, the French licensing authority; and
 - (b) may, in the case of the holder of a Channel Tunnel train driving certificate who also holds a European train driving licence inform the safety authority which has issued that licence if this is not the French licensing authority.
@@ -417,9 +417,9 @@ the ORR must consider that request and, within four weeks, notify [^key-59c64070
 - (b) suspending or withdrawing the driver's train driving licence, if issued by the ORR; or
 - (c) prohibiting the driver from driving a train in Great Britain.
 
-(3)[^key-db0e9ea2e1cced6af363d8d28e1ae4f5] If the ORR takes any action under this regulation it must inform the Department for Infrastructure and the Intergovernmental Commission and may inform the safety authorities.
+(3)[^c-db0e9ea2e1cced6af363d8d28e1ae4f5] If the ORR takes any action under this regulation it must inform the Department for Infrastructure and the Intergovernmental Commission and may inform the safety authorities.
 
-### 22. Appeal to the Commission[^key-790a1cc01ec43626d3e7d07e3af92158]
+### 22. Appeal to the Commission[^c-790a1cc01ec43626d3e7d07e3af92158]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -438,15 +438,15 @@ recognised by the ORR as competent to carry out functions under, or referred to 
 
 (2) Trainers and examiners may be individuals or bodies of persons corporate or unincorporate.
 
-(3) Subject to paragraph (5)[^key-8f6c4177079eb0edc1bcd4be891fe89c], the inclusion of a person in a register referred to in paragraph (1) must be based on the criteria of independence, competence and impartiality.
+(3) Subject to paragraph (5)[^c-8f6c4177079eb0edc1bcd4be891fe89c], the inclusion of a person in a register referred to in paragraph (1) must be based on the criteria of independence, competence and impartiality.
 
-(4)[^key-2b3dfaf89409f0e61590d541110585cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2b3dfaf89409f0e61590d541110585cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The criterion of independence referred to in paragraph (3) does not apply in respect of a trainer referred to in regulation 30.
 
 ### 24. Registers of licences
 
-(1) The ORR must have and keep up to date a register of train driving licences [^key-7c860b6c612fc0bfa3cc0ead6b253ba7]..., and in particular the register should include details of any updating, renewal, amendment, expiry, suspension or withdrawal of any such licence, and record any loss, theft or destruction of any such licence.
+(1) The ORR must have and keep up to date a register of train driving licences [^c-7c860b6c612fc0bfa3cc0ead6b253ba7]..., and in particular the register should include details of any updating, renewal, amendment, expiry, suspension or withdrawal of any such licence, and record any loss, theft or destruction of any such licence.
 
 (2) The register must contain the data required for each licence by paragraph 4 of Schedule 2, and it must be possible to find the data for each licence on the register by the use of a national number allotted to each train driver.
 
@@ -456,13 +456,13 @@ recognised by the ORR as competent to carry out functions under, or referred to 
 
 (2) The register must contain the data required for each certificate by paragraph 4 of Schedule 2.
 
-### 26. Information relating to the status of licences[^key-a9392eca51d91e87ecb7fefe833a3fb8]
+### 26. Information relating to the status of licences[^c-a9392eca51d91e87ecb7fefe833a3fb8]
 
 (1) The ORR must, upon request, provide information on the status of train driving licences to the Department for Infrastructure, the Intergovernmental Commission or any employer of train drivers.
 
 (2) The ORR may provide the information mentioned in paragraph (1) to a safety authority.
 
-### 26A. Information sharing[^key-485cb857e36059f50e37b275f125258b]
+### 26A. Information sharing[^c-485cb857e36059f50e37b275f125258b]
 
 The ORR must without unreasonable delay provide information to the French licensing authority in relation to any Channel Tunnel train driving licence or any Channel Tunnel train driving certificate and the holder of any such licence or certificate—
 
@@ -471,13 +471,13 @@ The ORR must without unreasonable delay provide information to the French licens
 - (c) if the ORR suspends or withdraws that licence or a railway undertaking or infrastructure manager notifies the ORR that it has suspended or withdrawn that certificate; or
 - (d) if the ORR has taken any action under regulation 21 in relation to a train driver holding such a licence or certificate.
 
-### 27. Information relating to certificates etc.[^key-a96fdc0c04917fa527571b4cb66fb345]
+### 27. Information relating to certificates etc.[^c-a96fdc0c04917fa527571b4cb66fb345]
 
 (1) Railway undertakings and infrastructure managers must, upon request, provide to the ORR any information relating to train driving certificates issued by them or any other functions carried out by them under these Regulations.
 
 (2) Railway undertakings and infrastructure managers may provide the information mentioned in paragraph (1) to a safety authority.
 
-### 28. Information in relation to international train services[^key-2f1fea4df649043b1bca234a744ac00f]
+### 28. Information in relation to international train services[^c-2f1fea4df649043b1bca234a744ac00f]
 
 (1) Railway undertakings and infrastructure managers must upon request, provide to the ORR, the Department for Infrastructure and the Intergovernmental Commission information on the content of train driving certificates issued by them in relation to train drivers on international journeys.
 
@@ -504,9 +504,9 @@ Each railway undertaking and infrastructure manager that employs train drivers m
 - (b) to satisfy the condition in regulation 9(2)(b), or
 - (c) to pass the examinations required by regulation 9(2)(c),
 
-if that person is a recognised trainer[^key-d9ed5d1404a84e4403be1535322e150c]....
+if that person is a recognised trainer[^c-d9ed5d1404a84e4403be1535322e150c]....
 
-(1A)[^key-189febfa2211b421508156db18e651da] For the purposes of this regulation, during the transitional period, a recognised trainer includes a trainer accredited or recognised to act as a trainer in a member State in accordance with the requirements of article 20 of the Directive.
+(1A)[^c-189febfa2211b421508156db18e651da] For the purposes of this regulation, during the transitional period, a recognised trainer includes a trainer accredited or recognised to act as a trainer in a member State in accordance with the requirements of article 20 of the Directive.
 
 (2) Training relating to infrastructure knowledge, including route knowledge and operating rules and procedures, may only be provided by a recognised trainer.
 
@@ -527,7 +527,7 @@ if that person is a recognised trainer[^key-d9ed5d1404a84e4403be1535322e150c]...
 (3) Subject to paragraph (4), a person may only be designated as an examiner under paragraphs (1)(b) or (2)(b) if that person is—
 
 - (a) a recognised examiner; or
-- (b)[^key-3358fe4c5820bc3bdb33940f3fa93256] during the transitional period, an examiner accredited or recognised to act as an examiner in a member State in accordance with the requirements of article 20 of the Directive.
+- (b)[^c-3358fe4c5820bc3bdb33940f3fa93256] during the transitional period, an examiner accredited or recognised to act as an examiner in a member State in accordance with the requirements of article 20 of the Directive.
 
 (4) In so far as an examination set or approved under paragraph (2)(a) is for infrastructure knowledge evaluation, including evaluation of route knowledge and operating rules and procedures, the examiner must be a recognised examiner.
 
@@ -616,7 +616,7 @@ under these Regulations.
 
 (6) The Tribunals and Inquiries Act 1992 [^c20193291] applies to a hearing held by a person appointed in pursuance of paragraph (4) to determine an appeal as it applies to a statutory inquiry held by the Secretary of State, but as if in section 10(1) of that Act (statement of reasons for decisions) the reference to any decision taken by the Secretary of State included a reference to a decision taken on behalf of the Secretary of State by that person.
 
-(7)[^key-b58404f65d8e2e0cadd8149e7b167873] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-b58404f65d8e2e0cadd8149e7b167873] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Without prejudice to the right of any person to make an application for judicial review—
 
@@ -654,7 +654,7 @@ under these Regulations.
 
 (6) The Tribunals and Inquiries Act 1992 applies to a hearing held by a person appointed in pursuance of paragraph (4) to determine an appeal as it applies to a statutory inquiry held by the Secretary of State, but as if in section 10(1) of that Act (statement of reasons for decisions) the reference to any decision taken by the Secretary of State included a reference to a decision taken on behalf of the ORR by that person.
 
-(7)[^key-d99606afb13b92f85762babaebf47124] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-d99606afb13b92f85762babaebf47124] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Without prejudice to the right of any person to make an application for judicial review—
 
@@ -706,7 +706,7 @@ The ORR, railway undertakings and infrastructure managers must take such steps a
 | An offence under section 33(1) (h). | Summarily only. | Imprisonment for a term not exceeding 3 months, or a fine not exceeding level 5 on the standard scale as it has effect from time to time, or both. |  |
 | An offence under section 33(1) (n). | Summarily only. | A fine not exceeding level 5 on the standard scale as it has effect from time to time. |  |
 
-(5) A failure to discharge a duty placed on the Office of Rail and Road[^key-e2e0a8f230b74688e13fbc0446322328] by these Regulations is not an offence under section 33(1)(c) of the 1974 Act.
+(5) A failure to discharge a duty placed on the Office of Rail and Road[^c-e2e0a8f230b74688e13fbc0446322328] by these Regulations is not an offence under section 33(1)(c) of the 1974 Act.
 
 ## PART 14 — TRANSITIONAL PROVISIONS
 
@@ -715,7 +715,7 @@ The ORR, railway undertakings and infrastructure managers must take such steps a
 (1) Regulation 4 comes into force—
 
 - (a) on the 29th October 2011 in relation to the driving of trains by a person who—
-  - (i) is to drive trains both on the mainline railway and in at least one member State[^key-ac8489cd09eb0ce4c3829b945d6ae049], and
+  - (i) is to drive trains both on the mainline railway and in at least one member State[^c-ac8489cd09eb0ce4c3829b945d6ae049], and
   - (ii) has not driven trains both on the mainline railway and in at least one member State before that date, (excluding any such driving experience gained as a trainee driver);
 - (b) on the 29th October 2013 in relation to the driving of trains by a person who has not driven trains on the mainline railway before that date, (excluding any such driving experience gained as a trainee driver); and
 - (c) on the 29th October 2018 in so far as it has not already come into force under sub-paragraph (a) or (b).
@@ -741,7 +741,7 @@ The ORR, railway undertakings and infrastructure managers must take such steps a
 
 (7) Paragraphs (5) and (6) apply to a first application for a train driving licence, or train driving certificate, made before the 29th October 2018.
 
-## PART 15 — Review[^key-ea2e2504f1ed3b5292c3e21b2115701f]
+## PART 15 — Review[^c-ea2e2504f1ed3b5292c3e21b2115701f]
 
 ### 40. Review
 
@@ -800,7 +800,7 @@ Regulations 4, 8 and 13
 - (d) contact lenses and glasses are authorised when periodically checked by a specialist,
 - (e) normal colour vision: use of a recognised test, such as Ishihara, as well as another recognised test if required,
 - (f) field of vision: full,
-- (g) vision for both eyes: effective[^key-b2809961553e338f767a11f4f9e3c7b9]...,
+- (g) vision for both eyes: effective[^c-b2809961553e338f767a11f4f9e3c7b9]...,
 - (h) binocular vision: effective,
 - (i) recognition of colour signals: the test must be based on recognition of single colours and not on relative differences,
 - (j) sensitivity to contrasts: good,
@@ -856,7 +856,7 @@ Regulations 4, 8 and 13
 
 In addition, an ECG at rest is also required for train drivers over 40 years of age.
 
-## SCHEDULE 2 — ... MODEL TRAIN DRIVING LICENCE AND ... COMPLEMENTARY TRAIN DRIVING CERTIFICATE[^key-e63c2a438620a39ef758e92434b3f2bb][^key-e63c2a438620a39ef758e92434b3f2bb]
+## SCHEDULE 2 — ... MODEL TRAIN DRIVING LICENCE AND ... COMPLEMENTARY TRAIN DRIVING CERTIFICATE[^c-e63c2a438620a39ef758e92434b3f2bb][^c-e63c2a438620a39ef758e92434b3f2bb]
 
 Regulations 5, 24 and 25
 
@@ -874,9 +874,9 @@ The following apply.—
 
 The front of the licence must contain—
 
-- (a) the words “Train Driving Licence” printed in large type [^key-1129c735e0bc5b6c09e473d3ddff6201]...,
+- (a) the words “Train Driving Licence” printed in large type [^c-1129c735e0bc5b6c09e473d3ddff6201]...,
 - (b) the words “United Kingdom”,
-- (c)[^key-c0b9d38e7aa31224a6da6552b1522039] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-c0b9d38e7aa31224a6da6552b1522039] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) information specific to the licence issued, numbered as follows—
   - (i) the surname of the holder,
   - (ii) other name(s) of the holder,
@@ -886,8 +886,8 @@ The front of the licence must contain—
   - (vi) a photograph of the holder,
   - (vii) the signature of the holder,
   - (viii) the permanent place of residence or postal address of the holder (optional),
-- (e)[^key-133b37a8141f0087965d0f4b4ce5457a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-631af4d8a803f931d16aeb4d77caf7fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-133b37a8141f0087965d0f4b4ce5457a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-631af4d8a803f931d16aeb4d77caf7fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) additional information, or medical restrictions for use imposed by the ORR in accordance with Schedule 1, in code form.
 
   [^M_F_d8982d07-1cd6-4917-ad56-97800b9896c7]...
@@ -926,7 +926,7 @@ The minimum data is as follows—
 
   All data appearing on the certificate plus data relating to the checking requirements set out in regulations 9 and 15.
 
-## SCHEDULE 3 — GENERAL PROFESSIONAL KNOWLEDGE AND REQUIREMENTS REGARDING THE LICENCE[^key-dff597f4ffcdc1155c965c35515f2e65]
+## SCHEDULE 3 — GENERAL PROFESSIONAL KNOWLEDGE AND REQUIREMENTS REGARDING THE LICENCE[^c-dff597f4ffcdc1155c965c35515f2e65]
 
 Regulations 8 and 29
 
@@ -1064,17 +1064,17 @@ Drivers must be able to—
 - (d) inform the infrastructure manager of these conditions as soon as possible,
 - (e) assess whether the infrastructure allows the vehicle to continue to run and under which conditions.
 
-#### 8. LANGUAGE TESTS[^key-2191f1370da6eb1a1bdf928445a04979]
+#### 8. LANGUAGE TESTS[^c-2191f1370da6eb1a1bdf928445a04979]
 
 The language requirements are as follows—
 
 (1) Drivers who have to communicate with the infrastructure manager on critical safety issues must have language skills in the language indicated by the infrastructure manager concerned. Their language skills must be such that they can communicate actively and effectively in routine, adverse and emergency situations.
 
-(2) They must be able to use the messages and communication method specified in the NTSN relating to the ‘operation and traffic management’ subsystem of the rail system[^key-cdda063c45241e49313563e61d3389e6].
+(2) They must be able to use the messages and communication method specified in the NTSN relating to the ‘operation and traffic management’ subsystem of the rail system[^c-cdda063c45241e49313563e61d3389e6].
 
 (3) Drivers must be able to understand (both listening and reading) and to communicate (both speaking and writing) according to level B1 of the Common European Framework of Reference for Languages (CEFR) established by the Council of Europe.
 
-(4)[^key-47828bb72df598e748ef38abf92c4ec3] In this paragraph, “NTSN”, “subsystem” and “rail system” have the meanings set out in regulation 2(1) of the Railways (Interoperability) Regulations 2011.
+(4)[^c-47828bb72df598e748ef38abf92c4ec3] In this paragraph, “NTSN”, “subsystem” and “rail system” have the meanings set out in regulation 2(1) of the Railways (Interoperability) Regulations 2011.
 
 ## SCHEDULE 5 — PROFESSIONAL KNOWLEDGE OF ROLLING STOCK AND REQUIREMENTS REGARDING THE TRAIN DRIVING CERTIFICATE
 
@@ -1221,21 +1221,21 @@ An impact assessment of the effect these Regulations will have on the costs of b
 
 [^c20193191]: Marginal citation: [1974 c.37](https://www.legislation.gov.uk/ukpga/1974/37).
 
-[^key-e333c644734811eb1e468890061d4c89]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/a)
+[^c-e333c644734811eb1e468890061d4c89]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/a)
 
-[^key-acfcc4481c2a4c7f8ff9fdee7462b957]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-acfcc4481c2a4c7f8ff9fdee7462b957]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3f29c1d074081bba41592556f5556b19]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3f29c1d074081bba41592556f5556b19]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-95deace8110a431d0ee912c8581e0d77]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/6/2/a))
+[^c-95deace8110a431d0ee912c8581e0d77]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/6/2/a))
 
-[^key-6da8a42f00843240dae73a588d81eed0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/b)
+[^c-6da8a42f00843240dae73a588d81eed0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/b)
 
-[^key-6cba8ff97bf852a17f9528c9e6c4dcb7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/c)
+[^c-6cba8ff97bf852a17f9528c9e6c4dcb7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/c)
 
-[^key-e5857f2547efe434615666825dd762d9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/d)
+[^c-e5857f2547efe434615666825dd762d9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/d)
 
-[^key-413b4e8c647e6a1409f26ab21c57d4fd]: Textual amendment: Words in reg. 2 inserted (21.5.2013) by [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2013/950/regulation/4/2)
+[^c-413b4e8c647e6a1409f26ab21c57d4fd]: Textual amendment: Words in reg. 2 inserted (21.5.2013) by [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2013/950/regulation/4/2)
 
 [^c20193231]: Marginal citation: [S.I. 2007/3531](https://www.legislation.gov.uk/uksi/2007/3531).
 
@@ -1243,127 +1243,127 @@ An impact assessment of the effect these Regulations will have on the costs of b
 
 [^c20193251]: Marginal citation: [1987 c.53](https://www.legislation.gov.uk/ukpga/1987/53).
 
-[^key-3c6f1d8668081f3160466f2a7455f5dc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/e)
+[^c-3c6f1d8668081f3160466f2a7455f5dc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/e)
 
-[^key-62dabfd8eeea8abe4d0e4325fe861bda]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-62dabfd8eeea8abe4d0e4325fe861bda]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8ca2658cc867fb66030c2802baca8c7e]: Textual amendment: Words in reg. 2 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(z)(i)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/z/i)
+[^c-8ca2658cc867fb66030c2802baca8c7e]: Textual amendment: Words in reg. 2 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(z)(i)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/z/i)
 
-[^key-d25272332b4628c981b542ccab03bc22]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(f)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/f)
+[^c-d25272332b4628c981b542ccab03bc22]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(f)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/f)
 
-[^key-9b6a895312e7cd474cdaea6da32b006c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(f)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b6a895312e7cd474cdaea6da32b006c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(f)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a97704881384232140f6d311ca94aeae]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(g)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/g)
+[^c-a97704881384232140f6d311ca94aeae]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(g)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/g)
 
 [^c20193261]: Marginal citation: [S.I. 2006/599](https://www.legislation.gov.uk/uksi/2006/599).
 
-[^key-5dfe98493af06f3ec49db44c6a250396]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(g)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5dfe98493af06f3ec49db44c6a250396]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(g)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c5d09a99b9a9207dac7209815fafaa32]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(h)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c5d09a99b9a9207dac7209815fafaa32]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(h)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3c213d14c4aaa0b070a9b99cc1e37f1f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(i)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3c213d14c4aaa0b070a9b99cc1e37f1f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(i)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-608b6546f3bf79c45769beda1b55f861]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(j)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-608b6546f3bf79c45769beda1b55f861]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(j)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fe66c10bc4c4d7ff8c90b4775746becf]: Textual amendment: Reg. 3(1A) inserted (21.5.2013) by [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2013/950/regulation/4/3)
+[^c-fe66c10bc4c4d7ff8c90b4775746becf]: Textual amendment: Reg. 3(1A) inserted (21.5.2013) by [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2013/950/regulation/4/3)
 
-[^key-f83d75b866ce035a8dbae435ecab14e9]: Textual amendment: Words in reg. 3(1A) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(z)(ii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/z/ii)
+[^c-f83d75b866ce035a8dbae435ecab14e9]: Textual amendment: Words in reg. 3(1A) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(z)(ii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/z/ii)
 
-[^key-7647b447d96ab6693acbe7a8efcab0e6]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/1) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7647b447d96ab6693acbe7a8efcab0e6]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/1) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c5d2f2b36a86370947738a2df2f19260]: Textual amendment: Words in [reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/1/c) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/3/a)
+[^c-c5d2f2b36a86370947738a2df2f19260]: Textual amendment: Words in [reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/1/c) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/3/a)
 
-[^key-c39c6f101b45e1fbdffe2b094ee8f769]: Textual amendment: [Reg. 4(3A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/3A)[(3B)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/3B) inserted (30.6.2026) by [The Train Driving Licences and Certificates (Amendment) Regulations 2026 (S.I. 2026/461)](https://www.legislation.gov.uk/uksi/2026/461), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/461/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/461/regulation/2/2/a)
+[^c-c39c6f101b45e1fbdffe2b094ee8f769]: Textual amendment: [Reg. 4(3A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/3A)[(3B)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/3B) inserted (30.6.2026) by [The Train Driving Licences and Certificates (Amendment) Regulations 2026 (S.I. 2026/461)](https://www.legislation.gov.uk/uksi/2026/461), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/461/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/461/regulation/2/2/a)
 
-[^key-2156cc5af7e934ef16b4fab2a3858c11]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/4) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2156cc5af7e934ef16b4fab2a3858c11]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/4) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a548cb9ef2e99191267de69c23595762]: Textual amendment: Words in [reg. 4(4)(a)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/4/a) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/3/b)
+[^c-a548cb9ef2e99191267de69c23595762]: Textual amendment: Words in [reg. 4(4)(a)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/4/a) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/3/b)
 
-[^key-453c8d8e9633d1c976683626207e4ed2]: Textual amendment: [Reg. 4(4A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/4A) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-453c8d8e9633d1c976683626207e4ed2]: Textual amendment: [Reg. 4(4A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/4A) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1e04d2a85e18170e46f654412bcf1207]: Textual amendment: Words in [reg. 4(4A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/4A) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/3/c)
+[^c-1e04d2a85e18170e46f654412bcf1207]: Textual amendment: Words in [reg. 4(4A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/4A) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/3/c)
 
-[^key-55e89cbe8ae506a2558a7fc3ecbe7993]: Textual amendment: [Reg. 4(4B)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/4B) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/3/d)
+[^c-55e89cbe8ae506a2558a7fc3ecbe7993]: Textual amendment: [Reg. 4(4B)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/4B) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/3/d)
 
-[^key-ecec74faaeda67704c0e07584b161c6f]: Textual amendment: Words in [reg. 4(8)(a)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/8/a) omitted (30.6.2026) by virtue of [The Train Driving Licences and Certificates (Amendment) Regulations 2026 (S.I. 2026/461)](https://www.legislation.gov.uk/uksi/2026/461), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/461/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/461/regulation/2/2/b)
+[^c-ecec74faaeda67704c0e07584b161c6f]: Textual amendment: Words in [reg. 4(8)(a)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/8/a) omitted (30.6.2026) by virtue of [The Train Driving Licences and Certificates (Amendment) Regulations 2026 (S.I. 2026/461)](https://www.legislation.gov.uk/uksi/2026/461), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/461/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/461/regulation/2/2/b)
 
-[^key-d8c589a978c8e7928fb7e17459c78373]: Textual amendment: [Reg. 4(9)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/9) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d8c589a978c8e7928fb7e17459c78373]: Textual amendment: [Reg. 4(9)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/9) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6e855bf1275394b691b71a104952aa2e]: Textual amendment: Words in [reg. 4(11)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/11) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6e855bf1275394b691b71a104952aa2e]: Textual amendment: Words in [reg. 4(11)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/11) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-43b6629e1dff13a2ad927f479c269ef2]: Textual amendment: Words in [reg. 4(11)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/11) substituted (31.1.2022 at 11:00 p.m.) by virtue of [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/3/e)
+[^c-43b6629e1dff13a2ad927f479c269ef2]: Textual amendment: Words in [reg. 4(11)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/11) substituted (31.1.2022 at 11:00 p.m.) by virtue of [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/3/e)
 
-[^key-3321e674422a3fd4444d82cc22d2c5e9]: Textual amendment: Word in [reg. 4(13)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/13) substituted (30.6.2026) by [The Train Driving Licences and Certificates (Amendment) Regulations 2026 (S.I. 2026/461)](https://www.legislation.gov.uk/uksi/2026/461), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/461/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/461/regulation/2/2/c)
+[^c-3321e674422a3fd4444d82cc22d2c5e9]: Textual amendment: Word in [reg. 4(13)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/13) substituted (30.6.2026) by [The Train Driving Licences and Certificates (Amendment) Regulations 2026 (S.I. 2026/461)](https://www.legislation.gov.uk/uksi/2026/461), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/461/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/461/regulation/2/2/c)
 
-[^key-70fb49d28190d6c28200880440cd0872]: Textual amendment: [Reg. 4(14)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/14) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(3)(f)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/3/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-70fb49d28190d6c28200880440cd0872]: Textual amendment: [Reg. 4(14)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/14) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(3)(f)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/3/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3f4bd4eb31ef3e00532910013887c424]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/5/1) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3f4bd4eb31ef3e00532910013887c424]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/5/1) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-de044a0f831be4ba275825132c971011]: Textual amendment: Word in [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2010/724/regulation/8/2/a) substituted (30.6.2026) by [The Train Driving Licences and Certificates (Amendment) Regulations 2026 (S.I. 2026/461)](https://www.legislation.gov.uk/uksi/2026/461), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/461/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/461/regulation/2/3)
+[^c-de044a0f831be4ba275825132c971011]: Textual amendment: Word in [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2010/724/regulation/8/2/a) substituted (30.6.2026) by [The Train Driving Licences and Certificates (Amendment) Regulations 2026 (S.I. 2026/461)](https://www.legislation.gov.uk/uksi/2026/461), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/461/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/461/regulation/2/3)
 
 [^c20193281]: Marginal citation: O.J. No. L 199, 31.7.1985, p. 56.
 
-[^key-dd9d1e2dcc49e673ceec5be0484cd63e]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/uksi/2010/724/regulation/8/5) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 96(2)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/96/2/a)
+[^c-dd9d1e2dcc49e673ceec5be0484cd63e]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/uksi/2010/724/regulation/8/5) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 96(2)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/96/2/a)
 
-[^key-816a92e4661aa8a2cb5088c1cd688cd3]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/uksi/2010/724/regulation/8/6) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 96(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/96/2/b)
+[^c-816a92e4661aa8a2cb5088c1cd688cd3]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/uksi/2010/724/regulation/8/6) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 96(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/96/2/b)
 
-[^key-1b1c594231622793c74282d82ab9b79f]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/9/1A) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1b1c594231622793c74282d82ab9b79f]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/9/1A) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9efebc72d155473cc3d4ac95c432a43a]: Textual amendment: Words in [reg. 9(1A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/9/1A) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/4)
+[^c-9efebc72d155473cc3d4ac95c432a43a]: Textual amendment: Words in [reg. 9(1A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/9/1A) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/4)
 
-[^key-9a3db16c1cc53bf997f1c1811d837a7a]: Textual amendment: [Reg. 13(1A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/13/1A) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9a3db16c1cc53bf997f1c1811d837a7a]: Textual amendment: [Reg. 13(1A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/13/1A) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b85508155f1506b9023f35f1ff9a6ccc]: Textual amendment: [Reg. 17(6)](https://www.legislation.gov.uk/uksi/2010/724/regulation/17/6) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b85508155f1506b9023f35f1ff9a6ccc]: Textual amendment: [Reg. 17(6)](https://www.legislation.gov.uk/uksi/2010/724/regulation/17/6) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-319ce75a040f6db2a5f47191186a48f5]: Textual amendment: Words in [reg. 17(6)](https://www.legislation.gov.uk/uksi/2010/724/regulation/17/6) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/5)
+[^c-319ce75a040f6db2a5f47191186a48f5]: Textual amendment: Words in [reg. 17(6)](https://www.legislation.gov.uk/uksi/2010/724/regulation/17/6) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/5)
 
-[^key-9177e999f49c15cd76cc98bb7c14b2c5]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/18/1) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9177e999f49c15cd76cc98bb7c14b2c5]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/18/1) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-59c64070fdc42d568499cd537cd1007e]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/uksi/2010/724/regulation/18/3) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(8)(b)(i)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/8/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-59c64070fdc42d568499cd537cd1007e]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/uksi/2010/724/regulation/18/3) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(8)(b)(i)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/8/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-21c8a80f1876e134dcf4800d003d33a5]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/uksi/2010/724/regulation/18/3) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/8/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-21c8a80f1876e134dcf4800d003d33a5]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/uksi/2010/724/regulation/18/3) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/8/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-747b2ccb1afe8672f38e6baed0fabc88]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2010/724/regulation/19) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-747b2ccb1afe8672f38e6baed0fabc88]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2010/724/regulation/19) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-92707e83a4a028b9531a7d563a0245aa]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/uksi/2010/724/regulation/19/2) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/6)
+[^c-92707e83a4a028b9531a7d563a0245aa]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/uksi/2010/724/regulation/19/2) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/6)
 
-[^key-c28524105b96daf471488d348a42b35c]: Textual amendment: [Reg. 20(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/20/1)[(1A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/20/1A) substituted for [reg. 20(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/20/1) (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/7/a)
+[^c-c28524105b96daf471488d348a42b35c]: Textual amendment: [Reg. 20(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/20/1)[(1A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/20/1A) substituted for [reg. 20(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/20/1) (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/7/a)
 
-[^key-4c00ec8b63c11706e3e0c713b840ceba]: Textual amendment: [Reg. 20(5)](https://www.legislation.gov.uk/uksi/2010/724/regulation/20/5)[(5A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/20/5A) substituted for [reg. 20(5)](https://www.legislation.gov.uk/uksi/2010/724/regulation/20/5) (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/7/b)
+[^c-4c00ec8b63c11706e3e0c713b840ceba]: Textual amendment: [Reg. 20(5)](https://www.legislation.gov.uk/uksi/2010/724/regulation/20/5)[(5A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/20/5A) substituted for [reg. 20(5)](https://www.legislation.gov.uk/uksi/2010/724/regulation/20/5) (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/7/b)
 
-[^key-db0e9ea2e1cced6af363d8d28e1ae4f5]: Textual amendment: [Reg. 21(3)](https://www.legislation.gov.uk/uksi/2010/724/regulation/21/3) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-db0e9ea2e1cced6af363d8d28e1ae4f5]: Textual amendment: [Reg. 21(3)](https://www.legislation.gov.uk/uksi/2010/724/regulation/21/3) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-790a1cc01ec43626d3e7d07e3af92158]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2010/724/regulation/22) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-790a1cc01ec43626d3e7d07e3af92158]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2010/724/regulation/22) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8f6c4177079eb0edc1bcd4be891fe89c]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/uksi/2010/724/regulation/23/3) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(13)(a)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/13/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8f6c4177079eb0edc1bcd4be891fe89c]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/uksi/2010/724/regulation/23/3) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(13)(a)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/13/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2b3dfaf89409f0e61590d541110585cd]: Textual amendment: [Reg. 23(4)](https://www.legislation.gov.uk/uksi/2010/724/regulation/23/4) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(13)(b)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/13/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2b3dfaf89409f0e61590d541110585cd]: Textual amendment: [Reg. 23(4)](https://www.legislation.gov.uk/uksi/2010/724/regulation/23/4) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(13)(b)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/13/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7c860b6c612fc0bfa3cc0ead6b253ba7]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/24/1) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(14)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7c860b6c612fc0bfa3cc0ead6b253ba7]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/24/1) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(14)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a9392eca51d91e87ecb7fefe833a3fb8]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/2010/724/regulation/26) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(15)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a9392eca51d91e87ecb7fefe833a3fb8]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/2010/724/regulation/26) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(15)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-485cb857e36059f50e37b275f125258b]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/2010/724/regulation/26A) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/8)
+[^c-485cb857e36059f50e37b275f125258b]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/2010/724/regulation/26A) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/8)
 
-[^key-a96fdc0c04917fa527571b4cb66fb345]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2010/724/regulation/27) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(16)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a96fdc0c04917fa527571b4cb66fb345]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2010/724/regulation/27) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(16)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2f1fea4df649043b1bca234a744ac00f]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2010/724/regulation/28) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(17)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f1fea4df649043b1bca234a744ac00f]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2010/724/regulation/28) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(17)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d9ed5d1404a84e4403be1535322e150c]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/30/1) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(18)(a)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/18/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d9ed5d1404a84e4403be1535322e150c]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/30/1) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(18)(a)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/18/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-189febfa2211b421508156db18e651da]: Textual amendment: [Reg. 30(1A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/30/1A) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(18)(b)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/18/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-189febfa2211b421508156db18e651da]: Textual amendment: [Reg. 30(1A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/30/1A) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(18)(b)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/18/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3358fe4c5820bc3bdb33940f3fa93256]: Textual amendment: [Reg. 31(3)(b)](https://www.legislation.gov.uk/uksi/2010/724/regulation/31/3/b) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(19)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3358fe4c5820bc3bdb33940f3fa93256]: Textual amendment: [Reg. 31(3)(b)](https://www.legislation.gov.uk/uksi/2010/724/regulation/31/3/b) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(19)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20193291]: Marginal citation: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-b58404f65d8e2e0cadd8149e7b167873]: Textual amendment: [Reg. 35(7)](https://www.legislation.gov.uk/uksi/2010/724/regulation/35/7) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 83(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/83/a)
+[^c-b58404f65d8e2e0cadd8149e7b167873]: Textual amendment: [Reg. 35(7)](https://www.legislation.gov.uk/uksi/2010/724/regulation/35/7) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 83(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/83/a)
 
 [^c20193311]: Marginal citation: [S.I. 1974/2040](https://www.legislation.gov.uk/uksi/1974/2040).
 
 [^c20193321]: Marginal citation: [S.I. 1974/2068](https://www.legislation.gov.uk/uksi/1974/2068).
 
-[^key-d99606afb13b92f85762babaebf47124]: Textual amendment: [Reg. 36(7)](https://www.legislation.gov.uk/uksi/2010/724/regulation/36/7) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 83(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/83/b)
+[^c-d99606afb13b92f85762babaebf47124]: Textual amendment: [Reg. 36(7)](https://www.legislation.gov.uk/uksi/2010/724/regulation/36/7) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 83(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/83/b)
 
 [^c20193331]: Marginal citation: Section 20(7) was amended by the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), [Schedule 27](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27), [paragraph 49](https://www.legislation.gov.uk/ukpga/2004/33/paragraph/49).
 
@@ -1375,36 +1375,36 @@ An impact assessment of the effect these Regulations will have on the costs of b
 
 [^c20193371]: Marginal citation: Section 33(1)(c) was amended by the [Employment Protection Act 1975 (c.71)](https://www.legislation.gov.uk/ukpga/1975/71), [Schedule 15](https://www.legislation.gov.uk/ukpga/1975/71/schedule/15), [paragraph 11](https://www.legislation.gov.uk/ukpga/1975/71/paragraph/11), and Schedule 18. Section 33(1)(m) was amended by the [Forgery and Counterfeiting Act 1981 (c.45)](https://www.legislation.gov.uk/ukpga/1981/45), the Schedule, Part 1.
 
-[^key-e2e0a8f230b74688e13fbc0446322328]: Textual amendment: Words in reg. 38(5) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(z)(iii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/z/iii)
+[^c-e2e0a8f230b74688e13fbc0446322328]: Textual amendment: Words in reg. 38(5) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(z)(iii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/z/iii)
 
-[^key-ac8489cd09eb0ce4c3829b945d6ae049]: Textual amendment: Words in [reg. 39(1)(a)](https://www.legislation.gov.uk/uksi/2010/724/regulation/39/1/a) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(20)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ac8489cd09eb0ce4c3829b945d6ae049]: Textual amendment: Words in [reg. 39(1)(a)](https://www.legislation.gov.uk/uksi/2010/724/regulation/39/1/a) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(20)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ea2e2504f1ed3b5292c3e21b2115701f]: Textual amendment: [Pt. 15](https://www.legislation.gov.uk/uksi/2010/724/part/15) inserted (21.5.2013) by [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2013/950/regulation/4/4)
+[^c-ea2e2504f1ed3b5292c3e21b2115701f]: Textual amendment: [Pt. 15](https://www.legislation.gov.uk/uksi/2010/724/part/15) inserted (21.5.2013) by [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2013/950/regulation/4/4)
 
-[^key-b2809961553e338f767a11f4f9e3c7b9]: Textual amendment: Words in [Sch. 1 para. 1(2)(g)](https://www.legislation.gov.uk/uksi/2010/724/schedule/1/paragraph/1/2/g) omitted (1.1.2016) by virtue of [The Train Driving Licences and Certificates (Amendment) Regulations 2015 (S.I. 2015/1798)](https://www.legislation.gov.uk/uksi/2015/1798), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1798/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2015/1798/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1798/regulation/3))
+[^c-b2809961553e338f767a11f4f9e3c7b9]: Textual amendment: Words in [Sch. 1 para. 1(2)(g)](https://www.legislation.gov.uk/uksi/2010/724/schedule/1/paragraph/1/2/g) omitted (1.1.2016) by virtue of [The Train Driving Licences and Certificates (Amendment) Regulations 2015 (S.I. 2015/1798)](https://www.legislation.gov.uk/uksi/2015/1798), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1798/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2015/1798/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1798/regulation/3))
 
-[^key-e63c2a438620a39ef758e92434b3f2bb]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/724/schedule/2) heading omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(21)(a)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e63c2a438620a39ef758e92434b3f2bb]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/724/schedule/2) heading omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(21)(a)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20193381]: Marginal citation: ISO standards are published in Geneva by the International Organisation for Standardisation, and are available on their website (www.iso.org.). ISO standard 7810:2003 (identification cards, physical characteristics, edition 3) was published on 31-10-03. ISO standard 7816-1:1998 (identification cards, integrated circuit(s) cards with contacts, Part 1, physical characteristics, edition 1) was published on 8-10-98.
 
 [^c20193391]: Marginal citation: ISO standard 10373-1:2006 (identification cards, test methods, Part 1, General Characteristics, edition 2) was published on 26-4-06.
 
-[^key-1129c735e0bc5b6c09e473d3ddff6201]: Textual amendment: Words in [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2010/724/schedule/2/paragraph/2/a) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(21)(b)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/21/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1129c735e0bc5b6c09e473d3ddff6201]: Textual amendment: Words in [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2010/724/schedule/2/paragraph/2/a) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(21)(b)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/21/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c0b9d38e7aa31224a6da6552b1522039]: Textual amendment: [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/2010/724/schedule/2/paragraph/2/c) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(21)(c)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/21/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c0b9d38e7aa31224a6da6552b1522039]: Textual amendment: [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/2010/724/schedule/2/paragraph/2/c) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(21)(c)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/21/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_85c716fc-033f-4ff9-b80b-e2d61de707fc]: Textual amendment: Words in Sch. 2 para. 2(d)(iv) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(z)(iv)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/z/iv)
 
-[^key-133b37a8141f0087965d0f4b4ce5457a]: Textual amendment: [Sch. 2 para. 2(e)](https://www.legislation.gov.uk/uksi/2010/724/schedule/2/paragraph/2/e) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(21)(c)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/21/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-133b37a8141f0087965d0f4b4ce5457a]: Textual amendment: [Sch. 2 para. 2(e)](https://www.legislation.gov.uk/uksi/2010/724/schedule/2/paragraph/2/e) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(21)(c)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/21/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-631af4d8a803f931d16aeb4d77caf7fa]: Textual amendment: [Sch. 2 para. 2(f)](https://www.legislation.gov.uk/uksi/2010/724/schedule/2/paragraph/2/f) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(21)(c)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/21/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-631af4d8a803f931d16aeb4d77caf7fa]: Textual amendment: [Sch. 2 para. 2(f)](https://www.legislation.gov.uk/uksi/2010/724/schedule/2/paragraph/2/f) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(21)(c)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/21/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_d8982d07-1cd6-4917-ad56-97800b9896c7]: Textual amendment: Words in Sch. 2 para. 2 omitted (21.05.2013) by [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2013/950/regulation/4/5)
 
-[^key-dff597f4ffcdc1155c965c35515f2e65]: Textual amendment: Sch. 3 substituted (1.1.2016) by [The Train Driving Licences and Certificates (Amendment) Regulations 2015 (S.I. 2015/1798)](https://www.legislation.gov.uk/uksi/2015/1798), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1798/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2015/1798/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1798/regulation/3))
+[^c-dff597f4ffcdc1155c965c35515f2e65]: Textual amendment: Sch. 3 substituted (1.1.2016) by [The Train Driving Licences and Certificates (Amendment) Regulations 2015 (S.I. 2015/1798)](https://www.legislation.gov.uk/uksi/2015/1798), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1798/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2015/1798/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1798/regulation/3))
 
-[^key-2191f1370da6eb1a1bdf928445a04979]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2010/724/schedule/4/paragraph/8) substituted (1.1.2016) by [The Train Driving Licences and Certificates (Amendment) Regulations 2015 (S.I. 2015/1798)](https://www.legislation.gov.uk/uksi/2015/1798), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1798/regulation/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2015/1798/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1798/regulation/3))
+[^c-2191f1370da6eb1a1bdf928445a04979]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2010/724/schedule/4/paragraph/8) substituted (1.1.2016) by [The Train Driving Licences and Certificates (Amendment) Regulations 2015 (S.I. 2015/1798)](https://www.legislation.gov.uk/uksi/2015/1798), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1798/regulation/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2015/1798/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1798/regulation/3))
 
-[^key-cdda063c45241e49313563e61d3389e6]: Textual amendment: Words in [Sch. 4 para. 8(2)](https://www.legislation.gov.uk/uksi/2010/724/schedule/4/paragraph/8/2) substituted (31.12.2020) by S.I. 2019/677, reg. 2(22)(a) (as inserted by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [4(1)](https://www.legislation.gov.uk/uksi/2020/318/regulation/4/1))
+[^c-cdda063c45241e49313563e61d3389e6]: Textual amendment: Words in [Sch. 4 para. 8(2)](https://www.legislation.gov.uk/uksi/2010/724/schedule/4/paragraph/8/2) substituted (31.12.2020) by S.I. 2019/677, reg. 2(22)(a) (as inserted by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [4(1)](https://www.legislation.gov.uk/uksi/2020/318/regulation/4/1))
 
-[^key-47828bb72df598e748ef38abf92c4ec3]: Textual amendment: Sch. 4 para. 8(4) inserted by [S.I. 2019/677](https://www.legislation.gov.uk/uksi/2019/677), [reg. 2(22)(b)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/22/b) (as inserted by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [4(1)](https://www.legislation.gov.uk/uksi/2020/318/regulation/4/1))
+[^c-47828bb72df598e748ef38abf92c4ec3]: Textual amendment: Sch. 4 para. 8(4) inserted by [S.I. 2019/677](https://www.legislation.gov.uk/uksi/2019/677), [reg. 2(22)(b)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/22/b) (as inserted by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [4(1)](https://www.legislation.gov.uk/uksi/2020/318/regulation/4/1))

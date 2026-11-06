@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Distribution of planning functions between planning authorities.[^key-229e8028a322f3ccf5fd2a50e1b7c5e9]
+## 86. Distribution of planning functions between planning authorities.[^c-229e8028a322f3ccf5fd2a50e1b7c5e9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-229e8028a322f3ccf5fd2a50e1b7c5e9]: Textual amendment: [S. 86](https://www.legislation.gov.uk/ukpga/1980/65/section/86) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-229e8028a322f3ccf5fd2a50e1b7c5e9]: Textual amendment: [S. 86](https://www.legislation.gov.uk/ukpga/1980/65/section/86) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)

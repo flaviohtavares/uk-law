@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Power to detain vehicles etc. in connection with charges under section 40.[^key-53ce4dd33a60c56e3e193d91c0af6db1]
+## 42. Power to detain vehicles etc. in connection with charges under section 40.[^c-53ce4dd33a60c56e3e193d91c0af6db1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-53ce4dd33a60c56e3e193d91c0af6db1]: Modification: Ss. 40-43 power to apply (with modifications) or amend conferred (18.7.2012) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 124(6)](https://www.legislation.gov.uk/ukpga/2002/41/section/124/6), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2012/1887](https://www.legislation.gov.uk/uksi/2012/1887), [art. 2](https://www.legislation.gov.uk/uksi/2012/1887/article/2)
+[^c-53ce4dd33a60c56e3e193d91c0af6db1]: Modification: Ss. 40-43 power to apply (with modifications) or amend conferred (18.7.2012) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 124(6)](https://www.legislation.gov.uk/ukpga/2002/41/section/124/6), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2012/1887](https://www.legislation.gov.uk/uksi/2012/1887), [art. 2](https://www.legislation.gov.uk/uksi/2012/1887/article/2)
 
 [^c17714921]: Textual amendment: S. 42 repealed (8.12.2002) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 125](https://www.legislation.gov.uk/ukpga/2002/41/section/125), [161](https://www.legislation.gov.uk/ukpga/2002/41/section/161), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/13), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)

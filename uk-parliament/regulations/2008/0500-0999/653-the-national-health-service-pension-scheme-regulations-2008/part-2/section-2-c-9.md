@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.C.9. Effect of member being absent or leaving and rejoining this Section of the Scheme during the contribution option period[^key-b4f0759521b119cc71f46c2213e8a2f4][^key-4da97ab1ef3613c5a3c55d60b46d6ec8]
+## 2.C.9. Effect of member being absent or leaving and rejoining this Section of the Scheme during the contribution option period[^c-b4f0759521b119cc71f46c2213e8a2f4][^c-4da97ab1ef3613c5a3c55d60b46d6ec8]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) is on maternity leave,
 - (c) is on adoption leave,
 - (d) is on paternity leave,
-- (e) is on parental leave , shared parental leave or parental bereavement leave[^key-b36cf27cf7fb97d65417de3f602293fa], or
+- (e) is on parental leave , shared parental leave or parental bereavement leave[^c-b36cf27cf7fb97d65417de3f602293fa], or
 - (f) is on a leave of absence of the kind mentioned in regulation 2.A.4(3).
 
 (2) If paragraph (1) applies—
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b4f0759521b119cc71f46c2213e8a2f4]: Modification: [Regs. 2.C.8-2.C.15](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.8) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/a)[(3)(b)(i)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/3/b/i)
+[^c-b4f0759521b119cc71f46c2213e8a2f4]: Modification: [Regs. 2.C.8-2.C.15](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.8) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/a)[(3)(b)(i)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/3/b/i)
 
-[^key-4da97ab1ef3613c5a3c55d60b46d6ec8]: Textual amendment: Words in [reg. 2.C.9 heading](https://www.legislation.gov.uk/uksi/2008/653/part/2/chapter/2.C/crossheading/additional-contributions-to-purchase-additional-pensions) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
+[^c-4da97ab1ef3613c5a3c55d60b46d6ec8]: Textual amendment: Words in [reg. 2.C.9 heading](https://www.legislation.gov.uk/uksi/2008/653/part/2/chapter/2.C/crossheading/additional-contributions-to-purchase-additional-pensions) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
 
-[^key-b36cf27cf7fb97d65417de3f602293fa]: Textual amendment: Words in [reg. 2.C.9(1)(e)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.9/1/e) substituted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [18(5)](https://www.legislation.gov.uk/uksi/2020/354/regulation/18/5)
+[^c-b36cf27cf7fb97d65417de3f602293fa]: Textual amendment: Words in [reg. 2.C.9(1)(e)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.9/1/e) substituted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [18(5)](https://www.legislation.gov.uk/uksi/2020/354/regulation/18/5)

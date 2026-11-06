@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. New Regulation 13A[^key-506ed9d7df2112d776b771e483b4c69c]
+## 51. New Regulation 13A[^c-506ed9d7df2112d776b771e483b4c69c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-506ed9d7df2112d776b771e483b4c69c]: Textual amendment: [Reg. 51](https://www.legislation.gov.uk/uksi/2013/364/regulation/51) omitted (31.3.2013) by virtue of [The National Health Service (Primary Dental Services) (Miscellaneous Amendments to Charges) Regulations 2013 (S.I. 2013/711)](https://www.legislation.gov.uk/uksi/2013/711), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/711/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2013/711/regulation/2/3)
+[^c-506ed9d7df2112d776b771e483b4c69c]: Textual amendment: [Reg. 51](https://www.legislation.gov.uk/uksi/2013/364/regulation/51) omitted (31.3.2013) by virtue of [The National Health Service (Primary Dental Services) (Miscellaneous Amendments to Charges) Regulations 2013 (S.I. 2013/711)](https://www.legislation.gov.uk/uksi/2013/711), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/711/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2013/711/regulation/2/3)

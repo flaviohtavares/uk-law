@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Prohibition of parking at dropped footways etc.[^key-131c1be2db4295e9a22dfc9795634de8][^key-8e88aa48d6f22403080f2e10f6c869d1]
+## 86. Prohibition of parking at dropped footways etc.[^c-131c1be2db4295e9a22dfc9795634de8][^c-8e88aa48d6f22403080f2e10f6c869d1]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ A “**designated parking place**” means a parking place designated by order u
 
 This exception does not apply in the case of a shared driveway.
 
-(4) The third exception is where the vehicle is being used —[^key-c8d01337c9743b1bdff3a94d0c280c06]
+(4) The third exception is where the vehicle is being used —[^c-c8d01337c9743b1bdff3a94d0c280c06]
 
 - (a) for fire brigade or police purposes, or
 - (b) for ambulance purposes or for the purpose of providing a response to an emergency at the request of an NHS ambulance service.
@@ -77,14 +77,14 @@ This exception does not apply in the case of a shared driveway.
 - (a) in Greater London, by an order under section 6 of the Road Traffic Regulation Act 1984 (c. 27),
 - (b) elsewhere in England and Wales, by an order under section 1 of that Act.
 
-(10)[^key-cc859f016b9fe7cf3dc7e2eec98d25d8] In this section “ **local authority** ” includes a non-metropolitan district council.
+(10)[^c-cc859f016b9fe7cf3dc7e2eec98d25d8] In this section “ **local authority** ” includes a non-metropolitan district council.
 
 ## Annotations
 
-[^key-131c1be2db4295e9a22dfc9795634de8]: Commencement: S. 86 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c)
+[^c-131c1be2db4295e9a22dfc9795634de8]: Commencement: S. 86 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c)
 
-[^key-8e88aa48d6f22403080f2e10f6c869d1]: Commencement: S. 86 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(c)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
+[^c-8e88aa48d6f22403080f2e10f6c869d1]: Commencement: S. 86 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(c)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
 
-[^key-c8d01337c9743b1bdff3a94d0c280c06]: Textual amendment: Words in [s. 86(4)](https://www.legislation.gov.uk/ukpga/2004/18/section/86/4) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/d), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/9/paragraph/3)
+[^c-c8d01337c9743b1bdff3a94d0c280c06]: Textual amendment: Words in [s. 86(4)](https://www.legislation.gov.uk/ukpga/2004/18/section/86/4) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/d), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/9/paragraph/3)
 
-[^key-cc859f016b9fe7cf3dc7e2eec98d25d8]: Textual amendment: S. 86(10) inserted (26.1.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 127(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/127/4), [134(2)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/2)
+[^c-cc859f016b9fe7cf3dc7e2eec98d25d8]: Textual amendment: S. 86(10) inserted (26.1.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 127(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/127/4), [134(2)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/2)

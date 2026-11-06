@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 486A. Overview[^key-d2c098ff5a88d27bc5ce87b60d28df9c][^key-95c1fbd74622548679c7f1d3760fe55c]
+## 486A. Overview[^c-d2c098ff5a88d27bc5ce87b60d28df9c][^c-95c1fbd74622548679c7f1d3760fe55c]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d2c098ff5a88d27bc5ce87b60d28df9c]: Textual amendment: Pt. 6 Ch. 2A inserted (with effect in accordance with Sch. 24 paras. 11, 13-16 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 para. 3](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/3)
+[^c-d2c098ff5a88d27bc5ce87b60d28df9c]: Textual amendment: Pt. 6 Ch. 2A inserted (with effect in accordance with Sch. 24 paras. 11, 13-16 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 para. 3](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/3)
 
-[^key-95c1fbd74622548679c7f1d3760fe55c]: Modification: Pt. 6 Ch. 2A applied by 2010 c. 8, s. 371SP(2) (as inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1))
+[^c-95c1fbd74622548679c7f1d3760fe55c]: Modification: Pt. 6 Ch. 2A applied by 2010 c. 8, s. 371SP(2) (as inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1))

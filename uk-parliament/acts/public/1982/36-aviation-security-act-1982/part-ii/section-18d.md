@@ -35,7 +35,7 @@ summary: ''
   - (i) is unnecessary for complying with the general requirements specified as mentioned in paragraph (a) above and should be dispensed with, or
   - (ii) having regard to the terms of those general requirements, is excessively onerous or inconvenient and should be modified in a manner specified in the notice of objection under subsection (1) above.
 
-(3A)[^key-7d1a7ff5f71041feb6186663e38e28ff] On receipt of an objection to an enforcement notice under subsection (1) the Secretary of State must—
+(3A)[^c-7d1a7ff5f71041feb6186663e38e28ff] On receipt of an objection to an enforcement notice under subsection (1) the Secretary of State must—
 
 - (a) give a copy of the objection to the authorised person who served the enforcement notice and the CAA ,
 - (b) consider the objection,
@@ -43,15 +43,15 @@ summary: ''
 - (d) give a decision notice to the person who made the objection, and
 - (e) give a copy of the decision notice to the authorised person who served the enforcement notice and the CAA.
 
-(4) In this section “[^key-ce4db2c368f61fcf6ad29cfe5615561d] **decision notice** ” means a notice in writing either —
+(4) In this section “[^c-ce4db2c368f61fcf6ad29cfe5615561d] **decision notice** ” means a notice in writing either —
 
 - (a) confirming the enforcement notice as originally served, or
-- (b) confirming it subject to one or more modifications specified in the decision notice[^key-63f523d4c08420278d49b23ecc114a72], or
+- (b) confirming it subject to one or more modifications specified in the decision notice[^c-63f523d4c08420278d49b23ecc114a72], or
 - (c) cancelling the enforcement notice.
 
 (5) An enforcement notice to which an objection has been made under subsection (1) above —
 
-- (a) if it contains such a requirement as is mentioned in section 18B(3) or (5)(b) of this Act, shall continue to have effect as originally served until it has been cancelled, or it has been confirmed subject to modification by a decision notice[^key-788f669a8978b326b023c72230a12848] , and
+- (a) if it contains such a requirement as is mentioned in section 18B(3) or (5)(b) of this Act, shall continue to have effect as originally served until it has been cancelled, or it has been confirmed subject to modification by a decision notice[^c-788f669a8978b326b023c72230a12848] , and
 - (b) in any other case, shall not take effect until it has been confirmed (with or without modification) by a notice under subsection (4) above.
 
 ## Annotations
@@ -64,10 +64,10 @@ summary: ''
 
 [^c794615]: Textual amendment: Ss. 18A–18E inserted by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [s. 4](https://www.legislation.gov.uk/ukpga/1990/31/section/4)
 
-[^key-7d1a7ff5f71041feb6186663e38e28ff]: Textual amendment: S. 18D(3A) inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 14(2)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/14/2) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
+[^c-7d1a7ff5f71041feb6186663e38e28ff]: Textual amendment: S. 18D(3A) inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 14(2)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/14/2) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
 
-[^key-ce4db2c368f61fcf6ad29cfe5615561d]: Textual amendment: Words in s. 18D(4) substituted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 14(3)(a)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/14/3/a) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
+[^c-ce4db2c368f61fcf6ad29cfe5615561d]: Textual amendment: Words in s. 18D(4) substituted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 14(3)(a)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/14/3/a) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
 
-[^key-63f523d4c08420278d49b23ecc114a72]: Textual amendment: Words in s. 18D(4)(b) substituted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/14/3/b) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
+[^c-63f523d4c08420278d49b23ecc114a72]: Textual amendment: Words in s. 18D(4)(b) substituted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/14/3/b) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
 
-[^key-788f669a8978b326b023c72230a12848]: Textual amendment: Words in s. 18D(5) substituted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 14(4)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/14/4) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
+[^c-788f669a8978b326b023c72230a12848]: Textual amendment: Words in s. 18D(5) substituted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 14(4)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/14/4) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)

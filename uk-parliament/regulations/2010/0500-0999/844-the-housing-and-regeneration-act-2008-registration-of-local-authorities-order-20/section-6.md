@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Amendment of other enactments[^key-cc0bdfe4c48699cca5b451c0e12d3185]
+## 6. Amendment of other enactments[^c-cc0bdfe4c48699cca5b451c0e12d3185]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The enactments mentioned in Schedule 2 are amended as provided there.
 
 ## Annotations
 
-[^key-cc0bdfe4c48699cca5b451c0e12d3185]: Commencement: Art. 6 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2)
+[^c-cc0bdfe4c48699cca5b451c0e12d3185]: Commencement: Art. 6 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2)

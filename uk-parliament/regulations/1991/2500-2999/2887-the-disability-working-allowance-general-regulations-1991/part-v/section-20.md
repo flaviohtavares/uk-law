@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Calculation of weekly amount of income[^key-7771bc993d283a8c94583014437193e0]
+## 20. Calculation of weekly amount of income[^c-7771bc993d283a8c94583014437193e0]
 
 *Extent: E+W+S*
 
-(1) For the purposes of regulations 16 (normal weekly earnings of employed earners) and 18 (normal weekly income other than earnings), where the claimant’s pay period or, as the case may be, the period in respect of which a payment is made—[^key-0df9f3dde3754a2e0bff5fbc6ab65768]
+(1) For the purposes of regulations 16 (normal weekly earnings of employed earners) and 18 (normal weekly income other than earnings), where the claimant’s pay period or, as the case may be, the period in respect of which a payment is made—[^c-0df9f3dde3754a2e0bff5fbc6ab65768]
 
 - (a) does not exceed a week, the weekly amount shall be the amount of that payment;
 - (b) exceeds a week, the weekly amount shall be determined—
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7771bc993d283a8c94583014437193e0]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1991/2887/regulation/20) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-7771bc993d283a8c94583014437193e0]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1991/2887/regulation/20) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
-[^key-0df9f3dde3754a2e0bff5fbc6ab65768]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/20/1) substituted (7.1.1997) by [The Disability Working Allowance and Family Credit (General) Amendment Regulations 1996 (S.I. 1996/3137)](https://www.legislation.gov.uk/uksi/1996/3137), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3137/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/1996/3137/regulation/2/5)
+[^c-0df9f3dde3754a2e0bff5fbc6ab65768]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/20/1) substituted (7.1.1997) by [The Disability Working Allowance and Family Credit (General) Amendment Regulations 1996 (S.I. 1996/3137)](https://www.legislation.gov.uk/uksi/1996/3137), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3137/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/1996/3137/regulation/2/5)

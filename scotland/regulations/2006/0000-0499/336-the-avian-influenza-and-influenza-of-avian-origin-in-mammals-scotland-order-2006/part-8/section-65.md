@@ -28,7 +28,7 @@ summary: ''
 
 (4) Any person who is required to disinfect under this Order must–
 
-- (a) use disinfectants authorised by the Scottish Ministers under the Diseases of Animals (Approved Disinfectants) (Scotland) Order 2008[^key-662a92cde77d6d0ea67b2e3b72c27b65];
+- (a) use disinfectants authorised by the Scottish Ministers under the Diseases of Animals (Approved Disinfectants) (Scotland) Order 2008[^c-662a92cde77d6d0ea67b2e3b72c27b65];
 - (b) use them at the concentrations approved under that Order; and
 - (c) use them in accordance with manufacturer's instructions (if any), or, if a veterinary inspector has instructed otherwise, in accordance with the instructions of the veterinary inspector.
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-662a92cde77d6d0ea67b2e3b72c27b65]: Textual amendment: Words in [art. 65(4)(a)](https://www.legislation.gov.uk/ssi/2006/336/article/65/4/a) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [27(4)](https://www.legislation.gov.uk/ssi/2018/391/regulation/27/4)
+[^c-662a92cde77d6d0ea67b2e3b72c27b65]: Textual amendment: Words in [art. 65(4)(a)](https://www.legislation.gov.uk/ssi/2006/336/article/65/4/a) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [27(4)](https://www.legislation.gov.uk/ssi/2018/391/regulation/27/4)

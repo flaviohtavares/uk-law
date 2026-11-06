@@ -29,7 +29,7 @@ Merchant Shipping Act 1988 (repealed)
 
 1988 c. 12
 
-[^key-6969d7525c7383f119f1e2515d12a9f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6969d7525c7383f119f1e2515d12a9f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -225,4 +225,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-6969d7525c7383f119f1e2515d12a9f5]: Textual amendment: Act repealed (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 26](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/26)
+[^c-6969d7525c7383f119f1e2515d12a9f5]: Textual amendment: Act repealed (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 26](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/26)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Determination of the winning assignment stage bids for numbered 2.6 GHz paired frequency lots[^key-07d72eda6de524a69b89fb49b2a851a7]
+## 104. Determination of the winning assignment stage bids for numbered 2.6 GHz paired frequency lots[^c-07d72eda6de524a69b89fb49b2a851a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07d72eda6de524a69b89fb49b2a851a7]: Commencement: Reg. 104 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-07d72eda6de524a69b89fb49b2a851a7]: Commencement: Reg. 104 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

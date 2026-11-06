@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Quorum at meetings[^key-fd976a1dc5e63375e336afa0972488fe]
+## 45. Quorum at meetings[^c-fd976a1dc5e63375e336afa0972488fe]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ the meeting must not commence until at least the expiry of 15 minutes after the 
 
 ## Annotations
 
-[^key-fd976a1dc5e63375e336afa0972488fe]: Commencement: Rule 45 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-fd976a1dc5e63375e336afa0972488fe]: Commencement: Rule 45 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

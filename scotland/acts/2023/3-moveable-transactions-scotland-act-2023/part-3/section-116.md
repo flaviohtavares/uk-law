@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116. Good faith[^key-6d55372e932008e4dcc99fcda83bf228][^key-e37d85dcddf730aab8090363c0d4a8b6]
+## 116. Good faith[^c-6d55372e932008e4dcc99fcda83bf228][^c-e37d85dcddf730aab8090363c0d4a8b6]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6d55372e932008e4dcc99fcda83bf228]: Commencement: S. 116 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
+[^c-6d55372e932008e4dcc99fcda83bf228]: Commencement: S. 116 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
 
-[^key-e37d85dcddf730aab8090363c0d4a8b6]: Commencement: [S. 116](https://www.legislation.gov.uk/asp/2023/3/section/116) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-e37d85dcddf730aab8090363c0d4a8b6]: Commencement: [S. 116](https://www.legislation.gov.uk/asp/2023/3/section/116) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)

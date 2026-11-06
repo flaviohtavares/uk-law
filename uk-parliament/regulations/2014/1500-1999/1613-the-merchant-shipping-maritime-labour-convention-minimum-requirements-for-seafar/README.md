@@ -48,7 +48,7 @@ Coming into force
 
 [^c22162881]The Secretary of State makes the following Regulations in exercise of the powers conferred by section 85(1)(a) and (b), (3) and (5) to (7) and section 86(1) and (2) of the Merchant Shipping Act 1995 and by section 2(2) of the European Communities Act 1972.
 
-In accordance with section 86(4) of the Merchant Shipping Act 1995 the Secretary of State has consulted the persons referred to in that section.[^key-af7a2b885f47ea19101ac5a0d5f7d4e0][^key-0f0e701797fab455469eabb46ea701d4]
+In accordance with section 86(4) of the Merchant Shipping Act 1995 the Secretary of State has consulted the persons referred to in that section.[^c-af7a2b885f47ea19101ac5a0d5f7d4e0][^c-0f0e701797fab455469eabb46ea701d4]
 
 ## Contents
 
@@ -136,7 +136,7 @@ In accordance with section 86(4) of the Merchant Shipping Act 1995 the Secretary
 - [Section 52 — Shipowners' liability in respect of burial or cremation of seafarer](part-10/section-52.md)
 - [Section 53 — Interpretation of Part 10](part-10/section-53.md)
 
-### PART 10A — Security against shipowner’s liability for death or long term disability of seafarers[^key-b2476b875e9b569c760afecc0f36919d]
+### PART 10A — Security against shipowner’s liability for death or long term disability of seafarers[^c-b2476b875e9b569c760afecc0f36919d]
 
 - [Section 53A — Interpretation of Part 10A](part-10a/section-53a.md)
 - [Section 53B — Shipowner’s security requirement applicable to all ships](part-10a/section-53b.md)
@@ -149,7 +149,7 @@ In accordance with section 86(4) of the Merchant Shipping Act 1995 the Secretary
 - [Section 53I — Duty on shipowner’s security provider to notify the Secretary of State where a shipowner’s security has been terminated](part-10a/section-53i.md)
 - [Section 53J — Duty on shipowner to notify seafarers if shipowner’s security is to be terminated](part-10a/section-53j.md)
 
-### PART 10B — Security against the abandonment of seafarers[^key-317947cde359e390675327c291054563]
+### PART 10B — Security against the abandonment of seafarers[^c-317947cde359e390675327c291054563]
 
 - [Section 53K — Interpretation of Part 10B](part-10b/section-53k.md)
 - [Section 53L — Abandonment](part-10b/section-53l.md)
@@ -252,10 +252,10 @@ Nine full impact assessments of the effect that this instrument will have on the
 
 [^c22162881]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Sections 85 and 86 were amended by section 8 of the [Merchant Shipping and Maritime Security Act 1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), and are applied to hovercraft by article 4 of the [Hovercraft (Application of Enactments) Order 1989 (S.I. 1989/1350)](https://www.legislation.gov.uk/uksi/1989/1350) (sections 85 and 86 re-enact sections 21 and 22 of the [Merchant Shipping Act 1979 (c.39)](https://www.legislation.gov.uk/ukpga/1979/39), to which that article refers). There are other amendments which are not relevant to these Regulations.
 
-[^key-af7a2b885f47ea19101ac5a0d5f7d4e0]: Modification: Regulations excluded by SI 1998/2771 Sch. 1 Table (as substituted (6.4.2016) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) (Amendment) Regulations 2016 (S.I. 2016/353)](https://www.legislation.gov.uk/uksi/2016/353), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/353/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2016/353/regulation/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/353/schedule/1))
+[^c-af7a2b885f47ea19101ac5a0d5f7d4e0]: Modification: Regulations excluded by SI 1998/2771 Sch. 1 Table (as substituted (6.4.2016) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) (Amendment) Regulations 2016 (S.I. 2016/353)](https://www.legislation.gov.uk/uksi/2016/353), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/353/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2016/353/regulation/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/353/schedule/1))
 
-[^key-0f0e701797fab455469eabb46ea701d4]: Modification: Regulations excluded by SI 1998/2771 Sch. 2 Table (as substituted (6.4.2016) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) (Amendment) Regulations 2016 (S.I. 2016/353)](https://www.legislation.gov.uk/uksi/2016/353), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/353/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/353/regulation/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/353/schedule/2))
+[^c-0f0e701797fab455469eabb46ea701d4]: Modification: Regulations excluded by SI 1998/2771 Sch. 2 Table (as substituted (6.4.2016) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) (Amendment) Regulations 2016 (S.I. 2016/353)](https://www.legislation.gov.uk/uksi/2016/353), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/353/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/353/regulation/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/353/schedule/2))
 
-[^key-b2476b875e9b569c760afecc0f36919d]: Textual amendment: Pt. 10A inserted (12.7.2018) by [The Merchant Shipping (Maritime Labour Convention) (Compulsory Financial Security) (Amendment) Regulations 2018 (S.I. 2018/667)](https://www.legislation.gov.uk/uksi/2018/667), [regs. 1](https://www.legislation.gov.uk/uksi/2018/667/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2018/667/regulation/2/7)
+[^c-b2476b875e9b569c760afecc0f36919d]: Textual amendment: Pt. 10A inserted (12.7.2018) by [The Merchant Shipping (Maritime Labour Convention) (Compulsory Financial Security) (Amendment) Regulations 2018 (S.I. 2018/667)](https://www.legislation.gov.uk/uksi/2018/667), [regs. 1](https://www.legislation.gov.uk/uksi/2018/667/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2018/667/regulation/2/7)
 
-[^key-317947cde359e390675327c291054563]: Textual amendment: [Pt. 10B](https://www.legislation.gov.uk/uksi/2014/1613/part/10B) inserted (12.7.2018) by [The Merchant Shipping (Maritime Labour Convention) (Compulsory Financial Security) (Amendment) Regulations 2018 (S.I. 2018/667)](https://www.legislation.gov.uk/uksi/2018/667), [regs. 1](https://www.legislation.gov.uk/uksi/2018/667/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2018/667/regulation/2/7)
+[^c-317947cde359e390675327c291054563]: Textual amendment: [Pt. 10B](https://www.legislation.gov.uk/uksi/2014/1613/part/10B) inserted (12.7.2018) by [The Merchant Shipping (Maritime Labour Convention) (Compulsory Financial Security) (Amendment) Regulations 2018 (S.I. 2018/667)](https://www.legislation.gov.uk/uksi/2018/667), [regs. 1](https://www.legislation.gov.uk/uksi/2018/667/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2018/667/regulation/2/7)

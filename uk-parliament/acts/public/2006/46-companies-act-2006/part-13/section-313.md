@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-060fbe922df595816e9e5552acee9a77]
+[^c-060fbe922df595816e9e5552acee9a77]
 
 (1) Where a company gives notice of—
 
@@ -41,4 +41,4 @@ subsection (1) has effect subject to any provision of the company's articles.
 
 [^c19662121]: Commencement: S. 313 wholly in force at 1.10.2007; s. 313 not in force at Royal Assent see s. 1300; s. 313 in force at 1.10.2007 by [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2007/2194/article/2/1/f) (with saving in [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12) and subject to transitional adaptations specified in [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/1))
 
-[^key-060fbe922df595816e9e5552acee9a77]: Modification: [Pt. 13](https://www.legislation.gov.uk/ukpga/2006/46/part/13) modified (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1313/regulation/4)
+[^c-060fbe922df595816e9e5552acee9a77]: Modification: [Pt. 13](https://www.legislation.gov.uk/ukpga/2006/46/part/13) modified (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1313/regulation/4)

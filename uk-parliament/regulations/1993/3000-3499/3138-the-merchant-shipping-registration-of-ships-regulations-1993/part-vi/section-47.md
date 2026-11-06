@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Declaration of eligibility on transfer or transmission[^key-754c2555f3c9bc96494259bf993589a4][^key-3cb3d99323437a133d1dc09ef77fadb3]
+## 47. Declaration of eligibility on transfer or transmission[^c-754c2555f3c9bc96494259bf993589a4][^c-3cb3d99323437a133d1dc09ef77fadb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ Every application for the registration of a transfer or transmission of a regist
 
 ## Annotations
 
-[^key-754c2555f3c9bc96494259bf993589a4]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1993/3138/regulation/47) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-754c2555f3c9bc96494259bf993589a4]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1993/3138/regulation/47) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-3cb3d99323437a133d1dc09ef77fadb3]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/uksi/1993/3138/regulation/47) substituted (31.12.2020) by [The Merchant Shipping (Registration of Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/509)](https://www.legislation.gov.uk/uksi/2019/509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/509/regulation/1/3), [15](https://www.legislation.gov.uk/uksi/2019/509/regulation/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3cb3d99323437a133d1dc09ef77fadb3]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/uksi/1993/3138/regulation/47) substituted (31.12.2020) by [The Merchant Shipping (Registration of Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/509)](https://www.legislation.gov.uk/uksi/2019/509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/509/regulation/1/3), [15](https://www.legislation.gov.uk/uksi/2019/509/regulation/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

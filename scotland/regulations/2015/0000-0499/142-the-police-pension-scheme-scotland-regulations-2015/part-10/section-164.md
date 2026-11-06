@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 164. Employer contributions[^key-74e427369bce1278f99712081520a3b7]
+## 164. Employer contributions[^c-74e427369bce1278f99712081520a3b7]
 
 *Extent: S*
 
-(1) Each employer of an active member of this scheme must pay contributions to this scheme in respect of the member at the rate of 37.9%[^key-c08360fa53a33f578b6c0b21cfae3f13] of the member’s annualised rate of pensionable earnings (“employer contributions”).
+(1) Each employer of an active member of this scheme must pay contributions to this scheme in respect of the member at the rate of 37.9%[^c-c08360fa53a33f578b6c0b21cfae3f13] of the member’s annualised rate of pensionable earnings (“employer contributions”).
 
 (2) Employer contributions must be paid at the intervals the scheme manager in accordance with actuarial guidance may for the time being determine.
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74e427369bce1278f99712081520a3b7]: Commencement: Reg. 164 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-74e427369bce1278f99712081520a3b7]: Commencement: Reg. 164 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-c08360fa53a33f578b6c0b21cfae3f13]: Textual amendment: Word in [reg. 164(1)](https://www.legislation.gov.uk/ssi/2015/142/regulation/164/1) substituted (with effect from 1.4.2024) by [The Police Pension Scheme (Scotland) Amendment Regulations 2024 (S.S.I. 2024/80)](https://www.legislation.gov.uk/ssi/2024/80), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/80/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2024/80/regulation/5)
+[^c-c08360fa53a33f578b6c0b21cfae3f13]: Textual amendment: Word in [reg. 164(1)](https://www.legislation.gov.uk/ssi/2015/142/regulation/164/1) substituted (with effect from 1.4.2024) by [The Police Pension Scheme (Scotland) Amendment Regulations 2024 (S.S.I. 2024/80)](https://www.legislation.gov.uk/ssi/2024/80), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/80/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2024/80/regulation/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Abolition of Independent Remuneration Panel for Wales[^key-25f0c9e8585576adf6d8c767e93b3941][^key-eb17cfb041ec67d33317337fca64f65b]
+## 56. Abolition of Independent Remuneration Panel for Wales[^c-25f0c9e8585576adf6d8c767e93b3941][^c-eb17cfb041ec67d33317337fca64f65b]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In the [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.
 
 ## Annotations
 
-[^key-25f0c9e8585576adf6d8c767e93b3941]: Commencement: S. 56 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-25f0c9e8585576adf6d8c767e93b3941]: Commencement: S. 56 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-eb17cfb041ec67d33317337fca64f65b]: Commencement: [S. 56](https://www.legislation.gov.uk/asc/2024/5/section/56) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/b)
+[^c-eb17cfb041ec67d33317337fca64f65b]: Commencement: [S. 56](https://www.legislation.gov.uk/asc/2024/5/section/56) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Equipment of polling stations[^key-a361acf49d309376ddcdafe44f80b031]
+## 22. Equipment of polling stations[^c-a361acf49d309376ddcdafe44f80b031]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ The list provided under sub-paragraph (d) must be in the form set out in Form 13
 
 (7) That notice must be in the form set out in Form 14 in Schedule 4 (for a polling station in England, Wales or Scotland) or Form 15 in that Schedule (for a polling station in Northern Ireland).
 
-(8)[^key-9688f9a669e74cbbe688037b11599dde] In every compartment of every polling station there must be exhibited the notice—
+(8)[^c-9688f9a669e74cbbe688037b11599dde] In every compartment of every polling station there must be exhibited the notice—
 
 > - Put a cross \[X\] in one box only. Put no other mark on the ballot paper, or your vote may not be counted
 
@@ -61,8 +61,8 @@ The list provided under sub-paragraph (d) must be in the form set out in Form 13
 
 ## Annotations
 
-[^key-a361acf49d309376ddcdafe44f80b031]: Commencement: Reg. 22 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-a361acf49d309376ddcdafe44f80b031]: Commencement: Reg. 22 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
-[^key-9688f9a669e74cbbe688037b11599dde]: Modification: [Reg. 22(8)](https://www.legislation.gov.uk/uksi/2016/219/regulation/22/8) modified (W.) (27.2.2016) by [The European Union Referendum (Welsh Forms) Order 2016 (S.I. 2016/220)](https://www.legislation.gov.uk/uksi/2016/220), [arts. 1](https://www.legislation.gov.uk/uksi/2016/220/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2016/220/article/4/1)
+[^c-9688f9a669e74cbbe688037b11599dde]: Modification: [Reg. 22(8)](https://www.legislation.gov.uk/uksi/2016/219/regulation/22/8) modified (W.) (27.2.2016) by [The European Union Referendum (Welsh Forms) Order 2016 (S.I. 2016/220)](https://www.legislation.gov.uk/uksi/2016/220), [arts. 1](https://www.legislation.gov.uk/uksi/2016/220/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2016/220/article/4/1)
 
 [^f00025]: Footnote: Section 13B was inserted by paragraphs 1 and 6 of Schedule 1 to the Representation of the People Act [2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2); subsections (3B) and (3D) were inserted by section 11 of the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22). Section 13BA(9) was inserted by section 6(2) of the Northern Ireland (Miscellaneous Provisions) Act [2006 (c.33)](https://www.legislation.gov.uk/ukpga/2006/33).

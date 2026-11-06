@@ -33,7 +33,7 @@ Regulations laid before the Assembly under section 46(7) of the Employment Act 2
 
 Employment
 
-The Fixed-term Employees (Prevention of Less Favourable Treatment) (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^key-8d53445e9e084c8925532359a4804432]
+The Fixed-term Employees (Prevention of Less Favourable Treatment) (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^c-8d53445e9e084c8925532359a4804432]
 
 Made
 
@@ -43,26 +43,26 @@ Coming into operation 
 
 27th October 2008
 
-[^key-8d53445e9e084c8925532359a4804432]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d53445e9e084c8925532359a4804432]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-8d53445e9e084c8925532359a4804432]
+## 1. Citation, commencement and interpretation[^c-8d53445e9e084c8925532359a4804432]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-8d53445e9e084c8925532359a4804432] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8d53445e9e084c8925532359a4804432] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Fixed-term Employees (Prevention of Less Favourable Treatment) Regulations (Northern Ireland) 2002[^key-8d53445e9e084c8925532359a4804432]
+## 3. Amendment of the Fixed-term Employees (Prevention of Less Favourable Treatment) Regulations (Northern Ireland) 2002[^c-8d53445e9e084c8925532359a4804432]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d53445e9e084c8925532359a4804432]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d53445e9e084c8925532359a4804432]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8d53445e9e084c8925532359a4804432]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d53445e9e084c8925532359a4804432]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8d53445e9e084c8925532359a4804432]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/326) revoked (27.10.2008) by [The Fixed-term Employees (Prevention of Less Favourable Treatment) (Amendment) (No. 2) Regulations (Northern Ireland) 2008 (S.R. 2008/416)](https://www.legislation.gov.uk/nisr/2008/416), [regs. 1](https://www.legislation.gov.uk/nisr/2008/416/regulation/1), [3](https://www.legislation.gov.uk/nisr/2008/416/regulation/3)
+[^c-8d53445e9e084c8925532359a4804432]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/326) revoked (27.10.2008) by [The Fixed-term Employees (Prevention of Less Favourable Treatment) (Amendment) (No. 2) Regulations (Northern Ireland) 2008 (S.R. 2008/416)](https://www.legislation.gov.uk/nisr/2008/416), [regs. 1](https://www.legislation.gov.uk/nisr/2008/416/regulation/1), [3](https://www.legislation.gov.uk/nisr/2008/416/regulation/3)

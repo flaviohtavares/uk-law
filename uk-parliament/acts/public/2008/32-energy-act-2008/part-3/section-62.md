@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Power to apply this Chapter to other nuclear installations[^key-26291ef44ec23c282e055c5d1e3ffef7]
+## 62. Power to apply this Chapter to other nuclear installations[^c-26291ef44ec23c282e055c5d1e3ffef7]
 
 *Extent: E+W+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26291ef44ec23c282e055c5d1e3ffef7]: Commencement: S. 62 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
+[^c-26291ef44ec23c282e055c5d1e3ffef7]: Commencement: S. 62 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)

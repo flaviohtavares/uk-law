@@ -40,7 +40,7 @@ Coming into force
 
 The National Assembly for Wales, in exercise of the powers conferred upon it by sections 121 and 126(4) of the National Health Service Act 1977[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement, application and interpretation[^key-522df3cfb1c20343108280922687cafe]
+## 1. Citation, commencement, application and interpretation[^c-522df3cfb1c20343108280922687cafe]
 
 (1) These Regulations may be cited as the National Health Service (Charges to Overseas Visitors) (Amendment) (Wales) Regulations 2004 and shall come into force on 31st May 2004.
 
@@ -48,7 +48,7 @@ The National Assembly for Wales, in exercise of the powers conferred upon it by 
 
 (3) In these Regulations “the principal Regulations” (“*y prif Reoliadau*”) means the National Health Service (Charges to Overseas Visitors) Regulations 1989[^f00002].
 
-## 2. Amendment of regulation 1 of the principal Regulations[^key-2b9cfbcc7145c6192c44b03a176c214b]
+## 2. Amendment of regulation 1 of the principal Regulations[^c-2b9cfbcc7145c6192c44b03a176c214b]
 
 In regulation 1(2) of the principal Regulations (citation, commencement and interpretation) in the appropriate alphabetical position insert —
 
@@ -58,7 +58,7 @@ In regulation 1(2) of the principal Regulations (citation, commencement and inte
 
 .
 
-## 3. Amendment of regulation 4 of the principal Regulations[^key-3774a600a107b258e3c296a5b1053209]
+## 3. Amendment of regulation 4 of the principal Regulations[^c-3774a600a107b258e3c296a5b1053209]
 
 (1) In regulation 4 of the principal Regulations (overseas visitors exempt from charges) —
 
@@ -97,7 +97,7 @@ In regulation 1(2) of the principal Regulations (citation, commencement and inte
 
 .
 
-## 4. Exemption from charges during long term visits by United Kingdom pensioners[^key-6defa0169c5f39586f323d2168fb4919]
+## 4. Exemption from charges during long term visits by United Kingdom pensioners[^c-6defa0169c5f39586f323d2168fb4919]
 
 After regulation 4 (overseas visitors exempt from charges) insert a new regulation —
 
@@ -115,7 +115,7 @@ After regulation 4 (overseas visitors exempt from charges) insert a new regulati
 
 .
 
-## 5. Amendment of regulation 5 of the principal Regulations[^key-4f2459e96cce554cb54ddf7a815c9fee]
+## 5. Amendment of regulation 5 of the principal Regulations[^c-4f2459e96cce554cb54ddf7a815c9fee]
 
 In regulation 5 (exemption from charges for treatment the need for which arose during the visit) —
 
@@ -128,7 +128,7 @@ In regulation 5 (exemption from charges for treatment the need for which arose d
 
   .
 
-## 6. Exemption from charges for exceptional humanitarian reasons[^key-fa784276a09d0535943e2db0e7f66940]
+## 6. Exemption from charges for exceptional humanitarian reasons[^c-fa784276a09d0535943e2db0e7f66940]
 
 After regulation 6A (exemption from charges for exceptional humanitarian reasons) insert a new regulation —
 
@@ -136,7 +136,7 @@ After regulation 6A (exemption from charges for exceptional humanitarian reasons
 
 .
 
-## 7. Amendment of Schedule 1 to the principal Regulations[^key-4adb026ac4387c979c7fbe90ce704b51]
+## 7. Amendment of Schedule 1 to the principal Regulations[^c-4adb026ac4387c979c7fbe90ce704b51]
 
 After Part III of Schedule I to the principal Regulations (diseases for the treatment of which no charge is to be made) add the following—
 
@@ -148,7 +148,7 @@ After Part III of Schedule I to the principal Regulations (diseases for the trea
 
 .
 
-## 8. Amendment of Schedule 2 to the principal Regulations[^key-8445b48a6f5bb138a86f6ac25595de6d]
+## 8. Amendment of Schedule 2 to the principal Regulations[^c-8445b48a6f5bb138a86f6ac25595de6d]
 
 Delete from Schedule 2 the entry “Hong Kong”.
 
@@ -178,28 +178,28 @@ Regulation 8 removes Hong Kong from Schedule 2 to the 1989 Regulations (countrie
 
 [^f00001]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49); *see* section 128 (1) as amended by section 26(2)(g) and (i) of the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”), for the definitions of “prescribed” and “regulations”. Section 126 (4) was amended by paragraph 37(6) of Schedule 4 to the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8) (“the 1999 Act”); section 65(2) of the 1990 Act, section 65(1) of, and paragraphs 4 and 37(1) and (6) of Schedule 4 to, the 1999 Act, section 67(1) of, and paragraph 5(1) and (13)(b) of Schedule 5 to, the Health and Social Care Act [2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15) and sections 6(3)(c) and 37(1) of, and paragraphs 1 and 10(a) of Schedule 8 to, the National Health Service Reform and Health Care Professions Act [2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17) and section 184 of, and paragraph 38 of Schedule 11 and part 4 of Schedule 14 to, to Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43). The functions of the Secretary of State under these provisions are, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by article 2(a) of the National Assembly for Wales (Transfer of Functions) Order 1999, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), as amended by section 66(5) of the 1999 Act.
 
-[^key-522df3cfb1c20343108280922687cafe]: Commencement: Reg. 1 in force at 31.5.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1433/regulation/1/1)
+[^c-522df3cfb1c20343108280922687cafe]: Commencement: Reg. 1 in force at 31.5.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1433/regulation/1/1)
 
 [^f00002]: Footnote: [S.I.1989/306](https://www.legislation.gov.uk/uksi/1989/306).
 
-[^key-2b9cfbcc7145c6192c44b03a176c214b]: Commencement: Reg. 2 in force at 31.5.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1433/regulation/1/1)
+[^c-2b9cfbcc7145c6192c44b03a176c214b]: Commencement: Reg. 2 in force at 31.5.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1433/regulation/1/1)
 
-[^key-3774a600a107b258e3c296a5b1053209]: Commencement: Reg. 3 in force at 31.5.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1433/regulation/1/1)
+[^c-3774a600a107b258e3c296a5b1053209]: Commencement: Reg. 3 in force at 31.5.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1433/regulation/1/1)
 
-[^key-6defa0169c5f39586f323d2168fb4919]: Commencement: Reg. 4 in force at 31.5.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1433/regulation/1/1)
+[^c-6defa0169c5f39586f323d2168fb4919]: Commencement: Reg. 4 in force at 31.5.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1433/regulation/1/1)
 
 [^f00003]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
 [^f00004]: Footnote: [1999 c. 7](https://www.legislation.gov.uk/ukpga/1999/7).
 
-[^key-4f2459e96cce554cb54ddf7a815c9fee]: Commencement: Reg. 5 in force at 31.5.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1433/regulation/1/1)
+[^c-4f2459e96cce554cb54ddf7a815c9fee]: Commencement: Reg. 5 in force at 31.5.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1433/regulation/1/1)
 
-[^key-fa784276a09d0535943e2db0e7f66940]: Commencement: Reg. 6 in force at 31.5.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1433/regulation/1/1)
+[^c-fa784276a09d0535943e2db0e7f66940]: Commencement: Reg. 6 in force at 31.5.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1433/regulation/1/1)
 
 [^f00005]: Footnote: Regulation 6A was inserted by [S.I. 2004/614](https://www.legislation.gov.uk/uksi/2004/614).
 
-[^key-4adb026ac4387c979c7fbe90ce704b51]: Commencement: Reg. 7 in force at 31.5.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1433/regulation/1/1)
+[^c-4adb026ac4387c979c7fbe90ce704b51]: Commencement: Reg. 7 in force at 31.5.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1433/regulation/1/1)
 
-[^key-8445b48a6f5bb138a86f6ac25595de6d]: Commencement: Reg. 8 in force at 31.5.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1433/regulation/1/1)
+[^c-8445b48a6f5bb138a86f6ac25595de6d]: Commencement: Reg. 8 in force at 31.5.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1433/regulation/1/1)
 
 [^f00006]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

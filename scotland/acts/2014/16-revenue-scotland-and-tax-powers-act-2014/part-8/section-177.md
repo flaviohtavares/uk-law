@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 177. Special reduction in penalty under Chapter 2[^key-c2a15ad59974928ab156d13f64fad27e]
+## 177. Special reduction in penalty under Chapter 2[^c-c2a15ad59974928ab156d13f64fad27e]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2a15ad59974928ab156d13f64fad27e]: Commencement: [S. 177](https://www.legislation.gov.uk/asp/2014/16/section/177) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-c2a15ad59974928ab156d13f64fad27e]: Commencement: [S. 177](https://www.legislation.gov.uk/asp/2014/16/section/177) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

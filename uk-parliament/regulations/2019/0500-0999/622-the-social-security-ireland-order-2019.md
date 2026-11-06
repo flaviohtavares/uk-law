@@ -53,18 +53,18 @@ In order to give effect to the Convention, therefore, Her Majesty, in exercise o
 
 **Not yet in force.**
 
-## 1. Citation and commencement[^key-dccf8fc0992e1b9039b9841cb4265ab9]
+## 1. Citation and commencement[^c-dccf8fc0992e1b9039b9841cb4265ab9]
 
 This Order may be cited as the Social Security (Ireland) Order 2019 and comes into force on the later of the following—
 
 - (a) immediately after the coming into force of the Social Security (Amendment) (EU Exit) Regulations 2019 [^c23651811];
 - (b) the date of the later of the notifications referred to in Article 65 of the Convention set out in the Schedule to this Order [^c23651821].
 
-## 2. Modification of legislation[^key-2e4ff0067fde20dff9754a92d98a249d]
+## 2. Modification of legislation[^c-2e4ff0067fde20dff9754a92d98a249d]
 
-(1)[^key-71701ce41c9a3292c0ce4fa4377ab337] The legislation to which this paragraph applies is modified to the extent required to give effect to the provisions contained in the Convention set out in the Schedule to this Order.
+(1)[^c-71701ce41c9a3292c0ce4fa4377ab337] The legislation to which this paragraph applies is modified to the extent required to give effect to the provisions contained in the Convention set out in the Schedule to this Order.
 
-(2)[^key-71701ce41c9a3292c0ce4fa4377ab337] Subject to paragraph (3), paragraph (1) applies to—
+(2)[^c-71701ce41c9a3292c0ce4fa4377ab337] Subject to paragraph (3), paragraph (1) applies to—
 
 - (a) the Social Security Administration Act 1992;
 - (b) the Social Security Contributions and Benefits Act 1992 [^c23651831];
@@ -83,7 +83,7 @@ so far as such provisions relate to England, Wales and Scotland.
 
 (3) Paragraph (1) does not modify any legislation so far as it would be within the legislative competence of the Scottish Parliament to make such modification, unless regulation 3 of the Scotland Act 2016 (Transitional) Regulations 2017 [^c23651921] applies to functions conferred on a Minister of the Crown in respect of that devolved competence.
 
-## 3.[^key-a39d07595b51a3ff5ccfb24ab2fc44aa]
+## 3.[^c-a39d07595b51a3ff5ccfb24ab2fc44aa]
 
 Paragraph (1) also applies to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 [^c23651931] so far as such provision relates to Northern Ireland.
 
@@ -93,7 +93,7 @@ Clerk of the Privy Council
 
 **Not yet in force.**
 
-## SCHEDULE[^key-5474888f68220dc5e7e769ca194656a6]
+## SCHEDULE[^c-5474888f68220dc5e7e769ca194656a6]
 
 Articles 1 and 2
 
@@ -115,15 +115,15 @@ The Order does not impose any costs on business, charities or the voluntary sect
 
 [^c23651801]: Marginal citation: Covering the territories of the United Kingdom, the Channel Islands, the Isle of Man and the Republic of Ireland.
 
-[^key-dccf8fc0992e1b9039b9841cb4265ab9]: Commencement: Art. 1 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2019/622/article/1)
+[^c-dccf8fc0992e1b9039b9841cb4265ab9]: Commencement: Art. 1 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2019/622/article/1)
 
 [^c23651811]: Marginal citation: [S.I. 2019/128](https://www.legislation.gov.uk/uksi/2019/128).
 
 [^c23651821]: Marginal citation: The date on which the Convention enters into force for the United Kingdom will be published on the relevant page on UK Treaties Online which can be found at this link: https://www.gov.uk/uk-treaties.
 
-[^key-2e4ff0067fde20dff9754a92d98a249d]: Commencement: Art. 2 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2019/622/article/1)
+[^c-2e4ff0067fde20dff9754a92d98a249d]: Commencement: Art. 2 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2019/622/article/1)
 
-[^key-71701ce41c9a3292c0ce4fa4377ab337]: Modification: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2019/622/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2019/622/article/2/2) applied (S.) (coming into force in accordance with art. 1 of the amending S.S.I.) by [The Social Security (Ireland) (Further provision in respect of Scotland) Order 2019 (S.S.I. 2019/93)](https://www.legislation.gov.uk/ssi/2019/93), [art. 2](https://www.legislation.gov.uk/ssi/2019/93/article/2)
+[^c-71701ce41c9a3292c0ce4fa4377ab337]: Modification: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2019/622/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2019/622/article/2/2) applied (S.) (coming into force in accordance with art. 1 of the amending S.S.I.) by [The Social Security (Ireland) (Further provision in respect of Scotland) Order 2019 (S.S.I. 2019/93)](https://www.legislation.gov.uk/ssi/2019/93), [art. 2](https://www.legislation.gov.uk/ssi/2019/93/article/2)
 
 [^c23651831]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -145,8 +145,8 @@ The Order does not impose any costs on business, charities or the voluntary sect
 
 [^c23651921]: Marginal citation: [S.I. 2017/444](https://www.legislation.gov.uk/uksi/2017/444).
 
-[^key-a39d07595b51a3ff5ccfb24ab2fc44aa]: Commencement: Art. 3 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2019/622/article/1)
+[^c-a39d07595b51a3ff5ccfb24ab2fc44aa]: Commencement: Art. 3 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2019/622/article/1)
 
 [^c23651931]: Marginal citation: [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671).
 
-[^key-5474888f68220dc5e7e769ca194656a6]: Commencement: Sch. not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2019/622/article/1)
+[^c-5474888f68220dc5e7e769ca194656a6]: Commencement: Sch. not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2019/622/article/1)

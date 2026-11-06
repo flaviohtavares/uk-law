@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Deposit schemes: interpretation[^key-1c2ff03750f441f0b8eb2ce8bd7ca636]
+## 47. Deposit schemes: interpretation[^c-1c2ff03750f441f0b8eb2ce8bd7ca636]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c2ff03750f441f0b8eb2ce8bd7ca636]: Commencement: [S. 47](https://www.legislation.gov.uk/anaw/2016/1/section/47) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-1c2ff03750f441f0b8eb2ce8bd7ca636]: Commencement: [S. 47](https://www.legislation.gov.uk/anaw/2016/1/section/47) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

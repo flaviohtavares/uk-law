@@ -22,75 +22,75 @@ summary: ''
 
 Section 83.
 
-### Part 1 — ASSIGNMENT OR SURRENDER OF PART OF THE RIGHTS[^key-69d906ed55aa5f3539c0ac2aa5cab917]
+### Part 1 — ASSIGNMENT OR SURRENDER OF PART OF THE RIGHTS[^c-69d906ed55aa5f3539c0ac2aa5cab917]
 
 **No longer in force.**
 
-#### 1. Introductory[^key-69d906ed55aa5f3539c0ac2aa5cab917]
+#### 1. Introductory[^c-69d906ed55aa5f3539c0ac2aa5cab917]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Interpretation[^key-69d906ed55aa5f3539c0ac2aa5cab917]
+#### 2. Interpretation[^c-69d906ed55aa5f3539c0ac2aa5cab917]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Life policies: chargeable events[^key-69d906ed55aa5f3539c0ac2aa5cab917]
+#### 3. Life policies: chargeable events[^c-69d906ed55aa5f3539c0ac2aa5cab917]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Life policies: computation of gain[^key-69d906ed55aa5f3539c0ac2aa5cab917]
+#### 4. Life policies: computation of gain[^c-69d906ed55aa5f3539c0ac2aa5cab917]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Life annuity contracts: chargeable events[^key-69d906ed55aa5f3539c0ac2aa5cab917]
+#### 5. Life annuity contracts: chargeable events[^c-69d906ed55aa5f3539c0ac2aa5cab917]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Life annuity contracts: computation of gain[^key-69d906ed55aa5f3539c0ac2aa5cab917]
+#### 6. Life annuity contracts: computation of gain[^c-69d906ed55aa5f3539c0ac2aa5cab917]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Capital redemption policies: chargeable events[^key-69d906ed55aa5f3539c0ac2aa5cab917]
+#### 7. Capital redemption policies: chargeable events[^c-69d906ed55aa5f3539c0ac2aa5cab917]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. The value of a part or share assigned[^key-69d906ed55aa5f3539c0ac2aa5cab917]
+#### 8. The value of a part or share assigned[^c-69d906ed55aa5f3539c0ac2aa5cab917]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Assignments etc involving co-ownership[^key-69d906ed55aa5f3539c0ac2aa5cab917]
+#### 9. Assignments etc involving co-ownership[^c-69d906ed55aa5f3539c0ac2aa5cab917]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Charging tax in respect of certain section 546 excesses[^key-69d906ed55aa5f3539c0ac2aa5cab917]
+#### 10. Charging tax in respect of certain section 546 excesses[^c-69d906ed55aa5f3539c0ac2aa5cab917]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Method of charging gain to tax[^key-69d906ed55aa5f3539c0ac2aa5cab917]
+#### 11. Method of charging gain to tax[^c-69d906ed55aa5f3539c0ac2aa5cab917]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Method of charging gain to tax: multiple interests[^key-69d906ed55aa5f3539c0ac2aa5cab917]
+#### 12. Method of charging gain to tax: multiple interests[^c-69d906ed55aa5f3539c0ac2aa5cab917]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Corresponding deficiency relief[^key-69d906ed55aa5f3539c0ac2aa5cab917]
+#### 13. Corresponding deficiency relief[^c-69d906ed55aa5f3539c0ac2aa5cab917]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Relief where gain charged at higher rate[^key-69d906ed55aa5f3539c0ac2aa5cab917]
+#### 14. Relief where gain charged at higher rate[^c-69d906ed55aa5f3539c0ac2aa5cab917]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Right of individual to recover tax from trustees[^key-69d906ed55aa5f3539c0ac2aa5cab917]
+#### 15. Right of individual to recover tax from trustees[^c-69d906ed55aa5f3539c0ac2aa5cab917]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Right of company to recover tax from trustees[^key-69d906ed55aa5f3539c0ac2aa5cab917]
+#### 16. Right of company to recover tax from trustees[^c-69d906ed55aa5f3539c0ac2aa5cab917]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Non-resident policies and off-shore capital redemption policies[^key-69d906ed55aa5f3539c0ac2aa5cab917]
+#### 17. Non-resident policies and off-shore capital redemption policies[^c-69d906ed55aa5f3539c0ac2aa5cab917]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -256,4 +256,4 @@ In section 98 of the Taxes Management Act 1970 (c. 9), in the second column of t
 
 ## Annotations
 
-[^key-69d906ed55aa5f3539c0ac2aa5cab917]: Textual amendment: [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2001/9/schedule/28/part/1) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(j)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/j)
+[^c-69d906ed55aa5f3539c0ac2aa5cab917]: Textual amendment: [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2001/9/schedule/28/part/1) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(j)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/j)

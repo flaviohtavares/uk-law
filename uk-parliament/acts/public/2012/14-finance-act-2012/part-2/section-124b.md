@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124B. Excess carried forward post-1 April 2017 losses: relief against total profits[^key-3e3526d44d07b749f63a30bd44bf7d55][^key-d3b34e668367727b2fbce9715d68b014][^key-512731f079ea9218ec86774feb779ace]
+## 124B. Excess carried forward post-1 April 2017 losses: relief against total profits[^c-3e3526d44d07b749f63a30bd44bf7d55][^c-d3b34e668367727b2fbce9715d68b014][^c-512731f079ea9218ec86774feb779ace]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,8 +60,8 @@ any part of it that is a shock loss is used before any part of it that is not a 
 
 ## Annotations
 
-[^key-3e3526d44d07b749f63a30bd44bf7d55]: Modification: Ss. 124A-124E: power to amend conferred by 2010 c. 4, s. 269ZQ (as inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16))
+[^c-3e3526d44d07b749f63a30bd44bf7d55]: Modification: Ss. 124A-124E: power to amend conferred by 2010 c. 4, s. 269ZQ (as inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16))
 
-[^key-d3b34e668367727b2fbce9715d68b014]: Textual amendment: Ss. 124A-124E inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/26)
+[^c-d3b34e668367727b2fbce9715d68b014]: Textual amendment: Ss. 124A-124E inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/26)
 
-[^key-512731f079ea9218ec86774feb779ace]: Modification: S. 124B restricted by 2010 c. 4, s. 676BC (as inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 76](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/76))
+[^c-512731f079ea9218ec86774feb779ace]: Modification: S. 124B restricted by 2010 c. 4, s. 676BC (as inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 76](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/76))

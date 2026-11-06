@@ -29,7 +29,7 @@ summary: ''
   - (i) C's wishes and feelings have been ascertained and given due consideration, and
   - (ii) the IRO has been informed.
 
-(2) If it is not reasonably practicable to prepare the placement plan before making the placement, the placement plan must be prepared within five working days of *(affected by repeal, see note)*[^key-9bacb1d555c5549f0d6d0fc2693ee5fa] as soon as is reasonably practicable after the start of the placement.
+(2) If it is not reasonably practicable to prepare the placement plan before making the placement, the placement plan must be prepared within five working days of *(affected by repeal, see note)*[^c-9bacb1d555c5549f0d6d0fc2693ee5fa] as soon as is reasonably practicable after the start of the placement.
 
 (3) The placement plan must be agreed with, and signed by, the appropriate person.
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bacb1d555c5549f0d6d0fc2693ee5fa]: Textual amendment: Words in reg. 9(2) substituted (temp.) (24.4.2020) by [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2020/445/regulation/8/4) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
+[^c-9bacb1d555c5549f0d6d0fc2693ee5fa]: Textual amendment: Words in reg. 9(2) substituted (temp.) (24.4.2020) by [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2020/445/regulation/8/4) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))

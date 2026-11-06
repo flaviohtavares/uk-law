@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Bribery and collusion.[^key-dbb237934cf2670d182947b2ee5f739d]
+## 15. Bribery and collusion.[^c-dbb237934cf2670d182947b2ee5f739d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbb237934cf2670d182947b2ee5f739d]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/1979/2/section/15) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [ss. 52(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2005/11/section/52/1/a/ii), [53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/i)
+[^c-dbb237934cf2670d182947b2ee5f739d]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/1979/2/section/15) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [ss. 52(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2005/11/section/52/1/a/ii), [53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/i)

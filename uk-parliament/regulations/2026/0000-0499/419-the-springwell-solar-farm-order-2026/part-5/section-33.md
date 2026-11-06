@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Apparatus and rights of statutory undertakers in closed or restricted streets[^key-ee7ad37811011a61396fae9453cb0cf0]
+## 33. Apparatus and rights of statutory undertakers in closed or restricted streets[^c-ee7ad37811011a61396fae9453cb0cf0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a street is closed, altered or diverted or its use is temporarily prohibit
 
 ## Annotations
 
-[^key-ee7ad37811011a61396fae9453cb0cf0]: Commencement: Art. 33 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-ee7ad37811011a61396fae9453cb0cf0]: Commencement: Art. 33 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)

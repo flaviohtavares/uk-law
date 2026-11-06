@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-17c5c2660af5119c41f1f5b8203116de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-17c5c2660af5119c41f1f5b8203116de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-17c5c2660af5119c41f1f5b8203116de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-17c5c2660af5119c41f1f5b8203116de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 98 of the Taxes Management Act 1970 (c. 9) (special returns etc)—
 
-- (a)[^key-8003371e2faea8157096ef7e47a07d46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8003371e2faea8157096ef7e47a07d46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after subsection (4C) insert—
 
   > (4D) A payment is within this subsection if—
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-17c5c2660af5119c41f1f5b8203116de]: Textual amendment: [S. 96(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/96/1)[(2)](https://www.legislation.gov.uk/ukpga/2002/23/section/96/2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-17c5c2660af5119c41f1f5b8203116de]: Textual amendment: [S. 96(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/96/1)[(2)](https://www.legislation.gov.uk/ukpga/2002/23/section/96/2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-8003371e2faea8157096ef7e47a07d46]: Textual amendment: S. 96(3)(a) repealed (with effect in accordance with Sch. 43 Pt. 5(3) Note of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 43 Pt. 5(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/5/3)
+[^c-8003371e2faea8157096ef7e47a07d46]: Textual amendment: S. 96(3)(a) repealed (with effect in accordance with Sch. 43 Pt. 5(3) Note of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 43 Pt. 5(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/5/3)

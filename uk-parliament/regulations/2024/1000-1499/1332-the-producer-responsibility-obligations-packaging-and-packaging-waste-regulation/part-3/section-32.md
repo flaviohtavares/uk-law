@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Cancellation of registration of producers[^key-73b16653b3c3a57f1b9ec1864bef9d0b]
+## 32. Cancellation of registration of producers[^c-73b16653b3c3a57f1b9ec1864bef9d0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73b16653b3c3a57f1b9ec1864bef9d0b]: Commencement: Reg. 32 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-73b16653b3c3a57f1b9ec1864bef9d0b]: Commencement: Reg. 32 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

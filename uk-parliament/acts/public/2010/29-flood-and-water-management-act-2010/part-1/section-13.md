@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Co-operation and arrangements[^key-14f800e54b731047bf74e1b3589343ee]
+## 13. Co-operation and arrangements[^c-14f800e54b731047bf74e1b3589343ee]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 - (a) in relation to a coast protection authority in England, the consent of the Environment Agency, and
 - (b) in relation to a coast protection authority in Wales, the consent of the Welsh Ministers.
 
-(8) The Environment Agency or the Natural Resources Body for Wales[^key-03425e59a86d389a097aba4edca0ca67] may arrange for a coastal erosion risk management function to be exercised on its behalf by—
+(8) The Environment Agency or the Natural Resources Body for Wales[^c-03425e59a86d389a097aba4edca0ca67] may arrange for a coastal erosion risk management function to be exercised on its behalf by—
 
 - (a) a coast protection authority,
 - (b) a lead local flood authority, or
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-14f800e54b731047bf74e1b3589343ee]: Commencement: S. 13 in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-14f800e54b731047bf74e1b3589343ee]: Commencement: S. 13 in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
 
-[^key-03425e59a86d389a097aba4edca0ca67]: Textual amendment: Words in s. 13(8) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 455](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/455) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-03425e59a86d389a097aba4edca0ca67]: Textual amendment: Words in s. 13(8) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 455](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/455) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

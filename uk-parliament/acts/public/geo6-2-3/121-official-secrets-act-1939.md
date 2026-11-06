@@ -31,18 +31,18 @@ Official Secrets Act 1939 (repealed)
 
 1939 c.121
 
-[^key-ebb8da206f93ad306daf1a10bcd39e4a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ebb8da206f93ad306daf1a10bcd39e4a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Amendment of 10 & 11 Geo. 5. c. 75, s.6.[^key-ebb8da206f93ad306daf1a10bcd39e4a]
+## 1. Amendment of 10 & 11 Geo. 5. c. 75, s.6.[^c-ebb8da206f93ad306daf1a10bcd39e4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title, construction, citation, and application to Northern Ireland.[^key-ebb8da206f93ad306daf1a10bcd39e4a]
+## 2. Short title, construction, citation, and application to Northern Ireland.[^c-ebb8da206f93ad306daf1a10bcd39e4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ebb8da206f93ad306daf1a10bcd39e4a]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo6/2-3/121) repealed (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2023/32/schedule/18/paragraph/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/f)
+[^c-ebb8da206f93ad306daf1a10bcd39e4a]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo6/2-3/121) repealed (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2023/32/schedule/18/paragraph/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/f)

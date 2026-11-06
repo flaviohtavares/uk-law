@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3A — REQUIREMENTS REFERRED TO IN REGULATION 17(5)[^key-e2b1caba94310b26b0be079689c88ad5]
+## SCHEDULE 3A — REQUIREMENTS REFERRED TO IN REGULATION 17(5)[^c-e2b1caba94310b26b0be079689c88ad5]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ The requirements are that—
 
 ## Annotations
 
-[^key-e2b1caba94310b26b0be079689c88ad5]: Textual amendment: Schs. 3A-3D inserted (13.4.2010) by [The Food Hygiene (Scotland) Amendment Regulations 2010 (S.S.I. 2010/69)](https://www.legislation.gov.uk/ssi/2010/69), [regs. 1](https://www.legislation.gov.uk/ssi/2010/69/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2010/69/regulation/2/5), [sch. 2](https://www.legislation.gov.uk/ssi/2010/69/schedule/2)
+[^c-e2b1caba94310b26b0be079689c88ad5]: Textual amendment: Schs. 3A-3D inserted (13.4.2010) by [The Food Hygiene (Scotland) Amendment Regulations 2010 (S.S.I. 2010/69)](https://www.legislation.gov.uk/ssi/2010/69), [regs. 1](https://www.legislation.gov.uk/ssi/2010/69/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2010/69/regulation/2/5), [sch. 2](https://www.legislation.gov.uk/ssi/2010/69/schedule/2)
 
 [^M_F_5de8d566-5dad-42a0-ec61-1db68b43876a]: Textual amendment: Words in Sch. 3A para. (e) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [4(6)](https://www.legislation.gov.uk/ssi/2019/407/regulation/4/6)

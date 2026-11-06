@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 132. Amount payable on death of pension credit member[^key-35323bf4cb5a5c8e6840dc9f7c8f923e]
+## 132. Amount payable on death of pension credit member[^c-35323bf4cb5a5c8e6840dc9f7c8f923e]
 
 *Extent: N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-35323bf4cb5a5c8e6840dc9f7c8f923e]: Commencement: [Reg. 132](https://www.legislation.gov.uk/nisr/2014/290/regulation/132) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-35323bf4cb5a5c8e6840dc9f7c8f923e]: Commencement: [Reg. 132](https://www.legislation.gov.uk/nisr/2014/290/regulation/132) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00069]: Footnote: Part 4A was inserted by the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)) Article 34
 

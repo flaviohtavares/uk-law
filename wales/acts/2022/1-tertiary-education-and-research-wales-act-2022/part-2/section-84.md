@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Interpretation of Part 2[^key-744267f12c6aaa43bceb13afb02688d3][^key-b524049f21fca50a1497f66f965dd16e][^key-64da46c1f67e513a8964d4021cff0a07]
+## 84. Interpretation of Part 2[^c-744267f12c6aaa43bceb13afb02688d3][^c-b524049f21fca50a1497f66f965dd16e][^c-64da46c1f67e513a8964d4021cff0a07]
 
 *Extent: E+W*
 
@@ -45,8 +45,8 @@ In this Part—
 
 ## Annotations
 
-[^key-744267f12c6aaa43bceb13afb02688d3]: Commencement: S. 84 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-744267f12c6aaa43bceb13afb02688d3]: Commencement: S. 84 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-b524049f21fca50a1497f66f965dd16e]: Commencement: [S. 84](https://www.legislation.gov.uk/asc/2022/1/section/84) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(dd)](https://www.legislation.gov.uk/wsi/2023/919/article/3/dd)
+[^c-b524049f21fca50a1497f66f965dd16e]: Commencement: [S. 84](https://www.legislation.gov.uk/asc/2022/1/section/84) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(dd)](https://www.legislation.gov.uk/wsi/2023/919/article/3/dd)
 
-[^key-64da46c1f67e513a8964d4021cff0a07]: Commencement: [S. 84](https://www.legislation.gov.uk/asc/2022/1/section/84) in force at 5.4.2025 in so far as not already in force by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ff)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ff)
+[^c-64da46c1f67e513a8964d4021cff0a07]: Commencement: [S. 84](https://www.legislation.gov.uk/asc/2022/1/section/84) in force at 5.4.2025 in so far as not already in force by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ff)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ff)

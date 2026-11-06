@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Aircraft to be registered[^key-92a21a54f5ea54db9606b095118b2f6b]
+## 3. Aircraft to be registered[^c-92a21a54f5ea54db9606b095118b2f6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92a21a54f5ea54db9606b095118b2f6b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/870/article/3) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-92a21a54f5ea54db9606b095118b2f6b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/870/article/3) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

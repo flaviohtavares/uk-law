@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Live links: proceedings for failure to comply with certain orders or licence conditions[^key-1f3e60f56f1d206a0bd77efe6041309c]
+## 51. Live links: proceedings for failure to comply with certain orders or licence conditions[^c-1f3e60f56f1d206a0bd77efe6041309c]
 
 *Extent: N.I.*
 
@@ -79,4 +79,4 @@ the court must adjourn the proceedings.
 
 ## Annotations
 
-[^key-1f3e60f56f1d206a0bd77efe6041309c]: Commencement: [S. 51](https://www.legislation.gov.uk/nia/2015/9/section/51) in operation at 29.4.2016 by [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 4(b)](https://www.legislation.gov.uk/nisr/2016/136/article/4/b)
+[^c-1f3e60f56f1d206a0bd77efe6041309c]: Commencement: [S. 51](https://www.legislation.gov.uk/nia/2015/9/section/51) in operation at 29.4.2016 by [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 4(b)](https://www.legislation.gov.uk/nisr/2016/136/article/4/b)

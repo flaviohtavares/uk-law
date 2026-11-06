@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Any net annual value to be ascribed to any[^c19592551] hereditament in a new NAV list[^c19592591] coming into force on 1st April in any year shall be ascertained by reference to such earlier time as the Department may by order subject to negative resolution specify, but on the assumption that at the time specified in the order the matters mentioned in paragraph (1A) were[^key-e400bc24122517553a406268da066456] as at the time when the list comes into force.
+(1) Any net annual value to be ascribed to any[^c19592551] hereditament in a new NAV list[^c19592591] coming into force on 1st April in any year shall be ascertained by reference to such earlier time as the Department may by order subject to negative resolution specify, but on the assumption that at the time specified in the order the matters mentioned in paragraph (1A) were[^c-e400bc24122517553a406268da066456] as at the time when the list comes into force.
 
-(1A)[^key-0ce5c09a236f280c0440558c5a88692a][^key-d4b2afe8b5f32e002c06d65cec013ed0] The matters referred to in paragraph (1) are—
+(1A)[^c-0ce5c09a236f280c0440558c5a88692a][^c-d4b2afe8b5f32e002c06d65cec013ed0] The matters referred to in paragraph (1) are—
 
 - (a) matters affecting the physical state or physical enjoyment of the hereditament;
 - (b) the mode or category of occupation of the hereditament;
@@ -45,11 +45,11 @@ summary: ''
 
 [^c19592591]: Textual amendment: Words in art. 39A(1) substituted (1.4.2007) by [Rates (Amendment) (Northern Ireland) Order 2006 (S.I. 2006/2954 (N.I. 18))](https://www.legislation.gov.uk/nisi/2006/2954), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/2954/article/1/3), [39](https://www.legislation.gov.uk/nisi/2006/2954/article/39), [Sch. 2 para. 19(2)(b)](https://www.legislation.gov.uk/nisi/2006/2954/schedule/2/paragraph/19/2/b); [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(4)](https://www.legislation.gov.uk/nisr/2006/464/article/2/4)
 
-[^key-e400bc24122517553a406268da066456]: Textual amendment: Words in art. 39A(1) substituted (1.4.2012) by [Rates (Amendment) Act (Northern Ireland) 2012 (c. 1)](https://www.legislation.gov.uk/nia/2012/1), [ss. 4(2)](https://www.legislation.gov.uk/nia/2012/1/section/4/2), [7(2)](https://www.legislation.gov.uk/nia/2012/1/section/7/2)
+[^c-e400bc24122517553a406268da066456]: Textual amendment: Words in art. 39A(1) substituted (1.4.2012) by [Rates (Amendment) Act (Northern Ireland) 2012 (c. 1)](https://www.legislation.gov.uk/nia/2012/1), [ss. 4(2)](https://www.legislation.gov.uk/nia/2012/1/section/4/2), [7(2)](https://www.legislation.gov.uk/nia/2012/1/section/7/2)
 
-[^key-0ce5c09a236f280c0440558c5a88692a]: Modification: [Art. 39A(1A)](https://www.legislation.gov.uk/nisi/1977/2157/article/39A/1A) modified (31.3.2022) by [Non-domestic Rates Valuations (Coronavirus) Act (Northern Ireland) 2022 (c. 12)](https://www.legislation.gov.uk/nia/2022/12), [ss. 1(1)](https://www.legislation.gov.uk/nia/2022/12/section/1/1), [2(1)](https://www.legislation.gov.uk/nia/2022/12/section/2/1)
+[^c-0ce5c09a236f280c0440558c5a88692a]: Modification: [Art. 39A(1A)](https://www.legislation.gov.uk/nisi/1977/2157/article/39A/1A) modified (31.3.2022) by [Non-domestic Rates Valuations (Coronavirus) Act (Northern Ireland) 2022 (c. 12)](https://www.legislation.gov.uk/nia/2022/12), [ss. 1(1)](https://www.legislation.gov.uk/nia/2022/12/section/1/1), [2(1)](https://www.legislation.gov.uk/nia/2022/12/section/2/1)
 
-[^key-d4b2afe8b5f32e002c06d65cec013ed0]: Textual amendment: Art. 39A(1A) inserted (1.4.2012) by [Rates (Amendment) Act (Northern Ireland) 2012 (c. 1)](https://www.legislation.gov.uk/nia/2012/1), [ss. 4(3)](https://www.legislation.gov.uk/nia/2012/1/section/4/3), [7(2)](https://www.legislation.gov.uk/nia/2012/1/section/7/2)
+[^c-d4b2afe8b5f32e002c06d65cec013ed0]: Textual amendment: Art. 39A(1A) inserted (1.4.2012) by [Rates (Amendment) Act (Northern Ireland) 2012 (c. 1)](https://www.legislation.gov.uk/nia/2012/1), [ss. 4(3)](https://www.legislation.gov.uk/nia/2012/1/section/4/3), [7(2)](https://www.legislation.gov.uk/nia/2012/1/section/7/2)
 
 [^c19592761]: Textual amendment: Art. 39(2)(3) repealed (1.4.2007) by [Rates (Amendment) (Northern Ireland) Order 2006 (S.I. 2006/2954 (N.I. 18))](https://www.legislation.gov.uk/nisi/2006/2954), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/2954/article/1/3), [39](https://www.legislation.gov.uk/nisi/2006/2954/article/39), [41](https://www.legislation.gov.uk/nisi/2006/2954/article/41), [Sch. 2 para. 19(3)](https://www.legislation.gov.uk/nisi/2006/2954/schedule/2/paragraph/19/3), [Sch. 3](https://www.legislation.gov.uk/nisi/2006/2954/schedule/3); [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(4)](https://www.legislation.gov.uk/nisr/2006/464/article/2/4)
 

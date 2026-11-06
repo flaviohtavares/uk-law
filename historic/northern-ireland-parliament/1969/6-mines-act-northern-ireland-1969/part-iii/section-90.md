@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 90. Penalization of negligent acts or omissions and unauthorised removal, &c., of articles.[^key-1f155242d11d9d92cc780b6252fddbda]
+## 90. Penalization of negligent acts or omissions and unauthorised removal, &c., of articles.[^c-1f155242d11d9d92cc780b6252fddbda]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f155242d11d9d92cc780b6252fddbda]: Textual amendment: [Ss. 86-91](https://www.legislation.gov.uk/apni/1969/6/section/86) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-1f155242d11d9d92cc780b6252fddbda]: Textual amendment: [Ss. 86-91](https://www.legislation.gov.uk/apni/1969/6/section/86) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

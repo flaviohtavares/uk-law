@@ -24,7 +24,7 @@ summary: ''
 
 - “**appropriate national authority**” means—
   - (a) the Secretary of State, in relation to England; and
-  - (b) the Welsh Ministers[^key-cd911713ec02204edbda07188cc8c0fe], in relation to Wales;
+  - (b) the Welsh Ministers[^c-cd911713ec02204edbda07188cc8c0fe], in relation to Wales;
 - “**commons council**” means a commons council established under Part 2;
 - “**land**” includes land covered by water;
 - “**nature conservation**” means the conservation of flora and fauna and geological and physiographical features;
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd911713ec02204edbda07188cc8c0fe]: Textual amendment: Words in [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/26/section/61/1) substituted (6.9.2015) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(a)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/a), [Sch. 7 para. 9](https://www.legislation.gov.uk/anaw/2015/4/schedule/7/paragraph/9)
+[^c-cd911713ec02204edbda07188cc8c0fe]: Textual amendment: Words in [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/26/section/61/1) substituted (6.9.2015) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(a)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/a), [Sch. 7 para. 9](https://www.legislation.gov.uk/anaw/2015/4/schedule/7/paragraph/9)

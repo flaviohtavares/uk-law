@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83.2A. Application for permission to issue a writ of sequestration[^key-ef07a890927683a64b1e6ca60177d472]
+## 83.2A. Application for permission to issue a writ of sequestration[^c-ef07a890927683a64b1e6ca60177d472]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef07a890927683a64b1e6ca60177d472]: Textual amendment: [Rule 83.2A](https://www.legislation.gov.uk/uksi/1998/3132/rule/83.2A) revoked (6.4.2021) by [The Civil Procedure (Amendment) Rules 2021 (S.I. 2021/117)](https://www.legislation.gov.uk/uksi/2021/117), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/1/1), [19(5)](https://www.legislation.gov.uk/uksi/2021/117/rule/19/5) (with [rule 2](https://www.legislation.gov.uk/uksi/2021/117/rule/2))
+[^c-ef07a890927683a64b1e6ca60177d472]: Textual amendment: [Rule 83.2A](https://www.legislation.gov.uk/uksi/1998/3132/rule/83.2A) revoked (6.4.2021) by [The Civil Procedure (Amendment) Rules 2021 (S.I. 2021/117)](https://www.legislation.gov.uk/uksi/2021/117), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/1/1), [19(5)](https://www.legislation.gov.uk/uksi/2021/117/rule/19/5) (with [rule 2](https://www.legislation.gov.uk/uksi/2021/117/rule/2))

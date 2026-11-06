@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Grounds for intervention[^key-2e6885b0131bdf0f11a63af35543c550][^key-8607113e1232a59427bcd5b193b7eb47]
+## 69. Grounds for intervention[^c-2e6885b0131bdf0f11a63af35543c550][^c-8607113e1232a59427bcd5b193b7eb47]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ For the purposes of sections 70 and 71, the grounds for intervention in the cond
 
 ## Annotations
 
-[^key-2e6885b0131bdf0f11a63af35543c550]: Commencement: S. 69 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-2e6885b0131bdf0f11a63af35543c550]: Commencement: S. 69 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-8607113e1232a59427bcd5b193b7eb47]: Commencement: [S. 69](https://www.legislation.gov.uk/asc/2022/1/section/69) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(m)](https://www.legislation.gov.uk/wsi/2026/62/article/2/m)
+[^c-8607113e1232a59427bcd5b193b7eb47]: Commencement: [S. 69](https://www.legislation.gov.uk/asc/2022/1/section/69) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(m)](https://www.legislation.gov.uk/wsi/2026/62/article/2/m)

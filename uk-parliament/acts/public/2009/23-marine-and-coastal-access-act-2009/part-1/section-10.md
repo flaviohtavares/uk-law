@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Wildlife and Countryside Act 1981[^key-d60d34866e30fea04f713a4375bf9969]
+## 10. Wildlife and Countryside Act 1981[^c-d60d34866e30fea04f713a4375bf9969]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d60d34866e30fea04f713a4375bf9969]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2009/23/section/10) in force at 1.4.2010 by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/2)
+[^c-d60d34866e30fea04f713a4375bf9969]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2009/23/section/10) in force at 1.4.2010 by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Transfer of assets and liabilities[^key-ae9750bd9f59eee435056554bb09be0e]
+## 116. Transfer of assets and liabilities[^c-ae9750bd9f59eee435056554bb09be0e]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae9750bd9f59eee435056554bb09be0e]: Commencement: S. 116 in force at Royal Assent, see [s. 133(1)(10)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1/10)
+[^c-ae9750bd9f59eee435056554bb09be0e]: Commencement: S. 116 in force at Royal Assent, see [s. 133(1)(10)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1/10)

@@ -26,7 +26,7 @@ Regulation 30(1)
 
 #### CHAPTER 1 — Primary legislation
 
-##### 1. Amendment of the Public Passenger Vehicles Act 1981[^key-0410ec71f8496771076e7ca9e367263d]
+##### 1. Amendment of the Public Passenger Vehicles Act 1981[^c-0410ec71f8496771076e7ca9e367263d]
 
 (1) Section 6 of the Public Passenger Vehicles Act 1981 [^c24306461] (certificate of initial fitness (or equivalent) required for use as public service vehicles) is amended as follows.
 
@@ -45,7 +45,7 @@ Regulation 30(1)
 
 .
 
-##### 2. Amendment of the Road Traffic Act 1988[^key-723f55cf4c1ecfda167938d82e0e0339]
+##### 2. Amendment of the Road Traffic Act 1988[^c-723f55cf4c1ecfda167938d82e0e0339]
 
 (1) The Road Traffic Act 1988 [^c24306471] is amended as follows.
 
@@ -91,7 +91,7 @@ Regulation 30(1)
 
 .
 
-##### 3. Amendment of the Vehicle Excise and Registration Act 1994[^key-809e756b531b48119e1a595451113baa]
+##### 3. Amendment of the Vehicle Excise and Registration Act 1994[^c-809e756b531b48119e1a595451113baa]
 
 (1) Schedule 1 to the Vehicle Excise and Registration Act 1994 [^c24306521] (annual rates of duty) is amended as follows.
 
@@ -153,7 +153,7 @@ Regulation 30(1)
 
 .
 
-##### 4. Amendment of the Income Tax (Earnings and Pensions) Act 2003[^key-690d69c53732ffda2135ebac8b783e6d]
+##### 4. Amendment of the Income Tax (Earnings and Pensions) Act 2003[^c-690d69c53732ffda2135ebac8b783e6d]
 
 (1) Section 171(1) of the Income Tax (Earnings and Pensions) Act 2003 [^c24306541] (minor definitions: general) is amended as follows.
 
@@ -179,19 +179,19 @@ Regulation 30(1)
 
 #### CHAPTER 2 — Secondary legislation
 
-##### 5. Amendment of the Motor Vehicles (International Circulation) Order 1975[^key-134577cf40b6a7f231936ee9af12ce91]
+##### 5. Amendment of the Motor Vehicles (International Circulation) Order 1975[^c-134577cf40b6a7f231936ee9af12ce91]
 
 (1) The Motor Vehicles (International Circulation) Order 1975 [^c24306551] is amended as follows.
 
 (2) In Article 5(2)(c)(ii), for “Annex II to Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46)” to “for such vehicles”, substitute “ Article 4 of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles ”.
 
-##### 6. Amendment of the Motor Vehicles (Type Approval) Regulations 1980[^key-581d789af2acee854b458a865dd13d18]
+##### 6. Amendment of the Motor Vehicles (Type Approval) Regulations 1980[^c-581d789af2acee854b458a865dd13d18]
 
 (1) The Motor Vehicles (Type Approval) Regulations 1980 [^c24306561] are amended as follows.
 
 (2) In regulation 3(1), in the definition of “component”, for “described in Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46) of the European Parliament and of the Council of 5th September 2007”, substitute “ defined in Article 3(20) of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles ”.
 
-##### 7. Amendment of the Road Traffic (Northern Ireland) Order 1981[^key-1dfb23e335f68157cbf85d9727b95ec0]
+##### 7. Amendment of the Road Traffic (Northern Ireland) Order 1981[^c-1dfb23e335f68157cbf85d9727b95ec0]
 
 (1) The Road Traffic (Northern Ireland) Order 1981 [^c24306571] is amended as follows.
 
@@ -222,7 +222,7 @@ Regulation 30(1)
 
   .
 
-##### 8. Amendment of the Motor Vehicles (Tests) Regulations 1981[^key-3cabb9969d3a63fe868f0d4e03acbcf6]
+##### 8. Amendment of the Motor Vehicles (Tests) Regulations 1981[^c-3cabb9969d3a63fe868f0d4e03acbcf6]
 
 (1) The Motor Vehicles (Tests) Regulations 1981 [^c24306581] are amended as follows.
 
@@ -230,19 +230,19 @@ Regulation 30(1)
 
 (3) In regulation 6(5), in the definition of “vehicle of historic interest”, for “meaning given in paragraph 1 of Schedule 3 to the Road Vehicles (Approval) Regulations 2009”, substitute “ same meaning as “type of vehicle” in Article 3(32) of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles ”.
 
-##### 9. Amendment of the Road Vehicles Lighting Regulations 1989[^key-19188b1438559caa38c2378d4def9dac]
+##### 9. Amendment of the Road Vehicles Lighting Regulations 1989[^c-19188b1438559caa38c2378d4def9dac]
 
 (1) The Road Vehicles Lighting Regulations 1989 [^c24306591] are amended as follows.
 
 (2) In Schedule 1, in the entries in the table relating to “headlamp cleaning device” and “reversing lamp”, in the third column of each entry, for “2009”, substitute “ 2020, or by Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, ”.
 
-##### 10. Amendment of the Goods Vehicles (Licensing of Operators) Regulations 1995[^key-2b0e4a7d34772dbe923a121fb12ac6ad]
+##### 10. Amendment of the Goods Vehicles (Licensing of Operators) Regulations 1995[^c-2b0e4a7d34772dbe923a121fb12ac6ad]
 
 (1) The Goods Vehicles (Licensing of Operators) Regulations 1995 [^c24306601] are amended as follows.
 
 (2) In Schedule 3, in paragraph 23A(1)(b), for “Annex II to Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46)” to “for such vehicles”, substitute “ Article 4 of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles ”.
 
-##### 11. Amendment of the Road Vehicles (Authorised Weight) Regulations 1998[^key-541a4515a4586cc61e99a8aed186432d]
+##### 11. Amendment of the Road Vehicles (Authorised Weight) Regulations 1998[^c-541a4515a4586cc61e99a8aed186432d]
 
 (1) The Road Vehicles (Authorised Weight) Regulations 1998 [^c24306611] are amended as follows.
 
@@ -260,7 +260,7 @@ Regulation 30(1)
 
 (4) In regulation 4(3)(a), for “Framework Directive”, substitute “ Type Approval Regulation or Road Vehicles (Approval) Regulations 2020 ”.
 
-##### 12. Amendment of the Motor Vehicles (Authorised Weight) Regulations (Northern Ireland) 1999[^key-f2975c70e9852591bcbe12c9116b55c3]
+##### 12. Amendment of the Motor Vehicles (Authorised Weight) Regulations (Northern Ireland) 1999[^c-f2975c70e9852591bcbe12c9116b55c3]
 
 (1) The Motor Vehicles (Authorised Weight) Regulations (Northern Ireland) 1999 [^c24306621] are amended as follows.
 
@@ -278,7 +278,7 @@ Regulation 30(1)
 
 (4) In regulation 4(3)(a), for “Framework Directive”, substitute “ Type Approval Regulation or Road Vehicles (Approval) Regulations 2020 ”.
 
-##### 13. Amendment of the Motor Vehicles (Type Approval and Approval Marks) (Fees) Regulations 1999[^key-93b501dc2cbdd5d4dfdb8abffc653b9f]
+##### 13. Amendment of the Motor Vehicles (Type Approval and Approval Marks) (Fees) Regulations 1999[^c-93b501dc2cbdd5d4dfdb8abffc653b9f]
 
 (1) The Motor Vehicles (Type Approval and Approval Marks) (Fees) Regulations 1999 [^c24306631] are amended as follows.
 
@@ -442,13 +442,13 @@ Regulation 30(1)
 - (a) omit Part I and Part II;
 - (b) in Part III, in the table, for “article 4(2) of the Framework Directive”, substitute “ Article 7(1) of the Type Approval Regulation ”.
 
-##### 14. Amendment of the Road Vehicles Lighting Regulations (Northern Ireland) 2000[^key-87020c4c45413d8a27d48f9b4e6b30e3]
+##### 14. Amendment of the Road Vehicles Lighting Regulations (Northern Ireland) 2000[^c-87020c4c45413d8a27d48f9b4e6b30e3]
 
 (1) The Road Vehicles Lighting Regulations (Northern Ireland) 2000 [^c24306661] are amended as follows.
 
 (2) In Schedule 1, in Table 1, in the entries in the table relating to “headlamp cleaning device” and “reversing lamp”, in the third column of each entry, for “2009”, substitute “ 2020, or by Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, ”.
 
-##### 15. Amendment of the Passenger Car (Fuel Consumption and CO2 Emissions Information) Regulations 2001[^key-1c25aaf614b9d76037eb165fe9038947]
+##### 15. Amendment of the Passenger Car (Fuel Consumption and CO2 Emissions Information) Regulations 2001[^c-1c25aaf614b9d76037eb165fe9038947]
 
 (1) The Passenger Car (Fuel Consumption and CO2 Emissions Information) Regulations 2001 [^c24306671] are amended as follows.
 
@@ -490,7 +490,7 @@ Regulation 30(1)
 - (b) in paragraph 7(1), for “EC”, substitute “ EU ”.
 - (c) in paragraph 8(2), for “EC”, substitute “ EU ”.
 
-##### 16. Amendment of the Road Vehicles (Registration and Licensing) Regulations 2002[^key-09f78e6eb64b96d9b46044394d43673c]
+##### 16. Amendment of the Road Vehicles (Registration and Licensing) Regulations 2002[^c-09f78e6eb64b96d9b46044394d43673c]
 
 (1) The Road Vehicles (Registration and Licensing) Regulations 2002 [^c24306681] are amended as follows.
 
@@ -498,13 +498,13 @@ Regulation 30(1)
 
 (3) In regulation 15A(6)(a), for “paragraph 1.1.1 and” to “for such vehicles”, substitute “ Article 4 of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles ”.
 
-##### 17. Amendment of the Motor Vehicle Testing Regulations (Northern Ireland) 2003[^key-6c8a86a3e310235f869ecd7e128cfa64]
+##### 17. Amendment of the Motor Vehicle Testing Regulations (Northern Ireland) 2003[^c-6c8a86a3e310235f869ecd7e128cfa64]
 
 (1) The Motor Vehicle Testing Regulations (Northern Ireland) 2003 [^c24306691] are amended as follows.
 
 (2) In regulation 5(5)(b), for “Annex 2 to Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46)” to “for such vehicles”, substitute “ Article 4 of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles ”.
 
-##### 18. Amendment of the End-of-Life Vehicles Regulations 2003[^key-fe4ef6f542c40c1b26978119e0553969]
+##### 18. Amendment of the End-of-Life Vehicles Regulations 2003[^c-fe4ef6f542c40c1b26978119e0553969]
 
 (1) The End-of-Life Vehicles Regulations 2003 [^c24306701] are amended as follows.
 
@@ -512,11 +512,11 @@ Regulation 30(1)
 
 (3) In regulation 5, for the words “Article 23 of ” to “for such vehicles”, substitute “ Articles 42 and 43 of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles ”.
 
-##### 19. Amendment of the End-of-Life Vehicles (Storage and Treatment) (Scotland) Regulations 2003[^key-3e5149a3a6b76da4c8c560b90f7c22e0]
+##### 19. Amendment of the End-of-Life Vehicles (Storage and Treatment) (Scotland) Regulations 2003[^c-3e5149a3a6b76da4c8c560b90f7c22e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 20. Amendment of the End-of-Life Vehicles (Producer Responsibility) Regulations 2005[^key-5c01cbd7a8f5ab213e859e5d766b4bd5]
+##### 20. Amendment of the End-of-Life Vehicles (Producer Responsibility) Regulations 2005[^c-5c01cbd7a8f5ab213e859e5d766b4bd5]
 
 (1) The End-of-Life Vehicles (Producer Responsibility) Regulations 2005 [^c24306721] are amended as follows.
 
@@ -524,7 +524,7 @@ Regulation 30(1)
 
 (3) In regulation 5, for the words from “Article 9(1)(b)” to the end, substitute “ point 5 of Part A of Annex I to Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles ”.
 
-##### 21. Amendment of the Supply of Machinery (Safety) Regulations 2008[^key-eddceaf2a16dcbb0d39d762805d1cf7d]
+##### 21. Amendment of the Supply of Machinery (Safety) Regulations 2008[^c-eddceaf2a16dcbb0d39d762805d1cf7d]
 
 (1) The Supply of Machinery (Safety) Regulations 2008 [^c24306731] are amended as follows.
 
@@ -533,7 +533,7 @@ Regulation 30(1)
 - (a) in paragraph 1(e)(ii), for the words “Article 3(11) and (12)” to the end, substitute “ Article 3(16) and (17) of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles ”;
 - (b) in paragraph 2(b)(ii), for “Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46)”, substitute “ Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles ”.
 
-##### 22. Amendment of the Road Vehicles (Individual Approval) (Fees) Regulations 2009[^key-55bebb6c2c122dd0cf2194269d8d639c]
+##### 22. Amendment of the Road Vehicles (Individual Approval) (Fees) Regulations 2009[^c-55bebb6c2c122dd0cf2194269d8d639c]
 
 (1) The Road Vehicles (Individual Approval) (Fees) Regulations 2009 [^c24306741] are amended as follows.
 
@@ -593,7 +593,7 @@ Regulation 30(1)
 
 (9) In regulation 12, for “article 24(8) of the Framework Directive”, substitute “ Article 46(4) of the Type Approval Regulation ”.
 
-##### 23. Amendment of the Motor Vehicles (Replacement of Catalytic Converters and Pollution Control Devices) Regulations 2009[^key-d93585cae80f3aedfb2d15883a691caf]
+##### 23. Amendment of the Motor Vehicles (Replacement of Catalytic Converters and Pollution Control Devices) Regulations 2009[^c-d93585cae80f3aedfb2d15883a691caf]
 
 (1) The Motor Vehicles (Replacement of Catalytic Converters and Pollution Control Devices) Regulations 2009 [^c24306751] are amended as follows.
 
@@ -625,19 +625,19 @@ Regulation 30(1)
 - (c) in paragraph (3)(a), after “Directive”, insert “ or the Type Approval Regulation ”;
 - (d) in paragraph (4)(c), after “the 2009 Regulations”, insert “ or the 2020 Regulations ”.
 
-##### 24. Amendment of the Cleaner Road Transport Vehicles (Scotland) Regulations 2010[^key-f2f14ff8a1747b86c56c7a195a14ace6]
+##### 24. Amendment of the Cleaner Road Transport Vehicles (Scotland) Regulations 2010[^c-f2f14ff8a1747b86c56c7a195a14ace6]
 
 (1) The Cleaner Road Transport Vehicles (Scotland) Regulations 2010 [^c24306761] are amended as follows.
 
 (2) In regulation 3(2), for “Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46)” to “such vehicles”, substitute “ Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles ”.
 
-##### 25. Amendment of the Cleaner Road Transport Vehicles Regulations 2011[^key-df0989bddda44ee6ec51ff97c21ccef8]
+##### 25. Amendment of the Cleaner Road Transport Vehicles Regulations 2011[^c-df0989bddda44ee6ec51ff97c21ccef8]
 
 (1) The Cleaner Road Transport Vehicles Regulations 2011 [^c24306771] are amended as follows.
 
 (2) In regulation 3(2), for “Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46)” to “such vehicles”, substitute “ Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles ”.
 
-##### 26. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2012[^key-e786a10ce715b030d841f1ac7589c69b]
+##### 26. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2012[^c-e786a10ce715b030d841f1ac7589c69b]
 
 (1) The Pollution Prevention and Control (Scotland) Regulations 2012 [^c24306781] are amended as follows.
 
@@ -652,13 +652,13 @@ Regulation 30(1)
 - (c) in the definition of “vehicle coating”, for “Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46)” (five times), substitute “ the Type Approval Regulation ”;
 - (d) in the definition of “vehicle refinishing”, for “Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46)”, substitute “ the Type Approval Regulation ”.
 
-##### 27. Amendment of the Civil Aviation (Air Travel Organisers' Licensing) Regulations 2012[^key-bf3356e087b53208791e30cea12f7644]
+##### 27. Amendment of the Civil Aviation (Air Travel Organisers' Licensing) Regulations 2012[^c-bf3356e087b53208791e30cea12f7644]
 
 (1) The Civil Aviation (Air Travel Organisers' Licensing) Regulations 2012 [^c24306791] are amended as follows.
 
 (2) In regulation 4(1), in the definition of “travel service”, in paragraph (c)(ii), for “Article 3(11)” to the end, substitute “ Article 3(16) of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles; ”.
 
-##### 28. Amendment of the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013[^key-e4f9d813a037644059ece569af918697]
+##### 28. Amendment of the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013[^c-e4f9d813a037644059ece569af918697]
 
 (1) The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 [^c24306801] are amended as follows.
 
@@ -673,13 +673,13 @@ Regulation 30(1)
 
   .
 
-##### 29. Amendment of the Wireless Telegraphy (Automotive Short Range Radar) (Exemption) Regulations 2013[^key-b0a62bac9e6df6f0ae7fa26a5428e5bd]
+##### 29. Amendment of the Wireless Telegraphy (Automotive Short Range Radar) (Exemption) Regulations 2013[^c-b0a62bac9e6df6f0ae7fa26a5428e5bd]
 
 (1) The Wireless Telegraphy (Automotive Short Range Radar) (Exemption) Regulations 2013 [^c24306811] are amended as follows.
 
 (2) In regulation 2(h), for “Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46)” to “for such vehicles”, substitute “ Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles ”.
 
-##### 30. Amendment of the Taxi Licensing Regulations (Northern Ireland) 2015[^key-f3db07670be4074170d4bb4fbd6a21a2]
+##### 30. Amendment of the Taxi Licensing Regulations (Northern Ireland) 2015[^c-f3db07670be4074170d4bb4fbd6a21a2]
 
 (1) The Taxi Licensing Regulations (Northern Ireland) 2015 [^c24306821] are amended as follows.
 
@@ -698,13 +698,13 @@ Regulation 30(1)
 
   .
 
-##### 31. Amendment of the Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) Regulations 2015[^key-5c48fdc4671fc7878639e2d240e65367]
+##### 31. Amendment of the Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) Regulations 2015[^c-5c48fdc4671fc7878639e2d240e65367]
 
 (1) The Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) Regulations 2015 [^c24306831] are amended as follows.
 
 (2) In regulation 3, in the definition of “automotive vehicle”, for “Council Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46)” to “for such vehicles”, substitute “ Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles ”.
 
-##### 32. Amendment of the Pressure Equipment (Safety) Regulations 2016[^key-4f3df605374cb3d3102ac3268660b49f]
+##### 32. Amendment of the Pressure Equipment (Safety) Regulations 2016[^c-4f3df605374cb3d3102ac3268660b49f]
 
 (1) The Pressure Equipment (Safety) Regulations 2016 [^c24306841] are amended as follows.
 
@@ -714,7 +714,7 @@ Regulation 30(1)
 
 .
 
-##### 33. Amendment of the Economic Growth (Regulatory Functions) Order 2017[^key-df9a6945721d73e3537a238f64258c60]
+##### 33. Amendment of the Economic Growth (Regulatory Functions) Order 2017[^c-df9a6945721d73e3537a238f64258c60]
 
 (1) The Economic Growth (Regulatory Functions) Order 2017 [^c24306851] is amended as follows.
 
@@ -726,13 +726,13 @@ Regulation 30(1)
 
 .
 
-##### 34. Amendment of the Package Travel and Linked Travel Arrangements Regulations 2018[^key-cea654c5beff86b8f9ec3cb6e839eb09]
+##### 34. Amendment of the Package Travel and Linked Travel Arrangements Regulations 2018[^c-cea654c5beff86b8f9ec3cb6e839eb09]
 
 (1) The Package Travel and Linked Travel Arrangements Regulations 2018 [^c24306861] are amended as follows.
 
 (2) In regulation 2(1), in the definition of “travel service”, in paragraph (c)(ii), for the words “Article 3(11) of ” to “for such vehicles”, substitute “ Article 3(16) of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles ”.
 
-##### 35. Amendment of the Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018[^key-dd614032deef4c82aa1ac557ca32daf9]
+##### 35. Amendment of the Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018[^c-dd614032deef4c82aa1ac557ca32daf9]
 
 (1) The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 [^c24306871] are amended as follows.
 
@@ -742,7 +742,7 @@ Regulation 30(1)
 
 .
 
-##### 36. Amendment of the Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019[^key-adecbba9f719ff629fc9d1ac17ea5174]
+##### 36. Amendment of the Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019[^c-adecbba9f719ff629fc9d1ac17ea5174]
 
 (1) The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 [^c24306891] are amended as follows.
 
@@ -756,7 +756,7 @@ Regulation 30(1)
 - (a) omit paragraph (2)(e);
 - (b) omit paragraph (6)(b).
 
-##### 37. Amendment of the Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019[^key-9878fc43e06cce0bfcd3942df7757d46]
+##### 37. Amendment of the Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019[^c-9878fc43e06cce0bfcd3942df7757d46]
 
 (1) The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 [^c24306901] are amended as follows.
 
@@ -770,7 +770,7 @@ Regulation 30(1)
 
 .
 
-##### 38. Amendment of the Road Vehicle Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019[^key-3ff99587572a9ae67869e4b1539d1bf6]
+##### 38. Amendment of the Road Vehicle Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019[^c-3ff99587572a9ae67869e4b1539d1bf6]
 
 (1) The Road Vehicle Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 [^c24306911] are amended as follows.
 
@@ -797,7 +797,7 @@ Regulation 30(1)
 
   .
 
-##### 39. Amendment of the Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2019[^key-82413a5f5669169143b32a4b4d377c83]
+##### 39. Amendment of the Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2019[^c-82413a5f5669169143b32a4b4d377c83]
 
 (1) The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2019 [^c24306921] are amended as follows.
 
@@ -908,13 +908,13 @@ Regulation 30(1)
 
 .
 
-##### 40. Amendment of the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019[^key-0b09752026be2e66995432dd1e9ed69a]
+##### 40. Amendment of the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019[^c-0b09752026be2e66995432dd1e9ed69a]
 
 (1) The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 [^c24306931] are amended as follows.
 
 (2) In Schedule 12, in paragraph 32, omit sub-paragraphs (a) and (c).
 
-##### 41. Amendment of the REACH etc. (Amendment etc.) (EU Exit) Regulations 2019[^key-506d90eae6345a03bf08e3f0a5c5ed32]
+##### 41. Amendment of the REACH etc. (Amendment etc.) (EU Exit) Regulations 2019[^c-506d90eae6345a03bf08e3f0a5c5ed32]
 
 (1) The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 [^c24306941] are amended as follows.
 
@@ -923,7 +923,7 @@ Regulation 30(1)
 - (a) in paragraph 28(3), in the new paragraph 4 to be substituted by that paragraph, for “ the Road Vehicles (Approval) Regulations 2009 ”, substitute “Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles”;
 - (b) in paragraph 36(2)(a), for “the Road Vehicles (Approval) Regulations 2009”, substitute “ Regulation (EU) 2018/858 of the European Parliament and of the Council ”.
 
-##### 42. Amendment of the REACH etc. (Amendment etc.) (EU Exit) (No 3) Regulations 2019[^key-140233245dce9f0e267782d087a1a238]
+##### 42. Amendment of the REACH etc. (Amendment etc.) (EU Exit) (No 3) Regulations 2019[^c-140233245dce9f0e267782d087a1a238]
 
 (1) The REACH etc. (Amendment etc.) (EU Exit) (No 3) Regulations 2019 [^c24306951] are amended as follows.
 
@@ -931,7 +931,7 @@ Regulation 30(1)
 
 ### PART 2 — Revocations
 
-#### 43. Revocations[^key-008b7c7eff0e8c02ea129b754612b9bf]
+#### 43. Revocations[^c-008b7c7eff0e8c02ea129b754612b9bf]
 
 The following Regulations are revoked—
 
@@ -1008,11 +1008,11 @@ The following Regulations are revoked—
 
 ## Annotations
 
-[^key-0410ec71f8496771076e7ca9e367263d]: Commencement: Sch. 6 para. 1 in force at 1.9.2020, see reg. 1(b)
+[^c-0410ec71f8496771076e7ca9e367263d]: Commencement: Sch. 6 para. 1 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306461]: Marginal citation: [1981 c.14](https://www.legislation.gov.uk/ukpga/1981/14). Relevant amendments were made by [S.I. 2009/818](https://www.legislation.gov.uk/uksi/2009/818).
 
-[^key-723f55cf4c1ecfda167938d82e0e0339]: Commencement: Sch. 6 para. 2 in force at 1.9.2020, see reg. 1(b)
+[^c-723f55cf4c1ecfda167938d82e0e0339]: Commencement: Sch. 6 para. 2 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306471]: Marginal citation: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52).
 
@@ -1024,17 +1024,17 @@ The following Regulations are revoked—
 
 [^c24306511]: Marginal citation: The definition was inserted by [S.I. 2009/818](https://www.legislation.gov.uk/uksi/2009/818).
 
-[^key-809e756b531b48119e1a595451113baa]: Commencement: Sch. 6 para. 3 in force at 1.9.2020, see reg. 1(b)
+[^c-809e756b531b48119e1a595451113baa]: Commencement: Sch. 6 para. 3 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306521]: Marginal citation: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22). Part IA and Part IB were inserted into Schedule 1 by section 22 of, and Schedule 3 to, the [Finance Act 2000 (c.17)](https://www.legislation.gov.uk/ukpga/2000/17). Part 1AA was inserted by section 46 of the [Finance (No 2) Act 2015 (c.33)](https://www.legislation.gov.uk/ukpga/2015/33).
 
 [^c24306531]: Marginal citation: Sub-paragraph (2A) was inserted by section 86(3) of the [Finance Act 2020 (c.14)](https://www.legislation.gov.uk/ukpga/2020/14).
 
-[^key-690d69c53732ffda2135ebac8b783e6d]: Commencement: Sch. 6 para. 4 in force at 1.9.2020, see reg. 1(b)
+[^c-690d69c53732ffda2135ebac8b783e6d]: Commencement: Sch. 6 para. 4 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306541]: Marginal citation: [2003 c.1](https://www.legislation.gov.uk/ukpga/2003/1). Relevant substitutions were made by section 48 of the [Finance Act 2018 (c.3)](https://www.legislation.gov.uk/ukpga/2018/3).
 
-[^key-134577cf40b6a7f231936ee9af12ce91]: Commencement: Sch. 6 para. 5 in force at 1.9.2020, see reg. 1(b)
+[^c-134577cf40b6a7f231936ee9af12ce91]: Commencement: Sch. 6 para. 5 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306551]: Marginal citation: [S.I. 1975/1208](https://www.legislation.gov.uk/uksi/1975/1208), as amended by [S.I. 1980/1095](https://www.legislation.gov.uk/uksi/1980/1095), 1985/459, 1989/993, 1991/771 and
 
@@ -1052,7 +1052,7 @@ The following Regulations are revoked—
 
     2018/1295 and prospectively amended (from IP completion day) by [S.I. 2019/563](https://www.legislation.gov.uk/uksi/2019/563).
 
-[^key-581d789af2acee854b458a865dd13d18]: Commencement: Sch. 6 para. 6 in force at 1.9.2020, see reg. 1(b)
+[^c-581d789af2acee854b458a865dd13d18]: Commencement: Sch. 6 para. 6 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306561]: Marginal citation: [S.I. 1980/1182](https://www.legislation.gov.uk/uksi/1980/1182), as amended by [S.I. 1982/7](https://www.legislation.gov.uk/uksi/1982/7), 1986/1501, 1987/524, 1988/1103 and
 
@@ -1076,11 +1076,11 @@ The following Regulations are revoked—
 
     and prospectively amended (from IP completion day) by [S.I. 2019/453](https://www.legislation.gov.uk/uksi/2019/453).
 
-[^key-1dfb23e335f68157cbf85d9727b95ec0]: Commencement: Sch. 6 para. 7 in force at 1.9.2020, see reg. 1(b)
+[^c-1dfb23e335f68157cbf85d9727b95ec0]: Commencement: Sch. 6 para. 7 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306571]: Marginal citation: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154). Article 31A was inserted by [S.I. 1985/755 (N.I. 6)](https://www.legislation.gov.uk/nisi/1985/755). In Article 31A(7), the definition of “EC certificate of conformity” was substituted, and other definitions inserted, by [S.I. 2019/648](https://www.legislation.gov.uk/uksi/2019/648) (as amended by [S.I. 2019/691](https://www.legislation.gov.uk/uksi/2019/691)), and other amendments were made by S.R. [1993 No. 246](https://www.legislation.gov.uk/ukcm/1993/246), [S.I](https://www.legislation.gov.uk/ukcm/1993/246/section/I). 2006/1254 (N.I. 9) and [S.I. 2018/235](https://www.legislation.gov.uk/uksi/2018/235).
 
-[^key-3cabb9969d3a63fe868f0d4e03acbcf6]: Commencement: Sch. 6 para. 8 in force at 1.9.2020, see reg. 1(b)
+[^c-3cabb9969d3a63fe868f0d4e03acbcf6]: Commencement: Sch. 6 para. 8 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306581]: Marginal citation: [S.I. 1981/1694](https://www.legislation.gov.uk/uksi/1981/1694), as amended by [S.I. 1982/814](https://www.legislation.gov.uk/uksi/1982/814),
 
@@ -1176,7 +1176,7 @@ The following Regulations are revoked—
 
     and prospectively amended (from IP completion day) by [S.I. 2019/453](https://www.legislation.gov.uk/uksi/2019/453).
 
-[^key-19188b1438559caa38c2378d4def9dac]: Commencement: Sch. 6 para. 9 in force at 1.9.2020, see reg. 1(b)
+[^c-19188b1438559caa38c2378d4def9dac]: Commencement: Sch. 6 para. 9 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306591]: Marginal citation: [S.I. 1989/1796](https://www.legislation.gov.uk/uksi/1989/1796), as amended by paragraphs 11 to 14 of Schedule 9 to the [Deregulation Act 2015 (c.20)](https://www.legislation.gov.uk/ukpga/2015/20), [S.I](https://www.legislation.gov.uk/ukpga/2015/20/section/I). 1992/1217, 1994/2280 and
 
@@ -1228,7 +1228,7 @@ The following Regulations are revoked—
 
     and [S.S.I. 2006/129](https://www.legislation.gov.uk/ssi/2006/129).
 
-[^key-2b0e4a7d34772dbe923a121fb12ac6ad]: Commencement: Sch. 6 para. 10 in force at 1.9.2020, see reg. 1(b)
+[^c-2b0e4a7d34772dbe923a121fb12ac6ad]: Commencement: Sch. 6 para. 10 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306601]: Marginal citation: [S.I. 1995/2869](https://www.legislation.gov.uk/uksi/1995/2869), as amended by [S.I. 2003/2096](https://www.legislation.gov.uk/uksi/2003/2096), 2004/3168, 2005/2060 and
 
@@ -1258,15 +1258,15 @@ The following Regulations are revoked—
 
     and prospectively amended (from IP completion day) by [S.I. 2019/708](https://www.legislation.gov.uk/uksi/2019/708).
 
-[^key-541a4515a4586cc61e99a8aed186432d]: Commencement: Sch. 6 para. 11 in force at 1.9.2020, see reg. 1(b)
+[^c-541a4515a4586cc61e99a8aed186432d]: Commencement: Sch. 6 para. 11 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306611]: Marginal citation: [S.I. 1998/3111](https://www.legislation.gov.uk/uksi/1998/3111), as amended by [S.I. 2000/3224](https://www.legislation.gov.uk/uksi/2000/3224), 2001/1125 and 2017/881.
 
-[^key-f2975c70e9852591bcbe12c9116b55c3]: Commencement: Sch. 6 para. 12 in force at 1.9.2020, see reg. 1(b)
+[^c-f2975c70e9852591bcbe12c9116b55c3]: Commencement: Sch. 6 para. 12 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306621]: Marginal citation: S.R. [1999 No. 258](https://www.legislation.gov.uk/ukcm/1999/258), as amended by S.R. [2017 No. 191](https://www.legislation.gov.uk/ukcm/2017/191).
 
-[^key-93b501dc2cbdd5d4dfdb8abffc653b9f]: Commencement: Sch. 6 para. 13 in force at 1.9.2020, see reg. 1(b)
+[^c-93b501dc2cbdd5d4dfdb8abffc653b9f]: Commencement: Sch. 6 para. 13 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306631]: Marginal citation: [S.I. 1999/2149](https://www.legislation.gov.uk/uksi/1999/2149), as amended by [S.I. 2003/2258](https://www.legislation.gov.uk/uksi/2003/2258), 2004/2106, 2006/1638 and 2009/719.
 
@@ -1274,13 +1274,13 @@ The following Regulations are revoked—
 
 [^c24306651]: Marginal citation: Schedule 3 was substituted by [S.I. 2006/1638](https://www.legislation.gov.uk/uksi/2006/1638).
 
-[^key-87020c4c45413d8a27d48f9b4e6b30e3]: Commencement: Sch. 6 para. 14 in force at 1.9.2020, see reg. 1(b)
+[^c-87020c4c45413d8a27d48f9b4e6b30e3]: Commencement: Sch. 6 para. 14 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306661]: Marginal citation: S.R. [2000 No. 169](https://www.legislation.gov.uk/ukcm/2000/169), as amended by [S.I. 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277), S.R. [2015 No. 397](https://www.legislation.gov.uk/ukcm/2015/397), [2018 No. 88](https://www.legislation.gov.uk/ukcm/2018/88) and [2019 No. 20](https://www.legislation.gov.uk/ukcm/2019/20) and
 
     185\.
 
-[^key-1c25aaf614b9d76037eb165fe9038947]: Commencement: Sch. 6 para. 15 in force at 1.9.2020, see reg. 1(b)
+[^c-1c25aaf614b9d76037eb165fe9038947]: Commencement: Sch. 6 para. 15 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306671]: Marginal citation: [S.I. 2001/3523](https://www.legislation.gov.uk/uksi/2001/3523), as amended by [S.I. 2004/1661](https://www.legislation.gov.uk/uksi/2004/1661), 2013/65 and 2018/235 and
 
@@ -1288,7 +1288,7 @@ The following Regulations are revoked—
 
     .
 
-[^key-09f78e6eb64b96d9b46044394d43673c]: Commencement: Sch. 6 para. 16 in force at 1.9.2020, see reg. 1(b)
+[^c-09f78e6eb64b96d9b46044394d43673c]: Commencement: Sch. 6 para. 16 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306681]: Marginal citation: [S.I. 2002/2742](https://www.legislation.gov.uk/uksi/2002/2742), as amended by section 188(3)(b) of the [Finance Act 2013 (c.29)](https://www.legislation.gov.uk/ukpga/2013/29), [section 12(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/12/1) of the [Humber Bridge Act 2013 (c. vi)](https://www.legislation.gov.uk/ukla/2013/6), [S.I](https://www.legislation.gov.uk/ukla/2013/6/section/I). 2003/2154,
 
@@ -1364,21 +1364,21 @@ The following Regulations are revoked—
 
     2020/663 and prospectively amended (from IP completion day) by [S.I. 2018/1295](https://www.legislation.gov.uk/uksi/2018/1295).
 
-[^key-6c8a86a3e310235f869ecd7e128cfa64]: Commencement: Sch. 6 para. 17 in force at 1.9.2020, see reg. 1(b)
+[^c-6c8a86a3e310235f869ecd7e128cfa64]: Commencement: Sch. 6 para. 17 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306691]: Marginal citation: S.R. [2003 No. 303](https://www.legislation.gov.uk/ukcm/2003/303), as amended by S.R. [2018 No. 85](https://www.legislation.gov.uk/ukcm/2018/85).
 
-[^key-fe4ef6f542c40c1b26978119e0553969]: Commencement: Sch. 6 para. 18 in force at 1.9.2020, see reg. 1(b)
+[^c-fe4ef6f542c40c1b26978119e0553969]: Commencement: Sch. 6 para. 18 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306701]: Marginal citation: [S.I. 2003/2635](https://www.legislation.gov.uk/uksi/2003/2635), as amended by [S.I. 2005/263](https://www.legislation.gov.uk/uksi/2005/263) and 2018/942 and prospectively amended (from IP completion day) by [S.I. 2019/188](https://www.legislation.gov.uk/uksi/2019/188).
 
-[^key-3e5149a3a6b76da4c8c560b90f7c22e0]: Textual amendment: Sch. 6 para. 19 revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-3e5149a3a6b76da4c8c560b90f7c22e0]: Textual amendment: Sch. 6 para. 19 revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-5c01cbd7a8f5ab213e859e5d766b4bd5]: Commencement: Sch. 6 para. 20 in force at 1.9.2020, see reg. 1(b)
+[^c-5c01cbd7a8f5ab213e859e5d766b4bd5]: Commencement: Sch. 6 para. 20 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306721]: Marginal citation: [S.I. 2005/263](https://www.legislation.gov.uk/uksi/2005/263), as amended by [S.I. 2018/942](https://www.legislation.gov.uk/uksi/2018/942) and prospectively amended (from IP completion day) by [S.I. 2019/188](https://www.legislation.gov.uk/uksi/2019/188).
 
-[^key-eddceaf2a16dcbb0d39d762805d1cf7d]: Commencement: Sch. 6 para. 21 in force at 1.9.2020, see reg. 1(b)
+[^c-eddceaf2a16dcbb0d39d762805d1cf7d]: Commencement: Sch. 6 para. 21 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306731]: Marginal citation: [S.I. 2008/1597](https://www.legislation.gov.uk/uksi/2008/1597), as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and
 
@@ -1398,23 +1398,23 @@ The following Regulations are revoked—
 
     and S.R. [2016 No. 427](https://www.legislation.gov.uk/ukcm/2016/427) and prospectively amended (from IP completion day) by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696) (as amended by [S.I. 2019/1246](https://www.legislation.gov.uk/uksi/2019/1246)).
 
-[^key-55bebb6c2c122dd0cf2194269d8d639c]: Commencement: Sch. 6 para. 22 in force at 1.9.2020, see reg. 1(b)
+[^c-55bebb6c2c122dd0cf2194269d8d639c]: Commencement: Sch. 6 para. 22 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306741]: Marginal citation: [S.I. 2009/718](https://www.legislation.gov.uk/uksi/2009/718), as amended by [S.I. 2012/1271](https://www.legislation.gov.uk/uksi/2012/1271).
 
-[^key-d93585cae80f3aedfb2d15883a691caf]: Commencement: Sch. 6 para. 23 in force at 1.9.2020, see reg. 1(b)
+[^c-d93585cae80f3aedfb2d15883a691caf]: Commencement: Sch. 6 para. 23 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306751]: Marginal citation: [S.I. 2009/1899](https://www.legislation.gov.uk/uksi/2009/1899), as amended by [S.I. 2011/1854](https://www.legislation.gov.uk/uksi/2011/1854).
 
-[^key-f2f14ff8a1747b86c56c7a195a14ace6]: Commencement: Sch. 6 para. 24 in force at 1.9.2020, see reg. 1(b)
+[^c-f2f14ff8a1747b86c56c7a195a14ace6]: Commencement: Sch. 6 para. 24 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306761]: Marginal citation: [S.S.I. 2010/390](https://www.legislation.gov.uk/ssi/2010/390), as amended by [S.S.I. 2012/88](https://www.legislation.gov.uk/ssi/2012/88), 2015/446 and 2016/49.
 
-[^key-df0989bddda44ee6ec51ff97c21ccef8]: Commencement: Sch. 6 para. 25 in force at 1.9.2020, see reg. 1(b)
+[^c-df0989bddda44ee6ec51ff97c21ccef8]: Commencement: Sch. 6 para. 25 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306771]: Marginal citation: [S.I. 2011/1631](https://www.legislation.gov.uk/uksi/2011/1631), as amended by [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102) and 2016/275.
 
-[^key-e786a10ce715b030d841f1ac7589c69b]: Commencement: Sch. 6 para. 26 in force at 1.9.2020, see reg. 1(b)
+[^c-e786a10ce715b030d841f1ac7589c69b]: Commencement: Sch. 6 para. 26 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306781]: Marginal citation: [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360), as amended by [S.S.I. 2014/267](https://www.legislation.gov.uk/ssi/2014/267), 2015/100,
 
@@ -1434,11 +1434,11 @@ The following Regulations are revoked—
 
     175\.
 
-[^key-bf3356e087b53208791e30cea12f7644]: Commencement: Sch. 6 para. 27 in force at 1.9.2020, see reg. 1(b)
+[^c-bf3356e087b53208791e30cea12f7644]: Commencement: Sch. 6 para. 27 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306791]: Marginal citation: [S.I. 2012/1017](https://www.legislation.gov.uk/uksi/2012/1017), as amended by [S.I. 2012/1134](https://www.legislation.gov.uk/uksi/2012/1134) and 2018/670 and prospectively amended (with effect from IP completion day) by [S.I. 2019/278](https://www.legislation.gov.uk/uksi/2019/278).
 
-[^key-e4f9d813a037644059ece569af918697]: Commencement: Sch. 6 para. 28 in force at 1.9.2020, see reg. 1(b)
+[^c-e4f9d813a037644059ece569af918697]: Commencement: Sch. 6 para. 28 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306801]: Marginal citation: S.R. [2013 No. 160](https://www.legislation.gov.uk/ukcm/2013/160), as amended by S.R. [2014 No. 304](https://www.legislation.gov.uk/ukcm/2014/304), [2015 No. 14](https://www.legislation.gov.uk/ukcm/2015/14) and
 
@@ -1450,19 +1450,19 @@ The following Regulations are revoked—
 
     [2018 No. 33](https://www.legislation.gov.uk/ukcm/2018/33) and 200, [S.I. 2015/1973](https://www.legislation.gov.uk/uksi/2015/1973) and prospectively amended (with effect from IP completion day) by [S.I. 2019/289](https://www.legislation.gov.uk/uksi/2019/289).
 
-[^key-b0a62bac9e6df6f0ae7fa26a5428e5bd]: Commencement: Sch. 6 para. 29 in force at 1.9.2020, see reg. 1(b)
+[^c-b0a62bac9e6df6f0ae7fa26a5428e5bd]: Commencement: Sch. 6 para. 29 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306811]: Marginal citation: [S.I. 2013/1437](https://www.legislation.gov.uk/uksi/2013/1437).
 
-[^key-f3db07670be4074170d4bb4fbd6a21a2]: Commencement: Sch. 6 para. 30 in force at 1.9.2020, see reg. 1(b)
+[^c-f3db07670be4074170d4bb4fbd6a21a2]: Commencement: Sch. 6 para. 30 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306821]: Marginal citation: S.R. [2015 No. 393](https://www.legislation.gov.uk/ukcm/2015/393), as amended by S.R. [2016 No. 140](https://www.legislation.gov.uk/ukcm/2016/140), [2017 No. 141](https://www.legislation.gov.uk/ukcm/2017/141), [2018 No. 90](https://www.legislation.gov.uk/ukcm/2018/90) and [2020 No. 64](https://www.legislation.gov.uk/ukcm/2020/64).
 
-[^key-5c48fdc4671fc7878639e2d240e65367]: Commencement: Sch. 6 para. 31 in force at 1.9.2020, see reg. 1(b)
+[^c-5c48fdc4671fc7878639e2d240e65367]: Commencement: Sch. 6 para. 31 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306831]: Marginal citation: [S.I. 2015/591](https://www.legislation.gov.uk/uksi/2015/591), as amended by [S.I. 2018/44](https://www.legislation.gov.uk/uksi/2018/44).
 
-[^key-4f3df605374cb3d3102ac3268660b49f]: Commencement: Sch. 6 para. 32 in force at 1.9.2020, see reg. 1(b)
+[^c-4f3df605374cb3d3102ac3268660b49f]: Commencement: Sch. 6 para. 32 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306841]: Marginal citation: [S.I. 2016/1105](https://www.legislation.gov.uk/uksi/2016/1105), as amended by [S.I. 2017/1206](https://www.legislation.gov.uk/uksi/2017/1206) and 2018/966 and prospectively amended (with effect from IP completion day) by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696),
 
@@ -1470,7 +1470,7 @@ The following Regulations are revoked—
 
     1246\.
 
-[^key-df9a6945721d73e3537a238f64258c60]: Commencement: Sch. 6 para. 33 in force at 1.9.2020, see reg. 1(b)
+[^c-df9a6945721d73e3537a238f64258c60]: Commencement: Sch. 6 para. 33 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306851]: Marginal citation: [S.I. 2017/267](https://www.legislation.gov.uk/uksi/2017/267), as amended by [S.I.2017/595](https://www.legislation.gov.uk/uksi/2017/595),
 
@@ -1484,39 +1484,39 @@ The following Regulations are revoked—
 
     1354\.
 
-[^key-cea654c5beff86b8f9ec3cb6e839eb09]: Commencement: Sch. 6 para. 34 in force at 1.9.2020, see reg. 1(b)
+[^c-cea654c5beff86b8f9ec3cb6e839eb09]: Commencement: Sch. 6 para. 34 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306861]: Marginal citation: [S.I. 2018/634](https://www.legislation.gov.uk/uksi/2018/634), as prospectively amended (with effect from IP completion day) by [S.I. 2018/1367](https://www.legislation.gov.uk/uksi/2018/1367).
 
-[^key-dd614032deef4c82aa1ac557ca32daf9]: Commencement: Sch. 6 para. 35 in force at 1.9.2020, see reg. 1(b)
+[^c-dd614032deef4c82aa1ac557ca32daf9]: Commencement: Sch. 6 para. 35 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306871]: Marginal citation: [S.I. 2018/1367](https://www.legislation.gov.uk/uksi/2018/1367).
 
 [^c24306881]: Marginal citation: [S.I. 1999/2864](https://www.legislation.gov.uk/uksi/1999/2864). In Schedule 2, the entry relating to Category A was amended by [S.I. 2012/977](https://www.legislation.gov.uk/uksi/2012/977).
 
-[^key-adecbba9f719ff629fc9d1ac17ea5174]: Commencement: Sch. 6 para. 36 in force at 1.9.2020, see reg. 1(b)
+[^c-adecbba9f719ff629fc9d1ac17ea5174]: Commencement: Sch. 6 para. 36 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306891]: Marginal citation: [S.I. 2019/188](https://www.legislation.gov.uk/uksi/2019/188), as prospectively amended (with effect from IP completion day) by [S.I. 2019/1078](https://www.legislation.gov.uk/uksi/2019/1078).
 
-[^key-9878fc43e06cce0bfcd3942df7757d46]: Commencement: Sch. 6 para. 37 in force at 1.9.2020, see reg. 1(b)
+[^c-9878fc43e06cce0bfcd3942df7757d46]: Commencement: Sch. 6 para. 37 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306901]: Marginal citation: [S.I. 2019/278](https://www.legislation.gov.uk/uksi/2019/278).
 
-[^key-3ff99587572a9ae67869e4b1539d1bf6]: Commencement: Sch. 6 para. 38 in force at 1.9.2020, see reg. 1(b)
+[^c-3ff99587572a9ae67869e4b1539d1bf6]: Commencement: Sch. 6 para. 38 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306911]: Marginal citation: [S.I. 2019/550](https://www.legislation.gov.uk/uksi/2019/550).
 
-[^key-82413a5f5669169143b32a4b4d377c83]: Commencement: Sch. 6 para. 39 in force at 1.9.2020, see reg. 1(b)
+[^c-82413a5f5669169143b32a4b4d377c83]: Commencement: Sch. 6 para. 39 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306921]: Marginal citation: [S.I. 2019/648](https://www.legislation.gov.uk/uksi/2019/648), as amended by [S.I. 2019/691](https://www.legislation.gov.uk/uksi/2019/691) and
 
     1156\.
 
-[^key-0b09752026be2e66995432dd1e9ed69a]: Commencement: Sch. 6 para. 40 in force at 1.9.2020, see reg. 1(b)
+[^c-0b09752026be2e66995432dd1e9ed69a]: Commencement: Sch. 6 para. 40 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306931]: Marginal citation: [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696), as prospectively amended (with effect from IP completion day) by [S.I. 2019/1246](https://www.legislation.gov.uk/uksi/2019/1246).
 
-[^key-506d90eae6345a03bf08e3f0a5c5ed32]: Commencement: Sch. 6 para. 41 in force at 1.9.2020, see reg. 1(b)
+[^c-506d90eae6345a03bf08e3f0a5c5ed32]: Commencement: Sch. 6 para. 41 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306941]: Marginal citation: [S.I. 2019/758](https://www.legislation.gov.uk/uksi/2019/758), as prospectively amended (with effect from IP completion day) by [S.I. 2019/858](https://www.legislation.gov.uk/uksi/2019/858) and
 
@@ -1524,8 +1524,8 @@ The following Regulations are revoked—
 
     .
 
-[^key-140233245dce9f0e267782d087a1a238]: Commencement: Sch. 6 para. 42 in force at 1.9.2020, see reg. 1(b)
+[^c-140233245dce9f0e267782d087a1a238]: Commencement: Sch. 6 para. 42 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306951]: Marginal citation: [S.I. 2019/1144](https://www.legislation.gov.uk/uksi/2019/1144).
 
-[^key-008b7c7eff0e8c02ea129b754612b9bf]: Commencement: Sch. 6 para. 43 in force at 1.9.2020, see reg. 1(b)
+[^c-008b7c7eff0e8c02ea129b754612b9bf]: Commencement: Sch. 6 para. 43 in force at 1.9.2020, see reg. 1(b)

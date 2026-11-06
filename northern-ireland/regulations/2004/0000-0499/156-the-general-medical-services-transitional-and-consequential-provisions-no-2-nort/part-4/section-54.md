@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Assignment of patients[^key-726c8972ee26fc53e16a0b32def4907c]
+## 54. Assignment of patients[^c-726c8972ee26fc53e16a0b32def4907c]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ Where, on 31st March 2004, a person had applied to the Agency for assignment to 
 
 ## Annotations
 
-[^key-726c8972ee26fc53e16a0b32def4907c]: Commencement: Art. 54 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-726c8972ee26fc53e16a0b32def4907c]: Commencement: Art. 54 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

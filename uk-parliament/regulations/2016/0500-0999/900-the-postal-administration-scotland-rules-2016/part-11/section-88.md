@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Special provision on account of expense as to website use[^key-3a6a1230a0102e584e0776e89f7990be]
+## 88. Special provision on account of expense as to website use[^c-3a6a1230a0102e584e0776e89f7990be]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a6a1230a0102e584e0776e89f7990be]: Commencement: Rule 88 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-3a6a1230a0102e584e0776e89f7990be]: Commencement: Rule 88 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

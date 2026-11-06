@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20.2. Time for lodging account of expenses[^key-9c6436188e9c61b08114fc6a843e0df7]
+## 20.2. Time for lodging account of expenses[^c-9c6436188e9c61b08114fc6a843e0df7]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9c6436188e9c61b08114fc6a843e0df7]: Commencement: Para. 20.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-9c6436188e9c61b08114fc6a843e0df7]: Commencement: Para. 20.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
 
 [^f00017]: Footnote: [S.S.I. 2002/494](https://www.legislation.gov.uk/ssi/2002/494), last amended by [S.S.I. 2021/333](https://www.legislation.gov.uk/ssi/2021/333).

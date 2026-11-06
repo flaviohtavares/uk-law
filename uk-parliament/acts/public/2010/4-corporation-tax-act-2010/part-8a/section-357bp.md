@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357BP. Meaning of “new qualifying IP right” and “old qualifying IP right”[^key-c419e2443f2ebe0b2be4436f50d32415][^key-3f3b3eec0117028f84fab3c68f3024c2]
+## 357BP. Meaning of “new qualifying IP right” and “old qualifying IP right”[^c-c419e2443f2ebe0b2be4436f50d32415][^c-3f3b3eec0117028f84fab3c68f3024c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,12 +49,12 @@ summary: ''
 
 (12) Section 1122 (meaning of “connected” persons) applies for the purposes of this section.
 
-(13)[^key-4e0d680a1dc8d495c887690640e5c934] This section has effect subject to section 357GCZA (qualifying IP right held by another party to a cost-sharing arrangement) and section 357GCZB (exclusive licence held by another party to a cost-sharing arrangement).
+(13)[^c-4e0d680a1dc8d495c887690640e5c934] This section has effect subject to section 357GCZA (qualifying IP right held by another party to a cost-sharing arrangement) and section 357GCZB (exclusive licence held by another party to a cost-sharing arrangement).
 
 ## Annotations
 
-[^key-c419e2443f2ebe0b2be4436f50d32415]: Textual amendment: Pt. 8A Chs. 2A, 2B inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3)
+[^c-c419e2443f2ebe0b2be4436f50d32415]: Textual amendment: Pt. 8A Chs. 2A, 2B inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3)
 
-[^key-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
+[^c-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
 
-[^key-4e0d680a1dc8d495c887690640e5c934]: Textual amendment: S. 357BP(13) inserted (with effect in accordance with s. 23(5) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 23(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/23/4)
+[^c-4e0d680a1dc8d495c887690640e5c934]: Textual amendment: S. 357BP(13) inserted (with effect in accordance with s. 23(5) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 23(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/23/4)

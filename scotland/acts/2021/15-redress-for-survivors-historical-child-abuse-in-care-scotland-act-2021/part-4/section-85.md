@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Individual culpability where an organisation commits an offence under section 84[^key-3993041224024ba6285889c4dcf51e56]
+## 85. Individual culpability where an organisation commits an offence under section 84[^c-3993041224024ba6285889c4dcf51e56]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3993041224024ba6285889c4dcf51e56]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2021/15/section/85) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-3993041224024ba6285889c4dcf51e56]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2021/15/section/85) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

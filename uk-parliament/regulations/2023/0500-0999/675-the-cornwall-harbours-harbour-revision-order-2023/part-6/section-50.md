@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Power to dredge[^key-1981b0798f4560ccb323add56aa073ac]
+## 50. Power to dredge[^c-1981b0798f4560ccb323add56aa073ac]
 
 *Extent: E+W*
 
@@ -26,10 +26,10 @@ summary: ''
 
 (3) No such materials shall be laid down or deposited in contravention of the provisions of any enactment as respects to the disposal of waste.
 
-(4)[^key-cd443bf7935f37dd34b5542644c9c585] The exemption in section 75 of the Marine and Coastal Access Act 2009 (exemptions for certain dredging etc activities) shall not apply to the harbours of Portreath, Portscatho and Portwrinkle.
+(4)[^c-cd443bf7935f37dd34b5542644c9c585] The exemption in section 75 of the Marine and Coastal Access Act 2009 (exemptions for certain dredging etc activities) shall not apply to the harbours of Portreath, Portscatho and Portwrinkle.
 
 ## Annotations
 
-[^key-1981b0798f4560ccb323add56aa073ac]: Commencement: Art. 50 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-1981b0798f4560ccb323add56aa073ac]: Commencement: Art. 50 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
 
-[^key-cd443bf7935f37dd34b5542644c9c585]: Textual amendment: [Art. 50(4)](https://www.legislation.gov.uk/uksi/2023/675/article/50/4) inserted (17.7.2023) by [The Portreath, Portscatho and Portwrinkle Harbour Empowerment Order 2023 (S.I. 2023/680)](https://www.legislation.gov.uk/uksi/2023/680), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/680/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2023/680/article/5/3) (with [arts. 6](https://www.legislation.gov.uk/uksi/2023/680/article/6), [7](https://www.legislation.gov.uk/uksi/2023/680/article/7))
+[^c-cd443bf7935f37dd34b5542644c9c585]: Textual amendment: [Art. 50(4)](https://www.legislation.gov.uk/uksi/2023/675/article/50/4) inserted (17.7.2023) by [The Portreath, Portscatho and Portwrinkle Harbour Empowerment Order 2023 (S.I. 2023/680)](https://www.legislation.gov.uk/uksi/2023/680), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/680/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2023/680/article/5/3) (with [arts. 6](https://www.legislation.gov.uk/uksi/2023/680/article/6), [7](https://www.legislation.gov.uk/uksi/2023/680/article/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Funding[^key-e339ae14a003c72b8c8f8d3a16210b43]
+## 34. Funding[^c-e339ae14a003c72b8c8f8d3a16210b43]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e339ae14a003c72b8c8f8d3a16210b43]: Commencement: Art. 34 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
+[^c-e339ae14a003c72b8c8f8d3a16210b43]: Commencement: Art. 34 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)

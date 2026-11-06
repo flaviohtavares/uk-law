@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64H. Provision of information[^key-925bf4af81ae826d96e80339ef17e366]
+## 64H. Provision of information[^c-925bf4af81ae826d96e80339ef17e366]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A cryptoasset business must respond fully and without delay to a request in writ
 
 ## Annotations
 
-[^key-925bf4af81ae826d96e80339ef17e366]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2017/692/part/7A) inserted (1.9.2023) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/5/5)
+[^c-925bf4af81ae826d96e80339ef17e366]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2017/692/part/7A) inserted (1.9.2023) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/5/5)

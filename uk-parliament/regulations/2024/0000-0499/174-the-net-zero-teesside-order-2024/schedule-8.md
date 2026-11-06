@@ -24,23 +24,23 @@ Article 25
 
 ### Compensation enactments
 
-**1.**[^key-79e096ea5660d92acbb4cf8a98819df6] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply as respects compensation on the compulsory purchase of land and interests in land.
+**1.**[^c-79e096ea5660d92acbb4cf8a98819df6] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply as respects compensation on the compulsory purchase of land and interests in land.
 
-**2.**[^key-7582911ce4d2ca8961cf9fb8dcff1342] (1) Without limitation to the scope of paragraph 1, the Land Compensation Act 1973[^f00050] has effect subject to the modifications set out in sub-paragraph (2).
+**2.**[^c-7582911ce4d2ca8961cf9fb8dcff1342] (1) Without limitation to the scope of paragraph 1, the Land Compensation Act 1973[^f00050] has effect subject to the modifications set out in sub-paragraph (2).
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 (measure of compensation in case of severance) of the 1965 Act as substituted by paragraph 5(3)—
 
 - (a) for “land is acquired or taken from” substitute “a right or restrictive covenant over land is purchased from or imposed on”; and
 - (b) for “acquired or taken from him” substitute “over which the right is exercisable or the restrictive covenant enforceable”.
 
-**3.**[^key-7f435ef59dbadd6a8ed878b016d47e44] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
+**3.**[^c-7f435ef59dbadd6a8ed878b016d47e44] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
 
 (2) In section 5A(5A) (relevant valuation date) of the 1961 Act substitute—
 
 > (5A) If—
 >
-> - (a) the acquiring authority enters on land for the purpose of exercising a right in pursuance of a notice of entry under section 11(1) of the 1965 Act (as modified by paragraph 5(5) of Schedule 8 to the Net Zero Teesside Order 2024)[^key-ba098e39ac7a79be0c00e32320d06798]; and
-> - (b) the acquiring authority is subsequently required by a determination under paragraph 12 of Schedule 2A to the 1965 Act (as substituted by paragraph 5(8) of Schedule 8 to the Net Zero Teesside Order 2024)[^key-324aff80f5a71ab69b904a5e24b0e9f9] to acquire an interest in the land, and
+> - (a) the acquiring authority enters on land for the purpose of exercising a right in pursuance of a notice of entry under section 11(1) of the 1965 Act (as modified by paragraph 5(5) of Schedule 8 to the Net Zero Teesside Order 2024)[^c-ba098e39ac7a79be0c00e32320d06798]; and
+> - (b) the acquiring authority is subsequently required by a determination under paragraph 12 of Schedule 2A to the 1965 Act (as substituted by paragraph 5(8) of Schedule 8 to the Net Zero Teesside Order 2024)[^c-324aff80f5a71ab69b904a5e24b0e9f9] to acquire an interest in the land, and
 > - (c) the acquiring authority enters on and takes possession of that land,
 >
 > the authority is deemed for the purposes of subsection (3)(a) to have entered on that land where it entered on that land for the purpose of exercising that right.
@@ -49,12 +49,12 @@ Article 25
 
 ### Application of Part 1 of the 1965 Act
 
-**4.**[^key-50c6c972fdbef1eae6c5a9f26920d70a] Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (and modified by article 29 (modification of Part 1 of the Compulsory Purchase Act 1965)) to the acquisition of land under article 22 (compulsory acquisition of land), applies to the compulsory acquisition of a right by the creation of a new right, or to the imposition of a restrictive covenant under article 25 (compulsory acquisition of rights etc.)—
+**4.**[^c-50c6c972fdbef1eae6c5a9f26920d70a] Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (and modified by article 29 (modification of Part 1 of the Compulsory Purchase Act 1965)) to the acquisition of land under article 22 (compulsory acquisition of land), applies to the compulsory acquisition of a right by the creation of a new right, or to the imposition of a restrictive covenant under article 25 (compulsory acquisition of rights etc.)—
 
 - (a) with the modification specified in paragraph 5; and
 - (b) with such other modifications as may be necessary.
 
-**5.**[^key-08965cee05a6f2eea3372c62215747b5] (1) The modifications referred to in paragraph 4(a) are as follows.
+**5.**[^c-08965cee05a6f2eea3372c62215747b5] (1) The modifications referred to in paragraph 4(a) are as follows.
 
 (2) References in the 1965 Act to land are, in the appropriate contexts, to be read (according to the requirements of the particular context) as referring to, or as including references to—
 
@@ -76,7 +76,7 @@ Article 25
 
 are so modified as to secure that, as against persons with interests in the land which are expressed to be overridden by the deed, the right which is to be compulsorily acquired or the restrictive covenant which is to be imposed is vested absolutely in the acquiring authority.
 
-(5) Section 11 (powers of entry) of the 1965 Act is modified so that, where the acquiring authority has served notice to treat in respect of any right or restrictive covenant, as well as the notice of entry required by subsection (1) of that section (as it applies to compulsory acquisition under article 22 (compulsory acquisition of land))[^key-40e6a302b313bb9af251f83bf3fd3eee], it has power, exercisable in equivalent circumstances and subject to equivalent conditions, to enter for the purpose of exercising that right or enforcing that restrictive covenant; and sections 11A (powers of entry: further notices of entry)[^f00051], 11B (counter-notice requiring possession to be taken on a specified date)[^f00052], 12 (unauthorised entry)[^f00053] and 13 (refusal to give possession to an acquiring authority)[^f00054] of the 1965 Act are modified correspondingly.
+(5) Section 11 (powers of entry) of the 1965 Act is modified so that, where the acquiring authority has served notice to treat in respect of any right or restrictive covenant, as well as the notice of entry required by subsection (1) of that section (as it applies to compulsory acquisition under article 22 (compulsory acquisition of land))[^c-40e6a302b313bb9af251f83bf3fd3eee], it has power, exercisable in equivalent circumstances and subject to equivalent conditions, to enter for the purpose of exercising that right or enforcing that restrictive covenant; and sections 11A (powers of entry: further notices of entry)[^f00051], 11B (counter-notice requiring possession to be taken on a specified date)[^f00052], 12 (unauthorised entry)[^f00053] and 13 (refusal to give possession to an acquiring authority)[^f00054] of the 1965 Act are modified correspondingly.
 
 (6) Section 20 (tenants at will etc.)[^f00055] of the 1965 Act applies with the modifications necessary to secure that persons with such interests in land as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition under this Order of that land, but taking into account only the extent (if any) of such interference with such an interest as is actually caused, or likely to be caused, by the exercise of the right or the enforcement of the restrictive covenant in question.
 
@@ -143,23 +143,23 @@ are so modified as to secure that, as against persons with interests in the land
 
 ## Annotations
 
-[^key-79e096ea5660d92acbb4cf8a98819df6]: Commencement: Sch. 8 para. 1 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-79e096ea5660d92acbb4cf8a98819df6]: Commencement: Sch. 8 para. 1 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-7582911ce4d2ca8961cf9fb8dcff1342]: Commencement: Sch. 8 para. 2 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-7582911ce4d2ca8961cf9fb8dcff1342]: Commencement: Sch. 8 para. 2 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
 [^f00050]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-7f435ef59dbadd6a8ed878b016d47e44]: Commencement: Sch. 8 para. 3 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-7f435ef59dbadd6a8ed878b016d47e44]: Commencement: Sch. 8 para. 3 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-ba098e39ac7a79be0c00e32320d06798]: Textual amendment: [Sch. 8 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2024/174/schedule/8/paragraph/3/2/a) bracket inserted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
+[^c-ba098e39ac7a79be0c00e32320d06798]: Textual amendment: [Sch. 8 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2024/174/schedule/8/paragraph/3/2/a) bracket inserted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
 
-[^key-324aff80f5a71ab69b904a5e24b0e9f9]: Textual amendment: [Sch. 8 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2024/174/schedule/8/paragraph/3/2/b) bracket inserted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
+[^c-324aff80f5a71ab69b904a5e24b0e9f9]: Textual amendment: [Sch. 8 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2024/174/schedule/8/paragraph/3/2/b) bracket inserted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
 
-[^key-50c6c972fdbef1eae6c5a9f26920d70a]: Commencement: Sch. 8 para. 4 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-50c6c972fdbef1eae6c5a9f26920d70a]: Commencement: Sch. 8 para. 4 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-08965cee05a6f2eea3372c62215747b5]: Commencement: Sch. 8 para. 5 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-08965cee05a6f2eea3372c62215747b5]: Commencement: Sch. 8 para. 5 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-40e6a302b313bb9af251f83bf3fd3eee]: Textual amendment: [Sch. 8 para. 5(5)](https://www.legislation.gov.uk/uksi/2024/174/schedule/8/paragraph/5/5) bracket inserted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
+[^c-40e6a302b313bb9af251f83bf3fd3eee]: Textual amendment: [Sch. 8 para. 5(5)](https://www.legislation.gov.uk/uksi/2024/174/schedule/8/paragraph/5/5) bracket inserted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
 
 [^f00051]: Footnote: Section 11A was inserted by section 186(3) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 

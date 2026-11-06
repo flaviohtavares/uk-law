@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Local authority functions where piped supplies insufficient or unwholesome.[^key-27e514de5d22a2802d0b06d82da3631b][^key-72b2e4992442f1a153ae045e7f7d207e]
+## 79. Local authority functions where piped supplies insufficient or unwholesome.[^c-27e514de5d22a2802d0b06d82da3631b][^c-72b2e4992442f1a153ae045e7f7d207e]
 
 *Extent: E+W*
 
@@ -48,8 +48,8 @@ it shall be the duty of the undertaker, for such period as may be required by th
 
 ## Annotations
 
-[^key-27e514de5d22a2802d0b06d82da3631b]: Modification: Ss. 77-79 modified (6.4.2010) by [The Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
+[^c-27e514de5d22a2802d0b06d82da3631b]: Modification: Ss. 77-79 modified (6.4.2010) by [The Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
 
-[^key-72b2e4992442f1a153ae045e7f7d207e]: Modification: Ss. 77-79 modified (6.4.2010) by [The Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
+[^c-72b2e4992442f1a153ae045e7f7d207e]: Modification: Ss. 77-79 modified (6.4.2010) by [The Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
 
 [^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7]: Textual amendment: Words in Act substituted (1.4.2006) by virtue of [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/36/2), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/c)

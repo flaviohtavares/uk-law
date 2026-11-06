@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Reduction in pensions in cases of wide age disparity[^key-dca1f0a94ce67bc5b74d3d3ce8b24065]
+## 82. Reduction in pensions in cases of wide age disparity[^c-dca1f0a94ce67bc5b74d3d3ce8b24065]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ where N is the number of whole years by which the surviving partner is younger t
 
 ## Annotations
 
-[^key-dca1f0a94ce67bc5b74d3d3ce8b24065]: Commencement: [Reg. 82](https://www.legislation.gov.uk/uksi/2014/2848/regulation/82) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-dca1f0a94ce67bc5b74d3d3ce8b24065]: Commencement: [Reg. 82](https://www.legislation.gov.uk/uksi/2014/2848/regulation/82) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

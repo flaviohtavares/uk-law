@@ -26,7 +26,7 @@ summary: ''
 - (b) keeping and maintaining a list of ROCs which have been revoked and making such list available to the public;
 - (c) calculating and publishing before the start of each obligation period the sum which corresponds to a ROC for that period by virtue of article 67(4);
 - (d) calculating and publishing before the start of each obligation period the amount which is the mutualisation cap for that period by virtue of article 73(5);
-- (da)[^key-3842afa154d78b445ac64cc8309c2404] calculating and publishing the mutualisation threshold (referred to in article 72(4)) for each obligation period—
+- (da)[^c-3842afa154d78b445ac64cc8309c2404] calculating and publishing the mutualisation threshold (referred to in article 72(4)) for each obligation period—
   - (i) in the case of the obligation period beginning on 1st April 2021, as soon as reasonably practicable after the date on which the Renewables Obligation (Amendment) Order 2021 comes into force;
   - (ii) in the case of any subsequent obligation period, before the start of that obligation period;
 - (e) publishing from time to time during an obligation period the total ROC claim for that period;
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3842afa154d78b445ac64cc8309c2404]: Textual amendment: [Art. 86(1)(da)](https://www.legislation.gov.uk/uksi/2015/1947/article/86/1/da) inserted (31.3.2021) by [The Renewables Obligation (Amendment) Order 2021 (S.I. 2021/415)](https://www.legislation.gov.uk/uksi/2021/415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/415/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/415/article/4/2)
+[^c-3842afa154d78b445ac64cc8309c2404]: Textual amendment: [Art. 86(1)(da)](https://www.legislation.gov.uk/uksi/2015/1947/article/86/1/da) inserted (31.3.2021) by [The Renewables Obligation (Amendment) Order 2021 (S.I. 2021/415)](https://www.legislation.gov.uk/uksi/2021/415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/415/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/415/article/4/2)

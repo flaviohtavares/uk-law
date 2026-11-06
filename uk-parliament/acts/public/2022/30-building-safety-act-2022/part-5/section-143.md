@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Amendment of the Government of Wales Act 2006[^key-3744f3f7b1b76c0156cfa6f3f5a60330]
+## 143. Amendment of the Government of Wales Act 2006[^c-3744f3f7b1b76c0156cfa6f3f5a60330]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In Schedule 7B to the Government of Wales Act 2006 (general restrictions on legi
 
 ## Annotations
 
-[^key-3744f3f7b1b76c0156cfa6f3f5a60330]: Commencement: S. 143 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-3744f3f7b1b76c0156cfa6f3f5a60330]: Commencement: S. 143 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)

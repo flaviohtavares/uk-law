@@ -140,7 +140,7 @@ summary: ''
   - (i) the individual, and
   - (ii) anyone who lives with the individual.
 
-##### Power to set value of assistance as nil[^key-b71b4fb3157174c13c6dfbea814b0a07]
+##### Power to set value of assistance as nil[^c-b71b4fb3157174c13c6dfbea814b0a07]
 
 **10A.** (1) Provision may be made in the regulations for the value of the housing assistance that is to be given to an individual in respect of a period to be £0, but—
 
@@ -181,7 +181,7 @@ summary: ''
 **13.** Nothing in this schedule, apart from the following provisions, is to be taken to limit what may be prescribed in the regulations—
 
 - (a) Chapter 1 of Part 1,
-- (b) paragraphs 9 , 10A[^key-bd3ae78ce69bd265769ed44f9c69bca9] and 12 of Part 2.
+- (b) paragraphs 9 , 10A[^c-bd3ae78ce69bd265769ed44f9c69bca9] and 12 of Part 2.
 
 #### Interpretation
 
@@ -192,6 +192,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b71b4fb3157174c13c6dfbea814b0a07]: Textual amendment: Sch. 9 para. 10A inserted (26.7.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 13(5)(a)](https://www.legislation.gov.uk/asp/2020/18/section/13/5/a), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/g)
+[^c-b71b4fb3157174c13c6dfbea814b0a07]: Textual amendment: Sch. 9 para. 10A inserted (26.7.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 13(5)(a)](https://www.legislation.gov.uk/asp/2020/18/section/13/5/a), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/g)
 
-[^key-bd3ae78ce69bd265769ed44f9c69bca9]: Textual amendment: Word in [sch. 9 para. 13](https://www.legislation.gov.uk/asp/2018/9/schedule/9/paragraph/13) inserted (26.7.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 13(5)(b)](https://www.legislation.gov.uk/asp/2020/18/section/13/5/b), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/g)
+[^c-bd3ae78ce69bd265769ed44f9c69bca9]: Textual amendment: Word in [sch. 9 para. 13](https://www.legislation.gov.uk/asp/2018/9/schedule/9/paragraph/13) inserted (26.7.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 13(5)(b)](https://www.legislation.gov.uk/asp/2020/18/section/13/5/b), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/g)

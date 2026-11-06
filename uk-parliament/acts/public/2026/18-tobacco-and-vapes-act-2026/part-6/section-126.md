@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Advertising defence: public health campaigns[^key-cfc82a9fc4b9a570955d95c7ca9355b3]
+## 126. Advertising defence: public health campaigns[^c-cfc82a9fc4b9a570955d95c7ca9355b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfc82a9fc4b9a570955d95c7ca9355b3]: Commencement: S. 126 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-cfc82a9fc4b9a570955d95c7ca9355b3]: Commencement: S. 126 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

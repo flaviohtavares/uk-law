@@ -102,35 +102,35 @@ The measures provided for in this Decision are in conformity with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-## Article 1. Subject matter[^key-632d33eb19782b570c1721b34cc82cbd][^c000001]
+## Article 1. Subject matter[^c-632d33eb19782b570c1721b34cc82cbd][^c000001]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Scope[^key-632d33eb19782b570c1721b34cc82cbd]
+## Article 2. Scope[^c-632d33eb19782b570c1721b34cc82cbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Open points[^key-632d33eb19782b570c1721b34cc82cbd]
+## Article 3. Open points[^c-632d33eb19782b570c1721b34cc82cbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3a. Specific cases[^key-632d33eb19782b570c1721b34cc82cbd]
+## Article 3a. Specific cases[^c-632d33eb19782b570c1721b34cc82cbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3b. Notification of bilateral agreements[^key-632d33eb19782b570c1721b34cc82cbd]
+## Article 3b. Notification of bilateral agreements[^c-632d33eb19782b570c1721b34cc82cbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3c. Notification of rules related to the type of rear end signal[^key-632d33eb19782b570c1721b34cc82cbd]
+## Article 3c. Notification of rules related to the type of rear end signal[^c-632d33eb19782b570c1721b34cc82cbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3d. Implementation[^key-632d33eb19782b570c1721b34cc82cbd]
+## Article 3d. Implementation[^c-632d33eb19782b570c1721b34cc82cbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-632d33eb19782b570c1721b34cc82cbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-632d33eb19782b570c1721b34cc82cbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Article 5.** Decision 2007/756/EC is hereby amended as follows:
 
@@ -139,11 +139,11 @@ HAS ADOPTED THIS DECISION:
   > **Article 1a.** Appendix 6 of the Annex of this Decision shall apply from 1 January 2014.
 - ((b)) The Annex is amended in accordance with Annex II to this Decision.
 
-**Article 6.**[^key-56a9f0a5dfc167b8cb3c221e4dcb1ab5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-56a9f0a5dfc167b8cb3c221e4dcb1ab5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-56a9f0a5dfc167b8cb3c221e4dcb1ab5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-56a9f0a5dfc167b8cb3c221e4dcb1ab5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-56a9f0a5dfc167b8cb3c221e4dcb1ab5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-56a9f0a5dfc167b8cb3c221e4dcb1ab5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## ANNEX I
 
@@ -3082,11 +3082,11 @@ The Annex to Decision 2007/756/EC is amended as follows:
 
 [^f00005]: Footnote: [OJ L 305, 23.11.2007, p. 30](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.305.01.0030.01.ENG).
 
-[^key-632d33eb19782b570c1721b34cc82cbd]: Textual amendment: Arts. 1-4 revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)
+[^c-632d33eb19782b570c1721b34cc82cbd]: Textual amendment: Arts. 1-4 revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)
 
 [^c000001]: Textual amendment: Substituted by [Commission Regulation (EU) 2015/995 of 8 June 2015 amending Decision 2012/757/EU concerning the technical specification for interoperability relating to the ‘operation and traffic management’ subsystem of the rail system in the European Union (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2015/995).
 
-[^key-56a9f0a5dfc167b8cb3c221e4dcb1ab5]: Textual amendment: Arts. 6-8 revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)
+[^c-56a9f0a5dfc167b8cb3c221e4dcb1ab5]: Textual amendment: Arts. 6-8 revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)
 
 [^f00007]: Footnote: Directive 2004/49/EC of the European Parliament and of the Council of[^c000001] 29 April 2004 on safety on the Community’s railways and amending Council Directive 95/18/EC and Directive 2001/14/EC (Railway Safety Directive) ( [OJ L 164, 30.4.2004, p. 44](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.164.01.0044.01.ENG) )
 

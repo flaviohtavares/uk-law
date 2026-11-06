@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257. Meaning of “investment”[^key-9a5c639c52eb16b7074839419a31af22]
+## 257. Meaning of “investment”[^c-9a5c639c52eb16b7074839419a31af22]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a5c639c52eb16b7074839419a31af22]: Commencement: Art. 257 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-9a5c639c52eb16b7074839419a31af22]: Commencement: Art. 257 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

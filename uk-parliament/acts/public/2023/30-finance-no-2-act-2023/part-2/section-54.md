@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Small producer relief: discounted rates[^M_I_5f5ad766-985b-4f7c-a789-6f5e298ba393][^key-449847c547caf5dac0ac2aff7344d697]
+## 54. Small producer relief: discounted rates[^M_I_5f5ad766-985b-4f7c-a789-6f5e298ba393][^c-449847c547caf5dac0ac2aff7344d697]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^M_I_5f5ad766-985b-4f7c-a789-6f5e298ba393]: Commencement: S. 54 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-449847c547caf5dac0ac2aff7344d697]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2023/30/section/54) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-449847c547caf5dac0ac2aff7344d697]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2023/30/section/54) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

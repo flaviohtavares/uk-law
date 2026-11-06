@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Amendment of article 8 (eligibility for early departure payments) of the EDP Order 2005[^key-86d6f1ca13dd1193a3ab465757cdde31]
+## 18. Amendment of article 8 (eligibility for early departure payments) of the EDP Order 2005[^c-86d6f1ca13dd1193a3ab465757cdde31]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ Article 8(5) of the EDP Order 2005 is amended by—
 
 ## Annotations
 
-[^key-86d6f1ca13dd1193a3ab465757cdde31]: Commencement: Reg. 18 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-86d6f1ca13dd1193a3ab465757cdde31]: Commencement: Reg. 18 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)

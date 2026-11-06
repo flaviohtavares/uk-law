@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 21 and 23
 
-### Part I — Requirements Relating to Obligatory End-Outline Marker Lamps and to Optional End-Outline Marker Lamps to the Extent Specified in Part II[^key-7dead89ec31cd755108425551bff92d0]
+### Part I — Requirements Relating to Obligatory End-Outline Marker Lamps and to Optional End-Outline Marker Lamps to the Extent Specified in Part II[^c-7dead89ec31cd755108425551bff92d0]
 
 <table>
 <tbody>
@@ -51,12 +51,12 @@ Regulations 21 and 23
 </tbody>
 </table>
 
-### Part II — Requirements Relating to Optional End-Outline Marker Lamps[^key-cc5abe0bdcce73a074d7aa91c9199390]
+### Part II — Requirements Relating to Optional End-Outline Marker Lamps[^c-cc5abe0bdcce73a074d7aa91c9199390]
 
 Any number may be fitted, and the only requirement prescribed by these Regulations in respect of any which are fitted is that specified in paragraph 7 of Part I.
 
 ## Annotations
 
-[^key-7dead89ec31cd755108425551bff92d0]: Commencement: [Sch. 13 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/13/part/I) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-7dead89ec31cd755108425551bff92d0]: Commencement: [Sch. 13 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/13/part/I) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-cc5abe0bdcce73a074d7aa91c9199390]: Commencement: [Sch. 13 Pt. II](https://www.legislation.gov.uk/nisr/2000/169/schedule/13/part/II) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-cc5abe0bdcce73a074d7aa91c9199390]: Commencement: [Sch. 13 Pt. II](https://www.legislation.gov.uk/nisr/2000/169/schedule/13/part/II) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

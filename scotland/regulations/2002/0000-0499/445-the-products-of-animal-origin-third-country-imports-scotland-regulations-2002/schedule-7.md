@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 7 — DISAPPLICATIONS[^key-773713172fcc412278acac5841935b06]
+## SCHEDULE 7 — DISAPPLICATIONS[^c-773713172fcc412278acac5841935b06]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ Regulation 63(2)
 
 ## Annotations
 
-[^key-773713172fcc412278acac5841935b06]: Textual amendment: Regulations revoked (1.2.2007) by [The Products of Animal Origin (Third Country Imports) (Scotland) Regulations 2007 (S.S.I. 2007/1)](https://www.legislation.gov.uk/ssi/2007/1), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/1/regulation/1/1), [71(a)](https://www.legislation.gov.uk/ssi/2007/1/regulation/71/a)
+[^c-773713172fcc412278acac5841935b06]: Textual amendment: Regulations revoked (1.2.2007) by [The Products of Animal Origin (Third Country Imports) (Scotland) Regulations 2007 (S.S.I. 2007/1)](https://www.legislation.gov.uk/ssi/2007/1), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/1/regulation/1/1), [71(a)](https://www.legislation.gov.uk/ssi/2007/1/regulation/71/a)

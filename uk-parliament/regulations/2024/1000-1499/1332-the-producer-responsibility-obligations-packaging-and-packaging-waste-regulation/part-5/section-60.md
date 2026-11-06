@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Liability of producers to pay annual disposal and administration fees[^key-790fa9358ee01cb6d179d31a1a528847]
+## 60. Liability of producers to pay annual disposal and administration fees[^c-790fa9358ee01cb6d179d31a1a528847]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-45193d8341c636ca858cadaa42fd732e] A person is a liable producer in relation to an assessment year if—
+(1)[^c-45193d8341c636ca858cadaa42fd732e] A person is a liable producer in relation to an assessment year if—
 
 - (a) the person is a producer in all or part of that assessment year; and
 - (b) in the calendar year ending on the 31st December preceding the start of that assessment year, the person—
@@ -28,7 +28,7 @@ summary: ''
   - (ii) was a large producer; and
   - (iii) supplied household packaging.
 
-(2) A person[^key-e83411ffc401462a42cc1789ba9cf381] must, for each assessment year in relation to which the person is a liable producer, pay to the scheme administrator in accordance with regulation 68—
+(2) A person[^c-e83411ffc401462a42cc1789ba9cf381] must, for each assessment year in relation to which the person is a liable producer, pay to the scheme administrator in accordance with regulation 68—
 
 - (a) a disposal fee; and
 - (b) an administration fee.
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-790fa9358ee01cb6d179d31a1a528847]: Commencement: Reg. 60 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-790fa9358ee01cb6d179d31a1a528847]: Commencement: Reg. 60 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-45193d8341c636ca858cadaa42fd732e]: Textual amendment: [Reg. 60(1)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/60/1) substituted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [7(1)(a)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/7/1/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-45193d8341c636ca858cadaa42fd732e]: Textual amendment: [Reg. 60(1)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/60/1) substituted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [7(1)(a)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/7/1/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
 
-[^key-e83411ffc401462a42cc1789ba9cf381]: Textual amendment: Word in [reg. 60(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/60/2) substituted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [7(1)(b)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/7/1/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-e83411ffc401462a42cc1789ba9cf381]: Textual amendment: Word in [reg. 60(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/60/2) substituted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [7(1)(b)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/7/1/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))

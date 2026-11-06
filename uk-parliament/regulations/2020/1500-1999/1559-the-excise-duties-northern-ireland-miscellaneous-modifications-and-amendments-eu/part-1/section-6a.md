@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**6A.**[^key-d31abec3de685e584b124dc17fdc3f16] After regulation 3(3) insert—
+**6A.**[^c-d31abec3de685e584b124dc17fdc3f16] After regulation 3(3) insert—
 
 > (3A) For the purpose of these Regulations, a movement of excise goods to which regulation 63B applies—
 >
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d31abec3de685e584b124dc17fdc3f16]: Textual amendment: Regs. 6, 6A substituted for reg. 6 (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/3)
+[^c-d31abec3de685e584b124dc17fdc3f16]: Textual amendment: Regs. 6, 6A substituted for reg. 6 (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/3)

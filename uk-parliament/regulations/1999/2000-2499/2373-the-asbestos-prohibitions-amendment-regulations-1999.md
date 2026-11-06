@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Asbestos (Prohibitions) (Amendment) Regulations 1999 (revoked)[^key-27a5aaaed6318f19ca2c9c1eec0a0f00]
+The Asbestos (Prohibitions) (Amendment) Regulations 1999 (revoked)[^c-27a5aaaed6318f19ca2c9c1eec0a0f00]
 
 Made
 
@@ -45,56 +45,56 @@ Coming into force
 
 24th November 1999
 
-[^key-27a5aaaed6318f19ca2c9c1eec0a0f00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27a5aaaed6318f19ca2c9c1eec0a0f00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-27a5aaaed6318f19ca2c9c1eec0a0f00]
+## 1. Citation and commencement[^c-27a5aaaed6318f19ca2c9c1eec0a0f00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Asbestos (Prohibitions) Regulations 1992[^key-27a5aaaed6318f19ca2c9c1eec0a0f00]
+## 2. Amendments to the Asbestos (Prohibitions) Regulations 1992[^c-27a5aaaed6318f19ca2c9c1eec0a0f00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-27a5aaaed6318f19ca2c9c1eec0a0f00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27a5aaaed6318f19ca2c9c1eec0a0f00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## THE SCHEDULE[^key-27a5aaaed6318f19ca2c9c1eec0a0f00]
+## THE SCHEDULE[^c-27a5aaaed6318f19ca2c9c1eec0a0f00]
 
 Regulation 2(8)
 
-> **THE SCHEDULE — DEROGATION FROM THE PROHIBITIONS ON THE IMPORTATION, SUPPLY AND USE OF CHRYSOTILE[^key-27a5aaaed6318f19ca2c9c1eec0a0f00]**
+> **THE SCHEDULE — DEROGATION FROM THE PROHIBITIONS ON THE IMPORTATION, SUPPLY AND USE OF CHRYSOTILE[^c-27a5aaaed6318f19ca2c9c1eec0a0f00]**
 >
 > Regulations 3(2) and 7(1)
 >
-> **1.**[^key-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.**[^key-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8.**[^key-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **8.**[^c-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **9.**[^key-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **9.**[^c-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **10.**[^key-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **10.**[^c-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **11.**[^key-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **11.**[^c-27a5aaaed6318f19ca2c9c1eec0a0f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-27a5aaaed6318f19ca2c9c1eec0a0f00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27a5aaaed6318f19ca2c9c1eec0a0f00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-27a5aaaed6318f19ca2c9c1eec0a0f00]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1999/2373) revoked (13.11.2006) by [The Control of Asbestos Regulations 2006 (S.I. 2006/2739)](https://www.legislation.gov.uk/uksi/2006/2739), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2739/regulation/1), [36(1)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/2739/schedule/4) (with [reg. 36(3)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/3))
+[^c-27a5aaaed6318f19ca2c9c1eec0a0f00]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1999/2373) revoked (13.11.2006) by [The Control of Asbestos Regulations 2006 (S.I. 2006/2739)](https://www.legislation.gov.uk/uksi/2006/2739), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2739/regulation/1), [36(1)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/2739/schedule/4) (with [reg. 36(3)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/3))

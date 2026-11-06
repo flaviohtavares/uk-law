@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Insurance companies.[^key-953a9ecbb3ae85f709015e43175187b3]
+## 99. Insurance companies.[^c-953a9ecbb3ae85f709015e43175187b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-953a9ecbb3ae85f709015e43175187b3]: Textual amendment: [S. 99](https://www.legislation.gov.uk/ukpga/1996/8/section/99) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 434](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/434), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-953a9ecbb3ae85f709015e43175187b3]: Textual amendment: [S. 99](https://www.legislation.gov.uk/ukpga/1996/8/section/99) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 434](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/434), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

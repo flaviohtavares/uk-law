@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Interpretation: “the court”[^key-63db14965d24e7f72b8cd1018f760b4f]
+## 92. Interpretation: “the court”[^c-63db14965d24e7f72b8cd1018f760b4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In this Part “**the court**” means—
 
 ## Annotations
 
-[^key-63db14965d24e7f72b8cd1018f760b4f]: Commencement: S. 92 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-63db14965d24e7f72b8cd1018f760b4f]: Commencement: S. 92 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 418. Contents of directors' report: statement as to disclosure to auditors[^c20617041][^key-cf4ebce29fd685e932ca184707f8da40]
+## 418. Contents of directors' report: statement as to disclosure to auditors[^c20617041][^c-cf4ebce29fd685e932ca184707f8da40]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ commits an offence.
 
 [^c20617041]: Modification: Ss. 418-469 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/10) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-cf4ebce29fd685e932ca184707f8da40]: Modification: Ss. 418-419A applied (with modifications) by S.I. 2009/2436, Sch 1 para. 10 (as amended (with application in accordance with reg. 1(3) of the amending S.I.) by [The Unregistered Companies (Amendment) Regulations 2013 (S.I. 2013/1972)](https://www.legislation.gov.uk/uksi/2013/1972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/1/2), [2(2)(a))](https://www.legislation.gov.uk/uksi/2013/1972/regulation/2/2/a)
+[^c-cf4ebce29fd685e932ca184707f8da40]: Modification: Ss. 418-419A applied (with modifications) by S.I. 2009/2436, Sch 1 para. 10 (as amended (with application in accordance with reg. 1(3) of the amending S.I.) by [The Unregistered Companies (Amendment) Regulations 2013 (S.I. 2013/1972)](https://www.legislation.gov.uk/uksi/2013/1972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/1/2), [2(2)(a))](https://www.legislation.gov.uk/uksi/2013/1972/regulation/2/2/a)

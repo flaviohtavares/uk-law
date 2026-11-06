@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Procedure on issue of postal signing sheets[^key-660499663903e2e45d3f0eb234be9818]
+## 87. Procedure on issue of postal signing sheets[^c-660499663903e2e45d3f0eb234be9818]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-660499663903e2e45d3f0eb234be9818]: Commencement: Reg. 87 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-660499663903e2e45d3f0eb234be9818]: Commencement: Reg. 87 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

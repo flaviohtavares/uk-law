@@ -25,191 +25,191 @@ summary: ''
 
 *Extent: E*
 
-[^key-4898f4310588ada0de4deeb4128525e3]Cathedrals Measure 1999
+[^c-4898f4310588ada0de4deeb4128525e3]Cathedrals Measure 1999
 
 1999 No. 1
 
 A Measure passed by the General Synod of the Church of England to make further provision with respect to the constitution, statutes and administration of cathedrals.
 
-## Part I — Governing bodies and financial provisions[^key-4898f4310588ada0de4deeb4128525e3]
+## Part I — Governing bodies and financial provisions[^c-4898f4310588ada0de4deeb4128525e3]
 
 **No longer in force.**
 
-### General provisions[^key-4898f4310588ada0de4deeb4128525e3]
+### General provisions[^c-4898f4310588ada0de4deeb4128525e3]
 
-#### 1. Duty to have regard to cathedral’s purpose.[^key-4898f4310588ada0de4deeb4128525e3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Establishment of cathedral bodies.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 1. Duty to have regard to cathedral’s purpose.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. The Council.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 2. Establishment of cathedral bodies.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. The Chapter.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 3. The Council.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. The College of Canons.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 4. The Chapter.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Provisions concerning bishops.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 5. The College of Canons.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Provisions concerning deans.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 6. Provisions concerning bishops.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Two residentiary canons to be engaged exclusively on cathedral duties.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 7. Provisions concerning deans.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Further provisions required to be included in constitution.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 8. Two residentiary canons to be engaged exclusively on cathedral duties.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Further provisions which may be included in constitution.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 9. Further provisions required to be included in constitution.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Statutes.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 10. Further provisions which may be included in constitution.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Provisions as to cathedrals for which there was no dean and chapter.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 11. Statutes.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Provisions as to property[^key-4898f4310588ada0de4deeb4128525e3]
-
-#### 13. Vesting of property in cathedral.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 12. Provisions as to cathedrals for which there was no dean and chapter.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Schemes for transfer of property to cathedral.[^key-4898f4310588ada0de4deeb4128525e3]
+### Provisions as to property[^c-4898f4310588ada0de4deeb4128525e3]
+
+#### 13. Vesting of property in cathedral.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Acquisition and disposal of land.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 14. Schemes for transfer of property to cathedral.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Cathedral moneys: investment powers, etc.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 15. Acquisition and disposal of land.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Proceeds of disposal of property forming part of endowment of cathedral.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 16. Cathedral moneys: investment powers, etc.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17A. Investment of endowment funds on total return basis[^key-4898f4310588ada0de4deeb4128525e3]
+#### 17. Proceeds of disposal of property forming part of endowment of cathedral.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Provisions as to moneys held by Church Commissioners on behalf of a cathedral.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 17A. Investment of endowment funds on total return basis[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Allocation of houses for residentiary use.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 18. Provisions as to moneys held by Church Commissioners on behalf of a cathedral.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Inspection of cathedral property.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 19. Allocation of houses for residentiary use.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Financial provisions[^key-4898f4310588ada0de4deeb4128525e3]
-
-#### 21. Stipends of dean and residentiary canons.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 20. Inspection of cathedral property.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22. Payment towards expenses incurred by newly appointed deans and canons.[^key-4898f4310588ada0de4deeb4128525e3]
+### Financial provisions[^c-4898f4310588ada0de4deeb4128525e3]
+
+#### 21. Stipends of dean and residentiary canons.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 23. Grants for the payment of stipends and salaries.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 22. Payment towards expenses incurred by newly appointed deans and canons.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24. Grants for houses to be occupied by clerks holding office in the cathedral.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 23. Grants for the payment of stipends and salaries.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 25. Grants for repair of chancels.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 24. Grants for houses to be occupied by clerks holding office in the cathedral.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 26. Borrowing powers of Chapters.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 25. Grants for repair of chancels.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 27. Accounts, etc.[^key-4898f4310588ada0de4deeb4128525e3]
+#### 26. Borrowing powers of Chapters.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part II — Revision of constitution and statutes[^key-4898f4310588ada0de4deeb4128525e3]
+#### 27. Accounts, etc.[^c-4898f4310588ada0de4deeb4128525e3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part II — Revision of constitution and statutes[^c-4898f4310588ada0de4deeb4128525e3]
 
 **No longer in force.**
 
-### 28. Power of Council to revise constitution and statutes.[^key-4898f4310588ada0de4deeb4128525e3]
+### 28. Power of Council to revise constitution and statutes.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Procedure for revision of constitution.[^key-4898f4310588ada0de4deeb4128525e3]
+### 29. Procedure for revision of constitution.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Procedure for revision of statutes.[^key-4898f4310588ada0de4deeb4128525e3]
+### 30. Procedure for revision of statutes.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Signatories.[^key-4898f4310588ada0de4deeb4128525e3]
+### 31. Signatories.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32. Saving for Crown rights.[^key-4898f4310588ada0de4deeb4128525e3]
+### 32. Saving for Crown rights.[^c-4898f4310588ada0de4deeb4128525e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Part III — Miscellaneous and general
 
-### 33. Saving for existing interests.[^key-4898f4310588ada0de4deeb4128525e3]
+### 33. Saving for existing interests.[^c-4898f4310588ada0de4deeb4128525e3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34. Charities.[^key-4898f4310588ada0de4deeb4128525e3]
+### 34. Charities.[^c-4898f4310588ada0de4deeb4128525e3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35. Interpretation.[^key-4898f4310588ada0de4deeb4128525e3]
+### 35. Interpretation.[^c-4898f4310588ada0de4deeb4128525e3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 36. Construction of references to dean and chapter, etc.[^key-4898f4310588ada0de4deeb4128525e3]
+### 36. Construction of references to dean and chapter, etc.[^c-4898f4310588ada0de4deeb4128525e3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 37. Application.[^key-4898f4310588ada0de4deeb4128525e3]
+### 37. Application.[^c-4898f4310588ada0de4deeb4128525e3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 38. Transitional provisions and savings.[^key-4898f4310588ada0de4deeb4128525e3]
+### 38. Transitional provisions and savings.[^c-4898f4310588ada0de4deeb4128525e3]
 
 **No longer in force.**
 
@@ -219,7 +219,7 @@ A Measure passed by the General Synod of the Church of England to make further p
 
 (1) The enactments specified in Schedule 2 to this Measure shall have effect subject to the amendments specified in that Schedule, being minor amendments or amendments consequential on the provisions of this Measure.
 
-(2)[^key-4898f4310588ada0de4deeb4128525e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4898f4310588ada0de4deeb4128525e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 40. Citation.
 
@@ -227,29 +227,29 @@ This Measure may be cited as the Cathedrals Measure 1999 and the Cathedrals Meas
 
 SCHEDULES
 
-## SCHEDULE A1 TO CATHEDRALS MEASURE 1999 — Investments of cathedral held on total return basis[^key-4898f4310588ada0de4deeb4128525e3]
+## SCHEDULE A1 TO CATHEDRALS MEASURE 1999 — Investments of cathedral held on total return basis[^c-4898f4310588ada0de4deeb4128525e3]
 
 **No longer in force.**
 
-**1.**[^key-4898f4310588ada0de4deeb4128525e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4898f4310588ada0de4deeb4128525e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4898f4310588ada0de4deeb4128525e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4898f4310588ada0de4deeb4128525e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4898f4310588ada0de4deeb4128525e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4898f4310588ada0de4deeb4128525e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4898f4310588ada0de4deeb4128525e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4898f4310588ada0de4deeb4128525e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4898f4310588ada0de4deeb4128525e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4898f4310588ada0de4deeb4128525e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4898f4310588ada0de4deeb4128525e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-4898f4310588ada0de4deeb4128525e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 1 — Transitional provisions[^key-4898f4310588ada0de4deeb4128525e3]
+## SCHEDULE 1 — Transitional provisions[^c-4898f4310588ada0de4deeb4128525e3]
 
 **No longer in force.**
 
 Section 38(1).
 
-**....**[^key-4898f4310588ada0de4deeb4128525e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-4898f4310588ada0de4deeb4128525e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Minor and consequential amendments
 
@@ -280,7 +280,7 @@ Section 39(1).
 
 ### Dioceses Measure 1978
 
-**7.**[^key-8622773c8eb5d6c741ae47831821b47d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-8622773c8eb5d6c741ae47831821b47d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Church Representation Rules
 
@@ -297,7 +297,7 @@ Section 39(1).
 - (a) after the words “Cathedrals Measure 1963” there shall be inserted the words “ or section 12 of the Cathedrals Measure 1999 ”;
 - (b) the words from “or any other body” to the end shall be omitted.
 
-## SCHEDULE 3 — Repeals[^key-4898f4310588ada0de4deeb4128525e3]
+## SCHEDULE 3 — Repeals[^c-4898f4310588ada0de4deeb4128525e3]
 
 **No longer in force.**
 
@@ -307,13 +307,13 @@ Section 39(2).
 
 ## Annotations
 
-[^key-4898f4310588ada0de4deeb4128525e3]: Textual amendment: [Measure](https://www.legislation.gov.uk/ukcm/1999/1) repealed (except for ss. 39(1), 40 and Sch. 2) (29.4.2021 for specified purposes, see s. 53(1)(d), and otherwise in accordance with s. 53(3)(6)-(8)) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 51(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/51/1) (with [ss. 24(8)](https://www.legislation.gov.uk/ukcm/2021/2/section/24/8), [42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1) and with savings in S.I. 2021/1151, art. 2, S.I. 2022/308, art. 2(2)) and 2022 c. 6, Sch. 1 para. 21)
+[^c-4898f4310588ada0de4deeb4128525e3]: Textual amendment: [Measure](https://www.legislation.gov.uk/ukcm/1999/1) repealed (except for ss. 39(1), 40 and Sch. 2) (29.4.2021 for specified purposes, see s. 53(1)(d), and otherwise in accordance with s. 53(3)(6)-(8)) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 51(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/51/1) (with [ss. 24(8)](https://www.legislation.gov.uk/ukcm/2021/2/section/24/8), [42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1) and with savings in S.I. 2021/1151, art. 2, S.I. 2022/308, art. 2(2)) and 2022 c. 6, Sch. 1 para. 21)
 
 [^c923140]: Marginal citation: 26 Geo.5&1 Edw.8 No.5.
 
 [^c923141]: Marginal citation: [1963 No.2](https://www.legislation.gov.uk/ukcm/1963/2).
 
-[^key-8622773c8eb5d6c741ae47831821b47d]: Textual amendment: Sch. 2 para. 7 repealed (1.9.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [s. 66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2), [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7); [S.I. 2008/1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
+[^c-8622773c8eb5d6c741ae47831821b47d]: Textual amendment: Sch. 2 para. 7 repealed (1.9.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [s. 66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2), [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7); [S.I. 2008/1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
 
 [^c923143]: Marginal citation: [1969 No.2](https://www.legislation.gov.uk/ukcm/1969/2).
 

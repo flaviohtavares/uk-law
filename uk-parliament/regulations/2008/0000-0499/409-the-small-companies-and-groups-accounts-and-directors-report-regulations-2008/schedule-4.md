@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — COMPANIES ACT ABBREVIATED ACCOUNTS FOR DELIVERY TO REGISTRAR OF COMPANIES[^key-1f8d3622203922ccc3c3d573a33a5005]
+## SCHEDULE 4 — COMPANIES ACT ABBREVIATED ACCOUNTS FOR DELIVERY TO REGISTRAR OF COMPANIES[^c-1f8d3622203922ccc3c3d573a33a5005]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,17 +24,17 @@ summary: ''
 
 Regulation 6(1)
 
-### ...[^key-1f8d3622203922ccc3c3d573a33a5005]
+### ...[^c-1f8d3622203922ccc3c3d573a33a5005]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1f8d3622203922ccc3c3d573a33a5005]
+[^c-1f8d3622203922ccc3c3d573a33a5005]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1f8d3622203922ccc3c3d573a33a5005]
+[^c-1f8d3622203922ccc3c3d573a33a5005]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -52,4 +52,4 @@ Regulation 6(1)
 
 ## Annotations
 
-[^key-1f8d3622203922ccc3c3d573a33a5005]: Textual amendment: Sch. 4 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [21](https://www.legislation.gov.uk/uksi/2015/980/regulation/21) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-1f8d3622203922ccc3c3d573a33a5005]: Textual amendment: Sch. 4 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [21](https://www.legislation.gov.uk/uksi/2015/980/regulation/21) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))

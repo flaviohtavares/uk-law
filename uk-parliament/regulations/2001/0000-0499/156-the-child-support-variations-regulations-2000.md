@@ -42,7 +42,7 @@ Coming into force as provided in regulation 1(1)
 
 [^c1555888] Whereas a draft of this Instrument was laid before Parliament in accordance with section 52(2) of the Child Support Act 1991 and approved by a resolution of each House of Parliament:
 
-Now, therefore, the Secretary of State for Social Security, in exercise of the powers conferred upon him by sections 28A(5), 28B(2)(c), 28C(2)(b) and (5), 28E(1) and (5), 28F(2)(b) and (3)(b), 28G (3), 51, 52(4) and 54 of, and paragraphs 1, 2(a), 4 and 5(1) of Schedule 4A, and paragraphs 2(2) to (5), 3(1) and (2), 4, 5(1) and (3) to (5) and 6 of Schedule 4B to the Child Support Act 1991[^c1555889] hereby makes the following Regulations:[^key-9f181424d6fa851aebfa4f89f21d31a0][^key-70b0c008414f5c79357c7b6d20c966d6]
+Now, therefore, the Secretary of State for Social Security, in exercise of the powers conferred upon him by sections 28A(5), 28B(2)(c), 28C(2)(b) and (5), 28E(1) and (5), 28F(2)(b) and (3)(b), 28G (3), 51, 52(4) and 54 of, and paragraphs 1, 2(a), 4 and 5(1) of Schedule 4A, and paragraphs 2(2) to (5), 3(1) and (2), 4, 5(1) and (3) to (5) and 6 of Schedule 4B to the Child Support Act 1991[^c1555889] hereby makes the following Regulations:[^c-9f181424d6fa851aebfa4f89f21d31a0][^c-70b0c008414f5c79357c7b6d20c966d6]
 
 ## PART I — GENERAL
 
@@ -54,7 +54,7 @@ Now, therefore, the Secretary of State for Social Security, in exercise of the p
 
 - “the Act” means the Child Support Act 1991;
 - “capped amount” means the amount of income for the purposes of paragraph 10(3) of Schedule 1 to the Act;
-- [^key-d95015ba6f554c4c75962058517da2ad]...
+- [^c-d95015ba6f554c4c75962058517da2ad]...
 - “Contributions and Benefits Act” means the Social Security Contributions and Benefits Act 1992 [^c1555890];
 - “couple” has the same meaning as in paragraph 10C(5) of Schedule 1 to the Act;
 - “date of notification” means the date upon which notification is given in person or communicated by telephone to the recipient or, where this is not possible, the date of posting;
@@ -62,7 +62,7 @@ Now, therefore, the Secretary of State for Social Security, in exercise of the p
 - “home” has the meaning given in regulation 1(2) of the Maintenance Calculations and Special Cases Regulations;
 - “Maintenance Calculation Procedure Regulations” means the Child Support (Maintenance Calculation Procedure) Regulations 2000 [^c1555891];
 - “Maintenance Calculations and Special Cases Regulations” means the Child Support (Maintenance Calculations and Special Cases) Regulations 2000 ;
-- “partner” has the same meaning as in paragraph 10C(4) of Schedule 1 to the Act;[^key-cad074cbe1f64444b75f2019f6797ebe]
+- “partner” has the same meaning as in paragraph 10C(4) of Schedule 1 to the Act;[^c-cad074cbe1f64444b75f2019f6797ebe]
 - “qualifying child” means the child with respect to whom the maintenance calculation falls to be made;
 - “relevant person” means—
   - (a) a non-resident parent, or a person treated as a non-resident parent under regulation 8 of the Maintenance Calculations and Special Cases Regulations, whose liability to pay child support maintenance may be affected by any variation agreed;
@@ -122,13 +122,13 @@ Except where otherwise stated, where—
 - (b) the application is made—
   - (i) on a ground in paragraph 2 of Schedule 4B to the Act (special expenses) and the amount of the special expenses, or the aggregate amount of those expenses, as the case may be, does not exceed the relevant threshold provided for in regulation 15;
   - (ii) on a ground in paragraph 3 of that Schedule (property or capital transfers) and the value of the property or capital transferred does not exceed the minimum value in regulation 16(4); or
-  - (iii) on a ground referred to in regulation 18 (assets) and the value of the assets does not exceed the figure in regulation 18(3)(a), or on a ground in regulation 19(1) or (1A)[^key-7ce520f02147623200fa657bf725d17b] (income not taken into account) and the amount of the income does not exceed the figure in regulation 19(2);
+  - (iii) on a ground referred to in regulation 18 (assets) and the value of the assets does not exceed the figure in regulation 18(3)(a), or on a ground in regulation 19(1) or (1A)[^c-7ce520f02147623200fa657bf725d17b] (income not taken into account) and the amount of the income does not exceed the figure in regulation 19(2);
 - (c) a request under regulation 8 has not been complied with by the applicant and the Secretary of State is not able to determine the application without the information requested; or
 - (d) the Secretary of State is satisfied, on the information or evidence available to him, that the application would not be agreed to, including where, although a ground is stated, the facts alleged in the application would not bring the case within the prescription of the relevant ground in these Regulations.
 
 ### 7. Prescribed circumstances[^c2199696]
 
-(1) This regulation applies where an application for a variation is made under section 28A or 28G[^key-6a1703c6c335103cd9a1e2fa30f74457] of the Act and—
+(1) This regulation applies where an application for a variation is made under section 28A or 28G[^c-6a1703c6c335103cd9a1e2fa30f74457] of the Act and—
 
 - (a) the application is made by a relevant person and a circumstance set out in paragraph (2) applies at the relevant date;
 - (b) the application is made by a non-resident parent and a circumstance set out in paragraph (3) or (4) applies at the relevant date;
@@ -158,11 +158,11 @@ Except where otherwise stated, where—
 (5) The circumstances for the purposes of this paragraph are that—
 
 - (a) the amount of the net weekly income of the non-resident parent to which the Secretary of State had regard when making the maintenance calculation was the capped amount; or
-- (b) the non-resident parent or a partner of his is in receipt of working tax credit under section 10 of the Tax Credits Act 2002[^key-be5ff9aa9a5c63ae518403072eac6353] [^key-5111795c0e1bc1f3de488ac23fee4a45]....
+- (b) the non-resident parent or a partner of his is in receipt of working tax credit under section 10 of the Tax Credits Act 2002[^c-be5ff9aa9a5c63ae518403072eac6353] [^c-5111795c0e1bc1f3de488ac23fee4a45]....
 
 (6) The circumstances for the purposes of this paragraph are that the amount of the net weekly income of the non-resident parent to which the Secretary of State would have regard after deducting the amount of the special expenses would exceed the capped amount.
 
-(7) For the purposes of paragraph (1), the “relevant date” means the date from which, if the variation were agreed and the application had been made under section 28G of the Act[^key-c759caeb91e5cbd4995c0ff8d9948428], the decision under section 16 or 17 of the Act, as the case may be, would take effect and if the variation were agreed, and the application had been made under section 28A of the Act, the decision under section 11 of the Act would take effect[^key-60d3546dbe89eb7412452ef915840f3d].
+(7) For the purposes of paragraph (1), the “relevant date” means the date from which, if the variation were agreed and the application had been made under section 28G of the Act[^c-c759caeb91e5cbd4995c0ff8d9948428], the decision under section 16 or 17 of the Act, as the case may be, would take effect and if the variation were agreed, and the application had been made under section 28A of the Act, the decision under section 11 of the Act would take effect[^c-60d3546dbe89eb7412452ef915840f3d].
 
 ### 8. Provision of information[^c2199697]
 
@@ -203,7 +203,7 @@ Except where otherwise stated, where—
 
 (5) Where the Secretary of State has not received representations from the relevant persons notified in accordance with paragraph (1) within the time limit specified in sub-paragraph (b) of that paragraph, he may proceed to agree or not (as the case may be) to a variation in their absence.
 
-(6) In considering an application for a variation, the Secretary of State shall take into account any representations received at the date upon which he agrees or not (as the case may be) to the variation from the relevant persons, including any representation received in accordance with paragraphs (1)(b), (4)(a)[^key-df4b2ba430a59215e87e690524da428d] and (7).
+(6) In considering an application for a variation, the Secretary of State shall take into account any representations received at the date upon which he agrees or not (as the case may be) to the variation from the relevant persons, including any representation received in accordance with paragraphs (1)(b), (4)(a)[^c-df4b2ba430a59215e87e690524da428d] and (7).
 
 (7) Where any information or evidence requested by the Secretary of State under regulation 8 is received after notification has been given under paragraph (1), the Secretary of State may, if he considers it reasonable to do so, and except where such information or evidence falls within paragraph (2), send a copy of such information or evidence to the relevant persons and may invite them to submit representations, which need not be in writing unless the Secretary of State so directs in any particular case, on that information or evidence.
 
@@ -261,26 +261,26 @@ Except where otherwise stated, where—
 (2) For the purposes of this regulation and regulation 10—
 
 - (a) a person is “disabled” for a period in respect of which—
-  - (i) either an attendance allowance, disability living allowance, personal independence payment[^key-af5fdb67e9325a3070780febc1f0e384] , a mobility supplement or armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^key-b4c925c1b80e5ef5353e79a943adee30] is paid to or in respect of him;
-  - (ii) he would receive an attendance allowance or disability living allowance if it were not for the fact that he is a patient, though remaining part of the applicant’s family; [^key-7d02c4c126fd61e0d2f521418be67684]...
-  - (iii) he is registered blind or treated as blind within the meaning of paragraph 12(1)(a)(iii) and (2) of Schedule 2 to the Income Support (General) Regulations 1987 [^c1555895]; or[^key-fedfe2251bede67eb53188079ca99e69]
+  - (i) either an attendance allowance, disability living allowance, personal independence payment[^c-af5fdb67e9325a3070780febc1f0e384] , a mobility supplement or armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^c-b4c925c1b80e5ef5353e79a943adee30] is paid to or in respect of him;
+  - (ii) he would receive an attendance allowance or disability living allowance if it were not for the fact that he is a patient, though remaining part of the applicant’s family; [^c-7d02c4c126fd61e0d2f521418be67684]...
+  - (iii) he is registered blind or treated as blind within the meaning of paragraph 12(1)(a)(iii) and (2) of Schedule 2 to the Income Support (General) Regulations 1987 [^c1555895]; or[^c-fedfe2251bede67eb53188079ca99e69]
   - (iv) he would receive personal independence payment but for regulations under section 86(1) (hospital in-patients) of the Welfare Reform Act 2012 and he remains part of the applicant’s family;
 
   and for this purpose—
 
   - (i) “attendance allowance” means an allowance payable under section 64 of the Contributions and Benefits Act or an increase of disablement pension under section 104 of that Act, or an award under article 14 of the Naval, Military and Air Forces Etc., (Disablement and Death) Service Pensions Order 1983 [^c1555896] or any analogous allowance payable in conjunction with any other war disablement pension within the meaning of section 150(2) of the Contributions and Benefits Act;
   - (ii) “disability living allowance” means an allowance payable under section 72 of the Contributions and Benefits Act;
-  - (iia)[^key-f3e3f27794ff12a49a08c2b79d0cf36f] “personal independence payment” means an allowance payable under section 78 of the Welfare Reform Act 2012 (daily living component);
+  - (iia)[^c-f3e3f27794ff12a49a08c2b79d0cf36f] “personal independence payment” means an allowance payable under section 78 of the Welfare Reform Act 2012 (daily living component);
   - (iii) “mobility supplement” means an award under article 26A of the Naval, Military and Air Forces Etc., (Disablement and Death) Service Pensions Order 1983 or any analogous allowance payable in conjunction with any other war disablement pension within the meaning of section 150(2) of the Contributions and Benefits Act; and
   - (iv) “patient” means a person (other than a person who is serving a sentence of imprisonment or detention in a young offenders institution within the meaning of the Criminal Justice Act 1982 [^c1555897]) who is regarded as receiving free in-patient treatment within the meaning of the Social Security (Hospital In-Patients) Regulations 1975 [^c1555898];
 - (b) “the health service” has the same meaning as in section 128 of the National Health Service Act 1977 [^c1555899] or in section 108(1) of the National Health Service (Scotland) Act 1978 [^c1555900];
 - (c) “long-term illness” means an illness from which the non-resident parent or child is suffering at the date of the application or the date from which the variation, if agreed, would take effect and which is likely to last for at least 52 weeks from that date, or, if likely to be shorter than 52 weeks, for the remainder of the life of that person; and
 - (d) “relevant other child” has the meaning given in paragraph 10C(2) of Schedule 1 to the Act and Regulations made under that paragraph.
 
-(3)[^key-a19c4d696be1a66dbf8456e13602c161] Where, at the date on which the non-resident parent makes the variation application—
+(3)[^c-a19c4d696be1a66dbf8456e13602c161] Where, at the date on which the non-resident parent makes the variation application—
 
 - (a) he or a member of his household has received, or at that date is in receipt of, or where he or the member of his household will receive any financial assistance from any source in respect of the long-term illness or disability of the relevant other child; or
-- (b) a disability living allowance or armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^key-e05c3ebb7b91911f1fb60bcf27ebcf34] or personal independence payment[^key-7f810c6aa96cc0fa87e6115d0f6cf325] is received by the non-resident parent or the member of his household on behalf of the relevant other child,
+- (b) a disability living allowance or armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^c-e05c3ebb7b91911f1fb60bcf27ebcf34] or personal independence payment[^c-7f810c6aa96cc0fa87e6115d0f6cf325] is received by the non-resident parent or the member of his household on behalf of the relevant other child,
 
 only the net amount of the costs incurred in respect of the items listed in paragraph (1), after the deduction of the financial assistance or the amount of the allowance, shall constitute special expenses for the purposes of paragraph 2(2) of Schedule 4B to the Act.
 
@@ -310,7 +310,7 @@ only the net amount of the costs incurred in respect of the items listed in para
 - (b) a debt incurred for the purposes of any trade or business;
 - (c) a gambling debt;
 - (d) a fine imposed on the non-resident parent;
-- (e)[^key-e0cd2d2b1c739003e157fb6e271f8266] unpaid legal costs in respect of—
+- (e)[^c-e0cd2d2b1c739003e157fb6e271f8266] unpaid legal costs in respect of—
   - (i) separation or divorce from the person with care;
   - (ii) separation from the person with care or the dissolution of a civil partnership that had been formed with the person with care;
 - (f) amounts due after use of a credit card;
@@ -400,7 +400,7 @@ a portion of the costs incurred by the non-resident parent in respect of the boa
 
 (3) Where a transfer of property would not have fallen within paragraph (2) when made but the Secretary of State is satisfied that some or all of the amount of that property was subsequently transferred to the person currently with care of the qualifying child, the transfer of that property to the person currently with care shall constitute a transfer of property for the purposes of paragraph 3 of Schedule 4B to the Act.
 
-(4) The minimum value for the purposes of paragraph 3(2) of Schedule 4B to the Act is the threshold amount which is £4999.99[^key-ea229cd737247f896406ea4c8cc1ffa0].
+(4) The minimum value for the purposes of paragraph 3(2) of Schedule 4B to the Act is the threshold amount which is £4999.99[^c-ea229cd737247f896406ea4c8cc1ffa0].
 
 ### 17. Value of a transfer of property—equivalent weekly value[^c2199706]
 
@@ -424,7 +424,7 @@ a portion of the costs incurred by the non-resident parent in respect of the boa
 
 (1) Subject to paragraphs (2) and (3), a case shall constitute a case for the purposes of paragraph 4(1) of Schedule 4B to the Act where the Secretary of State is satisfied there is an asset—
 
-- (a) in which the non-resident parent has a beneficial interest[^key-500b64ddcf350a99c02a847e91c1a489], or which the non-resident parent has the ability to control;
+- (a) in which the non-resident parent has a beneficial interest[^c-500b64ddcf350a99c02a847e91c1a489], or which the non-resident parent has the ability to control;
 - (b) which has been transferred by the non-resident parent to trustees, and the non-resident parent is a beneficiary of the trust so created, in circumstances where the Secretary of State is satisfied the non-resident parent has made the transfer to reduce the amount of assets which would otherwise be taken into account for the purposes of a variation under paragraph 4(1) of Schedule 4B to the Act; or
 - (c) which has become subject to a trust created by legal implication of which the non-resident parent is a beneficiary.
 
@@ -439,18 +439,18 @@ and includes any such asset located outside Great Britain.
 
 (3) Paragraph (2) shall not apply—
 
-- (a)[^key-eb2a806e85ed31a0fb69fce4a652695c] where the total value of the assets referred to in that paragraph does not exceed £65,000 after deduction of—
+- (a)[^c-eb2a806e85ed31a0fb69fce4a652695c] where the total value of the assets referred to in that paragraph does not exceed £65,000 after deduction of—
 - (i) the amount owing under any mortgage or charge on those assets;
 - (ii) the value of any asset in respect of which income has been taken into account under regulation 19(1A);
 - (b) in relation to any asset which the Secretary of State is satisfied is being retained by the non-resident parent to be used for a purpose which the Secretary of State considers reasonable in all the circumstances of the case;
 - (c) to any asset received by the non-resident parent as compensation for personal injury suffered by him;
-- (d) except where the asset is of a type specified in paragraph (2)(b) and produces income which does not form part of the net weekly income of the non-resident parent as calculated or estimated under Part III of the Schedule to the Maintenance Calculations and Special Cases Regulations[^key-e78af8e5c5a0a729723a87083853ce25] to any asset used in the course of a trade or business; or
-- (e) to property which is the home of the non-resident parent or any child of his; or[^key-11e2a88ffb8977003ef70f165b018b15]
+- (d) except where the asset is of a type specified in paragraph (2)(b) and produces income which does not form part of the net weekly income of the non-resident parent as calculated or estimated under Part III of the Schedule to the Maintenance Calculations and Special Cases Regulations[^c-e78af8e5c5a0a729723a87083853ce25] to any asset used in the course of a trade or business; or
+- (e) to property which is the home of the non-resident parent or any child of his; or[^c-11e2a88ffb8977003ef70f165b018b15]
 - (f) where, were the non-resident parent a claimant, paragraph 22 (treatment of payments from certain trusts) or 64 (treatment of relevant trust payments) of Schedule 10 to the Income Support (General) Regulations 1987 would apply to the asset referred to in that paragraph.
 
 (4) For the purposes of this regulation, where any asset is held in the joint names of the non-resident parent and another person the Secretary of State shall assume, unless evidence to the contrary is provided to him, that the asset is held by them in equal shares.
 
-(5) Where a variation is agreed on the ground that the non-resident parent has assets for which provision is made in this regulation, the Secretary of State shall calculate the weekly value of the assets by applying the statutory rate of interest to the value of the assets and dividing by 52, and the resulting figure, aggregated with any benefit, pension or allowance prescribed for the purposes of paragraph 4(1)(b) of Schedule 1 to the Act[^key-0157e644ee6d3a4fa53b7388bb2a93ed] which the non-resident parent receives, other than any benefits referred to in regulation 26(3), shall be taken into account as additional income under regulation 25.
+(5) Where a variation is agreed on the ground that the non-resident parent has assets for which provision is made in this regulation, the Secretary of State shall calculate the weekly value of the assets by applying the statutory rate of interest to the value of the assets and dividing by 52, and the resulting figure, aggregated with any benefit, pension or allowance prescribed for the purposes of paragraph 4(1)(b) of Schedule 1 to the Act[^c-0157e644ee6d3a4fa53b7388bb2a93ed] which the non-resident parent receives, other than any benefits referred to in regulation 26(3), shall be taken into account as additional income under regulation 25.
 
 (6) For the purposes of this regulation, the “statutory rate of interest” means interest at the statutory rate prescribed for a judgment debt or, in Scotland, the statutory rate in respect of interest included in or payable under a decree in the Court of Session, which in either case applies on the date from which the maintenance calculation which takes account of the variation takes effect.
 
@@ -458,17 +458,17 @@ and includes any such asset located outside Great Britain.
 
 (1) Subject to paragraph (2), a case shall constitute a case for the purposes of paragraph 4(1) of Schedule 4B to the Act where—
 
-- (a) the non-resident parent’s liability to pay child support maintenance under the maintenance calculation which is in force or has been applied for [^key-6c2fe19303a14e37b92874014bbe9579]..., is, or would be, as the case may be—
+- (a) the non-resident parent’s liability to pay child support maintenance under the maintenance calculation which is in force or has been applied for [^c-6c2fe19303a14e37b92874014bbe9579]..., is, or would be, as the case may be—
   - (i) the nil rate owing to the application of paragraph 5(a) of Schedule 1 to the Act; or
   - (ii) a flat rate, owing to the application of paragraph 4(1)(b) of Schedule 1 to the Act, or would be a flat rate but is less than that amount, or nil, owing to the application of paragraph 8 of Schedule 1 to the Act; and
 - (b) the Secretary of State is satisfied that the non-resident parent is in receipt of income which would fall to be taken into account under the Maintenance Calculations and Special Cases Regulations but for the application to the non-resident parent of paragraph 4(1)(b) or 5(a) of Schedule 1 to the Act.
 
-(1A)[^key-4bde340ab0948e6016c1b6f3eb24db6b] Subject to paragraph (2), a case shall constitute a case for the purposes of paragraph 4(1) of Schedule 4B to the Act where—
+(1A)[^c-4bde340ab0948e6016c1b6f3eb24db6b] Subject to paragraph (2), a case shall constitute a case for the purposes of paragraph 4(1) of Schedule 4B to the Act where—
 
 - (a) the non-resident parent has the ability to control the amount of income he receives from a company or business, including earnings from employment or self-employment; and
 - (b) the Secretary of State is satisfied that the non-resident parent is receiving income from that company or business which would not otherwise fall to be taken into account under the Maintenance Calculations and Special Cases Regulations.
 
-(2)[^key-00bda590c494548bf6ad62566b7ce8ab] Paragraphs (1) and (1A) shall apply where—
+(2)[^c-00bda590c494548bf6ad62566b7ce8ab] Paragraphs (1) and (1A) shall apply where—
 
 - (a) the income referred to in paragraph (1)(b) is net weekly income of over £100; or
 - (b) the income referred to in paragraph (1A)(b) is over £100; or
@@ -478,28 +478,28 @@ as the case may be.
 
 (3) Net weekly income for the purposes of paragraph (2), in relation to earned income of a non-resident parent who is a student, shall be calculated by aggregating the income for the year ending with the relevant week (which for this purpose shall have the meaning given in the Maintenance Calculations and Special Cases Regulations) and dividing by 52, or, where the Secretary of State does not consider the result to be representative of the student’s earned income, over such other period as he shall consider representative and dividing by the number of weeks in that period.
 
-(4)[^key-6b2ad345427d1127a649a91c26460556] A case shall constitute a case for the purposes of paragraph 4(1) of Schedule 4B to the Act where—
+(4)[^c-6b2ad345427d1127a649a91c26460556] A case shall constitute a case for the purposes of paragraph 4(1) of Schedule 4B to the Act where—
 
 - (a) the non-resident parent (“P”) has the ability to control the amount of income that—
   - (i) P receives, or
   - (ii) is taken into account as P’s net weekly income,
 
   including earnings from employment or self-employment, whether or not the whole of that income is derived from the company or business from which those earnings are derived; and
-- (b) the Secretary of State[^key-4cb7c44d25fe14f45deedf40860d7fd0] is satisfied that P has unreasonably reduced the amount of P’s income which would otherwise fall to be taken into account under the Maintenance Calculations and Special Cases Regulations or paragraph (1A) by diverting it to other persons or for purposes other than the provision of such income for P.
+- (b) the Secretary of State[^c-4cb7c44d25fe14f45deedf40860d7fd0] is satisfied that P has unreasonably reduced the amount of P’s income which would otherwise fall to be taken into account under the Maintenance Calculations and Special Cases Regulations or paragraph (1A) by diverting it to other persons or for purposes other than the provision of such income for P.
 
 (4A) In paragraph (4), “net weekly income” has the same meaning as in the Maintenance Calculations and Special Cases Regulations.
 
 (5) Where a variation on this ground is agreed to—
 
-- (a) in a case to which paragraph (1) applies, the additional income taken into account under regulation 25 shall be the whole of the income referred to in paragraph (1)(b), aggregated with any benefit, pension or allowance prescribed for the purposes of paragraph 4(1)(b) of Schedule 1 to the Act[^key-6f92debafc2a2dc6d40fe0bd222938fe] which the non-resident parent receives other than any benefits referred to in regulation 26(3); and
-- (b) in a case to which paragraph (4) applies, the additional income taken into account under regulation 25 shall be the whole of the amount by which the Secretary of State is satisfied the non-resident parent has unreasonably reduced his income; and[^key-71c61ae81d72ecfb910179f3d433a971]
+- (a) in a case to which paragraph (1) applies, the additional income taken into account under regulation 25 shall be the whole of the income referred to in paragraph (1)(b), aggregated with any benefit, pension or allowance prescribed for the purposes of paragraph 4(1)(b) of Schedule 1 to the Act[^c-6f92debafc2a2dc6d40fe0bd222938fe] which the non-resident parent receives other than any benefits referred to in regulation 26(3); and
+- (b) in a case to which paragraph (4) applies, the additional income taken into account under regulation 25 shall be the whole of the amount by which the Secretary of State is satisfied the non-resident parent has unreasonably reduced his income; and[^c-71c61ae81d72ecfb910179f3d433a971]
 - (c) in a case to which paragraph (1A) applies, the additional income taken into account under regulation 25 shall be the whole of the income referred to in paragraph (1A)(b).
 
 ### 20. Life-style inconsistent with declared income[^c2199709]
 
 (1) Subject to paragraph (3), a case shall constitute a case for the purposes of paragraph 4(1) of Schedule 4B to the Act where—
 
-- (a) the non-resident parent’s liability to pay child support maintenance under the maintenance calculation which is in force, or which has been applied for[^key-a4ed30ae045a1fef92f2cdef2fcc244a]..., is, or would be, as the case may be—
+- (a) the non-resident parent’s liability to pay child support maintenance under the maintenance calculation which is in force, or which has been applied for[^c-a4ed30ae045a1fef92f2cdef2fcc244a]..., is, or would be, as the case may be—
   - (i) the basic rate,
   - (ii) the reduced rate,
   - (iii) a flat rate owing to the application of paragraph 4(1)(a) of Schedule 1 to the Act, including where the net weekly income of the non-resident parent taken into account for the purposes of the maintenance calculation is, or would be, £100 per week or less owing to a variation being taken into account, or to the application of regulation 18, 19 or 21 of the Transitional Regulations (deduction for relevant departure direction or relevant property transfer);
@@ -511,7 +511,7 @@ as the case may be.
   - (vi) the nil rate owing to the application of paragraph 5(b) of Schedule 1 to the Act; and
 - (b) the Secretary of State is satisfied that the income which has been, or would be, taken into account for the purposes of the maintenance calculation is substantially lower than the level of income required to support the overall life-style of the non-resident parent.
 
-(2) Subject to paragraph (4), a case shall constitute a case for the purposes of paragraph 4(1) of Schedule 4B to the Act where the non-resident parent’s liability to pay child support maintenance under the maintenance calculation which is in force, or which has been applied for [^key-c87fcdf684ab47343f2a7437b18dee05]..., is, or would be, as the case may be—
+(2) Subject to paragraph (4), a case shall constitute a case for the purposes of paragraph 4(1) of Schedule 4B to the Act where the non-resident parent’s liability to pay child support maintenance under the maintenance calculation which is in force, or which has been applied for [^c-c87fcdf684ab47343f2a7437b18dee05]..., is, or would be, as the case may be—
 
 - (a) a flat rate owing to the application of paragraph 4(1)(b) of Schedule 1 to the Act, or would be a flat rate but is less than that amount, or nil, owing to the application of paragraph 8 of Schedule 1 to the Act; or
 - (b) the nil rate owing to the application of paragraph 5(a) of Schedule 1 to the Act,
@@ -521,7 +521,7 @@ and the Secretary of State is satisfied that the income which would otherwise be
 (3) Paragraph (1) shall not apply where the Secretary of State is satisfied that the life-style of the non-resident parent is paid for from—
 
 - (a) income which is or would be disregarded for the purposes of a maintenance calculation under the Maintenance Calculations and Special Cases Regulations;
-- (aa)[^key-4b7857fc386dcfb548bc2212d8a44ca8] income which falls to be considered under regulation 19(1A) (income not taken into account);
+- (aa)[^c-4b7857fc386dcfb548bc2212d8a44ca8] income which falls to be considered under regulation 19(1A) (income not taken into account);
 - (b) income which falls to be considered under regulation 19(4) (diversion of income);
 - (c) assets as defined for the purposes of regulation 18, or income derived from those assets;
 - (d) the income of any partner of the non-resident parent, except where the non-resident parent is able to influence or control the amount of income received by that partner; or
@@ -533,7 +533,7 @@ and the Secretary of State is satisfied that the income which would otherwise be
 - (b) from net weekly income of £100 or less; or
 - (c) from income which falls to be considered under regulation 19(1).
 
-(5) Where a variation on this ground is agreed to, the additional income taken into account under regulation 25 shall be the difference between the income which the Secretary of State is satisfied the non-resident parent requires to support his overall life-style and the income which has been or, but for the application of paragraph 4(1)(b) or 5(a) of Schedule 1 to the Act, would be taken into account for the purposes of the maintenance calculation, aggregated with any benefit, pension or allowance prescribed for the purposes of paragraph 4(1)(b) of Schedule 1 to the Act[^key-77408ea37b4f5794b81d7c9588e3cda8] which the non-resident parent receives other than any benefits referred to in regulation 26(3).
+(5) Where a variation on this ground is agreed to, the additional income taken into account under regulation 25 shall be the difference between the income which the Secretary of State is satisfied the non-resident parent requires to support his overall life-style and the income which has been or, but for the application of paragraph 4(1)(b) or 5(a) of Schedule 1 to the Act, would be taken into account for the purposes of the maintenance calculation, aggregated with any benefit, pension or allowance prescribed for the purposes of paragraph 4(1)(b) of Schedule 1 to the Act[^c-77408ea37b4f5794b81d7c9588e3cda8] which the non-resident parent receives other than any benefits referred to in regulation 26(3).
 
 ## PART VI — FACTORS TO BE TAKEN INTO ACCOUNT FOR THE PURPOSES OF SECTION 28F OF THE ACT
 
@@ -626,7 +626,7 @@ Subject to regulations 26 and 27, where the variation agreed to is one falling w
 
 (4) Subject to paragraph (5), where the variation agreed to is one falling within regulation 16 (property or capital transfers) the equivalent weekly value of the transfer calculated as provided in regulation 17 shall be deducted from the amount of child support maintenance the non-resident parent would otherwise be liable to pay the person with care in respect of whom the transfer was made after aggregation of the effects of any other variations as provided in paragraph (1) or deduction for shared care as provided in paragraph (3).
 
-(5) If the application of regulation 24, or paragraph (3) or (4), would decrease the weekly amount of child support maintenance (or the aggregate of all such amounts) payable by the non-resident parent to the person with care (or all of them) to less than a figure equivalent to the flat rate of child support maintenance payable under paragraph 4(1)[^key-918fc80d0d1599f294f660a8ac0ea7e1] of Schedule 1 to the Act, he shall instead be liable to pay child support maintenance at a rate equivalent to that rate apportioned (if appropriate) as provided in paragraph 6 of Schedule 1 to the Act.
+(5) If the application of regulation 24, or paragraph (3) or (4), would decrease the weekly amount of child support maintenance (or the aggregate of all such amounts) payable by the non-resident parent to the person with care (or all of them) to less than a figure equivalent to the flat rate of child support maintenance payable under paragraph 4(1)[^c-918fc80d0d1599f294f660a8ac0ea7e1] of Schedule 1 to the Act, he shall instead be liable to pay child support maintenance at a rate equivalent to that rate apportioned (if appropriate) as provided in paragraph 6 of Schedule 1 to the Act.
 
 (6) The effect of a variation shall not be applied for any period during which a circumstance referred to in regulation 7 applies.
 
@@ -634,7 +634,7 @@ Subject to regulations 26 and 27, where the variation agreed to is one falling w
 
 ### 28. Transitional provisions—conversion decisions[^c2199717]
 
-Subject to regulation 17(10) of the Transitional Regulations, where[^key-97cd68def9c6a73ca1239695063c7098] the variation is being applied for in connection with a subsequent decision within the meaning given in the Transitional Regulations, and the decision to be revised or superseded under section 16 or 17 of the Act, as the case may be, takes into account a relevant property transfer as defined and provided for in those Regulations—
+Subject to regulation 17(10) of the Transitional Regulations, where[^c-97cd68def9c6a73ca1239695063c7098] the variation is being applied for in connection with a subsequent decision within the meaning given in the Transitional Regulations, and the decision to be revised or superseded under section 16 or 17 of the Act, as the case may be, takes into account a relevant property transfer as defined and provided for in those Regulations—
 
 - (a) for the purposes of regulations 23 and 25 “capped amount” shall mean the income for the purposes of paragraph 10(3) of Schedule 1 to the Act less any deduction in respect of the relevant property transfer;
 - (b) for the purposes of regulation 26(3)(b) the additional income for the purposes of paragraph (1) of that regulation shall be after deduction in respect of the relevant property transfer;
@@ -671,13 +671,13 @@ The circumstances prescribed for the purposes of section 28F(3) of the Act (Secr
 
 ### 32. Meaning of “benefit” for the purposes of section 28E of the Act[^c2199721]
 
-For the purposes of section 28E of the Act, “benefit” means income support, income-based jobseeker’s allowance and housing benefit[^key-be72652b854de79dbea5bd1d35993095].
+For the purposes of section 28E of the Act, “benefit” means income support, income-based jobseeker’s allowance and housing benefit[^c-be72652b854de79dbea5bd1d35993095].
 
 ## PART IX — REVOCATION
 
 ### 33. Revocation and savings[^c2199722]
 
-(1) Subject to the Transitional Regulations and[^key-5551cc2ea552a799b8f55750f7b61356] paragraph (2), the Child Support Departure Direction and Consequential Amendments Regulations 1996 [^c1555906] shall be revoked with respect to a particular case with effect from the date that these Regulations come into force with respect to that type of case (“the commencement date”).
+(1) Subject to the Transitional Regulations and[^c-5551cc2ea552a799b8f55750f7b61356] paragraph (2), the Child Support Departure Direction and Consequential Amendments Regulations 1996 [^c1555906] shall be revoked with respect to a particular case with effect from the date that these Regulations come into force with respect to that type of case (“the commencement date”).
 
 (2) Where before the commencement date in respect of a particular case—
 
@@ -791,19 +791,19 @@ The impact on business of these Regulations was covered in the Regulatory Impact
 
 [^c1555889]: Marginal citation: Section 28A, 28B, 28C and 28F and Schedules 4A and 4B are substituted by section 5 of, and Schedule 2 to, the Child Support, Pensions and Social Security Act [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19). Section 28E was inserted by the Child Support Act [1995 c. 34](https://www.legislation.gov.uk/ukpga/1995/34) and is amended by section 5 of the Child Support, Pensions and Social Security Act 2000. Section 54 is cited because of the meaning assigned to the word “prescribed” and Schedule 4A paragraph 1 is cited because of the meaning assigned to the word “regulations”.
 
-[^key-9f181424d6fa851aebfa4f89f21d31a0]: Modification: Instrument applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii)[(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+[^c-9f181424d6fa851aebfa4f89f21d31a0]: Modification: Instrument applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii)[(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
 
-[^key-70b0c008414f5c79357c7b6d20c966d6]: Modification: Regulations revoked (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [reg. 10(f)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/10/f)
+[^c-70b0c008414f5c79357c7b6d20c966d6]: Modification: Regulations revoked (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [reg. 10(f)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/10/f)
 
 [^c2199690]: Commencement: Reg. 1 partly in force; reg. 1 not in force at made date; reg. 1 in force at 3.3.2003 for certain purposes, see reg. 1(1) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
-[^key-d95015ba6f554c4c75962058517da2ad]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/156/regulation/1/2) omitted (1.8.2012) by virtue of [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 115(a)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/115/a)
+[^c-d95015ba6f554c4c75962058517da2ad]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/156/regulation/1/2) omitted (1.8.2012) by virtue of [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 115(a)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/115/a)
 
 [^c1555890]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
 [^c1555891]: Marginal citation: [S.I. 2001/157](https://www.legislation.gov.uk/uksi/2001/157).
 
-[^key-cad074cbe1f64444b75f2019f6797ebe]: Textual amendment: Words in reg. 1(2) inserted (16.9.2004) by [The Child Support (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2415)](https://www.legislation.gov.uk/uksi/2004/2415), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2004/2415/regulation/1/2/a), [9(2)](https://www.legislation.gov.uk/uksi/2004/2415/regulation/9/2)
+[^c-cad074cbe1f64444b75f2019f6797ebe]: Textual amendment: Words in reg. 1(2) inserted (16.9.2004) by [The Child Support (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2415)](https://www.legislation.gov.uk/uksi/2004/2415), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2004/2415/regulation/1/2/a), [9(2)](https://www.legislation.gov.uk/uksi/2004/2415/regulation/9/2)
 
 [^c1555893]: Marginal citation: [S.I. 2000/3186](https://www.legislation.gov.uk/uksi/2000/3186).
 
@@ -817,43 +817,43 @@ The impact on business of these Regulations was covered in the Regulatory Impact
 
 [^c2199695]: Commencement: Reg. 6 partly in force; reg. 6 not in force at made date; reg. 6 in force at 3.3.2003 for certain purposes, see reg. 1(1) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
-[^key-7ce520f02147623200fa657bf725d17b]: Textual amendment: Words in [reg. 6(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2001/156/regulation/6/2/b/iii) inserted (6.4.2005) by [Child Support (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/785)](https://www.legislation.gov.uk/uksi/2005/785), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/785/regulation/1/2/c), [8(2)](https://www.legislation.gov.uk/uksi/2005/785/regulation/8/2)
+[^c-7ce520f02147623200fa657bf725d17b]: Textual amendment: Words in [reg. 6(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2001/156/regulation/6/2/b/iii) inserted (6.4.2005) by [Child Support (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/785)](https://www.legislation.gov.uk/uksi/2005/785), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/785/regulation/1/2/c), [8(2)](https://www.legislation.gov.uk/uksi/2005/785/regulation/8/2)
 
 [^c2199696]: Commencement: Reg. 7 partly in force; reg. 7 not in force at made date; reg. 7 in force at 3.3.2003 for certain purposes, see reg. 1(1) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
-[^key-6a1703c6c335103cd9a1e2fa30f74457]: Textual amendment: Words in reg. 7(1) substituted (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(2)(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/2/a)
+[^c-6a1703c6c335103cd9a1e2fa30f74457]: Textual amendment: Words in reg. 7(1) substituted (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(2)(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/2/a)
 
-[^key-be5ff9aa9a5c63ae518403072eac6353]: Textual amendment: Words in reg. 7(5)(b) substituted (6.4.2003) by [The Child Support (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/328)](https://www.legislation.gov.uk/uksi/2003/328), [regs. 1(3)(d)](https://www.legislation.gov.uk/uksi/2003/328/regulation/1/3/d), [10](https://www.legislation.gov.uk/uksi/2003/328/regulation/10)
+[^c-be5ff9aa9a5c63ae518403072eac6353]: Textual amendment: Words in reg. 7(5)(b) substituted (6.4.2003) by [The Child Support (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/328)](https://www.legislation.gov.uk/uksi/2003/328), [regs. 1(3)(d)](https://www.legislation.gov.uk/uksi/2003/328/regulation/1/3/d), [10](https://www.legislation.gov.uk/uksi/2003/328/regulation/10)
 
-[^key-5111795c0e1bc1f3de488ac23fee4a45]: Textual amendment: Words in [reg. 7(5)(b)](https://www.legislation.gov.uk/uksi/2001/156/regulation/7/5/b) omitted (16.9.2004) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2415)](https://www.legislation.gov.uk/uksi/2004/2415), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2004/2415/regulation/1/2/a), [9(3)](https://www.legislation.gov.uk/uksi/2004/2415/regulation/9/3)
+[^c-5111795c0e1bc1f3de488ac23fee4a45]: Textual amendment: Words in [reg. 7(5)(b)](https://www.legislation.gov.uk/uksi/2001/156/regulation/7/5/b) omitted (16.9.2004) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2415)](https://www.legislation.gov.uk/uksi/2004/2415), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2004/2415/regulation/1/2/a), [9(3)](https://www.legislation.gov.uk/uksi/2004/2415/regulation/9/3)
 
-[^key-c759caeb91e5cbd4995c0ff8d9948428]: Textual amendment: Words in reg. 7(7) inserted (30.4.2002) by virtue of[The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/2/b/i)
+[^c-c759caeb91e5cbd4995c0ff8d9948428]: Textual amendment: Words in reg. 7(7) inserted (30.4.2002) by virtue of[The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/2/b/i)
 
-[^key-60d3546dbe89eb7412452ef915840f3d]: Textual amendment: Words in reg. 7(7) inserted (30.4.2002) by virtue of[The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/2/b/ii)
+[^c-60d3546dbe89eb7412452ef915840f3d]: Textual amendment: Words in reg. 7(7) inserted (30.4.2002) by virtue of[The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/2/b/ii)
 
 [^c2199697]: Commencement: Reg. 8 partly in force; reg. 8 not in force at made date; reg. 8 in force at 3.3.2003 for certain purposes, see reg. 1(1) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
 [^c2199698]: Commencement: Reg. 9 partly in force; reg. 9 not in force at made date; reg. 9 in force at 3.3.2003 for certain purposes, see reg. 1(1) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
-[^key-df4b2ba430a59215e87e690524da428d]: Textual amendment: Words in [reg. 9(6)](https://www.legislation.gov.uk/uksi/2001/156/regulation/9/6) substituted (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(3)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/3)
+[^c-df4b2ba430a59215e87e690524da428d]: Textual amendment: Words in [reg. 9(6)](https://www.legislation.gov.uk/uksi/2001/156/regulation/9/6) substituted (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(3)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/3)
 
 [^c2199699]: Commencement: Reg. 10 partly in force; reg. 10 not in force at made date; reg. 10 in force at 3.3.2003 for certain purposes, see reg. 1(1) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
 [^c2199700]: Commencement: Reg. 11 partly in force; reg. 11 not in force at made date; reg. 11 in force at 3.3.2003 for certain purposes, see reg. 1(1) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
-[^key-af5fdb67e9325a3070780febc1f0e384]: Textual amendment: Words in [reg. 11(2)(a)(i)](https://www.legislation.gov.uk/uksi/2001/156/regulation/11/2/a/i) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 24(a)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/24/a)
+[^c-af5fdb67e9325a3070780febc1f0e384]: Textual amendment: Words in [reg. 11(2)(a)(i)](https://www.legislation.gov.uk/uksi/2001/156/regulation/11/2/a/i) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 24(a)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/24/a)
 
-[^key-b4c925c1b80e5ef5353e79a943adee30]: Textual amendment: Words in [reg. 11(2)(a)(i)](https://www.legislation.gov.uk/uksi/2001/156/regulation/11/2/a/i) substituted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 17(2)(a)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/17/2/a)
+[^c-b4c925c1b80e5ef5353e79a943adee30]: Textual amendment: Words in [reg. 11(2)(a)(i)](https://www.legislation.gov.uk/uksi/2001/156/regulation/11/2/a/i) substituted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 17(2)(a)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/17/2/a)
 
-[^key-7d02c4c126fd61e0d2f521418be67684]: Textual amendment: Word in [reg. 11(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2001/156/regulation/11/2/a/ii) omitted (8.4.2013) by virtue of [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 24(b)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/24/b)
+[^c-7d02c4c126fd61e0d2f521418be67684]: Textual amendment: Word in [reg. 11(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2001/156/regulation/11/2/a/ii) omitted (8.4.2013) by virtue of [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 24(b)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/24/b)
 
 [^c1555895]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
-[^key-fedfe2251bede67eb53188079ca99e69]: Textual amendment: [Reg. 11(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2001/156/regulation/11/2/a/iv) and word inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 24(c)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/24/c)
+[^c-fedfe2251bede67eb53188079ca99e69]: Textual amendment: [Reg. 11(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2001/156/regulation/11/2/a/iv) and word inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 24(c)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/24/c)
 
 [^c1555896]: Marginal citation: [S.I. 1983/883](https://www.legislation.gov.uk/uksi/1983/883).
 
-[^key-f3e3f27794ff12a49a08c2b79d0cf36f]: Textual amendment: [Reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2001/156/regulation/11/2/a)[(iia)](https://www.legislation.gov.uk/uksi/2001/156/regulation/11/2/iia) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 24(d)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/24/d)
+[^c-f3e3f27794ff12a49a08c2b79d0cf36f]: Textual amendment: [Reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2001/156/regulation/11/2/a)[(iia)](https://www.legislation.gov.uk/uksi/2001/156/regulation/11/2/iia) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 24(d)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/24/d)
 
 [^c1555897]: Marginal citation: [1982 c. 48](https://www.legislation.gov.uk/ukpga/1982/48). The Act is amended by the Criminal Justice Act [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33).
 
@@ -863,15 +863,15 @@ The impact on business of these Regulations was covered in the Regulatory Impact
 
 [^c1555900]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 
-[^key-a19c4d696be1a66dbf8456e13602c161]: Textual amendment: Reg. 11(3) substituted (16.3.2005) by [Child Support (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/785)](https://www.legislation.gov.uk/uksi/2005/785), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2005/785/regulation/1/2/a), [8(3)](https://www.legislation.gov.uk/uksi/2005/785/regulation/8/3)
+[^c-a19c4d696be1a66dbf8456e13602c161]: Textual amendment: Reg. 11(3) substituted (16.3.2005) by [Child Support (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/785)](https://www.legislation.gov.uk/uksi/2005/785), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2005/785/regulation/1/2/a), [8(3)](https://www.legislation.gov.uk/uksi/2005/785/regulation/8/3)
 
-[^key-e05c3ebb7b91911f1fb60bcf27ebcf34]: Textual amendment: Words in [reg. 11(3)(b)](https://www.legislation.gov.uk/uksi/2001/156/regulation/11/3/b) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 17(2)(b)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/17/2/b)
+[^c-e05c3ebb7b91911f1fb60bcf27ebcf34]: Textual amendment: Words in [reg. 11(3)(b)](https://www.legislation.gov.uk/uksi/2001/156/regulation/11/3/b) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 17(2)(b)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/17/2/b)
 
-[^key-7f810c6aa96cc0fa87e6115d0f6cf325]: Textual amendment: Words in [reg. 11(3)(b)](https://www.legislation.gov.uk/uksi/2001/156/regulation/11/3/b) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 24(e)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/24/e)
+[^c-7f810c6aa96cc0fa87e6115d0f6cf325]: Textual amendment: Words in [reg. 11(3)(b)](https://www.legislation.gov.uk/uksi/2001/156/regulation/11/3/b) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 24(e)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/24/e)
 
 [^c2199701]: Commencement: Reg. 12 partly in force; reg. 12 not in force at made date; reg. 12 in force at 3.3.2003 for certain purposes, see reg. 1(1) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
-[^key-e0cd2d2b1c739003e157fb6e271f8266]: Textual amendment: [Reg. 12(3)(e)](https://www.legislation.gov.uk/uksi/2001/156/regulation/12/3/e) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2005/2877/schedule/4/paragraph/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-e0cd2d2b1c739003e157fb6e271f8266]: Textual amendment: [Reg. 12(3)(e)](https://www.legislation.gov.uk/uksi/2001/156/regulation/12/3/e) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2005/2877/schedule/4/paragraph/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
 [^c1555901]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
@@ -883,13 +883,13 @@ The impact on business of these Regulations was covered in the Regulatory Impact
 
 [^c2199705]: Commencement: Reg. 16 partly in force; reg. 16 not in force at made date; reg. 16 in force at 3.3.2003 for certain purposes, see reg. 1(1) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
-[^key-ea229cd737247f896406ea4c8cc1ffa0]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/uksi/2001/156/regulation/16/4) substituted (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(4)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/4)
+[^c-ea229cd737247f896406ea4c8cc1ffa0]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/uksi/2001/156/regulation/16/4) substituted (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(4)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/4)
 
 [^c2199706]: Commencement: Reg. 17 partly in force; reg. 17 not in force at made date; reg. 17 in force at 3.3.2003 for certain purposes, see reg. 1(1) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
 [^c2199707]: Commencement: Reg. 18 partly in force; reg. 18 not in force at made date; reg. 18 in force at 3.3.2003 for certain purposes, see reg. 1(1) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
-[^key-500b64ddcf350a99c02a847e91c1a489]: Textual amendment: Words in reg. 18(1)(a) substituted (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(5)(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/5/a)
+[^c-500b64ddcf350a99c02a847e91c1a489]: Textual amendment: Words in reg. 18(1)(a) substituted (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(5)(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/5/a)
 
 [^c1555902]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
@@ -897,39 +897,39 @@ The impact on business of these Regulations was covered in the Regulatory Impact
 
 [^c1555904]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-eb2a806e85ed31a0fb69fce4a652695c]: Textual amendment: [Reg. 18(3)(a)](https://www.legislation.gov.uk/uksi/2001/156/regulation/18/3/a) substituted (6.4.2005) by [Child Support (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/785)](https://www.legislation.gov.uk/uksi/2005/785), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/785/regulation/1/2/c), [8(4)](https://www.legislation.gov.uk/uksi/2005/785/regulation/8/4)
+[^c-eb2a806e85ed31a0fb69fce4a652695c]: Textual amendment: [Reg. 18(3)(a)](https://www.legislation.gov.uk/uksi/2001/156/regulation/18/3/a) substituted (6.4.2005) by [Child Support (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/785)](https://www.legislation.gov.uk/uksi/2005/785), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/785/regulation/1/2/c), [8(4)](https://www.legislation.gov.uk/uksi/2005/785/regulation/8/4)
 
-[^key-e78af8e5c5a0a729723a87083853ce25]: Textual amendment: Words in reg. 18(3)(d) inserted (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(5)(b)(i)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/5/b/i)
+[^c-e78af8e5c5a0a729723a87083853ce25]: Textual amendment: Words in reg. 18(3)(d) inserted (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(5)(b)(i)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/5/b/i)
 
-[^key-11e2a88ffb8977003ef70f165b018b15]: Textual amendment: Reg. 18(3)(f) added (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/5/b/ii)
+[^c-11e2a88ffb8977003ef70f165b018b15]: Textual amendment: Reg. 18(3)(f) added (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/5/b/ii)
 
-[^key-0157e644ee6d3a4fa53b7388bb2a93ed]: Textual amendment: Words in reg. 18(5) inserted (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(6)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/6)
+[^c-0157e644ee6d3a4fa53b7388bb2a93ed]: Textual amendment: Words in reg. 18(5) inserted (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(6)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/6)
 
 [^c2199708]: Commencement: Reg. 19 partly in force; reg. 19 not in force at made date; reg. 19 in force at 3.3.2003 for certain purposes, see reg. 1(1) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
-[^key-6c2fe19303a14e37b92874014bbe9579]: Textual amendment: Words in reg. 19(1)(a) omitted (27.10.2008) by virtue of [Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/8/2)
+[^c-6c2fe19303a14e37b92874014bbe9579]: Textual amendment: Words in reg. 19(1)(a) omitted (27.10.2008) by virtue of [Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/8/2)
 
-[^key-4bde340ab0948e6016c1b6f3eb24db6b]: Textual amendment: Reg. 19(1A) inserted (6.4.2005) by [Child Support (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/785)](https://www.legislation.gov.uk/uksi/2005/785), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/785/regulation/1/2/c), [8(5)(a)](https://www.legislation.gov.uk/uksi/2005/785/regulation/8/5/a)
+[^c-4bde340ab0948e6016c1b6f3eb24db6b]: Textual amendment: Reg. 19(1A) inserted (6.4.2005) by [Child Support (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/785)](https://www.legislation.gov.uk/uksi/2005/785), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/785/regulation/1/2/c), [8(5)(a)](https://www.legislation.gov.uk/uksi/2005/785/regulation/8/5/a)
 
-[^key-00bda590c494548bf6ad62566b7ce8ab]: Textual amendment: Reg. 19(2) substituted (6.4.2005) by [Child Support (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/785)](https://www.legislation.gov.uk/uksi/2005/785), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/785/regulation/1/2/c), [8(5)(b)](https://www.legislation.gov.uk/uksi/2005/785/regulation/8/5/b)
+[^c-00bda590c494548bf6ad62566b7ce8ab]: Textual amendment: Reg. 19(2) substituted (6.4.2005) by [Child Support (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/785)](https://www.legislation.gov.uk/uksi/2005/785), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/785/regulation/1/2/c), [8(5)(b)](https://www.legislation.gov.uk/uksi/2005/785/regulation/8/5/b)
 
-[^key-6b2ad345427d1127a649a91c26460556]: Textual amendment: Reg. 19(4)(4A) substituted for reg. 19(4) (6.4.2009) by [Child Support (Miscellaneous and Consequential Amendments) Regulations 2009 (S.I. 2009/736)](https://www.legislation.gov.uk/uksi/2009/736), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/736/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2009/736/regulation/4/3)
+[^c-6b2ad345427d1127a649a91c26460556]: Textual amendment: Reg. 19(4)(4A) substituted for reg. 19(4) (6.4.2009) by [Child Support (Miscellaneous and Consequential Amendments) Regulations 2009 (S.I. 2009/736)](https://www.legislation.gov.uk/uksi/2009/736), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/736/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2009/736/regulation/4/3)
 
-[^key-4cb7c44d25fe14f45deedf40860d7fd0]: Textual amendment: Words in [reg. 19(4)(b)](https://www.legislation.gov.uk/uksi/2001/156/regulation/19/4/b) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 115(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/115/b)
+[^c-4cb7c44d25fe14f45deedf40860d7fd0]: Textual amendment: Words in [reg. 19(4)(b)](https://www.legislation.gov.uk/uksi/2001/156/regulation/19/4/b) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 115(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/115/b)
 
-[^key-6f92debafc2a2dc6d40fe0bd222938fe]: Textual amendment: Words in reg. 19(5)(a) inserted (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(6)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/6)
+[^c-6f92debafc2a2dc6d40fe0bd222938fe]: Textual amendment: Words in reg. 19(5)(a) inserted (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(6)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/6)
 
-[^key-71c61ae81d72ecfb910179f3d433a971]: Textual amendment: Reg. 19(5)(c) and word added (6.4.2005) by [Child Support (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/785)](https://www.legislation.gov.uk/uksi/2005/785), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/785/regulation/1/2/c), [8(5)(d)](https://www.legislation.gov.uk/uksi/2005/785/regulation/8/5/d)
+[^c-71c61ae81d72ecfb910179f3d433a971]: Textual amendment: Reg. 19(5)(c) and word added (6.4.2005) by [Child Support (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/785)](https://www.legislation.gov.uk/uksi/2005/785), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/785/regulation/1/2/c), [8(5)(d)](https://www.legislation.gov.uk/uksi/2005/785/regulation/8/5/d)
 
 [^c2199709]: Commencement: Reg. 20 partly in force; reg. 20 not in force at made date; reg. 20 in force at 3.3.2003 for certain purposes, see reg. 1(1) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
-[^key-a4ed30ae045a1fef92f2cdef2fcc244a]: Textual amendment: Words in reg. 20(1)(a) omitted (27.10.2008) by virtue of [Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/8/3)
+[^c-a4ed30ae045a1fef92f2cdef2fcc244a]: Textual amendment: Words in reg. 20(1)(a) omitted (27.10.2008) by virtue of [Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/8/3)
 
-[^key-c87fcdf684ab47343f2a7437b18dee05]: Textual amendment: Words in reg. 20(2) omitted (27.10.2008) by virtue of [Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/8/3)
+[^c-c87fcdf684ab47343f2a7437b18dee05]: Textual amendment: Words in reg. 20(2) omitted (27.10.2008) by virtue of [Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/8/3)
 
-[^key-4b7857fc386dcfb548bc2212d8a44ca8]: Textual amendment: Reg. 20(3)(aa) inserted (6.4.2005) by [Child Support (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/785)](https://www.legislation.gov.uk/uksi/2005/785), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/785/regulation/1/2/c), [8(6)](https://www.legislation.gov.uk/uksi/2005/785/regulation/8/6)
+[^c-4b7857fc386dcfb548bc2212d8a44ca8]: Textual amendment: Reg. 20(3)(aa) inserted (6.4.2005) by [Child Support (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/785)](https://www.legislation.gov.uk/uksi/2005/785), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/785/regulation/1/2/c), [8(6)](https://www.legislation.gov.uk/uksi/2005/785/regulation/8/6)
 
-[^key-77408ea37b4f5794b81d7c9588e3cda8]: Textual amendment: Words in reg. 20(5) inserted (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(6)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/6)
+[^c-77408ea37b4f5794b81d7c9588e3cda8]: Textual amendment: Words in reg. 20(5) inserted (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/3/a), [9(6)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/9/6)
 
 [^c2199710]: Commencement: Reg. 21 partly in force; reg. 21 not in force at made date; reg. 21 in force at 3.3.2003 for certain purposes, see reg. 1(1) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
@@ -947,11 +947,11 @@ The impact on business of these Regulations was covered in the Regulatory Impact
 
 [^c2199716]: Commencement: Reg. 27 partly in force; reg. 27 not in force at made date; reg. 27 in force at 3.3.2003 for certain purposes, see reg. 1(1) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
-[^key-918fc80d0d1599f294f660a8ac0ea7e1]: Textual amendment: Words in [reg. 27(5)](https://www.legislation.gov.uk/uksi/2001/156/regulation/27/5) substituted (16.9.2004) by [The Child Support (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2415)](https://www.legislation.gov.uk/uksi/2004/2415), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2004/2415/regulation/1/2/a), [9(4)](https://www.legislation.gov.uk/uksi/2004/2415/regulation/9/4)
+[^c-918fc80d0d1599f294f660a8ac0ea7e1]: Textual amendment: Words in [reg. 27(5)](https://www.legislation.gov.uk/uksi/2001/156/regulation/27/5) substituted (16.9.2004) by [The Child Support (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2415)](https://www.legislation.gov.uk/uksi/2004/2415), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2004/2415/regulation/1/2/a), [9(4)](https://www.legislation.gov.uk/uksi/2004/2415/regulation/9/4)
 
 [^c2199717]: Commencement: Reg. 28 partly in force; reg. 28 not in force at made date; reg. 28 in force at 3.3.2003 for certain purposes, see reg. 1(1) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
-[^key-97cd68def9c6a73ca1239695063c7098]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/2001/156/regulation/28) substituted (5.11.2003) by [The Child Support (Miscellaneous Amendments) (No. 2) Regulations 2003 (S.I. 2003/2779)](https://www.legislation.gov.uk/uksi/2003/2779), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2779/regulation/1), [8](https://www.legislation.gov.uk/uksi/2003/2779/regulation/8)
+[^c-97cd68def9c6a73ca1239695063c7098]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/2001/156/regulation/28) substituted (5.11.2003) by [The Child Support (Miscellaneous Amendments) (No. 2) Regulations 2003 (S.I. 2003/2779)](https://www.legislation.gov.uk/uksi/2003/2779), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2779/regulation/1), [8](https://www.legislation.gov.uk/uksi/2003/2779/regulation/8)
 
 [^c2199718]: Commencement: Reg. 29 partly in force; reg. 29 not in force at made date; reg. 29 in force at 3.3.2003 for certain purposes, see reg. 1(1) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
@@ -961,11 +961,11 @@ The impact on business of these Regulations was covered in the Regulatory Impact
 
 [^c2199721]: Commencement: Reg. 32 partly in force; reg. 32 not in force at made date; reg. 32 in force at 3.3.2003 for certain purposes, see reg. 1(1) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
-[^key-be72652b854de79dbea5bd1d35993095]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/2001/156/regulation/32) substituted (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2013/458/schedule/2/paragraph/5)
+[^c-be72652b854de79dbea5bd1d35993095]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/2001/156/regulation/32) substituted (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2013/458/schedule/2/paragraph/5)
 
 [^c2199722]: Commencement: Reg. 33 partly in force; reg. 33 not in force at made date; reg. 33 in force at 3.3.2003 for certain purposes, {see reg. 1(1)} and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
-[^key-5551cc2ea552a799b8f55750f7b61356]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/2001/156/regulation/33/1) inserted (3.3.2003) by [The Child Support (Transitional Provision)(Miscellaneous Amendments) Regulations 2003 (S.I. 2003/347)](https://www.legislation.gov.uk/uksi/2003/347), [regs. 1](https://www.legislation.gov.uk/uksi/2003/347/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2003/347/regulation/2/5)
+[^c-5551cc2ea552a799b8f55750f7b61356]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/2001/156/regulation/33/1) inserted (3.3.2003) by [The Child Support (Transitional Provision)(Miscellaneous Amendments) Regulations 2003 (S.I. 2003/347)](https://www.legislation.gov.uk/uksi/2003/347), [regs. 1](https://www.legislation.gov.uk/uksi/2003/347/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2003/347/regulation/2/5)
 
 [^c1555906]: Marginal citation: [S.I. 1996/2907](https://www.legislation.gov.uk/uksi/1996/2907).
 

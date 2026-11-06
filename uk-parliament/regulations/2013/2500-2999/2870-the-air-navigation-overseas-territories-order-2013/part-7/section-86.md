@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Method of carriage of persons[^key-dd72eee05a335c18612741baad4fce0f]
+## 86. Method of carriage of persons[^c-dd72eee05a335c18612741baad4fce0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd72eee05a335c18612741baad4fce0f]: Commencement: [Art. 86](https://www.legislation.gov.uk/uksi/2013/2870/article/86) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-dd72eee05a335c18612741baad4fce0f]: Commencement: [Art. 86](https://www.legislation.gov.uk/uksi/2013/2870/article/86) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

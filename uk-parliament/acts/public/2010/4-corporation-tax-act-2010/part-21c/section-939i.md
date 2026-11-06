@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 939I. Minor definitions[^key-9cd0abf72d5cd319679444764626ef04]
+## 939I. Minor definitions[^c-9cd0abf72d5cd319679444764626ef04]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9cd0abf72d5cd319679444764626ef04]: Textual amendment: Pt. 21C inserted (with effect in accordance with Sch. 3 para. 27 28 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/2)
+[^c-9cd0abf72d5cd319679444764626ef04]: Textual amendment: Pt. 21C inserted (with effect in accordance with Sch. 3 para. 27 28 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/2)

@@ -28,7 +28,7 @@ summary: ''
 
 paragraphs (2) to (8) of regulation 7 apply as if the application were a request made by the applicant pursuant to regulation 6(10).
 
-(2) Where regulation 7(3) applies to an application made under section 62A of the Act (When application may be made directly to the Secretary of State) the Secretary of State must, where necessary to ensure that the developer has provided the information referred to in regulation 6(2) or (3) as appropriate[^key-64c5db39736d0fac3061e82fbba54a0d], make a request for additional information before issuing a screening direction.
+(2) Where regulation 7(3) applies to an application made under section 62A of the Act (When application may be made directly to the Secretary of State) the Secretary of State must, where necessary to ensure that the developer has provided the information referred to in regulation 6(2) or (3) as appropriate[^c-64c5db39736d0fac3061e82fbba54a0d], make a request for additional information before issuing a screening direction.
 
 (3) Where the Secretary of State has determined that an application made under section 62A of the Act (When application may be made directly to the Secretary of State) is an EIA application and it is not accompanied by a statement referred to by the applicant as an environmental statement for the purposes of these Regulations, the Secretary of State must notify the applicant in writing that the submission of an environmental statement is required and must send a copy of that notification to the relevant planning authority.
 
@@ -51,4 +51,4 @@ the Secretary of State must determine the relevant application only by refusing 
 
 ## Annotations
 
-[^key-64c5db39736d0fac3061e82fbba54a0d]: Textual amendment: Words in reg. 12(2) inserted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/2)
+[^c-64c5db39736d0fac3061e82fbba54a0d]: Textual amendment: Words in reg. 12(2) inserted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/2)

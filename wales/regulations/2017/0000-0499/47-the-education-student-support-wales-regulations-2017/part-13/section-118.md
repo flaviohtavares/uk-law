@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Payment of grant[^key-64834f89b9cb1dfbad6a0bdcd94421ca]
+## 118. Payment of grant[^c-64834f89b9cb1dfbad6a0bdcd94421ca]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64834f89b9cb1dfbad6a0bdcd94421ca]: Commencement: Reg. 118 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-64834f89b9cb1dfbad6a0bdcd94421ca]: Commencement: Reg. 118 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

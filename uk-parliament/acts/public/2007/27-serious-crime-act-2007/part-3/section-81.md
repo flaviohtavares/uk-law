@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Supplementary provision in relation to new powers[^key-047c1508bad040abeb1afbb5fef1d169]
+## 81. Supplementary provision in relation to new powers[^c-047c1508bad040abeb1afbb5fef1d169]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-047c1508bad040abeb1afbb5fef1d169]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2007/27/section/81) in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(g)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/g)
+[^c-047c1508bad040abeb1afbb5fef1d169]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2007/27/section/81) in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(g)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 16. Payment of pension and lump sum[^key-71bfe3505c2b57821da06fcfbd916b23]
+## 16. Payment of pension and lump sum[^c-71bfe3505c2b57821da06fcfbd916b23]
 
 *Extent: E*
 
@@ -54,4 +54,4 @@ is to be treated for the purposes of this Part as retiring on the date on which 
 
 ## Annotations
 
-[^key-71bfe3505c2b57821da06fcfbd916b23]: Commencement: [S. 16](https://www.legislation.gov.uk/ukcm/2018/9/section/16) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-71bfe3505c2b57821da06fcfbd916b23]: Commencement: [S. 16](https://www.legislation.gov.uk/ukcm/2018/9/section/16) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

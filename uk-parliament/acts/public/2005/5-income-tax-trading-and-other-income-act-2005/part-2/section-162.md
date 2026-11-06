@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Payments by persons liable to pool betting duty[^key-fa391ff495bda265acec93e5777711cb]
+## 162. Payments by persons liable to pool betting duty[^c-fa391ff495bda265acec93e5777711cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa391ff495bda265acec93e5777711cb]: Textual amendment: S. 162 repealed (with effect in accordance with Sch. 39 para. 21(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 21(1)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/21/1/a)
+[^c-fa391ff495bda265acec93e5777711cb]: Textual amendment: S. 162 repealed (with effect in accordance with Sch. 39 para. 21(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 21(1)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/21/1/a)

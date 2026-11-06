@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Agriculture and Rural Development being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community and in relation to matters relating to the promotion of rural development, in exercise of the powers conferred on it by the said section 2(2) and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-08673a9bc7aff810674a5fe742378751]
+## 1. Citation and commencement[^c-08673a9bc7aff810674a5fe742378751]
 
 These Regulations may be cited as the Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2001 and shall come into operation on 6th March 2001.
 
-## 2. Interpretation[^key-5e04a02bd7c48be489fe213b2ea8ea5b]
+## 2. Interpretation[^c-5e04a02bd7c48be489fe213b2ea8ea5b]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
@@ -107,11 +107,11 @@ These Regulations may be cited as the Less Favoured Area Compensatory Allowances
 
 (3) A reference in these Regulations to anything done in writing or produced in written form includes a reference to an electronic communication which has been recorded and is consequently capable of being reproduced.
 
-## 3. Power to make payments[^key-7066cabfbb1ad14a0e6fc3cba67256b3]
+## 3. Power to make payments[^c-7066cabfbb1ad14a0e6fc3cba67256b3]
 
 Subject to regulation 5, the Department shall make payments of less favoured area compensatory allowance in respect of the year 2001 to any claimant who is eligible under regulation 4 in respect of any eligible forage area.
 
-## 4. Eligibility of producers for less favoured area compensatory allowance[^key-c5390a11738e73484862ac94ec27d573]
+## 4. Eligibility of producers for less favoured area compensatory allowance[^c-c5390a11738e73484862ac94ec27d573]
 
 (1) Subject to Article 14.2 of Council Regulation 1257/1999 (third indent), and to regulation 5, a claimant shall be eligible for less favoured area compensatory allowance provided—
 
@@ -123,21 +123,21 @@ Subject to regulation 5, the Department shall make payments of less favoured are
 
 (3) In order to enable it to consider whether to exercise its discretion under paragraph (2), the Department shall be provided with such information as it reasonably may require.
 
-## 5. Conditions as to continued use of eligible land[^key-983a18fdf5a146a23eeb63fd5250d4bb]
+## 5. Conditions as to continued use of eligible land[^c-983a18fdf5a146a23eeb63fd5250d4bb]
 
 Less favoured area compensatory allowance shall not be paid to a claimant unless—
 
 - (a) he has given a written undertaking, in such form as the Department may reasonably require, that he will or would, for a period of five years from the date of payment of a first compensatory allowance, continue to use at least three hectares of eligible land for agriculture; and
 - (b) he is not in breach of that undertaking at the date of payment.
 
-## 6. Release from undertaking[^key-37e205de08a64d1f2351e03a05d539c6]
+## 6. Release from undertaking[^c-37e205de08a64d1f2351e03a05d539c6]
 
 A claimant is released from the undertaking referred to in regulation 5—
 
 - (a) if he is prevented from continuing to discharge that undertaking by reason of any material circumstance beyond his control; or
 - (b) if he ceases farming and at least three hectares of the eligible land last used by him for the grazing of animals continue to be used for agriculture.
 
-## 7. Rates of payment[^key-ed3c6d01300281e6a123dbb3e1abc737]
+## 7. Rates of payment[^c-ed3c6d01300281e6a123dbb3e1abc737]
 
 Subject to regulations 8 and 9, payments of less favoured area compensatory allowance in respect of the descriptions of eligible forage area specified in column 1 of the Schedule shall be made—
 
@@ -145,7 +145,7 @@ Subject to regulations 8 and 9, payments of less favoured area compensatory allo
 - (b) in relation to the next 150 hectares of eligible forage area in respect of which the claim is made, at one half of the rates specified in column 2 of the Schedule;
 - (c) in relation to further hectares of eligible forage area in excess of 500 hectares in respect of which the claim is made, at one quarter of the rates specified in column 2 of the Schedule.
 
-## 8. Increments to payment[^key-30e5b66c179cc2ce1d6690add8fc4d4c]
+## 8. Increments to payment[^c-30e5b66c179cc2ce1d6690add8fc4d4c]
 
 (1) After calculating the amount payable to each claimant as provided by regulation 7, the Department may, if it thinks fit, increase that amount by a fixed percentage provided that—
 
@@ -154,7 +154,7 @@ Subject to regulations 8 and 9, payments of less favoured area compensatory allo
 
 (2) If the amount payable to a claimant by virtue of regulation 7 and paragraph (1) is less than 90% of the compensatory allowance paid to that claimant in respect of the year 2000, he shall be paid, in addition to that sum, such further sum as is necessary to increase the total less favoured area compensatory allowance payable to him to 90% of the compensatory allowance paid to him in respect of that year, or, if less, such proportion of that further sum as relates to the claimed forage area which was entered in his area aid application for that year and which lies within a less favoured area.
 
-## 9. Exclusion of forage area[^key-9b0c32822393ce88bad8b93a5b9b00b6]
+## 9. Exclusion of forage area[^c-9b0c32822393ce88bad8b93a5b9b00b6]
 
 (1) Subject to paragraph (2), if, on 31st March 2000, a claimant had available to him an individual reference quantity of milk, his claimed forage area in Northern Ireland shall be reduced by 1 hectare per 10,000 litres of that quantity for the purposes of determining his relevant forage area.
 
@@ -173,7 +173,7 @@ where:
 
 (3) Where paragraph (1) or (2) applies, the reduction in the claimed forage area in Northern Ireland shall first be applied to land which is not eligible land, followed by disadvantaged land, and lastly, severely disadvantaged land.
 
-## 10. Powers of authorised persons[^key-e85378400b276ffd0c6abf8d05b18831]
+## 10. Powers of authorised persons[^c-e85378400b276ffd0c6abf8d05b18831]
 
 (1) An authorised person may at all reasonable times, on producing, if so required, some duly authenticated document showing his authority, enter on any land, other than land used solely for the purpose of a dwelling-house—
 
@@ -205,7 +205,7 @@ where:
 
 and paragraphs (3) and (4) shall apply in relation to any person referred to in sub-paragraph (*b*), when acting under the instructions of an authorised person, as if he were an authorised person.
 
-## 11. Breaches of undertakings[^key-ed9f7369a1b695dca8716550e38ee2aa]
+## 11. Breaches of undertakings[^c-ed9f7369a1b695dca8716550e38ee2aa]
 
 Where—
 
@@ -215,7 +215,7 @@ Where—
 
 the Department may exercise any of the powers specified in regulation 12.
 
-## 12. Department’s powers of recovery etc.[^key-4e07a71cb53bf8b48d162ff31cc0ece2]
+## 12. Department’s powers of recovery etc.[^c-4e07a71cb53bf8b48d162ff31cc0ece2]
 
 (1) The powers conferred by regulation 11 are—
 
@@ -233,7 +233,7 @@ the Department may exercise any of the powers specified in regulation 12.
 - (b) afford the beneficiary the opportunity of making written representations within such time as the Department considers reasonable; and
 - (c) consider any such representations.
 
-## 13. Recovery of interest[^key-bfaeec446e81cb9a7f225ffeda0443fa]
+## 13. Recovery of interest[^c-bfaeec446e81cb9a7f225ffeda0443fa]
 
 (1) Where the Department exercises the power conferred by regulation 12(1)(*b*), it may also recover on demand interest on the sum to be recovered, and the rate of interest shall be one percentage point above LIBOR on a day to day basis.
 
@@ -241,11 +241,11 @@ the Department may exercise any of the powers specified in regulation 12.
 
 (3) In any proceedings relating to this regulation, a certificate of the Department stating the LIBOR applicable during a period specified in the certificate shall be conclusive evidence of the rate applicable in the specified period if the certificate also states that the Bank of England notified the Department of that rate.
 
-## 14. Sums payable to the Department to be recoverable as a debt[^key-0c92c614db8c25803c22a4acf20ab7a8]
+## 14. Sums payable to the Department to be recoverable as a debt[^c-0c92c614db8c25803c22a4acf20ab7a8]
 
 In any case where an amount falls to be paid to the Department by virtue of (or by virtue of action taken under) these Regulations, the amount so falling to be paid shall be recoverable as a debt.
 
-## 15. Offences and penalties[^key-f1d464fb61f733d4db580fc165c8242a]
+## 15. Offences and penalties[^c-f1d464fb61f733d4db580fc165c8242a]
 
 (1) A person is guilty of an offence if—
 
@@ -271,7 +271,7 @@ Senior Officer of the
 
 Department of Agriculture and Rural Development
 
-## SCHEDULE — Payment rates per hectare[^key-2947515a76600ab848331c3e39f3e5b5]
+## SCHEDULE — Payment rates per hectare[^c-2947515a76600ab848331c3e39f3e5b5]
 
 regulation 7
 
@@ -305,9 +305,9 @@ The Northern Ireland Rural Development Programme, together with a copy of Commis
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-08673a9bc7aff810674a5fe742378751]: Commencement: Reg. 1 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
+[^c-08673a9bc7aff810674a5fe742378751]: Commencement: Reg. 1 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
 
-[^key-5e04a02bd7c48be489fe213b2ea8ea5b]: Commencement: Reg. 2 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
+[^c-5e04a02bd7c48be489fe213b2ea8ea5b]: Commencement: Reg. 2 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -345,30 +345,30 @@ The Northern Ireland Rural Development Programme, together with a copy of Commis
 
 [^f00020]: Footnote: [S.R. 1993 No. 280](https://www.legislation.gov.uk/nisr/1993/280) amended by [S.R. 1994 No. 211](https://www.legislation.gov.uk/nisr/1994/211), [S.R. 1995 No. 246](https://www.legislation.gov.uk/nisr/1995/246), [S.R. 1996 No. 229](https://www.legislation.gov.uk/nisr/1996/229) and [S.R. 1997 No. 53](https://www.legislation.gov.uk/nisr/1997/53)
 
-[^key-7066cabfbb1ad14a0e6fc3cba67256b3]: Commencement: Reg. 3 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
+[^c-7066cabfbb1ad14a0e6fc3cba67256b3]: Commencement: Reg. 3 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
 
-[^key-c5390a11738e73484862ac94ec27d573]: Commencement: Reg. 4 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
+[^c-c5390a11738e73484862ac94ec27d573]: Commencement: Reg. 4 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
 
-[^key-983a18fdf5a146a23eeb63fd5250d4bb]: Commencement: Reg. 5 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
+[^c-983a18fdf5a146a23eeb63fd5250d4bb]: Commencement: Reg. 5 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
 
-[^key-37e205de08a64d1f2351e03a05d539c6]: Commencement: Reg. 6 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
+[^c-37e205de08a64d1f2351e03a05d539c6]: Commencement: Reg. 6 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
 
-[^key-ed3c6d01300281e6a123dbb3e1abc737]: Commencement: Reg. 7 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
+[^c-ed3c6d01300281e6a123dbb3e1abc737]: Commencement: Reg. 7 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
 
-[^key-30e5b66c179cc2ce1d6690add8fc4d4c]: Commencement: Reg. 8 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
+[^c-30e5b66c179cc2ce1d6690add8fc4d4c]: Commencement: Reg. 8 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
 
-[^key-9b0c32822393ce88bad8b93a5b9b00b6]: Commencement: Reg. 9 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
+[^c-9b0c32822393ce88bad8b93a5b9b00b6]: Commencement: Reg. 9 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
 
-[^key-e85378400b276ffd0c6abf8d05b18831]: Commencement: Reg. 10 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
+[^c-e85378400b276ffd0c6abf8d05b18831]: Commencement: Reg. 10 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
 
-[^key-ed9f7369a1b695dca8716550e38ee2aa]: Commencement: Reg. 11 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
+[^c-ed9f7369a1b695dca8716550e38ee2aa]: Commencement: Reg. 11 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
 
-[^key-4e07a71cb53bf8b48d162ff31cc0ece2]: Commencement: Reg. 12 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
+[^c-4e07a71cb53bf8b48d162ff31cc0ece2]: Commencement: Reg. 12 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
 
-[^key-bfaeec446e81cb9a7f225ffeda0443fa]: Commencement: Reg. 13 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
+[^c-bfaeec446e81cb9a7f225ffeda0443fa]: Commencement: Reg. 13 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
 
-[^key-0c92c614db8c25803c22a4acf20ab7a8]: Commencement: Reg. 14 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
+[^c-0c92c614db8c25803c22a4acf20ab7a8]: Commencement: Reg. 14 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
 
-[^key-f1d464fb61f733d4db580fc165c8242a]: Commencement: Reg. 15 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
+[^c-f1d464fb61f733d4db580fc165c8242a]: Commencement: Reg. 15 in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
 
-[^key-2947515a76600ab848331c3e39f3e5b5]: Commencement: Sch. in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)
+[^c-2947515a76600ab848331c3e39f3e5b5]: Commencement: Sch. in operation at 6.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/71/regulation/1)

@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The Health Research Authority (Establishment and Constitution) Order 2011 (revoked)[^key-46a0c77b1d67479157e482d29187bcec]
+The Health Research Authority (Establishment and Constitution) Order 2011 (revoked)[^c-46a0c77b1d67479157e482d29187bcec]
 
 Made
 
@@ -46,52 +46,52 @@ Coming into force
 
 1st December 2011
 
-[^key-46a0c77b1d67479157e482d29187bcec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46a0c77b1d67479157e482d29187bcec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-46a0c77b1d67479157e482d29187bcec]
+## 1. Citation, commencement, application and interpretation[^c-46a0c77b1d67479157e482d29187bcec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Establishment of the Authority[^key-46a0c77b1d67479157e482d29187bcec]
+## 2. Establishment of the Authority[^c-46a0c77b1d67479157e482d29187bcec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Functions of the Authority[^key-46a0c77b1d67479157e482d29187bcec]
+## 3. Functions of the Authority[^c-46a0c77b1d67479157e482d29187bcec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Constitution of the Authority[^key-46a0c77b1d67479157e482d29187bcec]
+## 4. Constitution of the Authority[^c-46a0c77b1d67479157e482d29187bcec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transfer of officers from the Agency to the Authority[^key-46a0c77b1d67479157e482d29187bcec]
+## 5. Transfer of officers from the Agency to the Authority[^c-46a0c77b1d67479157e482d29187bcec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transfer of property[^key-46a0c77b1d67479157e482d29187bcec]
+## 6. Transfer of property[^c-46a0c77b1d67479157e482d29187bcec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-46a0c77b1d67479157e482d29187bcec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46a0c77b1d67479157e482d29187bcec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Property of the Agency to transfer to the Authority[^key-46a0c77b1d67479157e482d29187bcec]
+## SCHEDULE — Property of the Agency to transfer to the Authority[^c-46a0c77b1d67479157e482d29187bcec]
 
 Article 6
 
-**1.**[^key-46a0c77b1d67479157e482d29187bcec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-46a0c77b1d67479157e482d29187bcec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-46a0c77b1d67479157e482d29187bcec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-46a0c77b1d67479157e482d29187bcec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-46a0c77b1d67479157e482d29187bcec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-46a0c77b1d67479157e482d29187bcec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-46a0c77b1d67479157e482d29187bcec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46a0c77b1d67479157e482d29187bcec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-46a0c77b1d67479157e482d29187bcec]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/2323) revoked (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 109(3)(a)](https://www.legislation.gov.uk/ukpga/2014/23/section/109/3/a), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(a)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/a)
+[^c-46a0c77b1d67479157e482d29187bcec]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/2323) revoked (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 109(3)(a)](https://www.legislation.gov.uk/ukpga/2014/23/section/109/3/a), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(a)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/a)

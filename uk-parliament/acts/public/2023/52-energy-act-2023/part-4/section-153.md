@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Modifications of the gas code[^key-68b3f5f1d59c64f578ca6fdbbb2ca54a]
+## 153. Modifications of the gas code[^c-68b3f5f1d59c64f578ca6fdbbb2ca54a]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68b3f5f1d59c64f578ca6fdbbb2ca54a]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2023/52/section/153) in force at 26.12.2023, see [s. 334(3)(d)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/d)
+[^c-68b3f5f1d59c64f578ca6fdbbb2ca54a]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2023/52/section/153) in force at 26.12.2023, see [s. 334(3)(d)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/d)

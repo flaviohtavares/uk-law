@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 187. Compensation for loss due to temporary stop notice[^key-95698015b3aa31cc00ef12cdbba056bb][^key-9d3ea64e317bff0044c56db4f70d148d]
+## 187. Compensation for loss due to temporary stop notice[^c-95698015b3aa31cc00ef12cdbba056bb][^c-9d3ea64e317bff0044c56db4f70d148d]
 
 *Extent: N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-95698015b3aa31cc00ef12cdbba056bb]: Commencement: S. 187 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
+[^c-95698015b3aa31cc00ef12cdbba056bb]: Commencement: S. 187 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
 
-[^key-9d3ea64e317bff0044c56db4f70d148d]: Commencement: S. 187 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-9d3ea64e317bff0044c56db4f70d148d]: Commencement: S. 187 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Public access to HRA designation orders[^key-f5cc8062cbc9f78e7535d2074afcd2f2]
+## 7. Public access to HRA designation orders[^c-f5cc8062cbc9f78e7535d2074afcd2f2]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5cc8062cbc9f78e7535d2074afcd2f2]: Commencement: S. 7 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-f5cc8062cbc9f78e7535d2074afcd2f2]: Commencement: S. 7 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

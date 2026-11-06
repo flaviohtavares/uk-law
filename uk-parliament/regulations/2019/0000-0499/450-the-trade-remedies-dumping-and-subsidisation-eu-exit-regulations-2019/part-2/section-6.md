@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Purpose of Part 2[^key-1ae520be2f94702351b38a278c2dad64]
+## 6. Purpose of Part 2[^c-1ae520be2f94702351b38a278c2dad64]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ae520be2f94702351b38a278c2dad64]: Commencement: Reg. 6 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-1ae520be2f94702351b38a278c2dad64]: Commencement: Reg. 6 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

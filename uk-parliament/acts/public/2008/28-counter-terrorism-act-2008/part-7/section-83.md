@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Forfeiture of terrorist cash: determination of period for which cash may be detained[^key-2e4c18b9279322dd64e1913589715235]
+## 83. Forfeiture of terrorist cash: determination of period for which cash may be detained[^c-2e4c18b9279322dd64e1913589715235]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e4c18b9279322dd64e1913589715235]: Commencement: S. 83 in force at 16.2.2009 by [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/58/article/2/h)
+[^c-2e4c18b9279322dd64e1913589715235]: Commencement: S. 83 in force at 16.2.2009 by [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/58/article/2/h)

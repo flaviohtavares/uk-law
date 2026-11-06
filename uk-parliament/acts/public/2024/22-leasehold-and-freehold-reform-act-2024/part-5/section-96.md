@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Charges for provision of information[^key-7608a8a9118b139c345bb7fef70a5ea5]
+## 96. Charges for provision of information[^c-7608a8a9118b139c345bb7fef70a5ea5]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ are not to be regarded as relevant costs to be taken into account in determining
 
 ## Annotations
 
-[^key-7608a8a9118b139c345bb7fef70a5ea5]: Commencement: S. 96 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-7608a8a9118b139c345bb7fef70a5ea5]: Commencement: S. 96 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

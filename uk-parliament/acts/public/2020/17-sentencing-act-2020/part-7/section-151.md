@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Restitution orders: interpretation and application[^key-10b9327c3313feef9902bba353a519e4]
+## 151. Restitution orders: interpretation and application[^c-10b9327c3313feef9902bba353a519e4]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ provided that the stealing (if not an offence under either of those Acts) amount
 
 ## Annotations
 
-[^key-10b9327c3313feef9902bba353a519e4]: Commencement: S. 151 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-10b9327c3313feef9902bba353a519e4]: Commencement: S. 151 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

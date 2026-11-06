@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Pre-consolidation amendments[^key-863a9bb37f9fb9e40b6b780318327531]
+## 47. Pre-consolidation amendments[^c-863a9bb37f9fb9e40b6b780318327531]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-863a9bb37f9fb9e40b6b780318327531]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2010/29/section/47) in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-863a9bb37f9fb9e40b6b780318327531]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2010/29/section/47) in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)

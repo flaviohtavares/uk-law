@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Overview and scrutiny committees[^key-09d081c6f5a0ddb6de94ff056428e8e8]
+## 15. Overview and scrutiny committees[^c-09d081c6f5a0ddb6de94ff056428e8e8]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09d081c6f5a0ddb6de94ff056428e8e8]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2023/55/section/15) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-09d081c6f5a0ddb6de94ff056428e8e8]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2023/55/section/15) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

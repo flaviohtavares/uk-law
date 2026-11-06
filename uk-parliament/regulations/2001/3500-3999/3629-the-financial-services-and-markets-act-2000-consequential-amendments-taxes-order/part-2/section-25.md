@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Mortgage interest relief: interpretation[^key-3e42a4436b9ca6b92d3925d0eb9f4783]
+## 25. Mortgage interest relief: interpretation[^c-3e42a4436b9ca6b92d3925d0eb9f4783]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In section 379 (interpretation of sections 369 to 378) before the definition of 
 
 ## Annotations
 
-[^key-3e42a4436b9ca6b92d3925d0eb9f4783]: Commencement: Art. 25 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-3e42a4436b9ca6b92d3925d0eb9f4783]: Commencement: Art. 25 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

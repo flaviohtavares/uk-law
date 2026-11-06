@@ -24,15 +24,15 @@ Article 4
 
 ### PART I — MODIFICATIONS OF ACTS OF PARLIAMENT
 
-#### 1. Heritable Jurisdictions (Scotland) Act [1746 (c. 43)](https://www.legislation.gov.uk/apgb/1746/43)[^key-fc4b2da25946e8809cf7a61a1cebf292]
+#### 1. Heritable Jurisdictions (Scotland) Act [1746 (c. 43)](https://www.legislation.gov.uk/apgb/1746/43)[^c-fc4b2da25946e8809cf7a61a1cebf292]
 
 Section 43 of the Heritable Jurisdictions (Scotland) Act 1746 (Sheriff’s fines abolished)[^f00003] is omitted.
 
-#### 2. Sea Fisheries Act [1868 (c. 45)](https://www.legislation.gov.uk/ukpga/1868/45)[^key-d92e73bd235424f4bea4081a777ad79e]
+#### 2. Sea Fisheries Act [1868 (c. 45)](https://www.legislation.gov.uk/ukpga/1868/45)[^c-d92e73bd235424f4bea4081a777ad79e]
 
 In section 64 of the Sea Fisheries Act 1868 (application of penalties), at the end there is inserted “or, in relation to Scotland, shall be paid into the Scottish Consolidated Fund”.
 
-#### 3. Land Registers (Scotland) Act [1868 (c. 64)](https://www.legislation.gov.uk/ukpga/1868/64)[^key-8adf770a0de887c2af870584f45d4bcb]
+#### 3. Land Registers (Scotland) Act [1868 (c. 64)](https://www.legislation.gov.uk/ukpga/1868/64)[^c-8adf770a0de887c2af870584f45d4bcb]
 
 (1) The Land Registers (Scotland) Act 1868 is amended as follows.
 
@@ -40,15 +40,15 @@ In section 64 of the Sea Fisheries Act 1868 (application of penalties), at the e
 
 (3) In section 25 (fees), “with the consent of the Treasury” is omitted.
 
-#### 4. College Charter Act [1871 (c. 63)](https://www.legislation.gov.uk/ukpga/1871/63)[^key-d49b04b48d9b2c293601c5740b97053c]
+#### 4. College Charter Act [1871 (c. 63)](https://www.legislation.gov.uk/ukpga/1871/63)[^c-d49b04b48d9b2c293601c5740b97053c]
 
 In section 2 of the College Charter Act 1871 (copy of college charter to be laid before Parliament), after “Houses of Parliament” there is inserted “or, in the case of an application in respect of a college or university which will have its principal establishment in Scotland, before the Scottish Parliament”.
 
-#### 5. Sea Fisheries Act [1883 (c. 22)](https://www.legislation.gov.uk/ukpga/1883/22)[^key-5bd0fbc2c5de20513adc6ab45a46cc4d]
+#### 5. Sea Fisheries Act [1883 (c. 22)](https://www.legislation.gov.uk/ukpga/1883/22)[^c-5bd0fbc2c5de20513adc6ab45a46cc4d]
 
 In section 21(1) of the Sea Fisheries Act 1883 (application of fines), at the end there is inserted “or, in relation to Scotland, be paid into the Scottish Consolidated Fund”.
 
-#### 6. Sea Fisheries (Scotland) Amendment Act [1885 (c. 70)](https://www.legislation.gov.uk/ukpga/1885/70)[^key-7ab976a7b52086c5710717570ce1bcb2]
+#### 6. Sea Fisheries (Scotland) Amendment Act [1885 (c. 70)](https://www.legislation.gov.uk/ukpga/1885/70)[^c-7ab976a7b52086c5710717570ce1bcb2]
 
 (1) The Sea Fisheries (Scotland) Amendment Act 1885 is amended as follows.
 
@@ -60,22 +60,22 @@ In section 21(1) of the Sea Fisheries Act 1883 (application of fines), at the en
 
 (5) In section 7, for “an officer of the Secretary of State” there is substituted “a member of the staff of the Scottish Administration”.
 
-#### 7. Universities (Scotland) Act [1889 (c. 55)](https://www.legislation.gov.uk/ukpga/1889/55)[^key-71d44bce4a96e776db0b690d61d83ef9]
+#### 7. Universities (Scotland) Act [1889 (c. 55)](https://www.legislation.gov.uk/ukpga/1889/55)[^c-71d44bce4a96e776db0b690d61d83ef9]
 
 In section 9 of the Universities (Scotland) Act 1889 (constitution of Scottish Universities Committee of Privy Council)[^f00006] for “Secretary of State” there is substituted “First Minister”.
 
-#### 8. Fisheries Act [1891 (c. 37)](https://www.legislation.gov.uk/ukpga/1891/37)[^key-0e26c0c14c2c3ddffa6f927e3ec800c0]
+#### 8. Fisheries Act [1891 (c. 37)](https://www.legislation.gov.uk/ukpga/1891/37)[^c-0e26c0c14c2c3ddffa6f927e3ec800c0]
 
 In section 6(1) of the Fisheries Act 1891 (construction, title and commencement of this Part of Act)[^f00007] for “parts of the sea adjoining Scotland” there is substituted “Scottish zone within the meaning of the Scotland Act 1998”.
 
-#### 9. Courts of Law Fees (Scotland) Act [1895 (c. 14)](https://www.legislation.gov.uk/ukpga/1895/14)[^key-95292110122967c5536248ac2c1888d4]
+#### 9. Courts of Law Fees (Scotland) Act [1895 (c. 14)](https://www.legislation.gov.uk/ukpga/1895/14)[^c-95292110122967c5536248ac2c1888d4]
 
 In section 2(1) of the Courts of Law Fees (Scotland) Act 1895 (power of Secretary of State to regulate court fees etc.)[^f00008]
 
 - (a) “with the concurrence of the Treasury” is omitted; and
 - (b) in paragraph (a), for “out of the Consolidated Fund or out of moneys provided by Parliament” there is substituted “by the Scottish Ministers”.
 
-#### 10. National Galleries of Scotland Act [1906 (c. 50)](https://www.legislation.gov.uk/ukpga/1906/50)[^key-a0f3b633ce017986e1f1a099a78d7a84]
+#### 10. National Galleries of Scotland Act [1906 (c. 50)](https://www.legislation.gov.uk/ukpga/1906/50)[^c-a0f3b633ce017986e1f1a099a78d7a84]
 
 In the Schedule to the National Galleries of Scotland Act 1906 (further provision as to Board)[^f00009]
 
@@ -84,7 +84,7 @@ In the Schedule to the National Galleries of Scotland Act 1906 (further provisio
 - (c) in paragraph 8(3), “with the Treasury’s consent” is omitted; and
 - (d) in paragraph 8(5), for “Comptroller and Auditor General” there is substituted “Auditor General for Scotland”.
 
-#### 11. Census Act [1920 (c. 41)](https://www.legislation.gov.uk/ukpga/1920/41)[^key-0ba0b3fbf8bb2fbd8f24f50a0bcd915f]
+#### 11. Census Act [1920 (c. 41)](https://www.legislation.gov.uk/ukpga/1920/41)[^c-0ba0b3fbf8bb2fbd8f24f50a0bcd915f]
 
 In section 9 of the Census Act 1920 (application to Scotland)[^f00010]–
 
@@ -97,15 +97,15 @@ In section 9 of the Census Act 1920 (application to Scotland)[^f00010]–
 
   .
 
-#### 12. Conveyancing (Scotland) Act [1924 (c. 27)](https://www.legislation.gov.uk/ukpga/1924/27)[^key-18e2f425284464ef139bdd625c8b62c4]
+#### 12. Conveyancing (Scotland) Act [1924 (c. 27)](https://www.legislation.gov.uk/ukpga/1924/27)[^c-18e2f425284464ef139bdd625c8b62c4]
 
 In section 34 (service of notice)[^f00011], for “Secretary of State” there is substituted “Scottish Ministers”.
 
-#### 13. National Library of Scotland Act [1925 (c. 73)](https://www.legislation.gov.uk/ukpga/1925/73)[^key-2bc6b12382cab233c8e8066f92ac88c6]
+#### 13. National Library of Scotland Act [1925 (c. 73)](https://www.legislation.gov.uk/ukpga/1925/73)[^c-2bc6b12382cab233c8e8066f92ac88c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Sheriff Courts and Legal Officers (Scotland) Act [1927 (c. 35)](https://www.legislation.gov.uk/ukpga/1927/35)[^key-11e1b3a5647bdac9606e594fcce98dc8]
+#### 14. Sheriff Courts and Legal Officers (Scotland) Act [1927 (c. 35)](https://www.legislation.gov.uk/ukpga/1927/35)[^c-11e1b3a5647bdac9606e594fcce98dc8]
 
 (1) The Sheriff Courts and Legal Officers (Scotland) Act 1927 is amended as follows.
 
@@ -115,7 +115,7 @@ In section 34 (service of notice)[^f00011], for “Secretary of State” there i
 
 (4) Section 13 (expenses) is omitted.
 
-#### 15. Administration of Justice (Scotland) Act [1933 (c. 41)](https://www.legislation.gov.uk/ukpga/1933/41)[^key-eb094eda2431aa612269645eae8d0b54]
+#### 15. Administration of Justice (Scotland) Act [1933 (c. 41)](https://www.legislation.gov.uk/ukpga/1933/41)[^c-eb094eda2431aa612269645eae8d0b54]
 
 (1) The Administration of Justice (Scotland) Act 1933 is amended as follows.
 
@@ -154,14 +154,14 @@ In section 34 (service of notice)[^f00011], for “Secretary of State” there i
 - (b) “and with the concurrence of the Treasury and the Civil Service Commissioners” is omitted; and
 - (c) for the words after “admitted to” there is substituted “the office of Auditor of the Court of Session”.
 
-#### 16. Harbours, Piers and Ferries (Scotland) Act [1937 (c. 28)](https://www.legislation.gov.uk/ukpga/1937/28)[^key-20e53c524b7fce02d8b0b827b0ccb77d]
+#### 16. Harbours, Piers and Ferries (Scotland) Act [1937 (c. 28)](https://www.legislation.gov.uk/ukpga/1937/28)[^c-20e53c524b7fce02d8b0b827b0ccb77d]
 
 In section 20 of the Harbours, Piers and Ferries (Scotland) Act 1937 (discontinuance of marine work)–
 
 - (a) in subsection (1) the words from “given after consultation” to the end are omitted; and
 - (b) in subsection (2) the proviso is omitted.
 
-#### 17. Public Records (Scotland) Act [1937(c. 43)](https://www.legislation.gov.uk/ukpga/1937/43)[^key-7f1f999ffb9b07d1f436c5f63c04bb97]
+#### 17. Public Records (Scotland) Act [1937(c. 43)](https://www.legislation.gov.uk/ukpga/1937/43)[^c-7f1f999ffb9b07d1f436c5f63c04bb97]
 
 (1) The Public Records (Scotland) Act 1937 is amended as follows.
 
@@ -172,7 +172,7 @@ In section 20 of the Harbours, Piers and Ferries (Scotland) Act 1937 (discontinu
 
 (3) In section 11 (catalogues, &c. of records) “, with the consent of the Treasury,” is omitted.
 
-#### 18. Statistics of Trade Act [1947 (c. 39)](https://www.legislation.gov.uk/ukpga/1947/39)[^key-eae9d01b4b89904c74c831e786f0dacf]
+#### 18. Statistics of Trade Act [1947 (c. 39)](https://www.legislation.gov.uk/ukpga/1947/39)[^c-eae9d01b4b89904c74c831e786f0dacf]
 
 For section 9(1)(a) of the Statistics of Trade Act 1947 (disclosure of information) there is substituted–
 
@@ -185,7 +185,7 @@ For section 9(1)(a) of the Statistics of Trade Act 1947 (disclosure of informati
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Acquisition of Land (Authorisation Procedure) (Scotland) Act [1947 (c. 42)](https://www.legislation.gov.uk/ukpga/1947/42)[^key-60390820bc91630477b333f9f07a2b60]
+#### 20. Acquisition of Land (Authorisation Procedure) (Scotland) Act [1947 (c. 42)](https://www.legislation.gov.uk/ukpga/1947/42)[^c-60390820bc91630477b333f9f07a2b60]
 
 (1) The Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 is amended as follows.
 
@@ -195,18 +195,18 @@ For section 9(1)(a) of the Statistics of Trade Act 1947 (disclosure of informati
 
 (4) In Part III of the First Schedule (special provisions as to certain descriptions of land), in paragraph 10 for “appropriate Minister” where the words first appear there is substituted “Scottish Ministers”, for “appropriate Minister is”, in each place where those words appear, there is substituted “Scottish Ministers are” and for “he is” there is substituted “they are”.
 
-#### 21. Crown Proceedings Act [1947 (c. 44)](https://www.legislation.gov.uk/ukpga/1947/44)[^key-2b84e7e059c8f0f7ff710775068ee06f]
+#### 21. Crown Proceedings Act [1947 (c. 44)](https://www.legislation.gov.uk/ukpga/1947/44)[^c-2b84e7e059c8f0f7ff710775068ee06f]
 
 In section 2(6) of the Crown Proceedings Act 1947 (liability of the Crown in tort), after “Parliament” there is inserted “the Scottish Consolidated Fund”.
 
-#### 22. Public Registers and Records (Scotland) Act [1948 (c. 57)](https://www.legislation.gov.uk/ukpga/1948/57)[^key-db0899e471d893c62314b9830addf4a1]
+#### 22. Public Registers and Records (Scotland) Act [1948 (c. 57)](https://www.legislation.gov.uk/ukpga/1948/57)[^c-db0899e471d893c62314b9830addf4a1]
 
 In section 1 of the Public Registers and Records (Scotland) Act 1948 (substitution of a Keeper of the Registers and a Keeper of the Records for the Keeper of the Registers and Records for Scotland)–
 
 - (a) subsections (4) and (5) are omitted; and
 - (b) in subsection (6) for “Secretary of State” there is substituted “Scottish Ministers”.
 
-#### 23. Juries Act [1949 (c. 27)](https://www.legislation.gov.uk/ukpga/1949/27)[^key-24e1de7121940bdede3f811ef3d779d0]
+#### 23. Juries Act [1949 (c. 27)](https://www.legislation.gov.uk/ukpga/1949/27)[^c-24e1de7121940bdede3f811ef3d779d0]
 
 (1) The Juries Act 1949 is amended as follows.
 
@@ -214,7 +214,7 @@ In section 1 of the Public Registers and Records (Scotland) Act 1948 (substituti
 
 (3) In sections 26(1) (fee payable by party applying for jury trial in civil cause)[^f00021] and 32(1) (interpretation of Part II), “with the consent of the Treasury” is omitted.
 
-#### 24. Coast Protection Act [1949 (c. 74)](https://www.legislation.gov.uk/ukpga/1949/74)[^key-44383abe241a44f99a12a83945388856]
+#### 24. Coast Protection Act [1949 (c. 74)](https://www.legislation.gov.uk/ukpga/1949/74)[^c-44383abe241a44f99a12a83945388856]
 
 (1) The Coast Protection Act 1949 is amended as follows.
 
@@ -233,7 +233,7 @@ In section 1 of the Public Registers and Records (Scotland) Act 1948 (substituti
 
 .
 
-#### 25. Registered Designs Act [1949 (c. 88)](https://www.legislation.gov.uk/ukpga/1949/88)[^key-a0826362cd67b3ca9c12dce966787633]
+#### 25. Registered Designs Act [1949 (c. 88)](https://www.legislation.gov.uk/ukpga/1949/88)[^c-a0826362cd67b3ca9c12dce966787633]
 
 In section 45 of the Registered Designs Act 1949 (application to Scotland), after subsection (3) there is inserted–
 
@@ -241,7 +241,7 @@ In section 45 of the Registered Designs Act 1949 (application to Scotland), afte
 
 .
 
-#### 26. Civil List Act [1952 (c. 37)](https://www.legislation.gov.uk/ukpga/1952/37)[^key-1bef61f5f321071da9b71549f41e9532]
+#### 26. Civil List Act [1952 (c. 37)](https://www.legislation.gov.uk/ukpga/1952/37)[^c-1bef61f5f321071da9b71549f41e9532]
 
 In section 1 of the Civil List Act 1952 (payment of hereditary revenues to the Exchequer)–
 
@@ -252,18 +252,18 @@ In section 1 of the Civil List Act 1952 (payment of hereditary revenues to the E
 
   .
 
-#### 27. Historic Buildings and Ancient Monuments Act [1953 (c. 49)](https://www.legislation.gov.uk/ukpga/1953/49)[^key-eac3aacc076f0ea7721c571cc959f580]
+#### 27. Historic Buildings and Ancient Monuments Act [1953 (c. 49)](https://www.legislation.gov.uk/ukpga/1953/49)[^c-eac3aacc076f0ea7721c571cc959f580]
 
 In section 2 of the Historic Buildings and Ancient Monuments Act 1953 (Historic Buildings Council for Scotland)–
 
 - (a) in subsection (5), after “House of Commons”, in each place where those words appear, there is inserted “or the Scottish Parliament”; and
 - (b) in subsections (5) and (6) “out of moneys provided by Parliament” and “with the approval of the Treasury” are omitted.
 
-#### 28. Atomic Energy Authority Act [1954 (c. 32)](https://www.legislation.gov.uk/ukpga/1954/32)[^key-e2b8e870d08f06818269a3e7f6dbfc92]
+#### 28. Atomic Energy Authority Act [1954 (c. 32)](https://www.legislation.gov.uk/ukpga/1954/32)[^c-e2b8e870d08f06818269a3e7f6dbfc92]
 
 In section 6(3)(c) of the Atomic Energy Authority Act 1954 (miscellaneous provision as to the Authority), at the end there is added “or a member of staff of the Scottish Administration specially authorised in that behalf by or on behalf of the Scottish Ministers,”.
 
-#### 29. Building (Scotland) Act [1959 (c. 24)](https://www.legislation.gov.uk/ukpga/1959/24)[^key-e2e36ee270f7268d127a5432ea6a6c6e]
+#### 29. Building (Scotland) Act [1959 (c. 24)](https://www.legislation.gov.uk/ukpga/1959/24)[^c-e2e36ee270f7268d127a5432ea6a6c6e]
 
 (1) The Building (Scotland) Act 1959 is amended as follows.
 
@@ -271,11 +271,11 @@ In section 6(3)(c) of the Atomic Energy Authority Act 1954 (miscellaneous provis
 
 (3) In section 12(3) (Building Standards Advisory Committee), “with the approval of the Minister for the Civil Service” is omitted.
 
-#### 30. Town and Country Planning (Scotland) Act [1959 (c. 70)](https://www.legislation.gov.uk/ukpga/1959/70)[^key-8e0ccd308d9aa1daee613825b80c1ca4]
+#### 30. Town and Country Planning (Scotland) Act [1959 (c. 70)](https://www.legislation.gov.uk/ukpga/1959/70)[^c-8e0ccd308d9aa1daee613825b80c1ca4]
 
 In section 54(1) of the Town and Country Planning (Scotland) Act 1959 (interpretation)[^f00024], in the definition of “grant-aided function”, after “Parliament” there is inserted “or out of money paid out of the Scottish Consolidated Fund”.
 
-#### 31. Highlands and Islands Shipping Services Act [1960 (c. 31)](https://www.legislation.gov.uk/ukpga/1960/31)[^key-d0c26f2c8beacbae6f3db40a7333424c]
+#### 31. Highlands and Islands Shipping Services Act [1960 (c. 31)](https://www.legislation.gov.uk/ukpga/1960/31)[^c-d0c26f2c8beacbae6f3db40a7333424c]
 
 In section 2 of the Highlands and Islands Shipping Services Act 1960 (advances and charter of ships), after subsection (3) there is inserted–
 
@@ -283,11 +283,11 @@ In section 2 of the Highlands and Islands Shipping Services Act 1960 (advances a
 
 .
 
-#### 32. Flood Prevention (Scotland) Act [1961 (c. 41)](https://www.legislation.gov.uk/ukpga/1961/41)[^key-a9f3d795fc16270dc3b34fd5a8ef348b]
+#### 32. Flood Prevention (Scotland) Act [1961 (c. 41)](https://www.legislation.gov.uk/ukpga/1961/41)[^c-a9f3d795fc16270dc3b34fd5a8ef348b]
 
 In section 13(1) of the Flood Prevention (Scotland) Act 1961 (financial provisions), “with the consent of the Treasury”, in each place where those words occur, is omitted.
 
-#### 33. Sea Fish Industry Act [1962 (c. 31)](https://www.legislation.gov.uk/ukpga/1962/31)[^key-bfcd0ed79e8d8d49bec03c19ba1466d2]
+#### 33. Sea Fish Industry Act [1962 (c. 31)](https://www.legislation.gov.uk/ukpga/1962/31)[^c-bfcd0ed79e8d8d49bec03c19ba1466d2]
 
 In section 33(2) of the Sea Fish Industry Act 1962 (interpretation)[^f00025]–
 
@@ -295,15 +295,15 @@ In section 33(2) of the Sea Fish Industry Act 1962 (interpretation)[^f00025]–
 - (b) in paragraph (c), the words from “the Secretary” to “Scotland” are omitted; and
 - (c) at the end there is inserted “and, in relation to Scotland, “the Ministers”, and any reference to one of the Ministers, means the Scottish Ministers”.
 
-#### 34. Harbours Act [1964 (c. 40)](https://www.legislation.gov.uk/ukpga/1964/40)[^key-bb3dbe349154006cd467811c12ca5ca1]
+#### 34. Harbours Act [1964 (c. 40)](https://www.legislation.gov.uk/ukpga/1964/40)[^c-bb3dbe349154006cd467811c12ca5ca1]
 
 In section 36 of the Harbours Act 1964 (section 31 not to apply to charges at certain harbours), at the end of paragraph (c) there is inserted “or by the Scottish Ministers”.
 
-#### 35. Teaching Council (Scotland) Act [1965 (c. 19)](https://www.legislation.gov.uk/ukpga/1965/19)[^key-0ef1b562e0f9d3526ec9dd635c1fac0c]
+#### 35. Teaching Council (Scotland) Act [1965 (c. 19)](https://www.legislation.gov.uk/ukpga/1965/19)[^c-0ef1b562e0f9d3526ec9dd635c1fac0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 36. Law Commissions Act [1965 (c. 22)](https://www.legislation.gov.uk/ukpga/1965/22)[^key-641a7ae0dc3aca799778c700d8acd167]
+#### 36. Law Commissions Act [1965 (c. 22)](https://www.legislation.gov.uk/ukpga/1965/22)[^c-641a7ae0dc3aca799778c700d8acd167]
 
 (1) The Law Commissions Act 1965[^f00026] is amended as follows.
 
@@ -360,7 +360,7 @@ In section 36 of the Harbours Act 1964 (section 31 not to apply to charges at ce
 
 (6) In section 6(2) (supplemental), for “and the Lord Advocate”, there is substituted “the Scottish Ministers”.
 
-#### 37. Registration of Births, Deaths and Marriages (Scotland) Act [1965 (c. 49)](https://www.legislation.gov.uk/ukpga/1965/49)[^key-0909c97a7430692c4a6e71c62621eab5]
+#### 37. Registration of Births, Deaths and Marriages (Scotland) Act [1965 (c. 49)](https://www.legislation.gov.uk/ukpga/1965/49)[^c-0909c97a7430692c4a6e71c62621eab5]
 
 (1) The Registration of Births, Deaths and Marriages (Scotland) Act 1965 is amended as follows.
 
@@ -370,7 +370,7 @@ In section 36 of the Harbours Act 1964 (section 31 not to apply to charges at ce
 
 (4) Section 4 (salaries, receipts and expenses)[^f00029] is omitted.
 
-#### 38. Nuclear Installations Act [1965 (c. 57)](https://www.legislation.gov.uk/ukpga/1965/57)[^key-524697fd08c4530ec2e14744a026bb95]
+#### 38. Nuclear Installations Act [1965 (c. 57)](https://www.legislation.gov.uk/ukpga/1965/57)[^c-524697fd08c4530ec2e14744a026bb95]
 
 (1) The Nuclear Installations Act 1965 is amended as follows.
 
@@ -382,7 +382,7 @@ In section 36 of the Harbours Act 1964 (section 31 not to apply to charges at ce
 
 (5) In paragraph 3(2)(d) of Schedule 1 (security provisions applicable by order under section 2), at the end there is inserted “or a member of the staff of the Scottish Administration specially authorised in that behalf by or on behalf of the Scottish Ministers”.
 
-#### 39. Parliamentary Commissioner Act [1967 (c. 13)](https://www.legislation.gov.uk/ukpga/1967/13)[^key-b2d4e82bb99cd634d3c18193861429b1]
+#### 39. Parliamentary Commissioner Act [1967 (c. 13)](https://www.legislation.gov.uk/ukpga/1967/13)[^c-b2d4e82bb99cd634d3c18193861429b1]
 
 (1) The Parliamentary Commissioner Act 1967 is amended as follows.
 
@@ -488,11 +488,11 @@ In section 36 of the Harbours Act 1964 (section 31 not to apply to charges at ce
 
 and, at the end of the entry relating to the Meat Hygiene Appeals Tribunal there is inserted the words “other than a Tribunal any of whose members was appointed by the Secretary of State for Scotland or by the Scottish Ministers”.
 
-#### 40. Slaughter of Poultry Act [1967 (c. 24)](https://www.legislation.gov.uk/ukpga/1967/24)[^key-08a4d5ec44b409be85c34c674d880c9a]
+#### 40. Slaughter of Poultry Act [1967 (c. 24)](https://www.legislation.gov.uk/ukpga/1967/24)[^c-08a4d5ec44b409be85c34c674d880c9a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 41. Police (Scotland) Act [1967 (c. 77)](https://www.legislation.gov.uk/ukpga/1967/77)[^key-b0068e723f95d989c938fd7a22ed93a2]
+#### 41. Police (Scotland) Act [1967 (c. 77)](https://www.legislation.gov.uk/ukpga/1967/77)[^c-b0068e723f95d989c938fd7a22ed93a2]
 
 (1) The Police (Scotland) Act 1967 is amended as follows.
 
@@ -509,7 +509,7 @@ and, at the end of the entry relating to the Meat Hygiene Appeals Tribunal there
 
 (4) In section 34 (assistant inspectors and staff officers), in subsection (2) for “Secretary of State may, with the consent of the Treasury,” there is substituted “Scottish Ministers may”.
 
-#### 42. Sea Fisheries (Shellfish) Act [1967 (c. 83)](https://www.legislation.gov.uk/ukpga/1967/83)[^key-267e5bf91301ee8d15f04a2ec4558a96]
+#### 42. Sea Fisheries (Shellfish) Act [1967 (c. 83)](https://www.legislation.gov.uk/ukpga/1967/83)[^c-267e5bf91301ee8d15f04a2ec4558a96]
 
 (1) The Sea Fisheries (Shellfish) Act 1967 is amended as follows.
 
@@ -576,7 +576,7 @@ and, at the end of the entry relating to the Meat Hygiene Appeals Tribunal there
 
   .
 
-#### 43. Sea Fish (Conservation) Act [1967 (c. 84)](https://www.legislation.gov.uk/ukpga/1967/84)[^key-cd702125c2aca84873265cd300d7b9ea]
+#### 43. Sea Fish (Conservation) Act [1967 (c. 84)](https://www.legislation.gov.uk/ukpga/1967/84)[^c-cd702125c2aca84873265cd300d7b9ea]
 
 (1) The Sea Fish (Conservation) Act 1967 is amended as follows.
 
@@ -691,11 +691,11 @@ and, at the end of the entry relating to the Meat Hygiene Appeals Tribunal there
 
 .
 
-#### 44. Countryside (Scotland) Act [1967 (c. 86)](https://www.legislation.gov.uk/ukpga/1967/86)[^key-b0ec87aa6ac001cacd8acad9ed18158a]
+#### 44. Countryside (Scotland) Act [1967 (c. 86)](https://www.legislation.gov.uk/ukpga/1967/86)[^c-b0ec87aa6ac001cacd8acad9ed18158a]
 
 In section 38(6) of the Countryside (Scotland) Act 1967 (supplementary provisions as to creation, closure and diversion of public paths)[^f00058], for the words from “appropriate Minister” to the end there is substituted “Scottish Ministers”.
 
-#### 45. Erskine Bridge Tolls Act [1968 (c. 4)](https://www.legislation.gov.uk/ukpga/1968/4)[^key-7b4d064efa151118daa90553f3cb7551]
+#### 45. Erskine Bridge Tolls Act [1968 (c. 4)](https://www.legislation.gov.uk/ukpga/1968/4)[^c-7b4d064efa151118daa90553f3cb7551]
 
 (1) The Erskine Bridge Tolls Act 1968 is amended as follows.
 
@@ -703,7 +703,7 @@ In section 38(6) of the Countryside (Scotland) Act 1967 (supplementary provision
 
 (3) In section 17(1) (annual accounts), the words from “in such form” to the end are omitted.
 
-#### 46. Agriculture (Miscellaneous Provisions) Act [1968 (c. 34)](https://www.legislation.gov.uk/ukpga/1968/34)[^key-f3fd99b4ee8009d9c6b989103dca81e3]
+#### 46. Agriculture (Miscellaneous Provisions) Act [1968 (c. 34)](https://www.legislation.gov.uk/ukpga/1968/34)[^c-f3fd99b4ee8009d9c6b989103dca81e3]
 
 In section 3 of the Agriculture (Miscellaneous Provisions) Act 1968 (codes of recommendations for the welfare of livestock), after subsection (4) there is inserted–
 
@@ -711,11 +711,11 @@ In section 3 of the Agriculture (Miscellaneous Provisions) Act 1968 (codes of re
 
 .
 
-#### 47. Sewerage (Scotland) Act [1968 (c. 47)](https://www.legislation.gov.uk/ukpga/1968/47)[^key-3c3f5db4f23cd5875d51a93d67805ee1]
+#### 47. Sewerage (Scotland) Act [1968 (c. 47)](https://www.legislation.gov.uk/ukpga/1968/47)[^c-3c3f5db4f23cd5875d51a93d67805ee1]
 
 In section 55(3) of the Sewerage (Scotland) Act 1968 (application of Act to Crown premises), after “Commissioners” there is inserted “ or the Scottish Ministers”.
 
-#### 48. Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77)[^key-d270db9fdf3e05877180a332d2e14816]
+#### 48. Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77)[^c-d270db9fdf3e05877180a332d2e14816]
 
 (1) The Sea Fisheries Act 1968 is amended as follows.
 
@@ -773,7 +773,7 @@ In section 55(3) of the Sewerage (Scotland) Act 1968 (application of Act to Crow
   - (ii) at the end there is inserted “and, in relation to Scotland, the Scottish Ministers”; and
 - (d) in the definition of “Sea Fisheries Acts”, after “sea-fishing”, there is inserted “including any Act of the Scottish Parliament and any subordinate legislation made under such an Act, and”.
 
-#### 49. Sea Fish Industry Act [1970 (c. 11)](https://www.legislation.gov.uk/ukpga/1970/11)[^key-b584cc258a6d40d9e73a9a5e85b2337a]
+#### 49. Sea Fish Industry Act [1970 (c. 11)](https://www.legislation.gov.uk/ukpga/1970/11)[^c-b584cc258a6d40d9e73a9a5e85b2337a]
 
 (1) The Sea Fish Industry Act 1970 is amended as follows.
 
@@ -781,7 +781,7 @@ In section 55(3) of the Sewerage (Scotland) Act 1968 (application of Act to Crow
 
 (3) In section 42 (publication or disclosure of information), after “Food” there is inserted “, the Scottish Ministers”.
 
-#### 50. Sheriff Courts (Scotland) Act [1971 (c. 58)](https://www.legislation.gov.uk/ukpga/1971/58)[^key-7e1e6a73f9618c2e0952e0b7f2fd5ce2]
+#### 50. Sheriff Courts (Scotland) Act [1971 (c. 58)](https://www.legislation.gov.uk/ukpga/1971/58)[^c-7e1e6a73f9618c2e0952e0b7f2fd5ce2]
 
 (1) The Sheriff Courts (Scotland) Act 1971 is amended as follows.
 
@@ -796,22 +796,22 @@ In section 55(3) of the Sewerage (Scotland) Act 1968 (application of Act to Crow
   - (i) for the words before “pay” there is substituted “The Scottish Ministers may”; and
   - (ii) after “State”, where that word appears for the second time, there is inserted “,with the consent of the Treasury,”.
 
-#### 51. Superannuation Act [1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11)[^key-b4ce104f4abb5e077f34f0cd81cd82a7]
+#### 51. Superannuation Act [1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11)[^c-b4ce104f4abb5e077f34f0cd81cd82a7]
 
 In section 4 of the Superannuation Act 1972 (payments due to deceased persons)–
 
 - (a) in subsection (3), at the end there is added “and as including a reference to any part of the Scottish Administration”; and
 - (b) in subsection (4), after “government department,” there is inserted “, the Scottish Ministers in respect of any part of the Scottish Administration,”.
 
-#### 52. European Communities Act [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68)[^key-026bcd59b2a4870cd2fe7f8f3dad00c6]
+#### 52. European Communities Act [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68)[^c-026bcd59b2a4870cd2fe7f8f3dad00c6]
 
-(1)[^key-7bb28cf2ff4ca76515249185ce27d971] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-7bb28cf2ff4ca76515249185ce27d971] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-7bb28cf2ff4ca76515249185ce27d971] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7bb28cf2ff4ca76515249185ce27d971] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 12 of the European Communities Act 1972 (furnishing of information to Communities), after “government department” where these words first appear there is inserted “, the Scottish Ministers”.
 
-#### 53. Local Government (Scotland) Act [1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65)[^key-7d154f1aee2928eb7e5601be1fabc7b1]
+#### 53. Local Government (Scotland) Act [1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65)[^c-7d154f1aee2928eb7e5601be1fabc7b1]
 
 (1) The Local Government (Scotland) Act 1973 is amended as follows.
 
@@ -843,22 +843,22 @@ In section 4 of the Superannuation Act 1972 (payments due to deceased persons)�
 - (e) in paragraph 8(4), “and of the Treasury,” is omitted; and
 - (f) in paragraph 9, for “Parliament” there is substituted “the Scottish Ministers”.
 
-#### 54. Lord High Commissioner (Church of Scotland) Act [1974 (c. 19)](https://www.legislation.gov.uk/ukpga/1974/19)[^key-e13ed0fc8dbecaf44c7ee6df1c4ae276]
+#### 54. Lord High Commissioner (Church of Scotland) Act [1974 (c. 19)](https://www.legislation.gov.uk/ukpga/1974/19)[^c-e13ed0fc8dbecaf44c7ee6df1c4ae276]
 
 In section 1 of the Lord High Commissioner (Church of Scotland) Act 1974 (allowance payable to the Lord High Commissioner to the General Assembly of the Church of Scotland)–
 
 - (a) for “Secretary of State” in each place where those words appear there is substituted “Scottish Ministers”; and
 - (b) “,with the concurrence of the Treasury,” is omitted.
 
-#### 55. Ministerial and other Salaries Act [1975 (c. 27)](https://www.legislation.gov.uk/ukpga/1975/27)[^key-af26d4439d32f274905eded19714be5b]
+#### 55. Ministerial and other Salaries Act [1975 (c. 27)](https://www.legislation.gov.uk/ukpga/1975/27)[^c-af26d4439d32f274905eded19714be5b]
 
 In Part III of Schedule 1 to the Ministerial and other Salaries Act 1975[^f00064] (salaries of the Law Officers), in column 2, opposite the entry for the Advocate General for Scotland, there is inserted “56,031”.
 
-#### 56. Local Government (Scotland) Act [1975 (c. 30)](https://www.legislation.gov.uk/ukpga/1975/30)[^key-2fb1225bf33cdc7117d2913d91fc2a2e]
+#### 56. Local Government (Scotland) Act [1975 (c. 30)](https://www.legislation.gov.uk/ukpga/1975/30)[^c-2fb1225bf33cdc7117d2913d91fc2a2e]
 
 In section 25(1)(b) of the Local Government (Scotland) Act 1975 (provisions relating to complaints), after “Parliament” there is inserted “or money paid out of the Scottish Consolidated Fund”.
 
-#### 57. Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86)[^key-dec0cfef42bfeefc0500abc64607b245]
+#### 57. Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86)[^c-dec0cfef42bfeefc0500abc64607b245]
 
 (1) The Fishery Limits Act 1976 is amended as follows.
 
@@ -890,7 +890,7 @@ In section 25(1)(b) of the Local Government (Scotland) Act 1975 (provisions rela
   - (i) after “means” there is inserted “, in relation to England and Wales and Northern Ireland,”; and
   - (ii) at the end there is inserted “and, in relation to Scotland, the Scottish Ministers”.
 
-#### 58. Patents Act [1977 (c. 37)](https://www.legislation.gov.uk/ukpga/1977/37)[^key-0921d79025692797d2957a19e516a669]
+#### 58. Patents Act [1977 (c. 37)](https://www.legislation.gov.uk/ukpga/1977/37)[^c-0921d79025692797d2957a19e516a669]
 
 After section 131 of the Patents Act 1977 (Northern Ireland), there is inserted–
 
@@ -904,54 +904,54 @@ After section 131 of the Patents Act 1977 (Northern Ireland), there is inserted�
 
 .
 
-#### 59. Customs and Excise Management Act [1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2)[^key-d311c7fb74d3118364507085f6160053]
+#### 59. Customs and Excise Management Act [1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2)[^c-d311c7fb74d3118364507085f6160053]
 
 In paragraph 17(4) of Schedule 3 to the Customs and Excise Management Act 1979 (provisions relating to forfeiture – power to deal with seizures before condemnation, etc.), after “an official of any government department” there is inserted “or an office-holder in, or a member of the staff of, the Scottish Administration”.
 
-#### 60. Tobacco Products Duty Act [1979 (c. 7)](https://www.legislation.gov.uk/ukpga/1979/7)[^key-71dc2e5b1eabfddbc0a425dd3a60123c]
+#### 60. Tobacco Products Duty Act [1979 (c. 7)](https://www.legislation.gov.uk/ukpga/1979/7)[^c-71dc2e5b1eabfddbc0a425dd3a60123c]
 
 In section 5(4) of the Tobacco Products Duty Act 1979 (retail price of cigarettes), after “any government department” there is inserted “or an office-holder in, or a member of the staff of, the Scottish Administration”.
 
-#### 61. Agricultural Statistics Act [1979 (c. 13)](https://www.legislation.gov.uk/ukpga/1979/13)[^key-cf6934b311d0e299a2b7495e31c211fc]
+#### 61. Agricultural Statistics Act [1979 (c. 13)](https://www.legislation.gov.uk/ukpga/1979/13)[^c-cf6934b311d0e299a2b7495e31c211fc]
 
 In section 3(2)(a) of the Agricultural Statistics Act 1979 (restriction on disclosure of information)–
 
 - (a) after “Government department” there is inserted “, to the Scottish Ministers”; and
 - (b) after “such Minister” there is inserted “, the Scottish Ministers”.
 
-#### 62. Slaughter of Animals (Scotland) Act [1980 (c. 13)](https://www.legislation.gov.uk/ukpga/1980/13)[^key-eae7fbd5ac4b2840523a03542cc517f5]
+#### 62. Slaughter of Animals (Scotland) Act [1980 (c. 13)](https://www.legislation.gov.uk/ukpga/1980/13)[^c-eae7fbd5ac4b2840523a03542cc517f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 63. Education (Scotland) Act [1980 (c. 44)](https://www.legislation.gov.uk/ukpga/1980/44)[^key-84d6417352e3ed02b9128b42e87c99e1]
+#### 63. Education (Scotland) Act [1980 (c. 44)](https://www.legislation.gov.uk/ukpga/1980/44)[^c-84d6417352e3ed02b9128b42e87c99e1]
 
 In section 103(5) of the Education (Scotland) Act 1980 (proceedings before Independent Schools Tribunals and matters relating thereto)[^f00068] “, with the consent of the Minister for the Civil Service,” is omitted.
 
-#### 64. Water (Scotland) Act [1980 (c. 45)](https://www.legislation.gov.uk/ukpga/1980/45)[^key-d0f1f4fafad6ceb7c1b0f43025bb64d7]
+#### 64. Water (Scotland) Act [1980 (c. 45)](https://www.legislation.gov.uk/ukpga/1980/45)[^c-d0f1f4fafad6ceb7c1b0f43025bb64d7]
 
 In Schedule 4 to the Water (Scotland) Act 1980 (provisions to be incorporated in Orders relating to Water Undertakings), in paragraph 46 (copies of special Act to be deposited), after “Queen’s Printer” there is inserted “or the Queen’s Printer for Scotland”.
 
-#### 65. Solicitors (Scotland) Act [1980 (c. 46)](https://www.legislation.gov.uk/ukpga/1980/46)[^key-c9890d4195fab2f69e873d494a6b9cc3]
+#### 65. Solicitors (Scotland) Act [1980 (c. 46)](https://www.legislation.gov.uk/ukpga/1980/46)[^c-c9890d4195fab2f69e873d494a6b9cc3]
 
 In paragraph 6 of Schedule 4 to the Solicitors (Scotland) Act 1980 (constitution, procedure and power of tribunal), “, with the approval of the Minister for the Civil Service,” is omitted.
 
-#### 66. Law Reform (Miscellaneous Provisions) (Scotland) Act [1980 (c. 55)](https://www.legislation.gov.uk/ukpga/1980/55)[^key-a238aec1c20e3cc8533b13be52797a6c]
+#### 66. Law Reform (Miscellaneous Provisions) (Scotland) Act [1980 (c. 55)](https://www.legislation.gov.uk/ukpga/1980/55)[^c-a238aec1c20e3cc8533b13be52797a6c]
 
 In section 17(2)(b) of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 (power of judges to act as arbiters), for “Secretary of State may, with the consent of the Treasury,” there is substituted “Scottish Ministers may”.
 
-#### 67. Local Government, Planning and Land Act [1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65)[^key-2bf1c42737cf15ac430afd3fb419cd1e]
+#### 67. Local Government, Planning and Land Act [1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65)[^c-2bf1c42737cf15ac430afd3fb419cd1e]
 
 In section 120(1)(b) of the Local Government, Planning and Land Act 1980 (compulsory acquisition: exclusion of special parliamentary procedure), after “statutory undertakers” there is inserted “, the Scottish Ministers”.
 
-#### 68. Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29)[^key-9bbd0807cfe3fe2d4aa1f00ec0a28195]
+#### 68. Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29)[^c-9bbd0807cfe3fe2d4aa1f00ec0a28195]
 
-(1) [^key-632a5c664bbae5e0f3883120d4279217]... The Fisheries Act 1981 is amended as follows.
+(1) [^c-632a5c664bbae5e0f3883120d4279217]... The Fisheries Act 1981 is amended as follows.
 
-(2)[^key-31bf57bd9a8a38c2c4eac7ee101fce2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-31bf57bd9a8a38c2c4eac7ee101fce2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-31bf57bd9a8a38c2c4eac7ee101fce2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-31bf57bd9a8a38c2c4eac7ee101fce2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-31bf57bd9a8a38c2c4eac7ee101fce2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-31bf57bd9a8a38c2c4eac7ee101fce2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Section 30 (enforcement of Community rules)–
 
@@ -969,7 +969,7 @@ In section 120(1)(b) of the Local Government, Planning and Land Act 1980 (compul
 
   .
 
-(6)[^key-16994c144679c44682e9c39d40d20283] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-16994c144679c44682e9c39d40d20283] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In section 32 (research, development and advice), from “and the Secretaries” to “Wales” there is substituted “, the Secretary of State concerned with fisheries in Wales, and Scottish Ministers”.
 
@@ -980,7 +980,7 @@ In section 120(1)(b) of the Local Government, Planning and Land Act 1980 (compul
 
 (9) In section 41 (orders and schemes), for “or Ministers” there is substituted “, Ministers or of the Scottish Ministers”.
 
-#### 69. Civil Aviation Act [1982 (c. 16)](https://www.legislation.gov.uk/ukpga/1982/16)[^key-98a94339eb65821ad249c6b0414e13f9]
+#### 69. Civil Aviation Act [1982 (c. 16)](https://www.legislation.gov.uk/ukpga/1982/16)[^c-98a94339eb65821ad249c6b0414e13f9]
 
 (1) The Civil Aviation Act 1982 is amended as follows.
 
@@ -993,7 +993,7 @@ In section 120(1)(b) of the Local Government, Planning and Land Act 1980 (compul
   ; and
 - (b) for the words from “the Secretary of State” where first occurring to the end there is substituted “the Secretary of State or the Scottish Ministers as the case may be for an authorisation to exercise the right, the Secretary of State or the Scottish Ministers may if he or they think fit authorise that person to exercise it subject to such conditions, if any, as the Secretary of State or the Scottish Ministers may determine”.
 
-#### 70. British Fishing Boats Act [1983 (c. 8)](https://www.legislation.gov.uk/ukpga/1983/8)[^key-a3925e08b0323858eb1e83124b749c5c]
+#### 70. British Fishing Boats Act [1983 (c. 8)](https://www.legislation.gov.uk/ukpga/1983/8)[^c-a3925e08b0323858eb1e83124b749c5c]
 
 (1) The British Fishing Boats Act 1983 is amended as follows.
 
@@ -1035,7 +1035,7 @@ In section 120(1)(b) of the Local Government, Planning and Land Act 1980 (compul
 
 .
 
-#### 71. Mental Health Act [1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20)[^key-bb2405b3806dd0ac675a37dcb1465bdc]
+#### 71. Mental Health Act [1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20)[^c-bb2405b3806dd0ac675a37dcb1465bdc]
 
 (1) The Mental Health Act 1983 is amended as follows.
 
@@ -1043,7 +1043,7 @@ In section 120(1)(b) of the Local Government, Planning and Land Act 1980 (compul
 
 (3) In section 142(1) (pay, pensions, etc., of mentally disordered persons), after “Consolidated Fund” there is inserted “or the Scottish Consolidated Fund”.
 
-#### 72. Inshore Fishing (Scotland) Act [1984 (c. 26)](https://www.legislation.gov.uk/ukpga/1984/26)[^key-554e2a24f5557335f9ce7b81b0baeeca]
+#### 72. Inshore Fishing (Scotland) Act [1984 (c. 26)](https://www.legislation.gov.uk/ukpga/1984/26)[^c-554e2a24f5557335f9ce7b81b0baeeca]
 
 (1) The Inshore Fishing (Scotland) Act 1984 is amended as follows.
 
@@ -1060,7 +1060,7 @@ In section 120(1)(b) of the Local Government, Planning and Land Act 1980 (compul
 
 (4) In section 9(2), for “either House of Parliament” there is substituted “the Scottish Parliament”.
 
-#### 73. Road Traffic Regulation Act [1984 (c. 27)](https://www.legislation.gov.uk/ukpga/1984/27)[^key-bcb7215b28cf6cafa2b1e504a18e72c3]
+#### 73. Road Traffic Regulation Act [1984 (c. 27)](https://www.legislation.gov.uk/ukpga/1984/27)[^c-bcb7215b28cf6cafa2b1e504a18e72c3]
 
 (1) The Road Traffic Regulation Act 1984 is amended as follows.
 
@@ -1077,7 +1077,7 @@ In section 120(1)(b) of the Local Government, Planning and Land Act 1980 (compul
 
   .
 
-#### 74. Mental Health (Scotland) Act [1984 (c. 36)](https://www.legislation.gov.uk/ukpga/1984/36)[^key-2a5e629e6be78458da4b46dd7e7592c0]
+#### 74. Mental Health (Scotland) Act [1984 (c. 36)](https://www.legislation.gov.uk/ukpga/1984/36)[^c-2a5e629e6be78458da4b46dd7e7592c0]
 
 (1) The Mental Health (Scotland) Act 1984 is amended as follows.
 
@@ -1091,7 +1091,7 @@ In section 120(1)(b) of the Local Government, Planning and Land Act 1980 (compul
   - (i) for “either House of Parliament”, “that House” and “Parliament”, where it second appears, there is substituted “the Scottish Parliament”, and
   - (ii) for “or prorogued or during which both Houses are adjourned” there is substituted “ or is in recess”.
 
-#### 75. Repatriation of Prisoners Act [1984 (c. 47)](https://www.legislation.gov.uk/ukpga/1984/47)[^key-25ffdd25a8b334423a197e6b3f01f220]
+#### 75. Repatriation of Prisoners Act [1984 (c. 47)](https://www.legislation.gov.uk/ukpga/1984/47)[^c-25ffdd25a8b334423a197e6b3f01f220]
 
 (1) The Repatriation of Prisoners Act 1984 is amended as follows.
 
@@ -1190,7 +1190,7 @@ In section 120(1)(b) of the Local Government, Planning and Land Act 1980 (compul
 
   .
 
-#### 76. Roads (Scotland) Act [1984 (c. 54)](https://www.legislation.gov.uk/ukpga/1984/54)[^key-077d805ec0b2088839fa129978678d91]
+#### 76. Roads (Scotland) Act [1984 (c. 54)](https://www.legislation.gov.uk/ukpga/1984/54)[^c-077d805ec0b2088839fa129978678d91]
 
 (1) The Roads (Scotland) Act 1984 is amended as follows.
 
@@ -1200,11 +1200,11 @@ In section 120(1)(b) of the Local Government, Planning and Land Act 1980 (compul
 
 (4) In section 146(3) (application of Act to Crown land), from “but the approval of the Treasury” to the end is omitted.
 
-#### 77. Rent (Scotland) Act [1984 (c. 58)](https://www.legislation.gov.uk/ukpga/1984/58)[^key-4e4d9a531bbd76020368d593b2ea35e7]
+#### 77. Rent (Scotland) Act [1984 (c. 58)](https://www.legislation.gov.uk/ukpga/1984/58)[^c-4e4d9a531bbd76020368d593b2ea35e7]
 
 In section 43 of the Rent (Scotland) Act 1984 (registration areas and rent officers)[^f00072], subsections (5) and (6) are omitted.
 
-#### 78. Companies Act [1985 (c. 6)](https://www.legislation.gov.uk/ukpga/1985/6)[^key-e2494d5768f322b649d30392b0ba2b86]
+#### 78. Companies Act [1985 (c. 6)](https://www.legislation.gov.uk/ukpga/1985/6)[^c-e2494d5768f322b649d30392b0ba2b86]
 
 In section 449(3) of the Companies Act 1985 (provision for security of information obtained)[^f00073], after paragraph (m) there is inserted–
 
@@ -1212,11 +1212,11 @@ In section 449(3) of the Companies Act 1985 (provision for security of informati
 
 .
 
-#### 79. Business Names Act [1985 (c. 7)](https://www.legislation.gov.uk/ukpga/1985/7)[^key-9132d2383f19745360b4340cef3b3638]
+#### 79. Business Names Act [1985 (c. 7)](https://www.legislation.gov.uk/ukpga/1985/7)[^c-9132d2383f19745360b4340cef3b3638]
 
 In section 2(1)(a) of the Business Names Act 1985 (prohibition of use of certain business names), after “Her Majesty’s Government” there is inserted “, with any part of the Scottish Administration,”.
 
-#### 80. National Heritage (Scotland) Act [1985 (c. 16)](https://www.legislation.gov.uk/ukpga/1985/16)[^key-7e05a66d262561d15cfe639b774dd4f6]
+#### 80. National Heritage (Scotland) Act [1985 (c. 16)](https://www.legislation.gov.uk/ukpga/1985/16)[^c-7e05a66d262561d15cfe639b774dd4f6]
 
 (1) The National Heritage (Scotland) Act 1985 is amended as follows.
 
@@ -1233,7 +1233,7 @@ In section 2(1)(a) of the Business Names Act 1985 (prohibition of use of certain
 - (b) in paragraph 7 “with the Treasury’s approval” is omitted; and
 - (c) in paragraph 9(3) “with the Treasury’s consent” is omitted.
 
-#### 81. Food and Environment Protection Act [1985 (c. 48)](https://www.legislation.gov.uk/ukpga/1985/48)[^key-5b096dc81c54447fc0018832238bd925]
+#### 81. Food and Environment Protection Act [1985 (c. 48)](https://www.legislation.gov.uk/ukpga/1985/48)[^c-5b096dc81c54447fc0018832238bd925]
 
 In section 17 of the Food and Environment Protection Act 1985 (codes of practice), after subsection (7) there is inserted–
 
@@ -1245,11 +1245,11 @@ In section 17 of the Food and Environment Protection Act 1985 (codes of practice
 
 .
 
-#### 82. Bankruptcy (Scotland) Act [1985 (c. 66)](https://www.legislation.gov.uk/ukpga/1985/66)[^key-95e487b37f85529b8b8d90c47ef7862e]
+#### 82. Bankruptcy (Scotland) Act [1985 (c. 66)](https://www.legislation.gov.uk/ukpga/1985/66)[^c-95e487b37f85529b8b8d90c47ef7862e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 83. Law Reform (Miscellaneous Provisions)(Scotland) Act [1985 (c. 73)](https://www.legislation.gov.uk/ukpga/1985/73)[^key-c1f947a517354f86feaf5f3f8bd06912]
+#### 83. Law Reform (Miscellaneous Provisions)(Scotland) Act [1985 (c. 73)](https://www.legislation.gov.uk/ukpga/1985/73)[^c-c1f947a517354f86feaf5f3f8bd06912]
 
 In section 22 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (re-employment of retired judges)–
 
@@ -1258,7 +1258,7 @@ In section 22 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (
   - (i) for “Secretary of State”, there is substituted “Scottish Ministers” ; and
   - (ii) for the words after “as” there is substituted “they may determine”.
 
-#### 84. Local Government Act [1986 (c. 10)](https://www.legislation.gov.uk/ukpga/1986/10)[^key-b5f085f83bc328a089899921375d44ad]
+#### 84. Local Government Act [1986 (c. 10)](https://www.legislation.gov.uk/ukpga/1986/10)[^c-b5f085f83bc328a089899921375d44ad]
 
 In section 4 of the Local Government Act 1986 (codes of recommended practice as regards publicity)[^f00077], after subsection (6) there is inserted–
 
@@ -1273,7 +1273,7 @@ In section 4 of the Local Government Act 1986 (codes of recommended practice as 
 
 .
 
-#### 85. Insolvency Act [1986 (c. 45)](https://www.legislation.gov.uk/ukpga/1986/45)[^key-733a83a7b007a0273b121633a21c5767]
+#### 85. Insolvency Act [1986 (c. 45)](https://www.legislation.gov.uk/ukpga/1986/45)[^c-733a83a7b007a0273b121633a21c5767]
 
 In section 155 of the Insolvency Act 1986 (inspection of books by creditors etc.), after subsection (2) there is inserted–
 
@@ -1281,7 +1281,7 @@ In section 155 of the Insolvency Act 1986 (inspection of books by creditors etc.
 
 .
 
-#### 86. Legal Aid (Scotland) Act [1986 (c. 47)](https://www.legislation.gov.uk/ukpga/1986/47)[^key-1c297d2b407e05ce14c5beeecf3598a4]
+#### 86. Legal Aid (Scotland) Act [1986 (c. 47)](https://www.legislation.gov.uk/ukpga/1986/47)[^c-1c297d2b407e05ce14c5beeecf3598a4]
 
 (1) The Legal Aid (Scotland) Act 1986 is amended as follows.
 
@@ -1308,7 +1308,7 @@ In section 155 of the Insolvency Act 1986 (inspection of books by creditors etc.
 - (e) in paragraph 8(5)(b) “given with the approval of the Treasury” is omitted; and
 - (f) in paragraph 13 “with the approval of the Treasury” is omitted.
 
-#### 87. Income and Corporation Taxes Act [1988 (c. 1)](https://www.legislation.gov.uk/ukpga/1988/1)[^key-af83bc5c462f34797c8264e53b7bddd6]
+#### 87. Income and Corporation Taxes Act [1988 (c. 1)](https://www.legislation.gov.uk/ukpga/1988/1)[^c-af83bc5c462f34797c8264e53b7bddd6]
 
 (1) The Income and Corporation Taxes Act 1988 is amended as follows.
 
@@ -1321,7 +1321,7 @@ In section 155 of the Insolvency Act 1986 (inspection of books by creditors etc.
 
 (3) In section 560(2)(aa) (persons who are contractors)[^f00079], after “Northern Ireland department” there is inserted “and any part of the Scottish Administration”.
 
-#### 88. Farm Land and Rural Development Act [1988 (c. 16)](https://www.legislation.gov.uk/ukpga/1988/16)[^key-2670842b4d4b0967b0b61cf79b564be2]
+#### 88. Farm Land and Rural Development Act [1988 (c. 16)](https://www.legislation.gov.uk/ukpga/1988/16)[^c-2670842b4d4b0967b0b61cf79b564be2]
 
 (1) The Farm Land and Rural Development Act 1988 is amended as follows.
 
@@ -1337,15 +1337,15 @@ In section 155 of the Insolvency Act 1986 (inspection of books by creditors etc.
 
 .
 
-#### 89. Court of Session Act [1988 (c. 36)](https://www.legislation.gov.uk/ukpga/1988/36)[^key-23335736ab0ee7424a31f721dbbaf56e]
+#### 89. Court of Session Act [1988 (c. 36)](https://www.legislation.gov.uk/ukpga/1988/36)[^c-23335736ab0ee7424a31f721dbbaf56e]
 
 In section 1(4) of the Court of Session Act 1988 (number of judges of Court)[^f00080], “, with the concurrence of the Treasury,” is omitted.
 
-#### 90. Scotch Whisky Act [1988 (c. 22)](https://www.legislation.gov.uk/ukpga/1988/22)[^key-1e10fa1adb77229b721a9ea5960f7939]
+#### 90. Scotch Whisky Act [1988 (c. 22)](https://www.legislation.gov.uk/ukpga/1988/22)[^c-1e10fa1adb77229b721a9ea5960f7939]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 91. Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40)[^key-dea98465094fed5b908d160f039827be]
+#### 91. Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40)[^c-dea98465094fed5b908d160f039827be]
 
 (1) The Education Reform Act 1988 is amended as follows.
 
@@ -1361,7 +1361,7 @@ In section 1(4) of the Court of Session Act 1988 (number of judges of Court)[^f0
 
 .
 
-#### 92. Housing (Scotland) Act [1988 (c. 43)](https://www.legislation.gov.uk/ukpga/1988/43)[^key-8810335dbaf82cc98ba4df55edcea811]
+#### 92. Housing (Scotland) Act [1988 (c. 43)](https://www.legislation.gov.uk/ukpga/1988/43)[^c-8810335dbaf82cc98ba4df55edcea811]
 
 (1) The Housing (Scotland) Act 1988 is amended as follows.
 
@@ -1394,7 +1394,7 @@ In section 1(4) of the Court of Session Act 1988 (number of judges of Court)[^f0
 - (c) in paragraphs 9 and 10(1) and (2), “given with the consent of the Treasury,” is omitted; and
 - (d) in paragraph 10(5)(b), “given with the approval of the Treasury” is omitted.
 
-#### 93. Copyright, Designs and Patents Act [1988 (c. 48)](https://www.legislation.gov.uk/ukpga/1988/48)[^key-3e5608cc8c481bdb348e418e45f3ae76]
+#### 93. Copyright, Designs and Patents Act [1988 (c. 48)](https://www.legislation.gov.uk/ukpga/1988/48)[^c-3e5608cc8c481bdb348e418e45f3ae76]
 
 (1) The Copyright, Designs and Patents Act 1988 is amended as follows.
 
@@ -1415,7 +1415,7 @@ In section 1(4) of the Court of Session Act 1988 (number of judges of Court)[^f0
 - (a) in the definition of “the Crown”, after “Her Majesty’s Government in Northern Ireland” there is inserted “and the Crown in right of the Scottish Administration”;
 - (b) in the definition of “government department”, after “Northern Ireland Department” there is inserted “and any part of the Scottish Administration”.
 
-#### 94. Transport (Scotland) Act [1989 (c. 23)](https://www.legislation.gov.uk/ukpga/1989/23)[^key-1adec5b3576f3421ae207fb1158cc17d]
+#### 94. Transport (Scotland) Act [1989 (c. 23)](https://www.legislation.gov.uk/ukpga/1989/23)[^c-1adec5b3576f3421ae207fb1158cc17d]
 
 (1) The Transport (Scotland) Act 1989 is amended as follows.
 
@@ -1432,11 +1432,11 @@ In section 1(4) of the Court of Session Act 1988 (number of judges of Court)[^f0
 - (a) “with the approval of the Treasury” is omitted; and
 - (b) in paragraph (a) “with the agreement of the Treasury” is omitted.
 
-#### 95. Electricity Act [1989 (c. 29)](https://www.legislation.gov.uk/ukpga/1989/29)[^key-2e93ea3824350c8d8f2f996418156cc8]
+#### 95. Electricity Act [1989 (c. 29)](https://www.legislation.gov.uk/ukpga/1989/29)[^c-2e93ea3824350c8d8f2f996418156cc8]
 
 In section 98(5) of the Electricity Act 1989 (provision of statistical information) after “department” there is inserted “or to the Scottish Ministers”.
 
-#### 96. Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40)[^key-75faf831fd7bac82b98eea58c263721a]
+#### 96. Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40)[^c-75faf831fd7bac82b98eea58c263721a]
 
 In section 87(4) of the Companies Act 1989 (exceptions from restrictions on disclosure), at the end of the table there is inserted–
 
@@ -1447,7 +1447,7 @@ In section 87(4) of the Companies Act 1989 (exceptions from restrictions on disc
 
 .
 
-#### 97. Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42)[^key-835809f2c68318c6e6a7a57fefdab968]
+#### 97. Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42)[^c-835809f2c68318c6e6a7a57fefdab968]
 
 In section 31 of the Local Government and Housing Act 1989 (National Code of Local Government Conduct)[^f00081], after subsection (6) there is inserted–
 
@@ -1462,19 +1462,19 @@ In section 31 of the Local Government and Housing Act 1989 (National Code of Loc
 
 .
 
-#### 98. Prisons (Scotland) Act [1989 (c. 45)](https://www.legislation.gov.uk/ukpga/1989/45)[^key-65bbb266abd430b384e9bde42c1bea91]
+#### 98. Prisons (Scotland) Act [1989 (c. 45)](https://www.legislation.gov.uk/ukpga/1989/45)[^c-65bbb266abd430b384e9bde42c1bea91]
 
 (1) The Prisons (Scotland) Act 1989 is amended as follows.
 
-(2)[^key-296c30c268ffaa705d14fd0a7b71a43a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-296c30c268ffaa705d14fd0a7b71a43a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph 3 of Schedule 1 (provisions as to Parole Board and local review committees), “with the consent of the Treasury” is omitted.
 
-#### 99. Food Safety Act [1990 (c. 16)](https://www.legislation.gov.uk/ukpga/1990/16)[^key-74b55cd1d6bce211259340babb3cb120]
+#### 99. Food Safety Act [1990 (c. 16)](https://www.legislation.gov.uk/ukpga/1990/16)[^c-74b55cd1d6bce211259340babb3cb120]
 
 In section 40(1) of the Food Safety Act 1990 (power to issue codes of practice), after “Parliament” there is inserted “, or in the case of a code which applies only to Scotland, before the Scottish Parliament,”.
 
-#### 100. Enterprise and New Towns (Scotland) Act [1990 (c. 35)](https://www.legislation.gov.uk/ukpga/1990/35)[^key-81b18f377d9bdfa39ce8a31f20897fad]
+#### 100. Enterprise and New Towns (Scotland) Act [1990 (c. 35)](https://www.legislation.gov.uk/ukpga/1990/35)[^c-81b18f377d9bdfa39ce8a31f20897fad]
 
 (1) The Enterprise and New Towns (Scotland) Act 1990 is amended as follows.
 
@@ -1514,7 +1514,7 @@ In section 40(1) of the Food Safety Act 1990 (power to issue codes of practice),
 - (d) in paragraph 4 “and the approval of the Treasury” is omitted; and
 - (e) in paragraph 5(1) and (4) “, with the consent of the Treasury,” is omitted.
 
-#### 101. Law Reform (Miscellaneous Provisions) (Scotland) Act [1990 (c. 40)](https://www.legislation.gov.uk/ukpga/1990/40)[^key-d0ca18265dade5d722582165a51cd407]
+#### 101. Law Reform (Miscellaneous Provisions) (Scotland) Act [1990 (c. 40)](https://www.legislation.gov.uk/ukpga/1990/40)[^c-d0ca18265dade5d722582165a51cd407]
 
 (1) The Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 is amended as follows.
 
@@ -1532,7 +1532,7 @@ In section 40(1) of the Food Safety Act 1990 (power to issue codes of practice),
   - (i) for “Secretary of State” there is substituted “Scottish Ministers”; and
   - (ii) for the words after “as” there is substituted “they may determine”.
 
-#### 102. Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43)[^key-8041b62a3c30cff5e438f680ca4ee2dd]
+#### 102. Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43)[^c-8041b62a3c30cff5e438f680ca4ee2dd]
 
 (1) The Environmental Protection Act 1990 is amended as follows.
 
@@ -1571,7 +1571,7 @@ In section 40(1) of the Food Safety Act 1990 (power to issue codes of practice),
 
   .
 
-#### 103. New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22)[^key-059248f3d950b3c844a52129d0cec1d4]
+#### 103. New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22)[^c-059248f3d950b3c844a52129d0cec1d4]
 
 In section 167 of the New Roads and Street Works Act 1991 (Crown application)–
 
@@ -1582,14 +1582,14 @@ In section 167 of the New Roads and Street Works Act 1991 (Crown application)–
 
   .
 
-#### 104. Natural Heritage (Scotland) Act [1991 (c. 28)](https://www.legislation.gov.uk/ukpga/1991/28)[^key-add4ce917f77186c74d55090767433d8]
+#### 104. Natural Heritage (Scotland) Act [1991 (c. 28)](https://www.legislation.gov.uk/ukpga/1991/28)[^c-add4ce917f77186c74d55090767433d8]
 
 In section 7 of the Natural Heritage (Scotland) Act 1991 (powers of entry)[^f00083]–
 
 - (a) in subsection (5), for “appropriate Minister” substitute “Scottish Ministers”;
 - (b) subsection (5A) is omitted.
 
-#### 105. Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5)[^key-00716a1dc05ea8e46da261a567fb371e]
+#### 105. Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5)[^c-00716a1dc05ea8e46da261a567fb371e]
 
 (1) The Social Security Administration Act 1992 is amended as follows.
 
@@ -1600,11 +1600,11 @@ In section 7 of the Natural Heritage (Scotland) Act 1991 (powers of entry)[^f000
 - (a) in Part I, before “the Scottish Courts Administration” insert “the Scottish Administration or”; and
 - (b) in paragraph 3 of Part II, after “Chancellor’s Department” insert “, the Scottish Administration or”.
 
-#### 106. Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)[^key-90e001c00168ce6d6de8f2edd287af3c]
+#### 106. Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)[^c-90e001c00168ce6d6de8f2edd287af3c]
 
 In section 117(7) of the Social Security Administration (Northern Ireland) Act 1992 (unauthorised disclosure of information relating to particular persons), after “Revenue;” insert “(aa) the Scottish Administration;”.
 
-#### 107. Sea Fisheries (Wildlife Conservation) Act [1992 (c. 36)](https://www.legislation.gov.uk/ukpga/1992/36)[^key-01243a9a4ad1c72aa92ae11263496e55]
+#### 107. Sea Fisheries (Wildlife Conservation) Act [1992 (c. 36)](https://www.legislation.gov.uk/ukpga/1992/36)[^c-01243a9a4ad1c72aa92ae11263496e55]
 
 In section 1(2) of the Sea Fisheries (Wildlife Conservation) Act 1992 (conservation in the exercise of sea fisheries functions)–
 
@@ -1616,7 +1616,7 @@ In section 1(2) of the Sea Fisheries (Wildlife Conservation) Act 1992 (conservat
 
   .
 
-#### 108. Further and Higher Education (Scotland) Act [1992 (c. 37)](https://www.legislation.gov.uk/ukpga/1992/37)[^key-a0f1f4ed90962b371a0454e48e69aeb8]
+#### 108. Further and Higher Education (Scotland) Act [1992 (c. 37)](https://www.legislation.gov.uk/ukpga/1992/37)[^c-a0f1f4ed90962b371a0454e48e69aeb8]
 
 (1) The Further and Higher Education (Scotland) Act 1992 is amended as follows.
 
@@ -1631,19 +1631,19 @@ In section 1(2) of the Sea Fisheries (Wildlife Conservation) Act 1992 (conservat
 
 (4) The function of the Minister for Civil Service[^f00084] under paragraph (7)(b) of Schedule 7 is not transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
 
-#### 109. Sea Fish (Conservation) Act [1992 (c. 60)](https://www.legislation.gov.uk/ukpga/1992/60)[^key-1399cd86a7c49ed892dd342db73ed664]
+#### 109. Sea Fish (Conservation) Act [1992 (c. 60)](https://www.legislation.gov.uk/ukpga/1992/60)[^c-1399cd86a7c49ed892dd342db73ed664]
 
 In section 11(3) of the Sea Fish (Conservation) Act 1992 (commencement), at the end there is inserted “or, in the case of a draft of an order in relation to Scotland, the Scottish Parliament”.
 
-#### 110. Prisoners and Criminal Proceedings (Scotland) Act [1993 (c. 9)](https://www.legislation.gov.uk/ukpga/1993/9)[^key-fae8dd4b7d19f730de48255011194cac]
+#### 110. Prisoners and Criminal Proceedings (Scotland) Act [1993 (c. 9)](https://www.legislation.gov.uk/ukpga/1993/9)[^c-fae8dd4b7d19f730de48255011194cac]
 
 In paragraph 4 of Schedule 2 to the Prisoners and Criminal Proceedings (Scotland) Act 1993 (remuneration and allowances), “with the consent of the Treasury” is omitted.
 
-#### 111. Crofters (Scotland) Act [1993 (c. 44)](https://www.legislation.gov.uk/ukpga/1993/44)[^key-f02a61e09da9fa8d4815c797f6db3e0d]
+#### 111. Crofters (Scotland) Act [1993 (c. 44)](https://www.legislation.gov.uk/ukpga/1993/44)[^c-f02a61e09da9fa8d4815c797f6db3e0d]
 
 In paragraph 3 of Schedule 1 to the Crofters (Scotland) Act 1993 (provision as to the Crofters Commission), “, with the approval of the Treasury,” is omitted.
 
-#### 112. Health Service Commissioners Act [1993 (c. 46)](https://www.legislation.gov.uk/ukpga/1993/46)[^key-38224f59aee6fa64555469aba232e026]
+#### 112. Health Service Commissioners Act [1993 (c. 46)](https://www.legislation.gov.uk/ukpga/1993/46)[^c-38224f59aee6fa64555469aba232e026]
 
 (1) The Health Service Commissioners Act 1993 is amended as follows.
 
@@ -1670,14 +1670,14 @@ In paragraph 3 of Schedule 1 to the Crofters (Scotland) Act 1993 (provision as t
     ; and
 - (d) in paragraph 14, after “Commissioner” there is inserted “except the Health Service Commissioner for Scotland”.
 
-#### 113. Pension Schemes Act [1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48)[^key-24b9e375397d9b6ec89a070404abc72e]
+#### 113. Pension Schemes Act [1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48)[^c-24b9e375397d9b6ec89a070404abc72e]
 
 In section 1 of the Pension Schemes Act 1993 (categories of pension schemes), in the definition of “public service pension scheme”–
 
 - (a) at the end of paragraph (b) there is inserted “or by the Scottish Ministers”; and
 - (b) after “by or with the approval of any Minister of the Crown” there is inserted “or established by or with the approval of the Scottish Ministers”.
 
-#### 114. Value Added Tax Act [1994 (c. 23)](https://www.legislation.gov.uk/ukpga/1994/23)[^key-9ae93c00633319c03ef5112d69ea6dcd]
+#### 114. Value Added Tax Act [1994 (c. 23)](https://www.legislation.gov.uk/ukpga/1994/23)[^c-9ae93c00633319c03ef5112d69ea6dcd]
 
 (1) The Value Added Tax Act 1994 is amended as follows.
 
@@ -1688,7 +1688,7 @@ In section 1 of the Pension Schemes Act 1993 (categories of pension schemes), in
 
 (3) In Note (2A) to Group 8 of Schedule 8 (zero-rating – transport)[^f00086], after “to a Government department” there is inserted “or any part of the Scottish Administration”.
 
-#### 115. Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33)[^key-8205157ea0b536919303d24f72daec15]
+#### 115. Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33)[^c-8205157ea0b536919303d24f72daec15]
 
 (1) The Criminal Justice and Public Order Act 1994 is amended as follows.
 
@@ -1732,7 +1732,7 @@ In section 1 of the Pension Schemes Act 1993 (categories of pension schemes), in
 - (b) in subsection (4)(b), for “under section 3(1)” there is substituted “for the purposes of section 3(1A)”; and
 - (c) in subsection (8), after “Secretary of State” there is inserted “or in Scotland, the Scottish Ministers”.
 
-#### 116. Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39)[^key-a79ecff420ab2fd3a156cca28559dc52]
+#### 116. Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39)[^c-a79ecff420ab2fd3a156cca28559dc52]
 
 (1) The Local Government etc. (Scotland) Act 1994 is amended as follows.
 
@@ -1775,7 +1775,7 @@ In section 1 of the Pension Schemes Act 1993 (categories of pension schemes), in
 - paragraphs 11 and 12(1) and (2) of Schedule 7; and
 - paragraph 9(1) and (3) of Schedule 9.
 
-#### 117. Deregulation and Contracting Out Act [1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40)[^key-63329efe67fb384900ee537823af81ab]
+#### 117. Deregulation and Contracting Out Act [1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40)[^c-63329efe67fb384900ee537823af81ab]
 
 (1) The Deregulation and Contracting Out Act 1994 is amended as follows.
 
@@ -1788,11 +1788,11 @@ In section 1 of the Pension Schemes Act 1993 (categories of pension schemes), in
 - (a) any reference to Parliament, or to either House of Parliament or to any committee of either House of Parliament shall include a reference to the Scottish Parliament or, as the case may be, a committee of the Scottish Parliament; and
 - (b) in subsection (3) at the end there is inserted “and, in relation to the Scottish Parliament, no account shall be taken of any time during which the Parliament is dissolved or is in recess for more than 4 days.”.
 
-#### 118. Requirements of Writing (Scotland) Act [1995 (c. 7)](https://www.legislation.gov.uk/ukpga/1995/7)[^key-ef1aa4942fc3877b6d35e92ac92457aa]
+#### 118. Requirements of Writing (Scotland) Act [1995 (c. 7)](https://www.legislation.gov.uk/ukpga/1995/7)[^c-ef1aa4942fc3877b6d35e92ac92457aa]
 
 In section 12(1) of the Requirements of Writing (Scotland) Act 1995 (interpretation), in paragraph (b) of the definition of “office-holder”, after “Parliament” there is inserted “or out of the Scottish Consolidated Fund”.
 
-#### 119. Merchant Shipping Act [1995 (c. 21)](https://www.legislation.gov.uk/ukpga/1995/21)[^key-9ba6fb4198612bbef584ac2e6ce73318]
+#### 119. Merchant Shipping Act [1995 (c. 21)](https://www.legislation.gov.uk/ukpga/1995/21)[^c-9ba6fb4198612bbef584ac2e6ce73318]
 
 After section 256 of the Merchant Shipping Act 1995, there is inserted–
 
@@ -1804,7 +1804,7 @@ After section 256 of the Merchant Shipping Act 1995, there is inserted–
 
 .
 
-#### 120. Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25)[^key-09c4358d98a3ca11234620ecf56d7a90]
+#### 120. Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25)[^c-09c4358d98a3ca11234620ecf56d7a90]
 
 (1) The Environment Act 1995 is amended as follows.
 
@@ -1834,7 +1834,7 @@ After section 256 of the Merchant Shipping Act 1995, there is inserted–
 
 (7) In section 98 (1) (grants for purposes conducive to conservation), after “ Treasury” there is inserted “ as respects England and Wales”.
 
-#### 121. Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26)[^key-1e023ece6b24b14a944476a9857079fe]
+#### 121. Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26)[^c-1e023ece6b24b14a944476a9857079fe]
 
 In section 114(7) of the Pensions Act 1995 (disclosure of information), after paragraph (a) there is inserted the following paragraph–
 
@@ -1842,7 +1842,7 @@ In section 114(7) of the Pensions Act 1995 (disclosure of information), after pa
 
 .
 
-#### 122. Criminal Procedure (Scotland) Act [1995 (c. 46)](https://www.legislation.gov.uk/ukpga/1995/46)[^key-084d506e9b0a7bbe6455dd17705fe703]
+#### 122. Criminal Procedure (Scotland) Act [1995 (c. 46)](https://www.legislation.gov.uk/ukpga/1995/46)[^c-084d506e9b0a7bbe6455dd17705fe703]
 
 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
@@ -1860,7 +1860,7 @@ In section 114(7) of the Pensions Act 1995 (disclosure of information), after pa
 - (a) in column 2 (persons who may purport to sign certificates), after “Secretary of State” there is inserted “or a member of staff of the Scottish Administration who is authorised to do so by the Scottish Ministers”; and
 - (b) in column 3 (matters which may be certified), after “Secretary of State”, there is inserted “or, by virtue of provision made under section 63 of the Scotland Act 1998, the Scottish Ministers”.
 
-#### 123. Criminal Injuries Compensation Act [1995 (c. 53)](https://www.legislation.gov.uk/ukpga/1995/53)[^key-eb76a6d752a41bc7a5c437bd74eb5abc]
+#### 123. Criminal Injuries Compensation Act [1995 (c. 53)](https://www.legislation.gov.uk/ukpga/1995/53)[^c-eb76a6d752a41bc7a5c437bd74eb5abc]
 
 (1) The Criminal Injuries Compensation Act 1995 is amended as follows.
 
@@ -1895,15 +1895,15 @@ In section 114(7) of the Pensions Act 1995 (disclosure of information), after pa
 
 .
 
-#### 124. Police Act [1996 (c. 16)](https://www.legislation.gov.uk/ukpga/1996/16)[^key-a3393d69e30880582805e9f34dc00ae0]
+#### 124. Police Act [1996 (c. 16)](https://www.legislation.gov.uk/ukpga/1996/16)[^c-a3393d69e30880582805e9f34dc00ae0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 125. Education (Scotland) Act [1996 (c. 43)](https://www.legislation.gov.uk/ukpga/1996/43)[^key-0beecf09896719c56a0b3ec8d868dc39]
+#### 125. Education (Scotland) Act [1996 (c. 43)](https://www.legislation.gov.uk/ukpga/1996/43)[^c-0beecf09896719c56a0b3ec8d868dc39]
 
 In section 26(8) of the Education (Scotland) Act 1996 (disclosure of information), in the definition of “person responsible” for “Secretary of State”, in both places where the expression is used, there is substituted “Scottish Ministers”.
 
-#### 126. Damages Act [1996 (c. 48)](https://www.legislation.gov.uk/ukpga/1996/48)[^key-4ac34d019a4bdb9c6dd6cac049d0c690]
+#### 126. Damages Act [1996 (c. 48)](https://www.legislation.gov.uk/ukpga/1996/48)[^c-4ac34d019a4bdb9c6dd6cac049d0c690]
 
 (1) The Damages Act 1996 is amended as follows.
 
@@ -1924,7 +1924,7 @@ In section 26(8) of the Education (Scotland) Act 1996 (disclosure of information
 
 .
 
-#### 127. Town and Country Planning (Scotland) Act [1997 (c. 8)](https://www.legislation.gov.uk/ukpga/1997/8)[^key-a61564094efe5fbef8a1b43270b2ee43]
+#### 127. Town and Country Planning (Scotland) Act [1997 (c. 8)](https://www.legislation.gov.uk/ukpga/1997/8)[^c-a61564094efe5fbef8a1b43270b2ee43]
 
 (1) The Town and Country Planning (Scotland) Act 1997 is amended as follows.
 
@@ -2043,7 +2043,7 @@ In section 26(8) of the Education (Scotland) Act 1996 (disclosure of information
 
 (24) In paragraph 9(4) of Schedule 16 (confirmation of orders), for “whichever Minister is the appropriate Minister in relation to the statutory undertakers concerned” there is substituted “the Scottish Ministers”.
 
-#### 128. Planning (Listed Buildings and Conservation Areas)(Scotland) Act [1997 (c. 9)](https://www.legislation.gov.uk/ukpga/1997/9)[^key-0536b398b0360c2fef4887c38b906e7b]
+#### 128. Planning (Listed Buildings and Conservation Areas)(Scotland) Act [1997 (c. 9)](https://www.legislation.gov.uk/ukpga/1997/9)[^c-0536b398b0360c2fef4887c38b906e7b]
 
 (1) The Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 is amended as follows.
 
@@ -2057,14 +2057,14 @@ In section 26(8) of the Education (Scotland) Act 1996 (disclosure of information
 - (a) in subsection (9), for “appropriate Minister” there is substituted “Scottish Ministers” ; and
 - (b) subsection (10) is omitted.
 
-#### 129. Planning (Hazardous Substances)(Scotland) Act [1997 (c. 10)](https://www.legislation.gov.uk/ukpga/1997/10)[^key-39c5f8444f88c810fe22f751aefd506d]
+#### 129. Planning (Hazardous Substances)(Scotland) Act [1997 (c. 10)](https://www.legislation.gov.uk/ukpga/1997/10)[^c-39c5f8444f88c810fe22f751aefd506d]
 
 In section 35 of the Planning (Hazardous Substances) (Scotland) Act 1997 (rights of entry: supplementary provisions)–
 
 - (a) in subsection (7), for “appropriate Minister” there is substituted “Scottish Ministers”; and
 - (b) subsection (8) is omitted.
 
-#### 130. Crime (Sentences) Act [1997 (c. 43)](https://www.legislation.gov.uk/ukpga/1997/43)[^key-fa3c88a05e5ab49bdebb809ee768d3f2]
+#### 130. Crime (Sentences) Act [1997 (c. 43)](https://www.legislation.gov.uk/ukpga/1997/43)[^c-fa3c88a05e5ab49bdebb809ee768d3f2]
 
 (1) The Crime (Sentences) Act 1997 shall have effect subject to the following modifications.
 
@@ -2120,7 +2120,7 @@ In section 35 of the Planning (Hazardous Substances) (Scotland) Act 1997 (rights
 
   .
 
-#### 131. Police Act [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50)[^key-e75286a0406efce482e5425759d0e593]
+#### 131. Police Act [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50)[^c-e75286a0406efce482e5425759d0e593]
 
 (1) The Police Act 1997 is amended as follows.
 
@@ -2147,7 +2147,7 @@ In section 35 of the Planning (Hazardous Substances) (Scotland) Act 1997 (rights
 
 (5) The functions under sections 22(5) and (7), 23(3) and 101 are not transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
 
-#### 132. Late Payment of Commercial Debts (Interest) Act [1998 (c. 20)](https://www.legislation.gov.uk/ukpga/1998/20)[^key-9084eb32a8765687a56ce17d73415b5c]
+#### 132. Late Payment of Commercial Debts (Interest) Act [1998 (c. 20)](https://www.legislation.gov.uk/ukpga/1998/20)[^c-9084eb32a8765687a56ce17d73415b5c]
 
 In section 2(7) of the Late Payment of Commercial Debts (Interest) Act 1998 (contracts to which Act applies), after the definitions of “contract of sale of goods” and “goods” there is inserted–
 
@@ -2155,17 +2155,17 @@ In section 2(7) of the Late Payment of Commercial Debts (Interest) Act 1998 (con
 
 .
 
-#### 133. Data Protection Act [1998 (c. 29)](https://www.legislation.gov.uk/ukpga/1998/29)[^key-7469bad46dafb4c9c5412c92d7882915]
+#### 133. Data Protection Act [1998 (c. 29)](https://www.legislation.gov.uk/ukpga/1998/29)[^c-7469bad46dafb4c9c5412c92d7882915]
 
 In section 70(1) of the Data Protection Act 1998 (supplementary definitions), in the definition of “enactment” after “Act” there is inserted “and any enactment comprised in, or in any instrument made under, an Act of the Scottish Parliament”.
 
 ### PART II — MODIFICATIONS OF SUBORDINATE LEGISLATION
 
-#### 134. Treasury Order Regulating the Collection and Disposal of Fees Under the Private Legislation Procedure (Scotland) Act 1936 (S.R. & O. 1946/1703)[^key-526710eec9315ca1e69028f9a43c1e71]
+#### 134. Treasury Order Regulating the Collection and Disposal of Fees Under the Private Legislation Procedure (Scotland) Act 1936 (S.R. & O. 1946/1703)[^c-526710eec9315ca1e69028f9a43c1e71]
 
 In article 3 of the Order, for “Vote of the Scottish Home Department” there is substituted “Secretary of State for Scotland’s Vote”.
 
-#### 135. Private Legislation Procedure (Scotland) General Orders 1946 (S.R. & O. 1946/2157)[^key-f0da881d2532069fcd9adc444291915c]
+#### 135. Private Legislation Procedure (Scotland) General Orders 1946 (S.R. & O. 1946/2157)[^c-f0da881d2532069fcd9adc444291915c]
 
 (1) The Private Legislation Procedure (Scotland) General Orders 1946[^f00101] are amended as follows.
 
@@ -2181,43 +2181,43 @@ In article 3 of the Order, for “Vote of the Scottish Home Department” there 
 
 (7) In General Order 98, for “Scottish Office” there is substituted “Secretary of State for Scotland”.
 
-#### 136. Act of Sederunt The Companies (Winding-up) Forms, 1949 ([S.I. 1949/1065](https://www.legislation.gov.uk/uksi/1949/1065))[^key-cde13bb2280ba5b520ea97163b1b62f6]
+#### 136. Act of Sederunt The Companies (Winding-up) Forms, 1949 ([S.I. 1949/1065](https://www.legislation.gov.uk/uksi/1949/1065))[^c-cde13bb2280ba5b520ea97163b1b62f6]
 
 In the Schedule to the Act of Sederunt The Companies (Winding-up) Forms, 1949, in each of forms 111 and 112 after “To the Registrar of Companies” there is inserted “and the Accountant in Bankruptcy”.
 
-#### 137. Nuclear Installations (Insurance Certificate) Regulations 1965 ([S.I. 1965/1823](https://www.legislation.gov.uk/uksi/1965/1823))[^key-1bcadc11bba740e2ee1a75ebe36e32e8]
+#### 137. Nuclear Installations (Insurance Certificate) Regulations 1965 ([S.I. 1965/1823](https://www.legislation.gov.uk/uksi/1965/1823))[^c-1bcadc11bba740e2ee1a75ebe36e32e8]
 
 In regulation 2(2)(c) of the Nuclear Installations (Insurance Certificate) Regulations 1965, at the end there is inserted “or where the government department concerned is part of the Scottish Administration the Scottish Ministers;”.
 
-#### 138. Secretary of State for the Environment Order 1970 ([S.I. 1970/1681](https://www.legislation.gov.uk/uksi/1970/1681))[^key-7dc93938936dc8272dc30d6722630baf]
+#### 138. Secretary of State for the Environment Order 1970 ([S.I. 1970/1681](https://www.legislation.gov.uk/uksi/1970/1681))[^c-7dc93938936dc8272dc30d6722630baf]
 
 In paragraph 21(1) of Schedule 3 to the Secretary of State for the Environment Order 1970 (amendments and adaptations of enactments), at the end there is inserted “but, in relation to land in Scotland, where functions in relation to any statutory undertakers have been transferred by or under the Scotland Act 1998 to the Scottish Ministers the “appropriate Minister” shall be the Scottish Ministers.”.
 
-#### 139. Company and Business Names Regulations 1981 ([S.I. 1981/1685](https://www.legislation.gov.uk/uksi/1981/1685))[^key-7c60d76cdd51f781c756aed2aabb2d3d]
+#### 139. Company and Business Names Regulations 1981 ([S.I. 1981/1685](https://www.legislation.gov.uk/uksi/1981/1685))[^c-7c60d76cdd51f781c756aed2aabb2d3d]
 
 In the Schedule to the Company and Business Names Regulations 1981 (specification of words, expressions and relevant bodies)[^f00102], in column (2), for “Scottish Home and Health Department”, in each place where it appears, there is inserted “the Scottish Ministers”.
 
-#### 140. Mental Health (Northern Ireland) Order 1986 ([S.I. 1986/595](https://www.legislation.gov.uk/uksi/1986/595))[^key-ce3891b4cd801dc1bf1bc1dee8ed6d7f]
+#### 140. Mental Health (Northern Ireland) Order 1986 ([S.I. 1986/595](https://www.legislation.gov.uk/uksi/1986/595))[^c-ce3891b4cd801dc1bf1bc1dee8ed6d7f]
 
 In article 16(3)(b) of the Mental Health (Northern Ireland) Order 1986, after “Minister of the Crown” there is inserted “, the Scottish Ministers” and after “member of either House of Parliament” there is inserted “, any member of the Scottish Parliament”.
 
-#### 141. Insolvency (Scotland) Rules 1986 ([S.I. 1986/1915](https://www.legislation.gov.uk/uksi/1986/1915))[^key-8c805352dd25ad0b542fa9f5ec2c7007][^key-df78fdcdde392bb66c914587cd4461aa]
+#### 141. Insolvency (Scotland) Rules 1986 ([S.I. 1986/1915](https://www.legislation.gov.uk/uksi/1986/1915))[^c-8c805352dd25ad0b542fa9f5ec2c7007][^c-df78fdcdde392bb66c914587cd4461aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 142. Receivers (Scotland) Regulations 1986 ([S.I. 1986/1917](https://www.legislation.gov.uk/uksi/1986/1917))[^key-b0220e90c602276c59f0c5e2ef26a2a2][^key-353281d407bdd7241e6f853d59e542d9]
+#### 142. Receivers (Scotland) Regulations 1986 ([S.I. 1986/1917](https://www.legislation.gov.uk/uksi/1986/1917))[^c-b0220e90c602276c59f0c5e2ef26a2a2][^c-353281d407bdd7241e6f853d59e542d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 143. Public Order (Northern Ireland) Order 1987 ([S.I. 1987/463](https://www.legislation.gov.uk/uksi/1987/463))[^key-1843b26c06e18d38172225bfc069b7d0]
+#### 143. Public Order (Northern Ireland) Order 1987 ([S.I. 1987/463](https://www.legislation.gov.uk/uksi/1987/463))[^c-1843b26c06e18d38172225bfc069b7d0]
 
 In article 15(1) of the Public Order (Northern Ireland) Order 1987 (savings for reports of parliamentary, Assembly or judicial proceedings), after “Parliament” there is inserted “, in the Scottish Parliament”.
 
-#### 144. Companies (Forms) (Amendment) Regulations 1987 ([S.I. 1987/752](https://www.legislation.gov.uk/uksi/1987/752))[^key-d88dc1228a5a93788ec38f24f2043792]
+#### 144. Companies (Forms) (Amendment) Regulations 1987 ([S.I. 1987/752](https://www.legislation.gov.uk/uksi/1987/752))[^c-d88dc1228a5a93788ec38f24f2043792]
 
 In Schedule 2 to the Companies (Forms) (Amendment) Regulations 1987, in Form No. 600, in so far as that form is prescribed for the purposes of the application of section 109 of the Insolvency Act 1986[^f00104] in Scotland, for the words “To the Registrar of Companies” there is substituted “To the Accountant in Bankruptcy”.
 
-#### 145. Act of Sederunt (Proceedings in the Sheriff Court under the Debtors (Scotland) Act 1987) 1988 ([S.I. 1988/2013](https://www.legislation.gov.uk/uksi/1988/2013))[^key-77b970760abcef1ad10584b5a5bf5ee9]
+#### 145. Act of Sederunt (Proceedings in the Sheriff Court under the Debtors (Scotland) Act 1987) 1988 ([S.I. 1988/2013](https://www.legislation.gov.uk/uksi/1988/2013))[^c-77b970760abcef1ad10584b5a5bf5ee9]
 
 (1) The Act of Sederunt (Proceedings in the Sheriff Court under the Debtors (Scotland) Act 1987) 1988 is amended as follows.
 
@@ -2225,23 +2225,23 @@ In Schedule 2 to the Companies (Forms) (Amendment) Regulations 1987, in Form No.
 
 (3) In each of Forms 31 and 35 in the Schedule, after “Advocate” there is inserted “/the Scottish Ministers”.
 
-#### 146. Agricultural, Fishery and Aquaculture Products (Improvement Grant)Regulations 1991 ([S.I. 1991/777](https://www.legislation.gov.uk/uksi/1991/777))[^key-c88f4dacf9ae9b58a839397d61723772]
+#### 146. Agricultural, Fishery and Aquaculture Products (Improvement Grant)Regulations 1991 ([S.I. 1991/777](https://www.legislation.gov.uk/uksi/1991/777))[^c-c88f4dacf9ae9b58a839397d61723772]
 
 In regulation 3(2) of the Agricultural, Fishery and Aquaculture Products (Improvement Grant) Regulations 1991 (improvement grants in respect of the processing and marketing of agricultural, fishery and aquaculture products and the provision of facilities at fishing ports), for “under United Kingdom public funds” there is substituted “out of public funds in any part of the United Kingdom”.
 
-#### 147. Broadcasting (Independent Productions) Order 1991 ([S.I. 1991/1408](https://www.legislation.gov.uk/uksi/1991/1408))[^key-58af512240d8a49b91c399cb24a1bc93]
+#### 147. Broadcasting (Independent Productions) Order 1991 ([S.I. 1991/1408](https://www.legislation.gov.uk/uksi/1991/1408))[^c-58af512240d8a49b91c399cb24a1bc93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 148. Public Works Contracts Regulations 1991 ([S.I. 1991/2680](https://www.legislation.gov.uk/uksi/1991/2680))[^key-316a3190b216b2ffa14c98594cb13d7b]
+#### 148. Public Works Contracts Regulations 1991 ([S.I. 1991/2680](https://www.legislation.gov.uk/uksi/1991/2680))[^c-316a3190b216b2ffa14c98594cb13d7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 149. Teachers' Superannuation (Scotland) Regulations 1992 ([S.I. 1992/280](https://www.legislation.gov.uk/uksi/1992/280))[^key-fea13447d123b45676763fc870d597dd]
+#### 149. Teachers' Superannuation (Scotland) Regulations 1992 ([S.I. 1992/280](https://www.legislation.gov.uk/uksi/1992/280))[^c-fea13447d123b45676763fc870d597dd]
 
 In regulation E10(1) of the Teachers' Superannuation (Scotland) Regulations 1992 (avoidance of duplicate pensions)[^f00105], after “Parliament” there is inserted “or moneys paid out of the Scottish Consolidated Fund”.
 
-#### 150 (Extent: E.W.) (affected by repeal, see note). Sea Fish Licensing Order 1992 ( (Extent: E.W.) (affected by repeal, see note)[S.I. 1992/2633 (Extent: E.W.) (affected by repeal, see note)](https://www.legislation.gov.uk/uksi/1992/2633)) (Extent: E.W.) (affected by repeal, see note)[^key-cdc956f2aa7751e77a5ef9fd3cd2609e][^M_F_e6238b3f-1f33-40ae-f103-661e0c386cd2][^M_F_e6238b3f-1f33-40ae-f103-661e0c386cd2][^M_F_e6238b3f-1f33-40ae-f103-661e0c386cd2][^M_F_e6238b3f-1f33-40ae-f103-661e0c386cd2]
+#### 150 (Extent: E.W.) (affected by repeal, see note). Sea Fish Licensing Order 1992 ( (Extent: E.W.) (affected by repeal, see note)[S.I. 1992/2633 (Extent: E.W.) (affected by repeal, see note)](https://www.legislation.gov.uk/uksi/1992/2633)) (Extent: E.W.) (affected by repeal, see note)[^c-cdc956f2aa7751e77a5ef9fd3cd2609e][^M_F_e6238b3f-1f33-40ae-f103-661e0c386cd2][^M_F_e6238b3f-1f33-40ae-f103-661e0c386cd2][^M_F_e6238b3f-1f33-40ae-f103-661e0c386cd2][^M_F_e6238b3f-1f33-40ae-f103-661e0c386cd2]
 
 (1 (Extent: E.W.) (affected by repeal, see note))[^M_F_e6238b3f-1f33-40ae-f103-661e0c386cd2] The Sea Fish Licensing Order 1992 *(Extent: E.W.)* *(affected by repeal, see note)*[^M_F_e6238b3f-1f33-40ae-f103-661e0c386cd2][^f00106], is amended as follows. *(Extent: E.W.)* *(affected by repeal, see note)*[^M_F_e6238b3f-1f33-40ae-f103-661e0c386cd2]
 
@@ -2261,11 +2261,11 @@ In regulation E10(1) of the Teachers' Superannuation (Scotland) Regulations 1992
 
   . *(Extent: E.W.)* *(affected by repeal, see note)*[^M_F_e6238b3f-1f33-40ae-f103-661e0c386cd2]
 
-#### 151. Scottish Land Court Rules 1992 ([S.I. 1992/2656](https://www.legislation.gov.uk/uksi/1992/2656))[^key-3518c654a67497fa3fa6a5a567904886]
+#### 151. Scottish Land Court Rules 1992 ([S.I. 1992/2656](https://www.legislation.gov.uk/uksi/1992/2656))[^c-3518c654a67497fa3fa6a5a567904886]
 
 In the Schedule to the Scottish Land Court Rules 1992, in rule 60 (appointment of reporters, assessors, etc.), for “Parliament” and “the Treasury” there is substituted in each case “the Scottish Ministers”.
 
-#### 152. Integrated Administration and Control Systems Regulations 1993 ([S.I. 1993/1317](https://www.legislation.gov.uk/uksi/1993/1317))[^key-069ac0bf4bc1e0b16ed1c95da8433ef4]
+#### 152. Integrated Administration and Control Systems Regulations 1993 ([S.I. 1993/1317](https://www.legislation.gov.uk/uksi/1993/1317))[^c-069ac0bf4bc1e0b16ed1c95da8433ef4]
 
 (1) The Integrated Administration and Control System Regulations 1993 are amended as follows.
 
@@ -2293,11 +2293,11 @@ In the Schedule to the Scottish Land Court Rules 1992, in rule 60 (appointment o
 
 .
 
-#### 153. Public Services Contracts Regulations 1993 ([S.I. 1993/3228](https://www.legislation.gov.uk/uksi/1993/3228))[^key-f121971f1a954071fb36e1655132c6bc]
+#### 153. Public Services Contracts Regulations 1993 ([S.I. 1993/3228](https://www.legislation.gov.uk/uksi/1993/3228))[^c-f121971f1a954071fb36e1655132c6bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 154. Prisons and Young Offenders Institutions (Scotland) Rules 1994 ([S.I. 1994/1931](https://www.legislation.gov.uk/uksi/1994/1931))[^key-9bbd7b799f0c0480f970b172c0642077]
+#### 154. Prisons and Young Offenders Institutions (Scotland) Rules 1994 ([S.I. 1994/1931](https://www.legislation.gov.uk/uksi/1994/1931))[^c-9bbd7b799f0c0480f970b172c0642077]
 
 (1) The Prisons and Young Offenders Institutions (Scotland) Rules 1994[^f00107] are amended as follows.
 
@@ -2309,43 +2309,43 @@ In the Schedule to the Scottish Land Court Rules 1992, in rule 60 (appointment o
   - (ii) in sub-paragraph (b), after “member of Parliament,” there is inserted “member of the Scottish Parliament,”;
 - (c) in paragraph (3), after “member of Parliament” there is inserted “, a member of the Scottish Parliament”.
 
-#### 155. Conservation (Natural Habitats, &c.) Regulations 1994 ([S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716))[^key-682ed6b737a9a8707b8d5f6690755ae4]
+#### 155. Conservation (Natural Habitats, &c.) Regulations 1994 ([S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716))[^c-682ed6b737a9a8707b8d5f6690755ae4]
 
 In regulation 6(2)(c) of the Conservation (Natural Habitats, &c.) Regulations 1994 (competent authorities generally), after “Parliament” there is inserted “or money paid out of the Scottish Consolidated Fund”.
 
-#### 156. Public Supply Contracts Regulations 1995 ([S.I. 1995/201](https://www.legislation.gov.uk/uksi/1995/201))[^key-4bc4669d7b2798582549c872602b917c]
+#### 156. Public Supply Contracts Regulations 1995 ([S.I. 1995/201](https://www.legislation.gov.uk/uksi/1995/201))[^c-4bc4669d7b2798582549c872602b917c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 157. Agricultural Processing and Marketing Grant Regulations 1995 ([S.I. 1995/362](https://www.legislation.gov.uk/uksi/1995/362))[^key-fef3ca468a63f29d727f055b9133ae0f]
+#### 157. Agricultural Processing and Marketing Grant Regulations 1995 ([S.I. 1995/362](https://www.legislation.gov.uk/uksi/1995/362))[^c-fef3ca468a63f29d727f055b9133ae0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 158. Welfare of Animals (Slaughter or Killing) Regulations 1995 ([S.I. 1995/731](https://www.legislation.gov.uk/uksi/1995/731))[^key-71f93c1a701390da0f4d39fd7b73787f]
+#### 158. Welfare of Animals (Slaughter or Killing) Regulations 1995 ([S.I. 1995/731](https://www.legislation.gov.uk/uksi/1995/731))[^c-71f93c1a701390da0f4d39fd7b73787f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 159. Financial Services Act 1986 (Investment Advertisements) (Exemptions) (No. 2) Order 1995 ([S.I. 1995/1536](https://www.legislation.gov.uk/uksi/1995/1536))[^key-c2ab8d8d69b9c2523a321ce61f28ec0d]
+#### 159. Financial Services Act 1986 (Investment Advertisements) (Exemptions) (No. 2) Order 1995 ([S.I. 1995/1536](https://www.legislation.gov.uk/uksi/1995/1536))[^c-c2ab8d8d69b9c2523a321ce61f28ec0d]
 
 In article 8 of the Financial Services Act 1986 (Investment Advertisements) (Exemptions) (No. 2) Order 1995 (advertisements directed at informing or influencing persons of a particular kind), at the end of paragraph (1)(a) there is inserted “, or the Scottish Administration or any part thereof”.
 
-#### 160. Fisheries and Aquaculture Structures (Grants) Regulations 1995 ([S.I. 1995/1576](https://www.legislation.gov.uk/uksi/1995/1576))[^key-17f388db0ba86b76f1f41630b7d5fa76]
+#### 160. Fisheries and Aquaculture Structures (Grants) Regulations 1995 ([S.I. 1995/1576](https://www.legislation.gov.uk/uksi/1995/1576))[^c-17f388db0ba86b76f1f41630b7d5fa76]
 
 In regulation 7(2) of the Fisheries and Aquaculture Structures (Grants) Regulations 1995 (amount of grant), for “under United Kingdom public funds” there is substituted “out of public funds in any part of the United Kingdom”.
 
-#### 161. Financial Services Act 1986 (Investment Advertisements) (Exemptions) Order 1996 ([S.I. 1996/1586](https://www.legislation.gov.uk/uksi/1996/1586))[^key-3771f2cdd1366b7389dcdf02b3ad8930]
+#### 161. Financial Services Act 1986 (Investment Advertisements) (Exemptions) Order 1996 ([S.I. 1996/1586](https://www.legislation.gov.uk/uksi/1996/1586))[^c-3771f2cdd1366b7389dcdf02b3ad8930]
 
 In article 11 of the Financial Services Act 1986 (Investment Advertisements) (Exemptions) Order 1996 (advertisements issued to persons sufficiently expert to understand the risks involved)[^f00109] at the end of paragraph (3)(d) there is inserted “, or the Scottish Administration or any part thereof”.
 
-#### 162. Motor Vehicles (Driving Licences) Regulations 1996 ([S.I. 1996/2824](https://www.legislation.gov.uk/uksi/1996/2824))[^key-5d7b89bf82c57274b29d3aabb59c8161]
+#### 162. Motor Vehicles (Driving Licences) Regulations 1996 ([S.I. 1996/2824](https://www.legislation.gov.uk/uksi/1996/2824))[^c-5d7b89bf82c57274b29d3aabb59c8161]
 
 In paragraph 2 of Schedule 6 to the Motor Vehicles (Driving Licences) Regulations 1996 (avidence of identity of test candidates)[^f00110] in the definition of “acceptable person” after “Member of Parliament” there is inserted “or the Scottish Parliament”.
 
-#### 163. Criminal Injuries Compensation Scheme 1996[^key-a8401d66be3b2d3c1a301de878d09fa4]
+#### 163. Criminal Injuries Compensation Scheme 1996[^c-a8401d66be3b2d3c1a301de878d09fa4]
 
 In note 2 of the Criminal Injuries Compensation Scheme 1996 (definition of British craft)[^f00111] after “United Kingdom” where those words appear for the second time, there is inserted “or the Scottish Administration”.
 
-#### 164. Firearms Rules 1998 ([S.I. 1998/1941](https://www.legislation.gov.uk/uksi/1998/1941))[^key-2610292f265742c86aaa7291f3cfaff2]
+#### 164. Firearms Rules 1998 ([S.I. 1998/1941](https://www.legislation.gov.uk/uksi/1998/1941))[^c-2610292f265742c86aaa7291f3cfaff2]
 
 (1) The Firearms Rules 1998 are amended as follows.
 
@@ -2353,7 +2353,7 @@ In note 2 of the Criminal Injuries Compensation Scheme 1996 (definition of Briti
 
 (3) In Schedule 2 (shotgun certificates: forms of application and certificate), in the form of Application for a Shot Gun Certificate in Part I, in Part D of that form, after “Member of Parliament,”, there is inserted “member of the Scottish Parliament,”.
 
-#### 165. Employers' Liability (Compulsory Insurance) Regulations 1998 ([S.I. 1998/2573](https://www.legislation.gov.uk/uksi/1998/2573))[^key-9d087471d277a3ce8ec95e0bc325cbeb]
+#### 165. Employers' Liability (Compulsory Insurance) Regulations 1998 ([S.I. 1998/2573](https://www.legislation.gov.uk/uksi/1998/2573))[^c-9d087471d277a3ce8ec95e0bc325cbeb]
 
 (1) Paragraph 1 of Schedule 2 (employers exempted from insurance) to the Employers' Liability (Compulsory Insurance) Regulations 1998 is amended as follows.
 
@@ -2361,7 +2361,7 @@ In note 2 of the Criminal Injuries Compensation Scheme 1996 (definition of Briti
 
 (3) After “Parliament” there is inserted “or, in the case of a certificate issued by the Scottish Ministers, out of the Scottish Consolidated Fund”.
 
-#### 166. Scottish Further Education Funding Council (Establishment) (Scotland) Order 1998 ([S.I. 1998/2887](https://www.legislation.gov.uk/uksi/1998/2887))[^key-64538f7608e0791a3d0661a795fb1269]
+#### 166. Scottish Further Education Funding Council (Establishment) (Scotland) Order 1998 ([S.I. 1998/2887](https://www.legislation.gov.uk/uksi/1998/2887))[^c-64538f7608e0791a3d0661a795fb1269]
 
 (1) The Scottish Further Education Funding Council (Establishment) (Scotland) Order 1998 is amended as follows.
 
@@ -2373,7 +2373,7 @@ In note 2 of the Criminal Injuries Compensation Scheme 1996 (definition of Briti
 
 (5) The function of the Minister for the Civil Service[^f00112] under article 10(2)(b) is not transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
 
-#### 167. Control of Substances Hazardous to Health Regulations 1999 ([S.I.1999/437](https://www.legislation.gov.uk/uksi/1999/437))[^key-ac8b5236a110c4ff7334df2ecdc7186d]
+#### 167. Control of Substances Hazardous to Health Regulations 1999 ([S.I.1999/437](https://www.legislation.gov.uk/uksi/1999/437))[^c-ac8b5236a110c4ff7334df2ecdc7186d]
 
 (1) The Control of Substances Hazardous to Health Regulations 1999 are amended as follows.
 
@@ -2385,7 +2385,7 @@ In note 2 of the Criminal Injuries Compensation Scheme 1996 (definition of Briti
 
 .
 
-#### 168. Criminal Legal Aid (Fixed Payments) (Scotland) Regulations 1999 ([S.I. 1999/491](https://www.legislation.gov.uk/uksi/1999/491))[^key-f7ce466a1f7ae6bca950c421a2256327]
+#### 168. Criminal Legal Aid (Fixed Payments) (Scotland) Regulations 1999 ([S.I. 1999/491](https://www.legislation.gov.uk/uksi/1999/491))[^c-f7ce466a1f7ae6bca950c421a2256327]
 
 After regulation 2(1)(g) of the Criminal Legal Aid (Fixed Payments) (Scotland) Regulations 1999 there is inserted–
 
@@ -2395,7 +2395,7 @@ After regulation 2(1)(g) of the Criminal Legal Aid (Fixed Payments) (Scotland) R
 
 ### PART III — MODIFICATIONS OF PREROGATIVE INSTRUMENTS
 
-#### 169. Royal Charter of the Scottish Sports Council granted 21st January 1972 and amended 19th November 1996 and 17th November 1998[^key-e60b2b8700204db192afd83755e0d5e7]
+#### 169. Royal Charter of the Scottish Sports Council granted 21st January 1972 and amended 19th November 1996 and 17th November 1998[^c-e60b2b8700204db192afd83755e0d5e7]
 
 (1) The Royal Charter is amended as follows.
 
@@ -2415,11 +2415,11 @@ After regulation 2(1)(g) of the Criminal Legal Aid (Fixed Payments) (Scotland) R
 
 (9) In article 19(b) “for Scotland,” is omitted and there is added at the end “and Our Scottish Ministers”.
 
-#### 170. Royal Charter of the Carnegie Trust for the Universities of Scotland dated 10th July 1978[^key-b440e1316467b114248694d7f56b2ccb]
+#### 170. Royal Charter of the Carnegie Trust for the Universities of Scotland dated 10th July 1978[^c-b440e1316467b114248694d7f56b2ccb]
 
 In article 3(c) of the Royal Charter for “Secretary of State for Scotland” in each place where those words appear there is substituted “First Minister”.
 
-#### 171. Royal Warrant appointing the Royal Commission on the Ancient and Historical Monuments of Scotland given on 21st April 1992 and dated 27th April 1992[^key-e221255285dd8d5096c8fc8c3c2653ce]
+#### 171. Royal Warrant appointing the Royal Commission on the Ancient and Historical Monuments of Scotland given on 21st April 1992 and dated 27th April 1992[^c-e221255285dd8d5096c8fc8c3c2653ce]
 
 (1) The Royal Warrant is amended as follows.
 
@@ -2427,7 +2427,7 @@ In article 3(c) of the Royal Charter for “Secretary of State for Scotland” i
 
 (3) In the 5th paragraph from the end paragraph “with the consent of Our Treasury” is omitted.
 
-#### 172. Royal Charter of the Scottish Arts Council granted 8th February 1994 and amended 12th February 1997[^key-499f7cd28b9d231b0a2324c86fdb9d57]
+#### 172. Royal Charter of the Scottish Arts Council granted 8th February 1994 and amended 12th February 1997[^c-499f7cd28b9d231b0a2324c86fdb9d57]
 
 (1) The Royal Charter is amended as follows.
 
@@ -2458,7 +2458,7 @@ In article 3(c) of the Royal Charter for “Secretary of State for Scotland” i
 
 (9) Article 15 is omitted.
 
-#### 173. Public Appointments Order in Council dated 23rd November 1995[^key-4132a92d0e9a9aa5bb1cc172a63ea6f4]
+#### 173. Public Appointments Order in Council dated 23rd November 1995[^c-4132a92d0e9a9aa5bb1cc172a63ea6f4]
 
 (1) The Public Appointments Order in Council 1995[^f00113] is amended as follows.
 
@@ -2466,7 +2466,7 @@ In article 3(c) of the Royal Charter for “Secretary of State for Scotland” i
 
 (3) In article 1, in the definitions of “appointing authority” and “public appointment”, after “a Minister of the Crown”, there is inserted “or a member of the Scottish Executive”.
 
-### PART IV — REPEALS[^key-1a9cae382efe27e7ae75f8de3f8bc93f]
+### PART IV — REPEALS[^c-1a9cae382efe27e7ae75f8de3f8bc93f]
 
 | Chapter | Short title | Extent of repeal |
 | --- | --- | --- |
@@ -2486,7 +2486,7 @@ In article 3(c) of the Royal Charter for “Secretary of State for Scotland” i
 | [1959 c. 24](https://www.legislation.gov.uk/ukpga/1959/24). | The Building (Scotland) Act 1959. | In section 12(3), “with the approval of the Minister for the Civil Service”. |
 | [1961 c. 41](https://www.legislation.gov.uk/ukpga/1961/41). | The Flood Prevention (Scotland) Act 1961. | In section 13(1), “with the consent of the Treasury”, in each place where those words occur. |
 | [1962 c. 31](https://www.legislation.gov.uk/ukpga/1962/31). | The Sea Fish Industry Act 1962. | - In section 33(2)(b), “the said Secretary of State”.<br>- In section 33(2)(c), from “the Secretary” to “Scotland”. |
-| [...](https://www.legislation.gov.uk/ukpga/1965/19)[^key-26c1b421527686267edec719d1079e63]. | [^key-26c1b421527686267edec719d1079e63]. . . | [^key-26c1b421527686267edec719d1079e63]. . . |
+| [...](https://www.legislation.gov.uk/ukpga/1965/19)[^c-26c1b421527686267edec719d1079e63]. | [^c-26c1b421527686267edec719d1079e63]. . . | [^c-26c1b421527686267edec719d1079e63]. . . |
 | [1965 c. 22](https://www.legislation.gov.uk/ukpga/1965/22). | The Law Commissions Act 1965. | - In section 4(1), “and the Scottish Law Commission” and “or the Lord Advocate, as the case may be”.<br>- In section 5(1), “and the Lord Advocate may appoint such officers and servants of the Scottish Law Commission”.<br>- In section 5(4), “and the Scottish Law Commission”. |
 | [1965 c. 49](https://www.legislation.gov.uk/ukpga/1965/49). | The Registration of Births, Deaths and Marriages (Scotland) Act 1965. | - In section 2(1), “, subject to the consent of the Minister for the Civil Service as to number”.<br>- Section 4. |
 | [1967 c. 13](https://www.legislation.gov.uk/ukpga/1967/13). | The Parliamentary Commissioner Act 1967. | - In Schedule 2, the entries relating to–<br>- the Accounts Commission for Scotland, the Scottish Arts Council, the Crofters Commission, the Deer Commission for Scotland, the General Teaching Council for Scotland, the Local Government Boundary Commission for Scotland, the National Galleries of Scotland, the National Library of Scotland, the National Museums of Scotland, the Parole Board for Scotland, the Department of the Registers of Scotland, General Register Office, Scotland, the Royal Botanic Garden, Edinburgh, the Royal Commission on the Ancient and Historical Monuments of Scotland, the Scottish Agricultural Wages Board, the Scottish Children’s Reporter Administration, the Scottish Community Education Council, the Scottish Consultative Council on the Curriculum, the Scottish Council for Educational Technology, Scottish Courts Administration, the Scottish Environment Protection Agency, the Scottish Further Education Funding Council, the Scottish Further Education Unit, the Scottish Higher Education Funding Council, Scottish Homes, the Scottish Legal Aid Board, the Scottish Medical Practices Committee, Scottish Natural Heritage, the Scottish Office, the Scottish Record Office, the Scottish Qualifications Authority, Scottish Screen Limited, the Scottish Sports Council, the Scottish Studentship Selection Committee, the Scottish Tourist Board, and the Scottish Water and Sewerage Customers' Council.<br>- In Schedule 4 the entries relating to–<br>- the Court of the Lord Lyon, the Dairy Produce Quota Tribunal for Scotland, the Independent Schools Tribunals for Scotland, the Lands Tribunal for Scotland, Rent Assessment Committees for Scotland and the Scottish Land Court. |
@@ -2522,57 +2522,57 @@ In article 3(c) of the Royal Charter for “Secretary of State for Scotland” i
 
 ## Annotations
 
-[^key-fc4b2da25946e8809cf7a61a1cebf292]: Commencement: Sch. 2 para. 1 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-fc4b2da25946e8809cf7a61a1cebf292]: Commencement: Sch. 2 para. 1 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00003]: Footnote: Functions of the Treasury under section 43 are now exercisable by the Secretary of State by virtue of [S.I. 1974/1274](https://www.legislation.gov.uk/uksi/1974/1274), article 2(4), Schedule.
 
-[^key-d92e73bd235424f4bea4081a777ad79e]: Commencement: Sch. 2 para. 2 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-d92e73bd235424f4bea4081a777ad79e]: Commencement: Sch. 2 para. 2 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-8adf770a0de887c2af870584f45d4bcb]: Commencement: Sch. 2 para. 3 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-8adf770a0de887c2af870584f45d4bcb]: Commencement: Sch. 2 para. 3 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-d49b04b48d9b2c293601c5740b97053c]: Commencement: Sch. 2 para. 4 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-d49b04b48d9b2c293601c5740b97053c]: Commencement: Sch. 2 para. 4 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-5bd0fbc2c5de20513adc6ab45a46cc4d]: Commencement: Sch. 2 para. 5 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-5bd0fbc2c5de20513adc6ab45a46cc4d]: Commencement: Sch. 2 para. 5 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-7ab976a7b52086c5710717570ce1bcb2]: Commencement: Sch. 2 para. 6 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-7ab976a7b52086c5710717570ce1bcb2]: Commencement: Sch. 2 para. 6 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00004]: Footnote: Section 6 was amended by the Reorganisation of Offices (Scotland) Act [1939 (c. 20)](https://www.legislation.gov.uk/ukpga/1939/20), section 1(6)(b), the Secretaries of State Act [1926 (c. 18)](https://www.legislation.gov.uk/ukpga/1926/18), section 1(3), S.R. & O. 1939/782, the Board of Agriculture and Fisheries Act [1903 (c. 31)](https://www.legislation.gov.uk/ukpga/1903/31), section 1(6), the Ministry of Agriculture and Fisheries Act [1919 (c. 91)](https://www.legislation.gov.uk/ukpga/1919/91), section 1(1), [S.I. 1955/554](https://www.legislation.gov.uk/uksi/1955/554), the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77), Schedule 1, paragraph 26, the Criminal Procedure (Scotland) Act [1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), section 289(4), (5) and (8), the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86), section 2(8)(a).
 
 [^f00005]: Footnote: Section 7 was amended by the Reorganisation of Offices (Scotland) Act [1939 (c. 30)](https://www.legislation.gov.uk/ukpga/1939/30), section 1(6)(b), the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77), Schedule 1, paragraph 28, the Decimal Currency Act [1969 (c. 19)](https://www.legislation.gov.uk/ukpga/1969/19), section 10(1), the Sheriff Courts (Scotland) Act [1971 (c. 58)](https://www.legislation.gov.uk/ukpga/1971/58), section 4 and the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86), section 2(8)(a).
 
-[^key-71d44bce4a96e776db0b690d61d83ef9]: Commencement: Sch. 2 para. 7 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-71d44bce4a96e776db0b690d61d83ef9]: Commencement: Sch. 2 para. 7 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00006]: Footnote: Section 9 was amended by the Secretaries of State Act [1926 (c. 18)](https://www.legislation.gov.uk/ukpga/1926/18), section 1(3).
 
-[^key-0e26c0c14c2c3ddffa6f927e3ec800c0]: Commencement: Sch. 2 para. 8 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-0e26c0c14c2c3ddffa6f927e3ec800c0]: Commencement: Sch. 2 para. 8 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00007]: Footnote: Section 6(1) was amended by the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77), Schedule 2, Part II.
 
-[^key-95292110122967c5536248ac2c1888d4]: Commencement: Sch. 2 para. 9 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-95292110122967c5536248ac2c1888d4]: Commencement: Sch. 2 para. 9 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00008]: Footnote: Section 2 was substituted by the Divorce Jurisdiction, Court Fees and Legal Aid (Scotland) Act [1983 (c. 12)](https://www.legislation.gov.uk/ukpga/1983/12), section 4.
 
-[^key-a0f3b633ce017986e1f1a099a78d7a84]: Commencement: Sch. 2 para. 10 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-a0f3b633ce017986e1f1a099a78d7a84]: Commencement: Sch. 2 para. 10 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00009]: Footnote: The Schedule was inserted by the National Heritage (Scotland) Act [1985 (c. 16)](https://www.legislation.gov.uk/ukpga/1985/16), section 17.
 
-[^key-0ba0b3fbf8bb2fbd8f24f50a0bcd915f]: Commencement: Sch. 2 para. 11 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-0ba0b3fbf8bb2fbd8f24f50a0bcd915f]: Commencement: Sch. 2 para. 11 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00010]: Footnote: Section 9 was amended by the Statute Law (Repeals) Act [1993 (c. 50)](https://www.legislation.gov.uk/ukpga/1993/50), Schedule 1, pt XVI, by the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13, paragraph 10 and by [S.I. 1996/273](https://www.legislation.gov.uk/uksi/1996/273), Schedule 2.
 
-[^key-18e2f425284464ef139bdd625c8b62c4]: Commencement: Sch. 2 para. 12 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-18e2f425284464ef139bdd625c8b62c4]: Commencement: Sch. 2 para. 12 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00011]: Footnote: Section 34 was amended by the Conveyancing and Feudal Reform (Scotland) Act [1970 (c. 35)](https://www.legislation.gov.uk/ukpga/1970/35), section 34 and the Transfer of Functions (Lord Advocate and Secretary of State) Order 1999 ([S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678)), article 4.
 
-[^key-2bc6b12382cab233c8e8066f92ac88c6]: Textual amendment: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/13) omitted (28.6.2013) by virtue of [The National Library of Scotland Act 2012 (Consequential Modifications) Order 2013 (S.S.I. 2013/169)](https://www.legislation.gov.uk/ssi/2013/169), [arts. 1](https://www.legislation.gov.uk/ssi/2013/169/article/1), [2](https://www.legislation.gov.uk/ssi/2013/169/article/2)
+[^c-2bc6b12382cab233c8e8066f92ac88c6]: Textual amendment: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/13) omitted (28.6.2013) by virtue of [The National Library of Scotland Act 2012 (Consequential Modifications) Order 2013 (S.S.I. 2013/169)](https://www.legislation.gov.uk/ssi/2013/169), [arts. 1](https://www.legislation.gov.uk/ssi/2013/169/article/1), [2](https://www.legislation.gov.uk/ssi/2013/169/article/2)
 
-[^key-11e1b3a5647bdac9606e594fcce98dc8]: Commencement: Sch. 2 para. 14 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-11e1b3a5647bdac9606e594fcce98dc8]: Commencement: Sch. 2 para. 14 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00014]: Footnote: Section 6 was amended by the Superannuation Act [1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), Schedule 6, paragraph 10.
 
 [^f00015]: Footnote: Section 12 was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 9.
 
-[^key-eb094eda2431aa612269645eae8d0b54]: Commencement: Sch. 2 para. 15 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-eb094eda2431aa612269645eae8d0b54]: Commencement: Sch. 2 para. 15 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00016]: Footnote: Section 24 was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 9.
 
@@ -2582,75 +2582,75 @@ In article 3(c) of the Royal Charter for “Secretary of State for Scotland” i
 
 [^f00019]: Footnote: Section 28 was amended by the Superannuation Act [1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), Schedule 6, paragraph 12.
 
-[^key-20e53c524b7fce02d8b0b827b0ccb77d]: Commencement: Sch. 2 para. 16 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-20e53c524b7fce02d8b0b827b0ccb77d]: Commencement: Sch. 2 para. 16 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-7f1f999ffb9b07d1f436c5f63c04bb97]: Commencement: Sch. 2 para. 17 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-7f1f999ffb9b07d1f436c5f63c04bb97]: Commencement: Sch. 2 para. 17 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-eae9d01b4b89904c74c831e786f0dacf]: Commencement: Sch. 2 para. 18 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-eae9d01b4b89904c74c831e786f0dacf]: Commencement: Sch. 2 para. 18 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^M_F_1f007851-bf0d-4204-a044-67da07b672a2]: Textual amendment: Sch. 2 para. 19 revoked (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) (No. 2) Order 2005 (S.S.I. 2005/344)](https://www.legislation.gov.uk/ssi/2005/344), [art. 1](https://www.legislation.gov.uk/ssi/2005/344/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2005/344/schedule/2); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2](https://www.legislation.gov.uk/ssi/2005/392/article/2)
 
-[^key-60390820bc91630477b333f9f07a2b60]: Commencement: Sch. 2 para. 20 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-60390820bc91630477b333f9f07a2b60]: Commencement: Sch. 2 para. 20 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-2b84e7e059c8f0f7ff710775068ee06f]: Commencement: Sch. 2 para. 21 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-2b84e7e059c8f0f7ff710775068ee06f]: Commencement: Sch. 2 para. 21 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-db0899e471d893c62314b9830addf4a1]: Commencement: Sch. 2 para. 22 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-db0899e471d893c62314b9830addf4a1]: Commencement: Sch. 2 para. 22 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-24e1de7121940bdede3f811ef3d779d0]: Commencement: Sch. 2 para. 23 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-24e1de7121940bdede3f811ef3d779d0]: Commencement: Sch. 2 para. 23 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00020]: Footnote: Section 24 was substituted by the Law Reform (Miscellaneous Provisions) (Scotland) Act [1980 (c. 55)](https://www.legislation.gov.uk/ukpga/1980/55), Schedule 2.
 
 [^f00021]: Footnote: Section 26 was amended by the Divorce Jurisdiction and Legal Aid (Scotland) Act [1982 (c. 12)](https://www.legislation.gov.uk/ukpga/1982/12), Schedule 1, paragraph 9 and Schedule 2.
 
-[^key-44383abe241a44f99a12a83945388856]: Commencement: Sch. 2 para. 24 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-44383abe241a44f99a12a83945388856]: Commencement: Sch. 2 para. 24 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00022]: Footnote: Section 17 was amended by [S.I. 1955/554](https://www.legislation.gov.uk/uksi/1955/554), the Water Resources Act [1963 (c. 38)](https://www.legislation.gov.uk/ukpga/1963/38), Schedule 3, paragraph 4, and the Roads (Scotland) Act [1984 (c. 54)](https://www.legislation.gov.uk/ukpga/1984/54), Schedule 9, paragraph 38(2).
 
 [^f00023]: Footnote: Section 21 was amended by the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), Schedule 29, paragraph 17, the [Southern Water Authority Act 1980 (c.xxxviii)](https://www.legislation.gov.uk/ukla/1980/38), section 18(1) and Schedule 1, Part I, and the Roads (Scotland) Act [1984 (c. 54)](https://www.legislation.gov.uk/ukpga/1984/54), section 156(1), Schedule 19, paragraph 38(4).
 
-[^key-a0826362cd67b3ca9c12dce966787633]: Commencement: Sch. 2 para. 25 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-a0826362cd67b3ca9c12dce966787633]: Commencement: Sch. 2 para. 25 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-1bef61f5f321071da9b71549f41e9532]: Commencement: Sch. 2 para. 26 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-1bef61f5f321071da9b71549f41e9532]: Commencement: Sch. 2 para. 26 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-eac3aacc076f0ea7721c571cc959f580]: Commencement: Sch. 2 para. 27 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-eac3aacc076f0ea7721c571cc959f580]: Commencement: Sch. 2 para. 27 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-e2b8e870d08f06818269a3e7f6dbfc92]: Commencement: Sch. 2 para. 28 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-e2b8e870d08f06818269a3e7f6dbfc92]: Commencement: Sch. 2 para. 28 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-e2e36ee270f7268d127a5432ea6a6c6e]: Commencement: Sch. 2 para. 29 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-e2e36ee270f7268d127a5432ea6a6c6e]: Commencement: Sch. 2 para. 29 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-8e0ccd308d9aa1daee613825b80c1ca4]: Commencement: Sch. 2 para. 30 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-8e0ccd308d9aa1daee613825b80c1ca4]: Commencement: Sch. 2 para. 30 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00024]: Footnote: Section 54(1) was amended by the Local Government (Scotland) Act [1966 (c. 51)](https://www.legislation.gov.uk/ukpga/1966/51), Schedule 5, paragraph 5 and the Housing (Financial Provisions) (Scotland) Act [1972 (c. 46)](https://www.legislation.gov.uk/ukpga/1972/46), Schedule 11, Part III.
 
-[^key-d0c26f2c8beacbae6f3db40a7333424c]: Commencement: Sch. 2 para. 31 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-d0c26f2c8beacbae6f3db40a7333424c]: Commencement: Sch. 2 para. 31 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-a9f3d795fc16270dc3b34fd5a8ef348b]: Commencement: Sch. 2 para. 32 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-a9f3d795fc16270dc3b34fd5a8ef348b]: Commencement: Sch. 2 para. 32 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-bfcd0ed79e8d8d49bec03c19ba1466d2]: Commencement: Sch. 2 para. 33 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-bfcd0ed79e8d8d49bec03c19ba1466d2]: Commencement: Sch. 2 para. 33 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00025]: Footnote: Section 33(2) was amended by the Sea Fish (Conservation) Act [1967 (c. 84)](https://www.legislation.gov.uk/ukpga/1967/84), Schedule and the Sea Fish Industry Act [1970 (c. 11)](https://www.legislation.gov.uk/ukpga/1970/11), Schedule 6, Part I.
 
-[^key-bb3dbe349154006cd467811c12ca5ca1]: Commencement: Sch. 2 para. 34 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-bb3dbe349154006cd467811c12ca5ca1]: Commencement: Sch. 2 para. 34 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-0ef1b562e0f9d3526ec9dd635c1fac0c]: Textual amendment: [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/35) revoked (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
+[^c-0ef1b562e0f9d3526ec9dd635c1fac0c]: Textual amendment: [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/35) revoked (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
 
-[^key-641a7ae0dc3aca799778c700d8acd167]: Commencement: Sch. 2 para. 36 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-641a7ae0dc3aca799778c700d8acd167]: Commencement: Sch. 2 para. 36 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00026]: Footnote: The references to the Lord Advocate in this Act have effect as references to the Secretary of State by virtue of the Transfer of Functions (Lord Advocate and Secretary of State) Order 1999 ([S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678)).
 
 [^f00027]: Footnote: Section 2 was amended by [S.I. 1972/2002](https://www.legislation.gov.uk/uksi/1972/2002).
 
-[^key-0909c97a7430692c4a6e71c62621eab5]: Commencement: Sch. 2 para. 37 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-0909c97a7430692c4a6e71c62621eab5]: Commencement: Sch. 2 para. 37 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00028]: Footnote: Section 2(1) was amended by [S.I. 1968/1656](https://www.legislation.gov.uk/uksi/1968/1656).
 
 [^f00029]: Footnote: Section 4(1) was amended by [S.I. 1968/1656](https://www.legislation.gov.uk/uksi/1968/1656).
 
-[^key-524697fd08c4530ec2e14744a026bb95]: Commencement: Sch. 2 para. 38 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-524697fd08c4530ec2e14744a026bb95]: Commencement: Sch. 2 para. 38 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00030]: Footnote: Section 24 was substituted by [S.I. 1974/2056](https://www.legislation.gov.uk/uksi/1974/2056) and amended by the Atomic Energy Act [1989 (c. 7)](https://www.legislation.gov.uk/ukpga/1989/7), section 6(1).
 
-[^key-b2d4e82bb99cd634d3c18193861429b1]: Commencement: Sch. 2 para. 39 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-b2d4e82bb99cd634d3c18193861429b1]: Commencement: Sch. 2 para. 39 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00031]: Footnote: Subsection (3B) of section 4 was inserted by [S.I. 1999/1042](https://www.legislation.gov.uk/uksi/1999/1042).
 
@@ -2680,13 +2680,13 @@ In article 3(c) of the Royal Charter for “Secretary of State for Scotland” i
 
 [^f00044]: Footnote: Schedule 4 was inserted by the Parliamentary Commissioner Act [1994 (c. 14)](https://www.legislation.gov.uk/ukpga/1994/14), section 1(3) and amended by [S.I. 1996/1914](https://www.legislation.gov.uk/uksi/1996/1914).
 
-[^key-08a4d5ec44b409be85c34c674d880c9a]: Textual amendment: [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/40) revoked (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [sch. 5 Pt. 2](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/2)
+[^c-08a4d5ec44b409be85c34c674d880c9a]: Textual amendment: [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/40) revoked (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [sch. 5 Pt. 2](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/2)
 
-[^key-b0068e723f95d989c938fd7a22ed93a2]: Commencement: Sch. 2 para. 41 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-b0068e723f95d989c938fd7a22ed93a2]: Commencement: Sch. 2 para. 41 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00046]: Footnote: Section 32 was substituted by the Crime and Punishment (Scotland) Act [1997 (c. 48)](https://www.legislation.gov.uk/ukpga/1997/48), section 45.
 
-[^key-267e5bf91301ee8d15f04a2ec4558a96]: Commencement: Sch. 2 para. 42 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-267e5bf91301ee8d15f04a2ec4558a96]: Commencement: Sch. 2 para. 42 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00047]: Footnote: Section 1 was amended by the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77), section 15(2) and the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86), Schedule 2, paragraph 15.
 
@@ -2694,7 +2694,7 @@ In article 3(c) of the Royal Charter for “Secretary of State for Scotland” i
 
 [^f00049]: Footnote: Section 17 was amended by [S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272) and the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33), Schedule 8.
 
-[^key-cd702125c2aca84873265cd300d7b9ea]: Commencement: Sch. 2 para. 43 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-cd702125c2aca84873265cd300d7b9ea]: Commencement: Sch. 2 para. 43 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00050]: Footnote: Section 1 was substituted by the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29), section 19(1).
 
@@ -2712,17 +2712,17 @@ In article 3(c) of the Royal Charter for “Secretary of State for Scotland” i
 
 [^f00057]: Footnote: Section 22(2) was amended by the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29), section 19.
 
-[^key-b0ec87aa6ac001cacd8acad9ed18158a]: Commencement: Sch. 2 para. 44 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-b0ec87aa6ac001cacd8acad9ed18158a]: Commencement: Sch. 2 para. 44 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00058]: Footnote: Section 38(6) was amended by the Planning (Consequential Provisions) (Scotland) Act [1997 (c. 11)](https://www.legislation.gov.uk/ukpga/1997/11), Schedule 2, paragraph 15(2).
 
-[^key-7b4d064efa151118daa90553f3cb7551]: Commencement: Sch. 2 para. 45 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-7b4d064efa151118daa90553f3cb7551]: Commencement: Sch. 2 para. 45 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-f3fd99b4ee8009d9c6b989103dca81e3]: Commencement: Sch. 2 para. 46 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-f3fd99b4ee8009d9c6b989103dca81e3]: Commencement: Sch. 2 para. 46 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-3c3f5db4f23cd5875d51a93d67805ee1]: Commencement: Sch. 2 para. 47 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-3c3f5db4f23cd5875d51a93d67805ee1]: Commencement: Sch. 2 para. 47 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-d270db9fdf3e05877180a332d2e14816]: Commencement: Sch. 2 para. 48 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-d270db9fdf3e05877180a332d2e14816]: Commencement: Sch. 2 para. 48 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00059]: Footnote: Section 5 was amended by Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86), section 4.
 
@@ -2730,209 +2730,209 @@ In article 3(c) of the Royal Charter for “Secretary of State for Scotland” i
 
 [^f00061]: Footnote: Section 19 was amended by the Sea Fish Industry Act [1970 (c. 11)](https://www.legislation.gov.uk/ukpga/1970/11), Schedule 6, Part I, the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86), Schedule 4, the Merchant Shipping Act [1988 (c. 12)](https://www.legislation.gov.uk/ukpga/1988/12), section 57(4), Schedule 6 and Schedule 8, paragraph 1, the Merchant Shipping (Registration, etc.) Act [1993 (c. 22)](https://www.legislation.gov.uk/ukpga/1993/22), section 8(1) and Schedule 2, paragraph 9 and the Merchant Shipping Act [1995 (c. 21)](https://www.legislation.gov.uk/ukpga/1995/21), section 314 and Schedule 13, paragraph 43(c).
 
-[^key-b584cc258a6d40d9e73a9a5e85b2337a]: Commencement: Sch. 2 para. 49 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-b584cc258a6d40d9e73a9a5e85b2337a]: Commencement: Sch. 2 para. 49 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-7e1e6a73f9618c2e0952e0b7f2fd5ce2]: Commencement: Sch. 2 para. 50 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-7e1e6a73f9618c2e0952e0b7f2fd5ce2]: Commencement: Sch. 2 para. 50 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00062]: Footnote: Section 10 was amended by the Law Reform (Miscellaneous Provisions) (Scotland) Act [1980 (c. 55)](https://www.legislation.gov.uk/ukpga/1980/55), section 10.
 
-[^key-b4ce104f4abb5e077f34f0cd81cd82a7]: Commencement: Sch. 2 para. 51 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-b4ce104f4abb5e077f34f0cd81cd82a7]: Commencement: Sch. 2 para. 51 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-026bcd59b2a4870cd2fe7f8f3dad00c6]: Commencement: Sch. 2 para. 52 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-026bcd59b2a4870cd2fe7f8f3dad00c6]: Commencement: Sch. 2 para. 52 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-7bb28cf2ff4ca76515249185ce27d971]: Textual amendment: [Sch. 2 para. 52(1)(2)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/52/1/2) deleted (15.11.2001) by [The Intervention Board for Agricultural Produce (Abolition) Regulations 2001 (S.I. 2001/3686)](https://www.legislation.gov.uk/uksi/2001/3686), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/3686/regulation/1/1), [6(16)](https://www.legislation.gov.uk/uksi/2001/3686/regulation/6/16) (with [reg. 8](https://www.legislation.gov.uk/uksi/2001/3686/regulation/8))
+[^c-7bb28cf2ff4ca76515249185ce27d971]: Textual amendment: [Sch. 2 para. 52(1)(2)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/52/1/2) deleted (15.11.2001) by [The Intervention Board for Agricultural Produce (Abolition) Regulations 2001 (S.I. 2001/3686)](https://www.legislation.gov.uk/uksi/2001/3686), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/3686/regulation/1/1), [6(16)](https://www.legislation.gov.uk/uksi/2001/3686/regulation/6/16) (with [reg. 8](https://www.legislation.gov.uk/uksi/2001/3686/regulation/8))
 
-[^key-7d154f1aee2928eb7e5601be1fabc7b1]: Commencement: Sch. 2 para. 53 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-7d154f1aee2928eb7e5601be1fabc7b1]: Commencement: Sch. 2 para. 53 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00063]: Footnote: Schedule 4 was amended by [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670).
 
-[^key-e13ed0fc8dbecaf44c7ee6df1c4ae276]: Commencement: Sch. 2 para. 54 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-e13ed0fc8dbecaf44c7ee6df1c4ae276]: Commencement: Sch. 2 para. 54 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-af26d4439d32f274905eded19714be5b]: Commencement: Sch. 2 para. 55 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-af26d4439d32f274905eded19714be5b]: Commencement: Sch. 2 para. 55 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00064]: Footnote: Part III of Schedule 1 was amended by the Scotland Act 1998, section 87(1).
 
-[^key-2fb1225bf33cdc7117d2913d91fc2a2e]: Commencement: Sch. 2 para. 56 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-2fb1225bf33cdc7117d2913d91fc2a2e]: Commencement: Sch. 2 para. 56 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-dec0cfef42bfeefc0500abc64607b245]: Commencement: Sch. 2 para. 57 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-dec0cfef42bfeefc0500abc64607b245]: Commencement: Sch. 2 para. 57 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00065]: Footnote: Section 2 was amended by the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29), Schedule 5, the Inshore Fishing (Scotland) Act [1984 (c. 26)](https://www.legislation.gov.uk/ukpga/1984/26), Schedule 2, and the Merchant Shipping Act [1988 (c. 12)](https://www.legislation.gov.uk/ukpga/1988/12), Schedule 7.
 
 [^f00066]: Footnote: Section 8 was amended by the Merchant Shipping Act [1988 (c. 12)](https://www.legislation.gov.uk/ukpga/1988/12), Schedule 6; the Merchant Shipping (Registration, etc.) Act [1993 (c. 22)](https://www.legislation.gov.uk/ukpga/1993/22), Schedule 2, and the Merchant Shipping Act [1995 (c. 21)](https://www.legislation.gov.uk/ukpga/1995/21), Schedule 13.
 
-[^key-0921d79025692797d2957a19e516a669]: Commencement: Sch. 2 para. 58 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-0921d79025692797d2957a19e516a669]: Commencement: Sch. 2 para. 58 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-d311c7fb74d3118364507085f6160053]: Commencement: Sch. 2 para. 59 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-d311c7fb74d3118364507085f6160053]: Commencement: Sch. 2 para. 59 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-71dc2e5b1eabfddbc0a425dd3a60123c]: Commencement: Sch. 2 para. 60 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-71dc2e5b1eabfddbc0a425dd3a60123c]: Commencement: Sch. 2 para. 60 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-cf6934b311d0e299a2b7495e31c211fc]: Commencement: Sch. 2 para. 61 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-cf6934b311d0e299a2b7495e31c211fc]: Commencement: Sch. 2 para. 61 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-eae7fbd5ac4b2840523a03542cc517f5]: Textual amendment: [Sch. 2 para. 62](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/62) revoked (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [sch. 5 Pt. 2](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/2)
+[^c-eae7fbd5ac4b2840523a03542cc517f5]: Textual amendment: [Sch. 2 para. 62](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/62) revoked (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [sch. 5 Pt. 2](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/2)
 
-[^key-84d6417352e3ed02b9128b42e87c99e1]: Commencement: Sch. 2 para. 63 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-84d6417352e3ed02b9128b42e87c99e1]: Commencement: Sch. 2 para. 63 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00068]: Footnote: Functions of the Treasury under section 103(5) are now exercisable by the Minister for the Civil Service by virtue of [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670).
 
-[^key-d0f1f4fafad6ceb7c1b0f43025bb64d7]: Commencement: Sch. 2 para. 64 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-d0f1f4fafad6ceb7c1b0f43025bb64d7]: Commencement: Sch. 2 para. 64 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-c9890d4195fab2f69e873d494a6b9cc3]: Commencement: Sch. 2 para. 65 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-c9890d4195fab2f69e873d494a6b9cc3]: Commencement: Sch. 2 para. 65 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-a238aec1c20e3cc8533b13be52797a6c]: Commencement: Sch. 2 para. 66 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-a238aec1c20e3cc8533b13be52797a6c]: Commencement: Sch. 2 para. 66 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-2bf1c42737cf15ac430afd3fb419cd1e]: Commencement: Sch. 2 para. 67 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-2bf1c42737cf15ac430afd3fb419cd1e]: Commencement: Sch. 2 para. 67 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-9bbd0807cfe3fe2d4aa1f00ec0a28195]: Commencement: Sch. 2 para. 68 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-9bbd0807cfe3fe2d4aa1f00ec0a28195]: Commencement: Sch. 2 para. 68 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-632a5c664bbae5e0f3883120d4279217]: Textual amendment: Words in [Sch. 2 para. 68(1)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/68/1) omitted (23.11.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(c)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/c), [Sch. 6 para. 4(2)(d)(i)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/4/2/d/i) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-632a5c664bbae5e0f3883120d4279217]: Textual amendment: Words in [Sch. 2 para. 68(1)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/68/1) omitted (23.11.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(c)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/c), [Sch. 6 para. 4(2)(d)(i)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/4/2/d/i) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-31bf57bd9a8a38c2c4eac7ee101fce2c]: Textual amendment: [Sch. 2 para. 68(2)-(4)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/68/2) omitted (23.11.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(c)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/c), [Sch. 6 para. 4(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/4/2/d/ii) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-31bf57bd9a8a38c2c4eac7ee101fce2c]: Textual amendment: [Sch. 2 para. 68(2)-(4)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/68/2) omitted (23.11.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(c)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/c), [Sch. 6 para. 4(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/4/2/d/ii) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-16994c144679c44682e9c39d40d20283]: Textual amendment: [Sch. 2 para. 68(6)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/68/6) omitted (23.11.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(c)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/c), [Sch. 6 para. 4(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/4/2/d/ii) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-16994c144679c44682e9c39d40d20283]: Textual amendment: [Sch. 2 para. 68(6)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/68/6) omitted (23.11.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(c)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/c), [Sch. 6 para. 4(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/4/2/d/ii) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-98a94339eb65821ad249c6b0414e13f9]: Commencement: Sch. 2 para. 69 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-98a94339eb65821ad249c6b0414e13f9]: Commencement: Sch. 2 para. 69 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-a3925e08b0323858eb1e83124b749c5c]: Commencement: Sch. 2 para. 70 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-a3925e08b0323858eb1e83124b749c5c]: Commencement: Sch. 2 para. 70 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00069]: Footnote: Section 9 was amended by the Merchant Shipping Act [1988 (c. 12)](https://www.legislation.gov.uk/ukpga/1988/12), Schedule 6, the Merchant Shipping (Registration, etc.) Act [1993 (c. 22)](https://www.legislation.gov.uk/ukpga/1993/22), Schedule 2 and the Merchant Shipping Act [1995 (c. 21)](https://www.legislation.gov.uk/ukpga/1995/21), Schedule 13.
 
-[^key-bb2405b3806dd0ac675a37dcb1465bdc]: Commencement: Sch. 2 para. 71 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-bb2405b3806dd0ac675a37dcb1465bdc]: Commencement: Sch. 2 para. 71 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00070]: Footnote: Section 134 was amended by the Northern Ireland Act [1998 (c. 47)](https://www.legislation.gov.uk/ukpga/1998/47), Schedule 13, paragraph 5(2).
 
-[^key-554e2a24f5557335f9ce7b81b0baeeca]: Commencement: Sch. 2 para. 72 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-554e2a24f5557335f9ce7b81b0baeeca]: Commencement: Sch. 2 para. 72 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-bcb7215b28cf6cafa2b1e504a18e72c3]: Commencement: Sch. 2 para. 73 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-bcb7215b28cf6cafa2b1e504a18e72c3]: Commencement: Sch. 2 para. 73 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00071]: Footnote: Section 121A was inserted by the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), section 168(1), Schedule 8, paragraph 70.
 
-[^key-2a5e629e6be78458da4b46dd7e7592c0]: Commencement: Sch. 2 para. 74 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-2a5e629e6be78458da4b46dd7e7592c0]: Commencement: Sch. 2 para. 74 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-25ffdd25a8b334423a197e6b3f01f220]: Commencement: Sch. 2 para. 75 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-25ffdd25a8b334423a197e6b3f01f220]: Commencement: Sch. 2 para. 75 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-077d805ec0b2088839fa129978678d91]: Commencement: Sch. 2 para. 76 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-077d805ec0b2088839fa129978678d91]: Commencement: Sch. 2 para. 76 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-4e4d9a531bbd76020368d593b2ea35e7]: Commencement: Sch. 2 para. 77 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-4e4d9a531bbd76020368d593b2ea35e7]: Commencement: Sch. 2 para. 77 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00072]: Footnote: Section 43 was amended by the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13, paragraph 137(3) and the Deregulation and Contracting Out Act [1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40), Schedule 16, paragraph 5.
 
-[^key-e2494d5768f322b649d30392b0ba2b86]: Commencement: Sch. 2 para. 78 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-e2494d5768f322b649d30392b0ba2b86]: Commencement: Sch. 2 para. 78 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00073]: Footnote: Subsection (3) was substituted by the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), section 65(6) and amended by the Friendly Societies Act [1992 (c. 40)](https://www.legislation.gov.uk/ukpga/1992/40), section 120 and Schedules 21 and 22.
 
-[^key-9132d2383f19745360b4340cef3b3638]: Commencement: Sch. 2 para. 79 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-9132d2383f19745360b4340cef3b3638]: Commencement: Sch. 2 para. 79 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-7e05a66d262561d15cfe639b774dd4f6]: Commencement: Sch. 2 para. 80 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-7e05a66d262561d15cfe639b774dd4f6]: Commencement: Sch. 2 para. 80 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00074]: Footnote: Section 23(1) was amended by the Museums and Galleries Act [1992 (c. 44)](https://www.legislation.gov.uk/ukpga/1992/44), Schedule 8, paragraph 14(4).
 
-[^key-5b096dc81c54447fc0018832238bd925]: Commencement: Sch. 2 para. 81 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-5b096dc81c54447fc0018832238bd925]: Commencement: Sch. 2 para. 81 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-95e487b37f85529b8b8d90c47ef7862e]: Textual amendment: [Sch. 2 para. 82](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/82) revoked (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/2) (with [arts. 7(3)](https://www.legislation.gov.uk/uksi/2016/1034/article/7/3), [9](https://www.legislation.gov.uk/uksi/2016/1034/article/9))
+[^c-95e487b37f85529b8b8d90c47ef7862e]: Textual amendment: [Sch. 2 para. 82](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/82) revoked (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/2) (with [arts. 7(3)](https://www.legislation.gov.uk/uksi/2016/1034/article/7/3), [9](https://www.legislation.gov.uk/uksi/2016/1034/article/9))
 
-[^key-c1f947a517354f86feaf5f3f8bd06912]: Commencement: Sch. 2 para. 83 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-c1f947a517354f86feaf5f3f8bd06912]: Commencement: Sch. 2 para. 83 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-b5f085f83bc328a089899921375d44ad]: Commencement: Sch. 2 para. 84 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-b5f085f83bc328a089899921375d44ad]: Commencement: Sch. 2 para. 84 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00077]: Footnote: Section 4 was amended by the Local Government Act [1988 (c. 9)](https://www.legislation.gov.uk/ukpga/1988/9), section 27(2).
 
-[^key-733a83a7b007a0273b121633a21c5767]: Commencement: Sch. 2 para. 85 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-733a83a7b007a0273b121633a21c5767]: Commencement: Sch. 2 para. 85 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-1c297d2b407e05ce14c5beeecf3598a4]: Commencement: Sch. 2 para. 86 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-1c297d2b407e05ce14c5beeecf3598a4]: Commencement: Sch. 2 para. 86 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00078]: Footnote: Section 4(2)(c) was amended by the Legal Aid Act [1988 (c. 34)](https://www.legislation.gov.uk/ukpga/1988/34), section 44 and Schedule 4, paragraph 1(b).
 
-[^key-af83bc5c462f34797c8264e53b7bddd6]: Commencement: Sch. 2 para. 87 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-af83bc5c462f34797c8264e53b7bddd6]: Commencement: Sch. 2 para. 87 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00079]: Footnote: Paragraph (aa) was inserted by the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), Schedule 27, paragraph 2(1)(a).
 
-[^key-2670842b4d4b0967b0b61cf79b564be2]: Commencement: Sch. 2 para. 88 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-2670842b4d4b0967b0b61cf79b564be2]: Commencement: Sch. 2 para. 88 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-23335736ab0ee7424a31f721dbbaf56e]: Commencement: Sch. 2 para. 89 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-23335736ab0ee7424a31f721dbbaf56e]: Commencement: Sch. 2 para. 89 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00080]: Footnote: Section 1 was amended by [S.I. 1993/3154](https://www.legislation.gov.uk/uksi/1993/3154).
 
-[^key-1e10fa1adb77229b721a9ea5960f7939]: Textual amendment: [Sch. 2 para. 90](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/90) revoked (27.3.2002) by [The Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/794)](https://www.legislation.gov.uk/uksi/2002/794), [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/794/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2002/794/schedule/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2002/794/article/6))
+[^c-1e10fa1adb77229b721a9ea5960f7939]: Textual amendment: [Sch. 2 para. 90](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/90) revoked (27.3.2002) by [The Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/794)](https://www.legislation.gov.uk/uksi/2002/794), [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/794/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2002/794/schedule/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2002/794/article/6))
 
-[^key-dea98465094fed5b908d160f039827be]: Commencement: Sch. 2 para. 91 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-dea98465094fed5b908d160f039827be]: Commencement: Sch. 2 para. 91 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-8810335dbaf82cc98ba4df55edcea811]: Commencement: Sch. 2 para. 92 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-8810335dbaf82cc98ba4df55edcea811]: Commencement: Sch. 2 para. 92 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-3e5608cc8c481bdb348e418e45f3ae76]: Commencement: Sch. 2 para. 93 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-3e5608cc8c481bdb348e418e45f3ae76]: Commencement: Sch. 2 para. 93 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-1adec5b3576f3421ae207fb1158cc17d]: Commencement: Sch. 2 para. 94 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-1adec5b3576f3421ae207fb1158cc17d]: Commencement: Sch. 2 para. 94 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-2e93ea3824350c8d8f2f996418156cc8]: Commencement: Sch. 2 para. 95 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-2e93ea3824350c8d8f2f996418156cc8]: Commencement: Sch. 2 para. 95 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-75faf831fd7bac82b98eea58c263721a]: Commencement: Sch. 2 para. 96 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-75faf831fd7bac82b98eea58c263721a]: Commencement: Sch. 2 para. 96 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-835809f2c68318c6e6a7a57fefdab968]: Commencement: Sch. 2 para. 97 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-835809f2c68318c6e6a7a57fefdab968]: Commencement: Sch. 2 para. 97 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00081]: Footnote: Section 31 was amended by the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13, paragraph 161(9).
 
-[^key-65bbb266abd430b384e9bde42c1bea91]: Commencement: Sch. 2 para. 98 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-65bbb266abd430b384e9bde42c1bea91]: Commencement: Sch. 2 para. 98 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-296c30c268ffaa705d14fd0a7b71a43a]: Textual amendment: [Sch. 2 para. 98(2)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/98/2) revoked (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [sch. para. 10](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/10)
+[^c-296c30c268ffaa705d14fd0a7b71a43a]: Textual amendment: [Sch. 2 para. 98(2)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/98/2) revoked (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [sch. para. 10](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/10)
 
-[^key-74b55cd1d6bce211259340babb3cb120]: Commencement: Sch. 2 para. 99 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-74b55cd1d6bce211259340babb3cb120]: Commencement: Sch. 2 para. 99 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-81b18f377d9bdfa39ce8a31f20897fad]: Commencement: Sch. 2 para. 100 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-81b18f377d9bdfa39ce8a31f20897fad]: Commencement: Sch. 2 para. 100 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-d0ca18265dade5d722582165a51cd407]: Commencement: Sch. 2 para. 101 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-d0ca18265dade5d722582165a51cd407]: Commencement: Sch. 2 para. 101 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-8041b62a3c30cff5e438f680ca4ee2dd]: Commencement: Sch. 2 para. 102 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-8041b62a3c30cff5e438f680ca4ee2dd]: Commencement: Sch. 2 para. 102 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00082]: Footnote: Section 78YA was inserted by section 57 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25)
 
-[^key-059248f3d950b3c844a52129d0cec1d4]: Commencement: Sch. 2 para. 103 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-059248f3d950b3c844a52129d0cec1d4]: Commencement: Sch. 2 para. 103 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-add4ce917f77186c74d55090767433d8]: Commencement: Sch. 2 para. 104 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-add4ce917f77186c74d55090767433d8]: Commencement: Sch. 2 para. 104 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00083]: Footnote: Section 7 was amended by the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45), Schedule 4, paragraph 20 and the Planning (Consequential Provisions)(Scotland) Act [1997 (c. 11)](https://www.legislation.gov.uk/ukpga/1997/11), Schedule 2, paragraph 48(2).
 
-[^key-00716a1dc05ea8e46da261a567fb371e]: Commencement: Sch. 2 para. 105 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-00716a1dc05ea8e46da261a567fb371e]: Commencement: Sch. 2 para. 105 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-90e001c00168ce6d6de8f2edd287af3c]: Commencement: Sch. 2 para. 106 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-90e001c00168ce6d6de8f2edd287af3c]: Commencement: Sch. 2 para. 106 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-01243a9a4ad1c72aa92ae11263496e55]: Commencement: Sch. 2 para. 107 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-01243a9a4ad1c72aa92ae11263496e55]: Commencement: Sch. 2 para. 107 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-a0f1f4ed90962b371a0454e48e69aeb8]: Commencement: Sch. 2 para. 108 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-a0f1f4ed90962b371a0454e48e69aeb8]: Commencement: Sch. 2 para. 108 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00084]: Footnote: Functions of the Treasury under sub-paragraph (7)(b) are now exercisable by the Minister for the Civil Service by virtue of [S.I. 1995/269](https://www.legislation.gov.uk/uksi/1995/269).
 
-[^key-1399cd86a7c49ed892dd342db73ed664]: Commencement: Sch. 2 para. 109 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-1399cd86a7c49ed892dd342db73ed664]: Commencement: Sch. 2 para. 109 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-fae8dd4b7d19f730de48255011194cac]: Commencement: Sch. 2 para. 110 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-fae8dd4b7d19f730de48255011194cac]: Commencement: Sch. 2 para. 110 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-f02a61e09da9fa8d4815c797f6db3e0d]: Commencement: Sch. 2 para. 111 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-f02a61e09da9fa8d4815c797f6db3e0d]: Commencement: Sch. 2 para. 111 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-38224f59aee6fa64555469aba232e026]: Commencement: Sch. 2 para. 112 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-38224f59aee6fa64555469aba232e026]: Commencement: Sch. 2 para. 112 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00085]: Footnote: Section 14 was amended by the Health Authorities Act [1995 (c. 17)](https://www.legislation.gov.uk/ukpga/1995/17), Schedule 1, paragraph 126(4) and by the Health Service Commissioners (Amendment) Act [1996 (c. 5)](https://www.legislation.gov.uk/ukpga/1996/5), section 10 and Schedule 1, paragraph 5.
 
-[^key-24b9e375397d9b6ec89a070404abc72e]: Commencement: Sch. 2 para. 113 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-24b9e375397d9b6ec89a070404abc72e]: Commencement: Sch. 2 para. 113 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-9ae93c00633319c03ef5112d69ea6dcd]: Commencement: Sch. 2 para. 114 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-9ae93c00633319c03ef5112d69ea6dcd]: Commencement: Sch. 2 para. 114 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00086]: Footnote: Note 2A was inserted by [S.I. 1995/3039](https://www.legislation.gov.uk/uksi/1995/3039).
 
-[^key-8205157ea0b536919303d24f72daec15]: Commencement: Sch. 2 para. 115 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-8205157ea0b536919303d24f72daec15]: Commencement: Sch. 2 para. 115 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00087]: Footnote: Section 107(7) was inserted by section 43(4) of the Crime and Punishment (Scotland) Act [1997 (c. 48)](https://www.legislation.gov.uk/ukpga/1997/48).
 
-[^key-a79ecff420ab2fd3a156cca28559dc52]: Commencement: Sch. 2 para. 116 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-a79ecff420ab2fd3a156cca28559dc52]: Commencement: Sch. 2 para. 116 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-63329efe67fb384900ee537823af81ab]: Commencement: Sch. 2 para. 117 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-63329efe67fb384900ee537823af81ab]: Commencement: Sch. 2 para. 117 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-ef1aa4942fc3877b6d35e92ac92457aa]: Commencement: Sch. 2 para. 118 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-ef1aa4942fc3877b6d35e92ac92457aa]: Commencement: Sch. 2 para. 118 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-9ba6fb4198612bbef584ac2e6ce73318]: Commencement: Sch. 2 para. 119 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-9ba6fb4198612bbef584ac2e6ce73318]: Commencement: Sch. 2 para. 119 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-09c4358d98a3ca11234620ecf56d7a90]: Commencement: Sch. 2 para. 120 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-09c4358d98a3ca11234620ecf56d7a90]: Commencement: Sch. 2 para. 120 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-1e023ece6b24b14a944476a9857079fe]: Commencement: Sch. 2 para. 121 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-1e023ece6b24b14a944476a9857079fe]: Commencement: Sch. 2 para. 121 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-084d506e9b0a7bbe6455dd17705fe703]: Commencement: Sch. 2 para. 122 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-084d506e9b0a7bbe6455dd17705fe703]: Commencement: Sch. 2 para. 122 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00088]: Footnote: Section 194I(4) is prospectively inserted by the Crime and Punishment (Scotland) Act [1997 (c. 48)](https://www.legislation.gov.uk/ukpga/1997/48), section 25.
 
@@ -2940,23 +2940,23 @@ In article 3(c) of the Royal Charter for “Secretary of State for Scotland” i
 
 [^f00090]: Footnote: Section 279A was inserted by the Crime and Punishment (Scotland) Act 1997, section 28.
 
-[^key-eb76a6d752a41bc7a5c437bd74eb5abc]: Commencement: Sch. 2 para. 123 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-eb76a6d752a41bc7a5c437bd74eb5abc]: Commencement: Sch. 2 para. 123 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-a3393d69e30880582805e9f34dc00ae0]: Textual amendment: [Sch. 2 para. 124](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/124) revoked (17.8.2023) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/102) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2023/829](https://www.legislation.gov.uk/uksi/2023/829), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2023/829/article/2/d/iv)
+[^c-a3393d69e30880582805e9f34dc00ae0]: Textual amendment: [Sch. 2 para. 124](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/124) revoked (17.8.2023) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/102) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2023/829](https://www.legislation.gov.uk/uksi/2023/829), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2023/829/article/2/d/iv)
 
-[^key-0beecf09896719c56a0b3ec8d868dc39]: Commencement: Sch. 2 para. 125 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-0beecf09896719c56a0b3ec8d868dc39]: Commencement: Sch. 2 para. 125 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-4ac34d019a4bdb9c6dd6cac049d0c690]: Commencement: Sch. 2 para. 126 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-4ac34d019a4bdb9c6dd6cac049d0c690]: Commencement: Sch. 2 para. 126 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00091]: Footnote: Subsection (8A) was inserted by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 34.
 
-[^key-a61564094efe5fbef8a1b43270b2ee43]: Commencement: Sch. 2 para. 127 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-a61564094efe5fbef8a1b43270b2ee43]: Commencement: Sch. 2 para. 127 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-0536b398b0360c2fef4887c38b906e7b]: Commencement: Sch. 2 para. 128 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-0536b398b0360c2fef4887c38b906e7b]: Commencement: Sch. 2 para. 128 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-39c5f8444f88c810fe22f751aefd506d]: Commencement: Sch. 2 para. 129 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-39c5f8444f88c810fe22f751aefd506d]: Commencement: Sch. 2 para. 129 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-fa3c88a05e5ab49bdebb809ee768d3f2]: Commencement: Sch. 2 para. 130 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-fa3c88a05e5ab49bdebb809ee768d3f2]: Commencement: Sch. 2 para. 130 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00092]: Footnote: Paragraph 1 was extended to the Isle of Man by [S.I. 1997/1775](https://www.legislation.gov.uk/uksi/1997/1775).
 
@@ -2976,122 +2976,122 @@ In article 3(c) of the Royal Charter for “Secretary of State for Scotland” i
 
 [^f00100]: Footnote: Paragraph 15 was extended to the Isle of Man by [S.I. 1997/1775](https://www.legislation.gov.uk/uksi/1997/1775).
 
-[^key-e75286a0406efce482e5425759d0e593]: Commencement: Sch. 2 para. 131 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-e75286a0406efce482e5425759d0e593]: Commencement: Sch. 2 para. 131 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-9084eb32a8765687a56ce17d73415b5c]: Commencement: Sch. 2 para. 132 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-9084eb32a8765687a56ce17d73415b5c]: Commencement: Sch. 2 para. 132 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-7469bad46dafb4c9c5412c92d7882915]: Commencement: Sch. 2 para. 133 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-7469bad46dafb4c9c5412c92d7882915]: Commencement: Sch. 2 para. 133 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-526710eec9315ca1e69028f9a43c1e71]: Commencement: Sch. 2 para. 134 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-526710eec9315ca1e69028f9a43c1e71]: Commencement: Sch. 2 para. 134 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-f0da881d2532069fcd9adc444291915c]: Commencement: Sch. 2 para. 135 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-f0da881d2532069fcd9adc444291915c]: Commencement: Sch. 2 para. 135 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00101]: Footnote: The relevant amending instruments are [S.I. 1949/331](https://www.legislation.gov.uk/uksi/1949/331), [1952/656](https://www.legislation.gov.uk/uksi/1952/656), [1954/1141](https://www.legislation.gov.uk/uksi/1954/1141), [1957/465](https://www.legislation.gov.uk/uksi/1957/465), [1961/2133](https://www.legislation.gov.uk/uksi/1961/2133), [1946/1840](https://www.legislation.gov.uk/uksi/1946/1840), [1971/132](https://www.legislation.gov.uk/uksi/1971/132), [1992/1206](https://www.legislation.gov.uk/uksi/1992/1206) and [1993/2660](https://www.legislation.gov.uk/uksi/1993/2660).
 
-[^key-cde13bb2280ba5b520ea97163b1b62f6]: Commencement: Sch. 2 para. 136 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-cde13bb2280ba5b520ea97163b1b62f6]: Commencement: Sch. 2 para. 136 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-1bcadc11bba740e2ee1a75ebe36e32e8]: Commencement: Sch. 2 para. 137 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-1bcadc11bba740e2ee1a75ebe36e32e8]: Commencement: Sch. 2 para. 137 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-7dc93938936dc8272dc30d6722630baf]: Commencement: Sch. 2 para. 138 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-7dc93938936dc8272dc30d6722630baf]: Commencement: Sch. 2 para. 138 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-7c60d76cdd51f781c756aed2aabb2d3d]: Commencement: Sch. 2 para. 139 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-7c60d76cdd51f781c756aed2aabb2d3d]: Commencement: Sch. 2 para. 139 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00102]: Footnote: The relevant amending instruments are [S.I. 1982/1653](https://www.legislation.gov.uk/uksi/1982/1653), [S.I. 1992/1196](https://www.legislation.gov.uk/uksi/1992/1196) and [S.I. 1995/3022](https://www.legislation.gov.uk/uksi/1995/3022).
 
-[^key-ce3891b4cd801dc1bf1bc1dee8ed6d7f]: Commencement: Sch. 2 para. 140 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-ce3891b4cd801dc1bf1bc1dee8ed6d7f]: Commencement: Sch. 2 para. 140 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-8c805352dd25ad0b542fa9f5ec2c7007]: Textual amendment: [Sch. 2 para. 141](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/141) revoked (6.4.2019) by [The Insolvency (Scotland) (Receivership and Winding up) Rules 2018 (S.S.I. 2018/347)](https://www.legislation.gov.uk/ssi/2018/347), [rule 1](https://www.legislation.gov.uk/ssi/2018/347/rule/1), [sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2018/347/schedule/1/paragraph/1)
+[^c-8c805352dd25ad0b542fa9f5ec2c7007]: Textual amendment: [Sch. 2 para. 141](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/141) revoked (6.4.2019) by [The Insolvency (Scotland) (Receivership and Winding up) Rules 2018 (S.S.I. 2018/347)](https://www.legislation.gov.uk/ssi/2018/347), [rule 1](https://www.legislation.gov.uk/ssi/2018/347/rule/1), [sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2018/347/schedule/1/paragraph/1)
 
-[^key-df78fdcdde392bb66c914587cd4461aa]: Commencement: Sch. 2 para. 141 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-df78fdcdde392bb66c914587cd4461aa]: Commencement: Sch. 2 para. 141 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-b0220e90c602276c59f0c5e2ef26a2a2]: Textual amendment: [Sch. 2 para. 142](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/142) revoked (6.4.2019) by [The Insolvency (Scotland) (Receivership and Winding up) Rules 2018 (S.S.I. 2018/347)](https://www.legislation.gov.uk/ssi/2018/347), [rule 1](https://www.legislation.gov.uk/ssi/2018/347/rule/1), [sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2018/347/schedule/1/paragraph/1)
+[^c-b0220e90c602276c59f0c5e2ef26a2a2]: Textual amendment: [Sch. 2 para. 142](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/142) revoked (6.4.2019) by [The Insolvency (Scotland) (Receivership and Winding up) Rules 2018 (S.S.I. 2018/347)](https://www.legislation.gov.uk/ssi/2018/347), [rule 1](https://www.legislation.gov.uk/ssi/2018/347/rule/1), [sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2018/347/schedule/1/paragraph/1)
 
-[^key-353281d407bdd7241e6f853d59e542d9]: Commencement: Sch. 2 para. 142 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-353281d407bdd7241e6f853d59e542d9]: Commencement: Sch. 2 para. 142 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-1843b26c06e18d38172225bfc069b7d0]: Commencement: Sch. 2 para. 143 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-1843b26c06e18d38172225bfc069b7d0]: Commencement: Sch. 2 para. 143 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-d88dc1228a5a93788ec38f24f2043792]: Commencement: Sch. 2 para. 144 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-d88dc1228a5a93788ec38f24f2043792]: Commencement: Sch. 2 para. 144 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00104]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45)
 
-[^key-77b970760abcef1ad10584b5a5bf5ee9]: Commencement: Sch. 2 para. 145 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-77b970760abcef1ad10584b5a5bf5ee9]: Commencement: Sch. 2 para. 145 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-c88f4dacf9ae9b58a839397d61723772]: Commencement: Sch. 2 para. 146 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-c88f4dacf9ae9b58a839397d61723772]: Commencement: Sch. 2 para. 146 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-58af512240d8a49b91c399cb24a1bc93]: Textual amendment: [Sch. 2 para. 147](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/147) revoked (1.1.2026) by [The Broadcasting (Independent Productions) Regulations 2025 (S.I. 2025/1235)](https://www.legislation.gov.uk/uksi/2025/1235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1235/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2025/1235/regulation/8/c)
+[^c-58af512240d8a49b91c399cb24a1bc93]: Textual amendment: [Sch. 2 para. 147](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/147) revoked (1.1.2026) by [The Broadcasting (Independent Productions) Regulations 2025 (S.I. 2025/1235)](https://www.legislation.gov.uk/uksi/2025/1235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1235/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2025/1235/regulation/8/c)
 
-[^key-316a3190b216b2ffa14c98594cb13d7b]: Textual amendment: [Sch. 2 para. 148](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/148) revoked (31.1.2006): (E.W.N.I.) by [The Public Contracts Regulations 2006 (S.I. 2006/5)](https://www.legislation.gov.uk/uksi/2006/5), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/5/regulation/1/1), [Sch. 7 para. 6 Table](https://www.legislation.gov.uk/uksi/2006/5/schedule/7/paragraph/6) (with [reg. 49](https://www.legislation.gov.uk/uksi/2006/5/regulation/49)); and (S.) by [The Public Contracts (Scotland) Regulations 2006 (S.S.I. 2006/1)](https://www.legislation.gov.uk/ssi/2006/1), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/1/regulation/1/1), [sch. 7 para. 2 Table](https://www.legislation.gov.uk/ssi/2006/1/schedule/7/paragraph/2) (with [reg. 49](https://www.legislation.gov.uk/ssi/2006/1/regulation/49))
+[^c-316a3190b216b2ffa14c98594cb13d7b]: Textual amendment: [Sch. 2 para. 148](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/148) revoked (31.1.2006): (E.W.N.I.) by [The Public Contracts Regulations 2006 (S.I. 2006/5)](https://www.legislation.gov.uk/uksi/2006/5), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/5/regulation/1/1), [Sch. 7 para. 6 Table](https://www.legislation.gov.uk/uksi/2006/5/schedule/7/paragraph/6) (with [reg. 49](https://www.legislation.gov.uk/uksi/2006/5/regulation/49)); and (S.) by [The Public Contracts (Scotland) Regulations 2006 (S.S.I. 2006/1)](https://www.legislation.gov.uk/ssi/2006/1), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/1/regulation/1/1), [sch. 7 para. 2 Table](https://www.legislation.gov.uk/ssi/2006/1/schedule/7/paragraph/2) (with [reg. 49](https://www.legislation.gov.uk/ssi/2006/1/regulation/49))
 
-[^key-fea13447d123b45676763fc870d597dd]: Commencement: Sch. 2 para. 149 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-fea13447d123b45676763fc870d597dd]: Commencement: Sch. 2 para. 149 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00105]: Footnote: Regulation E10 was amended by [S.I. 1993/2513](https://www.legislation.gov.uk/uksi/1993/2513).
 
-[^key-cdc956f2aa7751e77a5ef9fd3cd2609e]: Commencement: Sch. 2 para. 150 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-cdc956f2aa7751e77a5ef9fd3cd2609e]: Commencement: Sch. 2 para. 150 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^M_F_e6238b3f-1f33-40ae-f103-661e0c386cd2]: Textual amendment: [Sch. 2 para. 150](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/150) revoked (E.) (1.7.2015) by [The Sea Fish Licensing (England) Order 2015 (S.I. 2015/647)](https://www.legislation.gov.uk/uksi/2015/647), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/647/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/647/schedule) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/647/article/1))
 
 [^f00106]: Footnote: [S.I. 1992/2633](https://www.legislation.gov.uk/uksi/1992/2633), amended by [S.I. 1993/188](https://www.legislation.gov.uk/uksi/1993/188) and [S.I. 1993/2291](https://www.legislation.gov.uk/uksi/1993/2291).
 
-[^key-3518c654a67497fa3fa6a5a567904886]: Commencement: Sch. 2 para. 151 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-3518c654a67497fa3fa6a5a567904886]: Commencement: Sch. 2 para. 151 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-069ac0bf4bc1e0b16ed1c95da8433ef4]: Commencement: Sch. 2 para. 152 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-069ac0bf4bc1e0b16ed1c95da8433ef4]: Commencement: Sch. 2 para. 152 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-f121971f1a954071fb36e1655132c6bc]: Textual amendment: [Sch. 2 para. 153](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/148) revoked (31.1.2006): (E.W.N.I.) by [The Public Contracts Regulations 2006 (S.I. 2006/5)](https://www.legislation.gov.uk/uksi/2006/5), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/5/regulation/1/1), [Sch. 7 para. 6 Table](https://www.legislation.gov.uk/uksi/2006/5/schedule/7/paragraph/6) (with [reg. 49](https://www.legislation.gov.uk/uksi/2006/5/regulation/49)); and (S.) by [The Public Contracts (Scotland) Regulations 2006 (S.S.I. 2006/1)](https://www.legislation.gov.uk/ssi/2006/1), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/1/regulation/1/1), [sch. 7 para. 2 Table](https://www.legislation.gov.uk/ssi/2006/1/schedule/7/paragraph/2) (with [reg. 49](https://www.legislation.gov.uk/ssi/2006/1/regulation/49))
+[^c-f121971f1a954071fb36e1655132c6bc]: Textual amendment: [Sch. 2 para. 153](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/148) revoked (31.1.2006): (E.W.N.I.) by [The Public Contracts Regulations 2006 (S.I. 2006/5)](https://www.legislation.gov.uk/uksi/2006/5), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/5/regulation/1/1), [Sch. 7 para. 6 Table](https://www.legislation.gov.uk/uksi/2006/5/schedule/7/paragraph/6) (with [reg. 49](https://www.legislation.gov.uk/uksi/2006/5/regulation/49)); and (S.) by [The Public Contracts (Scotland) Regulations 2006 (S.S.I. 2006/1)](https://www.legislation.gov.uk/ssi/2006/1), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/1/regulation/1/1), [sch. 7 para. 2 Table](https://www.legislation.gov.uk/ssi/2006/1/schedule/7/paragraph/2) (with [reg. 49](https://www.legislation.gov.uk/ssi/2006/1/regulation/49))
 
-[^key-9bbd7b799f0c0480f970b172c0642077]: Commencement: Sch. 2 para. 154 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-9bbd7b799f0c0480f970b172c0642077]: Commencement: Sch. 2 para. 154 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00107]: Footnote: [S.I 1994/1931](https://www.legislation.gov.uk/uksi/1994/1931), amended by [S.I 1996/32](https://www.legislation.gov.uk/uksi/1996/32), [1997/2007](https://www.legislation.gov.uk/uksi/1997/2007), [1998/1589](https://www.legislation.gov.uk/uksi/1998/1589) and [1998/2504](https://www.legislation.gov.uk/uksi/1998/2504).
 
 [^f00108]: Footnote: Rule 62A was inserted by [S.I 1998/1589](https://www.legislation.gov.uk/uksi/1998/1589).
 
-[^key-682ed6b737a9a8707b8d5f6690755ae4]: Commencement: Sch. 2 para. 155 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-682ed6b737a9a8707b8d5f6690755ae4]: Commencement: Sch. 2 para. 155 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-4bc4669d7b2798582549c872602b917c]: Textual amendment: [Sch. 2 para. 156](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/148) revoked (31.1.2006): (E.W.N.I.) by [The Public Contracts Regulations 2006 (S.I. 2006/5)](https://www.legislation.gov.uk/uksi/2006/5), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/5/regulation/1/1), [Sch. 7 para. 6 Table](https://www.legislation.gov.uk/uksi/2006/5/schedule/7/paragraph/6) (with [reg. 49](https://www.legislation.gov.uk/uksi/2006/5/regulation/49)); and (S.) by [The Public Contracts (Scotland) Regulations 2006 (S.S.I. 2006/1)](https://www.legislation.gov.uk/ssi/2006/1), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/1/regulation/1/1), [sch. 7 para. 2 Table](https://www.legislation.gov.uk/ssi/2006/1/schedule/7/paragraph/2) (with [reg. 49](https://www.legislation.gov.uk/ssi/2006/1/regulation/49))
+[^c-4bc4669d7b2798582549c872602b917c]: Textual amendment: [Sch. 2 para. 156](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/148) revoked (31.1.2006): (E.W.N.I.) by [The Public Contracts Regulations 2006 (S.I. 2006/5)](https://www.legislation.gov.uk/uksi/2006/5), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/5/regulation/1/1), [Sch. 7 para. 6 Table](https://www.legislation.gov.uk/uksi/2006/5/schedule/7/paragraph/6) (with [reg. 49](https://www.legislation.gov.uk/uksi/2006/5/regulation/49)); and (S.) by [The Public Contracts (Scotland) Regulations 2006 (S.S.I. 2006/1)](https://www.legislation.gov.uk/ssi/2006/1), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/1/regulation/1/1), [sch. 7 para. 2 Table](https://www.legislation.gov.uk/ssi/2006/1/schedule/7/paragraph/2) (with [reg. 49](https://www.legislation.gov.uk/ssi/2006/1/regulation/49))
 
-[^key-fef3ca468a63f29d727f055b9133ae0f]: Textual amendment: [Sch. 2 para. 157](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/157) omitted (19.3.2001) by virtue of [The Highland and Islands Agricultural Processing and Marketing Grants Etc. (Scotland) Regulations 2001 (S.S.I. 2001/40)](https://www.legislation.gov.uk/ssi/2001/40), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2001/40/regulation/1/2), [13(3)](https://www.legislation.gov.uk/ssi/2001/40/regulation/13/3)
+[^c-fef3ca468a63f29d727f055b9133ae0f]: Textual amendment: [Sch. 2 para. 157](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/157) omitted (19.3.2001) by virtue of [The Highland and Islands Agricultural Processing and Marketing Grants Etc. (Scotland) Regulations 2001 (S.S.I. 2001/40)](https://www.legislation.gov.uk/ssi/2001/40), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2001/40/regulation/1/2), [13(3)](https://www.legislation.gov.uk/ssi/2001/40/regulation/13/3)
 
-[^key-71f93c1a701390da0f4d39fd7b73787f]: Textual amendment: [Sch. 2 para. 158](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/158) revoked (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [sch. 5 Pt. 2](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/2)
+[^c-71f93c1a701390da0f4d39fd7b73787f]: Textual amendment: [Sch. 2 para. 158](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/paragraph/158) revoked (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [sch. 5 Pt. 2](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/2)
 
-[^key-c2ab8d8d69b9c2523a321ce61f28ec0d]: Commencement: Sch. 2 para. 159 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-c2ab8d8d69b9c2523a321ce61f28ec0d]: Commencement: Sch. 2 para. 159 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-17f388db0ba86b76f1f41630b7d5fa76]: Commencement: Sch. 2 para. 160 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-17f388db0ba86b76f1f41630b7d5fa76]: Commencement: Sch. 2 para. 160 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-3771f2cdd1366b7389dcdf02b3ad8930]: Commencement: Sch. 2 para. 161 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-3771f2cdd1366b7389dcdf02b3ad8930]: Commencement: Sch. 2 para. 161 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00109]: Footnote: [S.I. 1996/1586](https://www.legislation.gov.uk/uksi/1996/1586), amended by [S.I. 1997/963](https://www.legislation.gov.uk/uksi/1997/963).
 
-[^key-5d7b89bf82c57274b29d3aabb59c8161]: Commencement: Sch. 2 para. 162 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-5d7b89bf82c57274b29d3aabb59c8161]: Commencement: Sch. 2 para. 162 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00110]: Footnote: Paragraph 2 of Schedule 6 was amended by [S.I. 1997/669](https://www.legislation.gov.uk/uksi/1997/669) and [S.I. 1998/20](https://www.legislation.gov.uk/uksi/1998/20).
 
-[^key-a8401d66be3b2d3c1a301de878d09fa4]: Commencement: Sch. 2 para. 163 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-a8401d66be3b2d3c1a301de878d09fa4]: Commencement: Sch. 2 para. 163 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00111]: Footnote: Made by the Secretary of State on 12 December 1995 under section 1 of the Criminal Injuries Compensation Act [1995 (c. 53)](https://www.legislation.gov.uk/ukpga/1995/53).
 
-[^key-2610292f265742c86aaa7291f3cfaff2]: Commencement: Sch. 2 para. 164 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-2610292f265742c86aaa7291f3cfaff2]: Commencement: Sch. 2 para. 164 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-9d087471d277a3ce8ec95e0bc325cbeb]: Commencement: Sch. 2 para. 165 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-9d087471d277a3ce8ec95e0bc325cbeb]: Commencement: Sch. 2 para. 165 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-64538f7608e0791a3d0661a795fb1269]: Commencement: Sch. 2 para. 166 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-64538f7608e0791a3d0661a795fb1269]: Commencement: Sch. 2 para. 166 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00112]: Footnote: Functions of the Treasury under article 10(2)(b) are now exercisable by the Minister for the Civil Service by virtue of [S.I. 1995/269](https://www.legislation.gov.uk/uksi/1995/269).
 
-[^key-ac8b5236a110c4ff7334df2ecdc7186d]: Commencement: Sch. 2 para. 167 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-ac8b5236a110c4ff7334df2ecdc7186d]: Commencement: Sch. 2 para. 167 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-f7ce466a1f7ae6bca950c421a2256327]: Commencement: Sch. 2 para. 168 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-f7ce466a1f7ae6bca950c421a2256327]: Commencement: Sch. 2 para. 168 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-e60b2b8700204db192afd83755e0d5e7]: Commencement: Sch. 2 para. 169 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-e60b2b8700204db192afd83755e0d5e7]: Commencement: Sch. 2 para. 169 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-b440e1316467b114248694d7f56b2ccb]: Commencement: Sch. 2 para. 170 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-b440e1316467b114248694d7f56b2ccb]: Commencement: Sch. 2 para. 170 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-e221255285dd8d5096c8fc8c3c2653ce]: Commencement: Sch. 2 para. 171 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-e221255285dd8d5096c8fc8c3c2653ce]: Commencement: Sch. 2 para. 171 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-499f7cd28b9d231b0a2324c86fdb9d57]: Commencement: Sch. 2 para. 172 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-499f7cd28b9d231b0a2324c86fdb9d57]: Commencement: Sch. 2 para. 172 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-4132a92d0e9a9aa5bb1cc172a63ea6f4]: Commencement: Sch. 2 para. 173 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-4132a92d0e9a9aa5bb1cc172a63ea6f4]: Commencement: Sch. 2 para. 173 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00113]: Footnote: The 1995 Order in Council was amended by the Public Appointments Order in Council 1998 dated 21st July 1998. Copies of both Instruments are available from the Privy Council Office at 68 W hitehall, London, SW1A 2AT.
 
-[^key-1a9cae382efe27e7ae75f8de3f8bc93f]: Commencement: Sch. 2 Pt. 5 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-1a9cae382efe27e7ae75f8de3f8bc93f]: Commencement: Sch. 2 Pt. 5 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-26c1b421527686267edec719d1079e63]: Textual amendment: Words in Sch. 2 Pt. 4 revoked (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
+[^c-26c1b421527686267edec719d1079e63]: Textual amendment: Words in Sch. 2 Pt. 4 revoked (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)

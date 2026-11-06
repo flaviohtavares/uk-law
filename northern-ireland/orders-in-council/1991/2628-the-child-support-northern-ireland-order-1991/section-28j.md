@@ -22,7 +22,7 @@ summary: ''
 
 (1) This Article applies where—
 
-- (a) a person has applied for a maintenance calculation under Article 7(1) [^key-e5de895e072a2241c84b03690c756b24]...;
+- (a) a person has applied for a maintenance calculation under Article 7(1) [^c-e5de895e072a2241c84b03690c756b24]...;
 - (b) the Department has neither made a decision under Article 13 or 14 on the application, nor decided not to make a maintenance calculation; and
 - (c) the non-resident parent makes a voluntary payment.
 
@@ -47,4 +47,4 @@ summary: ''
 
 [^c21037841]: Textual amendment: [Art. 28J](https://www.legislation.gov.uk/nisi/1991/2628/article/28J) and cross-heading inserted (22.11.2000 and 3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)](https://www.legislation.gov.uk/nia/2000/4), [ss. 19(1)](https://www.legislation.gov.uk/nia/2000/4/section/19/1), [68(2)](https://www.legislation.gov.uk/nia/2000/4/section/68/2); [S.R. 2000/358](https://www.legislation.gov.uk/nisr/2000/358), [art. 2(b)](https://www.legislation.gov.uk/nisr/2000/358/article/2/b), [Sch. Pt. II](https://www.legislation.gov.uk/nisr/2000/358/schedule/part/II); [S.R. 2003/53](https://www.legislation.gov.uk/nisr/2003/53), [art. 5](https://www.legislation.gov.uk/nisr/2003/53/article/5)
 
-[^key-e5de895e072a2241c84b03690c756b24]: Textual amendment: Words in [art. 28J(1)(a)](https://www.legislation.gov.uk/nisi/1991/2628/article/28J/1/a) repealed (27.10.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/399](https://www.legislation.gov.uk/nisr/2008/399), [art. 2(2)(d)(i)](https://www.legislation.gov.uk/nisr/2008/399/article/2/2/d/i) (with [art. 3](https://www.legislation.gov.uk/nisr/2008/399/article/3))
+[^c-e5de895e072a2241c84b03690c756b24]: Textual amendment: Words in [art. 28J(1)(a)](https://www.legislation.gov.uk/nisi/1991/2628/article/28J/1/a) repealed (27.10.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/399](https://www.legislation.gov.uk/nisr/2008/399), [art. 2(2)(d)(i)](https://www.legislation.gov.uk/nisr/2008/399/article/2/2/d/i) (with [art. 3](https://www.legislation.gov.uk/nisr/2008/399/article/3))

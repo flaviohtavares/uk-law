@@ -45,13 +45,13 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 30(2) of the Fisheries Act 1981[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:
 
-## 1. Citation, commencement and interpretation[^key-9b8ccd3f5946b75ff7486c04a586b8a1]
+## 1. Citation, commencement and interpretation[^c-9b8ccd3f5946b75ff7486c04a586b8a1]
 
 (1) This Order may be cited as the Sea Fishing (Enforcement of Community Conservation Measures) (Scotland) Amendment Order 2002 and shall come into force on 26th March 2002.
 
 (2) In this Order “the principal Order” means the Sea Fishing (Enforcement of Community Conservation Measures) (Scotland) Order 2000[^f00002].
 
-## 2. Amendment of the principal Order[^key-673a6829688b9433b9d16ce3aff1bf86]
+## 2. Amendment of the principal Order[^c-673a6829688b9433b9d16ce3aff1bf86]
 
 In article 2 (interpretation) of the principal Order–
 
@@ -79,7 +79,7 @@ In article 2 (interpretation) of the principal Order–
 
   .
 
-**3.**[^key-9dbefcdbc45bbbb7d9aba294e84476fc] In Part II of the Schedule (the Council Regulation) to the principal Order–
+**3.**[^c-9dbefcdbc45bbbb7d9aba294e84476fc] In Part II of the Schedule (the Council Regulation) to the principal Order–
 
 - (a) after paragraph 6 there is inserted the following entry:–
 
@@ -97,7 +97,7 @@ In article 2 (interpretation) of the principal Order–
   | --- | --- | --- |
   | **25A.** Article 29 | Prohibition during 2002 of the retention on board or landing of sand eels caught within a specified area. | £50,000 |
 
-**4.**[^key-0ff2b8e02725724d720fcdca9cd7a1ff] After Part II of the Schedule to the principal Order there is inserted Parts III and IV set out in the Schedule to this Order.
+**4.**[^c-0ff2b8e02725724d720fcdca9cd7a1ff] After Part II of the Schedule to the principal Order there is inserted Parts III and IV set out in the Schedule to this Order.
 
 ROSS FINNIE
 
@@ -109,7 +109,7 @@ Edinburgh
 
 4th March 2002
 
-## SCHEDULE — Community Conservation Measures (Maximum Fines on Summary Conviction)[^key-91765283725c608b01c1b0323854c6b4]
+## SCHEDULE — Community Conservation Measures (Maximum Fines on Summary Conviction)[^c-91765283725c608b01c1b0323854c6b4]
 
 Article 4
 
@@ -168,11 +168,11 @@ The Order includes references to the year 2002 which, because the Order comes in
 
 [^f00001]: Footnote: [1981 c. 29](https://www.legislation.gov.uk/ukpga/1981/29); relevant modifications are contained in the Scotland Act 1998 (Functions Exercisable in or as Regards Scotland) Order 1999 (S.I. [1999/1748](https://www.legislation.gov.uk/uksi/1999/1748)), article 5 and the Scotland Act 1998 (Modification of Functions) Order 1999 (S.I. [1999/1756](https://www.legislation.gov.uk/uksi/1999/1756)), articles 3, 5 and 6. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). See section 30(3) of the 1981 Act for definitions of “enforceable Community restriction”, “enforceable Community obligation” and “the Ministers”. Section 30 has effect in relation to Scotland as modified by section 30(5) which was inserted by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), Schedule 2, paragraph 68(5)(b).
 
-[^key-9b8ccd3f5946b75ff7486c04a586b8a1]: Commencement: Art. 1 in force at 26.3.2002, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2002/81/article/1/1)
+[^c-9b8ccd3f5946b75ff7486c04a586b8a1]: Commencement: Art. 1 in force at 26.3.2002, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2002/81/article/1/1)
 
 [^f00002]: Footnote: [S.S.I. 2000/53](https://www.legislation.gov.uk/ssi/2000/53).
 
-[^key-673a6829688b9433b9d16ce3aff1bf86]: Commencement: Art. 2 in force at 26.3.2002, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2002/81/article/1/1)
+[^c-673a6829688b9433b9d16ce3aff1bf86]: Commencement: Art. 2 in force at 26.3.2002, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2002/81/article/1/1)
 
 [^f00003]: Footnote: O.J. No. L 125, 27.4.98, p.1.
 
@@ -200,8 +200,8 @@ The Order includes references to the year 2002 which, because the Order comes in
 
 [^f00015]: Footnote: O.J. No. L 41, 13.2.02, p.1.
 
-[^key-9dbefcdbc45bbbb7d9aba294e84476fc]: Commencement: Art. 3 in force at 26.3.2002, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2002/81/article/1/1)
+[^c-9dbefcdbc45bbbb7d9aba294e84476fc]: Commencement: Art. 3 in force at 26.3.2002, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2002/81/article/1/1)
 
-[^key-0ff2b8e02725724d720fcdca9cd7a1ff]: Commencement: Art. 4 in force at 26.3.2002, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2002/81/article/1/1)
+[^c-0ff2b8e02725724d720fcdca9cd7a1ff]: Commencement: Art. 4 in force at 26.3.2002, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2002/81/article/1/1)
 
-[^key-91765283725c608b01c1b0323854c6b4]: Commencement: Sch. in force at 26.3.2002, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2002/81/article/1/1)
+[^c-91765283725c608b01c1b0323854c6b4]: Commencement: Sch. in force at 26.3.2002, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2002/81/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Short-term use of London accommodation: power to relax restrictions[^key-254ebf1d3769e27c0b5f508436e0e80a]
+## 45. Short-term use of London accommodation: power to relax restrictions[^c-254ebf1d3769e27c0b5f508436e0e80a]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-254ebf1d3769e27c0b5f508436e0e80a]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2015/20/section/45) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(f)](https://www.legislation.gov.uk/uksi/2015/994/article/6/f)
+[^c-254ebf1d3769e27c0b5f508436e0e80a]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2015/20/section/45) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(f)](https://www.legislation.gov.uk/uksi/2015/994/article/6/f)

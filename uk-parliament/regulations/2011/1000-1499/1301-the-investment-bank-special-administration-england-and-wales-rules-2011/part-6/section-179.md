@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 179. Notice of declaration of a dividend[^key-7da1f57e44b85e941a620aff97038fe1]
+## 179. Notice of declaration of a dividend[^c-7da1f57e44b85e941a620aff97038fe1]
 
 *Extent: E+W*
 
 (1) Where the administrator declares a dividend, notice of this shall be given to—
 
 - (a) all creditors who have proved their debts;
-- (b) the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^key-10878ddb6b650cc597265c05fdfb4a23];
+- (b) the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^c-10878ddb6b650cc597265c05fdfb4a23];
 - (c) in a special administration (bank administration), the FSCS; and
 - (d) in a special administration (bank administration), before the Bank of England has given an Objective A Achievement Notice, the Bank of England.
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7da1f57e44b85e941a620aff97038fe1]: Commencement: [Rule 179](https://www.legislation.gov.uk/uksi/2011/1301/rule/179) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-7da1f57e44b85e941a620aff97038fe1]: Commencement: [Rule 179](https://www.legislation.gov.uk/uksi/2011/1301/rule/179) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-10878ddb6b650cc597265c05fdfb4a23]: Textual amendment: Words in [art. 179(1)(b)](https://www.legislation.gov.uk/uksi/2011/1301/article/179/1/b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xvi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xvi) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-10878ddb6b650cc597265c05fdfb4a23]: Textual amendment: Words in [art. 179(1)(b)](https://www.legislation.gov.uk/uksi/2011/1301/article/179/1/b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xvi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xvi) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

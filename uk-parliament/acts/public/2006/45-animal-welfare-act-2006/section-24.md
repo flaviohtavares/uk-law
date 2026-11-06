@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Entry for purposes of arrest[^key-e2795c1854400d21534e60d21b4d22af][^key-b01b3fbfd359a0bf55d56474a5e89de6]
+## 24. Entry for purposes of arrest[^c-e2795c1854400d21534e60d21b4d22af][^c-b01b3fbfd359a0bf55d56474a5e89de6]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ In section 17(1)(c) of the Police and Criminal Evidence Act 1984 (c. 60) (power 
 
 ## Annotations
 
-[^key-e2795c1854400d21534e60d21b4d22af]: Commencement: S. 24 in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/e)
+[^c-e2795c1854400d21534e60d21b4d22af]: Commencement: S. 24 in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/e)
 
-[^key-b01b3fbfd359a0bf55d56474a5e89de6]: Commencement: S. 24 in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
+[^c-b01b3fbfd359a0bf55d56474a5e89de6]: Commencement: S. 24 in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)

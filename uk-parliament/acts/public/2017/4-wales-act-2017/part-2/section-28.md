@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Taxis: transfer of functions to Welsh Ministers[^key-423cbd73d9e8c31a4a806afb55d7b4c7]
+## 28. Taxis: transfer of functions to Welsh Ministers[^c-423cbd73d9e8c31a4a806afb55d7b4c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-423cbd73d9e8c31a4a806afb55d7b4c7]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/4/section/28) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/f)
+[^c-423cbd73d9e8c31a4a806afb55d7b4c7]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/4/section/28) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Power to impose time limits on the determination of code proceedings[^key-3a1ab7f7b76a2b92ea6ead4c9a30d77e]
+## 72. Power to impose time limits on the determination of code proceedings[^c-3a1ab7f7b76a2b92ea6ead4c9a30d77e]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ In Chapter 1 of Part 2 of the Communications Act 2003 (electronic communications
 
 ## Annotations
 
-[^key-3a1ab7f7b76a2b92ea6ead4c9a30d77e]: Commencement: S. 72 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
+[^c-3a1ab7f7b76a2b92ea6ead4c9a30d77e]: Commencement: S. 72 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)

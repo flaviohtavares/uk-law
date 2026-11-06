@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Removal of boats and nets during annual close time[^key-dc84431716cfe216858d43c59aea3b50]
+## 15. Removal of boats and nets during annual close time[^c-dc84431716cfe216858d43c59aea3b50]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ with the exception of such boats and oars as may be used in angling.
 
 ## Annotations
 
-[^key-dc84431716cfe216858d43c59aea3b50]: Commencement: S. 15 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-dc84431716cfe216858d43c59aea3b50]: Commencement: S. 15 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

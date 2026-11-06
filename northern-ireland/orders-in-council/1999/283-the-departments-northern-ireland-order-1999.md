@@ -27,7 +27,7 @@ summary: ''
 
 1999 No. 283 (N.I. 1)
 
-The Departments (Northern Ireland) Order 1999[^key-3ec158ff953f7ff677d3ad9d5c154a67][^key-419bde46f583fa15a068fee4bb9168e1][^key-58c8eb27b974cbf69277b493af490908]
+The Departments (Northern Ireland) Order 1999[^c-3ec158ff953f7ff677d3ad9d5c154a67][^c-419bde46f583fa15a068fee4bb9168e1][^c-58c8eb27b974cbf69277b493af490908]
 
 10th February 1999
 
@@ -39,7 +39,7 @@ The Departments (Northern Ireland) Order 1999[^key-3ec158ff953f7ff677d3ad9d5c154
 
 (3) Article 8 and the repeal by this Order of section 4 of the [^m00001] Ministries Act (Northern Ireland) 1944 shall come into operation on the day following the day appointed by an Order in Council under section 3 of the [^m00002] Northern Ireland Act 1998 for the commencement of Parts II and III of that Act.
 
-## 2. Interpretation[^key-a9217aa76f4b748c89ed65f181221cef]
+## 2. Interpretation[^c-a9217aa76f4b748c89ed65f181221cef]
 
 (1) The [^m00003] Interpretation Act (Northern Ireland) 1954 shall apply to Article 1 and the following provisions of this Order as it applies to a Measure of the Northern Ireland Assembly.
 
@@ -63,8 +63,8 @@ The Departments (Northern Ireland) Order 1999[^key-3ec158ff953f7ff677d3ad9d5c154
 (1) There shall be established departments to be known as—
 
 - (a) the Office of the First Minister and deputy First Minister;
-- (b)[^key-4e0f996fafe18668dd94155eb542edd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-4e0f996fafe18668dd94155eb542edd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4e0f996fafe18668dd94155eb542edd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-4e0f996fafe18668dd94155eb542edd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the Department for Regional Development; and
 - (e) the Department for Social Development.
 
@@ -80,11 +80,11 @@ The Departments (Northern Ireland) Order 1999[^key-3ec158ff953f7ff677d3ad9d5c154
 
 (7) Where the words “for Northern Ireland” form part of the name of any other department to which paragraph (3) applies, those words shall be omitted from the name of that department.
 
-(8)[^key-d2559b5bd974e00740ef773ed12efb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-d2559b5bd974e00740ef773ed12efb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-d2559b5bd974e00740ef773ed12efb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-d2559b5bd974e00740ef773ed12efb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exercise of functions of a department[^key-ac21163294bf59b423246883fcc2f56d]
+## 4. Exercise of functions of a department[^c-ac21163294bf59b423246883fcc2f56d]
 
 (1) The functions of a department shall at all times be exercised subject to the direction and control of the Minister.
 
@@ -112,7 +112,7 @@ The Departments (Northern Ireland) Order 1999[^key-3ec158ff953f7ff677d3ad9d5c154
 
 (3) The expenses of a department shall, to such extent as the Department of Finance and Personnel may determine, be defrayed out of moneys appropriated by Act of the Assembly.
 
-## 6. The seal of a department[^key-9b8f4e8b70d99539a04bcb23d0d40fe4]
+## 6. The seal of a department[^c-9b8f4e8b70d99539a04bcb23d0d40fe4]
 
 (1) A department shall have an official seal which shall be officially and judicially noticed.
 
@@ -121,7 +121,7 @@ The Departments (Northern Ireland) Order 1999[^key-3ec158ff953f7ff677d3ad9d5c154
 - (a) the Minister; or
 - (b) a senior officer of that department.
 
-## 7. Evidence of acts of department[^key-6734381a96aa5f331d431b43f6c32503]
+## 7. Evidence of acts of department[^c-6734381a96aa5f331d431b43f6c32503]
 
 (1) Every document purporting to be issued by a department and—
 
@@ -172,57 +172,57 @@ such functions as appear to them to be appropriate for such assignment or transf
 
 SCHEDULES
 
-## SCHEDULE 1 — THE NORTHERN IRELAND DEPARTMENTS[^key-04a47c09b3eb0e9643305b8a68e9a7bf]
+## SCHEDULE 1 — THE NORTHERN IRELAND DEPARTMENTS[^c-04a47c09b3eb0e9643305b8a68e9a7bf]
 
 **No longer in force.**
 
 Article 3.
 
-[^key-04a47c09b3eb0e9643305b8a68e9a7bf]
+[^c-04a47c09b3eb0e9643305b8a68e9a7bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-04a47c09b3eb0e9643305b8a68e9a7bf]
+[^c-04a47c09b3eb0e9643305b8a68e9a7bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-04a47c09b3eb0e9643305b8a68e9a7bf]
+[^c-04a47c09b3eb0e9643305b8a68e9a7bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-04a47c09b3eb0e9643305b8a68e9a7bf]
+[^c-04a47c09b3eb0e9643305b8a68e9a7bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-04a47c09b3eb0e9643305b8a68e9a7bf]
+[^c-04a47c09b3eb0e9643305b8a68e9a7bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-04a47c09b3eb0e9643305b8a68e9a7bf]
+[^c-04a47c09b3eb0e9643305b8a68e9a7bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-04a47c09b3eb0e9643305b8a68e9a7bf]
+[^c-04a47c09b3eb0e9643305b8a68e9a7bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-04a47c09b3eb0e9643305b8a68e9a7bf]
+[^c-04a47c09b3eb0e9643305b8a68e9a7bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-04a47c09b3eb0e9643305b8a68e9a7bf]
+[^c-04a47c09b3eb0e9643305b8a68e9a7bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-04a47c09b3eb0e9643305b8a68e9a7bf]
+[^c-04a47c09b3eb0e9643305b8a68e9a7bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-04a47c09b3eb0e9643305b8a68e9a7bf]
+[^c-04a47c09b3eb0e9643305b8a68e9a7bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-04a47c09b3eb0e9643305b8a68e9a7bf]
+[^c-04a47c09b3eb0e9643305b8a68e9a7bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -232,11 +232,11 @@ Article 3.
 
 ## Annotations
 
-[^key-3ec158ff953f7ff677d3ad9d5c154a67]: Modification: [Order](https://www.legislation.gov.uk/nisi/1999/283) applied (8.5.2016) by [Departments Act (Northern Ireland) 2016 (c. 5)](https://www.legislation.gov.uk/nia/2016/5), [ss. 1(12)](https://www.legislation.gov.uk/nia/2016/5/section/1/12), [3(2)](https://www.legislation.gov.uk/nia/2016/5/section/3/2), [Sch. 1](https://www.legislation.gov.uk/nia/2016/5/schedule/1); [S.R. 2016/89](https://www.legislation.gov.uk/nisr/2016/89), [art. 2](https://www.legislation.gov.uk/nisr/2016/89/article/2)
+[^c-3ec158ff953f7ff677d3ad9d5c154a67]: Modification: [Order](https://www.legislation.gov.uk/nisi/1999/283) applied (8.5.2016) by [Departments Act (Northern Ireland) 2016 (c. 5)](https://www.legislation.gov.uk/nia/2016/5), [ss. 1(12)](https://www.legislation.gov.uk/nia/2016/5/section/1/12), [3(2)](https://www.legislation.gov.uk/nia/2016/5/section/3/2), [Sch. 1](https://www.legislation.gov.uk/nia/2016/5/schedule/1); [S.R. 2016/89](https://www.legislation.gov.uk/nisr/2016/89), [art. 2](https://www.legislation.gov.uk/nisr/2016/89/article/2)
 
-[^key-419bde46f583fa15a068fee4bb9168e1]: Modification: [Order](https://www.legislation.gov.uk/nisi/1999/283) excluded (1.11.2018) by [Northern Ireland (Executive Formation and Exercise of Functions) Act 2018 (c. 28)](https://www.legislation.gov.uk/ukpga/2018/28), [s. 3(7)](https://www.legislation.gov.uk/ukpga/2018/28/section/3/7)
+[^c-419bde46f583fa15a068fee4bb9168e1]: Modification: [Order](https://www.legislation.gov.uk/nisi/1999/283) excluded (1.11.2018) by [Northern Ireland (Executive Formation and Exercise of Functions) Act 2018 (c. 28)](https://www.legislation.gov.uk/ukpga/2018/28), [s. 3(7)](https://www.legislation.gov.uk/ukpga/2018/28/section/3/7)
 
-[^key-58c8eb27b974cbf69277b493af490908]: Modification: [Order](https://www.legislation.gov.uk/nisi/1999/283) excluded (6.12.2022) by [Northern Ireland (Executive Formation etc) Act 2022 (c. 48)](https://www.legislation.gov.uk/ukpga/2022/48), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2022/48/section/5/1), [14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
+[^c-58c8eb27b974cbf69277b493af490908]: Modification: [Order](https://www.legislation.gov.uk/nisi/1999/283) excluded (6.12.2022) by [Northern Ireland (Executive Formation etc) Act 2022 (c. 48)](https://www.legislation.gov.uk/ukpga/2022/48), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2022/48/section/5/1), [14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
 
 [^c5486331]: Textual amendment: partly exercised by SR 1999/480
 
@@ -244,7 +244,7 @@ Article 3.
 
 [^m00002]: Marginal citation: 1998 c. 47.
 
-[^key-a9217aa76f4b748c89ed65f181221cef]: Modification: [Art. 2](https://www.legislation.gov.uk/nisi/1999/283/article/2) modified (12.4.2024) by [The Windsor Framework (Implementation) Regulations 2024 (S.I. 2024/404)](https://www.legislation.gov.uk/uksi/2024/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/404/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2024/404/regulation/3/5)
+[^c-a9217aa76f4b748c89ed65f181221cef]: Modification: [Art. 2](https://www.legislation.gov.uk/nisi/1999/283/article/2) modified (12.4.2024) by [The Windsor Framework (Implementation) Regulations 2024 (S.I. 2024/404)](https://www.legislation.gov.uk/uksi/2024/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/404/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2024/404/regulation/3/5)
 
 [^m00003]: Marginal citation: 1954 c. 33 (N.I.).
 
@@ -252,15 +252,15 @@ Article 3.
 
 [^m00005]: Marginal citation: 1998 c. 47.
 
-[^key-4e0f996fafe18668dd94155eb542edd7]: Textual amendment: Art. 3(1)(b)(c) repealed (8.5.2016) by [Departments Act (Northern Ireland) 2016 (c. 5)](https://www.legislation.gov.uk/nia/2016/5), [s. 3(2)](https://www.legislation.gov.uk/nia/2016/5/section/3/2), [Sch. 2](https://www.legislation.gov.uk/nia/2016/5/schedule/2); [S.R. 2016/89](https://www.legislation.gov.uk/nisr/2016/89), [art. 2](https://www.legislation.gov.uk/nisr/2016/89/article/2)
+[^c-4e0f996fafe18668dd94155eb542edd7]: Textual amendment: Art. 3(1)(b)(c) repealed (8.5.2016) by [Departments Act (Northern Ireland) 2016 (c. 5)](https://www.legislation.gov.uk/nia/2016/5), [s. 3(2)](https://www.legislation.gov.uk/nia/2016/5/section/3/2), [Sch. 2](https://www.legislation.gov.uk/nia/2016/5/schedule/2); [S.R. 2016/89](https://www.legislation.gov.uk/nisr/2016/89), [art. 2](https://www.legislation.gov.uk/nisr/2016/89/article/2)
 
-[^key-d2559b5bd974e00740ef773ed12efb31]: Textual amendment: [Art. 3(8)](https://www.legislation.gov.uk/nisi/1999/283/article/3/8)[(9)](https://www.legislation.gov.uk/nisi/1999/283/article/3/9) repealed (8.5.2016) by [Departments Act (Northern Ireland) 2016 (c. 5)](https://www.legislation.gov.uk/nia/2016/5), [s. 3(2)](https://www.legislation.gov.uk/nia/2016/5/section/3/2), [Sch. 2](https://www.legislation.gov.uk/nia/2016/5/schedule/2); [S.R. 2016/89](https://www.legislation.gov.uk/nisr/2016/89), [art. 2](https://www.legislation.gov.uk/nisr/2016/89/article/2)
+[^c-d2559b5bd974e00740ef773ed12efb31]: Textual amendment: [Art. 3(8)](https://www.legislation.gov.uk/nisi/1999/283/article/3/8)[(9)](https://www.legislation.gov.uk/nisi/1999/283/article/3/9) repealed (8.5.2016) by [Departments Act (Northern Ireland) 2016 (c. 5)](https://www.legislation.gov.uk/nia/2016/5), [s. 3(2)](https://www.legislation.gov.uk/nia/2016/5/section/3/2), [Sch. 2](https://www.legislation.gov.uk/nia/2016/5/schedule/2); [S.R. 2016/89](https://www.legislation.gov.uk/nisr/2016/89), [art. 2](https://www.legislation.gov.uk/nisr/2016/89/article/2)
 
-[^key-ac21163294bf59b423246883fcc2f56d]: Modification: [Art. 4](https://www.legislation.gov.uk/nisi/1999/283/article/4) modified (12.4.2024) by [The Windsor Framework (Implementation) Regulations 2024 (S.I. 2024/404)](https://www.legislation.gov.uk/uksi/2024/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/404/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2024/404/regulation/3/5)
+[^c-ac21163294bf59b423246883fcc2f56d]: Modification: [Art. 4](https://www.legislation.gov.uk/nisi/1999/283/article/4) modified (12.4.2024) by [The Windsor Framework (Implementation) Regulations 2024 (S.I. 2024/404)](https://www.legislation.gov.uk/uksi/2024/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/404/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2024/404/regulation/3/5)
 
-[^key-9b8f4e8b70d99539a04bcb23d0d40fe4]: Modification: [Art. 6](https://www.legislation.gov.uk/nisi/1999/283/article/6) modified (12.4.2024) by [The Windsor Framework (Implementation) Regulations 2024 (S.I. 2024/404)](https://www.legislation.gov.uk/uksi/2024/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/404/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2024/404/regulation/3/5)
+[^c-9b8f4e8b70d99539a04bcb23d0d40fe4]: Modification: [Art. 6](https://www.legislation.gov.uk/nisi/1999/283/article/6) modified (12.4.2024) by [The Windsor Framework (Implementation) Regulations 2024 (S.I. 2024/404)](https://www.legislation.gov.uk/uksi/2024/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/404/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2024/404/regulation/3/5)
 
-[^key-6734381a96aa5f331d431b43f6c32503]: Modification: [Art. 7](https://www.legislation.gov.uk/nisi/1999/283/article/7) modified (12.4.2024) by [The Windsor Framework (Implementation) Regulations 2024 (S.I. 2024/404)](https://www.legislation.gov.uk/uksi/2024/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/404/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2024/404/regulation/3/5)
+[^c-6734381a96aa5f331d431b43f6c32503]: Modification: [Art. 7](https://www.legislation.gov.uk/nisi/1999/283/article/7) modified (12.4.2024) by [The Windsor Framework (Implementation) Regulations 2024 (S.I. 2024/404)](https://www.legislation.gov.uk/uksi/2024/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/404/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2024/404/regulation/3/5)
 
 [^m00006]: Marginal citation: 1868 c. 37.
 
@@ -268,4 +268,4 @@ Article 3.
 
 [^m00008]: Marginal citation: 1944 c. 14 (N.I.).
 
-[^key-04a47c09b3eb0e9643305b8a68e9a7bf]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisi/1999/283/schedule/1) repealed (8.5.2016) by [Departments Act (Northern Ireland) 2016 (c. 5)](https://www.legislation.gov.uk/nia/2016/5), [s. 3(2)](https://www.legislation.gov.uk/nia/2016/5/section/3/2), [Sch. 2](https://www.legislation.gov.uk/nia/2016/5/schedule/2); [S.R. 2016/89](https://www.legislation.gov.uk/nisr/2016/89), [art. 2](https://www.legislation.gov.uk/nisr/2016/89/article/2)
+[^c-04a47c09b3eb0e9643305b8a68e9a7bf]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisi/1999/283/schedule/1) repealed (8.5.2016) by [Departments Act (Northern Ireland) 2016 (c. 5)](https://www.legislation.gov.uk/nia/2016/5), [s. 3(2)](https://www.legislation.gov.uk/nia/2016/5/section/3/2), [Sch. 2](https://www.legislation.gov.uk/nia/2016/5/schedule/2); [S.R. 2016/89](https://www.legislation.gov.uk/nisr/2016/89), [art. 2](https://www.legislation.gov.uk/nisr/2016/89/article/2)

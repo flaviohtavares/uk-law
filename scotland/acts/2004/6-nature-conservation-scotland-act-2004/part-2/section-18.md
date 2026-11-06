@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Appeals in connection with operations requiring consent[^key-d60642a949a0f9dc5b3e6a65e17e9e8b]
+## 18. Appeals in connection with operations requiring consent[^c-d60642a949a0f9dc5b3e6a65e17e9e8b]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ SNH has not offered to enter into a management agreement in pursuance of section
 
 ## Annotations
 
-[^key-d60642a949a0f9dc5b3e6a65e17e9e8b]: Commencement: S. 18 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-d60642a949a0f9dc5b3e6a65e17e9e8b]: Commencement: S. 18 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

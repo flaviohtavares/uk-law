@@ -40,11 +40,11 @@ Coming into operation
 
 The Department of Agriculture, in exercise of the powers conferred on it by Articles 2(3), 5(1), 10(6), 12(1), 14, 19(*e*), (*f*) and (*k*) and 60(1) of the Diseases of Animals (Northern Ireland) Order 1981[^f00001] and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-4c1542288cf80f74ba0109a7028936a3]
+## 1. Citation and commencement[^c-4c1542288cf80f74ba0109a7028936a3]
 
 This Order may be cited as the Specified Diseases (Notification and Movement Restrictions) Order (Northern Ireland) 1997 and shall come into operation on 21st August 1997.
 
-## 2. Interpretation[^key-e68545b50d895ba104314f0774b53c8a]
+## 2. Interpretation[^c-e68545b50d895ba104314f0774b53c8a]
 
 In this Order—
 
@@ -59,7 +59,7 @@ In this Order—
 - “suspected” means suspected of being affected; and
 - “the 1981 Order” means the Diseases of Animals (Northern Ireland) Order 1981.
 
-## 3. Extension of definitions of animals and poultry[^key-a40b801602b56694f5b8cd2b13978f07]
+## 3. Extension of definitions of animals and poultry[^c-a40b801602b56694f5b8cd2b13978f07]
 
 For the purposes of the 1981 Order in its application to this Order—
 
@@ -68,7 +68,7 @@ For the purposes of the 1981 Order in its application to this Order—
   - (ii) any kind of four-footed beast which is not a mammal; and
 - (b) the list of poultry in Part II of Schedule 1 to the 1981 Order is hereby extended so as to comprise birds of any kind.
 
-## 4. Notice of specified disease[^key-0068d94a9565413306576887ab9966af]
+## 4. Notice of specified disease[^c-0068d94a9565413306576887ab9966af]
 
 (1) Subject to paragraph (3), a person who has in his possession or under his charge an affected or suspected animal, bird or carcase, a veterinary surgeon or other person who, in the course of his duties, examines or inspects such an animal, bird or carcase and any person who, following an analysis by him of any sample taken from an animal, bird or carcase has reasonable grounds for supposing that the animal, bird or carcase is affected, shall, with all practicable speed, give notice of the fact—
 
@@ -80,7 +80,7 @@ For the purposes of the 1981 Order in its application to this Order—
 
 (3) This Article shall not apply to an animal, bird or carcase affected or suspected of being affected with spongiform encephalopathy.
 
-## 5. Notice of spongiform encephalopathy[^key-2deabf5e745f16fcbd15896bbd024d5a]
+## 5. Notice of spongiform encephalopathy[^c-2deabf5e745f16fcbd15896bbd024d5a]
 
 (1) Subject to paragraph (4), a person who, in the course of a laboratory examination of the carcase of any bird, or of any animal other than a bovine animal, sheep or goat, suspects the presence of spongiform encephalopathy shall, with all practicable speed, give notice of the fact in accordance with Article 4(1).
 
@@ -90,7 +90,7 @@ For the purposes of the 1981 Order in its application to this Order—
 
 (4) This Article shall not apply to any spongiform encephalopathy which has been deliberately introduced into an animal, a bird, a carcase, or a sample in a laboratory.
 
-## 6. Restrictions on movement of animals and poultry in cases of a specified disease or suspected specified disease[^key-03875bd4efe7d2ed8db5746575f06c8b]
+## 6. Restrictions on movement of animals and poultry in cases of a specified disease or suspected specified disease[^c-03875bd4efe7d2ed8db5746575f06c8b]
 
 (1) If the Department has reasonable grounds for supposing that a specified disease exists on any premises it may serve a restriction notice on the occupier or person in charge of the premises prohibiting the movement of any animal, bird, carcase or other thing described in the notice onto or off the premises, except under the authority of a licence issued by the Department and in accordance with any conditions subject to which the licence is issued.
 
@@ -108,7 +108,7 @@ For the purposes of the 1981 Order in its application to this Order—
 
 (5) The amount of any expenses reasonably incurred by the Department in the exercise of the powers under paragraph (4) shall be recoverable as a civil debt by the Department from the person who caused or permitted such contravention or, as the case may be, from the person in default.
 
-## 7. Veterinary enquiry as to the existence of a specified disease[^key-92c24fb6488497625ca9f173c5a6bd3d]
+## 7. Veterinary enquiry as to the existence of a specified disease[^c-92c24fb6488497625ca9f173c5a6bd3d]
 
 (1) For the purposes of ascertaining whether or not a specified disease exists on any premises in respect of which a restriction notice has been served a veterinary inspector may—
 
@@ -121,13 +121,13 @@ as he may consider necessary for the purpose of diagnosis.
 
 (3) The occupier or person in charge of the premises or any person in his employment shall render such reasonable assistance to a veterinary inspector as he may require for the purpose of facilitating the exercise of his powers under paragraph (1) or (2).
 
-## 8. Cleansing and disinfection[^key-40cfde6208b8816bc8df48ee95cb8cdd]
+## 8. Cleansing and disinfection[^c-40cfde6208b8816bc8df48ee95cb8cdd]
 
 (1) Where a restriction notice has been served in respect of any premises a veterinary inspector may serve a cleansing and disinfection notice in writing on the occupier or person in charge of the premises requiring him to cleanse and disinfect the premises in the manner specified in the notice and within such time as may be so specified.
 
 (2) If any person on whom a cleansing and disinfection notice has been served under paragraph (1) fails to comply with the requirements of the notice, an inspector or other officer of the Department may, without prejudice to any proceedings arising out of such default, carry out or cause to be carried out the cleansing and disinfection required by the notice, and the amount of any expenses reasonably incurred by it in doing so shall be recoverable as a civil debt by the Department from the person in default.
 
-## 9. Declaration of infected area[^key-f34724d4acdee9f112d0aac6cd3ff113]
+## 9. Declaration of infected area[^c-f34724d4acdee9f112d0aac6cd3ff113]
 
 (1) If the Department has reasonable grounds for suspecting that a specified disease exists within Northern Ireland or within such part of the Republic of Ireland as may entail the risk of the introduction or spread of that disease into Northern Ireland, it may by notice in writing declare Northern Ireland or such area therein as may be specified in the notice to be an infected area.
 
@@ -142,7 +142,7 @@ as he may consider necessary for the purpose of diagnosis.
 
 (4) Nothing in paragraph (3) shall deem any area outside Northern Ireland to be within an infected area.
 
-## 10. Restriction on movement of animals, poultry, undressed carcases and dung[^key-3ee4656e29efa5ada26a8ddc774079fd]
+## 10. Restriction on movement of animals, poultry, undressed carcases and dung[^c-3ee4656e29efa5ada26a8ddc774079fd]
 
 (1) A person shall not move or cause or permit to be moved any animal or bird of such description as may be prescribed by a notice given under Article 9, any undressed carcase of such animal or bird or any dung—
 
@@ -167,19 +167,19 @@ except under the authority of a licence issued by the Department and in accordan
 
 (7) The Department may vary, revoke or suspend a general licence insofar as it applies to any particular person by notice in writing sent to that person.
 
-## 11. Isolation of animals and poultry within an infected area[^key-027cd0c2142154efa9c92c692c3d4367]
+## 11. Isolation of animals and poultry within an infected area[^c-027cd0c2142154efa9c92c692c3d4367]
 
 (1) The Department may, by notice in writing, require any person to cause any animal or bird within an infected area to be isolated in such place, within any premises and subject to such conditions as may be specified in that notice.
 
 (2) A notice given under paragraph (1) shall remain in force until such date as may be specified therein or until revoked by a further notice in writing.
 
-## 12. General provisions as to licences[^key-c6f7c368f3922fcb9c937b3f81872832]
+## 12. General provisions as to licences[^c-c6f7c368f3922fcb9c937b3f81872832]
 
 (1) The Department may, where it considers it necessary for the purpose of preventing the spread of a specified disease, revoke or vary any licence issued under this Order by notice in writing served on the person to whom the licence was issued.
 
 (2) Any person acting under the authority of a licence issued under this Order shall ensure that the licence accompanies whatever is being moved under its authority and that person shall, on demand made by an inspector or other officer of the Department or by a member of the Royal Ulster Constabulary produce the licence and allow a copy or extract to be taken, and shall also, on such demand, furnish his name and address.
 
-## 13. Revocations[^key-01cb7951b5fde63d2c897b975d1cd124]
+## 13. Revocations[^c-01cb7951b5fde63d2c897b975d1cd124]
 
 The following Orders are hereby revoked—
 
@@ -195,7 +195,7 @@ Assistant Secretary
 
 30th July 1997.
 
-## SCHEDULE 1 — Specified Diseases[^key-5cbe89dc6910eb253f3e1d5b560b0dbf]
+## SCHEDULE 1 — Specified Diseases[^c-5cbe89dc6910eb253f3e1d5b560b0dbf]
 
 Article 2
 
@@ -227,7 +227,7 @@ Article 2
 </tbody>
 </table>
 
-## SCHEDULE 2 — Specified Diseases (Notification and Movement Restrictions) Order (Northern Ireland) 1997[^key-eae65e5a6cd80e7b9084129d92bd0c6c]
+## SCHEDULE 2 — Specified Diseases (Notification and Movement Restrictions) Order (Northern Ireland) 1997[^c-eae65e5a6cd80e7b9084129d92bd0c6c]
 
 Articles 2 and 6
 
@@ -235,7 +235,7 @@ Restriction Notice
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/352/images/nisr_19970352_en_001)
 
-## SCHEDULE 3 — Specified Diseases (Notification and Movement Restrictions) Order (Northern Ireland) 1997[^key-0497ddc23a30a28afa3daded8b30735a]
+## SCHEDULE 3 — Specified Diseases (Notification and Movement Restrictions) Order (Northern Ireland) 1997[^c-0497ddc23a30a28afa3daded8b30735a]
 
 Article 6(2), (3) and (4)
 
@@ -257,31 +257,31 @@ The Order makes the following principal changes—
 
 [^f00001]: Footnote: S.I. [1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115) as amended by S.I. [1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Art. 17 and S.I. [1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891) Arts. 19, 20 and 23
 
-[^key-4c1542288cf80f74ba0109a7028936a3]: Commencement: Art. 1 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+[^c-4c1542288cf80f74ba0109a7028936a3]: Commencement: Art. 1 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
 
-[^key-e68545b50d895ba104314f0774b53c8a]: Commencement: Art. 2 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+[^c-e68545b50d895ba104314f0774b53c8a]: Commencement: Art. 2 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
 
-[^key-a40b801602b56694f5b8cd2b13978f07]: Commencement: Art. 3 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+[^c-a40b801602b56694f5b8cd2b13978f07]: Commencement: Art. 3 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
 
-[^key-0068d94a9565413306576887ab9966af]: Commencement: Art. 4 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+[^c-0068d94a9565413306576887ab9966af]: Commencement: Art. 4 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
 
-[^key-2deabf5e745f16fcbd15896bbd024d5a]: Commencement: Art. 5 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+[^c-2deabf5e745f16fcbd15896bbd024d5a]: Commencement: Art. 5 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
 
-[^key-03875bd4efe7d2ed8db5746575f06c8b]: Commencement: Art. 6 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+[^c-03875bd4efe7d2ed8db5746575f06c8b]: Commencement: Art. 6 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
 
-[^key-92c24fb6488497625ca9f173c5a6bd3d]: Commencement: Art. 7 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+[^c-92c24fb6488497625ca9f173c5a6bd3d]: Commencement: Art. 7 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
 
-[^key-40cfde6208b8816bc8df48ee95cb8cdd]: Commencement: Art. 8 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+[^c-40cfde6208b8816bc8df48ee95cb8cdd]: Commencement: Art. 8 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
 
-[^key-f34724d4acdee9f112d0aac6cd3ff113]: Commencement: Art. 9 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+[^c-f34724d4acdee9f112d0aac6cd3ff113]: Commencement: Art. 9 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
 
-[^key-3ee4656e29efa5ada26a8ddc774079fd]: Commencement: Art. 10 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+[^c-3ee4656e29efa5ada26a8ddc774079fd]: Commencement: Art. 10 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
 
-[^key-027cd0c2142154efa9c92c692c3d4367]: Commencement: Art. 11 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+[^c-027cd0c2142154efa9c92c692c3d4367]: Commencement: Art. 11 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
 
-[^key-c6f7c368f3922fcb9c937b3f81872832]: Commencement: Art. 12 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+[^c-c6f7c368f3922fcb9c937b3f81872832]: Commencement: Art. 12 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
 
-[^key-01cb7951b5fde63d2c897b975d1cd124]: Commencement: Art. 13 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+[^c-01cb7951b5fde63d2c897b975d1cd124]: Commencement: Art. 13 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
 
 [^f00002]: Footnote: [S.R. 1991 No. 455](https://www.legislation.gov.uk/nisr/1991/455)
 
@@ -289,8 +289,8 @@ The Order makes the following principal changes—
 
 [^f00004]: Footnote: [S.R. 1996 No. 398](https://www.legislation.gov.uk/nisr/1996/398)
 
-[^key-5cbe89dc6910eb253f3e1d5b560b0dbf]: Commencement: Sch. 1 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+[^c-5cbe89dc6910eb253f3e1d5b560b0dbf]: Commencement: Sch. 1 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
 
-[^key-eae65e5a6cd80e7b9084129d92bd0c6c]: Commencement: Sch. 2 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+[^c-eae65e5a6cd80e7b9084129d92bd0c6c]: Commencement: Sch. 2 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
 
-[^key-0497ddc23a30a28afa3daded8b30735a]: Commencement: Sch. 3 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+[^c-0497ddc23a30a28afa3daded8b30735a]: Commencement: Sch. 3 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)

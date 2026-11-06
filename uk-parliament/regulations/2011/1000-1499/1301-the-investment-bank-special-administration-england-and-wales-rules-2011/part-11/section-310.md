@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 310. Non-Gazette notices[^key-536011f23af138e57c511cca6083ff00]
+## 310. Non-Gazette notices[^c-536011f23af138e57c511cca6083ff00]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ In addition to the information required by rule 309, a notice relating to an inv
 
 ## Annotations
 
-[^key-536011f23af138e57c511cca6083ff00]: Commencement: [Rule 310](https://www.legislation.gov.uk/uksi/2011/1301/rule/310) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-536011f23af138e57c511cca6083ff00]: Commencement: [Rule 310](https://www.legislation.gov.uk/uksi/2011/1301/rule/310) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

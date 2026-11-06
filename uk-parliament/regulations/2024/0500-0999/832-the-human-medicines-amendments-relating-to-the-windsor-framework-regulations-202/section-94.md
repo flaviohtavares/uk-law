@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Amendment to regulation 204[^key-eb455800c40ab35a340a7a3cc933f578]
+## 94. Amendment to regulation 204[^c-eb455800c40ab35a340a7a3cc933f578]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 204(1) (obligation on licensing authority in relation to public an
 
 ## Annotations
 
-[^key-eb455800c40ab35a340a7a3cc933f578]: Commencement: [Reg. 94](https://www.legislation.gov.uk/uksi/2024/832/regulation/94) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-eb455800c40ab35a340a7a3cc933f578]: Commencement: [Reg. 94](https://www.legislation.gov.uk/uksi/2024/832/regulation/94) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00104]: Footnote: Paragraph (1) was amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

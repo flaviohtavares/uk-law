@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Private rights[^key-00ca2c786580a8ec268c99d045c4f53a]
+## 26. Private rights[^c-00ca2c786580a8ec268c99d045c4f53a]
 
 *Extent: E+W+S*
 
@@ -64,7 +64,7 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-00ca2c786580a8ec268c99d045c4f53a]: Commencement: Art. 26 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-00ca2c786580a8ec268c99d045c4f53a]: Commencement: Art. 26 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
 [^f00040]: Footnote: Section 11(1) was amended by section 186(1) and (2), section 187(1) and (2) and section 188 of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22) and section 14 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure 2006 ([2006 No 1](https://www.legislation.gov.uk/ukcm/2006/1)).
 

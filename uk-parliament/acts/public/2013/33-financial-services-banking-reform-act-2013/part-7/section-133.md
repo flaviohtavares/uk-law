@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-6ed47aee8785282a19c6377041d01c42][^key-49ef3f02b78a4ccad8afe90b4fd90f3e][^key-7b175d50845ef41b3de5a909877d0f10] After section 192J of FSMA 2000 insert—
+(1)[^c-6ed47aee8785282a19c6377041d01c42][^c-49ef3f02b78a4ccad8afe90b4fd90f3e][^c-7b175d50845ef41b3de5a909877d0f10] After section 192J of FSMA 2000 insert—
 
 > **Rules applying to parent undertakings of ring-fenced bodies**
 >
@@ -70,19 +70,19 @@ summary: ''
 
 (2) In section 192K of FSMA 2000 (power to impose penalty or issue censure)—
 
-- (a)[^key-7e29ef3755717671aa8fed7011cea86d] in subsection (1), after “section 192J” insert “ or 192JB ”, and
-- (b)[^key-8b53732a9be71f64676a32eea457160a] after that subsection insert—
+- (a)[^c-7e29ef3755717671aa8fed7011cea86d] in subsection (1), after “section 192J” insert “ or 192JB ”, and
+- (b)[^c-8b53732a9be71f64676a32eea457160a] after that subsection insert—
 
   > (1A) This section also applies if a regulator is satisfied that a person (“P”) who is or has been a parent undertaking of a ring-fenced body has contravened a provision of rules made by that regulator under section 192JA.
 
 ## Annotations
 
-[^key-6ed47aee8785282a19c6377041d01c42]: Commencement: S. 133(1) in force at 31.12.2014 for specified purposes by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/2)
+[^c-6ed47aee8785282a19c6377041d01c42]: Commencement: S. 133(1) in force at 31.12.2014 for specified purposes by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/2)
 
-[^key-49ef3f02b78a4ccad8afe90b4fd90f3e]: Commencement: S. 133(1) in force at 21.4.2016 for specified purposes by [S.I. 2016/512](https://www.legislation.gov.uk/uksi/2016/512), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/512/article/2/b)
+[^c-49ef3f02b78a4ccad8afe90b4fd90f3e]: Commencement: S. 133(1) in force at 21.4.2016 for specified purposes by [S.I. 2016/512](https://www.legislation.gov.uk/uksi/2016/512), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/512/article/2/b)
 
-[^key-7b175d50845ef41b3de5a909877d0f10]: Commencement: S. 133(1) in force at 1.1.2019 in so far as not already in force by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(l)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/l)
+[^c-7b175d50845ef41b3de5a909877d0f10]: Commencement: S. 133(1) in force at 1.1.2019 in so far as not already in force by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(l)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/l)
 
-[^key-7e29ef3755717671aa8fed7011cea86d]: Commencement: S. 133(2)(a) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/c)
+[^c-7e29ef3755717671aa8fed7011cea86d]: Commencement: S. 133(2)(a) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/c)
 
-[^key-8b53732a9be71f64676a32eea457160a]: Commencement: S. 133(2)(b) in force at 21.4.2016 by [S.I. 2016/512](https://www.legislation.gov.uk/uksi/2016/512), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/512/article/2/b)
+[^c-8b53732a9be71f64676a32eea457160a]: Commencement: S. 133(2)(b) in force at 21.4.2016 by [S.I. 2016/512](https://www.legislation.gov.uk/uksi/2016/512), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/512/article/2/b)

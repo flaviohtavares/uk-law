@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Orders by OFCOM in the absence of a code under s. 121[^M_C_d68c6222-a459-41cd-81a6-e51aa9e12b29][^key-28dccb20c2ea46708ea049e3614a5f04]
+## 122. Orders by OFCOM in the absence of a code under s. 121[^M_C_d68c6222-a459-41cd-81a6-e51aa9e12b29][^c-28dccb20c2ea46708ea049e3614a5f04]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 [^M_C_d68c6222-a459-41cd-81a6-e51aa9e12b29]: Modification: Ss. 120-124 modified (31.12.2020) by [The Communications Act (e-Commerce) (EU Exit) Regulations 2020 (S.I. 2020/1420)](https://www.legislation.gov.uk/uksi/2020/1420), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1420/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1420/regulation/2)
 
-[^key-28dccb20c2ea46708ea049e3614a5f04]: Commencement: S. 122 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-28dccb20c2ea46708ea049e3614a5f04]: Commencement: S. 122 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: N.I.*
 
-For the purposes of any provision in Parts 1A to 7[^key-b24801d71a960169ddbc6212e981980a], a person who is not a member of a company but to whom shares in the company have been transferred, or transmitted by operation of law, is to be regarded as a member of the company, and references to a member or members are to be read accordingly.
+For the purposes of any provision in Parts 1A to 7[^c-b24801d71a960169ddbc6212e981980a], a person who is not a member of a company but to whom shares in the company have been transferred, or transmitted by operation of law, is to be regarded as a member of the company, and references to a member or members are to be read accordingly.
 
 ## Annotations
 
 [^c17596041]: Textual amendment: mod. by SR 2004/307
 
-[^key-b24801d71a960169ddbc6212e981980a]: Textual amendment: Words in [art. 8](https://www.legislation.gov.uk/nisi/1989/2405/article/8) substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-b24801d71a960169ddbc6212e981980a]: Textual amendment: Words in [art. 8](https://www.legislation.gov.uk/nisi/1989/2405/article/8) substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

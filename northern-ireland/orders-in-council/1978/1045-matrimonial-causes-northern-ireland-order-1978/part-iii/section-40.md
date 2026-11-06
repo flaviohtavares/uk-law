@@ -29,7 +29,7 @@ the person so liable or his or her personal representatives shall not be entitle
 
 (2) On an application under this Article the court may order the respondent to pay to the applicant a sum equal to the amount of the payments made in respect of the period mentioned in paragraph (1)( *b*) or, if it appears to the court that it would be unjust to make that order, it may either order the respondent to pay to the applicant such lesser sum as it thinks fit or dismiss the application.
 
-(3) An application under this Article may be made in proceedings in the High Court for leave to enforce, or the enforcement of, payment of arrears under the order in question, but when not made in such proceedings shall be made to a county court; [^key-15a057ba38974c60333160fe18707c92]....
+(3) An application under this Article may be made in proceedings in the High Court for leave to enforce, or the enforcement of, payment of arrears under the order in question, but when not made in such proceedings shall be made to a county court; [^c-15a057ba38974c60333160fe18707c92]....
 
 (4) The jurisdiction conferred on a county court by this Article shall be exercisable notwithstanding that by reason of the amount claimed in the application the jurisdiction would not but for this paragraph be exercisable by a county court.
 
@@ -48,7 +48,7 @@ if (but only if) the act was one which he would have been under a duty to do had
 
 [^c16976831]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-15a057ba38974c60333160fe18707c92]: Textual amendment: Words in [art. 40(3)](https://www.legislation.gov.uk/nisi/1978/1045/article/40/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 76(5)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/76/5), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-15a057ba38974c60333160fe18707c92]: Textual amendment: Words in [art. 40(3)](https://www.legislation.gov.uk/nisi/1978/1045/article/40/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 76(5)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/76/5), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c16976931]: Textual amendment: [1981 NI 26](https://www.legislation.gov.uk/1981/ni26)
 

@@ -43,7 +43,7 @@ summary: ''
 - (h) gains from the sale of tangible property located in the same territory as the member that are reinvested in tangible property in the same territory, or
 - (i) additional amounts accrued as a result of accounting principle changes with respect to things falling within any of paragraphs (a) to (h).
 
-(5)[^key-543117e161509e2d01307bc5996b7f05] This section is to be applied in accordance with, and is subject to, the DTL recapture methodology.
+(5)[^c-543117e161509e2d01307bc5996b7f05] This section is to be applied in accordance with, and is subject to, the DTL recapture methodology.
 
 (6) The DTL recapture methodology means provisions about the treatment of deferred tax liabilities—
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-543117e161509e2d01307bc5996b7f05]: Textual amendment: S. 184(5)-(9) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 30](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/30), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-543117e161509e2d01307bc5996b7f05]: Textual amendment: S. 184(5)-(9) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 30](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/30), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Modification of Part 1 of the 1965 Act[^key-46b435fc6be9f1fb18ea140a7d17a020]
+## 26. Modification of Part 1 of the 1965 Act[^c-46b435fc6be9f1fb18ea140a7d17a020]
 
 *Extent: E+W+S*
 
@@ -34,7 +34,7 @@ summary: ''
 
 (4) In section 22(2) (expiry of time limit for exercise of compulsory purchase power not to affect acquisition of interests omitted from purchase), for “section 4 of this Act” substitute “article 20 (time limit for exercise of authority to acquire land compulsorily) of the Hornsea Four Offshore Wind Farm Order 2023”.
 
-(5)[^key-973565253dd5f75535606d1bb90db04f] In Schedule 2A (counter-notice requiring purchase of land not in notice to treat)(c)—
+(5)[^c-973565253dd5f75535606d1bb90db04f] In Schedule 2A (counter-notice requiring purchase of land not in notice to treat)(c)—
 
 - (a) for paragraphs 1(2) and 14(2) substitute—
 
@@ -49,10 +49,10 @@ summary: ''
 
 ## Annotations
 
-[^key-46b435fc6be9f1fb18ea140a7d17a020]: Commencement: Art. 26 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-46b435fc6be9f1fb18ea140a7d17a020]: Commencement: Art. 26 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
 [^f00042]: Footnote: Inserted by section 202(1) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 
 [^f00043]: Footnote: Inserted by section 186(3) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 
-[^key-973565253dd5f75535606d1bb90db04f]: Textual amendment: Art. 26(5) inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-973565253dd5f75535606d1bb90db04f]: Textual amendment: Art. 26(5) inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)

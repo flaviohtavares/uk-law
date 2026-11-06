@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 98. Special inspections[^key-9103b41ebdb303dd9737b0d66018e094]
+## 98. Special inspections[^c-9103b41ebdb303dd9737b0d66018e094]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9103b41ebdb303dd9737b0d66018e094]: Commencement: S. 98 in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-9103b41ebdb303dd9737b0d66018e094]: Commencement: S. 98 in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

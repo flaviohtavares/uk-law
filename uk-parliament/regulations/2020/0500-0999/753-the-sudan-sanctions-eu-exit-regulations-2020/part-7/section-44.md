@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Finance: information offences[^key-5730e2d7ad61058be4e5a623b8fb0723]
+## 44. Finance: information offences[^c-5730e2d7ad61058be4e5a623b8fb0723]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5730e2d7ad61058be4e5a623b8fb0723]: Commencement: Reg. 44 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
+[^c-5730e2d7ad61058be4e5a623b8fb0723]: Commencement: Reg. 44 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)

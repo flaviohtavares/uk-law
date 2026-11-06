@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Variation of warranty[^key-2a4a062c78056b748c8d73e39b1a1d55]
+## 76. Variation of warranty[^c-2a4a062c78056b748c8d73e39b1a1d55]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a4a062c78056b748c8d73e39b1a1d55]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2012/5/section/76) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-2a4a062c78056b748c8d73e39b1a1d55]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2012/5/section/76) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

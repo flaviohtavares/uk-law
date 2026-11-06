@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 211. Decisions to issue warrants to be taken personally by Secretary of State[^key-460d69c0625f6e53592acf5a434af542]
+## 211. Decisions to issue warrants to be taken personally by Secretary of State[^c-460d69c0625f6e53592acf5a434af542]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-460d69c0625f6e53592acf5a434af542]: Commencement: [S. 211](https://www.legislation.gov.uk/ukpga/2016/25/section/211) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/r)
+[^c-460d69c0625f6e53592acf5a434af542]: Commencement: [S. 211](https://www.legislation.gov.uk/ukpga/2016/25/section/211) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/r)

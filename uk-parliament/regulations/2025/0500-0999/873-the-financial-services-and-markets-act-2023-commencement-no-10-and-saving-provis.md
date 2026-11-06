@@ -37,20 +37,20 @@ Made
 
 The Treasury make these Regulations in exercise of the powers conferred by section 86(3) to (6) of the Financial Services and Markets Act 2023[^f00001].
 
-## 1. Citation and interpretation[^key-462e992ea71a2880218085dad3aa0db4]
+## 1. Citation and interpretation[^c-462e992ea71a2880218085dad3aa0db4]
 
 (1) These Regulations may be cited as the Financial Services and Markets Act 2023 (Commencement No. 10 and Saving Provisions) Regulations 2025.
 
 (2) In these Regulations, “**the Capital Requirements Regulation**” has the meaning given in regulation 4(b).
 
-## 2. Provisions coming into force on 15th July 2025[^key-1bd01c10b654aa9f2d57f07b56f25701]
+## 2. Provisions coming into force on 15th July 2025[^c-1bd01c10b654aa9f2d57f07b56f25701]
 
 The following provision of the Financial Services and Markets Act 2023 come into force on 15th July 2025—
 
 - (a) section 1(1) (revocation of assimilated law relating to financial services and markets), so far as it relates to the provision in paragraph (b) of this regulation;
 - (b) in Part 1 (assimilated direct principal legislation) of Schedule 1 (revocation of assimilated law relating to financial services), the revocation of [Regulation (EU) 2020/852](https://www.legislation.gov.uk/european/regulation/2020/0852) of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to facilitate sustainable investment.
 
-## 3. Provisions coming into force on 28th November 2025[^key-3dee4b56b4a47ed53e21a14ec4009e3d]
+## 3. Provisions coming into force on 28th November 2025[^c-3dee4b56b4a47ed53e21a14ec4009e3d]
 
 The following provisions of the Financial Services and Markets Act 2023 come into force on 28th November 2025—
 
@@ -59,7 +59,7 @@ The following provisions of the Financial Services and Markets Act 2023 come int
   - (i) the Equivalence Determinations for Financial Services and Miscellaneous Provisions (Amendment etc) (EU Exit) Regulations 2019[^f00002];
   - (ii) the Equivalence Determinations for Financial Services (Amendment etc.) (EU Exit) Regulations 2020[^f00003].
 
-## 4. Provisions coming into force on 1st January 2026[^key-9514f4dec7bcbd91890fb9d82e0966ce]
+## 4. Provisions coming into force on 1st January 2026[^c-9514f4dec7bcbd91890fb9d82e0966ce]
 
 The following provisions of the Financial Services and Markets Act 2023 come into force on 1st January 2026—
 
@@ -94,7 +94,7 @@ The following provisions of the Financial Services and Markets Act 2023 come int
   - (ii) Commission Implementing [Regulation (EU) 2016/1800](https://www.legislation.gov.uk/european/regulation/2016/1800) of 11 October 2016 laying down implementing technical standards with regard to the allocation of credit assessments of external credit assessment institutions to an objective scale of credit quality steps in accordance with [Directive 2009/138/EC](https://www.legislation.gov.uk/european/directive/2009/0138) of the European Parliament and of the Council[^f00021];
   - (iii) Commission Implementing [Regulation (EU) 2016/1801](https://www.legislation.gov.uk/european/regulation/2016/1801) of 11 October 2016 on laying down implementing technical standards with regard to the mapping of credit assessments of external credit assessment institutions for securitisation in accordance with [Regulation (EU) No575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council[^f00022].
 
-## 5. Saving provision relating to equivalence directions, regulatory decisions and applications[^key-c3bc59629a59b748b5e8815de7f0a329]
+## 5. Saving provision relating to equivalence directions, regulatory decisions and applications[^c-c3bc59629a59b748b5e8815de7f0a329]
 
 (1) The directions, decisions, and applications specified in paragraph (2) continue to have the same effect as they had immediately before the revocation brought into force by regulation 3.
 
@@ -104,7 +104,7 @@ The following provisions of the Financial Services and Markets Act 2023 come int
 - (b) a regulatory decision of the kind referred to in regulation 8(2) of those Regulations;
 - (c) an application of the kind referred to in regulation 8(3) of those Regulations.
 
-## 6. Saving provision for permissions granted under the Capital Requirements Regulation[^key-c60464482b85765eb5c150caba18d78f]
+## 6. Saving provision for permissions granted under the Capital Requirements Regulation[^c-c60464482b85765eb5c150caba18d78f]
 
 (1) Despite the revocations brought into force by regulation 4—
 
@@ -120,7 +120,7 @@ The following provisions of the Financial Services and Markets Act 2023 come int
 
 (2) In paragraph (1)(b), “**PRA rulebook**” means the rulebook published by the PRA containing rules made by that Authority under FSMA 2000 as it has effect on 1st January 2026.
 
-## 7. Saving for the PRA’s power to amend and revoke Commission Delegated Regulation (EU) No 523/2014[^key-b94d5d3d0670102d9470525c48d66b6e]
+## 7. Saving for the PRA’s power to amend and revoke Commission Delegated Regulation (EU) No 523/2014[^c-b94d5d3d0670102d9470525c48d66b6e]
 
 Despite its revocation brought into force by regulation 4, Article 33(4) of the Capital Requirements Regulation continues to have effect, on and after 1st January 2026, so far as is necessary to enable the PRA to amend or revoke Commission Delegated Regulation (EU) No 523/2014 of 12 March 2014 supplementing Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to regulatory technical standards for determining what constitutes the close correspondence between the value of an institution’s covered bonds and the value of the institution’s assets.
 
@@ -354,17 +354,17 @@ The following provisions of the Financial Services and Markets Act 2023 have bee
 
 [^f00001]: Footnote: [2023 c. 29](https://www.legislation.gov.uk/ukpga/2023/29).
 
-[^key-462e992ea71a2880218085dad3aa0db4]: Commencement: Reg. 1 in force at made date
+[^c-462e992ea71a2880218085dad3aa0db4]: Commencement: Reg. 1 in force at made date
 
-[^key-1bd01c10b654aa9f2d57f07b56f25701]: Commencement: Reg. 2 in force at made date
+[^c-1bd01c10b654aa9f2d57f07b56f25701]: Commencement: Reg. 2 in force at made date
 
-[^key-3dee4b56b4a47ed53e21a14ec4009e3d]: Commencement: Reg. 3 in force at made date
+[^c-3dee4b56b4a47ed53e21a14ec4009e3d]: Commencement: Reg. 3 in force at made date
 
 [^f00002]: Footnote: [S.I. 2019/541](https://www.legislation.gov.uk/uksi/2019/541).
 
 [^f00003]: Footnote: [S.I. 2020/1055](https://www.legislation.gov.uk/uksi/2020/1055).
 
-[^key-9514f4dec7bcbd91890fb9d82e0966ce]: Commencement: Reg. 4 in force at made date
+[^c-9514f4dec7bcbd91890fb9d82e0966ce]: Commencement: Reg. 4 in force at made date
 
 [^f00004]: Footnote: EUR 2013/575.
 
@@ -404,12 +404,12 @@ The following provisions of the Financial Services and Markets Act 2023 have bee
 
 [^f00022]: Footnote: EUR 2016/1801 (made under Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending [Regulation (EU) No648/2012](https://www.legislation.gov.uk/european/regulation/2012/0648)).
 
-[^key-c3bc59629a59b748b5e8815de7f0a329]: Commencement: Reg. 5 in force at made date
+[^c-c3bc59629a59b748b5e8815de7f0a329]: Commencement: Reg. 5 in force at made date
 
 [^f00023]: Footnote: As amended by [S.I. 2025/82](https://www.legislation.gov.uk/uksi/2025/82). S.I. 2020/1055 is revoked by regulation 3(b).
 
-[^key-c60464482b85765eb5c150caba18d78f]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/873/regulation/6) substituted (11.12.2025) by [The Financial Services and Markets Act 2023 (Commencement No. 10 and Saving Provisions) (Amendment) Regulations 2025 (S.I. 2025/1293)](https://www.legislation.gov.uk/uksi/2025/1293), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1293/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1293/regulation/2/2)
+[^c-c60464482b85765eb5c150caba18d78f]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/873/regulation/6) substituted (11.12.2025) by [The Financial Services and Markets Act 2023 (Commencement No. 10 and Saving Provisions) (Amendment) Regulations 2025 (S.I. 2025/1293)](https://www.legislation.gov.uk/uksi/2025/1293), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1293/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1293/regulation/2/2)
 
-[^key-b94d5d3d0670102d9470525c48d66b6e]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/873/regulation/7) inserted (11.12.2025) by [The Financial Services and Markets Act 2023 (Commencement No. 10 and Saving Provisions) (Amendment) Regulations 2025 (S.I. 2025/1293)](https://www.legislation.gov.uk/uksi/2025/1293), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1293/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/1293/regulation/2/3)
+[^c-b94d5d3d0670102d9470525c48d66b6e]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/873/regulation/7) inserted (11.12.2025) by [The Financial Services and Markets Act 2023 (Commencement No. 10 and Saving Provisions) (Amendment) Regulations 2025 (S.I. 2025/1293)](https://www.legislation.gov.uk/uksi/2025/1293), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1293/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/1293/regulation/2/3)
 
 [^f00025]: Footnote: As amended by [S.I. 2023/937](https://www.legislation.gov.uk/uksi/2023/937).

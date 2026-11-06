@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — British overseas territories[^key-ed8b8ec6aa6ff32a801ab3e05e8154d4]
+## SCHEDULE 1 — British overseas territories[^c-ed8b8ec6aa6ff32a801ab3e05e8154d4]
 
 *Extent: E+W+S+N.I.*
 
 Article 1(2)
 
-[^key-ed8b8ec6aa6ff32a801ab3e05e8154d4]
+[^c-ed8b8ec6aa6ff32a801ab3e05e8154d4]
 
 - Anguilla
 - British Antarctic Territory
@@ -39,4 +39,4 @@ Article 1(2)
 
 ## Annotations
 
-[^key-ed8b8ec6aa6ff32a801ab3e05e8154d4]: Commencement: Sch. 1 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+[^c-ed8b8ec6aa6ff32a801ab3e05e8154d4]: Commencement: Sch. 1 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)

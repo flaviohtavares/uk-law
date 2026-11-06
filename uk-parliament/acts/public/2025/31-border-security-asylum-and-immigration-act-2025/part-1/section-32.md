@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Further provision about use and disclosure of information under section 31[^key-face0d514d43bb3a5f95a483bafd396b][^key-041d2db455ed68cf354f5d98747d996e]
+## 32. Further provision about use and disclosure of information under section 31[^c-face0d514d43bb3a5f95a483bafd396b][^c-041d2db455ed68cf354f5d98747d996e]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-face0d514d43bb3a5f95a483bafd396b]: Commencement: S. 32 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-face0d514d43bb3a5f95a483bafd396b]: Commencement: S. 32 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-041d2db455ed68cf354f5d98747d996e]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2025/31/section/32) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/c)
+[^c-041d2db455ed68cf354f5d98747d996e]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2025/31/section/32) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/c)

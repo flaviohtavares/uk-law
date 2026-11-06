@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37QB. Power to amend legislation in connection with Procedure Rules[^key-ad5c789cacc6953a4105732080980220]
+## 37QB. Power to amend legislation in connection with Procedure Rules[^c-ad5c789cacc6953a4105732080980220]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad5c789cacc6953a4105732080980220]: Textual amendment: S. 37QB inserted (25.4.2024) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/24); [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(v)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/v)
+[^c-ad5c789cacc6953a4105732080980220]: Textual amendment: S. 37QB inserted (25.4.2024) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/24); [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(v)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/v)

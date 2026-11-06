@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Meetings of the committee[^key-c70cd22810e3131022b7edbc6a537915]
+## 63. Meetings of the committee[^c-c70cd22810e3131022b7edbc6a537915]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c70cd22810e3131022b7edbc6a537915]: Commencement: Rule 63 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-c70cd22810e3131022b7edbc6a537915]: Commencement: Rule 63 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

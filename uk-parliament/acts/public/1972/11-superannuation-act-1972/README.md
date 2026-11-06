@@ -31,7 +31,7 @@ Superannuation Act 1972
 
 An Act to amend the law relating to pensions and other similar benefits payable to or in respect of persons in certain employment; to provide for distribution without proof of title of certain sums due to or in respect of certain deceased persons; to abolish the Civil Service Committee for Northern Ireland; to repeal section 6 of the Appropriation Act 1957; and for purposes connected with the matters aforesaid.
 
-\[1st March 1972\][^c8516631][^c8516641][^c8516651][^key-4ae6af091536dc80b333b3f25294bef6]
+\[1st March 1972\][^c8516631][^c8516641][^c8516651][^c-4ae6af091536dc80b333b3f25294bef6]
 
 ## Contents
 
@@ -126,4 +126,4 @@ SCHEDULES
 
     Act: for any reference to the Education Assets Board there is substituted (1.10.1998) a reference to the Education Transfer Council by virtue of [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 136](https://www.legislation.gov.uk/ukpga/1998/31/section/136); [S.I. 1998/2212](https://www.legislation.gov.uk/uksi/1998/2212), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/2212/article/2/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1998/2212/schedule/1/part/I)
 
-[^key-4ae6af091536dc80b333b3f25294bef6]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1972/11) excluded (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 4(5)](https://www.legislation.gov.uk/ukpga/2010/25/section/4/5), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52) (with [s. 1](https://www.legislation.gov.uk/ukpga/2010/25/section/1)); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-4ae6af091536dc80b333b3f25294bef6]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1972/11) excluded (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 4(5)](https://www.legislation.gov.uk/ukpga/2010/25/section/4/5), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52) (with [s. 1](https://www.legislation.gov.uk/ukpga/2010/25/section/1)); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)

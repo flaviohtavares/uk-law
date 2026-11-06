@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 301. Transfer schemes: supplemental[^key-9183c81e0628a97682fd3b2b83590fbd]
+## 301. Transfer schemes: supplemental[^c-9183c81e0628a97682fd3b2b83590fbd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9183c81e0628a97682fd3b2b83590fbd]: Textual amendment: [S. 301](https://www.legislation.gov.uk/ukpga/2012/7/section/301) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 89(1)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/89/1/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-9183c81e0628a97682fd3b2b83590fbd]: Textual amendment: [S. 301](https://www.legislation.gov.uk/ukpga/2012/7/section/301) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 89(1)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/89/1/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

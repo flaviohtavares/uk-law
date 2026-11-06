@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Directions under section 143: further provision[^key-7c589b5be572d6ceb990c28305ec3757]
+## 144. Directions under section 143: further provision[^c-7c589b5be572d6ceb990c28305ec3757]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) A direction may be given to a person to cease operating, or not to start operating, any amplified noise equipment only if it appears to the constable or authorised officer giving the direction that the following condition is met.
 
-(5) The condition is that the person is operating, or is about to operate, the equipment in such a manner as to produce sound that other persons in or in the vicinity of the controlled area of Parliament Square, or the Palace of Westminster controlled area,[^key-25a4953226173164b8c0a2d402557b64] can hear or are likely to be able to hear.
+(5) The condition is that the person is operating, or is about to operate, the equipment in such a manner as to produce sound that other persons in or in the vicinity of the controlled area of Parliament Square, or the Palace of Westminster controlled area,[^c-25a4953226173164b8c0a2d402557b64] can hear or are likely to be able to hear.
 
 (6) A direction—
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7c589b5be572d6ceb990c28305ec3757]: Commencement: S. 144 in force at 19.12.2011 by [S.I. 2011/2834](https://www.legislation.gov.uk/uksi/2011/2834), [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/2834/article/2/d)
+[^c-7c589b5be572d6ceb990c28305ec3757]: Commencement: S. 144 in force at 19.12.2011 by [S.I. 2011/2834](https://www.legislation.gov.uk/uksi/2011/2834), [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/2834/article/2/d)
 
-[^key-25a4953226173164b8c0a2d402557b64]: Textual amendment: Words in s. 144(5) inserted (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 153(4)](https://www.legislation.gov.uk/ukpga/2014/12/section/153/4), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/16)
+[^c-25a4953226173164b8c0a2d402557b64]: Textual amendment: Words in s. 144(5) inserted (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 153(4)](https://www.legislation.gov.uk/ukpga/2014/12/section/153/4), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/16)

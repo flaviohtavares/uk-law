@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Lotteries and betting[^key-f06ea28d7e32b4b467d44f2ac78c33bb]
+## 18. Lotteries and betting[^c-f06ea28d7e32b4b467d44f2ac78c33bb]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f06ea28d7e32b4b467d44f2ac78c33bb]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2005/19/section/18) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))
+[^c-f06ea28d7e32b4b467d44f2ac78c33bb]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2005/19/section/18) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))

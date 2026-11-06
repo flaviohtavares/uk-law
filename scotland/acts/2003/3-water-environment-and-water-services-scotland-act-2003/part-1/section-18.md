@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Power to obtain information and documents etc.[^key-65bd590ac247505a6e0a53e751272395]
+## 18. Power to obtain information and documents etc.[^c-65bd590ac247505a6e0a53e751272395]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ is guilty of an offence.
 
 ## Annotations
 
-[^key-65bd590ac247505a6e0a53e751272395]: Commencement: S. 18 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(b)](https://www.legislation.gov.uk/ssi/2003/562/article/2/b)
+[^c-65bd590ac247505a6e0a53e751272395]: Commencement: S. 18 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(b)](https://www.legislation.gov.uk/ssi/2003/562/article/2/b)

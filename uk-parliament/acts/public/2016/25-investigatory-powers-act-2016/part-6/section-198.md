@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Chapter 3: interpretation[^key-faa0605b7582a5855a340660e05c6392]
+## 198. Chapter 3: interpretation[^c-faa0605b7582a5855a340660e05c6392]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-faa0605b7582a5855a340660e05c6392]: Commencement: [S. 198](https://www.legislation.gov.uk/ukpga/2016/25/section/198) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(s)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/s)
+[^c-faa0605b7582a5855a340660e05c6392]: Commencement: [S. 198](https://www.legislation.gov.uk/ukpga/2016/25/section/198) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(s)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/s)

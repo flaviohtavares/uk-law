@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94G. Definitions of types of vehicle[^key-69d7e1ea0086cad3ff3671c5bb07a6a8]
+## 94G. Definitions of types of vehicle[^c-69d7e1ea0086cad3ff3671c5bb07a6a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69d7e1ea0086cad3ff3671c5bb07a6a8]: Textual amendment: Pt. 2 Ch. 5A inserted (with effect in accordance with Sch. 5 para. 6 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/5/paragraph/2)
+[^c-69d7e1ea0086cad3ff3671c5bb07a6a8]: Textual amendment: Pt. 2 Ch. 5A inserted (with effect in accordance with Sch. 5 para. 6 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/5/paragraph/2)

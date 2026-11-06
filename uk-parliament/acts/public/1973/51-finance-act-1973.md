@@ -49,7 +49,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 ### 10—31. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c778214]
 
-### 32. Information as to arrangements for transferring relief, etc.[^key-a121daccc39f305ac81b722f68eead4d]
+### 32. Information as to arrangements for transferring relief, etc.[^c-a121daccc39f305ac81b722f68eead4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -57,13 +57,13 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 ### 37. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c778224]
 
-### 38. Territorial extension of charge to income tax, capital gains tax and corporation tax.[^key-89b973700f3ab61e21405373ecd12957]
+### 38. Territorial extension of charge to income tax, capital gains tax and corporation tax.[^c-89b973700f3ab61e21405373ecd12957]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 39, 40. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c778271]
 
-### 41. General Commissioners’ divisions.[^key-6ace537e6114a99878757dc569343549]
+### 41. General Commissioners’ divisions.[^c-6ace537e6114a99878757dc569343549]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -95,13 +95,13 @@ then, subject to subsection (3) of this section, the resolution shall for the pe
 
 (2) The period to be stated in a resolution is a period expressed as beginning on a date so stated and ending on, or thirty-one days or such less number of days as may be so stated after, the earliest of the dates mentioned in this subsection; and those dates are—
 
-- (a) the thirtieth[^c778282] day on which, after the day the resolution is passed, the House of Commons sits without a Bill containing provisions to the same effect as the resolution being read a second time and without a Bill being amended (whether by the House or a Committee of the House or a Public Bill Committee[^key-13b972832000c22a8073bb0274278e68]) so as to include such provisions;
+- (a) the thirtieth[^c778282] day on which, after the day the resolution is passed, the House of Commons sits without a Bill containing provisions to the same effect as the resolution being read a second time and without a Bill being amended (whether by the House or a Committee of the House or a Public Bill Committee[^c-13b972832000c22a8073bb0274278e68]) so as to include such provisions;
 - (b) the rejection of such provisions during the passage through the House of a Bill containing them;
-- (c)[^key-d44f99656949ffccf37400cab866e2a1] the dissolution of Parliament;
+- (c)[^c-d44f99656949ffccf37400cab866e2a1] the dissolution of Parliament;
 - (ca) the prorogation of Parliament in a case where subsection (2B) does not apply; and
-- (d) the expiration of the period of seven[^key-a352707884f6d4942f7ae326807b4f3d] months beginning with the day on which the resolution takes effect.
+- (d) the expiration of the period of seven[^c-a352707884f6d4942f7ae326807b4f3d] months beginning with the day on which the resolution takes effect.
 
-(2A)[^key-31747e95232d0c50fd0306d1a38e88ba] Subsection (2B) applies where Parliament is prorogued at the end of a session if—
+(2A)[^c-31747e95232d0c50fd0306d1a38e88ba] Subsection (2B) applies where Parliament is prorogued at the end of a session if—
 
 - (a) during the session a Bill containing provisions to the same effect as the resolution is read a second time by the House or a Bill is amended (whether by the House or a Committee of the House or a Public Bill Committee) so as to include such provisions,
 - (b) the Standing Orders or Sessional Orders of the House provide, or during the session the House orders, that proceedings on the Bill not completed before the end of the session shall be resumed in the next session, and
@@ -137,15 +137,15 @@ and those enactments shall have effect subject to the amendments specified in Sc
 
 ### 55. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c778290]
 
-### 56. Charges for services, etc., by Government departments.[^c778291][^c778292][^key-076035f9b0ba50f299301e95f71cc10b]
+### 56. Charges for services, etc., by Government departments.[^c778291][^c778292][^c-076035f9b0ba50f299301e95f71cc10b]
 
-(1) Where a Government department, in pursuance of [^key-8a2403123d9479f213f195eb3340a777]... any international agreement or arrangement, provides any services or facilities or issues any authorisation, certificate or other document, it may, in connection therewith, require the payment of such fees or other charges as may be prescribed by, or determined under, regulations made by the Minister in charge of the department with the consent of the Treasury.
+(1) Where a Government department, in pursuance of [^c-8a2403123d9479f213f195eb3340a777]... any international agreement or arrangement, provides any services or facilities or issues any authorisation, certificate or other document, it may, in connection therewith, require the payment of such fees or other charges as may be prescribed by, or determined under, regulations made by the Minister in charge of the department with the consent of the Treasury.
 
 (2) Regulations under this section may provide for the recovery and disposal of any sums payable under the regulations and make different provision for different circumstances.
 
 (3) The powers conferred by this section are without prejudice to any powers exercisable apart from this section to require the payment of fees or other charges.
 
-(4)[^c778293][^key-69355e05926099cf99b9450d035c981a] Regulations under this section shall be made by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+(4)[^c778293][^c-69355e05926099cf99b9450d035c981a] Regulations under this section shall be made by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
 (5) In this section “**Government department**” includes a department of the Government of Northern Ireland, and any regulations which the Minister in charge of such a department is empowered to make under this section may be made either by him or by the department, and with the consent of the Department of Finance[^c778294] for Northern Ireland instead of the Treasury; and in relation to regulations so made subsection (4) of this section shall not apply but they shall be subject to negative resolution, within the meaning of section 41(6) of the [^c778295]Interpretation Act (Northern Ireland) 1954, as if they were a statutory instrument within the meaning of that Act.
 
@@ -194,113 +194,113 @@ SCHEDULES
 
 ## SCHEDULES 8—14. — . . .[^c778308]
 
-## SCHEDULE 15 — TERRITORIAL EXTENSION OF CHARGE TO TAX—SUPPLEMENTARY PROVISIONS[^key-7f92a78934534248de96798fff63a7dd]
+## SCHEDULE 15 — TERRITORIAL EXTENSION OF CHARGE TO TAX—SUPPLEMENTARY PROVISIONS[^c-7f92a78934534248de96798fff63a7dd]
 
 Section 38.
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Information[^key-7f92a78934534248de96798fff63a7dd]
-
-**No longer in force.**
-
-**2.**[^key-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Collection[^key-7f92a78934534248de96798fff63a7dd]
+### Information[^c-7f92a78934534248de96798fff63a7dd]
 
 **No longer in force.**
 
-**4.**[^key-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4A.**[^key-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Collection[^c-7f92a78934534248de96798fff63a7dd]
 
-**6.**[^key-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**No longer in force.**
 
-**7.**[^key-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7A.**[^key-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4A.**[^c-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8A.**[^key-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7A.**[^c-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8A.**[^c-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-7f92a78934534248de96798fff63a7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 16 — . . .[^c778345]
 
-## SCHEDULE 16A — UNDERWRITERS ASSESSMENT AND COLLECTION OF TAX[^key-d9796a7480a31c73b337d85183769bf4]
+## SCHEDULE 16A — UNDERWRITERS ASSESSMENT AND COLLECTION OF TAX[^c-d9796a7480a31c73b337d85183769bf4]
 
-### Preliminary[^key-d9796a7480a31c73b337d85183769bf4]
-
-**No longer in force.**
-
-**1.**[^key-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Returns by agent[^key-d9796a7480a31c73b337d85183769bf4]
+### Preliminary[^c-d9796a7480a31c73b337d85183769bf4]
 
 **No longer in force.**
 
-**2.**[^key-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Payments on account of tax[^key-d9796a7480a31c73b337d85183769bf4]
-
-**No longer in force.**
-
-**3.**[^key-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Determinations by inspector[^key-d9796a7480a31c73b337d85183769bf4]
+### Returns by agent[^c-d9796a7480a31c73b337d85183769bf4]
 
 **No longer in force.**
 
-**4.**[^key-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Appeals[^key-d9796a7480a31c73b337d85183769bf4]
-
-**No longer in force.**
-
-**5.**[^key-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Modification of determinations pending appeal[^key-d9796a7480a31c73b337d85183769bf4]
+### Payments on account of tax[^c-d9796a7480a31c73b337d85183769bf4]
 
 **No longer in force.**
 
-**6.**[^key-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Apportionments of syndicate profit or loss[^key-d9796a7480a31c73b337d85183769bf4]
-
-**No longer in force.**
-
-**7.**[^key-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Individual members: effect of determinations[^key-d9796a7480a31c73b337d85183769bf4]
+### Determinations by inspector[^c-d9796a7480a31c73b337d85183769bf4]
 
 **No longer in force.**
 
-**8.**[^key-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Assessment of individual members: time limits[^key-d9796a7480a31c73b337d85183769bf4]
-
-**No longer in force.**
-
-**9.**[^key-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Suppleptiental: penalties[^key-d9796a7480a31c73b337d85183769bf4]
+### Appeals[^c-d9796a7480a31c73b337d85183769bf4]
 
 **No longer in force.**
 
-**10.**[^key-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Supplemental: interest[^key-d9796a7480a31c73b337d85183769bf4]
+### Modification of determinations pending appeal[^c-d9796a7480a31c73b337d85183769bf4]
 
 **No longer in force.**
 
-**11.**[^key-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Apportionments of syndicate profit or loss[^c-d9796a7480a31c73b337d85183769bf4]
+
+**No longer in force.**
+
+**7.**[^c-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Individual members: effect of determinations[^c-d9796a7480a31c73b337d85183769bf4]
+
+**No longer in force.**
+
+**8.**[^c-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Assessment of individual members: time limits[^c-d9796a7480a31c73b337d85183769bf4]
+
+**No longer in force.**
+
+**9.**[^c-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Suppleptiental: penalties[^c-d9796a7480a31c73b337d85183769bf4]
+
+**No longer in force.**
+
+**10.**[^c-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Supplemental: interest[^c-d9796a7480a31c73b337d85183769bf4]
+
+**No longer in force.**
+
+**11.**[^c-d9796a7480a31c73b337d85183769bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 17 — . . .[^c778354]
 
@@ -483,17 +483,17 @@ These repeals have effect for the year 1973-74 and subsequent years of assessmen
 
 [^c778214]: Textual amendment: [Ss. 10–31](https://www.legislation.gov.uk/ukpga/1973/51/section/10) repealed by [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 844](https://www.legislation.gov.uk/ukpga/1988/1/section/844), [Sch. 31](https://www.legislation.gov.uk/ukpga/1988/1/schedule/31)
 
-[^key-a121daccc39f305ac81b722f68eead4d]: Textual amendment: [S. 32](https://www.legislation.gov.uk/ukpga/1973/51/section/32) omitted (13.8.2009) by virtue of [Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/10)
+[^c-a121daccc39f305ac81b722f68eead4d]: Textual amendment: [S. 32](https://www.legislation.gov.uk/ukpga/1973/51/section/32) omitted (13.8.2009) by virtue of [Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/10)
 
 [^c778223]: Textual amendment: [Ss. 33–36](https://www.legislation.gov.uk/ukpga/1973/51/section/33) repealed by [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 844](https://www.legislation.gov.uk/ukpga/1988/1/section/844), [Sch. 31](https://www.legislation.gov.uk/ukpga/1988/1/schedule/31)
 
 [^c778224]: Textual amendment: [S. 37](https://www.legislation.gov.uk/ukpga/1973/51/section/37) repealed by [Capital Gains Tax Act 1979 (c. 14, SIF 63:2)](https://www.legislation.gov.uk/ukpga/1979/14), [s. 158](https://www.legislation.gov.uk/ukpga/1979/14/section/158), [Sch. 8](https://www.legislation.gov.uk/ukpga/1979/14/schedule/8)
 
-[^key-89b973700f3ab61e21405373ecd12957]: Textual amendment: S. 38 repealed (1.4.2010 with effect in accordance with s. 381(1)) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/7), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-89b973700f3ab61e21405373ecd12957]: Textual amendment: S. 38 repealed (1.4.2010 with effect in accordance with s. 381(1)) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/7), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
 [^c778271]: Textual amendment: [Ss. 39](https://www.legislation.gov.uk/ukpga/1973/51/section/39), [40](https://www.legislation.gov.uk/ukpga/1973/51/section/40) repealed by [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 844](https://www.legislation.gov.uk/ukpga/1988/1/section/844), [Sch. 31](https://www.legislation.gov.uk/ukpga/1988/1/schedule/31)
 
-[^key-6ace537e6114a99878757dc569343549]: Textual amendment: [S. 41](https://www.legislation.gov.uk/ukpga/1973/51/section/41) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 65](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/65)
+[^c-6ace537e6114a99878757dc569343549]: Textual amendment: [S. 41](https://www.legislation.gov.uk/ukpga/1973/51/section/41) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 65](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/65)
 
 [^c778272]: Textual amendment: [S. 42](https://www.legislation.gov.uk/ukpga/1973/51/section/42) repealed by [Finance Act 1976 (c. 40)](https://www.legislation.gov.uk/ukpga/1976/40), [s. 49(2)(b)](https://www.legislation.gov.uk/ukpga/1976/40/section/49/2/b), [Sch. 15 Pt. III](https://www.legislation.gov.uk/ukpga/1976/40/schedule/15/part/III)
 
@@ -513,13 +513,13 @@ These repeals have effect for the year 1973-74 and subsequent years of assessmen
 
 [^c778282]: Textual amendment: Word in s. 50(2)(a) substituted (27.7.1993 with application in relation to resolutions passed after that day) by [1993 c. 34](https://www.legislation.gov.uk/ukpga/1993/34), [s. 207(1)(a)(2)](https://www.legislation.gov.uk/ukpga/1993/34/section/207/1/a/2).
 
-[^key-13b972832000c22a8073bb0274278e68]: Textual amendment: Words in s. 50(2)(a) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 112(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/112/2)
+[^c-13b972832000c22a8073bb0274278e68]: Textual amendment: Words in s. 50(2)(a) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 112(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/112/2)
 
-[^key-d44f99656949ffccf37400cab866e2a1]: Textual amendment: [S. 50(2)(c)](https://www.legislation.gov.uk/ukpga/1973/51/section/50/2/c)[(ca)](https://www.legislation.gov.uk/ukpga/1973/51/section/50/2/ca) substituted for [s. 50(2)(c)](https://www.legislation.gov.uk/ukpga/1973/51/section/50/2/c) (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 116(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/116/2)
+[^c-d44f99656949ffccf37400cab866e2a1]: Textual amendment: [S. 50(2)(c)](https://www.legislation.gov.uk/ukpga/1973/51/section/50/2/c)[(ca)](https://www.legislation.gov.uk/ukpga/1973/51/section/50/2/ca) substituted for [s. 50(2)(c)](https://www.legislation.gov.uk/ukpga/1973/51/section/50/2/c) (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 116(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/116/2)
 
-[^key-a352707884f6d4942f7ae326807b4f3d]: Textual amendment: Word in [s. 50(2)(d)](https://www.legislation.gov.uk/ukpga/1973/51/section/50/2/d) substituted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 116(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/116/3)
+[^c-a352707884f6d4942f7ae326807b4f3d]: Textual amendment: Word in [s. 50(2)(d)](https://www.legislation.gov.uk/ukpga/1973/51/section/50/2/d) substituted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 116(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/116/3)
 
-[^key-31747e95232d0c50fd0306d1a38e88ba]: Textual amendment: [S. 50(2A)-(2D)](https://www.legislation.gov.uk/ukpga/1973/51/section/50/2A) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 116(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/116/4)
+[^c-31747e95232d0c50fd0306d1a38e88ba]: Textual amendment: [S. 50(2A)-(2D)](https://www.legislation.gov.uk/ukpga/1973/51/section/50/2A) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 116(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/116/4)
 
 [^c778284]: Textual amendment: [S. 51](https://www.legislation.gov.uk/ukpga/1973/51/section/51) repealed by [Capital Gains Tax Act 1979 (c. 14)](https://www.legislation.gov.uk/ukpga/1979/14), [s. 158](https://www.legislation.gov.uk/ukpga/1979/14/section/158), [Sch. 8](https://www.legislation.gov.uk/ukpga/1979/14/schedule/8)
 
@@ -537,13 +537,13 @@ These repeals have effect for the year 1973-74 and subsequent years of assessmen
 
 [^c778292]: Modification: S. 56 extended (1.12.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1998/38/section/29/4) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2789](https://www.legislation.gov.uk/uksi/1998/2789), [art. 2](https://www.legislation.gov.uk/uksi/1998/2789/article/2)
 
-[^key-076035f9b0ba50f299301e95f71cc10b]: Modification: S. 56 extended by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), s. 59(5) (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
+[^c-076035f9b0ba50f299301e95f71cc10b]: Modification: S. 56 extended by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), s. 59(5) (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
 
-[^key-8a2403123d9479f213f195eb3340a777]: Textual amendment: Word in [s. 56(1)](https://www.legislation.gov.uk/ukpga/1973/51/section/56/1) omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/17) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/n) (with [reg. 22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
+[^c-8a2403123d9479f213f195eb3340a777]: Textual amendment: Word in [s. 56(1)](https://www.legislation.gov.uk/ukpga/1973/51/section/56/1) omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/17) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/n) (with [reg. 22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
 
 [^c778293]: Modification: S. 56(4) restricted (1.12.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 29(5)](https://www.legislation.gov.uk/ukpga/1998/38/section/29/5) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2789](https://www.legislation.gov.uk/uksi/1998/2789), [art. 2](https://www.legislation.gov.uk/uksi/1998/2789/article/2)
 
-[^key-69355e05926099cf99b9450d035c981a]: Modification: S. 56(4) restricted by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), s. 59(7) (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
+[^c-69355e05926099cf99b9450d035c981a]: Modification: S. 56(4) restricted by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), s. 59(7) (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
 
 [^c778294]: Textual amendment: Words substituted by virtue of [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [Sch. 5 para. 8(1)](https://www.legislation.gov.uk/ukpga/1973/36/schedule/5/paragraph/8/1)
 
@@ -575,11 +575,11 @@ These repeals have effect for the year 1973-74 and subsequent years of assessmen
 
 [^c778308]: Textual amendment: [Schs. 8–14](https://www.legislation.gov.uk/ukpga/1973/51/schedule/8) repealed (with savings) by [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 844](https://www.legislation.gov.uk/ukpga/1988/1/section/844), [Sch. 31](https://www.legislation.gov.uk/ukpga/1988/1/schedule/31)
 
-[^key-7f92a78934534248de96798fff63a7dd]: Textual amendment: Sch. 15 repealed (1.4.2010 with effect in accordance with s. 381(1)) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/8), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-7f92a78934534248de96798fff63a7dd]: Textual amendment: Sch. 15 repealed (1.4.2010 with effect in accordance with s. 381(1)) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/8), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
 [^c778345]: Textual amendment: [Sch. 16](https://www.legislation.gov.uk/ukpga/1973/51/schedule/16) repealed (with savings) by [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 844](https://www.legislation.gov.uk/ukpga/1988/1/section/844), [Sch. 31](https://www.legislation.gov.uk/ukpga/1988/1/schedule/31); see [Finance Act 1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), [ss. 58](https://www.legislation.gov.uk/ukpga/1988/39/section/58), [59](https://www.legislation.gov.uk/ukpga/1988/39/section/59), [Sch. 14 Pt. IV](https://www.legislation.gov.uk/ukpga/1988/39/schedule/14/part/IV) for amendments to Sch. 16 for years 1985-6 to 1987-88 and s. 61 for amendment to Sch. 16 para. 17(1)(a) for 1986-87 and 1987-88)
 
-[^key-d9796a7480a31c73b337d85183769bf4]: Textual amendment: [Sch. 16A](https://www.legislation.gov.uk/ukpga/1973/51/schedule/16A) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-d9796a7480a31c73b337d85183769bf4]: Textual amendment: [Sch. 16A](https://www.legislation.gov.uk/ukpga/1973/51/schedule/16A) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
 [^c778354]: Textual amendment: [Sch. 17](https://www.legislation.gov.uk/ukpga/1973/51/schedule/17) repealed by [Finance Act 1976 (c. 40)](https://www.legislation.gov.uk/ukpga/1976/40), [s. 49(2)](https://www.legislation.gov.uk/ukpga/1976/40/section/49/2), [Sch. 15 Pt. III](https://www.legislation.gov.uk/ukpga/1976/40/schedule/15/part/III) (for 1977-78 et seq. as respects remuneration and certain pensions, see [s. 49(7)](https://www.legislation.gov.uk/ukpga/1976/40/section/49/7))
 

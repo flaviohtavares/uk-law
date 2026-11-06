@@ -35,150 +35,150 @@ of 20 September 2005
 
 establishing the European Police College (CEPOL) and repealing Decision 2000/820/JHA (repealed) (revoked)
 
-[^key-96646cfd30a7955d83edbe84c4012a95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-96646cfd30a7955d83edbe84c4012a95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER I — ESTABLISHMENT, LEGAL PERSONALITY AND SEAT[^key-96646cfd30a7955d83edbe84c4012a95]
+## CHAPTER I — ESTABLISHMENT, LEGAL PERSONALITY AND SEAT[^c-96646cfd30a7955d83edbe84c4012a95]
 
-### Article 1. Establishment[^key-96646cfd30a7955d83edbe84c4012a95]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Legal personality[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 1. Establishment[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Privileges and Immunities[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 2. Legal personality[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Seat[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 3. Privileges and Immunities[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — PURPOSE, OBJECTIVES AND TASKS[^key-96646cfd30a7955d83edbe84c4012a95]
-
-### Article 5. Purpose[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 4. Seat[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Objectives[^key-96646cfd30a7955d83edbe84c4012a95]
+## CHAPTER II — PURPOSE, OBJECTIVES AND TASKS[^c-96646cfd30a7955d83edbe84c4012a95]
+
+### Article 5. Purpose[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Tasks[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 6. Objectives[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Cooperation with other bodies[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 7. Tasks[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — ORGANS, STAFF AND CONTACT POINTS[^key-96646cfd30a7955d83edbe84c4012a95]
-
-### Article 9. Organs[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 8. Cooperation with other bodies[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. The Governing Board[^key-96646cfd30a7955d83edbe84c4012a95]
+## CHAPTER III — ORGANS, STAFF AND CONTACT POINTS[^c-96646cfd30a7955d83edbe84c4012a95]
+
+### Article 9. Organs[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. The Director[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 10. The Governing Board[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 12. The CEPOL Secretariat[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 11. The Director[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 13. Staff of the CEPOL Secretariat[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 12. The CEPOL Secretariat[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 14. Contact points[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 13. Staff of the CEPOL Secretariat[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — FINANCIAL REQUIREMENTS[^key-96646cfd30a7955d83edbe84c4012a95]
-
-### Article 15. Budget[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 14. Contact points[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 16. Implementation and control of the budget[^key-96646cfd30a7955d83edbe84c4012a95]
+## CHAPTER IV — FINANCIAL REQUIREMENTS[^c-96646cfd30a7955d83edbe84c4012a95]
+
+### Article 15. Budget[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 17. Financial provision[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 16. Implementation and control of the budget[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 18. Combating fraud[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 17. Financial provision[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER V — MISCELLANEOUS PROVISIONS[^key-96646cfd30a7955d83edbe84c4012a95]
-
-### Article 19. Languages[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 18. Combating fraud[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 20. Access to documents[^key-96646cfd30a7955d83edbe84c4012a95]
+## CHAPTER V — MISCELLANEOUS PROVISIONS[^c-96646cfd30a7955d83edbe84c4012a95]
+
+### Article 19. Languages[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 21. Evaluation[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 20. Access to documents[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 21a. Review[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 21. Evaluation[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 22. Decisions by the Council[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 21a. Review[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER VI — TRANSITIONAL PROVISIONS[^key-96646cfd30a7955d83edbe84c4012a95]
-
-### Article 23. General legal succession[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 22. Decisions by the Council[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 24. The Director and Staff[^key-96646cfd30a7955d83edbe84c4012a95]
+## CHAPTER VI — TRANSITIONAL PROVISIONS[^c-96646cfd30a7955d83edbe84c4012a95]
+
+### Article 23. General legal succession[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 25. Budget[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 24. The Director and Staff[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 26. Work programme and annual report[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 25. Budget[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 27. Institutional arrangements[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 26. Work programme and annual report[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 28. Measures to be prepared before entry into force[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 27. Institutional arrangements[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER VII — FINAL PROVISIONS[^key-96646cfd30a7955d83edbe84c4012a95]
-
-### Article 29. Repeal[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 28. Measures to be prepared before entry into force[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 30. Taking of effect[^key-96646cfd30a7955d83edbe84c4012a95]
+## CHAPTER VII — FINAL PROVISIONS[^c-96646cfd30a7955d83edbe84c4012a95]
+
+### Article 29. Repeal[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 31. Publication[^key-96646cfd30a7955d83edbe84c4012a95]
+### Article 30. Taking of effect[^c-96646cfd30a7955d83edbe84c4012a95]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 31. Publication[^c-96646cfd30a7955d83edbe84c4012a95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-96646cfd30a7955d83edbe84c4012a95]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [24](https://www.legislation.gov.uk/uksi/2019/742/regulation/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-96646cfd30a7955d83edbe84c4012a95]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [24](https://www.legislation.gov.uk/uksi/2019/742/regulation/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

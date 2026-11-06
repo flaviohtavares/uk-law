@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4A — Basic Principles and Parameters of Contractual Agreements between Competent Authorities and Infrastructure Managers[^key-37baffa9de61263565d91d910155d19e]
+## SCHEDULE 4A — Basic Principles and Parameters of Contractual Agreements between Competent Authorities and Infrastructure Managers[^c-37baffa9de61263565d91d910155d19e]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ Regulation 15
 
 ## Annotations
 
-[^key-37baffa9de61263565d91d910155d19e]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/uksi/2016/645/schedule/4A) inserted (31.12.2020) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2019/518/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-37baffa9de61263565d91d910155d19e]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/uksi/2016/645/schedule/4A) inserted (31.12.2020) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2019/518/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

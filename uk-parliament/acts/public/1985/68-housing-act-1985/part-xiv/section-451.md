@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 451. Local loans made by the Treasury.[^key-e8f76e2d13b000fc6b15a12f7c3e301c]
+## 451. Local loans made by the Treasury.[^c-e8f76e2d13b000fc6b15a12f7c3e301c]
 
 *Extent: E+W*
 
-(1) The Treasury[^key-766fdda12f0f3e445ef8d649cd13a59b] may lend money for the purpose of constructing or improving houses, or facilitating or encouraging the construction or improvement of houses, to any person entitled to land for an estate in fee simple absolute in possession or for a term of years absolute of which not less than 50 years remains unexpired.
+(1) The Treasury[^c-766fdda12f0f3e445ef8d649cd13a59b] may lend money for the purpose of constructing or improving houses, or facilitating or encouraging the construction or improvement of houses, to any person entitled to land for an estate in fee simple absolute in possession or for a term of years absolute of which not less than 50 years remains unexpired.
 
-(1A)[^key-993c3438d882df28ac01d46b01fa1421] Any loan made under subsection (1) is a local loan for the purposes of section 3 of the National Loans Act 1968 (see Schedule 4 to that Act).
+(1A)[^c-993c3438d882df28ac01d46b01fa1421] Any loan made under subsection (1) is a local loan for the purposes of section 3 of the National Loans Act 1968 (see Schedule 4 to that Act).
 
 (2) A loan for any of those purposes, and interest on the loan, shall be secured by a mortgage of—
 
@@ -41,10 +41,10 @@ and the money lent shall not exceed three-quarters of the value, to be ascertain
 
 ## Annotations
 
-[^key-e8f76e2d13b000fc6b15a12f7c3e301c]: Textual amendment: S. 451 heading substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 70(2)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/70/2) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-e8f76e2d13b000fc6b15a12f7c3e301c]: Textual amendment: S. 451 heading substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 70(2)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/70/2) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
-[^key-766fdda12f0f3e445ef8d649cd13a59b]: Textual amendment: Word in s. 451 substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 70(3)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/70/3) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-766fdda12f0f3e445ef8d649cd13a59b]: Textual amendment: Word in s. 451 substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 70(3)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/70/3) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
-[^key-993c3438d882df28ac01d46b01fa1421]: Textual amendment: S. 451(1A) inserted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 70(4)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/70/4) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-993c3438d882df28ac01d46b01fa1421]: Textual amendment: S. 451(1A) inserted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 70(4)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/70/4) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
 [^c15079051]: Textual amendment: Words in s. 451(6) substituted (1.10.1996) by [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325), [art. 5(1)](https://www.legislation.gov.uk/uksi/1996/2325/article/5/1), [Sch. 2 para. 14(24)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/14/24)

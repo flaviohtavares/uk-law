@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Relationships linked to the value of chargeable assets.[^key-8aa82d2ed8fb1d8b276a703710533545]
+## 93. Relationships linked to the value of chargeable assets.[^c-8aa82d2ed8fb1d8b276a703710533545]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8aa82d2ed8fb1d8b276a703710533545]: Textual amendment: S. 93 repealed (with effect in accordance with s. 52(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2004/12/schedule/10/paragraph/11), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)
+[^c-8aa82d2ed8fb1d8b276a703710533545]: Textual amendment: S. 93 repealed (with effect in accordance with s. 52(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2004/12/schedule/10/paragraph/11), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)

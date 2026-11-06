@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Power of enforcing authority to give information notice[^key-5690ef76cb8d9f0c93406119a755662a]
+## 95. Power of enforcing authority to give information notice[^c-5690ef76cb8d9f0c93406119a755662a]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5690ef76cb8d9f0c93406119a755662a]: Commencement: S. 95 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-5690ef76cb8d9f0c93406119a755662a]: Commencement: S. 95 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 211. Restriction of right to appeal against Commissioners' approval[^key-1d82a8eb1dff998db57017b4717032bb]
+## 211. Restriction of right to appeal against Commissioners' approval[^c-1d82a8eb1dff998db57017b4717032bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d82a8eb1dff998db57017b4717032bb]: Textual amendment: [Ss. 208-211](https://www.legislation.gov.uk/ukpga/2010/8/section/208) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 para. 20(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/20/1) (with [Sch. 6 para. 20(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/20/2))
+[^c-1d82a8eb1dff998db57017b4717032bb]: Textual amendment: [Ss. 208-211](https://www.legislation.gov.uk/ukpga/2010/8/section/208) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 para. 20(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/20/1) (with [Sch. 6 para. 20(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/20/2))

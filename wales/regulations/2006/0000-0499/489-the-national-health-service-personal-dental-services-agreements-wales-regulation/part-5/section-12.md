@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Agreements: general[^key-eb23fca4ef4d5c6e4948394a9443f74d]
+## 12. Agreements: general[^c-eb23fca4ef4d5c6e4948394a9443f74d]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb23fca4ef4d5c6e4948394a9443f74d]: Commencement: Reg. 12 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-eb23fca4ef4d5c6e4948394a9443f74d]: Commencement: Reg. 12 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)

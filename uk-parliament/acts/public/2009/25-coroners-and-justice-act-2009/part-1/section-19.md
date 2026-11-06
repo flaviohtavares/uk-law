@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Medical examiners : supplementary[^key-15652aeed754dbe138254f7105392fc2][^key-b27314cec69007682701dbb6619b4203]
+## 19. Medical examiners : supplementary[^c-15652aeed754dbe138254f7105392fc2][^c-b27314cec69007682701dbb6619b4203]
 
 *Extent: E+W*
 
-(1)[^key-75b2bb8ca2a5744f75c4c380f5db4042] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-75b2bb8ca2a5744f75c4c380f5db4042] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-ceaeac3b08e6e3c90d4438b52a15e71b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ceaeac3b08e6e3c90d4438b52a15e71b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) A person may be appointed as a medical examiner only if, at the time of the appointment, he or she—
 
@@ -40,7 +40,7 @@ summary: ''
 - (e) provision conferring functions on medical examiners;
 - (f) provision for functions of medical examiners to be exercised, during a period of emergency, by persons not meeting the criteria in subsection (3).
 
-(5) Nothing in section[^key-35378f9a88e8046d384005a3e4db9768] 18A or 18B or this section, or in regulations under this section, gives an English NHS body (as defined by section[^key-c8707558c7ac6091721b9d6250490d0c] 18A) or a Welsh NHS body (as defined by section 18B) any role in relation to the way in which medical examiners exercise their professional judgment as medical practitioners.
+(5) Nothing in section[^c-35378f9a88e8046d384005a3e4db9768] 18A or 18B or this section, or in regulations under this section, gives an English NHS body (as defined by section[^c-c8707558c7ac6091721b9d6250490d0c] 18A) or a Welsh NHS body (as defined by section 18B) any role in relation to the way in which medical examiners exercise their professional judgment as medical practitioners.
 
 (6) In this section “**the appropriate Minister**” means—
 
@@ -58,14 +58,14 @@ summary: ''
 
 ## Annotations
 
-[^key-15652aeed754dbe138254f7105392fc2]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2009/25/section/19) in force at 1.10.2023 by [S.I. 2023/1036](https://www.legislation.gov.uk/uksi/2023/1036), [art. 2(a)](https://www.legislation.gov.uk/uksi/2023/1036/article/2/a)
+[^c-15652aeed754dbe138254f7105392fc2]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2009/25/section/19) in force at 1.10.2023 by [S.I. 2023/1036](https://www.legislation.gov.uk/uksi/2023/1036), [art. 2(a)](https://www.legislation.gov.uk/uksi/2023/1036/article/2/a)
 
-[^key-b27314cec69007682701dbb6619b4203]: Textual amendment: Words in [s. 19](https://www.legislation.gov.uk/ukpga/2009/25/section/19) heading inserted (1.10.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 169(2)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/169/2/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/b)
+[^c-b27314cec69007682701dbb6619b4203]: Textual amendment: Words in [s. 19](https://www.legislation.gov.uk/ukpga/2009/25/section/19) heading inserted (1.10.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 169(2)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/169/2/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/b)
 
-[^key-75b2bb8ca2a5744f75c4c380f5db4042]: Textual amendment: [S. 19(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/19/1) omitted (1.10.2023) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 169(2)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/169/2/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/b)
+[^c-75b2bb8ca2a5744f75c4c380f5db4042]: Textual amendment: [S. 19(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/19/1) omitted (1.10.2023) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 169(2)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/169/2/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/b)
 
-[^key-ceaeac3b08e6e3c90d4438b52a15e71b]: Textual amendment: [S. 19(2)](https://www.legislation.gov.uk/ukpga/2009/25/section/19/2) omitted (1.10.2023) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 169(2)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/169/2/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/b)
+[^c-ceaeac3b08e6e3c90d4438b52a15e71b]: Textual amendment: [S. 19(2)](https://www.legislation.gov.uk/ukpga/2009/25/section/19/2) omitted (1.10.2023) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 169(2)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/169/2/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/b)
 
-[^key-35378f9a88e8046d384005a3e4db9768]: Textual amendment: Words in [s. 19(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/19/5) inserted (1.10.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 169(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2022/31/section/169/2/c/i), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/b)
+[^c-35378f9a88e8046d384005a3e4db9768]: Textual amendment: Words in [s. 19(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/19/5) inserted (1.10.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 169(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2022/31/section/169/2/c/i), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/b)
 
-[^key-c8707558c7ac6091721b9d6250490d0c]: Textual amendment: Words in [s. 19(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/19/5) substituted (1.10.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 169(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2022/31/section/169/2/c/ii), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/b)
+[^c-c8707558c7ac6091721b9d6250490d0c]: Textual amendment: Words in [s. 19(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/19/5) substituted (1.10.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 169(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2022/31/section/169/2/c/ii), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/b)

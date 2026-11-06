@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Investigations commenced before sections 3, 4, 43 and 44 come into force[^key-7cc6155513eb451fab28f33ea63dec1b]
+## 74. Investigations commenced before sections 3, 4, 43 and 44 come into force[^c-7cc6155513eb451fab28f33ea63dec1b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7cc6155513eb451fab28f33ea63dec1b]: Commencement: [S. 74](https://www.legislation.gov.uk/anaw/2019/3/section/74) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-7cc6155513eb451fab28f33ea63dec1b]: Commencement: [S. 74](https://www.legislation.gov.uk/anaw/2019/3/section/74) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

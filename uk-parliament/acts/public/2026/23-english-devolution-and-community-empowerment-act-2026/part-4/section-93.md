@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Code of audit practice[^key-6b8db3e6c6156181a9c96ed35a0f92d1]
+## 93. Code of audit practice[^c-6b8db3e6c6156181a9c96ed35a0f92d1]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b8db3e6c6156181a9c96ed35a0f92d1]: Commencement: S. 93 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-6b8db3e6c6156181a9c96ed35a0f92d1]: Commencement: S. 93 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)

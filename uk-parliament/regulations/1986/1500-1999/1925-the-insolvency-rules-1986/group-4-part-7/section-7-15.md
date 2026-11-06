@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.15. Consequential transfer of other proceedings[^key-c05d40d4fa359fd4c7334aa15a2727e8]
+## 7.15. Consequential transfer of other proceedings[^c-c05d40d4fa359fd4c7334aa15a2727e8]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c05d40d4fa359fd4c7334aa15a2727e8]: Commencement: [Rule 7.15](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.15) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-c05d40d4fa359fd4c7334aa15a2727e8]: Commencement: [Rule 7.15](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.15) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

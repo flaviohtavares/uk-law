@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Power as respects consistency in regulatory functions[^key-9c585a1269f755aa496a65efb61defbd]
+## 1. Power as respects consistency in regulatory functions[^c-9c585a1269f755aa496a65efb61defbd]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c585a1269f755aa496a65efb61defbd]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/3/section/1) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-9c585a1269f755aa496a65efb61defbd]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/3/section/1) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

@@ -38,7 +38,7 @@ summary: ''
 
 (4) If the licence holder makes written representations in accordance with paragraph 3(a) the licensing authority must take those representations into account before making a decision in the matter.
 
-(5)[^key-90ee1d9722b833dd8973081d40bf8281] If the licence holder notifies the licensing authority that the holder wishes the licensing authority to submit the proposal to review upon oral representations in accordance with paragraph (3)(b)—
+(5)[^c-90ee1d9722b833dd8973081d40bf8281] If the licence holder notifies the licensing authority that the holder wishes the licensing authority to submit the proposal to review upon oral representations in accordance with paragraph (3)(b)—
 
 - (a) Schedule 5 has effect; and
 - (b) the licence holder must pay a fee for a review upon oral representations in accordance with the Fees Regulations.
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90ee1d9722b833dd8973081d40bf8281]: Textual amendment: Reg. 27(5) substituted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2013/1855/regulation/8)
+[^c-90ee1d9722b833dd8973081d40bf8281]: Textual amendment: Reg. 27(5) substituted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2013/1855/regulation/8)

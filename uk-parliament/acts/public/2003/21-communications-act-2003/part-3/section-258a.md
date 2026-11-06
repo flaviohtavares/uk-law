@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 258A. Small-scale radio multiplex services[^key-a19129f8849d43754467ae3425908b0c]
+## 258A. Small-scale radio multiplex services[^c-a19129f8849d43754467ae3425908b0c]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ to have effect in relation to small-scale radio multiplex services with such mod
 
 ## Annotations
 
-[^key-a19129f8849d43754467ae3425908b0c]: Textual amendment: [S. 258A](https://www.legislation.gov.uk/ukpga/2003/21/section/258A) inserted (27.6.2017) by [Broadcasting (Radio Multiplex Services) Act 2017 (c. 12)](https://www.legislation.gov.uk/ukpga/2017/12), [ss. 1](https://www.legislation.gov.uk/ukpga/2017/12/section/1), [2(3)](https://www.legislation.gov.uk/ukpga/2017/12/section/2/3)
+[^c-a19129f8849d43754467ae3425908b0c]: Textual amendment: [S. 258A](https://www.legislation.gov.uk/ukpga/2003/21/section/258A) inserted (27.6.2017) by [Broadcasting (Radio Multiplex Services) Act 2017 (c. 12)](https://www.legislation.gov.uk/ukpga/2017/12), [ss. 1](https://www.legislation.gov.uk/ukpga/2017/12/section/1), [2(3)](https://www.legislation.gov.uk/ukpga/2017/12/section/2/3)

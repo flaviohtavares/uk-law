@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Example provisions for marine conservation orders[^key-b7958e38ac5638ef2512093014ba093e]
+## 86. Example provisions for marine conservation orders[^c-b7958e38ac5638ef2512093014ba093e]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7958e38ac5638ef2512093014ba093e]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2010/5/section/86) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-b7958e38ac5638ef2512093014ba093e]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2010/5/section/86) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

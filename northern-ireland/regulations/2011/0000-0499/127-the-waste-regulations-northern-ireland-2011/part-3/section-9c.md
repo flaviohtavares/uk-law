@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9C. Modification of the Mining Waste Directive[^key-d0abcf56d4bb11c7ff3bed246d3cdaab]
+## 9C. Modification of the Mining Waste Directive[^c-d0abcf56d4bb11c7ff3bed246d3cdaab]
 
 *Extent: N.I.*
 
@@ -95,7 +95,7 @@ summary: ''
   - (ii) “national or Community” were omitted; and
 - (c) in paragraph 5—
   - (i) for “competent authority” there were substituted “ appropriate authority ”; and
-  - (ii) for the words from “Community” to “2000/60/EC” there were substituted “ assimilated[^key-e23fab7c2651bf0e924fc4858f28dd41] law, in particular the EU-derived domestic legislation which transposed Directive 2000/60/EC in respect of Northern Ireland ”.
+  - (ii) for the words from “Community” to “2000/60/EC” there were substituted “ assimilated[^c-e23fab7c2651bf0e924fc4858f28dd41] law, in particular the EU-derived domestic legislation which transposed Directive 2000/60/EC in respect of Northern Ireland ”.
 
 (12) In Article 13—
 
@@ -109,7 +109,7 @@ summary: ''
 - (c) in paragraph 4, for “Directives [76/464/EEC](https://www.legislation.gov.uk/eudr/1976/464), [80/68/EEC](https://www.legislation.gov.uk/eudr/1980/68) and [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) in respect of Northern Ireland ”;
 - (d) in paragraph 5, in the second sentence—
   - (i) for “competent authority” there were substituted “ appropriate authority ”;
-  - (ii) for “Community” there were substituted “ assimilated[^key-5151c74c858e17a81d0de354d915f922] law ”; and
+  - (ii) for “Community” there were substituted “ assimilated[^c-5151c74c858e17a81d0de354d915f922] law ”; and
   - (iii) for “Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) in respect of Northern Ireland ”; and
 - (e) in paragraph 6, in the second subparagraph, for “competent authority” there were substituted “ appropriate authority ”.
 
@@ -129,8 +129,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d0abcf56d4bb11c7ff3bed246d3cdaab]: Textual amendment: [Regs. 9A-9E](https://www.legislation.gov.uk/nisr/2011/127/regulation/9A) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/271)](https://www.legislation.gov.uk/uksi/2019/271), [regs. 1](https://www.legislation.gov.uk/uksi/2019/271/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/271/regulation/5/3) (as amended by [S.I. 2019/1443](https://www.legislation.gov.uk/uksi/2019/1443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1443/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/1443/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) and [S.R. 2020/284](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2020/284/regulation/4/2)[(5)](https://www.legislation.gov.uk/nisr/2020/284/regulation/4/5))
+[^c-d0abcf56d4bb11c7ff3bed246d3cdaab]: Textual amendment: [Regs. 9A-9E](https://www.legislation.gov.uk/nisr/2011/127/regulation/9A) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/271)](https://www.legislation.gov.uk/uksi/2019/271), [regs. 1](https://www.legislation.gov.uk/uksi/2019/271/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/271/regulation/5/3) (as amended by [S.I. 2019/1443](https://www.legislation.gov.uk/uksi/2019/1443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1443/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/1443/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) and [S.R. 2020/284](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2020/284/regulation/4/2)[(5)](https://www.legislation.gov.uk/nisr/2020/284/regulation/4/5))
 
-[^key-e23fab7c2651bf0e924fc4858f28dd41]: Textual amendment: Word in [reg. 9C(11)(c)(ii)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9C/11/c/ii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 21(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/21/a)
+[^c-e23fab7c2651bf0e924fc4858f28dd41]: Textual amendment: Word in [reg. 9C(11)(c)(ii)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9C/11/c/ii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 21(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/21/a)
 
-[^key-5151c74c858e17a81d0de354d915f922]: Textual amendment: Word in [reg. 9C(12)(d)(ii)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9C/12/d/ii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 21(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/21/a)
+[^c-5151c74c858e17a81d0de354d915f922]: Textual amendment: Word in [reg. 9C(12)(d)(ii)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9C/12/d/ii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 21(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/21/a)

@@ -35,30 +35,30 @@ renewing the approval of the active substance tolclofos-methyl in accordance wit
 
 (Text with EEA relevance) (revoked)
 
-[^key-90935c5faf528a3ab92f9861d934cfbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-90935c5faf528a3ab92f9861d934cfbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Renewal of approval of active substance[^key-90935c5faf528a3ab92f9861d934cfbd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^key-90935c5faf528a3ab92f9861d934cfbd]
+## Article 1. Renewal of approval of active substance[^c-90935c5faf528a3ab92f9861d934cfbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force and date of application[^key-90935c5faf528a3ab92f9861d934cfbd]
+## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^c-90935c5faf528a3ab92f9861d934cfbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-90935c5faf528a3ab92f9861d934cfbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-90935c5faf528a3ab92f9861d934cfbd]
+## Article 3. Entry into force and date of application[^c-90935c5faf528a3ab92f9861d934cfbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-90935c5faf528a3ab92f9861d934cfbd]
+[^c-90935c5faf528a3ab92f9861d934cfbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-90935c5faf528a3ab92f9861d934cfbd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c-90935c5faf528a3ab92f9861d934cfbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-90935c5faf528a3ab92f9861d934cfbd]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2020/1376/schedule/paragraph/8)
+[^c-90935c5faf528a3ab92f9861d934cfbd]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2020/1376/schedule/paragraph/8)

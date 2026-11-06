@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Committee established by contributories[^key-45fe6ab6147cf577ee8503c1f19130e8]
+## 61. Committee established by contributories[^c-45fe6ab6147cf577ee8503c1f19130e8]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-45fe6ab6147cf577ee8503c1f19130e8]: Commencement: Rule 61 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-45fe6ab6147cf577ee8503c1f19130e8]: Commencement: Rule 61 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00031]: Footnote: Rule 4.43 was amended by paragraph 25 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921).

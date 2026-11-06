@@ -22,7 +22,7 @@ summary: ''
 
 Article 44
 
-### PART 1 — Hedgerows to be removed[^key-f050ef02bfd9a29830a0bd51b958abf0]
+### PART 1 — Hedgerows to be removed[^c-f050ef02bfd9a29830a0bd51b958abf0]
 
 | *(1)*<br>*Location of hedgerow* | *(2)*<br>*Work to be carried out* | *(3)*<br>*Relevant part of the authorised* |
 | --- | --- | --- |
@@ -37,7 +37,7 @@ Article 44
 | Lodway Farm, shown marked H5/2 on sheets 5 and 6 of the hedgerow location plan. | Removal of part of hedgerow for access within the construction compound. Hedgerow to be replanted on completion of works. | Work No. 17 |
 | South side of Chapel Pill Lane, Ham Green, Pill, shown marked H8/1 on sheet 8 of the hedgerow location plan. | Removal of part of hedgerow for new access. | Work No. 24 |
 
-### PART 2 — Important Hedgerow[^key-9d29ab3d3775a7cd43fd9683135b4749]
+### PART 2 — Important Hedgerow[^c-9d29ab3d3775a7cd43fd9683135b4749]
 
 | *(1)*<br>*Area* | *(2)*<br>*Reference of hedgerow* |
 | --- | --- |
@@ -45,6 +45,6 @@ Article 44
 
 ## Annotations
 
-[^key-f050ef02bfd9a29830a0bd51b958abf0]: Commencement: Sch. 13 Pt. 1 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-f050ef02bfd9a29830a0bd51b958abf0]: Commencement: Sch. 13 Pt. 1 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
 
-[^key-9d29ab3d3775a7cd43fd9683135b4749]: Commencement: Sch. 13 Pt. 2 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-9d29ab3d3775a7cd43fd9683135b4749]: Commencement: Sch. 13 Pt. 2 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

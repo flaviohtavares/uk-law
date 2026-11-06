@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Technical assistance relating to infrastructure-related goods[^key-beb6fdcd0094ecc310c4da1bf15a3684]
+## 51. Technical assistance relating to infrastructure-related goods[^c-beb6fdcd0094ecc310c4da1bf15a3684]
 
 *Extent: E+W+S+N.I.*
 
 (1) A person must not directly or indirectly provide technical assistance relating to infrastructure-related goods—
 
-- (a) to a person connected with non-government controlled Ukrainian territory[^key-422f4611cb6264a7315625794f8a2036], or
+- (a) to a person connected with non-government controlled Ukrainian territory[^c-422f4611cb6264a7315625794f8a2036], or
 - (b) for use in non-government controlled Ukrainian territory.
 
 (2) Paragraph (1) is subject to Part 7 (Exceptions and licences).
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-beb6fdcd0094ecc310c4da1bf15a3684]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-beb6fdcd0094ecc310c4da1bf15a3684]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-422f4611cb6264a7315625794f8a2036]: Textual amendment: Words in [reg. 51](https://www.legislation.gov.uk/uksi/2019/855/regulation/51) substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [15(b)(v)](https://www.legislation.gov.uk/uksi/2022/395/regulation/15/b/v)
+[^c-422f4611cb6264a7315625794f8a2036]: Textual amendment: Words in [reg. 51](https://www.legislation.gov.uk/uksi/2019/855/regulation/51) substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [15(b)(v)](https://www.legislation.gov.uk/uksi/2022/395/regulation/15/b/v)

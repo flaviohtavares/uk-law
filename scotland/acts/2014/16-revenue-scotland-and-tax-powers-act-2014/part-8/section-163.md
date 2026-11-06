@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 163. Land and buildings transaction tax: 12 month penalty for failure to make return[^key-fe4f47fa97999e4c2bac09fe2654abe1]
+## 163. Land and buildings transaction tax: 12 month penalty for failure to make return[^c-fe4f47fa97999e4c2bac09fe2654abe1]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe4f47fa97999e4c2bac09fe2654abe1]: Commencement: [S. 163](https://www.legislation.gov.uk/asp/2014/16/section/163) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-fe4f47fa97999e4c2bac09fe2654abe1]: Commencement: [S. 163](https://www.legislation.gov.uk/asp/2014/16/section/163) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

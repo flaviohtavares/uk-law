@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218. Maximum permitted period[^key-4908d427c4f7c8aae8898805ddd6a052]
+## 218. Maximum permitted period[^c-4908d427c4f7c8aae8898805ddd6a052]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4908d427c4f7c8aae8898805ddd6a052]: Commencement: [S. 218](https://www.legislation.gov.uk/ukpga/2005/19/section/218) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)
+[^c-4908d427c4f7c8aae8898805ddd6a052]: Commencement: [S. 218](https://www.legislation.gov.uk/ukpga/2005/19/section/218) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Designation of carbon capture counterparty[^key-210d9eb468174bde06a1232c07712823]
+## 67. Designation of carbon capture counterparty[^c-210d9eb468174bde06a1232c07712823]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-210d9eb468174bde06a1232c07712823]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2023/52/section/67) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-210d9eb468174bde06a1232c07712823]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2023/52/section/67) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

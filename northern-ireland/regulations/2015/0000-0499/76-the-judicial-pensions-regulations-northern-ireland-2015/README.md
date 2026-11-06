@@ -45,7 +45,7 @@ In accordance with section 3(5) of that Act, the Department of Finance and Perso
 
 The Department of Justice has had regard to the matters referred to in section 5(4) of that Act.
 
-A draft of this instrument has been laid before the Assembly and approved by a resolution of the Assembly in accordance with section 24(1)(c) of the Public Service Pensions Act (Northern Ireland) 2014.[^key-dceb73297ef48c944907fcee8e5609a1][^key-099b6b5487562e39300d2b5fa69596f7]
+A draft of this instrument has been laid before the Assembly and approved by a resolution of the Assembly in accordance with section 24(1)(c) of the Public Service Pensions Act (Northern Ireland) 2014.[^c-dceb73297ef48c944907fcee8e5609a1][^c-099b6b5487562e39300d2b5fa69596f7]
 
 ## Contents
 
@@ -419,6 +419,6 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^c22374071]: Marginal citation: [2014 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2014/2).
 
-[^key-dceb73297ef48c944907fcee8e5609a1]: Modification: Regulations restricted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in operation) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 90](https://www.legislation.gov.uk/ukpga/2022/7/section/90), [91](https://www.legislation.gov.uk/ukpga/2022/7/section/91), [131(1)(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1/2/f)
+[^c-dceb73297ef48c944907fcee8e5609a1]: Modification: Regulations restricted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in operation) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 90](https://www.legislation.gov.uk/ukpga/2022/7/section/90), [91](https://www.legislation.gov.uk/ukpga/2022/7/section/91), [131(1)(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1/2/f)
 
-[^key-099b6b5487562e39300d2b5fa69596f7]: Modification: Regulations modified (temp) (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [2(4)](https://www.legislation.gov.uk/nisr/2023/63/regulation/2/4)
+[^c-099b6b5487562e39300d2b5fa69596f7]: Modification: Regulations modified (temp) (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [2(4)](https://www.legislation.gov.uk/nisr/2023/63/regulation/2/4)

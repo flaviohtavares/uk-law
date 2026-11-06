@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Prohibition of parking on footways and verges[^key-571bbf422c065df26e0a72453a25b0e1]
+## 68. Prohibition of parking on footways and verges[^c-571bbf422c065df26e0a72453a25b0e1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 32 makes provision about the prohibition of the parking of motor vehicl
 
 ## Annotations
 
-[^key-571bbf422c065df26e0a72453a25b0e1]: Commencement: S. 68 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-571bbf422c065df26e0a72453a25b0e1]: Commencement: S. 68 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)

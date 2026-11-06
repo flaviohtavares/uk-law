@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## C15. Deduction, payment and recovery of contributions[^key-4d8df5c58b7119af3498951333679699]
+## C15. Deduction, payment and recovery of contributions[^c-4d8df5c58b7119af3498951333679699]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ and any amount not so deducted in any month shall be deducted from the employeeâ
 
 ## Annotations
 
-[^key-4d8df5c58b7119af3498951333679699]: Commencement: Reg. C15 in operation at 2.11.1998, see reg. A1
+[^c-4d8df5c58b7119af3498951333679699]: Commencement: Reg. C15 in operation at 2.11.1998, see reg. A1

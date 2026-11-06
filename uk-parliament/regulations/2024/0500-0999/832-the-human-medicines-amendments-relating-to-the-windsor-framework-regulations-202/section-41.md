@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Revocation of regulation 53A[^key-4992a71c7f58d01ab6ee675686aec264]
+## 41. Revocation of regulation 53A[^c-4992a71c7f58d01ab6ee675686aec264]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Omit regulation 53A (application for UKMA(GB) relating to similar biological med
 
 ## Annotations
 
-[^key-4992a71c7f58d01ab6ee675686aec264]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2024/832/regulation/41) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-4992a71c7f58d01ab6ee675686aec264]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2024/832/regulation/41) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00052]: Footnote: Regulation 53A was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

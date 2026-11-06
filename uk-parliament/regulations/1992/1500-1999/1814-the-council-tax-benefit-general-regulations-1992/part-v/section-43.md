@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Calculation of covenant income where a contribution is assessed[^key-0ddecb5d8e3a6c7ef2b67502c500bebf]
+## 43. Calculation of covenant income where a contribution is assessed[^c-0ddecb5d8e3a6c7ef2b67502c500bebf]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ddecb5d8e3a6c7ef2b67502c500bebf]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1992/1814/regulation/43) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-0ddecb5d8e3a6c7ef2b67502c500bebf]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1992/1814/regulation/43) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

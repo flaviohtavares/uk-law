@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Meaning of “ailing or insolvent”[^key-006f706e9c39beab3ba80700ca7850f7][^key-af5ff4680c0010520fc5b299b059b37e]
+## 24. Meaning of “ailing or insolvent”[^c-006f706e9c39beab3ba80700ca7850f7][^c-af5ff4680c0010520fc5b299b059b37e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-006f706e9c39beab3ba80700ca7850f7]: Commencement: S. 24 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
+[^c-006f706e9c39beab3ba80700ca7850f7]: Commencement: S. 24 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
 
-[^key-af5ff4680c0010520fc5b299b059b37e]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2022/23/section/24) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-af5ff4680c0010520fc5b299b059b37e]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2022/23/section/24) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

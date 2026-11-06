@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Examinations and reviews[^key-a4c0051fed90621b474650192aa10965][^key-15bc4430fb55c007e857bbd71f33ee0b]
+## 11. Examinations and reviews[^c-a4c0051fed90621b474650192aa10965][^c-15bc4430fb55c007e857bbd71f33ee0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -124,6 +124,6 @@ In the Bank of England Act 1998, after section 7C (inserted by section 10) inser
 
 ## Annotations
 
-[^key-a4c0051fed90621b474650192aa10965]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/14/section/11) in force at 6.7.2016 for specified purposes by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(l)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/l)
+[^c-a4c0051fed90621b474650192aa10965]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/14/section/11) in force at 6.7.2016 for specified purposes by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(l)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/l)
 
-[^key-15bc4430fb55c007e857bbd71f33ee0b]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/14/section/11) in force at 1.3.2017 in so far as not already in force by [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/b)
+[^c-15bc4430fb55c007e857bbd71f33ee0b]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/14/section/11) in force at 1.3.2017 in so far as not already in force by [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/b)

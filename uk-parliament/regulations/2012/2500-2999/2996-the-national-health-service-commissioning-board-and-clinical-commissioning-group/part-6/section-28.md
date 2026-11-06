@@ -43,16 +43,16 @@ that body must nevertheless use that assessment, wherever reasonably practicable
 - (a) the relevant body determines that a person has a need for nursing care pursuant to this regulation; and
 - (b) the person has agreed with that body that that person does want to be provided with such nursing care,
 
-paragraph (6) or, as the case may be, (6A)[^key-f623e7392d7e85b4224406c4d2542a8c] applies.
+paragraph (6) or, as the case may be, (6A)[^c-f623e7392d7e85b4224406c4d2542a8c] applies.
 
-(6) The relevant body must pay to a registered person for the relevant premises the flat rate payment[^key-80dd452ed049beb3382ae79a33811b51] in respect of that person's nursing care unless or until that person—
+(6) The relevant body must pay to a registered person for the relevant premises the flat rate payment[^c-80dd452ed049beb3382ae79a33811b51] in respect of that person's nursing care unless or until that person—
 
 - (a) has their need for nursing care assessed and it is determined that that person no longer has any need for nursing care;
 - (b) is no longer resident in the relevant premises;
 - (c) becomes eligible for NHS Continuing Healthcare pursuant to this Part; or
 - (d) dies.
 
-(6A)[^key-43ef6c24318ee9bc651e76125435ccbd] Where the relevant body consents to the arrangement by a local authority, in accordance with section 22(4) and, where applicable, sections 22(5) and 22(9) of the Care Act 2014, for the provision of nursing care in accommodation arranged by the local authority in Northern Ireland or Scotland, the relevant body must pay to the relevant provider in respect of the person receiving nursing care—
+(6A)[^c-43ef6c24318ee9bc651e76125435ccbd] Where the relevant body consents to the arrangement by a local authority, in accordance with section 22(4) and, where applicable, sections 22(5) and 22(9) of the Care Act 2014, for the provision of nursing care in accommodation arranged by the local authority in Northern Ireland or Scotland, the relevant body must pay to the relevant provider in respect of the person receiving nursing care—
 
 - (a) £100 per week, where nursing care is provided in accommodation in Northern Ireland, or
 - (b) £78 per week, where nursing care is provided in accommodation in Scotland,
@@ -78,8 +78,8 @@ unless or until paragraph (6B) applies.
 
 ## Annotations
 
-[^key-f623e7392d7e85b4224406c4d2542a8c]: Textual amendment: Words in [reg. 28(5)](https://www.legislation.gov.uk/uksi/2012/2996/regulation/28/5) inserted (1.4.2015) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) Regulations 2015 (S.I. 2015/415)](https://www.legislation.gov.uk/uksi/2015/415), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/415/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/415/regulation/3/a)
+[^c-f623e7392d7e85b4224406c4d2542a8c]: Textual amendment: Words in [reg. 28(5)](https://www.legislation.gov.uk/uksi/2012/2996/regulation/28/5) inserted (1.4.2015) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) Regulations 2015 (S.I. 2015/415)](https://www.legislation.gov.uk/uksi/2015/415), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/415/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/415/regulation/3/a)
 
-[^key-80dd452ed049beb3382ae79a33811b51]: Textual amendment: Word in reg. 28(6) inserted (1.10.2014) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/1611)](https://www.legislation.gov.uk/uksi/2014/1611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/3/2)
+[^c-80dd452ed049beb3382ae79a33811b51]: Textual amendment: Word in reg. 28(6) inserted (1.10.2014) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/1611)](https://www.legislation.gov.uk/uksi/2014/1611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/3/2)
 
-[^key-43ef6c24318ee9bc651e76125435ccbd]: Textual amendment: [Reg. 28(6A)-(6C)](https://www.legislation.gov.uk/uksi/2012/2996/regulation/28/6A) inserted (1.4.2015) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) Regulations 2015 (S.I. 2015/415)](https://www.legislation.gov.uk/uksi/2015/415), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/415/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/415/regulation/3/b)
+[^c-43ef6c24318ee9bc651e76125435ccbd]: Textual amendment: [Reg. 28(6A)-(6C)](https://www.legislation.gov.uk/uksi/2012/2996/regulation/28/6A) inserted (1.4.2015) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) Regulations 2015 (S.I. 2015/415)](https://www.legislation.gov.uk/uksi/2015/415), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/415/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/415/regulation/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Availability of the child element where maximum exceeded – continuation of exception from a previous award of child tax credit, income support or old style JSA[^key-308d9cd8c3788269f24d8cd4328bde06]
+## 41. Availability of the child element where maximum exceeded – continuation of exception from a previous award of child tax credit, income support or old style JSA[^c-308d9cd8c3788269f24d8cd4328bde06]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-308d9cd8c3788269f24d8cd4328bde06]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/uksi/2014/1230/regulation/41) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations 2026 (S.I. 2026/316)](https://www.legislation.gov.uk/uksi/2026/316), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/316/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2026/316/regulation/3/a)
+[^c-308d9cd8c3788269f24d8cd4328bde06]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/uksi/2014/1230/regulation/41) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations 2026 (S.I. 2026/316)](https://www.legislation.gov.uk/uksi/2026/316), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/316/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2026/316/regulation/3/a)

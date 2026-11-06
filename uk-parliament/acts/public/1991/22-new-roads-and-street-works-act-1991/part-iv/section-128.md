@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Works likely to affect other apparatus in the road.[^c14150491][^c14150501][^key-c3a0fef48da75af41a9c8b3509b590c2][^key-52e8a04a39026674c405b79511505744]
+## 128. Works likely to affect other apparatus in the road.[^c14150491][^c14150501][^c-c3a0fef48da75af41a9c8b3509b590c2][^c-52e8a04a39026674c405b79511505744]
 
 *Extent: S*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) to give the person to whom the apparatus belongs reasonable facilities for monitoring the execution of the works, and
 - (b) to comply with any requirement made by him which is reasonably necessary for the protection of the apparatus or for securing access to it.
 
-(2) An undertaker who fails to comply with subsection (1) commits an offence in respect of each failure and is liable on summary conviction to a fine not exceeding level 4[^key-2d00aacadf211fd286982f431071ad5e] on the standard scale.
+(2) An undertaker who fails to comply with subsection (1) commits an offence in respect of each failure and is liable on summary conviction to a fine not exceeding level 4[^c-2d00aacadf211fd286982f431071ad5e] on the standard scale.
 
 (3) In proceedings against a person for such an offence it is a defence for him to show that the failure was attributable—
 
@@ -40,8 +40,8 @@ and that his ignorance was not due to any negligence on his part or to any failu
 
 [^c14150501]: Modification: [S. 128](https://www.legislation.gov.uk/ukpga/1991/22/section/128) modified (1. 1. 1993) by [Local Government, Planning and Land Act 1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65), [s. 167(7)](https://www.legislation.gov.uk/ukpga/1980/65/section/167/7) (as substituted (1.1.1993) by [New Roads and Street Works Act 1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), [s. 168(1)](https://www.legislation.gov.uk/ukpga/1991/22/section/168/1), [Sch. 8 Pt. IV para. 109](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/part/IV/paragraph/109); [S.I. 1992/2990](https://www.legislation.gov.uk/uksi/1992/2990), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/2990/article/2/2), [Sch.2](https://www.legislation.gov.uk/uksi/1992/2990/schedule/2))
 
-[^key-c3a0fef48da75af41a9c8b3509b590c2]: Modification: [S. 128](https://www.legislation.gov.uk/ukpga/1991/22/section/128) applied (with modifications) (27.4.2006) by [Edinburgh Tram (Line Two) Act 2006 (asp 6)](https://www.legislation.gov.uk/asp/2006/6), [s. 7(6)](https://www.legislation.gov.uk/asp/2006/6/section/7/6)[(7)](https://www.legislation.gov.uk/asp/2006/6/section/7/7) (with [s. 75](https://www.legislation.gov.uk/asp/2006/6/section/75))
+[^c-c3a0fef48da75af41a9c8b3509b590c2]: Modification: [S. 128](https://www.legislation.gov.uk/ukpga/1991/22/section/128) applied (with modifications) (27.4.2006) by [Edinburgh Tram (Line Two) Act 2006 (asp 6)](https://www.legislation.gov.uk/asp/2006/6), [s. 7(6)](https://www.legislation.gov.uk/asp/2006/6/section/7/6)[(7)](https://www.legislation.gov.uk/asp/2006/6/section/7/7) (with [s. 75](https://www.legislation.gov.uk/asp/2006/6/section/75))
 
-[^key-52e8a04a39026674c405b79511505744]: Modification: [S. 128](https://www.legislation.gov.uk/ukpga/1991/22/section/128) applied (with modifications) (8.5.2006) by [Edinburgh Tram (Line One) Act 2006 (asp 7)](https://www.legislation.gov.uk/asp/2006/7), [s. 7(6)](https://www.legislation.gov.uk/asp/2006/7/section/7/6)[(7)](https://www.legislation.gov.uk/asp/2006/7/section/7/7) (with [ss. 76](https://www.legislation.gov.uk/asp/2006/7/section/76), [84](https://www.legislation.gov.uk/asp/2006/7/section/84))
+[^c-52e8a04a39026674c405b79511505744]: Modification: [S. 128](https://www.legislation.gov.uk/ukpga/1991/22/section/128) applied (with modifications) (8.5.2006) by [Edinburgh Tram (Line One) Act 2006 (asp 7)](https://www.legislation.gov.uk/asp/2006/7), [s. 7(6)](https://www.legislation.gov.uk/asp/2006/7/section/7/6)[(7)](https://www.legislation.gov.uk/asp/2006/7/section/7/7) (with [ss. 76](https://www.legislation.gov.uk/asp/2006/7/section/76), [84](https://www.legislation.gov.uk/asp/2006/7/section/84))
 
-[^key-2d00aacadf211fd286982f431071ad5e]: Textual amendment: Words in [s. 128(2)](https://www.legislation.gov.uk/ukpga/1991/22/section/128/2) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 3](https://www.legislation.gov.uk/asp/2005/12/schedule/3); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-2d00aacadf211fd286982f431071ad5e]: Textual amendment: Words in [s. 128(2)](https://www.legislation.gov.uk/ukpga/1991/22/section/128/2) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 3](https://www.legislation.gov.uk/asp/2005/12/schedule/3); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

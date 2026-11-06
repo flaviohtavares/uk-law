@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-In this Chapter “**the minimum amount**” means £4,530[^key-48ef541b711506cf2d364b5e70d44895].
+In this Chapter “**the minimum amount**” means £4,530[^c-48ef541b711506cf2d364b5e70d44895].
 
 ## Annotations
 
-[^key-48ef541b711506cf2d364b5e70d44895]: Textual amendment: Sum in s. 43 substituted (with effect for the tax year 2026-27 and subsequent tax years) by [The Income Tax (Indexation of Blind Person’s Allowance and Married Couple’s Allowance) Order 2026 (S.I. 2026/38)](https://www.legislation.gov.uk/uksi/2026/38), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/38/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2026/38/article/2/b)
+[^c-48ef541b711506cf2d364b5e70d44895]: Textual amendment: Sum in s. 43 substituted (with effect for the tax year 2026-27 and subsequent tax years) by [The Income Tax (Indexation of Blind Person’s Allowance and Married Couple’s Allowance) Order 2026 (S.I. 2026/38)](https://www.legislation.gov.uk/uksi/2026/38), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/38/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2026/38/article/2/b)

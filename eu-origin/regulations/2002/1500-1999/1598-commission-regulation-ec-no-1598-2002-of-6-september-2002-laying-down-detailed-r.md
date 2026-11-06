@@ -31,10 +31,10 @@ Commission Regulation (EC) No 1598/2002
 
 of 6 September 2002 laying down detailed rules for the application of Council Directive 1999/105/EC as regards the provision of mutual administrative assistance by official bodies (revoked)
 
-[^key-eed52507e9b5910b9d419f9b64324a77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eed52507e9b5910b9d419f9b64324a77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-eed52507e9b5910b9d419f9b64324a77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-eed52507e9b5910b9d419f9b64324a77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eed52507e9b5910b9d419f9b64324a77]: Textual amendment: Regulation revoked (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2019/162/schedule/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eed52507e9b5910b9d419f9b64324a77]: Textual amendment: Regulation revoked (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2019/162/schedule/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

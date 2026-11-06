@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**61.**[^key-a35053a41be876dbcff8d96d9e6854c9] In section 29 (recommendation of a Minister required in certain cases), for “widow’s widower's” substitute “widow's, widower's, surviving civil partner's”.
+**61.**[^c-a35053a41be876dbcff8d96d9e6854c9] In section 29 (recommendation of a Minister required in certain cases), for “widow’s widower's” substitute “widow's, widower's, surviving civil partner's”.
 
 ## Annotations
 
-[^key-a35053a41be876dbcff8d96d9e6854c9]: Commencement: Art. 61 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-a35053a41be876dbcff8d96d9e6854c9]: Commencement: Art. 61 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

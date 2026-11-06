@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Application of Police and Criminal Evidence Act 1984[^key-28e8420ed606a3143028bfbf7932fca0]
+## 107. Application of Police and Criminal Evidence Act 1984[^c-28e8420ed606a3143028bfbf7932fca0]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28e8420ed606a3143028bfbf7932fca0]: Commencement: S. 107 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-28e8420ed606a3143028bfbf7932fca0]: Commencement: S. 107 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)

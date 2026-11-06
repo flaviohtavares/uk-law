@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16A. Hardship payments[^key-604662391626cab85b95235488e1addb]
+## 16A. Hardship payments[^c-604662391626cab85b95235488e1addb]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-604662391626cab85b95235488e1addb]: Textual amendment: S. 16A inserted (1.6.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [62](https://www.legislation.gov.uk/nisi/2015/2006/article/62); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2016/234/article/2/2/b)
+[^c-604662391626cab85b95235488e1addb]: Textual amendment: S. 16A inserted (1.6.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [62](https://www.legislation.gov.uk/nisi/2015/2006/article/62); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2016/234/article/2/2/b)

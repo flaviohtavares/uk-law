@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Certification of plans etc.[^key-3ba7d1c103b4dd3222e0a0c7edbdc0f5]
+## 36. Certification of plans etc.[^c-3ba7d1c103b4dd3222e0a0c7edbdc0f5]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the book of reference;
 - (b) the land plans;
-- (c)[^key-e171d9ad92d582d8b7e97c879a02bd8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-e171d9ad92d582d8b7e97c879a02bd8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the rights of way, streets and access plan;
 - (e) the environmental statement;
 - (f) the flood risk assessment;
@@ -36,14 +36,14 @@ summary: ''
 
 for certification that they are true copies of the documents referred to in this Order.
 
-(1A)[^key-d92c71187d10f6d1550c2423cb2656dd] The undertaker must, as soon as practicable after the coming into force of the Hirwaun Generating Station (Amendment) Order 2016, submit to the Secretary of State copies of the revised work plans (revision 4 of the plans identified with document reference number 2.3) submitted with the application dated 18th August 2016 for a non-material change to this Order under paragraph 2 of Schedule 6 to the 2008 Act for certification that they are true copies of the documents referred to in this Order.
+(1A)[^c-d92c71187d10f6d1550c2423cb2656dd] The undertaker must, as soon as practicable after the coming into force of the Hirwaun Generating Station (Amendment) Order 2016, submit to the Secretary of State copies of the revised work plans (revision 4 of the plans identified with document reference number 2.3) submitted with the application dated 18th August 2016 for a non-material change to this Order under paragraph 2 of Schedule 6 to the 2008 Act for certification that they are true copies of the documents referred to in this Order.
 
 (2) A plan or document so certified is to be admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
 ## Annotations
 
-[^key-3ba7d1c103b4dd3222e0a0c7edbdc0f5]: Commencement: Art. 36 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-3ba7d1c103b4dd3222e0a0c7edbdc0f5]: Commencement: Art. 36 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-e171d9ad92d582d8b7e97c879a02bd8f]: Textual amendment: [Art. 36(1)(c)](https://www.legislation.gov.uk/uksi/2015/1574/article/36/1/c) omitted (12.11.2016) by virtue of [The Hirwaun Generating Station (Amendment) Order 2016 (S.I. 2016/1087)](https://www.legislation.gov.uk/uksi/2016/1087), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1087/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/1087/article/4/2)
+[^c-e171d9ad92d582d8b7e97c879a02bd8f]: Textual amendment: [Art. 36(1)(c)](https://www.legislation.gov.uk/uksi/2015/1574/article/36/1/c) omitted (12.11.2016) by virtue of [The Hirwaun Generating Station (Amendment) Order 2016 (S.I. 2016/1087)](https://www.legislation.gov.uk/uksi/2016/1087), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1087/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/1087/article/4/2)
 
-[^key-d92c71187d10f6d1550c2423cb2656dd]: Textual amendment: [Art. 36(1A)](https://www.legislation.gov.uk/uksi/2015/1574/article/36/1A) inserted (12.11.2016) by [The Hirwaun Generating Station (Amendment) Order 2016 (S.I. 2016/1087)](https://www.legislation.gov.uk/uksi/2016/1087), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1087/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2016/1087/article/4/3)
+[^c-d92c71187d10f6d1550c2423cb2656dd]: Textual amendment: [Art. 36(1A)](https://www.legislation.gov.uk/uksi/2015/1574/article/36/1A) inserted (12.11.2016) by [The Hirwaun Generating Station (Amendment) Order 2016 (S.I. 2016/1087)](https://www.legislation.gov.uk/uksi/2016/1087), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1087/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2016/1087/article/4/3)

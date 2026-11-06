@@ -42,33 +42,33 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 12, 29(2) and (4), 30(8) and 113(2) of the Pensions (No. 2) Act (Northern Ireland) 2008[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-0756706281e22bb5aa7e572398fbba21]
+## 1. Citation, commencement and interpretation[^c-0756706281e22bb5aa7e572398fbba21]
 
-(1) These Regulations may be cited as the Employers’ Duties (Implementation) Regulations (Northern Ireland) 2010 and shall come into operation on 7th June 2012 immediately after the coming into operation of regulation 3(2)(a) of the Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012[^key-2e50f5c59f765c49e2aba1ad4878d14e] .
+(1) These Regulations may be cited as the Employers’ Duties (Implementation) Regulations (Northern Ireland) 2010 and shall come into operation on 7th June 2012 immediately after the coming into operation of regulation 3(2)(a) of the Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012[^c-2e50f5c59f765c49e2aba1ad4878d14e] .
 
 (2) In these Regulations—
 
-- “deferral date” means the date specified in a notice given by an employer under regulation 4B(1) or (2);[^key-6b232201e70469075a347ab471f6d15e]
+- “deferral date” means the date specified in a notice given by an employer under regulation 4B(1) or (2);[^c-6b232201e70469075a347ab471f6d15e]
 - “employer” has the meaning given by regulation 2(2);
 - “the employers’ duties” means sections 2 to 9;
 - “HMRC” means Her Majesty’s Revenue and Customs;
 - “PAYE income” has the meaning given in section 683(1) of the Income Tax (Earnings and Pensions) Act 2003[^f00002];
 - “PAYE reference number” means a number issued by HMRC to a corresponding PAYE scheme, enabling an employer to pay over amounts deducted to HMRC;
-- “PAYE scheme” means the HMRC record applicable[^key-41198bf7e057ea626bc45a5b7a6a0fdd] to an employer who—
+- “PAYE scheme” means the HMRC record applicable[^c-41198bf7e057ea626bc45a5b7a6a0fdd] to an employer who—
   - (a) employs, or
   - (b) intends to employ,
 
   a worker to whom PAYE income is payable;
 - “scheme administrator” has the same meaning as in section 270 of the Finance Act 2004[^f00003];
 - “staging date” means the date when the employers’ duties apply to employers, prescribed in the third column of the Table;
-- “[^key-f83c547fda55ce1ad98f99dc18e2faa6]**staging date**” means the date prescribed in accordance with regulation 2(1) on which the employers' duties apply to employers;
+- “[^c-f83c547fda55ce1ad98f99dc18e2faa6]**staging date**” means the date prescribed in accordance with regulation 2(1) on which the employers' duties apply to employers;
 - “the Table” means the Table in regulation 4.
 
 (3) In these Regulations any reference to a numbered section is a reference to the section of the Pensions (No. 2) Act (Northern Ireland) 2008 bearing that number.
 
-## 2. Application of the employers’ duties to employers[^key-7aac948745c83255d08239cb3e64c2e8]
+## 2. Application of the employers’ duties to employers[^c-7aac948745c83255d08239cb3e64c2e8]
 
-(1)[^key-2f845626dcd16d13e29a8e3b1c26543d] Except where an employer satisfies the conditions for early automatic enrolment in regulation 3 , the employers' duties do not apply to employers described in the first column of the Table until—
+(1)[^c-2f845626dcd16d13e29a8e3b1c26543d] Except where an employer satisfies the conditions for early automatic enrolment in regulation 3 , the employers' duties do not apply to employers described in the first column of the Table until—
 
 - (a) the corresponding staging date prescribed in the third column of the Table, or
 - (b) in a case to which paragraph (1A) applies—
@@ -80,9 +80,9 @@ The Department for Social Development makes the following Regulations in exercis
 - (a) had less than 50 workers, and
 - (b) had, or was part of, one or more PAYE schemes in which there were 50 or more persons.
 
-(2) For the purposes of these Regulations (except for regulations 4B and 4C)[^key-f6fa1f06f1c3aa8a34e6437bb1e557f5] , an employer is a person within the meaning of section 70(7) who—
+(2) For the purposes of these Regulations (except for regulations 4B and 4C)[^c-f6fa1f06f1c3aa8a34e6437bb1e557f5] , an employer is a person within the meaning of section 70(7) who—
 
-- (a) Has , or is part of,[^key-1e0039e11942df209aa0514ac7cd75ca] a PAYE scheme of any size, determined by the Regulator in accordance with paragraphs (3) and (4), or
+- (a) Has , or is part of,[^c-1e0039e11942df209aa0514ac7cd75ca] a PAYE scheme of any size, determined by the Regulator in accordance with paragraphs (3) and (4), or
 - (b) meets any other description contained in the first column of the Table (including having no PAYE scheme).
 
 (3) The size of an employer’s PAYE scheme means the number of persons within that scheme.
@@ -99,118 +99,118 @@ the employers’ duties apply to that employer in respect of the scheme (or sche
 (6) Any employer who first pays PAYE income in respect of a worker between—
 
 - (a) 1st April 2012, and
-- (b) up to (but not including) 1st October 2017[^key-26fa8e0e5445fafd0d6e8530655981a8] ,
+- (b) up to (but not including) 1st October 2017[^c-26fa8e0e5445fafd0d6e8530655981a8] ,
 
 is to be treated as a new employer in accordance with the relevant entry in the first column of the Table.
 
 (7) Where paragraph (6) applies, the employers’ duties do not apply to such an employer until PAYE income is first payable in respect of any worker and then only in accordance with the Table.
 
-(8)[^key-511fbb8f615f43b398bba3488e389f86] Where—
+(8)[^c-511fbb8f615f43b398bba3488e389f86] Where—
 
 - (a) an employer first pays PAYE income in respect of any worker on or after 1st October 2017, and
 - (b) the employers’ duties do not already apply to that employer,
 
 the employers’ duties apply to that employer from the day on which that employer’s first worker begins to be employed by that employer.
 
-(9)[^key-d71dd5411d7f85f8b350cb61b156078f] This paragraph applies in the case of an employer who does not have a PAYE scheme in respect of any worker after 1st April 2017.
+(9)[^c-d71dd5411d7f85f8b350cb61b156078f] This paragraph applies in the case of an employer who does not have a PAYE scheme in respect of any worker after 1st April 2017.
 
-(10) Where paragraph (9) applies and the employers' duties do not already apply to that employer, the employers' duties apply to that employer from the date on which the employer’s first worker begins to be employed by the employer[^key-113d3ea1c45b61b60b0fc20124c69e8f] .
+(10) Where paragraph (9) applies and the employers' duties do not already apply to that employer, the employers' duties apply to that employer from the date on which the employer’s first worker begins to be employed by the employer[^c-113d3ea1c45b61b60b0fc20124c69e8f] .
 
-## 3. Early automatic enrolment[^key-6fa04b0064e168a156ad285d0519ff10]
+## 3. Early automatic enrolment[^c-6fa04b0064e168a156ad285d0519ff10]
 
-(1)[^key-705c5a348e112d9c95cf2ec35df413cc] Where the conditions in paragraphs (3) and (4) are both satisfied, the employers' duties apply to an employer from the early automatic enrolment date referred to in paragraph (5).
+(1)[^c-705c5a348e112d9c95cf2ec35df413cc] Where the conditions in paragraphs (3) and (4) are both satisfied, the employers' duties apply to an employer from the early automatic enrolment date referred to in paragraph (5).
 
-(1A)[^key-41600823490f73eb17a9dc65ae3d903b] This regulation does not apply where the employer has chosen a staging date in accordance with regulation 2(1)(b)(ii).
+(1A)[^c-41600823490f73eb17a9dc65ae3d903b] This regulation does not apply where the employer has chosen a staging date in accordance with regulation 2(1)(b)(ii).
 
-(2) Where the condition in paragraph (3) is satisfied but the condition in paragraph (4) is not satisfied, the employers’ duties apply to an employer from the staging date corresponding to that employer’s description[^key-6ff12b74540fc545ca2b30e25248cc55]....
+(2) Where the condition in paragraph (3) is satisfied but the condition in paragraph (4) is not satisfied, the employers’ duties apply to an employer from the staging date corresponding to that employer’s description[^c-6ff12b74540fc545ca2b30e25248cc55]....
 
 (3) The first condition is that an employer must fall within any description in the first column of the Table.
 
-(4) The second condition is that an employer has chosen an early automatic enrolment date (referred to in paragraph (5))[^key-d74514b27ecedd52ee61c9585d5e2bb0] for the employers’ duties to apply, which is earlier than the date mentioned in the third column of the Table corresponding to that employer, and has—
+(4) The second condition is that an employer has chosen an early automatic enrolment date (referred to in paragraph (5))[^c-d74514b27ecedd52ee61c9585d5e2bb0] for the employers’ duties to apply, which is earlier than the date mentioned in the third column of the Table corresponding to that employer, and has—
 
-- (a)[^key-d15fdd94f01db93b9828832dfcbb2173] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) where, on the date the employer notifies the Regulator in accordance with sub-paragraph (c), the duty in section 3(2) (automatic enrolment) applies in relation to at least one of that employer's jobholders,[^key-7414bb4d7c76cb0b0ad19ad98ae6346b] secured the agreement of the trustees or managers[^key-fa8b76cd25986db8b7be017a403f70b5] (or scheme administrator or provider) of a pension scheme[^key-0d4bb3a6bb55abfb1edaff4988af5684] that that scheme is[^key-0d917295806340eaca3e535e94bc947d] to be used by the employer to comply with those duties from that early automatic enrolment date, and
-- (c)[^key-852a1b64cb707b3e14c42942410a5a66] notified the Regulator accordingly in writing, at any time—
-  - (i) where paragraph (5)(a) or (d) applies, on or before the early automatic enrolment date;[^key-94f215c863e78ba1d7a65e1739af34bc]
+- (a)[^c-d15fdd94f01db93b9828832dfcbb2173] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) where, on the date the employer notifies the Regulator in accordance with sub-paragraph (c), the duty in section 3(2) (automatic enrolment) applies in relation to at least one of that employer's jobholders,[^c-7414bb4d7c76cb0b0ad19ad98ae6346b] secured the agreement of the trustees or managers[^c-fa8b76cd25986db8b7be017a403f70b5] (or scheme administrator or provider) of a pension scheme[^c-0d4bb3a6bb55abfb1edaff4988af5684] that that scheme is[^c-0d917295806340eaca3e535e94bc947d] to be used by the employer to comply with those duties from that early automatic enrolment date, and
+- (c)[^c-852a1b64cb707b3e14c42942410a5a66] notified the Regulator accordingly in writing, at any time—
+  - (i) where paragraph (5)(a) or (d) applies, on or before the early automatic enrolment date;[^c-94f215c863e78ba1d7a65e1739af34bc]
   - (ii) where paragraph (5)(b) applies, before 1st November 2012, or
   - (iii) where paragraph (5)(c) applies, no later than the first day of the period of one month before the date specified in paragraph (5)(c).
 
-(5)[^key-40cff413d7a8c95989ecffdb3b299727] The early automatic enrolment date is—
+(5)[^c-40cff413d7a8c95989ecffdb3b299727] The early automatic enrolment date is—
 
 - (a) any date in the third column of the Table which is earlier than the staging date corresponding to that employer's description;
-- (b) 1st December 2012, [^key-73b7c948b83c247862d51076f955a9ef]...
+- (b) 1st December 2012, [^c-73b7c948b83c247862d51076f955a9ef]...
 - (c) in the case of an employer of 50,000 or more persons by PAYE scheme size or any other description, one of the following dates to be chosen by the employer—
   - (i) 1st July 2012;
   - (ii) 1st August 2012, or
-  - (iii) 1st September 2012.or[^key-078d692bd2cc6dfa9ae68f8bee4d6479]
+  - (iii) 1st September 2012.or[^c-078d692bd2cc6dfa9ae68f8bee4d6479]
 - (d) in the case of an employer who has no jobholder to whom the duty in section 3(2) (automatic enrolment) applies on the date the employer notifies the Regulator in accordance with paragraph 4(c)(i), any date which is earlier than the staging date corresponding to that employer's description.
 
-## 4. Staging of the employers’ duties[^key-399b80b685579a1928b9810070f58761]
+## 4. Staging of the employers’ duties[^c-399b80b685579a1928b9810070f58761]
 
 (1) The Table in this regulation sets out the application of the employers’ duties.
 
-(2) [^key-05e15af2fd9d01e3a858a53929dca41e]...
+(2) [^c-05e15af2fd9d01e3a858a53929dca41e]...
 
 Table
 
 | Employer (by PAYE scheme size or other description) | Date before which notification to automatically enrol early must be sent | Staging date |
 | --- | --- | --- |
-| 120,000 or more | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st October 2012 |
-| 50,000-119,999 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st November 2012 |
-| 30,000-49,999 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st January 2013 |
-| 20,000-29,999 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st February 2013 |
-| 10,000-19,999 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st March 2013 |
-| 6,000-9,999 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st April 2013 |
-| 4,100-5,999 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st May 2013 |
-| 4,000-4,099 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st June 2013 |
-| 3,000-3,999 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st July 2013 |
-| 2,000-2,999 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st August 2013 |
-| 1,250-1,999 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st September 2013 |
-| 800-1,249 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st October 2013 |
-| 500-799 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st November 2013 |
-| 350-499 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st January 2014 |
-| 250-349 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st February 2014 |
-| 160-249[^key-660ab2088eb1060da022e77805cfebe1] | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st April 2014 |
-| 90-159 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st May 2014 |
-| 62-89 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st July 2014 |
-| 61 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st August 2014 |
-| 60 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st October 2014 |
-| 59 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st November 2014 |
-| 58 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st January 2015 |
-| 54-57 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st March 2015 |
-| 50-53 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st April 2015 |
-| Less than 30 with the last 2 characters in their PAYE reference numbers 92, A1-A9, B1–B9, AA–AZ, BA-BW, M1-M9, MA-MZ, Z1-Z9, ZA-ZZ, 0A-0Z, 1A-1Z or 2A-2Z | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st June 2015 |
-| Less than 30 with the last 2 characters in their PAYE reference numbers BX | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st July 2015 |
-| 40-49 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st August 2015 |
-| Less than 30 with the last 2 characters in their PAYE reference numbers BY | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st September 2015 |
-| 30-39 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st October 2015 |
-| Less than 30 with the last 2 characters in their PAYE reference numbers BZ | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st November 2015 |
-| Less than 30 with the last 2 characters in their PAYE reference numbers 02-04, C1-C9, D1-D9, CA-CZ or DA-DZ | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st January 2016 |
-| Less than 30 with the last 2 characters in their PAYE reference numbers 00, 05-07, E1-E9 or EA-EZ | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st February 2016 |
-| Less than 30 with the last 2 characters in their PAYE reference numbers 01, 08-11, F1-F9, G1-G9, FA-FZ or GA-GZ | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st March 2016 |
-| Less than 30 with the last 2 characters in their PAYE reference numbers 12-16, 3A-3Z, H1-H9 or HA-HZ | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st April 2016 |
-| Less than 30 with the last 2 characters in their PAYE reference numbers I1-I9 or IA-IZ | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st May 2016 |
-| Less than 30 with the last 2 characters in their PAYE reference numbers 17-22, 4A-4Z, J1-J9 or JA-JZ | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st June 2016 |
-| Less than 30 with the last 2 characters in their PAYE reference numbers 23-29, 5A-5Z, K1-K9 or KA-KZ | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st July 2016 |
-| Less than 30 with the last 2 characters in their PAYE reference numbers 30-37, 6A-6Z, L1-L9 or LA-LZ | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st August 2016 |
-| Less than 30 with the last 2 characters in their PAYE reference numbers N1-N9 or NA-NZ | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st September 2016 |
-| Less than 30 with the last 2 characters in their PAYE reference numbers 38-46, 7A-7Z, O1-O9 or OA-OZ | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st October 2016 |
-| Less than 30 with the last 2 characters in their PAYE reference numbers 47-57, 8A-8Z, Q1-Q9, R1-R9, S1-S9, T1-T9, QA-QZ, RA-RZ, SA-SZ or TA-TZ | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st November 2016 |
-| Less than 30 with the last 2 characters in their PAYE reference numbers 58-69, 9A-9Z, U1-U9, V1-V9, W1-W9, UA-UZ, VA-VZ or WA-WZ | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st January 2017 |
-| Less than 30 with the last 2 characters in their PAYE reference numbers 70-83, X1-X9, Y1-Y9, XA-XZ or YA-YZ | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st February 2017 |
-| Less than 30 with the last 2 characters in their PAYE reference numbers P1-P9 or PA-PZ | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st March 2017 |
-| Less than 30 with the last 2 characters in their PAYE reference numbers 84-91 or 93-99 | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st April 2017 |
-| Less than 30 persons in the PAYE scheme not meeting any other description contained in the first column of this Table | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st April 2017 |
-| Employer who does not have a PAYE scheme | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st April 2017 |
-| New employer (PAYE income first payable between 1st April 2012 and 31st March 2013) | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st May 2017 |
-| New employer (PAYE income first payable between 1st April 2013 and 31st March 2014) | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st July 2017 |
-| New employer (PAYE income first payable between 1st April 2014 and 31st March 2015) | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st August 2017 |
-| New employer (PAYE income first payable between 1st April 2015 and 31st December 2015) | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st October 2017 |
-| New employer (PAYE income first payable between 1st January 2016 and 30th September 2016) | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st November 2017 |
-| New employer (PAYE income first payable between 1st October 2016 and 30th June 2017) | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st January 2018 |
-| New employer (PAYE income first payable between 1st July 2017 and 30th September 2017) | [^key-94f52282e3009b01378c77339bbb56b2]. . . | 1st February 2018 |
+| 120,000 or more | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st October 2012 |
+| 50,000-119,999 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st November 2012 |
+| 30,000-49,999 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st January 2013 |
+| 20,000-29,999 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st February 2013 |
+| 10,000-19,999 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st March 2013 |
+| 6,000-9,999 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st April 2013 |
+| 4,100-5,999 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st May 2013 |
+| 4,000-4,099 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st June 2013 |
+| 3,000-3,999 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st July 2013 |
+| 2,000-2,999 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st August 2013 |
+| 1,250-1,999 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st September 2013 |
+| 800-1,249 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st October 2013 |
+| 500-799 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st November 2013 |
+| 350-499 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st January 2014 |
+| 250-349 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st February 2014 |
+| 160-249[^c-660ab2088eb1060da022e77805cfebe1] | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st April 2014 |
+| 90-159 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st May 2014 |
+| 62-89 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st July 2014 |
+| 61 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st August 2014 |
+| 60 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st October 2014 |
+| 59 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st November 2014 |
+| 58 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st January 2015 |
+| 54-57 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st March 2015 |
+| 50-53 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st April 2015 |
+| Less than 30 with the last 2 characters in their PAYE reference numbers 92, A1-A9, B1–B9, AA–AZ, BA-BW, M1-M9, MA-MZ, Z1-Z9, ZA-ZZ, 0A-0Z, 1A-1Z or 2A-2Z | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st June 2015 |
+| Less than 30 with the last 2 characters in their PAYE reference numbers BX | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st July 2015 |
+| 40-49 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st August 2015 |
+| Less than 30 with the last 2 characters in their PAYE reference numbers BY | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st September 2015 |
+| 30-39 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st October 2015 |
+| Less than 30 with the last 2 characters in their PAYE reference numbers BZ | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st November 2015 |
+| Less than 30 with the last 2 characters in their PAYE reference numbers 02-04, C1-C9, D1-D9, CA-CZ or DA-DZ | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st January 2016 |
+| Less than 30 with the last 2 characters in their PAYE reference numbers 00, 05-07, E1-E9 or EA-EZ | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st February 2016 |
+| Less than 30 with the last 2 characters in their PAYE reference numbers 01, 08-11, F1-F9, G1-G9, FA-FZ or GA-GZ | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st March 2016 |
+| Less than 30 with the last 2 characters in their PAYE reference numbers 12-16, 3A-3Z, H1-H9 or HA-HZ | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st April 2016 |
+| Less than 30 with the last 2 characters in their PAYE reference numbers I1-I9 or IA-IZ | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st May 2016 |
+| Less than 30 with the last 2 characters in their PAYE reference numbers 17-22, 4A-4Z, J1-J9 or JA-JZ | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st June 2016 |
+| Less than 30 with the last 2 characters in their PAYE reference numbers 23-29, 5A-5Z, K1-K9 or KA-KZ | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st July 2016 |
+| Less than 30 with the last 2 characters in their PAYE reference numbers 30-37, 6A-6Z, L1-L9 or LA-LZ | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st August 2016 |
+| Less than 30 with the last 2 characters in their PAYE reference numbers N1-N9 or NA-NZ | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st September 2016 |
+| Less than 30 with the last 2 characters in their PAYE reference numbers 38-46, 7A-7Z, O1-O9 or OA-OZ | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st October 2016 |
+| Less than 30 with the last 2 characters in their PAYE reference numbers 47-57, 8A-8Z, Q1-Q9, R1-R9, S1-S9, T1-T9, QA-QZ, RA-RZ, SA-SZ or TA-TZ | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st November 2016 |
+| Less than 30 with the last 2 characters in their PAYE reference numbers 58-69, 9A-9Z, U1-U9, V1-V9, W1-W9, UA-UZ, VA-VZ or WA-WZ | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st January 2017 |
+| Less than 30 with the last 2 characters in their PAYE reference numbers 70-83, X1-X9, Y1-Y9, XA-XZ or YA-YZ | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st February 2017 |
+| Less than 30 with the last 2 characters in their PAYE reference numbers P1-P9 or PA-PZ | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st March 2017 |
+| Less than 30 with the last 2 characters in their PAYE reference numbers 84-91 or 93-99 | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st April 2017 |
+| Less than 30 persons in the PAYE scheme not meeting any other description contained in the first column of this Table | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st April 2017 |
+| Employer who does not have a PAYE scheme | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st April 2017 |
+| New employer (PAYE income first payable between 1st April 2012 and 31st March 2013) | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st May 2017 |
+| New employer (PAYE income first payable between 1st April 2013 and 31st March 2014) | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st July 2017 |
+| New employer (PAYE income first payable between 1st April 2014 and 31st March 2015) | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st August 2017 |
+| New employer (PAYE income first payable between 1st April 2015 and 31st December 2015) | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st October 2017 |
+| New employer (PAYE income first payable between 1st January 2016 and 30th September 2016) | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st November 2017 |
+| New employer (PAYE income first payable between 1st October 2016 and 30th June 2017) | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st January 2018 |
+| New employer (PAYE income first payable between 1st July 2017 and 30th September 2017) | [^c-94f52282e3009b01378c77339bbb56b2]. . . | 1st February 2018 |
 
-## 4A.[^key-a95b2d2e5c440b29cf46898c753c120b]
+## 4A.[^c-a95b2d2e5c440b29cf46898c753c120b]
 
 (1) For the purposes of regulation 2(1)(b)(ii), the date in the third column of the Table is modified in accordance with paragraph (2).
 
@@ -229,7 +229,7 @@ Table
 - (k) beginning with 1st November 2014 and ending on 1st January 2015, the modified date is 1st February 2017, or
 - (l) beginning with 1st March 2015 and ending on 1st April 2015, the modified date is 1st April 2017.
 
-## 4B. Deferral of automatic enrolment for post-staging employers[^key-36db148d4d5cbfe3c604675f1e018d61]
+## 4B. Deferral of automatic enrolment for post-staging employers[^c-36db148d4d5cbfe3c604675f1e018d61]
 
 (1) Where—
 
@@ -250,14 +250,14 @@ the worker’s automatic enrolment date is the deferral date if on that date sec
 
 (4) A notice under paragraph (1) or (2) may be given on the starting day or within the period of six weeks beginning with the day after the starting day.
 
-(5) The deferral date may be any date in the period of three months after[^key-bb53f392648d2a74e131bb91a11e670e] the starting day.
+(5) The deferral date may be any date in the period of three months after[^c-bb53f392648d2a74e131bb91a11e670e] the starting day.
 
 (6) If E gives a worker a notice under paragraph (1), E may not give the worker a notice under paragraph (2) in relation to any occasion on or before the deferral date on which the worker becomes a jobholder to whom section 3 applies.
 
 (7) In this regulation—
 
 - (a) references to “E” (or to an “employer”) are to a person within the meaning of “employer” in section 70(7)—
-  - (i)[^key-84352e649bb21a1b367cfe5dd9656238] who first pays PAYE income in respect of any worker on or after 1st October 2017, or
+  - (i)[^c-84352e649bb21a1b367cfe5dd9656238] who first pays PAYE income in respect of any worker on or after 1st October 2017, or
   - (ii) who does not have a PAYE scheme, where E’s first worker begins to be employed by E after 1st April 2017,
 
   where the employers’ duties did not apply before that date;
@@ -299,16 +299,16 @@ the worker’s automatic enrolment date is the deferral date if on that date sec
 
 (10) In this regulation, “employer” has the meaning given in regulation 4B(7).
 
-## 5. Transitional periods for money purchase and personal pension schemes[^key-89df503fc2f39a35ea04ee0fe13d0ed1]
+## 5. Transitional periods for money purchase and personal pension schemes[^c-89df503fc2f39a35ea04ee0fe13d0ed1]
 
 For the purposes of section 29 (transitional periods for money purchase and personal pension schemes)—
 
-- (a) the first transitional period[^key-bc592a3b3df8a8623509e007a1acdd3e]..., beginning with the coming into operation of section 20 (quality requirement: UK money purchase schemes) , ends on 5th April 2018[^key-0bf3f4d4b546be9123a17aff835629e6] , and
-- (b) the second transitional period is one year, beginning with 6th April 2018 and ending on 5th April 2019[^key-c96e913898aac9365cb3080665ce31cf] .
+- (a) the first transitional period[^c-bc592a3b3df8a8623509e007a1acdd3e]..., beginning with the coming into operation of section 20 (quality requirement: UK money purchase schemes) , ends on 5th April 2018[^c-0bf3f4d4b546be9123a17aff835629e6] , and
+- (b) the second transitional period is one year, beginning with 6th April 2018 and ending on 5th April 2019[^c-c96e913898aac9365cb3080665ce31cf] .
 
-## 6. Transitional period for defined benefits and hybrid schemes[^key-e54c20e28a509e1cee41a86ff806de33]
+## 6. Transitional period for defined benefits and hybrid schemes[^c-e54c20e28a509e1cee41a86ff806de33]
 
-For the purposes of section 30 (transitional period for defined benefits and hybrid schemes), the transitional period for defined benefits and hybrid schemes[^key-6527b1fa05833ce6c1f9923eb262f4a5]..., beginning with the coming into operation of section 3 (automatic enrolment) , ends on 30th September 2017[^key-a198cabc0df6dba03b9dea4e628ccb6d]
+For the purposes of section 30 (transitional period for defined benefits and hybrid schemes), the transitional period for defined benefits and hybrid schemes[^c-6527b1fa05833ce6c1f9923eb262f4a5]..., beginning with the coming into operation of section 3 (automatic enrolment) , ends on 30th September 2017[^c-a198cabc0df6dba03b9dea4e628ccb6d]
 
 Sealed with the Official Seal of the Department for Social Development on 19th March 2010
 
@@ -340,92 +340,92 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00001]: Footnote: [2008 c. 13 (N.I.)](https://www.legislation.gov.uk/nia/2008/13)
 
-[^key-0756706281e22bb5aa7e572398fbba21]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/123/regulation/1) in operation at 1.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/123/regulation/1/1)
+[^c-0756706281e22bb5aa7e572398fbba21]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/123/regulation/1) in operation at 1.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/123/regulation/1/1)
 
-[^key-2e50f5c59f765c49e2aba1ad4878d14e]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/123/regulation/1/1) substituted (7.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/b), [3(2)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/3/2/a)
+[^c-2e50f5c59f765c49e2aba1ad4878d14e]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/123/regulation/1/1) substituted (7.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/b), [3(2)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/3/2/a)
 
-[^key-6b232201e70469075a347ab471f6d15e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/123/regulation/1/2) inserted (1.4.2017) by [The Employers’ Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/52)](https://www.legislation.gov.uk/nisr/2017/52), [regs. 1](https://www.legislation.gov.uk/nisr/2017/52/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2017/52/regulation/2/2)
+[^c-6b232201e70469075a347ab471f6d15e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/123/regulation/1/2) inserted (1.4.2017) by [The Employers’ Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/52)](https://www.legislation.gov.uk/nisr/2017/52), [regs. 1](https://www.legislation.gov.uk/nisr/2017/52/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2017/52/regulation/2/2)
 
 [^f00002]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1)
 
-[^key-41198bf7e057ea626bc45a5b7a6a0fdd]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/123/regulation/1/2) substituted (7.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/a), [3(2)(b)](https://www.legislation.gov.uk/nisr/2012/232/regulation/3/2/b)
+[^c-41198bf7e057ea626bc45a5b7a6a0fdd]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/123/regulation/1/2) substituted (7.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/a), [3(2)(b)](https://www.legislation.gov.uk/nisr/2012/232/regulation/3/2/b)
 
 [^f00003]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12)
 
-[^key-f83c547fda55ce1ad98f99dc18e2faa6]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/123/regulation/1/2) substituted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/332)](https://www.legislation.gov.uk/nisr/2012/332), [regs. 1](https://www.legislation.gov.uk/nisr/2012/332/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2012/332/regulation/2/2)
+[^c-f83c547fda55ce1ad98f99dc18e2faa6]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/123/regulation/1/2) substituted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/332)](https://www.legislation.gov.uk/nisr/2012/332), [regs. 1](https://www.legislation.gov.uk/nisr/2012/332/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2012/332/regulation/2/2)
 
-[^key-7aac948745c83255d08239cb3e64c2e8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/123/regulation/2) in operation at 1.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/123/regulation/1/1)
+[^c-7aac948745c83255d08239cb3e64c2e8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/123/regulation/2) in operation at 1.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/123/regulation/1/1)
 
-[^key-2f845626dcd16d13e29a8e3b1c26543d]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/123/regulation/2/1)[(1A)](https://www.legislation.gov.uk/nisr/2010/123/regulation/2/1A) substituted for [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/123/regulation/2/1) (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/332)](https://www.legislation.gov.uk/nisr/2012/332), [regs. 1](https://www.legislation.gov.uk/nisr/2012/332/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2012/332/regulation/2/3/a)
+[^c-2f845626dcd16d13e29a8e3b1c26543d]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/123/regulation/2/1)[(1A)](https://www.legislation.gov.uk/nisr/2010/123/regulation/2/1A) substituted for [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/123/regulation/2/1) (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/332)](https://www.legislation.gov.uk/nisr/2012/332), [regs. 1](https://www.legislation.gov.uk/nisr/2012/332/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2012/332/regulation/2/3/a)
 
-[^key-f6fa1f06f1c3aa8a34e6437bb1e557f5]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2010/123/regulation/2/2) inserted (1.4.2017) by [The Employers’ Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/52)](https://www.legislation.gov.uk/nisr/2017/52), [regs. 1](https://www.legislation.gov.uk/nisr/2017/52/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2017/52/regulation/2/3/a)
+[^c-f6fa1f06f1c3aa8a34e6437bb1e557f5]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2010/123/regulation/2/2) inserted (1.4.2017) by [The Employers’ Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/52)](https://www.legislation.gov.uk/nisr/2017/52), [regs. 1](https://www.legislation.gov.uk/nisr/2017/52/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2017/52/regulation/2/3/a)
 
-[^key-1e0039e11942df209aa0514ac7cd75ca]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2010/123/regulation/2/2/a) inserted (7.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/a), [3(3)](https://www.legislation.gov.uk/nisr/2012/232/regulation/3/3)
+[^c-1e0039e11942df209aa0514ac7cd75ca]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2010/123/regulation/2/2/a) inserted (7.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/a), [3(3)](https://www.legislation.gov.uk/nisr/2012/232/regulation/3/3)
 
-[^key-26fa8e0e5445fafd0d6e8530655981a8]: Textual amendment: Words in [reg. 2(6)(b)](https://www.legislation.gov.uk/nisr/2010/123/regulation/2/6/b) substituted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/332)](https://www.legislation.gov.uk/nisr/2012/332), [regs. 1](https://www.legislation.gov.uk/nisr/2012/332/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2012/332/regulation/2/3/b)
+[^c-26fa8e0e5445fafd0d6e8530655981a8]: Textual amendment: Words in [reg. 2(6)(b)](https://www.legislation.gov.uk/nisr/2010/123/regulation/2/6/b) substituted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/332)](https://www.legislation.gov.uk/nisr/2012/332), [regs. 1](https://www.legislation.gov.uk/nisr/2012/332/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2012/332/regulation/2/3/b)
 
-[^key-511fbb8f615f43b398bba3488e389f86]: Textual amendment: [Reg. 2(8)](https://www.legislation.gov.uk/nisr/2010/123/regulation/2/8) substituted (1.4.2017) by [The Employers’ Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/52)](https://www.legislation.gov.uk/nisr/2017/52), [regs. 1](https://www.legislation.gov.uk/nisr/2017/52/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2017/52/regulation/2/3/b)
+[^c-511fbb8f615f43b398bba3488e389f86]: Textual amendment: [Reg. 2(8)](https://www.legislation.gov.uk/nisr/2010/123/regulation/2/8) substituted (1.4.2017) by [The Employers’ Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/52)](https://www.legislation.gov.uk/nisr/2017/52), [regs. 1](https://www.legislation.gov.uk/nisr/2017/52/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2017/52/regulation/2/3/b)
 
-[^key-d71dd5411d7f85f8b350cb61b156078f]: Textual amendment: [Reg. 2(9)](https://www.legislation.gov.uk/nisr/2010/123/regulation/2/9)[(10)](https://www.legislation.gov.uk/nisr/2010/123/regulation/2/10) added (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/332)](https://www.legislation.gov.uk/nisr/2012/332), [regs. 1](https://www.legislation.gov.uk/nisr/2012/332/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2012/332/regulation/2/3/c)
+[^c-d71dd5411d7f85f8b350cb61b156078f]: Textual amendment: [Reg. 2(9)](https://www.legislation.gov.uk/nisr/2010/123/regulation/2/9)[(10)](https://www.legislation.gov.uk/nisr/2010/123/regulation/2/10) added (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/332)](https://www.legislation.gov.uk/nisr/2012/332), [regs. 1](https://www.legislation.gov.uk/nisr/2012/332/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2012/332/regulation/2/3/c)
 
-[^key-113d3ea1c45b61b60b0fc20124c69e8f]: Textual amendment: Words in [reg. 2(10)](https://www.legislation.gov.uk/nisr/2010/123/regulation/2/10) substituted (1.4.2017) by [The Employers’ Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/52)](https://www.legislation.gov.uk/nisr/2017/52), [regs. 1](https://www.legislation.gov.uk/nisr/2017/52/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2017/52/regulation/2/3/c)
+[^c-113d3ea1c45b61b60b0fc20124c69e8f]: Textual amendment: Words in [reg. 2(10)](https://www.legislation.gov.uk/nisr/2010/123/regulation/2/10) substituted (1.4.2017) by [The Employers’ Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/52)](https://www.legislation.gov.uk/nisr/2017/52), [regs. 1](https://www.legislation.gov.uk/nisr/2017/52/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2017/52/regulation/2/3/c)
 
-[^key-6fa04b0064e168a156ad285d0519ff10]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/123/regulation/3) in operation at 1.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/123/regulation/1/1)
+[^c-6fa04b0064e168a156ad285d0519ff10]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/123/regulation/3) in operation at 1.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/123/regulation/1/1)
 
-[^key-705c5a348e112d9c95cf2ec35df413cc]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/1) substituted (7.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/a), [3(4)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/3/4/a)
+[^c-705c5a348e112d9c95cf2ec35df413cc]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/1) substituted (7.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/a), [3(4)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/3/4/a)
 
-[^key-41600823490f73eb17a9dc65ae3d903b]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/1A) inserted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/332)](https://www.legislation.gov.uk/nisr/2012/332), [regs. 1](https://www.legislation.gov.uk/nisr/2012/332/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2012/332/regulation/2/4/a)
+[^c-41600823490f73eb17a9dc65ae3d903b]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/1A) inserted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/332)](https://www.legislation.gov.uk/nisr/2012/332), [regs. 1](https://www.legislation.gov.uk/nisr/2012/332/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2012/332/regulation/2/4/a)
 
-[^key-6ff12b74540fc545ca2b30e25248cc55]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/2) omitted (7.6.2012) by virtue of [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/a), [3(4)(b)](https://www.legislation.gov.uk/nisr/2012/232/regulation/3/4/b)
+[^c-6ff12b74540fc545ca2b30e25248cc55]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/2) omitted (7.6.2012) by virtue of [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/a), [3(4)(b)](https://www.legislation.gov.uk/nisr/2012/232/regulation/3/4/b)
 
-[^key-d74514b27ecedd52ee61c9585d5e2bb0]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/4) substituted (7.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/a), [3(4)(c)(i)](https://www.legislation.gov.uk/nisr/2012/232/regulation/3/4/c/i)
+[^c-d74514b27ecedd52ee61c9585d5e2bb0]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/4) substituted (7.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/a), [3(4)(c)(i)](https://www.legislation.gov.uk/nisr/2012/232/regulation/3/4/c/i)
 
-[^key-d15fdd94f01db93b9828832dfcbb2173]: Textual amendment: [Reg. 3(4)(a)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/4/a) omitted (7.6.2012) by virtue of [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/a), [3(4)(c)(ii)](https://www.legislation.gov.uk/nisr/2012/232/regulation/3/4/c/ii)
+[^c-d15fdd94f01db93b9828832dfcbb2173]: Textual amendment: [Reg. 3(4)(a)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/4/a) omitted (7.6.2012) by virtue of [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/a), [3(4)(c)(ii)](https://www.legislation.gov.uk/nisr/2012/232/regulation/3/4/c/ii)
 
-[^key-7414bb4d7c76cb0b0ad19ad98ae6346b]: Textual amendment: Words in [reg. 3(4)(b)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/4/b) inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [3(2)(a)(i)](https://www.legislation.gov.uk/nisr/2016/142/regulation/3/2/a/i)
+[^c-7414bb4d7c76cb0b0ad19ad98ae6346b]: Textual amendment: Words in [reg. 3(4)(b)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/4/b) inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [3(2)(a)(i)](https://www.legislation.gov.uk/nisr/2016/142/regulation/3/2/a/i)
 
-[^key-fa8b76cd25986db8b7be017a403f70b5]: Textual amendment: Words in [reg. 3(4)(b)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/4/b) substituted (7.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/a), [3(4)(c)(iii)](https://www.legislation.gov.uk/nisr/2012/232/regulation/3/4/c/iii)
+[^c-fa8b76cd25986db8b7be017a403f70b5]: Textual amendment: Words in [reg. 3(4)(b)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/4/b) substituted (7.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/a), [3(4)(c)(iii)](https://www.legislation.gov.uk/nisr/2012/232/regulation/3/4/c/iii)
 
-[^key-0d4bb3a6bb55abfb1edaff4988af5684]: Textual amendment: Words in [reg. 3(4)(b)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/4/b) substituted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/332)](https://www.legislation.gov.uk/nisr/2012/332), [regs. 1](https://www.legislation.gov.uk/nisr/2012/332/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2012/332/regulation/2/4/b)
+[^c-0d4bb3a6bb55abfb1edaff4988af5684]: Textual amendment: Words in [reg. 3(4)(b)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/4/b) substituted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/332)](https://www.legislation.gov.uk/nisr/2012/332), [regs. 1](https://www.legislation.gov.uk/nisr/2012/332/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2012/332/regulation/2/4/b)
 
-[^key-0d917295806340eaca3e535e94bc947d]: Textual amendment: Word in [reg. 3(4)(b)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/4/b) substituted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/142/regulation/3/2/a/ii)
+[^c-0d917295806340eaca3e535e94bc947d]: Textual amendment: Word in [reg. 3(4)(b)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/4/b) substituted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/142/regulation/3/2/a/ii)
 
-[^key-852a1b64cb707b3e14c42942410a5a66]: Textual amendment: [Reg. 3(4)(c)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/4/c) substituted (7.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/a), [3(4)(c)(iv)](https://www.legislation.gov.uk/nisr/2012/232/regulation/3/4/c/iv)
+[^c-852a1b64cb707b3e14c42942410a5a66]: Textual amendment: [Reg. 3(4)(c)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/4/c) substituted (7.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/a), [3(4)(c)(iv)](https://www.legislation.gov.uk/nisr/2012/232/regulation/3/4/c/iv)
 
-[^key-94f215c863e78ba1d7a65e1739af34bc]: Textual amendment: [Reg. 3(4)(c)(i)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/4/c/i) substituted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2016/142/regulation/3/2/b)
+[^c-94f215c863e78ba1d7a65e1739af34bc]: Textual amendment: [Reg. 3(4)(c)(i)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/4/c/i) substituted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2016/142/regulation/3/2/b)
 
-[^key-40cff413d7a8c95989ecffdb3b299727]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/5) added (7.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/a), [3(4)(d)](https://www.legislation.gov.uk/nisr/2012/232/regulation/3/4/d)
+[^c-40cff413d7a8c95989ecffdb3b299727]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/5) added (7.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/a), [3(4)(d)](https://www.legislation.gov.uk/nisr/2012/232/regulation/3/4/d)
 
-[^key-73b7c948b83c247862d51076f955a9ef]: Textual amendment: Word in [reg. 3(5)(b)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/5/b) omitted (6.4.2016) by virtue of [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [3(2)(c)(i)](https://www.legislation.gov.uk/nisr/2016/142/regulation/3/2/c/i)
+[^c-73b7c948b83c247862d51076f955a9ef]: Textual amendment: Word in [reg. 3(5)(b)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/5/b) omitted (6.4.2016) by virtue of [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [3(2)(c)(i)](https://www.legislation.gov.uk/nisr/2016/142/regulation/3/2/c/i)
 
-[^key-078d692bd2cc6dfa9ae68f8bee4d6479]: Textual amendment: [Reg. 3(5)(d)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/5/d) and preceding word inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [3(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/142/regulation/3/2/c/ii)
+[^c-078d692bd2cc6dfa9ae68f8bee4d6479]: Textual amendment: [Reg. 3(5)(d)](https://www.legislation.gov.uk/nisr/2010/123/regulation/3/5/d) and preceding word inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [3(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/142/regulation/3/2/c/ii)
 
-[^key-399b80b685579a1928b9810070f58761]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/123/regulation/4) in operation at 1.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/123/regulation/1/1)
+[^c-399b80b685579a1928b9810070f58761]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/123/regulation/4) in operation at 1.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/123/regulation/1/1)
 
-[^key-05e15af2fd9d01e3a858a53929dca41e]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2010/123/regulation/4/2) omitted (6.4.2016) by virtue of [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2016/142/regulation/3/3/a)
+[^c-05e15af2fd9d01e3a858a53929dca41e]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2010/123/regulation/4/2) omitted (6.4.2016) by virtue of [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2016/142/regulation/3/3/a)
 
-[^key-94f52282e3009b01378c77339bbb56b2]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2010/123/regulation/4) Table omitted (6.4.2016) by virtue of [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2016/142/regulation/3/3/b)
+[^c-94f52282e3009b01378c77339bbb56b2]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2010/123/regulation/4) Table omitted (6.4.2016) by virtue of [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2016/142/regulation/3/3/b)
 
-[^key-660ab2088eb1060da022e77805cfebe1]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2010/123/regulation/4) table substituted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/332)](https://www.legislation.gov.uk/nisr/2012/332), [regs. 1](https://www.legislation.gov.uk/nisr/2012/332/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2012/332/regulation/2/5)
+[^c-660ab2088eb1060da022e77805cfebe1]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2010/123/regulation/4) table substituted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/332)](https://www.legislation.gov.uk/nisr/2012/332), [regs. 1](https://www.legislation.gov.uk/nisr/2012/332/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2012/332/regulation/2/5)
 
-[^key-a95b2d2e5c440b29cf46898c753c120b]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2010/123/regulation/4A) inserted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/332)](https://www.legislation.gov.uk/nisr/2012/332), [regs. 1](https://www.legislation.gov.uk/nisr/2012/332/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2012/332/regulation/2/6)
+[^c-a95b2d2e5c440b29cf46898c753c120b]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2010/123/regulation/4A) inserted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/332)](https://www.legislation.gov.uk/nisr/2012/332), [regs. 1](https://www.legislation.gov.uk/nisr/2012/332/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2012/332/regulation/2/6)
 
-[^key-36db148d4d5cbfe3c604675f1e018d61]: Textual amendment: [Regs. 4B-4C](https://www.legislation.gov.uk/nisr/2010/123/regulation/4B) inserted (1.4.2017) by [The Employers’ Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/52)](https://www.legislation.gov.uk/nisr/2017/52), [regs. 1](https://www.legislation.gov.uk/nisr/2017/52/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2017/52/regulation/2/4)
+[^c-36db148d4d5cbfe3c604675f1e018d61]: Textual amendment: [Regs. 4B-4C](https://www.legislation.gov.uk/nisr/2010/123/regulation/4B) inserted (1.4.2017) by [The Employers’ Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/52)](https://www.legislation.gov.uk/nisr/2017/52), [regs. 1](https://www.legislation.gov.uk/nisr/2017/52/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2017/52/regulation/2/4)
 
-[^key-bb53f392648d2a74e131bb91a11e670e]: Textual amendment: Word in [reg. 4B(5)](https://www.legislation.gov.uk/nisr/2010/123/regulation/4B/5) substituted (1.10.2017) by [The Employers’ Duties (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/181)](https://www.legislation.gov.uk/nisr/2017/181), [regs. 1](https://www.legislation.gov.uk/nisr/2017/181/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2017/181/regulation/2/a)
+[^c-bb53f392648d2a74e131bb91a11e670e]: Textual amendment: Word in [reg. 4B(5)](https://www.legislation.gov.uk/nisr/2010/123/regulation/4B/5) substituted (1.10.2017) by [The Employers’ Duties (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/181)](https://www.legislation.gov.uk/nisr/2017/181), [regs. 1](https://www.legislation.gov.uk/nisr/2017/181/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2017/181/regulation/2/a)
 
-[^key-84352e649bb21a1b367cfe5dd9656238]: Textual amendment: [Reg. 4B(7)(a)(i)](https://www.legislation.gov.uk/nisr/2010/123/regulation/4B/7/a/i) substituted (1.10.2017) by [The Employers’ Duties (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/181)](https://www.legislation.gov.uk/nisr/2017/181), [regs. 1](https://www.legislation.gov.uk/nisr/2017/181/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2017/181/regulation/2/b)
+[^c-84352e649bb21a1b367cfe5dd9656238]: Textual amendment: [Reg. 4B(7)(a)(i)](https://www.legislation.gov.uk/nisr/2010/123/regulation/4B/7/a/i) substituted (1.10.2017) by [The Employers’ Duties (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/181)](https://www.legislation.gov.uk/nisr/2017/181), [regs. 1](https://www.legislation.gov.uk/nisr/2017/181/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2017/181/regulation/2/b)
 
-[^key-89df503fc2f39a35ea04ee0fe13d0ed1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/123/regulation/5) in operation at 1.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/123/regulation/1/1)
+[^c-89df503fc2f39a35ea04ee0fe13d0ed1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/123/regulation/5) in operation at 1.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/123/regulation/1/1)
 
-[^key-bc592a3b3df8a8623509e007a1acdd3e]: Textual amendment: Words in [reg. 5(a)](https://www.legislation.gov.uk/nisr/2010/123/regulation/5/a) omitted (1.10.2016) by virtue of [The Employers’ Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/316)](https://www.legislation.gov.uk/nisr/2016/316), [regs. 1](https://www.legislation.gov.uk/nisr/2016/316/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/nisr/2016/316/regulation/2/2/a/i)
+[^c-bc592a3b3df8a8623509e007a1acdd3e]: Textual amendment: Words in [reg. 5(a)](https://www.legislation.gov.uk/nisr/2010/123/regulation/5/a) omitted (1.10.2016) by virtue of [The Employers’ Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/316)](https://www.legislation.gov.uk/nisr/2016/316), [regs. 1](https://www.legislation.gov.uk/nisr/2016/316/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/nisr/2016/316/regulation/2/2/a/i)
 
-[^key-0bf3f4d4b546be9123a17aff835629e6]: Textual amendment: Words in [reg. 5(a)](https://www.legislation.gov.uk/nisr/2010/123/regulation/5/a) inserted (1.10.2016) by [The Employers’ Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/316)](https://www.legislation.gov.uk/nisr/2016/316), [regs. 1](https://www.legislation.gov.uk/nisr/2016/316/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/316/regulation/2/2/a/ii)
+[^c-0bf3f4d4b546be9123a17aff835629e6]: Textual amendment: Words in [reg. 5(a)](https://www.legislation.gov.uk/nisr/2010/123/regulation/5/a) inserted (1.10.2016) by [The Employers’ Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/316)](https://www.legislation.gov.uk/nisr/2016/316), [regs. 1](https://www.legislation.gov.uk/nisr/2016/316/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/316/regulation/2/2/a/ii)
 
-[^key-c96e913898aac9365cb3080665ce31cf]: Textual amendment: Words in [reg. 5(b)](https://www.legislation.gov.uk/nisr/2010/123/regulation/5/b) substituted (1.10.2016) by [The Employers’ Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/316)](https://www.legislation.gov.uk/nisr/2016/316), [regs. 1](https://www.legislation.gov.uk/nisr/2016/316/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2016/316/regulation/2/2/b)
+[^c-c96e913898aac9365cb3080665ce31cf]: Textual amendment: Words in [reg. 5(b)](https://www.legislation.gov.uk/nisr/2010/123/regulation/5/b) substituted (1.10.2016) by [The Employers’ Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/316)](https://www.legislation.gov.uk/nisr/2016/316), [regs. 1](https://www.legislation.gov.uk/nisr/2016/316/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2016/316/regulation/2/2/b)
 
-[^key-e54c20e28a509e1cee41a86ff806de33]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/123/regulation/6) in operation at 1.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/123/regulation/1/1)
+[^c-e54c20e28a509e1cee41a86ff806de33]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/123/regulation/6) in operation at 1.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/123/regulation/1/1)
 
-[^key-6527b1fa05833ce6c1f9923eb262f4a5]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/nisr/2010/123/regulation/6) omitted (1.10.2016) by virtue of [The Employers’ Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/316)](https://www.legislation.gov.uk/nisr/2016/316), [regs. 1](https://www.legislation.gov.uk/nisr/2016/316/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2016/316/regulation/2/3/a)
+[^c-6527b1fa05833ce6c1f9923eb262f4a5]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/nisr/2010/123/regulation/6) omitted (1.10.2016) by virtue of [The Employers’ Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/316)](https://www.legislation.gov.uk/nisr/2016/316), [regs. 1](https://www.legislation.gov.uk/nisr/2016/316/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2016/316/regulation/2/3/a)
 
-[^key-a198cabc0df6dba03b9dea4e628ccb6d]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/nisr/2010/123/regulation/6) added (1.10.2016) by [The Employers’ Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/316)](https://www.legislation.gov.uk/nisr/2016/316), [regs. 1](https://www.legislation.gov.uk/nisr/2016/316/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2016/316/regulation/2/3/b)
+[^c-a198cabc0df6dba03b9dea4e628ccb6d]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/nisr/2010/123/regulation/6) added (1.10.2016) by [The Employers’ Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/316)](https://www.legislation.gov.uk/nisr/2016/316), [regs. 1](https://www.legislation.gov.uk/nisr/2016/316/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2016/316/regulation/2/3/b)

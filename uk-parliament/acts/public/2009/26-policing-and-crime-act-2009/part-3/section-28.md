@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Selling alcohol to children[^key-218af64c3c5782e77bbfcfd69f78beb5]
+## 28. Selling alcohol to children[^c-218af64c3c5782e77bbfcfd69f78beb5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 147A(1)(a) of the Licensing Act 2003 (c. 17) (offence of selling alco
 
 ## Annotations
 
-[^key-218af64c3c5782e77bbfcfd69f78beb5]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2009/26/section/28) in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/125/article/2/e)
+[^c-218af64c3c5782e77bbfcfd69f78beb5]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2009/26/section/28) in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/125/article/2/e)

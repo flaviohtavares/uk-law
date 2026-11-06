@@ -39,10 +39,10 @@ and, if they are under-represented, for increasing that number.
 
 - (a) the Equality Commission for Northern Ireland;
 - (b) the Chief Constable; and
-- (c) the Department of Justice[^key-c3b312c291cd610a45dd143976281f6a].
+- (c) the Department of Justice[^c-c3b312c291cd610a45dd143976281f6a].
 
 (5) The Board may publish its action plan in such manner as it thinks appropriate.
 
 ## Annotations
 
-[^key-c3b312c291cd610a45dd143976281f6a]: Textual amendment: Words in s. 48(4)(c) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 67](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/67) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-c3b312c291cd610a45dd143976281f6a]: Textual amendment: Words in s. 48(4)(c) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 67](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/67) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

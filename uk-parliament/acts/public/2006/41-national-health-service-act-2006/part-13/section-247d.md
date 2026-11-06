@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 247D. Secretary of State's annual report[^key-619aea0c19a1b85bf2edc4d5c709ca65]
+## 247D. Secretary of State's annual report[^c-619aea0c19a1b85bf2edc4d5c709ca65]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-619aea0c19a1b85bf2edc4d5c709ca65]: Textual amendment: [S. 247D](https://www.legislation.gov.uk/ukpga/2006/41/section/247D) and cross-heading inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 53](https://www.legislation.gov.uk/ukpga/2012/7/section/53), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-619aea0c19a1b85bf2edc4d5c709ca65]: Textual amendment: [S. 247D](https://www.legislation.gov.uk/ukpga/2006/41/section/247D) and cross-heading inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 53](https://www.legislation.gov.uk/ukpga/2012/7/section/53), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

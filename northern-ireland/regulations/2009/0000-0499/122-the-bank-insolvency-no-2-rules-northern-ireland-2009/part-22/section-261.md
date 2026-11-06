@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 261. Notices[^key-68208c1c3037cf6082d9b2953300c8b4]
+## 261. Notices[^c-68208c1c3037cf6082d9b2953300c8b4]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68208c1c3037cf6082d9b2953300c8b4]: Commencement: Rule 261 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-68208c1c3037cf6082d9b2953300c8b4]: Commencement: Rule 261 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

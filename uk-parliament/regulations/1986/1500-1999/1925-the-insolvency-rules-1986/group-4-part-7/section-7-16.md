@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.16. Nomination and appointment of shorthand writers[^key-00205637014ece9b00c7f694b5532881]
+## 7.16. Nomination and appointment of shorthand writers[^c-00205637014ece9b00c7f694b5532881]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-00205637014ece9b00c7f694b5532881]: Commencement: [Rule 7.16](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.16) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-00205637014ece9b00c7f694b5532881]: Commencement: [Rule 7.16](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.16) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00202]: Marginal citation: \[FORM 7.3\]
 

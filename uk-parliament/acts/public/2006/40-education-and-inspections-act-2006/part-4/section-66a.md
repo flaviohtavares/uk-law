@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66A. Power of Secretary of State to require governing body to enter into arrangements[^key-049089843eae90bb689b6d49eb6828ca]
+## 66A. Power of Secretary of State to require governing body to enter into arrangements[^c-049089843eae90bb689b6d49eb6828ca]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-049089843eae90bb689b6d49eb6828ca]: Textual amendment: S. 66A inserted (18.4.2016) by [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 4](https://www.legislation.gov.uk/ukpga/2016/6/section/4), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
+[^c-049089843eae90bb689b6d49eb6828ca]: Textual amendment: S. 66A inserted (18.4.2016) by [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 4](https://www.legislation.gov.uk/ukpga/2016/6/section/4), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)

@@ -39,24 +39,24 @@ Coming into force
 
 16th March 2015
 
-The Secretary of State for Transport having approved the Coventry City Council Permit Scheme under section 34(2) of the Traffic Management Act 2004[^f00001] makes this Order in exercise of the powers conferred by sections 34(4) and (5) and 39(2) of that Act.[^key-074212f166c3f13ada6aeb5e9eae008d]
+The Secretary of State for Transport having approved the Coventry City Council Permit Scheme under section 34(2) of the Traffic Management Act 2004[^f00001] makes this Order in exercise of the powers conferred by sections 34(4) and (5) and 39(2) of that Act.[^c-074212f166c3f13ada6aeb5e9eae008d]
 
-## 1. Citation and commencement[^key-5c550ae62158a738b89e24c590c44208]
+## 1. Citation and commencement[^c-5c550ae62158a738b89e24c590c44208]
 
 This Order may be cited as the Traffic Management (Coventry City Council) Permit Scheme Order 2014 and comes into force on 16th March 2015.
 
-## 2. Interpretation[^key-e06e1ea519cf9dd3189e9e533dd2452e]
+## 2. Interpretation[^c-e06e1ea519cf9dd3189e9e533dd2452e]
 
 In this Order—
 
 - “the Coventry City Council Permit Scheme” means the permit scheme set out in the Schedule to this Order in terms commonly known as the “West and Shires Permit (WaSP) Scheme” which was prepared and submitted to the Secretary of State by Coventry City Council and has been approved by the Secretary of State; and
 - “specified streets” has the meaning given by regulation 8 of the Traffic Management Permit Scheme (England) Regulations 2007[^f00002].
 
-## 3. Commencement of Permit Scheme[^key-5db0d262cf17120f703d528688458f26]
+## 3. Commencement of Permit Scheme[^c-5db0d262cf17120f703d528688458f26]
 
 The Coventry City Council Permit Scheme comes into effect on 16th March 2015.
 
-## 4. Application of Part 8 of the Traffic Management Permit Scheme (England) Regulations 2007[^key-44e671de105eb32a91d98f207935d6a6]
+## 4. Application of Part 8 of the Traffic Management Permit Scheme (England) Regulations 2007[^c-44e671de105eb32a91d98f207935d6a6]
 
 Part 8 of the Traffic Management Permit Scheme (England) Regulations 2007 shall apply to the specified streets within the Coventry City Council Permit Scheme.
 
@@ -70,7 +70,7 @@ Department for Transport
 
 8th December 2014
 
-## SCHEDULE — THE COVENTRY CITY COUNCIL PERMIT SCHEME[^key-78fe5661098ba20611026cda54012fdb]
+## SCHEDULE — THE COVENTRY CITY COUNCIL PERMIT SCHEME[^c-78fe5661098ba20611026cda54012fdb]
 
 Article 2
 
@@ -94,16 +94,16 @@ A copy of the Coventry City Council Permit Scheme is deposited and can be inspec
 
 [^f00001]: Footnote: [2004. c.18](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-074212f166c3f13ada6aeb5e9eae008d]: Modification: [Order](https://www.legislation.gov.uk/uksi/2014/3311) excluded (25.2.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent Order 2026 (S.I. 2026/537)](https://www.legislation.gov.uk/uksi/2026/537), [arts. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1), [52(3)](https://www.legislation.gov.uk/uksi/2026/537/article/52/3) (with [arts. 40](https://www.legislation.gov.uk/uksi/2026/537/article/40), [45](https://www.legislation.gov.uk/uksi/2026/537/article/45), [Sch. 9](https://www.legislation.gov.uk/uksi/2026/537/schedule/9))
+[^c-074212f166c3f13ada6aeb5e9eae008d]: Modification: [Order](https://www.legislation.gov.uk/uksi/2014/3311) excluded (25.2.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent Order 2026 (S.I. 2026/537)](https://www.legislation.gov.uk/uksi/2026/537), [arts. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1), [52(3)](https://www.legislation.gov.uk/uksi/2026/537/article/52/3) (with [arts. 40](https://www.legislation.gov.uk/uksi/2026/537/article/40), [45](https://www.legislation.gov.uk/uksi/2026/537/article/45), [Sch. 9](https://www.legislation.gov.uk/uksi/2026/537/schedule/9))
 
-[^key-5c550ae62158a738b89e24c590c44208]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2014/3311/article/1) in force at 16.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3311/article/1)
+[^c-5c550ae62158a738b89e24c590c44208]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2014/3311/article/1) in force at 16.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3311/article/1)
 
-[^key-e06e1ea519cf9dd3189e9e533dd2452e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2014/3311/article/2) in force at 16.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3311/article/1)
+[^c-e06e1ea519cf9dd3189e9e533dd2452e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2014/3311/article/2) in force at 16.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3311/article/1)
 
 [^f00002]: Footnote: [S.I. 2007/3372](https://www.legislation.gov.uk/uksi/2007/3372).
 
-[^key-5db0d262cf17120f703d528688458f26]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/3311/article/3) in force at 16.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3311/article/1)
+[^c-5db0d262cf17120f703d528688458f26]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/3311/article/3) in force at 16.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3311/article/1)
 
-[^key-44e671de105eb32a91d98f207935d6a6]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2014/3311/article/4) in force at 16.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3311/article/1)
+[^c-44e671de105eb32a91d98f207935d6a6]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2014/3311/article/4) in force at 16.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3311/article/1)
 
-[^key-78fe5661098ba20611026cda54012fdb]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2014/3311/schedule) in force at 16.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3311/article/1)
+[^c-78fe5661098ba20611026cda54012fdb]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2014/3311/schedule) in force at 16.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3311/article/1)

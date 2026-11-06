@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 252. Sanctions[^key-86839d740b6cd8af6ee53446d64641e3]
+## 252. Sanctions[^c-86839d740b6cd8af6ee53446d64641e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86839d740b6cd8af6ee53446d64641e3]: Commencement: [S. 252](https://www.legislation.gov.uk/ukpga/2023/52/section/252) in force at 26.12.2023, see [s. 334(3)(h)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/h)
+[^c-86839d740b6cd8af6ee53446d64641e3]: Commencement: [S. 252](https://www.legislation.gov.uk/ukpga/2023/52/section/252) in force at 26.12.2023, see [s. 334(3)(h)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/h)

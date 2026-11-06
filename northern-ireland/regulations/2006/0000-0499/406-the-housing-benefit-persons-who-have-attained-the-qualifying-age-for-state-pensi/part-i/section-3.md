@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Definition of non-dependant[^key-ed7e53487779ac67b63a85f0fe6f3406][^key-de310a985569828ae67dbb4f13c0364f]
+## 3. Definition of non-dependant[^c-ed7e53487779ac67b63a85f0fe6f3406][^c-de310a985569828ae67dbb4f13c0364f]
 
 *Extent: N.I.*
 
@@ -36,12 +36,12 @@ summary: ''
 
 (3) Sub-paragraphs (d) and (e) of paragraph (2) shall not apply to any person who is treated as if he were not liable to make payments in respect of a dwelling under regulation 9(1).
 
-(4) For the purposes of this regulation and regulation 9 and the definition of “linked person” in regulation 2(1)[^key-04d9532984d5bdd163ae8254997d30f1] a person resides with another only if they share any accommodation except a bathroom, a lavatory or a communal area within the meaning prescribed in paragraph 8 of Schedule 1 but not if each person is separately liable to make payments in respect of his occupation of the dwelling to the landlord.
+(4) For the purposes of this regulation and regulation 9 and the definition of “linked person” in regulation 2(1)[^c-04d9532984d5bdd163ae8254997d30f1] a person resides with another only if they share any accommodation except a bathroom, a lavatory or a communal area within the meaning prescribed in paragraph 8 of Schedule 1 but not if each person is separately liable to make payments in respect of his occupation of the dwelling to the landlord.
 
 ## Annotations
 
-[^key-ed7e53487779ac67b63a85f0fe6f3406]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/406/regulation/3) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-ed7e53487779ac67b63a85f0fe6f3406]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/406/regulation/3) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-de310a985569828ae67dbb4f13c0364f]: Modification: [Regs. 3-6](https://www.legislation.gov.uk/nisr/2006/406/regulation/3) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2007/203/regulation/3)
+[^c-de310a985569828ae67dbb4f13c0364f]: Modification: [Regs. 3-6](https://www.legislation.gov.uk/nisr/2006/406/regulation/3) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2007/203/regulation/3)
 
-[^key-04d9532984d5bdd163ae8254997d30f1]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/nisr/2006/406/regulation/3/4) inserted (with application in accordance with reg. 1(3) (4) of the amending Rule) by [The Housing Benefit (State Pension Credit) (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/102)](https://www.legislation.gov.uk/nisr/2008/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/102/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2008/102/regulation/2/3)
+[^c-04d9532984d5bdd163ae8254997d30f1]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/nisr/2006/406/regulation/3/4) inserted (with application in accordance with reg. 1(3) (4) of the amending Rule) by [The Housing Benefit (State Pension Credit) (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/102)](https://www.legislation.gov.uk/nisr/2008/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/102/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2008/102/regulation/2/3)

@@ -48,7 +48,7 @@ The Secretary of State for Education, in exercise of the powers conferred by sec
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and application[^key-c2b6f7d3dc4a122d87cc3ce3b4d0c30c]
+### 1. Citation, commencement and application[^c-c2b6f7d3dc4a122d87cc3ce3b4d0c30c]
 
 (1) These Regulations may be cited as the School Governance (Roles, Procedures and Allowances) (England) Regulations 2013 and come into force on 1st September 2013.
 
@@ -60,7 +60,7 @@ The Secretary of State for Education, in exercise of the powers conferred by sec
 
 (5) Part 7 of and Schedule 3 to these Regulations make amendments to the Education (Pupil Referral Units) (Management Committees etc) (England) Regulations 2007[^f00004] to apply these Regulations to pupil referral units.
 
-### 2. Interpretation[^key-771be874f6518414873ebc1fb7588918][^key-35845716cf46feaa5bbc465a28b027c7]
+### 2. Interpretation[^c-771be874f6518414873ebc1fb7588918][^c-35845716cf46feaa5bbc465a28b027c7]
 
 In these Regulations—
 
@@ -81,21 +81,21 @@ in relation to a governing body to which the Constitution Regulations 2007 apply
 - “receipt” includes other evidence establishing the amount of any expenditure; and
 - “a school” means a maintained school within the meaning of section 39(1) of the EA 2002.
 
-### 3. Revocation[^key-3cbb634ee985c6b91b40405dac7a1d9c]
+### 3. Revocation[^c-3cbb634ee985c6b91b40405dac7a1d9c]
 
 The Education (School Government) (Terms of Reference) (England) (Regulations) 2000[^f00009], the Education (Governors’ Allowances) (England) Regulations 2003[^f00010] and the School Governance (Procedures) (England) Regulations 2003[^f00011] are revoked on 1st September 2013.
 
-### 4. Amendments to the School Governance (Collaboration) (England) Regulations 2003 and the School Governance (Federations) (England) Regulations 2012[^key-893e791cb936b047e9cd48dd40408049]
+### 4. Amendments to the School Governance (Collaboration) (England) Regulations 2003 and the School Governance (Federations) (England) Regulations 2012[^c-893e791cb936b047e9cd48dd40408049]
 
 The amendments made by Schedule 2 have effect.
 
-### 5. Service of notices[^key-5274b86565d101aa67c0f81234db2d62]
+### 5. Service of notices[^c-5274b86565d101aa67c0f81234db2d62]
 
 Any notice required to be served by or under these Regulations is to be served in accordance with section 572 of the EA 1996.
 
-## PART 2 — Roles of the Governing Body and Head Teacher[^key-bd21ba0b5fd1e74c89bea207098c7f85]
+## PART 2 — Roles of the Governing Body and Head Teacher[^c-bd21ba0b5fd1e74c89bea207098c7f85]
 
-**6.**[^key-2fa4574792f04a1aee3d62d8c08e682c] (1) The functions of the governing body include the following core functions —
+**6.**[^c-2fa4574792f04a1aee3d62d8c08e682c] (1) The functions of the governing body include the following core functions —
 
 - (a) ensuring that the vision, ethos and strategic direction of the school are clearly defined;
 - (b) ensuring that the head teacher performs his or her responsibilities for the educational performance of the school; and
@@ -119,9 +119,9 @@ Any notice required to be served by or under these Regulations is to be served i
 
 (7) In this regulation the term “governing body” includes the temporary governing body of a new school.
 
-## PART 3 — Appointment, Functions and Removal of Officers[^key-bd21ba0b5fd1e74c89bea207098c7f85]
+## PART 3 — Appointment, Functions and Removal of Officers[^c-bd21ba0b5fd1e74c89bea207098c7f85]
 
-### 7. Election of the chair and vice-chair[^key-1714c2d60adf11b4cbb645294fd44d71]
+### 7. Election of the chair and vice-chair[^c-1714c2d60adf11b4cbb645294fd44d71]
 
 (1) Subject to section 67 of the EIA 2006 (power of Secretary of State to appoint additional governors), the governing body must elect a chair and a vice-chair from among their number.
 
@@ -141,7 +141,7 @@ Any notice required to be served by or under these Regulations is to be served i
 
 (7) Where the chair is absent from any meeting or there is at the time a vacancy in the office of the chair, the vice-chair is to act as chair for all purposes.
 
-### 8. Delegation of functions to the chair or vice-chair in cases of urgency[^key-cccf4b2321fcb1e1972cf28f24cde96c]
+### 8. Delegation of functions to the chair or vice-chair in cases of urgency[^c-cccf4b2321fcb1e1972cf28f24cde96c]
 
 (1) Where paragraph (2) applies, the chair may exercise—
 
@@ -163,7 +163,7 @@ Any notice required to be served by or under these Regulations is to be served i
 
 the reference in paragraph (1) to the chair is to be read as if it were a reference to the vice-chair.
 
-### 9. Removal of the chair or vice-chair from office[^key-c053cb47a2e813719bcce0b1ba3d1f47]
+### 9. Removal of the chair or vice-chair from office[^c-c053cb47a2e813719bcce0b1ba3d1f47]
 
 (1) The governing body may by resolution remove the chair from office, unless the chair has been nominated by the Secretary of State pursuant to section 67 of the EIA 2006.
 
@@ -173,7 +173,7 @@ the reference in paragraph (1) to the chair is to be read as if it were a refere
 
 (4) Before the governing body resolve to remove the chair or vice-chair from office, the governor proposing the chair or the vice-chair’s removal must at that meeting state their reasons for doing so and the chair or vice-chair, as the case may be, must be given an opportunity to make a statement in response, before withdrawing from the meeting.
 
-### 10. Appointment and removal of the clerk to the governing body[^key-8123fc6aecfa2b92d83e282ee4ebfe18]
+### 10. Appointment and removal of the clerk to the governing body[^c-8123fc6aecfa2b92d83e282ee4ebfe18]
 
 (1) This regulation is without prejudice to any rights and liabilities which the clerk may have under any contract with the governing body or with the local authority.
 
@@ -188,7 +188,7 @@ the reference in paragraph (1) to the chair is to be read as if it were a refere
 
 (5) If at any time the school does not have a delegated budget, the local authority may remove the clerk to the governing body and appoint a substitute, provided the local authority consults the governing body before taking such action.
 
-### 11. Functions of the clerk to the governing body[^key-3cb8e90e37090bdea9155ac6dda27090]
+### 11. Functions of the clerk to the governing body[^c-3cb8e90e37090bdea9155ac6dda27090]
 
 The clerk to the governing body must—
 
@@ -196,9 +196,9 @@ The clerk to the governing body must—
 - (b) maintain a register of members of the governing body and of associate members and report any vacancies to the governing body; and
 - (c) perform such other tasks as may be determined by the governing body from time to time.
 
-## PART 4 — Meetings and Proceedings of Governing Bodies[^key-bd21ba0b5fd1e74c89bea207098c7f85]
+## PART 4 — Meetings and Proceedings of Governing Bodies[^c-bd21ba0b5fd1e74c89bea207098c7f85]
 
-### 12. Right of persons to attend meetings of the governing body[^key-c82568e98b8a24054265e7ba8583ea5b]
+### 12. Right of persons to attend meetings of the governing body[^c-c82568e98b8a24054265e7ba8583ea5b]
 
 (1) Subject to regulations 12(2), 16 and 17 and to Schedule 1, the following persons are entitled to attend any meeting of the governing body—
 
@@ -210,7 +210,7 @@ The clerk to the governing body must—
 
 (2) The governing body may exclude an associate member from any part of its meeting which the associate member is otherwise entitled to attend when the business under consideration concerns an individual member of staff or pupil.
 
-### 13. Convening meetings of the governing body[^key-cd6492f2225a0f1a4369fc77dc457876]
+### 13. Convening meetings of the governing body[^c-cd6492f2225a0f1a4369fc77dc457876]
 
 (1) The governing body must hold at least three meetings in every school year.
 
@@ -221,14 +221,14 @@ The clerk to the governing body must—
 
 (3) Any three members of the governing body may requisition a meeting by giving written notice to the clerk to the governing body, and the clerk must convene a meeting as soon as is reasonably practicable.
 
-(4) Subject to paragraph (5), the clerk of the governing body must give written notice of the meeting , a copy of the agenda for the meeting and any reports or other papers to be considered at the meeting[^key-7b19aa1cd21a327fb1f1047af41c5a0f] at least seven clear days in advance to—
+(4) Subject to paragraph (5), the clerk of the governing body must give written notice of the meeting , a copy of the agenda for the meeting and any reports or other papers to be considered at the meeting[^c-7b19aa1cd21a327fb1f1047af41c5a0f] at least seven clear days in advance to—
 
 - (a) each governor;
 - (b) the head teacher (whether or not that person is a governor);
 - (c) any associate member; and
 - (d) the local authority, where an agenda item for the meeting involves consideration of a change of school category.
 
-(5) Where the chair so determines, on the ground that there are matters demanding urgent consideration, it will be sufficient if the written notice of the meeting states that fact and the notice, copy of the agenda and any reports or other papers to be considered[^key-f88a098bf0ec3956e7142e08c317d8b6] are given within such shorter period as the chair directs.
+(5) Where the chair so determines, on the ground that there are matters demanding urgent consideration, it will be sufficient if the written notice of the meeting states that fact and the notice, copy of the agenda and any reports or other papers to be considered[^c-f88a098bf0ec3956e7142e08c317d8b6] are given within such shorter period as the chair directs.
 
 (6) The power of the chair to direct that a meeting be held within a shorter period does not apply in relation to any meeting at which—
 
@@ -238,9 +238,9 @@ The clerk to the governing body must—
 
 is to be considered.
 
-(7) At the discretion of the chair, any item of business may be discussed at a meeting irrespective of whether the matter is specified as an item of business on the agenda for the meeting, subject to the exceptions at regulations 14(5), 14(6), 14(6A) and 17(2) of these Regulations[^key-a9478127802d11e36971b515c900ebbc] and at regulation 7(2) of the School Governance (Federations) (England) Regulations 2012[^f00013].
+(7) At the discretion of the chair, any item of business may be discussed at a meeting irrespective of whether the matter is specified as an item of business on the agenda for the meeting, subject to the exceptions at regulations 14(5), 14(6), 14(6A) and 17(2) of these Regulations[^c-a9478127802d11e36971b515c900ebbc] and at regulation 7(2) of the School Governance (Federations) (England) Regulations 2012[^f00013].
 
-### 14. Proceedings of the governing body[^key-5f0b82b480ef981adacbec5ce86dd3cb]
+### 14. Proceedings of the governing body[^c-5f0b82b480ef981adacbec5ce86dd3cb]
 
 (1) The quorum for a meeting of the governing body and for any vote on any matter at such a meeting, is one half (rounded up to a whole number) of the membership of the governing body.
 
@@ -254,7 +254,7 @@ is to be considered.
 
 (6) No decision to change the name of the school will have effect unless the matter is specified as an item of business on the agenda for the meeting.
 
-(6A)[^key-18b825a6b4bc8da88a1972b99ff789af] No decision to remove excess governors under regulation 15(2) to (4) of the School Governance (Constitution) (England) Regulations 2012 or regulation 22A(2) to (4) of the School Governance (Federations) (England) Regulations 2012 has effect unless the matter is specified as an item of business on the agenda for the meeting.
+(6A)[^c-18b825a6b4bc8da88a1972b99ff789af] No decision to remove excess governors under regulation 15(2) to (4) of the School Governance (Constitution) (England) Regulations 2012 or regulation 22A(2) to (4) of the School Governance (Federations) (England) Regulations 2012 has effect unless the matter is specified as an item of business on the agenda for the meeting.
 
 (7) The proceedings of the governing body of a school are not invalidated by—
 
@@ -265,7 +265,7 @@ is to be considered.
 
 (8) Notwithstanding the requirements of paragraphs (1) to (3), the governing body may approve alternative arrangements for governors to participate or vote at meetings of the governing body including but not limited to by telephone or video conference.
 
-### 15. Minutes and papers[^key-5154974bbc86db0dc11ac408a5792595]
+### 15. Minutes and papers[^c-5154974bbc86db0dc11ac408a5792595]
 
 (1) The clerk to the governing body (or the person appointed to act as clerk for the purpose of the meeting in accordance with regulation 10(3)) must ensure that minutes of the proceedings of a meeting of the governing body are drawn up and signed (subject to the approval of the governing body) by the chair at the next meeting.
 
@@ -281,7 +281,7 @@ is to be considered.
 - (b) a named pupil at, or candidate for admission to, the school; or
 - (c) any other matter that, by reason of its nature, the governing body is satisfied should remain confidential.
 
-### 16. Restrictions on persons taking part in proceedings[^key-ea6984af8b62c862c72f15bbf5bc3a62]
+### 16. Restrictions on persons taking part in proceedings[^c-ea6984af8b62c862c72f15bbf5bc3a62]
 
 (1) In this regulation and in Schedule 1, “relevant person” means a governor, an associate member, the head teacher (whether or not that person is a governor) or any person appointed as clerk to the governing body or to a committee.
 
@@ -305,7 +305,7 @@ that person, if present at a meeting of the school at which the matter is the su
 
 (6) Schedule 1 makes provision about pecuniary interests and other specified conflicts of interest.
 
-### 17. Suspension of governors[^key-e299388cd7ff0626a16f36fc13a176c4]
+### 17. Suspension of governors[^c-e299388cd7ff0626a16f36fc13a176c4]
 
 (1) Subject to paragraphs (2) to (4), the governing body may by resolution suspend a governor for all or any meetings of the school, or of a committee, for a fixed period of up to 6 months on one or more of the following grounds—
 
@@ -322,7 +322,7 @@ that person, if present at a meeting of the school at which the matter is the su
 
 (5) A governor may not be disqualified from continuing to hold office under paragraph 5 of Schedule 6 to the Constitution Regulations 2007 or paragraph 9 of Schedule 4 to the Constitution Regulations 2012 for failure to attend any meeting of the governing body while suspended under this regulation.
 
-### 18. Delegation of functions[^key-6ac505a956687c8ce9390c1ff609a695]
+### 18. Delegation of functions[^c-6ac505a956687c8ce9390c1ff609a695]
 
 (1) Subject to regulation 19 of these Regulations and regulation 3(2) of the Religious Character of Schools (Designation Procedure) Regulations 1998[^f00014] the governing body may delegate any of its functions to—
 
@@ -334,7 +334,7 @@ that person, if present at a meeting of the school at which the matter is the su
 
 (3) The governing body must review the exercise of functions they have delegated, annually.
 
-### 19. Restrictions on delegation[^key-d54a68e081808c33525cac7f035d0076]
+### 19. Restrictions on delegation[^c-d54a68e081808c33525cac7f035d0076]
 
 (1) The governing body may not delegate to an individual functions relating to powers and duties imposed on governing bodies by or under—
 
@@ -348,7 +348,7 @@ that person, if present at a meeting of the school at which the matter is the su
 
 (4) The governing body may not delegate functions relating to powers conferred, and the duties imposed, on governing bodies by or under regulations made under sections 35 and 36 of the EA 2002 save as provided for in those regulations.
 
-### 20. Reporting to the governing body following the exercise of delegated functions[^key-63d4b13492c8eebeff7eca7e012cc1f4]
+### 20. Reporting to the governing body following the exercise of delegated functions[^c-63d4b13492c8eebeff7eca7e012cc1f4]
 
 (1) This regulation applies where any function of the governing body has been delegated to or is otherwise exercisable by—
 
@@ -358,13 +358,13 @@ that person, if present at a meeting of the school at which the matter is the su
 
 (2) Any individual or committee to whom a function of the governing body has been delegated or that has otherwise exercised a function of the governing body, must report to the governing body in respect of any action taken or decision made with respect to the exercise of that function.
 
-## PART 5 — Committees of Governing Bodies[^key-bd21ba0b5fd1e74c89bea207098c7f85]
+## PART 5 — Committees of Governing Bodies[^c-bd21ba0b5fd1e74c89bea207098c7f85]
 
-### 21. Application of this Part[^key-e46ac43ab7566e7b5a591f58cb55c577]
+### 21. Application of this Part[^c-e46ac43ab7566e7b5a591f58cb55c577]
 
 This Part does not apply to any committee established by the governing body to exercise functions relating to the appointment, grievance, conduct and discipline, capability, suspension or dismissal of individual members of the school staff.
 
-### 22. Establishment of committees of the governing body[^key-d5c620e611ccfa7f114f3c0133cba12d]
+### 22. Establishment of committees of the governing body[^c-d5c620e611ccfa7f114f3c0133cba12d]
 
 (1) The governing body must determine the constitution, membership and terms of reference of any committee they decide to establish and review them annually.
 
@@ -374,7 +374,7 @@ This Part does not apply to any committee established by the governing body to e
 
 (4) The governing body may remove the chair to any committee from office at any time.
 
-### 23. Clerks to committees[^key-b82a46fc9b0f984f10398875dfa86080]
+### 23. Clerks to committees[^c-b82a46fc9b0f984f10398875dfa86080]
 
 (1) This regulation is without prejudice to any rights and liabilities which the clerk may have under any contract with the governing body or with the local authority.
 
@@ -390,7 +390,7 @@ This Part does not apply to any committee established by the governing body to e
 - (b) attend meetings of the committee and ensure that minutes of the proceedings are drawn up; and
 - (c) perform such other tasks with respect to that committee as may be determined by the governing body from time to time.
 
-### 24. Associate members[^key-02c016538c5f3373fdc26feb46bf6f5b]
+### 24. Associate members[^c-02c016538c5f3373fdc26feb46bf6f5b]
 
 (1) The membership of any committee may include associate members.
 
@@ -400,9 +400,9 @@ This Part does not apply to any committee established by the governing body to e
 
 (4) An associate member may be removed from office by the governing body at any time.
 
-### 25. Rights of persons to attend meetings of committees[^key-0d875041b9bf11c929f1a7c57edee32d]
+### 25. Rights of persons to attend meetings of committees[^c-0d875041b9bf11c929f1a7c57edee32d]
 
-(1) Subject to regulation 16 [^key-f73f166c107f76f8e28dfe16c510525b]... the following persons are entitled to attend any meeting of a committee—
+(1) Subject to regulation 16 [^c-f73f166c107f76f8e28dfe16c510525b]... the following persons are entitled to attend any meeting of a committee—
 
 - (a) any member of the committee, provided that the member of the committee is not a governor who has been suspended in accordance with regulation 17;
 - (b) the head teacher of the school, whether or not that person is a member of the committee;
@@ -411,7 +411,7 @@ This Part does not apply to any committee established by the governing body to e
 
 (2) A committee may exclude an associate member from any part of its meeting which the associate member is otherwise entitled to attend when the business under consideration concerns an individual member of staff or pupil.
 
-### 26. Meetings of committees[^key-0876289de2d8c4c9d5d1e66a7e5321e9]
+### 26. Meetings of committees[^c-0876289de2d8c4c9d5d1e66a7e5321e9]
 
 (1) Meetings of a committee are to be convened by the clerk to that committee who, when exercising this function, must comply with any direction given by—
 
@@ -420,11 +420,11 @@ This Part does not apply to any committee established by the governing body to e
 
 (2) Subject to any direction given in accordance with paragraph (1), at least seven clear days in advance the clerk must give to each member of the committee and to the head teacher (whether or not that person is a member of the committee)—
 
-- (a) written notice of the meeting; [^key-6c4ae0d886e71ea6d1d250bc6a890be7]...
-- (b) a copy of the agenda for the meeting, and[^key-472ef002b95db6ef0e7c920e3ddd29b5]
-- (c)[^key-d2775e3851756b3f28cac5c8a0e0f00f] any reports or other papers to be considered at the meeting,
+- (a) written notice of the meeting; [^c-6c4ae0d886e71ea6d1d250bc6a890be7]...
+- (b) a copy of the agenda for the meeting, and[^c-472ef002b95db6ef0e7c920e3ddd29b5]
+- (c)[^c-d2775e3851756b3f28cac5c8a0e0f00f] any reports or other papers to be considered at the meeting,
 
-provided that where the chair of the committee so determines on the ground that there are matters demanding urgent consideration, it will be sufficient if the written notice of the meeting states that fact and the notice, copy of the agenda and any reports or other papers to be considered[^key-484b90c93a070e4dc88cdfd36668a3e2] are given within such shorter periods as the chair directs.
+provided that where the chair of the committee so determines on the ground that there are matters demanding urgent consideration, it will be sufficient if the written notice of the meeting states that fact and the notice, copy of the agenda and any reports or other papers to be considered[^c-484b90c93a070e4dc88cdfd36668a3e2] are given within such shorter periods as the chair directs.
 
 (3) The proceedings of a committee will not be invalidated by—
 
@@ -451,24 +451,24 @@ provided that where the chair of the committee so determines on the ground that 
 - (b) a named pupil at, or candidate for admission to the school;
 - (c) any other matter that, by reason of its nature, the committee is satisfied should remain confidential.
 
-(10)[^key-468e5cff7670e4be2472433d9ed785dd] Notwithstanding the requirements of regulation 22(2) and of paragraphs (4) and (5) of this regulation, the governing body may approve alternative arrangements for committee members to participate or vote at meetings of a committee including but not limited to by telephone or video conference.
+(10)[^c-468e5cff7670e4be2472433d9ed785dd] Notwithstanding the requirements of regulation 22(2) and of paragraphs (4) and (5) of this regulation, the governing body may approve alternative arrangements for committee members to participate or vote at meetings of a committee including but not limited to by telephone or video conference.
 
 ## PART 6 — Governors’ Allowances
 
-### 27. Interpretation[^key-c83a989ab1b65a7f7f34aa206412e507]
+### 27. Interpretation[^c-c83a989ab1b65a7f7f34aa206412e507]
 
 In this Part—
 
 - (a) “governing body” includes a temporary governing body constituted under section 34 of the EA 2002; and
 - (b) “governor” includes a member of a temporary governing body.
 
-### 28. Schools with delegated budgets[^key-8bff70f4f4401f8b5b57758f0e38589d]
+### 28. Schools with delegated budgets[^c-8bff70f4f4401f8b5b57758f0e38589d]
 
 (1) The governing body of a maintained school which has a delegated budget[^f00015] may determine to pay a member of that governing body or any associate member payments by way of allowance referred to in paragraph (2).
 
 (2) Such payments by way of allowance are in respect of expenditure necessarily incurred for the purpose of enabling the governor or associate member to perform any duty, being either payments made under regulation 30, or payments at a rate determined by the governing body, and made on provision of a receipt for the relevant amount.
 
-### 29. Schools without delegated budgets[^key-466c3cdc631d3c012193f3c223080fca]
+### 29. Schools without delegated budgets[^c-466c3cdc631d3c012193f3c223080fca]
 
 (1) The allowances referred to in paragraph (2) are prescribed as allowances which a local authority for a maintained school which does not have a delegated budget, may—
 
@@ -477,13 +477,13 @@ In this Part—
 
 (2) Such payments by way of allowance are in respect of expenditure necessarily incurred for the purpose of enabling the governor or associate member, to perform any duty, being either payments made under regulation 30, or payments at a rate determined by the authority, and made on provision of a receipt for the relevant amount.
 
-### 30. Travel payments for private vehicles[^key-2df7dc4dfeda4fb578f2be0a380a4fb4]
+### 30. Travel payments for private vehicles[^c-2df7dc4dfeda4fb578f2be0a380a4fb4]
 
 Payments for travel expenses incurred through the use of private cars, pedal cycles and motorcycles must be at a rate not exceeding Her Majesty’s Revenue and Customs’ Approved Mileage Rate[^f00016] as published from time to time.
 
 ## PART 7 — Pupil Referral Units
 
-**31.**[^key-809e78b029cc829e2bae65dfe875f5a6] The amendments made by Schedule 3 have effect.
+**31.**[^c-809e78b029cc829e2bae65dfe875f5a6] The amendments made by Schedule 3 have effect.
 
 Lord Nash
 
@@ -493,11 +493,11 @@ Department for Education
 
 1st July 2013
 
-## SCHEDULE 1 — Pecuniary Interests and Other Specified Conflicts of Interest[^key-a37de744705e2dbdac41ccdcf7506596]
+## SCHEDULE 1 — Pecuniary Interests and Other Specified Conflicts of Interest[^c-a37de744705e2dbdac41ccdcf7506596]
 
 Regulation 16
 
-### 1. Pecuniary interests[^key-80b1234beceb2aab9f88a7cec9cb718e]
+### 1. Pecuniary interests[^c-80b1234beceb2aab9f88a7cec9cb718e]
 
 (1) For the purposes of regulation 16(b), a pecuniary interest includes an interest in a contract or a proposed contract where—
 
@@ -505,7 +505,7 @@ Regulation 16
 - (b) a relevant person is a business partner of a person with whom the contract was made; or
 - (c) a relative of a relevant person (including the relevant person’s spouse, civil partner or someone living with the relevant person as if the other person were the relevant person’s spouse or civil partner), to the knowledge of the relevant person had, or would be treated as having, such an interest.
 
-(2) For the purposes of regulation 16(2)[^key-81a06beb15762946d7a1e7c0a6faf63c], a relevant person will not be treated as having a pecuniary interest in any matter—
+(2) For the purposes of regulation 16(2)[^c-81a06beb15762946d7a1e7c0a6faf63c], a relevant person will not be treated as having a pecuniary interest in any matter—
 
 - (a) provided that the value of the relevant person’s pecuniary interest is no greater than that of the pecuniary interest commonly held by those paid to work at the school;
 - (b) by reason only of the fact that the relevant person was nominated or appointed to office by, is a member of, or is employed by, any public authority; or
@@ -515,7 +515,7 @@ Regulation 16
 
 (4) Governors are not, by reason of their pecuniary interest in the matter, prevented from considering and voting upon proposals for the governing body to take out insurance protecting their members against liabilities incurred by them arising out of their office and the governing body is not, by reason of the pecuniary interest of their members, prevented from obtaining such insurance and paying the premiums.
 
-### 2. Office of governor, chair, vice-chair or clerk[^key-5d6f6af83b568f4d69ac954ce590453b]
+### 2. Office of governor, chair, vice-chair or clerk[^c-5d6f6af83b568f4d69ac954ce590453b]
 
 (1) This sub-paragraph applies where a relevant person is present at a meeting of the governing body at which a subject of consideration is—
 
@@ -523,21 +523,21 @@ Regulation 16
 - (b) the relevant person’s own appointment or removal from office as clerk to, or chair or vice-chair of, the governing body; or
 - (c) if the relevant person is a sponsor governor, any determination under paragraph 2 of Schedule 5 to the Constitution Regulations 2007 as to the provision in the instrument of government for sponsor governors.
 
-(2) In any case where sub-paragraph (1) applies the relevant person’s interests will be treated for the purpose of regulation 16(2)[^key-e2d2c7637025d55c677fba414cfe9c61] as being in conflict with the governing body’s interests.
+(2) In any case where sub-paragraph (1) applies the relevant person’s interests will be treated for the purpose of regulation 16(2)[^c-e2d2c7637025d55c677fba414cfe9c61] as being in conflict with the governing body’s interests.
 
-### 3. Pecuniary interests[^key-55b278d7b8be8b1bc25b4831330579fe]
+### 3. Pecuniary interests[^c-55b278d7b8be8b1bc25b4831330579fe]
 
 (1) This sub-paragraph applies where a relevant person who is paid to work at a school other than as head teacher is present at a meeting of the school at which a subject of consideration is the pay or performance appraisal of any particular person employed to work at the school.
 
 (2) This sub-paragraph applies where a head teacher of a school is present at a meeting of the school at which a subject of consideration is the head teacher’s own pay or performance appraisal.
 
-(3) In any case where sub-paragraph (1) or (2) applies, the relevant person’s interest will be treated for the purpose of regulation 16(2)[^key-ed91a7ecc3f84a0f53f33dfadccd5ce4] as being in conflict with the governing body’s interests.
+(3) In any case where sub-paragraph (1) or (2) applies, the relevant person’s interest will be treated for the purpose of regulation 16(2)[^c-ed91a7ecc3f84a0f53f33dfadccd5ce4] as being in conflict with the governing body’s interests.
 
 ## SCHEDULE 2 — Amendments
 
 Regulation 4
 
-### 1. Amendments to the School Governance (Collaboration) (England) Regulations 2003[^key-a477fa2614da0494cf630e2e6d8079a9]
+### 1. Amendments to the School Governance (Collaboration) (England) Regulations 2003[^c-a477fa2614da0494cf630e2e6d8079a9]
 
 (1) In the School Governance (Collaboration) (England) Regulations 2003[^f00017]—
 
@@ -565,7 +565,7 @@ Regulation 4
 - (c) in paragraph (4) of regulation 6, after “Regulations 2007” insert “or regulation 17 of, and paragraphs 2 to 15 of Schedule 4 to the School Governance (Constitution) (England) Regulations 2012”; and
 - (d) in sub-paragraph (a) of paragraph (1) of regulation 7, for “15” substitute “17”.
 
-### 2. Amendments to the School Governance (Federations) (England) Regulations 2012[^key-ded939fffd514565990ee53a395f4845]
+### 2. Amendments to the School Governance (Federations) (England) Regulations 2012[^c-ded939fffd514565990ee53a395f4845]
 
 In the School Governance (Federations) (England) Regulations 2012[^f00018]—
 
@@ -648,7 +648,7 @@ In the School Governance (Federations) (England) Regulations 2012[^f00018]—
 
 Regulation 31
 
-### 1. Amendment to the Education (Pupil Referral Units) (Management Committees etc) (England) Regulations 2007[^key-841a72b54d7138255212f26cbdab9842]
+### 1. Amendment to the Education (Pupil Referral Units) (Management Committees etc) (England) Regulations 2007[^c-841a72b54d7138255212f26cbdab9842]
 
 (1) The Education (Pupil Referral Units) (Management Committees etc) (England) Regulations 2007 are amended as follows.
 
@@ -711,7 +711,7 @@ Regulation 31
 >
 > **11.** Omit regulation 24.
 
-### 2. Amendment to the Education (Pupil Referral Units) (Application of Enactments) (England) Regulations 2007[^key-1d449f90fce196917f70b1f027ab7dd3][^f00019]
+### 2. Amendment to the Education (Pupil Referral Units) (Application of Enactments) (England) Regulations 2007[^c-1d449f90fce196917f70b1f027ab7dd3][^f00019]
 
 Omit paragraph 25 of Schedule 1 to the Education (Pupil Referral Units) (Application of Enactments) (England) Regulations 2007.
 
@@ -747,15 +747,15 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00002]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56) (“the 1996 Act”). See section 579(1) of the 1996 Act for the definition of “regulations”. Section 569(4) of the 1996 Act was amended by the [Education (Wales) Measure 2009 (2009 no.5)](https://www.legislation.gov.uk/ukcm/2009/5). Paragraph 3 of Schedule 1 to the 1996 Act was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Paragraph 15 of Schedule 1 to the 1996 Act was inserted by section 48 of the Education Act 1997 ([1997 c.44](https://www.legislation.gov.uk/ukpga/1997/44)) and was amended by section 140(1) and (3) of, and paragraph 184 of Schedule 30 to, and Schedule 31 to, the School Standards and Framework Act 1998 ([1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31) “the 1998 Act”); [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158); and section 54(1) of, and paragraph 9 of Schedule 13 to, the Education Act 2011.
 
-[^key-c2b6f7d3dc4a122d87cc3ce3b4d0c30c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-c2b6f7d3dc4a122d87cc3ce3b4d0c30c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2012/1035](https://www.legislation.gov.uk/uksi/2012/1035).
 
 [^f00004]: Footnote: [S.I. 2007/2978](https://www.legislation.gov.uk/uksi/2007/2978), which was amended by [S.I. 2012/1825](https://www.legislation.gov.uk/uksi/2012/1825) and [S.I. 2012/3158](https://www.legislation.gov.uk/uksi/2012/3158).
 
-[^key-771be874f6518414873ebc1fb7588918]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/1624/regulation/2) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-771be874f6518414873ebc1fb7588918]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/1624/regulation/2) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-35845716cf46feaa5bbc465a28b027c7]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/1624/regulation/2) applied (with modifications) (1.9.2013) by [S.I. 2007/2978](https://www.legislation.gov.uk/uksi/2007/2978), [reg. 21](https://www.legislation.gov.uk/uksi/2007/2978/regulation/21), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/2978/schedule/3) (as substituted by [The School Governance (Roles, Procedures and Allowances) (England) Regulations 2013 (S.I. 2013/1624)](https://www.legislation.gov.uk/uksi/2013/1624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1), [Sch. 3 para. 1(2)(3)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/3/paragraph/1/2/3))
+[^c-35845716cf46feaa5bbc465a28b027c7]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/1624/regulation/2) applied (with modifications) (1.9.2013) by [S.I. 2007/2978](https://www.legislation.gov.uk/uksi/2007/2978), [reg. 21](https://www.legislation.gov.uk/uksi/2007/2978/regulation/21), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/2978/schedule/3) (as substituted by [The School Governance (Roles, Procedures and Allowances) (England) Regulations 2013 (S.I. 2013/1624)](https://www.legislation.gov.uk/uksi/2013/1624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1), [Sch. 3 para. 1(2)(3)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/3/paragraph/1/2/3))
 
 [^f00005]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31).
 
@@ -765,7 +765,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00008]: Footnote: [S.I. 2012/1034](https://www.legislation.gov.uk/uksi/2012/1034).
 
-[^key-3cbb634ee985c6b91b40405dac7a1d9c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/1624/regulation/3) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-3cbb634ee985c6b91b40405dac7a1d9c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/1624/regulation/3) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 2000/2122](https://www.legislation.gov.uk/uksi/2000/2122), which was amended by [S.I. 2006/2661](https://www.legislation.gov.uk/uksi/2006/2661), [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172) and [S.I. 2012/1845](https://www.legislation.gov.uk/uksi/2012/1845).
 
@@ -773,118 +773,118 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00011]: Footnote: [S.I. 2003/1377](https://www.legislation.gov.uk/uksi/2003/1377), which was amended by [S.I. 2003/1916](https://www.legislation.gov.uk/uksi/2003/1916), [S.I. 2004/450](https://www.legislation.gov.uk/uksi/2004/450), [S.I. 2007/959](https://www.legislation.gov.uk/uksi/2007/959), [S.I. 2007/3464](https://www.legislation.gov.uk/uksi/2007/3464), [S.I. 2009/2680](https://www.legislation.gov.uk/uksi/2009/2680) and [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172).
 
-[^key-893e791cb936b047e9cd48dd40408049]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/1624/regulation/4) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-893e791cb936b047e9cd48dd40408049]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/1624/regulation/4) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-5274b86565d101aa67c0f81234db2d62]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/1624/regulation/5) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-5274b86565d101aa67c0f81234db2d62]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/1624/regulation/5) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-bd21ba0b5fd1e74c89bea207098c7f85]: Modification: [Pts. 2-5](https://www.legislation.gov.uk/uksi/2013/1624/part/2) applied (with modifications) (1.9.2013) by [S.I. 2007/2978](https://www.legislation.gov.uk/uksi/2007/2978), [reg. 21](https://www.legislation.gov.uk/uksi/2007/2978/regulation/21), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/2978/schedule/3) (as substituted by [The School Governance (Roles, Procedures and Allowances) (England) Regulations 2013 (S.I. 2013/1624)](https://www.legislation.gov.uk/uksi/2013/1624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1), [Sch. 3 para. 1(2)(3)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/3/paragraph/1/2/3))
+[^c-bd21ba0b5fd1e74c89bea207098c7f85]: Modification: [Pts. 2-5](https://www.legislation.gov.uk/uksi/2013/1624/part/2) applied (with modifications) (1.9.2013) by [S.I. 2007/2978](https://www.legislation.gov.uk/uksi/2007/2978), [reg. 21](https://www.legislation.gov.uk/uksi/2007/2978/regulation/21), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/2978/schedule/3) (as substituted by [The School Governance (Roles, Procedures and Allowances) (England) Regulations 2013 (S.I. 2013/1624)](https://www.legislation.gov.uk/uksi/2013/1624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1), [Sch. 3 para. 1(2)(3)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/3/paragraph/1/2/3))
 
-[^key-2fa4574792f04a1aee3d62d8c08e682c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/1624/regulation/6) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-2fa4574792f04a1aee3d62d8c08e682c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/1624/regulation/6) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-1714c2d60adf11b4cbb645294fd44d71]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/1624/regulation/7) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-1714c2d60adf11b4cbb645294fd44d71]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/1624/regulation/7) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-cccf4b2321fcb1e1972cf28f24cde96c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/1624/regulation/8) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-cccf4b2321fcb1e1972cf28f24cde96c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/1624/regulation/8) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
 [^f00012]: Footnote: “Pupil” is defined at section 3 of the 1996 Act.
 
-[^key-c053cb47a2e813719bcce0b1ba3d1f47]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/1624/regulation/9) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-c053cb47a2e813719bcce0b1ba3d1f47]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/1624/regulation/9) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-8123fc6aecfa2b92d83e282ee4ebfe18]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/1624/regulation/10) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-8123fc6aecfa2b92d83e282ee4ebfe18]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/1624/regulation/10) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-3cb8e90e37090bdea9155ac6dda27090]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/1624/regulation/11) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-3cb8e90e37090bdea9155ac6dda27090]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/1624/regulation/11) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-c82568e98b8a24054265e7ba8583ea5b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/1624/regulation/12) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-c82568e98b8a24054265e7ba8583ea5b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/1624/regulation/12) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-cd6492f2225a0f1a4369fc77dc457876]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/1624/regulation/13) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-cd6492f2225a0f1a4369fc77dc457876]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/1624/regulation/13) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-7b19aa1cd21a327fb1f1047af41c5a0f]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/13/4) substituted (14.11.2013) by [The School Governance (Roles, Procedures and Allowances) (England) (Amendment) Regulations 2013 (S.I. 2013/2688)](https://www.legislation.gov.uk/uksi/2013/2688), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2688/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/2688/regulation/2/2/a)
+[^c-7b19aa1cd21a327fb1f1047af41c5a0f]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/13/4) substituted (14.11.2013) by [The School Governance (Roles, Procedures and Allowances) (England) (Amendment) Regulations 2013 (S.I. 2013/2688)](https://www.legislation.gov.uk/uksi/2013/2688), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2688/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/2688/regulation/2/2/a)
 
-[^key-f88a098bf0ec3956e7142e08c317d8b6]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/13/5) substituted (14.11.2013) by [The School Governance (Roles, Procedures and Allowances) (England) (Amendment) Regulations 2013 (S.I. 2013/2688)](https://www.legislation.gov.uk/uksi/2013/2688), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2688/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/2688/regulation/2/2/b)
+[^c-f88a098bf0ec3956e7142e08c317d8b6]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/13/5) substituted (14.11.2013) by [The School Governance (Roles, Procedures and Allowances) (England) (Amendment) Regulations 2013 (S.I. 2013/2688)](https://www.legislation.gov.uk/uksi/2013/2688), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2688/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/2688/regulation/2/2/b)
 
-[^key-a9478127802d11e36971b515c900ebbc]: Textual amendment: Words in [reg. 13(7)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/13/7) substituted (1.9.2014) by [The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014 (S.I. 2014/1257)](https://www.legislation.gov.uk/uksi/2014/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/1257/regulation/4/2)
+[^c-a9478127802d11e36971b515c900ebbc]: Textual amendment: Words in [reg. 13(7)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/13/7) substituted (1.9.2014) by [The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014 (S.I. 2014/1257)](https://www.legislation.gov.uk/uksi/2014/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/1257/regulation/4/2)
 
 [^f00013]: Footnote: [S.I. 2012/1035](https://www.legislation.gov.uk/uksi/2012/1035).
 
-[^key-5f0b82b480ef981adacbec5ce86dd3cb]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/1624/regulation/14) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-5f0b82b480ef981adacbec5ce86dd3cb]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/1624/regulation/14) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-18b825a6b4bc8da88a1972b99ff789af]: Textual amendment: [Reg. 14(6A)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/14/6A) inserted (1.9.2014) by [The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014 (S.I. 2014/1257)](https://www.legislation.gov.uk/uksi/2014/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2014/1257/regulation/4/3)
+[^c-18b825a6b4bc8da88a1972b99ff789af]: Textual amendment: [Reg. 14(6A)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/14/6A) inserted (1.9.2014) by [The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014 (S.I. 2014/1257)](https://www.legislation.gov.uk/uksi/2014/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2014/1257/regulation/4/3)
 
-[^key-5154974bbc86db0dc11ac408a5792595]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/1624/regulation/15) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-5154974bbc86db0dc11ac408a5792595]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/1624/regulation/15) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-ea6984af8b62c862c72f15bbf5bc3a62]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/1624/regulation/16) substituted (1.9.2014) by [The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014 (S.I. 2014/1257)](https://www.legislation.gov.uk/uksi/2014/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2014/1257/regulation/4/4)
+[^c-ea6984af8b62c862c72f15bbf5bc3a62]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/1624/regulation/16) substituted (1.9.2014) by [The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014 (S.I. 2014/1257)](https://www.legislation.gov.uk/uksi/2014/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2014/1257/regulation/4/4)
 
-[^key-e299388cd7ff0626a16f36fc13a176c4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2013/1624/regulation/17) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-e299388cd7ff0626a16f36fc13a176c4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2013/1624/regulation/17) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-6ac505a956687c8ce9390c1ff609a695]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/1624/regulation/18) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-6ac505a956687c8ce9390c1ff609a695]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/1624/regulation/18) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
 [^f00014]: Footnote: [S.I. 1998/2535](https://www.legislation.gov.uk/uksi/1998/2535), which was amended by [S.I. 2003/1558](https://www.legislation.gov.uk/uksi/2003/1558) and [S.I. 2005/2912](https://www.legislation.gov.uk/uksi/2005/2912).
 
-[^key-d54a68e081808c33525cac7f035d0076]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2013/1624/regulation/19) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-d54a68e081808c33525cac7f035d0076]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2013/1624/regulation/19) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-63d4b13492c8eebeff7eca7e012cc1f4]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/1624/regulation/20) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-63d4b13492c8eebeff7eca7e012cc1f4]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/1624/regulation/20) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-e46ac43ab7566e7b5a591f58cb55c577]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2013/1624/regulation/21) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-e46ac43ab7566e7b5a591f58cb55c577]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2013/1624/regulation/21) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-d5c620e611ccfa7f114f3c0133cba12d]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2013/1624/regulation/22) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-d5c620e611ccfa7f114f3c0133cba12d]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2013/1624/regulation/22) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-b82a46fc9b0f984f10398875dfa86080]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2013/1624/regulation/23) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-b82a46fc9b0f984f10398875dfa86080]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2013/1624/regulation/23) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-02c016538c5f3373fdc26feb46bf6f5b]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2013/1624/regulation/24) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-02c016538c5f3373fdc26feb46bf6f5b]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2013/1624/regulation/24) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-0d875041b9bf11c929f1a7c57edee32d]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2013/1624/regulation/25) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-0d875041b9bf11c929f1a7c57edee32d]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2013/1624/regulation/25) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-f73f166c107f76f8e28dfe16c510525b]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/25/1) omitted (1.9.2014) by virtue of [The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014 (S.I. 2014/1257)](https://www.legislation.gov.uk/uksi/2014/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2014/1257/regulation/4/5)
+[^c-f73f166c107f76f8e28dfe16c510525b]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/25/1) omitted (1.9.2014) by virtue of [The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014 (S.I. 2014/1257)](https://www.legislation.gov.uk/uksi/2014/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2014/1257/regulation/4/5)
 
-[^key-0876289de2d8c4c9d5d1e66a7e5321e9]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2013/1624/regulation/26) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-0876289de2d8c4c9d5d1e66a7e5321e9]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2013/1624/regulation/26) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-6c4ae0d886e71ea6d1d250bc6a890be7]: Textual amendment: Word in [reg. 26(2)(a)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/26/2/a) omitted (14.11.2013) by virtue of [The School Governance (Roles, Procedures and Allowances) (England) (Amendment) Regulations 2013 (S.I. 2013/2688)](https://www.legislation.gov.uk/uksi/2013/2688), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2688/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2013/2688/regulation/2/3/a)
+[^c-6c4ae0d886e71ea6d1d250bc6a890be7]: Textual amendment: Word in [reg. 26(2)(a)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/26/2/a) omitted (14.11.2013) by virtue of [The School Governance (Roles, Procedures and Allowances) (England) (Amendment) Regulations 2013 (S.I. 2013/2688)](https://www.legislation.gov.uk/uksi/2013/2688), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2688/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2013/2688/regulation/2/3/a)
 
-[^key-472ef002b95db6ef0e7c920e3ddd29b5]: Textual amendment: Word in [reg. 26(2)(b)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/26/2/b) inserted (14.11.2013) by [The School Governance (Roles, Procedures and Allowances) (England) (Amendment) Regulations 2013 (S.I. 2013/2688)](https://www.legislation.gov.uk/uksi/2013/2688), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2688/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2013/2688/regulation/2/3/b)
+[^c-472ef002b95db6ef0e7c920e3ddd29b5]: Textual amendment: Word in [reg. 26(2)(b)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/26/2/b) inserted (14.11.2013) by [The School Governance (Roles, Procedures and Allowances) (England) (Amendment) Regulations 2013 (S.I. 2013/2688)](https://www.legislation.gov.uk/uksi/2013/2688), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2688/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2013/2688/regulation/2/3/b)
 
-[^key-d2775e3851756b3f28cac5c8a0e0f00f]: Textual amendment: [Reg. 26(2)(c)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/26/2/c) inserted (14.11.2013) by [The School Governance (Roles, Procedures and Allowances) (England) (Amendment) Regulations 2013 (S.I. 2013/2688)](https://www.legislation.gov.uk/uksi/2013/2688), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2688/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2013/2688/regulation/2/3/c)
+[^c-d2775e3851756b3f28cac5c8a0e0f00f]: Textual amendment: [Reg. 26(2)(c)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/26/2/c) inserted (14.11.2013) by [The School Governance (Roles, Procedures and Allowances) (England) (Amendment) Regulations 2013 (S.I. 2013/2688)](https://www.legislation.gov.uk/uksi/2013/2688), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2688/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2013/2688/regulation/2/3/c)
 
-[^key-484b90c93a070e4dc88cdfd36668a3e2]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/26/2) substituted (14.11.2013) by [The School Governance (Roles, Procedures and Allowances) (England) (Amendment) Regulations 2013 (S.I. 2013/2688)](https://www.legislation.gov.uk/uksi/2013/2688), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2688/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2013/2688/regulation/2/3/d)
+[^c-484b90c93a070e4dc88cdfd36668a3e2]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/26/2) substituted (14.11.2013) by [The School Governance (Roles, Procedures and Allowances) (England) (Amendment) Regulations 2013 (S.I. 2013/2688)](https://www.legislation.gov.uk/uksi/2013/2688), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2688/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2013/2688/regulation/2/3/d)
 
-[^key-468e5cff7670e4be2472433d9ed785dd]: Textual amendment: [Reg. 26(10)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/26/10) inserted (14.11.2013) by [The School Governance (Roles, Procedures and Allowances) (England) (Amendment) Regulations 2013 (S.I. 2013/2688)](https://www.legislation.gov.uk/uksi/2013/2688), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2688/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/2688/regulation/3)
+[^c-468e5cff7670e4be2472433d9ed785dd]: Textual amendment: [Reg. 26(10)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/26/10) inserted (14.11.2013) by [The School Governance (Roles, Procedures and Allowances) (England) (Amendment) Regulations 2013 (S.I. 2013/2688)](https://www.legislation.gov.uk/uksi/2013/2688), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2688/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/2688/regulation/3)
 
-[^key-c83a989ab1b65a7f7f34aa206412e507]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2013/1624/regulation/27) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-c83a989ab1b65a7f7f34aa206412e507]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2013/1624/regulation/27) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-8bff70f4f4401f8b5b57758f0e38589d]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2013/1624/regulation/28) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-8bff70f4f4401f8b5b57758f0e38589d]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2013/1624/regulation/28) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
 [^f00015]: Footnote: “Delegated budget” has the same meaning as at Part 2 of the 1998 Act.
 
-[^key-466c3cdc631d3c012193f3c223080fca]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2013/1624/regulation/29) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-466c3cdc631d3c012193f3c223080fca]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2013/1624/regulation/29) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-2df7dc4dfeda4fb578f2be0a380a4fb4]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2013/1624/regulation/30) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-2df7dc4dfeda4fb578f2be0a380a4fb4]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2013/1624/regulation/30) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
 [^f00016]: Footnote: HMRC’s Approved Mileage Rates are available at: http://www.hmrc.gov.uk/rates/travel.htm
 
-[^key-809e78b029cc829e2bae65dfe875f5a6]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2013/1624/regulation/31) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-809e78b029cc829e2bae65dfe875f5a6]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2013/1624/regulation/31) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-a37de744705e2dbdac41ccdcf7506596]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1624/schedule/1) applied (with modifications) (1.9.2013) by [S.I. 2007/2978](https://www.legislation.gov.uk/uksi/2007/2978), [reg. 21](https://www.legislation.gov.uk/uksi/2007/2978/regulation/21), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/2978/schedule/3) (as substituted by [The School Governance (Roles, Procedures and Allowances) (England) Regulations 2013 (S.I. 2013/1624)](https://www.legislation.gov.uk/uksi/2013/1624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1), [Sch. 3 para. 1(2)(3)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/3/paragraph/1/2/3))
+[^c-a37de744705e2dbdac41ccdcf7506596]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1624/schedule/1) applied (with modifications) (1.9.2013) by [S.I. 2007/2978](https://www.legislation.gov.uk/uksi/2007/2978), [reg. 21](https://www.legislation.gov.uk/uksi/2007/2978/regulation/21), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/2978/schedule/3) (as substituted by [The School Governance (Roles, Procedures and Allowances) (England) Regulations 2013 (S.I. 2013/1624)](https://www.legislation.gov.uk/uksi/2013/1624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1), [Sch. 3 para. 1(2)(3)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/3/paragraph/1/2/3))
 
-[^key-80b1234beceb2aab9f88a7cec9cb718e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2013/1624/schedule/1/paragraph/1) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-80b1234beceb2aab9f88a7cec9cb718e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2013/1624/schedule/1/paragraph/1) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-81a06beb15762946d7a1e7c0a6faf63c]: Textual amendment: Words in [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/1/paragraph/1/2) substituted (1.9.2014) by [The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014 (S.I. 2014/1257)](https://www.legislation.gov.uk/uksi/2014/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2014/1257/regulation/4/6)
+[^c-81a06beb15762946d7a1e7c0a6faf63c]: Textual amendment: Words in [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/1/paragraph/1/2) substituted (1.9.2014) by [The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014 (S.I. 2014/1257)](https://www.legislation.gov.uk/uksi/2014/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2014/1257/regulation/4/6)
 
-[^key-5d6f6af83b568f4d69ac954ce590453b]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2013/1624/schedule/1/paragraph/2) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-5d6f6af83b568f4d69ac954ce590453b]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2013/1624/schedule/1/paragraph/2) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-e2d2c7637025d55c677fba414cfe9c61]: Textual amendment: Words in [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/1/paragraph/2/2) substituted (1.9.2014) by [The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014 (S.I. 2014/1257)](https://www.legislation.gov.uk/uksi/2014/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2014/1257/regulation/4/6)
+[^c-e2d2c7637025d55c677fba414cfe9c61]: Textual amendment: Words in [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/1/paragraph/2/2) substituted (1.9.2014) by [The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014 (S.I. 2014/1257)](https://www.legislation.gov.uk/uksi/2014/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2014/1257/regulation/4/6)
 
-[^key-55b278d7b8be8b1bc25b4831330579fe]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2013/1624/schedule/1/paragraph/3) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-55b278d7b8be8b1bc25b4831330579fe]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2013/1624/schedule/1/paragraph/3) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-ed91a7ecc3f84a0f53f33dfadccd5ce4]: Textual amendment: Words in [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/1/paragraph/3/3) substituted (1.9.2014) by [The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014 (S.I. 2014/1257)](https://www.legislation.gov.uk/uksi/2014/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2014/1257/regulation/4/6)
+[^c-ed91a7ecc3f84a0f53f33dfadccd5ce4]: Textual amendment: Words in [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/1/paragraph/3/3) substituted (1.9.2014) by [The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014 (S.I. 2014/1257)](https://www.legislation.gov.uk/uksi/2014/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2014/1257/regulation/4/6)
 
-[^key-a477fa2614da0494cf630e2e6d8079a9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2013/1624/schedule/2/paragraph/1) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-a477fa2614da0494cf630e2e6d8079a9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2013/1624/schedule/2/paragraph/1) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
 [^f00017]: Footnote: [S.I. 2003/1962](https://www.legislation.gov.uk/uksi/2003/1962), which was amended by [S.I. 2007/957](https://www.legislation.gov.uk/uksi/2007/957).
 
-[^key-ded939fffd514565990ee53a395f4845]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2013/1624/schedule/2/paragraph/2) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-ded939fffd514565990ee53a395f4845]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2013/1624/schedule/2/paragraph/2) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
 [^f00018]: Footnote: [S.I. 2012/1035](https://www.legislation.gov.uk/uksi/2012/1035).
 
-[^key-841a72b54d7138255212f26cbdab9842]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2013/1624/schedule/3/paragraph/1) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-841a72b54d7138255212f26cbdab9842]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2013/1624/schedule/3/paragraph/1) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
-[^key-1d449f90fce196917f70b1f027ab7dd3]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2013/1624/schedule/3/paragraph/2) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
+[^c-1d449f90fce196917f70b1f027ab7dd3]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2013/1624/schedule/3/paragraph/2) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1)
 
 [^f00019]: Footnote: [S.I. 2007/2979](https://www.legislation.gov.uk/uksi/2007/2979), paragraph 1 to Schedule 3 of which was revoked by [S.I. 2008/3093](https://www.legislation.gov.uk/uksi/2008/3093). [S.I.2007/2979](https://www.legislation.gov.uk/uksi/2007/2979), was also amended by [S.I 2010/1074](https://www.legislation.gov.uk/uksi/2010/1074) (which was revoked by [S.I. 2010/1919](https://www.legislation.gov.uk/uksi/2010/1919)), [S.I. 2012/1201](https://www.legislation.gov.uk/uksi/2012/1201), [S.I 2012/1825](https://www.legislation.gov.uk/uksi/2012/1825) and [S.I. 2012/3158](https://www.legislation.gov.uk/uksi/2012/3158).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97.[^key-520b32c92bf5d28197f6afc3b7cc506d]
+## 97.[^c-520b32c92bf5d28197f6afc3b7cc506d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In article 5, for “Community transport” substitute “ relevant NI transport
 
 ## Annotations
 
-[^key-520b32c92bf5d28197f6afc3b7cc506d]: Commencement: Reg. 97 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-520b32c92bf5d28197f6afc3b7cc506d]: Commencement: Reg. 97 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

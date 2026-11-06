@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. FCA rules about level of care provided to consumers by authorised persons[^key-b7db6af8e4dff3a3c0a6ac804ab29d03]
+## 29. FCA rules about level of care provided to consumers by authorised persons[^c-b7db6af8e4dff3a3c0a6ac804ab29d03]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7db6af8e4dff3a3c0a6ac804ab29d03]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2021/22/section/29) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/q)
+[^c-b7db6af8e4dff3a3c0a6ac804ab29d03]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2021/22/section/29) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/q)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116. Refund of all member contributions and payments for extra pension made by member[^key-02a7e5b00811b93f7c973af58a3cd01f]
+## 116. Refund of all member contributions and payments for extra pension made by member[^c-02a7e5b00811b93f7c973af58a3cd01f]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02a7e5b00811b93f7c973af58a3cd01f]: Commencement: [Reg. 116](https://www.legislation.gov.uk/ssi/2015/19/regulation/116) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-02a7e5b00811b93f7c973af58a3cd01f]: Commencement: [Reg. 116](https://www.legislation.gov.uk/ssi/2015/19/regulation/116) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

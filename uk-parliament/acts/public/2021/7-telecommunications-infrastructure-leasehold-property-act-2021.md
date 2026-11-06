@@ -35,7 +35,7 @@ An Act to amend the electronic communications code set out in Schedule 3A to the
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Code rights in respect of land connected to leased premises[^c24499841][^key-beaf56f7d5cc435d02b52fcf319856b9][^key-ca6267ffd3b5b81ed32a2249a9c3340c]
+## 1. Code rights in respect of land connected to leased premises[^c24499841][^c-beaf56f7d5cc435d02b52fcf319856b9][^c-ca6267ffd3b5b81ed32a2249a9c3340c]
 
 After Part 4 of Schedule 3A to the Communications Act 2003 (the electronic communications code) insert—
 
@@ -240,7 +240,7 @@ After Part 4 of Schedule 3A to the Communications Act 2003 (the electronic commu
 > - (a) the person owns the freehold estate in the land (or, in relation to Scotland, is the owner of the land), or
 > - (b) the person is the lessee of the land.
 
-## 2. Related amendments[^c24499861][^key-7f3b149ba9f1187c19f999cb6e698f5b][^key-68a3ff729e394dc9a3a7f27275108eb2]
+## 2. Related amendments[^c24499861][^c-7f3b149ba9f1187c19f999cb6e698f5b][^c-68a3ff729e394dc9a3a7f27275108eb2]
 
 The Schedule contains related amendments.
 
@@ -271,9 +271,9 @@ Section 2
 
 ### Communications Act 2003
 
-**1.**[^c24499871][^key-3c5d8aab29f0c79e11051e55a313a6b4][^key-9aac5d4bebd406d3ea30fc28ebb268e5] The Communications Act 2003 is amended as follows.
+**1.**[^c24499871][^c-3c5d8aab29f0c79e11051e55a313a6b4][^c-9aac5d4bebd406d3ea30fc28ebb268e5] The Communications Act 2003 is amended as follows.
 
-**2.**[^c24499901][^key-0089fa6e33fe16ad5687f6ee79a3cec1][^key-189cc4b292fca3456ecb81fb8bcd715a] In section 134 (restrictions in leases and licences), in subsection (8), for the definition of “lease” substitute—
+**2.**[^c24499901][^c-0089fa6e33fe16ad5687f6ee79a3cec1][^c-189cc4b292fca3456ecb81fb8bcd715a] In section 134 (restrictions in leases and licences), in subsection (8), for the definition of “lease” substitute—
 
 > “lease”—
 >
@@ -287,7 +287,7 @@ Section 2
 
 .
 
-**3.**[^c24499911][^key-14d97b2fd41dbed52e17df5d0458fc7f][^key-ae103a1db9cc7b204414ada9d467eae1] In section 402 (orders and regulations)—
+**3.**[^c24499911][^c-14d97b2fd41dbed52e17df5d0458fc7f][^c-ae103a1db9cc7b204414ada9d467eae1] In section 402 (orders and regulations)—
 
 - (a) in subsection (2), for paragraph (aa) substitute—
 
@@ -303,7 +303,7 @@ Section 2
     > - (a) regulations under paragraph 27E(4) of Schedule 3A;
     > - (b) regulations under paragraph 95 of Schedule 3A which amend, repeal or modify the application of primary legislation.
 
-**4.**[^c24499921][^key-01ff586a444e6aeaaa9d4c9448e0cc08][^key-5caf39d2f4c56c1517052518f7e9502f] (1) Schedule 3A (the electronic communications code) is amended as follows.
+**4.**[^c24499921][^c-01ff586a444e6aeaaa9d4c9448e0cc08][^c-5caf39d2f4c56c1517052518f7e9502f] (1) Schedule 3A (the electronic communications code) is amended as follows.
 
 (2) In paragraph 10—
 
@@ -384,15 +384,15 @@ Section 2
 
 ### Electronic Communications Code (Jurisdiction) Regulations 2017 (S.I. 2017/1284)
 
-**5.**[^c24499931][^key-c197c270d4d6675228fa173fca7b78c2][^key-2cb549813fb75bfbdf50f3154ff27438] The Electronic Communications Code (Jurisdiction) Regulations 2017 are amended as follows.
+**5.**[^c24499931][^c-c197c270d4d6675228fa173fca7b78c2][^c-2cb549813fb75bfbdf50f3154ff27438] The Electronic Communications Code (Jurisdiction) Regulations 2017 are amended as follows.
 
-**6.**[^c24499941][^key-ba2cdef77db88225bc84605077a5a8dd][^key-9fe3c48e10481050821c67486f9c4b6f] In regulation 2(1) (interpretation), after the definition of “the code” insert—
+**6.**[^c24499941][^c-ba2cdef77db88225bc84605077a5a8dd][^c-9fe3c48e10481050821c67486f9c4b6f] In regulation 2(1) (interpretation), after the definition of “the code” insert—
 
 > “**Part 4A proceedings**” means proceedings under Part 4A of the code;
 
 .
 
-**7.**[^c24499951][^key-d6d0792e5c4218c5c993da09e24a0da1][^key-b7cde8756099de6c19fec91c0a137165] (1) Regulation 3 (conferral of jurisdiction on tribunals) is amended as follows.
+**7.**[^c24499951][^c-d6d0792e5c4218c5c993da09e24a0da1][^c-b7cde8756099de6c19fec91c0a137165] (1) Regulation 3 (conferral of jurisdiction on tribunals) is amended as follows.
 
 (2) The existing text becomes paragraph (1).
 
@@ -415,7 +415,7 @@ Section 2
 >
 > (3) Any provision of the code which confers a function on the court is, to the extent that the function is exercisable by a tribunal under this regulation, to be read as if the reference to the court included reference to that tribunal.
 
-**8.**[^c24499961][^key-1191635e293306579e63539bb8111bc9][^key-8c6e4ae4138948eabc3655f0e9a22131] (1) Regulation 4 (jurisdiction for commencement of proceedings) is amended as follows.
+**8.**[^c24499961][^c-1191635e293306579e63539bb8111bc9][^c-8c6e4ae4138948eabc3655f0e9a22131] (1) Regulation 4 (jurisdiction for commencement of proceedings) is amended as follows.
 
 (2) In the heading, for “relevant” substitute “ certain ”.
 
@@ -428,80 +428,80 @@ Section 2
 > - (a) in relation to England and Wales, in the First-tier Tribunal, or
 > - (b) in relation to Scotland, in the sheriff court.
 
-**9.**[^c24499971][^key-7546045725b4d0ecf3f8054e8e6dff77][^key-bd7a2cbf36c9a4d81e32884068761357] The amendments made by paragraphs 5 to 8 do not limit the provision that may be made by regulations under paragraph 95 of the code.
+**9.**[^c24499971][^c-7546045725b4d0ecf3f8054e8e6dff77][^c-bd7a2cbf36c9a4d81e32884068761357] The amendments made by paragraphs 5 to 8 do not limit the provision that may be made by regulations under paragraph 95 of the code.
 
-**10.**[^c24499981][^key-eb8d8299720001506c5896efbe6a5c9f][^key-4d30e21416ccef562526f967c6b35d11] In paragraph 9, “**the code**” means the electronic communications code set out in Schedule 3A to the Communications Act 2003.
+**10.**[^c24499981][^c-eb8d8299720001506c5896efbe6a5c9f][^c-4d30e21416ccef562526f967c6b35d11] In paragraph 9, “**the code**” means the electronic communications code set out in Schedule 3A to the Communications Act 2003.
 
 ## Annotations
 
 [^c24499841]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/7/section/1) in force at 15.3.2021 for specified purposes, see [s. 3(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b/4)
 
-[^key-beaf56f7d5cc435d02b52fcf319856b9]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/7/section/1) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/a)
+[^c-beaf56f7d5cc435d02b52fcf319856b9]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/7/section/1) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/a)
 
-[^key-ca6267ffd3b5b81ed32a2249a9c3340c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/7/section/1) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/a)
+[^c-ca6267ffd3b5b81ed32a2249a9c3340c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/7/section/1) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/a)
 
 [^c24499861]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/7/section/2) in force at 15.3.2021 for specified purposes, see [s. 3(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b/4)
 
-[^key-7f3b149ba9f1187c19f999cb6e698f5b]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/7/section/2) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/b)
+[^c-7f3b149ba9f1187c19f999cb6e698f5b]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/7/section/2) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/b)
 
-[^key-68a3ff729e394dc9a3a7f27275108eb2]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/7/section/2) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/b)
+[^c-68a3ff729e394dc9a3a7f27275108eb2]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/7/section/2) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/b)
 
 [^c24499871]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/1) in force at 15.3.2021 for specified purposes, see [s. 3(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b/4)
 
-[^key-3c5d8aab29f0c79e11051e55a313a6b4]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/1) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+[^c-3c5d8aab29f0c79e11051e55a313a6b4]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/1) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
 
-[^key-9aac5d4bebd406d3ea30fc28ebb268e5]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/1) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+[^c-9aac5d4bebd406d3ea30fc28ebb268e5]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/1) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
 
 [^c24499901]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/2) in force at 15.3.2021 for specified purposes, see [s. 3(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b/4)
 
-[^key-0089fa6e33fe16ad5687f6ee79a3cec1]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/2) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+[^c-0089fa6e33fe16ad5687f6ee79a3cec1]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/2) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
 
-[^key-189cc4b292fca3456ecb81fb8bcd715a]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/2) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+[^c-189cc4b292fca3456ecb81fb8bcd715a]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/2) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
 
 [^c24499911]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/3) in force at 15.3.2021 for specified purposes, see [s. 3(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b/4)
 
-[^key-14d97b2fd41dbed52e17df5d0458fc7f]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/3) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+[^c-14d97b2fd41dbed52e17df5d0458fc7f]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/3) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
 
-[^key-ae103a1db9cc7b204414ada9d467eae1]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/3) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+[^c-ae103a1db9cc7b204414ada9d467eae1]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/3) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
 
 [^c24499921]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/4) in force at 15.3.2021 for specified purposes, see [s. 3(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b/4)
 
-[^key-01ff586a444e6aeaaa9d4c9448e0cc08]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/4) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+[^c-01ff586a444e6aeaaa9d4c9448e0cc08]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/4) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
 
-[^key-5caf39d2f4c56c1517052518f7e9502f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/4) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+[^c-5caf39d2f4c56c1517052518f7e9502f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/4) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
 
 [^c24499931]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/5) in force at 15.3.2021 for specified purposes, see [s. 3(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b/4)
 
-[^key-c197c270d4d6675228fa173fca7b78c2]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/5) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+[^c-c197c270d4d6675228fa173fca7b78c2]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/5) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
 
-[^key-2cb549813fb75bfbdf50f3154ff27438]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/5) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+[^c-2cb549813fb75bfbdf50f3154ff27438]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/5) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
 
 [^c24499941]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/6) in force at 15.3.2021 for specified purposes, see [s. 3(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b/4)
 
-[^key-ba2cdef77db88225bc84605077a5a8dd]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/6) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+[^c-ba2cdef77db88225bc84605077a5a8dd]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/6) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
 
-[^key-9fe3c48e10481050821c67486f9c4b6f]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/6) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+[^c-9fe3c48e10481050821c67486f9c4b6f]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/6) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
 
 [^c24499951]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/7) in force at 15.3.2021 for specified purposes, see [s. 3(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b/4)
 
-[^key-d6d0792e5c4218c5c993da09e24a0da1]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/7) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+[^c-d6d0792e5c4218c5c993da09e24a0da1]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/7) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
 
-[^key-b7cde8756099de6c19fec91c0a137165]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/7) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+[^c-b7cde8756099de6c19fec91c0a137165]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/7) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
 
 [^c24499961]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/8) in force at 15.3.2021 for specified purposes, see [s. 3(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b/4)
 
-[^key-1191635e293306579e63539bb8111bc9]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/8) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+[^c-1191635e293306579e63539bb8111bc9]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/8) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
 
-[^key-8c6e4ae4138948eabc3655f0e9a22131]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/8) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+[^c-8c6e4ae4138948eabc3655f0e9a22131]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/8) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
 
 [^c24499971]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/9) in force at 15.3.2021 for specified purposes, see [s. 3(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b/4)
 
-[^key-7546045725b4d0ecf3f8054e8e6dff77]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/9) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+[^c-7546045725b4d0ecf3f8054e8e6dff77]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/9) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
 
-[^key-bd7a2cbf36c9a4d81e32884068761357]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/9) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+[^c-bd7a2cbf36c9a4d81e32884068761357]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/9) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
 
 [^c24499981]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/10) in force at 15.3.2021 for specified purposes, see [s. 3(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b/4)
 
-[^key-eb8d8299720001506c5896efbe6a5c9f]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/10) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+[^c-eb8d8299720001506c5896efbe6a5c9f]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/10) in force at 26.12.2022 for E.W. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
 
-[^key-4d30e21416ccef562526f967c6b35d11]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/10) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+[^c-4d30e21416ccef562526f967c6b35d11]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/10) in force at 1.7.2023 for S. in so far as not already in force by [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)

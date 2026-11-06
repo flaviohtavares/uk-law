@@ -46,11 +46,11 @@ Coming into force
 
 The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred on them by sections 6AC(1)(a) and (b), (2) and (4), and 20AA(1) and (2) of the Hydrocarbon Oil Duties Act 1979[^f00001]:
 
-## 1. Citation, commencement and effect[^key-fe75abe2b977e05fcb6a22548bc2c371]
+## 1. Citation, commencement and effect[^c-fe75abe2b977e05fcb6a22548bc2c371]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-048118c6722652ff6567875e45784cb8]
+## 2. Interpretation[^c-048118c6722652ff6567875e45784cb8]
 
 In these Regulations—
 
@@ -63,43 +63,43 @@ In these Regulations—
 - “producer” has the meaning given by regulation 2(1) of the Biofuels Regulations;
 - “qualified claimant” means a producer of biodiesel from waste cooking oil who is an approved person, or who is liable to pay biofuels duty in accordance with regulation 18 of the Biofuels Regulations.
 
-## 3. Construction of references to hydrocarbon oil in the Oil Act[^key-fe75abe2b977e05fcb6a22548bc2c371]
+## 3. Construction of references to hydrocarbon oil in the Oil Act[^c-fe75abe2b977e05fcb6a22548bc2c371]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Relief[^key-fe75abe2b977e05fcb6a22548bc2c371]
+## 4. Relief[^c-fe75abe2b977e05fcb6a22548bc2c371]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Form of relief[^key-fe75abe2b977e05fcb6a22548bc2c371]
+## 5. Form of relief[^c-fe75abe2b977e05fcb6a22548bc2c371]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amount of relief[^key-fe75abe2b977e05fcb6a22548bc2c371]
+## 6. Amount of relief[^c-fe75abe2b977e05fcb6a22548bc2c371]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Set-off[^key-fe75abe2b977e05fcb6a22548bc2c371]
+## 7. Set-off[^c-fe75abe2b977e05fcb6a22548bc2c371]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Applications[^key-fe75abe2b977e05fcb6a22548bc2c371]
+## 8. Applications[^c-fe75abe2b977e05fcb6a22548bc2c371]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Cancellation of relief[^key-fe75abe2b977e05fcb6a22548bc2c371]
+## 9. Cancellation of relief[^c-fe75abe2b977e05fcb6a22548bc2c371]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. General conditions[^key-fe75abe2b977e05fcb6a22548bc2c371]
+## 10. General conditions[^c-fe75abe2b977e05fcb6a22548bc2c371]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Samples[^key-fe75abe2b977e05fcb6a22548bc2c371]
+## 11. Samples[^c-fe75abe2b977e05fcb6a22548bc2c371]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Conditions imposed by the Commissioners[^key-fe75abe2b977e05fcb6a22548bc2c371]
+## 12. Conditions imposed by the Commissioners[^c-fe75abe2b977e05fcb6a22548bc2c371]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -139,9 +139,9 @@ A full and final Impact Assessment has not been produced for this instrument as 
 
 [^f00001]: Footnote: [1979 c. 5](https://www.legislation.gov.uk/ukpga/1979/5); section 27(3) applies the definition of “the Commissioners” in section 1(1) of the Customs and Excise Management Act [1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2). section 1(1) was amended by the Commissioners for Revenue and Customs Act [2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11), Schedule 4, paragraph 20 and 22(b) and defines “the Commissioners” as meaning the Commissioners for Revenue and Customs. Section 1(2) defines “hydrocarbon oil”. By virtue of section 6A(4) (inserted by section 11(1) of the Finance Act [1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34)), the references to “hydrocarbon oil” in the provisions of the Act shall be construed as including references to any substance on which duty is charged under section 6A and references to duty on hydrocarbon oil shall be construed, where a substance is to be treated as such oil, as including references to duty under section 6A. Section 6AC was added by section 5(4) of the Finance Act [2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23). Section 20AA was inserted by section 2(1) of the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26) and amended by Part 1(4) of Schedule 23 to the Finance Act [1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34), paragraph 54 of Schedule 4 to the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9) and section 10(3) of the Finance Act [2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23).
 
-[^key-fe75abe2b977e05fcb6a22548bc2c371]: Textual amendment: Regulations revoked (except art. 2) (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [95(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2015/1947/article/95/1/b/iii)
+[^c-fe75abe2b977e05fcb6a22548bc2c371]: Textual amendment: Regulations revoked (except art. 2) (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [95(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2015/1947/article/95/1/b/iii)
 
-[^key-048118c6722652ff6567875e45784cb8]: Commencement: Reg. 2 in force at 1.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/984/regulation/1/2)
+[^c-048118c6722652ff6567875e45784cb8]: Commencement: Reg. 2 in force at 1.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/984/regulation/1/2)
 
 [^f00002]: Footnote: Section 2AA was inserted by section 5(1), (2) of the Finance Act 2002.
 

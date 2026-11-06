@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Housing ombudsman scheme[^key-9cb1dee53c2e030248601902df925fa1]
+## 40. Housing ombudsman scheme[^c-9cb1dee53c2e030248601902df925fa1]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9cb1dee53c2e030248601902df925fa1]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2023/36/section/40) in force at 20.9.2023, see [s. 46(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/2)
+[^c-9cb1dee53c2e030248601902df925fa1]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2023/36/section/40) in force at 20.9.2023, see [s. 46(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/2)

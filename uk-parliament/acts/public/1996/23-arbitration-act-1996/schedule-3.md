@@ -157,7 +157,7 @@ Section 107(1).
 
 ### Industrial and Provident Societies Act 1965 (c.12)
 
-**20.**[^key-9263576e361108d727ef21251fcef4b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-9263576e361108d727ef21251fcef4b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Carriage of Goods by Road Act 1965 (c.37)
 
@@ -267,7 +267,7 @@ Section 107(1).
 
 ### Aircraft and Shipbuilding Industries Act 1977 (c.3)
 
-**32.**[^key-692d9398344dc6090fc94ab1677a4d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-692d9398344dc6090fc94ab1677a4d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Patents Act 1977 (c.37)
 
@@ -279,7 +279,7 @@ Section 107(1).
 
 **34.** (1) The Judicature (Northern Ireland) Act 1978 is amended as follows.
 
-(2)[^key-bd7410d4ef562b2bbe670d46f1a20cf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-bd7410d4ef562b2bbe670d46f1a20cf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 55(2) (rules of court) after paragraph (c) insert—
 
@@ -350,7 +350,7 @@ Section 107(1).
 
 **37.** (1) The Supreme Court Act 1981 is amended as follows.
 
-(2)[^key-2a5fae18c9faff57fdae632da8abc1cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2a5fae18c9faff57fdae632da8abc1cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 151 (interpretation, &c.), in the definition of “arbitration agreement”, for “the Arbitration Act 1950 by virtue of section 32 of that Act;” substitute “ Part I of the Arbitration Act 1996; ”.
 
@@ -577,19 +577,19 @@ Section 107(1).
 
 [^c833564]: Textual amendment: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/1996/23/schedule/3/paragraph/18) repealed (8.5.1998) by [1997 c. 66](https://www.legislation.gov.uk/ukpga/1997/66), [s. 52](https://www.legislation.gov.uk/ukpga/1997/66/section/52), [Sch. 4](https://www.legislation.gov.uk/ukpga/1997/66/schedule/4); [S.I. 1998/1028](https://www.legislation.gov.uk/uksi/1998/1028), [art. 2](https://www.legislation.gov.uk/uksi/1998/1028/article/2)
 
-[^key-9263576e361108d727ef21251fcef4b7]: Textual amendment: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/1996/23/schedule/3/paragraph/20) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-9263576e361108d727ef21251fcef4b7]: Textual amendment: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/1996/23/schedule/3/paragraph/20) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c2086013]: Textual amendment: [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/1996/23/schedule/3/paragraph/23) omitted (7.6.2005) by virtue of [International Organisations Act 2005 (c. 20)](https://www.legislation.gov.uk/ukpga/2005/20), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2005/20/section/1/2), [11](https://www.legislation.gov.uk/ukpga/2005/20/section/11)(with s. 1(3)); [S.I. 2005/1870](https://www.legislation.gov.uk/uksi/2005/1870), [art. 2](https://www.legislation.gov.uk/uksi/2005/1870/article/2) and said provision repealed (prosp.) by [International Organisations Act 2005 (c. 20)](https://www.legislation.gov.uk/ukpga/2005/20), [s. 9](https://www.legislation.gov.uk/ukpga/2005/20/section/9), [Sch.](https://www.legislation.gov.uk/ukpga/2005/20/schedule)
 
 [^c833565]: Textual amendment: [Sch. 3 para. 31](https://www.legislation.gov.uk/ukpga/1996/23/schedule/3/paragraph/31) repealed (24.9.1996) by [S.I. 1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921), [art. 28](https://www.legislation.gov.uk/nisi/1996/1921/article/28), [Sch. 3](https://www.legislation.gov.uk/nisi/1996/1921/schedule/3)
 
-[^key-692d9398344dc6090fc94ab1677a4d89]: Textual amendment: [Sch. 3 para. 32](https://www.legislation.gov.uk/ukpga/1996/23/schedule/3/paragraph/32) repealed (22.3.2013) by [The Public Bodies (Abolition of the Aircraft and Shipbuilding Industries Arbitration Tribunal) Order 2013 (S.I. 2013/686)](https://www.legislation.gov.uk/uksi/2013/686), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/686/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2013/686/schedule/1/paragraph/7)
+[^c-692d9398344dc6090fc94ab1677a4d89]: Textual amendment: [Sch. 3 para. 32](https://www.legislation.gov.uk/ukpga/1996/23/schedule/3/paragraph/32) repealed (22.3.2013) by [The Public Bodies (Abolition of the Aircraft and Shipbuilding Industries Arbitration Tribunal) Order 2013 (S.I. 2013/686)](https://www.legislation.gov.uk/uksi/2013/686), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/686/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2013/686/schedule/1/paragraph/7)
 
-[^key-bd7410d4ef562b2bbe670d46f1a20cf9]: Textual amendment: Sch. 3 para. 34(2) omitted (1.8.2025) by virtue of [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2025/4/section/13/3), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-bd7410d4ef562b2bbe670d46f1a20cf9]: Textual amendment: Sch. 3 para. 34(2) omitted (1.8.2025) by virtue of [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2025/4/section/13/3), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
 [^c833566]: Commencement: [Sch. 3 para. 36](https://www.legislation.gov.uk/ukpga/1996/23/schedule/3/paragraph/36) wholly in force 31.1.1997: Sch. 3 para. 36 not in force at Royal Assent see [s. 109(1)](https://www.legislation.gov.uk/ukpga/1996/23/section/109/1); [Sch. 3 para. 36](https://www.legislation.gov.uk/ukpga/1996/23/schedule/3/paragraph/36) in force for certain purposes only at 17.12.1996 othererwise in force at 31.1.1997 by [S.I. 1996/3146](https://www.legislation.gov.uk/uksi/1996/3146), [arts. 2](https://www.legislation.gov.uk/uksi/1996/3146/article/2), [3](https://www.legislation.gov.uk/uksi/1996/3146/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/3146/schedule/1)
 
-[^key-2a5fae18c9faff57fdae632da8abc1cd]: Textual amendment: Sch. 3 para. 37(2) omitted (1.8.2025) by virtue of [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2025/4/section/13/3), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-2a5fae18c9faff57fdae632da8abc1cd]: Textual amendment: Sch. 3 para. 37(2) omitted (1.8.2025) by virtue of [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2025/4/section/13/3), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
 [^c833567]: Textual amendment: [Sch. 3 para. 41](https://www.legislation.gov.uk/ukpga/1996/23/schedule/3/paragraph/41) repealed (1.4.2002 for E.W.) by [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14), [ss. 117(2)](https://www.legislation.gov.uk/ukpga/2000/14/section/117/2), [122](https://www.legislation.gov.uk/ukpga/2000/14/section/122), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/14/schedule/6); [S.I. 2001/4150](https://www.legislation.gov.uk/uksi/2001/4150), [art. 3(3)(c)(xi)](https://www.legislation.gov.uk/uksi/2001/4150/article/3/3/c/xi) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2001/4150/article/4) and to [S.I. 2002/1493](https://www.legislation.gov.uk/uksi/2002/1493), [art. 4](https://www.legislation.gov.uk/uksi/2002/1493/article/4)) (as amended by [S.I. 2002/1493](https://www.legislation.gov.uk/uksi/2002/1493), [art. 6](https://www.legislation.gov.uk/uksi/2002/1493/article/6)); [S.I. 2002/920](https://www.legislation.gov.uk/uksi/2002/920), [art. 3(3)(g)(ix)](https://www.legislation.gov.uk/uksi/2002/920/article/3/3/g/ix) (subject to [art. 3(4)(5)](https://www.legislation.gov.uk/uksi/2002/920/article/3/4/5), [Schs. 1-3](https://www.legislation.gov.uk/uksi/2002/920/schedule/1) and with [art. 3(6)-(10)](https://www.legislation.gov.uk/uksi/2002/920/article/3/6))
 

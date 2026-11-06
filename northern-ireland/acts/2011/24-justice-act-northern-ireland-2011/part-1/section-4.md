@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Offender levy imposed by court: other supplementary provisions[^key-4eea539f32d3f389c25eec4b472c2673]
+## 4. Offender levy imposed by court: other supplementary provisions[^c-4eea539f32d3f389c25eec4b472c2673]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ the levy is, by virtue of this subsection, discharged on the expiry of the sente
 
 ## Annotations
 
-[^key-4eea539f32d3f389c25eec4b472c2673]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/24/section/4) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(f)](https://www.legislation.gov.uk/nisr/2012/214/article/2/f)
+[^c-4eea539f32d3f389c25eec4b472c2673]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/24/section/4) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(f)](https://www.legislation.gov.uk/nisr/2012/214/article/2/f)

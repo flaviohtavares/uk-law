@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Finance makes the following Regulations in exercise of the powers conferred by Article 37(4), of the Rates (Northern Ireland) Order 1977[^f00001].
 
-## 1. Citation and commencement[^key-40b4c89869b70aba1f85990abe874ea8]
+## 1. Citation and commencement[^c-40b4c89869b70aba1f85990abe874ea8]
 
 These Regulations may be cited as the Valuation (Telecommunications, Natural Gas and Water) (Amendment) Regulations (Northern Ireland) 2025 and shall come into operation on 1st April 2025.
 
-## 2. Amendment of the Valuation (Telecommunications, Natural Gas and Water) Regulations (Northern Ireland) 2010[^key-4d3336d9995e4a0cd30b9193ead40f72]
+## 2. Amendment of the Valuation (Telecommunications, Natural Gas and Water) Regulations (Northern Ireland) 2010[^c-4d3336d9995e4a0cd30b9193ead40f72]
 
 For Part 1 of the Schedule to the Valuation (Telecommunications, Natural Gas and Water) Regulations (Northern Ireland) 2010[^f00002] there shall be substituted the Part 1 set out in the Schedule.
 
@@ -58,13 +58,13 @@ Andrew McAvoy
 
 A senior officer of the Department of Finance
 
-## SCHEDULE[^key-ba86635ec461cf498cb4091ee4f328fc]
+## SCHEDULE[^c-ba86635ec461cf498cb4091ee4f328fc]
 
 Regulation 2
 
-### PART 1 — Telecommunications hereditaments[^key-aedb21be582e5645bfcc7ba751fc9684]
+### PART 1 — Telecommunications hereditaments[^c-aedb21be582e5645bfcc7ba751fc9684]
 
-[^key-ba86635ec461cf498cb4091ee4f328fc]
+[^c-ba86635ec461cf498cb4091ee4f328fc]
 
 Regulation 3
 
@@ -95,12 +95,12 @@ These Regulations substitute the list in Part 1 of the Schedule to the 2010 Regu
 
 [^f00001]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); paragraph (4) of Article 37 was substituted by Article 6(1) of the Rates (Amendment) (Northern Ireland) Order 1996 ([S.I. 1996/3162 (N.I. 25))](https://www.legislation.gov.uk/nisi/1996/3162).
 
-[^key-40b4c89869b70aba1f85990abe874ea8]: Commencement: Reg. 1 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/44/regulation/1)
+[^c-40b4c89869b70aba1f85990abe874ea8]: Commencement: Reg. 1 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/44/regulation/1)
 
-[^key-4d3336d9995e4a0cd30b9193ead40f72]: Commencement: Reg. 2 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/44/regulation/1)
+[^c-4d3336d9995e4a0cd30b9193ead40f72]: Commencement: Reg. 2 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/44/regulation/1)
 
 [^f00002]: Footnote: [S.R. 2010 No.431](https://www.legislation.gov.uk/nisr/2010/431) as amended by [S.R. 2014 No.67](https://www.legislation.gov.uk/nisr/2014/67), [S.R. 2015 No. 147](https://www.legislation.gov.uk/nisr/2015/147), [S.R. 2018 No.67](https://www.legislation.gov.uk/nisr/2018/67), [S.R. 2019 No 198](https://www.legislation.gov.uk/nisr/2019/198) and [S.R. 2020 No 161](https://www.legislation.gov.uk/nisr/2020/161).
 
-[^key-ba86635ec461cf498cb4091ee4f328fc]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2025/44/schedule) in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/44/regulation/1)
+[^c-ba86635ec461cf498cb4091ee4f328fc]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2025/44/schedule) in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/44/regulation/1)
 
-[^key-aedb21be582e5645bfcc7ba751fc9684]: Commencement: Sch. Pt. 1 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/44/regulation/1)
+[^c-aedb21be582e5645bfcc7ba751fc9684]: Commencement: Sch. Pt. 1 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/44/regulation/1)

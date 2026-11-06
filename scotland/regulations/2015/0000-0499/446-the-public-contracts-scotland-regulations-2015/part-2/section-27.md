@@ -22,7 +22,7 @@ summary: ''
 
 (1) When undertaking a procurement a contracting authority must apply a procedure which complies with these Regulations and includes publication of a call for competition except where regulation 33 (use of the negotiated procedure without prior notification) permits a contracting authority to award a contract using negotiated procedure without prior publication.
 
-(2)[^key-bfb2f2dbf134ad6c874aa4d788d9bdef] A call for competition must be made by means of a contract notice in accordance with regulation 50 (contract notices).
+(2)[^c-bfb2f2dbf134ad6c874aa4d788d9bdef] A call for competition must be made by means of a contract notice in accordance with regulation 50 (contract notices).
 
 (3) A contracting authority may, in accordance with these Regulations, apply—
 
@@ -51,12 +51,12 @@ summary: ''
 - (a) it was submitted by a tenderer which does not have the required qualifications; or
 - (b) the price tendered exceeds the contracting authority's budget as determined and documented prior to the commencement of the procurement procedure.
 
-(8)[^key-de86eaf2cf0c8a5c32b85c9eafcfa6b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-de86eaf2cf0c8a5c32b85c9eafcfa6b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Nothing in these Regulations prevents an authority which has commenced a procurement from terminating that procurement at any time.
 
 ## Annotations
 
-[^key-bfb2f2dbf134ad6c874aa4d788d9bdef]: Textual amendment: [Reg. 27(2)](https://www.legislation.gov.uk/ssi/2015/446/regulation/27/2) substituted (30.5.2023) by [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [4(5)(a)](https://www.legislation.gov.uk/ssi/2023/124/regulation/4/5/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+[^c-bfb2f2dbf134ad6c874aa4d788d9bdef]: Textual amendment: [Reg. 27(2)](https://www.legislation.gov.uk/ssi/2015/446/regulation/27/2) substituted (30.5.2023) by [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [4(5)(a)](https://www.legislation.gov.uk/ssi/2023/124/regulation/4/5/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
 
-[^key-de86eaf2cf0c8a5c32b85c9eafcfa6b2]: Textual amendment: [Reg. 27(8)](https://www.legislation.gov.uk/ssi/2015/446/regulation/27/8) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [4(5)(b)](https://www.legislation.gov.uk/ssi/2023/124/regulation/4/5/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+[^c-de86eaf2cf0c8a5c32b85c9eafcfa6b2]: Textual amendment: [Reg. 27(8)](https://www.legislation.gov.uk/ssi/2015/446/regulation/27/8) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [4(5)(b)](https://www.legislation.gov.uk/ssi/2023/124/regulation/4/5/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))

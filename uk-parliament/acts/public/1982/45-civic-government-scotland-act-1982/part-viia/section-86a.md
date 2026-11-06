@@ -29,10 +29,10 @@ summary: ''
   - (i) made and not recalled; or
   - (ii) applied for and not refused.
 
-(3) In subsection (2) above, “**suspended forfeiture order**” and “**restraint order**” shall be construed in accordance with, respectively, section 21(2) of the Proceeds of Crime (Scotland) Act 1995 and Part 3 of the Proceeds of Crime Act 2002[^key-06fc4db88ef9adafcde54f225d633135] .
+(3) In subsection (2) above, “**suspended forfeiture order**” and “**restraint order**” shall be construed in accordance with, respectively, section 21(2) of the Proceeds of Crime (Scotland) Act 1995 and Part 3 of the Proceeds of Crime Act 2002[^c-06fc4db88ef9adafcde54f225d633135] .
 
 ## Annotations
 
 [^c13375961]: Textual amendment: Pt. VIIA (ss. 86A-86J) inserted (19.5.1997) by [1997 c. 30](https://www.legislation.gov.uk/ukpga/1997/30), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/1997/30/section/6/4), [7(2)](https://www.legislation.gov.uk/ukpga/1997/30/section/7/2)
 
-[^key-06fc4db88ef9adafcde54f225d633135]: Textual amendment: Words in s. 86A(3) substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 12(2)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/12/2); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7))
+[^c-06fc4db88ef9adafcde54f225d633135]: Textual amendment: Words in s. 86A(3) substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 12(2)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/12/2); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7))

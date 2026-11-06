@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Interest on default sums[^key-84d2a9301db19dd1a026b911b9370ceb]
+## 13. Interest on default sums[^c-84d2a9301db19dd1a026b911b9370ceb]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ After section 86E of the 1974 Act (inserted by section 12 of this Act) insert—
 
 ## Annotations
 
-[^key-84d2a9301db19dd1a026b911b9370ceb]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2006/14/section/13) in force at 1.10.2008 by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)
+[^c-84d2a9301db19dd1a026b911b9370ceb]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2006/14/section/13) in force at 1.10.2008 by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)

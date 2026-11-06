@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Transfer of persons to Inland Revenue[^key-1dde3f6699f87e428107a3aadeff5199][^key-898ce3c584e141ce85fa088aabf32a19]
+## 22. Transfer of persons to Inland Revenue[^c-1dde3f6699f87e428107a3aadeff5199][^c-898ce3c584e141ce85fa088aabf32a19]
 
 *Extent: N.I.*
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1dde3f6699f87e428107a3aadeff5199]: Commencement: Art. 22 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-1dde3f6699f87e428107a3aadeff5199]: Commencement: Art. 22 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-898ce3c584e141ce85fa088aabf32a19]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/1999/671/article/22) in force at 26.3.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(a)](https://www.legislation.gov.uk/nisr/1999/149/article/2/a) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-898ce3c584e141ce85fa088aabf32a19]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/1999/671/article/22) in force at 26.3.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(a)](https://www.legislation.gov.uk/nisr/1999/149/article/2/a) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
 [^f00022]: Footnote: S.I. [1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919).

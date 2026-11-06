@@ -63,7 +63,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 (3) The Interpretation Act (Northern Ireland) 1954 [^c24045211] shall apply to these Regulations as it applies to an Act of the Assembly. For the purposes of these Regulations and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954 where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
 
-## 2. Universal credit – minimum income floor[^key-7087154816b4735d4afac2111cfc1ee2]
+## 2. Universal credit – minimum income floor[^c-7087154816b4735d4afac2111cfc1ee2]
 
 (1) The Department may, where it appears expedient as a consequent of the outbreak of coronavirus disease, and in such cases or class of case, or for such period, as the Department determines—
 
@@ -84,7 +84,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 - (c) £488.59 for joint claimants both aged under 25;
 - (d) £594.04 for joint claimants where either is aged 25 or over.
 
-(2) This regulation takes effect in relation to each award of universal credit in the first assessment period that ends on or after 6th April 2020[^key-49e4283e5f6a8dcaee56246065090f17] and continues to have effect only for the remainder of the tax year beginning with 6th April 2020.
+(2) This regulation takes effect in relation to each award of universal credit in the first assessment period that ends on or after 6th April 2020[^c-49e4283e5f6a8dcaee56246065090f17] and continues to have effect only for the remainder of the tax year beginning with 6th April 2020.
 
 ## 4. Local Housing Allowance
 
@@ -207,11 +207,11 @@ and who satisfies the requirements for entitlement to a jobseeker's allowance ot
 
 (1) The Secretary of State must keep the operation of these Regulations under review.
 
-(2) Regulations 6 and 7[^key-42fe5670f4a46b3e23f27a515c1f50c0] cease to have effect at the end of the period of eight months beginning on 13th March 2020.
+(2) Regulations 6 and 7[^c-42fe5670f4a46b3e23f27a515c1f50c0] cease to have effect at the end of the period of eight months beginning on 13th March 2020.
 
-(2A)[^key-09aeeaecd8755243791ec2826e791d4b] Regulation 2 ceases to have effect on 31st July 2021[^key-a6147d42b2d4779982922fc442f0ac77].
+(2A)[^c-09aeeaecd8755243791ec2826e791d4b] Regulation 2 ceases to have effect on 31st July 2021[^c-a6147d42b2d4779982922fc442f0ac77].
 
-(2B) Regulations 8 and 9 cease to have effect on 31st August 2021[^key-a86cd8d3ea1c0ea1009a58db1024f827].
+(2B) Regulations 8 and 9 cease to have effect on 31st August 2021[^c-a86cd8d3ea1c0ea1009a58db1024f827].
 
 (3) Regulation 3 (treating a person as having limited capability for work) and regulation 4 (suspension of the minimum income floor) of the Employment and Support Allowance and Universal Credit (Coronavirus) Regulations (Northern Ireland) 2020 [^c24045371] no longer have effect in so far as they apply to Universal Credit.
 
@@ -261,13 +261,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24045211]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-7087154816b4735d4afac2111cfc1ee2]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/2020/53/regulation/2) continued in part (with modifications) (temp.) (31.7.2021) by [The Universal Credit (Coronavirus) (Restoration of the Minimum Income Floor) Regulations (Northern Ireland) 2021 (S.R. 2021/209)](https://www.legislation.gov.uk/nisr/2021/209), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/209/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2021/209/regulation/2)
+[^c-7087154816b4735d4afac2111cfc1ee2]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/2020/53/regulation/2) continued in part (with modifications) (temp.) (31.7.2021) by [The Universal Credit (Coronavirus) (Restoration of the Minimum Income Floor) Regulations (Northern Ireland) 2021 (S.R. 2021/209)](https://www.legislation.gov.uk/nisr/2021/209), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/209/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2021/209/regulation/2)
 
 [^c24045221]: Marginal citation: [Regulation 63](https://www.legislation.gov.uk/nisr/2020/53/regulation/63) was amended by regulation 3 of S.R. [2019 No. 173](https://www.legislation.gov.uk/ukcm/2019/173).
 
 [^c24045231]: Marginal citation: S.R. [2020 No. 40](https://www.legislation.gov.uk/ukcm/2020/40).
 
-[^key-49e4283e5f6a8dcaee56246065090f17]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2020/53/regulation/3/2) substituted (6.4.2020) by [The Social Security (Coronavirus) (Further Measures) Amendment Regulations (Northern Ireland) 2020 (S.R. 2020/61)](https://www.legislation.gov.uk/nisr/2020/61), [regs. 1](https://www.legislation.gov.uk/nisr/2020/61/regulation/1), [2(1)](https://www.legislation.gov.uk/nisr/2020/61/regulation/2/1)
+[^c-49e4283e5f6a8dcaee56246065090f17]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2020/53/regulation/3/2) substituted (6.4.2020) by [The Social Security (Coronavirus) (Further Measures) Amendment Regulations (Northern Ireland) 2020 (S.R. 2020/61)](https://www.legislation.gov.uk/nisr/2020/61), [regs. 1](https://www.legislation.gov.uk/nisr/2020/61/regulation/1), [2(1)](https://www.legislation.gov.uk/nisr/2020/61/regulation/2/1)
 
 [^c24045241]: Marginal citation: S.R. [2008 No. 100](https://www.legislation.gov.uk/ukcm/2008/100); relevant amending Rules are SR [2012 No. 157](https://www.legislation.gov.uk/ukcm/2012/157), SR [2015 No.2](https://www.legislation.gov.uk/ukcm/2015/2) and SR [2020 No. 14](https://www.legislation.gov.uk/ukcm/2020/14).
 
@@ -295,12 +295,12 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24045361]: Marginal citation: [Section70(2)](https://www.legislation.gov.uk/nisr/2020/53/section/70/2) was amended by regulation 5(2) of S.R. [2016 No. 228](https://www.legislation.gov.uk/ukcm/2016/228).
 
-[^key-42fe5670f4a46b3e23f27a515c1f50c0]: Textual amendment: Words in reg. 10(2) substituted (12.11.2020) by [The Social Security (Coronavirus) (Further Measures) (Amendment) and Miscellaneous Amendment Regulations (Northern Ireland) 2020 (S.R. 2020/242)](https://www.legislation.gov.uk/nisr/2020/242), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/242/regulation/1/2), [2(a)](https://www.legislation.gov.uk/nisr/2020/242/regulation/2/a)
+[^c-42fe5670f4a46b3e23f27a515c1f50c0]: Textual amendment: Words in reg. 10(2) substituted (12.11.2020) by [The Social Security (Coronavirus) (Further Measures) (Amendment) and Miscellaneous Amendment Regulations (Northern Ireland) 2020 (S.R. 2020/242)](https://www.legislation.gov.uk/nisr/2020/242), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/242/regulation/1/2), [2(a)](https://www.legislation.gov.uk/nisr/2020/242/regulation/2/a)
 
-[^key-09aeeaecd8755243791ec2826e791d4b]: Textual amendment: Reg. 10(2A)(2B) inserted (12.11.2020) by [The Social Security (Coronavirus) (Further Measures) (Amendment) and Miscellaneous Amendment Regulations (Northern Ireland) 2020 (S.R. 2020/242)](https://www.legislation.gov.uk/nisr/2020/242), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/242/regulation/1/2), [2(b)](https://www.legislation.gov.uk/nisr/2020/242/regulation/2/b)
+[^c-09aeeaecd8755243791ec2826e791d4b]: Textual amendment: Reg. 10(2A)(2B) inserted (12.11.2020) by [The Social Security (Coronavirus) (Further Measures) (Amendment) and Miscellaneous Amendment Regulations (Northern Ireland) 2020 (S.R. 2020/242)](https://www.legislation.gov.uk/nisr/2020/242), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/242/regulation/1/2), [2(b)](https://www.legislation.gov.uk/nisr/2020/242/regulation/2/b)
 
-[^key-a6147d42b2d4779982922fc442f0ac77]: Textual amendment: Words in reg. 10(2A) substituted (6.4.2021) by [The Universal Credit (Extension of Coronavirus Measures) Regulations (Northern Ireland) 2021 (S.R. 2021/67)](https://www.legislation.gov.uk/nisr/2021/67), [regs. 1](https://www.legislation.gov.uk/nisr/2021/67/regulation/1), [3](https://www.legislation.gov.uk/nisr/2021/67/regulation/3)
+[^c-a6147d42b2d4779982922fc442f0ac77]: Textual amendment: Words in reg. 10(2A) substituted (6.4.2021) by [The Universal Credit (Extension of Coronavirus Measures) Regulations (Northern Ireland) 2021 (S.R. 2021/67)](https://www.legislation.gov.uk/nisr/2021/67), [regs. 1](https://www.legislation.gov.uk/nisr/2021/67/regulation/1), [3](https://www.legislation.gov.uk/nisr/2021/67/regulation/3)
 
-[^key-a86cd8d3ea1c0ea1009a58db1024f827]: Textual amendment: Words in [reg. 10(2B)](https://www.legislation.gov.uk/nisr/2020/53/regulation/10/2B) substituted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations (Northern Ireland) 2021 (S.R. 2021/105)](https://www.legislation.gov.uk/nisr/2021/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/105/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2021/105/regulation/3)
+[^c-a86cd8d3ea1c0ea1009a58db1024f827]: Textual amendment: Words in [reg. 10(2B)](https://www.legislation.gov.uk/nisr/2020/53/regulation/10/2B) substituted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations (Northern Ireland) 2021 (S.R. 2021/105)](https://www.legislation.gov.uk/nisr/2021/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/105/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2021/105/regulation/3)
 
 [^c24045371]: Marginal citation: S.R. [2020 No. 33](https://www.legislation.gov.uk/ukcm/2020/33)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Eligible complaints – breach of the disclosure and acknowledgment provisions[^key-02f40421c6f0f07777437cf1b647ed2e]
+## 56. Eligible complaints – breach of the disclosure and acknowledgment provisions[^c-02f40421c6f0f07777437cf1b647ed2e]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ An eligible complaint in respect of a breach of the disclosure and acknowledgmen
 
 ## Annotations
 
-[^key-02f40421c6f0f07777437cf1b647ed2e]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2012/2079/regulation/56) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)
+[^c-02f40421c6f0f07777437cf1b647ed2e]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2012/2079/regulation/56) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)

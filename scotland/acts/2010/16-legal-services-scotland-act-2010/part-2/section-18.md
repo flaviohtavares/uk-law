@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Practice rules: general[^key-958bb370b06a072b0a4cb637ea6e7b45]
+## 18. Practice rules: general[^c-958bb370b06a072b0a4cb637ea6e7b45]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-958bb370b06a072b0a4cb637ea6e7b45]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2010/16/section/18) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-958bb370b06a072b0a4cb637ea6e7b45]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2010/16/section/18) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

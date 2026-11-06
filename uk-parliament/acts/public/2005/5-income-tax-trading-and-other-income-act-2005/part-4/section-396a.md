@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 396A. Arrangements offering a choice of capital or income return[^key-92c8459206f2f5c153334e131db252c3]
+## 396A. Arrangements offering a choice of capital or income return[^c-92c8459206f2f5c153334e131db252c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 (2) If S chooses the alternative receipt—
 
 - (a) for income tax purposes it is treated as a distribution made to S by that company in the tax year in which it is received by S, and
-- (b)[^key-c128d248f9263df1c1412a519ad1a012] for the purposes of sections 1100 to 1103 of CTA 2010 (statements and returns of details of distributions) it is treated as a distribution that—
+- (b)[^c-c128d248f9263df1c1412a519ad1a012] for the purposes of sections 1100 to 1103 of CTA 2010 (statements and returns of details of distributions) it is treated as a distribution that—
   - (i) is so made, and
   - (ii) is one to which section 1100 of CTA 2010 applies.
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-92c8459206f2f5c153334e131db252c3]: Textual amendment: S. 396A and cross-heading inserted (with effect in accordance with s. 19(10) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/19/2)
+[^c-92c8459206f2f5c153334e131db252c3]: Textual amendment: S. 396A and cross-heading inserted (with effect in accordance with s. 19(10) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/19/2)
 
-[^key-c128d248f9263df1c1412a519ad1a012]: Textual amendment: [S. 396A(2)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/396A/2/b) substituted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/9)
+[^c-c128d248f9263df1c1412a519ad1a012]: Textual amendment: [S. 396A(2)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/396A/2/b) substituted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/9)

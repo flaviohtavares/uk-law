@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Circumstances in which the duty in section 68 ends[^key-9fc0c6c952922affa00b7d239ca74632]
+## 69. Circumstances in which the duty in section 68 ends[^c-9fc0c6c952922affa00b7d239ca74632]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ but this is subject to subsections (4) and (5).
 
 ## Annotations
 
-[^key-9fc0c6c952922affa00b7d239ca74632]: Commencement: [S. 69](https://www.legislation.gov.uk/anaw/2014/7/section/69) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 20](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/20)
+[^c-9fc0c6c952922affa00b7d239ca74632]: Commencement: [S. 69](https://www.legislation.gov.uk/anaw/2014/7/section/69) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 20](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/20)

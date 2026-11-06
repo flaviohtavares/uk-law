@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Commencement, citation and revocations[^key-57ae2acaa8234156df5b2a5c915363c4]
+## 1. Commencement, citation and revocations[^c-57ae2acaa8234156df5b2a5c915363c4]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-57ae2acaa8234156df5b2a5c915363c4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-57ae2acaa8234156df5b2a5c915363c4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [1984/812](https://www.legislation.gov.uk/uksi/1984/812).
 

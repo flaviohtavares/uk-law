@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 186. Protected trust deed: discharge of trustee[^key-1c60dca1a62f64fad60aa14de1821df5]
+## 186. Protected trust deed: discharge of trustee[^c-1c60dca1a62f64fad60aa14de1821df5]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c60dca1a62f64fad60aa14de1821df5]: Commencement: [S. 186](https://www.legislation.gov.uk/asp/2016/21/section/186) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-1c60dca1a62f64fad60aa14de1821df5]: Commencement: [S. 186](https://www.legislation.gov.uk/asp/2016/21/section/186) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

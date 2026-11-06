@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Warrant under section 236 of the 1986 Act[^key-eac56c83ae43ccb0536ad8a6f75aea9c]
+## 108. Warrant under section 236 of the 1986 Act[^c-eac56c83ae43ccb0536ad8a6f75aea9c]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ as may be directed by the court.
 
 ## Annotations
 
-[^key-eac56c83ae43ccb0536ad8a6f75aea9c]: Commencement: Rule 108 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-eac56c83ae43ccb0536ad8a6f75aea9c]: Commencement: Rule 108 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

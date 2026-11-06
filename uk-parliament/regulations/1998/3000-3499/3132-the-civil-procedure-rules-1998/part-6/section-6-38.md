@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.38. Service of documents other than the claim form - permission[^key-f9a40126cd058d1143d61842545ec9d1]
+## 6.38. Service of documents other than the claim form - permission[^c-f9a40126cd058d1143d61842545ec9d1]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Any application notice issued or order made in any proceedings, or other documen
 
 ## Annotations
 
-[^key-f9a40126cd058d1143d61842545ec9d1]: Textual amendment: [Rule 6.38](https://www.legislation.gov.uk/uksi/1998/3132/rule/6.38) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [7(6)](https://www.legislation.gov.uk/uksi/2022/783/rule/7/6)
+[^c-f9a40126cd058d1143d61842545ec9d1]: Textual amendment: [Rule 6.38](https://www.legislation.gov.uk/uksi/1998/3132/rule/6.38) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [7(6)](https://www.legislation.gov.uk/uksi/2022/783/rule/7/6)

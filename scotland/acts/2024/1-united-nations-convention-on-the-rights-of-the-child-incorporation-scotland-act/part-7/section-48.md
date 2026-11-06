@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Short title[^key-2b3d53443fdc9517e882edd1bb76fc51][^key-2b3d53443fdc9517e882edd1bb76fc51]
+## 48. Short title[^c-2b3d53443fdc9517e882edd1bb76fc51][^c-2b3d53443fdc9517e882edd1bb76fc51]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The short title of this Act is the United Nations Convention on the Rights of th
 
 ## Annotations
 
-[^key-2b3d53443fdc9517e882edd1bb76fc51]: Commencement: S. 48 in force at 17.1.2024, see [s. 47(1)](https://www.legislation.gov.uk/asp/2024/1/section/47/1)
+[^c-2b3d53443fdc9517e882edd1bb76fc51]: Commencement: S. 48 in force at 17.1.2024, see [s. 47(1)](https://www.legislation.gov.uk/asp/2024/1/section/47/1)

@@ -18,8 +18,8 @@ summary: ''
 
 (1) This Chapter applies to a credit or financial institution to which this Part applies that—
 
-- (a) is required by its parent law to prepare and have audited accounts; [^key-00bf622b2c71e9e35f49a6a5cf39f806]...
-- (b)[^key-00bf622b2c71e9e35f49a6a5cf39f806] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) is required by its parent law to prepare and have audited accounts; [^c-00bf622b2c71e9e35f49a6a5cf39f806]...
+- (b)[^c-00bf622b2c71e9e35f49a6a5cf39f806] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In relation to an institution to which this Chapter applies—
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00bf622b2c71e9e35f49a6a5cf39f806]: Textual amendment: [Reg. 44(1)(b)](https://www.legislation.gov.uk/uksi/2009/1801/regulation/44/1/b) and word omitted (31.12.2020) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 27](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/27); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-00bf622b2c71e9e35f49a6a5cf39f806]: Textual amendment: [Reg. 44(1)(b)](https://www.legislation.gov.uk/uksi/2009/1801/regulation/44/1/b) and word omitted (31.12.2020) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 27](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/27); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

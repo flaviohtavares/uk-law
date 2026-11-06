@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Licence for off-sales[^key-64510b91b9f92c4585c4ad5d5a40861d][^key-d8b1f712ab54aa18d6a57265a90b4dbf]
+## 10. Licence for off-sales[^c-64510b91b9f92c4585c4ad5d5a40861d][^c-d8b1f712ab54aa18d6a57265a90b4dbf]
 
 *Extent: N.I.*
 
@@ -185,6 +185,6 @@ summary: ''
 
 ## Annotations
 
-[^key-64510b91b9f92c4585c4ad5d5a40861d]: Commencement: S. 10 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-64510b91b9f92c4585c4ad5d5a40861d]: Commencement: S. 10 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-d8b1f712ab54aa18d6a57265a90b4dbf]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2021/7/section/10) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-d8b1f712ab54aa18d6a57265a90b4dbf]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2021/7/section/10) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Security controls for payloads and launch vehicles[^key-f4ae91ab405546952afc580ab6884cc1]
+## 178. Security controls for payloads and launch vehicles[^c-f4ae91ab405546952afc580ab6884cc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4ae91ab405546952afc580ab6884cc1]: Commencement: Reg. 178 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-f4ae91ab405546952afc580ab6884cc1]: Commencement: Reg. 178 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

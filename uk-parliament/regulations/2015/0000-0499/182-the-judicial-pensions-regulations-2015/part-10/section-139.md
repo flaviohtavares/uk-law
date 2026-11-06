@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Application of Chapter[^key-4bbc4f112f55a7b401978c02f64cbf21]
+## 139. Application of Chapter[^c-4bbc4f112f55a7b401978c02f64cbf21]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Chapter applies in relation to an active member of this scheme (P) who has 
 
 ## Annotations
 
-[^key-4bbc4f112f55a7b401978c02f64cbf21]: Commencement: [Reg. 139](https://www.legislation.gov.uk/uksi/2015/182/regulation/139) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-4bbc4f112f55a7b401978c02f64cbf21]: Commencement: [Reg. 139](https://www.legislation.gov.uk/uksi/2015/182/regulation/139) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

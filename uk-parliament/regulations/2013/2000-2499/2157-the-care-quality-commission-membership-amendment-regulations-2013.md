@@ -36,7 +36,7 @@ Social Care, England
 
 Public Health, England
 
-The Care Quality Commission (Membership) (Amendment) Regulations 2013 (revoked)[^key-ccbe938aef9adc26a0ab54989d818407]
+The Care Quality Commission (Membership) (Amendment) Regulations 2013 (revoked)[^c-ccbe938aef9adc26a0ab54989d818407]
 
 Made
 
@@ -50,24 +50,24 @@ Coming into force
 
 1st October 2013
 
-[^key-ccbe938aef9adc26a0ab54989d818407]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ccbe938aef9adc26a0ab54989d818407]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ccbe938aef9adc26a0ab54989d818407]
+## 1. Citation and commencement[^c-ccbe938aef9adc26a0ab54989d818407]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Care Quality Commission (Membership) Regulations 2008[^key-ccbe938aef9adc26a0ab54989d818407]
+## 2. Amendment to the Care Quality Commission (Membership) Regulations 2008[^c-ccbe938aef9adc26a0ab54989d818407]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ccbe938aef9adc26a0ab54989d818407]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ccbe938aef9adc26a0ab54989d818407]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ccbe938aef9adc26a0ab54989d818407]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ccbe938aef9adc26a0ab54989d818407]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ccbe938aef9adc26a0ab54989d818407]: Textual amendment: Regulations revoked (1.9.2015) by [The Care Quality Commission (Membership) Regulations 2015 (S.I. 2015/1479)](https://www.legislation.gov.uk/uksi/2015/1479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1479/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2015/1479/regulation/8/c)
+[^c-ccbe938aef9adc26a0ab54989d818407]: Textual amendment: Regulations revoked (1.9.2015) by [The Care Quality Commission (Membership) Regulations 2015 (S.I. 2015/1479)](https://www.legislation.gov.uk/uksi/2015/1479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1479/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2015/1479/regulation/8/c)

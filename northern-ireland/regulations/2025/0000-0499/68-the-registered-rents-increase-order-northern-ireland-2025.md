@@ -44,11 +44,11 @@ The Department for Communities makes the following Order in exercise of the powe
 
 The Department has accepted the recommendation of the rent officer made under Article 55(4) of that Order that the rents referred to in Article 55(1) of that Order should be increased.
 
-## 1. Citation and commencement[^key-ff2cef27f301445e18f433f391f22c31]
+## 1. Citation and commencement[^c-ff2cef27f301445e18f433f391f22c31]
 
 This Order may be cited as the Registered Rents (Increase) Order (Northern Ireland) 2025 and shall come into operation on 9th June 2025.
 
-## 2. Increase of registered rents[^key-8fb9a1fae620818724759c60b6357265]
+## 2. Increase of registered rents[^c-8fb9a1fae620818724759c60b6357265]
 
 (1) Subject to paragraph (2) the rents registered under Part IV of the Private Tenancies (Northern Ireland) Order 2006 during the period beginning on 2nd April 2007 and ending on 8th June 2025 shall be increased by 2.7 percent.
 
@@ -72,6 +72,6 @@ A landlord must give a tenant at least 4 weeks’ notice of the increase in acco
 
 [^f00001]: Footnote: [S.I. 2006/1459 (N.I. 10)](https://www.legislation.gov.uk/nisi/2006/1459)
 
-[^key-ff2cef27f301445e18f433f391f22c31]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2025/68/article/1) in operation at 9.6.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/68/article/1)
+[^c-ff2cef27f301445e18f433f391f22c31]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2025/68/article/1) in operation at 9.6.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/68/article/1)
 
-[^key-8fb9a1fae620818724759c60b6357265]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2025/68/article/2) in operation at 9.6.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/68/article/1)
+[^c-8fb9a1fae620818724759c60b6357265]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2025/68/article/2) in operation at 9.6.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/68/article/1)

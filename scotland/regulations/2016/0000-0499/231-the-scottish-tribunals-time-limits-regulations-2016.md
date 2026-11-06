@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with paragraph 4(3) of schedule 9 of that Act, the Scottish Ministers have consulted with the President of Tribunals and such other persons as they considered appropriate.
 
-## 1. Citation, commencement and interpretation[^key-c55e63294829d6b0ba0a3e17a44e3405]
+## 1. Citation, commencement and interpretation[^c-c55e63294829d6b0ba0a3e17a44e3405]
 
 (1) These Regulations may be cited as the Scottish Tribunals (Time Limits) Regulations 2016.
 
@@ -60,11 +60,11 @@ In accordance with paragraph 4(3) of schedule 9 of that Act, the Scottish Minist
 - “appellant” means a party applying for permission to appeal; and
 - “hearing” means an oral hearing and includes a hearing conducted in whole or in part by video link, telephone or other means of instantaneous two-way electronic communication.
 
-## 2. Time limits for applying to the First-tier Tribunal or Upper Tribunal for permission to appeal against its own decision[^key-e5f4c34f63cf150db05e702df18ae5ae]
+## 2. Time limits for applying to the First-tier Tribunal or Upper Tribunal for permission to appeal against its own decision[^c-e5f4c34f63cf150db05e702df18ae5ae]
 
 (1) An application for permission under sections 46(3)(a) or 48(3)(a) of the Act (application for permission to appeal the Tribunal’s own decision) must be received by the Tribunal whose decision is being appealed against within the period of 30 days beginning with the relevant date.
 
-(2)[^key-db775a5d3895efa4486304adc2b14e96] The First-tier Tribunal or the Upper Tribunal, as appropriate, may on cause shown extend the period beyond 30 days if it considers such an extension to be in the interests of justice.
+(2)[^c-db775a5d3895efa4486304adc2b14e96] The First-tier Tribunal or the Upper Tribunal, as appropriate, may on cause shown extend the period beyond 30 days if it considers such an extension to be in the interests of justice.
 
 (3) Subject to paragraph (4), the relevant date is the later of the date on which—
 
@@ -80,7 +80,7 @@ In accordance with paragraph 4(3) of schedule 9 of that Act, the Scottish Minist
   - (i) written reasons were not requested at the hearing (or were not requested in writing within 14 days beginning with the day after the last day of the hearing); or
   - (ii) the First-tier Tribunal or the Upper Tribunal, as appropriate, did not undertake at the hearing to provide written reasons.
 
-## 3. Time limits for applying to the Upper Tribunal for permission to appeal against a decision of the First-tier Tribunal[^key-ad88282b15a770757d8aaf18c7a71e46]
+## 3. Time limits for applying to the Upper Tribunal for permission to appeal against a decision of the First-tier Tribunal[^c-ad88282b15a770757d8aaf18c7a71e46]
 
 (1) An application for permission under section 46(3)(b) of the 2014 Act (application for permission to appeal to the Upper Tribunal against a decision of the First-tier Tribunal) must be received by the Upper Tribunal within the period of 30 days beginning with the relevant date.
 
@@ -114,10 +114,10 @@ These Regulations set time limits for applications for permission to appeal to t
 
 [^f00001]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
-[^key-c55e63294829d6b0ba0a3e17a44e3405]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/231/regulation/1) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/231/regulation/1/2)
+[^c-c55e63294829d6b0ba0a3e17a44e3405]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/231/regulation/1) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/231/regulation/1/2)
 
-[^key-e5f4c34f63cf150db05e702df18ae5ae]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/231/regulation/2) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/231/regulation/1/2)
+[^c-e5f4c34f63cf150db05e702df18ae5ae]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/231/regulation/2) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/231/regulation/1/2)
 
-[^key-db775a5d3895efa4486304adc2b14e96]: Modification: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/231/regulation/2/2) modified (1.12.2016) by [The Upper Tribunal for Scotland (Rules of Procedure) Regulations 2016 (S.S.I. 2016/232)](https://www.legislation.gov.uk/ssi/2016/232), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/232/regulation/1/2), [sch. para. 30(6)](https://www.legislation.gov.uk/ssi/2016/232/schedule/paragraph/30/6) (with [reg. 2](https://www.legislation.gov.uk/ssi/2016/232/regulation/2))
+[^c-db775a5d3895efa4486304adc2b14e96]: Modification: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/231/regulation/2/2) modified (1.12.2016) by [The Upper Tribunal for Scotland (Rules of Procedure) Regulations 2016 (S.S.I. 2016/232)](https://www.legislation.gov.uk/ssi/2016/232), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/232/regulation/1/2), [sch. para. 30(6)](https://www.legislation.gov.uk/ssi/2016/232/schedule/paragraph/30/6) (with [reg. 2](https://www.legislation.gov.uk/ssi/2016/232/regulation/2))
 
-[^key-ad88282b15a770757d8aaf18c7a71e46]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/231/regulation/3) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/231/regulation/1/2)
+[^c-ad88282b15a770757d8aaf18c7a71e46]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/231/regulation/3) in force at 1.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/231/regulation/1/2)

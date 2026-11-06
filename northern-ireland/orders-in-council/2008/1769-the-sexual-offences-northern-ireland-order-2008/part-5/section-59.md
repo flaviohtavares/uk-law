@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Loitering or soliciting for purposes of prostitution[^key-ea8ffa648d61164b585959959275b4ce]
+## 59. Loitering or soliciting for purposes of prostitution[^c-ea8ffa648d61164b585959959275b4ce]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea8ffa648d61164b585959959275b4ce]: Textual amendment: Art. 59 repealed (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 15(4)](https://www.legislation.gov.uk/nia/2015/2/section/15/4), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)
+[^c-ea8ffa648d61164b585959959275b4ce]: Textual amendment: Art. 59 repealed (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 15(4)](https://www.legislation.gov.uk/nia/2015/2/section/15/4), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)

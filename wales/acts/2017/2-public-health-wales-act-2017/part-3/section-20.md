@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Warrant to enter dwelling[^key-884fde2d3740b0f47a56caecdbfd7121]
+## 20. Warrant to enter dwelling[^c-884fde2d3740b0f47a56caecdbfd7121]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-884fde2d3740b0f47a56caecdbfd7121]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2017/2/section/20) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-884fde2d3740b0f47a56caecdbfd7121]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2017/2/section/20) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

@@ -25,13 +25,13 @@ summary: ''
 (1) Designation lapses if the designated person—
 
 - (a) is granted leave to enter or remain in the United Kingdom,
-- (b)[^key-5f2d9555db62db298d2fe4a9308af95f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-5f2d9555db62db298d2fe4a9308af95f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) leaves the United Kingdom, or
 - (d) is made the subject of a deportation order under section 5 of the Immigration Act 1971 (c. 77).
 
 (2) After designation lapses support may not be provided by virtue of section 134, subject to the following exceptions.
 
-(3) Exception 1 is that, if designation lapses under subsection (1)(a) [^key-61b3f300f519ddbb384f862d6f57deb6]..., support may be provided in respect of a period which—
+(3) Exception 1 is that, if designation lapses under subsection (1)(a) [^c-61b3f300f519ddbb384f862d6f57deb6]..., support may be provided in respect of a period which—
 
 - (a) begins when the designation lapses, and
 - (b) ends on a date determined in accordance with an order of the Secretary of State.
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f2d9555db62db298d2fe4a9308af95f]: Textual amendment: [S. 136(1)(b)](https://www.legislation.gov.uk/ukpga/2008/4/section/136/1/b) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [18(3)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/18/3/a)
+[^c-5f2d9555db62db298d2fe4a9308af95f]: Textual amendment: [S. 136(1)(b)](https://www.legislation.gov.uk/ukpga/2008/4/section/136/1/b) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [18(3)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/18/3/a)
 
-[^key-61b3f300f519ddbb384f862d6f57deb6]: Textual amendment: Words in [s. 136(3)](https://www.legislation.gov.uk/ukpga/2008/4/section/136/3) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [18(3)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/18/3/b)
+[^c-61b3f300f519ddbb384f862d6f57deb6]: Textual amendment: Words in [s. 136(3)](https://www.legislation.gov.uk/ukpga/2008/4/section/136/3) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [18(3)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/18/3/b)

@@ -46,13 +46,13 @@ The Department for Communities makes the following Regulations in exercise of th
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-404e197e6ad991eb179471aa39d10bcc]
+### 1. Citation and commencement[^c-404e197e6ad991eb179471aa39d10bcc]
 
 These Regulations may be cited as the Occupational Pension Schemes (Climate Change Governance and Reporting) Regulations (Northern Ireland) 2021 and shall come into operation on 1st October 2021.
 
 ## PART 2 — Climate Change Governance and Reporting
 
-### 2. Interpretation[^key-14a53200aa3b9908aea755ca2964624c]
+### 2. Interpretation[^c-14a53200aa3b9908aea755ca2964624c]
 
 For the purposes of this Part—
 
@@ -80,7 +80,7 @@ For the purposes of this Part—
 - “**scheme year commencement date**” means the date on which the scheme year commences;
 - “**scheme year end date**” means the date on which the scheme year ends.
 
-### 3. Climate change governance etc. requirements[^key-24e50718c721281e4218bd7a12b757e8]
+### 3. Climate change governance etc. requirements[^c-24e50718c721281e4218bd7a12b757e8]
 
 (1) Trustees of a trust scheme which has relevant assets equal to, or exceeding, £5 billion on the first scheme year end date which falls on or after 1st March 2020 must comply with the requirements in Part 1 of the Schedule—
 
@@ -115,7 +115,7 @@ must comply with the requirements in Part 1 of the Schedule from the scheme year
 - (c) which is a formerly authorised master trust scheme, or
 - (d) which is a formerly authorised collective money purchase scheme.
 
-### 4. Climate change governance etc. requirements: authorised master trust schemes[^key-a8b47f2e0565cf78b07005c3c34ccc6d]
+### 4. Climate change governance etc. requirements: authorised master trust schemes[^c-a8b47f2e0565cf78b07005c3c34ccc6d]
 
 (1) Trustees of authorised master trust schemes must comply with the requirements in Part 1 of the Schedule from 1st October 2021, or, if later, from the date on which the scheme is authorised.
 
@@ -143,7 +143,7 @@ must comply with the requirements in Part 1 of the Schedule from the scheme year
 
 cease to be subject to the requirements in Part 1 of the Schedule from that subsequent scheme year end date.
 
-### 5. Climate change governance etc. requirements: authorised collective money purchase schemes[^key-74889f6bfa28aecc9a4014fdcd7b80b7]
+### 5. Climate change governance etc. requirements: authorised collective money purchase schemes[^c-74889f6bfa28aecc9a4014fdcd7b80b7]
 
 (1) Trustees of authorised collective money purchase schemes must comply with the requirements in Part 1 of the Schedule to from the date on which the scheme is authorised.
 
@@ -171,7 +171,7 @@ must comply with the requirements in Part 1 of the Schedule from the scheme year
 
 cease to be subject to the requirements in Part 1 of the Schedule from that subsequent scheme year end date.
 
-### 6. Climate change reporting and publication requirements[^key-e3fb4c6731316189950260b3b9022d41]
+### 6. Climate change reporting and publication requirements[^c-e3fb4c6731316189950260b3b9022d41]
 
 (1) Subject to paragraphs (2) and (3) trustees of a trust scheme must, within 7 months of the scheme year end date of any scheme year in which they were required to comply with the requirements in Part 1 of the Schedule—
 
@@ -201,7 +201,7 @@ but the trustees are not required to publish the manuscript signature of the per
 
 ## PART 3 — Compliance
 
-### 7. Compliance notices[^key-05adbc79e38a514294fd0904aaa46816]
+### 7. Compliance notices[^c-05adbc79e38a514294fd0904aaa46816]
 
 (1) The Authority[^f00013] may issue a compliance notice to any person if the Authority are of the opinion that the person is not complying with, or has not complied with any provision under Part 2 or the Schedule.
 
@@ -224,7 +224,7 @@ but the trustees are not required to publish the manuscript signature of the per
 - (b) the evidence on which that opinion is based, and
 - (c) that if the Authority are of the opinion that the person has failed to comply with the requirements of the notice, the Authority may issue a penalty notice under regulation 9(1)(a)(i).
 
-### 8. Third party compliance notices[^key-71aa61308247e46acb06d61936201fa3]
+### 8. Third party compliance notices[^c-71aa61308247e46acb06d61936201fa3]
 
 (1) Where in any of the circumstances of non-compliance in paragraph (2)—
 
@@ -258,7 +258,7 @@ the Authority may issue to the third party a third party compliance notice.
   - (ii) the evidence on which that opinion is based, and
 - (d) that if the Authority are of the opinion that the third party has failed to comply with the requirements of the notice, the Authority may issue a penalty notice under regulation 9(1)(b).
 
-### 9. Penalty notices[^key-ba3a9926f56ad66bf30b1b057b31c432]
+### 9. Penalty notices[^c-ba3a9926f56ad66bf30b1b057b31c432]
 
 (1) Subject to paragraph (2) and to regulation 11(1) and (3)(b), the Authority may issue a penalty notice to—
 
@@ -288,7 +288,7 @@ the Authority may issue to the third party a third party compliance notice.
 - (f) if the notice is issued under paragraph (1)(a)(ii), specify the provision or provisions which have been contravened, and
 - (g) notify the person to whom the notice is issued of the review process under regulation 12 and the right of referral to a tribunal under regulation 13.
 
-### 10. Penalty notices: recovery[^key-3de571933908cb6abd333b9edd16fe8c]
+### 10. Penalty notices: recovery[^c-3de571933908cb6abd333b9edd16fe8c]
 
 (1) Any penalty payable under a penalty notice is recoverable by the Authority.
 
@@ -296,7 +296,7 @@ the Authority may issue to the third party a third party compliance notice.
 
 (3) The Authority must pay into the Consolidated Fund any penalty recovered under this regulation.
 
-### 11. Penalty notices: recovery from bodies corporate[^key-ce11cb9b059ff88b7586c194b9e81457]
+### 11. Penalty notices: recovery from bodies corporate[^c-ce11cb9b059ff88b7586c194b9e81457]
 
 (1) Where—
 
@@ -315,7 +315,7 @@ the Authority may issue the penalty notice to each of those persons who consente
 - (a) may not also require the relevant body corporate to pay a penalty in respect of the same act or omission, and
 - (b) must issue a penalty notice to the person who is required to pay, but may also notify the relevant body corporate.
 
-### 12. Review of notices[^key-d91cb35ebdc5c9f0cfda59cf0b1dd913]
+### 12. Review of notices[^c-d91cb35ebdc5c9f0cfda59cf0b1dd913]
 
 (1) The Authority may review a notice to which this paragraph applies—
 
@@ -341,7 +341,7 @@ the Authority may issue the penalty notice to each of those persons who consente
 - (a) confirm, vary or revoke the notice;
 - (b) substitute a different notice.
 
-### 13. References to the First-tier Tribunal or Upper Tribunal[^key-a69b84fd64e97c1a4e931b553ec0e1f6]
+### 13. References to the First-tier Tribunal or Upper Tribunal[^c-a69b84fd64e97c1a4e931b553ec0e1f6]
 
 (1) A person to whom a penalty notice is issued under regulation 9 or 11 may, if one of the conditions in paragraph (2) is satisfied, make a reference to the Tribunal in respect of—
 
@@ -373,7 +373,7 @@ the Authority may issue the penalty notice to each of those persons who consente
   - (a) the Tribunal Procedure (Upper Tribunal) Rules 2008[^f00015] in relation to the Upper Tribunal, and
   - (b) the Tribunal Procedure (First-tier Tribunal) (General Regulatory Chamber) Rules 2009[^f00016] in relation to the First-tier Tribunal.
 
-### 14. Service of notifications and other documents[^key-cc28441e63d07ae6408af100f9949d12]
+### 14. Service of notifications and other documents[^c-cc28441e63d07ae6408af100f9949d12]
 
 (1) This regulation applies where any provision under this Part authorises or requires—
 
@@ -411,7 +411,7 @@ the references in paragraph (6) to its principal office include references to it
 
 (8) In this regulation, “**notification**” includes notice and references to sending a document to a person include references to making an application to that person.
 
-### 15. Service by electronic means[^key-31380c46c2282848f7a70b6838b7db5b]
+### 15. Service by electronic means[^c-31380c46c2282848f7a70b6838b7db5b]
 
 (1) This regulation applies where a notification or document authorised or required to be given or sent for the purposes of this Part is transmitted to a person (“**the recipient**”) by means of—
 
@@ -468,39 +468,39 @@ Regulations 3 to 6
 
 #### Governance
 
-**1.**[^key-fa85fdb228205bdb084d4e207da1076f] Trustees must establish and maintain oversight of the climate-related risks and opportunities which are relevant to the scheme.
+**1.**[^c-fa85fdb228205bdb084d4e207da1076f] Trustees must establish and maintain oversight of the climate-related risks and opportunities which are relevant to the scheme.
 
-**2.**[^key-455f1d1bdaf66529e1487a9360593cdc] Trustees must establish and maintain processes for the purpose of satisfying themselves that—
+**2.**[^c-455f1d1bdaf66529e1487a9360593cdc] Trustees must establish and maintain processes for the purpose of satisfying themselves that—
 
 - (a) any person who undertakes scheme governance activities otherwise than as a trustee, takes adequate steps to identify, assess and manage any climate-related risks and opportunities which are relevant to the governance activities they are undertaking, and
 - (b) any person who is not a legal adviser of the trustees and who advises or assists the trustees with respect to scheme governance activities, takes adequate steps to identify and assess any climate-related risks and opportunities which are relevant to the matters in respect of which they are advising or assisting.
 
 #### Strategy
 
-**3.**[^key-72dc3cf893a3b14b825673f0beab38f3] Trustees must, on an ongoing basis, identify climate-related risks and opportunities which they consider will have an effect over the short term, medium term and long term on the scheme’s investment strategy and where the scheme has a funding strategy, the funding strategy.
+**3.**[^c-72dc3cf893a3b14b825673f0beab38f3] Trustees must, on an ongoing basis, identify climate-related risks and opportunities which they consider will have an effect over the short term, medium term and long term on the scheme’s investment strategy and where the scheme has a funding strategy, the funding strategy.
 
-**4.**[^key-f1135ef21929ff253dc41d1286148811] For the purpose of paragraph 3, the time periods which comprise the short term, medium term and long term are such time periods as the trustees determine are appropriate taking into account the scheme’s liabilities and its obligations to pay benefits.
+**4.**[^c-f1135ef21929ff253dc41d1286148811] For the purpose of paragraph 3, the time periods which comprise the short term, medium term and long term are such time periods as the trustees determine are appropriate taking into account the scheme’s liabilities and its obligations to pay benefits.
 
-**5.**[^key-3f187c8f8b2d9d718f26278e66dceae9] Trustees must, on an ongoing basis, assess the impact of the climate-related risks and opportunities which they have identified on the scheme’s investment strategy and where the scheme has a funding strategy, the funding strategy.
+**5.**[^c-3f187c8f8b2d9d718f26278e66dceae9] Trustees must, on an ongoing basis, assess the impact of the climate-related risks and opportunities which they have identified on the scheme’s investment strategy and where the scheme has a funding strategy, the funding strategy.
 
-**6.**[^key-bf8c0fbb5f0383adf13c411069dabff7] Trustees must, as far as they are able, undertake scenario analysis which considers the matters in paragraph 7 in at least two scenarios where there is an increase in the global average temperature and in one of those scenarios the global average temperature increase selected by the trustees must be within the range of 1.5 degrees Celsius above pre-industrial levels to and including 2 degrees Celsius above pre-industrial levels.
+**6.**[^c-bf8c0fbb5f0383adf13c411069dabff7] Trustees must, as far as they are able, undertake scenario analysis which considers the matters in paragraph 7 in at least two scenarios where there is an increase in the global average temperature and in one of those scenarios the global average temperature increase selected by the trustees must be within the range of 1.5 degrees Celsius above pre-industrial levels to and including 2 degrees Celsius above pre-industrial levels.
 
-**7.**[^key-47c9c9fb088e50048044e9f7a059c5a5] For the purposes of paragraph 6, the matters are—
+**7.**[^c-47c9c9fb088e50048044e9f7a059c5a5] For the purposes of paragraph 6, the matters are—
 
 - (a) the potential impact on the scheme’s assets and liabilities of the effects of the global average increase in temperature and of any steps which might be taken (by governments or otherwise) because of the increase in temperature in these scenarios;
 - (b) the resilience of the scheme’s investment strategy in these scenarios, and
 - (c) where the scheme has a funding strategy, the resilience of the funding strategy in these scenarios.
 
-**8.**[^key-5ee907b8df893bb2c97e84dbe22b6a2c] The scenario analysis required by paragraph 6 must be undertaken—
+**8.**[^c-5ee907b8df893bb2c97e84dbe22b6a2c] The scenario analysis required by paragraph 6 must be undertaken—
 
 - (a) in the first scheme year in respect of which the requirements of this Part apply to the trustees, and
 - (b) thereafter in accordance with paragraph 11.
 
-**9.**[^key-5259b17e5b1eb99cb3e72a4e0fde6470] For the purposes of paragraph 8(a), trustees may rely on scenario analysis undertaken on any day, or days, in the first scheme year in respect of which the requirements of this Part apply, including any day before the requirements apply.
+**9.**[^c-5259b17e5b1eb99cb3e72a4e0fde6470] For the purposes of paragraph 8(a), trustees may rely on scenario analysis undertaken on any day, or days, in the first scheme year in respect of which the requirements of this Part apply, including any day before the requirements apply.
 
-**10.**[^key-40946380fe8e460d4cc286c8303b8cf3] Trustees must, in each scheme year except the first scheme year in respect of which the requirements of this Part apply, review the most recent scenario analysis they have undertaken and determine whether it is appropriate to undertake new scenario analysis to ensure they have an up to date understanding of the matters set out in paragraph 7 in at least two scenarios as set out in paragraph 6.
+**10.**[^c-40946380fe8e460d4cc286c8303b8cf3] Trustees must, in each scheme year except the first scheme year in respect of which the requirements of this Part apply, review the most recent scenario analysis they have undertaken and determine whether it is appropriate to undertake new scenario analysis to ensure they have an up to date understanding of the matters set out in paragraph 7 in at least two scenarios as set out in paragraph 6.
 
-**11.**[^key-c18b811169f54c37040d24af9c6435b4] Where—
+**11.**[^c-c18b811169f54c37040d24af9c6435b4] Where—
 
 - (a) the trustees have determined in accordance with paragraph 10 that it is appropriate to undertake new scenario analysis, or
 - (b) the trustees have not undertaken scenario analysis in the two previous scheme years,
@@ -509,15 +509,15 @@ the trustees must undertake new scenario analysis which meets the requirements s
 
 #### Risk management
 
-**12.**[^key-91709c9842aba65a601bf550a981bbe5] Trustees must establish and maintain processes for the purpose of enabling them to identify and assess climate-related risks which are relevant to the scheme.
+**12.**[^c-91709c9842aba65a601bf550a981bbe5] Trustees must establish and maintain processes for the purpose of enabling them to identify and assess climate-related risks which are relevant to the scheme.
 
-**13.**[^key-07c6873cb7b7aa61144cf2fc4ea6ebf4] Trustees must establish and maintain processes for the purpose of enabling them to manage effectively climate-related risks which are relevant to the scheme.
+**13.**[^c-07c6873cb7b7aa61144cf2fc4ea6ebf4] Trustees must establish and maintain processes for the purpose of enabling them to manage effectively climate-related risks which are relevant to the scheme.
 
-**14.**[^key-abbd6b690725965645667f64d527e4d2] Trustees must ensure that the processes required by paragraphs 12 and 13 are integrated into their overall risk management of the scheme.
+**14.**[^c-abbd6b690725965645667f64d527e4d2] Trustees must ensure that the processes required by paragraphs 12 and 13 are integrated into their overall risk management of the scheme.
 
 #### Metrics and targets
 
-**15.**[^key-e17f01f74a86ab02e7f6201eabb6a842][^key-8af0e354d964fe8cf2e15b8f7b08351e] Trustees must in the first scheme year in respect of which the requirements of this Part apply and, where applicable, in a first scheme year of re-application, select a minimum of —
+**15.**[^c-e17f01f74a86ab02e7f6201eabb6a842][^c-8af0e354d964fe8cf2e15b8f7b08351e] Trustees must in the first scheme year in respect of which the requirements of this Part apply and, where applicable, in a first scheme year of re-application, select a minimum of —
 
 - (a) one absolute emissions metric;
 - (b) one emissions intensity metric;[^M_F_4f755546-0de8-4c65-a9f0-09adf49471ef]
@@ -526,58 +526,58 @@ the trustees must undertake new scenario analysis which meets the requirements s
 
 to calculate in relation to the scheme’s assets.
 
-**16.**[^key-5f39ddfca227722825cca482cc8bf2ff] Trustees must from time to time, as appropriate to the scheme, review metrics which they have selected in accordance with paragraph 15 or 17.
+**16.**[^c-5f39ddfca227722825cca482cc8bf2ff] Trustees must from time to time, as appropriate to the scheme, review metrics which they have selected in accordance with paragraph 15 or 17.
 
-**17.**[^key-b8485362e215901c7b7cd79e4c168974] Where, following a review in accordance with paragraph 16, the trustees determine that it is appropriate to replace one of their selected metrics, they must select a replacement metric of the same type to calculate in relation to the scheme’s assets.
+**17.**[^c-b8485362e215901c7b7cd79e4c168974] Where, following a review in accordance with paragraph 16, the trustees determine that it is appropriate to replace one of their selected metrics, they must select a replacement metric of the same type to calculate in relation to the scheme’s assets.
 
-**18.**[^key-5c3e81aaddf59a94c6c0199271f8b9e6] Subject to paragraph 19, trustees must in each scheme year, as far as they are able —
+**18.**[^c-5c3e81aaddf59a94c6c0199271f8b9e6] Subject to paragraph 19, trustees must in each scheme year, as far as they are able —
 
 - (a) obtain the scope 1, scope 2 and scope 3 greenhouse gas emissions attributable to the scheme’s assets;
 - (b) use the data obtained to calculate their selected absolute emissions metric and selected emissions intensity metric, and
 - (c) use the metrics they have calculated to identify and assess the climate-related risks and opportunities which are relevant to the scheme.
 
-**19.**[^key-2a0fabb431af39a15f07249984e592dd] In the first scheme year in respect of which the requirements of this Part apply, the trustees are not required to obtain the scope 3 greenhouse gas emissions attributable to the scheme’s assets.
+**19.**[^c-2a0fabb431af39a15f07249984e592dd] In the first scheme year in respect of which the requirements of this Part apply, the trustees are not required to obtain the scope 3 greenhouse gas emissions attributable to the scheme’s assets.
 
-**19A.**[^key-147a61c788a7f9ec2a79a05f58893a61] Trustees must in each scheme year, as far as they are able—
+**19A.**[^c-147a61c788a7f9ec2a79a05f58893a61] Trustees must in each scheme year, as far as they are able—
 
 - (a) obtain the data required to calculate their selected portfolio alignment metric;
 - (b) use the data obtained to calculate that metric in relation to the scheme’s assets, and
 - (c) use the metric they have calculated to identify and assess the climate-related risks and opportunities which are relevant to the scheme.
 
-**20.**[^key-76f047d2117e8f0b3a7ef19f84c2fda5] Trustees must in each scheme year, as far as they are able—
+**20.**[^c-76f047d2117e8f0b3a7ef19f84c2fda5] Trustees must in each scheme year, as far as they are able—
 
 - (a) obtain the data required to calculate their selected additional climate change metric;
 - (b) use the data obtained to calculate that metric in relation to the scheme’s assets, and
 - (c) use the metric they have calculated to identify and assess the climate-related risks and opportunities which are relevant to the scheme.
 
-**21.**[^key-15b980a8bfdbb1fba5a6e4abc002513c][^key-d64c65c6779fca7e8873acc6353fdab4][^key-e9fb83208133414938838ed5dc046fc9] For the purposes of paragraphs 18 , 19A[^M_F_2a7bc986-4ba7-4fc2-ea2f-95971f439476] and 20 trustees may, in the first scheme year in respect of which the requirements of this Part apply, rely on data obtained, calculations performed and identification and assessment of climate-related risks and opportunities undertaken on any day, or days, in that first scheme year, including any day before the requirements apply.
+**21.**[^c-15b980a8bfdbb1fba5a6e4abc002513c][^c-d64c65c6779fca7e8873acc6353fdab4][^c-e9fb83208133414938838ed5dc046fc9] For the purposes of paragraphs 18 , 19A[^M_F_2a7bc986-4ba7-4fc2-ea2f-95971f439476] and 20 trustees may, in the first scheme year in respect of which the requirements of this Part apply, rely on data obtained, calculations performed and identification and assessment of climate-related risks and opportunities undertaken on any day, or days, in that first scheme year, including any day before the requirements apply.
 
-**22.**[^key-d63403a9937802c394fca3d85d6600aa] Trustees must in the first scheme year in respect of which the requirements of this Part apply, and, where applicable, in a first scheme year of re-application, set a target for the scheme in relation to one of the metrics which they have selected to calculate.
+**22.**[^c-d63403a9937802c394fca3d85d6600aa] Trustees must in the first scheme year in respect of which the requirements of this Part apply, and, where applicable, in a first scheme year of re-application, set a target for the scheme in relation to one of the metrics which they have selected to calculate.
 
-**23.**[^key-afe1c873572eef729e9ab9ad2996bde9] Trustees must in each scheme year, including the first scheme year in respect of which the requirements of this Part apply and, where applicable, a first scheme year of re-application —
+**23.**[^c-afe1c873572eef729e9ab9ad2996bde9] Trustees must in each scheme year, including the first scheme year in respect of which the requirements of this Part apply and, where applicable, a first scheme year of re-application —
 
 - (a) measure, as far as they are able, the performance of the scheme against the target they have set in accordance with paragraph 22 or 24, and
 - (b) taking into account that performance, determine whether the target should be retained or replaced.
 
-**24.**[^key-1bcae7b817253af622f4770c50aca0a6] Where trustees have determined in accordance with paragraph 23(b) that a target should be replaced, they must set a new target for the scheme in relation to one of the metrics which they have selected to calculate.
+**24.**[^c-1bcae7b817253af622f4770c50aca0a6] Where trustees have determined in accordance with paragraph 23(b) that a target should be replaced, they must set a new target for the scheme in relation to one of the metrics which they have selected to calculate.
 
 #### General and interpretation
 
-**25.**[^key-b11b86b8b06be2e9c7f8fad68d6e4eb9] Where this Part provides that trustees must meet a requirement “as far as they are able”, the trustees are required to take all such steps as are reasonable and proportionate in the particular circumstances taking into account—
+**25.**[^c-b11b86b8b06be2e9c7f8fad68d6e4eb9] Where this Part provides that trustees must meet a requirement “as far as they are able”, the trustees are required to take all such steps as are reasonable and proportionate in the particular circumstances taking into account—
 
 - (a) the costs, or likely costs, which will be incurred by the scheme, and
 - (b) the time required to be spent by the trustees, or any person to whom the trustees have delegated responsibility,
 
 in taking such steps.
 
-**26.**[^key-1f994afddbe82c61f3a3dabd7f8b084e] In this Part—
+**26.**[^c-1f994afddbe82c61f3a3dabd7f8b084e] In this Part—
 
 - “**absolute emissions metric**” means a metric which gives the total greenhouse gas emissions attributable to the scheme’s assets;
 - “**additional climate change metric**” means a metric relating to climate change which is not an absolute emissions metric or an emissions intensity metric or a portfolio alignment metric[^M_F_e22ea4cb-66dd-4c32-cbf1-d6ae262bc2b7];
 - “**emissions intensity metric**” means a metric which gives the total greenhouse gas emissions attributable to the scheme’s assets per unit of currency;
 - “**emissions**”, in relation to a greenhouse gas, has the meaning given by section 97 of the Climate Change Act 2008[^f00018];
 - “**first scheme year of re-application**” means the first scheme year in respect of which the requirements of this Part are re-applied to the trustees in accordance with regulation 3(4), 4(4) or 5(4) and where this occurs more than once, it means the first scheme year in respect of which the requirements are re-applied to the trustees on each of those occasions;
-- “**greenhouse gas**” has the meaning given by section 92(1)(a) to (f)[^key-5dc0f321bdabe80a28751a6345524b09] of the Climate Change Act 2008;
+- “**greenhouse gas**” has the meaning given by section 92(1)(a) to (f)[^c-5dc0f321bdabe80a28751a6345524b09] of the Climate Change Act 2008;
 - “[^M_F_421f646a-01b7-48e5-de13-5568b3784640]**portfolio alignment metric**” means a metric which gives the alignment of the scheme’s assets with the climate change goal of limiting the increase in the global average temperature to 1.5 degrees Celsius above pre-industrial levels;
 - “**scheme year**” has the meaning given by regulation 2;
 - “**scope 1**”, in relation to greenhouse gas emissions, means all direct emissions from the activities of an entity or activities under its control;
@@ -586,7 +586,7 @@ in taking such steps.
 
 ### PART 2 — Information to be included in a report under regulation 6
 
-**27.**[^key-c2f5214bc573f1c552372edbebd63dff] A statement describing—
+**27.**[^c-c2f5214bc573f1c552372edbebd63dff] A statement describing—
 
 - (a) how the trustees maintain oversight of climate-related risks and opportunities which are relevant to the scheme;
 - (b) the role of any person who otherwise than as a trustee undertakes scheme governance activities, in identifying, assessing and managing any climate-related risks and opportunities which are relevant to those governance activities and the process by which the trustees satisfy themselves that the person is taking adequate steps to identify, assess and manage the climate-related risks and opportunities;
@@ -636,9 +636,9 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5))
 
-[^key-404e197e6ad991eb179471aa39d10bcc]: Commencement: Reg. 1 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-404e197e6ad991eb179471aa39d10bcc]: Commencement: Reg. 1 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-14a53200aa3b9908aea755ca2964624c]: Commencement: Reg. 2 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-14a53200aa3b9908aea755ca2964624c]: Commencement: Reg. 2 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1997 No. 40](https://www.legislation.gov.uk/nisr/1997/40); regulation 2 was amended by regulation 2 of [S.R. 2000 No. 107](https://www.legislation.gov.uk/nisr/2000/107), regulation 2(3) of [S.R. 2005 No. 421](https://www.legislation.gov.uk/nisr/2005/421), the Schedule to [S.R. 2006 No. 65](https://www.legislation.gov.uk/nisr/2006/65), paragraph 5(a) of Schedule 9 to [S.R. 2014 No. 79](https://www.legislation.gov.uk/nisr/2014/79) and regulation 2(2) of [S.R. 2016 No. 141](https://www.legislation.gov.uk/nisr/2016/141)
 
@@ -654,13 +654,13 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00009]: Footnote: The definition of “money purchase benefits” was amended by section 27(1) of the Pensions Act (Northern Ireland) 2012 and paragraph 19 of the Schedule to [S.R. 2005 No. 434](https://www.legislation.gov.uk/nisr/2005/434)
 
-[^key-24e50718c721281e4218bd7a12b757e8]: Commencement: Reg. 3 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-24e50718c721281e4218bd7a12b757e8]: Commencement: Reg. 3 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-a8b47f2e0565cf78b07005c3c34ccc6d]: Commencement: Reg. 4 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-a8b47f2e0565cf78b07005c3c34ccc6d]: Commencement: Reg. 4 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-74889f6bfa28aecc9a4014fdcd7b80b7]: Commencement: Reg. 5 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-74889f6bfa28aecc9a4014fdcd7b80b7]: Commencement: Reg. 5 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-e3fb4c6731316189950260b3b9022d41]: Commencement: Reg. 6 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-e3fb4c6731316189950260b3b9022d41]: Commencement: Reg. 6 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
 [^f00010]: Footnote: [S.R. 1997 No. 94](https://www.legislation.gov.uk/nisr/1997/94); regulation 22 was added by regulation 16(3) of [S.R. 2015 No. 309](https://www.legislation.gov.uk/nisr/2015/309) and amended by regulation 4 of [S.R. 2016 No. 192](https://www.legislation.gov.uk/nisr/2016/192)
 
@@ -668,108 +668,108 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00012]: Footnote: [2008 c. 30](https://www.legislation.gov.uk/ukpga/2008/30); section 67 was amended by section 30(2) of the Finance (No. 3) Act [2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33)
 
-[^key-05adbc79e38a514294fd0904aaa46816]: Commencement: Reg. 7 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-05adbc79e38a514294fd0904aaa46816]: Commencement: Reg. 7 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
 [^f00013]: Footnote: *See* the definition of “the Authority” in Article 121(1) of the Pensions (Northern Ireland) Order 1995 as substituted by Article 6(2)(b) of the Pensions (Northern Ireland) Order 2005
 
-[^key-71aa61308247e46acb06d61936201fa3]: Commencement: Reg. 8 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-71aa61308247e46acb06d61936201fa3]: Commencement: Reg. 8 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-ba3a9926f56ad66bf30b1b057b31c432]: Commencement: Reg. 9 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-ba3a9926f56ad66bf30b1b057b31c432]: Commencement: Reg. 9 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-3de571933908cb6abd333b9edd16fe8c]: Commencement: Reg. 10 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-3de571933908cb6abd333b9edd16fe8c]: Commencement: Reg. 10 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
 [^f00014]: Footnote: Article 10(8A) was inserted by paragraph 9 of Schedule 2 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
 
-[^key-ce11cb9b059ff88b7586c194b9e81457]: Commencement: Reg. 11 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-ce11cb9b059ff88b7586c194b9e81457]: Commencement: Reg. 11 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-d91cb35ebdc5c9f0cfda59cf0b1dd913]: Commencement: Reg. 12 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-d91cb35ebdc5c9f0cfda59cf0b1dd913]: Commencement: Reg. 12 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-a69b84fd64e97c1a4e931b553ec0e1f6]: Commencement: Reg. 13 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-a69b84fd64e97c1a4e931b553ec0e1f6]: Commencement: Reg. 13 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
 [^f00015]: Footnote: [S.I. 2008/2698](https://www.legislation.gov.uk/uksi/2008/2698)
 
 [^f00016]: Footnote: [S.I. 2009/1976](https://www.legislation.gov.uk/uksi/2009/1976)
 
-[^key-cc28441e63d07ae6408af100f9949d12]: Commencement: Reg. 14 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-cc28441e63d07ae6408af100f9949d12]: Commencement: Reg. 14 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-31380c46c2282848f7a70b6838b7db5b]: Commencement: Reg. 15 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-31380c46c2282848f7a70b6838b7db5b]: Commencement: Reg. 15 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
 [^f00017]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21)
 
-[^key-fa85fdb228205bdb084d4e207da1076f]: Commencement: Sch. para. 1 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-fa85fdb228205bdb084d4e207da1076f]: Commencement: Sch. para. 1 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-455f1d1bdaf66529e1487a9360593cdc]: Commencement: Sch. para. 2 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-455f1d1bdaf66529e1487a9360593cdc]: Commencement: Sch. para. 2 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-72dc3cf893a3b14b825673f0beab38f3]: Commencement: Sch. para. 3 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-72dc3cf893a3b14b825673f0beab38f3]: Commencement: Sch. para. 3 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-f1135ef21929ff253dc41d1286148811]: Commencement: Sch. para. 4 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-f1135ef21929ff253dc41d1286148811]: Commencement: Sch. para. 4 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-3f187c8f8b2d9d718f26278e66dceae9]: Commencement: Sch. para. 5 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-3f187c8f8b2d9d718f26278e66dceae9]: Commencement: Sch. para. 5 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-bf8c0fbb5f0383adf13c411069dabff7]: Commencement: Sch. para. 6 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-bf8c0fbb5f0383adf13c411069dabff7]: Commencement: Sch. para. 6 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-47c9c9fb088e50048044e9f7a059c5a5]: Commencement: Sch. para. 7 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-47c9c9fb088e50048044e9f7a059c5a5]: Commencement: Sch. para. 7 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-5ee907b8df893bb2c97e84dbe22b6a2c]: Commencement: Sch. para. 8 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-5ee907b8df893bb2c97e84dbe22b6a2c]: Commencement: Sch. para. 8 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-5259b17e5b1eb99cb3e72a4e0fde6470]: Commencement: Sch. para. 9 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-5259b17e5b1eb99cb3e72a4e0fde6470]: Commencement: Sch. para. 9 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-40946380fe8e460d4cc286c8303b8cf3]: Commencement: Sch. para. 10 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-40946380fe8e460d4cc286c8303b8cf3]: Commencement: Sch. para. 10 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-c18b811169f54c37040d24af9c6435b4]: Commencement: Sch. para. 11 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-c18b811169f54c37040d24af9c6435b4]: Commencement: Sch. para. 11 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-91709c9842aba65a601bf550a981bbe5]: Commencement: Sch. para. 12 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-91709c9842aba65a601bf550a981bbe5]: Commencement: Sch. para. 12 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-07c6873cb7b7aa61144cf2fc4ea6ebf4]: Commencement: Sch. para. 13 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-07c6873cb7b7aa61144cf2fc4ea6ebf4]: Commencement: Sch. para. 13 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-abbd6b690725965645667f64d527e4d2]: Commencement: Sch. para. 14 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-abbd6b690725965645667f64d527e4d2]: Commencement: Sch. para. 14 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-e17f01f74a86ab02e7f6201eabb6a842]: Commencement: Sch. para. 15 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-e17f01f74a86ab02e7f6201eabb6a842]: Commencement: Sch. para. 15 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-8af0e354d964fe8cf2e15b8f7b08351e]: Modification: [Sch. para. 15](https://www.legislation.gov.uk/nisr/2021/244/schedule/paragraph/15) modifed (1.10.2022) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209)](https://www.legislation.gov.uk/nisr/2022/209), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2022/209/regulation/3/2)
+[^c-8af0e354d964fe8cf2e15b8f7b08351e]: Modification: [Sch. para. 15](https://www.legislation.gov.uk/nisr/2021/244/schedule/paragraph/15) modifed (1.10.2022) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209)](https://www.legislation.gov.uk/nisr/2022/209), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2022/209/regulation/3/2)
 
 [^M_F_4f755546-0de8-4c65-a9f0-09adf49471ef]: Textual amendment: Word in Sch. para. 15(b) substituted (1.10.2022) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209)](https://www.legislation.gov.uk/nisr/2022/209), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/nisr/2022/209/regulation/2/2/a/i)
 
 [^M_F_c71baa9a-ae59-4962-e6a2-72da57482e4e]: Textual amendment: Sch. para. 15(ba) inserted (1.10.2022) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209)](https://www.legislation.gov.uk/nisr/2022/209), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2022/209/regulation/2/2/a/ii)
 
-[^key-5f39ddfca227722825cca482cc8bf2ff]: Commencement: Sch. para. 16 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-5f39ddfca227722825cca482cc8bf2ff]: Commencement: Sch. para. 16 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-b8485362e215901c7b7cd79e4c168974]: Commencement: Sch. para. 17 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-b8485362e215901c7b7cd79e4c168974]: Commencement: Sch. para. 17 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-5c3e81aaddf59a94c6c0199271f8b9e6]: Commencement: Sch. para. 18 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-5c3e81aaddf59a94c6c0199271f8b9e6]: Commencement: Sch. para. 18 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-2a0fabb431af39a15f07249984e592dd]: Commencement: Sch. para. 19 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-2a0fabb431af39a15f07249984e592dd]: Commencement: Sch. para. 19 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-147a61c788a7f9ec2a79a05f58893a61]: Textual amendment: [Sch. para. 19A](https://www.legislation.gov.uk/nisr/2021/244/schedule/paragraph/19A) inserted (1.10.2022) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209)](https://www.legislation.gov.uk/nisr/2022/209), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2022/209/regulation/2/2/b)
+[^c-147a61c788a7f9ec2a79a05f58893a61]: Textual amendment: [Sch. para. 19A](https://www.legislation.gov.uk/nisr/2021/244/schedule/paragraph/19A) inserted (1.10.2022) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209)](https://www.legislation.gov.uk/nisr/2022/209), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2022/209/regulation/2/2/b)
 
-[^key-76f047d2117e8f0b3a7ef19f84c2fda5]: Commencement: Sch. para. 20 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-76f047d2117e8f0b3a7ef19f84c2fda5]: Commencement: Sch. para. 20 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-15b980a8bfdbb1fba5a6e4abc002513c]: Commencement: Sch. para. 21 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-15b980a8bfdbb1fba5a6e4abc002513c]: Commencement: Sch. para. 21 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-d64c65c6779fca7e8873acc6353fdab4]: Modification: [Sch. para. 21](https://www.legislation.gov.uk/nisr/2021/244/schedule/paragraph/21) modifed (1.10.2022) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209)](https://www.legislation.gov.uk/nisr/2022/209), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2022/209/regulation/4/2)
+[^c-d64c65c6779fca7e8873acc6353fdab4]: Modification: [Sch. para. 21](https://www.legislation.gov.uk/nisr/2021/244/schedule/paragraph/21) modifed (1.10.2022) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209)](https://www.legislation.gov.uk/nisr/2022/209), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2022/209/regulation/4/2)
 
-[^key-e9fb83208133414938838ed5dc046fc9]: Modification: [Sch. para. 21](https://www.legislation.gov.uk/nisr/2021/244/schedule/paragraph/21) modifed (1.10.2022) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209)](https://www.legislation.gov.uk/nisr/2022/209), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2022/209/regulation/3/3)
+[^c-e9fb83208133414938838ed5dc046fc9]: Modification: [Sch. para. 21](https://www.legislation.gov.uk/nisr/2021/244/schedule/paragraph/21) modifed (1.10.2022) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209)](https://www.legislation.gov.uk/nisr/2022/209), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2022/209/regulation/3/3)
 
 [^M_F_2a7bc986-4ba7-4fc2-ea2f-95971f439476]: Textual amendment: Word in Sch. para. 21 inserted (1.10.2022) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209)](https://www.legislation.gov.uk/nisr/2022/209), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2022/209/regulation/2/2/c)
 
-[^key-d63403a9937802c394fca3d85d6600aa]: Commencement: Sch. para. 22 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-d63403a9937802c394fca3d85d6600aa]: Commencement: Sch. para. 22 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-afe1c873572eef729e9ab9ad2996bde9]: Commencement: Sch. para. 23 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-afe1c873572eef729e9ab9ad2996bde9]: Commencement: Sch. para. 23 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-1bcae7b817253af622f4770c50aca0a6]: Commencement: Sch. para. 24 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-1bcae7b817253af622f4770c50aca0a6]: Commencement: Sch. para. 24 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-b11b86b8b06be2e9c7f8fad68d6e4eb9]: Commencement: Sch. para. 25 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-b11b86b8b06be2e9c7f8fad68d6e4eb9]: Commencement: Sch. para. 25 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
-[^key-1f994afddbe82c61f3a3dabd7f8b084e]: Commencement: Sch. para. 26 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-1f994afddbe82c61f3a3dabd7f8b084e]: Commencement: Sch. para. 26 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
 [^M_F_e22ea4cb-66dd-4c32-cbf1-d6ae262bc2b7]: Textual amendment: Words in Sch. para. 26 inserted (1.10.2022) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209)](https://www.legislation.gov.uk/nisr/2022/209), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1), [2(2)(d)(i)](https://www.legislation.gov.uk/nisr/2022/209/regulation/2/2/d/i)
 
 [^f00018]: Footnote: [2008 c. 27](https://www.legislation.gov.uk/ukpga/2008/27)
 
-[^key-5dc0f321bdabe80a28751a6345524b09]: Textual amendment: Words in [Sch. para. 26](https://www.legislation.gov.uk/nisr/2021/244/schedule/paragraph/26) substituted (3.2.2023) by [The Climate Change (Targeted Greenhouse Gases) Order 2023 (S.I. 2023/118)](https://www.legislation.gov.uk/uksi/2023/118), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/118/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2023/118/article/4/2)
+[^c-5dc0f321bdabe80a28751a6345524b09]: Textual amendment: Words in [Sch. para. 26](https://www.legislation.gov.uk/nisr/2021/244/schedule/paragraph/26) substituted (3.2.2023) by [The Climate Change (Targeted Greenhouse Gases) Order 2023 (S.I. 2023/118)](https://www.legislation.gov.uk/uksi/2023/118), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/118/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2023/118/article/4/2)
 
 [^M_F_421f646a-01b7-48e5-de13-5568b3784640]: Textual amendment: Words in Sch. para. 26 inserted (1.10.2022) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209)](https://www.legislation.gov.uk/nisr/2022/209), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1), [2(2)(d)(ii)](https://www.legislation.gov.uk/nisr/2022/209/regulation/2/2/d/ii)
 
-[^key-c2f5214bc573f1c552372edbebd63dff]: Commencement: Sch. para. 27 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
+[^c-c2f5214bc573f1c552372edbebd63dff]: Commencement: Sch. para. 27 in operation at 1.10.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/244/regulation/1)
 
 [^M_F_86d193da-6a7e-4364-d52d-91a30980404e]: Textual amendment: Word in Sch. para. 27(n) inserted (1.10.2022) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209)](https://www.legislation.gov.uk/nisr/2022/209), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2022/209/regulation/2/3)

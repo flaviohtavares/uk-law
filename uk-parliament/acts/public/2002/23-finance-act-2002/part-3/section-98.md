@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Gift aid: election to be treated as if gift made in previous tax year[^key-539f449a6a4043a2e1d83dd2d3081068]
+## 98. Gift aid: election to be treated as if gift made in previous tax year[^c-539f449a6a4043a2e1d83dd2d3081068]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-539f449a6a4043a2e1d83dd2d3081068]: Textual amendment: [S. 98](https://www.legislation.gov.uk/ukpga/2002/23/section/98) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 415](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/415), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-539f449a6a4043a2e1d83dd2d3081068]: Textual amendment: [S. 98](https://www.legislation.gov.uk/ukpga/2002/23/section/98) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 415](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/415), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Prosecutor's right of appeal[^key-0177aacbc1d296053cc54b9b51e43932]
+## 74. Prosecutor's right of appeal[^c-0177aacbc1d296053cc54b9b51e43932]
 
 *Extent: S*
 
@@ -136,4 +136,4 @@ After section 107 of the 1995 Act insert—
 
 ## Annotations
 
-[^key-0177aacbc1d296053cc54b9b51e43932]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2010/13/section/74) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-0177aacbc1d296053cc54b9b51e43932]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2010/13/section/74) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

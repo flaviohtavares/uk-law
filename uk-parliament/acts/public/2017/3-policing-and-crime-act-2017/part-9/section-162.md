@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Requirement to give information in criminal proceedings[^c22720011][^key-ad75edd212c89fbf37a6c3fb183fac5c]
+## 162. Requirement to give information in criminal proceedings[^c22720011][^c-ad75edd212c89fbf37a6c3fb183fac5c]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ In the Courts Act 2003, after section 86 (alteration of place fixed for Crown Co
 
 [^c22720011]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2017/3/section/162) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-ad75edd212c89fbf37a6c3fb183fac5c]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2017/3/section/162) in force at 13.11.2017 in so far as not already in force by [S.I. 2017/1017](https://www.legislation.gov.uk/uksi/2017/1017), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1017/regulation/2)
+[^c-ad75edd212c89fbf37a6c3fb183fac5c]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2017/3/section/162) in force at 13.11.2017 in so far as not already in force by [S.I. 2017/1017](https://www.legislation.gov.uk/uksi/2017/1017), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1017/regulation/2)

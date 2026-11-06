@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Police procedures and practices[^key-41d7a9e08913d9d0589d8c752e4d00f0]
+## 12. Police procedures and practices[^c-41d7a9e08913d9d0589d8c752e4d00f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41d7a9e08913d9d0589d8c752e4d00f0]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2009/26/section/12) in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/125/article/2/c)
+[^c-41d7a9e08913d9d0589d8c752e4d00f0]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2009/26/section/12) in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/125/article/2/c)

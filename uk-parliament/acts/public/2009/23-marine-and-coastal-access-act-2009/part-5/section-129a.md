@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129A. Byelaws relating to exploitation of sea fisheries resources: England[^key-a8b0d8c69bc0c1e0e87bbdac124eb49a]
+## 129A. Byelaws relating to exploitation of sea fisheries resources: England[^c-a8b0d8c69bc0c1e0e87bbdac124eb49a]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8b0d8c69bc0c1e0e87bbdac124eb49a]: Textual amendment: Ss. 129A-129C inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/11) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-a8b0d8c69bc0c1e0e87bbdac124eb49a]: Textual amendment: Ss. 129A-129C inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/11) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

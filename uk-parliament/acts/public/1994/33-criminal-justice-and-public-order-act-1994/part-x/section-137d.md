@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137D. Rights of persons arrested under section 137A[^key-5fd10d23d840e09b1ee8e6950b08f353]
+## 137D. Rights of persons arrested under section 137A[^c-5fd10d23d840e09b1ee8e6950b08f353]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fd10d23d840e09b1ee8e6950b08f353]: Textual amendment: Ss. 137A-137D inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 116(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/1), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f)
+[^c-5fd10d23d840e09b1ee8e6950b08f353]: Textual amendment: Ss. 137A-137D inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 116(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/1), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f)

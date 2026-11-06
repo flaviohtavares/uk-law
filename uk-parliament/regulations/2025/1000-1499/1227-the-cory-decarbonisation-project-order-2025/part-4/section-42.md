@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Deemed marine licence[^key-e86072c78c966527fdbb1205ffa3a188]
+## 42. Deemed marine licence[^c-e86072c78c966527fdbb1205ffa3a188]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e86072c78c966527fdbb1205ffa3a188]: Commencement: Art. 42 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-e86072c78c966527fdbb1205ffa3a188]: Commencement: Art. 42 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
 [^f00058]: Footnote: [S.I. 2011/934](https://www.legislation.gov.uk/uksi/2011/934).

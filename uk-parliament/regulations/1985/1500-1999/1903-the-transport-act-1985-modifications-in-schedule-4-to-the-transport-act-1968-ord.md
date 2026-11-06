@@ -29,32 +29,32 @@ summary: ''
 
 TRANSPORT
 
-The Transport Act 1985 (Modifications in Schedule 4 To the Transport Act 1968) Order 1985 *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7]
+The Transport Act 1985 (Modifications in Schedule 4 To the Transport Act 1968) Order 1985 *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7]
 
-Made *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7]
+Made *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7]
 
-5th December 1985 *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7]
+5th December 1985 *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7]
 
-Laid before Parliament *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7]
+Laid before Parliament *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7]
 
-12th December 1985 *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7]
+12th December 1985 *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7]
 
-Coming into Operation *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7]
+Coming into Operation *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7]
 
-6th January 1986 *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7]
+6th January 1986 *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7]
 
-The Secretary of State for Transport (as respects England), the Secretary of State for Scotland (as respects Scotland) and the Secretary of State for Wales (as respects Wales), in exercise of the power conferred by section 129(5) of the Transport Act 1985, and of all other enabling powers, hereby make the following Order:— *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7]
+The Secretary of State for Transport (as respects England), the Secretary of State for Scotland (as respects Scotland) and the Secretary of State for Wales (as respects Wales), in exercise of the power conferred by section 129(5) of the Transport Act 1985, and of all other enabling powers, hereby make the following Order:— *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7]
 
-**1 (Extent: E+W) (affected by repeal, see note).**[^key-81edd2bf99d6293c2b00ee1ed1b644f4][^key-8dc5724f5022e20251d760907550bfd7] This Order may be cited as the Transport Act 1985 (Modifications in Schedule 4 to the Transport Act 1968) Order 1985 and shall come into operation on 6th January 1986. *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7]
+**1 (Extent: E+W) (affected by repeal, see note).**[^c-81edd2bf99d6293c2b00ee1ed1b644f4][^c-8dc5724f5022e20251d760907550bfd7] This Order may be cited as the Transport Act 1985 (Modifications in Schedule 4 to the Transport Act 1968) Order 1985 and shall come into operation on 6th January 1986. *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7]
 
-**2 (Extent: E+W) (affected by repeal, see note).**[^key-d01eb8f77b45149cf114000a60de15e1][^key-8dc5724f5022e20251d760907550bfd7] In this Order— *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7]
+**2 (Extent: E+W) (affected by repeal, see note).**[^c-d01eb8f77b45149cf114000a60de15e1][^c-8dc5724f5022e20251d760907550bfd7] In this Order— *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7]
 
-- “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7]**the Act *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7]**” means *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7] the Transport Act 1985 *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7]; *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7]
-- “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7]**Schedule 4 *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7]**” means *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7] Schedule 4 to the Transport Act 1968 *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7]
+- “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7]**the Act *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7]**” means *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7] the Transport Act 1985 *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7]; *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7]
+- “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7]**Schedule 4 *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7]**” means *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7] Schedule 4 to the Transport Act 1968 *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7]. *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7]
 
-**3 (Extent: E+W) (affected by repeal, see note).**[^key-838261f577e1dcfeffbe3589b62cb02d][^key-8dc5724f5022e20251d760907550bfd7] For the purposes of its application to transfers under section 59(7), 61(11) or 68(7) of the Act, Schedule 4 shall be modified in accordance with the provisions of the First Schedule to this Order. *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7]
+**3 (Extent: E+W) (affected by repeal, see note).**[^c-838261f577e1dcfeffbe3589b62cb02d][^c-8dc5724f5022e20251d760907550bfd7] For the purposes of its application to transfers under section 59(7), 61(11) or 68(7) of the Act, Schedule 4 shall be modified in accordance with the provisions of the First Schedule to this Order. *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7]
 
-**4 (Extent: E+W) (affected by repeal, see note).**[^key-724fb0794678db3a725ffc3b6ad0a7dc][^key-8dc5724f5022e20251d760907550bfd7] Schedule 4, as modified in accordance with the provisions of the First Schedule to this Order, and with consequential adjustments in the headings to and numbering of the paragraphs, is set out in the Second Schedule to this Order. *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dc5724f5022e20251d760907550bfd7]
+**4 (Extent: E+W) (affected by repeal, see note).**[^c-724fb0794678db3a725ffc3b6ad0a7dc][^c-8dc5724f5022e20251d760907550bfd7] Schedule 4, as modified in accordance with the provisions of the First Schedule to this Order, and with consequential adjustments in the headings to and numbering of the paragraphs, is set out in the Second Schedule to this Order. *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dc5724f5022e20251d760907550bfd7]
 
 Nicholas Ridley
 
@@ -78,24 +78,24 @@ Secretary of State for Wales
 
 Article 3
 
-**1.**[^key-740b4a7e70a5d506f9100b56737a2e6d] In paragraph 1—
+**1.**[^c-740b4a7e70a5d506f9100b56737a2e6d] In paragraph 1—
 
 - (a) in sub-paragraph (1), for the words “an agreement for the rendering of personal services” there shall be substituted the words “a contract of employment”;
 - (b) in sub-paragraph (4), the words from “or, if either” to the end shall be omitted;
 - (c) in sub-paragraph (7), the words from “(not being” to “wholly-owned subsidiary” in the second place where those words occur shall be omitted; and
 - (d) in sub-paragraphs (5) and (7), for the words “this Act” there shall be substituted the words “the Transport Act 1985”.
 
-**2.**[^key-a41536456b2443cfbf6f7d4a56bcbaae] Paragraph 2 shall be omitted.
+**2.**[^c-a41536456b2443cfbf6f7d4a56bcbaae] Paragraph 2 shall be omitted.
 
-**3.**[^key-308210f41f5f350db184871b89dbe17d] In paragraph 3, a colon shall be substituted for the full stop at the end, and there shall be added the following—
+**3.**[^c-308210f41f5f350db184871b89dbe17d] In paragraph 3, a colon shall be substituted for the full stop at the end, and there shall be added the following—
 
 > in Scotland, section 16(1) and (2) of the Land Registration (Scotland) Act 1979 shall apply as if the transfer had been effected by deed and the words “unless specially qualified” were omitted from those subsections.
 
 .
 
-**4.**[^key-b65bae2d565efa3ad4ed05b457d35aa3] In paragraph 4, for the words “this Act” there shall be substituted the words “the Transport Act 1985”.
+**4.**[^c-b65bae2d565efa3ad4ed05b457d35aa3] In paragraph 4, for the words “this Act” there shall be substituted the words “the Transport Act 1985”.
 
-**5.**[^key-641013c552e87cdb0f9e619a49d9bde9] In paragraph 5—
+**5.**[^c-641013c552e87cdb0f9e619a49d9bde9] In paragraph 5—
 
 - (a) for the words “Railways Board and the Scottish Group” there shall be substituted the words “transferor and the transferee”;
 - (b) for the words “this Act” there shall be substituted the words “the Transport Act 1985”;
@@ -103,7 +103,7 @@ Article 3
 - (d) for the words “one of those authorities” there shall be substituted the words “either of them”; and
 - (e) for the words “the authorities concerned” there shall be substituted the word “they”.
 
-**6.**[^key-281f361b481326638c99845937831451] In paragraph 6—
+**6.**[^c-281f361b481326638c99845937831451] In paragraph 6—
 
 - (a) for the words “Railways Board or the Scottish Group” there shall be substituted the words “transferor or the transferee”;
 - (b) for the words “that authority” there shall be substituted the words “one of them”;
@@ -115,13 +115,13 @@ Article 3
 - (h) for the words “one of those authorities” in both places where they appear there shall be substituted the words “the transferor or the transferee”; and
 - (i) for the words “those authorities” there shall be substituted the words “the transferor and the transferee”.
 
-**7.**[^key-cdb9009ae7df516be39511212e98061e] In sub-paragraph (c) of paragraph 7—
+**7.**[^c-cdb9009ae7df516be39511212e98061e] In sub-paragraph (c) of paragraph 7—
 
 - (a) for the words “any officer or any servant of the transferor” there shall be substituted the words “a person employed by, or engaged in the business of, the transferor and holding a specified office or serving in a specified capacity”;
 - (b) for the words “the officer or servant” there shall be substituted the words “a person employed by, or engaged in the business”; and
 - (c) for the words “that officer or servant of the transferor” there shall be substituted the words “the first mentioned person”.
 
-**8.**[^key-c2680f828100c3c0e4d964f925d81ea5] In paragraph 8—
+**8.**[^c-c2680f828100c3c0e4d964f925d81ea5] In paragraph 8—
 
 - (a) for the words “this Act” there shall be substituted the words “the Transport Act 1985”;
 - (b) after the words “the provision in question relates to” there shall be inserted “(*a*)”;
@@ -136,35 +136,35 @@ Article 3
   and
 - (d) for the words “officers or servants” there shall be substituted the words “persons employed by, persons engaged in the business of, or agents”.
 
-**9.**[^key-3ae5bb454f50d305663df5970c4a0ea8] Paragraph 9 shall be omitted.
+**9.**[^c-3ae5bb454f50d305663df5970c4a0ea8] Paragraph 9 shall be omitted.
 
-**10.**[^key-d1cab685e5f4b56b9016870ddc252c96] In paragraph 10—
+**10.**[^c-d1cab685e5f4b56b9016870ddc252c96] In paragraph 10—
 
 - (a) for the words “7 to 9” there shall be substituted the words “7 and 8”;
 - (b) for the words “this Act” in the first place where they appear there shall be substituted the words “the Transport Act 1985”; and
 - (c) for the words “this Act” in the second place where they appear there shall be substituted the words “that Act”.
 
-**11.**[^key-1a41e2a9a6889aeb86c35d201edb48c7] Paragraph 11 and sub-paragraph (1) of paragraph 12 shall be omitted.
+**11.**[^c-1a41e2a9a6889aeb86c35d201edb48c7] Paragraph 11 and sub-paragraph (1) of paragraph 12 shall be omitted.
 
-**12.**[^key-b0020957651d6689954c57cae5c4adbc] In sub-paragraph (2) of paragraph 12, for the words “7 to 11” there shall be substituted the words “7 to 10”, and the words; “the said” shall be omitted.
+**12.**[^c-b0020957651d6689954c57cae5c4adbc] In sub-paragraph (2) of paragraph 12, for the words “7 to 11” there shall be substituted the words “7 to 10”, and the words; “the said” shall be omitted.
 
-**13.**[^key-97457dd796f5e726a343692cf01ae4f5] In paragraph 13—
+**13.**[^c-97457dd796f5e726a343692cf01ae4f5] In paragraph 13—
 
 - (a) in sub-paragraph (1), for the words “7 to 12” there shall be substituted the words “7 to 10”;
 - (b) for the words “one of the Boards or new authorities” in the first place where they occur there shall be substituted the words “the transferor and the transferee”, and for those words in the second and third places where they occur there shall be substituted the words “the transferor or the transferee”; and
 - (c) in sub-paragraph (5) for the words “this Act” there shall be substituted the words “the Transport Act 1985”.
 
-**14.**[^key-b538667f20c2443a83decb96bdd9d18b] There shall be added the following new paragraph—
+**14.**[^c-b538667f20c2443a83decb96bdd9d18b] There shall be added the following new paragraph—
 
 > In this Schedule “**statutory provision**” means a provision, whether of a general or a special nature, contained in, or in a document made or issued under, the Transport Act 1985 or any Act (whether of a general or of a special nature) other than that Act.
 
 .
 
-## THE SECOND SCHEDULE — SCHEDULE 4 AS MODIFIED FOR THE PURPOSES OF ITS APPLICATION TO TRANSFERS UNDER SECTION 59(7), 61(11) OR 68(7) OF THE ACT[^key-9c9e39d52fcd31f9c3716c594cb23c7e]
+## THE SECOND SCHEDULE — SCHEDULE 4 AS MODIFIED FOR THE PURPOSES OF ITS APPLICATION TO TRANSFERS UNDER SECTION 59(7), 61(11) OR 68(7) OF THE ACT[^c-9c9e39d52fcd31f9c3716c594cb23c7e]
 
 Article 4
 
-[^key-9c9e39d52fcd31f9c3716c594cb23c7e]
+[^c-9c9e39d52fcd31f9c3716c594cb23c7e]
 
 N.B. By virtue of the Transfer of Functions (Transport) Order 1981 (S.I. 1981/238), and subject to certain exceptions not affecting Schedule 4, references in the Transport Act 1968 to “the Minister” are to be read as references to the Secretary of State.
 
@@ -263,42 +263,42 @@ This Order makes modifications in Schedule 4 to the Transport Act 1968 for the p
 
 ## Annotations
 
-[^key-8dc5724f5022e20251d760907550bfd7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1985/1903) revoked (E.W.) (31.12.2013) by [The Control of Fuel and Electricity, Local Government and Transport (Revocations and Savings) Order 2013 (S.I. 2013/2986)](https://www.legislation.gov.uk/uksi/2013/2986), [art. 1](https://www.legislation.gov.uk/uksi/2013/2986/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/2986/schedule/3)
+[^c-8dc5724f5022e20251d760907550bfd7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1985/1903) revoked (E.W.) (31.12.2013) by [The Control of Fuel and Electricity, Local Government and Transport (Revocations and Savings) Order 2013 (S.I. 2013/2986)](https://www.legislation.gov.uk/uksi/2013/2986), [art. 1](https://www.legislation.gov.uk/uksi/2013/2986/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/2986/schedule/3)
 
-[^key-81edd2bf99d6293c2b00ee1ed1b644f4]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
+[^c-81edd2bf99d6293c2b00ee1ed1b644f4]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
 
-[^key-d01eb8f77b45149cf114000a60de15e1]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1985/1903/article/2) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
+[^c-d01eb8f77b45149cf114000a60de15e1]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1985/1903/article/2) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
 
-[^key-838261f577e1dcfeffbe3589b62cb02d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1985/1903/article/3) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
+[^c-838261f577e1dcfeffbe3589b62cb02d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1985/1903/article/3) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
 
-[^key-724fb0794678db3a725ffc3b6ad0a7dc]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1985/1903/article/4) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
+[^c-724fb0794678db3a725ffc3b6ad0a7dc]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1985/1903/article/4) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
 
-[^key-740b4a7e70a5d506f9100b56737a2e6d]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/1) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
+[^c-740b4a7e70a5d506f9100b56737a2e6d]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/1) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
 
-[^key-a41536456b2443cfbf6f7d4a56bcbaae]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/2) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
+[^c-a41536456b2443cfbf6f7d4a56bcbaae]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/2) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
 
-[^key-308210f41f5f350db184871b89dbe17d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/3) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
+[^c-308210f41f5f350db184871b89dbe17d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/3) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
 
-[^key-b65bae2d565efa3ad4ed05b457d35aa3]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/4) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
+[^c-b65bae2d565efa3ad4ed05b457d35aa3]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/4) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
 
-[^key-641013c552e87cdb0f9e619a49d9bde9]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/5) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
+[^c-641013c552e87cdb0f9e619a49d9bde9]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/5) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
 
-[^key-281f361b481326638c99845937831451]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/6) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
+[^c-281f361b481326638c99845937831451]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/6) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
 
-[^key-cdb9009ae7df516be39511212e98061e]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/7) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
+[^c-cdb9009ae7df516be39511212e98061e]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/7) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
 
-[^key-c2680f828100c3c0e4d964f925d81ea5]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/8) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
+[^c-c2680f828100c3c0e4d964f925d81ea5]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/8) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
 
-[^key-3ae5bb454f50d305663df5970c4a0ea8]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/9) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
+[^c-3ae5bb454f50d305663df5970c4a0ea8]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/9) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
 
-[^key-d1cab685e5f4b56b9016870ddc252c96]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/10) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
+[^c-d1cab685e5f4b56b9016870ddc252c96]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/10) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
 
-[^key-1a41e2a9a6889aeb86c35d201edb48c7]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/11) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
+[^c-1a41e2a9a6889aeb86c35d201edb48c7]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/11) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
 
-[^key-b0020957651d6689954c57cae5c4adbc]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/12) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
+[^c-b0020957651d6689954c57cae5c4adbc]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/12) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
 
-[^key-97457dd796f5e726a343692cf01ae4f5]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/13) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
+[^c-97457dd796f5e726a343692cf01ae4f5]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/13) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
 
-[^key-b538667f20c2443a83decb96bdd9d18b]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/14) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
+[^c-b538667f20c2443a83decb96bdd9d18b]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/1985/1903/schedule/1/paragraph/14) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
 
-[^key-9c9e39d52fcd31f9c3716c594cb23c7e]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1985/1903/schedule/2) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)
+[^c-9c9e39d52fcd31f9c3716c594cb23c7e]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1985/1903/schedule/2) in force at 6.1.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1985/1903/article/1)

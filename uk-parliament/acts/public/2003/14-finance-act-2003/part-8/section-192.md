@@ -78,7 +78,7 @@ summary: ''
 - (a) in paragraph (a) after “return” insert “ or other notification ”;
 - (b) in paragraph (b), and in the words after that paragraph, after “return” insert “ or notification ”.
 
-(8)[^key-a1399f72acb4dfc265dfad4ac4d9f336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-a1399f72acb4dfc265dfad4ac4d9f336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In paragraph 125(1) (obligation to keep records) for “persons who are, or are required to be, registered” substitute
 
@@ -94,4 +94,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1399f72acb4dfc265dfad4ac4d9f336]: Textual amendment: [S. 192(8)](https://www.legislation.gov.uk/ukpga/2003/14/section/192/8) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 122(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/122/2), [Sch. 40 para. 21(k)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/40/paragraph/21/k/i); [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571), [art. 2](https://www.legislation.gov.uk/uksi/2009/571/article/2)
+[^c-a1399f72acb4dfc265dfad4ac4d9f336]: Textual amendment: [S. 192(8)](https://www.legislation.gov.uk/ukpga/2003/14/section/192/8) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 122(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/122/2), [Sch. 40 para. 21(k)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/40/paragraph/21/k/i); [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571), [art. 2](https://www.legislation.gov.uk/uksi/2009/571/article/2)

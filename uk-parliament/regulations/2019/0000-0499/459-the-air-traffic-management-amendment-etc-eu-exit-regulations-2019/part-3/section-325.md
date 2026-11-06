@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 325. Annex 1 to Commission Implementing Regulation (EU) No 1079/2012[^key-90b9cb8e517ddae7d303c24d4a7705e9]
+## 325. Annex 1 to Commission Implementing Regulation (EU) No 1079/2012[^c-90b9cb8e517ddae7d303c24d4a7705e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90b9cb8e517ddae7d303c24d4a7705e9]: Commencement: Reg. 325 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-90b9cb8e517ddae7d303c24d4a7705e9]: Commencement: Reg. 325 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

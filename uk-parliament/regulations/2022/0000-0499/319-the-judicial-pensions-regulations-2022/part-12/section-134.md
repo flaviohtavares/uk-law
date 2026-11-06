@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Transitional provisions[^key-ab55c89875015b4619fbde88c06ac2a3]
+## 134. Transitional provisions[^c-ab55c89875015b4619fbde88c06ac2a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 has effect.
 
 ## Annotations
 
-[^key-ab55c89875015b4619fbde88c06ac2a3]: Commencement: Reg. 134 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-ab55c89875015b4619fbde88c06ac2a3]: Commencement: Reg. 134 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

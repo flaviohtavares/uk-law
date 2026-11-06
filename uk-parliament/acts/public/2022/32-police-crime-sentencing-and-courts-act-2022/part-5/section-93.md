@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Removal of requirement to surrender licence where fixed penalty notice[^key-f7551476ca40a5b75140333e7673813c][^key-da0b63112260adc0ab69e3cb3d6ef02d]
+## 93. Removal of requirement to surrender licence where fixed penalty notice[^c-f7551476ca40a5b75140333e7673813c][^c-da0b63112260adc0ab69e3cb3d6ef02d]
 
 *Extent: E+W+S*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f7551476ca40a5b75140333e7673813c]: Commencement: S. 93 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-f7551476ca40a5b75140333e7673813c]: Commencement: S. 93 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-da0b63112260adc0ab69e3cb3d6ef02d]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2022/32/section/93) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-da0b63112260adc0ab69e3cb3d6ef02d]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2022/32/section/93) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))

@@ -32,7 +32,7 @@ summary: ''
 
 European Union
 
-The European Communities (Designation) (No. 2) Order 2016 (revoked)[^key-f34638e1c22b5d9a623d6dda76dd028b]
+The European Communities (Designation) (No. 2) Order 2016 (revoked)[^c-f34638e1c22b5d9a623d6dda76dd028b]
 
 Made
 
@@ -52,38 +52,38 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-f34638e1c22b5d9a623d6dda76dd028b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f34638e1c22b5d9a623d6dda76dd028b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f34638e1c22b5d9a623d6dda76dd028b]
+## 1. Citation, commencement and interpretation[^c-f34638e1c22b5d9a623d6dda76dd028b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation in relation to the European Parliament[^key-f34638e1c22b5d9a623d6dda76dd028b]
+## 2. Designation in relation to the European Parliament[^c-f34638e1c22b5d9a623d6dda76dd028b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation in relation to local elections[^key-f34638e1c22b5d9a623d6dda76dd028b]
+## 3. Designation in relation to local elections[^c-f34638e1c22b5d9a623d6dda76dd028b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Relationship with other designations[^key-f34638e1c22b5d9a623d6dda76dd028b]
+## 4. Relationship with other designations[^c-f34638e1c22b5d9a623d6dda76dd028b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation of Articles 2, 3 and 4 of the European Communities (Designation) Order 2013[^key-f34638e1c22b5d9a623d6dda76dd028b]
+## 5. Revocation of Articles 2, 3 and 4 of the European Communities (Designation) Order 2013[^c-f34638e1c22b5d9a623d6dda76dd028b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation of Article 5 of the European Communities (Designation) (No. 2) Order 2015[^key-f34638e1c22b5d9a623d6dda76dd028b]
+## 6. Revocation of Article 5 of the European Communities (Designation) (No. 2) Order 2015[^c-f34638e1c22b5d9a623d6dda76dd028b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f34638e1c22b5d9a623d6dda76dd028b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f34638e1c22b5d9a623d6dda76dd028b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f34638e1c22b5d9a623d6dda76dd028b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f34638e1c22b5d9a623d6dda76dd028b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f34638e1c22b5d9a623d6dda76dd028b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/1112) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f34638e1c22b5d9a623d6dda76dd028b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/1112) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

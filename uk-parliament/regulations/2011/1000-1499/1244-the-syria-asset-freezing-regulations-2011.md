@@ -46,7 +46,7 @@ Coming into force
 
 at 6.00 p.m. on 10th May 2011
 
-[^key-3b6485a5800ccf3594c7a0133b1cb631]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b6485a5800ccf3594c7a0133b1cb631]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -164,4 +164,4 @@ Regulation 11
 
 ## Annotations
 
-[^key-3b6485a5800ccf3594c7a0133b1cb631]: Textual amendment: Regulations revoked (19.1.2012) by [The Syria (European Union Financial Sanctions) Regulations 2012 (S.I. 2012/129)](https://www.legislation.gov.uk/uksi/2012/129), [reg. 24(a)](https://www.legislation.gov.uk/uksi/2012/129/regulation/24/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2012/129/regulation/23))
+[^c-3b6485a5800ccf3594c7a0133b1cb631]: Textual amendment: Regulations revoked (19.1.2012) by [The Syria (European Union Financial Sanctions) Regulations 2012 (S.I. 2012/129)](https://www.legislation.gov.uk/uksi/2012/129), [reg. 24(a)](https://www.legislation.gov.uk/uksi/2012/129/regulation/24/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2012/129/regulation/23))

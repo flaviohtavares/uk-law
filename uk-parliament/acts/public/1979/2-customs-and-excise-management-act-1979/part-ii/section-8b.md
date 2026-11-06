@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8B. Co-operation with other customs services[^key-e40670fc00e535f5de0eaf9231cf086e]
+## 8B. Co-operation with other customs services[^c-e40670fc00e535f5de0eaf9231cf086e]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ section 19 of the Commissioners for Revenue and Customs Act 2005 (offence of wro
 
 ## Annotations
 
-[^key-e40670fc00e535f5de0eaf9231cf086e]: Textual amendment: [Ss. 8A](https://www.legislation.gov.uk/ukpga/1979/2/section/8A), [8B](https://www.legislation.gov.uk/ukpga/1979/2/section/8B) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2020/29/section/20/1), [40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/s)
+[^c-e40670fc00e535f5de0eaf9231cf086e]: Textual amendment: [Ss. 8A](https://www.legislation.gov.uk/ukpga/1979/2/section/8A), [8B](https://www.legislation.gov.uk/ukpga/1979/2/section/8B) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2020/29/section/20/1), [40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/s)

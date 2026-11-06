@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Certification of plans etc[^key-96a843edf93d0ab0f5177e566fedfb5d]
+## 37. Certification of plans etc[^c-96a843edf93d0ab0f5177e566fedfb5d]
 
 *Extent: E+W+S*
 
@@ -71,4 +71,4 @@ the reference in the plan or document concerned must be construed for the purpos
 
 ## Annotations
 
-[^key-96a843edf93d0ab0f5177e566fedfb5d]: Commencement: Art. 37 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
+[^c-96a843edf93d0ab0f5177e566fedfb5d]: Commencement: Art. 37 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)

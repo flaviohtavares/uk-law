@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Notice of future service charge demands[^key-39a8305fe41a969e49815fc4a1dd0539]
+## 54. Notice of future service charge demands[^c-39a8305fe41a969e49815fc4a1dd0539]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ In section 20B of the LTA 1985 (time limit on making service charge demands), in
 
 ## Annotations
 
-[^key-39a8305fe41a969e49815fc4a1dd0539]: Commencement: S. 54 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-39a8305fe41a969e49815fc4a1dd0539]: Commencement: S. 54 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

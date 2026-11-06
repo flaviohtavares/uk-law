@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 293. Enforcement of Community rules[^c2008405][^key-66f16c5626c0471004025b5f831d49f2]
+## 293. Enforcement of Community rules[^c2008405][^c-66f16c5626c0471004025b5f831d49f2]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) In subsection (1)—
 
-- (a) after “enforceable Community restrictions” insert “ , and enforceable EU[^key-d70309a0189820d77ec38d149c1532d4] obligations, ”;
+- (a) after “enforceable Community restrictions” insert “ , and enforceable EU[^c-d70309a0189820d77ec38d149c1532d4] obligations, ”;
 - (b) for paragraph (a) substitute—
 
   > - (a) if any fishing boat within British fishery limits—
@@ -85,6 +85,6 @@ summary: ''
 
 [^c2008405]: Commencement: S. 293 partly in force; s. 293 in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-66f16c5626c0471004025b5f831d49f2]: Commencement: S. 293 in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/24)
+[^c-66f16c5626c0471004025b5f831d49f2]: Commencement: S. 293 in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/24)
 
-[^key-d70309a0189820d77ec38d149c1532d4]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-d70309a0189820d77ec38d149c1532d4]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

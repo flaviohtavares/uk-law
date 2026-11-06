@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 23. Children[^key-5e052fe1f145f78249f00aec1b4bd7ea]
+## 23. Children[^c-5e052fe1f145f78249f00aec1b4bd7ea]
 
 *Extent: E*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e052fe1f145f78249f00aec1b4bd7ea]: Commencement: [S. 23](https://www.legislation.gov.uk/ukcm/2018/9/section/23) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-5e052fe1f145f78249f00aec1b4bd7ea]: Commencement: [S. 23](https://www.legislation.gov.uk/ukcm/2018/9/section/23) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

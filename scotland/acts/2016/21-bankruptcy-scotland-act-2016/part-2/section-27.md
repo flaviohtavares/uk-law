@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Further matters in relation to award of sequestration[^key-860401de5857fce770507dd61564102c]
+## 27. Further matters in relation to award of sequestration[^c-860401de5857fce770507dd61564102c]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-860401de5857fce770507dd61564102c]: Commencement: S. 27 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-860401de5857fce770507dd61564102c]: Commencement: S. 27 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

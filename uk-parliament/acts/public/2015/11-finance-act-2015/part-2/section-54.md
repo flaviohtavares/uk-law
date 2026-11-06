@@ -34,7 +34,7 @@ summary: ''
   , and
 - (c) in subsection (4), after “Act” insert “ (except in Part 6A) ”.
 
-(3)[^key-09e526a14131158a66e773f38d4cb1bb] After Part 6 insert—
+(3)[^c-09e526a14131158a66e773f38d4cb1bb] After Part 6 insert—
 
 > **PART 6A — Wholesaling of controlled liquor**
 >
@@ -409,4 +409,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09e526a14131158a66e773f38d4cb1bb]: Commencement: [S. 54(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/54/3) in force at 1.4.2017 for specified purposes by [S.I. 2017/494](https://www.legislation.gov.uk/uksi/2017/494), [reg. 2](https://www.legislation.gov.uk/uksi/2017/494/regulation/2)
+[^c-09e526a14131158a66e773f38d4cb1bb]: Commencement: [S. 54(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/54/3) in force at 1.4.2017 for specified purposes by [S.I. 2017/494](https://www.legislation.gov.uk/uksi/2017/494), [reg. 2](https://www.legislation.gov.uk/uksi/2017/494/regulation/2)

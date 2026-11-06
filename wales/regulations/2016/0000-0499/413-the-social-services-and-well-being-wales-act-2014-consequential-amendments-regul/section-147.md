@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**147.**[^key-95837506e2ad34f02bc4e8d082f12993] In section 80B[^f00163] (entitlement to paternity leave: adoption)—
+**147.**[^c-95837506e2ad34f02bc4e8d082f12993] In section 80B[^f00163] (entitlement to paternity leave: adoption)—
 
 - (a) for subsection (6A) substitute—
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-95837506e2ad34f02bc4e8d082f12993]: Commencement: Reg. 147 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-95837506e2ad34f02bc4e8d082f12993]: Commencement: Reg. 147 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00163]: Footnote: Section 80B was inserted by the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), section 1. Subsections (6A) and (6B) were inserted by the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), section 121(2)(b).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Key concepts[^key-9e5d961135af9980cc0498107ffe8f6c]
+## 60. Key concepts[^c-9e5d961135af9980cc0498107ffe8f6c]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ For that purpose the employer’s “**financial position**” means its financi
 
 ## Annotations
 
-[^key-9e5d961135af9980cc0498107ffe8f6c]: Commencement: S. 60 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)
+[^c-9e5d961135af9980cc0498107ffe8f6c]: Commencement: S. 60 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)

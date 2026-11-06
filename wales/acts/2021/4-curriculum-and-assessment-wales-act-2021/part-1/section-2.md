@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. The four purposes[^key-c50b3fff276d8595bae5d6f95ecc5bc4]
+## 2. The four purposes[^c-c50b3fff276d8595bae5d6f95ecc5bc4]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c50b3fff276d8595bae5d6f95ecc5bc4]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2021/4/section/2) in force at 29.9.2021 by [S.I. 2021/1069](https://www.legislation.gov.uk/wsi/2021/1069), [art. 2](https://www.legislation.gov.uk/wsi/2021/1069/article/2)
+[^c-c50b3fff276d8595bae5d6f95ecc5bc4]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2021/4/section/2) in force at 29.9.2021 by [S.I. 2021/1069](https://www.legislation.gov.uk/wsi/2021/1069), [art. 2](https://www.legislation.gov.uk/wsi/2021/1069/article/2)

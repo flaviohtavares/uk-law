@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Identification of economic operators[^key-bd47d8d039073f78586cc83e7750802e]
+## 37. Identification of economic operators[^c-bd47d8d039073f78586cc83e7750802e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd47d8d039073f78586cc83e7750802e]: Commencement: Reg. 37 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-bd47d8d039073f78586cc83e7750802e]: Commencement: Reg. 37 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

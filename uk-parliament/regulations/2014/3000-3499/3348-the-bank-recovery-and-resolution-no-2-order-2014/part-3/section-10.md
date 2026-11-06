@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Provision of information to EBA[^key-9046fdba461b9dfdd2971978670c9eb1]
+## 10. Provision of information to EBA[^c-9046fdba461b9dfdd2971978670c9eb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9046fdba461b9dfdd2971978670c9eb1]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/uksi/2014/3348/article/10) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9046fdba461b9dfdd2971978670c9eb1]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/uksi/2014/3348/article/10) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

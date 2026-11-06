@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.16. Content of application for an account monitoring order under the Terrorism Act 2000 or the National Security Act 2023[^key-542b13350eae61c51da5783be4db0877]
+## 47.16. Content of application for an account monitoring order under the Terrorism Act 2000 or the National Security Act 2023[^c-542b13350eae61c51da5783be4db0877]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ As well as complying with rules 47.6 and 47.11, an applicant who wants the court
 
 ## Annotations
 
-[^key-542b13350eae61c51da5783be4db0877]: Commencement: Rule 47.16 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-542b13350eae61c51da5783be4db0877]: Commencement: Rule 47.16 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01164]: Footnote: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11); Schedule 6A was inserted by section 3 of, and paragraph 1 of Schedule 2 to, the Anti-terrorism, Crime and Security Act [2001 (c. 24)](https://www.legislation.gov.uk/ukpga/2001/24).
 

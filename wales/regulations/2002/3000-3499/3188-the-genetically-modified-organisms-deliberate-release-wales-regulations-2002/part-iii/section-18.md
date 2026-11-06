@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Transitional provision for marketing[^key-c76416a1e82eb3f2df1d60a0b89ced71]
+## 18. Transitional provision for marketing[^c-c76416a1e82eb3f2df1d60a0b89ced71]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c76416a1e82eb3f2df1d60a0b89ced71]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/wsi/2002/3188/regulation/18) omitted (20.3.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/379)](https://www.legislation.gov.uk/wsi/2019/379), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/379/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2019/379/regulation/2/3)
+[^c-c76416a1e82eb3f2df1d60a0b89ced71]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/wsi/2002/3188/regulation/18) omitted (20.3.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/379)](https://www.legislation.gov.uk/wsi/2019/379), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/379/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2019/379/regulation/2/3)

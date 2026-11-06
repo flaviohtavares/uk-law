@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Review in relation to non-scale default arrangements[^key-4219b48f997f48eb40a3d442784c14eb]
+## 43. Review in relation to non-scale default arrangements[^c-4219b48f997f48eb40a3d442784c14eb]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4219b48f997f48eb40a3d442784c14eb]: Commencement: S. 43 not in force at Royal Assent, see [s. 133(4)(d)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/d)
+[^c-4219b48f997f48eb40a3d442784c14eb]: Commencement: S. 43 not in force at Royal Assent, see [s. 133(4)(d)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/d)

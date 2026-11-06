@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Applications for authorisation[^key-f1936eda64108edb5b1369271821e20b]
+## 12. Applications for authorisation[^c-f1936eda64108edb5b1369271821e20b]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ he furnishes information which he knows to be false or misleading in a material 
 
 ## Annotations
 
-[^key-f1936eda64108edb5b1369271821e20b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2004/335/regulation/12) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-f1936eda64108edb5b1369271821e20b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2004/335/regulation/12) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

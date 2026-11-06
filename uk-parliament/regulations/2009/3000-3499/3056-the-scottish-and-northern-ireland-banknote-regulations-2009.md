@@ -310,12 +310,12 @@ in any of the circumstances mentioned in paragraph (2).
 - (d) the publication or disclosure is made for the purpose of enabling or assisting the Bank of England to discharge its functions under these Regulations;
 - (e) the disclosure is made with a view to the instigation of, or otherwise for the purposes of, any criminal proceedings;
 - (f) the disclosure is made with a view to the enforcement of any civil penalty imposed under regulation 33;
-- (g)[^key-349ffe8aa11acb15c3ddc9c2863f8385] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-0e7afa0672ac545e3c47029ae8c2cd19] the disclosure is made to the Treasury, the Financial Conduct Authority or the Prudential Regulation Authority, and the Bank of England considers that the disclosure would assist—
+- (g)[^c-349ffe8aa11acb15c3ddc9c2863f8385] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-0e7afa0672ac545e3c47029ae8c2cd19] the disclosure is made to the Treasury, the Financial Conduct Authority or the Prudential Regulation Authority, and the Bank of England considers that the disclosure would assist—
   - (i) the Financial Conduct Authority or the Prudential Regulation Authority (as the case may be) in the discharge of their functions under the Financial Services and Markets Act 2000, or
   - (ii) the Treasury in the discharge of their functions under the Financial Services and Markets Act 2000, the Act or these Regulations.
 
-(3) The Treasury, the Financial Conduct Authority or the Prudential Regulation Authority[^key-69be1c9cf4129821ced96f88ab5b8f1d] may, for the purpose of assisting them in the discharge of their functions under the Financial Services and Markets Act 2000 or, in the case of the Treasury, under the Act or these Regulations, publish or disclose information obtained by them under paragraph (2)(h).
+(3) The Treasury, the Financial Conduct Authority or the Prudential Regulation Authority[^c-69be1c9cf4129821ced96f88ab5b8f1d] may, for the purpose of assisting them in the discharge of their functions under the Financial Services and Markets Act 2000 or, in the case of the Treasury, under the Act or these Regulations, publish or disclose information obtained by them under paragraph (2)(h).
 
 ### 18. Annual report by Bank of England
 
@@ -689,11 +689,11 @@ An Impact Assessment of the effect of these Regulations is available on HM Treas
 
 [^c19954381]: Marginal citation: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1).
 
-[^key-349ffe8aa11acb15c3ddc9c2863f8385]: Textual amendment: [Reg. 17(2)(g)](https://www.legislation.gov.uk/uksi/2009/3056/regulation/17/2/g) omitted (31.12.2020) by virtue of [The Bank of England (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1297)](https://www.legislation.gov.uk/uksi/2018/1297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2018/1297/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-349ffe8aa11acb15c3ddc9c2863f8385]: Textual amendment: [Reg. 17(2)(g)](https://www.legislation.gov.uk/uksi/2009/3056/regulation/17/2/g) omitted (31.12.2020) by virtue of [The Bank of England (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1297)](https://www.legislation.gov.uk/uksi/2018/1297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2018/1297/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0e7afa0672ac545e3c47029ae8c2cd19]: Textual amendment: Reg. 17(2)(h) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 180(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/180/a)
+[^c-0e7afa0672ac545e3c47029ae8c2cd19]: Textual amendment: Reg. 17(2)(h) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 180(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/180/a)
 
-[^key-69be1c9cf4129821ced96f88ab5b8f1d]: Textual amendment: Words in reg. 17(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 180(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/180/b)
+[^c-69be1c9cf4129821ced96f88ab5b8f1d]: Textual amendment: Words in reg. 17(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 180(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/180/b)
 
 [^c19954421]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 

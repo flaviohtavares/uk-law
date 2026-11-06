@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 243. Appeals against enforcement action[^key-bc7cba29ae24c475ec7e162c7cfd5ce4][^key-66a66c06758777e4f01ca1f6c6b5bd75]
+## 243. Appeals against enforcement action[^c-bc7cba29ae24c475ec7e162c7cfd5ce4][^c-66a66c06758777e4f01ca1f6c6b5bd75]
 
 *Extent: E+W+S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc7cba29ae24c475ec7e162c7cfd5ce4]: Commencement: S. 243 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-bc7cba29ae24c475ec7e162c7cfd5ce4]: Commencement: S. 243 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-66a66c06758777e4f01ca1f6c6b5bd75]: Commencement: [S. 243](https://www.legislation.gov.uk/ukpga/2023/52/section/243) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/ii)
+[^c-66a66c06758777e4f01ca1f6c6b5bd75]: Commencement: [S. 243](https://www.legislation.gov.uk/ukpga/2023/52/section/243) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/ii)

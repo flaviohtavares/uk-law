@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Provision over 100%[^key-2d8259859963df3e5716828974455ded]
+## 27. Provision over 100%[^c-2d8259859963df3e5716828974455ded]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where the sum total of the percentage reported under regulation 24 is between 10
 
 ## Annotations
 
-[^key-2d8259859963df3e5716828974455ded]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2026/37/regulation/27) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-2d8259859963df3e5716828974455ded]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2026/37/regulation/27) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

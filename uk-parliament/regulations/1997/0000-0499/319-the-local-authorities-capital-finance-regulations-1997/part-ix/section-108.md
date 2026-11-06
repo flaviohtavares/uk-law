@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Disposal of land to another local authority[^key-d86f4617941bcf633b8e017015811a2d]
+## 108. Disposal of land to another local authority[^c-d86f4617941bcf633b8e017015811a2d]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ In the case of non-monetary consideration received in repect of a disposal of an
 
 ## Annotations
 
-[^key-d86f4617941bcf633b8e017015811a2d]: Commencement: Reg. 108 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-d86f4617941bcf633b8e017015811a2d]: Commencement: Reg. 108 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

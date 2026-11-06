@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Procedure for super-complaints[^key-21983a734ca682a68706b5c8310be969]
+## 170. Procedure for super-complaints[^c-21983a734ca682a68706b5c8310be969]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21983a734ca682a68706b5c8310be969]: Commencement: S. 170 in force at Royal Assent, see [s. 240(4)(v)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/v)
+[^c-21983a734ca682a68706b5c8310be969]: Commencement: S. 170 in force at Royal Assent, see [s. 240(4)(v)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/v)

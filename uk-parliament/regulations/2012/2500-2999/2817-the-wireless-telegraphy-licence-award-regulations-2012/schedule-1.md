@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — FREQUENCY LOTS[^key-4b62197d5d89e677835194fb9bec3a37]
+## SCHEDULE 1 — FREQUENCY LOTS[^c-4b62197d5d89e677835194fb9bec3a37]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 2(3) and (4)
 
-[^key-4b62197d5d89e677835194fb9bec3a37]
+[^c-4b62197d5d89e677835194fb9bec3a37]
 
 In these Regulations—
 
@@ -61,7 +61,7 @@ In these Regulations—
   | 2.6 GHz paired frequency lot 8 | 2535-2540 and 2655-2660 |
   | 2.6 GHz paired frequency lot 9 | 2540-2545 and 2660-2665 |
   | 2.6 GHz paired frequency lot 10 | 2545-2550 and 2665-2670 |
-  | 2.6 GHz paired frequency lot 11 | 2550-2555 and 2670-2675[^key-31e652bf3bf660ce1f723d122c2c8c32] |
+  | 2.6 GHz paired frequency lot 11 | 2550-2555 and 2670-2675[^c-31e652bf3bf660ce1f723d122c2c8c32] |
   | 2.6 GHz paired frequency lot 12 | 2555-2560 and 2675-2680 |
   | 2.6 GHz paired frequency lot 13 | 2560-2565 and 2680-2685 |
   | 2.6 GHz paired frequency lot 14 | 2565-2570 and 2685-2690 |
@@ -84,6 +84,6 @@ In these Regulations—
 
 ## Annotations
 
-[^key-4b62197d5d89e677835194fb9bec3a37]: Commencement: Sch. 1 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-4b62197d5d89e677835194fb9bec3a37]: Commencement: Sch. 1 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
 
-[^key-31e652bf3bf660ce1f723d122c2c8c32]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2817/schedule/1) substituted (30.11.2012) by [The Wireless Telegraphy (Licence Award) (Amendment) Regulations 2012 (S.I. 2012/2970)](https://www.legislation.gov.uk/uksi/2012/2970), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2970/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2012/2970/regulation/2/4)
+[^c-31e652bf3bf660ce1f723d122c2c8c32]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2817/schedule/1) substituted (30.11.2012) by [The Wireless Telegraphy (Licence Award) (Amendment) Regulations 2012 (S.I. 2012/2970)](https://www.legislation.gov.uk/uksi/2012/2970), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2970/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2012/2970/regulation/2/4)

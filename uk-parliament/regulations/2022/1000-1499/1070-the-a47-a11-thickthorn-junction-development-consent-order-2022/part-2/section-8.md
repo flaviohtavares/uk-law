@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Limits of deviation[^key-30ed0a4b42b598ee481bf22059ea2be9]
+## 8. Limits of deviation[^c-30ed0a4b42b598ee481bf22059ea2be9]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30ed0a4b42b598ee481bf22059ea2be9]: Commencement: Art. 8 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-30ed0a4b42b598ee481bf22059ea2be9]: Commencement: Art. 8 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)

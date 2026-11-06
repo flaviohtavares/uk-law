@@ -72,27 +72,27 @@ The Secretary of State makes the following Order in exercise of the powers confe
 - “**the 2008 Regulations**” means the Limited Liability Partnerships (Accounts and Audits)(Application of Companies Act 2006) Regulations 2008 [^c21278691];
 - “**coming into force**” means the coming into force of this Order;
 - “**the Conduct Committee**” means the body of that name established under the articles of association of The Financial Reporting Council Limited;
-- “ **DGTR sourcebook[^key-d5bc8ec76c0d56891f3b39dce58f61e4]** ” means the Disclosure Guidance and Transparency Rules sourcebook made by the Financial Conduct Authority under the Financial Services and Markets Act 2000 , as it has effect on IP completion day;
+- “ **DGTR sourcebook[^c-d5bc8ec76c0d56891f3b39dce58f61e4]** ” means the Disclosure Guidance and Transparency Rules sourcebook made by the Financial Conduct Authority under the Financial Services and Markets Act 2000 , as it has effect on IP completion day;
 - “**LLPs**” means limited liability partnerships;
-- “ **UK regulated market[^key-4a018f40e3e59b4fc15c1589fefab709]** ” has the meaning given in Article 2.1.13A of Regulation (EU) No. 600/2014 of the European Parliament and of the Council of 15 May 2014 and amending Regulation (EU) No. 648/2012.
-- [^key-f7281ae8aced9a4769f18cece14b72cd]...
-- [^key-f7281ae8aced9a4769f18cece14b72cd]...
+- “ **UK regulated market[^c-4a018f40e3e59b4fc15c1589fefab709]** ” has the meaning given in Article 2.1.13A of Regulation (EU) No. 600/2014 of the European Parliament and of the Council of 15 May 2014 and amending Regulation (EU) No. 648/2012.
+- [^c-f7281ae8aced9a4769f18cece14b72cd]...
+- [^c-f7281ae8aced9a4769f18cece14b72cd]...
 
-## 2. Appointment in relation to issuers[^key-e9af95ccc4b82c6ffea92672e5be0e32]
+## 2. Appointment in relation to issuers[^c-e9af95ccc4b82c6ffea92672e5be0e32]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Appointment in relation to accounts[^key-e9af95ccc4b82c6ffea92672e5be0e32]
+## 3. Appointment in relation to accounts[^c-e9af95ccc4b82c6ffea92672e5be0e32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Authorisation[^key-e9af95ccc4b82c6ffea92672e5be0e32]
+## 4. Authorisation[^c-e9af95ccc4b82c6ffea92672e5be0e32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Decision recording etc requirements[^key-e9af95ccc4b82c6ffea92672e5be0e32]
+## 5. Decision recording etc requirements[^c-e9af95ccc4b82c6ffea92672e5be0e32]
 
 **No longer in force.**
 
@@ -115,11 +115,11 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 .
 
-## 7. Application, revocations and transitional provisions[^key-c4306d83e024e536f2080797117f7f72]
+## 7. Application, revocations and transitional provisions[^c-c4306d83e024e536f2080797117f7f72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Consequential amendments[^key-347ee096b361190eed96f5833b3e0a8a]
+## 8. Consequential amendments[^c-347ee096b361190eed96f5833b3e0a8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -167,14 +167,14 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c21278691]: Marginal citation: [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911), amended by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804); there are other amending instruments but none is relevant.
 
-[^key-d5bc8ec76c0d56891f3b39dce58f61e4]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/1439/article/1/3) inserted (31.12.2020) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 31(b)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/31/b) (as amended by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2020/523/regulation/12/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d5bc8ec76c0d56891f3b39dce58f61e4]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/1439/article/1/3) inserted (31.12.2020) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 31(b)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/31/b) (as amended by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2020/523/regulation/12/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a018f40e3e59b4fc15c1589fefab709]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/1439/article/1/3) inserted (31.12.2020) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 31(c)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/31/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a018f40e3e59b4fc15c1589fefab709]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/1439/article/1/3) inserted (31.12.2020) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 31(c)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/31/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f7281ae8aced9a4769f18cece14b72cd]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/1439/article/1/3) omitted (31.12.2020) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 31(a)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/31/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7281ae8aced9a4769f18cece14b72cd]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/1439/article/1/3) omitted (31.12.2020) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 31(a)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/31/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e9af95ccc4b82c6ffea92672e5be0e32]: Textual amendment: [Arts. 2-5](https://www.legislation.gov.uk/uksi/2012/1439/article/2) omitted (6.5.2021) by virtue of [The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021 (S.I. 2021/465)](https://www.legislation.gov.uk/uksi/2021/465), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2), [7](https://www.legislation.gov.uk/uksi/2021/465/article/7) (with [art. 9](https://www.legislation.gov.uk/uksi/2021/465/article/9))
+[^c-e9af95ccc4b82c6ffea92672e5be0e32]: Textual amendment: [Arts. 2-5](https://www.legislation.gov.uk/uksi/2012/1439/article/2) omitted (6.5.2021) by virtue of [The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021 (S.I. 2021/465)](https://www.legislation.gov.uk/uksi/2021/465), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2), [7](https://www.legislation.gov.uk/uksi/2021/465/article/7) (with [art. 9](https://www.legislation.gov.uk/uksi/2021/465/article/9))
 
-[^key-c4306d83e024e536f2080797117f7f72]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2012/1439/article/7) omitted (6.5.2021) by virtue of [The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021 (S.I. 2021/465)](https://www.legislation.gov.uk/uksi/2021/465), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2), [7](https://www.legislation.gov.uk/uksi/2021/465/article/7) (with [art. 9](https://www.legislation.gov.uk/uksi/2021/465/article/9))
+[^c-c4306d83e024e536f2080797117f7f72]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2012/1439/article/7) omitted (6.5.2021) by virtue of [The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021 (S.I. 2021/465)](https://www.legislation.gov.uk/uksi/2021/465), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2), [7](https://www.legislation.gov.uk/uksi/2021/465/article/7) (with [art. 9](https://www.legislation.gov.uk/uksi/2021/465/article/9))
 
-[^key-347ee096b361190eed96f5833b3e0a8a]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2012/1439/article/8) omitted (6.5.2021) by virtue of [The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021 (S.I. 2021/465)](https://www.legislation.gov.uk/uksi/2021/465), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2), [7](https://www.legislation.gov.uk/uksi/2021/465/article/7) (with [art. 9](https://www.legislation.gov.uk/uksi/2021/465/article/9))
+[^c-347ee096b361190eed96f5833b3e0a8a]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2012/1439/article/8) omitted (6.5.2021) by virtue of [The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021 (S.I. 2021/465)](https://www.legislation.gov.uk/uksi/2021/465), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2), [7](https://www.legislation.gov.uk/uksi/2021/465/article/7) (with [art. 9](https://www.legislation.gov.uk/uksi/2021/465/article/9))

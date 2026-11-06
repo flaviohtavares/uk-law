@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Periods of detention in places of safety etc[^c22719181][^key-fb1d842e9cb20e9082b1a19188fe1f55]
+## 82. Periods of detention in places of safety etc[^c22719181][^c-fb1d842e9cb20e9082b1a19188fe1f55]
 
 *Extent: E+W*
 
@@ -73,4 +73,4 @@ summary: ''
 
 [^c22719181]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2017/3/section/82) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-fb1d842e9cb20e9082b1a19188fe1f55]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2017/3/section/82) in force at 11.12.2017 in so far as not already in force by [S.I. 2017/1017](https://www.legislation.gov.uk/uksi/2017/1017), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/1017/regulation/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1017/regulation/4))
+[^c-fb1d842e9cb20e9082b1a19188fe1f55]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2017/3/section/82) in force at 11.12.2017 in so far as not already in force by [S.I. 2017/1017](https://www.legislation.gov.uk/uksi/2017/1017), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/1017/regulation/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1017/regulation/4))

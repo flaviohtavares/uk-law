@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-73f98bd21d74d216ce43825cc0daa83e]
+## 1. Citation and commencement[^c-73f98bd21d74d216ce43825cc0daa83e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Awel y Môr Offshore Wind Farm Order 2023 and com
 
 ## Annotations
 
-[^key-73f98bd21d74d216ce43825cc0daa83e]: Commencement: Art. 1 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-73f98bd21d74d216ce43825cc0daa83e]: Commencement: Art. 1 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)

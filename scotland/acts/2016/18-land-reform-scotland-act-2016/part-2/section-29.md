@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Application to inquire into breach of code of practice[^key-d46a278ac890698527d972993c333a5b]
+## 29. Application to inquire into breach of code of practice[^c-d46a278ac890698527d972993c333a5b]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d46a278ac890698527d972993c333a5b]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2016/18/section/29) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)
+[^c-d46a278ac890698527d972993c333a5b]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2016/18/section/29) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)

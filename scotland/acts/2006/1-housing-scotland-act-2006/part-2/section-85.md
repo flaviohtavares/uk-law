@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Discharge of conditions[^key-d0fd088e7ed7a94ccce183f9858df43e]
+## 85. Discharge of conditions[^c-d0fd088e7ed7a94ccce183f9858df43e]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ specifying that observance of the conditions is no longer required.
 
 ## Annotations
 
-[^key-d0fd088e7ed7a94ccce183f9858df43e]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2006/1/section/85) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-d0fd088e7ed7a94ccce183f9858df43e]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2006/1/section/85) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

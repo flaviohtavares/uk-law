@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Approval to carry on controlled activity[^M_I_187e2b6a-06ef-47d5-ab51-4e991dbd750b][^key-47c1c5a51cc03775722ff581fa470d88]
+## 100. Approval to carry on controlled activity[^M_I_187e2b6a-06ef-47d5-ab51-4e991dbd750b][^c-47c1c5a51cc03775722ff581fa470d88]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^M_I_187e2b6a-06ef-47d5-ab51-4e991dbd750b]: Commencement: S. 100 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-47c1c5a51cc03775722ff581fa470d88]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2023/30/section/100) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-47c1c5a51cc03775722ff581fa470d88]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2023/30/section/100) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

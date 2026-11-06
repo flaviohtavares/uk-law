@@ -22,7 +22,7 @@ summary: ''
 
 In this Part—
 
-- “the Act of 1969” means the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969[^key-d33c3d6662a05a8878f1f3fdfa746b38] [^c11665331];
+- “the Act of 1969” means the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969[^c-d33c3d6662a05a8878f1f3fdfa746b38] [^c11665331];
 - “charity” has the same meaning as in the Charities Act (Northern Ireland) 1964[^c11665341];
 - “committee” has the same meaning as in section 101(1) of the Act of 1969;
 - “[^c21399051]**company**” means a company registered under the Companies Act 2006;
@@ -45,7 +45,7 @@ In this Part—
 
 ## Annotations
 
-[^key-d33c3d6662a05a8878f1f3fdfa746b38]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/nisi/1992/1725/article/3) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/26); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-d33c3d6662a05a8878f1f3fdfa746b38]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/nisi/1992/1725/article/3) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/26); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
 [^c11665331]: Textual amendment: [1969 c.24 (N.I.)](https://www.legislation.gov.uk/apni/1969/24)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Removal of obstructions[^key-daaf081cb5885748aeb3370041151658]
+## 48. Removal of obstructions[^c-daaf081cb5885748aeb3370041151658]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 ## Annotations
 
-[^key-daaf081cb5885748aeb3370041151658]: Commencement: Art. 48 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-daaf081cb5885748aeb3370041151658]: Commencement: Art. 48 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00036]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22).

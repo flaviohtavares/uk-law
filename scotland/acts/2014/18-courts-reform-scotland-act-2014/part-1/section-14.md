@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Qualification for appointment[^key-2bad0d928addf2a54c1943c70174f50e]
+## 14. Qualification for appointment[^c-2bad0d928addf2a54c1943c70174f50e]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bad0d928addf2a54c1943c70174f50e]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2014/18/section/14) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-2bad0d928addf2a54c1943c70174f50e]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2014/18/section/14) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

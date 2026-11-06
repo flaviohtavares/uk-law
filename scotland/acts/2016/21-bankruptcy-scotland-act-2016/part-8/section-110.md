@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 110. Contractual powers of trustee[^key-c4e909af4bc2864c41593b12b2fcdc8a]
+## 110. Contractual powers of trustee[^c-c4e909af4bc2864c41593b12b2fcdc8a]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4e909af4bc2864c41593b12b2fcdc8a]: Commencement: [S. 110](https://www.legislation.gov.uk/asp/2016/21/section/110) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-c4e909af4bc2864c41593b12b2fcdc8a]: Commencement: [S. 110](https://www.legislation.gov.uk/asp/2016/21/section/110) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

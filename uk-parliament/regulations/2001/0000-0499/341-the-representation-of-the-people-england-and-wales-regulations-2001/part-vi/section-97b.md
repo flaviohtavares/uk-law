@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97B. Supply of free copy of full register to the National Library of Scotland[^key-39950fd5d322e552e917290c83aef3b2][^key-e7e11c4a1689c6ea930c08863d88fdb7]
+## 97B. Supply of free copy of full register to the National Library of Scotland[^c-39950fd5d322e552e917290c83aef3b2][^c-e7e11c4a1689c6ea930c08863d88fdb7]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ to the National Library of Scotland“.
 
 ## Annotations
 
-[^key-39950fd5d322e552e917290c83aef3b2]: Textual amendment: Regs. 97A, 97B inserted (23.3.2006) by [The Representation of the People (England and Wales) (Amendment) Regulations 2006 (S.I. 2006/752)](https://www.legislation.gov.uk/uksi/2006/752), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/752/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2006/752/regulation/16)
+[^c-39950fd5d322e552e917290c83aef3b2]: Textual amendment: Regs. 97A, 97B inserted (23.3.2006) by [The Representation of the People (England and Wales) (Amendment) Regulations 2006 (S.I. 2006/752)](https://www.legislation.gov.uk/uksi/2006/752), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/752/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2006/752/regulation/16)
 
-[^key-e7e11c4a1689c6ea930c08863d88fdb7]: Textual amendment: Pt. 6 inserted (16.10.2002) by [The Representation of the People (England and Wales) (Amendment) Regulations 2002 (S.I. 2002/1871)](https://www.legislation.gov.uk/uksi/2002/1871), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/2), [15](https://www.legislation.gov.uk/uksi/2002/1871/regulation/15) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/3))
+[^c-e7e11c4a1689c6ea930c08863d88fdb7]: Textual amendment: Pt. 6 inserted (16.10.2002) by [The Representation of the People (England and Wales) (Amendment) Regulations 2002 (S.I. 2002/1871)](https://www.legislation.gov.uk/uksi/2002/1871), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/2), [15](https://www.legislation.gov.uk/uksi/2002/1871/regulation/15) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/3))

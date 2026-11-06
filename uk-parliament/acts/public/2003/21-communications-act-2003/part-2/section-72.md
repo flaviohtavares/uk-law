@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Report on sharing mechanism: universal service obligations[^key-e68019fc090bcf63bcb32ab76f1244ff][^key-f8c04706e08648deb4fea828b54b1fa3][^key-f5085c1e2bf354e7b3104c621dc751d8]
+## 72. Report on sharing mechanism: universal service obligations[^c-e68019fc090bcf63bcb32ab76f1244ff][^c-f8c04706e08648deb4fea828b54b1fa3][^c-f5085c1e2bf354e7b3104c621dc751d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e68019fc090bcf63bcb32ab76f1244ff]: Commencement: S. 72 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-e68019fc090bcf63bcb32ab76f1244ff]: Commencement: S. 72 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-f8c04706e08648deb4fea828b54b1fa3]: Commencement: S. 72 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-f8c04706e08648deb4fea828b54b1fa3]: Commencement: S. 72 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-f5085c1e2bf354e7b3104c621dc751d8]: Textual amendment: S. 72 heading substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/26)
+[^c-f5085c1e2bf354e7b3104c621dc751d8]: Textual amendment: S. 72 heading substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/26)

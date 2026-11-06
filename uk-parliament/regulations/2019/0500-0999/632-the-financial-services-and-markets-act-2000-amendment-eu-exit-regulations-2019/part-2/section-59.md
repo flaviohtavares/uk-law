@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Section 192JB (rules requiring parent undertakings to facilitate resolution)[^key-d26ec97734379ebf2e963c7ac0a6fbb1]
+## 59. Section 192JB (rules requiring parent undertakings to facilitate resolution)[^c-d26ec97734379ebf2e963c7ac0a6fbb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In section 192JB [^c23657971] (rules requiring parent undertakings to facilitate
 
 ## Annotations
 
-[^key-d26ec97734379ebf2e963c7ac0a6fbb1]: Commencement: Reg. 59 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-d26ec97734379ebf2e963c7ac0a6fbb1]: Commencement: Reg. 59 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23657971]: Marginal citation: Section 192JB was inserted by section 133(1) of the [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33) and was amended by [S.I. 2014/3329](https://www.legislation.gov.uk/uksi/2014/3329).

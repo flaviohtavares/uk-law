@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67A. Breach of controlled goods agreement[^key-470d0a95321b90a63daf944a1ac7c701]
+## 67A. Breach of controlled goods agreement[^c-470d0a95321b90a63daf944a1ac7c701]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-470d0a95321b90a63daf944a1ac7c701]: Textual amendment: S. 67A omitted (6.4.2014) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 129(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/129/4), [Sch. 43 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/43/paragraph/4); [S.I. 2014/906](https://www.legislation.gov.uk/uksi/2014/906), [art. 2](https://www.legislation.gov.uk/uksi/2014/906/article/2)
+[^c-470d0a95321b90a63daf944a1ac7c701]: Textual amendment: S. 67A omitted (6.4.2014) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 129(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/129/4), [Sch. 43 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/43/paragraph/4); [S.I. 2014/906](https://www.legislation.gov.uk/uksi/2014/906), [art. 2](https://www.legislation.gov.uk/uksi/2014/906/article/2)

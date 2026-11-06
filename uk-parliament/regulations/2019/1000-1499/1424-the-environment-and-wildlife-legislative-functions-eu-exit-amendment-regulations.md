@@ -36,7 +36,7 @@ Environmental Protection
 
 Wildlife
 
-The Environment and Wildlife (Legislative Functions) (EU Exit) (Amendment) Regulations 2019 (revoked)[^key-f11cd522ce5f5df13d9e3d0fb91295a3]
+The Environment and Wildlife (Legislative Functions) (EU Exit) (Amendment) Regulations 2019 (revoked)[^c-f11cd522ce5f5df13d9e3d0fb91295a3]
 
 Made
 
@@ -44,24 +44,24 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-f11cd522ce5f5df13d9e3d0fb91295a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f11cd522ce5f5df13d9e3d0fb91295a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f11cd522ce5f5df13d9e3d0fb91295a3]
+## 1. Citation and commencement[^c-f11cd522ce5f5df13d9e3d0fb91295a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Environment and Wildlife (Legislative Functions) (EU Exit) Regulations 2019[^key-f11cd522ce5f5df13d9e3d0fb91295a3]
+## 2. The Environment and Wildlife (Legislative Functions) (EU Exit) Regulations 2019[^c-f11cd522ce5f5df13d9e3d0fb91295a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f11cd522ce5f5df13d9e3d0fb91295a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f11cd522ce5f5df13d9e3d0fb91295a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f11cd522ce5f5df13d9e3d0fb91295a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f11cd522ce5f5df13d9e3d0fb91295a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f11cd522ce5f5df13d9e3d0fb91295a3]: Textual amendment: Regulations revoked (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/6/b)
+[^c-f11cd522ce5f5df13d9e3d0fb91295a3]: Textual amendment: Regulations revoked (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/6/b)

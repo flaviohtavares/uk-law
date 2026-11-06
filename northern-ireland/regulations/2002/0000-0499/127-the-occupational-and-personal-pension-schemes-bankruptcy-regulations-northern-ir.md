@@ -43,7 +43,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by Articles 315C(4)(*a*) and (7) to (9) and 315F(6)(*a*) and (9) to (11) of the Insolvency (Northern Ireland) Order 1989[^f00001] and Articles 12(2)(*h*), 13(1) to (3) and 73(3) and (4) of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-06397a34705b0c5c6445c0c159a0df3c]
+## 1. Citation, commencement and interpretation[^c-06397a34705b0c5c6445c0c159a0df3c]
 
 (1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Bankruptcy) Regulations (Northern Ireland) 2002 and shall come into operation on 6th April 2002.
 
@@ -65,7 +65,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 (3) For the purposes of these Regulations and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954[^f00010], where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
 
-## 2. Prescribed pension arrangements[^key-4cdb6708e34648571721ade53db6dbf4]
+## 2. Prescribed pension arrangements[^c-4cdb6708e34648571721ade53db6dbf4]
 
 (1) The arrangements prescribed for the purposes of Article 12(2)(*h*) of the 1999 Order (pension arrangements which are “approved pension arrangements”) are arrangements (including an annuity purchased for the purpose of giving effect to rights under any such arrangement)—
 
@@ -94,7 +94,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 - (c) “public service pension scheme” has the meaning given in section 1 of the Pension Schemes (Northern Ireland) Act 1993;
 - (d) “year of assessment” has the meaning given in section 832(1) of the Taxes Act.
 
-## 3. Unapproved pension arrangements[^key-50fd5867cf49216f8671a3fa5f9039dc]
+## 3. Unapproved pension arrangements[^c-50fd5867cf49216f8671a3fa5f9039dc]
 
 (1) For the purposes of Article 13 of the 1999 Order (effect of bankruptcy on pension rights: unapproved arrangements), a pension arrangement—
 
@@ -116,14 +116,14 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 (3) For the purposes of Article 13(2)(*c*) of the 1999 Order, the prescribed person shall be the responsible person.
 
-## 4. Exclusion of rights under unapproved pension arrangements[^key-d4306cc7f5f4805a6efd68b590de3e50]
+## 4. Exclusion of rights under unapproved pension arrangements[^c-d4306cc7f5f4805a6efd68b590de3e50]
 
 For the purpose of excluding his rights under an unapproved pension arrangement from his estate for the purposes of Article 9 and Parts VIII to X of the 1989 Order (which cover individual voluntary arrangements, bankruptcy and individual insolvency), a bankrupt may—
 
 - (a) make an application to the High Court for an order (“an exclusion order”) in accordance with the provisions of regulation 5;
 - (b) enter into a qualifying agreement with the trustee in bankruptcy in accordance with the provisions of regulation 6.
 
-## 5. Exclusion orders[^key-3b00e1a305959865d9d43a9d957aceb6]
+## 5. Exclusion orders[^c-3b00e1a305959865d9d43a9d957aceb6]
 
 (1) Subject to paragraph (2), an application for an exclusion order shall be made to the High Court within a period of—
 
@@ -139,7 +139,7 @@ For the purpose of excluding his rights under an unapproved pension arrangement 
 - (a) the future likely needs of the bankrupt and his family;
 - (b) whether any benefits by way of pension or otherwise (other than a pension under Part II of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 or Part II of the Social Security Contributions and Benefits Act 1992, or an income-related benefit) are likely to be received by virtue of rights of the bankrupt which have already accrued under any other pension arrangements at the date on which the application for an exclusion order is made and the extent to which they appear likely to be adequate for meeting any such needs.
 
-## 6. Qualifying agreements[^key-29bee62b5978738b01673aaf41b3d6ab]
+## 6. Qualifying agreements[^c-29bee62b5978738b01673aaf41b3d6ab]
 
 (1) A qualifying agreement shall be made within a period of 9 weeks beginning with the later of the following—
 
@@ -165,17 +165,17 @@ the trustee in bankruptcy may revoke that qualifying agreement by giving the ban
 
 (5) Where a qualifying agreement has been made or revoked in accordance with the provisions of this regulation, the trustee in bankruptcy shall, within a period of 30 days beginning with the date on which that qualifying agreement was made or, in the case of a notice of revocation, the date required under paragraph (4)(*a*), notify the responsible person in writing of that fact.
 
-## 7. Calculation and verification of rights under pension arrangements[^key-dba3f82499e3ee07c11714d16485e6fd]
+## 7. Calculation and verification of rights under pension arrangements[^c-dba3f82499e3ee07c11714d16485e6fd]
 
 (1) For the purposes of Article 315B(4)(*b*)[^f00022] of the 1989 Order, the value of the individual’s rights under an approved pension arrangement or of his excluded rights under an unapproved pension arrangement, shall be the cash equivalent of those rights as calculated and verified in accordance with paragraph (2).
 
 (2) In calculating and verifying the cash equivalent of the rights referred to in paragraph (1), regulation 3 of the Pensions on Divorce etc. (Provision of Information) Regulations (Northern Ireland) 2000[^f00023] (information about pensions on divorce: valuation of pension benefits) shall have effect for the purposes of this regulation in like manner to that in which it has effect for the valuation of benefits in connection with the supply of information in connection with domestic and overseas divorce etc. in Northern Ireland, England and Wales for the purposes of those Regulations; and for these purposes the words “the date on which the request for the valuation was received”, in each place where they occur, in that regulation shall be read as “the date on which the trustee in bankruptcy’s request for the valuation was received”.
 
-## 8. Time for compliance with restoration order[^key-d606c64c48715fa6d2d54496ffe39835]
+## 8. Time for compliance with restoration order[^c-d606c64c48715fa6d2d54496ffe39835]
 
 The responsible person shall comply with the restoration order before the end of a period of 17 weeks beginning with the date of service of that order.
 
-## 9. Calculation and verification of rights under destination arrangements[^key-e7933653185a1a5e5f9b826fb317744e]
+## 9. Calculation and verification of rights under destination arrangements[^c-e7933653185a1a5e5f9b826fb317744e]
 
 (1) Where Article 315E of the 1989 Order applies, the value of a transferee’s rights under a destination arrangement, derived directly or indirectly from a pension-sharing transaction, shall be—
 
@@ -184,7 +184,7 @@ The responsible person shall comply with the restoration order before the end of
 
 (2) In calculating and verifying the cash equivalent of the rights referred to in paragraph (1), regulation 24 of the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000[^f00024] (manner of calculation and verification of cash equivalents) shall have effect for the purposes of this regulation in like manner to that in which it has effect for the calculation and verification of pension credit for the purposes of those Regulations.
 
-## 10. Time for compliance with request for information[^key-05915fd16cbfe212ca9534c75f5fc072]
+## 10. Time for compliance with request for information[^c-05915fd16cbfe212ca9534c75f5fc072]
 
 (1) Subject to paragraph (2), where a request for information has been made to the responsible person by—
 
@@ -240,7 +240,7 @@ Articles 315C(4)(*a*) and (8) and 315F(6)(*a*) and (10) of the Insolvency (North
 
 [^f00003]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-06397a34705b0c5c6445c0c159a0df3c]: Commencement: Reg. 1 in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1)
+[^c-06397a34705b0c5c6445c0c159a0df3c]: Commencement: Reg. 1 in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1)
 
 [^f00004]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
@@ -256,7 +256,7 @@ Articles 315C(4)(*a*) and (8) and 315F(6)(*a*) and (10) of the Insolvency (North
 
 [^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-4cdb6708e34648571721ade53db6dbf4]: Commencement: Reg. 2 in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1)
+[^c-4cdb6708e34648571721ade53db6dbf4]: Commencement: Reg. 2 in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1)
 
 [^f00011]: Footnote: S.I. [1976/2151](https://www.legislation.gov.uk/uksi/1976/2151); Article 17A was inserted by Article I of the Protocol set out in the Schedule to S.I. [1995/764](https://www.legislation.gov.uk/uksi/1995/764)
 
@@ -278,26 +278,26 @@ Articles 315C(4)(*a*) and (8) and 315F(6)(*a*) and (10) of the Insolvency (North
 
 [^f00020]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
-[^key-50fd5867cf49216f8671a3fa5f9039dc]: Commencement: Reg. 3 in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1)
+[^c-50fd5867cf49216f8671a3fa5f9039dc]: Commencement: Reg. 3 in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1)
 
 [^f00021]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4)
 
-[^key-d4306cc7f5f4805a6efd68b590de3e50]: Commencement: Reg. 4 in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1)
+[^c-d4306cc7f5f4805a6efd68b590de3e50]: Commencement: Reg. 4 in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1)
 
-[^key-3b00e1a305959865d9d43a9d957aceb6]: Commencement: Reg. 5 in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1)
+[^c-3b00e1a305959865d9d43a9d957aceb6]: Commencement: Reg. 5 in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1)
 
-[^key-29bee62b5978738b01673aaf41b3d6ab]: Commencement: Reg. 6 in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1)
+[^c-29bee62b5978738b01673aaf41b3d6ab]: Commencement: Reg. 6 in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1)
 
-[^key-dba3f82499e3ee07c11714d16485e6fd]: Commencement: Reg. 7 in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1)
+[^c-dba3f82499e3ee07c11714d16485e6fd]: Commencement: Reg. 7 in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1)
 
 [^f00022]: Footnote: Article 315B was substituted by Article 15 of the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
 [^f00023]: Footnote: [S.R. 2000 No. 142](https://www.legislation.gov.uk/nisr/2000/142)
 
-[^key-d606c64c48715fa6d2d54496ffe39835]: Commencement: Reg. 8 in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1)
+[^c-d606c64c48715fa6d2d54496ffe39835]: Commencement: Reg. 8 in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1)
 
-[^key-e7933653185a1a5e5f9b826fb317744e]: Commencement: Reg. 9 in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1)
+[^c-e7933653185a1a5e5f9b826fb317744e]: Commencement: Reg. 9 in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1)
 
 [^f00024]: Footnote: [S.R. 2000 No. 146](https://www.legislation.gov.uk/nisr/2000/146); regulation 24(5) was amended by regulation 12(5) of [S.R. 2000 No. 335](https://www.legislation.gov.uk/nisr/2000/335)
 
-[^key-05915fd16cbfe212ca9534c75f5fc072]: Commencement: Reg. 10 in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1)
+[^c-05915fd16cbfe212ca9534c75f5fc072]: Commencement: Reg. 10 in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1)

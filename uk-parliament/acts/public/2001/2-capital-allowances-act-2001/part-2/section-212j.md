@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212J. Relevant excess of allowances[^key-298a75262b587039f349fdea6d235f62]
+## 212J. Relevant excess of allowances[^c-298a75262b587039f349fdea6d235f62]
 
 *Extent: E+W+S+N.I.*
 
-(1) C or P has a relevant excess of allowances in relation to the relevant activity[^key-ad3826b7c4d53387d2600cc2d31ad261] if—
+(1) C or P has a relevant excess of allowances in relation to the relevant activity[^c-ad3826b7c4d53387d2600cc2d31ad261] if—
 
 [formula: see source](https://www.legislation.gov.uk/ukpga/2001/2)
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-298a75262b587039f349fdea6d235f62]: Textual amendment: Pt. 2 Ch. 16A inserted (8.4.2010) (with effect in accordance with Sch. 4 para. 5, 6 to the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2010/13/schedule/4/paragraph/2)
+[^c-298a75262b587039f349fdea6d235f62]: Textual amendment: Pt. 2 Ch. 16A inserted (8.4.2010) (with effect in accordance with Sch. 4 para. 5, 6 to the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2010/13/schedule/4/paragraph/2)
 
-[^key-ad3826b7c4d53387d2600cc2d31ad261]: Textual amendment: Word in s. 212J(1) substituted (with effect in accordance with Sch. 26 para. 13 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 26 para. 8](https://www.legislation.gov.uk/ukpga/2013/29/schedule/26/paragraph/8)
+[^c-ad3826b7c4d53387d2600cc2d31ad261]: Textual amendment: Word in s. 212J(1) substituted (with effect in accordance with Sch. 26 para. 13 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 26 para. 8](https://www.legislation.gov.uk/ukpga/2013/29/schedule/26/paragraph/8)

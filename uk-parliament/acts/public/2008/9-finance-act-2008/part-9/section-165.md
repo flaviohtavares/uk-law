@@ -27,8 +27,8 @@ summary: ''
 - “**CAA 2001**” means the Capital Allowances Act 2001 (c. 2),
 - “**CEMA 1979**” means the Customs and Excise Management Act 1979 (c. 2),
 - “**CRCA 2005**” means the Commissioners for Revenue and Customs Act 2005 (c. 11),
-- “[^key-91be2cfba1dd19cf6a5a7cc0e0c7e927]**CTA 2009**” means the Corporation Tax Act 2009,
-- “[^key-926f5086a448efa7a87e896e404750aa]**CTA 2010**” means the Corporation Tax Act 2010,
+- “[^c-91be2cfba1dd19cf6a5a7cc0e0c7e927]**CTA 2009**” means the Corporation Tax Act 2009,
+- “[^c-926f5086a448efa7a87e896e404750aa]**CTA 2010**” means the Corporation Tax Act 2010,
 - “**CTTA 1984**” means the Capital Transfer Tax Act 1984 (c. 51),
 - “**HODA 1979**” means the Hydrocarbon Oil Duties Act 1979 (c. 5),
 - “**ICTA**” means the Income and Corporation Taxes Act 1988 (c. 1),
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-91be2cfba1dd19cf6a5a7cc0e0c7e927]: Textual amendment: Words in [s. 165(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/165/1) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 733](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/733) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-91be2cfba1dd19cf6a5a7cc0e0c7e927]: Textual amendment: Words in [s. 165(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/165/1) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 733](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/733) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-926f5086a448efa7a87e896e404750aa]: Textual amendment: Words in [s. 165(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/165/1) inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 579](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/579) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-926f5086a448efa7a87e896e404750aa]: Textual amendment: Words in [s. 165(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/165/1) inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 579](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/579) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

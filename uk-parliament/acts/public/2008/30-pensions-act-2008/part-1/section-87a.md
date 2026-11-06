@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87A. Power to create exceptions from the employer duties etc[^key-cef0f83fddaa7caf110c277622f39464]
+## 87A. Power to create exceptions from the employer duties etc[^c-cef0f83fddaa7caf110c277622f39464]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cef0f83fddaa7caf110c277622f39464]: Textual amendment: S. 87A and cross-heading inserted (11.9.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2014/19/section/38/2), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(c)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/c)
+[^c-cef0f83fddaa7caf110c277622f39464]: Textual amendment: S. 87A and cross-heading inserted (11.9.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2014/19/section/38/2), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(c)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/c)

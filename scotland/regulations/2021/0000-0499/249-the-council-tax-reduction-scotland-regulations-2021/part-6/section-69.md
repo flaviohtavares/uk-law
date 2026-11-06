@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Capital disregarded[^key-1cd2e675ddf63e90aa70444770626ce1]
+## 69. Capital disregarded[^c-1cd2e675ddf63e90aa70444770626ce1]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cd2e675ddf63e90aa70444770626ce1]: Commencement: [Reg. 69](https://www.legislation.gov.uk/ssi/2021/249/regulation/69) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-1cd2e675ddf63e90aa70444770626ce1]: Commencement: [Reg. 69](https://www.legislation.gov.uk/ssi/2021/249/regulation/69) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

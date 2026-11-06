@@ -24,23 +24,23 @@ summary: ''
 
 ### Quorum
 
-**1.**[^key-2328061300da5a1b99e3f9f68e3c8074] The quorum of a public services board meeting is all of its members.
+**1.**[^c-2328061300da5a1b99e3f9f68e3c8074] The quorum of a public services board meeting is all of its members.
 
 ### First meeting
 
-**2.**[^key-7008ff4ec5a851524907d2c0d660e625] (1) A public services board must hold a meeting no later than 60 days after the date on which the board is established.
+**2.**[^c-7008ff4ec5a851524907d2c0d660e625] (1) A public services board must hold a meeting no later than 60 days after the date on which the board is established.
 
 (2) The local authority must chair the first meeting of a board.
 
 ### Mandatory meetings
 
-**3.**[^key-c1d2c13755d7aae9a3cca6c79cddef21] (1) A public services board must hold a meeting no later than 60 days after the date of each ordinary election held under section 26 of the Local Government Act 1972 (c.70) (election of councillors).
+**3.**[^c-c1d2c13755d7aae9a3cca6c79cddef21] (1) A public services board must hold a meeting no later than 60 days after the date of each ordinary election held under section 26 of the Local Government Act 1972 (c.70) (election of councillors).
 
 (2) The local authority must chair a meeting held under sub-paragraph (1).
 
 ### Terms of reference
 
-**4.**[^key-5856d7b94109e89faba267ccbf11cf74] (1) At the first meeting, a public services board must agree its terms of reference.
+**4.**[^c-5856d7b94109e89faba267ccbf11cf74] (1) At the first meeting, a public services board must agree its terms of reference.
 
 (2) The terms of reference must include—
 
@@ -62,11 +62,11 @@ summary: ''
 
 ### Administrative support
 
-**5.**[^key-aa373af8cfee59434f11daee97d492f0] The local authority must make administrative support available to the public services board.
+**5.**[^c-aa373af8cfee59434f11daee97d492f0] The local authority must make administrative support available to the public services board.
 
 ### Sub-groups and delegation
 
-**6.**[^key-bc54b576ef61475c8a857e3e887ff8dd] (1) A sub-group of a public services board—
+**6.**[^c-bc54b576ef61475c8a857e3e887ff8dd] (1) A sub-group of a public services board—
 
 - (a) must include at least one member of the board, and
 - (b) may include any invited participant or other partner.
@@ -82,15 +82,15 @@ summary: ''
 - (e) to prepare or publish a local well-being plan;
 - (f) to consult under section 43 or to prepare a draft of a local well-being plan for the purposes of consulting;
 - (g) to review or amend a local well-being plan or to publish an amended local well-being plan;
-- (h) to consult under section 44 or 47[^key-9cdfb9d0b731dbb647a56fc22a9ac156];
+- (h) to consult under section 44 or 47[^c-9cdfb9d0b731dbb647a56fc22a9ac156];
 - (i) to agree that the board—
   - (i) merges with another public services board under section 47(1),
-  - (ia)[^key-250e38a3d2bbad81c7c21c98f4a2fd70] if the board is a merged board under section 47, demerges or partially demerges under section 47(7), or
+  - (ia)[^c-250e38a3d2bbad81c7c21c98f4a2fd70] if the board is a merged board under section 47, demerges or partially demerges under section 47(7), or
   - (ii) collaborates with another board under section 48(1).
 
 ### Representation at meetings
 
-**7.**[^key-34e5dbf9378b4f8a58c5913e91d6ea3e] (1) Each member of a public services board must be represented at a meeting by—
+**7.**[^c-34e5dbf9378b4f8a58c5913e91d6ea3e] (1) Each member of a public services board must be represented at a meeting by—
 
 - (a) the individual specified in relation to that member in the following Table, or
 - (b) such other individual as the individual referred to in paragraph (a) designates (but an elected mayor or executive leader of a local authority may only designate another member of the authority's executive).
@@ -99,7 +99,7 @@ TABLE 2
 
 | **Member** | **Representative** |
 | --- | --- |
-| Local authority | The elected mayor of the authority or the councillor elected as executive leader of the authority, and the authority's chief executive appointed under section 54 of the Local Government and Elections (Wales) Act 2021[^key-0bdce4c54402138e445819de70d9dd87]. |
+| Local authority | The elected mayor of the authority or the councillor elected as executive leader of the authority, and the authority's chief executive appointed under section 54 of the Local Government and Elections (Wales) Act 2021[^c-0bdce4c54402138e445819de70d9dd87]. |
 | Local Health Board | Whichever of the following the board designates—<br>- (a) the chairman;<br>- (b) the chief officer;<br>- (c) both. |
 | Welsh fire and rescue authority | Whichever of the following the authority designates—<br>- (a) the chairman;<br>- (b) the chief officer;<br>- (c) both. |
 | The Natural Resources Body for Wales | The chief executive |
@@ -114,22 +114,22 @@ TABLE 2
 
 ## Annotations
 
-[^key-2328061300da5a1b99e3f9f68e3c8074]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/anaw/2015/2/schedule/3/paragraph/1) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-2328061300da5a1b99e3f9f68e3c8074]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/anaw/2015/2/schedule/3/paragraph/1) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
 
-[^key-7008ff4ec5a851524907d2c0d660e625]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2015/2/schedule/3/paragraph/2) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-7008ff4ec5a851524907d2c0d660e625]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2015/2/schedule/3/paragraph/2) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
 
-[^key-c1d2c13755d7aae9a3cca6c79cddef21]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2015/2/schedule/3/paragraph/3) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-c1d2c13755d7aae9a3cca6c79cddef21]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2015/2/schedule/3/paragraph/3) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
 
-[^key-5856d7b94109e89faba267ccbf11cf74]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/anaw/2015/2/schedule/3/paragraph/4) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-5856d7b94109e89faba267ccbf11cf74]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/anaw/2015/2/schedule/3/paragraph/4) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
 
-[^key-aa373af8cfee59434f11daee97d492f0]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/anaw/2015/2/schedule/3/paragraph/5) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-aa373af8cfee59434f11daee97d492f0]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/anaw/2015/2/schedule/3/paragraph/5) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
 
-[^key-bc54b576ef61475c8a857e3e887ff8dd]: Commencement: Sch. 3 para. 6 in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-bc54b576ef61475c8a857e3e887ff8dd]: Commencement: Sch. 3 para. 6 in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
 
-[^key-9cdfb9d0b731dbb647a56fc22a9ac156]: Textual amendment: Words in Sch. 3 para. 6(3)(h) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 1(8)(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/1/8/a)
+[^c-9cdfb9d0b731dbb647a56fc22a9ac156]: Textual amendment: Words in Sch. 3 para. 6(3)(h) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 1(8)(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/1/8/a)
 
-[^key-250e38a3d2bbad81c7c21c98f4a2fd70]: Textual amendment: Sch. 3 para. 6(3)(ia) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 1(8)(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/1/8/b)
+[^c-250e38a3d2bbad81c7c21c98f4a2fd70]: Textual amendment: Sch. 3 para. 6(3)(ia) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 1(8)(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/1/8/b)
 
-[^key-34e5dbf9378b4f8a58c5913e91d6ea3e]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/anaw/2015/2/schedule/3/paragraph/7) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-34e5dbf9378b4f8a58c5913e91d6ea3e]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/anaw/2015/2/schedule/3/paragraph/7) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
 
-[^key-0bdce4c54402138e445819de70d9dd87]: Textual amendment: Words in [Sch. 3 para. 7](https://www.legislation.gov.uk/anaw/2015/2/schedule/3/paragraph/7) substituted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 5 para. 19](https://www.legislation.gov.uk/asc/2021/1/schedule/5/paragraph/19); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(s)](https://www.legislation.gov.uk/wsi/2021/231/article/6/s)
+[^c-0bdce4c54402138e445819de70d9dd87]: Textual amendment: Words in [Sch. 3 para. 7](https://www.legislation.gov.uk/anaw/2015/2/schedule/3/paragraph/7) substituted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 5 para. 19](https://www.legislation.gov.uk/asc/2021/1/schedule/5/paragraph/19); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(s)](https://www.legislation.gov.uk/wsi/2021/231/article/6/s)

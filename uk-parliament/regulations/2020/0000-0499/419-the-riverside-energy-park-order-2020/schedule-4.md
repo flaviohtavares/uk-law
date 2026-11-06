@@ -22,7 +22,7 @@ summary: ''
 
 Articles 12 and 15
 
-### PART 1 — PERMANENT ALTERATION OF LAYOUT[^key-21d1dfa4075c5a2ecd146a990af1a939]
+### PART 1 — PERMANENT ALTERATION OF LAYOUT[^c-21d1dfa4075c5a2ecd146a990af1a939]
 
 | *(1)* *Area* | *(2)* *Street subject to alteration of layout* | *(3)* *Description of alteration* |
 | --- | --- | --- |
@@ -31,7 +31,7 @@ Articles 12 and 15
 | In the London Borough of Bexley | Norman Road | Works to alter an existing access (works forming part of Work No. 8) on the western side of Norman Road between the points marked BO and BP on sheet 3 of the access and public rights of way plan |
 | In the London Borough of Bexley | Norman Road | Works to alter an existing access (works forming part of Work No. 8) on the western side of Norman Road between the points marked BQ and BR on sheet 3 of the access and public rights of way plan |
 
-### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^key-1173ef46d0f6ad56b17b3e8846c5a97d]
+### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^c-1173ef46d0f6ad56b17b3e8846c5a97d]
 
 | *(1)* *Area* | *(2)* *Street subject to alteration of layout* | *(3)* *Description of alteration* |
 | --- | --- | --- |
@@ -64,6 +64,6 @@ Articles 12 and 15
 
 ## Annotations
 
-[^key-21d1dfa4075c5a2ecd146a990af1a939]: Commencement: Sch. 4 Pt. 1 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-21d1dfa4075c5a2ecd146a990af1a939]: Commencement: Sch. 4 Pt. 1 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-1173ef46d0f6ad56b17b3e8846c5a97d]: Commencement: Sch. 4 Pt. 2 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-1173ef46d0f6ad56b17b3e8846c5a97d]: Commencement: Sch. 4 Pt. 2 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. NHS Bodies: evidence and Tribunal recommendations[^key-600996ae4363ab2fb4c7daac96768f9c][^key-c64009d0d81c0a8a46d082c95e7a6cb4]
+## 76. NHS Bodies: evidence and Tribunal recommendations[^c-600996ae4363ab2fb4c7daac96768f9c][^c-c64009d0d81c0a8a46d082c95e7a6cb4]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-600996ae4363ab2fb4c7daac96768f9c]: Commencement: S. 76 in force at 2.11.2020 for specified purposes by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 3(1)(i)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/3/1/i)
+[^c-600996ae4363ab2fb4c7daac96768f9c]: Commencement: S. 76 in force at 2.11.2020 for specified purposes by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 3(1)(i)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/3/1/i)
 
-[^key-c64009d0d81c0a8a46d082c95e7a6cb4]: Commencement: S. 76 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(g)](https://www.legislation.gov.uk/wsi/2021/373/article/8/g)
+[^c-c64009d0d81c0a8a46d082c95e7a6cb4]: Commencement: S. 76 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(g)](https://www.legislation.gov.uk/wsi/2021/373/article/8/g)

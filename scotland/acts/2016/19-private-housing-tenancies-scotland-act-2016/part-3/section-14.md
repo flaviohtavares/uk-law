@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Application to First-tier Tribunal to draw up terms[^key-921506e0e09739032e4aae464bf28291]
+## 14. Application to First-tier Tribunal to draw up terms[^c-921506e0e09739032e4aae464bf28291]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-921506e0e09739032e4aae464bf28291]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2016/19/section/14) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-921506e0e09739032e4aae464bf28291]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2016/19/section/14) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

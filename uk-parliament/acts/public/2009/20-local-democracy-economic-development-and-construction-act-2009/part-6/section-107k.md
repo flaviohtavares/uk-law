@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107K. Power to amend list of alternative titles[^key-dd411134d8d56561937a712bb7333e64]
+## 107K. Power to amend list of alternative titles[^c-dd411134d8d56561937a712bb7333e64]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd411134d8d56561937a712bb7333e64]: Textual amendment: Ss. 107H-107K inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 76](https://www.legislation.gov.uk/ukpga/2023/55/section/76), [255(2)(n)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/n) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-dd411134d8d56561937a712bb7333e64]: Textual amendment: Ss. 107H-107K inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 76](https://www.legislation.gov.uk/ukpga/2023/55/section/76), [255(2)(n)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/n) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

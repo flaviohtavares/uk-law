@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15.4. Lodging of motions[^key-05afede6efd102c6c38c89725f057c16]
+## 15.4. Lodging of motions[^c-05afede6efd102c6c38c89725f057c16]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05afede6efd102c6c38c89725f057c16]: Commencement: Para. 15.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-05afede6efd102c6c38c89725f057c16]: Commencement: Para. 15.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

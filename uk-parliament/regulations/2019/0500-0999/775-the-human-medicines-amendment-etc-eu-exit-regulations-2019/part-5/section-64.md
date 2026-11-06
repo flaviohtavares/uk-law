@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Insertion of provisions concerning consideration of certain applications for UK marketing authorisations[^key-703436d7c7788524bcc924572762edfa]
+## 64. Insertion of provisions concerning consideration of certain applications for UK marketing authorisations[^c-703436d7c7788524bcc924572762edfa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ After regulation 58, insert—
 
 > **58A. Paediatric rewards**
 >
-> (1)[^key-61d58d31136eacc03da6cef0ce95210d] Paragraph (2) applies if—
+> (1)[^c-61d58d31136eacc03da6cef0ce95210d] Paragraph (2) applies if—
 >
 > - (a) an application—
 >   - (i) to which regulation 50A (requirement for certain applications to include the results of a paediatric investigation plan) applies, and in relation to which there is an agreed paediatric investigation plan; or
@@ -42,7 +42,7 @@ After regulation 58, insert—
 > - (a) include in the UK marketing authorisation a statement to the effect that it is satisfied as set out in paragraph (1)(b); and
 > - (b) ensure that the results of all studies referred to in the paediatric investigation plan are included in the summary of product characteristics and, if the licensing authority considers that the information would be useful to patients, in the package leaflet.
 >
-> (3)[^key-41fa3f3df03c5b3a8cea73f45657269f] Where—
+> (3)[^c-41fa3f3df03c5b3a8cea73f45657269f] Where—
 >
 > - (a) paragraph (2) applies; or
 > - (b) an application to which Article 7 or 8 of the Paediatric Regulation applies—
@@ -54,9 +54,9 @@ After regulation 58, insert—
 > (4) Paragraph (3) does not apply if the grant of the application referred to in paragraph (1)(a)—
 >
 > - (a) relates to a new paediatric indication; and
-> - (b)[^key-c26bf59de040e8fab65dbcd4df1e1ce5] the holder of the UK marketing authorisation is entitled to a one year extension of the ten year period referred to in regulation 51A(6), under regulation 51A(12).
+> - (b)[^c-c26bf59de040e8fab65dbcd4df1e1ce5] the holder of the UK marketing authorisation is entitled to a one year extension of the ten year period referred to in regulation 51A(6), under regulation 51A(12).
 >
-> (4A)[^key-86c68ee3e1034a2e03a5c60f151f38ee] Paragraph (3) does not apply where—
+> (4A)[^c-86c68ee3e1034a2e03a5c60f151f38ee] Paragraph (3) does not apply where—
 >
 > - (a) the territorial protection conferred by the supplementary protection certificate referred to in paragraph (3) does not cover the whole of the United Kingdom; and
 > - (b) the UK marketing authorisation in which the statement of compliance is included is not in force in the same part of the United Kingdom as the supplementary protection certificate.
@@ -74,13 +74,13 @@ After regulation 58, insert—
 >
 > (7) Where this paragraph applies, the medicinal product to which the paediatric use marketing authorisation relates may retain the name of any medicinal product which contains the same active substance and in respect of which the holder of the paediatric use marketing authorisation has been granted a UK marketing authorisation for use in adults.
 >
-> (8) Where this paragraph applies, the holder of the paediatric use marketing authorisation is entitled to benefit from the periods of data and marketing exclusivity referred to in regulation 51A(1) and (6)[^key-30b08eb8e40e8511a3e006e7f6fa2836] in relation to the material supplied pursuant to regulation 50E(2).
+> (8) Where this paragraph applies, the holder of the paediatric use marketing authorisation is entitled to benefit from the periods of data and marketing exclusivity referred to in regulation 51A(1) and (6)[^c-30b08eb8e40e8511a3e006e7f6fa2836] in relation to the material supplied pursuant to regulation 50E(2).
 >
 > **58B. Publication of information relating to paediatric marketing authorisations**
 >
 > (1) The licensing authority must publish a register of UK marketing authorisations—
 >
-> - (a) which include a paediatric indication following completion of an agreed paediatric investigation plan[^key-3fd69f78748156c7f48f2f38d31330b2]; and
+> - (a) which include a paediatric indication following completion of an agreed paediatric investigation plan[^c-3fd69f78748156c7f48f2f38d31330b2]; and
 > - (b) in relation to which the medicinal product was placed on the market for other indications before the holder obtained that paediatric indication.
 >
 > (2) The register referred to in paragraph (1) must include the date by which the product must be placed on the market taking account of the paediatric indication in accordance with regulation 78A(4) (post-authorisation requirements in relation to UK marketing authorisations to which paediatric specific provisions apply).
@@ -100,7 +100,7 @@ After regulation 58, insert—
 >
 > **58C. Consideration of applications relating to orphan medicinal products**
 >
-> (1) If the licensing authority is satisfied in relation to an application for a UK marketing authorisation (including an application under the unfettered access route)[^key-b1414fd5e73c665c9bdf889285bc8b72]—
+> (1) If the licensing authority is satisfied in relation to an application for a UK marketing authorisation (including an application under the unfettered access route)[^c-b1414fd5e73c665c9bdf889285bc8b72]—
 >
 > - (a) the orphan criteria are met in relation to all of the therapeutic indications to which the application relates; and
 > - (b) it is otherwise appropriate to grant a UK marketing authorisation in respect of the application under regulation 49(1)(a),
@@ -120,9 +120,9 @@ After regulation 58, insert—
 >
 > in relation to a medicinal product which is similar to the medicinal product to which the orphan marketing authorisation relates and in respect of the therapeutic indications which are covered by the orphan marketing authorisation.
 >
-> (2)[^key-02cbaf76bc67d9966b404b0894276e0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (2)[^c-02cbaf76bc67d9966b404b0894276e0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (3)[^key-02cbaf76bc67d9966b404b0894276e0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (3)[^c-02cbaf76bc67d9966b404b0894276e0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > (4) The period of ten years referred to in paragraph (1) may be reduced to six years if, at the end of the fifth year beginning on the date referred to in paragraph (1), the licensing authority is satisfied that the orphan criteria are no longer met in relation to the medicinal product.
 >
@@ -152,7 +152,7 @@ After regulation 58, insert—
 > (1) If the licensing authority is satisfied in relation to an application to which regulation 50I (applications relating to conditional marketing authorisations) applies that—
 >
 > - (a) the criteria in regulation 50I(3)(b) are met; and
-> - (b) it is otherwise appropriate to grant a UKMA(GB)[^key-331e6261dde90836643f2a857ed8ee42] in respect of the application in accordance with regulation 49(1)(a),
+> - (b) it is otherwise appropriate to grant a UKMA(GB)[^c-331e6261dde90836643f2a857ed8ee42] in respect of the application in accordance with regulation 49(1)(a),
 >
 > it may grant a UK marketing authorisation which is known as a conditional marketing authorisation.
 >
@@ -174,24 +174,24 @@ After regulation 58, insert—
 
 ## Annotations
 
-[^key-703436d7c7788524bcc924572762edfa]: Commencement: Reg. 64 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-703436d7c7788524bcc924572762edfa]: Commencement: Reg. 64 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-61d58d31136eacc03da6cef0ce95210d]: Textual amendment: Words in reg. 64 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 47(a)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/47/a/i)
+[^c-61d58d31136eacc03da6cef0ce95210d]: Textual amendment: Words in reg. 64 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 47(a)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/47/a/i)
 
-[^key-41fa3f3df03c5b3a8cea73f45657269f]: Textual amendment: Words in reg. 64 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 47(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/47/a/ii)
+[^c-41fa3f3df03c5b3a8cea73f45657269f]: Textual amendment: Words in reg. 64 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 47(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/47/a/ii)
 
-[^key-c26bf59de040e8fab65dbcd4df1e1ce5]: Textual amendment: Words in reg. 64 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 47(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/47/a/iii)
+[^c-c26bf59de040e8fab65dbcd4df1e1ce5]: Textual amendment: Words in reg. 64 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 47(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/47/a/iii)
 
-[^key-86c68ee3e1034a2e03a5c60f151f38ee]: Textual amendment: Words in reg. 64 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 47(a)(iv)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/47/a/iv)
+[^c-86c68ee3e1034a2e03a5c60f151f38ee]: Textual amendment: Words in reg. 64 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 47(a)(iv)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/47/a/iv)
 
-[^key-30b08eb8e40e8511a3e006e7f6fa2836]: Textual amendment: Words in reg. 64 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 47(a)(v)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/47/a/v)
+[^c-30b08eb8e40e8511a3e006e7f6fa2836]: Textual amendment: Words in reg. 64 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 47(a)(v)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/47/a/v)
 
-[^key-3fd69f78748156c7f48f2f38d31330b2]: Textual amendment: Words in reg. 64 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 47(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/47/b)
+[^c-3fd69f78748156c7f48f2f38d31330b2]: Textual amendment: Words in reg. 64 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 47(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/47/b)
 
-[^key-b1414fd5e73c665c9bdf889285bc8b72]: Textual amendment: Words in reg. 64 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 47(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/47/c)
+[^c-b1414fd5e73c665c9bdf889285bc8b72]: Textual amendment: Words in reg. 64 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 47(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/47/c)
 
-[^key-02cbaf76bc67d9966b404b0894276e0f]: Textual amendment: Words in reg. 64 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 47(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/47/d)
+[^c-02cbaf76bc67d9966b404b0894276e0f]: Textual amendment: Words in reg. 64 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 47(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/47/d)
 
 [^c23884851]: Marginal citation: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618), as amended by the Medical Devices (Amendment etc.) (EU Exit) Regulations 2019.
 
-[^key-331e6261dde90836643f2a857ed8ee42]: Textual amendment: Word in reg. 64 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 47(e)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/47/e)
+[^c-331e6261dde90836643f2a857ed8ee42]: Textual amendment: Word in reg. 64 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 47(e)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/47/e)

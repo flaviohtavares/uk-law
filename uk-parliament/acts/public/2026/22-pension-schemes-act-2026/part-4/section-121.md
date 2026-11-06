@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Alienation or forfeiture of occupational pension[^key-3ec92405e173179b05ef466ac547ff22]
+## 121. Alienation or forfeiture of occupational pension[^c-3ec92405e173179b05ef466ac547ff22]
 
 *Extent: E+W+S*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ec92405e173179b05ef466ac547ff22]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2026/22/section/121) in force at 29.6.2026, see [s. 133(11)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/a)
+[^c-3ec92405e173179b05ef466ac547ff22]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2026/22/section/121) in force at 29.6.2026, see [s. 133(11)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Reducing social housing regulation[^key-d84c762ef2c5985e33922d614f7573c5]
+## 92. Reducing social housing regulation[^c-d84c762ef2c5985e33922d614f7573c5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 4 contains amendments to reduce the regulation of social housing.
 
 ## Annotations
 
-[^key-d84c762ef2c5985e33922d614f7573c5]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2016/22/section/92) in force at 6.4.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2017/75/regulation/6))
+[^c-d84c762ef2c5985e33922d614f7573c5]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2016/22/section/92) in force at 6.4.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2017/75/regulation/6))

@@ -35,54 +35,54 @@ An Act to make provision as to the law applicable to contractual obligations in 
 
 [^c10474181]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Meaning of “the Rome Convention”[^c10474251][^key-03cf3394e105229107462e88236b85c7]
+## 1. Meaning of “the Rome Convention”[^c10474251][^c-03cf3394e105229107462e88236b85c7]
 
 In this Act, a reference to the Rome Convention is a reference to the provisions contained in Schedule 1 (which is derived from the Convention on the law applicable to contractual obligations opened for signature in Rome on 19th June 1980).
 
-## 2. Application of the Rome Convention[^c10474511][^key-7e68a331c82c772be91ce42b2f22cefa]
+## 2. Application of the Rome Convention[^c10474511][^c-7e68a331c82c772be91ce42b2f22cefa]
 
-(1)[^key-347dd30c24ff90732d7dc06b41cb0362][^key-17e4771f04b50f77c06df3668cff5e4a] The Rome Convention applies to contracts made on or after 1st April 1991.
+(1)[^c-347dd30c24ff90732d7dc06b41cb0362][^c-17e4771f04b50f77c06df3668cff5e4a] The Rome Convention applies to contracts made on or after 1st April 1991.
 
-(1A)[^key-8c862622fcd72f7ec1990d94558e7664] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-8c862622fcd72f7ec1990d94558e7664] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-511d28a1fc203b1acf470c40ebbc78cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-511d28a1fc203b1acf470c40ebbc78cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The Rome Convention[^key-4e57ad97ba20bf83efdb9853d7d9040e] shall apply in the case of conflicts between the laws of different parts of the United Kingdom.
+(3) The Rome Convention[^c-4e57ad97ba20bf83efdb9853d7d9040e] shall apply in the case of conflicts between the laws of different parts of the United Kingdom.
 
-(4)[^key-ffa78cf61edc76d7660c508ce8d3c481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ffa78cf61edc76d7660c508ce8d3c481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation of the Rome Convention.[^c10474581][^key-374bae436c7d17544a9dbfeb0b16219b]
+## 3. Interpretation of the Rome Convention.[^c10474581][^c-374bae436c7d17544a9dbfeb0b16219b]
 
-(1)[^key-1332f6bbb2c280299d31555b1b7c14ac][^key-2ab2291676e0c6ca76f07a997258b74c] Any question as to the meaning or effect of any provision of the Rome Convention is to be decided in accordance with section 6 of the European Union (Withdrawal) Act 2018 (interpretation of assimilated[^key-57fbf9168e0d005f11ac85be60bdfe82] law).
+(1)[^c-1332f6bbb2c280299d31555b1b7c14ac][^c-2ab2291676e0c6ca76f07a997258b74c] Any question as to the meaning or effect of any provision of the Rome Convention is to be decided in accordance with section 6 of the European Union (Withdrawal) Act 2018 (interpretation of assimilated[^c-57fbf9168e0d005f11ac85be60bdfe82] law).
 
-(2)[^key-deb24c1333a94b2e1a71837b459b518a][^key-1332f6bbb2c280299d31555b1b7c14ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-deb24c1333a94b2e1a71837b459b518a][^c-1332f6bbb2c280299d31555b1b7c14ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Without prejudice to any practice of the courts as to the matters which may be considered apart from this subsection—
 
-- (a) the report on the Convention on the law applicable to contractual obligations[^key-3def1310f4c4f7a4bd0f5a4b5a860189] by Professor Mario Giuliano and Professor Paul Lagarde which is reproduced in the Official Journal of the [^c10474591]Communities of 31st October 1980 may be considered in ascertaining the meaning or effect of any provision of the Rome Convention[^key-edbf3d0b3a815610d9f5fbc7d5b27115]; [^key-fb7c7b4e10b2b115d50695101cdf69b7]...
-- (b)[^key-fb7c7b4e10b2b115d50695101cdf69b7][^key-1332f6bbb2c280299d31555b1b7c14ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the report on the Convention on the law applicable to contractual obligations[^c-3def1310f4c4f7a4bd0f5a4b5a860189] by Professor Mario Giuliano and Professor Paul Lagarde which is reproduced in the Official Journal of the [^c10474591]Communities of 31st October 1980 may be considered in ascertaining the meaning or effect of any provision of the Rome Convention[^c-edbf3d0b3a815610d9f5fbc7d5b27115]; [^c-fb7c7b4e10b2b115d50695101cdf69b7]...
+- (b)[^c-fb7c7b4e10b2b115d50695101cdf69b7][^c-1332f6bbb2c280299d31555b1b7c14ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revision of Conventions etc.[^key-981b74f05b38354c4f9858175e9d3cfd]
+## 4. Revision of Conventions etc.[^c-981b74f05b38354c4f9858175e9d3cfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4A. Disapplication where the rules in the Rome I Regulations apply: England and Wales and Northern Ireland[^key-532df4a5ff59d279cfc7cc4bfaa81b1e]
+## 4A. Disapplication where the rules in the Rome I Regulations apply: England and Wales and Northern Ireland[^c-532df4a5ff59d279cfc7cc4bfaa81b1e]
 
 (1) Nothing in this Act applies to affect the determination of issues relating to contractual obligations which fall to be determined under the Rome I Regulation.
 
-(2)[^key-35137de54314fa87e700737236af9b1d] In this section “the Rome I Regulation” means Regulation [(EC) No. 593/2008](https://www.legislation.gov.uk/eur/2008/0593) of the European Parliament and of the Council on the law applicable to contractual obligations as that Regulation has effect as assimilated direct[^key-0ff81c96e0d393f02a098e48444d5f25] legislation (including that Regulation as applied by regulation 5 of the Law Applicable to Contractual Obligations (England and Wales and Northern Ireland) Regulations 2009), unless the issues are ones in respect of which Regulation [(EC) No. 593/2008](https://www.legislation.gov.uk/eur/2008/0593) has effect by virtue of Article 66 of the EU withdrawal agreement, in which case it means that Regulation as it has effect by virtue of that Article.
+(2)[^c-35137de54314fa87e700737236af9b1d] In this section “the Rome I Regulation” means Regulation [(EC) No. 593/2008](https://www.legislation.gov.uk/eur/2008/0593) of the European Parliament and of the Council on the law applicable to contractual obligations as that Regulation has effect as assimilated direct[^c-0ff81c96e0d393f02a098e48444d5f25] legislation (including that Regulation as applied by regulation 5 of the Law Applicable to Contractual Obligations (England and Wales and Northern Ireland) Regulations 2009), unless the issues are ones in respect of which Regulation [(EC) No. 593/2008](https://www.legislation.gov.uk/eur/2008/0593) has effect by virtue of Article 66 of the EU withdrawal agreement, in which case it means that Regulation as it has effect by virtue of that Article.
 
 (3) This section extends to England and Wales and Northern Ireland only.
 
-## 4B. Disapplication where the rules in the Rome I Regulation apply: Scotland[^key-fd11b6a7266ca955aaadaa74c1052ed7]
+## 4B. Disapplication where the rules in the Rome I Regulation apply: Scotland[^c-fd11b6a7266ca955aaadaa74c1052ed7]
 
 *Extent: S*
 
 (1) Nothing in this Act applies to affect the determination of issues relating to contractual obligations which fall to be determined by the Rome I Regulation.
 
-(2)[^key-309e70ad4385efb4c86b7c753c103a62] In this section—
+(2)[^c-309e70ad4385efb4c86b7c753c103a62] In this section—
 
-- “the Rome I Regulation” means Regulation [(EC) No. 593/2008](https://www.legislation.gov.uk/eur/2008/0593) of the European Parliament and of the Council on the law applicable to contractual obligations as that Regulation has effect as assimilated direct[^key-13866ed29a28b063e38ff3009e729c67] legislation (including that Regulation as applied by regulation 4 of the Law Applicable to Contractual Obligations (Scotland) Regulations 2009), unless the issues are ones in respect of which Regulation [(EC) No. 593/2008](https://www.legislation.gov.uk/eur/2008/0593) has effect by virtue of Article 66 of the EU withdrawal agreement, in which case it means that Regulation as it has effect by virtue of that Article.
+- “the Rome I Regulation” means Regulation [(EC) No. 593/2008](https://www.legislation.gov.uk/eur/2008/0593) of the European Parliament and of the Council on the law applicable to contractual obligations as that Regulation has effect as assimilated direct[^c-13866ed29a28b063e38ff3009e729c67] legislation (including that Regulation as applied by regulation 4 of the Law Applicable to Contractual Obligations (Scotland) Regulations 2009), unless the issues are ones in respect of which Regulation [(EC) No. 593/2008](https://www.legislation.gov.uk/eur/2008/0593) has effect by virtue of Article 66 of the EU withdrawal agreement, in which case it means that Regulation as it has effect by virtue of that Article.
 
 (3) This section extends to Scotland only.
 
@@ -100,11 +100,11 @@ This Act shall come into force on such day as the Lord Chancellor and the Lord A
 
 ## 8. Extent.[^c10474661]
 
-(1) Except as provided by virtue of section 4B(3), this[^key-6782d6b72a5f836c6c4c4b9f03033501] Act extends to Northern Ireland.
+(1) Except as provided by virtue of section 4B(3), this[^c-6782d6b72a5f836c6c4c4b9f03033501] Act extends to Northern Ireland.
 
-(2)[^key-e07917732949e737ded6869c8eeab3f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e07917732949e737ded6869c8eeab3f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c52ead6e71fb8799e929caa3e594ec62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c52ead6e71fb8799e929caa3e594ec62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 9. Short title.[^c10474681]
 
@@ -116,7 +116,7 @@ SCHEDULES
 
 Section 2.
 
-[^key-9dfc4ca65398fa39955e4bcf19c1e22d]...
+[^c-9dfc4ca65398fa39955e4bcf19c1e22d]...
 
 ### Title I — Scope of the Convention[^c10474701]
 
@@ -140,15 +140,15 @@ Section 2.
 - (g) the constitution of trusts and the relationship between settlors, trustees and beneficiaries;
 - (h) evidence and procedure, without prejudice to Article 14.
 
-**3.**[^c10474731] The rules of this Convention do not apply to contracts of insurance which cover risks situated in the territories of the United Kingdom or any Member State[^key-88d4008eacc9968783aa2c9f4a57896b] of the European Economic Community. [^key-68288ffd59213c1ca1aa9af846e29069]...
+**3.**[^c10474731] The rules of this Convention do not apply to contracts of insurance which cover risks situated in the territories of the United Kingdom or any Member State[^c-88d4008eacc9968783aa2c9f4a57896b] of the European Economic Community. [^c-68288ffd59213c1ca1aa9af846e29069]...
 
 **4.**[^c10474741] The preceding paragraph does not apply to contracts of re–insurance.
 
 #### Article 2
 
-#### Application of law of a country outside of the United Kingdom[^key-87ce116e3ee4f0a0ed67abf8aa4c3eb5]
+#### Application of law of a country outside of the United Kingdom[^c-87ce116e3ee4f0a0ed67abf8aa4c3eb5]
 
-[^c10474751]Any law specified by this Convention shall be applied whether or not it is the law of the United Kingdom or a part of the United Kingdom[^key-e5f00be294f6953fd8a9f42bf4c3e9d8].
+[^c10474751]Any law specified by this Convention shall be applied whether or not it is the law of the United Kingdom or a part of the United Kingdom[^c-e5f00be294f6953fd8a9f42bf4c3e9d8].
 
 ### Title II — Uniform Rules[^c10474761]
 
@@ -216,7 +216,7 @@ unless it appears from the circumstances as a whole that the contract is more cl
 
 #### Mandatory rules
 
-**1.**[^key-25216d09f34e10f5baa0349a803d2ee3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-25216d09f34e10f5baa0349a803d2ee3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.**[^c10474941] Nothing in this Convention shall restrict the application of the rules of the law of the forum in a situation where they are mandatory irrespective of the law otherwise applicable to the contract.
 
@@ -254,7 +254,7 @@ unless it appears from the circumstances as a whole that the contract is more cl
 - (b) performance;
 - (c) within the limits of the powers conferred on the court by its procedural law, the consequences of breach, including the assessment of damages in so far as it is governed by rules of law;
 - (d) the various ways of extinguishing obligations, and prescription and limitation of actions;
-- (e)[^key-f7660607e330e68a383c63f275974ecd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-f7660607e330e68a383c63f275974ecd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.**[^c10475041] In relation to the manner of performance and the steps to be taken in the event of defective performance regard shall be had to the law of the country in which performance takes place.
 
@@ -304,7 +304,7 @@ The application of a rule of the law of any country specified by this Convention
 
 ### No retrospective effect
 
-[^key-afbd3e68be042eda11b243992d2cff6e]...
+[^c-afbd3e68be042eda11b243992d2cff6e]...
 
 ### Article 18
 
@@ -318,43 +318,43 @@ The application of a rule of the law of any country specified by this Convention
 
 **1.**[^c10475161] Where a State comprises several territorial units each of which has its own rules of law in respect of contractual obligations, each territorial unit shall be considered as a country for the purposes of identifying the law applicable under this Convention.
 
-**2.**[^key-68fb15bc6961e28b65e48766bbaa6299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-68fb15bc6961e28b65e48766bbaa6299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Article 20
 
-### Precedence of assimilated law[^key-da4fb5936bb51286f4e9ff6afb1f7220]
+### Precedence of assimilated law[^c-da4fb5936bb51286f4e9ff6afb1f7220]
 
-[^c10475181]This Convention shall not affect the application of provisions which, in relation to particular matters, lay down choice of law rules relating to contractual obligations and which are contained in[^key-ab40409dcfbb3d5ca8a0e2f534ddb6dd] assimilated law.
+[^c10475181]This Convention shall not affect the application of provisions which, in relation to particular matters, lay down choice of law rules relating to contractual obligations and which are contained in[^c-ab40409dcfbb3d5ca8a0e2f534ddb6dd] assimilated law.
 
 ### Article 21
 
 ### Relationship with other conventions
 
-[^c10475191]This Convention shall not prejudice the application of international conventions to which the United Kingdom[^key-f024aef654dc991ab5d6835426a738ac] is, or becomes, a party.
+[^c10475191]This Convention shall not prejudice the application of international conventions to which the United Kingdom[^c-f024aef654dc991ab5d6835426a738ac] is, or becomes, a party.
 
 ### Article 22
 
 ### Reservations
 
-[^key-9b862d94b8221be3bf989f43acdee0b9]...
+[^c-9b862d94b8221be3bf989f43acdee0b9]...
 
 ### Title III — Final Provisions[^c10475241]
 
 #### Article 23
 
-[^key-9b862d94b8221be3bf989f43acdee0b9]...
+[^c-9b862d94b8221be3bf989f43acdee0b9]...
 
 #### Article 24
 
-[^key-9b862d94b8221be3bf989f43acdee0b9]...
+[^c-9b862d94b8221be3bf989f43acdee0b9]...
 
 #### Article 25
 
-[^key-9b862d94b8221be3bf989f43acdee0b9]...
+[^c-9b862d94b8221be3bf989f43acdee0b9]...
 
 #### Article 26
 
-[^key-9b862d94b8221be3bf989f43acdee0b9]...
+[^c-9b862d94b8221be3bf989f43acdee0b9]...
 
 #### Article 27
 
@@ -362,37 +362,37 @@ The application of a rule of the law of any country specified by this Convention
 
 #### Article 28
 
-[^key-9b862d94b8221be3bf989f43acdee0b9]...
+[^c-9b862d94b8221be3bf989f43acdee0b9]...
 
 #### Article 29
 
-[^key-9b862d94b8221be3bf989f43acdee0b9]...
+[^c-9b862d94b8221be3bf989f43acdee0b9]...
 
 #### Article 30
 
-[^key-9b862d94b8221be3bf989f43acdee0b9]...
+[^c-9b862d94b8221be3bf989f43acdee0b9]...
 
 #### Article 31
 
-[^key-9b862d94b8221be3bf989f43acdee0b9]...
+[^c-9b862d94b8221be3bf989f43acdee0b9]...
 
 #### Article 32
 
-[^key-9b862d94b8221be3bf989f43acdee0b9]...
+[^c-9b862d94b8221be3bf989f43acdee0b9]...
 
 #### Article 33
 
-[^key-9b862d94b8221be3bf989f43acdee0b9]...
+[^c-9b862d94b8221be3bf989f43acdee0b9]...
 
 #### PROTOCOL
 
-[^key-9b862d94b8221be3bf989f43acdee0b9]...
+[^c-9b862d94b8221be3bf989f43acdee0b9]...
 
 ## SCHEDULE 2 — The Luxembourg Convention[^c10475541]
 
 Section 2.
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 [^c10475551]
 
@@ -404,107 +404,107 @@ Section 2.
 
 [^c10475591]
 
-- [^key-50de75a890b84e3c8bf3154931ebfcea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-50de75a890b84e3c8bf3154931ebfcea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-50de75a890b84e3c8bf3154931ebfcea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-50de75a890b84e3c8bf3154931ebfcea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 [^c10475601]
 
 ## SCHEDULE 3 — The Brussels Protocol[^c10475611]
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### Article 1
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### Article 2
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
-- [^key-50de75a890b84e3c8bf3154931ebfcea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-50de75a890b84e3c8bf3154931ebfcea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-50de75a890b84e3c8bf3154931ebfcea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-50de75a890b84e3c8bf3154931ebfcea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Article 3
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### Article 4
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### Article 5
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### Article 6
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### Article 7
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### Article 8
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### Article 9
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### Article 10
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### Article 11
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ## SCHEDULE 3A — THE FUNCHAL CONVENTION
 
 Section 2
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### Article 1
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### Article 2
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### Article 3
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### Article 4
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### Article 5
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### Article 6
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### Article 7
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ## SCHEDULE 3B — THE 1996 ACCESSION CONVENTION
 
 Section 2
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### TITLE I — General Provisions
 
 #### ARTICLE I
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### TITLE II
 
@@ -512,35 +512,35 @@ Section 2
 
 #### ARTICLE 2
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### TITLE III — Adjustments to the First Protocol of 1988
 
 #### ARTICLE 3
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ### TITLE IV — Final Provisions
 
 #### ARTICLE 4
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 #### ARTICLE 5
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 #### ARTICLE 6
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 #### ARTICLE 7
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 #### ARTICLE 8
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]...
+[^c-50de75a890b84e3c8bf3154931ebfcea]...
 
 ## SCHEDULE 4 — Consequential Amendments[^c10476011]
 
@@ -550,7 +550,7 @@ Section 5.
 
 ### The Equal Pay Act (Northern Ireland) 1970 (c.32 (N.I.))
 
-**1.**[^c10476021] In Section 1(11) of the Equal Pay Act 1970 and *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-3c689c83c261cbc36c9357ffb1d0cc63] section 1(12) of the Equal Pay Act (Northern Ireland) 1970, for the words “proper law of” there shall be substituted the words “law applicable to”.
+**1.**[^c10476021] In Section 1(11) of the Equal Pay Act 1970 and *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-3c689c83c261cbc36c9357ffb1d0cc63] section 1(12) of the Equal Pay Act (Northern Ireland) 1970, for the words “proper law of” there shall be substituted the words “law applicable to”.
 
 ### The Consumer Credit Act 1974 (c.39)
 
@@ -570,7 +570,7 @@ Section 5.
 
 ### The Income and Corporation Taxes Act 1988 (c.1)
 
-**6.**[^key-11c21560827cfe0eb755de2da59dad50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-11c21560827cfe0eb755de2da59dad50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -580,57 +580,57 @@ Section 5.
 
 [^c10474251]: Commencement: S. 1 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
-[^key-03cf3394e105229107462e88236b85c7]: Textual amendment: S. 1 substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-03cf3394e105229107462e88236b85c7]: Textual amendment: S. 1 substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c10474511]: Commencement: S. 2 partly in force; s. 2(1) in force for certain purposes at 1.4.1991 and s. 2(2)-(4) fully in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
-[^key-7e68a331c82c772be91ce42b2f22cefa]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1990/36/section/2) heading substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7e68a331c82c772be91ce42b2f22cefa]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1990/36/section/2) heading substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-347dd30c24ff90732d7dc06b41cb0362]: Commencement: S. 2(1) in force at 1.3.2005 for specified purposes by [S.I. 2004/3448](https://www.legislation.gov.uk/uksi/2004/3448), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/3448/article/2/a)
+[^c-347dd30c24ff90732d7dc06b41cb0362]: Commencement: S. 2(1) in force at 1.3.2005 for specified purposes by [S.I. 2004/3448](https://www.legislation.gov.uk/uksi/2004/3448), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/3448/article/2/a)
 
-[^key-17e4771f04b50f77c06df3668cff5e4a]: Textual amendment: [S. 2(1)](https://www.legislation.gov.uk/ukpga/1990/36/section/2/1) substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-17e4771f04b50f77c06df3668cff5e4a]: Textual amendment: [S. 2(1)](https://www.legislation.gov.uk/ukpga/1990/36/section/2/1) substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8c862622fcd72f7ec1990d94558e7664]: Textual amendment: [S. 2(1A)](https://www.legislation.gov.uk/ukpga/1990/36/section/2/1A) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8c862622fcd72f7ec1990d94558e7664]: Textual amendment: [S. 2(1A)](https://www.legislation.gov.uk/ukpga/1990/36/section/2/1A) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-511d28a1fc203b1acf470c40ebbc78cb]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/1990/36/section/2/2) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-511d28a1fc203b1acf470c40ebbc78cb]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/1990/36/section/2/2) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4e57ad97ba20bf83efdb9853d7d9040e]: Textual amendment: Words in [s. 2(3)](https://www.legislation.gov.uk/ukpga/1990/36/section/2/3) substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(3)(d)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4e57ad97ba20bf83efdb9853d7d9040e]: Textual amendment: Words in [s. 2(3)](https://www.legislation.gov.uk/ukpga/1990/36/section/2/3) substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(3)(d)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ffa78cf61edc76d7660c508ce8d3c481]: Textual amendment: [S. 2(4)](https://www.legislation.gov.uk/ukpga/1990/36/section/2/4) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ffa78cf61edc76d7660c508ce8d3c481]: Textual amendment: [S. 2(4)](https://www.legislation.gov.uk/ukpga/1990/36/section/2/4) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c10474581]: Commencement: S. 3 partly in force; s. 3(a) in force 1.4.1991 by s. 7 and[S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
-[^key-374bae436c7d17544a9dbfeb0b16219b]: Textual amendment: Words in s. 3 heading substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-374bae436c7d17544a9dbfeb0b16219b]: Textual amendment: Words in s. 3 heading substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1332f6bbb2c280299d31555b1b7c14ac]: Commencement: S. 3(1)(2)(3)(b) in force at 1.3.2005 by [S.I. 2004/3448](https://www.legislation.gov.uk/uksi/2004/3448), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/3448/article/2/b)
+[^c-1332f6bbb2c280299d31555b1b7c14ac]: Commencement: S. 3(1)(2)(3)(b) in force at 1.3.2005 by [S.I. 2004/3448](https://www.legislation.gov.uk/uksi/2004/3448), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/3448/article/2/b)
 
-[^key-2ab2291676e0c6ca76f07a997258b74c]: Textual amendment: S. 3(1) substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2ab2291676e0c6ca76f07a997258b74c]: Textual amendment: S. 3(1) substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-57fbf9168e0d005f11ac85be60bdfe82]: Textual amendment: Word in [s. 3(1)](https://www.legislation.gov.uk/ukpga/1990/36/section/3/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 28(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/28/2)
+[^c-57fbf9168e0d005f11ac85be60bdfe82]: Textual amendment: Word in [s. 3(1)](https://www.legislation.gov.uk/ukpga/1990/36/section/3/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 28(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/28/2)
 
-[^key-deb24c1333a94b2e1a71837b459b518a]: Textual amendment: S. 3(2) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-deb24c1333a94b2e1a71837b459b518a]: Textual amendment: S. 3(2) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3def1310f4c4f7a4bd0f5a4b5a860189]: Textual amendment: Words in s. 3(3)(a) substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(4)(d)(i)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/4/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3def1310f4c4f7a4bd0f5a4b5a860189]: Textual amendment: Words in s. 3(3)(a) substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(4)(d)(i)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/4/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c10474591]: Marginal citation: O.J.1980 No.C282/1.
 
-[^key-edbf3d0b3a815610d9f5fbc7d5b27115]: Textual amendment: Words in s. 3(3)(a) substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/4/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-edbf3d0b3a815610d9f5fbc7d5b27115]: Textual amendment: Words in s. 3(3)(a) substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/4/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fb7c7b4e10b2b115d50695101cdf69b7]: Textual amendment: S. 3(3)(b) and word omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(4)(e)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/4/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb7c7b4e10b2b115d50695101cdf69b7]: Textual amendment: S. 3(3)(b) and word omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(4)(e)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/4/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-981b74f05b38354c4f9858175e9d3cfd]: Textual amendment: S. 4 omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-981b74f05b38354c4f9858175e9d3cfd]: Textual amendment: S. 4 omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-532df4a5ff59d279cfc7cc4bfaa81b1e]: Textual amendment: S. 4A inserted (E.W.N.I.) (17.12.2009) by [The Law Applicable to Contractual Obligations (England and Wales and Northern Ireland) Regulations 2009 (S.I. 2009/3064)](https://www.legislation.gov.uk/uksi/2009/3064), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3064/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/3064/regulation/2)
+[^c-532df4a5ff59d279cfc7cc4bfaa81b1e]: Textual amendment: S. 4A inserted (E.W.N.I.) (17.12.2009) by [The Law Applicable to Contractual Obligations (England and Wales and Northern Ireland) Regulations 2009 (S.I. 2009/3064)](https://www.legislation.gov.uk/uksi/2009/3064), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3064/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/3064/regulation/2)
 
-[^key-35137de54314fa87e700737236af9b1d]: Textual amendment: S. 4A(2) substituted (31.12.2020) by [S.I. 2019/834](https://www.legislation.gov.uk/uksi/2019/834), [reg. 3(6)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/6) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/4/a))
+[^c-35137de54314fa87e700737236af9b1d]: Textual amendment: S. 4A(2) substituted (31.12.2020) by [S.I. 2019/834](https://www.legislation.gov.uk/uksi/2019/834), [reg. 3(6)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/6) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/4/a))
 
-[^key-0ff81c96e0d393f02a098e48444d5f25]: Textual amendment: Words in [s. 4A(2)](https://www.legislation.gov.uk/ukpga/1990/36/section/4A/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 28(3)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/28/3/a)
+[^c-0ff81c96e0d393f02a098e48444d5f25]: Textual amendment: Words in [s. 4A(2)](https://www.legislation.gov.uk/ukpga/1990/36/section/4A/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 28(3)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/28/3/a)
 
-[^key-fd11b6a7266ca955aaadaa74c1052ed7]: Textual amendment: S. 4B inserted (S.) (17.12.2009) by [Law Applicable to Contractual Obligations (Scotland) Regulations 2009 (S.S.I. 2009/410)](https://www.legislation.gov.uk/ssi/2009/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/410/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2009/410/regulation/2/a)
+[^c-fd11b6a7266ca955aaadaa74c1052ed7]: Textual amendment: S. 4B inserted (S.) (17.12.2009) by [Law Applicable to Contractual Obligations (Scotland) Regulations 2009 (S.S.I. 2009/410)](https://www.legislation.gov.uk/ssi/2009/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/410/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2009/410/regulation/2/a)
 
-[^key-309e70ad4385efb4c86b7c753c103a62]: Textual amendment: S. 4B(2) substituted (31.12.2020) by [S.I. 2019/834](https://www.legislation.gov.uk/uksi/2019/834), [reg. 3(7)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/7) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/4/b))
+[^c-309e70ad4385efb4c86b7c753c103a62]: Textual amendment: S. 4B(2) substituted (31.12.2020) by [S.I. 2019/834](https://www.legislation.gov.uk/uksi/2019/834), [reg. 3(7)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/7) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/4/b))
 
-[^key-13866ed29a28b063e38ff3009e729c67]: Textual amendment: Words in [s. 4B(2)](https://www.legislation.gov.uk/ukpga/1990/36/section/4B/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 28(3)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/28/3/b)
+[^c-13866ed29a28b063e38ff3009e729c67]: Textual amendment: Words in [s. 4B(2)](https://www.legislation.gov.uk/ukpga/1990/36/section/4B/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 28(3)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/28/3/b)
 
 [^c10474621]: Commencement: S. 5 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
@@ -642,17 +642,17 @@ Section 5.
 
 [^c10474661]: Commencement: S. 8 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
-[^key-6782d6b72a5f836c6c4c4b9f03033501]: Textual amendment: Words in s. 8(1) substituted (S.) (17.12.2009) by [Law Applicable to Contractual Obligations (Scotland) Regulations 2009 (S.S.I. 2009/410)](https://www.legislation.gov.uk/ssi/2009/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/410/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2009/410/regulation/2/b)
+[^c-6782d6b72a5f836c6c4c4b9f03033501]: Textual amendment: Words in s. 8(1) substituted (S.) (17.12.2009) by [Law Applicable to Contractual Obligations (Scotland) Regulations 2009 (S.S.I. 2009/410)](https://www.legislation.gov.uk/ssi/2009/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/410/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2009/410/regulation/2/b)
 
-[^key-e07917732949e737ded6869c8eeab3f3]: Textual amendment: [S. 8(2)](https://www.legislation.gov.uk/ukpga/1990/36/section/8/2) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e07917732949e737ded6869c8eeab3f3]: Textual amendment: [S. 8(2)](https://www.legislation.gov.uk/ukpga/1990/36/section/8/2) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c52ead6e71fb8799e929caa3e594ec62]: Textual amendment: [S. 8(3)](https://www.legislation.gov.uk/ukpga/1990/36/section/8/3) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c52ead6e71fb8799e929caa3e594ec62]: Textual amendment: [S. 8(3)](https://www.legislation.gov.uk/ukpga/1990/36/section/8/3) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c10474681]: Commencement: S. 9 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
 [^c10474691]: Commencement: Schedule 1 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
-[^key-9dfc4ca65398fa39955e4bcf19c1e22d]: Textual amendment: Words in Sch. 1 omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(a)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9dfc4ca65398fa39955e4bcf19c1e22d]: Textual amendment: Words in Sch. 1 omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(a)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c10474701]: Commencement: Schedule 1 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
@@ -662,17 +662,17 @@ Section 5.
 
 [^c10474731]: Commencement: Schedule 1 wholly in force at 1.4.1991 see s. 7 and [S.I.1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
-[^key-88d4008eacc9968783aa2c9f4a57896b]: Textual amendment: Words in Sch. 1 Art. 1(3) substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(b)(i)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-88d4008eacc9968783aa2c9f4a57896b]: Textual amendment: Words in Sch. 1 Art. 1(3) substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(b)(i)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-68288ffd59213c1ca1aa9af846e29069]: Textual amendment: Words in Sch. 1 Art. 1(3) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-68288ffd59213c1ca1aa9af846e29069]: Textual amendment: Words in Sch. 1 Art. 1(3) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c10474741]: Commencement: Schedule 1 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
-[^key-87ce116e3ee4f0a0ed67abf8aa4c3eb5]: Textual amendment: Sch. 1 Art. 2 heading substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(c)(i)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-87ce116e3ee4f0a0ed67abf8aa4c3eb5]: Textual amendment: Sch. 1 Art. 2 heading substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(c)(i)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c10474751]: Commencement: Schedule 1 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
-[^key-e5f00be294f6953fd8a9f42bf4c3e9d8]: Textual amendment: Words in Sch. 1 Art. 2 substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e5f00be294f6953fd8a9f42bf4c3e9d8]: Textual amendment: Words in Sch. 1 Art. 2 substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c10474761]: Commencement: Schedule 1 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
@@ -708,7 +708,7 @@ Section 5.
 
 [^c10474921]: Commencement: Schedule 1 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
-[^key-25216d09f34e10f5baa0349a803d2ee3]: Textual amendment: Sch. 1 Art. 7(1) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(d)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-25216d09f34e10f5baa0349a803d2ee3]: Textual amendment: Sch. 1 Art. 7(1) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(d)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c10474941]: Commencement: Schedule 1 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
@@ -730,7 +730,7 @@ Section 5.
 
 [^c10475031]: Commencement: Schedule 1 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
-[^key-f7660607e330e68a383c63f275974ecd]: Textual amendment: Sch. 1 Art. 10(1)(e) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(e)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7660607e330e68a383c63f275974ecd]: Textual amendment: Sch. 1 Art. 10(1)(e) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(e)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c10475041]: Commencement: Schedule 1 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
@@ -752,25 +752,25 @@ Section 5.
 
 [^c10475131]: Commencement: Schedule 1 wholly in force at 1. 4. 1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
-[^key-afbd3e68be042eda11b243992d2cff6e]: Textual amendment: Sch. 1 Art. 17 omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(f)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-afbd3e68be042eda11b243992d2cff6e]: Textual amendment: Sch. 1 Art. 17 omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(f)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c10475151]: Commencement: Schedule 1 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
 [^c10475161]: Commencement: Schedule 1 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
-[^key-68fb15bc6961e28b65e48766bbaa6299]: Textual amendment: Sch. 1 Art. 19(2) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(g)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-68fb15bc6961e28b65e48766bbaa6299]: Textual amendment: Sch. 1 Art. 19(2) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(g)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-da4fb5936bb51286f4e9ff6afb1f7220]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/1990/36/schedule/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 28(4)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/28/4)
+[^c-da4fb5936bb51286f4e9ff6afb1f7220]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/1990/36/schedule/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 28(4)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/28/4)
 
 [^c10475181]: Commencement: Schedule 1 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707) , [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
-[^key-ab40409dcfbb3d5ca8a0e2f534ddb6dd]: Textual amendment: Words in Sch. 1 Art. 20 substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(h)(ii)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/h/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab40409dcfbb3d5ca8a0e2f534ddb6dd]: Textual amendment: Words in Sch. 1 Art. 20 substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(h)(ii)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/h/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c10475191]: Commencement: Schedule 1 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
-[^key-f024aef654dc991ab5d6835426a738ac]: Textual amendment: Words in Sch. 1 Art. 21 substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(i)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f024aef654dc991ab5d6835426a738ac]: Textual amendment: Words in Sch. 1 Art. 21 substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(i)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9b862d94b8221be3bf989f43acdee0b9]: Textual amendment: Sch. 1 Arts. 22-33 and Protocol omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(j)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b862d94b8221be3bf989f43acdee0b9]: Textual amendment: Sch. 1 Arts. 22-33 and Protocol omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(9)(j)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/9/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c10475241]: Commencement: Schedule 1 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
@@ -778,7 +778,7 @@ Section 5.
 
 [^c10475541]: Commencement: Schedule 2 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
-[^key-50de75a890b84e3c8bf3154931ebfcea]: Textual amendment: Schs. 2-3B omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-50de75a890b84e3c8bf3154931ebfcea]: Textual amendment: Schs. 2-3B omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2019/834/regulation/3/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c10475551]: Commencement: Schedule 2 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
@@ -800,7 +800,7 @@ Section 5.
 
 [^c10476021]: Commencement: Schedule 4 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
-[^key-3c689c83c261cbc36c9357ffb1d0cc63]: Textual amendment: Words in Sch. 4 para. 1 repealed (E.W.S.) (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
+[^c-3c689c83c261cbc36c9357ffb1d0cc63]: Textual amendment: Words in Sch. 4 para. 1 repealed (E.W.S.) (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
 
 [^c10476031]: Commencement: Schedule 4 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
@@ -810,4 +810,4 @@ Section 5.
 
 [^c10476061]: Commencement: Schedule 4 wholly in force at 1.4.1991 see s. 7 and [S.I. 1991/707](https://www.legislation.gov.uk/uksi/1991/707), [art. 2](https://www.legislation.gov.uk/uksi/1991/707/article/2)
 
-[^key-11c21560827cfe0eb755de2da59dad50]: Textual amendment: Sch. 4 para. 6 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-11c21560827cfe0eb755de2da59dad50]: Textual amendment: Sch. 4 para. 6 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

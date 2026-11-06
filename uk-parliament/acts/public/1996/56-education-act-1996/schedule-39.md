@@ -81,7 +81,7 @@ as the case may be.
 - (a) any reference to an elementary school or to a public elementary school (whether or not any reference is made there to the payment of parliamentary grants in respect of the school) were a reference to a county school or voluntary school, as the context may require;
 - (b) any reference to a school certified by the Board of Education, in accordance with the provisions of Part V of the [^c15259991]Education Act 1921, as suitable for providing education for blind, deaf, defective or epileptic children were a reference to a special school;
 - (c) any reference to the managers of a school, in relation to a county school or voluntary school, were a reference to the governors (or, if the context so requires, the governing body) of the school;
-- (d) any reference to elementary education or to higher education were a reference to such education as may be provided by a local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] in the exercise of their functions under sections 13 to 15 of this Act; and
+- (d) any reference to elementary education or to higher education were a reference to such education as may be provided by a local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] in the exercise of their functions under sections 13 to 15 of this Act; and
 - (e) any reference to a local authority, to a local authority for elementary education or to a local authority for higher education were a reference to a local authority within the meaning of this Act.
 
 #### Effect of old transitional provisions and savings
@@ -370,7 +370,7 @@ which was in existence immediately before 1st April 1994.
   - (ii) in the case of a sub-committee, by the committee appointed by the authority,
 
   in accordance with section 102(1) of the [^c15260391]Local Government Act 1972, and
-- (b) so appointed wholly or partly for the purpose of discharging any of the local authority’s education functions[^key-9df22230253c43b22ea3aef5a1efb7fa] on them in their capacity as a local authority or, as the case may be, the committee’s functions with respect to education.
+- (b) so appointed wholly or partly for the purpose of discharging any of the local authority’s education functions[^c-9df22230253c43b22ea3aef5a1efb7fa] on them in their capacity as a local authority or, as the case may be, the committee’s functions with respect to education.
 
 (3) Sub-paragraph (4) below applies to any person who was immediately before 1st April 1994 a member of an education committee or sub-committee of such a committee appointed for a term of office.
 
@@ -403,7 +403,7 @@ The repeal by this Act of the [^c15260421]Education (Handicapped Children) Act 1
 
 #### Disputes as to property transferred by virtue of 1944 Act
 
-**48.** Any question which, if it had arisen before the commencement of this Act, would have fallen to be determined by the Secretary of State in accordance with section 96(2) of the [^c15260441]Education Act 1944 (questions relating to property etc. transferred to local authorities[^key-df82d42709314c7296748c08b3554faa] ) shall be determined by him despite the repeal of that provision by this Act.
+**48.** Any question which, if it had arisen before the commencement of this Act, would have fallen to be determined by the Secretary of State in accordance with section 96(2) of the [^c15260441]Education Act 1944 (questions relating to property etc. transferred to local authorities[^c-df82d42709314c7296748c08b3554faa] ) shall be determined by him despite the repeal of that provision by this Act.
 
 #### Modifications of deeds made prior to Education Act 1973
 
@@ -435,7 +435,7 @@ The repeal by this Act of the [^c15260421]Education (Handicapped Children) Act 1
 
 [^c15259991]: Marginal citation: [1921 c. 51](https://www.legislation.gov.uk/ukpga/1921/51).
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
 [^c15260001]: Marginal citation: [1993 c. 35](https://www.legislation.gov.uk/ukpga/1993/35).
 
@@ -515,7 +515,7 @@ The repeal by this Act of the [^c15260421]Education (Handicapped Children) Act 1
 
 [^c15260391]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-9df22230253c43b22ea3aef5a1efb7fa]: Textual amendment: Words in Sch. 39 para. 44(2)(b) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 7(16)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/16)
+[^c-9df22230253c43b22ea3aef5a1efb7fa]: Textual amendment: Words in Sch. 39 para. 44(2)(b) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 7(16)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/16)
 
 [^c15260401]: Marginal citation: [1944 c. 31](https://www.legislation.gov.uk/ukpga/1944/31).
 
@@ -527,7 +527,7 @@ The repeal by this Act of the [^c15260421]Education (Handicapped Children) Act 1
 
 [^c15260441]: Marginal citation: [1944 c. 31](https://www.legislation.gov.uk/ukpga/1944/31).
 
-[^key-df82d42709314c7296748c08b3554faa]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/3) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-df82d42709314c7296748c08b3554faa]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/3) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
 [^c15260451]: Marginal citation: [1973 c. 16](https://www.legislation.gov.uk/ukpga/1973/16).
 

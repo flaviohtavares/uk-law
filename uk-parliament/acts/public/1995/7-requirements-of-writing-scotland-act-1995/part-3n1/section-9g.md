@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9G. Registration and recording of electronic documents[^key-461fa52359ef19c578c123704d4d8f99]
+## 9G. Registration and recording of electronic documents[^c-461fa52359ef19c578c123704d4d8f99]
 
 *Extent: S*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) to record an electronic document in the Register of Sasines,
 - (b) to register such a document in the Land Register of Scotland,
 - (c) to register such a document for execution or preservation in the Books of Council and Session, or
-- (d)[^key-e4c87d829de070bbde06c66235a5cc9b] to record or register such a document in any other register under the management and control of the Keeper of the Registers of Scotland,
+- (d)[^c-e4c87d829de070bbde06c66235a5cc9b] to record or register such a document in any other register under the management and control of the Keeper of the Registers of Scotland,
 
 unless both subsection (2) and subsection (3) apply in relation to the document.
 
@@ -72,6 +72,6 @@ are in such form and of such type as are prescribed by the Scottish Ministers in
 
 ## Annotations
 
-[^key-461fa52359ef19c578c123704d4d8f99]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/1995/7/part/3) inserted (22.3.2014 for specified purposes, 11.5.2014 for specified purposes, 1.4.2022 for specified purposes) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 97(2)](https://www.legislation.gov.uk/asp/2012/5/section/97/2), [122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2014/41/article/2/1/a)[(b)](https://www.legislation.gov.uk/ssi/2014/41/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2014/41/article/2/2), [sch. Pts. 1](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/1), [2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)); [S.S.I. 2021/472](https://www.legislation.gov.uk/ssi/2021/472), [art. 2](https://www.legislation.gov.uk/ssi/2021/472/article/2)
+[^c-461fa52359ef19c578c123704d4d8f99]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/1995/7/part/3) inserted (22.3.2014 for specified purposes, 11.5.2014 for specified purposes, 1.4.2022 for specified purposes) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 97(2)](https://www.legislation.gov.uk/asp/2012/5/section/97/2), [122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2014/41/article/2/1/a)[(b)](https://www.legislation.gov.uk/ssi/2014/41/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2014/41/article/2/2), [sch. Pts. 1](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/1), [2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)); [S.S.I. 2021/472](https://www.legislation.gov.uk/ssi/2021/472), [art. 2](https://www.legislation.gov.uk/ssi/2021/472/article/2)
 
-[^key-e4c87d829de070bbde06c66235a5cc9b]: Modification: [S. 9G(1)(d)](https://www.legislation.gov.uk/ukpga/1995/7/section/9G/1/d) excluded (1.4.2025) by [Moveable Transactions (Scotland) Act 2023 (asp 3)](https://www.legislation.gov.uk/asp/2023/3), [ss. 115](https://www.legislation.gov.uk/asp/2023/3/section/115), [121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2); [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-e4c87d829de070bbde06c66235a5cc9b]: Modification: [S. 9G(1)(d)](https://www.legislation.gov.uk/ukpga/1995/7/section/9G/1/d) excluded (1.4.2025) by [Moveable Transactions (Scotland) Act 2023 (asp 3)](https://www.legislation.gov.uk/asp/2023/3), [ss. 115](https://www.legislation.gov.uk/asp/2023/3/section/115), [121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2); [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)

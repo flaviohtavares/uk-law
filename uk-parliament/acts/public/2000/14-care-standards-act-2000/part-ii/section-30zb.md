@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30ZB. Penalty notices: supplementary provision[^key-65caf5159b83e07038a8cf8f3b59c17a][^c22718281]
+## 30ZB. Penalty notices: supplementary provision[^c-65caf5159b83e07038a8cf8f3b59c17a][^c22718281]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 (2) Regulations under subsection (1)(b)—
 
 - (a) may make provision for penalties of different amounts to be payable in different cases, including provision for the penalty payable under a penalty notice to differ according to the time by which it is paid, but
-- (b) must secure that the amount of any penalty payable in respect of any offence does not exceed one half of the maximum amount of the fine to which a person committing the offence would be liable on summary conviction or, where there is no such maximum amount, that it does not exceed the amount corresponding to level 4 on the standard scale for summary offences[^key-ad8d5571a7b48bd3f8cc2bab6a0681b0] .
+- (b) must secure that the amount of any penalty payable in respect of any offence does not exceed one half of the maximum amount of the fine to which a person committing the offence would be liable on summary conviction or, where there is no such maximum amount, that it does not exceed the amount corresponding to level 4 on the standard scale for summary offences[^c-ad8d5571a7b48bd3f8cc2bab6a0681b0] .
 
 (3) In this section—
 
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-65caf5159b83e07038a8cf8f3b59c17a]: Modification: S. 30ZB applied (31.3.2017) by [The Care Standards Act 2000 (Extension of the Application of Part 2 to Private Dental Practices) (Wales) Regulations 2017 (S.I. 2017/200)](https://www.legislation.gov.uk/wsi/2017/200), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/200/regulation/1/2), [3(2)(i)](https://www.legislation.gov.uk/wsi/2017/200/regulation/3/2/i), [Sch.](https://www.legislation.gov.uk/wsi/2017/200/schedule)
+[^c-65caf5159b83e07038a8cf8f3b59c17a]: Modification: S. 30ZB applied (31.3.2017) by [The Care Standards Act 2000 (Extension of the Application of Part 2 to Private Dental Practices) (Wales) Regulations 2017 (S.I. 2017/200)](https://www.legislation.gov.uk/wsi/2017/200), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/200/regulation/1/2), [3(2)(i)](https://www.legislation.gov.uk/wsi/2017/200/regulation/3/2/i), [Sch.](https://www.legislation.gov.uk/wsi/2017/200/schedule)
 
 [^c22718281]: Textual amendment: Ss. 30ZA, 30ZB and preceding cross-heading inserted (21.7.2008 for certain purposes and 1.4.2009 otherwise) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 95](https://www.legislation.gov.uk/ukpga/2008/14/section/95), [170(1)(b)(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/1/b/3), [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/25); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2](https://www.legislation.gov.uk/uksi/2009/462/article/2), [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/35)
 
-[^key-ad8d5571a7b48bd3f8cc2bab6a0681b0]: Textual amendment: Words in s. 30ZB(2)(b) inserted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2015/664/schedule/5/paragraph/8) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-ad8d5571a7b48bd3f8cc2bab6a0681b0]: Textual amendment: Words in s. 30ZB(2)(b) inserted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2015/664/schedule/5/paragraph/8) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1123. “Staffing costs”[^key-a609e1d8eaf250ec14d6e0779a9a6ece]
+## 1123. “Staffing costs”[^c-a609e1d8eaf250ec14d6e0779a9a6ece]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,9 +34,9 @@ summary: ''
 
 (4) This subsection applies to secondary Class 1 national insurance contributions paid by the company.
 
-(5) This subsection applies to compulsory contributions paid by the company in respect of benefits for directors or employees of the company under the social security legislation of an EEA State [^key-28dfcc18f3704391298400467dbc071b]... or Switzerland.
+(5) This subsection applies to compulsory contributions paid by the company in respect of benefits for directors or employees of the company under the social security legislation of an EEA State [^c-28dfcc18f3704391298400467dbc071b]... or Switzerland.
 
-(6) In subsection (5) “**social security legislation**” means legislation relating to any of the branches of social security listed in Article 3(1) of Regulation [(EC) No. 883/2004](https://www.legislation.gov.uk/eur/2004/883) of the European Parliament and of the Council on the co-ordination of social security systems as it had effect in the UK immediately before IP completion day[^key-e6d62a9c558efd5926b916565b35232b].
+(6) In subsection (5) “**social security legislation**” means legislation relating to any of the branches of social security listed in Article 3(1) of Regulation [(EC) No. 883/2004](https://www.legislation.gov.uk/eur/2004/883) of the European Parliament and of the Council on the co-ordination of social security systems as it had effect in the UK immediately before IP completion day[^c-e6d62a9c558efd5926b916565b35232b].
 
 (7) This subsection applies to contributions paid by the company to a pension fund operated for the benefit of directors or employees of the company.
 
@@ -48,8 +48,8 @@ For this purpose “**scheme**” includes a deed, agreement or series of agreem
 
 ## Annotations
 
-[^key-a609e1d8eaf250ec14d6e0779a9a6ece]: Modification: S. 1123 applied (with modifications) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), s. 357BLB(7)(a) (as inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3))
+[^c-a609e1d8eaf250ec14d6e0779a9a6ece]: Modification: S. 1123 applied (with modifications) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), s. 357BLB(7)(a) (as inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3))
 
-[^key-28dfcc18f3704391298400467dbc071b]: Textual amendment: Words in [s. 1123(5)](https://www.legislation.gov.uk/ukpga/2009/4/section/1123/5) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [16(21)](https://www.legislation.gov.uk/uksi/2019/689/regulation/16/21) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-28dfcc18f3704391298400467dbc071b]: Textual amendment: Words in [s. 1123(5)](https://www.legislation.gov.uk/ukpga/2009/4/section/1123/5) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [16(21)](https://www.legislation.gov.uk/uksi/2019/689/regulation/16/21) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e6d62a9c558efd5926b916565b35232b]: Textual amendment: Words in [s. 1123(6)](https://www.legislation.gov.uk/ukpga/2009/4/section/1123/6) substituted (31.12.2020) by [The Taxes (State Aid) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1499)](https://www.legislation.gov.uk/uksi/2020/1499), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1499/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1499/regulation/5/2)
+[^c-e6d62a9c558efd5926b916565b35232b]: Textual amendment: Words in [s. 1123(6)](https://www.legislation.gov.uk/ukpga/2009/4/section/1123/6) substituted (31.12.2020) by [The Taxes (State Aid) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1499)](https://www.legislation.gov.uk/uksi/2020/1499), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1499/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1499/regulation/5/2)

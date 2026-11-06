@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 218. Appointment of another person to act[^key-bf259bd130138c7bfcb44d5471acd98d]
+## 218. Appointment of another person to act[^c-bf259bd130138c7bfcb44d5471acd98d]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf259bd130138c7bfcb44d5471acd98d]: Commencement: [Rule 218](https://www.legislation.gov.uk/nisr/2026/11/rule/218) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-bf259bd130138c7bfcb44d5471acd98d]: Commencement: [Rule 218](https://www.legislation.gov.uk/nisr/2026/11/rule/218) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

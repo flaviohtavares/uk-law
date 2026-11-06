@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62M. Option to make application directly to Welsh Ministers[^key-af84975a7efce9b7e1d60b8b01203db0]
+## 62M. Option to make application directly to Welsh Ministers[^c-af84975a7efce9b7e1d60b8b01203db0]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ is development of a description prescribed by regulations made by the Welsh Mini
 
 (4) A qualifying application, for the purposes of this section, is—
 
-- (a) an application for planning permission for the development of land in Wales[^key-2eac704030095cf7e6ecf28d8a42ff4e]...;
+- (a) an application for planning permission for the development of land in Wales[^c-2eac704030095cf7e6ecf28d8a42ff4e]...;
 - (b) an application for approval of a matter that, for the purposes of section 92, is a reserved matter in the case of an outline planning permission for the development of land in Wales.
 
 (5) But an application within subsection (6) that would otherwise be a qualifying application for the purposes of this section is not to be treated as such unless it is an application of a description prescribed in regulations made by the Welsh Ministers.
@@ -42,6 +42,6 @@ is development of a description prescribed by regulations made by the Welsh Mini
 
 ## Annotations
 
-[^key-af84975a7efce9b7e1d60b8b01203db0]: Textual amendment: Ss. 62M-62O and cross-heading inserted (6.9.2015 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 23](https://www.legislation.gov.uk/anaw/2015/4/section/23), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b)
+[^c-af84975a7efce9b7e1d60b8b01203db0]: Textual amendment: Ss. 62M-62O and cross-heading inserted (6.9.2015 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 23](https://www.legislation.gov.uk/anaw/2015/4/section/23), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b)
 
-[^key-2eac704030095cf7e6ecf28d8a42ff4e]: Textual amendment: Words in [s. 62M(4)(a)](https://www.legislation.gov.uk/ukpga/1990/8/section/62M/4/a) omitted (W.) (15.12.2025) by virtue of [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 4(4)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/4/4) (with [ss. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5), [146(10)](https://www.legislation.gov.uk/asc/2024/3/section/146/10)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
+[^c-2eac704030095cf7e6ecf28d8a42ff4e]: Textual amendment: Words in [s. 62M(4)(a)](https://www.legislation.gov.uk/ukpga/1990/8/section/62M/4/a) omitted (W.) (15.12.2025) by virtue of [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 4(4)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/4/4) (with [ss. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5), [146(10)](https://www.legislation.gov.uk/asc/2024/3/section/146/10)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48.[^key-a0d7b383f7b9f29dac84679c48459dfc]
+## 48.[^c-a0d7b383f7b9f29dac84679c48459dfc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0d7b383f7b9f29dac84679c48459dfc]: Textual amendment: [Reg. 48](https://www.legislation.gov.uk/uksi/2005/3229/regulation/48) revoked (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-a0d7b383f7b9f29dac84679c48459dfc]: Textual amendment: [Reg. 48](https://www.legislation.gov.uk/uksi/2005/3229/regulation/48) revoked (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -34,13 +34,13 @@ An Act to make provision for, and in connection with, using money from dormant b
 
 \[26th November 2008\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-125c5ec80a5896b0b4415e22503db1ba][^key-acfd47121728a0b3519bae8fee4548af][^key-a92905adb0ad5208da9fa9de0f079f02][^key-ebdccef259e721ec1476619497ad44c5][^key-97be7040c5fe62d14f7da6051e4a9627][^key-7efda52b8f534a8b1aa3476d900207a8]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-125c5ec80a5896b0b4415e22503db1ba][^c-acfd47121728a0b3519bae8fee4548af][^c-a92905adb0ad5208da9fa9de0f079f02][^c-ebdccef259e721ec1476619497ad44c5][^c-97be7040c5fe62d14f7da6051e4a9627][^c-7efda52b8f534a8b1aa3476d900207a8]
 
 ## Part 1 — Transfer of balances in dormant accounts
 
 ### The general scheme
 
-#### 1. Transfer of balances to reclaim fund[^key-944fee6803b22a32cc355cd37e926f95][^key-9795cf12067ec2b16767fc084ade931e][^key-40717bbeb6a4f95a192c78018cc42afc]
+#### 1. Transfer of balances to reclaim fund[^c-944fee6803b22a32cc355cd37e926f95][^c-9795cf12067ec2b16767fc084ade931e][^c-40717bbeb6a4f95a192c78018cc42afc]
 
 (1) This section applies where—
 
@@ -52,7 +52,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (a) the customer no longer has any right against the bank or building society to payment of the balance, but
 - (b) the customer has against the reclaim fund whatever right to payment of the balance the customer would have against the bank or building society if the transfer had not happened.
 
-(2A)[^key-01de5e4fdbba9853b5785f74c587d2c1] A transfer of the balance of a dormant account as mentioned in subsection (1) does not itself—
+(2A)[^c-01de5e4fdbba9853b5785f74c587d2c1] A transfer of the balance of a dormant account as mentioned in subsection (1) does not itself—
 
 - (a) constitute a breach of trust or fiduciary duty affecting the balance, or
 - (b) give rise to any other liability of any kind (whether against the transferring bank or building society, the reclaim fund or any other person involved), other than the liability of the reclaim fund arising by virtue of subsection (2)(b).
@@ -63,7 +63,7 @@ In such a case, a reference in subsection (2) to the customer is to be read as a
 
 ### Alternative scheme for smaller institutions
 
-#### 2. Transfer of balances to charities, with proportion to reclaim fund[^key-5d51ac41a83d0f350144d48d59f5934c][^key-a4656862b5f47c1f7d0d8c87c28f7684][^key-b8d12820b7b92cd9b0f5ae1d91ca2efa]
+#### 2. Transfer of balances to charities, with proportion to reclaim fund[^c-5d51ac41a83d0f350144d48d59f5934c][^c-a4656862b5f47c1f7d0d8c87c28f7684][^c-b8d12820b7b92cd9b0f5ae1d91ca2efa]
 
 (1) This section applies where—
 
@@ -99,12 +99,12 @@ In agreeing that proportion, the reclaim fund must take account of the need for 
 
 (6) The reference in subsection (5)(d)(ii) to particular purposes does not include the purpose mentioned in section 5(1)(a) of the Building Societies Act 1986 (c. 53) (making loans that are secured on residential property and substantially funded by members).
 
-(7)[^key-a638bd439d33649578d568b73b4e6337] A transfer of an amount to an authorised reclaim fund and to one or more charities as mentioned in subsection (1) does not itself—
+(7)[^c-a638bd439d33649578d568b73b4e6337] A transfer of an amount to an authorised reclaim fund and to one or more charities as mentioned in subsection (1) does not itself—
 
 - (a) constitute a breach of trust or fiduciary duty affecting the amount owing, or
 - (b) give rise to any other liability of any kind (whether against the transferring bank or building society, the reclaim fund, any charity concerned or any other person involved), other than the liability of the reclaim fund arising under subsection (2)(b).
 
-#### 2A. Return of surplus alternative scheme assets[^key-ac65d753dfa474b2887e68063f011db4]
+#### 2A. Return of surplus alternative scheme assets[^c-ac65d753dfa474b2887e68063f011db4]
 
 (1) This section applies where an authorised reclaim fund has determined that a proportion of its alternative scheme assets does not need to be retained for the purposes of achieving any of its objects other than the transfer of money to the body or bodies for the time being specified in section 16(1).
 
@@ -137,7 +137,7 @@ The allocation is to be made in the way the reclaim fund considers appropriate, 
 
 (10) In subsection (9) “special connection” is to be interpreted in accordance with section 2(5)(c) and (d) and (6).
 
-#### 3. The assets-limit condition[^key-ba6f4c6f1caca78162cab9c107811a52]
+#### 3. The assets-limit condition[^c-ba6f4c6f1caca78162cab9c107811a52]
 
 (1) A bank or building society meets the assets-limit condition if the aggregate of the amounts shown in its balance sheet as assets on the last day of the latest financial year for which it has prepared accounts is less than £7,000 million.
 
@@ -154,7 +154,7 @@ The allocation is to be made in the way the reclaim fund considers appropriate, 
 
 ### Shareholding members of building societies
 
-#### 4. Effect of balance transfer on membership rights[^key-3aae4b9bba9427ca2e9e3c23be822a0e]
+#### 4. Effect of balance transfer on membership rights[^c-3aae4b9bba9427ca2e9e3c23be822a0e]
 
 (1) This section applies where a person (“the member”) holds a share in a building society represented by an account with the society, and either—
 
@@ -178,19 +178,19 @@ subsection (2) continues to apply until the account is credited with the money.
 
 ### Reclaim funds
 
-#### 5. Functions etc of a reclaim fund[^key-3371e6dfb187ba5e60f18fa0e8ee6786]
+#### 5. Functions etc of a reclaim fund[^c-3371e6dfb187ba5e60f18fa0e8ee6786]
 
 (1) A “reclaim fund” is a company the objects of which are restricted by its articles of association to the following—
 
 - (a) the meeting of repayment claims;
-- (b) the management of dormant assets funds[^key-0d2400e12003c49b0b4d9d4fef8a41a8] in such a way as to enable the company to meet whatever repayment claims it is prudent to anticipate;
-- (c) the transfer of money (other than money subject to paragraph (ca) or (cb))[^key-8024c8e77e948a473866cdf5bcbeea8d] to the body or bodies for the time being specified in section 16(1), subject to the need for the company—
+- (b) the management of dormant assets funds[^c-0d2400e12003c49b0b4d9d4fef8a41a8] in such a way as to enable the company to meet whatever repayment claims it is prudent to anticipate;
+- (c) the transfer of money (other than money subject to paragraph (ca) or (cb))[^c-8024c8e77e948a473866cdf5bcbeea8d] to the body or bodies for the time being specified in section 16(1), subject to the need for the company—
   - (i) to have access at any given time to enough money to meet whatever repayment claims it is prudent to anticipate,
   - (ii) to comply with any requirement with regard to its financial resources that is imposed on it by or under any enactment, and
   - (iii) to defray its expenses;
-- (ca)[^key-34f154f677692a31b5e0ad5a5bb6b151] the transfer to the body or bodies for the time being specified in section 16(1) of money derived from amounts transferred to the company by virtue of section 21(2)(b) of the Dormant Assets Act 2022, except in so far as any of it is needed for the purpose mentioned in paragraph (c)(ii) or (iii);
+- (ca)[^c-34f154f677692a31b5e0ad5a5bb6b151] the transfer to the body or bodies for the time being specified in section 16(1) of money derived from amounts transferred to the company by virtue of section 21(2)(b) of the Dormant Assets Act 2022, except in so far as any of it is needed for the purpose mentioned in paragraph (c)(ii) or (iii);
 - (cb) the transfer of money in accordance with section 2A(6) or (7);
-- (d) objects that are incidental or conducive to, or otherwise connected with, any of the above (including in particular the prudent investment of dormant assets funds[^key-7679c1a622ab52b4728325370e740305]).
+- (d) objects that are incidental or conducive to, or otherwise connected with, any of the above (including in particular the prudent investment of dormant assets funds[^c-7679c1a622ab52b4728325370e740305]).
 
 (2) Schedule 1 makes further provision about provision that must be made in the articles of association of a reclaim fund.
 
@@ -211,22 +211,22 @@ subsection (2) continues to apply until the account is credited with the money.
 (6) In this section—
 
 - “**company**” has the meaning given by section 1(1) of the Companies Act 2006 (c. 46);
-- “[^key-948bbabea6b21b162724ca6773df1515] **dormant assets funds** ” means money transferred to a reclaim fund by virtue of section 1(1)(a) or 2(1)(a) above or section 2(1)(a), 5(1)(a), 8(1)(a), 12(1)(a) or 14(1)(a) of the Dormant Assets Act 2022 (and includes money or other assets derived from money so transferred);
-- “**repayment claims**” means claims made by virtue of section 1(2)(b) or 2(2)(b) above or section 2[^key-ace2998f90e99068aabecdcd79adad79](2)(b), 5(2)(b) or (3)(b), 8(2)(b), 12(2)(b) or 14(2)(b) of the Dormant Assets Act 2022.
+- “[^c-948bbabea6b21b162724ca6773df1515] **dormant assets funds** ” means money transferred to a reclaim fund by virtue of section 1(1)(a) or 2(1)(a) above or section 2(1)(a), 5(1)(a), 8(1)(a), 12(1)(a) or 14(1)(a) of the Dormant Assets Act 2022 (and includes money or other assets derived from money so transferred);
+- “**repayment claims**” means claims made by virtue of section 1(2)(b) or 2(2)(b) above or section 2[^c-ace2998f90e99068aabecdcd79adad79](2)(b), 5(2)(b) or (3)(b), 8(2)(b), 12(2)(b) or 14(2)(b) of the Dormant Assets Act 2022.
 
 ### Interpretation etc
 
-#### 6. Interpretation of Part 1[^key-1eb690c1ec82173c9eb6ca31440bdecf]
+#### 6. Interpretation of Part 1[^c-1eb690c1ec82173c9eb6ca31440bdecf]
 
 In this Part—
 
 - “**account**” has the meaning given by section 9;
-- [^key-76486b9cb80ff29fb8dc082456e8753e]...
+- [^c-76486b9cb80ff29fb8dc082456e8753e]...
 - “**balance**” has the meaning given by section 8;
 - “**bank**” has the meaning given by section 7;
 - “**building society**” means a building society incorporated (or deemed to be incorporated) under the Building Societies Act 1986 (c. 53);
 - “**charity**” means a body, or the trustees of a trust, established for charitable purposes only;
-- “**dormant (except in the term “dormant assets funds”)[^key-104188ab49c2282dd16801aac22ad325]** ” has the meaning given by section 10;
+- “**dormant (except in the term “dormant assets funds”)[^c-104188ab49c2282dd16801aac22ad325]** ” has the meaning given by section 10;
 - “financial year”—
   - (a) in relation to a company (other than a building society) within the meaning of the Companies Act 2006, has the meaning given in section 390(1) to (3) of that Act;
   - (b) in relation to an undertaking that is not a company within the meaning of that Act (and is not a building society), has the meaning given in section 390(4) of that Act;
@@ -234,18 +234,18 @@ In this Part—
 - “**group**” means a parent undertaking and its subsidiary undertakings;
 - “**parent undertaking**” and “**subsidiary undertaking**” have the same meaning as in the Companies Act 2006 (see section 1162 of that Act);
 - “**reclaim fund**” has the meaning given by section 5(1).
-- “[^key-1875f865948c5af8909587da066de553]**transfers**”, in relation to the balance of a dormant account, includes bringing about the transfer of the balance.
+- “[^c-1875f865948c5af8909587da066de553]**transfers**”, in relation to the balance of a dormant account, includes bringing about the transfer of the balance.
 
-#### 7. “Bank”[^key-82267c1644b4e4e471c0bfdcbb9a2b62]
+#### 7. “Bank”[^c-82267c1644b4e4e471c0bfdcbb9a2b62]
 
 (1) Subject to subsection (4), “**bank**” means an authorised deposit-taker that has its head office, or one or more branches, in the United Kingdom.
 
 (2) In subsection (1) “**authorised deposit-taker**” means—
 
-- (a) a person who under Part 4A[^key-273995a3167629b0f22350cb3d8474a6] of FSMA 2000 has permission to accept deposits;
-- (b)[^key-7af50a70694d383cc54c6ab18c795a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a person who under Part 4A[^c-273995a3167629b0f22350cb3d8474a6] of FSMA 2000 has permission to accept deposits;
+- (b)[^c-7af50a70694d383cc54c6ab18c795a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) A reference in subsection (2) to a person [^key-5580821b6b3cf439bfa5a161d904c941]... with permission to accept deposits does not include a person [^key-5580821b6b3cf439bfa5a161d904c941]... with permission to do so only for the purposes of, or in the course of, an activity other than accepting deposits.
+(3) A reference in subsection (2) to a person [^c-5580821b6b3cf439bfa5a161d904c941]... with permission to accept deposits does not include a person [^c-5580821b6b3cf439bfa5a161d904c941]... with permission to do so only for the purposes of, or in the course of, an activity other than accepting deposits.
 
 (4) “**Bank**” does not include—
 
@@ -256,17 +256,17 @@ In this Part—
 
 (5) In this section—
 
-- “credit union” means a credit union within the meaning of section 31(1) of the Credit Unions Act 1979 or a credit union within the meaning of Article 2(2) of the Credit Unions (Northern Ireland) Order 1985;[^key-f426bfac135238b70d9adec333b5cbd7]
+- “credit union” means a credit union within the meaning of section 31(1) of the Credit Unions Act 1979 or a credit union within the meaning of Article 2(2) of the Credit Unions (Northern Ireland) Order 1985;[^c-f426bfac135238b70d9adec333b5cbd7]
 - “**friendly society**” has the same meaning as in the Friendly Societies Act 1992 (c. 40) (see section 116 of that Act);
 - “**FSMA 2000**” means the Financial Services and Markets Act 2000 (c. 8).
 
-#### 8. “Balance”[^key-71cb25c8bb71fa098887585449b7ebe6]
+#### 8. “Balance”[^c-71cb25c8bb71fa098887585449b7ebe6]
 
 (1) The balance of a person's account at any particular time is the amount owing to the person in respect of the account at that time, after the appropriate adjustments have been made for such things as interest due and fees and charges payable.
 
 (2) In relation to a time after a transfer has been made as mentioned in section 1(1) or transfers have been made as mentioned in section 2(1), the adjustments referred to in subsection (1) above include those that would fall to be made but for the transfer or transfers.
 
-#### 9. “Account”[^key-aba780281147c84fe3cab22fcc20d72e]
+#### 9. “Account”[^c-aba780281147c84fe3cab22fcc20d72e]
 
 (1) “**Account**” means an account that has at all times consisted only of money.
 
@@ -277,7 +277,7 @@ In this Part—
 - (a) preferential shares, or
 - (b) deferred shares within the meaning given in section 119(1) of the Building Societies Act 1986 (c. 53).
 
-#### 10. “Dormant”[^key-9dd30cb3d7f256783150ccd5e8c86148]
+#### 10. “Dormant”[^c-9dd30cb3d7f256783150ccd5e8c86148]
 
 (1) An account is “dormant” at a particular time if—
 
@@ -301,44 +301,44 @@ In this Part—
 
 ### Supplemental
 
-#### 11. Customer's rights preserved on insolvency etc of bank or building society[^key-f33005f9b309dd52d4e40b7746b24bdb]
+#### 11. Customer's rights preserved on insolvency etc of bank or building society[^c-f33005f9b309dd52d4e40b7746b24bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Disclosure of information[^key-c5a689e8194db6b82f7d97b7682e8e30]
+#### 12. Disclosure of information[^c-c5a689e8194db6b82f7d97b7682e8e30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Banks making transfers under section 2: information in directors' reports[^key-465fd4934565dba768ee5c681a216c53]
+#### 13. Banks making transfers under section 2: information in directors' reports[^c-465fd4934565dba768ee5c681a216c53]
 
 (1) Where—
 
 - (a) the directors of a company that is a bank are required by section 415(1) of the Companies Act 2006 (c. 46) to prepare a report for a particular financial year, and
-- (b) in that year the company made transfers in relation to which section 2 applied or a transfer required by section 2A(8)[^key-5f867064511cd65404c42a7964fe673b],
+- (b) in that year the company made transfers in relation to which section 2 applied or a transfer required by section 2A(8)[^c-5f867064511cd65404c42a7964fe673b],
 
 the report must identify each of the charities concerned and specify the amount transferred to each of them.
 
 (2) The requirements of subsection (1) are to be treated for the purposes of the Companies Act 2006 (c. 46) as requirements of that Act.
 
-#### 14. Review and report to Parliament[^key-a301f54e5e0d00aec65147dfce5cda94]
+#### 14. Review and report to Parliament[^c-a301f54e5e0d00aec65147dfce5cda94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Amendments
 
-#### 15. Amendments to the Financial Services and Markets Act 2000[^key-c590555ba25d08afcc92a758df21b9df]
+#### 15. Amendments to the Financial Services and Markets Act 2000[^c-c590555ba25d08afcc92a758df21b9df]
 
 The Financial Services and Markets Act 2000 is amended as set out in Schedule 2.
 
-## Part 2 — DISTRIBUTION OF DORMANT ASSETS MONEY[^key-e6fe0e39c1a66af128840db15b2786a8]
+## Part 2 — DISTRIBUTION OF DORMANT ASSETS MONEY[^c-e6fe0e39c1a66af128840db15b2786a8]
 
 ### The distribution system: general
 
-#### 16. Distribution of dormant assets money by Big Lottery Fund[^key-30a5a843f19002557ef647d35bbc8522][^key-9ef11189b69c270e2d6f8f8705215460]
+#### 16. Distribution of dormant assets money by Big Lottery Fund[^c-30a5a843f19002557ef647d35bbc8522][^c-9ef11189b69c270e2d6f8f8705215460]
 
-(1) Subject to the provisions of this Part, the Big Lottery Fund shall distribute dormant assets[^key-0ede35c9cd0e6271d710ef1f9c7846c6] money for meeting expenditure that has a social or environmental purpose.
+(1) Subject to the provisions of this Part, the Big Lottery Fund shall distribute dormant assets[^c-0ede35c9cd0e6271d710ef1f9c7846c6] money for meeting expenditure that has a social or environmental purpose.
 
-(2) In this Part “**dormant assets money[^key-3374f178e3a730fef7a4ee979624ea3d]**” means money transferred to the Big Lottery Fund by a reclaim fund in pursuance of any of the objects[^key-81e737cb96cae78e8e7087b1b832233c] mentioned in section 5(1)(c) to (cb)[^key-16cf3969b2f3952786c7767d81c73595], and also includes the proceeds of such money invested under—
+(2) In this Part “**dormant assets money[^c-3374f178e3a730fef7a4ee979624ea3d]**” means money transferred to the Big Lottery Fund by a reclaim fund in pursuance of any of the objects[^c-81e737cb96cae78e8e7087b1b832233c] mentioned in section 5(1)(c) to (cb)[^c-16cf3969b2f3952786c7767d81c73595], and also includes the proceeds of such money invested under—
 
 - (a) paragraph 20(1) of Schedule 4A to the National Lottery etc. Act 1993 (c. 39), or
 - (b) arrangements made under section 25(1).
@@ -349,9 +349,9 @@ The Financial Services and Markets Act 2000 is amended as set out in Schedule 2.
 
 (5) For the purposes of this Part, distributing money for meeting expenditure of a particular description includes distributing money for the purpose of establishing, or contributing to, endowments (including permanent endowments) in connection with expenditure of that description.
 
-(6) Schedule 3 makes further provision about the functions of the Fund in relation to dormant assets[^key-1a9e7e51987c20231f95870da06ecf01] money.
+(6) Schedule 3 makes further provision about the functions of the Fund in relation to dormant assets[^c-1a9e7e51987c20231f95870da06ecf01] money.
 
-#### 17. Apportionment of dormant assets money[^key-995f822c967c763aabe9aca1e52579a0][^key-183d1dfe3a3134d90b3e8c1788311d2d]
+#### 17. Apportionment of dormant assets money[^c-995f822c967c763aabe9aca1e52579a0][^c-183d1dfe3a3134d90b3e8c1788311d2d]
 
 (1) The apportionable income of the Big Lottery Fund in each financial year is to be apportioned as follows and distributed accordingly—
 
@@ -370,15 +370,15 @@ The four percentages must add up to 100%.
 
 where—
 
-A is the amount of dormant assets[^key-d815a815bc7ce9c716f1aa19ba9ebd55] money received by the Fund in the year;
+A is the amount of dormant assets[^c-d815a815bc7ce9c716f1aa19ba9ebd55] money received by the Fund in the year;
 
 B is the amount of the expenses defrayed in the year under subsections (1) and (2) of section 26;
 
 C is the amount paid in the year under subsection (3)(b) of that section.
 
-(4) In this section “**prescribed**” means prescribed by an order made by the Secretary of State[^key-74f508098d39e268ee3691f6691d1ccf].
+(4) In this section “**prescribed**” means prescribed by an order made by the Secretary of State[^c-74f508098d39e268ee3691f6691d1ccf].
 
-(5) Before making an order under this section the Secretary of State[^key-c39bbe5dc794fe9af6c9fb638baf0f2a] shall consult—
+(5) Before making an order under this section the Secretary of State[^c-c39bbe5dc794fe9af6c9fb638baf0f2a] shall consult—
 
 - (a) the Welsh Ministers;
 - (b) the Scottish Ministers;
@@ -390,22 +390,22 @@ C is the amount paid in the year under subsection (3)(b) of that section.
 
 ### Distribution for England, Wales, Scotland and Northern Ireland
 
-#### 18. Distribution of money for meeting English expenditure[^key-335bf5b0d927cf6e3f94c31884a8e657]
+#### 18. Distribution of money for meeting English expenditure[^c-335bf5b0d927cf6e3f94c31884a8e657]
 
-(1)[^key-31a69233cb96222e87a794fed8ab61d7] A distribution of *(affected by repeal, see note)*[^key-31a69233cb96222e87a794fed8ab61d7] dormant assets[^key-c26c1143793ac054afb9b4027f6f2d6a] *(affected by repeal, see note)*[^key-31a69233cb96222e87a794fed8ab61d7] money for meeting English expenditure must be— *(affected by repeal, see note)*[^key-31a69233cb96222e87a794fed8ab61d7]
+(1)[^c-31a69233cb96222e87a794fed8ab61d7] A distribution of *(affected by repeal, see note)*[^c-31a69233cb96222e87a794fed8ab61d7] dormant assets[^c-c26c1143793ac054afb9b4027f6f2d6a] *(affected by repeal, see note)*[^c-31a69233cb96222e87a794fed8ab61d7] money for meeting English expenditure must be— *(affected by repeal, see note)*[^c-31a69233cb96222e87a794fed8ab61d7]
 
-- (a) made for meeting expenditure on or connected with the provision of services, facilities or opportunities to meet the needs of young people, *(affected by repeal, see note)*[^key-31a69233cb96222e87a794fed8ab61d7]
-- (b) made for meeting expenditure on or connected with— *(affected by repeal, see note)*[^key-31a69233cb96222e87a794fed8ab61d7]
-  - (i) the development of individuals' ability to manage their finances, or *(affected by repeal, see note)*[^key-31a69233cb96222e87a794fed8ab61d7]
-  - (ii (affected by repeal, see note))[^key-31a69233cb96222e87a794fed8ab61d7] the improvement of access to personal financial services,or *(affected by repeal, see note)*[^key-31a69233cb96222e87a794fed8ab61d7]
-- (c) made to a social investment wholesaler. *(affected by repeal, see note)*[^key-31a69233cb96222e87a794fed8ab61d7]
+- (a) made for meeting expenditure on or connected with the provision of services, facilities or opportunities to meet the needs of young people, *(affected by repeal, see note)*[^c-31a69233cb96222e87a794fed8ab61d7]
+- (b) made for meeting expenditure on or connected with— *(affected by repeal, see note)*[^c-31a69233cb96222e87a794fed8ab61d7]
+  - (i) the development of individuals' ability to manage their finances, or *(affected by repeal, see note)*[^c-31a69233cb96222e87a794fed8ab61d7]
+  - (ii (affected by repeal, see note))[^c-31a69233cb96222e87a794fed8ab61d7] the improvement of access to personal financial services,or *(affected by repeal, see note)*[^c-31a69233cb96222e87a794fed8ab61d7]
+- (c) made to a social investment wholesaler. *(affected by repeal, see note)*[^c-31a69233cb96222e87a794fed8ab61d7]
 
-(2) In this section— *(affected by repeal, see note)*[^key-31a69233cb96222e87a794fed8ab61d7]
+(2) In this section— *(affected by repeal, see note)*[^c-31a69233cb96222e87a794fed8ab61d7]
 
-- “**social investment wholesaler *(affected by repeal, see note)*[^key-31a69233cb96222e87a794fed8ab61d7]**” means a body that exists to assist or enable other bodies to give financial or other support to third sector organisations; *(affected by repeal, see note)*[^key-31a69233cb96222e87a794fed8ab61d7]
-- “**third sector organisation *(affected by repeal, see note)*[^key-31a69233cb96222e87a794fed8ab61d7]**” means an organisation that exists wholly or mainly to provide benefits for society or the environment. *(affected by repeal, see note)*[^key-31a69233cb96222e87a794fed8ab61d7]
+- “**social investment wholesaler *(affected by repeal, see note)*[^c-31a69233cb96222e87a794fed8ab61d7]**” means a body that exists to assist or enable other bodies to give financial or other support to third sector organisations; *(affected by repeal, see note)*[^c-31a69233cb96222e87a794fed8ab61d7]
+- “**third sector organisation *(affected by repeal, see note)*[^c-31a69233cb96222e87a794fed8ab61d7]**” means an organisation that exists wholly or mainly to provide benefits for society or the environment. *(affected by repeal, see note)*[^c-31a69233cb96222e87a794fed8ab61d7]
 
-#### 18A. Distribution of money for meeting English expenditure[^key-6a7046b8d8c6af0ebedd7b2059afc80b]
+#### 18A. Distribution of money for meeting English expenditure[^c-6a7046b8d8c6af0ebedd7b2059afc80b]
 
 (1) The Secretary of State may by order—
 
@@ -430,25 +430,25 @@ C is the amount paid in the year under subsection (3)(b) of that section.
 
 (6) An order under this section may not be made unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, both Houses of Parliament.
 
-#### 19. Distribution of money for meeting Welsh expenditure[^key-65499b914f49b7c0f5f627aca6cb5374]
+#### 19. Distribution of money for meeting Welsh expenditure[^c-65499b914f49b7c0f5f627aca6cb5374]
 
-(1) The Welsh Ministers may by order made by statutory instrument make provision restricting the purposes for which, or the kinds of person to which, a distribution of dormant assets[^key-2bf1a2bd2987ff3ed7143aa414fcc0b4] money for meeting Welsh expenditure may be made.
+(1) The Welsh Ministers may by order made by statutory instrument make provision restricting the purposes for which, or the kinds of person to which, a distribution of dormant assets[^c-2bf1a2bd2987ff3ed7143aa414fcc0b4] money for meeting Welsh expenditure may be made.
 
 (2) Before making an order under this section the Welsh Ministers shall consult the Big Lottery Fund and such other persons (if any) as they think appropriate.
 
 (3) An order under this section may not be made unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, the National Assembly for Wales.
 
-#### 20. Distribution of money for meeting Scottish expenditure[^key-057b8bb92ab64a34a2f8a3ec21c80412]
+#### 20. Distribution of money for meeting Scottish expenditure[^c-057b8bb92ab64a34a2f8a3ec21c80412]
 
-(1) The Scottish Ministers may by order made by statutory instrument make provision restricting the purposes for which, or the kinds of person to which, a distribution of dormant assets[^key-c1462e8d2d0fe4ec31a4edf75da67278] money for meeting Scottish expenditure may be made.
+(1) The Scottish Ministers may by order made by statutory instrument make provision restricting the purposes for which, or the kinds of person to which, a distribution of dormant assets[^c-c1462e8d2d0fe4ec31a4edf75da67278] money for meeting Scottish expenditure may be made.
 
 (2) Before making an order under this section the Scottish Ministers shall consult the Big Lottery Fund and such other persons (if any) as they think appropriate.
 
 (3) An order under this section may not be made unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, the Scottish Parliament.
 
-#### 21. Distribution of money for meeting Northern Ireland expenditure[^key-afcd17cbb89f909a25cfe685c977b4e6]
+#### 21. Distribution of money for meeting Northern Ireland expenditure[^c-afcd17cbb89f909a25cfe685c977b4e6]
 
-(1) The Department of Finance and Personnel in Northern Ireland may by order make provision restricting the purposes for which, or the kinds of person to which, a distribution of dormant assets[^key-e83d819a55d27a9ae4d2459aa1e95ece] money for meeting Northern Ireland expenditure may be made.
+(1) The Department of Finance and Personnel in Northern Ireland may by order make provision restricting the purposes for which, or the kinds of person to which, a distribution of dormant assets[^c-e83d819a55d27a9ae4d2459aa1e95ece] money for meeting Northern Ireland expenditure may be made.
 
 (2) Before making an order under this section the Department of Finance and Personnel shall consult the Big Lottery Fund and such other persons (if any) as the Department thinks appropriate.
 
@@ -456,13 +456,13 @@ C is the amount paid in the year under subsection (3)(b) of that section.
 
 (4) An order under this section may not be made unless a draft of it has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
 
-### Powers of Secretary of State or appropriate national authority[^key-65aec972e967af8d34dae64bc358be8a]
+### Powers of Secretary of State or appropriate national authority[^c-65aec972e967af8d34dae64bc358be8a]
 
-#### 22. Directions to Big Lottery Fund[^key-9eacaeae511941ed3709e60bf1ad705a]
+#### 22. Directions to Big Lottery Fund[^c-9eacaeae511941ed3709e60bf1ad705a]
 
 (1) In exercising any of its functions under this Act the Big Lottery Fund shall comply with any direction given to it under this section.
 
-(2) Subject to subsection (5), the power to give a direction under this section is exercisable by the Secretary of State[^key-87178e29c0838e3c19fd84a5e0ea5e5f].
+(2) Subject to subsection (5), the power to give a direction under this section is exercisable by the Secretary of State[^c-87178e29c0838e3c19fd84a5e0ea5e5f].
 
 (3) A direction under this section may, in particular—
 
@@ -481,10 +481,10 @@ C is the amount paid in the year under subsection (3)(b) of that section.
 - (d) relate to the form of accounts or methods and principles for the preparation of accounts;
 - (e) in so far as it relates to a matter specified in paragraphs (a) to (d)—
   - (i) relate to the persons to whom or the terms on which the Fund delegates functions;
-  - (ii) require the Fund to obtain the Secretary of State’s[^key-39a840d2690d739aa9f504426f582f77] consent before taking action of a specified kind;
-  - (iii) require the Fund to provide information to the Secretary of State[^key-ea93054193f59450ba8325aba3c4ea44].
+  - (ii) require the Fund to obtain the Secretary of State’s[^c-39a840d2690d739aa9f504426f582f77] consent before taking action of a specified kind;
+  - (iii) require the Fund to provide information to the Secretary of State[^c-ea93054193f59450ba8325aba3c4ea44].
 
-(5) A direction under this section may not be given by the Secretary of State[^key-c82797ed14a4f0ca01ee1aa09616bdde] in relation to Welsh, Scottish or Northern Ireland expenditure, but—
+(5) A direction under this section may not be given by the Secretary of State[^c-c82797ed14a4f0ca01ee1aa09616bdde] in relation to Welsh, Scottish or Northern Ireland expenditure, but—
 
 - (a) may be given by the Welsh Ministers in relation to Welsh expenditure;
 - (b) may be given by the Scottish Ministers in relation to Scottish expenditure;
@@ -495,32 +495,32 @@ This subsection does not apply to a direction given by virtue only of subsection
 (6) A direction under this section may not be inconsistent with —
 
 - (a) section 16(1), or
-- (b) section 18 or *(affected by repeal, see note)*[^key-73ab2236891343cf823abd20f777bbcc] an order under section 18A,[^key-cf47a7712a615d920e2c793d8a08b2c8] 19, 20 or 21 (whichever is applicable).
+- (b) section 18 or *(affected by repeal, see note)*[^c-73ab2236891343cf823abd20f777bbcc] an order under section 18A,[^c-cf47a7712a615d920e2c793d8a08b2c8] 19, 20 or 21 (whichever is applicable).
 
 (7) Any minister, ministers or department proposing to give a direction under this section must consult the Big Lottery Fund before doing so.
 
 (8) The power of the Fund to appoint staff under paragraph 6 of Schedule 4A to the National Lottery etc. Act 1993 (c. 39), or to make payments under paragraph 18 of that Schedule (remuneration etc), has effect subject to any directions under subsection (4)(c).
 
-#### 23. Power to prohibit distribution in certain cases[^key-93a02418faab42616c7aab3a82981b93]
+#### 23. Power to prohibit distribution in certain cases[^c-93a02418faab42616c7aab3a82981b93]
 
-(1) The Secretary of State[^key-b49d2519ae6ab3c449852a513db15a77] may by order prohibit the Big Lottery Fund from distributing dormant assets[^key-32a2a81abeda509b8ec05fee58f03b34] money to a person specified in the order if the Secretary of State[^key-1aa7f1bf732983cb0443e3630c27f062] considers that the Fund is able (whether directly or indirectly) to control or materially to influence the policy of that person in carrying on any undertaking or performing any functions.
+(1) The Secretary of State[^c-b49d2519ae6ab3c449852a513db15a77] may by order prohibit the Big Lottery Fund from distributing dormant assets[^c-32a2a81abeda509b8ec05fee58f03b34] money to a person specified in the order if the Secretary of State[^c-1aa7f1bf732983cb0443e3630c27f062] considers that the Fund is able (whether directly or indirectly) to control or materially to influence the policy of that person in carrying on any undertaking or performing any functions.
 
 (2) Before making an order under this section that—
 
 - (a) relates to Welsh expenditure, Scottish expenditure or Northern Ireland expenditure, or
-- (b) would otherwise be likely, in the opinion of the Secretary of State[^key-8df79275fdb0f5e2328c46b1959aea25], to affect persons in Wales, Scotland or Northern Ireland,
+- (b) would otherwise be likely, in the opinion of the Secretary of State[^c-8df79275fdb0f5e2328c46b1959aea25], to affect persons in Wales, Scotland or Northern Ireland,
 
 the Secretary of State shall consult the Welsh Ministers, the Scottish Ministers or the Department of Finance and Personnel in Northern Ireland (as appropriate).
 
 (3) An order under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(4) The Secretary of State[^key-2e96178667a85d1d5d801cb30e46eb2c] may require the Fund to provide such information as is needed for the purpose of exercising his or her powers under this section.
+(4) The Secretary of State[^c-2e96178667a85d1d5d801cb30e46eb2c] may require the Fund to provide such information as is needed for the purpose of exercising his or her powers under this section.
 
-#### 24. Power to add or remove distributors[^key-b02aaf1c31848849f73222e6ad9dc9f8]
+#### 24. Power to add or remove distributors[^c-b02aaf1c31848849f73222e6ad9dc9f8]
 
-(1) The Secretary of State[^key-d6a37f5acf626ccbd5a909afb0885860] may by order amend this Act so that functions exercisable by the body or bodies currently specified in section 16(1) are exercisable instead by the body or bodies specified there as a result of the order.
+(1) The Secretary of State[^c-d6a37f5acf626ccbd5a909afb0885860] may by order amend this Act so that functions exercisable by the body or bodies currently specified in section 16(1) are exercisable instead by the body or bodies specified there as a result of the order.
 
-(2) The Secretary of State[^key-e17cd4e548aabee6f8a1a20d86768f05] may exercise the power conferred by subsection (1) so as to remove from section 16(1) a body that has contravened or failed to comply with a requirement or prohibition imposed on it by or under section 22 or 23.
+(2) The Secretary of State[^c-e17cd4e548aabee6f8a1a20d86768f05] may exercise the power conferred by subsection (1) so as to remove from section 16(1) a body that has contravened or failed to comply with a requirement or prohibition imposed on it by or under section 22 or 23.
 
 This is not to be read as limiting subsection (1).
 
@@ -529,11 +529,11 @@ This is not to be read as limiting subsection (1).
 - (a) make consequential amendments to this Act;
 - (b) make transitional or supplemental provision (including provision amending this Act).
 
-(4) Where two or more bodies are specified in section 16(1) as a result of an order under this section, the order must provide that any amount transferred by a reclaim fund in pursuance of any of the objects[^key-e7bbc375a408f7aa2cd48e2cec44471f] mentioned in section 5(1)(c) to (cb)[^key-de8316b87473804a0c7ecdd8a1d28f36] is to be apportioned between those bodies in the percentages specified in the order.
+(4) Where two or more bodies are specified in section 16(1) as a result of an order under this section, the order must provide that any amount transferred by a reclaim fund in pursuance of any of the objects[^c-e7bbc375a408f7aa2cd48e2cec44471f] mentioned in section 5(1)(c) to (cb)[^c-de8316b87473804a0c7ecdd8a1d28f36] is to be apportioned between those bodies in the percentages specified in the order.
 
 (5) Functions conferred on a body as a result of an order under this section are exercisable notwithstanding anything to the contrary in any enactment or instrument relating to the functions of the body.
 
-(6) Before making an order under this section the Secretary of State[^key-c80d3a81f1f37021c09a4bb821df6793] shall consult—
+(6) Before making an order under this section the Secretary of State[^c-c80d3a81f1f37021c09a4bb821df6793] shall consult—
 
 - (a) the Welsh Ministers;
 - (b) the Scottish Ministers;
@@ -543,44 +543,44 @@ This is not to be read as limiting subsection (1).
 
 ### Supplemental
 
-#### 25. Power of Big Lottery Fund to enter into arrangements[^key-68c19510ed11d7d81c2dbbec5afe4712]
+#### 25. Power of Big Lottery Fund to enter into arrangements[^c-68c19510ed11d7d81c2dbbec5afe4712]
 
 (1) The Big Lottery Fund may enter into arrangements with a body or person (including a reclaim fund) for money that may be or has been paid to the Big Lottery Fund to be held or invested, on its behalf, by that body or person.
 
 (2) The Big Lottery Fund may enter into arrangements with a reclaim fund for payments that the Big Lottery Fund is required to make under section 26(3), (6), (8) or (10) to be made on its behalf by the reclaim fund.
 
-#### 26. Expenses[^key-0e97c31fa153e5edc9487aa2016df65b]
+#### 26. Expenses[^c-0e97c31fa153e5edc9487aa2016df65b]
 
-(1) The Big Lottery Fund may defray out of dormant assets[^key-baab8c15d7577a85792cb6d5e3ce46dc] money any expenses incurred by it in consequence of this Act.
+(1) The Big Lottery Fund may defray out of dormant assets[^c-baab8c15d7577a85792cb6d5e3ce46dc] money any expenses incurred by it in consequence of this Act.
 
 (2) Where the Fund makes an appointment under paragraph 5 of Schedule 3 it may defray out of dormant assets money any expenses incurred by the appointee in consequence of the appointment.
 
-(3) At such times as the Secretary of State[^key-ffa62b1821d1c753a4be06a7ca5d523b] determines to be appropriate, the Big Lottery Fund shall pay into the Consolidated Fund, out of dormant assets money received by it, such amounts as the Secretary of State[^key-d15d4ca35ded99e42cbb38885ee5240c] determines to be appropriate for defraying—
+(3) At such times as the Secretary of State[^c-ffa62b1821d1c753a4be06a7ca5d523b] determines to be appropriate, the Big Lottery Fund shall pay into the Consolidated Fund, out of dormant assets money received by it, such amounts as the Secretary of State[^c-d15d4ca35ded99e42cbb38885ee5240c] determines to be appropriate for defraying—
 
 - (a) expenses incurred or to be incurred by the Secretary of State in respect of the giving of directions under section 22 in relation to English expenditure, and
-- (b) any other expenses incurred or to be incurred by the Secretary of State under this Act or the Dormant Assets Act 2022[^key-b1e0c4a9c4055da1c06d6c73113676fb].
+- (b) any other expenses incurred or to be incurred by the Secretary of State under this Act or the Dormant Assets Act 2022[^c-b1e0c4a9c4055da1c06d6c73113676fb].
 
 (4) Amounts paid under subsection (3)(a) are to be paid out of money apportioned under section 17 for meeting English expenditure.
 
 (5) For the purposes of this section, a direction under section 22 is not to be regarded as a direction given in relation to English expenditure if it is given by virtue only of subsection (4) of that section.
 
-(6) At such times as the Welsh Ministers determine to be appropriate, the Big Lottery Fund shall pay to those ministers, out of money apportioned under section 17 for meeting Welsh expenditure, such amounts as they determine to be appropriate for defraying expenses incurred or to be incurred by them under this Act or the Dormant Assets Act 2022[^key-0b0292ec36e75238efd5e8b193b48e12].
+(6) At such times as the Welsh Ministers determine to be appropriate, the Big Lottery Fund shall pay to those ministers, out of money apportioned under section 17 for meeting Welsh expenditure, such amounts as they determine to be appropriate for defraying expenses incurred or to be incurred by them under this Act or the Dormant Assets Act 2022[^c-0b0292ec36e75238efd5e8b193b48e12].
 
 (7) The power of the Treasury under section 120(3) of the Government of Wales Act 2006 (c. 32) to designate descriptions of sums received by the Welsh Ministers (with the result that they become payable to the Secretary of State) is not exercisable in relation to amounts payable to those Ministers under subsection (6) above.
 
-(8) At such times as the Scottish Ministers determine to be appropriate, the Big Lottery Fund shall pay into the Scottish Consolidated Fund, out of money apportioned under section 17 for meeting Scottish expenditure, such amounts as those ministers determine to be appropriate for defraying expenses incurred or to be incurred by them under this Act or the Dormant Assets Act 2022[^key-98b9a7d4c32fbbc79e8929a262c82cc0].
+(8) At such times as the Scottish Ministers determine to be appropriate, the Big Lottery Fund shall pay into the Scottish Consolidated Fund, out of money apportioned under section 17 for meeting Scottish expenditure, such amounts as those ministers determine to be appropriate for defraying expenses incurred or to be incurred by them under this Act or the Dormant Assets Act 2022[^c-98b9a7d4c32fbbc79e8929a262c82cc0].
 
 (9) The power of the Treasury under section 64(5) of the Scotland Act 1998 (c. 46) to designate descriptions of receipts payable into the Scottish Consolidated Fund (with the result that they become payable to the Secretary of State) is not exercisable in relation to amounts payable into that Fund under subsection (8) above.
 
-(10) At such times as the Department of Finance and Personnel in Northern Ireland determines to be appropriate, the Big Lottery Fund shall pay into the Consolidated Fund of Northern Ireland, out of money apportioned under section 17 for meeting Northern Ireland expenditure, such amounts as that Department determines to be appropriate for defraying expenses incurred or to be incurred by that Department under this Act or the Dormant Assets Act 2022[^key-642c322c4eae98cb65fad28fbe83b812].
+(10) At such times as the Department of Finance and Personnel in Northern Ireland determines to be appropriate, the Big Lottery Fund shall pay into the Consolidated Fund of Northern Ireland, out of money apportioned under section 17 for meeting Northern Ireland expenditure, such amounts as that Department determines to be appropriate for defraying expenses incurred or to be incurred by that Department under this Act or the Dormant Assets Act 2022[^c-642c322c4eae98cb65fad28fbe83b812].
 
 ### Interpretation
 
-#### 27. Interpretation of Part 2[^key-3de65e9ca897efbcb36203702cf7f3ec]
+#### 27. Interpretation of Part 2[^c-3de65e9ca897efbcb36203702cf7f3ec]
 
 (1) In this Part—
 
-- “[^key-3c13cde1cc821a707e36af8408d7a13c]**dormant assets money**” has the meaning given by section 16(2);
+- “[^c-3c13cde1cc821a707e36af8408d7a13c]**dormant assets money**” has the meaning given by section 16(2);
 - “English expenditure”, “Welsh expenditure”, “Scottish expenditure” and “Northern Ireland expenditure” have the meaning given by section 17(2);
 - “**financial year**” means a period of 12 months ending with 31 March;
 - “**reclaim fund**” has the meaning given by section 5(1).
@@ -593,7 +593,7 @@ See also section 16(5).
 
 ### 28. Orders
 
-A power of the Treasury or the Secretary of State[^key-54d764880dd5f96e5055a32b0af6df47] to make an order under this Act is exercisable by statutory instrument.
+A power of the Treasury or the Secretary of State[^c-54d764880dd5f96e5055a32b0af6df47] to make an order under this Act is exercisable by statutory instrument.
 
 ### 29. Directions
 
@@ -624,7 +624,7 @@ SCHEDULES
 
 Section 5
 
-### Assistance to government departments in connection with dormant or unwanted assets[^key-33af3757e56f4cf31eccc9ecffd578a4]
+### Assistance to government departments in connection with dormant or unwanted assets[^c-33af3757e56f4cf31eccc9ecffd578a4]
 
 **A1.** The articles of association of a reclaim fund must make provision for the objects mentioned in paragraph (d) of section 5(1) (objects incidental or conducive to anything mentioned in paragraphs (a) to (cb)) to include the provision to government departments of information, advice or other assistance in connection with—
 
@@ -639,7 +639,7 @@ Section 5
 
 ### Expenses
 
-**1.**[^key-ef46796716b6c753d0870e53a97a85e8] (1) The articles of association of a reclaim fund must make provision—
+**1.**[^c-ef46796716b6c753d0870e53a97a85e8] (1) The articles of association of a reclaim fund must make provision—
 
 - (a) allowing it to defray its expenses out of its income, but
 - (b) preventing the defraying of expenses that are unreasonable, or to the extent that they are unreasonable.
@@ -651,21 +651,21 @@ Section 5
 
 ### No distribution to members
 
-**2.**[^key-968794ce885ab95531a0bb3f21677987] The articles of association of a reclaim fund must make provision preventing a distribution, including a distribution on winding up, of any of its income or assets to its members (except as allowed for by provision made by virtue of paragraph 1).
+**2.**[^c-968794ce885ab95531a0bb3f21677987] The articles of association of a reclaim fund must make provision preventing a distribution, including a distribution on winding up, of any of its income or assets to its members (except as allowed for by provision made by virtue of paragraph 1).
 
 ### Publication of information
 
-**3.**[^key-41a785aed27be4e1cab680649be0bf1d] (1) The articles of association of a reclaim fund must make provision requiring it to publish, as soon as possible after the end of each financial year of the fund—
+**3.**[^c-41a785aed27be4e1cab680649be0bf1d] (1) The articles of association of a reclaim fund must make provision requiring it to publish, as soon as possible after the end of each financial year of the fund—
 
 - (a) its annual accounts and reports for that year (within the meaning given by section 471 of the Companies Act 2006 (c. 46));
-- (b) the name of each institution participating in the dormant assets scheme[^key-3f3d36830c19e5f4a74d8711f1c4bb4d] that transferred money to the fund in that year and the amount transferred by each one;
-- (c) the name of each institution[^key-4ae4de7448d3d477792590effeee86cc] in respect of whose transfers to the reclaim fund[^key-96e7b6f2d5fe7e4012758aa36baefc3f] payments were made from the fund in that year following repayment claims and, in relation to each institution[^key-fbf083fb54e1ad41149c4c45ff3b0dae], the total of the payments made;
+- (b) the name of each institution participating in the dormant assets scheme[^c-3f3d36830c19e5f4a74d8711f1c4bb4d] that transferred money to the fund in that year and the amount transferred by each one;
+- (c) the name of each institution[^c-4ae4de7448d3d477792590effeee86cc] in respect of whose transfers to the reclaim fund[^c-96e7b6f2d5fe7e4012758aa36baefc3f] payments were made from the fund in that year following repayment claims and, in relation to each institution[^c-fbf083fb54e1ad41149c4c45ff3b0dae], the total of the payments made;
 - (d) the total amount transferred in that year to the body or bodies for the time being specified in section 16(1).
 
 (2) For the purposes of sub-paragraph (1)(c)—
 
-- (a) “**repayment claims**” means claims made by virtue of section 1(2)(b) or 2(2)(b) above or section 2[^key-90409858a6aa13bed6bc83a10292c0b0](2)(b), 5(2)(b) or (3)(b), 8(2)(b), 12(2)(b) or 14(2)(b) of the Dormant Assets Act 2022;
-- (b)[^key-e791c0600e1db4c52e6eca0cb26df08f] where a transfer of an amount to the reclaim fund was made as part of a business currently carried on by another institution (“**the successor**”), the transfer is to be treated as having been made by the successor.
+- (a) “**repayment claims**” means claims made by virtue of section 1(2)(b) or 2(2)(b) above or section 2[^c-90409858a6aa13bed6bc83a10292c0b0](2)(b), 5(2)(b) or (3)(b), 8(2)(b), 12(2)(b) or 14(2)(b) of the Dormant Assets Act 2022;
+- (b)[^c-e791c0600e1db4c52e6eca0cb26df08f] where a transfer of an amount to the reclaim fund was made as part of a business currently carried on by another institution (“**the successor**”), the transfer is to be treated as having been made by the successor.
 
 ## SCHEDULE 2 — Amendments to the Financial Services and Markets Act 2000
 
@@ -673,7 +673,7 @@ Section 15
 
 ### Amendments to Part 2
 
-**1.**[^key-9d8cfcb42a08cf9988705dd2cfddf808] (1) Schedule 2 (regulated activities) is amended as follows.
+**1.**[^c-9d8cfcb42a08cf9988705dd2cfddf808] (1) Schedule 2 (regulated activities) is amended as follows.
 
 (2) For the heading to Part 1 there is substituted “Regulated activities: general”.
 
@@ -689,7 +689,7 @@ Section 15
 
 ### Amendments to Part 7
 
-**2.**[^key-d15b7b871f4a9dca978cb214b203008a] After section 106 there is inserted—
+**2.**[^c-d15b7b871f4a9dca978cb214b203008a] After section 106 there is inserted—
 
 > **106A. Reclaim fund business transfer scheme**
 >
@@ -697,9 +697,9 @@ Section 15
 >
 > (2) “**Reclaim fund**” has the meaning given by section 5(1) of the Dormant Bank and Building Society Accounts Act 2008.
 
-**3.**[^key-c439aa0d892445c8efb7c285942f3dbd] In section 107 (application for order sanctioning transfer scheme), in subsection (1), for “or a banking business transfer scheme” there is substituted “, a banking business transfer scheme or a reclaim fund business transfer scheme”.
+**3.**[^c-c439aa0d892445c8efb7c285942f3dbd] In section 107 (application for order sanctioning transfer scheme), in subsection (1), for “or a banking business transfer scheme” there is substituted “, a banking business transfer scheme or a reclaim fund business transfer scheme”.
 
-**4.**[^key-666539defb4f5f1641ba999d6abb1186] (1) Section 111 (sanction of the court for business transfer schemes) is amended as follows.
+**4.**[^c-666539defb4f5f1641ba999d6abb1186] (1) Section 111 (sanction of the court for business transfer schemes) is amended as follows.
 
 (2) In subsection (1), for “or a banking business transfer scheme” there is substituted “, a banking business transfer scheme or a reclaim fund business transfer scheme”.
 
@@ -712,7 +712,7 @@ Section 15
 
   .
 
-**5.**[^key-326a890a6c61c4c2626d0b6692fb5b1c] In Schedule 12, after Part 2 there is inserted—
+**5.**[^c-326a890a6c61c4c2626d0b6692fb5b1c] In Schedule 12, after Part 2 there is inserted—
 
 > **Part 2A — Reclaim fund business transfer schemes**
 >
@@ -722,7 +722,7 @@ Section 15
 
 ### Amendments to Part 24
 
-**6.**[^key-9dafee9e2ee89764faf140ebc55a61ac] (1) Section 359 (administration order) is amended as follows.
+**6.**[^c-9dafee9e2ee89764faf140ebc55a61ac] (1) Section 359 (administration order) is amended as follows.
 
 (2) In subsection (3) (persons treated as unable to pay their debts), the “and” at the end of paragraph (a) is omitted and at the end of paragraph (b) there is inserted
 
@@ -736,7 +736,7 @@ Section 15
 
 .
 
-**7.**[^key-4df07340d687013d395dcbbefd5a60e9] After section 369 there is inserted—
+**7.**[^c-4df07340d687013d395dcbbefd5a60e9] After section 369 there is inserted—
 
 > **369A. Reclaim funds: service of petition etc on Authority**
 >
@@ -754,13 +754,13 @@ Section 16
 
 #### Strategic plans for England
 
-**1.**[^key-5ab7823181c33db9bb9edcf699ff27bc] (1) If the Secretary of State[^key-0b41aab98ef6c18eb13ca1d36c6ef4ab] instructs it to do so, the Big Lottery Fund shall—
+**1.**[^c-5ab7823181c33db9bb9edcf699ff27bc] (1) If the Secretary of State[^c-0b41aab98ef6c18eb13ca1d36c6ef4ab] instructs it to do so, the Big Lottery Fund shall—
 
 - (a) prepare and adopt a strategic plan for England,
 - (b) review and modify any such plan that it has adopted, or
 - (c) replace any such plan that it has adopted by preparing and adopting another.
 
-(2) In this paragraph “**strategic plan for England**” means a statement containing the Fund's policies for the distribution of dormant assets money[^key-b44c073f69c9b22ff1f6ba12851f27de] for meeting English expenditure.
+(2) In this paragraph “**strategic plan for England**” means a statement containing the Fund's policies for the distribution of dormant assets money[^c-b44c073f69c9b22ff1f6ba12851f27de] for meeting English expenditure.
 
 (3) A strategic plan for England must include—
 
@@ -784,7 +784,7 @@ Section 16
 
 #### Strategic plans for Wales
 
-**2.**[^key-60340be7a0c2102c83d5e41627d45f55] (1) If the Welsh Ministers instruct it to do so, the Big Lottery Fund shall—
+**2.**[^c-60340be7a0c2102c83d5e41627d45f55] (1) If the Welsh Ministers instruct it to do so, the Big Lottery Fund shall—
 
 - (a) prepare and adopt a strategic plan for Wales,
 - (b) review and modify any such plan that it has adopted, or
@@ -814,7 +814,7 @@ Section 16
 
 #### Strategic plans for Scotland
 
-**3.**[^key-0edb63e1782a96a3479c106b61c10d8e] (1) If the Scottish Ministers instruct it to do so, the Big Lottery Fund shall—
+**3.**[^c-0edb63e1782a96a3479c106b61c10d8e] (1) If the Scottish Ministers instruct it to do so, the Big Lottery Fund shall—
 
 - (a) prepare and adopt a strategic plan for Scotland,
 - (b) review and modify any such plan that it has adopted, or
@@ -844,7 +844,7 @@ Section 16
 
 #### Strategic plans for Northern Ireland
 
-**4.**[^key-123eef3ec378f5a2ff145400bbd0d3c6] (1) If instructed to do so by the Department of Finance and Personnel in Northern Ireland (“**the Department**”), the Big Lottery Fund shall—
+**4.**[^c-123eef3ec378f5a2ff145400bbd0d3c6] (1) If instructed to do so by the Department of Finance and Personnel in Northern Ireland (“**the Department**”), the Big Lottery Fund shall—
 
 - (a) prepare and adopt a strategic plan for Northern Ireland,
 - (b) review and modify any such plan that it has adopted, or
@@ -876,7 +876,7 @@ Section 16
 
 #### Delegation to other bodies or persons, or to committees
 
-**5.**[^key-c81b9ce47689d7c4179e4db2d5a4c3ee] (1) The Big Lottery Fund may appoint any other body or person to exercise on its behalf any of its dormant assets functions[^key-84d56e5514d89f306a5da283651a1597]—
+**5.**[^c-c81b9ce47689d7c4179e4db2d5a4c3ee] (1) The Big Lottery Fund may appoint any other body or person to exercise on its behalf any of its dormant assets functions[^c-84d56e5514d89f306a5da283651a1597]—
 
 - (a) in any particular case, or
 - (b) in cases of any particular description.
@@ -895,9 +895,9 @@ Section 16
 - (a) the terms of the appointment so permit, and
 - (b) the body has power apart from this paragraph to appoint a member or (as the case may be) an employee or committee of the body to exercise some or all of its functions.
 
-(5) The Fund may establish a committee for the purpose of exercising on its behalf any of its dormant assets functions[^key-15244aae62a0c0ad9e732a90c499fd1d].
+(5) The Fund may establish a committee for the purpose of exercising on its behalf any of its dormant assets functions[^c-15244aae62a0c0ad9e732a90c499fd1d].
 
-(6) A body falling within any paragraph of sub-paragraph (3) may establish a committee for the purpose of exercising on behalf of the Fund any of the Fund's dormant assets functions[^key-011e9afdaffaa1b75896736d156d5660].
+(6) A body falling within any paragraph of sub-paragraph (3) may establish a committee for the purpose of exercising on behalf of the Fund any of the Fund's dormant assets functions[^c-011e9afdaffaa1b75896736d156d5660].
 
 (7) A committee established under sub-paragraph (6)—
 
@@ -906,7 +906,7 @@ Section 16
 
 #### Interpretation of paragraph 5
 
-**6.**[^key-00c35b9cefa028e13a68d6092ac3fcbf] (1) In paragraph 5—
+**6.**[^c-00c35b9cefa028e13a68d6092ac3fcbf] (1) In paragraph 5—
 
 - “**charity**” means a body, or the trustees of a trust, established for charitable purposes only;
 - “**charitable, benevolent or philanthropic institution**” means a body, or the trustees of a trust, that is established—
@@ -915,7 +915,7 @@ Section 16
   - (c) for philanthropic purposes,
 
   and is not a charity;
-- “[^key-a34d701cfa4d4c0a5fae38835209a3d4]**dormant assets functions**” means functions relating to, or connected with, the distribution of dormant assets money (including the function of making decisions as to the persons to whom distributions are to be made).
+- “[^c-a34d701cfa4d4c0a5fae38835209a3d4]**dormant assets functions**” means functions relating to, or connected with, the distribution of dormant assets money (including the function of making decisions as to the persons to whom distributions are to be made).
 
 (2) For the purposes of paragraph 5—
 
@@ -926,7 +926,7 @@ Section 16
 
 #### Provision supplementing paragraph 5
 
-**7.**[^key-96a51e387c405c8935ea45f28c9abeb3] (1) The Big Lottery Fund may make payments in respect of expenditure (which may include expenditure of a capital nature) of a body or person to whom it delegates a function under paragraph 5(1).
+**7.**[^c-96a51e387c405c8935ea45f28c9abeb3] (1) The Big Lottery Fund may make payments in respect of expenditure (which may include expenditure of a capital nature) of a body or person to whom it delegates a function under paragraph 5(1).
 
 (2) Paragraph 5(5) is not to be read as preventing the Fund from—
 
@@ -940,7 +940,7 @@ Section 16
 
 #### New functions for existing devolved expenditure committees
 
-**8.**[^key-f1ab779d60d8c3f95d41f7f98efe31c4] (1) The functions of the committee established under paragraph 7(1)(a) of Schedule 4A to the National Lottery etc. Act 1993 (c. 39) are to include exercising the functions of the Big Lottery Fund under this Act in relation to English expenditure.
+**8.**[^c-f1ab779d60d8c3f95d41f7f98efe31c4] (1) The functions of the committee established under paragraph 7(1)(a) of Schedule 4A to the National Lottery etc. Act 1993 (c. 39) are to include exercising the functions of the Big Lottery Fund under this Act in relation to English expenditure.
 
 (2) The functions of the committee established under paragraph 7(1)(b) of that Schedule are to include exercising the functions of the Fund under this Act in relation to Welsh expenditure.
 
@@ -952,7 +952,7 @@ Section 16
 
 #### Annual reports
 
-**9.**[^key-b0f6e7309ea08f71182e88c431ff7d0e] (1) As soon as possible after the end of every financial year, the Big Lottery Fund shall prepare a report on the exercise during that year of its functions under this Act.
+**9.**[^c-b0f6e7309ea08f71182e88c431ff7d0e] (1) As soon as possible after the end of every financial year, the Big Lottery Fund shall prepare a report on the exercise during that year of its functions under this Act.
 
 (2) The report shall set out any directions given to the Fund under section 22 that had effect during the financial year to which the report relates.
 
@@ -972,7 +972,7 @@ Section 16
 
 #### Accounts
 
-**10.**[^key-f6020dfb4593739a736be50173874d4f] (1) The Big Lottery Fund shall—
+**10.**[^c-f6020dfb4593739a736be50173874d4f] (1) The Big Lottery Fund shall—
 
 - (a) keep proper accounting records relating to the exercise of its functions under this Act, and
 - (b) prepare in respect of each financial year a statement of accounts relating to the exercise of those functions.
@@ -992,7 +992,7 @@ Section 16
 - (a) examine, certify and report on a statement received under this paragraph;
 - (b) lay a copy of the statement and the report on it before Parliament, before the National Assembly for Wales, before the Scottish Parliament and before the Northern Ireland Assembly.
 
-**11.**[^key-106b6fd4ad38e037e48e1361db0052f8] In Schedule 4A to the National Lottery etc. Act 1993 (c. 39) (the Big Lottery Fund), in sub-paragraph (1) of paragraph 21 (accounts)—
+**11.**[^c-106b6fd4ad38e037e48e1361db0052f8] In Schedule 4A to the National Lottery etc. Act 1993 (c. 39) (the Big Lottery Fund), in sub-paragraph (1) of paragraph 21 (accounts)—
 
 - (a) in paragraph (a), after “records” there is inserted “relating to the exercise of its functions under this Act”;
 - (b) for paragraph (b) there is substituted—
@@ -1003,20 +1003,20 @@ Section 16
 
 #### Power to solicit applications
 
-**12.**[^key-aaba94add979789a700e11e04835dabf] (1) The Big Lottery Fund has power to solicit applications from other bodies or persons for dormant assets money.
+**12.**[^c-aaba94add979789a700e11e04835dabf] (1) The Big Lottery Fund has power to solicit applications from other bodies or persons for dormant assets money.
 
 (2) In determining whether a decision of the Fund concerning its distribution of dormant assets money was unlawful, it is immaterial whether or not the Fund, or any person acting on its behalf, solicited an application from a body or person for such money.
 
 #### Power to consult
 
-**13.**[^key-d5af20d506d334d031ac650f30d72404] In determining how to distribute dormant assets money the Big Lottery Fund may—
+**13.**[^c-d5af20d506d334d031ac650f30d72404] In determining how to distribute dormant assets money the Big Lottery Fund may—
 
 - (a) consult any person;
 - (b) take account of opinions expressed to it or information submitted to it.
 
 #### Power to publish information etc
 
-**14.**[^key-55b1040b75ac8e8a6ed38ceed7e61420] (1) The Big Lottery Fund may make or participate in arrangements for—
+**14.**[^c-55b1040b75ac8e8a6ed38ceed7e61420] (1) The Big Lottery Fund may make or participate in arrangements for—
 
 - (a) publishing information relating to the effect of a provision of this Act;
 - (b) publishing information relating to the distribution of dormant assets money or the expenditure of dormant assets money that has been distributed;
@@ -1026,7 +1026,7 @@ Section 16
 
 #### Power to give advice
 
-**15.**[^key-a2b30fabab8e5c11558ce45b26e5a053] The Big Lottery Fund may give advice about—
+**15.**[^c-a2b30fabab8e5c11558ce45b26e5a053] The Big Lottery Fund may give advice about—
 
 - (a) the distribution of dormant assets money;
 - (b) inviting, making or considering applications for grants and loans out of dormant assets money;
@@ -1034,272 +1034,272 @@ Section 16
 
 ## Annotations
 
-[^key-125c5ec80a5896b0b4415e22503db1ba]: Modification: Act modified (21.2.2009) by [Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Schs.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
+[^c-125c5ec80a5896b0b4415e22503db1ba]: Modification: Act modified (21.2.2009) by [Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Schs.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
 
-[^key-acfd47121728a0b3519bae8fee4548af]: Modification: Act applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+[^c-acfd47121728a0b3519bae8fee4548af]: Modification: Act applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
 
-[^key-a92905adb0ad5208da9fa9de0f079f02]: Modification: Act functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 10(2)(f)](https://www.legislation.gov.uk/uksi/2016/997/article/10/2/f) (with [arts. 10(3)](https://www.legislation.gov.uk/uksi/2016/997/article/10/3), [11](https://www.legislation.gov.uk/uksi/2016/997/article/11), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-a92905adb0ad5208da9fa9de0f079f02]: Modification: Act functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 10(2)(f)](https://www.legislation.gov.uk/uksi/2016/997/article/10/2/f) (with [arts. 10(3)](https://www.legislation.gov.uk/uksi/2016/997/article/10/3), [11](https://www.legislation.gov.uk/uksi/2016/997/article/11), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-ebdccef259e721ec1476619497ad44c5]: Modification: Act applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+[^c-ebdccef259e721ec1476619497ad44c5]: Modification: Act applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
 
-[^key-97be7040c5fe62d14f7da6051e4a9627]: Modification: Act construed as one with 2022 c. 5 (24.2.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(2)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/2)[(5)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/5)
+[^c-97be7040c5fe62d14f7da6051e4a9627]: Modification: Act construed as one with 2022 c. 5 (24.2.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(2)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/2)[(5)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/5)
 
-[^key-7efda52b8f534a8b1aa3476d900207a8]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2008/31): power to amend conferred (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 19](https://www.legislation.gov.uk/ukpga/2022/5/section/19), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-7efda52b8f534a8b1aa3476d900207a8]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2008/31): power to amend conferred (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 19](https://www.legislation.gov.uk/ukpga/2022/5/section/19), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-944fee6803b22a32cc355cd37e926f95]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2008/31/section/1) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-944fee6803b22a32cc355cd37e926f95]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2008/31/section/1) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-9795cf12067ec2b16767fc084ade931e]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/2008/31/section/1) applied (6.6.2022) by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [s. 26A(2)(a)](https://www.legislation.gov.uk/ukpga/1992/12/section/26A/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
+[^c-9795cf12067ec2b16767fc084ade931e]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/2008/31/section/1) applied (6.6.2022) by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [s. 26A(2)(a)](https://www.legislation.gov.uk/ukpga/1992/12/section/26A/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
 
-[^key-40717bbeb6a4f95a192c78018cc42afc]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/2008/31/section/1) applied (6.6.2022) by [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9), [s. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/39/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
+[^c-40717bbeb6a4f95a192c78018cc42afc]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/2008/31/section/1) applied (6.6.2022) by [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9), [s. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/39/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
 
-[^key-01de5e4fdbba9853b5785f74c587d2c1]: Textual amendment: [S. 1(2A)](https://www.legislation.gov.uk/ukpga/2008/31/section/1/2A) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/6/1) (with [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/6/2)); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-01de5e4fdbba9853b5785f74c587d2c1]: Textual amendment: [S. 1(2A)](https://www.legislation.gov.uk/ukpga/2008/31/section/1/2A) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/6/1) (with [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/6/2)); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-5d51ac41a83d0f350144d48d59f5934c]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2008/31/section/2) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-5d51ac41a83d0f350144d48d59f5934c]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2008/31/section/2) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-a4656862b5f47c1f7d0d8c87c28f7684]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/2008/31/section/2) applied (6.6.2022) by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [s. 26A(2)(b)](https://www.legislation.gov.uk/ukpga/1992/12/section/26A/2/b) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
+[^c-a4656862b5f47c1f7d0d8c87c28f7684]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/2008/31/section/2) applied (6.6.2022) by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [s. 26A(2)(b)](https://www.legislation.gov.uk/ukpga/1992/12/section/26A/2/b) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
 
-[^key-b8d12820b7b92cd9b0f5ae1d91ca2efa]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/2008/31/section/2) applied (6.6.2022) by [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9), [s. 39(2)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/39/2/b) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
+[^c-b8d12820b7b92cd9b0f5ae1d91ca2efa]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/2008/31/section/2) applied (6.6.2022) by [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9), [s. 39(2)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/39/2/b) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
 
-[^key-a638bd439d33649578d568b73b4e6337]: Textual amendment: [S. 2(7)](https://www.legislation.gov.uk/ukpga/2008/31/section/2/7) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/7/1) (with [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/7/2)); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-a638bd439d33649578d568b73b4e6337]: Textual amendment: [S. 2(7)](https://www.legislation.gov.uk/ukpga/2008/31/section/2/7) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/7/1) (with [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/7/2)); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-ac65d753dfa474b2887e68063f011db4]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/2008/31/section/2A) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 20](https://www.legislation.gov.uk/ukpga/2022/5/section/20), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-ac65d753dfa474b2887e68063f011db4]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/2008/31/section/2A) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 20](https://www.legislation.gov.uk/ukpga/2022/5/section/20), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-ba6f4c6f1caca78162cab9c107811a52]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2008/31/section/3) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-ba6f4c6f1caca78162cab9c107811a52]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2008/31/section/3) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-3aae4b9bba9427ca2e9e3c23be822a0e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2008/31/section/4) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-3aae4b9bba9427ca2e9e3c23be822a0e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2008/31/section/4) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-3371e6dfb187ba5e60f18fa0e8ee6786]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2008/31/section/5) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/490/article/3))
+[^c-3371e6dfb187ba5e60f18fa0e8ee6786]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2008/31/section/5) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/490/article/3))
 
-[^key-0d2400e12003c49b0b4d9d4fef8a41a8]: Textual amendment: Words in [s. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2008/31/section/5/1/b) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/8/2/a); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-0d2400e12003c49b0b4d9d4fef8a41a8]: Textual amendment: Words in [s. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2008/31/section/5/1/b) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/8/2/a); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-8024c8e77e948a473866cdf5bcbeea8d]: Textual amendment: Words in [s. 5(1)(c)](https://www.legislation.gov.uk/ukpga/2008/31/section/5/1/c) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/8/2/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-8024c8e77e948a473866cdf5bcbeea8d]: Textual amendment: Words in [s. 5(1)(c)](https://www.legislation.gov.uk/ukpga/2008/31/section/5/1/c) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/8/2/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-34f154f677692a31b5e0ad5a5bb6b151]: Textual amendment: [S. 5(1)(ca)](https://www.legislation.gov.uk/ukpga/2008/31/section/5/1/ca)[(cb)](https://www.legislation.gov.uk/ukpga/2008/31/section/5/1/cb) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 8(2)(c)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/8/2/c); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-34f154f677692a31b5e0ad5a5bb6b151]: Textual amendment: [S. 5(1)(ca)](https://www.legislation.gov.uk/ukpga/2008/31/section/5/1/ca)[(cb)](https://www.legislation.gov.uk/ukpga/2008/31/section/5/1/cb) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 8(2)(c)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/8/2/c); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-7679c1a622ab52b4728325370e740305]: Textual amendment: Words in [s. 5(1)(d)](https://www.legislation.gov.uk/ukpga/2008/31/section/5/1/d) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 8(2)(d)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/8/2/d); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-7679c1a622ab52b4728325370e740305]: Textual amendment: Words in [s. 5(1)(d)](https://www.legislation.gov.uk/ukpga/2008/31/section/5/1/d) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 8(2)(d)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/8/2/d); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-948bbabea6b21b162724ca6773df1515]: Textual amendment: Words in [s. 5(6)](https://www.legislation.gov.uk/ukpga/2008/31/section/5/6) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 8(3)(a)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/8/3/a); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-948bbabea6b21b162724ca6773df1515]: Textual amendment: Words in [s. 5(6)](https://www.legislation.gov.uk/ukpga/2008/31/section/5/6) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 8(3)(a)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/8/3/a); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-ace2998f90e99068aabecdcd79adad79]: Textual amendment: Words in [s. 5(6)](https://www.legislation.gov.uk/ukpga/2008/31/section/5/6) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/8/3/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-ace2998f90e99068aabecdcd79adad79]: Textual amendment: Words in [s. 5(6)](https://www.legislation.gov.uk/ukpga/2008/31/section/5/6) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/8/3/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-1eb690c1ec82173c9eb6ca31440bdecf]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2008/31/section/6) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-1eb690c1ec82173c9eb6ca31440bdecf]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2008/31/section/6) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-76486b9cb80ff29fb8dc082456e8753e]: Textual amendment: Word in [s. 6](https://www.legislation.gov.uk/ukpga/2008/31/section/6) omitted (6.6.2022) by virtue of [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/9/a); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-76486b9cb80ff29fb8dc082456e8753e]: Textual amendment: Word in [s. 6](https://www.legislation.gov.uk/ukpga/2008/31/section/6) omitted (6.6.2022) by virtue of [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/9/a); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-104188ab49c2282dd16801aac22ad325]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/2008/31/section/6) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/9/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-104188ab49c2282dd16801aac22ad325]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/2008/31/section/6) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/9/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-1875f865948c5af8909587da066de553]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/2008/31/section/6) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 9(c)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/9/c); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-1875f865948c5af8909587da066de553]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/2008/31/section/6) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 9(c)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/9/c); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-82267c1644b4e4e471c0bfdcbb9a2b62]: Commencement: S. 7 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-82267c1644b4e4e471c0bfdcbb9a2b62]: Commencement: S. 7 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-273995a3167629b0f22350cb3d8474a6]: Textual amendment: Words in s. 7(2)(a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 128](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/128) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-273995a3167629b0f22350cb3d8474a6]: Textual amendment: Words in s. 7(2)(a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 128](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/128) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-7af50a70694d383cc54c6ab18c795a0d]: Textual amendment: [S. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2008/31/section/7/2/b) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 40(a)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/40/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7af50a70694d383cc54c6ab18c795a0d]: Textual amendment: [S. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2008/31/section/7/2/b) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 40(a)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/40/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5580821b6b3cf439bfa5a161d904c941]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/ukpga/2008/31/section/7/3) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 40(b)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/40/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5580821b6b3cf439bfa5a161d904c941]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/ukpga/2008/31/section/7/3) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 40(b)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/40/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f426bfac135238b70d9adec333b5cbd7]: Textual amendment: Words in s. 7(5) substituted (31.3.2012) by [The Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011 (S.I. 2011/2832)](https://www.legislation.gov.uk/uksi/2011/2832), [arts. 2(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/2/c), [12(1)](https://www.legislation.gov.uk/uksi/2011/2832/article/12/1)
+[^c-f426bfac135238b70d9adec333b5cbd7]: Textual amendment: Words in s. 7(5) substituted (31.3.2012) by [The Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011 (S.I. 2011/2832)](https://www.legislation.gov.uk/uksi/2011/2832), [arts. 2(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/2/c), [12(1)](https://www.legislation.gov.uk/uksi/2011/2832/article/12/1)
 
-[^key-71cb25c8bb71fa098887585449b7ebe6]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2008/31/section/8) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-71cb25c8bb71fa098887585449b7ebe6]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2008/31/section/8) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-aba780281147c84fe3cab22fcc20d72e]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2008/31/section/9) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-aba780281147c84fe3cab22fcc20d72e]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2008/31/section/9) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-9dd30cb3d7f256783150ccd5e8c86148]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2008/31/section/10) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-9dd30cb3d7f256783150ccd5e8c86148]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2008/31/section/10) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-f33005f9b309dd52d4e40b7746b24bdb]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/2008/31/section/11) repealed (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2022/5/section/32/1), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3) (with [s. 32(2)](https://www.legislation.gov.uk/ukpga/2022/5/section/32/2)); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-f33005f9b309dd52d4e40b7746b24bdb]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/2008/31/section/11) repealed (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2022/5/section/32/1), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3) (with [s. 32(2)](https://www.legislation.gov.uk/ukpga/2022/5/section/32/2)); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-c5a689e8194db6b82f7d97b7682e8e30]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/2008/31/section/12) repealed (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2022/5/section/32/1), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-c5a689e8194db6b82f7d97b7682e8e30]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/2008/31/section/12) repealed (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2022/5/section/32/1), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-465fd4934565dba768ee5c681a216c53]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2008/31/section/13) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-465fd4934565dba768ee5c681a216c53]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2008/31/section/13) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-5f867064511cd65404c42a7964fe673b]: Textual amendment: Words in [s. 13(1)(b)](https://www.legislation.gov.uk/ukpga/2008/31/section/13/1/b) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/10); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-5f867064511cd65404c42a7964fe673b]: Textual amendment: Words in [s. 13(1)(b)](https://www.legislation.gov.uk/ukpga/2008/31/section/13/1/b) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/10); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-a301f54e5e0d00aec65147dfce5cda94]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/2008/31/section/14) repealed (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2022/5/section/32/1), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-a301f54e5e0d00aec65147dfce5cda94]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/2008/31/section/14) repealed (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2022/5/section/32/1), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-c590555ba25d08afcc92a758df21b9df]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2008/31/section/15) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-c590555ba25d08afcc92a758df21b9df]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2008/31/section/15) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-e6fe0e39c1a66af128840db15b2786a8]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ukpga/2008/31/part/2) heading substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/11); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-e6fe0e39c1a66af128840db15b2786a8]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ukpga/2008/31/part/2) heading substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/11); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-30a5a843f19002557ef647d35bbc8522]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2008/31/section/16) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-30a5a843f19002557ef647d35bbc8522]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2008/31/section/16) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-9ef11189b69c270e2d6f8f8705215460]: Textual amendment: Words in [s. 16 heading](https://www.legislation.gov.uk/ukpga/2008/31/part/2/crossheading/the-distribution-system-general) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(a)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/a); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-9ef11189b69c270e2d6f8f8705215460]: Textual amendment: Words in [s. 16 heading](https://www.legislation.gov.uk/ukpga/2008/31/part/2/crossheading/the-distribution-system-general) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(a)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/a); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-0ede35c9cd0e6271d710ef1f9c7846c6]: Textual amendment: Words in [s. 16(1)](https://www.legislation.gov.uk/ukpga/2008/31/section/16/1) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-0ede35c9cd0e6271d710ef1f9c7846c6]: Textual amendment: Words in [s. 16(1)](https://www.legislation.gov.uk/ukpga/2008/31/section/16/1) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-3374f178e3a730fef7a4ee979624ea3d]: Textual amendment: Words in [s. 16(2)](https://www.legislation.gov.uk/ukpga/2008/31/section/16/2) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(2)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/2); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-3374f178e3a730fef7a4ee979624ea3d]: Textual amendment: Words in [s. 16(2)](https://www.legislation.gov.uk/ukpga/2008/31/section/16/2) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(2)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/2); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-81e737cb96cae78e8e7087b1b832233c]: Textual amendment: Words in [s. 16(2)](https://www.legislation.gov.uk/ukpga/2008/31/section/16/2) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 13(a)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/13/a); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-81e737cb96cae78e8e7087b1b832233c]: Textual amendment: Words in [s. 16(2)](https://www.legislation.gov.uk/ukpga/2008/31/section/16/2) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 13(a)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/13/a); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-16cf3969b2f3952786c7767d81c73595]: Textual amendment: Words in [s. 16(2)](https://www.legislation.gov.uk/ukpga/2008/31/section/16/2) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 13(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/13/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-16cf3969b2f3952786c7767d81c73595]: Textual amendment: Words in [s. 16(2)](https://www.legislation.gov.uk/ukpga/2008/31/section/16/2) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 13(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/13/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-1a9e7e51987c20231f95870da06ecf01]: Textual amendment: Words in [s. 16(6)](https://www.legislation.gov.uk/ukpga/2008/31/section/16/6) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-1a9e7e51987c20231f95870da06ecf01]: Textual amendment: Words in [s. 16(6)](https://www.legislation.gov.uk/ukpga/2008/31/section/16/6) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-995f822c967c763aabe9aca1e52579a0]: Commencement: S. 17 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-995f822c967c763aabe9aca1e52579a0]: Commencement: S. 17 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-183d1dfe3a3134d90b3e8c1788311d2d]: Textual amendment: Words in [s. 17 heading](https://www.legislation.gov.uk/ukpga/2008/31/part/2/crossheading/the-distribution-system-general) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(a)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/a); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-183d1dfe3a3134d90b3e8c1788311d2d]: Textual amendment: Words in [s. 17 heading](https://www.legislation.gov.uk/ukpga/2008/31/part/2/crossheading/the-distribution-system-general) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(a)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/a); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-d815a815bc7ce9c716f1aa19ba9ebd55]: Textual amendment: Words in [s. 17(3)](https://www.legislation.gov.uk/ukpga/2008/31/section/17/3) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-d815a815bc7ce9c716f1aa19ba9ebd55]: Textual amendment: Words in [s. 17(3)](https://www.legislation.gov.uk/ukpga/2008/31/section/17/3) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-74f508098d39e268ee3691f6691d1ccf]: Textual amendment: Words in s. 17(4) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(a)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-74f508098d39e268ee3691f6691d1ccf]: Textual amendment: Words in s. 17(4) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(a)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-c39bbe5dc794fe9af6c9fb638baf0f2a]: Textual amendment: Words in s. 17(5) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(a)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-c39bbe5dc794fe9af6c9fb638baf0f2a]: Textual amendment: Words in s. 17(5) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(a)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-335bf5b0d927cf6e3f94c31884a8e657]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2008/31/section/18) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-335bf5b0d927cf6e3f94c31884a8e657]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2008/31/section/18) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-31a69233cb96222e87a794fed8ab61d7]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/2008/31/section/18) repealed (6.6.2022 with effect in accordance with [s. 29(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/3) of the amending Act) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 29(2)(a)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/2/a), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3) (with [s. 29(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/3)); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-31a69233cb96222e87a794fed8ab61d7]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/2008/31/section/18) repealed (6.6.2022 with effect in accordance with [s. 29(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/3) of the amending Act) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 29(2)(a)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/2/a), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3) (with [s. 29(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/3)); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-c26c1143793ac054afb9b4027f6f2d6a]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/2008/31/section/18/1) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-c26c1143793ac054afb9b4027f6f2d6a]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/2008/31/section/18/1) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-6a7046b8d8c6af0ebedd7b2059afc80b]: Textual amendment: [S. 18A](https://www.legislation.gov.uk/ukpga/2008/31/section/18A) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 29(1)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/1), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3) (with [s. 29(4)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/4)); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-6a7046b8d8c6af0ebedd7b2059afc80b]: Textual amendment: [S. 18A](https://www.legislation.gov.uk/ukpga/2008/31/section/18A) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 29(1)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/1), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3) (with [s. 29(4)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/4)); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-65499b914f49b7c0f5f627aca6cb5374]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2008/31/section/19) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-65499b914f49b7c0f5f627aca6cb5374]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2008/31/section/19) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-2bf1a2bd2987ff3ed7143aa414fcc0b4]: Textual amendment: Words in [s. 19(1)](https://www.legislation.gov.uk/ukpga/2008/31/section/19/1) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-2bf1a2bd2987ff3ed7143aa414fcc0b4]: Textual amendment: Words in [s. 19(1)](https://www.legislation.gov.uk/ukpga/2008/31/section/19/1) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-057b8bb92ab64a34a2f8a3ec21c80412]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2008/31/section/20) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-057b8bb92ab64a34a2f8a3ec21c80412]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2008/31/section/20) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-c1462e8d2d0fe4ec31a4edf75da67278]: Textual amendment: Words in [s. 20(1)](https://www.legislation.gov.uk/ukpga/2008/31/section/20/1) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-c1462e8d2d0fe4ec31a4edf75da67278]: Textual amendment: Words in [s. 20(1)](https://www.legislation.gov.uk/ukpga/2008/31/section/20/1) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-afcd17cbb89f909a25cfe685c977b4e6]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2008/31/section/21) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-afcd17cbb89f909a25cfe685c977b4e6]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2008/31/section/21) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-e83d819a55d27a9ae4d2459aa1e95ece]: Textual amendment: Words in [s. 21(1)](https://www.legislation.gov.uk/ukpga/2008/31/section/21/1) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-e83d819a55d27a9ae4d2459aa1e95ece]: Textual amendment: Words in [s. 21(1)](https://www.legislation.gov.uk/ukpga/2008/31/section/21/1) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-65aec972e967af8d34dae64bc358be8a]: Textual amendment: Words in cross-heading substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(b)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/b) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-65aec972e967af8d34dae64bc358be8a]: Textual amendment: Words in cross-heading substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(b)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/b) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-9eacaeae511941ed3709e60bf1ad705a]: Commencement: S. 22 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-9eacaeae511941ed3709e60bf1ad705a]: Commencement: S. 22 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-87178e29c0838e3c19fd84a5e0ea5e5f]: Textual amendment: Words in s. 22(2) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(c)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/c) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-87178e29c0838e3c19fd84a5e0ea5e5f]: Textual amendment: Words in s. 22(2) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(c)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/c) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-39a840d2690d739aa9f504426f582f77]: Textual amendment: Words in s. 22(4)(e)(ii) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(3)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/3) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-39a840d2690d739aa9f504426f582f77]: Textual amendment: Words in s. 22(4)(e)(ii) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(3)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/3) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-ea93054193f59450ba8325aba3c4ea44]: Textual amendment: Words in s. 22(4)(e)(iii) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(c)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/c) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-ea93054193f59450ba8325aba3c4ea44]: Textual amendment: Words in s. 22(4)(e)(iii) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(c)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/c) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-c82797ed14a4f0ca01ee1aa09616bdde]: Textual amendment: Words in s. 22(5) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(c)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/c) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-c82797ed14a4f0ca01ee1aa09616bdde]: Textual amendment: Words in s. 22(5) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(c)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/c) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-73ab2236891343cf823abd20f777bbcc]: Textual amendment: Words in [s. 22(6)(b)](https://www.legislation.gov.uk/ukpga/2008/31/section/22/6/b) omitted (6.6.2022 with effect in accordance with [s. 29(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/3) of the amending Act) by virtue of [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 29(2)(b)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/2/b), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3) (with [s. 29(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/3)); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-73ab2236891343cf823abd20f777bbcc]: Textual amendment: Words in [s. 22(6)(b)](https://www.legislation.gov.uk/ukpga/2008/31/section/22/6/b) omitted (6.6.2022 with effect in accordance with [s. 29(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/3) of the amending Act) by virtue of [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 29(2)(b)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/2/b), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3) (with [s. 29(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/3)); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-cf47a7712a615d920e2c793d8a08b2c8]: Textual amendment: Word in [s. 22(6)(b)](https://www.legislation.gov.uk/ukpga/2008/31/section/22/6/b) inserted (6.6.2022 with effect in accordance with [s. 29(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/3) of the amending Act) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 29(2)(b)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/2/b), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3) (with [s. 29(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/3)); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-cf47a7712a615d920e2c793d8a08b2c8]: Textual amendment: Word in [s. 22(6)(b)](https://www.legislation.gov.uk/ukpga/2008/31/section/22/6/b) inserted (6.6.2022 with effect in accordance with [s. 29(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/3) of the amending Act) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 29(2)(b)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/2/b), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3) (with [s. 29(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/29/3)); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-93a02418faab42616c7aab3a82981b93]: Commencement: S. 23 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-93a02418faab42616c7aab3a82981b93]: Commencement: S. 23 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-b49d2519ae6ab3c449852a513db15a77]: Textual amendment: Words in s. 23(1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(d)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/d) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-b49d2519ae6ab3c449852a513db15a77]: Textual amendment: Words in s. 23(1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(d)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/d) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-32a2a81abeda509b8ec05fee58f03b34]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/ukpga/2008/31/section/23/1) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-32a2a81abeda509b8ec05fee58f03b34]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/ukpga/2008/31/section/23/1) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-1aa7f1bf732983cb0443e3630c27f062]: Textual amendment: Words in s. 23(1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(4)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/4) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-1aa7f1bf732983cb0443e3630c27f062]: Textual amendment: Words in s. 23(1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(4)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/4) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-8df79275fdb0f5e2328c46b1959aea25]: Textual amendment: Words in s. 23(2) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(d)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/d) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-8df79275fdb0f5e2328c46b1959aea25]: Textual amendment: Words in s. 23(2) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(d)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/d) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-2e96178667a85d1d5d801cb30e46eb2c]: Textual amendment: Words in s. 23(4) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(d)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/d) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-2e96178667a85d1d5d801cb30e46eb2c]: Textual amendment: Words in s. 23(4) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(d)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/d) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-b02aaf1c31848849f73222e6ad9dc9f8]: Commencement: S. 24 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-b02aaf1c31848849f73222e6ad9dc9f8]: Commencement: S. 24 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-d6a37f5acf626ccbd5a909afb0885860]: Textual amendment: Words in s. 24(1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(e)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/e) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-d6a37f5acf626ccbd5a909afb0885860]: Textual amendment: Words in s. 24(1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(e)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/e) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-e17cd4e548aabee6f8a1a20d86768f05]: Textual amendment: Words in s. 24(2) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(e)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/e) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-e17cd4e548aabee6f8a1a20d86768f05]: Textual amendment: Words in s. 24(2) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(e)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/e) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-e7bbc375a408f7aa2cd48e2cec44471f]: Textual amendment: Words in [s. 24(4)](https://www.legislation.gov.uk/ukpga/2008/31/section/24/4) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 14(a)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/14/a); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-e7bbc375a408f7aa2cd48e2cec44471f]: Textual amendment: Words in [s. 24(4)](https://www.legislation.gov.uk/ukpga/2008/31/section/24/4) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 14(a)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/14/a); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-de8316b87473804a0c7ecdd8a1d28f36]: Textual amendment: Words in [s. 24(4)](https://www.legislation.gov.uk/ukpga/2008/31/section/24/4) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 14(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/14/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-de8316b87473804a0c7ecdd8a1d28f36]: Textual amendment: Words in [s. 24(4)](https://www.legislation.gov.uk/ukpga/2008/31/section/24/4) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 14(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/14/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-c80d3a81f1f37021c09a4bb821df6793]: Textual amendment: Words in s. 24(6) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(e)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/e) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-c80d3a81f1f37021c09a4bb821df6793]: Textual amendment: Words in s. 24(6) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(e)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/e) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-68c19510ed11d7d81c2dbbec5afe4712]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2008/31/section/25) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-68c19510ed11d7d81c2dbbec5afe4712]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2008/31/section/25) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-0e97c31fa153e5edc9487aa2016df65b]: Commencement: S. 26 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-0e97c31fa153e5edc9487aa2016df65b]: Commencement: S. 26 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-baab8c15d7577a85792cb6d5e3ce46dc]: Textual amendment: Words in [s. 26(1)-(3)](https://www.legislation.gov.uk/ukpga/2008/31/section/26/1) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-baab8c15d7577a85792cb6d5e3ce46dc]: Textual amendment: Words in [s. 26(1)-(3)](https://www.legislation.gov.uk/ukpga/2008/31/section/26/1) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/1/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-ffa62b1821d1c753a4be06a7ca5d523b]: Textual amendment: Words in s. 26(3) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(f)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/f) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-ffa62b1821d1c753a4be06a7ca5d523b]: Textual amendment: Words in s. 26(3) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(f)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/f) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-d15d4ca35ded99e42cbb38885ee5240c]: Textual amendment: Words in s. 26(3) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(4)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/4) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-d15d4ca35ded99e42cbb38885ee5240c]: Textual amendment: Words in s. 26(3) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(4)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/4) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-b1e0c4a9c4055da1c06d6c73113676fb]: Textual amendment: Words in [s. 26(3)(b)](https://www.legislation.gov.uk/ukpga/2008/31/section/26/3/b) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/15); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-b1e0c4a9c4055da1c06d6c73113676fb]: Textual amendment: Words in [s. 26(3)(b)](https://www.legislation.gov.uk/ukpga/2008/31/section/26/3/b) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/15); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-0b0292ec36e75238efd5e8b193b48e12]: Textual amendment: Words in [s. 26(6)](https://www.legislation.gov.uk/ukpga/2008/31/section/26/6) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/15); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-0b0292ec36e75238efd5e8b193b48e12]: Textual amendment: Words in [s. 26(6)](https://www.legislation.gov.uk/ukpga/2008/31/section/26/6) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/15); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-98b9a7d4c32fbbc79e8929a262c82cc0]: Textual amendment: Words in [s. 26(8)](https://www.legislation.gov.uk/ukpga/2008/31/section/26/8) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/15); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-98b9a7d4c32fbbc79e8929a262c82cc0]: Textual amendment: Words in [s. 26(8)](https://www.legislation.gov.uk/ukpga/2008/31/section/26/8) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/15); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-642c322c4eae98cb65fad28fbe83b812]: Textual amendment: Words in [s. 26(10)](https://www.legislation.gov.uk/ukpga/2008/31/section/26/10) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/15); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-642c322c4eae98cb65fad28fbe83b812]: Textual amendment: Words in [s. 26(10)](https://www.legislation.gov.uk/ukpga/2008/31/section/26/10) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/15); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-3de65e9ca897efbcb36203702cf7f3ec]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2008/31/section/27) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-3de65e9ca897efbcb36203702cf7f3ec]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2008/31/section/27) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-3c13cde1cc821a707e36af8408d7a13c]: Textual amendment: Words in [s. 27(1)](https://www.legislation.gov.uk/ukpga/2008/31/section/27/1) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(2)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/2); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-3c13cde1cc821a707e36af8408d7a13c]: Textual amendment: Words in [s. 27(1)](https://www.legislation.gov.uk/ukpga/2008/31/section/27/1) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(2)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/2); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-54d764880dd5f96e5055a32b0af6df47]: Textual amendment: Words in s. 28 substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(g)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/g) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-54d764880dd5f96e5055a32b0af6df47]: Textual amendment: Words in s. 28 substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(g)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/g) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-33af3757e56f4cf31eccc9ecffd578a4]: Textual amendment: [Sch. 1 para. A1](https://www.legislation.gov.uk/ukpga/2008/31/schedule/1/paragraph/A1) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 16(2)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/16/2); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-33af3757e56f4cf31eccc9ecffd578a4]: Textual amendment: [Sch. 1 para. A1](https://www.legislation.gov.uk/ukpga/2008/31/schedule/1/paragraph/A1) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 16(2)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/16/2); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-ef46796716b6c753d0870e53a97a85e8]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2008/31/schedule/1/paragraph/1) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2009/490/article/3/2))
+[^c-ef46796716b6c753d0870e53a97a85e8]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2008/31/schedule/1/paragraph/1) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2009/490/article/3/2))
 
-[^key-968794ce885ab95531a0bb3f21677987]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2008/31/schedule/1/paragraph/2) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2009/490/article/3/2))
+[^c-968794ce885ab95531a0bb3f21677987]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2008/31/schedule/1/paragraph/2) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2009/490/article/3/2))
 
-[^key-41a785aed27be4e1cab680649be0bf1d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2008/31/schedule/1/paragraph/3) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-41a785aed27be4e1cab680649be0bf1d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2008/31/schedule/1/paragraph/3) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-3f3d36830c19e5f4a74d8711f1c4bb4d]: Textual amendment: Words in [Sch. 1 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2008/31/schedule/1/paragraph/3/1/b) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/16/3/a); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-3f3d36830c19e5f4a74d8711f1c4bb4d]: Textual amendment: Words in [Sch. 1 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2008/31/schedule/1/paragraph/3/1/b) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/16/3/a); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-4ae4de7448d3d477792590effeee86cc]: Textual amendment: Word in [Sch. 1 para. 3(1)(c)](https://www.legislation.gov.uk/ukpga/2008/31/schedule/1/paragraph/3/1/c) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 16(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/16/3/b/i); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-4ae4de7448d3d477792590effeee86cc]: Textual amendment: Word in [Sch. 1 para. 3(1)(c)](https://www.legislation.gov.uk/ukpga/2008/31/schedule/1/paragraph/3/1/c) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 16(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/16/3/b/i); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-96e7b6f2d5fe7e4012758aa36baefc3f]: Textual amendment: Words in [Sch. 1 para. 3(1)(c)](https://www.legislation.gov.uk/ukpga/2008/31/schedule/1/paragraph/3/1/c) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 16(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/16/3/b/ii); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-96e7b6f2d5fe7e4012758aa36baefc3f]: Textual amendment: Words in [Sch. 1 para. 3(1)(c)](https://www.legislation.gov.uk/ukpga/2008/31/schedule/1/paragraph/3/1/c) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 16(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/16/3/b/ii); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-fbf083fb54e1ad41149c4c45ff3b0dae]: Textual amendment: Word in [Sch. 1 para. 3(1)(c)](https://www.legislation.gov.uk/ukpga/2008/31/schedule/1/paragraph/3/1/c) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 16(3)(b)(iii)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/16/3/b/iii); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-fbf083fb54e1ad41149c4c45ff3b0dae]: Textual amendment: Word in [Sch. 1 para. 3(1)(c)](https://www.legislation.gov.uk/ukpga/2008/31/schedule/1/paragraph/3/1/c) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 16(3)(b)(iii)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/16/3/b/iii); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-90409858a6aa13bed6bc83a10292c0b0]: Textual amendment: Words in [Sch. 1 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2008/31/schedule/1/paragraph/3/2/a) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 16(3)(c)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/16/3/c); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-90409858a6aa13bed6bc83a10292c0b0]: Textual amendment: Words in [Sch. 1 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2008/31/schedule/1/paragraph/3/2/a) inserted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 16(3)(c)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/16/3/c); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-e791c0600e1db4c52e6eca0cb26df08f]: Textual amendment: [Sch. 1 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2008/31/schedule/1/paragraph/3/2/b) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 16(3)(d)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/16/3/d); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-e791c0600e1db4c52e6eca0cb26df08f]: Textual amendment: [Sch. 1 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2008/31/schedule/1/paragraph/3/2/b) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 16(3)(d)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/16/3/d); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-9d8cfcb42a08cf9988705dd2cfddf808]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2008/31/schedule/2/paragraph/1) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-9d8cfcb42a08cf9988705dd2cfddf808]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2008/31/schedule/2/paragraph/1) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-d15b7b871f4a9dca978cb214b203008a]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2008/31/schedule/2/paragraph/2) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-d15b7b871f4a9dca978cb214b203008a]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2008/31/schedule/2/paragraph/2) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-c439aa0d892445c8efb7c285942f3dbd]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2008/31/schedule/2/paragraph/3) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-c439aa0d892445c8efb7c285942f3dbd]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2008/31/schedule/2/paragraph/3) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-666539defb4f5f1641ba999d6abb1186]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2008/31/schedule/2/paragraph/4) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-666539defb4f5f1641ba999d6abb1186]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2008/31/schedule/2/paragraph/4) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-326a890a6c61c4c2626d0b6692fb5b1c]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2008/31/schedule/2/paragraph/5) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-326a890a6c61c4c2626d0b6692fb5b1c]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2008/31/schedule/2/paragraph/5) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-9dafee9e2ee89764faf140ebc55a61ac]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2008/31/schedule/2/paragraph/6) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-9dafee9e2ee89764faf140ebc55a61ac]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2008/31/schedule/2/paragraph/6) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-4df07340d687013d395dcbbefd5a60e9]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2008/31/schedule/2/paragraph/7) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-4df07340d687013d395dcbbefd5a60e9]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2008/31/schedule/2/paragraph/7) in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-5ab7823181c33db9bb9edcf699ff27bc]: Commencement: Sch. 3 para. 1 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-5ab7823181c33db9bb9edcf699ff27bc]: Commencement: Sch. 3 para. 1 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-0b41aab98ef6c18eb13ca1d36c6ef4ab]: Textual amendment: Words in Sch. 3 substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(h)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/h) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-0b41aab98ef6c18eb13ca1d36c6ef4ab]: Textual amendment: Words in Sch. 3 substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 20(2)(h)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/20/2/h) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-b44c073f69c9b22ff1f6ba12851f27de]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/ukpga/2008/31/schedule/3) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(3)(a)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/3/a); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-b44c073f69c9b22ff1f6ba12851f27de]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/ukpga/2008/31/schedule/3) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(3)(a)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/3/a); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-60340be7a0c2102c83d5e41627d45f55]: Commencement: Sch. 3 para. 2 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-60340be7a0c2102c83d5e41627d45f55]: Commencement: Sch. 3 para. 2 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-0edb63e1782a96a3479c106b61c10d8e]: Commencement: Sch. 3 para. 3 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-0edb63e1782a96a3479c106b61c10d8e]: Commencement: Sch. 3 para. 3 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-123eef3ec378f5a2ff145400bbd0d3c6]: Commencement: Sch. 3 para. 4 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-123eef3ec378f5a2ff145400bbd0d3c6]: Commencement: Sch. 3 para. 4 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-c81b9ce47689d7c4179e4db2d5a4c3ee]: Commencement: Sch. 3 para. 5 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-c81b9ce47689d7c4179e4db2d5a4c3ee]: Commencement: Sch. 3 para. 5 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-84d56e5514d89f306a5da283651a1597]: Textual amendment: Words in [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/ukpga/2008/31/schedule/3/paragraph/5/1) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/3/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-84d56e5514d89f306a5da283651a1597]: Textual amendment: Words in [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/ukpga/2008/31/schedule/3/paragraph/5/1) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/3/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-15244aae62a0c0ad9e732a90c499fd1d]: Textual amendment: Words in [Sch. 3 para. 5(5)](https://www.legislation.gov.uk/ukpga/2008/31/schedule/3/paragraph/5/5) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/3/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-15244aae62a0c0ad9e732a90c499fd1d]: Textual amendment: Words in [Sch. 3 para. 5(5)](https://www.legislation.gov.uk/ukpga/2008/31/schedule/3/paragraph/5/5) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/3/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-011e9afdaffaa1b75896736d156d5660]: Textual amendment: Words in [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/2008/31/schedule/3/paragraph/5/6) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/3/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-011e9afdaffaa1b75896736d156d5660]: Textual amendment: Words in [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/2008/31/schedule/3/paragraph/5/6) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/3/b); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-00c35b9cefa028e13a68d6092ac3fcbf]: Commencement: Sch. 3 para. 6 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-00c35b9cefa028e13a68d6092ac3fcbf]: Commencement: Sch. 3 para. 6 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-a34d701cfa4d4c0a5fae38835209a3d4]: Textual amendment: Words in [Sch. 3 para. 6(1)](https://www.legislation.gov.uk/ukpga/2008/31/schedule/3/paragraph/6/1) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(3)(c)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/3/c); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-a34d701cfa4d4c0a5fae38835209a3d4]: Textual amendment: Words in [Sch. 3 para. 6(1)](https://www.legislation.gov.uk/ukpga/2008/31/schedule/3/paragraph/6/1) substituted (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 12(3)(c)](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12/3/c); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-96a51e387c405c8935ea45f28c9abeb3]: Commencement: Sch. 3 para. 7 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-96a51e387c405c8935ea45f28c9abeb3]: Commencement: Sch. 3 para. 7 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-f1ab779d60d8c3f95d41f7f98efe31c4]: Commencement: Sch. 3 para. 8 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-f1ab779d60d8c3f95d41f7f98efe31c4]: Commencement: Sch. 3 para. 8 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-b0f6e7309ea08f71182e88c431ff7d0e]: Commencement: Sch. 3 para. 9 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-b0f6e7309ea08f71182e88c431ff7d0e]: Commencement: Sch. 3 para. 9 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-f6020dfb4593739a736be50173874d4f]: Commencement: Sch. 3 para. 10 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-f6020dfb4593739a736be50173874d4f]: Commencement: Sch. 3 para. 10 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-106b6fd4ad38e037e48e1361db0052f8]: Commencement: Sch. 3 para. 11 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-106b6fd4ad38e037e48e1361db0052f8]: Commencement: Sch. 3 para. 11 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-aaba94add979789a700e11e04835dabf]: Commencement: Sch. 3 para. 12 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-aaba94add979789a700e11e04835dabf]: Commencement: Sch. 3 para. 12 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-d5af20d506d334d031ac650f30d72404]: Commencement: Sch. 3 para. 13 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-d5af20d506d334d031ac650f30d72404]: Commencement: Sch. 3 para. 13 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-55b1040b75ac8e8a6ed38ceed7e61420]: Commencement: Sch. 3 para. 14 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-55b1040b75ac8e8a6ed38ceed7e61420]: Commencement: Sch. 3 para. 14 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
 
-[^key-a2b30fabab8e5c11558ce45b26e5a053]: Commencement: Sch. 3 para. 15 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)
+[^c-a2b30fabab8e5c11558ce45b26e5a053]: Commencement: Sch. 3 para. 15 in force at 12.3.2009 by [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2)

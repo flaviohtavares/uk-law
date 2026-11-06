@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Treasury power in relation to rules[^key-d4b122146ad4a8aabfd39fc222e2c99f][^key-7ce10bb59d4ced3a720a259886f883ec]
+## 30. Treasury power in relation to rules[^c-d4b122146ad4a8aabfd39fc222e2c99f][^c-7ce10bb59d4ced3a720a259886f883ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4b122146ad4a8aabfd39fc222e2c99f]: Commencement: S. 30 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-d4b122146ad4a8aabfd39fc222e2c99f]: Commencement: S. 30 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-7ce10bb59d4ced3a720a259886f883ec]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2023/29/section/30) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(u)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/u)
+[^c-7ce10bb59d4ced3a720a259886f883ec]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2023/29/section/30) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(u)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/u)

@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-351e939c3fe68d07a1727f52b6822441] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-351e939c3fe68d07a1727f52b6822441] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where the Secretary of State or a person appointed by him under Schedule 4 to determine an appeal grants a certificate under section 150 or 151, the Secretary of State or that person shall give notice to the planning authority of that fact.
 
 ## Annotations
 
-[^key-351e939c3fe68d07a1727f52b6822441]: Textual amendment: S. 155(1) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 9(2)(f)](https://www.legislation.gov.uk/ssi/2009/222/article/9/2/f)); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-351e939c3fe68d07a1727f52b6822441]: Textual amendment: S. 155(1) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 9(2)(f)](https://www.legislation.gov.uk/ssi/2009/222/article/9/2/f)); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

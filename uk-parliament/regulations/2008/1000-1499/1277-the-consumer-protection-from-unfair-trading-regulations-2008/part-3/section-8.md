@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Offences relating to unfair commercial practices[^key-5bd671bee5a2362a1f43e02fa5790a27]
+## 8. Offences relating to unfair commercial practices[^c-5bd671bee5a2362a1f43e02fa5790a27]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,14 +24,14 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-5bd671bee5a2362a1f43e02fa5790a27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-5bd671bee5a2362a1f43e02fa5790a27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-5bd671bee5a2362a1f43e02fa5790a27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-5bd671bee5a2362a1f43e02fa5790a27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-5bd671bee5a2362a1f43e02fa5790a27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-5bd671bee5a2362a1f43e02fa5790a27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-5bd671bee5a2362a1f43e02fa5790a27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-5bd671bee5a2362a1f43e02fa5790a27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5bd671bee5a2362a1f43e02fa5790a27]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1277) revoked (6.4.2025 with transitional provisions and savings in relation to Pt. 4A, which is continued until regulations are made under s. 233 of the revoking Act) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 251(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/251/1), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1) (with [ss. 235](https://www.legislation.gov.uk/ukpga/2024/13/section/235), [243](https://www.legislation.gov.uk/ukpga/2024/13/section/243), [252](https://www.legislation.gov.uk/ukpga/2024/13/section/252)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-5bd671bee5a2362a1f43e02fa5790a27]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1277) revoked (6.4.2025 with transitional provisions and savings in relation to Pt. 4A, which is continued until regulations are made under s. 233 of the revoking Act) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 251(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/251/1), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1) (with [ss. 235](https://www.legislation.gov.uk/ukpga/2024/13/section/235), [243](https://www.legislation.gov.uk/ukpga/2024/13/section/243), [252](https://www.legislation.gov.uk/ukpga/2024/13/section/252)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

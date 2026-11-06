@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Temporary control of drugs[^key-72ebe8499459091145382ba120e8b25e]
+## 151. Temporary control of drugs[^c-72ebe8499459091145382ba120e8b25e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 17 (which makes provision for temporary class drug orders under the Mis
 
 ## Annotations
 
-[^key-72ebe8499459091145382ba120e8b25e]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2011/13/section/151) in force at 15.11.2011 by [S.I. 2011/2515](https://www.legislation.gov.uk/uksi/2011/2515), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/2515/article/3/d)
+[^c-72ebe8499459091145382ba120e8b25e]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2011/13/section/151) in force at 15.11.2011 by [S.I. 2011/2515](https://www.legislation.gov.uk/uksi/2011/2515), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/2515/article/3/d)

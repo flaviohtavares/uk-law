@@ -263,14 +263,14 @@ Section 19.
 (7) In paragraph 10(2) (lower rate of trailer supplement)—
 
 - (a) the words “(or relevant maximum weight)” shall be omitted; and
-- (b)[^key-d054a1d516d39628f37792ad3c0499bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d054a1d516d39628f37792ad3c0499bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In paragraph 10(3) (higher rate of trailer supplement)—
 
 - (a) the words “**(or relevant maximum weight)**” shall be omitted; and
-- (b)[^key-9d54a15a124b945945407470be0b1674] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9d54a15a124b945945407470be0b1674] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-b9676862c9dd0660011a5b40eeeb0f35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-b9676862c9dd0660011a5b40eeeb0f35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) Paragraph 10(4) (reference to paragraph 12) shall be omitted.
 
@@ -1011,11 +1011,11 @@ Section 19.
 
 [^c15673791]: Textual amendment: Sch. 4 para. 12 repealed (31.7.1998 with effect as mentioned in [Sch. 1 para. 17(1)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/1/paragraph/17/1) of the amending Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 165](https://www.legislation.gov.uk/ukpga/1998/36/section/165), [Sch. 27 Pt. I(3)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/I/3), Note; [S.I. 1998/3092](https://www.legislation.gov.uk/uksi/1998/3092), [art. 2](https://www.legislation.gov.uk/uksi/1998/3092/article/2)
 
-[^key-d054a1d516d39628f37792ad3c0499bb]: Textual amendment: Sch. 4 para. 14(7)(b) repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/1)
+[^c-d054a1d516d39628f37792ad3c0499bb]: Textual amendment: Sch. 4 para. 14(7)(b) repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/1)
 
-[^key-9d54a15a124b945945407470be0b1674]: Textual amendment: Sch. 4 para. 14(8)(b) repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/1)
+[^c-9d54a15a124b945945407470be0b1674]: Textual amendment: Sch. 4 para. 14(8)(b) repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/1)
 
-[^key-b9676862c9dd0660011a5b40eeeb0f35]: Textual amendment: Sch. 4 para. 14(9) repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/1)
+[^c-b9676862c9dd0660011a5b40eeeb0f35]: Textual amendment: Sch. 4 para. 14(9) repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/1)
 
 [^c15673801]: Marginal citation: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154).
 

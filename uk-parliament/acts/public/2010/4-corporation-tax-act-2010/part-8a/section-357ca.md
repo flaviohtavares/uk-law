@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357CA. Total gross income of a trade[^key-3f3b3eec0117028f84fab3c68f3024c2]
+## 357CA. Total gross income of a trade[^c-3f3b3eec0117028f84fab3c68f3024c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 - (d) subsection (7) (proceeds from intangible fixed assets),
 - (e) subsection (8) (profits from patent rights).
 
-(2) But the total gross income of the trade does not include any finance income (see section 357BG[^key-fb17ebbfef0177d9a9a334b9d3c197f3] ).
+(2) But the total gross income of the trade does not include any finance income (see section 357BG[^c-fb17ebbfef0177d9a9a334b9d3c197f3] ).
 
 (3) Head 1 is any amounts which—
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
+[^c-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
 
-[^key-fb17ebbfef0177d9a9a334b9d3c197f3]: Textual amendment: Words in [s. 357CA(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/357CA/2) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/5)
+[^c-fb17ebbfef0177d9a9a334b9d3c197f3]: Textual amendment: Words in [s. 357CA(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/357CA/2) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/5)

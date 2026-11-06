@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67. Restocking[^key-c1b1cdab5f9ca94fd1f0e80084ba4c7b]
+## 67. Restocking[^c-c1b1cdab5f9ca94fd1f0e80084ba4c7b]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1b1cdab5f9ca94fd1f0e80084ba4c7b]: Commencement: Reg. 67 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-c1b1cdab5f9ca94fd1f0e80084ba4c7b]: Commencement: Reg. 67 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Distribution to creditors generally[^key-979f4801382b064d2013ac3d88a54dac]
+## 36. Distribution to creditors generally[^c-979f4801382b064d2013ac3d88a54dac]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-979f4801382b064d2013ac3d88a54dac]: Commencement: Rule 36 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-979f4801382b064d2013ac3d88a54dac]: Commencement: Rule 36 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Marine Pollution
 
-The Merchant Shipping (Ship-to-Ship Transfers) (Amendment) Regulations 2011 (revoked)[^key-bdc1c14b4594fe1035885227890b7cef]
+The Merchant Shipping (Ship-to-Ship Transfers) (Amendment) Regulations 2011 (revoked)[^c-bdc1c14b4594fe1035885227890b7cef]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 31st March 2011
 
-[^key-bdc1c14b4594fe1035885227890b7cef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdc1c14b4594fe1035885227890b7cef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-bdc1c14b4594fe1035885227890b7cef]
+## 1. Citation and commencement[^c-bdc1c14b4594fe1035885227890b7cef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Merchant Shipping (Ship-to-Ship Transfers) Regulations 2010[^key-bdc1c14b4594fe1035885227890b7cef]
+## 2. Amendment of the Merchant Shipping (Ship-to-Ship Transfers) Regulations 2010[^c-bdc1c14b4594fe1035885227890b7cef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bdc1c14b4594fe1035885227890b7cef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdc1c14b4594fe1035885227890b7cef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bdc1c14b4594fe1035885227890b7cef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdc1c14b4594fe1035885227890b7cef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bdc1c14b4594fe1035885227890b7cef]: Textual amendment: Regulations revoked (26.2.2020) by [The Merchant Shipping (Ship-to-Ship Transfers) Regulations 2020 (S.I. 2020/94)](https://www.legislation.gov.uk/uksi/2020/94), [reg. 1](https://www.legislation.gov.uk/uksi/2020/94/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/94/schedule/4)
+[^c-bdc1c14b4594fe1035885227890b7cef]: Textual amendment: Regulations revoked (26.2.2020) by [The Merchant Shipping (Ship-to-Ship Transfers) Regulations 2020 (S.I. 2020/94)](https://www.legislation.gov.uk/uksi/2020/94), [reg. 1](https://www.legislation.gov.uk/uksi/2020/94/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/94/schedule/4)

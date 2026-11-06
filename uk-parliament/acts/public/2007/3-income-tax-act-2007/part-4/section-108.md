@@ -44,8 +44,8 @@ summary: ''
 - (a) the individual is liable to contribute to the assets of the LLP in the event of its being wound up, and
 - (b) the individual remains liable to contribute for the period of at least 5 years beginning with the relevant time (or until the LLP is wound up, if that happens before the end of that period).
 
-(9) This section needs to be read with section 113A and any regulations made under section 114 (exclusion of amounts[^key-15a547a366df41dc53f2893c17d51c78] in calculating the individual's contribution to the LLP for the purposes of section 107).
+(9) This section needs to be read with section 113A and any regulations made under section 114 (exclusion of amounts[^c-15a547a366df41dc53f2893c17d51c78] in calculating the individual's contribution to the LLP for the purposes of section 107).
 
 ## Annotations
 
-[^key-15a547a366df41dc53f2893c17d51c78]: Textual amendment: Words in s. 108(9) substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 11(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/11/b), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)
+[^c-15a547a366df41dc53f2893c17d51c78]: Textual amendment: Words in s. 108(9) substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 11(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/11/b), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. Time-limit for making claims[^key-5205dcdc83dd8545ad80e05899d37143]
+## 115. Time-limit for making claims[^c-5205dcdc83dd8545ad80e05899d37143]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5205dcdc83dd8545ad80e05899d37143]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2014/16/section/115) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-5205dcdc83dd8545ad80e05899d37143]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2014/16/section/115) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

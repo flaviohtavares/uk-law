@@ -36,13 +36,13 @@ An Act to make provision about prohibiting the trustees and managers of pension 
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. No indemnification for penalties under pensions dashboards regulations[^key-23da76b05d7cb6dc0c15955ea6f1e644]
+## 1. No indemnification for penalties under pensions dashboards regulations[^c-23da76b05d7cb6dc0c15955ea6f1e644]
 
-(1)[^key-3d4d77774e8b4fd0e6609f432aeca242] In section 256 of the Pensions Act 2004 (no indemnification for fines or civil penalties), in subsection (1)(b), for “or 88A” substitute “, 88A or 238G”.
+(1)[^c-3d4d77774e8b4fd0e6609f432aeca242] In section 256 of the Pensions Act 2004 (no indemnification for fines or civil penalties), in subsection (1)(b), for “or 88A” substitute “, 88A or 238G”.
 
-(2)[^key-bc645cd422bb6a56460ac281f0100c33] In Article 233 of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)) (no indemnification for fines or civil penalties), in paragraph (1)(b), for “or 83A” substitute “, 83A or 215G”.
+(2)[^c-bc645cd422bb6a56460ac281f0100c33] In Article 233 of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)) (no indemnification for fines or civil penalties), in paragraph (1)(b), for “or 83A” substitute “, 83A or 215G”.
 
-## 2. Extent, commencement and short title[^key-bd5122a545a8c4258c905f5f0ef98e7a]
+## 2. Extent, commencement and short title[^c-bd5122a545a8c4258c905f5f0ef98e7a]
 
 (1) Section 1(1) extends to England and Wales and Scotland.
 
@@ -64,10 +64,10 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-23da76b05d7cb6dc0c15955ea6f1e644]: Commencement: S. 1 not in force at Royal Assent, see [s. 2(4)(5)](https://www.legislation.gov.uk/ukpga/2023/14/section/2/4/5)
+[^c-23da76b05d7cb6dc0c15955ea6f1e644]: Commencement: S. 1 not in force at Royal Assent, see [s. 2(4)(5)](https://www.legislation.gov.uk/ukpga/2023/14/section/2/4/5)
 
-[^key-3d4d77774e8b4fd0e6609f432aeca242]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2023/14/section/1/1) in force at 1.1.2024 by [S.I. 2023/1414](https://www.legislation.gov.uk/uksi/2023/1414), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1414/regulation/2)
+[^c-3d4d77774e8b4fd0e6609f432aeca242]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2023/14/section/1/1) in force at 1.1.2024 by [S.I. 2023/1414](https://www.legislation.gov.uk/uksi/2023/1414), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1414/regulation/2)
 
-[^key-bc645cd422bb6a56460ac281f0100c33]: Commencement: [S. 1(2)](https://www.legislation.gov.uk/ukpga/2023/14/section/1/2) in force at 1.1.2024 by [S.R. 2023/221](https://www.legislation.gov.uk/nisr/2023/221), [art. 2](https://www.legislation.gov.uk/nisr/2023/221/article/2)
+[^c-bc645cd422bb6a56460ac281f0100c33]: Commencement: [S. 1(2)](https://www.legislation.gov.uk/ukpga/2023/14/section/1/2) in force at 1.1.2024 by [S.R. 2023/221](https://www.legislation.gov.uk/nisr/2023/221), [art. 2](https://www.legislation.gov.uk/nisr/2023/221/article/2)
 
-[^key-bd5122a545a8c4258c905f5f0ef98e7a]: Commencement: S. 2 in force at Royal Assent, see [s. 2(6)](https://www.legislation.gov.uk/ukpga/2023/14/section/2/6)
+[^c-bd5122a545a8c4258c905f5f0ef98e7a]: Commencement: S. 2 in force at Royal Assent, see [s. 2(6)](https://www.legislation.gov.uk/ukpga/2023/14/section/2/6)

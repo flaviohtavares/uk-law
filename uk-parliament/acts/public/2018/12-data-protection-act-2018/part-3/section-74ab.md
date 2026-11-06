@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74AB. The data protection test[^key-220a17bfd3f14d70dbffc23b40f7617c]
+## 74AB. The data protection test[^c-220a17bfd3f14d70dbffc23b40f7617c]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-220a17bfd3f14d70dbffc23b40f7617c]: Textual amendment: Ss. 74AA, 74AB inserted (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h), [Sch. 8 para. 4(2)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/8/paragraph/4/2); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z10)
+[^c-220a17bfd3f14d70dbffc23b40f7617c]: Textual amendment: Ss. 74AA, 74AB inserted (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h), [Sch. 8 para. 4(2)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/8/paragraph/4/2); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z10)

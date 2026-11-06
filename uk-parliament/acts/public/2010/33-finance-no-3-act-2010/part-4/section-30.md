@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-6970e59c0aadafc4df5f344a2315fc2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-6970e59c0aadafc4df5f344a2315fc2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 67 of the Pensions Act 2008 (duty to establish pension scheme) —
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6970e59c0aadafc4df5f344a2315fc2a]: Textual amendment: [S. 30(1)](https://www.legislation.gov.uk/ukpga/2010/33/section/30/1) omitted (15.3.2018) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 3 paras. 1(9)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/3/paragraph/1/9), [2(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/3/paragraph/2/3)
+[^c-6970e59c0aadafc4df5f344a2315fc2a]: Textual amendment: [S. 30(1)](https://www.legislation.gov.uk/ukpga/2010/33/section/30/1) omitted (15.3.2018) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 3 paras. 1(9)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/3/paragraph/1/9), [2(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/3/paragraph/2/3)

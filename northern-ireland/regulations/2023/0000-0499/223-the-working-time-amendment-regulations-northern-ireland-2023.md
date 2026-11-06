@@ -46,7 +46,7 @@ The Department for the Economy makes these Regulations in exercise of the powers
 
 The Department for the Economy is a relevant national authority for the purposes of section 11(1) of the 2023 Act.
 
-## 1. Citation, commencement and interpretation[^key-633937389f883f5cf5eba0a7dee61284]
+## 1. Citation, commencement and interpretation[^c-633937389f883f5cf5eba0a7dee61284]
 
 (1) These Regulations may be cited as the Working Time (Amendment) Regulations (Northern Ireland) 2023.
 
@@ -54,7 +54,7 @@ The Department for the Economy is a relevant national authority for the purposes
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 2. Amendment to the Working Time Regulations (Northern Ireland) 2016[^key-8a1545ca5b62ab4d2abedb9f6c42ff60]
+## 2. Amendment to the Working Time Regulations (Northern Ireland) 2016[^c-8a1545ca5b62ab4d2abedb9f6c42ff60]
 
 (1) The Working Time Regulations (Northern Ireland) 2016[^f00003] are amended in accordance with paragraphs (2) to (6).
 
@@ -160,10 +160,10 @@ An impact assessment has not been produced for these regulations as the purpose 
 
 [^f00001]: Footnote: [2023 c. 28](https://www.legislation.gov.uk/ukpga/2023/28)
 
-[^key-633937389f883f5cf5eba0a7dee61284]: Commencement: Reg. 1 in operation at 1.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2)
+[^c-633937389f883f5cf5eba0a7dee61284]: Commencement: Reg. 1 in operation at 1.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-8a1545ca5b62ab4d2abedb9f6c42ff60]: Commencement: Reg. 2 in operation at 1.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2)
+[^c-8a1545ca5b62ab4d2abedb9f6c42ff60]: Commencement: Reg. 2 in operation at 1.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2)
 
 [^f00003]: Footnote: S.R. [2016 No. 49](https://www.legislation.gov.uk/nisr/2016/49)

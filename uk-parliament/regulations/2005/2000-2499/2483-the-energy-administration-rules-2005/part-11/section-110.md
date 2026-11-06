@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Court records[^key-952f26dc8e8417105a2dc6645e25d86a]
+## 110. Court records[^c-952f26dc8e8417105a2dc6645e25d86a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The court shall keep records of all energy administration proceedings, and shall
 
 ## Annotations
 
-[^key-952f26dc8e8417105a2dc6645e25d86a]: Commencement: Rule 110 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-952f26dc8e8417105a2dc6645e25d86a]: Commencement: Rule 110 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

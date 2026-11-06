@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 111. Application of the Limitation (Northern Ireland) Order 1989[^key-60f75a38ea6a4134531ad48ef8e3ab3b]
+## 111. Application of the Limitation (Northern Ireland) Order 1989[^c-60f75a38ea6a4134531ad48ef8e3ab3b]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60f75a38ea6a4134531ad48ef8e3ab3b]: Commencement: [Art. 111](https://www.legislation.gov.uk/nisi/2015/2006/article/111) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/b)
+[^c-60f75a38ea6a4134531ad48ef8e3ab3b]: Commencement: [Art. 111](https://www.legislation.gov.uk/nisi/2015/2006/article/111) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Transitional provisions as to clinical trials and medicinal tests on animals.[^key-76e74cd1663681788ce72736f16575ad]
+## 37. Transitional provisions as to clinical trials and medicinal tests on animals.[^c-76e74cd1663681788ce72736f16575ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76e74cd1663681788ce72736f16575ad]: Textual amendment: S. 37 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 7
+[^c-76e74cd1663681788ce72736f16575ad]: Textual amendment: S. 37 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 7

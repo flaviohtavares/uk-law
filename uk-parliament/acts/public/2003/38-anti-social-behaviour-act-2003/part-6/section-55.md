@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55. Unlawfully deposited waste etc[^key-a23d3b95d715b99b22890ec772e0e96b][^key-a1ecff882d210f82ef1d7088d3333634]
+## 55. Unlawfully deposited waste etc[^c-a23d3b95d715b99b22890ec772e0e96b][^c-a1ecff882d210f82ef1d7088d3333634]
 
 *Extent: E+W*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a23d3b95d715b99b22890ec772e0e96b]: Commencement: S. 55 in force at 31.3.2004 for E. by [S.I. 2004/690](https://www.legislation.gov.uk/uksi/2004/690), [art. 3(h)](https://www.legislation.gov.uk/uksi/2004/690/article/3/h)
+[^c-a23d3b95d715b99b22890ec772e0e96b]: Commencement: S. 55 in force at 31.3.2004 for E. by [S.I. 2004/690](https://www.legislation.gov.uk/uksi/2004/690), [art. 3(h)](https://www.legislation.gov.uk/uksi/2004/690/article/3/h)
 
-[^key-a1ecff882d210f82ef1d7088d3333634]: Commencement: S. 55 in force at 31.3.2004 for W. by [S.I. 2004/999](https://www.legislation.gov.uk/uksi/2004/999), [art. 2(m)](https://www.legislation.gov.uk/uksi/2004/999/article/2/m)
+[^c-a1ecff882d210f82ef1d7088d3333634]: Commencement: S. 55 in force at 31.3.2004 for W. by [S.I. 2004/999](https://www.legislation.gov.uk/uksi/2004/999), [art. 2(m)](https://www.legislation.gov.uk/uksi/2004/999/article/2/m)

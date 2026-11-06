@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The School and Early Years Finance (England) Regulations 2012 (revoked)[^key-82386b4b6987febffed080b0ea34c751]
+The School and Early Years Finance (England) Regulations 2012 (revoked)[^c-82386b4b6987febffed080b0ea34c751]
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 1st January 2013
 
-[^key-82386b4b6987febffed080b0ea34c751]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82386b4b6987febffed080b0ea34c751]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction[^key-82386b4b6987febffed080b0ea34c751]
+### PART 1 — Introduction[^c-82386b4b6987febffed080b0ea34c751]
 
 *Extent: E+W*
 
@@ -60,13 +60,13 @@ Coming into force
 - [Section 2 — Revocation of previous Regulations](part-1/section-2.md)
 - [Section 3 — Amendments](part-1/section-3.md)
 
-### PART 2 — Action to be Taken by a Local Authority[^key-82386b4b6987febffed080b0ea34c751]
+### PART 2 — Action to be Taken by a Local Authority[^c-82386b4b6987febffed080b0ea34c751]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Appropriation of the Non-Schools Education Budget[^key-82386b4b6987febffed080b0ea34c751]
+#### CHAPTER 1 — Appropriation of the Non-Schools Education Budget[^c-82386b4b6987febffed080b0ea34c751]
 
 *Extent: E+W*
 
@@ -74,7 +74,7 @@ Coming into force
 
 - [Section 4 — The Non-Schools Education Budget](part-2/section-4.md)
 
-#### CHAPTER 2 — Determination of Schools Budgets, Individual Schools Budgets, and Budget Shares[^key-82386b4b6987febffed080b0ea34c751]
+#### CHAPTER 2 — Determination of Schools Budgets, Individual Schools Budgets, and Budget Shares[^c-82386b4b6987febffed080b0ea34c751]
 
 *Extent: E+W*
 
@@ -88,7 +88,7 @@ Coming into force
 - [Section 10 — Formulae for determination of budget shares etc for certain maintained schools and early years providers](part-2/section-10.md)
 - [Section 11 — Determination of allocation of budget shares etc for the funding period](part-2/section-11.md)
 
-#### CHAPTER 3 — Further Deductions and Variations to Limits Authorised by Schools Forums or the Secretary of State[^key-82386b4b6987febffed080b0ea34c751]
+#### CHAPTER 3 — Further Deductions and Variations to Limits Authorised by Schools Forums or the Secretary of State[^c-82386b4b6987febffed080b0ea34c751]
 
 *Extent: E+W*
 
@@ -96,13 +96,13 @@ Coming into force
 
 - [Section 12 — Applications to the schools forum and the Secretary of State](part-2/section-12.md)
 
-### PART 3 — Determination of Budget Shares etc[^key-82386b4b6987febffed080b0ea34c751]
+### PART 3 — Determination of Budget Shares etc[^c-82386b4b6987febffed080b0ea34c751]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Requirements, and Factors and Criteria Taken into Account[^key-82386b4b6987febffed080b0ea34c751]
+#### CHAPTER 1 — Requirements, and Factors and Criteria Taken into Account[^c-82386b4b6987febffed080b0ea34c751]
 
 *Extent: E+W*
 
@@ -119,7 +119,7 @@ Coming into force
 - [Section 21 — New schools](part-3/section-21.md)
 - [Section 22 — Federated schools](part-3/section-22.md)
 
-#### CHAPTER 2 — Adjustments, Correction of Errors, and Alternative Arrangements Authorised by the Secretary of State[^key-82386b4b6987febffed080b0ea34c751]
+#### CHAPTER 2 — Adjustments, Correction of Errors, and Alternative Arrangements Authorised by the Secretary of State[^c-82386b4b6987febffed080b0ea34c751]
 
 *Extent: E+W*
 
@@ -129,7 +129,7 @@ Coming into force
 - [Section 24 — Correction of errors and changes in non-domestic rates](part-3/section-24.md)
 - [Section 25 — Alternative arrangements approved by Secretary of State](part-3/section-25.md)
 
-### PART 4 — Schemes[^key-82386b4b6987febffed080b0ea34c751]
+### PART 4 — Schemes[^c-82386b4b6987febffed080b0ea34c751]
 
 *Extent: E+W*
 
@@ -149,14 +149,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-82386b4b6987febffed080b0ea34c751]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82386b4b6987febffed080b0ea34c751]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-82386b4b6987febffed080b0ea34c751]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82386b4b6987febffed080b0ea34c751]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-82386b4b6987febffed080b0ea34c751]: Textual amendment: Regulations revoked (1.4.2015) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1), [2](https://www.legislation.gov.uk/uksi/2014/3352/regulation/2)
+[^c-82386b4b6987febffed080b0ea34c751]: Textual amendment: Regulations revoked (1.4.2015) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1), [2](https://www.legislation.gov.uk/uksi/2014/3352/regulation/2)

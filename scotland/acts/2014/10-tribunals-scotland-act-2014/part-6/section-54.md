@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Position on transfer-in[^key-47533803d835c91a791f57c159e9958b]
+## 54. Position on transfer-in[^c-47533803d835c91a791f57c159e9958b]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47533803d835c91a791f57c159e9958b]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2014/10/section/54) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-47533803d835c91a791f57c159e9958b]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2014/10/section/54) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

@@ -25,7 +25,7 @@ summary: ''
 (2) A licence shall not be capable of being assigned except with the consent of—
 
 - (a)[^c14097881] the Secretary of State, if he is specified for the purpose in the licence; or
-- (b) the Office of Rail and Road[^key-de8f15f7920e272c180f19b5d3b2993b] [^c18897151]. . . , in any other case.
+- (b) the Office of Rail and Road[^c-de8f15f7920e272c180f19b5d3b2993b] [^c18897151]. . . , in any other case.
 
 (3)[^c14097891] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -49,7 +49,7 @@ summary: ''
 
 [^c14097881]: Textual amendment: S. 11(2)(a)(b) substituted for words (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 216](https://www.legislation.gov.uk/ukpga/2000/38/section/216), [Sch. 17 para. 5(2)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/17/paragraph/5/2) (with [Sch. 28 paras. 2(5)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/28/paragraph/2/5), [17](https://www.legislation.gov.uk/ukpga/2000/38/schedule/28/paragraph/17)); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-de8f15f7920e272c180f19b5d3b2993b]: Textual amendment: Words in s. 11(2)(b) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [Sch. para. 1(f)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/f)
+[^c-de8f15f7920e272c180f19b5d3b2993b]: Textual amendment: Words in s. 11(2)(b) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [Sch. para. 1(f)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/f)
 
 [^c18897151]: Textual amendment: Words in s. 11(2)(b) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1](https://www.legislation.gov.uk/ukpga/2005/14/section/1), [59](https://www.legislation.gov.uk/ukpga/2005/14/section/59), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/1/paragraph/4/a), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/I) (with [s. 14(4)(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909) {art. 2}, Sch.
 

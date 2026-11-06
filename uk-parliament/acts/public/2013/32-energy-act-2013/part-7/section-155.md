@@ -48,8 +48,8 @@ summary: ''
 - (a) paragraph 25 (amendment to section 24A of the Nuclear Installations Act 1965 as it has effect in England and Wales and Scotland) extends to England and Wales and Scotland only;
 - (b) the other amendments in that Schedule of the Nuclear Installations Act 1965 extend to England and Wales, Scotland and Northern Ireland only;
 - (c) paragraphs 39 to 49 (amendments of the Nuclear Safeguards and Electricity (Finance) Act 1978 and Nuclear Safeguards Act 2000) extend to England and Wales, Scotland and Northern Ireland only;
-- (d)[^key-1b54879f4379d21acbf2e7bb79005ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-1b54879f4379d21acbf2e7bb79005ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1b54879f4379d21acbf2e7bb79005ce5]: Textual amendment: S. 155(7)(d) repealed (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/1) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+[^c-1b54879f4379d21acbf2e7bb79005ce5]: Textual amendment: S. 155(7)(d) repealed (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/1) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))

@@ -31,7 +31,7 @@ summary: ''
 
 CLEAN AIR, WALES
 
-The Smoke Control Areas (Authorised Fuels) (Wales) (Amendment) Regulations 2013 (revoked)[^key-c8eba4e57d014912089c5d64616f00f0]
+The Smoke Control Areas (Authorised Fuels) (Wales) (Amendment) Regulations 2013 (revoked)[^c-c8eba4e57d014912089c5d64616f00f0]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 3 April 2013
 
-[^key-c8eba4e57d014912089c5d64616f00f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8eba4e57d014912089c5d64616f00f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-c8eba4e57d014912089c5d64616f00f0]
+## 1. Title, commencement and application[^c-c8eba4e57d014912089c5d64616f00f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-c8eba4e57d014912089c5d64616f00f0]
+## 2. Amendments[^c-c8eba4e57d014912089c5d64616f00f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c8eba4e57d014912089c5d64616f00f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8eba4e57d014912089c5d64616f00f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c8eba4e57d014912089c5d64616f00f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8eba4e57d014912089c5d64616f00f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c8eba4e57d014912089c5d64616f00f0]: Textual amendment: Regulations revoked (11.4.2014) by [The Smoke Control Areas (Authorised Fuels) (Wales) Regulations 2014 (S.I. 2014/684)](https://www.legislation.gov.uk/uksi/2014/684), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/684/regulation/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2014/684/regulation/3/d)
+[^c-c8eba4e57d014912089c5d64616f00f0]: Textual amendment: Regulations revoked (11.4.2014) by [The Smoke Control Areas (Authorised Fuels) (Wales) Regulations 2014 (S.I. 2014/684)](https://www.legislation.gov.uk/uksi/2014/684), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/684/regulation/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2014/684/regulation/3/d)

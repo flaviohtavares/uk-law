@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.[^key-14d75c8f2afa457c6e1ab7364756a3eb]
+## 45.[^c-14d75c8f2afa457c6e1ab7364756a3eb]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ In regulation 2 (interpretation), in paragraph (1)—
 
 ## Annotations
 
-[^key-14d75c8f2afa457c6e1ab7364756a3eb]: Commencement: Reg. 45 in force at 27.5.2019, see reg. 1(2)
+[^c-14d75c8f2afa457c6e1ab7364756a3eb]: Commencement: Reg. 45 in force at 27.5.2019, see reg. 1(2)
 
 [^c23728171]: Marginal citation: [2015 anaw 1](https://www.legislation.gov.uk/anaw/2015/1).
 

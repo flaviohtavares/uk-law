@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Tied pub tenant not to suffer detriment[^key-a7f3ed3d873ddd0dda582381b9b64051]
+## 50. Tied pub tenant not to suffer detriment[^c-a7f3ed3d873ddd0dda582381b9b64051]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A pub-owning business must not subject a tied pub tenant to any detriment on the
 
 ## Annotations
 
-[^key-a7f3ed3d873ddd0dda582381b9b64051]: Commencement: Reg. 50 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-a7f3ed3d873ddd0dda582381b9b64051]: Commencement: Reg. 50 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

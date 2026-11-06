@@ -31,10 +31,10 @@ Council Regulation (EC) No 764/2000
 
 of 10 April 2000 regarding the implementation of measures to intensify the EC-Turkey customs union (revoked)
 
-[^key-b7192e44387891a3ae9606a51409166a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7192e44387891a3ae9606a51409166a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-b7192e44387891a3ae9606a51409166a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-b7192e44387891a3ae9606a51409166a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b7192e44387891a3ae9606a51409166a]: Textual amendment: Regulation revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b7192e44387891a3ae9606a51409166a]: Textual amendment: Regulation revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

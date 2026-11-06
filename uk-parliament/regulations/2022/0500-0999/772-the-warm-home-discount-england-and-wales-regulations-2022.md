@@ -50,7 +50,7 @@ In accordance with section 31(2) of the Act, a draft of this instrument has been
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-e54f36a26e8a3f98cda354a67280741c]
+### 1. Citation, commencement and extent[^c-e54f36a26e8a3f98cda354a67280741c]
 
 (1) These Regulations may be cited as the Warm Home Discount (England and Wales) Regulations 2022.
 
@@ -60,7 +60,7 @@ In accordance with section 31(2) of the Act, a draft of this instrument has been
 
 (4) Otherwise, these Regulations extend to England and Wales only.
 
-### 2. Meaning of “E&W domestic customer”, “GB domestic customer” and “partner”[^key-aef7503d7263d2da690df05e789ac1f2]
+### 2. Meaning of “E&W domestic customer”, “GB domestic customer” and “partner”[^c-aef7503d7263d2da690df05e789ac1f2]
 
 *Extent: E+W*
 
@@ -102,7 +102,7 @@ I is to be treated as the person who is supplied with electricity or gas at thos
   - (iv) an establishment in Northern Ireland that is a residential care home, or a nursing home, for the purposes of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00005];
 - (c) “**hospice**” means an institution in the United Kingdom whose primary function is the provision of palliative care to persons resident there who are suffering from a progressive disease in its final stages.
 
-### 3. Interpretation: general[^key-07864d82e5ef7728d83ddd86c5a84426]
+### 3. Interpretation: general[^c-07864d82e5ef7728d83ddd86c5a84426]
 
 *Extent: E+W*
 
@@ -151,7 +151,7 @@ I is to be treated as the person who is supplied with electricity or gas at thos
 
 *Extent: E+W*
 
-### 4. Warm Home Discount Scheme for England and Wales[^key-5f07d7c5dd8b5f359478b7b8a8b69d67]
+### 4. Warm Home Discount Scheme for England and Wales[^c-5f07d7c5dd8b5f359478b7b8a8b69d67]
 
 (1) These Regulations make provision for the continuation, in England and Wales, of the scheme for reducing fuel poverty established by the 2011 Regulations (“**the Scheme**”).
 
@@ -162,13 +162,13 @@ I is to be treated as the person who is supplied with electricity or gas at thos
 
 (3) The following duties and powers continue to apply after the end of the scheme period—
 
-- (a) the duties of scheme suppliers[^f00013] under regulations 10, 12(5) to[^key-400c9e7ae965237da15e4d5747745632] (8), and 28(3),
+- (a) the duties of scheme suppliers[^f00013] under regulations 10, 12(5) to[^c-400c9e7ae965237da15e4d5747745632] (8), and 28(3),
 - (b) the duties of the Secretary of State under regulation 13,
-- (ba)[^key-9c5f17750569f8c99925c330d2acae14] the powers of the Secretary of State under regulation 11,
+- (ba)[^c-9c5f17750569f8c99925c330d2acae14] the powers of the Secretary of State under regulation 11,
 - (c) the duties of the Authority under regulation 27, and
 - (d) the powers of the Authority under regulation 28(1) and 28(2).
 
-### 5. Calculation of a relevant supplier’s number of GB domestic customers on preceding 31st December[^key-7fac8a6b52e9de134e21190dfcf7993b]
+### 5. Calculation of a relevant supplier’s number of GB domestic customers on preceding 31st December[^c-7fac8a6b52e9de134e21190dfcf7993b]
 
 (1) A relevant supplier must notify the Authority of the number of that supplier’s GB domestic customers on the preceding 31st December by—
 
@@ -204,7 +204,7 @@ on that date.
 
 (7) For the purposes of the remaining provisions of these Regulations, a reference to a supplier’s number of GB domestic customers is a reference to that supplier’s number of GB domestic customers as notified, or treated as notified, under paragraph (1) or, as the case may be, determined under paragraph (3).
 
-### 6. Licensed suppliers who are scheme suppliers[^key-14f0c692150da6ae3d4a87de8fafc022]
+### 6. Licensed suppliers who are scheme suppliers[^c-14f0c692150da6ae3d4a87de8fafc022]
 
 (1) This regulation sets out the licensed suppliers who are scheme suppliers in relation to a scheme year.
 
@@ -242,7 +242,7 @@ together had at least the relevant number of GB domestic customers on that date.
 - (a) supplied gas to GB domestic customers on 31st December preceding the start of that scheme year, and
 - (b) was on that date connected to a licensed electricity supplier who is, in relation to that scheme year, a scheme electricity supplier.
 
-### 7. Suppliers not participating in the scheme in a scheme year[^key-b6fa08ff2d30986706456842ac102e72]
+### 7. Suppliers not participating in the scheme in a scheme year[^c-b6fa08ff2d30986706456842ac102e72]
 
 (1) This regulation applies to a licensed electricity supplier in a scheme year (“**the current year**”) if the supplier—
 
@@ -278,7 +278,7 @@ together had at least the relevant number of GB domestic customers on that date.
 
 *Extent: E+W*
 
-### 8. Determination of scheme customers by the Secretary of State[^key-219e8005e400a4f0087ad6c563eabb5c]
+### 8. Determination of scheme customers by the Secretary of State[^c-219e8005e400a4f0087ad6c563eabb5c]
 
 (1) The Secretary of State may in any scheme year give a notice (a “rebate notice”) to a scheme electricity supplier specifying persons to whom the supplier must provide the prescribed rebate in accordance with regulation 10.
 
@@ -287,7 +287,7 @@ together had at least the relevant number of GB domestic customers on that date.
 (3) A rebate notice may not be given—
 
 - (a) before the eligibility statement for the scheme year in which the notice is to be given is published (see regulation 9);
-- (b) in scheme year 15, after 31st March 2026[^key-0e2f699f50c988b4be87edf24f7e458b].
+- (b) in scheme year 15, after 31st March 2026[^c-0e2f699f50c988b4be87edf24f7e458b].
 
 (4) A rebate notice containing personal information (within the meaning of section 40(5) of the Digital Economy Act 2017[^f00016]) may only be given if—
 
@@ -303,7 +303,7 @@ together had at least the relevant number of GB domestic customers on that date.
   - (i) is in receipt of guarantee credit, or
   - (ii) meets the criteria described in the relevant eligibility statement.
 
-### 9. Eligibility statement[^key-da7af59093f8b913e935e96d1f1a7b20]
+### 9. Eligibility statement[^c-da7af59093f8b913e935e96d1f1a7b20]
 
 (1) The Secretary of State must publish an eligibility statement for each scheme year.
 
@@ -321,7 +321,7 @@ together had at least the relevant number of GB domestic customers on that date.
 
 (5) The Secretary of State must publish the amended eligibility statement.
 
-### 10. Provision of rebate to core group customers[^key-6c136694f8fad4445be2fdd9377ad322]
+### 10. Provision of rebate to core group customers[^c-6c136694f8fad4445be2fdd9377ad322]
 
 (1) A scheme electricity supplier who is given a rebate notice must provide the prescribed rebate to each core group customer.
 
@@ -356,13 +356,13 @@ that the customer has been given a rebate under the Scheme.
 
 (8) This regulation is subject to regulation 11.
 
-### 11. Exceptions[^key-afceaae0a142f209fa9f91467d14eee9]
+### 11. Exceptions[^c-afceaae0a142f209fa9f91467d14eee9]
 
 (1) This regulation applies if the Secretary of State is satisfied that there are circumstances in which it would not be reasonably practicable for scheme electricity suppliers to provide the prescribed rebate to core group customers.
 
 (2) The Secretary of State may determine that regulation 10 does not apply in those circumstances.
 
-### 12. Provision of information by suppliers[^key-165e7c9065a8cac39776b0226c33c9a1]
+### 12. Provision of information by suppliers[^c-165e7c9065a8cac39776b0226c33c9a1]
 
 (1) The Secretary of State may direct scheme electricity suppliers to provide information to the Secretary of State, or a person providing services to the Secretary of State, about their E&W domestic customers for the purpose of facilitating the exercise of the power in regulation 8(1).
 
@@ -403,14 +403,14 @@ that the customer has been given a rebate under the Scheme.
   - (i) the rebate was provided to a customer by tendering payment of the amount of the prescribed rebate to the customer, and the customer has not accepted the payment, or
   - (ii) the rebate was provided to a customer who pre-pays for electricity or gas with credit to the amount of the prescribed rebate against the cost of future electricity or gas use, and the customer has not accepted that credit.
 
-### 13. Provision of information by the Secretary of State[^key-caa399707fdd13bf4296a2195cdcf30f]
+### 13. Provision of information by the Secretary of State[^c-caa399707fdd13bf4296a2195cdcf30f]
 
 The Secretary of State must, in respect of each scheme electricity supplier, notify the Authority as soon as reasonably practicable after the end of each scheme year of—
 
 - (a) the number of persons specified in rebate notices given to the supplier during the scheme year, and
 - (b) the number of those persons in respect of whom the supplier has notified the Secretary of State under regulation 12(5).
 
-### 14. Interpretation of Part 3: references to the Secretary of State[^key-4c15910a2624a6ec646e230b43c6d2da]
+### 14. Interpretation of Part 3: references to the Secretary of State[^c-4c15910a2624a6ec646e230b43c6d2da]
 
 (1) In this Part, other than in the provisions specified in paragraph (2), references to the Secretary of State include a person providing services to the Secretary of State.
 
@@ -426,7 +426,7 @@ The Secretary of State must, in respect of each scheme electricity supplier, not
 
 ### CHAPTER 1 — Determination etc. of non-core spending obligation
 
-#### 15. Determination and notification of aggregate non-core spending obligation[^key-2ad13412527f35639e36fb253b112590]
+#### 15. Determination and notification of aggregate non-core spending obligation[^c-2ad13412527f35639e36fb253b112590]
 
 (1) The Secretary of State must determine and notify the Authority of the aggregate non-core spending obligation—
 
@@ -435,7 +435,7 @@ The Secretary of State must, in respect of each scheme electricity supplier, not
 
 (2) Schedule 1 makes provision for the determination of the aggregate non-core spending obligation.
 
-#### 16. Duty to calculate and adjust, and notify, compulsory scheme electricity suppliers’ non-core spending obligations[^key-541855d35de5cca4733516af71b414c3]
+#### 16. Duty to calculate and adjust, and notify, compulsory scheme electricity suppliers’ non-core spending obligations[^c-541855d35de5cca4733516af71b414c3]
 
 (1) The Authority must—
 
@@ -457,7 +457,7 @@ The Secretary of State must, in respect of each scheme electricity supplier, not
 
 (4) The notification under paragraph (2)(b) and, as the case may be, (c) must be given by 31st October in the scheme year to which it relates.
 
-#### 17. Calculation of non-core spending obligation[^key-f2ccb9af97e374c998b2fda456713950]
+#### 17. Calculation of non-core spending obligation[^c-f2ccb9af97e374c998b2fda456713950]
 
 (1) The non-core spending obligation of a compulsory scheme electricity supplier (“**C**”) for a scheme year, subject to any adjustments under regulation 18 or 19, is—
 
@@ -506,7 +506,7 @@ Where
 - (a) in relation to scheme year 12, a compulsory scheme electricity supplier (within the meaning given in regulation 5(1) of the 2011 Regulations) in relation to scheme year 11;
 - (b) in relation to any other scheme year, a compulsory scheme electricity supplier in relation to the preceding scheme year.
 
-#### 18. Adjustment of non-core spending obligation: scheme year 12[^key-303f48e327719cbea6b689f464f913c8]
+#### 18. Adjustment of non-core spending obligation: scheme year 12[^c-303f48e327719cbea6b689f464f913c8]
 
 (1) The adjustments that must be made to the non-core spending obligation for scheme year 12 (“**O**”) of a compulsory scheme electricity supplier (“**C**”) are as follows.
 
@@ -534,7 +534,7 @@ Where
 - (a) where C has made a notification under regulation 9(7) of the 2011 Regulations in respect of scheme year 11, the number of prescribed rebates as stated in that notification, and
 - (b) where C has made a notification under regulation 14(3A) of the 2011 Regulations in respect of scheme year 11, the number of prescribed rebates as stated in that notification.
 
-#### 19. Adjustment of non-core spending obligation: scheme years 13 to 15[^key-4588053f56ee591e245388527166066c]
+#### 19. Adjustment of non-core spending obligation: scheme years 13 to 15[^c-4588053f56ee591e245388527166066c]
 
 (1) The adjustments that must be made to the non-core spending obligation for a scheme year (other than scheme year 12) (“**O**”) of a compulsory scheme electricity supplier (“**C**”) are as follows.
 
@@ -561,7 +561,7 @@ Where
 
 ### CHAPTER 2 — Obligation to incur spending etc.
 
-#### 20. Obligation to incur spending and amounts of spending[^key-9ba05ba22986072c27b1e9ca19bac70a]
+#### 20. Obligation to incur spending and amounts of spending[^c-9ba05ba22986072c27b1e9ca19bac70a]
 
 (1) In each scheme year, a compulsory scheme electricity supplier must incur spending under this Part to the amount of its non-core spending obligation.
 
@@ -591,7 +591,7 @@ Where
 
 ### CHAPTER 3 — Industry initiatives
 
-#### 21. Spending on industry initiatives by a compulsory scheme electricity supplier[^key-41de485c1bc2c30cba130c62f6263cb5]
+#### 21. Spending on industry initiatives by a compulsory scheme electricity supplier[^c-41de485c1bc2c30cba130c62f6263cb5]
 
 (1) A compulsory scheme electricity supplier may in respect of a scheme year count towards its non-core spending obligation spending (excluding Value Added Tax) incurred in that scheme year on an activity of a kind listed in the table in Part 1 of Schedule 2 (an “industry initiative”) by—
 
@@ -615,7 +615,7 @@ Where
   - (i) the spending takes place after the Authority approves the initiative, or
   - (ii) in relation to scheme year 12, the spending takes place before the Authority decides whether to approve the initiative but the Authority subsequently approves it.
 
-#### 22. Approval of industry initiatives[^key-b9e0f5dad9aafb41f5b5c5e55e5424c6]
+#### 22. Approval of industry initiatives[^c-b9e0f5dad9aafb41f5b5c5e55e5424c6]
 
 (1) A compulsory scheme electricity supplier must notify the Authority of the industry initiatives which it, or any connected scheme gas supplier, proposes to carry out.
 
@@ -631,7 +631,7 @@ Where
 - (c) include adequate measures to ensure, so far as reasonably practicable, that benefits provided under the industry initiatives will be provided wholly or mainly to persons in fuel poverty or in a fuel poverty risk group, and
 - (d) will provide value for money.
 
-#### 23. Spending on industry initiatives which may be treated as incurred by a compulsory scheme electricity supplier[^key-4d8fb15bc483c915898c95bed86bdea1]
+#### 23. Spending on industry initiatives which may be treated as incurred by a compulsory scheme electricity supplier[^c-4d8fb15bc483c915898c95bed86bdea1]
 
 (1) This regulation applies where a compulsory scheme electricity supplier (“**C**”) is connected to one or more scheme gas suppliers on the qualifying date (referred to in this regulation as a “**connected scheme gas supplier**”).
 
@@ -648,7 +648,7 @@ Where
 
 on that date.
 
-#### 24. Spending incurred by a compulsory scheme electricity supplier before the commencement day[^key-a2d5161879acc95ceb226da2c2c46f88]
+#### 24. Spending incurred by a compulsory scheme electricity supplier before the commencement day[^c-a2d5161879acc95ceb226da2c2c46f88]
 
 In scheme year 12, a compulsory scheme electricity supplier may treat as an amount of spending incurred under regulation 21 any spending which—
 
@@ -657,7 +657,7 @@ In scheme year 12, a compulsory scheme electricity supplier may treat as an amou
 
 ### CHAPTER 4 — Specified activities
 
-#### 25. Types of spending: activities specified by the Secretary of State[^key-105aadd3d179dafbf9d0d6c6de808d39]
+#### 25. Types of spending: activities specified by the Secretary of State[^c-105aadd3d179dafbf9d0d6c6de808d39]
 
 (1) A compulsory scheme electricity supplier may, in respect of any scheme year, count towards its non-core spending obligation financial contributions (excluding Value Added Tax) made by the supplier in the scheme year to fund a specified activity.
 
@@ -687,7 +687,7 @@ In scheme year 12, a compulsory scheme electricity supplier may treat as an amou
 
 *Extent: E+W*
 
-### 26. Approvals by the Authority: procedure[^key-7a3e8b966f5844ab404a80b19690e09d]
+### 26. Approvals by the Authority: procedure[^c-7a3e8b966f5844ab404a80b19690e09d]
 
 (1) This regulation applies to notifications to the Authority under regulation 6(6) or 22.
 
@@ -710,7 +710,7 @@ In scheme year 12, a compulsory scheme electricity supplier may treat as an amou
 
 (6) If the Authority refuses to approve a supplier’s notification, or part of a notification, the Authority must give reasons for its refusal.
 
-### 27. Determination of amounts spent by scheme suppliers[^key-61648286a074d5a3ee9fc178f36a595e]
+### 27. Determination of amounts spent by scheme suppliers[^c-61648286a074d5a3ee9fc178f36a595e]
 
 (1) The Authority must in respect of each scheme year, as soon as reasonably practicable after the end of the scheme year, determine—
 
@@ -733,7 +733,7 @@ In scheme year 12, a compulsory scheme electricity supplier may treat as an amou
 
 (3) A household meets the condition in this paragraph if at least one person living in the household has significant health problems or a disability.
 
-### 28. Provision of information to the Authority[^key-9e42a319df275138f4cbd38d5a0aa03f]
+### 28. Provision of information to the Authority[^c-9e42a319df275138f4cbd38d5a0aa03f]
 
 (1) The Authority may request that a scheme supplier provide it with such information as the Authority requires for the purposes of carrying out its functions in relation to the Scheme.
 
@@ -744,7 +744,7 @@ In scheme year 12, a compulsory scheme electricity supplier may treat as an amou
 
 (3) A scheme supplier must comply with a request under paragraph (1).
 
-### 29. Provision of information by the Authority[^key-7dc81c1e7713f9dcbe016b257d44ed61]
+### 29. Provision of information by the Authority[^c-7dc81c1e7713f9dcbe016b257d44ed61]
 
 (1) The Authority must notify the Secretary of State if—
 
@@ -762,7 +762,7 @@ In scheme year 12, a compulsory scheme electricity supplier may treat as an amou
 
 *Extent: E+W*
 
-### 30. Reviews of the Scheme[^key-e87cf5194ef9d750d1c31b7817783b2f]
+### 30. Reviews of the Scheme[^c-e87cf5194ef9d750d1c31b7817783b2f]
 
 (1) The Secretary of State must conduct a review of the Scheme, or any aspect of the Scheme, if the Secretary of State is satisfied that a review would be desirable in order to achieve greater reductions in fuel poverty or because—
 
@@ -782,7 +782,7 @@ In scheme year 12, a compulsory scheme electricity supplier may treat as an amou
 
 ## PART 7 — Amendment of the Disclosure of State Pension Credit Information (Warm Home Discount) Regulations 2011
 
-### 31. Amendment of the Disclosure of State Pension Credit Information (Warm Home Discount) Regulations 2011[^key-f88dbd8c832d545ca7719217ef0372d5]
+### 31. Amendment of the Disclosure of State Pension Credit Information (Warm Home Discount) Regulations 2011[^c-f88dbd8c832d545ca7719217ef0372d5]
 
 (1) The Disclosure of State Pension Credit Information (Warm Home Discount) Regulations 2011[^f00022] are amended as follows.
 
@@ -899,11 +899,11 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Regulation 15
 
-### 1. General[^key-95ddb844c1eb3a4919cc4b3cd46d002e]
+### 1. General[^c-95ddb844c1eb3a4919cc4b3cd46d002e]
 
 The Secretary of State must determine the aggregate non-core spending obligation for a scheme year (“**the current year**”) in accordance with this Schedule.
 
-### 2. Meaning of “the initial overall spending target”[^key-60e0370d79772deac450869e714b8188]
+### 2. Meaning of “the initial overall spending target”[^c-60e0370d79772deac450869e714b8188]
 
 For the purposes of this Schedule “the initial overall spending target” is—
 
@@ -912,13 +912,13 @@ For the purposes of this Schedule “the initial overall spending target” is�
 - (c) £501 million for scheme year 14;
 - (d) £511 million for scheme year 15.
 
-### 3. Step one: core group spending estimate[^key-66e7360b05753bca4fe10fa13d5784f4]
+### 3. Step one: core group spending estimate[^c-66e7360b05753bca4fe10fa13d5784f4]
 
 (1) The Secretary of State must estimate the aggregate amount of prescribed rebates (if any) to be provided by scheme electricity suppliers under Part 3 in the current year.
 
 (2) This estimate is referred to in this Schedule as “**the CGS estimate**”.
 
-### 4. Step two: calculation of adjusted overall spending target[^key-434c61316fe57ecc47d8e6d0fbd4d503]
+### 4. Step two: calculation of adjusted overall spending target[^c-434c61316fe57ecc47d8e6d0fbd4d503]
 
 (1) The Secretary of State must adjust the initial overall spending target for the current year (“**IOST**”) in accordance with this paragraph to calculate the adjusted overall spending target.
 
@@ -979,7 +979,7 @@ For the purposes of this Schedule “the initial overall spending target” is�
   - (c) where the current year is scheme year 14, means scheme year 12;
   - (d) where the current year is scheme year 15, means scheme year 13.
 
-### 5. Step three: aggregate non-core spending obligation[^key-20225812b670b0552ecef59e33394bf9]
+### 5. Step three: aggregate non-core spending obligation[^c-20225812b670b0552ecef59e33394bf9]
 
 (1) Finally, the Secretary of State must calculate the aggregate non-core spending obligation for the current year in accordance with sub-paragraph (2).
 
@@ -992,7 +992,7 @@ For the purposes of this Schedule “the initial overall spending target” is�
 
 Regulations 20 to 22 and 25
 
-### PART 1 — Table of industry initiatives[^key-05b8077149b84ffa88fa2445124f2eef]
+### PART 1 — Table of industry initiatives[^c-05b8077149b84ffa88fa2445124f2eef]
 
 | *Column 1 – Type of initiative* | *Column 2 – Exceptions* |
 | --- | --- |
@@ -1007,7 +1007,7 @@ Regulations 20 to 22 and 25
 
 ### PART 2 — Installation and repair requirements for boilers and central heating systems
 
-#### 1. Boilers[^key-6d197967b098fba2b3f365168cc3b2d9]
+#### 1. Boilers[^c-6d197967b098fba2b3f365168cc3b2d9]
 
 (1) The installation of a boiler meets, or repairs to a boiler meet, the requirements of this Part if the conditions in sub-paragraph (2) or (3) are satisfied.
 
@@ -1020,7 +1020,7 @@ Regulations 20 to 22 and 25
 
 (3) The conditions in this sub-paragraph are that the boiler is installed, or repaired, subject to arrangements for quality assurance and consumer protection, including installation standards and arrangements for repairs and other remedies, which are equivalent to the requirements under TrustMark.
 
-#### 2. Central heating systems[^key-aebbc0913bd5c5019bb3cf43a0ba8c20]
+#### 2. Central heating systems[^c-aebbc0913bd5c5019bb3cf43a0ba8c20]
 
 (1) The installation of a central heating system meets, or repairs to such a system meet, the requirements of this Part if the conditions in sub-paragraph (2) or (3) are satisfied.
 
@@ -1035,7 +1035,7 @@ Regulations 20 to 22 and 25
 
 ### PART 3 — Interpretation
 
-#### 3. Interpretation[^key-81ed435827d9a4b5004b040b422308fa]
+#### 3. Interpretation[^c-81ed435827d9a4b5004b040b422308fa]
 
 (1) In this Schedule—
 
@@ -1089,9 +1089,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2010 c. 27](https://www.legislation.gov.uk/ukpga/2010/27). Section 9 was amended by section 58(2) of the Scotland Act [2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11) and section 31(6) was amended by section 58(7) of that Act. See the definitions of “licensed electricity supplier” and “licensed gas supplier” in section 15(5).
 
-[^key-e54f36a26e8a3f98cda354a67280741c]: Commencement: Reg. 1 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-e54f36a26e8a3f98cda354a67280741c]: Commencement: Reg. 1 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-aef7503d7263d2da690df05e789ac1f2]: Commencement: Reg. 2 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-aef7503d7263d2da690df05e789ac1f2]: Commencement: Reg. 2 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
 [^f00002]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14). Section 3 was amended by paragraph 4 of Schedule 5 to the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14) and paragraph 3 of Schedule 3 to the Regulation and Inspection of Social Care (Wales) Act [2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2).
 
@@ -1101,7 +1101,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00005]: Footnote: [S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431). Articles 10 (residential care homes) and 11 (nursing homes) were amended by paragraph 1 of Schedule 6 to the Health and Social Care (Reform) Act (Northern Ireland) [2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1).
 
-[^key-07864d82e5ef7728d83ddd86c5a84426]: Commencement: Reg. 3 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-07864d82e5ef7728d83ddd86c5a84426]: Commencement: Reg. 3 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2011/1033](https://www.legislation.gov.uk/uksi/2011/1033), as amended by [S.I. 2014/695](https://www.legislation.gov.uk/uksi/2014/695), [2015/652](https://www.legislation.gov.uk/uksi/2015/652), [2016/806](https://www.legislation.gov.uk/uksi/2016/806), [2018/909](https://www.legislation.gov.uk/uksi/2018/909), [2019/1458](https://www.legislation.gov.uk/uksi/2019/1458), [2021/667](https://www.legislation.gov.uk/uksi/2021/667).
 
@@ -1117,27 +1117,27 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00012]: Footnote: See the definition of “licensed supplier” in section 15(5) of the Energy Act 2010.
 
-[^key-5f07d7c5dd8b5f359478b7b8a8b69d67]: Commencement: Reg. 4 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-5f07d7c5dd8b5f359478b7b8a8b69d67]: Commencement: Reg. 4 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
 [^f00013]: Footnote: See the definition of “scheme supplier” in section 15(5) of the Energy Act 2010.
 
-[^key-400c9e7ae965237da15e4d5747745632]: Textual amendment: Words in reg. 4(3)(a) substituted (18.9.2025) by [The Warm Home Discount (Amendment) Regulations 2025 (S.I. 2025/1031)](https://www.legislation.gov.uk/uksi/2025/1031), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1031/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2025/1031/regulation/3/a)
+[^c-400c9e7ae965237da15e4d5747745632]: Textual amendment: Words in reg. 4(3)(a) substituted (18.9.2025) by [The Warm Home Discount (Amendment) Regulations 2025 (S.I. 2025/1031)](https://www.legislation.gov.uk/uksi/2025/1031), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1031/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2025/1031/regulation/3/a)
 
-[^key-9c5f17750569f8c99925c330d2acae14]: Textual amendment: Reg. 4(3)(ba) inserted (18.9.2025) by [The Warm Home Discount (Amendment) Regulations 2025 (S.I. 2025/1031)](https://www.legislation.gov.uk/uksi/2025/1031), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1031/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2025/1031/regulation/3/b)
+[^c-9c5f17750569f8c99925c330d2acae14]: Textual amendment: Reg. 4(3)(ba) inserted (18.9.2025) by [The Warm Home Discount (Amendment) Regulations 2025 (S.I. 2025/1031)](https://www.legislation.gov.uk/uksi/2025/1031), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1031/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2025/1031/regulation/3/b)
 
-[^key-7fac8a6b52e9de134e21190dfcf7993b]: Commencement: Reg. 5 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-7fac8a6b52e9de134e21190dfcf7993b]: Commencement: Reg. 5 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
 [^f00014]: Footnote: “Licensed electricity supplier” is defined in section 15(5) of the Energy Act 2010.
 
 [^f00015]: Footnote: “Licensed gas supplier” is defined in section 15(5) of the Energy Act 2010.
 
-[^key-14f0c692150da6ae3d4a87de8fafc022]: Commencement: Reg. 6 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-14f0c692150da6ae3d4a87de8fafc022]: Commencement: Reg. 6 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-b6fa08ff2d30986706456842ac102e72]: Commencement: Reg. 7 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-b6fa08ff2d30986706456842ac102e72]: Commencement: Reg. 7 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-219e8005e400a4f0087ad6c563eabb5c]: Commencement: Reg. 8 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-219e8005e400a4f0087ad6c563eabb5c]: Commencement: Reg. 8 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-0e2f699f50c988b4be87edf24f7e458b]: Textual amendment: Words in reg. 8(3)(b) substituted (18.9.2025) by [The Warm Home Discount (Amendment) Regulations 2025 (S.I. 2025/1031)](https://www.legislation.gov.uk/uksi/2025/1031), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1031/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/1031/regulation/4)
+[^c-0e2f699f50c988b4be87edf24f7e458b]: Textual amendment: Words in reg. 8(3)(b) substituted (18.9.2025) by [The Warm Home Discount (Amendment) Regulations 2025 (S.I. 2025/1031)](https://www.legislation.gov.uk/uksi/2025/1031), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1031/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/1031/regulation/4)
 
 [^f00016]: Footnote: [2017 c. 30](https://www.legislation.gov.uk/ukpga/2017/30).
 
@@ -1145,76 +1145,76 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00018]: Footnote: Section 36 was amended by [S.I. 2018/912](https://www.legislation.gov.uk/uksi/2018/912).
 
-[^key-da7af59093f8b913e935e96d1f1a7b20]: Commencement: Reg. 9 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-da7af59093f8b913e935e96d1f1a7b20]: Commencement: Reg. 9 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
 [^f00019]: Footnote: See section 15(2)(a) of the Energy Act 2010 for the meaning of “living in fuel poverty”.
 
 [^f00020]: Footnote: See section 15(5) of the 2010 Act for the meaning of “fuel poverty risk group”.
 
-[^key-6c136694f8fad4445be2fdd9377ad322]: Commencement: Reg. 10 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-6c136694f8fad4445be2fdd9377ad322]: Commencement: Reg. 10 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-afceaae0a142f209fa9f91467d14eee9]: Commencement: Reg. 11 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-afceaae0a142f209fa9f91467d14eee9]: Commencement: Reg. 11 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-165e7c9065a8cac39776b0226c33c9a1]: Commencement: Reg. 12 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-165e7c9065a8cac39776b0226c33c9a1]: Commencement: Reg. 12 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-caa399707fdd13bf4296a2195cdcf30f]: Commencement: Reg. 13 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-caa399707fdd13bf4296a2195cdcf30f]: Commencement: Reg. 13 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-4c15910a2624a6ec646e230b43c6d2da]: Commencement: Reg. 14 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-4c15910a2624a6ec646e230b43c6d2da]: Commencement: Reg. 14 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-2ad13412527f35639e36fb253b112590]: Commencement: Reg. 15 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-2ad13412527f35639e36fb253b112590]: Commencement: Reg. 15 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-541855d35de5cca4733516af71b414c3]: Commencement: Reg. 16 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-541855d35de5cca4733516af71b414c3]: Commencement: Reg. 16 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-f2ccb9af97e374c998b2fda456713950]: Commencement: Reg. 17 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-f2ccb9af97e374c998b2fda456713950]: Commencement: Reg. 17 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-303f48e327719cbea6b689f464f913c8]: Commencement: Reg. 18 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-303f48e327719cbea6b689f464f913c8]: Commencement: Reg. 18 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-4588053f56ee591e245388527166066c]: Commencement: Reg. 19 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-4588053f56ee591e245388527166066c]: Commencement: Reg. 19 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-9ba05ba22986072c27b1e9ca19bac70a]: Commencement: Reg. 20 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-9ba05ba22986072c27b1e9ca19bac70a]: Commencement: Reg. 20 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-41de485c1bc2c30cba130c62f6263cb5]: Commencement: Reg. 21 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-41de485c1bc2c30cba130c62f6263cb5]: Commencement: Reg. 21 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-b9e0f5dad9aafb41f5b5c5e55e5424c6]: Commencement: Reg. 22 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-b9e0f5dad9aafb41f5b5c5e55e5424c6]: Commencement: Reg. 22 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-4d8fb15bc483c915898c95bed86bdea1]: Commencement: Reg. 23 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-4d8fb15bc483c915898c95bed86bdea1]: Commencement: Reg. 23 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-a2d5161879acc95ceb226da2c2c46f88]: Commencement: Reg. 24 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-a2d5161879acc95ceb226da2c2c46f88]: Commencement: Reg. 24 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-105aadd3d179dafbf9d0d6c6de808d39]: Commencement: Reg. 25 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-105aadd3d179dafbf9d0d6c6de808d39]: Commencement: Reg. 25 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-7a3e8b966f5844ab404a80b19690e09d]: Commencement: Reg. 26 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-7a3e8b966f5844ab404a80b19690e09d]: Commencement: Reg. 26 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-61648286a074d5a3ee9fc178f36a595e]: Commencement: Reg. 27 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-61648286a074d5a3ee9fc178f36a595e]: Commencement: Reg. 27 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-9e42a319df275138f4cbd38d5a0aa03f]: Commencement: Reg. 28 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-9e42a319df275138f4cbd38d5a0aa03f]: Commencement: Reg. 28 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-7dc81c1e7713f9dcbe016b257d44ed61]: Commencement: Reg. 29 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-7dc81c1e7713f9dcbe016b257d44ed61]: Commencement: Reg. 29 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-e87cf5194ef9d750d1c31b7817783b2f]: Commencement: Reg. 30 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-e87cf5194ef9d750d1c31b7817783b2f]: Commencement: Reg. 30 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
 [^f00021]: Footnote: Section 14A was inserted by section 58(3) of the Scotland Act [2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11).
 
-[^key-f88dbd8c832d545ca7719217ef0372d5]: Commencement: Reg. 31 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-f88dbd8c832d545ca7719217ef0372d5]: Commencement: Reg. 31 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
 [^f00022]: Footnote: [S.I. 2011/1830](https://www.legislation.gov.uk/uksi/2011/1830), as amended by [S.I. 2015/652](https://www.legislation.gov.uk/uksi/2015/652), [2016/806](https://www.legislation.gov.uk/uksi/2016/806), [2019/1458](https://www.legislation.gov.uk/uksi/2019/1458) and paragraph 446 of Schedule 24 to the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17).
 
-[^key-95ddb844c1eb3a4919cc4b3cd46d002e]: Commencement: Sch. 1 para. 1 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-95ddb844c1eb3a4919cc4b3cd46d002e]: Commencement: Sch. 1 para. 1 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-60e0370d79772deac450869e714b8188]: Commencement: Sch. 1 para. 2 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-60e0370d79772deac450869e714b8188]: Commencement: Sch. 1 para. 2 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-66e7360b05753bca4fe10fa13d5784f4]: Commencement: Sch. 1 para. 3 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-66e7360b05753bca4fe10fa13d5784f4]: Commencement: Sch. 1 para. 3 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-434c61316fe57ecc47d8e6d0fbd4d503]: Commencement: Sch. 1 para. 4 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-434c61316fe57ecc47d8e6d0fbd4d503]: Commencement: Sch. 1 para. 4 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-20225812b670b0552ecef59e33394bf9]: Commencement: Sch. 1 para. 5 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-20225812b670b0552ecef59e33394bf9]: Commencement: Sch. 1 para. 5 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-05b8077149b84ffa88fa2445124f2eef]: Commencement: Sch. 2 Pt. 1 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-05b8077149b84ffa88fa2445124f2eef]: Commencement: Sch. 2 Pt. 1 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
 [^f00023]: Footnote: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32). Subsection (4) of section 100 was amended by [S.I. 2011/2195](https://www.legislation.gov.uk/uksi/2011/2195).
 
-[^key-6d197967b098fba2b3f365168cc3b2d9]: Commencement: Sch. 2 para. 1 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-6d197967b098fba2b3f365168cc3b2d9]: Commencement: Sch. 2 para. 1 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-aebbc0913bd5c5019bb3cf43a0ba8c20]: Commencement: Sch. 2 para. 2 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-aebbc0913bd5c5019bb3cf43a0ba8c20]: Commencement: Sch. 2 para. 2 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
 
-[^key-81ed435827d9a4b5004b040b422308fa]: Commencement: Sch. 2 para. 3 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)
+[^c-81ed435827d9a4b5004b040b422308fa]: Commencement: Sch. 2 para. 3 in force at 7.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/772/regulation/1/2)

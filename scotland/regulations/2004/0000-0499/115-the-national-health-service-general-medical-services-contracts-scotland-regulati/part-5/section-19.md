@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Services generally[^key-1c6306dc01b4d5aabba17300f47e4719]
+## 19. Services generally[^c-1c6306dc01b4d5aabba17300f47e4719]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c6306dc01b4d5aabba17300f47e4719]: Commencement: Reg. 19 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-1c6306dc01b4d5aabba17300f47e4719]: Commencement: Reg. 19 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

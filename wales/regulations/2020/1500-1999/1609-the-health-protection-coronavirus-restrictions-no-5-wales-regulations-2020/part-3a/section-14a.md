@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14A. Restriction on international travel[^key-43a0cf8c75a343f33eb127e4cae8b20d]
+## 14A. Restriction on international travel[^c-43a0cf8c75a343f33eb127e4cae8b20d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43a0cf8c75a343f33eb127e4cae8b20d]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/wsi/2020/1609/part/3A) omitted (17.5.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/3)
+[^c-43a0cf8c75a343f33eb127e4cae8b20d]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/wsi/2020/1609/part/3A) omitted (17.5.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/3)

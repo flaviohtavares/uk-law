@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Constituent councils to act in accordance with local transport plans etc[^key-0fe567979f48af49b1704ea2a222e8f0]
+## 30. Constituent councils to act in accordance with local transport plans etc[^c-0fe567979f48af49b1704ea2a222e8f0]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ For section 113 of the Transport Act 2000 substitute—
 
 ## Annotations
 
-[^key-0fe567979f48af49b1704ea2a222e8f0]: Commencement: S. 30 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-0fe567979f48af49b1704ea2a222e8f0]: Commencement: S. 30 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

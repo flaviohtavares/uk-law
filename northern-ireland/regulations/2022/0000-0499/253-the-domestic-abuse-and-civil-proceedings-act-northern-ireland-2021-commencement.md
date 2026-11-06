@@ -37,13 +37,13 @@ Made
 
 The Department of Justice, in exercise of the powers conferred by section 40(4) of the Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021[^f00001], makes the following Order.
 
-## 1. Citation and interpretation[^key-fc35ea9c12cfb6e10539f2a0800ebbb5]
+## 1. Citation and interpretation[^c-fc35ea9c12cfb6e10539f2a0800ebbb5]
 
 (1) This Order may be cited as the Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (Commencement No. 3) Order (Northern Ireland) 2022.
 
 (2) In this Order “**the 2021 Act**” means the Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021.
 
-## 2. Appointed Day[^key-c45402197326a054edbf7f1fedd9dfba]
+## 2. Appointed Day[^c-c45402197326a054edbf7f1fedd9dfba]
 
 The day appointed for the coming into operation of section 37 (Special measures directions in family proceedings) of the 2021 Act is 28th November 2022.
 
@@ -74,6 +74,6 @@ NOTE AS TO EARLIER COMMENCEMENT ORDER
 
 [^f00001]: Footnote: [2021 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2021/2).
 
-[^key-fc35ea9c12cfb6e10539f2a0800ebbb5]: Commencement: Art. 1 in operation at made date
+[^c-fc35ea9c12cfb6e10539f2a0800ebbb5]: Commencement: Art. 1 in operation at made date
 
-[^key-c45402197326a054edbf7f1fedd9dfba]: Commencement: Art. 2 in operation at made date
+[^c-c45402197326a054edbf7f1fedd9dfba]: Commencement: Art. 2 in operation at made date

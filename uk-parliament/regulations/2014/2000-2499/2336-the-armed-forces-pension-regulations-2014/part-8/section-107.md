@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Procedure for making a request[^key-d6cbbf1faf8d56d40d8d6257e11ca88a]
+## 107. Procedure for making a request[^c-d6cbbf1faf8d56d40d8d6257e11ca88a]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6cbbf1faf8d56d40d8d6257e11ca88a]: Commencement: [Reg. 107](https://www.legislation.gov.uk/uksi/2014/2336/regulation/107) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-d6cbbf1faf8d56d40d8d6257e11ca88a]: Commencement: [Reg. 107](https://www.legislation.gov.uk/uksi/2014/2336/regulation/107) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

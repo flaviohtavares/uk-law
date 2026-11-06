@@ -32,10 +32,10 @@ summary: ''
 
 of 29 March 1977 on the implementation of Decision 77/270/Euratom empowering the Commission to issue Euratom loans for the purpose of contributing to the financing of nuclear power stations (revoked)
 
-[^key-abeefedd4c5d636af3e96677e817ed14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-abeefedd4c5d636af3e96677e817ed14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-abeefedd4c5d636af3e96677e817ed14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-abeefedd4c5d636af3e96677e817ed14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-abeefedd4c5d636af3e96677e817ed14]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-abeefedd4c5d636af3e96677e817ed14]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

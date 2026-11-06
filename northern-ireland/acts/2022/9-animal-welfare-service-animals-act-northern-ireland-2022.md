@@ -36,7 +36,7 @@ An Act to amend the Welfare of Animals Act (Northern Ireland) 2011 in relation t
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Amendment of the 2011 Act[^key-e46f63027b81efef7047c82ebf22b406]
+## 1. Amendment of the 2011 Act[^c-e46f63027b81efef7047c82ebf22b406]
 
 In the Welfare of Animals Act (Northern Ireland) 2011, after section 51 insertâ€”
 
@@ -67,7 +67,7 @@ In the Welfare of Animals Act (Northern Ireland) 2011, after section 51 insertâ€
 
 .
 
-## 2. Commencement and short title[^key-b81b756937b7b53b9772329099b74808]
+## 2. Commencement and short title[^c-b81b756937b7b53b9772329099b74808]
 
 (1) This Act comes into operation on the day after receiving Royal Assent.
 
@@ -75,6 +75,6 @@ In the Welfare of Animals Act (Northern Ireland) 2011, after section 51 insertâ€
 
 ## Annotations
 
-[^key-e46f63027b81efef7047c82ebf22b406]: Commencement: S. 1 in operation at 31.3.2022, see [s. 2(1)](https://www.legislation.gov.uk/nia/2022/9/section/2/1)
+[^c-e46f63027b81efef7047c82ebf22b406]: Commencement: S. 1 in operation at 31.3.2022, see [s. 2(1)](https://www.legislation.gov.uk/nia/2022/9/section/2/1)
 
-[^key-b81b756937b7b53b9772329099b74808]: Commencement: S. 2 in operation at 31.3.2022, see [s. 2(1)](https://www.legislation.gov.uk/nia/2022/9/section/2/1)
+[^c-b81b756937b7b53b9772329099b74808]: Commencement: S. 2 in operation at 31.3.2022, see [s. 2(1)](https://www.legislation.gov.uk/nia/2022/9/section/2/1)

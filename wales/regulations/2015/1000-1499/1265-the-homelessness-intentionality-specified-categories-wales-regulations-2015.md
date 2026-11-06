@@ -43,7 +43,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 A draft of this instrument was laid before and approved by resolution of the National Assembly for Wales in accordance with section 142(3)(b)(ii) of that Act.
 
-## 1. Title, commencement and interpretation[^key-f0508dab645675abc522bbe691b7437d]
+## 1. Title, commencement and interpretation[^c-f0508dab645675abc522bbe691b7437d]
 
 (1) The title of these Regulations is the Homelessness (Intentionality) (Specified Categories) (Wales) Regulations 2015.
 
@@ -58,7 +58,7 @@ A draft of this instrument was laid before and approved by resolution of the Nat
 
 ## PART 1 — Specified Categories
 
-### 2. Categories of applicant for the purpose of section 78[^key-9692b554f698521cb26c16e68be5788a]
+### 2. Categories of applicant for the purpose of section 78[^c-9692b554f698521cb26c16e68be5788a]
 
 The following are categories of applicant for the purpose of section 78 (deciding to have regard to intentionality)—
 
@@ -86,18 +86,18 @@ The following are categories of applicant for the purpose of section 78 (decidin
   - (i) who has served in the regular armed forces of the Crown who has been homeless since leaving those forces, or
   - (ii) with whom a person who falls within sub-paragraph (i) resides or might reasonably be expected to reside;
 - (j) a person who has a local connection with the area of the local housing authority and who is vulnerable as a result of one of the following reasons—
-  - (i) having served a custodial sentence within the meaning of section 76 of the Powers of Criminal Courts (Sentencing) Act 2000[^f00004] or section 222 of the Sentencing Code[^key-9129d5077434d7a755d9b85ce5192b8f],
+  - (i) having served a custodial sentence within the meaning of section 76 of the Powers of Criminal Courts (Sentencing) Act 2000[^f00004] or section 222 of the Sentencing Code[^c-9129d5077434d7a755d9b85ce5192b8f],
   - (ii) having been remanded in or committed to custody by an order of a court, or
   - (iii) having been remanded to youth detention accommodation under section 91(4) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00005],
 
   or a person with whom such a person resides or might reasonably be expected to reside.
-- (k)[^key-ffc3aa880a59cb31a2b49b1c28685cab] a person—
+- (k)[^c-ffc3aa880a59cb31a2b49b1c28685cab] a person—
   - (i) who is street homeless (within the meaning of section 71(2)), or
   - (ii) with whom a person who falls within sub-paragraph (i) might reasonably be expected to reside.
 
 ## PART 2 — Procedure for having regard to intentionality
 
-### 3. Notification of decision to have regard to intentionality to the Welsh Ministers[^key-e788a450277e6828f1b18685d0752e54]
+### 3. Notification of decision to have regard to intentionality to the Welsh Ministers[^c-e788a450277e6828f1b18685d0752e54]
 
 (1) A local housing authority which decides to have regard to intentionality must provide a written notice to the Welsh Ministers of their decision.
 
@@ -108,7 +108,7 @@ The following are categories of applicant for the purpose of section 78 (decidin
 
 (3) The written notice must be provided to the Welsh Ministers no less than 14 days prior to the implementation of the decision to have regard to intentionality.
 
-### 4. Publication of notice of decision to have regard to intentionality[^key-1f5a2f6245d673d25e627d20ca806751]
+### 4. Publication of notice of decision to have regard to intentionality[^c-1f5a2f6245d673d25e627d20ca806751]
 
 (1) A local housing authority which decides to have regard to intentionality must publish a notice of its decision—
 
@@ -117,26 +117,26 @@ The following are categories of applicant for the purpose of section 78 (decidin
 
 no less than 14 days prior to the implementation of the decision to have regard to intentionality.
 
-**5.**[^key-6aa47ceebf129c6599e427a6c98fca10] (1) A local housing authority must take reasonable steps to notify its decision under regulation 4(1) to—
+**5.**[^c-6aa47ceebf129c6599e427a6c98fca10] (1) A local housing authority must take reasonable steps to notify its decision under regulation 4(1) to—
 
 - (a) applicants and their advisers, and
 - (b) such public or local authorities, voluntary organisations or other persons as it considers appropriate.
 
 (2) A local housing authority must make a copy of the notice of its decision available, without charge, to applicants who will be affected by the decision.
 
-### 6. Limitation on revision of list of specified categories of applicants[^key-155eaea9912ffaf8abd349db17432de5]
+### 6. Limitation on revision of list of specified categories of applicants[^c-155eaea9912ffaf8abd349db17432de5]
 
 A local housing authority that has decided to have regard to intentionality may not revise the list of specified categories of applicants more than twice in a 12 month period. Regulations 3, 4 and 5 apply to a decision to revise a list as they apply to the original decision.
 
 ## PART 3 — Decisions on intentionality in relation to existing applicants
 
-### 7. Effect on existing applicant of decision to have regard to intentionality[^key-5213e245aa6bf38bae88972643c315c0]
+### 7. Effect on existing applicant of decision to have regard to intentionality[^c-5213e245aa6bf38bae88972643c315c0]
 
 (1) A local housing authority that decides to have regard to intentionality in accordance with section 78 must not have regard to intentionality in relation to an existing applicant.
 
 (2) In this regulation, “existing applicant” (“*ceisydd presennol*”) means an applicant to whom the duty in section 62(1) is owed at the time when a decision to have regard to intentionality is made.
 
-### 8. Effect on existing applicant of changes to a list of specified categories of applicants[^key-2fae3e113a9d18a1e43bab8277cdc4dc]
+### 8. Effect on existing applicant of changes to a list of specified categories of applicants[^c-2fae3e113a9d18a1e43bab8277cdc4dc]
 
 (1) A local housing authority having regard to intentionality must not have regard to intentionality in relation to an existing applicant if—
 
@@ -180,30 +180,30 @@ If, on the other hand, such an applicant is in category which is included in a l
 
 [^f00001]: Footnote: [2014 anaw 7](https://www.legislation.gov.uk/anaw/2014/7).
 
-[^key-f0508dab645675abc522bbe691b7437d]: Commencement: Reg. 1 in force at 27.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1265/regulation/1/2)
+[^c-f0508dab645675abc522bbe691b7437d]: Commencement: Reg. 1 in force at 27.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1265/regulation/1/2)
 
 [^f00002]: Footnote: As defined by section 62(3).
 
 [^f00003]: Footnote: See section 78(2).
 
-[^key-9692b554f698521cb26c16e68be5788a]: Commencement: Reg. 2 in force at 27.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1265/regulation/1/2)
+[^c-9692b554f698521cb26c16e68be5788a]: Commencement: Reg. 2 in force at 27.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1265/regulation/1/2)
 
 [^f00004]: Footnote: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6).
 
-[^key-9129d5077434d7a755d9b85ce5192b8f]: Textual amendment: Words in [reg. 2(j)(i)](https://www.legislation.gov.uk/wsi/2015/1265/regulation/2/j/i) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 432(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/432/1) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9129d5077434d7a755d9b85ce5192b8f]: Textual amendment: Words in [reg. 2(j)(i)](https://www.legislation.gov.uk/wsi/2015/1265/regulation/2/j/i) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 432(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/432/1) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^f00005]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-ffc3aa880a59cb31a2b49b1c28685cab]: Textual amendment: [Reg. 2(k)](https://www.legislation.gov.uk/wsi/2015/1265/regulation/2/k) inserted (24.10.2022) by [The Homelessness (Priority Need and Intentionality) (Wales) Regulations 2022 (S.I. 2022/1069)](https://www.legislation.gov.uk/wsi/2022/1069), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1069/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2022/1069/regulation/3)
+[^c-ffc3aa880a59cb31a2b49b1c28685cab]: Textual amendment: [Reg. 2(k)](https://www.legislation.gov.uk/wsi/2015/1265/regulation/2/k) inserted (24.10.2022) by [The Homelessness (Priority Need and Intentionality) (Wales) Regulations 2022 (S.I. 2022/1069)](https://www.legislation.gov.uk/wsi/2022/1069), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1069/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2022/1069/regulation/3)
 
-[^key-e788a450277e6828f1b18685d0752e54]: Commencement: Reg. 3 in force at 27.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1265/regulation/1/2)
+[^c-e788a450277e6828f1b18685d0752e54]: Commencement: Reg. 3 in force at 27.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1265/regulation/1/2)
 
-[^key-1f5a2f6245d673d25e627d20ca806751]: Commencement: Reg. 4 in force at 27.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1265/regulation/1/2)
+[^c-1f5a2f6245d673d25e627d20ca806751]: Commencement: Reg. 4 in force at 27.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1265/regulation/1/2)
 
-[^key-6aa47ceebf129c6599e427a6c98fca10]: Commencement: Reg. 5 in force at 27.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1265/regulation/1/2)
+[^c-6aa47ceebf129c6599e427a6c98fca10]: Commencement: Reg. 5 in force at 27.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1265/regulation/1/2)
 
-[^key-155eaea9912ffaf8abd349db17432de5]: Commencement: Reg. 6 in force at 27.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1265/regulation/1/2)
+[^c-155eaea9912ffaf8abd349db17432de5]: Commencement: Reg. 6 in force at 27.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1265/regulation/1/2)
 
-[^key-5213e245aa6bf38bae88972643c315c0]: Commencement: Reg. 7 in force at 27.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1265/regulation/1/2)
+[^c-5213e245aa6bf38bae88972643c315c0]: Commencement: Reg. 7 in force at 27.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1265/regulation/1/2)
 
-[^key-2fae3e113a9d18a1e43bab8277cdc4dc]: Commencement: Reg. 8 in force at 27.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1265/regulation/1/2)
+[^c-2fae3e113a9d18a1e43bab8277cdc4dc]: Commencement: Reg. 8 in force at 27.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1265/regulation/1/2)

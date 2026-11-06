@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 134. Power of court to detain acquitted persons[^key-18aef3e779f20c6494795f189d0c6249][^key-0b95b52d7792f610ca1090886bf5b05f]
+## 134. Power of court to detain acquitted persons[^c-18aef3e779f20c6494795f189d0c6249][^c-0b95b52d7792f610ca1090886bf5b05f]
 
 *Extent: S*
 
@@ -93,6 +93,6 @@ After section 60B of the 1995 Act, there shall be inserted—
 
 ## Annotations
 
-[^key-18aef3e779f20c6494795f189d0c6249]: Commencement: S. 134 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-18aef3e779f20c6494795f189d0c6249]: Commencement: S. 134 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-0b95b52d7792f610ca1090886bf5b05f]: Commencement: [S. 134](https://www.legislation.gov.uk/asp/2003/13/section/134) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-0b95b52d7792f610ca1090886bf5b05f]: Commencement: [S. 134](https://www.legislation.gov.uk/asp/2003/13/section/134) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

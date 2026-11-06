@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Deemed marine licences under the 2009 Act[^key-1efe8104a51bf5e65b4bb1d42fad5616]
+## 31. Deemed marine licences under the 2009 Act[^c-1efe8104a51bf5e65b4bb1d42fad5616]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The deemed marine licences set out in Schedules 11 (deemed marine licence under 
 
 ## Annotations
 
-[^key-1efe8104a51bf5e65b4bb1d42fad5616]: Commencement: Art. 31 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-1efe8104a51bf5e65b4bb1d42fad5616]: Commencement: Art. 31 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)

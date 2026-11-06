@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140.[^key-add4fda6825c93ec496c0ab0ad7ede5b]
+## 140.[^c-add4fda6825c93ec496c0ab0ad7ede5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 68 (meaning of “material interest” in a company), in subsection (
 
 ## Annotations
 
-[^key-add4fda6825c93ec496c0ab0ad7ede5b]: Commencement: Reg. 140 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-add4fda6825c93ec496c0ab0ad7ede5b]: Commencement: Reg. 140 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

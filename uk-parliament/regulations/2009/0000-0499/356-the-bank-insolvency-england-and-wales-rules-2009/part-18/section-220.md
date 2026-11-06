@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 220. Introductory[^key-a93e998ec539149e7ff542b44182a518]
+## 220. Introductory[^c-a93e998ec539149e7ff542b44182a518]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 7.43 of the 1986 Rules[^f00073]. In paragraph (1), for (a), substitut
 
 ## Annotations
 
-[^key-a93e998ec539149e7ff542b44182a518]: Commencement: Rule 220 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-a93e998ec539149e7ff542b44182a518]: Commencement: Rule 220 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00073]: Footnote: Paragraph 1 was amended by [SI 2007/1898](https://www.legislation.gov.uk/uksi/2007/1898).

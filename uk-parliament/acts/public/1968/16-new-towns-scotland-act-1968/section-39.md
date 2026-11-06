@@ -24,7 +24,7 @@ summary: ''
 
 (2) The accounts of every development corporation shall be audited by an auditor to be appointed annually by the Secretary of State.
 
-(3)[^c733679] No person shall be so appointed unless he is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006[^key-7deb67e78808ba3aac00f2b11d608663].
+(3)[^c733679] No person shall be so appointed unless he is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006[^c-7deb67e78808ba3aac00f2b11d608663].
 
 (4) As soon as the annual accounts of a development corporation for any financial year have been audited, the corporation shall send to the Secretary of State a copy of the accounts prepared by them for that year in accordance with this section, together with a copy of any report made by the auditor thereon.
 
@@ -44,7 +44,7 @@ summary: ''
 
 [^c733679]: Textual amendment: S. 39(3) substituted (1.10.1991) by [S.I. 1991/1997](https://www.legislation.gov.uk/uksi/1991/1997), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/1997/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1991/1997/regulation/2), [Sch. para.18](https://www.legislation.gov.uk/uksi/1991/1997/schedule/paragraph/18)
 
-[^key-7deb67e78808ba3aac00f2b11d608663]: Textual amendment: Words in [s. 39(3)](https://www.legislation.gov.uk/ukpga/1968/16/section/39/3) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 1(i)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-7deb67e78808ba3aac00f2b11d608663]: Textual amendment: Words in [s. 39(3)](https://www.legislation.gov.uk/ukpga/1968/16/section/39/3) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 1(i)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
 [^c733680]: Textual amendment: Words repealed by [S.I. 1969/453](https://www.legislation.gov.uk/uksi/1969/453)
 

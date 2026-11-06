@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Powers to enter land for enforcement purposes[^key-5af7f63e17ec4a9299b6a6dc3535f19e][^key-62e9e5c011f61ef11cf97c10055ce4cc]
+## 106. Powers to enter land for enforcement purposes[^c-5af7f63e17ec4a9299b6a6dc3535f19e][^c-62e9e5c011f61ef11cf97c10055ce4cc]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5af7f63e17ec4a9299b6a6dc3535f19e]: Commencement: S. 106 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-5af7f63e17ec4a9299b6a6dc3535f19e]: Commencement: S. 106 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-62e9e5c011f61ef11cf97c10055ce4cc]: Commencement: [S. 106](https://www.legislation.gov.uk/asc/2024/3/section/106) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-62e9e5c011f61ef11cf97c10055ce4cc]: Commencement: [S. 106](https://www.legislation.gov.uk/asc/2024/3/section/106) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

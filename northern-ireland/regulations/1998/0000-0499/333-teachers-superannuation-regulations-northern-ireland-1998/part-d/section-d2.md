@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## D2. Exclusion from reckonable service[^key-6c825292d733a3c229e18694826f8200]
+## D2. Exclusion from reckonable service[^c-6c825292d733a3c229e18694826f8200]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ The following shall not count as reckonable service—
 
 ## Annotations
 
-[^key-6c825292d733a3c229e18694826f8200]: Commencement: Reg. D2 in operation at 2.11.1998, see reg. A1
+[^c-6c825292d733a3c229e18694826f8200]: Commencement: Reg. D2 in operation at 2.11.1998, see reg. A1

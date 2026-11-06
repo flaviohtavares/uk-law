@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Visiting forces[^key-0932167b32ae4d87513ab50fc2f3b777]
+## 32. Visiting forces[^c-0932167b32ae4d87513ab50fc2f3b777]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Section 223 of the WRA (exemption of visiting forces from restrictions on abstra
 
 ## Annotations
 
-[^key-0932167b32ae4d87513ab50fc2f3b777]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2003/37/section/32) in force at 1.1.2018 by [S.I. 2017/1043](https://www.legislation.gov.uk/uksi/2017/1043), [art. 2(d)](https://www.legislation.gov.uk/uksi/2017/1043/article/2/d)
+[^c-0932167b32ae4d87513ab50fc2f3b777]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2003/37/section/32) in force at 1.1.2018 by [S.I. 2017/1043](https://www.legislation.gov.uk/uksi/2017/1043), [art. 2(d)](https://www.legislation.gov.uk/uksi/2017/1043/article/2/d)

@@ -24,9 +24,9 @@ summary: ''
 
 (2) Subject to any restriction of choice imposed by or in accordance with orders or regulations under section 4—
 
-- (a) a man of the Army Reserve[^key-d33cdaf006f8a5629a1ffd9c03fe5b52] shall be enlisted for service in such corps and posted to such unit as he may select;
+- (a) a man of the Army Reserve[^c-d33cdaf006f8a5629a1ffd9c03fe5b52] shall be enlisted for service in such corps and posted to such unit as he may select;
 - (b) a man of the Royal Auxiliary Air Force shall be enlisted for service in such unit as he may select; and
-- (c) a man enlisted in the Regular Reserve[^key-85c8f4d18dab50242e6e5c40ebacdd8c] or the Air Force Reserve shall be enlisted for service in such military body or air-force body (as the case may be) as he may select.
+- (c) a man enlisted in the Regular Reserve[^c-85c8f4d18dab50242e6e5c40ebacdd8c] or the Air Force Reserve shall be enlisted for service in such military body or air-force body (as the case may be) as he may select.
 
 (3) A man of the Army Reserve may not (after his enlistment) be transferred to another corps, or posted or attached to any unit, without his consent.
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d33cdaf006f8a5629a1ffd9c03fe5b52]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1996/14) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(b)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
+[^c-d33cdaf006f8a5629a1ffd9c03fe5b52]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1996/14) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(b)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
 
-[^key-85c8f4d18dab50242e6e5c40ebacdd8c]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1996/14) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/a)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
+[^c-85c8f4d18dab50242e6e5c40ebacdd8c]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1996/14) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/a)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)

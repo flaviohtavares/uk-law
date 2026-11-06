@@ -35,22 +35,22 @@ amending Commission Regulation (EC) No 1358/2003 as regards the list of Communit
 
 (Text with EEA relevance) (revoked)
 
-[^key-02e2bb2f6f78a310eed01e781d477739]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02e2bb2f6f78a310eed01e781d477739]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-02e2bb2f6f78a310eed01e781d477739] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-02e2bb2f6f78a310eed01e781d477739] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-02e2bb2f6f78a310eed01e781d477739] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-02e2bb2f6f78a310eed01e781d477739] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02e2bb2f6f78a310eed01e781d477739]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02e2bb2f6f78a310eed01e781d477739]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — List of Community airports covered from 1 January 2007[^key-02e2bb2f6f78a310eed01e781d477739]
+## ANNEX — List of Community airports covered from 1 January 2007[^c-02e2bb2f6f78a310eed01e781d477739]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-02e2bb2f6f78a310eed01e781d477739]: Textual amendment: Regulation revoked (22.11.2023) by [The Aviation Statistics Regulations 2023 (S.I. 2023/1074)](https://www.legislation.gov.uk/uksi/2023/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1074/regulation/1/2), [11(d)](https://www.legislation.gov.uk/uksi/2023/1074/regulation/11/d)
+[^c-02e2bb2f6f78a310eed01e781d477739]: Textual amendment: Regulation revoked (22.11.2023) by [The Aviation Statistics Regulations 2023 (S.I. 2023/1074)](https://www.legislation.gov.uk/uksi/2023/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1074/regulation/1/2), [11(d)](https://www.legislation.gov.uk/uksi/2023/1074/regulation/11/d)

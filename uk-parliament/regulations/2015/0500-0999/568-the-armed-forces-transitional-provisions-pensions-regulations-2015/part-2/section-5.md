@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Amendment of Rule H.1 in Schedule 1 to the AFPS 1975[^key-af31540e66619f34648318be642386a0]
+## 5. Amendment of Rule H.1 in Schedule 1 to the AFPS 1975[^c-af31540e66619f34648318be642386a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the Naval Pensions Order, the Army Pensions Warrant and the Air Force Pension
 
 ## Annotations
 
-[^key-af31540e66619f34648318be642386a0]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-af31540e66619f34648318be642386a0]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00012]: Footnote: The AFPS 2015 is the pension scheme established by the Armed Forces Pension Regulations 2014 ([S.I. 2014/2336](https://www.legislation.gov.uk/uksi/2014/2336)).

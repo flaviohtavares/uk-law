@@ -41,11 +41,11 @@ Coming into operation
 
 In exercise of the powers conferred on me by section 155(1)(b) and (2) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and of all other powers enabling me in that behalf, I hereby make the following order:
 
-## 1. Citation and commencement[^key-f6d4a1de3493eb51fd04dbe2c37a7cdd]
+## 1. Citation and commencement[^c-f6d4a1de3493eb51fd04dbe2c37a7cdd]
 
 This Order may be cited as the Social Security (Reciprocal Agreements) Order (Northern Ireland) 2005 and shall come into operation on 5th December 2005.
 
-## 2. Modification of Acts[^key-f74138ae3180a4cf3a1d63bbfb237fe7]
+## 2. Modification of Acts[^c-f74138ae3180a4cf3a1d63bbfb237fe7]
 
 The Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002] and the Social Security Administration (Northern Ireland) Act 1992 shall be modified or adapted to such extent as may be required to give effect to the alterations set out in Schedule 1 to this Order which are proposed to the agreements set out in the Orders in Council or orders made by the Secretary of State specified in Schedule 2 to this order.
 
@@ -55,11 +55,11 @@ Peter Hain
 
 One of Her Majesty’s Principal Secretaries of State
 
-## SCHEDULE 1 — PROPOSED ALTERATIONS TO EXISTING AGREEMENTS[^key-d1a039b47045d338474539a0768ce193]
+## SCHEDULE 1 — PROPOSED ALTERATIONS TO EXISTING AGREEMENTS[^c-d1a039b47045d338474539a0768ce193]
 
 Article 2
 
-[^key-d1a039b47045d338474539a0768ce193]
+[^c-d1a039b47045d338474539a0768ce193]
 
 Where in the agreements set out in the Schedule to an Order in Council or an order made by the Secretary of State specified in Schedule 2 to this order there are references to the terms set out in column 1, such references shall for the purposes of applying the relevant legislation of the United Kingdom be altered to be replaced by the corresponding terms set out in column 2, and pronouns used in such agreements in relation to those terms shall be altered as necessary to include both the masculine and feminine gender.
 
@@ -82,14 +82,14 @@ Where in the agreements set out in the Schedule to an Order in Council or an ord
 | Divorce | Divorce or dissolution of a civil partnership |
 | Widowhood | Death of a spouse or civil partner |
 
-## SCHEDULE 2 — Orders in Council and orders of the Secretary of State modified by this order[^key-c542e75d9deb818b159e03a754b1491f]
+## SCHEDULE 2 — Orders in Council and orders of the Secretary of State modified by this order[^c-c542e75d9deb818b159e03a754b1491f]
 
 Article 2
 
 | Title of Order in Council or order | Reference | Previously modified by |
 | --- | --- | --- |
 | The National Insurance and Industrial Injuries (Reciprocal Agreement with Luxembourg) Order (Northern Ireland) 1955 | [S.R. & O. (N.I.) 1955 No 77](https://www.legislation.gov.uk/nisro/1955/77) | The Social Security (Reciprocal Agreements) (Northern Ireland) Order 1976[^f00004], the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1979[^f00005], the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1988[^f00006], the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1995[^f00007] and the Social Security (Reciprocal Agreements) Order (Northern Ireland) 2001[^f00008]. |
-| [^key-af76ebffc9784c6dfe1fd96a1320345f]. . . | [^key-af76ebffc9784c6dfe1fd96a1320345f]. . . | [^key-af76ebffc9784c6dfe1fd96a1320345f]. . . |
+| [^c-af76ebffc9784c6dfe1fd96a1320345f]. . . | [^c-af76ebffc9784c6dfe1fd96a1320345f]. . . | [^c-af76ebffc9784c6dfe1fd96a1320345f]. . . |
 | The National Insurance and Industrial Injuries (Reciprocal Agreement with Israel) Order (Northern Ireland) 1958 | [S.R. & O. (N.I.) 1958 No 32](https://www.legislation.gov.uk/nisro/1958/32) | The Social Security (Reciprocal Agreements) (Northern Ireland) Order 1976, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1979, the Social Security (Israel) Order (Northern Ireland) 1984[^f00010], the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1988, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1995 and the Social Security (Reciprocal Agreements) Order (Northern Ireland) 2001. |
 | The Family Allowances, National Insurance and Industrial Injuries (Reciprocal Agreement with Belgium) Order (Northern Ireland) 1958 | [S.R. & O. (N.I.) 1958 No 93](https://www.legislation.gov.uk/nisro/1958/93) | The Social Security (Reciprocal Agreements) (Northern Ireland) Order 1976, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1979, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1988, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1995, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1996 and the Social Security (Reciprocal Agreements) Order (Northern Ireland) 2001. |
 | The National Insurance and Industrial Injuries (Reciprocal Agreement with France) Order (Northern Ireland) 1958 | [S.R. & O. (N.I.) 1958 No 101](https://www.legislation.gov.uk/nisro/1958/101) | The Social Security (Reciprocal Agreements) (Northern Ireland) Order 1976, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1979, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1988, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1995, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1996 and the Social Security (Reciprocal Agreements) Order (Northern Ireland) 2001. |
@@ -98,11 +98,11 @@ Article 2
 | The Family Allowances, National Insurance and Industrial Injuries (Reciprocal Agreement with Denmark) Order (Northern Ireland) 1960 | [S.R. & O. (N.I.) 1960 No 16](https://www.legislation.gov.uk/nisro/1960/16) | The Social Security (Reciprocal Agreements) (Northern Ireland) Order 1976, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1979, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1988, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1995, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1996 and the Social Security (Reciprocal Agreements) Order (Northern Ireland) 2001. |
 | The Family Allowances, National Insurance and Industrial Injuries (Reciprocal Agreement with Germany) Order (Northern Ireland) 1961 | [S.R. & O. (N.I.) 1961 No 148](https://www.legislation.gov.uk/nisro/1961/148) | The Social Security (Reciprocal Agreements) (Northern Ireland) Order 1976, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1988, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1995, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1996 and the Social Security (Reciprocal Agreements) Order (Northern Ireland) 2001. |
 | The National Insurance and Industrial Injuries (Reciprocal Agreement with Turkey) Order (Northern Ireland) 1961 | [S.R. & O. (N.I.) 1961 No 149](https://www.legislation.gov.uk/nisro/1961/149) | The Social Security (Reciprocal Agreements) (Northern Ireland) Order 1976, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1979, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1988, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1995 and the Social Security (Reciprocal Agreements) Order (Northern Ireland) 2001. |
-| [^key-f6202de3dc670d4f7320e2efe11daaad]. . . | [^key-f6202de3dc670d4f7320e2efe11daaad]. . . | [^key-f6202de3dc670d4f7320e2efe11daaad]. . . |
-| [^key-f6202de3dc670d4f7320e2efe11daaad]. . . | [^key-f6202de3dc670d4f7320e2efe11daaad]. . . | [^key-f6202de3dc670d4f7320e2efe11daaad]. . . |
+| [^c-f6202de3dc670d4f7320e2efe11daaad]. . . | [^c-f6202de3dc670d4f7320e2efe11daaad]. . . | [^c-f6202de3dc670d4f7320e2efe11daaad]. . . |
+| [^c-f6202de3dc670d4f7320e2efe11daaad]. . . | [^c-f6202de3dc670d4f7320e2efe11daaad]. . . | [^c-f6202de3dc670d4f7320e2efe11daaad]. . . |
 | The Family Allowances, National Insurance and Industrial Injuries (Switzerland) Order (Northern Ireland) 1969 | [S.R. & O. (N.I.) 1969 No 143](https://www.legislation.gov.uk/nisro/1969/143) | The Social Security (Reciprocal Agreements) (Northern Ireland) Order 1976, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1979, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1988, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1995 and the Social Security (Reciprocal Agreements) Order (Northern Ireland) 2001. |
 | The National Insurance and Industrial Injuries (Bermuda) Order (Northern Ireland) 1970 | [S.R. & O. (N.I.) 1970 No 22](https://www.legislation.gov.uk/nisro/1970/22) | The Social Security (Reciprocal Agreements) (Northern Ireland) Order 1976, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1979, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1988 and the Social Security (Reciprocal Agreements) Order (Northern Ireland) 2001. |
-| [^key-f6202de3dc670d4f7320e2efe11daaad]. . . | [^key-f6202de3dc670d4f7320e2efe11daaad]. . . | [^key-f6202de3dc670d4f7320e2efe11daaad]. . . |
+| [^c-f6202de3dc670d4f7320e2efe11daaad]. . . | [^c-f6202de3dc670d4f7320e2efe11daaad]. . . | [^c-f6202de3dc670d4f7320e2efe11daaad]. . . |
 | The Family Allowances, National Insurance and Industrial Injuries (Spain) Order (Northern Ireland) 1975 | [S.R. 1975 No. 77](https://www.legislation.gov.uk/nisr/1975/77) | The Social Security (Spain) (Northern Ireland) Order 1976[^f00012], the Social Security (Reciprocal Agreements) (Northern Ireland) Order 1976, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1979, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1988, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1995, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1996 and the Social Security (Reciprocal Agreements) Order (Northern Ireland) 2001. |
 | The Social Security (Portugal) Order (Northern Ireland) 1979 | [S.R. 1979 No. 303](https://www.legislation.gov.uk/nisr/1979/303) | The Social Security (Reciprocal Agreements) Order (Northern Ireland) 1982[^f00013], the Social Security (Portugal) Order (Northern Ireland) 1987[^f00014], the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1988, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1995, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1996 and the Social Security (Reciprocal Agreements) Order (Northern Ireland) 2001. |
 | The Social Security (Austria) Order (Northern Ireland) 1981 | [S.R. 1981 No. 144](https://www.legislation.gov.uk/nisr/1981/144) | The Social Security (Austria) Order (Northern Ireland) 1987[^f00015], the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1988, the Social Security (Austria) Order (Northern Ireland) 1992[^f00016], the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1995, the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1996 and the Social Security (Reciprocal Agreements) Order (Northern Ireland) 2001. |
@@ -129,17 +129,17 @@ This Order provides for social security legislation to be modified, to reflect c
 
 [^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-f6d4a1de3493eb51fd04dbe2c37a7cdd]: Commencement: Art. 1 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/544/article/1)
+[^c-f6d4a1de3493eb51fd04dbe2c37a7cdd]: Commencement: Art. 1 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/544/article/1)
 
-[^key-f74138ae3180a4cf3a1d63bbfb237fe7]: Commencement: Art. 2 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/544/article/1)
+[^c-f74138ae3180a4cf3a1d63bbfb237fe7]: Commencement: Art. 2 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/544/article/1)
 
 [^f00002]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
-[^key-d1a039b47045d338474539a0768ce193]: Commencement: Sch. 1 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/544/article/1)
+[^c-d1a039b47045d338474539a0768ce193]: Commencement: Sch. 1 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/544/article/1)
 
 [^f00003]: Footnote: *See* [S.R. 2001 No. 86](https://www.legislation.gov.uk/nisr/2001/86)
 
-[^key-c542e75d9deb818b159e03a754b1491f]: Commencement: Sch. 2 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/544/article/1)
+[^c-c542e75d9deb818b159e03a754b1491f]: Commencement: Sch. 2 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/544/article/1)
 
 [^f00004]: Footnote: [S.I. 1976/1044](https://www.legislation.gov.uk/uksi/1976/1044)
 
@@ -151,11 +151,11 @@ This Order provides for social security legislation to be modified, to reflect c
 
 [^f00008]: Footnote: [S.R. 2001 No. 86](https://www.legislation.gov.uk/nisr/2001/86)
 
-[^key-af76ebffc9784c6dfe1fd96a1320345f]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2005/544/schedule/2) omitted (1.6.2007) by virtue of [The Social Security (Netherlands) Order (Northern Ireland) 2007 (S.R. 2007/295)](https://www.legislation.gov.uk/nisr/2007/295), [arts. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1), [3(2)(g)](https://www.legislation.gov.uk/nisr/2007/295/article/3/2/g)
+[^c-af76ebffc9784c6dfe1fd96a1320345f]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2005/544/schedule/2) omitted (1.6.2007) by virtue of [The Social Security (Netherlands) Order (Northern Ireland) 2007 (S.R. 2007/295)](https://www.legislation.gov.uk/nisr/2007/295), [arts. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1), [3(2)(g)](https://www.legislation.gov.uk/nisr/2007/295/article/3/2/g)
 
 [^f00010]: Footnote: [S.R. 1984 No. 90](https://www.legislation.gov.uk/nisr/1984/90)
 
-[^key-f6202de3dc670d4f7320e2efe11daaad]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2005/544/schedule/2) omitted (1.10.2007) by virtue of [The Social Security (Ireland) Order (Northern Ireland) 2007 (S.R. 2007/438)](https://www.legislation.gov.uk/nisr/2007/438), [arts. 1](https://www.legislation.gov.uk/nisr/2007/438/article/1), [3(2)(g)](https://www.legislation.gov.uk/nisr/2007/438/article/3/2/g)
+[^c-f6202de3dc670d4f7320e2efe11daaad]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2005/544/schedule/2) omitted (1.10.2007) by virtue of [The Social Security (Ireland) Order (Northern Ireland) 2007 (S.R. 2007/438)](https://www.legislation.gov.uk/nisr/2007/438), [arts. 1](https://www.legislation.gov.uk/nisr/2007/438/article/1), [3(2)(g)](https://www.legislation.gov.uk/nisr/2007/438/article/3/2/g)
 
 [^f00012]: Footnote: [S.I. 1976/2148](https://www.legislation.gov.uk/uksi/1976/2148)
 

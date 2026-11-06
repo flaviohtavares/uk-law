@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Section 8B(1) to (3) of the Immigration Act 1971: directions[^key-054d9ed8f75688c4defd82e982250b1b][^key-cd4390db6fbb78485b0eea441d19d55f]
+## 38. Section 8B(1) to (3) of the Immigration Act 1971: directions[^c-054d9ed8f75688c4defd82e982250b1b][^c-cd4390db6fbb78485b0eea441d19d55f]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-054d9ed8f75688c4defd82e982250b1b]: Commencement: Reg. 38 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-054d9ed8f75688c4defd82e982250b1b]: Commencement: Reg. 38 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-cd4390db6fbb78485b0eea441d19d55f]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2020/1278/regulation/38) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-cd4390db6fbb78485b0eea441d19d55f]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2020/1278/regulation/38) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

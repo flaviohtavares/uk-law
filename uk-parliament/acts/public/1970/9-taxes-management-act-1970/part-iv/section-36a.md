@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. Loss of tax involving offshore matter or offshore transfer[^key-ae3f1f8a01ad35effe156bb5405cf4f1][^key-d0fddfb7eadd90c6e9d9364a7c371fb3]
+## 36A. Loss of tax involving offshore matter or offshore transfer[^c-ae3f1f8a01ad35effe156bb5405cf4f1][^c-d0fddfb7eadd90c6e9d9364a7c371fb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,6 +74,6 @@ references to income or proceeds transferred include references to assets derive
 
 ## Annotations
 
-[^key-ae3f1f8a01ad35effe156bb5405cf4f1]: Textual amendment: S. 36A inserted (with effect in accordance with s. 80(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 80(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/80/2)
+[^c-ae3f1f8a01ad35effe156bb5405cf4f1]: Textual amendment: S. 36A inserted (with effect in accordance with s. 80(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 80(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/80/2)
 
-[^key-d0fddfb7eadd90c6e9d9364a7c371fb3]: Modification: Pts. 4-6 applied (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 16 para. 9(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/9/3)
+[^c-d0fddfb7eadd90c6e9d9364a7c371fb3]: Modification: Pts. 4-6 applied (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 16 para. 9(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/9/3)

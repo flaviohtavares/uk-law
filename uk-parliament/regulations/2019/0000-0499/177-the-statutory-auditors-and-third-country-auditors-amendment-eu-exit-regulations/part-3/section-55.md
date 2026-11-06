@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55.[^key-e957f512a501354d451b51d2148ddb6b]
+## 55.[^c-e957f512a501354d451b51d2148ddb6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Part 18 (final provisions), in regulation 59 (review), omit paragraph (1A).
 
 ## Annotations
 
-[^key-e957f512a501354d451b51d2148ddb6b]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-e957f512a501354d451b51d2148ddb6b]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)

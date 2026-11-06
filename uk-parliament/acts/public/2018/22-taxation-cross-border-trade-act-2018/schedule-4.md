@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Dumping of goods or foreign subsidies causing injury to UK industry[^key-902bf04658df721b2d28e444dde3416a]
+## SCHEDULE 4 — Dumping of goods or foreign subsidies causing injury to UK industry[^c-902bf04658df721b2d28e444dde3416a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ Section 13
 
 #### Meaning of “dumped”
 
-**1.**[^key-c161cabebbd3a53e25ea8c25f8a31c3b] (1) For the purposes of this Schedule, goods are “dumped” in the United Kingdom if—
+**1.**[^c-c161cabebbd3a53e25ea8c25f8a31c3b] (1) For the purposes of this Schedule, goods are “dumped” in the United Kingdom if—
 
 - (a) they are imported into the United Kingdom, and
 - (b) their export price is less than their normal value;
@@ -51,14 +51,14 @@ and references to the “**dumping**” of goods are to be read accordingly.
 
 #### Meaning of “the margin of dumping”
 
-**2.**[^key-e1dc62aa5480d664fb6967edde009791] For the purposes of this Schedule, “**the margin of dumping**”, in relation to goods, means the amount which is the difference between—
+**2.**[^c-e1dc62aa5480d664fb6967edde009791] For the purposes of this Schedule, “**the margin of dumping**”, in relation to goods, means the amount which is the difference between—
 
 - (a) their export price as determined in accordance with paragraph 1, and
 - (b) their normal value as determined in accordance with that paragraph.
 
 #### Meaning of “subsidised”, “countervailable subsidy” and related terms
 
-**3.**[^key-cc4cd11f56a7199518b6f0ca98c4acfd] (1) For the purposes of this Schedule—
+**3.**[^c-cc4cd11f56a7199518b6f0ca98c4acfd] (1) For the purposes of this Schedule—
 
 - (a) goods are “subsidised” if they are goods in respect of whose manufacture, production, export or transport a countervailable subsidy is granted, and
 - (b) references to the “**subsidisation**” of goods are to be read accordingly.
@@ -80,7 +80,7 @@ and references to the “**dumping**” of goods are to be read accordingly.
 
 #### Meaning of “the amount of the subsidy”
 
-**4.**[^key-d447f29ae652990dcbc64e614e3ef8da] (1) For the purposes of this Schedule, “**the amount of the subsidy**”, in relation to goods, means the amount of the benefit conferred during a specified period by the countervailable subsidy as attributed to the goods in question.
+**4.**[^c-d447f29ae652990dcbc64e614e3ef8da] (1) For the purposes of this Schedule, “**the amount of the subsidy**”, in relation to goods, means the amount of the benefit conferred during a specified period by the countervailable subsidy as attributed to the goods in question.
 
 (2) Regulations may make provision—
 
@@ -94,7 +94,7 @@ and references to the “**dumping**” of goods are to be read accordingly.
 
 #### Meaning of “injury”
 
-**5.**[^key-7876a10ce764ef4b000e7ad6a80c793e] (1) For the purposes of this Schedule, “injury” to a UK industry in particular goods (see paragraph 6) means—
+**5.**[^c-7876a10ce764ef4b000e7ad6a80c793e] (1) For the purposes of this Schedule, “injury” to a UK industry in particular goods (see paragraph 6) means—
 
 - (a) material injury, or the threat of material injury, to the industry, or
 - (b) material retardation of the establishment of the industry.
@@ -113,7 +113,7 @@ and references to the “**dumping**” of goods are to be read accordingly.
 
 #### Meaning of “UK industry”
 
-**6.**[^key-3a3625ce1ab2126804e233a7bd01241f] (1) For the purposes of this Schedule, a “UK industry” in particular goods means—
+**6.**[^c-3a3625ce1ab2126804e233a7bd01241f] (1) For the purposes of this Schedule, a “UK industry” in particular goods means—
 
 - (a) all the producers in the United Kingdom of like goods (see paragraph 7), or
 - (b) those of them whose collective output of like goods constitutes a major proportion of the total production in the United Kingdom of those goods.
@@ -129,7 +129,7 @@ and references to the “**dumping**” of goods are to be read accordingly.
 
 #### Meaning of “like goods”
 
-**7.**[^key-fec11ba5b9c41eea221b1343009288fb] (1) For the purposes of this Schedule, “**like goods**”, in relation to goods, means—
+**7.**[^c-fec11ba5b9c41eea221b1343009288fb] (1) For the purposes of this Schedule, “**like goods**”, in relation to goods, means—
 
 - (a) goods which are like those goods in all respects, or
 - (b) if there are no such goods, goods which, although not alike in all respects, have characteristics closely resembling those of the goods in question.
@@ -143,7 +143,7 @@ and references to the “**dumping**” of goods are to be read accordingly.
 
 #### Dumping and subsidisation investigations
 
-**8.**[^key-a0ff6a7f86aacddcc3002036ceb88421] (1) The TRA may investigate—
+**8.**[^c-a0ff6a7f86aacddcc3002036ceb88421] (1) The TRA may investigate—
 
 - (a) whether goods have been or are being dumped in the United Kingdom, and
 - (b) whether the dumping of the goods has caused or is causing injury to a UK industry in those goods.
@@ -159,7 +159,7 @@ and references to the “**dumping**” of goods are to be read accordingly.
 
 #### Initiation of a dumping or a subsidisation investigation
 
-**9.**[^key-92bae62d3b5f43aa0ae13dee162eef2a] (1) The TRA may initiate a dumping or a subsidisation investigation in relation to goods only if—
+**9.**[^c-92bae62d3b5f43aa0ae13dee162eef2a] (1) The TRA may initiate a dumping or a subsidisation investigation in relation to goods only if—
 
 - (a) it is requested to initiate an investigation in an application made—
   - (i) by or on behalf of a UK industry in the goods (“the applicant UK industry”), or
@@ -188,11 +188,11 @@ and references to the “**dumping**” of goods are to be read accordingly.
 - (g) what constitutes or does not constitute “the market for like goods for consumption in the United Kingdom” and a UK industry's “share” of that market for the purposes of sub-paragraphs (1)(d) and (2);
 - (h) how any of those matters are to be determined for the purposes of sub-paragraphs (1)(d) and (2).
 
-(3A)[^key-cbb2cdf8d4d313cd09957a87772cce50] Where the TRA receives an application under sub-paragraph (1)(a)(i), the TRA must notify the Secretary of State of the application before the end of the second working day after the day on which it receives the application.
+(3A)[^c-cbb2cdf8d4d313cd09957a87772cce50] Where the TRA receives an application under sub-paragraph (1)(a)(i), the TRA must notify the Secretary of State of the application before the end of the second working day after the day on which it receives the application.
 
 (4) If any of the requirements of sub-paragraph (1)(a) to (d) in respect of a dumping or a subsidisation investigation (as the case may be) are not met, the TRA must reject the application and notify the applicant accordingly (unless it is the requirement in sub-paragraph (1)(a) that is not met because the application has been withdrawn).
 
-(5) If the requirements of sub-paragraph (1)(a) to (d) in respect of a dumping investigation are met, the TRA must notify the Secretary of State that it intends to initiate a dumping investigation and, after the relevant interval, must take the following steps in the order in which they are set out[^key-1ca8bf6f2155eec15a15b9ec5a95ece6]—
+(5) If the requirements of sub-paragraph (1)(a) to (d) in respect of a dumping investigation are met, the TRA must notify the Secretary of State that it intends to initiate a dumping investigation and, after the relevant interval, must take the following steps in the order in which they are set out[^c-1ca8bf6f2155eec15a15b9ec5a95ece6]—
 
 - (a) accept the application,
 - (b) notify the governments of the relevant foreign countries or territories,
@@ -200,15 +200,15 @@ and references to the “**dumping**” of goods are to be read accordingly.
 - (d) publish notice of its decision to initiate the investigation (including notice of the goods which are the subject of the investigation), and
 - (e) notify the Secretary of State and interested parties (see paragraph 32(3)) accordingly.
 
-(6) If the requirements of sub-paragraph (1)(a) to (d) in respect of a subsidisation investigation are met, the TRA must notify the Secretary of State that it intends to initiate a subsidisation investigation and, after the relevant interval, must take the following steps in the order in which they are set out[^key-4379187c8bbb84634eb2c4a2efd525ca]—
+(6) If the requirements of sub-paragraph (1)(a) to (d) in respect of a subsidisation investigation are met, the TRA must notify the Secretary of State that it intends to initiate a subsidisation investigation and, after the relevant interval, must take the following steps in the order in which they are set out[^c-4379187c8bbb84634eb2c4a2efd525ca]—
 
 - (a) accept the application,
-- (aa)[^key-5bc3ed8916bc69ad93444c10e9ba0452] invite the governments of the relevant foreign countries or territories to participate in consultations,
-- (b) [^key-4c7ba6789da807e362e3408abea75096]... initiate the investigation,
+- (aa)[^c-5bc3ed8916bc69ad93444c10e9ba0452] invite the governments of the relevant foreign countries or territories to participate in consultations,
+- (b) [^c-4c7ba6789da807e362e3408abea75096]... initiate the investigation,
 - (c) publish notice of its decision to initiate the investigation (including notice of the goods which are the subject of the investigation), and
 - (d) notify the Secretary of State and interested parties accordingly.
 
-(6A)[^key-d72e4224d3195373e4f86a74f416d59e] In sub-paragraphs (5) and (6), the “relevant interval” is the period of two working days beginning with the first working day after the day on which the TRA notifies the Secretary of State of its intention to initiate the investigation.
+(6A)[^c-d72e4224d3195373e4f86a74f416d59e] In sub-paragraphs (5) and (6), the “relevant interval” is the period of two working days beginning with the first working day after the day on which the TRA notifies the Secretary of State of its intention to initiate the investigation.
 
 (7) “**Relevant foreign country or territory**” means—
 
@@ -219,11 +219,11 @@ and references to the “**dumping**” of goods are to be read accordingly.
 
 (9) Nothing in this paragraph prevents the TRA initiating both a dumping investigation and a subsidisation investigation in relation to the same goods if the requirements of sub-paragraph (1)(a) to (d) are met in the case of each investigation.
 
-(10)[^key-88f08a0b732d7c65b1fcac9d026c0f9a] In this paragraph, “**working day**” means any day other than a Saturday, a Sunday or a day that is a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom.
+(10)[^c-88f08a0b732d7c65b1fcac9d026c0f9a] In this paragraph, “**working day**” means any day other than a Saturday, a Sunday or a day that is a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom.
 
 #### Conduct of a dumping or a subsidisation investigation
 
-**10.**[^key-698b9fa44c0085b9e0f83d9ada350897] (1) Regulations may make provision about the conduct of a dumping or a subsidisation investigation.
+**10.**[^c-698b9fa44c0085b9e0f83d9ada350897] (1) Regulations may make provision about the conduct of a dumping or a subsidisation investigation.
 
 (2) Such regulations may, among other things, make provision about—
 
@@ -235,13 +235,13 @@ and references to the “**dumping**” of goods are to be read accordingly.
 - (f) requests by the TRA to visit premises in or outside the United Kingdom and the consequences of not agreeing to such requests;
 - (g) the conduct of such visits;
 - (h) the consequences of otherwise impeding an investigation;
-- (i) the treatment of confidential or other information provided to or by the TRA or the Secretary of State[^key-aec64446e5bb18984a51b84c8742df7b];
+- (i) the treatment of confidential or other information provided to or by the TRA or the Secretary of State[^c-aec64446e5bb18984a51b84c8742df7b];
 - (j) the provision and conduct of oral hearings.
-- (k)[^key-92253c89b68adb34fc7348011d514f04] the Secretary of State requiring the TRA to reassess a proposal to terminate an investigation.
+- (k)[^c-92253c89b68adb34fc7348011d514f04] the Secretary of State requiring the TRA to reassess a proposal to terminate an investigation.
 
 #### Provisional affirmative determinations and final affirmative or negative determinations
 
-**11.**[^key-baf12b66edca1f2433553f7f158f26ad] (1) In the case of a dumping investigation, an “**affirmative determination**” in relation to goods means a determination that—
+**11.**[^c-baf12b66edca1f2433553f7f158f26ad] (1) In the case of a dumping investigation, an “**affirmative determination**” in relation to goods means a determination that—
 
 - (a) the goods have been or are being dumped in the United Kingdom, and
 - (b) the dumping of the goods has caused or is causing injury to a UK industry in those goods.
@@ -255,7 +255,7 @@ and references to the “**dumping**” of goods are to be read accordingly.
 
 (4) But the TRA may only make such a determination if it is satisfied that interested parties (see paragraph 32(3)) have been given an adequate opportunity to provide information to it regarding the investigation.
 
-(5) The TRA must make a final determination in relation to each of the goods which are the subject of a dumping or a subsidisation investigation (but see paragraph 12A for a requirement to give notice to the Secretary of State in certain cases)[^key-193f62fdae0bd0f784a6532548534fc0].
+(5) The TRA must make a final determination in relation to each of the goods which are the subject of a dumping or a subsidisation investigation (but see paragraph 12A for a requirement to give notice to the Secretary of State in certain cases)[^c-193f62fdae0bd0f784a6532548534fc0].
 
 (6) A final determination under sub-paragraph (5) in relation to goods is—
 
@@ -271,14 +271,14 @@ and references to the “**dumping**” of goods are to be read accordingly.
 
 #### Termination of a dumping or a subsidisation investigation
 
-**12.**[^key-b5daecaeed9e1bed43dd392450c3596f] A dumping or a subsidisation investigation in relation to goods terminates (if it has not already terminated by virtue of provision made under paragraph 10(1))—
+**12.**[^c-b5daecaeed9e1bed43dd392450c3596f] A dumping or a subsidisation investigation in relation to goods terminates (if it has not already terminated by virtue of provision made under paragraph 10(1))—
 
 - (a) in a case where the TRA makes a final negative determination in relation to the goods, when notice of that determination is published under paragraph 11(8)(a),
-- (b)[^key-c6af4dfa90d7570ddaf465c0b5597f39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) in a case where the TRA makes a final affirmative determination in relation to the goods and makes a recommendation under paragraph 17(3) or (4) in relation to them which the Secretary of State rejects, when the notice of rejection is published under paragraph 20(4)(a) or the Secretary of State publishes notice of a decision under paragraph[^key-c5c97bfc618341d4d2b040f052bbb255] 20A(2), or
+- (b)[^c-c6af4dfa90d7570ddaf465c0b5597f39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) in a case where the TRA makes a final affirmative determination in relation to the goods and makes a recommendation under paragraph 17(3) or (4) in relation to them which the Secretary of State rejects, when the notice of rejection is published under paragraph 20(4)(a) or the Secretary of State publishes notice of a decision under paragraph[^c-c5c97bfc618341d4d2b040f052bbb255] 20A(2), or
 - (d) in a case where the TRA makes a final affirmative determination in relation to the goods and makes a recommendation under paragraph 17(3) or (4) in relation to them which the Secretary of State accepts, at the end of the day of publication of the public notice under section 13 giving effect to the recommendation.
 
-#### Requirement to give notice to the Secretary of State in certain cases[^key-273eb58f0b71a70a263ca5f3257c357e]
+#### Requirement to give notice to the Secretary of State in certain cases[^c-273eb58f0b71a70a263ca5f3257c357e]
 
 **12A.** (1) This paragraph applies where the TRA proposes to make a final negative determination.
 
@@ -305,7 +305,7 @@ and references to the “**dumping**” of goods are to be read accordingly.
 
 #### TRA's duty to recommend requiring guarantees
 
-**13.**[^key-06d0979cf36bc6122e09aa06eef0fbec] (1) This paragraph applies where the TRA makes a provisional affirmative determination in relation to goods which are the subject of a dumping or a subsidisation investigation.
+**13.**[^c-06d0979cf36bc6122e09aa06eef0fbec] (1) This paragraph applies where the TRA makes a provisional affirmative determination in relation to goods which are the subject of a dumping or a subsidisation investigation.
 
 (2) Goods in relation to which that determination is made are referred to in this paragraph as relevant goods.
 
@@ -316,8 +316,8 @@ and references to the “**dumping**” of goods are to be read accordingly.
 
 (4) The TRA may make a recommendation under sub-paragraph (3) only if it is satisfied that requiring a guarantee in accordance with its recommendation—
 
-- (a) is necessary to prevent injury being caused during the investigation to a UK industry in the relevant goods, [^key-256af9902d5cca844c3b3169b1c522ac]...
-- (b)[^key-256af9902d5cca844c3b3169b1c522ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) is necessary to prevent injury being caused during the investigation to a UK industry in the relevant goods, [^c-256af9902d5cca844c3b3169b1c522ac]...
+- (b)[^c-256af9902d5cca844c3b3169b1c522ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The TRA may make different recommendations under sub-paragraph (3) for different relevant goods or descriptions of relevant goods, including by reference to—
 
@@ -330,7 +330,7 @@ and references to the “**dumping**” of goods are to be read accordingly.
 
 (8) If the TRA determines that there are one or more recommendations which it could make under paragraph (a) or, as the case may be paragraph (b), of sub-paragraph (3), it must make that recommendation or those recommendations (subject to sub-paragraphs (6) and (7)).
 
-(8A)[^key-7e6fee4bc1092aeb45650777cda28eed] Where the TRA makes a recommendation under sub-paragraph (3), it must advise the Secretary of State whether and why it considers that requiring importers to give a guarantee in accordance with the recommendation would meet the economic interest test (see paragraph 25).
+(8A)[^c-7e6fee4bc1092aeb45650777cda28eed] Where the TRA makes a recommendation under sub-paragraph (3), it must advise the Secretary of State whether and why it considers that requiring importers to give a guarantee in accordance with the recommendation would meet the economic interest test (see paragraph 25).
 
 (9) If the TRA determines that there is no recommendation which it could make under sub-paragraph (3), it must—
 
@@ -340,7 +340,7 @@ and references to the “**dumping**” of goods are to be read accordingly.
 
 #### TRA's recommendations regarding requiring a guarantee
 
-**14.**[^key-e5912f9ff8460644e321e4ef80fef801] (1) A recommendation under paragraph 13(3) to require the giving of a guarantee in respect of goods must specify those goods and include—
+**14.**[^c-e5912f9ff8460644e321e4ef80fef801] (1) A recommendation under paragraph 13(3) to require the giving of a guarantee in respect of goods must specify those goods and include—
 
 - (a) the TRA's recommendation regarding—
   - (i) the form of the guarantee,
@@ -367,13 +367,13 @@ and references to the “**dumping**” of goods are to be read accordingly.
 
 #### Secretary of State's power to require a guarantee
 
-**15.**[^key-fc7bd764b47ec590f74be7643c8bd801] (1) If the TRA makes a recommendation under paragraph 13(3), the Secretary of State must decide whether to accept or reject the recommendation.
+**15.**[^c-fc7bd764b47ec590f74be7643c8bd801] (1) If the TRA makes a recommendation under paragraph 13(3), the Secretary of State must decide whether to accept or reject the recommendation.
 
 (2) The Secretary of State may reject the recommendation only if the Secretary of State is satisfied that it is not in the public interest to accept it.
 
-(3) In considering that, the Secretary of State must have regard to the TRA’s advice on whether requiring a guarantee in accordance with the recommendation would meet the economic interest test (see paragraph 25)[^key-eda7b2b0d8088b220848b236331eae20].
+(3) In considering that, the Secretary of State must have regard to the TRA’s advice on whether requiring a guarantee in accordance with the recommendation would meet the economic interest test (see paragraph 25)[^c-eda7b2b0d8088b220848b236331eae20].
 
-(3A)[^key-fc17c6177a4d5abaac6382d3411ae55c] Sub-paragraph (3B) applies if the recommendation is rejected.
+(3A)[^c-fc17c6177a4d5abaac6382d3411ae55c] Sub-paragraph (3B) applies if the recommendation is rejected.
 
 (3B) If the Secretary of State considers that it is in the public interest to do so, the Secretary of State may decide that importers of relevant goods should be required to give a guarantee other than in accordance with the recommendation.
 
@@ -386,7 +386,7 @@ and references to the “**dumping**” of goods are to be read accordingly.
 - (c) must lay a statement before the House of Commons setting out the reasons for making the decision, and
 - (d) is required under section 13 to make provision by public notice to give effect to the decision.
 
-(4) If the recommendation is rejected and the Secretary of State does not make a decision under sub-paragraph[^key-caee8cd879d65bed20a5bc7193db0dc4] (3B), the Secretary of State must—
+(4) If the recommendation is rejected and the Secretary of State does not make a decision under sub-paragraph[^c-caee8cd879d65bed20a5bc7193db0dc4] (3B), the Secretary of State must—
 
 - (a) publish notice of the TRA's provisional affirmative determination in relation to the goods, of the recommendation and of the rejection of it,
 - (b) notify interested parties (see paragraph 32(3)) accordingly, and
@@ -409,7 +409,7 @@ and references to the “**dumping**” of goods are to be read accordingly.
 
 #### Extension of the period of a provisional remedy in a dumping investigation
 
-**16.**[^key-c10bde9037af10e9a7fb225a1b827382] (1) Regulations may make provision for, or in connection with, the extension by the Secretary of State, on the recommendation of the TRA, of the period of a provisional remedy which has been applied in respect of goods in the case of a dumping investigation.
+**16.**[^c-c10bde9037af10e9a7fb225a1b827382] (1) Regulations may make provision for, or in connection with, the extension by the Secretary of State, on the recommendation of the TRA, of the period of a provisional remedy which has been applied in respect of goods in the case of a dumping investigation.
 
 (2) Any such extension must not result in the period of the provisional remedy being a period of more than 9 months beginning with the date when the requirement to give a guarantee in respect of goods first applied.
 
@@ -422,32 +422,32 @@ and references to the “**dumping**” of goods are to be read accordingly.
 
 #### TRA's duty to recommend an anti-dumping amount or countervailing amount
 
-**17.**[^key-594157ad3ae3656345e3b32a6a95a918] (1) This paragraph applies where the TRA makes a final affirmative determination in relation to goods which are the subject of a dumping or a subsidisation investigation.
+**17.**[^c-594157ad3ae3656345e3b32a6a95a918] (1) This paragraph applies where the TRA makes a final affirmative determination in relation to goods which are the subject of a dumping or a subsidisation investigation.
 
 (2) Goods in relation to which that determination is made are referred to in this paragraph as relevant goods.
 
-(3)[^key-6c13d36975c3745e5f4a07c7c0ec3624] In the case of a dumping investigation, the TRA must[^key-4f613ccc0d528c4876fa9e4bc7136747] recommend to the Secretary of State—
+(3)[^c-6c13d36975c3745e5f4a07c7c0ec3624] In the case of a dumping investigation, the TRA must[^c-4f613ccc0d528c4876fa9e4bc7136747] recommend to the Secretary of State—
 
 - (a) that an additional amount of import duty (referred to in this Schedule as an “**anti-dumping amount**”) should be applicable for a specified period to all the relevant goods except, in the case of goods in respect of which an undertaking is accepted under provision made by or under Part 5, during any period when the undertaking applies, and
 - (b) how an anti-dumping amount applicable to the relevant goods should be determined.
 
-(4)[^key-6c13d36975c3745e5f4a07c7c0ec3624] In the case of a subsidisation investigation, the TRA must[^key-d3e3e6353e0d1d05f30d8a1dc5d76556] recommend to the Secretary of State—
+(4)[^c-6c13d36975c3745e5f4a07c7c0ec3624] In the case of a subsidisation investigation, the TRA must[^c-d3e3e6353e0d1d05f30d8a1dc5d76556] recommend to the Secretary of State—
 
 - (a) that an additional amount of import duty (referred to in this Schedule as a “**countervailing amount**”) should be applicable for a specified period to all the relevant goods except, in the case of goods in respect of which an undertaking is accepted under provision made by or under Part 5, during any period when the undertaking applies, and
 - (b) how a countervailing amount applicable to the relevant goods should be determined.
 
-(5)[^key-c82651513c144dc635114a07f89aef44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c82651513c144dc635114a07f89aef44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The TRA may make different recommendations under sub-paragraph (3) or (4) for different relevant goods or descriptions of relevant goods, including by reference to—
 
 - (a) specified overseas exporters or descriptions of overseas exporters;
-- (b) specified foreign countries or territories or descriptions of foreign countries or territories (but a recommendation may include two or more options in accordance with sub-paragraph (8A))[^key-37776ef2be281e5f1ba1e1a901a9ed40].
+- (b) specified foreign countries or territories or descriptions of foreign countries or territories (but a recommendation may include two or more options in accordance with sub-paragraph (8A))[^c-37776ef2be281e5f1ba1e1a901a9ed40].
 
-(7)[^key-37776ef2be281e5f1ba1e1a901a9ed40] [^key-fd8be2ae3304e17c724fa36346a566f1]... The TRA may only make one recommendation under sub-paragraph (3) or, as the case may be, sub-paragraph (4) in relation to any particular relevant good.
+(7)[^c-37776ef2be281e5f1ba1e1a901a9ed40] [^c-fd8be2ae3304e17c724fa36346a566f1]... The TRA may only make one recommendation under sub-paragraph (3) or, as the case may be, sub-paragraph (4) in relation to any particular relevant good.
 
 (8) And the TRA may make different recommendations under sub-paragraph (3) or (4) for different relevant goods or descriptions of relevant goods only if the recommendations which it makes under that sub-paragraph when taken together cover all the relevant goods.
 
-(8A)[^key-4e7ab0254752f7291ae299652439e466] Where the TRA considers that there are two or more options which it could recommend under sub-paragraph (3) or (4), as the case may be, in relation to relevant goods or descriptions of relevant goods, it may give the Secretary of State each of those options as part of its recommendation.
+(8A)[^c-4e7ab0254752f7291ae299652439e466] Where the TRA considers that there are two or more options which it could recommend under sub-paragraph (3) or (4), as the case may be, in relation to relevant goods or descriptions of relevant goods, it may give the Secretary of State each of those options as part of its recommendation.
 
 (8B) The Secretary of State may by regulations make provision requiring the TRA, in specified circumstances, to consider whether it could give the Secretary of State two or more options as part of its recommendation under sub-paragraph (3) or (4) in relation to relevant goods or descriptions of relevant goods.
 
@@ -465,13 +465,13 @@ and references to the “**dumping**” of goods are to be read accordingly.
 
 would meet the economic interest test (see paragraph 25).
 
-(9)[^key-3476537e38844655af715d41f2034202] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-3476537e38844655af715d41f2034202] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-126fa60026501b32e47bcfe2433c90d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-126fa60026501b32e47bcfe2433c90d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### TRA's recommendations about an anti-dumping amount or a countervailing amount
 
-**18.**[^key-f59ae5561465af50428d8247aa0c2256] (1) This paragraph applies to a recommendation by the TRA under paragraph 17(3) or (4) in relation to goods.
+**18.**[^c-f59ae5561465af50428d8247aa0c2256] (1) This paragraph applies to a recommendation by the TRA under paragraph 17(3) or (4) in relation to goods.
 
 (2) The specified period referred to in paragraph 17(3)(a) or (4)(a)—
 
@@ -498,9 +498,9 @@ would meet the economic interest test (see paragraph 25).
 
 (8) A recommendation under paragraph 17(3) or (4) must include such other content as regulations may require.
 
-(9)[^key-5dbca4d84c3e16fffac7464c010b3fc9] This paragraph has effect in relation to an option given by the TRA under paragraph 17(8A) as it has effect in relation to a recommendation by the TRA under paragraph 17(3) or (4).
+(9)[^c-5dbca4d84c3e16fffac7464c010b3fc9] This paragraph has effect in relation to an option given by the TRA under paragraph 17(8A) as it has effect in relation to a recommendation by the TRA under paragraph 17(3) or (4).
 
-**19.**[^key-3d5385ffc027ddeff64919de4aa5aa25] (1) Regulations may make provision authorising the TRA, in specified circumstances, to recommend under paragraph 17(3) or (4) that the specified period for which an anti-dumping amount or a countervailing amount should apply to goods begins on a date (“**the relevant date**”) before the day after the date of publication of the public notice under section 13 giving effect to the recommendation.
+**19.**[^c-3d5385ffc027ddeff64919de4aa5aa25] (1) Regulations may make provision authorising the TRA, in specified circumstances, to recommend under paragraph 17(3) or (4) that the specified period for which an anti-dumping amount or a countervailing amount should apply to goods begins on a date (“**the relevant date**”) before the day after the date of publication of the public notice under section 13 giving effect to the recommendation.
 
 (2) Such a recommendation may only be made in relation to goods in respect of which a requirement to give a guarantee under paragraph 15 is applied (“the provisional remedy”).
 
@@ -518,22 +518,22 @@ would meet the economic interest test (see paragraph 25).
 - (a) beginning with the relevant date, and
 - (b) ending with the date of publication of the public notice under section 13 giving effect to the recommendation.
 
-(6)[^key-590e4c938150364f5b1c4ac696c2ae75] Regulations under this paragraph may make any provision in relation to an option given by the TRA under paragraph 17(8A) that they may make in relation to a recommendation by the TRA under paragraph 17(3) or (4).
+(6)[^c-590e4c938150364f5b1c4ac696c2ae75] Regulations under this paragraph may make any provision in relation to an option given by the TRA under paragraph 17(8A) that they may make in relation to a recommendation by the TRA under paragraph 17(3) or (4).
 
-#### Secretary of State's powers in relation to a recommendation[^key-bcdcfa5280656d8e4f8f295fc272de6a]
+#### Secretary of State's powers in relation to a recommendation[^c-bcdcfa5280656d8e4f8f295fc272de6a]
 
-**20.**[^key-687734f9081d2c83f423b9d5649b1705] (1) If the TRA makes a recommendation under paragraph 17(3) or (4), the Secretary of State must
+**20.**[^c-687734f9081d2c83f423b9d5649b1705] (1) If the TRA makes a recommendation under paragraph 17(3) or (4), the Secretary of State must
 
-- (a)[^key-8a693cc593d5f6e5cdd8824bb99c4c4b] decide whether to accept or reject the recommendation , or[^key-795556d4afc993f4eeb549ca3a4d35b7]
+- (a)[^c-8a693cc593d5f6e5cdd8824bb99c4c4b] decide whether to accept or reject the recommendation , or[^c-795556d4afc993f4eeb549ca3a4d35b7]
 - (b) request that the TRA reassess the recommendation, by reference to any matters specified in the request, with a view to amending or replacing the recommendation.
 
-(1A)[^key-182c932444a0343bbdae2121f80bc2f5] Where the Secretary of State accepts a recommendation which contains options given in reliance on paragraph 17(8A), the Secretary of State must decide which of those options to adopt.
+(1A)[^c-182c932444a0343bbdae2121f80bc2f5] Where the Secretary of State accepts a recommendation which contains options given in reliance on paragraph 17(8A), the Secretary of State must decide which of those options to adopt.
 
 (2) The Secretary of State may reject the recommendation only if the Secretary of State is satisfied that it is not in the public interest to accept it.
 
-(3) In considering that, the Secretary of State must have regard to the TRA’s advice on whether the application of an anti-dumping amount or a countervailing amount to goods in accordance with the recommendation, or in accordance with each option, as the case may be, would meet the economic interest test (see paragraph 25)[^key-ceb3c3060aae9e2b927e128b21eaf32d].
+(3) In considering that, the Secretary of State must have regard to the TRA’s advice on whether the application of an anti-dumping amount or a countervailing amount to goods in accordance with the recommendation, or in accordance with each option, as the case may be, would meet the economic interest test (see paragraph 25)[^c-ceb3c3060aae9e2b927e128b21eaf32d].
 
-(4) If the recommendation is rejected and the Secretary of State does not make a decision under paragraph[^key-3ee80732d6f7596aff3d1166d46ea7b4] 20A(2), the Secretary of State must—
+(4) If the recommendation is rejected and the Secretary of State does not make a decision under paragraph[^c-3ee80732d6f7596aff3d1166d46ea7b4] 20A(2), the Secretary of State must—
 
 - (a) publish notice of the TRA's final affirmative determination in relation to the goods, of the recommendation and of the rejection of it,
 - (b) notify interested parties (see paragraph 32(3)) accordingly, and
@@ -541,11 +541,11 @@ would meet the economic interest test (see paragraph 25).
 
 (5) If the recommendation is accepted, the Secretary of State—
 
-- (a) must publish notice of the TRA's final affirmative determination in relation to the goods, of the recommendation , including any particular option adopted by the Secretary of State,[^key-2b893200d3c94430c97b91b2c347bb8c] and of the acceptance of it,
+- (a) must publish notice of the TRA's final affirmative determination in relation to the goods, of the recommendation , including any particular option adopted by the Secretary of State,[^c-2b893200d3c94430c97b91b2c347bb8c] and of the acceptance of it,
 - (b) must notify interested parties accordingly, and
 - (c) is required under section 13 to make provision by public notice to give effect to the recommendation.
 
-(5A)[^key-b61bdd905360b429b1e1c66943ebed38] The Secretary of State may only make a request under sub-paragraph (1)(b) where the Secretary of State considers that—
+(5A)[^c-b61bdd905360b429b1e1c66943ebed38] The Secretary of State may only make a request under sub-paragraph (1)(b) where the Secretary of State considers that—
 
 - (a) there is information that the TRA did not take into account in its investigation that is relevant to the recommendation,
 - (b) the TRA has made an error in relation to its recommendation, or
@@ -560,7 +560,7 @@ would meet the economic interest test (see paragraph 25).
 
 (6) See paragraphs 21 and 22 for variation or revocation of the application of an anti-dumping amount or a countervailing amount.
 
-#### Secretary of State’s power to apply an alternative remedy[^key-f6dbfcba6c773db90389cfca33c3566d]
+#### Secretary of State’s power to apply an alternative remedy[^c-f6dbfcba6c773db90389cfca33c3566d]
 
 **20A.** (1) This paragraph applies where the Secretary of State rejects a recommendation under paragraph 20.
 
@@ -577,7 +577,7 @@ would meet the economic interest test (see paragraph 25).
 
 #### Reviews of continuing application of an anti-dumping amount or a countervailing amount
 
-**21.**[^key-880d524269813ff2e055d8b816910598] (1) Regulations may make provision for, or in connection with, reviews by the TRA of the continuing application of an anti-dumping amount or a countervailing amount to goods.
+**21.**[^c-880d524269813ff2e055d8b816910598] (1) Regulations may make provision for, or in connection with, reviews by the TRA of the continuing application of an anti-dumping amount or a countervailing amount to goods.
 
 (2) References in this paragraph to “a review” are to a review by virtue of provision made under sub-paragraph (1).
 
@@ -597,10 +597,10 @@ would meet the economic interest test (see paragraph 25).
 - (a) provision for the TRA to investigate certain matters;
 - (b) provision for the period for which an anti-dumping amount or a countervailing amount applies to goods by public notice under section 13 to be treated as continuing (where it would otherwise cease to do so) while a review in relation to the application of the amount is ongoing;
 - (c) provision for the suspension, by public notice given by the Secretary of State, of the application of an anti-dumping amount or a countervailing amount while a review in relation to it is ongoing;
-- (ca)[^key-90d99e9dd8afb29a61b92df8f204522d] provision corresponding or similar to any provision made by or under this Schedule in relation to dumping or subsidisation investigations, including any of the powers or duties of the TRA or the Secretary of State in respect of those investigations and any recommendations or decisions resulting from them;
+- (ca)[^c-90d99e9dd8afb29a61b92df8f204522d] provision corresponding or similar to any provision made by or under this Schedule in relation to dumping or subsidisation investigations, including any of the powers or duties of the TRA or the Secretary of State in respect of those investigations and any recommendations or decisions resulting from them;
 - (cb) provision conferring functions (including functions involving the exercise of a discretion) on the Secretary of State or the TRA;
 - (d) other provision about the conduct of a review.
-- (e)[^key-177080eae3b43dc0f666352e869e942d] provision for the Secretary of State to provide by public notice, in a case where a review in relation to the application of an anti-dumping amount or a countervailing amount has been completed, for—
+- (e)[^c-177080eae3b43dc0f666352e869e942d] provision for the Secretary of State to provide by public notice, in a case where a review in relation to the application of an anti-dumping amount or a countervailing amount has been completed, for—
   - (i) the application of the amount to be treated as having expired at the end of the specified period (see paragraph 17(3) and (4)) set out in the public notice under section 13 relating to the amount;
   - (ii) where the application of the amount was not suspended in connection with a review, a person to be entitled to a repayment of the amount that they paid after applying for the review;
   - (iii) where the application of the amount was suspended in connection with a review, a person to be liable for the amount that they would have been liable to pay if the review had not taken place.
@@ -609,52 +609,52 @@ would meet the economic interest test (see paragraph 25).
 
 (6) Regulations may make provision for or in connection with—
 
-- (a) the TRA recommending to the Secretary of State that the application of an anti-dumping amount or a countervailing amount to goods should be varied or revoked, [^key-e522b6ab0ea082a2d94ab5c2aa524d20]...
-- (aa)[^key-fd64939704543e2e879c2febdccf6258] the TRA giving the Secretary of State options as part of a recommendation,
-- (b)[^key-11bccf6c3c30ecccccd5962da5b63221] the Secretary of State’s powers in relation to such a recommendation, and
+- (a) the TRA recommending to the Secretary of State that the application of an anti-dumping amount or a countervailing amount to goods should be varied or revoked, [^c-e522b6ab0ea082a2d94ab5c2aa524d20]...
+- (aa)[^c-fd64939704543e2e879c2febdccf6258] the TRA giving the Secretary of State options as part of a recommendation,
+- (b)[^c-11bccf6c3c30ecccccd5962da5b63221] the Secretary of State’s powers in relation to such a recommendation, and
 - (c) the date from which any variation or revocation may have effect, which may be a date before the date of the recommendation by the TRA or decision by the Secretary of State.
 
-(7) Where, by virtue of provision made under sub-paragraph (6), the Secretary of State decides[^key-4be01d663a635700094a8789e9a73e69] that the application of an anti-dumping amount or a countervailing amount to goods should be varied or revoked, the Secretary of State—
+(7) Where, by virtue of provision made under sub-paragraph (6), the Secretary of State decides[^c-4be01d663a635700094a8789e9a73e69] that the application of an anti-dumping amount or a countervailing amount to goods should be varied or revoked, the Secretary of State—
 
-- (a) must publish notice of the decision[^key-bd631d1022714a5ce446ce693a46d790],
+- (a) must publish notice of the decision[^c-bd631d1022714a5ce446ce693a46d790],
 - (b) must notify interested parties (see paragraph 32(3)) accordingly, and
-- (c) is required under section 13 to make provision by public notice to give effect to the decision[^key-b90bf3bdd2612fb5a3b520c24b8d4f75].
+- (c) is required under section 13 to make provision by public notice to give effect to the decision[^c-b90bf3bdd2612fb5a3b520c24b8d4f75].
 
-(8) The variation of the application of an anti-dumping amount or a countervailing amount to goods which the TRA may recommend to the Secretary of State , or which the Secretary of State may decide to make other than in accordance with a recommendation,[^key-65a201e8b5bc1253727419897f363f53] by virtue of regulations under sub-paragraph (6) may, among other things, include—
+(8) The variation of the application of an anti-dumping amount or a countervailing amount to goods which the TRA may recommend to the Secretary of State , or which the Secretary of State may decide to make other than in accordance with a recommendation,[^c-65a201e8b5bc1253727419897f363f53] by virtue of regulations under sub-paragraph (6) may, among other things, include—
 
 - (a) varying the goods or descriptions of goods to which an anti-dumping amount or a countervailing amount is applicable (including so that it is applicable to goods or descriptions of goods to which it has not previously been applicable);
 - (b) varying the period for which an anti-dumping amount or a countervailing amount is applicable (including extending it beyond the period referred to in paragraph 18(2)(a));
 - (c) varying how an anti-dumping amount or a countervailing amount should be determined.
 
-(9) Regulations under sub-paragraph (6) may provide that the Secretary of State may decide, whether or not in response to a recommendation of the TRA,[^key-bd483624a900b300c57a61a295c79f62] that the application of an anti-dumping amount or a countervailing amount as varied should be applicable to goods from a date (“**the relevant date**”) before the date of publication of the public notice under section 13 giving effect to the decision[^key-ca7dfcf440e154fe2f4f23b43c17b4ce].
+(9) Regulations under sub-paragraph (6) may provide that the Secretary of State may decide, whether or not in response to a recommendation of the TRA,[^c-bd483624a900b300c57a61a295c79f62] that the application of an anti-dumping amount or a countervailing amount as varied should be applicable to goods from a date (“**the relevant date**”) before the date of publication of the public notice under section 13 giving effect to the decision[^c-ca7dfcf440e154fe2f4f23b43c17b4ce].
 
-(10) Such a decision[^key-4dead1729d5826728c1432d7a0fcf567] may only be made if—
+(10) Such a decision[^c-4dead1729d5826728c1432d7a0fcf567] may only be made if—
 
 - (a) a notice under paragraph 29(1) (registration) has been published in respect of the goods, and
 - (b) the relevant date is not a date before the date of publication of that notice.
 
 #### Variation or revocation following an international dispute decision
 
-**22.**[^key-96f5d008dda55d65dfb4897c715bebf2] (1) Regulations may make provision for or in connection with—
+**22.**[^c-96f5d008dda55d65dfb4897c715bebf2] (1) Regulations may make provision for or in connection with—
 
 - (a) the TRA recommending to the Secretary of State that the application of an anti-dumping amount or a countervailing amount to goods should be varied or revoked in light of an international dispute decision, and
-- (b) the Secretary of State’s powers in relation to[^key-43c82af6e9575a4d98eff5e89cb60640] such a recommendation.
+- (b) the Secretary of State’s powers in relation to[^c-43c82af6e9575a4d98eff5e89cb60640] such a recommendation.
 
 (2) The regulations may, among other things—
 
 - (a) provide for the TRA to investigate certain matters for the purposes of determining whether to make a recommendation to the Secretary of State and what to recommend;
 - (b) make provision about the conduct of such an investigation;
 - (c) provide for the suspension, by public notice given by the Secretary of State, of the application of an anti-dumping amount or a countervailing amount.
-- (d)[^key-cd0733d3e6445da3f7ce5e4b30f65d2a] make provision corresponding or similar to any provision made by or under this Schedule in relation to dumping or subsidisation investigations, including any of the powers or duties of the TRA or the Secretary of State in respect of those investigations and any recommendations or decisions resulting from them;
+- (d)[^c-cd0733d3e6445da3f7ce5e4b30f65d2a] make provision corresponding or similar to any provision made by or under this Schedule in relation to dumping or subsidisation investigations, including any of the powers or duties of the TRA or the Secretary of State in respect of those investigations and any recommendations or decisions resulting from them;
 - (e) make provision conferring functions (including functions involving the exercise of a discretion) on the Secretary of State or the TRA.
 
 (3) Paragraph 10(2) applies to regulations made by virtue of sub-paragraph (2)(b) in relation to an investigation as it applies to regulations under paragraph 10(1) in relation to a dumping or a subsidisation investigation.
 
-(4) Where, by virtue of provision made under the regulations, the Secretary of State decides[^key-1e76ee27be3f121ed2138d2bfc5bac3f] that the application of an anti-dumping amount or a countervailing amount to goods should be varied or revoked, the Secretary of State—
+(4) Where, by virtue of provision made under the regulations, the Secretary of State decides[^c-1e76ee27be3f121ed2138d2bfc5bac3f] that the application of an anti-dumping amount or a countervailing amount to goods should be varied or revoked, the Secretary of State—
 
-- (a) must publish notice of the decision[^key-2e3dd059adb2ac1c4644ca543c42f10c],
+- (a) must publish notice of the decision[^c-2e3dd059adb2ac1c4644ca543c42f10c],
 - (b) must notify interested parties (see paragraph 32(3)) accordingly, and
-- (c) is required under section 13 to make provision by public notice to give effect to the decision[^key-cea2eeb25b9d8bff03f9b5396bef672b].
+- (c) is required under section 13 to make provision by public notice to give effect to the decision[^c-cea2eeb25b9d8bff03f9b5396bef672b].
 
 (5) The variation of the application of an anti-dumping amount or a countervailing amount to goods which the regulations may provide for may, among other things, include any of the variations mentioned in paragraph 21(8).
 
@@ -663,7 +663,7 @@ would meet the economic interest test (see paragraph 25).
 - (a) a report of a panel or Appellate Body that is adopted by the Dispute Settlement Body of the WTO, or
 - (b) if not within paragraph (a), a decision under the dispute settlement procedures of an arrangement relating to trade to which Her Majesty's government in the United Kingdom is a party with the government of another country or territory.
 
-#### Revocation in the public interest[^key-0144ac76f420d497436be38789332b71]
+#### Revocation in the public interest[^c-0144ac76f420d497436be38789332b71]
 
 **22A.** (1) The Secretary of State may decide to revoke the application of an anti-dumping amount or a countervailing amount to goods in the absence of a recommendation from the TRA where the Secretary of State considers that it is in the public interest to do so.
 
@@ -676,7 +676,7 @@ would meet the economic interest test (see paragraph 25).
 - (c) must lay a statement before the House of Commons setting out the reasons for making the decision, and
 - (d) is required under section 13 to make provision by public notice to give effect to the decision.
 
-#### Power to request assistance etc[^key-8874a255301e426da48ddde6b1e77c40]
+#### Power to request assistance etc[^c-8874a255301e426da48ddde6b1e77c40]
 
 **22B.** (1) The Secretary of State may request that the TRA give advice, information or other support to the Secretary of State for the purpose of allowing the Secretary of State to decide whether to make a decision under any of the following—
 
@@ -694,7 +694,7 @@ would meet the economic interest test (see paragraph 25).
 
 #### Acceptance of undertakings
 
-**23.**[^key-2a2fcf125804268ecd21560cccfa7d02] (1) Where the TRA determines to recommend to the Secretary of State under paragraph 17(3) or (4) that an anti-dumping amount or a countervailing amount should be applicable to goods, the TRA may also recommend to the Secretary of State the acceptance of an undertaking in respect of the goods.
+**23.**[^c-2a2fcf125804268ecd21560cccfa7d02] (1) Where the TRA determines to recommend to the Secretary of State under paragraph 17(3) or (4) that an anti-dumping amount or a countervailing amount should be applicable to goods, the TRA may also recommend to the Secretary of State the acceptance of an undertaking in respect of the goods.
 
 (2) In this Part, an “**undertaking**” means—
 
@@ -739,7 +739,7 @@ would meet the economic interest test (see paragraph 25).
 
 #### Reviews of undertakings etc
 
-**24.**[^key-b541b7f6622750412d6241f31ba7c5f7] (1) Regulations may make provision for or in connection with—
+**24.**[^c-b541b7f6622750412d6241f31ba7c5f7] (1) Regulations may make provision for or in connection with—
 
 - (a) monitoring compliance with an undertaking;
 - (b) investigations by the TRA of breach of an undertaking;
@@ -766,7 +766,7 @@ would meet the economic interest test (see paragraph 25).
 
 #### The economic interest test
 
-**25.**[^key-e3c3727cc281ff6c077bcf0cd4c08604] (1) This paragraph applies if the TRA or the Secretary of State is considering, for the purposes of this Schedule, whether the TRA or the Secretary of State is satisfied that the application of an anti-dumping remedy or anti-subsidy remedy meets or does not meet the economic interest test.
+**25.**[^c-e3c3727cc281ff6c077bcf0cd4c08604] (1) This paragraph applies if the TRA or the Secretary of State is considering, for the purposes of this Schedule, whether the TRA or the Secretary of State is satisfied that the application of an anti-dumping remedy or anti-subsidy remedy meets or does not meet the economic interest test.
 
 (2) The economic interest test is met in relation to the application of an anti-dumping remedy or anti-subsidy remedy if the application of the remedy is in the economic interest of the United Kingdom.
 
@@ -801,10 +801,10 @@ would meet the economic interest test (see paragraph 25).
 
 #### Suspension of anti-dumping or anti-subsidy remedies
 
-**26.**[^key-1aba47a5cf8e09fe6270ae2b8429307f] (1) Regulations may make provision for or in connection with—
+**26.**[^c-1aba47a5cf8e09fe6270ae2b8429307f] (1) Regulations may make provision for or in connection with—
 
 - (a) the TRA recommending to the Secretary of State that the application of an anti-dumping remedy or anti-subsidy remedy should be suspended, and
-- (b) the Secretary of State’s powers in relation to[^key-d43dd4e642858a6d096aec323da318fb] such a recommendation.
+- (b) the Secretary of State’s powers in relation to[^c-d43dd4e642858a6d096aec323da318fb] such a recommendation.
 
 (2) The regulations must secure that the TRA may make such a recommendation to the Secretary of State only if the TRA is satisfied that market conditions have temporarily changed such that the injury caused to a UK industry in the goods would be unlikely to recur as a result of the suspension.
 
@@ -816,28 +816,28 @@ would meet the economic interest test (see paragraph 25).
 - (b) provision about the conduct of such an investigation;
 - (c) provision about the period for which a suspension may have effect;
 - (d) provision about whether that period counts towards the period for which the suspended remedy applies.
-- (e)[^key-1f747c552d83fcb4efd47cbaad79fde8] provision corresponding or similar to any provision made by or under this Schedule in relation to dumping or subsidisation investigations, including any of the powers or duties of the TRA or the Secretary of State in respect of those investigations and any recommendations or decisions resulting from them;
+- (e)[^c-1f747c552d83fcb4efd47cbaad79fde8] provision corresponding or similar to any provision made by or under this Schedule in relation to dumping or subsidisation investigations, including any of the powers or duties of the TRA or the Secretary of State in respect of those investigations and any recommendations or decisions resulting from them;
 - (f) provision conferring functions (including functions involving the exercise of a discretion) on the Secretary of State or the TRA.
 
 (5) Paragraph 10(2) applies to regulations under sub-paragraph (4)(b) in relation to an investigation as it applies to regulations under paragraph 10(1) in relation to a dumping or a subsidisation investigation.
 
-(6) Where, by virtue of provision made under sub-paragraph (1), the Secretary of State decides[^key-946806b71a6bc9ba433ded55b911dbb6] that the application of an anti-dumping remedy or anti-subsidy remedy should be suspended, the Secretary of State—
+(6) Where, by virtue of provision made under sub-paragraph (1), the Secretary of State decides[^c-946806b71a6bc9ba433ded55b911dbb6] that the application of an anti-dumping remedy or anti-subsidy remedy should be suspended, the Secretary of State—
 
-- (a) must publish notice of the decision[^key-0e0d1012c8b0ebb2d1711c9d201e88e8],
+- (a) must publish notice of the decision[^c-0e0d1012c8b0ebb2d1711c9d201e88e8],
 - (b) must notify interested parties (see paragraph 32(3)) accordingly, and
-- (c) is required under section 13 to make provision by public notice to give effect to the decision[^key-1cd46525af5da2d9d64f4cbc79d0861d].
+- (c) is required under section 13 to make provision by public notice to give effect to the decision[^c-1cd46525af5da2d9d64f4cbc79d0861d].
 
 (7) References in this paragraph to the application of an anti-dumping remedy or anti-subsidy remedy have the same meaning as in paragraph 25.
 
 #### Not subject to both application of an anti-dumping amount and a countervailing amount
 
-**27.**[^key-b67d3e2d9212a4a867b1e5038d20dcaf] (1) An anti-dumping amount is not applicable to goods if a countervailing amount is already applicable to the goods (and vice versa) for the purpose of dealing with the same situation arising from the dumping of goods or export subsidisation.
+**27.**[^c-b67d3e2d9212a4a867b1e5038d20dcaf] (1) An anti-dumping amount is not applicable to goods if a countervailing amount is already applicable to the goods (and vice versa) for the purpose of dealing with the same situation arising from the dumping of goods or export subsidisation.
 
 (2) Regulations may make provision about what constitutes or does not constitute “export subsidisation” for those purposes.
 
 #### Investigations regarding repayments and discharge of a guarantee
 
-**28.**[^key-e927013484566b11b1e33b9862bc6abc] (1) Regulations may provide for the TRA to investigate specified matters for the purpose of determining whether—
+**28.**[^c-e927013484566b11b1e33b9862bc6abc] (1) Regulations may provide for the TRA to investigate specified matters for the purpose of determining whether—
 
 - (a) a repayment of an anti-dumping amount or a countervailing amount, or interest paid in respect of any such amounts, should be made under regulations made under paragraph 10 of Schedule 6;
 - (b) the whole or a part of a guarantee given under paragraph 15 should be discharged under regulations made under paragraph 6 of Schedule 6.
@@ -848,7 +848,7 @@ would meet the economic interest test (see paragraph 25).
 
 #### Registration
 
-**29.**[^key-cf7b63b3f2651b5af3d6da0bff9303dd] (1) The Secretary of State may publish a notice of goods—
+**29.**[^c-cf7b63b3f2651b5af3d6da0bff9303dd] (1) The Secretary of State may publish a notice of goods—
 
 - (a) which are the subject of an investigation or other proceedings under provision made by or under this Schedule, and
 - (b) to which an anti-dumping amount or a countervailing amount may be applied or the existing application of an anti-dumping amount or a countervailing amount to which may be varied.
@@ -862,14 +862,14 @@ would meet the economic interest test (see paragraph 25).
 
 #### Reconsideration, reviews and appeals
 
-**30.**[^key-61c8ffd4dac46e4bab36dec2bb72869e] Regulations may make provision for or in connection with—
+**30.**[^c-61c8ffd4dac46e4bab36dec2bb72869e] Regulations may make provision for or in connection with—
 
 - (a) the reconsideration by the TRA of decisions made by the TRA under provision made by or under this Schedule, and
 - (b) the review or appeal of decisions made by the TRA or the Secretary of State under provision made by or under this Schedule.
 
 #### Notices
 
-**31.**[^key-f98a900e1ea1830dbb396f5f447900d7] (1) Where a notice is required to be published or given by a provision made by or under this Schedule, regulations may make provision about—
+**31.**[^c-f98a900e1ea1830dbb396f5f447900d7] (1) Where a notice is required to be published or given by a provision made by or under this Schedule, regulations may make provision about—
 
 - (a) the form of the notice;
 - (b) its content;
@@ -888,7 +888,7 @@ would meet the economic interest test (see paragraph 25).
 
 #### Interpretation
 
-**32.**[^key-c953338e5ae7a155d0cd058ffda1c94c] (1) In this Schedule—
+**32.**[^c-c953338e5ae7a155d0cd058ffda1c94c] (1) In this Schedule—
 
 - “**anti-dumping amount**” has the meaning given by paragraph 17(3);
 - “**the amount of the subsidy**”, in relation to goods, has the meaning given by paragraph 4;
@@ -921,192 +921,192 @@ would meet the economic interest test (see paragraph 25).
 
 ## Annotations
 
-[^key-902bf04658df721b2d28e444dde3416a]: Modification: Sch. 4 applied (6.3.2019) by [The Trade Remedies (Dumping and Subsidisation) (EU Exit) Regulations 2019 (S.I. 2019/450)](https://www.legislation.gov.uk/uksi/2019/450), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2), [97(1)](https://www.legislation.gov.uk/uksi/2019/450/regulation/97/1) (with [Pt. 13](https://www.legislation.gov.uk/uksi/2019/450/part/13)) (as amended (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2019/1076/regulation/11/2))
+[^c-902bf04658df721b2d28e444dde3416a]: Modification: Sch. 4 applied (6.3.2019) by [The Trade Remedies (Dumping and Subsidisation) (EU Exit) Regulations 2019 (S.I. 2019/450)](https://www.legislation.gov.uk/uksi/2019/450), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2), [97(1)](https://www.legislation.gov.uk/uksi/2019/450/regulation/97/1) (with [Pt. 13](https://www.legislation.gov.uk/uksi/2019/450/part/13)) (as amended (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2019/1076/regulation/11/2))
 
-[^key-c161cabebbd3a53e25ea8c25f8a31c3b]: Commencement: Sch. 4 para. 1 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-c161cabebbd3a53e25ea8c25f8a31c3b]: Commencement: Sch. 4 para. 1 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-e1dc62aa5480d664fb6967edde009791]: Commencement: Sch. 4 para. 2 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-e1dc62aa5480d664fb6967edde009791]: Commencement: Sch. 4 para. 2 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-cc4cd11f56a7199518b6f0ca98c4acfd]: Commencement: Sch. 4 para. 3 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-cc4cd11f56a7199518b6f0ca98c4acfd]: Commencement: Sch. 4 para. 3 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-d447f29ae652990dcbc64e614e3ef8da]: Commencement: Sch. 4 para. 4 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-d447f29ae652990dcbc64e614e3ef8da]: Commencement: Sch. 4 para. 4 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-7876a10ce764ef4b000e7ad6a80c793e]: Commencement: Sch. 4 para. 5 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-7876a10ce764ef4b000e7ad6a80c793e]: Commencement: Sch. 4 para. 5 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-3a3625ce1ab2126804e233a7bd01241f]: Commencement: Sch. 4 para. 6 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-3a3625ce1ab2126804e233a7bd01241f]: Commencement: Sch. 4 para. 6 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-fec11ba5b9c41eea221b1343009288fb]: Commencement: Sch. 4 para. 7 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-fec11ba5b9c41eea221b1343009288fb]: Commencement: Sch. 4 para. 7 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-a0ff6a7f86aacddcc3002036ceb88421]: Commencement: Sch. 4 para. 8 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-a0ff6a7f86aacddcc3002036ceb88421]: Commencement: Sch. 4 para. 8 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-92bae62d3b5f43aa0ae13dee162eef2a]: Commencement: Sch. 4 para. 9 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-92bae62d3b5f43aa0ae13dee162eef2a]: Commencement: Sch. 4 para. 9 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-cbb2cdf8d4d313cd09957a87772cce50]: Textual amendment: [Sch. 4 para. 9(3A)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/9/3A) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/1/a), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-cbb2cdf8d4d313cd09957a87772cce50]: Textual amendment: [Sch. 4 para. 9(3A)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/9/3A) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/1/a), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-1ca8bf6f2155eec15a15b9ec5a95ece6]: Textual amendment: Words in [Sch. 4 para. 9(5)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/9/5) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/1/b), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-1ca8bf6f2155eec15a15b9ec5a95ece6]: Textual amendment: Words in [Sch. 4 para. 9(5)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/9/5) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/1/b), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-4379187c8bbb84634eb2c4a2efd525ca]: Textual amendment: Words in [Sch. 4 para. 9(6)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/9/6) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(1)(c)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/1/c/i), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-4379187c8bbb84634eb2c4a2efd525ca]: Textual amendment: Words in [Sch. 4 para. 9(6)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/9/6) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(1)(c)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/1/c/i), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-5bc3ed8916bc69ad93444c10e9ba0452]: Textual amendment: [Sch. 4 para. 9(6)(aa)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/9/6/aa) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(1)(c)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/1/c/ii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-5bc3ed8916bc69ad93444c10e9ba0452]: Textual amendment: [Sch. 4 para. 9(6)(aa)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/9/6/aa) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(1)(c)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/1/c/ii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-4c7ba6789da807e362e3408abea75096]: Textual amendment: Words in [Sch. 4 para. 9(6)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/9/6/b) omitted (25.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(1)(c)(iii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/1/c/iii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-4c7ba6789da807e362e3408abea75096]: Textual amendment: Words in [Sch. 4 para. 9(6)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/9/6/b) omitted (25.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(1)(c)(iii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/1/c/iii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-d72e4224d3195373e4f86a74f416d59e]: Textual amendment: [Sch. 4 para. 9(6A)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/9/6A) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(1)(d)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/1/d), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-d72e4224d3195373e4f86a74f416d59e]: Textual amendment: [Sch. 4 para. 9(6A)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/9/6A) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(1)(d)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/1/d), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-88f08a0b732d7c65b1fcac9d026c0f9a]: Textual amendment: [Sch. 4 para. 9(10)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/9/10) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(1)(e)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/1/e), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-88f08a0b732d7c65b1fcac9d026c0f9a]: Textual amendment: [Sch. 4 para. 9(10)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/9/10) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(1)(e)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/1/e), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-698b9fa44c0085b9e0f83d9ada350897]: Commencement: Sch. 4 para. 10 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-698b9fa44c0085b9e0f83d9ada350897]: Commencement: Sch. 4 para. 10 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-aec64446e5bb18984a51b84c8742df7b]: Textual amendment: Words in [Sch. 4 para. 10(2)(i)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/10/2/i) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/2/a), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-aec64446e5bb18984a51b84c8742df7b]: Textual amendment: Words in [Sch. 4 para. 10(2)(i)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/10/2/i) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/2/a), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-92253c89b68adb34fc7348011d514f04]: Textual amendment: [Sch. 4 para. 10(2)(k)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/10/2/k) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/2/b), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-92253c89b68adb34fc7348011d514f04]: Textual amendment: [Sch. 4 para. 10(2)(k)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/10/2/k) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/2/b), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-baf12b66edca1f2433553f7f158f26ad]: Commencement: Sch. 4 para. 11 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-baf12b66edca1f2433553f7f158f26ad]: Commencement: Sch. 4 para. 11 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-193f62fdae0bd0f784a6532548534fc0]: Textual amendment: Words in [Sch. 4 para. 11(5)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/11/5) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/3), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-193f62fdae0bd0f784a6532548534fc0]: Textual amendment: Words in [Sch. 4 para. 11(5)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/11/5) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/3), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-b5daecaeed9e1bed43dd392450c3596f]: Commencement: Sch. 4 para. 12 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-b5daecaeed9e1bed43dd392450c3596f]: Commencement: Sch. 4 para. 12 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-c6af4dfa90d7570ddaf465c0b5597f39]: Textual amendment: [Sch. 4 para. 12(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/12/b) omitted (25.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/4/a), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-c6af4dfa90d7570ddaf465c0b5597f39]: Textual amendment: [Sch. 4 para. 12(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/12/b) omitted (25.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/4/a), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-c5c97bfc618341d4d2b040f052bbb255]: Textual amendment: Words in [Sch. 4 para. 12(c)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/12/c) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/4/b), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-c5c97bfc618341d4d2b040f052bbb255]: Textual amendment: Words in [Sch. 4 para. 12(c)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/12/c) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/4/b), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-273eb58f0b71a70a263ca5f3257c357e]: Textual amendment: [Sch. 4 para. 12A](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/12A) and cross-heading inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(5)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/5), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-273eb58f0b71a70a263ca5f3257c357e]: Textual amendment: [Sch. 4 para. 12A](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/12A) and cross-heading inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 2(5)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2/5), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-06d0979cf36bc6122e09aa06eef0fbec]: Commencement: Sch. 4 para. 13 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-06d0979cf36bc6122e09aa06eef0fbec]: Commencement: Sch. 4 para. 13 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-256af9902d5cca844c3b3169b1c522ac]: Textual amendment: [Sch. 4 para. 13(4)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/13/4/b) and word omitted (25.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 3(1)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/3/1/a), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-256af9902d5cca844c3b3169b1c522ac]: Textual amendment: [Sch. 4 para. 13(4)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/13/4/b) and word omitted (25.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 3(1)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/3/1/a), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-7e6fee4bc1092aeb45650777cda28eed]: Textual amendment: [Sch. 4 para. 13(8A)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/13/8A) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/3/1/b), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-7e6fee4bc1092aeb45650777cda28eed]: Textual amendment: [Sch. 4 para. 13(8A)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/13/8A) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/3/1/b), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-e5912f9ff8460644e321e4ef80fef801]: Commencement: Sch. 4 para. 14 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-e5912f9ff8460644e321e4ef80fef801]: Commencement: Sch. 4 para. 14 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-fc7bd764b47ec590f74be7643c8bd801]: Commencement: Sch. 4 para. 15 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-fc7bd764b47ec590f74be7643c8bd801]: Commencement: Sch. 4 para. 15 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-eda7b2b0d8088b220848b236331eae20]: Textual amendment: Words in [Sch. 4 para. 15(3)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/15/3) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/3/2/a), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-eda7b2b0d8088b220848b236331eae20]: Textual amendment: Words in [Sch. 4 para. 15(3)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/15/3) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/3/2/a), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-fc17c6177a4d5abaac6382d3411ae55c]: Textual amendment: [Sch. 4 para. 15(3A)-(3D)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/15/3A) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/3/2/b), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-fc17c6177a4d5abaac6382d3411ae55c]: Textual amendment: [Sch. 4 para. 15(3A)-(3D)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/15/3A) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/3/2/b), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-caee8cd879d65bed20a5bc7193db0dc4]: Textual amendment: Words in [Sch. 4 para. 15(4)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/15/4) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/3/2/c), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-caee8cd879d65bed20a5bc7193db0dc4]: Textual amendment: Words in [Sch. 4 para. 15(4)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/15/4) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/3/2/c), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-c10bde9037af10e9a7fb225a1b827382]: Commencement: Sch. 4 para. 16 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-c10bde9037af10e9a7fb225a1b827382]: Commencement: Sch. 4 para. 16 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-594157ad3ae3656345e3b32a6a95a918]: Commencement: Sch. 4 para. 17 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-594157ad3ae3656345e3b32a6a95a918]: Commencement: Sch. 4 para. 17 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-6c13d36975c3745e5f4a07c7c0ec3624]: Modification: [Sch. 4 para. 17(3)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/17/3)[(4)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/17/4) applied (2.3.2022) by [The Trade Remedies (Review and Reconsideration of Transitioned Trade Remedies) Regulations 2022 (S.I. 2022/113)](https://www.legislation.gov.uk/uksi/2022/113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/113/regulation/1/1), [17(c)](https://www.legislation.gov.uk/uksi/2022/113/regulation/17/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/113/regulation/3))
+[^c-6c13d36975c3745e5f4a07c7c0ec3624]: Modification: [Sch. 4 para. 17(3)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/17/3)[(4)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/17/4) applied (2.3.2022) by [The Trade Remedies (Review and Reconsideration of Transitioned Trade Remedies) Regulations 2022 (S.I. 2022/113)](https://www.legislation.gov.uk/uksi/2022/113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/113/regulation/1/1), [17(c)](https://www.legislation.gov.uk/uksi/2022/113/regulation/17/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/113/regulation/3))
 
-[^key-4f613ccc0d528c4876fa9e4bc7136747]: Textual amendment: Word in [Sch. 4 para. 17(3)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/17/3) substituted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(1)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/1/a), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-4f613ccc0d528c4876fa9e4bc7136747]: Textual amendment: Word in [Sch. 4 para. 17(3)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/17/3) substituted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(1)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/1/a), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-d3e3e6353e0d1d05f30d8a1dc5d76556]: Textual amendment: Word in [Sch. 4 para. 17(4)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/17/4) substituted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/1/b), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-d3e3e6353e0d1d05f30d8a1dc5d76556]: Textual amendment: Word in [Sch. 4 para. 17(4)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/17/4) substituted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/1/b), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-c82651513c144dc635114a07f89aef44]: Textual amendment: [Sch. 4 para. 17(5)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/17/5) omitted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(1)(c)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/1/c), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-c82651513c144dc635114a07f89aef44]: Textual amendment: [Sch. 4 para. 17(5)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/17/5) omitted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(1)(c)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/1/c), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-37776ef2be281e5f1ba1e1a901a9ed40]: Textual amendment: Words in [Sch. 4 para. 17(7)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/17/7) inserted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(1)(d)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/1/d/ii), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-37776ef2be281e5f1ba1e1a901a9ed40]: Textual amendment: Words in [Sch. 4 para. 17(7)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/17/7) inserted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(1)(d)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/1/d/ii), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-fd8be2ae3304e17c724fa36346a566f1]: Textual amendment: Word in [Sch. 4 para. 17(7)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/17/7) omitted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(1)(d)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/1/d/i), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-fd8be2ae3304e17c724fa36346a566f1]: Textual amendment: Word in [Sch. 4 para. 17(7)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/17/7) omitted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(1)(d)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/1/d/i), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-4e7ab0254752f7291ae299652439e466]: Textual amendment: [Sch. 4 para. 17(8A)-(8E)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/17/8A) inserted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(1)(e)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/1/e), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-4e7ab0254752f7291ae299652439e466]: Textual amendment: [Sch. 4 para. 17(8A)-(8E)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/17/8A) inserted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(1)(e)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/1/e), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-3476537e38844655af715d41f2034202]: Textual amendment: [Sch. 4 para. 17(9)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/17/9) omitted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(1)(f)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/1/f), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-3476537e38844655af715d41f2034202]: Textual amendment: [Sch. 4 para. 17(9)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/17/9) omitted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(1)(f)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/1/f), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-126fa60026501b32e47bcfe2433c90d4]: Textual amendment: [Sch. 4 para. 17(10)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/17/10) omitted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(1)(g)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/1/g), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-126fa60026501b32e47bcfe2433c90d4]: Textual amendment: [Sch. 4 para. 17(10)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/17/10) omitted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(1)(g)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/1/g), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-f59ae5561465af50428d8247aa0c2256]: Commencement: Sch. 4 para. 18 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-f59ae5561465af50428d8247aa0c2256]: Commencement: Sch. 4 para. 18 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-5dbca4d84c3e16fffac7464c010b3fc9]: Textual amendment: [Sch. 4 para. 18(9)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/18/9) inserted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/2), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-5dbca4d84c3e16fffac7464c010b3fc9]: Textual amendment: [Sch. 4 para. 18(9)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/18/9) inserted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/2), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-3d5385ffc027ddeff64919de4aa5aa25]: Commencement: Sch. 4 para. 19 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-3d5385ffc027ddeff64919de4aa5aa25]: Commencement: Sch. 4 para. 19 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-590e4c938150364f5b1c4ac696c2ae75]: Textual amendment: [Sch. 4 para. 19(6)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/19/6) inserted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/3), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-590e4c938150364f5b1c4ac696c2ae75]: Textual amendment: [Sch. 4 para. 19(6)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/19/6) inserted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/3), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-bcdcfa5280656d8e4f8f295fc272de6a]: Textual amendment: Words in [Sch. 4 para. 20 cross-heading](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/part/4/crossheading/secretary-of-states-power-to-accept-or-reject-a-recommendation) substituted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/4), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-bcdcfa5280656d8e4f8f295fc272de6a]: Textual amendment: Words in [Sch. 4 para. 20 cross-heading](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/part/4/crossheading/secretary-of-states-power-to-accept-or-reject-a-recommendation) substituted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/4), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-687734f9081d2c83f423b9d5649b1705]: Commencement: Sch. 4 para. 20 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-687734f9081d2c83f423b9d5649b1705]: Commencement: Sch. 4 para. 20 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-8a693cc593d5f6e5cdd8824bb99c4c4b]: Textual amendment: Words in [Sch. 4 para. 20(1)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/20/1) renumbered as Sch. 4 para. 20(1)(a) (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(5)(a)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/5/a/i), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-8a693cc593d5f6e5cdd8824bb99c4c4b]: Textual amendment: Words in [Sch. 4 para. 20(1)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/20/1) renumbered as Sch. 4 para. 20(1)(a) (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(5)(a)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/5/a/i), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-795556d4afc993f4eeb549ca3a4d35b7]: Textual amendment: [Sch. 4 para. 20(1)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/20/1/b) and word inserted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(5)(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/5/a/ii), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-795556d4afc993f4eeb549ca3a4d35b7]: Textual amendment: [Sch. 4 para. 20(1)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/20/1/b) and word inserted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(5)(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/5/a/ii), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-182c932444a0343bbdae2121f80bc2f5]: Textual amendment: [Sch. 4 para. 20(1A)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/20/1A) inserted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(5)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/5/b), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-182c932444a0343bbdae2121f80bc2f5]: Textual amendment: [Sch. 4 para. 20(1A)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/20/1A) inserted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(5)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/5/b), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-ceb3c3060aae9e2b927e128b21eaf32d]: Textual amendment: Words in [Sch. 4 para. 20(3)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/20/3) substituted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(5)(c)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/5/c), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-ceb3c3060aae9e2b927e128b21eaf32d]: Textual amendment: Words in [Sch. 4 para. 20(3)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/20/3) substituted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(5)(c)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/5/c), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-3ee80732d6f7596aff3d1166d46ea7b4]: Textual amendment: Words in [Sch. 4 para. 20(4)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/20/4) inserted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(5)(d)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/5/d), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-3ee80732d6f7596aff3d1166d46ea7b4]: Textual amendment: Words in [Sch. 4 para. 20(4)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/20/4) inserted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(5)(d)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/5/d), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-2b893200d3c94430c97b91b2c347bb8c]: Textual amendment: Words in [Sch. 4 para. 20(5)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/20/5/a) inserted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(5)(e)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/5/e), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-2b893200d3c94430c97b91b2c347bb8c]: Textual amendment: Words in [Sch. 4 para. 20(5)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/20/5/a) inserted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(5)(e)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/5/e), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-b61bdd905360b429b1e1c66943ebed38]: Textual amendment: [Sch. 4 para. 20(5A)-(5C)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/20/5A) inserted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(5)(f)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/5/f), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-b61bdd905360b429b1e1c66943ebed38]: Textual amendment: [Sch. 4 para. 20(5A)-(5C)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/20/5A) inserted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(5)(f)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/5/f), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-f6dbfcba6c773db90389cfca33c3566d]: Textual amendment: [Sch. 4 para. 20A](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/20A) and cross-heading inserted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(6)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/6), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-f6dbfcba6c773db90389cfca33c3566d]: Textual amendment: [Sch. 4 para. 20A](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/20A) and cross-heading inserted (11.7.2023 for specified purposes, 25.8.2023 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 4(6)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4/6), [17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-880d524269813ff2e055d8b816910598]: Commencement: Sch. 4 para. 21 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-880d524269813ff2e055d8b816910598]: Commencement: Sch. 4 para. 21 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-90d99e9dd8afb29a61b92df8f204522d]: Textual amendment: [Sch. 4 para. 21(4)(ca)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/4/ca)[(cb)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/4/cb) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/a/i), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-90d99e9dd8afb29a61b92df8f204522d]: Textual amendment: [Sch. 4 para. 21(4)(ca)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/4/ca)[(cb)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/4/cb) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/a/i), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-177080eae3b43dc0f666352e869e942d]: Textual amendment: [Sch. 4 para. 21(4)(e)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/4/e) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/a/ii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-177080eae3b43dc0f666352e869e942d]: Textual amendment: [Sch. 4 para. 21(4)(e)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/4/e) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/a/ii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-e522b6ab0ea082a2d94ab5c2aa524d20]: Textual amendment: Word in [Sch. 4 para. 21(6)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/6/a) omitted (25.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(b)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/b/i), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-e522b6ab0ea082a2d94ab5c2aa524d20]: Textual amendment: Word in [Sch. 4 para. 21(6)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/6/a) omitted (25.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(b)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/b/i), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-fd64939704543e2e879c2febdccf6258]: Textual amendment: [Sch. 4 para. 21(6)(aa)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/6/aa) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/b/ii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-fd64939704543e2e879c2febdccf6258]: Textual amendment: [Sch. 4 para. 21(6)(aa)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/6/aa) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/b/ii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-11bccf6c3c30ecccccd5962da5b63221]: Textual amendment: [Sch. 4 para. 21(6)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/6/b)[(c)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/6/c) substituted for [Sch. 4](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4) [para. 21(6)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/6/b) (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(b)(iii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/b/iii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-11bccf6c3c30ecccccd5962da5b63221]: Textual amendment: [Sch. 4 para. 21(6)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/6/b)[(c)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/6/c) substituted for [Sch. 4](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4) [para. 21(6)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/6/b) (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(b)(iii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/b/iii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-4be01d663a635700094a8789e9a73e69]: Textual amendment: Word in [Sch. 4 para. 21(7)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/7) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(c)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/c/i), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-4be01d663a635700094a8789e9a73e69]: Textual amendment: Word in [Sch. 4 para. 21(7)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/7) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(c)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/c/i), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-bd631d1022714a5ce446ce693a46d790]: Textual amendment: Word in [Sch. 4 para. 21(7)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/7/a) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(c)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/c/ii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-bd631d1022714a5ce446ce693a46d790]: Textual amendment: Word in [Sch. 4 para. 21(7)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/7/a) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(c)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/c/ii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-b90bf3bdd2612fb5a3b520c24b8d4f75]: Textual amendment: Word in [Sch. 4 para. 21(7)(c)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/7/c) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(c)(iii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/c/iii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-b90bf3bdd2612fb5a3b520c24b8d4f75]: Textual amendment: Word in [Sch. 4 para. 21(7)(c)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/7/c) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(c)(iii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/c/iii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-65a201e8b5bc1253727419897f363f53]: Textual amendment: Words in [Sch. 4 para. 21(8)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/8) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(d)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/d), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-65a201e8b5bc1253727419897f363f53]: Textual amendment: Words in [Sch. 4 para. 21(8)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/8) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(d)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/d), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-bd483624a900b300c57a61a295c79f62]: Textual amendment: Words in [Sch. 4 para. 21(9)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/9) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(e)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/e/i), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-bd483624a900b300c57a61a295c79f62]: Textual amendment: Words in [Sch. 4 para. 21(9)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/9) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(e)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/e/i), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-ca7dfcf440e154fe2f4f23b43c17b4ce]: Textual amendment: Words in [Sch. 4 para. 21(9)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/9) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(e)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/e/ii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-ca7dfcf440e154fe2f4f23b43c17b4ce]: Textual amendment: Words in [Sch. 4 para. 21(9)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/9) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(e)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/e/ii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-4dead1729d5826728c1432d7a0fcf567]: Textual amendment: Word in [Sch. 4 para. 21(10)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/10) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(f)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/f), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-4dead1729d5826728c1432d7a0fcf567]: Textual amendment: Word in [Sch. 4 para. 21(10)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/21/10) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(1)(f)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/1/f), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-96f5d008dda55d65dfb4897c715bebf2]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/22) in force at 30.1.2020 by [S.I. 2020/97](https://www.legislation.gov.uk/uksi/2020/97), [reg. 3](https://www.legislation.gov.uk/uksi/2020/97/regulation/3) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/97/schedule/paragraph/1))
+[^c-96f5d008dda55d65dfb4897c715bebf2]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/22) in force at 30.1.2020 by [S.I. 2020/97](https://www.legislation.gov.uk/uksi/2020/97), [reg. 3](https://www.legislation.gov.uk/uksi/2020/97/regulation/3) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/97/schedule/paragraph/1))
 
-[^key-43c82af6e9575a4d98eff5e89cb60640]: Textual amendment: Words in [Sch. 4 para. 22(1)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/22/1/b) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/2/a), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-43c82af6e9575a4d98eff5e89cb60640]: Textual amendment: Words in [Sch. 4 para. 22(1)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/22/1/b) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/2/a), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-cd0733d3e6445da3f7ce5e4b30f65d2a]: Textual amendment: [Sch. 4 para. 22(2)(d)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/22/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/22/2/e) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/2/b), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-cd0733d3e6445da3f7ce5e4b30f65d2a]: Textual amendment: [Sch. 4 para. 22(2)(d)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/22/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/22/2/e) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/2/b), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-1e76ee27be3f121ed2138d2bfc5bac3f]: Textual amendment: Word in [Sch. 4 para. 22(4)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/22/4) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/2/c/i), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-1e76ee27be3f121ed2138d2bfc5bac3f]: Textual amendment: Word in [Sch. 4 para. 22(4)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/22/4) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/2/c/i), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-2e3dd059adb2ac1c4644ca543c42f10c]: Textual amendment: Word in [Sch. 4 para. 22(4)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/22/4/a) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/2/c/ii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-2e3dd059adb2ac1c4644ca543c42f10c]: Textual amendment: Word in [Sch. 4 para. 22(4)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/22/4/a) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/2/c/ii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-cea2eeb25b9d8bff03f9b5396bef672b]: Textual amendment: Word in [Sch. 4 para. 22(4)(c)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/22/4/c) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(2)(c)(iii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/2/c/iii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-cea2eeb25b9d8bff03f9b5396bef672b]: Textual amendment: Word in [Sch. 4 para. 22(4)(c)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/22/4/c) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(2)(c)(iii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/2/c/iii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-0144ac76f420d497436be38789332b71]: Textual amendment: Sch. 4 para. 22A and cross-heading inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 6](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/6), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-0144ac76f420d497436be38789332b71]: Textual amendment: Sch. 4 para. 22A and cross-heading inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 6](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/6), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-8874a255301e426da48ddde6b1e77c40]: Textual amendment: [Sch. 4 para. 22B](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/22B) and cross-heading inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 7](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/7), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-8874a255301e426da48ddde6b1e77c40]: Textual amendment: [Sch. 4 para. 22B](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/22B) and cross-heading inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 7](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/7), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-2a2fcf125804268ecd21560cccfa7d02]: Commencement: Sch. 4 para. 23 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-2a2fcf125804268ecd21560cccfa7d02]: Commencement: Sch. 4 para. 23 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-b541b7f6622750412d6241f31ba7c5f7]: Commencement: Sch. 4 para. 24 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-b541b7f6622750412d6241f31ba7c5f7]: Commencement: Sch. 4 para. 24 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-e3c3727cc281ff6c077bcf0cd4c08604]: Commencement: Sch. 4 para. 25 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-e3c3727cc281ff6c077bcf0cd4c08604]: Commencement: Sch. 4 para. 25 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-1aba47a5cf8e09fe6270ae2b8429307f]: Commencement: Sch. 4 para. 26 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-1aba47a5cf8e09fe6270ae2b8429307f]: Commencement: Sch. 4 para. 26 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-d43dd4e642858a6d096aec323da318fb]: Textual amendment: Words in [Sch. 4 para. 26(1)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/26/1/b) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/3/a), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-d43dd4e642858a6d096aec323da318fb]: Textual amendment: Words in [Sch. 4 para. 26(1)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/26/1/b) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/3/a), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-1f747c552d83fcb4efd47cbaad79fde8]: Textual amendment: [Sch. 4 para. 26(4)(e)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/26/4/e)[(f)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/26/4/f) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/3/b), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-1f747c552d83fcb4efd47cbaad79fde8]: Textual amendment: [Sch. 4 para. 26(4)(e)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/26/4/e)[(f)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/26/4/f) inserted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/3/b), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-946806b71a6bc9ba433ded55b911dbb6]: Textual amendment: Word in [Sch. 4 para. 26(6)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/26/6) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(3)(c)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/3/c/i), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-946806b71a6bc9ba433ded55b911dbb6]: Textual amendment: Word in [Sch. 4 para. 26(6)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/26/6) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(3)(c)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/3/c/i), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-0e0d1012c8b0ebb2d1711c9d201e88e8]: Textual amendment: Word in [Sch. 4 para. 26(6)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/26/6/a) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(3)(c)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/3/c/ii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-0e0d1012c8b0ebb2d1711c9d201e88e8]: Textual amendment: Word in [Sch. 4 para. 26(6)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/26/6/a) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(3)(c)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/3/c/ii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-1cd46525af5da2d9d64f4cbc79d0861d]: Textual amendment: Word in [Sch. 4 para. 26(6)(c)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/26/6/c) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(3)(c)(iii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/3/c/iii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-1cd46525af5da2d9d64f4cbc79d0861d]: Textual amendment: Word in [Sch. 4 para. 26(6)(c)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/4/paragraph/26/6/c) substituted (25.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 19 paras. 5(3)(c)(iii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5/3/c/iii), [17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2); [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
-[^key-b67d3e2d9212a4a867b1e5038d20dcaf]: Commencement: Sch. 4 para. 27 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-b67d3e2d9212a4a867b1e5038d20dcaf]: Commencement: Sch. 4 para. 27 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-e927013484566b11b1e33b9862bc6abc]: Commencement: Sch. 4 para. 28 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-e927013484566b11b1e33b9862bc6abc]: Commencement: Sch. 4 para. 28 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-cf7b63b3f2651b5af3d6da0bff9303dd]: Commencement: Sch. 4 para. 29 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-cf7b63b3f2651b5af3d6da0bff9303dd]: Commencement: Sch. 4 para. 29 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-61c8ffd4dac46e4bab36dec2bb72869e]: Commencement: Sch. 4 para. 30 in force at 7.5.2019 at 11:59 p.m. by [S.I. 2019/914](https://www.legislation.gov.uk/uksi/2019/914), [reg. 2](https://www.legislation.gov.uk/uksi/2019/914/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/914/regulation/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/914/schedule/paragraph/1))
+[^c-61c8ffd4dac46e4bab36dec2bb72869e]: Commencement: Sch. 4 para. 30 in force at 7.5.2019 at 11:59 p.m. by [S.I. 2019/914](https://www.legislation.gov.uk/uksi/2019/914), [reg. 2](https://www.legislation.gov.uk/uksi/2019/914/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/914/regulation/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/914/schedule/paragraph/1))
 
-[^key-f98a900e1ea1830dbb396f5f447900d7]: Commencement: Sch. 4 para. 31 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-f98a900e1ea1830dbb396f5f447900d7]: Commencement: Sch. 4 para. 31 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
 
-[^key-c953338e5ae7a155d0cd058ffda1c94c]: Commencement: Sch. 4 para. 32 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))
+[^c-c953338e5ae7a155d0cd058ffda1c94c]: Commencement: Sch. 4 para. 32 in force at 4.3.2019 at 11:59 a.m. by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 2](https://www.legislation.gov.uk/uksi/2019/429/regulation/2) (with [regs. 4-9](https://www.legislation.gov.uk/uksi/2019/429/regulation/4))

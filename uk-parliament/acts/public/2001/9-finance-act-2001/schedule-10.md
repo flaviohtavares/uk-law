@@ -45,7 +45,7 @@ Section 46.
 
 (5) In this paragraph “**trustee in bankruptcy**” includes, as respects Scotland—
 
-- (a)[^key-f5a18ca781dcae1ff5cf0d515452feed] a trustee or interim trustee in the sequestration, under the Bankruptcy (Scotland) Act 2016, of a person’s estate; and
+- (a)[^c-f5a18ca781dcae1ff5cf0d515452feed] a trustee or interim trustee in the sequestration, under the Bankruptcy (Scotland) Act 2016, of a person’s estate; and
 - (b) a trustee acting under a trust deed (within the meaning of that Act).
 
 ### 2. Assessments to penalties etc.
@@ -99,9 +99,9 @@ the failure shall be deemed for the purposes of any further liability to civil p
 
 ### 4. Time limits on penalty assessments
 
-(1) Subject to sub-paragraphs (2) and (3) below, an assessment under paragraph 2 above to a civil penalty shall not be made more than 4 years[^key-8fb8435b6e29dc1a3baa6c81d53e0486] after the conduct to which the penalty relates.
+(1) Subject to sub-paragraphs (2) and (3) below, an assessment under paragraph 2 above to a civil penalty shall not be made more than 4 years[^c-8fb8435b6e29dc1a3baa6c81d53e0486] after the conduct to which the penalty relates.
 
-(2)[^key-94a38e6e3f7a8a23be3db471b0c5fbf0] An assessment of a person to a civil penalty in a case involving a loss of aggregates levy—
+(2)[^c-94a38e6e3f7a8a23be3db471b0c5fbf0] An assessment of a person to a civil penalty in a case involving a loss of aggregates levy—
 
 - (a) brought about deliberately by the person (or by another person acting on that person's behalf), or
 - (b) attributable to a failure by the person to comply with an obligation under section 24(2) or paragraph 1 of Schedule 4,
@@ -112,8 +112,8 @@ may be made at any time not more than 20 years after the conduct to which the pe
 
 (3) Where, after a person’s death, the Commissioners propose to assess an amount of a civil penalty due by reason of some conduct of the deceased—
 
-- (a) the assessment shall not be made more than 4 years[^key-d55e42ca27bd0fc1dbbb95b867243725] after the death; [^key-29c2841f76309aa83a54ec2bf773181d]...
-- (b)[^key-29c2841f76309aa83a54ec2bf773181d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the assessment shall not be made more than 4 years[^c-d55e42ca27bd0fc1dbbb95b867243725] after the death; [^c-29c2841f76309aa83a54ec2bf773181d]...
+- (b)[^c-29c2841f76309aa83a54ec2bf773181d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 5. Penalty interest on unpaid penalties
 
@@ -206,12 +206,12 @@ that amount shall be deemed for the purposes of any further liability to interes
 
 ## Annotations
 
-[^key-f5a18ca781dcae1ff5cf0d515452feed]: Textual amendment: Sch. 10 para. 1(5)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 24(5)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/24/5)
+[^c-f5a18ca781dcae1ff5cf0d515452feed]: Textual amendment: Sch. 10 para. 1(5)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 24(5)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/24/5)
 
-[^key-8fb8435b6e29dc1a3baa6c81d53e0486]: Textual amendment: Words in Sch. 10 para. 4(1) substituted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 31(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/31/2); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 13](https://www.legislation.gov.uk/uksi/2010/867/article/13))
+[^c-8fb8435b6e29dc1a3baa6c81d53e0486]: Textual amendment: Words in Sch. 10 para. 4(1) substituted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 31(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/31/2); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 13](https://www.legislation.gov.uk/uksi/2010/867/article/13))
 
-[^key-94a38e6e3f7a8a23be3db471b0c5fbf0]: Textual amendment: Sch. 10 para. 4(2) (2A) substituted for Sch. 10 para. 4(2) (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 31(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/31/3); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 14](https://www.legislation.gov.uk/uksi/2010/867/article/14))
+[^c-94a38e6e3f7a8a23be3db471b0c5fbf0]: Textual amendment: Sch. 10 para. 4(2) (2A) substituted for Sch. 10 para. 4(2) (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 31(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/31/3); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 14](https://www.legislation.gov.uk/uksi/2010/867/article/14))
 
-[^key-d55e42ca27bd0fc1dbbb95b867243725]: Textual amendment: Words in Sch. 10 para. 4(3)(a) substituted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 31(4)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/31/4/a); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 15](https://www.legislation.gov.uk/uksi/2010/867/article/15))
+[^c-d55e42ca27bd0fc1dbbb95b867243725]: Textual amendment: Words in Sch. 10 para. 4(3)(a) substituted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 31(4)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/31/4/a); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 15](https://www.legislation.gov.uk/uksi/2010/867/article/15))
 
-[^key-29c2841f76309aa83a54ec2bf773181d]: Textual amendment: Sch. 10 para. 4(3)(b) and word omitted (1.4.2010) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 31(4)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/31/4/b); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 15](https://www.legislation.gov.uk/uksi/2010/867/article/15))
+[^c-29c2841f76309aa83a54ec2bf773181d]: Textual amendment: Sch. 10 para. 4(3)(b) and word omitted (1.4.2010) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 31(4)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/31/4/b); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 15](https://www.legislation.gov.uk/uksi/2010/867/article/15))

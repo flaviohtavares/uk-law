@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 65A. Guidance to local authorities[^key-4ef2919c507171c7c5a4322290ae71e7]
+## 65A. Guidance to local authorities[^c-4ef2919c507171c7c5a4322290ae71e7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The local authority shall, in carrying out functions under this Part of this Act
 
 ## Annotations
 
-[^key-4ef2919c507171c7c5a4322290ae71e7]: Textual amendment: S. 65A inserted (1.4.2007) by [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), [ss. 72(3)](https://www.legislation.gov.uk/asp/2006/10/section/72/3), [104(1)](https://www.legislation.gov.uk/asp/2006/10/section/104/1); [S.S.I. 2007/84](https://www.legislation.gov.uk/ssi/2007/84), [art. 3(3)](https://www.legislation.gov.uk/ssi/2007/84/article/3/3) (with [arts. 5](https://www.legislation.gov.uk/ssi/2007/84/article/5) [6](https://www.legislation.gov.uk/ssi/2007/84/article/6))
+[^c-4ef2919c507171c7c5a4322290ae71e7]: Textual amendment: S. 65A inserted (1.4.2007) by [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), [ss. 72(3)](https://www.legislation.gov.uk/asp/2006/10/section/72/3), [104(1)](https://www.legislation.gov.uk/asp/2006/10/section/104/1); [S.S.I. 2007/84](https://www.legislation.gov.uk/ssi/2007/84), [art. 3(3)](https://www.legislation.gov.uk/ssi/2007/84/article/3/3) (with [arts. 5](https://www.legislation.gov.uk/ssi/2007/84/article/5) [6](https://www.legislation.gov.uk/ssi/2007/84/article/6))

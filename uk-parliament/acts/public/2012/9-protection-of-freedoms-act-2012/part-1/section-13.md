@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Destruction of copies[^key-36fdbeaae8d946d6929ac333b9e324c7][^key-9679e011a3a3a61cab6de729efd69591]
+## 13. Destruction of copies[^c-36fdbeaae8d946d6929ac333b9e324c7][^c-9679e011a3a3a61cab6de729efd69591]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ After section 63P of the Police and Criminal Evidence Act 1984 (for which see se
 
 ## Annotations
 
-[^key-36fdbeaae8d946d6929ac333b9e324c7]: Commencement: S. 13 in force at 31.10.2013 for specified purposes by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/b) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
+[^c-36fdbeaae8d946d6929ac333b9e324c7]: Commencement: S. 13 in force at 31.10.2013 for specified purposes by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/b) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
 
-[^key-9679e011a3a3a61cab6de729efd69591]: Commencement: S. 13 in force at 31.1.2014 in so far as not already in force by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/1814/article/3/a) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
+[^c-9679e011a3a3a61cab6de729efd69591]: Commencement: S. 13 in force at 31.1.2014 in so far as not already in force by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/1814/article/3/a) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))

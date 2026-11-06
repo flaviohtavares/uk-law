@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 149. Applications under section 176A(5) of the IA 1986 to disapply section 176A(2) of the IA 1986[^key-25b8f505cf6acd9dfb5bfeb0b735e204]
+## 149. Applications under section 176A(5) of the IA 1986 to disapply section 176A(2) of the IA 1986[^c-25b8f505cf6acd9dfb5bfeb0b735e204]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ An application under section 176A(5) of the IA 1986 must include averments—
 
 ## Annotations
 
-[^key-25b8f505cf6acd9dfb5bfeb0b735e204]: Commencement: Rule 149 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-25b8f505cf6acd9dfb5bfeb0b735e204]: Commencement: Rule 149 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

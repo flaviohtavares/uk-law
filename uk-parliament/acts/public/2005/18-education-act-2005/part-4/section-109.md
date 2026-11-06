@@ -33,10 +33,10 @@ summary: ''
 (3) A person guilty of an offence under subsection is liable—
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both;
-- (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-9e028559d249f4fedbd99f02121be078], to a fine not exceeding the statutory maximum or to both;
+- (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-9e028559d249f4fedbd99f02121be078], to a fine not exceeding the statutory maximum or to both;
 - (c) on summary conviction in Scotland or Northern Ireland, to imprisonment for a term not exceeding 6 months, to a fine not exceeding the statutory maximum or to both.
 
-(4) In relation to an offence committed before 2 May 2022[^key-1f033c85dffe916e26ece8fb2939a5d0], the reference in subsection (3)(b) to the general limit in a magistrates’ court[^key-b661c164051de25381be45c45e8b1f80] is to be read as a reference to 6 months.
+(4) In relation to an offence committed before 2 May 2022[^c-1f033c85dffe916e26ece8fb2939a5d0], the reference in subsection (3)(b) to the general limit in a magistrates’ court[^c-b661c164051de25381be45c45e8b1f80] is to be read as a reference to 6 months.
 
 (5) The reference in subsection (1)(c) to an enactment includes a reference to an enactment comprised in, or in an instrument made under—
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9e028559d249f4fedbd99f02121be078]: Textual amendment: Words in [s. 109(3)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/109/3/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-9e028559d249f4fedbd99f02121be078]: Textual amendment: Words in [s. 109(3)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/109/3/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-1f033c85dffe916e26ece8fb2939a5d0]: Textual amendment: Words in [s. 109(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/109/4) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-1f033c85dffe916e26ece8fb2939a5d0]: Textual amendment: Words in [s. 109(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/109/4) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-b661c164051de25381be45c45e8b1f80]: Textual amendment: Words in [s. 109(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/109/4) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-b661c164051de25381be45c45e8b1f80]: Textual amendment: Words in [s. 109(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/109/4) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table

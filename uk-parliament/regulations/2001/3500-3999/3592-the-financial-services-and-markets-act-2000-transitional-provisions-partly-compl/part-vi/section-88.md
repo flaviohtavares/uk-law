@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Power of the Authority to make arrangements for the interim tribunal[^key-ff213ab3aef8a02c033c832218710b51]
+## 88. Power of the Authority to make arrangements for the interim tribunal[^c-ff213ab3aef8a02c033c832218710b51]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The Authority may make such arrangements as appear to it to be necessary or expe
 
 ## Annotations
 
-[^key-ff213ab3aef8a02c033c832218710b51]: Commencement: Art. 88 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-ff213ab3aef8a02c033c832218710b51]: Commencement: Art. 88 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

@@ -22,9 +22,9 @@ summary: ''
 
 Regulation 6
 
-**1.**[^key-f69853b39a5e42534588f49fadc1d880] The Toys (Safety) Regulations 2011 are amended in accordance with paragraphs 2 to 7.
+**1.**[^c-f69853b39a5e42534588f49fadc1d880] The Toys (Safety) Regulations 2011 are amended in accordance with paragraphs 2 to 7.
 
-### 2. Amendment to Part 1[^key-4508506bd0564acb8f3b4476c4b40ae3]
+### 2. Amendment to Part 1[^c-4508506bd0564acb8f3b4476c4b40ae3]
 
 (1) In regulation 3—
 
@@ -50,13 +50,13 @@ Regulation 6
 
 (2) In regulation 8(2)(b) for “EU” substitute “ relevant market ”.
 
-### 3. Amendment to Part 2[^key-e66f3aeefd7cee1be0cd300b316c5acd]
+### 3. Amendment to Part 2[^c-e66f3aeefd7cee1be0cd300b316c5acd]
 
 (1) In regulation 17(2) and (4) for “Member” substitute “ relevant ”.
 
 (2) In regulation 25 for “EU” substitute “ relevant market ”.
 
-### 4. Amendment to Part 3[^key-a2d3767dc651c65252bc91d465984dd6]
+### 4. Amendment to Part 3[^c-a2d3767dc651c65252bc91d465984dd6]
 
 In regulation 40(2)—
 
@@ -73,11 +73,11 @@ In regulation 40(2)—
 
   .
 
-### 5. Amendment to Part 4[^key-4d10762466df8bb6462c0829adb4595e]
+### 5. Amendment to Part 4[^c-4d10762466df8bb6462c0829adb4595e]
 
 In regulation 48 after “participate in” insert “ , or ensure that its personnel who are responsible for carrying out the conformity assessment activities are informed of, ”.
 
-### 6. Amendment to Part 5[^key-89c160672323cd00f6730da88853ef3d]
+### 6. Amendment to Part 5[^c-89c160672323cd00f6730da88853ef3d]
 
 (1) In regulation 52(4) for “the United Kingdom” substitute “ Northern Ireland ”.
 
@@ -85,22 +85,22 @@ In regulation 48 after “participate in” insert “ , or ensure that its pers
 
 (3) In regulation 54(1) omit “other” where it appears before “Member States”.
 
-### 7. Amendment to Part 6[^key-7d7dce6e370f39b059f13e19ef491236]
+### 7. Amendment to Part 6[^c-7d7dce6e370f39b059f13e19ef491236]
 
 In regulation 58(2) for “member States” substitute “ relevant states ”.
 
 ## Annotations
 
-[^key-f69853b39a5e42534588f49fadc1d880]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/5/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-f69853b39a5e42534588f49fadc1d880]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/5/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-4508506bd0564acb8f3b4476c4b40ae3]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2020/1112/schedule/5/paragraph/2) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-4508506bd0564acb8f3b4476c4b40ae3]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2020/1112/schedule/5/paragraph/2) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-e66f3aeefd7cee1be0cd300b316c5acd]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2020/1112/schedule/5/paragraph/3) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-e66f3aeefd7cee1be0cd300b316c5acd]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2020/1112/schedule/5/paragraph/3) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-a2d3767dc651c65252bc91d465984dd6]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2020/1112/schedule/5/paragraph/4) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-a2d3767dc651c65252bc91d465984dd6]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2020/1112/schedule/5/paragraph/4) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-4d10762466df8bb6462c0829adb4595e]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2020/1112/schedule/5/paragraph/5) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-4d10762466df8bb6462c0829adb4595e]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2020/1112/schedule/5/paragraph/5) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-89c160672323cd00f6730da88853ef3d]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2020/1112/schedule/5/paragraph/6) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-89c160672323cd00f6730da88853ef3d]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2020/1112/schedule/5/paragraph/6) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-7d7dce6e370f39b059f13e19ef491236]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2020/1112/schedule/5/paragraph/7) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-7d7dce6e370f39b059f13e19ef491236]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2020/1112/schedule/5/paragraph/7) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)

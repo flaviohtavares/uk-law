@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 257. Power to enter land and plant trees[^key-5eb4de53f6ec31ee388a1c09765d782f]
+## 257. Power to enter land and plant trees[^c-5eb4de53f6ec31ee388a1c09765d782f]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5eb4de53f6ec31ee388a1c09765d782f]: Commencement: S. 257 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-5eb4de53f6ec31ee388a1c09765d782f]: Commencement: S. 257 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

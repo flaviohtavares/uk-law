@@ -31,7 +31,7 @@ summary: ''
   - (i) relating to land or any interest in land held by it for the purposes of Part I of the 1987 Act,
   - (ii) under sections 4 and 5 (power to provide furniture, board and laundry facilities) of that Act, in connection with any such land or interest,
 - (b) in relation to a registered social landlord, references to its housing activities within the meaning of section 83(3),
-- (c) in relation to Scottish Water[^key-d564643aab2af28c46fba4270de006cf] , references to its functions in relation to the provision and management of houses.
+- (c) in relation to Scottish Water[^c-d564643aab2af28c46fba4270de006cf] , references to its functions in relation to the provision and management of houses.
 
 (3) An agreement under section 55 between a tenant management co-operative and a local authority landlord may, without prejudice to any other enactment, include terms providing for the letting of land to the co-operative by the landlord for a period not exceeding 20 years.
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c489290]: Commencement: S. 56 wholly in force at 30.9.2002, see s. 113(1)(2) and [S.S.I. 2002/321](https://www.legislation.gov.uk/ssi/2002/321), [art. 2](https://www.legislation.gov.uk/ssi/2002/321/article/2) (subject to transitional provisions and savings in [arts. 3-5](https://www.legislation.gov.uk/ssi/2002/321/article/3))
 
-[^key-d564643aab2af28c46fba4270de006cf]: Textual amendment: Words in [s. 56(2)(c)](https://www.legislation.gov.uk/asp/2001/10/section/56/2/c) substituted (25.6.2003) by [The Water Industry (Scotland) Act 2002 (Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [sch. para. 8(3)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/8/3)
+[^c-d564643aab2af28c46fba4270de006cf]: Textual amendment: Words in [s. 56(2)(c)](https://www.legislation.gov.uk/asp/2001/10/section/56/2/c) substituted (25.6.2003) by [The Water Industry (Scotland) Act 2002 (Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [sch. para. 8(3)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/8/3)

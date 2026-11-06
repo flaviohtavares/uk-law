@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.1. Applications, etc. by forms or electronic means[^key-c3278694665fae2038e68de7a743f0de]
+## 5.1. Applications, etc. by forms or electronic means[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.2. Forms in Welsh[^key-c3278694665fae2038e68de7a743f0de]
+## 5.2. Forms in Welsh[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.3. Signature of forms[^key-c3278694665fae2038e68de7a743f0de]
+## 5.3. Signature of forms[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.4. Duty to make records[^key-c3278694665fae2038e68de7a743f0de]
+## 5.4. Duty to make records[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.5. Recording and transcription of proceedings in the Crown Court[^key-c3278694665fae2038e68de7a743f0de]
+## 5.5. Recording and transcription of proceedings in the Crown Court[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -56,7 +56,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.6. Custody of case materials[^key-c3278694665fae2038e68de7a743f0de]
+## 5.6. Custody of case materials[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -64,7 +64,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.7. Supply to a party of information or documents from records or case materials[^key-c3278694665fae2038e68de7a743f0de]
+## 5.7. Supply to a party of information or documents from records or case materials[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -72,7 +72,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.8. Supply to the public, including reporters, of information about cases[^key-c3278694665fae2038e68de7a743f0de]
+## 5.8. Supply to the public, including reporters, of information about cases[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -80,7 +80,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.9. Supply of written certificate or extract from records[^key-c3278694665fae2038e68de7a743f0de]
+## 5.9. Supply of written certificate or extract from records[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -90,6 +90,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c3278694665fae2038e68de7a743f0de]: Textual amendment: Rules revoked (5.10.2020) by [The Criminal Procedure Rules 2020 (S.I. 2020/759)](https://www.legislation.gov.uk/uksi/2020/759), [preamble](https://www.legislation.gov.uk/uksi/2020/759/introduction)
+[^c-c3278694665fae2038e68de7a743f0de]: Textual amendment: Rules revoked (5.10.2020) by [The Criminal Procedure Rules 2020 (S.I. 2020/759)](https://www.legislation.gov.uk/uksi/2020/759), [preamble](https://www.legislation.gov.uk/uksi/2020/759/introduction)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

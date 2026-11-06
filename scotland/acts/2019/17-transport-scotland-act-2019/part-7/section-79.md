@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. National exemptions[^key-6118121ec5ed9a89df8627888c9e745f]
+## 79. National exemptions[^c-6118121ec5ed9a89df8627888c9e745f]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6118121ec5ed9a89df8627888c9e745f]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2019/17/section/79) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-6118121ec5ed9a89df8627888c9e745f]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2019/17/section/79) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

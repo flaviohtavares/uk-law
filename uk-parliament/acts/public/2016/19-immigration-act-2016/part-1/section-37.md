@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Private hire vehicles etc[^key-0aae83ccaae1ac215b421b80aa2840a7]
+## 37. Private hire vehicles etc[^c-0aae83ccaae1ac215b421b80aa2840a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 5 (private hire vehicles etc) has effect.
 
 ## Annotations
 
-[^key-0aae83ccaae1ac215b421b80aa2840a7]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2016/19/section/37) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/a)
+[^c-0aae83ccaae1ac215b421b80aa2840a7]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2016/19/section/37) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/a)

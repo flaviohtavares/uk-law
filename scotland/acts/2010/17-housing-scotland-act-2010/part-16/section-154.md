@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 154. Police accommodation not to be Scottish secure tenancy[^key-6628e7ddaa3ab9b1d40e73d6b7ba5683]
+## 154. Police accommodation not to be Scottish secure tenancy[^c-6628e7ddaa3ab9b1d40e73d6b7ba5683]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ In paragraph 2 of schedule 1 to the Housing (Scotland) Act 2001 (asp 10)—
 
 ## Annotations
 
-[^key-6628e7ddaa3ab9b1d40e73d6b7ba5683]: Commencement: S. 154 in force at 1.3.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-6628e7ddaa3ab9b1d40e73d6b7ba5683]: Commencement: S. 154 in force at 1.3.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Prohibition on disposal of land[^key-3bd0f38cf97837a0cfbdef49d51eaa40]
+## 84. Prohibition on disposal of land[^c-3bd0f38cf97837a0cfbdef49d51eaa40]
 
 *Extent: S*
 
@@ -108,4 +108,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bd0f38cf97837a0cfbdef49d51eaa40]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2015/6/section/84) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b)
+[^c-3bd0f38cf97837a0cfbdef49d51eaa40]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2015/6/section/84) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b)

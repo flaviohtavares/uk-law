@@ -28,7 +28,7 @@ summary: ''
 - (b) at the time of the act or omission to which the complaint relates, the respondent was participating in the scheme;
 - (c) at the time when the complaint is referred under the scheme, the respondent has not withdrawn from the scheme in accordance with its provisions;
 - (d) the act or omission to which the complaint relates occurred at a time when voluntary jurisdiction rules were in force in relation to the activity in question; and
-- (e) the complaint cannot be dealt with under the compulsory jurisdiction [^key-55433ba548042e028c09c8370a67ce4f]....
+- (e) the complaint cannot be dealt with under the compulsory jurisdiction [^c-55433ba548042e028c09c8370a67ce4f]....
 
 (3) “**Voluntary jurisdiction rules**” means rules—
 
@@ -39,7 +39,7 @@ summary: ''
 
 (5) Activities may be specified by reference to specified categories (however described).
 
-(6) The rules require the FCA's[^key-f88ab091c7feaedcb19333476c100c5d] approval.
+(6) The rules require the FCA's[^c-f88ab091c7feaedcb19333476c100c5d] approval.
 
 (7) A complainant is eligible, in relation to the voluntary jurisdiction of the ombudsman scheme, if he falls within a class of person specified in the rules as eligible.
 
@@ -73,6 +73,6 @@ but only if the respondent has agreed that complaints of that kind were to be de
 
 [^c2079643]: Modification: S. 227(2) modified (7.10.2008 at 9.30 a.m.) by The Heritable Bank plc [Transfer of Certain Rights and Liabilities Order 2008 (S.I. 2008/2644)](https://www.legislation.gov.uk/uksi/2008/2644), [art. 25](https://www.legislation.gov.uk/uksi/2008/2644/article/25)
 
-[^key-55433ba548042e028c09c8370a67ce4f]: Textual amendment: Words in s. 227(2)(e) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [10(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/10/6)
+[^c-55433ba548042e028c09c8370a67ce4f]: Textual amendment: Words in s. 227(2)(e) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [10(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/10/6)
 
-[^key-f88ab091c7feaedcb19333476c100c5d]: Textual amendment: Word in s. 227(6) substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/11/paragraph/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-f88ab091c7feaedcb19333476c100c5d]: Textual amendment: Word in s. 227(6) substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/11/paragraph/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

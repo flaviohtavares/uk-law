@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Determining which rate applies[^key-47b0b6d7f7841b4f7a0b44d7f76c1eaa]
+## 33. Determining which rate applies[^c-47b0b6d7f7841b4f7a0b44d7f76c1eaa]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47b0b6d7f7841b4f7a0b44d7f76c1eaa]: Commencement: S. 33 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-47b0b6d7f7841b4f7a0b44d7f76c1eaa]: Commencement: S. 33 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

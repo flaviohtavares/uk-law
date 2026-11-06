@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 96. Exceptions from disqualification for imprisonment[^key-3db1065ade24cb326d14547e7ce708ae]
+## 96. Exceptions from disqualification for imprisonment[^c-3db1065ade24cb326d14547e7ce708ae]
 
 *Extent: N.I.*
 
@@ -50,7 +50,7 @@ unless paragraph (2) applies.
 
 ## Annotations
 
-[^key-3db1065ade24cb326d14547e7ce708ae]: Commencement: [Reg. 96](https://www.legislation.gov.uk/nisr/2016/219/regulation/96) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-3db1065ade24cb326d14547e7ce708ae]: Commencement: [Reg. 96](https://www.legislation.gov.uk/nisr/2016/219/regulation/96) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00101]: Footnote: Section 18(4) was amended by paragraph 21(d) of Schedule 3 to the Welfare Reform (Northern Ireland) Order 2015
 

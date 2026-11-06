@@ -104,7 +104,7 @@ are, so far as they were exercisable in relation to any provision repealed and r
 
 #### Exempt charities
 
-**15.** (1) Despite the repeal by this Act of section 11(13) of the Charities Act 2006 (power to make amendments or modifications of enactments in connection with changes in exempt charities), the Secretary of State[^key-1f27e530104d91cdabebf57581854e6a] may by order make such amendments or other modifications of any enactment as the Secretary of State considers appropriate in connection with—
+**15.** (1) Despite the repeal by this Act of section 11(13) of the Charities Act 2006 (power to make amendments or modifications of enactments in connection with changes in exempt charities), the Secretary of State[^c-1f27e530104d91cdabebf57581854e6a] may by order make such amendments or other modifications of any enactment as the Secretary of State considers appropriate in connection with—
 
 - (a) charities of a particular description becoming, or ceasing to be, exempt charities, or
 - (b) a particular charity becoming, or ceasing to be, an exempt charity,
@@ -127,7 +127,7 @@ is not to be treated as preventing any amendment or modification being made of a
 
 #### Application cy-prs: donors unknown or disclaiming or treated as disclaiming
 
-**17.** Section 67 applies[^key-696eadb63e79358ba5007382b8676160] to property given for charitable purposes whether before or on or after the commencement of this Act.
+**17.** Section 67 applies[^c-696eadb63e79358ba5007382b8676160] to property given for charitable purposes whether before or on or after the commencement of this Act.
 
 #### Official custodian as successor to official trustee of charity lands and official trustees of charity funds
 
@@ -158,6 +158,6 @@ is not to be treated as preventing any amendment or modification being made of a
 
 ## Annotations
 
-[^key-1f27e530104d91cdabebf57581854e6a]: Textual amendment: Words in [Sch. 8 para. 15(1)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8/paragraph/15/1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(pp)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/pp) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-1f27e530104d91cdabebf57581854e6a]: Textual amendment: Words in [Sch. 8 para. 15(1)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8/paragraph/15/1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(pp)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/pp) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-696eadb63e79358ba5007382b8676160]: Textual amendment: Words in [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8/paragraph/17) substituted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/14); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 11(e)](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/11/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/1109/regulation/5))
+[^c-696eadb63e79358ba5007382b8676160]: Textual amendment: Words in [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8/paragraph/17) substituted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/14); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 11(e)](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/11/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/1109/regulation/5))

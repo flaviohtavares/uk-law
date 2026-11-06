@@ -26,15 +26,15 @@ summary: ''
 
 where—
 
-- FI is R's annual fee income for the tax year in question in any office in relation to which benefits are calculated under the post-1995 provisions[^key-581a5fdefb44fffcec9b47a68ce48df2] which is subject to income tax, or if lower, the permitted maximum for that tax year, and
+- FI is R's annual fee income for the tax year in question in any office in relation to which benefits are calculated under the post-1995 provisions[^c-581a5fdefb44fffcec9b47a68ce48df2] which is subject to income tax, or if lower, the permitted maximum for that tax year, and
 - C is the sum of any contributions made by R to any other judicial pension scheme in that tax year, excluding any contributions made by the member in accordance with regulation 3 of the Judicial Pensions (Contributions) Regulations 2012 [^c23060851].
 
-(2) For the purposes of paragraph (1)(a), R's “annual fee income” is the total of the fees paid to R in respect of qualifying fee-paid days in the offices referred to in that paragraph[^key-043a0d80a1bc7c3fdeef3963fd7b19ac] in the tax year concerned.
+(2) For the purposes of paragraph (1)(a), R's “annual fee income” is the total of the fees paid to R in respect of qualifying fee-paid days in the offices referred to in that paragraph[^c-043a0d80a1bc7c3fdeef3963fd7b19ac] in the tax year concerned.
 
 ## Annotations
 
-[^key-581a5fdefb44fffcec9b47a68ce48df2]: Textual amendment: Words in [reg. 108(1)(a)](https://www.legislation.gov.uk/uksi/2017/522/regulation/108/1/a) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [50(a)](https://www.legislation.gov.uk/uksi/2023/403/regulation/50/a)
+[^c-581a5fdefb44fffcec9b47a68ce48df2]: Textual amendment: Words in [reg. 108(1)(a)](https://www.legislation.gov.uk/uksi/2017/522/regulation/108/1/a) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [50(a)](https://www.legislation.gov.uk/uksi/2023/403/regulation/50/a)
 
 [^c23060851]: Textual amendment: [S.I. 2012/516](https://www.legislation.gov.uk/uksi/2012/516). Regulation 3 was substituted by [S.I. 2016/30](https://www.legislation.gov.uk/uksi/2016/30).
 
-[^key-043a0d80a1bc7c3fdeef3963fd7b19ac]: Textual amendment: Words in [reg. 108(2)](https://www.legislation.gov.uk/uksi/2017/522/regulation/108/2) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [50(b)](https://www.legislation.gov.uk/uksi/2023/403/regulation/50/b)
+[^c-043a0d80a1bc7c3fdeef3963fd7b19ac]: Textual amendment: Words in [reg. 108(2)](https://www.legislation.gov.uk/uksi/2017/522/regulation/108/2) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [50(b)](https://www.legislation.gov.uk/uksi/2023/403/regulation/50/b)

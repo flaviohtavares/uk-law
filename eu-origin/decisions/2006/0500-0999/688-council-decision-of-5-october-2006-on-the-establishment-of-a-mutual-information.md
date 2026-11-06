@@ -35,42 +35,42 @@ on the establishment of a mutual information mechanism concerning Member States'
 
 (2006/688/EC) (revoked)
 
-[^key-0205959206c6891330ef7cc2e9d125df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0205959206c6891330ef7cc2e9d125df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter and scope[^key-0205959206c6891330ef7cc2e9d125df]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Information to be submitted[^key-0205959206c6891330ef7cc2e9d125df]
+## Article 1. Subject matter and scope[^c-0205959206c6891330ef7cc2e9d125df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. The network[^key-0205959206c6891330ef7cc2e9d125df]
+## Article 2. Information to be submitted[^c-0205959206c6891330ef7cc2e9d125df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Exchanges of views, the general report and discussions at ministerial level[^key-0205959206c6891330ef7cc2e9d125df]
+## Article 3. The network[^c-0205959206c6891330ef7cc2e9d125df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Evaluation and Review[^key-0205959206c6891330ef7cc2e9d125df]
+## Article 4. Exchanges of views, the general report and discussions at ministerial level[^c-0205959206c6891330ef7cc2e9d125df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Entry into force[^key-0205959206c6891330ef7cc2e9d125df]
+## Article 5. Evaluation and Review[^c-0205959206c6891330ef7cc2e9d125df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Addressees[^key-0205959206c6891330ef7cc2e9d125df]
+## Article 6. Entry into force[^c-0205959206c6891330ef7cc2e9d125df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0205959206c6891330ef7cc2e9d125df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 7. Addressees[^c-0205959206c6891330ef7cc2e9d125df]
 
-## ANNEX[^key-0205959206c6891330ef7cc2e9d125df]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-0205959206c6891330ef7cc2e9d125df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-0205959206c6891330ef7cc2e9d125df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0205959206c6891330ef7cc2e9d125df]: Textual amendment: Decision revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0205959206c6891330ef7cc2e9d125df]: Textual amendment: Decision revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

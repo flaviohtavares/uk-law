@@ -41,7 +41,7 @@ Coming into force
 
 The National Assembly for Wales makes the following Regulations, in exercise of the powers conferred by sections 20(4) and (5) and 20ZA(3) to (6) of the Landlord and Tenant Act 1985[^f00001], which are now vested in the National Assembly for Wales so far as exercisable in relation to Wales[^f00002].
 
-## 1. Name, commencement and application[^key-14149d136050ce6fca2fae1931d24e3c]
+## 1. Name, commencement and application[^c-14149d136050ce6fca2fae1931d24e3c]
 
 (1) These Regulations are called the Service Charges (Consultation Requirements) (Wales) Regulations 2004 and shall come into force on 31st March 2004.
 
@@ -52,15 +52,15 @@ The National Assembly for Wales makes the following Regulations, in exercise of 
 - (a) intends to enter into a qualifying long term agreement to which section 20 of the Landlord and Tenant Act 1985 applies[^f00003] on or after the date on which these Regulations come into force; or
 - (b) intends to carry out qualifying works to which that section[^f00004] applies on or after that date.
 
-## 2. Interpretation[^key-a616b5f7bf3404c79caed46075246cc7]
+## 2. Interpretation[^c-a616b5f7bf3404c79caed46075246cc7]
 
 (1) In these Regulations—
 
 - “the 1985 Act” (“*Deddf 1985*”) means the Landlord and Tenant Act 1985[^f00005];
-- “close relative” (“*perthynas agos*”), in relation to a person, means a spouse , civil partner[^key-62b0eb3d4bbde4504dc71853954dba9b] or cohabitee (“[^key-edc69333df1e506c8004a99e5971fddd]ystyr “un sy’n cyd-fyw” (“cohabitee”) mewn perthynas â pherson, yw person sy’n byw gyda’r person hwnnw fel pe baent yn gwpl priod;[^key-fa1c33d14a90f5cd0c812aef7466ecdc]”) in relation to a person, means a person living with that person as if they were a married couple;, a parent, parent-in-law, son, son-in-law, daughter, daughter-in-law, brother, brother-in-law, sister, sister-in-law, step-parent, step-son or step-daughter of that person ;
-- cohabitee (“*un sy’n cyd-fyw*”) in relation to a person, means a person living with that person as if they were a married couple or civil partners[^key-6b4571ef58a985381b4c9d80128c8108];
+- “close relative” (“*perthynas agos*”), in relation to a person, means a spouse , civil partner[^c-62b0eb3d4bbde4504dc71853954dba9b] or cohabitee (“[^c-edc69333df1e506c8004a99e5971fddd]ystyr “un sy’n cyd-fyw” (“cohabitee”) mewn perthynas â pherson, yw person sy’n byw gyda’r person hwnnw fel pe baent yn gwpl priod;[^c-fa1c33d14a90f5cd0c812aef7466ecdc]”) in relation to a person, means a person living with that person as if they were a married couple;, a parent, parent-in-law, son, son-in-law, daughter, daughter-in-law, brother, brother-in-law, sister, sister-in-law, step-parent, step-son or step-daughter of that person ;
+- cohabitee (“*un sy’n cyd-fyw*”) in relation to a person, means a person living with that person as if they were a married couple or civil partners[^c-6b4571ef58a985381b4c9d80128c8108];
 - “nominated person” (“*person a enwebwyd*”) means a person whose name is proposed in response to an invitation made as mentioned in paragraph 1(3) of Schedule 1 or paragraph 1(3) of Part 2 of Schedule 4; and “nomination” (“*enwebiad*”) means any such proposal;
-- “[^key-0b4591ec41d41cfe3b38262706f82cac]**public notice**” (“**hysbysiad cyhoeddus**”) means any notice published, pursuant to the Procurement Act 2023 which relates to a public contract (within the meaning of section 3 of that Act)[^key-7e1b70ecaad23e8a8d3ca2b5553ca2a8].
+- “[^c-0b4591ec41d41cfe3b38262706f82cac]**public notice**” (“**hysbysiad cyhoeddus**”) means any notice published, pursuant to the Procurement Act 2023 which relates to a public contract (within the meaning of section 3 of that Act)[^c-7e1b70ecaad23e8a8d3ca2b5553ca2a8].
 - “relevant matters” (“*materion perthnasol*”), in relation to a proposed agreement, means the goods or services to be provided or the works to be carried out (as the case may be) under the agreement;
 - “relevant period” (“*cyfnod perthnasol*”), in relation to a notice, means the period of 30 days beginning with the date of the notice;
 - “RTB tenancy” (“*tenantiaeth RTB*”) means the tenancy of an RTB tenant;
@@ -73,7 +73,7 @@ The National Assembly for Wales makes the following Regulations, in exercise of 
 - (a) value added tax shall be included where applicable; and
 - (b) where the estimate relates to a proposed agreement, it shall be assumed that the agreement will terminate only by effluxion of time.
 
-## 3. Agreements that are not qualifying long term agreements[^key-b9606745352a6576e72f97742214fbd7]
+## 3. Agreements that are not qualifying long term agreements[^c-b9606745352a6576e72f97742214fbd7]
 
 (1) An agreement is not a qualifying long term agreement[^f00013]—
 
@@ -103,7 +103,7 @@ is not a qualifying long term agreement, notwithstanding that more than twelve m
 - “management agreement” has the meaning given by section 27(2) of the Housing Act 1985[^f00017]; and
 - “tenant management organisation” has the meaning given by section 27AB(8) of the Housing Act 1985[^f00018].
 
-## 4. Application of section 20 to qualifying long term agreements[^key-c494ae20ca94b13706bb42e52781c8c8]
+## 4. Application of section 20 to qualifying long term agreements[^c-c494ae20ca94b13706bb42e52781c8c8]
 
 (1) Section 20 shall apply to a qualifying long term agreement if relevant costs[^f00019] incurred under the agreement in any accounting period exceed an amount which results in the relevant contribution of any tenant, in respect of that period, being more than £100.
 
@@ -112,12 +112,12 @@ is not a qualifying long term agreement, notwithstanding that more than twelve m
 - (a) beginning with the relevant date, and
 - (b) ending with the date that falls twelve months after the relevant date.
 
-(3) Subject to paragraph (3A), in[^key-947847bd876a9c1d2c186b3f334e3c6e] the case of the first accounting period, the relevant date is—
+(3) Subject to paragraph (3A), in[^c-947847bd876a9c1d2c186b3f334e3c6e] the case of the first accounting period, the relevant date is—
 
 - (a) if the relevant accounts are made up for periods of twelve months, the date on which the period that includes the date on which these Regulations come into force ends, or
 - (b) if the accounts are not so made up, the date on which these Regulations come into force.
 
-(3A)[^key-0ed743aacc963ad674bf8fdafbeda21b] Where a landlord —
+(3A)[^c-0ed743aacc963ad674bf8fdafbeda21b] Where a landlord —
 
 - (a) intends to enter into a qualifying long term agreement on or after 31 May 2005; and
 - (b) has not at any time between 31 October 2003 and 31 May 2005 made up accounts relating to service charges referable to a qualifying long term agreement and payable in respect of the dwellings to which the intended agreement is to relate,
@@ -126,7 +126,7 @@ the relevant date is the date on which begins the first period for which service
 
 (4) In the case of subsequent accounting periods, the relevant date is the date immediately following the end of the previous accounting period.
 
-## 5. The consultation requirements: qualifying long term agreements[^key-a3904a2586bbb440d3fa2fa2bd3fc790]
+## 5. The consultation requirements: qualifying long term agreements[^c-a3904a2586bbb440d3fa2fa2bd3fc790]
 
 (1) Subject to paragraphs (2) and (3), in relation to qualifying long term agreements to which section 20 applies, the consultation requirements for the purposes of that section and section 20ZA are the requirements specified in Schedule 1.
 
@@ -134,11 +134,11 @@ the relevant date is the date on which begins the first period for which service
 
 (3) In relation to a RTB tenant and a particular qualifying long term agreement, nothing in paragraph (1) or (2) requires a landlord to comply with any of the consultation requirements applicable to that agreement that arise before the thirty-first day of the RTB tenancy.
 
-## 6. Application of section 20 to qualifying works[^key-6dc9a92d9859803eb449b31cb661a6d3]
+## 6. Application of section 20 to qualifying works[^c-6dc9a92d9859803eb449b31cb661a6d3]
 
 For the purposes of subsection (3) of section 20 the appropriate amount is an amount which results in the relevant contribution of any tenant being more than £250.
 
-## 7. The consultation requirements: qualifying works[^key-e34983d5b5de4cfaa158c16228202416]
+## 7. The consultation requirements: qualifying works[^c-e34983d5b5de4cfaa158c16228202416]
 
 (1) Subject to paragraph (5), where qualifying works are the subject (whether alone or with other matters) of a qualifying long term agreement to which section 20 applies, the consultation requirements for the purposes of that section and section 20ZA, as regards those works, are the requirements specified in Schedule 3.
 
@@ -170,7 +170,7 @@ Regulation 5(1)
 
 ### Notice of intention
 
-**1.**[^key-98c1c5e073385870337555f0dbcb2fb0] (1) The landlord shall give notice in writing of intention to enter into the agreement—
+**1.**[^c-98c1c5e073385870337555f0dbcb2fb0] (1) The landlord shall give notice in writing of intention to enter into the agreement—
 
 - (a) to each tenant; and
 - (b) where a recognised tenants' association[^f00021] represents some or all of the tenants, to the association.
@@ -190,7 +190,7 @@ Regulation 5(1)
 
 ### Inspection of description of relevant matters
 
-**2.**[^key-81c89571d08bbecb577339a84d12bc02] (1) Where a notice under paragraph 1 specifies a place and hours for inspection—
+**2.**[^c-81c89571d08bbecb577339a84d12bc02] (1) Where a notice under paragraph 1 specifies a place and hours for inspection—
 
 - (a) the place and hours so specified must be reasonable; and
 - (b) a description of the relevant matters must be available for inspection, free of charge, at that place and during those hours.
@@ -199,11 +199,11 @@ Regulation 5(1)
 
 ### Duty to have regard to observations in relation to proposed agreement
 
-**3.**[^key-1c927e5ad162653bc76e88d9c07cd73e] Where, within the relevant period, observations are made in relation to the proposed agreement by any tenant or recognised tenants' association, the landlord shall have regard to those observations.
+**3.**[^c-1c927e5ad162653bc76e88d9c07cd73e] Where, within the relevant period, observations are made in relation to the proposed agreement by any tenant or recognised tenants' association, the landlord shall have regard to those observations.
 
 ### Estimates
 
-**4.**[^key-62820b31c3c80e6c6456aed77b3b39f3] (1) Where, within the relevant period, a single nomination is made by a recognised tenants' association (whether or not a nomination is made by any tenant), the landlord shall try to obtain an estimate from the nominated person.
+**4.**[^c-62820b31c3c80e6c6456aed77b3b39f3] (1) Where, within the relevant period, a single nomination is made by a recognised tenants' association (whether or not a nomination is made by any tenant), the landlord shall try to obtain an estimate from the nominated person.
 
 (2) Where, within the relevant period, a single nomination is made by only one of the tenants (whether or not a nomination is made by a recognised tenants' association), the landlord shall try to obtain an estimate from the nominated person.
 
@@ -220,7 +220,7 @@ Regulation 5(1)
 
 ### Preparation of landlord’s proposals
 
-**5.**[^key-cc076275263638e873a1b45134744d9d] (1) The landlord shall prepare, in accordance with the following provisions of this paragraph, at least two proposals in respect of the relevant matters.
+**5.**[^c-cc076275263638e873a1b45134744d9d] (1) The landlord shall prepare, in accordance with the following provisions of this paragraph, at least two proposals in respect of the relevant matters.
 
 (2) At least one of the proposals must propose that goods or services are provided, or works are carried out (as the case may be), by a person wholly unconnected with the landlord.
 
@@ -272,7 +272,7 @@ each proposal shall contain a statement of that cost or rate.
 
 ### Notification of landlord’s proposals
 
-**6.**[^key-ccb99039893a52d8f4a349fe6601edc9] (1) The landlord shall give notice in writing of proposals prepared under paragraph 5—
+**6.**[^c-ccb99039893a52d8f4a349fe6601edc9] (1) The landlord shall give notice in writing of proposals prepared under paragraph 5—
 
 - (a) to each tenant; and
 - (b) where a recognised tenants' association represents some or all of the tenants, to the association.
@@ -290,11 +290,11 @@ each proposal shall contain a statement of that cost or rate.
 
 ### Duty to have regard to observations in relation to proposals
 
-**7.**[^key-44cbe0593d609dfcf830df29bbc01355] Where, within the relevant period, observations are made in relation to the landlord’s proposals by any tenant or recognised tenants' association, the landlord shall have regard to those observations.
+**7.**[^c-44cbe0593d609dfcf830df29bbc01355] Where, within the relevant period, observations are made in relation to the landlord’s proposals by any tenant or recognised tenants' association, the landlord shall have regard to those observations.
 
 ### Duty on entering into agreement
 
-**8.**[^key-1642f967b6592de04b601b8bfd4be6ed] (1) Subject to sub-paragraph (2), where the landlord enters into an agreement relating to relevant matters, the landlord shall, within 21 days of entering into the agreement, by notice in writing to each tenant and the recognised tenants' association (if any)—
+**8.**[^c-1642f967b6592de04b601b8bfd4be6ed] (1) Subject to sub-paragraph (2), where the landlord enters into an agreement relating to relevant matters, the landlord shall, within 21 days of entering into the agreement, by notice in writing to each tenant and the recognised tenants' association (if any)—
 
 - (a) state the reasons for making that agreement or specify the place and hours at which a statement of those reasons may be inspected; and
 - (b) where observations are made to which (in accordance with paragraph 7) the landlord is required to have regard, summarise the observations and respond to them or specify the place and hours at which that summary and response may be inspected.
@@ -309,7 +309,7 @@ Regulation 5(2)
 
 ### Notice of intention
 
-**1.**[^key-2973d7776736226724e0064133861c2f] (1) The landlord shall give notice in writing of intention to enter into the agreement—
+**1.**[^c-2973d7776736226724e0064133861c2f] (1) The landlord shall give notice in writing of intention to enter into the agreement—
 
 - (a) to each tenant; and
 - (b) where a recognised tenants' association represents some or all of the tenants, to the association.
@@ -328,7 +328,7 @@ Regulation 5(2)
 
 ### Inspection of description of relevant matters
 
-**2.**[^key-9fad1b890c4c6055b21f67a4698265f7] (1) Where a notice under paragraph 1 specifies a place and hours for inspection—
+**2.**[^c-9fad1b890c4c6055b21f67a4698265f7] (1) Where a notice under paragraph 1 specifies a place and hours for inspection—
 
 - (a) the place and hours so specified must be reasonable; and
 - (b) a description of the relevant matters must be available for inspection, free of charge, at that place and during those hours.
@@ -337,11 +337,11 @@ Regulation 5(2)
 
 ### Duty to have regard to observations in relation to relevant matters
 
-**3.**[^key-139b191713df753d2bce8a2aa8b137e5] Where, within the relevant period, observations are made in relation to the relevant matters by any tenant or recognised tenants' association, the landlord shall have regard to those observations.
+**3.**[^c-139b191713df753d2bce8a2aa8b137e5] Where, within the relevant period, observations are made in relation to the relevant matters by any tenant or recognised tenants' association, the landlord shall have regard to those observations.
 
 ### Preparation of landlord’s proposal
 
-**4.**[^key-706ba75fc7247c357a49b5dfc48fb26b] (1) The landlord shall prepare, in accordance with the following provisions of this paragraph, a proposal in respect of the proposed agreement.
+**4.**[^c-706ba75fc7247c357a49b5dfc48fb26b] (1) The landlord shall prepare, in accordance with the following provisions of this paragraph, a proposal in respect of the proposed agreement.
 
 (2) The proposal shall contain a statement—
 
@@ -387,7 +387,7 @@ the proposal shall contain a statement of that cost or rate.
 
 ### Notification of landlord’s proposal
 
-**5.**[^key-e5d2724a46f208aeac2edc7fa24ae691] (1) The landlord shall give notice in writing of the proposal prepared under paragraph 4—
+**5.**[^c-e5d2724a46f208aeac2edc7fa24ae691] (1) The landlord shall give notice in writing of the proposal prepared under paragraph 4—
 
 - (a) to each tenant; and
 - (b) where a recognised tenants' association represents some or all of the tenants, to the association.
@@ -405,15 +405,15 @@ the proposal shall contain a statement of that cost or rate.
 
 ### Duty to have regard to observations in relation to proposal
 
-**6.**[^key-f9db68ed498f8300b6698450c0a15ac7] Where, within the relevant period, observations are made in relation to the landlord’s proposal by any tenant or recognised tenants' association, the landlord shall have regard to those observations.
+**6.**[^c-f9db68ed498f8300b6698450c0a15ac7] Where, within the relevant period, observations are made in relation to the landlord’s proposal by any tenant or recognised tenants' association, the landlord shall have regard to those observations.
 
 ### Landlord’s response to observations
 
-**7.**[^key-8ff37156bd4a83da71916bf923c8805c] Where observations are made to which (in accordance with paragraph 6) the landlord is required to have regard, the landlord shall, within 21 days of their receipt, by notice in writing to the person by whom the observations were made, state the landlord’s response to the observations.
+**7.**[^c-8ff37156bd4a83da71916bf923c8805c] Where observations are made to which (in accordance with paragraph 6) the landlord is required to have regard, the landlord shall, within 21 days of their receipt, by notice in writing to the person by whom the observations were made, state the landlord’s response to the observations.
 
 ### Supplementary information
 
-**8.**[^key-e275206b5ed033504a4580e64c960d74] Where a proposal prepared under paragraph 4 contains such a statement as is mentioned in sub-paragraph (7) of that paragraph, the landlord shall, within 21 days of receiving sufficient information to enable the landlord to estimate the amount, cost or rate referred to in sub-paragraph (4), (5) or (6) of that paragraph, give notice in writing of the estimated amount, cost or rate (as the case may be)—
+**8.**[^c-e275206b5ed033504a4580e64c960d74] Where a proposal prepared under paragraph 4 contains such a statement as is mentioned in sub-paragraph (7) of that paragraph, the landlord shall, within 21 days of receiving sufficient information to enable the landlord to estimate the amount, cost or rate referred to in sub-paragraph (4), (5) or (6) of that paragraph, give notice in writing of the estimated amount, cost or rate (as the case may be)—
 
 - (a) to each tenant; and
 - (b) where a recognised tenants' association represents some or all of the tenants, to the association.
@@ -424,7 +424,7 @@ Regulation 7(1) and (2)
 
 ### Notice of intention
 
-**1.**[^key-db69c2d33df128f0513bedf02954d930] (1) The landlord shall give notice in writing of intention to carry out qualifying works—
+**1.**[^c-db69c2d33df128f0513bedf02954d930] (1) The landlord shall give notice in writing of intention to carry out qualifying works—
 
 - (a) to each tenant; and
 - (b) where a recognised tenants' association represents some or all of the tenants, to the association.
@@ -442,7 +442,7 @@ Regulation 7(1) and (2)
 
 ### Inspection of description of proposed works
 
-**2.**[^key-a3027df540b633a4d4cbf44251a346df] (1) Where a notice under paragraph 1 specifies a place and hours for inspection—
+**2.**[^c-a3027df540b633a4d4cbf44251a346df] (1) Where a notice under paragraph 1 specifies a place and hours for inspection—
 
 - (a) the place and hours so specified must be reasonable; and
 - (b) a description of the proposed works must be available for inspection, free of charge, at that place and during those hours.
@@ -451,11 +451,11 @@ Regulation 7(1) and (2)
 
 ### Duty to have regard to observations in relation to proposed works and estimated expenditure
 
-**3.**[^key-98af62f787fc338a9f8d0c86ff60ef85] Where, within the relevant period, observations are made in relation to the proposed works or the landlord’s estimated expenditure by any tenant or the recognised tenants' association, the landlord shall have regard to those observations.
+**3.**[^c-98af62f787fc338a9f8d0c86ff60ef85] Where, within the relevant period, observations are made in relation to the proposed works or the landlord’s estimated expenditure by any tenant or the recognised tenants' association, the landlord shall have regard to those observations.
 
 ### Landlord’s response to observations
 
-**4.**[^key-e9c9331c937ec6b662ac64caaf90e5f3] Where observations are made to which (in accordance with paragraph 3) the landlord is required to have regard, the landlord shall, within 21 days of their receipt, by notice in writing to the person by whom the observations were made, state the landlord’s response to the observations.
+**4.**[^c-e9c9331c937ec6b662ac64caaf90e5f3] Where observations are made to which (in accordance with paragraph 3) the landlord is required to have regard, the landlord shall, within 21 days of their receipt, by notice in writing to the person by whom the observations were made, state the landlord’s response to the observations.
 
 ## SCHEDULE 4 — CONSULTATION REQUIREMENTS FOR QUALIFYING WORKS OTHER THAN WORKS UNDER QUALIFYING LONG TERM AGREEMENT OR AGREEMENTS TO WHICH REGULATION 7(3) APPLIES
 
@@ -465,7 +465,7 @@ Regulation 7(4)
 
 #### Notice of intention
 
-**1.**[^key-cb66fe6e1198815d78875455238eaf36] (1) The landlord shall give notice in writing of intention to carry out qualifying works—
+**1.**[^c-cb66fe6e1198815d78875455238eaf36] (1) The landlord shall give notice in writing of intention to carry out qualifying works—
 
 - (a) to each tenant; and
 - (b) where a recognised tenants' association represents some or all of the tenants, to the association.
@@ -483,7 +483,7 @@ Regulation 7(4)
 
 #### Inspection of description of proposed works
 
-**2.**[^key-0d6175301aa5f1d2cd3441ee885a6c0d] (1) Where a notice under paragraph 1 specifies a place and hours for inspection—
+**2.**[^c-0d6175301aa5f1d2cd3441ee885a6c0d] (1) Where a notice under paragraph 1 specifies a place and hours for inspection—
 
 - (a) the place and hours so specified must be reasonable; and
 - (b) a description of the proposed works must be available for inspection, free of charge, at that place and during those hours.
@@ -492,11 +492,11 @@ Regulation 7(4)
 
 #### Duty to have regard to observations in relation to proposed works
 
-**3.**[^key-e2db2224a1a3862c46c2ec4c737331f4] Where, within the relevant period, observations are made in relation to the proposed works by any tenant or the recognised tenants' association, the landlord shall have regard to those observations.
+**3.**[^c-e2db2224a1a3862c46c2ec4c737331f4] Where, within the relevant period, observations are made in relation to the proposed works by any tenant or the recognised tenants' association, the landlord shall have regard to those observations.
 
 #### Preparation of landlord’s contract statement
 
-**4.**[^key-037038bfb5040b93190b516ca05d4ccf] (1) The landlord shall prepare, in accordance with the following provisions of this paragraph, a statement in respect of the proposed contract under which the proposed works are to be carried out.
+**4.**[^c-037038bfb5040b93190b516ca05d4ccf] (1) The landlord shall prepare, in accordance with the following provisions of this paragraph, a statement in respect of the proposed contract under which the proposed works are to be carried out.
 
 (2) The statement shall set out—
 
@@ -533,7 +533,7 @@ that cost or rate shall be specified in the statement.
 
 #### Notification of proposed contract
 
-**5.**[^key-706b527f600f9dd5593f6d97b0e38c2b] (1) The landlord shall give notice in writing of intention to enter into the proposed contract—
+**5.**[^c-706b527f600f9dd5593f6d97b0e38c2b] (1) The landlord shall give notice in writing of intention to enter into the proposed contract—
 
 - (a) to each tenant; and
 - (b) where a recognised tenants' association represents some or all of the tenants, to the association.
@@ -551,7 +551,7 @@ that cost or rate shall be specified in the statement.
 
 #### Landlord’s response to observations
 
-**6.**[^key-879b2d18c3844ab6fa91572bfc1da03a] Where observations are made in response to the invitation in the notice under paragraph 5, the landlord shall, within 21 days of their receipt, by notice in writing to the person by whom the observations were made, state the landlord’s response to the observations.
+**6.**[^c-879b2d18c3844ab6fa91572bfc1da03a] Where observations are made in response to the invitation in the notice under paragraph 5, the landlord shall, within 21 days of their receipt, by notice in writing to the person by whom the observations were made, state the landlord’s response to the observations.
 
 #### Supplementary information
 
@@ -564,7 +564,7 @@ that cost or rate shall be specified in the statement.
 
 #### Notice of intention
 
-**1.**[^key-5dd221306fe3907d305b4c7586894f10] (1) The landlord shall give notice in writing of intention to carry out qualifying works—
+**1.**[^c-5dd221306fe3907d305b4c7586894f10] (1) The landlord shall give notice in writing of intention to carry out qualifying works—
 
 - (a) to each tenant; and
 - (b) where a recognised tenants' association represents some or all of the tenants, to the association.
@@ -583,7 +583,7 @@ that cost or rate shall be specified in the statement.
 
 #### Inspection of description of proposed works
 
-**2.**[^key-874984c8134b22ebd75991fa11a5d576] (1) Where a notice under paragraph 1 specifies a place and hours for inspection—
+**2.**[^c-874984c8134b22ebd75991fa11a5d576] (1) Where a notice under paragraph 1 specifies a place and hours for inspection—
 
 - (a) the place and hours so specified must be reasonable; and
 - (b) a description of the proposed works must be available for inspection, free of charge, at that place and during those hours.
@@ -592,11 +592,11 @@ that cost or rate shall be specified in the statement.
 
 #### Duty to have regard to observations in relation to proposed works
 
-**3.**[^key-053a493b26a1380401097ffee112c3af] Where, within the relevant period, observations are made in relation to the proposed works by any tenant or recognised tenants' association, the landlord shall have regard to those observations.
+**3.**[^c-053a493b26a1380401097ffee112c3af] Where, within the relevant period, observations are made in relation to the proposed works by any tenant or recognised tenants' association, the landlord shall have regard to those observations.
 
 #### Estimates and response to observations
 
-**4.**[^key-9d0fc807bf3d72e21b63f422a21d8f15] (1) Where, within the relevant period, a nomination is made by a recognised tenants' association (whether or not a nomination is made by any tenant), the landlord shall try to obtain an estimate from the nominated person.
+**4.**[^c-9d0fc807bf3d72e21b63f422a21d8f15] (1) Where, within the relevant period, a nomination is made by a recognised tenants' association (whether or not a nomination is made by any tenant), the landlord shall try to obtain an estimate from the nominated person.
 
 (2) Where, within the relevant period, a nomination is made by only one of the tenants (whether or not a nomination is made by a recognised tenants' association), the landlord shall try to obtain an estimate from the nominated person.
 
@@ -649,11 +649,11 @@ that cost or rate shall be specified in the statement.
 
 #### Duty to have regard to observations in relation to estimates
 
-**5.**[^key-c161e9661768084dffd4f92fcba230a5] Where, within the relevant period, observations are made in relation to the estimates by any tenant or recognised tenants' association, the landlord shall have regard to those observations.
+**5.**[^c-c161e9661768084dffd4f92fcba230a5] Where, within the relevant period, observations are made in relation to the estimates by any tenant or recognised tenants' association, the landlord shall have regard to those observations.
 
 #### Duty on entering into contract
 
-**6.**[^key-13b88feb5fcc7e874348c81bcaac2eae] (1) Subject to sub-paragraph (2), where the landlord enters into a contract for the carrying out of qualifying works, the landlord shall, within 21 days of entering into the contract, by notice in writing to each tenant and the recognised tenants' association (if any)—
+**6.**[^c-13b88feb5fcc7e874348c81bcaac2eae] (1) Subject to sub-paragraph (2), where the landlord enters into a contract for the carrying out of qualifying works, the landlord shall, within 21 days of entering into the contract, by notice in writing to each tenant and the recognised tenants' association (if any)—
 
 - (a) state reasons for awarding the contract or specify the place and hours at which a statement of those reasons may be inspected; and
 - (b) where observations are made to which (in accordance with paragraph 5) the landlord was required to have regard, summarise the observations and set out the landlord’s response to them.
@@ -708,27 +708,27 @@ A Regulatory Appraisal has been prepared in connection with these Regulations. A
 
 [^f00002]: Footnote: *See* the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-14149d136050ce6fca2fae1931d24e3c]: Commencement: Reg. 1 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-14149d136050ce6fca2fae1931d24e3c]: Commencement: Reg. 1 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
 [^f00003]: Footnote: *See* section 20ZA(2) and regulations 3 and 4 of these Regulations.
 
 [^f00004]: Footnote: *See* section 20(3) and regulation 6 of these Regulations. For the application of section 20, as originally enacted, in transitional cases, see article 3 of the Commonhold and Leasehold Reform Act 2002 (Commencement No. 2 and Savings) (Wales) Order 2004 (S.I. [2004/669 (W.62) (C.25)](https://www.legislation.gov.uk/wsi/2004/669)).
 
-[^key-a616b5f7bf3404c79caed46075246cc7]: Commencement: Reg. 2 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-a616b5f7bf3404c79caed46075246cc7]: Commencement: Reg. 2 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
 [^f00005]: Footnote: [1985 c. 70](https://www.legislation.gov.uk/ukpga/1985/70).
 
-[^key-62b0eb3d4bbde4504dc71853954dba9b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/2/1) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Consequential Amendments to Subordinate Legislation) (Wales) Order 2005 (S.I. 2005/3302)](https://www.legislation.gov.uk/wsi/2005/3302), [art. 1(2)](https://www.legislation.gov.uk/wsi/2005/3302/article/1/2), [Sch. para. 26](https://www.legislation.gov.uk/wsi/2005/3302/schedule/paragraph/26)
+[^c-62b0eb3d4bbde4504dc71853954dba9b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/2/1) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Consequential Amendments to Subordinate Legislation) (Wales) Order 2005 (S.I. 2005/3302)](https://www.legislation.gov.uk/wsi/2005/3302), [art. 1(2)](https://www.legislation.gov.uk/wsi/2005/3302/article/1/2), [Sch. para. 26](https://www.legislation.gov.uk/wsi/2005/3302/schedule/paragraph/26)
 
-[^key-edc69333df1e506c8004a99e5971fddd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2004/684/regulation/2) substituted (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 2 para. 5(1)](https://www.legislation.gov.uk/uksi/2014/107/schedule/2/paragraph/5/1)
+[^c-edc69333df1e506c8004a99e5971fddd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2004/684/regulation/2) substituted (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 2 para. 5(1)](https://www.legislation.gov.uk/uksi/2014/107/schedule/2/paragraph/5/1)
 
-[^key-fa1c33d14a90f5cd0c812aef7466ecdc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2004/684/regulation/2) substituted (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2014/107/schedule/2/paragraph/5/2)
+[^c-fa1c33d14a90f5cd0c812aef7466ecdc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2004/684/regulation/2) substituted (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2014/107/schedule/2/paragraph/5/2)
 
-[^key-6b4571ef58a985381b4c9d80128c8108]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/2/1) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 70(1)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/70/1)
+[^c-6b4571ef58a985381b4c9d80128c8108]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/2/1) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 70(1)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/70/1)
 
-[^key-0b4591ec41d41cfe3b38262706f82cac]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2004/684/regulation/2) substituted (31.1.2006) by [The Public Contracts Regulations 2006 (S.I. 2006/5)](https://www.legislation.gov.uk/uksi/2006/5), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/5/regulation/1/1), [Sch. 7 para. 5](https://www.legislation.gov.uk/uksi/2006/5/schedule/7/paragraph/5) (with [reg. 49](https://www.legislation.gov.uk/uksi/2006/5/regulation/49))
+[^c-0b4591ec41d41cfe3b38262706f82cac]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2004/684/regulation/2) substituted (31.1.2006) by [The Public Contracts Regulations 2006 (S.I. 2006/5)](https://www.legislation.gov.uk/uksi/2006/5), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/5/regulation/1/1), [Sch. 7 para. 5](https://www.legislation.gov.uk/uksi/2006/5/schedule/7/paragraph/5) (with [reg. 49](https://www.legislation.gov.uk/uksi/2006/5/regulation/49))
 
-[^key-7e1b70ecaad23e8a8d3ca2b5553ca2a8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/2/1) substituted (24.2.2025) by [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [49](https://www.legislation.gov.uk/wsi/2024/782/regulation/49) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)) ([S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-7e1b70ecaad23e8a8d3ca2b5553ca2a8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/2/1) substituted (24.2.2025) by [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [49](https://www.legislation.gov.uk/wsi/2024/782/regulation/49) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)) ([S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
 [^f00009]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
@@ -738,7 +738,7 @@ A Regulatory Appraisal has been prepared in connection with these Regulations. A
 
 [^f00012]: Footnote: *See also* section 139 and Parts 1 and 3 of Schedule 6 to the Housing Act 1985. Paragraphs 16A to 16D in Part 3 of Schedule 6 were inserted by the Housing and Planning Act [1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63), section 4(4).
 
-[^key-b9606745352a6576e72f97742214fbd7]: Commencement: Reg. 3 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-b9606745352a6576e72f97742214fbd7]: Commencement: Reg. 3 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
 [^f00013]: Footnote: *See* the definition in section 20ZA(2) of the Landlord and Tenant Act 1985, inserted by section 151 of the Commonhold and Leasehold Reform Act 2002.
 
@@ -752,84 +752,84 @@ A Regulatory Appraisal has been prepared in connection with these Regulations. A
 
 [^f00018]: Footnote: Section 27AB was inserted by the Leasehold Reform, Housing and Urban Development Act [1993 (c. 28)](https://www.legislation.gov.uk/ukpga/1993/28), section 132. *See also* regulation 1(4) of the Housing (Right to Manage) Regulations 1994 (S.I. [1994/627](https://www.legislation.gov.uk/uksi/1994/627)).
 
-[^key-c494ae20ca94b13706bb42e52781c8c8]: Commencement: Reg. 4 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-c494ae20ca94b13706bb42e52781c8c8]: Commencement: Reg. 4 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
 [^f00019]: Footnote: *See* section 18(2) of the Landlord and Tenant Act 1985.
 
-[^key-947847bd876a9c1d2c186b3f334e3c6e]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/wsi/2004/684/regulation/4/3) substituted (31.5.2005) by [The Service Charges (Consultation Requirements) (Amendment) (Wales) Regulations 2005 (S.I. 2005/1357)](https://www.legislation.gov.uk/wsi/2005/1357), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1357/regulation/1/1), [2(a)](https://www.legislation.gov.uk/wsi/2005/1357/regulation/2/a)
+[^c-947847bd876a9c1d2c186b3f334e3c6e]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/wsi/2004/684/regulation/4/3) substituted (31.5.2005) by [The Service Charges (Consultation Requirements) (Amendment) (Wales) Regulations 2005 (S.I. 2005/1357)](https://www.legislation.gov.uk/wsi/2005/1357), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1357/regulation/1/1), [2(a)](https://www.legislation.gov.uk/wsi/2005/1357/regulation/2/a)
 
-[^key-0ed743aacc963ad674bf8fdafbeda21b]: Textual amendment: [Reg. 4(3A)](https://www.legislation.gov.uk/wsi/2004/684/regulation/4/3A) inserted (31.5.2005) by [The Service Charges (Consultation Requirements) (Amendment) (Wales) Regulations 2005 (S.I. 2005/1357)](https://www.legislation.gov.uk/wsi/2005/1357), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1357/regulation/1/1), [2(b)](https://www.legislation.gov.uk/wsi/2005/1357/regulation/2/b)
+[^c-0ed743aacc963ad674bf8fdafbeda21b]: Textual amendment: [Reg. 4(3A)](https://www.legislation.gov.uk/wsi/2004/684/regulation/4/3A) inserted (31.5.2005) by [The Service Charges (Consultation Requirements) (Amendment) (Wales) Regulations 2005 (S.I. 2005/1357)](https://www.legislation.gov.uk/wsi/2005/1357), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1357/regulation/1/1), [2(b)](https://www.legislation.gov.uk/wsi/2005/1357/regulation/2/b)
 
-[^key-a3904a2586bbb440d3fa2fa2bd3fc790]: Commencement: Reg. 5 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-a3904a2586bbb440d3fa2fa2bd3fc790]: Commencement: Reg. 5 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-6dc9a92d9859803eb449b31cb661a6d3]: Commencement: Reg. 6 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-6dc9a92d9859803eb449b31cb661a6d3]: Commencement: Reg. 6 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-e34983d5b5de4cfaa158c16228202416]: Commencement: Reg. 7 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-e34983d5b5de4cfaa158c16228202416]: Commencement: Reg. 7 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
 [^f00020]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-98c1c5e073385870337555f0dbcb2fb0]: Commencement: Sch. 1 para. 1 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-98c1c5e073385870337555f0dbcb2fb0]: Commencement: Sch. 1 para. 1 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
 [^f00021]: Footnote: *See* section 29(1) of the Landlord and Tenant Act 1985, which was amended by the Landlord and Tenant Act [1987 (c. 31)](https://www.legislation.gov.uk/ukpga/1987/31), Schedule 2, paragraph 10.
 
-[^key-81c89571d08bbecb577339a84d12bc02]: Commencement: Sch. 1 para. 2 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-81c89571d08bbecb577339a84d12bc02]: Commencement: Sch. 1 para. 2 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-1c927e5ad162653bc76e88d9c07cd73e]: Commencement: Sch. 1 para. 3 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-1c927e5ad162653bc76e88d9c07cd73e]: Commencement: Sch. 1 para. 3 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-62820b31c3c80e6c6456aed77b3b39f3]: Commencement: Sch. 1 para. 4 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-62820b31c3c80e6c6456aed77b3b39f3]: Commencement: Sch. 1 para. 4 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-cc076275263638e873a1b45134744d9d]: Commencement: Sch. 1 para. 5 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-cc076275263638e873a1b45134744d9d]: Commencement: Sch. 1 para. 5 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-ccb99039893a52d8f4a349fe6601edc9]: Commencement: Sch. 1 para. 6 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-ccb99039893a52d8f4a349fe6601edc9]: Commencement: Sch. 1 para. 6 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-44cbe0593d609dfcf830df29bbc01355]: Commencement: Sch. 1 para. 7 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-44cbe0593d609dfcf830df29bbc01355]: Commencement: Sch. 1 para. 7 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-1642f967b6592de04b601b8bfd4be6ed]: Commencement: Sch. 1 para. 8 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-1642f967b6592de04b601b8bfd4be6ed]: Commencement: Sch. 1 para. 8 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-2973d7776736226724e0064133861c2f]: Commencement: Sch. 2 para. 1 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-2973d7776736226724e0064133861c2f]: Commencement: Sch. 2 para. 1 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-9fad1b890c4c6055b21f67a4698265f7]: Commencement: Sch. 2 para. 2 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-9fad1b890c4c6055b21f67a4698265f7]: Commencement: Sch. 2 para. 2 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-139b191713df753d2bce8a2aa8b137e5]: Commencement: Sch. 2 para. 3 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-139b191713df753d2bce8a2aa8b137e5]: Commencement: Sch. 2 para. 3 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-706ba75fc7247c357a49b5dfc48fb26b]: Commencement: Sch. 2 para. 4 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-706ba75fc7247c357a49b5dfc48fb26b]: Commencement: Sch. 2 para. 4 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-e5d2724a46f208aeac2edc7fa24ae691]: Commencement: Sch. 2 para. 5 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-e5d2724a46f208aeac2edc7fa24ae691]: Commencement: Sch. 2 para. 5 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-f9db68ed498f8300b6698450c0a15ac7]: Commencement: Sch. 2 para. 6 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-f9db68ed498f8300b6698450c0a15ac7]: Commencement: Sch. 2 para. 6 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-8ff37156bd4a83da71916bf923c8805c]: Commencement: Sch. 2 para. 7 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-8ff37156bd4a83da71916bf923c8805c]: Commencement: Sch. 2 para. 7 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-e275206b5ed033504a4580e64c960d74]: Commencement: Sch. 2 para. 8 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-e275206b5ed033504a4580e64c960d74]: Commencement: Sch. 2 para. 8 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-db69c2d33df128f0513bedf02954d930]: Commencement: Sch. 3 para. 1 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-db69c2d33df128f0513bedf02954d930]: Commencement: Sch. 3 para. 1 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-a3027df540b633a4d4cbf44251a346df]: Commencement: Sch. 3 para. 2 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-a3027df540b633a4d4cbf44251a346df]: Commencement: Sch. 3 para. 2 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-98af62f787fc338a9f8d0c86ff60ef85]: Commencement: Sch. 3 para. 3 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-98af62f787fc338a9f8d0c86ff60ef85]: Commencement: Sch. 3 para. 3 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-e9c9331c937ec6b662ac64caaf90e5f3]: Commencement: Sch. 3 para. 4 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-e9c9331c937ec6b662ac64caaf90e5f3]: Commencement: Sch. 3 para. 4 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-cb66fe6e1198815d78875455238eaf36]: Commencement: Sch. 4 Pt. 1 para. 1 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-cb66fe6e1198815d78875455238eaf36]: Commencement: Sch. 4 Pt. 1 para. 1 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-0d6175301aa5f1d2cd3441ee885a6c0d]: Commencement: Sch. 4 Pt. 1 para. 2 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-0d6175301aa5f1d2cd3441ee885a6c0d]: Commencement: Sch. 4 Pt. 1 para. 2 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-e2db2224a1a3862c46c2ec4c737331f4]: Commencement: Sch. 4 Pt. 1 para. 3 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-e2db2224a1a3862c46c2ec4c737331f4]: Commencement: Sch. 4 Pt. 1 para. 3 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-037038bfb5040b93190b516ca05d4ccf]: Commencement: Sch. 4 Pt. 1 para. 4 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-037038bfb5040b93190b516ca05d4ccf]: Commencement: Sch. 4 Pt. 1 para. 4 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-706b527f600f9dd5593f6d97b0e38c2b]: Commencement: Sch. 4 Pt. 1 para. 5 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-706b527f600f9dd5593f6d97b0e38c2b]: Commencement: Sch. 4 Pt. 1 para. 5 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-879b2d18c3844ab6fa91572bfc1da03a]: Commencement: Sch. 4 Pt. 1 para. 6 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-879b2d18c3844ab6fa91572bfc1da03a]: Commencement: Sch. 4 Pt. 1 para. 6 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-5dd221306fe3907d305b4c7586894f10]: Commencement: Sch. 4 Pt. 2 para. 1 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-5dd221306fe3907d305b4c7586894f10]: Commencement: Sch. 4 Pt. 2 para. 1 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-874984c8134b22ebd75991fa11a5d576]: Commencement: Sch. 4 Pt. 2 para. 2 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-874984c8134b22ebd75991fa11a5d576]: Commencement: Sch. 4 Pt. 2 para. 2 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-053a493b26a1380401097ffee112c3af]: Commencement: Sch. 4 Pt. 2 para. 3 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-053a493b26a1380401097ffee112c3af]: Commencement: Sch. 4 Pt. 2 para. 3 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-9d0fc807bf3d72e21b63f422a21d8f15]: Commencement: Sch. 4 Pt. 2 para. 4 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-9d0fc807bf3d72e21b63f422a21d8f15]: Commencement: Sch. 4 Pt. 2 para. 4 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-c161e9661768084dffd4f92fcba230a5]: Commencement: Sch. 4 Pt. 2 para. 5 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-c161e9661768084dffd4f92fcba230a5]: Commencement: Sch. 4 Pt. 2 para. 5 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
 
-[^key-13b88feb5fcc7e874348c81bcaac2eae]: Commencement: Sch. 4 Pt. 2 para. 6 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)
+[^c-13b88feb5fcc7e874348c81bcaac2eae]: Commencement: Sch. 4 Pt. 2 para. 6 in force at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/684/regulation/1/1)

@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 2
 
-**1.**[^key-7779fd8da8f826d34b74447eeaf5798f] (1) The Measuring Instruments (EEC Requirements) Regulations 1988, insofar as they continue in force by virtue of paragraph 5 of the Schedule to the Weights and Measures (Revocations) Regulations 2015 [^c24301651], are amended as follows.
+**1.**[^c-7779fd8da8f826d34b74447eeaf5798f] (1) The Measuring Instruments (EEC Requirements) Regulations 1988, insofar as they continue in force by virtue of paragraph 5 of the Schedule to the Weights and Measures (Revocations) Regulations 2015 [^c24301651], are amended as follows.
 
 (2) In Schedule 5 (adaptations for Northern Ireland)—
 
@@ -51,6 +51,6 @@ Regulation 2
 
 ## Annotations
 
-[^key-7779fd8da8f826d34b74447eeaf5798f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/1/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-7779fd8da8f826d34b74447eeaf5798f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/1/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
 [^c24301651]: Marginal citation: [S.I. 2015/356](https://www.legislation.gov.uk/uksi/2015/356).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Disposal of land in exchange for nomination rights[^key-5a53b30517a8993d06f2be9d6c209d23]
+## 109. Disposal of land in exchange for nomination rights[^c-5a53b30517a8993d06f2be9d6c209d23]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a53b30517a8993d06f2be9d6c209d23]: Commencement: Reg. 109 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-5a53b30517a8993d06f2be9d6c209d23]: Commencement: Reg. 109 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

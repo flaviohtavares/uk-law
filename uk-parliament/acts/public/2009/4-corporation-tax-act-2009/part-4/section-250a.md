@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250A. Replacement domestic items relief[^key-2b2af418e1fbd9ff5d189793e5d0cc3c]
+## 250A. Replacement domestic items relief[^c-2b2af418e1fbd9ff5d189793e5d0cc3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 (6) In calculating the profits of the business, a deduction for the expenditure is allowed.
 
-(7)[^key-e0af5ecd2d3ef6d48f22cdb9aa362602] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-e0af5ecd2d3ef6d48f22cdb9aa362602] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) The basic amount of the deduction is as follows—
 
@@ -73,6 +73,6 @@ Subsections (9) to (12) make further provision about the calculation of the dedu
 
 ## Annotations
 
-[^key-2b2af418e1fbd9ff5d189793e5d0cc3c]: Textual amendment: S. 250A and cross-heading inserted (with effect in accordance with s. 73(8)(9) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 73(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/73/2)
+[^c-2b2af418e1fbd9ff5d189793e5d0cc3c]: Textual amendment: S. 250A and cross-heading inserted (with effect in accordance with s. 73(8)(9) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 73(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/73/2)
 
-[^key-e0af5ecd2d3ef6d48f22cdb9aa362602]: Textual amendment: [S. 250A(7)](https://www.legislation.gov.uk/ukpga/2009/4/section/250A/7) omitted (for the purposes of corporation tax in relation to accounting periods beginning on or after 1.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 5(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/5/3), [12(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/2) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-e0af5ecd2d3ef6d48f22cdb9aa362602]: Textual amendment: [S. 250A(7)](https://www.legislation.gov.uk/ukpga/2009/4/section/250A/7) omitted (for the purposes of corporation tax in relation to accounting periods beginning on or after 1.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 5(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/5/3), [12(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/2) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))

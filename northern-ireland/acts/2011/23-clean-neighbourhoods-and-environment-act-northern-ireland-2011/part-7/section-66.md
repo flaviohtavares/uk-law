@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 66. Abatement notice in respect of noise in the street[^key-e65db76bc8ccfea27003b758fe8964af]
+## 66. Abatement notice in respect of noise in the street[^c-e65db76bc8ccfea27003b758fe8964af]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ a copy of the notice shall be served on that person accordingly.
 
 ## Annotations
 
-[^key-e65db76bc8ccfea27003b758fe8964af]: Commencement: [S. 66](https://www.legislation.gov.uk/nia/2011/23/section/66) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-e65db76bc8ccfea27003b758fe8964af]: Commencement: [S. 66](https://www.legislation.gov.uk/nia/2011/23/section/66) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.61. Office copies of documents[^key-1ead1fe82ac90723f62dace43aac30c2]
+## 7.61. Office copies of documents[^c-1ead1fe82ac90723f62dace43aac30c2]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ead1fe82ac90723f62dace43aac30c2]: Commencement: [Rule 7.61](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.61) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-1ead1fe82ac90723f62dace43aac30c2]: Commencement: [Rule 7.61](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.61) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

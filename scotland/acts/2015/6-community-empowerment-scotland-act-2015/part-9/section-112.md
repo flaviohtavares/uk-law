@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Duty to provide allotments[^key-05120a6aa98168c225c906fa97d16f41]
+## 112. Duty to provide allotments[^c-05120a6aa98168c225c906fa97d16f41]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05120a6aa98168c225c906fa97d16f41]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2015/6/section/112) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 15](https://www.legislation.gov.uk/ssi/2017/458/article/15))
+[^c-05120a6aa98168c225c906fa97d16f41]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2015/6/section/112) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 15](https://www.legislation.gov.uk/ssi/2017/458/article/15))

@@ -28,7 +28,7 @@ summary: ''
 - section 101(3) (distribution of assets of mutual concerns),
 - section 108(3) (receipt of benefits by donor or connected person),
 - section 192 (debts paid after cessation), and
-- section 193 (debts released after cessation), as qualified, where appropriate, by section 56(4) (car [^key-58f0b746fc9ae20b7564df63315b696a]... hire).
+- section 193 (debts released after cessation), as qualified, where appropriate, by section 56(4) (car [^c-58f0b746fc9ae20b7564df63315b696a]... hire).
 
 (3) This Chapter also needs to be read with—
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58f0b746fc9ae20b7564df63315b696a]: Textual amendment: Words in s. 283(2) omitted (with effect in accordance with Sch. 11 paras. 65-67 of the commencing Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 54](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/54)
+[^c-58f0b746fc9ae20b7564df63315b696a]: Textual amendment: Words in s. 283(2) omitted (with effect in accordance with Sch. 11 paras. 65-67 of the commencing Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 54](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/54)

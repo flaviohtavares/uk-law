@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Notification of new funds under the EuSEF Regulation or the EuVECA Regulation[^key-3e61f59cb3146a85542bbf03bf74781c]
+## 14. Notification of new funds under the EuSEF Regulation or the EuVECA Regulation[^c-3e61f59cb3146a85542bbf03bf74781c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e61f59cb3146a85542bbf03bf74781c]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/1773/regulation/14) omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/5/3) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e61f59cb3146a85542bbf03bf74781c]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/1773/regulation/14) omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/5/3) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -28,7 +28,7 @@ summary: ''
 - (b) fix a diet for hearing the application and cite that person to attend the diet; and
 - (c) where it considers that the interests of justice so require, grant warrant to arrest that person.
 
-(2ZA)[^key-acf1c52caf8ff16f89a734cb4674d06a] Despite subsection (2)(b), the court may grant the application without fixing a hearing if the person granted bail consents.
+(2ZA)[^c-acf1c52caf8ff16f89a734cb4674d06a] Despite subsection (2)(b), the court may grant the application without fixing a hearing if the person granted bail consents.
 
 (2A)[^c18944551] Subsection (2B) below applies to an application under subsection (1) above where the person granted bail—
 
@@ -40,7 +40,7 @@ summary: ''
 
 (2B) Where this subsection applies, the application shall be heard not more than 7 days after the day on which it is made.
 
-(3) On [^key-9d162666832962a03fcbc3340ef35dd5]... an application under subsection (1) above the court may—
+(3) On [^c-9d162666832962a03fcbc3340ef35dd5]... an application under subsection (1) above the court may—
 
 - (a) withdraw the grant of bail and remand the person in question in custody; or
 - (b) grant bail, or continue the grant of bail, either on the same or on different conditions.
@@ -54,10 +54,10 @@ summary: ''
 
 ## Annotations
 
-[^key-acf1c52caf8ff16f89a734cb4674d06a]: Textual amendment: S. 31(2ZA) inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 57(3)(a)](https://www.legislation.gov.uk/asp/2010/13/section/57/3/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-acf1c52caf8ff16f89a734cb4674d06a]: Textual amendment: S. 31(2ZA) inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 57(3)(a)](https://www.legislation.gov.uk/asp/2010/13/section/57/3/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c18944551]: Textual amendment: S. 31(2A)(2B) inserted (1.2.2005) by [Criminal Procedure (Amendment) (Scotland) Act 2004 (asp 5)](https://www.legislation.gov.uk/asp/2004/5), [ss. 18(4)](https://www.legislation.gov.uk/asp/2004/5/section/18/4), [27(1)](https://www.legislation.gov.uk/asp/2004/5/section/27/1); [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2](https://www.legislation.gov.uk/ssi/2004/405/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (subject to [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
 
-[^key-9d162666832962a03fcbc3340ef35dd5]: Textual amendment: Word in s. 31(3) repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 57(3)(b)](https://www.legislation.gov.uk/asp/2010/13/section/57/3/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-9d162666832962a03fcbc3340ef35dd5]: Textual amendment: Word in s. 31(3) repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 57(3)(b)](https://www.legislation.gov.uk/asp/2010/13/section/57/3/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c18944571]: Textual amendment: S. 31(3A) inserted (1.2.2005) by [Criminal Procedure (Amendment) (Scotland) Act 2004 (asp 5)](https://www.legislation.gov.uk/asp/2004/5), [ss. 25](https://www.legislation.gov.uk/asp/2004/5/section/25), [27(1)](https://www.legislation.gov.uk/asp/2004/5/section/27/1), [Sch. para. 10](https://www.legislation.gov.uk/asp/2004/5/schedule/paragraph/10); [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2](https://www.legislation.gov.uk/ssi/2004/405/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (subject to [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))

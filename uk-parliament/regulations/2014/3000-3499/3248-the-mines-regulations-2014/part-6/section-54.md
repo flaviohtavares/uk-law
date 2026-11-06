@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Escape and rescue plan[^key-d0537c9103ba977fe985cf528819901b]
+## 54. Escape and rescue plan[^c-d0537c9103ba977fe985cf528819901b]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0537c9103ba977fe985cf528819901b]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2014/3248/regulation/54) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-d0537c9103ba977fe985cf528819901b]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2014/3248/regulation/54) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

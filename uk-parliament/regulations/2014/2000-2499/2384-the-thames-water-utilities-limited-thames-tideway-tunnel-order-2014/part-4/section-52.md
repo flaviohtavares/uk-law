@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Safeguarding[^key-6cc62362349356cbab350363e1204566]
+## 52. Safeguarding[^c-6cc62362349356cbab350363e1204566]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cc62362349356cbab350363e1204566]: Commencement: Art. 52 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-6cc62362349356cbab350363e1204566]: Commencement: Art. 52 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

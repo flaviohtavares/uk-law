@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Relevant debts of managed service companies[^key-ae3733749179ce22a79aacaeb7eea75b]
+## 42. Relevant debts of managed service companies[^c-ae3733749179ce22a79aacaeb7eea75b]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In regulation 97B (debts of managed service companies), after paragraph (2) inse
 
 ## Annotations
 
-[^key-ae3733749179ce22a79aacaeb7eea75b]: Commencement: Reg. 42 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-ae3733749179ce22a79aacaeb7eea75b]: Commencement: Reg. 42 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

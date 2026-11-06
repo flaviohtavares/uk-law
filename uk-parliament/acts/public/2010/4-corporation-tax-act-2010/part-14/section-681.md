@@ -27,8 +27,8 @@ summary: ''
 (3) A non-trading loss on intangible fixed assets for an accounting period beginning before the change in ownership may not be—
 
 - (a) carried forward under section 753(3) of that Act to an accounting period ending after the change in ownership, or
-- (b) treated under that section as if it were a non-trading loss on intangible fixed assets for[^key-88df42c0537772f133b6b622ca96b0ba] that period.
+- (b) treated under that section as if it were a non-trading loss on intangible fixed assets for[^c-88df42c0537772f133b6b622ca96b0ba] that period.
 
 ## Annotations
 
-[^key-88df42c0537772f133b6b622ca96b0ba]: Textual amendment: Words in [s. 681(3)(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/681/3/b) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 81(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/81/2)
+[^c-88df42c0537772f133b6b622ca96b0ba]: Textual amendment: Words in [s. 681(3)(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/681/3/b) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 81(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/81/2)

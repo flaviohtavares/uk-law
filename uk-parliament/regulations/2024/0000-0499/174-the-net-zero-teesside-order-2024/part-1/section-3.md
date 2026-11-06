@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Electronic communications[^key-047e96afb9f81a7923aec28572fc3425]
+## 3. Electronic communications[^c-047e96afb9f81a7923aec28572fc3425]
 
 *Extent: E+W+S*
 
 (1) In this Order—
 
-- (a) references to documents, maps, plans, drawings, certificates or other documents, or to copies, include references to them in electronic form; and[^key-992146217213a7b6b9760898b81ea1c3]
+- (a) references to documents, maps, plans, drawings, certificates or other documents, or to copies, include references to them in electronic form; and[^c-992146217213a7b6b9760898b81ea1c3]
 - (b) references to a form of communication being “in writing” include references to an electronic communication that satisfies the conditions in paragraph (2) and “written” and other cognate expressions are to be construed accordingly.
 
 (2) The conditions are that—
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-047e96afb9f81a7923aec28572fc3425]: Commencement: Art. 3 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-047e96afb9f81a7923aec28572fc3425]: Commencement: Art. 3 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-992146217213a7b6b9760898b81ea1c3]: Textual amendment: Word in [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2024/174/article/3/1/a) inserted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
+[^c-992146217213a7b6b9760898b81ea1c3]: Textual amendment: Word in [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2024/174/article/3/1/a) inserted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table

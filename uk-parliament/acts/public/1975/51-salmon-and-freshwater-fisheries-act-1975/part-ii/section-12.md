@@ -29,7 +29,7 @@ summary: ''
 
 he shall be guilty of an offence, and shall also in every case pay any expenses which may be incurred in restoring the fish pass to its former state of efficiency; and any such expenses may be recovered in a summary manner.
 
-(2) The owner or occupier of a dam shall be deemed to have altered it if it is damaged, destroyed or allowed to fall into a state of disrepair, and if after notice is served on him by the appropriate agency he[^key-6d2dd711b4dc19df5c9ff476e129b41c] fails to repair or reconstruct it within a reasonable time so as to render the fish pass as efficient as before the damage or destruction.
+(2) The owner or occupier of a dam shall be deemed to have altered it if it is damaged, destroyed or allowed to fall into a state of disrepair, and if after notice is served on him by the appropriate agency he[^c-6d2dd711b4dc19df5c9ff476e129b41c] fails to repair or reconstruct it within a reasonable time so as to render the fish pass as efficient as before the damage or destruction.
 
 (3) If any person—
 
@@ -42,4 +42,4 @@ he shall be guilty of an offence.
 
 ## Annotations
 
-[^key-6d2dd711b4dc19df5c9ff476e129b41c]: Textual amendment: Words in [s. 12(2)](https://www.legislation.gov.uk/ukpga/1975/51/section/12/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 134](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/134) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-6d2dd711b4dc19df5c9ff476e129b41c]: Textual amendment: Words in [s. 12(2)](https://www.legislation.gov.uk/ukpga/1975/51/section/12/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 134](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/134) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

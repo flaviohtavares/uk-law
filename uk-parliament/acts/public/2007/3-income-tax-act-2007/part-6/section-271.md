@@ -22,9 +22,9 @@ summary: ''
 
 (1) If an event occurs that results in any VCT relief falling to be withdrawn or reduced, the individual by whom the relief was obtained must, within 60 days of coming to know of the event, give notice to an officer of Revenue and Customs containing particulars of the event.
 
-(2)[^key-839d4e94e5df4bbd604372c0104edbd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-839d4e94e5df4bbd604372c0104edbd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-839d4e94e5df4bbd604372c0104edbd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-839d4e94e5df4bbd604372c0104edbd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) If a company which is a VCT issues to any individual eligible shares to which section 261(4) applies, it must—
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-839d4e94e5df4bbd604372c0104edbd1]: Textual amendment: S. 271(2)(3) omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 47](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/47)
+[^c-839d4e94e5df4bbd604372c0104edbd1]: Textual amendment: S. 271(2)(3) omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 47](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/47)

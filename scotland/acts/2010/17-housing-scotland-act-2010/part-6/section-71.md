@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Failure to deliver compliant accounts[^key-7140808b60cc7532e60c1f306b194f0a]
+## 71. Failure to deliver compliant accounts[^c-7140808b60cc7532e60c1f306b194f0a]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7140808b60cc7532e60c1f306b194f0a]: Commencement: S. 71 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-7140808b60cc7532e60c1f306b194f0a]: Commencement: S. 71 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

@@ -71,9 +71,9 @@ That determination and calculation must be on the basis of events in relation to
 
 ## 4. Supplies from partly exempt combined heat and power stations: exemption for outputs
 
-(1)[^key-b434271529d1953ac9c02207fae264e6] The limit (see paragraph 16(2) of the Act) on the quantity of electricity that may be produced in and supplied from a partly exempt station exempt from CCL for a given Annual Operation is its CHP Qualifying Power Output in relation to that Operation (see Section 5.8 of the Standard).
+(1)[^c-b434271529d1953ac9c02207fae264e6] The limit (see paragraph 16(2) of the Act) on the quantity of electricity that may be produced in and supplied from a partly exempt station exempt from CCL for a given Annual Operation is its CHP Qualifying Power Output in relation to that Operation (see Section 5.8 of the Standard).
 
-(2)[^key-57b02bb06a845a5bc013e2558dd03e74] For the purpose of establishing whether that limit is exceeded—
+(2)[^c-57b02bb06a845a5bc013e2558dd03e74] For the purpose of establishing whether that limit is exceeded—
 
 - (a) any supplies made by a station—
   - (i) to a utility; or
@@ -100,7 +100,7 @@ The weighting must reflect the proportion of fuel input to the station during th
 
 That proportion must be calculated relative to the station's actual total fuel input for the Annual Operation in question.
 
-## 7.[^key-2264f98c59e7e78c63a8d56275c3c9c1]
+## 7.[^c-2264f98c59e7e78c63a8d56275c3c9c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -148,11 +148,11 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c12253441]: Marginal citation: [Paragraphs 15](https://www.legislation.gov.uk/uksi/2005/1714/paragraph/15) and 149 are amended by the [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14) sections 189 and 216 and Schedule 43 Part 4(2) in relation to supplies made on or after such day as the Treasury may by order made by statutory instrument appoint (about which, see [S.I](https://www.legislation.gov.uk/ukpga/2003/14/section/I). 2005/1713 (C.72)).
 
-[^key-b434271529d1953ac9c02207fae264e6]: Textual amendment: Reg. 4(1): reg. 4 renumbered as reg. 4(1) (1.4.2013) by [The Climate Change Levy (Combined Heat and Power Stations) (Amendment) Regulations 2013 (S.I. 2013/232)](https://www.legislation.gov.uk/uksi/2013/232), [regs. 1](https://www.legislation.gov.uk/uksi/2013/232/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/232/regulation/3/1)
+[^c-b434271529d1953ac9c02207fae264e6]: Textual amendment: Reg. 4(1): reg. 4 renumbered as reg. 4(1) (1.4.2013) by [The Climate Change Levy (Combined Heat and Power Stations) (Amendment) Regulations 2013 (S.I. 2013/232)](https://www.legislation.gov.uk/uksi/2013/232), [regs. 1](https://www.legislation.gov.uk/uksi/2013/232/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/232/regulation/3/1)
 
-[^key-57b02bb06a845a5bc013e2558dd03e74]: Textual amendment: Reg. 4(2)(3) inserted (1.4.2013) by [The Climate Change Levy (Combined Heat and Power Stations) (Amendment) Regulations 2013 (S.I. 2013/232)](https://www.legislation.gov.uk/uksi/2013/232), [regs. 1](https://www.legislation.gov.uk/uksi/2013/232/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/232/regulation/3/2)
+[^c-57b02bb06a845a5bc013e2558dd03e74]: Textual amendment: Reg. 4(2)(3) inserted (1.4.2013) by [The Climate Change Levy (Combined Heat and Power Stations) (Amendment) Regulations 2013 (S.I. 2013/232)](https://www.legislation.gov.uk/uksi/2013/232), [regs. 1](https://www.legislation.gov.uk/uksi/2013/232/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/232/regulation/3/2)
 
-[^key-2264f98c59e7e78c63a8d56275c3c9c1]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/1714/regulation/7) omitted (1.4.2013) by virtue of [The Climate Change Levy (Combined Heat and Power Stations) (Amendment) Regulations 2013 (S.I. 2013/232)](https://www.legislation.gov.uk/uksi/2013/232), [regs. 1](https://www.legislation.gov.uk/uksi/2013/232/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/232/regulation/4)
+[^c-2264f98c59e7e78c63a8d56275c3c9c1]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/1714/regulation/7) omitted (1.4.2013) by virtue of [The Climate Change Levy (Combined Heat and Power Stations) (Amendment) Regulations 2013 (S.I. 2013/232)](https://www.legislation.gov.uk/uksi/2013/232), [regs. 1](https://www.legislation.gov.uk/uksi/2013/232/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/232/regulation/4)
 
 [^c12253471]: Marginal citation: [S.I. 2003/861](https://www.legislation.gov.uk/uksi/2003/861).
 

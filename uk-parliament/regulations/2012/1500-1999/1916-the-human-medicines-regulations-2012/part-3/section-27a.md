@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27A. Effect of suspension or variation relating to modular unit or POC site[^key-89d027c5e0b2502e038a2b766c5d5d39]
+## 27A. Effect of suspension or variation relating to modular unit or POC site[^c-89d027c5e0b2502e038a2b766c5d5d39]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89d027c5e0b2502e038a2b766c5d5d39]: Textual amendment: [Reg. 27A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/27A) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2025/87/regulation/10)
+[^c-89d027c5e0b2502e038a2b766c5d5d39]: Textual amendment: [Reg. 27A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/27A) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2025/87/regulation/10)

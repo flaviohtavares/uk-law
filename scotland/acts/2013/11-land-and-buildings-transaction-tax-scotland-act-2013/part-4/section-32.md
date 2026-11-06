@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Contingency ceases or consideration ascertained: less tax payable[^key-75a3cd627303be1325c3b5eaa32eaf03][^key-bf446e03c9f43f111efd136eaca2cce7]
+## 32. Contingency ceases or consideration ascertained: less tax payable[^c-75a3cd627303be1325c3b5eaa32eaf03][^c-bf446e03c9f43f111efd136eaca2cce7]
 
 *Extent: S*
 
@@ -29,18 +29,18 @@ summary: ''
 (2) The steps are—
 
 - (a) within the period allowed for amendment of the land transaction return, amend the return accordingly,
-- (b) after the end of that period (if the land transaction return is not so amended), make a claim to the Tax Authority under section 107 of the Revenue Scotland and Tax Powers Act 2014 (asp 16)[^key-a840fd0941c7fdb8a288f8d00df6f906] for repayment of the amount overpaid.
+- (b) after the end of that period (if the land transaction return is not so amended), make a claim to the Tax Authority under section 107 of the Revenue Scotland and Tax Powers Act 2014 (asp 16)[^c-a840fd0941c7fdb8a288f8d00df6f906] for repayment of the amount overpaid.
 
-(2A)[^key-10baa8184d709149337497bfd06bd00f] For the period allowed for amendment of returns, see section 83 of the Revenue Scotland and Tax Powers Act 2014 (asp 16).
+(2A)[^c-10baa8184d709149337497bfd06bd00f] For the period allowed for amendment of returns, see section 83 of the Revenue Scotland and Tax Powers Act 2014 (asp 16).
 
 (3) This section does not apply so far as the consideration consists of rent (see schedule 19 (leases)).
 
 ## Annotations
 
-[^key-75a3cd627303be1325c3b5eaa32eaf03]: Commencement: S. 32 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-75a3cd627303be1325c3b5eaa32eaf03]: Commencement: S. 32 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-bf446e03c9f43f111efd136eaca2cce7]: Modification: S. 32 applied (1.4.2015) by [The Land and Buildings Transaction Tax (Administration) (Scotland) Regulations 2014 (S.S.I. 2014/375)](https://www.legislation.gov.uk/ssi/2014/375), [regs. 1](https://www.legislation.gov.uk/ssi/2014/375/regulation/1), [12](https://www.legislation.gov.uk/ssi/2014/375/regulation/12)
+[^c-bf446e03c9f43f111efd136eaca2cce7]: Modification: S. 32 applied (1.4.2015) by [The Land and Buildings Transaction Tax (Administration) (Scotland) Regulations 2014 (S.S.I. 2014/375)](https://www.legislation.gov.uk/ssi/2014/375), [regs. 1](https://www.legislation.gov.uk/ssi/2014/375/regulation/1), [12](https://www.legislation.gov.uk/ssi/2014/375/regulation/12)
 
-[^key-a840fd0941c7fdb8a288f8d00df6f906]: Textual amendment: Words in s. 32(2)(b) inserted (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(5)(a)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/5/a) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-a840fd0941c7fdb8a288f8d00df6f906]: Textual amendment: Words in s. 32(2)(b) inserted (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(5)(a)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/5/a) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-10baa8184d709149337497bfd06bd00f]: Textual amendment: S. 32(2A) inserted (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(5)(b)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/5/b) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-10baa8184d709149337497bfd06bd00f]: Textual amendment: S. 32(2A) inserted (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(5)(b)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/5/b) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

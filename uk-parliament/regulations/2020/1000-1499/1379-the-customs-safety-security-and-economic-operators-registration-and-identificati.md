@@ -44,7 +44,7 @@ The Commissioners for Her Majesty's Revenue and Customs make these Regulations i
 
 In accordance with paragraph 1(3) of Schedule 7 to that Act, a draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
-## 1. Citation, commencement and effect[^key-147a26ae65ba7bc99f1fc64fd8f599ea]
+## 1. Citation, commencement and effect[^c-147a26ae65ba7bc99f1fc64fd8f599ea]
 
 (1) These Regulations may be cited as the Customs Safety, Security and Economic Operators Registration and Identification (Amendment etc.) (EU Exit) Regulations 2020.
 
@@ -52,13 +52,13 @@ In accordance with paragraph 1(3) of Schedule 7 to that Act, a draft of this ins
 
 (3) Regulations 2 to 7 come into force immediately before IP completion day [^c24349771].
 
-(4)[^key-3e5e864ed10e79e82e9a14a414d2c688] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3e5e864ed10e79e82e9a14a414d2c688] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Customs Safety and Security Procedures (EU Exit) Regulations 2019[^key-29643e775d8b152adc1544b6f67eea83]
+## 2. Amendment of the Customs Safety and Security Procedures (EU Exit) Regulations 2019[^c-29643e775d8b152adc1544b6f67eea83]
 
 The Customs Safety and Security Procedures (EU Exit) Regulations 2019 [^c24349781] are amended as follows.
 
-## 3.[^key-f6f473cb1535306d0aa05319e97bbe89]
+## 3.[^c-f6f473cb1535306d0aa05319e97bbe89]
 
 Insert after regulation 2(3)(a)—
 
@@ -69,7 +69,7 @@ Insert after regulation 2(3)(a)—
 
 .
 
-## 4.[^key-93cbfa91b94081bfc313ffcfd65d70a3]
+## 4.[^c-93cbfa91b94081bfc313ffcfd65d70a3]
 
 (1) Replace regulation 3(2) with the following—
 
@@ -156,7 +156,7 @@ Insert after regulation 2(3)(a)—
 
 .
 
-## 5.[^key-41b71d96d4f4b822c017616f917b3d24]
+## 5.[^c-41b71d96d4f4b822c017616f917b3d24]
 
 (1) Insert as regulation 5(2A)—
 
@@ -177,7 +177,7 @@ Insert after regulation 2(3)(a)—
 
 .
 
-## 6.[^key-f79aa21b347c0995b93578f5d06666b9]
+## 6.[^c-f79aa21b347c0995b93578f5d06666b9]
 
 In regulation 7(1)—
 
@@ -191,7 +191,7 @@ In regulation 7(1)—
 
   .
 
-## 7. Miscellaneous[^key-b06bab213c0126d3fec6b7543fbb4835]
+## 7. Miscellaneous[^c-b06bab213c0126d3fec6b7543fbb4835]
 
 (1) The Customs Safety and Security Procedures (EU Exit) (No. 2) Regulations 2019 [^c24349791] are amended as follows.
 
@@ -199,7 +199,7 @@ In regulation 7(1)—
 
 (3) In regulation 3(4), for “1 May 2020” substitute “ 1 July 2021 ”.
 
-## 8.[^key-963a67bf6bea472edb9d7d964dcdaffe]
+## 8.[^c-963a67bf6bea472edb9d7d964dcdaffe]
 
 The Customs (Economic Operators Registration and Identification) (Amendment) (EU Exit) Regulations 2019 [^c24349801] are revoked.
 
@@ -221,28 +221,28 @@ A full impact assessment has not been produced for this instrument. Regulations 
 
 [^c24349761]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Section 20(1) provides that in the Act the Commissioners for Her Majesty's Revenue and Customs are included in the expression “Minister of the Crown”. Section 8 was amended by the [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [section 27](https://www.legislation.gov.uk/ukpga/2020/1/section/27).
 
-[^key-147a26ae65ba7bc99f1fc64fd8f599ea]: Commencement: Reg. 1 in force at 26.11.2020, see reg. 1(2)
+[^c-147a26ae65ba7bc99f1fc64fd8f599ea]: Commencement: Reg. 1 in force at 26.11.2020, see reg. 1(2)
 
 [^c24349771]: Marginal citation: The meaning of “IP completion day” is assigned by the [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30), [Schedule 1](https://www.legislation.gov.uk/ukpga/1978/30/schedule/1) as amended by the European Union (Withdrawal Agreement) Act 2020, Schedule 5, paragraph 12, and as assigned by section 39(1) to (5) of the latter Act.
 
-[^key-3e5e864ed10e79e82e9a14a414d2c688]: Textual amendment: [Reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/4) revoked (31.12.2020) by [The Customs Miscellaneous Non-fiscal Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/1624/regulation/10)
+[^c-3e5e864ed10e79e82e9a14a414d2c688]: Textual amendment: [Reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/4) revoked (31.12.2020) by [The Customs Miscellaneous Non-fiscal Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/1624/regulation/10)
 
-[^key-29643e775d8b152adc1544b6f67eea83]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion day, see reg. 1(3)
+[^c-29643e775d8b152adc1544b6f67eea83]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion day, see reg. 1(3)
 
 [^c24349781]: Marginal citation: [S.I. 2019/715](https://www.legislation.gov.uk/uksi/2019/715).
 
-[^key-f6f473cb1535306d0aa05319e97bbe89]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day, see reg. 1(3)
+[^c-f6f473cb1535306d0aa05319e97bbe89]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day, see reg. 1(3)
 
-[^key-93cbfa91b94081bfc313ffcfd65d70a3]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day, see reg. 1(3)
+[^c-93cbfa91b94081bfc313ffcfd65d70a3]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day, see reg. 1(3)
 
-[^key-41b71d96d4f4b822c017616f917b3d24]: Commencement: Reg. 5 in force at 31.12.2020 immediately before IP completion day, see reg. 1(3)
+[^c-41b71d96d4f4b822c017616f917b3d24]: Commencement: Reg. 5 in force at 31.12.2020 immediately before IP completion day, see reg. 1(3)
 
-[^key-f79aa21b347c0995b93578f5d06666b9]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day, see reg. 1(3)
+[^c-f79aa21b347c0995b93578f5d06666b9]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day, see reg. 1(3)
 
-[^key-b06bab213c0126d3fec6b7543fbb4835]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day, see reg. 1(3)
+[^c-b06bab213c0126d3fec6b7543fbb4835]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day, see reg. 1(3)
 
 [^c24349791]: Marginal citation: [S.I. 2019/1219](https://www.legislation.gov.uk/uksi/2019/1219).
 
-[^key-963a67bf6bea472edb9d7d964dcdaffe]: Commencement: Reg. 8 in force at 26.11.2020, see reg. 1(2)
+[^c-963a67bf6bea472edb9d7d964dcdaffe]: Commencement: Reg. 8 in force at 26.11.2020, see reg. 1(2)
 
 [^c24349801]: Marginal citation: [S.I. 2019/714](https://www.legislation.gov.uk/uksi/2019/714).

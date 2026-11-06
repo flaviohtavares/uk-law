@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60. Continuation of application made by the Regulator for a search warrant[^key-7b8e7c33acea6bd5dfbe2a03c6ce9578][^key-606962fb1b49710cd4a8127b1d03e4eb]
+## 60. Continuation of application made by the Regulator for a search warrant[^c-7b8e7c33acea6bd5dfbe2a03c6ce9578][^c-606962fb1b49710cd4a8127b1d03e4eb]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7b8e7c33acea6bd5dfbe2a03c6ce9578]: Commencement: Art. 60 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-7b8e7c33acea6bd5dfbe2a03c6ce9578]: Commencement: Art. 60 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-606962fb1b49710cd4a8127b1d03e4eb]: Commencement: [Art. 60](https://www.legislation.gov.uk/uksi/2018/1253/article/60) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-606962fb1b49710cd4a8127b1d03e4eb]: Commencement: [Art. 60](https://www.legislation.gov.uk/uksi/2018/1253/article/60) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

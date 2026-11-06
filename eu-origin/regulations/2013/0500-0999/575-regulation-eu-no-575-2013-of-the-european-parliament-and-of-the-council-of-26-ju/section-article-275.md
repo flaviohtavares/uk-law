@@ -16,10 +16,10 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 275. Original Exposure Method[^key-c8886628345c8499b7df2d9312d8d668]
+## Article 275. Original Exposure Method[^c-c8886628345c8499b7df2d9312d8d668]
 
 *Extent: E+W+S+N.I.*
 
 ## Annotations
 
-[^key-c8886628345c8499b7df2d9312d8d668]: Textual amendment: [Art. 275](https://www.legislation.gov.uk/eur/2013/575/article/275) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(3)(f)(ii)(cc)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/3/f/ii/cc)
+[^c-c8886628345c8499b7df2d9312d8d668]: Textual amendment: [Art. 275](https://www.legislation.gov.uk/eur/2013/575/article/275) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(3)(f)(ii)(cc)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/3/f/ii/cc)

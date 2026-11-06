@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Bodies corporate and Scottish partnerships[^key-badd74051b0ce7da1b9d9ca6437dc353]
+## 15. Bodies corporate and Scottish partnerships[^c-badd74051b0ce7da1b9d9ca6437dc353]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ the partner as well as the partnership is guilty of the offence and is liable to
 
 ## Annotations
 
-[^key-badd74051b0ce7da1b9d9ca6437dc353]: Modification: [Reg. 15](https://www.legislation.gov.uk/uksi/2008/2852/regulation/15) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)
+[^c-badd74051b0ce7da1b9d9ca6437dc353]: Modification: [Reg. 15](https://www.legislation.gov.uk/uksi/2008/2852/regulation/15) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)

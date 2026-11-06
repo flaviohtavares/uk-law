@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Recommendations about regulations under section 62[^key-d8e86defb8f8f487a5ae1fb31b9f9319]
+## 63. Recommendations about regulations under section 62[^c-d8e86defb8f8f487a5ae1fb31b9f9319]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8e86defb8f8f487a5ae1fb31b9f9319]: Commencement: S. 63 in force at Royal Assent, see [s. 170(1)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/f)
+[^c-d8e86defb8f8f487a5ae1fb31b9f9319]: Commencement: S. 63 in force at Royal Assent, see [s. 170(1)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/f)

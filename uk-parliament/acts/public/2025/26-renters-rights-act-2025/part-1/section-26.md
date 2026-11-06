@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Tenancy deposit requirements[^key-4cc8ff6da148eab889983786cf5929e5][^key-c69cb99a97871afff7aa1848dd28f117]
+## 26. Tenancy deposit requirements[^c-4cc8ff6da148eab889983786cf5929e5][^c-c69cb99a97871afff7aa1848dd28f117]
 
 *Extent: E+W*
 
@@ -103,6 +103,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4cc8ff6da148eab889983786cf5929e5]: Commencement: S. 26 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
+[^c-4cc8ff6da148eab889983786cf5929e5]: Commencement: S. 26 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
 
-[^key-c69cb99a97871afff7aa1848dd28f117]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2025/26/section/26) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-c69cb99a97871afff7aa1848dd28f117]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2025/26/section/26) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)

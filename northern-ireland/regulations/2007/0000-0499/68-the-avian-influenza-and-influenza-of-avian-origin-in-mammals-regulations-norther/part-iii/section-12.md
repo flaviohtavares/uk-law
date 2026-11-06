@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Veterinary inquiries and sampling[^key-5bacf5cd35856a6caed85a37f3c60154]
+## 12. Veterinary inquiries and sampling[^c-5bacf5cd35856a6caed85a37f3c60154]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ direct by notice served on the occupier of the premises in question that all or 
 
 ## Annotations
 
-[^key-5bacf5cd35856a6caed85a37f3c60154]: Commencement: Reg. 12 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-5bacf5cd35856a6caed85a37f3c60154]: Commencement: Reg. 12 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

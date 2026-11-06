@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-0a9e591e3b577b97ab514c1cac30de3c][^key-89b0dfbe9d893ed415cbd662b56ef401] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-0a9e591e3b577b97ab514c1cac30de3c][^c-89b0dfbe9d893ed415cbd662b56ef401] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Welsh Ministers may by order amend Schedule 4 to the Welsh Development Agency Act 1975 (c. 70) for the purpose of authorising the use in accordance with planning permission of land acquired under section 21A of that Act, even if the use involves—
 
@@ -40,6 +40,6 @@ summary: ''
 
 [^c19533991]: Commencement: S. 194 partly in force; s. 194(2)-(5) in force at 26.1.2009 see s. 241
 
-[^key-0a9e591e3b577b97ab514c1cac30de3c]: Textual amendment: [S. 194(1)](https://www.legislation.gov.uk/ukpga/2008/29/section/194/1) omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 19 para. 14](https://www.legislation.gov.uk/ukpga/2016/22/schedule/19/paragraph/14); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/m)
+[^c-0a9e591e3b577b97ab514c1cac30de3c]: Textual amendment: [S. 194(1)](https://www.legislation.gov.uk/ukpga/2008/29/section/194/1) omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 19 para. 14](https://www.legislation.gov.uk/ukpga/2016/22/schedule/19/paragraph/14); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/m)
 
-[^key-89b0dfbe9d893ed415cbd662b56ef401]: Commencement: S. 194(1) in force at 6.4.2009 for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(h)](https://www.legislation.gov.uk/uksi/2009/400/article/3/h)
+[^c-89b0dfbe9d893ed415cbd662b56ef401]: Commencement: S. 194(1) in force at 6.4.2009 for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(h)](https://www.legislation.gov.uk/uksi/2009/400/article/3/h)

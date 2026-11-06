@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Production of 5-year reports[^key-0136ba449c7fe7e0d3a6e22a22aa92ab]
+## 5. Production of 5-year reports[^c-0136ba449c7fe7e0d3a6e22a22aa92ab]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0136ba449c7fe7e0d3a6e22a22aa92ab]: Commencement: [S. 5](https://www.legislation.gov.uk/mwa/2011/1/section/5) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(c)](https://www.legislation.gov.uk/wsi/2012/969/article/2/c)
+[^c-0136ba449c7fe7e0d3a6e22a22aa92ab]: Commencement: [S. 5](https://www.legislation.gov.uk/mwa/2011/1/section/5) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(c)](https://www.legislation.gov.uk/wsi/2012/969/article/2/c)

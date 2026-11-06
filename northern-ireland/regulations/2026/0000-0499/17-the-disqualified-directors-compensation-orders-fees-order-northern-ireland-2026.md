@@ -42,7 +42,7 @@ Coming into operation in accordance with Article 1
 
 The Department for the Economy[^f00001] with the concurrence of the Department of Finance, makes the following Order in exercise of the powers conferred by Article 361(1)(b) of the Insolvency (Northern Ireland) Order 1989[^f00002] read in conjunction with Article 24(1) of the Company Directors Disqualification (Northern Ireland) Order 2002[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-435e68c306a12ec8009f22961e1311d6]
+## 1. Citation, commencement and interpretation[^c-435e68c306a12ec8009f22961e1311d6]
 
 (1) This Order may be cited as the Disqualified Directors Compensation Orders (Fees) Order (Northern Ireland) 2026 and shall come into operation on the day after the day on which it is affirmed by resolution of the Assembly.
 
@@ -52,7 +52,7 @@ The Department for the Economy[^f00001] with the concurrence of the Department o
 - “**compensation undertaking**” means an undertaking accepted by the Department under Article 19A(2) of the Company Directors Disqualification (Northern Ireland) Order 2002; and
 - “**the Department**” means the Department for the Economy.
 
-## 2. Fees payable in connection with compensation orders and compensation undertakings[^key-62e3035c8a80b3534a47a0899126d715]
+## 2. Fees payable in connection with compensation orders and compensation undertakings[^c-62e3035c8a80b3534a47a0899126d715]
 
 (1) The Department is to be paid a fee for performing the function of distributing to a creditor an amount received by the Department in respect of a compensation order or a compensation undertaking.
 
@@ -65,7 +65,7 @@ The Department for the Economy[^f00001] with the concurrence of the Department o
 
 divided equally between the total number of creditors specified in the compensation order or compensation undertaking.
 
-## 3. Value Added Tax[^key-ec123fc333e16db10a433935c8cbc3f7]
+## 3. Value Added Tax[^c-ec123fc333e16db10a433935c8cbc3f7]
 
 Where Value Added Tax is chargeable in respect of the provision of a service for which a fee is payable by virtue of this Order, the amount of the Value Added Tax must be paid in addition to the fee.
 
@@ -83,7 +83,7 @@ Patrick Neeson
 
 A senior officer of the Department of Finance
 
-## SCHEDULE — Hourly rates for Department’s fee[^key-48a1ebd14b55641061fe6bc39b1e5ff3]
+## SCHEDULE — Hourly rates for Department’s fee[^c-48a1ebd14b55641061fe6bc39b1e5ff3]
 
 | *Grade according to the Insolvency Service*<br>*grading structure* | *Total hourly rate*<br>*£* |
 | --- | --- |
@@ -115,12 +115,12 @@ A regulatory impact assessment has not been produced for this instrument as no i
 
 [^f00003]: Footnote: [S.I. 2002 No. 3150 (N.I. 4)](https://www.legislation.gov.uk/uksi/2002/3150)
 
-[^key-435e68c306a12ec8009f22961e1311d6]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2026/17/article/1) in operation at 14.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/17/article/1/1)
+[^c-435e68c306a12ec8009f22961e1311d6]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2026/17/article/1) in operation at 14.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/17/article/1/1)
 
 [^f00004]: Footnote: Article 19A was inserted by section 112 of, and paragraph 8 of Schedule 8, to the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26) and was amended by section 3(7), of the Rating (Coronavirus) and Directors Disqualification (Dissolved Companies) Act [2021 (c. 34)](https://www.legislation.gov.uk/ukpga/2021/34).
 
-[^key-62e3035c8a80b3534a47a0899126d715]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2026/17/article/2) in operation at 14.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/17/article/1/1)
+[^c-62e3035c8a80b3534a47a0899126d715]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2026/17/article/2) in operation at 14.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/17/article/1/1)
 
-[^key-ec123fc333e16db10a433935c8cbc3f7]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2026/17/article/3) in operation at 14.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/17/article/1/1)
+[^c-ec123fc333e16db10a433935c8cbc3f7]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2026/17/article/3) in operation at 14.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/17/article/1/1)
 
-[^key-48a1ebd14b55641061fe6bc39b1e5ff3]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2026/17/schedule) in operation at 14.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/17/article/1/1)
+[^c-48a1ebd14b55641061fe6bc39b1e5ff3]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2026/17/schedule) in operation at 14.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/17/article/1/1)

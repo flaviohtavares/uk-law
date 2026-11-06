@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Increase in eligible child’s pension where member was pension debit member[^key-b8d50b5ac98a247011464b675244deda]
+## 91. Increase in eligible child’s pension where member was pension debit member[^c-b8d50b5ac98a247011464b675244deda]
 
 *Extent: S*
 
-If the member’s benefits were at the date of death subject to a reduction under section 31 of the WRPA 1999[^key-a401e38f1d6a8d55b93e0b4b01de5513], any eligible child’s pension must be calculated as though that reduction had not been made.
+If the member’s benefits were at the date of death subject to a reduction under section 31 of the WRPA 1999[^c-a401e38f1d6a8d55b93e0b4b01de5513], any eligible child’s pension must be calculated as though that reduction had not been made.
 
 ## Annotations
 
-[^key-b8d50b5ac98a247011464b675244deda]: Commencement: [Reg. 91](https://www.legislation.gov.uk/ssi/2015/19/regulation/91) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-b8d50b5ac98a247011464b675244deda]: Commencement: [Reg. 91](https://www.legislation.gov.uk/ssi/2015/19/regulation/91) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
-[^key-a401e38f1d6a8d55b93e0b4b01de5513]: Textual amendment: Word in [reg. 91](https://www.legislation.gov.uk/ssi/2015/19/regulation/91) inserted (1.4.2015) by [The Firefighters' Pension Schemes (Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/141)](https://www.legislation.gov.uk/ssi/2015/141), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/141/regulation/1/2), [16](https://www.legislation.gov.uk/ssi/2015/141/regulation/16)
+[^c-a401e38f1d6a8d55b93e0b4b01de5513]: Textual amendment: Word in [reg. 91](https://www.legislation.gov.uk/ssi/2015/19/regulation/91) inserted (1.4.2015) by [The Firefighters' Pension Schemes (Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/141)](https://www.legislation.gov.uk/ssi/2015/141), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/141/regulation/1/2), [16](https://www.legislation.gov.uk/ssi/2015/141/regulation/16)

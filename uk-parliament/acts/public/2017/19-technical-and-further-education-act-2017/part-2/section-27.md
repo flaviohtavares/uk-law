@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Grants and loans where education administration order is made[^key-a7b26264950af3f73db394e7a40e561a]
+## 27. Grants and loans where education administration order is made[^c-a7b26264950af3f73db394e7a40e561a]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7b26264950af3f73db394e7a40e561a]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2017/19/section/27) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-a7b26264950af3f73db394e7a40e561a]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2017/19/section/27) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

@@ -33,7 +33,7 @@ This Order supersedes [S.I. 2010/655](https://www.legislation.gov.uk/uksi/2010/6
 
 Town And Country Planning, England
 
-The Town and Country Planning (Compensation) (No. 2) (England) Regulations 2010 (revoked)[^key-c8b13c4436dda8412acc79e7cda4d701]
+The Town and Country Planning (Compensation) (No. 2) (England) Regulations 2010 (revoked)[^c-c8b13c4436dda8412acc79e7cda4d701]
 
 Made
 
@@ -47,40 +47,40 @@ Coming into force
 
 3rd May 2010
 
-[^key-c8b13c4436dda8412acc79e7cda4d701]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8b13c4436dda8412acc79e7cda4d701]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-c8b13c4436dda8412acc79e7cda4d701]
+## 1. Citation, commencement, application and interpretation[^c-c8b13c4436dda8412acc79e7cda4d701]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed development[^key-c8b13c4436dda8412acc79e7cda4d701]
+## 2. Prescribed development[^c-c8b13c4436dda8412acc79e7cda4d701]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed manner in which planning permission to be withdrawn[^key-c8b13c4436dda8412acc79e7cda4d701]
+## 3. Prescribed manner in which planning permission to be withdrawn[^c-c8b13c4436dda8412acc79e7cda4d701]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Notice of withdrawal – prescribed manner and period[^key-c8b13c4436dda8412acc79e7cda4d701]
+## 4. Notice of withdrawal – prescribed manner and period[^c-c8b13c4436dda8412acc79e7cda4d701]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Notice of withdrawal, revocation, amendment or directions – prescribed manner and period[^key-c8b13c4436dda8412acc79e7cda4d701]
+## 5. Notice of withdrawal, revocation, amendment or directions – prescribed manner and period[^c-c8b13c4436dda8412acc79e7cda4d701]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-c8b13c4436dda8412acc79e7cda4d701]
+## 6. Revocation[^c-c8b13c4436dda8412acc79e7cda4d701]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c8b13c4436dda8412acc79e7cda4d701]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8b13c4436dda8412acc79e7cda4d701]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c8b13c4436dda8412acc79e7cda4d701]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8b13c4436dda8412acc79e7cda4d701]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c8b13c4436dda8412acc79e7cda4d701]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/1220) revoked (1.10.2010) by [The Town and Country Planning (Compensation) (No.3) (England) Regulations 2010 (S.I. 2010/2135)](https://www.legislation.gov.uk/uksi/2010/2135), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2135/regulation/1), [6](https://www.legislation.gov.uk/uksi/2010/2135/regulation/6)
+[^c-c8b13c4436dda8412acc79e7cda4d701]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/1220) revoked (1.10.2010) by [The Town and Country Planning (Compensation) (No.3) (England) Regulations 2010 (S.I. 2010/2135)](https://www.legislation.gov.uk/uksi/2010/2135), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2135/regulation/1), [6](https://www.legislation.gov.uk/uksi/2010/2135/regulation/6)

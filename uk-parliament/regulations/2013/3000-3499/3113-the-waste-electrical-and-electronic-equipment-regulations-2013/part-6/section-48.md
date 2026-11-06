@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Obligation to optimise the reuse and recycling of WEEE[^key-be49d9af8c2e2b223b0a99e81b6a1a83]
+## 48. Obligation to optimise the reuse and recycling of WEEE[^c-be49d9af8c2e2b223b0a99e81b6a1a83]
 
 *Extent: E+W+S+N.I.*
 
-Any person who collects or transports WEEE in connection with the carrying out of any obligation under regulations 28 or 29 must[^key-511df3ce237c87258bd44ac557207aae] ensure that all such WEEE is collected and transported in a way that optimises reuse and recycling of that equipment or of components of that equipment.
+Any person who collects or transports WEEE in connection with the carrying out of any obligation under regulations 28 or 29 must[^c-511df3ce237c87258bd44ac557207aae] ensure that all such WEEE is collected and transported in a way that optimises reuse and recycling of that equipment or of components of that equipment.
 
 ## Annotations
 
-[^key-be49d9af8c2e2b223b0a99e81b6a1a83]: Commencement: Reg. 48 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-be49d9af8c2e2b223b0a99e81b6a1a83]: Commencement: Reg. 48 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
 
-[^key-511df3ce237c87258bd44ac557207aae]: Textual amendment: Word in [reg. 48](https://www.legislation.gov.uk/uksi/2013/3113/regulation/48) substituted (25.7.2014) by [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/2), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2014/1771/schedule/1/paragraph/21)
+[^c-511df3ce237c87258bd44ac557207aae]: Textual amendment: Word in [reg. 48](https://www.legislation.gov.uk/uksi/2013/3113/regulation/48) substituted (25.7.2014) by [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/2), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2014/1771/schedule/1/paragraph/21)

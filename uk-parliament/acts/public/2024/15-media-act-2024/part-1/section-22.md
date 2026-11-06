@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Restriction on showing live coverage of listed events[^key-5f9dc61141a27d6c3ec113567f443fa5][^key-58dce6288fb6730b6d33e4ebb39a9fee]
+## 22. Restriction on showing live coverage of listed events[^c-5f9dc61141a27d6c3ec113567f443fa5][^c-58dce6288fb6730b6d33e4ebb39a9fee]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,6 +83,6 @@ For section 101 of the Broadcasting Act 1996 (restriction on televising of liste
 
 ## Annotations
 
-[^key-5f9dc61141a27d6c3ec113567f443fa5]: Commencement: S. 22 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-5f9dc61141a27d6c3ec113567f443fa5]: Commencement: S. 22 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-58dce6288fb6730b6d33e4ebb39a9fee]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2024/15/section/22) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
+[^c-58dce6288fb6730b6d33e4ebb39a9fee]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2024/15/section/22) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)

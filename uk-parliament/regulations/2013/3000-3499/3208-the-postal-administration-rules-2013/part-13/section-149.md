@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 149. Costs of proceedings under section 236[^key-6c5908c872b3adb66b524fa295c76cc1]
+## 149. Costs of proceedings under section 236[^c-6c5908c872b3adb66b524fa295c76cc1]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c5908c872b3adb66b524fa295c76cc1]: Commencement: [Rule 149](https://www.legislation.gov.uk/uksi/2013/3208/rule/149) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-6c5908c872b3adb66b524fa295c76cc1]: Commencement: [Rule 149](https://www.legislation.gov.uk/uksi/2013/3208/rule/149) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

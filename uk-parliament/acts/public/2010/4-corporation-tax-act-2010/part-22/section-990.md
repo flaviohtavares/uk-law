@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 990. UK Economic Interest Groupings and European Economic Interest Groupings[^key-f786adfb7cb5adc32a2ebbb51241a983]
+## 990. UK Economic Interest Groupings and European Economic Interest Groupings[^c-f786adfb7cb5adc32a2ebbb51241a983]
 
 *Extent: E+W+S+N.I.*
 
-(1) The following rules about UK Economic Interest Groupings and[^key-0843ece9a01897e381b1634a88e3ebff] European Economic Interest Groupings apply for the purposes of charging corporation tax in respect of income—
+(1) The following rules about UK Economic Interest Groupings and[^c-0843ece9a01897e381b1634a88e3ebff] European Economic Interest Groupings apply for the purposes of charging corporation tax in respect of income—
 
 - *Rule 1*
 
@@ -50,12 +50,12 @@ summary: ''
 - section 472 (meaning of “control”), and
 - sections 473 and 474 (meaning of “major interest” etc).
 
-(7)[^key-d0e3859addf6cd7a31841ebee484981b] “European Economic Interest Grouping” means a grouping registered in a member State and formed in pursuance of [Council Regulation (EEC) No. 2137/85](https://www.legislation.gov.uk/eur/1985/2137) of 25 July 1985 on the European Economic Interest Grouping as it has effect in EU law.
+(7)[^c-d0e3859addf6cd7a31841ebee484981b] “European Economic Interest Grouping” means a grouping registered in a member State and formed in pursuance of [Council Regulation (EEC) No. 2137/85](https://www.legislation.gov.uk/eur/1985/2137) of 25 July 1985 on the European Economic Interest Grouping as it has effect in EU law.
 
 ## Annotations
 
-[^key-f786adfb7cb5adc32a2ebbb51241a983]: Textual amendment: Words in s. 990 heading inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [17(11)(a)](https://www.legislation.gov.uk/uksi/2019/689/regulation/17/11/a) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f786adfb7cb5adc32a2ebbb51241a983]: Textual amendment: Words in s. 990 heading inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [17(11)(a)](https://www.legislation.gov.uk/uksi/2019/689/regulation/17/11/a) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0843ece9a01897e381b1634a88e3ebff]: Textual amendment: Words in [s. 990(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/990/1) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [17(11)(b)](https://www.legislation.gov.uk/uksi/2019/689/regulation/17/11/b) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0843ece9a01897e381b1634a88e3ebff]: Textual amendment: Words in [s. 990(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/990/1) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [17(11)(b)](https://www.legislation.gov.uk/uksi/2019/689/regulation/17/11/b) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d0e3859addf6cd7a31841ebee484981b]: Textual amendment: [S. 990(7)](https://www.legislation.gov.uk/ukpga/2010/4/section/990/7) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [17(11)(c)](https://www.legislation.gov.uk/uksi/2019/689/regulation/17/11/c) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d0e3859addf6cd7a31841ebee484981b]: Textual amendment: [S. 990(7)](https://www.legislation.gov.uk/ukpga/2010/4/section/990/7) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [17(11)(c)](https://www.legislation.gov.uk/uksi/2019/689/regulation/17/11/c) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

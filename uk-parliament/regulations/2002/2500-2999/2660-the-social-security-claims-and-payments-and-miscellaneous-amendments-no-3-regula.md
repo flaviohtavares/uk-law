@@ -43,15 +43,15 @@ Coming into force in accordance with regulation 1
 
 The Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 138(2) and (4) and 175(1) and (3) of the Social Security Contributions and Benefits Act 1992[^f00001], sections 5(1)(a) and (p) and 189(1), (4) and (5) of the Social Security Administration Act 1992[^f00002] and of all other powers enabling him in that behalf, and after agreement by the Social Security Advisory Committee that proposals to make these Regulations should not be referred to it[^f00003], hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-571db52f95d4bb4cdee113c1c6b1d1b4]
+## 1. Citation and commencement[^c-571db52f95d4bb4cdee113c1c6b1d1b4]
 
 These Regulations may be cited as the Social Security (Claims and Payments and Miscellaneous Amendments) (No. 3) Regulations 2002 and shall come into force on 1st April 2003 for the purposes of regulations 2(2) and 4 and for all other purposes on 2nd November 2002.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations 1987[^key-cc3327a6e619eedc3ae1437e57a8209e][^key-a1a3612b0b1758568092e61ba1711aed][^key-9018860ff19ec8f806004c5c2ac9798e]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations 1987[^c-cc3327a6e619eedc3ae1437e57a8209e][^c-a1a3612b0b1758568092e61ba1711aed][^c-9018860ff19ec8f806004c5c2ac9798e]
 
-(1)[^key-cc3327a6e619eedc3ae1437e57a8209e] The Social Security (Claims and Payments) Regulations 1987[^f00004] are amended in accordance with the following provisions of this regulation.
+(1)[^c-cc3327a6e619eedc3ae1437e57a8209e] The Social Security (Claims and Payments) Regulations 1987[^f00004] are amended in accordance with the following provisions of this regulation.
 
-(2)[^key-a1a3612b0b1758568092e61ba1711aed] In regulation 19 (time for claiming benefit)[^f00005]—
+(2)[^c-a1a3612b0b1758568092e61ba1711aed] In regulation 19 (time for claiming benefit)[^f00005]—
 
 - (a) in paragraph (3)(ga)[^f00006] after “bereavement benefit” there shall be added “, except for a bereavement payment within the meaning of section 36 of the Contributions and Benefits Act”; and
 - (b) after paragraph (3) there shall be inserted the following paragraph—
@@ -60,7 +60,7 @@ These Regulations may be cited as the Social Security (Claims and Payments and M
 
   .
 
-(3)[^key-cc3327a6e619eedc3ae1437e57a8209e] Regulation 36 (payment to a partner as alternative payee)[^f00007] shall be renumbered paragraph (1) of regulation 36 and there shall be added the following paragraph—
+(3)[^c-cc3327a6e619eedc3ae1437e57a8209e] Regulation 36 (payment to a partner as alternative payee)[^f00007] shall be renumbered paragraph (1) of regulation 36 and there shall be added the following paragraph—
 
 > (2) Where a person is entitled to a winter fuel payment within the meaning of the Social Fund Winter Fuel Payment Regulations 2000[^f00008] and—
 >
@@ -72,11 +72,11 @@ These Regulations may be cited as the Social Security (Claims and Payments and M
 
 .
 
-## 3. Amendment of the Social Fund Winter Fuel Payment Regulations 2000[^key-0cf1f413e520b9ab675f46199bc02433]
+## 3. Amendment of the Social Fund Winter Fuel Payment Regulations 2000[^c-0cf1f413e520b9ab675f46199bc02433]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provision[^key-d7f34bb13707a25c52a455f015d3f4ba]
+## 4. Transitional provision[^c-d7f34bb13707a25c52a455f015d3f4ba]
 
 Regulation 2(2) of these Regulations shall only have effect in respect of a person who is entitled to a bereavement payment because of the death of a spouse occurring on or after 1st April 2003.
 
@@ -110,13 +110,13 @@ These Regulations do not impose a charge on business.
 
 [^f00003]: Footnote: *See* section 173(1)(b) of the Social Security Administration Act 1992.
 
-[^key-571db52f95d4bb4cdee113c1c6b1d1b4]: Commencement: Reg. 1 in force at 2.11.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2660/regulation/1)
+[^c-571db52f95d4bb4cdee113c1c6b1d1b4]: Commencement: Reg. 1 in force at 2.11.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2660/regulation/1)
 
-[^key-cc3327a6e619eedc3ae1437e57a8209e]: Commencement: Reg. 2(1)(3) in force at 2.11.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2660/regulation/1)
+[^c-cc3327a6e619eedc3ae1437e57a8209e]: Commencement: Reg. 2(1)(3) in force at 2.11.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2660/regulation/1)
 
-[^key-a1a3612b0b1758568092e61ba1711aed]: Commencement: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2002/2660/regulation/2/2) in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2660/regulation/1)
+[^c-a1a3612b0b1758568092e61ba1711aed]: Commencement: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2002/2660/regulation/2/2) in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2660/regulation/1)
 
-[^key-9018860ff19ec8f806004c5c2ac9798e]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2002/2660/regulation/2) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-9018860ff19ec8f806004c5c2ac9798e]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2002/2660/regulation/2) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^f00004]: Footnote: S.I. [1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
 
@@ -130,6 +130,6 @@ These Regulations do not impose a charge on business.
 
 [^f00009]: Footnote: Regulation 1(3) was substituted by S.I. [2001/3375](https://www.legislation.gov.uk/uksi/2001/3375).
 
-[^key-0cf1f413e520b9ab675f46199bc02433]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2002/2660/regulation/3) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
+[^c-0cf1f413e520b9ab675f46199bc02433]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2002/2660/regulation/3) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
 
-[^key-d7f34bb13707a25c52a455f015d3f4ba]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2002/2660/regulation/4) in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2660/regulation/1)
+[^c-d7f34bb13707a25c52a455f015d3f4ba]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2002/2660/regulation/4) in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2660/regulation/1)

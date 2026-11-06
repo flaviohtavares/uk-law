@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Particular frequencies to be included in 3.6 GHz licence granted to a winning bidder[^key-56a1c4b32183bcfa2f48ca82bed794e0]
+## 112. Particular frequencies to be included in 3.6 GHz licence granted to a winning bidder[^c-56a1c4b32183bcfa2f48ca82bed794e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56a1c4b32183bcfa2f48ca82bed794e0]: Commencement: Reg. 112 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-56a1c4b32183bcfa2f48ca82bed794e0]: Commencement: Reg. 112 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

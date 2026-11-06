@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. In order to comply with rule 3.11.25(5) of the Investment Funds sourcebook[^key-622d5e8c062d2ca7ddc2ab8c98c46325] the depositary shall:
+1. In order to comply with rule 3.11.25(5) of the Investment Funds sourcebook[^c-622d5e8c062d2ca7ddc2ab8c98c46325] the depositary shall:
 
 - (a) ensure that the net income calculation, once declared by the AIFM, is applied in accordance with the AIF rules, instruments of incorporation and applicable national law;
 - (b) ensure that appropriate measures are taken where the AIF’s auditors have expressed reserves on the annual financial statements. The AIF or the AIFM acting on behalf of the AIF shall provide the depositary with all information on reserves expressed on the financial statements; and
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-622d5e8c062d2ca7ddc2ab8c98c46325]: Textual amendment: Words in Art. 97(1) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [34(14)](https://www.legislation.gov.uk/uksi/2019/328/regulation/34) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-622d5e8c062d2ca7ddc2ab8c98c46325]: Textual amendment: Words in Art. 97(1) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [34(14)](https://www.legislation.gov.uk/uksi/2019/328/regulation/34) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

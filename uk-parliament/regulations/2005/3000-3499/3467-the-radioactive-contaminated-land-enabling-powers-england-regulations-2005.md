@@ -50,10 +50,10 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) In these Regulations—
 
-- [^key-00801956d85359adcdb03ce51993b4da]...
+- [^c-00801956d85359adcdb03ce51993b4da]...
 - “**Part 2A**” means Part 2A of the Environmental Protection Act 1990;
-- “**relevant harm**” means harm so far as attributable to any radioactivity possessed by any substance; [^key-5df1402c7b9227791069c6621b163859]...
-- [^key-5df1402c7b9227791069c6621b163859]...
+- “**relevant harm**” means harm so far as attributable to any radioactivity possessed by any substance; [^c-5df1402c7b9227791069c6621b163859]...
+- [^c-5df1402c7b9227791069c6621b163859]...
 
 (4) For the purposes of paragraph (3) “**the Directive**” means Council Directive 96/29/Euratom [^c1242951] laying down basic safety standards for the protection of the health of workers and the general public against the dangers arising from ionizing radiation, and for the purposes of Schedule 2 “this Directive” has the same meaning.
 
@@ -61,7 +61,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 For the purposes of the exercise by the Secretary of State of any power conferred by Part 2A to make regulations or orders, give directions or issue guidance in relation to relevant harm, Part 2A shall apply in relation to such harm, and shall have effect with the modifications made by Schedule 1 for the purpose of dealing with such harm.
 
-## 3. Interpretation of modifications[^key-cc7a1c2473fb6f73d3245624aaa50953]
+## 3. Interpretation of modifications[^c-cc7a1c2473fb6f73d3245624aaa50953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -92,7 +92,7 @@ Regulation 2
 
 (3) For subsection (4), substitute—
 
-> (4) “**Harm**” means lasting exposure to any person resulting from the after-effects of an[^key-5a2ad9c9fd0b01838f8f76c5f52498b4] emergency, past practice or past work activity (except in section 78E(4A)(a))[^key-10f296aa0b29aec4ebb099228c7d90f2].
+> (4) “**Harm**” means lasting exposure to any person resulting from the after-effects of an[^c-5a2ad9c9fd0b01838f8f76c5f52498b4] emergency, past practice or past work activity (except in section 78E(4A)(a))[^c-10f296aa0b29aec4ebb099228c7d90f2].
 
 .
 
@@ -128,23 +128,23 @@ Regulation 2
 >   - (ii) of restoring the land to its former state; or
 > - (c) the making of subsequent inspections from time to time for the purpose of keeping under review the condition of the land;
 >
-> and references to remediating[^key-3c29914fa1b9644208dc7f48db89cbe7] shall be construed accordingly.
+> and references to remediating[^c-3c29914fa1b9644208dc7f48db89cbe7] shall be construed accordingly.
 >
 > (7A) For the purpose of paragraph (b) of subsection (7) above, “the doing of any works, the carrying out of any operations or the taking of any steps in relation to any such land” shall include ensuring that—
 >
 > - (a) any such area is demarcated;
-> - (aa)[^key-62e9b54f578efbf2b402cc9b5aba263a] affected members of the public are identified;
+> - (aa)[^c-62e9b54f578efbf2b402cc9b5aba263a] affected members of the public are identified;
 > - (ab) assessment of the means available to the individuals identified under paragraph (aa) for controlling their own exposure is made;
 > - (b) arrangements for the monitoring of the harm are made;
-> - (c)[^key-45066c7388b079d176854b374793b1e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-> - (d) access to or use of land or buildings situated in the demarcated area is regulated ; and[^key-c5a0985c2bc69723e185722d401cd850]
-> - (e)[^key-2ca81e1dd1c2bb31a3ef966b75316ebf] any other appropriate protective or remedial measure is implemented.
+> - (c)[^c-45066c7388b079d176854b374793b1e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (d) access to or use of land or buildings situated in the demarcated area is regulated ; and[^c-c5a0985c2bc69723e185722d401cd850]
+> - (e)[^c-2ca81e1dd1c2bb31a3ef966b75316ebf] any other appropriate protective or remedial measure is implemented.
 
 .
 
 (7) Subsection (8) is omitted.
 
-(8)[^key-f9400afedc290e742fd34b2014f52f4f] In subsection (9)—
+(8)[^c-f9400afedc290e742fd34b2014f52f4f] In subsection (9)—
 
 - (a) omit the definition of “controlled waters”;
 - (b) for the definition of “substance”, substitute—
@@ -158,7 +158,7 @@ Regulation 2
 
   .
 
-(9)[^key-8d36e9f1c99f9c80a603f79e3edc1a97] After subsection (9) insert—
+(9)[^c-8d36e9f1c99f9c80a603f79e3edc1a97] After subsection (9) insert—
 
 > (9A) When reading Council Directive 2013/59/Euratom for the purposes of subsection (9), Article 4(43) of that Directive (definition of inspection) is to be read as if, for the words “any competent authority”, there were substituted “the enforcing authority”.
 
@@ -201,7 +201,7 @@ Regulation 2
 > - (a) the cost which is likely to be involved; and
 > - (b) the seriousness of the harm in question.
 >
-> (4A)[^key-24d9cba0270d4fbd6c082e989c29edbf] Where remediation includes the implementation of a protective or remedial measure, that part of the remediation which consists of the implementation of any such measure may be considered reasonable only—
+> (4A)[^c-24d9cba0270d4fbd6c082e989c29edbf] Where remediation includes the implementation of a protective or remedial measure, that part of the remediation which consists of the implementation of any such measure may be considered reasonable only—
 >
 > - (a) where the measure does more good than harm; and
 > - (b) where the form, scale and duration of the measure is optimised.
@@ -229,85 +229,85 @@ Regulation 2
 
 .
 
-## SCHEDULE 2 — DIRECTIVE DEFINITIONS[^key-632f8e40a9cefdbf16f429803d70edcb]
+## SCHEDULE 2 — DIRECTIVE DEFINITIONS[^c-632f8e40a9cefdbf16f429803d70edcb]
 
 **No longer in force.**
 
 Regulations 1(4) and 3
 
-[^key-632f8e40a9cefdbf16f429803d70edcb]
+[^c-632f8e40a9cefdbf16f429803d70edcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-632f8e40a9cefdbf16f429803d70edcb]
+[^c-632f8e40a9cefdbf16f429803d70edcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-632f8e40a9cefdbf16f429803d70edcb]
+[^c-632f8e40a9cefdbf16f429803d70edcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-632f8e40a9cefdbf16f429803d70edcb]
+[^c-632f8e40a9cefdbf16f429803d70edcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-632f8e40a9cefdbf16f429803d70edcb]
+[^c-632f8e40a9cefdbf16f429803d70edcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-632f8e40a9cefdbf16f429803d70edcb]
+[^c-632f8e40a9cefdbf16f429803d70edcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-632f8e40a9cefdbf16f429803d70edcb]
+[^c-632f8e40a9cefdbf16f429803d70edcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-632f8e40a9cefdbf16f429803d70edcb]
+[^c-632f8e40a9cefdbf16f429803d70edcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-632f8e40a9cefdbf16f429803d70edcb]
+[^c-632f8e40a9cefdbf16f429803d70edcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-632f8e40a9cefdbf16f429803d70edcb]
+[^c-632f8e40a9cefdbf16f429803d70edcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-632f8e40a9cefdbf16f429803d70edcb]
+[^c-632f8e40a9cefdbf16f429803d70edcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-632f8e40a9cefdbf16f429803d70edcb]
+[^c-632f8e40a9cefdbf16f429803d70edcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-632f8e40a9cefdbf16f429803d70edcb]
+[^c-632f8e40a9cefdbf16f429803d70edcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-632f8e40a9cefdbf16f429803d70edcb]
+[^c-632f8e40a9cefdbf16f429803d70edcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-632f8e40a9cefdbf16f429803d70edcb]
+[^c-632f8e40a9cefdbf16f429803d70edcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-632f8e40a9cefdbf16f429803d70edcb]
+[^c-632f8e40a9cefdbf16f429803d70edcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-632f8e40a9cefdbf16f429803d70edcb]
+[^c-632f8e40a9cefdbf16f429803d70edcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-632f8e40a9cefdbf16f429803d70edcb]
+[^c-632f8e40a9cefdbf16f429803d70edcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-632f8e40a9cefdbf16f429803d70edcb]
+[^c-632f8e40a9cefdbf16f429803d70edcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -323,32 +323,32 @@ A regulatory impact assessment has not been produced for this instrument as it h
 
 [^c1242950]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Sections 78A to 78YC were inserted by section 57 of the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25). See the definitions of “prescribed” and “regulations” in section 78A(9). The powers under these sections have been transferred in relation to [Wales (see article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672)) and devolved to Scottish Ministers (see [section 53](https://www.legislation.gov.uk/uksi/1999/672/section/53) of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46)).
 
-[^key-00801956d85359adcdb03ce51993b4da]: Textual amendment: Words in reg. 1(3) omitted (18.4.2018) by virtue of [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/2/a/i)
+[^c-00801956d85359adcdb03ce51993b4da]: Textual amendment: Words in reg. 1(3) omitted (18.4.2018) by virtue of [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/2/a/i)
 
-[^key-5df1402c7b9227791069c6621b163859]: Textual amendment: Words in reg. 1(3) omitted (18.4.2018) by virtue of [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/2/a/ii)
+[^c-5df1402c7b9227791069c6621b163859]: Textual amendment: Words in reg. 1(3) omitted (18.4.2018) by virtue of [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/2/a/ii)
 
 [^c1242951]: Marginal citation: OJ No L 159, 29.06.1996, p.1.
 
-[^key-cc7a1c2473fb6f73d3245624aaa50953]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/3467/regulation/3) omitted (18.4.2018) by virtue of [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/3)
+[^c-cc7a1c2473fb6f73d3245624aaa50953]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/3467/regulation/3) omitted (18.4.2018) by virtue of [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/3)
 
-[^key-5a2ad9c9fd0b01838f8f76c5f52498b4]: Textual amendment: Word in Sch. 1 para. 1(3) substituted (18.4.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/4/a/i)
+[^c-5a2ad9c9fd0b01838f8f76c5f52498b4]: Textual amendment: Word in Sch. 1 para. 1(3) substituted (18.4.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/4/a/i)
 
-[^key-10f296aa0b29aec4ebb099228c7d90f2]: Textual amendment: Word in Sch. 1 para. 1(3) inserted (18.4.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/4/a/ii)
+[^c-10f296aa0b29aec4ebb099228c7d90f2]: Textual amendment: Word in Sch. 1 para. 1(3) inserted (18.4.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/4/a/ii)
 
-[^key-3c29914fa1b9644208dc7f48db89cbe7]: Textual amendment: Word in Sch. 1 para. 1(6) substituted (18.4.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/4/b)
+[^c-3c29914fa1b9644208dc7f48db89cbe7]: Textual amendment: Word in Sch. 1 para. 1(6) substituted (18.4.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/4/b)
 
-[^key-62e9b54f578efbf2b402cc9b5aba263a]: Textual amendment: Words in Sch. 1 para. 1(6) inserted (18.4.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(4)(c)(i)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/4/c/i)
+[^c-62e9b54f578efbf2b402cc9b5aba263a]: Textual amendment: Words in Sch. 1 para. 1(6) inserted (18.4.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(4)(c)(i)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/4/c/i)
 
-[^key-45066c7388b079d176854b374793b1e2]: Textual amendment: Words in Sch. 1 para. 1(6) omitted (18.4.2018) by virtue of [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/4/c/ii)
+[^c-45066c7388b079d176854b374793b1e2]: Textual amendment: Words in Sch. 1 para. 1(6) omitted (18.4.2018) by virtue of [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/4/c/ii)
 
-[^key-c5a0985c2bc69723e185722d401cd850]: Textual amendment: Word in Sch. 1 para. 1(6) inserted (18.4.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/4/c/iii)
+[^c-c5a0985c2bc69723e185722d401cd850]: Textual amendment: Word in Sch. 1 para. 1(6) inserted (18.4.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/4/c/iii)
 
-[^key-2ca81e1dd1c2bb31a3ef966b75316ebf]: Textual amendment: Words in Sch. 1 para. 1(6) inserted (18.4.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(4)(c)(iv)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/4/c/iv)
+[^c-2ca81e1dd1c2bb31a3ef966b75316ebf]: Textual amendment: Words in Sch. 1 para. 1(6) inserted (18.4.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(4)(c)(iv)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/4/c/iv)
 
-[^key-f9400afedc290e742fd34b2014f52f4f]: Textual amendment: Sch. 1 para. 1(8) substituted (18.4.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(4)(d)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/4/d)
+[^c-f9400afedc290e742fd34b2014f52f4f]: Textual amendment: Sch. 1 para. 1(8) substituted (18.4.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(4)(d)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/4/d)
 
-[^key-8d36e9f1c99f9c80a603f79e3edc1a97]: Textual amendment: [Sch. 1 para. 1(9)](https://www.legislation.gov.uk/uksi/2005/3467/schedule/1/paragraph/1/9) inserted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2019/24/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8d36e9f1c99f9c80a603f79e3edc1a97]: Textual amendment: [Sch. 1 para. 1(9)](https://www.legislation.gov.uk/uksi/2005/3467/schedule/1/paragraph/1/9) inserted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2019/24/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-24d9cba0270d4fbd6c082e989c29edbf]: Textual amendment: Words in [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2005/3467/schedule/1/paragraph/4/2) substituted (18.4.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(4)(e)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/4/e)
+[^c-24d9cba0270d4fbd6c082e989c29edbf]: Textual amendment: Words in [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2005/3467/schedule/1/paragraph/4/2) substituted (18.4.2018) by [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(4)(e)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/4/e)
 
-[^key-632f8e40a9cefdbf16f429803d70edcb]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/3467/schedule/2) omitted (18.4.2018) by virtue of [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/5)
+[^c-632f8e40a9cefdbf16f429803d70edcb]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/3467/schedule/2) omitted (18.4.2018) by virtue of [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2018 (S.I. 2018/429)](https://www.legislation.gov.uk/uksi/2018/429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/429/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2018/429/regulation/2/5)

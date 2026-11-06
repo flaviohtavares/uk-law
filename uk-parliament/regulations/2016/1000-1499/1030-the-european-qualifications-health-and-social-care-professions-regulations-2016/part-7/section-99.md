@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Introductory[^key-98ac0dc568130f3321091cd6321d6fa9]
+## 99. Introductory[^c-98ac0dc568130f3321091cd6321d6fa9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Care Standards Act 2000[^f00080] is amended in accordance with this Chapter.
 
 ## Annotations
 
-[^key-98ac0dc568130f3321091cd6321d6fa9]: Commencement: Reg. 99 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-98ac0dc568130f3321091cd6321d6fa9]: Commencement: Reg. 99 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00080]: Footnote: c. 14.

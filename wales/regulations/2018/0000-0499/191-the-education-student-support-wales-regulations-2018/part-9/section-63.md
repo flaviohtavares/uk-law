@@ -25,13 +25,13 @@ summary: ''
 - (a) which the Welsh Ministers think appropriate, but
 - (b) which does not exceed the aggregate amount of the limits applicable in respect of the Cases listed in paragraph (2).
 
-(2)[^key-dc048f40d2a701e5ff10257a4b3bb42b] The Cases and limits are—
+(2)[^c-dc048f40d2a701e5ff10257a4b3bb42b] The Cases and limits are—
 
 *Case 1*
 
 Expenditure required on a non-medical personal helper, major items of specialist equipment and any other expenditure the eligible student incurs in connection with the course by reason of the student’s disability (apart from the expenditure specified in Case 2).
 
-Limit of £34,671[^key-4aa5497998784ad39e10323985e3169a] in respect of an academic year of a course.
+Limit of £34,671[^c-4aa5497998784ad39e10323985e3169a] in respect of an academic year of a course.
 
 *Case 2*
 
@@ -44,6 +44,6 @@ Limited to the actual expenditure incurred for this purpose.
 
 ## Annotations
 
-[^key-dc048f40d2a701e5ff10257a4b3bb42b]: Textual amendment: [Reg. 63(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/63/2) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/73)](https://www.legislation.gov.uk/uksi/2021/73), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/73/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2021/73/regulation/9)
+[^c-dc048f40d2a701e5ff10257a4b3bb42b]: Textual amendment: [Reg. 63(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/63/2) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/73)](https://www.legislation.gov.uk/uksi/2021/73), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/73/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2021/73/regulation/9)
 
-[^key-4aa5497998784ad39e10323985e3169a]: Textual amendment: Sum in [reg. 63(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/63/2) substituted (12.2.2026 with application in accordance with reg. 2(1)(b) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [40](https://www.legislation.gov.uk/wsi/2026/11/regulation/40)
+[^c-4aa5497998784ad39e10323985e3169a]: Textual amendment: Sum in [reg. 63(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/63/2) substituted (12.2.2026 with application in accordance with reg. 2(1)(b) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [40](https://www.legislation.gov.uk/wsi/2026/11/regulation/40)

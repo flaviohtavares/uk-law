@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Acquisition of part of certain properties[^key-e9059751561d52f24a2f9e8a00e42c3e]
+## 37. Acquisition of part of certain properties[^c-e9059751561d52f24a2f9e8a00e42c3e]
 
 *Extent: E+W*
 
@@ -65,6 +65,6 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 
 ## Annotations
 
-[^key-e9059751561d52f24a2f9e8a00e42c3e]: Commencement: Art. 37 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-e9059751561d52f24a2f9e8a00e42c3e]: Commencement: Art. 37 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
 
 [^f00041]: Footnote: Section 8 was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).

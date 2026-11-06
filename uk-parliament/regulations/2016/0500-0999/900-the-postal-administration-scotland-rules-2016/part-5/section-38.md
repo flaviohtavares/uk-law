@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Secured debts[^key-da0968f6d014fa678464b80d5dc7e121]
+## 38. Secured debts[^c-da0968f6d014fa678464b80d5dc7e121]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ Provided that if a secured creditor surrenders, or undertakes in writing to surr
 
 ## Annotations
 
-[^key-da0968f6d014fa678464b80d5dc7e121]: Commencement: Rule 38 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-da0968f6d014fa678464b80d5dc7e121]: Commencement: Rule 38 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

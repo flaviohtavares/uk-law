@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If not a Member of the Senedd[^key-9348d22b2d042136af6e1508e7843105] the Counsel General may participate in Senedd[^key-60edd79c70d763519861630d1afb7962] proceedings to the extent permitted by the standing orders, but may not vote.
+(1) If not a Member of the Senedd[^c-9348d22b2d042136af6e1508e7843105] the Counsel General may participate in Senedd[^c-60edd79c70d763519861630d1afb7962] proceedings to the extent permitted by the standing orders, but may not vote.
 
 (2) And the standing orders may in other respects provide that they are to apply to the Counsel General if not a Member of the Senedd as to a Member of the Senedd.
 
@@ -33,6 +33,6 @@ summary: ''
 
 [^c16526701]: Commencement: Ss. 1-94, 97-106 in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-9348d22b2d042136af6e1508e7843105]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(15)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/15) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
+[^c-9348d22b2d042136af6e1508e7843105]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(15)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/15) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))

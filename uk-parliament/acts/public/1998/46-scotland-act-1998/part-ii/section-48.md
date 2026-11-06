@@ -22,7 +22,7 @@ summary: ''
 
 (1) It is for the First Minister to recommend to Her Majesty the appointment or removal of a person as Lord Advocate or Solicitor General for Scotland; but he shall not do so without the agreement of the Parliament.
 
-(2) The Lord Advocate and the Solicitor General for Scotland may at any time resign and shall do so if the Parliament resolves that the Scottish Government[^key-1a6eec0a223077253e974615c6946a62] no longer enjoys the confidence of the Parliament.
+(2) The Lord Advocate and the Solicitor General for Scotland may at any time resign and shall do so if the Parliament resolves that the Scottish Government[^c-1a6eec0a223077253e974615c6946a62] no longer enjoys the confidence of the Parliament.
 
 (3) Where the Lord Advocate resigns in consequence of such a resolution, he shall be deemed to continue in office until the warrant of appointment of the person succeeding to the office of Lord Advocate is granted, but only for the purpose of exercising his retained functions.
 
@@ -36,7 +36,7 @@ summary: ''
 
 [^c12394211]: Commencement: S. 48(1) in force at 6.5.1999 for certain purposes and 20.5.1999 otherwise and s. 48(2)-(6) in force at 20.5.1999 by [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2(2)](https://www.legislation.gov.uk/uksi/1998/3178/article/2/2), [Schs. 3](https://www.legislation.gov.uk/uksi/1998/3178/schedule/3), [4](https://www.legislation.gov.uk/uksi/1998/3178/schedule/4)
 
-[^key-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
+[^c-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
 
 [^c12394221]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 

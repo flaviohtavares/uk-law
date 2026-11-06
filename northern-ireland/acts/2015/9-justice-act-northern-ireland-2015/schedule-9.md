@@ -22,7 +22,7 @@ summary: ''
 
 Section 105.
 
-### PART 1 — SINGLE JURISDICTION[^key-29c882549e67a096096a19a225652919]
+### PART 1 — SINGLE JURISDICTION[^c-29c882549e67a096096a19a225652919]
 
 <table>
 <tbody>
@@ -309,7 +309,7 @@ Section 105.
 </tbody>
 </table>
 
-### PART 2 — RESTRICTION ON HOLDING PRELIMINARY INVESTIGATIONS AND MIXED COMMITTALS[^key-3c6293e80530582e31e237ac4d0bca51]
+### PART 2 — RESTRICTION ON HOLDING PRELIMINARY INVESTIGATIONS AND MIXED COMMITTALS[^c-3c6293e80530582e31e237ac4d0bca51]
 
 **Not yet in force.**
 
@@ -334,7 +334,7 @@ Section 105.
 </tbody>
 </table>
 
-### PART 4 — LIVE LINKS[^key-391ff2b9fa6582e261024464b5849866]
+### PART 4 — LIVE LINKS[^c-391ff2b9fa6582e261024464b5849866]
 
 <table>
 <tbody>
@@ -372,8 +372,8 @@ Section 105.
 
 ## Annotations
 
-[^key-29c882549e67a096096a19a225652919]: Commencement: [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-29c882549e67a096096a19a225652919]: Commencement: [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-3c6293e80530582e31e237ac4d0bca51]: Textual amendment: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/2) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 18(d)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/18/d); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-3c6293e80530582e31e237ac4d0bca51]: Textual amendment: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/2) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 18(d)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/18/d); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-391ff2b9fa6582e261024464b5849866]: Commencement: Sch. 9 Pt. 4 in operation at 29.4.2016 for specified purposes by [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 4(e)](https://www.legislation.gov.uk/nisr/2016/136/article/4/e)
+[^c-391ff2b9fa6582e261024464b5849866]: Commencement: Sch. 9 Pt. 4 in operation at 29.4.2016 for specified purposes by [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 4(e)](https://www.legislation.gov.uk/nisr/2016/136/article/4/e)

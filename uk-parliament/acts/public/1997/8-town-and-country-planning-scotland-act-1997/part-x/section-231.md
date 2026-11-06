@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 231. Objections to orders under sections 228 and 230.[^key-23c8d6ba82c6ea621f49cb8dcdd46bbb]
+## 231. Objections to orders under sections 228 and 230.[^c-23c8d6ba82c6ea621f49cb8dcdd46bbb]
 
 *Extent: S*
 
@@ -55,7 +55,7 @@ the Scottish Ministers may make a final decision without further investigation a
 
 ## Annotations
 
-[^key-23c8d6ba82c6ea621f49cb8dcdd46bbb]: Modification: S. 231 modified (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 9 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/7/2/b); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-23c8d6ba82c6ea621f49cb8dcdd46bbb]: Modification: S. 231 modified (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 9 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/7/2/b); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
 [^c950323]: Textual amendment: Words in s. 231(3) substituted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 127(14)(a)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/127/14/a); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 

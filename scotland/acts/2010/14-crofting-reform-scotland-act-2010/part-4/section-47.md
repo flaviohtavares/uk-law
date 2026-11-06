@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Enlargement of common grazings[^key-e5f94a61f669e3d3397b0e3221b4e8d3][^key-411e8d05e499bb4cdafce8e43d82848f]
+## 47. Enlargement of common grazings[^c-e5f94a61f669e3d3397b0e3221b4e8d3][^c-411e8d05e499bb4cdafce8e43d82848f]
 
 *Extent: S*
 
@@ -47,6 +47,6 @@ For section 51 of the 1993 Act (enlargement of common grazings) substitute—
 
 ## Annotations
 
-[^key-e5f94a61f669e3d3397b0e3221b4e8d3]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2010/14/section/47) in force at 1.10.2011 for specified purposes by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [arts. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4), [5(3)](https://www.legislation.gov.uk/ssi/2011/334/article/5/3))
+[^c-e5f94a61f669e3d3397b0e3221b4e8d3]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2010/14/section/47) in force at 1.10.2011 for specified purposes by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [arts. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4), [5(3)](https://www.legislation.gov.uk/ssi/2011/334/article/5/3))
 
-[^key-411e8d05e499bb4cdafce8e43d82848f]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2010/14/section/47) in force at 30.11.2012 in so far as not already in force by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)
+[^c-411e8d05e499bb4cdafce8e43d82848f]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2010/14/section/47) in force at 30.11.2012 in so far as not already in force by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)

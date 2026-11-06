@@ -33,7 +33,7 @@ Agriculture, Wales
 
 Water, Wales
 
-The Nitrate Pollution Prevention (Wales) (Amendment) Regulations 2019 (revoked)[^key-d6be81439198346e136a38691e915df3]
+The Nitrate Pollution Prevention (Wales) (Amendment) Regulations 2019 (revoked)[^c-d6be81439198346e136a38691e915df3]
 
 Made
 
@@ -45,48 +45,48 @@ Laid before the National Assembly for Wales
 
 Coming into force in accordance with regulation 1
 
-[^key-d6be81439198346e136a38691e915df3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6be81439198346e136a38691e915df3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-d6be81439198346e136a38691e915df3]
+## 1. Title and commencement[^c-d6be81439198346e136a38691e915df3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Nitrate Pollution Prevention (Wales) Regulations 2013[^key-d6be81439198346e136a38691e915df3]
+## 2. Amendment of the Nitrate Pollution Prevention (Wales) Regulations 2013[^c-d6be81439198346e136a38691e915df3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 4 (transitional measures for holdings not previously in a nitrate-vulnerable zone)[^key-d6be81439198346e136a38691e915df3]
+## 3. Amendment of regulation 4 (transitional measures for holdings not previously in a nitrate-vulnerable zone)[^c-d6be81439198346e136a38691e915df3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 6 (interpretation)[^key-d6be81439198346e136a38691e915df3]
+## 4. Amendment of regulation 6 (interpretation)[^c-d6be81439198346e136a38691e915df3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 7 (designation of nitrate vulnerable zones)[^key-d6be81439198346e136a38691e915df3]
+## 5. Amendment of regulation 7 (designation of nitrate vulnerable zones)[^c-d6be81439198346e136a38691e915df3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 11 (review of nitrate vulnerable zones)[^key-d6be81439198346e136a38691e915df3]
+## 6. Amendment of regulation 11 (review of nitrate vulnerable zones)[^c-d6be81439198346e136a38691e915df3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 36 (recording the size of the holding)[^key-d6be81439198346e136a38691e915df3]
+## 7. Amendment of regulation 36 (recording the size of the holding)[^c-d6be81439198346e136a38691e915df3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of regulation 37 (records relating to storage of manure during the storage period)[^key-d6be81439198346e136a38691e915df3]
+## 8. Amendment of regulation 37 (records relating to storage of manure during the storage period)[^c-d6be81439198346e136a38691e915df3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6be81439198346e136a38691e915df3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6be81439198346e136a38691e915df3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d6be81439198346e136a38691e915df3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6be81439198346e136a38691e915df3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d6be81439198346e136a38691e915df3]: Textual amendment: Regulations revoked (1.4.2021) by [The Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021 (S.I. 2021/77)](https://www.legislation.gov.uk/uksi/2021/77), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/77/regulation/1/3), [48(2)(c)](https://www.legislation.gov.uk/uksi/2021/77/regulation/48/2/c)
+[^c-d6be81439198346e136a38691e915df3]: Textual amendment: Regulations revoked (1.4.2021) by [The Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021 (S.I. 2021/77)](https://www.legislation.gov.uk/uksi/2021/77), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/77/regulation/1/3), [48(2)(c)](https://www.legislation.gov.uk/uksi/2021/77/regulation/48/2/c)

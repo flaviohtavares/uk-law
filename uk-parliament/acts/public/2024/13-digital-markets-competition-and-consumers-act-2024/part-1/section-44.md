@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Duration and revocation of final offer orders[^key-24a5a491b857147f729a12e8d78a0a56][^key-5053b85d4d9207dd6fc459b17c910456]
+## 44. Duration and revocation of final offer orders[^c-24a5a491b857147f729a12e8d78a0a56][^c-5053b85d4d9207dd6fc459b17c910456]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-24a5a491b857147f729a12e8d78a0a56]: Commencement: S. 44 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-24a5a491b857147f729a12e8d78a0a56]: Commencement: S. 44 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-5053b85d4d9207dd6fc459b17c910456]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2024/13/section/44) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-5053b85d4d9207dd6fc459b17c910456]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2024/13/section/44) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

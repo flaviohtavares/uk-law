@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — Modification of the Roles and Procedures Regulations[^key-0d6f48af52d3dfa9102c301104069577]
+## SCHEDULE 6 — Modification of the Roles and Procedures Regulations[^c-0d6f48af52d3dfa9102c301104069577]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ Regulation 24
 
 ## Annotations
 
-[^key-0d6f48af52d3dfa9102c301104069577]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2012/1035/schedule/6) substituted (1.9.2013) by [The School Governance (Roles, Procedures and Allowances) (England) Regulations 2013 (S.I. 2013/1624)](https://www.legislation.gov.uk/uksi/2013/1624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1), [Sch. 2 para. 2(e)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/2/paragraph/2/e) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/3))
+[^c-0d6f48af52d3dfa9102c301104069577]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2012/1035/schedule/6) substituted (1.9.2013) by [The School Governance (Roles, Procedures and Allowances) (England) Regulations 2013 (S.I. 2013/1624)](https://www.legislation.gov.uk/uksi/2013/1624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1), [Sch. 2 para. 2(e)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/2/paragraph/2/e) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/3))

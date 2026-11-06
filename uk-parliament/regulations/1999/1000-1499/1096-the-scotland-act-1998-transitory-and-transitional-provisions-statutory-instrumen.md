@@ -42,9 +42,9 @@ Laid before Parliament
 
 Coming into force in accordance with article 1
 
-The Secretary of State, in exercise of the powers conferred on him by sections 112(1), 113, 114(1), 124(2) and 129(1) of the Scotland Act 1998[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Order:[^key-3fef4c6ca182c1ecae212f762a0724b1]
+The Secretary of State, in exercise of the powers conferred on him by sections 112(1), 113, 114(1), 124(2) and 129(1) of the Scotland Act 1998[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Order:[^c-3fef4c6ca182c1ecae212f762a0724b1]
 
-## 1. Citation and commencement[^key-f8eccbe94e1956b1a548130588862e6c]
+## 1. Citation and commencement[^c-f8eccbe94e1956b1a548130588862e6c]
 
 **No longer in force.**
 
@@ -54,13 +54,13 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Modification of enactments[^key-f8eccbe94e1956b1a548130588862e6c]
+## 3. Modification of enactments[^c-f8eccbe94e1956b1a548130588862e6c]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Application[^key-c40938e46acc93394af5150520549deb][^key-307f696b71e9b791d786dd660e3f8e47]
+## 4. Application[^c-c40938e46acc93394af5150520549deb][^c-307f696b71e9b791d786dd660e3f8e47]
 
 (1) This Order shall apply in relation to–
 
@@ -78,7 +78,7 @@ where the document by which that function is exercised is (whether by virtue of 
 - (b) which is made jointly by a Minister of the Crown and by a member of the Scottish Executive or by a relevant Scottish public authority; or
 - (c) which is an Order in Council made by Her Majesty under section 1 of the United Nations Act 1946[^f00004].
 
-(4)[^key-307f696b71e9b791d786dd660e3f8e47] Articles 10 to 15 as they apply (or will, as from the principal appointed day, apply) to a Scottish statutory instrument shall also apply where any enactment provides, or has the effect of providing, that any other statutory instrument is–
+(4)[^c-307f696b71e9b791d786dd660e3f8e47] Articles 10 to 15 as they apply (or will, as from the principal appointed day, apply) to a Scottish statutory instrument shall also apply where any enactment provides, or has the effect of providing, that any other statutory instrument is–
 
 - (a) to be laid before the Scottish Parliament after being made; or
 - (b) to be subject to annulment in pursuance of a resolution of the Scottish Parliament,
@@ -87,9 +87,9 @@ or that any draft of any other statutory instrument is to be laid before the Sco
 
 (5) Article 14 as it applies to a Scottish statutory instrument shall also apply where any enactment provides, or has the effect of providing, that any other instrument or document is to be laid before the Scottish Parliament.
 
-(6)[^key-33fe7531925d853454c86100c4aebcfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-33fe7531925d853454c86100c4aebcfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Numbering and citation[^key-1a16ee875687a3af86a7ef3bef3c95dc][^key-6a656d8f2c94a979ba7fdfad060a2bcc][^key-86d495c6440431e5607e3e9c42fe2bec]
+## 5. Numbering and citation[^c-1a16ee875687a3af86a7ef3bef3c95dc][^c-6a656d8f2c94a979ba7fdfad060a2bcc][^c-86d495c6440431e5607e3e9c42fe2bec]
 
 (1) Immediately after the making of any Scottish statutory instrument, the responsible authority shall send it to the Queen’s Printer who shall number it in accordance with the following provisions.
 
@@ -107,22 +107,22 @@ the instrument may be allocated and numbered as if it had been made and received
 
 (3) Any Scottish statutory instrument may, without prejudice to any other mode of citation, be cited by the letters “S.S.I.” followed by the calendar year in which it was made and its number in accordance with the provisions of paragraph (2) (for example [S.S.I. 1999/1](https://www.legislation.gov.uk/ssi/1999/1)).
 
-## 6. Classification[^key-f38288d8e51d34b03e902d5d87ed8052][^key-ce1a3583fc407466791f8a90537630ba]
+## 6. Classification[^c-f38288d8e51d34b03e902d5d87ed8052][^c-ce1a3583fc407466791f8a90537630ba]
 
 (1) The responsible authority shall, on sending a Scottish statutory instrument to the Queen’s Printer, certify it as local or general according to its subject matter and, unless the Presiding Officer otherwise directs, the instrument shall be classified accordingly.
 
 (2) Unless there are special reasons to the contrary in any particular case, a Scottish statutory instrument which is in the nature of a local and personal or private Act shall be classified as local, and a Scottish statutory instrument which is in the nature of a public general Act shall be classified as general.
 
-## 7. Printing and sale[^key-b484d4eb9c297f2d959da741d45fd3af][^key-0ab6b2f85d42a44420ae5496cc8c67b8]
+## 7. Printing and sale[^c-b484d4eb9c297f2d959da741d45fd3af][^c-0ab6b2f85d42a44420ae5496cc8c67b8]
 
-(1)[^key-42e9e00558ac50a0e25523e2bb55d42b] Subject to paragraph (2), as soon as possible after the Queen’s Printer has allocated and numbered any Scottish statutory instrument in accordance with article 5(2), copies of it shall be printed and sold by, or under the authority of, the Queen’s Printer.
+(1)[^c-42e9e00558ac50a0e25523e2bb55d42b] Subject to paragraph (2), as soon as possible after the Queen’s Printer has allocated and numbered any Scottish statutory instrument in accordance with article 5(2), copies of it shall be printed and sold by, or under the authority of, the Queen’s Printer.
 
 (2) A Scottish statutory instrument which is classified as a local instrument in accordance with article 6 shall be exempt from the requirements in paragraph (1), unless–
 
 - (a) the Presiding Officer otherwise directs in any particular case; or
 - (b) the responsible authority requests the Queen’s Printer, when sending her the instrument, to comply with those requirements.
 
-## 8. Lists of Scottish statutory instruments[^key-2f97c137dc0c720f9abaa122f4c93338][^key-dfd246de06b257f97e8f7fec5ab3ba06][^key-f21104870d636b1071f65f355a18b9ba]
+## 8. Lists of Scottish statutory instruments[^c-2f97c137dc0c720f9abaa122f4c93338][^c-dfd246de06b257f97e8f7fec5ab3ba06][^c-f21104870d636b1071f65f355a18b9ba]
 
 (1) The Queen’s Printer shall from time to time cause to be published a list to be known as the “Scottish Statutory Instruments Issue List”, showing–
 
@@ -135,7 +135,7 @@ the instrument may be allocated and numbered as if it had been made and received
 
 (4) Except as otherwise expressly provided in paragraph (3), nothing in that paragraph shall affect any enactment or rule of law relating to the time at which any Scottish statutory instrument comes into force.
 
-## 9. Annual edition[^key-8fffb275b3efb1debc4ef2cbd6c05e9d][^key-a4406b6539803085bd8b4f8a05745826][^key-87ee6241cccbda1b3adc274c67faad61]
+## 9. Annual edition[^c-8fffb275b3efb1debc4ef2cbd6c05e9d][^c-a4406b6539803085bd8b4f8a05745826][^c-87ee6241cccbda1b3adc274c67faad61]
 
 (1) As soon as possible after the end of each calendar year, the Queen’s Printer shall cause to be prepared from the series of Scottish statutory instruments up to the end of that year an edition of Scottish statutory instruments (referred to in this article as “the annual edition”) including the following matters:–
 
@@ -151,7 +151,7 @@ the instrument may be allocated and numbered as if it had been made and received
 
 (3) Article 8(2) shall apply to so much of the Annual Numerical and Issue List of Scottish Statutory Instruments in the annual edition as refers to the date upon which any Scottish statutory instrument was first issued by, or under the authority of, the Queen’s Printer as it applies to the list mentioned in that article.
 
-## 10. Scottish statutory instruments which are required to be laid before the Scottish Parliament[^key-e5f42c70c51fc6e5e62b08099d04b176][^key-e27fb4b1bbd695755f07b378afee0bf6]
+## 10. Scottish statutory instruments which are required to be laid before the Scottish Parliament[^c-e5f42c70c51fc6e5e62b08099d04b176][^c-e27fb4b1bbd695755f07b378afee0bf6]
 
 (1) Where any enactment provides, or has the effect of providing, that any Scottish statutory instrument is to be laid before the Scottish Parliament after being made, a copy of the instrument shall, subject to the following provisions, be laid before the Scottish Parliament before the instrument is due to come into force.
 
@@ -169,7 +169,7 @@ the instrument may be made so as to come into force at that time but the respons
 - (a) a statement showing the date on which it came or will come into force; and
 - (b) either a statement showing the date on which such a copy of it was laid before the Scottish Parliament or a statement that such copy is to be laid before the Scottish Parliament.
 
-## 11. Scottish statutory instruments which are subject to annulment by resolution of the Scottish Parliament[^key-ed548d410762897a7d347146c8e1cffa][^key-b25fbbc28860a0b080cf5009e40dc385]
+## 11. Scottish statutory instruments which are subject to annulment by resolution of the Scottish Parliament[^c-ed548d410762897a7d347146c8e1cffa][^c-b25fbbc28860a0b080cf5009e40dc385]
 
 (1) Paragraphs (2) to (5) apply where any enactment provides, or has the effect of providing, that any Scottish statutory instrument is to be subject to annulment in pursuance of a resolution of the Scottish Parliament.
 
@@ -184,7 +184,7 @@ the instrument may be made so as to come into force at that time but the respons
 
 (5) Any such resolution or revocation is without prejudice to the validity of anything previously done under the instrument or to the making of a new Scottish statutory instrument.
 
-## 12. Scottish statutory instruments of which drafts are to be laid before the Scottish Parliament[^key-1868dd73ba6197db8aa67de95a2ba44f][^key-1599b2c108e922c35ee35a63d76d74ec]
+## 12. Scottish statutory instruments of which drafts are to be laid before the Scottish Parliament[^c-1868dd73ba6197db8aa67de95a2ba44f][^c-1599b2c108e922c35ee35a63d76d74ec]
 
 (1) Paragraphs (2) to (4) apply where any enactment–
 
@@ -197,7 +197,7 @@ the instrument may be made so as to come into force at that time but the respons
 
 (4) Paragraph (3) is without prejudice to the laying of a new draft before the Scottish Parliament.
 
-## 13. Supplementary provisions to articles 10 to 12[^key-860d0031810c181f25b5da2e1dbdba1d][^key-841af9b089beb8ed8db6c559510fb612]
+## 13. Supplementary provisions to articles 10 to 12[^c-860d0031810c181f25b5da2e1dbdba1d][^c-841af9b089beb8ed8db6c559510fb612]
 
 (1) In reckoning for the purposes of articles 10, 11 and 12 any period of 21 or 40 days, no account shall be taken of any time during which the Scottish Parliament is dissolved or is in recess for more than 4 days.
 
@@ -206,11 +206,11 @@ the instrument may be made so as to come into force at that time but the respons
 - (a) any Scottish statutory instrument which is an order which is subject to special parliamentary procedure; or
 - (b) any other Scottish statutory instrument which is required to be laid before the Scottish Parliament for any period before it comes into force.
 
-## 14. Laying of Scottish statutory instruments before the Scottish Parliament[^key-358895496742fc3e01d9771c4b32a1b9][^key-98855847773af9a947ac0add28467f8b]
+## 14. Laying of Scottish statutory instruments before the Scottish Parliament[^c-358895496742fc3e01d9771c4b32a1b9][^c-98855847773af9a947ac0add28467f8b]
 
 Any reference in any enactment to laying before the Scottish Parliament any Scottish statutory instrument is, unless the contrary intention appears, to be construed as a reference to the taking, during any time when the Scottish Parliament is not dissolved, of such action as is specified in the standing orders of the Scottish Parliament as constituting the laying of any document before the Parliament, even if the action so specified consists, in whole or in part, of action which is capable of being taken when the Parliament is in recess.
 
-## 15. Publication in the Gazettes[^key-5a30b3adcbf88e8f371c94622d4b042a][^key-fba4e51ff744c71e108679b9b03d0f86]
+## 15. Publication in the Gazettes[^c-5a30b3adcbf88e8f371c94622d4b042a][^c-fba4e51ff744c71e108679b9b03d0f86]
 
 Where any enactment requires, or has the effect of requiring, any Scottish statutory instrument to be published or notified in the London, Edinburgh or Belfast Gazette, the publication in that Gazette of a notice stating that the instrument has been made and specifying the place where copies may be purchased shall be sufficient compliance with that enactment.
 
@@ -239,66 +239,66 @@ The Order has effect for the purposes of article 4(4) as from 6th May 1999 (the 
 
 [^f00001]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-3fef4c6ca182c1ecae212f762a0724b1]: Modification: [Order](https://www.legislation.gov.uk/uksi/1999/1096) continued in part (S.) (6.4.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/88)](https://www.legislation.gov.uk/ssi/2011/88), [arts. 1](https://www.legislation.gov.uk/ssi/2011/88/article/1), [4(3)](https://www.legislation.gov.uk/ssi/2011/88/article/4/3), [6](https://www.legislation.gov.uk/ssi/2011/88/article/6)
+[^c-3fef4c6ca182c1ecae212f762a0724b1]: Modification: [Order](https://www.legislation.gov.uk/uksi/1999/1096) continued in part (S.) (6.4.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/88)](https://www.legislation.gov.uk/ssi/2011/88), [arts. 1](https://www.legislation.gov.uk/ssi/2011/88/article/1), [4(3)](https://www.legislation.gov.uk/ssi/2011/88/article/4/3), [6](https://www.legislation.gov.uk/ssi/2011/88/article/6)
 
-[^key-f8eccbe94e1956b1a548130588862e6c]: Textual amendment: [Arts. 1-3](https://www.legislation.gov.uk/uksi/1999/1096/article/1) revoked (S.) (6.4.2011) by [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10), [ss. 55(3)](https://www.legislation.gov.uk/asp/2010/10/section/55/3), [58(3)](https://www.legislation.gov.uk/asp/2010/10/section/58/3); [S.S.I. 2011/17](https://www.legislation.gov.uk/ssi/2011/17), [art. 3(d)](https://www.legislation.gov.uk/ssi/2011/17/article/3/d)
+[^c-f8eccbe94e1956b1a548130588862e6c]: Textual amendment: [Arts. 1-3](https://www.legislation.gov.uk/uksi/1999/1096/article/1) revoked (S.) (6.4.2011) by [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10), [ss. 55(3)](https://www.legislation.gov.uk/asp/2010/10/section/55/3), [58(3)](https://www.legislation.gov.uk/asp/2010/10/section/58/3); [S.S.I. 2011/17](https://www.legislation.gov.uk/ssi/2011/17), [art. 3(d)](https://www.legislation.gov.uk/ssi/2011/17/article/3/d)
 
-[^key-c40938e46acc93394af5150520549deb]: Commencement: Art. 4(1)-(3)(5)(6) in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
+[^c-c40938e46acc93394af5150520549deb]: Commencement: Art. 4(1)-(3)(5)(6) in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
 
-[^key-307f696b71e9b791d786dd660e3f8e47]: Commencement: Art. 4(4) in force at 6.5.1999 for specified purposes, see [art. 1(a)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/a)
+[^c-307f696b71e9b791d786dd660e3f8e47]: Commencement: Art. 4(4) in force at 6.5.1999 for specified purposes, see [art. 1(a)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/a)
 
 [^f00004]: Footnote: [1946 c. 45](https://www.legislation.gov.uk/ukpga/1946/45). Section 1 is amended by the Scotland Act 1998, Schedule 8, paragraph 6 with effect from 1st July 1999.
 
-[^key-33fe7531925d853454c86100c4aebcfc]: Textual amendment: [Art. 4(6)](https://www.legislation.gov.uk/uksi/1999/1096/article/4/6) revoked (S.) (6.4.2011) by [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10), [ss. 55(3)](https://www.legislation.gov.uk/asp/2010/10/section/55/3), [58(3)](https://www.legislation.gov.uk/asp/2010/10/section/58/3); [S.S.I. 2011/17](https://www.legislation.gov.uk/ssi/2011/17), [art. 3(d)](https://www.legislation.gov.uk/ssi/2011/17/article/3/d)
+[^c-33fe7531925d853454c86100c4aebcfc]: Textual amendment: [Art. 4(6)](https://www.legislation.gov.uk/uksi/1999/1096/article/4/6) revoked (S.) (6.4.2011) by [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10), [ss. 55(3)](https://www.legislation.gov.uk/asp/2010/10/section/55/3), [58(3)](https://www.legislation.gov.uk/asp/2010/10/section/58/3); [S.S.I. 2011/17](https://www.legislation.gov.uk/ssi/2011/17), [art. 3(d)](https://www.legislation.gov.uk/ssi/2011/17/article/3/d)
 
-[^key-1a16ee875687a3af86a7ef3bef3c95dc]: Commencement: Art. 5 in force at 6.5.1999 for specified purposes, see [art. 1(a)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/a)
+[^c-1a16ee875687a3af86a7ef3bef3c95dc]: Commencement: Art. 5 in force at 6.5.1999 for specified purposes, see [art. 1(a)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/a)
 
-[^key-6a656d8f2c94a979ba7fdfad060a2bcc]: Commencement: Art. 5 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
+[^c-6a656d8f2c94a979ba7fdfad060a2bcc]: Commencement: Art. 5 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
 
-[^key-86d495c6440431e5607e3e9c42fe2bec]: Modification: [Art. 5](https://www.legislation.gov.uk/uksi/1999/1096/article/5) applied (S.) (1.9.2009) by [Scottish Parliamentary Pensions Act 2009 (asp 1)](https://www.legislation.gov.uk/asp/2009/1), [ss. 3(4)](https://www.legislation.gov.uk/asp/2009/1/section/3/4), [5(3)](https://www.legislation.gov.uk/asp/2009/1/section/5/3)
+[^c-86d495c6440431e5607e3e9c42fe2bec]: Modification: [Art. 5](https://www.legislation.gov.uk/uksi/1999/1096/article/5) applied (S.) (1.9.2009) by [Scottish Parliamentary Pensions Act 2009 (asp 1)](https://www.legislation.gov.uk/asp/2009/1), [ss. 3(4)](https://www.legislation.gov.uk/asp/2009/1/section/3/4), [5(3)](https://www.legislation.gov.uk/asp/2009/1/section/5/3)
 
-[^key-f38288d8e51d34b03e902d5d87ed8052]: Commencement: Art. 6 in force at 6.5.1999 for specified purposes, see [art. 1(a)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/a)
+[^c-f38288d8e51d34b03e902d5d87ed8052]: Commencement: Art. 6 in force at 6.5.1999 for specified purposes, see [art. 1(a)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/a)
 
-[^key-ce1a3583fc407466791f8a90537630ba]: Commencement: Art. 6 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
+[^c-ce1a3583fc407466791f8a90537630ba]: Commencement: Art. 6 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
 
-[^key-b484d4eb9c297f2d959da741d45fd3af]: Commencement: Art. 7 in force at 6.5.1999 for specified purposes, see [art. 1(a)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/a)
+[^c-b484d4eb9c297f2d959da741d45fd3af]: Commencement: Art. 7 in force at 6.5.1999 for specified purposes, see [art. 1(a)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/a)
 
-[^key-0ab6b2f85d42a44420ae5496cc8c67b8]: Commencement: Art. 7 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
+[^c-0ab6b2f85d42a44420ae5496cc8c67b8]: Commencement: Art. 7 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
 
-[^key-42e9e00558ac50a0e25523e2bb55d42b]: Modification: [Art. 7(1)](https://www.legislation.gov.uk/uksi/1999/1096/article/7/1) applied (S.) (1.9.2009) by [Scottish Parliamentary Pensions Act 2009 (asp 1)](https://www.legislation.gov.uk/asp/2009/1), [ss. 3(4)](https://www.legislation.gov.uk/asp/2009/1/section/3/4), [5(3)](https://www.legislation.gov.uk/asp/2009/1/section/5/3)
+[^c-42e9e00558ac50a0e25523e2bb55d42b]: Modification: [Art. 7(1)](https://www.legislation.gov.uk/uksi/1999/1096/article/7/1) applied (S.) (1.9.2009) by [Scottish Parliamentary Pensions Act 2009 (asp 1)](https://www.legislation.gov.uk/asp/2009/1), [ss. 3(4)](https://www.legislation.gov.uk/asp/2009/1/section/3/4), [5(3)](https://www.legislation.gov.uk/asp/2009/1/section/5/3)
 
-[^key-2f97c137dc0c720f9abaa122f4c93338]: Commencement: Art. 8 in force at 6.5.1999 for specified purposes, see [art. 1(a)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/a)
+[^c-2f97c137dc0c720f9abaa122f4c93338]: Commencement: Art. 8 in force at 6.5.1999 for specified purposes, see [art. 1(a)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/a)
 
-[^key-dfd246de06b257f97e8f7fec5ab3ba06]: Commencement: Art. 8 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
+[^c-dfd246de06b257f97e8f7fec5ab3ba06]: Commencement: Art. 8 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
 
-[^key-f21104870d636b1071f65f355a18b9ba]: Modification: [Art. 8](https://www.legislation.gov.uk/uksi/1999/1096/article/8) applied (S.) (1.9.2009) by [Scottish Parliamentary Pensions Act 2009 (asp 1)](https://www.legislation.gov.uk/asp/2009/1), [ss. 3(4)](https://www.legislation.gov.uk/asp/2009/1/section/3/4), [5(3)](https://www.legislation.gov.uk/asp/2009/1/section/5/3)
+[^c-f21104870d636b1071f65f355a18b9ba]: Modification: [Art. 8](https://www.legislation.gov.uk/uksi/1999/1096/article/8) applied (S.) (1.9.2009) by [Scottish Parliamentary Pensions Act 2009 (asp 1)](https://www.legislation.gov.uk/asp/2009/1), [ss. 3(4)](https://www.legislation.gov.uk/asp/2009/1/section/3/4), [5(3)](https://www.legislation.gov.uk/asp/2009/1/section/5/3)
 
-[^key-8fffb275b3efb1debc4ef2cbd6c05e9d]: Commencement: Art. 9 in force at 6.5.1999 for specified purposes, see [art. 1(a)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/a)
+[^c-8fffb275b3efb1debc4ef2cbd6c05e9d]: Commencement: Art. 9 in force at 6.5.1999 for specified purposes, see [art. 1(a)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/a)
 
-[^key-a4406b6539803085bd8b4f8a05745826]: Commencement: Art. 9 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
+[^c-a4406b6539803085bd8b4f8a05745826]: Commencement: Art. 9 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
 
-[^key-87ee6241cccbda1b3adc274c67faad61]: Modification: [Art. 9](https://www.legislation.gov.uk/uksi/1999/1096/article/9) applied (S.) (1.9.2009) by [Scottish Parliamentary Pensions Act 2009 (asp 1)](https://www.legislation.gov.uk/asp/2009/1), [ss. 3(4)](https://www.legislation.gov.uk/asp/2009/1/section/3/4), [5(3)](https://www.legislation.gov.uk/asp/2009/1/section/5/3)
+[^c-87ee6241cccbda1b3adc274c67faad61]: Modification: [Art. 9](https://www.legislation.gov.uk/uksi/1999/1096/article/9) applied (S.) (1.9.2009) by [Scottish Parliamentary Pensions Act 2009 (asp 1)](https://www.legislation.gov.uk/asp/2009/1), [ss. 3(4)](https://www.legislation.gov.uk/asp/2009/1/section/3/4), [5(3)](https://www.legislation.gov.uk/asp/2009/1/section/5/3)
 
-[^key-e5f42c70c51fc6e5e62b08099d04b176]: Commencement: Art. 10 in force at 6.5.1999 for specified purposes, see [art. 1(a)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/a)
+[^c-e5f42c70c51fc6e5e62b08099d04b176]: Commencement: Art. 10 in force at 6.5.1999 for specified purposes, see [art. 1(a)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/a)
 
-[^key-e27fb4b1bbd695755f07b378afee0bf6]: Commencement: Art. 10 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
+[^c-e27fb4b1bbd695755f07b378afee0bf6]: Commencement: Art. 10 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
 
-[^key-ed548d410762897a7d347146c8e1cffa]: Commencement: Art. 11 in force at 6.5.1999 for specified purposes, see [art. 1(a)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/a)
+[^c-ed548d410762897a7d347146c8e1cffa]: Commencement: Art. 11 in force at 6.5.1999 for specified purposes, see [art. 1(a)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/a)
 
-[^key-b25fbbc28860a0b080cf5009e40dc385]: Commencement: Art. 11 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
+[^c-b25fbbc28860a0b080cf5009e40dc385]: Commencement: Art. 11 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
 
-[^key-1868dd73ba6197db8aa67de95a2ba44f]: Commencement: Art. 12 in force at 6.5.1999 for specified purposes, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
+[^c-1868dd73ba6197db8aa67de95a2ba44f]: Commencement: Art. 12 in force at 6.5.1999 for specified purposes, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
 
-[^key-1599b2c108e922c35ee35a63d76d74ec]: Commencement: Art. 12 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
+[^c-1599b2c108e922c35ee35a63d76d74ec]: Commencement: Art. 12 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
 
-[^key-860d0031810c181f25b5da2e1dbdba1d]: Commencement: Art. 13 in force at 6.5.1999 for specified purposes, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
+[^c-860d0031810c181f25b5da2e1dbdba1d]: Commencement: Art. 13 in force at 6.5.1999 for specified purposes, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
 
-[^key-841af9b089beb8ed8db6c559510fb612]: Commencement: Art. 13 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
+[^c-841af9b089beb8ed8db6c559510fb612]: Commencement: Art. 13 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
 
-[^key-358895496742fc3e01d9771c4b32a1b9]: Commencement: Art. 14 in force at 6.5.1999 for specified purposes, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
+[^c-358895496742fc3e01d9771c4b32a1b9]: Commencement: Art. 14 in force at 6.5.1999 for specified purposes, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
 
-[^key-98855847773af9a947ac0add28467f8b]: Commencement: Art. 14 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
+[^c-98855847773af9a947ac0add28467f8b]: Commencement: Art. 14 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
 
-[^key-5a30b3adcbf88e8f371c94622d4b042a]: Commencement: Art. 15 in force at 6.5.1999 for specified purposes, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
+[^c-5a30b3adcbf88e8f371c94622d4b042a]: Commencement: Art. 15 in force at 6.5.1999 for specified purposes, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
 
-[^key-fba4e51ff744c71e108679b9b03d0f86]: Commencement: Art. 15 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)
+[^c-fba4e51ff744c71e108679b9b03d0f86]: Commencement: Art. 15 in force at 1.7.1999 in so far as not already in force, see [art. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b)

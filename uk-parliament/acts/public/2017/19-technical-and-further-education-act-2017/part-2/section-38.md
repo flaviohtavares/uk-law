@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Restrictions on dissolution of sixth form college corporation[^key-b0f5f9e0e7edac4445b399fe2a2d9c72]
+## 38. Restrictions on dissolution of sixth form college corporation[^c-b0f5f9e0e7edac4445b399fe2a2d9c72]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0f5f9e0e7edac4445b399fe2a2d9c72]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/19/section/38) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-b0f5f9e0e7edac4445b399fe2a2d9c72]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/19/section/38) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

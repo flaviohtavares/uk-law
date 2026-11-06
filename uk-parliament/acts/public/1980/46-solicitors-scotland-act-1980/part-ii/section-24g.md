@@ -28,11 +28,11 @@ summary: ''
 
 (4) Where a registered European lawyer is suspended from practice as a registered European lawyer by virtue of paragraph (a) [^c20666441]. . . of section 24F(1), the period of suspension shall, for the purposes of section 24C(2)(e), expire on the registered European lawyer ceasing to be detained[^c20654661][^c20666441]. . . .
 
-(4A)[^key-72ecad8286f23a5d230c77bf5a599852] A suspension from practice arising by virtue of section 24F(1A) expires if the grounds for it no longer apply.
+(4A)[^c-72ecad8286f23a5d230c77bf5a599852] A suspension from practice arising by virtue of section 24F(1A) expires if the grounds for it no longer apply.
 
 (4B) On the occurrence of any of the circumstances mentioned in subsections (2) to (4A), the lawyer concerned must notify the Council in writing (and without delay).
 
-(5) Where a registered European lawyer is suspended from practice as a registered European lawyer by virtue of paragraph (c), (d) or (e) of section 24F(1) or by virtue of section 24F(1A)[^key-a6e5a0559d57941322fa85322bdae575] , he may at any time apply to the Council to terminate the suspension.
+(5) Where a registered European lawyer is suspended from practice as a registered European lawyer by virtue of paragraph (c), (d) or (e) of section 24F(1) or by virtue of section 24F(1A)[^c-a6e5a0559d57941322fa85322bdae575] , he may at any time apply to the Council to terminate the suspension.
 
 (6) On an application under subsection (5), the Council may either–
 
@@ -55,6 +55,6 @@ summary: ''
 
 [^c20654661]: Textual amendment: Words in [s. 24G](https://www.legislation.gov.uk/ukpga/1980/46/section/24G) substituted (27.9.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 2](https://www.legislation.gov.uk/ssi/2005/465/article/2), [Sch. 1 para. 9(5)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/9/5)
 
-[^key-72ecad8286f23a5d230c77bf5a599852]: Textual amendment: [S. 24G(4A)](https://www.legislation.gov.uk/ukpga/1980/46/section/24G/4A)[(4B)](https://www.legislation.gov.uk/ukpga/1980/46/section/24G/4B) inserted (1.5.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 137(4)(a)](https://www.legislation.gov.uk/asp/2010/16/section/137/4/a), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(a)](https://www.legislation.gov.uk/ssi/2011/180/article/4/a)
+[^c-72ecad8286f23a5d230c77bf5a599852]: Textual amendment: [S. 24G(4A)](https://www.legislation.gov.uk/ukpga/1980/46/section/24G/4A)[(4B)](https://www.legislation.gov.uk/ukpga/1980/46/section/24G/4B) inserted (1.5.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 137(4)(a)](https://www.legislation.gov.uk/asp/2010/16/section/137/4/a), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(a)](https://www.legislation.gov.uk/ssi/2011/180/article/4/a)
 
-[^key-a6e5a0559d57941322fa85322bdae575]: Textual amendment: Words in [s. 24G(5)](https://www.legislation.gov.uk/ukpga/1980/46/section/24G/5) inserted (1.5.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 137(4)(b)](https://www.legislation.gov.uk/asp/2010/16/section/137/4/b), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(a)](https://www.legislation.gov.uk/ssi/2011/180/article/4/a)
+[^c-a6e5a0559d57941322fa85322bdae575]: Textual amendment: Words in [s. 24G(5)](https://www.legislation.gov.uk/ukpga/1980/46/section/24G/5) inserted (1.5.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 137(4)(b)](https://www.legislation.gov.uk/asp/2010/16/section/137/4/b), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(a)](https://www.legislation.gov.uk/ssi/2011/180/article/4/a)

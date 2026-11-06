@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81. Reduction of benefits where lifetime allowance charge payable[^key-4601b3a595a0430d179395fc20e175e5]
+## 81. Reduction of benefits where lifetime allowance charge payable[^c-4601b3a595a0430d179395fc20e175e5]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4601b3a595a0430d179395fc20e175e5]: Commencement: Reg. 81 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-4601b3a595a0430d179395fc20e175e5]: Commencement: Reg. 81 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

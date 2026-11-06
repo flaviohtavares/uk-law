@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 113. Annual reports ...[^key-e0b5899d38325e43c766d2d428cbc3c4]
+## Article 113. Annual reports ...[^c-e0b5899d38325e43c766d2d428cbc3c4]
 
 *Extent: E+W+S+N.I.*
 
-1. By 31 August every year, the person designated in accordance with Article 109(2) must prepare and make publicly available by publishing online[^key-f0f55507d6505dd3806c471a618133b3] a report setting out:
+1. By 31 August every year, the person designated in accordance with Article 109(2) must prepare and make publicly available by publishing online[^c-f0f55507d6505dd3806c471a618133b3] a report setting out:
 
 - (a) any amendments made to its MANCP to take account of the factors referred to in Article 111(2);
 - (b) the outcome of official controls performed in the previous year under its MANCP;
@@ -28,12 +28,12 @@ summary: ''
 - (d) the measures taken to ensure the effective operation of its MANCP, including enforcement action and the results of such measures, and
 - (e) a link to the web page of the competent authority containing the public information on fees or charges referred to in Article 85(2).
 
-2.[^key-ef72843397da108948083af03b8f3294] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-ef72843397da108948083af03b8f3294] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e0b5899d38325e43c766d2d428cbc3c4]: Textual amendment: Words in [Art. 113](https://www.legislation.gov.uk/eur/2017/625/article/113) heading omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [20(6)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/20/6) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-e0b5899d38325e43c766d2d428cbc3c4]: Textual amendment: Words in [Art. 113](https://www.legislation.gov.uk/eur/2017/625/article/113) heading omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [20(6)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/20/6) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-f0f55507d6505dd3806c471a618133b3]: Textual amendment: Words in [Art. 113(1)](https://www.legislation.gov.uk/eur/2017/625/article/113/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [20(7)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/20/7/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-f0f55507d6505dd3806c471a618133b3]: Textual amendment: Words in [Art. 113(1)](https://www.legislation.gov.uk/eur/2017/625/article/113/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [20(7)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/20/7/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-ef72843397da108948083af03b8f3294]: Textual amendment: [Art. 113(2)](https://www.legislation.gov.uk/eur/2017/625/article/113/2) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [20(7)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/20/7/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-ef72843397da108948083af03b8f3294]: Textual amendment: [Art. 113(2)](https://www.legislation.gov.uk/eur/2017/625/article/113/2) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [20(7)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/20/7/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

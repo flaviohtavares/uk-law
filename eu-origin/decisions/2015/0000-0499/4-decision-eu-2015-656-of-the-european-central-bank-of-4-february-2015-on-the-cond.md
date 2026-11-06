@@ -31,7 +31,7 @@ of 4 February 2015
 
 on the conditions under which credit institutions are permitted to include interim or year-end profits in Common Equity Tier 1 capital in accordance with Article 26(2) of Regulation (EU) No 575/2013 (ECB/2015/4)
 
-[^key-055db601dc45fc7e199bb6a842be8f6b]
+[^c-055db601dc45fc7e199bb6a842be8f6b]
 
 THE GOVERNING COUNCIL OF THE EUROPEAN CENTRAL BANK,
 
@@ -218,7 +218,7 @@ Yours sincerely,
 
 ## Annotations
 
-[^key-055db601dc45fc7e199bb6a842be8f6b]: Modification: Decision: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-055db601dc45fc7e199bb6a842be8f6b]: Modification: Decision: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ L 287, 29.10.2013, p. 63](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.287.01.0063.01.ENG).
 

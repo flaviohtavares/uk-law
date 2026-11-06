@@ -31,7 +31,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Urban Waste Water Treatment (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^key-9706cc0dcd2bb1545249f653058cde0f]
+The Urban Waste Water Treatment (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^c-9706cc0dcd2bb1545249f653058cde0f]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 30th May 2003
 
-[^key-9706cc0dcd2bb1545249f653058cde0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9706cc0dcd2bb1545249f653058cde0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-9706cc0dcd2bb1545249f653058cde0f]
+## 1. Citation, commencement and interpretation[^c-9706cc0dcd2bb1545249f653058cde0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Urban Waste Water Treatment Regulations (Northern Ireland) 1995[^key-9706cc0dcd2bb1545249f653058cde0f]
+## 2. Amendment of the Urban Waste Water Treatment Regulations (Northern Ireland) 1995[^c-9706cc0dcd2bb1545249f653058cde0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9706cc0dcd2bb1545249f653058cde0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9706cc0dcd2bb1545249f653058cde0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9706cc0dcd2bb1545249f653058cde0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9706cc0dcd2bb1545249f653058cde0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9706cc0dcd2bb1545249f653058cde0f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/278) revoked (1.4.2007) by [The Urban Waste Water Treatment Regulations (Northern Ireland) 2007 (S.R. 2007/187)](https://www.legislation.gov.uk/nisr/2007/187), [regs. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1), [16](https://www.legislation.gov.uk/nisr/2007/187/regulation/16)
+[^c-9706cc0dcd2bb1545249f653058cde0f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/278) revoked (1.4.2007) by [The Urban Waste Water Treatment Regulations (Northern Ireland) 2007 (S.R. 2007/187)](https://www.legislation.gov.uk/nisr/2007/187), [regs. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1), [16](https://www.legislation.gov.uk/nisr/2007/187/regulation/16)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Compulsory acquisition of rights[^key-90ad5f459f342439776bd59193e45227]
+## 30. Compulsory acquisition of rights[^c-90ad5f459f342439776bd59193e45227]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90ad5f459f342439776bd59193e45227]: Commencement: Art. 30 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-90ad5f459f342439776bd59193e45227]: Commencement: Art. 30 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Bribery[^key-cd7044414dadf395b3af4121eff382a6]
+## 81. Bribery[^c-cd7044414dadf395b3af4121eff382a6]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd7044414dadf395b3af4121eff382a6]: Commencement: Art. 81 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-cd7044414dadf395b3af4121eff382a6]: Commencement: Art. 81 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

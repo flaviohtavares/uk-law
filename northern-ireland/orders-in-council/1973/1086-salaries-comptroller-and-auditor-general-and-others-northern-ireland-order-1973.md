@@ -29,23 +29,23 @@ summary: ''
 
 1973 No. 1086 (N.I. 14)
 
-Salaries (Comptroller and Auditor-General and Others) (Northern Ireland) Order 1973 (repealed)[^key-b9154467a4b1bd33bc75168e3b93178e]
+Salaries (Comptroller and Auditor-General and Others) (Northern Ireland) Order 1973 (repealed)[^c-b9154467a4b1bd33bc75168e3b93178e]
 
 \[20th June 1973\]
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-b9154467a4b1bd33bc75168e3b93178e]
+## 1. Title and commencement[^c-b9154467a4b1bd33bc75168e3b93178e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b9154467a4b1bd33bc75168e3b93178e]
+## 2. Interpretation[^c-b9154467a4b1bd33bc75168e3b93178e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Art.3 rep. by SLR 1980*
 
-## 4. Increases of certain salaries[^key-b9154467a4b1bd33bc75168e3b93178e]
+## 4. Increases of certain salaries[^c-b9154467a4b1bd33bc75168e3b93178e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -55,14 +55,14 @@ Salaries (Comptroller and Auditor-General and Others) (Northern Ireland) Order 1
 
 **May not be in force at this date. Check the source.**
 
-[^key-b9154467a4b1bd33bc75168e3b93178e]
+[^c-b9154467a4b1bd33bc75168e3b93178e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9154467a4b1bd33bc75168e3b93178e]
+[^c-b9154467a4b1bd33bc75168e3b93178e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b9154467a4b1bd33bc75168e3b93178e]: Textual amendment: Order repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with ss. 23, 50(3))
+[^c-b9154467a4b1bd33bc75168e3b93178e]: Textual amendment: Order repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with ss. 23, 50(3))

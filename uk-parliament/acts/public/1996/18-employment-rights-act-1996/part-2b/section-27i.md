@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27I. Written policy[^key-e6f3baccee33ce02eeaa126db4e60b8d]
+## 27I. Written policy[^c-e6f3baccee33ce02eeaa126db4e60b8d]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ the employer must make the amended version of the policy available to all worker
 
 ## Annotations
 
-[^key-e6f3baccee33ce02eeaa126db4e60b8d]: Textual amendment: Ss. 27I, 27J and cross-heading inserted (E.W.S.) (31.7.2023 for specified purposes, 1.10.2024 in so far as not already in force) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 6](https://www.legislation.gov.uk/ukpga/2023/13/section/6), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a); [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/f)
+[^c-e6f3baccee33ce02eeaa126db4e60b8d]: Textual amendment: Ss. 27I, 27J and cross-heading inserted (E.W.S.) (31.7.2023 for specified purposes, 1.10.2024 in so far as not already in force) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 6](https://www.legislation.gov.uk/ukpga/2023/13/section/6), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a); [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/f)

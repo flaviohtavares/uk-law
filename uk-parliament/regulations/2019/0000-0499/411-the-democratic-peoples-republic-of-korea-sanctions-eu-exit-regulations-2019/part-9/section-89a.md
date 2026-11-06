@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89A. Director disqualification licences[^key-267c00208c221f05436e00b63522168c]
+## 89A. Director disqualification licences[^c-267c00208c221f05436e00b63522168c]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ do not apply to anything done under the authority of that licence.
 
 ## Annotations
 
-[^key-267c00208c221f05436e00b63522168c]: Textual amendment: [Reg. 89A](https://www.legislation.gov.uk/uksi/2019/411/regulation/89A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/644/regulation/2/5)
+[^c-267c00208c221f05436e00b63522168c]: Textual amendment: [Reg. 89A](https://www.legislation.gov.uk/uksi/2019/411/regulation/89A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/644/regulation/2/5)

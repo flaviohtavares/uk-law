@@ -22,7 +22,7 @@ summary: ''
 
 (1) In this Chapter, except in so far as the context otherwise requires—
 
-- “appropriate agency” means—[^key-c5c69ebd807ac88563cafc1788d8a227]
+- “appropriate agency” means—[^c-c5c69ebd807ac88563cafc1788d8a227]
   - (a) in relation to the discharge or proposed discharge of special category effluent to a public sewer that directly or indirectly discharges or is to discharge (other than via a storm-water overflow sewer) that effluent to any controlled waters in England, the Environment Agency;
   - (b) in relation to the discharge or proposed discharge of special category effluent to a public sewer that directly or indirectly discharges or is to discharge (other than via a storm-water overflow sewer) that effluent to any controlled waters in Wales, the NRBW;
 - “**special category effluent**” has the meaning given by section 138 above;
@@ -47,4 +47,4 @@ shall be deemed to be premises used for carrying on a trade or industry; and the
 
 ## Annotations
 
-[^key-c5c69ebd807ac88563cafc1788d8a227]: Textual amendment: Words in [s. 141(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/141/1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 248](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/248) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-c5c69ebd807ac88563cafc1788d8a227]: Textual amendment: Words in [s. 141(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/141/1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 248](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/248) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

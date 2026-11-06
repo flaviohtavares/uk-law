@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Objectives and duties under WIA[^key-2c19f304fdd7c2735b26273b863a12a0]
+## 39. Objectives and duties under WIA[^c-2c19f304fdd7c2735b26273b863a12a0]
 
 *Extent: E+W*
 
@@ -97,10 +97,10 @@ summary: ''
 
 (9) After subsection (6B) there is added—
 
-> (7) The duties imposed by subsections (2A) to (4) above and section 2A below do not affect the obligation of the Authority or, as the case may be, the Secretary of State to perform or comply with any other duty or requirement (whether arising under this Act or another enactment, by virtue of any EU[^key-eb71b1494f1f423c9c0b825508bf1ef4] obligation or otherwise).
+> (7) The duties imposed by subsections (2A) to (4) above and section 2A below do not affect the obligation of the Authority or, as the case may be, the Secretary of State to perform or comply with any other duty or requirement (whether arising under this Act or another enactment, by virtue of any EU[^c-eb71b1494f1f423c9c0b825508bf1ef4] obligation or otherwise).
 
 ## Annotations
 
-[^key-2c19f304fdd7c2735b26273b863a12a0]: Commencement: S. 39 in force at 1.4.2005 by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/968/article/2/f)
+[^c-2c19f304fdd7c2735b26273b863a12a0]: Commencement: S. 39 in force at 1.4.2005 by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/968/article/2/f)
 
-[^key-eb71b1494f1f423c9c0b825508bf1ef4]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-eb71b1494f1f423c9c0b825508bf1ef4]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

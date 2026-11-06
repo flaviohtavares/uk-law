@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87AA. Notification of commencement or cessation of self-employment or Class 3 contributions on or after 6th April 2015[^key-289da0f0bc57fdb16e533c0053838a15][^key-9bdaacbf758d9978751717d98537ca6c]
+## 87AA. Notification of commencement or cessation of self-employment or Class 3 contributions on or after 6th April 2015[^c-289da0f0bc57fdb16e533c0053838a15][^c-9bdaacbf758d9978751717d98537ca6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-289da0f0bc57fdb16e533c0053838a15]: Textual amendment: [Reg. 87AA](https://www.legislation.gov.uk/uksi/2001/1004/regulation/87AA) inserted (6.4.2015) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [11](https://www.legislation.gov.uk/uksi/2015/478/regulation/11)
+[^c-289da0f0bc57fdb16e533c0053838a15]: Textual amendment: [Reg. 87AA](https://www.legislation.gov.uk/uksi/2001/1004/regulation/87AA) inserted (6.4.2015) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [11](https://www.legislation.gov.uk/uksi/2015/478/regulation/11)
 
-[^key-9bdaacbf758d9978751717d98537ca6c]: Textual amendment: Regs. 87A-87G inserted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2009 (S.I. 2009/600)](https://www.legislation.gov.uk/uksi/2009/600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/600/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2009/600/regulation/6)
+[^c-9bdaacbf758d9978751717d98537ca6c]: Textual amendment: Regs. 87A-87G inserted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2009 (S.I. 2009/600)](https://www.legislation.gov.uk/uksi/2009/600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/600/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2009/600/regulation/6)

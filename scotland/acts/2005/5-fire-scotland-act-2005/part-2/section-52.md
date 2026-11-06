@@ -22,7 +22,7 @@ summary: ''
 
 In this Part, unless the context otherwise requires—
 
-- “[^key-58266b2bcfcdd4e0a50cc00c68ced8ac]**Chief Inspector**” has the meaning given by section 43A(6),
+- “[^c-58266b2bcfcdd4e0a50cc00c68ced8ac]**Chief Inspector**” has the meaning given by section 43A(6),
 - “**Chief Officer**” means the person appointed under paragraph 7 of schedule 1A,
 - “**emergency**” means an event or situation that causes or is likely to cause—
   - (a) a person to die;
@@ -37,4 +37,4 @@ In this Part, unless the context otherwise requires—
 
 ## Annotations
 
-[^key-58266b2bcfcdd4e0a50cc00c68ced8ac]: Textual amendment: Words in s. 52 inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(20)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/20); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-58266b2bcfcdd4e0a50cc00c68ced8ac]: Textual amendment: Words in s. 52 inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(20)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/20); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

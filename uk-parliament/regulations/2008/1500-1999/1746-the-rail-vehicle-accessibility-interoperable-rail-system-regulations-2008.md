@@ -101,7 +101,7 @@ These Regulations may be cited as the Rail Vehicle Accessibility (Interoperable 
 
 .
 
-## 4. Amendments to the Railways (Interoperability) Regulations 2006[^key-e5122f87d641ef81dbcbc70dc739d24d]
+## 4. Amendments to the Railways (Interoperability) Regulations 2006[^c-e5122f87d641ef81dbcbc70dc739d24d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -153,4 +153,4 @@ An impact assessment of the effect these Regulations will have on the costs of b
 
 [^c19319291]: Marginal citation: [2005 c.13](https://www.legislation.gov.uk/ukpga/2005/13).
 
-[^key-e5122f87d641ef81dbcbc70dc739d24d]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/1746/regulation/4) revoked (16.1.2012) by [The Railways (Interoperability) Regulations 2011 (S.I. 2011/3066)](https://www.legislation.gov.uk/uksi/2011/3066), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/1/2), [47(1)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/47/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/3066/regulation/3))
+[^c-e5122f87d641ef81dbcbc70dc739d24d]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/1746/regulation/4) revoked (16.1.2012) by [The Railways (Interoperability) Regulations 2011 (S.I. 2011/3066)](https://www.legislation.gov.uk/uksi/2011/3066), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/1/2), [47(1)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/47/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/3066/regulation/3))

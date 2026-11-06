@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 ANIMALS
 
-Products of Animal Origin (Import and Export) (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^key-b3bd4361ab44903492ac9c1413db27d5]
+Products of Animal Origin (Import and Export) (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^c-b3bd4361ab44903492ac9c1413db27d5]
 
 Made
 
@@ -43,32 +43,32 @@ Coming into operation
 
 16th July 2001
 
-[^key-b3bd4361ab44903492ac9c1413db27d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3bd4361ab44903492ac9c1413db27d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b3bd4361ab44903492ac9c1413db27d5]
+## 1. Citation and commencement[^c-b3bd4361ab44903492ac9c1413db27d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Products of Animal Origin (Import and Export) Regulations (Northern Ireland) 1998[^key-b3bd4361ab44903492ac9c1413db27d5]
+## 2. Amendment of the Products of Animal Origin (Import and Export) Regulations (Northern Ireland) 1998[^c-b3bd4361ab44903492ac9c1413db27d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consignments posing a risk to health and illegal consignments[^key-b3bd4361ab44903492ac9c1413db27d5]
+## 3. Consignments posing a risk to health and illegal consignments[^c-b3bd4361ab44903492ac9c1413db27d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Places of import[^key-b3bd4361ab44903492ac9c1413db27d5]
+## 4. Places of import[^c-b3bd4361ab44903492ac9c1413db27d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3bd4361ab44903492ac9c1413db27d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3bd4361ab44903492ac9c1413db27d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b3bd4361ab44903492ac9c1413db27d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3bd4361ab44903492ac9c1413db27d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b3bd4361ab44903492ac9c1413db27d5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/242) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(b)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/b)
+[^c-b3bd4361ab44903492ac9c1413db27d5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/242) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(b)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/b)

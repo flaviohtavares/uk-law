@@ -50,7 +50,7 @@ The Queens’s Most Excellent Majesty in Council
 
 Her Majesty, in pursuance of section 1 of the Ministers of the Crown Act 1975[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—
 
-## 1. Citation, interpretation and commencement[^key-05310433be49e7631d309b7c3c2a4f68]
+## 1. Citation, interpretation and commencement[^c-05310433be49e7631d309b7c3c2a4f68]
 
 (1) This Order may be cited as the Transfer of Functions (Treasury and Minister for the Civil Service) Order 1995.
 
@@ -62,7 +62,7 @@ Her Majesty, in pursuance of section 1 of the Ministers of the Crown Act 1975[^f
 
 (3) This Order shall come into force on 1st April 1995.
 
-## 2. Transfer of certain civil service functions from Treasury to Minister[^key-079adaf9d642cb51c94f1007e8ead70b]
+## 2. Transfer of certain civil service functions from Treasury to Minister[^c-079adaf9d642cb51c94f1007e8ead70b]
 
 (1) There are hereby transferred to the Minister the functions of the Treasury with respect to—
 
@@ -79,11 +79,11 @@ and any reference in this paragraph to persons employed in the service includes 
 
 (2) There are hereby transferred to the Minister the functions of the Treasury under paragraph 6 of Schedule 1 to the Forestry Act 1967[^f00002].
 
-## 3. Transfer of miscellaneous functions from Treasury to Minister[^key-f6da4707f3c00df6548fbe60a4627bcc]
+## 3. Transfer of miscellaneous functions from Treasury to Minister[^c-f6da4707f3c00df6548fbe60a4627bcc]
 
 There are hereby transferred to the Minister the functions of the Treasury under or by virtue of the provisions specified in the Schedule to this Order.
 
-## 4. Concurrent exercise of certain civil service functions by Treasury[^key-fe02fdfa83336a7fd8d7287ab9cfe194]
+## 4. Concurrent exercise of certain civil service functions by Treasury[^c-fe02fdfa83336a7fd8d7287ab9cfe194]
 
 (1) In this article and article 6 below—
 
@@ -94,7 +94,7 @@ There are hereby transferred to the Minister the functions of the Treasury under
 
 (3) In paragraphs (2) to (4) of article 5 below, any reference to the Minister shall, so far as necessary for the purposes of or in consequence of this article, be taken for the transitional period to include a reference to the Treasury.
 
-## 5. Supplementary provisions in relation to functions transferred[^key-ad64a434bdb6233a6252b265dffb3ef4]
+## 5. Supplementary provisions in relation to functions transferred[^c-ad64a434bdb6233a6252b265dffb3ef4]
 
 (1) There are hereby transferred to the Minister all rights and liabilities to which, immediately before the commencement of this Order, the Treasury was entitled or subject in connection with any functions transferred by this Order.
 
@@ -104,7 +104,7 @@ There are hereby transferred to the Minister the functions of the Treasury under
 
 (4) Any approval, authorisation, consent, delegation, direction or appointment given or made or other thing whatever done by the Treasury for the purposes of any of the functions transferred by this Order shall, if in force at the commencement of this Order, continue in force and have effect as if similarly given, made or done by the Minister.
 
-## 6. Supplementary provisions in relation to relevant civil service functions[^key-bcccda51e170b2d23e9dbc8355656eb4]
+## 6. Supplementary provisions in relation to relevant civil service functions[^c-bcccda51e170b2d23e9dbc8355656eb4]
 
 (1) Any instrument made in the transitional period shall have effect, so far as necessary in consequence of the relevant civil service functions ceasing to be exercisable concurrently by the Treasury, as if any reference to the Treasury or an officer of the Treasury were a reference to the Minister or an officer of the Minister, as the case may be.
 
@@ -120,53 +120,53 @@ Clerk of the Privy Council
 
 Article 3.
 
-**1.**[^key-334d06a439eac63e67a91dce0582bcf5] Paragraph 1 of Schedule 1 to the Crown Estate Act [1961 (c. 55)](https://www.legislation.gov.uk/ukpga/1961/55).
+**1.**[^c-334d06a439eac63e67a91dce0582bcf5] Paragraph 1 of Schedule 1 to the Crown Estate Act [1961 (c. 55)](https://www.legislation.gov.uk/ukpga/1961/55).
 
-**2.**[^key-7410a74b08ac295b88ee33dc8949f39a] Paragraphs 2, 9 and 10, and the first sub-paragraph of paragraph 12, of Schedule 1 to the Forestry Act [1967 (c. 10)](https://www.legislation.gov.uk/ukpga/1967/10).
+**2.**[^c-7410a74b08ac295b88ee33dc8949f39a] Paragraphs 2, 9 and 10, and the first sub-paragraph of paragraph 12, of Schedule 1 to the Forestry Act [1967 (c. 10)](https://www.legislation.gov.uk/ukpga/1967/10).
 
-**3.**[^key-b9ad818d4526769c4d2555dbcbef9cc3] Schedule 1 to the Parliamentary Commissioner Act [1967 (c. 13)](https://www.legislation.gov.uk/ukpga/1967/13) (as substituted by paragraph 2 of Part II of Schedule 4 to the Judicial Pensions and Retirement Act [1993 (c. 8)](https://www.legislation.gov.uk/ukpga/1993/8)).
+**3.**[^c-b9ad818d4526769c4d2555dbcbef9cc3] Schedule 1 to the Parliamentary Commissioner Act [1967 (c. 13)](https://www.legislation.gov.uk/ukpga/1967/13) (as substituted by paragraph 2 of Part II of Schedule 4 to the Judicial Pensions and Retirement Act [1993 (c. 8)](https://www.legislation.gov.uk/ukpga/1993/8)).
 
-**4.**[^key-ee36a9e94d6ea037de89ff970c75cb49] Schedule 1A to the Parliamentary Commissioner Act (Northern Ireland) 1969 ([1969 c. 10 (N.I.)](https://www.legislation.gov.uk/apni/1969/10)).
+**4.**[^c-ee36a9e94d6ea037de89ff970c75cb49] Schedule 1A to the Parliamentary Commissioner Act (Northern Ireland) 1969 ([1969 c. 10 (N.I.)](https://www.legislation.gov.uk/apni/1969/10)).
 
-**5.**[^key-709b5a5606754690817009c97b6292c5] Schedule 1A to the Commissioner for Complaints Act (Northern Ireland) 1969 ([1969 c. 25 (N.I.)](https://www.legislation.gov.uk/apni/1969/25)).
+**5.**[^c-709b5a5606754690817009c97b6292c5] Schedule 1A to the Commissioner for Complaints Act (Northern Ireland) 1969 ([1969 c. 25 (N.I.)](https://www.legislation.gov.uk/apni/1969/25)).
 
-**6.**[^key-a8c5b2584887cdec0796088eb533b23c] Sections 1 to 3 and 6 of the Superannuation Act [1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11).
+**6.**[^c-a8c5b2584887cdec0796088eb533b23c] Sections 1 to 3 and 6 of the Superannuation Act [1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11).
 
-**7.**[^key-8ffe6576cf6f24d59ccf4674a94e3ae6] Section 13 of the Superannuation Act 1972 (as substituted by paragraph 1 of Part I of Schedule 4 to the Judicial Pensions and Retirement Act 1993).
+**7.**[^c-8ffe6576cf6f24d59ccf4674a94e3ae6] Section 13 of the Superannuation Act 1972 (as substituted by paragraph 1 of Part I of Schedule 4 to the Judicial Pensions and Retirement Act 1993).
 
-**8.**[^key-7a08146f48a801876f4569f582d7e58b] Section 27 of the Parliamentary and other Pensions Act [1972 (c. 48)](https://www.legislation.gov.uk/ukpga/1972/48).
+**8.**[^c-7a08146f48a801876f4569f582d7e58b] Section 27 of the Parliamentary and other Pensions Act [1972 (c. 48)](https://www.legislation.gov.uk/ukpga/1972/48).
 
-**9.**[^key-045af046e9f543f914f59939a1664831] Paragraphs 1 to 3 of Schedule 1 to the Fair Trading Act [1973 (c. 41)](https://www.legislation.gov.uk/ukpga/1973/41).
+**9.**[^c-045af046e9f543f914f59939a1664831] Paragraphs 1 to 3 of Schedule 1 to the Fair Trading Act [1973 (c. 41)](https://www.legislation.gov.uk/ukpga/1973/41).
 
-**10.**[^key-876131c50710eecd874063cadef5d7be] Paragraph 16 of Schedule 2 to the Health and Safety at Work etc. Act [1974 (c. 37)](https://www.legislation.gov.uk/ukpga/1974/37).
+**10.**[^c-876131c50710eecd874063cadef5d7be] Paragraph 16 of Schedule 2 to the Health and Safety at Work etc. Act [1974 (c. 37)](https://www.legislation.gov.uk/ukpga/1974/37).
 
-**11.**[^key-1cf7fd817caef86610e97fc3ea8434b3] Section 2 of the European Parliament (Pay and Pensions) Act [1979 (c. 50)](https://www.legislation.gov.uk/ukpga/1979/50).
+**11.**[^c-1cf7fd817caef86610e97fc3ea8434b3] Section 2 of the European Parliament (Pay and Pensions) Act [1979 (c. 50)](https://www.legislation.gov.uk/ukpga/1979/50).
 
-**12.**[^key-5a4e8742be6a2291b2d0c87b8ef0377c] Paragraphs 1 to 3 of Schedule 1 to the Telecommunications Act [1984 (c. 12)](https://www.legislation.gov.uk/ukpga/1984/12).
+**12.**[^c-5a4e8742be6a2291b2d0c87b8ef0377c] Paragraphs 1 to 3 of Schedule 1 to the Telecommunications Act [1984 (c. 12)](https://www.legislation.gov.uk/ukpga/1984/12).
 
-**13.**[^key-4bc5e1cb384af0d2d6b444f554fdba41] Paragraphs 1 to 3 of Schedule 1 to the Gas Act [1986 (c. 44)](https://www.legislation.gov.uk/ukpga/1986/44).
+**13.**[^c-4bc5e1cb384af0d2d6b444f554fdba41] Paragraphs 1 to 3 of Schedule 1 to the Gas Act [1986 (c. 44)](https://www.legislation.gov.uk/ukpga/1986/44).
 
-**14.**[^key-c13523f772297eef0fb25a01106b479d] Paragraphs 5 and 6 of Schedule 1 to the Building Societies Act [1986 (c. 53)](https://www.legislation.gov.uk/ukpga/1986/53).
+**14.**[^c-c13523f772297eef0fb25a01106b479d] Paragraphs 5 and 6 of Schedule 1 to the Building Societies Act [1986 (c. 53)](https://www.legislation.gov.uk/ukpga/1986/53).
 
-**15.**[^key-13562c701625d00ee3e4d94387a7279a] Sections 2 and 3 of the Parliamentary and other Pensions Act [1987 (c. 45)](https://www.legislation.gov.uk/ukpga/1987/45).
+**15.**[^c-13562c701625d00ee3e4d94387a7279a] Sections 2 and 3 of the Parliamentary and other Pensions Act [1987 (c. 45)](https://www.legislation.gov.uk/ukpga/1987/45).
 
-**16.**[^key-a0de578e9eb592ec20123d7a6743e12f] Article 4A of the Audit (Northern Ireland) Order 1987 (S.I. [1987/460 (N.I.5)](https://www.legislation.gov.uk/nisi/1987/460)).
+**16.**[^c-a0de578e9eb592ec20123d7a6743e12f] Article 4A of the Audit (Northern Ireland) Order 1987 (S.I. [1987/460 (N.I.5)](https://www.legislation.gov.uk/nisi/1987/460)).
 
-**17.**[^key-ce5df123b597732572a660e7a7f100a6] Paragraph 1 of Schedule 1 to the Electricity Act [1989 (c. 29)](https://www.legislation.gov.uk/ukpga/1989/29).
+**17.**[^c-ce5df123b597732572a660e7a7f100a6] Paragraph 1 of Schedule 1 to the Electricity Act [1989 (c. 29)](https://www.legislation.gov.uk/ukpga/1989/29).
 
-**18.**[^key-fbd7d829132348a07159e20b03d18218] Paragraph 1 of Schedule 1 to the Water Industry Act [1991 (c. 56)](https://www.legislation.gov.uk/ukpga/1991/56).
+**18.**[^c-fbd7d829132348a07159e20b03d18218] Paragraph 1 of Schedule 1 to the Water Industry Act [1991 (c. 56)](https://www.legislation.gov.uk/ukpga/1991/56).
 
-**19.**[^key-fc505a46412f434fd017e9f7c27562ad] Paragraph 3 of Schedule 1 to the Education (Schools) Act [1992 (c. 38)](https://www.legislation.gov.uk/ukpga/1992/38).
+**19.**[^c-fc505a46412f434fd017e9f7c27562ad] Paragraph 3 of Schedule 1 to the Education (Schools) Act [1992 (c. 38)](https://www.legislation.gov.uk/ukpga/1992/38).
 
-**20.**[^key-86f9042186f8134ebba3aac489023293] Paragraphs 4 and 5 of Schedule 1 to the Friendly Societies Act [1992 (c. 40)](https://www.legislation.gov.uk/ukpga/1992/40).
+**20.**[^c-86f9042186f8134ebba3aac489023293] Paragraphs 4 and 5 of Schedule 1 to the Friendly Societies Act [1992 (c. 40)](https://www.legislation.gov.uk/ukpga/1992/40).
 
-**21.**[^key-e668b6bfb9f1454dfbb3792f3ebedbf7] Section 250 of the Trade Union and Labour Relations (Consolidation) Act [1992 (c. 52)](https://www.legislation.gov.uk/ukpga/1992/52).
+**21.**[^c-e668b6bfb9f1454dfbb3792f3ebedbf7] Section 250 of the Trade Union and Labour Relations (Consolidation) Act [1992 (c. 52)](https://www.legislation.gov.uk/ukpga/1992/52).
 
-**22.**[^key-2e914d20c3dab81f8d058635fb4fa964] Paragraph 2 of Schedule 2 to the National Lottery etc. Act [1993 (c. 39)](https://www.legislation.gov.uk/ukpga/1993/39).
+**22.**[^c-2e914d20c3dab81f8d058635fb4fa964] Paragraph 2 of Schedule 2 to the National Lottery etc. Act [1993 (c. 39)](https://www.legislation.gov.uk/ukpga/1993/39).
 
-**23.**[^key-cc788d0b89974e04018c63a899e80d72] Paragraph 1 of Schedule 1 to the Railways Act [1993 (c. 43)](https://www.legislation.gov.uk/ukpga/1993/43).
+**23.**[^c-cc788d0b89974e04018c63a899e80d72] Paragraph 1 of Schedule 1 to the Railways Act [1993 (c. 43)](https://www.legislation.gov.uk/ukpga/1993/43).
 
-**24.**[^key-d8a6be58a17b4cc24f5ef53edf7b0e55] Paragraphs 2 and 9 of Schedule 1 to the Health Service Commissioners Act [1993 (c. 46)](https://www.legislation.gov.uk/ukpga/1993/46).
+**24.**[^c-d8a6be58a17b4cc24f5ef53edf7b0e55] Paragraphs 2 and 9 of Schedule 1 to the Health Service Commissioners Act [1993 (c. 46)](https://www.legislation.gov.uk/ukpga/1993/46).
 
 (This note is not part of the Order)
 
@@ -208,64 +208,64 @@ Consequential and supplementary provisions are contained in articles 5 and 6.
 
 [^f00001]: Footnote: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26).
 
-[^key-05310433be49e7631d309b7c3c2a4f68]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1995/269/article/1) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-05310433be49e7631d309b7c3c2a4f68]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1995/269/article/1) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-079adaf9d642cb51c94f1007e8ead70b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1995/269/article/2) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-079adaf9d642cb51c94f1007e8ead70b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1995/269/article/2) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
 [^f00002]: Footnote: [1967 c. 10](https://www.legislation.gov.uk/ukpga/1967/10).
 
-[^key-f6da4707f3c00df6548fbe60a4627bcc]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1995/269/article/3) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-f6da4707f3c00df6548fbe60a4627bcc]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1995/269/article/3) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-fe02fdfa83336a7fd8d7287ab9cfe194]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1995/269/article/4) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-fe02fdfa83336a7fd8d7287ab9cfe194]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1995/269/article/4) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-ad64a434bdb6233a6252b265dffb3ef4]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/1995/269/article/5) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-ad64a434bdb6233a6252b265dffb3ef4]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/1995/269/article/5) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-bcccda51e170b2d23e9dbc8355656eb4]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/1995/269/article/6) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-bcccda51e170b2d23e9dbc8355656eb4]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/1995/269/article/6) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-334d06a439eac63e67a91dce0582bcf5]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/1) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-334d06a439eac63e67a91dce0582bcf5]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/1) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-7410a74b08ac295b88ee33dc8949f39a]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/2) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-7410a74b08ac295b88ee33dc8949f39a]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/2) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-b9ad818d4526769c4d2555dbcbef9cc3]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/3) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-b9ad818d4526769c4d2555dbcbef9cc3]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/3) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-ee36a9e94d6ea037de89ff970c75cb49]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/4) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-ee36a9e94d6ea037de89ff970c75cb49]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/4) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-709b5a5606754690817009c97b6292c5]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/5) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-709b5a5606754690817009c97b6292c5]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/5) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-a8c5b2584887cdec0796088eb533b23c]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/6) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-a8c5b2584887cdec0796088eb533b23c]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/6) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-8ffe6576cf6f24d59ccf4674a94e3ae6]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/7) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-8ffe6576cf6f24d59ccf4674a94e3ae6]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/7) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-7a08146f48a801876f4569f582d7e58b]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/8) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-7a08146f48a801876f4569f582d7e58b]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/8) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-045af046e9f543f914f59939a1664831]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/9) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-045af046e9f543f914f59939a1664831]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/9) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-876131c50710eecd874063cadef5d7be]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/10) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-876131c50710eecd874063cadef5d7be]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/10) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-1cf7fd817caef86610e97fc3ea8434b3]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/11) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-1cf7fd817caef86610e97fc3ea8434b3]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/11) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-5a4e8742be6a2291b2d0c87b8ef0377c]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/12) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-5a4e8742be6a2291b2d0c87b8ef0377c]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/12) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-4bc5e1cb384af0d2d6b444f554fdba41]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/13) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-4bc5e1cb384af0d2d6b444f554fdba41]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/13) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-c13523f772297eef0fb25a01106b479d]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/14) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-c13523f772297eef0fb25a01106b479d]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/14) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-13562c701625d00ee3e4d94387a7279a]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/15) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-13562c701625d00ee3e4d94387a7279a]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/15) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-a0de578e9eb592ec20123d7a6743e12f]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/16) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-a0de578e9eb592ec20123d7a6743e12f]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/16) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-ce5df123b597732572a660e7a7f100a6]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/17) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-ce5df123b597732572a660e7a7f100a6]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/17) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-fbd7d829132348a07159e20b03d18218]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/18) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-fbd7d829132348a07159e20b03d18218]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/18) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-fc505a46412f434fd017e9f7c27562ad]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/19) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-fc505a46412f434fd017e9f7c27562ad]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/19) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-86f9042186f8134ebba3aac489023293]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/20) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-86f9042186f8134ebba3aac489023293]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/20) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-e668b6bfb9f1454dfbb3792f3ebedbf7]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/21) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-e668b6bfb9f1454dfbb3792f3ebedbf7]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/21) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-2e914d20c3dab81f8d058635fb4fa964]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/22) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-2e914d20c3dab81f8d058635fb4fa964]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/22) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-cc788d0b89974e04018c63a899e80d72]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/23) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-cc788d0b89974e04018c63a899e80d72]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/23) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
 
-[^key-d8a6be58a17b4cc24f5ef53edf7b0e55]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/24) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)
+[^c-d8a6be58a17b4cc24f5ef53edf7b0e55]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/24) in force at 1.4.1995, see [art. 1(3)](https://www.legislation.gov.uk/uksi/1995/269/article/1/3)

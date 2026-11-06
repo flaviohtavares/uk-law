@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 108B. Right to transfer a deferred pension to the 2015 Scheme[^key-b7afa83136a7304e3af4887383979423]
+## 108B. Right to transfer a deferred pension to the 2015 Scheme[^c-b7afa83136a7304e3af4887383979423]
 
 *Extent: N.I.*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7afa83136a7304e3af4887383979423]: Textual amendment: [Reg. 108B](https://www.legislation.gov.uk/nisr/2008/256/regulation/108B) inserted (1.4.2015) by [The Health and Personal Social Services (Superannuation Scheme, Additional Voluntary Contributions and Injury Benefits), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/121)](https://www.legislation.gov.uk/nisr/2015/121), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/121/regulation/1/2), [31](https://www.legislation.gov.uk/nisr/2015/121/regulation/31)
+[^c-b7afa83136a7304e3af4887383979423]: Textual amendment: [Reg. 108B](https://www.legislation.gov.uk/nisr/2008/256/regulation/108B) inserted (1.4.2015) by [The Health and Personal Social Services (Superannuation Scheme, Additional Voluntary Contributions and Injury Benefits), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/121)](https://www.legislation.gov.uk/nisr/2015/121), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/121/regulation/1/2), [31](https://www.legislation.gov.uk/nisr/2015/121/regulation/31)

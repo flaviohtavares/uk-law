@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Amount of penalty fare[^key-8a46a5ac0ff9d480df5963e00976d314]
+## 51. Amount of penalty fare[^c-8a46a5ac0ff9d480df5963e00976d314]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a46a5ac0ff9d480df5963e00976d314]: Commencement: Art. 51 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-8a46a5ac0ff9d480df5963e00976d314]: Commencement: Art. 51 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

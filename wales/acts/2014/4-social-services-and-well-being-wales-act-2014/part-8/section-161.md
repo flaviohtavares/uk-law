@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 161. Powers of entry and inspection[^key-2c5f8ef0669a443ebbea8ab6391cb87b]
+## 161. Powers of entry and inspection[^c-2c5f8ef0669a443ebbea8ab6391cb87b]
 
 *Extent: E+W*
 
@@ -94,4 +94,4 @@ produce a document showing the inspector's authorisation given under subsection 
 
 ## Annotations
 
-[^key-2c5f8ef0669a443ebbea8ab6391cb87b]: Textual amendment: Ss. 161-161C and cross-heading substituted for s. 161 (29.4.2019) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [ss. 57(2)](https://www.legislation.gov.uk/anaw/2016/2/section/57/2), [188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1); [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(c)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/c)
+[^c-2c5f8ef0669a443ebbea8ab6391cb87b]: Textual amendment: Ss. 161-161C and cross-heading substituted for s. 161 (29.4.2019) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [ss. 57(2)](https://www.legislation.gov.uk/anaw/2016/2/section/57/2), [188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1); [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(c)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/c)

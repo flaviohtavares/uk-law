@@ -41,7 +41,7 @@ E is the amount of expenditure on the asset that is recognised for tax purposes,
 
 CE is the amount capitalised in respect of expenditure on the asset.
 
-(4) For the purposes of subsection (3), subject to any adjustments required by this Part or Part 4 of TIOPA 2010[^key-e183f1610bd29d039a61add2ff4bdeaa] (provision not at arm's length), the amount of expenditure on the asset that is recognised for tax purposes is the same as the amount of expenditure on the asset capitalised by the company.
+(4) For the purposes of subsection (3), subject to any adjustments required by this Part or Part 4 of TIOPA 2010[^c-e183f1610bd29d039a61add2ff4bdeaa] (provision not at arm's length), the amount of expenditure on the asset that is recognised for tax purposes is the same as the amount of expenditure on the asset capitalised by the company.
 
 (5) In a subsequent period of account the amount of the debit for tax purposes in respect of the expenditure on an asset is—
 
@@ -61,4 +61,4 @@ AV is the value of the asset recognised for accounting purposes immediately befo
 
 ## Annotations
 
-[^key-e183f1610bd29d039a61add2ff4bdeaa]: Textual amendment: Words in s. 729(4) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 145(1)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/145/1), [(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/145/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-e183f1610bd29d039a61add2ff4bdeaa]: Textual amendment: Words in s. 729(4) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 145(1)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/145/1), [(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/145/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

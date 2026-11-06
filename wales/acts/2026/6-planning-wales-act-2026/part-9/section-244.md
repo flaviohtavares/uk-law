@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 244. Tree preservation regulations: restriction relating to felling licences under the Forestry Act 1967[^key-d20873378215b0a2b528a854da99103d]
+## 244. Tree preservation regulations: restriction relating to felling licences under the Forestry Act 1967[^c-d20873378215b0a2b528a854da99103d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Tree preservation regulations have effect subject to section 15 of the Forestry 
 
 ## Annotations
 
-[^key-d20873378215b0a2b528a854da99103d]: Commencement: S. 244 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d20873378215b0a2b528a854da99103d]: Commencement: S. 244 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

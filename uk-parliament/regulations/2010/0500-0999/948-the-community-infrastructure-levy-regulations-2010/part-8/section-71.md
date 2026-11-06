@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Payment in full[^key-0ae506c8c024fd181444e258ae9239ff]
+## 71. Payment in full[^c-0ae506c8c024fd181444e258ae9239ff]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0ae506c8c024fd181444e258ae9239ff]: Commencement: Reg. 71 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-0ae506c8c024fd181444e258ae9239ff]: Commencement: Reg. 71 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
 [^f00041]: Footnote: *See* regulation 36(2).

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**50.**[^key-ddf60de2557d5f645b1bf716464045a6] (1) Where there is any transfer or transmission of a registered ship or share in a registered ship:—
+**50.**[^c-ddf60de2557d5f645b1bf716464045a6] (1) Where there is any transfer or transmission of a registered ship or share in a registered ship:—
 
 - (a) the person ceasing to own the ship or share, or in the event of his death, his legal personal representative, shall notify the Registrar and surrender the certificate of registry, and
 - (b) the Registrar shall cancel the certificate of registry and shall freeze the Register pending the application for the registration of the transfer or transmission by the new owner or owners of the ship or share.
@@ -35,12 +35,12 @@ summary: ''
 - (b) If the transmission is all the shares in the ship, and application is not made within a reasonable time, the Registrar may cancel the registration of the ship and the certificate of registry.
 - (c) If the transmission is of one or some of the shares in the ship, and application is not made a reasonable time, the Registrar shall serve a notice on the remaining registered owners notifying them that, unless an application to register the transmission of the share or shares in question is made within 30 days of the date of the notice the registration of the ship and the certificate of registry may be cancelled.
 
-(4)[^key-97ea54a701cdad286637794cb82799ac] —
+(4)[^c-97ea54a701cdad286637794cb82799ac] —
 
 Any person who fails to notify the Registrar, to surrender the certificate of registry, or to make application as required by paragraph (1), (2) or (3) shall be guilty of an offence.
 
 ## Annotations
 
-[^key-ddf60de2557d5f645b1bf716464045a6]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1993/3138/regulation/50) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-ddf60de2557d5f645b1bf716464045a6]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1993/3138/regulation/50) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-97ea54a701cdad286637794cb82799ac]: Textual amendment: [Reg. 50(4)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/50/4) added (10.1.2000) by [The Merchant Shipping (Registration of Ships, and Tonnage) (Amendment) Regulations 1999 (S.I. 1999/3206)](https://www.legislation.gov.uk/uksi/1999/3206), [regs. 1](https://www.legislation.gov.uk/uksi/1999/3206/regulation/1), [10](https://www.legislation.gov.uk/uksi/1999/3206/regulation/10)
+[^c-97ea54a701cdad286637794cb82799ac]: Textual amendment: [Reg. 50(4)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/50/4) added (10.1.2000) by [The Merchant Shipping (Registration of Ships, and Tonnage) (Amendment) Regulations 1999 (S.I. 1999/3206)](https://www.legislation.gov.uk/uksi/1999/3206), [regs. 1](https://www.legislation.gov.uk/uksi/1999/3206/regulation/1), [10](https://www.legislation.gov.uk/uksi/1999/3206/regulation/10)

@@ -22,8 +22,8 @@ summary: ''
 
 (1) This Chapter—
 
-- (a) applies the charge to corporation tax on income to annual payments not otherwise charged to corporation tax (see section 977), [^key-d985e88eac45f426a4385f54351bfe4a]...
-- (b)[^key-d985e88eac45f426a4385f54351bfe4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) applies the charge to corporation tax on income to annual payments not otherwise charged to corporation tax (see section 977), [^c-d985e88eac45f426a4385f54351bfe4a]...
+- (b)[^c-d985e88eac45f426a4385f54351bfe4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The following are also relevant to the tax treatment of annual payments within this Chapter—
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d985e88eac45f426a4385f54351bfe4a]: Textual amendment: S. 976(1)(b) and the word immediately preceding it repealed (with effect in accordance with Sch. 39 para. 21(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 22(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/22/2)
+[^c-d985e88eac45f426a4385f54351bfe4a]: Textual amendment: S. 976(1)(b) and the word immediately preceding it repealed (with effect in accordance with Sch. 39 para. 21(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 22(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/22/2)

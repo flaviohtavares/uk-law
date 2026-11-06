@@ -41,11 +41,11 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 108(2) and 171(1) to (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and section 5(1)(a) of the Social Security Administration (Northern Ireland) Act 1992[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, being satisfied of the matters referred to in section 108(2)(a) and (b) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-5e6d4254f06c84c8e5dab90c8ad51e71]
+## 1. Citation and commencement[^c-5e6d4254f06c84c8e5dab90c8ad51e71]
 
 These Regulations may be cited as the Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 2005 and shall come into operation on 14th March 2005.
 
-## 2. Amendment of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations[^key-a8c5e8600e50cb1ef53bad48155dbcac]
+## 2. Amendment of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations[^c-a8c5e8600e50cb1ef53bad48155dbcac]
 
 (1) The Social Security (Industrial Injuries) (Prescribed Diseases) Regulations (Northern Ireland) 1986[^f00004] shall be amended in accordance with paragraphs (2) to (4) of this regulation.
 
@@ -103,11 +103,11 @@ These Regulations may be cited as the Social Security (Industrial Injuries) (Pre
 
   .
 
-## 3. Transitional provision[^key-823bffc1ccb150bb384d51683e48eab7]
+## 3. Transitional provision[^c-823bffc1ccb150bb384d51683e48eab7]
 
 Regulation 2(4) shall not apply to a period of assessment which relates to a claim which is made before the date on which these Regulations come into operation.
 
-## 4. Revocations[^key-7086cdb733de203961020fb489856eca]
+## 4. Revocations[^c-7086cdb733de203961020fb489856eca]
 
 Article 9(10) of the Social Security (1998 Order) (Commencement No. 7 and Savings, Consequential and Transitional Provisions) Order (Northern Ireland) 1999[^f00010] and regulation 2(3)(b) of the Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 2000[^f00011] are hereby revoked.
 
@@ -143,9 +143,9 @@ These Regulations do not impose a charge on business.
 
 [^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-5e6d4254f06c84c8e5dab90c8ad51e71]: Commencement: Reg. 1 in operation at 14.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/37/regulation/1)
+[^c-5e6d4254f06c84c8e5dab90c8ad51e71]: Commencement: Reg. 1 in operation at 14.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/37/regulation/1)
 
-[^key-a8c5e8600e50cb1ef53bad48155dbcac]: Commencement: Reg. 2 in operation at 14.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/37/regulation/1)
+[^c-a8c5e8600e50cb1ef53bad48155dbcac]: Commencement: Reg. 2 in operation at 14.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/37/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1986 No. 179](https://www.legislation.gov.uk/nisr/1986/179); relevant amending regulations are [S.R. 1986 No. 270](https://www.legislation.gov.uk/nisr/1986/270), [S.R. 1989 No. 319](https://www.legislation.gov.uk/nisr/1989/319), [S.R. 1991 No. 414](https://www.legislation.gov.uk/nisr/1991/414), [S.R. 1993 No. 148](https://www.legislation.gov.uk/nisr/1993/148), [S.R. 1996 No. 57](https://www.legislation.gov.uk/nisr/1996/57), [S.R. 1999 No. 310 (C. 23)](https://www.legislation.gov.uk/nisr/1999/310), [S.R. 2000 No. 214](https://www.legislation.gov.uk/nisr/2000/214) and [S.R. 2003 No. 388](https://www.legislation.gov.uk/nisr/2003/388)
 
@@ -159,9 +159,9 @@ These Regulations do not impose a charge on business.
 
 [^f00009]: Footnote: Prescribed disease D7 was amended by regulation 2(2) of [S.R. 1986 No. 270](https://www.legislation.gov.uk/nisr/1986/270) and regulation 2(3) of [S.R. 1991 No. 414](https://www.legislation.gov.uk/nisr/1991/414)
 
-[^key-823bffc1ccb150bb384d51683e48eab7]: Commencement: Reg. 3 in operation at 14.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/37/regulation/1)
+[^c-823bffc1ccb150bb384d51683e48eab7]: Commencement: Reg. 3 in operation at 14.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/37/regulation/1)
 
-[^key-7086cdb733de203961020fb489856eca]: Commencement: Reg. 4 in operation at 14.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/37/regulation/1)
+[^c-7086cdb733de203961020fb489856eca]: Commencement: Reg. 4 in operation at 14.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/37/regulation/1)
 
 [^f00010]: Footnote: [S.R. 1999 No. 310 (C. 23)](https://www.legislation.gov.uk/nisr/1999/310)
 

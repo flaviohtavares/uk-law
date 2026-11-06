@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 260. Power of parish council, or local authority, to deal with ponds, ditches, &c.[^key-a831bd551ed68f1a7a7eaf88459c6c76][^key-d8e3b07e58c18d70ce76b9d4042c83db][^key-bf90135fe7d8828a67a6169e32d77929][^c611664]
+## 260. Power of parish council, or local authority, to deal with ponds, ditches, &c.[^c-a831bd551ed68f1a7a7eaf88459c6c76][^c-d8e3b07e58c18d70ce76b9d4042c83db][^c-bf90135fe7d8828a67a6169e32d77929][^c611664]
 
 *Extent: E+W*
 
@@ -30,10 +30,10 @@ summary: ''
 
 ## Annotations
 
-[^key-a831bd551ed68f1a7a7eaf88459c6c76]: Modification: [S. 260](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/260) modified (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
+[^c-a831bd551ed68f1a7a7eaf88459c6c76]: Modification: [S. 260](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/260) modified (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
 
-[^key-d8e3b07e58c18d70ce76b9d4042c83db]: Modification: [S. 260](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/260): functions transferred and modified (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
+[^c-d8e3b07e58c18d70ce76b9d4042c83db]: Modification: [S. 260](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/260): functions transferred and modified (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
 
-[^key-bf90135fe7d8828a67a6169e32d77929]: Modification: [S. 260](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/260): functions etc. assigned to the Port Health Authority (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1161/schedule) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))
+[^c-bf90135fe7d8828a67a6169e32d77929]: Modification: [S. 260](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/260): functions etc. assigned to the Port Health Authority (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1161/schedule) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))
 
 [^c611664]: Modification: S. 260 restricted by [S.I. 1965/654](https://www.legislation.gov.uk/uksi/1965/654), [art. 3(10)](https://www.legislation.gov.uk/uksi/1965/654/article/3/10)

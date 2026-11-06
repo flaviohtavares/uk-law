@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Supplies of commodities to be used in producing electricity[^key-7679fa0f338e4f15b0c43fc240dd5bb7]
+## 78. Supplies of commodities to be used in producing electricity[^c-7679fa0f338e4f15b0c43fc240dd5bb7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7679fa0f338e4f15b0c43fc240dd5bb7]: Textual amendment: [S. 78(3)](https://www.legislation.gov.uk/ukpga/2011/11/section/78/3) omitted (26.3.2013 retrospective) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 42 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/42/paragraph/1/2/a)[(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/42/paragraph/1/3)
+[^c-7679fa0f338e4f15b0c43fc240dd5bb7]: Textual amendment: [S. 78(3)](https://www.legislation.gov.uk/ukpga/2011/11/section/78/3) omitted (26.3.2013 retrospective) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 42 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/42/paragraph/1/2/a)[(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/42/paragraph/1/3)

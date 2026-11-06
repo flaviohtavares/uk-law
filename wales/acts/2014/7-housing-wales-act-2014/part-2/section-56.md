@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Meaning of accommodation available for occupation[^key-dac9a6f10c078a9e12a88abb5e524ed3]
+## 56. Meaning of accommodation available for occupation[^c-dac9a6f10c078a9e12a88abb5e524ed3]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dac9a6f10c078a9e12a88abb5e524ed3]: Commencement: [S. 56](https://www.legislation.gov.uk/anaw/2014/7/section/56) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 7](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/7)
+[^c-dac9a6f10c078a9e12a88abb5e524ed3]: Commencement: [S. 56](https://www.legislation.gov.uk/anaw/2014/7/section/56) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 7](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/7)

@@ -48,10 +48,10 @@ summary: ''
 
 (10) Any guidance given by the Commission for the purposes of this section may take such form and be given in such manner as the Commission considers appropriate.
 
-(11) For the purposes of sections 123 and 124, the references in sections 123(7)(b) and 124(2) to any obligation imposed on the charity trustees by or under section 123 include[^key-5d5955cefa15fb7050868a2beaff7277] a reference to any obligation imposed on them by virtue of any of subsections (6) to (8) above.
+(11) For the purposes of sections 123 and 124, the references in sections 123(7)(b) and 124(2) to any obligation imposed on the charity trustees by or under section 123 include[^c-5d5955cefa15fb7050868a2beaff7277] a reference to any obligation imposed on them by virtue of any of subsections (6) to (8) above.
 
 (12) Section 123(13) applies for the purposes of this section as it applies for the purposes of section 123.
 
 ## Annotations
 
-[^key-5d5955cefa15fb7050868a2beaff7277]: Textual amendment: Words in [s. 125(11)](https://www.legislation.gov.uk/nia/2008/12/section/125/11) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/22)
+[^c-5d5955cefa15fb7050868a2beaff7277]: Textual amendment: Words in [s. 125(11)](https://www.legislation.gov.uk/nia/2008/12/section/125/11) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/22)

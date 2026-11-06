@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Obstruction offences[^key-ae3d7b95f5f795165e131fa9704ce923]
+## 31. Obstruction offences[^c-ae3d7b95f5f795165e131fa9704ce923]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ It is an offence—
 
 ## Annotations
 
-[^key-ae3d7b95f5f795165e131fa9704ce923]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2014/951/regulation/31) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-ae3d7b95f5f795165e131fa9704ce923]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2014/951/regulation/31) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

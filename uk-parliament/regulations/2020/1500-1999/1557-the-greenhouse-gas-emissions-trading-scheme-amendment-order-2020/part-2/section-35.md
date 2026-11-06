@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Schedule 4 amended (modifications to Monitoring and Reporting Regulation 2018)[^key-56b9c84bc9ea91d571539f789b046710]
+## 35. Schedule 4 amended (modifications to Monitoring and Reporting Regulation 2018)[^c-56b9c84bc9ea91d571539f789b046710]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56b9c84bc9ea91d571539f789b046710]: Commencement: Art. 35 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-56b9c84bc9ea91d571539f789b046710]: Commencement: Art. 35 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

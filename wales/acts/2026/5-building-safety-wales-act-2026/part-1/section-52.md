@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Category 2 and category 3 buildings: duty of accountable persons to arrange consideration of complaints[^key-c22abb63ac774fbb7750980f91d59a52]
+## 52. Category 2 and category 3 buildings: duty of accountable persons to arrange consideration of complaints[^c-c22abb63ac774fbb7750980f91d59a52]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c22abb63ac774fbb7750980f91d59a52]: Commencement: S. 52 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-c22abb63ac774fbb7750980f91d59a52]: Commencement: S. 52 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

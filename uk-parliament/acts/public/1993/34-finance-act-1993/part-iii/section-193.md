@@ -43,8 +43,8 @@ the expenditure shall be disregarded in determining the assessable profit or all
 
 > (3A) No order may be made under subsection (2)(a) above on or after 1st July 1993.
 
-(6) In this section “**disposal receipts**”, “**qualifying asset**” and “**tariff receipts**” have the same meaning as in the 1983 Act; and section 1122 of the Corporation Tax Act 2010[^key-01ac0366aa27132dd3cb69d5489d2afe] (connected persons) applies for the purposes of subsection (2)(c) above.
+(6) In this section “**disposal receipts**”, “**qualifying asset**” and “**tariff receipts**” have the same meaning as in the 1983 Act; and section 1122 of the Corporation Tax Act 2010[^c-01ac0366aa27132dd3cb69d5489d2afe] (connected persons) applies for the purposes of subsection (2)(c) above.
 
 ## Annotations
 
-[^key-01ac0366aa27132dd3cb69d5489d2afe]: Textual amendment: Words in [s. 193(6)](https://www.legislation.gov.uk/ukpga/1993/34/section/193/6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 278](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/278) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-01ac0366aa27132dd3cb69d5489d2afe]: Textual amendment: Words in [s. 193(6)](https://www.legislation.gov.uk/ukpga/1993/34/section/193/6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 278](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/278) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

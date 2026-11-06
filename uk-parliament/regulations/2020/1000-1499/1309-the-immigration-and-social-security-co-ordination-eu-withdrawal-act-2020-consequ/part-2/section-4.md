@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Amendment of the Aliens' Employment Act 1955[^key-10664f3307be52a346ea45469ecf3408][^M_I_2e7d82dc-f1ec-407e-f0ac-c3c3238e9ec2]
+## 4. Amendment of the Aliens' Employment Act 1955[^c-10664f3307be52a346ea45469ecf3408][^M_I_2e7d82dc-f1ec-407e-f0ac-c3c3238e9ec2]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,7 +59,7 @@ summary: ''
 
 ## Annotations
 
-[^key-10664f3307be52a346ea45469ecf3408]: Commencement: Reg. 4 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-10664f3307be52a346ea45469ecf3408]: Commencement: Reg. 4 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_2e7d82dc-f1ec-407e-f0ac-c3c3238e9ec2]: Commencement: Reg. 4 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

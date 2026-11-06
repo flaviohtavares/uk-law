@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Restrictions on requiring information etc.[^key-2b2384b893f4302ed5112030498f9cc2][^key-229b61980f20eb6be32c46aa5c15dec8][^key-a8faaf61725f45aa0284914e8dc2ea99]
+## 64. Restrictions on requiring information etc.[^c-2b2384b893f4302ed5112030498f9cc2][^c-229b61980f20eb6be32c46aa5c15dec8][^c-a8faaf61725f45aa0284914e8dc2ea99]
 
 *Extent: E+W+S*
 
@@ -34,7 +34,7 @@ except that a lawyer may be required to provide the name and address of a client
 
 (4) A “**privileged document**” is a document which the person would be entitled to refuse to produce on grounds of legal professional privilege in such proceedings.
 
-(5) A person may not be required under section 62 to produce any excluded material (as defined by section 11 of the Police and Criminal Evidence Act 1984 (c. 60) or, in relation to Northern Ireland, Article 13 of the Police and Criminal Evidence (Northern Ireland) Order 1989[^key-f6e33fd9dffed125c6336d32051b6d01]).
+(5) A person may not be required under section 62 to produce any excluded material (as defined by section 11 of the Police and Criminal Evidence Act 1984 (c. 60) or, in relation to Northern Ireland, Article 13 of the Police and Criminal Evidence (Northern Ireland) Order 1989[^c-f6e33fd9dffed125c6336d32051b6d01]).
 
 (6) In the application of this section to Scotland—
 
@@ -52,10 +52,10 @@ except that a lawyer may be required to provide the name and address of a client
 
 ## Annotations
 
-[^key-2b2384b893f4302ed5112030498f9cc2]: Commencement: S. 64 in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)
+[^c-2b2384b893f4302ed5112030498f9cc2]: Commencement: S. 64 in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)
 
-[^key-229b61980f20eb6be32c46aa5c15dec8]: Commencement: S. 64 in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/a)
+[^c-229b61980f20eb6be32c46aa5c15dec8]: Commencement: S. 64 in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/a)
 
-[^key-a8faaf61725f45aa0284914e8dc2ea99]: Modification: Ss. 60-67 extended (Northern Ireland) (1.12.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2006/33/section/26/1), [31(3)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/3); [S.I. 2006/2966](https://www.legislation.gov.uk/uksi/2006/2966), [art. 3](https://www.legislation.gov.uk/uksi/2006/2966/article/3)
+[^c-a8faaf61725f45aa0284914e8dc2ea99]: Modification: Ss. 60-67 extended (Northern Ireland) (1.12.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2006/33/section/26/1), [31(3)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/3); [S.I. 2006/2966](https://www.legislation.gov.uk/uksi/2006/2966), [art. 3](https://www.legislation.gov.uk/uksi/2006/2966/article/3)
 
-[^key-f6e33fd9dffed125c6336d32051b6d01]: Textual amendment: Words in s. 64(5) inserted (1.12.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [s. 31(3)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/3), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2006/33/schedule/3/paragraph/5); [S.I. 2006/2966](https://www.legislation.gov.uk/uksi/2006/2966), [art. 3](https://www.legislation.gov.uk/uksi/2006/2966/article/3)
+[^c-f6e33fd9dffed125c6336d32051b6d01]: Textual amendment: Words in s. 64(5) inserted (1.12.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [s. 31(3)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/3), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2006/33/schedule/3/paragraph/5); [S.I. 2006/2966](https://www.legislation.gov.uk/uksi/2006/2966), [art. 3](https://www.legislation.gov.uk/uksi/2006/2966/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Payment of grants for fees[^key-b2732ead770613830ca088a2cd1c0e8c]
+## 147. Payment of grants for fees[^c-b2732ead770613830ca088a2cd1c0e8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2732ead770613830ca088a2cd1c0e8c]: Commencement: Reg. 147 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-b2732ead770613830ca088a2cd1c0e8c]: Commencement: Reg. 147 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

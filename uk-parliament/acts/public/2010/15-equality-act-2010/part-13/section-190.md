@@ -23,7 +23,7 @@ summary: ''
 (1) This section applies in relation to a lease of a dwelling house if each of the following applies—
 
 - (a) the tenancy is not a protected tenancy, a statutory tenancy or a secure tenancy;
-- (aa)[^key-4e6c9c4111ac57e14542fe2c9bb2fb34] the tenancy is not a secure contract in relation to which the landlord is a local authority;
+- (aa)[^c-4e6c9c4111ac57e14542fe2c9bb2fb34] the tenancy is not a secure contract in relation to which the landlord is a local authority;
 - (b) the tenant or another person occupying or intending to occupy the premises is a disabled person;
 - (c) the disabled person occupies or intends to occupy the premises as that person's only or main home;
 - (d) the tenant is entitled, with the consent of the landlord, to make improvements to the premises;
@@ -61,11 +61,11 @@ it is for the landlord to show that it was not.
 - “**lease**” includes a sub-lease or other tenancy, and “landlord” and “tenant” are to be construed accordingly;
 - “**protected tenancy**” has the same meaning as in section 1 of the Rent Act 1977;
 - “**statutory tenancy**” is to be construed in accordance with section 2 of that Act;
-- “[^key-eca77dd7db88b7ff2065b05f6bb8c735]**secure contract**” has the same meaning as in the Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1) (see section 8 of that Act);
+- “[^c-eca77dd7db88b7ff2065b05f6bb8c735]**secure contract**” has the same meaning as in the Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1) (see section 8 of that Act);
 - “**secure tenancy**” has the same meaning as in section 79 of the Housing Act 1985.
 
 ## Annotations
 
-[^key-4e6c9c4111ac57e14542fe2c9bb2fb34]: Textual amendment: [S. 190(1)(aa)](https://www.legislation.gov.uk/ukpga/2010/15/section/190/1/aa) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [30(2)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/30/2)
+[^c-4e6c9c4111ac57e14542fe2c9bb2fb34]: Textual amendment: [S. 190(1)(aa)](https://www.legislation.gov.uk/ukpga/2010/15/section/190/1/aa) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [30(2)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/30/2)
 
-[^key-eca77dd7db88b7ff2065b05f6bb8c735]: Textual amendment: Words in [s. 190(9)](https://www.legislation.gov.uk/ukpga/2010/15/section/190/9) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [30(3)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/30/3)
+[^c-eca77dd7db88b7ff2065b05f6bb8c735]: Textual amendment: Words in [s. 190(9)](https://www.legislation.gov.uk/ukpga/2010/15/section/190/9) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [30(3)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/30/3)

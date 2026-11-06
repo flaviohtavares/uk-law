@@ -22,12 +22,12 @@ summary: ''
 
 Article 44
 
-**405.**[^key-af4f4b9339961f4c7d85938ef9230858] In this Schedule—
+**405.**[^c-af4f4b9339961f4c7d85938ef9230858] In this Schedule—
 
 - “**requirement consultee**” means any body named in a requirement as a body to be consulted by the relevant planning authority in discharging that requirement; and
 - “**start date**” means the date of the notification given by the Secretary of State under paragraph 409(2)(b).
 
-### 406. Applications made under a Requirement[^key-2340df54103a91286d0d0506ef4844d4]
+### 406. Applications made under a Requirement[^c-2340df54103a91286d0d0506ef4844d4]
 
 (1) Where an application has been made to the relevant planning authority for any consent, agreement or approval required by a Requirement the relevant planning authority must give notice to the undertaker of its decision on the application within a period of eight weeks beginning with the later of—
 
@@ -46,7 +46,7 @@ Article 44
 
 then the application is deemed to have been refused by the relevant planning authority at the end of that period.
 
-### 407. Further information and consultation[^key-f092521c146591aa6d00cc1bb8b5ec86]
+### 407. Further information and consultation[^c-f092521c146591aa6d00cc1bb8b5ec86]
 
 (1) In relation to any application to which this Schedule applies, the relevant planning authority may request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -56,7 +56,7 @@ then the application is deemed to have been refused by the relevant planning aut
 
 (4) In the event that the relevant planning authority does not give notification as specified in sub-paragraph (2) or (3) it is deemed to have sufficient information to consider the application and is not thereafter entitled to request further information without the prior agreement of the undertaker.
 
-### 408. Fees[^key-c4fb581d0cabf46f147ec5e1d2a001ad]
+### 408. Fees[^c-c4fb581d0cabf46f147ec5e1d2a001ad]
 
 (1) Where an application is made to the relevant planning authority for written consent, agreement or approval in respect of a requirement, the fee prescribed under regulation 16(1)(b) of the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) Regulations 2012[^f00059] (as may be amended or replaced from time to time) is to apply and must be paid to the relevant planning authority for each application.
 
@@ -67,7 +67,7 @@ then the application is deemed to have been refused by the relevant planning aut
   - (i) within that period the undertaker agrees, in writing, that the fee is to be retained by the relevant planning authority and credited in respect of a future application; or
   - (ii) a longer period of time for determining the application has been agreed pursuant to paragraph 406 of this Schedule.
 
-### 409. Appeals[^key-35b8c86b5fa95d63a1b7320e5ba8bc54]
+### 409. Appeals[^c-35b8c86b5fa95d63a1b7320e5ba8bc54]
 
 (1) The undertaker may appeal in the event that—
 
@@ -108,14 +108,14 @@ then the application is deemed to have been refused by the relevant planning aut
 
 ## Annotations
 
-[^key-af4f4b9339961f4c7d85938ef9230858]: Commencement: Sch. 13 para. 405 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-af4f4b9339961f4c7d85938ef9230858]: Commencement: Sch. 13 para. 405 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-2340df54103a91286d0d0506ef4844d4]: Commencement: Sch. 13 para. 406 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-2340df54103a91286d0d0506ef4844d4]: Commencement: Sch. 13 para. 406 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-f092521c146591aa6d00cc1bb8b5ec86]: Commencement: Sch. 13 para. 407 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-f092521c146591aa6d00cc1bb8b5ec86]: Commencement: Sch. 13 para. 407 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-c4fb581d0cabf46f147ec5e1d2a001ad]: Commencement: Sch. 13 para. 408 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-c4fb581d0cabf46f147ec5e1d2a001ad]: Commencement: Sch. 13 para. 408 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
 [^f00059]: Footnote: [S.I. 2012/2920](https://www.legislation.gov.uk/uksi/2012/2920).
 
-[^key-35b8c86b5fa95d63a1b7320e5ba8bc54]: Commencement: Sch. 13 para. 409 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-35b8c86b5fa95d63a1b7320e5ba8bc54]: Commencement: Sch. 13 para. 409 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)

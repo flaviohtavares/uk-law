@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Interim protection pending decision on certain amendments relating to the schedule[^key-6faa9adcc62203a37f1515c9eaba3c1d][^key-6fcd57eda9f17e4ff6c1f5b4f4db2209]
+## 6. Interim protection pending decision on certain amendments relating to the schedule[^c-6faa9adcc62203a37f1515c9eaba3c1d][^c-6fcd57eda9f17e4ff6c1f5b4f4db2209]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6faa9adcc62203a37f1515c9eaba3c1d]: Commencement: S. 6 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-6faa9adcc62203a37f1515c9eaba3c1d]: Commencement: S. 6 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-6fcd57eda9f17e4ff6c1f5b4f4db2209]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2023/3/section/6) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-6fcd57eda9f17e4ff6c1f5b4f4db2209]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2023/3/section/6) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

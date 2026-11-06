@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Power to obtain contact details for debtors[^key-b1322676d089639edb89b73b2013b7be]
+## 93. Power to obtain contact details for debtors[^c-b1322676d089639edb89b73b2013b7be]
 
 *Extent: E+W*
 
@@ -24,11 +24,11 @@ summary: ''
 
 (2) Condition 1 is that an amount by way of—
 
-- (a) WRA-collected[^key-fff3af6ed431e746ec4d55fe1114ea14] tax,
+- (a) WRA-collected[^c-fff3af6ed431e746ec4d55fe1114ea14] tax,
 - (b) interest on WRA-collected tax,
-- (c) a penalty relating to WRA-collected tax, [^key-52dbded475789edb2db517ab01d78170]...
+- (c) a penalty relating to WRA-collected tax, [^c-52dbded475789edb2db517ab01d78170]...
 - (d) interest on a penalty relating to WRA-collected tax,
-- (e)[^key-08171d210c9c214404f4f7116ccdfbe6] a payment in respect of a tax credit, or
+- (e)[^c-08171d210c9c214404f4f7116ccdfbe6] a payment in respect of a tax credit, or
 - (f) interest on a payment in respect of a tax credit,
 
 is payable by the debtor to WRA under an enactment or contract settlement.
@@ -53,10 +53,10 @@ is payable by the debtor to WRA under an enactment or contract settlement.
 
 ## Annotations
 
-[^key-b1322676d089639edb89b73b2013b7be]: Commencement: S. 93 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-b1322676d089639edb89b73b2013b7be]: Commencement: S. 93 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
 
-[^key-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
+[^c-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
 
-[^key-52dbded475789edb2db517ab01d78170]: Textual amendment: Word in [s. 93(2)](https://www.legislation.gov.uk/anaw/2016/6/section/93/2) omitted (1.4.2018) by virtue of [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 20(a)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/20/a)
+[^c-52dbded475789edb2db517ab01d78170]: Textual amendment: Word in [s. 93(2)](https://www.legislation.gov.uk/anaw/2016/6/section/93/2) omitted (1.4.2018) by virtue of [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 20(a)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/20/a)
 
-[^key-08171d210c9c214404f4f7116ccdfbe6]: Textual amendment: [S. 93(2)(e)](https://www.legislation.gov.uk/anaw/2016/6/section/93/2/e)[(f)](https://www.legislation.gov.uk/anaw/2016/6/section/93/2/f) inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 20(b)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/20/b)
+[^c-08171d210c9c214404f4f7116ccdfbe6]: Textual amendment: [S. 93(2)(e)](https://www.legislation.gov.uk/anaw/2016/6/section/93/2/e)[(f)](https://www.legislation.gov.uk/anaw/2016/6/section/93/2/f) inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 20(b)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/20/b)

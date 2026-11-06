@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Articles 29(1) and 110(2) of the Road Traffic (Northern Ireland) Order 1995[^f00001], and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-6eec5317036386e9b57d05fbcc2b90a1]
+## 1. Citation, commencement and interpretation[^c-6eec5317036386e9b57d05fbcc2b90a1]
 
 (1) These Regulations may be cited as the Motor Cycles (Eye Protectors) Regulations (Northern Ireland) 2000 and shall come into operation on 21st June 2000.
 
-(2)[^key-11a3a04579c31f04b4f4d834c53ddaba] In these Regulations—
+(2)[^c-11a3a04579c31f04b4f4d834c53ddaba] In these Regulations—
 
 - “ECE Regulation 22” means Regulation No. 22 set out in Addendum 21 to the UNECE Agreement;
 - “ECE Regulation 22.05” means ECE Regulation 22 as amended by the 05 series of amendments and all previous amendments in operation on 14th May 2001;
@@ -54,7 +54,7 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 - “motor bicycle” means a two-wheeled motor cycle, whether or not having a side-car attached, and for the purposes of this definition, where the distance measured between the centre of the area of contact with the road surface of any two wheels of a motor cycle is less than 460 millimetres, those wheels shall be counted as one wheel;
 - “the UNECE Agreement” means the Agreement of the United Nations Economic Commission for Europe concluded at Geneva on 20th March 1958 as amended concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or used on wheeled vehicles and the conditions for the reciprocal recognition of approvals granted on the basis of these prescriptions, to which the United Kingdom is a party by virtue of an instrument of accession dated 14th January 1963 deposited with the Secretary General of the United Nations on 15th January 1963.
 
-## 2. Prescribed types of authorised eye protector[^key-beb13c55490d5d748c6a07f611849936]
+## 2. Prescribed types of authorised eye protector[^c-beb13c55490d5d748c6a07f611849936]
 
 (1) Subject to paragraph (3), the types of eye protector hereby prescribed as authorised for use by persons driving or riding (otherwise than in a side-car) on a motor bicycle are—
 
@@ -64,7 +64,7 @@ The Department of the Environment, in exercise of the powers conferred on it by 
   - (iii) to any other standard accepted by an EEA State, which offers in use levels of safety, suitability and fitness for purpose equivalent to those offered by the standards referred to in paragraph (i) or (ii) above, and are marked with a mark to indicate that standard,
 
   and in each case are marked with an approved certification mark of an approved body (whether or not they are required to be so marked by the standard in point);
-- (aa)[^key-f8e00b98acb9f74c7f4b1af2590d3f83] those which conform with ECE Regulation 22.05 including the approval, marking and conformity of production requirements of that Regulation;
+- (aa)[^c-f8e00b98acb9f74c7f4b1af2590d3f83] those which conform with ECE Regulation 22.05 including the approval, marking and conformity of production requirements of that Regulation;
 - (b) those which comply with the requirements of Council Directive [89/686/EEC](https://www.legislation.gov.uk/european/directive/1989/0686)[^f00003] of the 21st December 1989 on the approximation of the laws of the Member States relating to personal protective equipment as amended by Council Directives [93/68/EEC](https://www.legislation.gov.uk/european/directive/1993/0068)[^f00004] of 22nd July 1993, [93/95/EEC](https://www.legislation.gov.uk/european/directive/1993/0095)[^f00005] of 29th October 1993 and [96/58/EEC](https://www.legislation.gov.uk/european/directive/1996/0058)[^f00006] of 3rd September 1996; or
 - (c) those which were first used before 1st April 1989 and fulfil all of the following requirements—
   - (i) they are fitted with lenses that are designed to correct a defect in sight,
@@ -124,13 +124,13 @@ Copies of the Council Directives referred to in these Regulations and this Expla
 
 [^f00001]: Footnote: S.I. [1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994); *see* Article 2(2) for the definition of “the Department”
 
-[^key-6eec5317036386e9b57d05fbcc2b90a1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/161/regulation/1) in operation at 21.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/161/regulation/1/1)
+[^c-6eec5317036386e9b57d05fbcc2b90a1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/161/regulation/1) in operation at 21.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/161/regulation/1/1)
 
-[^key-11a3a04579c31f04b4f4d834c53ddaba]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/161/regulation/1/2) substituted (14.5.2001) by [Motor Cycles (Eye Protectors) (Amendment) Regulations (Northern Ireland) 2001 (S.R. 2001/146)](https://www.legislation.gov.uk/nisr/2001/146), [regs. 1](https://www.legislation.gov.uk/nisr/2001/146/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2001/146/regulation/2/2)
+[^c-11a3a04579c31f04b4f4d834c53ddaba]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/161/regulation/1/2) substituted (14.5.2001) by [Motor Cycles (Eye Protectors) (Amendment) Regulations (Northern Ireland) 2001 (S.R. 2001/146)](https://www.legislation.gov.uk/nisr/2001/146), [regs. 1](https://www.legislation.gov.uk/nisr/2001/146/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2001/146/regulation/2/2)
 
-[^key-beb13c55490d5d748c6a07f611849936]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/161/regulation/2) in operation at 21.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/161/regulation/1/1)
+[^c-beb13c55490d5d748c6a07f611849936]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/161/regulation/2) in operation at 21.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/161/regulation/1/1)
 
-[^key-f8e00b98acb9f74c7f4b1af2590d3f83]: Textual amendment: [Reg. 2(1)(aa)](https://www.legislation.gov.uk/nisr/2000/161/regulation/2/1/aa) inserted (14.5.2001) by [Motor Cycles (Eye Protectors) (Amendment) Regulations (Northern Ireland) 2001 (S.R. 2001/146)](https://www.legislation.gov.uk/nisr/2001/146), [regs. 1](https://www.legislation.gov.uk/nisr/2001/146/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2001/146/regulation/2/3)
+[^c-f8e00b98acb9f74c7f4b1af2590d3f83]: Textual amendment: [Reg. 2(1)(aa)](https://www.legislation.gov.uk/nisr/2000/161/regulation/2/1/aa) inserted (14.5.2001) by [Motor Cycles (Eye Protectors) (Amendment) Regulations (Northern Ireland) 2001 (S.R. 2001/146)](https://www.legislation.gov.uk/nisr/2001/146), [regs. 1](https://www.legislation.gov.uk/nisr/2001/146/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2001/146/regulation/2/3)
 
 [^f00003]: Footnote: O.J. No. L399, 30.12.89, p. 18
 

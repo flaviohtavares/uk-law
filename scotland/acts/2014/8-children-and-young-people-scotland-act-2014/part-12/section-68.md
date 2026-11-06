@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Provision of relevant services to parents and others[^key-b4eb87e63be16ec1e9f221b3d0a88bf7][^key-8678b73ed2d655a6587d418184517ad7]
+## 68. Provision of relevant services to parents and others[^c-b4eb87e63be16ec1e9f221b3d0a88bf7][^c-8678b73ed2d655a6587d418184517ad7]
 
 *Extent: S*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b4eb87e63be16ec1e9f221b3d0a88bf7]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2014/8/section/68) in force at 1.8.2014 for specified purposes by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
+[^c-b4eb87e63be16ec1e9f221b3d0a88bf7]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2014/8/section/68) in force at 1.8.2014 for specified purposes by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
 
-[^key-8678b73ed2d655a6587d418184517ad7]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2014/8/section/68) in force at 31.8.2016 in so far as not already in force by [S.S.I. 2016/60](https://www.legislation.gov.uk/ssi/2016/60), [art. 2(a)(ii)](https://www.legislation.gov.uk/ssi/2016/60/article/2/a/ii)
+[^c-8678b73ed2d655a6587d418184517ad7]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2014/8/section/68) in force at 31.8.2016 in so far as not already in force by [S.S.I. 2016/60](https://www.legislation.gov.uk/ssi/2016/60), [art. 2(a)(ii)](https://www.legislation.gov.uk/ssi/2016/60/article/2/a/ii)

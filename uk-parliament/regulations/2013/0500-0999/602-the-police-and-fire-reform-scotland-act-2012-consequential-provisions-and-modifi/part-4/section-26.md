@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Modifications of enactments[^key-23b54baefe72d74c22ab8a83a91470b9]
+## 26. Modifications of enactments[^c-23b54baefe72d74c22ab8a83a91470b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The modifications specified in Schedule 2 have effect.
 
 ## Annotations
 
-[^key-23b54baefe72d74c22ab8a83a91470b9]: Commencement: Art. 26 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-23b54baefe72d74c22ab8a83a91470b9]: Commencement: Art. 26 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)

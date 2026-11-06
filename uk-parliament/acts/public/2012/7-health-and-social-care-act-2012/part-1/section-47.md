@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Secretary of State's emergency powers[^key-3f614d37e1d5606c4fe00c58c781bce4][^c2191288]
+## 47. Secretary of State's emergency powers[^c-3f614d37e1d5606c4fe00c58c781bce4][^c2191288]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f614d37e1d5606c4fe00c58c781bce4]: Commencement: S. 47 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-3f614d37e1d5606c4fe00c58c781bce4]: Commencement: S. 47 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191288]: Commencement: S. 47 partly in force; s. 47 in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

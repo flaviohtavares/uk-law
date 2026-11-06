@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 221. Functions of the Secretary of State in relation to social care workers[^c2135217][^key-74f04fc08ef99a95ea480d01af4e10b7]
+## 221. Functions of the Secretary of State in relation to social care workers[^c2135217][^c-74f04fc08ef99a95ea480d01af4e10b7]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^c2135217]: Commencement: [S. 221](https://www.legislation.gov.uk/ukpga/2012/7/section/221) partly in force; [s. 221(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/221/3) in force at Royal Assent, see [s. 306(1)(b)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/b)
 
-[^key-74f04fc08ef99a95ea480d01af4e10b7]: Commencement: [S. 221](https://www.legislation.gov.uk/ukpga/2012/7/section/221) in force at 1.8.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
+[^c-74f04fc08ef99a95ea480d01af4e10b7]: Commencement: [S. 221](https://www.legislation.gov.uk/ukpga/2012/7/section/221) in force at 1.8.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)

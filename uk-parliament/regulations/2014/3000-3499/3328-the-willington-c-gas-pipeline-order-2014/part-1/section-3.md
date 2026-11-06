@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Application and modification of legislative provisions[^key-bfb745375937401e8dff64594683e402]
+## 3. Application and modification of legislative provisions[^c-bfb745375937401e8dff64594683e402]
 
 *Extent: E+W+S*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bfb745375937401e8dff64594683e402]: Commencement: Art. 3 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-bfb745375937401e8dff64594683e402]: Commencement: Art. 3 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
 
 [^f00018]: Footnote: Section 78 was amended by section 43(2) of the Planning and Compulsory Purchase Act [2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5), paragraph 3(b) of Schedule 10 to the Planning Act 2008, section 123(3) of, and paragraph 11 of Schedule 12 to, the Localism Act 2011 and paragraph 8 of Schedule 1 to the Growth and Infrastructure Act 2013.
 

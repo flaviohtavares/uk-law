@@ -27,7 +27,7 @@ summary: ''
 
 then such right shall, in relation to that property (or part), be extinguished unless it is constituted as a rural housing burden in which case the title condition shall be taken to have been complied with as respects that event only.
 
-(2) An offer shall be in writing and shall comply with section 2 or 9B[^key-40bd51106b5546df65fd3b834b5e4aca] of the Requirements of Writing (Scotland) Act 1995 (c. 7) (requirements for formal validity of certain documents).
+(2) An offer shall be in writing and shall comply with section 2 or 9B[^c-40bd51106b5546df65fd3b834b5e4aca] of the Requirements of Writing (Scotland) Act 1995 (c. 7) (requirements for formal validity of certain documents).
 
 (3) An offer shall be open for acceptance during whichever is the shorter of—
 
@@ -47,4 +47,4 @@ the terms of the offer shall, for the purposes of subsection (4) above, be deeme
 
 ## Annotations
 
-[^key-40bd51106b5546df65fd3b834b5e4aca]: Textual amendment: Words in [s. 84(2)](https://www.legislation.gov.uk/asp/2003/9/section/84/2) inserted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 43(9)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/43/9) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-40bd51106b5546df65fd3b834b5e4aca]: Textual amendment: Words in [s. 84(2)](https://www.legislation.gov.uk/asp/2003/9/section/84/2) inserted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 43(9)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/43/9) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

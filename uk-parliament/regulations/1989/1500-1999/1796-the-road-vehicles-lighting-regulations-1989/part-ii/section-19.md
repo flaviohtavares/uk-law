@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Restrictions on the obscuration of certain obligatory lamps and reflectors[^key-89f5a23192044a911fbe7c6681d6e3ff]
+## 19. Restrictions on the obscuration of certain obligatory lamps and reflectors[^c-89f5a23192044a911fbe7c6681d6e3ff]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ which is required by these Regulations to be fitted to a vehicle is visible when
 
 ## Annotations
 
-[^key-89f5a23192044a911fbe7c6681d6e3ff]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1989/1796/regulation/19) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-89f5a23192044a911fbe7c6681d6e3ff]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1989/1796/regulation/19) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)

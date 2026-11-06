@@ -34,335 +34,335 @@ of 27 September 2017
 
 laying down form and content of the accounting information to be submitted to the Commission for the purpose of the clearance of the accounts of the EAGF and the EAFRD as well as for monitoring and forecasting purposes (revoked)
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c2dfd1a01bf19bb1348d6df3884b108c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c2dfd1a01bf19bb1348d6df3884b108c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c2dfd1a01bf19bb1348d6df3884b108c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c2dfd1a01bf19bb1348d6df3884b108c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-c2dfd1a01bf19bb1348d6df3884b108c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-c2dfd1a01bf19bb1348d6df3884b108c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — X-TABLE — Financial year 2018[^key-c2dfd1a01bf19bb1348d6df3884b108c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX II — Technical specifications for the transfer of computer files concerning the EAGF and the EAFRD expenditure[^key-c2dfd1a01bf19bb1348d6df3884b108c]
-
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]INTRODUCTION
+## ANNEX I — X-TABLE — Financial year 2018[^c-c2dfd1a01bf19bb1348d6df3884b108c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]1.
+## ANNEX II — Technical specifications for the transfer of computer files concerning the EAGF and the EAFRD expenditure[^c-c2dfd1a01bf19bb1348d6df3884b108c]
+
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]INTRODUCTION
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]1.
 
 **Transfer medium**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]2.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]2.
 
 **Computer file structure**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]2.1.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]2.2.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]2.3.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]2.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]2.4.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]2.4.
 
 The computer files must have the following characteristics:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]2.5.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]2.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]2.6.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]2.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]3.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]3.
 
 **Annual declaration**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]3.1.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]3.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]3.2.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]3.2.
 
 The files shall have the characteristics as described under point 2.4. Each line shall contain the following fields (in this order):
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]3.3.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]3.3.
 
 Files satisfying the rules shall comply with the following structure (example for financial year 2017):
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]3.4.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]3.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]4.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]4.
 
 **Explanation of differences**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]4.1.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]4.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]4.2.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]4.2.
 
 The files shall have the characteristics as described under point 2.4. Each line shall contain the following fields and in following order):
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]4.3
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]4.3
 
 The explanation-reconciliation code must be expressed by a code corresponding to the underneath list. For EAGF-related differences, an explanation code can only be provided once per budget code (F109). For EAFRD related differences, this single declaration should be read in light of the full explanation code including the two additional digits for the focus area (as defined hereafter).
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]4.4.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]4.4.
 
 Files satisfying the rules shall follow the following structure (example for financial year 2016):
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]4.5.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]4.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]5.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]5.
 
 **Documentation (code list)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]5.1
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]5.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]5.2
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]5.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]5.3
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]5.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]6.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]6.
 
 **Data transfer**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — ‘Aide-mémoire’ — Financial year 2018[^key-c2dfd1a01bf19bb1348d6df3884b108c]
+## ANNEX III — ‘Aide-mémoire’ — Financial year 2018[^c-c2dfd1a01bf19bb1348d6df3884b108c]
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c] General remark: significance of the X, A and D codes used in Annex I:
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c2dfd1a01bf19bb1348d6df3884b108c] General remark: significance of the X, A and D codes used in Annex I:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]1.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]1.
 
 DATA RELATING TO PAYMENTS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]1.1
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]1.1
 
 **F100: name of paying agency**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]1.2
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]1.2
 
 **F101: reference number of payment**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]1.3
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]1.3
 
 **F103: type of payment**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]1.4
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]1.4
 
 **F105: payment with penalty**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]1.5
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]1.5
 
 **F105B: cross-compliance: application of the administrative penalty**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]1.6
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]1.6
 
 **F105C: amount (in euros) not paid: reduction or exclusion from payments as a result of administrative and/or on-the-spot checks**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]1.7
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]1.7
 
 **F106: amount in euros**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]1.8
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]1.8
 
 **F106A: public expenditure in euros**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]1.9
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]1.9
 
 **F107: currency unit**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]1.10
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]1.10
 
 **F108: date of payment**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]1.11
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]1.11
 
 **F109: budget code**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]1.12
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]1.12
 
 **F110: marketing year, calendar year or period**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]2.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]2.
 
 DATA RELATING TO BENEFICIARY (APPLICANT)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]2.1
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]2.1
 
 **F200: identification code**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]2.2
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]2.2
 
 **F201: name**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]2.3
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]2.3
 
 **F202A: applicant's address (street and number)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]2.4
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]2.4
 
 **F202B: applicant's address (national post code)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]2.5
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]2.5
 
 **F202C: applicant's address (municipality or city)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]2.6
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]2.6
 
 **F207: region and sub-region in the Member State**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]2.7
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]2.7
 
 **F220: identification code of the intermediate organisation**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]2.8
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]2.8
 
 **F221: name of the intermediate organisation**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]2.9
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]2.9
 
 **F222B: organisation's address (international post code)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]2.10
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]2.10
 
 **F222C: organisation's address (municipality or city)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]3.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]3.
 
 DATA RELATING TO AID APPLICATIONS/PAYMENT CLAIMS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]3.1
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]3.1
 
 **F300: number of aid application/payment claim**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]3.2
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]3.2
 
 **F300B: date of aid application/payment claim**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]3.3
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]3.3
 
 **F301: number of contract/project (where applicable)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]3.4
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]3.4
 
 **F304: authorising office**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]3.5
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]3.5
 
 **F307: office holding supporting documents**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]4.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]4.
 
 DATA RELATING TO PRODUCTS
 
@@ -370,108 +370,108 @@ DATA RELATING TO PRODUCTS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]4.1
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]4.1
 
 **F500: product code/rural development sub-measure code**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]4.2
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]4.2
 
 **F502: quantity paid (number of hectares, etc.)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]4.3
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]4.3
 
 **F503: quantity covered by payment application lodged (quantity claimed)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]4.4
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]4.4
 
 **F508A: area covered by payment application lodged**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]4.5
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]4.5
 
 **F508B: area covered by payment made**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]4.6
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]4.6
 
 **F509A: area wrongly declared**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]4.7
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]4.7
 
 **F510: Union regulation and article number**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]4.8
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]4.8
 
 **F511: EAGF rate of aid (in euros) per unit of measurement**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]4.9
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]4.9
 
 **F531: total alcoholic strength by volume**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]4.10
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]4.10
 
 **F532: natural alcoholic strength by volume**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]4.11
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]4.11
 
 **F533: wine-growing zone**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]5.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]5.
 
 DATA RELATING TO ON-THE-SPOT CHECKS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]5.1
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]5.1
 
 **F600: on-the-spot checks**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — Structure of EAFRD budget codes (F109)[^key-c2dfd1a01bf19bb1348d6df3884b108c]
+## ANNEX IV — Structure of EAFRD budget codes (F109)[^c-c2dfd1a01bf19bb1348d6df3884b108c]
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]1.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]1.
 
 EAFRD PROGRAMMING PERIOD 2014-2020
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]1.1.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]1.1.
 
 **Introduction**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]1.2.
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]1.2.
 
 **Budget code structure**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c] Example:
+[^c-c2dfd1a01bf19bb1348d6df3884b108c] Example:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c2dfd1a01bf19bb1348d6df3884b108c]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Agricultural Policy (Financing, Management and Monitoring Supplementary Provisions) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/765)](https://www.legislation.gov.uk/uksi/2019/765), [regs. 1](https://www.legislation.gov.uk/uksi/2019/765/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/765/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c2dfd1a01bf19bb1348d6df3884b108c]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Agricultural Policy (Financing, Management and Monitoring Supplementary Provisions) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/765)](https://www.legislation.gov.uk/uksi/2019/765), [regs. 1](https://www.legislation.gov.uk/uksi/2019/765/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/765/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

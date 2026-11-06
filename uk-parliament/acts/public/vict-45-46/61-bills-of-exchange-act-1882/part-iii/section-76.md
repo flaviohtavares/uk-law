@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-36bf427784f52ba5a06280c2c08ea83e][^key-9f18ef8f5d235b10a883de745137bb37] Where a cheque bears across its face an addition of—
+(1)[^c-36bf427784f52ba5a06280c2c08ea83e][^c-9f18ef8f5d235b10a883de745137bb37] Where a cheque bears across its face an addition of—
 
 - (a) The words “and company” or any abbreviation thereof between two parallel transverse lines, either with or without the words “not negotiable”; or
 - (b) Two parallel transverse lines simply, either with or without the words “not negotiable”;
@@ -39,6 +39,6 @@ that addition constitutes a crossing, and the cheque is crossed generally.
 
 [^c580850]: Modification: S. 76 extended by [Cheques Act 1957 (c. 36, SIF 14)](https://www.legislation.gov.uk/ukpga/1957/36), [s. 5](https://www.legislation.gov.uk/ukpga/1957/36/section/5), [1972](https://www.legislation.gov.uk/ukpga/1957/36/section/1972)/641, reg. 7(2), 1972/764, reg. 21(5), 1972/765, reg. 8(2) and 1976/2012, reg. 22(2)
 
-[^key-36bf427784f52ba5a06280c2c08ea83e]: Modification: S. 76(1) applied (with modifications) (6.4.2015) by [The National Savings Regulations 2015 (S.I. 2015/623)](https://www.legislation.gov.uk/uksi/2015/623), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1), [58](https://www.legislation.gov.uk/uksi/2015/623/regulation/58)
+[^c-36bf427784f52ba5a06280c2c08ea83e]: Modification: S. 76(1) applied (with modifications) (6.4.2015) by [The National Savings Regulations 2015 (S.I. 2015/623)](https://www.legislation.gov.uk/uksi/2015/623), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1), [58](https://www.legislation.gov.uk/uksi/2015/623/regulation/58)
 
-[^key-9f18ef8f5d235b10a883de745137bb37]: Modification: S. 76(1) applied (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [96](https://www.legislation.gov.uk/uksi/2015/624/regulation/96)
+[^c-9f18ef8f5d235b10a883de745137bb37]: Modification: S. 76(1) applied (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [96](https://www.legislation.gov.uk/uksi/2015/624/regulation/96)

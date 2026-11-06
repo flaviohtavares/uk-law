@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies if—
 
-- (a) under a Schedule 2[^key-1b77067c042a97060a131bf80d32af42] share incentive plan, partnership shares are awarded to employees because of their employment with a company (“the employing company”), and
+- (a) under a Schedule 2[^c-1b77067c042a97060a131bf80d32af42] share incentive plan, partnership shares are awarded to employees because of their employment with a company (“the employing company”), and
 - (b) the market value of the shares when they were acquired by the trustees of the plan trust exceeds the partnership share money paid by the participants to acquire those shares.
 
 (2) A deduction is allowed to the employing company for the period of account in which the shares are awarded.
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b77067c042a97060a131bf80d32af42]: Textual amendment: Words in s. 995(1)(a) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 80](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/80), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-1b77067c042a97060a131bf80d32af42]: Textual amendment: Words in s. 995(1)(a) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 80](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/80), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))

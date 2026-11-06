@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29B. Appeals under section 55 of the Act[^key-9d6261fca9dd898f8163fc592b500347]
+## 29B. Appeals under section 55 of the Act[^c-9d6261fca9dd898f8163fc592b500347]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d6261fca9dd898f8163fc592b500347]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2215) revoked (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(a)(i)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/a/i) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44)); and [Pt. 6A](https://www.legislation.gov.uk/uksi/2010/2215/part/6A) revoked (W.) (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/uksi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1268/regulation/1/2), [42(1)](https://www.legislation.gov.uk/uksi/2024/1268/regulation/42/1) (with [reg. 42(5)-(7)](https://www.legislation.gov.uk/uksi/2024/1268/regulation/42/5))
+[^c-9d6261fca9dd898f8163fc592b500347]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2215) revoked (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(a)(i)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/a/i) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44)); and [Pt. 6A](https://www.legislation.gov.uk/uksi/2010/2215/part/6A) revoked (W.) (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/uksi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1268/regulation/1/2), [42(1)](https://www.legislation.gov.uk/uksi/2024/1268/regulation/42/1) (with [reg. 42(5)-(7)](https://www.legislation.gov.uk/uksi/2024/1268/regulation/42/5))

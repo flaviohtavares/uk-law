@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1.5. Miscellaneous and general matters[^key-c105c1cd5d1e63c3b543a42453146f5f]
+## 1.5. Miscellaneous and general matters[^c-c105c1cd5d1e63c3b543a42453146f5f]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ Schedule 4 makes provision about—
 
 ## Annotations
 
-[^key-c105c1cd5d1e63c3b543a42453146f5f]: Commencement: [Rule 1.5](https://www.legislation.gov.uk/ssi/2017/103/rule/1.5) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-c105c1cd5d1e63c3b543a42453146f5f]: Commencement: [Rule 1.5](https://www.legislation.gov.uk/ssi/2017/103/rule/1.5) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

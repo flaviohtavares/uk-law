@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Amendment and saving of the Channel Tunnel (International Arrangements) Order 1993[^key-336f3bc75b5af0ec743901656a642bc5][^M_I_d510660d-2c05-48ae-c7f9-216024b2ab6c]
+## 26. Amendment and saving of the Channel Tunnel (International Arrangements) Order 1993[^c-336f3bc75b5af0ec743901656a642bc5][^M_I_d510660d-2c05-48ae-c7f9-216024b2ab6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-336f3bc75b5af0ec743901656a642bc5]: Commencement: Reg. 26 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-336f3bc75b5af0ec743901656a642bc5]: Commencement: Reg. 26 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_d510660d-2c05-48ae-c7f9-216024b2ab6c]: Commencement: Reg. 26 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

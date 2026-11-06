@@ -31,10 +31,10 @@ Council Regulation (EC) No 139/2004
 
 of 20 January 2004 on the control of concentrations between undertakings (the EC Merger Regulation) (Text with EEA relevance) (revoked)
 
-[^key-40868b0a2808f6fab275ff31d2687210]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40868b0a2808f6fab275ff31d2687210]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-40868b0a2808f6fab275ff31d2687210] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-40868b0a2808f6fab275ff31d2687210] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-40868b0a2808f6fab275ff31d2687210]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 1(g)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/1/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-40868b0a2808f6fab275ff31d2687210]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 1(g)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/1/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

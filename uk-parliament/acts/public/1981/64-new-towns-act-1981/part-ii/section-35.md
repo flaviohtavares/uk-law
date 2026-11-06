@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Establishment of Commission.[^key-dabe4b495b28711853706936c66a068d]
+## 35. Establishment of Commission.[^c-dabe4b495b28711853706936c66a068d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dabe4b495b28711853706936c66a068d]: Textual amendment: S. 35 repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/4), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1), [10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
+[^c-dabe4b495b28711853706936c66a068d]: Textual amendment: S. 35 repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/4), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1), [10](https://www.legislation.gov.uk/uksi/2009/803/article/10)

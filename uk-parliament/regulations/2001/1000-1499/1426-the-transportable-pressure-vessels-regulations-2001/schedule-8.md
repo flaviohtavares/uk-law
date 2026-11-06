@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8 — AMENDMENTS TO THE CDGCPL REGULATIONS[^key-e37ed1a8864b7d6de74d63ee0912f906]
+## SCHEDULE 8 — AMENDMENTS TO THE CDGCPL REGULATIONS[^c-e37ed1a8864b7d6de74d63ee0912f906]
 
 *Extent: E+W+S*
 
@@ -24,30 +24,30 @@ summary: ''
 
 Regulation 14(5)
 
-**1.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e37ed1a8864b7d6de74d63ee0912f906]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/1426) revoked (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 14](https://www.legislation.gov.uk/uksi/2004/568/schedule/14) (with [reg. 63(5)](https://www.legislation.gov.uk/uksi/2004/568/regulation/63/5))
+[^c-e37ed1a8864b7d6de74d63ee0912f906]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/1426) revoked (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 14](https://www.legislation.gov.uk/uksi/2004/568/schedule/14) (with [reg. 63(5)](https://www.legislation.gov.uk/uksi/2004/568/regulation/63/5))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. Revised versions of how the S.I. stood at its first commencement are available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

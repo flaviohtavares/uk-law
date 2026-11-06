@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 253. New community councils — residuary successors[^key-b191c3cf62404108cf237d212631bf9b][^key-c6842491e706eb5e7a04dec59cb28d9d]
+## 253. New community councils — residuary successors[^c-b191c3cf62404108cf237d212631bf9b][^c-c6842491e706eb5e7a04dec59cb28d9d]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ For the purposes of any provision of the Regulations which refers to the residua
 
 ## Annotations
 
-[^key-b191c3cf62404108cf237d212631bf9b]: Commencement: Art. 253 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-b191c3cf62404108cf237d212631bf9b]: Commencement: Art. 253 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-c6842491e706eb5e7a04dec59cb28d9d]: Commencement: [Art. 253](https://www.legislation.gov.uk/wsi/2021/1227/article/253) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-c6842491e706eb5e7a04dec59cb28d9d]: Commencement: [Art. 253](https://www.legislation.gov.uk/wsi/2021/1227/article/253) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

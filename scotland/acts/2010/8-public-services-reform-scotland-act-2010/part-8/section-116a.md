@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116A. Joint inspections of social services and health services[^key-4a3a824a25c741ae02b05823d6b351f1]
+## 116A. Joint inspections of social services and health services[^c-4a3a824a25c741ae02b05823d6b351f1]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a3a824a25c741ae02b05823d6b351f1]: Textual amendment: [S. 116A](https://www.legislation.gov.uk/asp/2010/8/section/116A) inserted (22.9.2014) by [Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9)](https://www.legislation.gov.uk/asp/2014/9), [ss. 56(3)](https://www.legislation.gov.uk/asp/2014/9/section/56/3), [72(2)](https://www.legislation.gov.uk/asp/2014/9/section/72/2); [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-4a3a824a25c741ae02b05823d6b351f1]: Textual amendment: [S. 116A](https://www.legislation.gov.uk/asp/2010/8/section/116A) inserted (22.9.2014) by [Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9)](https://www.legislation.gov.uk/asp/2014/9), [ss. 56(3)](https://www.legislation.gov.uk/asp/2014/9/section/56/3), [72(2)](https://www.legislation.gov.uk/asp/2014/9/section/72/2); [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)

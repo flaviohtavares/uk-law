@@ -50,11 +50,11 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 The Treasury make the following Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, that Act.
 
-## 1. Citation and commencement[^key-ea1db7ad4b57d43c4d279843a1e93bde]
+## 1. Citation and commencement[^c-ea1db7ad4b57d43c4d279843a1e93bde]
 
 These Regulations may be cited as the European Union Budget, and Economic and Monetary Policy (EU Exit) Regulations 2019 and come into force on exit day.
 
-## 2. European Union Budget: Revocation[^key-282b72a36c90e87291d6306df1bbe50e]
+## 2. European Union Budget: Revocation[^c-282b72a36c90e87291d6306df1bbe50e]
 
 The following instruments are revoked —
 
@@ -71,22 +71,22 @@ The following instruments are revoked —
 - (k) Commission Implementing Decision 2018/195 (EU, Euratom) establishing forms for reporting on fraud and irregularities affecting entitlements to traditional own resources and on inspections relating to traditional own resources pursuant to Council Regulation No 608/2014 (EU, Euratom); and
 - (l) Regulation 2018/1046 (EU, Euratom) of the European Parliament and of the Council on the financial rules applicable to the general budget of the Union.
 
-## 3. Economic and Monetary Policy: Revocation[^key-dfdc4d95a95e7e8471b29e3c1fb05b4c]
+## 3. Economic and Monetary Policy: Revocation[^c-dfdc4d95a95e7e8471b29e3c1fb05b4c]
 
 The following instruments are revoked —
 
 - (a) Council Regulation No 3603/93 (EC) specifying definitions for the application of the prohibitions referred to in Articles 104 and 104b (1) of the Treaty; and
 - (b) Council Regulation No 1466/97 (EC) on the strengthening of the surveillance of budgetary positions and the surveillance and coordination of economic policies.
 
-## 4. Cessation of rights, etc.[^key-278304218b066a0d63adc83a0764fc89]
+## 4. Cessation of rights, etc.[^c-278304218b066a0d63adc83a0764fc89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Cessation of rights, etc. on restatement[^key-517788a33525b547aca35bd479132bb4]
+## 5. Cessation of rights, etc. on restatement[^c-517788a33525b547aca35bd479132bb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Bank of England[^key-13eeaf3be23243d97f2502d9687e432b]
+## 6. Bank of England[^c-13eeaf3be23243d97f2502d9687e432b]
 
 (1) The Bank of England must not —
 
@@ -95,7 +95,7 @@ The following instruments are revoked —
 
 (2) Paragraph (1) shall not apply to publicly owned credit institutions which, in the context of the supply of reserves by the Bank of England, shall be given the same treatment by the Bank of England as private credit institutions.
 
-(3) Nothing in paragraph (1) prevents the Bank of England from acting in a way that would not have contravened Article 123 of the Treaty on the Functioning of the European Union as that Article applied in the United Kingdom immediately before IP completion day[^key-a928f8946059422b4fd3a7692679a302], and in particular from —
+(3) Nothing in paragraph (1) prevents the Bank of England from acting in a way that would not have contravened Article 123 of the Treaty on the Functioning of the European Union as that Article applied in the United Kingdom immediately before IP completion day[^c-a928f8946059422b4fd3a7692679a302], and in particular from —
 
 - (a) pursuing its monetary policy objectives within the meaning of section 11 of the Bank of England Act 1998 [^c23625331];
 - (b) purchasing debt instruments issued by any person listed in paragraph (1) on a secondary market;
@@ -142,18 +142,18 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23625321]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-ea1db7ad4b57d43c4d279843a1e93bde]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ea1db7ad4b57d43c4d279843a1e93bde]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-282b72a36c90e87291d6306df1bbe50e]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-282b72a36c90e87291d6306df1bbe50e]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-dfdc4d95a95e7e8471b29e3c1fb05b4c]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-dfdc4d95a95e7e8471b29e3c1fb05b4c]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-278304218b066a0d63adc83a0764fc89]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/484/regulation/4) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/8/a)
+[^c-278304218b066a0d63adc83a0764fc89]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/484/regulation/4) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/8/a)
 
-[^key-517788a33525b547aca35bd479132bb4]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/484/regulation/5) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/8/b)
+[^c-517788a33525b547aca35bd479132bb4]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/484/regulation/5) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/8/b)
 
-[^key-13eeaf3be23243d97f2502d9687e432b]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-13eeaf3be23243d97f2502d9687e432b]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-a928f8946059422b4fd3a7692679a302]: Textual amendment: Words in reg. 6(3) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 28](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/28)
+[^c-a928f8946059422b4fd3a7692679a302]: Textual amendment: Words in reg. 6(3) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 28](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/28)
 
 [^c23625331]: Marginal citation: [1998 c.11](https://www.legislation.gov.uk/ukpga/1998/11).

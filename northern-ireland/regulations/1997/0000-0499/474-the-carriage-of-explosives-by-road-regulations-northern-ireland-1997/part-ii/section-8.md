@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Carriage of explosives in vehicles used to carry passengers for hire or reward[^key-4fbb418f81f2bf540d8c89db04fa6e06]
+## 8. Carriage of explosives in vehicles used to carry passengers for hire or reward[^c-4fbb418f81f2bf540d8c89db04fa6e06]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fbb418f81f2bf540d8c89db04fa6e06]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1997/474/regulation/8) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-4fbb418f81f2bf540d8c89db04fa6e06]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1997/474/regulation/8) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

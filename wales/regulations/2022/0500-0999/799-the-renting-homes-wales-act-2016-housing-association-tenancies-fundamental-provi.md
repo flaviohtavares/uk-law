@@ -41,11 +41,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 In accordance with sections 256(3) and 256(4)(b)[^f00004] of that Act, a draft of these Regulations has been laid before and approved by a resolution of Senedd Cymru.
 
-## 1. Title and commencement[^key-57ab2993e7f562c00d30e093af56616d]
+## 1. Title and commencement[^c-57ab2993e7f562c00d30e093af56616d]
 
-The title of these Regulations is the Renting Homes (Wales) Act 2016 (Housing Association Tenancies: Fundamental Provisions) Regulations 2022 and they come into force on 1 December 2022 (the day on which section 239 of the Act comes into force)[^key-38cc0c34e9ddafd8accdcbf3dd7f6025] .
+The title of these Regulations is the Renting Homes (Wales) Act 2016 (Housing Association Tenancies: Fundamental Provisions) Regulations 2022 and they come into force on 1 December 2022 (the day on which section 239 of the Act comes into force)[^c-38cc0c34e9ddafd8accdcbf3dd7f6025] .
 
-## 2. Interpretation[^key-7eac033f6ce05774f7106ab6d09d2616]
+## 2. Interpretation[^c-7eac033f6ce05774f7106ab6d09d2616]
 
 (1) Words and expressions used in these Regulations have the same meaning as they have in the Act.
 
@@ -54,13 +54,13 @@ The title of these Regulations is the Renting Homes (Wales) Act 2016 (Housing As
 - “the Act” (“*y Ddeddf*”) means the Renting Homes (Wales) Act 2016;
 - “housing association tenancy” (“*tenantiaeth cymdeithas dai*”) has the same meaning as in Part 6 of the Rent Act 1977[^f00005] (see section 86[^f00006] of that Act).
 
-## 3. Sections 104 and 123 of the Act not fundamental provisions of occupation contracts that are housing association tenancies[^key-bbfbb2d3a1087ff9390691e8ac68ea6a]
+## 3. Sections 104 and 123 of the Act not fundamental provisions of occupation contracts that are housing association tenancies[^c-bbfbb2d3a1087ff9390691e8ac68ea6a]
 
 Section 104 of the Act (secure contracts: variation of rent) is not a fundamental provision applicable to a secure contract which is a housing association tenancy.
 
-**4.**[^key-87e3d17550446e9cd292782ff1ad70b1][^key-bbfbb2d3a1087ff9390691e8ac68ea6a] Section 123 of the Act (periodic standard contracts: variation of rent) is not a fundamental provision applicable to a periodic standard contract which is a housing association tenancy.
+**4.**[^c-87e3d17550446e9cd292782ff1ad70b1][^c-bbfbb2d3a1087ff9390691e8ac68ea6a] Section 123 of the Act (periodic standard contracts: variation of rent) is not a fundamental provision applicable to a periodic standard contract which is a housing association tenancy.
 
-## 5. Consequential amendments to the Act[^key-48a1021bc3a320dd2872d0099a2870ee]
+## 5. Consequential amendments to the Act[^c-48a1021bc3a320dd2872d0099a2870ee]
 
 (1) The Act is amended as follows.
 
@@ -98,7 +98,7 @@ Section 104 of the Act (secure contracts: variation of rent) is not a fundamenta
 
   .
 
-## 6. Consequential amendments to section 93 of the Rent Act 1977[^key-9548c16f96b60235eb22e6f85059f481]
+## 6. Consequential amendments to section 93 of the Rent Act 1977[^c-9548c16f96b60235eb22e6f85059f481]
 
 (1) Section 93[^f00007] of the Rent Act 1977 (increase in rent without notice to quit) is amended as follows.
 
@@ -169,22 +169,22 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00004]: Footnote: There are amendments to section 256(4), none of which is relevant to these Regulations.
 
-[^key-57ab2993e7f562c00d30e093af56616d]: Commencement: Reg. 1 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 14](https://www.legislation.gov.uk/uksi/2022/906/article/14))
+[^c-57ab2993e7f562c00d30e093af56616d]: Commencement: Reg. 1 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 14](https://www.legislation.gov.uk/uksi/2022/906/article/14))
 
-[^key-38cc0c34e9ddafd8accdcbf3dd7f6025]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/wsi/2022/799/regulation/1) substituted (13.8.2022) by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/906/article/1/2), [14](https://www.legislation.gov.uk/wsi/2022/906/article/14)
+[^c-38cc0c34e9ddafd8accdcbf3dd7f6025]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/wsi/2022/799/regulation/1) substituted (13.8.2022) by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/906/article/1/2), [14](https://www.legislation.gov.uk/wsi/2022/906/article/14)
 
-[^key-7eac033f6ce05774f7106ab6d09d2616]: Commencement: Reg. 2 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 14](https://www.legislation.gov.uk/uksi/2022/906/article/14))
+[^c-7eac033f6ce05774f7106ab6d09d2616]: Commencement: Reg. 2 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 14](https://www.legislation.gov.uk/uksi/2022/906/article/14))
 
 [^f00005]: Footnote: [1977 c. 42](https://www.legislation.gov.uk/ukpga/1977/42).
 
 [^f00006]: Footnote: Section 86 was amended by sections 77 and 152 of and Schedules 10 and 26 to the Housing Act [1980 (c. 51)](https://www.legislation.gov.uk/ukpga/1980/51), section 4 of and paragraph 35 of Schedule 2 to the Housing (Consequential Provisions) Act [1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), article 2 of and paragraph 1 of the Schedule to the Government of Wales Act 1998 (Housing) (Amendments) Order 1999 ([S.I. 1999/61](https://www.legislation.gov.uk/uksi/1999/61)) and article 5 of and paragraphs 9 and 11 of Schedule 2 to the Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 ([S.I. 2010/866](https://www.legislation.gov.uk/uksi/2010/866))..
 
-[^key-bbfbb2d3a1087ff9390691e8ac68ea6a]: Commencement: Reg. 3 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 14](https://www.legislation.gov.uk/uksi/2022/906/article/14))
+[^c-bbfbb2d3a1087ff9390691e8ac68ea6a]: Commencement: Reg. 3 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 14](https://www.legislation.gov.uk/uksi/2022/906/article/14))
 
-[^key-87e3d17550446e9cd292782ff1ad70b1]: Commencement: Reg. 4 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 14](https://www.legislation.gov.uk/uksi/2022/906/article/14))
+[^c-87e3d17550446e9cd292782ff1ad70b1]: Commencement: Reg. 4 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 14](https://www.legislation.gov.uk/uksi/2022/906/article/14))
 
-[^key-48a1021bc3a320dd2872d0099a2870ee]: Commencement: Reg. 5 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 14](https://www.legislation.gov.uk/uksi/2022/906/article/14))
+[^c-48a1021bc3a320dd2872d0099a2870ee]: Commencement: Reg. 5 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 14](https://www.legislation.gov.uk/uksi/2022/906/article/14))
 
-[^key-9548c16f96b60235eb22e6f85059f481]: Commencement: Reg. 6 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 14](https://www.legislation.gov.uk/uksi/2022/906/article/14))
+[^c-9548c16f96b60235eb22e6f85059f481]: Commencement: Reg. 6 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 14](https://www.legislation.gov.uk/uksi/2022/906/article/14))
 
 [^f00007]: Footnote: Section 93 was amended by sections 77 and 140 of and paragraph 5 of Schedule 10 and Part 2 of Schedule 17 to the Housing Act [1988 (c. 50)](https://www.legislation.gov.uk/ukpga/1988/50), sections 77 and 152 of and Schedule 10 and Schedule 26 to the Housing Act [1980 (c. 51)](https://www.legislation.gov.uk/ukpga/1980/51), section 152 of and Part 6 of Schedule 18 to the Government of Wales Act [1988 (c. 38)](https://www.legislation.gov.uk/ukpga/1988/38), article 5 of and paragraphs 9 and 12 of Schedule 2 to the Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 ([S.I. 2010/866](https://www.legislation.gov.uk/uksi/2010/866)) and article 2 of and paragraph 1 of the Schedule to the Government of Wales Act 1998 (Housing) (Amendments) Order 1999 ([S.I. 1999/61](https://www.legislation.gov.uk/uksi/1999/61)).

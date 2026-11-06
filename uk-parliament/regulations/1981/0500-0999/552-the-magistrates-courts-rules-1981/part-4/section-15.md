@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Adjournment of trial of information[^key-3f81d169dce7c62a6f9560b7a839b09b]
+## 15. Adjournment of trial of information[^c-3f81d169dce7c62a6f9560b7a839b09b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f81d169dce7c62a6f9560b7a839b09b]: Textual amendment: [Rule 15](https://www.legislation.gov.uk/uksi/1981/552/rule/15) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(b)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/b)
+[^c-3f81d169dce7c62a6f9560b7a839b09b]: Textual amendment: [Rule 15](https://www.legislation.gov.uk/uksi/1981/552/rule/15) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(b)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/b)

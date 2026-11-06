@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Directions excluding a person from an area[^key-8dc7faf3da2d9251e81127966b9effa3]
+## 35. Directions excluding a person from an area[^c-8dc7faf3da2d9251e81127966b9effa3]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (3) The second condition is that the constable considers that giving a direction to the person is necessary for the purpose of removing or reducing the likelihood of the events mentioned in subsection (2)(a) or (b).
 
-(4) The exclusion period may not exceed 72 hours[^key-624d13a6e9446d03606bb90bb3785b45].
+(4) The exclusion period may not exceed 72 hours[^c-624d13a6e9446d03606bb90bb3785b45].
 
 The period may expire after (as long as it begins during) the period specified in the authorisation under section 34.
 
@@ -46,9 +46,9 @@ The period may expire after (as long as it begins during) the period specified i
 
 (7) If the constable reasonably believes that the person to whom the direction is given is under the age of 16, the constable may remove the person to a place where the person lives or a place of safety.
 
-(7A)[^key-5558123ec82b1e3a6f620e0e2d956ad8] A police officer of at least the rank of inspector must review each direction given under this section that specifies an exclusion period exceeding 48 hours as soon as reasonably practicable after the expiry of the 48 hours.
+(7A)[^c-5558123ec82b1e3a6f620e0e2d956ad8] A police officer of at least the rank of inspector must review each direction given under this section that specifies an exclusion period exceeding 48 hours as soon as reasonably practicable after the expiry of the 48 hours.
 
-(8) Any constable may withdraw or vary a direction under this section; but a variation must not extend the duration of a direction beyond 72 hours[^key-32bbf5ce92346e87b90c838d84ffe662] from when it was first given.
+(8) Any constable may withdraw or vary a direction under this section; but a variation must not extend the duration of a direction beyond 72 hours[^c-32bbf5ce92346e87b90c838d84ffe662] from when it was first given.
 
 (9) Notice of a withdrawal or variation of a direction—
 
@@ -61,10 +61,10 @@ The period may expire after (as long as it begins during) the period specified i
 
 ## Annotations
 
-[^key-8dc7faf3da2d9251e81127966b9effa3]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2014/12/section/35) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/b)
+[^c-8dc7faf3da2d9251e81127966b9effa3]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2014/12/section/35) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/b)
 
-[^key-624d13a6e9446d03606bb90bb3785b45]: Textual amendment: Words in [s. 35(4)](https://www.legislation.gov.uk/ukpga/2014/12/section/35/4) substituted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/3/2/a), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/c)
+[^c-624d13a6e9446d03606bb90bb3785b45]: Textual amendment: Words in [s. 35(4)](https://www.legislation.gov.uk/ukpga/2014/12/section/35/4) substituted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/3/2/a), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/c)
 
-[^key-5558123ec82b1e3a6f620e0e2d956ad8]: Textual amendment: [S. 35(7A)](https://www.legislation.gov.uk/ukpga/2014/12/section/35/7A) inserted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/3/2/b), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/c)
+[^c-5558123ec82b1e3a6f620e0e2d956ad8]: Textual amendment: [S. 35(7A)](https://www.legislation.gov.uk/ukpga/2014/12/section/35/7A) inserted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/3/2/b), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/c)
 
-[^key-32bbf5ce92346e87b90c838d84ffe662]: Textual amendment: Words in [s. 35(8)](https://www.legislation.gov.uk/ukpga/2014/12/section/35/8) substituted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/3/2/c), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/c)
+[^c-32bbf5ce92346e87b90c838d84ffe662]: Textual amendment: Words in [s. 35(8)](https://www.legislation.gov.uk/ukpga/2014/12/section/35/8) substituted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/3/2/c), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/c)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 5 — Tier 1 services: Chapter to be inserted as Chapter 3 of Part 4A of the 2003 Act[^key-da10ecbc98152aa87ec6a943d32b7b32][^key-16f80aa11f8df68df372f5192eca24ce]
+## Schedule 5 — Tier 1 services: Chapter to be inserted as Chapter 3 of Part 4A of the 2003 Act[^c-da10ecbc98152aa87ec6a943d32b7b32][^c-16f80aa11f8df68df372f5192eca24ce]
 
 *Extent: E+W+S+N.I.*
 
 Section 37(6)
 
-[^key-16f80aa11f8df68df372f5192eca24ce]
+[^c-16f80aa11f8df68df372f5192eca24ce]
 
 Insert the following Chapter as Chapter 3 of Part 4A of the Communications Act 2003—
 
@@ -381,6 +381,6 @@ Insert the following Chapter as Chapter 3 of Part 4A of the Communications Act 2
 
 ## Annotations
 
-[^key-da10ecbc98152aa87ec6a943d32b7b32]: Commencement: Sch. 5 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-da10ecbc98152aa87ec6a943d32b7b32]: Commencement: Sch. 5 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-16f80aa11f8df68df372f5192eca24ce]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2024/15/schedule/5) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(y)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/y)
+[^c-16f80aa11f8df68df372f5192eca24ce]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2024/15/schedule/5) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(y)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/y)

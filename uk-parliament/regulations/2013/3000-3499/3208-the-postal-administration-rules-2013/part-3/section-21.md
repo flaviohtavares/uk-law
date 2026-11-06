@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Limited disclosure of paragraph 49 statement[^key-e8887a64f092006c25fc1b217c3ab6a6]
+## 21. Limited disclosure of paragraph 49 statement[^c-e8887a64f092006c25fc1b217c3ab6a6]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8887a64f092006c25fc1b217c3ab6a6]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2013/3208/rule/21) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-e8887a64f092006c25fc1b217c3ab6a6]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2013/3208/rule/21) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Preparatory conduct[^key-c593d9d4f3d4b708e90634b648a7d9f2][^key-6ac8bb826212fd8cb4d5352eaf69514e]
+## 18. Preparatory conduct[^c-c593d9d4f3d4b708e90634b648a7d9f2][^c-6ac8bb826212fd8cb4d5352eaf69514e]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ the person engages in any conduct in preparation for the commission of such acts
   - (ii) section 2 (obtaining or disclosing trade secrets);
   - (iii) section 4 (entering etc. a prohibited place for a purpose prejudicial to the UK);
   - (iv) section 12 (sabotage);
-- (b) acts within subsection (4) in relation to which the foreign power condition or the designated body condition[^key-ddcbb9b6a10df25d81af57b9392d7625] is met.
+- (b) acts within subsection (4) in relation to which the foreign power condition or the designated body condition[^c-ddcbb9b6a10df25d81af57b9392d7625] is met.
 
 (4) Acts are within this subsection if they—
 
@@ -50,8 +50,8 @@ the person engages in any conduct in preparation for the commission of such acts
 
 ## Annotations
 
-[^key-c593d9d4f3d4b708e90634b648a7d9f2]: Commencement: S. 18 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-c593d9d4f3d4b708e90634b648a7d9f2]: Commencement: S. 18 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-6ac8bb826212fd8cb4d5352eaf69514e]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2023/32/section/18) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-6ac8bb826212fd8cb4d5352eaf69514e]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2023/32/section/18) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-ddcbb9b6a10df25d81af57b9392d7625]: Textual amendment: Words in [s. 18(3)(b)](https://www.legislation.gov.uk/ukpga/2023/32/section/18/3/b) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/20)
+[^c-ddcbb9b6a10df25d81af57b9392d7625]: Textual amendment: Words in [s. 18(3)(b)](https://www.legislation.gov.uk/ukpga/2023/32/section/18/3/b) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/20)

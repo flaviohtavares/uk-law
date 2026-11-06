@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Fraudulent trading[^key-3a72fcf3eb3914e38d6ba5bf20d0a7a3]
+## 60. Fraudulent trading[^c-3a72fcf3eb3914e38d6ba5bf20d0a7a3]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a72fcf3eb3914e38d6ba5bf20d0a7a3]: Commencement: Reg. 60 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-3a72fcf3eb3914e38d6ba5bf20d0a7a3]: Commencement: Reg. 60 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
 
 [^f00013]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).

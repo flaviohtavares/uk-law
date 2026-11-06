@@ -44,7 +44,7 @@ Coming into force
 
 8th October 2004
 
-The Secretary of State, being a Minister designated [^c5399231] for the purposes of section 2(2) of the European Communities Act 1972 [^c5399241] in relation to measures relating to the registration, operation and regulation of European public limited liability companies, in exercise of the powers conferred on her by section 2(2) of that Act and of all other powers enabling her in that behalf, hereby makes the following Regulations:[^key-a9fc22c15ff4a3a846e3003b4b001b60][^key-288e54ba59307583a034cd326b568763][^key-65c1c3ca38d4430b14ce18e0dc01dc79]
+The Secretary of State, being a Minister designated [^c5399231] for the purposes of section 2(2) of the European Communities Act 1972 [^c5399241] in relation to measures relating to the registration, operation and regulation of European public limited liability companies, in exercise of the powers conferred on her by section 2(2) of that Act and of all other powers enabling her in that behalf, hereby makes the following Regulations:[^c-a9fc22c15ff4a3a846e3003b4b001b60][^c-288e54ba59307583a034cd326b568763][^c-65c1c3ca38d4430b14ce18e0dc01dc79]
 
 ## Contents
 
@@ -54,7 +54,7 @@ The Secretary of State, being a Minister designated [^c5399231] for the purposes
 - [Section 2 — ... EC Regulation](part-1/section-2.md)
 - [Section 3 — Interpretation](part-1/section-3.md)
 
-### PART 2 — REGISTRATION OF UK Societates AND THE REGISTRAR ETC.[^key-504b97cef2a08932beb766a6ced55e89]
+### PART 2 — REGISTRATION OF UK Societates AND THE REGISTRAR ETC.[^c-504b97cef2a08932beb766a6ced55e89]
 
 *Extent: E+W+S*
 
@@ -79,17 +79,17 @@ The Secretary of State, being a Minister designated [^c5399231] for the purposes
 - [Section 14 — Application of the 2006 Act to the registration of UK Societates](part-2/section-14.md)
 - [Section 15 — False statements in documents delivered to the registrar](part-2/section-15.md)
 
-### PART 3 — EMPLOYEE INVOLVEMENT[^key-4531df50e81de768085901e11a478731][^key-150403ab64f2212ee5bee71b239e56dd]
+### PART 3 — EMPLOYEE INVOLVEMENT[^c-4531df50e81de768085901e11a478731][^c-150403ab64f2212ee5bee71b239e56dd]
 
 *Extent: E+W+S*
 
-#### CHAPTER 1 — INTERPRETATION OF PART 3[^key-4531df50e81de768085901e11a478731]
+#### CHAPTER 1 — INTERPRETATION OF PART 3[^c-4531df50e81de768085901e11a478731]
 
 **No longer in force.**
 
 - [Section 16 — Interpretation of Part 3](part-3/section-16.md)
 
-#### CHAPTER 2 — PARTICIPATING COMPANIES AND THE SPECIAL NEGOTIATING BODY[^key-4531df50e81de768085901e11a478731]
+#### CHAPTER 2 — PARTICIPATING COMPANIES AND THE SPECIAL NEGOTIATING BODY[^c-4531df50e81de768085901e11a478731]
 
 **No longer in force.**
 
@@ -100,7 +100,7 @@ The Secretary of State, being a Minister designated [^c5399231] for the purposes
 - [Section 21 — Composition of the special negotiating body](part-3/section-21.md)
 - [Section 22 — Complaint about establishment of special negotiating body](part-3/section-22.md)
 
-#### CHAPTER 3 — ELECTION OR APPOINTMENT OF UK MEMBERS OF THE SPECIAL NEGOTIATING BODY[^key-4531df50e81de768085901e11a478731]
+#### CHAPTER 3 — ELECTION OR APPOINTMENT OF UK MEMBERS OF THE SPECIAL NEGOTIATING BODY[^c-4531df50e81de768085901e11a478731]
 
 **No longer in force.**
 
@@ -109,7 +109,7 @@ The Secretary of State, being a Minister designated [^c5399231] for the purposes
 - [Section 25 — Appointment of UK members by a consultative committee](part-3/section-25.md)
 - [Section 26 — Representation of employees](part-3/section-26.md)
 
-#### CHAPTER 4 — NEGOTIATION OF THE EMPLOYEE INVOLVEMENT AGREEMENT[^key-4531df50e81de768085901e11a478731]
+#### CHAPTER 4 — NEGOTIATION OF THE EMPLOYEE INVOLVEMENT AGREEMENT[^c-4531df50e81de768085901e11a478731]
 
 **No longer in force.**
 
@@ -119,13 +119,13 @@ The Secretary of State, being a Minister designated [^c5399231] for the purposes
 - [Section 30 — Decision not to open or to terminate negotiations](part-3/section-30.md)
 - [Section 31 — Complaint about decisions of special negotiating body](part-3/section-31.md)
 
-#### CHAPTER 5 — STANDARD RULES ON EMPLOYEE INVOLVEMENT[^key-4531df50e81de768085901e11a478731]
+#### CHAPTER 5 — STANDARD RULES ON EMPLOYEE INVOLVEMENT[^c-4531df50e81de768085901e11a478731]
 
 **No longer in force.**
 
 - [Section 32 — Standard rules on employee involvement](part-3/section-32.md)
 
-#### CHAPTER 6 — COMPLIANCE AND ENFORCEMENT[^key-4531df50e81de768085901e11a478731]
+#### CHAPTER 6 — COMPLIANCE AND ENFORCEMENT[^c-4531df50e81de768085901e11a478731]
 
 **No longer in force.**
 
@@ -134,14 +134,14 @@ The Secretary of State, being a Minister designated [^c5399231] for the purposes
 - [Section 35 — Misuse of procedures](part-3/section-35.md)
 - [Section 36 — Exclusivity of remedy](part-3/section-36.md)
 
-#### CHAPTER 7 — CONFIDENTIAL INFORMATION[^key-4531df50e81de768085901e11a478731]
+#### CHAPTER 7 — CONFIDENTIAL INFORMATION[^c-4531df50e81de768085901e11a478731]
 
 **No longer in force.**
 
 - [Section 37 — Breach of statutory duty](part-3/section-37.md)
 - [Section 38 — Withholding of information by the competent organ](part-3/section-38.md)
 
-#### CHAPTER 8 — PROTECTION FOR MEMBERS OF SPECIAL NEGOTIATING BODY, ETC.[^key-4531df50e81de768085901e11a478731]
+#### CHAPTER 8 — PROTECTION FOR MEMBERS OF SPECIAL NEGOTIATING BODY, ETC.[^c-4531df50e81de768085901e11a478731]
 
 **No longer in force.**
 
@@ -154,7 +154,7 @@ The Secretary of State, being a Minister designated [^c5399231] for the purposes
 - [Section 45 — Detriment: enforcement and subsidiary provisions](part-3/section-45.md)
 - [Section 46 — Conciliation](part-3/section-46.md)
 
-#### CHAPTER 9 — MISCELLANEOUS[^key-4531df50e81de768085901e11a478731]
+#### CHAPTER 9 — MISCELLANEOUS[^c-4531df50e81de768085901e11a478731]
 
 **No longer in force.**
 
@@ -218,7 +218,7 @@ The Secretary of State, being a Minister designated [^c5399231] for the purposes
 - [Section 83 — Accounting Reference Period and Financial Year of Transferring UK Societas](part-6/section-83.md)
 - [Section 84 — Penalties for Breach of Article 11 (use of SE in name)](part-6/section-84.md)
 
-### PART 7 — PROVISIONS RELATING TO THE CONVERSION OF UK SOCIETATES TO A PUBLIC COMPANY IN ACCORDANCE WITH ARTICLE 66 OF THE EC REGULATION[^key-e70be054066b7ca116d5d74df7aef965]
+### PART 7 — PROVISIONS RELATING TO THE CONVERSION OF UK SOCIETATES TO A PUBLIC COMPANY IN ACCORDANCE WITH ARTICLE 66 OF THE EC REGULATION[^c-e70be054066b7ca116d5d74df7aef965]
 
 *Extent: E+W+S*
 
@@ -276,16 +276,16 @@ A full Regulatory Impact Assessment of the effect that this instrument will have
 
 [^c5399241]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); as amended by the [European Economic Area Act 1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40).
 
-[^key-a9fc22c15ff4a3a846e3003b4b001b60]: Modification: Instrument extended (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1285(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/1285/1), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(z)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/z) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1))
+[^c-a9fc22c15ff4a3a846e3003b4b001b60]: Modification: Instrument extended (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1285(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/1285/1), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(z)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/z) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1))
 
-[^key-288e54ba59307583a034cd326b568763]: Modification: Regulations applied (31.12.2020) by Regulation (EC) No. 2157/2001, Art. 13 (as amended by The European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [reg. 108](https://www.legislation.gov.uk/uksi/2018/1298/regulation/108) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-288e54ba59307583a034cd326b568763]: Modification: Regulations applied (31.12.2020) by Regulation (EC) No. 2157/2001, Art. 13 (as amended by The European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [reg. 108](https://www.legislation.gov.uk/uksi/2018/1298/regulation/108) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-65c1c3ca38d4430b14ce18e0dc01dc79]: Modification: Regulations applied and modified (31.12.2020) by Regulation (EC) No. 2157/2001, Arts. AA1, AAA1(3) (as inserted by The European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140))) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-65c1c3ca38d4430b14ce18e0dc01dc79]: Modification: Regulations applied and modified (31.12.2020) by Regulation (EC) No. 2157/2001, Arts. AA1, AAA1(3) (as inserted by The European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140))) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-504b97cef2a08932beb766a6ced55e89]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/uksi/2004/2326/part/2) heading substituted (31.12.2020) by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [5](https://www.legislation.gov.uk/uksi/2018/1298/regulation/5) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-504b97cef2a08932beb766a6ced55e89]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/uksi/2004/2326/part/2) heading substituted (31.12.2020) by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [5](https://www.legislation.gov.uk/uksi/2018/1298/regulation/5) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4531df50e81de768085901e11a478731]: Textual amendment: Pt. 3 omitted (1.10.2009) by virtue of [The European Public Limited-Liability Company (Amendment) Regulations 2009 (S.I. 2009/2400)](https://www.legislation.gov.uk/uksi/2009/2400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2400/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2009/2400/regulation/17) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/2400/regulation/2))
+[^c-4531df50e81de768085901e11a478731]: Textual amendment: Pt. 3 omitted (1.10.2009) by virtue of [The European Public Limited-Liability Company (Amendment) Regulations 2009 (S.I. 2009/2400)](https://www.legislation.gov.uk/uksi/2009/2400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2400/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2009/2400/regulation/17) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/2400/regulation/2))
 
-[^key-150403ab64f2212ee5bee71b239e56dd]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/2004/2326/part/3) applied (31.12.2020) by Regulation (EC) No. 2157/2001, Art. 40(2) (as amended by The European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [113(b)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/113/b) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-150403ab64f2212ee5bee71b239e56dd]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/2004/2326/part/3) applied (31.12.2020) by Regulation (EC) No. 2157/2001, Art. 40(2) (as amended by The European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [113(b)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/113/b) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-e70be054066b7ca116d5d74df7aef965]: Textual amendment: Words in [Pt. 7](https://www.legislation.gov.uk/uksi/2004/2326/part/7) heading substituted (31.12.2020) by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [38](https://www.legislation.gov.uk/uksi/2018/1298/regulation/38) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e70be054066b7ca116d5d74df7aef965]: Textual amendment: Words in [Pt. 7](https://www.legislation.gov.uk/uksi/2004/2326/part/7) heading substituted (31.12.2020) by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [38](https://www.legislation.gov.uk/uksi/2018/1298/regulation/38) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

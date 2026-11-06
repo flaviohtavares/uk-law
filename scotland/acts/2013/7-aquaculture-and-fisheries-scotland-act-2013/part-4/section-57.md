@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Enforcement of orders: powers of entry[^key-d9972be94ecda3b8cfb197d84981fedd]
+## 57. Enforcement of orders: powers of entry[^c-d9972be94ecda3b8cfb197d84981fedd]
 
 *Extent: S*
 
@@ -91,4 +91,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9972be94ecda3b8cfb197d84981fedd]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2013/7/section/57) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-d9972be94ecda3b8cfb197d84981fedd]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2013/7/section/57) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

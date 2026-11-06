@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Amendment of article 2[^key-e6eb2868c06a452a39a3b44d7e4b9110]
+## 73. Amendment of article 2[^c-e6eb2868c06a452a39a3b44d7e4b9110]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e6eb2868c06a452a39a3b44d7e4b9110]: Commencement: Reg. 73 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-e6eb2868c06a452a39a3b44d7e4b9110]: Commencement: Reg. 73 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00054]: Footnote: Article 2 was amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

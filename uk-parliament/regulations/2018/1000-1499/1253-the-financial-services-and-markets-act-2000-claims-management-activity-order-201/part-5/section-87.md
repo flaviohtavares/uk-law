@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 87. Legal professional privilege[^key-9a1ce9c68ffabe427d2f7299f5c2a985][^key-e13d2bf67cd2c52e23ec12d98a36b878]
+## 87. Legal professional privilege[^c-9a1ce9c68ffabe427d2f7299f5c2a985][^c-e13d2bf67cd2c52e23ec12d98a36b878]
 
 *Extent: E+W+S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a1ce9c68ffabe427d2f7299f5c2a985]: Commencement: Art. 87 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-9a1ce9c68ffabe427d2f7299f5c2a985]: Commencement: Art. 87 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-e13d2bf67cd2c52e23ec12d98a36b878]: Commencement: [Art. 87](https://www.legislation.gov.uk/uksi/2018/1253/article/87) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-e13d2bf67cd2c52e23ec12d98a36b878]: Commencement: [Art. 87](https://www.legislation.gov.uk/uksi/2018/1253/article/87) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

@@ -24,16 +24,16 @@ Section 19
 
 ### Part 1 — Material subject to the Terrorism Act 2000
 
-**1.** (1)[^key-6f2c310ce1c867611b4ef1573826545d] Schedule 8 to the Terrorism Act 2000 (treatment of persons detained under section 41 or Schedule 7 of that Act) is amended as follows.
+**1.** (1)[^c-6f2c310ce1c867611b4ef1573826545d] Schedule 8 to the Terrorism Act 2000 (treatment of persons detained under section 41 or Schedule 7 of that Act) is amended as follows.
 
-(2)[^key-6f2c310ce1c867611b4ef1573826545d] Omit paragraph 14 (retention of material: England and Wales and Northern Ireland).
+(2)[^c-6f2c310ce1c867611b4ef1573826545d] Omit paragraph 14 (retention of material: England and Wales and Northern Ireland).
 
-(3)[^key-6f2c310ce1c867611b4ef1573826545d] In paragraph 20 (retention of material: Scotland)—
+(3)[^c-6f2c310ce1c867611b4ef1573826545d] In paragraph 20 (retention of material: Scotland)—
 
 - (a) in sub-paragraph (3), omit the words from “but” to the end of the sub-paragraph, and
 - (b) omit sub-paragraph (4).
 
-(4)[^key-ece3f98277e6fc3bf0d692301a51152e][^key-bbf47a2949dc8c427bca98c2af03a3d6] After paragraph 20 insert—
+(4)[^c-ece3f98277e6fc3bf0d692301a51152e][^c-bbf47a2949dc8c427bca98c2af03a3d6] After paragraph 20 insert—
 
 > **Destruction and retention of fingerprints and samples etc: United Kingdom**
 >
@@ -309,21 +309,21 @@ Section 19
 >   - (b) in the case of a DNA profile, in which the sample from which the DNA profile was derived was taken;
 > - “**responsible chief officer of police**” means, in relation to fingerprints or samples taken in Northern Ireland, or a DNA profile derived from a sample so taken, the Chief Constable of the Police Service of Northern Ireland.
 
-(5)[^key-7ba30e7fe0624f356f825286dc1df506] In paragraph 11(1)(a), for “paragraph 14(4),” substitute “ a relevant search (within the meaning given by paragraph 20A(6)) or for the purposes of ”.
+(5)[^c-7ba30e7fe0624f356f825286dc1df506] In paragraph 11(1)(a), for “paragraph 14(4),” substitute “ a relevant search (within the meaning given by paragraph 20A(6)) or for the purposes of ”.
 
-(6)[^key-7ba30e7fe0624f356f825286dc1df506] In paragraph 15(1) for “paragraphs 10 to 14” substitute “ paragraphs 10 to 13 ”.
+(6)[^c-7ba30e7fe0624f356f825286dc1df506] In paragraph 15(1) for “paragraphs 10 to 14” substitute “ paragraphs 10 to 13 ”.
 
-(7)[^key-7ba30e7fe0624f356f825286dc1df506] After paragraph 15(1) insert—
+(7)[^c-7ba30e7fe0624f356f825286dc1df506] After paragraph 15(1) insert—
 
 > (1A) In the application of section 65(2A) of the Police and Criminal Evidence Act 1984 for the purposes of sub-paragraph (1) of this paragraph, the reference to the destruction of a sample under section 63R of that Act is a reference to the destruction of a sample under paragraph 20G of this Schedule.
 
-(8)[^key-7ba30e7fe0624f356f825286dc1df506] In paragraph 15(2) for “paragraphs 10 to 14” substitute “ paragraphs 10 to 13 ”.
+(8)[^c-7ba30e7fe0624f356f825286dc1df506] In paragraph 15(2) for “paragraphs 10 to 14” substitute “ paragraphs 10 to 13 ”.
 
 ### Part 2 — Material subject to the International Criminal Court Act 2001
 
 *Extent: E+W+N.I.*
 
-**2.**[^key-eb9a84ca808281270d037a9d67cc90ec] In Schedule 4 of the International Criminal Court Act 2001 (taking of fingerprints or non-intimate samples) for paragraph 8 substitute—
+**2.**[^c-eb9a84ca808281270d037a9d67cc90ec] In Schedule 4 of the International Criminal Court Act 2001 (taking of fingerprints or non-intimate samples) for paragraph 8 substitute—
 
 > **8.** (1) This paragraph applies to the following material—
 >
@@ -346,9 +346,9 @@ Section 19
 
 ### Part 3 — Material subject to section 18 of the Counter-Terrorism Act 2008
 
-**3.**[^key-c04d5b21725ac9351ee6f436ff9b46ba] The Counter-Terrorism Act 2008 is amended as follows.
+**3.**[^c-c04d5b21725ac9351ee6f436ff9b46ba] The Counter-Terrorism Act 2008 is amended as follows.
 
-**4.**[^key-b24976daf1d699412a1167ba28cef32e] For section 18 (material not subject to existing statutory restrictions) substitute—
+**4.**[^c-b24976daf1d699412a1167ba28cef32e] For section 18 (material not subject to existing statutory restrictions) substitute—
 
 > **18. Destruction of national security material not subject to existing statutory restrictions**
 >
@@ -525,7 +525,7 @@ Section 19
 
 ### Part 4 — Material subject to the Terrorism Prevention and Investigation Measures Act 2011
 
-**5.**[^key-22816e5a584fa0b9b69632449be9e642] After paragraph 10(2) of Schedule 6 to the Terrorism Prevention and Investigation Measures Act 2011(fingerprints and samples) insert—
+**5.**[^c-22816e5a584fa0b9b69632449be9e642] After paragraph 10(2) of Schedule 6 to the Terrorism Prevention and Investigation Measures Act 2011(fingerprints and samples) insert—
 
 > (2A) But a person is not to be treated as having been convicted of an offence if that conviction is a disregarded conviction or caution by virtue of section 92 of the Protection of Freedoms Act 2012.
 
@@ -533,7 +533,7 @@ Section 19
 
 *Extent: S*
 
-**6.**[^key-e2533d60a6ec7258b7774d0ff5269843] (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
+**6.**[^c-e2533d60a6ec7258b7774d0ff5269843] (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
 (2) In section 18(3), for “18F” substitute “ 18G ”.
 
@@ -617,7 +617,7 @@ for as long as the determination has effect.
 
 ### Part 7 — Corresponding Northern Ireland provision for excepted or reserved matters etc.
 
-**8.**[^key-660c8125edb0dd1738bb81b389a3f68c] (1) The Secretary of State may make an order under sub-paragraph (2) or (3) if the Secretary of State considers that the subject-matter in relation to Northern Ireland of any provision of an Act of the Northern Ireland Assembly made in 2013 or 2014[^key-5f0a20c31898ea172071be423460aee5] is the same as the subject-matter in relation to England and Wales of any provision made by any of sections 1 to 18 and 23 to 25 of this Act.
+**8.**[^c-660c8125edb0dd1738bb81b389a3f68c] (1) The Secretary of State may make an order under sub-paragraph (2) or (3) if the Secretary of State considers that the subject-matter in relation to Northern Ireland of any provision of an Act of the Northern Ireland Assembly made in 2013 or 2014[^c-5f0a20c31898ea172071be423460aee5] is the same as the subject-matter in relation to England and Wales of any provision made by any of sections 1 to 18 and 23 to 25 of this Act.
 
 (2) The Secretary of State may by order make excepted or reserved provision in relation to Northern Ireland which is about the same subject-matter as any provision made in relation to England and Wales by any of sections 1 to 18 and 23 to 25 of this Act.
 
@@ -655,24 +655,24 @@ for as long as the determination has effect.
 
 ## Annotations
 
-[^key-6f2c310ce1c867611b4ef1573826545d]: Commencement: Sch. 1 para. 1(1)-(3) in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/h) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813) (as amended (30.10.2016) by [S.I. 2016/682](https://www.legislation.gov.uk/uksi/2016/682), [arts. 1](https://www.legislation.gov.uk/uksi/2016/682/article/1), [3](https://www.legislation.gov.uk/uksi/2016/682/article/3), [4](https://www.legislation.gov.uk/uksi/2016/682/article/4)))
+[^c-6f2c310ce1c867611b4ef1573826545d]: Commencement: Sch. 1 para. 1(1)-(3) in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/h) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813) (as amended (30.10.2016) by [S.I. 2016/682](https://www.legislation.gov.uk/uksi/2016/682), [arts. 1](https://www.legislation.gov.uk/uksi/2016/682/article/1), [3](https://www.legislation.gov.uk/uksi/2016/682/article/3), [4](https://www.legislation.gov.uk/uksi/2016/682/article/4)))
 
-[^key-ece3f98277e6fc3bf0d692301a51152e]: Commencement: Sch. 1 para. 1(4) in force at 31.10.2013 for specified purposes by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(i)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/i) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813) (as amended (30.10.2016) by [S.I. 2016/682](https://www.legislation.gov.uk/uksi/2016/682), [arts. 1](https://www.legislation.gov.uk/uksi/2016/682/article/1), [3](https://www.legislation.gov.uk/uksi/2016/682/article/3), [4](https://www.legislation.gov.uk/uksi/2016/682/article/4)))
+[^c-ece3f98277e6fc3bf0d692301a51152e]: Commencement: Sch. 1 para. 1(4) in force at 31.10.2013 for specified purposes by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(i)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/i) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813) (as amended (30.10.2016) by [S.I. 2016/682](https://www.legislation.gov.uk/uksi/2016/682), [arts. 1](https://www.legislation.gov.uk/uksi/2016/682/article/1), [3](https://www.legislation.gov.uk/uksi/2016/682/article/3), [4](https://www.legislation.gov.uk/uksi/2016/682/article/4)))
 
-[^key-bbf47a2949dc8c427bca98c2af03a3d6]: Commencement: Sch. 1 para. 1(4) in force at 31.1.2014 for specified purposes by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1814/article/3/b) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
+[^c-bbf47a2949dc8c427bca98c2af03a3d6]: Commencement: Sch. 1 para. 1(4) in force at 31.1.2014 for specified purposes by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1814/article/3/b) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
 
-[^key-7ba30e7fe0624f356f825286dc1df506]: Commencement: Sch. 1 para. 1(5)-(8) in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(j)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/j) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813) (as amended (30.10.2016) by [S.I. 2016/682](https://www.legislation.gov.uk/uksi/2016/682), [arts. 1](https://www.legislation.gov.uk/uksi/2016/682/article/1), [3](https://www.legislation.gov.uk/uksi/2016/682/article/3), [4](https://www.legislation.gov.uk/uksi/2016/682/article/4)))
+[^c-7ba30e7fe0624f356f825286dc1df506]: Commencement: Sch. 1 para. 1(5)-(8) in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(j)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/j) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813) (as amended (30.10.2016) by [S.I. 2016/682](https://www.legislation.gov.uk/uksi/2016/682), [arts. 1](https://www.legislation.gov.uk/uksi/2016/682/article/1), [3](https://www.legislation.gov.uk/uksi/2016/682/article/3), [4](https://www.legislation.gov.uk/uksi/2016/682/article/4)))
 
-[^key-eb9a84ca808281270d037a9d67cc90ec]: Commencement: Sch. 1 para. 2 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/k) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813) (as amended (30.10.2016) by [S.I. 2016/682](https://www.legislation.gov.uk/uksi/2016/682), [arts. 1](https://www.legislation.gov.uk/uksi/2016/682/article/1), [3](https://www.legislation.gov.uk/uksi/2016/682/article/3), [4](https://www.legislation.gov.uk/uksi/2016/682/article/4)))
+[^c-eb9a84ca808281270d037a9d67cc90ec]: Commencement: Sch. 1 para. 2 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/k) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813) (as amended (30.10.2016) by [S.I. 2016/682](https://www.legislation.gov.uk/uksi/2016/682), [arts. 1](https://www.legislation.gov.uk/uksi/2016/682/article/1), [3](https://www.legislation.gov.uk/uksi/2016/682/article/3), [4](https://www.legislation.gov.uk/uksi/2016/682/article/4)))
 
-[^key-c04d5b21725ac9351ee6f436ff9b46ba]: Commencement: Sch. 1 para. 3 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/k) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813) (as amended (30.10.2016) by [S.I. 2016/682](https://www.legislation.gov.uk/uksi/2016/682), [arts. 1](https://www.legislation.gov.uk/uksi/2016/682/article/1), [3](https://www.legislation.gov.uk/uksi/2016/682/article/3), [4](https://www.legislation.gov.uk/uksi/2016/682/article/4)))
+[^c-c04d5b21725ac9351ee6f436ff9b46ba]: Commencement: Sch. 1 para. 3 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/k) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813) (as amended (30.10.2016) by [S.I. 2016/682](https://www.legislation.gov.uk/uksi/2016/682), [arts. 1](https://www.legislation.gov.uk/uksi/2016/682/article/1), [3](https://www.legislation.gov.uk/uksi/2016/682/article/3), [4](https://www.legislation.gov.uk/uksi/2016/682/article/4)))
 
-[^key-b24976daf1d699412a1167ba28cef32e]: Commencement: Sch. 1 para. 4 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/k) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813) (as amended (30.10.2016) by [S.I. 2016/682](https://www.legislation.gov.uk/uksi/2016/682), [arts. 1](https://www.legislation.gov.uk/uksi/2016/682/article/1), [3](https://www.legislation.gov.uk/uksi/2016/682/article/3), [4](https://www.legislation.gov.uk/uksi/2016/682/article/4)))
+[^c-b24976daf1d699412a1167ba28cef32e]: Commencement: Sch. 1 para. 4 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/k) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813) (as amended (30.10.2016) by [S.I. 2016/682](https://www.legislation.gov.uk/uksi/2016/682), [arts. 1](https://www.legislation.gov.uk/uksi/2016/682/article/1), [3](https://www.legislation.gov.uk/uksi/2016/682/article/3), [4](https://www.legislation.gov.uk/uksi/2016/682/article/4)))
 
-[^key-22816e5a584fa0b9b69632449be9e642]: Commencement: Sch. 1 para. 5 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/k) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813) (as amended (30.10.2016) by [S.I. 2016/682](https://www.legislation.gov.uk/uksi/2016/682), [arts. 1](https://www.legislation.gov.uk/uksi/2016/682/article/1), [3](https://www.legislation.gov.uk/uksi/2016/682/article/3), [4](https://www.legislation.gov.uk/uksi/2016/682/article/4)))
+[^c-22816e5a584fa0b9b69632449be9e642]: Commencement: Sch. 1 para. 5 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/k) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813) (as amended (30.10.2016) by [S.I. 2016/682](https://www.legislation.gov.uk/uksi/2016/682), [arts. 1](https://www.legislation.gov.uk/uksi/2016/682/article/1), [3](https://www.legislation.gov.uk/uksi/2016/682/article/3), [4](https://www.legislation.gov.uk/uksi/2016/682/article/4)))
 
-[^key-e2533d60a6ec7258b7774d0ff5269843]: Commencement: Sch. 1 para. 6 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/k) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
+[^c-e2533d60a6ec7258b7774d0ff5269843]: Commencement: Sch. 1 para. 6 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/k) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
 
-[^key-660c8125edb0dd1738bb81b389a3f68c]: Commencement: Sch. 1 para. 8 in force at 16.12.2014 by [S.I. 2014/3315](https://www.legislation.gov.uk/uksi/2014/3315), [art. 2](https://www.legislation.gov.uk/uksi/2014/3315/article/2)
+[^c-660c8125edb0dd1738bb81b389a3f68c]: Commencement: Sch. 1 para. 8 in force at 16.12.2014 by [S.I. 2014/3315](https://www.legislation.gov.uk/uksi/2014/3315), [art. 2](https://www.legislation.gov.uk/uksi/2014/3315/article/2)
 
-[^key-5f0a20c31898ea172071be423460aee5]: Textual amendment: Words in Sch. 1 para. 8(1) substituted (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 24](https://www.legislation.gov.uk/ukpga/2014/13/section/24), [28(1)(h)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/h)[(3)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/3)
+[^c-5f0a20c31898ea172071be423460aee5]: Textual amendment: Words in Sch. 1 para. 8(1) substituted (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 24](https://www.legislation.gov.uk/ukpga/2014/13/section/24), [28(1)(h)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/h)[(3)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/3)

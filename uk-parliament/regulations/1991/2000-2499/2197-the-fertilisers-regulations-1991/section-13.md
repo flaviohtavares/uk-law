@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Revocation[^key-19898da4b828635868225834607c8714]
+## 13. Revocation[^c-19898da4b828635868225834607c8714]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Subject to regulation 1(2), the Fertilisers Regulations 1990[^f00005] are hereby
 
 ## Annotations
 
-[^key-19898da4b828635868225834607c8714]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1991/2197/regulation/13) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
+[^c-19898da4b828635868225834607c8714]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1991/2197/regulation/13) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
 
 [^f00005]: Footnote: S.I. [1990/887](https://www.legislation.gov.uk/uksi/1990/887).

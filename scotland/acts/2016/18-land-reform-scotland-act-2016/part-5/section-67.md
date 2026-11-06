@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Compensation[^key-a6746d10ef5b0cd32f3cbd8a80c61997]
+## 67. Compensation[^c-a6746d10ef5b0cd32f3cbd8a80c61997]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ is entitled to recover the amount of that loss or expense from the Part 5 commun
 
 ## Annotations
 
-[^key-a6746d10ef5b0cd32f3cbd8a80c61997]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2016/18/section/67) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-a6746d10ef5b0cd32f3cbd8a80c61997]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2016/18/section/67) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

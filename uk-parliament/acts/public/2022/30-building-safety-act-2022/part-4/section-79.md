@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Occupied building: duty to apply for building assessment certificate[^key-9769b4b8b13cadf2adf504f94029f1eb][^key-83898f2b0e4d86e7600b1c4bfdab7e7f]
+## 79. Occupied building: duty to apply for building assessment certificate[^c-9769b4b8b13cadf2adf504f94029f1eb][^c-83898f2b0e4d86e7600b1c4bfdab7e7f]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ and (in either case) is liable on summary conviction to a further fine not excee
 
 ## Annotations
 
-[^key-9769b4b8b13cadf2adf504f94029f1eb]: Commencement: S. 79 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-9769b4b8b13cadf2adf504f94029f1eb]: Commencement: S. 79 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-83898f2b0e4d86e7600b1c4bfdab7e7f]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2022/30/section/79) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/a)
+[^c-83898f2b0e4d86e7600b1c4bfdab7e7f]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2022/30/section/79) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/a)

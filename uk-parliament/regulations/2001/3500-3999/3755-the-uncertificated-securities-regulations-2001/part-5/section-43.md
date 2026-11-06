@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Irrevocable powers of attorney[^key-36dd51084a734d58ae8fa9f1778453a3]
+## 43. Irrevocable powers of attorney[^c-36dd51084a734d58ae8fa9f1778453a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-36dd51084a734d58ae8fa9f1778453a3]: Commencement: Reg. 43 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-36dd51084a734d58ae8fa9f1778453a3]: Commencement: Reg. 43 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
 [^f00014]: Footnote: [1971 c. 27](https://www.legislation.gov.uk/ukpga/1971/27).

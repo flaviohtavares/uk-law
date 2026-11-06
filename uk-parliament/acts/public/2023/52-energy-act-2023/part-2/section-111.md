@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Information and samples coordinators[^key-a621b34ed6576b332cea695a49234255]
+## 111. Information and samples coordinators[^c-a621b34ed6576b332cea695a49234255]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a621b34ed6576b332cea695a49234255]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2023/52/section/111) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-a621b34ed6576b332cea695a49234255]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2023/52/section/111) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

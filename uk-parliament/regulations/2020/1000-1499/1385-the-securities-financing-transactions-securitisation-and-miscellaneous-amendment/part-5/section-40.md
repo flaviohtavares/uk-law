@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-f682c1185d0196a3d009d4f655982beb]
+## 40. The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^c-f682c1185d0196a3d009d4f655982beb]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f682c1185d0196a3d009d4f655982beb]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2020/1385/regulation/40) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-f682c1185d0196a3d009d4f655982beb]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2020/1385/regulation/40) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00018]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544), as amended by [S.I. 2017/488](https://www.legislation.gov.uk/uksi/2017/488) and [2018/1288](https://www.legislation.gov.uk/uksi/2018/1288).

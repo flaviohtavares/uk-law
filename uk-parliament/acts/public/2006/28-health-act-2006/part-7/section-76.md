@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Offences by bodies corporate etc.[^key-1aa60bbc9f0aa23a6359e5fe74e08401][^key-f02eb165809741bd98e74f036d75b742][^key-4d32db23c2d64be0ccae07743a506bfb][^key-ea8ccc3069c54b36f6b8d3439d8628b1][^key-2bc6564c72f6e9eb343b9355152e74e0][^key-d00ffbd68e1680222d02c800c23dfeb4][^key-a9e738389e72501f1b82a8ad6a420b87]
+## 76. Offences by bodies corporate etc.[^c-1aa60bbc9f0aa23a6359e5fe74e08401][^c-f02eb165809741bd98e74f036d75b742][^c-4d32db23c2d64be0ccae07743a506bfb][^c-ea8ccc3069c54b36f6b8d3439d8628b1][^c-2bc6564c72f6e9eb343b9355152e74e0][^c-d00ffbd68e1680222d02c800c23dfeb4][^c-a9e738389e72501f1b82a8ad6a420b87]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,16 +51,16 @@ the officer or member as well as the association is guilty of the offence and li
 
 ## Annotations
 
-[^key-1aa60bbc9f0aa23a6359e5fe74e08401]: Commencement: S. 76 in force at 1.2.2007 for specified purposes for W. by [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/204/article/3/c)
+[^c-1aa60bbc9f0aa23a6359e5fe74e08401]: Commencement: S. 76 in force at 1.2.2007 for specified purposes for W. by [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/204/article/3/c)
 
-[^key-f02eb165809741bd98e74f036d75b742]: Commencement: S. 76 in force at 2.4.2007 for specified purposes for W. by [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/204/article/2/c)
+[^c-f02eb165809741bd98e74f036d75b742]: Commencement: S. 76 in force at 2.4.2007 for specified purposes for W. by [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/204/article/2/c)
 
-[^key-4d32db23c2d64be0ccae07743a506bfb]: Commencement: S. 76 in force at 1.7.2007 for specified purposes for E. by [S.I. 2007/1375](https://www.legislation.gov.uk/uksi/2007/1375), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/1375/article/2/b)
+[^c-4d32db23c2d64be0ccae07743a506bfb]: Commencement: S. 76 in force at 1.7.2007 for specified purposes for E. by [S.I. 2007/1375](https://www.legislation.gov.uk/uksi/2007/1375), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/1375/article/2/b)
 
-[^key-ea8ccc3069c54b36f6b8d3439d8628b1]: Commencement: S. 76 in force at 22.4.2008 for specified purposes by [S.I. 2008/1147](https://www.legislation.gov.uk/uksi/2008/1147), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/1147/article/3/b)
+[^c-ea8ccc3069c54b36f6b8d3439d8628b1]: Commencement: S. 76 in force at 22.4.2008 for specified purposes by [S.I. 2008/1147](https://www.legislation.gov.uk/uksi/2008/1147), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/1147/article/3/b)
 
-[^key-2bc6564c72f6e9eb343b9355152e74e0]: Commencement: S. 76 in force at 22.4.2008 for specified purposes for E.S. by [S.I. 2008/1147](https://www.legislation.gov.uk/uksi/2008/1147), [art. 3(c)](https://www.legislation.gov.uk/uksi/2008/1147/article/3/c)
+[^c-2bc6564c72f6e9eb343b9355152e74e0]: Commencement: S. 76 in force at 22.4.2008 for specified purposes for E.S. by [S.I. 2008/1147](https://www.legislation.gov.uk/uksi/2008/1147), [art. 3(c)](https://www.legislation.gov.uk/uksi/2008/1147/article/3/c)
 
-[^key-d00ffbd68e1680222d02c800c23dfeb4]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2006/28/section/76) in force at 13.12.2008 for specified purposes for W. by [S.I. 2008/3171](https://www.legislation.gov.uk/wsi/2008/3171), [art. 2(b)](https://www.legislation.gov.uk/wsi/2008/3171/article/2/b)
+[^c-d00ffbd68e1680222d02c800c23dfeb4]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2006/28/section/76) in force at 13.12.2008 for specified purposes for W. by [S.I. 2008/3171](https://www.legislation.gov.uk/wsi/2008/3171), [art. 2(b)](https://www.legislation.gov.uk/wsi/2008/3171/article/2/b)
 
-[^key-a9e738389e72501f1b82a8ad6a420b87]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2006/28/section/76) in force at 1.8.2012 for specified purposes for N.I. by [S.R. 2012/307](https://www.legislation.gov.uk/nisr/2012/307), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/307/article/2/b)
+[^c-a9e738389e72501f1b82a8ad6a420b87]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2006/28/section/76) in force at 1.8.2012 for specified purposes for N.I. by [S.R. 2012/307](https://www.legislation.gov.uk/nisr/2012/307), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/307/article/2/b)

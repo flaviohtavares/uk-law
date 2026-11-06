@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Requirement to enter a contract for a loan for fees[^key-071361ee97ee1fe6b3b1b81e15c490f1]
+## 14. Requirement to enter a contract for a loan for fees[^c-071361ee97ee1fe6b3b1b81e15c490f1]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ To receive a loan for fees payable under this Part, an eligible student must ent
 
 ## Annotations
 
-[^key-071361ee97ee1fe6b3b1b81e15c490f1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2007/195/regulation/14) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-071361ee97ee1fe6b3b1b81e15c490f1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2007/195/regulation/14) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

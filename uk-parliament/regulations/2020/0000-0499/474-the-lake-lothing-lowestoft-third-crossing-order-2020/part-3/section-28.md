@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Private rights over land[^key-65c7461b84651262f8c3f4e9bc65d3c3]
+## 28. Private rights over land[^c-65c7461b84651262f8c3f4e9bc65d3c3]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-65c7461b84651262f8c3f4e9bc65d3c3]: Commencement: Art. 28 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-65c7461b84651262f8c3f4e9bc65d3c3]: Commencement: Art. 28 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

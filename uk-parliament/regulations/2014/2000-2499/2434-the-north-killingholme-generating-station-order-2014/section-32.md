@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Protective work to buildings[^key-08f1a8d9c2c8d351a402ec23bb4c0271]
+## 32. Protective work to buildings[^c-08f1a8d9c2c8d351a402ec23bb4c0271]
 
 *Extent: E+W+S*
 
@@ -65,4 +65,4 @@ the undertaker shall compensate the owners and occupiers of the building for any
 
 ## Annotations
 
-[^key-08f1a8d9c2c8d351a402ec23bb4c0271]: Commencement: Art. 32 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-08f1a8d9c2c8d351a402ec23bb4c0271]: Commencement: Art. 32 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)

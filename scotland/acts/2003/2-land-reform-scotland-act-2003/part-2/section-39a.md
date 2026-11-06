@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39A. Evidence and notification of concluded missives or option agreements[^key-6cd1c5f26a4d46c0813c3f1017ed0deb]
+## 39A. Evidence and notification of concluded missives or option agreements[^c-6cd1c5f26a4d46c0813c3f1017ed0deb]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cd1c5f26a4d46c0813c3f1017ed0deb]: Textual amendment: S. 39A inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 43](https://www.legislation.gov.uk/asp/2015/6/section/43), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-6cd1c5f26a4d46c0813c3f1017ed0deb]: Textual amendment: S. 39A inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 43](https://www.legislation.gov.uk/asp/2015/6/section/43), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

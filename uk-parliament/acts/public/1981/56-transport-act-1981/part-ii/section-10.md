@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The provisions of The Companies Acts[^M_F_85dd4dbe-5d7c-4f86-b9b9-480b8cc63d1d] mentioned in subsection (2) apply to Associated British Ports, subject to the adaptations specified in subsection (3), as if Associated British Ports were a public company registered in England and Wales under the Companies Act 2006[^key-59ea92247adc18d45d7d1fd5a4109372] and as if the directors of Associated British Ports were the directors of such a company; and the supplementary provisions of those Acts relating to the interpretation, operation and enforcement of those provisions apply accordingly.
+(1) The provisions of The Companies Acts[^M_F_85dd4dbe-5d7c-4f86-b9b9-480b8cc63d1d] mentioned in subsection (2) apply to Associated British Ports, subject to the adaptations specified in subsection (3), as if Associated British Ports were a public company registered in England and Wales under the Companies Act 2006[^c-59ea92247adc18d45d7d1fd5a4109372] and as if the directors of Associated British Ports were the directors of such a company; and the supplementary provisions of those Acts relating to the interpretation, operation and enforcement of those provisions apply accordingly.
 
-(2)[^key-e76e2ddd78620c82b6c5f3be9b6499c2] The provisions of the Companies Acts referred to in subsection (1) are the following—
+(2)[^c-e76e2ddd78620c82b6c5f3be9b6499c2] The provisions of the Companies Acts referred to in subsection (1) are the following—
 
 <table>
 <thead>
@@ -54,6 +54,6 @@ summary: ''
 
 [^M_F_85dd4dbe-5d7c-4f86-b9b9-480b8cc63d1d]: Textual amendment: By The Companies Act 2006 (Consequential Amendments etc) Order (S.I. 2008/948), art. 2(2), Sch. 1 para. 51(2)(a) (with arts. 6, 11, 12) it is provided that the words “The Companies Acts 1948 to 1981” in s. 10(1) are substituted (6.4.2008) for the words “The Companies Acts”
 
-[^key-59ea92247adc18d45d7d1fd5a4109372]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/1981/56/section/10/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 48(2)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/48/2/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-59ea92247adc18d45d7d1fd5a4109372]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/1981/56/section/10/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 48(2)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/48/2/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-e76e2ddd78620c82b6c5f3be9b6499c2]: Textual amendment: S. 10(2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 48(2)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/48/2/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-e76e2ddd78620c82b6c5f3be9b6499c2]: Textual amendment: S. 10(2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 48(2)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/48/2/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

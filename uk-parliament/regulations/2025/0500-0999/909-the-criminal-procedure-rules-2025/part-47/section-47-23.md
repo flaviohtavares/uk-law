@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.23. Application for a production order under the Extradition Act 2003[^key-af2cf028b189c2f27cbc340658d824e6]
+## 47.23. Application for a production order under the Extradition Act 2003[^c-af2cf028b189c2f27cbc340658d824e6]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-af2cf028b189c2f27cbc340658d824e6]: Commencement: Rule 47.23 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-af2cf028b189c2f27cbc340658d824e6]: Commencement: Rule 47.23 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01182]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41); section 157 was amended by section 174 of the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12).

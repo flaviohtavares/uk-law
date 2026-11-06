@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State, after consulting the persons and bodies specified in section 149(3), makes the following Order in exercise of the powers conferred by sections 149(1), 151, 180(2) and 316(1)(b) of the Marine and Coastal Access Act 2009[^f00001].
 
-## 1. Citation and commencement[^key-747f0771c9824d00c4e8c6c938011dfc]
+## 1. Citation and commencement[^c-747f0771c9824d00c4e8c6c938011dfc]
 
 (1) This Order may be cited as the North Western Inshore Fisheries and Conservation Order 2010.
 
 (2) This Order comes into force on 1st October 2010.
 
-## 2. Interpretation[^key-ec528b4b7f3bdedc17534c8d46c56d26]
+## 2. Interpretation[^c-ec528b4b7f3bdedc17534c8d46c56d26]
 
 (1) In this Order—
 
@@ -69,7 +69,7 @@ The Secretary of State, after consulting the persons and bodies specified in sec
 
 (2) Expressions used in this Order and in Chapter 1 of Part 6 of the Marine Act have the same meaning in this Order as they have in that Chapter.
 
-## 3. The North Western Inshore Fisheries and Conservation District[^key-892e08e820cccd9d66268687b9b0cd9c]
+## 3. The North Western Inshore Fisheries and Conservation District[^c-892e08e820cccd9d66268687b9b0cd9c]
 
 (1) There is to be an inshore fisheries and conservation district known as the North Western Inshore Fisheries and Conservation District (“the district”).
 
@@ -82,13 +82,13 @@ The Secretary of State, after consulting the persons and bodies specified in sec
 
 - Blackpool Borough Council;
 - Cheshire West and Chester Council;
-- Cumberland Council;[^key-c713197f7c39b843c220f199b7ecb89a]
-- [^key-540dc8fbd827dbdcbea9687cac0ec271]...
+- Cumberland Council;[^c-c713197f7c39b843c220f199b7ecb89a]
+- [^c-540dc8fbd827dbdcbea9687cac0ec271]...
 - Halton Borough Council;
 - Lancashire County Council;
 - Liverpool City Council;
 - Sefton Council;
-- Westmorland and Furness Council;[^key-dccbfd1af044ce964fd84807ebcf0dc4]
+- Westmorland and Furness Council;[^c-dccbfd1af044ce964fd84807ebcf0dc4]
 - Wirral Metropolitan Borough Council.
 
 (4) The “adjacent area of sea” is so much of the sea adjacent to the basic area of the district as lies—
@@ -107,11 +107,11 @@ The Secretary of State, after consulting the persons and bodies specified in sec
 - (b) “co-ordinate” means a co-ordinate of latitude and longitude on the World Geodetic System 1984; and
 - (c) “nautical mile” means an international nautical mile of 1,852 metres.
 
-## 4. The North Western Inshore Fisheries and Conservation Authority[^key-bb9b96c6de5fd0be78d389d2962a4e37]
+## 4. The North Western Inshore Fisheries and Conservation Authority[^c-bb9b96c6de5fd0be78d389d2962a4e37]
 
 The inshore fisheries and conservation authority for the district[^f00004] is to be known as the North Western Inshore Fisheries and Conservation Authority.
 
-## 5. Membership of the Authority[^key-d29fdc02168ae03d96a103a78dbd7323]
+## 5. Membership of the Authority[^c-d29fdc02168ae03d96a103a78dbd7323]
 
 (1) The Authority is to consist of 30 members.
 
@@ -127,18 +127,18 @@ The inshore fisheries and conservation authority for the district[^f00004] is to
 | --- | --- |
 | Blackpool Borough Council | 1 |
 | Cheshire West and Chester Council | 1 |
-| Cumberland Council[^key-128f5662423f68596c241d4fe35ace27] | 1 |
-| [^key-5ca6202a8c2f770c304c3a42d344897b]. . . | [^key-5ca6202a8c2f770c304c3a42d344897b]. . . |
+| Cumberland Council[^c-128f5662423f68596c241d4fe35ace27] | 1 |
+| [^c-5ca6202a8c2f770c304c3a42d344897b]. . . | [^c-5ca6202a8c2f770c304c3a42d344897b]. . . |
 | Halton Borough Council | 1 |
 | Lancashire County Council | 2 |
 | Liverpool City Council | 1 |
 | Sefton Council | 1 |
-| Westmorland and Furness Council[^key-b4c926a8d8d7e8646abb00070d858a88] | 1 |
+| Westmorland and Furness Council[^c-b4c926a8d8d7e8646abb00070d858a88] | 1 |
 | Wirral Metropolitan Borough Council | 1 |
 
 (4) One of the additional members is to be appointed by the Environment Agency and the other is to be appointed by Natural England.
 
-## 6. Terms of appointment[^key-e3751ef3dc4c8891a3c5676d868bb2ed]
+## 6. Terms of appointment[^c-e3751ef3dc4c8891a3c5676d868bb2ed]
 
 (1) A person appointed as a member of the Authority holds and vacates office in accordance with the terms of the appointment.
 
@@ -146,7 +146,7 @@ The inshore fisheries and conservation authority for the district[^f00004] is to
 
 (3) Paragraph (1) is subject to articles 9 to 11.
 
-## 7. Appointment of Chair[^key-ad77c3f183c1bee32e7b5d0b06b06e9d]
+## 7. Appointment of Chair[^c-ad77c3f183c1bee32e7b5d0b06b06e9d]
 
 (1) The Authority must appoint from among its members a person to be the chair of the Authority.
 
@@ -156,7 +156,7 @@ The inshore fisheries and conservation authority for the district[^f00004] is to
 
 (4) The chair holds office for the period beginning with the meeting at which the chair is appointed and ending with the first meeting of the Authority held after the beginning of the following financial year, but this is subject to articles 8 to 11.
 
-## 8. Removal of Chair[^key-121b96e6f3ad61f26bb8cf3a7fb7e8fa]
+## 8. Removal of Chair[^c-121b96e6f3ad61f26bb8cf3a7fb7e8fa]
 
 (1) The Authority may remove a person from the office of chair if the condition in paragraph (2) is met.
 
@@ -179,7 +179,7 @@ but paragraph (b) is subject to the further application of this article and to a
 
 (6) A person who has been removed from the office of chair under this article is not eligible to be re-appointed as chair.
 
-## 9. Resignation from office[^key-74ecec98627af6185b9069fd94a00143]
+## 9. Resignation from office[^c-74ecec98627af6185b9069fd94a00143]
 
 (1) A person may resign as a member of the Authority by giving notice in writing to—
 
@@ -202,7 +202,7 @@ but paragraph (b) is subject to the further application of this article and to a
 
 but paragraph (b) is subject to the further application of this article and to articles 8, 10 and 11.
 
-## 10. Suspension of membership[^key-ade3318f259b43c76676e68b03f5a294]
+## 10. Suspension of membership[^c-ade3318f259b43c76676e68b03f5a294]
 
 (1) The Authority or the relevant appointing body may suspend the appointment of any member against whom criminal proceedings are commenced.
 
@@ -220,7 +220,7 @@ the suspension ends on the acquittal, discontinuance or withdrawal.
 - (a) as a member of the Authority; and
 - (b) if the council member is the chair, as chair.
 
-## 11. Termination of membership[^key-7e3f35fb671eb8368b23c8a2980f3957]
+## 11. Termination of membership[^c-7e3f35fb671eb8368b23c8a2980f3957]
 
 (1) A person’s appointment as a member of the Authority ceases in any of the following circumstances—
 
@@ -252,14 +252,14 @@ but paragraph (b) is subject to the further application of this article and to a
 
 (7) In paragraph (6) “enactment” includes an enactment contained in subordinate legislation.
 
-## 12. Eligibility for appointment or re-appointment[^key-1dd068d9fb8b7b2db0697d79de1c4a74]
+## 12. Eligibility for appointment or re-appointment[^c-1dd068d9fb8b7b2db0697d79de1c4a74]
 
 A person is not eligible for appointment or re-appointment as a member of the Authority if—
 
 - (a) the person has been convicted of a criminal offence; and
 - (b) the conviction is not spent for the purposes of the Rehabilitation of Offenders Act 1974[^f00008].
 
-## 13. Quorum and general procedure[^key-bc9da5753313f47bcd065096317a09db]
+## 13. Quorum and general procedure[^c-bc9da5753313f47bcd065096317a09db]
 
 (1) A meeting of the Authority is quorate if—
 
@@ -269,7 +269,7 @@ A person is not eligible for appointment or re-appointment as a member of the Au
 
 (2) The relevant councils may not make standing orders as respects the Authority under section 106 of the Local Government Act 1972[^f00009] (standing orders with respect to proceedings).
 
-## 14. Chairing of meetings[^key-20f36c2c6d92634809920620e3dc7238]
+## 14. Chairing of meetings[^c-20f36c2c6d92634809920620e3dc7238]
 
 (1) The Authority must appoint from among its members a person (the “vice-chair”) who is to chair any meeting of the Authority which the chair is unable to chair (but see paragraphs (4) and (5)).
 
@@ -281,7 +281,7 @@ A person is not eligible for appointment or re-appointment as a member of the Au
 
 (5) A person who has been removed from the office of vice-chair under article 8 is not eligible to be appointed as chair or re-appointed as vice-chair.
 
-## 15. Expenses and allowances[^key-14b0666bd46146b08510f115b60cf8c1]
+## 15. Expenses and allowances[^c-14b0666bd46146b08510f115b60cf8c1]
 
 (1) The Authority may reimburse the expenses of its members incurred in connection with attending a meeting of the Authority or otherwise carrying out the functions of the Authority.
 
@@ -291,7 +291,7 @@ A person is not eligible for appointment or re-appointment as a member of the Au
 
 (4) The Authority must determine, before the beginning of each financial year, the circumstances in which a member is eligible under this article for the reimbursement of expenses incurred in that year or the receipt of an allowance in respect of that year.
 
-## 16. Expenses of the Authority[^key-f87ae55a335c5a84243edfd61eee8a81]
+## 16. Expenses of the Authority[^c-f87ae55a335c5a84243edfd61eee8a81]
 
 (1) The expenses incurred by the Authority must be defrayed by the relevant councils in accordance with paragraph (2)[^f00010].
 
@@ -301,18 +301,18 @@ A person is not eligible for appointment or re-appointment as a member of the Au
 | --- | --- |
 | Blackpool Borough Council | 1.65% |
 | Cheshire West and Chester Council | 7.30% |
-| Cumberland Council[^key-cccb1fbf0f8bef93576ec479035b35a4] | 20.49% |
-| [^key-d47238520846a8f41256f9b3f5bece67]. . . | [^key-d47238520846a8f41256f9b3f5bece67]. . . |
+| Cumberland Council[^c-cccb1fbf0f8bef93576ec479035b35a4] | 20.49% |
+| [^c-d47238520846a8f41256f9b3f5bece67]. . . | [^c-d47238520846a8f41256f9b3f5bece67]. . . |
 | Halton Borough Council | 2.22% |
 | Lancashire County Council | 33.14% |
 | Liverpool City Council | 4.26% |
 | Sefton Council | 5.09% |
-| Westmorland and Furness Council[^key-4dfa42411d2b39659f5ca797ca43a1bb] | 20.45% |
+| Westmorland and Furness Council[^c-4dfa42411d2b39659f5ca797ca43a1bb] | 20.45% |
 | Wirral Metropolitan Borough Council | 5.40% |
 
 (3) Before the consideration of any motion by virtue of subsection (4) of section 180 of the Marine Act to veto the total amount of expenses incurred by the Authority which is to be defrayed pursuant to that section, the Authority must give notice in writing of that motion to each council member.
 
-## 17. Delegation of Authority’s functions[^key-980b013d10d677b23dbe49bc878b7447]
+## 17. Delegation of Authority’s functions[^c-980b013d10d677b23dbe49bc878b7447]
 
 (1) If the Authority considers it necessary or expedient for the exercise of its functions, it may authorise a sub-committee or any member or employee of the Authority to exercise any of the Authority’s functions.
 
@@ -320,7 +320,7 @@ A person is not eligible for appointment or re-appointment as a member of the Au
 
 (3) Paragraph (1) does not prevent the Authority from exercising the function itself.
 
-## 18. Validity of acts and proceedings[^key-f74987a99b14c94d5def67e6ca3e3ed1]
+## 18. Validity of acts and proceedings[^c-f74987a99b14c94d5def67e6ca3e3ed1]
 
 The validity of anything done by the Authority, or by any sub-committee of the Authority, is not affected by any of the following—
 
@@ -341,7 +341,7 @@ Department for Environment, Food and Rural Affairs
 
 Article 3(5)
 
-### PART 1 — The northern boundary of the district[^key-6277455a9ce2a7b484a8c7195b452521]
+### PART 1 — The northern boundary of the district[^c-6277455a9ce2a7b484a8c7195b452521]
 
 | Points | Latitude |  | Longitude |
 | --- | --- | --- | --- |
@@ -359,9 +359,9 @@ Article 3(5)
 | 12 | 54° 37.56′ N | : | 3° 51.16′ W |
 | 13 | 54° 36.94′ N | : | 3° 52.16′ W |
 | 14 | 54° 36.12′ N | : | 3° 53.94′ W |
-| 15 | 54°[^key-e5e9251b345406c939346fe380972784] 33.94′ N | : | 3° 58.7′ W |
+| 15 | 54°[^c-e5e9251b345406c939346fe380972784] 33.94′ N | : | 3° 58.7′ W |
 
-### PART 2 — The southern boundary of the district[^key-bbb3220f411d9e133869d6fcd6a25083]
+### PART 2 — The southern boundary of the district[^c-bbb3220f411d9e133869d6fcd6a25083]
 
 | Points | Latitude |  | Longitude |
 | --- | --- | --- | --- |
@@ -390,27 +390,27 @@ A full impact assessment of the effect that the 2009 Act will have on the costs 
 
 [^f00001]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-747f0771c9824d00c4e8c6c938011dfc]: Commencement: Art. 1 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+[^c-747f0771c9824d00c4e8c6c938011dfc]: Commencement: Art. 1 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
 
-[^key-ec528b4b7f3bdedc17534c8d46c56d26]: Commencement: Art. 2 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+[^c-ec528b4b7f3bdedc17534c8d46c56d26]: Commencement: Art. 2 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
 
 [^f00002]: Footnote: By virtue of article 2(2) “relevant council” has the same meaning as in section 186(1) of the Marine Act. Article 3(3) of this Order identifies the particular councils whose areas form part of the North Western Inshore Fisheries and Conservation District.
 
-[^key-892e08e820cccd9d66268687b9b0cd9c]: Commencement: Art. 3 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+[^c-892e08e820cccd9d66268687b9b0cd9c]: Commencement: Art. 3 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
 
-[^key-c713197f7c39b843c220f199b7ecb89a]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/2200/article/3/3) inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2023/187/article/8/2/b)
+[^c-c713197f7c39b843c220f199b7ecb89a]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/2200/article/3/3) inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2023/187/article/8/2/b)
 
-[^key-540dc8fbd827dbdcbea9687cac0ec271]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/2200/article/3/3) omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2023/187/article/8/2/a)
+[^c-540dc8fbd827dbdcbea9687cac0ec271]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/2200/article/3/3) omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2023/187/article/8/2/a)
 
-[^key-dccbfd1af044ce964fd84807ebcf0dc4]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/2200/article/3/3) inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(2)(c)](https://www.legislation.gov.uk/uksi/2023/187/article/8/2/c)
+[^c-dccbfd1af044ce964fd84807ebcf0dc4]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/2200/article/3/3) inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(2)(c)](https://www.legislation.gov.uk/uksi/2023/187/article/8/2/c)
 
 [^f00003]: Footnote: 1965 III p.6452A, amended by the Territorial Waters (Amendment) Order in Council 1979, 1979 III p.2866. These baselines are used in the Fishing Boats (European Economic Community) Designation Order 1983 ([S.I. 1983/253](https://www.legislation.gov.uk/uksi/1983/253)) to designate, for the purposes of section 2(1) of the Fishery Limits Act 1976, the areas in which fishing boats registered in Member States other than the United Kingdom may fish.
 
-[^key-bb9b96c6de5fd0be78d389d2962a4e37]: Commencement: Art. 4 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+[^c-bb9b96c6de5fd0be78d389d2962a4e37]: Commencement: Art. 4 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
 
 [^f00004]: Footnote: Section 150(1) of the Marine Act provides that there is to be an inshore fisheries and conservation authority for every inshore fisheries and conservation district established under section 149 of that Act.
 
-[^key-d29fdc02168ae03d96a103a78dbd7323]: Commencement: Art. 5 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+[^c-d29fdc02168ae03d96a103a78dbd7323]: Commencement: Art. 5 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
 
 [^f00005]: Footnote: See section 151(1)(a) and (5)(a) and (b) of the Marine Act.
 
@@ -418,52 +418,52 @@ A full impact assessment of the effect that the 2009 Act will have on the costs 
 
 [^f00007]: Footnote: See section 151(1)(c) and (5)(c) of the Marine Act.
 
-[^key-128f5662423f68596c241d4fe35ace27]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2010/2200/article/5/3) table inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/187/article/8/3/b)
+[^c-128f5662423f68596c241d4fe35ace27]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2010/2200/article/5/3) table inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/187/article/8/3/b)
 
-[^key-5ca6202a8c2f770c304c3a42d344897b]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2010/2200/article/5/3) table omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2023/187/article/8/3/a)
+[^c-5ca6202a8c2f770c304c3a42d344897b]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2010/2200/article/5/3) table omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2023/187/article/8/3/a)
 
-[^key-b4c926a8d8d7e8646abb00070d858a88]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2010/2200/article/5/3) table inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(3)(c)](https://www.legislation.gov.uk/uksi/2023/187/article/8/3/c)
+[^c-b4c926a8d8d7e8646abb00070d858a88]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2010/2200/article/5/3) table inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(3)(c)](https://www.legislation.gov.uk/uksi/2023/187/article/8/3/c)
 
-[^key-e3751ef3dc4c8891a3c5676d868bb2ed]: Commencement: Art. 6 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+[^c-e3751ef3dc4c8891a3c5676d868bb2ed]: Commencement: Art. 6 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
 
-[^key-ad77c3f183c1bee32e7b5d0b06b06e9d]: Commencement: Art. 7 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+[^c-ad77c3f183c1bee32e7b5d0b06b06e9d]: Commencement: Art. 7 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
 
-[^key-121b96e6f3ad61f26bb8cf3a7fb7e8fa]: Commencement: Art. 8 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+[^c-121b96e6f3ad61f26bb8cf3a7fb7e8fa]: Commencement: Art. 8 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
 
-[^key-74ecec98627af6185b9069fd94a00143]: Commencement: Art. 9 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+[^c-74ecec98627af6185b9069fd94a00143]: Commencement: Art. 9 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
 
-[^key-ade3318f259b43c76676e68b03f5a294]: Commencement: Art. 10 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+[^c-ade3318f259b43c76676e68b03f5a294]: Commencement: Art. 10 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
 
-[^key-7e3f35fb671eb8368b23c8a2980f3957]: Commencement: Art. 11 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+[^c-7e3f35fb671eb8368b23c8a2980f3957]: Commencement: Art. 11 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
 
-[^key-1dd068d9fb8b7b2db0697d79de1c4a74]: Commencement: Art. 12 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+[^c-1dd068d9fb8b7b2db0697d79de1c4a74]: Commencement: Art. 12 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
 
 [^f00008]: Footnote: [1974 c.53](https://www.legislation.gov.uk/ukpga/1974/53).
 
-[^key-bc9da5753313f47bcd065096317a09db]: Commencement: Art. 13 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+[^c-bc9da5753313f47bcd065096317a09db]: Commencement: Art. 13 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
 
 [^f00009]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-20f36c2c6d92634809920620e3dc7238]: Commencement: Art. 14 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+[^c-20f36c2c6d92634809920620e3dc7238]: Commencement: Art. 14 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
 
-[^key-14b0666bd46146b08510f115b60cf8c1]: Commencement: Art. 15 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+[^c-14b0666bd46146b08510f115b60cf8c1]: Commencement: Art. 15 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
 
-[^key-f87ae55a335c5a84243edfd61eee8a81]: Commencement: Art. 16 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+[^c-f87ae55a335c5a84243edfd61eee8a81]: Commencement: Art. 16 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
 
 [^f00010]: Footnote: Section 180(1) and (2) of the Marine Act requires each relevant council to defray such portion of the expenses incurred by the authority for an IFC district as may be specified in, or determined in accordance with, the order establishing the district.
 
-[^key-cccb1fbf0f8bef93576ec479035b35a4]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/16/2) table inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2023/187/article/8/4/b)
+[^c-cccb1fbf0f8bef93576ec479035b35a4]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/16/2) table inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2023/187/article/8/4/b)
 
-[^key-d47238520846a8f41256f9b3f5bece67]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/16/2) table omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2023/187/article/8/4/a)
+[^c-d47238520846a8f41256f9b3f5bece67]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/16/2) table omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2023/187/article/8/4/a)
 
-[^key-4dfa42411d2b39659f5ca797ca43a1bb]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/16/2) table inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(4)(c)](https://www.legislation.gov.uk/uksi/2023/187/article/8/4/c)
+[^c-4dfa42411d2b39659f5ca797ca43a1bb]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/16/2) table inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(4)(c)](https://www.legislation.gov.uk/uksi/2023/187/article/8/4/c)
 
-[^key-980b013d10d677b23dbe49bc878b7447]: Commencement: Art. 17 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+[^c-980b013d10d677b23dbe49bc878b7447]: Commencement: Art. 17 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
 
-[^key-f74987a99b14c94d5def67e6ca3e3ed1]: Commencement: Art. 18 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+[^c-f74987a99b14c94d5def67e6ca3e3ed1]: Commencement: Art. 18 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
 
-[^key-6277455a9ce2a7b484a8c7195b452521]: Commencement: Sch. Pt. 1 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+[^c-6277455a9ce2a7b484a8c7195b452521]: Commencement: Sch. Pt. 1 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
 
-[^key-e5e9251b345406c939346fe380972784]: Textual amendment: Word in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2010/2200/schedule/part/1) substituted (27.9.2019) by [The North Western Inshore Fisheries and Conservation (Amendment) Order 2019 (S.I. 2019/1239)](https://www.legislation.gov.uk/uksi/2019/1239), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1239/article/1), [2](https://www.legislation.gov.uk/uksi/2019/1239/article/2)
+[^c-e5e9251b345406c939346fe380972784]: Textual amendment: Word in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2010/2200/schedule/part/1) substituted (27.9.2019) by [The North Western Inshore Fisheries and Conservation (Amendment) Order 2019 (S.I. 2019/1239)](https://www.legislation.gov.uk/uksi/2019/1239), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1239/article/1), [2](https://www.legislation.gov.uk/uksi/2019/1239/article/2)
 
-[^key-bbb3220f411d9e133869d6fcd6a25083]: Commencement: Sch. Pt. 2 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+[^c-bbb3220f411d9e133869d6fcd6a25083]: Commencement: Sch. Pt. 2 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Interpretation of Part 3[^key-eaa4836a90ca1000ba046f268231e64b]
+## 82. Interpretation of Part 3[^c-eaa4836a90ca1000ba046f268231e64b]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ In this Part, unless the context otherwise requires—
 
 ## Annotations
 
-[^key-eaa4836a90ca1000ba046f268231e64b]: Commencement: Art. 82 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-eaa4836a90ca1000ba046f268231e64b]: Commencement: Art. 82 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

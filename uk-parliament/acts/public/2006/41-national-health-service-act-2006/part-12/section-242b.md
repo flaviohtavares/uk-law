@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 242B. Directions in cases where Strategic Health Authority arranges involvement[^key-6561b458c6f2564b6a28ea51b82648ce]
+## 242B. Directions in cases where Strategic Health Authority arranges involvement[^c-6561b458c6f2564b6a28ea51b82648ce]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6561b458c6f2564b6a28ea51b82648ce]: Textual amendment: S. 242B omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 127](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/127); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-6561b458c6f2564b6a28ea51b82648ce]: Textual amendment: S. 242B omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 127](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/127); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

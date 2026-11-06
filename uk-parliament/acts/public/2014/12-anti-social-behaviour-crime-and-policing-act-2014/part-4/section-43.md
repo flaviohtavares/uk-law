@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Power to issue notices[^key-c685d17d52f661cd5fea21c4ca5174bd]
+## 43. Power to issue notices[^c-c685d17d52f661cd5fea21c4ca5174bd]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c685d17d52f661cd5fea21c4ca5174bd]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2014/12/section/43) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-c685d17d52f661cd5fea21c4ca5174bd]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2014/12/section/43) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)

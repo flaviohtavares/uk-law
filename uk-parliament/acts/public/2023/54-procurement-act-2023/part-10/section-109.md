@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Recommendations following procurement investigations[^key-6dfb7296d194f59a4d73d5015806e8d4][^key-81e15aa223b839675805939ebc74689c]
+## 109. Recommendations following procurement investigations[^c-6dfb7296d194f59a4d73d5015806e8d4][^c-81e15aa223b839675805939ebc74689c]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6dfb7296d194f59a4d73d5015806e8d4]: Commencement: S. 109 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-6dfb7296d194f59a4d73d5015806e8d4]: Commencement: S. 109 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-81e15aa223b839675805939ebc74689c]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2023/54/section/109) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-81e15aa223b839675805939ebc74689c]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2023/54/section/109) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

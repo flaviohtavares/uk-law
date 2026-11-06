@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3[^key-eff056b23930030b48c2bd6a7694f4b7]
+## SCHEDULE 3[^c-eff056b23930030b48c2bd6a7694f4b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ Regulation 41
 
 ## Annotations
 
-[^key-eff056b23930030b48c2bd6a7694f4b7]: Commencement: Sch. 3 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-eff056b23930030b48c2bd6a7694f4b7]: Commencement: Sch. 3 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

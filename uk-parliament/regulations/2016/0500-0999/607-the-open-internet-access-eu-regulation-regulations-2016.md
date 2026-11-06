@@ -58,7 +58,7 @@ The Secretary of State, being a Minister designated [^c23157401] for the purpose
 - “**information requirement**” has the meaning given in regulation 16; and
 - “**OFCOM**” means the Office of Communications as established by the Office of Communications Act 2002 [^c23157431].
 
-(3)[^key-e714ced7d0bfb2957ae940659ba2f7de] In these Regulations, references to OFCOM’s functions under the EU Regulation should be read as references to OFCOM’s functions for the purposes of Articles 3, 4 and 5 of the EU Regulation.
+(3)[^c-e714ced7d0bfb2957ae940659ba2f7de] In these Regulations, references to OFCOM’s functions under the EU Regulation should be read as references to OFCOM’s functions for the purposes of Articles 3, 4 and 5 of the EU Regulation.
 
 ### 2. Service of notifications and other documents
 
@@ -146,11 +146,11 @@ must have indicated to the person making the transmission the recipient's willin
 
 ## PART 2 — NATIONAL REGULATORY AUTHORITY
 
-### 4. National Regulatory Authority[^key-0840f734c45a6579350b9d5c9c0ec84f]
+### 4. National Regulatory Authority[^c-0840f734c45a6579350b9d5c9c0ec84f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. BEREC guidelines[^key-45d721bfacd7650cf78d621e9bb7643e]
+### 5. BEREC guidelines[^c-45d721bfacd7650cf78d621e9bb7643e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -162,14 +162,14 @@ OFCOM may certify one or more monitoring mechanisms to measure the performance o
 
 ### 7. Power to impose requirements
 
-(1) Subject to paragraph (2A),[^key-d8e7ff9bf78b723b90fce54d95cd690b] OFCOM shall have the power to impose requirements for either or both of the purposes in paragraph (2).
+(1) Subject to paragraph (2A),[^c-d8e7ff9bf78b723b90fce54d95cd690b] OFCOM shall have the power to impose requirements for either or both of the purposes in paragraph (2).
 
 (2) Those purposes are—
 
 - (a) to ensure compliance with Articles 3 and 4 of the EU Regulation;
 - (b) to ensure the continued availability of non-discriminatory internet access services at levels of quality that reflect advances in technology.
 
-(2A)[^key-0fcbb66d49cf64137547b12fb2ea41d7] A requirement imposed under paragraph (1) must be concerned with—
+(2A)[^c-0fcbb66d49cf64137547b12fb2ea41d7] A requirement imposed under paragraph (1) must be concerned with—
 
 - (a) technical characteristics;
 - (b) minimum quality of service requirements;
@@ -510,9 +510,9 @@ that person (as well as the firm) is guilty of that offence and shall be liable 
 
 (3) When a notified person's relevant business consists of two or more undertakings that each prepare accounts then the turnover is to be calculated by adding together the turnover of each, save that no account shall be taken of any turnover resulting from the supply of goods or the provision of services between them.
 
-(4) Any aid [^key-4872f8b703e4202a239c75cb23cd6d66]... granted by a public body to a notified person which relates to one of that person's ordinary activities is to be included in the calculation of turnover if the notified person is himself the recipient of the aid and if the aid is directly linked to the carrying out by that person of the relevant business.
+(4) Any aid [^c-4872f8b703e4202a239c75cb23cd6d66]... granted by a public body to a notified person which relates to one of that person's ordinary activities is to be included in the calculation of turnover if the notified person is himself the recipient of the aid and if the aid is directly linked to the carrying out by that person of the relevant business.
 
-(5)[^key-9c9ca872902459b927dcfe091bef4905] In this regulation “aid” means a measure which—
+(5)[^c-9c9ca872902459b927dcfe091bef4905] In this regulation “aid” means a measure which—
 
 - (a) fulfils the conditions set out in Article 1.1 of the Agreement on Subsidies and Countervailing Measures contained in Annex 1A to the WTO Agreement, and
 - (b) is specific within the meaning of Article 2 of that Agreement, irrespective of whether the recipient deals in goods or services.
@@ -686,20 +686,20 @@ A Transposition Note has been produced for these Regulations and is published wi
 
 [^c23157431]: Marginal citation: [2002 c. 11](https://www.legislation.gov.uk/ukpga/2002/11).
 
-[^key-e714ced7d0bfb2957ae940659ba2f7de]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/607/regulation/1/3) inserted (31.12.2020) by [The Open Internet Access (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1243)](https://www.legislation.gov.uk/uksi/2018/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1243/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1243/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e714ced7d0bfb2957ae940659ba2f7de]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/607/regulation/1/3) inserted (31.12.2020) by [The Open Internet Access (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1243)](https://www.legislation.gov.uk/uksi/2018/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1243/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1243/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23157441]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-0840f734c45a6579350b9d5c9c0ec84f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/607/regulation/4) omitted (31.12.2020) by virtue of [The Open Internet Access (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1243)](https://www.legislation.gov.uk/uksi/2018/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1243/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1243/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0840f734c45a6579350b9d5c9c0ec84f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/607/regulation/4) omitted (31.12.2020) by virtue of [The Open Internet Access (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1243)](https://www.legislation.gov.uk/uksi/2018/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1243/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1243/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-45d721bfacd7650cf78d621e9bb7643e]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/607/regulation/5) omitted (31.12.2020) by virtue of [The Open Internet Access (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1243)](https://www.legislation.gov.uk/uksi/2018/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1243/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/1243/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-45d721bfacd7650cf78d621e9bb7643e]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/607/regulation/5) omitted (31.12.2020) by virtue of [The Open Internet Access (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1243)](https://www.legislation.gov.uk/uksi/2018/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1243/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/1243/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d8e7ff9bf78b723b90fce54d95cd690b]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2016/607/regulation/7/1) inserted (31.12.2020) by [The Open Internet Access (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1243)](https://www.legislation.gov.uk/uksi/2018/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1243/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/1243/regulation/2/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d8e7ff9bf78b723b90fce54d95cd690b]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2016/607/regulation/7/1) inserted (31.12.2020) by [The Open Internet Access (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1243)](https://www.legislation.gov.uk/uksi/2018/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1243/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/1243/regulation/2/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0fcbb66d49cf64137547b12fb2ea41d7]: Textual amendment: [Reg. 7(2A)](https://www.legislation.gov.uk/uksi/2016/607/regulation/7/2A) inserted (31.12.2020) by [The Open Internet Access (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1243)](https://www.legislation.gov.uk/uksi/2018/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1243/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2018/1243/regulation/2/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0fcbb66d49cf64137547b12fb2ea41d7]: Textual amendment: [Reg. 7(2A)](https://www.legislation.gov.uk/uksi/2016/607/regulation/7/2A) inserted (31.12.2020) by [The Open Internet Access (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1243)](https://www.legislation.gov.uk/uksi/2018/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1243/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2018/1243/regulation/2/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4872f8b703e4202a239c75cb23cd6d66]: Textual amendment: Words in [reg. 24(4)](https://www.legislation.gov.uk/uksi/2016/607/regulation/24/4) omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 16(2)(a)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/16/2/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-4872f8b703e4202a239c75cb23cd6d66]: Textual amendment: Words in [reg. 24(4)](https://www.legislation.gov.uk/uksi/2016/607/regulation/24/4) omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 16(2)(a)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/16/2/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
 
-[^key-9c9ca872902459b927dcfe091bef4905]: Textual amendment: [Reg. 24(5)](https://www.legislation.gov.uk/uksi/2016/607/regulation/24/5) inserted (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 16(2)(b)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/16/2/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-9c9ca872902459b927dcfe091bef4905]: Textual amendment: [Reg. 24(5)](https://www.legislation.gov.uk/uksi/2016/607/regulation/24/5) inserted (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 16(2)(b)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/16/2/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
 
 [^c23157461]: Marginal citation: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40). Section 15 was amended by section 81 of, and Part 2 of Schedule 8 to, the [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15).

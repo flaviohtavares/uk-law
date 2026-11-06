@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Disputed claims[^key-7c62edf93b1c333e5b47dfc3b021999c]
+## 45. Disputed claims[^c-7c62edf93b1c333e5b47dfc3b021999c]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c62edf93b1c333e5b47dfc3b021999c]: Commencement: Art. 45 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-7c62edf93b1c333e5b47dfc3b021999c]: Commencement: Art. 45 in force at 16.12.2015 in accordance with art. 1(1)

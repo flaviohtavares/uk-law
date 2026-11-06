@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Restricting users’ access to content[^key-9163de6a0f990eb39278e5600b5d652a]
+## 58. Restricting users’ access to content[^c-9163de6a0f990eb39278e5600b5d652a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9163de6a0f990eb39278e5600b5d652a]: Commencement: S. 58 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-9163de6a0f990eb39278e5600b5d652a]: Commencement: S. 58 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)

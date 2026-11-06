@@ -22,7 +22,7 @@ summary: ''
 
 Section 166
 
-### Part 1 — Repeals and revocations relating to Part 1[^key-fb15a6cf2c7636257370213b6505a6af][^key-de6b5c7b4ca75995e1de8faf3df1c521][^key-c7b4aa34c69651f00f7d9a0681ffd9b2][^key-1731a8097395db708cd4e3ba6b652afc]
+### Part 1 — Repeals and revocations relating to Part 1[^c-fb15a6cf2c7636257370213b6505a6af][^c-de6b5c7b4ca75995e1de8faf3df1c521][^c-c7b4aa34c69651f00f7d9a0681ffd9b2][^c-1731a8097395db708cd4e3ba6b652afc]
 
 | *Title and reference* | *Extent of repeal or revocation* |
 | --- | --- |
@@ -50,7 +50,7 @@ Section 166
 | National Health Service (Wales) Act 2006 (c. 42) | In section 30(2), paragraph (d) (together with the word “and” at the end of that paragraph). |
 | Safeguarding Vulnerable Groups Act 2006 (c. 47) | Section 45(7)(d).<br>In Schedule 4—<br>- (a) paragraph 1(10)(f),<br>- (b) paragraph 1(11)(a), and<br>- (c) paragraph 7(6)(a) and (b). |
 
-### Part 2 — Regulation of healthcare professions[^key-3892a2a755995db79ff4991aaef3dd56][^key-b9f7f019819c1cde9407ebb3953dc719][^key-dfa3898dfc2ce7f7096a18e623048357]
+### Part 2 — Regulation of healthcare professions[^c-3892a2a755995db79ff4991aaef3dd56][^c-b9f7f019819c1cde9407ebb3953dc719][^c-dfa3898dfc2ce7f7096a18e623048357]
 
 | *Title and reference* | *Extent of repeal or revocation* |
 | --- | --- |
@@ -69,7 +69,7 @@ Section 166
 | Constitutional Reform Act 2005 (c. 4) | In Schedule 7, in paragraph 4, in part A, the entry for the Hearing Aid Council Act 1968 (c. 50).<br>In Part 3 of Schedule 11, in paragraph 6(3), the entry for the Hearing Aid Council (Extension) Act 1975 (c. 39). |
 | Health Act 2006 (c. 28) | In Schedule 5, the entry relating to the Council for the Regulation of Health Care Professionals. |
 
-### Part 3 — Public health protection[^key-98232e13a7d57ebd3339b8c83f85a238][^key-8b9b6ccaf315f6bfba5ffc60308dceec]
+### Part 3 — Public health protection[^c-98232e13a7d57ebd3339b8c83f85a238][^c-8b9b6ccaf315f6bfba5ffc60308dceec]
 
 | *Reference* | *Extent of repeal or revocation* |
 | --- | --- |
@@ -77,14 +77,14 @@ Section 166
 | Public Health (Control of Disease) Act 1984 (c. 22) | Section 1(2) and (4).<br>In section 5(3), the words “or rating districts”.<br>Section 7(4)(c) and (d).<br>Sections 9 to 45.<br>In section 49(1), paragraph (c) and the word “and” immediately preceding it.<br>In section 50(2)—<br>- (a) paragraph (b) and the word “or” immediately preceding it, and<br>- (b) the words “or any person on board suffering from an infectious disease”.<br>In section 51—<br>- (a) subsection (1), and<br>- (b) in subsection (2), the words “the provisions of this Part of this Act and”.<br>Section 52.<br>Sections 54 to 57.<br>In section 61(2), the words “, other than a factory or workplace,”.<br>Section 62(3).<br>Section 64(2).<br>Section 67(3).<br>Section 70.<br>In section 74, the definitions of “coastal waters”, “common lodging-house”, “dustbin”, “factory”, “hospital”, “house”, “inland waters”, “local Act”, “NHS trust”, “NHS contract”, “notifiable disease”, “rating district”, “school” and “street”.<br>Section 76. |
 | Planning and Compensation Act 1991 (c. 34) | In Part 1 of Schedule 18, the entry for section 57 of the Public Health (Control of Disease) Act 1984. |
 
-### Part 4 — National Health Service[^key-354224101c39c12a7ec18b4ac963dbe8][^key-8ea49188d390a1dd0223454138ff78f6][^key-ccff55d9f46589a07ccbe9787e84f47d]
+### Part 4 — National Health Service[^c-354224101c39c12a7ec18b4ac963dbe8][^c-8ea49188d390a1dd0223454138ff78f6][^c-ccff55d9f46589a07ccbe9787e84f47d]
 
 | *Title and reference* | *Extent of repeal* |
 | --- | --- |
 | National Health Service Act 2006 (c. 41) | In section 71(2)(f), the word “and” at the end.<br>In section 164(5), paragraph (b) and the word “and” immediately preceding it.<br>Section 228(2) and (12).<br>In section 229(1), the words “(not including its pharmaceutical services expenditure)”.<br>Section 230(2) and (3).<br>In Schedule 14—<br>- (a) paragraphs 1 and 2, and<br>- (b) in paragraph 4(1), the definition of “pharmaceutical services” and, in the definition of “remuneration referable to the cost of drugs”, the words “except in paragraph 1(2)(b) and”. |
 | National Health Service (Wales) Act 2006 (c. 42) | In section 88(5), paragraph (b) and the word “and” immediately preceding it.<br>In section 174(1)(a), (2)(a) and (b) and (12), the words “and pharmaceutical”.<br>In section 175(1), the words “and pharmaceutical”.<br>In section 176(2) and (3)(b), the words “and pharmaceutical”.<br>In Schedule 8—<br>- (a) in paragraph 1(1) (and in the heading immediately preceding paragraph 1) the words “and pharmaceutical”,<br>- (b) paragraph 1(2)(b) and (c),<br>- (c) in paragraph 4(1), the definition of “pharmaceutical services” and, in the definition of “remuneration referable to the cost of drugs”, the words “except in paragraph 1(2)(b) and”. |
 
-### Part 5 — Abolition of maintenance liability of relatives[^key-84e3802bd7e1925a4c35799d7529baa9][^key-67293be26ec10920570eec5fc1a49989]
+### Part 5 — Abolition of maintenance liability of relatives[^c-84e3802bd7e1925a4c35799d7529baa9][^c-67293be26ec10920570eec5fc1a49989]
 
 <table>
 <tfoot>
@@ -108,7 +108,7 @@ Section 166
 </tbody>
 </table>
 
-### Part 6 — Establishment of National Information Governance Board[^key-47b3d4a6ed73efcc5f5e4a3c98cae648]
+### Part 6 — Establishment of National Information Governance Board[^c-47b3d4a6ed73efcc5f5e4a3c98cae648]
 
 | *Title and reference* | *Extent of repeal* |
 | --- | --- |
@@ -117,7 +117,7 @@ Section 166
 | Freedom of Information Act 2000 (c. 36) | In Schedule 1, in Part 6, the entry relating to the Patient Information Advisory Group. |
 | Health and Social Care Act 2001 (c. 15) | Part 3 of Schedule 5. |
 
-### Part 7 — Abolition of National Biological Standards Board[^key-bf419409c954aedd5466d967500b0430]
+### Part 7 — Abolition of National Biological Standards Board[^c-bf419409c954aedd5466d967500b0430]
 
 | *Title and reference* | *Extent of repeal* |
 | --- | --- |
@@ -130,34 +130,34 @@ Section 166
 
 ## Annotations
 
-[^key-fb15a6cf2c7636257370213b6505a6af]: Commencement: Sch. 15 Pt. 1 in force at 1.4.2009 for specified purposes by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/36) (with [Schs. 3](https://www.legislation.gov.uk/uksi/2009/462/schedule/3), [4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
+[^c-fb15a6cf2c7636257370213b6505a6af]: Commencement: Sch. 15 Pt. 1 in force at 1.4.2009 for specified purposes by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/36) (with [Schs. 3](https://www.legislation.gov.uk/uksi/2009/462/schedule/3), [4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
 
-[^key-de6b5c7b4ca75995e1de8faf3df1c521]: Commencement: [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/1) in force at 1.4.2010 for specified purposes by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 13(f)](https://www.legislation.gov.uk/uksi/2010/708/article/13/f)
+[^c-de6b5c7b4ca75995e1de8faf3df1c521]: Commencement: [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/1) in force at 1.4.2010 for specified purposes by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 13(f)](https://www.legislation.gov.uk/uksi/2010/708/article/13/f)
 
-[^key-c7b4aa34c69651f00f7d9a0681ffd9b2]: Commencement: [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/1) in force at 6.4.2010 for specified purposes by [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/807/article/2/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/18) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2010/807/part/3))
+[^c-c7b4aa34c69651f00f7d9a0681ffd9b2]: Commencement: [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/1) in force at 6.4.2010 for specified purposes by [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/807/article/2/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/18) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2010/807/part/3))
 
-[^key-1731a8097395db708cd4e3ba6b652afc]: Commencement: [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/1) in force at 1.10.2010 in so far as not already in force by [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/807/article/2/2), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/31) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2010/807/part/3))
+[^c-1731a8097395db708cd4e3ba6b652afc]: Commencement: [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/1) in force at 1.10.2010 in so far as not already in force by [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/807/article/2/2), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/31) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2010/807/part/3))
 
-[^key-3892a2a755995db79ff4991aaef3dd56]: Commencement: [Sch. 15 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/2) in force at 1.1.2009 for specified purposes by [S.I. 2008/3244](https://www.legislation.gov.uk/uksi/2008/3244), [art. 2(j)](https://www.legislation.gov.uk/uksi/2008/3244/article/2/j)
+[^c-3892a2a755995db79ff4991aaef3dd56]: Commencement: [Sch. 15 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/2) in force at 1.1.2009 for specified purposes by [S.I. 2008/3244](https://www.legislation.gov.uk/uksi/2008/3244), [art. 2(j)](https://www.legislation.gov.uk/uksi/2008/3244/article/2/j)
 
-[^key-b9f7f019819c1cde9407ebb3953dc719]: Commencement: [Sch. 15 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/2) in force at 1.4.2010 for specified purposes by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2010/708/article/4/1/c)
+[^c-b9f7f019819c1cde9407ebb3953dc719]: Commencement: [Sch. 15 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/2) in force at 1.4.2010 for specified purposes by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2010/708/article/4/1/c)
 
-[^key-dfa3898dfc2ce7f7096a18e623048357]: Commencement: [Sch. 15 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/2) in force at 1.8.2010 for specified purposes by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 4(2)(d)](https://www.legislation.gov.uk/uksi/2010/708/article/4/2/d)
+[^c-dfa3898dfc2ce7f7096a18e623048357]: Commencement: [Sch. 15 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/2) in force at 1.8.2010 for specified purposes by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 4(2)(d)](https://www.legislation.gov.uk/uksi/2010/708/article/4/2/d)
 
-[^key-98232e13a7d57ebd3339b8c83f85a238]: Commencement: [Sch. 15 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/3) in force at 6.4.2010 for specified purposes for E. by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 6(f)](https://www.legislation.gov.uk/uksi/2010/708/article/6/f) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/708/schedule/2))
+[^c-98232e13a7d57ebd3339b8c83f85a238]: Commencement: [Sch. 15 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/3) in force at 6.4.2010 for specified purposes for E. by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 6(f)](https://www.legislation.gov.uk/uksi/2010/708/article/6/f) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/708/schedule/2))
 
-[^key-8b9b6ccaf315f6bfba5ffc60308dceec]: Commencement: [Sch. 15 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/3) in force at 26.7.2010 for specified purposes for W. by [S.I. 2010/1547](https://www.legislation.gov.uk/wsi/2010/1547), [art. 2(f)](https://www.legislation.gov.uk/wsi/2010/1547/article/2/f) (with [Sch. 1](https://www.legislation.gov.uk/wsi/2010/1547/schedule/1))
+[^c-8b9b6ccaf315f6bfba5ffc60308dceec]: Commencement: [Sch. 15 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/3) in force at 26.7.2010 for specified purposes for W. by [S.I. 2010/1547](https://www.legislation.gov.uk/wsi/2010/1547), [art. 2(f)](https://www.legislation.gov.uk/wsi/2010/1547/article/2/f) (with [Sch. 1](https://www.legislation.gov.uk/wsi/2010/1547/schedule/1))
 
-[^key-354224101c39c12a7ec18b4ac963dbe8]: Commencement: [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/4) in force at 1.4.2010 for specified purposes by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/708/article/2/d)
+[^c-354224101c39c12a7ec18b4ac963dbe8]: Commencement: [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/4) in force at 1.4.2010 for specified purposes by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/708/article/2/d)
 
-[^key-8ea49188d390a1dd0223454138ff78f6]: Commencement: [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/4) in force at 21.5.2010 for specified purposes by [S.I. 2010/1457](https://www.legislation.gov.uk/wsi/2010/1457), [art. 2(d)](https://www.legislation.gov.uk/wsi/2010/1457/article/2/d)
+[^c-8ea49188d390a1dd0223454138ff78f6]: Commencement: [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/4) in force at 21.5.2010 for specified purposes by [S.I. 2010/1457](https://www.legislation.gov.uk/wsi/2010/1457), [art. 2(d)](https://www.legislation.gov.uk/wsi/2010/1457/article/2/d)
 
-[^key-ccff55d9f46589a07ccbe9787e84f47d]: Commencement: [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/4) in force at 1.4.2013 for specified purposes by [S.I. 2013/159](https://www.legislation.gov.uk/uksi/2013/159), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/159/article/2/c)
+[^c-ccff55d9f46589a07ccbe9787e84f47d]: Commencement: [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/4) in force at 1.4.2013 for specified purposes by [S.I. 2013/159](https://www.legislation.gov.uk/uksi/2013/159), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/159/article/2/c)
 
-[^key-84e3802bd7e1925a4c35799d7529baa9]: Commencement: [Sch. 15 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/5) in force at 6.4.2009 except in relation to local authorities in W. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(c)](https://www.legislation.gov.uk/uksi/2009/462/article/4/c)
+[^c-84e3802bd7e1925a4c35799d7529baa9]: Commencement: [Sch. 15 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/5) in force at 6.4.2009 except in relation to local authorities in W. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(c)](https://www.legislation.gov.uk/uksi/2009/462/article/4/c)
 
-[^key-67293be26ec10920570eec5fc1a49989]: Commencement: [Sch. 15 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/5) in force at 6.4.2009 for W. by [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(c)](https://www.legislation.gov.uk/wsi/2009/631/article/2/c)
+[^c-67293be26ec10920570eec5fc1a49989]: Commencement: [Sch. 15 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/5) in force at 6.4.2009 for W. by [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(c)](https://www.legislation.gov.uk/wsi/2009/631/article/2/c)
 
-[^key-47b3d4a6ed73efcc5f5e4a3c98cae648]: Commencement: [Sch. 15 Pt. 6](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/6) in force at 1.1.2009 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 7(2)(d)](https://www.legislation.gov.uk/uksi/2008/2497/article/7/2/d)
+[^c-47b3d4a6ed73efcc5f5e4a3c98cae648]: Commencement: [Sch. 15 Pt. 6](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/6) in force at 1.1.2009 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 7(2)(d)](https://www.legislation.gov.uk/uksi/2008/2497/article/7/2/d)
 
-[^key-bf419409c954aedd5466d967500b0430]: Commencement: [Sch. 15 Pt. 7](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/7) in force at 1.4.2009 by [S.I. 2009/270](https://www.legislation.gov.uk/uksi/2009/270), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2009/270/article/2/2/b)
+[^c-bf419409c954aedd5466d967500b0430]: Commencement: [Sch. 15 Pt. 7](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/7) in force at 1.4.2009 by [S.I. 2009/270](https://www.legislation.gov.uk/uksi/2009/270), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2009/270/article/2/2/b)

@@ -27,7 +27,7 @@ summary: ''
 - (a) where there are two or more tenants under the lease, means those tenants; and
 - (b) does not include a sub-tenant.
 
-(3)[^key-6903f8450eb9a048f954969bfaf51949] The notice of interest must be in such form as the Scottish Ministers may prescribe by regulations and must specify—
+(3)[^c-6903f8450eb9a048f954969bfaf51949] The notice of interest must be in such form as the Scottish Ministers may prescribe by regulations and must specify—
 
 - (a) the particulars of the tenant and the owner of the land;
 - (b) where there are two or more tenants under the lease, the fact that each of them consents to the making of the application to register their interest in acquiring the land;
@@ -50,7 +50,7 @@ summary: ''
 - (a) intimate that fact to the tenant; and
 - (b) send a copy of the extract to the creditor in the standard security.
 
-(7)[^key-6903f8450eb9a048f954969bfaf51949] The Keeper may charge such reasonable fee for—
+(7)[^c-6903f8450eb9a048f954969bfaf51949] The Keeper may charge such reasonable fee for—
 
 - (a) registering tenants' interests in acquiring land; and
 - (b) providing extracts, and copy extracts, of registration,
@@ -92,4 +92,4 @@ the landlord must give notice in writing of that fact to the Keeper.
 
 ## Annotations
 
-[^key-6903f8450eb9a048f954969bfaf51949]: Commencement: S. 25(3)(7) in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/b/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-6903f8450eb9a048f954969bfaf51949]: Commencement: S. 25(3)(7) in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/b/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

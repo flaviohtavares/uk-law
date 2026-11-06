@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-072a1e9b5dec4236971f3792154a5695] The matters SEPA is required by sections 18(2), 19(2), 20(2) and 21(2) to take into account are—
+(1)[^c-072a1e9b5dec4236971f3792154a5695] The matters SEPA is required by sections 18(2), 19(2), 20(2) and 21(2) to take into account are—
 
 - (a) the potential adverse consequences of an uncontrolled release of water from the reservoir,
 - (b) the probability of such a release.
 
-(2)[^key-072a1e9b5dec4236971f3792154a5695] For the purposes of subsection (1)(a), potential adverse consequences include—
+(2)[^c-072a1e9b5dec4236971f3792154a5695] For the purposes of subsection (1)(a), potential adverse consequences include—
 
 - (a) potential damage to—
   - (i) human health,
@@ -35,17 +35,17 @@ summary: ''
   - (v) other social or economic interests,
 - (b) such other potential damage as SEPA considers relevant.
 
-(3)[^key-072a1e9b5dec4236971f3792154a5695] The matters which SEPA may take into account in assessing under subsection (1)(b) the probability of an uncontrolled release of water from a reservoir include—
+(3)[^c-072a1e9b5dec4236971f3792154a5695] The matters which SEPA may take into account in assessing under subsection (1)(b) the probability of an uncontrolled release of water from a reservoir include—
 
 - (a) the purpose for which the reservoir is (or is to be) used,
 - (b) the materials used to construct the reservoir,
 - (c) the way in which the reservoir was or is being constructed,
 - (d) the maintenance of the reservoir.
 
-(4)[^key-e698da7aee4ebfa5150221ce2836f677] The Scottish Ministers may, after consulting SEPA and the Institution of Civil Engineers, by regulations make further provision about the matters SEPA is to take into account under sections 18(2), 19(2), 20(2) and 21(2).
+(4)[^c-e698da7aee4ebfa5150221ce2836f677] The Scottish Ministers may, after consulting SEPA and the Institution of Civil Engineers, by regulations make further provision about the matters SEPA is to take into account under sections 18(2), 19(2), 20(2) and 21(2).
 
 ## Annotations
 
-[^key-072a1e9b5dec4236971f3792154a5695]: Commencement: [S. 22(1)-(3)](https://www.legislation.gov.uk/asp/2011/9/section/22/1) in force at 1.10.2015 by [S.S.I. 2015/314](https://www.legislation.gov.uk/ssi/2015/314), [art. 2(e)](https://www.legislation.gov.uk/ssi/2015/314/article/2/e)
+[^c-072a1e9b5dec4236971f3792154a5695]: Commencement: [S. 22(1)-(3)](https://www.legislation.gov.uk/asp/2011/9/section/22/1) in force at 1.10.2015 by [S.S.I. 2015/314](https://www.legislation.gov.uk/ssi/2015/314), [art. 2(e)](https://www.legislation.gov.uk/ssi/2015/314/article/2/e)
 
-[^key-e698da7aee4ebfa5150221ce2836f677]: Commencement: [S. 22(4)](https://www.legislation.gov.uk/asp/2011/9/section/22/4) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-e698da7aee4ebfa5150221ce2836f677]: Commencement: [S. 22(4)](https://www.legislation.gov.uk/asp/2011/9/section/22/4) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)

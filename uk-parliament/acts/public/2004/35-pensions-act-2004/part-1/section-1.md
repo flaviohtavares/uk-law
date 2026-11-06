@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. The Pensions Regulator[^key-dc270a0da5a073558092329ac5d9d9d7]
+## 1. The Pensions Regulator[^c-dc270a0da5a073558092329ac5d9d9d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ There shall be a body corporate called the Pensions Regulator (in this Act refer
 
 ## Annotations
 
-[^key-dc270a0da5a073558092329ac5d9d9d7]: Commencement: S. 1 in force at 17.12.2004 by [S.I. 2004/3350](https://www.legislation.gov.uk/uksi/2004/3350), [art. 2](https://www.legislation.gov.uk/uksi/2004/3350/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/3350/schedule)
+[^c-dc270a0da5a073558092329ac5d9d9d7]: Commencement: S. 1 in force at 17.12.2004 by [S.I. 2004/3350](https://www.legislation.gov.uk/uksi/2004/3350), [art. 2](https://www.legislation.gov.uk/uksi/2004/3350/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/3350/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Amendment of the Customs and Excise (Personal Reliefs for Special Visitors) Order 1992[^key-786529dfe53df676df851413fedde34f]
+## 2. Amendment of the Customs and Excise (Personal Reliefs for Special Visitors) Order 1992[^c-786529dfe53df676df851413fedde34f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Customs and Excise (Personal Reliefs for Special Visitors) Order 1992[^f0000
 
 ## Annotations
 
-[^key-786529dfe53df676df851413fedde34f]: Commencement: Reg. 2 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-786529dfe53df676df851413fedde34f]: Commencement: Reg. 2 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 1992/3156](https://www.legislation.gov.uk/uksi/1992/3156), amended by [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114), [2007/5](https://www.legislation.gov.uk/uksi/2007/5), [2019/91](https://www.legislation.gov.uk/uksi/2019/91) and [2020/1545](https://www.legislation.gov.uk/uksi/2020/1545).

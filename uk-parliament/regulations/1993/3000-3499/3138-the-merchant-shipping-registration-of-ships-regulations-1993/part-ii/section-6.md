@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Trusts not to be entered[^key-6083eca152c34f01cfbd333cda86c00f][^key-f1614ee063b87f5df8be41116c5cf6f5]
+## 6. Trusts not to be entered[^c-6083eca152c34f01cfbd333cda86c00f][^c-f1614ee063b87f5df8be41116c5cf6f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6083eca152c34f01cfbd333cda86c00f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1993/3138/regulation/6) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-6083eca152c34f01cfbd333cda86c00f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1993/3138/regulation/6) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-f1614ee063b87f5df8be41116c5cf6f5]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1993/3138/regulation/6) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [Sch. 1 paras. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/2)
+[^c-f1614ee063b87f5df8be41116c5cf6f5]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1993/3138/regulation/6) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [Sch. 1 paras. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/2)

@@ -33,7 +33,7 @@ Regulations 38(1) to (3);and 39(2)
     - (ii) of the same dosage form as, but of a different strength of active ingredient to, or of a different combination of active ingredients to, that drug or substance; and
   - (b) in respect of which an application for a marketing authorisation was made before the determination of the application for the marketing authorisation for that drug or substance;
 - “**general sale list medicine**” means a medicinal product (not being an anthroposophic product, a herbal remedy or a homoeopathic medicinal product) classified as subject to general sale within the meaning of regulation 5(1) of the Human Medicines Regulations;
-- “**limited use drug**” means a medicinal product in respect of which an application for a marketing authorisation has been submitted, to which point 6 of Part II of Annex I to the 2001 Directive applies or in respect of which an orphan marketing authorisation has been granted[^key-4951c062fd04efa3c62f6dc0f5eb820d];
+- “**limited use drug**” means a medicinal product in respect of which an application for a marketing authorisation has been submitted, to which point 6 of Part II of Annex I to the 2001 Directive applies or in respect of which an orphan marketing authorisation has been granted[^c-4951c062fd04efa3c62f6dc0f5eb820d];
 - “**lower fee**” means the periodic fee payable—
   - (a) where the medicinal product has not been manufactured or imported into the United Kingdom during the period of 12 months preceding the commencement of the relevant fee period; or
   - (b) in relation to a medicinal product that has been manufactured or imported into the United Kingdom during the period referred to in (a) above, where the value of the product sold or supplied during that period did not exceed £1,000; and
@@ -98,18 +98,18 @@ Periodic fees for holding a marketing authorisation
 </tbody>
 </table>
 
-[^key-200799a501779e6dc972936e258bdf8d][^key-e97ce3f57989523f0e5c912ed3f4acc4][^key-a5e8b3e503667dcf54d3e10af60fcbea][^key-03bd7de41ae4a640c1da342c9f11f90d][^key-621fd239e39527c7b7d190e414f3174a][^key-fc719ac02c639d5329c8c87a2679ad69][^key-75cff3bde27871c66ca01c231af4e990][^key-9243f16940c760a40bceef2314bfe9e5][^key-953c72283694bfcc025d7609a7e436a9]
+[^c-200799a501779e6dc972936e258bdf8d][^c-e97ce3f57989523f0e5c912ed3f4acc4][^c-a5e8b3e503667dcf54d3e10af60fcbea][^c-03bd7de41ae4a640c1da342c9f11f90d][^c-621fd239e39527c7b7d190e414f3174a][^c-fc719ac02c639d5329c8c87a2679ad69][^c-75cff3bde27871c66ca01c231af4e990][^c-9243f16940c760a40bceef2314bfe9e5][^c-953c72283694bfcc025d7609a7e436a9]
 
 #### 6. Marketing authorisation: where Part 2 of the Act applies
 
-In the case of an article or substance to which Part 2 of the Act applies by virtue of the Medicines (Surgical Materials) Order 1971 [^c23108641], the fee payable under regulation 38(1) in connection with the holding of a marketing authorisation or licence is £368[^key-5dddb746c023200ca363f7cbe31914cb].
+In the case of an article or substance to which Part 2 of the Act applies by virtue of the Medicines (Surgical Materials) Order 1971 [^c23108641], the fee payable under regulation 38(1) in connection with the holding of a marketing authorisation or licence is £368[^c-5dddb746c023200ca363f7cbe31914cb].
 
 #### 7. Marketing authorisation: derivatives
 
 Unless paragraph 8 applies, where a marketing authorisation is held in respect of a derivative of a new active substance, the fee payable under regulation 38(1) is—
 
-- (a) £11,627[^key-06bdb2baa538d7a1e9d28ec996454b96] where the medicinal product to which the authorisation relates has a different route of administration from that of the new active substance; or
-- (b) £7,847[^key-3122471a014cfee58de542bd06a30682] in any other case.
+- (a) £11,627[^c-06bdb2baa538d7a1e9d28ec996454b96] where the medicinal product to which the authorisation relates has a different route of administration from that of the new active substance; or
+- (b) £7,847[^c-3122471a014cfee58de542bd06a30682] in any other case.
 
 #### 8. Number of fee periods
 
@@ -144,17 +144,17 @@ Where a reduced rate fee or a lower fee may be payable in respect of any relevan
 
 #### 11. Manufacturer's licences or manufacturing authorisations
 
-(1) Unless sub-paragraph (3) applies, the fee payable under regulation 38(1) in connection with the holding of a manufacturer's licence is £561[^key-72bbad8d17785a021e610f7b4c73d0e7].
+(1) Unless sub-paragraph (3) applies, the fee payable under regulation 38(1) in connection with the holding of a manufacturer's licence is £561[^c-72bbad8d17785a021e610f7b4c73d0e7].
 
-(2) The fee payable under regulation 38(1) in connection with the holding of a manufacturing authorisation is £561[^key-10592a925f5c16aa7417952fe275bc7d].
+(2) The fee payable under regulation 38(1) in connection with the holding of a manufacturing authorisation is £561[^c-10592a925f5c16aa7417952fe275bc7d].
 
 (3) The fee payable under regulation 38(1) in connection with the holding of a manufacturer's licence which relates to the import of special medicinal products from a third country is the fee payable in accordance with sub-paragraph (1) and an additional amount calculated in accordance with paragraph 15.
 
 #### 12. Wholesale dealer's licences
 
-(1) Subject to sub-paragraph (2) and to paragraphs 13 and 16, the fee payable under regulation 38(1) in connection with the holding of a wholesale dealer's licence is £346[^key-e8f99482d7de59ebc9bc9c703fd0ae91].
+(1) Subject to sub-paragraph (2) and to paragraphs 13 and 16, the fee payable under regulation 38(1) in connection with the holding of a wholesale dealer's licence is £346[^c-e8f99482d7de59ebc9bc9c703fd0ae91].
 
-(2) The fee payable under regulation 38(1) is £206[^key-2b80667d2898cc1c909bd410ef67a30e] where the wholesale dealer's licence—
+(2) The fee payable under regulation 38(1) is £206[^c-2b80667d2898cc1c909bd410ef67a30e] where the wholesale dealer's licence—
 
 - (a) relates to anything done in a registered pharmacy by or under the supervision of a pharmacist and amounts to wholesale dealing, where such dealing constitutes no more than 15% of the total value of the sale of authorised medicinal products carried on at that pharmacy;
 - (b) does not relate to anything done in a registered pharmacy, where the total value of the sale by way of wholesale dealing in authorised medicinal products does not exceed £35,000; or
@@ -172,12 +172,12 @@ The fee payable under regulation 38(1) in connection with the holding of a whole
 
 #### 15. Additional amount for manufacturer's licences and wholesale dealer's licences which relate to special medicinal products
 
-(1)[^key-9f84a36bfd866a3495ec8993e8d33a07] The additional amount referred to in paragraphs 11(3) and 14 in relation to any fee period is—
+(1)[^c-9f84a36bfd866a3495ec8993e8d33a07] The additional amount referred to in paragraphs 11(3) and 14 in relation to any fee period is—
 
 - (a) the fee specified in the entry in column 2 of Table 1 (additional periodic fee in connection with notices for imported special medicinal products) corresponding to the estimated number of special import notices for that fee period specified in column 1, and
 - (b) the fee specified in the entry in column 2 of Table 2 (additional periodic fee in connection with the number of different special medicinal products imported) corresponding to the estimated number of different special medicinal products imported for that fee period specified in column 1.
 
-  Table 1[^key-65c4969f31319dd3db6160096324a964]
+  Table 1[^c-65c4969f31319dd3db6160096324a964]
 
   **Additional periodic fee in connection with notices for imported special medicinal products**
 
@@ -221,15 +221,15 @@ The fee payable under regulation 38(1) in connection with the holding of a whole
   </tbody>
   </table>
 
-  [^key-cca0b24276d86a4adf0058b0cf8e07d0][^key-410b0991149d609fd8754607f20ef197][^key-ecfa7f759a87e527a5100837f3eab73d][^key-2fd23b420ffb4132d4bd88164ba543b4][^key-665346f53592731adefa17e2d929e55c][^key-0947c693af59f70419d0a73985f9806c][^key-9eb84892ed75ed94591732d4b2238814]
+  [^c-cca0b24276d86a4adf0058b0cf8e07d0][^c-410b0991149d609fd8754607f20ef197][^c-ecfa7f759a87e527a5100837f3eab73d][^c-2fd23b420ffb4132d4bd88164ba543b4][^c-665346f53592731adefa17e2d929e55c][^c-0947c693af59f70419d0a73985f9806c][^c-9eb84892ed75ed94591732d4b2238814]
 
 (2) For the purposes of this paragraph, the estimated number of special import notices for any fee period shall be the number notified in writing to the licence holder by the licensing authority before the start of that fee period as the number of such notices which the authority estimate will be given by the holder during the fee period.
 
-(3)[^key-f1c19f0439f3745de97b8b79c508be8d] For the purposes of this paragraph, the estimated number of different special medicinal products notified for import for any fee period shall be the number notified in writing to the licence holder by the licensing authority before the start of that fee period as the number of such notices which the authority estimate will be given by the holder during the fee period.
+(3)[^c-f1c19f0439f3745de97b8b79c508be8d] For the purposes of this paragraph, the estimated number of different special medicinal products notified for import for any fee period shall be the number notified in writing to the licence holder by the licensing authority before the start of that fee period as the number of such notices which the authority estimate will be given by the holder during the fee period.
 
 #### 16. Traditional herbal registrations
 
-The fee payable under regulation 38(1) in connection with the holding of a traditional herbal registration is £92[^key-3c89f0fef83ff5d63c01a2baef356b01].
+The fee payable under regulation 38(1) in connection with the holding of a traditional herbal registration is £92[^c-3c89f0fef83ff5d63c01a2baef356b01].
 
 #### 17. Online sellers of medicines
 
@@ -247,60 +247,60 @@ In a case where a parallel import licence has been granted by the licensing auth
 
 ## Annotations
 
-[^key-4951c062fd04efa3c62f6dc0f5eb820d]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/190/schedule/4/paragraph/1) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2019/775/schedule/1/paragraph/8) (with [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2019/775/schedule/1/paragraph/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4951c062fd04efa3c62f6dc0f5eb820d]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/190/schedule/4/paragraph/1) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2019/775/schedule/1/paragraph/8) (with [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2019/775/schedule/1/paragraph/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-200799a501779e6dc972936e258bdf8d]: Textual amendment: Sum in Sch. 4 para. 5 Table Entry 1 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(2)(a)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/2/a)
+[^c-200799a501779e6dc972936e258bdf8d]: Textual amendment: Sum in Sch. 4 para. 5 Table Entry 1 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(2)(a)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/2/a)
 
-[^key-e97ce3f57989523f0e5c912ed3f4acc4]: Textual amendment: Sum in Sch. 4 para. 5 Table Entry 2 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(2)(b)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/2/b)
+[^c-e97ce3f57989523f0e5c912ed3f4acc4]: Textual amendment: Sum in Sch. 4 para. 5 Table Entry 2 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(2)(b)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/2/b)
 
-[^key-a5e8b3e503667dcf54d3e10af60fcbea]: Textual amendment: Sum in Sch. 4 para. 5 Table Entry 3(a) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(2)(c)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/2/c)
+[^c-a5e8b3e503667dcf54d3e10af60fcbea]: Textual amendment: Sum in Sch. 4 para. 5 Table Entry 3(a) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(2)(c)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/2/c)
 
-[^key-03bd7de41ae4a640c1da342c9f11f90d]: Textual amendment: Sum in Sch. 4 para. 5 Table Entry 3(b)(i) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(2)(d)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/2/d)
+[^c-03bd7de41ae4a640c1da342c9f11f90d]: Textual amendment: Sum in Sch. 4 para. 5 Table Entry 3(b)(i) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(2)(d)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/2/d)
 
-[^key-621fd239e39527c7b7d190e414f3174a]: Textual amendment: Sum in Sch. 4 para. 5 Table Entry 3(b)(ii) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(2)(e)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/2/e)
+[^c-621fd239e39527c7b7d190e414f3174a]: Textual amendment: Sum in Sch. 4 para. 5 Table Entry 3(b)(ii) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(2)(e)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/2/e)
 
-[^key-fc719ac02c639d5329c8c87a2679ad69]: Textual amendment: Sum in Sch. 4 para. 5 Table Entry 3(b)(iii) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(2)(f)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/2/f)
+[^c-fc719ac02c639d5329c8c87a2679ad69]: Textual amendment: Sum in Sch. 4 para. 5 Table Entry 3(b)(iii) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(2)(f)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/2/f)
 
-[^key-75cff3bde27871c66ca01c231af4e990]: Textual amendment: Sum in Sch. 4 para. 5 Table Entry 3(c) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(2)(f)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/2/f)
+[^c-75cff3bde27871c66ca01c231af4e990]: Textual amendment: Sum in Sch. 4 para. 5 Table Entry 3(c) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(2)(f)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/2/f)
 
-[^key-9243f16940c760a40bceef2314bfe9e5]: Textual amendment: Sum in Sch. 4 para. 5 Table Entry 3(d) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(2)(f)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/2/f)
+[^c-9243f16940c760a40bceef2314bfe9e5]: Textual amendment: Sum in Sch. 4 para. 5 Table Entry 3(d) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(2)(f)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/2/f)
 
-[^key-953c72283694bfcc025d7609a7e436a9]: Textual amendment: Sum in Sch. 4 para. 5 Table Entry 3(e)-(h) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(2)(g)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/2/g)
+[^c-953c72283694bfcc025d7609a7e436a9]: Textual amendment: Sum in Sch. 4 para. 5 Table Entry 3(e)-(h) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(2)(g)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/2/g)
 
 [^c23108641]: Marginal citation: [S.I. 1971/1267](https://www.legislation.gov.uk/uksi/1971/1267): Part 2 of the Act is applied by article 3 of the Order which has been amended by [S.I. 1994/3119](https://www.legislation.gov.uk/uksi/1994/3119), 2004/1031 and 2006/2407.
 
-[^key-5dddb746c023200ca363f7cbe31914cb]: Textual amendment: Sum in Sch. 4 para. 6 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(3)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/3)
+[^c-5dddb746c023200ca363f7cbe31914cb]: Textual amendment: Sum in Sch. 4 para. 6 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(3)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/3)
 
-[^key-06bdb2baa538d7a1e9d28ec996454b96]: Textual amendment: Sum in Sch. 4 para. 7(a) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(4)(a)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/4/a)
+[^c-06bdb2baa538d7a1e9d28ec996454b96]: Textual amendment: Sum in Sch. 4 para. 7(a) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(4)(a)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/4/a)
 
-[^key-3122471a014cfee58de542bd06a30682]: Textual amendment: Sum in Sch. 4 para. 7(b) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(4)(b)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/4/b)
+[^c-3122471a014cfee58de542bd06a30682]: Textual amendment: Sum in Sch. 4 para. 7(b) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(4)(b)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/4/b)
 
-[^key-72bbad8d17785a021e610f7b4c73d0e7]: Textual amendment: Sum in Sch. 4 para. 11(1) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(5)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/5)
+[^c-72bbad8d17785a021e610f7b4c73d0e7]: Textual amendment: Sum in Sch. 4 para. 11(1) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(5)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/5)
 
-[^key-10592a925f5c16aa7417952fe275bc7d]: Textual amendment: Sum in Sch. 4 para. 11(2) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(5)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/5)
+[^c-10592a925f5c16aa7417952fe275bc7d]: Textual amendment: Sum in Sch. 4 para. 11(2) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(5)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/5)
 
-[^key-e8f99482d7de59ebc9bc9c703fd0ae91]: Textual amendment: Sum in Sch. 4 para. 12(1) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(6)(a)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/6/a)
+[^c-e8f99482d7de59ebc9bc9c703fd0ae91]: Textual amendment: Sum in Sch. 4 para. 12(1) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(6)(a)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/6/a)
 
-[^key-2b80667d2898cc1c909bd410ef67a30e]: Textual amendment: Sum in Sch. 4 para. 12(2) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(6)(b)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/6/b)
+[^c-2b80667d2898cc1c909bd410ef67a30e]: Textual amendment: Sum in Sch. 4 para. 12(2) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(6)(b)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/6/b)
 
-[^key-9f84a36bfd866a3495ec8993e8d33a07]: Textual amendment: [Sch. 4 para. 15(1)](https://www.legislation.gov.uk/uksi/2016/190/schedule/4/paragraph/15/1) substituted (1.4.2023) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2023 (S.I. 2023/314)](https://www.legislation.gov.uk/uksi/2023/314), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/314/regulation/1/2), [26(7)](https://www.legislation.gov.uk/uksi/2023/314/regulation/26/7)
+[^c-9f84a36bfd866a3495ec8993e8d33a07]: Textual amendment: [Sch. 4 para. 15(1)](https://www.legislation.gov.uk/uksi/2016/190/schedule/4/paragraph/15/1) substituted (1.4.2023) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2023 (S.I. 2023/314)](https://www.legislation.gov.uk/uksi/2023/314), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/314/regulation/1/2), [26(7)](https://www.legislation.gov.uk/uksi/2023/314/regulation/26/7)
 
-[^key-65c4969f31319dd3db6160096324a964]: Textual amendment: Sch. 4 para. 15(1)(b) Table 1 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(7)(a)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/7/a)
+[^c-65c4969f31319dd3db6160096324a964]: Textual amendment: Sch. 4 para. 15(1)(b) Table 1 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(7)(a)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/7/a)
 
-[^key-cca0b24276d86a4adf0058b0cf8e07d0]: Textual amendment: Sum in Sch. 4 para. 15(1)(b) Table 2 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(7)(b)(i)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/7/b/i)
+[^c-cca0b24276d86a4adf0058b0cf8e07d0]: Textual amendment: Sum in Sch. 4 para. 15(1)(b) Table 2 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(7)(b)(i)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/7/b/i)
 
-[^key-410b0991149d609fd8754607f20ef197]: Textual amendment: Sum in Sch. 4 para. 15(1)(b) Table 2 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/7/b/ii)
+[^c-410b0991149d609fd8754607f20ef197]: Textual amendment: Sum in Sch. 4 para. 15(1)(b) Table 2 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/7/b/ii)
 
-[^key-ecfa7f759a87e527a5100837f3eab73d]: Textual amendment: Sum in Sch. 4 para. 15(1)(b) Table 2 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/7/b/iii)
+[^c-ecfa7f759a87e527a5100837f3eab73d]: Textual amendment: Sum in Sch. 4 para. 15(1)(b) Table 2 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/7/b/iii)
 
-[^key-2fd23b420ffb4132d4bd88164ba543b4]: Textual amendment: Sum in Sch. 4 para. 15(1)(b) Table 2 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(7)(b)(iv)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/7/b/iv)
+[^c-2fd23b420ffb4132d4bd88164ba543b4]: Textual amendment: Sum in Sch. 4 para. 15(1)(b) Table 2 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(7)(b)(iv)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/7/b/iv)
 
-[^key-665346f53592731adefa17e2d929e55c]: Textual amendment: Sum in Sch. 4 para. 15(1)(b) Table 2 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(7)(b)(v)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/7/b/v)
+[^c-665346f53592731adefa17e2d929e55c]: Textual amendment: Sum in Sch. 4 para. 15(1)(b) Table 2 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(7)(b)(v)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/7/b/v)
 
-[^key-0947c693af59f70419d0a73985f9806c]: Textual amendment: Sum in Sch. 4 para. 15(1)(b) Table 2 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(7)(b)(vi)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/7/b/vi)
+[^c-0947c693af59f70419d0a73985f9806c]: Textual amendment: Sum in Sch. 4 para. 15(1)(b) Table 2 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(7)(b)(vi)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/7/b/vi)
 
-[^key-9eb84892ed75ed94591732d4b2238814]: Textual amendment: Words in Sch. 4 para. 15(1)(b) Table 2 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(7)(b)(vii)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/7/b/vii)
+[^c-9eb84892ed75ed94591732d4b2238814]: Textual amendment: Words in Sch. 4 para. 15(1)(b) Table 2 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(7)(b)(vii)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/7/b/vii)
 
-[^key-f1c19f0439f3745de97b8b79c508be8d]: Textual amendment: [Sch. 4 para. 15(3)](https://www.legislation.gov.uk/uksi/2016/190/schedule/4/paragraph/15/3) inserted (1.4.2023) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2023 (S.I. 2023/314)](https://www.legislation.gov.uk/uksi/2023/314), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/314/regulation/1/2), [26(8)](https://www.legislation.gov.uk/uksi/2023/314/regulation/26/8)
+[^c-f1c19f0439f3745de97b8b79c508be8d]: Textual amendment: [Sch. 4 para. 15(3)](https://www.legislation.gov.uk/uksi/2016/190/schedule/4/paragraph/15/3) inserted (1.4.2023) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2023 (S.I. 2023/314)](https://www.legislation.gov.uk/uksi/2023/314), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/314/regulation/1/2), [26(8)](https://www.legislation.gov.uk/uksi/2023/314/regulation/26/8)
 
-[^key-3c89f0fef83ff5d63c01a2baef356b01]: Textual amendment: Sum in Sch. 4 para. 16 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(8)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/8)
+[^c-3c89f0fef83ff5d63c01a2baef356b01]: Textual amendment: Sum in Sch. 4 para. 16 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [29(8)](https://www.legislation.gov.uk/uksi/2025/317/regulation/29/8)

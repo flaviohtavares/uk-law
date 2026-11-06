@@ -52,9 +52,9 @@ summary: ''
 
 (8) The report must contain—
 
-- (a) an explanation of any material[^key-0259397a3f0440b28d6ac940e5d89bfd] differences between the actual costs analysis information in relation to the financial year immediately preceding the relevant financial year and the estimated costs analysis information for the relevant financial year; and
+- (a) an explanation of any material[^c-0259397a3f0440b28d6ac940e5d89bfd] differences between the actual costs analysis information in relation to the financial year immediately preceding the relevant financial year and the estimated costs analysis information for the relevant financial year; and
 - (b) a description of material future initiatives that may be included in any future actual rates claim report or estimated rates claim report, and for each initiative an explanation of the estimated impact on the costs analysis information over the next five periods in respect of which financial accounting statements are expected to be produced for the QBU.
 
 ## Annotations
 
-[^key-0259397a3f0440b28d6ac940e5d89bfd]: Textual amendment: Word in [reg. 37(8)(a)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/37/8/a) inserted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [15](https://www.legislation.gov.uk/uksi/2019/1106/regulation/15)
+[^c-0259397a3f0440b28d6ac940e5d89bfd]: Textual amendment: Word in [reg. 37(8)(a)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/37/8/a) inserted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [15](https://www.legislation.gov.uk/uksi/2019/1106/regulation/15)

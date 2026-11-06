@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15A. Consultation in relation to fire safety[^key-cdf609bc1cefa42ac7fe2f00ec012cfd]
+## 15A. Consultation in relation to fire safety[^c-cdf609bc1cefa42ac7fe2f00ec012cfd]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ and, in connection with that proposal, an application for building control appro
 
 ## Annotations
 
-[^key-cdf609bc1cefa42ac7fe2f00ec012cfd]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2010/2214/regulation/15A) inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/911/regulation/9) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-cdf609bc1cefa42ac7fe2f00ec012cfd]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2010/2214/regulation/15A) inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/911/regulation/9) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))

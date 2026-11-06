@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Payment of retirement benefits to dual capacity members[^key-18619343385af865d2b59146f0ba1202]
+## 21. Payment of retirement benefits to dual capacity members[^c-18619343385af865d2b59146f0ba1202]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Retirement benefits under this scheme are payable to a dual capacity member as i
 
 ## Annotations
 
-[^key-18619343385af865d2b59146f0ba1202]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2014/292/regulation/21) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-18619343385af865d2b59146f0ba1202]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2014/292/regulation/21) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
 [^f00020]: Footnote: The result is that 2 or more pensions or lump sums may be payable in respect of the one member.

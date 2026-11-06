@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 257. Evidence of proceedings at meetings[^key-18363fc9225d3dd5bc876201d38c24d5]
+## 257. Evidence of proceedings at meetings[^c-18363fc9225d3dd5bc876201d38c24d5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 12.5 of the 1986 Rules.
 
 ## Annotations
 
-[^key-18363fc9225d3dd5bc876201d38c24d5]: Commencement: Rule 257 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-18363fc9225d3dd5bc876201d38c24d5]: Commencement: Rule 257 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

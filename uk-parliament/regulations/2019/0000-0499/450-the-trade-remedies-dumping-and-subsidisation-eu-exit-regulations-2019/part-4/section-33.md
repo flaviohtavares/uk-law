@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. The impact of the dumped goods or subsidised imports on a UK industry[^key-26de940bd4f600edfa61edf69a061426]
+## 33. The impact of the dumped goods or subsidised imports on a UK industry[^c-26de940bd4f600edfa61edf69a061426]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In considering, for the purpose of regulation 30(2)(c), the consequent impact of
 
 ## Annotations
 
-[^key-26de940bd4f600edfa61edf69a061426]: Commencement: Reg. 33 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-26de940bd4f600edfa61edf69a061426]: Commencement: Reg. 33 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

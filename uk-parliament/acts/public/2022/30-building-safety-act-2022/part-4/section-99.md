@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Compliance notices[^key-418b47b98690d4456348ace69466e0f2][^key-7e1a3ecf0378ac945d3500a7de9e734f]
+## 99. Compliance notices[^c-418b47b98690d4456348ace69466e0f2][^c-7e1a3ecf0378ac945d3500a7de9e734f]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ and (in either case) is liable on summary conviction to a further fine not excee
 
 ## Annotations
 
-[^key-418b47b98690d4456348ace69466e0f2]: Commencement: S. 99 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-418b47b98690d4456348ace69466e0f2]: Commencement: S. 99 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-7e1a3ecf0378ac945d3500a7de9e734f]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2022/30/section/99) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/s)
+[^c-7e1a3ecf0378ac945d3500a7de9e734f]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2022/30/section/99) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/s)

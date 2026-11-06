@@ -52,11 +52,11 @@ The Secretary of State considers that the restrictions and requirements imposed 
 
 In accordance with section 45R of that Act, the Secretary of State is of the opinion that, by reason of urgency, it is necessary to make this instrument without a draft having been laid before, and approved by a resolution of, each House of Parliament.
 
-## 1. Citation, commencement, extent and application[^key-a36d394736ed5c6b87305ebd8eecd212]
+## 1. Citation, commencement, extent and application[^c-a36d394736ed5c6b87305ebd8eecd212]
 
 (1) These Regulations may be cited as the Health Protection (Coronavirus, Restrictions) (Self-Isolation) (England) (Amendment) Regulations 2021.
 
-(2) This regulation and regulation 2(2)(a)[^key-2f09de7c2765e7db6d1aa876175f6eb5] come into force on 19th July 2021.
+(2) This regulation and regulation 2(2)(a)[^c-2f09de7c2765e7db6d1aa876175f6eb5] come into force on 19th July 2021.
 
 (3) The other provisions in these Regulations come into force on 16th August 2021.
 
@@ -72,16 +72,16 @@ In accordance with section 45R of that Act, the Secretary of State is of the opi
   - (a) departed from a place other than a place in England, and
   - (b) is to dock in a place other than a place in England.
 
-## 2. Amendments to the Health Protection (Coronavirus, Restrictions) (Self-Isolation) (England) Regulations 2020[^key-95af9107aec350eaeab4e4052a6c1378][^key-3b83bab56de0c87c772f2d8482c09969]
+## 2. Amendments to the Health Protection (Coronavirus, Restrictions) (Self-Isolation) (England) Regulations 2020[^c-95af9107aec350eaeab4e4052a6c1378][^c-3b83bab56de0c87c772f2d8482c09969]
 
-(1)[^key-95af9107aec350eaeab4e4052a6c1378] The Health Protection (Coronavirus, Restrictions) (Self-Isolation) (England) Regulations 2020 are amended as follows.
+(1)[^c-95af9107aec350eaeab4e4052a6c1378] The Health Protection (Coronavirus, Restrictions) (Self-Isolation) (England) Regulations 2020 are amended as follows.
 
 (2) In regulation 2(2)—
 
-- (a)[^key-3b83bab56de0c87c772f2d8482c09969] in sub-paragraph (l), after “coronavirus” insert “ or antibodies to coronavirus ”;
-- (b)[^key-95af9107aec350eaeab4e4052a6c1378] in sub-paragraph (m), omit the words from “, or give agreement” to “child to participate,”.
+- (a)[^c-3b83bab56de0c87c772f2d8482c09969] in sub-paragraph (l), after “coronavirus” insert “ or antibodies to coronavirus ”;
+- (b)[^c-95af9107aec350eaeab4e4052a6c1378] in sub-paragraph (m), omit the words from “, or give agreement” to “child to participate,”.
 
-(3)[^key-95af9107aec350eaeab4e4052a6c1378] In regulation 2B—
+(3)[^c-95af9107aec350eaeab4e4052a6c1378] In regulation 2B—
 
 - (a) in paragraph (1)—
   - (i) at the end of sub-paragraph (a), omit “or”;
@@ -118,7 +118,7 @@ In accordance with section 45R of that Act, the Secretary of State is of the opi
 
   .
 
-(4)[^key-95af9107aec350eaeab4e4052a6c1378] In regulation 2D—
+(4)[^c-95af9107aec350eaeab4e4052a6c1378] In regulation 2D—
 
 - (a) in paragraph (1)—
   - (i) in sub-paragraph (a), omit “or (b)”;
@@ -133,15 +133,15 @@ In accordance with section 45R of that Act, the Secretary of State is of the opi
   - (i) in the definition of “the relevant period of self-isolation”, omit “or R (as the case may be)”;
   - (ii) in the definition of “the relevant notification”, omit “or (b)”.
 
-(5)[^key-95af9107aec350eaeab4e4052a6c1378] In regulation 3(4), in the opening words, omit “or (b)”.
+(5)[^c-95af9107aec350eaeab4e4052a6c1378] In regulation 3(4), in the opening words, omit “or (b)”.
 
-(6)[^key-95af9107aec350eaeab4e4052a6c1378] In regulation 5(1), in the definition of “P”, for “2B(2) or 2B(3)”, substitute “ or 2B(2) ”.
+(6)[^c-95af9107aec350eaeab4e4052a6c1378] In regulation 5(1), in the definition of “P”, for “2B(2) or 2B(3)”, substitute “ or 2B(2) ”.
 
-(7)[^key-95af9107aec350eaeab4e4052a6c1378] In regulation 10(4), omit “or 2B”.
+(7)[^c-95af9107aec350eaeab4e4052a6c1378] In regulation 10(4), omit “or 2B”.
 
-(8)[^key-95af9107aec350eaeab4e4052a6c1378] In regulation 14(4D)(a)(ii), omit “or (b)”.
+(8)[^c-95af9107aec350eaeab4e4052a6c1378] In regulation 14(4D)(a)(ii), omit “or (b)”.
 
-(9)[^key-95af9107aec350eaeab4e4052a6c1378] After regulation 18, insert—
+(9)[^c-95af9107aec350eaeab4e4052a6c1378] After regulation 18, insert—
 
 > **19. Transitional provision**
 >
@@ -181,13 +181,13 @@ An impact assessment has not been produced for this instrument. An explanatory m
 
 [^c24582261]: Marginal citation: [S.I. 2020/1045](https://www.legislation.gov.uk/uksi/2020/1045), amended by [S.I. 2020/1375](https://www.legislation.gov.uk/uksi/2020/1375), 1518, 2021/97, 364 and 582.
 
-[^key-a36d394736ed5c6b87305ebd8eecd212]: Commencement: Reg. 1 in force at 19.7.2021, see reg. 1(2)
+[^c-a36d394736ed5c6b87305ebd8eecd212]: Commencement: Reg. 1 in force at 19.7.2021, see reg. 1(2)
 
-[^key-2f09de7c2765e7db6d1aa876175f6eb5]: Textual amendment: Word in reg. 1(2) substituted (18.7.2021 at 11:55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Self-Isolation) (England) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/864)](https://www.legislation.gov.uk/uksi/2021/864), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/864/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/864/regulation/2)
+[^c-2f09de7c2765e7db6d1aa876175f6eb5]: Textual amendment: Word in reg. 1(2) substituted (18.7.2021 at 11:55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Self-Isolation) (England) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/864)](https://www.legislation.gov.uk/uksi/2021/864), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/864/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/864/regulation/2)
 
-[^key-95af9107aec350eaeab4e4052a6c1378]: Commencement: Reg. 2(1)(2)(b)(3)-(9) in force at 19.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/851/regulation/1/2)
+[^c-95af9107aec350eaeab4e4052a6c1378]: Commencement: Reg. 2(1)(2)(b)(3)-(9) in force at 19.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/851/regulation/1/2)
 
-[^key-3b83bab56de0c87c772f2d8482c09969]: Commencement: [Reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2021/851/regulation/2/2/a) in force at 16.8.2021, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/851/regulation/1/3)
+[^c-3b83bab56de0c87c772f2d8482c09969]: Commencement: [Reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2021/851/regulation/2/2/a) in force at 16.8.2021, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/851/regulation/1/3)
 
 [^c24582271]: Marginal citation: [S.I. 2004/1031](https://www.legislation.gov.uk/uksi/2004/1031), amended by s. 116 of the [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23) and by [S.I. 2004/3224](https://www.legislation.gov.uk/uksi/2004/3224); 2005/2754, 2759; 2006/562, 1928, 2984; 2007/289, 3101; 2008/941; 2010/231, 551, 1882; 2011/2581; 2012/134, 504, 1641, 1916; 2013/532; 2016/190, 696; 2019/593, 744, 1094; 2020/1488.
 

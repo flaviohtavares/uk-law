@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Houses in Multiple Occupation Act (Northern Ireland) 2016[^key-1c458ed67ae8359fa03166e57e9f105c]
+## 148. Houses in Multiple Occupation Act (Northern Ireland) 2016[^c-1c458ed67ae8359fa03166e57e9f105c]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ In section 88(3)(a) of the Houses in Multiple Occupation Act (Northern Ireland) 
 
 ## Annotations
 
-[^key-1c458ed67ae8359fa03166e57e9f105c]: Commencement: Reg. 148 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-1c458ed67ae8359fa03166e57e9f105c]: Commencement: Reg. 148 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00236]: Footnote: [2016 c.22 (N.I.)](https://www.legislation.gov.uk/nia/2016/22).

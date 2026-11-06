@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 336. The Building Societies Commission.[^key-87d0d6fb31d44a5fc0e3265246ac15bf]
+## 336. The Building Societies Commission.[^c-87d0d6fb31d44a5fc0e3265246ac15bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87d0d6fb31d44a5fc0e3265246ac15bf]: Textual amendment: S. 336 repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 54(1)(c)](https://www.legislation.gov.uk/ukpga/2012/21/section/54/1/c), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [s. 54(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/54/2), [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-87d0d6fb31d44a5fc0e3265246ac15bf]: Textual amendment: S. 336 repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 54(1)(c)](https://www.legislation.gov.uk/ukpga/2012/21/section/54/1/c), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [s. 54(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/54/2), [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

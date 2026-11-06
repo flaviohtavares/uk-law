@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Border rivers[^key-74be863b8dd2b4d2a4c0868b7077f89f]
+## 73. Border rivers[^c-74be863b8dd2b4d2a4c0868b7077f89f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In section 6 of the Environment Act 1995 (general provisions with respect to wat
 
 ## Annotations
 
-[^key-74be863b8dd2b4d2a4c0868b7077f89f]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2003/37/section/73) in force at 1.1.2018 by [S.I. 2017/1043](https://www.legislation.gov.uk/uksi/2017/1043), [art. 2(e)](https://www.legislation.gov.uk/uksi/2017/1043/article/2/e)
+[^c-74be863b8dd2b4d2a4c0868b7077f89f]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2003/37/section/73) in force at 1.1.2018 by [S.I. 2017/1043](https://www.legislation.gov.uk/uksi/2017/1043), [art. 2(e)](https://www.legislation.gov.uk/uksi/2017/1043/article/2/e)

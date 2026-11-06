@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Amendment of rule A.1 in Schedule 1 to the RFPS Regulations 2005[^key-c6cabd2fbcada3020b7ffa338c1b701c]
+## 32. Amendment of rule A.1 in Schedule 1 to the RFPS Regulations 2005[^c-c6cabd2fbcada3020b7ffa338c1b701c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ Rule A.1(interpretation: general) in Schedule 1 to the RFPS Regulations 2005 is 
 
 ## Annotations
 
-[^key-c6cabd2fbcada3020b7ffa338c1b701c]: Commencement: Reg. 32 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-c6cabd2fbcada3020b7ffa338c1b701c]: Commencement: Reg. 32 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00027]: Footnote: [S.I. 2014/2336](https://www.legislation.gov.uk/uksi/2014/2336).

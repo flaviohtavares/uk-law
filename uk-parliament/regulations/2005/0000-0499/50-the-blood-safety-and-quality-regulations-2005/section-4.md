@@ -29,12 +29,12 @@ summary: ''
 - (a) include the information set out in paragraph (4); and
 - (b) be accompanied by a fee of the amount prescribed in regulation 22(2)(a).
 
-(4) The information referred to in paragraph (3)[^key-603e65ca1ba19f73e168f4129eb15cb9] is—
+(4) The information referred to in paragraph (3)[^c-603e65ca1ba19f73e168f4129eb15cb9] is—
 
 - (a) the name and address of the blood establishment and general information about its activities which shall include—
   - (i) details of each site at which it wishes to carry out any of the activities referred to in regulation 3(2),
   - (ii) a description of the activities which it wishes to carry out at each site,
-  - (iii) where it has or intends to enter into a contractual arrangement with any person to carry out any of the services in respect of which[^key-05926aa3298788ef21c37f16008169ac] it is seeking authorisation, the name and address of that person and of the services which he will carry out,
+  - (iii) where it has or intends to enter into a contractual arrangement with any person to carry out any of the services in respect of which[^c-05926aa3298788ef21c37f16008169ac] it is seeking authorisation, the name and address of that person and of the services which he will carry out,
   - (iv) the name, qualifications and contact details of the responsible person for the establishment,
   - (v) the list of hospital blood banks which it supplies; and
 - (b) a description of the quality system in place at each site for each activity in respect of which the application for authorisation is made, which shall include the following information—
@@ -80,6 +80,6 @@ summary: ''
 
 ## Annotations
 
-[^key-603e65ca1ba19f73e168f4129eb15cb9]: Textual amendment: Words in reg. 4(4) substituted (8.4.2005) by [The Blood Safety and Quality (Amendment) Regulations 2005 (S.I. 2005/1098)](https://www.legislation.gov.uk/uksi/2005/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/2/a)
+[^c-603e65ca1ba19f73e168f4129eb15cb9]: Textual amendment: Words in reg. 4(4) substituted (8.4.2005) by [The Blood Safety and Quality (Amendment) Regulations 2005 (S.I. 2005/1098)](https://www.legislation.gov.uk/uksi/2005/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/2/a)
 
-[^key-05926aa3298788ef21c37f16008169ac]: Textual amendment: Words in reg. 4(4)(a)(iii) substituted (8.4.2005) by [The Blood Safety and Quality (Amendment) Regulations 2005 (S.I. 2005/1098)](https://www.legislation.gov.uk/uksi/2005/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/2/b)
+[^c-05926aa3298788ef21c37f16008169ac]: Textual amendment: Words in reg. 4(4)(a)(iii) substituted (8.4.2005) by [The Blood Safety and Quality (Amendment) Regulations 2005 (S.I. 2005/1098)](https://www.legislation.gov.uk/uksi/2005/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/2/b)

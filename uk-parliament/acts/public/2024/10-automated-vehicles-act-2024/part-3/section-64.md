@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Powers in respect of premises[^key-b4417a733fdf2ca5c221b8757331ebb1]
+## 64. Powers in respect of premises[^c-b4417a733fdf2ca5c221b8757331ebb1]
 
 *Extent: E+W+S*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4417a733fdf2ca5c221b8757331ebb1]: Commencement: S. 64 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-b4417a733fdf2ca5c221b8757331ebb1]: Commencement: S. 64 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

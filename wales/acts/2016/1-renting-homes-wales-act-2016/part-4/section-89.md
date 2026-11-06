@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Application of Part[^key-e76d67a16c5d56c9e80782654d041f35]
+## 89. Application of Part[^c-e76d67a16c5d56c9e80782654d041f35]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e76d67a16c5d56c9e80782654d041f35]: Commencement: [S. 89](https://www.legislation.gov.uk/anaw/2016/1/section/89) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-e76d67a16c5d56c9e80782654d041f35]: Commencement: [S. 89](https://www.legislation.gov.uk/anaw/2016/1/section/89) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

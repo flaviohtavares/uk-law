@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 101. Power to modify statutory provisions and confer new powers[^key-274a1698f397292c9ee10b59552063c2]
+## 101. Power to modify statutory provisions and confer new powers[^c-274a1698f397292c9ee10b59552063c2]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-274a1698f397292c9ee10b59552063c2]: Commencement: S. 101 in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-274a1698f397292c9ee10b59552063c2]: Commencement: S. 101 in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

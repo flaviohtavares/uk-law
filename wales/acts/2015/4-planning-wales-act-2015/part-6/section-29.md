@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Invalid applications: notice and appeal[^c22542851][^key-46c92484c24ef4a9435071011d1fc640]
+## 29. Invalid applications: notice and appeal[^c22542851][^c-46c92484c24ef4a9435071011d1fc640]
 
 *Extent: E+W*
 
@@ -142,4 +142,4 @@ summary: ''
 
 [^c22542851]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2015/4/section/29) partly in force; [s. 29](https://www.legislation.gov.uk/anaw/2015/4/section/29) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-46c92484c24ef4a9435071011d1fc640]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2015/4/section/29) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(a)](https://www.legislation.gov.uk/wsi/2016/52/article/5/a) (with [arts. 9](https://www.legislation.gov.uk/wsi/2016/52/article/9), [10](https://www.legislation.gov.uk/wsi/2016/52/article/10))
+[^c-46c92484c24ef4a9435071011d1fc640]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2015/4/section/29) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(a)](https://www.legislation.gov.uk/wsi/2016/52/article/5/a) (with [arts. 9](https://www.legislation.gov.uk/wsi/2016/52/article/9), [10](https://www.legislation.gov.uk/wsi/2016/52/article/10))

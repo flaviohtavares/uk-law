@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Return of child in other cases[^key-f4bc768f1a9d8319c4b955b8927eb055][^key-4e214945d095f1aa97305d5d595640cf]
+## 35. Return of child in other cases[^c-f4bc768f1a9d8319c4b955b8927eb055][^c-4e214945d095f1aa97305d5d595640cf]
 
 *Extent: E+W*
 
@@ -36,10 +36,10 @@ the prospective adopters must, not later than the end of the period of seven day
 
 (4) A prospective adopter who fails to comply with subsection (2) is guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding three months, or a fine not exceeding level 5 on the standard scale, or both.
 
-(5)[^key-1df5d2cee1f14b19e14d28c7c9342d07] Where—
+(5)[^c-1df5d2cee1f14b19e14d28c7c9342d07] Where—
 
 - (a) an adoption agency gives notice under subsection (2) in respect of a child,
-- (b)[^key-5e9b709969a56ec01e43c1503fde05ea] before the notice was given, an application—
+- (b)[^c-5e9b709969a56ec01e43c1503fde05ea] before the notice was given, an application—
   - (i) for an adoption order (including a Scottish or Northern Irish adoption order),
   - (ii) for a special guardianship order,
   - (iii) for a child arrangements order to which subsection (5A) applies, or
@@ -50,7 +50,7 @@ the prospective adopters must, not later than the end of the period of seven day
 
 prospective adopters are not required by virtue of the notice to return the child to the agency unless the court so orders.
 
-(5A)[^key-0a3772b41c311dd6e9c7346a78356206] A child arrangements order is one to which this subsection applies if it is an order regulating arrangements that consist of, or include, arrangements which relate to either or both of the following—
+(5A)[^c-0a3772b41c311dd6e9c7346a78356206] A child arrangements order is one to which this subsection applies if it is an order regulating arrangements that consist of, or include, arrangements which relate to either or both of the following—
 
 - (a) with whom a child is to live, and
 - (b) when a child is to live with any person.
@@ -59,12 +59,12 @@ prospective adopters are not required by virtue of the notice to return the chil
 
 ## Annotations
 
-[^key-f4bc768f1a9d8319c4b955b8927eb055]: Commencement: S. 35 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-f4bc768f1a9d8319c4b955b8927eb055]: Commencement: S. 35 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-4e214945d095f1aa97305d5d595640cf]: Modification: S. 35 applied (with modifications) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2005/392/regulation/6), [8](https://www.legislation.gov.uk/uksi/2005/392/regulation/8)
+[^c-4e214945d095f1aa97305d5d595640cf]: Modification: S. 35 applied (with modifications) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2005/392/regulation/6), [8](https://www.legislation.gov.uk/uksi/2005/392/regulation/8)
 
-[^key-1df5d2cee1f14b19e14d28c7c9342d07]: Modification: S. 35(5) applied (with modifications) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2005/392/regulation/11/2), [52](https://www.legislation.gov.uk/uksi/2005/392/regulation/52), [55](https://www.legislation.gov.uk/uksi/2005/392/regulation/55)
+[^c-1df5d2cee1f14b19e14d28c7c9342d07]: Modification: S. 35(5) applied (with modifications) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2005/392/regulation/11/2), [52](https://www.legislation.gov.uk/uksi/2005/392/regulation/52), [55](https://www.legislation.gov.uk/uksi/2005/392/regulation/55)
 
-[^key-5e9b709969a56ec01e43c1503fde05ea]: Textual amendment: S. 35(5)(b)(c) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 64(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/64/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-5e9b709969a56ec01e43c1503fde05ea]: Textual amendment: S. 35(5)(b)(c) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 64(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/64/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
-[^key-0a3772b41c311dd6e9c7346a78356206]: Textual amendment: S. 35(5A) inserted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 64(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/64/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-0a3772b41c311dd6e9c7346a78356206]: Textual amendment: S. 35(5A) inserted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 64(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/64/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)

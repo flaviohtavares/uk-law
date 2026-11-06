@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Entitlement to ill-health pension: deferred member with permanent serious ill-health[^key-a10a299ebce76b796d0a1dbcb84f5dcd]
+## 56. Entitlement to ill-health pension: deferred member with permanent serious ill-health[^c-a10a299ebce76b796d0a1dbcb84f5dcd]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,15 +31,15 @@ summary: ''
 
 (3) A member entitled to immediate payment of an ill-health pension is entitled to—
 
-- (a) an added pension of any description if the pensioner member’s account[^key-ac36784da0c6559f934a60bb7edc4a4d] specifies an accrued pension of that description; and
-- (b) a retirement club transfer earned pension, if the pensioner member’s account[^key-b6452132e1a7035eb3357219e86f4a56] specifies a club transfer earned pension.
+- (a) an added pension of any description if the pensioner member’s account[^c-ac36784da0c6559f934a60bb7edc4a4d] specifies an accrued pension of that description; and
+- (b) a retirement club transfer earned pension, if the pensioner member’s account[^c-b6452132e1a7035eb3357219e86f4a56] specifies a club transfer earned pension.
 
 (4) The annual rate of an ill-health pension, any added pension and any club transfer pension payable under this regulation is calculated in accordance with regulation 46 (annual rate of pension payable to deferred member who becomes a pensioner member) but without subtracting the early payment reduction.
 
 ## Annotations
 
-[^key-a10a299ebce76b796d0a1dbcb84f5dcd]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2014/2336/regulation/56) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-a10a299ebce76b796d0a1dbcb84f5dcd]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2014/2336/regulation/56) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
 
-[^key-ac36784da0c6559f934a60bb7edc4a4d]: Textual amendment: Words in [reg. 56(3)(a)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/56/3/a) substituted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2015/466/regulation/11/a)
+[^c-ac36784da0c6559f934a60bb7edc4a4d]: Textual amendment: Words in [reg. 56(3)(a)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/56/3/a) substituted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2015/466/regulation/11/a)
 
-[^key-b6452132e1a7035eb3357219e86f4a56]: Textual amendment: Words in [reg. 56(3)(b)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/56/3/b) substituted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2015/466/regulation/11/b)
+[^c-b6452132e1a7035eb3357219e86f4a56]: Textual amendment: Words in [reg. 56(3)(b)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/56/3/b) substituted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2015/466/regulation/11/b)

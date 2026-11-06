@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Power to amend Part 1 so as to authorise additional sanctions[^key-c090965136fcbecd265ab0189fe9beff][^key-c586c72b2628e63a17ba496d6d5a231d]
+## 47. Power to amend Part 1 so as to authorise additional sanctions[^c-c090965136fcbecd265ab0189fe9beff][^c-c586c72b2628e63a17ba496d6d5a231d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c090965136fcbecd265ab0189fe9beff]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2018/13/section/47) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)
+[^c-c090965136fcbecd265ab0189fe9beff]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2018/13/section/47) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)
 
-[^key-c586c72b2628e63a17ba496d6d5a231d]: Modification: Pt. 1: power to amend conferred (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 66(1)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/66/1/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-c586c72b2628e63a17ba496d6d5a231d]: Modification: Pt. 1: power to amend conferred (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 66(1)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/66/1/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

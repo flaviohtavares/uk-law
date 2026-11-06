@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Identification of economic operators[^key-baac9ba9bd598c7c72a5eeba782d1124]
+## 35. Identification of economic operators[^c-baac9ba9bd598c7c72a5eeba782d1124]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baac9ba9bd598c7c72a5eeba782d1124]: Commencement: Reg. 35 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-baac9ba9bd598c7c72a5eeba782d1124]: Commencement: Reg. 35 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

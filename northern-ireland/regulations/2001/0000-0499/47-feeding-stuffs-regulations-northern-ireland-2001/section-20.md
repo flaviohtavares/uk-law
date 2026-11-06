@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Exemption from these Regulations[^key-49a2c7cb0a8ef7f51bcaffc90e6797db]
+## 20. Exemption from these Regulations[^c-49a2c7cb0a8ef7f51bcaffc90e6797db]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Insofar as provisions of these Regulations implement the Compound Feeding Stuffs
 
 ## Annotations
 
-[^key-49a2c7cb0a8ef7f51bcaffc90e6797db]: Commencement: Reg. 20 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-49a2c7cb0a8ef7f51bcaffc90e6797db]: Commencement: Reg. 20 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

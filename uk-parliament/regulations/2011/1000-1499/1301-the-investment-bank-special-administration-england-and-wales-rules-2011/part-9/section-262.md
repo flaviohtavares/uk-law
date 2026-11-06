@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 262. Requirement to assess costs by the detailed procedure[^key-88d997fa9d926161b896f4139689b8f0]
+## 262. Requirement to assess costs by the detailed procedure[^c-88d997fa9d926161b896f4139689b8f0]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88d997fa9d926161b896f4139689b8f0]: Commencement: [Rule 262](https://www.legislation.gov.uk/uksi/2011/1301/rule/262) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-88d997fa9d926161b896f4139689b8f0]: Commencement: [Rule 262](https://www.legislation.gov.uk/uksi/2011/1301/rule/262) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

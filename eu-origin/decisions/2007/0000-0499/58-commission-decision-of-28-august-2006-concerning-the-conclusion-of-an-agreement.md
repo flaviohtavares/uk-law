@@ -35,16 +35,16 @@ concerning the conclusion of an Agreement between the Government of Japan and th
 
 (2007/58/EURATOM) (revoked)
 
-[^key-fbcb4dc9bb160c7f739cdb9ddbe87238]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fbcb4dc9bb160c7f739cdb9ddbe87238]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-fbcb4dc9bb160c7f739cdb9ddbe87238] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-fbcb4dc9bb160c7f739cdb9ddbe87238] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-fbcb4dc9bb160c7f739cdb9ddbe87238] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-fbcb4dc9bb160c7f739cdb9ddbe87238] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fbcb4dc9bb160c7f739cdb9ddbe87238]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fbcb4dc9bb160c7f739cdb9ddbe87238]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fbcb4dc9bb160c7f739cdb9ddbe87238]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-fbcb4dc9bb160c7f739cdb9ddbe87238]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

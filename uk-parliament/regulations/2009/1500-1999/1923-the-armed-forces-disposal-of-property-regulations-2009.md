@@ -32,7 +32,7 @@ summary: ''
 
 Defence
 
-The Armed Forces (Disposal of Property) Regulations 2009 (revoked)[^key-b9230ae4974f5efeca9b6fb4598263b7]
+The Armed Forces (Disposal of Property) Regulations 2009 (revoked)[^c-b9230ae4974f5efeca9b6fb4598263b7]
 
 Made
 
@@ -46,46 +46,46 @@ Coming into force
 
 31st October 2009
 
-[^key-b9230ae4974f5efeca9b6fb4598263b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b9230ae4974f5efeca9b6fb4598263b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b9230ae4974f5efeca9b6fb4598263b7]
+## 1. Citation and commencement[^c-b9230ae4974f5efeca9b6fb4598263b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b9230ae4974f5efeca9b6fb4598263b7]
+## 2. Interpretation[^c-b9230ae4974f5efeca9b6fb4598263b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Disposal of property by order of judge advocate[^key-b9230ae4974f5efeca9b6fb4598263b7]
+## 3. Disposal of property by order of judge advocate[^c-b9230ae4974f5efeca9b6fb4598263b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Disposal of property on determination of commanding officer of person charged with service offence[^key-b9230ae4974f5efeca9b6fb4598263b7]
+## 4. Disposal of property on determination of commanding officer of person charged with service offence[^c-b9230ae4974f5efeca9b6fb4598263b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Disposal of property on determination of commanding officer in other circumstances[^key-b9230ae4974f5efeca9b6fb4598263b7]
+## 5. Disposal of property on determination of commanding officer in other circumstances[^c-b9230ae4974f5efeca9b6fb4598263b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Retention of property[^key-b9230ae4974f5efeca9b6fb4598263b7]
+## 6. Retention of property[^c-b9230ae4974f5efeca9b6fb4598263b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Sale of property[^key-b9230ae4974f5efeca9b6fb4598263b7]
+## 7. Sale of property[^c-b9230ae4974f5efeca9b6fb4598263b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Appeals[^key-b9230ae4974f5efeca9b6fb4598263b7]
+## 8. Appeals[^c-b9230ae4974f5efeca9b6fb4598263b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9230ae4974f5efeca9b6fb4598263b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b9230ae4974f5efeca9b6fb4598263b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9230ae4974f5efeca9b6fb4598263b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b9230ae4974f5efeca9b6fb4598263b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b9230ae4974f5efeca9b6fb4598263b7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1923) revoked (22.11.2023) by [The Armed Forces (Disposal of Property) Regulations 2023 (S.I. 2023/1152)](https://www.legislation.gov.uk/uksi/2023/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/11/1) (with [reg. 11(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/11/2))
+[^c-b9230ae4974f5efeca9b6fb4598263b7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1923) revoked (22.11.2023) by [The Armed Forces (Disposal of Property) Regulations 2023 (S.I. 2023/1152)](https://www.legislation.gov.uk/uksi/2023/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/11/1) (with [reg. 11(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/11/2))

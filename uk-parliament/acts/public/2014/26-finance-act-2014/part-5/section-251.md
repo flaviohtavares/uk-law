@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 251. Duty of monitored promoter to notify clients etc of number[^key-864d296442727db7a62d92878fe14c89]
+## 251. Duty of monitored promoter to notify clients etc of number[^c-864d296442727db7a62d92878fe14c89]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,8 +26,8 @@ summary: ''
 
 - (a) any person who has become its client at any time in the period beginning with the day on which the monitoring notice in relation to the monitored promoter took effect and ending with the day on which the monitored promoter was notified of that number,
 - (b) any person who becomes its client after the end of the period mentioned in paragraph (a) but while the monitoring notice has effect,
-- (c) any person who the monitored promoter could reasonably be expected to know falls within subsection (4), [^key-636ef3a8bdacaaf66e753514eaaf0988]...
-- (ca)[^key-c0ee767b324966c10eb76618e651ef3c] any person who falls within the case described in paragraph 3 of Schedule 33A by virtue of acting under the instruction or guidance of the monitored promoter, and
+- (c) any person who the monitored promoter could reasonably be expected to know falls within subsection (4), [^c-636ef3a8bdacaaf66e753514eaaf0988]...
+- (ca)[^c-c0ee767b324966c10eb76618e651ef3c] any person who falls within the case described in paragraph 3 of Schedule 33A by virtue of acting under the instruction or guidance of the monitored promoter, and
 - (d) any person who the monitored promoter could reasonably be expected to know is a relevant intermediary in relation to a relevant proposal of the monitored promoter.
 
 (3) A person (“C”) becomes a client of a monitored promoter if the promoter does any of the following in relation to C—
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-864d296442727db7a62d92878fe14c89]: Textual amendment: Word in [s. 251 heading](https://www.legislation.gov.uk/ukpga/2014/26/part/5/crossheading/allocation-and-distribution-of-promoter-reference-number) substituted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 14(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/14/2)
+[^c-864d296442727db7a62d92878fe14c89]: Textual amendment: Word in [s. 251 heading](https://www.legislation.gov.uk/ukpga/2014/26/part/5/crossheading/allocation-and-distribution-of-promoter-reference-number) substituted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 14(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/14/2)
 
-[^key-636ef3a8bdacaaf66e753514eaaf0988]: Textual amendment: Word in [s. 251(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/251/2/c) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 14(3)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/14/3/a)
+[^c-636ef3a8bdacaaf66e753514eaaf0988]: Textual amendment: Word in [s. 251(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/251/2/c) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 14(3)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/14/3/a)
 
-[^key-c0ee767b324966c10eb76618e651ef3c]: Textual amendment: [S. 251(2)(ca)](https://www.legislation.gov.uk/ukpga/2014/26/section/251/2/ca) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/14/3/b)
+[^c-c0ee767b324966c10eb76618e651ef3c]: Textual amendment: [S. 251(2)(ca)](https://www.legislation.gov.uk/ukpga/2014/26/section/251/2/ca) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/14/3/b)

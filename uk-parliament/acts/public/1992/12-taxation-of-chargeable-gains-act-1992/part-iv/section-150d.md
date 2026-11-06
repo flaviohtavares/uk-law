@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150D. Enterprise investment scheme: application of taper relief[^key-377bd8aba6e02621e44e3d3ab2777764]
+## 150D. Enterprise investment scheme: application of taper relief[^c-377bd8aba6e02621e44e3d3ab2777764]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-377bd8aba6e02621e44e3d3ab2777764]: Textual amendment: S. 150D omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/32)
+[^c-377bd8aba6e02621e44e3d3ab2777764]: Textual amendment: S. 150D omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/32)

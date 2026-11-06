@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. The Northern Ireland renewables obligation[^key-fac83b5dda649be8bd63894bf5d06d64]
+## 40. The Northern Ireland renewables obligation[^c-fac83b5dda649be8bd63894bf5d06d64]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fac83b5dda649be8bd63894bf5d06d64]: Commencement: S. 40 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/a/iii)
+[^c-fac83b5dda649be8bd63894bf5d06d64]: Commencement: S. 40 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/a/iii)

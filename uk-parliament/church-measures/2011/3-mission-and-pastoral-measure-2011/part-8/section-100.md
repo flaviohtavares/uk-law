@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 100. Application to benefices in the patronage of the Crown or Duke of Cornwall[^key-e99a0dbc409b66b4c7a176fc49bc8b40]
+## 100. Application to benefices in the patronage of the Crown or Duke of Cornwall[^c-e99a0dbc409b66b4c7a176fc49bc8b40]
 
 *Extent: E*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e99a0dbc409b66b4c7a176fc49bc8b40]: Commencement: S. 100 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-e99a0dbc409b66b4c7a176fc49bc8b40]: Commencement: S. 100 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

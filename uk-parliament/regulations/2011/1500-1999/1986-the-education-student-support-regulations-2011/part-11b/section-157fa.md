@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 157FA. Application of category A in quarters ending on 30th June 2021 and 31st August 2021[^key-ab95f0e15f63978d03e9dae28884342a]
+## 157FA. Application of category A in quarters ending on 30th June 2021 and 31st August 2021[^c-ab95f0e15f63978d03e9dae28884342a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab95f0e15f63978d03e9dae28884342a]: Textual amendment: [Reg. 157FA](https://www.legislation.gov.uk/uksi/2011/1986/regulation/157FA) omitted (23.12.2021) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [15(5)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/15/5)
+[^c-ab95f0e15f63978d03e9dae28884342a]: Textual amendment: [Reg. 157FA](https://www.legislation.gov.uk/uksi/2011/1986/regulation/157FA) omitted (23.12.2021) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [15(5)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/15/5)

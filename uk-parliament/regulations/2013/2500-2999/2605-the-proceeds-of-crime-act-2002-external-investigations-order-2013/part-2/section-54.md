@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Further provisions[^key-f1fffd410a457f6ab3a4d651600f8ead]
+## 54. Further provisions[^c-f1fffd410a457f6ab3a4d651600f8ead]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ they may be retained until the proceedings are concluded.
 
 ## Annotations
 
-[^key-f1fffd410a457f6ab3a4d651600f8ead]: Commencement: [Art. 54](https://www.legislation.gov.uk/uksi/2013/2605/article/54) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-f1fffd410a457f6ab3a4d651600f8ead]: Commencement: [Art. 54](https://www.legislation.gov.uk/uksi/2013/2605/article/54) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)

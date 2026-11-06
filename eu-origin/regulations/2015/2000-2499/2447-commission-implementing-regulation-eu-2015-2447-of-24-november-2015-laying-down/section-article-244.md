@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 244. Provision of a guarantee(Article 191 of the Code)[^key-87cfeedac156e35fd8fdbcd08e88797d]
+## Article 244. Provision of a guarantee(Article 191 of the Code)[^c-87cfeedac156e35fd8fdbcd08e88797d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ However, the declarant may request the immediate notification of the customs deb
 
 ## Annotations
 
-[^key-87cfeedac156e35fd8fdbcd08e88797d]: Modification: [Art. 244](https://www.legislation.gov.uk/eur/2015/2447/article/244) modified (1.8.2021) by the [Value Added Tax Regulations 1995 (S.I. 1995/2518)](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AI](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AI) (as inserted by [S.I. 2021/715](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43))
+[^c-87cfeedac156e35fd8fdbcd08e88797d]: Modification: [Art. 244](https://www.legislation.gov.uk/eur/2015/2447/article/244) modified (1.8.2021) by the [Value Added Tax Regulations 1995 (S.I. 1995/2518)](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AI](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AI) (as inserted by [S.I. 2021/715](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43))

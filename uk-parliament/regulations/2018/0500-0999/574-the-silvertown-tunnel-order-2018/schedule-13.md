@@ -700,7 +700,7 @@ In this Part of this Schedule—
   - (a) within the Order limits; or
   - (b) within the 1mm settlement contour for the final tunnel alignment;
 - “**flood storage capacity**” means any land, which, taking account of the flood defences, is expected to provide flood storage capacity for any main river;
-- “**main river**” means all watercourses shown as such on the statutory main river maps held by the Agency and the Department for[^key-5c56fa8cfd278c1805e90c0d9b8becda] Environment, Food and Rural Affairs, including any structure or appliance for controlling or regulating the flow of water into, in or out of the channel;
+- “**main river**” means all watercourses shown as such on the statutory main river maps held by the Agency and the Department for[^c-5c56fa8cfd278c1805e90c0d9b8becda] Environment, Food and Rural Affairs, including any structure or appliance for controlling or regulating the flow of water into, in or out of the channel;
 - “**maintenance**” has the same meaning as in article 2(1) (interpretation), save for the exclusion of the works of inspection;
 - “**specified day**” means the business day on which detailed designs are received by the Agency under paragraph 56(1) and for the avoidance of doubt if any further information is requested by the Agency under paragraph 56(1)(i), the specified day is the business day on which the Agency receives this information from TfL;
 - “**specified work**” means so much of any permanent or temporary work or operation forming part of the authorised work (other than works required in an emergency) as is in, on, under or over a main river or drainage works or within 16 metres of a drainage work or is otherwise likely to—
@@ -939,7 +939,7 @@ Any difference or dispute arising between TfL and the Agency under this Part of 
 
 [^c22958121]: Marginal citation: S.I. 20017/407.
 
-[^key-5c56fa8cfd278c1805e90c0d9b8becda]: Textual amendment: Words in [Sch. 13 para. 54](https://www.legislation.gov.uk/uksi/2018/574/schedule/13/paragraph/54) substituted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(10)](https://www.legislation.gov.uk/uksi/2019/413/article/2/10)
+[^c-5c56fa8cfd278c1805e90c0d9b8becda]: Textual amendment: Words in [Sch. 13 para. 54](https://www.legislation.gov.uk/uksi/2018/574/schedule/13/paragraph/54) substituted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(10)](https://www.legislation.gov.uk/uksi/2019/413/article/2/10)
 
 [^c22958131]: Marginal citation: As amended by section 42 of the [Traffic Management Act 2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18).
 

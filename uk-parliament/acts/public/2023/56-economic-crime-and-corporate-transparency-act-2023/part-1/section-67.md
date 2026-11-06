@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Exemption from identity verification: national security grounds[^key-28b9b5e4509bf75cbebfdecf38c15948][^key-4e98ad9606132418861288d0ae235579]
+## 67. Exemption from identity verification: national security grounds[^c-28b9b5e4509bf75cbebfdecf38c15948][^c-4e98ad9606132418861288d0ae235579]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-28b9b5e4509bf75cbebfdecf38c15948]: Commencement: S. 67 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-28b9b5e4509bf75cbebfdecf38c15948]: Commencement: S. 67 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-4e98ad9606132418861288d0ae235579]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2023/56/section/67) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/c)
+[^c-4e98ad9606132418861288d0ae235579]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2023/56/section/67) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/c)

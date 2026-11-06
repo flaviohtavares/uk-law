@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 171. Powers of Tribunal on reference under section 162[^key-f6178ac32e3f3ce91a73693ea213a343]
+## 171. Powers of Tribunal on reference under section 162[^c-f6178ac32e3f3ce91a73693ea213a343]
 
 *Extent: S*
 
@@ -32,11 +32,11 @@ summary: ''
 
 (3) Those persons are—
 
-- (a) the persons mentioned in section 166(3)(a) to (h)[^key-d4e08389677cb9c812a2c8aa21938a7b] of this Act; and
+- (a) the persons mentioned in section 166(3)(a) to (h)[^c-d4e08389677cb9c812a2c8aa21938a7b] of this Act; and
 - (b) any other person appearing to the Tribunal to have an interest in the reference.
 
 ## Annotations
 
-[^key-f6178ac32e3f3ce91a73693ea213a343]: Commencement: S. 171 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-f6178ac32e3f3ce91a73693ea213a343]: Commencement: S. 171 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-d4e08389677cb9c812a2c8aa21938a7b]: Textual amendment: Words in s. 171(3)(a) inserted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(17)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/17)
+[^c-d4e08389677cb9c812a2c8aa21938a7b]: Textual amendment: Words in s. 171(3)(a) inserted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(17)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/17)

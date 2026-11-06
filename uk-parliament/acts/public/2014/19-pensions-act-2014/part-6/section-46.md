@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Prohibition and suspension orders: directors of corporate trustees[^key-b39378375948fc16389a31e662a46e9d]
+## 46. Prohibition and suspension orders: directors of corporate trustees[^c-b39378375948fc16389a31e662a46e9d]
 
 *Extent: E+W+S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b39378375948fc16389a31e662a46e9d]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2014/19/section/46) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(h)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/h)
+[^c-b39378375948fc16389a31e662a46e9d]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2014/19/section/46) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(h)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/h)

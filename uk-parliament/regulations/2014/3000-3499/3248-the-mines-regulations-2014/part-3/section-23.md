@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Ignition risks[^key-ffdfee9c5585538922c3f84e8681b20f]
+## 23. Ignition risks[^c-ffdfee9c5585538922c3f84e8681b20f]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffdfee9c5585538922c3f84e8681b20f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2014/3248/regulation/23) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-ffdfee9c5585538922c3f84e8681b20f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2014/3248/regulation/23) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

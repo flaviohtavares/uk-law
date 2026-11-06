@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45E. Regulations under section 45A: supplementary provisions[^key-3ae8ad4d765c2c18509b88750dd18d80]
+## 45E. Regulations under section 45A: supplementary provisions[^c-3ae8ad4d765c2c18509b88750dd18d80]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ is subject to negative resolution within the meaning of section 41(6) of the Int
 
 ## Annotations
 
-[^key-3ae8ad4d765c2c18509b88750dd18d80]: Textual amendment: Pt. 5A inserted (21.7.2008 for specified purposes, 1.4.2010 for E.W.S.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 119](https://www.legislation.gov.uk/ukpga/2008/14/section/119), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/708/article/3/a)
+[^c-3ae8ad4d765c2c18509b88750dd18d80]: Textual amendment: Pt. 5A inserted (21.7.2008 for specified purposes, 1.4.2010 for E.W.S.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 119](https://www.legislation.gov.uk/ukpga/2008/14/section/119), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/708/article/3/a)

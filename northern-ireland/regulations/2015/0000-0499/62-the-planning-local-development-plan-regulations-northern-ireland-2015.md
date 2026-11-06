@@ -211,17 +211,17 @@ Before a council prepares a development plan document it must—
 
 (3) In the case of any contradiction between the written statement and any other document forming part of a local development plan, the written statement shall prevail.
 
-### 14. Additional matters to be taken into account[^key-14299061934837a8c92e61951fd6eae9]
+### 14. Additional matters to be taken into account[^c-14299061934837a8c92e61951fd6eae9]
 
 (1) The other matters that the council must take into account in preparing a local development plan are—
 
-- (a) the objectives of preventing major accidents and limiting the consequences of such accidents for human health and the environment [^key-ed90a6c5c4a6737a3271d3248a6f7e67]...;
+- (a) the objectives of preventing major accidents and limiting the consequences of such accidents for human health and the environment [^c-ed90a6c5c4a6737a3271d3248a6f7e67]...;
 - (b) the need, in the long term—
   - (i) to maintain appropriate safety distances between establishments and residential areas, buildings and areas of public use, recreational areas, and, as far as possible, major transport routes;
   - (ii) to protect areas of particular natural sensitivity or interest in the vicinity of establishments, where appropriate through appropriate safety distances or other relevant measures;
-  - (iii) in the case of existing establishments, to take additional technical measures in accordance with regulation 5 of the Control of Major Accident Hazards Regulations (Northern Ireland) 2015[^key-6b16fa65684e15ffcb96020143a7520a] , so as not to increase the risks to human health and the environment.
+  - (iii) in the case of existing establishments, to take additional technical measures in accordance with regulation 5 of the Control of Major Accident Hazards Regulations (Northern Ireland) 2015[^c-6b16fa65684e15ffcb96020143a7520a] , so as not to increase the risks to human health and the environment.
 
-(2)[^key-e271734140304cdb58c9489254a44138] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e271734140304cdb58c9489254a44138] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Development plan document procedure
 
@@ -245,7 +245,7 @@ Before submitting a development plan document to the Department under section 10
 - (e) publish on its website—
   - (i) the development plan document,
   - (ii) such of the supporting documents as in the opinion of the council are relevant, and
-  - (iii) the notice mentioned in paragraph (a)(v)[^key-27122d780419c5a24bfdbeb2d546bf32].
+  - (iii) the notice mentioned in paragraph (a)(v)[^c-27122d780419c5a24bfdbeb2d546bf32].
 
 ### 16. Public consultation on a development plan document
 
@@ -305,7 +305,7 @@ Before submitting a development plan document to the Department under section 10
 - (a) the report under section 8(6)(b) or, as the case may be, section 9(7)(b),
 - (b) the statement of community involvement,
 - (c) evidence that the council has complied with its statement of community involvement,
-- (d) copies of the notices referred to in regulation 10(a)(iv), 15(a)(v)[^key-9faaa37ad93fc43c16fee01fd6ddab38], and 17(1)(a)(iii),
+- (d) copies of the notices referred to in regulation 10(a)(iv), 15(a)(v)[^c-9faaa37ad93fc43c16fee01fd6ddab38], and 17(1)(a)(iii),
 - (e) the timetable,
 - (f) a statement setting out—
   - (i) a summary of the main issues raised in representations made in accordance with regulation 11(2), and
@@ -514,7 +514,7 @@ Regulation 32
 
 In this Schedule—
 
-- “**departmental development plan**” means a development plan prepared and adopted by the Department under the Planning (Northern Ireland) Order 1972 or the Planning (Northern Ireland) Order 1991”[^key-c865417c8318f7a8ed1f234c911fe094] Order before the coming into operation of these Regulations or a development plan prepared by the Department under the Planning (Northern Ireland) Order 1991[^key-6d9fb2be5f48203bd5ba11c68ad30498] before but not adopted until after the coming into operation of these Regulations; and
+- “**departmental development plan**” means a development plan prepared and adopted by the Department under the Planning (Northern Ireland) Order 1972 or the Planning (Northern Ireland) Order 1991”[^c-c865417c8318f7a8ed1f234c911fe094] Order before the coming into operation of these Regulations or a development plan prepared by the Department under the Planning (Northern Ireland) Order 1991[^c-6d9fb2be5f48203bd5ba11c68ad30498] before but not adopted until after the coming into operation of these Regulations; and
 - “**transitional period**” means the period between the coming into operation of these Regulations and the date on which a council adopts its local policies plan or the date on which the local policies plan is approved by the Department.
 
 ### 2. Departmental development plan as local development plan
@@ -532,7 +532,7 @@ Where a plan strategy is adopted by a council or approved by the Department in a
 
 Where a council adopts a local policies plan for its district (or the Department approves a local policies plan for that district) so much of the departmental development plan as relates to that area shall cease to have effect.
 
-### 5. Annual monitoring report[^key-558c69813501773438585eebf372c824]
+### 5. Annual monitoring report[^c-558c69813501773438585eebf372c824]
 
 Regulation 25 (annual monitoring report) does not apply until the council has adopted its local policies plan for its district (or the Department approves the local policies plan for that district).
 
@@ -578,20 +578,20 @@ A Regulatory Impact Assessment has been prepared in respect of these regulations
 
 [^c22814721]: Marginal citation: [1954 c.33](https://www.legislation.gov.uk/ukpga/1954/33)
 
-[^key-14299061934837a8c92e61951fd6eae9]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2015/62/regulation/14) substituted (16.10.2015) by [The Planning (Hazardous Substances) (No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/344)](https://www.legislation.gov.uk/nisr/2015/344), [regs. 1](https://www.legislation.gov.uk/nisr/2015/344/regulation/1), [28(2)](https://www.legislation.gov.uk/nisr/2015/344/regulation/28/2) (with reg. 25(4))
+[^c-14299061934837a8c92e61951fd6eae9]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2015/62/regulation/14) substituted (16.10.2015) by [The Planning (Hazardous Substances) (No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/344)](https://www.legislation.gov.uk/nisr/2015/344), [regs. 1](https://www.legislation.gov.uk/nisr/2015/344/regulation/1), [28(2)](https://www.legislation.gov.uk/nisr/2015/344/regulation/28/2) (with reg. 25(4))
 
-[^key-ed90a6c5c4a6737a3271d3248a6f7e67]: Textual amendment: Words in [reg. 14(1)(a)](https://www.legislation.gov.uk/nisr/2015/62/regulation/14/1/a) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ed90a6c5c4a6737a3271d3248a6f7e67]: Textual amendment: Words in [reg. 14(1)(a)](https://www.legislation.gov.uk/nisr/2015/62/regulation/14/1/a) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6b16fa65684e15ffcb96020143a7520a]: Textual amendment: Words in [reg. 14(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2015/62/regulation/14/1/b/iii) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6b16fa65684e15ffcb96020143a7520a]: Textual amendment: Words in [reg. 14(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2015/62/regulation/14/1/b/iii) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e271734140304cdb58c9489254a44138]: Textual amendment: [Reg. 14(2)](https://www.legislation.gov.uk/nisr/2015/62/regulation/14/2) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e271734140304cdb58c9489254a44138]: Textual amendment: [Reg. 14(2)](https://www.legislation.gov.uk/nisr/2015/62/regulation/14/2) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-27122d780419c5a24bfdbeb2d546bf32]: Textual amendment: Word in [reg. 15(e)(iii)](https://www.legislation.gov.uk/nisr/2015/62/regulation/15/e/iii) substituted (1.8.2025) by [The Planning (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/128)](https://www.legislation.gov.uk/nisr/2025/128), [regs. 1](https://www.legislation.gov.uk/nisr/2025/128/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/128/regulation/2/2)
+[^c-27122d780419c5a24bfdbeb2d546bf32]: Textual amendment: Word in [reg. 15(e)(iii)](https://www.legislation.gov.uk/nisr/2015/62/regulation/15/e/iii) substituted (1.8.2025) by [The Planning (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/128)](https://www.legislation.gov.uk/nisr/2025/128), [regs. 1](https://www.legislation.gov.uk/nisr/2025/128/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/128/regulation/2/2)
 
-[^key-9faaa37ad93fc43c16fee01fd6ddab38]: Textual amendment: Word in [reg. 20(2)(d)](https://www.legislation.gov.uk/nisr/2015/62/regulation/20/2/d) substituted (1.8.2025) by [The Planning (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/128)](https://www.legislation.gov.uk/nisr/2025/128), [regs. 1](https://www.legislation.gov.uk/nisr/2025/128/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2025/128/regulation/2/3)
+[^c-9faaa37ad93fc43c16fee01fd6ddab38]: Textual amendment: Word in [reg. 20(2)(d)](https://www.legislation.gov.uk/nisr/2015/62/regulation/20/2/d) substituted (1.8.2025) by [The Planning (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/128)](https://www.legislation.gov.uk/nisr/2025/128), [regs. 1](https://www.legislation.gov.uk/nisr/2025/128/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2025/128/regulation/2/3)
 
-[^key-c865417c8318f7a8ed1f234c911fe094]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2015/62/schedule/paragraph/1) substituted (29.2.2016) by [The Planning (Local Development Plan) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/27)](https://www.legislation.gov.uk/nisr/2016/27), [regs. 1](https://www.legislation.gov.uk/nisr/2016/27/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2016/27/regulation/2/a)
+[^c-c865417c8318f7a8ed1f234c911fe094]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2015/62/schedule/paragraph/1) substituted (29.2.2016) by [The Planning (Local Development Plan) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/27)](https://www.legislation.gov.uk/nisr/2016/27), [regs. 1](https://www.legislation.gov.uk/nisr/2016/27/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2016/27/regulation/2/a)
 
-[^key-6d9fb2be5f48203bd5ba11c68ad30498]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2015/62/schedule/paragraph/1) substituted (29.2.2016) by [The Planning (Local Development Plan) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/27)](https://www.legislation.gov.uk/nisr/2016/27), [regs. 1](https://www.legislation.gov.uk/nisr/2016/27/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2016/27/regulation/2/b)
+[^c-6d9fb2be5f48203bd5ba11c68ad30498]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2015/62/schedule/paragraph/1) substituted (29.2.2016) by [The Planning (Local Development Plan) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/27)](https://www.legislation.gov.uk/nisr/2016/27), [regs. 1](https://www.legislation.gov.uk/nisr/2016/27/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2016/27/regulation/2/b)
 
-[^key-558c69813501773438585eebf372c824]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2015/62/schedule/paragraph/5) inserted (1.8.2025) by [The Planning (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/128)](https://www.legislation.gov.uk/nisr/2025/128), [regs. 1](https://www.legislation.gov.uk/nisr/2025/128/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2025/128/regulation/2/4)
+[^c-558c69813501773438585eebf372c824]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2015/62/schedule/paragraph/5) inserted (1.8.2025) by [The Planning (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/128)](https://www.legislation.gov.uk/nisr/2025/128), [regs. 1](https://www.legislation.gov.uk/nisr/2025/128/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2025/128/regulation/2/4)

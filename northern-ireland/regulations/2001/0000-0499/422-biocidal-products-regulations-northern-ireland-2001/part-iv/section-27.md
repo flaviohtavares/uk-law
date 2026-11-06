@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Treatment of confidential information[^key-34aa13fc4b71ff2895ff54b45116cddf]
+## 27. Treatment of confidential information[^c-34aa13fc4b71ff2895ff54b45116cddf]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34aa13fc4b71ff2895ff54b45116cddf]: Commencement: Reg. 27 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-34aa13fc4b71ff2895ff54b45116cddf]: Commencement: Reg. 27 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

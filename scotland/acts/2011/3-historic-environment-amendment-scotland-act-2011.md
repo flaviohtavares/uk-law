@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 1 — Amendment of the Historic Buildings and Ancient Monuments Act 1953
 
-### 1. Recovery of grants for repair, maintenance and upkeep of certain property[^key-ee43dd84755bf866f58e9e75588e2f5d]
+### 1. Recovery of grants for repair, maintenance and upkeep of certain property[^c-ee43dd84755bf866f58e9e75588e2f5d]
 
 (1) Section 4A of the 1953 Act (recovery of grants under section 4) is amended in accordance with this section.
 
@@ -60,7 +60,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Control of works affecting scheduled monuments
 
-#### 2. Control of works affecting scheduled monuments[^key-1ca132a2c79edb062339e43fd66f7f51]
+#### 2. Control of works affecting scheduled monuments[^c-1ca132a2c79edb062339e43fd66f7f51]
 
 In section 2 of the 1979 Act (control of works affecting scheduled monuments)—
 
@@ -80,7 +80,7 @@ In section 2 of the 1979 Act (control of works affecting scheduled monuments)—
 
 ### Defences
 
-#### 3. Offences under sections 2, 28 and 42: modification of defences[^key-216afffeed4b8f08122bf7fb561c2be4]
+#### 3. Offences under sections 2, 28 and 42: modification of defences[^c-216afffeed4b8f08122bf7fb561c2be4]
 
 (1) The 1979 Act is amended in accordance with this section.
 
@@ -123,7 +123,7 @@ In section 2 of the 1979 Act (control of works affecting scheduled monuments)—
 
 ### Fines
 
-#### 4. Fines: increases and duty of court in determining amount[^key-8ab7d96dc02336f01b19b173009072d3]
+#### 4. Fines: increases and duty of court in determining amount[^c-8ab7d96dc02336f01b19b173009072d3]
 
 (1) The 1979 Act is amended in accordance with this section.
 
@@ -147,13 +147,13 @@ In section 2 of the 1979 Act (control of works affecting scheduled monuments)—
 
 ### Powers of entry
 
-#### 5. Powers of entry to inspect condition of scheduled monument[^key-d07937913a0c6db2192c8c2e65a3758a]
+#### 5. Powers of entry to inspect condition of scheduled monument[^c-d07937913a0c6db2192c8c2e65a3758a]
 
 In section 6(1) of the 1979 Act (powers of entry for inspection of scheduled monument with a view to ascertaining its condition), for “and” substitute “ ; and such power may, in particular, be exercised with a view to ascertaining— ”.
 
 ### Works affecting scheduled monuments: enforcement
 
-#### 6. Works affecting scheduled monuments: enforcement[^key-280556853004702df48ecc137e41ff86][^key-3eb54d6fe75facc2380af2b6deb3f9fb]
+#### 6. Works affecting scheduled monuments: enforcement[^c-280556853004702df48ecc137e41ff86][^c-3eb54d6fe75facc2380af2b6deb3f9fb]
 
 (1) After section 9 of the 1979 Act insert—
 
@@ -520,7 +520,7 @@ In section 6(1) of the 1979 Act (powers of entry for inspection of scheduled mon
 
 ### Monuments and associated land under guardianship
 
-#### 7. Control and management of monuments and land under guardianship[^key-8a193e5e52682c0ead1c7aa61ae63bd8]
+#### 7. Control and management of monuments and land under guardianship[^c-8a193e5e52682c0ead1c7aa61ae63bd8]
 
 (1) The 1979 Act is amended in accordance with this section.
 
@@ -578,7 +578,7 @@ In section 6(1) of the 1979 Act (powers of entry for inspection of scheduled mon
 
 ### Provision of facilities, etc. at ancient monuments
 
-#### 8. Provision of facilities, etc. at ancient monuments[^key-a0ae41bfb7fc5a1364e9e529b23f1c57]
+#### 8. Provision of facilities, etc. at ancient monuments[^c-a0ae41bfb7fc5a1364e9e529b23f1c57]
 
 In section 20 of the 1979 Act (provision of facilities for the public in connection with ancient monuments)—
 
@@ -599,7 +599,7 @@ In section 20 of the 1979 Act (provision of facilities for the public in connect
 
 ### Financial support in relation to ancient monuments
 
-#### 9. Financial support for preservation, etc. of monuments[^key-3b1ef6e7aee16903a0893ac89c20adf3]
+#### 9. Financial support for preservation, etc. of monuments[^c-3b1ef6e7aee16903a0893ac89c20adf3]
 
 In section 24 of the 1979 Act (expenditure by the Scottish Ministers or local authority on acquisition and preservation of ancient monuments etc.)—
 
@@ -622,7 +622,7 @@ In section 24 of the 1979 Act (expenditure by the Scottish Ministers or local au
 
 ### Power of entry where monument at risk
 
-#### 10. Power of entry on land where monument at risk[^key-d14d96e33c1e543c5cc1a9434e8889c1]
+#### 10. Power of entry on land where monument at risk[^c-d14d96e33c1e543c5cc1a9434e8889c1]
 
 In section 26 of the 1979 Act (power of entry on land believed to contain ancient monument)—
 
@@ -638,7 +638,7 @@ In section 26 of the 1979 Act (power of entry on land believed to contain ancien
 
 ### Inventories of gardens, designed landscapes and battlefields
 
-#### 11. Inventories of gardens and designed landscapes and of battlefields[^key-55e0c2fe1c861db134667f8c409e2d47]
+#### 11. Inventories of gardens and designed landscapes and of battlefields[^c-55e0c2fe1c861db134667f8c409e2d47]
 
 After section 32 of the 1979 Act insert—
 
@@ -683,7 +683,7 @@ After section 32 of the 1979 Act insert—
 
 ### Grants and loans
 
-#### 12. Development and understanding of matters of historic, etc. interest: grants and loans[^key-c2023e909e27eb8597cd564d03175092]
+#### 12. Development and understanding of matters of historic, etc. interest: grants and loans[^c-c2023e909e27eb8597cd564d03175092]
 
 After section 45 of the 1979 Act insert—
 
@@ -704,7 +704,7 @@ After section 45 of the 1979 Act insert—
 
 ### Regulations and orders
 
-#### 13. Regulations and orders under the 1979 Act[^key-3e9a3d3e890d6ce186af1b562d9ec5ca]
+#### 13. Regulations and orders under the 1979 Act[^c-3e9a3d3e890d6ce186af1b562d9ec5ca]
 
 Before subsection (1) of section 60 of the 1979 Act (regulations and orders) insert—
 
@@ -714,7 +714,7 @@ Before subsection (1) of section 60 of the 1979 Act (regulations and orders) ins
 
 ### Meaning of “monument”
 
-#### 14. Meaning of “monument” in the 1979 Act[^key-14c35e0eb94a3badd800b9008d76c4a1]
+#### 14. Meaning of “monument” in the 1979 Act[^c-14c35e0eb94a3badd800b9008d76c4a1]
 
 In section 61 of the 1979 Act (interpretation)—
 
@@ -731,7 +731,7 @@ In section 61 of the 1979 Act (interpretation)—
 
 ### Scheduled monument consent
 
-#### 15. Scheduled monument consent: applications, etc.[^key-b675251e0978685c4bd41ceb9c58a494][^key-c325888fb93d163ec9af971bd89e41e9]
+#### 15. Scheduled monument consent: applications, etc.[^c-b675251e0978685c4bd41ceb9c58a494][^c-c325888fb93d163ec9af971bd89e41e9]
 
 (1) Schedule 1 to the 1979 Act (control of works affecting scheduled monuments) is amended in accordance with subsections (2) and (3).
 
@@ -767,7 +767,7 @@ In section 61 of the 1979 Act (interpretation)—
 
 (4) In subsection (11) of section 2 of that Act (control of works affecting scheduled monuments), after “for,” insert “ the manner of granting, and the form, content ”.
 
-#### 16. Refusal to entertain certain applications for scheduled monument consent[^key-814489a37af2556150eb5424cee67be2]
+#### 16. Refusal to entertain certain applications for scheduled monument consent[^c-814489a37af2556150eb5424cee67be2]
 
 After paragraph 2A of Schedule 1 to the 1979 Act insert—
 
@@ -788,7 +788,7 @@ After paragraph 2A of Schedule 1 to the 1979 Act insert—
 
 ### Inquiries and hearings
 
-#### 17. Application for scheduled monument consent: inquiries and hearings[^key-0d966617c089c78a569ebe577ce29bc0]
+#### 17. Application for scheduled monument consent: inquiries and hearings[^c-0d966617c089c78a569ebe577ce29bc0]
 
 In paragraph 3(2) of Schedule 1 to the 1979 Act (control of works affecting scheduled monuments), for “shall” substitute “ may ”.
 
@@ -796,7 +796,7 @@ In paragraph 3(2) of Schedule 1 to the 1979 Act (control of works affecting sche
 
 ### Certificate that building not intended to be listed
 
-#### 18. Certificate that building not intended to be listed[^key-132c73522a41e9d379128886e19c9873]
+#### 18. Certificate that building not intended to be listed[^c-132c73522a41e9d379128886e19c9873]
 
 (1) After section 5 of the 1997 Act insert—
 
@@ -819,13 +819,13 @@ In paragraph 3(2) of Schedule 1 to the 1979 Act (control of works affecting sche
 
 ### Offences under section 8: fines
 
-#### 19. Offences in relation to unauthorised works and listed building consent: increase in fines[^key-55a18261faf642d54c862a6a3808b8ab]
+#### 19. Offences in relation to unauthorised works and listed building consent: increase in fines[^c-55a18261faf642d54c862a6a3808b8ab]
 
 In subsection (4)(a) of section 8 of the 1997 Act (offences), for “£20,000” substitute “ £50,000 ”.
 
 ### Declining to determine applications for listed building consent
 
-#### 20. Declining to determine an application for listed building consent[^key-44e7f64f1ee1313211d92d7017acdf55][^key-c052611ecb9724f8ce56f829ce1d80fd]
+#### 20. Declining to determine an application for listed building consent[^c-44e7f64f1ee1313211d92d7017acdf55][^c-c052611ecb9724f8ce56f829ce1d80fd]
 
 (1) After section 10 of the 1997 Act, insert—
 
@@ -868,7 +868,7 @@ In subsection (4)(a) of section 8 of the 1997 Act (offences), for “£20,000”
 
 ### Applications and appeals: hearings
 
-#### 21. Hearings in connection with applications for listed building consent and appeals[^key-4d6e2270cb0e2c95951710c11346a9bd]
+#### 21. Hearings in connection with applications for listed building consent and appeals[^c-4d6e2270cb0e2c95951710c11346a9bd]
 
 In the 1997 Act—
 
@@ -880,7 +880,7 @@ In the 1997 Act—
 
 ### Enforcement notices, stop notices and temporary stop notices
 
-#### 22. Enforcement notice: requirement to cease works[^key-b238502dbdc1233384d31e5d3af48e28]
+#### 22. Enforcement notice: requirement to cease works[^c-b238502dbdc1233384d31e5d3af48e28]
 
 (1) The 1997 Act is amended in accordance with this section.
 
@@ -926,7 +926,7 @@ In the 1997 Act—
 
 (5) In section 40(1) (effect of listed building consent on listed building enforcement notice), after “as”, where it first occurs, insert “ such work is or such works are required by the notice to cease, or in so far as ”.
 
-#### 23. Stop notices and temporary stop notices[^key-05f06e53270652ab40ae485d4cd293cf][^key-6ae1d30d0e55befdcb3ec646a5e62a28]
+#### 23. Stop notices and temporary stop notices[^c-05f06e53270652ab40ae485d4cd293cf][^c-6ae1d30d0e55befdcb3ec646a5e62a28]
 
 (1) After section 41 of the 1997 Act insert—
 
@@ -1163,7 +1163,7 @@ In the 1997 Act—
 
 ### Fixed penalty notices
 
-#### 24. Non-compliance with listed building enforcement notice: fixed penalty notice[^key-4748cba5239e070f50c07fa6876a3449][^key-8d15ef42d2a94e168b848d5a83a35c56]
+#### 24. Non-compliance with listed building enforcement notice: fixed penalty notice[^c-4748cba5239e070f50c07fa6876a3449][^c-8d15ef42d2a94e168b848d5a83a35c56]
 
 After section 39 of the 1997 Act insert—
 
@@ -1205,13 +1205,13 @@ After section 39 of the 1997 Act insert—
 
 ### Urgent preservation
 
-#### 25. Urgent works to preserve unoccupied listed buildings[^key-ac1f191560a5b7bb2e932779cda69758]
+#### 25. Urgent works to preserve unoccupied listed buildings[^c-ac1f191560a5b7bb2e932779cda69758]
 
 In section 49 of the 1997 Act (urgent works to preserve unoccupied listed buildings), in subsection (3), at the end add “ and preventative works necessary to limit any deterioration of the building ”.
 
 ### Liability of owner and successors for expenses of urgent works
 
-#### 26. Liability of owner and successors for expenses of urgent works[^key-28ca452a5d36570846a677c9603b91af][^key-0a4818d86f140413b946d65baf6a3055]
+#### 26. Liability of owner and successors for expenses of urgent works[^c-28ca452a5d36570846a677c9603b91af][^c-0a4818d86f140413b946d65baf6a3055]
 
 (1) The 1997 Act is amended in accordance with subsections (2) and (3) of this section.
 
@@ -1365,7 +1365,7 @@ In section 49 of the 1997 Act (urgent works to preserve unoccupied listed buildi
 
 ### Recovery of grants for preservation of listed buildings, etc.
 
-#### 27. Recovery of grants for preservation, etc. of listed buildings and conservation areas[^key-065876edf3391f267cdda2056d4b8ba2]
+#### 27. Recovery of grants for preservation, etc. of listed buildings and conservation areas[^c-065876edf3391f267cdda2056d4b8ba2]
 
 (1) The 1997 Act is amended in accordance with this section.
 
@@ -1410,7 +1410,7 @@ In section 49 of the 1997 Act (urgent works to preserve unoccupied listed buildi
 
 ### Crown application
 
-#### 28. Provisions that do not bind the Crown[^key-1d95399aee438a96626f05c1ec9e0d1a]
+#### 28. Provisions that do not bind the Crown[^c-1d95399aee438a96626f05c1ec9e0d1a]
 
 In section 73A(2) of the 1997 Act (application to the Crown)—
 
@@ -1430,7 +1430,7 @@ In section 73A(2) of the 1997 Act (application to the Crown)—
 
 #### 29. Regulations in connection with inquiries, etc.
 
-(1)[^key-3d98487ab8caba94ba198244c757d35f] In section 79(1) of the 1997 Act (application of certain general provisions of the Town and Country Planning (Scotland) Act 1997), after the reference to section 273 (offences by corporations) insert— “ section 275A (further provision as regards regulations: inquiries, etc.), ”.
+(1)[^c-3d98487ab8caba94ba198244c757d35f] In section 79(1) of the 1997 Act (application of certain general provisions of the Town and Country Planning (Scotland) Act 1997), after the reference to section 273 (offences by corporations) insert— “ section 275A (further provision as regards regulations: inquiries, etc.), ”.
 
 (2) In subsection (5) of section 9 of the Tribunals and Inquiries Act 1992 (c.53) (procedure in connection with statutory inquiries)—
 
@@ -1445,7 +1445,7 @@ In section 73A(2) of the 1997 Act (application to the Crown)—
 
 ### Regulations and orders
 
-#### 30. Regulations and orders under the 1997 Act[^key-ba5e02ca8e2cf28e5e0a46e161010456]
+#### 30. Regulations and orders under the 1997 Act[^c-ba5e02ca8e2cf28e5e0a46e161010456]
 
 (1) Section 82 of the 1997 Act (regulations and orders) is amended in accordance with this section.
 
@@ -1513,74 +1513,74 @@ In this Act—
 
 ## Annotations
 
-[^key-ee43dd84755bf866f58e9e75588e2f5d]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2011/3/section/1) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-ee43dd84755bf866f58e9e75588e2f5d]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2011/3/section/1) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
-[^key-1ca132a2c79edb062339e43fd66f7f51]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2011/3/section/2) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-1ca132a2c79edb062339e43fd66f7f51]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2011/3/section/2) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-216afffeed4b8f08122bf7fb561c2be4]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2011/3/section/3) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-216afffeed4b8f08122bf7fb561c2be4]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2011/3/section/3) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-8ab7d96dc02336f01b19b173009072d3]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2011/3/section/4) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-8ab7d96dc02336f01b19b173009072d3]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2011/3/section/4) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-d07937913a0c6db2192c8c2e65a3758a]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2011/3/section/5) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-d07937913a0c6db2192c8c2e65a3758a]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2011/3/section/5) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
-[^key-280556853004702df48ecc137e41ff86]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2011/3/section/6) in force for specified purposes at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-280556853004702df48ecc137e41ff86]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2011/3/section/6) in force for specified purposes at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
-[^key-3eb54d6fe75facc2380af2b6deb3f9fb]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2011/3/section/6) in force in so far as not already in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-3eb54d6fe75facc2380af2b6deb3f9fb]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2011/3/section/6) in force in so far as not already in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-8a193e5e52682c0ead1c7aa61ae63bd8]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2011/3/section/7) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-8a193e5e52682c0ead1c7aa61ae63bd8]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2011/3/section/7) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
-[^key-a0ae41bfb7fc5a1364e9e529b23f1c57]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2011/3/section/8) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-a0ae41bfb7fc5a1364e9e529b23f1c57]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2011/3/section/8) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
-[^key-3b1ef6e7aee16903a0893ac89c20adf3]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2011/3/section/9) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-3b1ef6e7aee16903a0893ac89c20adf3]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2011/3/section/9) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
-[^key-d14d96e33c1e543c5cc1a9434e8889c1]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2011/3/section/10) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-d14d96e33c1e543c5cc1a9434e8889c1]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2011/3/section/10) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-55e0c2fe1c861db134667f8c409e2d47]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2011/3/section/11) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-55e0c2fe1c861db134667f8c409e2d47]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2011/3/section/11) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
-[^key-c2023e909e27eb8597cd564d03175092]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2011/3/section/12) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-c2023e909e27eb8597cd564d03175092]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2011/3/section/12) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
-[^key-3e9a3d3e890d6ce186af1b562d9ec5ca]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2011/3/section/13) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-3e9a3d3e890d6ce186af1b562d9ec5ca]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2011/3/section/13) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
-[^key-14c35e0eb94a3badd800b9008d76c4a1]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2011/3/section/14) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-14c35e0eb94a3badd800b9008d76c4a1]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2011/3/section/14) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-b675251e0978685c4bd41ceb9c58a494]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2011/3/section/15) in force for specified purposes at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-b675251e0978685c4bd41ceb9c58a494]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2011/3/section/15) in force for specified purposes at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
-[^key-c325888fb93d163ec9af971bd89e41e9]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2011/3/section/15) in force in so far as not already in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-c325888fb93d163ec9af971bd89e41e9]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2011/3/section/15) in force in so far as not already in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-814489a37af2556150eb5424cee67be2]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2011/3/section/16) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-814489a37af2556150eb5424cee67be2]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2011/3/section/16) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-0d966617c089c78a569ebe577ce29bc0]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2011/3/section/17) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-0d966617c089c78a569ebe577ce29bc0]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2011/3/section/17) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-132c73522a41e9d379128886e19c9873]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2011/3/section/18) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-132c73522a41e9d379128886e19c9873]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2011/3/section/18) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-55a18261faf642d54c862a6a3808b8ab]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2011/3/section/19) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-55a18261faf642d54c862a6a3808b8ab]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2011/3/section/19) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-44e7f64f1ee1313211d92d7017acdf55]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2011/3/section/20) in force for specified purposes at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-44e7f64f1ee1313211d92d7017acdf55]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2011/3/section/20) in force for specified purposes at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
-[^key-c052611ecb9724f8ce56f829ce1d80fd]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2011/3/section/20) in force in so far as not already in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-c052611ecb9724f8ce56f829ce1d80fd]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2011/3/section/20) in force in so far as not already in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-4d6e2270cb0e2c95951710c11346a9bd]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2011/3/section/21) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-4d6e2270cb0e2c95951710c11346a9bd]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2011/3/section/21) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-b238502dbdc1233384d31e5d3af48e28]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2011/3/section/22) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-b238502dbdc1233384d31e5d3af48e28]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2011/3/section/22) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-05f06e53270652ab40ae485d4cd293cf]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2011/3/section/23) in force for specified purposes at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-05f06e53270652ab40ae485d4cd293cf]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2011/3/section/23) in force for specified purposes at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
-[^key-6ae1d30d0e55befdcb3ec646a5e62a28]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2011/3/section/23) in force in so far as not already in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-6ae1d30d0e55befdcb3ec646a5e62a28]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2011/3/section/23) in force in so far as not already in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-4748cba5239e070f50c07fa6876a3449]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2011/3/section/24) in force for specified purposes at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-4748cba5239e070f50c07fa6876a3449]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2011/3/section/24) in force for specified purposes at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
-[^key-8d15ef42d2a94e168b848d5a83a35c56]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2011/3/section/24) in force in so far as not already in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-8d15ef42d2a94e168b848d5a83a35c56]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2011/3/section/24) in force in so far as not already in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-ac1f191560a5b7bb2e932779cda69758]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2011/3/section/25) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-ac1f191560a5b7bb2e932779cda69758]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2011/3/section/25) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-28ca452a5d36570846a677c9603b91af]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2011/3/section/26) in force for specified purposes at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-28ca452a5d36570846a677c9603b91af]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2011/3/section/26) in force for specified purposes at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
-[^key-0a4818d86f140413b946d65baf6a3055]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2011/3/section/26) in force in so far as not already in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-0a4818d86f140413b946d65baf6a3055]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2011/3/section/26) in force in so far as not already in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-065876edf3391f267cdda2056d4b8ba2]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2011/3/section/27) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-065876edf3391f267cdda2056d4b8ba2]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2011/3/section/27) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
-[^key-1d95399aee438a96626f05c1ec9e0d1a]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2011/3/section/28) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-1d95399aee438a96626f05c1ec9e0d1a]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2011/3/section/28) in force at 1.12.2011 by [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-3d98487ab8caba94ba198244c757d35f]: Commencement: [S. 29(1)](https://www.legislation.gov.uk/asp/2011/3/section/29/1) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-3d98487ab8caba94ba198244c757d35f]: Commencement: [S. 29(1)](https://www.legislation.gov.uk/asp/2011/3/section/29/1) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
-[^key-ba5e02ca8e2cf28e5e0a46e161010456]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2011/3/section/30) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-ba5e02ca8e2cf28e5e0a46e161010456]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2011/3/section/30) in force at 30.6.2011 by [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)

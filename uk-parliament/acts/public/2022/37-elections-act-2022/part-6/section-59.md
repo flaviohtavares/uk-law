@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Offences committed by unincorporated associations etc[^key-2f8648f620758177f47f79485545b6e5][^key-979501b8e47267f8e0c97131e0b65524]
+## 59. Offences committed by unincorporated associations etc[^c-2f8648f620758177f47f79485545b6e5][^c-979501b8e47267f8e0c97131e0b65524]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ the officer or member, as well as the association, is guilty of that offence and
 
 ## Annotations
 
-[^key-2f8648f620758177f47f79485545b6e5]: Commencement: S. 59 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-2f8648f620758177f47f79485545b6e5]: Commencement: S. 59 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-979501b8e47267f8e0c97131e0b65524]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2022/37/section/59) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-979501b8e47267f8e0c97131e0b65524]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2022/37/section/59) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))

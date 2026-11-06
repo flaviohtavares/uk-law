@@ -47,7 +47,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ## PART 1 — Introduction
 
-### 1. Title, application and coming into force[^key-c9427970767bda4581149e0930708a5b]
+### 1. Title, application and coming into force[^c-c9427970767bda4581149e0930708a5b]
 
 (1) The title of these Regulations is the Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024.
 
@@ -59,11 +59,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ## PART 2 — Amendments to secondary legislation coming into force on 19 January 2024
 
-### 2. Amendments to the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989[^key-c2f04a8df63ea9bd4b7a62c2a3c325b6]
+### 2. Amendments to the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989[^c-c2f04a8df63ea9bd4b7a62c2a3c325b6]
 
 In regulation 3(1) (interpretation) of the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989[^f00007], in the definition of “the amount payable”, in sub-paragraph (a), for “paragraphs 1 to 7, and 10 of Schedule 4ZA or paragraphs 1 to 3 of Schedule 4ZB to” substitute “section 43(4) to (6) or 45(4) to (6) of”.
 
-### 3. Amendments to the Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017[^key-288b6ed0c7000beadc199d859ca63462]
+### 3. Amendments to the Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017[^c-288b6ed0c7000beadc199d859ca63462]
 
 (1) Schedule 1 (matters to be contained in demand notices) to the Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017[^f00008] is amended as follows.
 
@@ -83,7 +83,7 @@ In regulation 3(1) (interpretation) of the Non-Domestic Rating (Collection and E
 - (b) in sub-paragraph (b), for “paragraph 10(2) of Schedule 4ZA to” substitute “section 44(2) and (2A) of”;
 - (c) for “paragraph 1 of Schedule 4ZA, without modification, and (so far as is relevant) paragraph 10(2) of Schedule 4ZA” substitute “section 43(4), without modification, and (so far as is relevant) section 44(2)”.
 
-### 4. Amendments to the Non-Domestic Rating (Small Business Relief) (Wales) Order 2017[^key-c1f5fcdb0af37c24ab2b311ff3150233]
+### 4. Amendments to the Non-Domestic Rating (Small Business Relief) (Wales) Order 2017[^c-c1f5fcdb0af37c24ab2b311ff3150233]
 
 (1) The Non-Domestic Rating (Small Business Relief) (Wales) Order 2017[^f00009] is amended as follows.
 
@@ -95,7 +95,7 @@ In regulation 3(1) (interpretation) of the Non-Domestic Rating (Collection and E
 
 (5) In article 10 (amount of E), for “paragraph 10(6) of Schedule 4ZA to” substitute “section 44(9) of”.
 
-### 5. Amendments to the Non-Domestic Rating Act 2023 (Consequential Amendments to Secondary Legislation) (Wales) Regulations 2023[^key-755d2d402a3f2a4c559f5397ec2a16be]
+### 5. Amendments to the Non-Domestic Rating Act 2023 (Consequential Amendments to Secondary Legislation) (Wales) Regulations 2023[^c-755d2d402a3f2a4c559f5397ec2a16be]
 
 (1) The Non-Domestic Rating Act 2023 (Consequential Amendments to Secondary Legislation) (Wales) Regulations 2023[^f00010] are amended as follows.
 
@@ -111,15 +111,15 @@ In regulation 3(1) (interpretation) of the Non-Domestic Rating (Collection and E
 
 ## PART 3 — Amendments to secondary legislation coming into force on 1 April 2024
 
-### 6. Amendment to the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989[^key-334bf8e544c069d2657bf9d08ed1c4ea]
+### 6. Amendment to the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989[^c-334bf8e544c069d2657bf9d08ed1c4ea]
 
 In regulation 3(1) (interpretation) of the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989, in the definition of “the amount payable”, in sub-paragraph (a), for “section 43(4) to (6) or 45(4) to (6) of” substitute “any provision of or made under Schedule 4ZA or Schedule 4ZB to”.
 
-### 7. Amendment to the Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990[^key-efb16d0bb2861e29a0074e09573f1461]
+### 7. Amendment to the Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990[^c-efb16d0bb2861e29a0074e09573f1461]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendments to the Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017[^key-4945a96e49030a0a2e7a6318bcc9d06c]
+### 8. Amendments to the Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017[^c-4945a96e49030a0a2e7a6318bcc9d06c]
 
 (1) Schedule 1 (matters to be contained in demand notices) to the Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017 is amended as follows.
 
@@ -139,7 +139,7 @@ In regulation 3(1) (interpretation) of the Non-Domestic Rating (Collection and E
 - (b) in sub-paragraph (b), for “section 44(2) and (2A) of” substitute “paragraph 10(2) of Schedule 4ZA to”;
 - (c) for “section 43(4), without modification, and (so far as is relevant) section 44(2)” substitute “paragraph 1 of Schedule 4ZA, without modification, and (so far as is relevant) paragraph 10(2) of Schedule 4ZA”.
 
-### 9. Amendments to the Non-Domestic Rating (Small Business Relief) (Wales) Order 2017[^key-16133f9f13f8945189e39b70efd27be1]
+### 9. Amendments to the Non-Domestic Rating (Small Business Relief) (Wales) Order 2017[^c-16133f9f13f8945189e39b70efd27be1]
 
 (1) The Non-Domestic Rating (Small Business Relief) (Wales) Order 2017 is amended as follows.
 
@@ -191,28 +191,28 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00006]: Footnote: [2023 c. 53](https://www.legislation.gov.uk/ukpga/2023/53). See section 17(3) for the definition of “the appropriate national authority”.
 
-[^key-c9427970767bda4581149e0930708a5b]: Commencement: Reg. 1 in force at 19.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3)
+[^c-c9427970767bda4581149e0930708a5b]: Commencement: Reg. 1 in force at 19.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3)
 
-[^key-c2f04a8df63ea9bd4b7a62c2a3c325b6]: Commencement: Reg. 2 in force at 19.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3)
+[^c-c2f04a8df63ea9bd4b7a62c2a3c325b6]: Commencement: Reg. 2 in force at 19.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3)
 
 [^f00007]: Footnote: [S.I. 1989/1058](https://www.legislation.gov.uk/uksi/1989/1058); relevant amending instruments are [S.I. 1991/141](https://www.legislation.gov.uk/uksi/1991/141), [S.I. 1993/616](https://www.legislation.gov.uk/uksi/1993/616) and [S.I. 2023/1154 (W. 199)](https://www.legislation.gov.uk/wsi/2023/1154).
 
-[^key-288b6ed0c7000beadc199d859ca63462]: Commencement: Reg. 3 in force at 19.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3)
+[^c-288b6ed0c7000beadc199d859ca63462]: Commencement: Reg. 3 in force at 19.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3)
 
 [^f00008]: Footnote: [S.I. 2017/113 (W. 39)](https://www.legislation.gov.uk/wsi/2017/113), amended by [S.I. 2023/1154 (W. 199)](https://www.legislation.gov.uk/wsi/2023/1154); there are other amending instruments but none is relevant.
 
-[^key-c1f5fcdb0af37c24ab2b311ff3150233]: Commencement: Reg. 4 in force at 19.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3)
+[^c-c1f5fcdb0af37c24ab2b311ff3150233]: Commencement: Reg. 4 in force at 19.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3)
 
 [^f00009]: Footnote: [S.I. 2017/1229 (W. 293)](https://www.legislation.gov.uk/wsi/2017/1229), amended by [S.I. 2018/1192 (W. 243)](https://www.legislation.gov.uk/wsi/2018/1192) and [S.I. 2023/1154 (W. 199)](https://www.legislation.gov.uk/wsi/2023/1154); there are other amending instruments but none is relevant.
 
-[^key-755d2d402a3f2a4c559f5397ec2a16be]: Commencement: Reg. 5 in force at 19.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3)
+[^c-755d2d402a3f2a4c559f5397ec2a16be]: Commencement: Reg. 5 in force at 19.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3)
 
 [^f00010]: Footnote: [S.I. 2023/1154 (W. 199)](https://www.legislation.gov.uk/wsi/2023/1154).
 
-[^key-334bf8e544c069d2657bf9d08ed1c4ea]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2024/37/regulation/6) in force at 1.4.2024, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4)
+[^c-334bf8e544c069d2657bf9d08ed1c4ea]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2024/37/regulation/6) in force at 1.4.2024, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4)
 
-[^key-efb16d0bb2861e29a0074e09573f1461]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/wsi/2024/37/regulation/7) omitted (1.4.2025) by virtue of [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/4), [27](https://www.legislation.gov.uk/wsi/2024/998/regulation/27)
+[^c-efb16d0bb2861e29a0074e09573f1461]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/wsi/2024/37/regulation/7) omitted (1.4.2025) by virtue of [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/4), [27](https://www.legislation.gov.uk/wsi/2024/998/regulation/27)
 
-[^key-4945a96e49030a0a2e7a6318bcc9d06c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2024/37/regulation/8) in force at 1.4.2024, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4)
+[^c-4945a96e49030a0a2e7a6318bcc9d06c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2024/37/regulation/8) in force at 1.4.2024, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4)
 
-[^key-16133f9f13f8945189e39b70efd27be1]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2024/37/regulation/9) in force at 1.4.2024, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4)
+[^c-16133f9f13f8945189e39b70efd27be1]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2024/37/regulation/9) in force at 1.4.2024, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4)

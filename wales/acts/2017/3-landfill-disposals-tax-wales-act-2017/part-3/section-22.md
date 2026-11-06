@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Calculation of taxable weight of material by WRA[^key-f782c63afbb81eeea36453df134493ee]
+## 22. Calculation of taxable weight of material by WRA[^c-f782c63afbb81eeea36453df134493ee]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f782c63afbb81eeea36453df134493ee]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2017/3/section/22) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-f782c63afbb81eeea36453df134493ee]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2017/3/section/22) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

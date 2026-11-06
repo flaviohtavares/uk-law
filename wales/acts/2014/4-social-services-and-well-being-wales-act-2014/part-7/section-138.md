@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 138. Funding of Safeguarding Boards[^key-1999fb313d49bcb06d86e0af95a7a741]
+## 138. Funding of Safeguarding Boards[^c-1999fb313d49bcb06d86e0af95a7a741]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1999fb313d49bcb06d86e0af95a7a741]: Commencement: S. 138 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-1999fb313d49bcb06d86e0af95a7a741]: Commencement: S. 138 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

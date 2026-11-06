@@ -32,7 +32,7 @@ summary: ''
 
 Social Care
 
-The Regulation of Care (Fitness of Employees in Relation to Care Services) (Scotland) (No. 2) Amendment Regulations 2009 (revoked)[^key-eed6b1ff0ac9b9e6f67909e9315b02ed]
+The Regulation of Care (Fitness of Employees in Relation to Care Services) (Scotland) (No. 2) Amendment Regulations 2009 (revoked)[^c-eed6b1ff0ac9b9e6f67909e9315b02ed]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 16th November 2009
 
-[^key-eed6b1ff0ac9b9e6f67909e9315b02ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eed6b1ff0ac9b9e6f67909e9315b02ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-eed6b1ff0ac9b9e6f67909e9315b02ed]
+## 1. Citation and commencement[^c-eed6b1ff0ac9b9e6f67909e9315b02ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Regulation of Care (Fitness of Employees in Relation to Care Services) (Scotland) (No. 2) Regulations 2009[^key-eed6b1ff0ac9b9e6f67909e9315b02ed]
+## 2. Amendment to the Regulation of Care (Fitness of Employees in Relation to Care Services) (Scotland) (No. 2) Regulations 2009[^c-eed6b1ff0ac9b9e6f67909e9315b02ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eed6b1ff0ac9b9e6f67909e9315b02ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eed6b1ff0ac9b9e6f67909e9315b02ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-eed6b1ff0ac9b9e6f67909e9315b02ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eed6b1ff0ac9b9e6f67909e9315b02ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eed6b1ff0ac9b9e6f67909e9315b02ed]: Textual amendment: Regulations revoked (1.8.2013) by The Registration of Social Workers and Social Service Workers in [Care Services (Scotland) Regulations 2013 (S.S.I. 2013/227)](https://www.legislation.gov.uk/ssi/2013/227), [regs. 1](https://www.legislation.gov.uk/ssi/2013/227/regulation/1), [8(1)(b)](https://www.legislation.gov.uk/ssi/2013/227/regulation/8/1/b)
+[^c-eed6b1ff0ac9b9e6f67909e9315b02ed]: Textual amendment: Regulations revoked (1.8.2013) by The Registration of Social Workers and Social Service Workers in [Care Services (Scotland) Regulations 2013 (S.S.I. 2013/227)](https://www.legislation.gov.uk/ssi/2013/227), [regs. 1](https://www.legislation.gov.uk/ssi/2013/227/regulation/1), [8(1)(b)](https://www.legislation.gov.uk/ssi/2013/227/regulation/8/1/b)

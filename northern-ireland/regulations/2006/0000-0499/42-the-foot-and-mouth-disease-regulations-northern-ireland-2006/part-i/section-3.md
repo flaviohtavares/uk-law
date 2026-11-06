@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Premises comprising common or unenclosed land[^key-752a207790c31fb8a159982fa36e8112]
+## 3. Premises comprising common or unenclosed land[^c-752a207790c31fb8a159982fa36e8112]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ For the purposes of these Regulations—
 
 ## Annotations
 
-[^key-752a207790c31fb8a159982fa36e8112]: Commencement: Reg. 3 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-752a207790c31fb8a159982fa36e8112]: Commencement: Reg. 3 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

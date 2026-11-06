@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217A. Power to impose duties about pornographic content[^key-2334b6d73a07d05447b2142e946457a0]
+## 217A. Power to impose duties about pornographic content[^c-2334b6d73a07d05447b2142e946457a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2334b6d73a07d05447b2142e946457a0]: Textual amendment: S. 217A and cross-heading inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 109(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/109/2), [255(3)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/c)
+[^c-2334b6d73a07d05447b2142e946457a0]: Textual amendment: S. 217A and cross-heading inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 109(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/109/2), [255(3)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/c)

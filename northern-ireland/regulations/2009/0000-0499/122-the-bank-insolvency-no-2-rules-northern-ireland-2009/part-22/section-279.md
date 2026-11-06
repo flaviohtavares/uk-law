@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 279. Punishment of offences[^key-299291747efb0c7b91475b4e5fc55cab]
+## 279. Punishment of offences[^c-299291747efb0c7b91475b4e5fc55cab]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 12.22 of the 1991 Rules.
 
 ## Annotations
 
-[^key-299291747efb0c7b91475b4e5fc55cab]: Commencement: Rule 279 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-299291747efb0c7b91475b4e5fc55cab]: Commencement: Rule 279 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

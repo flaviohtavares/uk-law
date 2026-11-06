@@ -24,9 +24,9 @@ summary: ''
 
 Section 137(8)
 
-**1.**[^key-1a8885b50303e48a1db3584ac1ce88be] The Local Government Act 1974 is amended in accordance with paragraphs 2 to 4.
+**1.**[^c-1a8885b50303e48a1db3584ac1ce88be] The Local Government Act 1974 is amended in accordance with paragraphs 2 to 4.
 
-**2.**[^key-a1bc8d05be1d3fbb41e6338f7f2b2bee] (1) Section 33 (consultation between Local Commissioner and other Commissioners and Ombudsmen) is amended as follows.
+**2.**[^c-a1bc8d05be1d3fbb41e6338f7f2b2bee] (1) Section 33 (consultation between Local Commissioner and other Commissioners and Ombudsmen) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -48,7 +48,7 @@ Section 137(8)
 - (a) for “or (3A)” substitute “, (3A) or (3B)”;
 - (b) for “or under the Housing Act 1996” substitute “, the Housing Act 1996 or the new homes ombudsman scheme”.
 
-**3.**[^key-17ba83a9d4ef1a98747f0e2fbaac6f9a] (1) Section 33ZA (collaborative working between Local Commissioners and others) is amended as follows.
+**3.**[^c-17ba83a9d4ef1a98747f0e2fbaac6f9a] (1) Section 33ZA (collaborative working between Local Commissioners and others) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -75,7 +75,7 @@ Section 137(8)
   ;
 - (c) in the words following paragraph (c) for “or (c)” substitute “, (c) or (d)”.
 
-**4.**[^key-23513042c27d22caa297e5ad3faa4704] In section 33ZB (arrangements for provision of administrative and other services), in subsection (4)—
+**4.**[^c-23513042c27d22caa297e5ad3faa4704] In section 33ZB (arrangements for provision of administrative and other services), in subsection (4)—
 
 - (a) in paragraph (c) omit the final “and”;
 - (b) at the end of paragraph (d) insert—
@@ -83,7 +83,7 @@ Section 137(8)
   > - (e) the new homes ombudsman, and
   > - (f) the person maintaining the new homes ombudsman scheme under arrangements made pursuant to section 136 of the Building Safety Act 2022.
 
-**5.**[^key-691104a63238d122d84683f8330506da] (1) Paragraph 10A of Schedule 2 to the Housing Act 1996 (housing complaints: collaborative working with Local Commissioners) is amended as follows.
+**5.**[^c-691104a63238d122d84683f8330506da] (1) Paragraph 10A of Schedule 2 to the Housing Act 1996 (housing complaints: collaborative working with Local Commissioners) is amended as follows.
 
 (2) In sub-paragraph (1)—
 
@@ -102,7 +102,7 @@ Section 137(8)
 - (a) after “Local Commissioner” insert “, the new homes ombudsman (or both)”;
 - (b) at the end insert “(or those persons)”.
 
-**6.**[^key-18e21d6fbec0243d4610def6a824160f] (1) The [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3) is amended as follows.
+**6.**[^c-18e21d6fbec0243d4610def6a824160f] (1) The [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3) is amended as follows.
 
 (2) In section 65(7) (consultation and co-operation with other ombudsmen)—
 
@@ -117,14 +117,14 @@ Section 137(8)
 
 ## Annotations
 
-[^key-1a8885b50303e48a1db3584ac1ce88be]: Commencement: Sch. 10 para. 1 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-1a8885b50303e48a1db3584ac1ce88be]: Commencement: Sch. 10 para. 1 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
 
-[^key-a1bc8d05be1d3fbb41e6338f7f2b2bee]: Commencement: Sch. 10 para. 2 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-a1bc8d05be1d3fbb41e6338f7f2b2bee]: Commencement: Sch. 10 para. 2 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
 
-[^key-17ba83a9d4ef1a98747f0e2fbaac6f9a]: Commencement: Sch. 10 para. 3 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-17ba83a9d4ef1a98747f0e2fbaac6f9a]: Commencement: Sch. 10 para. 3 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
 
-[^key-23513042c27d22caa297e5ad3faa4704]: Commencement: Sch. 10 para. 4 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-23513042c27d22caa297e5ad3faa4704]: Commencement: Sch. 10 para. 4 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
 
-[^key-691104a63238d122d84683f8330506da]: Commencement: Sch. 10 para. 5 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-691104a63238d122d84683f8330506da]: Commencement: Sch. 10 para. 5 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
 
-[^key-18e21d6fbec0243d4610def6a824160f]: Commencement: Sch. 10 para. 6 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-18e21d6fbec0243d4610def6a824160f]: Commencement: Sch. 10 para. 6 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)

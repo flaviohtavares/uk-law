@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Where a person (P) [^key-0ceba2de9241f7c95dae1cf7f02f46ad]... has a life expectancy of less than a year at the time when—
+(1) Where a person (P) [^c-0ceba2de9241f7c95dae1cf7f02f46ad]... has a life expectancy of less than a year at the time when—
 
 - (a) a retirement pension which is paid because Case A applies to P's reckonable service, or
 - (b) an ill-health pension
@@ -36,7 +36,7 @@ becomes payable to P, the Secretary of State may, on the application of P, commu
 
   B is the period (in years and fractions of a year) from the date on which the phased retirement pension was first paid until the date of the application (and accordingly if this period is 5 years or more no lump sum is payable in respect of a phased retirement pension).
 
-(3) Where a pension credit member (P) [^key-37076a4b2a675082bb75839e337dc0c8]... has a life expectancy of less than a year at any time before or at the time when a pension credit member's pension becomes payable to P, the Secretary of State may, on the application of P, commute the pension by paying a lump sum equal to 5 times the annual rate of the pension.
+(3) Where a pension credit member (P) [^c-37076a4b2a675082bb75839e337dc0c8]... has a life expectancy of less than a year at any time before or at the time when a pension credit member's pension becomes payable to P, the Secretary of State may, on the application of P, commute the pension by paying a lump sum equal to 5 times the annual rate of the pension.
 
 (4) An application must
 
@@ -51,6 +51,6 @@ becomes payable to P, the Secretary of State may, on the application of P, commu
 
 ## Annotations
 
-[^key-0ceba2de9241f7c95dae1cf7f02f46ad]: Textual amendment: Words in [reg. 118(1)](https://www.legislation.gov.uk/uksi/2010/990/regulation/118/1) omitted (1.4.2012) by virtue of [The Teachers’ Pensions (Amendment) Regulations 2012 (S.I. 2012/673)](https://www.legislation.gov.uk/uksi/2012/673), [regs. 1](https://www.legislation.gov.uk/uksi/2012/673/regulation/1), [7](https://www.legislation.gov.uk/uksi/2012/673/regulation/7)
+[^c-0ceba2de9241f7c95dae1cf7f02f46ad]: Textual amendment: Words in [reg. 118(1)](https://www.legislation.gov.uk/uksi/2010/990/regulation/118/1) omitted (1.4.2012) by virtue of [The Teachers’ Pensions (Amendment) Regulations 2012 (S.I. 2012/673)](https://www.legislation.gov.uk/uksi/2012/673), [regs. 1](https://www.legislation.gov.uk/uksi/2012/673/regulation/1), [7](https://www.legislation.gov.uk/uksi/2012/673/regulation/7)
 
-[^key-37076a4b2a675082bb75839e337dc0c8]: Textual amendment: Words in [reg. 118(3)](https://www.legislation.gov.uk/uksi/2010/990/regulation/118/3) omitted (1.4.2012) by virtue of [The Teachers’ Pensions (Amendment) Regulations 2012 (S.I. 2012/673)](https://www.legislation.gov.uk/uksi/2012/673), [regs. 1](https://www.legislation.gov.uk/uksi/2012/673/regulation/1), [7](https://www.legislation.gov.uk/uksi/2012/673/regulation/7)
+[^c-37076a4b2a675082bb75839e337dc0c8]: Textual amendment: Words in [reg. 118(3)](https://www.legislation.gov.uk/uksi/2010/990/regulation/118/3) omitted (1.4.2012) by virtue of [The Teachers’ Pensions (Amendment) Regulations 2012 (S.I. 2012/673)](https://www.legislation.gov.uk/uksi/2012/673), [regs. 1](https://www.legislation.gov.uk/uksi/2012/673/regulation/1), [7](https://www.legislation.gov.uk/uksi/2012/673/regulation/7)

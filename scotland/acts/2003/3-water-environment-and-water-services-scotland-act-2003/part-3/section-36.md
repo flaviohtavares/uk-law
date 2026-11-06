@@ -28,7 +28,7 @@ summary: ''
 - (b) provision for the delegation of functions,
 - (c) different provision for different purposes and different areas.
 
-(3) An order under [^key-329ae403335ada8df8e1952c0f4306aa]... 37, and regulations under section 8, 20, 22 or 23, may modify any enactment, instrument or document.
+(3) An order under [^c-329ae403335ada8df8e1952c0f4306aa]... 37, and regulations under section 8, 20, 22 or 23, may modify any enactment, instrument or document.
 
 (4) A statutory instrument containing an order or regulations under—
 
@@ -41,7 +41,7 @@ is subject to annulment in pursuance of a resolution of the Parliament.
 
 (6) No—
 
-- (a) order under section 4 [^key-61c43529ace9aba342ebb39db3373378]...,
+- (a) order under section 4 [^c-61c43529ace9aba342ebb39db3373378]...,
 - (b) regulations under section 25,
 - (c) order under section 37 or regulations under section 8, 20, 22 or 23 containing provisions which add to, replace or omit any part of the text of an Act,
 
@@ -49,6 +49,6 @@ is or are to be made unless a draft of the statutory instrument containing the o
 
 ## Annotations
 
-[^key-329ae403335ada8df8e1952c0f4306aa]: Textual amendment: Words in s. 36(3) repealed (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [Sch.](https://www.legislation.gov.uk/asp/2006/17/schedule); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-329ae403335ada8df8e1952c0f4306aa]: Textual amendment: Words in s. 36(3) repealed (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [Sch.](https://www.legislation.gov.uk/asp/2006/17/schedule); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
 
-[^key-61c43529ace9aba342ebb39db3373378]: Textual amendment: Words in s. 36(6)(a) repealed (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [Sch.](https://www.legislation.gov.uk/asp/2006/17/schedule); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-61c43529ace9aba342ebb39db3373378]: Textual amendment: Words in s. 36(6)(a) repealed (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [Sch.](https://www.legislation.gov.uk/asp/2006/17/schedule); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

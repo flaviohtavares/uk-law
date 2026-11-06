@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Trade enforcement: application of CEMA[^key-05a51b8281dd3cc39f46e77efa53b6cc][^key-b43ddd7271db4885a12ca395972cc0b1]
+## 61. Trade enforcement: application of CEMA[^c-05a51b8281dd3cc39f46e77efa53b6cc][^c-b43ddd7271db4885a12ca395972cc0b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ the matter is to be treated as an assigned matter.
 - (c) regulation 52(6) (general trade licences: records), or
 - (d) regulation 53(5) (general trade licences: inspection of records).
 
-(3A)[^key-b5ed7fe0a2ca3c398a8e3b6bd1f293e4] The Commissioners may not investigate the suspected commission of a relevant offence listed in paragraph (3B), (3C) or (3D), unless the suspected offence has been the subject of—
+(3A)[^c-b5ed7fe0a2ca3c398a8e3b6bd1f293e4] The Commissioners may not investigate the suspected commission of a relevant offence listed in paragraph (3B), (3C) or (3D), unless the suspected offence has been the subject of—
 
 - (a) a referral to the Commissioners by the Secretary of State, or
 - (b) a decision by the Commissioners to treat the suspected offence as if it had been referred to them under sub-paragraph (a).
@@ -48,7 +48,7 @@ the matter is to be treated as an assigned matter.
 - (c) regulation 25(3) (technical assistance relating to restricted goods and restricted technology) insofar as the offence does not relate to the import or export of goods or the transfer of technology to or from the UK, to military goods and military technology, missile-list goods and missile-list technology, nuclear-list goods and nuclear list technology, other restricted goods and restricted technology, or graphite and relevant metals;
 - (d) regulation 26(5) (financial services and funds relating to restricted goods and restricted technology) insofar as the offence does not relate to the import or export of goods or the transfer of technology to or from the UK, to military goods and military technology, missile-list goods and missile-list technology, nuclear-list goods and nuclear-list technology, other restricted goods and restricted technology, or graphite and relevant metals;
 - (e) regulation 27(3) (brokering services: non-UK activity relating to restricted goods and restricted technology) insofar as the offence does not relate to the import or export of goods or the transfer of technology to or from the UK, to military goods and military technology, missile-list goods and missile list technology, nuclear-list goods and nuclear-list technology, other restricted goods and restricted technology, or graphite and relevant metals;
-- (f)[^key-81ee36be79a4bc13a54bde62b778839e] regulation 27B (supply and delivery of gold, precious metals and diamonds to Iran), insofar as the offence does not relate to the import or export of goods;
+- (f)[^c-81ee36be79a4bc13a54bde62b778839e] regulation 27B (supply and delivery of gold, precious metals and diamonds to Iran), insofar as the offence does not relate to the import or export of goods;
 - (g) regulation 27C (making available gold, precious metals and diamonds), insofar as the offence does not relate to the import or export of goods;
 - (h) regulation 27D (technical assistance relating to gold, precious metals and diamonds), insofar as the offence does not relate to the import or export of goods;
 - (i) regulation 27E (financial services and funds relating to gold, precious metals and diamonds), insofar as the offence does not relate to the import or export of goods;
@@ -119,19 +119,19 @@ the matter is to be treated as an assigned matter.
 
 (6) The provisions of CEMA are sections 145, 146, 147, 148(1), 150, 151, 152, 154 and 155 [^c23622171] (legal proceedings).
 
-(7)[^key-f5a7f8c58219c3d0b7c04cb68baffcb6] Any term in this regulation that is defined in regulation 34 (interpretation of Part 5: Trade) bears the same meaning as in that regulation.
+(7)[^c-f5a7f8c58219c3d0b7c04cb68baffcb6] Any term in this regulation that is defined in regulation 34 (interpretation of Part 5: Trade) bears the same meaning as in that regulation.
 
 ## Annotations
 
-[^key-05a51b8281dd3cc39f46e77efa53b6cc]: Commencement: Reg. 61 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-05a51b8281dd3cc39f46e77efa53b6cc]: Commencement: Reg. 61 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-b43ddd7271db4885a12ca395972cc0b1]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2019/461/regulation/61) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b43ddd7271db4885a12ca395972cc0b1]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2019/461/regulation/61) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23622141]: Marginal citation: The definition of “assigned matter” in section 1(1) of CEMA was amended by the [Commissioners for Revenue and Customs Act 2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11), [Schedule 4](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4), [paragraph 22(a)](https://www.legislation.gov.uk/ukpga/2005/11/paragraph/22/a); the [Scotland Act 2012 (c.11)](https://www.legislation.gov.uk/ukpga/2012/11), [section 24(7)](https://www.legislation.gov.uk/ukpga/2012/11/section/24/7); and the [Wales Act 2014 (c.29)](https://www.legislation.gov.uk/ukpga/2014/29), [section 7(1)](https://www.legislation.gov.uk/ukpga/2014/29/section/7/1).
 
-[^key-b5ed7fe0a2ca3c398a8e3b6bd1f293e4]: Textual amendment: [Reg. 61(3A)-(3D)](https://www.legislation.gov.uk/uksi/2019/461/regulation/61/3A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [5(10)](https://www.legislation.gov.uk/uksi/2024/644/regulation/5/10)
+[^c-b5ed7fe0a2ca3c398a8e3b6bd1f293e4]: Textual amendment: [Reg. 61(3A)-(3D)](https://www.legislation.gov.uk/uksi/2019/461/regulation/61/3A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [5(10)](https://www.legislation.gov.uk/uksi/2024/644/regulation/5/10)
 
-[^key-81ee36be79a4bc13a54bde62b778839e]: Textual amendment: [Reg. 61(3B)(f)-(z26)](https://www.legislation.gov.uk/uksi/2019/461/regulation/61/3B/f) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2026/983/regulation/11/3)
+[^c-81ee36be79a4bc13a54bde62b778839e]: Textual amendment: [Reg. 61(3B)(f)-(z26)](https://www.legislation.gov.uk/uksi/2019/461/regulation/61/3B/f) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2026/983/regulation/11/3)
 
 [^c23622151]: Marginal citation: [Section 138](https://www.legislation.gov.uk/uksi/2019/461/section/138) of CEMA was amended by the [Police and Criminal Evidence Act 1984 (c.60)](https://www.legislation.gov.uk/ukpga/1984/60), [section 114(1)](https://www.legislation.gov.uk/ukpga/1984/60/section/114/1), [Schedule 6](https://www.legislation.gov.uk/ukpga/1984/60/schedule/6), [paragraph 37](https://www.legislation.gov.uk/ukpga/1984/60/paragraph/37) and Schedule 7, Part 1; the [Finance Act 1988 (c.39)](https://www.legislation.gov.uk/ukpga/1988/39), [section 11](https://www.legislation.gov.uk/ukpga/1988/39/section/11); the [Serious Organised Crime and Police Act 2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15), [Schedule 7](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7), [paragraph 54](https://www.legislation.gov.uk/ukpga/2005/15/paragraph/54); [S.I](https://www.legislation.gov.uk/uksi/2019/461/section/I) 1989/1341; and [S.I. 2007/288](https://www.legislation.gov.uk/uksi/2007/288).
 
@@ -139,4 +139,4 @@ the matter is to be treated as an assigned matter.
 
 [^c23622171]: Marginal citation: [Section 145](https://www.legislation.gov.uk/uksi/2019/461/section/145) of CEMA was amended by the Police and Criminal Evidence Act 1984, section 114(1); the Commissioners for Revenue and Customs Act 2005, Schedule 4, paragraph 23(a); and [S.I. 2014/834](https://www.legislation.gov.uk/uksi/2014/834). Section 147 was amended by the [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), [Schedule 14](https://www.legislation.gov.uk/ukpga/1982/48/schedule/14), [paragraph 42](https://www.legislation.gov.uk/ukpga/1982/48/paragraph/42); the Finance Act 1989, section 16(2); and the Criminal Justice Act 2003, Schedule 3, paragraph 50. Section 152 was amended by the Commissioners for Revenue and Customs Act 2005, Schedule 4, paragraph 26, and Schedule 5. Section 155 was amended by the Commissioners for Revenue and Customs Act 2005, Schedule, 4, paragraph 27, and Schedule 5.
 
-[^key-f5a7f8c58219c3d0b7c04cb68baffcb6]: Textual amendment: [Reg. 61(7)](https://www.legislation.gov.uk/uksi/2019/461/regulation/61/7) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [5(11)](https://www.legislation.gov.uk/uksi/2024/644/regulation/5/11)
+[^c-f5a7f8c58219c3d0b7c04cb68baffcb6]: Textual amendment: [Reg. 61(7)](https://www.legislation.gov.uk/uksi/2019/461/regulation/61/7) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [5(11)](https://www.legislation.gov.uk/uksi/2024/644/regulation/5/11)

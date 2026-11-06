@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2[^key-95732a6743646c6d4493544848082463]
+## SCHEDULE 2[^c-95732a6743646c6d4493544848082463]
 
 *Extent: E+W*
 
@@ -156,7 +156,7 @@ Rule 28
 
 ## Annotations
 
-[^key-95732a6743646c6d4493544848082463]: Commencement: Sch. 2 in force at 1.10.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/2317/rule/1)
+[^c-95732a6743646c6d4493544848082463]: Commencement: Sch. 2 in force at 1.10.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/2317/rule/1)
 
 [^f00024]: Footnote: [1987 c. 38](https://www.legislation.gov.uk/ukpga/1987/38); section 9(11) was amended by section 310 of the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 

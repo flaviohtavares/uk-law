@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Site restoration work: variation of approval[^key-8d5b7f09ca7837f95316e9f050e440cd]
+## 31. Site restoration work: variation of approval[^c-8d5b7f09ca7837f95316e9f050e440cd]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d5b7f09ca7837f95316e9f050e440cd]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2017/3/section/31) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(g)](https://www.legislation.gov.uk/wsi/2018/35/article/2/g)
+[^c-8d5b7f09ca7837f95316e9f050e440cd]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2017/3/section/31) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(g)](https://www.legislation.gov.uk/wsi/2018/35/article/2/g)

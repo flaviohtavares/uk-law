@@ -24,7 +24,7 @@ summary: ''
 
 - (a) P leaves all eligible employment;
 - (b) within 6 months after leaving all eligible employment, P enters a new employment; and
-- (c) on the day after the entitlement day referred to in regulation 92 the reduced annual rate of P's pensionable earnings in the new employment does not exceed 80% of the average annual rate of P's pensionable earnings for the last 12 months[^key-e1ad8586c52ddc7f29b8f45a14d944ac] of the previous employment.
+- (c) on the day after the entitlement day referred to in regulation 92 the reduced annual rate of P's pensionable earnings in the new employment does not exceed 80% of the average annual rate of P's pensionable earnings for the last 12 months[^c-e1ad8586c52ddc7f29b8f45a14d944ac] of the previous employment.
 
 (2) In this regulation—
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1ad8586c52ddc7f29b8f45a14d944ac]: Textual amendment: Words in [reg. 91(1)(c)](https://www.legislation.gov.uk/uksi/2014/512/regulation/91/c) substituted (30.11.2017) by [The Teachers Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [12](https://www.legislation.gov.uk/uksi/2017/1084/regulation/12)
+[^c-e1ad8586c52ddc7f29b8f45a14d944ac]: Textual amendment: Words in [reg. 91(1)(c)](https://www.legislation.gov.uk/uksi/2014/512/regulation/91/c) substituted (30.11.2017) by [The Teachers Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [12](https://www.legislation.gov.uk/uksi/2017/1084/regulation/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Applications for case management orders[^key-a4eac683a61ce1668777f7be9eee9c51]
+## 31. Applications for case management orders[^c-a4eac683a61ce1668777f7be9eee9c51]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4eac683a61ce1668777f7be9eee9c51]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2024/1155/rule/31) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-a4eac683a61ce1668777f7be9eee9c51]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2024/1155/rule/31) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

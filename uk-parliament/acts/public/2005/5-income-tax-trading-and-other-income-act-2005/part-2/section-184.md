@@ -22,8 +22,8 @@ summary: ''
 
 (1) If the work in progress is transferred for money or other valuable consideration to a person who—
 
-- (a) carries on, or intends to carry on, a trade,[^key-9a3cd0728aea4a39bc7c8eb45f763af5] profession or vocation in the United Kingdom, and
-- (b) is entitled to deduct the cost of the work as an expense in calculating the profits of that trade,[^key-e0b19a3b9c36a5daf2b00a8bfbbda6a5] profession or vocation for income or corporation tax purposes,
+- (a) carries on, or intends to carry on, a trade,[^c-9a3cd0728aea4a39bc7c8eb45f763af5] profession or vocation in the United Kingdom, and
+- (b) is entitled to deduct the cost of the work as an expense in calculating the profits of that trade,[^c-e0b19a3b9c36a5daf2b00a8bfbbda6a5] profession or vocation for income or corporation tax purposes,
 
 the value of the work is taken to be the amount paid or other consideration given for the transfer.
 
@@ -33,6 +33,6 @@ the value of the work is taken to be the amount paid or other consideration give
 
 ## Annotations
 
-[^key-9a3cd0728aea4a39bc7c8eb45f763af5]: Textual amendment: Word in s. 184(1)(a) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 610(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/610/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-9a3cd0728aea4a39bc7c8eb45f763af5]: Textual amendment: Word in s. 184(1)(a) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 610(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/610/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-e0b19a3b9c36a5daf2b00a8bfbbda6a5]: Textual amendment: Word in s. 184(1)(b) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 610(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/610/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-e0b19a3b9c36a5daf2b00a8bfbbda6a5]: Textual amendment: Word in s. 184(1)(b) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 610(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/610/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

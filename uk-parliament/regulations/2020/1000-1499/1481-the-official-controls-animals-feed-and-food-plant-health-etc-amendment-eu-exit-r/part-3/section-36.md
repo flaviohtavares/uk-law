@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Amendments to Commission Implementing Regulation (EU) 2019/2129 establishing rules for the uniform application of frequency rates for identity checks and physical checks on certain consignments of animals and goods entering the Union[^key-6e68c386d9a89c0d01949cb4bc729615]
+## 36. Amendments to Commission Implementing Regulation (EU) 2019/2129 establishing rules for the uniform application of frequency rates for identity checks and physical checks on certain consignments of animals and goods entering the Union[^c-6e68c386d9a89c0d01949cb4bc729615]
 
 *Extent: E+W+S+N.I.*
 
@@ -91,6 +91,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6e68c386d9a89c0d01949cb4bc729615]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-6e68c386d9a89c0d01949cb4bc729615]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
 
 [^c24368951]: Marginal citation: Annex 6 to Regulation (EU) 2017/625 is inserted by regulation 29(4) of the [Official Controls (Animals, Feed and Food, Plant Health etc) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481).

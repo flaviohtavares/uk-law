@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Building warrants: grant and amendment[^key-c2db49a0f1720de0bd84bd7b33fa92fe]
+## 9. Building warrants: grant and amendment[^c-c2db49a0f1720de0bd84bd7b33fa92fe]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2db49a0f1720de0bd84bd7b33fa92fe]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2003/8/section/9) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-c2db49a0f1720de0bd84bd7b33fa92fe]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2003/8/section/9) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

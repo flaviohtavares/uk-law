@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Regulations[^key-cbe20b586bb9725713d0e1bf10f24068]
+## 57. Regulations[^c-cbe20b586bb9725713d0e1bf10f24068]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbe20b586bb9725713d0e1bf10f24068]: Commencement: S. 57 in force at 13.3.2026, see [s. 59(1)](https://www.legislation.gov.uk/asp/2026/6/section/59/1)
+[^c-cbe20b586bb9725713d0e1bf10f24068]: Commencement: S. 57 in force at 13.3.2026, see [s. 59(1)](https://www.legislation.gov.uk/asp/2026/6/section/59/1)

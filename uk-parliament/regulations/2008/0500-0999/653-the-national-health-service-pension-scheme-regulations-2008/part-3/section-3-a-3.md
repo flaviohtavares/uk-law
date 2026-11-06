@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.A.3. Meaning of “pensionable service”[^key-d8b7394b5516cee263fa1805f85422f4]
+## 3.A.3. Meaning of “pensionable service”[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 (1) In this Part, references to a member’s pensionable service, are references to the aggregate of the following periods–
 
-- (a) any period of service in respect of which the member contributes to this Section of[^key-98194da2d4f758931a979f0af40e0f2b] the scheme under regulation 3.C.1 (contributions by members),
+- (a) any period of service in respect of which the member contributes to this Section of[^c-98194da2d4f758931a979f0af40e0f2b] the scheme under regulation 3.C.1 (contributions by members),
 - (b) any period of absence from service which counts as pensionable service under regulation 3.A.4,
-- (c) any period of service credited to the member as pensionable service under Chapter 3.F (transfers from other pension arrangements) ; and[^key-377b33d52bc3f4d0dfa81fd4673e64e5]
+- (c) any period of service credited to the member as pensionable service under Chapter 3.F (transfers from other pension arrangements) ; and[^c-377b33d52bc3f4d0dfa81fd4673e64e5]
 - (d) any period of pensionable service the member is entitled to count under Chapter 3.K.
 
 This is subject to paragraph (2)
@@ -39,7 +39,7 @@ This is subject to paragraph (2)
 but, in the case of a pensioner member or deferred member entitled to a pension under regulation 3.D.5 (partial retirement) subject to paragraph (7) of this regulation;
 
 - (c) any period of service in respect of which the Secretary of State’s liability to provide benefits is discharged—
-  - (i) by the payment of a contributions equivalent premium under section 55[^key-20b6d19bb8bf43b1098020d3a55cf411] of the 1993 Act or article 3 of the 2016 Order[^key-24efa13671a1386649dc9233e9d4bc07],
+  - (i) by the payment of a contributions equivalent premium under section 55[^c-20b6d19bb8bf43b1098020d3a55cf411] of the 1993 Act or article 3 of the 2016 Order[^c-24efa13671a1386649dc9233e9d4bc07],
   - (ii) under regulation 3.C.16 (repayment of contributions), or
   - (iii) by the payment of a transfer value payment on transfer out under Chapter 3.F (transfers); or
 - (d) subject to paragraph (3), any period of service which would result in the aggregate mentioned in paragraph (1) exceeding 45 years.
@@ -67,7 +67,7 @@ but, in the case of a pensioner member or deferred member entitled to a pension 
 
 (8) References in this Part to any period expressed in days are references to the period in question ignoring 29 February, expressed in days.
 
-(9)[^key-0c2fbde144c09d603bcaec50f46c5788] Where a member is also a member of the 1995 Section[^key-35003b017cfe2c72f4b2f8830e5be498], any reference in this Part to “45 years” shall be taken to be a reference to a shorter period determined by the formula—
+(9)[^c-0c2fbde144c09d603bcaec50f46c5788] Where a member is also a member of the 1995 Section[^c-35003b017cfe2c72f4b2f8830e5be498], any reference in this Part to “45 years” shall be taken to be a reference to a shorter period determined by the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2008/653)
 
@@ -78,16 +78,16 @@ where—
 
 ## Annotations
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-98194da2d4f758931a979f0af40e0f2b]: Textual amendment: Words in [reg. 3.A.3(1)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.A.3/1/a) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
+[^c-98194da2d4f758931a979f0af40e0f2b]: Textual amendment: Words in [reg. 3.A.3(1)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.A.3/1/a) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
 
-[^key-377b33d52bc3f4d0dfa81fd4673e64e5]: Textual amendment: [Reg. 3.A.3(1)(d)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.A.3/1/d) and word inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [54](https://www.legislation.gov.uk/uksi/2009/2446/regulation/54)
+[^c-377b33d52bc3f4d0dfa81fd4673e64e5]: Textual amendment: [Reg. 3.A.3(1)(d)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.A.3/1/d) and word inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [54](https://www.legislation.gov.uk/uksi/2009/2446/regulation/54)
 
-[^key-20b6d19bb8bf43b1098020d3a55cf411]: Textual amendment: Word in [reg. 3.A.3(2)(c)(i)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.A.3/2/c/i) substituted (6.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/3), [60(a)](https://www.legislation.gov.uk/uksi/2019/418/regulation/60/a) (with [reg. 108](https://www.legislation.gov.uk/uksi/2019/418/regulation/108))
+[^c-20b6d19bb8bf43b1098020d3a55cf411]: Textual amendment: Word in [reg. 3.A.3(2)(c)(i)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.A.3/2/c/i) substituted (6.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/3), [60(a)](https://www.legislation.gov.uk/uksi/2019/418/regulation/60/a) (with [reg. 108](https://www.legislation.gov.uk/uksi/2019/418/regulation/108))
 
-[^key-24efa13671a1386649dc9233e9d4bc07]: Textual amendment: Words in [reg. 3.A.3(2)(c)(i)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.A.3/2/c/i) inserted (6.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/3), [60(b)](https://www.legislation.gov.uk/uksi/2019/418/regulation/60/b) (with [reg. 108](https://www.legislation.gov.uk/uksi/2019/418/regulation/108))
+[^c-24efa13671a1386649dc9233e9d4bc07]: Textual amendment: Words in [reg. 3.A.3(2)(c)(i)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.A.3/2/c/i) inserted (6.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/3), [60(b)](https://www.legislation.gov.uk/uksi/2019/418/regulation/60/b) (with [reg. 108](https://www.legislation.gov.uk/uksi/2019/418/regulation/108))
 
-[^key-0c2fbde144c09d603bcaec50f46c5788]: Textual amendment: [Reg. 3.A.3(9)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.A.3/9) inserted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [55](https://www.legislation.gov.uk/uksi/2008/2263/regulation/55) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
+[^c-0c2fbde144c09d603bcaec50f46c5788]: Textual amendment: [Reg. 3.A.3(9)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.A.3/9) inserted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [55](https://www.legislation.gov.uk/uksi/2008/2263/regulation/55) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
 
-[^key-35003b017cfe2c72f4b2f8830e5be498]: Textual amendment: Words in [reg. 3.A.3(9)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.A.3/9) substituted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/2)
+[^c-35003b017cfe2c72f4b2f8830e5be498]: Textual amendment: Words in [reg. 3.A.3(9)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.A.3/9) substituted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/2)

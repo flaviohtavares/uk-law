@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Financial penalty[^key-c6c3daf20a3221f766578e38dd6f7ab6]
+## 69. Financial penalty[^c-c6c3daf20a3221f766578e38dd6f7ab6]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6c3daf20a3221f766578e38dd6f7ab6]: Commencement: Art. 69 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-c6c3daf20a3221f766578e38dd6f7ab6]: Commencement: Art. 69 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

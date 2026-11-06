@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 143. Regulations[^key-6a971b95e961cc331f797b6241484dd0]
+## 143. Regulations[^c-6a971b95e961cc331f797b6241484dd0]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a971b95e961cc331f797b6241484dd0]: Commencement: S. 143 in force at 9.9.2022, see [s. 148(1)(a)](https://www.legislation.gov.uk/asc/2022/1/section/148/1/a)
+[^c-6a971b95e961cc331f797b6241484dd0]: Commencement: S. 143 in force at 9.9.2022, see [s. 148(1)(a)](https://www.legislation.gov.uk/asc/2022/1/section/148/1/a)

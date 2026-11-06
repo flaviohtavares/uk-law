@@ -32,7 +32,7 @@ summary: ''
 
 Land Registration, England And Wales
 
-The Land Registration (Proper Office) (Amendment) Order 2008 (revoked)[^key-25206177bdfbd2a6130e2ad53ec5fd1d]
+The Land Registration (Proper Office) (Amendment) Order 2008 (revoked)[^c-25206177bdfbd2a6130e2ad53ec5fd1d]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 10th November 2008
 
-[^key-25206177bdfbd2a6130e2ad53ec5fd1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25206177bdfbd2a6130e2ad53ec5fd1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-25206177bdfbd2a6130e2ad53ec5fd1d]
+## 1. Citation and commencement[^c-25206177bdfbd2a6130e2ad53ec5fd1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Land Registration (Proper Office) Order 2007[^key-25206177bdfbd2a6130e2ad53ec5fd1d]
+## 2. Amendment of the Land Registration (Proper Office) Order 2007[^c-25206177bdfbd2a6130e2ad53ec5fd1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-25206177bdfbd2a6130e2ad53ec5fd1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25206177bdfbd2a6130e2ad53ec5fd1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-25206177bdfbd2a6130e2ad53ec5fd1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25206177bdfbd2a6130e2ad53ec5fd1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-25206177bdfbd2a6130e2ad53ec5fd1d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/1921) revoked (1.4.2009) by [The Land Registration (Proper Office) Order 2008 (S.I. 2008/3201)](https://www.legislation.gov.uk/uksi/2008/3201), [arts. 1](https://www.legislation.gov.uk/uksi/2008/3201/article/1), [4](https://www.legislation.gov.uk/uksi/2008/3201/article/4)
+[^c-25206177bdfbd2a6130e2ad53ec5fd1d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/1921) revoked (1.4.2009) by [The Land Registration (Proper Office) Order 2008 (S.I. 2008/3201)](https://www.legislation.gov.uk/uksi/2008/3201), [arts. 1](https://www.legislation.gov.uk/uksi/2008/3201/article/1), [4](https://www.legislation.gov.uk/uksi/2008/3201/article/4)

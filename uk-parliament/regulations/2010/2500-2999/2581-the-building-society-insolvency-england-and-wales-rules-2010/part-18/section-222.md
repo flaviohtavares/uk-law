@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 222. Restriction on concurrent proceedings and remedies[^key-b5388ee0c4838f662d05fb2035742bf2]
+## 222. Restriction on concurrent proceedings and remedies[^c-b5388ee0c4838f662d05fb2035742bf2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where in a building society insolvency, the court makes an order staying any act
 
 ## Annotations
 
-[^key-b5388ee0c4838f662d05fb2035742bf2]: Commencement: Rule 222 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-b5388ee0c4838f662d05fb2035742bf2]: Commencement: Rule 222 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

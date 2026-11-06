@@ -35,7 +35,7 @@ An Act to modify the operation of the Hospital Parking Charges Act (Northern Ire
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by His Majesty as follows:
 
-## 1. New date for ban on charges[^key-ddb52b897f3fc7ed70515dd1e25e2cb1]
+## 1. New date for ban on charges[^c-ddb52b897f3fc7ed70515dd1e25e2cb1]
 
 (1) Despite section 2 (commencement) of the Hospital Parking Charges Act (Northern Ireland) 2022, section 1 (ban on hospital parking charges) of that Act has effect as follows.
 
@@ -46,7 +46,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - (a) ceases having effect when this Act comes into operation, and
 - (b) resumes having effect on 12 May 2026.
 
-## 2. Commencement and short title[^key-be84a91f2f20ed583595a2d5170e7f8a]
+## 2. Commencement and short title[^c-be84a91f2f20ed583595a2d5170e7f8a]
 
 (1) This Act comes into operation on the day after receiving Royal Assent.
 
@@ -54,6 +54,6 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Annotations
 
-[^key-ddb52b897f3fc7ed70515dd1e25e2cb1]: Commencement: S. 1 in operation at 17.5.2024, see [s. 2(1)](https://www.legislation.gov.uk/nia/2024/2/section/2/1)
+[^c-ddb52b897f3fc7ed70515dd1e25e2cb1]: Commencement: S. 1 in operation at 17.5.2024, see [s. 2(1)](https://www.legislation.gov.uk/nia/2024/2/section/2/1)
 
-[^key-be84a91f2f20ed583595a2d5170e7f8a]: Commencement: S. 2 in operation at 17.5.2024, see [s. 2(1)](https://www.legislation.gov.uk/nia/2024/2/section/2/1)
+[^c-be84a91f2f20ed583595a2d5170e7f8a]: Commencement: S. 2 in operation at 17.5.2024, see [s. 2(1)](https://www.legislation.gov.uk/nia/2024/2/section/2/1)

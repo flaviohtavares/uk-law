@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 90. Correspondence with the Tribunal: copying to other parties[^key-921f8c34625accf5adfe5a62ccbd76d8]
+## 90. Correspondence with the Tribunal: copying to other parties[^c-921f8c34625accf5adfe5a62ccbd76d8]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-921f8c34625accf5adfe5a62ccbd76d8]: Commencement: [Rule 90](https://www.legislation.gov.uk/uksi/2024/1155/rule/90) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-921f8c34625accf5adfe5a62ccbd76d8]: Commencement: [Rule 90](https://www.legislation.gov.uk/uksi/2024/1155/rule/90) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

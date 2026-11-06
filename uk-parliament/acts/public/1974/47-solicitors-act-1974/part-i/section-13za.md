@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13ZA. Application to practise as sole practitioner while practising certificate in force[^key-9348843821aef6f673c9476ee8b418e2][^c20507881][^c20410451]
+## 13ZA. Application to practise as sole practitioner while practising certificate in force[^c-9348843821aef6f673c9476ee8b418e2][^c20507881][^c20410451]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9348843821aef6f673c9476ee8b418e2]: Textual amendment: S. 13ZA omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/7)
+[^c-9348843821aef6f673c9476ee8b418e2]: Textual amendment: S. 13ZA omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/7)
 
 [^c20507881]: Modification: S. 13ZA extended (with modifications) (1.7.2009) by [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119), [Sch. 4 para. 7(1)](https://www.legislation.gov.uk/uksi/2000/1119/schedule/4/paragraph/7/1) [Table (as substituted by The Legal Services Act 2007 (Registered European Lawyers) Order 2009 (S.I. 2009/1587)](https://www.legislation.gov.uk/uksi/2009/1587), [art. 3(7)(a)](https://www.legislation.gov.uk/uksi/2009/1587/article/3/7/a))
 

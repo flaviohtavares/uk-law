@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. References to the ORR[^key-613bd23c53addb912a1b64207a1fb55f]
+## 32. References to the ORR[^c-613bd23c53addb912a1b64207a1fb55f]
 
 *Extent: E+W+S*
 
-(1) This section applies to a reference of a proposal to the Office of Rail and Road[^key-01028ef06cc4ce666827ac3629b78b8f] under any provision of this Part.
+(1) This section applies to a reference of a proposal to the Office of Rail and Road[^c-01028ef06cc4ce666827ac3629b78b8f] under any provision of this Part.
 
 (2) The reference may be made only if the person making it considers that the proposal, or (as the case may be) the proposal as modified, satisfies the criteria set out in the relevant part of the closures guidance.
 
@@ -83,6 +83,6 @@ and in the carrying out of any functions conferred on that Office under or in re
 
 ## Annotations
 
-[^key-613bd23c53addb912a1b64207a1fb55f]: Commencement: S. 32 in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-613bd23c53addb912a1b64207a1fb55f]: Commencement: S. 32 in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-01028ef06cc4ce666827ac3629b78b8f]: Textual amendment: Words in s. 32 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 3(k)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/3/k)
+[^c-01028ef06cc4ce666827ac3629b78b8f]: Textual amendment: Words in s. 32 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 3(k)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/3/k)

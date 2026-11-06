@@ -93,7 +93,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 1.** The BAT conclusions for the production of chlor-alkali are set out in the Annex to this Decision.
 
-## Article 2. Application and Interpretation[^key-3b7dd1c83e5d96dae1780c54cd82a3b6]
+## Article 2. Application and Interpretation[^c-3b7dd1c83e5d96dae1780c54cd82a3b6]
 
 (1.) The BAT conclusions referred to in Article 1 apply in the United Kingdom.
 
@@ -519,7 +519,7 @@ Polychlorinated dibenzofuran.
 
 [^f00003]: Footnote: https://circabc.europa.eu/w/browse/d4fbf23d-0da7-47fd-a954-0ada9ca91560
 
-[^key-3b7dd1c83e5d96dae1780c54cd82a3b6]: Textual amendment: Art. 2 substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3b7dd1c83e5d96dae1780c54cd82a3b6]: Textual amendment: Art. 2 substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: Given that this performance level does not relate to normal operating conditions, it is not an emission level associated with the Best Available Techniques in the sense of Article 3(13) of the Industrial Emissions Directive (2010/75/EU).
 

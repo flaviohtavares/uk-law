@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**55.**[^key-0b4a17abc6b179d8f1ae5da7224a8282] In section 14—
+**55.**[^c-0b4a17abc6b179d8f1ae5da7224a8282] In section 14—
 
 - (a) in subsection (3)—
   - (i) for “Section 97(1), (3) and (4) of the Magistrates’ Courts Act 1980” substitute “Articles 118(1), (3) and (4), 119 and 120 of the Magistrates’ Courts (Northern Ireland) Order 1981”; and
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b4a17abc6b179d8f1ae5da7224a8282]: Commencement: Art. 55 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-0b4a17abc6b179d8f1ae5da7224a8282]: Commencement: Art. 55 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

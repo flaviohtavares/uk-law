@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Information requirements[^key-a2a97424944ce9e9a67cfb8b79556915]
+## 107. Information requirements[^c-a2a97424944ce9e9a67cfb8b79556915]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2a97424944ce9e9a67cfb8b79556915]: Commencement: Reg. 107 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-a2a97424944ce9e9a67cfb8b79556915]: Commencement: Reg. 107 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Nominee’s report on company’s proposal[^key-17cf4ab51cfe32b8712e1018395967a2]
+## 14. Nominee’s report on company’s proposal[^c-17cf4ab51cfe32b8712e1018395967a2]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ In Article 15(2) (nominee’s report on company’s proposal), for sub-paragraph
 
 ## Annotations
 
-[^key-17cf4ab51cfe32b8712e1018395967a2]: Commencement: S. 14 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-17cf4ab51cfe32b8712e1018395967a2]: Commencement: S. 14 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

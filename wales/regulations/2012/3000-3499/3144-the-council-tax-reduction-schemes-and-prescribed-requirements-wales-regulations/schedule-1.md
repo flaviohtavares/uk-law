@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Determining eligibility for a reduction under an authority’s scheme, amount of reduction and calculation of income and capital: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+## SCHEDULE 1 — Determining eligibility for a reduction under an authority’s scheme, amount of reduction and calculation of income and capital: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 *Extent: E+W*
 
@@ -24,192 +24,192 @@ summary: ''
 
 Regulation 30(2)
 
-### PART 1 — Applicable amounts for the purposes of calculating eligibility for a reduction under an authority’s scheme and amount of reduction: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+### PART 1 — Applicable amounts for the purposes of calculating eligibility for a reduction under an authority’s scheme and amount of reduction: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
-#### 1. Applicable amounts: pensioners (including pensioners in polygamous marriages)[^key-f2e35fb30888494854d4984af136f50a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 2 — Maximum council tax reduction for the purposes of calculating eligibility for a reduction under an authority’s scheme and amount of reduction: pensioners[^key-f2e35fb30888494854d4984af136f50a]
-
-#### 2. Maximum council tax reduction under an authority’s scheme: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+#### 1. Applicable amounts: pensioners (including pensioners in polygamous marriages)[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Non-dependant deductions : pensioners[^key-f2e35fb30888494854d4984af136f50a]
+### PART 2 — Maximum council tax reduction for the purposes of calculating eligibility for a reduction under an authority’s scheme and amount of reduction: pensioners[^c-f2e35fb30888494854d4984af136f50a]
+
+#### 2. Maximum council tax reduction under an authority’s scheme: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Amount of reduction under an authority’s scheme: pensioners[^key-f2e35fb30888494854d4984af136f50a]
-
-#### 4. Amount of reduction under an authority’s scheme: Classes A and B[^key-f2e35fb30888494854d4984af136f50a]
+#### 3. Non-dependant deductions : pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — Income and capital for the purposes of calculating eligibility for a reduction under an authority’s scheme and amount of reduction: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+### PART 3 — Amount of reduction under an authority’s scheme: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
-#### CHAPTER 1 — General: pensioners[^key-f2e35fb30888494854d4984af136f50a]
-
-##### 5. Calculation of income and capital: applicant’s family and polygamous marriages: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+#### 4. Amount of reduction under an authority’s scheme: Classes A and B[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 6. Circumstances in which capital and income of non-dependant is to be treated as applicants: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+### PART 4 — Income and capital for the purposes of calculating eligibility for a reduction under an authority’s scheme and amount of reduction: pensioners[^c-f2e35fb30888494854d4984af136f50a]
+
+#### CHAPTER 1 — General: pensioners[^c-f2e35fb30888494854d4984af136f50a]
+
+##### 5. Calculation of income and capital: applicant’s family and polygamous marriages: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### CHAPTER 2 — Income: pensioners in receipt of guarantee credit or savings credit : pensioners[^key-f2e35fb30888494854d4984af136f50a]
-
-##### 7. Pensioners in receipt of guarantee credit[^key-f2e35fb30888494854d4984af136f50a]
+##### 6. Circumstances in which capital and income of non-dependant is to be treated as applicants: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 8. Calculation of pensioner’s income in savings credit only cases[^key-f2e35fb30888494854d4984af136f50a]
+#### CHAPTER 2 — Income: pensioners in receipt of guarantee credit or savings credit : pensioners[^c-f2e35fb30888494854d4984af136f50a]
+
+##### 7. Pensioners in receipt of guarantee credit[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### CHAPTER 3 — Income: other pensioners[^key-f2e35fb30888494854d4984af136f50a]
-
-##### 9. Calculation of income and capital where state pension credit is not payable: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+##### 8. Calculation of pensioner’s income in savings credit only cases[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 10. Meaning of “income”: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+#### CHAPTER 3 — Income: other pensioners[^c-f2e35fb30888494854d4984af136f50a]
+
+##### 9. Calculation of income and capital where state pension credit is not payable: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 11. Calculation of weekly income: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+##### 10. Meaning of “income”: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 12. Earnings of employed earners: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+##### 11. Calculation of weekly income: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 13. Calculation of net earnings of employed earners: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+##### 12. Earnings of employed earners: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 14. Calculation of earnings self-employed earners: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+##### 13. Calculation of net earnings of employed earners: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 15. Earning of self-employed earners: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+##### 14. Calculation of earnings self-employed earners: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 16. Notional income: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+##### 15. Earning of self-employed earners: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 17. Income paid to third parties: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+##### 16. Notional income: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 18. Calculation of income on a weekly basis: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+##### 17. Income paid to third parties: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 19. Treatment of child care charges: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+##### 18. Calculation of income on a weekly basis: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 20. Additional condition referred to in paragraph 19(11)(b)(i): disability : pensioners[^key-f2e35fb30888494854d4984af136f50a]
+##### 19. Treatment of child care charges: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 21. Calculations of average weekly income from tax credits[^key-f2e35fb30888494854d4984af136f50a]
+##### 20. Additional condition referred to in paragraph 19(11)(b)(i): disability : pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 22. Disregard of changes in tax, contributions etc[^key-f2e35fb30888494854d4984af136f50a]
+##### 21. Calculations of average weekly income from tax credits[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 23. Calculation of net profit of self-employed earners[^key-f2e35fb30888494854d4984af136f50a]
+##### 22. Disregard of changes in tax, contributions etc[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 24. Calculation of deduction of tax and contributions of self-employed earners[^key-f2e35fb30888494854d4984af136f50a]
+##### 23. Calculation of net profit of self-employed earners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### CHAPTER 4 — Capital[^key-f2e35fb30888494854d4984af136f50a]
-
-##### 25. Calculation of Capital[^key-f2e35fb30888494854d4984af136f50a]
+##### 24. Calculation of deduction of tax and contributions of self-employed earners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 26. Calculation of capital in the United Kingdom[^key-f2e35fb30888494854d4984af136f50a]
+#### CHAPTER 4 — Capital[^c-f2e35fb30888494854d4984af136f50a]
+
+##### 25. Calculation of Capital[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 27. Calculation of capital outside the United Kingdom[^key-f2e35fb30888494854d4984af136f50a]
+##### 26. Calculation of capital in the United Kingdom[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 28. Notional capital[^key-f2e35fb30888494854d4984af136f50a]
+##### 27. Calculation of capital outside the United Kingdom[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 29. Diminishing notional capital rule: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+##### 28. Notional capital[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 30. Capital jointly held: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+##### 29. Diminishing notional capital rule: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 31. Calculation of tariff income from capital: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+##### 30. Capital jointly held: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 5 — Extended reductions: pensioners[^key-f2e35fb30888494854d4984af136f50a]
-
-#### 32. Extended reductions (qualifying contributory benefits): pensioners[^key-f2e35fb30888494854d4984af136f50a]
+##### 31. Calculation of tariff income from capital: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 33. Duration of extended reduction period (qualifying contributory benefits): pensioners[^key-f2e35fb30888494854d4984af136f50a]
+### PART 5 — Extended reductions: pensioners[^c-f2e35fb30888494854d4984af136f50a]
+
+#### 32. Extended reductions (qualifying contributory benefits): pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 34. Amount of extended reduction (qualifying contributory benefits): pensioners[^key-f2e35fb30888494854d4984af136f50a]
+#### 33. Duration of extended reduction period (qualifying contributory benefits): pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 35. Extended reductions (qualifying contributory benefits) — movers: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+#### 34. Amount of extended reduction (qualifying contributory benefits): pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 36. Relationship between extended reduction (qualifying contributory benefits) and entitlement to a council tax reduction under by virtue of class A or B: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+#### 35. Extended reductions (qualifying contributory benefits) — movers: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 37. Continuing reductions where state pension credit claimed: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+#### 36. Relationship between extended reduction (qualifying contributory benefits) and entitlement to a council tax reduction under by virtue of class A or B: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 38. Extended reductions: movers into an authority’s area[^key-f2e35fb30888494854d4984af136f50a]
+#### 37. Continuing reductions where state pension credit claimed: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 6 — Period of entitlement and change of circumstances[^key-f2e35fb30888494854d4984af136f50a]
-
-#### 39. Date on which entitlement begins[^key-f2e35fb30888494854d4984af136f50a]
+#### 38. Extended reductions: movers into an authority’s area[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 40. Date on which change of circumstances is to take effect[^key-f2e35fb30888494854d4984af136f50a]
+### PART 6 — Period of entitlement and change of circumstances[^c-f2e35fb30888494854d4984af136f50a]
+
+#### 39. Date on which entitlement begins[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 41. Change of circumstances where the state pension credit payment in payment[^key-f2e35fb30888494854d4984af136f50a]
+#### 40. Date on which change of circumstances is to take effect[^c-f2e35fb30888494854d4984af136f50a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 41. Change of circumstances where the state pension credit payment in payment[^c-f2e35fb30888494854d4984af136f50a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f2e35fb30888494854d4984af136f50a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2012/3144) revoked (1.4.2014) by [The Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013 (S.I. 2013/3029)](https://www.legislation.gov.uk/wsi/2013/3029), [reg. 36(1)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/36/1) (with saving in [reg. 36(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/36/2))
+[^c-f2e35fb30888494854d4984af136f50a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2012/3144) revoked (1.4.2014) by [The Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013 (S.I. 2013/3029)](https://www.legislation.gov.uk/wsi/2013/3029), [reg. 36(1)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/36/1) (with saving in [reg. 36(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/36/2))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

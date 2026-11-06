@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Protective provisions[^key-67183e90eba97d6c9d70df51596b86cd]
+## 38. Protective provisions[^c-67183e90eba97d6c9d70df51596b86cd]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 8 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-67183e90eba97d6c9d70df51596b86cd]: Commencement: Art. 38 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-67183e90eba97d6c9d70df51596b86cd]: Commencement: Art. 38 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)

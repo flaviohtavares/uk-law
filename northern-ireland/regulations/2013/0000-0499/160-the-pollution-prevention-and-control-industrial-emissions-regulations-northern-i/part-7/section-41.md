@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Guidance to enforcing authorities[^key-dd19ea60be6beb8cb57547ab535325e3]
+## 41. Guidance to enforcing authorities[^c-dd19ea60be6beb8cb57547ab535325e3]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd19ea60be6beb8cb57547ab535325e3]: Commencement: Reg. 41 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-dd19ea60be6beb8cb57547ab535325e3]: Commencement: Reg. 41 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

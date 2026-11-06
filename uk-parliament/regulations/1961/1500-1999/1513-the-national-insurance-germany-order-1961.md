@@ -52,7 +52,7 @@ And Whereas the Convention has been ratified by the said Governments and the ins
 
 [^c22717021]And Whereas by section 64 of the National Insurance Act, 1946 , it is provided that Her Majesty may, by Order in Council, make provision for modifying or adapting that Act in its application to cases affected by agreements with other governments providing for reciprocity in the matters specified in that section:
 
-Now, therefore, Her Majesty, in pursuance of the said section 64 of the National Insurance Act, 1946, and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^M_M_5904360e-831c-4ac9-fad7-1aea6036989d][^key-c6b14fc12f15706083f0c5934ad5861f][^key-0f56b2d75de4de8e2d770119194271c5][^key-861fbe8105818df484c09e01f1fb7680]
+Now, therefore, Her Majesty, in pursuance of the said section 64 of the National Insurance Act, 1946, and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^M_M_5904360e-831c-4ac9-fad7-1aea6036989d][^c-c6b14fc12f15706083f0c5934ad5861f][^c-0f56b2d75de4de8e2d770119194271c5][^c-861fbe8105818df484c09e01f1fb7680]
 
 ## 1. Citation and interpretation
 
@@ -354,11 +354,11 @@ This Order gives effect in England, Wales and Scotland to the Convention on unem
 
 [^M_M_5904360e-831c-4ac9-fad7-1aea6036989d]: Marginal citation: Bilateral and multilateral reciprocal social security agreements between the United Kingdom and other Member States of the European Communities have generally been superseded, for nationals of those States, by the provisions of Council Regulations (EEC) Nos. 1408/71 and 574/72 to the extent provided by Article 6 of Regulation (EEC) No. 1408/71 subject to the exceptions prescribed by that Article and set out in Articles 7, 8 and 46(4) of that Regulation. The following Instrument, while generally superseded for the above reason, may still be of interest in its effect on persons or matters excepted from, or otherwise not covered by, that Regulation.
 
-[^key-c6b14fc12f15706083f0c5934ad5861f]: Modification: Order modified (18.2.1976) by [The Social Security (Reciprocal Agreements) Order 1976 (S.I. 1976/225)](https://www.legislation.gov.uk/uksi/1976/225), [arts. 2](https://www.legislation.gov.uk/uksi/1976/225/article/2), [3](https://www.legislation.gov.uk/uksi/1976/225/article/3), [Schs. 1](https://www.legislation.gov.uk/uksi/1976/225/schedule/1), [2](https://www.legislation.gov.uk/uksi/1976/225/schedule/2)
+[^c-c6b14fc12f15706083f0c5934ad5861f]: Modification: Order modified (18.2.1976) by [The Social Security (Reciprocal Agreements) Order 1976 (S.I. 1976/225)](https://www.legislation.gov.uk/uksi/1976/225), [arts. 2](https://www.legislation.gov.uk/uksi/1976/225/article/2), [3](https://www.legislation.gov.uk/uksi/1976/225/article/3), [Schs. 1](https://www.legislation.gov.uk/uksi/1976/225/schedule/1), [2](https://www.legislation.gov.uk/uksi/1976/225/schedule/2)
 
-[^key-0f56b2d75de4de8e2d770119194271c5]: Modification: Order modified (11.4.1988) by [The Social Security (Reciprocal Agreements) Order 1988 (S.I. 1988/591)](https://www.legislation.gov.uk/uksi/1988/591), [arts. 2](https://www.legislation.gov.uk/uksi/1988/591/article/2), [3](https://www.legislation.gov.uk/uksi/1988/591/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1988/591/schedule)
+[^c-0f56b2d75de4de8e2d770119194271c5]: Modification: Order modified (11.4.1988) by [The Social Security (Reciprocal Agreements) Order 1988 (S.I. 1988/591)](https://www.legislation.gov.uk/uksi/1988/591), [arts. 2](https://www.legislation.gov.uk/uksi/1988/591/article/2), [3](https://www.legislation.gov.uk/uksi/1988/591/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1988/591/schedule)
 
-[^key-861fbe8105818df484c09e01f1fb7680]: Modification: Order modified (7.10.1996) by [The Social Security (Reciprocal Agreements) Order 1996 (S.I. 1996/1928)](https://www.legislation.gov.uk/uksi/1996/1928), [art. 2](https://www.legislation.gov.uk/uksi/1996/1928/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/1996/1928/schedule/1), [2](https://www.legislation.gov.uk/uksi/1996/1928/schedule/2)
+[^c-861fbe8105818df484c09e01f1fb7680]: Modification: Order modified (7.10.1996) by [The Social Security (Reciprocal Agreements) Order 1996 (S.I. 1996/1928)](https://www.legislation.gov.uk/uksi/1996/1928), [art. 2](https://www.legislation.gov.uk/uksi/1996/1928/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/1996/1928/schedule/1), [2](https://www.legislation.gov.uk/uksi/1996/1928/schedule/2)
 
 [^c22717031]: Marginal citation: 52 & 53 Viet. c. 63.
 

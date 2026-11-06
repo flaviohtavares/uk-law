@@ -80,7 +80,7 @@ Regulation 4
 (8) In this Part—
 
 - (a) a reference to any of paragraphs U1 to U16 is a reference to a paragraph numbered 1 to 16 in Section 2 of Chapter 2 (use of waste);
-- (b) a reference to any of paragraphs T1 to T33[^key-21fcd2a7cd2a0edbdcca5dd928fa8967] is a reference to a paragraph numbered 1 to 33[^key-fcfada8286452dc9450bc6ab97d679fe] in Section 2 of Chapter 3 (treatment of waste);
+- (b) a reference to any of paragraphs T1 to T33[^c-21fcd2a7cd2a0edbdcca5dd928fa8967] is a reference to a paragraph numbered 1 to 33[^c-fcfada8286452dc9450bc6ab97d679fe] in Section 2 of Chapter 3 (treatment of waste);
 - (c) a reference to any of paragraphs D1 to D8 is a reference to a paragraph numbered 1 to 8 in Section 2 of Chapter 4 (disposal of waste);
 - (d) a reference to any of paragraphs S1 to S3 is a reference to a paragraph numbered 1 to 3 in Section 2 of Chapter 5 (storage of waste).
 
@@ -547,7 +547,7 @@ Table 3
 (4) In this paragraph—
 
 - “**depolluted**” means that the vehicle has been subjected to all of the operations described in paragraph 3 of Annex 1 to the End-of-Life Vehicles Directive;
-- “[^key-6720461b7a789d9beebf4b975f595bcd]**end-of-life vehicle**” means a motor vehicle which is waste within the meaning of Article 3(1) of the Waste Framework Directive, as read with Articles 5 and 6 of that Directive.
+- “[^c-6720461b7a789d9beebf4b975f595bcd]**end-of-life vehicle**” means a motor vehicle which is waste within the meaning of Article 3(1) of the Waste Framework Directive, as read with Articles 5 and 6 of that Directive.
 
 #### CHAPTER 3 — Treatment of waste
 
@@ -555,10 +555,10 @@ Table 3
 
 **1.** (1) The descriptions in this Chapter—
 
-- (a) are set out in the first sub-paragraph of paragraphs T1 to T33[^key-2d4ac23bd3ab0f6cb675fe5f0997758f], and
+- (a) are set out in the first sub-paragraph of paragraphs T1 to T33[^c-2d4ac23bd3ab0f6cb675fe5f0997758f], and
 - (b) include associated storage.
 
-(2) The specific conditions for each description in this Chapter are set out in the third sub-paragraph of paragraphs T1 to T33[^key-5db2a376c771f98167aa3ad7b7ab74fd].
+(2) The specific conditions for each description in this Chapter are set out in the third sub-paragraph of paragraphs T1 to T33[^c-5db2a376c771f98167aa3ad7b7ab74fd].
 
 (3) The general condition for the descriptions in this Chapter is that the operation is for the purposes of recovering the waste, unless otherwise stated in the specific conditions.
 
@@ -1104,7 +1104,7 @@ Table 3
 - (a) the total quantity of waste brought to the works over any period of 12 months does not exceed 100,000 cubic metres, and
 - (b) the waste is treated and stored in a secure location with sealed drainage.
 
-###### 22. Recovery of central heating oil by filtration[^key-8006d1bd0962ace65c5faec3fed45ac5]
+###### 22. Recovery of central heating oil by filtration[^c-8006d1bd0962ace65c5faec3fed45ac5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1343,7 +1343,7 @@ Table 2
   - (ii) has an impermeable lining, and
 - (d) the treatment is carried on at the place of production.
 
-###### 33. Recovery of central heating oil by filtration (T33)[^key-4f54ca65ec50ee0062e21d509af8b8a4]
+###### 33. Recovery of central heating oil by filtration (T33)[^c-4f54ca65ec50ee0062e21d509af8b8a4]
 
 (1) The recovery of central heating oil by filtering relevant waste.
 
@@ -1686,7 +1686,7 @@ Table 2
 
 (3) In sub-paragraph (2)(a)(ii), "designated site" means—
 
-- (a) a European site (which has the meaning given in regulation 8 of the Conservation of Habitats and Species Regulations 2017[^key-718494df810a9b030d20f5cfd602e0c8]),
+- (a) a European site (which has the meaning given in regulation 8 of the Conservation of Habitats and Species Regulations 2017[^c-718494df810a9b030d20f5cfd602e0c8]),
 - (b) a Ramsar site (which has the same meaning as in section 37A of the Wildlife and Countryside Act 1981 [^c23193221]),
 - (c) a site of special scientific interest (which has the meaning given in section 52(1) of the Wildlife and Countryside Act 1981 [^c23193231]), or
 - (d) a nature reserve established by a local authority under section 21 of the National Parks and Access to the Countryside Act 1949 [^c23193241].
@@ -1720,7 +1720,7 @@ Table 2
 
 (2) For the purpose of paragraph 6(a)(ii) of that Schedule, the conditions in relation to a water discharge activity described in sub-paragraph (1) are that an operator of the sewage treatment plant ensures that—
 
-- (a) all works and equipment used for the treatment of sewage effluent and its discharge comply with the requirements specified in the document entitled “General binding rules for small sewage discharges (SSDs) with effect from 2nd October 2023” published by the Agency on 23rd March 2023[^key-613504ac0d7b6483792e0e9c48e721d9] [^c23193261] in relation to—
+- (a) all works and equipment used for the treatment of sewage effluent and its discharge comply with the requirements specified in the document entitled “General binding rules for small sewage discharges (SSDs) with effect from 2nd October 2023” published by the Agency on 23rd March 2023[^c-613504ac0d7b6483792e0e9c48e721d9] [^c23193261] in relation to—
   - (i) design and manufacturing standards,
   - (ii) construction, installation and operation specifications,
   - (iii) siting and installation, and
@@ -1744,13 +1744,13 @@ Table 2
 
 In this Part—
 
-- “[^key-53a150152e4cb62d6c1a9eea7e4ec9f9]**ancient woodland**” means any area that has been wooded continuously since at least 1600 AD, including ancient semi-natural woodland and plantations on ancient woodland sites;
+- “[^c-53a150152e4cb62d6c1a9eea7e4ec9f9]**ancient woodland**” means any area that has been wooded continuously since at least 1600 AD, including ancient semi-natural woodland and plantations on ancient woodland sites;
 - “**groundwater tracer test**” means a study of—
   - (a) the behaviour or movement of water, or
   - (b) a contaminant below ground,
 
   which involves the addition to groundwater of a distinguishable material which has nearly identical properties to the contaminant or water being studied;
-- [^key-817b6c941668ac277a235f98ab14e0f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-817b6c941668ac277a235f98ab14e0f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**protected site**” means—
   - (a) a wetland designated as a European site (which has the meaning given in regulation 8 of the Conservation of Habitats and Species Regulations 2017),
   - (b) a Ramsar site (which has the same meaning as in section 37A of the Wildlife and Countryside Act 1981),
@@ -1767,7 +1767,7 @@ In this Part—
 - (a) a specified groundwater remediation scheme, or
 - (b) a groundwater tracer test,
 
-limited to the amount strictly necessary for that purpose[^key-68d582ee850b86b647792d7018459cdd]
+limited to the amount strictly necessary for that purpose[^c-68d582ee850b86b647792d7018459cdd]
 
 (2) For the purpose of paragraphs 7(a)(ii) and 8(a)(ii) of that Schedule, the conditions in relation to a groundwater activity of that description are—
 
@@ -1808,14 +1808,14 @@ limited to the amount strictly necessary for that purpose[^key-68d582ee850b86b64
 
 (2) For the purpose of paragraph 8(a)(ii) of that Schedule, the conditions in relation to a groundwater activity of that description are that an operator of the septic tank or sewage treatment plant ensures that—
 
-- (a) all works and equipment used for the treatment of sewage effluent and its discharge comply with the requirements specified in the document entitled “General binding rules for small sewage discharges (SSDs) with effect from 2nd October 2023” published by the Agency on 23rd March 2023[^key-7911140a75a23d9c351686aa1ab4b9d3] in relation to—
+- (a) all works and equipment used for the treatment of sewage effluent and its discharge comply with the requirements specified in the document entitled “General binding rules for small sewage discharges (SSDs) with effect from 2nd October 2023” published by the Agency on 23rd March 2023[^c-7911140a75a23d9c351686aa1ab4b9d3] in relation to—
   - (i) design and manufacturing standards,
   - (ii) construction, installation and operation specifications,
   - (iii) siting and installation of infiltration systems, and
   - (iv) the capacity of the works and equipment;
 - (b) in the case of a discharge which takes place for the first time on or after 1st January 2015, the discharge could not reasonably be made to the foul sewer;
 - (c) the discharge does not contain trade effluent;
-- (d)[^key-97885220347229cc17bd077324231ed1] the discharge does not result in an input of pollutants to groundwater within a groundwater Source Protection Zone 1;
+- (d)[^c-97885220347229cc17bd077324231ed1] the discharge does not result in an input of pollutants to groundwater within a groundwater Source Protection Zone 1;
 - (e) all works and equipment used for the treatment of sewage effluent and its discharge are maintained in accordance with the manufacturer's specification;
 - (f) all works and equipment for the treatment of sewage effluent and its discharge are appropriately decommissioned when the exempt facility ceases to be in operation so that there is no risk of pollutants entering groundwater;
 - (g) before the land or part of the land on which the septic tank or sewage treatment plant is situated or being used is sold, an owner of the land or part of the land gives to the purchaser a written notice—
@@ -1839,10 +1839,10 @@ limited to the amount strictly necessary for that purpose[^key-68d582ee850b86b64
   - (ii) must not vary by more than 10<sup>o </sup>C compared to that in the aquifer from which it was abstracted;
 - (c) that the system must not be on a known contaminated site or have had a previous contaminative use;
 - (d) that water from the system must not be discharged less than 50 metres from a watercourse or groundwater-fed wetland;
-- (e) in relation to Wales,[^key-2f4502612063daf2e275ff316b04eda6] that water from the system must not be discharged—
+- (e) in relation to Wales,[^c-2f4502612063daf2e275ff316b04eda6] that water from the system must not be discharged—
   - (i) less than 50 metres from a point at which water is abstracted from underground strata, or
   - (ii) within a zone defined by a 50-day travel time for groundwater to reach a groundwater abstraction point that is used to supply water for domestic or food production purposes;
-- (ea)[^key-3547218e51390580c90e427368fd62f5] in relation to England, that water from the system must not be discharged within a groundwater Source Protection Zone 1;
+- (ea)[^c-3547218e51390580c90e427368fd62f5] in relation to England, that water from the system must not be discharged within a groundwater Source Protection Zone 1;
 - (f) that the discharge of water from the system must be to the same aquifer as that from which it was abstracted;
 - (g) that water within the system must not be used for any other purpose.
 
@@ -1861,7 +1861,7 @@ limited to the amount strictly necessary for that purpose[^key-68d582ee850b86b64
 - “**balanced system**” means a system used for both heating and cooling and where in a 5-year period the ratio of the discharge water temperature to the abstracted water temperature is within the range 0.8 to 1.2;
 - “**cooled aquifer system**” means a system used for both heating and cooling and where in a 5-year period the ratio of the discharge water temperature to the abstracted water temperature is less than 0.8;
 - “**groundwater-fed wetland**” means a terrestrial ecosystem directly depending on a body of groundwater (within the meaning of the Water Framework Directive) and includes—
-  - (a) a European site (which has the meaning given in regulation 8 of the Conservation of Habitats and Species Regulations 2017[^key-fe270cdb93090e08e8702c718afaf4a3]);
+  - (a) a European site (which has the meaning given in regulation 8 of the Conservation of Habitats and Species Regulations 2017[^c-fe270cdb93090e08e8702c718afaf4a3]);
   - (b) a site of special scientific interest (which has the meaning given in section 52(1) of the Wildlife and Countryside Act 1981 [^c23193281]);
 - “**heated aquifer system**” means a system used for both heating and cooling and where in a 5-year period the ratio of the discharge water temperature to the abstracted water temperature exceeds 1.2.
 
@@ -1982,7 +1982,7 @@ limited to the amount strictly necessary for that purpose[^key-68d582ee850b86b64
 
 (4) In sub-paragraph (3), “**designated site**” means—
 
-- (a) a European site (which has the meaning given in regulation 8 of the Conservation of Habitats and Species Regulations 2017[^key-fe8f6d22c14a6ff5ce425b56385de33b]),
+- (a) a European site (which has the meaning given in regulation 8 of the Conservation of Habitats and Species Regulations 2017[^c-fe8f6d22c14a6ff5ce425b56385de33b]),
 - (b) a Ramsar site (which has the same meaning as in section 37A of the Wildlife and Countryside Act 1981 [^c23193291]),
 - (c) a site of special scientific interest (which has the meaning given in section 52(1) of the Wildlife and Countryside Act 1981), or
 - (d) a nature reserve established by a local authority under section 21 of the National Parks and Access to the Countryside Act 1949 [^c23193301].
@@ -1995,13 +1995,13 @@ limited to the amount strictly necessary for that purpose[^key-68d582ee850b86b64
 - “**designated sensitive water body**” means a water body included in the dataset sealed by the Agency on 20th October 2015 entitled “Water bodies in England identified as sensitive for flood risk activities under the Environmental Permitting Regulations because sediment management may compromise delivery of the environmental objectives of the Water Framework Directive” and published by the Agency [^c23193331];
 - “**the dredging and removal of silt and sand requirements**” means the document published by the Agency on 1st February 2016 entitled “Dredging and the removal of silt and sand from main rivers as a flood risk activity under the Environmental Permitting Regulations”[^c23193341];
 - “**protected species**” means—
-  - (a) a species of a kind listed in Annex 1 to Directive[^key-6e400e50b2f2ed68e8cc5be42d6a0ffd] [2009/147/EC](https://www.legislation.gov.uk/eudr/2009/147) of the European Parliament and of the Council on the conservation of wild birds or Annex 4 to Council Directive [92/43/EEC](https://www.legislation.gov.uk/eudr/1992/43) on the conservation of natural habitats and of wild fauna and flora;
+  - (a) a species of a kind listed in Annex 1 to Directive[^c-6e400e50b2f2ed68e8cc5be42d6a0ffd] [2009/147/EC](https://www.legislation.gov.uk/eudr/2009/147) of the European Parliament and of the Council on the conservation of wild birds or Annex 4 to Council Directive [92/43/EEC](https://www.legislation.gov.uk/eudr/1992/43) on the conservation of natural habitats and of wild fauna and flora;
   - (b) a species in respect of which any adverse impact is in accordance with a licence issued under section 16 of the Wildlife and Countryside Act 1981 [^c23193371];
 - “**relevant directions**” means the Water Framework Directive (Standards and Classification) Directions (England and Wales) 2015 [^c23193381].
 
 (6) In this Part, “**bank**” has the meaning given in paragraph 2(2)(a) in Part 1 of Schedule 25 and paragraph 2(2)(b) to (d) of that Schedule applies to this Part.
 
-(7)[^key-204e42144ff8b74445a5068e53a0b1f9] In sub-paragraph (5), in sub-paragraph (a) of the definition of “protected species”, a reference to a species listed in an Annex to Directive [2009/147/EC](https://www.legislation.gov.uk/eudr/2009/147) or Council Directive [92/43/EEC](https://www.legislation.gov.uk/eudr/1992/43) is to be construed as including a reference to any other species protected under the Conservation of Habitats and Species Regulations 2017.
+(7)[^c-204e42144ff8b74445a5068e53a0b1f9] In sub-paragraph (5), in sub-paragraph (a) of the definition of “protected species”, a reference to a species listed in an Annex to Directive [2009/147/EC](https://www.legislation.gov.uk/eudr/2009/147) or Council Directive [92/43/EEC](https://www.legislation.gov.uk/eudr/1992/43) is to be construed as including a reference to any other species protected under the Conservation of Habitats and Species Regulations 2017.
 
 #### 2. Electrical cable services
 
@@ -2063,7 +2063,7 @@ limited to the amount strictly necessary for that purpose[^key-68d582ee850b86b64
 - (b) the service crossing follows the existing cross-sectional profile of the structure to the main river in both normal and flood flow,
 - (c) the service crossing does not pass through any bank, culvert, flood defence structure or river control works on the main river or through any sea defence,
 - (d) permanent hazard markers are erected on both banks of the main river, and
-- (e) a notification has not been sent by the regulator to the landowner that the structure has been identified for removal or modification in order to achieve the environmental objectives in relation to a river basin district[^key-2418769e2ae5e860e777009ac2e878d8].
+- (e) a notification has not been sent by the regulator to the landowner that the structure has been identified for removal or modification in order to achieve the environmental objectives in relation to a river basin district[^c-2418769e2ae5e860e777009ac2e878d8].
 
 #### 5. Footbridges
 
@@ -2312,9 +2312,9 @@ limited to the amount strictly necessary for that purpose[^key-68d582ee850b86b64
   - (i) 10 metres, or
   - (ii) the width of the channel measured between the top of each bank of the main river.
 
-#### 20. Notches[^key-266172def9ddddbe3c1f88187ec6fac1]
+#### 20. Notches[^c-266172def9ddddbe3c1f88187ec6fac1]
 
-(1) Construction of [^key-d9f97467c244debfd24463491b18c584]...notches on an existing impoundment.
+(1) Construction of [^c-d9f97467c244debfd24463491b18c584]...notches on an existing impoundment.
 
 (2) For the purposes of this paragraph, the specific conditions are—
 
@@ -2542,17 +2542,17 @@ limited to the amount strictly necessary for that purpose[^key-68d582ee850b86b64
 
 [^c23193041]: Marginal citation: [2013 c. 10](https://www.legislation.gov.uk/ukpga/2013/10).
 
-[^key-21fcd2a7cd2a0edbdcca5dd928fa8967]: Textual amendment: Word in Sch. 3 Ch. 1 para. 1(8)(b) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/4/a/i)
+[^c-21fcd2a7cd2a0edbdcca5dd928fa8967]: Textual amendment: Word in Sch. 3 Ch. 1 para. 1(8)(b) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/4/a/i)
 
-[^key-fcfada8286452dc9450bc6ab97d679fe]: Textual amendment: Word in Sch. 3 Ch. 1 para. 1(8)(b) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/4/a/ii)
+[^c-fcfada8286452dc9450bc6ab97d679fe]: Textual amendment: Word in Sch. 3 Ch. 1 para. 1(8)(b) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/4/a/ii)
 
 [^c23193051]: Marginal citation: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59).
 
-[^key-6720461b7a789d9beebf4b975f595bcd]: Textual amendment: Words in [Sch. 3 Pt. 1 Ch. 2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/1/chapter/2) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6720461b7a789d9beebf4b975f595bcd]: Textual amendment: Words in [Sch. 3 Pt. 1 Ch. 2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/1/chapter/2) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2d4ac23bd3ab0f6cb675fe5f0997758f]: Textual amendment: Word in Sch. 3 Ch. 3 s. 1 para. 1(1)(a) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(4)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/4/b/i/aa)
+[^c-2d4ac23bd3ab0f6cb675fe5f0997758f]: Textual amendment: Word in Sch. 3 Ch. 3 s. 1 para. 1(1)(a) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(4)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/4/b/i/aa)
 
-[^key-5db2a376c771f98167aa3ad7b7ab74fd]: Textual amendment: Word in Sch. 3 Ch. 3 s. 1 para. 1(2) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(4)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/4/b/i/bb)
+[^c-5db2a376c771f98167aa3ad7b7ab74fd]: Textual amendment: Word in Sch. 3 Ch. 3 s. 1 para. 1(2) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(4)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/4/b/i/bb)
 
 [^c23193061]: Marginal citation: OJ No L 353, 31.12.2008, p 1, as last amended by Commission Regulation (EU) No 1297/2014 (OJ No L 350, 6.12.2014, p 1).
 
@@ -2560,11 +2560,11 @@ limited to the amount strictly necessary for that purpose[^key-68d582ee850b86b64
 
 [^c23193081]: Marginal citation: See http://www.hse.gov.uk/pubns/priced/eh40.pdf. A copy may be obtained by writing to Health and Safety Executive Books at PO Box 1999, Sudbury, Suffolk CO10 2WA or via https://books.hse.gov.uk/hse/public/home.jsf.
 
-[^key-8006d1bd0962ace65c5faec3fed45ac5]: Textual amendment: Sch. 3 Ch. 3 s. 2 para. 22 omitted (1.10.2020) by virtue of [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(4)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/4/b/ii/aa)
+[^c-8006d1bd0962ace65c5faec3fed45ac5]: Textual amendment: Sch. 3 Ch. 3 s. 2 para. 22 omitted (1.10.2020) by virtue of [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(4)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/4/b/ii/aa)
 
 [^c23193091]: Marginal citation: [S.I. 2001/3998](https://www.legislation.gov.uk/uksi/2001/3998); relevant amending instruments are [S.I. 2003/1432](https://www.legislation.gov.uk/uksi/2003/1432), 2005/1653, 2864, 3372, 2007/2154, 2009/3136, 2010/1144, 1799, 2011/448, 2012/973, 1311, 2013/176, 625, 2014/1275, 1377, 3277, 2015/231 and 891.
 
-[^key-4f54ca65ec50ee0062e21d509af8b8a4]: Textual amendment: Sch. 3 Ch. 3 s. 2 para. 33 inserted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(4)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/4/b/ii/bb)
+[^c-4f54ca65ec50ee0062e21d509af8b8a4]: Textual amendment: Sch. 3 Ch. 3 s. 2 para. 33 inserted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(4)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/4/b/ii/bb)
 
 [^c23193101]: Marginal citation: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 
@@ -2588,7 +2588,7 @@ limited to the amount strictly necessary for that purpose[^key-68d582ee850b86b64
 
 [^c23193201]: Marginal citation: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59).
 
-[^key-718494df810a9b030d20f5cfd602e0c8]: Textual amendment: Words in Sch. 3 Pt. 2 para. 1(3)(a) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 73(2)(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/73/2/a)
+[^c-718494df810a9b030d20f5cfd602e0c8]: Textual amendment: Words in Sch. 3 Pt. 2 para. 1(3)(a) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 73(2)(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/73/2/a)
 
 [^c23193221]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69); section 37A was inserted by section 77 of the [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37) and was amended by paragraph 86 of Part 1 of Schedule 11 to the [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), by paragraphs 5 and 7 of Schedule 2 to the Planning (Wales) Act 2015 (anaw. 4) and by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90).
 
@@ -2600,31 +2600,31 @@ limited to the amount strictly necessary for that purpose[^key-68d582ee850b86b64
 
     https://naturalresources.wales/media/679225/canllawiau-ar-gyfer-cofrestru-gollyngiadau-elifion-carthion-bach.pdf. A copy may be obtained from Natural Resources Wales, c/o Customer Care Centre, Ty Cambria, 29 Newport Road, Cardiff, CF24 0TP.
 
-[^key-613504ac0d7b6483792e0e9c48e721d9]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/2/paragraph/3/2/a) substituted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2023/651/regulation/5/a)
+[^c-613504ac0d7b6483792e0e9c48e721d9]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/2/paragraph/3/2/a) substituted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2023/651/regulation/5/a)
 
 [^c23193261]: Marginal citation: See https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/397173/ssd-general-binding-rules.pdf. A copy may be obtained from the Environment Agency, National Customer Contact Centre, PO Box 544, Rotherham, S60 1BY.
 
-[^key-53a150152e4cb62d6c1a9eea7e4ec9f9]: Textual amendment: Words in [Sch. 3 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/3/paragraph/1) inserted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [5(b)(i)](https://www.legislation.gov.uk/uksi/2023/651/regulation/5/b/i)
+[^c-53a150152e4cb62d6c1a9eea7e4ec9f9]: Textual amendment: Words in [Sch. 3 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/3/paragraph/1) inserted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [5(b)(i)](https://www.legislation.gov.uk/uksi/2023/651/regulation/5/b/i)
 
-[^key-817b6c941668ac277a235f98ab14e0f2]: Textual amendment: Words in [Sch. 3 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/3/paragraph/1) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(9)(b)(i)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/9/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-817b6c941668ac277a235f98ab14e0f2]: Textual amendment: Words in [Sch. 3 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/3/paragraph/1) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(9)(b)(i)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/9/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-68d582ee850b86b647792d7018459cdd]: Textual amendment: Words in [Sch. 3 Pt. 3 para. 2(1)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/3/paragraph/2/1) inserted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/9/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-68d582ee850b86b647792d7018459cdd]: Textual amendment: Words in [Sch. 3 Pt. 3 para. 2(1)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/3/paragraph/2/1) inserted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/9/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7911140a75a23d9c351686aa1ab4b9d3]: Textual amendment: Words in [Sch. 3 Pt. 3 para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/3/paragraph/4/2/a) substituted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [5(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/651/regulation/5/b/ii/aa)
+[^c-7911140a75a23d9c351686aa1ab4b9d3]: Textual amendment: Words in [Sch. 3 Pt. 3 para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/3/paragraph/4/2/a) substituted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [5(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/651/regulation/5/b/ii/aa)
 
-[^key-97885220347229cc17bd077324231ed1]: Textual amendment: [Sch. 3 Pt. 3 para. 4(2)(d)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/3/paragraph/4/2/d) substituted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [5(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/651/regulation/5/b/ii/bb)
+[^c-97885220347229cc17bd077324231ed1]: Textual amendment: [Sch. 3 Pt. 3 para. 4(2)(d)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/3/paragraph/4/2/d) substituted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [5(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/651/regulation/5/b/ii/bb)
 
-[^key-2f4502612063daf2e275ff316b04eda6]: Textual amendment: Words in [Sch. 3 Pt. 3 para. 5(2)(e)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/3/paragraph/5/2/e) inserted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [5(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2023/651/regulation/5/b/iii/aa)
+[^c-2f4502612063daf2e275ff316b04eda6]: Textual amendment: Words in [Sch. 3 Pt. 3 para. 5(2)(e)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/3/paragraph/5/2/e) inserted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [5(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2023/651/regulation/5/b/iii/aa)
 
-[^key-3547218e51390580c90e427368fd62f5]: Textual amendment: [Sch. 3 Pt. 3 para. 5(ea)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/3/paragraph/5/ea) inserted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [5(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2023/651/regulation/5/b/iii/bb)
+[^c-3547218e51390580c90e427368fd62f5]: Textual amendment: [Sch. 3 Pt. 3 para. 5(ea)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/3/paragraph/5/ea) inserted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [5(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2023/651/regulation/5/b/iii/bb)
 
-[^key-fe270cdb93090e08e8702c718afaf4a3]: Textual amendment: Words in Sch. 3 Pt. 3 para. 5(4) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 73(2)(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/73/2/b)
+[^c-fe270cdb93090e08e8702c718afaf4a3]: Textual amendment: Words in Sch. 3 Pt. 3 para. 5(4) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 73(2)(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/73/2/b)
 
 [^c23193281]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69); the definition was inserted by paragraph 5(2) of Schedule 9 to the [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37).
 
 [^M_F_c0f10ea6-4f01-4c72-ba17-6de32f624e29]: Textual amendment: [Sch. 3 Pt. 3 paras. 6](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/3/paragraph/6), (7) inserted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [5(b)(iv)](https://www.legislation.gov.uk/uksi/2023/651/regulation/5/b/iv)
 
-[^key-fe8f6d22c14a6ff5ce425b56385de33b]: Textual amendment: Words in Sch. 3 Pt. 4 para. 1(4)(a) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 73(2)(c)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/73/2/c)
+[^c-fe8f6d22c14a6ff5ce425b56385de33b]: Textual amendment: Words in Sch. 3 Pt. 4 para. 1(4)(a) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 73(2)(c)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/73/2/c)
 
 [^c23193291]: Marginal citation: Section 37A was inserted by section 77 of the Countryside and Rights of Way Act 2000 and was amended by paragraph 86 of Part 1 of Schedule 11 to the [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), by paragraphs 5 and 7 of Schedule 2 to the Planning (Wales) Act 2015 (anaw. 4) and by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90).
 
@@ -2638,15 +2638,15 @@ limited to the amount strictly necessary for that purpose[^key-68d582ee850b86b64
 
 [^c23193341]: Marginal citation: A copy may be obtained from the Environment Agency, National Customer Contact Centre, PO Box 544, Rotherham, S60 1BY.
 
-[^key-6e400e50b2f2ed68e8cc5be42d6a0ffd]: Textual amendment: Words in Sch. 3 Pt. 4 para. 1(5) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(9)(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/9/c/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6e400e50b2f2ed68e8cc5be42d6a0ffd]: Textual amendment: Words in Sch. 3 Pt. 4 para. 1(5) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(9)(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/9/c/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23193371]: Marginal citation: Section 16 was amended by paragraph 11(4) of Schedule 9 to the 1990 Act, paragraph 6 of Schedule 12 to the Countryside and Rights of Way Act 2000, paragraph 72 of Part 1 of Schedule 11 to the Natural Environment and Rural Communities Act 2006, section 10 of the [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) and by [S.I. 1995/2825](https://www.legislation.gov.uk/uksi/1995/2825), 2007/1843 and 2013/755 (W. 90).
 
 [^c23193381]: Marginal citation: These Directions were made on 9th September 2015 in exercise of powers in section 40(2) of the 1995 Act and are available at http://www.legislation.gov.uk/uksi/2015/1623/pdfs/uksiod\_20151623\_en.pdf. A copy may be obtained from the Flood Risk Management Team, the Department for Environment, Food and Rural Affairs, Area 3C, Nobel House, 17 Smith Square, London SW1P 3JR.
 
-[^key-204e42144ff8b74445a5068e53a0b1f9]: Textual amendment: Sch. 3 Pt. 4 para. 1(7) inserted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(9)(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/9/c/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-204e42144ff8b74445a5068e53a0b1f9]: Textual amendment: Sch. 3 Pt. 4 para. 1(7) inserted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(9)(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/9/c/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2418769e2ae5e860e777009ac2e878d8]: Textual amendment: Words in [Sch. 3 Pt. 4 para. 4(2)(e)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/4/paragraph/4/2/e) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(9)(d)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/9/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2418769e2ae5e860e777009ac2e878d8]: Textual amendment: Words in [Sch. 3 Pt. 4 para. 4(2)(e)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/3/part/4/paragraph/4/2/e) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(9)(d)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/9/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23193391]: Marginal citation: [2006 c. 16](https://www.legislation.gov.uk/ukpga/2006/16).
 
@@ -2656,9 +2656,9 @@ limited to the amount strictly necessary for that purpose[^key-68d582ee850b86b64
 
 [^c23193421]: Marginal citation: 2016 anaw. 3.
 
-[^key-266172def9ddddbe3c1f88187ec6fac1]: Textual amendment: Sch. 3 Pt. 4 para. 20 heading substituted (7.1.2019) by [The Environmental Protection (Miscellaneous Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1227)](https://www.legislation.gov.uk/uksi/2018/1227), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/2/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/4/3/a)
+[^c-266172def9ddddbe3c1f88187ec6fac1]: Textual amendment: Sch. 3 Pt. 4 para. 20 heading substituted (7.1.2019) by [The Environmental Protection (Miscellaneous Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1227)](https://www.legislation.gov.uk/uksi/2018/1227), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/2/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/4/3/a)
 
-[^key-d9f97467c244debfd24463491b18c584]: Textual amendment: Words in Sch. 3 Pt. 4 para. 20(1) omitted (7.1.2019) by virtue of [The Environmental Protection (Miscellaneous Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1227)](https://www.legislation.gov.uk/uksi/2018/1227), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/2/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/4/3/b)
+[^c-d9f97467c244debfd24463491b18c584]: Textual amendment: Words in Sch. 3 Pt. 4 para. 20(1) omitted (7.1.2019) by virtue of [The Environmental Protection (Miscellaneous Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1227)](https://www.legislation.gov.uk/uksi/2018/1227), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/2/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/4/3/b)
 
 [^c23193431]: Marginal citation: [2006 c. 16](https://www.legislation.gov.uk/ukpga/2006/16).
 

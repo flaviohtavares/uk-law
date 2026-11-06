@@ -71,14 +71,14 @@ In schedule 3, the amounts set out in column 2 are the amounts specified for fin
 
 (1) For the purposes of section 4(2) of the PFA Act 2000, the overall cash authorisations for financial year 2012/13 are as follows.
 
-(2) In relation to the Scottish Administration, £31,178,566,000[^key-1d6013f3bdb9c46bf0545f5dc6893c64].
+(2) In relation to the Scottish Administration, £31,178,566,000[^c-1d6013f3bdb9c46bf0545f5dc6893c64].
 
 (3) In relation to the direct-funded bodies—
 
-- (a) the Forestry Commissioners, £66,750,000[^key-5a0bd01024aba7c5e33f933fe63042d2],
-- (b) the Food Standards Agency, £9,830,000,[^key-c4c7f8ad1800ea2d10cd7a8e02238957],
+- (a) the Forestry Commissioners, £66,750,000[^c-5a0bd01024aba7c5e33f933fe63042d2],
+- (b) the Food Standards Agency, £9,830,000,[^c-c4c7f8ad1800ea2d10cd7a8e02238957],
 - (c) the Scottish Parliamentary Corporate Body, £73,789,000,
-- (d) Audit Scotland, £6,986,000.[^key-e10ce7a4bfa52d8449057d46d745bf1d]
+- (d) Audit Scotland, £6,986,000.[^c-e10ce7a4bfa52d8449057d46d745bf1d]
 
 #### 5. Contingency payments
 
@@ -100,11 +100,11 @@ In schedule 3, the amounts set out in column 2 are the amounts specified for fin
 
 (6) Where the Scottish Ministers authorise a payment under this section they must, as soon as possible, lay before the Scottish Parliament a report setting out the circumstances of the authorisation and why they considered it to be necessary.
 
-## Part 2 — Financial year 2013/14[^key-65099cfb4c9ffbc484b7e364aabb7597]
+## Part 2 — Financial year 2013/14[^c-65099cfb4c9ffbc484b7e364aabb7597]
 
 **No longer in force.**
 
-### 6. Emergency arrangements[^key-65099cfb4c9ffbc484b7e364aabb7597]
+### 6. Emergency arrangements[^c-65099cfb4c9ffbc484b7e364aabb7597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -173,7 +173,7 @@ The short title of this Act is the Budget (Scotland) Act 2012.
 </tbody>
 </table>
 
-[^key-39edddeeb0ce25c8d26edfe6e5d28107][^key-65f6b7893177a29f5d89b571d7bd7b90][^key-d5e9a415e017fd952142f034f6bf2f69][^key-49b2cdf0e0ed23949c32e215d9b40402][^key-75f5f2307fd3e6aea33c1ef262477c37][^key-519ed513b6e8085535232be0168694ee][^key-7d8876cb3b24d26da6f55854a3537e93][^key-ccdbe72a826d263dc62ccbcec4b7a92e][^key-4df47654cc9c2f1cf8c85d75a325e1bf][^key-29a89b05e5183f787818dc161fdeff82][^key-ee97553f2fc61362f4dd4c09c07641e5][^key-89e85897eed20aeff19be5b4682036a7][^key-ce7e8f4f2fb0d92904e39fa1f90fa02d][^key-c49dc31ce9030533749e1899fcb13b7f][^key-fd1b7ebd64bc68ba0f4879ac1cf5cca9][^key-28c366bf77e1c53f2042323f8225e6f3][^key-56feb1999e344e000cf4080fd0b8d1fe][^key-a0f27fc1429fd5b597369c3a633f4c33][^key-d7a6809e6de5b0b5249cd91279681b4b][^key-9902b7ebbfe4db1ea62a9f55a1fb503d][^key-9902b7ebbfe4db1ea62a9f55a1fb503d][^key-9902b7ebbfe4db1ea62a9f55a1fb503d][^key-c97e5be3ac5d4faad2a42cca3b144623][^key-7ed69cf9b50bf9980ada1259cad39b68][^key-686be44e63548cea257478dcd9a1aa21][^key-9bca35c8e897b7816eb513ef0831018e][^key-c25fe0e3c17db04fedd6554df1bbe64f][^key-6b17979719cf2911c9da2b16ca188b3b][^key-1c7d8651396978b0009862c228a76ed7][^key-b4a29c3046d7b5d58d713c57bc49022c][^key-275a8f08376415f5fd5d0f6541eb66a5][^key-73b1edd1f2486f719ef4afd0c5084e45]
+[^c-39edddeeb0ce25c8d26edfe6e5d28107][^c-65f6b7893177a29f5d89b571d7bd7b90][^c-d5e9a415e017fd952142f034f6bf2f69][^c-49b2cdf0e0ed23949c32e215d9b40402][^c-75f5f2307fd3e6aea33c1ef262477c37][^c-519ed513b6e8085535232be0168694ee][^c-7d8876cb3b24d26da6f55854a3537e93][^c-ccdbe72a826d263dc62ccbcec4b7a92e][^c-4df47654cc9c2f1cf8c85d75a325e1bf][^c-29a89b05e5183f787818dc161fdeff82][^c-ee97553f2fc61362f4dd4c09c07641e5][^c-89e85897eed20aeff19be5b4682036a7][^c-ce7e8f4f2fb0d92904e39fa1f90fa02d][^c-c49dc31ce9030533749e1899fcb13b7f][^c-fd1b7ebd64bc68ba0f4879ac1cf5cca9][^c-28c366bf77e1c53f2042323f8225e6f3][^c-56feb1999e344e000cf4080fd0b8d1fe][^c-a0f27fc1429fd5b597369c3a633f4c33][^c-d7a6809e6de5b0b5249cd91279681b4b][^c-9902b7ebbfe4db1ea62a9f55a1fb503d][^c-9902b7ebbfe4db1ea62a9f55a1fb503d][^c-9902b7ebbfe4db1ea62a9f55a1fb503d][^c-c97e5be3ac5d4faad2a42cca3b144623][^c-7ed69cf9b50bf9980ada1259cad39b68][^c-686be44e63548cea257478dcd9a1aa21][^c-9bca35c8e897b7816eb513ef0831018e][^c-c25fe0e3c17db04fedd6554df1bbe64f][^c-6b17979719cf2911c9da2b16ca188b3b][^c-1c7d8651396978b0009862c228a76ed7][^c-b4a29c3046d7b5d58d713c57bc49022c][^c-275a8f08376415f5fd5d0f6541eb66a5][^c-73b1edd1f2486f719ef4afd0c5084e45]
 
 ## SCHEDULE 2 — Direct-funded bodies
 
@@ -190,7 +190,7 @@ The short title of this Act is the Budget (Scotland) Act 2012.
 </tbody>
 </table>
 
-[^key-8263c5a273a2cb8787558376d9bbd1bf][^key-3cd1d0c15e306027eaf7731564c79787][^key-b5179d003c197f413d365b68ac32f18f][^key-d103e20e850cf03af2c422f1392bbcc4][^key-e5114f288c164d2011cceee46d40a3e5]
+[^c-8263c5a273a2cb8787558376d9bbd1bf][^c-3cd1d0c15e306027eaf7731564c79787][^c-b5179d003c197f413d365b68ac32f18f][^c-d103e20e850cf03af2c422f1392bbcc4][^c-e5114f288c164d2011cceee46d40a3e5]
 
 ## SCHEDULE 3 — Borrowing by statutory bodies
 
@@ -210,82 +210,82 @@ The short title of this Act is the Budget (Scotland) Act 2012.
 
 ## Annotations
 
-[^key-1d6013f3bdb9c46bf0545f5dc6893c64]: Textual amendment: Sum in s. 4(2) substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2013/117/article/2/a)
+[^c-1d6013f3bdb9c46bf0545f5dc6893c64]: Textual amendment: Sum in s. 4(2) substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2013/117/article/2/a)
 
-[^key-5a0bd01024aba7c5e33f933fe63042d2]: Textual amendment: Sum in s. 4(3)(a) substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2013/117/article/2/b)
+[^c-5a0bd01024aba7c5e33f933fe63042d2]: Textual amendment: Sum in s. 4(3)(a) substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2013/117/article/2/b)
 
-[^key-c4c7f8ad1800ea2d10cd7a8e02238957]: Textual amendment: Sum in s. 4(3)(b) substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [2(c)](https://www.legislation.gov.uk/ssi/2013/117/article/2/c)
+[^c-c4c7f8ad1800ea2d10cd7a8e02238957]: Textual amendment: Sum in s. 4(3)(b) substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [2(c)](https://www.legislation.gov.uk/ssi/2013/117/article/2/c)
 
-[^key-e10ce7a4bfa52d8449057d46d745bf1d]: Textual amendment: Sum in s. 4(3)(d) substituted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [2(c)](https://www.legislation.gov.uk/ssi/2012/346/article/2/c)
+[^c-e10ce7a4bfa52d8449057d46d745bf1d]: Textual amendment: Sum in s. 4(3)(d) substituted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [2(c)](https://www.legislation.gov.uk/ssi/2012/346/article/2/c)
 
-[^key-65099cfb4c9ffbc484b7e364aabb7597]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/asp/2012/2/part/2) repealed (14.3.2013) by [Budget (Scotland) Act 2013 (asp 4)](https://www.legislation.gov.uk/asp/2013/4), [ss. 8](https://www.legislation.gov.uk/asp/2013/4/section/8), [10](https://www.legislation.gov.uk/asp/2013/4/section/10)
+[^c-65099cfb4c9ffbc484b7e364aabb7597]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/asp/2012/2/part/2) repealed (14.3.2013) by [Budget (Scotland) Act 2013 (asp 4)](https://www.legislation.gov.uk/asp/2013/4), [ss. 8](https://www.legislation.gov.uk/asp/2013/4/section/8), [10](https://www.legislation.gov.uk/asp/2013/4/section/10)
 
-[^key-39edddeeb0ce25c8d26edfe6e5d28107]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(a)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/a)
+[^c-39edddeeb0ce25c8d26edfe6e5d28107]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(a)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/a)
 
-[^key-65f6b7893177a29f5d89b571d7bd7b90]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(b)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/b)
+[^c-65f6b7893177a29f5d89b571d7bd7b90]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(b)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/b)
 
-[^key-d5e9a415e017fd952142f034f6bf2f69]: Textual amendment: Words in sch. 1 table substituted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(4)(a)(i)](https://www.legislation.gov.uk/ssi/2012/346/article/3/4/a/i)
+[^c-d5e9a415e017fd952142f034f6bf2f69]: Textual amendment: Words in sch. 1 table substituted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(4)(a)(i)](https://www.legislation.gov.uk/ssi/2012/346/article/3/4/a/i)
 
-[^key-49b2cdf0e0ed23949c32e215d9b40402]: Textual amendment: Words in sch. 1 table substituted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2012/346/article/3/4/a/ii)
+[^c-49b2cdf0e0ed23949c32e215d9b40402]: Textual amendment: Words in sch. 1 table substituted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2012/346/article/3/4/a/ii)
 
-[^key-75f5f2307fd3e6aea33c1ef262477c37]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(c)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/c)
+[^c-75f5f2307fd3e6aea33c1ef262477c37]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(c)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/c)
 
-[^key-519ed513b6e8085535232be0168694ee]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(d)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/d)
+[^c-519ed513b6e8085535232be0168694ee]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(d)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/d)
 
-[^key-7d8876cb3b24d26da6f55854a3537e93]: Textual amendment: Sum in sch. 1 table substituted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(6)(a)](https://www.legislation.gov.uk/ssi/2012/346/article/3/6/a)
+[^c-7d8876cb3b24d26da6f55854a3537e93]: Textual amendment: Sum in sch. 1 table substituted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(6)(a)](https://www.legislation.gov.uk/ssi/2012/346/article/3/6/a)
 
-[^key-ccdbe72a826d263dc62ccbcec4b7a92e]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(e)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/e)
+[^c-ccdbe72a826d263dc62ccbcec4b7a92e]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(e)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/e)
 
-[^key-4df47654cc9c2f1cf8c85d75a325e1bf]: Textual amendment: Words in sch. 1 table inserted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(4)(b)(i)](https://www.legislation.gov.uk/ssi/2012/346/article/3/4/b/i)
+[^c-4df47654cc9c2f1cf8c85d75a325e1bf]: Textual amendment: Words in sch. 1 table inserted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(4)(b)(i)](https://www.legislation.gov.uk/ssi/2012/346/article/3/4/b/i)
 
-[^key-29a89b05e5183f787818dc161fdeff82]: Textual amendment: Words in sch. 1 table substituted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2012/346/article/3/4/b/ii)
+[^c-29a89b05e5183f787818dc161fdeff82]: Textual amendment: Words in sch. 1 table substituted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2012/346/article/3/4/b/ii)
 
-[^key-ee97553f2fc61362f4dd4c09c07641e5]: Textual amendment: Words in sch. 1 table inserted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(4)(b)(iii)](https://www.legislation.gov.uk/ssi/2012/346/article/3/4/b/iii)
+[^c-ee97553f2fc61362f4dd4c09c07641e5]: Textual amendment: Words in sch. 1 table inserted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(4)(b)(iii)](https://www.legislation.gov.uk/ssi/2012/346/article/3/4/b/iii)
 
-[^key-89e85897eed20aeff19be5b4682036a7]: Textual amendment: Words in sch. 1 table inserted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(4)(b)(iv)](https://www.legislation.gov.uk/ssi/2012/346/article/3/4/b/iv)
+[^c-89e85897eed20aeff19be5b4682036a7]: Textual amendment: Words in sch. 1 table inserted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(4)(b)(iv)](https://www.legislation.gov.uk/ssi/2012/346/article/3/4/b/iv)
 
-[^key-ce7e8f4f2fb0d92904e39fa1f90fa02d]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(f)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/f)
+[^c-ce7e8f4f2fb0d92904e39fa1f90fa02d]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(f)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/f)
 
-[^key-c49dc31ce9030533749e1899fcb13b7f]: Textual amendment: Words in sch. 1 table substituted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(4)(c)(i)](https://www.legislation.gov.uk/ssi/2012/346/article/3/4/c/i)
+[^c-c49dc31ce9030533749e1899fcb13b7f]: Textual amendment: Words in sch. 1 table substituted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(4)(c)(i)](https://www.legislation.gov.uk/ssi/2012/346/article/3/4/c/i)
 
-[^key-fd1b7ebd64bc68ba0f4879ac1cf5cca9]: Textual amendment: Words in sch. 1 table substituted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(4)(c)(ii)](https://www.legislation.gov.uk/ssi/2012/346/article/3/4/c/ii)
+[^c-fd1b7ebd64bc68ba0f4879ac1cf5cca9]: Textual amendment: Words in sch. 1 table substituted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(4)(c)(ii)](https://www.legislation.gov.uk/ssi/2012/346/article/3/4/c/ii)
 
-[^key-28c366bf77e1c53f2042323f8225e6f3]: Textual amendment: Words in sch. 1 table omitted (13.12.2012) by virtue of [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(4)(c)(iii)](https://www.legislation.gov.uk/ssi/2012/346/article/3/4/c/iii)
+[^c-28c366bf77e1c53f2042323f8225e6f3]: Textual amendment: Words in sch. 1 table omitted (13.12.2012) by virtue of [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(4)(c)(iii)](https://www.legislation.gov.uk/ssi/2012/346/article/3/4/c/iii)
 
-[^key-56feb1999e344e000cf4080fd0b8d1fe]: Textual amendment: Words in sch. 1 table inserted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(4)(c)(iv)](https://www.legislation.gov.uk/ssi/2012/346/article/3/4/c/iv)
+[^c-56feb1999e344e000cf4080fd0b8d1fe]: Textual amendment: Words in sch. 1 table inserted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(4)(c)(iv)](https://www.legislation.gov.uk/ssi/2012/346/article/3/4/c/iv)
 
-[^key-a0f27fc1429fd5b597369c3a633f4c33]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(g)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/g)
+[^c-a0f27fc1429fd5b597369c3a633f4c33]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(g)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/g)
 
-[^key-d7a6809e6de5b0b5249cd91279681b4b]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(h)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/h)
+[^c-d7a6809e6de5b0b5249cd91279681b4b]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(h)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/h)
 
-[^key-9902b7ebbfe4db1ea62a9f55a1fb503d]: Textual amendment: Words in sch. 1 table omitted (13.12.2012) by virtue of [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2012/346/article/3/2)
+[^c-9902b7ebbfe4db1ea62a9f55a1fb503d]: Textual amendment: Words in sch. 1 table omitted (13.12.2012) by virtue of [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2012/346/article/3/2)
 
-[^key-c97e5be3ac5d4faad2a42cca3b144623]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(i)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/i)
+[^c-c97e5be3ac5d4faad2a42cca3b144623]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(i)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/i)
 
-[^key-7ed69cf9b50bf9980ada1259cad39b68]: Textual amendment: Sum in Sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(j)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/j)
+[^c-7ed69cf9b50bf9980ada1259cad39b68]: Textual amendment: Sum in Sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(j)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/j)
 
-[^key-686be44e63548cea257478dcd9a1aa21]: Textual amendment: Sum in sch. 1 table substituted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(6)(b)](https://www.legislation.gov.uk/ssi/2012/346/article/3/6/b)
+[^c-686be44e63548cea257478dcd9a1aa21]: Textual amendment: Sum in sch. 1 table substituted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(6)(b)](https://www.legislation.gov.uk/ssi/2012/346/article/3/6/b)
 
-[^key-9bca35c8e897b7816eb513ef0831018e]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(k)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/k)
+[^c-9bca35c8e897b7816eb513ef0831018e]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(k)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/k)
 
-[^key-c25fe0e3c17db04fedd6554df1bbe64f]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(l)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/l)
+[^c-c25fe0e3c17db04fedd6554df1bbe64f]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(l)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/l)
 
-[^key-6b17979719cf2911c9da2b16ca188b3b]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(m)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/m)
+[^c-6b17979719cf2911c9da2b16ca188b3b]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(m)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/m)
 
-[^key-1c7d8651396978b0009862c228a76ed7]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(n)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/n)
+[^c-1c7d8651396978b0009862c228a76ed7]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(n)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/n)
 
-[^key-b4a29c3046d7b5d58d713c57bc49022c]: Textual amendment: Words in sch. 1 table inserted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2012/346/article/3/3)
+[^c-b4a29c3046d7b5d58d713c57bc49022c]: Textual amendment: Words in sch. 1 table inserted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2012/346/article/3/3)
 
-[^key-275a8f08376415f5fd5d0f6541eb66a5]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(o)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/o)
+[^c-275a8f08376415f5fd5d0f6541eb66a5]: Textual amendment: Sum in sch. 1 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [3(1)(o)](https://www.legislation.gov.uk/ssi/2013/117/article/3/1/o)
 
-[^key-73b1edd1f2486f719ef4afd0c5084e45]: Textual amendment: Sum in sch. 1 table substituted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(6)(c)](https://www.legislation.gov.uk/ssi/2012/346/article/3/6/c)
+[^c-73b1edd1f2486f719ef4afd0c5084e45]: Textual amendment: Sum in sch. 1 table substituted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [3(6)(c)](https://www.legislation.gov.uk/ssi/2012/346/article/3/6/c)
 
-[^key-8263c5a273a2cb8787558376d9bbd1bf]: Textual amendment: Sum in sch. 2 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [4(a)](https://www.legislation.gov.uk/ssi/2013/117/article/4/a)
+[^c-8263c5a273a2cb8787558376d9bbd1bf]: Textual amendment: Sum in sch. 2 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [4(a)](https://www.legislation.gov.uk/ssi/2013/117/article/4/a)
 
-[^key-3cd1d0c15e306027eaf7731564c79787]: Textual amendment: Sum in sch. 2 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [4(b)](https://www.legislation.gov.uk/ssi/2013/117/article/4/b)
+[^c-3cd1d0c15e306027eaf7731564c79787]: Textual amendment: Sum in sch. 2 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [4(b)](https://www.legislation.gov.uk/ssi/2013/117/article/4/b)
 
-[^key-b5179d003c197f413d365b68ac32f18f]: Textual amendment: Sum in sch. 2 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [4(c)](https://www.legislation.gov.uk/ssi/2013/117/article/4/c)
+[^c-b5179d003c197f413d365b68ac32f18f]: Textual amendment: Sum in sch. 2 substituted (31.3.2013) by [The Budget (Scotland) Act 2012 Amendment Order 2013 (S.S.I. 2013/117)](https://www.legislation.gov.uk/ssi/2013/117), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/117/article/1/1), [4(c)](https://www.legislation.gov.uk/ssi/2013/117/article/4/c)
 
-[^key-d103e20e850cf03af2c422f1392bbcc4]: Textual amendment: Words in sch. 2 table inserted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [4(a)](https://www.legislation.gov.uk/ssi/2012/346/article/4/a)
+[^c-d103e20e850cf03af2c422f1392bbcc4]: Textual amendment: Words in sch. 2 table inserted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [4(a)](https://www.legislation.gov.uk/ssi/2012/346/article/4/a)
 
-[^key-e5114f288c164d2011cceee46d40a3e5]: Textual amendment: Sum in sch. 2 table substituted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [4(b)(ii)](https://www.legislation.gov.uk/ssi/2012/346/article/4/b/ii)
+[^c-e5114f288c164d2011cceee46d40a3e5]: Textual amendment: Sum in sch. 2 table substituted (13.12.2012) by [The Budget (Scotland) Act 2012 Amendment Order 2012 (S.S.I. 2012/346)](https://www.legislation.gov.uk/ssi/2012/346), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/346/article/1/1), [4(b)(ii)](https://www.legislation.gov.uk/ssi/2012/346/article/4/b/ii)

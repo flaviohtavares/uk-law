@@ -133,7 +133,7 @@ Certificates and notices for the purposes of section 42 (notification of applica
 
 ## 6. Duty of council to consult on applications for listed building consent
 
-(1) Before determining an application for listed building consent the council must consult with the Department for Communities[^key-a3682413e930289f58fcabc12c7b3b7b] and must, in determining the application, take into account any representations made by it.
+(1) Before determining an application for listed building consent the council must consult with the Department for Communities[^c-a3682413e930289f58fcabc12c7b3b7b] and must, in determining the application, take into account any representations made by it.
 
 (2) Where the Department for Communities is consulted under paragraph (1) it must respond within—
 
@@ -193,7 +193,7 @@ starting on the date on which it receives the information specified in regulatio
 
 ## 11. Applications to the Department for consent to execute works without compliance with conditions previously attached
 
-(1) Where an application under section 95 is required to be made to the Department, regulations 4 to 6, 7(1)[^key-766e94c85f21db2dc4b52366c495f232] and 10(1), (2) and (3) shall apply to that application and references to a council shall be construed as a reference to the Department.
+(1) Where an application under section 95 is required to be made to the Department, regulations 4 to 6, 7(1)[^c-766e94c85f21db2dc4b52366c495f232] and 10(1), (2) and (3) shall apply to that application and references to a council shall be construed as a reference to the Department.
 
 (2) Where an application under section 95 is made to the Department it shall consult the appropriate council.
 
@@ -355,9 +355,9 @@ The Explanatory Memorandum is available alongside these Regulations on the gover
 
 [^c22389121]: Marginal citation: [2001 c.9 (N.I.)](https://www.legislation.gov.uk/nia/2001/9) as amended by [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21)
 
-[^key-a3682413e930289f58fcabc12c7b3b7b]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/nisr/2015/108/regulation/6) substituted (9.5.2016) by [The Planning (Listed Buildings) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/117)](https://www.legislation.gov.uk/nisr/2016/117), [regs. 1](https://www.legislation.gov.uk/nisr/2016/117/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/117/regulation/2/2)
+[^c-a3682413e930289f58fcabc12c7b3b7b]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/nisr/2015/108/regulation/6) substituted (9.5.2016) by [The Planning (Listed Buildings) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/117)](https://www.legislation.gov.uk/nisr/2016/117), [regs. 1](https://www.legislation.gov.uk/nisr/2016/117/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/117/regulation/2/2)
 
-[^key-766e94c85f21db2dc4b52366c495f232]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/nisr/2015/108/regulation/11/1) substituted (9.5.2016) by [The Planning (Listed Buildings) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/117)](https://www.legislation.gov.uk/nisr/2016/117), [regs. 1](https://www.legislation.gov.uk/nisr/2016/117/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2016/117/regulation/2/3)
+[^c-766e94c85f21db2dc4b52366c495f232]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/nisr/2015/108/regulation/11/1) substituted (9.5.2016) by [The Planning (Listed Buildings) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/117)](https://www.legislation.gov.uk/nisr/2016/117), [regs. 1](https://www.legislation.gov.uk/nisr/2016/117/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2016/117/regulation/2/3)
 
 [^c22389131]: Marginal citation: S.R. [1992 No.263](https://www.legislation.gov.uk/ukcm/1992/263)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 451. Investment of additional voluntary contributions[^key-9636062f5fe4d9135d5db7e16c9a2c7e]
+## 451. Investment of additional voluntary contributions[^c-9636062f5fe4d9135d5db7e16c9a2c7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9636062f5fe4d9135d5db7e16c9a2c7e]: Commencement: Art. 451 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-9636062f5fe4d9135d5db7e16c9a2c7e]: Commencement: Art. 451 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00303]: Footnote: Paragraph (2) of regulation 6 was modified by [S.I. 1994/1696](https://www.legislation.gov.uk/uksi/1994/1696), regulation 68, Schedule 8, paragraph 37(a). That modification has been incorporated in paragraph (2)(a) as amended by this Order.

@@ -22,7 +22,7 @@ summary: ''
 
 (1)[^c17106221] The trustees or managers must obtain the agreement of the employer to—
 
-- (za)[^key-064d1f18a78e930622f0208e3d2fb8db] the scheme's funding and investment strategy, as set out in the scheme's statement of strategy;
+- (za)[^c-064d1f18a78e930622f0208e3d2fb8db] the scheme's funding and investment strategy, as set out in the scheme's statement of strategy;
 - (a) any decision as to the methods and assumptions to be used in calculating the scheme's technical provisions (see Article 201(4));
 - (b) any matter to be included in the statement of funding principles (see Article 202);
 - (c) any provisions of a recovery plan (see Article 205);
@@ -50,4 +50,4 @@ For this purpose “subsisting right” and “survivor” have the meanings giv
 
 [^c17106221]: Textual amendment: mod. by SR 2005/568
 
-[^key-064d1f18a78e930622f0208e3d2fb8db]: Textual amendment: [Art. 208(1)(za)](https://www.legislation.gov.uk/nisi/2005/255/article/208/1/za) inserted (11.2.2021 for specified purposes, 6.4.2024 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/6); [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
+[^c-064d1f18a78e930622f0208e3d2fb8db]: Textual amendment: [Art. 208(1)(za)](https://www.legislation.gov.uk/nisi/2005/255/article/208/1/za) inserted (11.2.2021 for specified purposes, 6.4.2024 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/6); [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)

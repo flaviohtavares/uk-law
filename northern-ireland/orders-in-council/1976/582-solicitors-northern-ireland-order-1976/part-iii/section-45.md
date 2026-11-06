@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Procedure on application by solicitor or former solicitor[^key-2610eccc17d892d05c84d1f8ba792f72][^c17114251]
+## 45. Procedure on application by solicitor or former solicitor[^c-2610eccc17d892d05c84d1f8ba792f72][^c17114251]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ Where an application is made under Article 44(1)(a), (b), (c) or (d), the Tribun
 
 ## Annotations
 
-[^key-2610eccc17d892d05c84d1f8ba792f72]: Modification: [Art. 45](https://www.legislation.gov.uk/nisi/1976/582/article/45) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(w)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/w)
+[^c-2610eccc17d892d05c84d1f8ba792f72]: Modification: [Art. 45](https://www.legislation.gov.uk/nisi/1976/582/article/45) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(w)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/w)
 
 [^c17114251]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/nisi/1989)

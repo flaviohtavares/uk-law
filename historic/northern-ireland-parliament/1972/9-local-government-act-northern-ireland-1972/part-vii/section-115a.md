@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 115A. Publicity Prohibition of political publicity.[^key-c1813569d4728256493620f8ef1549e6][^c16963821]
+## 115A. Publicity Prohibition of political publicity.[^c-c1813569d4728256493620f8ef1549e6][^c16963821]
 
 *Extent: N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c1813569d4728256493620f8ef1549e6]: Modification: [S. 115A](https://www.legislation.gov.uk/apni/1972/9/section/115A) applied (with mods) (2.7.2013) by [The Local Government (Statutory Transition Committees) Regulations (Northern Ireland) 2013 (S.R. 2013/179)](https://www.legislation.gov.uk/nisr/2013/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/179/regulation/1/1), [22](https://www.legislation.gov.uk/nisr/2013/179/regulation/22), [Sch. 2](https://www.legislation.gov.uk/nisr/2013/179/schedule/2)
+[^c-c1813569d4728256493620f8ef1549e6]: Modification: [S. 115A](https://www.legislation.gov.uk/apni/1972/9/section/115A) applied (with mods) (2.7.2013) by [The Local Government (Statutory Transition Committees) Regulations (Northern Ireland) 2013 (S.R. 2013/179)](https://www.legislation.gov.uk/nisr/2013/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/179/regulation/1/1), [22](https://www.legislation.gov.uk/nisr/2013/179/regulation/22), [Sch. 2](https://www.legislation.gov.uk/nisr/2013/179/schedule/2)
 
 [^c16963821]: Textual amendment: [1992 NI 6](https://www.legislation.gov.uk/1992/ni6)

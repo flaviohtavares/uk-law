@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 292AA. Maximum risk finance investments when relevant holding is issued requirement[^key-19be716464bcd3d6fd178f774b9dc9c4]
+## 292AA. Maximum risk finance investments when relevant holding is issued requirement[^c-19be716464bcd3d6fd178f774b9dc9c4]
 
 *Extent: E+W+S+N.I.*
 
 (1) The total amount of relevant investments made in the relevant company on or before the investment date must not exceed—
 
-- (a)[^key-7d465837edb0f92ea95cfbf9bbe48963] if at the investment date the relevant company is a knowledge-intensive company (see section 331A) and—
+- (a)[^c-7d465837edb0f92ea95cfbf9bbe48963] if at the investment date the relevant company is a knowledge-intensive company (see section 331A) and—
   - (i) not a specified Northern Ireland company, £40 million;
   - (ii) a specified Northern Ireland company, £20 million, and
 - (b) if at the investment date the relevant company is not a knowledge-intensive company and—
@@ -67,6 +67,6 @@ and section 280B(8) and (9) (meaning of “trade” etc) applies for the purpose
 
 ## Annotations
 
-[^key-19be716464bcd3d6fd178f774b9dc9c4]: Textual amendment: Ss. 292AA, 292AB inserted (with effect in accordance with Sch. 6 para. 23(3) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/8)
+[^c-19be716464bcd3d6fd178f774b9dc9c4]: Textual amendment: Ss. 292AA, 292AB inserted (with effect in accordance with Sch. 6 para. 23(3) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/8)
 
-[^key-7d465837edb0f92ea95cfbf9bbe48963]: Textual amendment: S. 292AA(1)(a)(b) substituted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 15(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/15/4)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/15/9)
+[^c-7d465837edb0f92ea95cfbf9bbe48963]: Textual amendment: S. 292AA(1)(a)(b) substituted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 15(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/15/4)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/15/9)

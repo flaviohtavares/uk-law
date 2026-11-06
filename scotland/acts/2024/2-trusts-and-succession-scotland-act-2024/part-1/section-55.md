@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Application to protectors of certain provisions relating to removal from office and to decision making[^key-1c7d2cc79066744f54a250a47540705d]
+## 55. Application to protectors of certain provisions relating to removal from office and to decision making[^c-1c7d2cc79066744f54a250a47540705d]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c7d2cc79066744f54a250a47540705d]: Commencement: S. 55 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-1c7d2cc79066744f54a250a47540705d]: Commencement: S. 55 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

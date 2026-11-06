@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Crew services for ships and aircraft[^key-42ab5f1941305551dd10faaea61754bf][^key-8e3cf4701beb4d5171f05857938af602]
+## 59. Crew services for ships and aircraft[^c-42ab5f1941305551dd10faaea61754bf][^c-8e3cf4701beb4d5171f05857938af602]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 - (a) it is a defence for a person charged with the offence of contravening paragraph (1)(a) (“P”) to show that P did not know and had no reasonable cause to suspect that the person was a designated person;
 - (b) it is a defence for a person charged with the offence of contravening paragraph (1)(b) (“P”) to show that P did not know and had no reasonable cause to suspect that the person was acting on behalf of or at the direction of a designated person;
 - (c) it is a defence for a person charged with the offence of contravening paragraph (1)(c) (“P”) to show that P did not know and had no reasonable cause to suspect that the person was owned or controlled by a designated person;
-- (d) it is a defence for a person charged with the offence of contravening paragraph (1)(d)[^key-c1cc21ca9ff38acdeefd10f31a683ab1] or (2) (“P”) to show that P did not know and had no reasonable cause to suspect that the person was connected with the DPRK.
+- (d) it is a defence for a person charged with the offence of contravening paragraph (1)(d)[^c-c1cc21ca9ff38acdeefd10f31a683ab1] or (2) (“P”) to show that P did not know and had no reasonable cause to suspect that the person was connected with the DPRK.
 
 (5) In this regulation “**crew services**” means services associated with the manning of a ship or aircraft or the provision of a crew or members of a crew for a ship or aircraft.
 
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-42ab5f1941305551dd10faaea61754bf]: Commencement: Reg. 59 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-42ab5f1941305551dd10faaea61754bf]: Commencement: Reg. 59 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-8e3cf4701beb4d5171f05857938af602]: Commencement: Reg. 59 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e3cf4701beb4d5171f05857938af602]: Commencement: Reg. 59 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c1cc21ca9ff38acdeefd10f31a683ab1]: Textual amendment: Words in [reg. 59(4)(d)](https://www.legislation.gov.uk/uksi/2019/411/regulation/59/4/d) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2020/591/regulation/2/6); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-c1cc21ca9ff38acdeefd10f31a683ab1]: Textual amendment: Words in [reg. 59(4)(d)](https://www.legislation.gov.uk/uksi/2019/411/regulation/59/4/d) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2020/591/regulation/2/6); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)

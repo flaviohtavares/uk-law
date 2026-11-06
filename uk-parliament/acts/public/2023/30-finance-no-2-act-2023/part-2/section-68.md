@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Demergers[^M_I_868c1660-0dff-40c1-d82d-e8e7f976ab0f][^key-9a01e9f023f63b1763321e3e3fa8902a]
+## 68. Demergers[^M_I_868c1660-0dff-40c1-d82d-e8e7f976ab0f][^c-9a01e9f023f63b1763321e3e3fa8902a]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^M_I_868c1660-0dff-40c1-d82d-e8e7f976ab0f]: Commencement: S. 68 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-9a01e9f023f63b1763321e3e3fa8902a]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2023/30/section/68) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-9a01e9f023f63b1763321e3e3fa8902a]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2023/30/section/68) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus) (Wales) Regulations 2020 (revoked)[^key-aff8f66caa46c6683a4a02bf405756bf]
+The Health Protection (Coronavirus) (Wales) Regulations 2020 (revoked)[^c-aff8f66caa46c6683a4a02bf405756bf]
 
 Made
 
@@ -45,76 +45,76 @@ Coming into force
 
 18 March 2020
 
-[^key-aff8f66caa46c6683a4a02bf405756bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aff8f66caa46c6683a4a02bf405756bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-aff8f66caa46c6683a4a02bf405756bf]
+## 1. Title, commencement and application[^c-aff8f66caa46c6683a4a02bf405756bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-aff8f66caa46c6683a4a02bf405756bf]
+## 2. Interpretation[^c-aff8f66caa46c6683a4a02bf405756bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Serious and imminent threat declaration[^key-aff8f66caa46c6683a4a02bf405756bf]
+## 3. Serious and imminent threat declaration[^c-aff8f66caa46c6683a4a02bf405756bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Detention of persons by the Welsh Ministers or a registered public health consultant[^key-aff8f66caa46c6683a4a02bf405756bf]
+## 4. Detention of persons by the Welsh Ministers or a registered public health consultant[^c-aff8f66caa46c6683a4a02bf405756bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Imposition of restrictions and requirements[^key-aff8f66caa46c6683a4a02bf405756bf]
+## 5. Imposition of restrictions and requirements[^c-aff8f66caa46c6683a4a02bf405756bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Screening requirements[^key-aff8f66caa46c6683a4a02bf405756bf]
+## 6. Screening requirements[^c-aff8f66caa46c6683a4a02bf405756bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Imposition of further restrictions and requirements[^key-aff8f66caa46c6683a4a02bf405756bf]
+## 7. Imposition of further restrictions and requirements[^c-aff8f66caa46c6683a4a02bf405756bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Isolation of persons suspected to be infected with Coronavirus[^key-aff8f66caa46c6683a4a02bf405756bf]
+## 8. Isolation of persons suspected to be infected with Coronavirus[^c-aff8f66caa46c6683a4a02bf405756bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Detention or isolation: additional provisions[^key-aff8f66caa46c6683a4a02bf405756bf]
+## 9. Detention or isolation: additional provisions[^c-aff8f66caa46c6683a4a02bf405756bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Restrictions or requirements: groups[^key-aff8f66caa46c6683a4a02bf405756bf]
+## 10. Restrictions or requirements: groups[^c-aff8f66caa46c6683a4a02bf405756bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Appeals[^key-aff8f66caa46c6683a4a02bf405756bf]
+## 11. Appeals[^c-aff8f66caa46c6683a4a02bf405756bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Enforcement[^key-aff8f66caa46c6683a4a02bf405756bf]
+## 12. Enforcement[^c-aff8f66caa46c6683a4a02bf405756bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Initial detention of persons to enable screening and assessment[^key-aff8f66caa46c6683a4a02bf405756bf]
+## 13. Initial detention of persons to enable screening and assessment[^c-aff8f66caa46c6683a4a02bf405756bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Offences[^key-aff8f66caa46c6683a4a02bf405756bf]
+## 14. Offences[^c-aff8f66caa46c6683a4a02bf405756bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Expiry[^key-aff8f66caa46c6683a4a02bf405756bf]
+## 15. Expiry[^c-aff8f66caa46c6683a4a02bf405756bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aff8f66caa46c6683a4a02bf405756bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aff8f66caa46c6683a4a02bf405756bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-aff8f66caa46c6683a4a02bf405756bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aff8f66caa46c6683a4a02bf405756bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aff8f66caa46c6683a4a02bf405756bf]: Textual amendment: Regulations revoked and superseded (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 21 para. 68](https://www.legislation.gov.uk/ukpga/2020/7/schedule/21/paragraph/68)
+[^c-aff8f66caa46c6683a4a02bf405756bf]: Textual amendment: Regulations revoked and superseded (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 21 para. 68](https://www.legislation.gov.uk/ukpga/2020/7/schedule/21/paragraph/68)

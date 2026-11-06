@@ -65,7 +65,7 @@ summary: ''
 >
 > (10) References in this section to VAT do not include any VAT which, by virtue of any order under section 25(7), is excluded from credit under that section.
 
-(3)[^key-98a17d243ccd905a4918aea566422f54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-98a17d243ccd905a4918aea566422f54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Section 79 (repayment supplements) is amended in accordance with subsections (5) to (7).
 
@@ -97,4 +97,4 @@ summary: ''
 
 [^c12450461]: Commencement: S. 98 wholly in force; s. 98 in force at Royal Assent for specified purposes, otherwise in force at 01.09.2001, see s. 98(10)
 
-[^key-98a17d243ccd905a4918aea566422f54]: Textual amendment: [S. 98(3)](https://www.legislation.gov.uk/ukpga/2001/9/section/98/3) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/5)
+[^c-98a17d243ccd905a4918aea566422f54]: Textual amendment: [S. 98(3)](https://www.legislation.gov.uk/ukpga/2001/9/section/98/3) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Citation, commencement and extent[^key-cf28167e1b4e552c1b325413024c6f79]
+## 1. Citation, commencement and extent[^c-cf28167e1b4e552c1b325413024c6f79]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf28167e1b4e552c1b325413024c6f79]: Commencement: Reg. 1 in force at 14.12.2019, see reg. 1(1)
+[^c-cf28167e1b4e552c1b325413024c6f79]: Commencement: Reg. 1 in force at 14.12.2019, see reg. 1(1)

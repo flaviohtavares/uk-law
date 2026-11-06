@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## A1. Title and commencement[^key-2747b57cdf504439b113caf75eb8d87a]
+## A1. Title and commencement[^c-2747b57cdf504439b113caf75eb8d87a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ These regulations may be cited as the Local Government Superannuation Regulation
 
 ## Annotations
 
-[^key-2747b57cdf504439b113caf75eb8d87a]: Commencement: [Reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-2747b57cdf504439b113caf75eb8d87a]: Commencement: [Reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

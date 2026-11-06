@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Public consultation etc[^key-6bc335b2cce914bdc5887e71717b341b]
+## 162. Public consultation etc[^c-6bc335b2cce914bdc5887e71717b341b]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6bc335b2cce914bdc5887e71717b341b]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2023/55/section/162) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
+[^c-6bc335b2cce914bdc5887e71717b341b]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2023/55/section/162) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)

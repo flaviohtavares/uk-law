@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Deemed market value[^key-661228545b63604c76e10641fb48150c]
+## 22. Deemed market value[^c-661228545b63604c76e10641fb48150c]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-661228545b63604c76e10641fb48150c]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2017/1/section/22) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-661228545b63604c76e10641fb48150c]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2017/1/section/22) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

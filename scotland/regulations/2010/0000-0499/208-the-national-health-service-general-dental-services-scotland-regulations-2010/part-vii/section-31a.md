@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31A. Electronic Communications[^key-098651200723d77d28230e5688c1f141]
+## 31A. Electronic Communications[^c-098651200723d77d28230e5688c1f141]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where a notice or document is sent by means of an electronic communication it is
 
 ## Annotations
 
-[^key-098651200723d77d28230e5688c1f141]: Textual amendment: [Reg. 31A](https://www.legislation.gov.uk/ssi/2010/208/regulation/31A) inserted (1.1.2018) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/289)](https://www.legislation.gov.uk/ssi/2017/289), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/3), [8](https://www.legislation.gov.uk/ssi/2017/289/regulation/8) (with [reg. 14](https://www.legislation.gov.uk/ssi/2017/289/regulation/14))
+[^c-098651200723d77d28230e5688c1f141]: Textual amendment: [Reg. 31A](https://www.legislation.gov.uk/ssi/2010/208/regulation/31A) inserted (1.1.2018) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/289)](https://www.legislation.gov.uk/ssi/2017/289), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/3), [8](https://www.legislation.gov.uk/ssi/2017/289/regulation/8) (with [reg. 14](https://www.legislation.gov.uk/ssi/2017/289/regulation/14))

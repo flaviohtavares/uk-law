@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Amendment of the Income Support (General) Regulations (Northern Ireland) 1987[^key-5f1a75669484ed59a9c98c281360fbf9][^M_I_ce39e2d0-6754-4144-a4c1-0dc2141c076c]
+## 54. Amendment of the Income Support (General) Regulations (Northern Ireland) 1987[^c-5f1a75669484ed59a9c98c281360fbf9][^M_I_ce39e2d0-6754-4144-a4c1-0dc2141c076c]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5f1a75669484ed59a9c98c281360fbf9]: Commencement: Reg. 54 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-5f1a75669484ed59a9c98c281360fbf9]: Commencement: Reg. 54 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_ce39e2d0-6754-4144-a4c1-0dc2141c076c]: Commencement: Reg. 54 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

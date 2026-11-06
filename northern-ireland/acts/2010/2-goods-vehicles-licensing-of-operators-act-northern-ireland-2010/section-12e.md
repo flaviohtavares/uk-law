@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12E. Professional competence for restricted licence holders[^key-cec09dc6376f7e14b758a5ef0630eb0f]
+## 12E. Professional competence for restricted licence holders[^c-cec09dc6376f7e14b758a5ef0630eb0f]
 
 *Extent: N.I.*
 
-As from such date as may be prescribed, section 12B shall have effect as if—[^key-59bddb4975d278d7d1801ad52edeb438]
+As from such date as may be prescribed, section 12B shall have effect as if—[^c-59bddb4975d278d7d1801ad52edeb438]
 
 - (a) the existing text of section 12B were renumbered subsection (1),
 - (b) in section 12B(1), in the words before paragraph (a), before “requirement of” there were inserted “first”, and
@@ -35,6 +35,6 @@ As from such date as may be prescribed, section 12B shall have effect as if—[^
 
 ## Annotations
 
-[^key-cec09dc6376f7e14b758a5ef0630eb0f]: Textual amendment: Ss. 12-12E substituted for s. 12 (1.7.2012) by [The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257)](https://www.legislation.gov.uk/nisr/2012/257), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/1/1), [17(5)](https://www.legislation.gov.uk/nisr/2012/257/regulation/17/5)
+[^c-cec09dc6376f7e14b758a5ef0630eb0f]: Textual amendment: Ss. 12-12E substituted for s. 12 (1.7.2012) by [The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257)](https://www.legislation.gov.uk/nisr/2012/257), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/1/1), [17(5)](https://www.legislation.gov.uk/nisr/2012/257/regulation/17/5)
 
-[^key-59bddb4975d278d7d1801ad52edeb438]: Textual amendment: Words in [s. 12E](https://www.legislation.gov.uk/nia/2010/2/section/12E) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [84](https://www.legislation.gov.uk/uksi/2022/293/regulation/84)
+[^c-59bddb4975d278d7d1801ad52edeb438]: Textual amendment: Words in [s. 12E](https://www.legislation.gov.uk/nia/2010/2/section/12E) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [84](https://www.legislation.gov.uk/uksi/2022/293/regulation/84)

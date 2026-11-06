@@ -25,10 +25,10 @@ summary: ''
 (2) A “relevant person” is—
 
 - (a) an institution authorised by the PRA or FCA; or
-- (b) an undertaking set up in the United Kingdom which is a subsidiary of an institution authorised by the PRA or FCA [^key-1c9438c52e7a84fcff22555d3754e1c3]...; or
-- (c) the UK[^key-14a2b8e6e4f7bf54422eb4cc9e46f7b6] parent undertaking.
+- (b) an undertaking set up in the United Kingdom which is a subsidiary of an institution authorised by the PRA or FCA [^c-1c9438c52e7a84fcff22555d3754e1c3]...; or
+- (c) the UK[^c-14a2b8e6e4f7bf54422eb4cc9e46f7b6] parent undertaking.
 
-(2A)[^key-d1bd1b8583ef68c8350bed8da87d8e4e] “**Financial contracts**” means—
+(2A)[^c-d1bd1b8583ef68c8350bed8da87d8e4e] “**Financial contracts**” means—
 
 - (a) securities contracts, including—
   - (i) contracts for the purchase, sale or loan of a security, a group or index of securities;
@@ -54,7 +54,7 @@ summary: ''
 - (d) specify a period of time within which a relevant person is to be capable of producing records (“a time-limit”);
 - (e) specify different time-limits for different kinds of financial contract.
 
-(4)[^key-0ced1de9ced6c0473ee0a7cf4bd4071e] The Bank must exercise its functions under this article in accordance with any technical standards under paragraph (5).
+(4)[^c-0ced1de9ced6c0473ee0a7cf4bd4071e] The Bank must exercise its functions under this article in accordance with any technical standards under paragraph (5).
 
 (5) The Bank may make technical standards relating to—
 
@@ -67,10 +67,10 @@ summary: ''
 
 [^c22307811]: Marginal citation: For the meaning of “financial contracts” see the recovery and resolution directive, Article 2.1, point (100).
 
-[^key-1c9438c52e7a84fcff22555d3754e1c3]: Textual amendment: Words in [art. 58(2)(b)](https://www.legislation.gov.uk/uksi/2014/3348/article/58/2/b) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 33(2)(a)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/33/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1c9438c52e7a84fcff22555d3754e1c3]: Textual amendment: Words in [art. 58(2)(b)](https://www.legislation.gov.uk/uksi/2014/3348/article/58/2/b) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 33(2)(a)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/33/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-14a2b8e6e4f7bf54422eb4cc9e46f7b6]: Textual amendment: Word in [art. 58(2)(c)](https://www.legislation.gov.uk/uksi/2014/3348/article/58/2/c) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 33(2)(b)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/33/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-14a2b8e6e4f7bf54422eb4cc9e46f7b6]: Textual amendment: Word in [art. 58(2)(c)](https://www.legislation.gov.uk/uksi/2014/3348/article/58/2/c) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 33(2)(b)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/33/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d1bd1b8583ef68c8350bed8da87d8e4e]: Textual amendment: [Art. 58(2A)](https://www.legislation.gov.uk/uksi/2014/3348/article/58/2A) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 33(3)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/33/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d1bd1b8583ef68c8350bed8da87d8e4e]: Textual amendment: [Art. 58(2A)](https://www.legislation.gov.uk/uksi/2014/3348/article/58/2A) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 33(3)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/33/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0ced1de9ced6c0473ee0a7cf4bd4071e]: Textual amendment: [Art. 58(4)](https://www.legislation.gov.uk/uksi/2014/3348/article/58/4)[(5)](https://www.legislation.gov.uk/uksi/2014/3348/article/58/5) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 33(4)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/33/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0ced1de9ced6c0473ee0a7cf4bd4071e]: Textual amendment: [Art. 58(4)](https://www.legislation.gov.uk/uksi/2014/3348/article/58/4)[(5)](https://www.legislation.gov.uk/uksi/2014/3348/article/58/5) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 33(4)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/33/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

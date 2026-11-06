@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Modification in respect of child and young person[^key-7d862c5ec83e61dd051266a8b5c54ea4]
+## 31. Modification in respect of child and young person[^c-7d862c5ec83e61dd051266a8b5c54ea4]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d862c5ec83e61dd051266a8b5c54ea4]: Commencement: Reg. 31 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-7d862c5ec83e61dd051266a8b5c54ea4]: Commencement: Reg. 31 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

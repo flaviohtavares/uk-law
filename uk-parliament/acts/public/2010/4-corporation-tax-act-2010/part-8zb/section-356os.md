@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 356OS. References to realising a gain[^key-69fcd32a640eaffd104ef40191587e9e]
+## 356OS. References to realising a gain[^c-69fcd32a640eaffd104ef40191587e9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69fcd32a640eaffd104ef40191587e9e]: Textual amendment: Pt. 8ZB inserted (with effect in accordance with s. 81 of the amending Act and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2))) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 77(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/77/1)
+[^c-69fcd32a640eaffd104ef40191587e9e]: Textual amendment: Pt. 8ZB inserted (with effect in accordance with s. 81 of the amending Act and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2))) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 77(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/77/1)

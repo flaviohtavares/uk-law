@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 270CF. Exclusion: residential use[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+## 270CF. Exclusion: residential use[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
   - (v) a home or other institution providing residential accommodation (whether for children or adults), except where the accommodation is provided with personal care for persons in need of personal care by reason of old age, disability, past or present dependence on alcohol or drugs or past or present mental disorder, or
   - (vi) a prison or similar establishment, or
 - (b) it falls within—
-  - (i) paragraph 3A or 4[^key-f24e386bb5b167dbd4073d8438cf251a] of Schedule 14 to the Housing Act 2004 (buildings in England or Wales occupied by students and managed or controlled by educational establishment etc), or
+  - (i) paragraph 3A or 4[^c-f24e386bb5b167dbd4073d8438cf251a] of Schedule 14 to the Housing Act 2004 (buildings in England or Wales occupied by students and managed or controlled by educational establishment etc), or
   - (ii) any corresponding provision having effect in Scotland or Northern Ireland,
 
 (and a building or structure is in “non-residential use” if it is in use which is not residential use).
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-63b259cb6f7aef6fc5b59b4dde260ee2]: Textual amendment: Pt. 2A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1087/regulation/2)
+[^c-63b259cb6f7aef6fc5b59b4dde260ee2]: Textual amendment: Pt. 2A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1087/regulation/2)
 
-[^key-f24e386bb5b167dbd4073d8438cf251a]: Textual amendment: Words in s. 270CF(1)(b) substituted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 62(5)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/62/5/b), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [ss. 62(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/62/3), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/e)
+[^c-f24e386bb5b167dbd4073d8438cf251a]: Textual amendment: Words in s. 270CF(1)(b) substituted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 62(5)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/62/5/b), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [ss. 62(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/62/3), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/e)

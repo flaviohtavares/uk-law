@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Entitlement to ill-health pension[^key-98e362c403070a5994e031e410b8400e]
+## 68. Entitlement to ill-health pension[^c-98e362c403070a5994e031e410b8400e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98e362c403070a5994e031e410b8400e]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2015/182/regulation/68) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-98e362c403070a5994e031e410b8400e]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2015/182/regulation/68) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

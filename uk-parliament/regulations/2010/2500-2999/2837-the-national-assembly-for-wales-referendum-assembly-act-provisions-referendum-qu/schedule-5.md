@@ -22,7 +22,7 @@ summary: ''
 
 Article 27
 
-### 1. General[^key-008e0cc1d23e3b8be4e11dab6cdb6670]
+### 1. General[^c-008e0cc1d23e3b8be4e11dab6cdb6670]
 
 The provisions set out in column (1) of the Table below have effect in relation to the referendum with the modifications[^f00054] (if any) shown against those provisions in column (2) of that Table and any other necessary modifications.
 
@@ -48,7 +48,7 @@ The provisions set out in column (1) of the Table below have effect in relation 
 
 [^f00053]: Footnote: For the meaning of “enactment” *see* section 158(1) of the Government of Wales Act 2006.
 
-[^key-008e0cc1d23e3b8be4e11dab6cdb6670]: Commencement: Sch. 5 para. 1 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-008e0cc1d23e3b8be4e11dab6cdb6670]: Commencement: Sch. 5 para. 1 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00054]: Footnote: For further meaning of modification *see* the said section 158(1).
 

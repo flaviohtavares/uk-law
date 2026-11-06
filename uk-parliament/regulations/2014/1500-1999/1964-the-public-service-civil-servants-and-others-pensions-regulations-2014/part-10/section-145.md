@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Request for transfer payment to be made[^key-36d81f9aaef0232a8b55e3b22c68328f]
+## 145. Request for transfer payment to be made[^c-36d81f9aaef0232a8b55e3b22c68328f]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36d81f9aaef0232a8b55e3b22c68328f]: Commencement: [Reg. 145](https://www.legislation.gov.uk/uksi/2014/1964/regulation/145) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-36d81f9aaef0232a8b55e3b22c68328f]: Commencement: [Reg. 145](https://www.legislation.gov.uk/uksi/2014/1964/regulation/145) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

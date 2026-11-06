@@ -24,7 +24,7 @@ summary: ''
 
 - (a) may be brought without the First-tier Tribunal's permission if an appeal application is made within the period of 31 days beginning with the day the relevant event occurred,
 - (b) may be brought only with the First-tier Tribunal's permission if an appeal application is made after the period mentioned in paragraph (a),
-- (c) may not be brought if an appeal application has not been made within the period of one year beginning with the day the relevant event occurred (but see section 52A)[^key-d994af067ed07a3cc6fc792b33f8f51e].
+- (c) may not be brought if an appeal application has not been made within the period of one year beginning with the day the relevant event occurred (but see section 52A)[^c-d994af067ed07a3cc6fc792b33f8f51e].
 
 (2) In subsection (1)—
 
@@ -39,4 +39,4 @@ summary: ''
 
 [^M_I_7fdccf45-e3bd-4ada-9aa4-48f89c9c1de2]: Commencement: S. 48 in force at 22.10.2018 by [S.S.I. 2018/298](https://www.legislation.gov.uk/ssi/2018/298), [reg. 2(1)(g)](https://www.legislation.gov.uk/ssi/2018/298/regulation/2/1/g) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/298/regulation/3)) (as amended (10.12.2019) by [S.S.I. 2019/406](https://www.legislation.gov.uk/ssi/2019/406), [regs. 1](https://www.legislation.gov.uk/ssi/2019/406/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/406/regulation/2/2))
 
-[^key-d994af067ed07a3cc6fc792b33f8f51e]: Textual amendment: Words in s. 48(1)(c) inserted (7.4.2020) by [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 17(1)](https://www.legislation.gov.uk/asp/2020/7/section/17/1), [sch. 7 para. 3](https://www.legislation.gov.uk/asp/2020/7/schedule/7/paragraph/3) (with [ss. 11-13](https://www.legislation.gov.uk/asp/2020/7/section/11))
+[^c-d994af067ed07a3cc6fc792b33f8f51e]: Textual amendment: Words in s. 48(1)(c) inserted (7.4.2020) by [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 17(1)](https://www.legislation.gov.uk/asp/2020/7/section/17/1), [sch. 7 para. 3](https://www.legislation.gov.uk/asp/2020/7/schedule/7/paragraph/3) (with [ss. 11-13](https://www.legislation.gov.uk/asp/2020/7/section/11))

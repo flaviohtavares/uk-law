@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 208. Responsible medical officer’s duty to keep directions under review[^key-d600257c3f3895a27c5aac3795b30434]
+## 208. Responsible medical officer’s duty to keep directions under review[^c-d600257c3f3895a27c5aac3795b30434]
 
 *Extent: S*
 
@@ -38,7 +38,7 @@ summary: ''
 - (a) is satisfied that the patient has a mental disorder; but
 - (b) is not satisfied—
   - (i) that, as a result of the patient’s mental disorder, it is necessary, in order to protect any other person from serious harm, for the patient to be detained in hospital, whether or not for medical treatment; and
-  - (ii)[^key-f3f7b0c994cbb3be8c51b273a1e1df38] either—
+  - (ii)[^c-f3f7b0c994cbb3be8c51b273a1e1df38] either—
     - (A) that the conditions mentioned in paragraph (b) and (c) of section 206(4) of this Act continue to apply in respect of the patient; or
     - (B) that it continues to be necessary for the patient to be subject to the direction,
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d600257c3f3895a27c5aac3795b30434]: Commencement: S. 208 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-d600257c3f3895a27c5aac3795b30434]: Commencement: S. 208 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-f3f7b0c994cbb3be8c51b273a1e1df38]: Textual amendment: S. 208(4)(b)(ii) substituted (22.3.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 70(2)](https://www.legislation.gov.uk/asp/2007/10/section/70/2), [79(2)](https://www.legislation.gov.uk/asp/2007/10/section/79/2)
+[^c-f3f7b0c994cbb3be8c51b273a1e1df38]: Textual amendment: S. 208(4)(b)(ii) substituted (22.3.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 70(2)](https://www.legislation.gov.uk/asp/2007/10/section/70/2), [79(2)](https://www.legislation.gov.uk/asp/2007/10/section/79/2)

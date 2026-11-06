@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Redemption[^key-4dd3e8ac22cae975c38f06259b489b53]
+## 22. Redemption[^c-4dd3e8ac22cae975c38f06259b489b53]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ must be made in the approved form together with any certificate or subscription 
 
 ## Annotations
 
-[^key-4dd3e8ac22cae975c38f06259b489b53]: Commencement: Reg. 22 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-4dd3e8ac22cae975c38f06259b489b53]: Commencement: Reg. 22 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
 
 [^f00011]: Footnote: [1942 c. 21](https://www.legislation.gov.uk/ukpga/1942/21); Section 47 was amended by section 3 of the Stock Transfer Act [1982 (c. 41)](https://www.legislation.gov.uk/ukpga/1982/41).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^key-3bb7d359c0c48388bc7ed1ccc6cb638b]
+## SCHEDULE 5 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^c-3bb7d359c0c48388bc7ed1ccc6cb638b]
 
 *Extent: E+W*
 
@@ -194,10 +194,10 @@ Article 25
 </tbody>
 </table>
 
-[^key-0bbd699206b8ad4cf08533b0007d3ef6]
+[^c-0bbd699206b8ad4cf08533b0007d3ef6]
 
 ## Annotations
 
-[^key-3bb7d359c0c48388bc7ed1ccc6cb638b]: Commencement: Sch. 5 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-3bb7d359c0c48388bc7ed1ccc6cb638b]: Commencement: Sch. 5 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
-[^key-0bbd699206b8ad4cf08533b0007d3ef6]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2022/549/schedule/5) inserted (19.1.2023) by [The M25 Junction 10/A3 Wisley Interchange Development Consent (Correction) Order 2023 (S.I. 2023/46)](https://www.legislation.gov.uk/uksi/2023/46), [arts. 1](https://www.legislation.gov.uk/uksi/2023/46/article/1), [2(10)](https://www.legislation.gov.uk/uksi/2023/46/article/2/10)
+[^c-0bbd699206b8ad4cf08533b0007d3ef6]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2022/549/schedule/5) inserted (19.1.2023) by [The M25 Junction 10/A3 Wisley Interchange Development Consent (Correction) Order 2023 (S.I. 2023/46)](https://www.legislation.gov.uk/uksi/2023/46), [arts. 1](https://www.legislation.gov.uk/uksi/2023/46/article/1), [2(10)](https://www.legislation.gov.uk/uksi/2023/46/article/2/10)

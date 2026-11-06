@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Acquisition of land[^key-ed3052a667ce10e745c8234a77c79518]
+## 66. Acquisition of land[^c-ed3052a667ce10e745c8234a77c79518]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed3052a667ce10e745c8234a77c79518]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2009/6/section/66) in force at 24.12.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(c)](https://www.legislation.gov.uk/ssi/2010/401/article/3/c)
+[^c-ed3052a667ce10e745c8234a77c79518]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2009/6/section/66) in force at 24.12.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(c)](https://www.legislation.gov.uk/ssi/2010/401/article/3/c)

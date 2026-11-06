@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Investigation of company or association with reference to order to which s. 90 applies.[^key-6eefd29dcb48f82533a351253ea21d03]
+## 92. Investigation of company or association with reference to order to which s. 90 applies.[^c-6eefd29dcb48f82533a351253ea21d03]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6eefd29dcb48f82533a351253ea21d03]: Textual amendment: Ss. 88-93A repealed (20.6.2003 for specified purposes, 29.12.2004 in so far as not already in force) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26) (with [Sch. 24](https://www.legislation.gov.uk/ukpga/2002/40/schedule/24)); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [arts. 3(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/3/1), [4](https://www.legislation.gov.uk/uksi/2003/1397/article/4), [6](https://www.legislation.gov.uk/uksi/2003/1397/article/6), [8](https://www.legislation.gov.uk/uksi/2003/1397/article/8)); [S.I. 2004/3233](https://www.legislation.gov.uk/uksi/2004/3233), [art. 2](https://www.legislation.gov.uk/uksi/2004/3233/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/3233/schedule) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2004/3233/article/3))
+[^c-6eefd29dcb48f82533a351253ea21d03]: Textual amendment: Ss. 88-93A repealed (20.6.2003 for specified purposes, 29.12.2004 in so far as not already in force) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26) (with [Sch. 24](https://www.legislation.gov.uk/ukpga/2002/40/schedule/24)); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [arts. 3(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/3/1), [4](https://www.legislation.gov.uk/uksi/2003/1397/article/4), [6](https://www.legislation.gov.uk/uksi/2003/1397/article/6), [8](https://www.legislation.gov.uk/uksi/2003/1397/article/8)); [S.I. 2004/3233](https://www.legislation.gov.uk/uksi/2004/3233), [art. 2](https://www.legislation.gov.uk/uksi/2004/3233/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/3233/schedule) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2004/3233/article/3))

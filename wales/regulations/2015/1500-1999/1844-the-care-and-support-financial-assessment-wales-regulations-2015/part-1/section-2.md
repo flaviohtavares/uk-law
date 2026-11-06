@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-ac60dcfb8dec69ba47b78982dc3ee880]
+## 2. Interpretation[^c-ac60dcfb8dec69ba47b78982dc3ee880]
 
 *Extent: E+W*
 
@@ -81,7 +81,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ac60dcfb8dec69ba47b78982dc3ee880]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1844/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
+[^c-ac60dcfb8dec69ba47b78982dc3ee880]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1844/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
 
 [^f00003]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 

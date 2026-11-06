@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Data-sharing code of practice[^key-d1fc15b8d06816ed4aec085ab3910b12]
+## 174. Data-sharing code of practice[^c-d1fc15b8d06816ed4aec085ab3910b12]
 
 *Extent: E+W*
 
@@ -121,4 +121,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1fc15b8d06816ed4aec085ab3910b12]: Commencement: [S. 174](https://www.legislation.gov.uk/ukpga/2009/25/section/174) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/16)
+[^c-d1fc15b8d06816ed4aec085ab3910b12]: Commencement: [S. 174](https://www.legislation.gov.uk/ukpga/2009/25/section/174) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/16)

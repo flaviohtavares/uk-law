@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Authority’s monitoring functions in relation to gas[^key-1be79126c5dd5fb46b998647141397d6]
+## 69. Authority’s monitoring functions in relation to gas[^c-1be79126c5dd5fb46b998647141397d6]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ After Article 27(3A) of the Gas Order there shall be inserted the following para
 
 ## Annotations
 
-[^key-1be79126c5dd5fb46b998647141397d6]: Commencement: Reg. 69 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-1be79126c5dd5fb46b998647141397d6]: Commencement: Reg. 69 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

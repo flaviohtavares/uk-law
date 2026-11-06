@@ -24,7 +24,7 @@ summary: ''
 
 (2) The vice-chairman of a county borough council is entitled to the style of “deputy mayor” or “dirprwy faer”.
 
-(3)[^c15089021] This section does not apply where a county borough council are operating executive arrangements which involve a mayor and cabinet executive [^key-8530fc94aae2711a0f2e88f90b3ca174]....
+(3)[^c15089021] This section does not apply where a county borough council are operating executive arrangements which involve a mayor and cabinet executive [^c-8530fc94aae2711a0f2e88f90b3ca174]....
 
 ## Annotations
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c15089021]: Textual amendment: S. 25A(3) inserted (28.7.2001) by [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22), [ss. 46](https://www.legislation.gov.uk/ukpga/2000/22/section/46), [108(4)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/4), [Sch. 3 para. 7(1)(2)](https://www.legislation.gov.uk/ukpga/2000/22/schedule/3/paragraph/7/1/2)
 
-[^key-8530fc94aae2711a0f2e88f90b3ca174]: Textual amendment: Words in s. 25A(3) repealed (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 34(7)(c)](https://www.legislation.gov.uk/mwa/2011/4/section/34/7/c), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2), [Sch. 4 Pt. B](https://www.legislation.gov.uk/mwa/2011/4/schedule/4/part/B)
+[^c-8530fc94aae2711a0f2e88f90b3ca174]: Textual amendment: Words in s. 25A(3) repealed (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 34(7)(c)](https://www.legislation.gov.uk/mwa/2011/4/section/34/7/c), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2), [Sch. 4 Pt. B](https://www.legislation.gov.uk/mwa/2011/4/schedule/4/part/B)

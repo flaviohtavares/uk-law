@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185. Replacement of the Welfare Food Schemes: Great Britain[^c552151][^key-37b98eaf2c8869d9d0cc766c4b37db2f][^key-05eb7711fb1d5f071766c7ba762101ef]
+## 185. Replacement of the Welfare Food Schemes: Great Britain[^c552151][^c-37b98eaf2c8869d9d0cc766c4b37db2f][^c-05eb7711fb1d5f071766c7ba762101ef]
 
 *Extent: E+W+S*
 
-(1)[^key-d1d26365164ac19a3f8f9be3ced96381] In the Social Security Act 1988 (c. 7), for section 13 (schemes for the distribution etc of welfare foods), substitute—
+(1)[^c-d1d26365164ac19a3f8f9be3ced96381] In the Social Security Act 1988 (c. 7), for section 13 (schemes for the distribution etc of welfare foods), substitute—
 
 > **13. Benefits under schemes for improving nutrition: pregnant women, mothers and children**
 >
@@ -107,8 +107,8 @@ summary: ''
 
 [^c552151]: Commencement: [S. 185](https://www.legislation.gov.uk/ukpga/2003/43/section/185) partly in force; [s. 185](https://www.legislation.gov.uk/ukpga/2003/43/section/185) in force at Royal Assent for certain purposes, see [s. 199(1)(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1/4)
 
-[^key-37b98eaf2c8869d9d0cc766c4b37db2f]: Commencement: [S. 185](https://www.legislation.gov.uk/ukpga/2003/43/section/185) in force at 7.10.2005 for specified purposes by [S.I. 2005/2278](https://www.legislation.gov.uk/uksi/2005/2278), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2005/2278/article/2/2/a)
+[^c-37b98eaf2c8869d9d0cc766c4b37db2f]: Commencement: [S. 185](https://www.legislation.gov.uk/ukpga/2003/43/section/185) in force at 7.10.2005 for specified purposes by [S.I. 2005/2278](https://www.legislation.gov.uk/uksi/2005/2278), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2005/2278/article/2/2/a)
 
-[^key-05eb7711fb1d5f071766c7ba762101ef]: Commencement: [S. 185](https://www.legislation.gov.uk/ukpga/2003/43/section/185) in force at 27.10.2006 in so far as not already in force by [S.I. 2006/2817](https://www.legislation.gov.uk/uksi/2006/2817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/2817/article/2/a)
+[^c-05eb7711fb1d5f071766c7ba762101ef]: Commencement: [S. 185](https://www.legislation.gov.uk/ukpga/2003/43/section/185) in force at 27.10.2006 in so far as not already in force by [S.I. 2006/2817](https://www.legislation.gov.uk/uksi/2006/2817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/2817/article/2/a)
 
-[^key-d1d26365164ac19a3f8f9be3ced96381]: Commencement: [S. 185(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/185/1) in force at 12.8.2005 for specified purposes by [S.I. 2005/2278](https://www.legislation.gov.uk/uksi/2005/2278), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2278/article/2/1)
+[^c-d1d26365164ac19a3f8f9be3ced96381]: Commencement: [S. 185(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/185/1) in force at 12.8.2005 for specified purposes by [S.I. 2005/2278](https://www.legislation.gov.uk/uksi/2005/2278), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2278/article/2/1)

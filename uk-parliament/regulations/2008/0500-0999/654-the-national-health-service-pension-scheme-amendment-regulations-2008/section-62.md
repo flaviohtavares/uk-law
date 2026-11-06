@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Amendment of regulation T2A[^key-6a8db7a88134844f6bf3492d774142ee][^M_F_32adb1c2-77e4-4aab-c1ee-313a4dab0d5a]
+## 62. Amendment of regulation T2A[^c-6a8db7a88134844f6bf3492d774142ee][^M_F_32adb1c2-77e4-4aab-c1ee-313a4dab0d5a]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6a8db7a88134844f6bf3492d774142ee]: Commencement: Reg. 62 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-6a8db7a88134844f6bf3492d774142ee]: Commencement: Reg. 62 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
 
 [^M_F_32adb1c2-77e4-4aab-c1ee-313a4dab0d5a]: Textual amendment: Regs. 62-66: incorrectly numbered regs. 1-5 following reg. 61 renumbered as regs. 62-66 (31.3.2008) by [The National Health Service Pension Scheme (Correction to Amendment) Regulations 2008 (S.I. 2008/906)](https://www.legislation.gov.uk/uksi/2008/906), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/906/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2008/906/regulation/2/3)

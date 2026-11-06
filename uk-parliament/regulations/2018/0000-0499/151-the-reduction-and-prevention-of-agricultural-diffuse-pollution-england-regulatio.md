@@ -50,7 +50,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 The Secretary of State is a Minister designated for the purposes of section 2(2) of the 1972 Act in relation to the environment[^f00002].
 
-## 1. Citation, commencement, extent and application[^key-d3d16e6e7cb4e1d3f266506371c34b3d]
+## 1. Citation, commencement, extent and application[^c-d3d16e6e7cb4e1d3f266506371c34b3d]
 
 These Regulations—
 
@@ -59,7 +59,7 @@ These Regulations—
 - (c) extend to England and Wales, and
 - (d) apply to agricultural land in England.
 
-## 2. Interpretation[^key-c8bfee10a24cc06b065bc837e01e773f]
+## 2. Interpretation[^c-c8bfee10a24cc06b065bc837e01e773f]
 
 (1) In these Regulations—
 
@@ -132,14 +132,14 @@ These Regulations—
   - (b) poaching adjacent to inland freshwaters or coastal waters over a single stretch of agricultural land (whether or not crossing permanent boundary features) which is at least 2 metres wide and 20 metres long;
 - “soil runoff” means the transportation of agricultural pollutants into inland freshwaters or coastal waters, or into a spring, well or borehole, by rainwater or other water running over the soil surface.
 
-## 3. Circumstances in which applying organic manure and manufactured fertiliser is prohibited[^key-dcde8a861aa4480cdd7bb7db0ac9f234]
+## 3. Circumstances in which applying organic manure and manufactured fertiliser is prohibited[^c-dcde8a861aa4480cdd7bb7db0ac9f234]
 
 A land manager must ensure that organic manure or manufactured fertiliser is not applied to agricultural land if—
 
 - (a) the soil is waterlogged, flooded or snow covered, or
 - (b) the soil has been frozen for more than 12 hours in the previous 24 hours.
 
-## 4. Applying organic manure and manufactured fertiliser to agricultural land[^key-6543f9516332d1550d0762bf1771992a]
+## 4. Applying organic manure and manufactured fertiliser to agricultural land[^c-6543f9516332d1550d0762bf1771992a]
 
 (1) A land manager must ensure that, for each application of organic manure or manufactured fertiliser to agricultural land, the application—
 
@@ -169,7 +169,7 @@ A land manager must ensure that organic manure or manufactured fertiliser is not
 - “spreading equipment” means any machinery used for the application of organic manure or manufactured fertiliser to agricultural land and includes precision spreading equipment;
 - “wetlands” means land that is covered with or saturated by water permanently or for a significant part of the year.
 
-## 5. Applying organic manure and manufactured fertiliser to cultivated agricultural land[^key-9beeef127dca37ea420bdfc979e7426e]
+## 5. Applying organic manure and manufactured fertiliser to cultivated agricultural land[^c-9beeef127dca37ea420bdfc979e7426e]
 
 (1) When planning an application under regulation 4(1)(a) to cultivated agricultural land, a land manager must ensure that the results of soil sampling and analysis are taken into account.
 
@@ -186,11 +186,11 @@ A land manager must ensure that organic manure or manufactured fertiliser is not
 - (a) by physical means (including ploughing, sowing or harvesting) at least once in the previous year, or
 - (b) by chemical means (including the application of organic manure or manufactured fertiliser) at least once in the previous 3 years.
 
-## 6. Applying manufactured fertiliser near inland freshwaters or coastal waters, or near a spring, well or borehole[^key-999d8da6068a48459b43a9a51ea1d50e]
+## 6. Applying manufactured fertiliser near inland freshwaters or coastal waters, or near a spring, well or borehole[^c-999d8da6068a48459b43a9a51ea1d50e]
 
 A land manager must ensure that manufactured fertiliser is not applied to agricultural land within two metres of inland freshwaters or coastal waters, or of a spring, well or borehole.
 
-## 7. Applying organic manure near inland freshwaters or coastal waters[^key-26022f7edaca0b2781b57055d514312d]
+## 7. Applying organic manure near inland freshwaters or coastal waters[^c-26022f7edaca0b2781b57055d514312d]
 
 (1) A land manager must ensure that organic manure is not applied to agricultural land within 10 metres of inland freshwaters or coastal waters.
 
@@ -207,11 +207,11 @@ A land manager must ensure that manufactured fertiliser is not applied to agricu
 
 (3) In paragraph (2)(b)(i)(bb), “agri-environmental commitment” means any commitment entered into under Council Regulation [(EC) No. 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) on support for rural development by the European Agricultural Fund for Rural Development[^f00005] or Regulation (EU) No. 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development[^f00006].
 
-## 8. Applying organic manure near a spring, well or borehole[^key-8ccfc9c65460f585f9757ec4242fc6ab]
+## 8. Applying organic manure near a spring, well or borehole[^c-8ccfc9c65460f585f9757ec4242fc6ab]
 
 A land manager must ensure that organic manure is not applied to agricultural land within 50 metres of a spring, well or borehole.
 
-## 9. Storing organic manure[^key-db7d7ba0c1963ac8180bd84fe7f70163]
+## 9. Storing organic manure[^c-db7d7ba0c1963ac8180bd84fe7f70163]
 
 (1) A land manager must ensure that organic manure is not stored on agricultural land—
 
@@ -222,7 +222,7 @@ A land manager must ensure that organic manure is not applied to agricultural la
 
 (3) In paragraph (2), the factors include those in regulation 4(2).
 
-## 10. Managing livestock and soil[^key-9607fa355a65fdb094da09265fc01454]
+## 10. Managing livestock and soil[^c-9607fa355a65fdb094da09265fc01454]
 
 (1) A land manager must ensure that poaching is prevented within 5 metres of inland freshwaters or coastal waters.
 
@@ -258,7 +258,7 @@ A land manager must ensure that organic manure is not applied to agricultural la
 - (d) installing drainage or irrigation, and
 - (e) irrigating crops or spraying them with pesticides, herbicides or fungicides.
 
-## 11. Offence and penalty[^key-f8fb79c6d0f2c6690b6e34a41cc1c8c0]
+## 11. Offence and penalty[^c-f8fb79c6d0f2c6690b6e34a41cc1c8c0]
 
 (1) A person who fails to comply with the requirements of any of regulations 3 to 10 commits an offence.
 
@@ -278,7 +278,7 @@ the officer, as well as the body corporate, is guilty of the offence and liable 
 
 (5) If the affairs of a body corporate are managed by its members, paragraph (3) applies in relation to the acts and defaults of a member in connection with the member’s functions of management as it applies to an officer of a body corporate.
 
-## 12. Defence of due diligence[^key-1a00710e777018ca64ef7e4b558a2b8e]
+## 12. Defence of due diligence[^c-1a00710e777018ca64ef7e4b558a2b8e]
 
 (1) In any proceedings against any person for an offence under regulation 11(1), it is a defence for that person (“P”) to show that P took all reasonable steps and exercised all due diligence to avoid committing the offence.
 
@@ -304,7 +304,7 @@ the officer, as well as the body corporate, is guilty of the offence and liable 
 - (a) to the act or default of another person, or
 - (b) to reliance on information supplied by another person.
 
-## 13. Civil Sanctions[^key-02e81f10eb4a30806b1462a5e47323bc]
+## 13. Civil Sanctions[^c-02e81f10eb4a30806b1462a5e47323bc]
 
 (1) In relation to an offence under regulation 11(1), the Agency may impose a restoration notice, compliance notice, stop notice, fixed monetary penalty, variable monetary penalty or accept an enforcement undertaking, as if it were an offence in relation to which the sanction in question was specified in Schedule 5 to the Environmental Civil Sanctions (England) Order 2010[^f00007].
 
@@ -312,11 +312,11 @@ the officer, as well as the body corporate, is guilty of the offence and liable 
 
 (3) The provisions of that Order relating to the sanctions in paragraph (1) apply as if they were provisions of these Regulations.
 
-## 14. Enforcement[^key-2a10c46fb98987bb08fce290cc830588]
+## 14. Enforcement[^c-2a10c46fb98987bb08fce290cc830588]
 
 The Agency has the function of enforcing these Regulations.
 
-## 15. Guidance to the Agency[^key-ba899b12a6bfb950e433f772c49e7e13]
+## 15. Guidance to the Agency[^c-ba899b12a6bfb950e433f772c49e7e13]
 
 (1) The Secretary of State may issue guidance to the Agency with respect to the exercise of the Agency’s functions under these Regulations.
 
@@ -324,7 +324,7 @@ The Agency has the function of enforcing these Regulations.
 
 (3) The Secretary of State must publish any guidance issued under paragraph (1) on a website maintained by or on behalf of the Secretary of State[^f00008].
 
-## 16. Review[^key-2101f92711526dd48992142bacedfc46]
+## 16. Review[^c-2101f92711526dd48992142bacedfc46]
 
 (1) The Secretary of State must from time to time—
 
@@ -380,21 +380,21 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
 
-[^key-d3d16e6e7cb4e1d3f266506371c34b3d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/151/regulation/1) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
+[^c-d3d16e6e7cb4e1d3f266506371c34b3d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/151/regulation/1) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
 
-[^key-c8bfee10a24cc06b065bc837e01e773f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/151/regulation/2) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
+[^c-c8bfee10a24cc06b065bc837e01e773f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/151/regulation/2) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
 
 [^f00003]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57). Section 104(1) was modified by [S.I. 1996/3001](https://www.legislation.gov.uk/uksi/1996/3001), [1997/1331](https://www.legislation.gov.uk/uksi/1997/1331) and [1997/1332](https://www.legislation.gov.uk/uksi/1997/1332). The functions of the Secretary of State under section 104 were, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), article 2; see the entry in Schedule 1 for the Water Resources Act.
 
-[^key-dcde8a861aa4480cdd7bb7db0ac9f234]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/151/regulation/3) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
+[^c-dcde8a861aa4480cdd7bb7db0ac9f234]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/151/regulation/3) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
 
-[^key-6543f9516332d1550d0762bf1771992a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/151/regulation/4) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
+[^c-6543f9516332d1550d0762bf1771992a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/151/regulation/4) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
 
-[^key-9beeef127dca37ea420bdfc979e7426e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/151/regulation/5) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
+[^c-9beeef127dca37ea420bdfc979e7426e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/151/regulation/5) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
 
-[^key-999d8da6068a48459b43a9a51ea1d50e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/151/regulation/6) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
+[^c-999d8da6068a48459b43a9a51ea1d50e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/151/regulation/6) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
 
-[^key-26022f7edaca0b2781b57055d514312d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/151/regulation/7) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
+[^c-26022f7edaca0b2781b57055d514312d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/151/regulation/7) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
 
 [^f00004]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
@@ -402,27 +402,27 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00006]: Footnote: OJ No L 347, 20.12.2013, p 487, as last amended by Regulation (EU) No. 2017/825 of the European Parliament and of the Council (OJ No L 129, 19.5.2017, p 1).
 
-[^key-8ccfc9c65460f585f9757ec4242fc6ab]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/151/regulation/8) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
+[^c-8ccfc9c65460f585f9757ec4242fc6ab]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/151/regulation/8) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
 
-[^key-db7d7ba0c1963ac8180bd84fe7f70163]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/151/regulation/9) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
+[^c-db7d7ba0c1963ac8180bd84fe7f70163]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/151/regulation/9) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
 
-[^key-9607fa355a65fdb094da09265fc01454]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/151/regulation/10) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
+[^c-9607fa355a65fdb094da09265fc01454]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/151/regulation/10) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
 
-[^key-f8fb79c6d0f2c6690b6e34a41cc1c8c0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/151/regulation/11) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
+[^c-f8fb79c6d0f2c6690b6e34a41cc1c8c0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/151/regulation/11) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
 
-[^key-1a00710e777018ca64ef7e4b558a2b8e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2018/151/regulation/12) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
+[^c-1a00710e777018ca64ef7e4b558a2b8e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2018/151/regulation/12) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
 
-[^key-02e81f10eb4a30806b1462a5e47323bc]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/151/regulation/13) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
+[^c-02e81f10eb4a30806b1462a5e47323bc]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/151/regulation/13) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
 
 [^f00007]: Footnote: [S.I. 2010/1157](https://www.legislation.gov.uk/uksi/2010/1157), as amended by [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
-[^key-2a10c46fb98987bb08fce290cc830588]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2018/151/regulation/14) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
+[^c-2a10c46fb98987bb08fce290cc830588]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2018/151/regulation/14) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
 
-[^key-ba899b12a6bfb950e433f772c49e7e13]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2018/151/regulation/15) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
+[^c-ba899b12a6bfb950e433f772c49e7e13]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2018/151/regulation/15) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
 
 [^f00008]: Footnote: Any guidance published online can also be obtained in hardcopy by writing to the Water Quality Division, Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR.
 
-[^key-2101f92711526dd48992142bacedfc46]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2018/151/regulation/16) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
+[^c-2101f92711526dd48992142bacedfc46]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2018/151/regulation/16) in force at 2.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b)
 
 [^f00009]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by section 19 of the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12).
 

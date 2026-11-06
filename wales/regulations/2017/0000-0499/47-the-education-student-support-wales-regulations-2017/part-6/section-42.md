@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. General[^key-ef515cf087d855b4212052ffa096689b]
+## 42. General[^c-ef515cf087d855b4212052ffa096689b]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The maximum amount of loan for living costs in respect of an academic year is ca
 
 ## Annotations
 
-[^key-ef515cf087d855b4212052ffa096689b]: Commencement: Reg. 42 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-ef515cf087d855b4212052ffa096689b]: Commencement: Reg. 42 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

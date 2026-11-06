@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Review of Pubs Code[^key-ab9b4116d46ebf9b2d72fde6b5ca1bec]
+## 46. Review of Pubs Code[^c-ab9b4116d46ebf9b2d72fde6b5ca1bec]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab9b4116d46ebf9b2d72fde6b5ca1bec]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2015/26/section/46) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)
+[^c-ab9b4116d46ebf9b2d72fde6b5ca1bec]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2015/26/section/46) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)

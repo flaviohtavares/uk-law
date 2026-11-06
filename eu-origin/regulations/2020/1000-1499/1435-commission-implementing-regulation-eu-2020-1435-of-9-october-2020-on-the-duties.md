@@ -115,7 +115,7 @@ In a case falling within point (e) of Article 22(1) of Regulation (EC) No 1907/2
 
 ## Article 6. Changes in the classification and labelling of the registered substance
 
-1. In the case of a change falling within point (f) of Article 22(1) of Regulation (EC) No 1907/2006 that is due to the addition, modification or deletion of a harmonised classification in the GB mandatory classification and labelling list[^key-d364c128e5e42e7baf61f7f6a558ad8a], the registration shall be updated and submitted to the Agency by no later than the date as of which that change is to apply.
+1. In the case of a change falling within point (f) of Article 22(1) of Regulation (EC) No 1907/2006 that is due to the addition, modification or deletion of a harmonised classification in the GB mandatory classification and labelling list[^c-d364c128e5e42e7baf61f7f6a558ad8a], the registration shall be updated and submitted to the Agency by no later than the date as of which that change is to apply.
 
 2. In the case of a change falling within point (f) of Article 22(1) of Regulation (EC) No 1907/2006 that is due to an adaptation in the classification of a substance as a result of a new evaluation in accordance with Article 15 of Regulation (EC) No 1272/2008, the registration shall be updated and submitted to the Agency by no later than 6 months from the date when the decision to change the classification and labelling of the substance has been taken.
 
@@ -188,4 +188,4 @@ Ursula von der Leyen
 
 [^f00002]: Footnote: Commission Implementing Regulation (EU) 2016/9 of 5 January 2016 on joint submission of data and data-sharing in accordance with Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) ([OJ L 3, 6.1.2016, p. 41](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.003.01.0041.01.ENG)).
 
-[^key-d364c128e5e42e7baf61f7f6a558ad8a]: Textual amendment: Words in Art. 6(1) substituted (30.9.2021) by [The REACH etc. (Amendment) Regulations 2021 (S.I. 2021/904)](https://www.legislation.gov.uk/uksi/2021/904), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/904/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2021/904/regulation/10/2)
+[^c-d364c128e5e42e7baf61f7f6a558ad8a]: Textual amendment: Words in Art. 6(1) substituted (30.9.2021) by [The REACH etc. (Amendment) Regulations 2021 (S.I. 2021/904)](https://www.legislation.gov.uk/uksi/2021/904), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/904/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2021/904/regulation/10/2)

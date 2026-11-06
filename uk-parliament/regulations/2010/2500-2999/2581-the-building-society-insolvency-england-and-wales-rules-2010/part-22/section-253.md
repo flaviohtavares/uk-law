@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 253. Costs, expenses, etc.[^key-4dca3b428bd25f297de6e07d64267fe9]
+## 253. Costs, expenses, etc.[^c-4dca3b428bd25f297de6e07d64267fe9]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4dca3b428bd25f297de6e07d64267fe9]: Commencement: Rule 253 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-4dca3b428bd25f297de6e07d64267fe9]: Commencement: Rule 253 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

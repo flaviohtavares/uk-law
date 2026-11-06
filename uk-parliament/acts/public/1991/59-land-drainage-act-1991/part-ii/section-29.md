@@ -25,7 +25,7 @@ summary: ''
 - (a) to do the work specified in relation to him in the order; and
 - (b) so far as may be necessary for that purpose, to enter any land so specified.
 
-(1A)[^key-b08a787e276bac7893922434821d9387] Where, in the case of an order made under section 28 by the Agricultural Land Tribunal in relation to land in Wales, the Welsh Ministers, at any time after the end of three months or such longer period as may be specified in the order, have reasonable grounds for believing that any work specified in the order has not been carried out⁠—
+(1A)[^c-b08a787e276bac7893922434821d9387] Where, in the case of an order made under section 28 by the Agricultural Land Tribunal in relation to land in Wales, the Welsh Ministers, at any time after the end of three months or such longer period as may be specified in the order, have reasonable grounds for believing that any work specified in the order has not been carried out⁠—
 
 - (a) the Welsh Ministers, or
 - (b) any person authorised by them, either generally or in a particular case,
@@ -49,7 +49,7 @@ and those expenses may include any compensation payable in connection with the w
 
 (5) Where any person sustains any injury by reason of the exercise of any power conferred by virtue of this section then, unless the power was exercised in or for the purpose of the carrying out of any work which that person was required to carry out by an order under section 28 above, the person exercising the power shall be liable to make full compensation to the person sustaining the injury.
 
-(6) In the case of dispute the amount of the compensation payable under subsection (5) above shall be determined by the Upper Tribunal[^key-527d3161e0910ea0b6cc44c45787557e].
+(6) In the case of dispute the amount of the compensation payable under subsection (5) above shall be determined by the Upper Tribunal[^c-527d3161e0910ea0b6cc44c45787557e].
 
 (7) The services for which provision may be made under section 1 of the [^c1415414]Agriculture Act 1986 (provision of agricultural goods and services) shall include such services to the owner or occupier of any land as may enable him to carry out any work which he is authorised to carry out in exercise of any power conferred by virtue of this section.
 
@@ -60,8 +60,8 @@ and those expenses may include any compensation payable in connection with the w
 
 ## Annotations
 
-[^key-b08a787e276bac7893922434821d9387]: Textual amendment: [S. 29(1A)](https://www.legislation.gov.uk/ukpga/1991/59/section/29/1A) inserted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 85(1)](https://www.legislation.gov.uk/anaw/2016/3/section/85/1), [88(2)(f)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/f) (with [s. 85(2)](https://www.legislation.gov.uk/anaw/2016/3/section/85/2))
+[^c-b08a787e276bac7893922434821d9387]: Textual amendment: [S. 29(1A)](https://www.legislation.gov.uk/ukpga/1991/59/section/29/1A) inserted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 85(1)](https://www.legislation.gov.uk/anaw/2016/3/section/85/1), [88(2)(f)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/f) (with [s. 85(2)](https://www.legislation.gov.uk/anaw/2016/3/section/85/2))
 
-[^key-527d3161e0910ea0b6cc44c45787557e]: Textual amendment: Words in s. 29(6) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 240](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/240) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-527d3161e0910ea0b6cc44c45787557e]: Textual amendment: Words in s. 29(6) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 240](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/240) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c1415414]: Marginal citation: [1986 c. 49](https://www.legislation.gov.uk/ukpga/1986/49).

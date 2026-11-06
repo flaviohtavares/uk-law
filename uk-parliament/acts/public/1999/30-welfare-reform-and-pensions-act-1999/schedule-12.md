@@ -24,7 +24,7 @@ Section 84.
 
 ### Part I — Amendments consequential on Parts III and IV
 
-#### Senior Courts Act 1981 (c.54)[^key-17e4308ef6fe485df9a5c831f3a26aba]
+#### Senior Courts Act 1981 (c.54)[^c-17e4308ef6fe485df9a5c831f3a26aba]
 
 *Extent: E+W*
 
@@ -210,7 +210,7 @@ Section 84.
 
 #### Income and Corporation Taxes Act 1988 (c.1)
 
-**13.**[^key-019347e18173769ffb9af47fdfd939ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-019347e18173769ffb9af47fdfd939ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Social Security Contributions and Benefits Act 1992 (c.4)
 
@@ -292,11 +292,11 @@ Section 84.
 
 *Extent: E+W+S*
 
-**29.**[^key-c26443d843a0bb91fcc4da452915f395] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-c26443d843a0bb91fcc4da452915f395] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-**30.**[^key-d50d40721a0729ceec7877691b785d28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-d50d40721a0729ceec7877691b785d28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
@@ -382,7 +382,7 @@ Section 84.
 
 (2) In subsection (1), after “Part IV,” there is inserted “ Chapters I and II of Part IVA, ”.
 
-(3)[^key-d13e0c58363f8424eb7dbbdf1e17c185] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d13e0c58363f8424eb7dbbdf1e17c185] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
@@ -404,7 +404,7 @@ Section 84.
   > “**pension credit**” means a credit under section 29(1)(b) of the Welfare Reform and Pensions Act 1999 or under corresponding Northern Ireland legislation;
 
   , and
-- (b)[^key-9a654d8aa9d22b9c83e72d60dc85b1e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9a654d8aa9d22b9c83e72d60dc85b1e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
@@ -416,17 +416,17 @@ Section 84.
 
 **43.** The Pensions Act 1995 has effect subject to the following amendments.
 
-**44.**[^key-0e3b4038cfbcbde2b354eb40c2e1a143] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-0e3b4038cfbcbde2b354eb40c2e1a143] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**45.**[^key-29f9f9892cf4084930883df83bb298db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-29f9f9892cf4084930883df83bb298db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**46.**[^key-29f9f9892cf4084930883df83bb298db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-29f9f9892cf4084930883df83bb298db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**47.**[^key-29f9f9892cf4084930883df83bb298db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-29f9f9892cf4084930883df83bb298db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**48.**[^key-29f9f9892cf4084930883df83bb298db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.**[^c-29f9f9892cf4084930883df83bb298db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**49.**[^key-29f9f9892cf4084930883df83bb298db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**49.**[^c-29f9f9892cf4084930883df83bb298db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **50.** (1) Section 38 is amended as follows.
 
@@ -450,7 +450,7 @@ Section 84.
 
 > (3A) In subsections (1) and (2), the references to a person’s pension do not include any pension which is attributable (directly or indirectly) to a pension credit.
 
-**53.**[^key-20d5573b439251161cd1ebd9b064a26c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**53.**[^c-20d5573b439251161cd1ebd9b064a26c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **54.** In section 68(2), for “and” at the end of paragraph (d) there is substituted—
 
@@ -458,7 +458,7 @@ Section 84.
 
 .
 
-**55.**[^key-84d48914657fc0bffda468d971bbeb5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**55.**[^c-84d48914657fc0bffda468d971bbeb5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **56.** In section 74(3)(b), at the end there is inserted “ or pension credit rights ”.
 
@@ -491,7 +491,7 @@ Section 84.
 
 (4) In subsection (4), for “accrued right to a pension” there is substituted “ right ”.
 
-**60.**[^key-d6075a7d7a95f4b5a5a2987e87667abd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**60.**[^c-d6075a7d7a95f4b5a5a2987e87667abd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **61.** (1) Section 124 is amended as follows.
 
@@ -528,13 +528,13 @@ Section 84.
 
 *Extent: E+W*
 
-**64.**[^key-0aca515e215b5737df2f003b8e75a02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**64.**[^c-0aca515e215b5737df2f003b8e75a02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**65.**[^key-0aca515e215b5737df2f003b8e75a02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**65.**[^c-0aca515e215b5737df2f003b8e75a02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**66.**[^key-0aca515e215b5737df2f003b8e75a02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**66.**[^c-0aca515e215b5737df2f003b8e75a02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Other consequential amendments
 
@@ -542,143 +542,143 @@ Section 84.
 
 *Extent: S*
 
-**67.**[^c1314629] The Bankruptcy (Scotland) Act 1985 has effect subject to the following amendments. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+**67.**[^c1314629] The Bankruptcy (Scotland) Act 1985 has effect subject to the following amendments. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 
-**68.**[^c1314630] In section 35(1), in paragraph (a) for “under the said section 8(2) for the transfer of property by him” substitute *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d] “ a court has, under the said section 8(2), made an order for the transfer of property by him or made a pension sharing order ” *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d].
+**68.**[^c1314630] In section 35(1), in paragraph (a) for “under the said section 8(2) for the transfer of property by him” substitute *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d] “ a court has, under the said section 8(2), made an order for the transfer of property by him or made a pension sharing order ” *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d].
 
-**69.**[^c1314631] After section 36C there is inserted— *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+**69.**[^c1314631] After section 36C there is inserted— *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 
-> **36D. Recovery of excessive contributions in pension-sharing cases. (affected by repeal, see note)[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]**
+> **36D. Recovery of excessive contributions in pension-sharing cases. (affected by repeal, see note)[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]**
 >
-> (1) For the purposes of section 34 of this Act, a pension-sharing transaction shall be taken— *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (1) For the purposes of section 34 of this Act, a pension-sharing transaction shall be taken— *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> - (a) to be a transaction, entered into by the transferor with the transferee, by which the appropriate amount is transferred by the transferor to the transferee; and *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (b) to be capable of being an alienation challengeable under that section only so far as it is a transfer of so much of the appropriate amount as is recoverable. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (a) to be a transaction, entered into by the transferor with the transferee, by which the appropriate amount is transferred by the transferor to the transferee; and *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (b) to be capable of being an alienation challengeable under that section only so far as it is a transfer of so much of the appropriate amount as is recoverable. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (2) For the purposes of section 35 of this Act, a pension-sharing transaction shall be taken— *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (2) For the purposes of section 35 of this Act, a pension-sharing transaction shall be taken— *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> - (a) to be a pension sharing order made by the court under section 8(2) of the Family Law (Scotland) Act 1985; and *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (b) to be an order capable of being recalled under that section only so far as it is a payment or transfer of so much of the appropriate amount as is recoverable. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (a) to be a pension sharing order made by the court under section 8(2) of the Family Law (Scotland) Act 1985; and *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (b) to be an order capable of being recalled under that section only so far as it is a payment or transfer of so much of the appropriate amount as is recoverable. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (3) For the purposes of section 36 of this Act, a pension-sharing transaction shall be taken— *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (3) For the purposes of section 36 of this Act, a pension-sharing transaction shall be taken— *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> - (a) to be something (namely a transfer of the appropriate amount to the transferee) done by the transferor; and *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (b) to be capable of being an unfair preference given to the transferee only so far as it is a transfer of so much of the appropriate amount as is recoverable. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (a) to be something (namely a transfer of the appropriate amount to the transferee) done by the transferor; and *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (b) to be capable of being an unfair preference given to the transferee only so far as it is a transfer of so much of the appropriate amount as is recoverable. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (4) Where— *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (4) Where— *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> - (a) an alienation is challenged under section 34; *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (b) an application is made under section 35 for the recall of an order made in divorce proceedings; or *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (c) a transaction is challenged under section 36, *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (a) an alienation is challenged under section 34; *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (b) an application is made under section 35 for the recall of an order made in divorce proceedings; or *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (c) a transaction is challenged under section 36, *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> if any question arises as to whether, or the extent to which, the appropriate amount in the case of a pension-sharing transaction is recoverable, the question shall be determined in accordance with subsections (5) to (9). *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> if any question arises as to whether, or the extent to which, the appropriate amount in the case of a pension-sharing transaction is recoverable, the question shall be determined in accordance with subsections (5) to (9). *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (5) The court shall first determine the extent (if any) to which the transferor’s rights under the shared arrangement at the time of the transaction appear to have been (whether directly or indirectly) the fruits of contributions (“ *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]**personal contributions *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]**”)—
+> (5) The court shall first determine the extent (if any) to which the transferor’s rights under the shared arrangement at the time of the transaction appear to have been (whether directly or indirectly) the fruits of contributions (“ *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]**personal contributions *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]**”)—
 >
-> - (a) which the transferor has at any time made on his own behalf, or *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (b) which have at any time been made on the transferor’s behalf, *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (a) which the transferor has at any time made on his own behalf, or *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (b) which have at any time been made on the transferor’s behalf, *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> to the shared arrangement or any other pension arrangement. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> to the shared arrangement or any other pension arrangement. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (6) Where it appears that those rights were to any extent the fruits of personal contributions, the court shall then determine the extent (if any) to which those rights appear to have been the fruits of personal contributions whose making has unfairly prejudiced the transferor’s creditors (“ *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]**the unfair contributions *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]**”).
+> (6) Where it appears that those rights were to any extent the fruits of personal contributions, the court shall then determine the extent (if any) to which those rights appear to have been the fruits of personal contributions whose making has unfairly prejudiced the transferor’s creditors (“ *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]**the unfair contributions *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]**”).
 >
-> (7) If it appears to the court that the extent to which those rights were the fruits of the unfair contributions is such that the transfer of the appropriate amount could have been made out of rights under the shared arrangement which were not the fruits of the unfair contributions, then the appropriate amount is not recoverable. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (7) If it appears to the court that the extent to which those rights were the fruits of the unfair contributions is such that the transfer of the appropriate amount could have been made out of rights under the shared arrangement which were not the fruits of the unfair contributions, then the appropriate amount is not recoverable. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (8) If it appears to the court that the transfer could not have been wholly so made, then the appropriate amount is recoverable to the extent to which it appears to the court that the transfer could not have been so made. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (8) If it appears to the court that the transfer could not have been wholly so made, then the appropriate amount is recoverable to the extent to which it appears to the court that the transfer could not have been so made. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (9) In making the determination mentioned in subsection (6) the court shall consider in particular— *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (9) In making the determination mentioned in subsection (6) the court shall consider in particular— *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> - (a) whether any of the personal contributions were made for the purpose of putting assets beyond the reach of the transferor’s creditors or any of them; and *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (b) whether the total amount of any personal contributions represented, at the time the pension sharing arrangement was made, by rights under pension arrangements is an amount which is excessive in view of the transferor’s circumstances when those contributions were made. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (a) whether any of the personal contributions were made for the purpose of putting assets beyond the reach of the transferor’s creditors or any of them; and *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (b) whether the total amount of any personal contributions represented, at the time the pension sharing arrangement was made, by rights under pension arrangements is an amount which is excessive in view of the transferor’s circumstances when those contributions were made. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (10) In this section and sections 36E and 36F— *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (10) In this section and sections 36E and 36F— *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> - “**appropriate amount *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]**”, in relation to a pension-sharing transaction, means the appropriate amount in relation to that transaction for the purposes of section 29(1) of the Welfare Reform and Pensions Act 1999 (creation of pension credits and debits); *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - “**pension-sharing transaction *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]**” means an order or provision falling within section 28(1) of the Welfare Reform and Pensions Act 1999 (orders and agreements which activate pension-sharing); *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - “**shared arrangement *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]**”, in relation to a pension-sharing transaction, means the pension arrangement to which the transaction relates; *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - “**transferee *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]**”, in relation to a pension-sharing transaction, means the person for whose benefit the transaction is made; *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - “**transferor *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]**”, in relation to a pension-sharing transaction, means the person to whose rights the transaction relates. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - “**appropriate amount *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]**”, in relation to a pension-sharing transaction, means the appropriate amount in relation to that transaction for the purposes of section 29(1) of the Welfare Reform and Pensions Act 1999 (creation of pension credits and debits); *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - “**pension-sharing transaction *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]**” means an order or provision falling within section 28(1) of the Welfare Reform and Pensions Act 1999 (orders and agreements which activate pension-sharing); *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - “**shared arrangement *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]**”, in relation to a pension-sharing transaction, means the pension arrangement to which the transaction relates; *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - “**transferee *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]**”, in relation to a pension-sharing transaction, means the person for whose benefit the transaction is made; *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - “**transferor *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]**”, in relation to a pension-sharing transaction, means the person to whose rights the transaction relates. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> **36E. Recovery orders. (affected by repeal, see note)[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]**
+> **36E. Recovery orders. (affected by repeal, see note)[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]**
 >
-> (1) In this section and section 36F of this Act, “recovery order” means— *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (1) In this section and section 36F of this Act, “recovery order” means— *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> - (a) a decree granted under section 34(4) of this Act; *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (b) an order made under section 35(2) of this Act; *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (c) a decree granted under section 36(5) of this Act, *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (a) a decree granted under section 34(4) of this Act; *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (b) an order made under section 35(2) of this Act; *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (c) a decree granted under section 36(5) of this Act, *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> in any proceedings to which section 36D of this Act applies. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> in any proceedings to which section 36D of this Act applies. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (2) Without prejudice to the generality of section 34(4), 35(2) or 36(5) a recovery order may include provision— *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (2) Without prejudice to the generality of section 34(4), 35(2) or 36(5) a recovery order may include provision— *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> - (a) requiring the person responsible for a pension arrangement in which the transferee has acquired rights derived directly or indirectly from the pension-sharing transaction to pay an amount to the permanent trustee, *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (b) adjusting the liabilities of the pension arrangement in respect of the transferee, *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (c) adjusting any liabilities of the pension arrangement in respect of any other person that derive, directly or indirectly, from rights of the transferee under the arrangement, *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (d) for the recovery by the person responsible for the pension arrangement (whether by deduction from any amount which that person is ordered to pay or otherwise) of costs incurred by that person in complying in the debtor’s case with any requirement under section 36F(1) or in giving effect to the order. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (a) requiring the person responsible for a pension arrangement in which the transferee has acquired rights derived directly or indirectly from the pension-sharing transaction to pay an amount to the permanent trustee, *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (b) adjusting the liabilities of the pension arrangement in respect of the transferee, *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (c) adjusting any liabilities of the pension arrangement in respect of any other person that derive, directly or indirectly, from rights of the transferee under the arrangement, *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (d) for the recovery by the person responsible for the pension arrangement (whether by deduction from any amount which that person is ordered to pay or otherwise) of costs incurred by that person in complying in the debtor’s case with any requirement under section 36F(1) or in giving effect to the order. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (3) In subsection (2), references to adjusting the liabilities of a pension arrangement in respect of a person include (in particular) reducing the amount of any benefit or future benefit to which that person is entitled under the arrangement. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (3) In subsection (2), references to adjusting the liabilities of a pension arrangement in respect of a person include (in particular) reducing the amount of any benefit or future benefit to which that person is entitled under the arrangement. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (4) The maximum amount which the person responsible for an arrangement may be required to pay by a recovery order is the smallest of— *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (4) The maximum amount which the person responsible for an arrangement may be required to pay by a recovery order is the smallest of— *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> - (a) so much of the appropriate amount as, in accordance with section 36D of this Act, is recoverable, *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (b) so much (if any) of the amount of the unfair contributions (within the meaning given by section 36D(6)) as is not recoverable by way of an order under section 36A of this Act containing provision such as is mentioned in section 36B(1)(a), and *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (c) the value of the debtor’s rights under the arrangement acquired by the transferee as a consequence of the transfer of the appropriate amount. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (a) so much of the appropriate amount as, in accordance with section 36D of this Act, is recoverable, *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (b) so much (if any) of the amount of the unfair contributions (within the meaning given by section 36D(6)) as is not recoverable by way of an order under section 36A of this Act containing provision such as is mentioned in section 36B(1)(a), and *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (c) the value of the debtor’s rights under the arrangement acquired by the transferee as a consequence of the transfer of the appropriate amount. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (5) A recovery order which requires the person responsible for an arrangement to pay an amount (“ *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]**the restoration amount *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]**”) to the permanent trustee must provide for the liabilities of the arrangement to be correspondingly reduced. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (5) A recovery order which requires the person responsible for an arrangement to pay an amount (“ *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]**the restoration amount *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]**”) to the permanent trustee must provide for the liabilities of the arrangement to be correspondingly reduced. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (6) For the purposes of subsection (5), liabilities are correspondingly reduced if the difference between— *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (6) For the purposes of subsection (5), liabilities are correspondingly reduced if the difference between— *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> - (a) the amount of the liabilities immediately before the reduction, and *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (b) the amount of the liabilities immediately after the reduction, *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (a) the amount of the liabilities immediately before the reduction, and *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (b) the amount of the liabilities immediately after the reduction, *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> is equal to the restoration amount. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> is equal to the restoration amount. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (7) A recovery order in respect of an arrangement— *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (7) A recovery order in respect of an arrangement— *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> - (a) shall be binding on the person responsible for the arrangement, and *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (b) overrides provisions of the arrangement to the extent that they conflict with the provisions of the order. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (a) shall be binding on the person responsible for the arrangement, and *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (b) overrides provisions of the arrangement to the extent that they conflict with the provisions of the order. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> **36F. Recovery orders: supplementary. (affected by repeal, see note)[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]**
+> **36F. Recovery orders: supplementary. (affected by repeal, see note)[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]**
 >
-> (1) The person responsible for a pension arrangement under which the transferee has, at any time, acquired rights by virtue of the transfer of the appropriate amount shall, on the permanent trustee making a written request, provide the trustee with such information about the arrangement and the rights under it of the transferor and transferee as the permanent trustee may reasonably require for, or in connection with, the making of an application for a recovery order. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (1) The person responsible for a pension arrangement under which the transferee has, at any time, acquired rights by virtue of the transfer of the appropriate amount shall, on the permanent trustee making a written request, provide the trustee with such information about the arrangement and the rights under it of the transferor and transferee as the permanent trustee may reasonably require for, or in connection with, the making of an application for a recovery order. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (2) Nothing in— *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (2) Nothing in— *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> - (a) any provision of section 159 of the *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d] [^c1314632]Pension Schemes Act 1993 or section 91 of the *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d] [^c1314633]Pensions Act 1995 (which prevent assignation and the making of orders which restrain a person from receiving anything which he is prevented from assigning), *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (b) any provision of any enactment (whether passed or made before or after the passing of the Welfare Reform and Pensions Act 1999) corresponding to any of the provisions mentioned in paragraph (a), or *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (c) any provision of the arrangement in question corresponding to any of those provisions, *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (a) any provision of section 159 of the *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d] [^c1314632]Pension Schemes Act 1993 or section 91 of the *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d] [^c1314633]Pensions Act 1995 (which prevent assignation and the making of orders which restrain a person from receiving anything which he is prevented from assigning), *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (b) any provision of any enactment (whether passed or made before or after the passing of the Welfare Reform and Pensions Act 1999) corresponding to any of the provisions mentioned in paragraph (a), or *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (c) any provision of the arrangement in question corresponding to any of those provisions, *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> applies to a court exercising its power to make a recovery order. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> applies to a court exercising its power to make a recovery order. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (3) Regulations may, for the purposes of the recovery provisions, make provision about the calculation and verification of— *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (3) Regulations may, for the purposes of the recovery provisions, make provision about the calculation and verification of— *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> - (a) any such value as is mentioned in section 36E(4)(c); *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (b) any such amounts as are mentioned in section 36E(6)(a) and (b). *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (a) any such value as is mentioned in section 36E(4)(c); *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (b) any such amounts as are mentioned in section 36E(6)(a) and (b). *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (4) The power conferred by subsection (3) includes power to provide for calculation or verification— *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (4) The power conferred by subsection (3) includes power to provide for calculation or verification— *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> - (a) in such manner as may, in the particular case, be approved by a prescribed person; or *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (b) in accordance with guidance— *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
->   - (i) from time to time prepared by a prescribed person, and *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
->   - (ii (affected by repeal, see note))[^key-3ebbd61e5a7ef837b373ba0bcc40c20d] approved by the Secretary of State. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (a) in such manner as may, in the particular case, be approved by a prescribed person; or *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (b) in accordance with guidance— *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+>   - (i) from time to time prepared by a prescribed person, and *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+>   - (ii (affected by repeal, see note))[^c-3ebbd61e5a7ef837b373ba0bcc40c20d] approved by the Secretary of State. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (5) References in the recovery provisions to the person responsible for a pension arrangement are to— *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (5) References in the recovery provisions to the person responsible for a pension arrangement are to— *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> - (a) the trustees, managers or provider of the arrangement, or *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (b) the person having functions in relation to the arrangement corresponding to those of a trustee, manager or provider. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (a) the trustees, managers or provider of the arrangement, or *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (b) the person having functions in relation to the arrangement corresponding to those of a trustee, manager or provider. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (6) In this section— *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (6) In this section— *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> - “**prescribed *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]**” means prescribed by regulations; *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - “**the recovery provisions *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]**” means this section and sections 34, 35, 36 and 36E of this Act; *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - “**regulations *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]**” means regulations made by the Secretary of State. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - “**prescribed *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]**” means prescribed by regulations; *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - “**the recovery provisions *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]**” means this section and sections 34, 35, 36 and 36E of this Act; *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - “**regulations *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]**” means regulations made by the Secretary of State. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (7) Regulations under the recovery provisions may— *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (7) Regulations under the recovery provisions may— *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> - (a) make different provision for different cases; *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
-> - (b) contain such incidental, supplemental and transitional provisions as appear to the Secretary of State necessary or expedient. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (a) make different provision for different cases; *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> - (b) contain such incidental, supplemental and transitional provisions as appear to the Secretary of State necessary or expedient. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 >
-> (8) Regulations under the recovery provisions shall be made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament. *(affected by repeal, see note)*[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]
+> (8) Regulations under the recovery provisions shall be made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament. *(affected by repeal, see note)*[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]
 
 #### Insolvency Act 1986 (c.45)
 
@@ -839,7 +839,7 @@ Section 84.
 
 **74.** In section 172(3) (exceptions from tax), for “earnings threshold” substitute “ secondary threshold ”.
 
-**75.**[^key-c4b3b61cbb77615e8c8305f30556cec6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**75.**[^c-c4b3b61cbb77615e8c8305f30556cec6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Social Security Contributions and Benefits Act 1992 (c.4)
 
@@ -987,7 +987,7 @@ Section 84.
 
 ## Annotations
 
-[^key-17e4308ef6fe485df9a5c831f3a26aba]: Textual amendment: Words in Blanket Amendment substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-17e4308ef6fe485df9a5c831f3a26aba]: Textual amendment: Words in Blanket Amendment substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c1314619]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/8) wholly in force at 15.4.2000; [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/8) not in force at Royal Assent see [s. 89(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1); [Sch. 12 para. 8(1)(2)(5)(6)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/8/1/2/5/6) in force at 1.12.2000 by [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/IV); [Sch. 12 para. 8(3)(4)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/8/3/4) in force at 15.4.2000 by [S.S.I. 2000/111](https://www.legislation.gov.uk/ssi/2000/111), [art. 2](https://www.legislation.gov.uk/ssi/2000/111/article/2)
 
@@ -999,35 +999,35 @@ Section 84.
 
 [^c1314623]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-019347e18173769ffb9af47fdfd939ee]: Textual amendment: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/13) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-019347e18173769ffb9af47fdfd939ee]: Textual amendment: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/13) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
 
-[^key-c26443d843a0bb91fcc4da452915f395]: Textual amendment: [Sch. 12 para. 29](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/29) repealed (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/30/schedule/11/part/2); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2009/82/article/2/2/g)
+[^c-c26443d843a0bb91fcc4da452915f395]: Textual amendment: [Sch. 12 para. 29](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/29) repealed (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/30/schedule/11/part/2); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2009/82/article/2/2/g)
 
-[^key-d50d40721a0729ceec7877691b785d28]: Textual amendment: [Sch. 12 para. 30](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/30) repealed (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/30/schedule/11/part/2); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2009/82/article/2/2/g)
+[^c-d50d40721a0729ceec7877691b785d28]: Textual amendment: [Sch. 12 para. 30](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/30) repealed (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/30/schedule/11/part/2); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2009/82/article/2/2/g)
 
-[^key-d13e0c58363f8424eb7dbbdf1e17c185]: Textual amendment: [Sch. 12 para. 39(3)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/39/3) repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
+[^c-d13e0c58363f8424eb7dbbdf1e17c185]: Textual amendment: [Sch. 12 para. 39(3)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/39/3) repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
 
 [^c1314624]: Marginal citation: [1973 c. 18](https://www.legislation.gov.uk/ukpga/1973/18).
 
 [^c1314625]: Marginal citation: [1985 c. 37](https://www.legislation.gov.uk/ukpga/1985/37).
 
-[^key-9a654d8aa9d22b9c83e72d60dc85b1e8]: Textual amendment: [Sch. 12 para. 41(b)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/41/b) repealed (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/30/schedule/11/part/2); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2009/82/article/2/2/g)
+[^c-9a654d8aa9d22b9c83e72d60dc85b1e8]: Textual amendment: [Sch. 12 para. 41(b)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/41/b) repealed (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/30/schedule/11/part/2); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2009/82/article/2/2/g)
 
-[^key-0e3b4038cfbcbde2b354eb40c2e1a143]: Textual amendment: Sch. 12 para. 44 repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(6)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/6)
+[^c-0e3b4038cfbcbde2b354eb40c2e1a143]: Textual amendment: Sch. 12 para. 44 repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(6)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/6)
 
-[^key-29f9f9892cf4084930883df83bb298db]: Textual amendment: [Sch. 12 paras. 45-49](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/45) repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(6)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/6)
+[^c-29f9f9892cf4084930883df83bb298db]: Textual amendment: [Sch. 12 paras. 45-49](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/45) repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(6)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/6)
 
-[^key-20d5573b439251161cd1ebd9b064a26c]: Textual amendment: Sch. 12 para. 53 repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(6)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/6)
+[^c-20d5573b439251161cd1ebd9b064a26c]: Textual amendment: Sch. 12 para. 53 repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(6)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/6)
 
-[^key-84d48914657fc0bffda468d971bbeb5b]: Textual amendment: Sch. 12 para. 55 repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/695/article/2/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/695/schedule/1)
+[^c-84d48914657fc0bffda468d971bbeb5b]: Textual amendment: Sch. 12 para. 55 repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/695/article/2/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/695/schedule/1)
 
-[^key-d6075a7d7a95f4b5a5a2987e87667abd]: Textual amendment: Sch. 12 para. 60 repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/1108](https://www.legislation.gov.uk/uksi/2005/1108), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/1108/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1108/schedule)
+[^c-d6075a7d7a95f4b5a5a2987e87667abd]: Textual amendment: Sch. 12 para. 60 repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/1108](https://www.legislation.gov.uk/uksi/2005/1108), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/1108/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1108/schedule)
 
-[^key-0aca515e215b5737df2f003b8e75a02a]: Textual amendment: [Sch. 12 paras. 64-66](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/64) repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(3)(b)(iii)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/3/b/iii), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)
+[^c-0aca515e215b5737df2f003b8e75a02a]: Textual amendment: [Sch. 12 paras. 64-66](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/64) repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(3)(b)(iii)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/3/b/iii), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)
 
 [^c1314629]: Commencement: Sch. 12 para. 67 wholly in force at 6.4.2002; Sch. 12 para. 67 not in force at Royal Assent see s. 89(1); Sch. 12 para. 67 in force at 26.3.2002 for certain purposes and at 6.4.2002 otherwise by [S.I. 2002/818](https://www.legislation.gov.uk/uksi/2002/818), [art. 2](https://www.legislation.gov.uk/uksi/2002/818/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2002/818/article/3) which omitted [S.I. 2002/153](https://www.legislation.gov.uk/uksi/2002/153), [art. 2(h)(k)](https://www.legislation.gov.uk/uksi/2002/153/article/2/h/k))
 
-[^key-3ebbd61e5a7ef837b373ba0bcc40c20d]: Textual amendment: [Sch. 12 paras. 67-69](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/67) repealed (30.11.2016) (S) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-3ebbd61e5a7ef837b373ba0bcc40c20d]: Textual amendment: [Sch. 12 paras. 67-69](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/67) repealed (30.11.2016) (S) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
 
 [^c1314630]: Commencement: Sch. 12 para. 68 wholly in force at 6.4.2002; Sch. 12 para. 68 not in force at Royal Assent see s. 89(1); Sch. 12 para. 68 in force at 26.3.2002 for certain purposes and 6.4.2002 otherwise by [S.I. 2002/818](https://www.legislation.gov.uk/uksi/2002/818), [art. 2](https://www.legislation.gov.uk/uksi/2002/818/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2002/818/article/3) which omitted [S.I. 2002/153](https://www.legislation.gov.uk/uksi/2002/153), [art. 2(h)(k)](https://www.legislation.gov.uk/uksi/2002/153/article/2/h/k))
 
@@ -1047,4 +1047,4 @@ Section 84.
 
 [^c1314638]: Commencement: Sch. 12 para. 72 wholly in force at 6.4.2002; Sch. 12 para. 72 not in force at Royal Assent see s. 89(1); Sch. 12 para. 72 in force at 26.3.2002 for certain purposes and 6.4.2002 otherwise by [S.I. 2002/818](https://www.legislation.gov.uk/uksi/2002/818), [art. 2](https://www.legislation.gov.uk/uksi/2002/818/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2002/818/article/3) which omitted [S.I. 2002/153](https://www.legislation.gov.uk/uksi/2002/153), [art. 2(h)(k)](https://www.legislation.gov.uk/uksi/2002/153/article/2/h/k))
 
-[^key-c4b3b61cbb77615e8c8305f30556cec6]: Textual amendment: Sch. 12 para. 75 repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-c4b3b61cbb77615e8c8305f30556cec6]: Textual amendment: Sch. 12 para. 75 repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))

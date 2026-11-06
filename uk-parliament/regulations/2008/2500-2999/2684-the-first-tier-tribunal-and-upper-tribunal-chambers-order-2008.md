@@ -31,7 +31,7 @@ summary: ''
 
 Tribunals And Inquiries
 
-The First-tier Tribunal and Upper Tribunal (Chambers) Order 2008 (revoked)[^key-ee2502e9492a31f96fcbeb4fa69e30a7]
+The First-tier Tribunal and Upper Tribunal (Chambers) Order 2008 (revoked)[^c-ee2502e9492a31f96fcbeb4fa69e30a7]
 
 Made
 
@@ -45,46 +45,46 @@ Coming into force
 
 3rd November 2008
 
-[^key-ee2502e9492a31f96fcbeb4fa69e30a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee2502e9492a31f96fcbeb4fa69e30a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ee2502e9492a31f96fcbeb4fa69e30a7]
+## 1. Citation and commencement[^c-ee2502e9492a31f96fcbeb4fa69e30a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. First-tier Tribunal Chambers[^key-ee2502e9492a31f96fcbeb4fa69e30a7]
+## 2. First-tier Tribunal Chambers[^c-ee2502e9492a31f96fcbeb4fa69e30a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Functions of the Social Entitlement Chamber[^key-ee2502e9492a31f96fcbeb4fa69e30a7]
+## 3. Functions of the Social Entitlement Chamber[^c-ee2502e9492a31f96fcbeb4fa69e30a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Functions of the War Pensions and Armed Forces Compensation Chamber[^key-ee2502e9492a31f96fcbeb4fa69e30a7]
+## 4. Functions of the War Pensions and Armed Forces Compensation Chamber[^c-ee2502e9492a31f96fcbeb4fa69e30a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Functions of the Health, Education and Social Care Chamber[^key-ee2502e9492a31f96fcbeb4fa69e30a7]
+## 5. Functions of the Health, Education and Social Care Chamber[^c-ee2502e9492a31f96fcbeb4fa69e30a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Upper Tribunal Chamber[^key-ee2502e9492a31f96fcbeb4fa69e30a7]
+## 6. Upper Tribunal Chamber[^c-ee2502e9492a31f96fcbeb4fa69e30a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Functions of the Administrative Appeals Chamber[^key-ee2502e9492a31f96fcbeb4fa69e30a7]
+## 7. Functions of the Administrative Appeals Chamber[^c-ee2502e9492a31f96fcbeb4fa69e30a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ee2502e9492a31f96fcbeb4fa69e30a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee2502e9492a31f96fcbeb4fa69e30a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ee2502e9492a31f96fcbeb4fa69e30a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee2502e9492a31f96fcbeb4fa69e30a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ee2502e9492a31f96fcbeb4fa69e30a7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/2684) revoked (29.11.2010) by [The First-tier Tribunal and Upper Tribunal (Chambers) Order 2010 (S.I. 2010/2655)](https://www.legislation.gov.uk/uksi/2010/2655), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2655/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/2655/schedule)
+[^c-ee2502e9492a31f96fcbeb4fa69e30a7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/2684) revoked (29.11.2010) by [The First-tier Tribunal and Upper Tribunal (Chambers) Order 2010 (S.I. 2010/2655)](https://www.legislation.gov.uk/uksi/2010/2655), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2655/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/2655/schedule)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

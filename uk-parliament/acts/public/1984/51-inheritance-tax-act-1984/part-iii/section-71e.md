@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to subsections (2) to (4A)[^key-f650bc774b6e67f92883ad621574857b] below, there shall be a charge to tax under this section—
+(1) Subject to subsections (2) to (4A)[^c-f650bc774b6e67f92883ad621574857b] below, there shall be a charge to tax under this section—
 
 - (a) where settled property ceases to be property to which section 71D above applies, or
 - (b) in a case where paragraph (a) above does not apply, where the trustees make a disposition as a result of which the value of the settled property to which section 71D above applies is less than it would be but for the disposition.
@@ -43,7 +43,7 @@ or in respect of a liability to make such a payment.
 
 (4) Tax is not charged under this section by virtue of subsection (1)(b) above if the disposition is such that, were the trustees beneficially entitled to the settled property, section 10 or section 16 above would prevent the disposition from being a transfer of value.
 
-(4A)[^key-b6269c2e14c1a33bdf1e22162f21edc6] If an amount is paid or applied otherwise than for the benefit of B and the exemptions provided by subsections (2) to (4) do not apply, tax is not charged under this section in respect of whichever is the lower of the following amounts—
+(4A)[^c-b6269c2e14c1a33bdf1e22162f21edc6] If an amount is paid or applied otherwise than for the benefit of B and the exemptions provided by subsections (2) to (4) do not apply, tax is not charged under this section in respect of whichever is the lower of the following amounts—
 
 - (a) the amount paid or applied, and
 - (b) the annual limit.
@@ -54,6 +54,6 @@ or in respect of a liability to make such a payment.
 
 [^c19473191]: Textual amendment: Ss. 71A-71H inserted (22.3.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 156](https://www.legislation.gov.uk/ukpga/2006/25/section/156), [Sch. 20 para. 1(1)(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/1/1/2)
 
-[^key-f650bc774b6e67f92883ad621574857b]: Textual amendment: Word in s. 71E(1) substituted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/5/2)
+[^c-f650bc774b6e67f92883ad621574857b]: Textual amendment: Word in s. 71E(1) substituted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/5/2)
 
-[^key-b6269c2e14c1a33bdf1e22162f21edc6]: Textual amendment: S. 71E(4A) inserted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 5(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/5/3)
+[^c-b6269c2e14c1a33bdf1e22162f21edc6]: Textual amendment: S. 71E(4A) inserted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 5(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/5/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Political adviser[^key-eb9419068d52310f65dfb4250e253e8d]
+## 5. Political adviser[^c-eb9419068d52310f65dfb4250e253e8d]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eb9419068d52310f65dfb4250e253e8d]: Commencement: Art. 5 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-eb9419068d52310f65dfb4250e253e8d]: Commencement: Art. 5 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00030]: Footnote: Section 9 was amended by sections 61 and 204 of, and paragraph 2 of Schedule 2 to, the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28) and by [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237). There are other amendments not relevant to this instrument.

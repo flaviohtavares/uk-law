@@ -27,12 +27,12 @@ summary: ''
 
 and in this section “ **the responsible person** ” means the owner of the water or canal undertaking or (as the case may be) the occupier of the mill or the owner or occupier of the fish farm.
 
-(2) Where this section applies, the responsible person shall, unless an exemption from the obligation is granted by the appropriate agency[^key-6f1a039fac63f8e9582fe5c9cf52ad5a], ensure (at his own cost) that there is placed and maintained at the entrance of, or within, the conduit or channel a screen which—
+(2) Where this section applies, the responsible person shall, unless an exemption from the obligation is granted by the appropriate agency[^c-6f1a039fac63f8e9582fe5c9cf52ad5a], ensure (at his own cost) that there is placed and maintained at the entrance of, or within, the conduit or channel a screen which—
 
 - (a) subject to subsection (4) below, prevents the descent of the salmon or migratory trout; and
 - (b) in a case where any of the water diverted is used for the purposes of a fish farm, prevents the egress of farmed fish from the fish farm by way of the conduit or channel.
 
-(3) Where this section applies, the responsible person shall also, unless an exemption from the obligation is granted by the appropriate agency[^key-762fa4397e54a87d1214c9cb6970abaa], ensure (at his own cost) that there is placed and maintained across any outfall of the conduit or channel a screen which—
+(3) Where this section applies, the responsible person shall also, unless an exemption from the obligation is granted by the appropriate agency[^c-762fa4397e54a87d1214c9cb6970abaa], ensure (at his own cost) that there is placed and maintained across any outfall of the conduit or channel a screen which—
 
 - (a) prevents salmon or migratory trout from entering the outfall; and
 - (b) in a case where any of the water diverted is used for the purposes of a fish farm, prevents the egress of farmed fish from the fish farm by way of the outfall.
@@ -74,6 +74,6 @@ he has served on the prosecutor a notice in writing giving such information iden
 
     S. 14 modified (1.1.1999) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(2)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/2), [Sch. 23 Pt. I para. 14(6)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/23/part/I/paragraph/14/6) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 4](https://www.legislation.gov.uk/uksi/1995/1983/article/4)
 
-[^key-6f1a039fac63f8e9582fe5c9cf52ad5a]: Textual amendment: Words in [s. 14(2)](https://www.legislation.gov.uk/ukpga/1975/51/section/14/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 136](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/136) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-6f1a039fac63f8e9582fe5c9cf52ad5a]: Textual amendment: Words in [s. 14(2)](https://www.legislation.gov.uk/ukpga/1975/51/section/14/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 136](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/136) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-762fa4397e54a87d1214c9cb6970abaa]: Textual amendment: Words in [s. 14(3)](https://www.legislation.gov.uk/ukpga/1975/51/section/14/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 136](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/136) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-762fa4397e54a87d1214c9cb6970abaa]: Textual amendment: Words in [s. 14(3)](https://www.legislation.gov.uk/ukpga/1975/51/section/14/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 136](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/136) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

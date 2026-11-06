@@ -52,7 +52,7 @@ summary: ''
 - (a) dies after 5th April 2000, and
 - (b) has not attained pensionable age on or before that date.
 
-(6) This Article has effect where additional pension falls to be calculated under sections 44 and 45 of the Contributions and Benefits Act as applied by section [^key-f43ecf634fbc2d7c5a7f99594cfbe4e2]...48B(2) or 48BB(5)[^c17252961] of that Act (other Category B retirement pension) if—
+(6) This Article has effect where additional pension falls to be calculated under sections 44 and 45 of the Contributions and Benefits Act as applied by section [^c-f43ecf634fbc2d7c5a7f99594cfbe4e2]...48B(2) or 48BB(5)[^c17252961] of that Act (other Category B retirement pension) if—
 
 - (a) the pensioner attains pensionable age after 5th April 2000, and
 - (b) the pensioner's spouse has not attained pensionable age on or before that date.
@@ -61,6 +61,6 @@ summary: ''
 
 [^c17252921]: Textual amendment: [1999 NI 11](https://www.legislation.gov.uk/nisi/1999)
 
-[^key-f43ecf634fbc2d7c5a7f99594cfbe4e2]: Textual amendment: Word in art. 125(6) omitted (6.4.2016) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 62](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/62)
+[^c-f43ecf634fbc2d7c5a7f99594cfbe4e2]: Textual amendment: Word in art. 125(6) omitted (6.4.2016) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 62](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/62)
 
 [^c17252961]: Textual amendment: [1999 NI 11](https://www.legislation.gov.uk/nisi/1999)

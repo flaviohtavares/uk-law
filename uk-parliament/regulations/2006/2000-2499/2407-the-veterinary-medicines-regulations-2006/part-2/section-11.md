@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Advertising of prescription products and products containing psychotropic drugs or narcotics[^key-471dec18341afeb19734db84aa2c70af]
+## 11. Advertising of prescription products and products containing psychotropic drugs or narcotics[^c-471dec18341afeb19734db84aa2c70af]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-471dec18341afeb19734db84aa2c70af]: Commencement: Reg. 11 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-471dec18341afeb19734db84aa2c70af]: Commencement: Reg. 11 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

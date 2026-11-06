@@ -48,28 +48,28 @@ is abolished.
 (2) An instrument shall not be a deed unless—
 
 - (a) it makes it clear on its face that it is intended to be a deed by the person making it or, as the case may be, by the parties to it (whether by describing itself as a deed or expressing itself to be executed or signed as a deed or otherwise); and
-- (b)[^key-0c3c4ace433c503a275e1d8cd5bab5f2] it is validly executed as a deed by that person or, as the case may be, one or more of those parties.
+- (b)[^c-0c3c4ace433c503a275e1d8cd5bab5f2] it is validly executed as a deed by that person or, as the case may be, one or more of those parties.
 
-(2A)[^key-3b376b28684260b03a65ffd010267e12] For the purposes of subsection (2)(a) above, an instrument shall not be taken to make it clear on its face that it is intended to be a deed merely because it is executed under seal.
+(2A)[^c-3b376b28684260b03a65ffd010267e12] For the purposes of subsection (2)(a) above, an instrument shall not be taken to make it clear on its face that it is intended to be a deed merely because it is executed under seal.
 
 (3) An instrument is validly executed as a deed by an individual if, and only if—
 
 - (a) it is signed—
   - (i) by him in the presence of a witness who attests the signature; or
   - (ii) at his direction and in his presence and the presence of two witnesses who each attest the signature; and
-- (b) it is delivered as a deed [^key-3bfe311c7c4342c163fecf4f56621204]...
+- (b) it is delivered as a deed [^c-3bfe311c7c4342c163fecf4f56621204]...
 
 (4) In subsections (2) and (3) above “**sign**”, in relation to an instrument, includes making one’s mark on the instrument and “**signature**” is to be construed accordingly.
 
-(4A)[^key-b350fb9a089fa50542f8ee7923d8770e] Subsection (3) above applies in the case of an instrument executed by an individual in the name or on behalf of another person whether or not that person is also an individual.
+(4A)[^c-b350fb9a089fa50542f8ee7923d8770e] Subsection (3) above applies in the case of an instrument executed by an individual in the name or on behalf of another person whether or not that person is also an individual.
 
-(5) Where a relevant lawyer, or an agent or employee of a relevant lawyer[^key-184b0ff433ea7ee44937a0cd3ddc7499], in the course of or in connection with a transaction [^key-449f3aa4b5e70c08e1ce627bbee331a6]..., purports to deliver an instrument as a deed on behalf of a party to the instrument, it shall be conclusively presumed in favour of a purchaser that he is authorised so to deliver the instrument.
+(5) Where a relevant lawyer, or an agent or employee of a relevant lawyer[^c-184b0ff433ea7ee44937a0cd3ddc7499], in the course of or in connection with a transaction [^c-449f3aa4b5e70c08e1ce627bbee331a6]..., purports to deliver an instrument as a deed on behalf of a party to the instrument, it shall be conclusively presumed in favour of a purchaser that he is authorised so to deliver the instrument.
 
 (6) In subsection (5) above—
 
-- “purchaser” has the same meaning[^key-b4dbdc641c640f0ee41e3297bc4e4264] as in the [^c805920]Law of Property Act 1925;
-- “[^key-c593ab71db1e284ae603c301e621c659] **relevant lawyer** ” means a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which constitutes a reserved instrument activity (within the meaning of that Act).
-- [^key-3f58268aa19093a237d5cfa742672dd6]...[^key-3f58268aa19093a237d5cfa742672dd6]...
+- “purchaser” has the same meaning[^c-b4dbdc641c640f0ee41e3297bc4e4264] as in the [^c805920]Law of Property Act 1925;
+- “[^c-c593ab71db1e284ae603c301e621c659] **relevant lawyer** ” means a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which constitutes a reserved instrument activity (within the meaning of that Act).
+- [^c-3f58268aa19093a237d5cfa742672dd6]...[^c-3f58268aa19093a237d5cfa742672dd6]...
 
 (7) Where an instrument under seal that constitutes a deed is required for the purposes of an Act passed before this section comes into force, this section shall have effect as to signing, sealing or delivery of an instrument by an individual in place of any provision of that Act as to signing, sealing or delivery.
 
@@ -99,16 +99,16 @@ is abolished.
 
 - (a) a contract to grant such a lease as is mentioned in section 54(2) of the [^c805931]Law of Property Act 1925 (short leases);
 - (b) a contract made in the course of a public auction; or
-- (c)[^c805932] a contract regulated under the Financial Services and Markets Act 2000, other than a regulated mortgage contract a regulated home reversion plan, a regulated home purchase plan or a regulated sale and rent back agreement[^key-77aee44bbc2dac7055f1bca31a8194e3];
+- (c)[^c805932] a contract regulated under the Financial Services and Markets Act 2000, other than a regulated mortgage contract a regulated home reversion plan, a regulated home purchase plan or a regulated sale and rent back agreement[^c-77aee44bbc2dac7055f1bca31a8194e3];
 
 and nothing in this section affects the creation or operation of resulting, implied or constructive trusts.
 
-(6)[^key-4d98a14427809f2a674fc63078da50d9] In this section—
+(6)[^c-4d98a14427809f2a674fc63078da50d9] In this section—
 
 - “**disposition**” has the same meaning as in the Law of Property Act 1925;
 - “**interest in land**” means any estate, interest or charge in or over land or in or over the proceeds of sale of land[^c805933].
 
-“regulated mortgage contract”[^c805934], “regulated home reversion plan”[^key-238a6fcf914f182f42f87f65ceeb6a8f], “regulated home purchase plan” and “regulated sale and rent back agreement” must be read with—
+“regulated mortgage contract”[^c805934], “regulated home reversion plan”[^c-238a6fcf914f182f42f87f65ceeb6a8f], “regulated home purchase plan” and “regulated sale and rent back agreement” must be read with—
 
 - (a) section 22 of the Financial Services and Markets Act 2000,
 - (b) any relevant order under that section, and
@@ -190,7 +190,7 @@ Section 1.
 
 ### The Solicitors Act 1974
 
-**8.**[^key-417b557678ec949e2c591b0bd334f1f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-417b557678ec949e2c591b0bd334f1f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Repeals
 
@@ -207,25 +207,25 @@ Section 4.
 
 ## Annotations
 
-[^key-0c3c4ace433c503a275e1d8cd5bab5f2]: Modification: S. 1(2)(b) modified (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 46(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/46/1), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/d) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1))
+[^c-0c3c4ace433c503a275e1d8cd5bab5f2]: Modification: S. 1(2)(b) modified (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 46(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/46/1), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/d) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1))
 
-[^key-3b376b28684260b03a65ffd010267e12]: Textual amendment: S. 1(2A) inserted (15.9.2005) by [Regulatory Reform (Execution of Deeds and Documents) Order 2005 (S.I. 2005/1906)](https://www.legislation.gov.uk/uksi/2005/1906), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/1906/article/1/1), [8](https://www.legislation.gov.uk/uksi/2005/1906/article/8)
+[^c-3b376b28684260b03a65ffd010267e12]: Textual amendment: S. 1(2A) inserted (15.9.2005) by [Regulatory Reform (Execution of Deeds and Documents) Order 2005 (S.I. 2005/1906)](https://www.legislation.gov.uk/uksi/2005/1906), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/1906/article/1/1), [8](https://www.legislation.gov.uk/uksi/2005/1906/article/8)
 
-[^key-3bfe311c7c4342c163fecf4f56621204]: Textual amendment: Words in s. 1(3)(b) repealed (15.9.2005) by [Regulatory Reform (Execution of Deeds and Documents) Order 2005 (S.I. 2005/1906)](https://www.legislation.gov.uk/uksi/2005/1906), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1906/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/1906/schedule/2)
+[^c-3bfe311c7c4342c163fecf4f56621204]: Textual amendment: Words in s. 1(3)(b) repealed (15.9.2005) by [Regulatory Reform (Execution of Deeds and Documents) Order 2005 (S.I. 2005/1906)](https://www.legislation.gov.uk/uksi/2005/1906), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1906/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/1906/schedule/2)
 
-[^key-b350fb9a089fa50542f8ee7923d8770e]: Textual amendment: S. 1(4A) inserted (15.9.2005) by [Regulatory Reform (Execution of Deeds and Documents) Order 2005 (S.I. 2005/1906)](https://www.legislation.gov.uk/uksi/2005/1906), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/1906/article/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2005/1906/article/7/4)
+[^c-b350fb9a089fa50542f8ee7923d8770e]: Textual amendment: S. 1(4A) inserted (15.9.2005) by [Regulatory Reform (Execution of Deeds and Documents) Order 2005 (S.I. 2005/1906)](https://www.legislation.gov.uk/uksi/2005/1906), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/1906/article/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2005/1906/article/7/4)
 
-[^key-184b0ff433ea7ee44937a0cd3ddc7499]: Textual amendment: Words in s. 1(5) substituted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 21 para. 81(a)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/81/a) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h)
+[^c-184b0ff433ea7ee44937a0cd3ddc7499]: Textual amendment: Words in s. 1(5) substituted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 21 para. 81(a)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/81/a) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h)
 
-[^key-449f3aa4b5e70c08e1ce627bbee331a6]: Textual amendment: Words in s. 1(5) repealed (15.9.2005) by [Regulatory Reform (Execution of Deeds and Documents) Order 2005 (S.I. 2005/1906)](https://www.legislation.gov.uk/uksi/2005/1906), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/1906/article/1/1), [9](https://www.legislation.gov.uk/uksi/2005/1906/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/1906/schedule/2)
+[^c-449f3aa4b5e70c08e1ce627bbee331a6]: Textual amendment: Words in s. 1(5) repealed (15.9.2005) by [Regulatory Reform (Execution of Deeds and Documents) Order 2005 (S.I. 2005/1906)](https://www.legislation.gov.uk/uksi/2005/1906), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/1906/article/1/1), [9](https://www.legislation.gov.uk/uksi/2005/1906/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/1906/schedule/2)
 
-[^key-b4dbdc641c640f0ee41e3297bc4e4264]: Textual amendment: Words in s. 1(6) substituted (15.9.2005) by [Regulatory Reform (Execution of Deeds and Documents) Order 2005 (S.I. 2005/1906)](https://www.legislation.gov.uk/uksi/2005/1906), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1906/article/1/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2005/1906/schedule/1/paragraph/15)
+[^c-b4dbdc641c640f0ee41e3297bc4e4264]: Textual amendment: Words in s. 1(6) substituted (15.9.2005) by [Regulatory Reform (Execution of Deeds and Documents) Order 2005 (S.I. 2005/1906)](https://www.legislation.gov.uk/uksi/2005/1906), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1906/article/1/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2005/1906/schedule/1/paragraph/15)
 
 [^c805920]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
-[^key-c593ab71db1e284ae603c301e621c659]: Textual amendment: Words in s. 1(6) substituted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 21 para. 81(b)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/81/b) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h)
+[^c-c593ab71db1e284ae603c301e621c659]: Textual amendment: Words in s. 1(6) substituted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 21 para. 81(b)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/81/b) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h)
 
-[^key-3f58268aa19093a237d5cfa742672dd6]: Textual amendment: Words in s. 1(6) repealed (15.9.2005) by [Regulatory Reform (Execution of Deeds and Documents) Order 2005 (S.I. 2005/1906)](https://www.legislation.gov.uk/uksi/2005/1906), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1906/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/1906/schedule/2)
+[^c-3f58268aa19093a237d5cfa742672dd6]: Textual amendment: Words in s. 1(6) repealed (15.9.2005) by [Regulatory Reform (Execution of Deeds and Documents) Order 2005 (S.I. 2005/1906)](https://www.legislation.gov.uk/uksi/2005/1906), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1906/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/1906/schedule/2)
 
 [^c805930]: Modification: S. 2(1)-(6) excluded (retrospective to 31.5.1996) by [1996 c. 61](https://www.legislation.gov.uk/ukpga/1996/61) s. 41(1)(2)
 
@@ -233,15 +233,15 @@ Section 4.
 
 [^c805932]: Textual amendment: S. 2(5)(c) substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [317(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/317/2)
 
-[^key-77aee44bbc2dac7055f1bca31a8194e3]: Textual amendment: Words in s. 2(5)(c) substituted (1.7.2009 for specified purposes and 30.6.2010 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2009 (S.I. 2009/1342)](https://www.legislation.gov.uk/uksi/2009/1342), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/1342/article/1/2), [24(a)](https://www.legislation.gov.uk/uksi/2009/1342/article/24/a)
+[^c-77aee44bbc2dac7055f1bca31a8194e3]: Textual amendment: Words in s. 2(5)(c) substituted (1.7.2009 for specified purposes and 30.6.2010 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2009 (S.I. 2009/1342)](https://www.legislation.gov.uk/uksi/2009/1342), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/1342/article/1/2), [24(a)](https://www.legislation.gov.uk/uksi/2009/1342/article/24/a)
 
-[^key-4d98a14427809f2a674fc63078da50d9]: Textual amendment: Words in s. 2(6) substituted (1.7.2009 for specified purposes and 30.6.2010 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2009 (S.I. 2009/1342)](https://www.legislation.gov.uk/uksi/2009/1342), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/1342/article/1/2), [24(b)](https://www.legislation.gov.uk/uksi/2009/1342/article/24/b)
+[^c-4d98a14427809f2a674fc63078da50d9]: Textual amendment: Words in s. 2(6) substituted (1.7.2009 for specified purposes and 30.6.2010 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2009 (S.I. 2009/1342)](https://www.legislation.gov.uk/uksi/2009/1342), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/1342/article/1/2), [24(b)](https://www.legislation.gov.uk/uksi/2009/1342/article/24/b)
 
 [^c805933]: Textual amendment: Words in s. 2(6) repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)(5)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4/5)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
 
 [^c805934]: Textual amendment: Definition of “regulated mortgage contract” in s. 2(6) inserted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [317(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/317/3)
 
-[^key-238a6fcf914f182f42f87f65ceeb6a8f]: Textual amendment: Words in s. 2(6) inserted (6.11.2006 for specified purposes and 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [27(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/27/b)
+[^c-238a6fcf914f182f42f87f65ceeb6a8f]: Textual amendment: Words in s. 2(6) inserted (6.11.2006 for specified purposes and 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [27(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/27/b)
 
 [^c805935]: Modification: Power of appointment conferred by s. 5(1) fully exercised: 31.7.1990 appointed by [S.I. 1990/1175](https://www.legislation.gov.uk/uksi/1990/1175), [art. 2](https://www.legislation.gov.uk/uksi/1990/1175/article/2)
 
@@ -251,4 +251,4 @@ Section 4.
 
 [^c805938]: Marginal citation: [1971 c. 27](https://www.legislation.gov.uk/ukpga/1971/27).
 
-[^key-417b557678ec949e2c591b0bd334f1f7]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1989/34/schedule/1/paragraph/8) repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(vii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/vii)
+[^c-417b557678ec949e2c591b0bd334f1f7]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1989/34/schedule/1/paragraph/8) repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(vii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/vii)

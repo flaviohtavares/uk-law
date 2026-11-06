@@ -32,7 +32,7 @@ summary: ''
 
 Police
 
-The Police (Retention and Disposal of Motor Vehicles) (Scotland) Amendment Regulations 2011 (revoked)[^key-4349db2957c1aa5b5a7be72d2688f68b]
+The Police (Retention and Disposal of Motor Vehicles) (Scotland) Amendment Regulations 2011 (revoked)[^c-4349db2957c1aa5b5a7be72d2688f68b]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 22nd December 2011
 
-[^key-4349db2957c1aa5b5a7be72d2688f68b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4349db2957c1aa5b5a7be72d2688f68b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-4349db2957c1aa5b5a7be72d2688f68b]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Interpretation[^key-4349db2957c1aa5b5a7be72d2688f68b]
+## 1. Citation and commencement[^c-4349db2957c1aa5b5a7be72d2688f68b]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the 2005 Regulations[^key-4349db2957c1aa5b5a7be72d2688f68b]
+## 2. Interpretation[^c-4349db2957c1aa5b5a7be72d2688f68b]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional Provisions[^key-4349db2957c1aa5b5a7be72d2688f68b]
+## 3. Amendment of the 2005 Regulations[^c-4349db2957c1aa5b5a7be72d2688f68b]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Transitional Provisions[^c-4349db2957c1aa5b5a7be72d2688f68b]
 
 **Not yet in force.**
 
@@ -74,12 +74,12 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-4349db2957c1aa5b5a7be72d2688f68b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4349db2957c1aa5b5a7be72d2688f68b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4349db2957c1aa5b5a7be72d2688f68b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4349db2957c1aa5b5a7be72d2688f68b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4349db2957c1aa5b5a7be72d2688f68b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2011/395) revoked (21.12.2011) by [The Police (Retention and Disposal of Motor Vehicles) (Scotland) Amendment Revocation Regulations 2011 (S.S.I. 2011/429)](https://www.legislation.gov.uk/ssi/2011/429), [regs. 1](https://www.legislation.gov.uk/ssi/2011/429/regulation/1), [2](https://www.legislation.gov.uk/ssi/2011/429/regulation/2)
+[^c-4349db2957c1aa5b5a7be72d2688f68b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2011/395) revoked (21.12.2011) by [The Police (Retention and Disposal of Motor Vehicles) (Scotland) Amendment Revocation Regulations 2011 (S.S.I. 2011/429)](https://www.legislation.gov.uk/ssi/2011/429), [regs. 1](https://www.legislation.gov.uk/ssi/2011/429/regulation/1), [2](https://www.legislation.gov.uk/ssi/2011/429/regulation/2)

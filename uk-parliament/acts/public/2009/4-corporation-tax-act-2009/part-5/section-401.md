@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 401. Gilt strips[^key-4e5eac5855cfaed5973f003d77485d79]
+## 401. Gilt strips[^c-4e5eac5855cfaed5973f003d77485d79]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ C is the total of the market values at that time of all the strips received in t
 
 ## Annotations
 
-[^key-4e5eac5855cfaed5973f003d77485d79]: Modification: Pt. 5 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/2)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-4e5eac5855cfaed5973f003d77485d79]: Modification: Pt. 5 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/2)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))

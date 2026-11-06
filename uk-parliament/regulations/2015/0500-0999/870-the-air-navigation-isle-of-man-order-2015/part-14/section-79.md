@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Stowaways[^key-2be148541dfa355fbd65d0c8d631f715]
+## 79. Stowaways[^c-2be148541dfa355fbd65d0c8d631f715]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person must not secrete himself or herself for the purpose of being carried in
 
 ## Annotations
 
-[^key-2be148541dfa355fbd65d0c8d631f715]: Commencement: [Art. 79](https://www.legislation.gov.uk/uksi/2015/870/article/79) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-2be148541dfa355fbd65d0c8d631f715]: Commencement: [Art. 79](https://www.legislation.gov.uk/uksi/2015/870/article/79) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

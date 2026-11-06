@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37A. Where NIROCs cannot be revoked[^key-45b9ee4f1219bc314590d964f80636de][^key-8b84c7f27872f6fa929726baefb9b60d]
+## 37A. Where NIROCs cannot be revoked[^c-45b9ee4f1219bc314590d964f80636de][^c-8b84c7f27872f6fa929726baefb9b60d]
 
 *Extent: N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-45b9ee4f1219bc314590d964f80636de]: Textual amendment: [Art. 37A](https://www.legislation.gov.uk/nisr/2009/154/article/37A) inserted (1.4.2010) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2010 (S.R. 2010/134)](https://www.legislation.gov.uk/nisr/2010/134), [arts. 1](https://www.legislation.gov.uk/nisr/2010/134/article/1), [12](https://www.legislation.gov.uk/nisr/2010/134/article/12)
+[^c-45b9ee4f1219bc314590d964f80636de]: Textual amendment: [Art. 37A](https://www.legislation.gov.uk/nisr/2009/154/article/37A) inserted (1.4.2010) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2010 (S.R. 2010/134)](https://www.legislation.gov.uk/nisr/2010/134), [arts. 1](https://www.legislation.gov.uk/nisr/2010/134/article/1), [12](https://www.legislation.gov.uk/nisr/2010/134/article/12)
 
-[^key-8b84c7f27872f6fa929726baefb9b60d]: Textual amendment: Art. 34(6)(7)(8) renumbered as art. 34(9)(10)(11) (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [25(4)](https://www.legislation.gov.uk/nisr/2013/116/article/25/4) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
+[^c-8b84c7f27872f6fa929726baefb9b60d]: Textual amendment: Art. 34(6)(7)(8) renumbered as art. 34(9)(10)(11) (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [25(4)](https://www.legislation.gov.uk/nisr/2013/116/article/25/4) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))

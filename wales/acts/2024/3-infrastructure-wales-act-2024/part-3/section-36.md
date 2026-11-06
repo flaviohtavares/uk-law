@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Local impact reports[^key-ed22f88ef029e55583c10de76e08714f][^key-db8d34bbff999c838b39e373cee6eafe]
+## 36. Local impact reports[^c-ed22f88ef029e55583c10de76e08714f][^c-db8d34bbff999c838b39e373cee6eafe]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ed22f88ef029e55583c10de76e08714f]: Commencement: S. 36 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-ed22f88ef029e55583c10de76e08714f]: Commencement: S. 36 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-db8d34bbff999c838b39e373cee6eafe]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2024/3/section/36) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)
+[^c-db8d34bbff999c838b39e373cee6eafe]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2024/3/section/36) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)

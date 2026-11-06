@@ -33,7 +33,7 @@ summary: ''
 
 (4) If the court is a magistrates' court, it must cause any reasons given under Article 36J(7) or paragraph (1) or (2)(a) to be entered in the Order Book.
 
-(5)[^key-1c0e07afbb4999bc08d94b9b0259df45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1c0e07afbb4999bc08d94b9b0259df45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The court by which a youth conference order is made must as soon as is practicable[^c17146671] give copies of the order to—
 
@@ -41,7 +41,7 @@ summary: ''
 - (b) his parent or guardian; and
 - (c) the responsible officer.
 
-(7)[^key-af16ef564052a2e02b13a52d8064d1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-af16ef564052a2e02b13a52d8064d1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Schedule 1A (which makes provision for dealing with failures to comply with youth conference orders and for their revocation and amendment) shall have effect.
 
@@ -51,8 +51,8 @@ summary: ''
 
 [^c20346271]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
-[^key-1c0e07afbb4999bc08d94b9b0259df45]: Textual amendment: [Art. 36K(5)](https://www.legislation.gov.uk/nisi/1998/1504/article/36K/5) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 115(8)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/115/8/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-1c0e07afbb4999bc08d94b9b0259df45]: Textual amendment: [Art. 36K(5)](https://www.legislation.gov.uk/nisi/1998/1504/article/36K/5) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 115(8)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/115/8/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c17146671]: Textual amendment: [2005 NI 15](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-af16ef564052a2e02b13a52d8064d1eb]: Textual amendment: [Art. 36K(7)](https://www.legislation.gov.uk/nisi/1998/1504/article/36K/7) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 115(8)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/115/8/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-af16ef564052a2e02b13a52d8064d1eb]: Textual amendment: [Art. 36K(7)](https://www.legislation.gov.uk/nisi/1998/1504/article/36K/7) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 115(8)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/115/8/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27A. Temporary registration for visiting eminent specialists[^key-531007345f6e501aafc0f94196fb6af1]
+## 27A. Temporary registration for visiting eminent specialists[^c-531007345f6e501aafc0f94196fb6af1]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ that person shall, if the General Council think fit so to direct, be registered 
 
 ## Annotations
 
-[^key-531007345f6e501aafc0f94196fb6af1]: Textual amendment: Ss. 27A, 27B inserted (19.7.2006 for specified purposes, 19.10.2007 in so far as not already in force as notified in the London Gazette dated 20.7.2007) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [37(2)](https://www.legislation.gov.uk/uksi/2006/1914/article/37/2) (with [art. 87](https://www.legislation.gov.uk/uksi/2006/1914/article/87))
+[^c-531007345f6e501aafc0f94196fb6af1]: Textual amendment: Ss. 27A, 27B inserted (19.7.2006 for specified purposes, 19.10.2007 in so far as not already in force as notified in the London Gazette dated 20.7.2007) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [37(2)](https://www.legislation.gov.uk/uksi/2006/1914/article/37/2) (with [art. 87](https://www.legislation.gov.uk/uksi/2006/1914/article/87))

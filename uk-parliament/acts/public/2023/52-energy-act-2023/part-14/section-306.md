@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 306. Power to implement Convention on Supplementary Compensation for Nuclear Damage[^key-610e232336f41217bc563f1ef4ba379d]
+## 306. Power to implement Convention on Supplementary Compensation for Nuclear Damage[^c-610e232336f41217bc563f1ef4ba379d]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-610e232336f41217bc563f1ef4ba379d]: Commencement: [S. 306](https://www.legislation.gov.uk/ukpga/2023/52/section/306) in force at 26.12.2023, see [s. 334(3)(k)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/k)
+[^c-610e232336f41217bc563f1ef4ba379d]: Commencement: [S. 306](https://www.legislation.gov.uk/ukpga/2023/52/section/306) in force at 26.12.2023, see [s. 334(3)(k)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/k)

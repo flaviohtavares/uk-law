@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Proceedings under section 61(1): openness.[^key-c9d309deb7116e0481791abab2d71fa2]
+## 65. Proceedings under section 61(1): openness.[^c-c9d309deb7116e0481791abab2d71fa2]
 
 *Extent: E+W+S*
 
@@ -49,6 +49,6 @@ but does not include any document which is a relevant document.
 
 ## Annotations
 
-[^key-c9d309deb7116e0481791abab2d71fa2]: Modification: S. 65 applied (with modifications) (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 33(9)(e)](https://www.legislation.gov.uk/ukpga/2011/13/section/33/9/e), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-c9d309deb7116e0481791abab2d71fa2]: Modification: S. 65 applied (with modifications) (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 33(9)(e)](https://www.legislation.gov.uk/ukpga/2011/13/section/33/9/e), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
 [^c12800721]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).

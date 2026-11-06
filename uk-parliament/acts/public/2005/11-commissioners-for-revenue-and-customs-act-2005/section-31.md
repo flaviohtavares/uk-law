@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Obstruction[^key-0066b33bbf2662235cb8a7522755c4fc][^key-8db425bc71c8812c9e28d81d19688a2e][^key-34e2736ac75e3b6ce6ed7c3929297e88][^key-1e6ac7987a26025c7dccb7bf060cbb45][^key-4eb7aebe934691b220f1ef5763aa7f2d]
+## 31. Obstruction[^c-0066b33bbf2662235cb8a7522755c4fc][^c-8db425bc71c8812c9e28d81d19688a2e][^c-34e2736ac75e3b6ce6ed7c3929297e88][^c-1e6ac7987a26025c7dccb7bf060cbb45][^c-4eb7aebe934691b220f1ef5763aa7f2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,12 +36,12 @@ summary: ''
 
 ## Annotations
 
-[^key-0066b33bbf2662235cb8a7522755c4fc]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2005/11/section/31) in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-0066b33bbf2662235cb8a7522755c4fc]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2005/11/section/31) in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
 
-[^key-8db425bc71c8812c9e28d81d19688a2e]: Modification: [S. 31](https://www.legislation.gov.uk/ukpga/2005/11/section/31) modified (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 3(8)(e)](https://www.legislation.gov.uk/ukpga/2009/11/section/3/8/e), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+[^c-8db425bc71c8812c9e28d81d19688a2e]: Modification: [S. 31](https://www.legislation.gov.uk/ukpga/2005/11/section/31) modified (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 3(8)(e)](https://www.legislation.gov.uk/ukpga/2009/11/section/3/8/e), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
 
-[^key-34e2736ac75e3b6ce6ed7c3929297e88]: Modification: [S. 31](https://www.legislation.gov.uk/ukpga/2005/11/section/31) modified (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 7(8)(g)](https://www.legislation.gov.uk/ukpga/2009/11/section/7/8/g), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+[^c-34e2736ac75e3b6ce6ed7c3929297e88]: Modification: [S. 31](https://www.legislation.gov.uk/ukpga/2005/11/section/31) modified (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 7(8)(g)](https://www.legislation.gov.uk/ukpga/2009/11/section/7/8/g), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
 
-[^key-1e6ac7987a26025c7dccb7bf060cbb45]: Modification: [S. 31](https://www.legislation.gov.uk/ukpga/2005/11/section/31) modified (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 1(7)(d)](https://www.legislation.gov.uk/ukpga/2009/11/section/1/7/d), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+[^c-1e6ac7987a26025c7dccb7bf060cbb45]: Modification: [S. 31](https://www.legislation.gov.uk/ukpga/2005/11/section/31) modified (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 1(7)(d)](https://www.legislation.gov.uk/ukpga/2009/11/section/1/7/d), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
 
-[^key-4eb7aebe934691b220f1ef5763aa7f2d]: Modification: [S. 31](https://www.legislation.gov.uk/ukpga/2005/11/section/31) modified (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 11(7)(f)](https://www.legislation.gov.uk/ukpga/2009/11/section/11/7/f), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+[^c-4eb7aebe934691b220f1ef5763aa7f2d]: Modification: [S. 31](https://www.legislation.gov.uk/ukpga/2005/11/section/31) modified (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 11(7)(f)](https://www.legislation.gov.uk/ukpga/2009/11/section/11/7/f), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162A. Annual reports: fund-raising standards information[^key-741a9ed7417191c665493a1166809e36]
+## 162A. Annual reports: fund-raising standards information[^c-741a9ed7417191c665493a1166809e36]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-741a9ed7417191c665493a1166809e36]: Textual amendment: [S. 162A](https://www.legislation.gov.uk/ukpga/2011/25/section/162A) inserted (1.11.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 13(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/13/4), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2016/815/regulation/4/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/815/regulation/5))
+[^c-741a9ed7417191c665493a1166809e36]: Textual amendment: [S. 162A](https://www.legislation.gov.uk/ukpga/2011/25/section/162A) inserted (1.11.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 13(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/13/4), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2016/815/regulation/4/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/815/regulation/5))

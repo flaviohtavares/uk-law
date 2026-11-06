@@ -44,35 +44,35 @@ The Secretary of State makes this Order—
 - (a) in exercise of the powers conferred by section 22 of the Petroleum Act 1987[^f00001]; and
 - (b) for the purpose of giving effect to proposals submitted by the Health and Safety Executive under section 24(2A)[^f00002] of that Act.
 
-## 1. Citation and commencement[^key-0f647efaf66b438c2bb07c87d951e6e1]
+## 1. Citation and commencement[^c-0f647efaf66b438c2bb07c87d951e6e1]
 
 (1) This Order may be cited as the Offshore Installations (Safety Zones) Order 2023.
 
 (2) This Order comes into force 21 days after the day on which it is made.
 
-## 2. Establishment of safety zones[^key-a09ed9c8dc2beeebddaed29307849a92]
+## 2. Establishment of safety zones[^c-a09ed9c8dc2beeebddaed29307849a92]
 
 A safety zone is established around each installation specified in column 1 of the table in the Schedule (being an installation stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984[^f00003] specified in columns 2 and 3 of the table in the Schedule.
 
-## 3. Amendment of the Offshore Installations (Safety Zones) Order 1997[^key-32674f3158f24d02dd2d98d5efcd0238]
+## 3. Amendment of the Offshore Installations (Safety Zones) Order 1997[^c-32674f3158f24d02dd2d98d5efcd0238]
 
 (1) The Offshore Installations (Safety Zones) Order 1997[^f00004] is amended as follows.
 
 (2) In Schedule 1 (safety zones), omit the entry relating to “Orwell Subsea Structure”.
 
-## 4. Amendment of the Offshore Installations (Safety Zones) Order 2013[^key-b19fe6c7d932ae1cccf7a807fbdfd7ed]
+## 4. Amendment of the Offshore Installations (Safety Zones) Order 2013[^c-b19fe6c7d932ae1cccf7a807fbdfd7ed]
 
 (1) The Offshore Installations (Safety Zones) Order 2013[^f00005] is amended as follows.
 
 (2) In the Schedule (installations), in Part 1, omit the entry relating to “Curlew CUC-P1 Drill Site”.
 
-## 5. Amendment of the Offshore Installations (Safety Zones) (No. 2) Order 2016[^key-1b6a5e3325075840416688b11a355e3c]
+## 5. Amendment of the Offshore Installations (Safety Zones) (No. 2) Order 2016[^c-1b6a5e3325075840416688b11a355e3c]
 
 (1) The Offshore Installations (Safety Zones) (No. 2) Order 2016[^f00006] is amended as follows.
 
 (2) In the Schedule (installations), in Part 1, omit the entry relating to “Curlew Development, Block 29/7a, Curlew Field”.
 
-## 6. Amendment of the Offshore Installations (Safety Zones) (No. 3) Order 2017[^key-25d7f30b10f3ab6f46a4ef8f08c130df]
+## 6. Amendment of the Offshore Installations (Safety Zones) (No. 3) Order 2017[^c-25d7f30b10f3ab6f46a4ef8f08c130df]
 
 (1) The Offshore Installations (Safety Zones) (No. 3) Order 2017[^f00007] is amended as follows.
 
@@ -86,13 +86,13 @@ Department for Work and Pensions
 
 18th July 2023
 
-## Schedule — INSTALLATIONS[^key-30bf91ba6837b43ccbe54c43e7bec95f]
+## Schedule — INSTALLATIONS[^c-30bf91ba6837b43ccbe54c43e7bec95f]
 
 Article 2
 
 | (1) Name or other designation | (2) Latitude | (3) Longitude |
 | --- | --- | --- |
-| [^key-c9379333c630e9a1b5a3f77c3fd48484]. . . | [^key-c9379333c630e9a1b5a3f77c3fd48484]. . . | [^key-c9379333c630e9a1b5a3f77c3fd48484]. . . |
+| [^c-c9379333c630e9a1b5a3f77c3fd48484]. . . | [^c-c9379333c630e9a1b5a3f77c3fd48484]. . . | [^c-c9379333c630e9a1b5a3f77c3fd48484]. . . |
 | Jackdaw Wellhead, Jackdaw, Block 30/02a, 30/02d and 30/03a | 56° 54.02’N | 02° 22.75’E |
 | Vixen VM, Vixen, Block 49/17 | 53° 23.87’N | 02° 13.97’E |
 | MacCulloch Subsea Infrastructure, MacCulloch, Block 15/24b | 58° 19.39’N | 00° 43.45’E |
@@ -123,28 +123,28 @@ Articles 3 to 6 remove four safety zones established under previous Orders.
 
 [^f00002]: Footnote: Section 24(2A) was inserted by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823) and amended by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960).
 
-[^key-0f647efaf66b438c2bb07c87d951e6e1]: Commencement: Art. 1 in force at 8.8.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/838/article/1/2)
+[^c-0f647efaf66b438c2bb07c87d951e6e1]: Commencement: Art. 1 in force at 8.8.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/838/article/1/2)
 
-[^key-a09ed9c8dc2beeebddaed29307849a92]: Commencement: Art. 2 in force at 8.8.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/838/article/1/2)
+[^c-a09ed9c8dc2beeebddaed29307849a92]: Commencement: Art. 2 in force at 8.8.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/838/article/1/2)
 
 [^f00003]: Footnote: The World Geodetic System 1984 (“WGS 84”) defines a reference frame for the Earth, for use in geodesy and navigation. It was developed by the United States’ National Geospatial-Intelligence Agency and is maintained by it. WGS 84 is defined at paragraph 2.1 of the NGA Standardization Document, Department of Defense, World Geodetic System 1984 (updated 8 July 2014) (https://earth-info.nga.mil/index.php?dir=wgs84&action=wgs84#tab\_wgs84-res). Hard-copies are available upon request from the offices of the Health and Safety Executive, Aberdeen International Business Park (AIBP), Building 2, Level 1, Dyce Drive, Dyce, Aberdeen AB21 0BR.
 
-[^key-32674f3158f24d02dd2d98d5efcd0238]: Commencement: Art. 3 in force at 8.8.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/838/article/1/2)
+[^c-32674f3158f24d02dd2d98d5efcd0238]: Commencement: Art. 3 in force at 8.8.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/838/article/1/2)
 
 [^f00004]: Footnote: [S.I. 1997/735](https://www.legislation.gov.uk/uksi/1997/735), to which there are amendments not relevant to this Order.
 
-[^key-b19fe6c7d932ae1cccf7a807fbdfd7ed]: Commencement: Art. 4 in force at 8.8.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/838/article/1/2)
+[^c-b19fe6c7d932ae1cccf7a807fbdfd7ed]: Commencement: Art. 4 in force at 8.8.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/838/article/1/2)
 
 [^f00005]: Footnote: [S.I. 2013/1758](https://www.legislation.gov.uk/uksi/2013/1758).
 
-[^key-1b6a5e3325075840416688b11a355e3c]: Commencement: Art. 5 in force at 8.8.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/838/article/1/2)
+[^c-1b6a5e3325075840416688b11a355e3c]: Commencement: Art. 5 in force at 8.8.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/838/article/1/2)
 
 [^f00006]: Footnote: [S.I. 2016/623](https://www.legislation.gov.uk/uksi/2016/623).
 
-[^key-25d7f30b10f3ab6f46a4ef8f08c130df]: Commencement: Art. 6 in force at 8.8.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/838/article/1/2)
+[^c-25d7f30b10f3ab6f46a4ef8f08c130df]: Commencement: Art. 6 in force at 8.8.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/838/article/1/2)
 
 [^f00007]: Footnote: [S.I. 2017/720](https://www.legislation.gov.uk/uksi/2017/720).
 
-[^key-30bf91ba6837b43ccbe54c43e7bec95f]: Commencement: Sch. in force at 8.8.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/838/article/1/2)
+[^c-30bf91ba6837b43ccbe54c43e7bec95f]: Commencement: Sch. in force at 8.8.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/838/article/1/2)
 
-[^key-c9379333c630e9a1b5a3f77c3fd48484]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2023/838/schedule) omitted (24.12.2024) by virtue of [The Offshore Installations (Safety Zones) (No. 2) Order 2024 (S.I. 2024/1278)](https://www.legislation.gov.uk/uksi/2024/1278), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1278/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2024/1278/article/7/2)
+[^c-c9379333c630e9a1b5a3f77c3fd48484]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2023/838/schedule) omitted (24.12.2024) by virtue of [The Offshore Installations (Safety Zones) (No. 2) Order 2024 (S.I. 2024/1278)](https://www.legislation.gov.uk/uksi/2024/1278), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1278/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2024/1278/article/7/2)

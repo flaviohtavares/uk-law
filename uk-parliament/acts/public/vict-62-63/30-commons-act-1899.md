@@ -35,7 +35,7 @@ An Act to amend the Inclosure Acts 1845 to 1882 and the Law relating to Commons 
 
 ## Part I — Regulation of Commons[^c577556]
 
-### 1. Power for district council to make scheme for regulation of common.[^c577558][^key-0554769e4b3c7e8484d8c6a3ab9ffe1b][^key-e74649973cf805b8d95c3ca1438c9389][^c577557]
+### 1. Power for district council to make scheme for regulation of common.[^c577558][^c-0554769e4b3c7e8484d8c6a3ab9ffe1b][^c-e74649973cf805b8d95c3ca1438c9389][^c577557]
 
 (1) The council of a district[^c577559] may make a scheme for the regulation and management of any common within their district with a view to the expenditure of money on the drainage, levelling, and improvement of the common, and to the making of bylaws and regulations for the prevention of nuisances and the preservation of order on the common.
 
@@ -43,12 +43,12 @@ An Act to amend the Inclosure Acts 1845 to 1882 and the Law relating to Commons 
 
 (3) The scheme shall be in the prescribed form, and shall identify by reference to a plan the common to be thereby regulated, and for this purpose an ordance survey map shall, if possible, be used.
 
-(4 (Extent: E+W))[^key-2087c1df708155a4286e8f834ff830c9] Regulations under subsection (3) may— *(Extent: E+W)*
+(4 (Extent: E+W))[^c-2087c1df708155a4286e8f834ff830c9] Regulations under subsection (3) may— *(Extent: E+W)*
 
 - (a (Extent: E+W)) prescribe alternative forms; *(Extent: E+W)*
 - (b (Extent: E+W)) permit exceptions or modifications to be made to any prescribed form. *(Extent: E+W)*
 
-### 2. Procedure for making scheme.[^key-0554769e4b3c7e8484d8c6a3ab9ffe1b][^key-e74649973cf805b8d95c3ca1438c9389]
+### 2. Procedure for making scheme.[^c-0554769e4b3c7e8484d8c6a3ab9ffe1b][^c-e74649973cf805b8d95c3ca1438c9389]
 
 (1) Not less than three months before the making of a scheme under this Part of this Act the council shall give the prescribed notice of their intention to make it, and shall state thereby where copies of the draft of the scheme may be obtained, and where the plan therein referred to may be inspected. . . . [^c577561]
 
@@ -65,7 +65,7 @@ Provided that if, at any time before the council have approved of the scheme, th
 
 and such notice is not subsequently withdrawn, the council shall not proceed further in the matter.
 
-### 3. Management of regulated common.[^key-0554769e4b3c7e8484d8c6a3ab9ffe1b][^key-e74649973cf805b8d95c3ca1438c9389]
+### 3. Management of regulated common.[^c-0554769e4b3c7e8484d8c6a3ab9ffe1b][^c-e74649973cf805b8d95c3ca1438c9389]
 
 The management of any common regulated by a scheme made by a district council under this Part of this Act shall be vested in the district council.
 
@@ -89,7 +89,7 @@ A district council may acquire the fee simple or any estate in or any rights in 
 
 Section twenty of the [^c577576]Commons Act 1876 (which relates to the digging of gravel), shall apply to any common regulated by a scheme under this Part of this Act.
 
-### 9. Power to amend or revoke scheme[^key-f439fc28c9595f0b4b1a77fc30d34c37]
+### 9. Power to amend or revoke scheme[^c-f439fc28c9595f0b4b1a77fc30d34c37]
 
 (1) A scheme under this Part of this Act for any common may, in prescribed circumstances, be amended in the prescribed manner.
 
@@ -99,7 +99,7 @@ Section twenty of the [^c577576]Commons Act 1876 (which relates to the digging o
 
 The provisions with respect to byelaws contained in section two hundred and thirty-six of the[^c577578] [^c577579]Local Government Act 1972 shall apply to all byelaws made in pursuance of a scheme under this Part of this Act, and any fine imposed by any such byelaw shall be recoverable summarily and be payable to the council in whom the management of the common is vested.
 
-(3 (Extent: W))[^key-a1b82604de411c1fa606f78959620457] Sections 7, 8, 10 and 19 of the Local Government Byelaws (Wales) Act 2012 (which relate to the procedure for making byelaws, authorise byelaws to impose fines not exceeding level 2 on the standard scale, and provide proof of byelaws in legal proceedings) apply to byelaws under this section made by a council in Wales. *(Extent: W)*
+(3 (Extent: W))[^c-a1b82604de411c1fa606f78959620457] Sections 7, 8, 10 and 19 of the Local Government Byelaws (Wales) Act 2012 (which relate to the procedure for making byelaws, authorise byelaws to impose fines not exceeding level 2 on the standard scale, and provide proof of byelaws in legal proceedings) apply to byelaws under this section made by a council in Wales. *(Extent: W)*
 
 ### 11. Expenses.[^c577580]
 
@@ -144,7 +144,7 @@ In this Part of this Act, unless the context otherwise requires,—
 
 ### 18. Power to modify provisions as to recreation grounds, &c.[^c577590]
 
-Any provisions with respect to allotments for recreation grounds, field gardens, or other public or parochial purposes contained in any Act relating to inclosure or in any award or order made in pursuance thereof, and any provisions with respect to the management of any such allotments contained in any such Act, order, or award, may, on the application of any district or parish council interested in any such allotment, be dealt with by a scheme of the Charity Commission[^key-6d9512301f3d37dfbdaeb9050364ef49] in the exercise of its[^key-2e928b2ef051d9ceb9a88bf5fc76c9ee] ordinary jurisdiction, as if those provisions had been established by the founder in the case of a charity having a founder
+Any provisions with respect to allotments for recreation grounds, field gardens, or other public or parochial purposes contained in any Act relating to inclosure or in any award or order made in pursuance thereof, and any provisions with respect to the management of any such allotments contained in any such Act, order, or award, may, on the application of any district or parish council interested in any such allotment, be dealt with by a scheme of the Charity Commission[^c-6d9512301f3d37dfbdaeb9050364ef49] in the exercise of its[^c-2e928b2ef051d9ceb9a88bf5fc76c9ee] ordinary jurisdiction, as if those provisions had been established by the founder in the case of a charity having a founder
 
 For the purposes of this section the Broads Authority shall be treated as a district council.[^c577591]
 
@@ -156,9 +156,9 @@ Section one hundred and fifty of the Inclosure Act, 1845, shall have effect as i
 
 Where notice has been given of any sitting, whether original or by adjournment, to be held by an officer of the Secretary of State[^c577593] under the Metropolitan Commons Acts, 1866 to 1878, that officer may, by notice to be published in such manner as the Secretary of State direct, adjourn the sitting without attending for the purpose of the adjournment.
 
-### 21. Annual report to Parliament.[^key-5732b310a8608ef92414a69cf6cce334]
+### 21. Annual report to Parliament.[^c-5732b310a8608ef92414a69cf6cce334]
 
-. . . *(Extent: E+W)* *(affected by repeal, see note)*[^key-5732b310a8608ef92414a69cf6cce334] [^c577595] The *(Extent: E+W)* *(affected by repeal, see note)*[^key-5732b310a8608ef92414a69cf6cce334] Secretary of State[^c577596] *(Extent: E+W)* *(affected by repeal, see note)*[^key-5732b310a8608ef92414a69cf6cce334] shall include in an annual report to Parliament a statement of *(Extent: E+W)* *(affected by repeal, see note)*[^key-5732b310a8608ef92414a69cf6cce334] his *(Extent: E+W)* *(affected by repeal, see note)*[^key-5732b310a8608ef92414a69cf6cce334] proceedings under Part I. of this Act and under the Metropolitan Commons Acts 1866 to 1878 during the year ending the thirty-first day of December then last past, with such particulars as to *(Extent: E+W)* *(affected by repeal, see note)*[^key-5732b310a8608ef92414a69cf6cce334] his *(Extent: E+W)* *(affected by repeal, see note)*[^key-5732b310a8608ef92414a69cf6cce334] proceedings under the last-mentioned Acts as are required by section twenty-one of the *(Extent: E+W)* *(affected by repeal, see note)*[^key-5732b310a8608ef92414a69cf6cce334] [^c577599]Metropolitan Commons Acts 1866. *(Extent: E+W)* *(affected by repeal, see note)*[^key-5732b310a8608ef92414a69cf6cce334]
+. . . *(Extent: E+W)* *(affected by repeal, see note)*[^c-5732b310a8608ef92414a69cf6cce334] [^c577595] The *(Extent: E+W)* *(affected by repeal, see note)*[^c-5732b310a8608ef92414a69cf6cce334] Secretary of State[^c577596] *(Extent: E+W)* *(affected by repeal, see note)*[^c-5732b310a8608ef92414a69cf6cce334] shall include in an annual report to Parliament a statement of *(Extent: E+W)* *(affected by repeal, see note)*[^c-5732b310a8608ef92414a69cf6cce334] his *(Extent: E+W)* *(affected by repeal, see note)*[^c-5732b310a8608ef92414a69cf6cce334] proceedings under Part I. of this Act and under the Metropolitan Commons Acts 1866 to 1878 during the year ending the thirty-first day of December then last past, with such particulars as to *(Extent: E+W)* *(affected by repeal, see note)*[^c-5732b310a8608ef92414a69cf6cce334] his *(Extent: E+W)* *(affected by repeal, see note)*[^c-5732b310a8608ef92414a69cf6cce334] proceedings under the last-mentioned Acts as are required by section twenty-one of the *(Extent: E+W)* *(affected by repeal, see note)*[^c-5732b310a8608ef92414a69cf6cce334] [^c577599]Metropolitan Commons Acts 1866. *(Extent: E+W)* *(affected by repeal, see note)*[^c-5732b310a8608ef92414a69cf6cce334]
 
 ### 22. Restrictions on inclosures under scheduled Acts.[^c577600]
 
@@ -186,16 +186,16 @@ Section 22.
 
 | Session and Chapter. | Title or Short Title. |
 | --- | --- |
-| 43 Eliz. c. 2. | The Poor Relief Act, 1601. *(Extent: E+W)* *(affected by repeal, see note)*[^key-cdaee43e24e2aeb38ae4f9d6eca093bf] |
+| 43 Eliz. c. 2. | The Poor Relief Act, 1601. *(Extent: E+W)* *(affected by repeal, see note)*[^c-cdaee43e24e2aeb38ae4f9d6eca093bf] |
 | . . . . . . [^c577608] | . . . . . . [^c577608] |
-| 51 Geo. 3. c. 115. | The Gifts for Churches Act, 1811. *(Extent: E+W)* *(affected by repeal, see note)*[^key-cdaee43e24e2aeb38ae4f9d6eca093bf] |
-| 58 Geo. 3. c. 45. | The Church Building Act, 1818. *(Extent: E+W)* *(affected by repeal, see note)*[^key-cdaee43e24e2aeb38ae4f9d6eca093bf] |
-| 1 & 2 Will. 4. c. 42. | The Poor Relief Act, 1831. *(Extent: E+W)* *(affected by repeal, see note)*[^key-cdaee43e24e2aeb38ae4f9d6eca093bf] |
-| 1 & 2 Will. 4. c. 59. | The Crown Lands Allotments Act, 1831. *(Extent: E+W)* *(affected by repeal, see note)*[^key-cdaee43e24e2aeb38ae4f9d6eca093bf] |
-| 5 & 6 Will. 4. c. 69. | The Union and Parish Property Act, 1835. *(Extent: E+W)* *(affected by repeal, see note)*[^key-cdaee43e24e2aeb38ae4f9d6eca093bf] |
-| 4 & 5 Vict. c. 38. | The Schools Sites Act, 1841. *(Extent: E+W)* *(affected by repeal, see note)*[^key-cdaee43e24e2aeb38ae4f9d6eca093bf] |
+| 51 Geo. 3. c. 115. | The Gifts for Churches Act, 1811. *(Extent: E+W)* *(affected by repeal, see note)*[^c-cdaee43e24e2aeb38ae4f9d6eca093bf] |
+| 58 Geo. 3. c. 45. | The Church Building Act, 1818. *(Extent: E+W)* *(affected by repeal, see note)*[^c-cdaee43e24e2aeb38ae4f9d6eca093bf] |
+| 1 & 2 Will. 4. c. 42. | The Poor Relief Act, 1831. *(Extent: E+W)* *(affected by repeal, see note)*[^c-cdaee43e24e2aeb38ae4f9d6eca093bf] |
+| 1 & 2 Will. 4. c. 59. | The Crown Lands Allotments Act, 1831. *(Extent: E+W)* *(affected by repeal, see note)*[^c-cdaee43e24e2aeb38ae4f9d6eca093bf] |
+| 5 & 6 Will. 4. c. 69. | The Union and Parish Property Act, 1835. *(Extent: E+W)* *(affected by repeal, see note)*[^c-cdaee43e24e2aeb38ae4f9d6eca093bf] |
+| 4 & 5 Vict. c. 38. | The Schools Sites Act, 1841. *(Extent: E+W)* *(affected by repeal, see note)*[^c-cdaee43e24e2aeb38ae4f9d6eca093bf] |
 | 8 & 9 Vict. c. 18. | The Lands Clauses Consolidation Act, 1845. |
-| 17 & 18 Vict. c. 112. | The Literary and Scientific Institutions Act, 1854. *(Extent: E+W)* *(affected by repeal, see note)*[^key-cdaee43e24e2aeb38ae4f9d6eca093bf] |
+| 17 & 18 Vict. c. 112. | The Literary and Scientific Institutions Act, 1854. *(Extent: E+W)* *(affected by repeal, see note)*[^c-cdaee43e24e2aeb38ae4f9d6eca093bf] |
 | 1965 c. 56[^c577610] | Part I of the Compulsory Purchase Act, 1965. |
 
 ## SECOND SCHEDULE[^c577611][^c577611]
@@ -212,9 +212,9 @@ Section 22.
 
 [^c577558]: Modification: S. 1 extended (E.W.) (19.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [ss. 70](https://www.legislation.gov.uk/ukpga/1995/25/section/70), [125(2)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/2), [Sch. 9 para.1(2)(a)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/9/paragraph/1/2/a) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/7))
 
-[^key-0554769e4b3c7e8484d8c6a3ab9ffe1b]: Modification: Ss. 1-3 functions made exercisable concurrently (E.W.) (22.7.2004 with effect in accordance with art. 25(1)) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [25(2)(ii)](https://www.legislation.gov.uk/uksi/2004/1777/article/25/2/ii) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1777/article/35))
+[^c-0554769e4b3c7e8484d8c6a3ab9ffe1b]: Modification: Ss. 1-3 functions made exercisable concurrently (E.W.) (22.7.2004 with effect in accordance with art. 25(1)) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [25(2)(ii)](https://www.legislation.gov.uk/uksi/2004/1777/article/25/2/ii) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1777/article/35))
 
-[^key-e74649973cf805b8d95c3ca1438c9389]: Modification: Ss. 1-3 functions made exercisable concurrently (E.W.) (1.2.2005 with effect in accordance with art. 25(1)) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1778/article/2), [25(1)(2)(ii)](https://www.legislation.gov.uk/uksi/2004/1778/article/25/1) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1778/article/35))
+[^c-e74649973cf805b8d95c3ca1438c9389]: Modification: Ss. 1-3 functions made exercisable concurrently (E.W.) (1.2.2005 with effect in accordance with art. 25(1)) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1778/article/2), [25(1)(2)(ii)](https://www.legislation.gov.uk/uksi/2004/1778/article/25/1) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1778/article/35))
 
 [^c577557]: Modification: S. 1 extended by [Norfolk and Suffolk Broads Act 1988 (c. 4, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1988/4), [s. 2(6)](https://www.legislation.gov.uk/ukpga/1988/4/section/2/6), [Sch. 3 para. 38(1)(a)](https://www.legislation.gov.uk/ukpga/1988/4/schedule/3/paragraph/38/1/a)
 
@@ -222,7 +222,7 @@ Section 22.
 
 [^c577560]: Marginal citation: [1876 c. 56](https://www.legislation.gov.uk/ukpga/1876/56).
 
-[^key-2087c1df708155a4286e8f834ff830c9]: Textual amendment: [S. 1(4)](https://www.legislation.gov.uk/ukpga/Vict/62-63/30/section/1/4) inserted (E.W.) (12.8.2007 for W. for specified purposes) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [ss. 50(4)](https://www.legislation.gov.uk/ukpga/2006/26/section/50/4), [56](https://www.legislation.gov.uk/ukpga/2006/26/section/56) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2007/2386](https://www.legislation.gov.uk/wsi/2007/2386), [art. 2](https://www.legislation.gov.uk/wsi/2007/2386/article/2)
+[^c-2087c1df708155a4286e8f834ff830c9]: Textual amendment: [S. 1(4)](https://www.legislation.gov.uk/ukpga/Vict/62-63/30/section/1/4) inserted (E.W.) (12.8.2007 for W. for specified purposes) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [ss. 50(4)](https://www.legislation.gov.uk/ukpga/2006/26/section/50/4), [56](https://www.legislation.gov.uk/ukpga/2006/26/section/56) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2007/2386](https://www.legislation.gov.uk/wsi/2007/2386), [art. 2](https://www.legislation.gov.uk/wsi/2007/2386/article/2)
 
 [^c577561]: Textual amendment: Words repealed by [Local Government, Planning and Land Act 1980 (c. 65, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1980/65), [s. 194](https://www.legislation.gov.uk/ukpga/1980/65/section/194), [Sch. 34 Pt. III](https://www.legislation.gov.uk/ukpga/1980/65/schedule/34/part/III)
 
@@ -248,7 +248,7 @@ Section 22.
 
 [^c577576]: Marginal citation: [1876 c. 56](https://www.legislation.gov.uk/ukpga/1876/56).
 
-[^key-f439fc28c9595f0b4b1a77fc30d34c37]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/Vict/62-63/30/section/9) substituted (12.8.2007 for W. for specified purposes) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [ss. 50(6)](https://www.legislation.gov.uk/ukpga/2006/26/section/50/6), [56](https://www.legislation.gov.uk/ukpga/2006/26/section/56) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2007/2386](https://www.legislation.gov.uk/wsi/2007/2386), [art. 2](https://www.legislation.gov.uk/wsi/2007/2386/article/2)
+[^c-f439fc28c9595f0b4b1a77fc30d34c37]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/Vict/62-63/30/section/9) substituted (12.8.2007 for W. for specified purposes) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [ss. 50(6)](https://www.legislation.gov.uk/ukpga/2006/26/section/50/6), [56](https://www.legislation.gov.uk/ukpga/2006/26/section/56) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2007/2386](https://www.legislation.gov.uk/wsi/2007/2386), [art. 2](https://www.legislation.gov.uk/wsi/2007/2386/article/2)
 
 [^c577577]: Modification: Function of confirming byelaws or regulations made by district council under s. 1(1) exercisable by Secretary of State: S.R. & O. 1946/1757 (Rev. XV p. 112: 1946 I p. 1012
 
@@ -256,7 +256,7 @@ Section 22.
 
 [^c577579]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-a1b82604de411c1fa606f78959620457]: Textual amendment: [S. 10(3)](https://www.legislation.gov.uk/ukpga/Vict/62-63/30/section/10/3) inserted (W.) (31.3.2015) by [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/2/3); [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-a1b82604de411c1fa606f78959620457]: Textual amendment: [S. 10(3)](https://www.legislation.gov.uk/ukpga/Vict/62-63/30/section/10/3) inserted (W.) (31.3.2015) by [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/2/3); [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
 [^c577580]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/Vict/62-63/30/section/11) substituted by [Local Government, Planning and Land Act 1980 (c. 65, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1980/65), [s. 1(3)](https://www.legislation.gov.uk/ukpga/1980/65/section/1/3), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/3/paragraph/2/2)
 
@@ -280,9 +280,9 @@ Section 22.
 
 [^c577590]: Modification: S. 18 extended (E.W.) (19.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [ss. 70](https://www.legislation.gov.uk/ukpga/1995/25/section/70), [125(2)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/2), [Sch. 9 para.1(4)(5)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/9/paragraph/1/4/5) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/7))
 
-[^key-6d9512301f3d37dfbdaeb9050364ef49]: Textual amendment: Words in [s. 18](https://www.legislation.gov.uk/ukpga/Vict/62-63/30/section/18) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 10(a)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/10/a); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-6d9512301f3d37dfbdaeb9050364ef49]: Textual amendment: Words in [s. 18](https://www.legislation.gov.uk/ukpga/Vict/62-63/30/section/18) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 10(a)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/10/a); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
-[^key-2e928b2ef051d9ceb9a88bf5fc76c9ee]: Textual amendment: Word in [s. 18](https://www.legislation.gov.uk/ukpga/Vict/62-63/30/section/18) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 10(b)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/10/b); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-2e928b2ef051d9ceb9a88bf5fc76c9ee]: Textual amendment: Word in [s. 18](https://www.legislation.gov.uk/ukpga/Vict/62-63/30/section/18) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 10(b)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/10/b); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
 [^c577591]: Textual amendment: Paragraph added (E.W.) by [Norfolk and Suffolk Broads Act 1988 (c. 4, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1988/4), [s. 21](https://www.legislation.gov.uk/ukpga/1988/4/section/21), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/1988/4/schedule/6/paragraph/1)
 
@@ -290,7 +290,7 @@ Section 22.
 
 [^c577593]: Textual amendment: Words substituted by virtue of [Board of Agriculture and Fisheries Act 1903 (c. 31)](https://www.legislation.gov.uk/ukpga/1903/31), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1903/31/section/1/1), [Ministry of Agriculture and Fisheries Act 1919 (c. 91)](https://www.legislation.gov.uk/ukpga/1919/91), [s. 1](https://www.legislation.gov.uk/ukpga/1919/91/section/1), [S.I](https://www.legislation.gov.uk/ukpga/1919/91/section/I). 1955/554 (1955 I, p. 1200), 1965/143, 1967/156 and 1970/1681
 
-[^key-5732b310a8608ef92414a69cf6cce334]: Textual amendment: [S. 21](https://www.legislation.gov.uk/ukpga/Vict/62-63/30/section/21) repealed (E.W.) (1.10.2006 for E., 6.9.2007 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/ukpga/2006/26/schedule/6/part/2) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2006/2504](https://www.legislation.gov.uk/uksi/2006/2504), [art. 2(i)](https://www.legislation.gov.uk/uksi/2006/2504/article/2/i); [S.I. 2007/2386](https://www.legislation.gov.uk/wsi/2007/2386), [art. 3(q)](https://www.legislation.gov.uk/wsi/2007/2386/article/3/q)
+[^c-5732b310a8608ef92414a69cf6cce334]: Textual amendment: [S. 21](https://www.legislation.gov.uk/ukpga/Vict/62-63/30/section/21) repealed (E.W.) (1.10.2006 for E., 6.9.2007 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/ukpga/2006/26/schedule/6/part/2) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2006/2504](https://www.legislation.gov.uk/uksi/2006/2504), [art. 2(i)](https://www.legislation.gov.uk/uksi/2006/2504/article/2/i); [S.I. 2007/2386](https://www.legislation.gov.uk/wsi/2007/2386), [art. 3(q)](https://www.legislation.gov.uk/wsi/2007/2386/article/3/q)
 
 [^c577595]: Textual amendment: Words repealed by [Statute Law Revision Act 1908 (c. 49)](https://www.legislation.gov.uk/ukpga/1908/49)
 
@@ -308,7 +308,7 @@ Section 22.
 
 [^c577607]: Textual amendment: Words repealed by [Statute Law Revision Act 1908 (c. 49)](https://www.legislation.gov.uk/ukpga/1908/49)
 
-[^key-cdaee43e24e2aeb38ae4f9d6eca093bf]: Textual amendment: Entries in Sch. 1 repealed (E.W.) (1.10.2007 for E., 1.4.2012 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 6 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/26/schedule/6/part/3) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2007/2584](https://www.legislation.gov.uk/uksi/2007/2584), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2007/2584/article/2/d/ii); S.I. 2012/739, art. 2(h)
+[^c-cdaee43e24e2aeb38ae4f9d6eca093bf]: Textual amendment: Entries in Sch. 1 repealed (E.W.) (1.10.2007 for E., 1.4.2012 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 6 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/26/schedule/6/part/3) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2007/2584](https://www.legislation.gov.uk/uksi/2007/2584), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2007/2584/article/2/d/ii); S.I. 2012/739, art. 2(h)
 
 [^c577608]: Textual amendment: Entry in Sch. 1 repealed (1.4.1978) by [Endowment and Glebe Measure 1976 (No. 4)](https://www.legislation.gov.uk/ukcm/1976/4), [Sch. 8](https://www.legislation.gov.uk/ukcm/1976/4/schedule/8)
 

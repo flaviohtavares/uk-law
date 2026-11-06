@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Policy statement[^key-79a23f74d01e825bbc1f8725e8773680][^key-79a23f74d01e825bbc1f8725e8773680]
+## 127. Policy statement[^c-79a23f74d01e825bbc1f8725e8773680][^c-79a23f74d01e825bbc1f8725e8773680]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79a23f74d01e825bbc1f8725e8773680]: Commencement: Reg. 127 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
+[^c-79a23f74d01e825bbc1f8725e8773680]: Commencement: Reg. 127 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)

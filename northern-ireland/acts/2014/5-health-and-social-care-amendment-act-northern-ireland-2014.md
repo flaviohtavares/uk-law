@@ -88,7 +88,7 @@ After section 15 of the 2009 Act insert— After subsection (1) insert—
 
 ### 3. Minor amendments
 
-(1) In each of Schedules [^key-ac1e512e48c326acfc22990aa7dea687]... 2 and 3 to the 2009 Act (constitution of [^key-ac1e512e48c326acfc22990aa7dea687]... the Regional Agency for Public Health and Social Well-being and the Regional Business Services Organisation), in paragraph 3, for sub-paragraph (3) substitute—
+(1) In each of Schedules [^c-ac1e512e48c326acfc22990aa7dea687]... 2 and 3 to the 2009 Act (constitution of [^c-ac1e512e48c326acfc22990aa7dea687]... the Regional Agency for Public Health and Social Well-being and the Regional Business Services Organisation), in paragraph 3, for sub-paragraph (3) substitute—
 
 > (3) Regulations may provide—
 >
@@ -128,7 +128,7 @@ Section 3.
 
 ### The Commissioner for Complaints (Northern Ireland) Order 1996 (NI 7)
 
-**2.**[^key-ef33c7e4a29316407da7117c5bd57a7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ef33c7e4a29316407da7117c5bd57a7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Carers and Direct Payments Act (Northern Ireland) 2002 (c. 6)
 
@@ -143,6 +143,6 @@ Section 3.
 
 ## Annotations
 
-[^key-ac1e512e48c326acfc22990aa7dea687]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/nia/2014/5/section/3/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 245](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/245); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ac1e512e48c326acfc22990aa7dea687]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/nia/2014/5/section/3/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 245](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/245); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-ef33c7e4a29316407da7117c5bd57a7f]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/2) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with ss. 23, 50(3))
+[^c-ef33c7e4a29316407da7117c5bd57a7f]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/2) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with ss. 23, 50(3))

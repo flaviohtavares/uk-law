@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 131. Meaning of “surviving adult”[^key-2645650c898cf91b59b0f161f4f9ae69]
+## 131. Meaning of “surviving adult”[^c-2645650c898cf91b59b0f161f4f9ae69]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2645650c898cf91b59b0f161f4f9ae69]: Commencement: [Reg. 131](https://www.legislation.gov.uk/ssi/2014/292/regulation/131) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-2645650c898cf91b59b0f161f4f9ae69]: Commencement: [Reg. 131](https://www.legislation.gov.uk/ssi/2014/292/regulation/131) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

@@ -56,7 +56,7 @@ These Regulations may be cited as the Work at Height Regulations 2005 and shall 
 
 - “**the 1974 Act**” means the Health and Safety at Work etc. Act 1974;
 - “access” and “egress” include ascent and descent;
-- “**construction work**” has the meaning assigned to it by regulation 2(1) of the Construction (Design and Management) Regulations[^key-3f67156bd89dfcc23fef966d2095e102] 2015[^key-7f5d0b352866caf4ad85849f859586b0];
+- “**construction work**” has the meaning assigned to it by regulation 2(1) of the Construction (Design and Management) Regulations[^c-3f67156bd89dfcc23fef966d2095e102] 2015[^c-7f5d0b352866caf4ad85849f859586b0];
 - “**fragile surface**” means a surface which would be liable to fail if any reasonably foreseeable loading were to be applied to it;
 - “**ladder**” includes a fixed ladder and a stepladder;
 - “**line**” includes rope, chain or webbing;
@@ -94,27 +94,27 @@ These Regulations may be cited as the Work at Height Regulations 2005 and shall 
 
 (3) The requirements imposed by these Regulations on an employer shall also apply to—
 
-- (a) a relevant self-employed person[^key-f0290cfbf6f9cda917d309c002097499], in relation to work—
+- (a) a relevant self-employed person[^c-f0290cfbf6f9cda917d309c002097499], in relation to work—
   - (i) by him; or
   - (ii) by a person under his control, to the extent of his control; and
-- (b) to any person other than a self-employed person or relevant self-employed person[^key-bfd4cef8e2b94663a0844b2f9658438d], in relation to work by a person under his control, to the extent of his control.
+- (b) to any person other than a self-employed person or relevant self-employed person[^c-bfd4cef8e2b94663a0844b2f9658438d], in relation to work by a person under his control, to the extent of his control.
 
 (4) Regulations 4 to 16 of these Regulations shall not apply to or in relation to—
 
 - (a) the master and crew of a ship, or to the employer of such persons, in respect of the normal ship-board activities of a ship's crew which—
   - (i) are carried out solely by the crew under the direction of the master; and
   - (ii) are not liable to expose persons at work other than the master and crew to a risk to their safety;
-- (b)[^key-523e62489fe975182e896d04acadd090] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) a place specified in regulation 5(3) of the Loading and Unloading of Fishing Vessels Regulations 1988 [^c11901711] where persons are engaged in fish loading processes; [^key-e958c8c70614fe3e18c34c5c3213476d]...
-- [^key-e958c8c70614fe3e18c34c5c3213476d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-523e62489fe975182e896d04acadd090] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) a place specified in regulation 5(3) of the Loading and Unloading of Fishing Vessels Regulations 1988 [^c11901711] where persons are engaged in fish loading processes; [^c-e958c8c70614fe3e18c34c5c3213476d]...
+- [^c-e958c8c70614fe3e18c34c5c3213476d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Regulation 11 of these Regulations shall not apply to an installation while regulation 12 of the Offshore Installations and Wells (Design and Construction, etc) Regulations 1996 [^c11901721] apply to it.
 
 (6) In this regulation—
 
-- (a)[^key-ce8b81481d40395c45c880d8c975900f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-ce8b81481d40395c45c880d8c975900f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ba)[^key-3e0eccd194936cd50dc5d45ed3b5a119] “relevant self-employed person” means a self-employed person who conducts an undertaking of a prescribed description for the purposes of section 3(2) of the 1974 Act;
+- (a)[^c-ce8b81481d40395c45c880d8c975900f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ce8b81481d40395c45c880d8c975900f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ba)[^c-3e0eccd194936cd50dc5d45ed3b5a119] “relevant self-employed person” means a self-employed person who conducts an undertaking of a prescribed description for the purposes of section 3(2) of the 1974 Act;
 - (c) “**ship**” includes every description of vessel used in navigation, other than a ship which forms part of Her Majesty's Navy.
 
 ## 4. Organisation and planning
@@ -202,7 +202,7 @@ Every employer shall ensure that, in the case of—
   are complied with; and
 - (e) a ladder, Schedule 6 is complied with.
 
-## 8A. Dock Operations[^key-17bef715caf1d3fc15359c2e5fe45142]
+## 8A. Dock Operations[^c-17bef715caf1d3fc15359c2e5fe45142]
 
 In relation to work at height where people are engaged in dock operations, every employer shall ensure that Schedule 9 is complied with.
 
@@ -307,7 +307,7 @@ Every employer shall so far as is reasonably practicable ensure that the surface
 - (a) any training in the use of the work equipment or device concerned which have been received by him; and
 - (b) the instructions respecting that use which have been provided to him by that employer or person in compliance with the requirements and prohibitions imposed upon that employer or person by or under the relevant statutory provisions.
 
-## 14A. Special provision in relation to caving and climbing[^key-010a5bbcc778330b087073cbaac8e095]
+## 14A. Special provision in relation to caving and climbing[^c-010a5bbcc778330b087073cbaac8e095]
 
 (1) Paragraph (2) applies in relation to the application of these Regulations to work concerning the provision of instruction or leadership to one or more persons in connection with their engagement in caving or climbing by way of sport, recreation, team building or similar activities.
 
@@ -551,9 +551,9 @@ A work positioning system shall be used only if either—
 
 ### PART 3 — ADDITIONAL REQUIREMENTS FOR ROPE ACCESS AND POSITIONING TECHNIQUES
 
-**1.** Except as provided in paragraph 3,[^key-9f6e74c55fa7ce803d829c66182cb22e] a rope access or positioning technique shall be used only if—
+**1.** Except as provided in paragraph 3,[^c-9f6e74c55fa7ce803d829c66182cb22e] a rope access or positioning technique shall be used only if—
 
-- (a) [^key-45473f229f5daa3edc84554c04081159]..., it involves a system comprising at least two separately anchored lines, of which one (“the working line”) is used as a means of access, egress and support and the other is the safety line;
+- (a) [^c-45473f229f5daa3edc84554c04081159]..., it involves a system comprising at least two separately anchored lines, of which one (“the working line”) is used as a means of access, egress and support and the other is the safety line;
 - (b) the user is provided with a suitable harness and is connected by it to the working line and the safety line;
 - (c) the working line is equipped with safe means of ascent and descent and has a self-locking system to prevent the user falling should he lose control of his movements; and
 - (d) the safety line is equipped with a mobile fall protection system which is connected to and travels with the user of the system.
@@ -650,9 +650,9 @@ Regulation 19
 | The Docks Regulations 1988 | S.I. 1988/1655 | Regulation 7(4) and (5); in regulation 7(6) the words “and (c) any other place not being a quay or jetty where any person working or passing might fall a distance of more than 2 metres” |
 | The Loading and Unloading of Fishing Vessels Regulations 1988 | S.I. 1988/1656 | In regulation 5(3) the words “and (c) any other place not being a quay where any person working or passing might fall a distance of more than two metres” |
 | The Workplace (Health, Safety and Welfare) Regulations 1992 | S.I. 1992/3004 | Regulation 13(1) to (4) |
-| [^key-74713a3233be6437b9d277889bbd11cb]. . . | [^key-74713a3233be6437b9d277889bbd11cb]. . . | [^key-74713a3233be6437b9d277889bbd11cb]. . . |
+| [^c-74713a3233be6437b9d277889bbd11cb]. . . | [^c-74713a3233be6437b9d277889bbd11cb]. . . | [^c-74713a3233be6437b9d277889bbd11cb]. . . |
 
-## SCHEDULE 9 — REQUIREMENTS FOR WORK IN DOCKS[^key-58fb58c4b3e30afb7889b5edda142842]
+## SCHEDULE 9 — REQUIREMENTS FOR WORK IN DOCKS[^c-58fb58c4b3e30afb7889b5edda142842]
 
 Regulation 8A
 
@@ -728,35 +728,35 @@ except in so far as the provision of such guardrails is impracticable because of
 
 [^c11901661]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37). Sections 15 and 50 were amended by the [Employment Protection Act 1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71) Schedule 15, paragraphs 6 and 16 respectively. The general purposes of Part I of the 1974 Act were extended by section 1(1) of the [Offshore Safety Act 1992 (c. 15)](https://www.legislation.gov.uk/ukpga/1992/15). Section 51A was inserted by section 1, and sections 52 and 53 were amended by sections 2 and 6 respectively, of the [Police (Health and Safety) Act 1997 (c. 42)](https://www.legislation.gov.uk/ukpga/1997/42).
 
-[^key-3f67156bd89dfcc23fef966d2095e102]: Textual amendment: Words in reg. 2(1) substituted (6.4.2007) by [The Construction (Design and Management) Regulations 2007 (S.I. 2007/320)](https://www.legislation.gov.uk/uksi/2007/320), [reg. 1](https://www.legislation.gov.uk/uksi/2007/320/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2007/320/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/320/regulation/3))
+[^c-3f67156bd89dfcc23fef966d2095e102]: Textual amendment: Words in reg. 2(1) substituted (6.4.2007) by [The Construction (Design and Management) Regulations 2007 (S.I. 2007/320)](https://www.legislation.gov.uk/uksi/2007/320), [reg. 1](https://www.legislation.gov.uk/uksi/2007/320/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2007/320/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/320/regulation/3))
 
-[^key-7f5d0b352866caf4ad85849f859586b0]: Textual amendment: Word in reg. 2(1) substituted (6.4.2015) by [The Construction (Design and Management) Regulations 2015 (S.I. 2015/51)](https://www.legislation.gov.uk/uksi/2015/51), [reg. 1](https://www.legislation.gov.uk/uksi/2015/51/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/51/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/51/regulation/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/51/schedule/4))
+[^c-7f5d0b352866caf4ad85849f859586b0]: Textual amendment: Word in reg. 2(1) substituted (6.4.2015) by [The Construction (Design and Management) Regulations 2015 (S.I. 2015/51)](https://www.legislation.gov.uk/uksi/2015/51), [reg. 1](https://www.legislation.gov.uk/uksi/2015/51/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/51/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/51/regulation/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/51/schedule/4))
 
 [^c11901681]: Marginal citation: [S.I. 1999/3242](https://www.legislation.gov.uk/uksi/1999/3242), to which there are amendments not relevant to these Regulations.
 
 [^c11901691]: Marginal citation: [S.I. 2001/2127](https://www.legislation.gov.uk/uksi/2001/2127).
 
-[^key-f0290cfbf6f9cda917d309c002097499]: Textual amendment: Words in [reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/2005/735/regulation/3/3/a) substituted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/8/a)
+[^c-f0290cfbf6f9cda917d309c002097499]: Textual amendment: Words in [reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/2005/735/regulation/3/3/a) substituted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/8/a)
 
-[^key-bfd4cef8e2b94663a0844b2f9658438d]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2005/735/regulation/3/3/b) inserted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/8/b)
+[^c-bfd4cef8e2b94663a0844b2f9658438d]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2005/735/regulation/3/3/b) inserted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/8/b)
 
-[^key-523e62489fe975182e896d04acadd090]: Textual amendment: Reg. 3(4)(b) revoked (6.4.2014) by [The Health and Safety (Miscellaneous Revocations and Amendments) Regulations 2013 (S.I. 2013/1512)](https://www.legislation.gov.uk/uksi/2013/1512), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/1512/regulation/1/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2013/1512/schedule)
+[^c-523e62489fe975182e896d04acadd090]: Textual amendment: Reg. 3(4)(b) revoked (6.4.2014) by [The Health and Safety (Miscellaneous Revocations and Amendments) Regulations 2013 (S.I. 2013/1512)](https://www.legislation.gov.uk/uksi/2013/1512), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/1512/regulation/1/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2013/1512/schedule)
 
 [^c11901711]: Marginal citation: [S.I. 1988/1656](https://www.legislation.gov.uk/uksi/1988/1656).
 
-[^key-e958c8c70614fe3e18c34c5c3213476d]: Textual amendment: Reg. 3(4)(d) and word omitted (6.4.2007) by virtue of [The Work at Height (Amendment) Regulations 2007 (S.I. 2007/114)](https://www.legislation.gov.uk/uksi/2007/114), [regs. 1](https://www.legislation.gov.uk/uksi/2007/114/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2007/114/regulation/3/a/ii)
+[^c-e958c8c70614fe3e18c34c5c3213476d]: Textual amendment: Reg. 3(4)(d) and word omitted (6.4.2007) by virtue of [The Work at Height (Amendment) Regulations 2007 (S.I. 2007/114)](https://www.legislation.gov.uk/uksi/2007/114), [regs. 1](https://www.legislation.gov.uk/uksi/2007/114/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2007/114/regulation/3/a/ii)
 
 [^c11901721]: Marginal citation: [S.I.1996/913](https://www.legislation.gov.uk/uksi/1996/913).
 
-[^key-ce8b81481d40395c45c880d8c975900f]: Textual amendment: Reg. 3(6)(a)(b) omitted (6.4.2007) by virtue of [The Work at Height (Amendment) Regulations 2007 (S.I. 2007/114)](https://www.legislation.gov.uk/uksi/2007/114), [regs. 1](https://www.legislation.gov.uk/uksi/2007/114/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2007/114/regulation/3/b)
+[^c-ce8b81481d40395c45c880d8c975900f]: Textual amendment: Reg. 3(6)(a)(b) omitted (6.4.2007) by virtue of [The Work at Height (Amendment) Regulations 2007 (S.I. 2007/114)](https://www.legislation.gov.uk/uksi/2007/114), [regs. 1](https://www.legislation.gov.uk/uksi/2007/114/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2007/114/regulation/3/b)
 
-[^key-3e0eccd194936cd50dc5d45ed3b5a119]: Textual amendment: [Reg. 3(6)(ba)](https://www.legislation.gov.uk/uksi/2005/735/regulation/3/6/ba) inserted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 8(c)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/8/c)
+[^c-3e0eccd194936cd50dc5d45ed3b5a119]: Textual amendment: [Reg. 3(6)(ba)](https://www.legislation.gov.uk/uksi/2005/735/regulation/3/6/ba) inserted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 8(c)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/8/c)
 
-[^key-17bef715caf1d3fc15359c2e5fe45142]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2005/735/regulation/8A) inserted (6.4.2014) by [The Health and Safety (Miscellaneous Revocations and Amendments) Regulations 2013 (S.I. 2013/1512)](https://www.legislation.gov.uk/uksi/2013/1512), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/1512/regulation/1/2/b), [5(2)](https://www.legislation.gov.uk/uksi/2013/1512/regulation/5/2)
+[^c-17bef715caf1d3fc15359c2e5fe45142]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2005/735/regulation/8A) inserted (6.4.2014) by [The Health and Safety (Miscellaneous Revocations and Amendments) Regulations 2013 (S.I. 2013/1512)](https://www.legislation.gov.uk/uksi/2013/1512), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/1512/regulation/1/2/b), [5(2)](https://www.legislation.gov.uk/uksi/2013/1512/regulation/5/2)
 
 [^c11901731]: Marginal citation: [S.I.1998/2307](https://www.legislation.gov.uk/uksi/1998/2307), to which there are amendments not relevant to these Regulations.
 
-[^key-010a5bbcc778330b087073cbaac8e095]: Textual amendment: Reg. 14A inserted (6.4.2007) by [The Work at Height (Amendment) Regulations 2007 (S.I. 2007/114)](https://www.legislation.gov.uk/uksi/2007/114), [regs. 1](https://www.legislation.gov.uk/uksi/2007/114/regulation/1), [4](https://www.legislation.gov.uk/uksi/2007/114/regulation/4)
+[^c-010a5bbcc778330b087073cbaac8e095]: Textual amendment: Reg. 14A inserted (6.4.2007) by [The Work at Height (Amendment) Regulations 2007 (S.I. 2007/114)](https://www.legislation.gov.uk/uksi/2007/114), [regs. 1](https://www.legislation.gov.uk/uksi/2007/114/regulation/1), [4](https://www.legislation.gov.uk/uksi/2007/114/regulation/4)
 
 [^c11901741]: Marginal citation: [S.I. 1998/2306](https://www.legislation.gov.uk/uksi/1998/2306), to which there are amendments not relevant to these Regulations.
 
@@ -764,10 +764,10 @@ except in so far as the provision of such guardrails is impracticable because of
 
 [^c11901761]: Marginal citation: [S.I. 1996/341](https://www.legislation.gov.uk/uksi/1996/341).
 
-[^key-9f6e74c55fa7ce803d829c66182cb22e]: Textual amendment: Words in Sch. 5 Pt. 3 para. 1 inserted (6.4.2007) by [The Work at Height (Amendment) Regulations 2007 (S.I. 2007/114)](https://www.legislation.gov.uk/uksi/2007/114), [regs. 1](https://www.legislation.gov.uk/uksi/2007/114/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2007/114/regulation/5/a)
+[^c-9f6e74c55fa7ce803d829c66182cb22e]: Textual amendment: Words in Sch. 5 Pt. 3 para. 1 inserted (6.4.2007) by [The Work at Height (Amendment) Regulations 2007 (S.I. 2007/114)](https://www.legislation.gov.uk/uksi/2007/114), [regs. 1](https://www.legislation.gov.uk/uksi/2007/114/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2007/114/regulation/5/a)
 
-[^key-45473f229f5daa3edc84554c04081159]: Textual amendment: Words in Sch. 5 Pt. 3 para. 1(a) omitted (6.4.2007) by virtue of [The Work at Height (Amendment) Regulations 2007 (S.I. 2007/114)](https://www.legislation.gov.uk/uksi/2007/114), [regs. 1](https://www.legislation.gov.uk/uksi/2007/114/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2007/114/regulation/5/b)
+[^c-45473f229f5daa3edc84554c04081159]: Textual amendment: Words in Sch. 5 Pt. 3 para. 1(a) omitted (6.4.2007) by virtue of [The Work at Height (Amendment) Regulations 2007 (S.I. 2007/114)](https://www.legislation.gov.uk/uksi/2007/114), [regs. 1](https://www.legislation.gov.uk/uksi/2007/114/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2007/114/regulation/5/b)
 
-[^key-74713a3233be6437b9d277889bbd11cb]: Textual amendment: Words in Sch. 8 revoked (6.4.2007) by [The Construction (Design and Management) Regulations 2007 (S.I. 2007/320)](https://www.legislation.gov.uk/uksi/2007/320), [reg. 1](https://www.legislation.gov.uk/uksi/2007/320/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/320/schedule/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/320/regulation/3))
+[^c-74713a3233be6437b9d277889bbd11cb]: Textual amendment: Words in Sch. 8 revoked (6.4.2007) by [The Construction (Design and Management) Regulations 2007 (S.I. 2007/320)](https://www.legislation.gov.uk/uksi/2007/320), [reg. 1](https://www.legislation.gov.uk/uksi/2007/320/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/320/schedule/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/320/regulation/3))
 
-[^key-58fb58c4b3e30afb7889b5edda142842]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/uksi/2005/735/schedule/9) added (6.4.2014) by [The Health and Safety (Miscellaneous Revocations and Amendments) Regulations 2013 (S.I. 2013/1512)](https://www.legislation.gov.uk/uksi/2013/1512), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/1512/regulation/1/2/b), [5(3)](https://www.legislation.gov.uk/uksi/2013/1512/regulation/5/3)
+[^c-58fb58c4b3e30afb7889b5edda142842]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/uksi/2005/735/schedule/9) added (6.4.2014) by [The Health and Safety (Miscellaneous Revocations and Amendments) Regulations 2013 (S.I. 2013/1512)](https://www.legislation.gov.uk/uksi/2013/1512), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/1512/regulation/1/2/b), [5(3)](https://www.legislation.gov.uk/uksi/2013/1512/regulation/5/3)

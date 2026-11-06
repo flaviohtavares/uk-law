@@ -32,7 +32,7 @@ summary: ''
 
 Sea Fisheries, England
 
-The Sea Fishing (Enforcement of Community Control Measures) (Amendment) Order 2009 (revoked)[^key-9cd5b049a72e8139607c766a74e21320]
+The Sea Fishing (Enforcement of Community Control Measures) (Amendment) Order 2009 (revoked)[^c-9cd5b049a72e8139607c766a74e21320]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 10th August 2009
 
-[^key-9cd5b049a72e8139607c766a74e21320]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9cd5b049a72e8139607c766a74e21320]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-9cd5b049a72e8139607c766a74e21320]
+## 1. Citation, commencement and application[^c-9cd5b049a72e8139607c766a74e21320]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Sea Fishing (Enforcement of Community Control Measures) Order 2000[^key-9cd5b049a72e8139607c766a74e21320]
+## 2. Amendments to the Sea Fishing (Enforcement of Community Control Measures) Order 2000[^c-9cd5b049a72e8139607c766a74e21320]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9cd5b049a72e8139607c766a74e21320]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9cd5b049a72e8139607c766a74e21320]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-9cd5b049a72e8139607c766a74e21320]EXPLANATORY NOTE
+[^c-9cd5b049a72e8139607c766a74e21320]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -78,4 +78,4 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 ## Annotations
 
-[^key-9cd5b049a72e8139607c766a74e21320]: Textual amendment: Order revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
+[^c-9cd5b049a72e8139607c766a74e21320]: Textual amendment: Order revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)

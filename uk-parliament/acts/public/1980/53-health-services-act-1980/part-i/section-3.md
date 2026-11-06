@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-424652c6d8306180003465b0753f8189] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-424652c6d8306180003465b0753f8189] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 15 of the Scottish Act of 1978 (which empowers the Secretary of State, Health Boards and the Agency to supply goods and services to local authorities and others), in subsection (1), in paragraph (*c*), after the word “by” there shall be inserted the words “ or having contacts with ”.
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^c8086171]: Editorial: The text of ss. 1(7), 3, 5, 6(1)(3)(4), 7, 8(3), 9(5)(a)(b), 20, 23, and 25(2)-(4) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-424652c6d8306180003465b0753f8189]: Textual amendment: S. 3(1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-424652c6d8306180003465b0753f8189]: Textual amendment: S. 3(1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))

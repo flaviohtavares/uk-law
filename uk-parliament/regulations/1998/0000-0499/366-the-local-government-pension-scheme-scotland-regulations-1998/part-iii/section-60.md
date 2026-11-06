@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60. Payment of AVCs[^key-919f54db671856ac807907aaf0bc5829]
+## 60. Payment of AVCs[^c-919f54db671856ac807907aaf0bc5829]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-919f54db671856ac807907aaf0bc5829]: Commencement: Reg. 60 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-919f54db671856ac807907aaf0bc5829]: Commencement: Reg. 60 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

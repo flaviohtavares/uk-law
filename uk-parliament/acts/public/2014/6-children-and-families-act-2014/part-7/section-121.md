@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Statutory rights to leave and pay of prospective adopters with whom looked after children are placed[^key-6ca426be582aa232f7b001e3108ce99a]
+## 121. Statutory rights to leave and pay of prospective adopters with whom looked after children are placed[^c-6ca426be582aa232f7b001e3108ce99a]
 
 *Extent: E+W*
 
@@ -101,4 +101,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ca426be582aa232f7b001e3108ce99a]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2014/6/section/121) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/e)
+[^c-6ca426be582aa232f7b001e3108ce99a]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2014/6/section/121) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/e)

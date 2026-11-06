@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Variation of rent[^key-bbbffc1dcf27ccb3bf84c9e8426ad29e]
+## 63. Variation of rent[^c-bbbffc1dcf27ccb3bf84c9e8426ad29e]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ In section 13 (variation of rent) of the 1991 Act—
 
 ## Annotations
 
-[^key-bbbffc1dcf27ccb3bf84c9e8426ad29e]: Commencement: S. 63 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/548/article/2/e) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-bbbffc1dcf27ccb3bf84c9e8426ad29e]: Commencement: S. 63 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/548/article/2/e) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

@@ -55,7 +55,7 @@ Article 13(3).
 
 ### Disqualification for acting as insolvency practitioner
 
-**4.**[^key-e983ed9dcc345b05a8f5043d80e2b786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e983ed9dcc345b05a8f5043d80e2b786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Prohibition against involvement in company
 
@@ -76,6 +76,6 @@ Article 13(3).
 
 [^c20290981]: Commencement: [Sch. 6 paras. 1-5](https://www.legislation.gov.uk/nisi/2005/1455/schedule/6/paragraph/1) wholly in operation at 27.3.2006, see [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3) and [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2-7](https://www.legislation.gov.uk/nisr/2006/22/article/2))
 
-[^key-e983ed9dcc345b05a8f5043d80e2b786]: Textual amendment: [Sch. 6 para. 4](https://www.legislation.gov.uk/nisi/2005/1455/schedule/6/paragraph/4) omitted (1.10.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 116(4)(a)](https://www.legislation.gov.uk/ukpga/2015/26/section/116/4/a), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/i) (with [Sch. para. 14](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/14))
+[^c-e983ed9dcc345b05a8f5043d80e2b786]: Textual amendment: [Sch. 6 para. 4](https://www.legislation.gov.uk/nisi/2005/1455/schedule/6/paragraph/4) omitted (1.10.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 116(4)(a)](https://www.legislation.gov.uk/ukpga/2015/26/section/116/4/a), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/i) (with [Sch. para. 14](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/14))
 
 [^c20291001]: Commencement: [Sch. 6 paras. 1-5](https://www.legislation.gov.uk/nisi/2005/1455/schedule/6/paragraph/1) wholly in operation at 27.3.2006, see [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3) and [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2-7](https://www.legislation.gov.uk/nisr/2006/22/article/2))

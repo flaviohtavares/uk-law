@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1273A. Limited liability partnerships: salaried members[^key-3975ee7e93247c836ac68b19570a0d58]
+## 1273A. Limited liability partnerships: salaried members[^c-3975ee7e93247c836ac68b19570a0d58]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3975ee7e93247c836ac68b19570a0d58]: Textual amendment: S. 1273A inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 2](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/6)
+[^c-3975ee7e93247c836ac68b19570a0d58]: Textual amendment: S. 1273A inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 2](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/6)

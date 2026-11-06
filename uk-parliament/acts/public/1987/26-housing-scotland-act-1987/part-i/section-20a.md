@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20A. Rules on priority of allocation of housing: consultation[^key-694b55ea46eabd49378478428e41159a]
+## 20A. Rules on priority of allocation of housing: consultation[^c-694b55ea46eabd49378478428e41159a]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-694b55ea46eabd49378478428e41159a]: Textual amendment: [S. 20A](https://www.legislation.gov.uk/ukpga/1987/26/section/20A) inserted (1.5.2019) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 4(1)](https://www.legislation.gov.uk/asp/2014/14/section/4/1), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
+[^c-694b55ea46eabd49378478428e41159a]: Textual amendment: [S. 20A](https://www.legislation.gov.uk/ukpga/1987/26/section/20A) inserted (1.5.2019) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 4(1)](https://www.legislation.gov.uk/asp/2014/14/section/4/1), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2018/153/article/9))

@@ -26,7 +26,7 @@ Regulation 25(1)(a)
 
 #### 1. Analysis of samples
 
-(1) The food authority must ensure that each sample is analysed in accordance [^key-bd7c2d37392d0ef3452895ca62480279]... this Schedule.
+(1) The food authority must ensure that each sample is analysed in accordance [^c-bd7c2d37392d0ef3452895ca62480279]... this Schedule.
 
 (2) For each parameter specified in the first column of Table 1 in Part 2 of this Schedule the method of analysis is specified in the second column of that table.
 
@@ -154,4 +154,4 @@ Table 2
 
 ## Annotations
 
-[^key-bd7c2d37392d0ef3452895ca62480279]: Textual amendment: Words in [Sch. 10 para. 1(1)](https://www.legislation.gov.uk/wsi/2015/1867/schedule/10/paragraph/1/1) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/wsi/2019/1046), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/1/3), [8(12)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/8/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bd7c2d37392d0ef3452895ca62480279]: Textual amendment: Words in [Sch. 10 para. 1(1)](https://www.legislation.gov.uk/wsi/2015/1867/schedule/10/paragraph/1/1) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/wsi/2019/1046), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/1/3), [8(12)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/8/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

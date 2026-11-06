@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Disputes about rent etc payable during MRO procedure[^key-8e37e0f3f288b2279d1fffc2ef1d2eeb]
+## 40. Disputes about rent etc payable during MRO procedure[^c-8e37e0f3f288b2279d1fffc2ef1d2eeb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the tied pub tenant and the pub-owning business disagree as to whether an 
 
 ## Annotations
 
-[^key-8e37e0f3f288b2279d1fffc2ef1d2eeb]: Commencement: Reg. 40 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-8e37e0f3f288b2279d1fffc2ef1d2eeb]: Commencement: Reg. 40 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

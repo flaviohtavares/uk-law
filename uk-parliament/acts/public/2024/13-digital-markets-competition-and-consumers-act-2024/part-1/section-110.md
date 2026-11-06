@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Power to charge levy[^key-546ae78bfe5431e13f107de7998a10e0][^key-94d65a797a7ec5111ea8f93f5a3efab4]
+## 110. Power to charge levy[^c-546ae78bfe5431e13f107de7998a10e0][^c-94d65a797a7ec5111ea8f93f5a3efab4]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-546ae78bfe5431e13f107de7998a10e0]: Commencement: S. 110 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-546ae78bfe5431e13f107de7998a10e0]: Commencement: S. 110 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-94d65a797a7ec5111ea8f93f5a3efab4]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2024/13/section/110) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-94d65a797a7ec5111ea8f93f5a3efab4]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2024/13/section/110) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

@@ -82,7 +82,7 @@ Accordingly the Secretary of State for Work and Pensions makes the following Reg
 
 (9) In regulation 18(4) [^c1842564] (avoidance of double liability: schemes in Northern Ireland), omit sub-paragraph (b).
 
-## 3. The administration levy[^key-a066cfdd407091b849a60071be809ec5]
+## 3. The administration levy[^c-a066cfdd407091b849a60071be809ec5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -143,7 +143,7 @@ These Regulations have only a negligible impact on the cost of business, chariti
 
 [^c1842564]: Marginal citation: [Regulation 18(4)(b)](https://www.legislation.gov.uk/uksi/2007/994/regulation/18/4/b) was amended by regulation 2(8)(a) of [S.I. 2006/935](https://www.legislation.gov.uk/uksi/2006/935).
 
-[^key-a066cfdd407091b849a60071be809ec5]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/994/regulation/3) revoked (1.4.2015) by [The Occupational Pension Schemes (Levies) (Amendment) Regulations 2015 (S.I. 2015/84)](https://www.legislation.gov.uk/uksi/2015/84), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/84/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/84/regulation/2/2/a)
+[^c-a066cfdd407091b849a60071be809ec5]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/994/regulation/3) revoked (1.4.2015) by [The Occupational Pension Schemes (Levies) (Amendment) Regulations 2015 (S.I. 2015/84)](https://www.legislation.gov.uk/uksi/2015/84), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/84/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/84/regulation/2/2/a)
 
 [^c1842566]: Marginal citation: [Section 153](https://www.legislation.gov.uk/uksi/2007/994/section/153) of the Pensions Act 2004 is modified in its application to partially guaranteed schemes by [S.I. 2005/277](https://www.legislation.gov.uk/uksi/2005/277) and in its application to multi-employer schemes by [S.I. 2005/441](https://www.legislation.gov.uk/uksi/2005/441) (relevant amending instruments are [S.I. 2005/993](https://www.legislation.gov.uk/uksi/2005/993) and 2113).
 

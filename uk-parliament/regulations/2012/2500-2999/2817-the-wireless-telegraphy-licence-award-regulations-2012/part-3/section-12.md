@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Withdrawal of an application[^key-baa62dcc7f94b9758d5fe243460dbe95]
+## 12. Withdrawal of an application[^c-baa62dcc7f94b9758d5fe243460dbe95]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baa62dcc7f94b9758d5fe243460dbe95]: Commencement: Reg. 12 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-baa62dcc7f94b9758d5fe243460dbe95]: Commencement: Reg. 12 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

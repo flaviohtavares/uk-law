@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Emergency byelaws[^key-3c2c8dad68c78bcf2881ec88d84847fe]
+## 157. Emergency byelaws[^c-3c2c8dad68c78bcf2881ec88d84847fe]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c2c8dad68c78bcf2881ec88d84847fe]: Commencement: [S. 157](https://www.legislation.gov.uk/ukpga/2009/23/section/157) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/c)
+[^c-3c2c8dad68c78bcf2881ec88d84847fe]: Commencement: [S. 157](https://www.legislation.gov.uk/ukpga/2009/23/section/157) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/c)

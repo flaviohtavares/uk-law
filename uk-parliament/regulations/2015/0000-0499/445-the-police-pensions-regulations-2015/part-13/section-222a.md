@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222A. Voluntary scheme pays arrangement[^key-29e4260a435f4ad842e7f6373c3c03dc]
+## 222A. Voluntary scheme pays arrangement[^c-29e4260a435f4ad842e7f6373c3c03dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29e4260a435f4ad842e7f6373c3c03dc]: Textual amendment: Reg. 222A inserted (with effect in accordance with reg. 1(2)(d) of the amending S.I.) by [The Police and Firefighters Pensions (Amendment) Regulations 2018 (S.I. 2018/997)](https://www.legislation.gov.uk/uksi/2018/997), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2018/997/regulation/1/2/d), [37(2)](https://www.legislation.gov.uk/uksi/2018/997/regulation/37/2)
+[^c-29e4260a435f4ad842e7f6373c3c03dc]: Textual amendment: Reg. 222A inserted (with effect in accordance with reg. 1(2)(d) of the amending S.I.) by [The Police and Firefighters Pensions (Amendment) Regulations 2018 (S.I. 2018/997)](https://www.legislation.gov.uk/uksi/2018/997), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2018/997/regulation/1/2/d), [37(2)](https://www.legislation.gov.uk/uksi/2018/997/regulation/37/2)

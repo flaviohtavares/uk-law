@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Organic Farming (England Rural Development Programme) Regulations 2001 (revoked)[^key-059efee741a9c70c54694216ee2eb146]
+The Organic Farming (England Rural Development Programme) Regulations 2001 (revoked)[^c-059efee741a9c70c54694216ee2eb146]
 
 Made
 
@@ -45,116 +45,116 @@ Coming into force
 
 19th March 2001
 
-[^key-059efee741a9c70c54694216ee2eb146]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-059efee741a9c70c54694216ee2eb146]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-059efee741a9c70c54694216ee2eb146]
+## 1. Title, commencement and extent[^c-059efee741a9c70c54694216ee2eb146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-059efee741a9c70c54694216ee2eb146]
+## 2. Interpretation[^c-059efee741a9c70c54694216ee2eb146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Acceptance of applications for aid[^key-059efee741a9c70c54694216ee2eb146]
+## 3. Acceptance of applications for aid[^c-059efee741a9c70c54694216ee2eb146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Conditions of eligibility[^key-059efee741a9c70c54694216ee2eb146]
+## 4. Conditions of eligibility[^c-059efee741a9c70c54694216ee2eb146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Restrictions on acceptance of applications[^key-059efee741a9c70c54694216ee2eb146]
+## 5. Restrictions on acceptance of applications[^c-059efee741a9c70c54694216ee2eb146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Financial limits[^key-059efee741a9c70c54694216ee2eb146]
+## 6. Financial limits[^c-059efee741a9c70c54694216ee2eb146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Payments of aid[^key-059efee741a9c70c54694216ee2eb146]
+## 7. Payments of aid[^c-059efee741a9c70c54694216ee2eb146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Determination of periods for which aid is paid and amount of aid[^key-059efee741a9c70c54694216ee2eb146]
+## 8. Determination of periods for which aid is paid and amount of aid[^c-059efee741a9c70c54694216ee2eb146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Restrictions on payment of aid[^key-059efee741a9c70c54694216ee2eb146]
+## 9. Restrictions on payment of aid[^c-059efee741a9c70c54694216ee2eb146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9A. Applicants affected by FMD[^key-059efee741a9c70c54694216ee2eb146]
+## 9A. Applicants affected by FMD[^c-059efee741a9c70c54694216ee2eb146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Obligations of beneficiary[^key-059efee741a9c70c54694216ee2eb146]
+## 10. Obligations of beneficiary[^c-059efee741a9c70c54694216ee2eb146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Power to vary undertakings[^key-059efee741a9c70c54694216ee2eb146]
+## 11. Power to vary undertakings[^c-059efee741a9c70c54694216ee2eb146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of approved plan[^key-059efee741a9c70c54694216ee2eb146]
+## 12. Amendment of approved plan[^c-059efee741a9c70c54694216ee2eb146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Obligation to keep records[^key-059efee741a9c70c54694216ee2eb146]
+## 13. Obligation to keep records[^c-059efee741a9c70c54694216ee2eb146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendment of the Organic Farming Regulations 1999[^key-059efee741a9c70c54694216ee2eb146]
+## 14. Amendment of the Organic Farming Regulations 1999[^c-059efee741a9c70c54694216ee2eb146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-059efee741a9c70c54694216ee2eb146]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-059efee741a9c70c54694216ee2eb146]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — OBLIGATIONS[^key-059efee741a9c70c54694216ee2eb146]
+## SCHEDULE 1 — OBLIGATIONS[^c-059efee741a9c70c54694216ee2eb146]
 
 regulation 4(2)(b)(ii)
 
-**1.**[^key-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — CALCULATION OF AID[^key-059efee741a9c70c54694216ee2eb146]
+## SCHEDULE 2 — CALCULATION OF AID[^c-059efee741a9c70c54694216ee2eb146]
 
 regulation 8(2)
 
-### PART I — PAYMENT IN RESPECT OF AN ORGANIC PARCEL[^key-059efee741a9c70c54694216ee2eb146]
+### PART I — PAYMENT IN RESPECT OF AN ORGANIC PARCEL[^c-059efee741a9c70c54694216ee2eb146]
 
-**1.**[^key-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-059efee741a9c70c54694216ee2eb146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — PAYMENT IN RESPECT OF THE ORGANIC UNIT AS A WHOLE[^key-059efee741a9c70c54694216ee2eb146]
+### PART II — PAYMENT IN RESPECT OF THE ORGANIC UNIT AS A WHOLE[^c-059efee741a9c70c54694216ee2eb146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-059efee741a9c70c54694216ee2eb146]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-059efee741a9c70c54694216ee2eb146]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-059efee741a9c70c54694216ee2eb146]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2001/432) revoked (30.5.2003) by [The Organic Farming (England Rural Development Programme) Regulations 2003 (S.I. 2003/1235)](https://www.legislation.gov.uk/uksi/2003/1235), [reg. 12(1)](https://www.legislation.gov.uk/uksi/2003/1235/regulation/12/1) (with [reg. 12(2)](https://www.legislation.gov.uk/uksi/2003/1235/regulation/12/2))
+[^c-059efee741a9c70c54694216ee2eb146]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2001/432) revoked (30.5.2003) by [The Organic Farming (England Rural Development Programme) Regulations 2003 (S.I. 2003/1235)](https://www.legislation.gov.uk/uksi/2003/1235), [reg. 12(1)](https://www.legislation.gov.uk/uksi/2003/1235/regulation/12/1) (with [reg. 12(2)](https://www.legislation.gov.uk/uksi/2003/1235/regulation/12/2))

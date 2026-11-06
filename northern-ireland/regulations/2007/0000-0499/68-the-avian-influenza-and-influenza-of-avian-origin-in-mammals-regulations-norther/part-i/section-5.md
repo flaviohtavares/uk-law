@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Controlled zones[^key-3e4b3c75affe2716fb857069adfeac06]
+## 5. Controlled zones[^c-3e4b3c75affe2716fb857069adfeac06]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e4b3c75affe2716fb857069adfeac06]: Commencement: Reg. 5 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-3e4b3c75affe2716fb857069adfeac06]: Commencement: Reg. 5 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

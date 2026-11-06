@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Crown application: Chapter 1[^key-37c53e63df5dda652ba480a340e8f224]
+## 41. Crown application: Chapter 1[^c-37c53e63df5dda652ba480a340e8f224]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Chapter binds the Crown.
 
 ## Annotations
 
-[^key-37c53e63df5dda652ba480a340e8f224]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2011/16/section/41) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(xvi)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/xvi)
+[^c-37c53e63df5dda652ba480a340e8f224]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2011/16/section/41) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(xvi)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/xvi)

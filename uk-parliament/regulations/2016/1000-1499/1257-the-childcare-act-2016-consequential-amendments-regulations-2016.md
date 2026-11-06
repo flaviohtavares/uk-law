@@ -30,7 +30,7 @@ summary: ''
 
 Children And Young Persons, England
 
-The Childcare Act 2016 (Consequential Amendments)[^key-ee1736191f69b2890b51bd6742d51e0d] Regulations 2016
+The Childcare Act 2016 (Consequential Amendments)[^c-ee1736191f69b2890b51bd6742d51e0d] Regulations 2016
 
 Made
 
@@ -48,205 +48,205 @@ In accordance with section 2(3) of that Act, these Regulations are made with the
 
 ### 1. Citation and commencement
 
-(1) These Regulations may be cited as the Childcare Act 2016 (Consequential Amendments)[^key-2673ccc4873abbae38340cc09d8c723a] Regulations 2016.
+(1) These Regulations may be cited as the Childcare Act 2016 (Consequential Amendments)[^c-2673ccc4873abbae38340cc09d8c723a] Regulations 2016.
 
-(2) Parts 1[^key-b49cba9413e4067de141b26bf4ccc058] and 5 of these Regulations come into force 21 days after the day on which these Regulations are made.
+(2) Parts 1[^c-b49cba9413e4067de141b26bf4ccc058] and 5 of these Regulations come into force 21 days after the day on which these Regulations are made.
 
-(3)[^key-e40d23962cfab45f0add4d6180073fb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e40d23962cfab45f0add4d6180073fb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Interpretation[^key-17d1b1320dfb1b03200913a33caf9858]
+### 2. Interpretation[^c-17d1b1320dfb1b03200913a33caf9858]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — A qualifying child of working parents[^key-0655cb5a310f5c8716eb3499a32a0582]
+## PART 2 — A qualifying child of working parents[^c-0655cb5a310f5c8716eb3499a32a0582]
 
-### CHAPTER 1 — Conditions relating to a qualifying child of working parents[^key-0655cb5a310f5c8716eb3499a32a0582]
+### CHAPTER 1 — Conditions relating to a qualifying child of working parents[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 **No longer in force.**
 
-#### 3. Description of a qualifying child of working parents[^key-0655cb5a310f5c8716eb3499a32a0582]
+#### 3. Description of a qualifying child of working parents[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER 2 — Conditions relating to a parent, and any partner of the parent, of the child[^key-0655cb5a310f5c8716eb3499a32a0582]
+### CHAPTER 2 — Conditions relating to a parent, and any partner of the parent, of the child[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 **No longer in force.**
 
-#### 4. Specified conditions relating to a parent, and any partner of the parent, of the child[^key-0655cb5a310f5c8716eb3499a32a0582]
+#### 4. Specified conditions relating to a parent, and any partner of the parent, of the child[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4A. Specified conditions relating to the parent, and any partner of the parent, of the child – foster parents[^key-0655cb5a310f5c8716eb3499a32a0582]
+#### 4A. Specified conditions relating to the parent, and any partner of the parent, of the child – foster parents[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. The requirement to be in qualifying paid work[^key-0655cb5a310f5c8716eb3499a32a0582]
+#### 5. The requirement to be in qualifying paid work[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Calculation of expected income[^key-0655cb5a310f5c8716eb3499a32a0582]
+#### 6. Calculation of expected income[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Self-employed persons: start-up periods[^key-0655cb5a310f5c8716eb3499a32a0582]
+#### 7. Self-employed persons: start-up periods[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Qualifying paid work and work outside role as a foster parent: time off in connection with sickness or parenting[^key-0655cb5a310f5c8716eb3499a32a0582]
+#### 8. Qualifying paid work and work outside role as a foster parent: time off in connection with sickness or parenting[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Qualifying paid work and paid work outside role as a foster parent: caring, incapacity for work or limited capability for work[^key-0655cb5a310f5c8716eb3499a32a0582]
+#### 9. Qualifying paid work and paid work outside role as a foster parent: caring, incapacity for work or limited capability for work[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Partner of a parent of the child[^key-0655cb5a310f5c8716eb3499a32a0582]
+#### 10. Partner of a parent of the child[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER 3 — Declaration in respect of a young child[^key-0655cb5a310f5c8716eb3499a32a0582]
+### CHAPTER 3 — Declaration in respect of a young child[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 **No longer in force.**
 
-#### 11. Conditions to be met by the person making the declaration[^key-0655cb5a310f5c8716eb3499a32a0582]
+#### 11. Conditions to be met by the person making the declaration[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Being in the United Kingdom[^key-0655cb5a310f5c8716eb3499a32a0582]
+#### 12. Being in the United Kingdom[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Declaration: form and content[^key-0655cb5a310f5c8716eb3499a32a0582]
+#### 13. Declaration: form and content[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Electronic communications[^key-0655cb5a310f5c8716eb3499a32a0582]
+#### 14. Electronic communications[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Period of time for which the first declaration has effect[^key-0655cb5a310f5c8716eb3499a32a0582]
+#### 15. Period of time for which the first declaration has effect[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Reconfirming declaration[^key-0655cb5a310f5c8716eb3499a32a0582]
+#### 16. Reconfirming declaration[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER 4 — Determinations[^key-0655cb5a310f5c8716eb3499a32a0582]
+### CHAPTER 4 — Determinations[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 **No longer in force.**
 
-#### 17. Determination by the Commissioners[^key-0655cb5a310f5c8716eb3499a32a0582]
+#### 17. Determination by the Commissioners[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17A. Determination by the responsible local authority[^key-0655cb5a310f5c8716eb3499a32a0582]
+#### 17A. Determination by the responsible local authority[^c-0655cb5a310f5c8716eb3499a32a0582]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Information, reviews, appeals and penalties[^key-3779759fe186641ff6845ccbf3068ca4]
+## PART 3 — Information, reviews, appeals and penalties[^c-3779759fe186641ff6845ccbf3068ca4]
 
 **No longer in force.**
 
-### 18ZA. Application to determinations made under regulation 17[^key-3779759fe186641ff6845ccbf3068ca4]
+### 18ZA. Application to determinations made under regulation 17[^c-3779759fe186641ff6845ccbf3068ca4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER 1 — Information[^key-3779759fe186641ff6845ccbf3068ca4]
+### CHAPTER 1 — Information[^c-3779759fe186641ff6845ccbf3068ca4]
 
-#### 18. Supply of information[^key-3779759fe186641ff6845ccbf3068ca4]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 19. Unauthorised disclosure of information received under regulation 18[^key-3779759fe186641ff6845ccbf3068ca4]
+#### 18. Supply of information[^c-3779759fe186641ff6845ccbf3068ca4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER 2 — Reviews and appeals of determinations[^key-3779759fe186641ff6845ccbf3068ca4]
-
-#### 20. Rights to review and appeal a determination under regulation 17[^key-3779759fe186641ff6845ccbf3068ca4]
+#### 19. Unauthorised disclosure of information received under regulation 18[^c-3779759fe186641ff6845ccbf3068ca4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21. Reviewing a determination under regulation 17[^key-3779759fe186641ff6845ccbf3068ca4]
+### CHAPTER 2 — Reviews and appeals of determinations[^c-3779759fe186641ff6845ccbf3068ca4]
+
+#### 20. Rights to review and appeal a determination under regulation 17[^c-3779759fe186641ff6845ccbf3068ca4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22. Extension of time limit for applications for review[^key-3779759fe186641ff6845ccbf3068ca4]
+#### 21. Reviewing a determination under regulation 17[^c-3779759fe186641ff6845ccbf3068ca4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 23. Appealing a determination under regulation 17[^key-3779759fe186641ff6845ccbf3068ca4]
+#### 22. Extension of time limit for applications for review[^c-3779759fe186641ff6845ccbf3068ca4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24. Powers of tribunal: appeals against determinations[^key-3779759fe186641ff6845ccbf3068ca4]
+#### 23. Appealing a determination under regulation 17[^c-3779759fe186641ff6845ccbf3068ca4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER 3 — Penalties[^key-3779759fe186641ff6845ccbf3068ca4]
-
-#### 25. Penalties for inaccurate declarations[^key-3779759fe186641ff6845ccbf3068ca4]
+#### 24. Powers of tribunal: appeals against determinations[^c-3779759fe186641ff6845ccbf3068ca4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 26. Penalties for providing false or misleading information or statements[^key-3779759fe186641ff6845ccbf3068ca4]
+### CHAPTER 3 — Penalties[^c-3779759fe186641ff6845ccbf3068ca4]
+
+#### 25. Penalties for inaccurate declarations[^c-3779759fe186641ff6845ccbf3068ca4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 27. Penalties for dishonesty[^key-3779759fe186641ff6845ccbf3068ca4]
+#### 26. Penalties for providing false or misleading information or statements[^c-3779759fe186641ff6845ccbf3068ca4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 28. Assessment and enforcement of penalties[^key-3779759fe186641ff6845ccbf3068ca4]
+#### 27. Penalties for dishonesty[^c-3779759fe186641ff6845ccbf3068ca4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 29. Reviewing a penalty[^key-3779759fe186641ff6845ccbf3068ca4]
+#### 28. Assessment and enforcement of penalties[^c-3779759fe186641ff6845ccbf3068ca4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 30. Extension of time limit for applications for review[^key-3779759fe186641ff6845ccbf3068ca4]
+#### 29. Reviewing a penalty[^c-3779759fe186641ff6845ccbf3068ca4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 31. Appealing against a penalty[^key-3779759fe186641ff6845ccbf3068ca4]
+#### 30. Extension of time limit for applications for review[^c-3779759fe186641ff6845ccbf3068ca4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 32. Powers of tribunal: appeals against penalties[^key-3779759fe186641ff6845ccbf3068ca4]
+#### 31. Appealing against a penalty[^c-3779759fe186641ff6845ccbf3068ca4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Local authorities' duty to secure early years provision[^key-9db68e5fe54c9e1c005abf2092d306e5]
+#### 32. Powers of tribunal: appeals against penalties[^c-3779759fe186641ff6845ccbf3068ca4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Local authorities' duty to secure early years provision[^c-9db68e5fe54c9e1c005abf2092d306e5]
 
 **No longer in force.**
 
-### 33. Duty to secure early years provision free of charge[^key-9db68e5fe54c9e1c005abf2092d306e5]
+### 33. Duty to secure early years provision free of charge[^c-9db68e5fe54c9e1c005abf2092d306e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34. Nature of early years provision[^key-9db68e5fe54c9e1c005abf2092d306e5]
+### 34. Nature of early years provision[^c-9db68e5fe54c9e1c005abf2092d306e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35. Availability of early years provision[^key-9db68e5fe54c9e1c005abf2092d306e5]
+### 35. Availability of early years provision[^c-9db68e5fe54c9e1c005abf2092d306e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 36. Requirement on local authority when discharging its duty under regulation 33[^key-9db68e5fe54c9e1c005abf2092d306e5]
+### 36. Requirement on local authority when discharging its duty under regulation 33[^c-9db68e5fe54c9e1c005abf2092d306e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 37. Arrangements between local authorities and early years providers: termination[^key-9db68e5fe54c9e1c005abf2092d306e5]
+### 37. Arrangements between local authorities and early years providers: termination[^c-9db68e5fe54c9e1c005abf2092d306e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 38. Arrangements between local authorities and early years providers: requirements[^key-9db68e5fe54c9e1c005abf2092d306e5]
+### 38. Arrangements between local authorities and early years providers: requirements[^c-9db68e5fe54c9e1c005abf2092d306e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 39. Having regard to guidance[^key-9db68e5fe54c9e1c005abf2092d306e5]
+### 39. Having regard to guidance[^c-9db68e5fe54c9e1c005abf2092d306e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -381,23 +381,23 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 ## Annotations
 
-[^key-ee1736191f69b2890b51bd6742d51e0d]: Textual amendment: Words in Regulations title substituted (1.12.2022) by [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/4/2)
+[^c-ee1736191f69b2890b51bd6742d51e0d]: Textual amendment: Words in Regulations title substituted (1.12.2022) by [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/4/2)
 
 [^c23210281]: Marginal citation: [2016 c. 5](https://www.legislation.gov.uk/ukpga/2016/5).
 
-[^key-2673ccc4873abbae38340cc09d8c723a]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/1/1) substituted (1.12.2022) by [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 4(3)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/4/3)
+[^c-2673ccc4873abbae38340cc09d8c723a]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/1/1) substituted (1.12.2022) by [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 4(3)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/4/3)
 
-[^key-b49cba9413e4067de141b26bf4ccc058]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/1/2) substituted (1.12.2022) by [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 4(4)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/4/4)
+[^c-b49cba9413e4067de141b26bf4ccc058]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/1/2) substituted (1.12.2022) by [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 4(4)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/4/4)
 
-[^key-e40d23962cfab45f0add4d6180073fb7]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/1/3) omitted (1.12.2022) by virtue of [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 4(5)(a)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/4/5/a)
+[^c-e40d23962cfab45f0add4d6180073fb7]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/1/3) omitted (1.12.2022) by virtue of [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 4(5)(a)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/4/5/a)
 
-[^key-17d1b1320dfb1b03200913a33caf9858]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/1257/regulation/2) omitted (1.12.2022) by virtue of [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 4(5)(b)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/4/5/b)
+[^c-17d1b1320dfb1b03200913a33caf9858]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/1257/regulation/2) omitted (1.12.2022) by virtue of [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 4(5)(b)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/4/5/b)
 
-[^key-0655cb5a310f5c8716eb3499a32a0582]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2016/1257/part/2) omitted (1.12.2022) by virtue of [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 4(5)(c)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/4/5/c)
+[^c-0655cb5a310f5c8716eb3499a32a0582]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2016/1257/part/2) omitted (1.12.2022) by virtue of [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 4(5)(c)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/4/5/c)
 
-[^key-3779759fe186641ff6845ccbf3068ca4]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2016/1257/part/3) omitted (1.12.2022) by virtue of [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 4(5)(d)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/4/5/d)
+[^c-3779759fe186641ff6845ccbf3068ca4]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2016/1257/part/3) omitted (1.12.2022) by virtue of [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 4(5)(d)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/4/5/d)
 
-[^key-9db68e5fe54c9e1c005abf2092d306e5]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2016/1257/part/4) omitted (1.12.2022) by virtue of [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 4(5)(e)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/4/5/e)
+[^c-9db68e5fe54c9e1c005abf2092d306e5]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2016/1257/part/4) omitted (1.12.2022) by virtue of [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 4(5)(e)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/4/5/e)
 
 [^c23210951]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 451(2A) was inserted by section 17 of the [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21). Section 509A was inserted by section 124 of the [School Standards and Framework Act 1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31) and subsection (5)(a) was amended by paragraph 23 of Schedule 2 to the Childcare Act 2006. Section 548(8) was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 

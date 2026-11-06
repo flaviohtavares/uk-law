@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Continuation of Local Commissioning Groups[^key-aa7e616a31f37b93f4476d0c0ecd8118][^key-5f6fd4debaecfd614567254e8052530a]
+## 3. Continuation of Local Commissioning Groups[^c-aa7e616a31f37b93f4476d0c0ecd8118][^c-5f6fd4debaecfd614567254e8052530a]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aa7e616a31f37b93f4476d0c0ecd8118]: Commencement: S. 3 not in operation at Royal Assent, see [s. 8(1)(c)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/c)
+[^c-aa7e616a31f37b93f4476d0c0ecd8118]: Commencement: S. 3 not in operation at Royal Assent, see [s. 8(1)(c)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/c)
 
-[^key-5f6fd4debaecfd614567254e8052530a]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2022/3/section/3) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/102/article/2/c)
+[^c-5f6fd4debaecfd614567254e8052530a]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2022/3/section/3) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/102/article/2/c)

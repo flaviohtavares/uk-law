@@ -48,7 +48,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and interpretation[^key-e9f87f0ff0c0fbbea82f98497057746e]
+### 1. Citation, commencement and interpretation[^c-e9f87f0ff0c0fbbea82f98497057746e]
 
 (1) These Regulations may be cited as the Veterinary Surgeons and Animal Welfare (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
 
@@ -56,7 +56,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 2 — Amendment and transitional provision regarding the Veterinary Surgeons Act 1966
 
-### 2. Amendment of the Act[^key-64e6294e183e21aafdd792b61b4fa9ec]
+### 2. Amendment of the Act[^c-64e6294e183e21aafdd792b61b4fa9ec]
 
 (1) The Act is amended as follows.
 
@@ -65,7 +65,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 (3) In section 2(2) [^c24288231]—
 
 - (a) in paragraph (a), for “, 4, 5A or 5B” substitute “ or 4 ”;
-- (b) in paragraph (e), after “persons”, insert “ who, immediately before IP completion day[^key-3bfceb4f029c7150676158c46c0164c3], were ”.
+- (b) in paragraph (e), after “persons”, insert “ who, immediately before IP completion day[^c-3bfceb4f029c7150676158c46c0164c3], were ”.
 
 (4) Omit section 3(1)(b)(ii) [^c24288241] (together with the preceding “and”).
 
@@ -106,7 +106,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 (14) Omit Schedules 1A and 1B [^c24288341].
 
-### 3. Applications under the Act: transitional provision[^key-1ab2aea1630d85f72ac6a31c0c7e41b0]
+### 3. Applications under the Act: transitional provision[^c-1ab2aea1630d85f72ac6a31c0c7e41b0]
 
 (1) This regulation applies where before exit day an application under section 5A of the Act has been made but not determined.
 
@@ -116,21 +116,21 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
   > “**Community rights entitled person**” means—
   >
-  > - (a) a person who on the day before IP completion day[^key-68e2f71a3c04f4326ef020ff715ea700] was a national of a relevant European State,
+  > - (a) a person who on the day before IP completion day[^c-68e2f71a3c04f4326ef020ff715ea700] was a national of a relevant European State,
   > - (b) a person who on the day before IP completion day fell to be treated as a national of the United Kingdom for the purposes of the EU Treaties and who was seeking access to, or was pursuing, the profession of veterinary surgeon by virtue of an enforceable EU right, or
   > - (c) a person who on the day before IP completion day was not a national of a relevant European State but who was, by virtue of an enforceable EU right, entitled to be treated, for the purposes of access to and pursuit of the profession of veterinary surgeon, no less favourably than a national of a relevant European State,
   >
   > but does not include a person who on the day before IP completion day was, by virtue of Article 2 of Protocol 3 to the Treaty of Accession (Channel Islands and Isle of Man), not entitled to benefit from EU provisions relating to the free movement of persons and services;;
 
   ;
-- (b) in the definitions of “Directive [2005/36/EC](https://www.legislation.gov.uk/eudr/2005/36)” and “the Directive table”, for “amended from time to time” there were substituted “it applied on the day before IP completion day[^key-870c30e0e76ceca5c1775ff4898c706e]”;
+- (b) in the definitions of “Directive [2005/36/EC](https://www.legislation.gov.uk/eudr/2005/36)” and “the Directive table”, for “amended from time to time” there were substituted “it applied on the day before IP completion day[^c-870c30e0e76ceca5c1775ff4898c706e]”;
 - (c) for the definition of “national” there were substituted—
 
-  > “**national**”, in relation to a relevant European State, includes any person who on the day before IP completion day[^key-c21afef0e5d499ac567b803d1412d292] was, by virtue of any enforceable EU right, entitled to be treated, for the purposes of access to the veterinary profession, no less favourably than a national of such a State, but does not include a person who, by virtue of Article 2 of Protocol 3 to the Treaty of Accession (Channel Islands and Isle of Man), was not entitled to benefit from EU provisions relating to the free movement of persons and services;
+  > “**national**”, in relation to a relevant European State, includes any person who on the day before IP completion day[^c-c21afef0e5d499ac567b803d1412d292] was, by virtue of any enforceable EU right, entitled to be treated, for the purposes of access to the veterinary profession, no less favourably than a national of such a State, but does not include a person who, by virtue of Article 2 of Protocol 3 to the Treaty of Accession (Channel Islands and Isle of Man), was not entitled to benefit from EU provisions relating to the free movement of persons and services;
 
   .
 
-### 4. Applications under the European Union (Recognition of Professional Qualifications) Regulations 2015: transitional provision[^key-dc282ff5dfd8d8cfd79491c257c5f167]
+### 4. Applications under the European Union (Recognition of Professional Qualifications) Regulations 2015: transitional provision[^c-dc282ff5dfd8d8cfd79491c257c5f167]
 
 (1) This regulation applies where before exit day an application under Part 3 of the European Union (Recognition of Professional Qualifications) Regulations 2015 [^c24288351] has been made but not determined.
 
@@ -139,7 +139,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 - (a) in section 5B(1)—
   - (i) for paragraph (b) there were substituted—
 
-    > - (b) on the day before IP completion day[^key-48cede516c45e54a0f3b1814ddb32033] —
+    > - (b) on the day before IP completion day[^c-48cede516c45e54a0f3b1814ddb32033] —
     >   - (i) the person's case fell within regulation 3(8)(a), (c) or (e) of the European Union (Recognition of Professional Qualifications) Regulations 2015, and
     >   - (ii) regulations 27 to 34 of those Regulations applied to the person by reason of the operation of regulation 3(5) of those Regulations;
 
@@ -149,7 +149,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
     > - (d) the person—
     >   - (i) on the day before IP completion day was permitted to pursue the profession of veterinary surgeon in the United Kingdom by virtue of Part 3 of the European Union (Recognition of Professional Qualifications) Regulations 2015 (having, in particular, successfully completed any adaptation period, or passed any aptitude test, that the person may be required to undertake pursuant to that Part of those Regulations), or
-    >   - (ii) is permitted to pursue the profession of veterinary surgeon in the United Kingdom by virtue of the operation of paragraph 44[^key-6d649559ed1cb215a6cb04cfda1b7c71] of Schedule 1 to the Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019 [^c24288361] (having, in particular, successfully completed any adaptation period, or passed any aptitude test, that the person may be required to undertake pursuant to Part 3 of the European Union (Recognition of Professional Qualifications) Regulations 2015);
+    >   - (ii) is permitted to pursue the profession of veterinary surgeon in the United Kingdom by virtue of the operation of paragraph 44[^c-6d649559ed1cb215a6cb04cfda1b7c71] of Schedule 1 to the Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019 [^c24288361] (having, in particular, successfully completed any adaptation period, or passed any aptitude test, that the person may be required to undertake pursuant to Part 3 of the European Union (Recognition of Professional Qualifications) Regulations 2015);
 
     ;
 - (b) in section 27—
@@ -157,7 +157,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
     > “**Community rights entitled person**” means—
     >
-    > - (a) a person who on the day before IP completion day[^key-68047ad08e2684b69485a59608bb3b5f] was a national of a relevant European State,
+    > - (a) a person who on the day before IP completion day[^c-68047ad08e2684b69485a59608bb3b5f] was a national of a relevant European State,
     > - (b) a person who on the day before IP completion day fell to be treated as a national of the United Kingdom for the purposes of the EU Treaties and who was seeking access to, or was pursuing, the profession of veterinary surgeon by virtue of an enforceable EU right, or
     > - (c) a person who on the day before IP completion day was not a national of a relevant European State but who was, by virtue of an enforceable EU right, entitled to be treated, for the purposes of access to and pursuit of the profession of veterinary surgeon, no less favourably than a national of a relevant European State,
     >
@@ -171,7 +171,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
     .
 
-### 5. Temporary and occasional provision of services: transitional provision[^key-6d4c59cda095e185866e2fc9a8c549ce]
+### 5. Temporary and occasional provision of services: transitional provision[^c-6d4c59cda095e185866e2fc9a8c549ce]
 
 (1) This regulation applies where, before exit day, a visiting practitioner—
 
@@ -207,7 +207,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 (3) In paragraph (1), “**visiting practitioner**” means a person to whom, on the day before exit day, Schedule 1B to the Act applied.
 
-### 5A. Applications under the Act: Swiss citizens’ rights agreement entitled persons[^M_I_1a4bc0c4-93af-473f-8f9a-60eda56b83e3][^key-438655f615f207c58ddf0f8b2cca7a42]
+### 5A. Applications under the Act: Swiss citizens’ rights agreement entitled persons[^M_I_1a4bc0c4-93af-473f-8f9a-60eda56b83e3][^c-438655f615f207c58ddf0f8b2cca7a42]
 
 (1) In this regulation, “qualifying applicant” has the meaning given by paragraph 51 of Schedule 1 to the Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019 (qualifications begun before IP completion day – extended period for applications under the Swiss citizens’ rights agreement).
 
@@ -255,7 +255,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 3 — Amendment of the Animal Welfare Act 2006
 
-### 6. Amendment of the Animal Welfare Act 2006[^key-18040143effc4d2c56f7f35dfd1b2faf]
+### 6. Amendment of the Animal Welfare Act 2006[^c-18040143effc4d2c56f7f35dfd1b2faf]
 
 (1) Section 29 of the Animal Welfare Act 2006 [^c24288371] is amended as follows.
 
@@ -281,17 +281,17 @@ An impact assessment has not be produced for this instrument as no, or no signif
 
 [^c24288201]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-e9f87f0ff0c0fbbea82f98497057746e]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-e9f87f0ff0c0fbbea82f98497057746e]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c24288211]: Marginal citation: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36).
 
-[^key-64e6294e183e21aafdd792b61b4fa9ec]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-64e6294e183e21aafdd792b61b4fa9ec]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c24288221]: Marginal citation: Section 1A was inserted by [S.I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824).
 
 [^c24288231]: Marginal citation: Section 2(2) was amended by [S.I. 2003/2919](https://www.legislation.gov.uk/uksi/2003/2919), 2008/1824.
 
-[^key-3bfceb4f029c7150676158c46c0164c3]: Textual amendment: Words in reg. 2(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2020/1038/schedule/2/paragraph/2/a)
+[^c-3bfceb4f029c7150676158c46c0164c3]: Textual amendment: Words in reg. 2(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2020/1038/schedule/2/paragraph/2/a)
 
 [^c24288241]: Marginal citation: Section 3(1)(b) was amended by [S.I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824).
 
@@ -315,32 +315,32 @@ An impact assessment has not be produced for this instrument as no, or no signif
 
 [^c24288341]: Marginal citation: Schedule 1A was inserted by [S.I. 1980/1951](https://www.legislation.gov.uk/uksi/1980/1951), substituted by 2008/1824 and amended by [S.I. 2013/2985](https://www.legislation.gov.uk/uksi/2013/2985), 2015/2073. Schedule 1B was inserted by [S.I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824) and amended by [S.I. 2015/2073](https://www.legislation.gov.uk/uksi/2015/2073).
 
-[^key-1ab2aea1630d85f72ac6a31c0c7e41b0]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-1ab2aea1630d85f72ac6a31c0c7e41b0]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-68e2f71a3c04f4326ef020ff715ea700]: Textual amendment: Words in reg. 3(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [Sch. 2 para. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/1038/schedule/2/paragraph/2/b/i)
+[^c-68e2f71a3c04f4326ef020ff715ea700]: Textual amendment: Words in reg. 3(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [Sch. 2 para. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/1038/schedule/2/paragraph/2/b/i)
 
-[^key-870c30e0e76ceca5c1775ff4898c706e]: Textual amendment: Words in reg. 3(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [Sch. 2 para. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1038/schedule/2/paragraph/2/b/ii)
+[^c-870c30e0e76ceca5c1775ff4898c706e]: Textual amendment: Words in reg. 3(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [Sch. 2 para. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1038/schedule/2/paragraph/2/b/ii)
 
-[^key-c21afef0e5d499ac567b803d1412d292]: Textual amendment: Words in reg. 3(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [Sch. 2 para. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1038/schedule/2/paragraph/2/b/iii)
+[^c-c21afef0e5d499ac567b803d1412d292]: Textual amendment: Words in reg. 3(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [Sch. 2 para. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1038/schedule/2/paragraph/2/b/iii)
 
-[^key-dc282ff5dfd8d8cfd79491c257c5f167]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-dc282ff5dfd8d8cfd79491c257c5f167]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c24288351]: Marginal citation: [S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059).
 
-[^key-48cede516c45e54a0f3b1814ddb32033]: Textual amendment: Words in reg. 4(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [Sch. 2 para. 2(c)(i)](https://www.legislation.gov.uk/uksi/2020/1038/schedule/2/paragraph/2/c/i)
+[^c-48cede516c45e54a0f3b1814ddb32033]: Textual amendment: Words in reg. 4(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [Sch. 2 para. 2(c)(i)](https://www.legislation.gov.uk/uksi/2020/1038/schedule/2/paragraph/2/c/i)
 
-[^key-6d649559ed1cb215a6cb04cfda1b7c71]: Textual amendment: Words in reg. 4(2)(a)(iii) substituted (31.12.2020) by [The Trade in Animals and Animal Products (Legislative Functions) and Veterinary Surgeons (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1225)](https://www.legislation.gov.uk/uksi/2019/1225), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/1/3), [22](https://www.legislation.gov.uk/uksi/2019/1225/regulation/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d649559ed1cb215a6cb04cfda1b7c71]: Textual amendment: Words in reg. 4(2)(a)(iii) substituted (31.12.2020) by [The Trade in Animals and Animal Products (Legislative Functions) and Veterinary Surgeons (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1225)](https://www.legislation.gov.uk/uksi/2019/1225), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/1/3), [22](https://www.legislation.gov.uk/uksi/2019/1225/regulation/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c24288361]: Marginal citation: [S.I. 2019/312](https://www.legislation.gov.uk/uksi/2019/312).
 
-[^key-68047ad08e2684b69485a59608bb3b5f]: Textual amendment: Words in reg. 4(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [Sch. 2 para. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1038/schedule/2/paragraph/2/c/ii)
+[^c-68047ad08e2684b69485a59608bb3b5f]: Textual amendment: Words in reg. 4(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [Sch. 2 para. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1038/schedule/2/paragraph/2/c/ii)
 
-[^key-6d4c59cda095e185866e2fc9a8c549ce]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-6d4c59cda095e185866e2fc9a8c549ce]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^M_I_1a4bc0c4-93af-473f-8f9a-60eda56b83e3]: Commencement: Reg. 5A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-438655f615f207c58ddf0f8b2cca7a42]: Textual amendment: Reg. 5A inserted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1038/schedule/2/paragraph/3)
+[^c-438655f615f207c58ddf0f8b2cca7a42]: Textual amendment: Reg. 5A inserted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1038/schedule/2/paragraph/3)
 
-[^key-18040143effc4d2c56f7f35dfd1b2faf]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-18040143effc4d2c56f7f35dfd1b2faf]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c24288371]: Marginal citation: [2006 c. 45](https://www.legislation.gov.uk/ukpga/2006/45). Section 29 was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).

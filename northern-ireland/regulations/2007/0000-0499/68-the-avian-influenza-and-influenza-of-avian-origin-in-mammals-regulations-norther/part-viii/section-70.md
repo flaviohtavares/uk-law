@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Measures at other restocked premises[^key-ceef698f9a80e155443fb363d48d8ca0]
+## 70. Measures at other restocked premises[^c-ceef698f9a80e155443fb363d48d8ca0]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ The Department may, in relation to other restocked premises where poultry or oth
 
 ## Annotations
 
-[^key-ceef698f9a80e155443fb363d48d8ca0]: Commencement: Reg. 70 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-ceef698f9a80e155443fb363d48d8ca0]: Commencement: Reg. 70 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

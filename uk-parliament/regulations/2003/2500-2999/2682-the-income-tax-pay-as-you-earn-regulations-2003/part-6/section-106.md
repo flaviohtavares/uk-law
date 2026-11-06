@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Qualifying general earnings[^key-55be1bc513121c4edf44eec5994efa5a]
+## 106. Qualifying general earnings[^c-55be1bc513121c4edf44eec5994efa5a]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55be1bc513121c4edf44eec5994efa5a]: Commencement: [Reg. 106](https://www.legislation.gov.uk/uksi/2003/2682/regulation/106) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-55be1bc513121c4edf44eec5994efa5a]: Commencement: [Reg. 106](https://www.legislation.gov.uk/uksi/2003/2682/regulation/106) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)

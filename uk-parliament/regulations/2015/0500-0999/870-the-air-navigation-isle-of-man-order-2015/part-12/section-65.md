@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Minimum navigation performance[^key-54512a13c97ab005f0c80a2e84c78681]
+## 65. Minimum navigation performance[^c-54512a13c97ab005f0c80a2e84c78681]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54512a13c97ab005f0c80a2e84c78681]: Commencement: [Art. 65](https://www.legislation.gov.uk/uksi/2015/870/article/65) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-54512a13c97ab005f0c80a2e84c78681]: Commencement: [Art. 65](https://www.legislation.gov.uk/uksi/2015/870/article/65) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

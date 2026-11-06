@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Provision of pre-application services[^key-26395e184fe3387b4c305bed83d814cc][^key-1a22d8f5b7783687872821fe17347261]
+## 27. Provision of pre-application services[^c-26395e184fe3387b4c305bed83d814cc][^c-1a22d8f5b7783687872821fe17347261]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-26395e184fe3387b4c305bed83d814cc]: Commencement: S. 27 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-26395e184fe3387b4c305bed83d814cc]: Commencement: S. 27 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-1a22d8f5b7783687872821fe17347261]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2024/3/section/27) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)
+[^c-1a22d8f5b7783687872821fe17347261]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2024/3/section/27) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)

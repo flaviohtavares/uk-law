@@ -41,9 +41,9 @@ summary: ''
 (5) For the purposes of this section—
 
 - (a) subsection (2) of section 152 shall apply in relation to subsection (2)(a) and subsection (2)(b) above as it applies in relation to subsection (1)(a) and subsection (1)(b) of that section; and
-- (b) subsections (3) and (4)[^key-b043c844d540dabc803041c35cbd8cf4] of that section shall apply as if any reference to the new assets were a reference to the new land, any reference to the old assets were a reference to the old land and any reference to that section were a reference to this.
+- (b) subsections (3) and (4)[^c-b043c844d540dabc803041c35cbd8cf4] of that section shall apply as if any reference to the new assets were a reference to the new land, any reference to the old assets were a reference to the old land and any reference to that section were a reference to this.
 
-(5A)[^key-14ae25d80e05c7e9de22aed629d62f2a] Subsections (2A) and (2C) of section 175 shall apply in relation to this section as they apply in relation to section 152 (but as if the reference in subsection (2C) to the new assets were a reference to the new land).
+(5A)[^c-14ae25d80e05c7e9de22aed629d62f2a] Subsections (2A) and (2C) of section 175 shall apply in relation to this section as they apply in relation to section 152 (but as if the reference in subsection (2C) to the new assets were a reference to the new land).
 
 (6) Where this section applies, any such amount as is referred to in subsection (2) of section 245 shall be treated as forming part of the consideration for the disposal of the old land and, accordingly, so much of that subsection as provides for a deemed disposal of other land shall not apply.
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b043c844d540dabc803041c35cbd8cf4]: Textual amendment: Words in s. 247(5)(b) substituted (with effect in accordance with s. 121(8) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [s. 141(5)](https://www.legislation.gov.uk/ukpga/1996/8/section/141/5)
+[^c-b043c844d540dabc803041c35cbd8cf4]: Textual amendment: Words in s. 247(5)(b) substituted (with effect in accordance with s. 121(8) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [s. 141(5)](https://www.legislation.gov.uk/ukpga/1996/8/section/141/5)
 
-[^key-14ae25d80e05c7e9de22aed629d62f2a]: Textual amendment: S. 247(5A) inserted (with application in accordance with s. 48(6) of the amending Act) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [s. 48(2)](https://www.legislation.gov.uk/ukpga/1995/4/section/48/2)
+[^c-14ae25d80e05c7e9de22aed629d62f2a]: Textual amendment: S. 247(5A) inserted (with application in accordance with s. 48(6) of the amending Act) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [s. 48(2)](https://www.legislation.gov.uk/ukpga/1995/4/section/48/2)

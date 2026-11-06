@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — Excepted machines[^key-1eb9c370de3f7a31c49f19499cb7e7a3]
+## SCHEDULE 1A — Excepted machines[^c-1eb9c370de3f7a31c49f19499cb7e7a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ Section 27(1)
 
 including when it is going to or from the place where it is to be or has been used for any of those purposes.
 
-(2)[^key-7aa6d2c9dd1cfb354c1d67514febb476] An agricultural vehicle that is primarily kept for use within sub-paragraph (1) at a time when it is used for any other purpose on private land where it is ordinarily kept.
+(2)[^c-7aa6d2c9dd1cfb354c1d67514febb476] An agricultural vehicle that is primarily kept for use within sub-paragraph (1) at a time when it is used for any other purpose on private land where it is ordinarily kept.
 
 (3) An agricultural vehicle kept and used on a golf course or on land maintained by a community amateur sports club.
 
@@ -50,15 +50,15 @@ including when it is going to or from the place where it is to be or has been us
 - (b) a vehicle designed and constructed primarily for use otherwise than on roads which—
   - (i) has a revenue weight not exceeding 1,000 kilograms, and
   - (ii) is designed and constructed to seat only the driver;
-- (c) any vehicle that is an exempt vehicle for the purposes of paragraph 20A of Schedule 2 to the Vehicle Excise and Registration Act 1994 (vehicles used between different parts of land)[^key-1b80d3cad2096d5806609428a73055da];
-- (d)[^key-499a8595e5b9c0f8aa440e2ce9985ffd] any other vehicle that is used for the conveyance of machinery that is built into or permanently attached to the vehicle, provided that the machinery is used in the processing or handling of agricultural, horticultural, piscicultural or forestry produce or materials.
+- (c) any vehicle that is an exempt vehicle for the purposes of paragraph 20A of Schedule 2 to the Vehicle Excise and Registration Act 1994 (vehicles used between different parts of land)[^c-1b80d3cad2096d5806609428a73055da];
+- (d)[^c-499a8595e5b9c0f8aa440e2ce9985ffd] any other vehicle that is used for the conveyance of machinery that is built into or permanently attached to the vehicle, provided that the machinery is used in the processing or handling of agricultural, horticultural, piscicultural or forestry produce or materials.
 
 ### Special vehicles
 
 **3.** (1) A special vehicle at a time when it is used—
 
-- (a) for purposes relating to agriculture, horticulture, pisciculture or forestry, including when it is going to or from the place where it is to be or has been used for such purposes, [^key-0df977be8c68a4e8b917fe1ceb1a097c]...
-- (b) on a golf course or on land maintained by a community amateur sports club , or[^key-3b44ec5539ba8354148f69547191f29a]
+- (a) for purposes relating to agriculture, horticulture, pisciculture or forestry, including when it is going to or from the place where it is to be or has been used for such purposes, [^c-0df977be8c68a4e8b917fe1ceb1a097c]...
+- (b) on a golf course or on land maintained by a community amateur sports club , or[^c-3b44ec5539ba8354148f69547191f29a]
 - (c) to go to, or from, a golf course or land maintained by a community amateur sports club to be used, or after being used, on the golf course or land.
 
 (2) A special vehicle used in any other circumstances provided it uses fuel gas for fuel.
@@ -85,15 +85,15 @@ including when it is going to or from the place where it is to be or has been us
 
 **5.** Any vehicle designed to be operated on a railway within the meaning of section 67(1) of the Transport and Works Act 1992.
 
-### Vessels etc[^key-5cec81f18aa91a418924d203d19a6c9c]
+### Vessels etc[^c-5cec81f18aa91a418924d203d19a6c9c]
 
-**6.** (1) Any vessel other than a vessel [^key-33ee495966be71f3117f0edbd9b6ffe0]... that is a private pleasure craft.
+**6.** (1) Any vessel other than a vessel [^c-33ee495966be71f3117f0edbd9b6ffe0]... that is a private pleasure craft.
 
 (2) Any machine or appliance that is permanently on a vessel within sub-paragraph (1).
 
-(3) Any machine or appliance that is permanently on a private pleasure craft [^key-f33d2f2787ef15c4a3fdb8950acba135]..., but that draws fuel from a supply other than the supply from which the engine provided for propelling the private pleasure craft draws fuel.
+(3) Any machine or appliance that is permanently on a private pleasure craft [^c-f33d2f2787ef15c4a3fdb8950acba135]..., but that draws fuel from a supply other than the supply from which the engine provided for propelling the private pleasure craft draws fuel.
 
-(4)[^key-87a235eb17cef5364646619ed3e977e0] A tractor or gear owned by a charity and used by it for the purpose of launching or hauling in a lifeboat owned by it.
+(4)[^c-87a235eb17cef5364646619ed3e977e0] A tractor or gear owned by a charity and used by it for the purpose of launching or hauling in a lifeboat owned by it.
 
 ### Mowing machines
 
@@ -107,18 +107,18 @@ including when it is going to or from the place where it is to be or has been us
 
 **8.** (1) A machine or appliance that is not a vehicle or vessel at a time when it is used—
 
-- (a) for purposes relating to agriculture, horticulture, pisciculture , arboriculture[^key-92d4f0927bea0a0ea5cfca0411854ed8] or forestry;
-- (aa)[^key-34b90ab20781d0c8be01e87f49aac995] for any purpose on land where it is kept and used for purposes relating to agriculture, horticulture, pisciculture or forestry;
+- (a) for purposes relating to agriculture, horticulture, pisciculture , arboriculture[^c-92d4f0927bea0a0ea5cfca0411854ed8] or forestry;
+- (aa)[^c-34b90ab20781d0c8be01e87f49aac995] for any purpose on land where it is kept and used for purposes relating to agriculture, horticulture, pisciculture or forestry;
 - (b) on a golf course or on land maintained by a community amateur sports club;
 - (c) to operate or maintain equipment in a travelling fair or travelling circus;
-- (d) primarily[^key-c23bbc26b1b011dee16900698d877bc3] for heating, or to generate electricity, for premises that are not used for commercial purposes;
-- (e)[^key-2ccecda07df31865f353d1dfae98885c] for heating for any premises[^key-f8bfa40e574008fc0e0d49bbd1d4a636] provided that it uses for fuel—[^key-37ddb490678e62963be88c2b9fa17f7e]
+- (d) primarily[^c-c23bbc26b1b011dee16900698d877bc3] for heating, or to generate electricity, for premises that are not used for commercial purposes;
+- (e)[^c-2ccecda07df31865f353d1dfae98885c] for heating for any premises[^c-f8bfa40e574008fc0e0d49bbd1d4a636] provided that it uses for fuel—[^c-37ddb490678e62963be88c2b9fa17f7e]
   - (i) heavy oil other than gas oil, or
   - (ii) bioblend other than bioblend that is a mixture of biodiesel and gas oil.
 
 (2) For the purposes of sub-paragraph (1)(d), caravans used for the accommodation of those who travel with a travelling fair or travelling circus are to be treated as premises that are not used for commercial purposes.
 
-(3)[^key-f6521eb3bfe2052150d25743e7a75bcd] The Commissioners may publish a notice making provision for the purposes of sub-paragraph (1)(d) about the meaning of—
+(3)[^c-f6521eb3bfe2052150d25743e7a75bcd] The Commissioners may publish a notice making provision for the purposes of sub-paragraph (1)(d) about the meaning of—
 
 - (a) “primarily”, and
 - (b) “used for commercial purposes”.
@@ -142,48 +142,48 @@ include references, when two parts of the golf course or land are on either side
 
 (3) In this Schedule, a fair or circus is a travelling fair or circus if—
 
-- (a) it is provided or operated wholly or principally by persons who travel from place to place for the purpose of providing or operating fairs or circuses, [^key-70ec761d9c9da30714e0a988de8a5eab]...
-- (b)[^key-5828ea54ad6d9399720d42a16293d2f6] it is fully dismantled at least once a year, and
-- (c)[^key-3cd91646a42a86db95afc6beeb336520] the persons who provide or operate it are able to demonstrate that, when the fair or circus is dismantled, it is capable of being transported to another location.
+- (a) it is provided or operated wholly or principally by persons who travel from place to place for the purpose of providing or operating fairs or circuses, [^c-70ec761d9c9da30714e0a988de8a5eab]...
+- (b)[^c-5828ea54ad6d9399720d42a16293d2f6] it is fully dismantled at least once a year, and
+- (c)[^c-3cd91646a42a86db95afc6beeb336520] the persons who provide or operate it are able to demonstrate that, when the fair or circus is dismantled, it is capable of being transported to another location.
 
 ## Annotations
 
-[^key-1eb9c370de3f7a31c49f19499cb7e7a3]: Textual amendment: Sch. 1A inserted (1.4.2022) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 102(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/102/2), [Sch. 21 para. 22](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/22)
+[^c-1eb9c370de3f7a31c49f19499cb7e7a3]: Textual amendment: Sch. 1A inserted (1.4.2022) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 102(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/102/2), [Sch. 21 para. 22](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/22)
 
-[^key-7aa6d2c9dd1cfb354c1d67514febb476]: Textual amendment: [Sch. 1A para. 2(2)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/2/2) substituted (1.4.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(a)(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/a/i)
+[^c-7aa6d2c9dd1cfb354c1d67514febb476]: Textual amendment: [Sch. 1A para. 2(2)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/2/2) substituted (1.4.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(a)(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/a/i)
 
-[^key-1b80d3cad2096d5806609428a73055da]: Textual amendment: Words in [Sch. 1A para. 2(5)(c)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/2/5/c) substituted (1.4.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/a/ii)
+[^c-1b80d3cad2096d5806609428a73055da]: Textual amendment: Words in [Sch. 1A para. 2(5)(c)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/2/5/c) substituted (1.4.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/a/ii)
 
-[^key-499a8595e5b9c0f8aa440e2ce9985ffd]: Textual amendment: [Sch. 1A para. 2(5)(d)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/2/5/d) substituted (1.4.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(a)(iii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/a/iii)
+[^c-499a8595e5b9c0f8aa440e2ce9985ffd]: Textual amendment: [Sch. 1A para. 2(5)(d)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/2/5/d) substituted (1.4.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(a)(iii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/a/iii)
 
-[^key-0df977be8c68a4e8b917fe1ceb1a097c]: Textual amendment: Word in [Sch. 1A para. 3(1)(a)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/3/1/a) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(b)(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/b/i)
+[^c-0df977be8c68a4e8b917fe1ceb1a097c]: Textual amendment: Word in [Sch. 1A para. 3(1)(a)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/3/1/a) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(b)(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/b/i)
 
-[^key-3b44ec5539ba8354148f69547191f29a]: Textual amendment: [Sch. 1A para. 3(1)(c)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/3/1/c) and word inserted (1.4.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/b/ii)
+[^c-3b44ec5539ba8354148f69547191f29a]: Textual amendment: [Sch. 1A para. 3(1)(c)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/3/1/c) and word inserted (1.4.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/b/ii)
 
-[^key-5cec81f18aa91a418924d203d19a6c9c]: Textual amendment: Word in [Sch. 1A para. 6 cross-heading](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/crossheading/vessels) inserted (15.3.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 319(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/3/a)[(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/6)
+[^c-5cec81f18aa91a418924d203d19a6c9c]: Textual amendment: Word in [Sch. 1A para. 6 cross-heading](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/crossheading/vessels) inserted (15.3.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 319(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/3/a)[(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/6)
 
-[^key-33ee495966be71f3117f0edbd9b6ffe0]: Textual amendment: Words in [Sch. 1A para. 6(1)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/6/1) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(c)(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/c/i)
+[^c-33ee495966be71f3117f0edbd9b6ffe0]: Textual amendment: Words in [Sch. 1A para. 6(1)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/6/1) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(c)(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/c/i)
 
-[^key-f33d2f2787ef15c4a3fdb8950acba135]: Textual amendment: Words in [Sch. 1A para. 6(3)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/6/3) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(c)(ii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/c/ii)
+[^c-f33d2f2787ef15c4a3fdb8950acba135]: Textual amendment: Words in [Sch. 1A para. 6(3)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/6/3) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(c)(ii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/c/ii)
 
-[^key-87a235eb17cef5364646619ed3e977e0]: Textual amendment: [Sch. 1A para. 6(4)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/6/4) re-inserted (15.3.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 319(3)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/3/b)[(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/6)
+[^c-87a235eb17cef5364646619ed3e977e0]: Textual amendment: [Sch. 1A para. 6(4)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/6/4) re-inserted (15.3.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 319(3)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/3/b)[(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/6)
 
-[^key-92d4f0927bea0a0ea5cfca0411854ed8]: Textual amendment: Word in Sch. 1A para. 8(1)(a) inserted (15.3.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 319(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/4/a/i)[(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/6)
+[^c-92d4f0927bea0a0ea5cfca0411854ed8]: Textual amendment: Word in Sch. 1A para. 8(1)(a) inserted (15.3.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 319(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/4/a/i)[(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/6)
 
-[^key-34b90ab20781d0c8be01e87f49aac995]: Textual amendment: Sch. 1A para. 8(1)(aa) inserted (1.4.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(d)(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/d/i)
+[^c-34b90ab20781d0c8be01e87f49aac995]: Textual amendment: Sch. 1A para. 8(1)(aa) inserted (1.4.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(d)(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/d/i)
 
-[^key-c23bbc26b1b011dee16900698d877bc3]: Textual amendment: Word in Sch. 1A para. 8(1)(d) inserted (15.3.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 319(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/4/a/ii)[(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/6)
+[^c-c23bbc26b1b011dee16900698d877bc3]: Textual amendment: Word in Sch. 1A para. 8(1)(d) inserted (15.3.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 319(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/4/a/ii)[(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/6)
 
-[^key-2ccecda07df31865f353d1dfae98885c]: Textual amendment: Sch. 1A para. 8(1)(e) inserted (1.4.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(d)(ii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/d/ii)
+[^c-2ccecda07df31865f353d1dfae98885c]: Textual amendment: Sch. 1A para. 8(1)(e) inserted (1.4.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(d)(ii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/d/ii)
 
-[^key-f8bfa40e574008fc0e0d49bbd1d4a636]: Textual amendment: Words in Sch. 1A para. 8(1)(e) substituted (15.3.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 319(4)(a)(iii)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/4/a/iii)[(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/6)
+[^c-f8bfa40e574008fc0e0d49bbd1d4a636]: Textual amendment: Words in Sch. 1A para. 8(1)(e) substituted (15.3.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 319(4)(a)(iii)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/4/a/iii)[(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/6)
 
-[^key-37ddb490678e62963be88c2b9fa17f7e]: Textual amendment: Words in Sch. 1A para. 8(1)(e) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 26](https://www.legislation.gov.uk/ukpga/2024/3/section/26)
+[^c-37ddb490678e62963be88c2b9fa17f7e]: Textual amendment: Words in Sch. 1A para. 8(1)(e) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 26](https://www.legislation.gov.uk/ukpga/2024/3/section/26)
 
-[^key-f6521eb3bfe2052150d25743e7a75bcd]: Textual amendment: Sch. 1A para. 8(3) inserted (15.3.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 319(4)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/4/b)[(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/6)
+[^c-f6521eb3bfe2052150d25743e7a75bcd]: Textual amendment: Sch. 1A para. 8(3) inserted (15.3.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 319(4)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/4/b)[(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/319/6)
 
-[^key-70ec761d9c9da30714e0a988de8a5eab]: Textual amendment: Word in [Sch. 1A para. 9(3)(a)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/9/3/a) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(e)(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/e/i)
+[^c-70ec761d9c9da30714e0a988de8a5eab]: Textual amendment: Word in [Sch. 1A para. 9(3)(a)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/9/3/a) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(e)(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/e/i)
 
-[^key-5828ea54ad6d9399720d42a16293d2f6]: Textual amendment: [Sch. 1A para. 9(3)(b)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/9/3/b) substituted (1.4.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(e)(ii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/e/ii)
+[^c-5828ea54ad6d9399720d42a16293d2f6]: Textual amendment: [Sch. 1A para. 9(3)(b)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/9/3/b) substituted (1.4.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(e)(ii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/e/ii)
 
-[^key-3cd91646a42a86db95afc6beeb336520]: Textual amendment: [Sch. 1A para. 9(3)(c)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/9/3/c) inserted (1.4.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(e)(iii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/e/iii)
+[^c-3cd91646a42a86db95afc6beeb336520]: Textual amendment: [Sch. 1A para. 9(3)(c)](https://www.legislation.gov.uk/ukpga/1979/5/schedule/1A/paragraph/9/3/c) inserted (1.4.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 9(e)(iii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/9/e/iii)

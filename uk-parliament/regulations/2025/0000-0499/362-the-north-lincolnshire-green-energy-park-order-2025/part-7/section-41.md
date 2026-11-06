@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Removal of human remains[^key-1a607562adb07304ee782f1657bfbf60]
+## 41. Removal of human remains[^c-1a607562adb07304ee782f1657bfbf60]
 
 *Extent: E+W+S*
 
@@ -49,7 +49,7 @@ and that person must, as soon as reasonably practicable after such re-interment 
 - (c) within 56 days after any order is made by the county court under paragraph (6) any person, other than the undertaker, specified in the order fails to remove the remains; or
 - (d) it is determined that the remains to which any such notice relates cannot be identified,
 
-subject to paragraph (9) the undertaker must remove the remains and cause them to be re-interred in such burial ground or cemetery in which burials may legally take place as the undertaker thinks suitable for the purpose; and, so far as possible, remains from individual graves must be reinterred in individual containers which must be identifiable[^key-425c5a91e0420ac105cb7b46095e3f30] by a record prepared with reference to the original position of burial of the remains that they contain.
+subject to paragraph (9) the undertaker must remove the remains and cause them to be re-interred in such burial ground or cemetery in which burials may legally take place as the undertaker thinks suitable for the purpose; and, so far as possible, remains from individual graves must be reinterred in individual containers which must be identifiable[^c-425c5a91e0420ac105cb7b46095e3f30] by a record prepared with reference to the original position of burial of the remains that they contain.
 
 (9) If the undertaker is satisfied that any person giving notice under paragraph (4) is the personal representative or relative as that person claims to be and that the remains in question can be identified, but that person does not remove the remains, the undertaker must comply with any reasonable request that person may make in relation to the removal and re-interment or cremation of the remains.
 
@@ -62,11 +62,11 @@ subject to paragraph (9) the undertaker must remove the remains and cause them t
 
 (12) Any jurisdiction or function conferred on the county court by this article may be exercised by the district judge of the court.
 
-(13)[^key-eddad0b8c1029b53b77f7abf9ac4f171] Section 25 (offence of removal of body from burial ground) of the Burial Act 1857<sup> (a)[^key-d384914332accc115e44f63c377f7983] </sup> does not apply to a removal carried out in accordance with this article.
+(13)[^c-eddad0b8c1029b53b77f7abf9ac4f171] Section 25 (offence of removal of body from burial ground) of the Burial Act 1857<sup> (a)[^c-d384914332accc115e44f63c377f7983] </sup> does not apply to a removal carried out in accordance with this article.
 
-(14)[^key-25d441b7243177e70556833a0fc4d60b] Section 3 (burial not to take place after Order in Council for discontinuance) of the Burial Act 1853<sup> (b)[^key-753146aa4b3bdbf333ffe052320136a6] </sup> does not apply to a removal carried out in accordance with this article
+(14)[^c-25d441b7243177e70556833a0fc4d60b] Section 3 (burial not to take place after Order in Council for discontinuance) of the Burial Act 1853<sup> (b)[^c-753146aa4b3bdbf333ffe052320136a6] </sup> does not apply to a removal carried out in accordance with this article
 
-(15)[^key-6dd785233ec4f0090edf332952efa15c] In this article, “**the specified land**” means any land within the Order limits.
+(15)[^c-6dd785233ec4f0090edf332952efa15c] In this article, “**the specified land**” means any land within the Order limits.
 
 <sup>(a)</sup> 1857 c. 81. Section 25 was substituted by section 2 of the Church of England (Miscellaneous Provisions) Measure 2014 (No. 1) and amended by section 96(1) of, and paragraph 1 of Schedule 3 to, the Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)
 
@@ -74,16 +74,16 @@ subject to paragraph (9) the undertaker must remove the remains and cause them t
 
 ## Annotations
 
-[^key-1a607562adb07304ee782f1657bfbf60]: Commencement: Art. 41 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-1a607562adb07304ee782f1657bfbf60]: Commencement: Art. 41 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
 
-[^key-425c5a91e0420ac105cb7b46095e3f30]: Textual amendment: Words in [art. 41(8)](https://www.legislation.gov.uk/uksi/2025/362/article/41/8) substituted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
+[^c-425c5a91e0420ac105cb7b46095e3f30]: Textual amendment: Words in [art. 41(8)](https://www.legislation.gov.uk/uksi/2025/362/article/41/8) substituted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
 
-[^key-eddad0b8c1029b53b77f7abf9ac4f171]: Textual amendment: [Art. 41(13)](https://www.legislation.gov.uk/uksi/2025/362/article/41/13) inserted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
+[^c-eddad0b8c1029b53b77f7abf9ac4f171]: Textual amendment: [Art. 41(13)](https://www.legislation.gov.uk/uksi/2025/362/article/41/13) inserted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
 
-[^key-d384914332accc115e44f63c377f7983]: Textual amendment: Footnote in [art. 41(13)](https://www.legislation.gov.uk/uksi/2025/362/article/41/13) inserted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
+[^c-d384914332accc115e44f63c377f7983]: Textual amendment: Footnote in [art. 41(13)](https://www.legislation.gov.uk/uksi/2025/362/article/41/13) inserted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
 
-[^key-25d441b7243177e70556833a0fc4d60b]: Textual amendment: [Art. 41(14)](https://www.legislation.gov.uk/uksi/2025/362/article/41/14) inserted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
+[^c-25d441b7243177e70556833a0fc4d60b]: Textual amendment: [Art. 41(14)](https://www.legislation.gov.uk/uksi/2025/362/article/41/14) inserted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
 
-[^key-753146aa4b3bdbf333ffe052320136a6]: Textual amendment: Footnote in [art. 41(14)](https://www.legislation.gov.uk/uksi/2025/362/article/41/14) inserted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
+[^c-753146aa4b3bdbf333ffe052320136a6]: Textual amendment: Footnote in [art. 41(14)](https://www.legislation.gov.uk/uksi/2025/362/article/41/14) inserted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
 
-[^key-6dd785233ec4f0090edf332952efa15c]: Textual amendment: Art. 41(13) renumbered as art. 41(15) (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
+[^c-6dd785233ec4f0090edf332952efa15c]: Textual amendment: Art. 41(13) renumbered as art. 41(15) (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)

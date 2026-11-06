@@ -36,7 +36,7 @@ If the sum is more than sufficient to discharge his liability to income tax in r
 - (c) if the amount is more than sufficient to discharge the sub-contractor’s relevant liabilities, the excess may be treated, in accordance with the regulations, as being corporation tax paid in respect of the sub-contractor’s relevant profits; and
 - (d) regulations must provide for the repayment to the sub-contractor of any amount not required for the purposes mentioned in paragraphs (b) and (c).
 
-(3A)[^key-10b8339d5cd957ee5d7fa8defdc887de] Regulations under subsection (3) may include provision authorising an officer of Revenue and Customs to—
+(3A)[^c-10b8339d5cd957ee5d7fa8defdc887de] Regulations under subsection (3) may include provision authorising an officer of Revenue and Customs to—
 
 - (a) correct an error or omission relating to a set-off claim;
 - (b) remove a set-off claim;
@@ -50,7 +50,7 @@ If the sum is more than sufficient to discharge his liability to income tax in r
 
 (3C) In subsections (3A) and (3B), “**set-off claim**” means a claim for treating a sum deducted under section 61 as paid on account of any relevant liabilities.
 
-(4) For the purposes of this section[^key-40d93fcf61a0abfb5d363c3e79c1800b] the “**relevant liabilities**”of a sub-contractor are any liabilities of the sub-contractor, whether arising before or after the deduction is made, to make a payment to the Inland Revenue in pursuance of an obligation as an employer or contractor.
+(4) For the purposes of this section[^c-40d93fcf61a0abfb5d363c3e79c1800b] the “**relevant liabilities**”of a sub-contractor are any liabilities of the sub-contractor, whether arising before or after the deduction is made, to make a payment to the Inland Revenue in pursuance of an obligation as an employer or contractor.
 
 (5) In this section—
 
@@ -64,6 +64,6 @@ If the sum is more than sufficient to discharge his liability to income tax in r
 
 ## Annotations
 
-[^key-10b8339d5cd957ee5d7fa8defdc887de]: Textual amendment: [S. 62(3A)-(3C)](https://www.legislation.gov.uk/ukpga/2004/12/section/62/3A) inserted (6.4.2021 for the tax year 2021-22 and subsequent tax years) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 6 para. 6(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/6/paragraph/6/2)
+[^c-10b8339d5cd957ee5d7fa8defdc887de]: Textual amendment: [S. 62(3A)-(3C)](https://www.legislation.gov.uk/ukpga/2004/12/section/62/3A) inserted (6.4.2021 for the tax year 2021-22 and subsequent tax years) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 6 para. 6(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/6/paragraph/6/2)
 
-[^key-40d93fcf61a0abfb5d363c3e79c1800b]: Textual amendment: Words in [s. 62(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/62/4) substituted (6.4.2021 for the tax year 2021-22 and subsequent tax years) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 6 para. 6(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/6/paragraph/6/3)
+[^c-40d93fcf61a0abfb5d363c3e79c1800b]: Textual amendment: Words in [s. 62(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/62/4) substituted (6.4.2021 for the tax year 2021-22 and subsequent tax years) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 6 para. 6(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/6/paragraph/6/3)

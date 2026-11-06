@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The Rural Development Programmes (Wales) (Amendment) Regulations 2009 (revoked)[^key-4302d70bb56effa718e795bf729e94ab]
+The Rural Development Programmes (Wales) (Amendment) Regulations 2009 (revoked)[^c-4302d70bb56effa718e795bf729e94ab]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1 January 2010
 
-[^key-4302d70bb56effa718e795bf729e94ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4302d70bb56effa718e795bf729e94ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-4302d70bb56effa718e795bf729e94ab]
+## 1. Title, application and commencement[^c-4302d70bb56effa718e795bf729e94ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Rural Development Programmes (Wales) Regulations 2006[^key-4302d70bb56effa718e795bf729e94ab]
+## 2. Amendments to the Rural Development Programmes (Wales) Regulations 2006[^c-4302d70bb56effa718e795bf729e94ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4302d70bb56effa718e795bf729e94ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4302d70bb56effa718e795bf729e94ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4302d70bb56effa718e795bf729e94ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4302d70bb56effa718e795bf729e94ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4302d70bb56effa718e795bf729e94ab]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014 (S.I. 2014/3223)](https://www.legislation.gov.uk/wsi/2014/3223), reg. 1(3), [Sch. 3](https://www.legislation.gov.uk/wsi/2014/3223/schedule/3)
+[^c-4302d70bb56effa718e795bf729e94ab]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014 (S.I. 2014/3223)](https://www.legislation.gov.uk/wsi/2014/3223), reg. 1(3), [Sch. 3](https://www.legislation.gov.uk/wsi/2014/3223/schedule/3)

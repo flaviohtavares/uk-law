@@ -45,7 +45,7 @@ summary: ''
 - (a) shall be made by statutory instrument; and
 - (b) shall not be made unless a draft has been laid before and approved by resolution of the House of Commons.
 
-(4A)[^key-de16a85dfc4eed9d96088313a851032a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-de16a85dfc4eed9d96088313a851032a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4B)[^M_F_726b61ed-be4f-4d2a-8088-959464a538e7] The powers to make regulations under sections 78F, 78Q and 78U are exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979.
 
@@ -72,7 +72,7 @@ summary: ''
 
 [^c20116941]: Textual amendment: S. 96(2A)-(2D) inserted (15.5.2003) by [Northern Ireland Assembly (Elections and Periods of Suspension) Act 2003 (c. 12)](https://www.legislation.gov.uk/ukpga/2003/12), [s. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2003/12/section/1/3/b)
 
-[^key-de16a85dfc4eed9d96088313a851032a]: Textual amendment: [S. 96(4A)](https://www.legislation.gov.uk/ukpga/1998/47/section/96/4A) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2022/357/regulation/3/5)
+[^c-de16a85dfc4eed9d96088313a851032a]: Textual amendment: [S. 96(4A)](https://www.legislation.gov.uk/ukpga/1998/47/section/96/4A) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2022/357/regulation/3/5)
 
 [^M_F_726b61ed-be4f-4d2a-8088-959464a538e7]: Textual amendment: S. 96(4B)(4C) inserted (6.12.2022) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/9/1), [10(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/1)
 

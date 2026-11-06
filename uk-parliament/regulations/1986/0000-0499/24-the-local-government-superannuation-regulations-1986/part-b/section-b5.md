@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## B5. Treatment of certain additional duties[^key-3d3b121784b5cdb0b0b27645dd7f29f6]
+## B5. Treatment of certain additional duties[^c-3d3b121784b5cdb0b0b27645dd7f29f6]
 
 *Extent: E+W+S*
 
@@ -40,6 +40,6 @@ a separate variable-time employment with a scheduled body other than the body wi
 
 ## Annotations
 
-[^key-3d3b121784b5cdb0b0b27645dd7f29f6]: Commencement: [Reg. B5](https://www.legislation.gov.uk/uksi/1986/24/regulation/B5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-3d3b121784b5cdb0b0b27645dd7f29f6]: Commencement: [Reg. B5](https://www.legislation.gov.uk/uksi/1986/24/regulation/B5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00025]: Footnote: [1978 c.10](https://www.legislation.gov.uk/ukpga/1978/10).

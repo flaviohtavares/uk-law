@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Advice to adoption panels in adoptions with a foreign element[^key-5887cb54b03fbd74d66f463982ca4e94]
+## 9. Advice to adoption panels in adoptions with a foreign element[^c-5887cb54b03fbd74d66f463982ca4e94]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The adoption agency must ensure that adoption panels are properly advised by an 
 
 ## Annotations
 
-[^key-5887cb54b03fbd74d66f463982ca4e94]: Textual amendment: Regs. 3-9 substituted (1.4.2014) by [The Adoption Agencies (Wales) (Amendment) Regulations 2014 (S.I. 2014/567)](https://www.legislation.gov.uk/wsi/2014/567), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/567/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2014/567/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/567/regulation/3))
+[^c-5887cb54b03fbd74d66f463982ca4e94]: Textual amendment: Regs. 3-9 substituted (1.4.2014) by [The Adoption Agencies (Wales) (Amendment) Regulations 2014 (S.I. 2014/567)](https://www.legislation.gov.uk/wsi/2014/567), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/567/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2014/567/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/567/regulation/3))

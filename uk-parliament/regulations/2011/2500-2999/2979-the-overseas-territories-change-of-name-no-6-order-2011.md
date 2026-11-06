@@ -54,11 +54,11 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred upon Her by section 66 of the Civil Aviation Act 1949[^f00001], section 8(1) of the Civil Aviation Act 1949 as extended to certain territories by the Civil Aviation Act 1949 (Overseas Territories) Order 1969[^f00002], sections 8, 41, 57, 58, 59 and 61 of the Civil Aviation Act 1949 as extended to certain territories by the Civil Aviation Act 1949 (Overseas Territories) Order 1969, as amended by the Civil Aviation Act 1982 (Overseas Territories) Order 2001[^f00003], section 61 of the Civil Aviation Act 1982[^f00004] as extended to certain territories by the Civil Aviation Act 1982 (Overseas Territories) Order 2001, section 66 of the Civil Aviation Act 1971[^f00005], and section 108 of the Civil Aviation Act 1982, is pleased, by and with the advice of Her Privy Council, to order, and it is ordered, as follows:
 
-## 1. Citation and commencement[^key-5489724291ec363bf600eaf175691401]
+## 1. Citation and commencement[^c-5489724291ec363bf600eaf175691401]
 
 This Order may be cited as the Overseas Territories (Change of Name) (No. 6) Order 2011 and shall come into force on 14th January 2012.
 
-## 2. Amendment of certain instruments[^key-a7f94a426c7ab8a39a88c67dfc706817]
+## 2. Amendment of certain instruments[^c-a7f94a426c7ab8a39a88c67dfc706817]
 
 (1) Schedule 12 to the Air Navigation (Overseas Territories) Order 2007[^f00006] is amended by substituting for the words “St Helena and Dependencies” the words “St Helena, Ascension and Tristan da Cunha”.
 
@@ -94,9 +94,9 @@ This Order amends certain statutory instruments relating to civil aviation to re
 
 [^f00005]: Footnote: [1971 c.75](https://www.legislation.gov.uk/ukpga/1971/75).
 
-[^key-5489724291ec363bf600eaf175691401]: Commencement: Art. 1 in force at 14.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2979/article/1)
+[^c-5489724291ec363bf600eaf175691401]: Commencement: Art. 1 in force at 14.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2979/article/1)
 
-[^key-a7f94a426c7ab8a39a88c67dfc706817]: Commencement: Art. 2 in force at 14.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2979/article/1)
+[^c-a7f94a426c7ab8a39a88c67dfc706817]: Commencement: Art. 2 in force at 14.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2979/article/1)
 
 [^f00006]: Footnote: [S.I 2007/3468](https://www.legislation.gov.uk/uksi/2007/3468).
 

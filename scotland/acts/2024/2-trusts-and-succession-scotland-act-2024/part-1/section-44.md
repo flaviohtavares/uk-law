@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Validity of certain deeds and other documents bearing to be executed by trustees[^key-c610bb6377e1255a74681a4cc15ad066]
+## 44. Validity of certain deeds and other documents bearing to be executed by trustees[^c-c610bb6377e1255a74681a4cc15ad066]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c610bb6377e1255a74681a4cc15ad066]: Commencement: S. 44 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-c610bb6377e1255a74681a4cc15ad066]: Commencement: S. 44 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

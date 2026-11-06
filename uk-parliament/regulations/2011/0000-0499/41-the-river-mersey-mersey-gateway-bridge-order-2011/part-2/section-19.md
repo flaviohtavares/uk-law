@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Protection of the new crossing, etc.[^key-4c3845b7baf037ba7940ccb12f8f9493]
+## 19. Protection of the new crossing, etc.[^c-4c3845b7baf037ba7940ccb12f8f9493]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ and to the extent that any activity within sub-paragraph (a) or (b) affects a na
 
 ## Annotations
 
-[^key-4c3845b7baf037ba7940ccb12f8f9493]: Commencement: Art. 19 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-4c3845b7baf037ba7940ccb12f8f9493]: Commencement: Art. 19 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

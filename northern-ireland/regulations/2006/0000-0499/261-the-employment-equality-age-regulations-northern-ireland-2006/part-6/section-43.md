@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Remedies on complaints in industrial tribunals[^key-74099d5b051f39ba34819f20aeed25a3]
+## 43. Remedies on complaints in industrial tribunals[^c-74099d5b051f39ba34819f20aeed25a3]
 
 *Extent: N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74099d5b051f39ba34819f20aeed25a3]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2006/261/regulation/43) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-74099d5b051f39ba34819f20aeed25a3]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2006/261/regulation/43) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00033]: Footnote: [S.R. 2006 No. 262](https://www.legislation.gov.uk/nisr/2006/262)

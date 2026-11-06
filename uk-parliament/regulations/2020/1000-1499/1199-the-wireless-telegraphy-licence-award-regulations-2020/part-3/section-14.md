@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Determination of number of bidders[^key-cf0eed654bf478b8bc6c97988c173ea3]
+## 14. Determination of number of bidders[^c-cf0eed654bf478b8bc6c97988c173ea3]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf0eed654bf478b8bc6c97988c173ea3]: Commencement: Reg. 14 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-cf0eed654bf478b8bc6c97988c173ea3]: Commencement: Reg. 14 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

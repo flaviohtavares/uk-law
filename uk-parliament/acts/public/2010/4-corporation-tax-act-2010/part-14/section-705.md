@@ -26,7 +26,7 @@ summary: ''
 - (b) the company is not a company with investment business, and
 - (c) condition A or B is met.
 
-(2) Condition A is that within any period of 5[^key-217074030fd5760e8e06926b4c2d14c7] years in which the change in ownership occurs there is a major change in the nature or conduct of a trade or overseas property business carried on by the company.
+(2) Condition A is that within any period of 5[^c-217074030fd5760e8e06926b4c2d14c7] years in which the change in ownership occurs there is a major change in the nature or conduct of a trade or overseas property business carried on by the company.
 
 (3) Condition B is that the change in ownership occurs at any time after the scale of the activities in a trade or overseas property business carried on by the company has become small or negligible and before any significant revival of the trade or business.
 
@@ -45,10 +45,10 @@ summary: ''
 - (a) a major change in the type of property dealt in, or services or facilities provided in, the trade or business, or
 - (b) a major change in customers, outlets or markets of the trade or business.
 
-This section applies even if the change is the result of a gradual process which began before the period of 5[^key-c461f8b96fc716db032c912bfe38d792] years mentioned in subsection (2).
+This section applies even if the change is the result of a gradual process which began before the period of 5[^c-c461f8b96fc716db032c912bfe38d792] years mentioned in subsection (2).
 
 ## Annotations
 
-[^key-217074030fd5760e8e06926b4c2d14c7]: Textual amendment: Word in [s. 705(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/705/2) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 88(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/88/2) (with [Sch. 4 para. 88(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/88/4))
+[^c-217074030fd5760e8e06926b4c2d14c7]: Textual amendment: Word in [s. 705(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/705/2) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 88(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/88/2) (with [Sch. 4 para. 88(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/88/4))
 
-[^key-c461f8b96fc716db032c912bfe38d792]: Textual amendment: Word in [s. 705(9)](https://www.legislation.gov.uk/ukpga/2010/4/section/705/9) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 88(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/88/3) (with [Sch. 4 para. 88(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/88/4))
+[^c-c461f8b96fc716db032c912bfe38d792]: Textual amendment: Word in [s. 705(9)](https://www.legislation.gov.uk/ukpga/2010/4/section/705/9) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 88(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/88/3) (with [Sch. 4 para. 88(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/88/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Power to use personal data to check identity[^key-3dd2a84bf15ab7dd8158a1c4efd91996][^key-89fe5069caea19c71e589fbb6ac19f29]
+## 58. Power to use personal data to check identity[^c-3dd2a84bf15ab7dd8158a1c4efd91996][^c-89fe5069caea19c71e589fbb6ac19f29]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3dd2a84bf15ab7dd8158a1c4efd91996]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2020/13/section/58) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-3dd2a84bf15ab7dd8158a1c4efd91996]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2020/13/section/58) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
 
-[^key-89fe5069caea19c71e589fbb6ac19f29]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2020/13/section/58) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-89fe5069caea19c71e589fbb6ac19f29]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2020/13/section/58) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

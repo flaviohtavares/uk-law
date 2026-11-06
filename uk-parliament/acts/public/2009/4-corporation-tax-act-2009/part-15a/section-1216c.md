@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1216C. Availability and overview of television tax relief[^key-d270a9585cd06681b6121dd8d870fc26]
+## 1216C. Availability and overview of television tax relief[^c-d270a9585cd06681b6121dd8d870fc26]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,8 +35,8 @@ summary: ''
 
 (4) But television tax relief is not available in respect of any expenditure if—
 
-- (a) the company is entitled to an R&D expenditure credit under Chapter[^key-998266c3cf043b615b7c7958dec9c2ab] 1A of Part 13 in respect of the expenditure, or
-- (b) the company has obtained relief under Chapter 2 of Part 13 (relief for loss-making, R&D-intensive SMEs)[^key-d709194f2a4109253c427f2e648cca80] in respect of the expenditure.
+- (a) the company is entitled to an R&D expenditure credit under Chapter[^c-998266c3cf043b615b7c7958dec9c2ab] 1A of Part 13 in respect of the expenditure, or
+- (b) the company has obtained relief under Chapter 2 of Part 13 (relief for loss-making, R&D-intensive SMEs)[^c-d709194f2a4109253c427f2e648cca80] in respect of the expenditure.
 
 (5) Sections 1216CK to 1216CN contain provision about unpaid costs, artificially inflated claims and confidentiality of information.
 
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d270a9585cd06681b6121dd8d870fc26]: Textual amendment: Pt. 15A inserted (17.7.2013 for specified purposes, 19.7.2013 in so far as not already in force, and with effect in accordance with Sch. 16 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 16 paras. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/16/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/16/paragraph/2); [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/1)
+[^c-d270a9585cd06681b6121dd8d870fc26]: Textual amendment: Pt. 15A inserted (17.7.2013 for specified purposes, 19.7.2013 in so far as not already in force, and with effect in accordance with Sch. 16 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 16 paras. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/16/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/16/paragraph/2); [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/1)
 
-[^key-998266c3cf043b615b7c7958dec9c2ab]: Textual amendment: Words in [s. 1216C(4)(a)](https://www.legislation.gov.uk/ukpga/2009/4/section/1216C/4/a) substituted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 12(4)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/12/4/a), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)
+[^c-998266c3cf043b615b7c7958dec9c2ab]: Textual amendment: Words in [s. 1216C(4)(a)](https://www.legislation.gov.uk/ukpga/2009/4/section/1216C/4/a) substituted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 12(4)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/12/4/a), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)
 
-[^key-d709194f2a4109253c427f2e648cca80]: Textual amendment: Words in [s. 1216C(4)(b)](https://www.legislation.gov.uk/ukpga/2009/4/section/1216C/4/b) substituted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 12(4)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/12/4/b), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)
+[^c-d709194f2a4109253c427f2e648cca80]: Textual amendment: Words in [s. 1216C(4)(b)](https://www.legislation.gov.uk/ukpga/2009/4/section/1216C/4/b) substituted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 12(4)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/12/4/b), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)

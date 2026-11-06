@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Green deal plans[^key-31db839e71568b5d7ccb396d5c704f21][^key-3e480c24afb6059ff01ac757a5e00a82]
+## 1. Green deal plans[^c-31db839e71568b5d7ccb396d5c704f21][^c-3e480c24afb6059ff01ac757a5e00a82]
 
 *Extent: E+W+S*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-31db839e71568b5d7ccb396d5c704f21]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2011/16/section/1) in force at 21.3.2012 for specified purposes by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2012/873/article/3/1/a)[(2)](https://www.legislation.gov.uk/uksi/2012/873/article/3/2)
+[^c-31db839e71568b5d7ccb396d5c704f21]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2011/16/section/1) in force at 21.3.2012 for specified purposes by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2012/873/article/3/1/a)[(2)](https://www.legislation.gov.uk/uksi/2012/873/article/3/2)
 
-[^key-3e480c24afb6059ff01ac757a5e00a82]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2011/16/section/1) in force at 28.1.2013 in so far as not already in force by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/125/article/2/a)
+[^c-3e480c24afb6059ff01ac757a5e00a82]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2011/16/section/1) in force at 28.1.2013 in so far as not already in force by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/125/article/2/a)

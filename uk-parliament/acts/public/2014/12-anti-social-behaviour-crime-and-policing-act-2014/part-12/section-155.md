@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Date of extradition hearing[^key-305efe42bbc179f30a803447fedddca8]
+## 155. Date of extradition hearing[^c-305efe42bbc179f30a803447fedddca8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ In section 8 of the Extradition Act 2003 (date of extradition hearing etc: extra
 
 ## Annotations
 
-[^key-305efe42bbc179f30a803447fedddca8]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2014/12/section/155) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/b)
+[^c-305efe42bbc179f30a803447fedddca8]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2014/12/section/155) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/b)

@@ -24,9 +24,9 @@ Regulation 36(5)
 
 ### PART 1 — Modifications
 
-**1.**[^key-f296c1a072eebbf9ae6ace44505c9a08] The provisions specified in paragraphs 2 to 8 apply in relation to investigations under regulation 36 with the modifications specified in those paragraphs.
+**1.**[^c-f296c1a072eebbf9ae6ace44505c9a08] The provisions specified in paragraphs 2 to 8 apply in relation to investigations under regulation 36 with the modifications specified in those paragraphs.
 
-#### 2. Application of the Criminal Justice and Public Order Act 1994[^key-d26c3e79bc588cf7c547f569a262fa28]
+#### 2. Application of the Criminal Justice and Public Order Act 1994[^c-d26c3e79bc588cf7c547f569a262fa28]
 
 (1) Sections 34 to 38 of the Criminal Justice and Public Order Act 1994[^f00018], as modified by the provisions of the Criminal Justice and Public Order Act 1994 (Application to the Armed Forces) Order 2009[^f00019], apply in relation to such investigations with the following modifications.
 
@@ -37,13 +37,13 @@ Regulation 36(5)
 - (a) a service policeman is to be read as a reference to a person designated under regulation 36(2) of these Regulations;
 - (b) an authorised place of detention is to be read as a reference to premises used for the purposes of the functions of the Service Police Complaints Commissioner.
 
-#### 3. Application of Part 3 and 4 of the Armed Forces Act 2006[^key-fa9fa7d956e4086850301eff1ebf4597]
+#### 3. Application of Part 3 and 4 of the Armed Forces Act 2006[^c-fa9fa7d956e4086850301eff1ebf4597]
 
 (1) Parts 3 and 4 of the 2006 Act apply in relation to such investigations with the following modification.
 
 (2) Any reference in those Parts to a service policeman is to be read as a reference to a person designated under regulation 36(2) of these Regulations.
 
-#### 4. Application of the Criminal Procedure and Investigations Act 1996 (Code of Practice) (Armed Forces) Order 2009[^key-b0bba101150fa542b8d49ea631cb67eb]
+#### 4. Application of the Criminal Procedure and Investigations Act 1996 (Code of Practice) (Armed Forces) Order 2009[^c-b0bba101150fa542b8d49ea631cb67eb]
 
 (1) The Criminal Procedure and Investigations Act 1996 (Code of Practice) (Armed Forces) Order 2009[^f00020] applies in relation to such investigations with the following modifications.
 
@@ -71,7 +71,7 @@ Regulation 36(5)
   were references to the Service Police Complaints Commissioner;
 - (d) in paragraph 3(7), for “either his officer commanding or the officer in charge of service investigations for the service police force concerned, or, as the case may be, the tri-service serious crime unit” there were submitted “the Service Police Complaints Commissioner”.
 
-#### 5. Application of the Police and Criminal Evidence Act 1984 (Armed Forces) Order 2009[^key-8a60c6604b2baff5548704d5b102ba6b]
+#### 5. Application of the Police and Criminal Evidence Act 1984 (Armed Forces) Order 2009[^c-8a60c6604b2baff5548704d5b102ba6b]
 
 (1) The Police and Criminal Evidence Act 1984 (Armed Forces) Order 2009[^f00021] applies in relation to such investigations with the following modifications.
 
@@ -104,18 +104,18 @@ Regulation 36(5)
 
 (5) Article 15J is to be read as if any reference to a service police force or the tri-service serious crime unit were references to the Service Police Complaints Commissioner.
 
-#### 6. Application of the Armed Forces (Disposal of Property) Regulations 2023[^key-0adf744db9c5099904304c759079f640][^key-f68716700e743a82642fe2ead1895063]
+#### 6. Application of the Armed Forces (Disposal of Property) Regulations 2023[^c-0adf744db9c5099904304c759079f640][^c-f68716700e743a82642fe2ead1895063]
 
-(1) The Armed Forces (Disposal of Property) Regulations 2023[^key-3d6fd6991dd15cd2575b75e3c169876b] apply in relation to such investigations with the following modifications.
+(1) The Armed Forces (Disposal of Property) Regulations 2023[^c-3d6fd6991dd15cd2575b75e3c169876b] apply in relation to such investigations with the following modifications.
 
-(2)[^key-9be05760f5a290d6c9ddd3a3b7b409f7] Regulation 2 of those Regulations is to be read as if the definition of “service police” was omitted.
+(2)[^c-9be05760f5a290d6c9ddd3a3b7b409f7] Regulation 2 of those Regulations is to be read as if the definition of “service police” was omitted.
 
 (3) Any reference in those Regulations to—
 
 - (a) a service policeman, is to be read as a reference to a person designated under regulation 36(2) of these Regulations;
 - (b) the service police is to be read as a reference to the Service Police Complaints Commissioner.
 
-#### 7. Application of the Armed Forces (Powers of Stop and Search, Search, Seizure and Retention) Order 2009[^key-8fcdaf9aed60a275918088b604287708]
+#### 7. Application of the Armed Forces (Powers of Stop and Search, Search, Seizure and Retention) Order 2009[^c-8fcdaf9aed60a275918088b604287708]
 
 (1) The Armed Forces (Powers of Stop and Search, Search, Seizure and Retention) Order 2009[^f00023] applies in relation to such investigations with the following modifications.
 
@@ -136,7 +136,7 @@ Regulation 36(5)
 
 (6) That Order is to be read as if any reference to a person’s rank or rate, or to the name of a person’s unit or to its address and telephone number, were omitted.
 
-#### 8. Application of the Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021[^key-3de384a7397ad487d4c8c08191b65cb6]
+#### 8. Application of the Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021[^c-3de384a7397ad487d4c8c08191b65cb6]
 
 (1) The Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021[^f00024] applies in relation to the Service Police Complaints Commissioner’s functions under these Regulations in relation to such investigations with the following modifications.
 
@@ -146,7 +146,7 @@ Regulation 36(5)
 
 ### PART 2 — Consequential Amendments
 
-#### 9. Amendment of the Police Act 1997[^key-3c870f7d30c392506985bf3e2795f98c]
+#### 9. Amendment of the Police Act 1997[^c-3c870f7d30c392506985bf3e2795f98c]
 
 (1) Part 3 of the Police Act 1997[^f00025] is amended as follows.
 
@@ -175,7 +175,7 @@ Regulation 36(5)
 
 .
 
-#### 10. Amendment of the Regulation of Investigatory Powers Act 2000[^key-1c91c18c88dbe4b9f19f6a1647b54299]
+#### 10. Amendment of the Regulation of Investigatory Powers Act 2000[^c-1c91c18c88dbe4b9f19f6a1647b54299]
 
 (1) Parts 2 and 4 of the Regulation of Investigatory Powers Act 2000[^f00026] are amended as follows.
 
@@ -279,7 +279,7 @@ Regulation 36(5)
 
 .
 
-#### 11. Amendment of the Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) Order 2010[^key-9ecd84294f3d42e490583af4d3cce8b6]
+#### 11. Amendment of the Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) Order 2010[^c-9ecd84294f3d42e490583af4d3cce8b6]
 
 (1) The Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) Order 2010[^f00033] is amended as follows.
 
@@ -291,45 +291,45 @@ Regulation 36(5)
 
 ## Annotations
 
-[^key-f296c1a072eebbf9ae6ace44505c9a08]: Commencement: Sch. 1 para. 1 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-f296c1a072eebbf9ae6ace44505c9a08]: Commencement: Sch. 1 para. 1 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
 
-[^key-d26c3e79bc588cf7c547f569a262fa28]: Commencement: Sch. 1 para. 2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-d26c3e79bc588cf7c547f569a262fa28]: Commencement: Sch. 1 para. 2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
 
 [^f00018]: Footnote: [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33).
 
 [^f00019]: Footnote: [S.I. 2009/990](https://www.legislation.gov.uk/uksi/2009/990). Sections 34 to 38 of the 1994 Act are modified by Article 2 of, and Schedule 1 and 2 to the Order.
 
-[^key-fa9fa7d956e4086850301eff1ebf4597]: Commencement: Sch. 1 para. 3 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-fa9fa7d956e4086850301eff1ebf4597]: Commencement: Sch. 1 para. 3 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
 
-[^key-b0bba101150fa542b8d49ea631cb67eb]: Commencement: Sch. 1 para. 4 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-b0bba101150fa542b8d49ea631cb67eb]: Commencement: Sch. 1 para. 4 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
 
 [^f00020]: Footnote: [S.I. 2009/989](https://www.legislation.gov.uk/uksi/2009/989), amended by [S.I. 2018/682](https://www.legislation.gov.uk/uksi/2018/682) and [2022/1051](https://www.legislation.gov.uk/uksi/2022/1051).
 
-[^key-8a60c6604b2baff5548704d5b102ba6b]: Commencement: Sch. 1 para. 5 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-8a60c6604b2baff5548704d5b102ba6b]: Commencement: Sch. 1 para. 5 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
 
 [^f00021]: Footnote: [S.I. 2009/1922](https://www.legislation.gov.uk/uksi/2009/1922), amended by [S.I. 2013/2554](https://www.legislation.gov.uk/uksi/2013/2554) and [2022/1051](https://www.legislation.gov.uk/uksi/2022/1051).
 
-[^key-0adf744db9c5099904304c759079f640]: Commencement: Sch. 1 para. 6 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-0adf744db9c5099904304c759079f640]: Commencement: Sch. 1 para. 6 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
 
-[^key-f68716700e743a82642fe2ead1895063]: Textual amendment: Words in Sch. 1 para. 6 heading substituted (22.11.2023) by [The Armed Forces (Disposal of Property) Regulations 2023 (S.I. 2023/1152)](https://www.legislation.gov.uk/uksi/2023/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2), [11(3)(a)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/11/3/a)
+[^c-f68716700e743a82642fe2ead1895063]: Textual amendment: Words in Sch. 1 para. 6 heading substituted (22.11.2023) by [The Armed Forces (Disposal of Property) Regulations 2023 (S.I. 2023/1152)](https://www.legislation.gov.uk/uksi/2023/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2), [11(3)(a)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/11/3/a)
 
-[^key-3d6fd6991dd15cd2575b75e3c169876b]: Textual amendment: Words in Sch. 1 para. 6(1) substituted (22.11.2023) by [The Armed Forces (Disposal of Property) Regulations 2023 (S.I. 2023/1152)](https://www.legislation.gov.uk/uksi/2023/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2), [11(3)(a)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/11/3/a)
+[^c-3d6fd6991dd15cd2575b75e3c169876b]: Textual amendment: Words in Sch. 1 para. 6(1) substituted (22.11.2023) by [The Armed Forces (Disposal of Property) Regulations 2023 (S.I. 2023/1152)](https://www.legislation.gov.uk/uksi/2023/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2), [11(3)(a)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/11/3/a)
 
-[^key-9be05760f5a290d6c9ddd3a3b7b409f7]: Textual amendment: Sch. 1 para. 6(2) substituted (22.11.2023) by [The Armed Forces (Disposal of Property) Regulations 2023 (S.I. 2023/1152)](https://www.legislation.gov.uk/uksi/2023/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2), [11(3)(b)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/11/3/b)
+[^c-9be05760f5a290d6c9ddd3a3b7b409f7]: Textual amendment: Sch. 1 para. 6(2) substituted (22.11.2023) by [The Armed Forces (Disposal of Property) Regulations 2023 (S.I. 2023/1152)](https://www.legislation.gov.uk/uksi/2023/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2), [11(3)(b)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/11/3/b)
 
-[^key-8fcdaf9aed60a275918088b604287708]: Commencement: Sch. 1 para. 7 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-8fcdaf9aed60a275918088b604287708]: Commencement: Sch. 1 para. 7 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
 
 [^f00023]: Footnote: [S.I. 2009/2056](https://www.legislation.gov.uk/uksi/2009/2056), amended by [S.I. 2012/2919](https://www.legislation.gov.uk/uksi/2012/2919) and [2014/934](https://www.legislation.gov.uk/uksi/2014/934).
 
-[^key-3de384a7397ad487d4c8c08191b65cb6]: Commencement: Sch. 1 para. 8 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-3de384a7397ad487d4c8c08191b65cb6]: Commencement: Sch. 1 para. 8 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
 
 [^f00024]: Footnote: [2021 asp 3](https://www.legislation.gov.uk/asp/2021/3).
 
-[^key-3c870f7d30c392506985bf3e2795f98c]: Commencement: Sch. 1 para. 9 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-3c870f7d30c392506985bf3e2795f98c]: Commencement: Sch. 1 para. 9 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
 
 [^f00025]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
 
-[^key-1c91c18c88dbe4b9f19f6a1647b54299]: Commencement: Sch. 1 para. 10 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-1c91c18c88dbe4b9f19f6a1647b54299]: Commencement: Sch. 1 para. 10 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
 
 [^f00026]: Footnote: [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23).
 
@@ -345,6 +345,6 @@ Regulation 36(5)
 
 [^f00032]: Footnote: Section 36(6) is amended by section 12 of, and paragraph 18(3)(a) of Schedule 5 to, the 2021 Act; there are other amendments not relevant to these Regulations.
 
-[^key-9ecd84294f3d42e490583af4d3cce8b6]: Commencement: Sch. 1 para. 11 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-9ecd84294f3d42e490583af4d3cce8b6]: Commencement: Sch. 1 para. 11 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
 
 [^f00033]: Footnote: [S.I. 2010/521](https://www.legislation.gov.uk/uksi/2010/521).

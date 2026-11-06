@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Police officer’s injury award[^key-d22309a52895303d627a827b540a581a]
+## 10. Police officer’s injury award[^c-d22309a52895303d627a827b540a581a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d22309a52895303d627a827b540a581a]: Commencement: Reg. 10 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-d22309a52895303d627a827b540a581a]: Commencement: Reg. 10 in operation at 25.7.2006 with effect in accordance with reg. 1

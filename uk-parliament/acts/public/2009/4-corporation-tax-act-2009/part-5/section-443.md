@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 443. Restriction of relief for interest where tax relief schemes involved[^key-3ed3b1a7bfd78b3b79ae927024207477]
+## 443. Restriction of relief for interest where tax relief schemes involved[^c-3ed3b1a7bfd78b3b79ae927024207477]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ed3b1a7bfd78b3b79ae927024207477]: Textual amendment: S. 443 omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 48](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/48)
+[^c-3ed3b1a7bfd78b3b79ae927024207477]: Textual amendment: S. 443 omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 48](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/48)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Application of law of wreck and salvage to aircraft.[^key-ac80066a61999d155e9bf9c522794739][^key-b55945888baea8f45c9e620e474bd942]
+## 87. Application of law of wreck and salvage to aircraft.[^c-ac80066a61999d155e9bf9c522794739][^c-b55945888baea8f45c9e620e474bd942]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,8 +35,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ac80066a61999d155e9bf9c522794739]: Modification: [S. 87](https://www.legislation.gov.uk/ukpga/1982/16/section/87) extended (Anguilla) (with modifications) (8.5.2019) by [The Civil Aviation Act 1982 (Anguilla) Order 2019 (S.I. 2019/756)](https://www.legislation.gov.uk/uksi/2019/756), [arts. 1](https://www.legislation.gov.uk/uksi/2019/756/article/1), [2](https://www.legislation.gov.uk/uksi/2019/756/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/756/schedule)
+[^c-ac80066a61999d155e9bf9c522794739]: Modification: [S. 87](https://www.legislation.gov.uk/ukpga/1982/16/section/87) extended (Anguilla) (with modifications) (8.5.2019) by [The Civil Aviation Act 1982 (Anguilla) Order 2019 (S.I. 2019/756)](https://www.legislation.gov.uk/uksi/2019/756), [arts. 1](https://www.legislation.gov.uk/uksi/2019/756/article/1), [2](https://www.legislation.gov.uk/uksi/2019/756/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/756/schedule)
 
-[^key-b55945888baea8f45c9e620e474bd942]: Modification: [S. 87](https://www.legislation.gov.uk/ukpga/1982/16/section/87) extended (overseas territories) (with modifications) (26.5.2021) by [The Civil Aviation Act 1982 (Overseas Territories) Order 2021 (S.I. 2021/477)](https://www.legislation.gov.uk/uksi/2021/477), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/477/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/477/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/477/schedule)
+[^c-b55945888baea8f45c9e620e474bd942]: Modification: [S. 87](https://www.legislation.gov.uk/ukpga/1982/16/section/87) extended (overseas territories) (with modifications) (26.5.2021) by [The Civil Aviation Act 1982 (Overseas Territories) Order 2021 (S.I. 2021/477)](https://www.legislation.gov.uk/uksi/2021/477), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/477/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/477/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/477/schedule)
 
 [^c2542441]: Marginal citation: [1847 c. 27](https://www.legislation.gov.uk/ukpga/1847/27).

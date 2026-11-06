@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Power of Chief Inspector where person is failing to comply with requirement relating to children's home etc.[^key-51c52c0fb3d4c284ad55c408582d3923]
+## 26. Power of Chief Inspector where person is failing to comply with requirement relating to children's home etc.[^c-51c52c0fb3d4c284ad55c408582d3923]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51c52c0fb3d4c284ad55c408582d3923]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2008/23/section/26) in force at 1.4.2010 for E. by [S.I. 2009/3354](https://www.legislation.gov.uk/uksi/2009/3354), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2009/3354/article/3/2/a)
+[^c-51c52c0fb3d4c284ad55c408582d3923]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2008/23/section/26) in force at 1.4.2010 for E. by [S.I. 2009/3354](https://www.legislation.gov.uk/uksi/2009/3354), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2009/3354/article/3/2/a)

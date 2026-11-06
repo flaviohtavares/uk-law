@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 196. Becoming threatened with homelessness intentionally.[^key-d839d2d5dca88955ddb88aec382045d6]
+## 196. Becoming threatened with homelessness intentionally.[^c-d839d2d5dca88955ddb88aec382045d6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d839d2d5dca88955ddb88aec382045d6]: Textual amendment: S. 196 omitted (3.4.2018) by virtue of [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 4(5)](https://www.legislation.gov.uk/ukpga/2017/13/section/4/5), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/d) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/167/regulation/4/1))
+[^c-d839d2d5dca88955ddb88aec382045d6]: Textual amendment: S. 196 omitted (3.4.2018) by virtue of [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 4(5)](https://www.legislation.gov.uk/ukpga/2017/13/section/4/5), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/d) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/167/regulation/4/1))

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Failure to provide statement of account: preparation by appointed person[^key-99da0cf0e225ee2d6fa02821a5d1a053][^key-51f9e681b5e7e0eb31d7fa61ab0cbe4a]
+## 45. Failure to provide statement of account: preparation by appointed person[^c-99da0cf0e225ee2d6fa02821a5d1a053][^c-51f9e681b5e7e0eb31d7fa61ab0cbe4a]
 
 *Extent: S*
 
-(1)[^key-24c2fc868f242459f862c6109adbd660] This section applies where—
+(1)[^c-24c2fc868f242459f862c6109adbd660] This section applies where—
 
 - (a) a charity has failed to send a copy of its statement of account to OSCR in pursuance of section 44(1)(d), and
 - (b) the time by which the statement was due to be sent to OSCR by virtue of provision made under section 44(4)(f) has passed.
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-99da0cf0e225ee2d6fa02821a5d1a053]: Commencement: S. 45 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-99da0cf0e225ee2d6fa02821a5d1a053]: Commencement: S. 45 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
 
-[^key-51f9e681b5e7e0eb31d7fa61ab0cbe4a]: Textual amendment: [S. 45 heading](https://www.legislation.gov.uk/asp/2005/10/part/1/chapter/6/crossheading/duty-to-keep-accounts-etc) substituted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 12(3)](https://www.legislation.gov.uk/asp/2023/5/section/12/3), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-51f9e681b5e7e0eb31d7fa61ab0cbe4a]: Textual amendment: [S. 45 heading](https://www.legislation.gov.uk/asp/2005/10/part/1/chapter/6/crossheading/duty-to-keep-accounts-etc) substituted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 12(3)](https://www.legislation.gov.uk/asp/2023/5/section/12/3), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-24c2fc868f242459f862c6109adbd660]: Textual amendment: [S. 45(1)](https://www.legislation.gov.uk/asp/2005/10/section/45/1) substituted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2), [sch. para. 13(2)](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/13/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-24c2fc868f242459f862c6109adbd660]: Textual amendment: [S. 45(1)](https://www.legislation.gov.uk/asp/2005/10/section/45/1) substituted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2), [sch. para. 13(2)](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/13/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)

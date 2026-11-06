@@ -31,38 +31,38 @@ Seal Fisheries (North Pacific) Act 1895 (repealed)
 
 1895 c.21
 
-[^key-c8127d608de394a6c4165d1758781f9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8127d608de394a6c4165d1758781f9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Power to prohibit by Order in Council the hunting of seals in Behring Sea and adjacent parts of the Pacific Ocean.[^key-c8127d608de394a6c4165d1758781f9d][^key-c8127d608de394a6c4165d1758781f9d]
+## 1. Power to prohibit by Order in Council the hunting of seals in Behring Sea and adjacent parts of the Pacific Ocean.[^c-c8127d608de394a6c4165d1758781f9d][^c-c8127d608de394a6c4165d1758781f9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Power to regulate seal fishing.[^key-c8127d608de394a6c4165d1758781f9d][^key-c8127d608de394a6c4165d1758781f9d]
+## 2. Power to regulate seal fishing.[^c-c8127d608de394a6c4165d1758781f9d][^c-c8127d608de394a6c4165d1758781f9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Procedure for enforcing Act.[^key-c8127d608de394a6c4165d1758781f9d][^key-c8127d608de394a6c4165d1758781f9d]
+## 3. Procedure for enforcing Act.[^c-c8127d608de394a6c4165d1758781f9d][^c-c8127d608de394a6c4165d1758781f9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Provisions as to ship’s papers.[^key-c8127d608de394a6c4165d1758781f9d][^key-c8127d608de394a6c4165d1758781f9d]
+## 4. Provisions as to ship’s papers.[^c-c8127d608de394a6c4165d1758781f9d][^c-c8127d608de394a6c4165d1758781f9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Evidence.[^key-c8127d608de394a6c4165d1758781f9d][^key-c8127d608de394a6c4165d1758781f9d]
+## 5. Evidence.[^c-c8127d608de394a6c4165d1758781f9d][^c-c8127d608de394a6c4165d1758781f9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Orders in Council.[^key-c8127d608de394a6c4165d1758781f9d][^key-c8127d608de394a6c4165d1758781f9d]
+## 6. Orders in Council.[^c-c8127d608de394a6c4165d1758781f9d][^c-c8127d608de394a6c4165d1758781f9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. †Application, construction, short title, and duration of Act and repeal.[^key-c8127d608de394a6c4165d1758781f9d][^key-c8127d608de394a6c4165d1758781f9d]
+## 7. †Application, construction, short title, and duration of Act and repeal.[^c-c8127d608de394a6c4165d1758781f9d][^c-c8127d608de394a6c4165d1758781f9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c8127d608de394a6c4165d1758781f9d]: Textual amendment: Act repealed (1.4.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 234(f)](https://www.legislation.gov.uk/ukpga/2009/23/section/234/f), [324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(C)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/C); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. paras. 11, 12](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/11)
+[^c-c8127d608de394a6c4165d1758781f9d]: Textual amendment: Act repealed (1.4.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 234(f)](https://www.legislation.gov.uk/ukpga/2009/23/section/234/f), [324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(C)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/C); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. paras. 11, 12](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/11)

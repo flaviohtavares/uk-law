@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 115. Assistance with fees in respect of attendance on a course in England, Wales or Scotland[^key-7505ae341400a986c204b99e2fb62c20]
+## 115. Assistance with fees in respect of attendance on a course in England, Wales or Scotland[^c-7505ae341400a986c204b99e2fb62c20]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7505ae341400a986c204b99e2fb62c20]: Commencement: [Reg. 115](https://www.legislation.gov.uk/nisr/2007/195/regulation/115) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-7505ae341400a986c204b99e2fb62c20]: Commencement: [Reg. 115](https://www.legislation.gov.uk/nisr/2007/195/regulation/115) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
 [^f00063]: Footnote: This body was established under section 1 of the Further and Higher Education (Scotland) Act 2005 ([2005 asp 6](https://www.legislation.gov.uk/asp/2005/6)).

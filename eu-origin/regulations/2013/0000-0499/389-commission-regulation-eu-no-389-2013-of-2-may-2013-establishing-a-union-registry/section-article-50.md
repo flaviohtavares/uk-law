@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 50. Deletion of aviation allowances[^key-43e790787b463e3338c70ae13cb998c6]
+## Article 50. Deletion of aviation allowances[^c-43e790787b463e3338c70ae13cb998c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43e790787b463e3338c70ae13cb998c6]: Textual amendment: [Arts. 41-64](https://www.legislation.gov.uk/eur/2013/389/article/41) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2021/511/regulation/5/5)
+[^c-43e790787b463e3338c70ae13cb998c6]: Textual amendment: [Arts. 41-64](https://www.legislation.gov.uk/eur/2013/389/article/41) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2021/511/regulation/5/5)

@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food (Hot Chilli and Hot Chilli Products) (Emergency Control) (Amendment) (Wales) Regulations 2004 (revoked)[^key-eccd7d4cf215df12f4c4a08f3e4ab0b8]
+The Food (Hot Chilli and Hot Chilli Products) (Emergency Control) (Amendment) (Wales) Regulations 2004 (revoked)[^c-eccd7d4cf215df12f4c4a08f3e4ab0b8]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 17th February 2004
 
-[^key-eccd7d4cf215df12f4c4a08f3e4ab0b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eccd7d4cf215df12f4c4a08f3e4ab0b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-eccd7d4cf215df12f4c4a08f3e4ab0b8]
+## 1. Title and commencement[^c-eccd7d4cf215df12f4c4a08f3e4ab0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Food (Hot Chilli and Hot Chilli Products) (Emergency Control) (Wales) Regulations 2003[^key-eccd7d4cf215df12f4c4a08f3e4ab0b8]
+## 2. Amendments to the Food (Hot Chilli and Hot Chilli Products) (Emergency Control) (Wales) Regulations 2003[^c-eccd7d4cf215df12f4c4a08f3e4ab0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eccd7d4cf215df12f4c4a08f3e4ab0b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eccd7d4cf215df12f4c4a08f3e4ab0b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-eccd7d4cf215df12f4c4a08f3e4ab0b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eccd7d4cf215df12f4c4a08f3e4ab0b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eccd7d4cf215df12f4c4a08f3e4ab0b8]: Textual amendment: Regulations revoked (10.6.2005) by [The Food (Chilli, Chilli Products, Curcuma and Palm Oil) (Emergency Control) (Wales) Regulations 2005 (S.I. 2005/1540)](https://www.legislation.gov.uk/uksi/2005/1540), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1540/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2005/1540/regulation/7)
+[^c-eccd7d4cf215df12f4c4a08f3e4ab0b8]: Textual amendment: Regulations revoked (10.6.2005) by [The Food (Chilli, Chilli Products, Curcuma and Palm Oil) (Emergency Control) (Wales) Regulations 2005 (S.I. 2005/1540)](https://www.legislation.gov.uk/uksi/2005/1540), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1540/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2005/1540/regulation/7)

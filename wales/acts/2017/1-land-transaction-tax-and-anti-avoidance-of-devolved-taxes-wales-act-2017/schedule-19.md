@@ -24,7 +24,7 @@ summary: ''
 
 ### Relief from land transaction tax: conversion of an authorised unit trust to an open-ended investment company
 
-**1.**[^key-c6ba46cb1a50de44bf4c6184065cf6b3] (1) A land transaction transferring any property which is subject to the trusts of an authorised unit trust (“**"the target trust”**”) to an open-ended investment company (“**"the acquiring company”**”) is relieved from tax if the conditions set out in sub-paragraph (2) are met.
+**1.**[^c-c6ba46cb1a50de44bf4c6184065cf6b3] (1) A land transaction transferring any property which is subject to the trusts of an authorised unit trust (“**"the target trust”**”) to an open-ended investment company (“**"the acquiring company”**”) is relieved from tax if the conditions set out in sub-paragraph (2) are met.
 
 (2) Those conditions are that—
 
@@ -36,7 +36,7 @@ summary: ''
 
 ### Relief from land transaction tax: amalgamation of an authorised unit trust with an open-ended investment company
 
-**2.**[^key-76d35143a9a0a3309b3a0e8b6c3e134d] (1) A land transaction transferring any property which is subject to the trusts of an authorised unit trust (“**"the target trust”**”) to an open-ended investment company (“**"the acquiring company”**”) is relieved from tax if the conditions set out in sub-paragraph (2) are met.
+**2.**[^c-76d35143a9a0a3309b3a0e8b6c3e134d] (1) A land transaction transferring any property which is subject to the trusts of an authorised unit trust (“**"the target trust”**”) to an open-ended investment company (“**"the acquiring company”**”) is relieved from tax if the conditions set out in sub-paragraph (2) are met.
 
 (2) Those conditions are that—
 
@@ -48,7 +48,7 @@ summary: ''
 
 ### Interpretation
 
-**3.**[^key-f029a72a24b50c6d5b976176b2151bc9] (1) For the purposes of this Schedule, “**"the whole of the available property of the target trust”**” means the whole of the property subject to the trusts of the target trust, other than any property which is retained for the purpose of discharging liabilities of the trustees of the target trust (and “**"target trust”**” has the meaning given by paragraph 1 or 2, as the case may be).
+**3.**[^c-f029a72a24b50c6d5b976176b2151bc9] (1) For the purposes of this Schedule, “**"the whole of the available property of the target trust”**” means the whole of the property subject to the trusts of the target trust, other than any property which is retained for the purpose of discharging liabilities of the trustees of the target trust (and “**"target trust”**” has the meaning given by paragraph 1 or 2, as the case may be).
 
 (2) For the purposes of this Schedule, each of the parts of an umbrella scheme (and not the scheme as a whole) is regarded as an authorised unit trust; and “**"umbrella scheme”**” has the same meaning as in section 619 of the Corporation Tax Act 2010 (c. 4).
 
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c6ba46cb1a50de44bf4c6184065cf6b3]: Commencement: [Sch. 19 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/19/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-c6ba46cb1a50de44bf4c6184065cf6b3]: Commencement: [Sch. 19 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/19/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-76d35143a9a0a3309b3a0e8b6c3e134d]: Commencement: [Sch. 19 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/19/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-76d35143a9a0a3309b3a0e8b6c3e134d]: Commencement: [Sch. 19 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/19/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-f029a72a24b50c6d5b976176b2151bc9]: Commencement: [Sch. 19 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/19/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-f029a72a24b50c6d5b976176b2151bc9]: Commencement: [Sch. 19 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/19/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

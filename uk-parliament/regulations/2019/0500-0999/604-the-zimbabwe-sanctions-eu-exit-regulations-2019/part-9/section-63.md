@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Interpretation of Part 9[^key-59382a50cf3ca8d8c882d9c29f6aaf4b][^key-f095fa43c6ded92cd508bc068c026685]
+## 63. Interpretation of Part 9[^c-59382a50cf3ca8d8c882d9c29f6aaf4b][^c-f095fa43c6ded92cd508bc068c026685]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-59382a50cf3ca8d8c882d9c29f6aaf4b]: Commencement: Reg. 63 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-59382a50cf3ca8d8c882d9c29f6aaf4b]: Commencement: Reg. 63 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-f095fa43c6ded92cd508bc068c026685]: Commencement: Reg. 63 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f095fa43c6ded92cd508bc068c026685]: Commencement: Reg. 63 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

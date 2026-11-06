@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.13. Cancellation of registration[^key-810b4a204db79518ba869b67c8c3a748]
+## 5.13. Cancellation of registration[^c-810b4a204db79518ba869b67c8c3a748]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-810b4a204db79518ba869b67c8c3a748]: Commencement: Rule 5.13 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-810b4a204db79518ba869b67c8c3a748]: Commencement: Rule 5.13 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
 [^f00042]: Footnote: Section 24(2) was amended by the Administration of Justice Act [1977 (c. 38)](https://www.legislation.gov.uk/ukpga/1977/38), Schedule 3, paragraph 9.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Confidential information in certain cases where designation power used[^key-efb068fcf09b810c2ba657b234014449]
+## 9. Confidential information in certain cases where designation power used[^c-efb068fcf09b810c2ba657b234014449]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ grant an injunction (in Scotland, an interdict) to prevent a breach of the prohi
 
 ## Annotations
 
-[^key-efb068fcf09b810c2ba657b234014449]: Commencement: Reg. 9 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-efb068fcf09b810c2ba657b234014449]: Commencement: Reg. 9 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

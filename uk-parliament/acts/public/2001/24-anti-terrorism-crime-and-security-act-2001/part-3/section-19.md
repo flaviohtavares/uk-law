@@ -24,7 +24,7 @@ summary: ''
 
 (2) No obligation of secrecy imposed by statute or otherwise prevents the disclosure, in accordance with the following provisions of this section, of information to which this section applies if the disclosure is made—
 
-- (a)[^key-a8750e97cf2bd59012aaeb1c8b7ff81c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-a8750e97cf2bd59012aaeb1c8b7ff81c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for the purposes of any criminal investigation whatever which is being or may be carried out, whether in the United Kingdom or elsewhere;
 - (c) for the purposes of any criminal proceedings whatever which have been or may be initiated, whether in the United Kingdom or elsewhere;
 - (d) for the purposes of the initiation or bringing to an end of any such investigation or proceedings; or
@@ -43,14 +43,14 @@ and information so obtained otherwise than by or on behalf of any of the intelli
 
 (6) A consent for the purposes of subsection (5) may be given either in relation to a particular disclosure or in relation to disclosures made in such circumstances as may be specified or described in the consent.
 
-(7) Nothing in this section authorises the making of any disclosure which is prohibited by any provision of the data protection legislation[^key-5f7abe70c8dcf3cce459f9b3104c52a2] .
+(7) Nothing in this section authorises the making of any disclosure which is prohibited by any provision of the data protection legislation[^c-5f7abe70c8dcf3cce459f9b3104c52a2] .
 
 (8) References in this section to information which is held on behalf of the Commissioners of Inland Revenue or of the Commissioners of Customs and Excise include references to information which—
 
 - (a) is held by a person who provides services to the Commissioners of Inland Revenue or, as the case may be, to the Commissioners of Customs and Excise; and
 - (b) is held by that person in connection with the provision of those services.
 
-(9) In this section—[^key-c5fec0e43ffc95c620be44b80c1fefc8]
+(9) In this section—[^c-c5fec0e43ffc95c620be44b80c1fefc8]
 
 - “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
 - “**intelligence service**” has the same meaning as in the Regulation of Investigatory Powers Act 2000 (c. 23).
@@ -59,8 +59,8 @@ and information so obtained otherwise than by or on behalf of any of the intelli
 
 ## Annotations
 
-[^key-a8750e97cf2bd59012aaeb1c8b7ff81c]: Textual amendment: S. 19(2)(a) repealed (24.12.2008) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2008/28/schedule/1/paragraph/1), [Sch. 9 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/28/schedule/9/part/2) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2008/3296](https://www.legislation.gov.uk/uksi/2008/3296), [art. 2](https://www.legislation.gov.uk/uksi/2008/3296/article/2)
+[^c-a8750e97cf2bd59012aaeb1c8b7ff81c]: Textual amendment: S. 19(2)(a) repealed (24.12.2008) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2008/28/schedule/1/paragraph/1), [Sch. 9 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/28/schedule/9/part/2) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2008/3296](https://www.legislation.gov.uk/uksi/2008/3296), [art. 2](https://www.legislation.gov.uk/uksi/2008/3296/article/2)
 
-[^key-5f7abe70c8dcf3cce459f9b3104c52a2]: Textual amendment: Words in [s. 19(7)](https://www.legislation.gov.uk/ukpga/2001/24/section/19/7) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 75(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/75/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-5f7abe70c8dcf3cce459f9b3104c52a2]: Textual amendment: Words in [s. 19(7)](https://www.legislation.gov.uk/ukpga/2001/24/section/19/7) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 75(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/75/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-c5fec0e43ffc95c620be44b80c1fefc8]: Textual amendment: Words in [s. 19(9)](https://www.legislation.gov.uk/ukpga/2001/24/section/19/9) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 75(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/75/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-c5fec0e43ffc95c620be44b80c1fefc8]: Textual amendment: Words in [s. 19(9)](https://www.legislation.gov.uk/ukpga/2001/24/section/19/9) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 75(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/75/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

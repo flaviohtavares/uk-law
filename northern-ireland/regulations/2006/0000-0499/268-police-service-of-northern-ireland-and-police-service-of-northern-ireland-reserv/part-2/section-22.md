@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Abatement of certain gratuities in respect of damages or compensation[^key-502650c607c5b18714475bd34eac70a0]
+## 22. Abatement of certain gratuities in respect of damages or compensation[^c-502650c607c5b18714475bd34eac70a0]
 
 *Extent: N.I.*
 
@@ -43,6 +43,6 @@ and, in this paragraph, “the net amount” in relation to damages or compensat
 
 ## Annotations
 
-[^key-502650c607c5b18714475bd34eac70a0]: Commencement: Reg. 22 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-502650c607c5b18714475bd34eac70a0]: Commencement: Reg. 22 in operation at 25.7.2006 with effect in accordance with reg. 1
 
 [^f00009]: Footnote: [S.I. 1977/1251 (N.I.18)](https://www.legislation.gov.uk/nisi/1977/1251)

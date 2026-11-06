@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Fostering[^key-f24c16c64c43dd1cde20345edca6b22f]
+## 33. Fostering[^c-f24c16c64c43dd1cde20345edca6b22f]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ In Schedule 1 to the Foster Placement (Children) Regulations (Northern Ireland) 
 
 ## Annotations
 
-[^key-f24c16c64c43dd1cde20345edca6b22f]: Commencement: Reg. 33 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-f24c16c64c43dd1cde20345edca6b22f]: Commencement: Reg. 33 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00049]: Footnote: [S.I. 1996/467](https://www.legislation.gov.uk/uksi/1996/467).

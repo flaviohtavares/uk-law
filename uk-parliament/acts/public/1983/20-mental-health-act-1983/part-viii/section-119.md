@@ -24,10 +24,10 @@ summary: ''
 
 (2) A registered medical practitioner or other person appointed [^c20399511]... for the purposes of the provisions mentioned in subsection (1) above may, for the purpose of exercising his functions under those provisions or under Part 4A of this Act[^c19829721], at any reasonable time—
 
-- (a) visit and interview and, in the case of a registered medical practitioner, examine in private any patient detained in a hospital or registered establishment or any community patient in a hospital or[^c19829741] regulated establishment (other than a hospital)[^key-8f8135ed145ccba641e8a656758ab08a] or (if access is granted) other place; and
+- (a) visit and interview and, in the case of a registered medical practitioner, examine in private any patient detained in a hospital or registered establishment or any community patient in a hospital or[^c19829741] regulated establishment (other than a hospital)[^c-8f8135ed145ccba641e8a656758ab08a] or (if access is granted) other place; and
 - (b) require the production of and inspect any records relating to the treatment of the patient there[^c19829781].
 
-(3)[^key-b15518798caa8dab4ff55cd713cae302] In this section “regulated establishment” means—
+(3)[^c-b15518798caa8dab4ff55cd713cae302] In this section “regulated establishment” means—
 
 - (a) an establishment in respect of which a person is registered under Part 2 of the Care Standards Act 2000; [^M_F_74a063c4-95d0-44d6-8cfe-f3f79ba1c83d]...
 - (b) premises used for the carrying on of a regulated activity, within the meaning of Part 1 of the Health and Social Care Act 2008, in respect of which a person is registered under Chapter 2 of that Part ; or[^M_F_4a8b2d13-e9ab-48b1-cf52-2cb4e3c9ed97]
@@ -54,11 +54,11 @@ summary: ''
 
 [^c19829741]: Textual amendment: Words in s. 119(2)(a) substituted (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [ss. 35(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2007/12/section/35/2/a/ii), [56](https://www.legislation.gov.uk/ukpga/2007/12/section/56) (with [Sch. 10](https://www.legislation.gov.uk/ukpga/2007/12/schedule/10)); [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900), [art. 2(k)](https://www.legislation.gov.uk/uksi/2008/1900/article/2/k) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1900/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/1900/schedule))
 
-[^key-8f8135ed145ccba641e8a656758ab08a]: Textual amendment: Words in s. 119(2)(a) substituted (1.10.2010) by [The Health and Social Care Act 2008 (Consequential Amendments No.2) Order 2010 (S.I. 2010/813)](https://www.legislation.gov.uk/uksi/2010/813), arts. [1(1)](https://www.legislation.gov.uk/uksi/2010/813/regulation/1/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2010/813/article/5/4/a)
+[^c-8f8135ed145ccba641e8a656758ab08a]: Textual amendment: Words in s. 119(2)(a) substituted (1.10.2010) by [The Health and Social Care Act 2008 (Consequential Amendments No.2) Order 2010 (S.I. 2010/813)](https://www.legislation.gov.uk/uksi/2010/813), arts. [1(1)](https://www.legislation.gov.uk/uksi/2010/813/regulation/1/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2010/813/article/5/4/a)
 
 [^c19829781]: Textual amendment: Words in s. 119(2)(b) substituted (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [ss. 35(2)(a)(iii)](https://www.legislation.gov.uk/ukpga/2007/12/section/35/2/a/iii), [56](https://www.legislation.gov.uk/ukpga/2007/12/section/56) (with [Sch. 10](https://www.legislation.gov.uk/ukpga/2007/12/schedule/10)); [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900), [art. 2(k)](https://www.legislation.gov.uk/uksi/2008/1900/article/2/k) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1900/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/1900/schedule))
 
-[^key-b15518798caa8dab4ff55cd713cae302]: Textual amendment: S. 119(3) substituted (1.10.2010) by [The Health and Social Care Act 2008 (Consequential Amendments No.2) Order 2010 (S.I. 2010/813)](https://www.legislation.gov.uk/uksi/2010/813), arts. [1(1)](https://www.legislation.gov.uk/uksi/2010/813/regulation/1/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2010/813/article/5/4/b)
+[^c-b15518798caa8dab4ff55cd713cae302]: Textual amendment: S. 119(3) substituted (1.10.2010) by [The Health and Social Care Act 2008 (Consequential Amendments No.2) Order 2010 (S.I. 2010/813)](https://www.legislation.gov.uk/uksi/2010/813), arts. [1(1)](https://www.legislation.gov.uk/uksi/2010/813/regulation/1/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2010/813/article/5/4/b)
 
 [^M_F_74a063c4-95d0-44d6-8cfe-f3f79ba1c83d]: Textual amendment: Word in s. 119(3)(a) omitted (2.4.2018) by virtue of [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/uksi/2018/195), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2018/195/regulation/2/1), [4(a)](https://www.legislation.gov.uk/uksi/2018/195/regulation/4/a)
 

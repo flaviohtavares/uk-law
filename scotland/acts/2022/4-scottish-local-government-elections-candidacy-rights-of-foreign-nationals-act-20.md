@@ -32,26 +32,26 @@ Scottish Local Government Elections (Candidacy Rights of Foreign Nationals) Act 
 
 2022 asp 4
 
-[^key-331c9a2e8e64087be3d18ee9aec3aeac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-331c9a2e8e64087be3d18ee9aec3aeac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Local government elections: candidacy rights of certain foreign nationals[^key-331c9a2e8e64087be3d18ee9aec3aeac]
+## 1. Local government elections: candidacy rights of certain foreign nationals[^c-331c9a2e8e64087be3d18ee9aec3aeac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Ancillary provision[^key-331c9a2e8e64087be3d18ee9aec3aeac]
+## 2. Ancillary provision[^c-331c9a2e8e64087be3d18ee9aec3aeac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Commencement[^key-331c9a2e8e64087be3d18ee9aec3aeac]
+## 3. Commencement[^c-331c9a2e8e64087be3d18ee9aec3aeac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Short title[^key-331c9a2e8e64087be3d18ee9aec3aeac]
+## 4. Short title[^c-331c9a2e8e64087be3d18ee9aec3aeac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-331c9a2e8e64087be3d18ee9aec3aeac]: Textual amendment: [Act](https://www.legislation.gov.uk/asp/2022/4) repealed (1.8.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 2(4)](https://www.legislation.gov.uk/asp/2025/4/section/2/4), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-331c9a2e8e64087be3d18ee9aec3aeac]: Textual amendment: [Act](https://www.legislation.gov.uk/asp/2022/4) repealed (1.8.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 2(4)](https://www.legislation.gov.uk/asp/2025/4/section/2/4), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

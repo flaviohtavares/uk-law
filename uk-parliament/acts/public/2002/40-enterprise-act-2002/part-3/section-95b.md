@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95B. Power of directions in connection with transferred EU merger commitments[^key-e65499964f67b5ca84b2cc62aeadaeb0]
+## 95B. Power of directions in connection with transferred EU merger commitments[^c-e65499964f67b5ca84b2cc62aeadaeb0]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e65499964f67b5ca84b2cc62aeadaeb0]: Textual amendment: Ss. 95A, 95B and cross-heading inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [48A](https://www.legislation.gov.uk/uksi/2019/93/regulation/48A) (with [Sch. 4 para. 28](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/28)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2020/1343/regulation/8), [35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35))
+[^c-e65499964f67b5ca84b2cc62aeadaeb0]: Textual amendment: Ss. 95A, 95B and cross-heading inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [48A](https://www.legislation.gov.uk/uksi/2019/93/regulation/48A) (with [Sch. 4 para. 28](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/28)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2020/1343/regulation/8), [35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35))

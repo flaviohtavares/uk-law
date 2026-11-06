@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 108. Taking possession of estate by trustee[^key-25a61f3b6755baf5ffd3db1d8f614625]
+## 108. Taking possession of estate by trustee[^c-25a61f3b6755baf5ffd3db1d8f614625]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25a61f3b6755baf5ffd3db1d8f614625]: Commencement: [S. 108](https://www.legislation.gov.uk/asp/2016/21/section/108) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-25a61f3b6755baf5ffd3db1d8f614625]: Commencement: [S. 108](https://www.legislation.gov.uk/asp/2016/21/section/108) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

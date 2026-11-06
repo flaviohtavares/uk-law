@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Disclosure of information[^key-65ef25eec914079d9883dfebffc95c17]
+## 27. Disclosure of information[^c-65ef25eec914079d9883dfebffc95c17]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ A customer information order has effect in spite of any restriction on the discl
 
 ## Annotations
 
-[^key-65ef25eec914079d9883dfebffc95c17]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2013/2605/article/27) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-65ef25eec914079d9883dfebffc95c17]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2013/2605/article/27) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)

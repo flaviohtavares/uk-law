@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Duty to monitor and report on financial sustainability[^key-69ae633ed9ba65dda311a8cc98417d94][^key-8b22b83cb5ff1630606472dada2bb4e8]
+## 80. Duty to monitor and report on financial sustainability[^c-69ae633ed9ba65dda311a8cc98417d94][^c-8b22b83cb5ff1630606472dada2bb4e8]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-69ae633ed9ba65dda311a8cc98417d94]: Commencement: S. 80 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-69ae633ed9ba65dda311a8cc98417d94]: Commencement: S. 80 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-8b22b83cb5ff1630606472dada2bb4e8]: Commencement: [S. 80](https://www.legislation.gov.uk/asc/2022/1/section/80) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(o)](https://www.legislation.gov.uk/wsi/2026/62/article/2/o)
+[^c-8b22b83cb5ff1630606472dada2bb4e8]: Commencement: [S. 80](https://www.legislation.gov.uk/asc/2022/1/section/80) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(o)](https://www.legislation.gov.uk/wsi/2026/62/article/2/o)

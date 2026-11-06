@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236. Revocation of instruments made under the Banking Act 1987[^key-a2e76c597cdcaccea3505c0bdc2d85d8]
+## 236. Revocation of instruments made under the Banking Act 1987[^c-a2e76c597cdcaccea3505c0bdc2d85d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The following instruments are revoked—
 
 ## Annotations
 
-[^key-a2e76c597cdcaccea3505c0bdc2d85d8]: Commencement: Art. 236 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a2e76c597cdcaccea3505c0bdc2d85d8]: Commencement: Art. 236 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

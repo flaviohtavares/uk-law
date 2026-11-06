@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Additional voluntary contributions[^key-29cc2593cb9cf198b997356ab5d097b3]
+## 103. Additional voluntary contributions[^c-29cc2593cb9cf198b997356ab5d097b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,7 +76,7 @@ summary: ''
 
 ## Annotations
 
-[^key-29cc2593cb9cf198b997356ab5d097b3]: Commencement: Art. 103 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-29cc2593cb9cf198b997356ab5d097b3]: Commencement: Art. 103 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00093]: Footnote: Section 11A was inserted by the Judicial Pensions (NI) Order [1991 NI 24](https://www.legislation.gov.uk/nisi/1991/2631) Article 6(1)(c), (2)
 

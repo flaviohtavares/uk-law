@@ -22,17 +22,17 @@ summary: ''
 
 Article 47
 
-### 1. Activity Level Changes Regulation amended[^key-ca5a7d70452b846d0519884226f24724]
+### 1. Activity Level Changes Regulation amended[^c-ca5a7d70452b846d0519884226f24724]
 
 Commission Implementing Regulation (EU) 2019/1842 is amended in accordance with this Schedule.
 
-### 2. Article 1 amended (scope)[^key-fee797a264b176da46aaa66fc1b83522]
+### 2. Article 1 amended (scope)[^c-fee797a264b176da46aaa66fc1b83522]
 
 (1) Article 1 is amended as follows.
 
 (2) For the words from “pursuant to Article 10a” to the end substitute “ to installations under the UK ETS ”.
 
-### 3. Article 2 amended (definitions)[^key-6f3aaf3e30386bc9acd19356cf5aee36]
+### 3. Article 2 amended (definitions)[^c-6f3aaf3e30386bc9acd19356cf5aee36]
 
 (1) Article 2 is amended as follows.
 
@@ -66,7 +66,7 @@ Commission Implementing Regulation (EU) 2019/1842 is amended in accordance with 
 
 .
 
-### 4. Article 3 amended (reporting requirements)[^key-77f2ab99dc695d80e3484424b017681c]
+### 4. Article 3 amended (reporting requirements)[^c-77f2ab99dc695d80e3484424b017681c]
 
 (1) Article 3 is amended as follows.
 
@@ -121,7 +121,7 @@ Commission Implementing Regulation (EU) 2019/1842 is amended in accordance with 
 
 .
 
-### 5. Articles 3a inserted[^key-3bc13d8b6391e7e5c4731a9281430b00]
+### 5. Articles 3a inserted[^c-3bc13d8b6391e7e5c4731a9281430b00]
 
 After Article 3 insert—
 
@@ -152,13 +152,13 @@ After Article 3 insert—
 
 .
 
-### 6. Article 4 amended (average activity levels)[^key-ae65098ce865578c3f1b2f982785ffe3]
+### 6. Article 4 amended (average activity levels)[^c-ae65098ce865578c3f1b2f982785ffe3]
 
 (1) Article 4 is amended as follows.
 
 (2) In paragraph 1 for “competent authority” substitute “ regulator ”.
 
-### 7. Article 5 amended (adjustments to free allocation due to activity level changes)[^key-fbdcd740b7b626a90a49ddc44dd8a82a]
+### 7. Article 5 amended (adjustments to free allocation due to activity level changes)[^c-fbdcd740b7b626a90a49ddc44dd8a82a]
 
 (1) Article 5 is amended as follows.
 
@@ -189,7 +189,7 @@ After Article 3 insert—
 
 .
 
-### 8. Article 6 amended (other changes in the operation of the installation)[^key-2c44572d4e20a141fb3f8b16c7926b0b]
+### 8. Article 6 amended (other changes in the operation of the installation)[^c-2c44572d4e20a141fb3f8b16c7926b0b]
 
 (1) Article 6 is amended as follows.
 
@@ -213,7 +213,7 @@ After Article 3 insert—
 
 .
 
-### 9. Article 6a inserted[^key-36fe8ccfd1443e4844be58a4e8dd2ea0]
+### 9. Article 6a inserted[^c-36fe8ccfd1443e4844be58a4e8dd2ea0]
 
 After Article 6 insert—
 
@@ -238,28 +238,28 @@ After Article 6 insert—
 
 .
 
-### 10. Final text amended[^key-6537b25e2a4ead7b0d0e36dad1f81956]
+### 10. Final text amended[^c-6537b25e2a4ead7b0d0e36dad1f81956]
 
 Omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.” (which follows Article 7).
 
 ## Annotations
 
-[^key-ca5a7d70452b846d0519884226f24724]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)
+[^c-ca5a7d70452b846d0519884226f24724]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)
 
-[^key-fee797a264b176da46aaa66fc1b83522]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)
+[^c-fee797a264b176da46aaa66fc1b83522]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)
 
-[^key-6f3aaf3e30386bc9acd19356cf5aee36]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)
+[^c-6f3aaf3e30386bc9acd19356cf5aee36]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)
 
-[^key-77f2ab99dc695d80e3484424b017681c]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)
+[^c-77f2ab99dc695d80e3484424b017681c]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)
 
-[^key-3bc13d8b6391e7e5c4731a9281430b00]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)
+[^c-3bc13d8b6391e7e5c4731a9281430b00]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)
 
-[^key-ae65098ce865578c3f1b2f982785ffe3]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)
+[^c-ae65098ce865578c3f1b2f982785ffe3]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)
 
-[^key-fbdcd740b7b626a90a49ddc44dd8a82a]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)
+[^c-fbdcd740b7b626a90a49ddc44dd8a82a]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)
 
-[^key-2c44572d4e20a141fb3f8b16c7926b0b]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)
+[^c-2c44572d4e20a141fb3f8b16c7926b0b]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)
 
-[^key-36fe8ccfd1443e4844be58a4e8dd2ea0]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)
+[^c-36fe8ccfd1443e4844be58a4e8dd2ea0]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)
 
-[^key-6537b25e2a4ead7b0d0e36dad1f81956]: Commencement: Sch. 2 para. 10 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)
+[^c-6537b25e2a4ead7b0d0e36dad1f81956]: Commencement: Sch. 2 para. 10 in force at 31.12.2020 on IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/b)

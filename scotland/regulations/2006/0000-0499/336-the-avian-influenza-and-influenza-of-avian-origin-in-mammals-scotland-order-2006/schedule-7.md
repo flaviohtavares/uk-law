@@ -64,7 +64,7 @@ No person shall move any poultry, other captive birds or eggs out of the zone, u
 - (c) day-old chicks from eggs originating within the zone or from eggs which have come into contact with such eggs (if any licence conditions are met);
 - (d) day-old chicks from eggs originating outside the zone (if the hatchery is operated in such a way that such chicks and eggs are kept separate from day old chicks and eggs originating in the zone and if any licence conditions are met);
 - (e) hatching eggs to a designated hatchery if the eggs and their packaging are disinfected before dispatch and if any licence conditions are met;
-- (f) eggs to a designated packing centre [^key-e50cb24de5c4724419003d2122810add]... in accordance with biosecurity requirements specified by a veterinary inspector (if any licence conditions are met);
+- (f) eggs to a designated packing centre [^c-e50cb24de5c4724419003d2122810add]... in accordance with biosecurity requirements specified by a veterinary inspector (if any licence conditions are met);
 - (g) eggs to premises inside or outside the zone for the manufacture of egg products (if any licence conditions are met);
 - (h) eggs for disposal (if any licence conditions are met).
 
@@ -88,4 +88,4 @@ A person who transports any poultry, other captive bird, meat, feed, manure, slu
 
 ## Annotations
 
-[^key-e50cb24de5c4724419003d2122810add]: Textual amendment: Words in sch. 7 para. 7(f) omitted (4.12.2021) by virtue of [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/article/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2021/444/article/2/5)
+[^c-e50cb24de5c4724419003d2122810add]: Textual amendment: Words in sch. 7 para. 7(f) omitted (4.12.2021) by virtue of [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/article/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2021/444/article/2/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. General powers of trustees[^key-75976f53e4a0c6b1a512cd21e5884a56]
+## 15. General powers of trustees[^c-75976f53e4a0c6b1a512cd21e5884a56]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75976f53e4a0c6b1a512cd21e5884a56]: Commencement: S. 15 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-75976f53e4a0c6b1a512cd21e5884a56]: Commencement: S. 15 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

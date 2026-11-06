@@ -46,7 +46,7 @@ In accordance with section 165(5) of the Local Government etc. (Scotland) Act 19
 
 ## PART 1 — General
 
-### 1. Citation, commencement and interpretation[^key-2d5c0dcdf714aaf230cc393983fd26a2]
+### 1. Citation, commencement and interpretation[^c-2d5c0dcdf714aaf230cc393983fd26a2]
 
 (1) These Regulations may be cited as the Local Authority (Capital Finance and Accounting) (Scotland) Regulations 2016 and come into force on 1st April 2016.
 
@@ -69,7 +69,7 @@ In accordance with section 165(5) of the Local Government etc. (Scotland) Act 19
 
 ## PART 2 — Borrowing by local authorities
 
-### 2. Borrowing of money by a local authority[^key-a8500e1a673cb2e66716e1f8fabe4bc2]
+### 2. Borrowing of money by a local authority[^c-a8500e1a673cb2e66716e1f8fabe4bc2]
 
 (1) A local authority may borrow money—
 
@@ -89,21 +89,21 @@ In accordance with section 165(5) of the Local Government etc. (Scotland) Act 19
 
 (3) A local authority may not borrow otherwise than in sterling, except with the consent of the Scottish Ministers.
 
-### 3.[^key-064c257876eea0df57154208ff116ee7]
+### 3.[^c-064c257876eea0df57154208ff116ee7]
 
 Two or more local authorities may combine to exercise their powers of borrowing money jointly, and where they do so these Regulations shall apply to the amount each authority receives from the joint loan.
 
-### 4.[^key-ad00ed9b01a89330381a642dfe90693f]
+### 4.[^c-ad00ed9b01a89330381a642dfe90693f]
 
 When exercising its power to borrow money, a local authority must have regard to generally recognised codes of practice and guidance in relation to capital finance and treasury management.
 
-### 5. Borrowing by way of a credit arrangement[^key-92587ef4d0be550162e5df9d7bbcf159]
+### 5. Borrowing by way of a credit arrangement[^c-92587ef4d0be550162e5df9d7bbcf159]
 
 (1) A local authority may incur debt through borrowing by way of a credit arrangement for financing capital expenditure of the authority.
 
 (2) The amount of external debt to be recognised by a local authority in respect of a credit arrangement is the liability that requires to be recognised as arising from the credit arrangement in accordance with proper accounting practices.
 
-### 6. The authorised limit for external debt[^key-8a52d4e5ef64a8ad1374d78e2fc98ebb]
+### 6. The authorised limit for external debt[^c-8a52d4e5ef64a8ad1374d78e2fc98ebb]
 
 (1) A local authority must determine before the start of each financial year how much external debt it can afford during that financial year and each of the subsequent two financial years (its “authorised limit” for each of those years).
 
@@ -125,7 +125,7 @@ When exercising its power to borrow money, a local authority must have regard to
 
 (7) On receipt of a report required by paragraph (6) the local authority must consider whether to vary its authorised limit and debt amounts.
 
-### 7. Security for money borrowed[^key-331ac45948d4e02484a9b1b1b4dc3120]
+### 7. Security for money borrowed[^c-331ac45948d4e02484a9b1b1b4dc3120]
 
 (1) All money borrowed by a local authority (whether before or after the coming into force of these Regulations), together with any interest on the money borrowed, must be secured on all the revenues of the authority and may not be secured in any other way.
 
@@ -142,11 +142,11 @@ When exercising its power to borrow money, a local authority must have regard to
 
 (5) Any security granted in breach of this regulation is unenforceable.
 
-### 8. Protection for lenders[^key-189cedd0a5b76a0df937a47ffba17145]
+### 8. Protection for lenders[^c-189cedd0a5b76a0df937a47ffba17145]
 
 A person lending money to a local authority is not bound to enquire whether that authority has power to borrow the money and is not prejudiced by the absence of such power.
 
-### 9. External funds[^key-61c523a5499efbf9c0b214348a42e388]
+### 9. External funds[^c-61c523a5499efbf9c0b214348a42e388]
 
 (1) Borrowing of money by a local authority for the purposes of the following funds is not to be treated as borrowing by the authority for the purposes of these Regulations—
 
@@ -161,7 +161,7 @@ A person lending money to a local authority is not bound to enquire whether that
 
 ## PART 3 — Borrowing in respect of lending by local authorities
 
-### 10. Borrowing to lend and advance money[^key-64461a2e1eecd13e389b14bbe85eae25]
+### 10. Borrowing to lend and advance money[^c-64461a2e1eecd13e389b14bbe85eae25]
 
 A local authority may borrow to lend to the following statutory bodies on such terms as may be agreed between them, subject to those bodies being authorised to borrow by these Regulations or by any other enactment—
 
@@ -172,19 +172,19 @@ A local authority may borrow to lend to the following statutory bodies on such t
 - (e) a community council established in accordance with the provisions of Part 4 of the 1973 Act;
 - (f) a harbour authority within the meaning of section 57(1) of the Harbours Act 1964[^f00013] for a harbour (within the meaning of that section) that is wholly or partly situated within the area of the local authority.
 
-### 11.[^key-568b657456f1de0797cb358e6083de1a]
+### 11.[^c-568b657456f1de0797cb358e6083de1a]
 
 A local authority may borrow to advance money to any of its common good funds, but only in respect of expenditure by such a fund which would be capital expenditure of the local authority if incurred directly by the authority.
 
 ## PART 4 — Loans funds
 
-### 12. Duty to maintain a loans fund[^key-b9abe4a1bc73bcc339604d0bf3c42e96]
+### 12. Duty to maintain a loans fund[^c-b9abe4a1bc73bcc339604d0bf3c42e96]
 
 (1) A local authority must maintain a loans fund.
 
 (2) A loans fund must be administered in accordance with these Regulations, proper accounting practices and prudent financial management.
 
-### 13. Loans fund advances[^key-f8bb1cdfa3d2eeaae99eb54e5b382f26]
+### 13. Loans fund advances[^c-f8bb1cdfa3d2eeaae99eb54e5b382f26]
 
 (1) Subject to paragraph (2), for each financial year a local authority must make loans fund advances in respect of the amount of—
 
@@ -198,9 +198,9 @@ that it has determined is to be financed by borrowing, as permitted by regulatio
 - (a) borrowing that relates to treasury management activities; or
 - (b) a credit arrangement.
 
-(3)[^key-4e9cd06e888cc203c4566130bc339e3e] Except for an advance to which regulation 14 applies, a local authority must repay a loans fund advance in accordance with proper accounting practices.
+(3)[^c-4e9cd06e888cc203c4566130bc339e3e] Except for an advance to which regulation 14 applies, a local authority must repay a loans fund advance in accordance with proper accounting practices.
 
-### 14. Duty to make a statutory repayment of loans fund advances[^key-3bd1fbf516eeabdb423f0425be898b96]
+### 14. Duty to make a statutory repayment of loans fund advances[^c-3bd1fbf516eeabdb423f0425be898b96]
 
 (1) This regulation applies to any loans fund advance made prior to 1 April 2023.
 
@@ -213,9 +213,9 @@ that it has determined is to be financed by borrowing, as permitted by regulatio
 (3) Paragraph (2)—
 
 - (a) applies whether the period or amount referred to in that paragraph was determined under these Regulations or prior to them, but
-- (b) does not apply to any borrowing for which the consent of the Scottish Ministers was required, whether under regulation 2(2) or otherwise [^key-f23ab511757b65216474dc71b1d30769]....
+- (b) does not apply to any borrowing for which the consent of the Scottish Ministers was required, whether under regulation 2(2) or otherwise [^c-f23ab511757b65216474dc71b1d30769]....
 
-(4)[^key-513d3ff81d50166131dbfca0a2f0230f] Subject to paragraph (5), a variation under paragraph (2) must—
+(4)[^c-513d3ff81d50166131dbfca0a2f0230f] Subject to paragraph (5), a variation under paragraph (2) must—
 
 - (a) not result in the repayment period exceeding the useful life of the asset in relation to which the loans fund advance was made,
 - (b) not result in the repayment period exceeding 50 years beginning with the date on which the loans fund advance was made, if the loans fund advance does not relate to an asset for which a useful asset life can reasonably be determined,
@@ -226,13 +226,13 @@ that it has determined is to be financed by borrowing, as permitted by regulatio
 
 (6) For the purposes of paragraphs (4) and (5), the useful life of an asset is to be determined in accordance with proper accounting practices.
 
-### 14A. Deferral of statutory repayments in 2020-21, 2021-22 or 2022-23[^key-138a62877f075360448d0014d9e090c3]
+### 14A. Deferral of statutory repayments in 2020-21, 2021-22 or 2022-23[^c-138a62877f075360448d0014d9e090c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Consequential and supplemental provision
 
-### 15. Consequential amendments[^key-6866810be083ec7418a55148f31f91d5]
+### 15. Consequential amendments[^c-6866810be083ec7418a55148f31f91d5]
 
 (1) In section 37(1) (general interpretation) of the Local Government (Scotland) Act 1975[^f00014], in the definition of “prescribed” the words “, except in paragraph 6 of Schedule 3,” are repealed.
 
@@ -245,7 +245,7 @@ that it has determined is to be financed by borrowing, as permitted by regulatio
 
 (3) In section 33(1) of the Order in the Schedule to the Tay Road Bridge Order Confirmation Act 1991 (advances by councils to Tay Road Bridge Joint Board) [^f00016], the words from “, in” to “1975,” are repealed.
 
-### 16. Consequential revocations[^key-350ba31d4f1786b5778a8a7e404a0038]
+### 16. Consequential revocations[^c-350ba31d4f1786b5778a8a7e404a0038]
 
 The following instruments are revoked—
 
@@ -254,7 +254,7 @@ The following instruments are revoked—
 - (c) the Local Authority Stocks and Bonds (Scotland) Amendment Regulations 1984[^f00019]; and
 - (d) the Local Authority Stocks and Bonds (Scotland) Amendment Regulations 1991[^f00020].
 
-### 17. Supplemental provision[^key-0a26922999cbe6adf8b50276e1fe1076]
+### 17. Supplemental provision[^c-0a26922999cbe6adf8b50276e1fe1076]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -298,7 +298,7 @@ Regulation 15 also amends provision in paragraphs 22 and 25 of Schedule 3 to the
 
 [^f00002]: Footnote: [1975 c.30](https://www.legislation.gov.uk/ukpga/1975/30). Paragraph 5 of Schedule 3 was amended by section 5(2) of the Stock Transfer Act [1982 (c.41)](https://www.legislation.gov.uk/ukpga/1982/41).
 
-[^key-2d5c0dcdf714aaf230cc393983fd26a2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/123/regulation/1) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+[^c-2d5c0dcdf714aaf230cc393983fd26a2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/123/regulation/1) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
 
 [^f00003]: Footnote: [1973 c.65](https://www.legislation.gov.uk/ukpga/1973/65).
 
@@ -312,51 +312,51 @@ Regulation 15 also amends provision in paragraphs 22 and 25 of Schedule 3 to the
 
 [^f00008]: Footnote: [1991 c.iv](https://www.legislation.gov.uk/ukla/1991/4).
 
-[^key-a8500e1a673cb2e66716e1f8fabe4bc2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/123/regulation/2) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+[^c-a8500e1a673cb2e66716e1f8fabe4bc2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/123/regulation/2) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
 
-[^key-064c257876eea0df57154208ff116ee7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/123/regulation/3) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+[^c-064c257876eea0df57154208ff116ee7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/123/regulation/3) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
 
-[^key-ad00ed9b01a89330381a642dfe90693f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/123/regulation/4) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+[^c-ad00ed9b01a89330381a642dfe90693f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/123/regulation/4) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
 
-[^key-92587ef4d0be550162e5df9d7bbcf159]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/123/regulation/5) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+[^c-92587ef4d0be550162e5df9d7bbcf159]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/123/regulation/5) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
 
-[^key-8a52d4e5ef64a8ad1374d78e2fc98ebb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/123/regulation/6) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+[^c-8a52d4e5ef64a8ad1374d78e2fc98ebb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/123/regulation/6) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
 
 [^f00009]: Footnote: There are amendments to section 56 that are not relevant to these Regulations.
 
-[^key-331ac45948d4e02484a9b1b1b4dc3120]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/123/regulation/7) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+[^c-331ac45948d4e02484a9b1b1b4dc3120]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/123/regulation/7) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
 
 [^f00010]: Footnote: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11).
 
 [^f00011]: Footnote: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-189cedd0a5b76a0df937a47ffba17145]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/123/regulation/8) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+[^c-189cedd0a5b76a0df937a47ffba17145]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/123/regulation/8) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
 
-[^key-61c523a5499efbf9c0b214348a42e388]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/123/regulation/9) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+[^c-61c523a5499efbf9c0b214348a42e388]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/123/regulation/9) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
 
-[^key-64461a2e1eecd13e389b14bbe85eae25]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/123/regulation/10) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+[^c-64461a2e1eecd13e389b14bbe85eae25]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/123/regulation/10) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
 
 [^f00012]: Footnote: [2005 asp 12](https://www.legislation.gov.uk/asp/2005/12).
 
 [^f00013]: Footnote: [1964 c.40](https://www.legislation.gov.uk/ukpga/1964/40). Section 57(1) is relevantly amended by Schedule 29 to the 1973 Act and paragraph 33(a) of Schedule 13 to the Merchant Shipping Act [1995 (c.21)](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-568b657456f1de0797cb358e6083de1a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/123/regulation/11) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+[^c-568b657456f1de0797cb358e6083de1a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/123/regulation/11) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
 
-[^key-b9abe4a1bc73bcc339604d0bf3c42e96]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/123/regulation/12) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+[^c-b9abe4a1bc73bcc339604d0bf3c42e96]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/123/regulation/12) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
 
-[^key-f8bb1cdfa3d2eeaae99eb54e5b382f26]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2016/123/regulation/13) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+[^c-f8bb1cdfa3d2eeaae99eb54e5b382f26]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2016/123/regulation/13) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
 
-[^key-4e9cd06e888cc203c4566130bc339e3e]: Textual amendment: [Reg. 13(3)](https://www.legislation.gov.uk/ssi/2016/123/regulation/13/3) inserted (1.4.2023) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2021 (S.S.I. 2021/119)](https://www.legislation.gov.uk/ssi/2021/119), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/3), [6(2)](https://www.legislation.gov.uk/ssi/2021/119/regulation/6/2) (as amended by [S.S.I. 2022/122](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2022/122/regulation/4/2))
+[^c-4e9cd06e888cc203c4566130bc339e3e]: Textual amendment: [Reg. 13(3)](https://www.legislation.gov.uk/ssi/2016/123/regulation/13/3) inserted (1.4.2023) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2021 (S.S.I. 2021/119)](https://www.legislation.gov.uk/ssi/2021/119), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/3), [6(2)](https://www.legislation.gov.uk/ssi/2021/119/regulation/6/2) (as amended by [S.S.I. 2022/122](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2022/122/regulation/4/2))
 
-[^key-3bd1fbf516eeabdb423f0425be898b96]: Textual amendment: Reg. 14 substituted (1.4.2023) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2021 (S.S.I. 2021/119)](https://www.legislation.gov.uk/ssi/2021/119), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/3), [6(3)](https://www.legislation.gov.uk/ssi/2021/119/regulation/6/3) (as amended by [S.S.I. 2022/122](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/1), 4(2)(3))
+[^c-3bd1fbf516eeabdb423f0425be898b96]: Textual amendment: Reg. 14 substituted (1.4.2023) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2021 (S.S.I. 2021/119)](https://www.legislation.gov.uk/ssi/2021/119), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/3), [6(3)](https://www.legislation.gov.uk/ssi/2021/119/regulation/6/3) (as amended by [S.S.I. 2022/122](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/1), 4(2)(3))
 
-[^key-f23ab511757b65216474dc71b1d30769]: Textual amendment: Words in reg. 14(3)(b) omitted (1.4.2024) by virtue of [The Local Authority (Capital Finance and Accounting) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/90)](https://www.legislation.gov.uk/ssi/2024/90), [regs. 1](https://www.legislation.gov.uk/ssi/2024/90/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2024/90/regulation/2/2/a)
+[^c-f23ab511757b65216474dc71b1d30769]: Textual amendment: Words in reg. 14(3)(b) omitted (1.4.2024) by virtue of [The Local Authority (Capital Finance and Accounting) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/90)](https://www.legislation.gov.uk/ssi/2024/90), [regs. 1](https://www.legislation.gov.uk/ssi/2024/90/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2024/90/regulation/2/2/a)
 
-[^key-513d3ff81d50166131dbfca0a2f0230f]: Textual amendment: Reg. 14(4)-(6) inserted (1.4.2024) by [The Local Authority (Capital Finance and Accounting) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/90)](https://www.legislation.gov.uk/ssi/2024/90), [regs. 1](https://www.legislation.gov.uk/ssi/2024/90/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2024/90/regulation/2/2/b)
+[^c-513d3ff81d50166131dbfca0a2f0230f]: Textual amendment: Reg. 14(4)-(6) inserted (1.4.2024) by [The Local Authority (Capital Finance and Accounting) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/90)](https://www.legislation.gov.uk/ssi/2024/90), [regs. 1](https://www.legislation.gov.uk/ssi/2024/90/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2024/90/regulation/2/2/b)
 
-[^key-138a62877f075360448d0014d9e090c3]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/ssi/2016/123/regulation/14A) revoked (1.4.2023) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2021 (S.S.I. 2021/119)](https://www.legislation.gov.uk/ssi/2021/119), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/3), [6(4)](https://www.legislation.gov.uk/ssi/2021/119/regulation/6/4) (as amended by [S.S.I. 2022/122](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/3), 4(2)(4))
+[^c-138a62877f075360448d0014d9e090c3]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/ssi/2016/123/regulation/14A) revoked (1.4.2023) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2021 (S.S.I. 2021/119)](https://www.legislation.gov.uk/ssi/2021/119), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/3), [6(4)](https://www.legislation.gov.uk/ssi/2021/119/regulation/6/4) (as amended by [S.S.I. 2022/122](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/3), 4(2)(4))
 
-[^key-6866810be083ec7418a55148f31f91d5]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2016/123/regulation/15) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+[^c-6866810be083ec7418a55148f31f91d5]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2016/123/regulation/15) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
 
 [^f00014]: Footnote: [1975 c.30](https://www.legislation.gov.uk/ukpga/1975/30).
 
@@ -364,7 +364,7 @@ Regulation 15 also amends provision in paragraphs 22 and 25 of Schedule 3 to the
 
 [^f00016]: Footnote: There are amendments to section 33 that are not relevant to these Regulations.
 
-[^key-350ba31d4f1786b5778a8a7e404a0038]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2016/123/regulation/16) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+[^c-350ba31d4f1786b5778a8a7e404a0038]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2016/123/regulation/16) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
 
 [^f00017]: Footnote: [S.I. 1975/825](https://www.legislation.gov.uk/uksi/1975/825).
 
@@ -374,4 +374,4 @@ Regulation 15 also amends provision in paragraphs 22 and 25 of Schedule 3 to the
 
 [^f00020]: Footnote: [S.I. 1991/385](https://www.legislation.gov.uk/uksi/1991/385).
 
-[^key-0a26922999cbe6adf8b50276e1fe1076]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/ssi/2016/123/regulation/17) revoked (5.3.2021) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2021 (S.S.I. 2021/119)](https://www.legislation.gov.uk/ssi/2021/119), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2021/119/regulation/4)
+[^c-0a26922999cbe6adf8b50276e1fe1076]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/ssi/2016/123/regulation/17) revoked (5.3.2021) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2021 (S.S.I. 2021/119)](https://www.legislation.gov.uk/ssi/2021/119), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2021/119/regulation/4)

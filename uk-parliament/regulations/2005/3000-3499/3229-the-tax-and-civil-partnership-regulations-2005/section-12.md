@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12.[^key-f11df7fdee59bbc474002afd7a7cc634]
+## 12.[^c-f11df7fdee59bbc474002afd7a7cc634]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 48 (excluded property), in subsection (1)(b), after “spouse” inse
 
 ## Annotations
 
-[^key-f11df7fdee59bbc474002afd7a7cc634]: Commencement: Reg. 12 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-f11df7fdee59bbc474002afd7a7cc634]: Commencement: Reg. 12 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

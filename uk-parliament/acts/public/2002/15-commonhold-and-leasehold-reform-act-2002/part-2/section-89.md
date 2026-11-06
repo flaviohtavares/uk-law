@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Costs where claim ceases[^key-c0772f19c63ca8a70e7b72431f12e528]
+## 89. Costs where claim ceases[^c-c0772f19c63ca8a70e7b72431f12e528]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0772f19c63ca8a70e7b72431f12e528]: Textual amendment: [S. 89](https://www.legislation.gov.uk/ukpga/2002/15/section/89) omitted (3.3.2025) by virtue of [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 50(4)](https://www.legislation.gov.uk/ukpga/2024/22/section/50/4), [124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3); [S.I. 2025/131](https://www.legislation.gov.uk/uksi/2025/131), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/131/regulation/2/b)
+[^c-c0772f19c63ca8a70e7b72431f12e528]: Textual amendment: [S. 89](https://www.legislation.gov.uk/ukpga/2002/15/section/89) omitted (3.3.2025) by virtue of [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 50(4)](https://www.legislation.gov.uk/ukpga/2024/22/section/50/4), [124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3); [S.I. 2025/131](https://www.legislation.gov.uk/uksi/2025/131), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/131/regulation/2/b)

@@ -48,14 +48,14 @@ To the extent required by section 27 of PSPJOA 2022, these Regulations are made 
 
 ## PART 1 — Introductory provisions
 
-### 1. Citation and commencement[^key-6449dfcec510f9dddb92cd189b83bd18]
+### 1. Citation and commencement[^c-6449dfcec510f9dddb92cd189b83bd18]
 
 These Regulations—
 
 - (a) may be cited as the Public Service (Civil Servants and Others) Pensions (Remediable Service) Regulations (Northern Ireland) 2023;
 - (b) come into operation on 1st October 2023.
 
-### 2. Interpretation[^key-d8c10b066f7c4f22c06e101743e90e3d]
+### 2. Interpretation[^c-d8c10b066f7c4f22c06e101743e90e3d]
 
 (1) In these Regulations—
 
@@ -110,13 +110,13 @@ has, in relation to the relevant scheme, the meaning given in that scheme.
 
 (5) In these Regulations, a reference to a provision of the PSP Directions 2023 is a reference to that provision as amended from time to time.
 
-### 3. Delegation[^key-a01e760117b678e0d0a778f3daf3d1dd]
+### 3. Delegation[^c-a01e760117b678e0d0a778f3daf3d1dd]
 
 The scheme manager may delegate any functions of the scheme manager under these Regulations, including this power to delegate.
 
 ## PART 2 — Remediable service statements
 
-### 4. Requirements relating to remediable service statements[^key-f484929fe4b720658c78ee3ba97059ec]
+### 4. Requirements relating to remediable service statements[^c-f484929fe4b720658c78ee3ba97059ec]
 
 (1) The scheme manager must provide a remediable service statement in respect of a remedy member (“**M**”) in accordance with—
 
@@ -157,7 +157,7 @@ The scheme manager may delegate any functions of the scheme manager under these 
   - (ii) direction 20(1) of the PSP Directions 2023;
 - (b) when a remediable service statement must be combined with a benefit information statement provided under section 14 of the Public Service Pensions Act 2014, see direction 20(2) of the PSP Directions 2023.
 
-### 4A. Voidable remediable service statements[^key-46254cc7d0980fff29033919ef9aa68d]
+### 4A. Voidable remediable service statements[^c-46254cc7d0980fff29033919ef9aa68d]
 
 (1) The scheme manager may treat as void a remediable service statement provided in relation to a member (“**M**”), including where an immediate choice decision or a deferred choice decision has been made in relation to M’s remediable service, provided that the scheme manager is satisfied that—
 
@@ -193,7 +193,7 @@ The scheme manager may delegate any functions of the scheme manager under these 
 
 ### CHAPTER 1 — Opted-out service elections
 
-#### 5. Application and interpretation of Chapter 1[^key-1ed3365f987c9e295540573a105e5d6c]
+#### 5. Application and interpretation of Chapter 1[^c-1ed3365f987c9e295540573a105e5d6c]
 
 (1) This Chapter applies to and in respect of a member (“**M**”) with PCSPS(NI) opted-out service.
 
@@ -202,7 +202,7 @@ The scheme manager may delegate any functions of the scheme manager under these 
 - “**opted-out service decision-maker**” means the person who may make an opted-out service election under regulation 6(2);
 - “**PCSPS(NI) opted-out service**” means relevant opted-out service[^f00012] in an employment or office in relation to the PCSPS(NI).
 
-#### 6. Election in relation to PCSPS(NI) opted-out service[^key-ba7a5bbb2273f44c1ed599051713a911]
+#### 6. Election in relation to PCSPS(NI) opted-out service[^c-ba7a5bbb2273f44c1ed599051713a911]
 
 (1) An election (an “opted-out service election”) may be made in relation to M’s PCSPS(NI) opted-out service in accordance with this Chapter and section 5 of PSPJOA 2022.
 
@@ -249,13 +249,13 @@ The scheme manager may delegate any functions of the scheme manager under these 
 
 ### CHAPTER 2 — Immediate choice decision for alpha or PCSPS(NI) benefits
 
-#### 7. Application of Chapter 2[^key-7854e2835a7be8ca923f2b056388d8e3]
+#### 7. Application of Chapter 2[^c-7854e2835a7be8ca923f2b056388d8e3]
 
 (1) This Chapter applies in respect of the remediable service of an immediate choice member (“**M**”).
 
 (2) Where M has remediable service in multiple employments or offices, this Chapter applies separately in relation to the remediable service in each employment or office.
 
-#### 8. Immediate choice decision for alpha or PCSPS(NI) benefits: general[^key-adb8a3c6b7df21a7d1d5247476f6029d]
+#### 8. Immediate choice decision for alpha or PCSPS(NI) benefits: general[^c-adb8a3c6b7df21a7d1d5247476f6029d]
 
 (1) A decision (an “immediate choice decision”) may be made in accordance with this Chapter—
 
@@ -291,7 +291,7 @@ The scheme manager may delegate any functions of the scheme manager under these 
 - (b) section 7(1)(b) (provision about when a section 6 election is to be treated as having taken effect);
 - (c) section 9 (provision about persons with remediable service in more than one Chapter 1 legacy scheme).
 
-#### 9. Immediate choice decision: additional requirements[^key-5719c20045bc029cb809b12b407acb78]
+#### 9. Immediate choice decision: additional requirements[^c-5719c20045bc029cb809b12b407acb78]
 
 (1) This regulation applies where the immediate choice decision-maker (“**D**”) is a person other than the scheme manager.
 
@@ -302,7 +302,7 @@ The scheme manager may delegate any functions of the scheme manager under these 
 - (a) information in D’s possession, or
 - (b) information which D can reasonably be expected to obtain.
 
-#### 10. Immediate choice decision: deemed section 6 election[^key-6ef09084870f2d56fb226cf04f58d7df]
+#### 10. Immediate choice decision: deemed section 6 election[^c-6ef09084870f2d56fb226cf04f58d7df]
 
 (1) A section 6 election is treated as made in relation to M’s remediable service immediately before the end of the section 6 election period where—
 
@@ -319,13 +319,13 @@ The scheme manager may delegate any functions of the scheme manager under these 
 
 ### CHAPTER 3 — Deferred choice decision for alpha or PCSPS(NI) benefits
 
-#### 11. Application of Chapter 3[^key-39f5f15e02ed3c243bbeabd7c99241e7]
+#### 11. Application of Chapter 3[^c-39f5f15e02ed3c243bbeabd7c99241e7]
 
 (1) This Chapter applies in respect of the remediable service of a deferred choice member (“**M**”).
 
 (2) Where M has remediable service in multiple employments or offices, this Chapter applies separately in relation to the remediable service in each employment or office.
 
-#### 12. Deferred choice decision for alpha or PCSPS(NI) benefits: general[^key-4be9e9b59d5c2e200bd294bfd0c3aec7]
+#### 12. Deferred choice decision for alpha or PCSPS(NI) benefits: general[^c-4be9e9b59d5c2e200bd294bfd0c3aec7]
 
 (1) A decision (a “deferred choice decision”) may be made—
 
@@ -354,7 +354,7 @@ The scheme manager may delegate any functions of the scheme manager under these 
 - (b) section 11(3)(b), (4) and (7) (provision about when a section 10 election takes effect, and the effect of lapse or revocation of a section 10 election);
 - (c) section 13 (persons with remediable service in more than one Chapter 1 legacy scheme).
 
-#### 13. Deferred choice decision: when a deferred choice decision may be made[^key-15ea3428183a6d712ee5300900defde1]
+#### 13. Deferred choice decision: when a deferred choice decision may be made[^c-15ea3428183a6d712ee5300900defde1]
 
 (1) Where the deferred choice decision-maker is M, a deferred choice decision may be made only during the period—
 
@@ -390,7 +390,7 @@ the period during which a deferred choice decision may be made is to be treated 
 
 D may make a deferred choice decision only if they revoke M’s deferred choice decision in accordance with regulation 14(2).
 
-#### 14. Deferred choice decision: revocation[^key-97786a20e713af92e18fb81312caf38d]
+#### 14. Deferred choice decision: revocation[^c-97786a20e713af92e18fb81312caf38d]
 
 (1) Where the deferred choice decision-maker is M, M may revoke a deferred choice decision—
 
@@ -408,7 +408,7 @@ D may revoke M’s deferred choice decision by communicating to the scheme manag
 
 (3) A deferred choice decision made by a person other than M is irrevocable.
 
-#### 15. Deferred choice decision: additional requirements[^key-9038ece822749fd5ab03841118ddd207]
+#### 15. Deferred choice decision: additional requirements[^c-9038ece822749fd5ab03841118ddd207]
 
 Where the deferred choice decision-maker (“**D**”) is a person other than the scheme manager, a deferred choice decision is to be treated as having been made only if D provides any information specified in a written request from the scheme manager that is—
 
@@ -421,7 +421,7 @@ Where the deferred choice decision-maker (“**D**”) is a person other than th
 
 #### SECTION 1 — Application and interpretation of Chapter 1
 
-##### 16. Application and interpretation of Chapter 1[^key-1d40ad9b6800489b9825c8eb08b6274e]
+##### 16. Application and interpretation of Chapter 1[^c-1d40ad9b6800489b9825c8eb08b6274e]
 
 (1) This Chapter applies in relation to—
 
@@ -454,7 +454,7 @@ Where the deferred choice decision-maker (“**D**”) is a person other than th
 
 #### SECTION 2 — Pension sharing orders: information provided before 1st October 2023
 
-##### 17. Application and interpretation of Section 2[^key-60d2723c4d7b07999c60d737a1adce50]
+##### 17. Application and interpretation of Section 2[^c-60d2723c4d7b07999c60d737a1adce50]
 
 (1) This Section applies where, before 1st October 2023, the scheme manager has provided information for the purpose of determining amounts under Article 26 of WRP(NI)O 1999 in respect of a remedy member’s remediable service.
 
@@ -473,7 +473,7 @@ Where the deferred choice decision-maker (“**D**”) is a person other than th
 
 (3) For the purposes of this Section, a relevant pension sharing order relates to mixed service if it specifies an appropriate amount in accordance with Article 26(2) or (3) of WRP(NI)O 1999 by reference to the value of remediable relevant benefits to which D is entitled by virtue of remediable shareable rights secured in both the PCSPS(NI) and alpha (and, accordingly, a relevant pension sharing order does not relate to mixed service if it specifies an appropriate amount by reference to remediable shareable rights secured in only one of those schemes).
 
-##### 18. Meaning of “alternative amount”[^key-7027b27188f329fcd9c733e59fe15c47]
+##### 18. Meaning of “alternative amount”[^c-7027b27188f329fcd9c733e59fe15c47]
 
 (1) “**Alternative amount**” means—
 
@@ -487,21 +487,21 @@ Where the deferred choice decision-maker (“**D**”) is a person other than th
 (2) In paragraph (1)(b)—
 
 - “**the PCSPS(NI) amount**” means, where the initial amount was—
-  - (a) determined under Article 26(2) of WRP(NI)O 1999 in relation to a percentage value to be transferred from both the PCSPS(NI) and alpha (except where paragraph (2A) applies)[^key-dad693e6eb5d0498779c29242daf38a7] , the amount that would have been determined applying—
+  - (a) determined under Article 26(2) of WRP(NI)O 1999 in relation to a percentage value to be transferred from both the PCSPS(NI) and alpha (except where paragraph (2A) applies)[^c-dad693e6eb5d0498779c29242daf38a7] , the amount that would have been determined applying—
     - (i) in relation to pre-taper date remediable relevant benefits, the PCSPS(NI) percentage value, and
     - (ii) in relation to post-taper date remediable relevant benefits, the alpha percentage value,
 
     under that Article on the valuation day if all of the remediable relevant benefits had been secured in the PCSPS(NI);
   - (b) determined under Article 26(3) of WRP(NI)O 1999 in relation to an amount to be transferred from both the PCSPS(NI) and alpha, the amount equal to the implied percentage of the cash equivalent of the remediable relevant benefits on the valuation day determined as if all of those benefits had been secured in the PCSPS(NI);
 - “**the alpha amount**” means, where the initial amount was—
-  - (a) determined under Article 26(2) of WRP(NI)O 1999 in relation to a percentage value to be transferred from both the PCSPS(NI) and alpha (except where paragraph (2A) applies)[^key-684b2c83ccc137bd0baf931f00ffbc3b] , the amount that would have been determined applying—
+  - (a) determined under Article 26(2) of WRP(NI)O 1999 in relation to a percentage value to be transferred from both the PCSPS(NI) and alpha (except where paragraph (2A) applies)[^c-684b2c83ccc137bd0baf931f00ffbc3b] , the amount that would have been determined applying—
     - (i) in relation to pre-taper date remediable relevant benefits, the PCSPS(NI) percentage value, and
     - (ii) in relation to post-taper date remediable relevant benefits, the alpha percentage value,
 
     under that Article on the valuation day if all of the remediable relevant benefits had been secured in alpha;
   - (b) determined under Article 26(3) of WRP(NI)O 1999 in relation to an amount to be transferred from both the PCSPS(NI) and alpha, the amount equal to the implied percentage of the cash equivalent of the remediable relevant benefits on the valuation day determined as if all of those benefits had been secured in alpha.
 
-(2A)[^key-e8db9294feb29c11dd694247a25dc4d4] This paragraph applies where the relevant pension order—
+(2A)[^c-e8db9294feb29c11dd694247a25dc4d4] This paragraph applies where the relevant pension order—
 
 - (a) relates to mixed service, and
 - (b) specifies a PCSPS(NI) specified amount and an alpha specified amount.
@@ -517,7 +517,7 @@ Where the deferred choice decision-maker (“**D**”) is a person other than th
 
 (3) In this regulation—
 
-- “[^key-426245b00be875b4a3ae39d27945922c]**aggregate PCSPS(NI) and alpha implied percentage**” means the percentage that the amount to be transferred from both the PCSPS(NI) and alpha represented of the cash equivalent of the relevant benefits determined as if pre-taper date benefits had been secured in the PCSPS(NI) and post-taper date benefits had been secured in alpha on valuation day;
+- “[^c-426245b00be875b4a3ae39d27945922c]**aggregate PCSPS(NI) and alpha implied percentage**” means the percentage that the amount to be transferred from both the PCSPS(NI) and alpha represented of the cash equivalent of the relevant benefits determined as if pre-taper date benefits had been secured in the PCSPS(NI) and post-taper date benefits had been secured in alpha on valuation day;
 - “**alpha implied percentage**” means the percentage that the alpha specified amount represented of the cash equivalent of the post-taper date benefits determined as if all of those benefits had been secured in alpha on valuation day;
 - “**alpha percentage value**” means the percentage value specified in a relevant pension sharing order in relation to alpha for the purpose of determining an amount under Article 26(2) of WRP(NI)O 1999;
 - “**alpha specified amount**” means the amount specified in a relevant pension sharing order in relation to alpha for the purpose of determining an amount under section 26(3) of WRP(NI)O 1999;
@@ -530,7 +530,7 @@ Where the deferred choice decision-maker (“**D**”) is a person other than th
 - “**relevant percentage value**” means the percentage value the relevant pension sharing order specifies in relation to the initial scheme for the purpose of determining an amount under section 26(2) of WRP(NI)O 1999;
 - “**tapered protection closing date**”, in relation to D, has the meaning given in paragraph 3 of Schedule 2 to the 2014 Regulations.
 
-##### 19. Information provided before 1st October 2023: calculating a remediable credit adjustment[^key-1863dc9664d5af08f84425ad53b09cb6]
+##### 19. Information provided before 1st October 2023: calculating a remediable credit adjustment[^c-1863dc9664d5af08f84425ad53b09cb6]
 
 (1) The scheme manager must determine the alternative amount in relation to C’s pension credit—
 
@@ -550,7 +550,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 - (b) any remediable credit adjustment, and
 - (c) where regulation 20(4)(b) applies in relation to C, an explanation of the request that may be made in accordance with regulation 20(5) and the consequences of making, or not making, such a request.
 
-##### 20. Information provided before 1st October 2023: applying a remediable credit adjustment[^key-e9d8e4081dd30941e1a1dab19fab95c4]
+##### 20. Information provided before 1st October 2023: applying a remediable credit adjustment[^c-e9d8e4081dd30941e1a1dab19fab95c4]
 
 (1) This regulation applies where C’s pension account is subject to a remediable credit adjustment.
 
@@ -582,7 +582,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 - (b) a reference to any effect of sections 2(1) and 6(4) and (5) were a reference to the effect of this regulation;
 - (c) the term “**operative time**” means the time at which the adjustment mentioned in paragraph (2) is made (disregarding paragraph (3)).
 
-##### 21. Information provided before 1st October 2023: recalculating D’s reduction of benefit[^key-762bcf27220df4c70cb5640855c8b14c]
+##### 21. Information provided before 1st October 2023: recalculating D’s reduction of benefit[^c-762bcf27220df4c70cb5640855c8b14c]
 
 (1) This regulation applies where D’s remediable relevant benefits have been reduced by an initial reduction amount.
 
@@ -606,7 +606,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 
 #### SECTION 3 — Information provided on or after 1st October 2023
 
-##### 22. Application and interpretation of Section 3[^key-0e0b565fb98ecf3ef020604d85afff89]
+##### 22. Application and interpretation of Section 3[^c-0e0b565fb98ecf3ef020604d85afff89]
 
 (1) This Section applies where, on or after 1st October 2023, the scheme manager provides information for the purpose of determining amounts under Article 26 of WRP(NI)O 1999 in respect of a remedy member’s remediable service.
 
@@ -618,7 +618,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 - “**immediate choice pensioner member**” means an immediate choice member who is, immediately before these Regulations come into force, a pensioner member in relation to their remediable service;
 - “**the PCSPS(NI) cash equivalent**” has the meaning given in regulation 23(2)(a).
 
-##### 23. Information provided on or after 1st October 2023: calculation of pension credits and debits[^key-0eb380f48d02202567990e32386701b5]
+##### 23. Information provided on or after 1st October 2023: calculation of pension credits and debits[^c-0eb380f48d02202567990e32386701b5]
 
 (1) This regulation applies where D is—
 
@@ -637,7 +637,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 - (a) the PCSPS(NI) cash equivalent, or
 - (b) the alpha cash equivalent.
 
-##### 24. Information provided on or after 1st October 2023: recalculating D’s reduction of benefit[^key-049753057196d90f1c06a5c84fa310b4]
+##### 24. Information provided on or after 1st October 2023: recalculating D’s reduction of benefit[^c-049753057196d90f1c06a5c84fa310b4]
 
 (1) This regulation applies where D’s remediable relevant benefits are to be reduced in relation to a pension debit calculated under regulation 23(3).
 
@@ -656,7 +656,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 
 ### CHAPTER 2 — Arrangements on divorce, annulment or dissolution other than a pension sharing order
 
-#### 25. Arrangements other than a pension sharing order: calculating the value of pension benefits[^key-aaac2924fc9a973155a90b1578bfeef9]
+#### 25. Arrangements other than a pension sharing order: calculating the value of pension benefits[^c-aaac2924fc9a973155a90b1578bfeef9]
 
 (1) This regulation applies where—
 
@@ -686,7 +686,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 
 ### CHAPTER 1 — Added pension
 
-#### 26. Interpretation of Chapter 1[^key-050d3133c9df0328cd94da0b09ce2bb3]
+#### 26. Interpretation of Chapter 1[^c-050d3133c9df0328cd94da0b09ce2bb3]
 
 In this Chapter—
 
@@ -698,7 +698,7 @@ In this Chapter—
   - (c) rule D.4 or D.5 of Section III;
 - “**periodic arrangement**” means an arrangement under which a remedy member secures added pension rights by virtue of periodic voluntary contributions.
 
-#### 27. Lump sum purchase of added pension[^key-8d66c8760a7c7c69eaed0cb574ade54a]
+#### 27. Lump sum purchase of added pension[^c-8d66c8760a7c7c69eaed0cb574ade54a]
 
 (1) This regulation applies in relation to added pension rights secured by a lump sum voluntary contribution made by a remedy member (“M”) during the period of M’s remediable service (“the remediable voluntary contribution”).
 
@@ -735,7 +735,7 @@ determine the equivalent value of the added pension rights that would have been 
   - (b) in relation to added pension rights secured or treated as secured in the PCSPS(NI), alpha;
 - “**relevant pension year**” has the meaning given in direction 5(16)(c)(i) of the PSP Directions 2023.
 
-#### 28. Periodic arrangements for alpha added pension[^key-3aa5890e6ab8a4fdbea63ec7fe06887a]
+#### 28. Periodic arrangements for alpha added pension[^c-3aa5890e6ab8a4fdbea63ec7fe06887a]
 
 (1) This regulation applies in relation to a periodic arrangement for alpha added pension (“the relevant periodic arrangement”)—
 
@@ -755,7 +755,7 @@ determine the equivalent value of the added pension rights that would have been 
 
 confer rights to PCSPS(NI) added pension that are of an equivalent value to the added pension rights that would have been secured in the PCSPS(NI) if each voluntary contribution paid to alpha pursuant to the relevant periodic arrangement had been paid to the PCSPS(NI) in the same relevant pension year in which the voluntary contribution was paid to alpha.
 
-#### 29. PCSPS(NI) added pension: treatment on a section 6 or 10 election[^key-51368a1e9e1df7236048a75fc39b2f4e]
+#### 29. PCSPS(NI) added pension: treatment on a section 6 or 10 election[^c-51368a1e9e1df7236048a75fc39b2f4e]
 
 (1) This regulation applies where—
 
@@ -768,7 +768,7 @@ confer rights to PCSPS(NI) added pension that are of an equivalent value to the 
 
 ### CHAPTER 2 — Effective pension age
 
-#### 30. Treatment of EPA rights[^key-bef867b645adffa63ab0534601c2b078]
+#### 30. Treatment of EPA rights[^c-bef867b645adffa63ab0534601c2b078]
 
 (1) This regulation applies where a remedy member (“**M**”) entered into an arrangement during the period of their remediable service to pay periodic voluntary contributions (the “remediable voluntary contributions”) to secure EPA rights.
 
@@ -784,7 +784,7 @@ confer rights to PCSPS(NI) added pension that are of an equivalent value to the 
 - (a) direction 5(10) (provision of explanation);
 - (b) direction 5(11) and (12) (appeals).
 
-(3A)[^key-823a065e4d39dc8f84d55d3c5228be8c] Before making a remedy decision, the relevant decision-maker may opt for the scheme manager to pay M or, where M is deceased, M’s personal representatives the compensatable amount.
+(3A)[^c-823a065e4d39dc8f84d55d3c5228be8c] Before making a remedy decision, the relevant decision-maker may opt for the scheme manager to pay M or, where M is deceased, M’s personal representatives the compensatable amount.
 
 (3B) The option in paragraph (3A) may only be exercised—
 
@@ -811,7 +811,7 @@ confer rights to PCSPS(NI) added pension that are of an equivalent value to the 
 
 the scheme manager must confer rights to added pension under the PCSPS(NI) that are of an equivalent value to the PCSPS(NI) added pension value.
 
-(7)[^key-9d19976e69c38955e35eb15c4e55bb8b] Where an option is exercised or a decision is made in accordance with—
+(7)[^c-9d19976e69c38955e35eb15c4e55bb8b] Where an option is exercised or a decision is made in accordance with—
 
 - (a) paragraph (3B) for the purpose of paragraph (3A), or
 - (b) paragraph (5) for the purpose of paragraph (4)(b),
@@ -836,7 +836,7 @@ any rights that would otherwise have been secured by the remediable voluntary co
 
 ### CHAPTER 3 — Treatment of remediable added pension rights
 
-#### 31. Application and interpretation of Chapter 3[^key-0c05f3072b800e11d616af91dfa03f67]
+#### 31. Application and interpretation of Chapter 3[^c-0c05f3072b800e11d616af91dfa03f67]
 
 (1) This Chapter applies in relation to “remediable added pension rights”, being added pension rights secured by a remedy member (“**M**”) by virtue of—
 
@@ -845,7 +845,7 @@ any rights that would otherwise have been secured by the remediable voluntary co
 
 (2) In paragraph (1), “added pension rights” and “periodic arrangement” have the meanings given in regulation 26.
 
-#### 32. Treatment of added pension rights under alpha[^key-4e1813e44e3459d092c6bacece4c28e4]
+#### 32. Treatment of added pension rights under alpha[^c-4e1813e44e3459d092c6bacece4c28e4]
 
 (1) Where M’s remediable added pension rights would, apart from this regulation, be rights to benefits under alpha, the rights—
 
@@ -867,7 +867,7 @@ any rights that would otherwise have been secured by the remediable voluntary co
 - (a) the rights to alpha added pension mentioned in paragraph (3)(b) are to be treated for the purposes of these Regulations and of PSPJOA 2022 as if those rights were secured by virtue of M’s remediable service, and
 - (b) section 2(5)(a) of PSPJOA 2022 does not apply in relation to the arrangement by virtue of which M secured the rights to alpha added pension (and, accordingly, section 2(1) of PSPJOA 2022 affects that arrangement).
 
-#### 33. Benefits already paid in relation to added pension rights[^key-dc258aba4953aeb0fa049df640139455]
+#### 33. Benefits already paid in relation to added pension rights[^c-dc258aba4953aeb0fa049df640139455]
 
 (1) Paragraph (2) applies in relation to any benefits (“the paid benefits”) that alpha has at any time paid to a person (“**P**”) so far as—
 
@@ -879,7 +879,7 @@ any rights that would otherwise have been secured by the remediable voluntary co
 - (a) as not having been paid to P by alpha, but
 - (b) as having been paid to P instead by the PCSPS(NI).
 
-#### 34. Pension benefits and lump sum benefits in relation to remediable additional rights[^key-08d3388074bc8a07d29df13720627c89]
+#### 34. Pension benefits and lump sum benefits in relation to remediable additional rights[^c-08d3388074bc8a07d29df13720627c89]
 
 (1) This regulation applies in relation to any benefits that have been paid to or in respect of the remediable added pension rights of an immediate choice member.
 
@@ -904,7 +904,7 @@ the scheme manager must pay an amount equal to the difference to the beneficiary
 
 ### CHAPTER 4 — Remedial arrangements to pay voluntary contributions to the PCSPS(NI)
 
-#### 35. Remedial arrangements to pay voluntary contributions to secure EPA rights[^key-7a975b166d9630b29b9a5d493f22980c]
+#### 35. Remedial arrangements to pay voluntary contributions to secure EPA rights[^c-7a975b166d9630b29b9a5d493f22980c]
 
 (1) This regulation applies to a remedy member (“**M**”) who—
 
@@ -961,7 +961,7 @@ the scheme manager must pay an amount equal to the difference to the beneficiary
 
 ### CHAPTER 1 — General
 
-#### 36. Interpretation of Part 6[^key-dedd76ce5378a8612bf53d7d8ccaf431]
+#### 36. Interpretation of Part 6[^c-dedd76ce5378a8612bf53d7d8ccaf431]
 
 (1) In this Part—
 
@@ -993,7 +993,7 @@ the scheme manager must pay an amount equal to the difference to the beneficiary
 - (a) the provisions of the civil service scheme which apply to the calculation of values of that type, and
 - (b) the guidance and tables provided for the purpose of calculating such values that were, or are, in use on the date used for the calculation of the value which originally secured rights under a civil service scheme.
 
-#### 37. Transferred out remediable service statements[^key-84fb89cbf6aa97f7ad4f86c07f1ad2b6]
+#### 37. Transferred out remediable service statements[^c-84fb89cbf6aa97f7ad4f86c07f1ad2b6]
 
 Where a remedy member has transferred any rights in respect of remediable service out of a civil service scheme, the scheme manager must provide a transferred out remediable service statement in accordance with direction 6(2) to (4) of the PSP Directions 2023 (and direction 6(4) applies as if the reference to “any provision made by virtue of section 29(1) of PSPJOA 2022” were a reference to regulation 4).
 
@@ -1001,11 +1001,11 @@ Where a remedy member has transferred any rights in respect of remediable servic
 
 #### SECTION 1 — Transfers before 1st October 2023
 
-##### 38. Transfers out before 1st October 2023[^key-f1344e729f54f65b430574149dc5ba35]
+##### 38. Transfers out before 1st October 2023[^c-f1344e729f54f65b430574149dc5ba35]
 
-(1) Except where paragraph (1A) applies,[^key-3990742c79d5b3ccaed265b755deaef8] this regulation applies in relation to a remedy member (“**M**”) in respect of whom the scheme manager paid a remediable transfer value before 1st October 2023.
+(1) Except where paragraph (1A) applies,[^c-3990742c79d5b3ccaed265b755deaef8] this regulation applies in relation to a remedy member (“**M**”) in respect of whom the scheme manager paid a remediable transfer value before 1st October 2023.
 
-(1A)[^key-a4c7737ba82660b5b41d43ba1a3b9c1c] This paragraph applies where—
+(1A)[^c-a4c7737ba82660b5b41d43ba1a3b9c1c] This paragraph applies where—
 
 - (a) the receiving scheme was not a local government scheme within the meaning of section 86(1) of PSPJOA 2022, and
 - (b) the payment was made in circumstances in which any of the following applied—
@@ -1042,11 +1042,11 @@ the scheme manager owes M or, where M is deceased, M’s personal representative
 - (a) would be a payment described in regulation 6 of the Registered Pension Schemes (Authorised Payments) Regulations 2009[^f00019] (“**the 2009 Regulations**”) read as if regulation 6(1)(a) of those Regulations were omitted, the compensatable amount is to be reduced by the amount equal to the income tax that would be chargeable on it if regulation 3(b) of the 2009 Regulations applied to it;
 - (b) would not be a payment so described, the compensatable amount is to be reduced by an amount equal to the income tax that would be charged on the amount if it were taxed as pension income under Part 9 of the Income Tax (Earnings and Pensions) Act 2003[^f00020].
 
-##### 39. Transfers in before 1st October 2023[^key-5f26843c4e13d1b5171440d4ec3aa960]
+##### 39. Transfers in before 1st October 2023[^c-5f26843c4e13d1b5171440d4ec3aa960]
 
-(1) Except where paragraph (1A) applies,[^key-4b10bf52e2d5487e4e75ee0eb0e18774] this regulation applies in relation to each payment of a remediable transfer value in respect of a member (“**M**”) which was accepted by the scheme manager before 1st October 2023.
+(1) Except where paragraph (1A) applies,[^c-4b10bf52e2d5487e4e75ee0eb0e18774] this regulation applies in relation to each payment of a remediable transfer value in respect of a member (“**M**”) which was accepted by the scheme manager before 1st October 2023.
 
-(1A)[^key-694fffa9ea0bb6a541bddd7fcb387a98] This paragraph applies where—
+(1A)[^c-694fffa9ea0bb6a541bddd7fcb387a98] This paragraph applies where—
 
 - (a) the sending scheme was not a local government scheme within the meaning of section 86(1) PSPJOA 2022, and
 - (b) the payment was accepted in circumstances in which any of the following applied—
@@ -1069,11 +1069,11 @@ the scheme manager owes M or, where M is deceased, M’s personal representative
 
 #### SECTION 2 — Transfers on or after 1st October 2023
 
-##### 40. Application of Section 2[^key-6ae4e43fe1ddfd66a45539364a4e9c02]
+##### 40. Application of Section 2[^c-6ae4e43fe1ddfd66a45539364a4e9c02]
 
 This Section applies in respect of a deferred choice member (“**M**”) where no pension benefits have become payable in relation to M’s remediable service.
 
-##### 41. Transfers out on or after 1st October 2023[^key-920f5fd0db31724266fb60ad9179b2a8]
+##### 41. Transfers out on or after 1st October 2023[^c-920f5fd0db31724266fb60ad9179b2a8]
 
 (1) This regulation applies to a remediable transfer value to be paid in relation to M by the scheme manager on or after 1st October 2023.
 
@@ -1088,7 +1088,7 @@ This Section applies in respect of a deferred choice member (“**M**”) where 
 
 #### SECTION 1 — Club transfers before 1st October 2023
 
-##### 42. Club transfers out before 1st October 2023[^key-877a5d300591d473894bbdb03a54a5d6]
+##### 42. Club transfers out before 1st October 2023[^c-877a5d300591d473894bbdb03a54a5d6]
 
 (1) This regulation applies in relation to each member (“**M**”) in respect of whom the scheme manager paid a remediable club transfer value before 1st October 2023.
 
@@ -1108,7 +1108,7 @@ the scheme manager must pay the receiving scheme an amount equal to *x* – *y*.
 
 (5) A payment made under paragraph (4) is subject to the same conditions as the remediable club transfer value.
 
-##### 43. Club transfers in before 1st October 2023[^key-5e2b4fc4a0fb115ded2e8b49019d989c]
+##### 43. Club transfers in before 1st October 2023[^c-5e2b4fc4a0fb115ded2e8b49019d989c]
 
 (1) This regulation applies in relation to each remediable club transfer value in respect of a member (“**M**”) which was accepted by the scheme manager before 1st October 2023.
 
@@ -1126,11 +1126,11 @@ the scheme manager must pay the receiving scheme an amount equal to *x* – *y*.
 
 #### SECTION 2 — Club transfers on or after 1st October 2023
 
-##### 44. Application of Section 2[^key-dd19b0d7e82e0f3fa671c7b3f27135d2]
+##### 44. Application of Section 2[^c-dd19b0d7e82e0f3fa671c7b3f27135d2]
 
 This Section applies in respect of a member (“**M**”) who is a deferred choice member, and to whom no pension benefits have become payable in relation to M’s remediable service.
 
-##### 45. Club transfers out on or after 1st October 2023[^key-bcfe78a72e680db0abfd2ecf495e854b]
+##### 45. Club transfers out on or after 1st October 2023[^c-bcfe78a72e680db0abfd2ecf495e854b]
 
 (1) This regulation applies in relation to a remediable club transfer value to be paid by the scheme manager in respect of M on or after 1st October 2023.
 
@@ -1143,7 +1143,7 @@ This Section applies in respect of a member (“**M**”) who is a deferred choi
 
 (4) The scheme manager must provide to the receiving scheme the result of the calculations mentioned in paragraph (2).
 
-##### 46. Club transfers in on or after 1st October 2023[^key-d9917eeb8904be4f4d87c2cc50e4d178]
+##### 46. Club transfers in on or after 1st October 2023[^c-d9917eeb8904be4f4d87c2cc50e4d178]
 
 (1) This regulation applies in relation to a remediable club transfer value payment which is accepted by the scheme manager on or after 1st October 2023.
 
@@ -1154,7 +1154,7 @@ This Section applies in respect of a member (“**M**”) who is a deferred choi
 
 #### SECTION 3 — Interim payment of benefits in certain cases
 
-##### 47. Interim payment of benefits in certain cases[^key-af0855d477e3f3b80224377bdd7557b5]
+##### 47. Interim payment of benefits in certain cases[^c-af0855d477e3f3b80224377bdd7557b5]
 
 (1) This regulation applies in relation to a deferred choice member (“**M**”) in respect of whom the scheme manager has accepted a remediable club transfer value, where—
 
@@ -1189,7 +1189,7 @@ the scheme manager must pay an amount equal to the difference to the beneficiary
 
 ### CHAPTER 4 — Treatment of rights secured by virtue of a remediable value
 
-#### 48. Application and interpretation of Chapter 4[^key-b443aecafb1320fe3987dcde53e9cb9d]
+#### 48. Application and interpretation of Chapter 4[^c-b443aecafb1320fe3987dcde53e9cb9d]
 
 (1) This Chapter applies in relation to the following accepted by the scheme manager in respect of a member (“**M**”)—
 
@@ -1198,7 +1198,7 @@ the scheme manager must pay an amount equal to the difference to the beneficiary
 
 (2) In this Chapter, “**transferred in remediable rights**” means M’s remediable rights in a civil service scheme secured by virtue of a remediable value accepted by the scheme manager together with any payment or, as the case may be, adjustment under regulation 39(3) or 43(2).
 
-#### 49. Transferred in remediable rights treated as being in the PCSPS(NI)[^key-7919749acad74a304c9575477a84ca47]
+#### 49. Transferred in remediable rights treated as being in the PCSPS(NI)[^c-7919749acad74a304c9575477a84ca47]
 
 (1) Where M’s transferred in remediable rights would, apart from this regulation, be rights to benefits under alpha, the rights—
 
@@ -1210,7 +1210,7 @@ the scheme manager must pay an amount equal to the difference to the beneficiary
 - (a) for the purposes of determining which civil service scheme is (or at any time was) required to pay benefits to or in respect of M’s transferred in remediable rights, and
 - (b) subject to regulation 50, for all other purposes.
 
-#### 50. Varying the value of benefits secured by virtue of transferred in remediable rights[^key-3313f44b1b0a6a2f83bf31df0f92a2ba]
+#### 50. Varying the value of benefits secured by virtue of transferred in remediable rights[^c-3313f44b1b0a6a2f83bf31df0f92a2ba]
 
 (1) Where—
 
@@ -1249,7 +1249,7 @@ the scheme manager must vary the value of those rights so that they are of an eq
 
 (7) In paragraph (6), “**relevant pension year**” has the meaning given by direction 4(14)(f) of the PSP Directions 2023.
 
-#### 51. Benefits already paid in relation to transferred in remediable rights[^key-018f2df5bf97dfeb2d77eb412ffe9656]
+#### 51. Benefits already paid in relation to transferred in remediable rights[^c-018f2df5bf97dfeb2d77eb412ffe9656]
 
 (1) Paragraph (2) applies in relation to any benefits (“the paid benefits”) that alpha has at any time paid to a person (“**P**”) so far as—
 
@@ -1261,7 +1261,7 @@ the scheme manager must vary the value of those rights so that they are of an eq
 - (a) as not having been paid to P by alpha, but
 - (b) as having been paid to P instead by the PCSPS(NI).
 
-#### 52. Pension benefits and lump sum benefits in relation to transferred in remediable rights[^key-2c9090558c8e92683796315a56b935fe]
+#### 52. Pension benefits and lump sum benefits in relation to transferred in remediable rights[^c-2c9090558c8e92683796315a56b935fe]
 
 (1) This regulation applies in relation to any benefits that have been paid to or in respect of the transferred in remediable rights of an immediate choice member (“**M**”).
 
@@ -1288,7 +1288,7 @@ the scheme manager must pay an amount equal to the difference to the beneficiary
 
 ### CHAPTER 1 — Ill-health retirement
 
-#### 53. Application and interpretation of Chapter 1[^key-aa92bb25f6f73e1c42870502d83d43f3]
+#### 53. Application and interpretation of Chapter 1[^c-aa92bb25f6f73e1c42870502d83d43f3]
 
 (1) This Chapter applies in relation to a remedy member (“**M**”) in respect of whom a process of assessment to determine M’s entitlement to ill-health benefits began during the period of M’s remediable service.
 
@@ -1315,7 +1315,7 @@ the scheme manager must pay an amount equal to the difference to the beneficiary
   - (b) it has been determined that the member does not meet the ill-health retirement criteria of that scheme, and all routes for disputing that determination have been exhausted (including where any deadline for initiating a dispute has passed and no dispute has been initiated);
 - “**remediable ill-health benefits**” means ill-health benefits payable in relation to M’s remediable service.
 
-#### 54. Whether M meets the IHR criteria in M’s alternative scheme[^key-77ec0e9c804d7a8589866485edb9c115]
+#### 54. Whether M meets the IHR criteria in M’s alternative scheme[^c-77ec0e9c804d7a8589866485edb9c115]
 
 (1) Where, pursuant to the initial assessment, it has been finally determined that—
 
@@ -1367,7 +1367,7 @@ the scheme manager must pay an amount equal to the difference to the beneficiary
 
 (6) For the purposes of this regulation, M satisfies the severe ill-health condition if M is a person described in any of section 229(4)(a) to (c) of the FA 2004[^f00021].
 
-#### 55. Deferred choice members entitled to ill-health benefits in their alternative scheme only[^key-91a78ac033b33a12a586f6c0e9b7cc88]
+#### 55. Deferred choice members entitled to ill-health benefits in their alternative scheme only[^c-91a78ac033b33a12a586f6c0e9b7cc88]
 
 (1) This regulation applies where—
 
@@ -1410,7 +1410,7 @@ M is to be treated as if the immediate IHR election had not been made (and no su
 
 (7) The provisions of Chapter 1 of PSPJOA 2022 and of these Regulations about the timing and effect of, as the case may be, a deferred choice decision and a section 10 election apply subject to this regulation.
 
-#### 56. Remedy members entitled to ill-health benefits in their alternative scheme only[^key-e51f1af2d39af793ad7aff1dc570aa76]
+#### 56. Remedy members entitled to ill-health benefits in their alternative scheme only[^c-e51f1af2d39af793ad7aff1dc570aa76]
 
 (1) This regulation applies where—
 
@@ -1427,7 +1427,7 @@ M is to be treated as if the immediate IHR election had not been made (and no su
 
 (3) M is not entitled to the payment of ill-health benefits from the PCSPS(NI).
 
-#### 57. Remedy members with provisional awards of ill-health pension[^key-55528661cfca30aaa31f641f895f6883]
+#### 57. Remedy members with provisional awards of ill-health pension[^c-55528661cfca30aaa31f641f895f6883]
 
 (1) This regulation applies in relation to a remedy member who, immediately before 1st October 2023, is treated as being entitled to ill-health benefits pursuant to—
 
@@ -1440,7 +1440,7 @@ M is to be treated as if the immediate IHR election had not been made (and no su
 - (a) determine whether M meets the IHR criteria in M’s alternative scheme, and
 - (b) in making that determination, obtain the opinion of the scheme medical adviser about whether M meets the IHR criteria in M’s alternative scheme.
 
-#### 58. Disapplication of certain requirements[^key-316cc19dca181b827ad93cd259601c8d]
+#### 58. Disapplication of certain requirements[^c-316cc19dca181b827ad93cd259601c8d]
 
 (1) This regulation applies where, by virtue of these Regulations or PSPJOA 2022, ill-health benefits determined by reference to a remedy member’s alternative scheme are payable to a person.
 
@@ -1451,7 +1451,7 @@ M is to be treated as if the immediate IHR election had not been made (and no su
 
 ### CHAPTER 2 — Miscellaneous special cases
 
-#### 59. Protection of the amount of pension in payment to an eligible child[^key-87aef86a88cbcf633b77c197705191ed]
+#### 59. Protection of the amount of pension in payment to an eligible child[^c-87aef86a88cbcf633b77c197705191ed]
 
 (1) This regulation applies where—
 
@@ -1465,7 +1465,7 @@ M is to be treated as if the immediate IHR election had not been made (and no su
 - (a) E does not owe the scheme manager a liability under section 14(3) of PSPJOA 2022 in respect of the child pension, and
 - (b) the rate of the child pension continues to be the rate that was payable before the immediate choice decision was made.
 
-#### 60. Modification of nomination rules for Section II members[^key-70a6781be958e6f7a84eb7e3dfc890c6]
+#### 60. Modification of nomination rules for Section II members[^c-70a6781be958e6f7a84eb7e3dfc890c6]
 
 (1) The regulation applies in relation to a remedy member (“**M**”) who is entitled to nominate a person under rule 3.8 of Section II to receive a death benefit.
 
@@ -1486,7 +1486,7 @@ M is to be treated as if the immediate IHR election had not been made (and no su
 
 the original nomination continues as if it were made under rule 3.8 of Section II as that rule applies by virtue of paragraph (2).
 
-#### 61. Aggregation of PCSPS(NI) membership[^key-4beff2172b9dc6b78990adc45d0620db]
+#### 61. Aggregation of PCSPS(NI) membership[^c-4beff2172b9dc6b78990adc45d0620db]
 
 (1) This regulation applies in relation to a remedy member (“**M**”)—
 
@@ -1495,7 +1495,7 @@ the original nomination continues as if it were made under rule 3.8 of Section I
 - (c) whose subsequent service would, but for a relevant breach of a non-discrimination rule, have been pensionable under the relevant Section, and
 - (d) who would, had their subsequent service been pensionable under the relevant Section, have been entitled to exercise an aggregation option.
 
-(1A)[^key-f4ef9442533315f334a27f0413234e4d] Paragraphs (1B) and (1C) apply where—
+(1A)[^c-f4ef9442533315f334a27f0413234e4d] Paragraphs (1B) and (1C) apply where—
 
 - (a) M is a deferred choice member,
 - (b) one of regulations 38, 41 or 42 of these Regulations applies in respect of M, and
@@ -1512,7 +1512,7 @@ the original nomination continues as if it were made under rule 3.8 of Section I
 
 (3) An election under paragraph (2) may only be made and revoked in the same circumstances as the relevant remedy decision.
 
-(4) Where an election is made under paragraph (1B) or[^key-4359741eb455971352eb900be1b7373e] paragraph (2), M’s eligible remediable service is to be treated for all purposes as if the aggregation option had been exercised in relation to that service.
+(4) Where an election is made under paragraph (1B) or[^c-4359741eb455971352eb900be1b7373e] paragraph (2), M’s eligible remediable service is to be treated for all purposes as if the aggregation option had been exercised in relation to that service.
 
 (5) In this regulation—
 
@@ -1528,11 +1528,11 @@ the original nomination continues as if it were made under rule 3.8 of Section I
   - (a) an immediate choice decision that no section 6 election is to be made in relation to M’s remediable service, or
   - (b) a deferred choice decision that no section 10 election is to be made in relation to M’s remediable service.
 
-#### 62. Payment of annual allowance tax charges and provision of information[^key-d2637187abe66502a4038db38e6ab76c]
+#### 62. Payment of annual allowance tax charges and provision of information[^c-d2637187abe66502a4038db38e6ab76c]
 
 Where a remedy member is unable to give an effective notice to the scheme administrator under section 237B(3) of FA 2004[^f00022] in relation to an in-scope tax year (within the meaning of direction 7(7) of the PSP Directions 2023) because the time limit in section 237BA[^f00023] has passed, direction 7(2) to (6) of the PSP Directions 2023 applies in relation to the remedy member.
 
-#### 62A. Recovery of injury or compensation scheme benefits[^key-f135c2bf3b45382cb130d49ea506bd44]
+#### 62A. Recovery of injury or compensation scheme benefits[^c-f135c2bf3b45382cb130d49ea506bd44]
 
 (1) This regulation applies where—
 
@@ -1750,7 +1750,7 @@ Where a remedy member is unable to give an effective notice to the scheme admini
 
 ## PART 8 — Immediate detriment cases
 
-### 63. Treatment of immediate detriment cases[^key-f5a5ea4f54fc602fa3ee40703e1e9380]
+### 63. Treatment of immediate detriment cases[^c-f5a5ea4f54fc602fa3ee40703e1e9380]
 
 (1) This regulation applies in relation to a person’s (“A’s”) remediable service where an immediate detriment remedy has been obtained in relation to that service by virtue of the condition provided for in section 32(3) of PSPJOA 2022 (“the second condition”) having been met.
 
@@ -1765,13 +1765,13 @@ Where a remedy member is unable to give an effective notice to the scheme admini
 
 ### CHAPTER 1 — Application of Part 9
 
-#### 64. Application of Part 9[^key-6b0c87aa97c2b1a8f0d0c30fa40bfc8c]
+#### 64. Application of Part 9[^c-6b0c87aa97c2b1a8f0d0c30fa40bfc8c]
 
 This Part applies in relation to relevant amounts[^f00024] owed in respect of the remediable service of a remedy member.
 
 ### CHAPTER 2 — Interest, compensation and netting off
 
-#### 65. Interest[^key-3577b9e90f5e116a61bcd83d2e2a6eca]
+#### 65. Interest[^c-3577b9e90f5e116a61bcd83d2e2a6eca]
 
 (1) The scheme manager must calculate interest on a relevant amount described in direction 15 of the PSP Directions 2023 in accordance with the provisions of directions 14 and 15 which apply to that description of relevant amount.
 
@@ -1782,7 +1782,7 @@ This Part applies in relation to relevant amounts[^f00024] owed in respect of th
 - (a) direction 16(2) (provision of explanation);
 - (b) direction 16(3) and (4) (appeals).
 
-#### 66. Indirect compensation[^key-b8f2b182aee0f65116ee7a2a3aa45c2b]
+#### 66. Indirect compensation[^c-b8f2b182aee0f65116ee7a2a3aa45c2b]
 
 (1) This regulation applies where, pursuant to an application under regulation 67, the scheme manager determines that an immediate choice member (“**M**”) has incurred a compensatable loss[^f00025] that is a Part 4 tax loss[^f00026] (a “relevant loss”).
 
@@ -1790,7 +1790,7 @@ This Part applies in relation to relevant amounts[^f00024] owed in respect of th
 
 (3) Instead, the amount of benefit payable under a civil service scheme is to be increased to reflect the amount of the relevant loss in such manner as determined by the scheme manager in accordance with direction 10(2) to (4) of the PSP Directions 2023.
 
-#### 67. Applications for compensation or indirect compensation[^key-a91cf4280efe0cc3f2ec9c83a29927f7]
+#### 67. Applications for compensation or indirect compensation[^c-a91cf4280efe0cc3f2ec9c83a29927f7]
 
 (1) This regulation applies in relation to—
 
@@ -1810,7 +1810,7 @@ This Part applies in relation to relevant amounts[^f00024] owed in respect of th
 - (a) direction 18(4) (provision of explanation);
 - (b) direction 18(5) and (6) (appeals).
 
-#### 68. Netting off[^key-1ea730c30ff4dc6c6590e2f4acdb9577]
+#### 68. Netting off[^c-1ea730c30ff4dc6c6590e2f4acdb9577]
 
 (1) This regulation applies where—
 
@@ -1828,7 +1828,7 @@ This Part applies in relation to relevant amounts[^f00024] owed in respect of th
 
 ### CHAPTER 3 — Reduction and waiver of liabilities
 
-#### 69. Reduction of liabilities in relation to pension contributions[^key-7c745a0b6fc7097fadd67b46cab63863]
+#### 69. Reduction of liabilities in relation to pension contributions[^c-7c745a0b6fc7097fadd67b46cab63863]
 
 (1) This regulation applies where—
 
@@ -1842,7 +1842,7 @@ under section 15, 16 or 17 of PSPJOA 2022.
 - (a) determined in accordance with direction 4(5) to (9) of the PSP Directions 2023, and
 - (b) before the liability is netted off in accordance with regulation 68.
 
-(2A)[^key-2da96df1c0d78294416848ceb9b35bef] Where the aggregate sum of the tax relief amounts as calculated under direction 4(6) of the PSP Directions (NI) 2023 is negative in relation to a relevant member who is an active member of the scheme, a reduction may be made at the discretion of the scheme manager in accordance with direction 4(7)(b)(ii) of those Directions.
+(2A)[^c-2da96df1c0d78294416848ceb9b35bef] Where the aggregate sum of the tax relief amounts as calculated under direction 4(6) of the PSP Directions (NI) 2023 is negative in relation to a relevant member who is an active member of the scheme, a reduction may be made at the discretion of the scheme manager in accordance with direction 4(7)(b)(ii) of those Directions.
 
 (3) The following provisions of the PSP Directions 2023 apply where the scheme manager makes a determination under direction 4(8)—
 
@@ -1860,7 +1860,7 @@ under section 15, 16 or 17 of PSPJOA 2022.
 
 (7) In this regulation, “**PCSPS(NI) opted-out service**” has the meaning given in regulation 5(2).
 
-#### 70. Power to reduce or waive amounts owed by a person to the scheme manager[^key-3270e7079b195d817b62a0f80a014e32]
+#### 70. Power to reduce or waive amounts owed by a person to the scheme manager[^c-3270e7079b195d817b62a0f80a014e32]
 
 (1) The scheme manager may reduce or waive an amount owed by a person to the scheme under—
 
@@ -1869,7 +1869,7 @@ under section 15, 16 or 17 of PSPJOA 2022.
 
 (2) When reducing or waiving an amount under paragraph (1), the scheme manager must comply with the requirements set out in direction 4(1)(a) to (c) of the PSP Directions 2023 (and the reference in direction 4(1)(c) to “any scheme regulations made by virtue of section 26(1)(b) of PSPJOA 2022” is to be read as a reference to regulation 73).
 
-#### 71. Agreement to waive a liability owed by the scheme manager in respect of an immediate correction[^key-8f8f441c0d4a42101aabfba035c7182a]
+#### 71. Agreement to waive a liability owed by the scheme manager in respect of an immediate correction[^c-8f8f441c0d4a42101aabfba035c7182a]
 
 (1) This regulation applies where the scheme manager owes a liability to pay compensation to a person (“**P**”) under section 16(3) of PSPJOA 2022.
 
@@ -1887,11 +1887,11 @@ under section 15, 16 or 17 of PSPJOA 2022.
 
 ### CHAPTER 4 — Payment of net liabilities
 
-#### 72. Application of Chapter 4[^key-bd7f0c913a6698933ea74d215fe09792]
+#### 72. Application of Chapter 4[^c-bd7f0c913a6698933ea74d215fe09792]
 
 This Chapter applies in respect of a relevant amount (together with any interest on that amount) which will be payable after taking into account the effect, if any, of regulations 65 to 71 (a “net liability”).
 
-#### 73. Payment of amounts owed to the scheme manager[^key-2a64f1257894297261ec8283a3740fe3]
+#### 73. Payment of amounts owed to the scheme manager[^c-2a64f1257894297261ec8283a3740fe3]
 
 (1) This regulation applies where a person (“**P**”) has a net liability to the scheme manager within the meaning of regulation 72.
 
@@ -1926,7 +1926,7 @@ the scheme manager must send another notice in writing to P under paragraph (2).
 
 (8) P has no liability to pay any amount on account of the net liability until the time for payment arises in accordance with this regulation or an agreement under this regulation, and until that time the scheme manager has no cause of action for the recovery of any such amount (whether for the purposes of The Limitation (Northern Ireland) Order 1989 [^f00028] or otherwise).
 
-#### 74. Payment of amounts owed to a person[^key-4e7dc796235ee4070be8f216b57d6741]
+#### 74. Payment of amounts owed to a person[^c-4e7dc796235ee4070be8f216b57d6741]
 
 (1) This regulation applies where the scheme manager owes a net liability to a person (“**P**”).
 
@@ -1954,7 +1954,7 @@ Department of Finance
 
 Regulations 4(3), 6(2), 8(2) and 12(2)
 
-### 1. Interpretation[^key-b9e2482868a36d122aaae992fcc8f059]
+### 1. Interpretation[^c-b9e2482868a36d122aaae992fcc8f059]
 
 (1) In this Schedule—
 
@@ -1985,7 +1985,7 @@ Regulations 4(3), 6(2), 8(2) and 12(2)
 - (c) M is a reference to the deceased remedy member in respect of whose remediable service an election may be made;
 - (d) a surviving adult is a reference to a surviving adult in relation to M.
 
-### 2. Sole beneficiary: an adult[^key-bc865628e87d73d7894920d6c79c4e24]
+### 2. Sole beneficiary: an adult[^c-bc865628e87d73d7894920d6c79c4e24]
 
 (1) Where a person is—
 
@@ -2013,14 +2013,14 @@ the eligible decision maker is determined in accordance with sub-paragraph (2).
 - (a) A’s parent or guardian, or
 - (b) where no decision about whether to make an election has been received by the scheme manager by such day as the scheme manager considers reasonable in all the circumstances, the scheme manager.
 
-### 4. Sole beneficiary: a body[^key-a3684fe0cab5ff1cff169310acc87f20]
+### 4. Sole beneficiary: a body[^c-a3684fe0cab5ff1cff169310acc87f20]
 
 Where a body (whether corporate or unincorporated) is the sole beneficiary, the eligible decision-maker is—
 
 - (a) M’s personal representative, or
 - (b) where M has no personal representative, the scheme manager.
 
-### 5. Sole beneficiary: M’s estate[^key-55f8de5c7f07b112de41d8fa0eb6ddd0]
+### 5. Sole beneficiary: M’s estate[^c-55f8de5c7f07b112de41d8fa0eb6ddd0]
 
 Where M’s estate is the sole beneficiary, the eligible decision-maker is—
 
@@ -2041,7 +2041,7 @@ the eligible decision-maker is determined in accordance with sub-paragraph (2).
 - (a) B, or
 - (b) where no decision about whether to make an election has been received by the scheme manager by such day as the scheme manager considers reasonable in all the circumstances, the scheme manager.
 
-### 7. Multiple beneficiaries: including adult eligible children[^key-54fd140ee759fd5fb973da2112d82eb7]
+### 7. Multiple beneficiaries: including adult eligible children[^c-54fd140ee759fd5fb973da2112d82eb7]
 
 (1) Where—
 
@@ -2056,7 +2056,7 @@ the eligible decision-maker is determined in accordance with sub-paragraph (2).
 - (a) the person agreed upon by the adult eligible children, or
 - (b) where no decision about whether to make an election has been received by the scheme manager by the day four weeks before an election must, in accordance with these Regulations, be received by the scheme manager, the scheme manager.
 
-### 8. Multiple beneficiaries: nominated individuals only[^key-336aabf493ea11e5cd1c4fc38d32db25]
+### 8. Multiple beneficiaries: nominated individuals only[^c-336aabf493ea11e5cd1c4fc38d32db25]
 
 (1) Where—
 
@@ -2077,7 +2077,7 @@ the eligible decision-maker is determined in accordance with sub-paragraph (2).
 
   the scheme manager.
 
-### 9. Multiple beneficiaries: non-adult eligible children[^key-bb3b4d45af29b38deadcc76831e0d74b]
+### 9. Multiple beneficiaries: non-adult eligible children[^c-bb3b4d45af29b38deadcc76831e0d74b]
 
 Where the only beneficiaries are children, two or more of whom are eligible children, the eligible decision-maker is—
 
@@ -2086,7 +2086,7 @@ Where the only beneficiaries are children, two or more of whom are eligible chil
   - (i) M’s personal representative, or
   - (ii) where M has no personal representative, the scheme manager.
 
-### 10. Multiple beneficiaries: nominated children only[^key-99b4427c53c164cb2f476cfdc989119b]
+### 10. Multiple beneficiaries: nominated children only[^c-99b4427c53c164cb2f476cfdc989119b]
 
 Where the only beneficiaries are two or more children who are not eligible children, the eligible decision-maker is—
 
@@ -2095,7 +2095,7 @@ Where the only beneficiaries are two or more children who are not eligible child
   - (i) M’s personal representative, or
   - (ii) where M has no personal representative, the scheme manager.
 
-### 11. Multiple beneficiaries: one or more adults and one or more children[^key-ef2b1590122bfc12e7946e08d1bf7712]
+### 11. Multiple beneficiaries: one or more adults and one or more children[^c-ef2b1590122bfc12e7946e08d1bf7712]
 
 (1) Where the beneficiaries include one or more adults and one or more children—
 
@@ -2125,11 +2125,11 @@ Where the only beneficiaries are two or more children who are not eligible child
 - (a) where sub-paragraph (1)(b)(ii)(aa) applies, eligible children;
 - (b) where sub-paragraph (1)(b)(ii)(bb) applies, a person who is a beneficiary and who meets any of conditions A, B or C as set out in regulation 113(2), (3) and (4) of the 2014 Regulations.
 
-### 12. Other cases[^key-b2ddd7dadd67e50f50697f92044c3835]
+### 12. Other cases[^c-b2ddd7dadd67e50f50697f92044c3835]
 
 In any case not covered by paragraphs 2 to 11, the eligible decision-maker is the scheme manager.
 
-### 13. Option for scheme manager to be eligible decision-maker[^key-3cd5e279193d7eaba462d0a862787ef2]
+### 13. Option for scheme manager to be eligible decision-maker[^c-3cd5e279193d7eaba462d0a862787ef2]
 
 (1) A person (other than the scheme manager) determined as the eligible decision-maker in accordance with paragraph 2, 3, 5, or 6 may, subject to sub-paragraph (3) opt for the scheme manager to be the eligible decision-maker (“scheme manager option”).
 
@@ -2203,9 +2203,9 @@ An impact assessment has not been completed for these Regulations. An Explanator
 
 [^f00003]: Footnote: See section 38 of PSPJOA 2022 for the meaning of “Treasury Directions”, which includes directions given by the Department of Finance. The Public Service Pensions (Exercise of Powers, Compensation, and Information) Directions (Northern Ireland) 2023 were published on 26 January 2023 and are accessible online at https://www.finance-ni.gov.uk/publications/directions-made-under-public-service-pensions-and-judicial-offices-act-2022.
 
-[^key-6449dfcec510f9dddb92cd189b83bd18]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-6449dfcec510f9dddb92cd189b83bd18]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-d8c10b066f7c4f22c06e101743e90e3d]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-d8c10b066f7c4f22c06e101743e90e3d]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
 [^f00004]: Footnote: [S.R. 2014 No. 290](https://www.legislation.gov.uk/nisr/2014/290).
 
@@ -2219,236 +2219,236 @@ An impact assessment has not been completed for these Regulations. An Explanator
 
 [^f00009]: Footnote: See section 1 of PSPJOA 2022 for the meaning of “remediable service”.
 
-[^key-a01e760117b678e0d0a778f3daf3d1dd]: Commencement: Reg. 3 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-a01e760117b678e0d0a778f3daf3d1dd]: Commencement: Reg. 3 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-f484929fe4b720658c78ee3ba97059ec]: Commencement: Reg. 4 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-f484929fe4b720658c78ee3ba97059ec]: Commencement: Reg. 4 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
 [^f00010]: Footnote: See section 29(10) of PSPJOA 2022 for the meaning of “the relevant date”.
 
 [^f00011]: Footnote: In accordance with section 29(9) of PSPJOA 2022, only one request under regulation 4(2)(b)(ii) may be made during any period of 12 months.
 
-[^key-46254cc7d0980fff29033919ef9aa68d]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2023/141/regulation/4A) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [4](https://www.legislation.gov.uk/nisr/2026/99/regulation/4)
+[^c-46254cc7d0980fff29033919ef9aa68d]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2023/141/regulation/4A) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [4](https://www.legislation.gov.uk/nisr/2026/99/regulation/4)
 
-[^key-1ed3365f987c9e295540573a105e5d6c]: Commencement: Reg. 5 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-1ed3365f987c9e295540573a105e5d6c]: Commencement: Reg. 5 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
 [^f00012]: Footnote: See sections 5(7) (read with section 4) and 36 of PSPJOA 2022 for the meaning of relevant opted-out service in relation to a Chapter 1 legacy scheme (such as the PCSPS(NI)).
 
-[^key-ba7a5bbb2273f44c1ed599051713a911]: Commencement: Reg. 6 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-ba7a5bbb2273f44c1ed599051713a911]: Commencement: Reg. 6 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
 [^f00013]: Footnote: See section 25(8) of PSPJOA 2022 for the meaning of “non-discrimination rule” and section 25(9) for the circumstances in which breach of a non-discrimination rule is “relevant”.
 
 [^f00014]: Footnote: See section 110(1) of PSPJOA 2022 for the definition of “partnership pension account”.
 
-[^key-7854e2835a7be8ca923f2b056388d8e3]: Commencement: Reg. 7 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-7854e2835a7be8ca923f2b056388d8e3]: Commencement: Reg. 7 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-adb8a3c6b7df21a7d1d5247476f6029d]: Commencement: Reg. 8 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-adb8a3c6b7df21a7d1d5247476f6029d]: Commencement: Reg. 8 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
 [^f00015]: Footnote: See section 7(2) of PSPJOA 2022 for the meaning of “the end of the section 6 election period”.
 
-[^key-5719c20045bc029cb809b12b407acb78]: Commencement: Reg. 9 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-5719c20045bc029cb809b12b407acb78]: Commencement: Reg. 9 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-6ef09084870f2d56fb226cf04f58d7df]: Commencement: Reg. 10 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-6ef09084870f2d56fb226cf04f58d7df]: Commencement: Reg. 10 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-39f5f15e02ed3c243bbeabd7c99241e7]: Commencement: Reg. 11 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-39f5f15e02ed3c243bbeabd7c99241e7]: Commencement: Reg. 11 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-4be9e9b59d5c2e200bd294bfd0c3aec7]: Commencement: Reg. 12 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-4be9e9b59d5c2e200bd294bfd0c3aec7]: Commencement: Reg. 12 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-15ea3428183a6d712ee5300900defde1]: Commencement: Reg. 13 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-15ea3428183a6d712ee5300900defde1]: Commencement: Reg. 13 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-97786a20e713af92e18fb81312caf38d]: Commencement: Reg. 14 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-97786a20e713af92e18fb81312caf38d]: Commencement: Reg. 14 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-9038ece822749fd5ab03841118ddd207]: Commencement: Reg. 15 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-9038ece822749fd5ab03841118ddd207]: Commencement: Reg. 15 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-1d40ad9b6800489b9825c8eb08b6274e]: Commencement: Reg. 16 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-1d40ad9b6800489b9825c8eb08b6274e]: Commencement: Reg. 16 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
 [^f00016]: Footnote: In accordance with section 110(1) of PSPJOA 2022, “**WRP(NI)O 1999**” means the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11))](https://www.legislation.gov.uk/nisi/1999/3147).
 
-[^key-60d2723c4d7b07999c60d737a1adce50]: Commencement: Reg. 17 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-60d2723c4d7b07999c60d737a1adce50]: Commencement: Reg. 17 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
 [^f00017]: Footnote: See section 19(6) for the meaning of “mixed service”.
 
-[^key-7027b27188f329fcd9c733e59fe15c47]: Commencement: Reg. 18 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-7027b27188f329fcd9c733e59fe15c47]: Commencement: Reg. 18 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-dad693e6eb5d0498779c29242daf38a7]: Textual amendment: Words in [reg. 18(2)(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/18/2/b) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [5(2)(a)](https://www.legislation.gov.uk/nisr/2026/99/regulation/5/2/a)
+[^c-dad693e6eb5d0498779c29242daf38a7]: Textual amendment: Words in [reg. 18(2)(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/18/2/b) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [5(2)(a)](https://www.legislation.gov.uk/nisr/2026/99/regulation/5/2/a)
 
-[^key-684b2c83ccc137bd0baf931f00ffbc3b]: Textual amendment: Words in [reg. 18(2)(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/18/2/b) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [5(2)(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/5/2/b)
+[^c-684b2c83ccc137bd0baf931f00ffbc3b]: Textual amendment: Words in [reg. 18(2)(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/18/2/b) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [5(2)(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/5/2/b)
 
-[^key-e8db9294feb29c11dd694247a25dc4d4]: Textual amendment: [Reg. 18(2A)](https://www.legislation.gov.uk/nisr/2023/141/regulation/18/2A)[(2B)](https://www.legislation.gov.uk/nisr/2023/141/regulation/18/2B) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [5(3)](https://www.legislation.gov.uk/nisr/2026/99/regulation/5/3)
+[^c-e8db9294feb29c11dd694247a25dc4d4]: Textual amendment: [Reg. 18(2A)](https://www.legislation.gov.uk/nisr/2023/141/regulation/18/2A)[(2B)](https://www.legislation.gov.uk/nisr/2023/141/regulation/18/2B) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [5(3)](https://www.legislation.gov.uk/nisr/2026/99/regulation/5/3)
 
-[^key-426245b00be875b4a3ae39d27945922c]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/nisr/2023/141/regulation/18/3) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [5(4)](https://www.legislation.gov.uk/nisr/2026/99/regulation/5/4)
+[^c-426245b00be875b4a3ae39d27945922c]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/nisr/2023/141/regulation/18/3) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [5(4)](https://www.legislation.gov.uk/nisr/2026/99/regulation/5/4)
 
-[^key-1863dc9664d5af08f84425ad53b09cb6]: Commencement: Reg. 19 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-1863dc9664d5af08f84425ad53b09cb6]: Commencement: Reg. 19 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-e9d8e4081dd30941e1a1dab19fab95c4]: Commencement: Reg. 20 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-e9d8e4081dd30941e1a1dab19fab95c4]: Commencement: Reg. 20 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-762bcf27220df4c70cb5640855c8b14c]: Commencement: Reg. 21 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-762bcf27220df4c70cb5640855c8b14c]: Commencement: Reg. 21 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-0e0b565fb98ecf3ef020604d85afff89]: Commencement: Reg. 22 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-0e0b565fb98ecf3ef020604d85afff89]: Commencement: Reg. 22 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-0eb380f48d02202567990e32386701b5]: Commencement: Reg. 23 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-0eb380f48d02202567990e32386701b5]: Commencement: Reg. 23 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-049753057196d90f1c06a5c84fa310b4]: Commencement: Reg. 24 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-049753057196d90f1c06a5c84fa310b4]: Commencement: Reg. 24 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-aaac2924fc9a973155a90b1578bfeef9]: Commencement: Reg. 25 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-aaac2924fc9a973155a90b1578bfeef9]: Commencement: Reg. 25 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-050d3133c9df0328cd94da0b09ce2bb3]: Commencement: Reg. 26 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-050d3133c9df0328cd94da0b09ce2bb3]: Commencement: Reg. 26 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-8d66c8760a7c7c69eaed0cb574ade54a]: Commencement: Reg. 27 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-8d66c8760a7c7c69eaed0cb574ade54a]: Commencement: Reg. 27 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-3aa5890e6ab8a4fdbea63ec7fe06887a]: Commencement: Reg. 28 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-3aa5890e6ab8a4fdbea63ec7fe06887a]: Commencement: Reg. 28 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-51368a1e9e1df7236048a75fc39b2f4e]: Commencement: Reg. 29 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-51368a1e9e1df7236048a75fc39b2f4e]: Commencement: Reg. 29 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-bef867b645adffa63ab0534601c2b078]: Commencement: Reg. 30 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-bef867b645adffa63ab0534601c2b078]: Commencement: Reg. 30 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-823a065e4d39dc8f84d55d3c5228be8c]: Textual amendment: [Reg. 30(3A)](https://www.legislation.gov.uk/nisr/2023/141/regulation/30/3A)[(3B)](https://www.legislation.gov.uk/nisr/2023/141/regulation/30/3B) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [6(2)](https://www.legislation.gov.uk/nisr/2026/99/regulation/6/2)
+[^c-823a065e4d39dc8f84d55d3c5228be8c]: Textual amendment: [Reg. 30(3A)](https://www.legislation.gov.uk/nisr/2023/141/regulation/30/3A)[(3B)](https://www.legislation.gov.uk/nisr/2023/141/regulation/30/3B) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [6(2)](https://www.legislation.gov.uk/nisr/2026/99/regulation/6/2)
 
-[^key-9d19976e69c38955e35eb15c4e55bb8b]: Textual amendment: [Reg. 30(7)](https://www.legislation.gov.uk/nisr/2023/141/regulation/30/7) substituted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [6(3)](https://www.legislation.gov.uk/nisr/2026/99/regulation/6/3)
+[^c-9d19976e69c38955e35eb15c4e55bb8b]: Textual amendment: [Reg. 30(7)](https://www.legislation.gov.uk/nisr/2023/141/regulation/30/7) substituted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [6(3)](https://www.legislation.gov.uk/nisr/2026/99/regulation/6/3)
 
-[^key-0c05f3072b800e11d616af91dfa03f67]: Commencement: Reg. 31 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-0c05f3072b800e11d616af91dfa03f67]: Commencement: Reg. 31 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-4e1813e44e3459d092c6bacece4c28e4]: Commencement: Reg. 32 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-4e1813e44e3459d092c6bacece4c28e4]: Commencement: Reg. 32 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-dc258aba4953aeb0fa049df640139455]: Commencement: Reg. 33 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-dc258aba4953aeb0fa049df640139455]: Commencement: Reg. 33 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-08d3388074bc8a07d29df13720627c89]: Commencement: Reg. 34 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-08d3388074bc8a07d29df13720627c89]: Commencement: Reg. 34 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-7a975b166d9630b29b9a5d493f22980c]: Commencement: Reg. 35 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-7a975b166d9630b29b9a5d493f22980c]: Commencement: Reg. 35 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-dedd76ce5378a8612bf53d7d8ccaf431]: Commencement: Reg. 36 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-dedd76ce5378a8612bf53d7d8ccaf431]: Commencement: Reg. 36 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
 [^f00018]: Footnote: See section 33 of PSPJOA 2022 for the meaning of “Chapter 1 scheme”.
 
-[^key-84fb89cbf6aa97f7ad4f86c07f1ad2b6]: Commencement: Reg. 37 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-84fb89cbf6aa97f7ad4f86c07f1ad2b6]: Commencement: Reg. 37 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-f1344e729f54f65b430574149dc5ba35]: Commencement: Reg. 38 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-f1344e729f54f65b430574149dc5ba35]: Commencement: Reg. 38 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-3990742c79d5b3ccaed265b755deaef8]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/nisr/2023/141/regulation/38/1) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [7(1)(a)](https://www.legislation.gov.uk/nisr/2026/99/regulation/7/1/a)
+[^c-3990742c79d5b3ccaed265b755deaef8]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/nisr/2023/141/regulation/38/1) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [7(1)(a)](https://www.legislation.gov.uk/nisr/2026/99/regulation/7/1/a)
 
-[^key-a4c7737ba82660b5b41d43ba1a3b9c1c]: Textual amendment: [Reg. 38(1A)](https://www.legislation.gov.uk/nisr/2023/141/regulation/38/1A) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [7(1)(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/7/1/b)
+[^c-a4c7737ba82660b5b41d43ba1a3b9c1c]: Textual amendment: [Reg. 38(1A)](https://www.legislation.gov.uk/nisr/2023/141/regulation/38/1A) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [7(1)(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/7/1/b)
 
 [^f00019]: Footnote: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171). Regulation 6 was amended by section 42(6)(a) of the Finance Act [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26).
 
 [^f00020]: Footnote: [2003, c. 1](https://www.legislation.gov.uk/ukpga/2009/1171).
 
-[^key-5f26843c4e13d1b5171440d4ec3aa960]: Commencement: Reg. 39 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-5f26843c4e13d1b5171440d4ec3aa960]: Commencement: Reg. 39 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-4b10bf52e2d5487e4e75ee0eb0e18774]: Textual amendment: Words in [reg. 39(1)](https://www.legislation.gov.uk/nisr/2023/141/regulation/39/1) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [7(2)(a)](https://www.legislation.gov.uk/nisr/2026/99/regulation/7/2/a)
+[^c-4b10bf52e2d5487e4e75ee0eb0e18774]: Textual amendment: Words in [reg. 39(1)](https://www.legislation.gov.uk/nisr/2023/141/regulation/39/1) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [7(2)(a)](https://www.legislation.gov.uk/nisr/2026/99/regulation/7/2/a)
 
-[^key-694fffa9ea0bb6a541bddd7fcb387a98]: Textual amendment: [Reg. 39(1A)](https://www.legislation.gov.uk/nisr/2023/141/regulation/39/1A) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [7(2)(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/7/2/b)
+[^c-694fffa9ea0bb6a541bddd7fcb387a98]: Textual amendment: [Reg. 39(1A)](https://www.legislation.gov.uk/nisr/2023/141/regulation/39/1A) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [7(2)(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/7/2/b)
 
-[^key-6ae4e43fe1ddfd66a45539364a4e9c02]: Commencement: Reg. 40 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-6ae4e43fe1ddfd66a45539364a4e9c02]: Commencement: Reg. 40 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-920f5fd0db31724266fb60ad9179b2a8]: Commencement: Reg. 41 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-920f5fd0db31724266fb60ad9179b2a8]: Commencement: Reg. 41 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-877a5d300591d473894bbdb03a54a5d6]: Commencement: Reg. 42 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-877a5d300591d473894bbdb03a54a5d6]: Commencement: Reg. 42 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-5e2b4fc4a0fb115ded2e8b49019d989c]: Commencement: Reg. 43 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-5e2b4fc4a0fb115ded2e8b49019d989c]: Commencement: Reg. 43 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-dd19b0d7e82e0f3fa671c7b3f27135d2]: Commencement: Reg. 44 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-dd19b0d7e82e0f3fa671c7b3f27135d2]: Commencement: Reg. 44 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-bcfe78a72e680db0abfd2ecf495e854b]: Commencement: Reg. 45 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-bcfe78a72e680db0abfd2ecf495e854b]: Commencement: Reg. 45 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-d9917eeb8904be4f4d87c2cc50e4d178]: Commencement: Reg. 46 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-d9917eeb8904be4f4d87c2cc50e4d178]: Commencement: Reg. 46 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-af0855d477e3f3b80224377bdd7557b5]: Commencement: Reg. 47 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-af0855d477e3f3b80224377bdd7557b5]: Commencement: Reg. 47 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-b443aecafb1320fe3987dcde53e9cb9d]: Commencement: Reg. 48 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-b443aecafb1320fe3987dcde53e9cb9d]: Commencement: Reg. 48 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-7919749acad74a304c9575477a84ca47]: Commencement: Reg. 49 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-7919749acad74a304c9575477a84ca47]: Commencement: Reg. 49 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-3313f44b1b0a6a2f83bf31df0f92a2ba]: Commencement: Reg. 50 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-3313f44b1b0a6a2f83bf31df0f92a2ba]: Commencement: Reg. 50 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-018f2df5bf97dfeb2d77eb412ffe9656]: Commencement: Reg. 51 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-018f2df5bf97dfeb2d77eb412ffe9656]: Commencement: Reg. 51 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-2c9090558c8e92683796315a56b935fe]: Commencement: Reg. 52 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-2c9090558c8e92683796315a56b935fe]: Commencement: Reg. 52 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-aa92bb25f6f73e1c42870502d83d43f3]: Commencement: Reg. 53 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-aa92bb25f6f73e1c42870502d83d43f3]: Commencement: Reg. 53 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-77ec0e9c804d7a8589866485edb9c115]: Commencement: Reg. 54 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-77ec0e9c804d7a8589866485edb9c115]: Commencement: Reg. 54 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
 [^f00021]: Footnote: In accordance with section 110(1) of PSPJOA 2022, “**FA 2004**” means the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12). Section 229(4) was inserted by paragraph 6(4) of Schedule 17 to the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
 
-[^key-91a78ac033b33a12a586f6c0e9b7cc88]: Commencement: Reg. 55 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-91a78ac033b33a12a586f6c0e9b7cc88]: Commencement: Reg. 55 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-e51f1af2d39af793ad7aff1dc570aa76]: Commencement: Reg. 56 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-e51f1af2d39af793ad7aff1dc570aa76]: Commencement: Reg. 56 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-55528661cfca30aaa31f641f895f6883]: Commencement: Reg. 57 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-55528661cfca30aaa31f641f895f6883]: Commencement: Reg. 57 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-316cc19dca181b827ad93cd259601c8d]: Commencement: Reg. 58 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-316cc19dca181b827ad93cd259601c8d]: Commencement: Reg. 58 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-87aef86a88cbcf633b77c197705191ed]: Commencement: Reg. 59 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-87aef86a88cbcf633b77c197705191ed]: Commencement: Reg. 59 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-70a6781be958e6f7a84eb7e3dfc890c6]: Commencement: Reg. 60 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-70a6781be958e6f7a84eb7e3dfc890c6]: Commencement: Reg. 60 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-4beff2172b9dc6b78990adc45d0620db]: Commencement: Reg. 61 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-4beff2172b9dc6b78990adc45d0620db]: Commencement: Reg. 61 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-f4ef9442533315f334a27f0413234e4d]: Textual amendment: [Reg. 61(1A)-(1C)](https://www.legislation.gov.uk/nisr/2023/141/regulation/61/1A) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [8(1)(a)](https://www.legislation.gov.uk/nisr/2026/99/regulation/8/1/a)
+[^c-f4ef9442533315f334a27f0413234e4d]: Textual amendment: [Reg. 61(1A)-(1C)](https://www.legislation.gov.uk/nisr/2023/141/regulation/61/1A) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [8(1)(a)](https://www.legislation.gov.uk/nisr/2026/99/regulation/8/1/a)
 
-[^key-4359741eb455971352eb900be1b7373e]: Textual amendment: Words in [reg. 61(4)](https://www.legislation.gov.uk/nisr/2023/141/regulation/61/4) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [8(1)(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/8/1/b)
+[^c-4359741eb455971352eb900be1b7373e]: Textual amendment: Words in [reg. 61(4)](https://www.legislation.gov.uk/nisr/2023/141/regulation/61/4) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [8(1)(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/8/1/b)
 
-[^key-d2637187abe66502a4038db38e6ab76c]: Commencement: Reg. 62 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-d2637187abe66502a4038db38e6ab76c]: Commencement: Reg. 62 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
 [^f00022]: Footnote: In accordance with section 110(1) of PSPJOA 2022, “**FA 2004**” means the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12). Section 237B was inserted by paragraph 15 of Schedule 17 to the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
 
 [^f00023]: Footnote: Section 237BA was inserted by section 9(3) of the Finance Act [2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3).
 
-[^key-f135c2bf3b45382cb130d49ea506bd44]: Textual amendment: [Regs. 62A-62F](https://www.legislation.gov.uk/nisr/2023/141/regulation/62A) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [8(2)](https://www.legislation.gov.uk/nisr/2026/99/regulation/8/2)
+[^c-f135c2bf3b45382cb130d49ea506bd44]: Textual amendment: [Regs. 62A-62F](https://www.legislation.gov.uk/nisr/2023/141/regulation/62A) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [8(2)](https://www.legislation.gov.uk/nisr/2026/99/regulation/8/2)
 
-[^key-f5a5ea4f54fc602fa3ee40703e1e9380]: Commencement: Reg. 63 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-f5a5ea4f54fc602fa3ee40703e1e9380]: Commencement: Reg. 63 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-6b0c87aa97c2b1a8f0d0c30fa40bfc8c]: Commencement: Reg. 64 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-6b0c87aa97c2b1a8f0d0c30fa40bfc8c]: Commencement: Reg. 64 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
 [^f00024]: Footnote: See section 26(3) of PSPJOA 2022 for the meaning of “relevant amounts”.
 
-[^key-3577b9e90f5e116a61bcd83d2e2a6eca]: Commencement: Reg. 65 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-3577b9e90f5e116a61bcd83d2e2a6eca]: Commencement: Reg. 65 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-b8f2b182aee0f65116ee7a2a3aa45c2b]: Commencement: Reg. 66 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-b8f2b182aee0f65116ee7a2a3aa45c2b]: Commencement: Reg. 66 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
 [^f00025]: Footnote: See section 23 of PSPJOA 2022 and direction 11 of the PSP Directions 2023 for the meaning of “compensatable loss”.
 
 [^f00026]: Footnote: See section 23(9) of PSPJOA 2022 for the meaning of “Part 4 tax loss”.
 
-[^key-a91cf4280efe0cc3f2ec9c83a29927f7]: Commencement: Reg. 67 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-a91cf4280efe0cc3f2ec9c83a29927f7]: Commencement: Reg. 67 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-1ea730c30ff4dc6c6590e2f4acdb9577]: Commencement: Reg. 68 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-1ea730c30ff4dc6c6590e2f4acdb9577]: Commencement: Reg. 68 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-7c745a0b6fc7097fadd67b46cab63863]: Commencement: Reg. 69 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-7c745a0b6fc7097fadd67b46cab63863]: Commencement: Reg. 69 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
 [^f00027]: Footnote: See section 18(4) of PSPJOA 2022 for the meaning of “**tax relief amounts**” for the purposes of a liability mentioned in regulation 68(1)(a) and section 18(7) of that Act for the meaning of that term for the purposes of a liability mentioned in regulation 68(1)(b).
 
-[^key-2da96df1c0d78294416848ceb9b35bef]: Textual amendment: [Reg. 69(2A)](https://www.legislation.gov.uk/nisr/2023/141/regulation/69/2A) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [9](https://www.legislation.gov.uk/nisr/2026/99/regulation/9)
+[^c-2da96df1c0d78294416848ceb9b35bef]: Textual amendment: [Reg. 69(2A)](https://www.legislation.gov.uk/nisr/2023/141/regulation/69/2A) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [9](https://www.legislation.gov.uk/nisr/2026/99/regulation/9)
 
-[^key-3270e7079b195d817b62a0f80a014e32]: Commencement: Reg. 70 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-3270e7079b195d817b62a0f80a014e32]: Commencement: Reg. 70 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-8f8f441c0d4a42101aabfba035c7182a]: Commencement: Reg. 71 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-8f8f441c0d4a42101aabfba035c7182a]: Commencement: Reg. 71 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-bd7f0c913a6698933ea74d215fe09792]: Commencement: Reg. 72 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-bd7f0c913a6698933ea74d215fe09792]: Commencement: Reg. 72 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-2a64f1257894297261ec8283a3740fe3]: Commencement: Reg. 73 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-2a64f1257894297261ec8283a3740fe3]: Commencement: Reg. 73 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
 [^f00028]: Footnote: [1989 No. 1339 (N.I. 11)](https://www.legislation.gov.uk/nisi/1989/1339).
 
-[^key-4e7dc796235ee4070be8f216b57d6741]: Commencement: Reg. 74 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-4e7dc796235ee4070be8f216b57d6741]: Commencement: Reg. 74 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-b9e2482868a36d122aaae992fcc8f059]: Commencement: Sch. para. 1 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-b9e2482868a36d122aaae992fcc8f059]: Commencement: Sch. para. 1 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-bc865628e87d73d7894920d6c79c4e24]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2023/141/schedule/paragraph/2), [3](https://www.legislation.gov.uk/nisr/2023/141/schedule/paragraph/3) substituted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [10(2)](https://www.legislation.gov.uk/nisr/2026/99/regulation/10/2)
+[^c-bc865628e87d73d7894920d6c79c4e24]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2023/141/schedule/paragraph/2), [3](https://www.legislation.gov.uk/nisr/2023/141/schedule/paragraph/3) substituted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [10(2)](https://www.legislation.gov.uk/nisr/2026/99/regulation/10/2)
 
-[^key-a3684fe0cab5ff1cff169310acc87f20]: Commencement: Sch. para. 4 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-a3684fe0cab5ff1cff169310acc87f20]: Commencement: Sch. para. 4 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-55f8de5c7f07b112de41d8fa0eb6ddd0]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2023/141/schedule/paragraph/5), [6](https://www.legislation.gov.uk/nisr/2023/141/schedule/paragraph/6) substituted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [10(3)](https://www.legislation.gov.uk/nisr/2026/99/regulation/10/3)
+[^c-55f8de5c7f07b112de41d8fa0eb6ddd0]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2023/141/schedule/paragraph/5), [6](https://www.legislation.gov.uk/nisr/2023/141/schedule/paragraph/6) substituted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [10(3)](https://www.legislation.gov.uk/nisr/2026/99/regulation/10/3)
 
-[^key-54fd140ee759fd5fb973da2112d82eb7]: Commencement: Sch. para. 7 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-54fd140ee759fd5fb973da2112d82eb7]: Commencement: Sch. para. 7 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-336aabf493ea11e5cd1c4fc38d32db25]: Commencement: Sch. para. 8 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-336aabf493ea11e5cd1c4fc38d32db25]: Commencement: Sch. para. 8 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-bb3b4d45af29b38deadcc76831e0d74b]: Commencement: Sch. para. 9 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-bb3b4d45af29b38deadcc76831e0d74b]: Commencement: Sch. para. 9 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-99b4427c53c164cb2f476cfdc989119b]: Commencement: Sch. para. 10 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-99b4427c53c164cb2f476cfdc989119b]: Commencement: Sch. para. 10 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-ef2b1590122bfc12e7946e08d1bf7712]: Commencement: Sch. para. 11 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-ef2b1590122bfc12e7946e08d1bf7712]: Commencement: Sch. para. 11 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-b2ddd7dadd67e50f50697f92044c3835]: Commencement: Sch. para. 12 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+[^c-b2ddd7dadd67e50f50697f92044c3835]: Commencement: Sch. para. 12 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
 
-[^key-3cd5e279193d7eaba462d0a862787ef2]: Textual amendment: [Sch. para. 13](https://www.legislation.gov.uk/nisr/2023/141/schedule/paragraph/13) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [10(4)](https://www.legislation.gov.uk/nisr/2026/99/regulation/10/4)
+[^c-3cd5e279193d7eaba462d0a862787ef2]: Textual amendment: [Sch. para. 13](https://www.legislation.gov.uk/nisr/2023/141/schedule/paragraph/13) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [10(4)](https://www.legislation.gov.uk/nisr/2026/99/regulation/10/4)

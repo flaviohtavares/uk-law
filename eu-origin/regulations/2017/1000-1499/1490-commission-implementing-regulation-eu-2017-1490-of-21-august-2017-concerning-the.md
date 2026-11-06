@@ -35,30 +35,30 @@ concerning the authorisation of manganous chloride tetrahydrate, manganese (II) 
 
 (Text with EEA relevance) (revoked)
 
-[^key-e3eeed9565e19d6c79208e296fa8f038]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3eeed9565e19d6c79208e296fa8f038]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-e3eeed9565e19d6c79208e296fa8f038]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Denial[^key-e3eeed9565e19d6c79208e296fa8f038]
+## Article 1. Authorisation[^c-e3eeed9565e19d6c79208e296fa8f038]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Transitional measures[^key-e3eeed9565e19d6c79208e296fa8f038]
+## Article 2. Denial[^c-e3eeed9565e19d6c79208e296fa8f038]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force[^key-e3eeed9565e19d6c79208e296fa8f038]
+## Article 3. Transitional measures[^c-e3eeed9565e19d6c79208e296fa8f038]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e3eeed9565e19d6c79208e296fa8f038]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 4. Entry into force[^c-e3eeed9565e19d6c79208e296fa8f038]
 
-## ANNEX[^key-e3eeed9565e19d6c79208e296fa8f038]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-e3eeed9565e19d6c79208e296fa8f038]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-e3eeed9565e19d6c79208e296fa8f038]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e3eeed9565e19d6c79208e296fa8f038]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 251](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/251) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-e3eeed9565e19d6c79208e296fa8f038]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 251](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/251) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

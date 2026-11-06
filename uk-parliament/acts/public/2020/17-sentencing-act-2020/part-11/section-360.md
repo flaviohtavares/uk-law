@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 360. Restraining order: availability[^key-4ffcc1b517589559c0c4998c0a8d161d]
+## 360. Restraining order: availability[^c-4ffcc1b517589559c0c4998c0a8d161d]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ffcc1b517589559c0c4998c0a8d161d]: Commencement: S. 360 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4ffcc1b517589559c0c4998c0a8d161d]: Commencement: S. 360 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

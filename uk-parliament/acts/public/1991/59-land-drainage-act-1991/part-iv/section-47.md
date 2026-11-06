@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The drainage board for an internal drainage district, after consultation with the appropriate supervisory body[^key-547c873df1ae7f66c8bb13b662a7961c], may by order determine that no rates shall be levied by them on the occupiers of hereditaments in any portion of the district which, in their opinion, ought (either by reason of its height above sea level or for any other reason) to be exempted wholly from rating.
+(1) The drainage board for an internal drainage district, after consultation with the appropriate supervisory body[^c-547c873df1ae7f66c8bb13b662a7961c], may by order determine that no rates shall be levied by them on the occupiers of hereditaments in any portion of the district which, in their opinion, ought (either by reason of its height above sea level or for any other reason) to be exempted wholly from rating.
 
 (2) Subsections (5) to (7) of section 38 above shall apply in relation to orders made under this section as they apply in relation to orders made under that section.
 
@@ -40,4 +40,4 @@ and the appropriate supervisory body or, as the case may be, the relevant Minist
 
 ## Annotations
 
-[^key-547c873df1ae7f66c8bb13b662a7961c]: Textual amendment: Words in [s. 47](https://www.legislation.gov.uk/ukpga/1991/59/section/47) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 325](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/325) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-547c873df1ae7f66c8bb13b662a7961c]: Textual amendment: Words in [s. 47](https://www.legislation.gov.uk/ukpga/1991/59/section/47) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 325](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/325) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

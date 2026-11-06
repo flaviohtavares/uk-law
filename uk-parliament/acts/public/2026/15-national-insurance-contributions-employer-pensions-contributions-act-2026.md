@@ -36,7 +36,7 @@ An Act to make provision to amend section 4 of the Social Security Contributions
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Employer pensions contributions pursuant to optional remuneration arrangements: Great Britain[^key-882c4e78803a8c220d11b860a097d93f]
+## 1. Employer pensions contributions pursuant to optional remuneration arrangements: Great Britain[^c-882c4e78803a8c220d11b860a097d93f]
 
 *Extent: E+W+S*
 
@@ -74,7 +74,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (4) The first regulations made under subsection (6A) of [section 4](https://www.legislation.gov.uk/ukpga/1992/4/section/4) of the [Social Security Contributions and Benefits Act 1992](https://www.legislation.gov.uk/ukpga/1992/4/contents), as inserted by subsection (1), must specify the contributions limit as £2,000 for a tax year (but subject to any provision made in reliance on subsection (6C)(a) or (b) of that section).
 
-## 2. Employer pensions contributions pursuant to optional remuneration arrangements: Northern Ireland[^key-5192c74c98a6d71077b5359b38951c26]
+## 2. Employer pensions contributions pursuant to optional remuneration arrangements: Northern Ireland[^c-5192c74c98a6d71077b5359b38951c26]
 
 *Extent: N.I.*
 
@@ -110,7 +110,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (4) The first regulations made under subsection (6A) of [section 4](https://www.legislation.gov.uk/ukpga/1992/7/section/4) of the [Social Security Contributions and Benefits (Northern Ireland) Act 1992](https://www.legislation.gov.uk/ukpga/1992/7/contents), as inserted by subsection (1), must specify the contributions limit as £2,000 for a tax year (but subject to any provision made in reliance on subsection (6C)(a) or (b) of that section).
 
-## 3. Extent, commencement and short title[^key-c74aae14aac0833badd3b8cea6dbd702]
+## 3. Extent, commencement and short title[^c-c74aae14aac0833badd3b8cea6dbd702]
 
 (1) In this Act—
 
@@ -124,8 +124,8 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-882c4e78803a8c220d11b860a097d93f]: Commencement: S. 1 in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2026/15/section/3/2)
+[^c-882c4e78803a8c220d11b860a097d93f]: Commencement: S. 1 in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2026/15/section/3/2)
 
-[^key-5192c74c98a6d71077b5359b38951c26]: Commencement: S. 2 in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2026/15/section/3/2)
+[^c-5192c74c98a6d71077b5359b38951c26]: Commencement: S. 2 in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2026/15/section/3/2)
 
-[^key-c74aae14aac0833badd3b8cea6dbd702]: Commencement: S. 3 in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2026/15/section/3/2)
+[^c-c74aae14aac0833badd3b8cea6dbd702]: Commencement: S. 3 in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2026/15/section/3/2)

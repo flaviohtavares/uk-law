@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 134. Patients removed to or from Northern Ireland[^key-e10f67fd322c2848d1c604e5c152c991][^key-5d2ab1ab0558331cb702db0333f985df]
+## 134. Patients removed to or from Northern Ireland[^c-e10f67fd322c2848d1c604e5c152c991][^c-5d2ab1ab0558331cb702db0333f985df]
 
 *Extent: N.I.*
 
@@ -42,9 +42,9 @@ summary: ''
 
 ## Annotations
 
-[^key-e10f67fd322c2848d1c604e5c152c991]: Modification: [Art. 134](https://www.legislation.gov.uk/nisi/1986/595/article/134) applied (with modifications.) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(9)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/9), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-e10f67fd322c2848d1c604e5c152c991]: Modification: [Art. 134](https://www.legislation.gov.uk/nisi/1986/595/article/134) applied (with modifications.) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(9)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/9), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
 
-[^key-5d2ab1ab0558331cb702db0333f985df]: Modification: [Art. 134](https://www.legislation.gov.uk/nisi/1986/595/article/134) applied (with modifications) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(9)(a)(i)-(vi)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/9/a/i), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
+[^c-5d2ab1ab0558331cb702db0333f985df]: Modification: [Art. 134](https://www.legislation.gov.uk/nisi/1986/595/article/134) applied (with modifications) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(9)(a)(i)-(vi)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/9/a/i), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
 
 [^c17126541]: Textual amendment: SI 2005/2078
 

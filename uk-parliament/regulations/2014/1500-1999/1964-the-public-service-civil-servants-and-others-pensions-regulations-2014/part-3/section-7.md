@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Civil Service Pension Board: membership[^key-a5656731be88cd551ac2c4f879d7a4e4]
+## 7. Civil Service Pension Board: membership[^c-a5656731be88cd551ac2c4f879d7a4e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a5656731be88cd551ac2c4f879d7a4e4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/1964/regulation/7) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-a5656731be88cd551ac2c4f879d7a4e4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/1964/regulation/7) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00043]: Footnote: See section 5(6) of the Act for the meaning of “employer representatives” and “member representatives”.
 

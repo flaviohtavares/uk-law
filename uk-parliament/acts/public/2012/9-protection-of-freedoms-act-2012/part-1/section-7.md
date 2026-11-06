@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Persons under 18 convicted of first minor offence[^key-8962647a70f25820db2ca2b35f192cfd]
+## 7. Persons under 18 convicted of first minor offence[^c-8962647a70f25820db2ca2b35f192cfd]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ After section 63J of the Police and Criminal Evidence Act 1984 (for which see se
 
 ## Annotations
 
-[^key-8962647a70f25820db2ca2b35f192cfd]: Commencement: S. 7 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/a) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
+[^c-8962647a70f25820db2ca2b35f192cfd]: Commencement: S. 7 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/a) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))

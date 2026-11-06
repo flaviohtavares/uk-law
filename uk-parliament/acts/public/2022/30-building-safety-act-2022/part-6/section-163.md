@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Financial provisions[^key-63c73d7b06ef5e37cbb27786cebcf0e4]
+## 163. Financial provisions[^c-63c73d7b06ef5e37cbb27786cebcf0e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ There is to be paid out of money provided by Parliament—
 
 ## Annotations
 
-[^key-63c73d7b06ef5e37cbb27786cebcf0e4]: Commencement: S. 163 in force at Royal Assent, see [s. 170(1)(h)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/h)
+[^c-63c73d7b06ef5e37cbb27786cebcf0e4]: Commencement: S. 163 in force at Royal Assent, see [s. 170(1)(h)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/h)

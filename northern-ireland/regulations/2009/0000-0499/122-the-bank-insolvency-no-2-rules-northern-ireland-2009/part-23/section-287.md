@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 287. “Responsible insolvency practitioner”, etc[^key-59e350cf8b438fd18f350b8d7f11e908]
+## 287. “Responsible insolvency practitioner”, etc[^c-59e350cf8b438fd18f350b8d7f11e908]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In relation to a bank insolvency, “the responsible insolvency practitioner” 
 
 ## Annotations
 
-[^key-59e350cf8b438fd18f350b8d7f11e908]: Commencement: Rule 287 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-59e350cf8b438fd18f350b8d7f11e908]: Commencement: Rule 287 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

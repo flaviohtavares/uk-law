@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## Schedule 4 — Elected Members[^key-4978a6104f9787f75b019f1846b4482f]
+## Schedule 4 — Elected Members[^c-4978a6104f9787f75b019f1846b4482f]
 
 *Extent: E+W*
 
@@ -127,4 +127,4 @@ Regulation 117
 
 ## Annotations
 
-[^key-4978a6104f9787f75b019f1846b4482f]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2013/2356/schedule/4) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2026/346/regulation/6)
+[^c-4978a6104f9787f75b019f1846b4482f]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2013/2356/schedule/4) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2026/346/regulation/6)

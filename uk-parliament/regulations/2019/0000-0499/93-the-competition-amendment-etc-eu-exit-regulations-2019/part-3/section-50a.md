@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**50A.**[^M_I_f4c89723-7f2e-47c3-8e65-10042dd17af5][^key-39a09829f7a0f38d35d7b7086f2665d9] After section 109 insert—
+**50A.**[^M_I_f4c89723-7f2e-47c3-8e65-10042dd17af5][^c-39a09829f7a0f38d35d7b7086f2665d9] After section 109 insert—
 
 > **109A. Transferred EU merger commitments: witnesses, documents etc**
 >
@@ -30,4 +30,4 @@ summary: ''
 
 [^M_I_f4c89723-7f2e-47c3-8e65-10042dd17af5]: Commencement: Reg. 50A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-39a09829f7a0f38d35d7b7086f2665d9]: Textual amendment: Regs. 50A, 50B inserted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2020/1343/regulation/9)
+[^c-39a09829f7a0f38d35d7b7086f2665d9]: Textual amendment: Regs. 50A, 50B inserted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2020/1343/regulation/9)

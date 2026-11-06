@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 121. Compensation for loss due to notice[^key-48a544c853cf9b508283309c7aab6783][^key-e5646074b8351f0f92f5c57d7b9021cf]
+## 121. Compensation for loss due to notice[^c-48a544c853cf9b508283309c7aab6783][^c-e5646074b8351f0f92f5c57d7b9021cf]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-48a544c853cf9b508283309c7aab6783]: Commencement: S. 121 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-48a544c853cf9b508283309c7aab6783]: Commencement: S. 121 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-e5646074b8351f0f92f5c57d7b9021cf]: Commencement: [S. 121](https://www.legislation.gov.uk/asc/2024/3/section/121) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-e5646074b8351f0f92f5c57d7b9021cf]: Commencement: [S. 121](https://www.legislation.gov.uk/asc/2024/3/section/121) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

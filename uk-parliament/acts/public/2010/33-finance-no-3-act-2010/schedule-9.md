@@ -26,7 +26,7 @@ Section 25
 
 #### Amendments of sections 101 to 104
 
-**1.**[^key-f2551bb5043fc9c08f364837ddb9bc3e] FA 2009 is amended as follows.
+**1.**[^c-f2551bb5043fc9c08f364837ddb9bc3e] FA 2009 is amended as follows.
 
 **Not yet in force.**
 
@@ -44,13 +44,13 @@ Section 25
 
 .
 
-**4.**[^key-ecbb01a250425e74ce09d350168e4693] After section 103 insert—
+**4.**[^c-ecbb01a250425e74ce09d350168e4693] After section 103 insert—
 
 > **103A. Further provision as to late payment interest and repayment interest**
 >
 > Schedule 54A makes special provision as to certain amounts of late payment interest and repayment interest.
 
-**5.**[^key-6a9f6eb6ae29e7acbc8bbf42b4f27164] In section 104(1), for “103” substitute “ 103A (and Schedules 53 to 54A) ”.
+**5.**[^c-6a9f6eb6ae29e7acbc8bbf42b4f27164] In section 104(1), for “103” substitute “ 103A (and Schedules 53 to 54A) ”.
 
 #### Amendments of Schedule 53
 
@@ -141,10 +141,10 @@ Section 25
 >
 > - (a) a company has profits arising in an accounting period (“**the earlier period**”),
 > - (b) there is for a later accounting period (“the later period”) a non-trading deficit on the company's loan relationships,
-> - (c) as a result of a claim under section 389(1) , 459(1)(b) or 463B(1)(b)[^key-9ac8c8e2d2a77797d7b147d85ed689fd] of CTA 2009, the whole or part of the deficit for the later period is set off against the profits of the earlier period, and
+> - (c) as a result of a claim under section 389(1) , 459(1)(b) or 463B(1)(b)[^c-9ac8c8e2d2a77797d7b147d85ed689fd] of CTA 2009, the whole or part of the deficit for the later period is set off against the profits of the earlier period, and
 > - (d) a repayment falls to be made of corporation tax for the earlier period or of income tax in respect of a payment received by the company in that period.
 >
-> (2) So much of the repayment mentioned in sub-paragraph (1)(d) as falls to be made as a result of the claim under section 389(1) , 459(1)(b) or 463B(1)(b)[^key-9681c1e13b0cc0081b97d54db94e6c15] does not carry repayment interest.
+> (2) So much of the repayment mentioned in sub-paragraph (1)(d) as falls to be made as a result of the claim under section 389(1) , 459(1)(b) or 463B(1)(b)[^c-9681c1e13b0cc0081b97d54db94e6c15] does not carry repayment interest.
 >
 > (3) But sub-paragraph (2) does not apply (and, accordingly, the amount mentioned in that sub-paragraph carries repayment interest) after the expiry of 9 months from the end of the later period.
 >
@@ -160,7 +160,7 @@ Section 25
 >
 > (3) But sub-paragraph (2) does not apply (and, accordingly, the amount mentioned in that sub-paragraph carries repayment interest) after the expiry of 9 months from the end of the later period.
 >
-> **A2A.**[^key-e683cddeabf85cd27199d10420d22fa9] (1) This paragraph applies where—
+> **A2A.**[^c-e683cddeabf85cd27199d10420d22fa9] (1) This paragraph applies where—
 >
 > - (a) a company has profits arising in an accounting period (“the earlier period”),
 > - (b) the company ceases to carry on a trade in a later accounting period (“the later period”),
@@ -183,7 +183,7 @@ Section 25
 >
 > (3) But sub-paragraph (2) does not apply (and, accordingly, the amount mentioned in that sub-paragraph carries repayment interest) after the expiry of 9 months from the end of the later period.
 >
-> (4) This paragraph does not apply where paragraph A4 or A5[^key-2c1c5acf0f899ea05829b1aa308ca641] applies.
+> (4) This paragraph does not apply where paragraph A4 or A5[^c-2c1c5acf0f899ea05829b1aa308ca641] applies.
 >
 > **A4.** (1) This paragraph applies where—
 >
@@ -199,7 +199,7 @@ Section 25
 >
 > (3) But sub-paragraph (2) does not apply (and, accordingly, the amount mentioned in that sub-paragraph carries repayment interest) after the expiry of 9 months from the end of the later period.
 >
-> **A5.**[^key-cc9f0d518f3492ff5bc4f04788665ec2] (1) This paragraph applies where—
+> **A5.**[^c-cc9f0d518f3492ff5bc4f04788665ec2] (1) This paragraph applies where—
 >
 > - (a) a company has profits arising in an accounting period (“the middle period”),
 > - (b) the company ceases to carry on a trade in a later accounting period (“the later period”),
@@ -243,7 +243,7 @@ Section 25
 
 #### New Schedule
 
-**12.**[^key-3f0973f4885996eb88265bd79a0b789c] After Schedule 54 to FA 2009 insert—
+**12.**[^c-3f0973f4885996eb88265bd79a0b789c] After Schedule 54 to FA 2009 insert—
 
 > **Schedule 54A — Further provision as to late payment interest and repayment interest**
 >
@@ -396,20 +396,20 @@ Section 25
 
 ## Annotations
 
-[^key-f2551bb5043fc9c08f364837ddb9bc3e]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2010/33/schedule/9/paragraph/1) in force at 1.1.2023 by [S.I. 2022/1277](https://www.legislation.gov.uk/uksi/2022/1277), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2022/1277/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1277/regulation/3))
+[^c-f2551bb5043fc9c08f364837ddb9bc3e]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2010/33/schedule/9/paragraph/1) in force at 1.1.2023 by [S.I. 2022/1277](https://www.legislation.gov.uk/uksi/2022/1277), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2022/1277/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1277/regulation/3))
 
-[^key-ecbb01a250425e74ce09d350168e4693]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2010/33/schedule/9/paragraph/4) in force at 1.1.2023 for specified purposes by [S.I. 2022/1277](https://www.legislation.gov.uk/uksi/2022/1277), [reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2022/1277/regulation/2/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1277/regulation/3))
+[^c-ecbb01a250425e74ce09d350168e4693]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2010/33/schedule/9/paragraph/4) in force at 1.1.2023 for specified purposes by [S.I. 2022/1277](https://www.legislation.gov.uk/uksi/2022/1277), [reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2022/1277/regulation/2/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1277/regulation/3))
 
-[^key-6a9f6eb6ae29e7acbc8bbf42b4f27164]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2010/33/schedule/9/paragraph/5) in force at 1.1.2023 by [S.I. 2022/1277](https://www.legislation.gov.uk/uksi/2022/1277), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2022/1277/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1277/regulation/3))
+[^c-6a9f6eb6ae29e7acbc8bbf42b4f27164]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2010/33/schedule/9/paragraph/5) in force at 1.1.2023 by [S.I. 2022/1277](https://www.legislation.gov.uk/uksi/2022/1277), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2022/1277/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1277/regulation/3))
 
-[^key-9ac8c8e2d2a77797d7b147d85ed689fd]: Textual amendment: Words in [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2010/33/schedule/9/paragraph/10) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 182(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/182/2/a)
+[^c-9ac8c8e2d2a77797d7b147d85ed689fd]: Textual amendment: Words in [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2010/33/schedule/9/paragraph/10) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 182(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/182/2/a)
 
-[^key-9681c1e13b0cc0081b97d54db94e6c15]: Textual amendment: Words in [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2010/33/schedule/9/paragraph/10) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 182(2)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/182/2/b)
+[^c-9681c1e13b0cc0081b97d54db94e6c15]: Textual amendment: Words in [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2010/33/schedule/9/paragraph/10) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 182(2)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/182/2/b)
 
-[^key-e683cddeabf85cd27199d10420d22fa9]: Textual amendment: Words in [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2010/33/schedule/9/paragraph/10) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 182(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/182/3)
+[^c-e683cddeabf85cd27199d10420d22fa9]: Textual amendment: Words in [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2010/33/schedule/9/paragraph/10) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 182(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/182/3)
 
-[^key-2c1c5acf0f899ea05829b1aa308ca641]: Textual amendment: Words in [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2010/33/schedule/9/paragraph/10) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 182(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/182/4)
+[^c-2c1c5acf0f899ea05829b1aa308ca641]: Textual amendment: Words in [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2010/33/schedule/9/paragraph/10) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 182(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/182/4)
 
-[^key-cc9f0d518f3492ff5bc4f04788665ec2]: Textual amendment: Words in [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2010/33/schedule/9/paragraph/10) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 182(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/182/5)
+[^c-cc9f0d518f3492ff5bc4f04788665ec2]: Textual amendment: Words in [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2010/33/schedule/9/paragraph/10) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 182(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/182/5)
 
-[^key-3f0973f4885996eb88265bd79a0b789c]: Commencement: [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/2010/33/schedule/9/paragraph/12) in force at 1.1.2023 for specified purposes by [S.I. 2022/1277](https://www.legislation.gov.uk/uksi/2022/1277), [reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2022/1277/regulation/2/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1277/regulation/3))
+[^c-3f0973f4885996eb88265bd79a0b789c]: Commencement: [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/2010/33/schedule/9/paragraph/12) in force at 1.1.2023 for specified purposes by [S.I. 2022/1277](https://www.legislation.gov.uk/uksi/2022/1277), [reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2022/1277/regulation/2/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1277/regulation/3))

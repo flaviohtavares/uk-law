@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. Interpretation “pensionable service”[^key-e189439de6fad853456239f351ebe3ed]
+## 96. Interpretation “pensionable service”[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e189439de6fad853456239f351ebe3ed]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/217) revoked (1.1.2015) by [The Teachers’ Pension Scheme (Scotland) (No. 2) Regulations 2014 (S.S.I. 2014/292)](https://www.legislation.gov.uk/ssi/2014/292), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2), [215](https://www.legislation.gov.uk/ssi/2014/292/regulation/215)
+[^c-e189439de6fad853456239f351ebe3ed]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/217) revoked (1.1.2015) by [The Teachers’ Pension Scheme (Scotland) (No. 2) Regulations 2014 (S.S.I. 2014/292)](https://www.legislation.gov.uk/ssi/2014/292), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2), [215](https://www.legislation.gov.uk/ssi/2014/292/regulation/215)

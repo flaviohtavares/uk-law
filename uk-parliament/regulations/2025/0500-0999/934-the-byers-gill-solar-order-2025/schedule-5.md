@@ -22,7 +22,7 @@ summary: ''
 
 Articles 13 and 14
 
-### PART 1 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED[^key-434ebe9af28fc671adb58b70536d0bbe]
+### PART 1 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED[^c-434ebe9af28fc671adb58b70536d0bbe]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way to be temporarily closed* | *(3)*<br>*Extent of temporary closure* |
 | --- | --- | --- |
@@ -57,7 +57,7 @@ Articles 13 and 14
 | Parish of Carlton | Footpath No.6 | Temporary management including temporary closure over the public right of way, referenced FP-Ctn.6, comprising a length of 35m as shown between points 59 and 60 on sheets 12 and 13 of the street works, public rights of way and access plans. |
 | Parish of Carlton | Traffic-free cycle route | Temporary management of the public right of way including temporary closure over a traffic-free cycle route, comprising a length of 15m as shown between points 63 and 64 on sheet 13 of the street works, public rights of way and access plans. |
 
-### PART 2 — Public rights of way to be permanently stopped up[^key-38355806f04e5abd89104d1386555616][^key-32eb0219e59d35a85abf17885d766473]
+### PART 2 — Public rights of way to be permanently stopped up[^c-38355806f04e5abd89104d1386555616][^c-32eb0219e59d35a85abf17885d766473]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way to be stopped up* | *(3)*<br>*Extent of stopping up* | *(4)*<br>*Extent of replacement* |
 | --- | --- | --- | --- |
@@ -71,8 +71,8 @@ Articles 13 and 14
 
 ## Annotations
 
-[^key-434ebe9af28fc671adb58b70536d0bbe]: Commencement: Sch. 5 Pt. 1 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-434ebe9af28fc671adb58b70536d0bbe]: Commencement: Sch. 5 Pt. 1 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
 
-[^key-38355806f04e5abd89104d1386555616]: Commencement: Sch. 5 Pt. 2 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-38355806f04e5abd89104d1386555616]: Commencement: Sch. 5 Pt. 2 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
 
-[^key-32eb0219e59d35a85abf17885d766473]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2025/934/schedule/2/part/2) heading substituted (27.10.2025) by [The Byers Gill Solar (Correction) Order 2025 (S.I. 2025/1124)](https://www.legislation.gov.uk/uksi/2025/1124), [art. 1](https://www.legislation.gov.uk/uksi/2025/1124/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1124/schedule)
+[^c-32eb0219e59d35a85abf17885d766473]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2025/934/schedule/2/part/2) heading substituted (27.10.2025) by [The Byers Gill Solar (Correction) Order 2025 (S.I. 2025/1124)](https://www.legislation.gov.uk/uksi/2025/1124), [art. 1](https://www.legislation.gov.uk/uksi/2025/1124/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1124/schedule)

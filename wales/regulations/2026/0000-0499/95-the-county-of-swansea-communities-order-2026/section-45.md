@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Creation of the new community ward of Knelston[^key-fc58b6797c659d12cc5cca8d9d50dc51]
+## 45. Creation of the new community ward of Knelston[^c-fc58b6797c659d12cc5cca8d9d50dc51]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A new community ward is created in the community of Gower South which is to be k
 
 ## Annotations
 
-[^key-fc58b6797c659d12cc5cca8d9d50dc51]: Commencement: [Art. 45](https://www.legislation.gov.uk/wsi/2026/95/article/45) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-fc58b6797c659d12cc5cca8d9d50dc51]: Commencement: [Art. 45](https://www.legislation.gov.uk/wsi/2026/95/article/45) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 4 — Offences: EU decisions relating to plant health[^key-cbcd3015fecc490334bf48bc7e6abbc5]
+## SCHEDULE 4 — Offences: EU decisions relating to plant health[^c-cbcd3015fecc490334bf48bc7e6abbc5]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ Regulation 37(1)(h)
 
 ## Annotations
 
-[^key-cbcd3015fecc490334bf48bc7e6abbc5]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ssi/2019/421/schedule/4) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [30](https://www.legislation.gov.uk/ssi/2020/466/regulation/30) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-cbcd3015fecc490334bf48bc7e6abbc5]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ssi/2019/421/schedule/4) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [30](https://www.legislation.gov.uk/ssi/2020/466/regulation/30) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))

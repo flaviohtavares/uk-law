@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2D. Disapplication of certain procedural requirements of the Building Regulations 2010 in relation to higher-risk building work : Wales[^key-ef3b39dcf1e8b61691ac69cad4da03b4]
+## 2D. Disapplication of certain procedural requirements of the Building Regulations 2010 in relation to higher-risk building work : Wales[^c-ef3b39dcf1e8b61691ac69cad4da03b4]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ The following regulations do not apply to higher-risk building work in Wales—
 
 ## Annotations
 
-[^key-ef3b39dcf1e8b61691ac69cad4da03b4]: Textual amendment: [Regs. 2C](https://www.legislation.gov.uk/uksi/2010/2214/regulation/2C), [2D](https://www.legislation.gov.uk/uksi/2010/2214/regulation/2D) inserted (W.) (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2025/1320/regulation/4) (with [reg. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19))
+[^c-ef3b39dcf1e8b61691ac69cad4da03b4]: Textual amendment: [Regs. 2C](https://www.legislation.gov.uk/uksi/2010/2214/regulation/2C), [2D](https://www.legislation.gov.uk/uksi/2010/2214/regulation/2D) inserted (W.) (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2025/1320/regulation/4) (with [reg. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19))

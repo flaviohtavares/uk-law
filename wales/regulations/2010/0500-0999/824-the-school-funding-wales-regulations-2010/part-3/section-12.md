@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. New Schools[^key-4d43273e263d89b9b8fb760292d91993]
+## 12. New Schools[^c-4d43273e263d89b9b8fb760292d91993]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d43273e263d89b9b8fb760292d91993]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2010/824/regulation/12) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-4d43273e263d89b9b8fb760292d91993]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2010/824/regulation/12) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)

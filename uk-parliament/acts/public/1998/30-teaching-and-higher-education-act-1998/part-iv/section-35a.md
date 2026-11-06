@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35A. Inspection of other careers services etc. in Wales.[^key-f1177beb7281d0774d947a2bd76fc339]
+## 35A. Inspection of other careers services etc. in Wales.[^c-f1177beb7281d0774d947a2bd76fc339]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1177beb7281d0774d947a2bd76fc339]: Textual amendment: S. 35A repealed (1.4.2007) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 19 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/1); [S.I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 5](https://www.legislation.gov.uk/uksi/2006/1338/article/5), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/1338/schedule/3)
+[^c-f1177beb7281d0774d947a2bd76fc339]: Textual amendment: S. 35A repealed (1.4.2007) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 19 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/1); [S.I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 5](https://www.legislation.gov.uk/uksi/2006/1338/article/5), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/1338/schedule/3)

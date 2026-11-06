@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. General consequential and supplementary amendments Part 1 of Schedule 3[^key-d747558285057bdf42fde13ac54901df]
+## 51. General consequential and supplementary amendments Part 1 of Schedule 3[^c-d747558285057bdf42fde13ac54901df]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ Schedule 3, Part 1 contains consequential and supplementary amendments of the Nu
 
 ## Annotations
 
-[^key-d747558285057bdf42fde13ac54901df]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d747558285057bdf42fde13ac54901df]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23563311]: Marginal citation: [1978 c. 25](https://www.legislation.gov.uk/ukpga/1978/25). The amendments which have been made are not relevant to these Regulations.
 

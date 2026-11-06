@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Commutation supplement[^key-f823d4ff1fa27f9e475ee69fa3c1900e]
+## 74. Commutation supplement[^c-f823d4ff1fa27f9e475ee69fa3c1900e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f823d4ff1fa27f9e475ee69fa3c1900e]: Commencement: Reg. 74 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-f823d4ff1fa27f9e475ee69fa3c1900e]: Commencement: Reg. 74 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

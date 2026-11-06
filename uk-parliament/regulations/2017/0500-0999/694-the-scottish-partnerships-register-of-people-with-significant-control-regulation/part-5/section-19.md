@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Duty to deliver information to the registrar[^key-774a5b4f70f8ca95ec36086d96644b71]
+## 19. Duty to deliver information to the registrar[^c-774a5b4f70f8ca95ec36086d96644b71]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-774a5b4f70f8ca95ec36086d96644b71]: Modification: [Reg. 19](https://www.legislation.gov.uk/uksi/2017/694/regulation/19) modified (temp.) (27.6.2020) by [The Companies etc. (Filing Requirements) (Temporary Modifications) Regulations 2020 (S.I. 2020/645)](https://www.legislation.gov.uk/uksi/2020/645), [regs. 2](https://www.legislation.gov.uk/uksi/2020/645/regulation/2), [24](https://www.legislation.gov.uk/uksi/2020/645/regulation/24)
+[^c-774a5b4f70f8ca95ec36086d96644b71]: Modification: [Reg. 19](https://www.legislation.gov.uk/uksi/2017/694/regulation/19) modified (temp.) (27.6.2020) by [The Companies etc. (Filing Requirements) (Temporary Modifications) Regulations 2020 (S.I. 2020/645)](https://www.legislation.gov.uk/uksi/2020/645), [regs. 2](https://www.legislation.gov.uk/uksi/2020/645/regulation/2), [24](https://www.legislation.gov.uk/uksi/2020/645/regulation/24)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 95. Proceedings involving the National Insurance Fund[^key-1498d19c6f36cb9099ed8426b526961d]
+## 95. Proceedings involving the National Insurance Fund[^c-1498d19c6f36cb9099ed8426b526961d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Secretary of State is entitled to appear and be heard at any hearing in rela
 
 ## Annotations
 
-[^key-1498d19c6f36cb9099ed8426b526961d]: Commencement: [Rule 95](https://www.legislation.gov.uk/uksi/2024/1155/rule/95) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-1498d19c6f36cb9099ed8426b526961d]: Commencement: [Rule 95](https://www.legislation.gov.uk/uksi/2024/1155/rule/95) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

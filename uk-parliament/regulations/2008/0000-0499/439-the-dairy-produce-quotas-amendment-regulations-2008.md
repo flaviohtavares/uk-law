@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Dairy Produce Quotas (Amendment) Regulations 2008 (revoked)[^key-661022a1c3e578d547204a032cca1d91]
+The Dairy Produce Quotas (Amendment) Regulations 2008 (revoked)[^c-661022a1c3e578d547204a032cca1d91]
 
 Made
 
@@ -46,68 +46,68 @@ Coming into force
 
 1st April 2008
 
-[^key-661022a1c3e578d547204a032cca1d91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-661022a1c3e578d547204a032cca1d91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-661022a1c3e578d547204a032cca1d91]
+## 1. Title and commencement[^c-661022a1c3e578d547204a032cca1d91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Dairy Produce Quotas Regulations 2005[^key-661022a1c3e578d547204a032cca1d91]
+## 2. Amendment of the Dairy Produce Quotas Regulations 2005[^c-661022a1c3e578d547204a032cca1d91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential amendment[^key-661022a1c3e578d547204a032cca1d91]
+## 3. Consequential amendment[^c-661022a1c3e578d547204a032cca1d91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-661022a1c3e578d547204a032cca1d91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-661022a1c3e578d547204a032cca1d91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Amendments to the Dairy Produce Quotas Regulations 2005[^key-661022a1c3e578d547204a032cca1d91]
+## SCHEDULE — Amendments to the Dairy Produce Quotas Regulations 2005[^c-661022a1c3e578d547204a032cca1d91]
 
 Regulation 2
 
-**1.**[^key-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-661022a1c3e578d547204a032cca1d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-661022a1c3e578d547204a032cca1d91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-661022a1c3e578d547204a032cca1d91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-661022a1c3e578d547204a032cca1d91]: Textual amendment: Regulations revoked (S.) (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2); and revoked (E.W.) (31.3.2019) by [The Food and Rural Affairs (Miscellaneous Revocations) Regulations 2018 (S.I. 2018/908)](https://www.legislation.gov.uk/uksi/2018/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/908/regulation/1/2), [3(k)](https://www.legislation.gov.uk/uksi/2018/908/regulation/3/k)
+[^c-661022a1c3e578d547204a032cca1d91]: Textual amendment: Regulations revoked (S.) (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2); and revoked (E.W.) (31.3.2019) by [The Food and Rural Affairs (Miscellaneous Revocations) Regulations 2018 (S.I. 2018/908)](https://www.legislation.gov.uk/uksi/2018/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/908/regulation/1/2), [3(k)](https://www.legislation.gov.uk/uksi/2018/908/regulation/3/k)

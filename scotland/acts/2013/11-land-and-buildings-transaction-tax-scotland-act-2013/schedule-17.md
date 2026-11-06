@@ -26,7 +26,7 @@ summary: ''
 
 #### Overview
 
-**1.**[^key-fe625c750f83f51d05f208d1985cee48] (1) This schedule makes provision about the application of this Act in relation to partnerships.
+**1.**[^c-fe625c750f83f51d05f208d1985cee48] (1) This schedule makes provision about the application of this Act in relation to partnerships.
 
 (2) It is arranged as follows—
 
@@ -42,7 +42,7 @@ summary: ''
 
 #### Meaning of “partnership”
 
-**2.**[^key-61d1dd0e68a0b52694e133d6139cc7cc] In this Act, “ **partnership** ” means—
+**2.**[^c-61d1dd0e68a0b52694e133d6139cc7cc] In this Act, “ **partnership** ” means—
 
 - (a) a partnership within the Partnership Act 1890 (c.39),
 - (b) a limited partnership registered under the Limited Partnerships Act 1907 (c.24),
@@ -51,7 +51,7 @@ summary: ''
 
 #### Chargeable interests treated as being held by partners etc.
 
-**3.**[^key-b21a658c21f95e1b776755b27c0e7075] (1) For the purposes of this Act—
+**3.**[^c-b21a658c21f95e1b776755b27c0e7075] (1) For the purposes of this Act—
 
 - (a) a chargeable interest held by or on behalf of a partnership is treated as held by or on behalf of the partners, and
 - (b) a land transaction entered into for the purposes of a partnership is treated as entered into by or on behalf of the partners,
@@ -62,7 +62,7 @@ and not by or on behalf of the partnership as such.
 
 #### Acquisition of interest in partnership not chargeable except as specially provided
 
-**4.**[^key-b62db87ba513336be3c8f025c0e198ac] The acquisition of an interest in a partnership is not a chargeable transaction, notwithstanding that the partnership property includes land, except as provided by—
+**4.**[^c-b62db87ba513336be3c8f025c0e198ac] The acquisition of an interest in a partnership is not a chargeable transaction, notwithstanding that the partnership property includes land, except as provided by—
 
 - (a) Part 4 of this schedule (transfer of chargeable interest to a partnership),
 - (b) paragraph 17 (transfer of partnership interest pursuant to earlier arrangements), or
@@ -70,21 +70,21 @@ and not by or on behalf of the partnership as such.
 
 #### Continuity of partnership
 
-**5.**[^key-d5a1ae6dc18a0e4b25daabccbbd3174d] For the purposes of this Act, a partnership is treated as the same partnership notwithstanding a change in membership if any person who was a member before the change remains a member after the change.
+**5.**[^c-d5a1ae6dc18a0e4b25daabccbbd3174d] For the purposes of this Act, a partnership is treated as the same partnership notwithstanding a change in membership if any person who was a member before the change remains a member after the change.
 
 #### Partnership not to be regarded as unit trust scheme etc.
 
-**6.**[^key-207145cdd98218b570c1138166ea4467] A partnership is not to be regarded for the purposes of this Act as a unit trust scheme or an open ended investment company.
+**6.**[^c-207145cdd98218b570c1138166ea4467] A partnership is not to be regarded for the purposes of this Act as a unit trust scheme or an open ended investment company.
 
 ### PART 3 — Ordinary partnership transactions
 
 #### Introduction
 
-**7.**[^key-d76d81b1788f6b0073fd1d9b9d9d6ba5] This Part of this schedule applies to land transactions entered into as buyer by or on behalf of the members of a partnership, other than transactions within Parts 4 to 7 of this schedule.
+**7.**[^c-d76d81b1788f6b0073fd1d9b9d9d6ba5] This Part of this schedule applies to land transactions entered into as buyer by or on behalf of the members of a partnership, other than transactions within Parts 4 to 7 of this schedule.
 
 #### Responsibility of partners
 
-**8.**[^key-d79f2949a7ab008d289623d0f50f3d3b] (1) Anything required or authorised to be done under this Act by or in relation to the buyer in the transaction is required or authorised to be done by or in relation to all the responsible partners.
+**8.**[^c-d79f2949a7ab008d289623d0f50f3d3b] (1) Anything required or authorised to be done under this Act by or in relation to the buyer in the transaction is required or authorised to be done by or in relation to all the responsible partners.
 
 (2) The responsible partners in relation to a transaction are—
 
@@ -95,7 +95,7 @@ and not by or on behalf of the partnership as such.
 
 #### Representative partners
 
-**9.**[^key-9453ba530d56fcef9c1df76dc0d78b5e] (1) Anything required or authorised to be done by or in relation to the responsible partners may instead be done by or in relation to any representative partner or partners.
+**9.**[^c-9453ba530d56fcef9c1df76dc0d78b5e] (1) Anything required or authorised to be done by or in relation to the responsible partners may instead be done by or in relation to any representative partner or partners.
 
 (2) This includes making the declaration required by section 36 (declaration that return is complete and correct).
 
@@ -105,7 +105,7 @@ and not by or on behalf of the partnership as such.
 
 #### Joint and several liability of responsible partners
 
-**10.**[^key-67fbe55450ec5f8d3356778c3e680f9d] (1) Where the responsible partners are liable to make a payment of tax, the liability is a joint and several liability of those partners.
+**10.**[^c-67fbe55450ec5f8d3356778c3e680f9d] (1) Where the responsible partners are liable to make a payment of tax, the liability is a joint and several liability of those partners.
 
 (2) No amount may be recovered by virtue of sub-paragraph (1) from a person who did not become a responsible partner until after the effective date of the transaction in respect of which the tax is payable.
 
@@ -113,14 +113,14 @@ and not by or on behalf of the partnership as such.
 
 #### Overview of Part
 
-**11.**[^key-0d40f0591c29551ccfe9a7418c9fa115] This Part of this schedule is arranged as follows—
+**11.**[^c-0d40f0591c29551ccfe9a7418c9fa115] This Part of this schedule is arranged as follows—
 
 - paragraphs 12 to 16 make provision about the treatment of certain land transactions involving the transfer of a chargeable interest to a partnership,
 - paragraphs 17 and 18 provide for certain events following such transactions to be treated as land transactions.
 
 #### Circumstances in which this Part applies
 
-**12.**[^key-3bfc60e698cda6500e4d5035b5624047] (1) This Part of this schedule applies where—
+**12.**[^c-3bfc60e698cda6500e4d5035b5624047] (1) This Part of this schedule applies where—
 
 - (a) a partner transfers a chargeable interest to the partnership,
 - (b) a person transfers a chargeable interest to a partnership in return for an interest in the partnership, or
@@ -141,7 +141,7 @@ and not by or on behalf of the partnership as such.
 
 #### Calculation of chargeable consideration etc.
 
-**13.**[^key-a05725e7750c51d12bf44a5762007c53] (1) The chargeable consideration for the land transfer is taken to be equal to—
+**13.**[^c-a05725e7750c51d12bf44a5762007c53] (1) The chargeable consideration for the land transfer is taken to be equal to—
 
 [formula: see source](https://www.legislation.gov.uk/asp/2013/11)
 
@@ -160,7 +160,7 @@ SLP is the sum of the lower proportions determined in accordance with paragraph 
 
 #### Sum of the lower proportions
 
-**14.**[^key-91f03ba286d8cfffdabf13a66896eed6] The sum of the lower proportions in relation to the land transfer is determined as follows.
+**14.**[^c-91f03ba286d8cfffdabf13a66896eed6] The sum of the lower proportions in relation to the land transfer is determined as follows.
 
 - *Step 1* Identify the relevant owner or owners.
 - *Step 2* For each relevant owner, identify the corresponding partner or partners. If there is no relevant owner with a corresponding partner, the sum of the lower proportions is nil.
@@ -172,7 +172,7 @@ SLP is the sum of the lower proportions determined in accordance with paragraph 
 
 #### Relevant owner
 
-**15.**[^key-5300da74a4cf87d13f0df7cb049c1c01] (1) For the purposes of paragraph 14 (see Step 1), a person is a relevant owner if—
+**15.**[^c-5300da74a4cf87d13f0df7cb049c1c01] (1) For the purposes of paragraph 14 (see Step 1), a person is a relevant owner if—
 
 - (a) immediately before the land transfer, the person was entitled to a proportion of the chargeable interest, and
 - (b) immediately after the land transfer, the person is a partner or connected with a partner.
@@ -181,7 +181,7 @@ SLP is the sum of the lower proportions determined in accordance with paragraph 
 
 #### Corresponding partner
 
-**16.**[^key-7648ece97c1641387519b179a88edaa3] (1) For the purposes of paragraph 14 (see Step 2), a person is a corresponding partner in relation to a relevant owner if, immediately after the land transfer—
+**16.**[^c-7648ece97c1641387519b179a88edaa3] (1) For the purposes of paragraph 14 (see Step 2), a person is a corresponding partner in relation to a relevant owner if, immediately after the land transfer—
 
 - (a) the person is a partner, and
 - (b) the person is the relevant owner or is an individual connected with the relevant owner.
@@ -193,7 +193,7 @@ SLP is the sum of the lower proportions determined in accordance with paragraph 
 
 #### Transfer of partnership interest pursuant to earlier arrangements
 
-**17.**[^key-f0a8e70eb91223f80e43b262228cae84][^key-a36d3fa1fd66e8bea1ac67e3e47c16e0] (1) This paragraph applies where—
+**17.**[^c-f0a8e70eb91223f80e43b262228cae84][^c-a36d3fa1fd66e8bea1ac67e3e47c16e0] (1) This paragraph applies where—
 
 - (a) subsequent to the land transfer, there is a transfer of an interest in the partnership (“the partnership transfer”),
 - (b) the partnership transfer is made—
@@ -225,9 +225,9 @@ SLP is the sum of the lower proportions determined in accordance with paragraph 
 
 #### Withdrawal of money etc. from partnership after transfer of chargeable interest
 
-**18.**[^key-9f62f4a05c78c278dfd396fd948c065d][^key-d0cbfad55977e936671e62b7f5856e50] (1) This paragraph applies where, during the period of 3 years beginning with the date of the land transfer, a qualifying event occurs.
+**18.**[^c-9f62f4a05c78c278dfd396fd948c065d][^c-d0cbfad55977e936671e62b7f5856e50] (1) This paragraph applies where, during the period of 3 years beginning with the date of the land transfer, a qualifying event occurs.
 
-(2)[^key-2bf08e90ac67a4e9567d311e7420407d] A qualifying event is—
+(2)[^c-2bf08e90ac67a4e9567d311e7420407d] A qualifying event is—
 
 - (a) a withdrawal from the partnership of money or money's worth which does not represent income profit by the relevant person—
   - (i) withdrawing capital from the person's capital account,
@@ -265,7 +265,7 @@ SLP is the sum of the lower proportions determined in accordance with paragraph 
 
 #### Overview of Part
 
-**19.**[^key-827db3164eec3af199ec341104f14787] This Part of this schedule is arranged as follows—
+**19.**[^c-827db3164eec3af199ec341104f14787] This Part of this schedule is arranged as follows—
 
 - paragraphs 20 to 26 make provision about certain land transactions involving the transfer of a chargeable interest from a partnership,
 - paragraph 27 makes special provision where the transaction involves a transfer from a partnership to a partnership,
@@ -273,7 +273,7 @@ SLP is the sum of the lower proportions determined in accordance with paragraph 
 
 #### Circumstances in which Part applies
 
-**20.**[^key-134a7c59d7d2d7f906ca4ff1a20c9867] (1) This Part of this schedule applies where a chargeable interest is transferred—
+**20.**[^c-134a7c59d7d2d7f906ca4ff1a20c9867] (1) This Part of this schedule applies where a chargeable interest is transferred—
 
 - (a) from a partnership to a person who is or has been one of the partners, or
 - (b) from a partnership to a person connected with a person who is or has been one of the partners.
@@ -289,7 +289,7 @@ SLP is the sum of the lower proportions determined in accordance with paragraph 
 
 #### Calculation of chargeable consideration
 
-**21.**[^key-3c45e376d74af592f7935fd31dc9d021] (1) The chargeable consideration for the land transfer is (subject to paragraph 28) taken to be equal to—
+**21.**[^c-3c45e376d74af592f7935fd31dc9d021] (1) The chargeable consideration for the land transfer is (subject to paragraph 28) taken to be equal to—
 
 [formula: see source](https://www.legislation.gov.uk/asp/2013/11)
 
@@ -303,7 +303,7 @@ SLP is the sum of the lower proportions determined in accordance with paragraph 
 
 #### Sum of the lower proportions
 
-**22.**[^key-d9443ca1dc7592d5d9e9b22f417afa41] The sum of the lower proportions in relation to the land transfer is determined as follows.
+**22.**[^c-d9443ca1dc7592d5d9e9b22f417afa41] The sum of the lower proportions in relation to the land transfer is determined as follows.
 
 - *Step 1* Identify the relevant owner or owners.
 - *Step 2* For each relevant owner, identify the corresponding partner or partners. If there is no relevant owner with a corresponding partner, the sum of the lower proportions is nil.
@@ -315,7 +315,7 @@ SLP is the sum of the lower proportions determined in accordance with paragraph 
 
 #### Relevant owner
 
-**23.**[^key-63e9d52f0db409a49dd7b9ca814d53cf] (1) For the purposes of paragraph 22 (see Step 1), a person is a relevant owner if—
+**23.**[^c-63e9d52f0db409a49dd7b9ca814d53cf] (1) For the purposes of paragraph 22 (see Step 1), a person is a relevant owner if—
 
 - (a) immediately after the land transfer, the person is entitled to a proportion of the chargeable interest, and
 - (b) immediately before the land transfer, the person was a partner or connected with a partner.
@@ -324,7 +324,7 @@ SLP is the sum of the lower proportions determined in accordance with paragraph 
 
 #### Corresponding partner
 
-**24.**[^key-3e447a854dd1c9a60665b33a6e30040a] (1) For the purposes of paragraph 22 (see Step 2), a person is a corresponding partner in relation to a relevant owner if, immediately before the land transfer—
+**24.**[^c-3e447a854dd1c9a60665b33a6e30040a] (1) For the purposes of paragraph 22 (see Step 2), a person is a corresponding partner in relation to a relevant owner if, immediately before the land transfer—
 
 - (a) the person was a partner, and
 - (b) the person was the relevant owner or was an individual connected with the relevant owner.
@@ -336,7 +336,7 @@ SLP is the sum of the lower proportions determined in accordance with paragraph 
 
 #### Partnership share attributable to partner
 
-**25.**[^key-a2af78a3ee936aa33b10a526d1628d2f][^key-4beca4458fff1a23d1845edeaeee7a5d] (1) This paragraph provides for determining the partnership share attributable to a partner for the purposes of paragraph 22 (see Step 4).
+**25.**[^c-a2af78a3ee936aa33b10a526d1628d2f][^c-4beca4458fff1a23d1845edeaeee7a5d] (1) This paragraph provides for determining the partnership share attributable to a partner for the purposes of paragraph 22 (see Step 4).
 
 (2) Where any tax payable in respect of the transfer of the relevant chargeable interest to the partnership has not been paid under this Act, the partnership share attributable to a partner is zero.
 
@@ -349,7 +349,7 @@ SLP is the sum of the lower proportions determined in accordance with paragraph 
 - (a) the chargeable interest which ceases to be partnership property as a result of the land transfer, or
 - (b) where the land transfer is the creation of a chargeable interest, the chargeable interest out of which that interest is created.
 
-**26.**[^key-0b7435d7db458f38a7d102230381c3cd][^key-673fe3119e84cfcfa0e698a8e0ceb61b] (1) Where this paragraph applies, the partnership share attributable to the partner is determined as follows.
+**26.**[^c-0b7435d7db458f38a7d102230381c3cd][^c-673fe3119e84cfcfa0e698a8e0ceb61b] (1) Where this paragraph applies, the partnership share attributable to the partner is determined as follows.
 
 - *Step 1* Find the partner's actual partnership share on the relevant date. The relevant date—
   - (a) if the partner was a partner on the effective date of the transfer of the relevant chargeable interest to the partnership, is that date,
@@ -365,7 +365,7 @@ SLP is the sum of the lower proportions determined in accordance with paragraph 
 
 #### Transfer of chargeable interest from a partnership to a partnership
 
-**27.**[^key-71b5bf37db802f5031c1ff511d03b539] (1) This paragraph applies where—
+**27.**[^c-71b5bf37db802f5031c1ff511d03b539] (1) This paragraph applies where—
 
 - (a) there is a transfer of a chargeable interest from a partnership to a partnership, and
 - (b) the transfer is both—
@@ -378,7 +378,7 @@ SLP is the sum of the lower proportions determined in accordance with paragraph 
 
 #### Transfer of chargeable interest from a partnership consisting wholly of bodies corporate
 
-**28.**[^key-065936c7dd11df3212f4410515de82f0] (1) This paragraph applies where—
+**28.**[^c-065936c7dd11df3212f4410515de82f0] (1) This paragraph applies where—
 
 - (a) immediately before the land transfer all the partners are bodies corporate, and
 - (b) the sum of the lower proportions is 75 or more.
@@ -404,7 +404,7 @@ SLP is the sum of the lower proportions determined in accordance with paragraph 
 
 #### Application of Parts 3 to 5 to leases
 
-**29.**[^key-a1435ebd3c08d7dbe077cfb1fefcd9f8] (1) This paragraph applies in relation to a transaction to which paragraph 12 or 20 applies where the whole or part of the chargeable consideration for the transaction is rent.
+**29.**[^c-a1435ebd3c08d7dbe077cfb1fefcd9f8] (1) This paragraph applies in relation to a transaction to which paragraph 12 or 20 applies where the whole or part of the chargeable consideration for the transaction is rent.
 
 (2) Schedule 19 (leases) has effect with the modifications set out in sub-paragraphs (3) to (6).
 
@@ -445,14 +445,14 @@ where SLP is the sum of the lower proportions.
 
 #### Overview of Part
 
-**30.**[^key-aa78b5313e91876c5d8bff25e9ac0a0a] This Part of this schedule is arranged as follows—
+**30.**[^c-aa78b5313e91876c5d8bff25e9ac0a0a] This Part of this schedule is arranged as follows—
 
 - paragraphs 32 to 34 make provision about certain transactions involving the transfer of an interest in a property investment partnership,
 - paragraph 35 provides that a property investment partnership may elect to disapply paragraph 12 in relation to certain land transactions.
 
 #### Meaning of “property investment partnership”
 
-**31.**[^key-5fe9875c30ba09d6c256755a8b13b8c5] (1) In this schedule, “ **property-investment partnership** ” means a partnership whose sole or main activity is investing or dealing in chargeable interests (whether or not that activity involves the carrying out of construction operations on the land in question).
+**31.**[^c-5fe9875c30ba09d6c256755a8b13b8c5] (1) In this schedule, “ **property-investment partnership** ” means a partnership whose sole or main activity is investing or dealing in chargeable interests (whether or not that activity involves the carrying out of construction operations on the land in question).
 
 (2) For the purposes of sub-paragraph (1) “ **chargeable interests** ” includes any interest which would be a chargeable interest but for the fact that it relates to land outwith Scotland.
 
@@ -460,7 +460,7 @@ where SLP is the sum of the lower proportions.
 
 #### Transfer of interest in partnership treated as land transaction
 
-**32.**[^key-30d3b3097d244b1ec08cccda639ebab6] (1) This paragraph applies where—
+**32.**[^c-30d3b3097d244b1ec08cccda639ebab6] (1) This paragraph applies where—
 
 - (a) there is a transfer of an interest in a property-investment partnership, and
 - (b) the relevant partnership property includes a chargeable interest.
@@ -509,7 +509,7 @@ where SLP is the sum of the lower proportions.
 
 #### Exclusion of market rent leases
 
-**33.**[^key-fd6ff44c4a165d9a3c43580467503b2d] (1) A lease held as partnership property immediately after a transfer of an interest in the partnership is not relevant partnership property for the purposes of paragraph 32(6) or (7) if the following four conditions are met.
+**33.**[^c-fd6ff44c4a165d9a3c43580467503b2d] (1) A lease held as partnership property immediately after a transfer of an interest in the partnership is not relevant partnership property for the purposes of paragraph 32(6) or (7) if the following four conditions are met.
 
 (2) The first condition is that—
 
@@ -533,7 +533,7 @@ where SLP is the sum of the lower proportions.
 
 #### Partnership interests: application of provisions about exchanges etc.
 
-**34.**[^key-6a69881b799ad1b3c1784ffee4437bdf] (1) Where paragraph 5 of schedule 2 (exchanges) applies to the acquisition of an interest in a partnership in consideration of entering into a land transaction with an existing partner, the interest in the partnership is to be treated as a major interest in land for the purposes of that paragraph if the relevant partnership property includes a major interest in land.
+**34.**[^c-6a69881b799ad1b3c1784ffee4437bdf] (1) Where paragraph 5 of schedule 2 (exchanges) applies to the acquisition of an interest in a partnership in consideration of entering into a land transaction with an existing partner, the interest in the partnership is to be treated as a major interest in land for the purposes of that paragraph if the relevant partnership property includes a major interest in land.
 
 (2) In sub-paragraph (1) “ **relevant partnership property** ” has the meaning given by paragraph 32(6) or (7) (as appropriate).
 
@@ -541,7 +541,7 @@ where SLP is the sum of the lower proportions.
 
 #### Election by property-investment partnership to disapply Part 4
 
-**35.**[^key-dd15b630a3fb80960ad91d8b2e6e23e0] (1) Part 4 of this schedule does not apply to a transfer of a chargeable interest to a property-investment partnership if the buyer in relation to the transaction elects for that Part[^key-915ec201bbd8182512e850912ea99a11] not to apply.
+**35.**[^c-dd15b630a3fb80960ad91d8b2e6e23e0] (1) Part 4 of this schedule does not apply to a transfer of a chargeable interest to a property-investment partnership if the buyer in relation to the transaction elects for that Part[^c-915ec201bbd8182512e850912ea99a11] not to apply.
 
 (2) Where an election under this paragraph is made in respect of a transaction—
 
@@ -551,7 +551,7 @@ where SLP is the sum of the lower proportions.
 
 (3) An election under this paragraph must be included in the land transaction return made in respect of the transaction or in an amendment of that return.
 
-(3A)[^key-d3a7dedff23d452e8449c8458003474c] For the period allowed for amendment of returns, see section 83 of the Revenue Scotland and Tax Powers Act 2014 (asp 16).
+(3A)[^c-d3a7dedff23d452e8449c8458003474c] For the period allowed for amendment of returns, see section 83 of the Revenue Scotland and Tax Powers Act 2014 (asp 16).
 
 (4) Such an election is irrevocable and a land transaction return may not be amended so as to withdraw the election.
 
@@ -569,7 +569,7 @@ where SLP is the sum of the lower proportions.
 
 #### Overview of Part
 
-**36.**[^key-c6fb5085d937fb2b9f4cd4b4890f494b] This Part of this schedule is arranged as follows—
+**36.**[^c-c6fb5085d937fb2b9f4cd4b4890f494b] This Part of this schedule is arranged as follows—
 
 - paragraph 37 makes general provision about the application of exemptions and reliefs to transactions mentioned in Parts 4 to 7 of this schedule,
 - paragraphs 38 and 39 makes provision about the application of group relief to certain transactions mentioned in Part 4 of this schedule,
@@ -578,7 +578,7 @@ where SLP is the sum of the lower proportions.
 
 #### Application of exemptions and reliefs: general
 
-**37.**[^key-8c967c156d9a5441f4b359e79defb691] (1) Paragraph 1 of schedule 1 (exemption of transactions for which there is no chargeable consideration) does not apply to—
+**37.**[^c-8c967c156d9a5441f4b359e79defb691] (1) Paragraph 1 of schedule 1 (exemption of transactions for which there is no chargeable consideration) does not apply to—
 
 - (a) a transaction to which Part 4 applies,
 - (b) a transaction to which Part 5 applies, or
@@ -588,7 +588,7 @@ where SLP is the sum of the lower proportions.
 
 #### Application of group relief
 
-**38.**[^key-9935ffc01fe1d9e79ea7f850ef9be01c] (1) Schedule 10 (group relief) applies with the following modifications to—
+**38.**[^c-9935ffc01fe1d9e79ea7f850ef9be01c] (1) Schedule 10 (group relief) applies with the following modifications to—
 
 - (a) a transaction to which Part 4 applies, and
 - (b) a transfer of interest in a partnership which is treated as a land transaction by virtue of paragraph 17.
@@ -615,9 +615,9 @@ where SLP is the sum of the lower proportions.
 
 .
 
-(4) In paragraphs 20 to 42K[^key-5b9818d3e5cec930532d626db86d60e6], for “the buyer” (wherever appearing) substitute “ the relevant partner ” .
+(4) In paragraphs 20 to 42K[^c-5b9818d3e5cec930532d626db86d60e6], for “the buyer” (wherever appearing) substitute “ the relevant partner ” .
 
-**39.**[^key-1346f0899f71f11bb1d2d0c143ecf07a] (1) This paragraph applies where in calculating the sum of the lower proportions in relation to a transaction (in accordance with paragraph 14)—
+**39.**[^c-1346f0899f71f11bb1d2d0c143ecf07a] (1) This paragraph applies where in calculating the sum of the lower proportions in relation to a transaction (in accordance with paragraph 14)—
 
 - (a) a company (“the connected company”) would have been a corresponding partner of a relevant owner (“the original owner”) but for the fact that paragraph 16 includes connected persons only if they are individuals, and
 - (b) the connected company and the original owner are members of the same group.
@@ -646,7 +646,7 @@ where SLP is the sum of the lower proportions.
 
 #### Application of charities relief
 
-**40.**[^key-fa639e4653883e8552396af2ebc12406] (1) Schedule 13 (charities relief) applies to the transfer of interest in a partnership that is a chargeable transaction by virtue of paragraph 17 or 32 with these modifications.
+**40.**[^c-fa639e4653883e8552396af2ebc12406] (1) Schedule 13 (charities relief) applies to the transfer of interest in a partnership that is a chargeable transaction by virtue of paragraph 17 or 32 with these modifications.
 
 (2) In paragraph 1, for “A land transaction is exempt from charge if the buyer is a charity” substitute “ A transfer of an interest in a partnership that is a chargeable transaction by virtue of paragraph 17 or 32 of schedule 17 is exempt from charge if the transferee is a charity ” .
 
@@ -699,7 +699,7 @@ where SLP is the sum of the lower proportions.
 
 #### Notification of transfers of partnership interests
 
-**41.**[^key-8ba88f0862f2377f40ec389aea4fafb6] (1) A transaction which is a chargeable transaction by virtue of paragraph 17 or 32 (transfer of partnership interest) is a notifiable transaction if (but only if) the consideration for the transaction exceeds the nil rate tax band.
+**41.**[^c-8ba88f0862f2377f40ec389aea4fafb6] (1) A transaction which is a chargeable transaction by virtue of paragraph 17 or 32 (transfer of partnership interest) is a notifiable transaction if (but only if) the consideration for the transaction exceeds the nil rate tax band.
 
 (2) The consideration for a transaction exceeds the nil rate tax band if—
 
@@ -712,19 +712,19 @@ exceeds the nil rate tax band applicable to the transaction.
 
 #### Introduction
 
-**42.**[^key-76c81520565c56b84a3f99b10dfec160] This Part of this schedule defines expressions used in this schedule.
+**42.**[^c-76c81520565c56b84a3f99b10dfec160] This Part of this schedule defines expressions used in this schedule.
 
 #### Partnership property
 
-**43.**[^key-9f835900181e15d561f07a4456e6a02a] Any reference to partnership property is to an interest or right held by or on behalf of a partnership, or the members of a partnership, for the purposes of the partnership business.
+**43.**[^c-9f835900181e15d561f07a4456e6a02a] Any reference to partnership property is to an interest or right held by or on behalf of a partnership, or the members of a partnership, for the purposes of the partnership business.
 
 #### Partnership share
 
-**44.**[^key-0631269c06feace6f1b1d4e5172d1c23] Any reference to a person's partnership share at any time is to the proportion in which the person is entitled at that time to share in the income profits of the partnership.
+**44.**[^c-0631269c06feace6f1b1d4e5172d1c23] Any reference to a person's partnership share at any time is to the proportion in which the person is entitled at that time to share in the income profits of the partnership.
 
 #### Transfer of chargeable interest
 
-**45.**[^key-51b9b7b9b95f2bbe3dc0e491c5f6dd65] References to the transfer of a chargeable interest include—
+**45.**[^c-51b9b7b9b95f2bbe3dc0e491c5f6dd65] References to the transfer of a chargeable interest include—
 
 - (a) the creation of a chargeable interest,
 - (b) the renunciation or release of a chargeable interest, and
@@ -732,144 +732,144 @@ exceeds the nil rate tax band applicable to the transaction.
 
 #### Transfer of chargeable interest to a partnership
 
-**46.**[^key-bc64b8af04abd551c809e17b9653ee02] For the purposes of this schedule, there is a transfer of a chargeable interest to a partnership in any case where a chargeable interest becomes partnership property.
+**46.**[^c-bc64b8af04abd551c809e17b9653ee02] For the purposes of this schedule, there is a transfer of a chargeable interest to a partnership in any case where a chargeable interest becomes partnership property.
 
 #### Transfer of chargeable interest from a partnership
 
-**47.**[^key-90e8b3aafe6c841af5387e52bc302eab] For the purposes of this schedule, there is a transfer of a chargeable interest from a partnership in any case where—
+**47.**[^c-90e8b3aafe6c841af5387e52bc302eab] For the purposes of this schedule, there is a transfer of a chargeable interest from a partnership in any case where—
 
 - (a) a chargeable interest that was partnership property ceases to be partnership property, or
 - (b) a chargeable interest is created out of partnership property and the interest is not partnership property.
 
 #### Transfer of interest in a partnership
 
-**48.**[^key-0869904b2dff991181a6e360a0ecd129] For the purposes of this schedule, where a person acquires a partnership share or a person's partnership share increases there is a transfer of an interest in the partnership (to that partner and from the other partners).
+**48.**[^c-0869904b2dff991181a6e360a0ecd129] For the purposes of this schedule, where a person acquires a partnership share or a person's partnership share increases there is a transfer of an interest in the partnership (to that partner and from the other partners).
 
 #### Connected persons
 
-**49.**[^key-b6479e726e910b7877e8e649b79ec290] In the application of section 1122 of the Corporation Tax Act 2010 (connected persons) for the purposes of this schedule—
+**49.**[^c-b6479e726e910b7877e8e649b79ec290] In the application of section 1122 of the Corporation Tax Act 2010 (connected persons) for the purposes of this schedule—
 
 - (a) that section has effect with the omission of subsection (7) (partners connected with each other), and
 - (b) for the purposes of paragraph 12 or 22, that section has effect with the omission of subsection (6)(c) to (e) (trustee connected with settlement).
 
 #### Arrangements
 
-**50.**[^key-543fdbe21c632b7ecfe7a0a4d97e6b88] “ **Arrangements** ” includes any scheme, agreement or understanding, whether or not legally enforceable.
+**50.**[^c-543fdbe21c632b7ecfe7a0a4d97e6b88] “ **Arrangements** ” includes any scheme, agreement or understanding, whether or not legally enforceable.
 
 ## Annotations
 
-[^key-fe625c750f83f51d05f208d1985cee48]: Commencement: Sch. 17 para. 1 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-fe625c750f83f51d05f208d1985cee48]: Commencement: Sch. 17 para. 1 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-61d1dd0e68a0b52694e133d6139cc7cc]: Commencement: Sch. 17 para. 2 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-61d1dd0e68a0b52694e133d6139cc7cc]: Commencement: Sch. 17 para. 2 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-b21a658c21f95e1b776755b27c0e7075]: Commencement: Sch. 17 para. 3 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-b21a658c21f95e1b776755b27c0e7075]: Commencement: Sch. 17 para. 3 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-b62db87ba513336be3c8f025c0e198ac]: Commencement: Sch. 17 para. 4 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-b62db87ba513336be3c8f025c0e198ac]: Commencement: Sch. 17 para. 4 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-d5a1ae6dc18a0e4b25daabccbbd3174d]: Commencement: Sch. 17 para. 5 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-d5a1ae6dc18a0e4b25daabccbbd3174d]: Commencement: Sch. 17 para. 5 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-207145cdd98218b570c1138166ea4467]: Commencement: Sch. 17 para. 6 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-207145cdd98218b570c1138166ea4467]: Commencement: Sch. 17 para. 6 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-d76d81b1788f6b0073fd1d9b9d9d6ba5]: Commencement: Sch. 17 para. 7 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-d76d81b1788f6b0073fd1d9b9d9d6ba5]: Commencement: Sch. 17 para. 7 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-d79f2949a7ab008d289623d0f50f3d3b]: Commencement: Sch. 17 para. 8 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-d79f2949a7ab008d289623d0f50f3d3b]: Commencement: Sch. 17 para. 8 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-9453ba530d56fcef9c1df76dc0d78b5e]: Commencement: Sch. 17 para. 9 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-9453ba530d56fcef9c1df76dc0d78b5e]: Commencement: Sch. 17 para. 9 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-67fbe55450ec5f8d3356778c3e680f9d]: Commencement: Sch. 17 para. 10 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-67fbe55450ec5f8d3356778c3e680f9d]: Commencement: Sch. 17 para. 10 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-0d40f0591c29551ccfe9a7418c9fa115]: Commencement: Sch. 17 para. 11 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-0d40f0591c29551ccfe9a7418c9fa115]: Commencement: Sch. 17 para. 11 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-3bfc60e698cda6500e4d5035b5624047]: Commencement: Sch. 17 para. 12 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-3bfc60e698cda6500e4d5035b5624047]: Commencement: Sch. 17 para. 12 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-a05725e7750c51d12bf44a5762007c53]: Commencement: Sch. 17 para. 13 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-a05725e7750c51d12bf44a5762007c53]: Commencement: Sch. 17 para. 13 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-91f03ba286d8cfffdabf13a66896eed6]: Commencement: Sch. 17 para. 14 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-91f03ba286d8cfffdabf13a66896eed6]: Commencement: Sch. 17 para. 14 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-5300da74a4cf87d13f0df7cb049c1c01]: Commencement: Sch. 17 para. 15 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-5300da74a4cf87d13f0df7cb049c1c01]: Commencement: Sch. 17 para. 15 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-7648ece97c1641387519b179a88edaa3]: Commencement: Sch. 17 para. 16 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-7648ece97c1641387519b179a88edaa3]: Commencement: Sch. 17 para. 16 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-f0a8e70eb91223f80e43b262228cae84]: Commencement: Sch. 17 para. 17 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-f0a8e70eb91223f80e43b262228cae84]: Commencement: Sch. 17 para. 17 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-a36d3fa1fd66e8bea1ac67e3e47c16e0]: Modification: Sch. 17 para. 17 applied (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377) , [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) , [7(2)](https://www.legislation.gov.uk/ssi/2014/377/article/7/2)
+[^c-a36d3fa1fd66e8bea1ac67e3e47c16e0]: Modification: Sch. 17 para. 17 applied (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377) , [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) , [7(2)](https://www.legislation.gov.uk/ssi/2014/377/article/7/2)
 
-[^key-9f62f4a05c78c278dfd396fd948c065d]: Commencement: Sch. 17 para. 18 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-9f62f4a05c78c278dfd396fd948c065d]: Commencement: Sch. 17 para. 18 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-d0cbfad55977e936671e62b7f5856e50]: Modification: Sch. 17 para. 18 applied (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377) , [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) , [8(2)(a)](https://www.legislation.gov.uk/ssi/2014/377/article/8/2/a)
+[^c-d0cbfad55977e936671e62b7f5856e50]: Modification: Sch. 17 para. 18 applied (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377) , [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) , [8(2)(a)](https://www.legislation.gov.uk/ssi/2014/377/article/8/2/a)
 
-[^key-2bf08e90ac67a4e9567d311e7420407d]: Modification: Sch. 17 para. 18(2) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377) , [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) , [8(2)(b)](https://www.legislation.gov.uk/ssi/2014/377/article/8/2/b)
+[^c-2bf08e90ac67a4e9567d311e7420407d]: Modification: Sch. 17 para. 18(2) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377) , [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) , [8(2)(b)](https://www.legislation.gov.uk/ssi/2014/377/article/8/2/b)
 
-[^key-827db3164eec3af199ec341104f14787]: Commencement: Sch. 17 para. 19 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-827db3164eec3af199ec341104f14787]: Commencement: Sch. 17 para. 19 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-134a7c59d7d2d7f906ca4ff1a20c9867]: Commencement: Sch. 17 para. 20 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-134a7c59d7d2d7f906ca4ff1a20c9867]: Commencement: Sch. 17 para. 20 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-3c45e376d74af592f7935fd31dc9d021]: Commencement: Sch. 17 para. 21 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-3c45e376d74af592f7935fd31dc9d021]: Commencement: Sch. 17 para. 21 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-d9443ca1dc7592d5d9e9b22f417afa41]: Commencement: Sch. 17 para. 22 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-d9443ca1dc7592d5d9e9b22f417afa41]: Commencement: Sch. 17 para. 22 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-63e9d52f0db409a49dd7b9ca814d53cf]: Commencement: Sch. 17 para. 23 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-63e9d52f0db409a49dd7b9ca814d53cf]: Commencement: Sch. 17 para. 23 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-3e447a854dd1c9a60665b33a6e30040a]: Commencement: Sch. 17 para. 24 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-3e447a854dd1c9a60665b33a6e30040a]: Commencement: Sch. 17 para. 24 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-a2af78a3ee936aa33b10a526d1628d2f]: Commencement: Sch. 17 para. 25 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-a2af78a3ee936aa33b10a526d1628d2f]: Commencement: Sch. 17 para. 25 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-4beca4458fff1a23d1845edeaeee7a5d]: Modification: Sch. 17 para. 25 modified (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377) , [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) , [9](https://www.legislation.gov.uk/ssi/2014/377/article/9)
+[^c-4beca4458fff1a23d1845edeaeee7a5d]: Modification: Sch. 17 para. 25 modified (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377) , [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) , [9](https://www.legislation.gov.uk/ssi/2014/377/article/9)
 
-[^key-0b7435d7db458f38a7d102230381c3cd]: Commencement: Sch. 17 para. 26 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-0b7435d7db458f38a7d102230381c3cd]: Commencement: Sch. 17 para. 26 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-673fe3119e84cfcfa0e698a8e0ceb61b]: Modification: Sch. 17 para. 26 modified (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377) , [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) , [9](https://www.legislation.gov.uk/ssi/2014/377/article/9)
+[^c-673fe3119e84cfcfa0e698a8e0ceb61b]: Modification: Sch. 17 para. 26 modified (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377) , [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) , [9](https://www.legislation.gov.uk/ssi/2014/377/article/9)
 
-[^key-71b5bf37db802f5031c1ff511d03b539]: Commencement: Sch. 17 para. 27 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-71b5bf37db802f5031c1ff511d03b539]: Commencement: Sch. 17 para. 27 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-065936c7dd11df3212f4410515de82f0]: Commencement: Sch. 17 para. 28 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-065936c7dd11df3212f4410515de82f0]: Commencement: Sch. 17 para. 28 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-a1435ebd3c08d7dbe077cfb1fefcd9f8]: Commencement: Sch. 17 para. 29 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-a1435ebd3c08d7dbe077cfb1fefcd9f8]: Commencement: Sch. 17 para. 29 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-aa78b5313e91876c5d8bff25e9ac0a0a]: Commencement: Sch. 17 para. 30 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-aa78b5313e91876c5d8bff25e9ac0a0a]: Commencement: Sch. 17 para. 30 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-5fe9875c30ba09d6c256755a8b13b8c5]: Commencement: Sch. 17 para. 31 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-5fe9875c30ba09d6c256755a8b13b8c5]: Commencement: Sch. 17 para. 31 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-30d3b3097d244b1ec08cccda639ebab6]: Commencement: Sch. 17 para. 32 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-30d3b3097d244b1ec08cccda639ebab6]: Commencement: Sch. 17 para. 32 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-fd6ff44c4a165d9a3c43580467503b2d]: Commencement: Sch. 17 para. 33 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-fd6ff44c4a165d9a3c43580467503b2d]: Commencement: Sch. 17 para. 33 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-6a69881b799ad1b3c1784ffee4437bdf]: Commencement: Sch. 17 para. 34 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-6a69881b799ad1b3c1784ffee4437bdf]: Commencement: Sch. 17 para. 34 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-dd15b630a3fb80960ad91d8b2e6e23e0]: Commencement: Sch. 17 para. 35 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-dd15b630a3fb80960ad91d8b2e6e23e0]: Commencement: Sch. 17 para. 35 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-915ec201bbd8182512e850912ea99a11]: Textual amendment: Word in Sch. 17 para. 35(1) substituted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16) , [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2) , [Sch. 4 para. 9(22)(a)(i)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/22/a/i) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257) ); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278) , [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-915ec201bbd8182512e850912ea99a11]: Textual amendment: Word in Sch. 17 para. 35(1) substituted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16) , [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2) , [Sch. 4 para. 9(22)(a)(i)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/22/a/i) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257) ); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278) , [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-d3a7dedff23d452e8449c8458003474c]: Textual amendment: Sch. 17 para. 35(3A) inserted (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(22)(a)(ii)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/22/a/ii) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-d3a7dedff23d452e8449c8458003474c]: Textual amendment: Sch. 17 para. 35(3A) inserted (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(22)(a)(ii)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/22/a/ii) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-c6fb5085d937fb2b9f4cd4b4890f494b]: Commencement: Sch. 17 para. 36 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-c6fb5085d937fb2b9f4cd4b4890f494b]: Commencement: Sch. 17 para. 36 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-8c967c156d9a5441f4b359e79defb691]: Commencement: Sch. 17 para. 37 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-8c967c156d9a5441f4b359e79defb691]: Commencement: Sch. 17 para. 37 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-9935ffc01fe1d9e79ea7f850ef9be01c]: Commencement: Sch. 17 para. 38 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-9935ffc01fe1d9e79ea7f850ef9be01c]: Commencement: Sch. 17 para. 38 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-5b9818d3e5cec930532d626db86d60e6]: Textual amendment: Word in Sch. 17 para. 38(4) substituted (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(22)(b)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/22/b) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-5b9818d3e5cec930532d626db86d60e6]: Textual amendment: Word in Sch. 17 para. 38(4) substituted (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(22)(b)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/22/b) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-1346f0899f71f11bb1d2d0c143ecf07a]: Commencement: Sch. 17 para. 39 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-1346f0899f71f11bb1d2d0c143ecf07a]: Commencement: Sch. 17 para. 39 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-fa639e4653883e8552396af2ebc12406]: Commencement: Sch. 17 para. 40 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-fa639e4653883e8552396af2ebc12406]: Commencement: Sch. 17 para. 40 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-8ba88f0862f2377f40ec389aea4fafb6]: Commencement: Sch. 17 para. 41 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-8ba88f0862f2377f40ec389aea4fafb6]: Commencement: Sch. 17 para. 41 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-76c81520565c56b84a3f99b10dfec160]: Commencement: Sch. 17 para. 42 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-76c81520565c56b84a3f99b10dfec160]: Commencement: Sch. 17 para. 42 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-9f835900181e15d561f07a4456e6a02a]: Commencement: Sch. 17 para. 43 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-9f835900181e15d561f07a4456e6a02a]: Commencement: Sch. 17 para. 43 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-0631269c06feace6f1b1d4e5172d1c23]: Commencement: Sch. 17 para. 44 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-0631269c06feace6f1b1d4e5172d1c23]: Commencement: Sch. 17 para. 44 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-51b9b7b9b95f2bbe3dc0e491c5f6dd65]: Commencement: Sch. 17 para. 45 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-51b9b7b9b95f2bbe3dc0e491c5f6dd65]: Commencement: Sch. 17 para. 45 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-bc64b8af04abd551c809e17b9653ee02]: Commencement: Sch. 17 para. 46 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-bc64b8af04abd551c809e17b9653ee02]: Commencement: Sch. 17 para. 46 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-90e8b3aafe6c841af5387e52bc302eab]: Commencement: Sch. 17 para. 47 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-90e8b3aafe6c841af5387e52bc302eab]: Commencement: Sch. 17 para. 47 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-0869904b2dff991181a6e360a0ecd129]: Commencement: Sch. 17 para. 48 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-0869904b2dff991181a6e360a0ecd129]: Commencement: Sch. 17 para. 48 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-b6479e726e910b7877e8e649b79ec290]: Commencement: Sch. 17 para. 49 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-b6479e726e910b7877e8e649b79ec290]: Commencement: Sch. 17 para. 49 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-543fdbe21c632b7ecfe7a0a4d97e6b88]: Commencement: Sch. 17 para. 50 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-543fdbe21c632b7ecfe7a0a4d97e6b88]: Commencement: Sch. 17 para. 50 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

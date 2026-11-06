@@ -64,7 +64,7 @@ and if notice under paragraph (b) is given, the management scheme shall have eff
 
 as they apply in relation to a proposal for a management scheme.
 
-(13)[^key-7efcd4413b8cdbdaf31ce851d35eab45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-7efcd4413b8cdbdaf31ce851d35eab45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -74,4 +74,4 @@ as they apply in relation to a proposal for a management scheme.
 
 [^c19494221]: Textual amendment: Words in s. 28J substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 79](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/79); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
-[^key-7efcd4413b8cdbdaf31ce851d35eab45]: Textual amendment: S. 28J(13) omitted (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/3/3)
+[^c-7efcd4413b8cdbdaf31ce851d35eab45]: Textual amendment: S. 28J(13) omitted (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/3/3)

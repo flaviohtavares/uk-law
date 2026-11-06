@@ -26,31 +26,31 @@ summary: ''
 
 1993 No. 2752
 
-PUBLIC PASSENGER TRANSPORT *(Extent: S)* *(affected by repeal, see note)*[^key-25731b938819f3708871402278cbfe42]
+PUBLIC PASSENGER TRANSPORT *(Extent: S)* *(affected by repeal, see note)*[^c-25731b938819f3708871402278cbfe42]
 
-The Public Service Vehicles (Registration of Local Services) (Amendment) Regulations 1993 *(Extent: S)* *(affected by repeal, see note)*[^key-25731b938819f3708871402278cbfe42]
+The Public Service Vehicles (Registration of Local Services) (Amendment) Regulations 1993 *(Extent: S)* *(affected by repeal, see note)*[^c-25731b938819f3708871402278cbfe42]
 
-Made *(Extent: S)* *(affected by repeal, see note)*[^key-25731b938819f3708871402278cbfe42]
+Made *(Extent: S)* *(affected by repeal, see note)*[^c-25731b938819f3708871402278cbfe42]
 
-5th November 1993 *(Extent: S)* *(affected by repeal, see note)*[^key-25731b938819f3708871402278cbfe42]
+5th November 1993 *(Extent: S)* *(affected by repeal, see note)*[^c-25731b938819f3708871402278cbfe42]
 
-Laid before Parliament *(Extent: S)* *(affected by repeal, see note)*[^key-25731b938819f3708871402278cbfe42]
+Laid before Parliament *(Extent: S)* *(affected by repeal, see note)*[^c-25731b938819f3708871402278cbfe42]
 
-8th November 1993 *(Extent: S)* *(affected by repeal, see note)*[^key-25731b938819f3708871402278cbfe42]
+8th November 1993 *(Extent: S)* *(affected by repeal, see note)*[^c-25731b938819f3708871402278cbfe42]
 
-Coming into force *(Extent: S)* *(affected by repeal, see note)*[^key-25731b938819f3708871402278cbfe42]
+Coming into force *(Extent: S)* *(affected by repeal, see note)*[^c-25731b938819f3708871402278cbfe42]
 
-1st December 1993 *(Extent: S)* *(affected by repeal, see note)*[^key-25731b938819f3708871402278cbfe42]
+1st December 1993 *(Extent: S)* *(affected by repeal, see note)*[^c-25731b938819f3708871402278cbfe42]
 
-The Secretary of State for Transport, in exercise of the powers conferred by sections 52(1) and 60(1)(e) and (1A) of the Public Passenger Vehicles Act 1981 (“the *(Extent: S)* *(affected by repeal, see note)*[^key-25731b938819f3708871402278cbfe42] 1981 Act *(Extent: S)* *(affected by repeal, see note)*[^key-25731b938819f3708871402278cbfe42]”) *(Extent: S)* *(affected by repeal, see note)*[^key-25731b938819f3708871402278cbfe42][^f00001], and of all other powers enabling him in that behalf, and after consultation with representative organisations in accordance with section 61(2) of the *(Extent: S)* *(affected by repeal, see note)*[^key-25731b938819f3708871402278cbfe42] 1981 Act *(Extent: S)* *(affected by repeal, see note)*[^key-25731b938819f3708871402278cbfe42] [^f00002], hereby makes the following Regulations: *(Extent: S)* *(affected by repeal, see note)*[^key-25731b938819f3708871402278cbfe42]
+The Secretary of State for Transport, in exercise of the powers conferred by sections 52(1) and 60(1)(e) and (1A) of the Public Passenger Vehicles Act 1981 (“the *(Extent: S)* *(affected by repeal, see note)*[^c-25731b938819f3708871402278cbfe42] 1981 Act *(Extent: S)* *(affected by repeal, see note)*[^c-25731b938819f3708871402278cbfe42]”) *(Extent: S)* *(affected by repeal, see note)*[^c-25731b938819f3708871402278cbfe42][^f00001], and of all other powers enabling him in that behalf, and after consultation with representative organisations in accordance with section 61(2) of the *(Extent: S)* *(affected by repeal, see note)*[^c-25731b938819f3708871402278cbfe42] 1981 Act *(Extent: S)* *(affected by repeal, see note)*[^c-25731b938819f3708871402278cbfe42] [^f00002], hereby makes the following Regulations: *(Extent: S)* *(affected by repeal, see note)*[^c-25731b938819f3708871402278cbfe42]
 
-**1 (Extent: S) (affected by repeal, see note).**[^key-2b67d294c3ff1c35710b10c569730f81][^key-25731b938819f3708871402278cbfe42] These Regulations may be cited as the Public Service Vehicles (Registration of Local Services) (Amendment) Regulations 1993 and shall come into force on 1st December 1993. *(Extent: S)* *(affected by repeal, see note)*[^key-25731b938819f3708871402278cbfe42]
+**1 (Extent: S) (affected by repeal, see note).**[^c-2b67d294c3ff1c35710b10c569730f81][^c-25731b938819f3708871402278cbfe42] These Regulations may be cited as the Public Service Vehicles (Registration of Local Services) (Amendment) Regulations 1993 and shall come into force on 1st December 1993. *(Extent: S)* *(affected by repeal, see note)*[^c-25731b938819f3708871402278cbfe42]
 
-**2 (Extent: S) (affected by repeal, see note).**[^key-9c73255b461b8ace5d573c924e96819f][^key-25731b938819f3708871402278cbfe42] The Public Service Vehicles (Registration of Local Services) Regulations 1986 *(Extent: S)* *(affected by repeal, see note)*[^key-25731b938819f3708871402278cbfe42][^f00003] shall be further amended in accordance with the following provisions of these Regulations. *(Extent: S)* *(affected by repeal, see note)*[^key-25731b938819f3708871402278cbfe42]
+**2 (Extent: S) (affected by repeal, see note).**[^c-9c73255b461b8ace5d573c924e96819f][^c-25731b938819f3708871402278cbfe42] The Public Service Vehicles (Registration of Local Services) Regulations 1986 *(Extent: S)* *(affected by repeal, see note)*[^c-25731b938819f3708871402278cbfe42][^f00003] shall be further amended in accordance with the following provisions of these Regulations. *(Extent: S)* *(affected by repeal, see note)*[^c-25731b938819f3708871402278cbfe42]
 
-**3 (Extent: S) (affected by repeal, see note).**[^key-99be28b982d719ac36f9998597245a07][^key-25731b938819f3708871402278cbfe42] In the regulations specified in column 1 of the Table below for the amounts specified in column 2 there shall be substituted the amounts specified in column 3 of the Table. *(Extent: S)* *(affected by repeal, see note)*[^key-25731b938819f3708871402278cbfe42]
+**3 (Extent: S) (affected by repeal, see note).**[^c-99be28b982d719ac36f9998597245a07][^c-25731b938819f3708871402278cbfe42] In the regulations specified in column 1 of the Table below for the amounts specified in column 2 there shall be substituted the amounts specified in column 3 of the Table. *(Extent: S)* *(affected by repeal, see note)*[^c-25731b938819f3708871402278cbfe42]
 
-**TABLE *(Extent: S)* *(affected by repeal, see note)*[^key-25731b938819f3708871402278cbfe42]**
+**TABLE *(Extent: S)* *(affected by repeal, see note)*[^c-25731b938819f3708871402278cbfe42]**
 
 <table>
 <thead>
@@ -63,7 +63,7 @@ The Secretary of State for Transport, in exercise of the powers conferred by sec
 </tbody>
 </table>
 
-[^key-25731b938819f3708871402278cbfe42][^key-25731b938819f3708871402278cbfe42][^key-25731b938819f3708871402278cbfe42][^key-25731b938819f3708871402278cbfe42][^key-25731b938819f3708871402278cbfe42][^key-25731b938819f3708871402278cbfe42][^key-25731b938819f3708871402278cbfe42][^key-25731b938819f3708871402278cbfe42][^key-25731b938819f3708871402278cbfe42][^key-25731b938819f3708871402278cbfe42][^key-25731b938819f3708871402278cbfe42][^key-25731b938819f3708871402278cbfe42]
+[^c-25731b938819f3708871402278cbfe42][^c-25731b938819f3708871402278cbfe42][^c-25731b938819f3708871402278cbfe42][^c-25731b938819f3708871402278cbfe42][^c-25731b938819f3708871402278cbfe42][^c-25731b938819f3708871402278cbfe42][^c-25731b938819f3708871402278cbfe42][^c-25731b938819f3708871402278cbfe42][^c-25731b938819f3708871402278cbfe42][^c-25731b938819f3708871402278cbfe42][^c-25731b938819f3708871402278cbfe42][^c-25731b938819f3708871402278cbfe42]
 
 Signed by authority of the Secretary of State for Transport
 
@@ -89,16 +89,16 @@ These fees were last increased in 1988.
 
 ## Annotations
 
-[^key-25731b938819f3708871402278cbfe42]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1993/2752) revoked (S.) (1.7.2001) by [The Public Service Vehicles (Registration of Local Services) (Scotland) Regulations 2001 (S.S.I. 2001/219)](https://www.legislation.gov.uk/ssi/2001/219), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2001/219/regulation/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2001/219/schedule/2) (with [reg. 3(2)](https://www.legislation.gov.uk/ssi/2001/219/regulation/3/2))
+[^c-25731b938819f3708871402278cbfe42]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1993/2752) revoked (S.) (1.7.2001) by [The Public Service Vehicles (Registration of Local Services) (Scotland) Regulations 2001 (S.S.I. 2001/219)](https://www.legislation.gov.uk/ssi/2001/219), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2001/219/regulation/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2001/219/schedule/2) (with [reg. 3(2)](https://www.legislation.gov.uk/ssi/2001/219/regulation/3/2))
 
 [^f00001]: Footnote: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14); section 52(1) was applied and amended by section 126(1) of, and by paragraph 7 of Schedule 1, paragraph 4(14) of Part II of Schedule 2 and Schedule 8 to, the Transport Act [1985 (c. 67)](https://www.legislation.gov.uk/ukpga/1985/67) (“the 1985 Act”); section 60 has effect as if Parts I and II of the 1985 Act were contained in the 1981 Act by virtue of section 134(1) of the 1985 Act; section 60(1) was amended by section 134(2)(a) of, and by paragraph 4(18) of Part II of Schedule 2, paragraph 21(9) of Schedule 7 and Schedule 8 to, the 1985 Act; section 60(1A) was inserted by section 134(2)(b) of the 1985 Act.“Prescribed” is defined in section 82(1) of the 1981 Act.
 
 [^f00002]: Footnote: Section 61(2) was amended by section 135(1) of and Schedule 8 to the Transport Act [1985 (c. 67)](https://www.legislation.gov.uk/ukpga/1985/67) (“the 1985 Act”); section 61 has effect as if Parts I and II of the 1985 Act were contained in the 1981 Act by virtue of section 135(1) of the 1985 Act.
 
-[^key-2b67d294c3ff1c35710b10c569730f81]: Commencement: Reg. 1 in force at 1.12.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/2752/regulation/1)
+[^c-2b67d294c3ff1c35710b10c569730f81]: Commencement: Reg. 1 in force at 1.12.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/2752/regulation/1)
 
-[^key-9c73255b461b8ace5d573c924e96819f]: Commencement: Reg. 2 in force at 1.12.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/2752/regulation/1)
+[^c-9c73255b461b8ace5d573c924e96819f]: Commencement: Reg. 2 in force at 1.12.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/2752/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1986/1671](https://www.legislation.gov.uk/uksi/1986/1671); relevant amending instruments are [S.I. 1988/1879](https://www.legislation.gov.uk/uksi/1988/1879) and [1989/1064](https://www.legislation.gov.uk/uksi/1989/1064).
 
-[^key-99be28b982d719ac36f9998597245a07]: Commencement: Reg. 3 in force at 1.12.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/2752/regulation/1)
+[^c-99be28b982d719ac36f9998597245a07]: Commencement: Reg. 3 in force at 1.12.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/2752/regulation/1)

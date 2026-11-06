@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Additional provision as to implied covenants[^key-4fda2034d1927b85be57630dd3cf4e67]
+## 68. Additional provision as to implied covenants[^c-4fda2034d1927b85be57630dd3cf4e67]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A document effecting a registrable disposition of leasehold land which limits or
 
 ## Annotations
 
-[^key-4fda2034d1927b85be57630dd3cf4e67]: Textual amendment: Rule 68 substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/19) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-4fda2034d1927b85be57630dd3cf4e67]: Textual amendment: Rule 68 substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/19) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

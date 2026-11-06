@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Implied payment terms in public contracts[^key-83b4dadff51b22fd82940b9034966dbf][^key-1efa94c97de70ce603b60ac3790876db]
+## 68. Implied payment terms in public contracts[^c-83b4dadff51b22fd82940b9034966dbf][^c-1efa94c97de70ce603b60ac3790876db]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,6 +69,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83b4dadff51b22fd82940b9034966dbf]: Commencement: S. 68 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-83b4dadff51b22fd82940b9034966dbf]: Commencement: S. 68 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-1efa94c97de70ce603b60ac3790876db]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2023/54/section/68) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-1efa94c97de70ce603b60ac3790876db]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2023/54/section/68) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

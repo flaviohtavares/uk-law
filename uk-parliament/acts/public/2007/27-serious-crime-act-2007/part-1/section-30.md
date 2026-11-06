@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Bodies corporate including limited liability partnerships[^key-388900237ebb437eae44b6cd7b580e05]
+## 30. Bodies corporate including limited liability partnerships[^c-388900237ebb437eae44b6cd7b580e05]
 
 *Extent: E+W+N.I.*
 
@@ -44,4 +44,4 @@ he (as well as the body corporate) is guilty of the offence and liable to be pro
 
 ## Annotations
 
-[^key-388900237ebb437eae44b6cd7b580e05]: Commencement: S. 30 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/f)
+[^c-388900237ebb437eae44b6cd7b580e05]: Commencement: S. 30 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/f)

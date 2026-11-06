@@ -34,7 +34,7 @@ Children And Young Persons, England
 
 Education, England
 
-[^key-6e293e5cbca83103ea9104dfccb01cc9]The School and Early Years Finance and Childcare (Provision of Information About Young Children) (Amendment) (England) Regulations 2024
+[^c-6e293e5cbca83103ea9104dfccb01cc9]The School and Early Years Finance and Childcare (Provision of Information About Young Children) (Amendment) (England) Regulations 2024
 
 Made
 
@@ -50,7 +50,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 ## Contents
 
-### PART 1 — Introduction[^key-6e293e5cbca83103ea9104dfccb01cc9]
+### PART 1 — Introduction[^c-6e293e5cbca83103ea9104dfccb01cc9]
 
 *Extent: E+W*
 
@@ -60,13 +60,13 @@ The Secretary of State for Education makes the following Regulations in exercise
 - [Section 2 — Revocation](part-1/section-2.md)
 - [Section 3 — Amendments](part-1/section-3.md)
 
-### PART 2 — Action to be taken by a local authority[^key-6e293e5cbca83103ea9104dfccb01cc9]
+### PART 2 — Action to be taken by a local authority[^c-6e293e5cbca83103ea9104dfccb01cc9]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Determination of the non-schools education budget, schools budget, individual schools budget, and budget shares[^key-6e293e5cbca83103ea9104dfccb01cc9]
+#### CHAPTER 1 — Determination of the non-schools education budget, schools budget, individual schools budget, and budget shares[^c-6e293e5cbca83103ea9104dfccb01cc9]
 
 *Extent: E+W*
 
@@ -81,7 +81,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 - [Section 10 — Formulae for determination of budget shares etc. for certain maintained schools and early years providers](part-2/section-10.md)
 - [Section 11 — Determination of allocation of budget shares etc. for the funding period](part-2/section-11.md)
 
-#### CHAPTER 2 — Further deductions and variations to limits authorised by schools forums or the Secretary of State[^key-6e293e5cbca83103ea9104dfccb01cc9]
+#### CHAPTER 2 — Further deductions and variations to limits authorised by schools forums or the Secretary of State[^c-6e293e5cbca83103ea9104dfccb01cc9]
 
 *Extent: E+W*
 
@@ -89,13 +89,13 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 - [Section 12 — Applications to the schools forum and the Secretary of State](part-2/section-12.md)
 
-### PART 3 — Determination of budget shares etc.[^key-6e293e5cbca83103ea9104dfccb01cc9]
+### PART 3 — Determination of budget shares etc.[^c-6e293e5cbca83103ea9104dfccb01cc9]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Requirements, and factors and criteria taken into account – schools other than early years provision[^key-6e293e5cbca83103ea9104dfccb01cc9]
+#### CHAPTER 1 — Requirements, and factors and criteria taken into account – schools other than early years provision[^c-6e293e5cbca83103ea9104dfccb01cc9]
 
 *Extent: E+W*
 
@@ -120,7 +120,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 - [Section 29 — New schools, merged schools and closing schools](part-3/section-29.md)
 - [Section 30 — Federated schools](part-3/section-30.md)
 
-#### CHAPTER 2 — Criteria taken into account – early years provision[^key-6e293e5cbca83103ea9104dfccb01cc9]
+#### CHAPTER 2 — Criteria taken into account – early years provision[^c-6e293e5cbca83103ea9104dfccb01cc9]
 
 *Extent: E+W*
 
@@ -135,7 +135,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 - [Section 37 — 12% early years discretionary funding cap](part-3/section-37.md)
 - [Section 38 — Additional criteria and disadvantaged two year olds requirement: early years](part-3/section-38.md)
 
-#### CHAPTER 3 — Adjustments, correction of errors, and alternative arrangements authorised by the Secretary of State[^key-6e293e5cbca83103ea9104dfccb01cc9]
+#### CHAPTER 3 — Adjustments, correction of errors, and alternative arrangements authorised by the Secretary of State[^c-6e293e5cbca83103ea9104dfccb01cc9]
 
 *Extent: E+W*
 
@@ -145,7 +145,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 - [Section 40 — Correction of errors and changes in non-domestic rates](part-3/section-40.md)
 - [Section 41 — Alternative arrangements approved by the Secretary of State](part-3/section-41.md)
 
-### PART 4 — Schemes[^key-6e293e5cbca83103ea9104dfccb01cc9]
+### PART 4 — Schemes[^c-6e293e5cbca83103ea9104dfccb01cc9]
 
 *Extent: E+W*
 
@@ -196,4 +196,4 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 ## Annotations
 
-[^key-6e293e5cbca83103ea9104dfccb01cc9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/66) revoked (except for reg. 45) (1.4.2026) by [The School and Early Years Finance (England) Regulations 2026 (S.I. 2026/37)](https://www.legislation.gov.uk/uksi/2026/37), [reg. 2](https://www.legislation.gov.uk/uksi/2026/37/regulation/2)
+[^c-6e293e5cbca83103ea9104dfccb01cc9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/66) revoked (except for reg. 45) (1.4.2026) by [The School and Early Years Finance (England) Regulations 2026 (S.I. 2026/37)](https://www.legislation.gov.uk/uksi/2026/37), [reg. 2](https://www.legislation.gov.uk/uksi/2026/37/regulation/2)

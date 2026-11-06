@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76A. Power to direct change of name used for criminal purposes[^key-e3e3865c9b25b32b7348d2a2f9545ec0][^key-92c9fe7e6b70b40a63aab9e93a9588df]
+## 76A. Power to direct change of name used for criminal purposes[^c-e3e3865c9b25b32b7348d2a2f9545ec0][^c-92c9fe7e6b70b40a63aab9e93a9588df]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ For this purpose a shadow director is treated as an officer of the company.
 
 ## Annotations
 
-[^key-e3e3865c9b25b32b7348d2a2f9545ec0]: Modification: [S. 76A](https://www.legislation.gov.uk/ukpga/2006/46/section/76A) applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 13A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/13A) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2024/234/regulation/12); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
+[^c-e3e3865c9b25b32b7348d2a2f9545ec0]: Modification: [S. 76A](https://www.legislation.gov.uk/ukpga/2006/46/section/76A) applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 13A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/13A) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2024/234/regulation/12); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
 
-[^key-92c9fe7e6b70b40a63aab9e93a9588df]: Textual amendment: [S. 76A](https://www.legislation.gov.uk/ukpga/2006/46/section/76A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/17/4), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/m)
+[^c-92c9fe7e6b70b40a63aab9e93a9588df]: Textual amendment: [S. 76A](https://www.legislation.gov.uk/ukpga/2006/46/section/76A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/17/4), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/m)

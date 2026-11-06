@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## D3. Past period for which additional contributions have been paid[^key-56ec1e01f1d8abdd8398d924d78aee2e]
+## D3. Past period for which additional contributions have been paid[^c-56ec1e01f1d8abdd8398d924d78aee2e]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ is entitled to count as reckonable service a period calculated in accordance wit
 
 ## Annotations
 
-[^key-56ec1e01f1d8abdd8398d924d78aee2e]: Commencement: Reg. D3 in operation at 2.11.1998, see reg. A1
+[^c-56ec1e01f1d8abdd8398d924d78aee2e]: Commencement: Reg. D3 in operation at 2.11.1998, see reg. A1

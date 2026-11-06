@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. Cases in which Revenue Scotland need not give effect to a claim[^key-c346ae8f0989239b016ecf17a76fa9bd]
+## 113. Cases in which Revenue Scotland need not give effect to a claim[^c-c346ae8f0989239b016ecf17a76fa9bd]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c346ae8f0989239b016ecf17a76fa9bd]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2014/16/section/113) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-c346ae8f0989239b016ecf17a76fa9bd]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2014/16/section/113) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

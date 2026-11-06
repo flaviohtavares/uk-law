@@ -31,8 +31,8 @@ summary: ''
 - (c) removing conditions; and
 - (d) adding new conditions.
 
-(4)[^key-756cd471e6bb5667a4b77293f6af0e42] SEPA may include such conditions as it thinks fit in any standard conditions.
+(4)[^c-756cd471e6bb5667a4b77293f6af0e42] SEPA may include such conditions as it thinks fit in any standard conditions.
 
 ## Annotations
 
-[^key-756cd471e6bb5667a4b77293f6af0e42]: Textual amendment: [Reg. 33(4)](https://www.legislation.gov.uk/ssi/2018/219/regulation/33/4) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [18](https://www.legislation.gov.uk/ssi/2025/165/regulation/18) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-756cd471e6bb5667a4b77293f6af0e42]: Textual amendment: [Reg. 33(4)](https://www.legislation.gov.uk/ssi/2018/219/regulation/33/4) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [18](https://www.legislation.gov.uk/ssi/2025/165/regulation/18) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

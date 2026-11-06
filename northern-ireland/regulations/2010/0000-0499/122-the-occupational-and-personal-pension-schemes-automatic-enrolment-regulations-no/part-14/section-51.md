@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Revocations[^key-137b242a11761d82a1cc072b4d229ff9]
+## 51. Revocations[^c-137b242a11761d82a1cc072b4d229ff9]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ Paragraph 16(4) of the Schedule to the Personal and Occupational Pension Schemes
 
 ## Annotations
 
-[^key-137b242a11761d82a1cc072b4d229ff9]: Commencement: [Reg. 51](https://www.legislation.gov.uk/nisr/2010/122/regulation/51) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
+[^c-137b242a11761d82a1cc072b4d229ff9]: Commencement: [Reg. 51](https://www.legislation.gov.uk/nisr/2010/122/regulation/51) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
 
 [^f00024]: Footnote: [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 

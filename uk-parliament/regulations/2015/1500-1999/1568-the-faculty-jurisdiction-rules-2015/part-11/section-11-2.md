@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 11.2. Matters on which directions may be given[^key-ced8b6f390ac33bebc8c6b8e8f3bc37e]
+## 11.2. Matters on which directions may be given[^c-ced8b6f390ac33bebc8c6b8e8f3bc37e]
 
 *Extent: E*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ced8b6f390ac33bebc8c6b8e8f3bc37e]: Commencement: [Rule 11.2](https://www.legislation.gov.uk/uksi/2015/1568/article/11.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-ced8b6f390ac33bebc8c6b8e8f3bc37e]: Commencement: [Rule 11.2](https://www.legislation.gov.uk/uksi/2015/1568/article/11.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

@@ -31,10 +31,10 @@ summary: ''
 
 of 19 December 1994 establishing specific common programmes for the vocational training of customs officials, with regard to preferential systems, the control of containers, processing under customs control, and warehouse regimes (Matthaeus programme) (revoked)
 
-[^key-9365256195e91902956f7b8d1e17fea0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9365256195e91902956f7b8d1e17fea0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-9365256195e91902956f7b8d1e17fea0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-9365256195e91902956f7b8d1e17fea0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9365256195e91902956f7b8d1e17fea0]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9365256195e91902956f7b8d1e17fea0]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

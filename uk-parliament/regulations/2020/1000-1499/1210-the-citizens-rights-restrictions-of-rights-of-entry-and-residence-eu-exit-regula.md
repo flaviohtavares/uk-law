@@ -44,13 +44,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 These are the first regulations to be made under section 9 of that Act. In accordance with paragraph 1(1) of Schedule 4 to that Act, a draft of these Regulations was laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and interpretation[^key-93afeb256373b2e7818cb64e6be0db29]
+## 1. Citation, commencement and interpretation[^c-93afeb256373b2e7818cb64e6be0db29]
 
 (1) These Regulations may be cited as the Citizens’ Rights (Restrictions of Rights of Entry and Residence) (EU Exit) Regulations 2020 and come into force when the EEA Regulations 2016 are revoked.
 
 (2) In these Regulations “the EEA Regulations 2016” means the Immigration (European Economic Area) Regulations 2016[^f00002].
 
-## 2. Continued application of the EEA Regulations 2016[^key-2abc9fc129278e385d7757d7774bbdd1]
+## 2. Continued application of the EEA Regulations 2016[^c-2abc9fc129278e385d7757d7774bbdd1]
 
 (1) Notwithstanding the revocation of the EEA Regulations 2016, the provisions of the EEA Regulations 2016 specified in the Schedule continue to have effect, but with the modifications set out in the Schedule, for the purpose of removing a person who is protected by the citizens’ rights provisions.
 
@@ -68,7 +68,7 @@ These are the first regulations to be made under section 9 of that Act. In accor
 
 (3) For the purposes of these Regulations, a person is also protected by the citizens’ rights provisions if that person was protected by the citizens’ rights provisions at the time that they became subject to a decision to remove them under regulation 23(6)(b) of the EEA Regulations 2016, including as those Regulations continue to have effect by virtue of these Regulations.
 
-## 3. Amendment of the Immigration Act 1971[^key-4241a6c8bddd47d25921903901f253cb]
+## 3. Amendment of the Immigration Act 1971[^c-4241a6c8bddd47d25921903901f253cb]
 
 (1) The Immigration Act 1971 is amended as follows.
 
@@ -78,7 +78,7 @@ These are the first regulations to be made under section 9 of that Act. In accor
 
 .
 
-## 4. Amendment of the UK Borders Act 2007[^key-b5aa46e078d22cd6899cd2740f383e20]
+## 4. Amendment of the UK Borders Act 2007[^c-b5aa46e078d22cd6899cd2740f383e20]
 
 (1) The UK Borders Act 2007[^f00010] is amended as follows.
 
@@ -98,11 +98,11 @@ Home Office
 
 Regulation 2(1)
 
-### 1. Introductory[^key-fce387053c916779179c050f8b6f0e04]
+### 1. Introductory[^c-fce387053c916779179c050f8b6f0e04]
 
 Unless otherwise specified, references within this Schedule to regulations or to Schedules are references to regulations within, or Schedules to, the EEA Regulations 2016.
 
-### 2. Savings and modifications to definitions[^key-217633151c5809adad5460b18b9e859d]
+### 2. Savings and modifications to definitions[^c-217633151c5809adad5460b18b9e859d]
 
 Regulation 2 (general interpretation) continues to have effect with the following modifications to paragraph (1)—
 
@@ -125,7 +125,7 @@ Regulation 2 (general interpretation) continues to have effect with the followin
 
   .
 
-### 3. Savings and modifications to Part 4[^key-b46633df591375725ee060b37c0ac70f]
+### 3. Savings and modifications to Part 4[^c-b46633df591375725ee060b37c0ac70f]
 
 Regulation 23 (exclusion and removal from the United Kingdom) continues to have effect with the following modifications—
 
@@ -138,9 +138,9 @@ Regulation 23 (exclusion and removal from the United Kingdom) continues to have 
   - (ii) omit sub-paragraph (b);
 - (d) omit paragraph (9).
 
-**4.**[^M_I_967b25e1-06e9-4c23-d135-d70f5fc77729] Regulation 27 (decisions taken on grounds of public policy, public security and public health) continues to have effect with the modification that in paragraph (3) and paragraph (4)(a), for “a right of permanent residence under regulation 15” substitute “ , or who is eligible for, indefinite leave[^key-2f86fca8576bc815d4b264d2415a2b30] to enter or remain in the United Kingdom granted under residence scheme immigration rules (as defined in section 17 of the European Union (Withdrawal Agreement) Act 2020)”.
+**4.**[^M_I_967b25e1-06e9-4c23-d135-d70f5fc77729] Regulation 27 (decisions taken on grounds of public policy, public security and public health) continues to have effect with the modification that in paragraph (3) and paragraph (4)(a), for “a right of permanent residence under regulation 15” substitute “ , or who is eligible for, indefinite leave[^c-2f86fca8576bc815d4b264d2415a2b30] to enter or remain in the United Kingdom granted under residence scheme immigration rules (as defined in section 17 of the European Union (Withdrawal Agreement) Act 2020)”.
 
-### 5. Savings and modifications to Part 5[^key-536da893b4f864acb758420a9863a732]
+### 5. Savings and modifications to Part 5[^c-536da893b4f864acb758420a9863a732]
 
 Regulation 32 (person subject to removal) continues to have effect with the following modifications—
 
@@ -151,16 +151,16 @@ Regulation 32 (person subject to removal) continues to have effect with the foll
 
 **6.**[^M_I_b476292d-d735-4ba3-ffc6-1257cfde4257] Regulation 33 (human rights considerations and interim orders to suspend removal) continues to have effect.
 
-**7.**[^key-bdb155179c388ea7d860bd045ea6cfe2] Regulation 34 (revocation of deportation and exclusion orders) continues to have effect with the following modifications—
+**7.**[^c-bdb155179c388ea7d860bd045ea6cfe2] Regulation 34 (revocation of deportation and exclusion orders) continues to have effect with the following modifications—
 
 - (a) omit paragraph (1);
 - (b) in paragraph (3), omit “or exclusion”.
 
-### 8. Savings and modifications to Part 6[^key-8796151c344ce3bd2eda63a9cdab306b]
+### 8. Savings and modifications to Part 6[^c-8796151c344ce3bd2eda63a9cdab306b]
 
 Regulation 35 (interpretation of Part 6) continues to have effect.
 
-**9.**[^key-eb056b5af1ba6c388e0d8648db43c914] Regulation 36 (appeal rights) continues to have effect with the following modifications—
+**9.**[^c-eb056b5af1ba6c388e0d8648db43c914] Regulation 36 (appeal rights) continues to have effect with the following modifications—
 
 - (a) in paragraph (2)—
   - (i) for “to be an EEA national” substitute “to be a person protected by the citizens’ rights provisions”;
@@ -175,18 +175,18 @@ Regulation 35 (interpretation of Part 6) continues to have effect.
   - (iii) in sub-paragraph (g), omit “or exclusion” and “, or in circumstances where that person was not entitled to be admitted pursuant to regulation 23(1), (2), (3) or (4)”;
 - (b) omit paragraph (2).
 
-**11.**[^key-71ff92f07ede7bd4f69363c6caab466c] Regulation 38 (appeals to the Commission) continues to have effect with the modification that in paragraph (3), omit “exclusion or”.
+**11.**[^c-71ff92f07ede7bd4f69363c6caab466c] Regulation 38 (appeals to the Commission) continues to have effect with the modification that in paragraph (3), omit “exclusion or”.
 
-**12.**[^key-d0d0c2a1343318f536c078e06bcb3531] Regulation 39 (national security: EEA decisions) continues to have effect.
+**12.**[^c-d0d0c2a1343318f536c078e06bcb3531] Regulation 39 (national security: EEA decisions) continues to have effect.
 
-**13.**[^key-24ff5d9907932f519e31167bc34907f1] Regulation 40 (effect of appeals to the First-tier Tribunal or Upper Tribunal) continues to have effect with the following modifications—
+**13.**[^c-24ff5d9907932f519e31167bc34907f1] Regulation 40 (effect of appeals to the First-tier Tribunal or Upper Tribunal) continues to have effect with the following modifications—
 
 - (a) omit paragraphs (2), (3) and (6);
 - (b) in paragraph (4), omit “a refusal of admission, a decision to revoke admission, or”.
 
-**14.**[^key-090fcb5168ca30104e0a3b2988b8ed34] Regulation 41 (temporary admission to submit case in person) continues to have effect.
+**14.**[^c-090fcb5168ca30104e0a3b2988b8ed34] Regulation 41 (temporary admission to submit case in person) continues to have effect.
 
-### 15. Savings and modifications to the Schedules[^key-1a5282f0abf2c404ec6f8793baea3a89]
+### 15. Savings and modifications to the Schedules[^c-1a5282f0abf2c404ec6f8793baea3a89]
 
 Schedule 1 (considerations of public policy, public security and the fundamental interests of society etc.) continues to have effect with the following modifications—
 
@@ -220,11 +220,11 @@ An impact assessment has not been produced for these Regulations as no impact on
 
 [^f00001]: Footnote: [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1). See also paragraph 17 of Schedule 4 to that Act which provides for a combination of instruments which would otherwise be subject to different Parliamentary procedures.
 
-[^key-93afeb256373b2e7818cb64e6be0db29]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
+[^c-93afeb256373b2e7818cb64e6be0db29]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2016/1052](https://www.legislation.gov.uk/uksi/2016/1052); amended by [S.I. 2017/1](https://www.legislation.gov.uk/uksi/2017/1), [2017/1242](https://www.legislation.gov.uk/uksi/2017/1242), [2018/801](https://www.legislation.gov.uk/uksi/2018/801), [2019/468](https://www.legislation.gov.uk/uksi/2019/468), [2019/745](https://www.legislation.gov.uk/uksi/2019/745) and [2019/1155](https://www.legislation.gov.uk/uksi/2019/1155). The amendments made by [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745) are not yet in force.
 
-[^key-2abc9fc129278e385d7757d7774bbdd1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1210/regulation/2) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
+[^c-2abc9fc129278e385d7757d7774bbdd1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1210/regulation/2) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
 
 [^f00003]: Footnote: “Residence scheme immigration rules” is defined at section 17(1) of the European Union (Withdrawal Agreement) Act 2020.
 
@@ -238,47 +238,47 @@ An impact assessment has not been produced for these Regulations as no impact on
 
 [^f00008]: Footnote: The “EEA EFTA separation agreement” is defined at section 39(1) of the European Union (Withdrawal Agreement) Act 2020.
 
-[^key-4241a6c8bddd47d25921903901f253cb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1210/regulation/3) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
+[^c-4241a6c8bddd47d25921903901f253cb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1210/regulation/3) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
 
 [^f00009]: Footnote: Subsection (10) was inserted by section 10 of the European Union (Withdrawal Agreement) Act 2020.
 
-[^key-b5aa46e078d22cd6899cd2740f383e20]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1210/regulation/4) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
+[^c-b5aa46e078d22cd6899cd2740f383e20]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1210/regulation/4) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
 
 [^f00010]: Footnote: [2007 c. 30](https://www.legislation.gov.uk/ukpga/2007/30).
 
 [^f00011]: Footnote: Subsection (6C) was inserted by section 10 of the European Union (Withdrawal Agreement) Act 2020.
 
-[^key-fce387053c916779179c050f8b6f0e04]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/1) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
+[^c-fce387053c916779179c050f8b6f0e04]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/1) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
 
-[^key-217633151c5809adad5460b18b9e859d]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/2) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
+[^c-217633151c5809adad5460b18b9e859d]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/2) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
 
-[^key-b46633df591375725ee060b37c0ac70f]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/3) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
+[^c-b46633df591375725ee060b37c0ac70f]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/3) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
 
 [^M_I_967b25e1-06e9-4c23-d135-d70f5fc77729]: Commencement: Sch. para. 4 in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
 
-[^key-2f86fca8576bc815d4b264d2415a2b30]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/4) substituted (2.2.2023) by [The Immigration (Restrictions on Employment etc.) (Amendment) (EU Exit) Regulations 2023 (S.I. 2023/12)](https://www.legislation.gov.uk/uksi/2023/12), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/12/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/12/regulation/4)
+[^c-2f86fca8576bc815d4b264d2415a2b30]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/4) substituted (2.2.2023) by [The Immigration (Restrictions on Employment etc.) (Amendment) (EU Exit) Regulations 2023 (S.I. 2023/12)](https://www.legislation.gov.uk/uksi/2023/12), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/12/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/12/regulation/4)
 
-[^key-536da893b4f864acb758420a9863a732]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/5) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
+[^c-536da893b4f864acb758420a9863a732]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/5) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
 
 [^M_I_b476292d-d735-4ba3-ffc6-1257cfde4257]: Commencement: Sch. para. 6 in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
 
-[^key-bdb155179c388ea7d860bd045ea6cfe2]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/7) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
+[^c-bdb155179c388ea7d860bd045ea6cfe2]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/7) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
 
-[^key-8796151c344ce3bd2eda63a9cdab306b]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/8) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
+[^c-8796151c344ce3bd2eda63a9cdab306b]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/8) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
 
-[^key-eb056b5af1ba6c388e0d8648db43c914]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/9) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
+[^c-eb056b5af1ba6c388e0d8648db43c914]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/9) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
 
 [^M_I_0f3b0c7d-4207-47b1-f91a-581df21309b8]: Commencement: Sch. para. 10 in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
 
-[^key-71ff92f07ede7bd4f69363c6caab466c]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/11) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
+[^c-71ff92f07ede7bd4f69363c6caab466c]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/11) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
 
-[^key-d0d0c2a1343318f536c078e06bcb3531]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/12) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
+[^c-d0d0c2a1343318f536c078e06bcb3531]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/12) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
 
-[^key-24ff5d9907932f519e31167bc34907f1]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/13) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
+[^c-24ff5d9907932f519e31167bc34907f1]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/13) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
 
-[^key-090fcb5168ca30104e0a3b2988b8ed34]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/14) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
+[^c-090fcb5168ca30104e0a3b2988b8ed34]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/14) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
 
-[^key-1a5282f0abf2c404ec6f8793baea3a89]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/15) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
+[^c-1a5282f0abf2c404ec6f8793baea3a89]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1210/schedule/paragraph/15) in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
 
 [^M_I_d63c8d6a-bc40-4332-d3c2-6c34f838eed6]: Commencement: Sch. para. 16 in force at 31.12.2020 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1)
 

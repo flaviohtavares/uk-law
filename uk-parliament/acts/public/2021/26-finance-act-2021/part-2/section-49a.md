@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49A. Meaning of “chemical recycling certification scheme”[^key-eba01ff9e4665f5a7a6846597c629712]
+## 49A. Meaning of “chemical recycling certification scheme”[^c-eba01ff9e4665f5a7a6846597c629712]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eba01ff9e4665f5a7a6846597c629712]: Textual amendment: [Ss. 49A](https://www.legislation.gov.uk/ukpga/2021/26/section/49A), [49B](https://www.legislation.gov.uk/ukpga/2021/26/section/49B) inserted (18.3.2026 for specified purposes) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 105(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/105/4), [107](https://www.legislation.gov.uk/ukpga/2026/11/section/107)
+[^c-eba01ff9e4665f5a7a6846597c629712]: Textual amendment: [Ss. 49A](https://www.legislation.gov.uk/ukpga/2021/26/section/49A), [49B](https://www.legislation.gov.uk/ukpga/2021/26/section/49B) inserted (18.3.2026 for specified purposes) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 105(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/105/4), [107](https://www.legislation.gov.uk/ukpga/2026/11/section/107)

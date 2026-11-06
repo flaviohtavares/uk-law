@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Tenders comprising products originating in third countries[^key-d18f846424c4ef888e153210e54c9bdc]
+## 83. Tenders comprising products originating in third countries[^c-d18f846424c4ef888e153210e54c9bdc]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d18f846424c4ef888e153210e54c9bdc]: Textual amendment: [Reg. 83](https://www.legislation.gov.uk/ssi/2016/49/regulation/83) omitted (31.12.2021) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/4), [7(4)](https://www.legislation.gov.uk/ssi/2020/468/regulation/7/4) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1), [10-15](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/10))
+[^c-d18f846424c4ef888e153210e54c9bdc]: Textual amendment: [Reg. 83](https://www.legislation.gov.uk/ssi/2016/49/regulation/83) omitted (31.12.2021) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/4), [7(4)](https://www.legislation.gov.uk/ssi/2020/468/regulation/7/4) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1), [10-15](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/10))

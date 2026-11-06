@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Duty to provide information to sunbed users[^key-60ac01e2e803534ca9685aaa113d8567][^key-f4e7145b993e847a0700ac25ce7d5d83]
+## 100. Duty to provide information to sunbed users[^c-60ac01e2e803534ca9685aaa113d8567][^c-f4e7145b993e847a0700ac25ce7d5d83]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-60ac01e2e803534ca9685aaa113d8567]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2008/5/section/100) in force at 1.4.2009 for specified purposes by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)
+[^c-60ac01e2e803534ca9685aaa113d8567]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2008/5/section/100) in force at 1.4.2009 for specified purposes by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)
 
-[^key-f4e7145b993e847a0700ac25ce7d5d83]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2008/5/section/100) in force at 1.12.2009 in so far as not already in force by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)
+[^c-f4e7145b993e847a0700ac25ce7d5d83]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2008/5/section/100) in force at 1.12.2009 in so far as not already in force by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)

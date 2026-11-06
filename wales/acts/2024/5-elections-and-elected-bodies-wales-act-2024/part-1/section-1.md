@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Electoral Management Board of Democracy and Boundary Commission Cymru[^key-0d0c2e845bae630ec60a2e4d43ee6273][^key-c037fc2fc84079a9a147be61c25362f8]
+## 1. Electoral Management Board of Democracy and Boundary Commission Cymru[^c-0d0c2e845bae630ec60a2e4d43ee6273][^c-c037fc2fc84079a9a147be61c25362f8]
 
 *Extent: E+W*
 
@@ -212,6 +212,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d0c2e845bae630ec60a2e4d43ee6273]: Commencement: S. 1 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-0d0c2e845bae630ec60a2e4d43ee6273]: Commencement: S. 1 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-c037fc2fc84079a9a147be61c25362f8]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2024/5/section/1) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(a)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/a)
+[^c-c037fc2fc84079a9a147be61c25362f8]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2024/5/section/1) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(a)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/a)

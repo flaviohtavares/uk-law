@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.3.2. Applications under section 41 of the Act[^key-9b3be5a6e35276b53b670f7f26d19dce]
+## 3.3.2. Applications under section 41 of the Act[^c-9b3be5a6e35276b53b670f7f26d19dce]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b3be5a6e35276b53b670f7f26d19dce]: Commencement: Rule 3.3.2 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-9b3be5a6e35276b53b670f7f26d19dce]: Commencement: Rule 3.3.2 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

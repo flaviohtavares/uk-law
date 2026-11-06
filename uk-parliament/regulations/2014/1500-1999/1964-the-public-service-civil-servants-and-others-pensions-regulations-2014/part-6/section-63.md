@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Full retirement pension ceases to be payable[^key-90d8d0181a1776c5271e7751b16a518c]
+## 63. Full retirement pension ceases to be payable[^c-90d8d0181a1776c5271e7751b16a518c]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90d8d0181a1776c5271e7751b16a518c]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2014/1964/regulation/63) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-90d8d0181a1776c5271e7751b16a518c]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2014/1964/regulation/63) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

@@ -30,7 +30,7 @@ summary: ''
 
 FOOD
 
-Spreadable Fats (Marketing Standards) (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^key-c3391531b37169e7f167862550f3d243]
+Spreadable Fats (Marketing Standards) (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^c-c3391531b37169e7f167862550f3d243]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 12th April 1999
 
-[^key-c3391531b37169e7f167862550f3d243]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3391531b37169e7f167862550f3d243]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c3391531b37169e7f167862550f3d243]
+## 1. Citation, commencement and interpretation[^c-c3391531b37169e7f167862550f3d243]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the principal Regulations[^key-c3391531b37169e7f167862550f3d243]
+## 2. Amendment to the principal Regulations[^c-c3391531b37169e7f167862550f3d243]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c3391531b37169e7f167862550f3d243]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3391531b37169e7f167862550f3d243]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c3391531b37169e7f167862550f3d243]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3391531b37169e7f167862550f3d243]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c3391531b37169e7f167862550f3d243]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/93) revoked (1.11.1999) by [Spreadable Fats (Marketing Standards) Regulations (Northern Ireland) 1999 (revoked) 1999 (S.R. 1999/383)](https://www.legislation.gov.uk/nisr/1999/383), [regs. 1](https://www.legislation.gov.uk/nisr/1999/383/regulation/1)
+[^c-c3391531b37169e7f167862550f3d243]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/93) revoked (1.11.1999) by [Spreadable Fats (Marketing Standards) Regulations (Northern Ireland) 1999 (revoked) 1999 (S.R. 1999/383)](https://www.legislation.gov.uk/nisr/1999/383), [regs. 1](https://www.legislation.gov.uk/nisr/1999/383/regulation/1)

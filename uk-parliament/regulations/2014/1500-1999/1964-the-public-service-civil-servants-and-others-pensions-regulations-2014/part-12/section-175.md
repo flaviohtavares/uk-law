@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. General prohibition on unauthorised payments[^key-8ec7c5383b007f55227dbc1219aa17bf]
+## 175. General prohibition on unauthorised payments[^c-8ec7c5383b007f55227dbc1219aa17bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Nothing in these Regulations requires or authorises the making of any payment, w
 
 ## Annotations
 
-[^key-8ec7c5383b007f55227dbc1219aa17bf]: Commencement: [Reg. 175](https://www.legislation.gov.uk/uksi/2014/1964/regulation/175) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-8ec7c5383b007f55227dbc1219aa17bf]: Commencement: [Reg. 175](https://www.legislation.gov.uk/uksi/2014/1964/regulation/175) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

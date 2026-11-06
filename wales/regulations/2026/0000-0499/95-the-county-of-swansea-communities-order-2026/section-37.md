@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**37.**[^key-5ec078e0e7634610a36e22dfa919374f] The community of Rhossili is abolished.
+**37.**[^c-5ec078e0e7634610a36e22dfa919374f] The community of Rhossili is abolished.
 
 ## Annotations
 
-[^key-5ec078e0e7634610a36e22dfa919374f]: Commencement: [Art. 37](https://www.legislation.gov.uk/wsi/2026/95/article/37) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-5ec078e0e7634610a36e22dfa919374f]: Commencement: [Art. 37](https://www.legislation.gov.uk/wsi/2026/95/article/37) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

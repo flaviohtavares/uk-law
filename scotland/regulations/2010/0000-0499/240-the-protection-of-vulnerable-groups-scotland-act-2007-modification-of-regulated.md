@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons
 
-The Protection of Vulnerable Groups (Scotland) Act 2007 (Modification of Regulated Work with Children) Order 2010 (revoked)[^key-4c1614604ffe8aa7436b33360cd51436]
+The Protection of Vulnerable Groups (Scotland) Act 2007 (Modification of Regulated Work with Children) Order 2010 (revoked)[^c-4c1614604ffe8aa7436b33360cd51436]
 
 Made
 
@@ -40,36 +40,36 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-4c1614604ffe8aa7436b33360cd51436]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c1614604ffe8aa7436b33360cd51436]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4c1614604ffe8aa7436b33360cd51436]
+## 1. Citation and commencement[^c-4c1614604ffe8aa7436b33360cd51436]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of schedule 2 to the Protection of Vulnerable Groups (Scotland) Act 2007[^key-4c1614604ffe8aa7436b33360cd51436]
+## 2. Modification of schedule 2 to the Protection of Vulnerable Groups (Scotland) Act 2007[^c-4c1614604ffe8aa7436b33360cd51436]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4c1614604ffe8aa7436b33360cd51436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4c1614604ffe8aa7436b33360cd51436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4c1614604ffe8aa7436b33360cd51436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4c1614604ffe8aa7436b33360cd51436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4c1614604ffe8aa7436b33360cd51436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4c1614604ffe8aa7436b33360cd51436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4c1614604ffe8aa7436b33360cd51436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-4c1614604ffe8aa7436b33360cd51436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-4c1614604ffe8aa7436b33360cd51436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4c1614604ffe8aa7436b33360cd51436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-4c1614604ffe8aa7436b33360cd51436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-4c1614604ffe8aa7436b33360cd51436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1614604ffe8aa7436b33360cd51436]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c1614604ffe8aa7436b33360cd51436]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4c1614604ffe8aa7436b33360cd51436]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c1614604ffe8aa7436b33360cd51436]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4c1614604ffe8aa7436b33360cd51436]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2010/240) revoked (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2025/74/schedule/2/paragraph/8) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+[^c-4c1614604ffe8aa7436b33360cd51436]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2010/240) revoked (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2025/74/schedule/2/paragraph/8) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))

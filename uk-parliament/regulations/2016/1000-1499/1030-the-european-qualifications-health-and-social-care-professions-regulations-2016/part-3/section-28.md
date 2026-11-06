@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Insertion of regulation 3[^key-31433b154ee516e652f72e3a7966a90b]
+## 28. Insertion of regulation 3[^c-31433b154ee516e652f72e3a7966a90b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ After regulation 2, insert—
 
 ## Annotations
 
-[^key-31433b154ee516e652f72e3a7966a90b]: Commencement: Reg. 28 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-31433b154ee516e652f72e3a7966a90b]: Commencement: Reg. 28 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

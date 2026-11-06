@@ -44,7 +44,7 @@ Coming into force
 
 1st October 2016
 
-The Secretary of State, with the consent of the Treasury, makes the following Rules in exercise of the powers conferred by sections 36 and 40 of the Registered Designs Act 1949 [^c23201351] and of the power conferred by the Department of Trade and Industry (Fees) Order 1988 [^c23201361].[^key-e28997ddc286d0cbe280f7dae092fe49]
+The Secretary of State, with the consent of the Treasury, makes the following Rules in exercise of the powers conferred by sections 36 and 40 of the Registered Designs Act 1949 [^c23201351] and of the power conferred by the Department of Trade and Industry (Fees) Order 1988 [^c23201361].[^c-e28997ddc286d0cbe280f7dae092fe49]
 
 ## 1. Citation and commencement, and interpretation
 
@@ -81,9 +81,9 @@ Table 1
 
 | *Number of designs included in the application* | *Fee* |
 | --- | --- |
-| 1 | £60[^key-6783e8e2720ca731c67fc2d34a214429] |
+| 1 | £60[^c-6783e8e2720ca731c67fc2d34a214429] |
 | More than 1 but not more than 10 | £85 |
-| More than 10 | £85[^key-941bd6b7b3dcda40feb7167197a31669] for the first 10 designs included in the application and £25 for each additional 10 designs included in the application or part thereof |
+| More than 10 | £85[^c-941bd6b7b3dcda40feb7167197a31669] for the first 10 designs included in the application and £25 for each additional 10 designs included in the application or part thereof |
 
 ## 5. Fees in respect of applications to register designs otherwise than by electronic means
 
@@ -98,8 +98,8 @@ Table 2
 
 | *Number of designs included in the application* | *Fee* |
 | --- | --- |
-| 1 | £75[^key-4457f0d945716a8317e885e674296865] |
-| More than 1 | £75[^key-a576bc94de232219d253b1800cad11ee] for the first design included in the application and £50 for each additional design included in the application |
+| 1 | £75[^c-4457f0d945716a8317e885e674296865] |
+| More than 1 | £75[^c-a576bc94de232219d253b1800cad11ee] for the first design included in the application and £50 for each additional design included in the application |
 
 ## 6. Fees to extend the period for which right in the registered design subsists
 
@@ -107,13 +107,13 @@ Table 2
 
 (2) The renewal fee payable in relation to the making of the application is specified in Part 1 of the Schedule.
 
-(3) [^key-21e04f0eba5708c3f215141ec9a9f62d]... The additional fees prescribed for the purposes of section 8(4) of the Act are those specified in Part 2 of the Schedule.
+(3) [^c-21e04f0eba5708c3f215141ec9a9f62d]... The additional fees prescribed for the purposes of section 8(4) of the Act are those specified in Part 2 of the Schedule.
 
 ## 7. Other fees payable
 
-[^key-b9ab63d68d3b94524a9240d1a3aad385]... The fees payable in relation to the applications and requests specified in Part 3 of the Schedule are those specified in that Part.
+[^c-b9ab63d68d3b94524a9240d1a3aad385]... The fees payable in relation to the applications and requests specified in Part 3 of the Schedule are those specified in that Part.
 
-## 8. Temporary fee reduction[^key-fc01251490a270931ec998f2d4df06a6]
+## 8. Temporary fee reduction[^c-fc01251490a270931ec998f2d4df06a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -139,7 +139,7 @@ Rules 6 and 7
 
 | *Period to which the application relates* | *Fee (£)* |
 | --- | --- |
-| Second period of five years | £85[^key-16060d540f18c23c4bf16524b88e0e6b] |
+| Second period of five years | £85[^c-16060d540f18c23c4bf16524b88e0e6b] |
 | Third period of five years | £110 |
 | Fourth period of five years | £135 |
 | Fifth period of five years | £170 |
@@ -148,7 +148,7 @@ Rules 6 and 7
 
 | *Number of the month in the six month period referred to in section 8(4) of the Act in which the application for renewal is made* | *Additional fee (£)* |
 | --- | --- |
-| 2nd | £30[^key-41a19ebea0b49f29b9a27529e05fa9a6] |
+| 2nd | £30[^c-41a19ebea0b49f29b9a27529e05fa9a6] |
 | 3rd | £60 |
 | 4th | £90 |
 | 5th | £120 |
@@ -158,7 +158,7 @@ Rules 6 and 7
 
 | *Description of application or request in accordance with the Registered Designs Rules* | *Fee (£)* |
 | --- | --- |
-| Application to publish one or more designs on Form DF2C pursuant to rule 9 | £50[^key-095483c6be0c7da10fb5c45cb3a11e2a] |
+| Application to publish one or more designs on Form DF2C pursuant to rule 9 | £50[^c-095483c6be0c7da10fb5c45cb3a11e2a] |
 | Request to invalidate a design registration on Form DF19A pursuant to rule 15 | £60 |
 | Request for a search of the UK designs register on Form DF21 pursuant to rule 31 | £30 |
 | Request for a certified copy of an entry in the register on Form DF23 pursuant to rule 32 | £38 |
@@ -178,28 +178,28 @@ An impact assessment had been prepared and copies are available from the Intelle
 
 [^c23201361]: Marginal citation: [S.I. 1988/93](https://www.legislation.gov.uk/uksi/1988/93); relevant amending instruments are [S.I. 1990/1473](https://www.legislation.gov.uk/uksi/1990/1473), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). See the matters specified in Schedule 1, Part III and Schedule 2, Part I and Part II to that Order.
 
-[^key-e28997ddc286d0cbe280f7dae092fe49]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2016/889) applied (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2019/638/schedule/5/paragraph/8); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e28997ddc286d0cbe280f7dae092fe49]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2016/889) applied (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2019/638/schedule/5/paragraph/8); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23201371]: Marginal citation: [S.I. 2006/1975](https://www.legislation.gov.uk/uksi/2006/1975).
 
 [^c23201381]: Marginal citation: [S.I. 2006/2617](https://www.legislation.gov.uk/uksi/2006/2617).
 
-[^key-6783e8e2720ca731c67fc2d34a214429]: Textual amendment: Sum in [rule 4(2)](https://www.legislation.gov.uk/uksi/2016/889/article/4/2) Table 1 substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [23(a)](https://www.legislation.gov.uk/uksi/2026/183/rule/23/a)
+[^c-6783e8e2720ca731c67fc2d34a214429]: Textual amendment: Sum in [rule 4(2)](https://www.legislation.gov.uk/uksi/2016/889/article/4/2) Table 1 substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [23(a)](https://www.legislation.gov.uk/uksi/2026/183/rule/23/a)
 
-[^key-941bd6b7b3dcda40feb7167197a31669]: Textual amendment: Sum in [rule 4(2)](https://www.legislation.gov.uk/uksi/2016/889/article/4/2) Table 1 substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [23(b)](https://www.legislation.gov.uk/uksi/2026/183/rule/23/b)
+[^c-941bd6b7b3dcda40feb7167197a31669]: Textual amendment: Sum in [rule 4(2)](https://www.legislation.gov.uk/uksi/2016/889/article/4/2) Table 1 substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [23(b)](https://www.legislation.gov.uk/uksi/2026/183/rule/23/b)
 
-[^key-4457f0d945716a8317e885e674296865]: Textual amendment: Sum in [rule 5(2)](https://www.legislation.gov.uk/uksi/2016/889/article/5/2) Table 2 substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [24(a)](https://www.legislation.gov.uk/uksi/2026/183/rule/24/a)
+[^c-4457f0d945716a8317e885e674296865]: Textual amendment: Sum in [rule 5(2)](https://www.legislation.gov.uk/uksi/2016/889/article/5/2) Table 2 substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [24(a)](https://www.legislation.gov.uk/uksi/2026/183/rule/24/a)
 
-[^key-a576bc94de232219d253b1800cad11ee]: Textual amendment: Sum in [rule 5(2)](https://www.legislation.gov.uk/uksi/2016/889/article/5/2) Table 2 substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [24(b)](https://www.legislation.gov.uk/uksi/2026/183/rule/24/b)
+[^c-a576bc94de232219d253b1800cad11ee]: Textual amendment: Sum in [rule 5(2)](https://www.legislation.gov.uk/uksi/2016/889/article/5/2) Table 2 substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [24(b)](https://www.legislation.gov.uk/uksi/2026/183/rule/24/b)
 
-[^key-21e04f0eba5708c3f215141ec9a9f62d]: Textual amendment: Words in [rule 6(3)](https://www.legislation.gov.uk/uksi/2016/889/article/6/3) omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [25](https://www.legislation.gov.uk/uksi/2026/183/rule/25)
+[^c-21e04f0eba5708c3f215141ec9a9f62d]: Textual amendment: Words in [rule 6(3)](https://www.legislation.gov.uk/uksi/2016/889/article/6/3) omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [25](https://www.legislation.gov.uk/uksi/2026/183/rule/25)
 
-[^key-b9ab63d68d3b94524a9240d1a3aad385]: Textual amendment: Words in [rule 7](https://www.legislation.gov.uk/uksi/2016/889/article/7) omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [26](https://www.legislation.gov.uk/uksi/2026/183/rule/26)
+[^c-b9ab63d68d3b94524a9240d1a3aad385]: Textual amendment: Words in [rule 7](https://www.legislation.gov.uk/uksi/2016/889/article/7) omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [26](https://www.legislation.gov.uk/uksi/2026/183/rule/26)
 
-[^key-fc01251490a270931ec998f2d4df06a6]: Textual amendment: [Rule 8](https://www.legislation.gov.uk/uksi/2016/889/article/8) omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [27](https://www.legislation.gov.uk/uksi/2026/183/rule/27)
+[^c-fc01251490a270931ec998f2d4df06a6]: Textual amendment: [Rule 8](https://www.legislation.gov.uk/uksi/2016/889/article/8) omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [27](https://www.legislation.gov.uk/uksi/2026/183/rule/27)
 
-[^key-16060d540f18c23c4bf16524b88e0e6b]: Textual amendment: Sum in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2016/889/schedule/part/1) Table substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rule 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2026/183/schedule/6/part/1) Table 7 (with [rule 34(3)](https://www.legislation.gov.uk/uksi/2026/183/rule/34/3)[(7)](https://www.legislation.gov.uk/uksi/2026/183/rule/34/7))
+[^c-16060d540f18c23c4bf16524b88e0e6b]: Textual amendment: Sum in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2016/889/schedule/part/1) Table substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rule 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2026/183/schedule/6/part/1) Table 7 (with [rule 34(3)](https://www.legislation.gov.uk/uksi/2026/183/rule/34/3)[(7)](https://www.legislation.gov.uk/uksi/2026/183/rule/34/7))
 
-[^key-41a19ebea0b49f29b9a27529e05fa9a6]: Textual amendment: Sum in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2016/889/schedule/part/2) Table substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rule 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2026/183/schedule/6/part/2) Table 8
+[^c-41a19ebea0b49f29b9a27529e05fa9a6]: Textual amendment: Sum in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2016/889/schedule/part/2) Table substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rule 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2026/183/schedule/6/part/2) Table 8
 
-[^key-095483c6be0c7da10fb5c45cb3a11e2a]: Textual amendment: Sum in [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2016/889/schedule/part/3) Table substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rule 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [Sch. 6 Pt. 3](https://www.legislation.gov.uk/uksi/2026/183/schedule/6/part/3) Table 9
+[^c-095483c6be0c7da10fb5c45cb3a11e2a]: Textual amendment: Sum in [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2016/889/schedule/part/3) Table substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rule 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [Sch. 6 Pt. 3](https://www.legislation.gov.uk/uksi/2026/183/schedule/6/part/3) Table 9

@@ -115,35 +115,35 @@ This Decision amends common specifications for the national vehicle registers an
 
 The Annex to Decision 2007/756/EC is amended in accordance with Annex I to this Decision.
 
-### Article 3. Withdrawal of redundant registrations[^key-8b25c041f736fabeaf7c2f2159eb7171]
+### Article 3. Withdrawal of redundant registrations[^c-8b25c041f736fabeaf7c2f2159eb7171]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## CHAPTER 3 — EUROPEAN VEHICLE REGISTER
 
-### Article 4. Specifications of the European Vehicle Register[^key-8b25c041f736fabeaf7c2f2159eb7171]
+### Article 4. Specifications of the European Vehicle Register[^c-8b25c041f736fabeaf7c2f2159eb7171]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Registration entity[^key-8b25c041f736fabeaf7c2f2159eb7171]
+### Article 5. Registration entity[^c-8b25c041f736fabeaf7c2f2159eb7171]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Registration of vehicles authorised to be placed on the market[^key-8b25c041f736fabeaf7c2f2159eb7171]
+### Article 6. Registration of vehicles authorised to be placed on the market[^c-8b25c041f736fabeaf7c2f2159eb7171]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Architecture of the European Vehicle Register[^key-8b25c041f736fabeaf7c2f2159eb7171]
+### Article 7. Architecture of the European Vehicle Register[^c-8b25c041f736fabeaf7c2f2159eb7171]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Migration from the national vehicle registers to the European Vehicle Register[^key-8b25c041f736fabeaf7c2f2159eb7171]
+### Article 8. Migration from the national vehicle registers to the European Vehicle Register[^c-8b25c041f736fabeaf7c2f2159eb7171]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## CHAPTER 4 — FINAL PROVISIONS
 
-### Article 9. Repeal[^key-8b25c041f736fabeaf7c2f2159eb7171]
+### Article 9. Repeal[^c-8b25c041f736fabeaf7c2f2159eb7171]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -151,7 +151,7 @@ The Annex to Decision 2007/756/EC is amended in accordance with Annex I to this 
 
 This Decision shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-8373998ec7372467af9870ad16211a89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8373998ec7372467af9870ad16211a89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 25 October 2018.
 
@@ -380,11 +380,11 @@ The Annex to Decision 2007/756/EC is amended as follows:
   > </tbody>
   > </table>
 
-## ANNEX II[^key-600ffc35b202317ac71625d8591623ae]
+## ANNEX II[^c-600ffc35b202317ac71625d8591623ae]
 
 **No longer in force.**
 
-[^key-600ffc35b202317ac71625d8591623ae]1.
+[^c-600ffc35b202317ac71625d8591623ae]1.
 
 CONTENT AND DATA FORMAT
 
@@ -392,15 +392,15 @@ CONTENT AND DATA FORMAT
 
 **No longer in force.**
 
-[^key-600ffc35b202317ac71625d8591623ae]2.
+[^c-600ffc35b202317ac71625d8591623ae]2.
 
 ARCHITECTURE
 
-[^key-600ffc35b202317ac71625d8591623ae]2.1.
+[^c-600ffc35b202317ac71625d8591623ae]2.1.
 
 **The EVR architecture**
 
-[^key-600ffc35b202317ac71625d8591623ae]2.1.1.
+[^c-600ffc35b202317ac71625d8591623ae]2.1.1.
 
 *Data search and consultation function (DSC function)*
 
@@ -408,19 +408,19 @@ The DSC function shall be implemented by the Agency via a centralised web-based 
 
 The DSC function shall provide the registration entities with the means to extract the values of parameters in table 1 of their recorded vehicle registrations.
 
-[^key-600ffc35b202317ac71625d8591623ae]2.1.2.
+[^c-600ffc35b202317ac71625d8591623ae]2.1.2.
 
 *User creation and administration function (UCA function)*
 
 The UCA function shall be implemented via a centralised web-based tool setup by the Agency. The function shall enable persons and organisations to request access to EVR data and the competent registration entity (‘RE’) to create users and manage access rights.
 
-[^key-600ffc35b202317ac71625d8591623ae]2.1.3.
+[^c-600ffc35b202317ac71625d8591623ae]2.1.3.
 
 *Reference data administration function (RDA function)*
 
 The RDA function shall be implemented via a centralised web-based tool setup by the Agency. The function shall enable REs and the Agency to manage the common reference data.
 
-[^key-600ffc35b202317ac71625d8591623ae]2.1.4.
+[^c-600ffc35b202317ac71625d8591623ae]2.1.4.
 
 *Application, registration and data storage functions (ARS functions)*
 
@@ -430,43 +430,43 @@ Member States may decide to use the centralised ARS function (C-ARS) provided by
 
 The centralised ARS function shall provide pre-reservation and management of vehicle numbers. The pre-reservation process shall allow for pre-filling of information required in the e-form by the applicant or the keeper.
 
-[^key-600ffc35b202317ac71625d8591623ae]2.2.
+[^c-600ffc35b202317ac71625d8591623ae]2.2.
 
 **Usability**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]2.3.
+[^c-600ffc35b202317ac71625d8591623ae]2.3.
 
 **Availability**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]2.4.
+[^c-600ffc35b202317ac71625d8591623ae]2.4.
 
 **Service level**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]2.5.
+[^c-600ffc35b202317ac71625d8591623ae]2.5.
 
 **Change control**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]2.6.
+[^c-600ffc35b202317ac71625d8591623ae]2.6.
 
 **Data integrity**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]2.7.
+[^c-600ffc35b202317ac71625d8591623ae]2.7.
 
 **Pre-check**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]2.8.
+[^c-600ffc35b202317ac71625d8591623ae]2.8.
 
 **Facilitation of the use in the Union of vehicles registered in third countries**
 
@@ -474,103 +474,103 @@ The centralised ARS function shall provide pre-reservation and management of veh
 
 **No longer in force.**
 
-[^key-600ffc35b202317ac71625d8591623ae]3.
+[^c-600ffc35b202317ac71625d8591623ae]3.
 
 OPERATING MODE
 
-[^key-600ffc35b202317ac71625d8591623ae]3.1.
+[^c-600ffc35b202317ac71625d8591623ae]3.1.
 
 **Use of the EVR**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]3.2.
+[^c-600ffc35b202317ac71625d8591623ae]3.2.
 
 **Registration of vehicles**
 
-[^key-600ffc35b202317ac71625d8591623ae]3.2.1.
+[^c-600ffc35b202317ac71625d8591623ae]3.2.1.
 
 *General rules*
 
-[^key-600ffc35b202317ac71625d8591623ae]1.
+[^c-600ffc35b202317ac71625d8591623ae]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]2.
+[^c-600ffc35b202317ac71625d8591623ae]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]3.
+[^c-600ffc35b202317ac71625d8591623ae]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]4.
+[^c-600ffc35b202317ac71625d8591623ae]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]5.
+[^c-600ffc35b202317ac71625d8591623ae]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]6.
+[^c-600ffc35b202317ac71625d8591623ae]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]7.
+[^c-600ffc35b202317ac71625d8591623ae]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]8.
+[^c-600ffc35b202317ac71625d8591623ae]8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]9.
+[^c-600ffc35b202317ac71625d8591623ae]9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]10.
+[^c-600ffc35b202317ac71625d8591623ae]10.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]11.
+[^c-600ffc35b202317ac71625d8591623ae]11.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]12.
+[^c-600ffc35b202317ac71625d8591623ae]12.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]13.
+[^c-600ffc35b202317ac71625d8591623ae]13.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]14.
+[^c-600ffc35b202317ac71625d8591623ae]14.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]15.
+[^c-600ffc35b202317ac71625d8591623ae]15.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]16.
+[^c-600ffc35b202317ac71625d8591623ae]16.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]17.
+[^c-600ffc35b202317ac71625d8591623ae]17.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]18.
+[^c-600ffc35b202317ac71625d8591623ae]18.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]3.2.2.
+[^c-600ffc35b202317ac71625d8591623ae]3.2.2.
 
 *Registration cases*
 
 The registration cases are specified below. If applicable, different registration cases may be merged in a single vehicle registration application.
 
-[^key-600ffc35b202317ac71625d8591623ae]3.2.2.1.
+[^c-600ffc35b202317ac71625d8591623ae]3.2.2.1.
 
 New registration
 
@@ -580,31 +580,31 @@ Applications shall be submitted by the keeper to the RE of a Member State in the
 
 For vehicles entering the Union rail system from third countries in accordance with point 3.2.1.5, applications shall be submitted to the RE of the first Member State where the vehicle is intended to be operated. In that case the application shall contain at least the information on the identification of the keeper, the entity in charge of maintenance and the restrictions on how the vehicle may be used.
 
-[^key-600ffc35b202317ac71625d8591623ae]3.2.2.2.
+[^c-600ffc35b202317ac71625d8591623ae]3.2.2.2.
 
 Update of an existing registration
 
 Applications shall be submitted by the keeper to the RE of the Member State where the vehicle is registered. Only the parameters in Table 1 to be updated shall be filled.
 
-[^key-600ffc35b202317ac71625d8591623ae]3.2.2.3.
+[^c-600ffc35b202317ac71625d8591623ae]3.2.2.3.
 
 Change of keeper
 
 Should a keeper of a vehicle change, it is the responsibility of the currently registered keeper to inform the RE in due time, so that the latter may update the EVR. The former keeper shall be removed from the EVR registration and relieved of its responsibilities only when the new keeper has acknowledged its acceptance of keeper status. If on the date of de-registration of the currently registered keeper no new keeper has accepted the keeper status, the registration of the vehicle shall be suspended.
 
-[^key-600ffc35b202317ac71625d8591623ae]3.2.2.4.
+[^c-600ffc35b202317ac71625d8591623ae]3.2.2.4.
 
 Change of entity in charge of maintenance (‘ECM’)
 
 When there is a change of ECM of a vehicle, the keeper shall inform the RE in due time, so that the latter may update the EVR. The former ECM shall deliver the maintenance documentation to either the keeper or the new ECM. The former ECM is relieved of its responsibilities when it is removed from the EVR registration. If on the date of de-registration of the former ECM any new entity has not acknowledged its acceptance of ECM status, the registration of the vehicle is suspended.
 
-[^key-600ffc35b202317ac71625d8591623ae]3.2.2.5.
+[^c-600ffc35b202317ac71625d8591623ae]3.2.2.5.
 
 Change of owner
 
 When there is a change of owner, the keeper shall inform the RE in due time, so that the latter may update the EVR.
 
-[^key-600ffc35b202317ac71625d8591623ae]3.2.2.6.
+[^c-600ffc35b202317ac71625d8591623ae]3.2.2.6.
 
 Suspension or reactivation of a registration
 
@@ -614,7 +614,7 @@ A vehicle that has its registration suspended may not be operated on the Union r
 
 A reactivation of a registration after suspension will require the reexamination by the RE of the conditions which caused the suspension and, if applicable, in coordination with the NSA that requested the suspension.
 
-[^key-600ffc35b202317ac71625d8591623ae]3.2.2.7.
+[^c-600ffc35b202317ac71625d8591623ae]3.2.2.7.
 
 Withdrawal of a registration
 
@@ -622,7 +622,7 @@ The new status and the status reason shall be filled. The status date is automat
 
 A vehicle that has its registration withdrawn may not be operated on the Union rail system under such registration.
 
-[^key-600ffc35b202317ac71625d8591623ae]3.2.2.8.
+[^c-600ffc35b202317ac71625d8591623ae]3.2.2.8.
 
 Change of EVN following technical modifications
 
@@ -630,13 +630,13 @@ The EVN shall be changed when it does not reflect the interoperability capabilit
 
 The change of EVN consists of a new registration of the vehicle and subsequent withdrawal of the old registration.
 
-[^key-600ffc35b202317ac71625d8591623ae]3.2.2.9.
+[^c-600ffc35b202317ac71625d8591623ae]3.2.2.9.
 
 Change of EVN and of registering Member State
 
 The EVN may be changed at the request of the keeper through a new registration of the vehicle by a different Member State in the area of use and subsequent withdrawal of the old registration.
 
-[^key-600ffc35b202317ac71625d8591623ae]3.2.3.
+[^c-600ffc35b202317ac71625d8591623ae]3.2.3.
 
 *Automatic notification of changes*
 
@@ -646,7 +646,7 @@ Following a change of keeper or owner or ECM, the EVR IT system shall send an au
 
 A keeper or owner or ECM or EC declaration issuing body may opt-in the reception of automatic email notifications informing about changes to registrations they are identified within.
 
-[^key-600ffc35b202317ac71625d8591623ae]3.2.4.
+[^c-600ffc35b202317ac71625d8591623ae]3.2.4.
 
 *Historical records*
 
@@ -656,11 +656,11 @@ After withdrawal of a vehicle registration, any of the registration numbers assi
 
 Any changes to the data in the EVR shall be recorded.
 
-[^key-600ffc35b202317ac71625d8591623ae]3.3.
+[^c-600ffc35b202317ac71625d8591623ae]3.3.
 
 **Management of users**
 
-[^key-600ffc35b202317ac71625d8591623ae]3.3.1.
+[^c-600ffc35b202317ac71625d8591623ae]3.3.1.
 
 *Request of user*
 
@@ -668,7 +668,7 @@ Any person or organisation shall be able to request access to EVR via a web-base
 
 The RE shall assess the request and, if appropriate, create a user account for the requestor and assign the appropriate access rights in accordance with points 3.3.2 and 3.3.3.
 
-[^key-600ffc35b202317ac71625d8591623ae]3.3.2.
+[^c-600ffc35b202317ac71625d8591623ae]3.3.2.
 
 *Access rights*
 
@@ -676,7 +676,7 @@ The access rights to data of EVR are listed in the table below:
 
 The access rights to data of EVR may be extended to relevant third country entities or intergovernmental organisation when an international agreement to which the European Union is party provides for that.
 
-[^key-600ffc35b202317ac71625d8591623ae]3.3.3.
+[^c-600ffc35b202317ac71625d8591623ae]3.3.3.
 
 *Other rights*
 
@@ -684,19 +684,19 @@ Keepers shall be able to submit applications for registration.
 
 Any organisation shall be able to submit changes to its own data kept in the reference data (see Section 3.4)
 
-[^key-600ffc35b202317ac71625d8591623ae]3.3.4.
+[^c-600ffc35b202317ac71625d8591623ae]3.3.4.
 
 *Security*
 
 Authentication of users shall be by means of username and password. In the case of keepers (applicants for vehicle registration) and REs, authentication shall provide the assurance level ‘substantial’ referred to in point 2.2.1 of the Annex to Commission Implementing Regulation (EU) 2015/1502.
 
-[^key-600ffc35b202317ac71625d8591623ae]3.3.5.
+[^c-600ffc35b202317ac71625d8591623ae]3.3.5.
 
 *Data protection*
 
 Data in the EVR shall be managed according to Regulation (EU) 2016/679 of the European Parliament and of the Council and applicable national legislation on data protection.
 
-[^key-600ffc35b202317ac71625d8591623ae]3.4.
+[^c-600ffc35b202317ac71625d8591623ae]3.4.
 
 **Reference data**
 
@@ -704,29 +704,29 @@ Data in the EVR shall be managed according to Regulation (EU) 2016/679 of the Eu
 
 **No longer in force.**
 
-[^key-600ffc35b202317ac71625d8591623ae]4.
+[^c-600ffc35b202317ac71625d8591623ae]4.
 
 EXISTING VEHICLES
 
-[^key-600ffc35b202317ac71625d8591623ae]4.1.
+[^c-600ffc35b202317ac71625d8591623ae]4.1.
 
 **Vehicle number**
 
-[^key-600ffc35b202317ac71625d8591623ae]1.
+[^c-600ffc35b202317ac71625d8591623ae]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]2.
+[^c-600ffc35b202317ac71625d8591623ae]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]4.2.
+[^c-600ffc35b202317ac71625d8591623ae]4.2.
 
 **Procedure for the migration from national vehicle registers (NVRs) to the EVR**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]4.3.
+[^c-600ffc35b202317ac71625d8591623ae]4.3.
 
 **Existing systems**
 
@@ -734,7 +734,7 @@ EXISTING VEHICLES
 
 **No longer in force.**
 
-[^key-600ffc35b202317ac71625d8591623ae]5.
+[^c-600ffc35b202317ac71625d8591623ae]5.
 
 GUIDELINES
 
@@ -742,55 +742,55 @@ GUIDELINES
 
 **No longer in force.**
 
-[^key-600ffc35b202317ac71625d8591623ae]APPENDIX 1
+[^c-600ffc35b202317ac71625d8591623ae]APPENDIX 1
 
 **RESTRICTION CODING**
 
-[^key-600ffc35b202317ac71625d8591623ae]1.
+[^c-600ffc35b202317ac71625d8591623ae]1.
 
 PRINCIPLES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]2.
+[^c-600ffc35b202317ac71625d8591623ae]2.
 
 STRUCTURE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]3.
+[^c-600ffc35b202317ac71625d8591623ae]3.
 
 RESTRICTION CODES
 
-[^key-600ffc35b202317ac71625d8591623ae]1.
+[^c-600ffc35b202317ac71625d8591623ae]1.
 
 Harmonised restriction codes shall be applicable in all the Member States.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]2.
+[^c-600ffc35b202317ac71625d8591623ae]2.
 
 The Agency shall keep up-to-date the list of national restriction codes. The use of national restriction codes shall be limited to those restrictions that reflect particular characteristics of the existing rail system of a Member State and are unlikely to be applied with the same meaning in other Member States.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]3.
+[^c-600ffc35b202317ac71625d8591623ae]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]4.
+[^c-600ffc35b202317ac71625d8591623ae]4.
 
 The use of non-coded restrictions shall be limited to those restrictions that due to their particular character are unlikely to be applied to several types of vehicle.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-600ffc35b202317ac71625d8591623ae]5.
+[^c-600ffc35b202317ac71625d8591623ae]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-600ffc35b202317ac71625d8591623ae]APPENDIX 2
+[^c-600ffc35b202317ac71625d8591623ae]APPENDIX 2
 
 **STRUCTURE AND CONTENT OF THE EUROPEAN IDENTIFICATION NUMBER**
 
@@ -798,17 +798,17 @@ The Agency shall set out the structure and content of the European identificatio
 
 **No longer in force.**
 
-[^key-600ffc35b202317ac71625d8591623ae]APPENDIX 3
+[^c-600ffc35b202317ac71625d8591623ae]APPENDIX 3
 
 **REGISTRATION STATUS CODING**
 
-[^key-600ffc35b202317ac71625d8591623ae]*Use of codes*
+[^c-600ffc35b202317ac71625d8591623ae]*Use of codes*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-600ffc35b202317ac71625d8591623ae]APPENDIX 4
+[^c-600ffc35b202317ac71625d8591623ae]APPENDIX 4
 
 [image: see source](https://www.legislation.gov.uk/eudn/2018/1614/images/eudn_20181614_2018-10-25_en_001)
 
@@ -820,21 +820,21 @@ The Agency shall set out the structure and content of the European identificatio
 
 **No longer in force.**
 
-[^key-600ffc35b202317ac71625d8591623ae]APPENDIX 5
+[^c-600ffc35b202317ac71625d8591623ae]APPENDIX 5
 
 **GLOSSARY**
 
 **No longer in force.**
 
-[^key-600ffc35b202317ac71625d8591623ae]APPENDIX 6
+[^c-600ffc35b202317ac71625d8591623ae]APPENDIX 6
 
-### PART ‘0’ — Vehicle identification[^key-600ffc35b202317ac71625d8591623ae]
+### PART ‘0’ — Vehicle identification[^c-600ffc35b202317ac71625d8591623ae]
 
-[^key-600ffc35b202317ac71625d8591623ae]**General remarks**
+[^c-600ffc35b202317ac71625d8591623ae]**General remarks**
 
 This Appendix describes the European vehicle number and linked marking applied in a visible manner on the vehicle to identify it uniquely and in a permanent manner during operation. It does not describe other numbers or markings eventually engraved or fixed in a permanent manner on the chassis or the main components of the vehicle during its construction.
 
-[^key-600ffc35b202317ac71625d8591623ae]**European vehicle number and linked abbreviations**
+[^c-600ffc35b202317ac71625d8591623ae]**European vehicle number and linked abbreviations**
 
 Each railway vehicle shall receive a number consisting of 12 figures (called European vehicle number (EVN)) with the following structure:
 
@@ -846,9 +846,9 @@ Alphabetical markings complete the number:
 - ((b)) Vehicle Keeper Marking *(details in part 1)*;
 - ((c)) abbreviations of the technical characteristics (details in part 12 for the wagons, part 13 for the hauled passenger vehicles).
 
-### PART 1 — Vehicle Keeper Marking[^key-600ffc35b202317ac71625d8591623ae]
+### PART 1 — Vehicle Keeper Marking[^c-600ffc35b202317ac71625d8591623ae]
 
-[^key-600ffc35b202317ac71625d8591623ae]1.
+[^c-600ffc35b202317ac71625d8591623ae]1.
 
 **Definition of the Vehicle Keeper Marking (VKM)**
 
@@ -858,7 +858,7 @@ A VKM shall be unique and valid in all countries covered by this Decision and al
 
 A VKM for a keeper which has its main place of business in a non-EU OTIF Contracting State is to be requested from OTIF Secretariat-General.
 
-[^key-600ffc35b202317ac71625d8591623ae]2.
+[^c-600ffc35b202317ac71625d8591623ae]2.
 
 **Format of the Vehicle Keeper Marking**
 
@@ -868,7 +868,7 @@ Letters may contain diacritical signs. Diacritical signs used by those letters s
 
 For vehicles of keepers that reside in a country that does not use the Latin alphabet, a translation of the VKM in its own alphabet may be applied behind the VKM separated from it by a slash-sign (‘/’). This translated VKM shall be disregarded for data-processing purposes.
 
-[^key-600ffc35b202317ac71625d8591623ae]3.
+[^c-600ffc35b202317ac71625d8591623ae]3.
 
 **Provisions about allocation of Vehicle Keeper Markings**
 
@@ -883,7 +883,7 @@ A single VKM may be issued for a group of companies:
 - which belong to a single corporate structure that has appointed and mandated one organisation within this structure to handle all issues on behalf of all others;
 - which have mandated a separate, single legal entity for handling all issues on their behalf. In that case the legal entity shall be the keeper.
 
-[^key-600ffc35b202317ac71625d8591623ae]4.
+[^c-600ffc35b202317ac71625d8591623ae]4.
 
 **Register of Vehicle Keeper Markings and procedure for allocation**
 
@@ -897,51 +897,51 @@ A VKM may be transferred to another holder, which is the legal successor to the 
 
 In case of a change of keeper which entails a change of VKM, the wagons concerned shall be marked with the new VKM within three months from the date of registration of the change of keeper in the EVR. In case of inconsistency between the VKM marked on the vehicle and the data registered in the EVR, the EVR-registration supersedes.
 
-### PART 2[^key-600ffc35b202317ac71625d8591623ae]
+### PART 2[^c-600ffc35b202317ac71625d8591623ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Rules for the determination of the check-digit (digit 12)[^key-600ffc35b202317ac71625d8591623ae]
+### PART 3 — Rules for the determination of the check-digit (digit 12)[^c-600ffc35b202317ac71625d8591623ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — Coding of the countries in which the vehicles are registered (digits 3-4 and abbreviation)[^key-600ffc35b202317ac71625d8591623ae]
+### PART 4 — Coding of the countries in which the vehicles are registered (digits 3-4 and abbreviation)[^c-600ffc35b202317ac71625d8591623ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 5[^key-600ffc35b202317ac71625d8591623ae]
+### PART 5[^c-600ffc35b202317ac71625d8591623ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 6 — Interoperability codes used for wagons (digits 1-2)[^key-600ffc35b202317ac71625d8591623ae]
+### PART 6 — Interoperability codes used for wagons (digits 1-2)[^c-600ffc35b202317ac71625d8591623ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 7 — International traffic ability codes used for hauled passenger vehicles (digits 1-2)[^key-600ffc35b202317ac71625d8591623ae]
+### PART 7 — International traffic ability codes used for hauled passenger vehicles (digits 1-2)[^c-600ffc35b202317ac71625d8591623ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 8 — Types of tractive rolling stock and units in a trainset in fixed or pre- defined formation (digits 1-2)[^key-600ffc35b202317ac71625d8591623ae]
+### PART 8 — Types of tractive rolling stock and units in a trainset in fixed or pre- defined formation (digits 1-2)[^c-600ffc35b202317ac71625d8591623ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 9 — Standard numerical marking of wagons (digits 5 to 8)[^key-600ffc35b202317ac71625d8591623ae]
+### PART 9 — Standard numerical marking of wagons (digits 5 to 8)[^c-600ffc35b202317ac71625d8591623ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 10 — Codes for the technical characteristics of the hauled passenger stock (digits 5-6)[^key-600ffc35b202317ac71625d8591623ae]
+### PART 10 — Codes for the technical characteristics of the hauled passenger stock (digits 5-6)[^c-600ffc35b202317ac71625d8591623ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 11 — Codes for the technical characteristics of the special vehicles (digit 6 to 8)[^key-600ffc35b202317ac71625d8591623ae]
+### PART 11 — Codes for the technical characteristics of the special vehicles (digit 6 to 8)[^c-600ffc35b202317ac71625d8591623ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 12 — Letter marking for wagons[^key-600ffc35b202317ac71625d8591623ae]
+### PART 12 — Letter marking for wagons[^c-600ffc35b202317ac71625d8591623ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 13 — Letter marking for hauled passenger stock[^key-600ffc35b202317ac71625d8591623ae]
+### PART 13 — Letter marking for hauled passenger stock[^c-600ffc35b202317ac71625d8591623ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -951,9 +951,9 @@ In case of a change of keeper which entails a change of VKM, the wagons concerne
 
 [^f00002]: Footnote: Commission Decision 2007/756/EC of 9 November 2007 adopting a common specification of the national vehicle register provided for under Articles 14(4) and (5) of Directives 96/48/EC and 2001/16/EC ([OJ L 305, 23.11.2007, p. 30](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.305.01.0030.01.ENG)).
 
-[^key-8b25c041f736fabeaf7c2f2159eb7171]: Textual amendment: [Arts. 3-9](https://www.legislation.gov.uk/eudn/2018/1614/article/3) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [20(2)](https://www.legislation.gov.uk/uksi/2020/318/regulation/20/2)
+[^c-8b25c041f736fabeaf7c2f2159eb7171]: Textual amendment: [Arts. 3-9](https://www.legislation.gov.uk/eudn/2018/1614/article/3) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [20(2)](https://www.legislation.gov.uk/uksi/2020/318/regulation/20/2)
 
-[^key-8373998ec7372467af9870ad16211a89]: Textual amendment: Words in [Art. 10](https://www.legislation.gov.uk/eudn/2018/1614/article/10) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [20(3)](https://www.legislation.gov.uk/uksi/2020/318/regulation/20/3)
+[^c-8373998ec7372467af9870ad16211a89]: Textual amendment: Words in [Art. 10](https://www.legislation.gov.uk/eudn/2018/1614/article/10) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [20(3)](https://www.legislation.gov.uk/uksi/2020/318/regulation/20/3)
 
 [^f00004]: Footnote: Directive (EU) 2016/797 of the European Parliament and of the Council of 11 May 2016 on the interoperability of the rail system within the European Union ([OJ L 138, 26.5.2016, p. 44](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.138.01.0044.01.ENG))’;
 
@@ -967,4 +967,4 @@ In case of a change of keeper which entails a change of VKM, the wagons concerne
 
 [^f00009]: Footnote: For NMBS/SNCB, the use of an encircled single letter B can be continued.’
 
-[^key-600ffc35b202317ac71625d8591623ae]: Textual amendment: [Annex 2](https://www.legislation.gov.uk/eudn/2018/1614/annex/2) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [20(4)](https://www.legislation.gov.uk/uksi/2020/318/regulation/20/4)
+[^c-600ffc35b202317ac71625d8591623ae]: Textual amendment: [Annex 2](https://www.legislation.gov.uk/eudn/2018/1614/annex/2) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [20(4)](https://www.legislation.gov.uk/uksi/2020/318/regulation/20/4)

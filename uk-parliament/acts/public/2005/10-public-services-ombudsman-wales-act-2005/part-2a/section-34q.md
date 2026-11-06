@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34Q. Further publicity for special reports[^key-cc96a2831599042c9f50396815a8ed9b]
+## 34Q. Further publicity for special reports[^c-cc96a2831599042c9f50396815a8ed9b]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc96a2831599042c9f50396815a8ed9b]: Textual amendment: Pts. 2A, 2B inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/2) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/3)); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-cc96a2831599042c9f50396815a8ed9b]: Textual amendment: Pts. 2A, 2B inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/2) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/3)); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)

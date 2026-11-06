@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 147C. Debtor fails to co-operate with AiB as trustee[^key-53f7b520c3920c336bb8071fc5657ee7]
+## 147C. Debtor fails to co-operate with AiB as trustee[^c-53f7b520c3920c336bb8071fc5657ee7]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53f7b520c3920c336bb8071fc5657ee7]: Textual amendment: [Ss. 147A-147C](https://www.legislation.gov.uk/asp/2016/21/section/147A) and cross-heading inserted (17.4.2025 for specified purposes, 25.6.2025 in so far as not already in force) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 12(2)](https://www.legislation.gov.uk/asp/2024/9/section/12/2), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2) (with [s. 12(4)](https://www.legislation.gov.uk/asp/2024/9/section/12/4)); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/d)
+[^c-53f7b520c3920c336bb8071fc5657ee7]: Textual amendment: [Ss. 147A-147C](https://www.legislation.gov.uk/asp/2016/21/section/147A) and cross-heading inserted (17.4.2025 for specified purposes, 25.6.2025 in so far as not already in force) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 12(2)](https://www.legislation.gov.uk/asp/2024/9/section/12/2), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2) (with [s. 12(4)](https://www.legislation.gov.uk/asp/2024/9/section/12/4)); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/d)

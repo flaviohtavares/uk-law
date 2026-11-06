@@ -22,25 +22,25 @@ summary: ''
 
 Article 20
 
-### PART 1 — MOTOR VEHICLE ACCESS ONLY RESTRICTIONS[^key-3c498ca67fa8a361dc12de2daac1ac6f]
+### PART 1 — MOTOR VEHICLE ACCESS ONLY RESTRICTIONS[^c-3c498ca67fa8a361dc12de2daac1ac6f]
 
 | *(1)*<br>*Location* | *(2)*<br>*Length* |
 | --- | --- |
 | Warren Lane | Between points 13 and 14 along the centreline shown coloured red on the traffic regulation plans (Document 2.6C). |
 
-### PART 2 — ONE WAY STREETS[^key-75cfefb17e0c7e6d61b81951c5ce88bb]
+### PART 2 — ONE WAY STREETS[^c-75cfefb17e0c7e6d61b81951c5ce88bb]
 
 | *(1)*<br>*Location* | *(2)*<br>*Length* | *(3)*<br>*Direction* |
 | --- | --- | --- |
 | Warren Lane | From point 15 to point 16 along the centreline shown coloured green on the traffic regulation plans (Document 2.6C). | South to North |
 
-### PART 3 — PROHIBITION OF ENTRY TO ABNORMAL LOADS LAYBY[^key-d98adf25fcd86044c66708f99e188368]
+### PART 3 — PROHIBITION OF ENTRY TO ABNORMAL LOADS LAYBY[^c-d98adf25fcd86044c66708f99e188368]
 
 | *(1)*<br>*Location* | *(2)*<br>*Point of Entry* |
 | --- | --- |
 | Lay-by within the roundabout at M1 Junction 24 defined with a blue line on the traffic regulation plans (Document 2.6C) | The junctions between the lay-by and the circulatory carriageway at M1 Junction 24; as shown at points 17 or 18 along the centreline shown coloured dark blue on the traffic regulation plans (Document 2.6C). |
 
-### PART 4 — BUSES AND CYCLISTS ONLY[^key-76382d510a3266a04b4f83fbf0c77950]
+### PART 4 — BUSES AND CYCLISTS ONLY[^c-76382d510a3266a04b4f83fbf0c77950]
 
 | *(1)*<br>*Location* | *(2)*<br>*Length* |
 | --- | --- |
@@ -48,10 +48,10 @@ Article 20
 
 ## Annotations
 
-[^key-3c498ca67fa8a361dc12de2daac1ac6f]: Commencement: Sch. 11 Pt. 1 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-3c498ca67fa8a361dc12de2daac1ac6f]: Commencement: Sch. 11 Pt. 1 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-75cfefb17e0c7e6d61b81951c5ce88bb]: Commencement: Sch. 11 Pt. 2 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-75cfefb17e0c7e6d61b81951c5ce88bb]: Commencement: Sch. 11 Pt. 2 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-d98adf25fcd86044c66708f99e188368]: Commencement: Sch. 11 Pt. 3 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-d98adf25fcd86044c66708f99e188368]: Commencement: Sch. 11 Pt. 3 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-76382d510a3266a04b4f83fbf0c77950]: Commencement: Sch. 11 Pt. 4 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-76382d510a3266a04b4f83fbf0c77950]: Commencement: Sch. 11 Pt. 4 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

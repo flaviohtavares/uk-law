@@ -50,53 +50,53 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement, extent and application[^key-75908c4284a2a50b637a96e25f978466]
+### 1. Citation, commencement, extent and application[^c-75908c4284a2a50b637a96e25f978466]
 
 (1) These Regulations may be cited as the Less Favoured Area Support Scheme (Scotland) Regulations 2010 and come into force on 2nd July 2010.
 
 (2) These Regulations extend to Scotland only.
 
-(3) These Regulations apply to holdings in respect of which the Scottish Ministers are the competent authority, in accordance with the Common Agricultural Policy Single Payment and Support Schemes (Integrated Administration and Control System) Regulations 2009[^f00002] or the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^key-39ddfc1b62f693accfc8154717bdcc81].
+(3) These Regulations apply to holdings in respect of which the Scottish Ministers are the competent authority, in accordance with the Common Agricultural Policy Single Payment and Support Schemes (Integrated Administration and Control System) Regulations 2009[^f00002] or the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^c-39ddfc1b62f693accfc8154717bdcc81].
 
-### 2. Interpretation[^key-3a6e82e40b9f166923df50d07dd9e229]
+### 2. Interpretation[^c-3a6e82e40b9f166923df50d07dd9e229]
 
 (1) In these Regulations, unless the context otherwise requires—
 
-- [^key-5401175d9a01c0753bcaa33d4b15aa9e]...
+- [^c-5401175d9a01c0753bcaa33d4b15aa9e]...
 - “alpaca” means any alpaca of any breed which is kept by way of business for the primary purpose of fibre production;
-- “applicable year” is to be construed in accordance with regulation 9(8);[^key-a0a0678db8a5a023d7d31f422c907361]
+- “applicable year” is to be construed in accordance with regulation 9(8);[^c-a0a0678db8a5a023d7d31f422c907361]
 - “applicant” means a person who has made an application for less favoured area support;
-- [^key-630a61d68a229861a84a77d3aa1d2397]...
+- [^c-630a61d68a229861a84a77d3aa1d2397]...
 - “authorised person” means a person who is authorised by the Scottish Ministers, either generally or specifically, to act in relation to matters arising under these Regulations;
 - “beef cow” means a female bovine animal which, in the opinion of the Scottish Ministers, is a breeding cow used primarily to produce calves for the purpose of beef production and aged 20 months or over;
 - “Council Regulation 1698/2005” means Council Regulation [(EC) No. 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) on support for rural development from the European Agricultural Fund for Rural Development (EAFRD)[^f00004];
-- “Commission Regulation[^key-d87ae5c303cb454041d90bd7f9fbb609] 1975/2006” means Commission Regulation (EC) No 1975/2006 laying down detailed rules for the implementation of Council Regulation No 1698/2005, as regards the implementation of control procedures as well as cross-compliance in respect of rural development support measures;
-- [^key-a217e53364e5728614f7fcb09ff862ff]...
+- “Commission Regulation[^c-d87ae5c303cb454041d90bd7f9fbb609] 1975/2006” means Commission Regulation (EC) No 1975/2006 laying down detailed rules for the implementation of Council Regulation No 1698/2005, as regards the implementation of control procedures as well as cross-compliance in respect of rural development support measures;
+- [^c-a217e53364e5728614f7fcb09ff862ff]...
 - “Commission Regulation 1122/2009” means Commission Regulation (EC) No. 1122/2009 laying down detailed rules for the implementation of Council Regulation (EC) No. 73/2009 as regards cross-compliance, modulation and the integrated administration and control system, under the direct support schemes for farmers provided for that Regulation, as well as for the implementation of Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards cross-compliance under the support scheme provided for the wine sector[^f00006];
-- “Commission Regulation 65/2011” means Commission Regulation ([^key-82925e95c1630253341a778ea7cb014a]EU) No. 65/2011 laying down detailed rules for the implementation of Council Regulation (EC) No. 1698/2005, as regards the implementation of control procedures as well as cross-compliance in respect of rural development support measures;
+- “Commission Regulation 65/2011” means Commission Regulation ([^c-82925e95c1630253341a778ea7cb014a]EU) No. 65/2011 laying down detailed rules for the implementation of Council Regulation (EC) No. 1698/2005, as regards the implementation of control procedures as well as cross-compliance in respect of rural development support measures;
 - “common grazing” means any right in pasture or grazing land held or to be held by the applicant, whether alone or in common with others;
-- “competent authority”—[^key-65a6236b3a90d81ec6422201a1d9b458]
+- “competent authority”—[^c-65a6236b3a90d81ec6422201a1d9b458]
   - (a) in relation to a Scheme Year commencing before 1st January 2015, has the same meaning as in regulation 3 of the Common Agricultural Policy Single Payment and Support Schemes (Integrated Administration and Control System) Regulations 2009; and
   - (b) in relation to a Scheme Year commencing on or after 1st January 2015, has the same meaning as it has in regulations 2(1) and 3 of the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014;
 - “Council Regulation 73/2009” means Council Regulation (EC) No. 73/2009 establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers, amending Regulations (EC) No. 1290/2005, (EC) No. 247/2006, (EC) No. 378/2007 and repealing Regulation (EC) No. 1782/2003[^f00007];
 - “cross border holding” means a holding in the United Kingdom which is situated partly in Scotland;
-- “cross-compliance”—[^key-bb5f22998bfc9f2bb2cd1e6d41a90ea4]
+- “cross-compliance”—[^c-bb5f22998bfc9f2bb2cd1e6d41a90ea4]
   - (a) in relation to a Scheme Year commencing before 1st January 2015, has the same meaning as it has for the purposes of Article 5 and Annex II and Article 6 and Annex III of Council Regulation 73/2009; and
   - (b) in relation to a Scheme Year commencing on or after 1st January 2015, has the same meaning as it has for the purposes of Articles 93 and 94 and Annex II of the Horizontal Regulation;
 - “dairy activity” means maintaining a dairy herd;
 - “dairy cow” means a female bovine animal which, in the opinion of the Scottish Ministers, is a breeding cow maintained primarily for the purpose of milk production and aged over 20 months;
 - “dairy ring fence area” has the meaning given in Schedule 1;
 - “designated maps” means the four maps numbered 1 to 4, each such map being marked “Map of less-favoured farming areas in Scotland”, dated 5th May 1991, signed by the Secretary of State for Scotland and deposited at the offices of the Scottish Government Rural Payments and Inspections Directorate, Saughton House, Broomhouse Drive, Edinburgh EH11 3XD;
-- “Direct Payments Regulation” means Regulation (EU) No 1307/2013 of the European Parliament and of the Council establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy and repealing Council Regulation[^key-08c47aac6e42e68369bf4697eec225e9] [(EC) No 637/2008](https://www.legislation.gov.uk/european/regulation/2008/0637) and Council Regulation [(EC) No 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073), as amended from time to time;
+- “Direct Payments Regulation” means Regulation (EU) No 1307/2013 of the European Parliament and of the Council establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy and repealing Council Regulation[^c-08c47aac6e42e68369bf4697eec225e9] [(EC) No 637/2008](https://www.legislation.gov.uk/european/regulation/2008/0637) and Council Regulation [(EC) No 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073), as amended from time to time;
 - “eligible land” shall be construed in accordance with regulation 5;
 - “farmed deer” means any deer of any species which is kept on eligible land enclosed by a deer proof barrier and kept by way of business for the primary purpose of meat production;
 - “forage area” means the area of the holding available to the applicant throughout the Scheme Year for rearing livestock including areas in shared use and areas subject to mixed cultivation but not including buildings, woods, ponds and paths;
-- “force majeure or exceptional circumstances” is to be construed in accordance with Article 2(2) of the Horizontal Regulation;[^key-da21be78256899f53b7c47632c6a0d5f]
+- “force majeure or exceptional circumstances” is to be construed in accordance with Article 2(2) of the Horizontal Regulation;[^c-da21be78256899f53b7c47632c6a0d5f]
 - “goat” means any goat (of any breed) which is kept by way of business for the primary purpose of fibre production;
-- “holding”—[^key-44161586adb8598023c532cef9778fb8]
+- “holding”—[^c-44161586adb8598023c532cef9778fb8]
   - (a) in relation to a Scheme Year commencing before 1st January 2015, has the same meaning as it has for the purposes of Article 2(b) of Council Regulation 73/2009; and
   - (b) in relation to a Scheme Year commencing on or after 1st January 2015, has the same meaning as it has in Article 4(1)(b) of the Direct Payments Regulation;
-- “Horizontal Delegated Regulation” means Commission Delegated Regulation (EU) No 640/2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system and conditions for refusal or withdrawal of payments and administrative penalties applicable to direct payments, rural development support and cross compliance, as amended from time to time;[^key-6c9ea8bfa010f3bc01a8d45237e180e1]
+- “Horizontal Delegated Regulation” means Commission Delegated Regulation (EU) No 640/2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system and conditions for refusal or withdrawal of payments and administrative penalties applicable to direct payments, rural development support and cross compliance, as amended from time to time;[^c-6c9ea8bfa010f3bc01a8d45237e180e1]
 - “Horizontal Implementing Regulation” means Commission Implementing Regulation (EU) No 809/2014 laying down rules for the application of Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance, as amended from time to time;
 - “Horizontal Regulation” means Regulation (EU) No 1306/2013 of the European Parliament and of the Council on the financing, management and monitoring of the common agricultural policy and repealing Council Regulations [(EEC) No 352/78](https://www.legislation.gov.uk/european/regulation/1978/0352), [(EC) No 165/94](https://www.legislation.gov.uk/european/regulation/1994/0165), [(EC) No 2799/98](https://www.legislation.gov.uk/european/regulation/1998/2799), [(EC) No 814/2000](https://www.legislation.gov.uk/european/regulation/2000/0814), [(EC) No 1290/2005](https://www.legislation.gov.uk/european/regulation/2005/1290) and [(EC) No 485/2008](https://www.legislation.gov.uk/european/regulation/2008/0485), as amended from time to time;
 - “key dates” for sheep means 1st January and for other livestock means 1st January and 30th June;
@@ -117,7 +117,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
   - (j) 3.33 breeding female llamas kept as part of a regular breeding herd;
 - “llama” means any llama of any breed which is kept by way of business for the primary purpose of fibre production;
 - “maximum stocking density” means 1.40 livestock units per hectare;
-- “minimum stocking density” has the meaning given in regulation[^key-0f7588fa2d7ec1f9a0e5d5d4709377cb] 9(1A), (1B) and (1C) and Part III of Schedule 4;
+- “minimum stocking density” has the meaning given in regulation[^c-0f7588fa2d7ec1f9a0e5d5d4709377cb] 9(1A), (1B) and (1C) and Part III of Schedule 4;
 - “payable area” means the area of land on which less favoured area support is to be paid, calculated in accordance with regulation 8 and, adjusted where appropriate, in accordance with regulation 10;
 - “Scheme Year” means a calendar year commencing on 1st January;
 - “Scheme 2005 payment” means the sum to which the applicant is entitled in respect of the period from 1st January 2004 to 31st December 2004 under the 2005 Regulations;
@@ -129,18 +129,18 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - “Scheme 2011 payment” means the sum to which the applicant is entitled in respect of the period from 1st January 2011 to 31st December 2011;
 - “Scheme 2012 payment” means the sum to which the applicant is entitled in respect of the period from 1st January 2012 to 31st December 2012;
 - “Scheme 2013 payment” means the sum to which the applicant is entitled in respect of the period from 1st January 2013 to 31st December 2013;
-- “[^key-05c05c7f816a5cd5e4c768349b68e847]**Scheme 2014 payment**” means the sum to which the applicant is entitled in respect of the period 1st January 2014 to 31st December 2014;
-- “Scheme 2015 payment” means the sum to which the applicant is entitled in respect of the period 1st January 2015 to 31st December 2015;[^key-78c1b72c4ec4c06d265d0d0098ccff64]
+- “[^c-05c05c7f816a5cd5e4c768349b68e847]**Scheme 2014 payment**” means the sum to which the applicant is entitled in respect of the period 1st January 2014 to 31st December 2014;
+- “Scheme 2015 payment” means the sum to which the applicant is entitled in respect of the period 1st January 2015 to 31st December 2015;[^c-78c1b72c4ec4c06d265d0d0098ccff64]
 - “Scheme 2016 payment” means the sum to which the applicant is entitled in respect of the period 1st January 2016 to 31st December 2016;
 - “Scheme 2017 payment” means the sum to which the applicant is entitled in respect of the period 1st January 2017 to 31st December 2017;
-- “Scheme 2018 payment” means the sum to which the applicant is entitled in respect of the period 1st January 2018 to 31st December 2018;[^key-a3ee6183620e1d43ccb2952384a88426]
-- “Scheme 2019 payment” means the sum to which the applicant is entitled in respect of the period 1st January 2019 to 31st December 2019;[^key-2037757816313f8edd702ddf28bca0b6]
+- “Scheme 2018 payment” means the sum to which the applicant is entitled in respect of the period 1st January 2018 to 31st December 2018;[^c-a3ee6183620e1d43ccb2952384a88426]
+- “Scheme 2019 payment” means the sum to which the applicant is entitled in respect of the period 1st January 2019 to 31st December 2019;[^c-2037757816313f8edd702ddf28bca0b6]
 - “Scheme 2020 payment” means the sum to which the applicant is entitled in respect of the period 1st January 2020 to 31st December 2020
-- “Scheme 2021 payment” means the sum to which the applicant is entitled in respect of the period from 1st January 2021 to 31st December 2021;[^key-a50e65bd2e6a50e923f4f522f66b61b5]
+- “Scheme 2021 payment” means the sum to which the applicant is entitled in respect of the period from 1st January 2021 to 31st December 2021;[^c-a50e65bd2e6a50e923f4f522f66b61b5]
 - “Scheme 2022 payment” means the sum to which the applicant is entitled in respect of the period from 1st January 2022 to 31st December 2022;
 - “Scheme 2023 payment” means the sum to which the applicant is entitled in respect of the period from 1st January 2023 to 31st December 2023;
 - “Scheme 2024 payment” means the sum to which the applicant is entitled in respect of the period from 1st January 2024 to 31st December 2024;
-- “[^key-e1d0533d4fe1cedfb3909f810611c06a]**Scheme 2025 payment**” means the sum to which the applicant is entitled in respect of the period from 1st January 2025 to 31st December 2025;
+- “[^c-e1d0533d4fe1cedfb3909f810611c06a]**Scheme 2025 payment**” means the sum to which the applicant is entitled in respect of the period from 1st January 2025 to 31st December 2025;
 - “**Scheme 2026 payment**” means the sum to which the applicant is entitled in respect of the period from 1st January 2026 to 31st December 2026;
 - “**Scheme 2027 payment**” means the sum to which the applicant is entitled in respect of the period from 1st January 2027 to 31st December 2027;
 - “**Scheme 2028 payment**” means the sum to which the applicant is entitled in respect of the period from 1st January 2028 to 31st December 2028;
@@ -148,7 +148,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - “**Scheme 2030 payment**” means the sum to which the applicant is entitled in respect of the period from 1st January 2030 to 31st December 2030;
 - “shared grazing” means land used for grazing within a field used by two or more producers;
 - “sheep” means breeding ewes or gimmers, kept by way of business for the primary purpose of meat production;
-- “single application”—[^key-1c57f7ddac244c03b1aee85de8365315]
+- “single application”—[^c-1c57f7ddac244c03b1aee85de8365315]
   - (a) in relation to a calendar year before 2015, has the meaning given in Article 2(11) of Commission Regulation 1122/2009; and
   - (b) in relation to a calendar year from 2015, means an application for direct payments (as described in Article 1 of the Direct Payments Regulation) in respect of an area-related direct payment within the meaning of Article 67(4)(b) of the Horizontal Regulation;
 - “the 2003 Regulations” means the Less Favoured Area Support Scheme (Scotland) Regulations 2003[^f00010];
@@ -159,9 +159,9 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 ## PART II — ELIGIBILITY
 
-### 3. Eligibility for payment of less favoured area support[^key-d6bae32b72b1db7179db586f212339d7]
+### 3. Eligibility for payment of less favoured area support[^c-d6bae32b72b1db7179db586f212339d7]
 
-(1) Payment of less favoured area support may be made to an applicant in respect of a Scheme Year , other than[^key-92e31fbca40525ee4285b7d459b1bbd3] a Scheme Year commencing on or after 1st January 2014[^key-bfbb53dbd316b5824cb1115989347f82] only if—
+(1) Payment of less favoured area support may be made to an applicant in respect of a Scheme Year , other than[^c-92e31fbca40525ee4285b7d459b1bbd3] a Scheme Year commencing on or after 1st January 2014[^c-bfbb53dbd316b5824cb1115989347f82] only if—
 
 - (a) subject to paragraphs (2) and (3), that applicant has given an undertaking to continue to use eligible land for a period of not less than five years from the first payment made under—
   - (i) these Regulations;
@@ -169,7 +169,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
   - (iii) the 2005 Regulations; and
 - (b) that applicant has, in the opinion of the Scottish Ministers, met the requirements of cross compliance on the applicant’s holding throughout the Scheme Year.
 
-(1A)[^key-ad7515215f41ed3703fb98a1c539a17e] Payment of less favoured area support may be made to an applicant in respect of a Scheme Year commencing on or after 1st January 2014[^key-c2b6f0a50976a425735de342e07a5706] only if that applicant has, in the opinion of the Scottish Ministers, met the requirements of cross compliance on the applicant's holding throughout that Scheme Year.
+(1A)[^c-ad7515215f41ed3703fb98a1c539a17e] Payment of less favoured area support may be made to an applicant in respect of a Scheme Year commencing on or after 1st January 2014[^c-c2b6f0a50976a425735de342e07a5706] only if that applicant has, in the opinion of the Scottish Ministers, met the requirements of cross compliance on the applicant's holding throughout that Scheme Year.
 
 (2) An applicant may be released from the undertaking referred to in paragraph (1)(a)—
 
@@ -179,7 +179,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (3) In the event that the applicant has ceased farming and the person to whom all or part of the holding has been transferred does not agree to be bound by the undertaking referred to in paragraph (1)(a), the Scottish Ministers may, if satisfied that the applicant has, at the time of the cessation of farming, honoured a significant proportion of the undertaking, release the applicant from that undertaking.
 
-### 4. Payment of less favoured area support[^key-5f3ecf9cf36389c20547d6c371b9546a]
+### 4. Payment of less favoured area support[^c-5f3ecf9cf36389c20547d6c371b9546a]
 
 The Scottish Ministers may, in respect of a Scheme Year, pay less favoured area support to an applicant who in their opinion—
 
@@ -188,9 +188,9 @@ The Scottish Ministers may, in respect of a Scheme Year, pay less favoured area 
   - (ii) for a period or periods totalling not less than 183 days during the Scheme Year; and
 - (b) is an active farmer within the meaning of Article 9 of the Direct Payments Regulation.
 
-### 5. Eligible land[^key-370082ac9d752136f0ff05062b456412]
+### 5. Eligible land[^c-370082ac9d752136f0ff05062b456412]
 
-(1)[^key-9829e0c0c827e8f4490d46e8df164467] Eligible land comprises the number of hectares of forage area in a less favoured area, as declared by the applicant in a single application in respect of the Scheme Year to which payment relates, with—
+(1)[^c-9829e0c0c827e8f4490d46e8df164467] Eligible land comprises the number of hectares of forage area in a less favoured area, as declared by the applicant in a single application in respect of the Scheme Year to which payment relates, with—
 
 - (a) a less favoured area grazing category—
   - (i) attributed to it by the Scottish Ministers prior to 1st January 2007; or
@@ -201,11 +201,11 @@ as declared by the applicant in a single application in respect of the Scheme Ye
 
 (2) Eligible land includes land in respect of which the applicant has a right of use pursuant to a short term let, seasonal grazing or common grazing or other such arrangement.
 
-(3)[^key-b79d66fb3c8b605f8a0d96ca32c38c9a] If an application for less favoured area support relates to land situated outwith the dairy ring fence area and all or part of the land was used for dairy activity in the applicable year, the Scottish Ministers shall determine the area of ineligible land attributable to dairy activity.
+(3)[^c-b79d66fb3c8b605f8a0d96ca32c38c9a] If an application for less favoured area support relates to land situated outwith the dairy ring fence area and all or part of the land was used for dairy activity in the applicable year, the Scottish Ministers shall determine the area of ineligible land attributable to dairy activity.
 
 (4) The ineligible area referred to in paragraph (3) shall be deducted from the eligible area identified in accordance with paragraph (1).
 
-### 6. Transfer of a holding[^key-288e097d0f655720a67172e7f3e44ba4]
+### 6. Transfer of a holding[^c-288e097d0f655720a67172e7f3e44ba4]
 
 (1) A decision by the Scottish Ministers to make a payment under regulation 4—
 
@@ -224,9 +224,9 @@ as declared by the applicant in a single application in respect of the Scheme Ye
 
 ## PART III — CALCULATION OF LESS FAVOURED AREA SUPPORT
 
-### 7. Amount of less favoured area support[^key-bdfb40447b3a44b48162944d8e99ac95]
+### 7. Amount of less favoured area support[^c-bdfb40447b3a44b48162944d8e99ac95]
 
-(1) Subject to paragraph (2), regulation 12 and regulation 12A[^key-584d73297fce3ffe8e93836fc505e2fa], the amount of less favoured area support is calculated in accordance with the following formula:—
+(1) Subject to paragraph (2), regulation 12 and regulation 12A[^c-584d73297fce3ffe8e93836fc505e2fa], the amount of less favoured area support is calculated in accordance with the following formula:—
 
 [formula: see source](https://www.legislation.gov.uk/ssi/2010/273)
 
@@ -243,9 +243,9 @@ Where—
   - (ii) *R* is the rate of payment for each type of grazing category determined in accordance with regulation 11; and
 - (b) the total amount of less favoured area support payable is the sum of the calculations in respect of each grazing category.
 
-### 8. Determination of Unadjusted Payable Area[^key-6ac53de31a798c483ae4a85913ba6e2e]
+### 8. Determination of Unadjusted Payable Area[^c-6ac53de31a798c483ae4a85913ba6e2e]
 
-(1) Subject to regulation 8A, the unadjusted payable area[^key-0788f44c7b68f0928b7132986ae06a48] is the total of the areas of eligible land of the applicant in each grazing category, calculated in accordance with the following formula—
+(1) Subject to regulation 8A, the unadjusted payable area[^c-0788f44c7b68f0928b7132986ae06a48] is the total of the areas of eligible land of the applicant in each grazing category, calculated in accordance with the following formula—
 
 [formula: see source](https://www.legislation.gov.uk/ssi/2010/273)
 
@@ -262,10 +262,10 @@ Where—
 (4) For the purposes of paragraph (3), the “base year stocking density” for each field or shared grazing is either—
 
 - (a) the stocking density that was determined for that field or shared grazing by paragraphs (4) to (12) of regulation 9 of the 2003 Regulations following upon an application for less favoured area support under those Regulations; or
-- (b) where no stocking density was determined under regulation 9 of the 2003 Regulations for a field or shared grazing, the stocking density figure determined by the Scottish Ministers under regulation 9(5) of the 2005 Regulations for that part of the land of the applicant on or before 31st December 2006; or[^key-00b20a596b9540b5e539cb0288af37fd]
+- (b) where no stocking density was determined under regulation 9 of the 2003 Regulations for a field or shared grazing, the stocking density figure determined by the Scottish Ministers under regulation 9(5) of the 2005 Regulations for that part of the land of the applicant on or before 31st December 2006; or[^c-00b20a596b9540b5e539cb0288af37fd]
 - (c) where no stocking density was determined for a field or shared grazing under regulation 9 of the 2003 Regulations or under regulation 9(5) of the 2005 Regulations, the stocking density figure determined for the applicant in accordance with regulation 9(4) and Parts I and II of Schedule 4.
 
-### 8A. Adjustment of the area of eligible land for a Scheme Year commencing on or after 1st January 2019[^key-781afa1e7a43ccdf3bfdf867a0745dc8]
+### 8A. Adjustment of the area of eligible land for a Scheme Year commencing on or after 1st January 2019[^c-781afa1e7a43ccdf3bfdf867a0745dc8]
 
 (1) Paragraph (2) applies for the purpose of the calculation in regulation 8(1) of the area of eligible land (in respect of a Scheme Year commencing on or after 1st January 2019.
 
@@ -281,11 +281,11 @@ Where—
 
 the Scottish Ministers must apply that reduction in eligible land proportionately to the total of the eligible land in each grazing category for the purpose of the calculation in regulation 8(1).
 
-### 9. Stocking density outwith the minimum and maximum stocking density parameters[^key-4317dcbf92715d9aa572319d7733167c]
+### 9. Stocking density outwith the minimum and maximum stocking density parameters[^c-4317dcbf92715d9aa572319d7733167c]
 
 (1) The provisions of this regulation apply where the stocking density calculated in accordance with paragraph (4) and Parts I and II of Schedule 4 is either less than the minimum stocking density or greater than the maximum stocking density.
 
-(1A)[^key-b405cc271300f7fc0e42673b9f79f369] Subject to paragraphs (1B) and (1C), the minimum stocking density is the entry in the second column in Part III of Schedule 4 corresponding to the grazing category in the first column of that Part of that Schedule.
+(1A)[^c-b405cc271300f7fc0e42673b9f79f369] Subject to paragraphs (1B) and (1C), the minimum stocking density is the entry in the second column in Part III of Schedule 4 corresponding to the grazing category in the first column of that Part of that Schedule.
 
 (1B) Where an applicant has eligible land which comprises land falling into more than one grazing category (as determined for the purposes of regulation 8), the minimum stocking density is the sum (to two decimal places) of the minimum stocking densities for each grazing category calculated in accordance with paragraph (1C).
 
@@ -313,7 +313,7 @@ Where—
 - *M* is the maximum stocking density; and
 - *S* is the stocking density calculated for the applicant in accordance with paragraph (4) and Parts I and II of Schedule 4.
 
-(4)[^key-2c4d9aa4583f7d442f739060000e6e58] For the purpose of regulation 5(1)(a)(ii), regulation 8(4)(c) and paragraphs (1), (2) and (3), the stocking density is to be calculated in accordance with Parts I and II of Schedule 4, using—
+(4)[^c-2c4d9aa4583f7d442f739060000e6e58] For the purpose of regulation 5(1)(a)(ii), regulation 8(4)(c) and paragraphs (1), (2) and (3), the stocking density is to be calculated in accordance with Parts I and II of Schedule 4, using—
 
 - (a) livestock units based on the number of livestock which the Scottish Ministers determine were maintained by the applicant on eligible land in the applicable year; and
 - (b) the historic land area.
@@ -327,7 +327,7 @@ Where—
 
 the Scottish Ministers must apply that reduction in eligible land proportionately to the total of the eligible land in each grazing category for the purpose of the calculation in regulation 8(1).
 
-(7)[^key-09644036a88f1abfc5f20d2d79bb9f88] Where the stocking density calculated in accordance with paragraph (4) was less than the minimum stocking density due to force majeure or exceptional circumstances, the applicant may request that the Scottish Ministers determine the stocking density to be used for the purposes of the formula at paragraph (2).
+(7)[^c-09644036a88f1abfc5f20d2d79bb9f88] Where the stocking density calculated in accordance with paragraph (4) was less than the minimum stocking density due to force majeure or exceptional circumstances, the applicant may request that the Scottish Ministers determine the stocking density to be used for the purposes of the formula at paragraph (2).
 
 (8) For the purposes of this regulation and Parts I and II of Schedule 4—
 
@@ -350,7 +350,7 @@ the Scottish Ministers must apply that reduction in eligible land proportionatel
   - (ii) declare land comprising hectares of forage in a less favoured area; and
 - (b) in respect of whom, no stocking density was calculated by the Scottish Ministers for the purposes of a payment of less favoured area support to that applicant in relation to any Scheme Year commencing on or after 1st January 2010 and ending on or before 31st December 2014.
 
-### 9A. Calculation of less favoured area support following the transfer of a holding[^key-f89c06a780ce5dda3e0a0348c19a6dee]
+### 9A. Calculation of less favoured area support following the transfer of a holding[^c-f89c06a780ce5dda3e0a0348c19a6dee]
 
 (1) This paragraph applies—
 
@@ -391,9 +391,9 @@ the Scottish Ministers must apply that reduction in eligible land proportionatel
 - (a) the person who transfers the holding or part of the holding who, prior to the transfer, was granted less favoured area support in relation to that holding or that part of the holding in respect of any Scheme Year commencing on or after 1st January 2010; or
 - (b) a person other than a person mentioned in sub-paragraph (a) who, prior to the transfer, was granted less favoured area support in relation to that holding or that part of the holding in respect of any Scheme Year commencing on or after 1st January 2010.
 
-### 10. Enterprise mix[^key-948e548281615a505429b4e4e3e1f56c]
+### 10. Enterprise mix[^c-948e548281615a505429b4e4e3e1f56c]
 
-(1) Subject to paragraphs[^key-dc396a48a17323f25e71bd13ed0e2076] (2), (3), (4) and (5), where at least 10% of the livestock units of the applicant, calculated in accordance with regulation 9(4) and Part I of Schedule 4, are cattle, the unadjusted payable area calculated in accordance with regulation 8 is to be adjusted in accordance with this regulation and the following formula—
+(1) Subject to paragraphs[^c-dc396a48a17323f25e71bd13ed0e2076] (2), (3), (4) and (5), where at least 10% of the livestock units of the applicant, calculated in accordance with regulation 9(4) and Part I of Schedule 4, are cattle, the unadjusted payable area calculated in accordance with regulation 8 is to be adjusted in accordance with this regulation and the following formula—
 
 [formula: see source](https://www.legislation.gov.uk/ssi/2010/273)
 
@@ -408,9 +408,9 @@ Where—
 - (a) the number of sheep used to calculate livestock units for the purposes of the Scheme 2006 payment; or
 - (b) where an applicant did not receive a Scheme 2006 payment, the number of sheep used to calculate livestock units for the purposes of the Scheme 2005 payment,
 
-and the hectare multiplier contained in the second column of Schedule 8, corresponding to the proportion of livestock units (calculated in accordance with regulation 9(4) and Part I of Schedule 4) which are cattle contained in the first column of Schedule 8, is higher than the hectare multiplier established for the purposes of the Scheme 2006 payment or, the Scheme 2005 payment as appropriate, then that hectare multiplier can only apply for the purpose of determining a Scheme payment in the period from 2010 to[^key-4417d234a2c0adeb3fc3a0d9150730bf] 2030[^key-405960ed35b8f5c010bc4e06ee38dae0] if the number of cattle used to calculate livestock units for the purposes of regulation 9(4) and Part I of Schedule 4 is greater than the number of cattle used to calculate livestock units for the purposes of the Scheme 2006 payment or the Scheme 2005 payment as appropriate.
+and the hectare multiplier contained in the second column of Schedule 8, corresponding to the proportion of livestock units (calculated in accordance with regulation 9(4) and Part I of Schedule 4) which are cattle contained in the first column of Schedule 8, is higher than the hectare multiplier established for the purposes of the Scheme 2006 payment or, the Scheme 2005 payment as appropriate, then that hectare multiplier can only apply for the purpose of determining a Scheme payment in the period from 2010 to[^c-4417d234a2c0adeb3fc3a0d9150730bf] 2030[^c-405960ed35b8f5c010bc4e06ee38dae0] if the number of cattle used to calculate livestock units for the purposes of regulation 9(4) and Part I of Schedule 4 is greater than the number of cattle used to calculate livestock units for the purposes of the Scheme 2006 payment or the Scheme 2005 payment as appropriate.
 
-(3)[^key-e3de70898af1225921076a0f82547ee1] Where the hectare multiplier contained in the second column of Schedule 8 to be used for the purposes of the formula in paragraph (1) is, in the opinion of the applicant, unrepresentative of the usual enterprise mix of the applicant, as a result of force majeure or exceptional circumstances, the applicant may request that the Scottish Ministers determine that either of the hectare multipliers contained in the second column of Schedule 8 be used for the purposes of the formula in paragraph (1).
+(3)[^c-e3de70898af1225921076a0f82547ee1] Where the hectare multiplier contained in the second column of Schedule 8 to be used for the purposes of the formula in paragraph (1) is, in the opinion of the applicant, unrepresentative of the usual enterprise mix of the applicant, as a result of force majeure or exceptional circumstances, the applicant may request that the Scottish Ministers determine that either of the hectare multipliers contained in the second column of Schedule 8 be used for the purposes of the formula in paragraph (1).
 
 (4) Where less than 10% of the livestock units of the applicant calculated in accordance with regulation 9(4) and Parts I and II of Schedule 4 are cattle but that is, in the opinion of the applicant, the result of force majeure or exceptional circumstances, the applicant may request that the Scottish Ministers treat the application as if paragraph (1) applied.
 
@@ -419,11 +419,11 @@ and the hectare multiplier contained in the second column of Schedule 8, corresp
 - (a) treat the application as if paragraph (1) applied; and
 - (b) determine that either of the hectare multipliers contained in the second column of Schedule 8 be used for the purposes of the formula in paragraph (1).
 
-### 11. Rate of payment of less favoured area support[^key-b5fc0a6d7f380b739165855d16e8bd0f]
+### 11. Rate of payment of less favoured area support[^c-b5fc0a6d7f380b739165855d16e8bd0f]
 
-(1) Where for the purposes of regulation 8, the grazing category of land, as specified in Schedule 3, is A or B, the maximum rate of payment[^key-d88024ee5107e2546a016437208fc336] of less favoured area support for the purposes of regulation 7 is the rate per hectare of the unadjusted payable area set out in the entry in the second, third or fourth column[^key-a079c24a1a0274a87b9afaaf750bdf04] in Part I (More Disadvantaged Land) of Schedule 5 corresponding to the Scheme Year and the[^key-a9d96dbbfd493604224612f74d832289] fragility category in the first column of that Part of that Schedule applicable to the applicant in terms of paragraph (3).
+(1) Where for the purposes of regulation 8, the grazing category of land, as specified in Schedule 3, is A or B, the maximum rate of payment[^c-d88024ee5107e2546a016437208fc336] of less favoured area support for the purposes of regulation 7 is the rate per hectare of the unadjusted payable area set out in the entry in the second, third or fourth column[^c-a079c24a1a0274a87b9afaaf750bdf04] in Part I (More Disadvantaged Land) of Schedule 5 corresponding to the Scheme Year and the[^c-a9d96dbbfd493604224612f74d832289] fragility category in the first column of that Part of that Schedule applicable to the applicant in terms of paragraph (3).
 
-(2) Where, for the purposes of regulation 8, the grazing category of land, as specified in Schedule 3, is C or D, the maximum rate of payment[^key-e7775e302df9571e2d3491f766228fc1] of less favoured area support for the purposes of regulation 7 is the rate per hectare of the unadjusted payable area set out in the entry in the second, third or fourth column[^key-f111cbd1610237a08f05236f4e9d263b] in Part II (Less Disadvantaged Land) of Schedule 5 corresponding to the Scheme Year and the[^key-281d743971fae15a9994896fc689c847] fragility category in the first column of that Part of that Schedule applicable to the applicant in terms of paragraph (3).
+(2) Where, for the purposes of regulation 8, the grazing category of land, as specified in Schedule 3, is C or D, the maximum rate of payment[^c-e7775e302df9571e2d3491f766228fc1] of less favoured area support for the purposes of regulation 7 is the rate per hectare of the unadjusted payable area set out in the entry in the second, third or fourth column[^c-f111cbd1610237a08f05236f4e9d263b] in Part II (Less Disadvantaged Land) of Schedule 5 corresponding to the Scheme Year and the[^c-281d743971fae15a9994896fc689c847] fragility category in the first column of that Part of that Schedule applicable to the applicant in terms of paragraph (3).
 
 (3) For the purposes of paragraphs (1) and (2), the fragility category applicable to the applicant is determined by the code of the parish in which the main farm of the applicant is situated as set out in Schedule 6.
 
@@ -431,13 +431,13 @@ and the hectare multiplier contained in the second column of Schedule 8, corresp
 
 (5) For the purposes of this regulation, “main farm code” means the code attributed by the Scottish Ministers to the farm which the applicant considers is the applicant’s main farm for the purposes of the applicant’s single application.
 
-(6)[^key-a62b2d2337b18656d5874eabd6d160c3] This regulation applies subject to regulation 12A.
+(6)[^c-a62b2d2337b18656d5874eabd6d160c3] This regulation applies subject to regulation 12A.
 
-### 12. Minimum payment[^key-03052a740972e692c91a58498be0b9cb]
+### 12. Minimum payment[^c-03052a740972e692c91a58498be0b9cb]
 
-The minimum amount of less favoured area support payable by the Scottish Ministers under these Regulations (prior to the deduction of any penalty under Commission Regulation 65/2011 or the Horizontal Delegated Regulation[^key-bf5cc883654abb52c5072dd0981b61f4]) is £385 in respect of a Scheme Year.
+The minimum amount of less favoured area support payable by the Scottish Ministers under these Regulations (prior to the deduction of any penalty under Commission Regulation 65/2011 or the Horizontal Delegated Regulation[^c-bf5cc883654abb52c5072dd0981b61f4]) is £385 in respect of a Scheme Year.
 
-### 12A. Reduction of payments[^key-b3dc463a2cc080f0f34a060f96984936]
+### 12A. Reduction of payments[^c-b3dc463a2cc080f0f34a060f96984936]
 
 (1) This regulation applies where in relation to applications for less favoured area support approved in respect of a Scheme Year commencing on or after 1st January 2015, the Scottish Ministers are of the opinion that the financial resources available are insufficient to make payments of less favoured area support to applicants at the rates calculated in accordance with these Regulations.
 
@@ -450,13 +450,13 @@ The minimum amount of less favoured area support payable by the Scottish Ministe
 
 ## PART IV — ENFORCEMENT
 
-### 13. Powers of authorised persons[^key-9790eab5ac2a0e4f4fff88799e4c9a99]
+### 13. Powers of authorised persons[^c-9790eab5ac2a0e4f4fff88799e4c9a99]
 
 (1) An authorised person may, at all reasonable hours and on producing if so required a duly authenticated document showing the authority of that person, exercise the powers specified in this regulation for the purposes of—
 
-- (a)[^key-7e31ec7a1f7532535f6f8e32cc8d18bc] verification of the accuracy of an application by carrying out administrative and periodic checks which are required under—
+- (a)[^c-7e31ec7a1f7532535f6f8e32cc8d18bc] verification of the accuracy of an application by carrying out administrative and periodic checks which are required under—
   - (i) Article 11 of Commission Regulation 65/2011;
-  - (ii) Articles 12 and 20 of Commission Regulation 65/2011 as it had effect immediately before IP completion day[^key-a929a893d7fb58a7e4c44cde2c7df1c2]; or
+  - (ii) Articles 12 and 20 of Commission Regulation 65/2011 as it had effect immediately before IP completion day[^c-a929a893d7fb58a7e4c44cde2c7df1c2]; or
   - (iii) Titles III and V of the Horizontal Delegated Regulation; or
 - (b) ascertaining whether an offence under these Regulations has been or is being committed, and in doing so may be accompanied by a person assigned to assist the authorised person for those purposes.
 
@@ -472,20 +472,20 @@ The minimum amount of less favoured area support payable by the Scottish Ministe
 
 (4) An authorised person may require any records mentioned in paragraph (3)(c) which are kept by means of a computer or any associated apparatus or material to be produced in a visible and legible form in which they may be taken away.
 
-### 14. Assistance to authorised persons[^key-3adfae2e614a2804884136e710187d38]
+### 14. Assistance to authorised persons[^c-3adfae2e614a2804884136e710187d38]
 
 An applicant, employee or agent of an applicant or any person having, or appearing to have, charge of animals on the land must give to an authorised person such assistance as the authorised person may reasonably request so as to enable that person to exercise any power conferred by regulation 13.
 
-### 15. Withholding or recovery of less favoured area support[^key-f1f157c91629f4c7969212ce23bffce6]
+### 15. Withholding or recovery of less favoured area support[^c-f1f157c91629f4c7969212ce23bffce6]
 
 The Scottish Ministers may withhold or recover the whole or any part of any payment of less favoured area support payable or paid to an applicant in any of the following circumstances—
 
 - (a) where the applicant fails to comply with the terms of an undertaking given by that applicant pursuant to regulation 3(1)(a) from which the applicant has not been released under regulation 3(2) or (3);
 - (b) where the applicant, or an employee or agent of the applicant intentionally obstructs an authorised person in exercise of the powers under regulation 13, or fails without reasonable excuse to comply with a requirement or request made by an authorised person under regulation 13 or 14;
 - (c) where, in the opinion of the Scottish Ministers, the applicant has failed to act in accordance with cross compliance on or in relation to the holding; or
-- (d)[^key-a4445f1a7264e2cd2bb9cef00a3284f8] where, in the opinion of the Scottish Ministers, the applicant has not actively farmed eligible land in accordance with regulation 4 or, in relation to a Scheme Year commencing on or after 1st January 2015, the applicant is not an active farmer within the meaning of Article 9 of the Direct Payments Regulation[^key-5aac5e19ea5a5117eed5cc7d78e3d451].
+- (d)[^c-a4445f1a7264e2cd2bb9cef00a3284f8] where, in the opinion of the Scottish Ministers, the applicant has not actively farmed eligible land in accordance with regulation 4 or, in relation to a Scheme Year commencing on or after 1st January 2015, the applicant is not an active farmer within the meaning of Article 9 of the Direct Payments Regulation[^c-5aac5e19ea5a5117eed5cc7d78e3d451].
 
-### 16. Guidance[^key-399753d6e3e2fa4c9dde3990bf739bc7]
+### 16. Guidance[^c-399753d6e3e2fa4c9dde3990bf739bc7]
 
 (1) The Scottish Ministers may publish guidance from time to time on—
 
@@ -494,7 +494,7 @@ The Scottish Ministers may withhold or recover the whole or any part of any paym
 
 (2) The Scottish Ministers must have regard to any guidance published under paragraph (1) when performing their functions under these Regulations.
 
-### 17. Rate of interest[^key-1ee7cfef550525bb2aeb177bc4b83991]
+### 17. Rate of interest[^c-1ee7cfef550525bb2aeb177bc4b83991]
 
 (1) In relation to a Scheme Year commencing before 1st January 2015, for the purposes of Article 80 of Commission Regulation 1122/2009, interest is to be charged at the rate of one percentage point above the sterling three month London Interbank Offered Rate on a day-to-day basis for the period specified in that Article.
 
@@ -505,11 +505,11 @@ The Scottish Ministers may withhold or recover the whole or any part of any paym
 - (a) except where sub-paragraph (b) applies, the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate being the rate at which the Bank is willing to enter into transactions for providing short-term liquidity in the markets; or
 - (b) if an order under section 19 (reserve powers) of the Bank of England Act 1998 is in force, an equivalent determined by the Treasury under that section.
 
-### 18. Cross border holdings[^key-f3943f8c25ef04c8a11ddee6365f9bde]
+### 18. Cross border holdings[^c-f3943f8c25ef04c8a11ddee6365f9bde]
 
 Schedule 7 applies to agency arrangements and to cross border holdings.
 
-### 19. Offences[^key-a2bd9971847253ac4726aa0a3dc3fb59]
+### 19. Offences[^c-a2bd9971847253ac4726aa0a3dc3fb59]
 
 (1) Any person who, for the purposes of obtaining for the benefit of that or any other person part of, or the whole of, a payment of less favoured area support under these Regulations, knowingly or recklessly makes a statement which is false in any material particular, is guilty of an offence.
 
@@ -517,19 +517,19 @@ Schedule 7 applies to agency arrangements and to cross border holdings.
 
 (3) Any person who without reasonable excuse fails to comply with a requirement made under regulation 13 or request under regulation 14 is guilty of an offence.
 
-### 20. Penalties[^key-a5e50504e596cefc9b339ab3c7192bae]
+### 20. Penalties[^c-a5e50504e596cefc9b339ab3c7192bae]
 
 (1) A person guilty of an offence under regulation 19(1) or (2) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
 (2) A person guilty of an offence under regulation 19(3) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 21. Time limit for prosecutions[^key-0b14a2ba8b6748c2eec0a2fb276d4e00]
+### 21. Time limit for prosecutions[^c-0b14a2ba8b6748c2eec0a2fb276d4e00]
 
 (1) Summary proceedings for an offence under regulation 19 may be commenced within the period of 12 months from the date on which the offence was committed.
 
 (2) Subsection (3) of section 136 of the Criminal Procedure (Scotland) Act 1995 (date of commencement of proceedings)[^f00015] applies for the purposes of this regulation as it applies for the purposes of that section.
 
-### 22. Offences by bodies corporate[^key-3d160aeb4ba60a2602292c1c213b12c3]
+### 22. Offences by bodies corporate[^c-3d160aeb4ba60a2602292c1c213b12c3]
 
 (1) Where—
 
@@ -550,7 +550,7 @@ the individual as well as the offender is guilty of the offence and is liable to
 
 ## PART V — MISCELLANEOUS
 
-### 23. Appeal against decision as to eligibility of holding[^key-f0e5f182b49ab87056feb3e6432e99ea]
+### 23. Appeal against decision as to eligibility of holding[^c-f0e5f182b49ab87056feb3e6432e99ea]
 
 (1) An applicant may, no later than 60 days following the date of intimation of the Scottish Ministers’ decision as to the eligibility of the holding under regulation 5, make an application in writing to the Scottish Ministers to have that decision reviewed by persons appointed by the Scottish Ministers for that purpose.
 
@@ -564,7 +564,7 @@ the individual as well as the offender is guilty of the offence and is liable to
 
 (6) The Scottish Ministers may make such payment, by way of fee or reimbursement of expenses, to any such persons appointed under paragraph (1), as appears to them to be appropriate.
 
-### 24. Review[^key-7e418a65879f9c058c9cccb443673707]
+### 24. Review[^c-7e418a65879f9c058c9cccb443673707]
 
 (1) An applicant may apply to the Scottish Ministers in writing for review of the determination referred to in regulation 23(4).
 
@@ -582,11 +582,11 @@ the individual as well as the offender is guilty of the offence and is liable to
 
 (6) The person appointed is entitled to require the reasonable costs of the review to be paid by such party as that person may direct, and the person appointed must determine the amount of such costs.
 
-### 25. Amendment of the Rural Payments (Appeals) (Scotland) Regulations 2009[^key-2363194e82c99f7c94e7bd0789e3a3c7]
+### 25. Amendment of the Rural Payments (Appeals) (Scotland) Regulations 2009[^c-2363194e82c99f7c94e7bd0789e3a3c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Revocation and savings provisions[^key-15eac1c666317e6339cdc82254ccd137]
+### 26. Revocation and savings provisions[^c-15eac1c666317e6339cdc82254ccd137]
 
 (1) Subject to the savings referred to in paragraph (2), the 2007 Regulations (except regulation 26(2)), the Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2008[^f00018] and the Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2009[^f00019] are revoked.
 
@@ -600,11 +600,11 @@ St Andrew’s House,
 
 Edinburgh
 
-## SCHEDULE 1 — MEANING OF DAIRY RING FENCE AREA[^key-54bdc207d3a2b4b8e25ffc93b9003050]
+## SCHEDULE 1 — MEANING OF DAIRY RING FENCE AREA[^c-54bdc207d3a2b4b8e25ffc93b9003050]
 
 Regulations 2(1) and 5(3)
 
-[^key-54bdc207d3a2b4b8e25ffc93b9003050]
+[^c-54bdc207d3a2b4b8e25ffc93b9003050]
 
 - “Dairy ring fence area” means—
   - (a) the islands of Shetland;
@@ -615,7 +615,7 @@ Regulations 2(1) and 5(3)
 
     Starting in the North on the shore of Loch Striven at point national grid reference NS/095708; then in an easterly direction along the Ministry of Defence boundary to point national grid reference NS/098708; then in a northerly direction along the Ministry of Defence boundary to point national grid reference NS/097711; then in a north-easterly direction along the Ministry of Defence boundary to point national grid reference NS/098711; then in a northerly direction along the Ministry of Defence boundary to point national grid reference NS/098712; then in a north north‑easterly direction along the Ministry of Defence boundary to point national grid reference NS/099713; then in a north-easterly direction to point national grid reference NS/103714; then in a south-easterly direction to point national grid reference NS/107712; then in a easterly direction along the forestry fence to point national grid reference NS/111712; then in a southerly direction along the forestry fence to point national grid reference NS/110708; then in a south-easterly direction along the forestry fence to point national grid reference NS/112707; then in a south south-easterly direction along the forestry fence to point national grid reference NS/113704; then in a south-easterly direction to point national grid reference NS/114704; then in a southerly direction along the forestry fence to point national grid reference NS/114699; then in a south-westerly direction along the forestry fence to point national grid reference NS/112699; then in a south south‑westerly direction along the forestry fence to point national grid reference NS/11163 where the forestry fence meets the A815; then in a southerly direction along the A815 to point national grid reference NS/112689; then in a north-easterly direction along the forestry fence to point national grid reference NS/114690; then in an east south-easterly direction along the forestry fence to point national grid reference NS/117688; then in a southerly direction along the forestry fence to point national grid reference NS/116685; then in a westerly direction to point national grid reference NS/114685 where the forestry fence meets a track; then in a southerly direction down the track to point national grid reference NS/114683; then in a westerly direction down a burn to point national grid reference NS/112682 where the burn meets the A815; then in a southerly direction down the A815 to point national grid reference NS/111679; then in a westerly direction to point national grid reference NS/110679 at the high water mark; then in a westerly direction for approximately 1200 metres which then turns in a northerly direction all along the shore back to the starting point of national grid reference NS/095708.
 
-## SCHEDULE 2 — LAND USE CODES ELIGIBLE FOR LESS FAVOURED AREA SUPPORT SCHEME[^key-c872533e5b51e260ba0d116ecb9774e4]
+## SCHEDULE 2 — LAND USE CODES ELIGIBLE FOR LESS FAVOURED AREA SUPPORT SCHEME[^c-c872533e5b51e260ba0d116ecb9774e4]
 
 Regulation 5(1)
 
@@ -636,9 +636,9 @@ Regulation 5(1)
 | Rotational grass year 5 | TGRS5 |
 | Open woodland (grazed) | WDG |
 | Rough grazing | RGR |
-| Chicory for stock feed[^key-2a736c9c3aaa5c5b4188afc077b15d57] | CHIC |
+| Chicory for stock feed[^c-2a736c9c3aaa5c5b4188afc077b15d57] | CHIC |
 
-## SCHEDULE 3 — GRAZING CATEGORY: HECTARE VALUES[^key-907fd93fe2ef9f73d209cc1a587f5d25]
+## SCHEDULE 3 — GRAZING CATEGORY: HECTARE VALUES[^c-907fd93fe2ef9f73d209cc1a587f5d25]
 
 Regulations 8(2), 8(3), 11(2) and 11(3)
 
@@ -651,9 +651,9 @@ Regulations 8(2), 8(3), 11(2) and 11(3)
 
 ## SCHEDULE 4 — LIVESTOCK UNITS AND STOCKING DENSITY
 
-Regulations 2(1), 9(1), 9(1A), 9(1C)[^key-aa2b30a7ff0fc83449f2590231ddb870], 9(2), 9(3),9(4), 9(8), 10(1) and 10(2)
+Regulations 2(1), 9(1), 9(1A), 9(1C)[^c-aa2b30a7ff0fc83449f2590231ddb870], 9(2), 9(3),9(4), 9(8), 10(1) and 10(2)
 
-### PART I — CALCULATION OF LIVESTOCK UNITS[^key-44769fa3511fe1fb9cfd27a7097c643a]
+### PART I — CALCULATION OF LIVESTOCK UNITS[^c-44769fa3511fe1fb9cfd27a7097c643a]
 
 For the purposes of part II of this Schedule, the total LFASS Livestock Units is calculated in accordance with the formula—
 
@@ -673,7 +673,7 @@ Where—
 - I is, in the case of an applicant who maintains a dairy herd in the dairy ring fence area, the number of dairy cows over 24 months of age multiplied by a factor of 1.0;
 - J is, in the case of an applicant who maintains a dairy herd in the dairy ring fence area, the number of dairy cows over 20 months and up to and including 24 months of age multiplied by a factor of 0.6.
 
-### PART II — CALCULATION OF STOCKING DENSITY[^key-7a2d0c9caf25cf56d24e1d763a8f441e]
+### PART II — CALCULATION OF STOCKING DENSITY[^c-7a2d0c9caf25cf56d24e1d763a8f441e]
 
 The stocking density is calculated in accordance with the formula—
 
@@ -685,7 +685,7 @@ Where—
 - K is the total LFASS Livestock Units calculated in accordance with part I of this Schedule;
 - L is the total number of hectares comprising the historic land area.
 
-### PART III — MINIMUM STOCKING DENSITY[^key-070834e6db90248130356ff97c44951d]
+### PART III — MINIMUM STOCKING DENSITY[^c-070834e6db90248130356ff97c44951d]
 
 | Grazing Category | Minimum stocking density per hectare |
 | --- | --- |
@@ -698,11 +698,11 @@ Where—
 
 Regulations 11(2) and 11(3)
 
-### PART I — MORE DISADVANTAGED LAND[^key-d1114d703ded242b5d501ccf53935759]
+### PART I — MORE DISADVANTAGED LAND[^c-d1114d703ded242b5d501ccf53935759]
 
 | FRAGILITY CATEGORY | RATE | RATE | RATE |
 | --- | --- | --- | --- |
-|  | Scheme 2011 payment, Scheme 2012 payment, Scheme 2013 payment, Scheme 2014 payment, Scheme 2015 payment, Scheme 2016 payment, Scheme 2017 payment, Scheme 2018 payment,[^key-ef18dc423d8b952c92be893ba5db7a0e] Scheme 2021 payment, Scheme 2022 payment, Scheme 2023 payment, Scheme 2024 payment[^key-beb9328a3a735f8c436a26754caabbcc] Scheme 2025 payment, Scheme 2026 payment, Scheme 2027 payment, Scheme 2028 payment, Scheme 2029 payment, Scheme 2030 payment.[^key-c63ba9c493d12381b90fcf70c859282f] | Scheme 2019 payment | Scheme 2020 payment |
+|  | Scheme 2011 payment, Scheme 2012 payment, Scheme 2013 payment, Scheme 2014 payment, Scheme 2015 payment, Scheme 2016 payment, Scheme 2017 payment, Scheme 2018 payment,[^c-ef18dc423d8b952c92be893ba5db7a0e] Scheme 2021 payment, Scheme 2022 payment, Scheme 2023 payment, Scheme 2024 payment[^c-beb9328a3a735f8c436a26754caabbcc] Scheme 2025 payment, Scheme 2026 payment, Scheme 2027 payment, Scheme 2028 payment, Scheme 2029 payment, Scheme 2030 payment.[^c-c63ba9c493d12381b90fcf70c859282f] | Scheme 2019 payment | Scheme 2020 payment |
 | *Very Fragile (Islands)* | £71.35 | £57.08 | £28.54 |
 | *Fragile (Mainland)* | £62.10 | £49.68 | £24.84 |
 | *Standard* | £52.16 | £41.72 | £20.86 |
@@ -711,16 +711,16 @@ Regulations 11(2) and 11(3)
 
 | FRAGILITY CATEGORY | RATE | RATE | RATE |
 | --- | --- | --- | --- |
-|  | Scheme 2011 payment, Scheme 2012 payment, Scheme 2013 payment, Scheme 2014 payment, Scheme 2015 payment, Scheme 2016 payment, Scheme 2017 payment, Scheme 2018 payment,[^key-5413b8ad0af641752ee424105ba3aa06] Scheme 2021 payment, Scheme 2022 payment, Scheme 2023 payment, Scheme 2024 payment[^key-1c53580700eadfb28eae3e3aa508b5b0] Scheme 2025 payment, Scheme 2026 payment, Scheme 2027 payment, Scheme 2028 payment, Scheme 2029 payment, Scheme 2030 payment.[^key-ce403b3f0a05ac02bfb37c3f241117a9] | Scheme 2019 payment | Scheme 2020 payment |
+|  | Scheme 2011 payment, Scheme 2012 payment, Scheme 2013 payment, Scheme 2014 payment, Scheme 2015 payment, Scheme 2016 payment, Scheme 2017 payment, Scheme 2018 payment,[^c-5413b8ad0af641752ee424105ba3aa06] Scheme 2021 payment, Scheme 2022 payment, Scheme 2023 payment, Scheme 2024 payment[^c-1c53580700eadfb28eae3e3aa508b5b0] Scheme 2025 payment, Scheme 2026 payment, Scheme 2027 payment, Scheme 2028 payment, Scheme 2029 payment, Scheme 2030 payment.[^c-ce403b3f0a05ac02bfb37c3f241117a9] | Scheme 2019 payment | Scheme 2020 payment |
 | *Very Fragile (Islands)* | £63.00 | £50.40 | £25.20 |
 | *Fragile (Mainland)* | £54.51 | £43.60 | £21.80 |
 | *Standard* | £34.12 | £27.29 | £20.83 |
 
-## SCHEDULE 6 — FRAGILITY CATEGORIES[^key-598551435f22ff10b512445103415aad]
+## SCHEDULE 6 — FRAGILITY CATEGORIES[^c-598551435f22ff10b512445103415aad]
 
 Regulation 11(3)
 
-### PARISH CODE NUMBERS[^key-598551435f22ff10b512445103415aad]
+### PARISH CODE NUMBERS[^c-598551435f22ff10b512445103415aad]
 
 **Fragility category - Standard**
 
@@ -787,29 +787,29 @@ Regulation 18
 
 ### Agency arrangements
 
-**1.**[^key-db13ccb8d602ae0c4316cda5d4606d82] The Scottish Ministers may, with the agreement of any competent authority, arrange for any of their functions under these Regulations in relation to any claim to be exercised on their behalf by that competent authority.
+**1.**[^c-db13ccb8d602ae0c4316cda5d4606d82] The Scottish Ministers may, with the agreement of any competent authority, arrange for any of their functions under these Regulations in relation to any claim to be exercised on their behalf by that competent authority.
 
-**2.**[^key-200a77d0831a3c6a62a1ded524650476] The Scottish Ministers may also agree to exercise functions on behalf of another competent authority corresponding to those which are exercisable by the Scottish Ministers under these Regulations.
+**2.**[^c-200a77d0831a3c6a62a1ded524650476] The Scottish Ministers may also agree to exercise functions on behalf of another competent authority corresponding to those which are exercisable by the Scottish Ministers under these Regulations.
 
-**3.**[^key-022fb0984a2ab24612d2f502d7aebd6d] Any such arrangement shall be in writing and be signed by or on behalf of the Scottish Ministers and the competent authority and any such arrangement may be subject to such conditions (including conditions as to the costs and charge for costs) as may be agreed from time to time.
+**3.**[^c-022fb0984a2ab24612d2f502d7aebd6d] Any such arrangement shall be in writing and be signed by or on behalf of the Scottish Ministers and the competent authority and any such arrangement may be subject to such conditions (including conditions as to the costs and charge for costs) as may be agreed from time to time.
 
 ### Set off
 
-**4.**[^key-e6dce207db16624c74e5ae23c376a94b] Without prejudice to the amount of any sum payable by the Scottish Ministers to any other competent authority, the amount of any sum payable by the Scottish Ministers, whether as principal or agent, by way of a specified payment may be set off against the amount of any sum recoverable by the Scottish Ministers, whether as principal or agent.
+**4.**[^c-e6dce207db16624c74e5ae23c376a94b] Without prejudice to the amount of any sum payable by the Scottish Ministers to any other competent authority, the amount of any sum payable by the Scottish Ministers, whether as principal or agent, by way of a specified payment may be set off against the amount of any sum recoverable by the Scottish Ministers, whether as principal or agent.
 
 ### Calculation of payments in respect of cross border holdings
 
-**5.**[^key-ffe7c6d2ab5e479860f302bdec749ecd] Where any holding in respect of which a claim has been made is a cross border holding, the Scottish Ministers may pay, on such occasions as they consider fit, in respect of the Scheme Year in question to an applicant less favoured area support for actively farming eligible land in accordance with regulation[^key-47930004bbd332058d63e4db6f9aa4f2] 4, providing the applicant has declared the eligible land in a single application which has been treated as a valid application by the competent authority concerned and is an active farmer within the meaning of Article 9 of the Direct Payments Regulation[^key-f1b67bf1bbebe6335914ada5a6d0c149].
+**5.**[^c-ffe7c6d2ab5e479860f302bdec749ecd] Where any holding in respect of which a claim has been made is a cross border holding, the Scottish Ministers may pay, on such occasions as they consider fit, in respect of the Scheme Year in question to an applicant less favoured area support for actively farming eligible land in accordance with regulation[^c-47930004bbd332058d63e4db6f9aa4f2] 4, providing the applicant has declared the eligible land in a single application which has been treated as a valid application by the competent authority concerned and is an active farmer within the meaning of Article 9 of the Direct Payments Regulation[^c-f1b67bf1bbebe6335914ada5a6d0c149].
 
-**6.**[^key-0e8d9ba32e65970f01076bb4a251a22a] Whether the active farming undertaken on the eligible land in accordance with regulation[^key-6c3d102dfc0474d038c4f3e2faa8f729] 4 is an integral part of the management of the whole holding or independently managed, the Scottish Ministers will only pay less favoured area support in respect of the active farming actually undertaken on eligible land defined as a less favoured area for the purposes of these Regulations and provided the applicant is an active farmer within the meaning of Article 9 of the Direct Payments Regulation[^key-e891ab5a88aa99cd1f28d2022af427ec].
+**6.**[^c-0e8d9ba32e65970f01076bb4a251a22a] Whether the active farming undertaken on the eligible land in accordance with regulation[^c-6c3d102dfc0474d038c4f3e2faa8f729] 4 is an integral part of the management of the whole holding or independently managed, the Scottish Ministers will only pay less favoured area support in respect of the active farming actually undertaken on eligible land defined as a less favoured area for the purposes of these Regulations and provided the applicant is an active farmer within the meaning of Article 9 of the Direct Payments Regulation[^c-e891ab5a88aa99cd1f28d2022af427ec].
 
-**7.**[^key-8ed7493fbb9997a70c60575e331c818a] For cross border holdings where the applicant has submitted a declaration of eligible land to another competent authority, the Scottish Ministers will apply the standard rate of payment.
+**7.**[^c-8ed7493fbb9997a70c60575e331c818a] For cross border holdings where the applicant has submitted a declaration of eligible land to another competent authority, the Scottish Ministers will apply the standard rate of payment.
 
-**8.**[^key-0f7a7893b932c74059963c856c2ef40e] Applicants in respect of cross border holdings are required to supply such information as authorised persons may reasonably require to assess in accordance with regulation[^key-56c9800f2d1a22ef5c48ad72b2ef755e] 4 the active farming actually undertaken on eligible land defined as a less favoured area for the purposes of these Regulations and the active farming undertaken for the purposes of Article 9 of the Direct Payments Regulation[^key-9d6d86a6a1dabdd4619e170ae915ddf8].
+**8.**[^c-0f7a7893b932c74059963c856c2ef40e] Applicants in respect of cross border holdings are required to supply such information as authorised persons may reasonably require to assess in accordance with regulation[^c-56c9800f2d1a22ef5c48ad72b2ef755e] 4 the active farming actually undertaken on eligible land defined as a less favoured area for the purposes of these Regulations and the active farming undertaken for the purposes of Article 9 of the Direct Payments Regulation[^c-9d6d86a6a1dabdd4619e170ae915ddf8].
 
-**9.**[^key-b06df94157c7663443543aa8acd6ecd2] All conditions applying to applicants in respect of holdings lying wholly within the less favoured areas apply equally to applicants in respect of cross border holdings.
+**9.**[^c-b06df94157c7663443543aa8acd6ecd2] All conditions applying to applicants in respect of holdings lying wholly within the less favoured areas apply equally to applicants in respect of cross border holdings.
 
-## SCHEDULE 8 — ENTERPRISE MIX[^key-fc00281c95772c56e9d90909404f2d0d]
+## SCHEDULE 8 — ENTERPRISE MIX[^c-fc00281c95772c56e9d90909404f2d0d]
 
 Regulations 10(1), 10(2) and 10(3)
 
@@ -848,61 +848,61 @@ Regulation 26(1) revokes the 2007 Regulations and amending instruments with the 
 
 [^f00001]: Footnote: [(c.68)](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3); the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“the 2006 Act”), section 27(1); and the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), Schedule, Part 1. Paragraph 1A of Schedule 2 was inserted by the 2006 Act, section 28. The function conferred upon the Minister of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, was transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-75908c4284a2a50b637a96e25f978466]: Commencement: Reg. 1 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-75908c4284a2a50b637a96e25f978466]: Commencement: Reg. 1 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2009/3263](https://www.legislation.gov.uk/uksi/2009/3263).
 
-[^key-39ddfc1b62f693accfc8154717bdcc81]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/3) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [21](https://www.legislation.gov.uk/ssi/2018/391/regulation/21)
+[^c-39ddfc1b62f693accfc8154717bdcc81]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/3) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [21](https://www.legislation.gov.uk/ssi/2018/391/regulation/21)
 
-[^key-3a6e82e40b9f166923df50d07dd9e229]: Commencement: Reg. 2 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-3a6e82e40b9f166923df50d07dd9e229]: Commencement: Reg. 2 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-5401175d9a01c0753bcaa33d4b15aa9e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) omitted (1.3.2013) by virtue of [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2013 (S.S.I. 2013/9)](https://www.legislation.gov.uk/ssi/2013/9), [regs. 1](https://www.legislation.gov.uk/ssi/2013/9/regulation/1), [3](https://www.legislation.gov.uk/ssi/2013/9/regulation/3)
+[^c-5401175d9a01c0753bcaa33d4b15aa9e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) omitted (1.3.2013) by virtue of [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2013 (S.S.I. 2013/9)](https://www.legislation.gov.uk/ssi/2013/9), [regs. 1](https://www.legislation.gov.uk/ssi/2013/9/regulation/1), [3](https://www.legislation.gov.uk/ssi/2013/9/regulation/3)
 
-[^key-a0a0678db8a5a023d7d31f422c907361]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2015/185/regulation/3/a)
+[^c-a0a0678db8a5a023d7d31f422c907361]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2015/185/regulation/3/a)
 
-[^key-630a61d68a229861a84a77d3aa1d2397]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) omitted (9.6.2015) by virtue of [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2015/185/regulation/3/b)
+[^c-630a61d68a229861a84a77d3aa1d2397]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) omitted (9.6.2015) by virtue of [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2015/185/regulation/3/b)
 
 [^f00004]: Footnote: O.J. No. L 277, 21.10.2005, p.1 as last amended by Council Regulation (EC) No. 473/2009, O.J. No. L 144, 9.6.2009, p.3.
 
-[^key-d87ae5c303cb454041d90bd7f9fbb609]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (9.3.2012) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2012 (S.S.I. 2012/24)](https://www.legislation.gov.uk/ssi/2012/24), [regs. 1](https://www.legislation.gov.uk/ssi/2012/24/regulation/1), [3](https://www.legislation.gov.uk/ssi/2012/24/regulation/3)
+[^c-d87ae5c303cb454041d90bd7f9fbb609]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (9.3.2012) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2012 (S.S.I. 2012/24)](https://www.legislation.gov.uk/ssi/2012/24), [regs. 1](https://www.legislation.gov.uk/ssi/2012/24/regulation/1), [3](https://www.legislation.gov.uk/ssi/2012/24/regulation/3)
 
-[^key-a217e53364e5728614f7fcb09ff862ff]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) omitted (14.3.2011) by virtue of [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2011/73/regulation/3/a)
+[^c-a217e53364e5728614f7fcb09ff862ff]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) omitted (14.3.2011) by virtue of [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2011/73/regulation/3/a)
 
 [^f00006]: Footnote: O.J. No. L 316, 2.12.2009, p.65 as amended by Commission Regulation (EU) No. 146/2010, O.J. L 47, 24.2.2010, p.1.
 
-[^key-82925e95c1630253341a778ea7cb014a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (14.3.2011) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2011/73/regulation/3/b)
+[^c-82925e95c1630253341a778ea7cb014a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (14.3.2011) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2011/73/regulation/3/b)
 
-[^key-65a6236b3a90d81ec6422201a1d9b458]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2015/185/regulation/3/c)
+[^c-65a6236b3a90d81ec6422201a1d9b458]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2015/185/regulation/3/c)
 
 [^f00007]: Footnote: O.J. No. L 30, 31.1.2009, p.16 as last amended by Commission Regulation (EU) No. 360/2010, O.J. No. L 106, 28.4.2010, p.1.
 
-[^key-bb5f22998bfc9f2bb2cd1e6d41a90ea4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [3(d)](https://www.legislation.gov.uk/ssi/2015/185/regulation/3/d)
+[^c-bb5f22998bfc9f2bb2cd1e6d41a90ea4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [3(d)](https://www.legislation.gov.uk/ssi/2015/185/regulation/3/d)
 
-[^key-08c47aac6e42e68369bf4697eec225e9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [3(e)](https://www.legislation.gov.uk/ssi/2015/185/regulation/3/e)
+[^c-08c47aac6e42e68369bf4697eec225e9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [3(e)](https://www.legislation.gov.uk/ssi/2015/185/regulation/3/e)
 
-[^key-da21be78256899f53b7c47632c6a0d5f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [3(f)](https://www.legislation.gov.uk/ssi/2015/185/regulation/3/f)
+[^c-da21be78256899f53b7c47632c6a0d5f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [3(f)](https://www.legislation.gov.uk/ssi/2015/185/regulation/3/f)
 
-[^key-44161586adb8598023c532cef9778fb8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [3(g)](https://www.legislation.gov.uk/ssi/2015/185/regulation/3/g)
+[^c-44161586adb8598023c532cef9778fb8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [3(g)](https://www.legislation.gov.uk/ssi/2015/185/regulation/3/g)
 
-[^key-6c9ea8bfa010f3bc01a8d45237e180e1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [3(h)](https://www.legislation.gov.uk/ssi/2015/185/regulation/3/h)
+[^c-6c9ea8bfa010f3bc01a8d45237e180e1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [3(h)](https://www.legislation.gov.uk/ssi/2015/185/regulation/3/h)
 
 [^f00008]: Footnote: O.J. L 82, 26.3.1984, p.67 as amended by Commission Decision [91/25/EEC](https://www.legislation.gov.uk/european/decision/1991/0025), O.J. L 16, 22.1.1991, p.25. Council Regulation [(EC) No. 1257/1999](https://www.legislation.gov.uk/european/regulation/1999/1257) on support for rural development from European Agricultural Guidance and Guarantee Fund (EAGGF) and amending and repealing certain Regulations (O.J. No. L 160, 26.6.1999, p.80) provides in Article 55(4) that Directives adopting lists of less-favoured areas or amending such lists in accordance with Article 21 of Council Regulation (EC) No. 950/97 (O.J. No. L 142, 2.6.1997, p.1) shall remain in force. Council Regulation 950/97 repealed and replaced Directive [75/268/EEC](https://www.legislation.gov.uk/european/directive/1975/0268) (United Kingdom), O.J. No. L 128, 19.5.1975, p.1. Article 55(4) was preserved by Article 93 of Council Regulation [(EC) 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698).
 
-[^key-0f7588fa2d7ec1f9a0e5d5d4709377cb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) substituted (14.3.2011) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2011/73/regulation/3/c)
+[^c-0f7588fa2d7ec1f9a0e5d5d4709377cb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) substituted (14.3.2011) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2011/73/regulation/3/c)
 
-[^key-05c05c7f816a5cd5e4c768349b68e847]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (1.3.2014) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2014 (S.S.I. 2014/7)](https://www.legislation.gov.uk/ssi/2014/7), [regs. 1](https://www.legislation.gov.uk/ssi/2014/7/regulation/1), [3](https://www.legislation.gov.uk/ssi/2014/7/regulation/3)
+[^c-05c05c7f816a5cd5e4c768349b68e847]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (1.3.2014) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2014 (S.S.I. 2014/7)](https://www.legislation.gov.uk/ssi/2014/7), [regs. 1](https://www.legislation.gov.uk/ssi/2014/7/regulation/1), [3](https://www.legislation.gov.uk/ssi/2014/7/regulation/3)
 
-[^key-78c1b72c4ec4c06d265d0d0098ccff64]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [3(i)](https://www.legislation.gov.uk/ssi/2015/185/regulation/3/i)
+[^c-78c1b72c4ec4c06d265d0d0098ccff64]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [3(i)](https://www.legislation.gov.uk/ssi/2015/185/regulation/3/i)
 
-[^key-a3ee6183620e1d43ccb2952384a88426]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [16](https://www.legislation.gov.uk/ssi/2018/122/regulation/16)
+[^c-a3ee6183620e1d43ccb2952384a88426]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [16](https://www.legislation.gov.uk/ssi/2018/122/regulation/16)
 
-[^key-2037757816313f8edd702ddf28bca0b6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (15.5.2019) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/98)](https://www.legislation.gov.uk/ssi/2019/98), [regs. 1](https://www.legislation.gov.uk/ssi/2019/98/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/98/regulation/3)
+[^c-2037757816313f8edd702ddf28bca0b6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (15.5.2019) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/98)](https://www.legislation.gov.uk/ssi/2019/98), [regs. 1](https://www.legislation.gov.uk/ssi/2019/98/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/98/regulation/3)
 
-[^key-a50e65bd2e6a50e923f4f522f66b61b5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/273/regulation/2) inserted (1.1.2021) by [The Common Agricultural Policy (Less Favoured Area Support) (EU Exit) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/456)](https://www.legislation.gov.uk/ssi/2020/456), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/456/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/ssi/2020/456/regulation/3/2/a)
+[^c-a50e65bd2e6a50e923f4f522f66b61b5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/273/regulation/2) inserted (1.1.2021) by [The Common Agricultural Policy (Less Favoured Area Support) (EU Exit) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/456)](https://www.legislation.gov.uk/ssi/2020/456), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/456/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/ssi/2020/456/regulation/3/2/a)
 
-[^key-e1d0533d4fe1cedfb3909f810611c06a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (1.1.2025) by [The Rural Development (Continuation of Operation) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/342)](https://www.legislation.gov.uk/ssi/2024/342), [regs. 1](https://www.legislation.gov.uk/ssi/2024/342/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/342/regulation/2/2)
+[^c-e1d0533d4fe1cedfb3909f810611c06a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/2/1) inserted (1.1.2025) by [The Rural Development (Continuation of Operation) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/342)](https://www.legislation.gov.uk/ssi/2024/342), [regs. 1](https://www.legislation.gov.uk/ssi/2024/342/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/342/regulation/2/2)
 
-[^key-1c57f7ddac244c03b1aee85de8365315]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/273/regulation/2) substituted (1.1.2021) by [The Common Agricultural Policy (Less Favoured Area Support) (EU Exit) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/456)](https://www.legislation.gov.uk/ssi/2020/456), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/456/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/ssi/2020/456/regulation/3/2/b)
+[^c-1c57f7ddac244c03b1aee85de8365315]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/273/regulation/2) substituted (1.1.2021) by [The Common Agricultural Policy (Less Favoured Area Support) (EU Exit) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/456)](https://www.legislation.gov.uk/ssi/2020/456), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/456/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/ssi/2020/456/regulation/3/2/b)
 
 [^f00010]: Footnote: [S.S.I. 2003/129](https://www.legislation.gov.uk/ssi/2003/129), revoked by regulation 27 of [S.S.I. 2004/70](https://www.legislation.gov.uk/ssi/2004/70), subject to the savings provision contained in that regulation.
 
@@ -912,182 +912,182 @@ Regulation 26(1) revokes the 2007 Regulations and amending instruments with the 
 
 [^f00013]: Footnote: [2000 (c.7)](https://www.legislation.gov.uk/ukpga/2000/7); section 15 was amended by the Communications Act [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21) section 406 and Schedule 17 paragraph 158.
 
-[^key-d6bae32b72b1db7179db586f212339d7]: Commencement: Reg. 3 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-d6bae32b72b1db7179db586f212339d7]: Commencement: Reg. 3 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-92e31fbca40525ee4285b7d459b1bbd3]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/3/1) inserted (1.3.2014) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2014 (S.S.I. 2014/7)](https://www.legislation.gov.uk/ssi/2014/7), [regs. 1](https://www.legislation.gov.uk/ssi/2014/7/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2014/7/regulation/4/a)
+[^c-92e31fbca40525ee4285b7d459b1bbd3]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/3/1) inserted (1.3.2014) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2014 (S.S.I. 2014/7)](https://www.legislation.gov.uk/ssi/2014/7), [regs. 1](https://www.legislation.gov.uk/ssi/2014/7/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2014/7/regulation/4/a)
 
-[^key-bfbb53dbd316b5824cb1115989347f82]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/3/1) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2015/185/regulation/4/a)
+[^c-bfbb53dbd316b5824cb1115989347f82]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/3/1) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2015/185/regulation/4/a)
 
-[^key-ad7515215f41ed3703fb98a1c539a17e]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/ssi/2010/273/regulation/3/1A) inserted (1.3.2014) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2014 (S.S.I. 2014/7)](https://www.legislation.gov.uk/ssi/2014/7), [regs. 1](https://www.legislation.gov.uk/ssi/2014/7/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2014/7/regulation/4/b)
+[^c-ad7515215f41ed3703fb98a1c539a17e]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/ssi/2010/273/regulation/3/1A) inserted (1.3.2014) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2014 (S.S.I. 2014/7)](https://www.legislation.gov.uk/ssi/2014/7), [regs. 1](https://www.legislation.gov.uk/ssi/2014/7/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2014/7/regulation/4/b)
 
-[^key-c2b6f0a50976a425735de342e07a5706]: Textual amendment: Words in [reg. 3(1A)](https://www.legislation.gov.uk/ssi/2010/273/regulation/3/1A) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2015/185/regulation/4/b)
+[^c-c2b6f0a50976a425735de342e07a5706]: Textual amendment: Words in [reg. 3(1A)](https://www.legislation.gov.uk/ssi/2010/273/regulation/3/1A) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2015/185/regulation/4/b)
 
-[^key-5f3ecf9cf36389c20547d6c371b9546a]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/273/regulation/4) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [5](https://www.legislation.gov.uk/ssi/2015/185/regulation/5)
+[^c-5f3ecf9cf36389c20547d6c371b9546a]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/273/regulation/4) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [5](https://www.legislation.gov.uk/ssi/2015/185/regulation/5)
 
-[^key-370082ac9d752136f0ff05062b456412]: Commencement: Reg. 5 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-370082ac9d752136f0ff05062b456412]: Commencement: Reg. 5 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-9829e0c0c827e8f4490d46e8df164467]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/5/1) substituted (14.3.2011) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [4](https://www.legislation.gov.uk/ssi/2011/73/regulation/4)
+[^c-9829e0c0c827e8f4490d46e8df164467]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/5/1) substituted (14.3.2011) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [4](https://www.legislation.gov.uk/ssi/2011/73/regulation/4)
 
-[^key-b79d66fb3c8b605f8a0d96ca32c38c9a]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/ssi/2010/273/regulation/5/3) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [6](https://www.legislation.gov.uk/ssi/2015/185/regulation/6)
+[^c-b79d66fb3c8b605f8a0d96ca32c38c9a]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/ssi/2010/273/regulation/5/3) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [6](https://www.legislation.gov.uk/ssi/2015/185/regulation/6)
 
-[^key-288e097d0f655720a67172e7f3e44ba4]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/ssi/2010/273/regulation/6) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [7](https://www.legislation.gov.uk/ssi/2015/185/regulation/7)
+[^c-288e097d0f655720a67172e7f3e44ba4]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/ssi/2010/273/regulation/6) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [7](https://www.legislation.gov.uk/ssi/2015/185/regulation/7)
 
-[^key-bdfb40447b3a44b48162944d8e99ac95]: Commencement: Reg. 7 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-bdfb40447b3a44b48162944d8e99ac95]: Commencement: Reg. 7 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-584d73297fce3ffe8e93836fc505e2fa]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/7/1) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [8](https://www.legislation.gov.uk/ssi/2015/185/regulation/8)
+[^c-584d73297fce3ffe8e93836fc505e2fa]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/7/1) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [8](https://www.legislation.gov.uk/ssi/2015/185/regulation/8)
 
-[^key-6ac53de31a798c483ae4a85913ba6e2e]: Commencement: Reg. 8 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-6ac53de31a798c483ae4a85913ba6e2e]: Commencement: Reg. 8 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-0788f44c7b68f0928b7132986ae06a48]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/8/1) substituted (15.5.2019) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/98)](https://www.legislation.gov.uk/ssi/2019/98), [regs. 1](https://www.legislation.gov.uk/ssi/2019/98/regulation/1), [4](https://www.legislation.gov.uk/ssi/2019/98/regulation/4)
+[^c-0788f44c7b68f0928b7132986ae06a48]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/8/1) substituted (15.5.2019) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/98)](https://www.legislation.gov.uk/ssi/2019/98), [regs. 1](https://www.legislation.gov.uk/ssi/2019/98/regulation/1), [4](https://www.legislation.gov.uk/ssi/2019/98/regulation/4)
 
-[^key-00b20a596b9540b5e539cb0288af37fd]: Textual amendment: [Reg. 8(4)(c)](https://www.legislation.gov.uk/ssi/2010/273/regulation/8/4/c) and word inserted (14.3.2011) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [5](https://www.legislation.gov.uk/ssi/2011/73/regulation/5)
+[^c-00b20a596b9540b5e539cb0288af37fd]: Textual amendment: [Reg. 8(4)(c)](https://www.legislation.gov.uk/ssi/2010/273/regulation/8/4/c) and word inserted (14.3.2011) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [5](https://www.legislation.gov.uk/ssi/2011/73/regulation/5)
 
-[^key-781afa1e7a43ccdf3bfdf867a0745dc8]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/ssi/2010/273/regulation/8A) inserted (15.5.2019) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/98)](https://www.legislation.gov.uk/ssi/2019/98), [regs. 1](https://www.legislation.gov.uk/ssi/2019/98/regulation/1), [5](https://www.legislation.gov.uk/ssi/2019/98/regulation/5)
+[^c-781afa1e7a43ccdf3bfdf867a0745dc8]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/ssi/2010/273/regulation/8A) inserted (15.5.2019) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/98)](https://www.legislation.gov.uk/ssi/2019/98), [regs. 1](https://www.legislation.gov.uk/ssi/2019/98/regulation/1), [5](https://www.legislation.gov.uk/ssi/2019/98/regulation/5)
 
-[^key-4317dcbf92715d9aa572319d7733167c]: Commencement: Reg. 9 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-4317dcbf92715d9aa572319d7733167c]: Commencement: Reg. 9 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-b405cc271300f7fc0e42673b9f79f369]: Textual amendment: [Reg. 9(1A)-(1C)](https://www.legislation.gov.uk/ssi/2010/273/regulation/9/1A) inserted (14.3.2011) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2011/73/regulation/6/a)
+[^c-b405cc271300f7fc0e42673b9f79f369]: Textual amendment: [Reg. 9(1A)-(1C)](https://www.legislation.gov.uk/ssi/2010/273/regulation/9/1A) inserted (14.3.2011) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2011/73/regulation/6/a)
 
-[^key-2c4d9aa4583f7d442f739060000e6e58]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/ssi/2010/273/regulation/9/4)[(5)](https://www.legislation.gov.uk/ssi/2010/273/regulation/9/5) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [9(a)](https://www.legislation.gov.uk/ssi/2015/185/regulation/9/a)
+[^c-2c4d9aa4583f7d442f739060000e6e58]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/ssi/2010/273/regulation/9/4)[(5)](https://www.legislation.gov.uk/ssi/2010/273/regulation/9/5) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [9(a)](https://www.legislation.gov.uk/ssi/2015/185/regulation/9/a)
 
-[^key-09644036a88f1abfc5f20d2d79bb9f88]: Textual amendment: [Reg. 9(7)-(9)](https://www.legislation.gov.uk/ssi/2010/273/regulation/9/7) substituted for [reg. 9(7)(8)](https://www.legislation.gov.uk/ssi/2010/273/regulation/9/7) (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [9(b)](https://www.legislation.gov.uk/ssi/2015/185/regulation/9/b)
+[^c-09644036a88f1abfc5f20d2d79bb9f88]: Textual amendment: [Reg. 9(7)-(9)](https://www.legislation.gov.uk/ssi/2010/273/regulation/9/7) substituted for [reg. 9(7)(8)](https://www.legislation.gov.uk/ssi/2010/273/regulation/9/7) (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [9(b)](https://www.legislation.gov.uk/ssi/2015/185/regulation/9/b)
 
-[^key-f89c06a780ce5dda3e0a0348c19a6dee]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/ssi/2010/273/regulation/9A) inserted (1.3.2016) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/33)](https://www.legislation.gov.uk/ssi/2016/33), [regs. 1](https://www.legislation.gov.uk/ssi/2016/33/regulation/1), [3](https://www.legislation.gov.uk/ssi/2016/33/regulation/3)
+[^c-f89c06a780ce5dda3e0a0348c19a6dee]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/ssi/2010/273/regulation/9A) inserted (1.3.2016) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/33)](https://www.legislation.gov.uk/ssi/2016/33), [regs. 1](https://www.legislation.gov.uk/ssi/2016/33/regulation/1), [3](https://www.legislation.gov.uk/ssi/2016/33/regulation/3)
 
-[^key-948e548281615a505429b4e4e3e1f56c]: Commencement: Reg. 10 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-948e548281615a505429b4e4e3e1f56c]: Commencement: Reg. 10 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-dc396a48a17323f25e71bd13ed0e2076]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/10/1) substituted (14.3.2011) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [7(a)](https://www.legislation.gov.uk/ssi/2011/73/regulation/7/a)
+[^c-dc396a48a17323f25e71bd13ed0e2076]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/10/1) substituted (14.3.2011) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [7(a)](https://www.legislation.gov.uk/ssi/2011/73/regulation/7/a)
 
-[^key-4417d234a2c0adeb3fc3a0d9150730bf]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/ssi/2010/273/regulation/10/2) substituted (1.1.2021) by [The Common Agricultural Policy (Less Favoured Area Support) (EU Exit) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/456)](https://www.legislation.gov.uk/ssi/2020/456), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/456/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2020/456/regulation/3/3)
+[^c-4417d234a2c0adeb3fc3a0d9150730bf]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/ssi/2010/273/regulation/10/2) substituted (1.1.2021) by [The Common Agricultural Policy (Less Favoured Area Support) (EU Exit) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/456)](https://www.legislation.gov.uk/ssi/2020/456), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/456/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2020/456/regulation/3/3)
 
-[^key-405960ed35b8f5c010bc4e06ee38dae0]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/ssi/2010/273/regulation/10/2) substituted (1.1.2025) by [The Rural Development (Continuation of Operation) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/342)](https://www.legislation.gov.uk/ssi/2024/342), [regs. 1](https://www.legislation.gov.uk/ssi/2024/342/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/342/regulation/2/3)
+[^c-405960ed35b8f5c010bc4e06ee38dae0]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/ssi/2010/273/regulation/10/2) substituted (1.1.2025) by [The Rural Development (Continuation of Operation) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/342)](https://www.legislation.gov.uk/ssi/2024/342), [regs. 1](https://www.legislation.gov.uk/ssi/2024/342/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/342/regulation/2/3)
 
-[^key-e3de70898af1225921076a0f82547ee1]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/ssi/2010/273/regulation/10/3)[(4)](https://www.legislation.gov.uk/ssi/2010/273/regulation/10/4) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [10(b)](https://www.legislation.gov.uk/ssi/2015/185/regulation/10/b)
+[^c-e3de70898af1225921076a0f82547ee1]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/ssi/2010/273/regulation/10/3)[(4)](https://www.legislation.gov.uk/ssi/2010/273/regulation/10/4) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [10(b)](https://www.legislation.gov.uk/ssi/2015/185/regulation/10/b)
 
-[^key-b5fc0a6d7f380b739165855d16e8bd0f]: Commencement: Reg. 11 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-b5fc0a6d7f380b739165855d16e8bd0f]: Commencement: Reg. 11 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-d88024ee5107e2546a016437208fc336]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/11/1) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [11(a)](https://www.legislation.gov.uk/ssi/2015/185/regulation/11/a)
+[^c-d88024ee5107e2546a016437208fc336]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/11/1) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [11(a)](https://www.legislation.gov.uk/ssi/2015/185/regulation/11/a)
 
-[^key-a079c24a1a0274a87b9afaaf750bdf04]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/11/1) substituted (15.5.2019) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/98)](https://www.legislation.gov.uk/ssi/2019/98), [regs. 1](https://www.legislation.gov.uk/ssi/2019/98/regulation/1), [7(a)(i)](https://www.legislation.gov.uk/ssi/2019/98/regulation/7/a/i)
+[^c-a079c24a1a0274a87b9afaaf750bdf04]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/11/1) substituted (15.5.2019) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/98)](https://www.legislation.gov.uk/ssi/2019/98), [regs. 1](https://www.legislation.gov.uk/ssi/2019/98/regulation/1), [7(a)(i)](https://www.legislation.gov.uk/ssi/2019/98/regulation/7/a/i)
 
-[^key-a9d96dbbfd493604224612f74d832289]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/11/1) inserted (15.5.2019) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/98)](https://www.legislation.gov.uk/ssi/2019/98), [regs. 1](https://www.legislation.gov.uk/ssi/2019/98/regulation/1), [7(a)(ii)](https://www.legislation.gov.uk/ssi/2019/98/regulation/7/a/ii)
+[^c-a9d96dbbfd493604224612f74d832289]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/11/1) inserted (15.5.2019) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/98)](https://www.legislation.gov.uk/ssi/2019/98), [regs. 1](https://www.legislation.gov.uk/ssi/2019/98/regulation/1), [7(a)(ii)](https://www.legislation.gov.uk/ssi/2019/98/regulation/7/a/ii)
 
-[^key-e7775e302df9571e2d3491f766228fc1]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/ssi/2010/273/regulation/11/2) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [11(a)](https://www.legislation.gov.uk/ssi/2015/185/regulation/11/a)
+[^c-e7775e302df9571e2d3491f766228fc1]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/ssi/2010/273/regulation/11/2) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [11(a)](https://www.legislation.gov.uk/ssi/2015/185/regulation/11/a)
 
-[^key-f111cbd1610237a08f05236f4e9d263b]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/ssi/2010/273/regulation/11/2) substituted (15.5.2019) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/98)](https://www.legislation.gov.uk/ssi/2019/98), [regs. 1](https://www.legislation.gov.uk/ssi/2019/98/regulation/1), [7(b)(i)](https://www.legislation.gov.uk/ssi/2019/98/regulation/7/b/i)
+[^c-f111cbd1610237a08f05236f4e9d263b]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/ssi/2010/273/regulation/11/2) substituted (15.5.2019) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/98)](https://www.legislation.gov.uk/ssi/2019/98), [regs. 1](https://www.legislation.gov.uk/ssi/2019/98/regulation/1), [7(b)(i)](https://www.legislation.gov.uk/ssi/2019/98/regulation/7/b/i)
 
-[^key-281d743971fae15a9994896fc689c847]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/ssi/2010/273/regulation/11/2) inserted (15.5.2019) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/98)](https://www.legislation.gov.uk/ssi/2019/98), [regs. 1](https://www.legislation.gov.uk/ssi/2019/98/regulation/1), [7(b)(ii)](https://www.legislation.gov.uk/ssi/2019/98/regulation/7/b/ii)
+[^c-281d743971fae15a9994896fc689c847]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/ssi/2010/273/regulation/11/2) inserted (15.5.2019) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/98)](https://www.legislation.gov.uk/ssi/2019/98), [regs. 1](https://www.legislation.gov.uk/ssi/2019/98/regulation/1), [7(b)(ii)](https://www.legislation.gov.uk/ssi/2019/98/regulation/7/b/ii)
 
-[^key-a62b2d2337b18656d5874eabd6d160c3]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/ssi/2010/273/regulation/11/6) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [11(b)](https://www.legislation.gov.uk/ssi/2015/185/regulation/11/b)
+[^c-a62b2d2337b18656d5874eabd6d160c3]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/ssi/2010/273/regulation/11/6) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [11(b)](https://www.legislation.gov.uk/ssi/2015/185/regulation/11/b)
 
-[^key-03052a740972e692c91a58498be0b9cb]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/ssi/2010/273/regulation/12) substituted (14.3.2011) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [8](https://www.legislation.gov.uk/ssi/2011/73/regulation/8)
+[^c-03052a740972e692c91a58498be0b9cb]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/ssi/2010/273/regulation/12) substituted (14.3.2011) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [8](https://www.legislation.gov.uk/ssi/2011/73/regulation/8)
 
-[^key-bf5cc883654abb52c5072dd0981b61f4]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/ssi/2010/273/regulation/12) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [12](https://www.legislation.gov.uk/ssi/2015/185/regulation/12)
+[^c-bf5cc883654abb52c5072dd0981b61f4]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/ssi/2010/273/regulation/12) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [12](https://www.legislation.gov.uk/ssi/2015/185/regulation/12)
 
-[^key-b3dc463a2cc080f0f34a060f96984936]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/ssi/2010/273/regulation/12A) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [13](https://www.legislation.gov.uk/ssi/2015/185/regulation/13)
+[^c-b3dc463a2cc080f0f34a060f96984936]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/ssi/2010/273/regulation/12A) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [13](https://www.legislation.gov.uk/ssi/2015/185/regulation/13)
 
-[^key-9790eab5ac2a0e4f4fff88799e4c9a99]: Commencement: Reg. 13 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-9790eab5ac2a0e4f4fff88799e4c9a99]: Commencement: Reg. 13 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-7e31ec7a1f7532535f6f8e32cc8d18bc]: Textual amendment: [Reg. 13(1)(a)](https://www.legislation.gov.uk/ssi/2010/273/regulation/13/1/a) substituted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [4](https://www.legislation.gov.uk/ssi/2019/60/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7e31ec7a1f7532535f6f8e32cc8d18bc]: Textual amendment: [Reg. 13(1)(a)](https://www.legislation.gov.uk/ssi/2010/273/regulation/13/1/a) substituted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [4](https://www.legislation.gov.uk/ssi/2019/60/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a929a893d7fb58a7e4c44cde2c7df1c2]: Textual amendment: Words in [reg. 13(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2010/273/regulation/13/1/a/ii) substituted (31.12.2020) by [The Common Agricultural Policy (Less Favoured Area Support) (EU Exit) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/456)](https://www.legislation.gov.uk/ssi/2020/456), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/456/regulation/1/3), [3(4)](https://www.legislation.gov.uk/ssi/2020/456/regulation/3/4)
+[^c-a929a893d7fb58a7e4c44cde2c7df1c2]: Textual amendment: Words in [reg. 13(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2010/273/regulation/13/1/a/ii) substituted (31.12.2020) by [The Common Agricultural Policy (Less Favoured Area Support) (EU Exit) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/456)](https://www.legislation.gov.uk/ssi/2020/456), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/456/regulation/1/3), [3(4)](https://www.legislation.gov.uk/ssi/2020/456/regulation/3/4)
 
-[^key-3adfae2e614a2804884136e710187d38]: Commencement: Reg. 14 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-3adfae2e614a2804884136e710187d38]: Commencement: Reg. 14 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-f1f157c91629f4c7969212ce23bffce6]: Commencement: Reg. 15 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-f1f157c91629f4c7969212ce23bffce6]: Commencement: Reg. 15 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-a4445f1a7264e2cd2bb9cef00a3284f8]: Textual amendment: [Reg. 15(d)](https://www.legislation.gov.uk/ssi/2010/273/regulation/15/d) substituted (1.3.2013) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2013 (S.S.I. 2013/9)](https://www.legislation.gov.uk/ssi/2013/9), [regs. 1](https://www.legislation.gov.uk/ssi/2013/9/regulation/1), [5](https://www.legislation.gov.uk/ssi/2013/9/regulation/5)
+[^c-a4445f1a7264e2cd2bb9cef00a3284f8]: Textual amendment: [Reg. 15(d)](https://www.legislation.gov.uk/ssi/2010/273/regulation/15/d) substituted (1.3.2013) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2013 (S.S.I. 2013/9)](https://www.legislation.gov.uk/ssi/2013/9), [regs. 1](https://www.legislation.gov.uk/ssi/2013/9/regulation/1), [5](https://www.legislation.gov.uk/ssi/2013/9/regulation/5)
 
-[^key-5aac5e19ea5a5117eed5cc7d78e3d451]: Textual amendment: Words in [reg. 15(d)](https://www.legislation.gov.uk/ssi/2010/273/regulation/15/d) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/185/regulation/15)
+[^c-5aac5e19ea5a5117eed5cc7d78e3d451]: Textual amendment: Words in [reg. 15(d)](https://www.legislation.gov.uk/ssi/2010/273/regulation/15/d) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/185/regulation/15)
 
-[^key-399753d6e3e2fa4c9dde3990bf739bc7]: Commencement: Reg. 16 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-399753d6e3e2fa4c9dde3990bf739bc7]: Commencement: Reg. 16 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-1ee7cfef550525bb2aeb177bc4b83991]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/ssi/2010/273/regulation/17) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [16](https://www.legislation.gov.uk/ssi/2015/185/regulation/16)
+[^c-1ee7cfef550525bb2aeb177bc4b83991]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/ssi/2010/273/regulation/17) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [16](https://www.legislation.gov.uk/ssi/2015/185/regulation/16)
 
-[^key-f3943f8c25ef04c8a11ddee6365f9bde]: Commencement: Reg. 18 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-f3943f8c25ef04c8a11ddee6365f9bde]: Commencement: Reg. 18 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-a2bd9971847253ac4726aa0a3dc3fb59]: Commencement: Reg. 19 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-a2bd9971847253ac4726aa0a3dc3fb59]: Commencement: Reg. 19 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-a5e50504e596cefc9b339ab3c7192bae]: Commencement: Reg. 20 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-a5e50504e596cefc9b339ab3c7192bae]: Commencement: Reg. 20 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-0b14a2ba8b6748c2eec0a2fb276d4e00]: Commencement: Reg. 21 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-0b14a2ba8b6748c2eec0a2fb276d4e00]: Commencement: Reg. 21 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
 [^f00015]: Footnote: [1995 (c.46)](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-3d160aeb4ba60a2602292c1c213b12c3]: Commencement: Reg. 22 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-3d160aeb4ba60a2602292c1c213b12c3]: Commencement: Reg. 22 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-f0e5f182b49ab87056feb3e6432e99ea]: Commencement: Reg. 23 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-f0e5f182b49ab87056feb3e6432e99ea]: Commencement: Reg. 23 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-7e418a65879f9c058c9cccb443673707]: Commencement: Reg. 24 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-7e418a65879f9c058c9cccb443673707]: Commencement: Reg. 24 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-2363194e82c99f7c94e7bd0789e3a3c7]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/ssi/2010/273/regulation/25) revoked (12.6.2015) by [The Rural Payments (Appeals) (Scotland) Regulations 2015 (S.S.I. 2015/194)](https://www.legislation.gov.uk/ssi/2015/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1), [11(1)(b)(i)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/1/b/i) (with [reg. 11(2)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/3))
+[^c-2363194e82c99f7c94e7bd0789e3a3c7]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/ssi/2010/273/regulation/25) revoked (12.6.2015) by [The Rural Payments (Appeals) (Scotland) Regulations 2015 (S.S.I. 2015/194)](https://www.legislation.gov.uk/ssi/2015/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1), [11(1)(b)(i)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/1/b/i) (with [reg. 11(2)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/3))
 
-[^key-15eac1c666317e6339cdc82254ccd137]: Commencement: Reg. 26 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-15eac1c666317e6339cdc82254ccd137]: Commencement: Reg. 26 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
 [^f00018]: Footnote: [S.S.I. 2008/294](https://www.legislation.gov.uk/ssi/2008/294).
 
 [^f00019]: Footnote: [S.S.I. 2009/412](https://www.legislation.gov.uk/ssi/2009/412).
 
-[^key-54bdc207d3a2b4b8e25ffc93b9003050]: Commencement: Sch. 1 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-54bdc207d3a2b4b8e25ffc93b9003050]: Commencement: Sch. 1 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-c872533e5b51e260ba0d116ecb9774e4]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2010/273/schedule/2) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [17](https://www.legislation.gov.uk/ssi/2015/185/regulation/17)
+[^c-c872533e5b51e260ba0d116ecb9774e4]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2010/273/schedule/2) substituted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [17](https://www.legislation.gov.uk/ssi/2015/185/regulation/17)
 
-[^key-2a736c9c3aaa5c5b4188afc077b15d57]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2010/273/schedule/2) table inserted (1.3.2016) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/33)](https://www.legislation.gov.uk/ssi/2016/33), [regs. 1](https://www.legislation.gov.uk/ssi/2016/33/regulation/1), [4](https://www.legislation.gov.uk/ssi/2016/33/regulation/4)
+[^c-2a736c9c3aaa5c5b4188afc077b15d57]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2010/273/schedule/2) table inserted (1.3.2016) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/33)](https://www.legislation.gov.uk/ssi/2016/33), [regs. 1](https://www.legislation.gov.uk/ssi/2016/33/regulation/1), [4](https://www.legislation.gov.uk/ssi/2016/33/regulation/4)
 
-[^key-907fd93fe2ef9f73d209cc1a587f5d25]: Commencement: Sch. 3 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-907fd93fe2ef9f73d209cc1a587f5d25]: Commencement: Sch. 3 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-aa2b30a7ff0fc83449f2590231ddb870]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2010/273/schedule/4) heading substituted (14.3.2011) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [11(a)](https://www.legislation.gov.uk/ssi/2011/73/regulation/11/a)
+[^c-aa2b30a7ff0fc83449f2590231ddb870]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2010/273/schedule/4) heading substituted (14.3.2011) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [11(a)](https://www.legislation.gov.uk/ssi/2011/73/regulation/11/a)
 
-[^key-44769fa3511fe1fb9cfd27a7097c643a]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2010/273/schedule/4/part/1) in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-44769fa3511fe1fb9cfd27a7097c643a]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2010/273/schedule/4/part/1) in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-7a2d0c9caf25cf56d24e1d763a8f441e]: Commencement: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ssi/2010/273/schedule/4/part/2) in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-7a2d0c9caf25cf56d24e1d763a8f441e]: Commencement: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ssi/2010/273/schedule/4/part/2) in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-070834e6db90248130356ff97c44951d]: Textual amendment: [Sch. 4 Pt. 3](https://www.legislation.gov.uk/ssi/2010/273/schedule/4/part/3) inserted (14.3.2011) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [11(b)](https://www.legislation.gov.uk/ssi/2011/73/regulation/11/b)
+[^c-070834e6db90248130356ff97c44951d]: Textual amendment: [Sch. 4 Pt. 3](https://www.legislation.gov.uk/ssi/2010/273/schedule/4/part/3) inserted (14.3.2011) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [11(b)](https://www.legislation.gov.uk/ssi/2011/73/regulation/11/b)
 
-[^key-d1114d703ded242b5d501ccf53935759]: Textual amendment: Sch. 5 Pts. 1, 2 substituted (14.3.2011) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [12](https://www.legislation.gov.uk/ssi/2011/73/regulation/12)
+[^c-d1114d703ded242b5d501ccf53935759]: Textual amendment: Sch. 5 Pts. 1, 2 substituted (14.3.2011) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2011 (S.S.I. 2011/73)](https://www.legislation.gov.uk/ssi/2011/73), [regs. 1](https://www.legislation.gov.uk/ssi/2011/73/regulation/1), [12](https://www.legislation.gov.uk/ssi/2011/73/regulation/12)
 
-[^key-ef18dc423d8b952c92be893ba5db7a0e]: Textual amendment: Sch. 5 Pt. 1 Table substituted (15.5.2019) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/98)](https://www.legislation.gov.uk/ssi/2019/98), [regs. 1](https://www.legislation.gov.uk/ssi/2019/98/regulation/1), [8(2)](https://www.legislation.gov.uk/ssi/2019/98/regulation/8/2)
+[^c-ef18dc423d8b952c92be893ba5db7a0e]: Textual amendment: Sch. 5 Pt. 1 Table substituted (15.5.2019) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/98)](https://www.legislation.gov.uk/ssi/2019/98), [regs. 1](https://www.legislation.gov.uk/ssi/2019/98/regulation/1), [8(2)](https://www.legislation.gov.uk/ssi/2019/98/regulation/8/2)
 
-[^key-beb9328a3a735f8c436a26754caabbcc]: Textual amendment: Words in sch. 5 Pt. 1 Table inserted (1.1.2021) by [The Common Agricultural Policy (Less Favoured Area Support) (EU Exit) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/456)](https://www.legislation.gov.uk/ssi/2020/456), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/456/regulation/1/2), [3(5)](https://www.legislation.gov.uk/ssi/2020/456/regulation/3/5)
+[^c-beb9328a3a735f8c436a26754caabbcc]: Textual amendment: Words in sch. 5 Pt. 1 Table inserted (1.1.2021) by [The Common Agricultural Policy (Less Favoured Area Support) (EU Exit) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/456)](https://www.legislation.gov.uk/ssi/2020/456), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/456/regulation/1/2), [3(5)](https://www.legislation.gov.uk/ssi/2020/456/regulation/3/5)
 
-[^key-c63ba9c493d12381b90fcf70c859282f]: Textual amendment: Words in [sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2010/273/schedule/5/part/1) Table inserted (1.1.2025) by [The Rural Development (Continuation of Operation) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/342)](https://www.legislation.gov.uk/ssi/2024/342), [regs. 1](https://www.legislation.gov.uk/ssi/2024/342/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2024/342/regulation/2/4)
+[^c-c63ba9c493d12381b90fcf70c859282f]: Textual amendment: Words in [sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2010/273/schedule/5/part/1) Table inserted (1.1.2025) by [The Rural Development (Continuation of Operation) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/342)](https://www.legislation.gov.uk/ssi/2024/342), [regs. 1](https://www.legislation.gov.uk/ssi/2024/342/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2024/342/regulation/2/4)
 
-[^key-5413b8ad0af641752ee424105ba3aa06]: Textual amendment: Sch. 5 Pt. 2 Table substituted (15.5.2019) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/98)](https://www.legislation.gov.uk/ssi/2019/98), [regs. 1](https://www.legislation.gov.uk/ssi/2019/98/regulation/1), [8(3)](https://www.legislation.gov.uk/ssi/2019/98/regulation/8/3)
+[^c-5413b8ad0af641752ee424105ba3aa06]: Textual amendment: Sch. 5 Pt. 2 Table substituted (15.5.2019) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/98)](https://www.legislation.gov.uk/ssi/2019/98), [regs. 1](https://www.legislation.gov.uk/ssi/2019/98/regulation/1), [8(3)](https://www.legislation.gov.uk/ssi/2019/98/regulation/8/3)
 
-[^key-1c53580700eadfb28eae3e3aa508b5b0]: Textual amendment: Words in sch. 5 Pt. 2 Table inserted (1.1.2021) by [The Common Agricultural Policy (Less Favoured Area Support) (EU Exit) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/456)](https://www.legislation.gov.uk/ssi/2020/456), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/456/regulation/1/2), [3(5)](https://www.legislation.gov.uk/ssi/2020/456/regulation/3/5)
+[^c-1c53580700eadfb28eae3e3aa508b5b0]: Textual amendment: Words in sch. 5 Pt. 2 Table inserted (1.1.2021) by [The Common Agricultural Policy (Less Favoured Area Support) (EU Exit) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/456)](https://www.legislation.gov.uk/ssi/2020/456), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/456/regulation/1/2), [3(5)](https://www.legislation.gov.uk/ssi/2020/456/regulation/3/5)
 
-[^key-ce403b3f0a05ac02bfb37c3f241117a9]: Textual amendment: Words in sch. 5 Pt. 2 Table inserted (1.1.2025) by [The Rural Development (Continuation of Operation) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/342)](https://www.legislation.gov.uk/ssi/2024/342), [regs. 1](https://www.legislation.gov.uk/ssi/2024/342/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2024/342/regulation/2/4)
+[^c-ce403b3f0a05ac02bfb37c3f241117a9]: Textual amendment: Words in sch. 5 Pt. 2 Table inserted (1.1.2025) by [The Rural Development (Continuation of Operation) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/342)](https://www.legislation.gov.uk/ssi/2024/342), [regs. 1](https://www.legislation.gov.uk/ssi/2024/342/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2024/342/regulation/2/4)
 
-[^key-598551435f22ff10b512445103415aad]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ssi/2010/273/schedule/6) in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-598551435f22ff10b512445103415aad]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ssi/2010/273/schedule/6) in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-db13ccb8d602ae0c4316cda5d4606d82]: Commencement: Sch. 7 para. 1 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-db13ccb8d602ae0c4316cda5d4606d82]: Commencement: Sch. 7 para. 1 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-200a77d0831a3c6a62a1ded524650476]: Commencement: Sch. 7 para. 2 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-200a77d0831a3c6a62a1ded524650476]: Commencement: Sch. 7 para. 2 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-022fb0984a2ab24612d2f502d7aebd6d]: Commencement: Sch. 7 para. 3 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-022fb0984a2ab24612d2f502d7aebd6d]: Commencement: Sch. 7 para. 3 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-e6dce207db16624c74e5ae23c376a94b]: Commencement: Sch. 7 para. 4 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-e6dce207db16624c74e5ae23c376a94b]: Commencement: Sch. 7 para. 4 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-ffe7c6d2ab5e479860f302bdec749ecd]: Commencement: Sch. 7 para. 5 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-ffe7c6d2ab5e479860f302bdec749ecd]: Commencement: Sch. 7 para. 5 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-47930004bbd332058d63e4db6f9aa4f2]: Textual amendment: Words in [sch. 7 para. 5](https://www.legislation.gov.uk/ssi/2010/273/schedule/7/paragraph/5) inserted (1.3.2013) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2013 (S.S.I. 2013/9)](https://www.legislation.gov.uk/ssi/2013/9), [regs. 1](https://www.legislation.gov.uk/ssi/2013/9/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2013/9/regulation/6/a)
+[^c-47930004bbd332058d63e4db6f9aa4f2]: Textual amendment: Words in [sch. 7 para. 5](https://www.legislation.gov.uk/ssi/2010/273/schedule/7/paragraph/5) inserted (1.3.2013) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2013 (S.S.I. 2013/9)](https://www.legislation.gov.uk/ssi/2013/9), [regs. 1](https://www.legislation.gov.uk/ssi/2013/9/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2013/9/regulation/6/a)
 
-[^key-f1b67bf1bbebe6335914ada5a6d0c149]: Textual amendment: Words in [sch. 7 para. 5](https://www.legislation.gov.uk/ssi/2010/273/schedule/7/paragraph/5) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [19(a)](https://www.legislation.gov.uk/ssi/2015/185/regulation/19/a)
+[^c-f1b67bf1bbebe6335914ada5a6d0c149]: Textual amendment: Words in [sch. 7 para. 5](https://www.legislation.gov.uk/ssi/2010/273/schedule/7/paragraph/5) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [19(a)](https://www.legislation.gov.uk/ssi/2015/185/regulation/19/a)
 
-[^key-0e8d9ba32e65970f01076bb4a251a22a]: Commencement: Sch. 7 para. 6 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-0e8d9ba32e65970f01076bb4a251a22a]: Commencement: Sch. 7 para. 6 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-6c3d102dfc0474d038c4f3e2faa8f729]: Textual amendment: Words in [sch. 7 para. 6](https://www.legislation.gov.uk/ssi/2010/273/schedule/7/paragraph/6) inserted (1.3.2013) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2013 (S.S.I. 2013/9)](https://www.legislation.gov.uk/ssi/2013/9), [regs. 1](https://www.legislation.gov.uk/ssi/2013/9/regulation/1), [6(b)](https://www.legislation.gov.uk/ssi/2013/9/regulation/6/b)
+[^c-6c3d102dfc0474d038c4f3e2faa8f729]: Textual amendment: Words in [sch. 7 para. 6](https://www.legislation.gov.uk/ssi/2010/273/schedule/7/paragraph/6) inserted (1.3.2013) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2013 (S.S.I. 2013/9)](https://www.legislation.gov.uk/ssi/2013/9), [regs. 1](https://www.legislation.gov.uk/ssi/2013/9/regulation/1), [6(b)](https://www.legislation.gov.uk/ssi/2013/9/regulation/6/b)
 
-[^key-e891ab5a88aa99cd1f28d2022af427ec]: Textual amendment: Words in [sch. 7 para. 6](https://www.legislation.gov.uk/ssi/2010/273/schedule/7/paragraph/6) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [19(b)](https://www.legislation.gov.uk/ssi/2015/185/regulation/19/b)
+[^c-e891ab5a88aa99cd1f28d2022af427ec]: Textual amendment: Words in [sch. 7 para. 6](https://www.legislation.gov.uk/ssi/2010/273/schedule/7/paragraph/6) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [19(b)](https://www.legislation.gov.uk/ssi/2015/185/regulation/19/b)
 
-[^key-8ed7493fbb9997a70c60575e331c818a]: Commencement: Sch. 7 para. 7 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-8ed7493fbb9997a70c60575e331c818a]: Commencement: Sch. 7 para. 7 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-0f7a7893b932c74059963c856c2ef40e]: Commencement: Sch. 7 para. 8 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-0f7a7893b932c74059963c856c2ef40e]: Commencement: Sch. 7 para. 8 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-56c9800f2d1a22ef5c48ad72b2ef755e]: Textual amendment: Words in [sch. 7 para. 8](https://www.legislation.gov.uk/ssi/2010/273/schedule/7/paragraph/8) inserted (1.3.2013) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2013 (S.S.I. 2013/9)](https://www.legislation.gov.uk/ssi/2013/9), [regs. 1](https://www.legislation.gov.uk/ssi/2013/9/regulation/1), [6(c)](https://www.legislation.gov.uk/ssi/2013/9/regulation/6/c)
+[^c-56c9800f2d1a22ef5c48ad72b2ef755e]: Textual amendment: Words in [sch. 7 para. 8](https://www.legislation.gov.uk/ssi/2010/273/schedule/7/paragraph/8) inserted (1.3.2013) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2013 (S.S.I. 2013/9)](https://www.legislation.gov.uk/ssi/2013/9), [regs. 1](https://www.legislation.gov.uk/ssi/2013/9/regulation/1), [6(c)](https://www.legislation.gov.uk/ssi/2013/9/regulation/6/c)
 
-[^key-9d6d86a6a1dabdd4619e170ae915ddf8]: Textual amendment: Words in [sch. 7 para. 8](https://www.legislation.gov.uk/ssi/2010/273/schedule/7/paragraph/8) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [19(c)](https://www.legislation.gov.uk/ssi/2015/185/regulation/19/c)
+[^c-9d6d86a6a1dabdd4619e170ae915ddf8]: Textual amendment: Words in [sch. 7 para. 8](https://www.legislation.gov.uk/ssi/2010/273/schedule/7/paragraph/8) inserted (9.6.2015) by [The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/185)](https://www.legislation.gov.uk/ssi/2015/185), [regs. 1](https://www.legislation.gov.uk/ssi/2015/185/regulation/1), [19(c)](https://www.legislation.gov.uk/ssi/2015/185/regulation/19/c)
 
-[^key-b06df94157c7663443543aa8acd6ecd2]: Commencement: Sch. 7 para. 9 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-b06df94157c7663443543aa8acd6ecd2]: Commencement: Sch. 7 para. 9 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
 
-[^key-fc00281c95772c56e9d90909404f2d0d]: Commencement: Sch. 8 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)
+[^c-fc00281c95772c56e9d90909404f2d0d]: Commencement: Sch. 8 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1)

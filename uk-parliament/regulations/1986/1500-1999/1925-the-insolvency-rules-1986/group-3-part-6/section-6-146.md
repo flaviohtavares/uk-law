@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.146. Trustee's duties on vacating office[^key-6849fd44709a087f3607ead78fc5444a]
+## 6.146. Trustee's duties on vacating office[^c-6849fd44709a087f3607ead78fc5444a]
 
 *Extent: E+W*
 
@@ -25,10 +25,10 @@ summary: ''
 - (a) the records of the bankruptcy, including correspondence, proofs and other related papers appertaining to the bankruptcy while it was within his responsibility, and
 - (b) the bankrupt's books, papers and other records.
 
-(2)[^key-92e104135c10181a4ef676dd992a6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-92e104135c10181a4ef676dd992a6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6849fd44709a087f3607ead78fc5444a]: Commencement: [Rule 6.146](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.146) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-6849fd44709a087f3607ead78fc5444a]: Commencement: [Rule 6.146](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.146) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-92e104135c10181a4ef676dd992a6d87]: Textual amendment: [Rule 6.146(2)](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.146/2) omitted (1.4.2004) by virtue of [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [36](https://www.legislation.gov.uk/uksi/2004/584/article/36)
+[^c-92e104135c10181a4ef676dd992a6d87]: Textual amendment: [Rule 6.146(2)](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.146/2) omitted (1.4.2004) by virtue of [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [36](https://www.legislation.gov.uk/uksi/2004/584/article/36)

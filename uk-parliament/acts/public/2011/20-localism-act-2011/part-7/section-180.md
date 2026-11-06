@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-686fda22dba11f6f1b4af1a12adfdd30] In Schedule 2 to the Housing Act 1996 (social rented sector: housing complaints) after paragraph 7 insert—
+(1)[^c-686fda22dba11f6f1b4af1a12adfdd30] In Schedule 2 to the Housing Act 1996 (social rented sector: housing complaints) after paragraph 7 insert—
 
 > **7A. Complaints must be referred by designated person unless paragraph 7B applies**
 >
@@ -99,9 +99,9 @@ summary: ''
 >
 > (4) A statutory instrument containing an order made by the Secretary of State under sub-paragraph (1) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(2)[^key-0cf86a716332ea1f39e0b6098f03dbec] Section 239(2) of the Housing and Regeneration Act 2008 (regulator may award compensation if compensation awarded by housing ombudsman has not been paid) is omitted.
+(2)[^c-0cf86a716332ea1f39e0b6098f03dbec] Section 239(2) of the Housing and Regeneration Act 2008 (regulator may award compensation if compensation awarded by housing ombudsman has not been paid) is omitted.
 
-(3)[^key-0cf86a716332ea1f39e0b6098f03dbec] Subsection (1), so far as it inserts paragraph 7A of Schedule 2 to the Housing Act 1996, applies only in relation to complaints made to a housing ombudsman after the coming into force of that subsection so far as it makes that insertion.
+(3)[^c-0cf86a716332ea1f39e0b6098f03dbec] Subsection (1), so far as it inserts paragraph 7A of Schedule 2 to the Housing Act 1996, applies only in relation to complaints made to a housing ombudsman after the coming into force of that subsection so far as it makes that insertion.
 
 (4) Subsection (1), so far as it inserts paragraph 7D of that Schedule, applies only in relation to determinations made after the coming into force of that subsection so far as it makes that insertion.
 
@@ -109,6 +109,6 @@ summary: ''
 
 ## Annotations
 
-[^key-686fda22dba11f6f1b4af1a12adfdd30]: Commencement: [S. 180(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/180/1) in force at 1.4.2013 for specified purposes for E. by [S.I. 2013/722](https://www.legislation.gov.uk/uksi/2013/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/722/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/722/article/3))
+[^c-686fda22dba11f6f1b4af1a12adfdd30]: Commencement: [S. 180(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/180/1) in force at 1.4.2013 for specified purposes for E. by [S.I. 2013/722](https://www.legislation.gov.uk/uksi/2013/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/722/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/722/article/3))
 
-[^key-0cf86a716332ea1f39e0b6098f03dbec]: Commencement: [S. 180(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/180/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/180/3) in force at 1.4.2013 for E. by [S.I. 2013/722](https://www.legislation.gov.uk/uksi/2013/722), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/722/article/2/b)
+[^c-0cf86a716332ea1f39e0b6098f03dbec]: Commencement: [S. 180(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/180/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/180/3) in force at 1.4.2013 for E. by [S.I. 2013/722](https://www.legislation.gov.uk/uksi/2013/722), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/722/article/2/b)

@@ -33,18 +33,18 @@ of 30 September 2015
 
 amending Delegated Regulation (EU) 2015/288 as regards the period of inadmissibility of applications for support from the European Maritime and Fisheries Fund (revoked)
 
-[^key-bdeaa4e4ace4c97ff4862304177d3d9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdeaa4e4ace4c97ff4862304177d3d9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-bdeaa4e4ace4c97ff4862304177d3d9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-bdeaa4e4ace4c97ff4862304177d3d9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Entry into force[^key-bdeaa4e4ace4c97ff4862304177d3d9b]
+## Article 2. Entry into force[^c-bdeaa4e4ace4c97ff4862304177d3d9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bdeaa4e4ace4c97ff4862304177d3d9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdeaa4e4ace4c97ff4862304177d3d9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bdeaa4e4ace4c97ff4862304177d3d9b]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)
+[^c-bdeaa4e4ace4c97ff4862304177d3d9b]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)

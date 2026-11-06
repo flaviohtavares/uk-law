@@ -31,7 +31,7 @@ summary: ''
 
 PUBLIC PASSENGER TRANSPORT
 
-The Public Service Vehicles (Community Licences) Regulations 1999 (revoked)[^key-2e35331657674097eb66a1e136369da4]
+The Public Service Vehicles (Community Licences) Regulations 1999 (revoked)[^c-2e35331657674097eb66a1e136369da4]
 
 Made
 
@@ -51,76 +51,76 @@ For all other purposes
 
 11th June 1999
 
-[^key-2e35331657674097eb66a1e136369da4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2e35331657674097eb66a1e136369da4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-2e35331657674097eb66a1e136369da4]
+## 1. Citation, commencement and extent[^c-2e35331657674097eb66a1e136369da4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Purpose and interpretation[^key-2e35331657674097eb66a1e136369da4]
+## 2. Purpose and interpretation[^c-2e35331657674097eb66a1e136369da4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Use of public service vehicles without Community licence[^key-2e35331657674097eb66a1e136369da4]
+## 3. Use of public service vehicles without Community licence[^c-2e35331657674097eb66a1e136369da4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Competent authorities[^key-2e35331657674097eb66a1e136369da4]
+## 4. Competent authorities[^c-2e35331657674097eb66a1e136369da4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Entitlement to the issue of a Community licence[^key-2e35331657674097eb66a1e136369da4]
+## 5. Entitlement to the issue of a Community licence[^c-2e35331657674097eb66a1e136369da4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Rights of appeal[^key-2e35331657674097eb66a1e136369da4]
+## 6. Rights of appeal[^c-2e35331657674097eb66a1e136369da4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Effect of failure to comply with conditions governing use of Community licences[^key-2e35331657674097eb66a1e136369da4]
+## 7. Effect of failure to comply with conditions governing use of Community licences[^c-2e35331657674097eb66a1e136369da4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7A.. Power to stop[^key-2e35331657674097eb66a1e136369da4]
+## 7A.. Power to stop[^c-2e35331657674097eb66a1e136369da4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Authorised inspecting officers[^key-2e35331657674097eb66a1e136369da4]
+## 8. Authorised inspecting officers[^c-2e35331657674097eb66a1e136369da4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Return of documents[^key-2e35331657674097eb66a1e136369da4]
+## 9. Return of documents[^c-2e35331657674097eb66a1e136369da4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Supply of information[^key-2e35331657674097eb66a1e136369da4]
+## 10. Supply of information[^c-2e35331657674097eb66a1e136369da4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Death, bankruptcy etc of holder of Community licence[^key-2e35331657674097eb66a1e136369da4]
+## 11. Death, bankruptcy etc of holder of Community licence[^c-2e35331657674097eb66a1e136369da4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Bodies corporate[^key-2e35331657674097eb66a1e136369da4]
+## 12. Bodies corporate[^c-2e35331657674097eb66a1e136369da4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Modification of the Road Traffic (Foreign Vehicles) Act 1972[^key-2e35331657674097eb66a1e136369da4]
+## Modification of the Road Traffic (Foreign Vehicles) Act 1972[^c-2e35331657674097eb66a1e136369da4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-2e35331657674097eb66a1e136369da4]
+## 13.[^c-2e35331657674097eb66a1e136369da4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2e35331657674097eb66a1e136369da4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2e35331657674097eb66a1e136369da4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2e35331657674097eb66a1e136369da4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2e35331657674097eb66a1e136369da4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2e35331657674097eb66a1e136369da4]: Textual amendment: Regulations revoked (4.12.2011) by [The Public Service Vehicles (Community Licences) Regulations 2011 (S.I. 2011/2634)](https://www.legislation.gov.uk/uksi/2011/2634), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2634/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2011/2634/regulation/2/a)
+[^c-2e35331657674097eb66a1e136369da4]: Textual amendment: Regulations revoked (4.12.2011) by [The Public Service Vehicles (Community Licences) Regulations 2011 (S.I. 2011/2634)](https://www.legislation.gov.uk/uksi/2011/2634), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2634/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2011/2634/regulation/2/a)

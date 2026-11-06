@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 204. Warrants (general provisions)[^key-2fc0e6578c97b9576f94e4339db37e4d]
+## 204. Warrants (general provisions)[^c-2fc0e6578c97b9576f94e4339db37e4d]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fc0e6578c97b9576f94e4339db37e4d]: Commencement: Rule 204 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-2fc0e6578c97b9576f94e4339db37e4d]: Commencement: Rule 204 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

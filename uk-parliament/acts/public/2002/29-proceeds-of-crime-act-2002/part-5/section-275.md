@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 275. Pension schemes: supplementary[^key-1c2a0d704068e23a57b3b7536b945506]
+## 275. Pension schemes: supplementary[^c-1c2a0d704068e23a57b3b7536b945506]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) in a manner which, in the particular case, is approved by a prescribed person, or
 - (b) in accordance with guidance from time to time prepared by a prescribed person.
 
-(3) Regulations means regulations made by the Secretary of State after consultation with the Scottish Ministers or, in relation to Northern Ireland, regulations made by the Department of Justice[^key-03bd3b47991a9fa84bda9f9da553671f] ; and prescribed means prescribed by regulations.
+(3) Regulations means regulations made by the Secretary of State after consultation with the Scottish Ministers or, in relation to Northern Ireland, regulations made by the Department of Justice[^c-03bd3b47991a9fa84bda9f9da553671f] ; and prescribed means prescribed by regulations.
 
 (4) A pension scheme means an occupational pension scheme or a personal pension scheme; and those expressions have the same meaning as in the Pension Schemes Act 1993 (c. 48) or, in relation to Northern Ireland, the Pension Schemes (Northern Ireland) Act 1993 (c. 49).
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1c2a0d704068e23a57b3b7536b945506]: Commencement: S. 275 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-1c2a0d704068e23a57b3b7536b945506]: Commencement: S. 275 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-03bd3b47991a9fa84bda9f9da553671f]: Textual amendment: Words in s. 275(3) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 54](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/54) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-03bd3b47991a9fa84bda9f9da553671f]: Textual amendment: Words in s. 275(3) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 54](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/54) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

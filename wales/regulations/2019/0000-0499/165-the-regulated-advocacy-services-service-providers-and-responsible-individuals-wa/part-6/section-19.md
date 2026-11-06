@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Confidentiality[^key-97c2da8a1f4880ad98a9cbeeb133b0f7]
+## 19. Confidentiality[^c-97c2da8a1f4880ad98a9cbeeb133b0f7]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97c2da8a1f4880ad98a9cbeeb133b0f7]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2019/165/regulation/19) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-97c2da8a1f4880ad98a9cbeeb133b0f7]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2019/165/regulation/19) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

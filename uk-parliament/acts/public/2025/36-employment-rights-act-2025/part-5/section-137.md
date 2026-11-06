@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Restriction on disclosure of HMRC information[^key-012580ab21e977fb65d583af9e90855f][^key-0a33009e9d58317f774b0916d143a1b0]
+## 137. Restriction on disclosure of HMRC information[^c-012580ab21e977fb65d583af9e90855f][^c-0a33009e9d58317f774b0916d143a1b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ section 19 of the Commissioners for Revenue and Customs Act 2005 (wrongful discl
 
 ## Annotations
 
-[^key-012580ab21e977fb65d583af9e90855f]: Commencement: S. 137 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-012580ab21e977fb65d583af9e90855f]: Commencement: S. 137 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-0a33009e9d58317f774b0916d143a1b0]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2025/36/section/137) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(38)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/38)
+[^c-0a33009e9d58317f774b0916d143a1b0]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2025/36/section/137) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(38)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/38)

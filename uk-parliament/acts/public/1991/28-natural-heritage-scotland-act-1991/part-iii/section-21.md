@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Offences against drought orders.[^key-70440c6ff1a7bbeacc94b8b4c52fe9ee]
+## 21. Offences against drought orders.[^c-70440c6ff1a7bbeacc94b8b4c52fe9ee]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70440c6ff1a7bbeacc94b8b4c52fe9ee]: Textual amendment: Pt. III repealed (10.6.2013) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [s. 56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2), [Sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/asp/2013/5/schedule/4/paragraph/1/2/a); [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-70440c6ff1a7bbeacc94b8b4c52fe9ee]: Textual amendment: Pt. III repealed (10.6.2013) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [s. 56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2), [Sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/asp/2013/5/schedule/4/paragraph/1/2/a); [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

@@ -47,7 +47,7 @@ In accordance with section 2A(6) of the Mobile Homes Act 1983 and section 250(6)
 
 In accordance with paragraph 24 of Schedule 7 to the Tribunals, Courts and Enforcement Act 2007[^f00004] the Welsh Ministers have consulted with the Administrative Justice and Tribunals Council.
 
-## 1. Title, commencement and application[^key-fd21f493cbd2d8a3ddd50c30df02a752]
+## 1. Title, commencement and application[^c-fd21f493cbd2d8a3ddd50c30df02a752]
 
 (1) The title of this Order is the Mobile Homes Act 1983 (Amendment of Schedule 1 and Consequential Amendments) (Wales) Order 2013 and it comes into force on 10 July 2013 (“the commencement date”).
 
@@ -55,7 +55,7 @@ In accordance with paragraph 24 of Schedule 7 to the Tribunals, Courts and Enfor
 
 (3) The amendments made by this Order apply in relation to agreements made on or after the commencement date.
 
-## 2. Amendments to Part 1 of Schedule 1 to the Mobile Homes Act 1983[^key-e3dfee062dc6e4e7786df1628724b8af]
+## 2. Amendments to Part 1 of Schedule 1 to the Mobile Homes Act 1983[^c-e3dfee062dc6e4e7786df1628724b8af]
 
 (1) Part 1 of Schedule 1 to the Mobile Homes Act 1983 is amended as follows.
 
@@ -170,11 +170,11 @@ In accordance with paragraph 24 of Schedule 7 to the Tribunals, Courts and Enfor
 
     .
 
-## 3. Residential property tribunals[^key-5a0d34b2d84eee46b66ed867ced153a3]
+## 3. Residential property tribunals[^c-5a0d34b2d84eee46b66ed867ced153a3]
 
 Section 4 of the Mobile Homes Act 1983 (jurisdiction of a tribunal or the court) has effect as if references in that section to the Mobile Homes Act 1983 were references to that Act as amended by the Housing and Regeneration Act 2008[^f00005] and this Order.
 
-## 4. Consequential amendments to the Mobile Homes Act 1983[^key-895730b296ab6e4b23f506cff16ae1e8]
+## 4. Consequential amendments to the Mobile Homes Act 1983[^c-895730b296ab6e4b23f506cff16ae1e8]
 
 (1) The Mobile Homes Act 1983 is amended as follows.
 
@@ -209,11 +209,11 @@ Section 4 of the Mobile Homes Act 1983 (jurisdiction of a tribunal or the court)
 - (c) in paragraph 1(3) after “paragraph 8(1B)” insert “of Chapter 2 or paragraph 6B(3) of Chapter 4”;
 - (d) in paragraph 2(2) after “paragraph 8 or 9” insert “of Chapter 2 or paragraph 6A of Chapter 4”.
 
-## 5. Amendments to the Residential Property Tribunal Procedures and Fees (Wales) Regulations 2012[^key-07ee07f8c432b841cb993fd8f1e8968d]
+## 5. Amendments to the Residential Property Tribunal Procedures and Fees (Wales) Regulations 2012[^c-07ee07f8c432b841cb993fd8f1e8968d]
 
-(1)[^key-ad8a46c70c0531d879672f5bda1b489b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-ad8a46c70c0531d879672f5bda1b489b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-ad8a46c70c0531d879672f5bda1b489b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ad8a46c70c0531d879672f5bda1b489b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 12 (applications under the 1983 Act relating to detrimental effect of mobile homes on the amenity of the site)—
 
@@ -239,7 +239,7 @@ Section 4 of the Mobile Homes Act 1983 (jurisdiction of a tribunal or the court)
   - (ii) in subparagraph (2)(c) after “Chapter 2” insert “, or paragraph 4 of Chapter 4,”;
   - (iii) in subparagraph (2)(e) after “Chapter 2” insert “, or paragraph 6(1) of Chapter 4,”;
 - (c) in paragraph 56 (applications relating to approval of person on sale or gift of mobile home)—
-  - (i)[^key-b7a3544ab629172507122b153532842d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-b7a3544ab629172507122b153532842d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) in subparagraph (1) after “Chapter 2” insert “and paragraph 6B(7) of Chapter 4”;
   - (iii) in subparagraph (2)(a) after “Chapter 2” insert “, or paragraph 6B(1) of Chapter 4,”;
   - (iv) in subparagraph (2)(b) after “gift” insert “or to the assignment”;
@@ -253,7 +253,7 @@ Section 4 of the Mobile Homes Act 1983 (jurisdiction of a tribunal or the court)
   - (ii) in subparagraph (2)(d) after “Chapter 2” insert “, or paragraph 20(f) and (g) of Chapter 4,”;
 - (h) in paragraph 61(1) after “Chapter 2,” insert “or paragraph 26(1)(h) of Chapter 4,”.
 
-## 6. Amendment of the Mobile Homes (Written Statement) (Wales) Regulations 2012[^key-18b76389a7f4b132db9af03ec9ff5aee]
+## 6. Amendment of the Mobile Homes (Written Statement) (Wales) Regulations 2012[^c-18b76389a7f4b132db9af03ec9ff5aee]
 
 (1) The amendments made by this paragraph apply to any written statement given on or after the commencement date.
 
@@ -278,7 +278,7 @@ Section 4 of the Mobile Homes Act 1983 (jurisdiction of a tribunal or the court)
 
   .
 
-## 7. Amendment to the Mobile Homes (Commissions) Order 1983[^key-564fd0e5f0621e68582a306bbae3b175]
+## 7. Amendment to the Mobile Homes (Commissions) Order 1983[^c-564fd0e5f0621e68582a306bbae3b175]
 
 Article 2 of the Mobile Homes (Commissions) Order 1983[^f00008] is amended by inserting “of Chapter 2” after “paragraph 8”.
 
@@ -327,26 +327,26 @@ A regulatory impact assessment has been prepared as to the likely costs and bene
 
 [^f00004]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-fd21f493cbd2d8a3ddd50c30df02a752]: Commencement: Art. 1 in force at 10.7.2013, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2013/1723/article/1/1)
+[^c-fd21f493cbd2d8a3ddd50c30df02a752]: Commencement: Art. 1 in force at 10.7.2013, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2013/1723/article/1/1)
 
-[^key-e3dfee062dc6e4e7786df1628724b8af]: Commencement: Art. 2 in force at 10.7.2013, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2013/1723/article/1/1)
+[^c-e3dfee062dc6e4e7786df1628724b8af]: Commencement: Art. 2 in force at 10.7.2013, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2013/1723/article/1/1)
 
-[^key-5a0d34b2d84eee46b66ed867ced153a3]: Commencement: Art. 3 in force at 10.7.2013, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2013/1723/article/1/1)
+[^c-5a0d34b2d84eee46b66ed867ced153a3]: Commencement: Art. 3 in force at 10.7.2013, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2013/1723/article/1/1)
 
 [^f00005]: Footnote: Section 318 of the Housing and Regeneration Act 2008 amends section 5(1) of the 1983 Act to remove the exclusion of “land occupied by a caravan site providing accommodation for gipsies” from the meaning of “protected site” for the purposes of the 1983 Act.
 
-[^key-895730b296ab6e4b23f506cff16ae1e8]: Commencement: Art. 4 in force at 10.7.2013, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2013/1723/article/1/1)
+[^c-895730b296ab6e4b23f506cff16ae1e8]: Commencement: Art. 4 in force at 10.7.2013, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2013/1723/article/1/1)
 
-[^key-07ee07f8c432b841cb993fd8f1e8968d]: Commencement: Art. 5 in force at 10.7.2013, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2013/1723/article/1/1)
+[^c-07ee07f8c432b841cb993fd8f1e8968d]: Commencement: Art. 5 in force at 10.7.2013, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2013/1723/article/1/1)
 
-[^key-ad8a46c70c0531d879672f5bda1b489b]: Textual amendment: [Art. 5(1)](https://www.legislation.gov.uk/wsi/2013/1723/article/5/1)[(2)](https://www.legislation.gov.uk/wsi/2013/1723/article/5/2) revoked (23.11.2016) by [The Residential Property Tribunal Procedures and Fees (Wales) Regulations 2016 (S.I. 2016/1110)](https://www.legislation.gov.uk/wsi/2016/1110), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1), [52(e)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/52/e) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/2))
+[^c-ad8a46c70c0531d879672f5bda1b489b]: Textual amendment: [Art. 5(1)](https://www.legislation.gov.uk/wsi/2013/1723/article/5/1)[(2)](https://www.legislation.gov.uk/wsi/2013/1723/article/5/2) revoked (23.11.2016) by [The Residential Property Tribunal Procedures and Fees (Wales) Regulations 2016 (S.I. 2016/1110)](https://www.legislation.gov.uk/wsi/2016/1110), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1), [52(e)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/52/e) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/2))
 
-[^key-b7a3544ab629172507122b153532842d]: Textual amendment: [Art. 5(6)(c)(i)](https://www.legislation.gov.uk/wsi/2013/1723/article/5/6/c/i) revoked (23.11.2016) by [The Residential Property Tribunal Procedures and Fees (Wales) Regulations 2016 (S.I. 2016/1110)](https://www.legislation.gov.uk/wsi/2016/1110), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1), [52(e)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/52/e) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/2))
+[^c-b7a3544ab629172507122b153532842d]: Textual amendment: [Art. 5(6)(c)(i)](https://www.legislation.gov.uk/wsi/2013/1723/article/5/6/c/i) revoked (23.11.2016) by [The Residential Property Tribunal Procedures and Fees (Wales) Regulations 2016 (S.I. 2016/1110)](https://www.legislation.gov.uk/wsi/2016/1110), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1), [52(e)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/52/e) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/2))
 
-[^key-18b76389a7f4b132db9af03ec9ff5aee]: Commencement: Art. 6 in force at 10.7.2013, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2013/1723/article/1/1)
+[^c-18b76389a7f4b132db9af03ec9ff5aee]: Commencement: Art. 6 in force at 10.7.2013, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2013/1723/article/1/1)
 
 [^f00007]: Footnote: [S.I. 2012/2675 (W. 289)](https://www.legislation.gov.uk/wsi/2012/2675).
 
-[^key-564fd0e5f0621e68582a306bbae3b175]: Commencement: Art. 7 in force at 10.7.2013, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2013/1723/article/1/1)
+[^c-564fd0e5f0621e68582a306bbae3b175]: Commencement: Art. 7 in force at 10.7.2013, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2013/1723/article/1/1)
 
 [^f00008]: Footnote: [S.I. 1983/748](https://www.legislation.gov.uk/uksi/1983/748).

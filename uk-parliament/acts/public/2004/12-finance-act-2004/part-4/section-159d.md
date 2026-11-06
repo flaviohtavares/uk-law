@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159D. Penalties for inaccurate information or documents provided under information notice[^key-5361f8a25843abe1bf55d14de68083fd]
+## 159D. Penalties for inaccurate information or documents provided under information notice[^c-5361f8a25843abe1bf55d14de68083fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5361f8a25843abe1bf55d14de68083fd]: Textual amendment: Ss. 159A-159D inserted (1.9.2014) (with effect in accordance with Sch. 7 para. 8(1) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 7 paras. 7](https://www.legislation.gov.uk/ukpga/2014/26/schedule/7/paragraph/7), [8(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/7/paragraph/8/3)
+[^c-5361f8a25843abe1bf55d14de68083fd]: Textual amendment: Ss. 159A-159D inserted (1.9.2014) (with effect in accordance with Sch. 7 para. 8(1) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 7 paras. 7](https://www.legislation.gov.uk/ukpga/2014/26/schedule/7/paragraph/7), [8(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/7/paragraph/8/3)

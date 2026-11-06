@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Arrestment of property affected by interim administration order[^key-c600f2c2c06baf24988b0a7edb0a765c]
+## 176. Arrestment of property affected by interim administration order[^c-c600f2c2c06baf24988b0a7edb0a765c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c600f2c2c06baf24988b0a7edb0a765c]: Commencement: [Art. 176](https://www.legislation.gov.uk/uksi/2005/3181/article/176) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-c600f2c2c06baf24988b0a7edb0a765c]: Commencement: [Art. 176](https://www.legislation.gov.uk/uksi/2005/3181/article/176) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

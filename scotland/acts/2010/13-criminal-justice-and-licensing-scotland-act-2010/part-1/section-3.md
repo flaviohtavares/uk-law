@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Sentencing guidelines[^key-0a174df6e3cab7544af3476567fb7274]
+## 3. Sentencing guidelines[^c-0a174df6e3cab7544af3476567fb7274]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a174df6e3cab7544af3476567fb7274]: Commencement: S. 3 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)
+[^c-0a174df6e3cab7544af3476567fb7274]: Commencement: S. 3 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)

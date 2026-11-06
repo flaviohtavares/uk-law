@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 243. Powers of inspection and examination and to take samples[^key-f106b887161e2ca1d82b50d10b857e6e]
+## 243. Powers of inspection and examination and to take samples[^c-f106b887161e2ca1d82b50d10b857e6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ and retain it for as long as necessary to comply with the purposes in section 26
 
 ## Annotations
 
-[^key-f106b887161e2ca1d82b50d10b857e6e]: Commencement: Reg. 243 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-f106b887161e2ca1d82b50d10b857e6e]: Commencement: Reg. 243 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

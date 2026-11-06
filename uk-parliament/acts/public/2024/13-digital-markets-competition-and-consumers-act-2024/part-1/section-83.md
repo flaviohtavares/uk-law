@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Nominated officer[^key-90d94ee96711404a0e70e1c7b50bd7a7][^key-3a319b8afe9215ac49f340d3aac9d491]
+## 83. Nominated officer[^c-90d94ee96711404a0e70e1c7b50bd7a7][^c-3a319b8afe9215ac49f340d3aac9d491]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-90d94ee96711404a0e70e1c7b50bd7a7]: Commencement: S. 83 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-90d94ee96711404a0e70e1c7b50bd7a7]: Commencement: S. 83 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-3a319b8afe9215ac49f340d3aac9d491]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2024/13/section/83) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-3a319b8afe9215ac49f340d3aac9d491]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2024/13/section/83) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

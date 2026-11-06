@@ -52,7 +52,7 @@ A draft of this Order has been approved by resolution of each House of Parliamen
 
 Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council, to order as follows—
 
-## 1. Citation and commencement[^key-05b27a0217b5bb1d5c92fe8819cb8d16]
+## 1. Citation and commencement[^c-05b27a0217b5bb1d5c92fe8819cb8d16]
 
 (1) This Order may be cited as the European Organization for Astronomical Research in the Southern Hemisphere and the European Space Agency (Immunities and Privileges) (Amendment) Order 2018.
 
@@ -60,11 +60,11 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 
 (3) Article 4 (Amendments to the European Space Agency (Immunities and Privileges) Order 1978) comes into force on the date on which the Agreement between the United Kingdom and the European Space Agency concerning the European Space Agency’s Sites and Facilities in the United Kingdom enters into force in the United Kingdom[^f00003].
 
-## 2. Application[^key-fab830b9b25856a8e570ccb378c9d120]
+## 2. Application[^c-fab830b9b25856a8e570ccb378c9d120]
 
-In Scotland, the amendments made by article 3(3) and (4)(b) and article 4(2) , (2A)[^key-d64fd48ea6bed6c28b606db241a27438] and (3)(a) do not apply in so far as they would, if included in an Act of the Scottish Parliament, be within the legislative competence of that Parliament.
+In Scotland, the amendments made by article 3(3) and (4)(b) and article 4(2) , (2A)[^c-d64fd48ea6bed6c28b606db241a27438] and (3)(a) do not apply in so far as they would, if included in an Act of the Scottish Parliament, be within the legislative competence of that Parliament.
 
-## 3. Amendments to the European Organization for Astronomical Research in the Southern Hemisphere (Immunities and Privileges) Order 2009[^key-335d04313313c375e57fcbfefee3a492]
+## 3. Amendments to the European Organization for Astronomical Research in the Southern Hemisphere (Immunities and Privileges) Order 2009[^c-335d04313313c375e57fcbfefee3a492]
 
 (1) The European Organization for Astronomical Research in the Southern Hemisphere (Immunities and Privileges) Order 2009[^f00004] is amended as follows.
 
@@ -113,7 +113,7 @@ In Scotland, the amendments made by article 3(3) and (4)(b) and article 4(2) , (
   ;
 - (b) in the full out, for “this paragraph” substitute “sub-paragraph (c)”.
 
-## 4. Amendments to the European Space Agency (Immunities and Privileges) Order 1978[^key-026405185eb359991626746990c694c5][^key-026405185eb359991626746990c694c5]
+## 4. Amendments to the European Space Agency (Immunities and Privileges) Order 1978[^c-026405185eb359991626746990c694c5][^c-026405185eb359991626746990c694c5]
 
 (1) The European Space Agency (Immunities and Privileges) Order 1978[^f00005] is amended as follows.
 
@@ -128,9 +128,9 @@ In Scotland, the amendments made by article 3(3) and (4)(b) and article 4(2) , (
   > (2) Part IV of Schedule 1 to the Act does not operate so as to confer any privilege or immunity on any person who is a member of the family of an officer to whom paragraph (1) applies if the person is a British citizen, a British overseas territories citizen, a British Overseas citizen, a British National (Overseas) or permanent resident of the United Kingdom.
 
   ;
-- (c)[^key-9f19ef647be3a7ce0dcc0aea0ec024a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-9f19ef647be3a7ce0dcc0aea0ec024a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-26d283b5b39c44939751bec338f39d47] After article 15, insert—
+(2A)[^c-26d283b5b39c44939751bec338f39d47] After article 15, insert—
 
 > **15A. High ranking staff**
 >
@@ -197,22 +197,22 @@ Article 4(3) amends article 16 of the ESA Order to provide that all officers hav
 
 [^f00002]: Footnote: The function of approving a draft of an Order in Council under section 10 of that Act has been transferred from both Houses of Parliament to the Scottish Parliament under section 118 of the Scotland Act [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46) (as amended by section 12 of the Scotland Act [2012 c.11](https://www.legislation.gov.uk/ukpga/2012/11)) in so far as the function is exercisable within devolved competence.
 
-[^key-05b27a0217b5bb1d5c92fe8819cb8d16]: Commencement: Art. 1 in force at 28.6.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/787/article/1/2)
+[^c-05b27a0217b5bb1d5c92fe8819cb8d16]: Commencement: Art. 1 in force at 28.6.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/787/article/1/2)
 
 [^f00003]: Footnote: The date on which the Agreement enters into force for the United Kingdom will be published on the relevant page on UK Treaties Online which can be found at this link: https://www.gov.uk/uk-treaties. A copy of the Agreement can be obtained from Protocol Directorate, Foreign and Commonwealth Office, King Charles Street, London SW1A 2AH.
 
-[^key-fab830b9b25856a8e570ccb378c9d120]: Commencement: Art. 2 in force at 28.6.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/787/article/1/2)
+[^c-fab830b9b25856a8e570ccb378c9d120]: Commencement: Art. 2 in force at 28.6.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/787/article/1/2)
 
-[^key-d64fd48ea6bed6c28b606db241a27438]: Textual amendment: Word in art. 2 inserted (14.3.2024) by [The European Organization for Astronomical Research in the Southern Hemisphere and the European Space Agency (Immunities and Privileges) (Amendment) Order 2024 (S.I. 2024/368)](https://www.legislation.gov.uk/uksi/2024/368), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/368/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/368/article/2/2)
+[^c-d64fd48ea6bed6c28b606db241a27438]: Textual amendment: Word in art. 2 inserted (14.3.2024) by [The European Organization for Astronomical Research in the Southern Hemisphere and the European Space Agency (Immunities and Privileges) (Amendment) Order 2024 (S.I. 2024/368)](https://www.legislation.gov.uk/uksi/2024/368), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/368/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/368/article/2/2)
 
-[^key-335d04313313c375e57fcbfefee3a492]: Commencement: Art. 3 in force at 28.6.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/787/article/1/2)
+[^c-335d04313313c375e57fcbfefee3a492]: Commencement: Art. 3 in force at 28.6.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/787/article/1/2)
 
 [^f00004]: Footnote: [S.I. 2009/1748](https://www.legislation.gov.uk/uksi/2009/1748).
 
-[^key-026405185eb359991626746990c694c5]: Commencement: Art. 4 comes into force in accordance with art. 1(3)
+[^c-026405185eb359991626746990c694c5]: Commencement: Art. 4 comes into force in accordance with art. 1(3)
 
 [^f00005]: Footnote: [S.I. 1978/1105](https://www.legislation.gov.uk/uksi/1978/1105). The instrument entered into force on 30th October 1980. The relevant amending instrument is [S.I. 1980/1086](https://www.legislation.gov.uk/uksi/1980/1086).
 
-[^key-9f19ef647be3a7ce0dcc0aea0ec024a1]: Textual amendment: [Art. 4(2)(c)](https://www.legislation.gov.uk/uksi/2018/787/article/4/2/c) revoked (14.3.2024) by [The European Organization for Astronomical Research in the Southern Hemisphere and the European Space Agency (Immunities and Privileges) (Amendment) Order 2024 (S.I. 2024/368)](https://www.legislation.gov.uk/uksi/2024/368), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/368/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/368/article/2/3)
+[^c-9f19ef647be3a7ce0dcc0aea0ec024a1]: Textual amendment: [Art. 4(2)(c)](https://www.legislation.gov.uk/uksi/2018/787/article/4/2/c) revoked (14.3.2024) by [The European Organization for Astronomical Research in the Southern Hemisphere and the European Space Agency (Immunities and Privileges) (Amendment) Order 2024 (S.I. 2024/368)](https://www.legislation.gov.uk/uksi/2024/368), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/368/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/368/article/2/3)
 
-[^key-26d283b5b39c44939751bec338f39d47]: Textual amendment: [Art. 4(2A)](https://www.legislation.gov.uk/uksi/2018/787/article/4/2A) inserted (14.3.2024) by [The European Organization for Astronomical Research in the Southern Hemisphere and the European Space Agency (Immunities and Privileges) (Amendment) Order 2024 (S.I. 2024/368)](https://www.legislation.gov.uk/uksi/2024/368), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/368/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/368/article/2/4)
+[^c-26d283b5b39c44939751bec338f39d47]: Textual amendment: [Art. 4(2A)](https://www.legislation.gov.uk/uksi/2018/787/article/4/2A) inserted (14.3.2024) by [The European Organization for Astronomical Research in the Southern Hemisphere and the European Space Agency (Immunities and Privileges) (Amendment) Order 2024 (S.I. 2024/368)](https://www.legislation.gov.uk/uksi/2024/368), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/368/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/368/article/2/4)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**172K.**[^key-607d8bf90c4118f5f8dd88e7c031d326] This Part applies where a person is entitled, by virtue of section 26AB(2) of the Act, to make an adjustment to the amount of VAT which he is required to account for and pay under section 55A(6) of the Act (“the adjustment”).
+**172K.**[^c-607d8bf90c4118f5f8dd88e7c031d326] This Part applies where a person is entitled, by virtue of section 26AB(2) of the Act, to make an adjustment to the amount of VAT which he is required to account for and pay under section 55A(6) of the Act (“the adjustment”).
 
 ## Annotations
 
-[^key-607d8bf90c4118f5f8dd88e7c031d326]: Textual amendment: [Pt. 19C](https://www.legislation.gov.uk/uksi/1995/2518/part/19C) inserted (1.6.2007) by [The Value Added Tax (Amendment) (No.3) Regulations 2007 (S.I. 2007/1418)](https://www.legislation.gov.uk/uksi/2007/1418), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1418/regulation/1), [7](https://www.legislation.gov.uk/uksi/2007/1418/regulation/7)
+[^c-607d8bf90c4118f5f8dd88e7c031d326]: Textual amendment: [Pt. 19C](https://www.legislation.gov.uk/uksi/1995/2518/part/19C) inserted (1.6.2007) by [The Value Added Tax (Amendment) (No.3) Regulations 2007 (S.I. 2007/1418)](https://www.legislation.gov.uk/uksi/2007/1418), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1418/regulation/1), [7](https://www.legislation.gov.uk/uksi/2007/1418/regulation/7)

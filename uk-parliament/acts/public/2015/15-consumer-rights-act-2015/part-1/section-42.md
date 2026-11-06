@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Consumer's rights to enforce terms about digital content[^key-e5da410ac51aee75cc08d2d0e9014204]
+## 42. Consumer's rights to enforce terms about digital content[^c-e5da410ac51aee75cc08d2d0e9014204]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5da410ac51aee75cc08d2d0e9014204]: Commencement: S. 42 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-e5da410ac51aee75cc08d2d0e9014204]: Commencement: S. 42 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

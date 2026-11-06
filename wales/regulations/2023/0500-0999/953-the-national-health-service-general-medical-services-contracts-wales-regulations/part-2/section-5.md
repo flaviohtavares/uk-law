@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Conditions relating solely to medical practitioners[^key-ff2d68b6ef34243c4bd3195a39d11a94]
+## 5. Conditions relating solely to medical practitioners[^c-ff2d68b6ef34243c4bd3195a39d11a94]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 
 - (a) regulation 5(1)(d) of the National Health Service (Vocational Training for General Medical Practice) Regulations 1997[^f00036],
 - (b) regulation 5(1)(d) of the National Health Service (Vocational Training for General Medical Practice) (Scotland) Regulations 1998[^f00037], or
-- (c) regulation 5(1)(d) of the Medical Practitioners[^key-f5211a77a9e6eef427f763e5a61369e6] (Vocational Training) Regulations (Northern Ireland) 1998[^f00038].
+- (c) regulation 5(1)(d) of the Medical Practitioners[^c-f5211a77a9e6eef427f763e5a61369e6] (Vocational Training) Regulations (Northern Ireland) 1998[^f00038].
 
 (4) This paragraph applies to a medical practitioner who has an acquired right for the purposes of article 6(2) of the 2010 Order (persons with acquired rights) by virtue of—
 
@@ -60,13 +60,13 @@ summary: ''
 
 ## Annotations
 
-[^key-ff2d68b6ef34243c4bd3195a39d11a94]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2023/953/regulation/5) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-ff2d68b6ef34243c4bd3195a39d11a94]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2023/953/regulation/5) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
 
 [^f00036]: Footnote: [S.I. 1997/2817](https://www.legislation.gov.uk/uksi/1997/2817), as amended by [S.I. 1998/669](https://www.legislation.gov.uk/uksi/1998/669) and revoked by [S.I. 2003/1250](https://www.legislation.gov.uk/uksi/2003/1250).
 
 [^f00037]: Footnote: [S.I. 1998/5](https://www.legislation.gov.uk/uksi/1998/5), as amended by [S.I.1998/669](https://www.legislation.gov.uk/uksi/1998/669) and [S.S.I. 2000/23](https://www.legislation.gov.uk/ssi/2000/23) and revoked by [S.I. 2003/1250](https://www.legislation.gov.uk/uksi/2003/1250).
 
-[^key-f5211a77a9e6eef427f763e5a61369e6]: Textual amendment: Words in reg. 5(3)(c) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [5(a)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/5/a)
+[^c-f5211a77a9e6eef427f763e5a61369e6]: Textual amendment: Words in reg. 5(3)(c) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [5(a)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/5/a)
 
 [^f00038]: Footnote: [S.R. 1998/13](https://www.legislation.gov.uk/nisr/1998/13), revoked by [S.I. 2003/1250](https://www.legislation.gov.uk/uksi/2003/1250).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 260. Money[^key-ff3719031e45c9d62b016776560392e4]
+## 260. Money[^c-ff3719031e45c9d62b016776560392e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Expenditure of the Treasury under, by virtue of or in connection with a provisio
 
 ## Annotations
 
-[^key-ff3719031e45c9d62b016776560392e4]: Commencement: S. 260 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/15)
+[^c-ff3719031e45c9d62b016776560392e4]: Commencement: S. 260 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/15)

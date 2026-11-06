@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-16eadb80b182c1b60e934b0e828c777d][^key-d9434e2c6bd259348ab9b0caadf153c2][^key-893645eb56fa157cc9597f37a67b4c58] Part 3 of the Criminal Justice Act 2003 (c. 44) (conditional cautions) is amended as set out in subsections (2) to (4).
+(1)[^c-16eadb80b182c1b60e934b0e828c777d][^c-d9434e2c6bd259348ab9b0caadf153c2][^c-893645eb56fa157cc9597f37a67b4c58] Part 3 of the Criminal Justice Act 2003 (c. 44) (conditional cautions) is amended as set out in subsections (2) to (4).
 
-(2)[^key-16eadb80b182c1b60e934b0e828c777d][^key-d9434e2c6bd259348ab9b0caadf153c2][^key-893645eb56fa157cc9597f37a67b4c58] In section 22, for subsection (3) (types of conditions that may be attached to cautions) there is substituted—
+(2)[^c-16eadb80b182c1b60e934b0e828c777d][^c-d9434e2c6bd259348ab9b0caadf153c2][^c-893645eb56fa157cc9597f37a67b4c58] In section 22, for subsection (3) (types of conditions that may be attached to cautions) there is substituted—
 
 > (3) The conditions which may be attached to such a caution are those which have one or more of the following objects—
 >
@@ -30,7 +30,7 @@ summary: ''
 > - (b) ensuring that the offender makes reparation for the offence;
 > - (c) punishing the offender.
 
-(3)[^key-d61a594dd1e5920acb838c802b4e5dfe][^key-d9434e2c6bd259348ab9b0caadf153c2][^key-fb13495af08f1aab78d2454d62ef872f][^key-f7ee82d034dda87b22a7f69325411a0b] After that subsection there is inserted—
+(3)[^c-d61a594dd1e5920acb838c802b4e5dfe][^c-d9434e2c6bd259348ab9b0caadf153c2][^c-fb13495af08f1aab78d2454d62ef872f][^c-f7ee82d034dda87b22a7f69325411a0b] After that subsection there is inserted—
 
 > (3A) The conditions which may be attached to a conditional caution include—
 >
@@ -43,7 +43,7 @@ summary: ''
 >
 > (3C) The Secretary of State may by order amend subsection (3B) by substituting a different figure.
 
-(4)[^key-16eadb80b182c1b60e934b0e828c777d][^key-d9434e2c6bd259348ab9b0caadf153c2][^key-893645eb56fa157cc9597f37a67b4c58] After section 23 (requirements for conditional caution to be given) there is inserted—
+(4)[^c-16eadb80b182c1b60e934b0e828c777d][^c-d9434e2c6bd259348ab9b0caadf153c2][^c-893645eb56fa157cc9597f37a67b4c58] After section 23 (requirements for conditional caution to be given) there is inserted—
 
 > **23A. Financial penalties**
 >
@@ -82,7 +82,7 @@ summary: ''
 >
 > (9) Subsection (7) is not to be read as preventing payment by other means.
 
-(5)[^key-067fdb286f91edb10693a21323325904][^key-d9434e2c6bd259348ab9b0caadf153c2][^key-d30b52fd456a9bbda43f8cd2f782264d] In section 330 of that Act (orders subject to affirmative resolution procedure), in subsection (5)—
+(5)[^c-067fdb286f91edb10693a21323325904][^c-d9434e2c6bd259348ab9b0caadf153c2][^c-d30b52fd456a9bbda43f8cd2f782264d] In section 330 of that Act (orders subject to affirmative resolution procedure), in subsection (5)—
 
 - (a) in paragraph (a), before “section 25(5)” there is inserted— “ section 22(3C), ”;
 - (b) after that paragraph there is inserted—
@@ -95,18 +95,18 @@ summary: ''
 
 ## Annotations
 
-[^key-16eadb80b182c1b60e934b0e828c777d]: Commencement: S. 17(1)(2)(4) in force at 8.7.2009 for specified purposes by [S.I. 2009/1679](https://www.legislation.gov.uk/uksi/2009/1679), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1679/article/2/1)[(4)](https://www.legislation.gov.uk/uksi/2009/1679/article/2/4)
+[^c-16eadb80b182c1b60e934b0e828c777d]: Commencement: S. 17(1)(2)(4) in force at 8.7.2009 for specified purposes by [S.I. 2009/1679](https://www.legislation.gov.uk/uksi/2009/1679), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1679/article/2/1)[(4)](https://www.legislation.gov.uk/uksi/2009/1679/article/2/4)
 
-[^key-d9434e2c6bd259348ab9b0caadf153c2]: Commencement: S. 17(1)(2)(4) in force at 16.11.2009 for specified purposes by [S.I. 2009/2774](https://www.legislation.gov.uk/uksi/2009/2774), [art. 2(1)(3)](https://www.legislation.gov.uk/uksi/2009/2774/article/2/1)
+[^c-d9434e2c6bd259348ab9b0caadf153c2]: Commencement: S. 17(1)(2)(4) in force at 16.11.2009 for specified purposes by [S.I. 2009/2774](https://www.legislation.gov.uk/uksi/2009/2774), [art. 2(1)(3)](https://www.legislation.gov.uk/uksi/2009/2774/article/2/1)
 
-[^key-893645eb56fa157cc9597f37a67b4c58]: Commencement: [S. 17(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/17/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/48/section/17/2)[(4)](https://www.legislation.gov.uk/ukpga/2006/48/section/17/4) in force at 8.4.2013 in so far as not already in force by [S.I. 2013/592](https://www.legislation.gov.uk/uksi/2013/592), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/592/article/2/1)
+[^c-893645eb56fa157cc9597f37a67b4c58]: Commencement: [S. 17(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/17/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/48/section/17/2)[(4)](https://www.legislation.gov.uk/ukpga/2006/48/section/17/4) in force at 8.4.2013 in so far as not already in force by [S.I. 2013/592](https://www.legislation.gov.uk/uksi/2013/592), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/592/article/2/1)
 
-[^key-d61a594dd1e5920acb838c802b4e5dfe]: Commencement: S. 17(3) in force at 8.7.2009 for specified purposes by [S.I. 2009/1679](https://www.legislation.gov.uk/uksi/2009/1679), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1679/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2009/1679/article/2/2)[(4)](https://www.legislation.gov.uk/uksi/2009/1679/article/2/4)
+[^c-d61a594dd1e5920acb838c802b4e5dfe]: Commencement: S. 17(3) in force at 8.7.2009 for specified purposes by [S.I. 2009/1679](https://www.legislation.gov.uk/uksi/2009/1679), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1679/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2009/1679/article/2/2)[(4)](https://www.legislation.gov.uk/uksi/2009/1679/article/2/4)
 
-[^key-fb13495af08f1aab78d2454d62ef872f]: Commencement: S. 17(3) in force at 16.11.2009 for specified purposes by [S.I. 2009/2774](https://www.legislation.gov.uk/uksi/2009/2774), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/2774/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2009/2774/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2009/2774/article/2/3)
+[^c-fb13495af08f1aab78d2454d62ef872f]: Commencement: S. 17(3) in force at 16.11.2009 for specified purposes by [S.I. 2009/2774](https://www.legislation.gov.uk/uksi/2009/2774), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/2774/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2009/2774/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2009/2774/article/2/3)
 
-[^key-f7ee82d034dda87b22a7f69325411a0b]: Commencement: [S. 17(3)](https://www.legislation.gov.uk/ukpga/2006/48/section/17/3) in force at 8.4.2013 for specified purposes by [S.I. 2013/592](https://www.legislation.gov.uk/uksi/2013/592), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/592/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2013/592/article/2/2)
+[^c-f7ee82d034dda87b22a7f69325411a0b]: Commencement: [S. 17(3)](https://www.legislation.gov.uk/ukpga/2006/48/section/17/3) in force at 8.4.2013 for specified purposes by [S.I. 2013/592](https://www.legislation.gov.uk/uksi/2013/592), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/592/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2013/592/article/2/2)
 
-[^key-067fdb286f91edb10693a21323325904]: Commencement: S. 17(5) in force at 8.7.2009 for specified purposes by [S.I. 2009/1679](https://www.legislation.gov.uk/uksi/2009/1679), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1679/article/2/1)[(3)](https://www.legislation.gov.uk/uksi/2009/1679/article/2/3)[(4)](https://www.legislation.gov.uk/uksi/2009/1679/article/2/4)
+[^c-067fdb286f91edb10693a21323325904]: Commencement: S. 17(5) in force at 8.7.2009 for specified purposes by [S.I. 2009/1679](https://www.legislation.gov.uk/uksi/2009/1679), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1679/article/2/1)[(3)](https://www.legislation.gov.uk/uksi/2009/1679/article/2/3)[(4)](https://www.legislation.gov.uk/uksi/2009/1679/article/2/4)
 
-[^key-d30b52fd456a9bbda43f8cd2f782264d]: Commencement: S. 17(5) in force at 16.11.2009 for specified purposes by [S.I. 2009/2774](https://www.legislation.gov.uk/uksi/2009/2774), [art. 3](https://www.legislation.gov.uk/uksi/2009/2774/article/3)
+[^c-d30b52fd456a9bbda43f8cd2f782264d]: Commencement: S. 17(5) in force at 16.11.2009 for specified purposes by [S.I. 2009/2774](https://www.legislation.gov.uk/uksi/2009/2774), [art. 3](https://www.legislation.gov.uk/uksi/2009/2774/article/3)

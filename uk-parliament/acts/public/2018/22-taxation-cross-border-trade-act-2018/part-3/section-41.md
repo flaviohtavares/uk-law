@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Abolition of acquisition VAT and extension of import VAT[^key-83371f95c633cbd0a7fcddaad055f45f]
+## 41. Abolition of acquisition VAT and extension of import VAT[^c-83371f95c633cbd0a7fcddaad055f45f]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) In section 1 (imposition of charge to value added tax), in subsection (1)—
 
 - (a) omit paragraph (b) (which charges VAT on the acquisition in the United Kingdom of goods from other member States), and
-- (b)[^key-fe5b3388f67471f35e9ec71fee8a41b1] for paragraph (c) substitute—
+- (b)[^c-fe5b3388f67471f35e9ec71fee8a41b1] for paragraph (c) substitute—
 
   > - (c) on the importation of goods into the United Kingdom,
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83371f95c633cbd0a7fcddaad055f45f]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2018/22/section/41) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-83371f95c633cbd0a7fcddaad055f45f]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2018/22/section/41) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-fe5b3388f67471f35e9ec71fee8a41b1]: Commencement: [S. 41(2)(b)](https://www.legislation.gov.uk/ukpga/2018/22/section/41/2/b) in force at 28.1.2019 for specified purposes by [S.I. 2019/104](https://www.legislation.gov.uk/uksi/2019/104), [reg. 2](https://www.legislation.gov.uk/uksi/2019/104/regulation/2)
+[^c-fe5b3388f67471f35e9ec71fee8a41b1]: Commencement: [S. 41(2)(b)](https://www.legislation.gov.uk/ukpga/2018/22/section/41/2/b) in force at 28.1.2019 for specified purposes by [S.I. 2019/104](https://www.legislation.gov.uk/uksi/2019/104), [reg. 2](https://www.legislation.gov.uk/uksi/2019/104/regulation/2)

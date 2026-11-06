@@ -24,7 +24,7 @@ Section 1126 applies to LLPs, modified so that it reads as follows—
 
 > **1126. Consents required for certain prosecutions**
 >
-> (1) This section applies to proceedings for an offence under section 448, 449, 450, 451 or 453A of the Companies Act 1985 or under section 1112[^key-2a0c894d3405ba7be11f57033ac1a8be] or 1112A[^key-b261e50a3d4670d5d11de9ef16616ffc] of this Act, as applied to LLPs.
+> (1) This section applies to proceedings for an offence under section 448, 449, 450, 451 or 453A of the Companies Act 1985 or under section 1112[^c-2a0c894d3405ba7be11f57033ac1a8be] or 1112A[^c-b261e50a3d4670d5d11de9ef16616ffc] of this Act, as applied to LLPs.
 >
 > (2) No such proceedings are to be brought in England and Wales except by or with the consent of the Secretary of State or the Director of Public Prosecutions.
 >
@@ -34,6 +34,6 @@ Section 1126 applies to LLPs, modified so that it reads as follows—
 
 ## Annotations
 
-[^key-2a0c894d3405ba7be11f57033ac1a8be]: Textual amendment: Words in [reg. 72](https://www.legislation.gov.uk/uksi/2009/1804/regulation/72) inserted (6.4.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2016/340/schedule/3/paragraph/6)
+[^c-2a0c894d3405ba7be11f57033ac1a8be]: Textual amendment: Words in [reg. 72](https://www.legislation.gov.uk/uksi/2009/1804/regulation/72) inserted (6.4.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2016/340/schedule/3/paragraph/6)
 
-[^key-b261e50a3d4670d5d11de9ef16616ffc]: Textual amendment: Words in [reg. 72](https://www.legislation.gov.uk/uksi/2009/1804/regulation/72) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [43](https://www.legislation.gov.uk/uksi/2024/234/regulation/43); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-b261e50a3d4670d5d11de9ef16616ffc]: Textual amendment: Words in [reg. 72](https://www.legislation.gov.uk/uksi/2009/1804/regulation/72) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [43](https://www.legislation.gov.uk/uksi/2024/234/regulation/43); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)

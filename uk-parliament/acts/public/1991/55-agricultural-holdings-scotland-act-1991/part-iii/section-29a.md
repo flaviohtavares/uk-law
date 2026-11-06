@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29A. Holding to be restored in certain circumstances[^key-616f00d5a2d687d97714561f9befc9be]
+## 29A. Holding to be restored in certain circumstances[^c-616f00d5a2d687d97714561f9befc9be]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ that land shall, if the conditions in subsection (3) below are fulfilled, be res
 
 ## Annotations
 
-[^key-616f00d5a2d687d97714561f9befc9be]: Textual amendment: S. 29A inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 68](https://www.legislation.gov.uk/asp/2003/11/section/68), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/548/article/2/e) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-616f00d5a2d687d97714561f9befc9be]: Textual amendment: S. 29A inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 68](https://www.legislation.gov.uk/asp/2003/11/section/68), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/548/article/2/e) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

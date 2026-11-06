@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-d3cd019abf0e242004aa0880b68f78d5]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-d3cd019abf0e242004aa0880b68f78d5]
 
 *Extent: E+W*
 
@@ -144,6 +144,6 @@ In connection with the construction of any of those works, further development w
 
 ## Annotations
 
-[^key-d3cd019abf0e242004aa0880b68f78d5]: Commencement: Sch. 1 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-d3cd019abf0e242004aa0880b68f78d5]: Commencement: Sch. 1 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
 [^c24104461]: Marginal citation: [Section 22](https://www.legislation.gov.uk/uksi/2020/556/section/22) was substituted by [S.I. 2013/1883](https://www.legislation.gov.uk/uksi/2013/1883) and amended by section 1(6) of, and paragraph 153(2) of the [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).

@@ -50,15 +50,15 @@ the Secretary of State for Scotland in exercise of the powers conferred on him b
 
 hereby make the following Order:—
 
-## 1. Title and commencement[^key-5ed6083ae2f2707a7498e47836df46dd]
+## 1. Title and commencement[^c-5ed6083ae2f2707a7498e47836df46dd]
 
 This Order may be cited as the Animal Health Orders (Divisional Veterinary Manager Amendment) Order 1995 and shall come into force on 1st December 1995.
 
-## 2. Interpretation[^key-88ba9b8a8a7daac0240fc22a35e232af]
+## 2. Interpretation[^c-88ba9b8a8a7daac0240fc22a35e232af]
 
 Except where the context otherwise requires, any reference in this Order to a numbered article, Schedule or Part of a Schedule is a reference to the article, Schedule or Part bearing that number in this Order.
 
-## 3. Amendments relating to the “Divisional Veterinary Manager”[^key-b4425c8f330389de5d9da59c9cce82ef]
+## 3. Amendments relating to the “Divisional Veterinary Manager”[^c-b4425c8f330389de5d9da59c9cce82ef]
 
 In the Orders specified in columns 1 and 2 of Parts I, II and III of Schedule 1, in the provisions specified in column 3 in each of those Parts, for the words:—
 
@@ -67,7 +67,7 @@ In the Orders specified in columns 1 and 2 of Parts I, II and III of Schedule 1,
 
 in each place where they occur there shall be substituted the words “Divisional Veterinary Manager”.
 
-**4.**[^key-fadc5c1c60979fb06f774d42a5e90edf] In the Orders specified in columns 1 and 2 of Schedule 2, in the provisions specified in column 3, for the words “Divisional Veterinary Inspector” or “divisional veterinary inspector” in each place where they occur there shall be substituted the words “Divisional Veterinary Manager”.
+**4.**[^c-fadc5c1c60979fb06f774d42a5e90edf] In the Orders specified in columns 1 and 2 of Schedule 2, in the provisions specified in column 3, for the words “Divisional Veterinary Inspector” or “divisional veterinary inspector” in each place where they occur there shall be substituted the words “Divisional Veterinary Manager”.
 
 Angela Browning
 
@@ -93,7 +93,7 @@ Parliamentary Under Secretary of State, Welsh Office
 
 Article 3
 
-### PART I — Orders applying to Great Britain[^key-569e899f1b857550b7e72481a5f17826]
+### PART I — Orders applying to Great Britain[^c-569e899f1b857550b7e72481a5f17826]
 
 <table>
 <thead>
@@ -123,7 +123,7 @@ Article 3
 
 [^f00002][^f00003][^f00004][^f00005][^f00006][^f00007][^f00008][^f00009]
 
-### PART II — Orders applying to England and Wales[^key-dc0616dfdc2a91b2481644c073266533]
+### PART II — Orders applying to England and Wales[^c-dc0616dfdc2a91b2481644c073266533]
 
 <table>
 <thead>
@@ -137,7 +137,7 @@ Article 3
 
 [^f00010]
 
-### PART III — Orders applying to Scotland[^key-9f9196a8bd96daa64d953d92de67ba3a]
+### PART III — Orders applying to Scotland[^c-9f9196a8bd96daa64d953d92de67ba3a]
 
 <table>
 <thead>
@@ -152,7 +152,7 @@ Article 3
 
 [^f00011][^f00012]
 
-## SCHEDULE 2 — “DIVISIONAL VETERINARY MANAGER” IN PLACE OF “DIVISIONAL VETERINARY INSPECTOR”[^key-8f779508290e3a0d84090f63e05619de]
+## SCHEDULE 2 — “DIVISIONAL VETERINARY MANAGER” IN PLACE OF “DIVISIONAL VETERINARY INSPECTOR”[^c-8f779508290e3a0d84090f63e05619de]
 
 Article 4
 
@@ -176,15 +176,15 @@ This Order amends the Orders specified in the Schedules so as to replace the ter
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). Section 86(1) contains a definition of “the Minister”, “the appropriate Minister” and “the Ministers” relevant to the exercise of the statutory powers under which this Order is made.
 
-[^key-5ed6083ae2f2707a7498e47836df46dd]: Commencement: Art. 1 in force at 1.12.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/2922/article/1)
+[^c-5ed6083ae2f2707a7498e47836df46dd]: Commencement: Art. 1 in force at 1.12.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/2922/article/1)
 
-[^key-88ba9b8a8a7daac0240fc22a35e232af]: Commencement: Art. 2 in force at 1.12.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/2922/article/1)
+[^c-88ba9b8a8a7daac0240fc22a35e232af]: Commencement: Art. 2 in force at 1.12.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/2922/article/1)
 
-[^key-b4425c8f330389de5d9da59c9cce82ef]: Commencement: Art. 3 in force at 1.12.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/2922/article/1)
+[^c-b4425c8f330389de5d9da59c9cce82ef]: Commencement: Art. 3 in force at 1.12.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/2922/article/1)
 
-[^key-fadc5c1c60979fb06f774d42a5e90edf]: Commencement: Art. 4 in force at 1.12.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/2922/article/1)
+[^c-fadc5c1c60979fb06f774d42a5e90edf]: Commencement: Art. 4 in force at 1.12.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/2922/article/1)
 
-[^key-569e899f1b857550b7e72481a5f17826]: Commencement: Sch. 1 Pt. I in force at 1.12.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/2922/article/1)
+[^c-569e899f1b857550b7e72481a5f17826]: Commencement: Sch. 1 Pt. I in force at 1.12.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/2922/article/1)
 
 [^f00002]: Footnote: The relevant amending instrument is S.I. [1994/1716](https://www.legislation.gov.uk/uksi/1994/1716).
 
@@ -202,16 +202,16 @@ This Order amends the Orders specified in the Schedules so as to replace the ter
 
 [^f00009]: Footnote: To which there are amendments not relevant to this Order.
 
-[^key-dc0616dfdc2a91b2481644c073266533]: Commencement: Sch. 1 Pt. II in force at 1.12.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/2922/article/1)
+[^c-dc0616dfdc2a91b2481644c073266533]: Commencement: Sch. 1 Pt. II in force at 1.12.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/2922/article/1)
 
 [^f00010]: Footnote: To which there are amendments not relevant to this Order.
 
-[^key-9f9196a8bd96daa64d953d92de67ba3a]: Commencement: Sch. 1 Pt. III in force at 1.12.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/2922/article/1)
+[^c-9f9196a8bd96daa64d953d92de67ba3a]: Commencement: Sch. 1 Pt. III in force at 1.12.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/2922/article/1)
 
 [^f00011]: Footnote: To which there are amendments not relevant to this Order.
 
 [^f00012]: Footnote: To which there are amendments not relevant to this Order.
 
-[^key-8f779508290e3a0d84090f63e05619de]: Commencement: Sch. 2 in force at 1.12.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/2922/article/1)
+[^c-8f779508290e3a0d84090f63e05619de]: Commencement: Sch. 2 in force at 1.12.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/2922/article/1)
 
 [^f00013]: Footnote: To which there are amendments not relevant to this Order.

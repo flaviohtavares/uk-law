@@ -31,10 +31,10 @@ Commission Regulation (EC) No 2543/1999
 
 of 1 December 1999 on the nomenclature of countries and territories for the external trade statistics of the Community and statistics of trade between Member States (Text with EEA relevance) (revoked)
 
-[^key-0e640b6ab2c5e870ded355a44ac316a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e640b6ab2c5e870ded355a44ac316a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-0e640b6ab2c5e870ded355a44ac316a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-0e640b6ab2c5e870ded355a44ac316a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0e640b6ab2c5e870ded355a44ac316a5]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/25)
+[^c-0e640b6ab2c5e870ded355a44ac316a5]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/25)

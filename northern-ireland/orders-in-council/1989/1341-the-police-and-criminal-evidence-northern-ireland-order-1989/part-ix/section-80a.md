@@ -32,7 +32,7 @@ summary: ''
 
 (4) This Article applies—
 
-- (a)[^key-843e9d96009558cca746909dd1a113bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-843e9d96009558cca746909dd1a113bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) to trials on indictment;
 - (c) to appeals to the Court of Appeal; and
 - (d) to hearings of references under section 10 of the Criminal Appeal Act 1995 (c. 35).
@@ -58,7 +58,7 @@ the court may sit for the purposes of the whole or any part of those proceedings
 
 [^c20348271]: Textual amendment: Words in [art. 80A(3)](https://www.legislation.gov.uk/nisi/1989/1341/article/80A/3) inserted (18.9.2006) by [Criminal Justice (Northern Ireland) Order 2005 (S.I. 2005/1965 (N.I. 15))](https://www.legislation.gov.uk/nisi/2005/1965), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2005/1965/article/1/2), [24(1)(a)](https://www.legislation.gov.uk/nisi/2005/1965/article/24/1/a); [S.R. 2006/368](https://www.legislation.gov.uk/nisr/2006/368), [art. 2(b)](https://www.legislation.gov.uk/nisr/2006/368/article/2/b)
 
-[^key-843e9d96009558cca746909dd1a113bb]: Textual amendment: [Art. 80A(4)(a)](https://www.legislation.gov.uk/nisi/1989/1341/article/80A/4/a) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 11(a)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/11/a); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-843e9d96009558cca746909dd1a113bb]: Textual amendment: [Art. 80A(4)(a)](https://www.legislation.gov.uk/nisi/1989/1341/article/80A/4/a) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 11(a)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/11/a); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
 [^c20348261]: Textual amendment: Words in [art. 80A(6)](https://www.legislation.gov.uk/nisi/1989/1341/article/80A/6) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 78](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/78); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 paras. 10](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/10), [12(a)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/a)
 

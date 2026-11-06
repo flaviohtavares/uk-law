@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — Streets to be temporarily stopped up[^key-c9c546eed245180d31de192c85374bf6]
+## SCHEDULE 5 — Streets to be temporarily stopped up[^c-c9c546eed245180d31de192c85374bf6]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ Article 12
 
 ## Annotations
 
-[^key-c9c546eed245180d31de192c85374bf6]: Commencement: Sch. 5 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-c9c546eed245180d31de192c85374bf6]: Commencement: Sch. 5 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)

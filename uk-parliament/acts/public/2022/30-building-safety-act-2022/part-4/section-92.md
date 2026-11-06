@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Requests for further information[^key-8cf5a3c5dad5f1687add41f11dfc690e][^key-f8550b5e9b0d2ae185ee710c7322a525]
+## 92. Requests for further information[^c-8cf5a3c5dad5f1687add41f11dfc690e][^c-f8550b5e9b0d2ae185ee710c7322a525]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 
 makes a request to an accountable person for the building to give them prescribed information or a copy of a prescribed document.
 
-(2)[^key-1b71fa77d8281636ccdd0528470de088] The accountable person must as soon as reasonably practicable give the resident or owner the information or document requested.
+(2)[^c-1b71fa77d8281636ccdd0528470de088] The accountable person must as soon as reasonably practicable give the resident or owner the information or document requested.
 
 (3) The Secretary of State may by regulations make provision about— 
 
@@ -45,8 +45,8 @@ makes a request to an accountable person for the building to give them prescribe
 
 ## Annotations
 
-[^key-8cf5a3c5dad5f1687add41f11dfc690e]: Commencement: S. 92 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-8cf5a3c5dad5f1687add41f11dfc690e]: Commencement: S. 92 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-f8550b5e9b0d2ae185ee710c7322a525]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2022/30/section/92) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/m)
+[^c-f8550b5e9b0d2ae185ee710c7322a525]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2022/30/section/92) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/m)
 
-[^key-1b71fa77d8281636ccdd0528470de088]: Modification: [S. 92(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/92/2) excluded (16.1.2024) by [The Higher-Risk Buildings (Keeping and Provision of Information etc.) (England) Regulations 2024 (S.I. 2024/41)](https://www.legislation.gov.uk/uksi/2024/41), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2024/41/regulation/16); S.I. 2024/40, [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
+[^c-1b71fa77d8281636ccdd0528470de088]: Modification: [S. 92(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/92/2) excluded (16.1.2024) by [The Higher-Risk Buildings (Keeping and Provision of Information etc.) (England) Regulations 2024 (S.I. 2024/41)](https://www.legislation.gov.uk/uksi/2024/41), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2024/41/regulation/16); S.I. 2024/40, [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)

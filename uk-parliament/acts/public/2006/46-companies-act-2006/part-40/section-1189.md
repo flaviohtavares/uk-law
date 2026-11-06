@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1189. Statements from persons disqualified[^key-b23eaf1c9ede9da59b9a16b56371625c]
+## 1189. Statements from persons disqualified[^c-b23eaf1c9ede9da59b9a16b56371625c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b23eaf1c9ede9da59b9a16b56371625c]: Textual amendment: [S. 1189](https://www.legislation.gov.uk/ukpga/2006/46/section/1189) omitted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 42(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/42/a), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z6)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z6)
+[^c-b23eaf1c9ede9da59b9a16b56371625c]: Textual amendment: [S. 1189](https://www.legislation.gov.uk/ukpga/2006/46/section/1189) omitted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 42(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/42/a), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z6)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z6)

@@ -24,9 +24,9 @@ summary: ''
 
 (2) Any registered medical practitioner or approved clinician authorised for the purposes of subsection (1) above to visit and examine a patient may require the production of and inspect any records relating to the detention or treatment of the patient in any hospital or to any after-care services provided for the patient under section 117 below.[^c10385681].
 
-(3)[^key-05d5a33a4cde41b5ad723f0d2e7a891a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-05d5a33a4cde41b5ad723f0d2e7a891a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-05d5a33a4cde41b5ad723f0d2e7a891a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-05d5a33a4cde41b5ad723f0d2e7a891a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c10385681]: Textual amendment: Words in s. 24(2)(4) inserted (1.4.1996) by 1995 c .52, ss. 1(2), 7(2), Sch. 1, para. 1
 
-[^key-05d5a33a4cde41b5ad723f0d2e7a891a]: Textual amendment: [S. 24(3)](https://www.legislation.gov.uk/ukpga/1983/20/section/24/3)[(4)](https://www.legislation.gov.uk/ukpga/1983/20/section/24/4) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/39/2), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-05d5a33a4cde41b5ad723f0d2e7a891a]: Textual amendment: [S. 24(3)](https://www.legislation.gov.uk/ukpga/1983/20/section/24/3)[(4)](https://www.legislation.gov.uk/ukpga/1983/20/section/24/4) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/39/2), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)

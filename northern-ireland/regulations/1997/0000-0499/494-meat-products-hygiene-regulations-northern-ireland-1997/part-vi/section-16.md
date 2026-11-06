@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Sale of other products of animal origin — meat not to have been declared unfit for human consumption[^key-65aa0ba2ebed22a3e8b408917aab9159]
+## 16. Sale of other products of animal origin — meat not to have been declared unfit for human consumption[^c-65aa0ba2ebed22a3e8b408917aab9159]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A person shall not sell for human consumption other products of animal origin ma
 
 ## Annotations
 
-[^key-65aa0ba2ebed22a3e8b408917aab9159]: Commencement: Reg. 16 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-65aa0ba2ebed22a3e8b408917aab9159]: Commencement: Reg. 16 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)

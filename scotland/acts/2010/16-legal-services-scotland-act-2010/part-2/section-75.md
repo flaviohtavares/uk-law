@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Professional privilege[^key-2b6a0ce8addb027d885246e1cd338b52]
+## 75. Professional privilege[^c-2b6a0ce8addb027d885246e1cd338b52]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b6a0ce8addb027d885246e1cd338b52]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2010/16/section/75) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-2b6a0ce8addb027d885246e1cd338b52]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2010/16/section/75) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

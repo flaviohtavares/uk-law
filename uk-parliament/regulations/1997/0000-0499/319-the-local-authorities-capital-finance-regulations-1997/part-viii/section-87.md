@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Disposal of unoccupied dwellings[^key-2bd5614375a24b42e1da31be8c3d63e8]
+## 87. Disposal of unoccupied dwellings[^c-2bd5614375a24b42e1da31be8c3d63e8]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2bd5614375a24b42e1da31be8c3d63e8]: Commencement: Reg. 87 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-2bd5614375a24b42e1da31be8c3d63e8]: Commencement: Reg. 87 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00080]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 

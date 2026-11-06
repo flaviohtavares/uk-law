@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Documents to be carried[^key-f761e219dac2f5db4768aada6616391a]
+## 84. Documents to be carried[^c-f761e219dac2f5db4768aada6616391a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f761e219dac2f5db4768aada6616391a]: Commencement: [Art. 84](https://www.legislation.gov.uk/uksi/2015/870/article/84) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-f761e219dac2f5db4768aada6616391a]: Commencement: [Art. 84](https://www.legislation.gov.uk/uksi/2015/870/article/84) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

@@ -29,7 +29,7 @@ summary: ''
 
 (2) In deciding whether a person has committed an offence under paragraph (1), the court must decide whether that person followed—
 
-- (a)[^key-18dc6bbbf0db6fab508c80f6c2aaad43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-18dc6bbbf0db6fab508c80f6c2aaad43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) any relevant guidance which was at the time—
   - (i) issued by the FCA; or
   - (ii) issued by any other supervisory authority or appropriate body and approved by the Treasury.
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18dc6bbbf0db6fab508c80f6c2aaad43]: Textual amendment: [Reg. 86(2)(a)](https://www.legislation.gov.uk/uksi/2017/692/regulation/86/2/a) omitted (31.12.2020) by virtue of [The Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/253)](https://www.legislation.gov.uk/uksi/2019/253), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/253/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2019/253/regulation/12/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-18dc6bbbf0db6fab508c80f6c2aaad43]: Textual amendment: [Reg. 86(2)(a)](https://www.legislation.gov.uk/uksi/2017/692/regulation/86/2/a) omitted (31.12.2020) by virtue of [The Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/253)](https://www.legislation.gov.uk/uksi/2019/253), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/253/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2019/253/regulation/12/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

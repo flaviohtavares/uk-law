@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Conduct of Consumer Credit Act business[^key-6fd6e3de442b0c0efd5a3cbe1c0e4cc6]
+## 168. Conduct of Consumer Credit Act business[^c-6fd6e3de442b0c0efd5a3cbe1c0e4cc6]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ For section 26 of the Consumer Credit Act 1974 (regulations as to the conduct of
 
 ## Annotations
 
-[^key-6fd6e3de442b0c0efd5a3cbe1c0e4cc6]: Commencement: Art. 168 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-6fd6e3de442b0c0efd5a3cbe1c0e4cc6]: Commencement: Art. 168 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

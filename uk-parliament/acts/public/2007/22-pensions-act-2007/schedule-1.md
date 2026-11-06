@@ -286,7 +286,7 @@ Sections 1 to 5, 9, 12 and 13
 
 #### State Pension Credit Act 2002 (c. 16)
 
-**44.**[^key-4d83a11b5e12604ea1f84fca2836a5dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-4d83a11b5e12604ea1f84fca2836a5dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -326,4 +326,4 @@ Sections 1 to 5, 9, 12 and 13
 
 [^c2164596]: Textual amendment: [Sch 1 para. 39](https://www.legislation.gov.uk/ukpga/2007/22/schedule/1/paragraph/39) repealed (21.9.2008 with effect as mentioned in Sch. 2 Note 3(b)) by [National Insurance Contributions Act 2008 (c. 16)](https://www.legislation.gov.uk/ukpga/2008/16), [ss. 4](https://www.legislation.gov.uk/ukpga/2008/16/section/4), [6(1)](https://www.legislation.gov.uk/ukpga/2008/16/section/6/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/16/schedule/2)
 
-[^key-4d83a11b5e12604ea1f84fca2836a5dc]: Textual amendment: [Sch. 1 para. 44](https://www.legislation.gov.uk/ukpga/2007/22/schedule/1/paragraph/44) omitted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 91](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/91)
+[^c-4d83a11b5e12604ea1f84fca2836a5dc]: Textual amendment: [Sch. 1 para. 44](https://www.legislation.gov.uk/ukpga/2007/22/schedule/1/paragraph/44) omitted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 91](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/91)

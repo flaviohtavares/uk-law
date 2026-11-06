@@ -23,7 +23,7 @@ summary: ''
 (1) In sections 105 and 112 of this Act—
 
 - (a) references to any right of navigation over a waterway or canal include references to any right to use or keep any vessel or craft on the waterway or canal;
-- (b) “**the appropriate tribunal**” means, as respects England and Wales, the Upper[^key-4e7a649b522c66e83a534c2f5de6b582] and, as respect Scotland, the Lands Tribunal for Scotland or, until sections 1 to 3 of the [^c15330031]Lands Tribunal Act 1949 come into force as regards Scotland, an official arbiter appointed under Part I of the [^c15330041]Land Compensation (Scotland) Act 1963;
+- (b) “**the appropriate tribunal**” means, as respects England and Wales, the Upper[^c-4e7a649b522c66e83a534c2f5de6b582] and, as respect Scotland, the Lands Tribunal for Scotland or, until sections 1 to 3 of the [^c15330031]Lands Tribunal Act 1949 come into force as regards Scotland, an official arbiter appointed under Part I of the [^c15330041]Land Compensation (Scotland) Act 1963;
 
 and sections 3 and 5 of the said Act of 1963 shall apply, subject to any necessary modifications, in relation to the determination of any question under either of those sections by an arbiter so appointed.
 
@@ -59,7 +59,7 @@ and sections 3 and 5 of the said Act of 1963 shall apply, subject to any necessa
 
 [^c15330021]: Extent: This version of this provision extends to England and Wales and Northern Ireland only; a separate version has been created for Scotland only
 
-[^key-4e7a649b522c66e83a534c2f5de6b582]: Textual amendment: Word in s. 115(1)(b) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 90](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/90) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-4e7a649b522c66e83a534c2f5de6b582]: Textual amendment: Word in s. 115(1)(b) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 90](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/90) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c15330031]: Marginal citation: [1949 c. 42](https://www.legislation.gov.uk/ukpga/1949/42).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Prohibition on placing interoperability constituents on the market[^key-9a70cafdebe0c90f0be87152e9c32971]
+## 23. Prohibition on placing interoperability constituents on the market[^c-9a70cafdebe0c90f0be87152e9c32971]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a70cafdebe0c90f0be87152e9c32971]: Textual amendment: Reg. 23 substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(27)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/27) (as amended by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/5/a/i), [4(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/5/a/ii), [4(5)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/5/b), [4(5)(c)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/5/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9a70cafdebe0c90f0be87152e9c32971]: Textual amendment: Reg. 23 substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(27)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/27) (as amended by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/5/a/i), [4(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/5/a/ii), [4(5)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/5/b), [4(5)(c)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/5/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

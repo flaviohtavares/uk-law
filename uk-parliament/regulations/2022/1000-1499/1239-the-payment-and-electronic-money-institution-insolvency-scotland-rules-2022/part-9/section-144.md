@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 144. Application to court by administrator[^key-72e35fbea8eb31b128e12a8c8fb26d05]
+## 144. Application to court by administrator[^c-72e35fbea8eb31b128e12a8c8fb26d05]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ and the application must be accompanied by a statement that the creditors and cu
 
 ## Annotations
 
-[^key-72e35fbea8eb31b128e12a8c8fb26d05]: Commencement: Rule 144 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-72e35fbea8eb31b128e12a8c8fb26d05]: Commencement: Rule 144 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

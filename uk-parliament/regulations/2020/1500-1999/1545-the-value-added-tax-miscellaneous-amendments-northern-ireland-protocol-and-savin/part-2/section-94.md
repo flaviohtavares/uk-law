@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94.[^key-e4bc65fc9f67d58d60730ada425a0bbb]
+## 94.[^c-e4bc65fc9f67d58d60730ada425a0bbb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In article 2, for “no VAT shall be payable on any acquisition from another mem
 
 ## Annotations
 
-[^key-e4bc65fc9f67d58d60730ada425a0bbb]: Commencement: Reg. 94 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-e4bc65fc9f67d58d60730ada425a0bbb]: Commencement: Reg. 94 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Amendment to regulation 191[^key-ddbb22562264a781534d73727d4867a8]
+## 82. Amendment to regulation 191[^c-ddbb22562264a781534d73727d4867a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ In regulation 191 (obligation on holder to submit periodic safety update reports
 
 ## Annotations
 
-[^key-ddbb22562264a781534d73727d4867a8]: Commencement: [Reg. 82](https://www.legislation.gov.uk/uksi/2024/832/regulation/82) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-ddbb22562264a781534d73727d4867a8]: Commencement: [Reg. 82](https://www.legislation.gov.uk/uksi/2024/832/regulation/82) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00092]: Footnote: Regulation 191 was amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) including as that instrument was amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

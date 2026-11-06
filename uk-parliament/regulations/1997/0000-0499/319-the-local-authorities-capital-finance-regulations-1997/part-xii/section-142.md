@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 142. General provisions affecting the determination of housing and non-housing amounts[^key-50fc4c0e910ede7ea1b34b910ad4d260]
+## 142. General provisions affecting the determination of housing and non-housing amounts[^c-50fc4c0e910ede7ea1b34b910ad4d260]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ the non-housing amount for the current year shall, subject to paragraph (1), be 
 
 ## Annotations
 
-[^key-50fc4c0e910ede7ea1b34b910ad4d260]: Commencement: Reg. 142 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-50fc4c0e910ede7ea1b34b910ad4d260]: Commencement: Reg. 142 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

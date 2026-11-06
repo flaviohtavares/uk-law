@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39.6. Representation at trial of companies or other corporations[^key-488b5e817beb486c699e309797bd96e1]
+## 39.6. Representation at trial of companies or other corporations[^c-488b5e817beb486c699e309797bd96e1]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A company or other corporation may be represented at trial by an employee if—
 
 ## Annotations
 
-[^key-488b5e817beb486c699e309797bd96e1]: Commencement: [Rule 39.6](https://www.legislation.gov.uk/uksi/1998/3132/rule/39.6) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-488b5e817beb486c699e309797bd96e1]: Commencement: [Rule 39.6](https://www.legislation.gov.uk/uksi/1998/3132/rule/39.6) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

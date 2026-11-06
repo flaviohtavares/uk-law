@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC
 
-The Community Drivers’ Hours (Tankers) (Temporary Exception) Regulations 2000 (revoked)[^key-83ea86ab8bc4108ddd2049f9edd702f6]
+The Community Drivers’ Hours (Tankers) (Temporary Exception) Regulations 2000 (revoked)[^c-83ea86ab8bc4108ddd2049f9edd702f6]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 4th November 2000
 
-[^key-83ea86ab8bc4108ddd2049f9edd702f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-83ea86ab8bc4108ddd2049f9edd702f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-83ea86ab8bc4108ddd2049f9edd702f6]
+## 1.[^c-83ea86ab8bc4108ddd2049f9edd702f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-83ea86ab8bc4108ddd2049f9edd702f6]
+## 2.[^c-83ea86ab8bc4108ddd2049f9edd702f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-83ea86ab8bc4108ddd2049f9edd702f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-83ea86ab8bc4108ddd2049f9edd702f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-83ea86ab8bc4108ddd2049f9edd702f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-83ea86ab8bc4108ddd2049f9edd702f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-83ea86ab8bc4108ddd2049f9edd702f6]: Textual amendment: Regulations revoked (24.11.2000) by [The Community Drivers Hours (Tankers) (Temporary Exception) (Revocation) Regulations 2000 (S.I. 2000/3115)](https://www.legislation.gov.uk/uksi/2000/3115), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3115/regulation/1), [2](https://www.legislation.gov.uk/uksi/2000/3115/regulation/2)
+[^c-83ea86ab8bc4108ddd2049f9edd702f6]: Textual amendment: Regulations revoked (24.11.2000) by [The Community Drivers Hours (Tankers) (Temporary Exception) (Revocation) Regulations 2000 (S.I. 2000/3115)](https://www.legislation.gov.uk/uksi/2000/3115), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3115/regulation/1), [2](https://www.legislation.gov.uk/uksi/2000/3115/regulation/2)

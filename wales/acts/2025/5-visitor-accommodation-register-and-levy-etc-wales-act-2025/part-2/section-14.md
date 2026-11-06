@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Removal of a person from the register on application to WRA[^key-cacc750775c3ec669b2db46626b5e562][^key-e6ed1bce96bb7d8542fa8e4a8a11f1b8]
+## 14. Removal of a person from the register on application to WRA[^c-cacc750775c3ec669b2db46626b5e562][^c-e6ed1bce96bb7d8542fa8e4a8a11f1b8]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cacc750775c3ec669b2db46626b5e562]: Commencement: S. 14 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
+[^c-cacc750775c3ec669b2db46626b5e562]: Commencement: S. 14 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
 
-[^key-e6ed1bce96bb7d8542fa8e4a8a11f1b8]: Commencement: [S. 14](https://www.legislation.gov.uk/asc/2025/5/section/14) in force at 1.10.2026 by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(h)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/h)
+[^c-e6ed1bce96bb7d8542fa8e4a8a11f1b8]: Commencement: [S. 14](https://www.legislation.gov.uk/asc/2025/5/section/14) in force at 1.10.2026 by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(h)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/h)

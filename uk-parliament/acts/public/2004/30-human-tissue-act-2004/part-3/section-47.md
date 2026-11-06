@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Power to de-accession human remains[^key-3e5a0da77387cbb26f4939cafb948176]
+## 47. Power to de-accession human remains[^c-3e5a0da77387cbb26f4939cafb948176]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ the power conferred by subsection (2) includes power to transfer the thing with 
 
 ## Annotations
 
-[^key-3e5a0da77387cbb26f4939cafb948176]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2004/30/section/47) in force at 3.10.2005 by [S.I. 2005/2632](https://www.legislation.gov.uk/uksi/2005/2632), [art. 2](https://www.legislation.gov.uk/uksi/2005/2632/article/2)
+[^c-3e5a0da77387cbb26f4939cafb948176]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2004/30/section/47) in force at 3.10.2005 by [S.I. 2005/2632](https://www.legislation.gov.uk/uksi/2005/2632), [art. 2](https://www.legislation.gov.uk/uksi/2005/2632/article/2)

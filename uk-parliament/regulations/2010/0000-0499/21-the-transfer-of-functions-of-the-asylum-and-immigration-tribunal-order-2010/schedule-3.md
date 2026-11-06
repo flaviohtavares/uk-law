@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Repeals and revocations[^key-c7194adab7e71aecd42e041d4e34d9f6]
+## SCHEDULE 3 — Repeals and revocations[^c-c7194adab7e71aecd42e041d4e34d9f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ Article 5(3)
 
 ## Annotations
 
-[^key-c7194adab7e71aecd42e041d4e34d9f6]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2010/21/schedule/3) in force at 15.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1)
+[^c-c7194adab7e71aecd42e041d4e34d9f6]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2010/21/schedule/3) in force at 15.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1)

@@ -23,13 +23,13 @@ summary: ''
 (1) In this Part of this Act—
 
 - “**prescribed**” means prescribed by regulations;
-- [^key-2d362bc886efdf8552a690c1484b9832]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-2d362bc886efdf8552a690c1484b9832]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**voluntary organisation**” means any association carrying on or proposing to carry on any activities otherwise than for the purpose of gain by the association or by individual members of the association;
 - “**week**” means a period of 7 days beginning with a Monday.
 
 (2) Subject to any provision made by regulations, references in this Part of this Act to any condition being satisfied or any facts existing in a week shall be construed as references to the condition being satisfied or the facts existing at the beginning of that week.
 
-(3) References in this Part of this Act to a parent, father or mother of a child or qualifying young person[^key-178249c9b3d2c286833783f3cada6da6] shall be construed—
+(3) References in this Part of this Act to a parent, father or mother of a child or qualifying young person[^c-178249c9b3d2c286833783f3cada6da6] shall be construed—
 
 - (a) as including references to the natural parent, father or mother of an illegitimate child;
 - (b) as including references to a step-parent, step-father or step-mother.
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2d362bc886efdf8552a690c1484b9832]: Textual amendment: Words in [s. 143(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/143/1) repealed (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 40(2)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/40/2), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/6/schedule/2/part/2)
+[^c-2d362bc886efdf8552a690c1484b9832]: Textual amendment: Words in [s. 143(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/143/1) repealed (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 40(2)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/40/2), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/6/schedule/2/part/2)
 
-[^key-178249c9b3d2c286833783f3cada6da6]: Textual amendment: Words in [s. 143(3)](https://www.legislation.gov.uk/ukpga/1992/7/section/143/3) inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 40(3)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/40/3)
+[^c-178249c9b3d2c286833783f3cada6da6]: Textual amendment: Words in [s. 143(3)](https://www.legislation.gov.uk/ukpga/1992/7/section/143/3) inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 40(3)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/40/3)
 
 [^c16395361]: Textual amendment: Words in s. 143(5) substituted (14.2.1996) by [S.I. 1995/3211 (N.I. 20)](https://www.legislation.gov.uk/nisi/1995/3211), [art. 5](https://www.legislation.gov.uk/nisi/1995/3211/article/5), [Sch. para. 4(3)](https://www.legislation.gov.uk/nisi/1995/3211/schedule/paragraph/4/3)

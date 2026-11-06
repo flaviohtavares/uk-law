@@ -45,7 +45,7 @@ Coming into force
 
 The Secretary of State, being the designated[^f00001] Minister for the purpose of section 2(2) of the European Communities Act 1972[^f00002] in relation to the notification and control of substances and the control and regulation of genetically modified organisms, in exercise of the powers conferred on him by the said section 2(2) and sections 43(2), (4), (5) and (6) and 82(3)(a) of the Health and Safety at Work etc. Act 1974[^f00003] (“the 1974 Act”) and of all other powers enabling him in that behalf and for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-9126cb42bcaaf86976bfaa4ae897daca]
+## 1. Citation, commencement and interpretation[^c-9126cb42bcaaf86976bfaa4ae897daca]
 
 (1) These Regulations may be cited as the Health and Safety (Fees) Regulations 2003 and shall come into force on 1st April 2003.
 
@@ -64,7 +64,7 @@ The Secretary of State, being the designated[^f00001] Minister for the purpose o
 - “respiratory protective equipment” includes any respirator and any breathing apparatus; and
 - “working days” does not include weekends or public holidays.
 
-## 2. Fees payable under the mines and quarries provisions[^key-2fb439b4428a11e37fa7cc8afd509570]
+## 2. Fees payable under the mines and quarries provisions[^c-2fb439b4428a11e37fa7cc8afd509570]
 
 (1) A fee shall be payable by the applicant to the Executive on each application for an original approval, an amendment of approval or a renewal of approval under any of the mines and quarries provisions.
 
@@ -75,7 +75,7 @@ The Secretary of State, being the designated[^f00001] Minister for the purpose o
 - (a) in the case of explosives and detonators, for each test specified in column 1 of Part II of Schedule 1, the fee shall be that specified in the corresponding entry in column 2 of that Part;
 - (b) in any other case, the fee shall be as set out in Part III of Schedule 1 (that is to say the reasonable cost to the Executive of having the testing carried out).
 
-## 3. Fee for applications for approval of respiratory protective equipment[^key-7a222dc3e26ae097b0380231334e02f5]
+## 3. Fee for applications for approval of respiratory protective equipment[^c-7a222dc3e26ae097b0380231334e02f5]
 
 (1) A fee shall be payable by the applicant to the Executive on each application for approval of respiratory protective equipment—
 
@@ -87,19 +87,19 @@ The Secretary of State, being the designated[^f00001] Minister for the purpose o
 
 (2) The fee payable on application for approval of respiratory protective equipment shall be that specified in column 2 of Schedule 2 (that is to say the reasonable cost to the Executive of having the work, including any testing, carried out).
 
-## 4. Fees for applications for approval under the Agriculture (Tractor Cabs) Regulations 1974[^key-7fcf1b9fa8f966a45c84fe4418968e06]
+## 4. Fees for applications for approval under the Agriculture (Tractor Cabs) Regulations 1974[^c-7fcf1b9fa8f966a45c84fe4418968e06]
 
 (1) A fee shall be payable by the applicant to the Executive on each application for approval of plant and equipment under the Agriculture (Tractor Cabs) Regulations 1974[^f00013].
 
 (2) The fee payable on application for such an approval or revision of an approval as is described in column 1 of Schedule 3 shall be that specified in the corresponding entry in column 2 of that Schedule.
 
-## 5. Fee for application for approval under the Freight Containers (Safety Convention) Regulations 1984[^key-c68d587b6ef5b0ff61b8585937de65fb]
+## 5. Fee for application for approval under the Freight Containers (Safety Convention) Regulations 1984[^c-c68d587b6ef5b0ff61b8585937de65fb]
 
 (1) A fee shall be payable by the applicant to the Executive on each application for approval of a scheme or programme for examination of freight containers under the Freight Containers (Safety Convention) Regulations 1984[^f00014].
 
 (2) The fee payable on application for the approval described in column 1 of Schedule 4 shall be that specified in column 2 of that Schedule.
 
-## 6. Fees for various applications under the Asbestos (Licensing) Regulations 1983[^key-0d781b6b8c364f098958f6d4a3806fac]
+## 6. Fees for various applications under the Asbestos (Licensing) Regulations 1983[^c-0d781b6b8c364f098958f6d4a3806fac]
 
 (1) A fee shall be payable by the applicant to the Executive on each application for a licence under the Asbestos (Licensing) Regulations 1983[^f00015] (“the 1983 Regulations”).
 
@@ -117,7 +117,7 @@ The Secretary of State, being the designated[^f00001] Minister for the purpose o
 
 (8) The fee payable under paragraph (7) shall be that specified in column 3 of Table 2 to Schedule 5.
 
-## 7. Fees for examination or surveillance by an employment medical adviser[^key-3e372acc4334b2290bf6e6518e31f410]
+## 7. Fees for examination or surveillance by an employment medical adviser[^c-3e372acc4334b2290bf6e6518e31f410]
 
 (1) A fee shall be payable to the Executive by an employer in respect of a medical examination or medical surveillance of each of his employees by an employment medical adviser for the purposes of any provision specified in column 1 of Schedule 6.
 
@@ -129,13 +129,13 @@ The Secretary of State, being the designated[^f00001] Minister for the purpose o
 
 (3) Where an employment medical adviser carries out a medical examination of a self-employed person for the purposes of the Control of Asbestos at Work Regulations 2002[^f00016], that self-employed person shall pay to the Executive fees ascertained in accordance with paragraph (2).
 
-## 8. Fees for medical surveillance by an employment medical adviser under the Control of Lead at Work Regulations 2002[^key-f45ca7055ddf2f6b5f64dfa682a19bb6]
+## 8. Fees for medical surveillance by an employment medical adviser under the Control of Lead at Work Regulations 2002[^c-f45ca7055ddf2f6b5f64dfa682a19bb6]
 
 (1) A fee shall be payable to the Executive by an employer in respect of medical surveillance of any of his employees by an employment medical adviser for the purposes of the Control of Lead at Work Regulations 2002[^f00017].
 
 (2) The fee payable for each item described in column 1 of Schedule 7 shall be that specified in the corresponding entry in column 2 of that Schedule.
 
-## 9. Fees for various applications in connection with the Ionising Radiations Regulations 1999 and the Radiation (Emergency Preparedness and Public Information) Regulations 2001[^key-2216160522506ec245d3777b3543d6b2]
+## 9. Fees for various applications in connection with the Ionising Radiations Regulations 1999 and the Radiation (Emergency Preparedness and Public Information) Regulations 2001[^c-2216160522506ec245d3777b3543d6b2]
 
 (1) A fee shall be payable by the applicant to the Executive on each application for an approval of dosimetry services, or for the reassessment of an approval of dosimetry services previously granted, for the purposes of the 1999 Regulations.
 
@@ -160,7 +160,7 @@ and the fee for such work in connection with each matter described in column 1 o
 
 (9) In this regulation “the 1999 Regulations” means the Ionising Radiations Regulations 1999[^f00019].
 
-## 10. Fees payable under the Explosives Act 1875 and instruments made thereunder, under the Petroleum (Consolidation) Act 1928, the Petroleum (Transfer of Licences) Act 1936 and the Classification and Labelling of Explosives Regulations 1983[^key-be56110d5a9bd24f9ddfd91674275a73]
+## 10. Fees payable under the Explosives Act 1875 and instruments made thereunder, under the Petroleum (Consolidation) Act 1928, the Petroleum (Transfer of Licences) Act 1936 and the Classification and Labelling of Explosives Regulations 1983[^c-be56110d5a9bd24f9ddfd91674275a73]
 
 (1) Where any application in relation to a provision specified in column 1 of Part I of Schedule 9 is made for a purpose specified in column 2 of that Part, the fee specified in the corresponding entry in column 3 of that Part shall be payable by the applicant to the Executive.
 
@@ -178,17 +178,17 @@ and the fee for such work in connection with each matter described in column 1 o
 
 (8) Part II of Schedule 9 shall have effect subject to the Notes to that Part.
 
-## 11. Date from which fees are payable under the Petroleum (Consolidation) Act 1928 and the Petroleum (Transfer of Licences) Act 1936[^key-5dff8e6ca2c237ea9bcef250b922cb75]
+## 11. Date from which fees are payable under the Petroleum (Consolidation) Act 1928 and the Petroleum (Transfer of Licences) Act 1936[^c-5dff8e6ca2c237ea9bcef250b922cb75]
 
 Notwithstanding the provisions of section 4 of the Petroleum (Consolidation) Act 1928[^f00020] or section 1(4) of the Petroleum (Transfer of Licences) Act 1936[^f00021] the fees in respect of applications for petroleum licences prescribed by these Regulations shall be payable for any licence first having effect or any transfer or renewal of a licence first taking effect on or after the coming into force of these Regulations irrespective of the date of the application for that licence, transfer or renewal.
 
-## 12. Fee for application for an explosives licence under Part IX of the Dangerous Substances in Harbour Areas Regulations 1987[^key-1606d539aba072f16573897b54ba6a96]
+## 12. Fee for application for an explosives licence under Part IX of the Dangerous Substances in Harbour Areas Regulations 1987[^c-1606d539aba072f16573897b54ba6a96]
 
 (1) A fee shall be payable by the applicant to the Executive on each application for an explosives licence or for any alteration in the terms of an existing licence under Part IX of the Dangerous Substances in Harbour Areas Regulations 1987[^f00022].
 
 (2) The fee on an application for each purpose specified in column 1 of Schedule 10 shall be that specified in column 2 of that Schedule and where the fee is determined as an amount per hour, the fee, which shall be adjusted pro rata for a period worked of less than one hour, so calculated shall be payable prior to notification of the result of the application.
 
-## 13. Fee for a vocational training certificate under the Carriage of Dangerous Goods by Road (Driver Training) Regulations 1996[^key-a3c9efb38e49e3dbc36b8e997d5e4570]
+## 13. Fee for a vocational training certificate under the Carriage of Dangerous Goods by Road (Driver Training) Regulations 1996[^c-a3c9efb38e49e3dbc36b8e997d5e4570]
 
 (1) A driver may only be issued with a vocational training certificate in accordance with regulation 4(1) of the Carriage of Dangerous Goods by Road (Driver Training) Regulations 1996[^f00023] where a fee of the sum specified in Schedule 11 has been paid to the Secretary of State.
 
@@ -196,7 +196,7 @@ Notwithstanding the provisions of section 4 of the Petroleum (Consolidation) Act
 
 (3) Nothing in this regulation shall be construed as making a fee payable by a person in any of the capacities specified in section 43(4) of the 1974 Act.
 
-## 14. Fees for applications for approvals under the Carriage of Dangerous Goods by Road (Driver Training) Regulations 1996[^key-061689ca7f935d782ed26605c45330fd]
+## 14. Fees for applications for approvals under the Carriage of Dangerous Goods by Road (Driver Training) Regulations 1996[^c-061689ca7f935d782ed26605c45330fd]
 
 (1) A fee shall be payable by the applicant to the Secretary of State on each application for an original approval or a renewal of any approval of—
 
@@ -207,7 +207,7 @@ of the Carriage of Dangerous Goods by Road (Driver Training) Regulations 1996.
 
 (2) The fee payable under paragraph (1) on application for such approval as is mentioned in column 1 of Schedule 12 shall be respectively that specified in the corresponding entry in column 2 or 3 of that Schedule (that is to say the reasonable cost to the Secretary of State of having the work carried out).
 
-## 15. Fee for a vocational training certificate under the Transport of Dangerous Goods (Safety Advisers) Regulations 1999[^key-c56b31da0ee9762f1830e0da717b4325]
+## 15. Fee for a vocational training certificate under the Transport of Dangerous Goods (Safety Advisers) Regulations 1999[^c-c56b31da0ee9762f1830e0da717b4325]
 
 (1) An individual may only be issued with a vocational training certificate in accordance with regulation 7(1) of the Transport of Dangerous Goods (Safety Advisers) Regulations 1999[^f00024] where a fee as specified in Schedule 13 has been paid to the Secretary of State or the person designated by the Secretary of State for the purpose of issuing vocational training certificates.
 
@@ -215,11 +215,11 @@ of the Carriage of Dangerous Goods by Road (Driver Training) Regulations 1996.
 
 (3) Nothing in this regulation shall be construed as making a fee payable by a person in any of the capacities specified in section 43(4) of the 1974 Act.
 
-## 16. Estimate of cost of work[^key-91896a61ef2d9cfb8567138c5b666202]
+## 16. Estimate of cost of work[^c-91896a61ef2d9cfb8567138c5b666202]
 
 Where any fee is to be assessed on the reasonable cost to the Executive of carrying out any work or testing under regulation 2(2), 2(3)(b), 3(2) or 10(7), the Executive shall on receipt of the application first prepare and send to the applicant an estimate of that cost and shall, before carrying out the work, obtain confirmation from the applicant that he wishes the work to be carried out on the basis of that estimate of cost.
 
-## 17. Fees for notifications and applications under the Genetically Modified Organisms (Contained Use) Regulations 2000[^key-4a92c073537f68b09fdbc39f0ee610cf]
+## 17. Fees for notifications and applications under the Genetically Modified Organisms (Contained Use) Regulations 2000[^c-4a92c073537f68b09fdbc39f0ee610cf]
 
 (1) The fee specified in column 2 of Schedule 14 shall be payable by a notifier to the competent authority on each such notification or application under the 2000 Regulations as is referred to in the corresponding entry in column 1 of that Schedule.
 
@@ -227,7 +227,7 @@ Where any fee is to be assessed on the reasonable cost to the Executive of carry
 
 (3) In this regulation, “the 2000 Regulations” means the Genetically Modified Organisms (Contained Use) Regulations 2000[^f00025] and “competent authority” has the same meaning as in those Regulations.
 
-## 18. Fees for notifications and applications under the Notification of New Substances Regulations 1993[^key-473bf93e78b38077a91a9337f94bde81]
+## 18. Fees for notifications and applications under the Notification of New Substances Regulations 1993[^c-473bf93e78b38077a91a9337f94bde81]
 
 (1) The fee specified in column 2 of Table 1 to Schedule 15 shall be payable by a notifier to the competent authority, within the meaning of the Notification of New Substances Regulations 1993[^f00026], on each such notification or application under those Regulations as is referred to in the corresponding entry in column 1 of that Table.
 
@@ -242,7 +242,7 @@ Where any fee is to be assessed on the reasonable cost to the Executive of carry
 
 references in that Schedule to “competent authority”, “the Directive” ,“member State” and “process-orientated research and development” have the same meanings as in those second mentioned Regulations.
 
-## 19. Fees payable in respect of offshore installations[^key-d7e7ab53ba9127303cd10f8991960d08]
+## 19. Fees payable in respect of offshore installations[^c-d7e7ab53ba9127303cd10f8991960d08]
 
 (1) A fee shall be payable to the Executive by the person referred to in column 2 of Schedule 16 for the performance by the Executive of such functions conferred on the Executive as are specified in column 1 of that Schedule.
 
@@ -253,7 +253,7 @@ references in that Schedule to “competent authority”, “the Directive” ,�
 
 (3) In this regulation, regulation 22 and Schedule 16, “the 1992 Regulations” means the Offshore Installations (Safety Case) Regulations 1992[^f00028], and “installation”, “safety case”, “operator” and “owner” have the same meanings as in those Regulations.
 
-## 20. Fees payable in respect of railway safety functions[^key-b8a1808d10e1d05e955341dc181bc711]
+## 20. Fees payable in respect of railway safety functions[^c-b8a1808d10e1d05e955341dc181bc711]
 
 (1) A fee shall be payable to the Executive by the person referred to in column 2 of Schedule 17 for the performance by the Executive of such functions conferred on the Executive as are specified in column 1 of that Schedule.
 
@@ -268,7 +268,7 @@ references in that Schedule to “competent authority”, “the Directive” ,�
 
 (5) In this regulation, regulation 22 and Schedule 17, “the 2000 Regulations” means the Railways (Safety Case) Regulations 2000[^f00030], the “Approval Regulations” means the Railways and Other Transport Systems (Approval of Works, Plant and Equipment) Regulations 1994[^f00031], “railway”, “railway infrastructure”, “railway operator”, “safety case”, “station” and “train” have the same meanings as in the 2000 Regulations and “tramway” and “trolley vehicle system” have the same meanings as in the Transport and Works Act 1992[^f00032].
 
-## 21. Fees payable in respect of gas safety functions[^key-95fe05c7c7131781931cc0fc872efd3f]
+## 21. Fees payable in respect of gas safety functions[^c-95fe05c7c7131781931cc0fc872efd3f]
 
 (1) A fee shall be payable to the Executive by the person referred to in column 2 of Schedule 18 for the performance by the Executive of such functions conferred on the Executive as are specified in column 1 of that Schedule.
 
@@ -281,7 +281,7 @@ insofar as such enforcement is for the purpose of protecting persons from risks 
 
 (3) In this regulation, regulation 22 and Schedule 18, “the 1996 Regulations” means the Gas Safety (Management) Regulations 1996[^f00033], and “network”, “network emergency co-ordinator” and “safety case” have the same meanings as in the 1996 Regulations.
 
-## 22. Provisions supplementary to regulations 19 to 21[^key-ed66b245f82e6701ecdae909b24ab84e]
+## 22. Provisions supplementary to regulations 19 to 21[^c-ed66b245f82e6701ecdae909b24ab84e]
 
 (1) The fees referred to in regulations 19 to 21 above shall —
 
@@ -311,7 +311,7 @@ insofar as such enforcement is for the purpose of protecting persons from risks 
 
 (7) Any reference in regulations 19 to 21 to a function conferred on an inspector by the 1974 Act which relates to enforcement against a person of any of the relevant statutory provisions includes a reference to any function conferred on an inspector by that Act which is exercised for the purpose of carrying into effect those provisions in relation to that person.
 
-## 23. Fees for applications for approvals under the Health and Safety (First-Aid) Regulations 1981[^key-776e7e6873b401008bf6bfd7abe5aaf5]
+## 23. Fees for applications for approvals under the Health and Safety (First-Aid) Regulations 1981[^c-776e7e6873b401008bf6bfd7abe5aaf5]
 
 (1) A fee shall be payable by the applicant to the Executive on each application for an original approval of training or a renewal of an approval of training under regulation 3(2)(a) of the Health and Safety (First-Aid) Regulations 1981[^f00037].
 
@@ -349,7 +349,7 @@ a fee shall be payable by the training provider to the Executive in respect of t
 
 (11) The fee referred to in paragraphs (6), (8) and (10) shall be payable within 30 days from the date of the invoice that the Executive has sent or given to the person providing the approved training.
 
-## 24. Fees for applications for approvals under the Offshore Installation and Pipeline Works (First-Aid) Regulations 1989[^key-3f7100454d90afedf0c8de01428dc63e]
+## 24. Fees for applications for approvals under the Offshore Installation and Pipeline Works (First-Aid) Regulations 1989[^c-3f7100454d90afedf0c8de01428dc63e]
 
 (1) A fee shall be payable by the applicant to the Executive on each application for an original approval or a renewal of an approval of training under regulation 5(2)(a) of the Offshore Installations and Pipeline Works (First-Aid) Regulations 1989[^f00038].
 
@@ -407,7 +407,7 @@ a fee shall be payable by the training provider to the Executive in respect of t
 
 (12) The fee referred to in paragraphs (6), (7), (9) and (11) shall be payable within 30 days from the date of the invoice that the Executive has sent or given to the person providing the approved training.
 
-## 25. Provisions supplementary to regulations 23 and 24[^key-7bc11955972cbc253f0090070448aaaf]
+## 25. Provisions supplementary to regulations 23 and 24[^c-7bc11955972cbc253f0090070448aaaf]
 
 (1) Where an application for an original approval of either first-aid training or training for the purposes of regulation 3(2)(a) of the 1981 Regulations is made and the applicant thereafter applies for an original approval of the one of those two kinds of training not earlier applied for or the applications are made together, the Executive shall repay to the applicant the amount of £150 in respect of the fees paid for the original approvals of training applied for; and if after those applications the applicant applies for an original approval of medical training, the Executive shall repay to the applicant a further amount of £50 in respect of the fees paid for the original approvals of training applied for.
 
@@ -422,7 +422,7 @@ a fee shall be payable by the training provider to the Executive in respect of t
 - “the 1981 Regulations” means the Health and Safety (First-Aid) Regulations 1981[^f00039] and
 - “first-aid training” and “medical training” have the same meanings as in regulation 24.
 
-## 26. Revocation[^key-82d4e92574ae937ceda7b13e56d8c872]
+## 26. Revocation[^c-82d4e92574ae937ceda7b13e56d8c872]
 
 The Health and Safety (Fees) Regulations 2002[^f00040] are hereby revoked.
 
@@ -440,7 +440,7 @@ Department for Work and Pensions
 
 Regulation 2
 
-### PART I — FEES FOR APPLICATIONS FOR APPROVAL OF PLANT, APPARATUS OR SUBSTANCE UNDER THE MINES AND QUARRIES PROVISIONS[^key-cf56518b7bf7b436aa7819397f62aa23]
+### PART I — FEES FOR APPLICATIONS FOR APPROVAL OF PLANT, APPARATUS OR SUBSTANCE UNDER THE MINES AND QUARRIES PROVISIONS[^c-cf56518b7bf7b436aa7819397f62aa23]
 
 <table>
 <thead>
@@ -459,7 +459,7 @@ Regulation 2
 </tbody>
 </table>
 
-### PART II — FEES FOR TESTING EXPLOSIVES AND DETONATORS UNDER THE MINES AND QUARRIES PROVISIONS[^key-8284a05d023975d0a231c9f73123f3d6]
+### PART II — FEES FOR TESTING EXPLOSIVES AND DETONATORS UNDER THE MINES AND QUARRIES PROVISIONS[^c-8284a05d023975d0a231c9f73123f3d6]
 
 <table>
 <thead>
@@ -478,11 +478,11 @@ Regulation 2
 </tbody>
 </table>
 
-### PART III — FEES FOR OTHER TESTING[^key-c2752c0e27fa8ec7a5dc23b3797391b1]
+### PART III — FEES FOR OTHER TESTING[^c-c2752c0e27fa8ec7a5dc23b3797391b1]
 
 The fee for any testing not fixed by Part II of this Schedule shall be the reasonable cost to the Executive of having the testing carried out.
 
-## SCHEDULE 2 — FEE FOR APPLICATION FOR APPROVAL OF RESPIRATORY EQUIPMENT[^key-c4f893ea5eb84d330114063a73dac1f9]
+## SCHEDULE 2 — FEE FOR APPLICATION FOR APPROVAL OF RESPIRATORY EQUIPMENT[^c-c4f893ea5eb84d330114063a73dac1f9]
 
 Regulation 3
 
@@ -496,7 +496,7 @@ Regulation 3
 </tbody>
 </table>
 
-## SCHEDULE 3 — FEES FOR APPLICATIONS FOR APPROVAL UNDER THE AGRICULTURE (TRACTOR CABS) REGULATIONS 1974[^key-849980e95d2035102bb4154c1ce6f324]
+## SCHEDULE 3 — FEES FOR APPLICATIONS FOR APPROVAL UNDER THE AGRICULTURE (TRACTOR CABS) REGULATIONS 1974[^c-849980e95d2035102bb4154c1ce6f324]
 
 Regulation 4
 
@@ -511,7 +511,7 @@ Regulation 4
 </tbody>
 </table>
 
-## SCHEDULE 4 — FEE FOR APPLICATION FOR APPROVAL UNDER THE FREIGHT CONTAINERS (SAFETY CONVENTION) REGULATIONS 1984[^key-373c2b3817902bd1255d37ed753addcf]
+## SCHEDULE 4 — FEE FOR APPLICATION FOR APPROVAL UNDER THE FREIGHT CONTAINERS (SAFETY CONVENTION) REGULATIONS 1984[^c-373c2b3817902bd1255d37ed753addcf]
 
 Regulation 5
 
@@ -525,7 +525,7 @@ Regulation 5
 </tbody>
 </table>
 
-## SCHEDULE 5 — FEES FOR VARIOUS APPLICATIONS UNDER THE ASBESTOS (LICENSING) REGULATIONS 1983[^key-98fde29ff7cbdfaa4c0f8e6e361364fd]
+## SCHEDULE 5 — FEES FOR VARIOUS APPLICATIONS UNDER THE ASBESTOS (LICENSING) REGULATIONS 1983[^c-98fde29ff7cbdfaa4c0f8e6e361364fd]
 
 Regulation 6
 
@@ -553,7 +553,7 @@ Regulation 6
 </tbody>
 </table>
 
-## SCHEDULE 6 — FEES FOR EXAMINATION OR SURVEILLANCE BY AN EMPLOYMENT MEDICAL ADVISER[^key-b525f70cd203bd8fefd702befe7c968d]
+## SCHEDULE 6 — FEES FOR EXAMINATION OR SURVEILLANCE BY AN EMPLOYMENT MEDICAL ADVISER[^c-b525f70cd203bd8fefd702befe7c968d]
 
 Regulation 7
 
@@ -571,7 +571,7 @@ Regulation 7
 </tbody>
 </table>
 
-## SCHEDULE 7 — FEES FOR MEDICAL SURVEILLANCE BY AN EMPLOYMENT MEDICAL ADVISER UNDER THE CONTROL OF LEAD AT WORK REGULATIONS 2002[^key-da2fc404d74c4918eb2cbccb3c464511]
+## SCHEDULE 7 — FEES FOR MEDICAL SURVEILLANCE BY AN EMPLOYMENT MEDICAL ADVISER UNDER THE CONTROL OF LEAD AT WORK REGULATIONS 2002[^c-da2fc404d74c4918eb2cbccb3c464511]
 
 Regulation 8
 
@@ -588,7 +588,7 @@ Regulation 8
 </tbody>
 </table>
 
-## SCHEDULE 8 — FEES FOR VARIOUS APPLICATIONS IN CONNECTION WITH THE IONISING RADIATIONS REGULATIONS 1999 AND THE RADIATION (EMERGENCY PREPAREDNESS AND PUBLIC INFORMATION) REGULATIONS 2001[^key-b9e6b9a66204450708b30164253a3dc8]
+## SCHEDULE 8 — FEES FOR VARIOUS APPLICATIONS IN CONNECTION WITH THE IONISING RADIATIONS REGULATIONS 1999 AND THE RADIATION (EMERGENCY PREPAREDNESS AND PUBLIC INFORMATION) REGULATIONS 2001[^c-b9e6b9a66204450708b30164253a3dc8]
 
 Regulation 9
 
@@ -637,7 +637,7 @@ Regulation 9
 
 Regulation 10
 
-### PART 1 — APPLICATIONS FOR FACTORY LICENCES, MAGAZINE LICENCES, ACETYLENE IMPORTATION LICENCES AND AMENDING LICENCES UNDER SECTIONS 6, 12 AND 40(9) OF THE EXPLOSIVES ACT 1875 AND REPLACEMENT OF SUCH LICENCES[^key-ebd218c23d3cfddd68b3d4bd642a7ac6]
+### PART 1 — APPLICATIONS FOR FACTORY LICENCES, MAGAZINE LICENCES, ACETYLENE IMPORTATION LICENCES AND AMENDING LICENCES UNDER SECTIONS 6, 12 AND 40(9) OF THE EXPLOSIVES ACT 1875 AND REPLACEMENT OF SUCH LICENCES[^c-ebd218c23d3cfddd68b3d4bd642a7ac6]
 
 <table>
 <thead>
@@ -660,7 +660,7 @@ Regulation 10
 
 [^f00041][^f00042]
 
-### PART II — FEE OR MAXIMUM FEE PAYABLE IN RESPECT OF APPLICATIONS FOR THE GRANTING AND RENEWAL OF AN EXPLOSIVES STORE LICENCE, THE REGISTRATION OR RENEWAL OF REGISTRATION OF PREMISES USED FOR KEEPING EXPLOSIVES AND THE GRANTING AND TRANSFER OF PETROLEUM-SPIRIT LICENCES[^key-c8b479e7d6067138ba4fead4b1e2fc05]
+### PART II — FEE OR MAXIMUM FEE PAYABLE IN RESPECT OF APPLICATIONS FOR THE GRANTING AND RENEWAL OF AN EXPLOSIVES STORE LICENCE, THE REGISTRATION OR RENEWAL OF REGISTRATION OF PREMISES USED FOR KEEPING EXPLOSIVES AND THE GRANTING AND TRANSFER OF PETROLEUM-SPIRIT LICENCES[^c-c8b479e7d6067138ba4fead4b1e2fc05]
 
 <table>
 <thead>
@@ -688,7 +688,7 @@ Regulation 10
 
 [^f00043]
 
-### PART III — APPLICATIONS UNDER PARAGRAPH (1) OF THE PROVISO TO ORDER IN COUNCIL (NO. 30) OF 2ND FEBRUARY 1937 FOR APPROVALS OF PREMISES AND APPARATUS IN WHICH ACETYLENE IS TO BE MANUFACTURED OR KEPT[^key-a2cf050cf10c63b10289726864de0d55][^f00044]
+### PART III — APPLICATIONS UNDER PARAGRAPH (1) OF THE PROVISO TO ORDER IN COUNCIL (NO. 30) OF 2ND FEBRUARY 1937 FOR APPROVALS OF PREMISES AND APPARATUS IN WHICH ACETYLENE IS TO BE MANUFACTURED OR KEPT[^c-a2cf050cf10c63b10289726864de0d55][^f00044]
 
 <table>
 <thead>
@@ -702,7 +702,7 @@ Regulation 10
 </tbody>
 </table>
 
-### PART IV — APPLICATIONS FOR COMPARISONS AND APPROVALS IN RESPECT OF CONDITIONS (1) AND (8) IN THE ORDER OF THE SECRETARY OF STATE (NO. 9) OF 23RD JUNE 1919[^key-ca94cbe668546a829ce0408320eae80b][^f00045]
+### PART IV — APPLICATIONS FOR COMPARISONS AND APPROVALS IN RESPECT OF CONDITIONS (1) AND (8) IN THE ORDER OF THE SECRETARY OF STATE (NO. 9) OF 23RD JUNE 1919[^c-ca94cbe668546a829ce0408320eae80b][^f00045]
 
 <table>
 <thead>
@@ -716,7 +716,7 @@ Regulation 10
 </tbody>
 </table>
 
-### PART V — MISCELLANEOUS APPLICATIONS[^key-f570453bf25c3e3a7d65574be41c7c4a]
+### PART V — MISCELLANEOUS APPLICATIONS[^c-f570453bf25c3e3a7d65574be41c7c4a]
 
 <table>
 <thead>
@@ -731,7 +731,7 @@ Regulation 10
 
 [^f00046][^f00047][^f00048]
 
-### PART VI — FURTHER FEES PAYABLE IN RESPECT OF CERTAIN TESTING REQUIRED BY THE HEALTH AND SAFETY EXECUTIVE[^key-359aa18d898beb01748ee7c9cf1423cd]
+### PART VI — FURTHER FEES PAYABLE IN RESPECT OF CERTAIN TESTING REQUIRED BY THE HEALTH AND SAFETY EXECUTIVE[^c-359aa18d898beb01748ee7c9cf1423cd]
 
 <table>
 <thead>
@@ -747,7 +747,7 @@ Regulation 10
 </tbody>
 </table>
 
-## SCHEDULE 10 — FEE FOR APPLICATION FOR GRANT OR ALTERATION OF THE TERMS OF AN EXPLOSIVES LICENCE UNDER PART IX OF THE DANGEROUS SUBSTANCES IN HARBOUR AREAS REGULATIONS 1987[^key-c474e46e75e06b9044b87bfc4fa717f6]
+## SCHEDULE 10 — FEE FOR APPLICATION FOR GRANT OR ALTERATION OF THE TERMS OF AN EXPLOSIVES LICENCE UNDER PART IX OF THE DANGEROUS SUBSTANCES IN HARBOUR AREAS REGULATIONS 1987[^c-c474e46e75e06b9044b87bfc4fa717f6]
 
 Regulation 12
 
@@ -761,7 +761,7 @@ Regulation 12
 </tbody>
 </table>
 
-## SCHEDULE 11 — FEE FOR VOCATIONAL TRAINING CERTIFICATE UNDER THE CARRIAGE OF DANGEROUS GOODS BY ROAD (DRIVER TRAINING) REGULATIONS 1996[^key-2c236c162c8adf58a92609c81da65eae]
+## SCHEDULE 11 — FEE FOR VOCATIONAL TRAINING CERTIFICATE UNDER THE CARRIAGE OF DANGEROUS GOODS BY ROAD (DRIVER TRAINING) REGULATIONS 1996[^c-2c236c162c8adf58a92609c81da65eae]
 
 Regulation 13
 
@@ -775,7 +775,7 @@ Regulation 13
 </tbody>
 </table>
 
-## SCHEDULE 12 — FEES FOR APPLICATIONS FOR APPROVALS UNDER THE CARRRIAGE OF DANGEROUS GOODS BY ROAD (DRIVER TRAINING) REGULATIONS 1996[^key-9b203cd512fd0176d77fe4815e92ed9d]
+## SCHEDULE 12 — FEES FOR APPLICATIONS FOR APPROVALS UNDER THE CARRRIAGE OF DANGEROUS GOODS BY ROAD (DRIVER TRAINING) REGULATIONS 1996[^c-9b203cd512fd0176d77fe4815e92ed9d]
 
 Regulation 14
 
@@ -790,7 +790,7 @@ Regulation 14
 </tbody>
 </table>
 
-## SCHEDULE 13 — VOCATIONAL TRAINING CERTIFICATE UNDER THE TRANSPORT OF DANGEROUS GOODS (SAFETY ADVISERS) REGULATIONS 1999[^key-23397e130066eb57bf6083e2667ed34c]
+## SCHEDULE 13 — VOCATIONAL TRAINING CERTIFICATE UNDER THE TRANSPORT OF DANGEROUS GOODS (SAFETY ADVISERS) REGULATIONS 1999[^c-23397e130066eb57bf6083e2667ed34c]
 
 Regulation 15
 
@@ -804,7 +804,7 @@ Regulation 15
 </tbody>
 </table>
 
-## SCHEDULE 14 — FEES FOR NOTIFICATIONS AND APPLICATIONS UNDER THE GENETICALLY MODIFIED ORGANISMS (CONTAINED USE) REGULATIONS 2000[^key-f303f8f25fa59091bc75ce12cbe8fd4e]
+## SCHEDULE 14 — FEES FOR NOTIFICATIONS AND APPLICATIONS UNDER THE GENETICALLY MODIFIED ORGANISMS (CONTAINED USE) REGULATIONS 2000[^c-f303f8f25fa59091bc75ce12cbe8fd4e]
 
 Regulation 17
 
@@ -828,7 +828,7 @@ Regulation 17
 </tbody>
 </table>
 
-## SCHEDULE 15 — FEES FOR NOTIFICATIONS AND APPLICATIONS UNDER THE NOTIFICATION OF NEW SUBSTABNCES REGULATIONS 1993[^key-d6c8e4b7f2d8160d761e7c5296170207]
+## SCHEDULE 15 — FEES FOR NOTIFICATIONS AND APPLICATIONS UNDER THE NOTIFICATION OF NEW SUBSTABNCES REGULATIONS 1993[^c-d6c8e4b7f2d8160d761e7c5296170207]
 
 Regulation 18
 
@@ -869,7 +869,7 @@ Regulation 18
 </tbody>
 </table>
 
-## SCHEDULE 16 — FEES PAYABLE IN RESPECT OF OFFSHORE INSTALLATIONS[^key-9671abfda8d8657efeaf046581d1b839]
+## SCHEDULE 16 — FEES PAYABLE IN RESPECT OF OFFSHORE INSTALLATIONS[^c-9671abfda8d8657efeaf046581d1b839]
 
 Regulation 19
 
@@ -886,7 +886,7 @@ Regulation 19
 </tbody>
 </table>
 
-## SCHEDULE 17 — FEES PAYABLE IN RESPECT OF RAILWAY SAFETY FUNCTIONS[^key-6feb1f887f389ef685fabf254df13ed0]
+## SCHEDULE 17 — FEES PAYABLE IN RESPECT OF RAILWAY SAFETY FUNCTIONS[^c-6feb1f887f389ef685fabf254df13ed0]
 
 Regulation 20
 
@@ -908,7 +908,7 @@ Regulation 20
 
 [^f00049][^f00050]
 
-## SCHEDULE 18 — FEES PAYABLE IN RESPECT OF GAS SAFETY FUNCTIONS[^key-49c8b994673a7466387be48002a40ae9]
+## SCHEDULE 18 — FEES PAYABLE IN RESPECT OF GAS SAFETY FUNCTIONS[^c-49c8b994673a7466387be48002a40ae9]
 
 Regulation 21
 
@@ -924,7 +924,7 @@ Regulation 21
 </tbody>
 </table>
 
-## SCHEDULE 19 — FEES FOR APPLICATIONS FOR APPROVALS UNDER THE HEALTH AND SAFETY (FIRST-AID) REGULATIONS 1981[^key-ccc1d60d685796a1f987083dc2c308b3]
+## SCHEDULE 19 — FEES FOR APPLICATIONS FOR APPROVALS UNDER THE HEALTH AND SAFETY (FIRST-AID) REGULATIONS 1981[^c-ccc1d60d685796a1f987083dc2c308b3]
 
 Regulation 23
 
@@ -952,7 +952,7 @@ Regulation 23
 </tbody>
 </table>
 
-## SCHEDULE 20 — FEES FOR APPLICATIONS FOR APPROVALS UNDER THE OFFSHORE INSTALLATIONS AND PIPELINES WORKS (FIRST-AID) REGULATIONS 1989[^key-ae98f2e3dcd6ca0d61db5352951ab532]
+## SCHEDULE 20 — FEES FOR APPLICATIONS FOR APPROVALS UNDER THE OFFSHORE INSTALLATIONS AND PIPELINES WORKS (FIRST-AID) REGULATIONS 1989[^c-ae98f2e3dcd6ca0d61db5352951ab532]
 
 Regulation 24
 
@@ -1233,7 +1233,7 @@ and in respect of—
 
 [^f00003]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); sections 2,3 and 7 were modified by [S.I. 2000/2831](https://www.legislation.gov.uk/uksi/2000/2831); section 43 was amended by the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), Schedule 15, paragraph 12.
 
-[^key-9126cb42bcaaf86976bfaa4ae897daca]: Commencement: Reg. 1 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-9126cb42bcaaf86976bfaa4ae897daca]: Commencement: Reg. 1 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 70](https://www.legislation.gov.uk/ukpga/1954/70).
 
@@ -1243,9 +1243,9 @@ and in respect of—
 
 [^f00007]: Footnote: [S.I. 1974/2013](https://www.legislation.gov.uk/uksi/1974/2013), modified by [S.I.1979/318](https://www.legislation.gov.uk/uksi/1979/318).
 
-[^key-2fb439b4428a11e37fa7cc8afd509570]: Commencement: Reg. 2 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-2fb439b4428a11e37fa7cc8afd509570]: Commencement: Reg. 2 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-7a222dc3e26ae097b0380231334e02f5]: Commencement: Reg. 3 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-7a222dc3e26ae097b0380231334e02f5]: Commencement: Reg. 3 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00008]: Footnote: [1961 c. 34](https://www.legislation.gov.uk/ukpga/1961/34); sections 34 to 38 were repealed by [S.I.2000/128](https://www.legislation.gov.uk/uksi/2000/128).
 
@@ -1257,71 +1257,71 @@ and in respect of—
 
 [^f00012]: Footnote: [S.I. 20022677](https://www.legislation.gov.uk/uksi/2002/2677).
 
-[^key-7fcf1b9fa8f966a45c84fe4418968e06]: Commencement: Reg. 4 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-7fcf1b9fa8f966a45c84fe4418968e06]: Commencement: Reg. 4 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00013]: Footnote: [S.I. 1974/2034](https://www.legislation.gov.uk/uksi/1974/2034); relevant amending instruments are [S.I. 1976/1247](https://www.legislation.gov.uk/uksi/1976/1247), [1980/1036](https://www.legislation.gov.uk/uksi/1980/1036), [1981/1414](https://www.legislation.gov.uk/uksi/1981/1414) and [1990/1075](https://www.legislation.gov.uk/uksi/1990/1075).
 
-[^key-c68d587b6ef5b0ff61b8585937de65fb]: Commencement: Reg. 5 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-c68d587b6ef5b0ff61b8585937de65fb]: Commencement: Reg. 5 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00014]: Footnote: [S.I. 1984/1890](https://www.legislation.gov.uk/uksi/1984/1890), amended by [S.I. 1986/392](https://www.legislation.gov.uk/uksi/1986/392).
 
-[^key-0d781b6b8c364f098958f6d4a3806fac]: Commencement: Reg. 6 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-0d781b6b8c364f098958f6d4a3806fac]: Commencement: Reg. 6 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00015]: Footnote: [S.I. 1983/1649](https://www.legislation.gov.uk/uksi/1983/1649), to which there are amendments not relevant to these Regulations.
 
-[^key-3e372acc4334b2290bf6e6518e31f410]: Commencement: Reg. 7 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-3e372acc4334b2290bf6e6518e31f410]: Commencement: Reg. 7 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00016]: Footnote: [S.I. 2002/2675](https://www.legislation.gov.uk/uksi/2002/2675).
 
-[^key-f45ca7055ddf2f6b5f64dfa682a19bb6]: Commencement: Reg. 8 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-f45ca7055ddf2f6b5f64dfa682a19bb6]: Commencement: Reg. 8 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00017]: Footnote: [S.I. 2002/2676](https://www.legislation.gov.uk/uksi/2002/2676).
 
-[^key-2216160522506ec245d3777b3543d6b2]: Commencement: Reg. 9 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-2216160522506ec245d3777b3543d6b2]: Commencement: Reg. 9 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00018]: Footnote: [S.I. 2001/2975](https://www.legislation.gov.uk/uksi/2001/2975), amended by [S.I. 2002/2099](https://www.legislation.gov.uk/uksi/2002/2099). An approval of dosimetry services for the purposes of regulation 14 of these Regulations is made under regulation 35 of the Ionising Radiation Regulations 1999 ([S.I. 1999/3232](https://www.legislation.gov.uk/uksi/1999/3232)).
 
 [^f00019]: Footnote: [S.I. 1999/3232](https://www.legislation.gov.uk/uksi/1999/3232), amended by [S.I. 2001/2975](https://www.legislation.gov.uk/uksi/2001/2975).
 
-[^key-be56110d5a9bd24f9ddfd91674275a73]: Commencement: Reg. 10 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-be56110d5a9bd24f9ddfd91674275a73]: Commencement: Reg. 10 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-5dff8e6ca2c237ea9bcef250b922cb75]: Commencement: Reg. 11 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-5dff8e6ca2c237ea9bcef250b922cb75]: Commencement: Reg. 11 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00020]: Footnote: [1928 c. 32](https://www.legislation.gov.uk/ukpga/1928/32); relevant amending instruments are [S.I. 1974/1942](https://www.legislation.gov.uk/uksi/1974/1942) and [1987/52](https://www.legislation.gov.uk/uksi/1987/52).
 
 [^f00021]: Footnote: [1936 c. 27](https://www.legislation.gov.uk/ukpga/1936/27); relevant amending instruments are [S.I. 1974/1942](https://www.legislation.gov.uk/uksi/1974/1942) and [1987/52](https://www.legislation.gov.uk/uksi/1987/52).
 
-[^key-1606d539aba072f16573897b54ba6a96]: Commencement: Reg. 12 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-1606d539aba072f16573897b54ba6a96]: Commencement: Reg. 12 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00022]: Footnote: [S.I. 1987/37](https://www.legislation.gov.uk/uksi/1987/37), amended by [S.I.1988/712](https://www.legislation.gov.uk/uksi/1988/712)..
 
-[^key-a3c9efb38e49e3dbc36b8e997d5e4570]: Commencement: Reg. 13 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-a3c9efb38e49e3dbc36b8e997d5e4570]: Commencement: Reg. 13 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00023]: Footnote: [S.I. 1996/2094](https://www.legislation.gov.uk/uksi/1996/2094), amended by [S.I. 1999/303](https://www.legislation.gov.uk/uksi/1999/303).
 
-[^key-061689ca7f935d782ed26605c45330fd]: Commencement: Reg. 14 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-061689ca7f935d782ed26605c45330fd]: Commencement: Reg. 14 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-c56b31da0ee9762f1830e0da717b4325]: Commencement: Reg. 15 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-c56b31da0ee9762f1830e0da717b4325]: Commencement: Reg. 15 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00024]: Footnote: [S.I 1999/257](https://www.legislation.gov.uk/uksi/1999/257), to which there are amendments not relevant to these Regulations.
 
-[^key-91896a61ef2d9cfb8567138c5b666202]: Commencement: Reg. 16 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-91896a61ef2d9cfb8567138c5b666202]: Commencement: Reg. 16 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-4a92c073537f68b09fdbc39f0ee610cf]: Commencement: Reg. 17 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-4a92c073537f68b09fdbc39f0ee610cf]: Commencement: Reg. 17 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00025]: Footnote: [S.I. 2000/2831](https://www.legislation.gov.uk/uksi/2000/2831), amended by [S.I. 2001/2626](https://www.legislation.gov.uk/uksi/2001/2626).
 
-[^key-473bf93e78b38077a91a9337f94bde81]: Commencement: Reg. 18 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-473bf93e78b38077a91a9337f94bde81]: Commencement: Reg. 18 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00026]: Footnote: [S.I. 1993/3050](https://www.legislation.gov.uk/uksi/1993/3050), amended by [S.I. 1995/2646](https://www.legislation.gov.uk/uksi/1995/2646).
 
 [^f00027]: Footnote: [S.I. 1982/1496](https://www.legislation.gov.uk/uksi/1982/1496), revoked by [S.I. 1993/3050](https://www.legislation.gov.uk/uksi/1993/3050).
 
-[^key-d7e7ab53ba9127303cd10f8991960d08]: Commencement: Reg. 19 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-d7e7ab53ba9127303cd10f8991960d08]: Commencement: Reg. 19 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00028]: Footnote: [S.I. 1992/2885](https://www.legislation.gov.uk/uksi/1992/2885), amended by [S.I. 1995/738](https://www.legislation.gov.uk/uksi/1995/738).
 
-[^key-b8a1808d10e1d05e955341dc181bc711]: Commencement: Reg. 20 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-b8a1808d10e1d05e955341dc181bc711]: Commencement: Reg. 20 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00029]: Footnote: [1987 c. 53](https://www.legislation.gov.uk/ukpga/1987/53).
 
@@ -1331,11 +1331,11 @@ and in respect of—
 
 [^f00032]: Footnote: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42).
 
-[^key-95fe05c7c7131781931cc0fc872efd3f]: Commencement: Reg. 21 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-95fe05c7c7131781931cc0fc872efd3f]: Commencement: Reg. 21 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00033]: Footnote: [S.I. 1996/551](https://www.legislation.gov.uk/uksi/1996/551).
 
-[^key-ed66b245f82e6701ecdae909b24ab84e]: Commencement: Reg. 22 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-ed66b245f82e6701ecdae909b24ab84e]: Commencement: Reg. 22 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00034]: Footnote: [S.I. 2001/1171](https://www.legislation.gov.uk/uksi/2001/1171).
 
@@ -1343,61 +1343,61 @@ and in respect of—
 
 [^f00036]: Footnote: [S.I. 1987/2197](https://www.legislation.gov.uk/uksi/1987/2197).
 
-[^key-776e7e6873b401008bf6bfd7abe5aaf5]: Commencement: Reg. 23 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-776e7e6873b401008bf6bfd7abe5aaf5]: Commencement: Reg. 23 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00037]: Footnote: [S.I. 1981/917](https://www.legislation.gov.uk/uksi/1981/917), amended by [S.I. 1989/1671](https://www.legislation.gov.uk/uksi/1989/1671) and [1993/1897](https://www.legislation.gov.uk/uksi/1993/1897).
 
-[^key-3f7100454d90afedf0c8de01428dc63e]: Commencement: Reg. 24 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-3f7100454d90afedf0c8de01428dc63e]: Commencement: Reg. 24 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00038]: Footnote: [S.I. 1989/1671](https://www.legislation.gov.uk/uksi/1989/1671), amended by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823) and [1995/738](https://www.legislation.gov.uk/uksi/1995/738).
 
-[^key-7bc11955972cbc253f0090070448aaaf]: Commencement: Reg. 25 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-7bc11955972cbc253f0090070448aaaf]: Commencement: Reg. 25 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00039]: Footnote: [S.I. 1981/917](https://www.legislation.gov.uk/uksi/1981/917), amended by [S.I. 1989/1671](https://www.legislation.gov.uk/uksi/1989/1671) and [1993/1897](https://www.legislation.gov.uk/uksi/1993/1897).
 
-[^key-82d4e92574ae937ceda7b13e56d8c872]: Commencement: Reg. 26 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-82d4e92574ae937ceda7b13e56d8c872]: Commencement: Reg. 26 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00040]: Footnote: [S.I. 2002/655](https://www.legislation.gov.uk/uksi/2002/655).
 
-[^key-cf56518b7bf7b436aa7819397f62aa23]: Commencement: Sch. 1 Pt. I in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-cf56518b7bf7b436aa7819397f62aa23]: Commencement: Sch. 1 Pt. I in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-8284a05d023975d0a231c9f73123f3d6]: Commencement: Sch. 1 Pt. II in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-8284a05d023975d0a231c9f73123f3d6]: Commencement: Sch. 1 Pt. II in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-c2752c0e27fa8ec7a5dc23b3797391b1]: Commencement: Sch. 1 Pt. III in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-c2752c0e27fa8ec7a5dc23b3797391b1]: Commencement: Sch. 1 Pt. III in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-c4f893ea5eb84d330114063a73dac1f9]: Commencement: Sch. 2 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-c4f893ea5eb84d330114063a73dac1f9]: Commencement: Sch. 2 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-849980e95d2035102bb4154c1ce6f324]: Commencement: Sch. 3 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-849980e95d2035102bb4154c1ce6f324]: Commencement: Sch. 3 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-373c2b3817902bd1255d37ed753addcf]: Commencement: Sch. 4 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-373c2b3817902bd1255d37ed753addcf]: Commencement: Sch. 4 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-98fde29ff7cbdfaa4c0f8e6e361364fd]: Commencement: Sch. 5 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-98fde29ff7cbdfaa4c0f8e6e361364fd]: Commencement: Sch. 5 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-b525f70cd203bd8fefd702befe7c968d]: Commencement: Sch. 6 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-b525f70cd203bd8fefd702befe7c968d]: Commencement: Sch. 6 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-da2fc404d74c4918eb2cbccb3c464511]: Commencement: Sch. 7 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-da2fc404d74c4918eb2cbccb3c464511]: Commencement: Sch. 7 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-b9e6b9a66204450708b30164253a3dc8]: Commencement: Sch. 8 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-b9e6b9a66204450708b30164253a3dc8]: Commencement: Sch. 8 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-ebd218c23d3cfddd68b3d4bd642a7ac6]: Commencement: Sch. 9 Pt. 1 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-ebd218c23d3cfddd68b3d4bd642a7ac6]: Commencement: Sch. 9 Pt. 1 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00041]: Footnote: Section 40(9) was amended by [S.I. 1974/1885](https://www.legislation.gov.uk/uksi/1974/1885) and was applied to compressed acetylene by [S.I. 1978/1723](https://www.legislation.gov.uk/uksi/1978/1723); the effect of section 40(9) of the Explosives Act [1875 (c. 17)](https://www.legislation.gov.uk/ukpga/1875/17) in so far as it applied to acetylene by virtue of Order in Council (No. 30) dated 2nd February 1937 (S.R. & O. [1937/54](https://www.legislation.gov.uk/nisr/1937/54)) was saved by regulation 12 of, and Part I of Schedule 4 to, the Placing on the Market and Supervision of Transfers of Explosives Regulations 1993 ([S.I. 1993/2714](https://www.legislation.gov.uk/uksi/1993/2714)).
 
 [^f00042]: Footnote: [S.I. 1978/1723](https://www.legislation.gov.uk/uksi/1978/1723).
 
-[^key-c8b479e7d6067138ba4fead4b1e2fc05]: Commencement: Sch. 9 Pt. II in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-c8b479e7d6067138ba4fead4b1e2fc05]: Commencement: Sch. 9 Pt. II in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00043]: Footnote: Part 1 of the Explosives Act 1875 (which includes sections 15, 18 and 21) is applied to explosives other than gunpowder by sections 39 and 40 of that Act.
 
-[^key-a2cf050cf10c63b10289726864de0d55]: Commencement: Sch. 9 Pt. III in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-a2cf050cf10c63b10289726864de0d55]: Commencement: Sch. 9 Pt. III in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00044]: Footnote: S.R. & O. [1937/54](https://www.legislation.gov.uk/nisro/1937/54); relevant amending instruments are S.R. & O. [1947/805](https://www.legislation.gov.uk/nisr/1947/805) and [S.I. 1974/1885](https://www.legislation.gov.uk/uksro/1974/1885) and [1984/510](https://www.legislation.gov.uk/uksi/1984/510).
 
-[^key-ca94cbe668546a829ce0408320eae80b]: Commencement: Sch. 9 Pt. IV in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-ca94cbe668546a829ce0408320eae80b]: Commencement: Sch. 9 Pt. IV in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00045]: Footnote: S.R. & O. [1919/809](https://www.legislation.gov.uk/uksro/1919/809), amended by [S.I. 1974/1885](https://www.legislation.gov.uk/uksi/1974/1885) and [1984/510](https://www.legislation.gov.uk/uksi/1984/510).
 
-[^key-f570453bf25c3e3a7d65574be41c7c4a]: Commencement: Sch. 9 Pt. V in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-f570453bf25c3e3a7d65574be41c7c4a]: Commencement: Sch. 9 Pt. V in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00046]: Footnote: [S.I. 1983/1140](https://www.legislation.gov.uk/uksi/1983/1140).
 
@@ -1405,30 +1405,30 @@ and in respect of—
 
 [^f00048]: Footnote: [S.I. 1967/1485](https://www.legislation.gov.uk/uksi/1967/1485).
 
-[^key-359aa18d898beb01748ee7c9cf1423cd]: Commencement: Sch. 9 Pt. VI in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-359aa18d898beb01748ee7c9cf1423cd]: Commencement: Sch. 9 Pt. VI in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-c474e46e75e06b9044b87bfc4fa717f6]: Commencement: Sch. 10 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-c474e46e75e06b9044b87bfc4fa717f6]: Commencement: Sch. 10 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-2c236c162c8adf58a92609c81da65eae]: Commencement: Sch. 11 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-2c236c162c8adf58a92609c81da65eae]: Commencement: Sch. 11 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-9b203cd512fd0176d77fe4815e92ed9d]: Commencement: Sch. 12 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-9b203cd512fd0176d77fe4815e92ed9d]: Commencement: Sch. 12 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-23397e130066eb57bf6083e2667ed34c]: Commencement: Sch. 13 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-23397e130066eb57bf6083e2667ed34c]: Commencement: Sch. 13 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-f303f8f25fa59091bc75ce12cbe8fd4e]: Commencement: Sch. 14 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-f303f8f25fa59091bc75ce12cbe8fd4e]: Commencement: Sch. 14 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-d6c8e4b7f2d8160d761e7c5296170207]: Commencement: Sch. 15 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-d6c8e4b7f2d8160d761e7c5296170207]: Commencement: Sch. 15 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-9671abfda8d8657efeaf046581d1b839]: Commencement: Sch. 16 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-9671abfda8d8657efeaf046581d1b839]: Commencement: Sch. 16 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-6feb1f887f389ef685fabf254df13ed0]: Commencement: Sch. 17 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-6feb1f887f389ef685fabf254df13ed0]: Commencement: Sch. 17 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
 [^f00049]: Footnote: [1983 c. 16](https://www.legislation.gov.uk/ukpga/1983/16); the Act, which was amended by the level Crossings Regulations 1997 ([S.I. 1997/487](https://www.legislation.gov.uk/uksi/1997/487)), is one of the relevant statutory provisions within the meaning of section 53 of the Health and Safety at Work etc. Act [1974 (c. 37)](https://www.legislation.gov.uk/ukpga/1974/37) by virtue of section 117(1) and (4) of the Railways Act [1993 (c. 43)](https://www.legislation.gov.uk/ukpga/1993/43).
 
 [^f00050]: Footnote: [S.I. 1999/2224](https://www.legislation.gov.uk/uksi/1999/2224), to which there are amendments not relevant to these Regulations.
 
-[^key-49c8b994673a7466387be48002a40ae9]: Commencement: Sch. 18 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-49c8b994673a7466387be48002a40ae9]: Commencement: Sch. 18 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-ccc1d60d685796a1f987083dc2c308b3]: Commencement: Sch. 19 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-ccc1d60d685796a1f987083dc2c308b3]: Commencement: Sch. 19 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
 
-[^key-ae98f2e3dcd6ca0d61db5352951ab532]: Commencement: Sch. 20 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)
+[^c-ae98f2e3dcd6ca0d61db5352951ab532]: Commencement: Sch. 20 in force at 1.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/547/regulation/1/1)

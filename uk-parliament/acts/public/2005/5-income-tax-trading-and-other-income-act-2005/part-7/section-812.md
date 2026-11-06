@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 812. Full qualifying care relief: introduction[^key-83c751692ecb71f56e1c56dde409df65]
+## 812. Full qualifying care relief: introduction[^c-83c751692ecb71f56e1c56dde409df65]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Sections 813 and 814 (which give the full form of qualifying care relief) apply 
 
 ## Annotations
 
-[^key-83c751692ecb71f56e1c56dde409df65]: Textual amendment: S. 812 substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/13) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))
+[^c-83c751692ecb71f56e1c56dde409df65]: Textual amendment: S. 812 substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/13) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))

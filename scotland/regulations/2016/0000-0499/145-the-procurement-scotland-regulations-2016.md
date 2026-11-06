@@ -46,11 +46,11 @@ In accordance with section 44(2) of that Act, a draft of this instrument has bee
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-da77aa9569335dbffb70e857a2e3a811]
+### 1. Citation and commencement[^c-da77aa9569335dbffb70e857a2e3a811]
 
 These Regulations may be cited as the Procurement (Scotland) Regulations 2016 and come into force on 18th April 2016.
 
-### 2. Interpretation[^key-afe26b54cb59fd4017b553842d37d77c]
+### 2. Interpretation[^c-afe26b54cb59fd4017b553842d37d77c]
 
 In these Regulations—
 
@@ -61,9 +61,9 @@ In these Regulations—
 - “contracting authority” means the State, a regional or local authority, a body governed by public law or an association formed by one or more such authorities or bodies;
 - “CPV Code” means a code used in the Common Procurement Vocabulary as adopted by Regulation [(EC) No 2195/2002](https://www.legislation.gov.uk/european/regulation/2002/2195) of the European Parliament and of the Council on the Common Procurement Vocabulary[^f00003];
 - “the Directive” means [Directive 2014/24/EU](https://www.legislation.gov.uk/european/directive/2014/0024) of the European Parliament and of the Council on public procurement and repealing [Directive 2004/18/EC](https://www.legislation.gov.uk/european/directive/2004/0018)[^f00004];
-- [^key-b96d6bc610105d1a6af4e7b73f4ba53b]...
+- [^c-b96d6bc610105d1a6af4e7b73f4ba53b]...
 - “procurement” means the process leading to the award of a public contract for the acquisition of works, supplies or services from an economic operator;
-- “procurement document” means any document produced or referred to by the contracting authority to describe or determine elements of the procurement or the procedure, including the contract notice, [^key-39ff936c058b28d6a6212183825da1e8]... the technical specifications, the descriptive document, proposed conditions of contract, formats for the presentation of documents by candidates and tenderers, information on generally applicable obligations and any additional documents;
+- “procurement document” means any document produced or referred to by the contracting authority to describe or determine elements of the procurement or the procedure, including the contract notice, [^c-39ff936c058b28d6a6212183825da1e8]... the technical specifications, the descriptive document, proposed conditions of contract, formats for the presentation of documents by candidates and tenderers, information on generally applicable obligations and any additional documents;
 - “public service contract” has the same meaning as in the 2015 Regulations;
 - “public supply contract” has the same meaning as in the 2015 Regulations;
 - “public works contract” has the same meaning as in the 2015 Regulations;
@@ -71,7 +71,7 @@ In these Regulations—
 
 ## PART 2 — REGULATED CONTRACTS AND DYNAMIC PURCHASING SYSTEMS
 
-### 3. Methods for calculating the estimated value for regulated contracts[^key-21a570d01045135db01b7120b0827a09]
+### 3. Methods for calculating the estimated value for regulated contracts[^c-21a570d01045135db01b7120b0827a09]
 
 (1) A contracting authority must calculate the estimated value of a contract by reference to the total amount payable under it (regardless of the form of such payment), not including value added tax.
 
@@ -116,7 +116,7 @@ In these Regulations—
 - (a) in the case of a contract for a fixed term of less than or equal to 48 months, the total value of the contract for its full term;
 - (b) in the case of a contract for a fixed term of more than 48 months or a contract without a fixed term, the monthly value multiplied by 48.
 
-### 4. Dynamic purchasing systems[^key-ca06411ae3121716d50c8ea4dbb19401]
+### 4. Dynamic purchasing systems[^c-ca06411ae3121716d50c8ea4dbb19401]
 
 (1) The Act applies to the establishment and operation of dynamic purchasing systems and to contracts awarded under dynamic purchasing systems, except that the following provisions do not apply to contracts awarded under a dynamic purchasing system—
 
@@ -129,7 +129,7 @@ In these Regulations—
 
 ## PART 3 — GENERAL DUTIES
 
-### 5. Specification of health or social care services[^key-d977361851a3939aab3559fabe3df288]
+### 5. Specification of health or social care services[^c-d977361851a3939aab3559fabe3df288]
 
 (1) For the purposes of sections 12(1) and 13(1) of the Act and these Regulations, health or social care services are those services specified in column 1 of the Schedule to these Regulations by reference to their CPV Codes and broadly referred to in column 2 of the said Schedule.
 
@@ -137,7 +137,7 @@ In these Regulations—
 
 (3) The main subject of the contract referred to in paragraph (2) shall be determined by reference to which of the services or supplies has the highest estimated value and in the event that the estimated values are equal the main subject shall be deemed to be the health or social care service.
 
-### 6. Circumstances in which a contract can be awarded without competition[^key-e98c933352c9ca6d541ea25687102820]
+### 6. Circumstances in which a contract can be awarded without competition[^c-e98c933352c9ca6d541ea25687102820]
 
 (1) A contracting authority may award a public contract without seeking offers in relation to the proposed contract—
 
@@ -180,30 +180,30 @@ In these Regulations—
 
 ## PART 4 — SPECIFIC DUTIES
 
-### 7. Publication of contract notices and award notices on the Public Contracts website[^key-7dd7177a03120504908beacff241462b][^key-9a553891be051ad26fe693c3685f8370]
+### 7. Publication of contract notices and award notices on the Public Contracts website[^c-7dd7177a03120504908beacff241462b][^c-9a553891be051ad26fe693c3685f8370]
 
-(1) Where a notice to be published in accordance with section 23(1) of the Act relates to a higher value regulated procurement[^key-4ebb20d3b9bb0422c366bc9e73698de4] for which notice must be published in accordance with regulations 49, 50, 51 and 78 of the 2015 Regulations, a contracting authority must comply with regulation 53(3) and (4) of those Regulations.
+(1) Where a notice to be published in accordance with section 23(1) of the Act relates to a higher value regulated procurement[^c-4ebb20d3b9bb0422c366bc9e73698de4] for which notice must be published in accordance with regulations 49, 50, 51 and 78 of the 2015 Regulations, a contracting authority must comply with regulation 53(3) and (4) of those Regulations.
 
-(2)[^key-0534ac671f0ad709baf050d2ea81e2e6] A contracting authority must publicise its intention to seek offers by publishing a contract notice.
+(2)[^c-0534ac671f0ad709baf050d2ea81e2e6] A contracting authority must publicise its intention to seek offers by publishing a contract notice.
 
-(3)[^key-1f64d25f74edc16a441ca1e3be6dd7bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1f64d25f74edc16a441ca1e3be6dd7bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) A contract notice published in accordance with paragraph (2) must contain the information set out in Part C of Annex V to the Directive , but as if—[^key-11baac1a5b6fd7d0724c70ff96325371]
+(4) A contract notice published in accordance with paragraph (2) must contain the information set out in Part C of Annex V to the Directive , but as if—[^c-11baac1a5b6fd7d0724c70ff96325371]
 
 - (a) in paragraph 2, reference to “for the reasons set out in the second and third subparagraphs of Article 53(1),” were omitted,
 - (b) paragraph 24 (financing by EU funds) were omitted,
 - (c) in paragraph 26, “in the *Official Journal of the European Union*” read “on the Public Contracts website”,
 - (d) in paragraph 28, “date of dispatch” were a reference to the date on which the notice is submitted to the Public Contracts website.
 
-(5)[^key-3e9a5bfe6ad4b14bd24cd1e98a959412] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3e9a5bfe6ad4b14bd24cd1e98a959412] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Not later than 30 days after the award of a contract to be published in accordance with section 23(2) of the Act, a contracting authority must send for publication a contract award notice.
 
-(7) A contract award notice must contain the information set out in Part D of Annex V to the Directive , but as if—[^key-390378177ad72832672130683dfb02b1]
+(7) A contract award notice must contain the information set out in Part D of Annex V to the Directive , but as if—[^c-390378177ad72832672130683dfb02b1]
 
 - (a) in paragraph 9, “referred to in Article 67” were omitted,
 - (b) in paragraph 11(b), the words “member State or from a third” were omitted,
-- (ba)[^key-9ac681e116934135b375369cfaa76b1f] in paragraph 13, the words “or the highest tender and lowest tender taken into consideration” were omitted,
+- (ba)[^c-9ac681e116934135b375369cfaa76b1f] in paragraph 13, the words “or the highest tender and lowest tender taken into consideration” were omitted,
 - (c) paragraph 15 (financing by EU funds) were omitted,
 - (d) in paragraph 17, “in the *Official Journal of the European Union*” read “on the Public Contracts website”,
 - (e) in paragraph 18, “date of dispatch” were a reference to the date on which the notice is submitted to the Public Contracts website.
@@ -214,9 +214,9 @@ In these Regulations—
 - (b) prejudice the commercial interests of any person; or
 - (c) prejudice fair competition between economic operators.
 
-(9)[^key-5e58790f02b4c69207e024df56aaa23f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-5e58790f02b4c69207e024df56aaa23f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Selection of tenderers: exclusion of economic operators on grounds of criminal activity[^key-bc04b395375f002ff5942537a2d550b8]
+### 8. Selection of tenderers: exclusion of economic operators on grounds of criminal activity[^c-bc04b395375f002ff5942537a2d550b8]
 
 (1) A contracting authority must exclude an economic operator from participation in a procurement procedure where the contracting authority has established or is otherwise aware that that economic operator or a person to whom paragraph (2) applies has been convicted of any of the following offences—
 
@@ -224,7 +224,7 @@ In these Regulations—
 - (b) corruption within the meaning of section 1(2) of the Public Bodies Corrupt Practices Act 1889[^f00007] or section 1 of the Prevention of Corruption Act 1906[^f00008], where the offence relates to active corruption as defined in Article 3 of the Council Act of 26th May 1997 on the fight against corruption involving officials of the European Communities or officials of Member States of the European Union[^f00009] and Article 3(1) of Council Joint Action 98/742/JHA on corruption in the private sector[^f00010];
 - (c) bribery or corruption within the meaning of sections 68 and 69 of the Criminal Justice (Scotland) Act 2003[^f00011], where the offence relates to active bribery or corruption;
 - (d) bribery within the meaning of sections 1 or 6 of the Bribery Act 2010[^f00012];
-- (e)[^key-41f9a467c77d789073e3716d22d29afc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-41f9a467c77d789073e3716d22d29afc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) any offence listed in—
   - (i) section 41 of the Counter-Terrorism Act 2008[^f00019]; or
   - (ii) Schedule 2 to that Act where the court has determined that there is a terrorist connection.
@@ -232,7 +232,7 @@ In these Regulations—
 - (h) an offence in connection with the proceeds of criminal conduct within the meaning of section 93A, 93B or 93C of the Criminal Justice Act 1988[^f00021];
 - (i) any offence under Part 1 of the Human Trafficking and Exploitation (Scotland) Act 2015[^f00022] or under any provision referred to in the Schedule to that Act;
 - (j) an offence in connection with the proceeds of drug trafficking within the meaning of section 49, 50 or 51 of the Drug Trafficking Act 1994[^f00023];
-- (k) any other offence within the meaning of Article 57(1)(a), (b), (d), (e) or (f)[^key-93abe30a67193e820fc9380157f70fe5] of the Directive as defined by the law of any EEA state or any part thereof.
+- (k) any other offence within the meaning of Article 57(1)(a), (b), (d), (e) or (f)[^c-93abe30a67193e820fc9380157f70fe5] of the Directive as defined by the law of any EEA state or any part thereof.
 
 (2) This paragraph applies to a person who is a member of the administrative, management or supervisory body of the economic operator referred to in paragraph (1) or has powers of representation, decision or control in relation to such economic operator.
 
@@ -256,7 +256,7 @@ In these Regulations—
 
 (10) Where the contracting authority considers that the measures are insufficient, the authority must give to the economic operator a statement of the reasons for that decision.
 
-### 9. Selection of tenderers: exclusion criteria[^key-3b5916ca2bb53804c186ae0acc42e595]
+### 9. Selection of tenderers: exclusion criteria[^c-3b5916ca2bb53804c186ae0acc42e595]
 
 (1) A contracting authority must exclude an economic operator from participation in a procurement procedure where the contracting authority is aware that the economic operator has committed an act prohibited under the Employment Relations Act 1999 (Blacklists) Regulations 2010[^f00024] and the commission of such an act has been admitted by the economic operator or established by a judicial decision having final and binding effect.
 
@@ -310,7 +310,7 @@ In these Regulations—
 - “contracting entity” has the meaning given in Article 4 of [Directive 2014/25/EU](https://www.legislation.gov.uk/european/directive/2014/0025) of the European Parliament and of the Council on procurement entities operating in the water, energy, transport and postal services sectors and repealing [Directive 2004/17/EC](https://www.legislation.gov.uk/european/directive/2004/0017)[^f00025];
 - “concession contract” has the meaning given in the Concession Contracts (Scotland) Regulations 2016[^f00026].
 
-### 10. Selection of tenderers: selection criteria[^key-e657b1e4104e5a8354c884831594591e]
+### 10. Selection of tenderers: selection criteria[^c-e657b1e4104e5a8354c884831594591e]
 
 (1) Selection criteria may relate to—
 
@@ -324,7 +324,7 @@ In these Regulations—
 
 (4) All requirements must be related and proportionate to the subject-matter of the contract.
 
-(5)[^key-b305352d156a8701fcfa6801d3130fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-b305352d156a8701fcfa6801d3130fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In procurement procedures for services, in so far as economic operators have to possess a particular authorisation or to be a member of a particular organisation in order to be able to perform in their country of origin the service concerned, a contracting authority may require them to prove that they hold such authorisation or membership.
 
@@ -358,7 +358,7 @@ In these Regulations—
 
 (19) A contracting authority must state the requirements for participation, which may be expressed as minimum levels of ability, together with the appropriate means of proof, in the contract notice or in the invitation to confirm interest.
 
-### 11. Technical specifications[^key-e75eab3236f8ca6a50379a5be9bded38]
+### 11. Technical specifications[^c-e75eab3236f8ca6a50379a5be9bded38]
 
 (1) The technical specifications in a regulated procurement must—
 
@@ -406,11 +406,11 @@ even where such factors do not form part of their material substance, provided t
 
 (7) Where the subject of the procurement is intended for use by natural persons, whether the general public or staff of the contracting authority, the technical specifications must, except in duly justified cases, be drawn up so as to take into account accessibility criteria for persons with disabilities or design for all users.
 
-(8) Where mandatory accessibility requirements are imposed by[^key-6a6f3263766a860cc5676523ff8529c7] assimilated[^key-7c07d4fc0967207ef9338f4335369fa6] law, technical specifications must, as far as accessibility criteria for persons with disabilities or design for all users are concerned, be defined by reference to those accessibility requirements.
+(8) Where mandatory accessibility requirements are imposed by[^c-6a6f3263766a860cc5676523ff8529c7] assimilated[^c-7c07d4fc0967207ef9338f4335369fa6] law, technical specifications must, as far as accessibility criteria for persons with disabilities or design for all users are concerned, be defined by reference to those accessibility requirements.
 
 (9) Technical specifications must afford equal access of economic operators to the procurement procedure and must not have the effect of creating unjustified obstacles to the opening up of public procurement to competition.
 
-(10) Without prejudice to mandatory national technical rules, [^key-3786f1e4ff8afc2a89648b8249c98401]... the technical specifications must be formulated—
+(10) Without prejudice to mandatory national technical rules, [^c-3786f1e4ff8afc2a89648b8249c98401]... the technical specifications must be formulated—
 
 - (a) in terms of performance or functional requirements, including environmental characteristics, provided that the parameters are sufficiently precise to allow tenderers to determine the subject-matter of the contract and to allow the contracting authority to award the contract;
 - (b) by reference to technical specifications in the following order of precedence:—
@@ -444,7 +444,7 @@ even where such factors do not form part of their material substance, provided t
 
 (16) In this regulation, “European Technical Assessment” means the document assessment of the performance of a construction product, in relation to its essential characteristics, in accordance with the respective European Assessment Document, as defined in point 12 of Article 2 of Regulation (EU) No 305/2011 of the European Parliament and of the Council laying down harmonised conditions for the marketing of construction products and repealing Council [Directive 89/106/EEC](https://www.legislation.gov.uk/european/directive/1989/0106)[^f00027].
 
-### 12. Technical specifications and labels[^key-bcf0f76c17480c10cdaa5da2eb505df1]
+### 12. Technical specifications and labels[^c-bcf0f76c17480c10cdaa5da2eb505df1]
 
 (1) Where a contracting authority intends to purchase works, supplies or services with specific environmental, social or other characteristics the authority may, in the technical specifications, the award criteria or the contract performance conditions, require a specific label as means of proof that the works, services or supplies correspond to the required characteristics, provided that all of the following conditions are fulfilled—
 
@@ -470,7 +470,7 @@ St Andrew’s House,
 
 Edinburgh
 
-## SCHEDULE — HEALTH OR SOCIAL CARE SERVICES[^key-4ca05a36d67a98cc64860e18d5c8811d]
+## SCHEDULE — HEALTH OR SOCIAL CARE SERVICES[^c-4ca05a36d67a98cc64860e18d5c8811d]
 
 Regulation 5(1)
 
@@ -506,9 +506,9 @@ Regulation 11 makes provision about technical specifications and labels.
 
 [^f00001]: Footnote: [2014 asp 12](https://www.legislation.gov.uk/asp/2014/12).
 
-[^key-da77aa9569335dbffb70e857a2e3a811]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+[^c-da77aa9569335dbffb70e857a2e3a811]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
 
-[^key-afe26b54cb59fd4017b553842d37d77c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/145/regulation/2) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+[^c-afe26b54cb59fd4017b553842d37d77c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/145/regulation/2) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2015/446](https://www.legislation.gov.uk/ssi/2015/446).
 
@@ -516,39 +516,39 @@ Regulation 11 makes provision about technical specifications and labels.
 
 [^f00004]: Footnote: OJ L 94, 28.3.2014, p.65.
 
-[^key-b96d6bc610105d1a6af4e7b73f4ba53b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2016/145/regulation/2) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/2/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+[^c-b96d6bc610105d1a6af4e7b73f4ba53b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2016/145/regulation/2) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/2/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
 
-[^key-39ff936c058b28d6a6212183825da1e8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2016/145/regulation/2) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/2/b) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+[^c-39ff936c058b28d6a6212183825da1e8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2016/145/regulation/2) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/2/b) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
 
-[^key-21a570d01045135db01b7120b0827a09]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/145/regulation/3) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+[^c-21a570d01045135db01b7120b0827a09]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/145/regulation/3) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
 
-[^key-ca06411ae3121716d50c8ea4dbb19401]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/145/regulation/4) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+[^c-ca06411ae3121716d50c8ea4dbb19401]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/145/regulation/4) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
 
-[^key-d977361851a3939aab3559fabe3df288]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/145/regulation/5) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+[^c-d977361851a3939aab3559fabe3df288]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/145/regulation/5) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
 
-[^key-e98c933352c9ca6d541ea25687102820]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/145/regulation/6) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+[^c-e98c933352c9ca6d541ea25687102820]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/145/regulation/6) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
 
-[^key-7dd7177a03120504908beacff241462b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/145/regulation/7) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+[^c-7dd7177a03120504908beacff241462b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/145/regulation/7) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
 
-[^key-9a553891be051ad26fe693c3685f8370]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/145/regulation/7) heading substituted (10.1.2025) by [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(3)(f)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/3/f) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+[^c-9a553891be051ad26fe693c3685f8370]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/145/regulation/7) heading substituted (10.1.2025) by [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(3)(f)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/3/f) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
 
-[^key-4ebb20d3b9bb0422c366bc9e73698de4]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/1) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(2)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/2/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-4ebb20d3b9bb0422c366bc9e73698de4]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/1) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(2)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/2/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-0534ac671f0ad709baf050d2ea81e2e6]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/2) substituted (10.1.2025) by [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/3/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+[^c-0534ac671f0ad709baf050d2ea81e2e6]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/2) substituted (10.1.2025) by [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/3/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
 
-[^key-1f64d25f74edc16a441ca1e3be6dd7bb]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/3) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/3/b) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+[^c-1f64d25f74edc16a441ca1e3be6dd7bb]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/3) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/3/b) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
 
-[^key-11baac1a5b6fd7d0724c70ff96325371]: Textual amendment: [Reg. 7(4)(a)-(d)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/4/a) and words inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(2)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/2/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-11baac1a5b6fd7d0724c70ff96325371]: Textual amendment: [Reg. 7(4)(a)-(d)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/4/a) and words inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(2)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/2/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-3e9a5bfe6ad4b14bd24cd1e98a959412]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/5) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(3)(c)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/3/c) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+[^c-3e9a5bfe6ad4b14bd24cd1e98a959412]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/5) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(3)(c)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/3/c) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
 
-[^key-390378177ad72832672130683dfb02b1]: Textual amendment: [Reg. 7(7)(a)-(e)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/7/a) and words inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(2)(d)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/2/d) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-390378177ad72832672130683dfb02b1]: Textual amendment: [Reg. 7(7)(a)-(e)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/7/a) and words inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(2)(d)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/2/d) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-9ac681e116934135b375369cfaa76b1f]: Textual amendment: [Reg. 7(7)(ba)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/7/ba) inserted (10.1.2025) by [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(3)(d)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/3/d) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+[^c-9ac681e116934135b375369cfaa76b1f]: Textual amendment: [Reg. 7(7)(ba)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/7/ba) inserted (10.1.2025) by [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(3)(d)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/3/d) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
 
-[^key-5e58790f02b4c69207e024df56aaa23f]: Textual amendment: [Reg. 7(9)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/9) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(3)(e)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/3/e) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+[^c-5e58790f02b4c69207e024df56aaa23f]: Textual amendment: [Reg. 7(9)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/9) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(3)(e)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/3/e) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
 
-[^key-bc04b395375f002ff5942537a2d550b8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/145/regulation/8) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+[^c-bc04b395375f002ff5942537a2d550b8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/145/regulation/8) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
 
 [^f00005]: Footnote: OJ L 300, 11.11.2008, p.42.
 
@@ -566,7 +566,7 @@ Regulation 11 makes provision about technical specifications and labels.
 
 [^f00012]: Footnote: [2010 c.23](https://www.legislation.gov.uk/ukpga/2010/23).
 
-[^key-41f9a467c77d789073e3716d22d29afc]: Textual amendment: [Reg. 8(1)(e)](https://www.legislation.gov.uk/ssi/2016/145/regulation/8/1/e) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(3)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/3/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-41f9a467c77d789073e3716d22d29afc]: Textual amendment: [Reg. 8(1)(e)](https://www.legislation.gov.uk/ssi/2016/145/regulation/8/1/e) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(3)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/3/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
 [^f00019]: Footnote: [2008 c.28](https://www.legislation.gov.uk/ukpga/2008/28).
 
@@ -578,9 +578,9 @@ Regulation 11 makes provision about technical specifications and labels.
 
 [^f00023]: Footnote: [1994 c.37](https://www.legislation.gov.uk/ukpga/1994/37); sections 49, 50 and 51 were repealed by the Proceeds of Crime Act [2002 (c.29)](https://www.legislation.gov.uk/ukpga/2002/29), Schedule 11, paragraphs 1 and 25(1) and (2)(a), and by Schedule 12.
 
-[^key-93abe30a67193e820fc9380157f70fe5]: Textual amendment: Words in [reg. 8(1)(k)](https://www.legislation.gov.uk/ssi/2016/145/regulation/8/1/k) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(3)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/3/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-93abe30a67193e820fc9380157f70fe5]: Textual amendment: Words in [reg. 8(1)(k)](https://www.legislation.gov.uk/ssi/2016/145/regulation/8/1/k) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(3)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/3/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-3b5916ca2bb53804c186ae0acc42e595]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/145/regulation/9) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+[^c-3b5916ca2bb53804c186ae0acc42e595]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/145/regulation/9) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
 
 [^f00024]: Footnote: [S.I. 2010/493](https://www.legislation.gov.uk/uksi/2010/493).
 
@@ -588,20 +588,20 @@ Regulation 11 makes provision about technical specifications and labels.
 
 [^f00026]: Footnote: [S.S.I. 2016/65](https://www.legislation.gov.uk/ssi/2016/65).
 
-[^key-e657b1e4104e5a8354c884831594591e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/145/regulation/10) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+[^c-e657b1e4104e5a8354c884831594591e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/145/regulation/10) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
 
-[^key-b305352d156a8701fcfa6801d3130fd8]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/ssi/2016/145/regulation/10/5) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(4)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/4) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-b305352d156a8701fcfa6801d3130fd8]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/ssi/2016/145/regulation/10/5) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(4)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/4) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-e75eab3236f8ca6a50379a5be9bded38]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/145/regulation/11) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+[^c-e75eab3236f8ca6a50379a5be9bded38]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/145/regulation/11) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
 
-[^key-6a6f3263766a860cc5676523ff8529c7]: Textual amendment: Words in [reg. 11(8)](https://www.legislation.gov.uk/ssi/2016/145/regulation/11/8) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(5)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/5/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-6a6f3263766a860cc5676523ff8529c7]: Textual amendment: Words in [reg. 11(8)](https://www.legislation.gov.uk/ssi/2016/145/regulation/11/8) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(5)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/5/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-7c07d4fc0967207ef9338f4335369fa6]: Textual amendment: Word in [reg. 11(8)](https://www.legislation.gov.uk/ssi/2016/145/regulation/11/8) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 31](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/31)
+[^c-7c07d4fc0967207ef9338f4335369fa6]: Textual amendment: Word in [reg. 11(8)](https://www.legislation.gov.uk/ssi/2016/145/regulation/11/8) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 31](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/31)
 
-[^key-3786f1e4ff8afc2a89648b8249c98401]: Textual amendment: Words in [reg. 11(10)](https://www.legislation.gov.uk/ssi/2016/145/regulation/11/10) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(5)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/5/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-3786f1e4ff8afc2a89648b8249c98401]: Textual amendment: Words in [reg. 11(10)](https://www.legislation.gov.uk/ssi/2016/145/regulation/11/10) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(5)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/5/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
 [^f00027]: Footnote: OJ L 88, 4.4.2011, p.5.
 
-[^key-bcf0f76c17480c10cdaa5da2eb505df1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/145/regulation/12) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+[^c-bcf0f76c17480c10cdaa5da2eb505df1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/145/regulation/12) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
 
-[^key-4ca05a36d67a98cc64860e18d5c8811d]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2016/145/schedule) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+[^c-4ca05a36d67a98cc64860e18d5c8811d]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2016/145/schedule) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. The cultural emblem[^key-be4928591a5dd8c9766038852322a53b]
+## 8. The cultural emblem[^c-be4928591a5dd8c9766038852322a53b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ In this Part “**the cultural emblem**” means the design shown below, coloure
 
 ## Annotations
 
-[^key-be4928591a5dd8c9766038852322a53b]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/6/section/8) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-be4928591a5dd8c9766038852322a53b]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/6/section/8) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

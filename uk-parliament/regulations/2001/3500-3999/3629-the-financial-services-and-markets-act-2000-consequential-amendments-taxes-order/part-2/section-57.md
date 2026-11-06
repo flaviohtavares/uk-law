@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Meaning of “brought into account”[^key-22a181e8d74c01512f536a7a2ea7ca79]
+## 57. Meaning of “brought into account”[^c-22a181e8d74c01512f536a7a2ea7ca79]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-22a181e8d74c01512f536a7a2ea7ca79]: Commencement: Art. 57 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-22a181e8d74c01512f536a7a2ea7ca79]: Commencement: Art. 57 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00079]: Footnote: Section 83A(2) was amended by paragraph 6(2) of Schedule 31 to the Finance Act 1996.

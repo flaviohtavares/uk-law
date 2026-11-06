@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**18.**[^key-c3991bd6191e38d6d761610dc17edaa5] (1) The Registration of Births and Deaths Regulations 1987[^f00037]are amended as follows.
+**18.**[^c-c3991bd6191e38d6d761610dc17edaa5] (1) The Registration of Births and Deaths Regulations 1987[^f00037]are amended as follows.
 
 (2) In regulation 9, in paragraph (7)[^f00038]—
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c3991bd6191e38d6d761610dc17edaa5]: Commencement: Reg. 18 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-c3991bd6191e38d6d761610dc17edaa5]: Commencement: Reg. 18 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00037]: Footnote: [S.I. 1987/2088](https://www.legislation.gov.uk/uksi/1987/2088).
 

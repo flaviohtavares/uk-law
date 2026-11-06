@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Procedure for, and further provisions as to, deportation.[^key-4a23f7dea584b681e27084e08ff5a7dc][^M_C_4b4d015a-3f2b-4cb9-f946-5016fec0945b][^c9586971][^c18670681][^key-a23fe8cc44a393c307a7bd6996122064][^key-63bf6fb404df42a0ed1baf37c48cb6af]
+## 5. Procedure for, and further provisions as to, deportation.[^c-4a23f7dea584b681e27084e08ff5a7dc][^M_C_4b4d015a-3f2b-4cb9-f946-5016fec0945b][^c9586971][^c18670681][^c-a23fe8cc44a393c307a7bd6996122064][^c-63bf6fb404df42a0ed1baf37c48cb6af]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ and for purposes of this subsection an adopted child, whether legally adopted or
 
 ## Annotations
 
-[^key-4a23f7dea584b681e27084e08ff5a7dc]: Modification: Ss. 1-9, 11 extended (with modifications) (Guernsey) (1.8.1993) by [The Immigration (Guernsey) Order 1993 (S.I. 1993/1796)](https://www.legislation.gov.uk/uksi/1993/1796), [arts. 1](https://www.legislation.gov.uk/uksi/1993/1796/article/1), [3(1)](https://www.legislation.gov.uk/uksi/1993/1796/article/3/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/1993/1796/schedule/1/part/I)
+[^c-4a23f7dea584b681e27084e08ff5a7dc]: Modification: Ss. 1-9, 11 extended (with modifications) (Guernsey) (1.8.1993) by [The Immigration (Guernsey) Order 1993 (S.I. 1993/1796)](https://www.legislation.gov.uk/uksi/1993/1796), [arts. 1](https://www.legislation.gov.uk/uksi/1993/1796/article/1), [3(1)](https://www.legislation.gov.uk/uksi/1993/1796/article/3/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/1993/1796/schedule/1/part/I)
 
 [^M_C_4b4d015a-3f2b-4cb9-f946-5016fec0945b]: Modification: Ss. 1-9, 11 extended (with modifications) (Jersey) (1.8.1993) by [The Immigration (Jersey) Order 1993 (S.I. 1993/1797)](https://www.legislation.gov.uk/uksi/1993/1797), [arts. 1](https://www.legislation.gov.uk/uksi/1993/1797/article/1), [3(1)](https://www.legislation.gov.uk/uksi/1993/1797/article/3/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/1993/1797/schedule/1/part/I) (as amended (17.10.2012) by [S.I. 2012/2593](https://www.legislation.gov.uk/uksi/2012/2593), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2593/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/2593/article/2/2); and (coming into force in accordance with art. 1 of the amending S.I.) by [S.I. 2017/981](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/1/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6)))
 
@@ -53,9 +53,9 @@ and for purposes of this subsection an adopted child, whether legally adopted or
 
 [^c18670681]: Modification: S. 5 continued (14.3.2003) by [The Nationality, Immigration and Asylum Act 2002 (Commencement No. 4) Order 2003 (S.I. 2003/754)](https://www.legislation.gov.uk/uksi/2003/754), [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/2/3)
 
-[^key-a23fe8cc44a393c307a7bd6996122064]: Modification: S. 5 applied (1.2.2017 for specified purposes) by [The Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052)](https://www.legislation.gov.uk/uksi/2016/1052), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/1052/regulation/1/2/b), [32(3)](https://www.legislation.gov.uk/uksi/2016/1052/regulation/32/3)
+[^c-a23fe8cc44a393c307a7bd6996122064]: Modification: S. 5 applied (1.2.2017 for specified purposes) by [The Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052)](https://www.legislation.gov.uk/uksi/2016/1052), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/1052/regulation/1/2/b), [32(3)](https://www.legislation.gov.uk/uksi/2016/1052/regulation/32/3)
 
-[^key-63bf6fb404df42a0ed1baf37c48cb6af]: Modification: S. 5 applied (31.12.2020) by [The Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [16(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/16/3)
+[^c-63bf6fb404df42a0ed1baf37c48cb6af]: Modification: S. 5 applied (31.12.2020) by [The Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [16(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/16/3)
 
 [^c9586981]: Modification: S. 5(1) amended (2.10.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [ss. 63](https://www.legislation.gov.uk/ukpga/1999/33/section/63), [64](https://www.legislation.gov.uk/ukpga/1999/33/section/64); [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2000/2444/schedule/2/paragraph/2))
 

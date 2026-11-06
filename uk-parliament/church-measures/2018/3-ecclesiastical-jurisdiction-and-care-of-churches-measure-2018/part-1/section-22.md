@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 22. Vacancy in see etc.[^key-f2d47f92455a9212d002b9b243304d0e]
+## 22. Vacancy in see etc.[^c-f2d47f92455a9212d002b9b243304d0e]
 
 *Extent: E*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2d47f92455a9212d002b9b243304d0e]: Commencement: [S. 22](https://www.legislation.gov.uk/ukcm/2018/3/section/22) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-f2d47f92455a9212d002b9b243304d0e]: Commencement: [S. 22](https://www.legislation.gov.uk/ukcm/2018/3/section/22) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

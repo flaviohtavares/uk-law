@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88.2. Modification to the overriding objective[^key-270bf180eeba0836ea41457ffcd264be]
+## 88.2. Modification to the overriding objective[^c-270bf180eeba0836ea41457ffcd264be]
 
 *Extent: E+W*
 
 (1) Where any of the rules in this Part applies, the overriding objective in Part 1, and so far as possible any other rule, must be read and given effect in a way which is compatible with the duty set out in paragraph (2).
 
-(2) The court must ensure that information is not disclosed contrary to the public interest[^key-de2d00304dd3d3317832a62dd141422d].
+(2) The court must ensure that information is not disclosed contrary to the public interest[^c-de2d00304dd3d3317832a62dd141422d].
 
 (3) Subject to paragraph (2), the court must satisfy itself that the material available to it enables it properly to determine proceedings.
 
 ## Annotations
 
-[^key-270bf180eeba0836ea41457ffcd264be]: Textual amendment: [Pt. 88](https://www.legislation.gov.uk/uksi/1998/3132/part/88) inserted (27.2.2015) by [The Civil Procedure (Amendment) Rules 2015 (S.I. 2015/406)](https://www.legislation.gov.uk/uksi/2015/406), [rule 1](https://www.legislation.gov.uk/uksi/2015/406/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/406/schedule)
+[^c-270bf180eeba0836ea41457ffcd264be]: Textual amendment: [Pt. 88](https://www.legislation.gov.uk/uksi/1998/3132/part/88) inserted (27.2.2015) by [The Civil Procedure (Amendment) Rules 2015 (S.I. 2015/406)](https://www.legislation.gov.uk/uksi/2015/406), [rule 1](https://www.legislation.gov.uk/uksi/2015/406/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/406/schedule)
 
-[^key-de2d00304dd3d3317832a62dd141422d]: Textual amendment: Words in [rule 88.2(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/88.2/2) substituted (17.4.2015) by [The Civil Procedure (Amendment No. 3) Rules 2015 (S.I. 2015/877)](https://www.legislation.gov.uk/uksi/2015/877), [rules 2](https://www.legislation.gov.uk/uksi/2015/877/rule/2), [9(a)](https://www.legislation.gov.uk/uksi/2015/877/rule/9/a)
+[^c-de2d00304dd3d3317832a62dd141422d]: Textual amendment: Words in [rule 88.2(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/88.2/2) substituted (17.4.2015) by [The Civil Procedure (Amendment No. 3) Rules 2015 (S.I. 2015/877)](https://www.legislation.gov.uk/uksi/2015/877), [rules 2](https://www.legislation.gov.uk/uksi/2015/877/rule/2), [9(a)](https://www.legislation.gov.uk/uksi/2015/877/rule/9/a)

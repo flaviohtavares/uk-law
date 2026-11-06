@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Food (Peanuts from Egypt) (Emergency Control) Regulations (Northern Ireland) 2003 (revoked)[^key-9ecc5f09777edfce3120dd4fa7262fc7]
+Food (Peanuts from Egypt) (Emergency Control) Regulations (Northern Ireland) 2003 (revoked)[^c-9ecc5f09777edfce3120dd4fa7262fc7]
 
 Made
 
@@ -41,42 +41,42 @@ Coming into operation
 
 13th August 2003
 
-[^key-9ecc5f09777edfce3120dd4fa7262fc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ecc5f09777edfce3120dd4fa7262fc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9ecc5f09777edfce3120dd4fa7262fc7]
+## 1. Citation and commencement[^c-9ecc5f09777edfce3120dd4fa7262fc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9ecc5f09777edfce3120dd4fa7262fc7]
+## 2. Interpretation[^c-9ecc5f09777edfce3120dd4fa7262fc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on import[^key-9ecc5f09777edfce3120dd4fa7262fc7]
+## 3. Prohibition on import[^c-9ecc5f09777edfce3120dd4fa7262fc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-9ecc5f09777edfce3120dd4fa7262fc7]
+## 4. Enforcement[^c-9ecc5f09777edfce3120dd4fa7262fc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the Order and sampling and analysis[^key-9ecc5f09777edfce3120dd4fa7262fc7]
+## 5. Application of various provisions of the Order and sampling and analysis[^c-9ecc5f09777edfce3120dd4fa7262fc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Re-dispatch or destruction of illegal imports[^key-9ecc5f09777edfce3120dd4fa7262fc7]
+## 6. Re-dispatch or destruction of illegal imports[^c-9ecc5f09777edfce3120dd4fa7262fc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation of the Food (Peanuts from Egypt) (Emergency Control) Order (Northern Ireland) 1999[^key-9ecc5f09777edfce3120dd4fa7262fc7]
+## 7. Revocation of the Food (Peanuts from Egypt) (Emergency Control) Order (Northern Ireland) 1999[^c-9ecc5f09777edfce3120dd4fa7262fc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9ecc5f09777edfce3120dd4fa7262fc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ecc5f09777edfce3120dd4fa7262fc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9ecc5f09777edfce3120dd4fa7262fc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ecc5f09777edfce3120dd4fa7262fc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9ecc5f09777edfce3120dd4fa7262fc7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/377) revoked (1.10.2006) by [The Food (Emergency Control) (Revocation) Regulations (Northern Ireland) 2006 (S.R. 2006/351)](https://www.legislation.gov.uk/nisr/2006/351), [regs. 1](https://www.legislation.gov.uk/nisr/2006/351/regulation/1), [2](https://www.legislation.gov.uk/nisr/2006/351/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2006/351/schedule)
+[^c-9ecc5f09777edfce3120dd4fa7262fc7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/377) revoked (1.10.2006) by [The Food (Emergency Control) (Revocation) Regulations (Northern Ireland) 2006 (S.R. 2006/351)](https://www.legislation.gov.uk/nisr/2006/351), [regs. 1](https://www.legislation.gov.uk/nisr/2006/351/regulation/1), [2](https://www.legislation.gov.uk/nisr/2006/351/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2006/351/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 849AB. Grant of licence or other right treated as at market value[^key-846413ba5166a81a5cde2885a7680500]
+## 849AB. Grant of licence or other right treated as at market value[^c-846413ba5166a81a5cde2885a7680500]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) a company which holds an intangible asset grants a licence or other right in respect of the asset to a related party, or
 - (b) a company is granted a licence or other right in respect of an intangible asset by a related party that holds the asset.
 
-(1A)[^key-28d46da79fde8addd99af6a407a3c27d] But this section does not apply in relation to a person (either the company or the related party) if—
+(1A)[^c-28d46da79fde8addd99af6a407a3c27d] But this section does not apply in relation to a person (either the company or the related party) if—
 
 - (a) either—
   - (i) the profits and losses of the person are to be calculated for tax purposes as if the arm's length provision in relation to the grant had been made or imposed instead of the actual provision in relation to the grant as a result of Part 4 of TIOPA 2010 (transfer pricing), or
@@ -72,8 +72,8 @@ summary: ''
 
 (6) This section is subject to—
 
-- (a)[^key-059baf3f7781748fc0701179cd8bf3ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) section 849AD (grants involving other taxes), and[^key-00723267b9db64e2c1c6f8837fde093b]
+- (a)[^c-059baf3f7781748fc0701179cd8bf3ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) section 849AD (grants involving other taxes), and[^c-00723267b9db64e2c1c6f8837fde093b]
 - (c) section 900F (special rules in respect of assets that were pre-FA 2002 assets etc).
 
 (7) References in subsection (1) to a related party in relation to a company are to be read as including references to a person in circumstances where the participation condition is met as between that person and the company.
@@ -91,18 +91,18 @@ summary: ''
 
 (12) In this section—
 
-- “[^key-dd9e595e13fdc4135d724e1ade8efe24]**actual provision**” and “arm’s length provision” are to be construed in accordance with Part 4 of TIOPA 2010 (transfer pricing),
+- “[^c-dd9e595e13fdc4135d724e1ade8efe24]**actual provision**” and “arm’s length provision” are to be construed in accordance with Part 4 of TIOPA 2010 (transfer pricing),
 - “**market value**” means the price the licence or right might reasonably be expected to fetch on a sale in the open market, and
 - “**the Taxes Acts**” means the enactments relating to income tax, corporation tax or chargeable gains.
 
 ## Annotations
 
-[^key-846413ba5166a81a5cde2885a7680500]: Textual amendment: Ss. 849AB-849AD and cross-heading inserted (with application in accordance with s. 21(3) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2018/3/section/21/2)
+[^c-846413ba5166a81a5cde2885a7680500]: Textual amendment: Ss. 849AB-849AD and cross-heading inserted (with application in accordance with s. 21(3) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2018/3/section/21/2)
 
-[^key-28d46da79fde8addd99af6a407a3c27d]: Textual amendment: [S. 849AB(1A)-(1F)](https://www.legislation.gov.uk/ukpga/2009/4/section/849AB/1A) inserted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 26(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/26/2), [28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/28)
+[^c-28d46da79fde8addd99af6a407a3c27d]: Textual amendment: [S. 849AB(1A)-(1F)](https://www.legislation.gov.uk/ukpga/2009/4/section/849AB/1A) inserted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 26(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/26/2), [28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/28)
 
-[^key-059baf3f7781748fc0701179cd8bf3ef]: Textual amendment: [S. 849AB(6)(a)](https://www.legislation.gov.uk/ukpga/2009/4/section/849AB/6/a) omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 26(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/26/3), [28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/28)
+[^c-059baf3f7781748fc0701179cd8bf3ef]: Textual amendment: [S. 849AB(6)(a)](https://www.legislation.gov.uk/ukpga/2009/4/section/849AB/6/a) omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 26(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/26/3), [28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/28)
 
-[^key-00723267b9db64e2c1c6f8837fde093b]: Textual amendment: S. 849AB(6)(c) and word inserted (with effect in accordance with s. 31(14)(15) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(4)(b)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/4/b)
+[^c-00723267b9db64e2c1c6f8837fde093b]: Textual amendment: S. 849AB(6)(c) and word inserted (with effect in accordance with s. 31(14)(15) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(4)(b)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/4/b)
 
-[^key-dd9e595e13fdc4135d724e1ade8efe24]: Textual amendment: Words in [s. 849AB(12)](https://www.legislation.gov.uk/ukpga/2009/4/section/849AB/12) inserted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 26(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/26/4), [28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/28)
+[^c-dd9e595e13fdc4135d724e1ade8efe24]: Textual amendment: Words in [s. 849AB(12)](https://www.legislation.gov.uk/ukpga/2009/4/section/849AB/12) inserted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 26(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/26/4), [28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/28)

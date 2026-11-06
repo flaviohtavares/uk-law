@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 492. Meaning of “insurance company”[^key-4a48e688881d578d044514e07d40e22b]
+## 492. Meaning of “insurance company”[^c-4a48e688881d578d044514e07d40e22b]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4a48e688881d578d044514e07d40e22b]: Commencement: Art. 492 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-4a48e688881d578d044514e07d40e22b]: Commencement: Art. 492 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00324]: Footnote: Schedule C4 was revoked by virtue of [S.I. 1997/1613](https://www.legislation.gov.uk/uksi/1997/1613), regulation 3(1), insofar as it applies to the “active” members of a scheme as defined in these Regulations and by Pensions Act 1995, section 124(1).

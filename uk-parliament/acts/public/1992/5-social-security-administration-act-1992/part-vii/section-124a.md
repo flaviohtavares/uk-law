@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124A. Provisions relating to civil partnership: England and Wales[^c24149121][^key-ed5e489ff854545a7cdfbc3f809edaff]
+## 124A. Provisions relating to civil partnership: England and Wales[^c24149121][^c-ed5e489ff854545a7cdfbc3f809edaff]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ and forms for making a request under subsection (2) shall, on request, be suppli
 
 [^c24149121]: Modification: Ss. 124-124B modified by [Pension Schemes Act 1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48), [s. 167(5)](https://www.legislation.gov.uk/ukpga/1993/48/section/167/5) (as substituted (5.12.2006) by [S.I. 2005/3129](https://www.legislation.gov.uk/uksi/2005/3129), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/3129/schedule/1/paragraph/5))
 
-[^key-ed5e489ff854545a7cdfbc3f809edaff]: Textual amendment: Ss. 124A, 124B inserted (5.12.2005) by [The Civil Partnership Act 2004 (Overseas Relationships and Consequential, etc. Amendments) Order 2005 (S.I. 2005/3129)](https://www.legislation.gov.uk/uksi/2005/3129), [art. 1](https://www.legislation.gov.uk/uksi/2005/3129/article/1), [Sch. 1 para. 4(1)](https://www.legislation.gov.uk/uksi/2005/3129/schedule/1/paragraph/4/1)
+[^c-ed5e489ff854545a7cdfbc3f809edaff]: Textual amendment: Ss. 124A, 124B inserted (5.12.2005) by [The Civil Partnership Act 2004 (Overseas Relationships and Consequential, etc. Amendments) Order 2005 (S.I. 2005/3129)](https://www.legislation.gov.uk/uksi/2005/3129), [art. 1](https://www.legislation.gov.uk/uksi/2005/3129/article/1), [Sch. 1 para. 4(1)](https://www.legislation.gov.uk/uksi/2005/3129/schedule/1/paragraph/4/1)

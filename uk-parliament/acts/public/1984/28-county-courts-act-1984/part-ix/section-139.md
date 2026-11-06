@@ -24,7 +24,7 @@ summary: ''
 
 - (a) one-half-year’s rent is in arrear at the time of the commencement of the action; and
 - (b) the lessor has a right to re-enter for non-payment of that rent; and
-- (c)[^key-3e686eaba2eccc7b1a33a6fa20d16fcb] the power under section 72(1) of the Tribunals, Courts and Enforcement Act 2007 (commercial rent arrears recovery) is exercisable to recover the arrears; and
+- (c)[^c-3e686eaba2eccc7b1a33a6fa20d16fcb] the power under section 72(1) of the Tribunals, Courts and Enforcement Act 2007 (commercial rent arrears recovery) is exercisable to recover the arrears; and
 - (d) there are not sufficient goods on the premises to recover the arrears by that power,
 
 the service of the summons in the action in the prescribed manner shall stand in lieu of a demand and re-entry.
@@ -39,7 +39,7 @@ the service of the summons in the action in the prescribed manner shall stand in
 
     S. 139 extended by [S.I. 1991/724](https://www.legislation.gov.uk/uksi/1991/724), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/1991/724/article/2/1/l)
 
-[^key-3e686eaba2eccc7b1a33a6fa20d16fcb]: Textual amendment: S. 139(1)(c)(d) substituted for s. 139(1)(c) (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 40](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/40) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-3e686eaba2eccc7b1a33a6fa20d16fcb]: Textual amendment: S. 139(1)(c)(d) substituted for s. 139(1)(c) (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 40](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/40) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
 [^c4409021]: Textual amendment: Words in s. 139(2) repealed by [S.I. 1991/724](https://www.legislation.gov.uk/uksi/1991/724), [art. 2(8)](https://www.legislation.gov.uk/uksi/1991/724/article/2/8), [Sch](https://www.legislation.gov.uk/uksi/1991/724/schedule)edule PartI
 

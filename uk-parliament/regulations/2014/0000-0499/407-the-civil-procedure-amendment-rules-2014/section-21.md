@@ -18,9 +18,9 @@ summary: ''
 
 *Extent: E+W*
 
-**21.**[^key-5175513341385178c92f7c002c796468][^key-9ee7f4783025ce2eedd2036d2c2be013] In Part 52—
+**21.**[^c-5175513341385178c92f7c002c796468][^c-9ee7f4783025ce2eedd2036d2c2be013] In Part 52—
 
-- (a)[^key-5175513341385178c92f7c002c796468] in rule 52.3—
+- (a)[^c-5175513341385178c92f7c002c796468] in rule 52.3—
   - (i) in paragraph (3)—
     - (aa) after “permission to appeal” insert “—”; and
     - (bb) omit the words from “, a further application” to “the appeal court.”; and
@@ -35,7 +35,7 @@ summary: ''
   - (ii) in paragraph (4A), in subparagraph (b)—
     - (aa) omit “a patents county court judge and”; and
     - (bb) for “circuit judge in any county court” substitute “Circuit Judge in the County Court”; and
-- (b)[^key-9ee7f4783025ce2eedd2036d2c2be013] after rule 52.20, insert—
+- (b)[^c-9ee7f4783025ce2eedd2036d2c2be013] after rule 52.20, insert—
 
   > **52.21.** Where an appeal lies to the High Court—
   >
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5175513341385178c92f7c002c796468]: Commencement: [Rule 21(a)](https://www.legislation.gov.uk/uksi/2014/407/rule/21/a) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)
+[^c-5175513341385178c92f7c002c796468]: Commencement: [Rule 21(a)](https://www.legislation.gov.uk/uksi/2014/407/rule/21/a) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)
 
-[^key-9ee7f4783025ce2eedd2036d2c2be013]: Commencement: [Rule 21(b)](https://www.legislation.gov.uk/uksi/2014/407/rule/21/b) in force at 6.4.2014, see [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3)
+[^c-9ee7f4783025ce2eedd2036d2c2be013]: Commencement: [Rule 21(b)](https://www.legislation.gov.uk/uksi/2014/407/rule/21/b) in force at 6.4.2014, see [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3)

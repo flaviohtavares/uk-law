@@ -24,10 +24,10 @@ summary: ''
 
 In section 176 of the Education Act 2002 (c. 32) (consultation with pupils), subsection (1) is amended as follows—
 
-- (a) in paragraph (a) (duty of local authorities[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]), after “authority” insert “ in Wales ”;
+- (a) in paragraph (a) (duty of local authorities[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]), after “authority” insert “ in Wales ”;
 - (b) omit paragraph (b) (duty of governing bodies);
 - (c) for “the Secretary of State (in relation to England) or the National Assembly for Wales (in relation to Wales)” substitute “ the Welsh Ministers ”.
 
 ## Annotations
 
-[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
+[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)

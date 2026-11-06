@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.10. “Petitioner”[^key-bd38d3541f19188ebaefac8e8c329432]
+## 13.10. “Petitioner”[^c-bd38d3541f19188ebaefac8e8c329432]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In winding up and bankruptcy, references to “**the petitioner**” or “**the
 
 ## Annotations
 
-[^key-bd38d3541f19188ebaefac8e8c329432]: Commencement: Rule 13.10 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-bd38d3541f19188ebaefac8e8c329432]: Commencement: Rule 13.10 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

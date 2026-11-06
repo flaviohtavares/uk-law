@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 251ZA. Monitoring compliance[^key-347aaabf96d8ca6d09b53e5f63e51810][^key-2fcf0652378a7b7eadf687679ee1cb15]
+## 251ZA. Monitoring compliance[^c-347aaabf96d8ca6d09b53e5f63e51810][^c-2fcf0652378a7b7eadf687679ee1cb15]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-347aaabf96d8ca6d09b53e5f63e51810]: Textual amendment: Ss. 251, 251ZA substituted for s. 251 (7.7.2025) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 95(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/95/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2025/807](https://www.legislation.gov.uk/uksi/2025/807), [reg. 2](https://www.legislation.gov.uk/uksi/2025/807/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/807/regulation/3))
+[^c-347aaabf96d8ca6d09b53e5f63e51810]: Textual amendment: Ss. 251, 251ZA substituted for s. 251 (7.7.2025) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 95(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/95/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2025/807](https://www.legislation.gov.uk/uksi/2025/807), [reg. 2](https://www.legislation.gov.uk/uksi/2025/807/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/807/regulation/3))
 
-[^key-2fcf0652378a7b7eadf687679ee1cb15]: Textual amendment: S. 251ZA heading substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/7); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
+[^c-2fcf0652378a7b7eadf687679ee1cb15]: Textual amendment: S. 251ZA heading substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/7); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)

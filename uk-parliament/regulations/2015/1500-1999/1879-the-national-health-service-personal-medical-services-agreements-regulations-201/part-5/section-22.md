@@ -22,7 +22,7 @@ summary: ''
 
 (1) Subject to paragraphs (2) and (3), an agreement under which essential services are to be provided must provide for the provision of out of hours services throughout the out of hours period unless—
 
-- (a) NHS England[^key-9520329cffeb7671913a444ac58ebf84] has accepted in writing, prior to the signing of the agreement, a written request from the contractor that the agreement should not require the contractor to make such provision;
+- (a) NHS England[^c-9520329cffeb7671913a444ac58ebf84] has accepted in writing, prior to the signing of the agreement, a written request from the contractor that the agreement should not require the contractor to make such provision;
 - (b) the contractor has opted out of providing such services in the out of hours period in accordance with Part 6; or
 - (c) the agreement has been otherwise varied to exclude a requirement to make such provision.
 
@@ -35,23 +35,23 @@ summary: ''
 
 (4) The contractor must, in the provision of those services—
 
-- (a) meet the quality requirements set out in the Integrated Urgent Care Key Performance Indicators published on 25th June 2018[^key-ca390a520c69f218a5b7b177772ff333]; and
+- (a) meet the quality requirements set out in the Integrated Urgent Care Key Performance Indicators published on 25th June 2018[^c-ca390a520c69f218a5b7b177772ff333]; and
 - (b) comply with any requests for information which it receives from, or on behalf of, NHS England about the provision by the contractor of out of hours services to its registered patients in such manner, and before the end of such period, as is specified in the request.
 
 (5) Where a contractor is a provider of essential services but is not required to provide out of hours services under the agreement or, under Part 6, has opted out of the provision of such services under the agreement, the contractor must—
 
-- (a) monitor the quality of the out of hours services which are offered or provided to its registered patients having regard to the Integrated Urgent Care Key Performance Indicators[^key-c467e95a2d512d22f5ea8e1601fb5aca] referred to in sub-paragraph (4) and record, and act appropriately in relation to, any concerns arising;
+- (a) monitor the quality of the out of hours services which are offered or provided to its registered patients having regard to the Integrated Urgent Care Key Performance Indicators[^c-c467e95a2d512d22f5ea8e1601fb5aca] referred to in sub-paragraph (4) and record, and act appropriately in relation to, any concerns arising;
 - (b) record any patient feedback received, including complaints; and
 - (c) report to NHS England, either at the request of NHS England or otherwise, any concerns arising about the quality of the out of hours services which are offered or provided to patients to its registered patients having regard to—
   - (i) any patient feedback received, including any complaints; and
-  - (ii) the quality requirements set out in the Integrated Urgent Care Key Performance Indicators[^key-75be7b18c1d10bccdd839ea02b2de2c3] referred to in paragraph (4).
+  - (ii) the quality requirements set out in the Integrated Urgent Care Key Performance Indicators[^c-75be7b18c1d10bccdd839ea02b2de2c3] referred to in paragraph (4).
 
 ## Annotations
 
-[^key-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-ca390a520c69f218a5b7b177772ff333]: Textual amendment: Words in reg. 22(4)(a) substituted (1.10.2018) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2018 (S.I. 2018/844)](https://www.legislation.gov.uk/uksi/2018/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/844/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2018/844/regulation/10/a)
+[^c-ca390a520c69f218a5b7b177772ff333]: Textual amendment: Words in reg. 22(4)(a) substituted (1.10.2018) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2018 (S.I. 2018/844)](https://www.legislation.gov.uk/uksi/2018/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/844/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2018/844/regulation/10/a)
 
-[^key-c467e95a2d512d22f5ea8e1601fb5aca]: Textual amendment: Words in reg. 22(5)(a) substituted (1.10.2018) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2018 (S.I. 2018/844)](https://www.legislation.gov.uk/uksi/2018/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/844/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2018/844/regulation/10/b)
+[^c-c467e95a2d512d22f5ea8e1601fb5aca]: Textual amendment: Words in reg. 22(5)(a) substituted (1.10.2018) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2018 (S.I. 2018/844)](https://www.legislation.gov.uk/uksi/2018/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/844/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2018/844/regulation/10/b)
 
-[^key-75be7b18c1d10bccdd839ea02b2de2c3]: Textual amendment: Words in reg. 22(5)(c)(ii) substituted (1.10.2018) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2018 (S.I. 2018/844)](https://www.legislation.gov.uk/uksi/2018/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/844/regulation/1/2), [10(c)](https://www.legislation.gov.uk/uksi/2018/844/regulation/10/c)
+[^c-75be7b18c1d10bccdd839ea02b2de2c3]: Textual amendment: Words in reg. 22(5)(c)(ii) substituted (1.10.2018) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2018 (S.I. 2018/844)](https://www.legislation.gov.uk/uksi/2018/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/844/regulation/1/2), [10(c)](https://www.legislation.gov.uk/uksi/2018/844/regulation/10/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Duty to notify member States of convictions[^key-02db0e49a8dd8b3418aa063f68965d72]
+## 1. Duty to notify member States of convictions[^c-02db0e49a8dd8b3418aa063f68965d72]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02db0e49a8dd8b3418aa063f68965d72]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2020/29/section/1) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/a)
+[^c-02db0e49a8dd8b3418aa063f68965d72]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2020/29/section/1) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/a)

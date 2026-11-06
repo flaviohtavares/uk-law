@@ -22,9 +22,9 @@ summary: ''
 
 Regulation 3
 
-**1.**[^key-f2459dc61988741275946d8c361bdfd0] The Education (Student Support) Regulations (Northern Ireland) 2006 shall be amended as provided by paragraphs 2 to 13.
+**1.**[^c-f2459dc61988741275946d8c361bdfd0] The Education (Student Support) Regulations (Northern Ireland) 2006 shall be amended as provided by paragraphs 2 to 13.
 
-**2.**[^key-e6dd085cb3eb61e092846bbdc446eb6c] In regulation 2(1)—
+**2.**[^c-e6dd085cb3eb61e092846bbdc446eb6c] In regulation 2(1)—
 
 - (a) after the definition of “college fee loan”, there shall be inserted—
 
@@ -43,7 +43,7 @@ Regulation 3
 
   .
 
-**3.**[^key-9fa7791521e411e6810d9cac54cebe14] For regulation 7(2), there shall be substituted—
+**3.**[^c-9fa7791521e411e6810d9cac54cebe14] For regulation 7(2), there shall be substituted—
 
 > (2) The grounds for transfer are—
 >
@@ -60,7 +60,7 @@ Regulation 3
 
 .
 
-**4.**[^key-fa01e2c3180f5dceee00083cdd5e09fb] For regulation 15, there shall be substituted—
+**4.**[^c-fa01e2c3180f5dceee00083cdd5e09fb] For regulation 15, there shall be substituted—
 
 > **15. Students treated as in attendance on a course**
 >
@@ -75,9 +75,9 @@ Regulation 3
 
 .
 
-**5.**[^key-b20b46444ac9ec226bb59c3ae63f5af9] In regulation 32(1) after “attend”, there shall be inserted “or, in the case of a compressed degree course, undertake in the United Kingdom”.
+**5.**[^c-b20b46444ac9ec226bb59c3ae63f5af9] In regulation 32(1) after “attend”, there shall be inserted “or, in the case of a compressed degree course, undertake in the United Kingdom”.
 
-**6.**[^key-426044dc34943bbaa01d453fc2d6ebc0] For regulation 37(9), there shall be substituted—
+**6.**[^c-426044dc34943bbaa01d453fc2d6ebc0] For regulation 37(9), there shall be substituted—
 
 > (9) A student to whom this paragraph applies is treated as if he were in attendance on the designated course for the purpose of qualifying for the following grants—
 >
@@ -93,11 +93,11 @@ Regulation 3
 >   - (i) is not a compressed degree student; and
 >   - (ii) is undertaking a designated course in the United Kingdom or the Republic of Ireland but is not in attendance because he is unable to attend for a reason which relates to his disability.
 
-**7.**[^key-89c8f29698fcbdb2742afaa8a864634f] In regulation 57 for “an accelerated course” in each place it occurs, there shall be substituted “an intensive course”.
+**7.**[^c-89c8f29698fcbdb2742afaa8a864634f] In regulation 57 for “an accelerated course” in each place it occurs, there shall be substituted “an intensive course”.
 
-**8.**[^key-79d008f5fcefa54a9a1d3d24f2270f98] In regulation 59 for “an accelerated course” in each place it occurs, there shall be substituted “an intensive course”.
+**8.**[^c-79d008f5fcefa54a9a1d3d24f2270f98] In regulation 59 for “an accelerated course” in each place it occurs, there shall be substituted “an intensive course”.
 
-**9.**[^key-1ab9dc8e5dd186e6b4d0e4dd9a78979f] For regulation 62(2), there shall be substituted—
+**9.**[^c-1ab9dc8e5dd186e6b4d0e4dd9a78979f] For regulation 62(2), there shall be substituted—
 
 > “2) The loan for living costs is not payable—
 >
@@ -106,7 +106,7 @@ Regulation 3
 
 .
 
-**10.**[^key-e0a71324b3175eab2ff9c3ca27417d07] For regulation 66, there shall be substituted—
+**10.**[^c-e0a71324b3175eab2ff9c3ca27417d07] For regulation 66, there shall be substituted—
 
 > **66. Students who are treated as in attendance on a course**
 >
@@ -121,42 +121,42 @@ Regulation 3
 
 .
 
-**11.**[^key-3106ef70bf39002422d03b4b20d078bd] In regulation 78 for “an accelerated course”, in both places where it occurs, there shall be substituted “an intensive course”.
+**11.**[^c-3106ef70bf39002422d03b4b20d078bd] In regulation 78 for “an accelerated course”, in both places where it occurs, there shall be substituted “an intensive course”.
 
-**12.**[^key-16a57455bcb3e107914e4ec6362b8ea1] In regulation 79(4)—
+**12.**[^c-16a57455bcb3e107914e4ec6362b8ea1] In regulation 79(4)—
 
 - (a) in sub-paragraph (a) after “attend”, there shall be inserted “or, in the case of a student treated as in attendance under regulation 15, undertake”;
 - (b) in sub-paragraph (b) after “attending”, there shall be inserted “in the United Kingdom or the Republic of Ireland, or, as the case may be, undertaking in the United Kingdom”.
 
-**13.**[^key-ff4ea6b3881bfff7d662a37bb0957658] In regulation 80(5)—
+**13.**[^c-ff4ea6b3881bfff7d662a37bb0957658] In regulation 80(5)—
 
 - (a) in sub-paragraph (a) after “attend”, there shall be inserted “or, in the case of a student treated as in attendance under regulation 15, undertake”;
 - (b) in sub-paragraph (b) after “attending”, there shall be inserted “in the UK or the Republic of Ireland, or, as the case may be, undertaking in the United Kingdom”.
 
 ## Annotations
 
-[^key-f2459dc61988741275946d8c361bdfd0]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/1) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-f2459dc61988741275946d8c361bdfd0]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/1) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-e6dd085cb3eb61e092846bbdc446eb6c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/2) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-e6dd085cb3eb61e092846bbdc446eb6c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/2) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-9fa7791521e411e6810d9cac54cebe14]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/3) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-9fa7791521e411e6810d9cac54cebe14]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/3) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-fa01e2c3180f5dceee00083cdd5e09fb]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/4) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-fa01e2c3180f5dceee00083cdd5e09fb]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/4) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-b20b46444ac9ec226bb59c3ae63f5af9]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/5) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-b20b46444ac9ec226bb59c3ae63f5af9]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/5) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-426044dc34943bbaa01d453fc2d6ebc0]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/6) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-426044dc34943bbaa01d453fc2d6ebc0]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/6) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-89c8f29698fcbdb2742afaa8a864634f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/7) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-89c8f29698fcbdb2742afaa8a864634f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/7) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-79d008f5fcefa54a9a1d3d24f2270f98]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/8) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-79d008f5fcefa54a9a1d3d24f2270f98]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/8) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-1ab9dc8e5dd186e6b4d0e4dd9a78979f]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/9) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-1ab9dc8e5dd186e6b4d0e4dd9a78979f]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/9) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-e0a71324b3175eab2ff9c3ca27417d07]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/10) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-e0a71324b3175eab2ff9c3ca27417d07]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/10) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-3106ef70bf39002422d03b4b20d078bd]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/11) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-3106ef70bf39002422d03b4b20d078bd]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/11) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-16a57455bcb3e107914e4ec6362b8ea1]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/12) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-16a57455bcb3e107914e4ec6362b8ea1]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/12) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-ff4ea6b3881bfff7d662a37bb0957658]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/13) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-ff4ea6b3881bfff7d662a37bb0957658]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/nisr/2007/195/schedule/1/paragraph/13) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

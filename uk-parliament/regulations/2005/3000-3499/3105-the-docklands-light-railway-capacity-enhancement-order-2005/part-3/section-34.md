@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Extinction or suspension of private rights of way[^key-ddad089ac65cae7ad44059dedaba0da6]
+## 34. Extinction or suspension of private rights of way[^c-ddad089ac65cae7ad44059dedaba0da6]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ whichever is sooner.
 
 ## Annotations
 
-[^key-ddad089ac65cae7ad44059dedaba0da6]: Commencement: Art. 34 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-ddad089ac65cae7ad44059dedaba0da6]: Commencement: Art. 34 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

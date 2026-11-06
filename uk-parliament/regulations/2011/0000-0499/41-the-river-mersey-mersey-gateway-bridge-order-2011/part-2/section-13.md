@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Use of the Astmoor Busway for the purposes of the construction of the authorised works[^key-229ea80e77e5ae68757e0e7a57a4c12a]
+## 13. Use of the Astmoor Busway for the purposes of the construction of the authorised works[^c-229ea80e77e5ae68757e0e7a57a4c12a]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-229ea80e77e5ae68757e0e7a57a4c12a]: Commencement: Art. 13 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-229ea80e77e5ae68757e0e7a57a4c12a]: Commencement: Art. 13 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
 [^f00014]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).

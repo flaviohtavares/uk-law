@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Delegation of exercise or performance of powers and duties by Provost Marshals[^key-8eb3df28ebe1b0558186f29784d94757]
+## 84. Delegation of exercise or performance of powers and duties by Provost Marshals[^c-8eb3df28ebe1b0558186f29784d94757]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ that person may delegate the exercise or performance of all or any of the powers
 
 ## Annotations
 
-[^key-8eb3df28ebe1b0558186f29784d94757]: Commencement: Reg. 84 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-8eb3df28ebe1b0558186f29784d94757]: Commencement: Reg. 84 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

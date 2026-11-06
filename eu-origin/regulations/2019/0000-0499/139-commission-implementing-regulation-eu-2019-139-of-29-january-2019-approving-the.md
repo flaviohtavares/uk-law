@@ -35,30 +35,30 @@ approving the active substance *Beauveria bassiana* strain IMI389521, in accorda
 
 (Text with EEA relevance) (revoked)
 
-[^key-c289599c86a258228e57e90843bc53c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c289599c86a258228e57e90843bc53c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Approval of active substance[^key-c289599c86a258228e57e90843bc53c7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^key-c289599c86a258228e57e90843bc53c7]
+## Article 1. Approval of active substance[^c-c289599c86a258228e57e90843bc53c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-c289599c86a258228e57e90843bc53c7]
+## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^c-c289599c86a258228e57e90843bc53c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c289599c86a258228e57e90843bc53c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-c289599c86a258228e57e90843bc53c7]
+## Article 3. Entry into force[^c-c289599c86a258228e57e90843bc53c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-c289599c86a258228e57e90843bc53c7]
+[^c-c289599c86a258228e57e90843bc53c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-c289599c86a258228e57e90843bc53c7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c-c289599c86a258228e57e90843bc53c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c289599c86a258228e57e90843bc53c7]: Textual amendment: Regulation revoked (31.12.2020) by [The Environment (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/559)](https://www.legislation.gov.uk/uksi/2019/559), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/559/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2019/559/schedule) (with [reg. 12(2)(3)](https://www.legislation.gov.uk/uksi/2019/559/regulation/12/2/3)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [4(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/4/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c289599c86a258228e57e90843bc53c7]: Textual amendment: Regulation revoked (31.12.2020) by [The Environment (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/559)](https://www.legislation.gov.uk/uksi/2019/559), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/559/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2019/559/schedule) (with [reg. 12(2)(3)](https://www.legislation.gov.uk/uksi/2019/559/regulation/12/2/3)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [4(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/4/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

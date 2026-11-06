@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Computation of time and timing of elections etc[^key-0f5edfb8dd5ca2a8118c5b94fbd915db][^key-549b8ed23f32aed0da470fe6c1cf71de]
+## 73. Computation of time and timing of elections etc[^c-0f5edfb8dd5ca2a8118c5b94fbd915db][^c-549b8ed23f32aed0da470fe6c1cf71de]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0f5edfb8dd5ca2a8118c5b94fbd915db]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2011/13/section/73) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
+[^c-0f5edfb8dd5ca2a8118c5b94fbd915db]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2011/13/section/73) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
 
-[^key-549b8ed23f32aed0da470fe6c1cf71de]: Modification: [Ss. 71-75](https://www.legislation.gov.uk/ukpga/2011/13/section/71) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 21(d)](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/21/d)
+[^c-549b8ed23f32aed0da470fe6c1cf71de]: Modification: [Ss. 71-75](https://www.legislation.gov.uk/ukpga/2011/13/section/71) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 21(d)](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/21/d)

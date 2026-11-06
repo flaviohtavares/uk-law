@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Fees for theory tests[^key-1991280b53ea0dced4617c92a05653c9]
+## 30. Fees for theory tests[^c-1991280b53ea0dced4617c92a05653c9]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1991280b53ea0dced4617c92a05653c9]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/1999/2864/regulation/30) substituted (20.8.2014) by [The Driving Theory Test Fees (Various Amendments) Regulations 2014 (S.I. 2014/1816)](https://www.legislation.gov.uk/uksi/2014/1816), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1816/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2014/1816/regulation/2/6)
+[^c-1991280b53ea0dced4617c92a05653c9]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/1999/2864/regulation/30) substituted (20.8.2014) by [The Driving Theory Test Fees (Various Amendments) Regulations 2014 (S.I. 2014/1816)](https://www.legislation.gov.uk/uksi/2014/1816), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1816/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2014/1816/regulation/2/6)

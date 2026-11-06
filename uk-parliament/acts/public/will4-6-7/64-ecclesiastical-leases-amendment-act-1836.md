@@ -31,14 +31,14 @@ Ecclesiastical Leases (Amendment) Act 1836 (repealed)
 
 1836 c.64
 
-[^key-b65f81c1575205008ccf27cd9c734a72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b65f81c1575205008ccf27cd9c734a72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1.] Leases granted by spiritual persons under the provisions of the recited Act not void by reason of not containing such recital as is mentioned.[^key-b65f81c1575205008ccf27cd9c734a72]
+## 1.] Leases granted by spiritual persons under the provisions of the recited Act not void by reason of not containing such recital as is mentioned.[^c-b65f81c1575205008ccf27cd9c734a72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b65f81c1575205008ccf27cd9c734a72]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Will4/6-7/64) repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-b65f81c1575205008ccf27cd9c734a72]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Will4/6-7/64) repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)

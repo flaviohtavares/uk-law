@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Public rights of navigation[^key-dfe0b83562221c9d943efd1a89e59453]
+## 35. Public rights of navigation[^c-dfe0b83562221c9d943efd1a89e59453]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfe0b83562221c9d943efd1a89e59453]: Commencement: Art. 35 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)
+[^c-dfe0b83562221c9d943efd1a89e59453]: Commencement: Art. 35 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation , commencement and extent[^key-1966bb27ff593967582b36030bdc9d51][^key-5e524688306b7bb6a8e5fef8b487c750]
+## 1. Citation , commencement and extent[^c-1966bb27ff593967582b36030bdc9d51][^c-5e524688306b7bb6a8e5fef8b487c750]
 
 *Extent: E+W+S*
 
@@ -24,12 +24,12 @@ summary: ''
 
 (2) These Regulations come into force on exit day.
 
-(3)[^key-6894bd1ce94f0c06cbd589a0d846e5b3] These Regulations do not extend to Northern Ireland.
+(3)[^c-6894bd1ce94f0c06cbd589a0d846e5b3] These Regulations do not extend to Northern Ireland.
 
 ## Annotations
 
-[^key-1966bb27ff593967582b36030bdc9d51]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-1966bb27ff593967582b36030bdc9d51]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-5e524688306b7bb6a8e5fef8b487c750]: Textual amendment: Words in reg. 1 heading substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2/a)
+[^c-5e524688306b7bb6a8e5fef8b487c750]: Textual amendment: Words in reg. 1 heading substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2/a)
 
-[^key-6894bd1ce94f0c06cbd589a0d846e5b3]: Textual amendment: Reg. 1(3) inserted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2/b)
+[^c-6894bd1ce94f0c06cbd589a0d846e5b3]: Textual amendment: Reg. 1(3) inserted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2/b)

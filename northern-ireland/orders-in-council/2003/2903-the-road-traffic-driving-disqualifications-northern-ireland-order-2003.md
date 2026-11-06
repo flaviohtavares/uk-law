@@ -295,7 +295,7 @@ After Article 18 of the Road Traffic (Northern Ireland) Order 1981 (NI 1) there 
 
 *Article 7—Amendments and repeals*
 
-## 8. Supplementary and consequential provision[^key-bf7b711622d66d63fcd1471394f11682]
+## 8. Supplementary and consequential provision[^c-bf7b711622d66d63fcd1471394f11682]
 
 (1) The Department may by order, subject to negative resolution, make—
 
@@ -316,4 +316,4 @@ which it considers necessary or expedient for the purposes of, in consequence of
 
 [^c11667111]: Textual amendment: partly exercised by SR 2004/431
 
-[^key-bf7b711622d66d63fcd1471394f11682]: Modification: [Art. 8](https://www.legislation.gov.uk/nisi/2003/2903/article/8): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-bf7b711622d66d63fcd1471394f11682]: Modification: [Art. 8](https://www.legislation.gov.uk/nisi/2003/2903/article/8): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

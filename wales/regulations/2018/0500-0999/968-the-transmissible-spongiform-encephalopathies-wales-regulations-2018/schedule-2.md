@@ -88,8 +88,8 @@ and failure to do so is an offence.
 
 - (a) a laboratory approved under this paragraph;
 - (b) a laboratory approved under corresponding legislation elsewhere in the United Kingdom;
-- (c)[^key-2e482e1f14df1e73fc5de290dc4c5d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-2342432bd2071eeded41b87ad70a74e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-2e482e1f14df1e73fc5de290dc4c5d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-2342432bd2071eeded41b87ad70a74e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 6. Approved sampling sites
 
@@ -170,6 +170,6 @@ the occupier of the premises must comply with any direction given by the Welsh M
 
 ## Annotations
 
-[^key-2e482e1f14df1e73fc5de290dc4c5d34]: Textual amendment: [Sch. 2 para. 5(2)(c)](https://www.legislation.gov.uk/wsi/2018/968/schedule/2/paragraph/5/2/c) omitted (31.12.2020) by virtue of [The Animal By-Products and Transmissible Spongiform Encephalopathies (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/94)](https://www.legislation.gov.uk/wsi/2019/94), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/94/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2019/94/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e482e1f14df1e73fc5de290dc4c5d34]: Textual amendment: [Sch. 2 para. 5(2)(c)](https://www.legislation.gov.uk/wsi/2018/968/schedule/2/paragraph/5/2/c) omitted (31.12.2020) by virtue of [The Animal By-Products and Transmissible Spongiform Encephalopathies (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/94)](https://www.legislation.gov.uk/wsi/2019/94), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/94/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2019/94/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2342432bd2071eeded41b87ad70a74e8]: Textual amendment: [Sch. 2 para. 5(2)(d)](https://www.legislation.gov.uk/wsi/2018/968/schedule/2/paragraph/5/2/d) omitted (31.12.2020) by virtue of [The Animal By-Products and Transmissible Spongiform Encephalopathies (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/94)](https://www.legislation.gov.uk/wsi/2019/94), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/94/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2019/94/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2342432bd2071eeded41b87ad70a74e8]: Textual amendment: [Sch. 2 para. 5(2)(d)](https://www.legislation.gov.uk/wsi/2018/968/schedule/2/paragraph/5/2/d) omitted (31.12.2020) by virtue of [The Animal By-Products and Transmissible Spongiform Encephalopathies (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/94)](https://www.legislation.gov.uk/wsi/2019/94), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/94/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2019/94/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

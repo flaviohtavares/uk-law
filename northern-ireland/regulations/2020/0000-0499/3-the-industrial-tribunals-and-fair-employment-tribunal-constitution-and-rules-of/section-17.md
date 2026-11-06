@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Application of Schedules 1 to 3[^key-935504d18f828d3b2726f0d08d4caff8]
+## 17. Application of Schedules 1 to 3[^c-935504d18f828d3b2726f0d08d4caff8]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-935504d18f828d3b2726f0d08d4caff8]: Commencement: Reg. 17 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-935504d18f828d3b2726f0d08d4caff8]: Commencement: Reg. 17 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)

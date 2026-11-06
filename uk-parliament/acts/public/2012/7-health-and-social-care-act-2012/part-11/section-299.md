@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 299. Certificate of consent of community patients to treatment[^key-044ba0d893bd3d9c2d76edfa7bf417aa]
+## 299. Certificate of consent of community patients to treatment[^c-044ba0d893bd3d9c2d76edfa7bf417aa]
 
 *Extent: E+W*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-044ba0d893bd3d9c2d76edfa7bf417aa]: Commencement: [S. 299](https://www.legislation.gov.uk/ukpga/2012/7/section/299) in force at 1.6.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/2)
+[^c-044ba0d893bd3d9c2d76edfa7bf417aa]: Commencement: [S. 299](https://www.legislation.gov.uk/ukpga/2012/7/section/299) in force at 1.6.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/2)

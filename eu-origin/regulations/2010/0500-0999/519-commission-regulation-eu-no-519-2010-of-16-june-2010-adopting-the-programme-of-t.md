@@ -35,88 +35,88 @@ adopting the programme of the statistical data and of the metadata for populatio
 
 (Text with EEA relevance) (revoked)
 
-[^key-4811527d9aed159e5d0e64f80c4c6449]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4811527d9aed159e5d0e64f80c4c6449]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-4811527d9aed159e5d0e64f80c4c6449]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-4811527d9aed159e5d0e64f80c4c6449]
+## Article 1. Subject matter[^c-4811527d9aed159e5d0e64f80c4c6449]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Programme of the statistical data[^key-4811527d9aed159e5d0e64f80c4c6449]
+## Article 2. Definitions[^c-4811527d9aed159e5d0e64f80c4c6449]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Metadata on the cell values[^key-4811527d9aed159e5d0e64f80c4c6449]
+## Article 3. Programme of the statistical data[^c-4811527d9aed159e5d0e64f80c4c6449]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Metadata on the topics[^key-4811527d9aed159e5d0e64f80c4c6449]
+## Article 4. Metadata on the cell values[^c-4811527d9aed159e5d0e64f80c4c6449]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Entry into force[^key-4811527d9aed159e5d0e64f80c4c6449]
+## Article 5. Metadata on the topics[^c-4811527d9aed159e5d0e64f80c4c6449]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4811527d9aed159e5d0e64f80c4c6449]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-4811527d9aed159e5d0e64f80c4c6449]
+## Article 6. Entry into force[^c-4811527d9aed159e5d0e64f80c4c6449]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — METADATA ON THE TOPICS[^key-4811527d9aed159e5d0e64f80c4c6449]
+[^c-4811527d9aed159e5d0e64f80c4c6449]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-4811527d9aed159e5d0e64f80c4c6449]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## ANNEX II — METADATA ON THE TOPICS[^c-4811527d9aed159e5d0e64f80c4c6449]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4811527d9aed159e5d0e64f80c4c6449] Place of usual residence
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4811527d9aed159e5d0e64f80c4c6449] Legal marital status/partnerships
+[^c-4811527d9aed159e5d0e64f80c4c6449] Place of usual residence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4811527d9aed159e5d0e64f80c4c6449] Economic topics
+[^c-4811527d9aed159e5d0e64f80c4c6449] Legal marital status/partnerships
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4811527d9aed159e5d0e64f80c4c6449] Country/place of birth
+[^c-4811527d9aed159e5d0e64f80c4c6449] Economic topics
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4811527d9aed159e5d0e64f80c4c6449] Country of citizenship
+[^c-4811527d9aed159e5d0e64f80c4c6449] Country/place of birth
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4811527d9aed159e5d0e64f80c4c6449] Place of usual residence one year prior to the census
+[^c-4811527d9aed159e5d0e64f80c4c6449] Country of citizenship
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4811527d9aed159e5d0e64f80c4c6449] Household and family topics
+[^c-4811527d9aed159e5d0e64f80c4c6449] Place of usual residence one year prior to the census
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4811527d9aed159e5d0e64f80c4c6449] Occupancy status of conventional dwellings
+[^c-4811527d9aed159e5d0e64f80c4c6449] Household and family topics
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4811527d9aed159e5d0e64f80c4c6449] Type of ownership
+[^c-4811527d9aed159e5d0e64f80c4c6449] Occupancy status of conventional dwellings
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4811527d9aed159e5d0e64f80c4c6449] Useful floor space and/or number of rooms of housing unit, density standard
+[^c-4811527d9aed159e5d0e64f80c4c6449] Type of ownership
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-4811527d9aed159e5d0e64f80c4c6449] Useful floor space and/or number of rooms of housing unit, density standard
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4811527d9aed159e5d0e64f80c4c6449]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 174](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/174); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4811527d9aed159e5d0e64f80c4c6449]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 174](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/174); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

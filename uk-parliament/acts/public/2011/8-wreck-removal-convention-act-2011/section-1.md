@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-b281a74b3d717d2268f0100d4c252d09] The Merchant Shipping Act 1995 is amended as follows.
+(1)[^c-b281a74b3d717d2268f0100d4c252d09] The Merchant Shipping Act 1995 is amended as follows.
 
-(2)[^key-c606d37341bee5dd727bb8ff345c79a7][^key-6725d20d45294e0349022ea6cf5fb8f5] After section 255 insert—
+(2)[^c-c606d37341bee5dd727bb8ff345c79a7][^c-6725d20d45294e0349022ea6cf5fb8f5] After section 255 insert—
 
 > **Part 9A — Wreck Removal Convention**
 >
@@ -357,16 +357,16 @@ summary: ''
 >
 > (2) An order under this section may be made only if a draft has been laid before and approved by resolution of each House of Parliament.
 
-(3)[^key-b281a74b3d717d2268f0100d4c252d09] In section 306(2A)(c) (orders not subject to annulment), after “223(3)” insert “255G(3)(c), 255Q(2), 255U(1)”.
+(3)[^c-b281a74b3d717d2268f0100d4c252d09] In section 306(2A)(c) (orders not subject to annulment), after “223(3)” insert “255G(3)(c), 255Q(2), 255U(1)”.
 
-(4)[^key-c606d37341bee5dd727bb8ff345c79a7] After Schedule 11 insert the Schedule set out in the Schedule to this Act.
+(4)[^c-c606d37341bee5dd727bb8ff345c79a7] After Schedule 11 insert the Schedule set out in the Schedule to this Act.
 
-(5)[^key-b281a74b3d717d2268f0100d4c252d09] In section 315(2) to (5) (power to extend Act to relevant British possessions) a reference to the Merchant Shipping Act 1995 includes a reference to that Act as amended by this Act.
+(5)[^c-b281a74b3d717d2268f0100d4c252d09] In section 315(2) to (5) (power to extend Act to relevant British possessions) a reference to the Merchant Shipping Act 1995 includes a reference to that Act as amended by this Act.
 
 ## Annotations
 
-[^key-b281a74b3d717d2268f0100d4c252d09]: Commencement: S. 1(1)(3)(5) in force at 14.4.2015 by [S.I. 2015/133](https://www.legislation.gov.uk/uksi/2015/133), [art. 3](https://www.legislation.gov.uk/uksi/2015/133/article/3)
+[^c-b281a74b3d717d2268f0100d4c252d09]: Commencement: S. 1(1)(3)(5) in force at 14.4.2015 by [S.I. 2015/133](https://www.legislation.gov.uk/uksi/2015/133), [art. 3](https://www.legislation.gov.uk/uksi/2015/133/article/3)
 
-[^key-c606d37341bee5dd727bb8ff345c79a7]: Commencement: S. 1(2)(4) in force at 5.2.2015 for specified purposes by [S.I. 2015/133](https://www.legislation.gov.uk/uksi/2015/133), [art. 2](https://www.legislation.gov.uk/uksi/2015/133/article/2)
+[^c-c606d37341bee5dd727bb8ff345c79a7]: Commencement: S. 1(2)(4) in force at 5.2.2015 for specified purposes by [S.I. 2015/133](https://www.legislation.gov.uk/uksi/2015/133), [art. 2](https://www.legislation.gov.uk/uksi/2015/133/article/2)
 
-[^key-6725d20d45294e0349022ea6cf5fb8f5]: Commencement: S. 1(2)(4) in force at 14.4.2015 in so far as not already in force by [S.I. 2015/133](https://www.legislation.gov.uk/uksi/2015/133), [art. 3](https://www.legislation.gov.uk/uksi/2015/133/article/3)
+[^c-6725d20d45294e0349022ea6cf5fb8f5]: Commencement: S. 1(2)(4) in force at 14.4.2015 in so far as not already in force by [S.I. 2015/133](https://www.legislation.gov.uk/uksi/2015/133), [art. 3](https://www.legislation.gov.uk/uksi/2015/133/article/3)

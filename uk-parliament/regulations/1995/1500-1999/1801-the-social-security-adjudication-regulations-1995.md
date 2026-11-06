@@ -46,7 +46,7 @@ The Secretary of State for Social Security in exercise of the powers set out in 
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and interpretation[^key-6f4d6fe2935d60c5f7d0c085c1d2b5c2]
+### 1. Citation, commencement and interpretation[^c-6f4d6fe2935d60c5f7d0c085c1d2b5c2]
 
 (1) These Regulations may be cited as the Social Security (Adjudication) Regulations 1995 and shall come into force on 10th August 1995.
 
@@ -98,7 +98,7 @@ The Secretary of State for Social Security in exercise of the powers set out in 
 
 ## PART II — COMMON PROVISIONS
 
-### 2. Procedure in connection with determinations; and right to representation[^key-848516219c9d8d21a3e3663cefa0016a]
+### 2. Procedure in connection with determinations; and right to representation[^c-848516219c9d8d21a3e3663cefa0016a]
 
 (1) Subject to the provisions of the Administration Act and of these Regulations—
 
@@ -114,7 +114,7 @@ may remain present at any such sitting.
 
 (3) Nothing in these Regulations shall prevent a member of the Council on Tribunals or of the Scottish Committee of the Council from being present at a hearing before an appeal tribunal, a medical appeal tribunal or a disability appeal tribunal or at any inquiry, in his capacity as such, notwithstanding that the hearing or inquiry is not in public.
 
-### 3. Manner of making applications, appeals or references; and time limits[^key-9d533935634d1987aaafaac1cafd0a8e]
+### 3. Manner of making applications, appeals or references; and time limits[^c-9d533935634d1987aaafaac1cafd0a8e]
 
 (1) Any application, appeal or reference mentioned in column (1) of Schedule 2 shall be in writing and shall be made or given by sending or delivering it to the appropriate office within the specified time.
 
@@ -133,7 +133,7 @@ may remain present at any such sitting.
 
 (7) A chairman of an appeal tribunal, a medical appeal tribunal or a disability appeal tribunal may give directions for the disposal of any purported appeal where he is satisified that the tribunal does not have jurisdiction to entertain the appeal.
 
-### 4. Oral hearings and inquiries[^key-d538f0914975bea86c60f868b2490b69]
+### 4. Oral hearings and inquiries[^c-d538f0914975bea86c60f868b2490b69]
 
 (1) This regulation applies to any oral hearing of an application, appeal or reference and to any inquiry.
 
@@ -162,7 +162,7 @@ may remain present at any such sitting.
 
 (9) Any person entitled to be heard at an oral hearing or inquiry may address the adjudicating authority or person holding the inquiry, may give evidence, may call witnesses and may put questions directly to any other person called as a witness.
 
-### 5. Postponement and adjournment[^key-5756a2773717f232c0bafc1e6c1de60f]
+### 5. Postponement and adjournment[^c-5756a2773717f232c0bafc1e6c1de60f]
 
 (1) Where a person to whom notice of an oral hearing by an adjudicating authority or an inquiry has been given wishes to apply for that hearing or inquiry to be postponed he shall do so in writing to the chairman or, as the case may be, the person appointed to hold the inquiry stating his reasons for the application, and the chairman or person appointed may grant or refuse the application as he thinks fit.
 
@@ -170,7 +170,7 @@ may remain present at any such sitting.
 
 (3) An oral hearing or an inquiry may be adjourned by the adjudicating authority or, as the case may be, the person appointed to hold the inquiry at any time on the application of any party to the proceedings or of its or his own motion.
 
-### 6. Withdrawal of applications, appeals and references[^key-b36accc58b35553ec29c01adeff3307f]
+### 6. Withdrawal of applications, appeals and references[^c-b36accc58b35553ec29c01adeff3307f]
 
 (1) A person who has made an application to the chairman of the tribunal for leave to appeal to a Commissioner against a decision of an appeal tribunal, a medical appeal tribunal or a disability appeal tribunal may withdraw his application at any time before it is determined by giving written notice of intention to withdraw to the chairman.
 
@@ -188,7 +188,7 @@ and, in any case, of any other party to the proceedings; or
 
 (4) An application under regulation 13 for a decision of the Secretary of State on any question may, with his leave, be withdrawn at any time before the decision is given.
 
-### 7. Striking-out of proceedings for want of prosecution[^key-f798389a4d544ecee01319af709cbd15]
+### 7. Striking-out of proceedings for want of prosecution[^c-f798389a4d544ecee01319af709cbd15]
 
 (1) The chairman of an appeal tribunal, a medical appeal tribunal or a disability appeal tribunal may, subject to paragraph (2), on the application of any party to the proceedings or of his own motion, strike out any application, appeal or reference for want of prosecution including the failure of the appellant to comply with a direction given by the chairman under regulation 2(1)(a).
 
@@ -196,7 +196,7 @@ and, in any case, of any other party to the proceedings; or
 
 (3) The chairman of an appeal tribunal, a medical appeal tribunal or a disability appeal tribunal may, on application by the party concerned, made not later than 12 months beginning with the date of the order made under paragraph (1), give leave to reinstate any application, appeal or reference which has been struck out in accordance with paragraph (1).
 
-### 8. Non-disclosure of medical evidence[^key-28cb7e03dba9a881799b24c2548549b2]
+### 8. Non-disclosure of medical evidence[^c-28cb7e03dba9a881799b24c2548549b2]
 
 (1) Where, in connection with the consideration and determination of any claim or question there is before an adjudicating authority medical advice or medical evidence relating to a person which has not been disclosed to him and in the opinion of the adjudicating authority or, in the case of a tribunal or board, its chairman, the disclosure to that person of that advice or evidence would be harmful to his health, such advice or evidence shall not be required to be disclosed to that person.
 
@@ -206,13 +206,13 @@ and, in any case, of any other party to the proceedings; or
 
 (4) In this regulation “adjudicating authority” includes the Secretary of State in a case involving a question which is for determination by him.
 
-### 9. Correction of accidental errors in decisions[^key-598e35613dc3a7f7d8c0c92a8e1e9f61]
+### 9. Correction of accidental errors in decisions[^c-598e35613dc3a7f7d8c0c92a8e1e9f61]
 
 (1) Subject to regulation 11 (provisions common to regulations 9 and 10) accidental errors in any decision or record of a decision may at any time be corrected by the adjudicating authority who gave the decision or by an authority of like status.
 
 (2) A correction made to, or to the record of, a decision shall be deemed to be part of the decision or of that record and written notice of it shall be given as soon as practicable to every party to the proceedings.
 
-### 10. Setting aside decisions on certain grounds[^key-5134bc3400ea80c32f7a0eda80011ad9]
+### 10. Setting aside decisions on certain grounds[^c-5134bc3400ea80c32f7a0eda80011ad9]
 
 (1) Subject to regulation 11 (provisions common to regulations 9 and 10), on an application made by a party to the proceedings, a decision may be set aside by the adjudicating authority who gave the decision or by an authority of like status in a case where it appears just to set the decision aside on the ground that—
 
@@ -228,7 +228,7 @@ and, in any case, of any other party to the proceedings; or
 
 (5) For the purposes of determining under these Regulations an application to set aside a decision there shall be disregarded regulation 1(3)(b) and any provision in any enactment or instrument to the effect that any notice or other document required or authorised to be given or sent to any person shall be deemed to have been given or sent if it was sent by post to that person’s last known or notified address.
 
-### 11. Provisions common to regulations 9 and 10[^key-d8c2fd43940a3cdfd339d101c43971ef]
+### 11. Provisions common to regulations 9 and 10[^c-d8c2fd43940a3cdfd339d101c43971ef]
 
 (1) In regulations 9 and 10 “adjudicating authority” includes the Secretary of State.
 
@@ -242,7 +242,7 @@ and, in any case, of any other party to the proceedings; or
 
 ### SECTION A — — THE SECRETARY OF STATE
 
-#### 12. Construction of Section A[^key-8c75d824d1ae264719c4bee9589ded6e]
+#### 12. Construction of Section A[^c-8c75d824d1ae264719c4bee9589ded6e]
 
 In this Section“a person interested” means, except in relation to statutory sick pay or statutory maternity pay, a person whose interest in the application or decision relates to that person’s own liability under the Acts or his actual or potential rights under them and in relation to statutory sick pay or statutory maternity pay means an employer or employee (including a person who is alleged or claims to be the employer or employee of another person)—
 
@@ -251,7 +251,7 @@ In this Section“a person interested” means, except in relation to statutory 
 
 and references to a person appearing to be interested shall be construed accordingly.
 
-#### 13. Application for decision of the Secretary of State on principal questions[^key-17efac4dafedc7cf0d7c3af753435846]
+#### 13. Application for decision of the Secretary of State on principal questions[^c-17efac4dafedc7cf0d7c3af753435846]
 
 (1) A person desiring to obtain the decision of the Secretary of State on any of the questions mentioned in section 17(1) of the Administration Act (including those to which that section applies by virtue of section 170(1) of the Pension Schemes Act 1993[^f00010]) shall deliver or send to the Secretary of State an application for the purpose in writing in a form approved by him.
 
@@ -261,7 +261,7 @@ and references to a person appearing to be interested shall be construed accordi
 
 (4) Nothing in paragraph (1) or (3) shall affect any right or obligation under the Acts or Regulations made under the Acts to refer any question to the Secretary of State.
 
-#### 14. Procedure for inquiries[^key-41d9803a5efc13d74fa2a3e1cf4a5e10]
+#### 14. Procedure for inquiries[^c-41d9803a5efc13d74fa2a3e1cf4a5e10]
 
 Any person appointed by the Secretary of State under section 17(4) of the Administration Act to hold an inquiry into any question or any matters arising in connection therewith and to report to him thereon may—
 
@@ -269,13 +269,13 @@ Any person appointed by the Secretary of State under section 17(4) of the Admini
 - (b) require any person so summoned, or who otherwise attends to give evidence, to be examined on oath; and
 - (c) for that purpose administer oaths.
 
-#### 15. The Secretary of State’s decision and statement of grounds[^key-5c06316f66109de3b88982a89cd37a54]
+#### 15. The Secretary of State’s decision and statement of grounds[^c-5c06316f66109de3b88982a89cd37a54]
 
 (1) The Secretary of State shall give notice in writing of his decision under section 17 of the Administration Act and of the right to request a statement of the grounds of the decision to the applicant and to any persons appearing to him to be interested therein and may publish his decision in such manner as he thinks fit.
 
 (2) The applicant and any other persons appearing to the Secretary of State to be interested shall, on request, be furnished with such a statement of the grounds of the Secretary of State’s decision under section 17 of the Administration Act as will enable him to determine whether any question of law (not being a question which has been referred to the High Court or the Court of Session in accordance with section 18(1) of that Act) has arisen upon which he may appeal to the High Court of the Court of Session under section 18(3) of that Act.
 
-#### 16. Review of reference[^key-f29b81dc4b26f8cebc103ff85f26b097]
+#### 16. Review of reference[^c-f29b81dc4b26f8cebc103ff85f26b097]
 
 (1) The provisions of regulation 13(3) and (4) shall apply to any application for a review under section 19(1) of the Administration Act of a decision under section 17(1) of that Act as they apply to an application under regulation 13(1).
 
@@ -286,7 +286,7 @@ Any person appointed by the Secretary of State under section 17(4) of the Admini
   - (i) under section 37(1) of the Administration Act (reference by an adjudica-tion officer of any such question for determination where such question arises on the consideration of any claim or question); or
   - (ii) under section 117(2) of the Administration Act (reference of such question for decision by the Secretary of State where the decision thereof is necessary for the determination of any proceedings).
 
-#### 17. Questions for determination by the Secretary of State[^key-025732fc6183bb8d0a6a184317b53308]
+#### 17. Questions for determination by the Secretary of State[^c-025732fc6183bb8d0a6a184317b53308]
 
 (1) It shall be for the Secretary of State to determine—
 
@@ -308,7 +308,7 @@ Any person appointed by the Secretary of State under section 17(4) of the Admini
 
 ### SECTION B— — ADJUDICATION OFFICERS
 
-#### 18. Notification of decisions[^key-7c1bd3dd00868042190b9e710b695ca6]
+#### 18. Notification of decisions[^c-7c1bd3dd00868042190b9e710b695ca6]
 
 (1) Subject to paragraph (2) and regulation 55, the decision of an adjudication officer on any claim or question and the reasons for it shall be notified in writing to the claimant who shall at the same time be informed—
 
@@ -322,7 +322,7 @@ Any person appointed by the Secretary of State under section 17(4) of the Admini
 
 (2) Paragraph (1) does not apply in relation to a decision (other than a decision given on review) awarding benefit for a period which begins immediately after a period in respect of which the claimant had been awarded benefit of the same kind and at the same rate as that awarded by the first-mentioned decision.
 
-#### 19. Procedure on claim or question involving questions for determination by the Secretary of State[^key-2d0b6198fe305d8b468ac0c5eca9cd5f]
+#### 19. Procedure on claim or question involving questions for determination by the Secretary of State[^c-2d0b6198fe305d8b468ac0c5eca9cd5f]
 
 (1) Where an adjudication officer has decided any claim or question on an assumption of facts as to which there appeared to him to be no dispute, but concerning which, had a question arisen, that question would have fallen for determination by the Secretary of State, it shall be deemed to be a sufficient compliance with the requirements of regulation 18 as to notification to the claimant, to give him notice in writing informing him of the decision and of the reasons for it and that, if he is dissatisified with the decision, he should reply to that effect, giving the reasons for his dissatisfaction.
 
@@ -339,7 +339,7 @@ the claimant shall be notified in writing of his right to apply for the determin
 - (a) upholds the assumption, section 22(3) of the Administration Act shall apply as if the adjudication officer had given the certificate therein referred to:
 - (b) does not uphold the assumption, the Secretary of State’s decision may be treated by the adjudication officer as an application for the review of the adjudication officer’s decision, and for the purposes of regulation 59, the date of the claimant’s application for the Secretary of State’s decision shall be treated as the date of the application for review.
 
-#### 20. Reference by an employee of questions relating to statutory sick pay or statutory maternity pay for determination by an adjudication officer[^key-36e5b3d0fb03db4acfbe3b694d655dff]
+#### 20. Reference by an employee of questions relating to statutory sick pay or statutory maternity pay for determination by an adjudication officer[^c-36e5b3d0fb03db4acfbe3b694d655dff]
 
 (1) A question in relation to statutory sick pay or statutory maternity pay to which sections 20(3), 21(4), 22(1) and (2) and 23(2) of the Administration Act applies may be submitted to an adjudication officer by the employee concerned in accordance with the following provisions of this regulation and not otherwise.
 
@@ -350,7 +350,7 @@ the claimant shall be notified in writing of his right to apply for the determin
 - (a) be delivered or sent to a local office within 6 months of the earliest day in respect of which liability for statutory sick pay or statutory maternity pay is in dispute; and
 - (b) state the grounds (if any) on which the applicant’s employer has denied liability for statutory sick pay or statutory maternity pay in respect of the period specified in the application.
 
-#### 21. Reference of a special question in child benefit cases[^key-e4316bbf03893c5e8aa96b8f46bad572]
+#### 21. Reference of a special question in child benefit cases[^c-e4316bbf03893c5e8aa96b8f46bad572]
 
 (1) In this regulation—
 
@@ -372,7 +372,7 @@ the claimant shall be notified in writing of his right to apply for the determin
 
 ### SECTION C— — APPEAL TRIBUNALS
 
-#### 22. Oral hearing of appeals and references[^key-e4ea047999baaa5c7af8b48ac402a886]
+#### 22. Oral hearing of appeals and references[^c-e4ea047999baaa5c7af8b48ac402a886]
 
 (1) An appeal tribunal shall, except where section 29(a) of the Administration Act applies, hold an oral hearing of every appeal or reference made to it.
 
@@ -382,7 +382,7 @@ the claimant shall be notified in writing of his right to apply for the determin
 
 (4) Paragraphs (3) and (4) of regulation 21 apply to an appeal tribunal as they apply to an adjudication officer, except that a tribunal shall, instead of referring a question in accordance with paragraph (3)(a) of that regulation, direct it to be so referred by an adjudication officer.
 
-#### 23. Decisions of appeal tribunals[^key-aab5483737d7e9614726e74b7a103856]
+#### 23. Decisions of appeal tribunals[^c-aab5483737d7e9614726e74b7a103856]
 
 (1) The decision of the majority of the appeal tribunal shall be the decision of the tribunal but, where the tribunal consists of an even number, the chairman shall have a second or casting vote.
 
@@ -394,7 +394,7 @@ the claimant shall be notified in writing of his right to apply for the determin
 
 (3) As soon as may be practicable after a case has been decided by an appeal tribunal, a copy of the record of its decision made in accordance with this regulation shall be sent to every party to the proceedings who shall also be informed of the conditions governing appeals to a Commissioner.
 
-#### 24. Application for leave to appeal to a Commissioner from an appeal tribunal[^key-26bca7f1d25f7ef38ff69a874a480452]
+#### 24. Application for leave to appeal to a Commissioner from an appeal tribunal[^c-26bca7f1d25f7ef38ff69a874a480452]
 
 (1) Subject to the following provisions of this regulation, an application to the chairman of an appeal tribunal for leave to appeal to a Commissioner from a decision of an appeal tribunal shall be made—
 
@@ -409,17 +409,17 @@ the claimant shall be notified in writing of his right to apply for the determin
 
 ### SECTION D— — DISABILITY ADJUDICATION
 
-#### 25. Prescribed period[^key-6237143021321a05cd9cac2c978bdca7]
+#### 25. Prescribed period[^c-6237143021321a05cd9cac2c978bdca7]
 
 (1) Subject to paragraph (2), the prescribed period for the purposes of section 30(1), (2) and (4) of the Administration Act shall be three months beginning with the date on which notice in writing of the decision of an adjudication officer under section 21 of that Act was given to the claimant.
 
 (2) Where a claimant submits an application for review under section 30(1) of the Administration Act by post which would have arrived in a local office in the ordinary course of the post within the period prescribed by paragraph (1) but is delayed by postal disruption caused by industrial action whether within the postal service or elsewhere, that period shall expire on the day the application is received in the local office if that day does not fall within the period prescribed by paragraph (1).
 
-#### 26. Manner of making applications for review under section 30(1) of the Administration Act[^key-5bade7facd389382df48caccf8d0dd9e]
+#### 26. Manner of making applications for review under section 30(1) of the Administration Act[^c-5bade7facd389382df48caccf8d0dd9e]
 
 An application for a review of a decision of an adjudication officer under section 30(1), (2) and (4) of the Administration Act shall be made to a local office.
 
-#### 27. Appeal to a disability appeal tribunal[^key-5bb63120534492aa27d3029509583645]
+#### 27. Appeal to a disability appeal tribunal[^c-5bb63120534492aa27d3029509583645]
 
 (1) The claimant may appeal to a disability appeal tribunal from a decision of an adjudication officer under section 30(1) of the Administration Act in any case in which there arises—
 
@@ -437,11 +437,11 @@ An application for a review of a decision of an adjudication officer under secti
 - (c) the rate at which an attendance allowance is payable[^f00012]; and
 - (d) the rate at which the care component or the mobility component of a disability living allowance is payable[^f00013].
 
-#### 28. Persons who may appeal to disability appeal tribunals and appeal tribunals[^key-fb2b7af90893f4dd9f5e64158dc414f1]
+#### 28. Persons who may appeal to disability appeal tribunals and appeal tribunals[^c-fb2b7af90893f4dd9f5e64158dc414f1]
 
 A person purporting to act on behalf of a person who is terminally ill as defined in section 66(2) of the Contributions and Benefits Act, whether or not that other person is acting with his knowledge or authority, may appeal to a disability appeal tribunal or an appeal tribunal, as appropriate, in accordance with section 33(1) of the Administration Act in any case where the ground of appeal is that that person is or was at any time terminally ill.
 
-#### 29. Procedure for disability appeal tribunals[^key-24b8ab6444883f5d99fe63f4240ff2f3]
+#### 29. Procedure for disability appeal tribunals[^c-24b8ab6444883f5d99fe63f4240ff2f3]
 
 (1) A disability appeal tribunal, except where section 32(7)(a) of the Administration Act applies, shall hold an oral hearing of any appeal made to it.
 
@@ -459,11 +459,11 @@ A person purporting to act on behalf of a person who is terminally ill as define
 
 (6) As soon as may be practicable after a case has been decided by a disability appeal tribunal, a copy of the record of the decision made in accordance with this regulation shall be sent to every party to the proceedings who shall also be informed of the conditions governing appeals to a Commissioner.
 
-#### 30. Examination and report by a medical practitioner[^key-4d5e949461ab280c8c56d1de52a50d02]
+#### 30. Examination and report by a medical practitioner[^c-4d5e949461ab280c8c56d1de52a50d02]
 
 The condition which must be satisfied if a person who may be nominated as chairman of a disability appeal tribunal is to refer a claimant to a medical practitioner for examination and report is that the person who may be so nominated is satisfied that an appeal by the claimant cannot be properly determined unless the claimant is examined by a medical practitioner and the medical practitioner has provided the disability appeal tribunal with information for use in determining the appeal.
 
-#### 31. Persons who may not act as members of disability appeal tribunals[^key-b7bac41de76651ff2aed26854cc4f742]
+#### 31. Persons who may not act as members of disability appeal tribunals[^c-b7bac41de76651ff2aed26854cc4f742]
 
 (1) A person shall not act as a member of a disability appeal tribunal in any case if he—
 
@@ -472,7 +472,7 @@ The condition which must be satisfied if a person who may be nominated as chairm
 
 (2) If a disability appeal tribunal is unable to determine a question by reason of the provisions of paragraph (1) the case shall be referred to another such tribunal.
 
-#### 32. Application for leave to appeal to a Commissioner from a disability appeal tribunal[^key-ddaa9204c41acca1951f95d070e791f4]
+#### 32. Application for leave to appeal to a Commissioner from a disability appeal tribunal[^c-ddaa9204c41acca1951f95d070e791f4]
 
 (1) Subject to the following provisions of this regulation, an application to the chairman of a disability appeal tribunal for leave to appeal to a Commissioner from a decision of a disability appeal tribunal shall be made—
 
@@ -485,7 +485,7 @@ The condition which must be satisfied if a person who may be nominated as chairm
 
 (4) Where in any case it is impracticable, or it would be likely to cause undue delay, for an application for leave to appeal against a decision of a disability appeal tribunal to be determined by the person who was the chairman of that tribunal, that application shall be determined by any other person qualified under section 43(5) of the Administration Act[^f00014] to act as a chairman of disability appeal tribunals.
 
-#### 33. Procedure of a disability appeal tribunal on receipt of a Commissioner’s decision[^key-797f6dd3762a0f601b8b8fcc6910a0de]
+#### 33. Procedure of a disability appeal tribunal on receipt of a Commissioner’s decision[^c-797f6dd3762a0f601b8b8fcc6910a0de]
 
 (1) Subject to the following provisions of this regulation, the provisions of these Regulations apply for the disposal by a disability appeal tribunal of a case remitted to it following an appeal to a Commissioner as if it were an original hearing of an appeal to the disability appeal tribunal.
 
@@ -493,7 +493,7 @@ The condition which must be satisfied if a person who may be nominated as chairm
 
 ### SECTION E— — MEDICAL ADJUDICATION
 
-#### 34. Construction of Section E[^key-ce3acdcd9107ed16e01f6df81a6fca38]
+#### 34. Construction of Section E[^c-ce3acdcd9107ed16e01f6df81a6fca38]
 
 In this Section—
 
@@ -501,13 +501,13 @@ In this Section—
 - “medical board” means 2 or more adjudicating medical practitioners nominated by the Secretary of State to act jointly in the consideration of a case; and
 - “special medical board” means a medical board of which at least 2 of the members are specially qualified adjudicating medical practitioners.
 
-#### 35. Appointment of adjudicating medical practitioners and specially qualified adjudicating medical practitioners[^key-da3722a54aef7856f419f7a8c785f93b]
+#### 35. Appointment of adjudicating medical practitioners and specially qualified adjudicating medical practitioners[^c-da3722a54aef7856f419f7a8c785f93b]
 
 (1) Adjudicating medical practitioners shall be appointed by the Secretary of State to act for such area or areas as may be specified in the instrument of appointment.
 
 (2) Specially qualified adjudicating medical practitioners shall be appointed by the Secretary of State to act for such area or areas as may be specified in the instrument of appointment.
 
-#### 36. Determination of medical questions[^key-021b9f542e44f6b98090e06c173968dc]
+#### 36. Determination of medical questions[^c-021b9f542e44f6b98090e06c173968dc]
 
 (1)
 
@@ -532,7 +532,7 @@ In this Section—
 
 (9) For the purposes of these Regulations a sitting of an adjudicating medical authority is not an oral hearing, and the only persons entitled to be present and be heard during the consideration of any question by such an authority are the claimant and any other person whom the authority may, with the consent of the claimant, allow to be present as being a person who, in his or their opinion, is likely to assist him or them in the determination of that question.
 
-#### 37. Decisions of adjudicating medical authorities[^key-c663cb1dbab7f27706bec5f3634fb529]
+#### 37. Decisions of adjudicating medical authorities[^c-c663cb1dbab7f27706bec5f3634fb529]
 
 (1) An adjudicating medical authority shall in each case record his or their decision in writing in such form as may from time to time be approved by the Secretary of State and shall include in such record (which shall be signed by all members of the authority)—
 
@@ -543,7 +543,7 @@ In this Section—
 
 (3) A person to whom written notice of the decision of an adjudicating medical authority is sent in accordance with paragraph (2) shall be informed in writing of the conditions governing an appeal to a medical appeal tribunal.
 
-#### 38. Medical appeal tribunals[^key-1ac6673db0e8c45216cd54fa3ce26b1b]
+#### 38. Medical appeal tribunals[^c-1ac6673db0e8c45216cd54fa3ce26b1b]
 
 (1) A medical appeal tribunal shall hold an oral hearing of any appeal or reference made to it.
 
@@ -555,7 +555,7 @@ In this Section—
 
 (5) As soon as may be practicable after a case has been decided by a medical appeal tribunal, a copy of the record of its decision made in accordance with this regulation shall be sent to every party to the proceedings who shall also be informed of the conditions governing appeals to a Commissioner.
 
-#### 39. Application for leave to appeal to a Commissioner from a medical appeal tribunal[^key-142f3d131547d6e78fc8093cda6cc408]
+#### 39. Application for leave to appeal to a Commissioner from a medical appeal tribunal[^c-142f3d131547d6e78fc8093cda6cc408]
 
 (1) Subject to the following provisions of this regulation, an application to the chairman of a medical appeal tribunal for leave to appeal to a Commissioner from a decision of a medical appeal tribunal shall be made in accordance with regulation 3 and Schedule 2.
 
@@ -565,7 +565,7 @@ In this Section—
 
 (4) Where in any case it is impracticable, or it would be likely to cause undue delay, for an application for leave to appeal against a decision of a medical appeal tribunal to be determined by the person who was the chairman of that tribunal, that application shall be determined by any other person qualified under section 50(4) of the Administration Act to act as a chairman of medical appeal tribunals.
 
-#### 40. Disqualification from acting as an adjudicating medical authority or as a member thereof or as a member of a medical appeal tribunal[^key-356a7b6b2f2850e3d44deebe087cf00e]
+#### 40. Disqualification from acting as an adjudicating medical authority or as a member thereof or as a member of a medical appeal tribunal[^c-356a7b6b2f2850e3d44deebe087cf00e]
 
 (1) Subject to paragraphs (2) and (3), a person shall not act as an adjudicating medical authority or as a member thereof or as a member of a medical appeal tribunal in any case if he—
 
@@ -579,11 +579,11 @@ In this Section—
 
 (4) If an adjudicating medical authority or a medical appeal tribunal is unable to determine a question by reason of the provisions of paragraph (1) the reference to that authority or tribunal shall be revoked and the case shall be referred to another such authority or tribunal.
 
-#### 41. Application for review involving review of decision of a medical appeal tribunal[^key-731f1e82e6a6304354b76077d8a4a914]
+#### 41. Application for review involving review of decision of a medical appeal tribunal[^c-731f1e82e6a6304354b76077d8a4a914]
 
 Where, in the opinion of the adjudication officer, an application made under the provisions of section 47(4) of the Administration Act raises a question as to the review of a decision of a medical appeal tribunal and, by virtue of section 47(7) of that Act, such a decision may not be reviewed without the leave of a medical appeal tribunal, the adjudication officer shall submit the application to a medical appeal tribunal so that such tribunal may consider whether such leave shall be granted and shall not refer the question to an adjudicating medical authority with a view to review of that decision unless the medical appeal tribunal grant such leave.
 
-#### 42. Procedure of a medical appeal tribunal on receipt of a Commissioner’s decision[^key-ef62dbf4ea0f3848b820a120b2ab8194]
+#### 42. Procedure of a medical appeal tribunal on receipt of a Commissioner’s decision[^c-ef62dbf4ea0f3848b820a120b2ab8194]
 
 (1) Subject to the following provisions of this regulation the provisions of these Regulations apply for the disposal by a medical appeal tribunal of a case remitted to it following an appeal to a Commissioner as if it were an original hearing of an appeal to the medical appeal tribunal.
 
@@ -595,7 +595,7 @@ Where, in the opinion of the adjudication officer, an application made under the
 
 ### SECTION A— — PRESCRIBED DISEASES
 
-#### 43. Construction of Section A[^key-bc21c45441394de67cd2953e7b1ae947]
+#### 43. Construction of Section A[^c-bc21c45441394de67cd2953e7b1ae947]
 
 (1) Regulation 34 applies for the construction of this Section as it applies for the construction of Section E of Part III.
 
@@ -606,7 +606,7 @@ Where, in the opinion of the adjudication officer, an application made under the
 - (a) whether any person is suffering or has suffered from a prescribed disease, is referred to as a diagnosis question;
 - (b) whether a prescribed disease has, in fact, been contracted afresh in a case where that question arises under the provisions of regulation 7 or 8 of the Prescribed Diseases Regulations is referred to as a recrudescence question.
 
-#### 44. Application of Part II of the Administration Act and of these Regulations[^key-5ee2225ccd371db63bafff01a5f575a7]
+#### 44. Application of Part II of the Administration Act and of these Regulations[^c-5ee2225ccd371db63bafff01a5f575a7]
 
 (1) Subject to regulation 52 (review on ground of unforeseen aggravation) the provisions of section 47(5) of the Administration Act (effect of decisions as to a loss of faculty) and of section 44 of that Act (declaration that an accident is an industrial accident) shall not apply in relation to prescribed diseases.
 
@@ -615,7 +615,7 @@ Where, in the opinion of the adjudication officer, an application made under the
 - (a) Part II of the Administration Act, subject to the provisions of this Section and of Schedule 3; and
 - (b) these Regulations, subject, in the case of each of the diseases numbered B6, C15, C17, C18, C22(b), D1, D2, D3, D7, D8, D9, D10, D11 and D12 in Part I of Schedule 1 to the Prescribed Diseases Regulations, to the provisions of Part V of those Regulations, shall apply for the determination of any question arising in connection with a claim for benefit under sections 108, 109 and 110 of the Contributions and Benefits Act in respect of a prescribed disease.
 
-#### 45. Reference of diagnosis and recrudescence questions for medical report[^key-e60542d6e2642214dd11a46313f9411a]
+#### 45. Reference of diagnosis and recrudescence questions for medical report[^c-e60542d6e2642214dd11a46313f9411a]
 
 (1) Subject to paragraph (2), if a diagnosis or recrudescence question arises in any case, the adjudication officer shall forthwith refer that question for report to one or more medical practitioners who, in the case of each of the diseases numbered B6, C15, C17, C18, C22(b), D1, D2, D3, D7, D8, D9, D10, D11 and D12 in Part I of Schedule 1 to the Prescribed Diseases Regulations shall be a specially qualified adjudicating medical practitioner or practitioners and shall have power, if he or they consider it to be necessary, to do any or all of the following, namely—
 
@@ -644,7 +644,7 @@ any recrudescence question arising on such application or further claim instead 
 
 (6) The provisions of this regulation apply to an appeal tribunal as they apply to an adjudication officer with the modification that an appeal tribunal, instead of itself referring a diagnosis or recrudescence question to a medical practitioner in accordance with paragraph (1), shall direct the adjudication officer to refer it to an adjudicating medical authority in accordance with regulation 46.
 
-#### 46. Procedure on receipt of medical report[^key-996ad3b7b29e93210a36b6e6e955f904]
+#### 46. Procedure on receipt of medical report[^c-996ad3b7b29e93210a36b6e6e955f904]
 
 (1) If a diagnosis or recrudescence question has been referred as provided by regulation 45(1), the adjudication officer shall, subject to the provisions of paragraph (4), proceed with the consideration of that question as soon as possible after he has received the report of the medical practitioner or practitioners to whom it was so referred.
 
@@ -657,13 +657,13 @@ any recrudescence question arising on such application or further claim instead 
 
 (4) Subject to the provisions of these Regulations, the provisions of sections 22, 25 to 29, 37 and 69 of the Administration Act shall apply as if a diagnosis or recrudescence question were a question such as is referred to in section 37(1) of that Act and as if references in those sections to the determination of, or to the review of the decision of, such a question included references to the determination of, or to the review of the decision of, a diagnosis or recrudescence question under these Regulations.
 
-#### 47. Restriction of adjudication officer’s power to determine diagnosis and recrudescence questions[^key-8acd04a5e8b9676eab09a502174ca43a]
+#### 47. Restriction of adjudication officer’s power to determine diagnosis and recrudescence questions[^c-8acd04a5e8b9676eab09a502174ca43a]
 
 (1) If, on the consideration of a diagnosis or recrudescence question, the adjudication officer is of the opinion that there arises a disablement question, he shall not determine the diagnosis or recrudescence question but shall refer it to an adjudicating medical authority together with the disablement question.
 
 (2) If a diagnosis question is referred to an adjudicating medical authority under the provisions of regulations 46 or 48, the adjudication officer shall not himself determine any recrudescence question which arises in connection therewith but shall refer it to the adjudicating medical authority together with the diagnosis question.
 
-#### 48. Appeal against decision of adjudication officer[^key-a048ac239d1a68439af86309eab52d50]
+#### 48. Appeal against decision of adjudication officer[^c-a048ac239d1a68439af86309eab52d50]
 
 (1) Where, under the provisions of regulation 45 or 46, an adjudication officer has decided a diagnosis question or a recrudescence question the claimant shall be notified in writing of the decision, of the reasons for it and of his right of appeal under paragraph (2).
 
@@ -673,24 +673,24 @@ any recrudescence question arising on such application or further claim instead 
 
 (4) If a diagnosis or recrudescence question is referred to an adjudicating medical authority to which there is also referred a disablement question and the decision of the adjudicating medical authority on the diagnosis or recrudescence question enables the case to be decided adversely to the claimant, the adjudicating medical authority shall not determine the disablement question.
 
-#### 49. Appeal or reference to a medical appeal tribunal[^key-54db1ce16ded8cf8f184fd26be614c27]
+#### 49. Appeal or reference to a medical appeal tribunal[^c-54db1ce16ded8cf8f184fd26be614c27]
 
 (1) A claimant may appeal the decision of an adjudicating medical authority on a diagnosis or recrudescence question and in that event the case shall be referred to a medical appeal tribunal.
 
 (2) If the adjudication officer is of the opinion, or if the Secretary of State notifies the adjudication officer that he is of the opinion, that any decision of an adjudicating medical authority on a diagnosis or recrudescence question ought to be considered by a medical appeal tribunal, the adjudication officer shall refer the case to a medical appeal tribunal for its consideration and the tribunal may confirm, reverse or vary the decision as on an appeal.
 
-#### 50. Powers of medical appeal tribunal upon determining the question referred[^key-4b5212109656665a2658d1171dd8e011]
+#### 50. Powers of medical appeal tribunal upon determining the question referred[^c-4b5212109656665a2658d1171dd8e011]
 
 Where a diagnosis or recrudescence question is referred to a medical appeal tribunal that tribunal, upon determining the question referred—
 
 - (a) may proceed to determine any diagnosis or recrudescence question which arises in connection therewith and any disablement question which arises in consequence thereof and where a decision on any such question has been given by an adjudicating medical authority, may confirm, reverse or vary that decision; and
 - (b) if it is determined that the disease is a recrudescence of an attack to which an earlier decision of an adjudicating medical authority or a medical appeal tribunal relates, may proceed to review that earlier decision under the provisions of section 47(4) of the Administration Act.
 
-#### 51. Review of previous assessment following recrudescence decision[^key-59d4fd233399dfbdbf82a65a0507b6d6]
+#### 51. Review of previous assessment following recrudescence decision[^c-59d4fd233399dfbdbf82a65a0507b6d6]
 
 Where, by reason of the provisions of regulation 7(4) of the Prescribed Diseases Regulations, the decision on a recrudescence question necessitates the review of a previous assessment of disablement, the adjudicating medical authority may review such previous assessment, as provided by section 47 of the Administration Act, so however that, in any such case, notwithstanding the provisions of subsection (7) of that section, a previous assessment may be reviewed as provided by this regulation at any time without the leave of a medical appeal tribunal.
 
-#### 52. Review on ground of unforeseen aggravation[^key-47dd00ccc7b9bb7f3db3f777813f080e]
+#### 52. Review on ground of unforeseen aggravation[^c-47dd00ccc7b9bb7f3db3f777813f080e]
 
 Section 47(8) of the Administration Act shall have effect as if—
 
@@ -704,7 +704,7 @@ Section 47(8) of the Administration Act shall have effect as if—
   >
   > the adjudicating medical authority shall determine the extent of disablement resulting from the relevant loss of faculty both for the period mentioned in paragraph (a) and any time after that period.
 
-#### 53. Review of decision on diagnosis or recrudescence question[^key-4e31849f547945e7a474863158600532]
+#### 53. Review of decision on diagnosis or recrudescence question[^c-4e31849f547945e7a474863158600532]
 
 (1) Any decision on a diagnosis or recrudescence question of an adjudication officer, adjudicating medical authority or medical appeal tribunal may be reviewed at any time by a medical board if they are satisfied by fresh evidence that the decision was given in ignorance of, or was based on mistake as to, some material fact, so however that a decision of a medical appeal tribunal on a diagnosis or recrudescence question shall not be reviewed by a medical board without the leave of a medical appeal tribunal.
 
@@ -712,7 +712,7 @@ Section 47(8) of the Administration Act shall have effect as if—
 
 (3) Subject to the foregoing provisions of this regulation, a medical board may deal with a case on review in any manner in which it could deal with it on an original reference to it, and regulation 49 shall apply to a decision of a medical board in connection with an application for review as it applies to a decision on an original reference to it.
 
-#### 54. Additional provisions relating to the powers and decisions of specially qualified adjudicating medical practitioners and special medical boards[^key-58a51e412cd6322fd3695d6fc078ee57]
+#### 54. Additional provisions relating to the powers and decisions of specially qualified adjudicating medical practitioners and special medical boards[^c-58a51e412cd6322fd3695d6fc078ee57]
 
 (1) Specially qualified adjudicating medical practitioners and special medical boards shall have power to make or cause to be made a radiological examination of the lungs of the claimant and to obtain the report of a radiologist on the case, and to make or cause to be made serological, lung function and such other tests as they consider necessary and to obtain reports upon the results of such tests.
 
@@ -724,7 +724,7 @@ Section 47(8) of the Administration Act shall have effect as if—
 
 ### SECTION B— — INCOME SUPPORT
 
-#### 55. Notification of decisions in income support cases[^key-8e84b6eac0cd118255aecbb40ce0d69d]
+#### 55. Notification of decisions in income support cases[^c-8e84b6eac0cd118255aecbb40ce0d69d]
 
 (1) Subject to paragraphs (2) to (4) the decision of an adjudication officer on any claim or question relating to income support shall be notified in writing to the claimant who shall at the same time be notified of his right to request a statement of the reasons for that decision and of his right of appeal to an appeal tribunal.
 
@@ -748,7 +748,7 @@ Section 47(8) of the Administration Act shall have effect as if—
 
 (7) If, within the time limited by regulation 3 and Schedule 2 for the bringing of an appeal against an adjudication officer’s decision, the claimant requests a statement of the reasons for that decision he shall be given such a statement in writing and shall again be informed of his right of appeal.
 
-#### 56. Income support and social fund questions not immediately determinable[^key-905642e51787eb12b371df510a19eaeb]
+#### 56. Income support and social fund questions not immediately determinable[^c-905642e51787eb12b371df510a19eaeb]
 
 (1) Where on consideration of a claim or question relating to income support or to payment of maternity expenses from the social fund under Part VIII of the Contributions and Benefits Act it appears to an adjudication officer that the claimant’s entitlement to, or the rate or amount of, such benefit depends on the determination of—
 
@@ -769,7 +769,7 @@ Section 47(8) of the Administration Act shall have effect as if—
 
 ### SECTION C— — REVIEW OF DECISIONS
 
-#### 57. Date from which revised decision has effect on a review[^key-b3cffb4393bbc89101f253f745500aad]
+#### 57. Date from which revised decision has effect on a review[^c-b3cffb4393bbc89101f253f745500aad]
 
 (1) In the case of a review to which either paragraph (2) or paragraph (3) applies, the decision given shall have effect from the date from which the decision being reviewed had effect or from such earlier date as the authority giving the decision being reviewed could have awarded benefit had that authority taken account of the evidence mentioned in paragraph (2) or not overlooked or misconstrued some provision or determination as mentioned in paragraph (3).
 
@@ -788,11 +788,11 @@ Section 47(8) of the Administration Act shall have effect as if—
 
 (5) In this regulation “court” has the same meaning as it has in section 68 of the Administration Act.
 
-#### 58. Review of decisions in cases to which section 69(1) of the Administration Act applies[^key-3798799a719a7db506fe049554394154]
+#### 58. Review of decisions in cases to which section 69(1) of the Administration Act applies[^c-3798799a719a7db506fe049554394154]
 
 In any case to which section 69(1) of the Administration Act applies, the decision given on review shall have effect from the date of the relevant determination within the meaning of that subsection whether the decision which is being reviewed was made before, on or after 9th March 1992.
 
-#### 59. Review of decisions involving payment or increase of benefit other than industrial injuries benefit, disability working allowance, income support or family credit[^key-ca2f2533041ef22c41bb156310b6f906]
+#### 59. Review of decisions involving payment or increase of benefit other than industrial injuries benefit, disability working allowance, income support or family credit[^c-ca2f2533041ef22c41bb156310b6f906]
 
 (1) Where on a review a decision relating to benefit other than industrial injuries benefit, disability working allowance, income support or family credit is revised so as to make benefit payable, or to increase the rate of benefit, then subject to the following provisions of this regulation, the decision given on the review shall have effect from such date as may be specified in the decision, being a date not earlier than—
 
@@ -841,7 +841,7 @@ In any case to which section 69(1) of the Administration Act applies, the decisi
 
 (10) In any case to which paragraph (1) applies, the decision on review shall not in any event have effect for any period before the date on which the original decision took effect or would have taken effect if any award had been made.
 
-#### 60. Review of decisions involving payment or increase of industrial injuries benefit[^key-b1fa211cfcd79750a1733788acb5b813]
+#### 60. Review of decisions involving payment or increase of industrial injuries benefit[^c-b1fa211cfcd79750a1733788acb5b813]
 
 (1) Except in a case to which regulation 57(2) or (3) or regulation 58 applies, where on a review a decision of an adjudication officer, an appeal tribunal or a Commissioner is revised so as to make industrial injuries benefit payable or to increase the rate of such benefit, the decision given on review shall, subject to paragraph (2), have effect as from the date of the application for the review or from such earlier date as appears to the person or tribunal determining the review to be reasonable in the circumstances.
 
@@ -852,18 +852,18 @@ In any case to which section 69(1) of the Administration Act applies, the decisi
 
 (3) Where a decision is reviewed at the instance of an adjudication officer under section 25(1) of the Administration Act, the date on which it was first decided by the adjudication officer that the decision should be reviewed shall be treated for the purposes of this regulation as the date of application for review.
 
-#### 61. Review of medical decisions on grounds of ignorance of or mistake as to a material fact[^key-556a30e5a924f638062447a2893174e0]
+#### 61. Review of medical decisions on grounds of ignorance of or mistake as to a material fact[^c-556a30e5a924f638062447a2893174e0]
 
 A decision of an adjudicating medical authority or a medical appeal tribunal may not be reviewed under section 47(1) of the Administration Act unless the adjudicating medical authority is satisfied as mentioned in that subsection by fresh evidence.
 
-#### 62. Period to be taken into account by assessments revised on ground of unforeseen aggravation[^key-65d309c8d5756fb05794f07707c0720f]
+#### 62. Period to be taken into account by assessments revised on ground of unforeseen aggravation[^c-65d309c8d5756fb05794f07707c0720f]
 
 On review of any assessment under section 47(4) of the Administration Act (review on ground of unforeseen aggravation) the period to be taken into account by any revised assessment may include any period not exceeding 3 months before—
 
 - (a) if the review was in consequence of an application by a claimant, or a person acting on his behalf, the date of that application; or
 - (b) if the review was in consequence of a decision on a recrudescence question, within the meaning of regulation 43(3)(b) given under regulation 7(4) of the Prescribed Diseases Regulations (recrudescence of a prescribed disease), the date of the claim on which that decision was given, if the medical board are satisfied that throughout that period there has been unforeseen aggravation of the results of the relevant injury since the making of the assessment under review.
 
-#### 63. Review in income support cases[^key-c7cb173368e42494e3835bc7d1eee5e4]
+#### 63. Review in income support cases[^c-c7cb173368e42494e3835bc7d1eee5e4]
 
 (1) Except in a case to which regulation 57(2) or (3) or regulation 58 applies, a determination on a claim or question relating to income support shall not be revised on review under section 25 of the Administration Act so as to make income support payable or to increase the amount of income support payable in respect of—
 
@@ -890,15 +890,15 @@ On review of any assessment under section 47(4) of the Administration Act (revie
 
 (6) In paragraph (5), “nursing home” and “residential care home” have the same meanings as they have in regulation 19 of the Income Support Regulations[^f00024].
 
-#### 64. Repayment of student loan not a change of circumstances[^key-0b3fff764eb6c926e40abd1174335fb8]
+#### 64. Repayment of student loan not a change of circumstances[^c-0b3fff764eb6c926e40abd1174335fb8]
 
 The repayment of a loan to which regulation 66A of the Income Support Regulations[^f00025] or regulation 42A of the Family Credit (General) Regulations 1987[^f00026] (treatment of student loans) applies shall not be treated as a relevant change of circumstances for the purposes of section 25(1)(b) and (c) of the Administration Act.
 
-#### 65. Review in family credit cases[^key-ef1f2f049d29fffa23d1ac764db14e69]
+#### 65. Review in family credit cases[^c-ef1f2f049d29fffa23d1ac764db14e69]
 
 Where a review under section 25(1)(a) of the Administration Act of a decision relating to family credit arises from a disclosure of a material fact of which the person who claimed family credit was, or could reasonably have been expected to be, aware but of which he previously failed to furnish information to the Secretary of State, then if that review would result in either a new award of family credit or an increase in the amount of family credit payable, such new award or increase shall not be payable in respect of any period earlier than 12 months before the date on which that person first furnished that information.
 
-#### 66. Review in disability working allowance cases[^key-bf48b43bd061194c410f3f8fd221c0a8]
+#### 66. Review in disability working allowance cases[^c-bf48b43bd061194c410f3f8fd221c0a8]
 
 (1) Where a claim for disability working allowance has been refused and either—
 
@@ -909,13 +909,13 @@ then, if that review results in an award of disability working allowance, the de
 
 (2) Where a review under section 30(1) or (5)(a) or section 35(3)(a) of the Administration Act of a decision relating to disability working allowance arises from a disclosure of a material fact of which the person who claimed disability working allowance was, or could reasonably have been expected to be, aware but of which he previously failed to furnish information to the Secretary of State, then if that review would result in either a new award of disability working allowance or an increase in the amount of disability working allowance payable, the decision on review shall not have effect in respect of any period earlier than 12 months before the date on which that person first furnished that information.
 
-#### 67. Review in social fund maternity, funeral or heating expenses cases[^key-2d7604ddcf99d095b1b8d1ac1e794cca]
+#### 67. Review in social fund maternity, funeral or heating expenses cases[^c-2d7604ddcf99d095b1b8d1ac1e794cca]
 
 Except in a case to which regulation 57(2) or (3) or regulation 58 applies, a determination on a claim or question relating to maternity or funeral expenses or expenses for heating which appear to the Secretary of State to have been or to be likely to be incurred in cold weather out of the social fund under Part VIII of the Contributions and Benefits Act and section 66 of the Administration Act shall not be revised on review under sections 25 to 29 and 69 of the Administration Act so as to make such expenses payable or to increase the amount of such expenses payable in respect of a determination of a claim for such expenses made more than 12 months before the date on which the review was requested or, where no request is made, the date of review.
 
 ## PART V — TRANSITIONAL PROVISIONS AND REVOCATIONS
 
-### 68. Transitional provisions[^key-f0bfea946ff558c8a59cfd65b8c6e923]
+### 68. Transitional provisions[^c-f0bfea946ff558c8a59cfd65b8c6e923]
 
 (1) The Social Security (Adjudication) Regulations 1986[^f00027] as originally made, shall continue to apply to the adjudication of any claim or question under the National Assistance Act 1948[^f00028] or the Supplementary Benefit Act 1966[^f00029] as they apply to a corresponding claim or question under the Supplementary Benefits Act 1976[^f00030] and to the adjudication of any claim or question under the Supplementary Benefits Act 1976 as if the present Regulations had not been made.
 
@@ -933,7 +933,7 @@ Except in a case to which regulation 57(2) or (3) or regulation 58 applies, a de
 - (d) a clerk to any National Insurance Local Tribunal or Supplementary Benefit Appeal Tribunal shall be deemed to have been assigned by the President as a clerk to the appeal tribunal for the area in question;
 - (e) a member of a pneumoconiosis medical panel (under regulation 49 of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations 1980[^f00034]) shall be deemed to have been appointed as a specially qualified adjudicating medical practitioner.
 
-### 69. Revocations[^key-fb7ed4ff925885c8f0d7a5d4cb276f8d]
+### 69. Revocations[^c-fb7ed4ff925885c8f0d7a5d4cb276f8d]
 
 The Regulations set out in column (1) of Schedule 4 are revoked to the extent mentioned in column (3) of that Schedule.
 
@@ -947,13 +947,13 @@ Department of Social Security
 
 13th July 1995
 
-## SCHEDULE 1 — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS[^key-f3da9e56a34f3ac93989c6982ae41708]
+## SCHEDULE 1 — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS[^c-f3da9e56a34f3ac93989c6982ae41708]
 
 | *Column (1)* | *Column (2)* |
 | --- | --- |
 | Social Security Administration Act 1992[^f00035] | section 17(3) section 20(3)(b) section 22(2) and (4) section 23(9) and (10) section 26(3) section 27(1) section 30 section 31 section 32(8) section 33 section 34(4) section 35(10) section 45 section 46(2) and (3) section 47(3), (7) and (9) section 48(3) and (4) section 49 section 50(6) section 55(1) section 58 section 59 section 61(1), (2) and (3) section 62(1) and (2) section 70(1) section 159 section 189 section 190(3) section 191 Schedule 3 Schedule 10, Paragraph 3 |
 
-## SCHEDULE 2 — TIME LIMITS FOR MAKING APPLICATIONS, APPEALS OR REFERENCES[^key-c0989efa7ad5f4d35b39fb0252d420aa]
+## SCHEDULE 2 — TIME LIMITS FOR MAKING APPLICATIONS, APPEALS OR REFERENCES[^c-c0989efa7ad5f4d35b39fb0252d420aa]
 
 Regulation 3
 
@@ -975,14 +975,14 @@ Regulation 3
 
 Regulation 44(2)
 
-**1.**[^key-aa1296e5afa196771eb9820aa555f8bc] Section 60(4) of the Administration Act shall have effect as if for the words “an accident” there were substituted the words “a prescribed disease”; as if for the words “an injury resulted in whole or in part from the accident” there were substituted the words “a person suffered from a prescribed disease”; as if for the words “that accident” there were substituted the words “that disease”; and as if for the words “the injury did so result” there were substituted the words “the person did so suffer”.
+**1.**[^c-aa1296e5afa196771eb9820aa555f8bc] Section 60(4) of the Administration Act shall have effect as if for the words “an accident” there were substituted the words “a prescribed disease”; as if for the words “an injury resulted in whole or in part from the accident” there were substituted the words “a person suffered from a prescribed disease”; as if for the words “that accident” there were substituted the words “that disease”; and as if for the words “the injury did so result” there were substituted the words “the person did so suffer”.
 
-**2.**[^key-5d3336772562ddf3f9752541b7f59b56] There shall be included in the questions to be determined under the Administration Act any question—
+**2.**[^c-5d3336772562ddf3f9752541b7f59b56] There shall be included in the questions to be determined under the Administration Act any question—
 
 - (a) whether a person is suffering or has suffered from a prescribed disease or injury;
 - (b) whether a prescribed disease or injury, suffered by a person who has previously been awarded benefit under the National Insurance (Industrial Injuries) Act 1946[^f00036], under the National Insurance (Industrial Injuries) Act 1965[^f00037], under the Social Security Act 1975[^f00038] or under the Acts or who is or has been in receipt of compensation under the Workmen’s Compensation Acts 1925 to 1945 or under any contracting out scheme duly certified thereunder in respect of the same disease or injury, has been contracted or received afresh (if and in so far as regulations made under sections 108, 109 or 110 of the Contributions and Benefits Act or section 62(1) of the Administration Act necessitate the determination of that question); which shall, where the question arises in connection with a claim for or award of sickness benefit made by virtue of section 102 of the Contributions and Benefits Act or disablement benefit, be determined as provided by regulations, by an adjudication officer in the light of medical advice or by a medical board or a medical appeal tribunal, so however that no appeal shall lie under the provisions of section 22 or 23 of the Administration Act from a decision of an adjudication officer on any such question.
 
-## SCHEDULE 4 — REVOCATIONS[^key-603497cd4a27ce4a274e999c1b066c4f]
+## SCHEDULE 4 — REVOCATIONS[^c-603497cd4a27ce4a274e999c1b066c4f]
 
 Regulation 69
 
@@ -1028,7 +1028,7 @@ These Regulations do not impose a charge on business.
 
 [^f00001]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-6f4d6fe2935d60c5f7d0c085c1d2b5c2]: Commencement: Reg. 1 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-6f4d6fe2935d60c5f7d0c085c1d2b5c2]: Commencement: Reg. 1 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
 [^f00002]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -1046,147 +1046,147 @@ These Regulations do not impose a charge on business.
 
 [^f00009]: Footnote: Section 41 was amended by paragraph 36 of Schedule 3 to the Tribunals and Inquiries Act [1992 (c. 53)](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-848516219c9d8d21a3e3663cefa0016a]: Commencement: Reg. 2 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-848516219c9d8d21a3e3663cefa0016a]: Commencement: Reg. 2 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-9d533935634d1987aaafaac1cafd0a8e]: Commencement: Reg. 3 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-9d533935634d1987aaafaac1cafd0a8e]: Commencement: Reg. 3 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-d538f0914975bea86c60f868b2490b69]: Commencement: Reg. 4 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-d538f0914975bea86c60f868b2490b69]: Commencement: Reg. 4 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-5756a2773717f232c0bafc1e6c1de60f]: Commencement: Reg. 5 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-5756a2773717f232c0bafc1e6c1de60f]: Commencement: Reg. 5 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-b36accc58b35553ec29c01adeff3307f]: Commencement: Reg. 6 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-b36accc58b35553ec29c01adeff3307f]: Commencement: Reg. 6 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-f798389a4d544ecee01319af709cbd15]: Commencement: Reg. 7 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-f798389a4d544ecee01319af709cbd15]: Commencement: Reg. 7 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-28cb7e03dba9a881799b24c2548549b2]: Commencement: Reg. 8 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-28cb7e03dba9a881799b24c2548549b2]: Commencement: Reg. 8 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-598e35613dc3a7f7d8c0c92a8e1e9f61]: Commencement: Reg. 9 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-598e35613dc3a7f7d8c0c92a8e1e9f61]: Commencement: Reg. 9 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-5134bc3400ea80c32f7a0eda80011ad9]: Commencement: Reg. 10 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-5134bc3400ea80c32f7a0eda80011ad9]: Commencement: Reg. 10 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-d8c2fd43940a3cdfd339d101c43971ef]: Commencement: Reg. 11 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-d8c2fd43940a3cdfd339d101c43971ef]: Commencement: Reg. 11 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-8c75d824d1ae264719c4bee9589ded6e]: Commencement: Reg. 12 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-8c75d824d1ae264719c4bee9589ded6e]: Commencement: Reg. 12 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-17efac4dafedc7cf0d7c3af753435846]: Commencement: Reg. 13 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-17efac4dafedc7cf0d7c3af753435846]: Commencement: Reg. 13 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
 [^f00010]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-41d9803a5efc13d74fa2a3e1cf4a5e10]: Commencement: Reg. 14 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-41d9803a5efc13d74fa2a3e1cf4a5e10]: Commencement: Reg. 14 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-5c06316f66109de3b88982a89cd37a54]: Commencement: Reg. 15 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-5c06316f66109de3b88982a89cd37a54]: Commencement: Reg. 15 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-f29b81dc4b26f8cebc103ff85f26b097]: Commencement: Reg. 16 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-f29b81dc4b26f8cebc103ff85f26b097]: Commencement: Reg. 16 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-025732fc6183bb8d0a6a184317b53308]: Commencement: Reg. 17 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-025732fc6183bb8d0a6a184317b53308]: Commencement: Reg. 17 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-7c1bd3dd00868042190b9e710b695ca6]: Commencement: Reg. 18 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-7c1bd3dd00868042190b9e710b695ca6]: Commencement: Reg. 18 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-2d0b6198fe305d8b468ac0c5eca9cd5f]: Commencement: Reg. 19 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-2d0b6198fe305d8b468ac0c5eca9cd5f]: Commencement: Reg. 19 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-36e5b3d0fb03db4acfbe3b694d655dff]: Commencement: Reg. 20 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-36e5b3d0fb03db4acfbe3b694d655dff]: Commencement: Reg. 20 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-e4316bbf03893c5e8aa96b8f46bad572]: Commencement: Reg. 21 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-e4316bbf03893c5e8aa96b8f46bad572]: Commencement: Reg. 21 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
 [^f00011]: Footnote: S.I. [1976/963](https://www.legislation.gov.uk/uksi/1976/963); the relevant amending instrument is S.I. [1976/1758](https://www.legislation.gov.uk/uksi/1976/1758).
 
-[^key-e4ea047999baaa5c7af8b48ac402a886]: Commencement: Reg. 22 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-e4ea047999baaa5c7af8b48ac402a886]: Commencement: Reg. 22 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-aab5483737d7e9614726e74b7a103856]: Commencement: Reg. 23 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-aab5483737d7e9614726e74b7a103856]: Commencement: Reg. 23 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-26bca7f1d25f7ef38ff69a874a480452]: Commencement: Reg. 24 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-26bca7f1d25f7ef38ff69a874a480452]: Commencement: Reg. 24 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-6237143021321a05cd9cac2c978bdca7]: Commencement: Reg. 25 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-6237143021321a05cd9cac2c978bdca7]: Commencement: Reg. 25 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-5bade7facd389382df48caccf8d0dd9e]: Commencement: Reg. 26 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-5bade7facd389382df48caccf8d0dd9e]: Commencement: Reg. 26 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-5bb63120534492aa27d3029509583645]: Commencement: Reg. 27 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-5bb63120534492aa27d3029509583645]: Commencement: Reg. 27 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
 [^f00012]: Footnote: *See* section 65(3) of the Contributions and Benefits Act.
 
 [^f00013]: Footnote: *See* sections 72(4) and 73(11) of the Contributions and Benefits Act.
 
-[^key-fb2b7af90893f4dd9f5e64158dc414f1]: Commencement: Reg. 28 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-fb2b7af90893f4dd9f5e64158dc414f1]: Commencement: Reg. 28 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-24b8ab6444883f5d99fe63f4240ff2f3]: Commencement: Reg. 29 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-24b8ab6444883f5d99fe63f4240ff2f3]: Commencement: Reg. 29 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-4d5e949461ab280c8c56d1de52a50d02]: Commencement: Reg. 30 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-4d5e949461ab280c8c56d1de52a50d02]: Commencement: Reg. 30 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-b7bac41de76651ff2aed26854cc4f742]: Commencement: Reg. 31 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-b7bac41de76651ff2aed26854cc4f742]: Commencement: Reg. 31 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-ddaa9204c41acca1951f95d070e791f4]: Commencement: Reg. 32 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-ddaa9204c41acca1951f95d070e791f4]: Commencement: Reg. 32 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
 [^f00014]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-797f6dd3762a0f601b8b8fcc6910a0de]: Commencement: Reg. 33 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-797f6dd3762a0f601b8b8fcc6910a0de]: Commencement: Reg. 33 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-ce3acdcd9107ed16e01f6df81a6fca38]: Commencement: Reg. 34 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-ce3acdcd9107ed16e01f6df81a6fca38]: Commencement: Reg. 34 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-da3722a54aef7856f419f7a8c785f93b]: Commencement: Reg. 35 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-da3722a54aef7856f419f7a8c785f93b]: Commencement: Reg. 35 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-021b9f542e44f6b98090e06c173968dc]: Commencement: Reg. 36 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-021b9f542e44f6b98090e06c173968dc]: Commencement: Reg. 36 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
 [^f00015]: Footnote: Relevant amending instruments are S.I. [1986/1374](https://www.legislation.gov.uk/uksi/1986/1374), [1987/335](https://www.legislation.gov.uk/uksi/1987/335), [1991/1938](https://www.legislation.gov.uk/uksi/1991/1938), [1993/862](https://www.legislation.gov.uk/uksi/1993/862), [1985](https://www.legislation.gov.uk/uksi/1993/1985).
 
-[^key-c663cb1dbab7f27706bec5f3634fb529]: Commencement: Reg. 37 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-c663cb1dbab7f27706bec5f3634fb529]: Commencement: Reg. 37 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-1ac6673db0e8c45216cd54fa3ce26b1b]: Commencement: Reg. 38 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-1ac6673db0e8c45216cd54fa3ce26b1b]: Commencement: Reg. 38 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-142f3d131547d6e78fc8093cda6cc408]: Commencement: Reg. 39 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-142f3d131547d6e78fc8093cda6cc408]: Commencement: Reg. 39 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-356a7b6b2f2850e3d44deebe087cf00e]: Commencement: Reg. 40 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-356a7b6b2f2850e3d44deebe087cf00e]: Commencement: Reg. 40 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-731f1e82e6a6304354b76077d8a4a914]: Commencement: Reg. 41 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-731f1e82e6a6304354b76077d8a4a914]: Commencement: Reg. 41 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-ef62dbf4ea0f3848b820a120b2ab8194]: Commencement: Reg. 42 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-ef62dbf4ea0f3848b820a120b2ab8194]: Commencement: Reg. 42 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-bc21c45441394de67cd2953e7b1ae947]: Commencement: Reg. 43 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-bc21c45441394de67cd2953e7b1ae947]: Commencement: Reg. 43 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-5ee2225ccd371db63bafff01a5f575a7]: Commencement: Reg. 44 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-5ee2225ccd371db63bafff01a5f575a7]: Commencement: Reg. 44 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-e60542d6e2642214dd11a46313f9411a]: Commencement: Reg. 45 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-e60542d6e2642214dd11a46313f9411a]: Commencement: Reg. 45 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-996ad3b7b29e93210a36b6e6e955f904]: Commencement: Reg. 46 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-996ad3b7b29e93210a36b6e6e955f904]: Commencement: Reg. 46 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-8acd04a5e8b9676eab09a502174ca43a]: Commencement: Reg. 47 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-8acd04a5e8b9676eab09a502174ca43a]: Commencement: Reg. 47 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-a048ac239d1a68439af86309eab52d50]: Commencement: Reg. 48 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-a048ac239d1a68439af86309eab52d50]: Commencement: Reg. 48 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-54db1ce16ded8cf8f184fd26be614c27]: Commencement: Reg. 49 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-54db1ce16ded8cf8f184fd26be614c27]: Commencement: Reg. 49 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-4b5212109656665a2658d1171dd8e011]: Commencement: Reg. 50 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-4b5212109656665a2658d1171dd8e011]: Commencement: Reg. 50 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-59d4fd233399dfbdbf82a65a0507b6d6]: Commencement: Reg. 51 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-59d4fd233399dfbdbf82a65a0507b6d6]: Commencement: Reg. 51 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-47dd00ccc7b9bb7f3db3f777813f080e]: Commencement: Reg. 52 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-47dd00ccc7b9bb7f3db3f777813f080e]: Commencement: Reg. 52 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-4e31849f547945e7a474863158600532]: Commencement: Reg. 53 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-4e31849f547945e7a474863158600532]: Commencement: Reg. 53 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-58a51e412cd6322fd3695d6fc078ee57]: Commencement: Reg. 54 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-58a51e412cd6322fd3695d6fc078ee57]: Commencement: Reg. 54 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-8e84b6eac0cd118255aecbb40ce0d69d]: Commencement: Reg. 55 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-8e84b6eac0cd118255aecbb40ce0d69d]: Commencement: Reg. 55 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
 [^f00016]: Footnote: S.I. [1987/1969](https://www.legislation.gov.uk/uksi/1987/1969).
 
-[^key-905642e51787eb12b371df510a19eaeb]: Commencement: Reg. 56 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-905642e51787eb12b371df510a19eaeb]: Commencement: Reg. 56 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
 [^f00017]: Footnote: Regulation 10A was inserted by S.I. [1989/1323](https://www.legislation.gov.uk/uksi/1989/1323) and amended by S.I. [1992/2804](https://www.legislation.gov.uk/uksi/1992/2804).
 
-[^key-b3cffb4393bbc89101f253f745500aad]: Commencement: Reg. 57 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-b3cffb4393bbc89101f253f745500aad]: Commencement: Reg. 57 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-3798799a719a7db506fe049554394154]: Commencement: Reg. 58 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-3798799a719a7db506fe049554394154]: Commencement: Reg. 58 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-ca2f2533041ef22c41bb156310b6f906]: Commencement: Reg. 59 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-ca2f2533041ef22c41bb156310b6f906]: Commencement: Reg. 59 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-b1fa211cfcd79750a1733788acb5b813]: Commencement: Reg. 60 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-b1fa211cfcd79750a1733788acb5b813]: Commencement: Reg. 60 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
 [^f00018]: Footnote: [1972 c. 57](https://www.legislation.gov.uk/ukpga/1972/57).
 
-[^key-556a30e5a924f638062447a2893174e0]: Commencement: Reg. 61 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-556a30e5a924f638062447a2893174e0]: Commencement: Reg. 61 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-65d309c8d5756fb05794f07707c0720f]: Commencement: Reg. 62 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-65d309c8d5756fb05794f07707c0720f]: Commencement: Reg. 62 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-c7cb173368e42494e3835bc7d1eee5e4]: Commencement: Reg. 63 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-c7cb173368e42494e3835bc7d1eee5e4]: Commencement: Reg. 63 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
 [^f00019]: Footnote: Relevant amending instruments are S.I. [1988/910](https://www.legislation.gov.uk/uksi/1988/910), [1989/1678](https://www.legislation.gov.uk/uksi/1989/1678), [1991/387](https://www.legislation.gov.uk/uksi/1991/387).
 
@@ -1200,19 +1200,19 @@ These Regulations do not impose a charge on business.
 
 [^f00024]: Footnote: Relevant amending instruments are S.I. [1988/663](https://www.legislation.gov.uk/uksi/1988/663), [1445](https://www.legislation.gov.uk/uksi/1988/1445), [2022](https://www.legislation.gov.uk/uksi/1988/2022), [1989/1678](https://www.legislation.gov.uk/uksi/1989/1678), [1991/1033](https://www.legislation.gov.uk/uksi/1991/1033), [1992/3147](https://www.legislation.gov.uk/uksi/1992/3147), [1993/2119](https://www.legislation.gov.uk/uksi/1993/2119).
 
-[^key-0b3fff764eb6c926e40abd1174335fb8]: Commencement: Reg. 64 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-0b3fff764eb6c926e40abd1174335fb8]: Commencement: Reg. 64 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
 [^f00025]: Footnote: Regulation 66A was inserted by S.I. [1990/1549](https://www.legislation.gov.uk/uksi/1990/1549); relevant amending instruments are S.I. [1991/236](https://www.legislation.gov.uk/uksi/1991/236), [1559](https://www.legislation.gov.uk/uksi/1991/1559).
 
 [^f00026]: Footnote: S.I. [1987/1973](https://www.legislation.gov.uk/uksi/1987/1973); relevant amending instruments are S.I. [1990/1549](https://www.legislation.gov.uk/uksi/1990/1549), [1991/1520](https://www.legislation.gov.uk/uksi/1991/1520).
 
-[^key-ef1f2f049d29fffa23d1ac764db14e69]: Commencement: Reg. 65 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-ef1f2f049d29fffa23d1ac764db14e69]: Commencement: Reg. 65 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-bf48b43bd061194c410f3f8fd221c0a8]: Commencement: Reg. 66 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-bf48b43bd061194c410f3f8fd221c0a8]: Commencement: Reg. 66 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-2d7604ddcf99d095b1b8d1ac1e794cca]: Commencement: Reg. 67 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-2d7604ddcf99d095b1b8d1ac1e794cca]: Commencement: Reg. 67 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-f0bfea946ff558c8a59cfd65b8c6e923]: Commencement: Reg. 68 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-f0bfea946ff558c8a59cfd65b8c6e923]: Commencement: Reg. 68 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
 [^f00027]: Footnote: S.I. [1986/2218](https://www.legislation.gov.uk/uksi/1986/2218); the Regulations as originally made were saved with respect to the adjudication of claims and questions under the Supplementary Benefits Act 1976 by S.I. [1987/1970](https://www.legislation.gov.uk/uksi/1987/1970) regulation 13.
 
@@ -1230,17 +1230,17 @@ These Regulations do not impose a charge on business.
 
 [^f00034]: Footnote: S.I. [1980/377](https://www.legislation.gov.uk/uksi/1980/377).
 
-[^key-fb7ed4ff925885c8f0d7a5d4cb276f8d]: Commencement: Reg. 69 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-fb7ed4ff925885c8f0d7a5d4cb276f8d]: Commencement: Reg. 69 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-f3da9e56a34f3ac93989c6982ae41708]: Commencement: Sch. 1 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-f3da9e56a34f3ac93989c6982ae41708]: Commencement: Sch. 1 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
 [^f00035]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-c0989efa7ad5f4d35b39fb0252d420aa]: Commencement: Sch. 2 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-c0989efa7ad5f4d35b39fb0252d420aa]: Commencement: Sch. 2 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-aa1296e5afa196771eb9820aa555f8bc]: Commencement: Sch. 3 para. 1 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-aa1296e5afa196771eb9820aa555f8bc]: Commencement: Sch. 3 para. 1 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
-[^key-5d3336772562ddf3f9752541b7f59b56]: Commencement: Sch. 3 para. 2 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-5d3336772562ddf3f9752541b7f59b56]: Commencement: Sch. 3 para. 2 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
 
 [^f00036]: Footnote: [1946 c. 62](https://www.legislation.gov.uk/ukpga/1946/62).
 
@@ -1248,4 +1248,4 @@ These Regulations do not impose a charge on business.
 
 [^f00038]: Footnote: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14).
 
-[^key-603497cd4a27ce4a274e999c1b066c4f]: Commencement: Sch. 4 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)
+[^c-603497cd4a27ce4a274e999c1b066c4f]: Commencement: Sch. 4 in force at 10.8.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1801/regulation/1/1)

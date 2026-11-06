@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-7bb836457d3eaeda3ab53beaeddf57c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-7bb836457d3eaeda3ab53beaeddf57c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-34cff77a63320852a751bb9a894b4fa0] Any income, so far as it falls within Chapter 2 (receipts from intellectual property) and Chapter 3 (films and sound recordings: non-trade businesses), is dealt with under Chapter 3.
+(2)[^c-34cff77a63320852a751bb9a894b4fa0] Any income, so far as it falls within Chapter 2 (receipts from intellectual property) and Chapter 3 (films and sound recordings: non-trade businesses), is dealt with under Chapter 3.
 
 ## Annotations
 
-[^key-7bb836457d3eaeda3ab53beaeddf57c3]: Textual amendment: [S. 576(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/576/1) omitted (with effect in accordance with s. 20(12) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 20(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/4)[(12)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/12)
+[^c-7bb836457d3eaeda3ab53beaeddf57c3]: Textual amendment: [S. 576(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/576/1) omitted (with effect in accordance with s. 20(12) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 20(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/4)[(12)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/12)
 
-[^key-34cff77a63320852a751bb9a894b4fa0]: Textual amendment: S. 576(2): s. 576 renumbered as s. 576(2) (with effect in accordance with Sch. 3 para. 7 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/3/paragraph/3/2)
+[^c-34cff77a63320852a751bb9a894b4fa0]: Textual amendment: S. 576(2): s. 576 renumbered as s. 576(2) (with effect in accordance with Sch. 3 para. 7 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/3/paragraph/3/2)

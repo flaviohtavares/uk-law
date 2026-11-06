@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 149. Compulsory supervision orders etc.: further provision[^key-c8c8bca554ab9e6fdefaa44c850e55e8]
+## 149. Compulsory supervision orders etc.: further provision[^c-c8c8bca554ab9e6fdefaa44c850e55e8]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8c8bca554ab9e6fdefaa44c850e55e8]: Commencement: S. 149 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-c8c8bca554ab9e6fdefaa44c850e55e8]: Commencement: S. 149 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

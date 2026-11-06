@@ -24,15 +24,15 @@ Section 59
 
 ### PART 1 — England and Wales, and Northern Ireland
 
-**1.**[^key-2e46cc07b7d11cbb4b584a65534baf45] An offence under section 2 of the Obscene Publications Act 1959 relating to an obscene article tending to deprave and corrupt others by encouraging them to commit an offence specified in paragraph 2, 4, 5, 7 or 8.
+**1.**[^c-2e46cc07b7d11cbb4b584a65534baf45] An offence under section 2 of the Obscene Publications Act 1959 relating to an obscene article tending to deprave and corrupt others by encouraging them to commit an offence specified in paragraph 2, 4, 5, 7 or 8.
 
-**2.**[^key-5fc9bf3cc9d63d11b5648b13600faf63] An offence under section 1 of the Protection of Children Act 1978 (indecent photographs of children).
+**2.**[^c-5fc9bf3cc9d63d11b5648b13600faf63] An offence under section 1 of the Protection of Children Act 1978 (indecent photographs of children).
 
-**3.**[^key-9d0ff78bd64d1525080cd3207466edb6] An offence under Article 3 of the Protection of Children (Northern Ireland) Order 1978 ([S.I. 1978/1047 (N.I. 17)](https://www.legislation.gov.uk/nisi/1978/1047)) (indecent photographs of children).
+**3.**[^c-9d0ff78bd64d1525080cd3207466edb6] An offence under Article 3 of the Protection of Children (Northern Ireland) Order 1978 ([S.I. 1978/1047 (N.I. 17)](https://www.legislation.gov.uk/nisi/1978/1047)) (indecent photographs of children).
 
-**4.**[^key-d966d733f6b96c1e872e33a8631e0321] An offence under section 160 of the Criminal Justice Act 1988 (possession of indecent photograph of a child).
+**4.**[^c-d966d733f6b96c1e872e33a8631e0321] An offence under section 160 of the Criminal Justice Act 1988 (possession of indecent photograph of a child).
 
-**5.**[^key-03d7486cdd862ea5266a8b616814a37c] An offence under any of the following provisions of the Sexual Offences Act 2003—
+**5.**[^c-03d7486cdd862ea5266a8b616814a37c] An offence under any of the following provisions of the Sexual Offences Act 2003—
 
 - (a) section 8 (causing or inciting a child under 13 to engage in sexual activity);
 - (b) section 10 (causing or inciting a child to engage in sexual activity);
@@ -47,7 +47,7 @@ Section 59
 - (k) section 49 (controlling a child in relation to sexual exploitation);
 - (l) section 50 (arranging or facilitating sexual exploitation of a child).
 
-**6.**[^key-ae1cba76c388e06de0ed0e1ec5a1cefc] An offence under any of the following provisions of the Sexual Offences (Northern Ireland) Order 2008 ([S.I. 2008/1769 (N.I. 2)](https://www.legislation.gov.uk/nisi/2008/1769))—
+**6.**[^c-ae1cba76c388e06de0ed0e1ec5a1cefc] An offence under any of the following provisions of the Sexual Offences (Northern Ireland) Order 2008 ([S.I. 2008/1769 (N.I. 2)](https://www.legislation.gov.uk/nisi/2008/1769))—
 
 - (a) Article 15 (causing or inciting a child under 13 to engage in sexual activity);
 - (b) Article 17 (causing or inciting a child to engage in sexual activity);
@@ -62,11 +62,11 @@ Section 59
 - (k) Article 39 (controlling a child prostitute or a child involved in pornography);
 - (l) Article 40 (arranging or facilitating child prostitution or pornography).
 
-**7.**[^key-761446ecffa50fd9ac709544384254f9] An offence under section 62 of the Coroners and Justice Act 2009 (possession of prohibited image of a child).
+**7.**[^c-761446ecffa50fd9ac709544384254f9] An offence under section 62 of the Coroners and Justice Act 2009 (possession of prohibited image of a child).
 
-**8.**[^key-5eb087131516134ce7e9cad22232fa54] An offence under section 69 of the Serious Crime Act 2015 (possession of paedophile manual).
+**8.**[^c-5eb087131516134ce7e9cad22232fa54] An offence under section 69 of the Serious Crime Act 2015 (possession of paedophile manual).
 
-#### 9. Inchoate offences[^key-55407a61f4927a91853bd85a1623ec9f]
+#### 9. Inchoate offences[^c-55407a61f4927a91853bd85a1623ec9f]
 
 (1) An offence of attempting or conspiring to commit an offence specified in this Part.
 
@@ -76,12 +76,12 @@ Section 59
 
 ### PART 2 — Scotland
 
-**10.**[^key-e10d9726b25f6ef272d4c65ef0d90bff] An offence under either of the following provisions of the Civic Government (Scotland) Act 1982—
+**10.**[^c-e10d9726b25f6ef272d4c65ef0d90bff] An offence under either of the following provisions of the Civic Government (Scotland) Act 1982—
 
 - (a) section 52 (indecent photographs etc of children);
 - (b) section 52A (possession of indecent photographs of children).
 
-**11.**[^key-eaa9b70d7f90cb5790dee21f44ff6d13] An offence under any of the following provisions of the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005—
+**11.**[^c-eaa9b70d7f90cb5790dee21f44ff6d13] An offence under any of the following provisions of the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005—
 
 - (a) section 1 (meeting a child following certain preliminary contact);
 - (b) section 9 (paying for sexual services of a child);
@@ -89,7 +89,7 @@ Section 59
 - (d) section 11 (controlling a child providing sexual services or involved in pornography);
 - (e) section 12 (arranging or facilitating provision by child of sexual services or child pornography).
 
-**12.**[^key-641e9075454618b7f3e8048f38babf2e] An offence under any of the following provisions of the Sexual Offences (Scotland) Act 2009—
+**12.**[^c-641e9075454618b7f3e8048f38babf2e] An offence under any of the following provisions of the Sexual Offences (Scotland) Act 2009—
 
 - (a) section 21 (causing a young child to participate in a sexual activity);
 - (b) section 23 (causing a young child to look at a sexual image);
@@ -99,7 +99,7 @@ Section 59
 - (f) section 34 (communicating indecently with an older child etc);
 - (g) section 54 (incitement to commit certain sexual acts outside Scotland).
 
-#### 13. Inchoate offences[^key-dcf58c4b576a2c900f22d577c1bb4d7d]
+#### 13. Inchoate offences[^c-dcf58c4b576a2c900f22d577c1bb4d7d]
 
 (1) An offence of attempting or conspiring to commit an offence specified in this Part.
 
@@ -109,28 +109,28 @@ Section 59
 
 ## Annotations
 
-[^key-2e46cc07b7d11cbb4b584a65534baf45]: Commencement: Sch. 6 para. 1 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-2e46cc07b7d11cbb4b584a65534baf45]: Commencement: Sch. 6 para. 1 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-5fc9bf3cc9d63d11b5648b13600faf63]: Commencement: Sch. 6 para. 2 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-5fc9bf3cc9d63d11b5648b13600faf63]: Commencement: Sch. 6 para. 2 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-9d0ff78bd64d1525080cd3207466edb6]: Commencement: Sch. 6 para. 3 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-9d0ff78bd64d1525080cd3207466edb6]: Commencement: Sch. 6 para. 3 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-d966d733f6b96c1e872e33a8631e0321]: Commencement: Sch. 6 para. 4 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-d966d733f6b96c1e872e33a8631e0321]: Commencement: Sch. 6 para. 4 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-03d7486cdd862ea5266a8b616814a37c]: Commencement: Sch. 6 para. 5 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-03d7486cdd862ea5266a8b616814a37c]: Commencement: Sch. 6 para. 5 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-ae1cba76c388e06de0ed0e1ec5a1cefc]: Commencement: Sch. 6 para. 6 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-ae1cba76c388e06de0ed0e1ec5a1cefc]: Commencement: Sch. 6 para. 6 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-761446ecffa50fd9ac709544384254f9]: Commencement: Sch. 6 para. 7 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-761446ecffa50fd9ac709544384254f9]: Commencement: Sch. 6 para. 7 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-5eb087131516134ce7e9cad22232fa54]: Commencement: Sch. 6 para. 8 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-5eb087131516134ce7e9cad22232fa54]: Commencement: Sch. 6 para. 8 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-55407a61f4927a91853bd85a1623ec9f]: Commencement: Sch. 6 para. 9 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-55407a61f4927a91853bd85a1623ec9f]: Commencement: Sch. 6 para. 9 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-e10d9726b25f6ef272d4c65ef0d90bff]: Commencement: Sch. 6 para. 10 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-e10d9726b25f6ef272d4c65ef0d90bff]: Commencement: Sch. 6 para. 10 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-eaa9b70d7f90cb5790dee21f44ff6d13]: Commencement: Sch. 6 para. 11 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-eaa9b70d7f90cb5790dee21f44ff6d13]: Commencement: Sch. 6 para. 11 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-641e9075454618b7f3e8048f38babf2e]: Commencement: Sch. 6 para. 12 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-641e9075454618b7f3e8048f38babf2e]: Commencement: Sch. 6 para. 12 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-dcf58c4b576a2c900f22d577c1bb4d7d]: Commencement: Sch. 6 para. 13 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-dcf58c4b576a2c900f22d577c1bb4d7d]: Commencement: Sch. 6 para. 13 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)

@@ -50,15 +50,15 @@ Coming into force
 
 The Treasury make the following Regulations in exercise of the powers conferred by sections 17(3) and 18 of the Finance (No. 2) Act 2005[^f00001] and sections 973 and 974 of the Income Tax Act 2007[^f00002].
 
-## 1. Citation and commencement[^key-6270ff87cf31da4aedc3ec6a001a4a02]
+## 1. Citation and commencement[^c-6270ff87cf31da4aedc3ec6a001a4a02]
 
 These Regulations may be cited as the Authorised Investment Funds (Tax) (Amendment) Regulations 2009 and shall come into force on 1st September 2009.
 
-## 2. Amendment of the Authorised Investment Funds (Tax) Regulations 2006 ([S.I. 2006/964](https://www.legislation.gov.uk/uksi/2006/964))[^key-afe1d315f4804046f59b326ad50f29c2]
+## 2. Amendment of the Authorised Investment Funds (Tax) Regulations 2006 ([S.I. 2006/964](https://www.legislation.gov.uk/uksi/2006/964))[^c-afe1d315f4804046f59b326ad50f29c2]
 
 The Authorised Investment Funds (Tax) Regulations 2006[^f00003] are amended as follows.
 
-## 3. Amendment of regulation 2[^key-0134074317718670a70e826f3c08d392]
+## 3. Amendment of regulation 2[^c-0134074317718670a70e826f3c08d392]
 
 In regulation 2 (structure of these Regulations)[^f00004]—
 
@@ -78,7 +78,7 @@ In regulation 2 (structure of these Regulations)[^f00004]—
 
   .
 
-## 4. Amendment of regulation 6[^key-171d8286303b6b877c32ad66b899efe6]
+## 4. Amendment of regulation 6[^c-171d8286303b6b877c32ad66b899efe6]
 
 In regulation 6 (further definitions generally relevant for authorised investment funds) after paragraph (6) insert—
 
@@ -91,7 +91,7 @@ In regulation 6 (further definitions generally relevant for authorised investmen
 
 .
 
-## 5. Amendment of regulation 8[^key-fca6ffe3209bdb23a9502bc00b7b59b9]
+## 5. Amendment of regulation 8[^c-fca6ffe3209bdb23a9502bc00b7b59b9]
 
 In regulation 8 (general interpretation) insert at the appropriate place—
 
@@ -101,7 +101,7 @@ In regulation 8 (general interpretation) insert at the appropriate place—
 
 .
 
-## 6. Insertion of Part 1A[^key-5b3cdf7b2c6099e2b452e8575fc0b7c9]
+## 6. Insertion of Part 1A[^c-5b3cdf7b2c6099e2b452e8575fc0b7c9]
 
 After regulation 9 (abbreviations and general index) insert the following Part—
 
@@ -197,7 +197,7 @@ After regulation 9 (abbreviations and general index) insert the following Part�
 
 .
 
-## 7. Amendment of regulation 13[^key-e88bcfc7d07c5acd553eca7d46967afe]
+## 7. Amendment of regulation 13[^c-e88bcfc7d07c5acd553eca7d46967afe]
 
 In regulation 13 (treatment of interest distributions for purposes of loan relationships) after paragraph (3) insert—
 
@@ -205,7 +205,7 @@ In regulation 13 (treatment of interest distributions for purposes of loan relat
 
 .
 
-## 8. Amendment of regulation 14B[^key-ca869bf0cece539c822a2c1113df0375]
+## 8. Amendment of regulation 14B[^c-ca869bf0cece539c822a2c1113df0375]
 
 Regulation 14B (tax treatment of qualified investor schemes)[^f00007] is amended as follows.
 
@@ -219,11 +219,11 @@ Regulation 14B (tax treatment of qualified investor schemes)[^f00007] is amended
 
 (3) Omit paragraph (5).
 
-## 9. Omission of regulations 14C and 14D[^key-21bc99023a6855f56f73452250aaa6d3]
+## 9. Omission of regulations 14C and 14D[^c-21bc99023a6855f56f73452250aaa6d3]
 
 Omit regulations 14C (the genuine diversity of ownership condition) and 14D (clearance in relation to the genuine diversity of ownership condition)[^f00008].
 
-## 10. Insertion of Part 2B[^key-6d604355616cd2b4657e21f5b4e10306]
+## 10. Insertion of Part 2B[^c-6d604355616cd2b4657e21f5b4e10306]
 
 After regulation 14B (tax treatment of qualified investor schemes) insert the following Part—
 
@@ -395,7 +395,7 @@ After regulation 14B (tax treatment of qualified investor schemes) insert the fo
 
 .
 
-## 11. Amendment of regulation 17[^key-8073ba61248f3f5328fd2b6902709f14]
+## 11. Amendment of regulation 17[^c-8073ba61248f3f5328fd2b6902709f14]
 
 In regulation 17 (contents of distribution accounts) after paragraph (1) insert—
 
@@ -403,15 +403,15 @@ In regulation 17 (contents of distribution accounts) after paragraph (1) insert�
 
 .
 
-## 12. Amendment of regulation 48[^key-00a4c5977d7216fd4d572c27221fb99c]
+## 12. Amendment of regulation 48[^c-00a4c5977d7216fd4d572c27221fb99c]
 
 In paragraph (4) of regulation 48 (dividend distributions: general)[^f00011] for “14C” substitute “9A”.
 
-## 13. Amendment of regulation 51[^key-60d311f020ddaba92a34c71f3132ec7a]
+## 13. Amendment of regulation 51[^c-60d311f020ddaba92a34c71f3132ec7a]
 
 In paragraph (1)(b) of regulation 51 (participants chargeable to corporation tax: holdings in qualified investor schemes where scheme does not meet the genuine diversity of ownership condition)[^f00012] for “14B” substitute “9A”.
 
-## 14. Insertion of regulations 52B to 52E[^key-7503155960abf31fe3197bafc3d67d0a]
+## 14. Insertion of regulations 52B to 52E[^c-7503155960abf31fe3197bafc3d67d0a]
 
 After regulation 52A (companies carrying on general insurance business: treatment of certain amounts of tax as foreign tax)[^f00013] insert—
 
@@ -527,45 +527,45 @@ After regulation 52A (companies carrying on general insurance business: treatmen
 > - “tax advantage” has the meaning given by section of 840ZA of ICTA[^f00016]; and
 > - “income tax advantage” has the meaning given by section 683 of ITA 2007[^f00017].
 
-## 15. Amendment of regulation 69D[^key-f9ba2ae3e17fd22f5356a8912c003563]
+## 15. Amendment of regulation 69D[^c-f9ba2ae3e17fd22f5356a8912c003563]
 
 In paragraph (b) of regulation 69D (conditions for this part to apply to company)[^f00018] for “69J” substitute “9A”.
 
-## 16. Omission of regulation 69DA[^key-37a656d7265cd08a00eeec25327867b8]
+## 16. Omission of regulation 69DA[^c-37a656d7265cd08a00eeec25327867b8]
 
 Omit regulation 69DA (conditions for this part to apply to a company where the company is also a qualified investor scheme)[^f00019].
 
-## 17. Omission of regulation 69J[^key-b3b42bf0436a1216fdf40503d5ba0a75]
+## 17. Omission of regulation 69J[^c-b3b42bf0436a1216fdf40503d5ba0a75]
 
 Omit regulation 69J (the genuine diversity of ownership condition)[^f00020].
 
-## 18. Amendment of regulation 69O[^key-88c56d8b767312754a362caa180a5e55]
+## 18. Amendment of regulation 69O[^c-88c56d8b767312754a362caa180a5e55]
 
 In paragraph (5)(b) of regulation 69O (the notification condition)[^f00021] for “69J” substitute “9A”.
 
-## 19. Amendment of regulation 69P[^key-22dd58b9110e89a4c69b9499259c6190]
+## 19. Amendment of regulation 69P[^c-22dd58b9110e89a4c69b9499259c6190]
 
 Regulation 69P (form and timing of notice under regulation 69O)[^f00022] is amended as follows—
 
 - (a) in paragraph (7)(a) for “69U” substitute “9B”, and
 - (b) in paragraph (8)(a) for “69U” substitute “9B”.
 
-## 20. Amendment of regulation 69Q[^key-362090be56dccb7cd4020cd2045717fe]
+## 20. Amendment of regulation 69Q[^c-362090be56dccb7cd4020cd2045717fe]
 
 Regulation 69Q (contents of notice under regulation 69O)[^f00023] is amended as follows—
 
 - (a) in paragraph (3)(a) after “specified in” insert “regulation 9A and”, and
 - (b) in paragraph (5)(a) after “specified in” insert “regulation 9A and”.
 
-## 21. Omission of regulation 69U[^key-68244a855d38176ed3ef79df8a2a3bd2]
+## 21. Omission of regulation 69U[^c-68244a855d38176ed3ef79df8a2a3bd2]
 
 Omit regulation 69U (clearance in relation to the genuine diversity of ownership condition)[^f00024].
 
-## 22. Amendment of regulation 69Z8[^key-0fc3d9b385388f3bf98d8f8132aa71ac]
+## 22. Amendment of regulation 69Z8[^c-0fc3d9b385388f3bf98d8f8132aa71ac]
 
 In paragraph (1)(a) of regulation 69Z8 (multiple breaches of separate conditions)[^f00025] after “in” insert “regulation 9A or”.
 
-## 23. Substitution of regulation 69Z34[^key-423a8d2db824c93cd385aa1314ad4fc6]
+## 23. Substitution of regulation 69Z34[^c-423a8d2db824c93cd385aa1314ad4fc6]
 
 For regulation 69Z34 (certificates of deduction of tax)[^f00026] substitute—
 
@@ -603,7 +603,7 @@ For regulation 69Z34 (certificates of deduction of tax)[^f00026] substitute—
 
 .
 
-## 24. Insertion of Part 4B[^key-ca2a73c2efcc2e9d3c193fb60e0486ea]
+## 24. Insertion of Part 4B[^c-ca2a73c2efcc2e9d3c193fb60e0486ea]
 
 After regulation 69Z41 insert the following Part—
 
@@ -1051,7 +1051,7 @@ After regulation 69Z41 insert the following Part—
 
 .
 
-## 25. Amendment of regulation 70[^key-1ff500678bf19483ec6abd4b64c05ef6]
+## 25. Amendment of regulation 70[^c-1ff500678bf19483ec6abd4b64c05ef6]
 
 In regulation 70 (application of section 234A of ICTA) after paragraph (3) insert—
 
@@ -1074,29 +1074,29 @@ In regulation 70 (application of section 234A of ICTA) after paragraph (3) inser
 
 .
 
-## 26. Amendment of headings[^key-28a79d2c1cd4a7b15854e119e42fd311]
+## 26. Amendment of headings[^c-28a79d2c1cd4a7b15854e119e42fd311]
 
 In the heading before regulation 71 and the headings to regulations 71 and 72, after “interest distributions” insert “and TEF distributions (non-dividend)”.
 
-## 27. Amendment of regulation 71[^key-378c9422d2f3bfc4342b3b0f6de0a07f]
+## 27. Amendment of regulation 71[^c-378c9422d2f3bfc4342b3b0f6de0a07f]
 
 In paragraph (1) of regulation 71 (notification of interest distributions made without deduction of tax) after “interest distributions” insert “and TEF distributions (non-dividend)”.
 
-## 28. Amendment of regulation 72[^key-7c348affe45f048aceeb2e8e70a89ab3]
+## 28. Amendment of regulation 72[^c-7c348affe45f048aceeb2e8e70a89ab3]
 
 In paragraph (1) of regulation 72 (information about interest distributions made without deduction of tax) after “interest distributions” insert “and TEF distributions (non-dividend)”.
 
-## 29. Amendment of regulation 74[^key-6d1d96d853d5f4e48abd20569a01e072]
+## 29. Amendment of regulation 74[^c-6d1d96d853d5f4e48abd20569a01e072]
 
 In paragraph (2)(c), (d) and (e) of regulation 74 (use of information) after “interest distribution” in each place it occurs insert “or a TEF distribution (non-dividend)”.
 
-## 30. Amendment of regulation 95[^key-7c36da672847b04ecbb36840da2e0d2b]
+## 30. Amendment of regulation 95[^c-7c36da672847b04ecbb36840da2e0d2b]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 31. Amendment of regulation 96[^key-c6a6d3dc0ea22a50cbf3a4967fbe627e]
+## 31. Amendment of regulation 96[^c-c6a6d3dc0ea22a50cbf3a4967fbe627e]
 
 (1) Regulation 96 (modifications of ITTOIA 2005[^f00034]) is amended as follows.
 
@@ -1116,7 +1116,7 @@ In paragraph (2)(c), (d) and (e) of regulation 74 (use of information) after “
 
 (3) In paragraph (3)(b) for “376(1)” substitute “377(1)”.
 
-## 32. Amendment of the Schedule[^key-adacc8e9b990093ec418591b26c37254]
+## 32. Amendment of the Schedule[^c-adacc8e9b990093ec418591b26c37254]
 
 (1) The Schedule (abbreviations and defined expressions) is amended as follows.
 
@@ -1161,7 +1161,7 @@ In paragraph (2)(c), (d) and (e) of regulation 74 (use of information) after “
   > | “TEF distribution (non-dividend) | Regulation 69Z61(3)” |
   > | “Termination notice (in Part 4B) | Regulation 69Z70(1)”. |
 
-## 33. Amendment of the Real Estate Investment Trusts (Assessment and Recovery of Tax) Regulations 2006[^key-723979dcf695d6f740199f69d8cf9ba9]
+## 33. Amendment of the Real Estate Investment Trusts (Assessment and Recovery of Tax) Regulations 2006[^c-723979dcf695d6f740199f69d8cf9ba9]
 
 (1) The Real Estate Investment Trusts (Assessment and Recovery of Tax) Regulations 2006[^f00036] are amended as follows.
 
@@ -1265,53 +1265,53 @@ A full Impact Assessment has not produced in relation to the insertion of Part 1
 
 [^f00002]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
 
-[^key-6270ff87cf31da4aedc3ec6a001a4a02]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-6270ff87cf31da4aedc3ec6a001a4a02]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
-[^key-afe1d315f4804046f59b326ad50f29c2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/2036/regulation/2) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-afe1d315f4804046f59b326ad50f29c2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/2036/regulation/2) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2006/964](https://www.legislation.gov.uk/uksi/2006/964), referred to in the footnotes to these Regulations as “the principal Regulations”; relevant amending instruments are [S.I. 2006/3239](https://www.legislation.gov.uk/uksi/2006/3239), [2007/683](https://www.legislation.gov.uk/uksi/2007/683), [2007/794](https://www.legislation.gov.uk/uksi/2007/794), [2008/705](https://www.legislation.gov.uk/uksi/2008/705) and [2008/3159](https://www.legislation.gov.uk/uksi/2008/3159).
 
-[^key-0134074317718670a70e826f3c08d392]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/2036/regulation/3) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-0134074317718670a70e826f3c08d392]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/2036/regulation/3) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00004]: Footnote: Regulation 2 was amended by [S.I. 2008/705](https://www.legislation.gov.uk/uksi/2008/705) and [2008/3159](https://www.legislation.gov.uk/uksi/2008/3159).
 
-[^key-171d8286303b6b877c32ad66b899efe6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/2036/regulation/4) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-171d8286303b6b877c32ad66b899efe6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/2036/regulation/4) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
-[^key-fca6ffe3209bdb23a9502bc00b7b59b9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/2036/regulation/5) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-fca6ffe3209bdb23a9502bc00b7b59b9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/2036/regulation/5) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00005]: Footnote: ITA 2007 is an abbreviation for the Income Taxes Act 2007 provided for in Part 1 of the Schedule to the principal Regulations.
 
 [^f00006]: Footnote: ICTA is an abbreviation for the [Income and Corporation Taxes Act 1988 (c. 1)](https://www.legislation.gov.uk/ukpga/1988/1) provided for in Part 1 of the Schedule to the principal Regulations. Section 839 was amended by paragraph 20 of Schedule 17 to the [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), paragraph 25 of Schedule 13 to the [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25) and paragraph 223 of Schedule 1 to the Income Tax Act 2007 and by [S.I. 1988/745](https://www.legislation.gov.uk/uksi/1988/745) and [2005/3229](https://www.legislation.gov.uk/uksi/2005/3229).
 
-[^key-5b3cdf7b2c6099e2b452e8575fc0b7c9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/2036/regulation/6) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-5b3cdf7b2c6099e2b452e8575fc0b7c9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/2036/regulation/6) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
-[^key-e88bcfc7d07c5acd553eca7d46967afe]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/2036/regulation/7) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-e88bcfc7d07c5acd553eca7d46967afe]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/2036/regulation/7) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
-[^key-ca869bf0cece539c822a2c1113df0375]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/2036/regulation/8) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-ca869bf0cece539c822a2c1113df0375]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/2036/regulation/8) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00007]: Footnote: Regulation 14B was inserted by [S.I. 2008/3159](https://www.legislation.gov.uk/uksi/2008/3159).
 
-[^key-21bc99023a6855f56f73452250aaa6d3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/2036/regulation/9) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-21bc99023a6855f56f73452250aaa6d3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/2036/regulation/9) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00008]: Footnote: Regulations 14C and 14D were inserted by [S.I. 2008/3159](https://www.legislation.gov.uk/uksi/2008/3159).
 
-[^key-6d604355616cd2b4657e21f5b4e10306]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/2036/regulation/10) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-6d604355616cd2b4657e21f5b4e10306]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/2036/regulation/10) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00009]: Footnote: CTA 2009 is an abbreviation for the [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4) inserted into Part 1 of the Schedule to the principal Regulations by regulation 32(2) of these Regulations.
 
 [^f00010]: Footnote: The text of the Kyoto Protocol is available at www.unfccc.int/kyoto\_protocol/items/2830.php.
 
-[^key-8073ba61248f3f5328fd2b6902709f14]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/2036/regulation/11) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-8073ba61248f3f5328fd2b6902709f14]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/2036/regulation/11) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
-[^key-00a4c5977d7216fd4d572c27221fb99c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/2036/regulation/12) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-00a4c5977d7216fd4d572c27221fb99c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/2036/regulation/12) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00011]: Footnote: Regulation 48 was amended by [S.I. 2008/3159](https://www.legislation.gov.uk/uksi/2008/3159).
 
-[^key-60d311f020ddaba92a34c71f3132ec7a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/2036/regulation/13) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-60d311f020ddaba92a34c71f3132ec7a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/2036/regulation/13) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00012]: Footnote: Regulation 51 was substituted by [S.I. 2008/3159](https://www.legislation.gov.uk/uksi/2008/3159).
 
-[^key-7503155960abf31fe3197bafc3d67d0a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/2036/regulation/14) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-7503155960abf31fe3197bafc3d67d0a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/2036/regulation/14) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00013]: Footnote: Regulation 52A was inserted by [S.I. 2006/3239](https://www.legislation.gov.uk/uksi/2006/3239), amended by [S.I. 2007/683](https://www.legislation.gov.uk/uksi/2007/683) and substituted by [S.I. 2008/3159](https://www.legislation.gov.uk/uksi/2008/3159).
 
@@ -1323,43 +1323,43 @@ A full Impact Assessment has not produced in relation to the insertion of Part 1
 
 [^f00017]: Footnote: ITA 2007 is an abbreviation for the [Income Taxes Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3) provided for in Part 1 of the Schedule to the principal Regulations.
 
-[^key-f9ba2ae3e17fd22f5356a8912c003563]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2009/2036/regulation/15) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-f9ba2ae3e17fd22f5356a8912c003563]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2009/2036/regulation/15) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00018]: Footnote: Regulation 69D was inserted by [S.I. 2008/705](https://www.legislation.gov.uk/uksi/2008/705) and amended by [S.I. 2008/3159](https://www.legislation.gov.uk/uksi/2008/3159).
 
-[^key-37a656d7265cd08a00eeec25327867b8]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2009/2036/regulation/16) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-37a656d7265cd08a00eeec25327867b8]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2009/2036/regulation/16) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00019]: Footnote: Regulation 69DA was inserted by [S.I. 2008/3159](https://www.legislation.gov.uk/uksi/2008/3159).
 
-[^key-b3b42bf0436a1216fdf40503d5ba0a75]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2009/2036/regulation/17) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-b3b42bf0436a1216fdf40503d5ba0a75]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2009/2036/regulation/17) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00020]: Footnote: Regulation 69J was inserted by [S.I. 2008/705](https://www.legislation.gov.uk/uksi/2008/705) and amended by [S.I. 2008/3159](https://www.legislation.gov.uk/uksi/2008/3159).
 
-[^key-88c56d8b767312754a362caa180a5e55]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2009/2036/regulation/18) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-88c56d8b767312754a362caa180a5e55]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2009/2036/regulation/18) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00021]: Footnote: Regulation 69O was inserted by [S.I. 2008/705](https://www.legislation.gov.uk/uksi/2008/705).
 
-[^key-22dd58b9110e89a4c69b9499259c6190]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2009/2036/regulation/19) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-22dd58b9110e89a4c69b9499259c6190]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2009/2036/regulation/19) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00022]: Footnote: Regulation 69P was inserted by [S.I. 2008/705](https://www.legislation.gov.uk/uksi/2008/705).
 
-[^key-362090be56dccb7cd4020cd2045717fe]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2009/2036/regulation/20) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-362090be56dccb7cd4020cd2045717fe]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2009/2036/regulation/20) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00023]: Footnote: Regulation 69Q was inserted by [S.I. 2008/705](https://www.legislation.gov.uk/uksi/2008/705).
 
-[^key-68244a855d38176ed3ef79df8a2a3bd2]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2009/2036/regulation/21) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-68244a855d38176ed3ef79df8a2a3bd2]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2009/2036/regulation/21) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00024]: Footnote: Regulation 69U was inserted by [S.I. 2008/705](https://www.legislation.gov.uk/uksi/2008/705).
 
-[^key-0fc3d9b385388f3bf98d8f8132aa71ac]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2009/2036/regulation/22) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-0fc3d9b385388f3bf98d8f8132aa71ac]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2009/2036/regulation/22) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00025]: Footnote: Regulation 69Z8 was inserted by [S.I. 2008/705](https://www.legislation.gov.uk/uksi/2008/705).
 
-[^key-423a8d2db824c93cd385aa1314ad4fc6]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2009/2036/regulation/23) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-423a8d2db824c93cd385aa1314ad4fc6]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2009/2036/regulation/23) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00026]: Footnote: Regulation 69Z8 was inserted by [S.I. 2008/705](https://www.legislation.gov.uk/uksi/2008/705).
 
-[^key-ca2a73c2efcc2e9d3c193fb60e0486ea]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2009/2036/regulation/24) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-ca2a73c2efcc2e9d3c193fb60e0486ea]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2009/2036/regulation/24) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00027]: Footnote: CTA 2009 is an abbreviation for the [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4) inserted into Part 1 of the Schedule to the principal Regulations by regulation 32(2) of these Regulations.
 
@@ -1371,28 +1371,28 @@ A full Impact Assessment has not produced in relation to the insertion of Part 1
 
 [^f00031]: Footnote: Section 931R was inserted by Schedule 14 to the Finance Act 2009.
 
-[^key-1ff500678bf19483ec6abd4b64c05ef6]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2009/2036/regulation/25) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-1ff500678bf19483ec6abd4b64c05ef6]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2009/2036/regulation/25) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00032]: Footnote: Section 234A was inserted by section 32(1) and (4) of the [Finance (No. 2) Act 1992 (c. 45)](https://www.legislation.gov.uk/ukpga/1992/45) and amended by paragraph 2(2)(a) of Schedule 37 to the [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8).
 
-[^key-28a79d2c1cd4a7b15854e119e42fd311]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2009/2036/regulation/26) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-28a79d2c1cd4a7b15854e119e42fd311]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2009/2036/regulation/26) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
-[^key-378c9422d2f3bfc4342b3b0f6de0a07f]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2009/2036/regulation/27) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-378c9422d2f3bfc4342b3b0f6de0a07f]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2009/2036/regulation/27) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
-[^key-7c348affe45f048aceeb2e8e70a89ab3]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2009/2036/regulation/28) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-7c348affe45f048aceeb2e8e70a89ab3]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2009/2036/regulation/28) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
-[^key-6d1d96d853d5f4e48abd20569a01e072]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2009/2036/regulation/29) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-6d1d96d853d5f4e48abd20569a01e072]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2009/2036/regulation/29) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
-[^key-7c36da672847b04ecbb36840da2e0d2b]: Textual amendment: Reg. 30 omitted (31.8.2009) by virtue of [The Authorised Investment Funds (Tax) (Amendment No.2) Regulations 2009 (S.I. 2009/2199)](https://www.legislation.gov.uk/uksi/2009/2199), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2199/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/2199/regulation/2/2)
+[^c-7c36da672847b04ecbb36840da2e0d2b]: Textual amendment: Reg. 30 omitted (31.8.2009) by virtue of [The Authorised Investment Funds (Tax) (Amendment No.2) Regulations 2009 (S.I. 2009/2199)](https://www.legislation.gov.uk/uksi/2009/2199), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2199/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/2199/regulation/2/2)
 
-[^key-c6a6d3dc0ea22a50cbf3a4967fbe627e]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2009/2036/regulation/31) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-c6a6d3dc0ea22a50cbf3a4967fbe627e]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2009/2036/regulation/31) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00034]: Footnote: ITTOIA 2005 is an abbreviation for the [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5) provided for in Part 1 of the Schedule to the principal Regulations.
 
-[^key-adacc8e9b990093ec418591b26c37254]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2009/2036/regulation/32) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-adacc8e9b990093ec418591b26c37254]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2009/2036/regulation/32) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00035]: Footnote: Part 2 of the Schedule was amended by [S.I. 2007/794](https://www.legislation.gov.uk/uksi/2007/794), [2008/705](https://www.legislation.gov.uk/uksi/2008/705) and [2008/3159](https://www.legislation.gov.uk/uksi/2008/3159)
 
-[^key-723979dcf695d6f740199f69d8cf9ba9]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2009/2036/regulation/33) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
+[^c-723979dcf695d6f740199f69d8cf9ba9]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2009/2036/regulation/33) in force at 1.9.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1)
 
 [^f00036]: Footnote: [S.I. 2006/2867](https://www.legislation.gov.uk/uksi/2006/2867), to which there are no relevant amending instruments.

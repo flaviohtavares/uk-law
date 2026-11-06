@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 179. Further provision about liability for CIL[^key-794f6ac159b26d022cf7efefbb6659f2]
+## 179. Further provision about liability for CIL[^c-794f6ac159b26d022cf7efefbb6659f2]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-794f6ac159b26d022cf7efefbb6659f2]: Commencement: S. 179 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-794f6ac159b26d022cf7efefbb6659f2]: Commencement: S. 179 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Referrals to investigating discipline committees before the relevant date (regulation 5 of the Service Committees Regulations)[^key-c7ef687fd259ecf6e6d7892e380e94a4]
+## 72. Referrals to investigating discipline committees before the relevant date (regulation 5 of the Service Committees Regulations)[^c-c7ef687fd259ecf6e6d7892e380e94a4]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Where a Local Health Board (A) has, before the relevant date, referred a matter 
 
 ## Annotations
 
-[^key-c7ef687fd259ecf6e6d7892e380e94a4]: Commencement: Art. 72 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-c7ef687fd259ecf6e6d7892e380e94a4]: Commencement: Art. 72 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

@@ -41,7 +41,7 @@ Coming into operation
 
 [^c19302661]The Department of Health, Social Services and Public Safety makes the following Regulations in exercise of the powers conferred by Articles 12 and 14 (1) of, and Schedule 3 to, the Superannuation (Northern Ireland) Order 1972 , with the consent of the Department of Finance and Personnel.
 
-In accordance with Article 12 (4) of that Order, the Department has consulted with representatives of persons likely to be affected by these Regulations, as appeared to it to be appropriate.[^key-ec4233757f2e34d95aa0ee3dc9a72cb1][^key-3f520a1ab29fda5ca1a10320e17d8f19]
+In accordance with Article 12 (4) of that Order, the Department has consulted with representatives of persons likely to be affected by these Regulations, as appeared to it to be appropriate.[^c-ec4233757f2e34d95aa0ee3dc9a72cb1][^c-3f520a1ab29fda5ca1a10320e17d8f19]
 
 ## Contents
 
@@ -248,12 +248,12 @@ In accordance with Article 12 (4) of that Order, the Department has consulted wi
 - [Section 107 — Bulk transfers in](part-2/section-107.md)
 - [Section 108 — EU and other overseas transfers](part-2/section-108.md)
 
-##### Transfers across[^key-2de90e4ce413a9af5e4d49fcd743c808]
+##### Transfers across[^c-2de90e4ce413a9af5e4d49fcd743c808]
 
 - [Section 108A — Transfers across from the 1995 Section](part-2/section-108a.md)
 - [Section 108B — Right to transfer a deferred pension to the 2015 Scheme](part-2/section-108b.md)
 
-#### CHAPTER 7 — RE-EMPLOYMENT AND REJOINING this Section of THE SCHEME[^key-2ac3e5c7510b300e3627ac5d03f66e85]
+#### CHAPTER 7 — RE-EMPLOYMENT AND REJOINING this Section of THE SCHEME[^c-2ac3e5c7510b300e3627ac5d03f66e85]
 
 ##### Preliminary
 
@@ -339,12 +339,12 @@ In accordance with Article 12 (4) of that Order, the Department has consulted wi
 - [Section 136 — Employing authority and certain member record keeping and contribution estimates](part-2/section-136.md)
 - [Section 136ZA — Benefit information statements](part-2/section-136za.md)
 
-#### CHAPTER 10 — 2008 Section Optants[^key-2212ef046179ca474bf07d49bb83903e]
+#### CHAPTER 10 — 2008 Section Optants[^c-2212ef046179ca474bf07d49bb83903e]
 
 - [Section 136A — Application of Chapter 10 of this Part](part-2/section-136a.md)
 - [Section 136B — Options for 1995 Section members to join this Section of the Scheme under Chapter 10 of this Part](part-2/section-136b.md)
 
-##### Transfer of service from the 1995 Section[^key-2212ef046179ca474bf07d49bb83903e]
+##### Transfer of service from the 1995 Section[^c-2212ef046179ca474bf07d49bb83903e]
 
 - [Section 136C — Service credited from the 1995 Section](part-2/section-136c.md)
 - [Section 136D — Treatment of Additional Pension](part-2/section-136d.md)
@@ -357,7 +357,7 @@ In accordance with Article 12 (4) of that Order, the Department has consulted wi
 - [Section 136K — Meaning of “capped Optant service”](part-2/section-136k.md)
 - [Section 136L — Amount of pension and lump sum to be to be paid to a 2008 Section Optant](part-2/section-136l.md)
 
-##### Miscellaneous provisions[^key-2212ef046179ca474bf07d49bb83903e]
+##### Miscellaneous provisions[^c-2212ef046179ca474bf07d49bb83903e]
 
 - [Section 136M — Transfers in: transitional provision](part-2/section-136m.md)
 - [Section 136N — 2008 Section Optants: Transitional Tier 2 ill-health pension](part-2/section-136n.md)
@@ -372,9 +372,9 @@ In accordance with Article 12 (4) of that Order, the Department has consulted wi
 - [Section 136W — Lump sum payable on the death of a 2008 Section Optant who is in receipt of a tier 1 ill-health pension under regulation 13A of the 1995 Regulations](part-2/section-136w.md)
 - [Section 136X — Children’s pensions payable on the death of a 2008 Section Optant who is in receipt of a tier 1 ill-health pension under regulation 13A of the 1995 Regulations.](part-2/section-136x.md)
 
-#### CHAPTER 11[^key-0d4b52589377b86413d24e256c3b1400]
+#### CHAPTER 11[^c-0d4b52589377b86413d24e256c3b1400]
 
-##### Waiting Period Joiners[^key-0d4b52589377b86413d24e256c3b1400]
+##### Waiting Period Joiners[^c-0d4b52589377b86413d24e256c3b1400]
 
 - [Section 136Y — Application of Chapter 11 of this Part](part-2/section-136y.md)
 - [Section 136Z — Nominations and notices accepted by the Department under the 1995 Regulations and Chapter 5 of this Part of these Regulations](part-2/section-136z.md)
@@ -559,7 +559,7 @@ In accordance with Article 12 (4) of that Order, the Department has consulted wi
 - [Section 234 — Bulk transfers in](part-3/section-234.md)
 - [Section 235 — EU and other overseas transfers](part-3/section-235.md)
 
-##### Transfers across[^key-40c0f25551b9890ab76684b08df49850]
+##### Transfers across[^c-40c0f25551b9890ab76684b08df49850]
 
 - [Section 235A — Transfers across from the 1995 Section](part-3/section-235a.md)
 - [Section 235B — Right to transfer a deferred pension to the 2015 Scheme](part-3/section-235b.md)
@@ -644,12 +644,12 @@ In accordance with Article 12 (4) of that Order, the Department has consulted wi
 - [Section 260 — Employing authority and certain member record keeping and contribution estimates](part-3/section-260.md)
 - [Section 260ZA — Benefit information statements](part-3/section-260za.md)
 
-#### CHAPTER 10 — Section 2008 Optants[^key-5e4f8abc3e3ea4715002d1a59e22f2ed]
+#### CHAPTER 10 — Section 2008 Optants[^c-5e4f8abc3e3ea4715002d1a59e22f2ed]
 
 - [Section 260A — Application of Chapter 10 of this Part](part-3/section-260a.md)
 - [Section 260B — Options for 1995 Section members to join this Section of the Scheme under Chapter 10 of this Part](part-3/section-260b.md)
 
-##### Transfer of service and pensionable earnings from the 1995 Section[^key-5e4f8abc3e3ea4715002d1a59e22f2ed]
+##### Transfer of service and pensionable earnings from the 1995 Section[^c-5e4f8abc3e3ea4715002d1a59e22f2ed]
 
 - [Section 260C — Service and pensionable earnings credited from the 1995 Section](part-3/section-260c.md)
 - [Section 260D — Treatment of Additional Pension](part-3/section-260d.md)
@@ -659,7 +659,7 @@ In accordance with Article 12 (4) of that Order, the Department has consulted wi
 - [Section 260H — Pension debit members](part-3/section-260h.md)
 - [Section 260I — Pensionable earnings credited under regulations 260C and 260E to be treated as capped Optant pensionable earnings](part-3/section-260i.md)
 
-##### Miscellaneous provisions[^key-5e4f8abc3e3ea4715002d1a59e22f2ed]
+##### Miscellaneous provisions[^c-5e4f8abc3e3ea4715002d1a59e22f2ed]
 
 - [Section 260J — Transfers in: transitional provision](part-3/section-260j.md)
 - [Section 260K — Amount of pension and lump sum be to be paid to a 2008 Section Optant](part-3/section-260k.md)
@@ -676,16 +676,16 @@ In accordance with Article 12 (4) of that Order, the Department has consulted wi
 - [Section 260V — Lump sum payable on the death of a 2008 Section Optant who is in receipt of a tier 1 ill-health pension under regulation 13A of the 1995 Regulations](part-3/section-260v.md)
 - [Section 260W — Children’s pensions payable on the death of a 2008 Section Optant who is in receipt of a tier 1 ill-health pension under regulation 13A of the 1995 Regulations.](part-3/section-260w.md)
 
-#### CHAPTER 11[^key-19483b2d3af8f38e66b91dd8dd2f7487]
+#### CHAPTER 11[^c-19483b2d3af8f38e66b91dd8dd2f7487]
 
-##### Waiting Period Joiners[^key-19483b2d3af8f38e66b91dd8dd2f7487]
+##### Waiting Period Joiners[^c-19483b2d3af8f38e66b91dd8dd2f7487]
 
 - [Section 260X — Application of Chapter 11 of this Part](part-3/section-260x.md)
 - [Section 260Y — Nominations and notices accepted by the Department under the 1995 Regulations and Chapter 5 of this Part of these Regulations](part-3/section-260y.md)
 - [Section 260Z — Waiting Period Joiners who are in receipt of a tier 1 ill-health pension under Regulation 13A of the 1995 Regulations](part-3/section-260z.md)
 - [Section 260ZB — Children’s pensions payable on the death of a Waiting Period Joiner](part-3/section-260zb.md)
 
-### PART 4 — BENEFITS IN CASES OF MIXED SERVICE[^key-a7860a98f429e6e4901160b9ebfd4d5e]
+### PART 4 — BENEFITS IN CASES OF MIXED SERVICE[^c-a7860a98f429e6e4901160b9ebfd4d5e]
 
 #### CHAPTER 1 — INTRODUCTION
 
@@ -718,7 +718,7 @@ In accordance with Article 12 (4) of that Order, the Department has consulted wi
 - [Section 268 — Cases with less than 1 year of concurrent officer service](part-4/section-268.md)
 - [Section 269 — Cases with 1 year or more of concurrent officer service](part-4/section-269.md)
 
-##### Non-concurrent Officer and Practitioner Service[^key-dd583ed3d9491bd7c93d0a60ddb9e0c3]
+##### Non-concurrent Officer and Practitioner Service[^c-dd583ed3d9491bd7c93d0a60ddb9e0c3]
 
 - [Section 269A — Cases with non-concurrent officer service between periods of practitioner service](part-4/section-269a.md)
 
@@ -839,24 +839,24 @@ Chapter 4 provides for modifications in respect of the calculation of the 45 yea
 
 [^c19302661]: Marginal citation: [S.I.1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073), as amended by [S.I. 1990/1509 (N.I. 13)](https://www.legislation.gov.uk/nisi/1990/1509), [1993 c. 49 (N.I.)](https://www.legislation.gov.uk/nia/1993/49) and [S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555)
 
-[^key-ec4233757f2e34d95aa0ee3dc9a72cb1]: Modification: Regulations modified (with effect in accordance with reg. 1(4)(c) of the amending Rule) by The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and [Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [14](https://www.legislation.gov.uk/nisr/2010/22/regulation/14)
+[^c-ec4233757f2e34d95aa0ee3dc9a72cb1]: Modification: Regulations modified (with effect in accordance with reg. 1(4)(c) of the amending Rule) by The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and [Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [14](https://www.legislation.gov.uk/nisr/2010/22/regulation/14)
 
-[^key-3f520a1ab29fda5ca1a10320e17d8f19]: Modification: [Rule](https://www.legislation.gov.uk/nisr/2008/256) applied (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [28(6)](https://www.legislation.gov.uk/nisr/2015/122/regulation/28/6)
+[^c-3f520a1ab29fda5ca1a10320e17d8f19]: Modification: [Rule](https://www.legislation.gov.uk/nisr/2008/256) applied (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [28(6)](https://www.legislation.gov.uk/nisr/2015/122/regulation/28/6)
 
-[^key-2de90e4ce413a9af5e4d49fcd743c808]: Textual amendment: [Reg. 108A](https://www.legislation.gov.uk/nisr/2008/256/regulation/108A) and cross-heading inserted (with effect in accordance with reg. 1(3) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) and Health and Personal Social Services (Injury Benefits) (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/65)](https://www.legislation.gov.uk/nisr/2009/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/1/2), [44](https://www.legislation.gov.uk/nisr/2009/65/regulation/44) (with [reg. 89](https://www.legislation.gov.uk/nisr/2009/65/regulation/89))
+[^c-2de90e4ce413a9af5e4d49fcd743c808]: Textual amendment: [Reg. 108A](https://www.legislation.gov.uk/nisr/2008/256/regulation/108A) and cross-heading inserted (with effect in accordance with reg. 1(3) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) and Health and Personal Social Services (Injury Benefits) (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/65)](https://www.legislation.gov.uk/nisr/2009/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/1/2), [44](https://www.legislation.gov.uk/nisr/2009/65/regulation/44) (with [reg. 89](https://www.legislation.gov.uk/nisr/2009/65/regulation/89))
 
-[^key-2ac3e5c7510b300e3627ac5d03f66e85]: Textual amendment: Words in [reg. 109 heading](https://www.legislation.gov.uk/nisr/2008/256/part/2/chapter/7/crossheading/preliminary) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-2ac3e5c7510b300e3627ac5d03f66e85]: Textual amendment: Words in [reg. 109 heading](https://www.legislation.gov.uk/nisr/2008/256/part/2/chapter/7/crossheading/preliminary) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
 
-[^key-2212ef046179ca474bf07d49bb83903e]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/nisr/2008/256/part/2) c. 10 added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [55](https://www.legislation.gov.uk/nisr/2010/22/regulation/55)
+[^c-2212ef046179ca474bf07d49bb83903e]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/nisr/2008/256/part/2) c. 10 added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [55](https://www.legislation.gov.uk/nisr/2010/22/regulation/55)
 
-[^key-0d4b52589377b86413d24e256c3b1400]: Textual amendment: [Pt. 2 Ch. 11](https://www.legislation.gov.uk/nisr/2008/256/part/2/chapter/11) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [reg. 34](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/34), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)
+[^c-0d4b52589377b86413d24e256c3b1400]: Textual amendment: [Pt. 2 Ch. 11](https://www.legislation.gov.uk/nisr/2008/256/part/2/chapter/11) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [reg. 34](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/34), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)
 
-[^key-40c0f25551b9890ab76684b08df49850]: Textual amendment: [Reg. 235A](https://www.legislation.gov.uk/nisr/2008/256/regulation/235A) and cross-heading inserted (with effect in accordance with reg. 1(3) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) and Health and Personal Social Services (Injury Benefits) (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/65)](https://www.legislation.gov.uk/nisr/2009/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/1/2), [75](https://www.legislation.gov.uk/nisr/2009/65/regulation/75) (with [reg. 89](https://www.legislation.gov.uk/nisr/2009/65/regulation/89))
+[^c-40c0f25551b9890ab76684b08df49850]: Textual amendment: [Reg. 235A](https://www.legislation.gov.uk/nisr/2008/256/regulation/235A) and cross-heading inserted (with effect in accordance with reg. 1(3) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) and Health and Personal Social Services (Injury Benefits) (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/65)](https://www.legislation.gov.uk/nisr/2009/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/1/2), [75](https://www.legislation.gov.uk/nisr/2009/65/regulation/75) (with [reg. 89](https://www.legislation.gov.uk/nisr/2009/65/regulation/89))
 
-[^key-5e4f8abc3e3ea4715002d1a59e22f2ed]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/nisr/2008/256/part/3) c. 10 added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [96](https://www.legislation.gov.uk/nisr/2010/22/regulation/96)
+[^c-5e4f8abc3e3ea4715002d1a59e22f2ed]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/nisr/2008/256/part/3) c. 10 added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [96](https://www.legislation.gov.uk/nisr/2010/22/regulation/96)
 
-[^key-19483b2d3af8f38e66b91dd8dd2f7487]: Textual amendment: [Pt. 3 Ch. 11](https://www.legislation.gov.uk/nisr/2008/256/part/3/chapter/11) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [reg. 51](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/51), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)
+[^c-19483b2d3af8f38e66b91dd8dd2f7487]: Textual amendment: [Pt. 3 Ch. 11](https://www.legislation.gov.uk/nisr/2008/256/part/3/chapter/11) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [reg. 51](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/51), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)
 
-[^key-a7860a98f429e6e4901160b9ebfd4d5e]: Modification: [Pt. 4](https://www.legislation.gov.uk/nisr/2008/256/part/4) excluded (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [21(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/21/2)
+[^c-a7860a98f429e6e4901160b9ebfd4d5e]: Modification: [Pt. 4](https://www.legislation.gov.uk/nisr/2008/256/part/4) excluded (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [21(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/21/2)
 
-[^key-dd583ed3d9491bd7c93d0a60ddb9e0c3]: Textual amendment: [Reg. 269A](https://www.legislation.gov.uk/nisr/2008/256/regulation/269A) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [101](https://www.legislation.gov.uk/nisr/2010/22/regulation/101)
+[^c-dd583ed3d9491bd7c93d0a60ddb9e0c3]: Textual amendment: [Reg. 269A](https://www.legislation.gov.uk/nisr/2008/256/regulation/269A) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [101](https://www.legislation.gov.uk/nisr/2010/22/regulation/101)

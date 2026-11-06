@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## P8. Employer's additional contributions[^key-4ac549a7c56d498d4a8525094dca2526]
+## P8. Employer's additional contributions[^c-4ac549a7c56d498d4a8525094dca2526]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ Where immediately before 1st March 1986 any payments remained to be made by an e
 
 ## Annotations
 
-[^key-4ac549a7c56d498d4a8525094dca2526]: Commencement: [Reg. P8](https://www.legislation.gov.uk/uksi/1986/24/regulation/P8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-4ac549a7c56d498d4a8525094dca2526]: Commencement: [Reg. P8](https://www.legislation.gov.uk/uksi/1986/24/regulation/P8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

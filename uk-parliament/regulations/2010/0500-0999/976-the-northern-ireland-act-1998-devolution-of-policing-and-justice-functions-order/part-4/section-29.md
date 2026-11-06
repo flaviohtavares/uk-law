@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**29.**[^key-db61eca6a4233011fd33e09681f1625b] (1) Paragraphs (2) and (3) apply in relation to a relevant function or any relevant property or liability.
+**29.**[^c-db61eca6a4233011fd33e09681f1625b] (1) Paragraphs (2) and (3) apply in relation to a relevant function or any relevant property or liability.
 
 (2) Anything (including legal proceedings) which, at the coming into force of this Order, is in the process of being done by or in relation to the transferor may, so far as it relates to the relevant function or relevant property or liability, be continued by or in relation to the transferee.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db61eca6a4233011fd33e09681f1625b]: Commencement: Art. 29 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-db61eca6a4233011fd33e09681f1625b]: Commencement: Art. 29 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)

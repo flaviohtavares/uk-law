@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185. Licence under Gas Act 1986 for performance of code management function[^key-a91a9b86e968bb96b3c00e492a1634e4][^key-1fc2213f5e66bb41bc2e06ccec66fccf]
+## 185. Licence under Gas Act 1986 for performance of code management function[^c-a91a9b86e968bb96b3c00e492a1634e4][^c-1fc2213f5e66bb41bc2e06ccec66fccf]
 
 *Extent: E+W+S*
 
@@ -99,6 +99,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a91a9b86e968bb96b3c00e492a1634e4]: Commencement: S. 185 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-a91a9b86e968bb96b3c00e492a1634e4]: Commencement: S. 185 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-1fc2213f5e66bb41bc2e06ccec66fccf]: Commencement: [S. 185](https://www.legislation.gov.uk/ukpga/2023/52/section/185) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ii)
+[^c-1fc2213f5e66bb41bc2e06ccec66fccf]: Commencement: [S. 185](https://www.legislation.gov.uk/ukpga/2023/52/section/185) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ii)

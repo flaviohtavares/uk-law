@@ -46,11 +46,11 @@ Coming into force
 
 The Lord Chancellor makes the following Regulations in exercise of the powers conferred by section 19(3) and (5) of the Prosecution of Offences Act 1985[^f00001]:
 
-## 1. Citation and commencement[^key-b2b86a9605747898e7dc15ee66c5d277]
+## 1. Citation and commencement[^c-b2b86a9605747898e7dc15ee66c5d277]
 
 These Regulations may be cited as the Costs in Criminal Cases (General) (Amendment) Regulations 2013 and come into force on 27th October 2013.
 
-## 2. Amendment of the Costs in Criminal Cases (General) Regulations 1986[^key-22ec4ce385d869dd338e440c6980de87]
+## 2. Amendment of the Costs in Criminal Cases (General) Regulations 1986[^c-22ec4ce385d869dd338e440c6980de87]
 
 (1) The Costs in Criminal Cases (General) Regulations 1986[^f00002] are amended as follows.
 
@@ -87,8 +87,8 @@ Regulation 2(4) amends Part 5 of the 1986 Regulations, which details when paymen
 
 [^f00001]: Footnote: [1985 c. 23](https://www.legislation.gov.uk/ukpga/1985/23); section 19(3) was relevantly amended by section 166(2) of the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33).
 
-[^key-b2b86a9605747898e7dc15ee66c5d277]: Commencement: Reg. 1 in force at 27.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2526/regulation/1)
+[^c-b2b86a9605747898e7dc15ee66c5d277]: Commencement: Reg. 1 in force at 27.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2526/regulation/1)
 
-[^key-22ec4ce385d869dd338e440c6980de87]: Commencement: Reg. 2 in force at 27.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2526/regulation/1)
+[^c-22ec4ce385d869dd338e440c6980de87]: Commencement: Reg. 2 in force at 27.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2526/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1986/1335](https://www.legislation.gov.uk/uksi/1986/1335); relevant amending instruments are [S.I. 2008/2448](https://www.legislation.gov.uk/uksi/2008/2448) and [S.I. 2009/2720](https://www.legislation.gov.uk/uksi/2009/2720).

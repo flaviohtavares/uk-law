@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22.2. Raising a compatibility question or devolution issue[^key-a62c50d2024c179c163077ce85cfe349]
+## 22.2. Raising a compatibility question or devolution issue[^c-a62c50d2024c179c163077ce85cfe349]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ on the basis of which it is alleged that the compatibility question or devolutio
 
 ## Annotations
 
-[^key-a62c50d2024c179c163077ce85cfe349]: Textual amendment: Ch. 22 substituted (16.7.2024) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Appeal Court Rules 2021 Amendment) (United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024) 2024 (S.S.I. 2024/195)](https://www.legislation.gov.uk/ssi/2024/195), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/195/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2024/195/paragraph/3/2)
+[^c-a62c50d2024c179c163077ce85cfe349]: Textual amendment: Ch. 22 substituted (16.7.2024) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Appeal Court Rules 2021 Amendment) (United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024) 2024 (S.S.I. 2024/195)](https://www.legislation.gov.uk/ssi/2024/195), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/195/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2024/195/paragraph/3/2)

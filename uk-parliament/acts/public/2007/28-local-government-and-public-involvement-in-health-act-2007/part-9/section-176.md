@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Power of Commissioners to make recommendations etc[^key-daef92e852d5a8af2c1385aa05fd568c]
+## 176. Power of Commissioners to make recommendations etc[^c-daef92e852d5a8af2c1385aa05fd568c]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-daef92e852d5a8af2c1385aa05fd568c]: Commencement: S. 176 in force at 1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/i) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-daef92e852d5a8af2c1385aa05fd568c]: Commencement: S. 176 in force at 1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/i) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))

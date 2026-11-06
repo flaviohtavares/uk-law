@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Designated distance learning courses[^key-70a4362a7cf5b9d4d8d316c3feba10f3]
+## 117. Designated distance learning courses[^c-70a4362a7cf5b9d4d8d316c3feba10f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70a4362a7cf5b9d4d8d316c3feba10f3]: Commencement: Reg. 117 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-70a4362a7cf5b9d4d8d316c3feba10f3]: Commencement: Reg. 117 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

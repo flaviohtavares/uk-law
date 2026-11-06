@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Constituting an adoption panel[^key-006b77dcec6d0e74c593a3e1d7a8db82]
+## 4. Constituting an adoption panel[^c-006b77dcec6d0e74c593a3e1d7a8db82]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-006b77dcec6d0e74c593a3e1d7a8db82]: Textual amendment: Regs. 3-8 substituted for reg. 3-10 (1.4.2011) by [The Adoption Agencies and Independent Review of Determinations (Amendment) Regulations 2011 (S.I. 2011/589)](https://www.legislation.gov.uk/uksi/2011/589), [regs. 1](https://www.legislation.gov.uk/uksi/2011/589/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/589/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/589/regulation/3))
+[^c-006b77dcec6d0e74c593a3e1d7a8db82]: Textual amendment: Regs. 3-8 substituted for reg. 3-10 (1.4.2011) by [The Adoption Agencies and Independent Review of Determinations (Amendment) Regulations 2011 (S.I. 2011/589)](https://www.legislation.gov.uk/uksi/2011/589), [regs. 1](https://www.legislation.gov.uk/uksi/2011/589/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/589/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/589/regulation/3))

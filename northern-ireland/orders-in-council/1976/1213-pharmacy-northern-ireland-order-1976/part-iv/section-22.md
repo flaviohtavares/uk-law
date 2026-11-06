@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Provisions as to directions given by Statutory Committee and as to appeals[^key-02639bab935a7cfd71d047ae3cf08b5e]
+## 22. Provisions as to directions given by Statutory Committee and as to appeals[^c-02639bab935a7cfd71d047ae3cf08b5e]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02639bab935a7cfd71d047ae3cf08b5e]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/nisi/1976/1213/article/22) repealed (1.10.2012) by [The Pharmacy (1976 Order) (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/308)](https://www.legislation.gov.uk/nisr/2012/308), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2012/308/article/1/1), [15](https://www.legislation.gov.uk/nisr/2012/308/article/15) (with [Sch. 3](https://www.legislation.gov.uk/nisr/2012/308/schedule/3))
+[^c-02639bab935a7cfd71d047ae3cf08b5e]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/nisi/1976/1213/article/22) repealed (1.10.2012) by [The Pharmacy (1976 Order) (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/308)](https://www.legislation.gov.uk/nisr/2012/308), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2012/308/article/1/1), [15](https://www.legislation.gov.uk/nisr/2012/308/article/15) (with [Sch. 3](https://www.legislation.gov.uk/nisr/2012/308/schedule/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Sections 19 to 23: minor and consequential amendments[^key-06ac283e28d0980769e7ecdfb9e33e03]
+## 24. Sections 19 to 23: minor and consequential amendments[^c-06ac283e28d0980769e7ecdfb9e33e03]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Schedule 1 makes—
 
 ## Annotations
 
-[^key-06ac283e28d0980769e7ecdfb9e33e03]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2025/34/section/24) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
+[^c-06ac283e28d0980769e7ecdfb9e33e03]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2025/34/section/24) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)

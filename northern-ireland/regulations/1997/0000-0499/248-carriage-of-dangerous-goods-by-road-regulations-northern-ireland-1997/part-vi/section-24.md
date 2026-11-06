@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Supervision and parking of vehicles[^key-ca7a6836d0e63ff9d5581ffcd41abe79]
+## 24. Supervision and parking of vehicles[^c-ca7a6836d0e63ff9d5581ffcd41abe79]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca7a6836d0e63ff9d5581ffcd41abe79]: Commencement: Reg. 24 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-ca7a6836d0e63ff9d5581ffcd41abe79]: Commencement: Reg. 24 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

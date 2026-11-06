@@ -24,9 +24,9 @@ Section 411
 
 ### PART 1 — Amendments to Chapter 1 of Part 8: service compensation orders, service community orders etc.
 
-**1.**[^key-c178cd8d6ea743e146e87cb201aec992] Chapter 1 of Part 8 of the Armed Forces Act 2006 is amended as follows.
+**1.**[^c-c178cd8d6ea743e146e87cb201aec992] Chapter 1 of Part 8 of the Armed Forces Act 2006 is amended as follows.
 
-**2.**[^key-d841a2550caa2aa39a859fc06792743f] After section 177 insert—
+**2.**[^c-d841a2550caa2aa39a859fc06792743f] After section 177 insert—
 
 > **177A. Effect of service compensation order on subsequent award of damages in civil proceedings**
 >
@@ -44,7 +44,7 @@ Section 411
 >
 > (4) The claimant may not enforce the judgment, so far as it relates to unrecovered compensation, without the leave of the court.
 
-**3.**[^key-780477679d81deca6b4af8bc04505816] (1) Section 178 (service community orders) is amended as follows.
+**3.**[^c-780477679d81deca6b4af8bc04505816] (1) Section 178 (service community orders) is amended as follows.
 
 (2) In subsection (1), in paragraph (a), for the words from “mentioned” to “Act)” substitute “ listed in column 1 of the community order requirements table in section 201 of the Sentencing Code ”.
 
@@ -77,7 +77,7 @@ Section 411
 
 (4) Omit subsection (5).
 
-**4.**[^key-128c2bfb68093cd319b697599bc38902] For section 179 (periodic review etc of service community orders) substitute—
+**4.**[^c-128c2bfb68093cd319b697599bc38902] For section 179 (periodic review etc of service community orders) substitute—
 
 > **179. Review of service community order imposing drug rehabilitation requirement**
 >
@@ -96,7 +96,7 @@ Section 411
 > >
 > > (5B) Where a sentence is passed under sub-paragraph (4)(b), section 9 of the Criminal Appeal Act 1968 (appeal against sentence) applies as if the offender had been convicted on indictment of the offence for which the sentence was passed.
 
-**5.**[^key-ab7acc703d6eaccb52bcf76589c6f290] For section 180 (transfer of service community order to Scotland or Northern Ireland) substitute—
+**5.**[^c-ab7acc703d6eaccb52bcf76589c6f290] For section 180 (transfer of service community order to Scotland or Northern Ireland) substitute—
 
 > **180. Transfer of service community order to Scotland or Northern Ireland**
 >
@@ -116,7 +116,7 @@ Section 411
 >
 > (8) In this section “**relevant service court**” has the same meaning as in section 178.
 
-**6.**[^key-592d7dd36a1ea19a36d6d77a41eec50f] For section 181 (breach, revocation or amendment of service community order) substitute—
+**6.**[^c-592d7dd36a1ea19a36d6d77a41eec50f] For section 181 (breach, revocation or amendment of service community order) substitute—
 
 > **181. Breach, revocation or amendment of service community order**
 >
@@ -147,7 +147,7 @@ Section 411
 >
 > (5) Paragraph 27 has effect as if sub-paragraphs (3)(b), (5) and (6) were omitted.
 
-**7.**[^key-9fe27e35b97ada1a76b0e9d14ed444eb] (1) Section 182 (overseas community orders) is amended as follows.
+**7.**[^c-9fe27e35b97ada1a76b0e9d14ed444eb] (1) Section 182 (overseas community orders) is amended as follows.
 
 (2) In subsection (1), in paragraph (a), for the words from “mentioned” to “Act)” substitute “ listed in column 1 of the community order requirements table in section 201 of the Sentencing Code ”.
 
@@ -192,7 +192,7 @@ Section 411
 >
 > See Schedule 6A to this Act as regards references to a court in Schedule 10.
 
-**8.**[^key-6d16de739930845258307b7e87443353] For section 183 (overseas community orders: modifications of 2003 Act) substitute—
+**8.**[^c-6d16de739930845258307b7e87443353] For section 183 (overseas community orders: modifications of 2003 Act) substitute—
 
 > **183. Overseas community orders: modifications of the Sentencing Code**
 >
@@ -223,11 +223,11 @@ Section 411
 >
 > (6) Schedule 6 makes provision about the application of the provisions of the Sentencing Code mentioned in section 182(3) where an overseas community order relates to a young offender.
 
-**9.**[^key-fe4b298bb0659887b615b2992ee11bae] In section 184 (breach, revocation or amendment of overseas community order), for the words from the beginning to “2003 Act” substitute “ Schedule 6A (application of Schedule 10 to the Sentencing Code ”.
+**9.**[^c-fe4b298bb0659887b615b2992ee11bae] In section 184 (breach, revocation or amendment of overseas community order), for the words from the beginning to “2003 Act” substitute “ Schedule 6A (application of Schedule 10 to the Sentencing Code ”.
 
-**10.**[^key-52b6d7a389b0896de2dce61823647e9a] Omit Schedule 5 (breach, revocation and amendment of community punishments).
+**10.**[^c-52b6d7a389b0896de2dce61823647e9a] Omit Schedule 5 (breach, revocation and amendment of community punishments).
 
-**11.**[^key-33de440f68de33e0f17f26557e8d2da6] (1) Schedule 6 (overseas community orders) is amended as follows.
+**11.**[^c-33de440f68de33e0f17f26557e8d2da6] (1) Schedule 6 (overseas community orders) is amended as follows.
 
 (2) In the shoulder reference, for “section 182” substitute “ section 183(6) ”.
 
@@ -270,7 +270,7 @@ Section 411
 
 (9) In paragraph 8 (power to amend) for “section 223 of the 2003 Act” substitute “ paragraph 13 of Schedule 23 to the Sentencing Act 2020 ”.
 
-**12.**[^key-5c52233f0f92b61121d430cb89147b09] After Schedule 6, insert—
+**12.**[^c-5c52233f0f92b61121d430cb89147b09] After Schedule 6, insert—
 
 > **SCHEDULE 6A — Breach, revocation and amendment of overseas community orders**
 >
@@ -445,13 +445,13 @@ Section 411
 >
 > is to be treated, for the purpose of enabling an appeal under the Court Martial Appeals Act 1968 against the sentence, as if he or she had been so convicted.
 
-**13.**[^key-ef461e02eb993c292e02c84ca64db891] In section 185 (conditional or absolute discharge), in subsection (2)(b), for “section 12(1)(b) of the Sentencing Act” substitute “ section 80(5) of the Sentencing Code ”.
+**13.**[^c-ef461e02eb993c292e02c84ca64db891] In section 185 (conditional or absolute discharge), in subsection (2)(b), for “section 12(1)(b) of the Sentencing Act” substitute “ section 80(5) of the Sentencing Code ”.
 
 ### PART 2 — Amendments to Chapter 2 of Part 8: consecutive sentences
 
-**14.**[^key-3fc2642af2c6e76fcea5f2be102af8f4] Chapter 2 of Part 8 of the Armed Forces Act 2006 is amended as follows.
+**14.**[^c-3fc2642af2c6e76fcea5f2be102af8f4] Chapter 2 of Part 8 of the Armed Forces Act 2006 is amended as follows.
 
-**15.**[^key-47737d5c1f0385b4d16875e20db04ccf] (1) Section 188 (consecutive sentences) is amended as follows.
+**15.**[^c-47737d5c1f0385b4d16875e20db04ccf] (1) Section 188 (consecutive sentences) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -493,13 +493,13 @@ Section 411
 
 ### PART 3 — Amendments to Chapter 4 of Part 8: suspended sentence orders
 
-**16.**[^key-ba64251e58c82b6b3ef518f32a78042f] Chapter 4 of Part 8 of the Armed Forces Act 2006 is amended as follows.
+**16.**[^c-ba64251e58c82b6b3ef518f32a78042f] Chapter 4 of Part 8 of the Armed Forces Act 2006 is amended as follows.
 
-**17.**[^key-37a2fa8dfcf25027d3c21f5457f8f33f] In the Chapter heading, for “under 12 Months” substitute “ two years or less ”.
+**17.**[^c-37a2fa8dfcf25027d3c21f5457f8f33f] In the Chapter heading, for “under 12 Months” substitute “ two years or less ”.
 
-**18.**[^key-3e57ed3b0a3c7260973686bd7d99d713] Omit section 196 (and the italic heading before it).
+**18.**[^c-3e57ed3b0a3c7260973686bd7d99d713] Omit section 196 (and the italic heading before it).
 
-**19.**[^key-fb5bdb0c0a06197791914b7858b783b9] For section 200 substitute—
+**19.**[^c-fb5bdb0c0a06197791914b7858b783b9] For section 200 substitute—
 
 > **200. Suspended sentence orders**
 >
@@ -542,13 +542,13 @@ Section 411
 >
 >   .
 
-**20.**[^key-a7c450c286f803bef6249ed374c5302e] In section 202 (order with community requirements: disapplication of certain provisions)—
+**20.**[^c-a7c450c286f803bef6249ed374c5302e] In section 202 (order with community requirements: disapplication of certain provisions)—
 
 - (a) for “Chapter 4 of Part 12 of the 2003 Act” substitute “ the Sentencing Code ”;
 - (b) for “section 207(3)(a)(ii)” substitute “ paragraph 17(2)(c) of Schedule 9 ”;
 - (c) for “section 219(3)” substitute “ section 298(4) ”.
 
-**21.**[^key-fb8840c12d0f3f0bb8188fe88e2aa8e2] For section 203 (review of order with community requirements), substitute—
+**21.**[^c-fb8840c12d0f3f0bb8188fe88e2aa8e2] For section 203 (review of order with community requirements), substitute—
 
 > **203. Review of order with community requirements**
 >
@@ -573,7 +573,7 @@ Section 411
 >
 > .
 
-**22.**[^key-7c2c3eea80cd6dac84412e0f953d3ef5] For section 204 (transfer to Scotland or Northern Ireland of order with community requirements) substitute—
+**22.**[^c-7c2c3eea80cd6dac84412e0f953d3ef5] For section 204 (transfer to Scotland or Northern Ireland of order with community requirements) substitute—
 
 > **204. Transfer to Scotland or Northern Ireland of order with community requirements**
 >
@@ -588,11 +588,11 @@ Section 411
 >
 >   .
 
-**23.**[^key-605cd5b9b82e3cac79198fad140a8074] Omit section 205.
+**23.**[^c-605cd5b9b82e3cac79198fad140a8074] Omit section 205.
 
-**24.**[^key-a94b85d17e3c7a0f34e915e05beb9e4a] Omit section 206.
+**24.**[^c-a94b85d17e3c7a0f34e915e05beb9e4a] Omit section 206.
 
-**25.**[^key-d884836b88d11c877eb20747eddcc05c] For section 207 (definitions for purposes of Chapter) substitute—
+**25.**[^c-d884836b88d11c877eb20747eddcc05c] For section 207 (definitions for purposes of Chapter) substitute—
 
 > **207. Definitions for purposes of Chapter**
 >
@@ -606,7 +606,7 @@ Section 411
 > - “**suspended sentence order**” has the same meaning as in the Sentencing Code (see section 286(6) of that Code);
 > - “**suspended sentence order with community requirements**” means a suspended sentence order that specifies one or more community requirements (see section 286(2) of that Code).
 
-**26.**[^key-3624920df7394d0c1134d17a5b2d6478] For Schedule 7 (suspended prison sentence: further conviction or breach of requirement) substitute—
+**26.**[^c-3624920df7394d0c1134d17a5b2d6478] For Schedule 7 (suspended prison sentence: further conviction or breach of requirement) substitute—
 
 > **SCHEDULE 7 — Suspended sentence orders: breach or amendment; effect of further conviction**
 >
@@ -761,20 +761,20 @@ Section 411
 
 ### PART 4 — Amendments to Chapter 5 of Part 8: custodial sentences for young offenders
 
-**27.**[^key-db080afd70788f6b873859c60e79b766] Chapter 5 of Part 8 of the Armed Forces Act 2006 is amended as follows.
+**27.**[^c-db080afd70788f6b873859c60e79b766] Chapter 5 of Part 8 of the Armed Forces Act 2006 is amended as follows.
 
-**28.**[^key-2ccb51f65e2a0447a1e2984c31718769] In section 208 (prohibition on imposing imprisonment on people under a certain age)—
+**28.**[^c-2ccb51f65e2a0447a1e2984c31718769] In section 208 (prohibition on imposing imprisonment on people under a certain age)—
 
 - (a) for “18” substitute “ 21 ”;
 - (b) in the heading, for “18” substitute “ 21 ”.
 
-**29.**[^key-954b74b8d9b1e5a87201b0e42260b432] (1) Section 209 (offenders under 18 convicted of certain serious offences: power to detain for specified period) is amended as follows.
+**29.**[^c-954b74b8d9b1e5a87201b0e42260b432] (1) Section 209 (offenders under 18 convicted of certain serious offences: power to detain for specified period) is amended as follows.
 
 (2) In subsection (2)(a), for “18” substitute “ 21 ”.
 
 (3) In subsection (6), for “18” substitute “ 21 ”.
 
-**30.**[^key-56d4f2b0916ea05c88ff2cbe034c0868] After section 210 insert—
+**30.**[^c-56d4f2b0916ea05c88ff2cbe034c0868] After section 210 insert—
 
 > **210A. Offenders under 21: offences other than murder; discretionary custody for life**
 >
@@ -801,18 +801,18 @@ Section 411
 >
 > (3) The minimum term of a sentence of detention in a young offender institution is 21 days.
 
-**31.**[^key-85fb844335a496cce6ecbdb56967f9a6] In section 211 (offenders under 18: detention and training orders)—
+**31.**[^c-85fb844335a496cce6ecbdb56967f9a6] In section 211 (offenders under 18: detention and training orders)—
 
 - (a) in subsection (1)(a), for “18 or over” substitute “ 21 or over ”;
 - (b) in subsection (3)(c), for the words from “on” to the end substitute “ after paragraph (aa) of section 234(1) of the Sentencing Code comes into force (see paragraph 27(1)(b) of Schedule 22 to the Sentencing Act 2020). ”
 
-**32.**[^key-0f2d82470f69c7200e358466bafba64e] (1) Section 212 (term of detention and training order: general) is amended as follows.
+**32.**[^c-0f2d82470f69c7200e358466bafba64e] (1) Section 212 (term of detention and training order: general) is amended as follows.
 
 (2) In subsections (1)(b) and (2)(c), for “18” substitute “ 21 ”.
 
 (3) In subsection (3), for “provides otherwise under section 101(3) of the Sentencing Act” substitute “ orders otherwise under section 237 of the Sentencing Code ”.
 
-**33.**[^key-0d091be1eaf137f84b41305548946c25] (1) Section 213 (application of provisions relating to civilian detention and training orders) is amended as follows.
+**33.**[^c-0d091be1eaf137f84b41305548946c25] (1) Section 213 (application of provisions relating to civilian detention and training orders) is amended as follows.
 
 (2) For subsections (1) to (3) substitute—
 
@@ -858,7 +858,7 @@ Section 411
 
 > (8) In this section, “**relevant service court**” has the same meaning as in Chapter 4 of Part 8 (see section 207).
 
-**34.**[^key-ed2af1f5d5e51a6ca083da1cab7fb798] (1) Section 214 (offences during currency of detention and training order) is amended as follows.
+**34.**[^c-ed2af1f5d5e51a6ca083da1cab7fb798] (1) Section 214 (offences during currency of detention and training order) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -881,16 +881,16 @@ Section 411
 
 (4) In subsection (7)(c), for “section 105 of the Sentencing Act” substitute “ paragraph 7 of Schedule 12 to the Sentencing Code ”.
 
-**35.**[^key-20455be0ebd89972d4965d3c3cf05afc] In section 215 (section 214: definitions etc)—
+**35.**[^c-20455be0ebd89972d4965d3c3cf05afc] In section 215 (section 214: definitions etc)—
 
 - (a) in subsection (1), for “Section 101(13) of the Sentencing Act” substitute “ Section 238(3) of the Sentencing Code ”;
 - (b) in subsection (3), for “section 107 of the Sentencing Act” substitute “ section 248 of the Sentencing Code ”.
 
 ### PART 5 — Amendments to Chapter 6 of Part 8: sentences for certain offences
 
-**36.**[^key-2ab6bdf7c324eab10d28a27b2363b2d3] Chapter 6 of Part 8 of the Armed Forces Act 2006 is amended as follows.
+**36.**[^c-2ab6bdf7c324eab10d28a27b2363b2d3] Chapter 6 of Part 8 of the Armed Forces Act 2006 is amended as follows.
 
-**37.**[^key-19bffb3c6f522a4da4060804ed16c810] In section 217 (mandatory life imprisonment), for subsection (2) substitute—
+**37.**[^c-19bffb3c6f522a4da4060804ed16c810] In section 217 (mandatory life imprisonment), for subsection (2) substitute—
 
 > (2) Where on conviction the offender is 21 or over, the court must sentence the offender to imprisonment for life.
 >
@@ -898,7 +898,7 @@ Section 411
 >
 > (4) Subsection (3) does not apply where the offender is liable to be detained under section 218 (detention at Her Majesty's pleasure for offender under 18).
 
-**38.**[^key-1cb0b996b00f313b08ef370b3f3efd4b] (1) Section 218A (life sentence for second listed offence) is amended as follows.
+**38.**[^c-1cb0b996b00f313b08ef370b3f3efd4b] (1) Section 218A (life sentence for second listed offence) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -938,7 +938,7 @@ Section 411
 
 (11) In subsection (8), for “and (5)(a)” substitute “ , (5)(a) and (5A) ”.
 
-**39.**[^key-a42ec9e38c2144648f88e954e9b18d1f] (1) Section 219 (life sentence for certain dangerous offenders aged 18 or over) is amended as follows.
+**39.**[^c-a42ec9e38c2144648f88e954e9b18d1f] (1) Section 219 (life sentence for certain dangerous offenders aged 18 or over) is amended as follows.
 
 (2) In subsection (1)(b), for “serious offence” substitute “ Schedule 19 offence within the meaning of Part 10 of the Sentencing Code (see section 307 of that Code) ”.
 
@@ -954,7 +954,7 @@ Section 411
 
 (7) In subsection (5), for “section 225 of the 2003 Act” substitute “ section 274 or 285 of the Sentencing Code ”.
 
-**40.**[^key-c35ccf6891577a029a32af4144092ae2] (1) Section 219A (extended sentences for certain violent, sexual or terrorism offenders aged 18 or over) is amended as follows.
+**40.**[^c-c35ccf6891577a029a32af4144092ae2] (1) Section 219A (extended sentences for certain violent, sexual or terrorism offenders aged 18 or over) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -995,7 +995,7 @@ Section 411
 > - (b) subsection (3) has effect as if, after “offences” there were inserted “ or further acts or omissions that would be specified offences if committed in England and Wales ”;
 > - (c) in subsection (4)(b), sub-paragraphs (i) and (ii) both have effect as if for “in the case of” there were substituted “ if the offence under section 42 was one for which the corresponding offence under the law of England and Wales was ”.
 
-**41.**[^key-ee7bfd6f5215bb4a3ba49575879a76fb] (1) Section 221 (life sentence for certain dangerous offenders aged under 18) is amended as follows.
+**41.**[^c-ee7bfd6f5215bb4a3ba49575879a76fb] (1) Section 221 (life sentence for certain dangerous offenders aged under 18) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -1021,7 +1021,7 @@ Section 411
 
 (6) In subsection (6), for “section 226 of the 2003 Act” substitute “ section 258(2) of the Sentencing Code ”.
 
-**42.**[^key-92078a641412cd3bb441ba1ccae05016] (1) Section 221A (extended sentence for certain violent, sexual or terrorism offenders aged under 18) is amended as follows.
+**42.**[^c-92078a641412cd3bb441ba1ccae05016] (1) Section 221A (extended sentence for certain violent, sexual or terrorism offenders aged under 18) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -1046,7 +1046,7 @@ Section 411
 > - (b) subsection (3) has effect as if, after “offences” there were inserted “ or further acts or omissions that would be specified offences if committed in England and Wales ”;
 > - (c) in subsection (4)(b), sub-paragraphs (i) and (ii) both have effect as if for “in the case of” there were substituted “ if the offence under section 42 was one for which the corresponding offence under the law of England and Wales was ”.
 
-**43.**[^key-247ad7f19c7ad075f5fad3ac4b572ce1] (1) Section 223 (the “**required opinion**” for the purposes of sections 219 to 221A) is amended as follows.
+**43.**[^c-247ad7f19c7ad075f5fad3ac4b572ce1] (1) Section 223 (the “**required opinion**” for the purposes of sections 219 to 221A) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -1059,13 +1059,13 @@ Section 411
 
 (4) In subsection (4), in the definition of “serious harm”, for “section 224 of the 2003 Act” substitute “ section 306 of the Sentencing Code ”.
 
-**44.**[^key-b2b07932950700ff8e69daeb72cacdb2] For section 224 (place of detention under certain sentences), substitute—
+**44.**[^c-b2b07932950700ff8e69daeb72cacdb2] For section 224 (place of detention under certain sentences), substitute—
 
 > **224. Place of detention for extended sentences for offenders aged under 18**
 >
 > Section 261 of the Sentencing Code (detention in pursuance of extended sentence) applies to detention imposed by virtue of section 221A of this Act as it applies to detention under section 254 of that Code.
 
-**45.**[^key-8a898921f7ba482ee665ef26d7679600] (1) Section 224A (special custodial sentence for certain offenders of particular concern) is amended as follows.
+**45.**[^c-8a898921f7ba482ee665ef26d7679600] (1) Section 224A (special custodial sentence for certain offenders of particular concern) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -1096,17 +1096,17 @@ Section 411
 
 > (4) In Schedule 13 to the Sentencing Code, as applied by subsection (1)(b), the reference in paragraph 10 to section 69 of that Code is to be read as a reference to that section as applied by section 238(6) of this Act.
 
-**46.**[^key-c193e0cf7ef26940806de399209de9a8] In section 225 (third drug trafficking offence)—
+**46.**[^c-c193e0cf7ef26940806de399209de9a8] In section 225 (third drug trafficking offence)—
 
 - (a) in subsection (1)(b), for “section 110 of the Sentencing Act” substitute “ section 313 of the Sentencing Code ”;
 - (b) in subsection (2), for “section 110(2) of that Act” substitute “ section 313(2) of that Code ”.
 
-**47.**[^key-cb29a775e517ba526c7df1a240fa1fc7] In section 226 (third domestic burglary)—
+**47.**[^c-cb29a775e517ba526c7df1a240fa1fc7] In section 226 (third domestic burglary)—
 
 - (a) in subsection (1)(b), for “section 111 of the Sentencing Act” substitute “ section 314 of the Sentencing Code ”;
 - (b) in subsection (2), for “section 111(2) of that Act” substitute “ section 314(2) of that Code ”.
 
-**48.**[^key-9a3a7d51c8ff382fae384742d0018195] (1) Section 227 (firearms offences) is amended as follows.
+**48.**[^c-9a3a7d51c8ff382fae384742d0018195] (1) Section 227 (firearms offences) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -1124,7 +1124,7 @@ Section 411
 - (a) for “section 51A(4)(a)(ii) of that Act (interpretation of section 51A(2))” substitute “ section 311(3)(a) of that Code ”;
 - (b) for “section 91 of the Sentencing Act” substitute “ section 250 of that Code ”.
 
-**49.**[^key-b945ecb2a6daaec32903f68b4db57fc5] (1) Section 227A (offences of threatening with a weapon on public or on school premises) is amended as follows.
+**49.**[^c-b945ecb2a6daaec32903f68b4db57fc5] (1) Section 227A (offences of threatening with a weapon on public or on school premises) is amended as follows.
 
 (2) After subsection (1), insert—
 
@@ -1137,7 +1137,7 @@ Section 411
 
 (4) Omit subsection (3).
 
-**50.**[^key-799e3be44ebfe7e24e18c046fae1b5d5] (1) Section 228 (appeals where previous convictions set aside) is amended as follows.
+**50.**[^c-799e3be44ebfe7e24e18c046fae1b5d5] (1) Section 228 (appeals where previous convictions set aside) is amended as follows.
 
 (2) In subsection (1B)(a), for “section 224A of the 2003 Act (as applied by section 218A of this Act)” substitute “ section 273(3) or 283(3) of the Sentencing Code (life sentence for second listed offence) as applied by section 218A of this Act ”.
 
@@ -1147,9 +1147,9 @@ Section 411
 
 ### PART 6 — Amendments to Part 9: sentencing: principles and procedures
 
-**51.**[^key-eda9729ddebcf9b866ce6fd179d2d1fd] Part 9 of the Armed Forces Act 2006 is amended as follows.
+**51.**[^c-eda9729ddebcf9b866ce6fd179d2d1fd] Part 9 of the Armed Forces Act 2006 is amended as follows.
 
-**52.**[^key-4347666935a1f671cd1c94cafe2adee0] In section 237 (duty to have regard to purposes of sentencing etc), in subsection (3)—
+**52.**[^c-4347666935a1f671cd1c94cafe2adee0] In section 237 (duty to have regard to purposes of sentencing etc), in subsection (3)—
 
 - (a) for paragraph (b) substitute—
 
@@ -1163,28 +1163,28 @@ Section 411
   ;
 - (b) in paragraph (c), for “227A(2)” substitute “ 227A(1A) or (2) (threatening with a weapon in public or on school premises) ”.
 
-**53.**[^key-d1bfa4c3ff4c1f5947a97b229a5f28c2] In section 238 (deciding the seriousness of an offence), at the end insert—
+**53.**[^c-d1bfa4c3ff4c1f5947a97b229a5f28c2] In section 238 (deciding the seriousness of an offence), at the end insert—
 
 > (6) In section 69 of the Sentencing Code (seriousness of offence with terrorist connection)—
 >
 > - (a) the references to a court are to be read as including a court dealing with an offender for an offence under section 42, and
 > - (b) the reference in subsection (1) to an offence specified in Schedule 1 to that Code is to be read as a reference to an offence under section 42 as respects which the corresponding offence under the law of England and Wales is an offence specified in Schedule 1.
 
-**54.**[^key-7d68bd6b03a19de2f3305f495b7278b1] In section 239 (reduction in sentences for guilty pleas)—
+**54.**[^c-7d68bd6b03a19de2f3305f495b7278b1] In section 239 (reduction in sentences for guilty pleas)—
 
 - (a) in subsection (4), for “110(2) or 111(2) of the Sentencing Act” substitute “ 313(2) or 314(2) of the Sentencing Code ”;
 - (b) in subsection (5), for “110(2) or 111(2) of that Act” substitute “ 313(2) or 314(2) of that Code ” in both places it occurs;
 - (c) in subsection (6), for “227A(2)” substitute “ 227A(1A) or (2) ” in both places it occurs.
 
-**55.**[^key-edfc393fe93efb36323bb8a6a344a6e9] In section 246 (crediting of time in service custody: terms of imprisonment and detention), in subsection (6), after paragraph (b) (but before the “and”) insert—
+**55.**[^c-edfc393fe93efb36323bb8a6a344a6e9] In section 246 (crediting of time in service custody: terms of imprisonment and detention), in subsection (6), after paragraph (b) (but before the “and”) insert—
 
 > - (ba) an extended sentence of detention under section 254 of the Sentencing Code passed as a result of section 221A of this Act,
 
 .
 
-**56.**[^key-bd924f889a2af3ba27a4860a836f3f89] In section 247 (crediting of time in service custody: supplementary), in subsection (7), for “any sentence within paragraph (a), (b) or (c)” substitute “ a sentence within any of paragraphs (a) to (c) ”.
+**56.**[^c-bd924f889a2af3ba27a4860a836f3f89] In section 247 (crediting of time in service custody: supplementary), in subsection (7), for “any sentence within paragraph (a), (b) or (c)” substitute “ a sentence within any of paragraphs (a) to (c) ”.
 
-**57.**[^key-35d5917845510b876e48786df5833d50] In section 257 (pre-sentence reports: supplementary)—
+**57.**[^c-35d5917845510b876e48786df5833d50] In section 257 (pre-sentence reports: supplementary)—
 
 - (a) in subsection (1), for “section 158(1) of the 2003 Act” substitute “ section 31(1) of the Sentencing Code ”;
 - (b) in subsection (2)—
@@ -1194,7 +1194,7 @@ Section 411
   - (i) for “Section 159(1) to (3) and (5) of the 2003 Act” substitute “ Section 32(1) to (4) and (6) of the Sentencing Code ”, and
   - (ii) for “section 156 of that Act” substitute “ section 30 of that Code ”.
 
-**58.**[^key-4c2c1ff634ba103181c2902595c68937] In section 260 (discretionary custodial sentences: general restrictions)—
+**58.**[^c-4c2c1ff634ba103181c2902595c68937] In section 260 (discretionary custodial sentences: general restrictions)—
 
 - (a) in subsection (1), for paragraph (b) (and the “or” preceding it) substitute—
 
@@ -1214,7 +1214,7 @@ Section 411
   > - (a) section 268(2) or 281(2) of the Sentencing Code, as applied by section 219A of this Act (extended sentences for offenders aged 18 or over), or
   > - (b) section 256(2) of the Sentencing Code, as applied by section 221A of this Act (extended sentences for offenders aged under 18).
 
-**59.**[^key-2cb3b7bc58c5ff7997671f558cdf82a7] In section 261 (length of discretionary custodial sentences: general provision), in subsection (1), for the words from “section 224A” to the end substitute
+**59.**[^c-2cb3b7bc58c5ff7997671f558cdf82a7] In section 261 (length of discretionary custodial sentences: general provision), in subsection (1), for the words from “section 224A” to the end substitute
 
 > —
 >
@@ -1222,7 +1222,7 @@ Section 411
 > - (b) section 274(3) or 285(3) of the Sentencing Code as a result of section 219(1A) or (2) (life sentence for certain dangerous offenders aged 18 or over), or
 > - (c) section 258(2) of the Sentencing Code as a result of section 221(2) (life sentence for certain dangerous offenders aged under 18).
 
-**60.**[^key-2f66572fe599d404dbef651036db29f1] After section 261, insert—
+**60.**[^c-2f66572fe599d404dbef651036db29f1] After section 261, insert—
 
 > **261A. Life sentences: further provision**
 >
@@ -1245,9 +1245,9 @@ Section 411
 >
 > .
 
-**61.**[^key-dced4ed674e2f8997c9bd81537a508f7] In section 262 (power to recommend licence conditions), for “section 238(1) of the 2003 Act” substitute “ section 328 of the Sentencing Code ”.
+**61.**[^c-dced4ed674e2f8997c9bd81537a508f7] In section 262 (power to recommend licence conditions), for “section 238(1) of the 2003 Act” substitute “ section 328 of the Sentencing Code ”.
 
-**62.**[^key-4f9d916936a0cd00831117b4795f0054] After section 262, insert—
+**62.**[^c-4f9d916936a0cd00831117b4795f0054] After section 262, insert—
 
 > **262A. Conversion of sentence of detention to sentence of imprisonment**
 >
@@ -1269,22 +1269,22 @@ Section 411
 > > - (e) an extended sentence of detention in a young offender institution (see section 219A(4) of the Armed Forces Act 2006);
 > > - (f) a sentence of custody for life (see sections 210A, 217, 218A(1B) and 219(1A) of the Armed Forces Act 2006).
 
-**63.**[^key-cf4014b7d6daf1a56844f1ead0724540] In section 263 (restriction on imposing custodial sentence or service detention on unrepresented offender), in subsection (3), for paragraph (a) (including the “or” at the end) substitute—
+**63.**[^c-cf4014b7d6daf1a56844f1ead0724540] In section 263 (restriction on imposing custodial sentence or service detention on unrepresented offender), in subsection (3), for paragraph (a) (including the “or” at the end) substitute—
 
 > - (a) pass a custodial sentence on an offender who is aged under 21 on conviction, or
 
 .
 
-**64.**[^key-530487364b966155080e65acace25b81] In section 269A (fines: fixing of term of imprisonment for default), in subsection (2), for “section 139(4) of the Sentencing Act” substitute “ section 129(4) of the Sentencing Code ”.
+**64.**[^c-530487364b966155080e65acace25b81] In section 269A (fines: fixing of term of imprisonment for default), in subsection (2), for “section 139(4) of the Sentencing Act” substitute “ section 129(4) of the Sentencing Code ”.
 
-**65.**[^key-c4d887675d84f0c45bb8def331a4e74a] In section 269B (service compensation orders: power to set maximum term of imprisonment for default), in subsection (4), for “section 139(4) of the Sentencing Act” substitute “ section 129(4) of the Sentencing Code ”.
+**65.**[^c-c4d887675d84f0c45bb8def331a4e74a] In section 269B (service compensation orders: power to set maximum term of imprisonment for default), in subsection (4), for “section 139(4) of the Sentencing Act” substitute “ section 129(4) of the Sentencing Code ”.
 
-**66.**[^key-6bde1add04a1066628e24a51a006be91] In section 270 (community punishments: general restrictions), in subsection (2A)—
+**66.**[^c-6bde1add04a1066628e24a51a006be91] In section 270 (community punishments: general restrictions), in subsection (2A)—
 
 - (a) for “section 177(2A) of the 2003 Act” substitute “ section 208(10) and (11) of the Sentencing Code ”;
 - (b) for “section 178(3) and section 182(3A)” substitute “ section 178(2) and 182(3) ”.
 
-**67.**[^key-5589f90a5f24c6608a7479c0e59f960e] In section 270A (exception to restrictions on community punishments), in subsection (6)—
+**67.**[^c-5589f90a5f24c6608a7479c0e59f960e] In section 270A (exception to restrictions on community punishments), in subsection (6)—
 
 - (a) in paragraph (b), for sub-paragraph (i) substitute—
 
@@ -1293,7 +1293,7 @@ Section 411
   ;
 - (b) in paragraph (c), for “section 161A of the 2003 Act” substitute “ section 42 of the Sentencing Code (or section 161A of the 2003 Act) ”.
 
-**68.**[^key-63328a44af51fe20d9f0a4c9d4680d48] In section 271 (civilian courts dealing with service offences), in subsection (2)—
+**68.**[^c-63328a44af51fe20d9f0a4c9d4680d48] In section 271 (civilian courts dealing with service offences), in subsection (2)—
 
 - (a) omit paragraph (a), and
 - (b) in paragraph (b), omit “other”.
@@ -1302,11 +1302,11 @@ Section 411
 
 #### Amendment to Part 7 (trial by Court Martial)
 
-**69.**[^key-970a9b7fd770f5eb052e5b67e7e69136] In section 164(3), for “under 12 months” substitute “ two years or less ”.
+**69.**[^c-970a9b7fd770f5eb052e5b67e7e69136] In section 164(3), for “under 12 months” substitute “ two years or less ”.
 
 #### Amendments to Part 10 (Court Martial decisions: appeal and review)
 
-**70.**[^key-9e15c0f36e88700a8cd9ec5abd5c4117] In section 273 (review of unduly lenient sentence by Court Martial Appeal Court)—
+**70.**[^c-9e15c0f36e88700a8cd9ec5abd5c4117] In section 273 (review of unduly lenient sentence by Court Martial Appeal Court)—
 
 - (a) in subsection (6)(b), for the words from “section 224A” to the end substitute
 
@@ -1326,7 +1326,7 @@ Section 411
 
 #### Amendments to Part 11 (The Service Civilian Court)
 
-**71.**[^key-79db5bdd93e17c3b496c338a6e9a1368] (1) Section 283 (imprisonment: maximum term) is amended as follows.
+**71.**[^c-79db5bdd93e17c3b496c338a6e9a1368] (1) Section 283 (imprisonment: maximum term) is amended as follows.
 
 (2) In subsection (1), for “12 months” substitute “ 6 months ”.
 
@@ -1336,25 +1336,25 @@ Section 411
 
 > (3) In this section, references to imprisonment include detention in a young offender institution.
 
-**72.**[^key-84631ec954d74ede313f313ccdb93a5b] In section 284 (fines and compensation: maximum amounts), in subsection (3), for “section 131(1) of the Sentencing Act” substitute “ section 139(2) of the Sentencing Code ”.
+**72.**[^c-84631ec954d74ede313f313ccdb93a5b] In section 284 (fines and compensation: maximum amounts), in subsection (3), for “section 131(1) of the Sentencing Act” substitute “ section 139(2) of the Sentencing Code ”.
 
 #### Amendments to Part 12 (service and effect of certain sentences)
 
-**73.**[^key-16131d6f32f4a9ab41a0eaccd1a131a4] In section 294 (rank or rate of WOs and NCOs while in custody pursuant to custodial sentence etc), in subsection (3)(b), for “section 104 of the Sentencing Act” substitute “ paragraph 3 of Schedule 12 to the Sentencing Code ”.
+**73.**[^c-16131d6f32f4a9ab41a0eaccd1a131a4] In section 294 (rank or rate of WOs and NCOs while in custody pursuant to custodial sentence etc), in subsection (3)(b), for “section 104 of the Sentencing Act” substitute “ paragraph 3 of Schedule 12 to the Sentencing Code ”.
 
-**74.**[^key-dcd406264b817e126d463aa5354047c0] In section 302 (remission of certain sentences on passing of custodial sentence etc), in subsection (3)(b), for “section 104 of the Sentencing Act” substitute “ paragraph 3 of Schedule 12 to the Sentencing Code ”.
+**74.**[^c-dcd406264b817e126d463aa5354047c0] In section 302 (remission of certain sentences on passing of custodial sentence etc), in subsection (3)(b), for “section 104 of the Sentencing Act” substitute “ paragraph 3 of Schedule 12 to the Sentencing Code ”.
 
-**75.**[^key-b55b9835d9bb5233d3b14b74eb21af1f] In section 304 (sentences passed by civilian courts), in subsection (1), for “a sentence of imprisonment” substitute “ any sentence ”.
+**75.**[^c-b55b9835d9bb5233d3b14b74eb21af1f] In section 304 (sentences passed by civilian courts), in subsection (1), for “a sentence of imprisonment” substitute “ any sentence ”.
 
 #### Amendments to Part 13 (discipline: miscellaneous and supplementary)
 
-**76.**[^key-9a788cb85c08f968b20b5e6341387991] In section 305 (random drug testing), in subsection (5), for “51 weeks” substitute “ six months ”.
+**76.**[^c-9a788cb85c08f968b20b5e6341387991] In section 305 (random drug testing), in subsection (5), for “51 weeks” substitute “ six months ”.
 
-**77.**[^key-c9966343c97932d0c4df48ce16491c3b] In section 322 (financial penalty enforcement orders), in subsection (4), in the definition of “financial penalty”, in paragraph (a), for “paragraph 10(1)(aa) of Schedule 8 to the 2003 Act by virtue of section 184 and Part 2 of Schedule 5” substitute “ paragraph 11(2)(a) of Schedule 10 to the Sentencing Code by virtue of section 184 and Schedule 6A ”.
+**77.**[^c-c9966343c97932d0c4df48ce16491c3b] In section 322 (financial penalty enforcement orders), in subsection (4), in the definition of “financial penalty”, in paragraph (a), for “paragraph 10(1)(aa) of Schedule 8 to the 2003 Act by virtue of section 184 and Part 2 of Schedule 5” substitute “ paragraph 11(2)(a) of Schedule 10 to the Sentencing Code by virtue of section 184 and Schedule 6A ”.
 
 #### Amendments to Part 19 (supplementary)
 
-**78.**[^key-b7f2ea10436373547498954bbaacad03] (1) Section 374 (definitions applying for purposes of whole Act) is amended as follows.
+**78.**[^c-b7f2ea10436373547498954bbaacad03] (1) Section 374 (definitions applying for purposes of whole Act) is amended as follows.
 
 (2) In the definition of “associated”, for “section 161(1) of the Sentencing Act” substitute “ section 400 of the Sentencing Code ”.
 
@@ -1373,158 +1373,158 @@ Section 411
 
 ## Annotations
 
-[^key-c178cd8d6ea743e146e87cb201aec992]: Commencement: Sch. 25 para. 1 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c178cd8d6ea743e146e87cb201aec992]: Commencement: Sch. 25 para. 1 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-d841a2550caa2aa39a859fc06792743f]: Commencement: Sch. 25 para. 2 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d841a2550caa2aa39a859fc06792743f]: Commencement: Sch. 25 para. 2 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-780477679d81deca6b4af8bc04505816]: Commencement: Sch. 25 para. 3 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-780477679d81deca6b4af8bc04505816]: Commencement: Sch. 25 para. 3 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-128c2bfb68093cd319b697599bc38902]: Commencement: Sch. 25 para. 4 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-128c2bfb68093cd319b697599bc38902]: Commencement: Sch. 25 para. 4 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-ab7acc703d6eaccb52bcf76589c6f290]: Commencement: Sch. 25 para. 5 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ab7acc703d6eaccb52bcf76589c6f290]: Commencement: Sch. 25 para. 5 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-592d7dd36a1ea19a36d6d77a41eec50f]: Commencement: Sch. 25 para. 6 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-592d7dd36a1ea19a36d6d77a41eec50f]: Commencement: Sch. 25 para. 6 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-9fe27e35b97ada1a76b0e9d14ed444eb]: Commencement: Sch. 25 para. 7 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9fe27e35b97ada1a76b0e9d14ed444eb]: Commencement: Sch. 25 para. 7 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-6d16de739930845258307b7e87443353]: Commencement: Sch. 25 para. 8 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6d16de739930845258307b7e87443353]: Commencement: Sch. 25 para. 8 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-fe4b298bb0659887b615b2992ee11bae]: Commencement: Sch. 25 para. 9 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-fe4b298bb0659887b615b2992ee11bae]: Commencement: Sch. 25 para. 9 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-52b6d7a389b0896de2dce61823647e9a]: Commencement: Sch. 25 para. 10 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-52b6d7a389b0896de2dce61823647e9a]: Commencement: Sch. 25 para. 10 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-33de440f68de33e0f17f26557e8d2da6]: Commencement: Sch. 25 para. 11 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-33de440f68de33e0f17f26557e8d2da6]: Commencement: Sch. 25 para. 11 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-5c52233f0f92b61121d430cb89147b09]: Commencement: Sch. 25 para. 12 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-5c52233f0f92b61121d430cb89147b09]: Commencement: Sch. 25 para. 12 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-ef461e02eb993c292e02c84ca64db891]: Commencement: Sch. 25 para. 13 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ef461e02eb993c292e02c84ca64db891]: Commencement: Sch. 25 para. 13 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-3fc2642af2c6e76fcea5f2be102af8f4]: Commencement: Sch. 25 para. 14 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3fc2642af2c6e76fcea5f2be102af8f4]: Commencement: Sch. 25 para. 14 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-47737d5c1f0385b4d16875e20db04ccf]: Commencement: Sch. 25 para. 15 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-47737d5c1f0385b4d16875e20db04ccf]: Commencement: Sch. 25 para. 15 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-ba64251e58c82b6b3ef518f32a78042f]: Commencement: Sch. 25 para. 16 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ba64251e58c82b6b3ef518f32a78042f]: Commencement: Sch. 25 para. 16 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-37a2fa8dfcf25027d3c21f5457f8f33f]: Commencement: Sch. 25 para. 17 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-37a2fa8dfcf25027d3c21f5457f8f33f]: Commencement: Sch. 25 para. 17 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-3e57ed3b0a3c7260973686bd7d99d713]: Commencement: Sch. 25 para. 18 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3e57ed3b0a3c7260973686bd7d99d713]: Commencement: Sch. 25 para. 18 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-fb5bdb0c0a06197791914b7858b783b9]: Commencement: Sch. 25 para. 19 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-fb5bdb0c0a06197791914b7858b783b9]: Commencement: Sch. 25 para. 19 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-a7c450c286f803bef6249ed374c5302e]: Commencement: Sch. 25 para. 20 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-a7c450c286f803bef6249ed374c5302e]: Commencement: Sch. 25 para. 20 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-fb8840c12d0f3f0bb8188fe88e2aa8e2]: Commencement: Sch. 25 para. 21 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-fb8840c12d0f3f0bb8188fe88e2aa8e2]: Commencement: Sch. 25 para. 21 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-7c2c3eea80cd6dac84412e0f953d3ef5]: Commencement: Sch. 25 para. 22 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7c2c3eea80cd6dac84412e0f953d3ef5]: Commencement: Sch. 25 para. 22 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-605cd5b9b82e3cac79198fad140a8074]: Commencement: Sch. 25 para. 23 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-605cd5b9b82e3cac79198fad140a8074]: Commencement: Sch. 25 para. 23 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-a94b85d17e3c7a0f34e915e05beb9e4a]: Commencement: Sch. 25 para. 24 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-a94b85d17e3c7a0f34e915e05beb9e4a]: Commencement: Sch. 25 para. 24 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-d884836b88d11c877eb20747eddcc05c]: Commencement: Sch. 25 para. 25 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d884836b88d11c877eb20747eddcc05c]: Commencement: Sch. 25 para. 25 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-3624920df7394d0c1134d17a5b2d6478]: Commencement: Sch. 25 para. 26 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3624920df7394d0c1134d17a5b2d6478]: Commencement: Sch. 25 para. 26 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-db080afd70788f6b873859c60e79b766]: Commencement: Sch. 25 para. 27 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-db080afd70788f6b873859c60e79b766]: Commencement: Sch. 25 para. 27 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-2ccb51f65e2a0447a1e2984c31718769]: Commencement: Sch. 25 para. 28 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2ccb51f65e2a0447a1e2984c31718769]: Commencement: Sch. 25 para. 28 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-954b74b8d9b1e5a87201b0e42260b432]: Commencement: Sch. 25 para. 29 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-954b74b8d9b1e5a87201b0e42260b432]: Commencement: Sch. 25 para. 29 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-56d4f2b0916ea05c88ff2cbe034c0868]: Commencement: Sch. 25 para. 30 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-56d4f2b0916ea05c88ff2cbe034c0868]: Commencement: Sch. 25 para. 30 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-85fb844335a496cce6ecbdb56967f9a6]: Commencement: Sch. 25 para. 31 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-85fb844335a496cce6ecbdb56967f9a6]: Commencement: Sch. 25 para. 31 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-0f2d82470f69c7200e358466bafba64e]: Commencement: Sch. 25 para. 32 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-0f2d82470f69c7200e358466bafba64e]: Commencement: Sch. 25 para. 32 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-0d091be1eaf137f84b41305548946c25]: Commencement: Sch. 25 para. 33 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-0d091be1eaf137f84b41305548946c25]: Commencement: Sch. 25 para. 33 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-ed2af1f5d5e51a6ca083da1cab7fb798]: Commencement: Sch. 25 para. 34 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ed2af1f5d5e51a6ca083da1cab7fb798]: Commencement: Sch. 25 para. 34 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-20455be0ebd89972d4965d3c3cf05afc]: Commencement: Sch. 25 para. 35 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-20455be0ebd89972d4965d3c3cf05afc]: Commencement: Sch. 25 para. 35 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-2ab6bdf7c324eab10d28a27b2363b2d3]: Commencement: Sch. 25 para. 36 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2ab6bdf7c324eab10d28a27b2363b2d3]: Commencement: Sch. 25 para. 36 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-19bffb3c6f522a4da4060804ed16c810]: Commencement: Sch. 25 para. 37 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-19bffb3c6f522a4da4060804ed16c810]: Commencement: Sch. 25 para. 37 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-1cb0b996b00f313b08ef370b3f3efd4b]: Commencement: Sch. 25 para. 38 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-1cb0b996b00f313b08ef370b3f3efd4b]: Commencement: Sch. 25 para. 38 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-a42ec9e38c2144648f88e954e9b18d1f]: Commencement: Sch. 25 para. 39 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-a42ec9e38c2144648f88e954e9b18d1f]: Commencement: Sch. 25 para. 39 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-c35ccf6891577a029a32af4144092ae2]: Commencement: Sch. 25 para. 40 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c35ccf6891577a029a32af4144092ae2]: Commencement: Sch. 25 para. 40 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-ee7bfd6f5215bb4a3ba49575879a76fb]: Commencement: Sch. 25 para. 41 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ee7bfd6f5215bb4a3ba49575879a76fb]: Commencement: Sch. 25 para. 41 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-92078a641412cd3bb441ba1ccae05016]: Commencement: Sch. 25 para. 42 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-92078a641412cd3bb441ba1ccae05016]: Commencement: Sch. 25 para. 42 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-247ad7f19c7ad075f5fad3ac4b572ce1]: Commencement: Sch. 25 para. 43 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-247ad7f19c7ad075f5fad3ac4b572ce1]: Commencement: Sch. 25 para. 43 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-b2b07932950700ff8e69daeb72cacdb2]: Commencement: Sch. 25 para. 44 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-b2b07932950700ff8e69daeb72cacdb2]: Commencement: Sch. 25 para. 44 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-8a898921f7ba482ee665ef26d7679600]: Commencement: Sch. 25 para. 45 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-8a898921f7ba482ee665ef26d7679600]: Commencement: Sch. 25 para. 45 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-c193e0cf7ef26940806de399209de9a8]: Commencement: Sch. 25 para. 46 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c193e0cf7ef26940806de399209de9a8]: Commencement: Sch. 25 para. 46 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-cb29a775e517ba526c7df1a240fa1fc7]: Commencement: Sch. 25 para. 47 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-cb29a775e517ba526c7df1a240fa1fc7]: Commencement: Sch. 25 para. 47 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-9a3a7d51c8ff382fae384742d0018195]: Commencement: Sch. 25 para. 48 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9a3a7d51c8ff382fae384742d0018195]: Commencement: Sch. 25 para. 48 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-b945ecb2a6daaec32903f68b4db57fc5]: Commencement: Sch. 25 para. 49 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-b945ecb2a6daaec32903f68b4db57fc5]: Commencement: Sch. 25 para. 49 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-799e3be44ebfe7e24e18c046fae1b5d5]: Commencement: Sch. 25 para. 50 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-799e3be44ebfe7e24e18c046fae1b5d5]: Commencement: Sch. 25 para. 50 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-eda9729ddebcf9b866ce6fd179d2d1fd]: Commencement: Sch. 25 para. 51 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-eda9729ddebcf9b866ce6fd179d2d1fd]: Commencement: Sch. 25 para. 51 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-4347666935a1f671cd1c94cafe2adee0]: Commencement: Sch. 25 para. 52 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4347666935a1f671cd1c94cafe2adee0]: Commencement: Sch. 25 para. 52 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-d1bfa4c3ff4c1f5947a97b229a5f28c2]: Commencement: Sch. 25 para. 53 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d1bfa4c3ff4c1f5947a97b229a5f28c2]: Commencement: Sch. 25 para. 53 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-7d68bd6b03a19de2f3305f495b7278b1]: Commencement: Sch. 25 para. 54 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7d68bd6b03a19de2f3305f495b7278b1]: Commencement: Sch. 25 para. 54 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-edfc393fe93efb36323bb8a6a344a6e9]: Commencement: Sch. 25 para. 55 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-edfc393fe93efb36323bb8a6a344a6e9]: Commencement: Sch. 25 para. 55 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-bd924f889a2af3ba27a4860a836f3f89]: Commencement: Sch. 25 para. 56 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-bd924f889a2af3ba27a4860a836f3f89]: Commencement: Sch. 25 para. 56 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-35d5917845510b876e48786df5833d50]: Commencement: Sch. 25 para. 57 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-35d5917845510b876e48786df5833d50]: Commencement: Sch. 25 para. 57 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-4c2c1ff634ba103181c2902595c68937]: Commencement: Sch. 25 para. 58 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4c2c1ff634ba103181c2902595c68937]: Commencement: Sch. 25 para. 58 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-2cb3b7bc58c5ff7997671f558cdf82a7]: Commencement: Sch. 25 para. 59 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2cb3b7bc58c5ff7997671f558cdf82a7]: Commencement: Sch. 25 para. 59 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-2f66572fe599d404dbef651036db29f1]: Commencement: Sch. 25 para. 60 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2f66572fe599d404dbef651036db29f1]: Commencement: Sch. 25 para. 60 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-dced4ed674e2f8997c9bd81537a508f7]: Commencement: Sch. 25 para. 61 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-dced4ed674e2f8997c9bd81537a508f7]: Commencement: Sch. 25 para. 61 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-4f9d916936a0cd00831117b4795f0054]: Commencement: Sch. 25 para. 62 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4f9d916936a0cd00831117b4795f0054]: Commencement: Sch. 25 para. 62 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-cf4014b7d6daf1a56844f1ead0724540]: Commencement: Sch. 25 para. 63 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-cf4014b7d6daf1a56844f1ead0724540]: Commencement: Sch. 25 para. 63 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-530487364b966155080e65acace25b81]: Commencement: Sch. 25 para. 64 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-530487364b966155080e65acace25b81]: Commencement: Sch. 25 para. 64 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-c4d887675d84f0c45bb8def331a4e74a]: Commencement: Sch. 25 para. 65 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c4d887675d84f0c45bb8def331a4e74a]: Commencement: Sch. 25 para. 65 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-6bde1add04a1066628e24a51a006be91]: Commencement: Sch. 25 para. 66 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6bde1add04a1066628e24a51a006be91]: Commencement: Sch. 25 para. 66 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-5589f90a5f24c6608a7479c0e59f960e]: Commencement: Sch. 25 para. 67 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-5589f90a5f24c6608a7479c0e59f960e]: Commencement: Sch. 25 para. 67 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-63328a44af51fe20d9f0a4c9d4680d48]: Commencement: Sch. 25 para. 68 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-63328a44af51fe20d9f0a4c9d4680d48]: Commencement: Sch. 25 para. 68 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-970a9b7fd770f5eb052e5b67e7e69136]: Commencement: Sch. 25 para. 69 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-970a9b7fd770f5eb052e5b67e7e69136]: Commencement: Sch. 25 para. 69 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-9e15c0f36e88700a8cd9ec5abd5c4117]: Commencement: Sch. 25 para. 70 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9e15c0f36e88700a8cd9ec5abd5c4117]: Commencement: Sch. 25 para. 70 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-79db5bdd93e17c3b496c338a6e9a1368]: Commencement: Sch. 25 para. 71 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-79db5bdd93e17c3b496c338a6e9a1368]: Commencement: Sch. 25 para. 71 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-84631ec954d74ede313f313ccdb93a5b]: Commencement: Sch. 25 para. 72 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-84631ec954d74ede313f313ccdb93a5b]: Commencement: Sch. 25 para. 72 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-16131d6f32f4a9ab41a0eaccd1a131a4]: Commencement: Sch. 25 para. 73 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-16131d6f32f4a9ab41a0eaccd1a131a4]: Commencement: Sch. 25 para. 73 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-dcd406264b817e126d463aa5354047c0]: Commencement: Sch. 25 para. 74 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-dcd406264b817e126d463aa5354047c0]: Commencement: Sch. 25 para. 74 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-b55b9835d9bb5233d3b14b74eb21af1f]: Commencement: Sch. 25 para. 75 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-b55b9835d9bb5233d3b14b74eb21af1f]: Commencement: Sch. 25 para. 75 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-9a788cb85c08f968b20b5e6341387991]: Commencement: Sch. 25 para. 76 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9a788cb85c08f968b20b5e6341387991]: Commencement: Sch. 25 para. 76 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-c9966343c97932d0c4df48ce16491c3b]: Commencement: Sch. 25 para. 77 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c9966343c97932d0c4df48ce16491c3b]: Commencement: Sch. 25 para. 77 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-b7f2ea10436373547498954bbaacad03]: Commencement: Sch. 25 para. 78 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-b7f2ea10436373547498954bbaacad03]: Commencement: Sch. 25 para. 78 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

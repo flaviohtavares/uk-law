@@ -55,7 +55,7 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 “the Jobseeker’s Allowance Regulations” means the Jobseeker’s Allowance Regulations 1996 [^c961327].
 
-## 2. Income support, jobseeker’s allowance, ...: personal allowances in respect of children and young persons[^key-691f8686be6b6daa945dac3cdb3d5d85]
+## 2. Income support, jobseeker’s allowance, ...: personal allowances in respect of children and young persons[^c-691f8686be6b6daa945dac3cdb3d5d85]
 
 (1) In Column (2) of the table in each of the paragraphs specified in paragraph (2) below (personal allowances in respect of a child or young person) [^c961328]—
 
@@ -66,8 +66,8 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 - (a) paragraph 2(1) of Schedule 2 to the Income Support Regulations;
 - (b) paragraph 2(1) of Schedule 1 to the Jobseeker’s Allowance Regulations;
-- (c)[^key-619a624aa727ab910acf236d83fbff37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-619a624aa727ab910acf236d83fbff37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-619a624aa727ab910acf236d83fbff37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-619a624aa727ab910acf236d83fbff37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority of the Secretary of State for Work and Pensions.
 
@@ -103,8 +103,8 @@ These Regulations do not impose a charge on business.
 
 [^c961327]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207). The relevant amending instruments are [S.I. 1999/2555](https://www.legislation.gov.uk/uksi/1999/2555) and 2002/668.
 
-[^key-691f8686be6b6daa945dac3cdb3d5d85]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2019/regulation/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-691f8686be6b6daa945dac3cdb3d5d85]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2019/regulation/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c961328]: Marginal citation: The relevant amounts were inserted in each case by [S.I. 2002/668](https://www.legislation.gov.uk/uksi/2002/668).
 
-[^key-619a624aa727ab910acf236d83fbff37]: Textual amendment: [Reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2002/2019/regulation/2/2/c)[(d)](https://www.legislation.gov.uk/uksi/2002/2019/regulation/2/2/d) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-619a624aa727ab910acf236d83fbff37]: Textual amendment: [Reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2002/2019/regulation/2/2/c)[(d)](https://www.legislation.gov.uk/uksi/2002/2019/regulation/2/2/d) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))

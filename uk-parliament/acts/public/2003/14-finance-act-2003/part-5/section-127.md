@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Circumstances in which relief for company acquisitions withdrawn[^key-29489a4224253057e00ccc6383b458b9]
+## 127. Circumstances in which relief for company acquisitions withdrawn[^c-29489a4224253057e00ccc6383b458b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29489a4224253057e00ccc6383b458b9]: Textual amendment: [S. 127](https://www.legislation.gov.uk/ukpga/2003/14/section/127) omitted (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 5(2)(e)(i)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/5/2/e/i) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-29489a4224253057e00ccc6383b458b9]: Textual amendment: [S. 127](https://www.legislation.gov.uk/ukpga/2003/14/section/127) omitted (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 5(2)(e)(i)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/5/2/e/i) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))

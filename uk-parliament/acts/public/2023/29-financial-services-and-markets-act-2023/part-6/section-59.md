@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Application of provisions to regulatory functions under this Act[^key-a210a58a7fe2faf1afda12314cf0e56e][^key-84f9e9c5ceeaa32cba76633d64c4aaea]
+## 59. Application of provisions to regulatory functions under this Act[^c-a210a58a7fe2faf1afda12314cf0e56e][^c-84f9e9c5ceeaa32cba76633d64c4aaea]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a210a58a7fe2faf1afda12314cf0e56e]: Commencement: S. 59 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-a210a58a7fe2faf1afda12314cf0e56e]: Commencement: S. 59 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-84f9e9c5ceeaa32cba76633d64c4aaea]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2023/29/section/59) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(oo)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/oo)
+[^c-84f9e9c5ceeaa32cba76633d64c4aaea]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2023/29/section/59) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(oo)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/oo)

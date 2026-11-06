@@ -29,27 +29,27 @@ Import of Live Fish (Scotland) Act 1978 (repealed)
 
 1978 c.35
 
-[^key-e3645fe1a6b642dca36b66a54056f79f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3645fe1a6b642dca36b66a54056f79f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Power to limit the import etc. of fish and fish eggs.[^key-e3645fe1a6b642dca36b66a54056f79f]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Powers of entry and inspection.[^key-e3645fe1a6b642dca36b66a54056f79f]
+## 1. Power to limit the import etc. of fish and fish eggs.[^c-e3645fe1a6b642dca36b66a54056f79f]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences etc.[^key-e3645fe1a6b642dca36b66a54056f79f]
+## 2. Powers of entry and inspection.[^c-e3645fe1a6b642dca36b66a54056f79f]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Citation and extent.[^key-e3645fe1a6b642dca36b66a54056f79f]
+## 3. Offences etc.[^c-e3645fe1a6b642dca36b66a54056f79f]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Citation and extent.[^c-e3645fe1a6b642dca36b66a54056f79f]
 
 **No longer in force.**
 
@@ -57,4 +57,4 @@ Import of Live Fish (Scotland) Act 1978 (repealed)
 
 ## Annotations
 
-[^key-e3645fe1a6b642dca36b66a54056f79f]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1978/35) repealed (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [s. 43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1), [Sch. Pt. 2](https://www.legislation.gov.uk/asp/2011/6/schedule/part/2) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/e) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2012/175/article/3/2))
+[^c-e3645fe1a6b642dca36b66a54056f79f]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1978/35) repealed (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [s. 43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1), [Sch. Pt. 2](https://www.legislation.gov.uk/asp/2011/6/schedule/part/2) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/e) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2012/175/article/3/2))

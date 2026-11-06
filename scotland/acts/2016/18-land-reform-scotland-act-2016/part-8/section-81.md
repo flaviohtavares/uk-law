@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Power to require return on number of deer planned to be killed[^key-8f5f9c7409a648510a28939fac39c33c]
+## 81. Power to require return on number of deer planned to be killed[^c-8f5f9c7409a648510a28939fac39c33c]
 
 *Extent: S*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f5f9c7409a648510a28939fac39c33c]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2016/18/section/81) in force at 28.6.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)
+[^c-8f5f9c7409a648510a28939fac39c33c]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2016/18/section/81) in force at 28.6.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)

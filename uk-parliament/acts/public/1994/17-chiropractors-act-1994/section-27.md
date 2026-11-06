@@ -38,7 +38,7 @@ on questions of law arising in connection with any matter which he or (as the ca
 
 - (a) have a 10 year general qualification (within the meaning of section 71 of the [^c8619141]Courts and Legal Services Act 1990);
 - (b) be an advocate or solicitor in Scotland of at least 10 years’ standing; or
-- (c) be a member of the Bar of Northern Ireland or solicitor of the Court of Judicature of Northern Ireland[^key-d79bd70f118421f0fdfda3acd04fc243] of at least 10 years’ standing.
+- (c) be a member of the Bar of Northern Ireland or solicitor of the Court of Judicature of Northern Ireland[^c-d79bd70f118421f0fdfda3acd04fc243] of at least 10 years’ standing.
 
 (5) The General Council may pay such fees, allowances and expenses to persons appointed as legal assessors as it may determine.
 
@@ -48,4 +48,4 @@ on questions of law arising in connection with any matter which he or (as the ca
 
 [^c8619141]: Marginal citation: [1990 c. 41](https://www.legislation.gov.uk/ukpga/1990/41).
 
-[^key-d79bd70f118421f0fdfda3acd04fc243]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-d79bd70f118421f0fdfda3acd04fc243]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — INFORMATION AND DOCUMENTS TO BE AVAILABLE IN RESPECT OF PERSONS CARRYING ON, MANAGING, OR WORKING AT, CARE HOMES[^key-bb7e39c4828d00db75bf1115a9686214]
+## SCHEDULE 2 — INFORMATION AND DOCUMENTS TO BE AVAILABLE IN RESPECT OF PERSONS CARRYING ON, MANAGING, OR WORKING AT, CARE HOMES[^c-bb7e39c4828d00db75bf1115a9686214]
 
 *Extent: E+W*
 
@@ -24,24 +24,24 @@ summary: ''
 
 Regulations 7, 9, 19
 
-**1.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5A.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5A.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bb7e39c4828d00db75bf1115a9686214]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2002/324) revoked (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2018/48/schedule/2)
+[^c-bb7e39c4828d00db75bf1115a9686214]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2002/324) revoked (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2018/48/schedule/2)

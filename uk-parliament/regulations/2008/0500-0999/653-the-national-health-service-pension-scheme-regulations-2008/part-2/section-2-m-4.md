@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.M.4. Change from open approval to closed approval basis[^key-6c284d686fcbdf2d525783ae68d80711]
+## 2.M.4. Change from open approval to closed approval basis[^c-6c284d686fcbdf2d525783ae68d80711]
 
 *Extent: E+W*
 
@@ -38,12 +38,12 @@ summary: ''
 
 (5) A person who is, but for a modification notice, otherwise entitled to participate in this Section of the Scheme during the modification period by virtue of the Independent Provider having been granted approval on an open approval basis, continues to be so entitled but only for the duration of that period.
 
-(6) Nothing in paragraph[^key-ceb5ced9d08087ad8f7c0c35949ca361] (5) prevents a person referred to in that paragraph from becoming a member of this Section of the Scheme by virtue of their employment with some other employing authority.
+(6) Nothing in paragraph[^c-ceb5ced9d08087ad8f7c0c35949ca361] (5) prevents a person referred to in that paragraph from becoming a member of this Section of the Scheme by virtue of their employment with some other employing authority.
 
 (7) During the modification period, a person who was eligible to become an officer member of this Section of the Scheme in accordance with regulation 2.M.3(7) but who did not do so by virtue of opting out in accordance with regulation 2.B.5, may, in accordance with regulation 2.B.4, join or re-join this Section of the Scheme.
 
 ## Annotations
 
-[^key-6c284d686fcbdf2d525783ae68d80711]: Textual amendment: [Ch. 2.M](https://www.legislation.gov.uk/uksi/2008/653/chapter/2.M) inserted (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2014/570/regulation/35) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))
+[^c-6c284d686fcbdf2d525783ae68d80711]: Textual amendment: [Ch. 2.M](https://www.legislation.gov.uk/uksi/2008/653/chapter/2.M) inserted (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2014/570/regulation/35) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))
 
-[^key-ceb5ced9d08087ad8f7c0c35949ca361]: Textual amendment: Word in [reg. 2.M.4(6)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.M.4/6) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [36](https://www.legislation.gov.uk/uksi/2015/96/regulation/36)
+[^c-ceb5ced9d08087ad8f7c0c35949ca361]: Textual amendment: Word in [reg. 2.M.4(6)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.M.4/6) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [36](https://www.legislation.gov.uk/uksi/2015/96/regulation/36)

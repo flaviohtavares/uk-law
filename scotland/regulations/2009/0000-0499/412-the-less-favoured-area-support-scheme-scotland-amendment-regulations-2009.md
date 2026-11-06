@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture
 
-The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2009 (revoked)[^key-f410520cba0c56d1e9ded3a102fa7490]
+The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2009 (revoked)[^c-f410520cba0c56d1e9ded3a102fa7490]
 
 Made
 
@@ -46,40 +46,40 @@ Coming into force
 
 18th December 2009
 
-[^key-f410520cba0c56d1e9ded3a102fa7490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f410520cba0c56d1e9ded3a102fa7490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f410520cba0c56d1e9ded3a102fa7490]
+## 1. Citation and commencement[^c-f410520cba0c56d1e9ded3a102fa7490]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Less Favoured Area Support Scheme (Scotland) Regulations 2007[^key-f410520cba0c56d1e9ded3a102fa7490]
+## 2. Amendment of the Less Favoured Area Support Scheme (Scotland) Regulations 2007[^c-f410520cba0c56d1e9ded3a102fa7490]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 2[^key-f410520cba0c56d1e9ded3a102fa7490]
+## 3. Amendment of regulation 2[^c-f410520cba0c56d1e9ded3a102fa7490]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 12[^key-f410520cba0c56d1e9ded3a102fa7490]
+## 4. Amendment of regulation 12[^c-f410520cba0c56d1e9ded3a102fa7490]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Schedule 1[^key-f410520cba0c56d1e9ded3a102fa7490]
+## 5. Amendment of Schedule 1[^c-f410520cba0c56d1e9ded3a102fa7490]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Substitution of Schedule 3[^key-f410520cba0c56d1e9ded3a102fa7490]
+## 6. Substitution of Schedule 3[^c-f410520cba0c56d1e9ded3a102fa7490]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f410520cba0c56d1e9ded3a102fa7490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f410520cba0c56d1e9ded3a102fa7490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f410520cba0c56d1e9ded3a102fa7490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f410520cba0c56d1e9ded3a102fa7490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f410520cba0c56d1e9ded3a102fa7490]: Textual amendment: Regulations revoked (2.7.2010) by [The Less Favoured Area Support Scheme (Scotland) Regulations 2010 (S.S.I. 2010/273)](https://www.legislation.gov.uk/ssi/2010/273), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1), [26(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/26/1) (with [reg. 26(2)](https://www.legislation.gov.uk/ssi/2010/273/regulation/26/2))
+[^c-f410520cba0c56d1e9ded3a102fa7490]: Textual amendment: Regulations revoked (2.7.2010) by [The Less Favoured Area Support Scheme (Scotland) Regulations 2010 (S.S.I. 2010/273)](https://www.legislation.gov.uk/ssi/2010/273), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/1/1), [26(1)](https://www.legislation.gov.uk/ssi/2010/273/regulation/26/1) (with [reg. 26(2)](https://www.legislation.gov.uk/ssi/2010/273/regulation/26/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 173. Notice of resignation[^key-fdc96ab2c78874645552514cc536f8f3]
+## 173. Notice of resignation[^c-fdc96ab2c78874645552514cc536f8f3]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fdc96ab2c78874645552514cc536f8f3]: Commencement: Rule 173 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-fdc96ab2c78874645552514cc536f8f3]: Commencement: Rule 173 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Amendment of section 18[^key-8d999895a4eeb3306af96637ae74eaed]
+## 7. Amendment of section 18[^c-8d999895a4eeb3306af96637ae74eaed]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In section 18 (procedure for registration)—
 
 ## Annotations
 
-[^key-8d999895a4eeb3306af96637ae74eaed]: Commencement: Art. 7 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-8d999895a4eeb3306af96637ae74eaed]: Commencement: Art. 7 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

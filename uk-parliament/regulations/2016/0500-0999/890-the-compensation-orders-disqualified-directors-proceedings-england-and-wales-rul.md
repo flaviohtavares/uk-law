@@ -48,7 +48,7 @@ The Lord Chancellor has consulted the committee existing for the purposes of sec
 
 The Lord Chancellor, with the concurrence of the Secretary of State and the Chancellor of the High Court (the latter nominated by the Lord Chief Justice under section 411(7) of the Insolvency Act 1986), makes the following Rules in exercise of the power conferred by section 411(1) of the Insolvency Act 1986, read in conjunction with section 21(2) of the Company Directors Disqualification Act 1986[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-b5f5dd14442b18451c1bdbc2cabdd288]
+## 1. Citation, commencement and interpretation[^c-b5f5dd14442b18451c1bdbc2cabdd288]
 
 (1) These Rules may be cited as the Compensation Orders (Disqualified Directors) Proceedings (England and Wales) Rules 2016.
 
@@ -59,12 +59,12 @@ The Lord Chancellor, with the concurrence of the Secretary of State and the Chan
 - “the Act” means the Company Directors Disqualification Act 1986 and a reference to a numbered section is to that section of that Act;
 - “CPR” followed by a Part or rule by number means that Part or rule with that number in the Civil Procedure Rules 1998[^f00003];
 - “practice direction” means a direction as to the practice and procedure of any court within the scope of the Civil Procedure Rules 1998;
-- “registrar” has the same meaning as in rule 1.2(2) of the Insolvency (England and Wales) Rules 2016[^key-52a0924afc9a72225619166a172781d4]
+- “registrar” has the same meaning as in rule 1.2(2) of the Insolvency (England and Wales) Rules 2016[^c-52a0924afc9a72225619166a172781d4]
 - “relevant party” means—
   - (a) the defendant (in the case of an application under section 15A(1)[^f00005]); or
   - (b) the Secretary of State (in the case of an application under section 15C(1)[^f00006]).
 
-## 2. Application[^key-33e27a1862d068eb5376eab65bd75df5]
+## 2. Application[^c-33e27a1862d068eb5376eab65bd75df5]
 
 (1) Subject to paragraph (2), these Rules apply to an application under the Act made on or after 1st October 2016—
 
@@ -77,7 +77,7 @@ The Lord Chancellor, with the concurrence of the Secretary of State and the Chan
 - (b) have jurisdiction to make a disqualification order against the person (in a case where proceedings for a disqualification order have or are being commenced); or
 - (c) would have had jurisdiction to make a disqualification order against the person (in a case where the person is subject to disqualification undertaking).
 
-## 3. Form and conduct of applications[^key-45f6d64769f1c0a53d2034174aa65a14]
+## 3. Form and conduct of applications[^c-45f6d64769f1c0a53d2034174aa65a14]
 
 (1) The Civil Procedure Rules 1998, and any relevant practice direction, apply in respect of applications under these Rules, except where these Rules make different provision.
 
@@ -87,9 +87,9 @@ The Lord Chancellor, with the concurrence of the Secretary of State and the Chan
 
 (4) CPR rule 8.1(3) (power of the court to order the claim to continue as if the claimant had not used the Part 8 procedure), CPR rule 8.2 (contents of the claim form) and CPR rule 8.7 (Part 20 claims) do not apply to applications under these Rules.
 
-(5)[^key-e7a91ed4fe8e310ec1a175444c4f545b] Rule 12.49 (appeals and reviews of court orders in corporate insolvency) and rule 12.61 (procedure on appeal) of the Insolvency (England and Wales) Rules 2016 apply to applications under these rules.
+(5)[^c-e7a91ed4fe8e310ec1a175444c4f545b] Rule 12.49 (appeals and reviews of court orders in corporate insolvency) and rule 12.61 (procedure on appeal) of the Insolvency (England and Wales) Rules 2016 apply to applications under these rules.
 
-## 4. The claimant’s case[^key-056d16f05ec479d04eb0754edd7acb4c]
+## 4. The claimant’s case[^c-056d16f05ec479d04eb0754edd7acb4c]
 
 (1) The claimant must, at the time when the claim form is issued, file in court evidence in support of the application.
 
@@ -111,7 +111,7 @@ The Lord Chancellor, with the concurrence of the Secretary of State and the Chan
 
 (5) The notice under paragraph (4) must identify particulars of the order the claimant is seeking under section 15B(1).
 
-## 5. Endorsements etc. on claim form[^key-2e9e239533d4803cde49c6d48c93243c]
+## 5. Endorsements etc. on claim form[^c-2e9e239533d4803cde49c6d48c93243c]
 
 (1) The following information must be endorsed on the claim form—
 
@@ -122,7 +122,7 @@ The Lord Chancellor, with the concurrence of the Secretary of State and the Chan
 
 (2) The time limit referred to in paragraph (1)(d) must be set out in the claim form.
 
-## 6. Acknowledgment of service[^key-8d39edc4af47023d218f2cb3180321dd]
+## 6. Acknowledgment of service[^c-8d39edc4af47023d218f2cb3180321dd]
 
 (1) The claim form served on the relevant party must be accompanied by an acknowledgment of service and CPR rule 8.3(2) (dealing with the contents of an acknowledgment of service) does not apply.
 
@@ -139,7 +139,7 @@ The Lord Chancellor, with the concurrence of the Secretary of State and the Chan
 - (a) the acknowledgment of service must state whether or not the Secretary of State intends to file any evidence relating to the application; and
 - (b) CPR rule 8.4 (consequence of not filing an acknowledgment of service) does not apply.
 
-## 7. Evidence[^key-2190ae2657eef652bc8e75954d368b1c]
+## 7. Evidence[^c-2190ae2657eef652bc8e75954d368b1c]
 
 (1) The relevant party must, within 28 days from the date of service of the claim form, file in court any evidence relating to the application which the relevant party wishes the court to take into consideration.
 
@@ -153,7 +153,7 @@ The Lord Chancellor, with the concurrence of the Secretary of State and the Chan
 
 (6) CPR rules 8.5 (filing and serving written evidence) and 8.6(1) (requirements where written evidence is to be relied on) do not apply.
 
-## 8. The hearing of the application[^key-d53b4efbfc68ad686379d4de520fda6a]
+## 8. The hearing of the application[^c-d53b4efbfc68ad686379d4de520fda6a]
 
 (1) When the claim form is issued, the court must fix a date for the first hearing of the claim for a date not less than 8 weeks from the date of issue of the claim form.
 
@@ -176,7 +176,7 @@ The Lord Chancellor, with the concurrence of the Secretary of State and the Chan
 
 (6) Where a case is adjourned other than to the judge, it may be heard by the registrar who originally dealt with the case or by another registrar.
 
-## 9. Compensation orders: making and setting aside of an order[^key-4dad073c5cc06c11b55c0269142a117f]
+## 9. Compensation orders: making and setting aside of an order[^c-4dad073c5cc06c11b55c0269142a117f]
 
 (1) The court may make a compensation order under section 15A(1) against the defendant whether or not the defendant—
 
@@ -238,32 +238,32 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00002]: Footnote: [1986 c.46](https://www.legislation.gov.uk/ukpga/1986/46); section 21(2) was amended by the Small Business, Enterprise and Employment Act [2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26), Schedule 7, paragraph 16.
 
-[^key-b5f5dd14442b18451c1bdbc2cabdd288]: Commencement: Rule 1 in force at 1.10.2016, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2016/890/rule/1/2)
+[^c-b5f5dd14442b18451c1bdbc2cabdd288]: Commencement: Rule 1 in force at 1.10.2016, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2016/890/rule/1/2)
 
 [^f00003]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132). Relevant amending instruments (those amending Part 8) are [S.I. 2000/221](https://www.legislation.gov.uk/uksi/2000/221), [2000/1317](https://www.legislation.gov.uk/uksi/2000/1317), [2001/256](https://www.legislation.gov.uk/uksi/2001/256), [2001/4015](https://www.legislation.gov.uk/uksi/2001/4015), [2008/2178](https://www.legislation.gov.uk/uksi/2008/2178), [2011/88](https://www.legislation.gov.uk/uksi/2011/88), [2013/1974](https://www.legislation.gov.uk/uksi/2013/1974) and [2014/407](https://www.legislation.gov.uk/uksi/2014/407).
 
-[^key-52a0924afc9a72225619166a172781d4]: Textual amendment: Words in rule 1(3) substituted (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (Consequential Amendments and Savings) Rules 2017 (S.I. 2017/369)](https://www.legislation.gov.uk/uksi/2017/369), [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/uksi/2017/369/schedule/2/paragraph/12/2)
+[^c-52a0924afc9a72225619166a172781d4]: Textual amendment: Words in rule 1(3) substituted (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (Consequential Amendments and Savings) Rules 2017 (S.I. 2017/369)](https://www.legislation.gov.uk/uksi/2017/369), [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/uksi/2017/369/schedule/2/paragraph/12/2)
 
 [^f00005]: Footnote: Section 15A was inserted by the Small Business, Enterprise and Employment Act 2015, section 110.
 
 [^f00006]: Footnote: Section 15C was inserted by the Small Business, Enterprise and Employment Act 2015, section 110.
 
-[^key-33e27a1862d068eb5376eab65bd75df5]: Commencement: Rule 2 in force at 1.10.2016, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2016/890/rule/1/2)
+[^c-33e27a1862d068eb5376eab65bd75df5]: Commencement: Rule 2 in force at 1.10.2016, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2016/890/rule/1/2)
 
-[^key-45f6d64769f1c0a53d2034174aa65a14]: Commencement: Rule 3 in force at 1.10.2016, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2016/890/rule/1/2)
+[^c-45f6d64769f1c0a53d2034174aa65a14]: Commencement: Rule 3 in force at 1.10.2016, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2016/890/rule/1/2)
 
-[^key-e7a91ed4fe8e310ec1a175444c4f545b]: Textual amendment: Rule 3(5) substituted (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (Consequential Amendments and Savings) Rules 2017 (S.I. 2017/369)](https://www.legislation.gov.uk/uksi/2017/369), [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/uksi/2017/369/schedule/2/paragraph/12/3)
+[^c-e7a91ed4fe8e310ec1a175444c4f545b]: Textual amendment: Rule 3(5) substituted (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (Consequential Amendments and Savings) Rules 2017 (S.I. 2017/369)](https://www.legislation.gov.uk/uksi/2017/369), [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/uksi/2017/369/schedule/2/paragraph/12/3)
 
-[^key-056d16f05ec479d04eb0754edd7acb4c]: Commencement: Rule 4 in force at 1.10.2016, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2016/890/rule/1/2)
+[^c-056d16f05ec479d04eb0754edd7acb4c]: Commencement: Rule 4 in force at 1.10.2016, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2016/890/rule/1/2)
 
 [^f00007]: Footnote: Section 15B was inserted by the Small Business, Enterprise and Employment Act 2015, section 110.
 
-[^key-2e9e239533d4803cde49c6d48c93243c]: Commencement: Rule 5 in force at 1.10.2016, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2016/890/rule/1/2)
+[^c-2e9e239533d4803cde49c6d48c93243c]: Commencement: Rule 5 in force at 1.10.2016, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2016/890/rule/1/2)
 
-[^key-8d39edc4af47023d218f2cb3180321dd]: Commencement: Rule 6 in force at 1.10.2016, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2016/890/rule/1/2)
+[^c-8d39edc4af47023d218f2cb3180321dd]: Commencement: Rule 6 in force at 1.10.2016, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2016/890/rule/1/2)
 
-[^key-2190ae2657eef652bc8e75954d368b1c]: Commencement: Rule 7 in force at 1.10.2016, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2016/890/rule/1/2)
+[^c-2190ae2657eef652bc8e75954d368b1c]: Commencement: Rule 7 in force at 1.10.2016, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2016/890/rule/1/2)
 
-[^key-d53b4efbfc68ad686379d4de520fda6a]: Commencement: Rule 8 in force at 1.10.2016, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2016/890/rule/1/2)
+[^c-d53b4efbfc68ad686379d4de520fda6a]: Commencement: Rule 8 in force at 1.10.2016, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2016/890/rule/1/2)
 
-[^key-4dad073c5cc06c11b55c0269142a117f]: Commencement: Rule 9 in force at 1.10.2016, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2016/890/rule/1/2)
+[^c-4dad073c5cc06c11b55c0269142a117f]: Commencement: Rule 9 in force at 1.10.2016, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2016/890/rule/1/2)

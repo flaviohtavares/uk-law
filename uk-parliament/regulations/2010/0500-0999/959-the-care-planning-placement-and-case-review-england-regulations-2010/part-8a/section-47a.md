@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47A. Application of these Regulations with modifications to children on remand[^key-3b9314f62f3ce9eb137bbba28f095e2d]
+## 47A. Application of these Regulations with modifications to children on remand[^c-3b9314f62f3ce9eb137bbba28f095e2d]
 
 *Extent: E+W*
 
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3b9314f62f3ce9eb137bbba28f095e2d]: Textual amendment: Pt. 8A inserted (19.4.2013) by [The Care Planning, Placement and Case Review (England) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/706)](https://www.legislation.gov.uk/uksi/2013/706), [regs. 1](https://www.legislation.gov.uk/uksi/2013/706/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/706/regulation/6) (with [reg. 14](https://www.legislation.gov.uk/uksi/2013/706/regulation/14))
+[^c-3b9314f62f3ce9eb137bbba28f095e2d]: Textual amendment: Pt. 8A inserted (19.4.2013) by [The Care Planning, Placement and Case Review (England) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/706)](https://www.legislation.gov.uk/uksi/2013/706), [regs. 1](https://www.legislation.gov.uk/uksi/2013/706/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/706/regulation/6) (with [reg. 14](https://www.legislation.gov.uk/uksi/2013/706/regulation/14))
 
 [^M_F_29cda4c5-0eb8-4aa9-9e9e-5800bd991d9c]: Textual amendment: Words in reg. 47C(3) substituted (temp.) (24.4.2020) by [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [8(17)](https://www.legislation.gov.uk/uksi/2020/445/regulation/8/17) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))

@@ -85,7 +85,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 18 — Special provisions for shortage or abundance of water.](part-ii/section-18.md)
 - [Section 19 — Transitional provisions.](part-ii/section-19.md)
 
-### Part III — Drought[^key-70440c6ff1a7bbeacc94b8b4c52fe9ee]
+### Part III — Drought[^c-70440c6ff1a7bbeacc94b8b4c52fe9ee]
 
 *Extent: S*
 
@@ -125,4 +125,4 @@ SCHEDULES
 
 [^c1044333]: Modification: Pt. II (ss. 15-19): transfer of functions (12.10.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 21(1)(a)(i)](https://www.legislation.gov.uk/ukpga/1995/25/section/21/1/a/i) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1995/2649](https://www.legislation.gov.uk/uksi/1995/2649), [art. 2(b)](https://www.legislation.gov.uk/uksi/1995/2649/article/2/b)
 
-[^key-70440c6ff1a7bbeacc94b8b4c52fe9ee]: Textual amendment: Pt. III repealed (10.6.2013) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [s. 56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2), [Sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/asp/2013/5/schedule/4/paragraph/1/2/a); [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-70440c6ff1a7bbeacc94b8b4c52fe9ee]: Textual amendment: Pt. III repealed (10.6.2013) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [s. 56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2), [Sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/asp/2013/5/schedule/4/paragraph/1/2/a); [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

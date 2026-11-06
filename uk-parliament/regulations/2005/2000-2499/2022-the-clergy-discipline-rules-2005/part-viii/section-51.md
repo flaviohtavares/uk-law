@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 51. Tribunal may invite the bishop to give views about the penalty[^key-c5136019d69a6e2bd977fdb38bc8cbd2]
+## 51. Tribunal may invite the bishop to give views about the penalty[^c-c5136019d69a6e2bd977fdb38bc8cbd2]
 
 *Extent: E*
 
@@ -27,4 +27,4 @@ Before imposing a penalty the tribunal may invite the bishop of the diocese conc
 
 ## Annotations
 
-[^key-c5136019d69a6e2bd977fdb38bc8cbd2]: Commencement: [Rule 51](https://www.legislation.gov.uk/uksi/2005/2022/rule/51) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-c5136019d69a6e2bd977fdb38bc8cbd2]: Commencement: [Rule 51](https://www.legislation.gov.uk/uksi/2005/2022/rule/51) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

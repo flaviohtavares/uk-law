@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Welsh Ministers may by regulations make provision under which any two or more local authorities may or must[^key-01c72a92183d14a43159fadd8ab3f87d]—
+(1) The Welsh Ministers may by regulations make provision under which any two or more local authorities may or must[^c-01c72a92183d14a43159fadd8ab3f87d]—
 
 - (a) appoint a joint committee (a “joint overview and scrutiny committee”), and
 - (b) arrange for the committee to exercise any functions of making reports or recommendations about any matter which is not an excluded matter to—
@@ -34,7 +34,7 @@ summary: ''
 
 (3) The provision that may be made in regulations under this section includes (but is not limited to)—
 
-- (a)[^key-269c8dc8675dc9aa6ee0f355c311be0b] provision about the circumstances in which arrangements may be made;
+- (a)[^c-269c8dc8675dc9aa6ee0f355c311be0b] provision about the circumstances in which arrangements may be made;
 - (aa) provision prescribing circumstances in which arrangements must be made;
 - (ab) provision for arrangements to be made subject to prescribed conditions or limitations;
 - (b) provision for the appointment of sub-committees of joint overview and scrutiny committees;
@@ -43,7 +43,7 @@ summary: ''
   - (ii) sections 21A, 21B, 21D, 21F and 21G of that Act,
   - (iii) section 186 of, and Schedule 11 to, the National Health Service (Wales) Act 2006.
 
-(4) A local authority and a joint overview and scrutiny committee must [^key-1f0b48eaf1eefe01be7aa484c9b9c5b8]... have regard to guidance given by the Welsh Ministers in relation to the exercise of any function it has under or by virtue of this section[^key-c625f4eb172bc67cfe5c4f584a930f2f].
+(4) A local authority and a joint overview and scrutiny committee must [^c-1f0b48eaf1eefe01be7aa484c9b9c5b8]... have regard to guidance given by the Welsh Ministers in relation to the exercise of any function it has under or by virtue of this section[^c-c625f4eb172bc67cfe5c4f584a930f2f].
 
 (5) In section 21 of the Local Government Act 2000 (overview and scrutiny committees), in subsection (2A)(e)—
 
@@ -64,10 +64,10 @@ summary: ''
 
 ## Annotations
 
-[^key-01c72a92183d14a43159fadd8ab3f87d]: Textual amendment: Words in [s. 58(1)](https://www.legislation.gov.uk/mwa/2011/4/section/58/1) inserted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 66(2)](https://www.legislation.gov.uk/asc/2021/1/section/66/2), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(n)](https://www.legislation.gov.uk/wsi/2021/231/article/6/n)
+[^c-01c72a92183d14a43159fadd8ab3f87d]: Textual amendment: Words in [s. 58(1)](https://www.legislation.gov.uk/mwa/2011/4/section/58/1) inserted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 66(2)](https://www.legislation.gov.uk/asc/2021/1/section/66/2), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(n)](https://www.legislation.gov.uk/wsi/2021/231/article/6/n)
 
-[^key-269c8dc8675dc9aa6ee0f355c311be0b]: Textual amendment: [S. 58(3)(a)-(ab)](https://www.legislation.gov.uk/mwa/2011/4/section/58/3/a) substituted for [s. 58(3)(a)](https://www.legislation.gov.uk/mwa/2011/4/section/58/3/a) (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 66(3)](https://www.legislation.gov.uk/asc/2021/1/section/66/3), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(n)](https://www.legislation.gov.uk/wsi/2021/231/article/6/n)
+[^c-269c8dc8675dc9aa6ee0f355c311be0b]: Textual amendment: [S. 58(3)(a)-(ab)](https://www.legislation.gov.uk/mwa/2011/4/section/58/3/a) substituted for [s. 58(3)(a)](https://www.legislation.gov.uk/mwa/2011/4/section/58/3/a) (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 66(3)](https://www.legislation.gov.uk/asc/2021/1/section/66/3), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(n)](https://www.legislation.gov.uk/wsi/2021/231/article/6/n)
 
-[^key-1f0b48eaf1eefe01be7aa484c9b9c5b8]: Textual amendment: Words in [s. 58(4)](https://www.legislation.gov.uk/mwa/2011/4/section/58/4) omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 66(4)(a)](https://www.legislation.gov.uk/asc/2021/1/section/66/4/a), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(n)](https://www.legislation.gov.uk/wsi/2021/231/article/6/n)
+[^c-1f0b48eaf1eefe01be7aa484c9b9c5b8]: Textual amendment: Words in [s. 58(4)](https://www.legislation.gov.uk/mwa/2011/4/section/58/4) omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 66(4)(a)](https://www.legislation.gov.uk/asc/2021/1/section/66/4/a), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(n)](https://www.legislation.gov.uk/wsi/2021/231/article/6/n)
 
-[^key-c625f4eb172bc67cfe5c4f584a930f2f]: Textual amendment: Words in [s. 58(4)](https://www.legislation.gov.uk/mwa/2011/4/section/58/4) inserted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 66(4)(b)](https://www.legislation.gov.uk/asc/2021/1/section/66/4/b), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(n)](https://www.legislation.gov.uk/wsi/2021/231/article/6/n)
+[^c-c625f4eb172bc67cfe5c4f584a930f2f]: Textual amendment: Words in [s. 58(4)](https://www.legislation.gov.uk/mwa/2011/4/section/58/4) inserted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 66(4)(b)](https://www.legislation.gov.uk/asc/2021/1/section/66/4/b), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(n)](https://www.legislation.gov.uk/wsi/2021/231/article/6/n)

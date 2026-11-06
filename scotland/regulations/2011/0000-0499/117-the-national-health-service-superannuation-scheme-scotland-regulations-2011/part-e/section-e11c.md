@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## E11C. Application of regulations E11A and E11B with modifications where concurrent part-time employments held[^key-0388b3316485bfbc503f38a304127153]
+## E11C. Application of regulations E11A and E11B with modifications where concurrent part-time employments held[^c-0388b3316485bfbc503f38a304127153]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ the pension will (in any event) be payable by the Scottish Ministers when the me
 
 ## Annotations
 
-[^key-0388b3316485bfbc503f38a304127153]: Textual amendment: Regs. E11A-E11C inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [11](https://www.legislation.gov.uk/ssi/2024/272/regulation/11)
+[^c-0388b3316485bfbc503f38a304127153]: Textual amendment: Regs. E11A-E11C inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [11](https://www.legislation.gov.uk/ssi/2024/272/regulation/11)

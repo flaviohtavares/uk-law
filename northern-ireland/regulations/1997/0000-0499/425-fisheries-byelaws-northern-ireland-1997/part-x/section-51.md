@@ -20,7 +20,7 @@ summary: ''
 
 **Not yet in force.**
 
-**51.**[^key-37520cd272f86e914a08c5a5b1e63cef] A person shall not in the freshwater portion of any river, or in any lake, to which section 25 of the Act applies—
+**51.**[^c-37520cd272f86e914a08c5a5b1e63cef] A person shall not in the freshwater portion of any river, or in any lake, to which section 25 of the Act applies—
 
 - (a) use a draft net under section 71(2) of the Act to take;
 - (b) have on board any boat on or from which such a net was used; or
@@ -30,4 +30,4 @@ a trout of a size less than 35.5 centimetres.
 
 ## Annotations
 
-[^key-37520cd272f86e914a08c5a5b1e63cef]: Commencement: S. 51 in operation at 1.11.1997, see byelaw 1
+[^c-37520cd272f86e914a08c5a5b1e63cef]: Commencement: S. 51 in operation at 1.11.1997, see byelaw 1

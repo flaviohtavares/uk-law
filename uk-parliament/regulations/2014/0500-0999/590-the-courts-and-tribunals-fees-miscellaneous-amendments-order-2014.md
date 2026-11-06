@@ -66,11 +66,11 @@ The Lord Chancellor has consulted in accordance with section 92(5) and (6) of th
 
 In accordance with section 92(1) of the Courts Act 2003, sections 414(1) and 415(1) of the Insolvency Act 1986, section 42(6) of the Tribunals, Courts and Enforcement Act 2007 and section 54(1) of the Mental Capacity Act 2005, the Lord Chancellor has obtained the agreement, consent and sanction of the Treasury.
 
-## 1. Citation and commencement[^key-812e0563cfab42bd213cf353b5ef5b34]
+## 1. Citation and commencement[^c-812e0563cfab42bd213cf353b5ef5b34]
 
 This Order may be cited as the Courts and Tribunals Fees (Miscellaneous Amendments) Order 2014 and shall come into force on 6th April 2014.
 
-## 2. Amendments to the Employment Tribunals and the Employment Appeal Tribunal Fees Order 2013[^key-48c3117f4d06356f0a59bd9d12aa6ab9]
+## 2. Amendments to the Employment Tribunals and the Employment Appeal Tribunal Fees Order 2013[^c-48c3117f4d06356f0a59bd9d12aa6ab9]
 
 (1) The Employment Tribunals and the Employment Appeal Tribunal Fees Order 2013[^f00007] is amended as follows
 
@@ -114,7 +114,7 @@ This Order may be cited as the Courts and Tribunals Fees (Miscellaneous Amendmen
 
 .
 
-## 3. Amendments to the Court of Protection Fees Order 2007[^key-ea8114ac50f3fd5b52873a1e3eccb0c3]
+## 3. Amendments to the Court of Protection Fees Order 2007[^c-ea8114ac50f3fd5b52873a1e3eccb0c3]
 
 (1) The Court of Protection Fees Order 2007[^f00022] is amended as follows.
 
@@ -156,7 +156,7 @@ This Order may be cited as the Courts and Tribunals Fees (Miscellaneous Amendmen
 
 (3) In paragraph 17(3) of Schedule 2 (remissions and part remissions) for “on which the fee was paid” substitute “of the order of the court which finally disposed of the proceedings”.
 
-## 4. Amendments to the Civil Proceedings Fees Order 2008[^key-4804918aa4dbac8ae49fc8b70400acd1]
+## 4. Amendments to the Civil Proceedings Fees Order 2008[^c-4804918aa4dbac8ae49fc8b70400acd1]
 
 (1) The Civil Proceedings Fees Order 2008[^f00023] is amended as follows.
 
@@ -198,7 +198,7 @@ This Order may be cited as the Courts and Tribunals Fees (Miscellaneous Amendmen
 
 .
 
-## 5. Amendments to the Family Proceedings Fees Order 2008[^key-72c07a2267aa2f203b3999af767b5ff6]
+## 5. Amendments to the Family Proceedings Fees Order 2008[^c-72c07a2267aa2f203b3999af767b5ff6]
 
 (1) The Family Proceedings Fees Order 2008[^f00024] is amended as follows.
 
@@ -243,12 +243,12 @@ This Order may be cited as the Courts and Tribunals Fees (Miscellaneous Amendmen
 
 .
 
-## 6. Amendments to fee remissions[^key-761d9a5676e3c5bc658cd5b347bc7fee]
+## 6. Amendments to fee remissions[^c-761d9a5676e3c5bc658cd5b347bc7fee]
 
 (1) Schedule 1A (remissions and part remissions) to the Non-Contentious Probate Fees Order 2004[^f00025], the Schedule (remissions and part remissions) to the Gender Recognition (Application Fees) Order 2006[^f00026] and Schedule 2 (remissions and part remissions) of—
 
 - (a) the Magistrates’ Courts Fees Order 2008[^f00027],
-- (b)[^key-52006579e54b2f195c90cd591410806f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-52006579e54b2f195c90cd591410806f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the Upper Tribunal (Lands Chamber) Fees Order 2009[^f00029]
 - (d) the First-tier Tribunal (Gambling) Fees Order 2010[^f00030],
 - (e) the Upper Tribunal (Immigration and Asylum Chamber) (Judicial Review) (England and Wales) Fees Order 2011[^f00031], and
@@ -292,7 +292,7 @@ are amended as follows.
 
 .
 
-## 7. Transitional provision[^key-7ecc4f0e63d4ed33476cd56a7fa99b84]
+## 7. Transitional provision[^c-7ecc4f0e63d4ed33476cd56a7fa99b84]
 
 The amendments made by this Order to Table 2 in Schedule 2 (employment tribunals - issue and hearing fee) to the Employment Tribunals and the Employment Appeal Tribunal Fees Order 2013, have no effect in relation to the issue fee or the hearing fee payable in any claim where the claim form was presented before the 6th April 2014.
 
@@ -316,7 +316,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 11th March 2014
 
-## SCHEDULE 1[^key-ae28ace057b6b4b4feaf2e35856e752d]
+## SCHEDULE 1[^c-ae28ace057b6b4b4feaf2e35856e752d]
 
 Article 2
 
@@ -432,9 +432,9 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00006]: Footnote: [2004 c. 7](https://www.legislation.gov.uk/ukpga/2004/7).
 
-[^key-812e0563cfab42bd213cf353b5ef5b34]: Commencement: Art. 1 in force at 6.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/590/article/1)
+[^c-812e0563cfab42bd213cf353b5ef5b34]: Commencement: Art. 1 in force at 6.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/590/article/1)
 
-[^key-48c3117f4d06356f0a59bd9d12aa6ab9]: Commencement: Art. 2 in force at 6.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/590/article/1)
+[^c-48c3117f4d06356f0a59bd9d12aa6ab9]: Commencement: Art. 2 in force at 6.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/590/article/1)
 
 [^f00007]: Footnote: [S.I. 2013/1893](https://www.legislation.gov.uk/uksi/2013/1893), amended by [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302).
 
@@ -466,19 +466,19 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00021]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).
 
-[^key-ea8114ac50f3fd5b52873a1e3eccb0c3]: Commencement: Art. 3 in force at 6.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/590/article/1)
+[^c-ea8114ac50f3fd5b52873a1e3eccb0c3]: Commencement: Art. 3 in force at 6.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/590/article/1)
 
 [^f00022]: Footnote: [S.I. 2007/1745](https://www.legislation.gov.uk/uksi/2007/1745), amended by [S.I. 2009/513](https://www.legislation.gov.uk/uksi/2009/513) and [2013/2302](https://www.legislation.gov.uk/uksi/2013/2302).
 
-[^key-4804918aa4dbac8ae49fc8b70400acd1]: Commencement: Art. 4 in force at 6.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/590/article/1)
+[^c-4804918aa4dbac8ae49fc8b70400acd1]: Commencement: Art. 4 in force at 6.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/590/article/1)
 
 [^f00023]: Footnote: [S.I. 2008/1053](https://www.legislation.gov.uk/uksi/2008/1053), amended by section 59(5) of, and paragraph 1(2) of Part 1 of Schedule 11 to, the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4), [S.I. 2008/2853](https://www.legislation.gov.uk/uksi/2008/2853), [2009/1498](https://www.legislation.gov.uk/uksi/2009/1498), [2013/388](https://www.legislation.gov.uk/uksi/2013/388), [2013/1410](https://www.legislation.gov.uk/uksi/2013/1410) and [2013/2302](https://www.legislation.gov.uk/uksi/2013/2302).
 
-[^key-72c07a2267aa2f203b3999af767b5ff6]: Commencement: Art. 5 in force at 6.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/590/article/1)
+[^c-72c07a2267aa2f203b3999af767b5ff6]: Commencement: Art. 5 in force at 6.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/590/article/1)
 
 [^f00024]: Footnote: [S.I. 2008/1054](https://www.legislation.gov.uk/uksi/2008/1054), amended by section 59(5) of, and paragraph 1(2) of Part 1 of Schedule 11 to, the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4) and relevant amending instruments are [S.I. 2008/2856](https://www.legislation.gov.uk/uksi/2008/2856), [2009/1499](https://www.legislation.gov.uk/uksi/2009/1499), [2011/1045](https://www.legislation.gov.uk/uksi/2011/1045), [2013/388](https://www.legislation.gov.uk/uksi/2013/388) and [2013/2302](https://www.legislation.gov.uk/uksi/2013/2302).
 
-[^key-761d9a5676e3c5bc658cd5b347bc7fee]: Commencement: Art. 6 in force at 6.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/590/article/1)
+[^c-761d9a5676e3c5bc658cd5b347bc7fee]: Commencement: Art. 6 in force at 6.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/590/article/1)
 
 [^f00025]: Footnote: [S.I. 2004/3120](https://www.legislation.gov.uk/uksi/2004/3120), relevant amending instruments are [S.I. 2007/2174](https://www.legislation.gov.uk/uksi/2007/2174), [2009/1497](https://www.legislation.gov.uk/uksi/2009/1497), [2013/388](https://www.legislation.gov.uk/uksi/2013/388) and [2013/2302](https://www.legislation.gov.uk/uksi/2013/2302).
 
@@ -486,7 +486,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00027]: Footnote: [S.I. 2008/1052](https://www.legislation.gov.uk/uksi/2008/1052), amended by section 59(5) of, and paragraph 1(2) of Part 1 of Schedule 11 to, the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4) and relevant amending instruments are [S.I. 2008/2855](https://www.legislation.gov.uk/uksi/2008/2855), [2009/1496](https://www.legislation.gov.uk/uksi/2009/1496), [2013/388](https://www.legislation.gov.uk/uksi/2013/388) and [2013/2302](https://www.legislation.gov.uk/uksi/2013/2302).
 
-[^key-52006579e54b2f195c90cd591410806f]: Textual amendment: [Art. 6(1)(b)](https://www.legislation.gov.uk/uksi/2014/590/article/6/1/b) revoked (1.4.2024) by [The Supreme Court Fees Order 2024 (S.I. 2024/148)](https://www.legislation.gov.uk/uksi/2024/148), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/3)
+[^c-52006579e54b2f195c90cd591410806f]: Textual amendment: [Art. 6(1)(b)](https://www.legislation.gov.uk/uksi/2014/590/article/6/1/b) revoked (1.4.2024) by [The Supreme Court Fees Order 2024 (S.I. 2024/148)](https://www.legislation.gov.uk/uksi/2024/148), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/3)
 
 [^f00029]: Footnote: [S.I. 2009/1114](https://www.legislation.gov.uk/uksi/2009/1114), amended by [S.I. 2010/2601](https://www.legislation.gov.uk/uksi/2010/2601), [2013/1199](https://www.legislation.gov.uk/uksi/2013/1199) and [2013/2302](https://www.legislation.gov.uk/uksi/2013/2302).
 
@@ -496,9 +496,9 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00032]: Footnote: [S.I. 2013/1179](https://www.legislation.gov.uk/uksi/2013/1179) amended by [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302).
 
-[^key-7ecc4f0e63d4ed33476cd56a7fa99b84]: Commencement: Art. 7 in force at 6.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/590/article/1)
+[^c-7ecc4f0e63d4ed33476cd56a7fa99b84]: Commencement: Art. 7 in force at 6.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/590/article/1)
 
-[^key-ae28ace057b6b4b4feaf2e35856e752d]: Commencement: Sch. 1 in force at 6.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/590/article/1)
+[^c-ae28ace057b6b4b4feaf2e35856e752d]: Commencement: Sch. 1 in force at 6.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/590/article/1)
 
 [^f00033]: Footnote: [1973 c.35](https://www.legislation.gov.uk/ukpga/1973/35); sections 3A and 3C were inserted by section 35 of, and paragraph 1(3) of Schedule 10 to, the Deregulation and Contracting Out Act [1994 (c.40)](https://www.legislation.gov.uk/ukpga/1994/40) which was amended by section 1(2) of the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8).
 

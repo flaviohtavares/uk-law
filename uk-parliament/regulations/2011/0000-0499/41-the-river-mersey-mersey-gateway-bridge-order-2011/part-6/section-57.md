@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Disapplication of provisions relating to the conservation of the River Mersey[^key-6c35064bf35be21475b7b7bc2a306938]
+## 57. Disapplication of provisions relating to the conservation of the River Mersey[^c-6c35064bf35be21475b7b7bc2a306938]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ The provisions of the Act passed in the fifth and sixth years of the reign of Qu
 
 ## Annotations
 
-[^key-6c35064bf35be21475b7b7bc2a306938]: Commencement: Art. 57 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-6c35064bf35be21475b7b7bc2a306938]: Commencement: Art. 57 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
 [^f00032]: Footnote: [1842 c. cx](https://www.legislation.gov.uk/ukla/1842/110).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Effect of misdescription[^key-336291f1e43b6c927ef7a8c9d33bb2c5]
+## 27. Effect of misdescription[^c-336291f1e43b6c927ef7a8c9d33bb2c5]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ affects the full operation of the document with respect to that person or place 
 
 ## Annotations
 
-[^key-336291f1e43b6c927ef7a8c9d33bb2c5]: Commencement: Art. 27 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-336291f1e43b6c927ef7a8c9d33bb2c5]: Commencement: Art. 27 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

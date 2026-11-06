@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-73e3a9b84f0c2b2ff2611f98c49224ed] This regulation does not apply to an MM medicinal product or a POC medicinal product.
+(A1)[^c-73e3a9b84f0c2b2ff2611f98c49224ed] This regulation does not apply to an MM medicinal product or a POC medicinal product.
 
 (1) Where the sale or supply of a medicinal product relies on the exemptions under regulations 167, 168 or, subject to paragraph (4), 169, the person who sells or supplies the product must maintain for at least five years a record showing—
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73e3a9b84f0c2b2ff2611f98c49224ed]: Textual amendment: [Reg. 170(A1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/170/A1) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2025/87/regulation/22)
+[^c-73e3a9b84f0c2b2ff2611f98c49224ed]: Textual amendment: [Reg. 170(A1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/170/A1) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2025/87/regulation/22)

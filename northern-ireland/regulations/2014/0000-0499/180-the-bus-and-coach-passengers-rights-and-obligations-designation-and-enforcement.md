@@ -52,13 +52,13 @@ The Department of the Environment has been designated for the purposes of sectio
 
 - “**carrier**” means a natural or legal person, other than a tour operator, travel agent or ticket vendor, offering transport by regular or occasional services to the general public and includes any natural or legal person other than the carrier, who actually performs the carriage wholly or partially;
 - “**Regulation 181/2011**” means Regulation (EU) No. 181/2011 [^c22146681] of the European Parliament and of the Council of 16 February 2011 concerning the rights of passengers in bus and coach transport and amending Regulation [(EC) No. 2006/2004](https://www.legislation.gov.uk/european/regulation/2004/2006) [^c22146691];
-- “**the Department**” means the Department for Infrastructure[^key-ca6db82a0a9a91667ca7456a7c2632b9] .
+- “**the Department**” means the Department for Infrastructure[^c-ca6db82a0a9a91667ca7456a7c2632b9] .
 
 (3) The Interpretation Act (Northern Ireland) 1954 [^c22146701] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
 ## 2. Compliance and designation of Enforcement Body
 
-For the purpose of Article 28(1) of Regulation 181/2011, the designated body responsible for the enforcement of Regulation 181/2011 as regards regular services from points within Northern Ireland and regular services from a country other than the United Kingdom or a member State[^key-04b28228ff16a02c3ae5a73099c35ea3] to such points is the Department.
+For the purpose of Article 28(1) of Regulation 181/2011, the designated body responsible for the enforcement of Regulation 181/2011 as regards regular services from points within Northern Ireland and regular services from a country other than the United Kingdom or a member State[^c-04b28228ff16a02c3ae5a73099c35ea3] to such points is the Department.
 
 ## 3. Passenger Complaints
 
@@ -73,15 +73,15 @@ For the purpose of Article 28(1) of Regulation 181/2011, the designated body res
 
 ## 4. Exemption of domestic bus and coach passenger regular services from the provisions of the Community Regulation
 
-(1) Subject to paragraph (2), Regulation 181/2011 does not apply to any domestic bus and coach passengers regular service during the exemption period[^key-94245b19e3571c0ccf17e48f40f4cba2] .
+(1) Subject to paragraph (2), Regulation 181/2011 does not apply to any domestic bus and coach passengers regular service during the exemption period[^c-94245b19e3571c0ccf17e48f40f4cba2] .
 
 (2) The exemption in paragraph (1) does not apply in relation to Articles 4(2), 9, 10(1), 16(1)(b) and (2), 17(1) and (2) and 24 to 28 (inclusive) of Regulation 181/2011.
 
 (3) In this regulation—
 
 - “**domestic bus and coach passenger regular service**” means a regular service to which Regulation 181/2011 applies and which is operated exclusively within Northern Ireland by a carrier;
-- “exemption period” means the period which commences on the date these Regulations come into operation and ends at midnight on 28[^key-1c9cf60af39d735aa3f188a658ffef9a]<sup>th</sup> February 2021.
-- [^key-fb2c3c23bf06446f2a32b8af0a7cb511]...
+- “exemption period” means the period which commences on the date these Regulations come into operation and ends at midnight on 28[^c-1c9cf60af39d735aa3f188a658ffef9a]<sup>th</sup> February 2021.
+- [^c-fb2c3c23bf06446f2a32b8af0a7cb511]...
 
 ## 5. Training of drivers
 
@@ -121,14 +121,14 @@ An Explanatory Memorandum has been produced and is available from Road Safety an
 
 [^c22146691]: Marginal citation: OJ L 364, 9.12.2004, P1–11
 
-[^key-ca6db82a0a9a91667ca7456a7c2632b9]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/180/regulation/1/2) substituted (18.2.2019) by [The Road Traffic and Vehicles and Waterways (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/6)](https://www.legislation.gov.uk/nisr/2019/6), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/6/regulation/1/1), [18](https://www.legislation.gov.uk/nisr/2019/6/regulation/18)
+[^c-ca6db82a0a9a91667ca7456a7c2632b9]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/180/regulation/1/2) substituted (18.2.2019) by [The Road Traffic and Vehicles and Waterways (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/6)](https://www.legislation.gov.uk/nisr/2019/6), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/6/regulation/1/1), [18](https://www.legislation.gov.uk/nisr/2019/6/regulation/18)
 
 [^c22146701]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-04b28228ff16a02c3ae5a73099c35ea3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2014/180/regulation/2) substituted (31.12.2020) by [The Rights of Passengers in Bus and Coach Transport (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/141)](https://www.legislation.gov.uk/uksi/2019/141), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/141/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/141/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-04b28228ff16a02c3ae5a73099c35ea3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2014/180/regulation/2) substituted (31.12.2020) by [The Rights of Passengers in Bus and Coach Transport (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/141)](https://www.legislation.gov.uk/uksi/2019/141), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/141/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/141/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-94245b19e3571c0ccf17e48f40f4cba2]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2014/180/regulation/4/1) substituted (31.7.2017) by [The Bus and Coach Passengers Rights and Obligations (Designation and Enforcement) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/127)](https://www.legislation.gov.uk/nisr/2017/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/127/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2017/127/regulation/2/a)
+[^c-94245b19e3571c0ccf17e48f40f4cba2]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2014/180/regulation/4/1) substituted (31.7.2017) by [The Bus and Coach Passengers Rights and Obligations (Designation and Enforcement) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/127)](https://www.legislation.gov.uk/nisr/2017/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/127/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2017/127/regulation/2/a)
 
-[^key-1c9cf60af39d735aa3f188a658ffef9a]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/nisr/2014/180/regulation/4/3) inserted (31.7.2017) by [The Bus and Coach Passengers Rights and Obligations (Designation and Enforcement) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/127)](https://www.legislation.gov.uk/nisr/2017/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/127/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/nisr/2017/127/regulation/2/b/i)
+[^c-1c9cf60af39d735aa3f188a658ffef9a]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/nisr/2014/180/regulation/4/3) inserted (31.7.2017) by [The Bus and Coach Passengers Rights and Obligations (Designation and Enforcement) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/127)](https://www.legislation.gov.uk/nisr/2017/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/127/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/nisr/2017/127/regulation/2/b/i)
 
-[^key-fb2c3c23bf06446f2a32b8af0a7cb511]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/nisr/2014/180/regulation/4/3) omitted (31.7.2017) by virtue of [The Bus and Coach Passengers Rights and Obligations (Designation and Enforcement) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/127)](https://www.legislation.gov.uk/nisr/2017/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/127/regulation/1/1), [2(b)(ii)](https://www.legislation.gov.uk/nisr/2017/127/regulation/2/b/ii)
+[^c-fb2c3c23bf06446f2a32b8af0a7cb511]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/nisr/2014/180/regulation/4/3) omitted (31.7.2017) by virtue of [The Bus and Coach Passengers Rights and Obligations (Designation and Enforcement) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/127)](https://www.legislation.gov.uk/nisr/2017/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/127/regulation/1/1), [2(b)(ii)](https://www.legislation.gov.uk/nisr/2017/127/regulation/2/b/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Modification of provisions where van temporarily replaced[^key-e3ed7c7f56956e11a03127a1ded249b3]
+## 159. Modification of provisions where van temporarily replaced[^c-e3ed7c7f56956e11a03127a1ded249b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3ed7c7f56956e11a03127a1ded249b3]: Textual amendment: Ss. 155-164 substituted for ss. 155-166 (with effect in accordance with s. 80(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2004/12/schedule/14/paragraph/5)
+[^c-e3ed7c7f56956e11a03127a1ded249b3]: Textual amendment: Ss. 155-164 substituted for ss. 155-166 (with effect in accordance with s. 80(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2004/12/schedule/14/paragraph/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148EA. Determination of remaining residual value resulting from lessor's first additional expenditure[^key-da1631150b33777ba5dcc68ed5e2f115][^c19154671]
+## 148EA. Determination of remaining residual value resulting from lessor's first additional expenditure[^c-da1631150b33777ba5dcc68ed5e2f115][^c19154671]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-da1631150b33777ba5dcc68ed5e2f115]: Textual amendment: Ss. 148EA, 148EB inserted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 450](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/450) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-da1631150b33777ba5dcc68ed5e2f115]: Textual amendment: Ss. 148EA, 148EB inserted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 450](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/450) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c19154671]: Textual amendment: Pt. 2 Ch. 10A, (ss 148A-148J) inserted (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 81](https://www.legislation.gov.uk/ukpga/2006/25/section/81), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/13)

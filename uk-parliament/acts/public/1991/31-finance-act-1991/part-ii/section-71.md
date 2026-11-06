@@ -22,7 +22,7 @@ summary: ''
 
 (1) Section 339A of the Taxes Act 1988 (maximum qualifying donations in the case of companies) shall cease to have effect.
 
-(2)[^key-58372024e661b09730a42feeb2de180c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-58372024e661b09730a42feeb2de180c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Subsections (1) and (2) above shall apply in relation to accounting periods beginning on or after 19th March 1991.
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-58372024e661b09730a42feeb2de180c]: Textual amendment: [S. 71(2)](https://www.legislation.gov.uk/ukpga/1991/31/section/71/2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-58372024e661b09730a42feeb2de180c]: Textual amendment: [S. 71(2)](https://www.legislation.gov.uk/ukpga/1991/31/section/71/2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c12037191]: Marginal citation: [1990 c. 29](https://www.legislation.gov.uk/ukpga/1990/29).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39B. Prescribing of works.[^c1610690][^key-989216af999dba0660696f9dbb7e5e94]
+## 39B. Prescribing of works.[^c1610690][^c-989216af999dba0660696f9dbb7e5e94]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c1610690]: Textual amendment: S. 39B inserted (16. 5. 1992) by [Traffic Calming Act 1992 (c. 30)](https://www.legislation.gov.uk/ukpga/1992/30), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/1992/30/section/2/1), [3](https://www.legislation.gov.uk/ukpga/1992/30/section/3), [Sch. 2](https://www.legislation.gov.uk/ukpga/1992/30/schedule/2)
 
-[^key-989216af999dba0660696f9dbb7e5e94]: Modification: S. 39B: transfer of functions (23.3.2005) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))
+[^c-989216af999dba0660696f9dbb7e5e94]: Modification: S. 39B: transfer of functions (23.3.2005) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))

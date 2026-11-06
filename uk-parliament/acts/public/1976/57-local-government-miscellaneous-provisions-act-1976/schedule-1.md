@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Adaptation of enactments in connection with compulsory purchases of rights[^key-08a9a807f05d9d402e962651e0ee6267]
+## SCHEDULE 1 — Adaptation of enactments in connection with compulsory purchases of rights[^c-08a9a807f05d9d402e962651e0ee6267]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Section 13(3).
 
 ### Part I — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c7231141]
 
-### Part II — ADAPTATION OF PART I OF THE ACT OF 1965[^key-8fc452a84c13ad93e3679dc235730f00][^key-7849633ce503591fa5266d0dc58e9981]
+### Part II — ADAPTATION OF PART I OF THE ACT OF 1965[^c-8fc452a84c13ad93e3679dc235730f00][^c-7849633ce503591fa5266d0dc58e9981]
 
 **6.** In the [^c7231151]Compulsory Purchase Act 1965 (hereafter in this Schedule referred to as “**the Act**”) for section 7 (which relates to compensation) there shall be substituted the following—
 
@@ -32,7 +32,7 @@ Section 13(3).
 >
 > (2) The modifications subject to which subsection (1) of section 44 of the Land Compensation Act 1973 is to have effect, as applied by subsection (2) of that section to compensation for injurious affection under this section, are that for the words “land is acquired or taken” there shall be substituted the words “ a right over land is purchased ” and for the words “acquired or taken from him” there shall be substituted the words “ over which the right is exercisable ”.
 
-**7.**[^key-4ed98661922d4bad304ac519adbbb954] Section 8(1) of the Compulsory Purchase Act 1965 has effect as if references to acquiring land were to acquiring a right in the land, and Schedule 2A to that Act is to be read as if, for that Schedule, there were substituted—
+**7.**[^c-4ed98661922d4bad304ac519adbbb954] Section 8(1) of the Compulsory Purchase Act 1965 has effect as if references to acquiring land were to acquiring a right in the land, and Schedule 2A to that Act is to be read as if, for that Schedule, there were substituted—
 
 > **SCHEDULE 2A — Counter-notice requiring purchase of land**
 >
@@ -106,16 +106,16 @@ shall be so modified as to secure that, as against persons with interests in the
 
 ## Annotations
 
-[^key-08a9a807f05d9d402e962651e0ee6267]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/1976/57/schedule/1): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-08a9a807f05d9d402e962651e0ee6267]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/1976/57/schedule/1): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c7231141]: Textual amendment: [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1976/57/schedule/1/part/I) repealed by [Acquisition of Land Act 1981 (c. 67, SIF 28:1)](https://www.legislation.gov.uk/ukpga/1981/67), [s. 34(3)](https://www.legislation.gov.uk/ukpga/1981/67/section/34/3), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1981/67/schedule/6/part/I)
 
-[^key-8fc452a84c13ad93e3679dc235730f00]: Modification: Sch. 1 Pt. 2 applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 49(7)](https://www.legislation.gov.uk/ukpga/2017/7/section/49/7), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
+[^c-8fc452a84c13ad93e3679dc235730f00]: Modification: Sch. 1 Pt. 2 applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 49(7)](https://www.legislation.gov.uk/ukpga/2017/7/section/49/7), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
 
-[^key-7849633ce503591fa5266d0dc58e9981]: Modification: Sch. 1 Pt. 2 applied (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 45(8)](https://www.legislation.gov.uk/ukpga/2021/2/section/45/8), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)
+[^c-7849633ce503591fa5266d0dc58e9981]: Modification: Sch. 1 Pt. 2 applied (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 45(8)](https://www.legislation.gov.uk/ukpga/2021/2/section/45/8), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)
 
 [^c7231151]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
 
-[^key-4ed98661922d4bad304ac519adbbb954]: Textual amendment: Sch. 1 para. 7 substituted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 17 paras. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/6), [7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/7); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/g) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-4ed98661922d4bad304ac519adbbb954]: Textual amendment: Sch. 1 para. 7 substituted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 17 paras. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/6), [7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/7); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/g) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
 
 [^c19585441]: Textual amendment: Words in Sch. 1 Pt. 2 para. 9 substituted (1.4.2008) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 139](https://www.legislation.gov.uk/ukpga/2007/15/section/139), [148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 22 para. 1](https://www.legislation.gov.uk/ukpga/2007/15/schedule/22/paragraph/1); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 5(b)](https://www.legislation.gov.uk/uksi/2007/2709/article/5/b)

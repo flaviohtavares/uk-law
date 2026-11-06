@@ -33,7 +33,7 @@ An Act to consolidate certain enactments relating to deer with amendments to giv
 
 \[25th July 1991\]
 
-[^c13262181]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-737bb9bd6d7460b3a53674746658576f]
+[^c13262181]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-737bb9bd6d7460b3a53674746658576f]
 
 ## Offences relating to deer
 
@@ -78,9 +78,9 @@ and any person who fails to comply with a requirement under this subsection shal
 
 the killing of any of those deer by that person, or by any servant or agent of that person authorised by him for the purpose, shall not constitute an offence under this section.
 
-(4)[^key-78774107ff0c12b2e2424e3f5e82f9d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-78774107ff0c12b2e2424e3f5e82f9d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-672d5819d81c90444a8f3f11df0e21d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-672d5819d81c90444a8f3f11df0e21d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3. Taking or killing of deer at night.
 
@@ -107,7 +107,7 @@ he shall be guilty of an offence.
 
 (4) Subject to subsection (5) below, if any person—
 
-- (a) discharges any firearm, or projects any missile, from any mechanically propelled vehicle at any deer, when the vehicle is moving or when its engine is running,[^key-a243913fb24c8b744bf4785e0fe63119] or
+- (a) discharges any firearm, or projects any missile, from any mechanically propelled vehicle at any deer, when the vehicle is moving or when its engine is running,[^c-a243913fb24c8b744bf4785e0fe63119] or
 - (b) uses any mechanically propelled vehicle for the purpose of driving deer,
 
 he shall be guilty of an offence.
@@ -134,16 +134,16 @@ he shall be guilty of an offence.
 
 (2) A person shall not be guilty of an offence under section 2 or section 3 above by reason of any act done for the purpose of preventing the suffering of an injured or diseased deer.
 
-(2A)[^key-2d6a8fa3593e1f8bd29985a7cee41dda] A person shall not be guilty of an offence under section 2 or section 3 above by reason of taking or killing a deer that he reasonably believes—
+(2A)[^c-2d6a8fa3593e1f8bd29985a7cee41dda] A person shall not be guilty of an offence under section 2 or section 3 above by reason of taking or killing a deer that he reasonably believes—
 
 - (a) has been deprived in any way (other than by an unlawful taking or killing by that person) of a female deer on which it was dependent; or
 - (b) is about to be deprived, by death from disease or a lawful taking or killing, of a female deer on which it is dependent.
 
 (3) A person shall not be guilty of an offence under section 4(1)(a) or section 4(1)(b) above by reason of setting in position, or using, any trap or net for the purpose of preventing the suffering of an injured or diseased deer.
 
-(4)[^key-17066048e222d2b45cd22e82d3cea8b4] A person shall not be guilty of an offence under section 4(1) or (2) above by reason of the use of any reasonable means for the purpose of killing any deer if he reasonably believes that the deer has been so seriously injured, otherwise than by his unlawful act, or is in such condition, that to kill it is an act of mercy.
+(4)[^c-17066048e222d2b45cd22e82d3cea8b4] A person shall not be guilty of an offence under section 4(1) or (2) above by reason of the use of any reasonable means for the purpose of killing any deer if he reasonably believes that the deer has been so seriously injured, otherwise than by his unlawful act, or is in such condition, that to kill it is an act of mercy.
 
-(4A)[^key-e8d64901138c939306a53b5100900007] In subsection (4) above, “any reasonable means” means any method of killing a deer that can reasonably be expected to result in rapid loss of consciousness and death and which is appropriate in all the circumstances (including in particular what the deer is doing, its size, its distance from the closest position safely attainable by the person attempting to kill the deer and its position in relation to vegetative cover).
+(4A)[^c-e8d64901138c939306a53b5100900007] In subsection (4) above, “any reasonable means” means any method of killing a deer that can reasonably be expected to result in rapid loss of consciousness and death and which is appropriate in all the circumstances (including in particular what the deer is doing, its size, its distance from the closest position safely attainable by the person attempting to kill the deer and its position in relation to vegetative cover).
 
 (5) A person shall not be guilty of an offence under section 4(2)(a) above by reason of the use as a slaughtering instrument, for the purpose of killing any deer, of a smooth-bore gun which—
 
@@ -151,7 +151,7 @@ he shall be guilty of an offence.
 - (b) has a barrel less than 24 inches (609.6 millimetres) in length; and
 - (c) is loaded with a cartridge purporting to contain shot none of which is less than .203 inches (5.16 millimetres) in diameter (that is to say, size AAA or any larger size).
 
-(6)[^key-8a0f48a0e7256a28cae5ebdac23c4e26] A person shall not be guilty of an offence under section 4(2)(a) above if he uses for the purpose of taking or killing or injuring any Chinese water deer (*Hydropotes inermis*) or muntjac deer (*Muntiacus reevesi*)—
+(6)[^c-8a0f48a0e7256a28cae5ebdac23c4e26] A person shall not be guilty of an offence under section 4(2)(a) above if he uses for the purpose of taking or killing or injuring any Chinese water deer (*Hydropotes inermis*) or muntjac deer (*Muntiacus reevesi*)—
 
 - (a) a rifle having a calibre of not less than .220 inches and a muzzle energy of not less than 1,356 joules (1000 foot pounds), and
 - (b) a soft-nosed or hollow-nosed bullet weighing not less than 3.24 grammes (50 grains).
@@ -192,21 +192,21 @@ on any cultivated land, pasture or enclosed woodland.
 
 (7) In this section “**agriculture Minister**” means—
 
-- (a) in relation to England, the Secretary of State[^key-bc051d5f6c91d1d4ebba36b1d5a2ffdf]; and
+- (a) in relation to England, the Secretary of State[^c-bc051d5f6c91d1d4ebba36b1d5a2ffdf]; and
 - (b) in relation to Wales, the Secretary of State.
 
-### 8. Exceptions for licensed persons[^key-27f87d9372b0cd157b804ceec26331dd]
+### 8. Exceptions for licensed persons[^c-27f87d9372b0cd157b804ceec26331dd]
 
-(1) A licence may be granted to any person by Natural England[^key-befd107a16dd34516dc415317ba2a200] exempting that person, and any persons acting with his written authority, from sections 2 to 4 above in respect of any of the acts specified in subsection (3) below which are done in England for the purpose of removing deer from one area to another or of taking deer alive for scientific or educational purposes.
+(1) A licence may be granted to any person by Natural England[^c-befd107a16dd34516dc415317ba2a200] exempting that person, and any persons acting with his written authority, from sections 2 to 4 above in respect of any of the acts specified in subsection (3) below which are done in England for the purpose of removing deer from one area to another or of taking deer alive for scientific or educational purposes.
 
-(2) A licence may be granted to any person by the Natural Resources Body for Wales[^key-940fd2f7792ef9d805277db8fda4c61e] exempting that person, and any persons acting with his written authority, from sections 2 to 4 above in respect of any of the acts specified in subsection (3) below which are done in Wales for the purpose of removing deer from one area to another or of taking deer alive for scientific or educational purposes.
+(2) A licence may be granted to any person by the Natural Resources Body for Wales[^c-940fd2f7792ef9d805277db8fda4c61e] exempting that person, and any persons acting with his written authority, from sections 2 to 4 above in respect of any of the acts specified in subsection (3) below which are done in Wales for the purpose of removing deer from one area to another or of taking deer alive for scientific or educational purposes.
 
 (3) The acts referred to in subsections (1) and (2) above are—
 
 - (a) using any net, trap, stupefying drug or muscle-relaxing agent of a type authorised by the licence;
 - (b) using any missile carrying or containing such stupefying drug or muscle-relaxing agent and discharging any such missile by any means authorised by the licence.
 
-(3A)[^key-b8e62ce1aa9c87796730dd6d66ac1f05] A licence may be granted to any person by—
+(3A)[^c-b8e62ce1aa9c87796730dd6d66ac1f05] A licence may be granted to any person by—
 
 - (a) Natural England, in relation to any land in England, or
 - (b) the Welsh Ministers, in relation to any land in Wales,
@@ -258,11 +258,11 @@ exempting that person from section 3 above in relation to any species and descri
 
 (3H) Natural England and the Welsh Ministers may charge fees for the consideration of applications for licences under subsections (3A) and (3D) above.
 
-(4) A licence granted under this section may be revoked at any time by the licensor[^key-5b6b53ef1e392d8922c641f0cd59dbe1] ; and a licence granted under this section[^key-71f8cb97c6b9a56b4f59173266f3f5cc] may be granted subject to conditions.
+(4) A licence granted under this section may be revoked at any time by the licensor[^c-5b6b53ef1e392d8922c641f0cd59dbe1] ; and a licence granted under this section[^c-71f8cb97c6b9a56b4f59173266f3f5cc] may be granted subject to conditions.
 
-(5) Without prejudice to any other liability to a penalty which he may have incurred under this or any other Act, any person who contravenes or fails to comply with any condition imposed on the grant of a licence under this section[^key-92c4a954cb622d4ffb7ad02ea6692e2a] shall be guilty of an offence.
+(5) Without prejudice to any other liability to a penalty which he may have incurred under this or any other Act, any person who contravenes or fails to comply with any condition imposed on the grant of a licence under this section[^c-92c4a954cb622d4ffb7ad02ea6692e2a] shall be guilty of an offence.
 
-(6)[^key-655a92a1834382e5b519f343a02dd42b] In this section, “the natural heritage” means flora and fauna, geological or physiographical features or natural beauty and amenity of the countryside.
+(6)[^c-655a92a1834382e5b519f343a02dd42b] In this section, “the natural heritage” means flora and fauna, geological or physiographical features or natural beauty and amenity of the countryside.
 
 ### 9. Penalties for offences relating to deer.
 
@@ -270,7 +270,7 @@ exempting that person from section 3 above in relation to any species and descri
 
 (2) Where an offence under any of the preceding provisions of this Act was committed in respect of more than one deer the maximum fine which may be imposed under subsection (1) above shall be determined as if the person convicted had been convicted of a separate offence in respect of each deer.
 
-(3)[^key-bfa347c2365360cf36feb4cf7c363b25] Proceedings for an offence under this Act may be brought within the period of 6 months beginning with the date on which evidence sufficient in the opinion of the prosecutor to warrant the proceedings came to his knowledge.
+(3)[^c-bfa347c2365360cf36feb4cf7c363b25] Proceedings for an offence under this Act may be brought within the period of 6 months beginning with the date on which evidence sufficient in the opinion of the prosecutor to warrant the proceedings came to his knowledge.
 
 (4) But subsection (3) does not authorise the commencement of proceedings for an offence more than 2 years after the date on which the offence was committed.
 
@@ -284,9 +284,9 @@ exempting that person from section 3 above in relation to any species and descri
 
 ### 10. Offences relating to sale and purchase etc. of venison.
 
-(1)[^key-baa991285d99efa8f0dbdaa10f975ad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-baa991285d99efa8f0dbdaa10f975ad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-baa991285d99efa8f0dbdaa10f975ad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-baa991285d99efa8f0dbdaa10f975ad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) If any person—
 
@@ -302,10 +302,10 @@ any venison which comes from a deer to which this subsection applies, he shall b
 
 (5) In this section—
 
-- [^key-bec3da1a9b7eb643e0d81f067d119725]...
+- [^c-bec3da1a9b7eb643e0d81f067d119725]...
 - “**sale**” includes barter and exchange, and “**sell**” and “**purchase**” shall be construed accordingly.
 
-### 11. Licensed game dealers to keep records.[^key-0901b212554dcc106dc2ac4ffb487e47]
+### 11. Licensed game dealers to keep records.[^c-0901b212554dcc106dc2ac4ffb487e47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -324,7 +324,7 @@ any venison which comes from a deer to which this subsection applies, he shall b
 (2) For the purposes of—
 
 - (a) exercising the powers conferred by subsection (1) above, or
-- (b) arresting a person, in accordance with section 24[^key-20c0894918e7d5224d83b7447b0858ee] of the [^c13262341]Police and Criminal Evidence Act 1984 (general arrest conditions), for an offence under this Act,
+- (b) arresting a person, in accordance with section 24[^c-20c0894918e7d5224d83b7447b0858ee] of the [^c13262341]Police and Criminal Evidence Act 1984 (general arrest conditions), for an offence under this Act,
 
 a constable may enter any land other than a dwelling-house.
 
@@ -337,9 +337,9 @@ a constable may enter any land other than a dwelling-house.
 - (a) any deer or venison in respect of which the offence was committed or which was found in that person’s possession;
 - (b) any vehicle, animal, weapon or other thing which was used to commit the offence or which was capable of being used to take, kill or injure deer and was found in his possession.
 
-(2) Where the offence of which the person is convicted is an offence under any of sections 1 and 10[^key-d67b52462de6aa500b1af0eb9dc894f4] above or under subsection (3)(c) below, the court (without prejudice to its powers under subsection (1) above)—
+(2) Where the offence of which the person is convicted is an offence under any of sections 1 and 10[^c-d67b52462de6aa500b1af0eb9dc894f4] above or under subsection (3)(c) below, the court (without prejudice to its powers under subsection (1) above)—
 
-- (a)[^key-44194f3c84949b9ad36255690ab6da59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-44194f3c84949b9ad36255690ab6da59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) may cancel any firearm or shotgun certificate held by him.
 
 (3) Where the court cancels a firearm or shotgun certificate under subsection (2)(b) above—
@@ -350,7 +350,7 @@ a constable may enter any land other than a dwelling-house.
 
 ### 14. Offences by bodies corporate.
 
-(1) Where an offence under any of sections 1 and 10[^key-40408aab2ed0d6b6c59fa503f2920cd3] above which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and be liable to be proceeded against and punished accordingly.
+(1) Where an offence under any of sections 1 and 10[^c-40408aab2ed0d6b6c59fa503f2920cd3] above which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and be liable to be proceeded against and punished accordingly.
 
 (2) Where the affairs of a body corporate are managed by its members, subsection (1) above shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
@@ -362,7 +362,7 @@ a constable may enter any land other than a dwelling-house.
 
 (1) Any power to make orders under this Act shall be exercisable by statutory instrument.
 
-(2)[^key-a0fe38c03d54642898d856688256b351] A statutory instrument containing an order made under section 4(3) above shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+(2)[^c-a0fe38c03d54642898d856688256b351] A statutory instrument containing an order made under section 4(3) above shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
 (3) No order shall be made under section 7(5) above unless a draft of the order has been laid before and approved by a resolution of each House of Parliament.
 
@@ -374,7 +374,7 @@ In this Act, unless the context otherwise requires,—
 
 - “**ammunition**” and “**firearm**” have the same meaning as in the [^c13262351]Firearms Act 1968;
 - “**deer**” means deer of any species and includes the carcase of any deer or any part thereof;
-- “[^key-23df7ff342976343fa6870923e38dd54]**species**” includes any hybrid of different species of deer
+- “[^c-23df7ff342976343fa6870923e38dd54]**species**” includes any hybrid of different species of deer
 - “**vehicle**” includes an aircraft, hovercraft or boat; and
 - “**venison**” includes imported venison and means—
 - (a) any carcase of a deer, or
@@ -442,7 +442,7 @@ Section 2.
 </tbody>
 </table>
 
-[^key-9a487504e940d7a660eed07c7d47c095]
+[^c-9a487504e940d7a660eed07c7d47c095]
 
 ## SCHEDULE 2 — Prohibited firearms and ammunition
 
@@ -462,7 +462,7 @@ Section 4.
 
 **5.** Any bullet for use in a rifle other than a soft-nosed or hollow-nosed bullet.
 
-## SCHEDULE 3 — FORM OF RECORD TO BE KEPT BY LICENSED GAME DEALERS[^key-d927cca8af9cc1963bf75ccf78d7d76d]
+## SCHEDULE 3 — FORM OF RECORD TO BE KEPT BY LICENSED GAME DEALERS[^c-d927cca8af9cc1963bf75ccf78d7d76d]
 
 **No longer in force.**
 
@@ -564,69 +564,69 @@ Section 17.
 
 [^c13262181]: Modification: **\[A table showing the derivation of the provisions of this consolidation Act will be found at the end of the Act. The table has no official status.\]**
 
-[^key-737bb9bd6d7460b3a53674746658576f]: Modification: Act functions transferred (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [art. 29](https://www.legislation.gov.uk/uksi/2018/644/article/29)
+[^c-737bb9bd6d7460b3a53674746658576f]: Modification: Act functions transferred (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [art. 29](https://www.legislation.gov.uk/uksi/2018/644/article/29)
 
 [^c13262191]: Modification: S. 2: Functions transferred (W.) (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-78774107ff0c12b2e2424e3f5e82f9d1]: Textual amendment: S. 2(4) omitted (1.10.2007) by virtue of [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2007/2183/article/5/2)
+[^c-78774107ff0c12b2e2424e3f5e82f9d1]: Textual amendment: S. 2(4) omitted (1.10.2007) by virtue of [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2007/2183/article/5/2)
 
-[^key-672d5819d81c90444a8f3f11df0e21d6]: Textual amendment: S. 2(5) omitted (1.10.2007) by virtue of [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2007/2183/article/5/2)
+[^c-672d5819d81c90444a8f3f11df0e21d6]: Textual amendment: S. 2(5) omitted (1.10.2007) by virtue of [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2007/2183/article/5/2)
 
-[^key-a243913fb24c8b744bf4785e0fe63119]: Textual amendment: Words in s. 4(4)(a) inserted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [2](https://www.legislation.gov.uk/uksi/2007/2183/article/2)
+[^c-a243913fb24c8b744bf4785e0fe63119]: Textual amendment: Words in s. 4(4)(a) inserted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [2](https://www.legislation.gov.uk/uksi/2007/2183/article/2)
 
 [^c13262201]: Marginal citation: [1947 c. 48](https://www.legislation.gov.uk/ukpga/1947/48).
 
-[^key-2d6a8fa3593e1f8bd29985a7cee41dda]: Textual amendment: S. 6(2A) inserted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/2183/article/3/2)
+[^c-2d6a8fa3593e1f8bd29985a7cee41dda]: Textual amendment: S. 6(2A) inserted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/2183/article/3/2)
 
-[^key-17066048e222d2b45cd22e82d3cea8b4]: Textual amendment: S. 6(4) substituted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/2183/article/3/3)
+[^c-17066048e222d2b45cd22e82d3cea8b4]: Textual amendment: S. 6(4) substituted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/2183/article/3/3)
 
-[^key-e8d64901138c939306a53b5100900007]: Textual amendment: S. 6(4A) inserted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2007/2183/article/3/4)
+[^c-e8d64901138c939306a53b5100900007]: Textual amendment: S. 6(4A) inserted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2007/2183/article/3/4)
 
-[^key-8a0f48a0e7256a28cae5ebdac23c4e26]: Textual amendment: S. 6(6) inserted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2007/2183/article/3/5)
+[^c-8a0f48a0e7256a28cae5ebdac23c4e26]: Textual amendment: S. 6(6) inserted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2007/2183/article/3/5)
 
 [^c13262221]: Modification: S. 7: Functions transferred (W.) (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-bc051d5f6c91d1d4ebba36b1d5a2ffdf]: Textual amendment: Words in s. 7(7)(a) substituted (27.3.2002) by [The Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/794)](https://www.legislation.gov.uk/uksi/2002/794), [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/794/article/1/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2002/794/schedule/1/paragraph/34) (with [arts. 5(3)](https://www.legislation.gov.uk/uksi/2002/794/article/5/3), [6](https://www.legislation.gov.uk/uksi/2002/794/article/6))
+[^c-bc051d5f6c91d1d4ebba36b1d5a2ffdf]: Textual amendment: Words in s. 7(7)(a) substituted (27.3.2002) by [The Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/794)](https://www.legislation.gov.uk/uksi/2002/794), [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/794/article/1/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2002/794/schedule/1/paragraph/34) (with [arts. 5(3)](https://www.legislation.gov.uk/uksi/2002/794/article/5/3), [6](https://www.legislation.gov.uk/uksi/2002/794/article/6))
 
-[^key-27f87d9372b0cd157b804ceec26331dd]: Textual amendment: S. 8 heading substituted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2007/2183/article/4/2)
+[^c-27f87d9372b0cd157b804ceec26331dd]: Textual amendment: S. 8 heading substituted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2007/2183/article/4/2)
 
-[^key-befd107a16dd34516dc415317ba2a200]: Textual amendment: Words in s. 8(1) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 128(2)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/128/2); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-befd107a16dd34516dc415317ba2a200]: Textual amendment: Words in s. 8(1) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 128(2)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/128/2); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-940fd2f7792ef9d805277db8fda4c61e]: Textual amendment: Words in [s. 8(2)](https://www.legislation.gov.uk/ukpga/1991/54/section/8/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 222](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/222) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-940fd2f7792ef9d805277db8fda4c61e]: Textual amendment: Words in [s. 8(2)](https://www.legislation.gov.uk/ukpga/1991/54/section/8/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 222](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/222) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-b8e62ce1aa9c87796730dd6d66ac1f05]: Textual amendment: S. 8(3A)-(3H) inserted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2007/2183/article/4/3)
+[^c-b8e62ce1aa9c87796730dd6d66ac1f05]: Textual amendment: S. 8(3A)-(3H) inserted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2007/2183/article/4/3)
 
-[^key-5b6b53ef1e392d8922c641f0cd59dbe1]: Textual amendment: Words in s. 8(4) substituted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2007/2183/article/4/4/a)
+[^c-5b6b53ef1e392d8922c641f0cd59dbe1]: Textual amendment: Words in s. 8(4) substituted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2007/2183/article/4/4/a)
 
-[^key-71f8cb97c6b9a56b4f59173266f3f5cc]: Textual amendment: Words in s. 8(4) substituted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2007/2183/article/4/4/b)
+[^c-71f8cb97c6b9a56b4f59173266f3f5cc]: Textual amendment: Words in s. 8(4) substituted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2007/2183/article/4/4/b)
 
-[^key-92c4a954cb622d4ffb7ad02ea6692e2a]: Textual amendment: Words in s. 8(5) substituted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2007/2183/article/4/5)
+[^c-92c4a954cb622d4ffb7ad02ea6692e2a]: Textual amendment: Words in s. 8(5) substituted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2007/2183/article/4/5)
 
-[^key-655a92a1834382e5b519f343a02dd42b]: Textual amendment: S. 8(6) added (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2007/2183/article/4/6)
+[^c-655a92a1834382e5b519f343a02dd42b]: Textual amendment: S. 8(6) added (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2007/2183/article/4/6)
 
-[^key-bfa347c2365360cf36feb4cf7c363b25]: Textual amendment: S. 9(3)-(6) inserted (31.5.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2006/16/schedule/6/paragraph/5); [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-bfa347c2365360cf36feb4cf7c363b25]: Textual amendment: S. 9(3)-(6) inserted (31.5.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2006/16/schedule/6/paragraph/5); [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
 
-[^key-baa991285d99efa8f0dbdaa10f975ad5]: Textual amendment: S. 10(1)(2) repealed (1.8.2007) by [The Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 1(o)(i)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/1/o/i)
+[^c-baa991285d99efa8f0dbdaa10f975ad5]: Textual amendment: S. 10(1)(2) repealed (1.8.2007) by [The Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 1(o)(i)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/1/o/i)
 
-[^key-bec3da1a9b7eb643e0d81f067d119725]: Textual amendment: Words in s. 10(5) repealed (1.8.2007) by [The Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 1(o)(ii)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/1/o/ii)
+[^c-bec3da1a9b7eb643e0d81f067d119725]: Textual amendment: Words in s. 10(5) repealed (1.8.2007) by [The Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 1(o)(ii)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/1/o/ii)
 
-[^key-0901b212554dcc106dc2ac4ffb487e47]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/1991/54/section/11) repealed (1.8.2007) by [The Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 1(o)(iii)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/1/o/iii)
+[^c-0901b212554dcc106dc2ac4ffb487e47]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/1991/54/section/11) repealed (1.8.2007) by [The Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 1(o)(iii)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/1/o/iii)
 
-[^key-20c0894918e7d5224d83b7447b0858ee]: Textual amendment: Words in [s. 12(2)(b)](https://www.legislation.gov.uk/ukpga/1991/54/section/12/2/b) substituted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 61](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/61); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)
+[^c-20c0894918e7d5224d83b7447b0858ee]: Textual amendment: Words in [s. 12(2)(b)](https://www.legislation.gov.uk/ukpga/1991/54/section/12/2/b) substituted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 61](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/61); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)
 
 [^c13262341]: Marginal citation: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 
-[^key-d67b52462de6aa500b1af0eb9dc894f4]: Textual amendment: Words in [s. 13(2)](https://www.legislation.gov.uk/ukpga/1991/54/section/13/2) substituted (1.8.2007) by [The Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 4(a)(i)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/4/a/i)
+[^c-d67b52462de6aa500b1af0eb9dc894f4]: Textual amendment: Words in [s. 13(2)](https://www.legislation.gov.uk/ukpga/1991/54/section/13/2) substituted (1.8.2007) by [The Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 4(a)(i)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/4/a/i)
 
-[^key-44194f3c84949b9ad36255690ab6da59]: Textual amendment: [S. 13(2)(a)](https://www.legislation.gov.uk/ukpga/1991/54/section/13/2/a) omitted (1.8.2007) by virtue of [The Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/4/a/ii)
+[^c-44194f3c84949b9ad36255690ab6da59]: Textual amendment: [S. 13(2)(a)](https://www.legislation.gov.uk/ukpga/1991/54/section/13/2/a) omitted (1.8.2007) by virtue of [The Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/4/a/ii)
 
-[^key-40408aab2ed0d6b6c59fa503f2920cd3]: Textual amendment: Words in [s. 14](https://www.legislation.gov.uk/ukpga/1991/54/section/14) substituted (1.8.2007) by [The Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/4/b)
+[^c-40408aab2ed0d6b6c59fa503f2920cd3]: Textual amendment: Words in [s. 14](https://www.legislation.gov.uk/ukpga/1991/54/section/14) substituted (1.8.2007) by [The Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/4/b)
 
-[^key-a0fe38c03d54642898d856688256b351]: Textual amendment: [S. 15(2)](https://www.legislation.gov.uk/ukpga/1991/54/section/15/2) substituted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2007/2183/article/5/3)
+[^c-a0fe38c03d54642898d856688256b351]: Textual amendment: [S. 15(2)](https://www.legislation.gov.uk/ukpga/1991/54/section/15/2) substituted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2007/2183/article/5/3)
 
 [^c13262351]: Marginal citation: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27).
 
-[^key-23df7ff342976343fa6870923e38dd54]: Textual amendment: Words in [s. 16](https://www.legislation.gov.uk/ukpga/1991/54/section/16) inserted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2007/2183/article/5/4)
+[^c-23df7ff342976343fa6870923e38dd54]: Textual amendment: Words in [s. 16](https://www.legislation.gov.uk/ukpga/1991/54/section/16) inserted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2007/2183/article/5/4)
 
 [^c13262401]: Marginal citation: [1963 c. 36](https://www.legislation.gov.uk/ukpga/1963/36).
 
@@ -636,6 +636,6 @@ Section 17.
 
 [^c13262431]: Textual amendment: S. 17(5) repealed (18.11.1996) by [1996 c. 58](https://www.legislation.gov.uk/ukpga/1996/58), [ss. 48(2)(6)](https://www.legislation.gov.uk/ukpga/1996/58/section/48/2/6), [Sch. 5](https://www.legislation.gov.uk/ukpga/1996/58/schedule/5) (with [s. 43(1)](https://www.legislation.gov.uk/ukpga/1996/58/section/43/1))
 
-[^key-9a487504e940d7a660eed07c7d47c095]: Textual amendment: Words in Sch. 1 substituted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/5/1)
+[^c-9a487504e940d7a660eed07c7d47c095]: Textual amendment: Words in Sch. 1 substituted (1.10.2007) by [The Regulatory Reform (Deer) (England and Wales) Order 2007 (S.I. 2007/2183)](https://www.legislation.gov.uk/uksi/2007/2183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2007/2183/article/5/1)
 
-[^key-d927cca8af9cc1963bf75ccf78d7d76d]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1991/54/schedule/3) repealed (1.8.2007) by [The Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 1(o)(iv)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/1/o/iv)
+[^c-d927cca8af9cc1963bf75ccf78d7d76d]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1991/54/schedule/3) repealed (1.8.2007) by [The Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 1(o)(iv)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/1/o/iv)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Felling or lopping of trees and hedgerows[^key-1f415dd12e66e00cbab4f44ce2dd5d11]
+## 17. Felling or lopping of trees and hedgerows[^c-1f415dd12e66e00cbab4f44ce2dd5d11]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1f415dd12e66e00cbab4f44ce2dd5d11]: Commencement: Art. 17 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-1f415dd12e66e00cbab4f44ce2dd5d11]: Commencement: Art. 17 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
 [^f00075]: Footnote: Section 206(1) was amended by section 192 of, and paragraph 11 of Schedule 8 to, the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29).
 

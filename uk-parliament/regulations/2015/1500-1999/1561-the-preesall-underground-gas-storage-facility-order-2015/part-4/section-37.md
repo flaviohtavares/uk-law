@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Felling or lopping of trees or shrubs[^key-8512ababd219e51efa78a5de5d2f2f21]
+## 37. Felling or lopping of trees or shrubs[^c-8512ababd219e51efa78a5de5d2f2f21]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8512ababd219e51efa78a5de5d2f2f21]: Commencement: Art. 37 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
+[^c-8512ababd219e51efa78a5de5d2f2f21]: Commencement: Art. 37 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)

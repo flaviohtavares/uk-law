@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Development without infrastructure consent[^key-96f9e6a59ec6ff15106207d9694cb9ca][^key-c04dda8cecf0e5ba8e208eb0c4543a86]
+## 103. Development without infrastructure consent[^c-96f9e6a59ec6ff15106207d9694cb9ca][^c-c04dda8cecf0e5ba8e208eb0c4543a86]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-96f9e6a59ec6ff15106207d9694cb9ca]: Commencement: S. 103 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-96f9e6a59ec6ff15106207d9694cb9ca]: Commencement: S. 103 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-c04dda8cecf0e5ba8e208eb0c4543a86]: Commencement: [S. 103](https://www.legislation.gov.uk/asc/2024/3/section/103) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-c04dda8cecf0e5ba8e208eb0c4543a86]: Commencement: [S. 103](https://www.legislation.gov.uk/asc/2024/3/section/103) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

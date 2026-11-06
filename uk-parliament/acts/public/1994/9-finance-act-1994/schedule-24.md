@@ -66,7 +66,7 @@ Section 252.
 
 **2.** (1) For the purposes of the Gains Act, where there is a relevant transfer, the disposal of property, rights and liabilities which is constituted by that transfer shall, subject to the following provisions of this Schedule, be taken, in relation to the transferee as well as the predecessor, to be for a consideration such that no gain or loss accrues to the predecessor.
 
-(2)[^key-495aaca267471cdb4199959b1a16d9fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-495aaca267471cdb4199959b1a16d9fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Section 171(1) of the Gains Act (which makes provision in relation to the disposal of assets from one member of a group of companies to another member of the group) shall not apply where the disposal in question is a relevant transfer.
 
@@ -571,7 +571,7 @@ under a lease of an asset which at any time before the creation of the lease was
 - “**capital sum**” has the meaning given by section 785 of that Act;
 - “**lease**” has the meaning given by section 785 of that Act;
 - “**rolling stock**” has the meaning given by section 83(1) of the [^c14461991]Railways Act 1993;
-- “**securities**” has the meaning given by section 102A(2)[^key-b0dbfd9d3f7ef6d434d49d741c0a9c56] of the Financial Services and Markets Act 2000.
+- “**securities**” has the meaning given by section 102A(2)[^c-b0dbfd9d3f7ef6d434d49d741c0a9c56] of the Financial Services and Markets Act 2000.
 
 ### Continuity in relation to capital allowances etc where trade transferred
 
@@ -580,7 +580,7 @@ under a lease of an asset which at any time before the creation of the lease was
 - (a) the predecessor would be treated for the purposes of the Corporation Tax Acts as having ceased, by virtue of the coming into force of a relevant transfer, to carry on any trade, and
 - (b) the transferee would be treated as having begun, on the coming into force of that transfer, to carry it on,
 
-then [^key-7e5fe6e0e28e6fc26fd858d4247a2c6f]... sub-paragraphs (2) to (4) below shall apply.
+then [^c-7e5fe6e0e28e6fc26fd858d4247a2c6f]... sub-paragraphs (2) to (4) below shall apply.
 
 (2) Subject to sub-paragraphs (3) and (4) below, in a case falling within sub-paragraph (1) above—
 
@@ -754,7 +754,7 @@ shall be taken for the purposes of corporation tax on chargeable gains, in relat
 
 ### Income tax exemption for certain interest
 
-**26.** Where liability for a loan made to the Board is vested in a successor company by virtue of a section 85 transfer scheme, the vesting shall not affect any direction given, or having effect as if given, by the Treasury under section 755 of the Income Tax (Trading and Other Income) Act 2005[^key-99bb85d19a62597717647fbf67439d86] (income tax exemption for interest on foreign currency securities) in respect of the loan.
+**26.** Where liability for a loan made to the Board is vested in a successor company by virtue of a section 85 transfer scheme, the vesting shall not affect any direction given, or having effect as if given, by the Treasury under section 755 of the Income Tax (Trading and Other Income) Act 2005[^c-99bb85d19a62597717647fbf67439d86] (income tax exemption for interest on foreign currency securities) in respect of the loan.
 
 ### Employee benefits: transport vouchers
 
@@ -778,11 +778,11 @@ but this sub-paragraph is subject to sub-paragraph (2) below.
 - (b) he is not in the employment of any person engaged in the railway industry; or
 - (c) the continuity of the period of his employment is broken.
 
-(3) Section 86 of[^key-e4fe78ab3c7ea42f80b566b383277dbb] ITEPA 2003 (exception for certain transport vouchers) shall, if and so long as the conditions in sub-paragraph (4) below are satisfied, have effect in relation to a transport voucher provided for an eligible person, notwithstanding—
+(3) Section 86 of[^c-e4fe78ab3c7ea42f80b566b383277dbb] ITEPA 2003 (exception for certain transport vouchers) shall, if and so long as the conditions in sub-paragraph (4) below are satisfied, have effect in relation to a transport voucher provided for an eligible person, notwithstanding—
 
 - (a) that the employer of the eligible person does not fall to be regarded as a passenger transport undertaking;
 - (b) that the arrangements under which the transport voucher is provided were not in operation on 25th March 1982; or
-- (c) that the passenger transport services which may be obtained by means of the transport voucher are provided, in whole or in part, otherwise than as mentioned in section 86(2)(a) to (d) of[^key-aa902c895099ded7ba85b2ae66069907] ITEPA 2003 ;
+- (c) that the passenger transport services which may be obtained by means of the transport voucher are provided, in whole or in part, otherwise than as mentioned in section 86(2)(a) to (d) of[^c-aa902c895099ded7ba85b2ae66069907] ITEPA 2003 ;
 
 but this sub-paragraph is subject to sub-paragraph (2) above.
 
@@ -827,9 +827,9 @@ but this sub-paragraph is subject to sub-paragraph (2) above.
   - (b) to relations of his,
 
   by way of transport voucher under arrangements in operation on 25th March 1982.
-- “[^key-2b86eb98e8124f699981e54c64011b50]**ITEPA 2003**” means the Income Tax (Earnings and Pensions) Act 2003.
+- “[^c-2b86eb98e8124f699981e54c64011b50]**ITEPA 2003**” means the Income Tax (Earnings and Pensions) Act 2003.
 
-(13)[^key-f628f1088ff96953178fec0b0c8fc89e] Subject to paragraph 1(1) and sub-paragraph (12) above, expressions used in this paragraph and in section 86 of ITEPA 2003 have the same meaning in this paragraph as in that section.
+(13)[^c-f628f1088ff96953178fec0b0c8fc89e] Subject to paragraph 1(1) and sub-paragraph (12) above, expressions used in this paragraph and in section 86 of ITEPA 2003 have the same meaning in this paragraph as in that section.
 
 This does not apply in relation to the reference to a transport voucher in sub-paragraph (1) above.
 
@@ -862,7 +862,7 @@ This does not apply in relation to the reference to a transport voucher in sub-p
 
 [^c14461691]: Textual amendment: Words in Sch. 24 para. 1(4)(c) substituted (22.3.2001 with effect as mentioned in [s. 579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1) of the amending Act) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [ss. 578](https://www.legislation.gov.uk/ukpga/2001/2/section/578), [579](https://www.legislation.gov.uk/ukpga/2001/2/section/579), [Sch. 2 para. 91(2)](https://www.legislation.gov.uk/ukpga/2001/2/schedule/2/paragraph/91/2)
 
-[^key-495aaca267471cdb4199959b1a16d9fe]: Textual amendment: Sch. 24 para. 2(2) omitted (21.7.2008 with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 70(b)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/70/b/i)
+[^c-495aaca267471cdb4199959b1a16d9fe]: Textual amendment: Sch. 24 para. 2(2) omitted (21.7.2008 with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 70(b)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/70/b/i)
 
 [^c14461701]: Commencement: Sch. 24 para. 4 in force retrospectively (5.11.1993 as to para. 4(1) and otherwise 11.1.1994) as mentioned in s. 252(2)(3).
 
@@ -900,9 +900,9 @@ This does not apply in relation to the reference to a transport voucher in sub-p
 
 [^c14461991]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-b0dbfd9d3f7ef6d434d49d741c0a9c56]: Textual amendment: Words in Sch. 24 para. 19(7) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 79(3)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/79/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-b0dbfd9d3f7ef6d434d49d741c0a9c56]: Textual amendment: Words in Sch. 24 para. 19(7) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 79(3)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/79/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-7e5fe6e0e28e6fc26fd858d4247a2c6f]: Textual amendment: Words in Sch. 24 para. 20(1) repealed (1.4.2009) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 398](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/398), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-7e5fe6e0e28e6fc26fd858d4247a2c6f]: Textual amendment: Words in Sch. 24 para. 20(1) repealed (1.4.2009) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 398](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/398), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
 [^c14462011]: Textual amendment: Words in Sch. 24 para. 20(1)(2)(a) substituted (22.3.2001 with effect as mentioned in [s. 579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1) of the amending Act) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [ss. 578](https://www.legislation.gov.uk/ukpga/2001/2/section/578), [579](https://www.legislation.gov.uk/ukpga/2001/2/section/579), [Sch. 2 para. 91(3)](https://www.legislation.gov.uk/ukpga/2001/2/schedule/2/paragraph/91/3)
 
@@ -962,16 +962,16 @@ This does not apply in relation to the reference to a transport voucher in sub-p
 
 [^c14462341]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-99bb85d19a62597717647fbf67439d86]: Textual amendment: Words in Sch. 24 para. 26 substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 473](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/473) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-99bb85d19a62597717647fbf67439d86]: Textual amendment: Words in Sch. 24 para. 26 substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 473](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/473) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
 [^c14462441]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-e4fe78ab3c7ea42f80b566b383277dbb]: Textual amendment: Words in Sch. 24 para. 27(3) substituted (6.4.2003) (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 224(2)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/224/2) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-e4fe78ab3c7ea42f80b566b383277dbb]: Textual amendment: Words in Sch. 24 para. 27(3) substituted (6.4.2003) (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 224(2)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/224/2) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
-[^key-aa902c895099ded7ba85b2ae66069907]: Textual amendment: Words in Sch. 24 para. 27(3)(c) substituted (6.4.2003) (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 224(3)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/224/3) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-aa902c895099ded7ba85b2ae66069907]: Textual amendment: Words in Sch. 24 para. 27(3)(c) substituted (6.4.2003) (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 224(3)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/224/3) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
 [^c14462451]: Textual amendment: Sch. 24 para. 27(9) substituted for paras. (9) to (11) (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 240](https://www.legislation.gov.uk/ukpga/1996/18/section/240), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 1 para. 62(a)](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1/paragraph/62/a) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 
-[^key-2b86eb98e8124f699981e54c64011b50]: Textual amendment: Words in Sch. 24 para. 27(12) inserted (6.4.2003) (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 224(4)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/224/4) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-2b86eb98e8124f699981e54c64011b50]: Textual amendment: Words in Sch. 24 para. 27(12) inserted (6.4.2003) (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 224(4)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/224/4) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
-[^key-f628f1088ff96953178fec0b0c8fc89e]: Textual amendment: Sch. 24 para. 27(13) substituted (6.4.2003) (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 224(5)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/224/5) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-f628f1088ff96953178fec0b0c8fc89e]: Textual amendment: Sch. 24 para. 27(13) substituted (6.4.2003) (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 224(5)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/224/5) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))

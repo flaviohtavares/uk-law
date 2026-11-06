@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 142. Deemed planning permission where enforcement notice is complied with[^key-4f68085e5aba544abc3e8e3bcadb1f39]
+## 142. Deemed planning permission where enforcement notice is complied with[^c-4f68085e5aba544abc3e8e3bcadb1f39]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f68085e5aba544abc3e8e3bcadb1f39]: Commencement: S. 142 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4f68085e5aba544abc3e8e3bcadb1f39]: Commencement: S. 142 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

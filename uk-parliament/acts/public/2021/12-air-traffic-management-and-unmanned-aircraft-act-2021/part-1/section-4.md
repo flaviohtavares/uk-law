@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Directions under sections 2 and 3: supplemental[^key-5d7ddf64dd3ee88a5a18006d2183513b]
+## 4. Directions under sections 2 and 3: supplemental[^c-5d7ddf64dd3ee88a5a18006d2183513b]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ the direction under section 2 or 3 is to be disregarded.
 
 ## Annotations
 
-[^key-5d7ddf64dd3ee88a5a18006d2183513b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/12/section/4) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/d)
+[^c-5d7ddf64dd3ee88a5a18006d2183513b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/12/section/4) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/d)

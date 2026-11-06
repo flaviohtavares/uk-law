@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Requirement for an approved maintenance programme[^key-e7e73782f997c0a4aa4dc15b69dc0a11]
+## 22. Requirement for an approved maintenance programme[^c-e7e73782f997c0a4aa4dc15b69dc0a11]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) The design and application of the maintenance programme must observe Human Factors principles as specified in any guidance material published by the Department.
 
-(3)[^key-016e0a71522992dfc37e6a57b0dbd595] The operator of an aircraft registered in the Isle of Man and which has a maximum total mass authorised in excess of 5,700 kg must ensure that the information resulting from the maintenance and operational experience with respect to its continuing airworthiness is transmitted to the organisation responsible for the type design of the aircraft.
+(3)[^c-016e0a71522992dfc37e6a57b0dbd595] The operator of an aircraft registered in the Isle of Man and which has a maximum total mass authorised in excess of 5,700 kg must ensure that the information resulting from the maintenance and operational experience with respect to its continuing airworthiness is transmitted to the organisation responsible for the type design of the aircraft.
 
 ## Annotations
 
-[^key-e7e73782f997c0a4aa4dc15b69dc0a11]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2015/870/article/22) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-e7e73782f997c0a4aa4dc15b69dc0a11]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2015/870/article/22) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
-[^key-016e0a71522992dfc37e6a57b0dbd595]: Textual amendment: [Art. 22(3)](https://www.legislation.gov.uk/uksi/2015/870/article/22/3) added (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [3](https://www.legislation.gov.uk/uksi/2016/155/article/3)
+[^c-016e0a71522992dfc37e6a57b0dbd595]: Textual amendment: [Art. 22(3)](https://www.legislation.gov.uk/uksi/2015/870/article/22/3) added (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [3](https://www.legislation.gov.uk/uksi/2016/155/article/3)

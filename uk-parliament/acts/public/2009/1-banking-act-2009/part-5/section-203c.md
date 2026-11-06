@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203C. Policy statement[^key-045f1aec8421dad74f1fc669c38e26fc]
+## 203C. Policy statement[^c-045f1aec8421dad74f1fc669c38e26fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-045f1aec8421dad74f1fc669c38e26fc]: Textual amendment: [S. 203C](https://www.legislation.gov.uk/ukpga/2009/1/section/203C) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a), [Sch. 6 para. 33](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/33)
+[^c-045f1aec8421dad74f1fc669c38e26fc]: Textual amendment: [S. 203C](https://www.legislation.gov.uk/ukpga/2009/1/section/203C) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a), [Sch. 6 para. 33](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/33)

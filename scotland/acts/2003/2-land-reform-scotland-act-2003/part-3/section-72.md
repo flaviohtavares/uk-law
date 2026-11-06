@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-cd011a19324edc42b52849a34be6438f] A crofting community body—
+(1)[^c-cd011a19324edc42b52849a34be6438f] A crofting community body—
 
 - (a) which has bought land under this Part, any part of which remains in its ownership, and
 - (b) which modifies its memorandum, articles of association, constitution or registered rules (as defined in section 71(8)),
@@ -29,7 +29,7 @@ must, as soon as possible after such modification, notify the Scottish Ministers
 
 (2) If Ministers are satisfied that a body which has so bought land would, had it not so bought that land, no longer be entitled to do so, they may acquire the land compulsorily.
 
-(3)[^key-0855a4a0d1ddbd185b459a5d43bc8981] Subsection (2) does not apply if the crofting community body would no longer be entitled to buy the land because the land is not eligible croft land.
+(3)[^c-0855a4a0d1ddbd185b459a5d43bc8981] Subsection (2) does not apply if the crofting community body would no longer be entitled to buy the land because the land is not eligible croft land.
 
 (4) Where the power conferred by subsection (2) is (or is to be) exercised in relation to land, Ministers may make an order relating to, or to matters connected with, the acquisition of the land.
 
@@ -40,6 +40,6 @@ must, as soon as possible after such modification, notify the Scottish Ministers
 
 ## Annotations
 
-[^key-cd011a19324edc42b52849a34be6438f]: Textual amendment: S. 72(1) substituted (27.6.2018) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 1 para. 1(4)](https://www.legislation.gov.uk/asp/2016/18/schedule/1/paragraph/1/4) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2018/138](https://www.legislation.gov.uk/ssi/2018/138), [art. 3](https://www.legislation.gov.uk/ssi/2018/138/article/3), [sch. 2](https://www.legislation.gov.uk/ssi/2018/138/schedule/2)
+[^c-cd011a19324edc42b52849a34be6438f]: Textual amendment: S. 72(1) substituted (27.6.2018) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 1 para. 1(4)](https://www.legislation.gov.uk/asp/2016/18/schedule/1/paragraph/1/4) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2018/138](https://www.legislation.gov.uk/ssi/2018/138), [art. 3](https://www.legislation.gov.uk/ssi/2018/138/article/3), [sch. 2](https://www.legislation.gov.uk/ssi/2018/138/schedule/2)
 
-[^key-0855a4a0d1ddbd185b459a5d43bc8981]: Textual amendment: S. 72(3)-(5) inserted (16.12.2016 for specified purposes, 24.2.2021 in so far as not already in force) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 63(b)](https://www.legislation.gov.uk/asp/2015/6/section/63/b), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2016/394](https://www.legislation.gov.uk/ssi/2016/394), [art. 2](https://www.legislation.gov.uk/ssi/2016/394/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/394/schedule); [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))
+[^c-0855a4a0d1ddbd185b459a5d43bc8981]: Textual amendment: S. 72(3)-(5) inserted (16.12.2016 for specified purposes, 24.2.2021 in so far as not already in force) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 63(b)](https://www.legislation.gov.uk/asp/2015/6/section/63/b), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2016/394](https://www.legislation.gov.uk/ssi/2016/394), [art. 2](https://www.legislation.gov.uk/ssi/2016/394/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/394/schedule); [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))

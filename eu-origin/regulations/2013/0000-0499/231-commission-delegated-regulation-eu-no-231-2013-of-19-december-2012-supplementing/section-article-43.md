@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. The safeguards against conflicts of interest referred to in rule 3.7.2 of the Investment Funds sourcebook[^key-eef5096f635d2ea3d61b65d905232486] shall ensure, at least, that:
+1. The safeguards against conflicts of interest referred to in rule 3.7.2 of the Investment Funds sourcebook[^c-eef5096f635d2ea3d61b65d905232486] shall ensure, at least, that:
 
 - (a) decisions taken by the risk management function are based on reliable data, which are subject to an appropriate degree of control by the risk management function;
 - (b) the remuneration of those engaged in the performance of the risk management function reflects the achievement of the objectives linked to the risk management function, independently of the performance of the business areas in which they are engaged;
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eef5096f635d2ea3d61b65d905232486]: Textual amendment: Words in Art. 43(1) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [26(6)](https://www.legislation.gov.uk/uksi/2019/328/regulation/26) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eef5096f635d2ea3d61b65d905232486]: Textual amendment: Words in Art. 43(1) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [26(6)](https://www.legislation.gov.uk/uksi/2019/328/regulation/26) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

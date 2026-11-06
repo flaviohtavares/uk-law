@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 342. Extended meaning of “mineral royalties” etc. in Northern Ireland[^key-b94b3834349333ac18685fd7dda0b38b]
+## 342. Extended meaning of “mineral royalties” etc. in Northern Ireland[^c-b94b3834349333ac18685fd7dda0b38b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b94b3834349333ac18685fd7dda0b38b]: Textual amendment: Ss. 340-343 repealed (with effect in accordance with Sch. 39 para. 43(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 43(1)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/43/1/c)
+[^c-b94b3834349333ac18685fd7dda0b38b]: Textual amendment: Ss. 340-343 repealed (with effect in accordance with Sch. 39 para. 43(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 43(1)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/43/1/c)

@@ -76,7 +76,7 @@ In regulation 14ZD(6)(b) of the Authorised Investment Funds (Tax) Regulations 20
 
 ### 8. Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2007
 
-Parts 2 and 3 of, and Schedules 7 to 9 to,[^key-1b80d837422fe4da4460e2c9b6ea2cfd] the Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2007 [^c23020091] are revoked.
+Parts 2 and 3 of, and Schedules 7 to 9 to,[^c-1b80d837422fe4da4460e2c9b6ea2cfd] the Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2007 [^c23020091] are revoked.
 
 ### 9. Payment Services Regulations 2009
 
@@ -186,7 +186,7 @@ In the Schedule to the Public Interest Disclosure (Prescribed Persons) Order 201
 
 In regulation 2(1) of the Reports on Payments to Governments Regulations 2014 [^c23020241] (interpretation), in paragraph (a) of the definition of “public interest entity” for the words from “point (14)” to “April 2004” substitute “ point (21) of Article 4.1 of Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 ”.
 
-### 23. Public Contracts Regulations 2015[^key-df68901479ebc83583e8301415476c4f]
+### 23. Public Contracts Regulations 2015[^c-df68901479ebc83583e8301415476c4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -210,7 +210,7 @@ In regulation 2(1) of the Reports on Payments to Governments Regulations 2014 [^
 
 [^c23020081]: Marginal citation: [S.I. 2006/964](https://www.legislation.gov.uk/uksi/2006/964); [regulation 14ZD(6)(b)](https://www.legislation.gov.uk/uksi/2017/701/regulation/14ZD/6/b) was inserted by [S.I. 2011/2192](https://www.legislation.gov.uk/uksi/2011/2192).
 
-[^key-1b80d837422fe4da4460e2c9b6ea2cfd]: Textual amendment: Words in [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2017/701/schedule/5/paragraph/8) inserted (2.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [38](https://www.legislation.gov.uk/uksi/2017/1255/regulation/38)
+[^c-1b80d837422fe4da4460e2c9b6ea2cfd]: Textual amendment: Words in [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2017/701/schedule/5/paragraph/8) inserted (2.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [38](https://www.legislation.gov.uk/uksi/2017/1255/regulation/38)
 
 [^c23020091]: Marginal citation: [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126); these Regulations were amended by [S.I. 2007/763](https://www.legislation.gov.uk/uksi/2007/763), 2007/2160, 2009/534, 2010/2628, 2011/1043, 2013/472, and 2013/3115.
 
@@ -244,4 +244,4 @@ In regulation 2(1) of the Reports on Payments to Governments Regulations 2014 [^
 
 [^c23020241]: Marginal citation: [S.I. 2014/3209](https://www.legislation.gov.uk/uksi/2014/3209); there are amendments to regulation 2(1) but none is relevant.
 
-[^key-df68901479ebc83583e8301415476c4f]: Textual amendment: [Sch. 5 para. 23](https://www.legislation.gov.uk/uksi/2017/701/schedule/5/paragraph/23) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
+[^c-df68901479ebc83583e8301415476c4f]: Textual amendment: [Sch. 5 para. 23](https://www.legislation.gov.uk/uksi/2017/701/schedule/5/paragraph/23) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)

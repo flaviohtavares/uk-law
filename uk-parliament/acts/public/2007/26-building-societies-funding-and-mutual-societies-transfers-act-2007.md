@@ -80,7 +80,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 .
 
-## 2. Power to alter priorities on dissolution and winding up[^key-aaaaff15844bec847376c15a45bb7fb9]
+## 2. Power to alter priorities on dissolution and winding up[^c-aaaaff15844bec847376c15a45bb7fb9]
 
 After section 90A of the Building Societies Act 1986 (c. 53) insert—
 
@@ -108,7 +108,7 @@ After section 90A of the Building Societies Act 1986 (c. 53) insert—
 
 .
 
-## 3. Transfers to subsidiaries of other mutuals[^key-6408f30bab9dbe153d55b7b082be0e6d]
+## 3. Transfers to subsidiaries of other mutuals[^c-6408f30bab9dbe153d55b7b082be0e6d]
 
 (1) The Treasury may, by order, make such modifications of the transfer provisions as it thinks appropriate to facilitate, or in consequence of, the transfer of the whole of the business of a mutual society (the transferor) to a subsidiary of a mutual society (whether or not of the same type) (the transferee).
 
@@ -143,17 +143,17 @@ After section 90A of the Building Societies Act 1986 (c. 53) insert—
 
 - (a) a building society incorporated or deemed to be incorporated under the Building Societies Act 1986 (c. 53);
 - (b) a friendly society within the meaning of the Friendly Societies Act 1992 (c. 40);
-- (c)[^key-ad0c81bd7aeed2c25bcd00b4637c3fcb] a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014;
-- (d)[^key-d99bac395fc7eee43fad323d679e5752] a Crown Dependency mutual society.
+- (c)[^c-ad0c81bd7aeed2c25bcd00b4637c3fcb] a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014;
+- (d)[^c-d99bac395fc7eee43fad323d679e5752] a Crown Dependency mutual society.
 
 (11) The transfer provisions are—
 
 - (a) sections 97 to 102D of the Building Societies Act 1986, paragraph 30 of Schedule 2 to that Act and Schedule 17 to that Act;
 - (b) sections 86 and 88 of and Schedule 15 to the Friendly Societies Act 1992;
-- (c)[^key-9c2966b71b05092716d86c61b6966026] sections 112 to 114 of the Co-operative and Community Benefit Societies Act 2014;
+- (c)[^c-9c2966b71b05092716d86c61b6966026] sections 112 to 114 of the Co-operative and Community Benefit Societies Act 2014;
 - (d) provision contained in subordinate legislation (within the meaning of the Interpretation Act 1978) made under any provision mentioned in paragraph (a), (b) or (c).
 
-(12)[^key-e97718249ec9f277e803428d16372369] A Crown Dependency mutual society is a body which is a cooperative or mutual undertaking of such description as the Treasury specify by order and which is established or operates in accordance the law of the Isle of Man or any of the Channel Islands.
+(12)[^c-e97718249ec9f277e803428d16372369] A Crown Dependency mutual society is a body which is a cooperative or mutual undertaking of such description as the Treasury specify by order and which is established or operates in accordance the law of the Isle of Man or any of the Channel Islands.
 
 (13) A subsidiary of a mutual society is a relevant company—
 
@@ -164,13 +164,13 @@ but the Treasury may, by order, amend paragraphs (a) and (b) to make the degree 
 
 (14) A relevant company is—
 
-- (a)[^key-f2cb4909770622662024b29031c155eb] a company as defined in section 1(1) of the Companies Act 2006;
-- (b)[^key-bb146a50b692d6fc82a69d32efe98403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-845680d4a6a964f139097865b51d7798] a body corporate which is incorporated in the Isle of Man or the Channel Islands.
+- (a)[^c-f2cb4909770622662024b29031c155eb] a company as defined in section 1(1) of the Companies Act 2006;
+- (b)[^c-bb146a50b692d6fc82a69d32efe98403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-845680d4a6a964f139097865b51d7798] a body corporate which is incorporated in the Isle of Man or the Channel Islands.
 
 (15) For the purposes of paragraph 17 of Schedule 1 to the Financial Services and Markets Act 2000 (c. 8) (power to charge fees) a function conferred on the Financial Services Authority by an order under this section is to be treated as a function conferred under or as a result of that Act.
 
-## 4. Transfers to subsidiaries: distribution of funds[^key-331c5394dd8cb00b447ae16fd50d02c2]
+## 4. Transfers to subsidiaries: distribution of funds[^c-331c5394dd8cb00b447ae16fd50d02c2]
 
 (1) An order under section 3 may provide for this section to have effect.
 
@@ -191,13 +191,13 @@ but the Treasury may, by order, amend paragraphs (a) and (b) to make the degree 
 
 - (a) in relation to a building society, each of the resolutions required pursuant to paragraph 30 of Schedule 2 to the Building Societies Act 1986 (c. 53);
 - (b) in relation to a friendly society, the resolution required by section 86(2)(b) of the Friendly Societies Act 1992 (c. 40);
-- (c)[^key-c3be27e7096d3140b92984b3c2e5c17f] in relation to a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, the resolution required by section 112 of that Act.
+- (c)[^c-c3be27e7096d3140b92984b3c2e5c17f] in relation to a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, the resolution required by section 112 of that Act.
 
 (6) Expressions used in this section and in section 3 have the same meaning as in that section.
 
 (7) Subsections (4) to (7) of that section apply to an order under this section as they apply to an order under that section.
 
-## 5. Channel Islands and Isle of Man[^key-8e44750c975dba39568744327de4f61e]
+## 5. Channel Islands and Isle of Man[^c-8e44750c975dba39568744327de4f61e]
 
 Her Majesty may by Order in Council provide for any of the provisions of this Act to extend, with or without modifications, to any of the Channel Islands or to the Isle of Man.
 
@@ -211,26 +211,26 @@ Her Majesty may by Order in Council provide for any of the provisions of this Ac
 
 ## Annotations
 
-[^key-aaaaff15844bec847376c15a45bb7fb9]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2007/26/section/2) in force at 20.11.2014 by [S.I. 2014/2796](https://www.legislation.gov.uk/uksi/2014/2796), [art. 2](https://www.legislation.gov.uk/uksi/2014/2796/article/2)
+[^c-aaaaff15844bec847376c15a45bb7fb9]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2007/26/section/2) in force at 20.11.2014 by [S.I. 2014/2796](https://www.legislation.gov.uk/uksi/2014/2796), [art. 2](https://www.legislation.gov.uk/uksi/2014/2796/article/2)
 
-[^key-6408f30bab9dbe153d55b7b082be0e6d]: Commencement: S. 3 in force at 16.1.2009 by [S.I. 2009/36](https://www.legislation.gov.uk/uksi/2009/36), [art. 2](https://www.legislation.gov.uk/uksi/2009/36/article/2)
+[^c-6408f30bab9dbe153d55b7b082be0e6d]: Commencement: S. 3 in force at 16.1.2009 by [S.I. 2009/36](https://www.legislation.gov.uk/uksi/2009/36), [art. 2](https://www.legislation.gov.uk/uksi/2009/36/article/2)
 
-[^key-ad0c81bd7aeed2c25bcd00b4637c3fcb]: Textual amendment: S. 3(10)(c) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 114(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/114/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-ad0c81bd7aeed2c25bcd00b4637c3fcb]: Textual amendment: S. 3(10)(c) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 114(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/114/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-d99bac395fc7eee43fad323d679e5752]: Textual amendment: [S. 3(10)(d)](https://www.legislation.gov.uk/ukpga/2007/26/section/3/10/d) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d99bac395fc7eee43fad323d679e5752]: Textual amendment: [S. 3(10)(d)](https://www.legislation.gov.uk/ukpga/2007/26/section/3/10/d) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9c2966b71b05092716d86c61b6966026]: Textual amendment: S. 3(11)(c) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 114(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/114/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-9c2966b71b05092716d86c61b6966026]: Textual amendment: S. 3(11)(c) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 114(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/114/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-e97718249ec9f277e803428d16372369]: Textual amendment: [S. 3(12)](https://www.legislation.gov.uk/ukpga/2007/26/section/3/12) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e97718249ec9f277e803428d16372369]: Textual amendment: [S. 3(12)](https://www.legislation.gov.uk/ukpga/2007/26/section/3/12) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f2cb4909770622662024b29031c155eb]: Textual amendment: S. 3(14)(a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 266(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/266/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-f2cb4909770622662024b29031c155eb]: Textual amendment: S. 3(14)(a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 266(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/266/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-bb146a50b692d6fc82a69d32efe98403]: Textual amendment: S. 3(14)(b) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 266(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/266/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-bb146a50b692d6fc82a69d32efe98403]: Textual amendment: S. 3(14)(b) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 266(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/266/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-845680d4a6a964f139097865b51d7798]: Textual amendment: [S. 3(14)(c)](https://www.legislation.gov.uk/ukpga/2007/26/section/3/14/c) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-845680d4a6a964f139097865b51d7798]: Textual amendment: [S. 3(14)(c)](https://www.legislation.gov.uk/ukpga/2007/26/section/3/14/c) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-331c5394dd8cb00b447ae16fd50d02c2]: Commencement: S. 4 in force at 16.1.2009 by [S.I. 2009/36](https://www.legislation.gov.uk/uksi/2009/36), [art. 2](https://www.legislation.gov.uk/uksi/2009/36/article/2)
+[^c-331c5394dd8cb00b447ae16fd50d02c2]: Commencement: S. 4 in force at 16.1.2009 by [S.I. 2009/36](https://www.legislation.gov.uk/uksi/2009/36), [art. 2](https://www.legislation.gov.uk/uksi/2009/36/article/2)
 
-[^key-c3be27e7096d3140b92984b3c2e5c17f]: Textual amendment: [S. 4(5)(c)](https://www.legislation.gov.uk/ukpga/2007/26/section/4/5/c) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 115](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/115) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-c3be27e7096d3140b92984b3c2e5c17f]: Textual amendment: [S. 4(5)(c)](https://www.legislation.gov.uk/ukpga/2007/26/section/4/5/c) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 115](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/115) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-8e44750c975dba39568744327de4f61e]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2007/26/section/5) in force at 16.1.2009 by [S.I. 2009/36](https://www.legislation.gov.uk/uksi/2009/36), [art. 2](https://www.legislation.gov.uk/uksi/2009/36/article/2)
+[^c-8e44750c975dba39568744327de4f61e]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2007/26/section/5) in force at 16.1.2009 by [S.I. 2009/36](https://www.legislation.gov.uk/uksi/2009/36), [art. 2](https://www.legislation.gov.uk/uksi/2009/36/article/2)

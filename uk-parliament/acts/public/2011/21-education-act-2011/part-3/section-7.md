@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Abolition of the General Teaching Council for England[^key-a30e254a36612e89d9afc6f4a3e669c5]
+## 7. Abolition of the General Teaching Council for England[^c-a30e254a36612e89d9afc6f4a3e669c5]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a30e254a36612e89d9afc6f4a3e669c5]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2011/21/section/7) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-a30e254a36612e89d9afc6f4a3e669c5]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2011/21/section/7) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

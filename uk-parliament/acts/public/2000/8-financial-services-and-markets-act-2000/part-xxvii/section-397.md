@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 397. Misleading statements and practices.[^key-a6bbd1a97f079d91eda652e6a7612e5f]
+## 397. Misleading statements and practices.[^c-a6bbd1a97f079d91eda652e6a7612e5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6bbd1a97f079d91eda652e6a7612e5f]: Textual amendment: S. 397 repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 95](https://www.legislation.gov.uk/ukpga/2012/21/section/95), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-a6bbd1a97f079d91eda652e6a7612e5f]: Textual amendment: S. 397 repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 95](https://www.legislation.gov.uk/ukpga/2012/21/section/95), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

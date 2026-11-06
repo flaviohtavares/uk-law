@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Conformity of certain plans and schemes with National Development Framework and strategic development plan[^c22542631][^key-2ec24dd8df27b21a647311b66ceafaf0]
+## 7. Conformity of certain plans and schemes with National Development Framework and strategic development plan[^c22542631][^c-2ec24dd8df27b21a647311b66ceafaf0]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c22542631]: Commencement: S. 7 partly in force; s. 7 in force for specified purposes at 6.9.2015, see s. 58(2)(b)(4)(b)
 
-[^key-2ec24dd8df27b21a647311b66ceafaf0]: Commencement: S. 7 in force at 4.12.2020 in so far as not already in force by [S.I. 2020/1216](https://www.legislation.gov.uk/wsi/2020/1216), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2020/1216/regulation/2/a)
+[^c-2ec24dd8df27b21a647311b66ceafaf0]: Commencement: S. 7 in force at 4.12.2020 in so far as not already in force by [S.I. 2020/1216](https://www.legislation.gov.uk/wsi/2020/1216), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2020/1216/regulation/2/a)

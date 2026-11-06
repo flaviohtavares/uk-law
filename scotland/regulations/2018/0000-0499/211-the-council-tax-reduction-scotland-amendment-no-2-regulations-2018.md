@@ -50,17 +50,17 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 These Regulations may be cited as the Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2018 and come into force on 27th October 2018.
 
-## 2. Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^key-3bf3ade29e3661489d1e036659f33597]
+## 2. Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^c-3bf3ade29e3661489d1e036659f33597]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-3bf3ade29e3661489d1e036659f33597]
+## 3.[^c-3bf3ade29e3661489d1e036659f33597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-3bf3ade29e3661489d1e036659f33597]
+## 4.[^c-3bf3ade29e3661489d1e036659f33597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -110,7 +110,7 @@ These Regulations amend the Council Tax Reduction (Scotland) Regulations 2012 an
 
 [^c23320071]: Marginal citation: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14); [section 80](https://www.legislation.gov.uk/ssi/2018/211/section/80) was amended by paragraph 176 of schedule 13 of the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39). There are other amendments to section 80 and section 113(1) that are not relevant to these regulations. The functions of the Secretary of State, in so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-3bf3ade29e3661489d1e036659f33597]: Textual amendment: [Regs. 2-4](https://www.legislation.gov.uk/ssi/2018/211/regulation/2) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+[^c-3bf3ade29e3661489d1e036659f33597]: Textual amendment: [Regs. 2-4](https://www.legislation.gov.uk/ssi/2018/211/regulation/2) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
 
 [^c23320111]: Marginal citation: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319); [regulation 27(1)(j)](https://www.legislation.gov.uk/ssi/2018/211/regulation/27/1/j) is amended by [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255) and [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2013/218](https://www.legislation.gov.uk/ssi/2013/218), [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81) and [S.S.I. 2017/326](https://www.legislation.gov.uk/ssi/2017/326).
 

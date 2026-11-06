@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Variation of lease where initial cost included consideration under earlier lease[^key-d641379048ca871c372c0bf56304a476]
+## 49. Variation of lease where initial cost included consideration under earlier lease[^c-d641379048ca871c372c0bf56304a476]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d641379048ca871c372c0bf56304a476]: Commencement: Reg. 49 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-d641379048ca871c372c0bf56304a476]: Commencement: Reg. 49 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00042]: Footnote: [S.I. 1990/432](https://www.legislation.gov.uk/uksi/1990/432); paragraph (6) of regulation 7 was amended by [S.I. 1992/3257](https://www.legislation.gov.uk/uksi/1992/3257), [S.I. 1995/850](https://www.legislation.gov.uk/uksi/1995/850), [S.I. 1996/568](https://www.legislation.gov.uk/uksi/1996/568) and [S.I. 1996/2539](https://www.legislation.gov.uk/uksi/1996/2539).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Minutes of meetings of committees[^key-f935307d3b1f8304172475a54f57ca19]
+## 73. Minutes of meetings of committees[^c-f935307d3b1f8304172475a54f57ca19]
 
 *Extent: E+W*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) Any committee of the governing body must supply their local authority with a copy of the draft or signed minutes of any meeting of theirs on request by that local authority.
 
-(3)[^key-d624a00fa25d677e45aa514abe49ab97] The minutes and agenda drawn up for the purposes of this regulation may be kept in electronic form and where that is the case the minutes may be signed electronically.
+(3)[^c-d624a00fa25d677e45aa514abe49ab97] The minutes and agenda drawn up for the purposes of this regulation may be kept in electronic form and where that is the case the minutes may be signed electronically.
 
 ## Annotations
 
-[^key-f935307d3b1f8304172475a54f57ca19]: Commencement: Reg. 73 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-f935307d3b1f8304172475a54f57ca19]: Commencement: Reg. 73 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
-[^key-d624a00fa25d677e45aa514abe49ab97]: Textual amendment: [Reg. 73(3)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/73/3) inserted (18.12.2020) by [The Federation of Maintained Schools (Wales) (Amendment) Regulations 2020 (S.I. 2020/1328)](https://www.legislation.gov.uk/wsi/2020/1328), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1328/regulation/1), [3(5)](https://www.legislation.gov.uk/wsi/2020/1328/regulation/3/5)
+[^c-d624a00fa25d677e45aa514abe49ab97]: Textual amendment: [Reg. 73(3)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/73/3) inserted (18.12.2020) by [The Federation of Maintained Schools (Wales) (Amendment) Regulations 2020 (S.I. 2020/1328)](https://www.legislation.gov.uk/wsi/2020/1328), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1328/regulation/1), [3(5)](https://www.legislation.gov.uk/wsi/2020/1328/regulation/3/5)

@@ -38,7 +38,7 @@ summary: ''
 >
 > except where in relation to Northern Ireland the person in question is dismissed in circumstances in which, by virtue of Article 240 of that Order (fixed term contracts), Part XI does not apply to the dismissal.
 
-(5)[^key-996c3fc8e9f7e4a7fc85411710e4c898] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-996c3fc8e9f7e4a7fc85411710e4c898] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6)[^c12486291] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -50,6 +50,6 @@ summary: ''
 
 [^c12486271]: Marginal citation: [1998 c. 39](https://www.legislation.gov.uk/ukpga/1998/39).
 
-[^key-996c3fc8e9f7e4a7fc85411710e4c898]: Textual amendment: [S. 18(5)](https://www.legislation.gov.uk/ukpga/1999/26/section/18/5) repealed (8.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(4)(e)](https://www.legislation.gov.uk/uksi/2003/962/article/2/4/e), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/962/schedule/2)
+[^c-996c3fc8e9f7e4a7fc85411710e4c898]: Textual amendment: [S. 18(5)](https://www.legislation.gov.uk/ukpga/1999/26/section/18/5) repealed (8.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(4)(e)](https://www.legislation.gov.uk/uksi/2003/962/article/2/4/e), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/962/schedule/2)
 
 [^c12486291]: Textual amendment: S. 18(6) repealed (25.10.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 44](https://www.legislation.gov.uk/ukpga/1999/26/section/44), [Sch. 9(6)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/9/6); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/3/a), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1999/2830/schedule/2/part/I)

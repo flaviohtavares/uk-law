@@ -309,7 +309,7 @@ the person organising the activities must promptly inform the Secretary of State
 
 (4) For the purposes of this Part, references to the Crown are to be regarded as including—
 
-- (a) United Kingdom Research and Innovation[^key-7d68dc1addbafe5d9e7ca8e7062f94fa] (including the British Antarctic Survey), and
+- (a) United Kingdom Research and Innovation[^c-7d68dc1addbafe5d9e7ca8e7062f94fa] (including the British Antarctic Survey), and
 - (b) any other person specified by order made by the Secretary of State.
 
 ### General
@@ -671,4 +671,4 @@ would apply in relation to any liability under section 2 or 3.
 
 ## Annotations
 
-[^key-7d68dc1addbafe5d9e7ca8e7062f94fa]: Textual amendment: Words in [s. 10(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/10/4/a) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 27(1)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/27/1); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t)
+[^c-7d68dc1addbafe5d9e7ca8e7062f94fa]: Textual amendment: Words in [s. 10(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/10/4/a) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 27(1)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/27/1); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t)

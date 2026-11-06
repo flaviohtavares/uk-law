@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — Rent Review[^key-ddd19c7ff322535e33682f3e67777da3]
+## SCHEDULE 1A — Rent Review[^c-ddd19c7ff322535e33682f3e67777da3]
 
 *Extent: S*
 
@@ -216,4 +216,4 @@ than the rent currently payable in respect of the holding (the “original rent�
 
 ## Annotations
 
-[^key-ddd19c7ff322535e33682f3e67777da3]: Textual amendment: Sch. 1A inserted (23.12.2016 for the purpose of making regulations under sch. 1A paras. 2(4), 9(1), 10(6) and otherwise prosp.) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 101(3)](https://www.legislation.gov.uk/asp/2016/18/section/101/3), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule)
+[^c-ddd19c7ff322535e33682f3e67777da3]: Textual amendment: Sch. 1A inserted (23.12.2016 for the purpose of making regulations under sch. 1A paras. 2(4), 9(1), 10(6) and otherwise prosp.) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 101(3)](https://www.legislation.gov.uk/asp/2016/18/section/101/3), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule)

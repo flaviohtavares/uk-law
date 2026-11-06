@@ -31,7 +31,7 @@ ECCLESIASTICAL JURISDICTION (AMENDMENT) MEASURE 1974 (No. 2)
 
 A measure passed by The General Synod of the Church of England to amend the Ecclesiastical Jurisdiction Measure 1963.
 
-\[9th July 1974\][^c922003][^key-38f0467b661c3c63f3c075954cd8d6f1]
+\[9th July 1974\][^c922003][^c-38f0467b661c3c63f3c075954cd8d6f1]
 
 ## 1. Deprivation of priest, etc., following certain proceedings in secular courts.[^c922004]
 
@@ -119,7 +119,7 @@ For sections 55 and 56 of the [^c922005]Ecclesiastical Jurisdiction Measure 1963
 
 [^c922003]: Modification: Measure extended by [Pastoral Measure 1983 (No. 1, SIF 21:4)](https://www.legislation.gov.uk/ukcm/1983/1), [s. 20(9)](https://www.legislation.gov.uk/ukcm/1983/1/section/20/9)
 
-[^key-38f0467b661c3c63f3c075954cd8d6f1]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/1974/2) applied (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [ss. 34(9)](https://www.legislation.gov.uk/ukcm/2011/3/section/34/9), [112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-38f0467b661c3c63f3c075954cd8d6f1]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/1974/2) applied (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [ss. 34(9)](https://www.legislation.gov.uk/ukcm/2011/3/section/34/9), [112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
 [^c922004]: Modification: The text of ss. 1, 2(1)(2)(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

@@ -22,7 +22,7 @@ summary: ''
 
 A special measures direction may not provide for the exclusion of persons under section 25 of the 1999 Act unless—
 
-- (a)[^key-ccc1e247f24e65f8f83b3785c8d30817] the proceedings relate to—
+- (a)[^c-ccc1e247f24e65f8f83b3785c8d30817] the proceedings relate to—
   - (i) a sexual offence,
   - (ii) a modern slavery offence, or
   - (iii) any other offence where it is alleged that the behaviour of the defendant amounted to domestic abuse; or
@@ -30,4 +30,4 @@ A special measures direction may not provide for the exclusion of persons under 
 
 ## Annotations
 
-[^key-ccc1e247f24e65f8f83b3785c8d30817]: Textual amendment: [Rule 79(a)](https://www.legislation.gov.uk/uksi/2009/1209/rule/79/a) substituted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [21](https://www.legislation.gov.uk/uksi/2022/605/rule/21)
+[^c-ccc1e247f24e65f8f83b3785c8d30817]: Textual amendment: [Rule 79(a)](https://www.legislation.gov.uk/uksi/2009/1209/rule/79/a) substituted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [21](https://www.legislation.gov.uk/uksi/2022/605/rule/21)

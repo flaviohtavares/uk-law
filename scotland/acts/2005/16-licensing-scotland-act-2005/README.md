@@ -32,7 +32,7 @@ Licensing (Scotland) Act 2005
 
 An Act of the Scottish Parliament to make provision for regulating the sale of alcohol, and for regulating licensed premises and other premises on which alcohol is sold; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 16th November 2005 and received Royal Assent on 21st December 2005[^key-73e1a0f25f862ce2be400e9066c83a7a][^key-5a8f7860cbe104c19410f1ce1c4e2000]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 16th November 2005 and received Royal Assent on 21st December 2005[^c-73e1a0f25f862ce2be400e9066c83a7a][^c-5a8f7860cbe104c19410f1ce1c4e2000]
 
 ## Contents
 
@@ -65,7 +65,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 11 — General functions of Local Licensing Forums](part-2/section-11.md)
 - [Section 12 — Licensing Boards' duties in relation to Local Licensing Forums](part-2/section-12.md)
 
-#### Chief constables' reports[^key-34697dc35c4697cc19f6e4b9e30867fe]
+#### Chief constables' reports[^c-34697dc35c4697cc19f6e4b9e30867fe]
 
 - [Section 12A — Chief constable's reports to Licensing Boards and Local Licensing Forums](part-2/section-12a.md)
 
@@ -139,7 +139,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 39B — Recall of revocation of licence under section 39(2A)](part-3/section-39b.md)
 - [Section 40 — Review of Licensing Board's decision to vary or suspend licence](part-3/section-40.md)
 
-#### Connected persons[^M_F_ec1ad6d8-5235-4703-c6b4-b0a97f6be960][^key-ba455c3dd35c3b0c26dc17425bab7bfd]
+#### Connected persons[^M_F_ec1ad6d8-5235-4703-c6b4-b0a97f6be960][^c-ba455c3dd35c3b0c26dc17425bab7bfd]
 
 - [Section 40A — Connected persons: licence holder's duty to notify changes](part-3/section-40a.md)
 
@@ -384,12 +384,12 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-73e1a0f25f862ce2be400e9066c83a7a]: Modification: [Act](https://www.legislation.gov.uk/asp/2005/16) applied (with modifications) (30.7.2009) by [Licensing (Scotland) Act 2005 (Transitional Provisions) Order 2009 (S.S.I. 2009/277)](https://www.legislation.gov.uk/ssi/2009/277), [art. 7](https://www.legislation.gov.uk/ssi/2009/277/article/7)
+[^c-73e1a0f25f862ce2be400e9066c83a7a]: Modification: [Act](https://www.legislation.gov.uk/asp/2005/16) applied (with modifications) (30.7.2009) by [Licensing (Scotland) Act 2005 (Transitional Provisions) Order 2009 (S.S.I. 2009/277)](https://www.legislation.gov.uk/ssi/2009/277), [art. 7](https://www.legislation.gov.uk/ssi/2009/277/article/7)
 
-[^key-5a8f7860cbe104c19410f1ce1c4e2000]: Modification: [Act](https://www.legislation.gov.uk/asp/2005/16) power to modify conferred (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 15(1)(c)(i)](https://www.legislation.gov.uk/asp/2010/18/section/15/1/c/i), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-5a8f7860cbe104c19410f1ce1c4e2000]: Modification: [Act](https://www.legislation.gov.uk/asp/2005/16) power to modify conferred (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 15(1)(c)(i)](https://www.legislation.gov.uk/asp/2010/18/section/15/1/c/i), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-34697dc35c4697cc19f6e4b9e30867fe]: Textual amendment: S. 12A and cross-heading inserted (1.4.2012) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 12](https://www.legislation.gov.uk/asp/2010/18/section/12), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-34697dc35c4697cc19f6e4b9e30867fe]: Textual amendment: S. 12A and cross-heading inserted (1.4.2012) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 12](https://www.legislation.gov.uk/asp/2010/18/section/12), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
 [^M_F_ec1ad6d8-5235-4703-c6b4-b0a97f6be960]: Textual amendment: S. 40A cross-heading substituted (29.6.2018) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 59(3)](https://www.legislation.gov.uk/asp/2015/10/section/59/3), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2018/102](https://www.legislation.gov.uk/ssi/2018/102), [art. 3](https://www.legislation.gov.uk/ssi/2018/102/article/3)
 
-[^key-ba455c3dd35c3b0c26dc17425bab7bfd]: Textual amendment: S. 40A inserted (13.12.2010 for specified purposes, 29.6.2018 in so far as not already in force) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 184(2)](https://www.legislation.gov.uk/asp/2010/13/section/184/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule); [S.S.I. 2018/102](https://www.legislation.gov.uk/ssi/2018/102), [art. 2(a)](https://www.legislation.gov.uk/ssi/2018/102/article/2/a)
+[^c-ba455c3dd35c3b0c26dc17425bab7bfd]: Textual amendment: S. 40A inserted (13.12.2010 for specified purposes, 29.6.2018 in so far as not already in force) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 184(2)](https://www.legislation.gov.uk/asp/2010/13/section/184/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule); [S.S.I. 2018/102](https://www.legislation.gov.uk/ssi/2018/102), [art. 2(a)](https://www.legislation.gov.uk/ssi/2018/102/article/2/a)

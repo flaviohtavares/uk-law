@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Commission[^key-2ee73af8c57bb0e95ca4a2e12959a9ff] must produce and publish guidance about—
+(1) The Commission[^c-2ee73af8c57bb0e95ca4a2e12959a9ff] must produce and publish guidance about—
 
 - (a) how the Commission proposes to secure that privileged communications which the Commission obtains or has access to in the course of carrying out the Commission's functions are used or disclosed only so far as necessary for carrying out those functions, and
 - (b) how the Commission proposes to comply with restrictions and prohibitions on obtaining or having access to privileged communications which are imposed by an enactment.
@@ -55,4 +55,4 @@ summary: ''
 
 [^M_I_f7c8792b-5c3b-472d-b608-e90d8d4ccd14]: Commencement: S. 133 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/e)
 
-[^key-2ee73af8c57bb0e95ca4a2e12959a9ff]: Textual amendment: Word in s. 133(1)-(4) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-2ee73af8c57bb0e95ca4a2e12959a9ff]: Textual amendment: Word in s. 133(1)-(4) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

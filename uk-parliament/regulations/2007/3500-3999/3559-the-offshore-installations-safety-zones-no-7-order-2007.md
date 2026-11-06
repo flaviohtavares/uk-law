@@ -41,11 +41,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred upon him by sections 22(1) and (2) of the Petroleum Act 1987[^f00001] (“the Act”), and for the purpose of giving effect to proposals submitted to him by the Health and Safety Commission under section 24(2A) of the Act, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-00024f56be0d1d80396f684d6701b242]
+## 1. Citation and commencement[^c-00024f56be0d1d80396f684d6701b242]
 
 This Order may be cited as the Offshore Installations (Safety Zones) (No.7) Order 2007 and shall come into force on 7th January 2008.
 
-## 2. Establishment of safety zones[^key-8c20395094138df55ce8b698030e048d]
+## 2. Establishment of safety zones[^c-8c20395094138df55ce8b698030e048d]
 
 A safety zone is established around each installation specified in column 1 of the Schedule (being an installation stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres from the point as respects that installation which has the co-ordinates of latitude and longitude according to European Datum (1950) specified in columns 2 and 3 of the Schedule.
 
@@ -59,15 +59,15 @@ Department for Work and Pensions
 
 17th December 2007
 
-## SCHEDULE — SAFETY ZONES[^key-37915f2b31863a64603638dd8c9968e4]
+## SCHEDULE — SAFETY ZONES[^c-37915f2b31863a64603638dd8c9968e4]
 
 Article 2
 
 | *(1)*<br>*Name or other designation of the offshore installation* | *(2)*<br>*Latitude North* | *(3)*<br>*Longitude* |
 | --- | --- | --- |
 | Jura Choke Manifold and Wellheads, Block 3/15, Jura Field | 60° 32.66’ | 01° 54.07’ E |
-| [^key-d79bd4569895fa236a8e99eb315fd96c]. . . | [^key-d79bd4569895fa236a8e99eb315fd96c]. . . | [^key-d79bd4569895fa236a8e99eb315fd96c]. . . |
-| [^key-4e0b9eecb368aa8a4b35c20394d1273d]. . . | [^key-4e0b9eecb368aa8a4b35c20394d1273d]. . . | [^key-4e0b9eecb368aa8a4b35c20394d1273d]. . . |
+| [^c-d79bd4569895fa236a8e99eb315fd96c]. . . | [^c-d79bd4569895fa236a8e99eb315fd96c]. . . | [^c-d79bd4569895fa236a8e99eb315fd96c]. . . |
+| [^c-4e0b9eecb368aa8a4b35c20394d1273d]. . . | [^c-4e0b9eecb368aa8a4b35c20394d1273d]. . . | [^c-4e0b9eecb368aa8a4b35c20394d1273d]. . . |
 
 (This note is not part of the Order)
 
@@ -79,12 +79,12 @@ Vessels, which for this purpose include hovercraft, submersible apparatus and in
 
 [^f00001]: Footnote: [1987 c.12](https://www.legislation.gov.uk/ukpga/1987/12); section 24(2A) was inserted by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823).
 
-[^key-00024f56be0d1d80396f684d6701b242]: Commencement: Art. 1 in force at 7.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2007/3559/article/1)
+[^c-00024f56be0d1d80396f684d6701b242]: Commencement: Art. 1 in force at 7.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2007/3559/article/1)
 
-[^key-8c20395094138df55ce8b698030e048d]: Commencement: Art. 2 in force at 7.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2007/3559/article/1)
+[^c-8c20395094138df55ce8b698030e048d]: Commencement: Art. 2 in force at 7.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2007/3559/article/1)
 
-[^key-37915f2b31863a64603638dd8c9968e4]: Commencement: Sch. in force at 7.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2007/3559/article/1)
+[^c-37915f2b31863a64603638dd8c9968e4]: Commencement: Sch. in force at 7.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2007/3559/article/1)
 
-[^key-d79bd4569895fa236a8e99eb315fd96c]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2007/3559/schedule) entry omitted (14.11.2011) by virtue of [The Offshore Installations (Safety Zones) (No. 4) Order 2011 (S.I. 2011/2492)](https://www.legislation.gov.uk/uksi/2011/2492), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2492/article/1), [3](https://www.legislation.gov.uk/uksi/2011/2492/article/3)
+[^c-d79bd4569895fa236a8e99eb315fd96c]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2007/3559/schedule) entry omitted (14.11.2011) by virtue of [The Offshore Installations (Safety Zones) (No. 4) Order 2011 (S.I. 2011/2492)](https://www.legislation.gov.uk/uksi/2011/2492), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2492/article/1), [3](https://www.legislation.gov.uk/uksi/2011/2492/article/3)
 
-[^key-4e0b9eecb368aa8a4b35c20394d1273d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2007/3559/schedule) omitted (6.7.2026) by virtue of [The Offshore Installations (Safety Zones) Order 2026 (S.I. 2026/635)](https://www.legislation.gov.uk/uksi/2026/635), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/635/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/635/article/4/2)
+[^c-4e0b9eecb368aa8a4b35c20394d1273d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2007/3559/schedule) omitted (6.7.2026) by virtue of [The Offshore Installations (Safety Zones) Order 2026 (S.I. 2026/635)](https://www.legislation.gov.uk/uksi/2026/635), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/635/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/635/article/4/2)

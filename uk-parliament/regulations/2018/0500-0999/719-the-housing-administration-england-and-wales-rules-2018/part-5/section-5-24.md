@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.24. Mutual dealings and set-off[^key-6c341103813442b62a391652c90f4bea]
+## 5.24. Mutual dealings and set-off[^c-6c341103813442b62a391652c90f4bea]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c341103813442b62a391652c90f4bea]: Commencement: Rule 5.24 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-6c341103813442b62a391652c90f4bea]: Commencement: Rule 5.24 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

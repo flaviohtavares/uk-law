@@ -34,7 +34,7 @@ Petroleum
 
 Pipe-lines
 
-The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Coronavirus) (Amendment) Regulations 2020 (revoked)[^key-385f85b25046ad88c92b2f0261c605df]
+The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Coronavirus) (Amendment) Regulations 2020 (revoked)[^c-385f85b25046ad88c92b2f0261c605df]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 23rd April 2020
 
-[^key-385f85b25046ad88c92b2f0261c605df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-385f85b25046ad88c92b2f0261c605df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-385f85b25046ad88c92b2f0261c605df]
+## 1. Citation and Commencement[^c-385f85b25046ad88c92b2f0261c605df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999[^key-385f85b25046ad88c92b2f0261c605df]
+## 2. Amendment to the Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999[^c-385f85b25046ad88c92b2f0261c605df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-385f85b25046ad88c92b2f0261c605df]
+## 3.[^c-385f85b25046ad88c92b2f0261c605df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-385f85b25046ad88c92b2f0261c605df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-385f85b25046ad88c92b2f0261c605df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-385f85b25046ad88c92b2f0261c605df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-385f85b25046ad88c92b2f0261c605df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-385f85b25046ad88c92b2f0261c605df]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/448) revoked (31.12.2020 immediately before 11 p.m.) by [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/2/3/b) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
+[^c-385f85b25046ad88c92b2f0261c605df]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/448) revoked (31.12.2020 immediately before 11 p.m.) by [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/2/3/b) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))

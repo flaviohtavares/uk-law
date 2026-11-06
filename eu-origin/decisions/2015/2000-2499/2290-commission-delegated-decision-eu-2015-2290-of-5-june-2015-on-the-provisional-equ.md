@@ -35,18 +35,18 @@ of 5 June 2015
 
 on the provisional equivalence of the solvency regimes in force in Australia, Brazil, Canada, Mexico and the United States and applicable to insurance and reinsurance undertakings with head offices in those countries (revoked)
 
-[^key-6f9089043d5d38f6deb56e8bb64a6913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f9089043d5d38f6deb56e8bb64a6913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-6f9089043d5d38f6deb56e8bb64a6913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-6f9089043d5d38f6deb56e8bb64a6913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1A.**[^key-6f9089043d5d38f6deb56e8bb64a6913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1A.**[^c-6f9089043d5d38f6deb56e8bb64a6913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-6f9089043d5d38f6deb56e8bb64a6913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-6f9089043d5d38f6deb56e8bb64a6913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-6f9089043d5d38f6deb56e8bb64a6913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-6f9089043d5d38f6deb56e8bb64a6913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6f9089043d5d38f6deb56e8bb64a6913]: Textual amendment: Decision revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/5/c), [Sch.](https://www.legislation.gov.uk/uksi/2024/1071/schedule)
+[^c-6f9089043d5d38f6deb56e8bb64a6913]: Textual amendment: Decision revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/5/c), [Sch.](https://www.legislation.gov.uk/uksi/2024/1071/schedule)

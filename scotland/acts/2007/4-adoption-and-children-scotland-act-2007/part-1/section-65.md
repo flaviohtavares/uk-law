@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Imposition of extra conditions in certain cases[^key-9850ac24227fcfb0ed73dfa098b27bed]
+## 65. Imposition of extra conditions in certain cases[^c-9850ac24227fcfb0ed73dfa098b27bed]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9850ac24227fcfb0ed73dfa098b27bed]: Commencement: S. 65 in force at 1.9.2008 by [S.S.I. 2008/282](https://www.legislation.gov.uk/ssi/2008/282), [art. 2](https://www.legislation.gov.uk/ssi/2008/282/article/2)
+[^c-9850ac24227fcfb0ed73dfa098b27bed]: Commencement: S. 65 in force at 1.9.2008 by [S.S.I. 2008/282](https://www.legislation.gov.uk/ssi/2008/282), [art. 2](https://www.legislation.gov.uk/ssi/2008/282/article/2)

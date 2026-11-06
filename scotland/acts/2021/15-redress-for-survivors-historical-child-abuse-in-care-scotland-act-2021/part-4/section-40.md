@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Next of kin payment[^key-b8c791e04d4c8f7fb0aac28f761cc4aa]
+## 40. Next of kin payment[^c-b8c791e04d4c8f7fb0aac28f761cc4aa]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8c791e04d4c8f7fb0aac28f761cc4aa]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2021/15/section/40) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-b8c791e04d4c8f7fb0aac28f761cc4aa]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2021/15/section/40) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

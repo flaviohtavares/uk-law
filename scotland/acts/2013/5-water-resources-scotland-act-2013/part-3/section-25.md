@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Supporting renewable energy[^key-ea10fdd015a043c5ad847fadf1afba4e]
+## 25. Supporting renewable energy[^c-ea10fdd015a043c5ad847fadf1afba4e]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ After section 51 of the 2002 Act there is inserted—
 
 ## Annotations
 
-[^key-ea10fdd015a043c5ad847fadf1afba4e]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2013/5/section/25) in force at 21.12.2013 by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)
+[^c-ea10fdd015a043c5ad847fadf1afba4e]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2013/5/section/25) in force at 21.12.2013 by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)

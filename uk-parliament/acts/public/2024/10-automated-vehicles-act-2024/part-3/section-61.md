@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Purpose of inspectors[^key-727876f79c3c09d9268e125ab4c45260]
+## 61. Purpose of inspectors[^c-727876f79c3c09d9268e125ab4c45260]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-727876f79c3c09d9268e125ab4c45260]: Commencement: S. 61 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-727876f79c3c09d9268e125ab4c45260]: Commencement: S. 61 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

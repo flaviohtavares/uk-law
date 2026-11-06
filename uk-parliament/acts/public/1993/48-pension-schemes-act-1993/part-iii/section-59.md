@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Alternative basis for revaluation of earnings factors for calculation of certain premiums.[^key-943da9c00e03d1be62c05ab91546c99d][^key-036c31ef7347b27efbfd0fe3c8cdd455]
+## 59. Alternative basis for revaluation of earnings factors for calculation of certain premiums.[^c-943da9c00e03d1be62c05ab91546c99d][^c-036c31ef7347b27efbfd0fe3c8cdd455]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-943da9c00e03d1be62c05ab91546c99d]: Textual amendment: S. 59 repealed (6.4.1997) (with savings for existing state scheme premiums) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 5 para. 53](https://www.legislation.gov.uk/ukpga/1995/26/schedule/5/paragraph/53), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/III); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/II) (with [art. 4(2)(3)](https://www.legislation.gov.uk/uksi/1997/664/article/4))
+[^c-943da9c00e03d1be62c05ab91546c99d]: Textual amendment: S. 59 repealed (6.4.1997) (with savings for existing state scheme premiums) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 5 para. 53](https://www.legislation.gov.uk/ukpga/1995/26/schedule/5/paragraph/53), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/III); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/II) (with [art. 4(2)(3)](https://www.legislation.gov.uk/uksi/1997/664/article/4))
 
-[^key-036c31ef7347b27efbfd0fe3c8cdd455]: Textual amendment: [Ss. 55-68](https://www.legislation.gov.uk/ukpga/1993/48/section/55) repealed (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 37](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/37) (with savings in [The Pensions Act 2014 (Savings) Order 2015 (S.I. 2015/1502)](https://www.legislation.gov.uk/uksi/2015/1502), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/3), [2(4)-(5F)](https://www.legislation.gov.uk/uksi/2015/1502/article/2/4))
+[^c-036c31ef7347b27efbfd0fe3c8cdd455]: Textual amendment: [Ss. 55-68](https://www.legislation.gov.uk/ukpga/1993/48/section/55) repealed (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 37](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/37) (with savings in [The Pensions Act 2014 (Savings) Order 2015 (S.I. 2015/1502)](https://www.legislation.gov.uk/uksi/2015/1502), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/3), [2(4)-(5F)](https://www.legislation.gov.uk/uksi/2015/1502/article/2/4))

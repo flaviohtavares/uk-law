@@ -45,7 +45,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 30A(2A), (6) and (7), 30C(3), 30DD and 171(2) to (4) of, and paragraph 2(8) of Schedule 3 to, the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Article 75(5) of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, by this statutory rule, which contains only regulations made by virtue of, or consequential upon, Articles 59 to 61 of the Welfare Reform and Pensions (Northern Ireland) Order 1999, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-0a98f6b6330c903d9f0e4a9938b87553]
+## 1. Citation, commencement and interpretation[^c-0a98f6b6330c903d9f0e4a9938b87553]
 
 (1) These Regulations may be cited as the Social Security (Incapacity Benefit) (Miscellaneous Amendments) Regulations (Northern Ireland) 2000 and shall come into operation on 6th April 2001.
 
@@ -53,7 +53,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the principal Regulations[^key-a0869116edf4f9bb7d6392d49b0ca14b]
+## 2. Amendment of the principal Regulations[^c-a0869116edf4f9bb7d6392d49b0ca14b]
 
 (1) The principal Regulations shall be amended in accordance with paragraphs (2) to (5).
 
@@ -293,31 +293,31 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 .
 
-## 3. Amendment of the Social Security (Credits) Regulations[^key-254984cf4c54d304183bdb7736df4b58]
+## 3. Amendment of the Social Security (Credits) Regulations[^c-254984cf4c54d304183bdb7736df4b58]
 
 In regulations 8A(1) and 8B(1) of the Social Security (Credits) Regulations (Northern Ireland) 1975[^f00026] (credits for unemployment and incapacity for work) “Subject to regulation 9,” shall be omitted.
 
-## 4. Amendment of the Social Security (Claims and Payments) Regulations[^key-f175071a34c5fd9670264f41c0fe9337][^key-dc56e3b043226b1d296f327167175392]
+## 4. Amendment of the Social Security (Claims and Payments) Regulations[^c-f175071a34c5fd9670264f41c0fe9337][^c-dc56e3b043226b1d296f327167175392]
 
 In regulation 24 of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00027] (incapacity benefit, severe disablement allowance and maternity allowance)—
 
-- (a)[^key-55289e4fd0b7699e4ab1f46a364e323e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-55289e4fd0b7699e4ab1f46a364e323e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-55289e4fd0b7699e4ab1f46a364e323e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-55289e4fd0b7699e4ab1f46a364e323e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) after paragraph (3) there shall be inserted the following paragraph—
 
   > (3A) Where the amount of incapacity benefit payable after reduction for pension payments under section 30DD of the Contributions and Benefits Act (including any reduction for other purposes) is less than £5 a week, the Department may direct that it shall be paid (whether in advance or in arrears) at such intervals as may be specified not exceeding 12 months.
 
   .
 
-## 5. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^key-f2e6affd97c8c1762303c9149d8e47b7][^key-dc56e3b043226b1d296f327167175392]
+## 5. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^c-f2e6affd97c8c1762303c9149d8e47b7][^c-dc56e3b043226b1d296f327167175392]
 
 In regulation 5(2) of the Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^f00028] (offsetting prior payment against subsequent award), in Case 3 after “allowance”, in both places where it occurs, there shall be inserted “or incapacity benefit for persons incapacitated in youth in accordance with section 30A(1)(*b*) and (2A) of the Contributions and Benefits Act”.
 
-## 6. Saving[^key-25793b31216f4f05bc7247b360885994]
+## 6. Saving[^c-25793b31216f4f05bc7247b360885994]
 
 Where, on any day before the coming into operation of these Regulations, a person is entitled to incapacity benefit and continues, on that day or any day immediately after the coming into operation of these Regulations, to be entitled to incapacity benefit, whether or not by virtue of section 30C of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, the principal Regulations shall have effect as if these Regulations had not been made.
 
-## 7. Revocations[^key-c2330c418870c91d93a44c18ca90d345]
+## 7. Revocations[^c-c2330c418870c91d93a44c18ca90d345]
 
 The Regulations specified in column (1) of the Schedule are revoked to the extent mentioned in column (3) of that Schedule.
 
@@ -329,7 +329,7 @@ Senior Officer of the
 
 Department for Social Development
 
-## SCHEDULE — Regulations revoked[^key-fd1336601eaec6e1f944d914019a3fd2]
+## SCHEDULE — Regulations revoked[^c-fd1336601eaec6e1f944d914019a3fd2]
 
 Regulation 7
 
@@ -377,13 +377,13 @@ These Regulations do not impose a charge on business.
 
 [^f00003]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-0a98f6b6330c903d9f0e4a9938b87553]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/404/regulation/1) in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/404/regulation/1/1)
+[^c-0a98f6b6330c903d9f0e4a9938b87553]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/404/regulation/1) in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/404/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1994 No. 461](https://www.legislation.gov.uk/nisr/1994/461); relevant amending regulations are [S.R. 1997 No. 483](https://www.legislation.gov.uk/nisr/1997/483), [S.R. 1999 No. 346](https://www.legislation.gov.uk/nisr/1999/346) and [S.R. 2000 No. 109](https://www.legislation.gov.uk/nisr/2000/109)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-a0869116edf4f9bb7d6392d49b0ca14b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/404/regulation/2) in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/404/regulation/1/1)
+[^c-a0869116edf4f9bb7d6392d49b0ca14b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/404/regulation/2) in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/404/regulation/1/1)
 
 [^f00006]: Footnote: Regulation 1A was inserted by regulation 13 of [S.R. 1997 No. 483](https://www.legislation.gov.uk/nisr/1997/483)
 
@@ -425,24 +425,24 @@ These Regulations do not impose a charge on business.
 
 [^f00025]: Footnote: Subsection (10A) was inserted by Article 11(2) of the Social Security (Incapacity for Work) Order 1994
 
-[^key-254984cf4c54d304183bdb7736df4b58]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/404/regulation/3) in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/404/regulation/1/1)
+[^c-254984cf4c54d304183bdb7736df4b58]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/404/regulation/3) in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/404/regulation/1/1)
 
 [^f00026]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); regulations 8A and 8B were inserted by regulation 2(6) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
 
-[^key-f175071a34c5fd9670264f41c0fe9337]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/404/regulation/4) in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/404/regulation/1/1)
+[^c-f175071a34c5fd9670264f41c0fe9337]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/404/regulation/4) in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/404/regulation/1/1)
 
-[^key-dc56e3b043226b1d296f327167175392]: Modification: [Regs. 4](https://www.legislation.gov.uk/nisr/2000/404/regulation/4), [5](https://www.legislation.gov.uk/nisr/2000/404/regulation/5) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-dc56e3b043226b1d296f327167175392]: Modification: [Regs. 4](https://www.legislation.gov.uk/nisr/2000/404/regulation/4), [5](https://www.legislation.gov.uk/nisr/2000/404/regulation/5) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^f00027]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); regulation 24 was substituted by regulation 2(10) of [S.R. 1994 No. 456](https://www.legislation.gov.uk/nisr/1994/456)
 
-[^key-55289e4fd0b7699e4ab1f46a364e323e]: Textual amendment: [Reg. 4(a)](https://www.legislation.gov.uk/nisr/2000/404/regulation/4/a)[(b)](https://www.legislation.gov.uk/nisr/2000/404/regulation/4/b) revoked (6.4.2009) by [The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/107)](https://www.legislation.gov.uk/nisr/2009/107), [reg. 1](https://www.legislation.gov.uk/nisr/2009/107/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/107/schedule)
+[^c-55289e4fd0b7699e4ab1f46a364e323e]: Textual amendment: [Reg. 4(a)](https://www.legislation.gov.uk/nisr/2000/404/regulation/4/a)[(b)](https://www.legislation.gov.uk/nisr/2000/404/regulation/4/b) revoked (6.4.2009) by [The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/107)](https://www.legislation.gov.uk/nisr/2009/107), [reg. 1](https://www.legislation.gov.uk/nisr/2009/107/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/107/schedule)
 
-[^key-f2e6affd97c8c1762303c9149d8e47b7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/404/regulation/5) in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/404/regulation/1/1)
+[^c-f2e6affd97c8c1762303c9149d8e47b7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/404/regulation/5) in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/404/regulation/1/1)
 
 [^f00028]: Footnote: [S.R. 1988 No. 142](https://www.legislation.gov.uk/nisr/1988/142), to which there are amendments not relevant to these regulations
 
-[^key-25793b31216f4f05bc7247b360885994]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/404/regulation/6) in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/404/regulation/1/1)
+[^c-25793b31216f4f05bc7247b360885994]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/404/regulation/6) in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/404/regulation/1/1)
 
-[^key-c2330c418870c91d93a44c18ca90d345]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/404/regulation/7) in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/404/regulation/1/1)
+[^c-c2330c418870c91d93a44c18ca90d345]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/404/regulation/7) in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/404/regulation/1/1)
 
-[^key-fd1336601eaec6e1f944d914019a3fd2]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2000/404/schedule) in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/404/regulation/1/1)
+[^c-fd1336601eaec6e1f944d914019a3fd2]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2000/404/schedule) in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/404/regulation/1/1)

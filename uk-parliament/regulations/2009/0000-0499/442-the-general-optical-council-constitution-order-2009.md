@@ -52,7 +52,7 @@ Their Lordships make the following Order in exercise of the powers conferred by 
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and interpretation[^key-0fffc708bf93572ba38a6e79b90910c9]
+### 1. Citation, commencement and interpretation[^c-0fffc708bf93572ba38a6e79b90910c9]
 
 (1) This Order may be cited as the General Optical Council (Constitution) Order 2009 and—
 
@@ -74,11 +74,11 @@ Their Lordships make the following Order in exercise of the powers conferred by 
 
 ## PART 2 — Membership of the General Optical Council
 
-### 2. Composition of the Council[^key-788e7955d990053ac6eb440434e0aa8a]
+### 2. Composition of the Council[^c-788e7955d990053ac6eb440434e0aa8a]
 
 The Council shall consist of 6 registrant members and 6 lay members.
 
-### 3. Terms of office of members[^key-d4c508fd5cd52fd2fd64937e8c4235b3]
+### 3. Terms of office of members[^c-d4c508fd5cd52fd2fd64937e8c4235b3]
 
 (1) The duration of the term of office of each member of the Council is to be determined by the Privy Council, on appointment.
 
@@ -86,14 +86,14 @@ The Council shall consist of 6 registrant members and 6 lay members.
 
 (3) For the purposes of the computation of years under paragraph (2), service as a member of the Council before 1st April 2005 is to be discounted.
 
-### 4. Education and training of members[^key-059461658663b12e887eff3f0e0392ad]
+### 4. Education and training of members[^c-059461658663b12e887eff3f0e0392ad]
 
 The Council shall make provision in standing orders with respect to the requirements with regard to education and training of members of the Council, and those standing orders may provide for—
 
 - (a) that education and training to be the responsibility of another body; and
 - (b) those requirements to be set and varied by that body from time to time.
 
-### 5. Disqualification from appointment as a member[^key-7aab58ad0b1cbb26c11608d1657b4f38]
+### 5. Disqualification from appointment as a member[^c-7aab58ad0b1cbb26c11608d1657b4f38]
 
 A person is disqualified from appointment as a member of the Council if that person—
 
@@ -121,7 +121,7 @@ A person is disqualified from appointment as a member of the Council if that per
   - (iii) a disqualification order or disqualification undertaking under the Company Directors Disqualification (Northern Ireland) Order 2002[^f00011], or
   - (iv) an order made under section 429(2) of the Insolvency Act 1986[^f00012] (disabilities on revocation of a county court administration order);
 - (h) has been included by—
-  - (i) the Disclosure and Barring Service[^key-7c0dad1eec500d1ad3177fe8a921d49f] in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006 or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00013]), or
+  - (i) the Disclosure and Barring Service[^c-7c0dad1eec500d1ad3177fe8a921d49f] in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006 or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00013]), or
   - (ii) the Scottish Ministers in the children’s list or the adults’ list (within the meaning of the Protection of Vulnerable Groups (Scotland) Act 2007[^f00014]);
 - (i) has at any time been subject to any investigation or proceedings concerning the person’s fitness to practise by any licensing body, the final outcome of which was—
   - (i) the person’s suspension from a register held by the licensing body, and that suspension has not been terminated,
@@ -148,7 +148,7 @@ A person is disqualified from appointment as a member of the Council if that per
     - (bb) the Privy Council is satisfied that the person’s membership of the Council would be liable to undermine public confidence in the regulation of registrants; or
 - (n) has at any time been convicted of an offence elsewhere than in the United Kingdom and the Privy Council is satisfied that the person’s membership of the Council would be liable to undermine public confidence in the regulation of registrants.
 
-### 6. Removal of members from office[^key-ff31d6404a2666b1d872ababeec7d636]
+### 6. Removal of members from office[^c-ff31d6404a2666b1d872ababeec7d636]
 
 (1) A member shall be removed from office by the Privy Council, if—
 
@@ -185,7 +185,7 @@ A person is disqualified from appointment as a member of the Council if that per
 - (a) a member has become, or may be about to become, a person to whom paragraph (1)(b) to (g) applies; and
 - (b) that member has not notified the Privy Council in writing of that fact and the chair is not satisfied that the member will do so immediately.
 
-### 7. Suspension of members from office[^key-26e0e4297ae8e1adc65e90db7b1ebd58]
+### 7. Suspension of members from office[^c-26e0e4297ae8e1adc65e90db7b1ebd58]
 
 (1) The Privy Council may suspend a member from office by a notice in writing served on the member—
 
@@ -231,7 +231,7 @@ A person is disqualified from appointment as a member of the Council if that per
 
 ## PART 3 — Chair of the Council
 
-### 8. Appointment, term of office and cessation of office of the chair[^key-35fa6bc2c89215eb96dd642379dc4b75]
+### 8. Appointment, term of office and cessation of office of the chair[^c-35fa6bc2c89215eb96dd642379dc4b75]
 
 (1) The Privy Council shall, as one of its functions relating to the appointment of members of the Council, appoint a lay member of the Council to be the chair of the Council.
 
@@ -249,13 +249,13 @@ A person is disqualified from appointment as a member of the Council if that per
 - (c) if the member’s membership of the Council is suspended by the Privy Council; or
 - (d) if a majority of the Council, excluding the chair (but not simply a majority at a quorate meeting), votes to terminate the member’s appointment as chair.
 
-### 9. Transitional arrangements in respect of the first chair of the new Council as constituted on 1st April 2009[^key-0a2d9f5e7a2b0c23c3a3571bd9ffd725]
+### 9. Transitional arrangements in respect of the first chair of the new Council as constituted on 1st April 2009[^c-0a2d9f5e7a2b0c23c3a3571bd9ffd725]
 
 (1) Notwithstanding article 8(1) to (3), the person who was chairman of the Council on 31st March 2009 shall, if reappointed to serve as a member of the Council from 1st April 2009, be appointed by the Privy Council to serve as the chair of the Council as constituted on 1st April 2009 for a term of four years.
 
 (2) As regards any person so appointed, notwithstanding article 3(3), for the purposes of the computation of years under article 3(2), service as a member of the Council before 1st April 2009 is to be discounted, unless before 1st April 2009 that person has served on the Council for more than six months.
 
-### 10. Deputising arrangements in respect of the chair[^key-0e13d88442211cbb0d695515ccc608b4]
+### 10. Deputising arrangements in respect of the chair[^c-0e13d88442211cbb0d695515ccc608b4]
 
 (1) Subject to paragraph (2), if, for any reason, the chair is absent from a meeting of the Council, the members who are present at that meeting shall nominate one of their number to serve as chair at that meeting.
 
@@ -280,11 +280,11 @@ the Council may nominate a member (“deputy chair”) to serve as chair during 
 
 ## PART 4 — Proceedings of the Council
 
-### 11. Quorum of the Council[^key-222f4580f4ac685dff98d8ef3d52b60e]
+### 11. Quorum of the Council[^c-222f4580f4ac685dff98d8ef3d52b60e]
 
 The quorum of the Council shall be 7.
 
-### 12. Effect of vacancies etc. on the validity of proceedings[^key-37a0ed99a5d7f35e8bc0a53c9dbeb322]
+### 12. Effect of vacancies etc. on the validity of proceedings[^c-37a0ed99a5d7f35e8bc0a53c9dbeb322]
 
 (1) The validity of any proceedings of the Council shall not be affected by—
 
@@ -316,7 +316,7 @@ There are also provisions relating to the proceedings of the GOC. Its quorum is 
 
 [^f00001]: Footnote: [1989 c.44](https://www.legislation.gov.uk/ukpga/1989/44); section 1(4) of the Act was amended by, and paragraph 1B of Schedule 1 to the Act was inserted by, [S.I. 2008/1774](https://www.legislation.gov.uk/uksi/2008/1774).
 
-[^key-0fffc708bf93572ba38a6e79b90910c9]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/442/article/1) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
+[^c-0fffc708bf93572ba38a6e79b90910c9]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/442/article/1) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
 
 [^f00002]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
@@ -324,13 +324,13 @@ There are also provisions relating to the proceedings of the GOC. Its quorum is 
 
 [^f00004]: Footnote: [S.I. 1978/1908 (N.I. 27)](https://www.legislation.gov.uk/nisi/1978/1908).
 
-[^key-788e7955d990053ac6eb440434e0aa8a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/442/article/2) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
+[^c-788e7955d990053ac6eb440434e0aa8a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/442/article/2) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
 
-[^key-d4c508fd5cd52fd2fd64937e8c4235b3]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/442/article/3) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
+[^c-d4c508fd5cd52fd2fd64937e8c4235b3]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/442/article/3) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
 
-[^key-059461658663b12e887eff3f0e0392ad]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/442/article/4) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
+[^c-059461658663b12e887eff3f0e0392ad]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/442/article/4) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
 
-[^key-7aab58ad0b1cbb26c11608d1657b4f38]: Commencement: [Art. 5(a)-(g)(i)-(n)](https://www.legislation.gov.uk/uksi/2009/442/article/5/a) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
+[^c-7aab58ad0b1cbb26c11608d1657b4f38]: Commencement: [Art. 5(a)-(g)(i)-(n)](https://www.legislation.gov.uk/uksi/2009/442/article/5/a) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
 
 [^f00005]: Footnote: [1990 c.40](https://www.legislation.gov.uk/ukpga/1990/40); section 7 was repealed by the Charities and Trustee Investment (Scotland) Act [2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), Schedule 4, paragraph 7(b).
 
@@ -348,7 +348,7 @@ There are also provisions relating to the proceedings of the GOC. Its quorum is 
 
 [^f00012]: Footnote: Section 429(2) was amended by the Enterprise Act 2002, Schedule 23, paragraph 15.
 
-[^key-7c0dad1eec500d1ad3177fe8a921d49f]: Textual amendment: Words in [art. 5(h)](https://www.legislation.gov.uk/uksi/2009/442/article/5/h) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)(3)(r)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1/3/r) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-7c0dad1eec500d1ad3177fe8a921d49f]: Textual amendment: Words in [art. 5(h)](https://www.legislation.gov.uk/uksi/2009/442/article/5/h) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)(3)(r)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1/3/r) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
 [^f00013]: Footnote: [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
 
@@ -358,20 +358,20 @@ There are also provisions relating to the proceedings of the GOC. Its quorum is 
 
 [^f00016]: Footnote: A definition of “responsible officer” is included in section 30(2) of the Opticians Act 1989, which was inserted by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848).
 
-[^key-ff31d6404a2666b1d872ababeec7d636]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2009/442/article/6) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
+[^c-ff31d6404a2666b1d872ababeec7d636]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2009/442/article/6) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
 
 [^f00017]: Footnote: Inserted by [S.I. 2008/1774](https://www.legislation.gov.uk/uksi/2008/1774).
 
-[^key-26e0e4297ae8e1adc65e90db7b1ebd58]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2009/442/article/7) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
+[^c-26e0e4297ae8e1adc65e90db7b1ebd58]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2009/442/article/7) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
 
 [^f00018]: Footnote: Both these sections were inserted by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848).
 
-[^key-35fa6bc2c89215eb96dd642379dc4b75]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2009/442/article/8) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
+[^c-35fa6bc2c89215eb96dd642379dc4b75]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2009/442/article/8) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
 
-[^key-0a2d9f5e7a2b0c23c3a3571bd9ffd725]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2009/442/article/9) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
+[^c-0a2d9f5e7a2b0c23c3a3571bd9ffd725]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2009/442/article/9) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
 
-[^key-0e13d88442211cbb0d695515ccc608b4]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2009/442/article/10) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
+[^c-0e13d88442211cbb0d695515ccc608b4]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2009/442/article/10) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
 
-[^key-222f4580f4ac685dff98d8ef3d52b60e]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2009/442/article/11) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
+[^c-222f4580f4ac685dff98d8ef3d52b60e]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2009/442/article/11) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
 
-[^key-37a0ed99a5d7f35e8bc0a53c9dbeb322]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2009/442/article/12) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)
+[^c-37a0ed99a5d7f35e8bc0a53c9dbeb322]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2009/442/article/12) in force at 1.4.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/442/article/1/1/a)

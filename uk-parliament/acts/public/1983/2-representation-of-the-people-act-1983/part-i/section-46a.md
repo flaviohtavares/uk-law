@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46A (Extent: W). Further provision as to local election voting in Wales (Extent: W)[^key-36ba0cc4dda67e34325430e51010b9fa][^c14479931]
+## 46A (Extent: W). Further provision as to local election voting in Wales (Extent: W)[^c-36ba0cc4dda67e34325430e51010b9fa][^c14479931]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-36ba0cc4dda67e34325430e51010b9fa]: Textual amendment: [S. 46A](https://www.legislation.gov.uk/ukpga/1983/2/section/46A) inserted (E.W.) (6.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(6)(c)](https://www.legislation.gov.uk/asc/2021/1/section/175/6/c), [Sch. 2 para. 2(10)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/2/10)
+[^c-36ba0cc4dda67e34325430e51010b9fa]: Textual amendment: [S. 46A](https://www.legislation.gov.uk/ukpga/1983/2/section/46A) inserted (E.W.) (6.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(6)(c)](https://www.legislation.gov.uk/asc/2021/1/section/175/6/c), [Sch. 2 para. 2(10)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/2/10)
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))

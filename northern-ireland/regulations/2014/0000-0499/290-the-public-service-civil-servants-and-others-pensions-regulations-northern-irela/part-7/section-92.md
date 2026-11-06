@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 92. Claim for early payment[^key-24d8db8398b55d1b393ca11f8eca0b4f]
+## 92. Claim for early payment[^c-24d8db8398b55d1b393ca11f8eca0b4f]
 
 *Extent: N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-24d8db8398b55d1b393ca11f8eca0b4f]: Commencement: [Reg. 92](https://www.legislation.gov.uk/nisr/2014/290/regulation/92) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-24d8db8398b55d1b393ca11f8eca0b4f]: Commencement: [Reg. 92](https://www.legislation.gov.uk/nisr/2014/290/regulation/92) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00059]: Footnote: [S.R. 2000 No. 146](https://www.legislation.gov.uk/nisr/2000/146); regulation 7 was amended by [S.R. 2009 No. 115](https://www.legislation.gov.uk/nisr/2009/115)

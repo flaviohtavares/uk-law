@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Transferable members[^key-f9bc4001014fbaf29f40b4e95d8120ef]
+## 51. Transferable members[^c-f9bc4001014fbaf29f40b4e95d8120ef]
 
 *Extent: E+W+S*
 
@@ -84,4 +84,4 @@ that is a registered scheme and meets any prescribed conditions.
 
 ## Annotations
 
-[^key-f9bc4001014fbaf29f40b4e95d8120ef]: Commencement: S. 51 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-f9bc4001014fbaf29f40b4e95d8120ef]: Commencement: S. 51 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

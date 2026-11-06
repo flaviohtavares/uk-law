@@ -41,15 +41,15 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by Articles 73(3) and (4)(*a*) and 75(5)(*a*) of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-269b80a15b6876b941cbb83a9cb3fc32]
+## 1. Citation and commencement[^c-269b80a15b6876b941cbb83a9cb3fc32]
 
 These Regulations may be cited as the Social Security (Benefits for Widows and Widowers) (Consequential Amendments) Regulations (Northern Ireland) 2001 and shall come into operation on 9th April 2001.
 
-## 2. Amendment of the Social Security (Hospital In-Patients) Regulations[^key-0163b31025cc2216ac3dd97dbbf535ad]
+## 2. Amendment of the Social Security (Hospital In-Patients) Regulations[^c-0163b31025cc2216ac3dd97dbbf535ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Social Security (Credits) Regulations[^key-b1d0e9ca540ec85d66e81b65a3858e9f]
+## 3. Amendment of the Social Security (Credits) Regulations[^c-b1d0e9ca540ec85d66e81b65a3858e9f]
 
 (1) The Social Security (Credits) Regulations (Northern Ireland) 1975[^f00008] shall be amended in accordance with paragraphs (2) to (7).
 
@@ -95,7 +95,7 @@ These Regulations may be cited as the Social Security (Benefits for Widows and W
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Social Security Benefit (Dependency) Regulations[^key-879c147046cd57fef9cb64189ffb4275]
+## 5. Amendment of the Social Security Benefit (Dependency) Regulations[^c-879c147046cd57fef9cb64189ffb4275]
 
 (1) The Social Security Benefit (Dependency) Regulations (Northern Ireland) 1977[^f00021] shall be amended in accordance with paragraph (2).
 
@@ -153,7 +153,7 @@ These Regulations may be cited as the Social Security (Benefits for Widows and W
 
 .
 
-## 6. Amendment of the Social Security Benefit (Persons Abroad) Regulations[^key-a968adc00dbab972b3a0e05e8cd11a85]
+## 6. Amendment of the Social Security Benefit (Persons Abroad) Regulations[^c-a968adc00dbab972b3a0e05e8cd11a85]
 
 (1) The Social Security Benefit (Persons Abroad) Regulations (Northern Ireland) 1978[^f00027] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -190,7 +190,7 @@ These Regulations may be cited as the Social Security (Benefits for Widows and W
 
 (5) In regulation 5A(1)[^f00035] (rate of guaranteed minimum pension for certain purposes) after “additional widowed mother’s allowance” there shall be inserted “, bereavement allowance, widowed parent’s allowance”.
 
-## 7. Amendment of the Social Security (Overlapping Benefits) Regulations[^key-7337a515fc8c791440f3af25108dbf3d]
+## 7. Amendment of the Social Security (Overlapping Benefits) Regulations[^c-7337a515fc8c791440f3af25108dbf3d]
 
 (1) The Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00036] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -209,7 +209,7 @@ These Regulations may be cited as the Social Security (Benefits for Widows and W
 
 (3) In paragraph 3 of Column (1) of Schedule 1[^f00038] (personal benefits which are required to be adjusted) after “Widow’s benefit” there shall be inserted “, bereavement allowance, widowed parent’s allowance”.
 
-## 8. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations[^key-176eb19a92fff064d5e10a3e7823b852]
+## 8. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations[^c-176eb19a92fff064d5e10a3e7823b852]
 
 (1) The Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^f00039] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -278,7 +278,7 @@ These Regulations may be cited as the Social Security (Benefits for Widows and W
 
 .
 
-## 9. Amendment of the Social Security (General Benefit) Regulations[^key-7ca4b055b68e7700a90fdd688609711c]
+## 9. Amendment of the Social Security (General Benefit) Regulations[^c-7ca4b055b68e7700a90fdd688609711c]
 
 (1) The Social Security (General Benefit) Regulations (Northern Ireland) 1984[^f00045] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -290,7 +290,7 @@ These Regulations may be cited as the Social Security (Benefits for Widows and W
 
 (3) In regulation 2(2)[^f00046] (which provides that a person is not to be disqualified for receiving certain benefits in cases of imprisonment or detention pending criminal proceedings unless a penalty is imposed in respect of such proceedings) after “widow’s benefit,” there shall be inserted “bereavement benefit,”.
 
-## 10. Amendment of the Social Security (Claims and Payments) Regulations[^key-8bd6e808b4407917625224bd65cda816]
+## 10. Amendment of the Social Security (Claims and Payments) Regulations[^c-8bd6e808b4407917625224bd65cda816]
 
 (1)[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f] The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f][^f00047] shall be amended in accordance with paragraphs (2) to (7). *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
 
@@ -318,9 +318,9 @@ These Regulations may be cited as the Social Security (Benefits for Widows and W
   > - (iv (affected by repeal, see note))[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f] bereavement benefit; *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
 
   ;
-- (b)[^key-1dc7a30cbebfc387ba05634cb61d4050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-1dc7a30cbebfc387ba05634cb61d4050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-197cdcdb6c801b64ecb9c705fbf34ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-197cdcdb6c801b64ecb9c705fbf34ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In Schedule 1, in the Table in Part I *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f][^f00051] (benefit claimed and other benefit which may be treated as if claimed in addition or in the alternative)— *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
 
@@ -338,14 +338,14 @@ These Regulations may be cited as the Social Security (Benefits for Widows and W
   >   immediately before becoming entitled to a retirement pension, that pension shall be payable on Tuesdays; *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
 
   ;
-- (b)[^key-36dc731155b822c20d6674e43145c266] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-36dc731155b822c20d6674e43145c266] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In Schedule 7 *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f][^f00052] (manner and time of payment and commencement of entitlement in income support cases)— *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
 
 - (a) in paragraph 2( *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]*c*), after “widow’s benefit” there shall be inserted “or bereavement benefit”; *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
 - (b) in paragraph 4 *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f][^f00053], in the definition of “relevant social security benefit” after “retirement pension” there shall be inserted “, bereavement benefit”. *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
 
-## 11. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^key-53be3c7f29c6438a113bc9f0633030dd]
+## 11. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^c-53be3c7f29c6438a113bc9f0633030dd]
 
 (1)[^M_F_6b3ab562-94c0-4b1e-ff30-6e5420f6ff4e] The Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988 *(affected by repeal, see note)*[^M_F_6b3ab562-94c0-4b1e-ff30-6e5420f6ff4e][^f00054] shall be amended in accordance with paragraphs (2) and (3). *(affected by repeal, see note)*[^M_F_6b3ab562-94c0-4b1e-ff30-6e5420f6ff4e]
 
@@ -362,7 +362,7 @@ These Regulations may be cited as the Social Security (Benefits for Widows and W
 
 .
 
-## 12. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-a85e51e40b3e95d00f2350605ca98ceb]
+## 12. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-a85e51e40b3e95d00f2350605ca98ceb]
 
 (1) The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00058] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -401,11 +401,11 @@ Article 2(3)(*a*) of the [Welfare Reform and Pensions (1999 Order) (Commencement
 
 [^f00002]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-269b80a15b6876b941cbb83a9cb3fc32]: Commencement: Reg. 1 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
+[^c-269b80a15b6876b941cbb83a9cb3fc32]: Commencement: Reg. 1 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
 
-[^key-0163b31025cc2216ac3dd97dbbf535ad]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/108/regulation/2) revoked (coming into operation in accordance with reg. 1(1)(d) of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
+[^c-0163b31025cc2216ac3dd97dbbf535ad]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/108/regulation/2) revoked (coming into operation in accordance with reg. 1(1)(d) of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
 
-[^key-b1d0e9ca540ec85d66e81b65a3858e9f]: Commencement: Reg. 3 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
+[^c-b1d0e9ca540ec85d66e81b65a3858e9f]: Commencement: Reg. 3 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
 
 [^f00008]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); relevant amending regulations are [S.R. 1976 No. 99](https://www.legislation.gov.uk/nisr/1976/99), [S.R. 1987 No.153](https://www.legislation.gov.uk/nisr/1987/153), [S.R. 1988 No. 326](https://www.legislation.gov.uk/nisr/1988/326), [S.R. 1995 Nos. 150](https://www.legislation.gov.uk/nisr/1995/150) and [479](https://www.legislation.gov.uk/nisr/1995/479), [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430) and [S.R. 1999 No. 385](https://www.legislation.gov.uk/nisr/1999/385)
 
@@ -433,7 +433,7 @@ Article 2(3)(*a*) of the [Welfare Reform and Pensions (1999 Order) (Commencement
 
 [^M_F_164467e5-e70e-4095-ff83-6e6bf630cdcd]: Textual amendment: Reg. 4 revoked (10.4.2006) by [The Child Benefit (Rates) Regulations 2006 (S.I. 2006/965)](https://www.legislation.gov.uk/uksi/2006/965), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/965/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/965/regulation/4)
 
-[^key-879c147046cd57fef9cb64189ffb4275]: Commencement: Reg. 5 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
+[^c-879c147046cd57fef9cb64189ffb4275]: Commencement: Reg. 5 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
 
 [^f00021]: Footnote: [S.R. 1977 No. 74](https://www.legislation.gov.uk/nisr/1977/74); relevant amending regulations are [S.R. 1980 No. 144](https://www.legislation.gov.uk/nisr/1980/144), [S.R. 1984 No. 373](https://www.legislation.gov.uk/nisr/1984/373), [S.R. 1987 No. 129](https://www.legislation.gov.uk/nisr/1987/129), [S.R. 1988 No. 138](https://www.legislation.gov.uk/nisr/1988/138), [S.R. 1989 No. 103](https://www.legislation.gov.uk/nisr/1989/103) and [S.R. 1992 No. 521](https://www.legislation.gov.uk/nisr/1992/521)
 
@@ -447,7 +447,7 @@ Article 2(3)(*a*) of the [Welfare Reform and Pensions (1999 Order) (Commencement
 
 [^f00026]: Footnote: [S.R. 1979 No. 5](https://www.legislation.gov.uk/nisr/1979/5); regulation 7 was substituted by regulation 3 of [S.R. 1980 No. 261](https://www.legislation.gov.uk/nisr/1980/261) and amended by regulation 2 of [S.R. 1982 No. 114](https://www.legislation.gov.uk/nisr/1982/114), regulation 4 of [S.R. 1987 No. 130](https://www.legislation.gov.uk/nisr/1987/130) and regulation 4 of [S.R. 1988 No. 273](https://www.legislation.gov.uk/nisr/1988/273); regulations 9 and 9A were substituted by regulation 2 of [S.R. 2000 No. 361](https://www.legislation.gov.uk/nisr/2000/361) and regulation 9C was inserted by regulation 3 of [S.R. 1989 No. 102](https://www.legislation.gov.uk/nisr/1989/102)
 
-[^key-a968adc00dbab972b3a0e05e8cd11a85]: Commencement: Reg. 6 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
+[^c-a968adc00dbab972b3a0e05e8cd11a85]: Commencement: Reg. 6 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
 
 [^f00027]: Footnote: [S.R. 1978 No. 114](https://www.legislation.gov.uk/nisr/1978/114); relevant amending regulations are [S.R. 1981 No. 278](https://www.legislation.gov.uk/nisr/1981/278), [S.R. 1988 No. 77](https://www.legislation.gov.uk/nisr/1988/77), [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373), [S.R. 1990 No. 123](https://www.legislation.gov.uk/nisr/1990/123) and [S.R. 1992 Nos. 330](https://www.legislation.gov.uk/nisr/1992/330) and [453](https://www.legislation.gov.uk/nisr/1992/453)
 
@@ -467,7 +467,7 @@ Article 2(3)(*a*) of the [Welfare Reform and Pensions (1999 Order) (Commencement
 
 [^f00035]: Footnote: Regulation 5A was inserted by regulation 2(3) of [S.R. 1990 No. 123](https://www.legislation.gov.uk/nisr/1990/123)
 
-[^key-7337a515fc8c791440f3af25108dbf3d]: Commencement: Reg. 7 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
+[^c-7337a515fc8c791440f3af25108dbf3d]: Commencement: Reg. 7 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
 
 [^f00036]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242); relevant amending regulations are [S.R. 1983 No. 36](https://www.legislation.gov.uk/nisr/1983/36) and [S.R. 1992 No. 557](https://www.legislation.gov.uk/nisr/1992/557)
 
@@ -475,7 +475,7 @@ Article 2(3)(*a*) of the [Welfare Reform and Pensions (1999 Order) (Commencement
 
 [^f00038]: Footnote: Paragraph 3 was amended by regulation 12(3)(*a*) of [S.R. 1983 No. 36](https://www.legislation.gov.uk/nisr/1983/36)
 
-[^key-176eb19a92fff064d5e10a3e7823b852]: Commencement: Reg. 8 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
+[^c-176eb19a92fff064d5e10a3e7823b852]: Commencement: Reg. 8 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
 
 [^f00039]: Footnote: [S.R. 1979 No. 243](https://www.legislation.gov.uk/nisr/1979/243), relevant amending regulations are [S.R. 1990 No. 452](https://www.legislation.gov.uk/nisr/1990/452)
 
@@ -489,13 +489,13 @@ Article 2(3)(*a*) of the [Welfare Reform and Pensions (1999 Order) (Commencement
 
 [^f00044]: Footnote: Section 71 was amended by paragraph 32 of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995
 
-[^key-7ca4b055b68e7700a90fdd688609711c]: Commencement: Reg. 9 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
+[^c-7ca4b055b68e7700a90fdd688609711c]: Commencement: Reg. 9 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
 
 [^f00045]: Footnote: [S.R. 1984 No. 92](https://www.legislation.gov.uk/nisr/1984/92); relevant amending regulations are [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317), [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and [S.R. 1996 No. 57](https://www.legislation.gov.uk/nisr/1996/57)
 
 [^f00046]: Footnote: Regulation 2(2) was amended by regulation 11 of, and Schedule 2 to, [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317), regulation 7(3) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), regulation 16 of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and regulation 2(*a*) of [S.R. 1996 No. 57](https://www.legislation.gov.uk/nisr/1996/57)
 
-[^key-8bd6e808b4407917625224bd65cda816]: Commencement: Reg. 10 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
+[^c-8bd6e808b4407917625224bd65cda816]: Commencement: Reg. 10 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
 
 [^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]: Textual amendment: Reg. 10 revoked for specified purposes (7.4.2003) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
@@ -505,19 +505,19 @@ Article 2(3)(*a*) of the [Welfare Reform and Pensions (1999 Order) (Commencement
 
 [^f00049]: Footnote: The definition of “long term benefits” was amended by regulation 2(2) of [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7) and regulation 2 of [S.R. 1999 No. 365](https://www.legislation.gov.uk/nisr/1999/365)
 
-[^key-1dc7a30cbebfc387ba05634cb61d4050]: Textual amendment: [Reg. 10(3)(b)](https://www.legislation.gov.uk/nisr/2001/108/regulation/10/3/b) revoked (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/218)](https://www.legislation.gov.uk/nisr/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/218/regulation/1/1), [18](https://www.legislation.gov.uk/nisr/2017/218/regulation/18)
+[^c-1dc7a30cbebfc387ba05634cb61d4050]: Textual amendment: [Reg. 10(3)(b)](https://www.legislation.gov.uk/nisr/2001/108/regulation/10/3/b) revoked (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/218)](https://www.legislation.gov.uk/nisr/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/218/regulation/1/1), [18](https://www.legislation.gov.uk/nisr/2017/218/regulation/18)
 
-[^key-197cdcdb6c801b64ecb9c705fbf34ced]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/nisr/2001/108/regulation/10/4) revoked (11.4.2005) by [The Social Security (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 2005 (S.R. 2005/139)](https://www.legislation.gov.uk/nisr/2005/139), [regs. 1](https://www.legislation.gov.uk/nisr/2005/139/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/139/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2005/139/schedule)
+[^c-197cdcdb6c801b64ecb9c705fbf34ced]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/nisr/2001/108/regulation/10/4) revoked (11.4.2005) by [The Social Security (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 2005 (S.R. 2005/139)](https://www.legislation.gov.uk/nisr/2005/139), [regs. 1](https://www.legislation.gov.uk/nisr/2005/139/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/139/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2005/139/schedule)
 
 [^f00051]: Footnote: The Table in Part I of Schedule 1 was substituted by Schedule 1 to [S.R. 1994 No. 456](https://www.legislation.gov.uk/nisr/1994/456) and amended by regulation 2(19) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354)
 
-[^key-36dc731155b822c20d6674e43145c266]: Textual amendment: [Reg. 10(6)(b)](https://www.legislation.gov.uk/nisr/2001/108/regulation/10/6/b) revoked (6.4.2009) by [The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/107)](https://www.legislation.gov.uk/nisr/2009/107), [reg. 1](https://www.legislation.gov.uk/nisr/2009/107/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/107/schedule)
+[^c-36dc731155b822c20d6674e43145c266]: Textual amendment: [Reg. 10(6)(b)](https://www.legislation.gov.uk/nisr/2001/108/regulation/10/6/b) revoked (6.4.2009) by [The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/107)](https://www.legislation.gov.uk/nisr/2009/107), [reg. 1](https://www.legislation.gov.uk/nisr/2009/107/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/107/schedule)
 
 [^f00052]: Footnote: The heading to Schedule 7 was amended by Article 9(12)(*a*) of [S.R. 1999 No. 472(C. 36)](https://www.legislation.gov.uk/nisr/1999/472) and regulation 3(5)(*a*) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
 
 [^f00053]: Footnote: Paragraph 4 was amended by regulation 10(*b*) of [S.R. 1988 No. 141](https://www.legislation.gov.uk/nisr/1988/141), regulation 2(15)(*c*) of [S.R. 1994 No. 456](https://www.legislation.gov.uk/nisr/1994/456) and regulation 2(24)(*b*) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354)
 
-[^key-53be3c7f29c6438a113bc9f0633030dd]: Commencement: Reg. 11 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
+[^c-53be3c7f29c6438a113bc9f0633030dd]: Commencement: Reg. 11 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
 
 [^M_F_6b3ab562-94c0-4b1e-ff30-6e5420f6ff4e]: Textual amendment: Reg. 11 revoked for specified purposes (7.4.2003) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
@@ -529,7 +529,7 @@ Article 2(3)(*a*) of the [Welfare Reform and Pensions (1999 Order) (Commencement
 
 [^f00057]: Footnote: Regulation 8(1) was amended by regulation 14(4) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6)
 
-[^key-a85e51e40b3e95d00f2350605ca98ceb]: Commencement: Reg. 12 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
+[^c-a85e51e40b3e95d00f2350605ca98ceb]: Commencement: Reg. 12 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
 
 [^f00058]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending regulations are [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
 

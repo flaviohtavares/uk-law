@@ -47,11 +47,11 @@ Coming into force
 
 The Minister for the Cabinet Office is designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to public procurement and makes these Regulations in exercise of the powers conferred by that section.
 
-## 1. Citation and commencement[^key-2555822712dc7a44652b12fd9d0b1070]
+## 1. Citation and commencement[^c-2555822712dc7a44652b12fd9d0b1070]
 
 These Regulations may be cited as the Public Contracts and Defence and Security Public Contracts (Croatia Accession Amendments) Regulations 2013 and come into force on 1st July 2013.
 
-## 2. Amendment of Schedule 6 to the Public Contracts Regulations 2006 (Professional or Trade Registers)[^key-a53d7be382d7313cec67a4b7a94d6b05]
+## 2. Amendment of Schedule 6 to the Public Contracts Regulations 2006 (Professional or Trade Registers)[^c-a53d7be382d7313cec67a4b7a94d6b05]
 
 (1) Schedule 6 to the Public Contracts Regulations 2006[^f00003] is amended as follows.
 
@@ -69,7 +69,7 @@ These Regulations may be cited as the Public Contracts and Defence and Security 
 
 .
 
-## 3. Amendment of Schedule 3 to the Defence and Security Public Contracts Regulations 2011 (Professional or Trade Registers)[^key-2587b4d0f74b9799adf144c670bf48e0][^key-51f775228aea307229c9f8eb9943febf]
+## 3. Amendment of Schedule 3 to the Defence and Security Public Contracts Regulations 2011 (Professional or Trade Registers)[^c-2587b4d0f74b9799adf144c670bf48e0][^c-51f775228aea307229c9f8eb9943febf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -101,14 +101,14 @@ A Transposition Note is attached to the Explanatory Memorandum which is availabl
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-2555822712dc7a44652b12fd9d0b1070]: Commencement: Reg. 1 in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1431/regulation/1)
+[^c-2555822712dc7a44652b12fd9d0b1070]: Commencement: Reg. 1 in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1431/regulation/1)
 
-[^key-a53d7be382d7313cec67a4b7a94d6b05]: Commencement: Reg. 2 in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1431/regulation/1)
+[^c-a53d7be382d7313cec67a4b7a94d6b05]: Commencement: Reg. 2 in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1431/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2006/5](https://www.legislation.gov.uk/uksi/2006/5); amended by [S.I. 2007/3542](https://www.legislation.gov.uk/uksi/2007/3542); there are other amending instruments but none is relevant.
 
-[^key-2587b4d0f74b9799adf144c670bf48e0]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/1431/regulation/3) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
+[^c-2587b4d0f74b9799adf144c670bf48e0]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/1431/regulation/3) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
 
-[^key-51f775228aea307229c9f8eb9943febf]: Commencement: Reg. 3 in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1431/regulation/1)
+[^c-51f775228aea307229c9f8eb9943febf]: Commencement: Reg. 3 in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1431/regulation/1)
 
 [^f00005]: Footnote: Article 3(3) of the Treaty concerning the accession of the Republic of Croatia to the European Union (OJ No L 112 24.4.2012, p.10).

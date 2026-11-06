@@ -32,7 +32,7 @@ summary: ''
 
 County Courts, England And Wales
 
-The Allocation and Transfer of Proceedings (Amendment) Order 2011 (revoked)[^key-6ac3e01ed4862c72bf22ded1191b8bd6]
+The Allocation and Transfer of Proceedings (Amendment) Order 2011 (revoked)[^c-6ac3e01ed4862c72bf22ded1191b8bd6]
 
 Made
 
@@ -44,27 +44,27 @@ Laid before Parliament
 
 Coming into force in accordance with article 1
 
-[^key-6ac3e01ed4862c72bf22ded1191b8bd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6ac3e01ed4862c72bf22ded1191b8bd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6ac3e01ed4862c72bf22ded1191b8bd6]
+## 1. Citation and commencement[^c-6ac3e01ed4862c72bf22ded1191b8bd6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation of jurisdiction[^key-6ac3e01ed4862c72bf22ded1191b8bd6]
+## 2. Revocation of jurisdiction[^c-6ac3e01ed4862c72bf22ded1191b8bd6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Allocation and Transfer of Proceedings Order 2008[^key-6ac3e01ed4862c72bf22ded1191b8bd6]
+## 3. Amendments to the Allocation and Transfer of Proceedings Order 2008[^c-6ac3e01ed4862c72bf22ded1191b8bd6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6ac3e01ed4862c72bf22ded1191b8bd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6ac3e01ed4862c72bf22ded1191b8bd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — County Courts which cease to be a family hearing centre[^key-6ac3e01ed4862c72bf22ded1191b8bd6]
+## SCHEDULE — County Courts which cease to be a family hearing centre[^c-6ac3e01ed4862c72bf22ded1191b8bd6]
 
 Article 2
 
@@ -72,8 +72,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-6ac3e01ed4862c72bf22ded1191b8bd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6ac3e01ed4862c72bf22ded1191b8bd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6ac3e01ed4862c72bf22ded1191b8bd6]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1460) revoked (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/879/schedule)
+[^c-6ac3e01ed4862c72bf22ded1191b8bd6]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1460) revoked (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/879/schedule)

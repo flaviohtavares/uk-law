@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Disclosing information to prospective adopters[^key-7d6865b105a4537ec9c64d5e45a916de]
+## 53. Disclosing information to prospective adopters[^c-7d6865b105a4537ec9c64d5e45a916de]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Regulations under section 9 may require adoption agencies in prescribed circumst
 
 ## Annotations
 
-[^key-7d6865b105a4537ec9c64d5e45a916de]: Commencement: S. 53 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-7d6865b105a4537ec9c64d5e45a916de]: Commencement: S. 53 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

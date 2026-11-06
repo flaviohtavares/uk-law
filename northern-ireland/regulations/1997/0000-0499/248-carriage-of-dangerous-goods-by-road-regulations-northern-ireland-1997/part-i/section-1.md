@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-4aa38666843c94803a7922d8b4aaefce]
+## 1. Citation and commencement[^c-4aa38666843c94803a7922d8b4aaefce]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ These Regulations may be cited as the Carriage of Dangerous Goods by Road Regula
 
 ## Annotations
 
-[^key-4aa38666843c94803a7922d8b4aaefce]: Commencement: Reg. 1 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-4aa38666843c94803a7922d8b4aaefce]: Commencement: Reg. 1 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

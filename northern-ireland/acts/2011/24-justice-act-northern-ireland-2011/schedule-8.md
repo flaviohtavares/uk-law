@@ -22,13 +22,13 @@ summary: ''
 
 Section 110.
 
-### PART 1 — VULNERABLE AND INTIMIDATED WITNESSES[^key-3195e11a96412baaf3d87e94b6ef361f]
+### PART 1 — VULNERABLE AND INTIMIDATED WITNESSES[^c-3195e11a96412baaf3d87e94b6ef361f]
 
 | Short Title | Extent of repeal |
 | --- | --- |
 | The Criminal Evidence (Northern Ireland) Order 1999 (NI 8) | Article 9(1)(b).<br>In Article 9(4) the “and” at the end of sub-paragraph (b).<br>Article 9(5) to (7).<br>Article 10(1)(b).<br>In Article 15(7)(a) the words from “if there” to “relevant time,”.<br>Article 15(8).<br>In Article 15(9) the words from “and if” to the end. |
 
-### PART 2 — POLICING AND COMMUNITY SAFETY PARTNERSHIPS[^key-361377453ebd8635b80940983b45860f]
+### PART 2 — POLICING AND COMMUNITY SAFETY PARTNERSHIPS[^c-361377453ebd8635b80940983b45860f]
 
 | Short Title | Extent of repeal |
 | --- | --- |
@@ -74,8 +74,8 @@ Section 110.
 
 ## Annotations
 
-[^key-3195e11a96412baaf3d87e94b6ef361f]: Commencement: [Sch. 8 Pt. 1](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/1) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(i)](https://www.legislation.gov.uk/nisr/2011/370/article/3/i)
+[^c-3195e11a96412baaf3d87e94b6ef361f]: Commencement: [Sch. 8 Pt. 1](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/1) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(i)](https://www.legislation.gov.uk/nisr/2011/370/article/3/i)
 
-[^key-361377453ebd8635b80940983b45860f]: Commencement: [Sch. 8 Pt. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/2) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(e)](https://www.legislation.gov.uk/nisr/2012/142/article/2/e)
+[^c-361377453ebd8635b80940983b45860f]: Commencement: [Sch. 8 Pt. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/2) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(e)](https://www.legislation.gov.uk/nisr/2012/142/article/2/e)
 
 [^c20880161]: Commencement: [Sch. 8 Pt. 5](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/5) wholly in operation at 5.7.2011; [Sch. 8 Pt. 5](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/5) in operation at 5.5.2011 for specified purposes see [s. 111(1)(i)](https://www.legislation.gov.uk/nia/2011/24/section/111/1/i); [Sch. 8 Pt. 5](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/5) in operation at 5.7.2011 for further specified purposes see [s. 111(2)(d)](https://www.legislation.gov.uk/nia/2011/24/section/111/2/d); [Sch. 8 Pt. 5](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/5) in operation for specified purposes at 5.7.2011 by [S.R. 2011/224](https://www.legislation.gov.uk/nisr/2011/224), [art. 2(k)](https://www.legislation.gov.uk/nisr/2011/224/article/2/k)

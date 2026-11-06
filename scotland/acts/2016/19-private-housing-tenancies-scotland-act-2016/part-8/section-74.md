@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Consequential modifications[^key-eea7ba104502a53259f43451402c093c]
+## 74. Consequential modifications[^c-eea7ba104502a53259f43451402c093c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 4 modifies other enactments in consequence of this Act.
 
 ## Annotations
 
-[^key-eea7ba104502a53259f43451402c093c]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2016/19/section/74) in force at 1.12.2017 for specified purposes by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-eea7ba104502a53259f43451402c093c]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2016/19/section/74) in force at 1.12.2017 for specified purposes by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Annual rate of ill-health pension[^key-f18cc2ea67ec5191ec876fb4be1ae3bc]
+## 69. Annual rate of ill-health pension[^c-f18cc2ea67ec5191ec876fb4be1ae3bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f18cc2ea67ec5191ec876fb4be1ae3bc]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2015/182/regulation/69) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-f18cc2ea67ec5191ec876fb4be1ae3bc]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2015/182/regulation/69) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

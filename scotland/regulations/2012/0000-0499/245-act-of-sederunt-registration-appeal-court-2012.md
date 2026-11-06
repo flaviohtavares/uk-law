@@ -31,7 +31,7 @@ summary: ''
 
 Court Of Session
 
-Act of Sederunt (Registration Appeal Court) 2012 (revoked)[^key-68edf122d6d9bb85721f0299a014fd1a]
+Act of Sederunt (Registration Appeal Court) 2012 (revoked)[^c-68edf122d6d9bb85721f0299a014fd1a]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1st October 2012
 
-[^key-68edf122d6d9bb85721f0299a014fd1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68edf122d6d9bb85721f0299a014fd1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-68edf122d6d9bb85721f0299a014fd1a]
+## 1. Citation and commencement[^c-68edf122d6d9bb85721f0299a014fd1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Registration Appeal Court[^key-68edf122d6d9bb85721f0299a014fd1a]
+## 2. Registration Appeal Court[^c-68edf122d6d9bb85721f0299a014fd1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-68edf122d6d9bb85721f0299a014fd1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68edf122d6d9bb85721f0299a014fd1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-68edf122d6d9bb85721f0299a014fd1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68edf122d6d9bb85721f0299a014fd1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-68edf122d6d9bb85721f0299a014fd1a]: Textual amendment: [Instrument](https://www.legislation.gov.uk/ssi/2012/245) revoked (19.8.2013) by [Act of Sederunt (Registration Appeal Court) 2013 (S.S.I. 2013/236)](https://www.legislation.gov.uk/ssi/2013/236), [para. 2(2)](https://www.legislation.gov.uk/ssi/2013/236/paragraph/2)
+[^c-68edf122d6d9bb85721f0299a014fd1a]: Textual amendment: [Instrument](https://www.legislation.gov.uk/ssi/2012/245) revoked (19.8.2013) by [Act of Sederunt (Registration Appeal Court) 2013 (S.S.I. 2013/236)](https://www.legislation.gov.uk/ssi/2013/236), [para. 2(2)](https://www.legislation.gov.uk/ssi/2013/236/paragraph/2)

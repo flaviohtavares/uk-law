@@ -79,7 +79,7 @@ The Committee shall publish a statement, and may from time to time amend the sta
 
 ### 4. Non-United Kingdom Qualifications
 
-(1)[^key-f0ce7d3c35c5173561d428ab0bb31bd2] A person who—
+(1)[^c-f0ce7d3c35c5173561d428ab0bb31bd2] A person who—
 
 - (a) has obtained a qualification in osteopathy outside the United Kingdom;
 - (b) does not hold a recognised qualification [^c16364801]; but
@@ -87,7 +87,7 @@ The Committee shall publish a statement, and may from time to time amend the sta
 
 shall be treated as holding a recognised qualification for the purposes of the Act.
 
-(2)[^key-988f39afbbbddb0fc4eb806ae5f7c358] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-988f39afbbbddb0fc4eb806ae5f7c358] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Given under the official seal of the General Osteopathic Council this 19th day of April Two Thousand.
 
@@ -105,8 +105,8 @@ providing for a person with a qualification in osteopathy obtained outside the U
 
 [^c16364791]: Marginal citation: [1993 c. 21](https://www.legislation.gov.uk/ukpga/1993/21).
 
-[^key-f0ce7d3c35c5173561d428ab0bb31bd2]: Textual amendment: Sch. rule 4 renumbered as Sch. rule 4(1) (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [217(a)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/217/a)
+[^c-f0ce7d3c35c5173561d428ab0bb31bd2]: Textual amendment: Sch. rule 4 renumbered as Sch. rule 4(1) (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [217(a)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/217/a)
 
 [^c16364801]: Marginal citation: See section 14 of the Act. Section 14(10) provides for persons with Community rights.
 
-[^key-988f39afbbbddb0fc4eb806ae5f7c358]: Textual amendment: [Sch. rule 4(2)](https://www.legislation.gov.uk/uksi/2000/1281/schedule/rule/4/2) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 14](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/14) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-988f39afbbbddb0fc4eb806ae5f7c358]: Textual amendment: [Sch. rule 4(2)](https://www.legislation.gov.uk/uksi/2000/1281/schedule/rule/4/2) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 14](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/14) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

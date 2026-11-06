@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Reviewing code compliance: elected local policing bodies[^key-be526d97fb278e779f015ce02ab8e017]
+## 8. Reviewing code compliance: elected local policing bodies[^c-be526d97fb278e779f015ce02ab8e017]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be526d97fb278e779f015ce02ab8e017]: Commencement: S. 8 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-be526d97fb278e779f015ce02ab8e017]: Commencement: S. 8 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

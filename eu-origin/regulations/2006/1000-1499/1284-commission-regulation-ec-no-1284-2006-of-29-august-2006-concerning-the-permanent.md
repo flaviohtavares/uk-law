@@ -37,30 +37,30 @@ concerning the permanent authorisations of certain additives in feedingstuffs
 
 (Text with EEA relevance) (revoked)
 
-[^key-a05a4f7cfc26ec48cd8fdce43a925093]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a05a4f7cfc26ec48cd8fdce43a925093]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-a05a4f7cfc26ec48cd8fdce43a925093] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a05a4f7cfc26ec48cd8fdce43a925093] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a05a4f7cfc26ec48cd8fdce43a925093] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a05a4f7cfc26ec48cd8fdce43a925093] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-a05a4f7cfc26ec48cd8fdce43a925093] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-a05a4f7cfc26ec48cd8fdce43a925093] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-a05a4f7cfc26ec48cd8fdce43a925093] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-a05a4f7cfc26ec48cd8fdce43a925093] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a05a4f7cfc26ec48cd8fdce43a925093]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a05a4f7cfc26ec48cd8fdce43a925093]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I[^key-a05a4f7cfc26ec48cd8fdce43a925093]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX II[^key-a05a4f7cfc26ec48cd8fdce43a925093]
+## ANNEX I[^c-a05a4f7cfc26ec48cd8fdce43a925093]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-a05a4f7cfc26ec48cd8fdce43a925093]
+## ANNEX II[^c-a05a4f7cfc26ec48cd8fdce43a925093]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III[^c-a05a4f7cfc26ec48cd8fdce43a925093]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a05a4f7cfc26ec48cd8fdce43a925093]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 13](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/13) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-a05a4f7cfc26ec48cd8fdce43a925093]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 13](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/13) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

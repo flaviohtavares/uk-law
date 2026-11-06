@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Release on conditions[^key-b92cb80e21b719f99c2be5cfa25dc005]
+## 16. Release on conditions[^c-b92cb80e21b719f99c2be5cfa25dc005]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b92cb80e21b719f99c2be5cfa25dc005]: Commencement: S. 16 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
+[^c-b92cb80e21b719f99c2be5cfa25dc005]: Commencement: S. 16 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))

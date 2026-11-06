@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.51. Application for appointment of interim receiver[^key-661032e35aee5a0ff6bc84656e735e61]
+## 6.51. Application for appointment of interim receiver[^c-661032e35aee5a0ff6bc84656e735e61]
 
 *Extent: E+W*
 
-(1)[^key-3e2ea6c158f4e93675d44ca03f7d451b] An application to the court for the appointment of an interim receiver under section 286 may be made by—
+(1)[^c-3e2ea6c158f4e93675d44ca03f7d451b] An application to the court for the appointment of an interim receiver under section 286 may be made by—
 
 - (a) a creditor;
 - (b) the debtor;
@@ -47,6 +47,6 @@ If, in any case where a copy of the application is to be sent to a person under 
 
 ## Annotations
 
-[^key-661032e35aee5a0ff6bc84656e735e61]: Commencement: [Rule 6.51](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.51) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-661032e35aee5a0ff6bc84656e735e61]: Commencement: [Rule 6.51](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.51) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-3e2ea6c158f4e93675d44ca03f7d451b]: Textual amendment: Rule 6.51(1) substituted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/article/1), [8(4)](https://www.legislation.gov.uk/uksi/2002/1307/rule/8/4) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))
+[^c-3e2ea6c158f4e93675d44ca03f7d451b]: Textual amendment: Rule 6.51(1) substituted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/article/1), [8(4)](https://www.legislation.gov.uk/uksi/2002/1307/rule/8/4) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))

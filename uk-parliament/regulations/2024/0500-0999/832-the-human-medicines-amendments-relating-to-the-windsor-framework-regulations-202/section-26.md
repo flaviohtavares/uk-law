@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Amendment to regulation 49[^key-ac9de7768d341b7d54993735caf2d37e]
+## 26. Amendment to regulation 49[^c-ac9de7768d341b7d54993735caf2d37e]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ In regulation 49 (application for grant of UK marketing authorisation or paralle
 
 ## Annotations
 
-[^key-ac9de7768d341b7d54993735caf2d37e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2024/832/regulation/26) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-ac9de7768d341b7d54993735caf2d37e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2024/832/regulation/26) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00037]: Footnote: The heading to regulation 49 was amended and paragraph (1) substituted by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878); paragraph (3) was substituted by, and paragraphs (1A) and (9) inserted by, [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488); paragraph (3)(a) was substituted by, and paragraph (3)(b) amended by, [S.I. 2023/437](https://www.legislation.gov.uk/uksi/2023/437).

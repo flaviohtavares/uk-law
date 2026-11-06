@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Approval of individuals responsible for key functions[^key-2ee1f5eb340dcaa44a6d83ba4e8f2513]
+## 78. Approval of individuals responsible for key functions[^c-2ee1f5eb340dcaa44a6d83ba4e8f2513]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ee1f5eb340dcaa44a6d83ba4e8f2513]: Commencement: S. 78 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-2ee1f5eb340dcaa44a6d83ba4e8f2513]: Commencement: S. 78 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

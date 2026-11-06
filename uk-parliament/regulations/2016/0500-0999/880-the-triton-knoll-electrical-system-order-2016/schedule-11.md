@@ -22,7 +22,7 @@ summary: ''
 
 Article 38
 
-### 1. Interpretation[^key-c7d344b6963fa4edf0e6f0f863ad509d]
+### 1. Interpretation[^c-c7d344b6963fa4edf0e6f0f863ad509d]
 
 In this Schedule—
 
@@ -30,14 +30,14 @@ In this Schedule—
 - “business day” means a day other than Saturday or Sunday which is not Christmas Day, Good Friday or a bank holiday under section 1 of the Banking and Financial Dealings Act 1971[^f00055];
 - “requirement consultee” means a person named in a Requirement as a person to be consulted by the relevant planning authority in discharging the Requirement;
 
-### 2. Applications made under Requirements[^key-091b0b7a97d842c452d9d7c274f23cdc]
+### 2. Applications made under Requirements[^c-091b0b7a97d842c452d9d7c274f23cdc]
 
 Where an application has been made to the relevant planning authority for any consent, agreement or approval required under a Requirement, the relevant planning authority must give notice to the undertaker of its decision on the application including the reasons within a period of 8 weeks beginning with—
 
 - (a) the day immediately following that on which the application is received by the authority; or
 - (b) such longer period as may be agreed by the undertaker and the relevant planning authority.
 
-### 3. Further information[^key-058c97fb19d238557122176347f6382b]
+### 3. Further information[^c-058c97fb19d238557122176347f6382b]
 
 (1) Where an application has been made under paragraph 2, the relevant planning authority may request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -55,7 +55,7 @@ the relevant planning authority must, notify the undertaker in writing specifyin
 
 (4) If the relevant planning authority does not give the notifications specified in sub-paragraph (2) or (3), it is deemed to have sufficient information to consider the application and is not thereafter entitled to request further information without the prior agreement of the undertaker.
 
-### 4. Appeals[^key-b2f59a554a096c82c38a7159e297a6de]
+### 4. Appeals[^c-b2f59a554a096c82c38a7159e297a6de]
 
 (1) The undertaker may appeal if the relevant planning authority—
 
@@ -64,7 +64,7 @@ the relevant planning authority must, notify the undertaker in writing specifyin
 
 (2) An appeal must be made within 42 business days following the occurrence of any of the events in sub-paragraph (1)(a) and (b).
 
-### 5. Appeal process[^key-f95a8c91e54c63ac81c33a6fa38fc7d2]
+### 5. Appeal process[^c-f95a8c91e54c63ac81c33a6fa38fc7d2]
 
 (1) Any appeal under this Schedule must take place by written representations only, and the appeal process is as follows—
 
@@ -109,7 +109,7 @@ the relevant planning authority must, notify the undertaker in writing specifyin
 
 (14) In considering whether to give a direction under sub-paragraph (13) and the terms on which to give it, the appointed person must have regard to the Planning Practice Guidance issued by the Department for Communities and Local Government or any circular or guidance which may from time to time replace it.
 
-### 6. Fees[^key-13a27daf464d71c2657787b96a6a8b6a]
+### 6. Fees[^c-13a27daf464d71c2657787b96a6a8b6a]
 
 (1) Where an application is made to the relevant planning authority for agreement or approval in respect of a Requirement or any defined stage within that Requirement, a fee of £97 must be paid to it.
 
@@ -122,16 +122,16 @@ unless within the period of 4 weeks the undertaker agrees in writing that the fe
 
 ## Annotations
 
-[^key-c7d344b6963fa4edf0e6f0f863ad509d]: Commencement: Sch. 11 para. 1 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-c7d344b6963fa4edf0e6f0f863ad509d]: Commencement: Sch. 11 para. 1 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
 [^f00055]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-091b0b7a97d842c452d9d7c274f23cdc]: Commencement: Sch. 11 para. 2 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-091b0b7a97d842c452d9d7c274f23cdc]: Commencement: Sch. 11 para. 2 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-058c97fb19d238557122176347f6382b]: Commencement: Sch. 11 para. 3 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-058c97fb19d238557122176347f6382b]: Commencement: Sch. 11 para. 3 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-b2f59a554a096c82c38a7159e297a6de]: Commencement: Sch. 11 para. 4 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-b2f59a554a096c82c38a7159e297a6de]: Commencement: Sch. 11 para. 4 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-f95a8c91e54c63ac81c33a6fa38fc7d2]: Commencement: Sch. 11 para. 5 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-f95a8c91e54c63ac81c33a6fa38fc7d2]: Commencement: Sch. 11 para. 5 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-13a27daf464d71c2657787b96a6a8b6a]: Commencement: Sch. 11 para. 6 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-13a27daf464d71c2657787b96a6a8b6a]: Commencement: Sch. 11 para. 6 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)

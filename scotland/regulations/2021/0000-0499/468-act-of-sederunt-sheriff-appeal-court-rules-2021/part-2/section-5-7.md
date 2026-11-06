@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.7. Lodging[^key-dfcda5e3927d1b839da3d02a1546316c]
+## 5.7. Lodging[^c-dfcda5e3927d1b839da3d02a1546316c]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfcda5e3927d1b839da3d02a1546316c]: Commencement: Para. 5.7 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-dfcda5e3927d1b839da3d02a1546316c]: Commencement: Para. 5.7 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

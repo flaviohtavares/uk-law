@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1224ZA. The competent authority’s power to call for information[^key-bc55453a382affc1dc8ea3be4c9801be]
+## 1224ZA. The competent authority’s power to call for information[^c-bc55453a382affc1dc8ea3be4c9801be]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc55453a382affc1dc8ea3be4c9801be]: Textual amendment: S. 1224ZA inserted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 33](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/33)
+[^c-bc55453a382affc1dc8ea3be4c9801be]: Textual amendment: S. 1224ZA inserted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 33](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/33)

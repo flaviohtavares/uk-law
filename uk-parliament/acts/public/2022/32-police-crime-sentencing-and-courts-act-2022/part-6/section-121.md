@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Interpretation of Part 6[^key-3e8a8ecc5be47588d77bb687495765e3]
+## 121. Interpretation of Part 6[^c-3e8a8ecc5be47588d77bb687495765e3]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ In this Part—
 
 ## Annotations
 
-[^key-3e8a8ecc5be47588d77bb687495765e3]: Commencement: S. 121 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-3e8a8ecc5be47588d77bb687495765e3]: Commencement: S. 121 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)

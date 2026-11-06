@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Lawfulness of conduct authorised by this Part[^key-753a130774462600c4d2fb2e4b5c559a]
+## 81. Lawfulness of conduct authorised by this Part[^c-753a130774462600c4d2fb2e4b5c559a]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-753a130774462600c4d2fb2e4b5c559a]: Commencement: S. 81 in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/d)
+[^c-753a130774462600c4d2fb2e4b5c559a]: Commencement: S. 81 in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/d)

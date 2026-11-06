@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52A. Chapter to apply only for corporation tax purposes[^key-520adc83605552cf3c70bf144f336602]
+## 52A. Chapter to apply only for corporation tax purposes[^c-520adc83605552cf3c70bf144f336602]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Chapter applies only for the purposes of corporation tax.
 
 ## Annotations
 
-[^key-520adc83605552cf3c70bf144f336602]: Textual amendment: S. 52A inserted (with effect in accordance with Sch. 2 para. 83 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 78](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/78)
+[^c-520adc83605552cf3c70bf144f336602]: Textual amendment: S. 52A inserted (with effect in accordance with Sch. 2 para. 83 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 78](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/78)

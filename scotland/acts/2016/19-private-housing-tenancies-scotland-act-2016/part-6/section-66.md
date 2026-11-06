@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Termination of joint tenant's interest on death[^key-91177e04eb028b2189d387d2d7863427]
+## 66. Termination of joint tenant's interest on death[^c-91177e04eb028b2189d387d2d7863427]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91177e04eb028b2189d387d2d7863427]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2016/19/section/66) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-91177e04eb028b2189d387d2d7863427]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2016/19/section/66) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

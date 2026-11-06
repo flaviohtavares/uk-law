@@ -29,8 +29,8 @@ summary: ''
 - (a) the notice under section 17(1) or (2), the prosecutorial fine notice concerned, the registration and any proceedings taken for enforcing payment of the fine shall be void; but
 - (b) no further action is to be taken in respect of the alleged offence or offences that gave rise to the notice under section 17(1) or (2) and the prosecutorial fine notice concerned.
 
-(3) In this section references to proceedings for enforcing payment of the sum registered are references to any process issued or other proceedings taken for or in connection with enforcing payment of that sum (including the making of a collection order)[^key-b559ff23c5955493f21af0a8af6567c6] .
+(3) In this section references to proceedings for enforcing payment of the sum registered are references to any process issued or other proceedings taken for or in connection with enforcing payment of that sum (including the making of a collection order)[^c-b559ff23c5955493f21af0a8af6567c6] .
 
 ## Annotations
 
-[^key-b559ff23c5955493f21af0a8af6567c6]: Textual amendment: Words in s. 26(3) inserted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2), [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/8/4); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c) (but this amendment cannot take effect until the commencement of s. 26)
+[^c-b559ff23c5955493f21af0a8af6567c6]: Textual amendment: Words in s. 26(3) inserted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2), [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/8/4); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c) (but this amendment cannot take effect until the commencement of s. 26)

@@ -33,7 +33,7 @@ summary: ''
 
 (4) Interest due under paragraph (3) is calculated at one per cent above base rate on a day to day basis from the date active membership ceased and compounded with three-monthly rests.
 
-(5)[^key-92d2fcfb0bb0782924ebf117594defa8] The Committee shall refund contributions to a person entitled under paragraph (1)—
+(5)[^c-92d2fcfb0bb0782924ebf117594defa8] The Committee shall refund contributions to a person entitled under paragraph (1)—
 
 - (a) when the person requests payment before the expiry of 5 years beginning with the date the person’s active membership ceased;
 - (b) if no request has been made before then, the Committee may, at its discretion, make a refund of contributions on or after the expiry of 5 years beginning with the date the person’s active membership ceased; or
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92d2fcfb0bb0782924ebf117594defa8]: Textual amendment: [Reg. 20(5)](https://www.legislation.gov.uk/nisr/2014/188/regulation/20/5) substituted (with effect in accordance with reg. 1(1) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2022/163/regulation/6)
+[^c-92d2fcfb0bb0782924ebf117594defa8]: Textual amendment: [Reg. 20(5)](https://www.legislation.gov.uk/nisr/2014/188/regulation/20/5) substituted (with effect in accordance with reg. 1(1) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2022/163/regulation/6)

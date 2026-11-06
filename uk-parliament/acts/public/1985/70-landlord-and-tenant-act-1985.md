@@ -125,7 +125,7 @@ the landlord shall give also notice in writing to the tenant to the following ef
 - (a) “**tenant**” includes a statutory tenant and a person having a contractual right to occupy the premises; and
 - (b) “**landlord**”, in relation to a person having such a contractual right, means the person who granted the right or any successor in title of his, as the case may require.
 
-(4)[^key-152fd32da1d6b716882e754a6392d1f9] This section does not apply to occupation contracts within the meaning of section 7 of the Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1).
+(4)[^c-152fd32da1d6b716882e754a6392d1f9] This section does not apply to occupation contracts within the meaning of section 7 of the Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1).
 
 ### 5. Information to be contained in rent books.
 
@@ -179,14 +179,14 @@ continues for more than 14 days after the conviction, the landlord or other pers
 
 ## Implied terms as to fitness for human habitation
 
-### 8. Implied terms as to fitness for human habitation: Wales.[^key-2bc00a7275b73cd5490f298198143afe][^c13235961]
+### 8. Implied terms as to fitness for human habitation: Wales.[^c-2bc00a7275b73cd5490f298198143afe][^c13235961]
 
-(1) In a contract to which this section applies for the letting of a house in Wales[^key-75a3b7330feebc29c6122f4307c27ecf] for human habitation there is implied, notwithstanding any stipulation to the contrary—
+(1) In a contract to which this section applies for the letting of a house in Wales[^c-75a3b7330feebc29c6122f4307c27ecf] for human habitation there is implied, notwithstanding any stipulation to the contrary—
 
 - (a) a condition that the house is fit for human habitation at the commencement of the tenancy, and
 - (b) an undertaking that the house will be kept by the landlord fit for human habitation during the tenancy.
 
-(2)[^key-42e6623e74ef51359934f6a66d496efe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-42e6623e74ef51359934f6a66d496efe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) This section applies to a contract if—
 
@@ -214,7 +214,7 @@ NOTES
 
 (5) This section does not apply where a house is let for a term of three years or more (the lease not being determinable at the option of either party before the expiration of three years) upon terms that the tenant puts the premises into a condition reasonably fit for human habitation.
 
-(5A)[^key-0d5c1e0382df484642b608ab68c886c6] This section does not apply if the contract is an occupation contract (for provisions about the condition of dwellings that are subject to an occupation contract, see Part 4 of the Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1)).
+(5A)[^c-0d5c1e0382df484642b608ab68c886c6] This section does not apply if the contract is an occupation contract (for provisions about the condition of dwellings that are subject to an occupation contract, see Part 4 of the Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1)).
 
 (5B) In this section, “**occupation contract**” has the same meaning as in the Renting Homes (Wales) Act 2016 (see section 7 of that Act).
 
@@ -237,7 +237,7 @@ NOTES
 - (a) a part of a house, and
 - (b) any yard, garden, outhouses and appurtenances belonging to the house or usually enjoyed with it.
 
-### 9A. Fitness for human habitation of dwellings in England[^key-2270892c391c1e870b0f5f9a9c28dec0]
+### 9A. Fitness for human habitation of dwellings in England[^c-2270892c391c1e870b0f5f9a9c28dec0]
 
 (1) In a lease to which this section applies of a dwelling in England (see section 9B), there is implied a covenant by the lessor that the dwelling—
 
@@ -287,7 +287,7 @@ NOTES
 (1) Section 9A applies to a lease under which a dwelling is let wholly or mainly for human habitation if either of the following applies—
 
 - (a) the lease is for a term of less than 7 years, or
-- (b) the lease is of a kind mentioned in subsection (1A) , (1AA)[^key-7ffebe0cb4f89cf234803732579057d8] or (1AB) of section 13 (certain leases to which section 11 applies[^key-4420184ce75acd5753e6a4170c9916ee]).
+- (b) the lease is of a kind mentioned in subsection (1A) , (1AA)[^c-7ffebe0cb4f89cf234803732579057d8] or (1AB) of section 13 (certain leases to which section 11 applies[^c-4420184ce75acd5753e6a4170c9916ee]).
 
 This is subject as follows.
 
@@ -350,7 +350,7 @@ and for this purpose the renewal on or after the commencement date is to be trea
 
 ### 10. Fitness for human habitation.
 
-(1)[^key-dffdd797563eed90f5b6e52cda80d0ed] In determining for the purposes of this Act whether a house or dwelling[^key-d708db0e449ef3326e3041f252261b8c] is unfit for human habitation, regard shall be had to its condition in respect of the following matters—
+(1)[^c-dffdd797563eed90f5b6e52cda80d0ed] In determining for the purposes of this Act whether a house or dwelling[^c-d708db0e449ef3326e3041f252261b8c] is unfit for human habitation, regard shall be had to its condition in respect of the following matters—
 
 - repair,
 - stability,
@@ -361,15 +361,15 @@ and for this purpose the renewal on or after the commencement date is to be trea
 - water supply,
 - drainage and sanitary conveniences,
 - facilities for preparation and cooking of food and for the disposal of waste water;
-- in relation to a dwelling in England, any prescribed hazard;[^key-2818bba17216b60fd11709f23e174fed]
+- in relation to a dwelling in England, any prescribed hazard;[^c-2818bba17216b60fd11709f23e174fed]
 
 and the house or dwelling shall be regarded as unfit for human habitation if, and only if, it is so far defective in one or more of those matters that it is not reasonably suitable for occupation in that condition.
 
-(2)[^key-4f29b0ae7495376446439b5c25a42d9f] In subsection (1) “prescribed hazard” means any matter or circumstance amounting to a hazard for the time being prescribed in regulations made by the Secretary of State under section 2 of the Housing Act 2004.
+(2)[^c-4f29b0ae7495376446439b5c25a42d9f] In subsection (1) “prescribed hazard” means any matter or circumstance amounting to a hazard for the time being prescribed in regulations made by the Secretary of State under section 2 of the Housing Act 2004.
 
 (3) The definition of “hazard” in section 2(1) of the Housing Act 2004 applies for the purposes of subsection (2) as though the reference to a potential occupier were omitted.
 
-## Implied term as to remedying of hazards[^key-33be3b370c4bb84db724c416ce52a52d]
+## Implied term as to remedying of hazards[^c-33be3b370c4bb84db724c416ce52a52d]
 
 ### 10A. Remedying of hazards occurring in dwellings let on relevant social housing leases
 
@@ -510,31 +510,31 @@ unless the inclusion of the provision was authorised by the county court.
 
 (1) Section 11 (repairing obligations) applies to a lease of a dwelling-house granted on or after 24th October 1961 for a term of less than seven years.
 
-(1AZA)[^key-91fbc451214f99cf24d9f0f3634ae863] But that is subject to subsections (1ZA) to (1ZC).
+(1AZA)[^c-91fbc451214f99cf24d9f0f3634ae863] But that is subject to subsections (1ZA) to (1ZC).
 
-(1ZA)[^key-4ea3f3e6bc306aa3a45f728e0bb80003] In[^key-2665ee3807ee1e686bd4bc3ccec5ca91] the case of a dwelling-house in Wales, section 11 does not apply if the dwelling-house is subject to an occupation contract (for provisions about repairing obligations in the case of occupation contracts, see Part 4 of the Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1)).
+(1ZA)[^c-4ea3f3e6bc306aa3a45f728e0bb80003] In[^c-2665ee3807ee1e686bd4bc3ccec5ca91] the case of a dwelling-house in Wales, section 11 does not apply if the dwelling-house is subject to an occupation contract (for provisions about repairing obligations in the case of occupation contracts, see Part 4 of the Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1)).
 
 (1ZB) In this section, “**occupation contract**” has the same meaning as in the Renting Homes (Wales) Act 2016 (see section 7 of that Act).
 
-(1ZC)[^key-16d55930a2721d6464376b73700ba953] Section 11 does not apply to a lease of a dwelling-house in England which—
+(1ZC)[^c-16d55930a2721d6464376b73700ba953] Section 11 does not apply to a lease of a dwelling-house in England which—
 
 - (a) was an assured tenancy immediately before the commencement date (which has the meaning given by section 146(3) of the Renters’ Rights Act 2025), and
 - (b) was granted—
   - (i) for a term of seven years or more, and
   - (ii) by a person other than a private registered provider of social housing.
 
-(1A)[^key-a0fb4776c1125e8ef472c6f61bf29b9f] Section 11 also applies to a lease of a dwelling-house in England granted on or after the day on which section 166 of the Localism Act 2011 came into force which is—
+(1A)[^c-a0fb4776c1125e8ef472c6f61bf29b9f] Section 11 also applies to a lease of a dwelling-house in England granted on or after the day on which section 166 of the Localism Act 2011 came into force which is—
 
-- (a) a secure tenancy for a fixed term of seven years or more granted by a person within section 80(1) of the Housing Act 1985 (secure tenancies: the landlord condition), [^key-79571ccd3d39b2f4376e7fa9c5d59f14][^key-13d8123c02f9cbbf10dc74fd3266568e]...
-- (b)[^key-79571ccd3d39b2f4376e7fa9c5d59f14][^key-13d8123c02f9cbbf10dc74fd3266568e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a secure tenancy for a fixed term of seven years or more granted by a person within section 80(1) of the Housing Act 1985 (secure tenancies: the landlord condition), [^c-79571ccd3d39b2f4376e7fa9c5d59f14][^c-13d8123c02f9cbbf10dc74fd3266568e]...
+- (b)[^c-79571ccd3d39b2f4376e7fa9c5d59f14][^c-13d8123c02f9cbbf10dc74fd3266568e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1AA)[^key-f8bc1dbab9fc476d78ef6ed4cea5faec] Section 11 also applies to a lease of a dwelling-house in England granted on or after the day on which section 166 of the Localism Act 2011 came into force which is a tenancy for a fixed term of more than seven years that—
+(1AA)[^c-f8bc1dbab9fc476d78ef6ed4cea5faec] Section 11 also applies to a lease of a dwelling-house in England granted on or after the day on which section 166 of the Localism Act 2011 came into force which is a tenancy for a fixed term of more than seven years that—
 
 - (a) would be an assured tenancy if it were not for a term of more than seven years,
 - (b) is not a shared ownership lease, and
 - (c) is granted by a private registered provider of social housing.
 
-(1B) In this section[^key-0cafae929e279f103b9233c1bf227f1d]—
+(1B) In this section[^c-0cafae929e279f103b9233c1bf227f1d]—
 
 - “**assured tenancy**” has the same meaning as in Part 1 of the Housing Act 1988;
 - “**secure tenancy**” has the meaning given by section 79 of the Housing Act 1985; and
@@ -574,9 +574,9 @@ unless the inclusion of the provision was authorised by the county court.
 - a National Park Authority[^c13236281]
 - a new town corporation,
 - an urban development corporation,
-- a Mayoral development corporation,[^key-07a21d5cab90d64de508a1915085cca7]
+- a Mayoral development corporation,[^c-07a21d5cab90d64de508a1915085cca7]
 - the Development Board for Rural Wales,
-- a non-profit registered provider of social housing[^key-6f977306248281af76248382aa894743]
+- a non-profit registered provider of social housing[^c-6f977306248281af76248382aa894743]
 - a registered social landlord[^c13236291],
 - a co-operative housing association, or
 - an educational institution or other body specified, or of a class specified, by regulations under section 8 of the [^c13236301]Rent Act 1977 or paragraph 8 of Schedule 1 to the Housing Act 1988[^c13236311] (bodies making student lettings)
@@ -657,7 +657,7 @@ and the amount payable shall be limited accordingly.
 (1) Where this section applies to any qualifying works or qualifying long term agreement, the relevant contributions of tenants are limited in accordance with subsection (6) or (7) (or both) unless the consultation requirements have been either—
 
 - (a) complied with in relation to the works or agreement, or
-- (b) except in the case of works to which section 20D applies,[^key-fc52615a48dfe2f9d702adfb9941e0f4] dispensed with in relation to the works or agreement by (or on appeal from) the appropriate tribunal[^key-7597055e448e8dda02371212a638ffba].
+- (b) except in the case of works to which section 20D applies,[^c-fc52615a48dfe2f9d702adfb9941e0f4] dispensed with in relation to the works or agreement by (or on appeal from) the appropriate tribunal[^c-7597055e448e8dda02371212a638ffba].
 
 (2) In this section “**relevant contribution**”, in relation to a tenant and any works or agreement, is the amount which he may be required under the terms of his lease to contribute (by the payment of service charges) to relevant costs incurred on carrying out the works or under the agreement.
 
@@ -679,7 +679,7 @@ and the amount payable shall be limited accordingly.
 
 ### 20ZA. Consultation requirements: supplementary[^c13236951][^c13236941]
 
-(1) Where an application is made to the appropriate tribunal[^key-5e900a9f159dd88489913d274942e877] for a determination to dispense with all or any of the consultation requirements in relation to any qualifying works or qualifying long term agreement, the tribunal may make the determination if satisfied that it is reasonable to dispense with the requirements.
+(1) Where an application is made to the appropriate tribunal[^c-5e900a9f159dd88489913d274942e877] for a determination to dispense with all or any of the consultation requirements in relation to any qualifying works or qualifying long term agreement, the tribunal may make the determination if satisfied that it is reasonable to dispense with the requirements.
 
 (2) In section 20 and this section—
 
@@ -701,7 +701,7 @@ and the amount payable shall be limited accordingly.
 - (d) to have regard to observations made by tenants or the recognised tenants’ association in relation to proposed works or agreements and estimates, and
 - (e) to give reasons in prescribed circumstances for carrying out works or entering into agreements.
 
-(5A)[^key-40d1c5e20d763aef7314d719eda0475c] And in the case of works to which section 20D applies, regulations under subsection (4) may also include provision requiring the landlord—
+(5A)[^c-40d1c5e20d763aef7314d719eda0475c] And in the case of works to which section 20D applies, regulations under subsection (4) may also include provision requiring the landlord—
 
 - (a) to give details of the steps taken or to be taken under section 20D(2),
 - (b) to give reasons about prescribed matters, and any other prescribed information, relating to the taking of such steps, and
@@ -733,20 +733,20 @@ the amount which, in relation to the landlord, is the balance of the cost determ
 
 ### 20C. Limitation of service charges: costs of proceedings.[^c13237281][^c13237271]
 
-(1) A tenant may make an application for an order that all or any of the costs incurred, or to be incurred, by the landlord in connection with proceedings before a court , residential property tribunal[^c19938401] or leasehold valuation tribunal or the First-tier Tribunal[^key-6d6f028d6c9775963b3a9d76a24d3b79], or the Upper Tribunal[^c20642731], or in connection with arbitration proceedings, are not to be regarded as relevant costs to be taken into account in determining the amount of any service charge payable by the tenant or any other person or persons specified in the application.
+(1) A tenant may make an application for an order that all or any of the costs incurred, or to be incurred, by the landlord in connection with proceedings before a court , residential property tribunal[^c19938401] or leasehold valuation tribunal or the First-tier Tribunal[^c-6d6f028d6c9775963b3a9d76a24d3b79], or the Upper Tribunal[^c20642731], or in connection with arbitration proceedings, are not to be regarded as relevant costs to be taken into account in determining the amount of any service charge payable by the tenant or any other person or persons specified in the application.
 
 (2) The application shall be made—
 
-- (a) in the case of court proceedings, to the court before which the proceedings are taking place or, if the application is made after the proceedings are concluded, to the county court[^key-e29e6ce00a6718067340707466ed4f36];
+- (a) in the case of court proceedings, to the court before which the proceedings are taking place or, if the application is made after the proceedings are concluded, to the county court[^c-e29e6ce00a6718067340707466ed4f36];
 - (aa)[^c19938561] in the case of proceedings before a residential property tribunal, to a leasehold valuation tribunal;
 - (b) in the case of proceedings before a leasehold valuation tribunal, to the tribunal before which the proceedings are taking place or, if the application is made after the proceedings are concluded, to any leasehold valuation tribunal;
-- (ba)[^key-a87c84e0b26385e09ad0ffae8779e38c] in the case of proceedings before the First-tier Tribunal, to the tribunal;
+- (ba)[^c-a87c84e0b26385e09ad0ffae8779e38c] in the case of proceedings before the First-tier Tribunal, to the tribunal;
 - (c) in the case of proceedings before the Upper Tribunal[^c20642751], to the tribunal;
 - (d) in the case of arbitration proceedings, to the arbitral tribunal or, if the application is made after the proceedings are concluded, to the county court.
 
 (3) The court or tribunal to which the application is made may make such order on the application as it considers just and equitable in the circumstances.
 
-### 20D. Limitation of service charges: remediation works[^key-dcc5a1432d70f3340b3c7992ca1a5f7b]
+### 20D. Limitation of service charges: remediation works[^c-dcc5a1432d70f3340b3c7992ca1a5f7b]
 
 (1) This section applies to works of a prescribed description (“remediation works”) on a building in England of a prescribed description.
 
@@ -805,7 +805,7 @@ the amount which, in relation to the landlord, is the balance of the cost determ
 
 (4) A statutory instrument containing regulations is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 20F. Limitation of service charges: excluded costs for higher-risk buildings[^key-e34e77f684020c7c142b9a51b98642df]
+### 20F. Limitation of service charges: excluded costs for higher-risk buildings[^c-e34e77f684020c7c142b9a51b98642df]
 
 (1) This section applies in relation to a lease to which section 30D (higher-risk buildings: building safety costs) applies.
 
@@ -839,7 +839,7 @@ the amount which, in relation to the landlord, is the balance of the cost determ
 
 (7) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 20J. Limitation of variable service charges: non-litigation costs of enfranchisement etc[^key-4602b0ac90054547ad7cba8a22ba41e9]
+### 20J. Limitation of variable service charges: non-litigation costs of enfranchisement etc[^c-4602b0ac90054547ad7cba8a22ba41e9]
 
 (1) Non-litigation costs incurred, or to be incurred, by a landlord in connection with a relevant claim are not to be regarded as relevant costs to be taken into account in determining the amount of a variable service charge payable by a tenant who is a non-participating tenant in relation to that claim.
 
@@ -909,7 +909,7 @@ the amount which, in relation to the landlord, is the balance of the cost determ
 - (a) make different provision for different cases or descriptions of case or for different purposes,
 - (b) contain such supplementary, incidental, consequential, transitional, transitory or saving provision as the appropriate national authority considers appropriate.
 
-(6A)[^key-bd0eadea713fb36aa5adf1af4c2b5578] In particular, regulations which make provision about higher-risk buildings (within the meaning of Part 4 of the Building Safety Act 2022) or relevant buildings (as defined by section 117 of that Act)[^key-0dc6b3d76a4b2eb5ffe1f1f98aca859c] need not contain provision of a kind mentioned in subsection (2) or (3).
+(6A)[^c-bd0eadea713fb36aa5adf1af4c2b5578] In particular, regulations which make provision about higher-risk buildings (within the meaning of Part 4 of the Building Safety Act 2022) or relevant buildings (as defined by section 117 of that Act)[^c-0dc6b3d76a4b2eb5ffe1f1f98aca859c] need not contain provision of a kind mentioned in subsection (2) or (3).
 
 (7) Regulations under this section are to be made by statutory instrument which, subject to subsections (8) and (9)—
 
@@ -948,7 +948,7 @@ the amount which, in relation to the landlord, is the balance of the cost determ
 - (a) in a case within paragraph (a) of subsection (1), after the information or report concerned has been provided[^c19944631] to the tenant by the landlord, or
 - (b)[^c19944651] in a case within paragraph (b) of that subsection, after information or a report conforming exactly or substantially with requirements prescribed by regulations under section 21 has been provided to the tenant by the landlord by way of replacement of that previously provided.
 
-(4) If, on an application made by the landlord to the appropriate tribunal[^key-ca569ab5bcdaab9478ed5a21b500ddb5], the tribunal determines that the landlord has a reasonable excuse for a failure giving rise to the right of a tenant to withhold an amount under this section, the tenant may not withhold the amount after the determination is made.
+(4) If, on an application made by the landlord to the appropriate tribunal[^c-ca569ab5bcdaab9478ed5a21b500ddb5], the tribunal determines that the landlord has a reasonable excuse for a failure giving rise to the right of a tenant to withhold an amount under this section, the tenant may not withhold the amount after the determination is made.
 
 (5) Where a tenant withholds a service charge under this section, any provisions of the tenancy relating to non-payment or late payment of service charges do not have effect in relation to the period for which he so withholds it.
 
@@ -1030,7 +1030,7 @@ The assignment of a tenancy does not affect the validity of a request made under
 
 (2) A person committing such an offence is liable on conviction to a fine not exceeding level 4 on the standard scale.
 
-(3)[^key-3e4a57d383e0a72cce922b8b2cf005fc] Subsection (1) does not apply where the person is—
+(3)[^c-3e4a57d383e0a72cce922b8b2cf005fc] Subsection (1) does not apply where the person is—
 
 - (a) a local authority for an area in Wales, or
 - (b) a registered social landlord.
@@ -1054,7 +1054,7 @@ unless the tenancy is a long tenancy, in which case sections 18 to 24 apply but 
 
 (3) A tenancy granted so as to become terminable by notice after a death is not a long tenancy for the purposes of subsection (1), unless—
 
-- (a) it is granted by a housing association which at the time of the grant is a private registered provider of social housing or[^key-d6b05eb39a8be2f85008530f950af35f]a registered social landlord[^c13238071],
+- (a) it is granted by a housing association which at the time of the grant is a private registered provider of social housing or[^c-d6b05eb39a8be2f85008530f950af35f]a registered social landlord[^c13238071],
 - (b) it is granted at a premium calculated by reference to a percentage of the value of the dwelling-house or the cost of providing it, and
 - (c) at the time it is granted it complies with the requirements of the regulations then in force under section 140(4)(b) of the [^c13238081]Housing Act 1980 or paragraph 4(2)(b) of Schedule 4A to the Leasehold Reform Act 1967[^c13238091] (conditions for exclusion of shared ownership leases from Part I of Leasehold Reform Act 1967) or, in the case of a tenancy granted before any such regulations were brought into force, with the first such regulations to be in force.
 
@@ -1064,7 +1064,7 @@ Sections 18 to 25 (limitation on service charges and requests for information ab
 
 ### 27A. Liability to pay service charges: jurisdiction[^c19932401][^c13238321][^c13238311]
 
-(1) An application may be made to the appropriate tribunal[^key-f04c56f27a3321d33761064f1d84453a] for a determination whether a service charge is payable and, if it is, as to—
+(1) An application may be made to the appropriate tribunal[^c-f04c56f27a3321d33761064f1d84453a] for a determination whether a service charge is payable and, if it is, as to—
 
 - (a) the person by whom it is payable,
 - (b) the person to whom it is payable,
@@ -1074,7 +1074,7 @@ Sections 18 to 25 (limitation on service charges and requests for information ab
 
 (2) Subsection (1) applies whether or not any payment has been made.
 
-(3)[^c13238331] An application may also be made to the appropriate tribunal[^key-55d0792727959c622f7b5b24b92beeb4] for a determination whether, if costs were incurred for services, repairs, maintenance, improvements, insurance or management of any specified description, a service charge would be payable for the costs and, if it would, as to—
+(3)[^c13238331] An application may also be made to the appropriate tribunal[^c-55d0792727959c622f7b5b24b92beeb4] for a determination whether, if costs were incurred for services, repairs, maintenance, improvements, insurance or management of any specified description, a service charge would be payable for the costs and, if it would, as to—
 
 - (a) the person by whom it would be payable,
 - (b) the person to whom it would be payable,
@@ -1098,7 +1098,7 @@ Sections 18 to 25 (limitation on service charges and requests for information ab
 
 of any question which may be the subject of an application under subsection (1) or (3).
 
-(7) The jurisdiction conferred on the appropriate tribunal[^key-5c8e5bc3985062b562f27899e398aa31] in respect of any matter by virtue of this section is in addition to any jurisdiction of a court in respect of the matter.
+(7) The jurisdiction conferred on the appropriate tribunal[^c-5c8e5bc3985062b562f27899e398aa31] in respect of any matter by virtue of this section is in addition to any jurisdiction of a court in respect of the matter.
 
 ### 28. Meaning of “qualified accountant”.[^c13238711][^c19932221][^c13238591]
 
@@ -1130,20 +1130,20 @@ of any question which may be the subject of an application under subsection (1) 
 (1) A recognised tenants’ association is an association of qualifying tenants (whether with or without other tenants)[^c13238881] which is recognised for purposes of the provisions of this Act relating to service charges either—
 
 - (a) by notice in writing given by the landlord to the secretary of the association, or
-- (b)[^key-5aaa3ec7a43202c3faf7ee61ed5ff63f] by a certificate—
+- (b)[^c-5aaa3ec7a43202c3faf7ee61ed5ff63f] by a certificate—
   - (i) in relation to dwellings in England, of the First-tier Tribunal; and
   - (ii) in relation to dwellings in Wales, of a member of the local rent assessment committee panel.
 
 (2) A notice given under subsection (1)(a) may be withdrawn by the landlord by notice in writing given to the secretary of the association not less than six months before the date on which it is to be withdrawn.
 
-(3) A certificate given under subsection (1)(b)(i) may be cancelled by the First-tier Tribunal, and a certificate given under subsection (1)(b)(ii)[^key-7579a41e297cee5cb5f9190b7113f1f6] may be cancelled by any member of the local rent assessment committee panel.
+(3) A certificate given under subsection (1)(b)(i) may be cancelled by the First-tier Tribunal, and a certificate given under subsection (1)(b)(ii)[^c-7579a41e297cee5cb5f9190b7113f1f6] may be cancelled by any member of the local rent assessment committee panel.
 
-(4) In this section the “**local rent assessment committee panel**” means the persons appointed by the Lord Chancellor under the [^c13238891]Rent Act 1977 to the panel of persons to act as members of a rent assessment committee for the registration area in Wales[^key-4c9dabec5cd04a60398fb71a5ab9018d] in which the dwellings let to the qualifying tenants are situated, and for the purposes of this section a number of tenants are qualifying tenants if each of them may be required under the terms of his lease to contribute to the same costs by the payment of a service charge.[^c13238901].
+(4) In this section the “**local rent assessment committee panel**” means the persons appointed by the Lord Chancellor under the [^c13238891]Rent Act 1977 to the panel of persons to act as members of a rent assessment committee for the registration area in Wales[^c-4c9dabec5cd04a60398fb71a5ab9018d] in which the dwellings let to the qualifying tenants are situated, and for the purposes of this section a number of tenants are qualifying tenants if each of them may be required under the terms of his lease to contribute to the same costs by the payment of a service charge.[^c13238901].
 
 (5)[^c13238911] The Secretary of State may by regulations specify—
 
-- (a) the procedure which is to be followed in connection with an application for, or for the cancellation of, a certificate under subsection (1)(b)(ii)[^key-6ca7c11f51d65cb631889ed8ddb91b78];
-- (b) the matters to which regard is to be had in giving or cancelling a certificate under subsection (1)(b)[^key-446b304ff7aad3ca787647111fa41c16];
+- (a) the procedure which is to be followed in connection with an application for, or for the cancellation of, a certificate under subsection (1)(b)(ii)[^c-6ca7c11f51d65cb631889ed8ddb91b78];
+- (b) the matters to which regard is to be had in giving or cancelling a certificate under subsection (1)(b)[^c-446b304ff7aad3ca787647111fa41c16];
 - (c) the duration of such a certificate; and
 - (d) any circumstances in which a certificate is not to be given under subsection (1)(b).
 
@@ -1152,7 +1152,7 @@ of any question which may be the subject of an application under subsection (1) 
 - (a) may make different provisions with respect to different cases or descriptions of case, including different provision for different areas, and
 - (b) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 29A. Tenants' associations: power to request information about tenants[^key-c16782f5f1e38d0e5d813473ddca6151]
+### 29A. Tenants' associations: power to request information about tenants[^c-c16782f5f1e38d0e5d813473ddca6151]
 
 (1) The Secretary of State may by regulations impose duties on a landlord to provide the secretary of a relevant tenants' association with information about relevant qualifying tenants.
 
@@ -1185,13 +1185,13 @@ of any question which may be the subject of an application under subsection (1) 
   - (b) a person who is a qualifying tenant of a dwelling in England by virtue of being required to contribute to the same costs as a qualifying tenant who is a member of the relevant tenants' association;
 - “**qualifying tenant**” means a tenant who, under the terms of the lease, is required to contribute to the same costs as another tenant by the payment of a service charge.
 
-### 30. Meaning of “landlord”, “tenant” etc.[^c13238921][^c13238931][^c19932451][^key-bd8ddc161cd87602eb9090117f1ab5e1]
+### 30. Meaning of “landlord”, “tenant” etc.[^c13238921][^c13238931][^c19932451][^c-bd8ddc161cd87602eb9090117f1ab5e1]
 
 In the provisions of this Act relating to service charges—
 
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c13238941]
 - “**landlord**” includes any person who has a right to enforce payment of a service charge;
-- “[^key-0b59aa87d145b12fad2c45da5765b452]**services**” includes, in relation to a dwelling in a higher-risk building (as defined by section 30I), building safety measures within the meaning of section 30D;
+- “[^c-0b59aa87d145b12fad2c45da5765b452]**services**” includes, in relation to a dwelling in a higher-risk building (as defined by section 30I), building safety measures within the meaning of section 30D;
 - “**tenant**” includes
 - (a) a statutory tenant, and
 - (b) where the dwelling[^c13238951] or part of it is sub-let, the sub-tenant.
@@ -1245,7 +1245,7 @@ that notice shall cease to have effect with respect to those premises (without p
 
 and for the purposes of this section any premises (whether a building or not) are relevant premises in relation to a recognised tenants’ association if any of the tenants represented by the association may be required under the terms of their leases to contribute by the payment of service charges to costs relating to those premises.
 
-## Higher-risk buildings in England[^key-910c37519af4702c87373dd22685aa56]
+## Higher-risk buildings in England[^c-910c37519af4702c87373dd22685aa56]
 
 ### 30C. Implied terms relating to building safety
 
@@ -1449,7 +1449,7 @@ and for the purposes of this section an increase in rent takes place at the begi
 
 - sections 1 to 3A[^c13239191] (information to be given to tenant),
 - section 17 (specific performance of landlord’s repairing obligations).
-- section 30C (implied terms relation to building safety),[^key-2912e5a6f2261f55891fcd2d1756ac0b]
+- section 30C (implied terms relation to building safety),[^c-2912e5a6f2261f55891fcd2d1756ac0b]
 - section 30D (building safety costs),
 - section 30E (liability for remuneration of building safety director of resident management company etc).
 
@@ -1498,24 +1498,24 @@ In this Act—
 - (a) “**statutory tenancy**” and “**statutory tenant**” mean a statutory tenancy or statutory tenant within the meaning of the [^c13239211]Rent Act 1977 or the [^c13239221]Rent (Agriculture) Act 1976; and
 - (b) “**landlord**”, in relation to a statutory tenant, means the person who, apart from the statutory tenancy, would be entitled to possession of the premises.
 
-### 38. Minor definitions.[^key-4f71ce5d9b2f70a478b14602671ea34d][^key-ec0308041915f47c07d58e5dd2cd26c9][^c13240381]
+### 38. Minor definitions.[^c-4f71ce5d9b2f70a478b14602671ea34d][^c-ec0308041915f47c07d58e5dd2cd26c9][^c13240381]
 
 In this Act—
 
 - “**address**” means a person’s place of abode or place of business or, in the case of a company, its registered office;
-- “[^key-fe147a9e61e0cb5a353e0542eab999b2]**appropriate tribunal**” means—
+- “[^c-fe147a9e61e0cb5a353e0542eab999b2]**appropriate tribunal**” means—
   - (a) in relation to a dwelling in England the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal; and
   - (b) in relation to a dwelling in Wales, a leasehold valuation tribunal;
 - “[^c13240391]**arbitration agreement**”, “**arbitration proceedings**” and “**arbitral tribunal**” have the same meaning as in Part I of the [^c13240401]Arbitration Act 1996 and post-dispute arbitration agreement”, in relation to any matter, means an arbitration agreement made after a dispute about the matter has arisen;[^c13240411];
 - “**co-operative housing association**” has the same meaning as in the [^c13240421]Housing Associations Act 1985;
 - “**dwelling**” means a building or part of a building occupied or intended to be occupied as a separate dwelling together with any yard, garden, outhouses and appurtenances belonging to it or usually enjoyed with it;
 - “**housing association**” has the same meaning as in the Housing Associations Act 1985;
-- “**local authority**” means a district, county county borough[^c13240431] or London borough council, the Common Council of the City of London or the Council of the Isles of Scilly and in sections 14(4), 26(1) and 28(6) includes [^c13240441]... the Broads Authority[^c13240451] , a police and crime commissioner, the Mayor's Office for Policing and Crime[^key-d8c207a7cfb2259a65d7dc2e5688dd6c], [^M_F_cb2a8f99-ca6b-4d27-f9aa-4538db9f8147]... [^c13240501]... a joint authority established by Part IV of the [^c13240511]Local Government Act 1985 an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009, a combined authority established under section 103 of that Act,[^c20642781] a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023,[^key-23a4fe4f2e990fc0d669fe6ca1019de7] a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, [^key-e9641825683f9ff224247c2d739db167]... and the London Fire Commissioner[^key-e306cd835987d99e31261f1f6a709237];
+- “**local authority**” means a district, county county borough[^c13240431] or London borough council, the Common Council of the City of London or the Council of the Isles of Scilly and in sections 14(4), 26(1) and 28(6) includes [^c13240441]... the Broads Authority[^c13240451] , a police and crime commissioner, the Mayor's Office for Policing and Crime[^c-d8c207a7cfb2259a65d7dc2e5688dd6c], [^M_F_cb2a8f99-ca6b-4d27-f9aa-4538db9f8147]... [^c13240501]... a joint authority established by Part IV of the [^c13240511]Local Government Act 1985 an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009, a combined authority established under section 103 of that Act,[^c20642781] a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023,[^c-23a4fe4f2e990fc0d669fe6ca1019de7] a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004, [^c-e9641825683f9ff224247c2d739db167]... and the London Fire Commissioner[^c-e306cd835987d99e31261f1f6a709237];
 - “**local housing authority**” has the meaning given by section 1 of the [^c13240531]Housing Act 1985;
 - “**new town corporation**” means—
   - (a) a development corporation established by an order made, or treated as made, under the [^c13240541]New Towns Act 1981,
   - (b) the Homes and Communities Agency so far as exercising functions in relation to anything transferred (or to be transferred) to it as mentioned in section 52(1)(a) to (d) of the Housing and Regeneration Act 2008,[^c19945681]
-  - (ba) the Greater London Authority so far as exercising its new towns and urban development functions, or[^key-98475e35de4e25c9339075da5112ee7e]
+  - (ba) the Greater London Authority so far as exercising its new towns and urban development functions, or[^c-98475e35de4e25c9339075da5112ee7e]
   - (c) the Welsh Ministers so far as exercising functions in relation to anything transferred (or to be transferred) to them as mentioned in section 36(1)(a)(i) to (iii) of the New Towns Act 1981;
 
 - “**protected tenancy**” has the same meaning as in the Rent Act 1977;
@@ -1567,7 +1567,7 @@ The following Table shows provisions defining or otherwise explaining expression
 </tbody>
 </table>
 
-[^c13240601][^c13240611][^key-54ac9d55b34deccfc9118543c83218b1][^c19945961][^c19945961][^c13240591]
+[^c13240601][^c13240611][^c-54ac9d55b34deccfc9118543c83218b1][^c19945961][^c19945961][^c13240591]
 
 ## Final provisions
 
@@ -1725,7 +1725,7 @@ the policy in question shall have effect as regards any claim subsequently made 
 
 **8.**[^c13240891] (1) This paragraph applies where a tenancy of a dwelling requires the tenant to insure the dwelling with an insurer nominated or approved[^c13240901] by the landlord.
 
-(2) The tenant or landlord may apply to the county court[^key-ba2c6f70c40cc178c805226e2d42e388] or the appropriate tribunal[^key-fe8debb14550e387b91dca65ca7a571f] for a determination whether—
+(2) The tenant or landlord may apply to the county court[^c-ba2c6f70c40cc178c805226e2d42e388] or the appropriate tribunal[^c-fe8debb14550e387b91dca65ca7a571f] for a determination whether—
 
 - (a) the insurance which is available from the nominated or approved insurer for insuring the tenant’s dwelling is unsatisfactory in any respect, or
 - (b) the premiums payable in respect of any such insurance are excessive.
@@ -1931,37 +1931,37 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
 [^c13235931]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/ukpga/1985/70/section/3A) inserted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 93(1)](https://www.legislation.gov.uk/ukpga/1996/52/section/93/1); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2)(with Sch.)
 
-[^key-152fd32da1d6b716882e754a6392d1f9]: Textual amendment: [S. 4(4)](https://www.legislation.gov.uk/ukpga/1985/70/section/4/4) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [13(2)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/13/2)
+[^c-152fd32da1d6b716882e754a6392d1f9]: Textual amendment: [S. 4(4)](https://www.legislation.gov.uk/ukpga/1985/70/section/4/4) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [13(2)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/13/2)
 
 [^c13235941]: Textual amendment: Words inserted by [Housing Act 1988 (c. 50, SIF 61, 75:1)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 140(1)](https://www.legislation.gov.uk/ukpga/1988/50/section/140/1), [Sch. 17 para. 67(1)](https://www.legislation.gov.uk/ukpga/1988/50/schedule/17/paragraph/67/1)
 
 [^c13235951]: Textual amendment: Words added by [Housing Act 1988 (c. 50, SIF 61, 75:1)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 140(1)](https://www.legislation.gov.uk/ukpga/1988/50/section/140/1), [Sch. 17 para. 67(2)](https://www.legislation.gov.uk/ukpga/1988/50/schedule/17/paragraph/67/2)
 
-[^key-2bc00a7275b73cd5490f298198143afe]: Textual amendment: Word in s. 8 heading inserted (20.3.2019) by [Homes (Fitness for Human Habitation) Act 2018 (c. 34)](https://www.legislation.gov.uk/ukpga/2018/34), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2018/34/section/1/2/a), [2(2)](https://www.legislation.gov.uk/ukpga/2018/34/section/2/2)
+[^c-2bc00a7275b73cd5490f298198143afe]: Textual amendment: Word in s. 8 heading inserted (20.3.2019) by [Homes (Fitness for Human Habitation) Act 2018 (c. 34)](https://www.legislation.gov.uk/ukpga/2018/34), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2018/34/section/1/2/a), [2(2)](https://www.legislation.gov.uk/ukpga/2018/34/section/2/2)
 
 [^c13235961]: Modification: S. 8 excluded by [Housing Act 1985 (c. 68, SIF 61)](https://www.legislation.gov.uk/ukpga/1985/68), [ss. 302](https://www.legislation.gov.uk/ukpga/1985/68/section/302), [307](https://www.legislation.gov.uk/ukpga/1985/68/section/307)
 
-[^key-75a3b7330feebc29c6122f4307c27ecf]: Textual amendment: Words in s. 8(1) inserted (20.3.2019) by [Homes (Fitness for Human Habitation) Act 2018 (c. 34)](https://www.legislation.gov.uk/ukpga/2018/34), [ss. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2018/34/section/1/2/b), [2(2)](https://www.legislation.gov.uk/ukpga/2018/34/section/2/2)
+[^c-75a3b7330feebc29c6122f4307c27ecf]: Textual amendment: Words in s. 8(1) inserted (20.3.2019) by [Homes (Fitness for Human Habitation) Act 2018 (c. 34)](https://www.legislation.gov.uk/ukpga/2018/34), [ss. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2018/34/section/1/2/b), [2(2)](https://www.legislation.gov.uk/ukpga/2018/34/section/2/2)
 
-[^key-42e6623e74ef51359934f6a66d496efe]: Textual amendment: S. 8(2) repealed (1.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 2 para. 12(1)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/2/paragraph/12/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97))
+[^c-42e6623e74ef51359934f6a66d496efe]: Textual amendment: S. 8(2) repealed (1.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 2 para. 12(1)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/2/paragraph/12/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97))
 
-[^key-0d5c1e0382df484642b608ab68c886c6]: Textual amendment: [S. 8(5A)](https://www.legislation.gov.uk/ukpga/1985/70/section/8/5A)[(5B)](https://www.legislation.gov.uk/ukpga/1985/70/section/8/5B) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [13(3)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/13/3)
+[^c-0d5c1e0382df484642b608ab68c886c6]: Textual amendment: [S. 8(5A)](https://www.legislation.gov.uk/ukpga/1985/70/section/8/5A)[(5B)](https://www.legislation.gov.uk/ukpga/1985/70/section/8/5B) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [13(3)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/13/3)
 
-[^key-2270892c391c1e870b0f5f9a9c28dec0]: Textual amendment: [Ss. 9A-9C](https://www.legislation.gov.uk/ukpga/1985/70/section/9A) inserted (20.3.2019) by [Homes (Fitness for Human Habitation) Act 2018 (c. 34)](https://www.legislation.gov.uk/ukpga/2018/34), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2018/34/section/1/3), [2(2)](https://www.legislation.gov.uk/ukpga/2018/34/section/2/2)
+[^c-2270892c391c1e870b0f5f9a9c28dec0]: Textual amendment: [Ss. 9A-9C](https://www.legislation.gov.uk/ukpga/1985/70/section/9A) inserted (20.3.2019) by [Homes (Fitness for Human Habitation) Act 2018 (c. 34)](https://www.legislation.gov.uk/ukpga/2018/34), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2018/34/section/1/3), [2(2)](https://www.legislation.gov.uk/ukpga/2018/34/section/2/2)
 
-[^key-7ffebe0cb4f89cf234803732579057d8]: Textual amendment: Word in [s. 9B(1)(b)](https://www.legislation.gov.uk/ukpga/1985/70/section/9B/1/b) inserted (27.12.2025) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 31(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/26/section/31/3/a/i), [145(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/a) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
+[^c-7ffebe0cb4f89cf234803732579057d8]: Textual amendment: Word in [s. 9B(1)(b)](https://www.legislation.gov.uk/ukpga/1985/70/section/9B/1/b) inserted (27.12.2025) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 31(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/26/section/31/3/a/i), [145(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/a) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
 
-[^key-4420184ce75acd5753e6a4170c9916ee]: Textual amendment: Words in [s. 9B(1)(b)](https://www.legislation.gov.uk/ukpga/1985/70/section/9B/1/b) substituted (27.12.2025) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 31(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/26/section/31/3/a/ii), [145(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/a) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
+[^c-4420184ce75acd5753e6a4170c9916ee]: Textual amendment: Words in [s. 9B(1)(b)](https://www.legislation.gov.uk/ukpga/1985/70/section/9B/1/b) substituted (27.12.2025) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 31(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/26/section/31/3/a/ii), [145(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/a) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
 
-[^key-dffdd797563eed90f5b6e52cda80d0ed]: Textual amendment: S. 10 renumbered as s. 10(1) (20.3.2019) by [Homes (Fitness for Human Habitation) Act 2018 (c. 34)](https://www.legislation.gov.uk/ukpga/2018/34), [ss. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2018/34/section/1/4/a), [2(2)](https://www.legislation.gov.uk/ukpga/2018/34/section/2/2)
+[^c-dffdd797563eed90f5b6e52cda80d0ed]: Textual amendment: S. 10 renumbered as s. 10(1) (20.3.2019) by [Homes (Fitness for Human Habitation) Act 2018 (c. 34)](https://www.legislation.gov.uk/ukpga/2018/34), [ss. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2018/34/section/1/4/a), [2(2)](https://www.legislation.gov.uk/ukpga/2018/34/section/2/2)
 
-[^key-d708db0e449ef3326e3041f252261b8c]: Textual amendment: Words in s. 10(1) inserted (20.3.2019) by [Homes (Fitness for Human Habitation) Act 2018 (c. 34)](https://www.legislation.gov.uk/ukpga/2018/34), [ss. 1(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2018/34/section/1/4/b/i), [2(2)](https://www.legislation.gov.uk/ukpga/2018/34/section/2/2)
+[^c-d708db0e449ef3326e3041f252261b8c]: Textual amendment: Words in s. 10(1) inserted (20.3.2019) by [Homes (Fitness for Human Habitation) Act 2018 (c. 34)](https://www.legislation.gov.uk/ukpga/2018/34), [ss. 1(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2018/34/section/1/4/b/i), [2(2)](https://www.legislation.gov.uk/ukpga/2018/34/section/2/2)
 
-[^key-2818bba17216b60fd11709f23e174fed]: Textual amendment: Words in s. 10(1) inserted (20.3.2019) by [Homes (Fitness for Human Habitation) Act 2018 (c. 34)](https://www.legislation.gov.uk/ukpga/2018/34), [ss. 1(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2018/34/section/1/4/b/ii), [2(2)](https://www.legislation.gov.uk/ukpga/2018/34/section/2/2)
+[^c-2818bba17216b60fd11709f23e174fed]: Textual amendment: Words in s. 10(1) inserted (20.3.2019) by [Homes (Fitness for Human Habitation) Act 2018 (c. 34)](https://www.legislation.gov.uk/ukpga/2018/34), [ss. 1(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2018/34/section/1/4/b/ii), [2(2)](https://www.legislation.gov.uk/ukpga/2018/34/section/2/2)
 
-[^key-4f29b0ae7495376446439b5c25a42d9f]: Textual amendment: S. 10(2)(3) inserted (20.3.2019) by [Homes (Fitness for Human Habitation) Act 2018 (c. 34)](https://www.legislation.gov.uk/ukpga/2018/34), [ss. 1(4)(c)](https://www.legislation.gov.uk/ukpga/2018/34/section/1/4/c), [2(2)](https://www.legislation.gov.uk/ukpga/2018/34/section/2/2)
+[^c-4f29b0ae7495376446439b5c25a42d9f]: Textual amendment: S. 10(2)(3) inserted (20.3.2019) by [Homes (Fitness for Human Habitation) Act 2018 (c. 34)](https://www.legislation.gov.uk/ukpga/2018/34), [ss. 1(4)(c)](https://www.legislation.gov.uk/ukpga/2018/34/section/1/4/c), [2(2)](https://www.legislation.gov.uk/ukpga/2018/34/section/2/2)
 
-[^key-33be3b370c4bb84db724c416ce52a52d]: Textual amendment: [Ss. 10A](https://www.legislation.gov.uk/ukpga/1985/70/section/10A), [10B](https://www.legislation.gov.uk/ukpga/1985/70/section/10B) and cross-heading inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 42](https://www.legislation.gov.uk/ukpga/2023/36/section/42), [46(3)(a)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3/a); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/t)
+[^c-33be3b370c4bb84db724c416ce52a52d]: Textual amendment: [Ss. 10A](https://www.legislation.gov.uk/ukpga/1985/70/section/10A), [10B](https://www.legislation.gov.uk/ukpga/1985/70/section/10B) and cross-heading inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 42](https://www.legislation.gov.uk/ukpga/2023/36/section/42), [46(3)(a)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3/a); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/t)
 
 [^c13235971]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/1985/70/section/11) modified (30.9.2003 for E. and 30.3.2004 for W.) by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 102](https://www.legislation.gov.uk/ukpga/2002/15/section/102), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 3(1)-(6)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/3/1); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
 
@@ -1973,23 +1973,23 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
 [^c13236011]: Modification: [S. 12(1)(a)](https://www.legislation.gov.uk/ukpga/1985/70/section/12/1/a) modified (E.) (30.9.2003) (W.) (30.3.2004) by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 102](https://www.legislation.gov.uk/ukpga/2002/15/section/102), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 3(7)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/3/7); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669) {art. 2(a)}
 
-[^key-91fbc451214f99cf24d9f0f3634ae863]: Textual amendment: [S. 13(1AZA)](https://www.legislation.gov.uk/ukpga/1985/70/section/13/1AZA) inserted (27.12.2025) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 31(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2025/26/section/31/3/b/i), [145(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/a) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
+[^c-91fbc451214f99cf24d9f0f3634ae863]: Textual amendment: [S. 13(1AZA)](https://www.legislation.gov.uk/ukpga/1985/70/section/13/1AZA) inserted (27.12.2025) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 31(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2025/26/section/31/3/b/i), [145(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/a) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
 
-[^key-4ea3f3e6bc306aa3a45f728e0bb80003]: Textual amendment: [S. 13(1ZA)](https://www.legislation.gov.uk/ukpga/1985/70/section/13/1ZA)[(1ZB)](https://www.legislation.gov.uk/ukpga/1985/70/section/13/1ZB) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [13(4)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/13/4)
+[^c-4ea3f3e6bc306aa3a45f728e0bb80003]: Textual amendment: [S. 13(1ZA)](https://www.legislation.gov.uk/ukpga/1985/70/section/13/1ZA)[(1ZB)](https://www.legislation.gov.uk/ukpga/1985/70/section/13/1ZB) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [13(4)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/13/4)
 
-[^key-2665ee3807ee1e686bd4bc3ccec5ca91]: Textual amendment: Word in [s. 13(1ZA)](https://www.legislation.gov.uk/ukpga/1985/70/section/13/1ZA) substituted (27.12.2025) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 31(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2025/26/section/31/3/b/ii), [145(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/a) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
+[^c-2665ee3807ee1e686bd4bc3ccec5ca91]: Textual amendment: Word in [s. 13(1ZA)](https://www.legislation.gov.uk/ukpga/1985/70/section/13/1ZA) substituted (27.12.2025) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 31(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2025/26/section/31/3/b/ii), [145(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/a) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
 
-[^key-16d55930a2721d6464376b73700ba953]: Textual amendment: [S. 13(1ZC)](https://www.legislation.gov.uk/ukpga/1985/70/section/13/1ZC) inserted (27.12.2025) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 31(3)(b)(iii)](https://www.legislation.gov.uk/ukpga/2025/26/section/31/3/b/iii), [145(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/a) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
+[^c-16d55930a2721d6464376b73700ba953]: Textual amendment: [S. 13(1ZC)](https://www.legislation.gov.uk/ukpga/1985/70/section/13/1ZC) inserted (27.12.2025) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 31(3)(b)(iii)](https://www.legislation.gov.uk/ukpga/2025/26/section/31/3/b/iii), [145(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/a) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
 
-[^key-a0fb4776c1125e8ef472c6f61bf29b9f]: Textual amendment: S. 13(1A)(1B) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 166](https://www.legislation.gov.uk/ukpga/2011/20/section/166), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(c)](https://www.legislation.gov.uk/uksi/2012/628/article/6/c) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-a0fb4776c1125e8ef472c6f61bf29b9f]: Textual amendment: S. 13(1A)(1B) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 166](https://www.legislation.gov.uk/ukpga/2011/20/section/166), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(c)](https://www.legislation.gov.uk/uksi/2012/628/article/6/c) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-79571ccd3d39b2f4376e7fa9c5d59f14]: Textual amendment: [S. 13(1A)(b)](https://www.legislation.gov.uk/ukpga/1985/70/section/13/1A/b) and word omitted (27.12.2025) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 31(3)(b)(iv)](https://www.legislation.gov.uk/ukpga/2025/26/section/31/3/b/iv), [145(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/a) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
+[^c-79571ccd3d39b2f4376e7fa9c5d59f14]: Textual amendment: [S. 13(1A)(b)](https://www.legislation.gov.uk/ukpga/1985/70/section/13/1A/b) and word omitted (27.12.2025) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 31(3)(b)(iv)](https://www.legislation.gov.uk/ukpga/2025/26/section/31/3/b/iv), [145(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/a) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
 
-[^key-13d8123c02f9cbbf10dc74fd3266568e]: Textual amendment: [S. 13(1A)(b)](https://www.legislation.gov.uk/ukpga/1985/70/section/13/1A/b) and word expressed to be omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/18) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)
+[^c-13d8123c02f9cbbf10dc74fd3266568e]: Textual amendment: [S. 13(1A)(b)](https://www.legislation.gov.uk/ukpga/1985/70/section/13/1A/b) and word expressed to be omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/18) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)
 
-[^key-f8bc1dbab9fc476d78ef6ed4cea5faec]: Textual amendment: [S. 13(1AA)](https://www.legislation.gov.uk/ukpga/1985/70/section/13/1AA) inserted (27.12.2025) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 31(3)(b)(v)](https://www.legislation.gov.uk/ukpga/2025/26/section/31/3/b/v), [145(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/a) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
+[^c-f8bc1dbab9fc476d78ef6ed4cea5faec]: Textual amendment: [S. 13(1AA)](https://www.legislation.gov.uk/ukpga/1985/70/section/13/1AA) inserted (27.12.2025) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 31(3)(b)(v)](https://www.legislation.gov.uk/ukpga/2025/26/section/31/3/b/v), [145(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/a) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
 
-[^key-0cafae929e279f103b9233c1bf227f1d]: Textual amendment: Words in [s. 13(1B)](https://www.legislation.gov.uk/ukpga/1985/70/section/13/1B) substituted (27.12.2025) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 31(3)(b)(vi)](https://www.legislation.gov.uk/ukpga/2025/26/section/31/3/b/vi), [145(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/a) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
+[^c-0cafae929e279f103b9233c1bf227f1d]: Textual amendment: Words in [s. 13(1B)](https://www.legislation.gov.uk/ukpga/1985/70/section/13/1B) substituted (27.12.2025) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 31(3)(b)(vi)](https://www.legislation.gov.uk/ukpga/2025/26/section/31/3/b/vi), [145(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/a) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
 
 [^c13236021]: Marginal citation: [1954 c. 56](https://www.legislation.gov.uk/ukpga/1954/56).
 
@@ -2007,9 +2007,9 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
 [^c13236281]: Textual amendment: Words in s. 14(4) inserted (23.11.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 78](https://www.legislation.gov.uk/ukpga/1995/25/section/78), [Sch. 10 para. 25(1)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/10/paragraph/25/1) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/7)); [S.I. 1995/2950](https://www.legislation.gov.uk/uksi/1995/2950), [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/2950/article/2/1)
 
-[^key-07a21d5cab90d64de508a1915085cca7]: Textual amendment: Words in [s. 14(4)](https://www.legislation.gov.uk/ukpga/1985/70/section/14/4) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 21](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/21)
+[^c-07a21d5cab90d64de508a1915085cca7]: Textual amendment: Words in [s. 14(4)](https://www.legislation.gov.uk/ukpga/1985/70/section/14/4) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 21](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/21)
 
-[^key-6f977306248281af76248382aa894743]: Textual amendment: Words in s. 14(4) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 59](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/59) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-6f977306248281af76248382aa894743]: Textual amendment: Words in s. 14(4) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 59](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/59) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
 [^c13236291]: Textual amendment: Words in s. 14(4) substituted (1.10.1996) by [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325), [art. 5(1)](https://www.legislation.gov.uk/uksi/1996/2325/article/5/1), [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/16/2)
 
@@ -2063,9 +2063,9 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
 [^c13236911]: Textual amendment: Ss. 20, 20ZA substituted (26.7.2002 for E. for certain purposes otherwise 31.10.2003 and 1.1.2003 for W. for certain purposes and otherwise 30.3.2004) for s. 20 by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [s. 151](https://www.legislation.gov.uk/ukpga/2002/15/section/151); [S.I. 2002/1912](https://www.legislation.gov.uk/uksi/2002/1912), [art. 2(c)](https://www.legislation.gov.uk/uksi/2002/1912/article/2/c); [S.I. 2002/3012](https://www.legislation.gov.uk/uksi/2002/3012), [art. 2(c)](https://www.legislation.gov.uk/uksi/2002/3012/article/2/c); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/1986/article/3/1) (subject to [art. 3(2)-(7)](https://www.legislation.gov.uk/uksi/2003/1986/article/3/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/669/article/2/d) (subject to [art. 2(d)(i)-(vi)](https://www.legislation.gov.uk/uksi/2004/669/article/2/d/i))
 
-[^key-fc52615a48dfe2f9d702adfb9941e0f4]: Textual amendment: Words in [s. 20(1)(b)](https://www.legislation.gov.uk/ukpga/1985/70/section/20/1/b) inserted (1.4.2023 for specified purposes) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 133(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/133/2), [170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/1/g)
+[^c-fc52615a48dfe2f9d702adfb9941e0f4]: Textual amendment: Words in [s. 20(1)(b)](https://www.legislation.gov.uk/ukpga/1985/70/section/20/1/b) inserted (1.4.2023 for specified purposes) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 133(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/133/2), [170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/1/g)
 
-[^key-7597055e448e8dda02371212a638ffba]: Textual amendment: Words in s. 20(1)(b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/50) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-7597055e448e8dda02371212a638ffba]: Textual amendment: Words in s. 20(1)(b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/50) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c13236951]: Modification: Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 102](https://www.legislation.gov.uk/ukpga/2002/15/section/102), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/4); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
 
@@ -2073,9 +2073,9 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
 [^c13236941]: Textual amendment: Ss. 20, 20ZA substituted (26.7.2002 for E. for certain purposes and otherwise 31.10.2003 and 1.1.2003 for W. for certain purposes and otherwise 30.3.2004) for s. 20 by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [s. 151](https://www.legislation.gov.uk/ukpga/2002/15/section/151); [S.I. 2002/1912](https://www.legislation.gov.uk/uksi/2002/1912), [art. 2(c)](https://www.legislation.gov.uk/uksi/2002/1912/article/2/c); [S.I. 2002/3012](https://www.legislation.gov.uk/uksi/2002/3012), [art. 2(c)](https://www.legislation.gov.uk/uksi/2002/3012/article/2/c); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/1986/article/3/1) (subject to [art. 3(2)-(7)](https://www.legislation.gov.uk/uksi/2003/1986/article/3/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/669/article/2/d) (subject to [art. 2(d)(i)-(vi)](https://www.legislation.gov.uk/uksi/2004/669/article/2/d/i))
 
-[^key-5e900a9f159dd88489913d274942e877]: Textual amendment: Words in s. 20ZA(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/51) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-5e900a9f159dd88489913d274942e877]: Textual amendment: Words in s. 20ZA(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/51) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-40d1c5e20d763aef7314d719eda0475c]: Textual amendment: [S. 20ZA(5A)](https://www.legislation.gov.uk/ukpga/1985/70/section/20ZA/5A) inserted (1.4.2023 for specified purposes) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 133(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/133/3), [170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/1/g)
+[^c-40d1c5e20d763aef7314d719eda0475c]: Textual amendment: [S. 20ZA(5A)](https://www.legislation.gov.uk/ukpga/1985/70/section/20ZA/5A) inserted (1.4.2023 for specified purposes) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 133(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/133/3), [170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/1/g)
 
 [^c13237101]: Modification: Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 102](https://www.legislation.gov.uk/ukpga/2002/15/section/102), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/4); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
 
@@ -2121,23 +2121,23 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
 [^c19938401]: Textual amendment: Words in s. 20C(1) inserted (6.4.2006 for E. and 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [ss. 265(1)](https://www.legislation.gov.uk/ukpga/2004/34/section/265/1), [270](https://www.legislation.gov.uk/ukpga/2004/34/section/270), [Sch. 15 para. 32(1)(2)](https://www.legislation.gov.uk/ukpga/2004/34/schedule/15/paragraph/32/1/2); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/1535/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-6d6f028d6c9775963b3a9d76a24d3b79]: Textual amendment: Words in s. 20C(1) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 52(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/52/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-6d6f028d6c9775963b3a9d76a24d3b79]: Textual amendment: Words in s. 20C(1) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 52(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/52/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c20642731]: Textual amendment: Words in s. 20C(1) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 5(1)(2)](https://www.legislation.gov.uk/uksi/2009/1307/article/5/1/2), [Sch. 1 para. 177](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/177) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-e29e6ce00a6718067340707466ed4f36]: Textual amendment: Words in s. 20C(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-e29e6ce00a6718067340707466ed4f36]: Textual amendment: Words in s. 20C(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c19938561]: Textual amendment: S. 20C(2)(aa) inserted (6.4.2006 for E. and 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [ss. 265(1)](https://www.legislation.gov.uk/ukpga/2004/34/section/265/1), [270](https://www.legislation.gov.uk/ukpga/2004/34/section/270), [Sch. 15 para. 32(1)(3)](https://www.legislation.gov.uk/ukpga/2004/34/schedule/15/paragraph/32/1/3); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/1535/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-a87c84e0b26385e09ad0ffae8779e38c]: Textual amendment: S. 20C(2)(ba) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 52(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/52/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-a87c84e0b26385e09ad0ffae8779e38c]: Textual amendment: S. 20C(2)(ba) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 52(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/52/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c20642751]: Textual amendment: Words in s. 20C(2)(c) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 5(1)(2)](https://www.legislation.gov.uk/uksi/2009/1307/article/5/1/2), [Sch. 1 para. 177](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/177) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-dcc5a1432d70f3340b3c7992ca1a5f7b]: Textual amendment: [Ss. 20D](https://www.legislation.gov.uk/ukpga/1985/70/section/20D), [20E](https://www.legislation.gov.uk/ukpga/1985/70/section/20E) inserted (1.4.2023 for specified purposes) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 133(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/133/4), [170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/1/g)
+[^c-dcc5a1432d70f3340b3c7992ca1a5f7b]: Textual amendment: [Ss. 20D](https://www.legislation.gov.uk/ukpga/1985/70/section/20D), [20E](https://www.legislation.gov.uk/ukpga/1985/70/section/20E) inserted (1.4.2023 for specified purposes) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 133(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/133/4), [170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/1/g)
 
-[^key-e34e77f684020c7c142b9a51b98642df]: Textual amendment: [S. 20F](https://www.legislation.gov.uk/ukpga/1985/70/section/20F) inserted (28.4.2022 for specified purposes, 6.4.2023 for specified purposes) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 112(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/3), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(iii)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/iii)
+[^c-e34e77f684020c7c142b9a51b98642df]: Textual amendment: [S. 20F](https://www.legislation.gov.uk/ukpga/1985/70/section/20F) inserted (28.4.2022 for specified purposes, 6.4.2023 for specified purposes) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 112(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/3), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(iii)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/iii)
 
-[^key-4602b0ac90054547ad7cba8a22ba41e9]: Textual amendment: [Ss. 20J](https://www.legislation.gov.uk/ukpga/1985/70/section/20J), [20K](https://www.legislation.gov.uk/ukpga/1985/70/section/20K) inserted (3.3.2025 for the insertion of s. 20J for specified purposes) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 64](https://www.legislation.gov.uk/ukpga/2024/22/section/64), [124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3) (with [s. 71](https://www.legislation.gov.uk/ukpga/2024/22/section/71)); [S.I. 2025/131](https://www.legislation.gov.uk/uksi/2025/131), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/131/regulation/2/e)
+[^c-4602b0ac90054547ad7cba8a22ba41e9]: Textual amendment: [Ss. 20J](https://www.legislation.gov.uk/ukpga/1985/70/section/20J), [20K](https://www.legislation.gov.uk/ukpga/1985/70/section/20K) inserted (3.3.2025 for the insertion of s. 20J for specified purposes) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 64](https://www.legislation.gov.uk/ukpga/2024/22/section/64), [124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3) (with [s. 71](https://www.legislation.gov.uk/ukpga/2024/22/section/71)); [S.I. 2025/131](https://www.legislation.gov.uk/uksi/2025/131), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/131/regulation/2/e)
 
 [^c13237391]: Modification: Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 102](https://www.legislation.gov.uk/ukpga/2002/15/section/102), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/4); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
 
@@ -2147,9 +2147,9 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
 [^c19944301]: Textual amendment: S. 21 (as substituted by s. 152 of the [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15)) substituted (1.12.2008 for E. for the purpose of enabling the Secretary of State to make regulations and otherwise prosp.) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 303](https://www.legislation.gov.uk/ukpga/2008/17/section/303), [325(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/3/b/4), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2008/17/schedule/12/paragraph/2); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-3](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-bd0eadea713fb36aa5adf1af4c2b5578]: Textual amendment: [S. 21(6A)](https://www.legislation.gov.uk/ukpga/1985/70/section/21/6A) inserted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 112(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/4), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(iv)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/iv)
+[^c-bd0eadea713fb36aa5adf1af4c2b5578]: Textual amendment: [S. 21(6A)](https://www.legislation.gov.uk/ukpga/1985/70/section/21/6A) inserted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 112(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/4), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(iv)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/iv)
 
-[^key-0dc6b3d76a4b2eb5ffe1f1f98aca859c]: Textual amendment: Words in [s. 21(6A)](https://www.legislation.gov.uk/ukpga/1985/70/section/21/6A) inserted (28.6.2022) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3), [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2022/30/schedule/8/paragraph/17) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164))
+[^c-0dc6b3d76a4b2eb5ffe1f1f98aca859c]: Textual amendment: Words in [s. 21(6A)](https://www.legislation.gov.uk/ukpga/1985/70/section/21/6A) inserted (28.6.2022) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3), [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2022/30/schedule/8/paragraph/17) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164))
 
 [^c13237411]: Modification: Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 102](https://www.legislation.gov.uk/ukpga/2002/15/section/102), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/4); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
 
@@ -2167,7 +2167,7 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
 [^c19944651]: Textual amendment: S. 21A(3)(b) substituted (1.12.2008 for certain purposes and otherwise prosp.) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 303](https://www.legislation.gov.uk/ukpga/2008/17/section/303), [325](https://www.legislation.gov.uk/ukpga/2008/17/section/325), [Sch. 12 para. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/12/paragraph/3/4/b); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-ca569ab5bcdaab9478ed5a21b500ddb5]: Textual amendment: Words in s. 21A(4) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/53) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-ca569ab5bcdaab9478ed5a21b500ddb5]: Textual amendment: Words in s. 21A(4) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/53) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c13237441]: Modification: Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 102](https://www.legislation.gov.uk/ukpga/2002/15/section/102), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/4); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
 
@@ -2237,7 +2237,7 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
     Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 172](https://www.legislation.gov.uk/ukpga/2002/15/section/172), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/ii) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/699](https://www.legislation.gov.uk/uksi/2004/699), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2004/699/article/2/c/ii) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2004/699/schedule/2)); [S.I. 2004/3056](https://www.legislation.gov.uk/uksi/2004/3056), [art. 3(h)](https://www.legislation.gov.uk/uksi/2004/3056/article/3/h) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2004/3056/article/4) (as amended by [S.I. 2005/193](https://www.legislation.gov.uk/uksi/2005/193), [art. 2](https://www.legislation.gov.uk/uksi/2005/193/article/2))); [S.I. 2005/1353](https://www.legislation.gov.uk/uksi/2005/1353), [art. 2(h)](https://www.legislation.gov.uk/uksi/2005/1353/article/2/h) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2005/1353/article/3))
 
-[^key-3e4a57d383e0a72cce922b8b2cf005fc]: Textual amendment: S. 25(3) inserted (1.12.2014) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 128](https://www.legislation.gov.uk/anaw/2014/7/section/128), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-3e4a57d383e0a72cce922b8b2cf005fc]: Textual amendment: S. 25(3) inserted (1.12.2014) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 128](https://www.legislation.gov.uk/anaw/2014/7/section/128), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
 
 [^c13238001]: Modification: Ss. 18-30 modified (1.4.1995) by [S.I. 1995/401](https://www.legislation.gov.uk/uksi/1995/401), [art. 18](https://www.legislation.gov.uk/uksi/1995/401/article/18), [Sch. para. 10(b)](https://www.legislation.gov.uk/uksi/1995/401/schedule/paragraph/10/b)
 
@@ -2259,7 +2259,7 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
 [^c13238061]: Textual amendment: Words in s. 26(2)(c) added (1.4.1997) by [S.I. 1997/627](https://www.legislation.gov.uk/uksi/1997/627), [art. 2](https://www.legislation.gov.uk/uksi/1997/627/article/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/1997/627/schedule/paragraph/4)
 
-[^key-d6b05eb39a8be2f85008530f950af35f]: Textual amendment: Words in s. 26(3)(a) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 60](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/60) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-d6b05eb39a8be2f85008530f950af35f]: Textual amendment: Words in s. 26(3)(a) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 60](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/60) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
 [^c13238071]: Textual amendment: Words in s. 26(3)(a) substituted (1.10.1996) by [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325), [art. 5(1)](https://www.legislation.gov.uk/uksi/1996/2325/article/5/1), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/16/3)
 
@@ -2291,13 +2291,13 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
 [^c13238311]: Textual amendment: S. 27A inserted (E.W.) (30.9.2003 for E. and 30.3.2004 for W.) by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 155(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/155/1), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1986/article/1/2), [2(c)(i)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/i) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/i) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
 
-[^key-f04c56f27a3321d33761064f1d84453a]: Textual amendment: Words in s. 27A(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/54) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-f04c56f27a3321d33761064f1d84453a]: Textual amendment: Words in s. 27A(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/54) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c13238331]: Modification: S. 27A(3): power to amend conferred (E.) (30.9.2003) (W.) (30.3.2004) by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 150](https://www.legislation.gov.uk/ukpga/2002/15/section/150), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 9 para. 13(b)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/9/paragraph/13/b); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/i) (subject to savings in [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/699](https://www.legislation.gov.uk/uksi/2004/699), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2004/699/article/2/c/i) (subject to savings in [Sch. 2](https://www.legislation.gov.uk/uksi/2004/699/schedule/2))
 
-[^key-55d0792727959c622f7b5b24b92beeb4]: Textual amendment: Words in s. 27A(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/54) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-55d0792727959c622f7b5b24b92beeb4]: Textual amendment: Words in s. 27A(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/54) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-5c8e5bc3985062b562f27899e398aa31]: Textual amendment: Words in s. 27A(7) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/54) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-5c8e5bc3985062b562f27899e398aa31]: Textual amendment: Words in s. 27A(7) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/54) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c13238711]: Modification: Ss. 18-30 modified (1.4.1995) by [S.I. 1995/401](https://www.legislation.gov.uk/uksi/1995/401), [art. 18](https://www.legislation.gov.uk/uksi/1995/401/article/18), [Sch. para. 10(b)](https://www.legislation.gov.uk/uksi/1995/401/schedule/paragraph/10/b)
 
@@ -2345,23 +2345,23 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
 [^c13238881]: Textual amendment: Words substituted by [Landlord and Tenant Act 1987 (c. 31, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1987/31), [s. 41](https://www.legislation.gov.uk/ukpga/1987/31/section/41), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/ukpga/1987/31/schedule/2/paragraph/10/2)
 
-[^key-5aaa3ec7a43202c3faf7ee61ed5ff63f]: Textual amendment: S. 29(1)(b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 55(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/55/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-5aaa3ec7a43202c3faf7ee61ed5ff63f]: Textual amendment: S. 29(1)(b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 55(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/55/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-7579a41e297cee5cb5f9190b7113f1f6]: Textual amendment: Words in s. 29(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 55(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/55/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-7579a41e297cee5cb5f9190b7113f1f6]: Textual amendment: Words in s. 29(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 55(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/55/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c13238891]: Marginal citation: [1977 c. 42](https://www.legislation.gov.uk/ukpga/1977/42).
 
-[^key-4c9dabec5cd04a60398fb71a5ab9018d]: Textual amendment: Words in s. 29(4) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 55(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/55/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-4c9dabec5cd04a60398fb71a5ab9018d]: Textual amendment: Words in s. 29(4) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 55(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/55/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c13238901]: Textual amendment: Words substituted by [Landlord and Tenant Act 1987 (c. 31, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1987/31), [s. 41](https://www.legislation.gov.uk/ukpga/1987/31/section/41), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/ukpga/1987/31/schedule/2/paragraph/10/3)
 
 [^c13238911]: Textual amendment: S. 29(5) substituted by [Landlord and Tenant Act 1987 (c. 31, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1987/31), [s. 41](https://www.legislation.gov.uk/ukpga/1987/31/section/41), [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/ukpga/1987/31/schedule/2/paragraph/10/4)
 
-[^key-6ca7c11f51d65cb631889ed8ddb91b78]: Textual amendment: Words in s. 29(5)(a) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 55(d)(i)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/55/d/i) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-6ca7c11f51d65cb631889ed8ddb91b78]: Textual amendment: Words in s. 29(5)(a) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 55(d)(i)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/55/d/i) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-446b304ff7aad3ca787647111fa41c16]: Textual amendment: Words in s. 29(5)(b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 55(d)(ii)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/55/d/ii) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-446b304ff7aad3ca787647111fa41c16]: Textual amendment: Words in s. 29(5)(b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 55(d)(ii)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/55/d/ii) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-c16782f5f1e38d0e5d813473ddca6151]: Textual amendment: [S. 29A](https://www.legislation.gov.uk/ukpga/1985/70/section/29A) inserted (12.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 130](https://www.legislation.gov.uk/ukpga/2016/22/section/130), [216(2)(b)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/2/b)
+[^c-c16782f5f1e38d0e5d813473ddca6151]: Textual amendment: [S. 29A](https://www.legislation.gov.uk/ukpga/1985/70/section/29A) inserted (12.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 130](https://www.legislation.gov.uk/ukpga/2016/22/section/130), [216(2)(b)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/2/b)
 
 [^c13238921]: Modification: S. 30 amended by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 57(7)](https://www.legislation.gov.uk/ukpga/1985/51/section/57/7), [Sch. 13 para. 24](https://www.legislation.gov.uk/ukpga/1985/51/schedule/13/paragraph/24) (as substituted by [Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61)](https://www.legislation.gov.uk/ukpga/1985/71), [s. 4](https://www.legislation.gov.uk/ukpga/1985/71/section/4), [Sch. 2 para. 61](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/61)) and [Housing Act 1988 (c. 50, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 79(12)](https://www.legislation.gov.uk/ukpga/1988/50/section/79/12)
 
@@ -2373,11 +2373,11 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
     Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 172](https://www.legislation.gov.uk/ukpga/2002/15/section/172), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/ii) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/ii) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2)); [S.I. 2004/3056](https://www.legislation.gov.uk/uksi/2004/3056), [art. 3(h)](https://www.legislation.gov.uk/uksi/2004/3056/article/3/h) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2004/3056/article/4) (as amended by [S.I. 2005/193](https://www.legislation.gov.uk/uksi/2005/193), [art. 2](https://www.legislation.gov.uk/uksi/2005/193/article/2))); [S.I. 2005/1353](https://www.legislation.gov.uk/uksi/2005/1353), [art. 2(h)](https://www.legislation.gov.uk/uksi/2005/1353/article/2/h) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2005/1353/article/3))
 
-[^key-bd8ddc161cd87602eb9090117f1ab5e1]: Textual amendment: Words in [s. 30](https://www.legislation.gov.uk/ukpga/1985/70/section/30) heading substituted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 112(5)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/5/b), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(iv)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/iv)
+[^c-bd8ddc161cd87602eb9090117f1ab5e1]: Textual amendment: Words in [s. 30](https://www.legislation.gov.uk/ukpga/1985/70/section/30) heading substituted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 112(5)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/5/b), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(iv)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/iv)
 
 [^c13238941]: Textual amendment: Definition of “flat” repealed by [Landlord and Tenant Act 1987 (c. 31, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1987/31), [ss. 41](https://www.legislation.gov.uk/ukpga/1987/31/section/41), [61(2)](https://www.legislation.gov.uk/ukpga/1987/31/section/61/2), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/ukpga/1987/31/schedule/2/paragraph/11/a), [Sch. 5](https://www.legislation.gov.uk/ukpga/1987/31/schedule/5)
 
-[^key-0b59aa87d145b12fad2c45da5765b452]: Textual amendment: Words in [s. 30](https://www.legislation.gov.uk/ukpga/1985/70/section/30) inserted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 112(5)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/5/a), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(iv)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/iv)
+[^c-0b59aa87d145b12fad2c45da5765b452]: Textual amendment: Words in [s. 30](https://www.legislation.gov.uk/ukpga/1985/70/section/30) inserted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 112(5)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/5/a), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(iv)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/iv)
 
 [^c13238951]: Textual amendment: Word substituted by [Landlord and Tenant Act 1987 (c. 31, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1987/31), [s. 41](https://www.legislation.gov.uk/ukpga/1987/31/section/41), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/ukpga/1987/31/schedule/2/paragraph/11/b)
 
@@ -2393,7 +2393,7 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
 [^c19932981]: Modification: [Ss. 18-30B](https://www.legislation.gov.uk/ukpga/1985/70/section/18) extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 172](https://www.legislation.gov.uk/ukpga/2002/15/section/172), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/ii) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/ii) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2)); [S.I. 2004/3056](https://www.legislation.gov.uk/uksi/2004/3056), [art. 3(h)](https://www.legislation.gov.uk/uksi/2004/3056/article/3/h) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2004/3056/article/4) (as amended by [S.I. 2005/193](https://www.legislation.gov.uk/uksi/2005/193), [art. 2](https://www.legislation.gov.uk/uksi/2005/193/article/2))); [S.I. 2005/1353](https://www.legislation.gov.uk/uksi/2005/1353), [art. 2(h)](https://www.legislation.gov.uk/uksi/2005/1353/article/2/h) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2005/1353/article/3))
 
-[^key-910c37519af4702c87373dd22685aa56]: Textual amendment: [Ss. 30C-30I](https://www.legislation.gov.uk/ukpga/1985/70/section/30C) and cross-heading inserted (28.4.2022 for specified purposes, 6.4.2023 for specified purposes) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 112(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/2), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(ii)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/ii)
+[^c-910c37519af4702c87373dd22685aa56]: Textual amendment: [Ss. 30C-30I](https://www.legislation.gov.uk/ukpga/1985/70/section/30C) and cross-heading inserted (28.4.2022 for specified purposes, 6.4.2023 for specified purposes) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 112(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/2), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(ii)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/ii)
 
 [^c13239011]: Textual amendment: Words in the definition of "rent" in s. 31(3) inserted (1.4.1993) by [S.I. 1993/651](https://www.legislation.gov.uk/uksi/1993/651), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/651/article/2/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/1993/651/schedule/1/paragraph/16)
 
@@ -2409,7 +2409,7 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
 [^c13239191]: Textual amendment: Words in [s. 32(1)](https://www.legislation.gov.uk/ukpga/1985/70/section/32/1) substituted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 93(2)](https://www.legislation.gov.uk/ukpga/1996/52/section/93/2); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2)
 
-[^key-2912e5a6f2261f55891fcd2d1756ac0b]: Textual amendment: Words in [s. 32(1)](https://www.legislation.gov.uk/ukpga/1985/70/section/32/1) inserted (28.4.2022 for specified purposes, 6.4.2023 for specified purposes) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 112(6)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/6), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(v)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/v)
+[^c-2912e5a6f2261f55891fcd2d1756ac0b]: Textual amendment: Words in [s. 32(1)](https://www.legislation.gov.uk/ukpga/1985/70/section/32/1) inserted (28.4.2022 for specified purposes, 6.4.2023 for specified purposes) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 112(6)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/6), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(v)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/v)
 
 [^c13239201]: Marginal citation: [1954 c. 56](https://www.legislation.gov.uk/ukpga/1954/56).
 
@@ -2417,13 +2417,13 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
 [^c13239221]: Marginal citation: [1976 c. 80](https://www.legislation.gov.uk/ukpga/1976/80).
 
-[^key-4f71ce5d9b2f70a478b14602671ea34d]: Modification: [S. 38](https://www.legislation.gov.uk/ukpga/1985/70/section/38) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/10)
+[^c-4f71ce5d9b2f70a478b14602671ea34d]: Modification: [S. 38](https://www.legislation.gov.uk/ukpga/1985/70/section/38) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/10)
 
-[^key-ec0308041915f47c07d58e5dd2cd26c9]: Modification: [S. 38](https://www.legislation.gov.uk/ukpga/1985/70/section/38) excluded (29.6.2026) by [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13), [Sch. 10A para. 50](https://www.legislation.gov.uk/ukpga/2011/13/schedule/10A/paragraph/50) (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
+[^c-ec0308041915f47c07d58e5dd2cd26c9]: Modification: [S. 38](https://www.legislation.gov.uk/ukpga/1985/70/section/38) excluded (29.6.2026) by [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13), [Sch. 10A para. 50](https://www.legislation.gov.uk/ukpga/2011/13/schedule/10A/paragraph/50) (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
 
 [^c13240381]: Modification: S. 38 extended by [S.I. 1985/1884](https://www.legislation.gov.uk/uksi/1985/1884), [art. 10](https://www.legislation.gov.uk/uksi/1985/1884/article/10), [Sch. 3 para. 4(y)](https://www.legislation.gov.uk/uksi/1985/1884/schedule/3/paragraph/4/y)
 
-[^key-fe147a9e61e0cb5a353e0542eab999b2]: Textual amendment: Definition in s. 38 inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 56](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/56) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-fe147a9e61e0cb5a353e0542eab999b2]: Textual amendment: Definition in s. 38 inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 56](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/56) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c13240391]: Textual amendment: Definition in s. 38 inserted (1.9.1997) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 83(5)](https://www.legislation.gov.uk/ukpga/1996/52/section/83/5); [S.I. 1997/1851](https://www.legislation.gov.uk/uksi/1997/1851), [art. 2](https://www.legislation.gov.uk/uksi/1997/1851/article/2)
 
@@ -2439,7 +2439,7 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
 [^c13240451]: Textual amendment: Words inserted by [Norfolk and Suffolk Broads Act 1988 (c. 4, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1988/4), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/1988/4/section/23/2), [27(2)](https://www.legislation.gov.uk/ukpga/1988/4/section/27/2), [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/1988/4/schedule/6/paragraph/26)
 
-[^key-d8c207a7cfb2259a65d7dc2e5688dd6c]: Textual amendment: Words in s. 38 substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 170](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/170); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/49))
+[^c-d8c207a7cfb2259a65d7dc2e5688dd6c]: Textual amendment: Words in s. 38 substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 170](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/170); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/49))
 
 [^M_F_cb2a8f99-ca6b-4d27-f9aa-4538db9f8147]: Textual amendment: Words repealed (1.4.2002) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/2001/16/section/128/1), [137](https://www.legislation.gov.uk/ukpga/2001/16/section/137), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 6 para. 69](https://www.legislation.gov.uk/ukpga/2001/16/schedule/6/paragraph/69), [Sch. 7 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3](https://www.legislation.gov.uk/uksi/2002/344/article/3)
 
@@ -2449,11 +2449,11 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
 [^c20642781]: Textual amendment: S. 38: words in definition of "local authority" inserted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 119](https://www.legislation.gov.uk/ukpga/2009/20/section/119), [148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 70](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/70); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(b)(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/b/c)
 
-[^key-23a4fe4f2e990fc0d669fe6ca1019de7]: Textual amendment: Words in [s. 38](https://www.legislation.gov.uk/ukpga/1985/70/section/38) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 86](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/86) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-23a4fe4f2e990fc0d669fe6ca1019de7]: Textual amendment: Words in [s. 38](https://www.legislation.gov.uk/ukpga/1985/70/section/38) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 86](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/86) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-e9641825683f9ff224247c2d739db167]: Textual amendment: Words in s. 38 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 13 para. 6(20)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/6/20); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(g)](https://www.legislation.gov.uk/uksi/2015/994/article/6/g)
+[^c-e9641825683f9ff224247c2d739db167]: Textual amendment: Words in s. 38 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 13 para. 6(20)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/6/20); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(g)](https://www.legislation.gov.uk/uksi/2015/994/article/6/g)
 
-[^key-e306cd835987d99e31261f1f6a709237]: Textual amendment: Words in [s. 38](https://www.legislation.gov.uk/ukpga/1985/70/section/38) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 75](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/75); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+[^c-e306cd835987d99e31261f1f6a709237]: Textual amendment: Words in [s. 38](https://www.legislation.gov.uk/ukpga/1985/70/section/38) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 75](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/75); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
 [^c13240531]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
@@ -2461,7 +2461,7 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
 [^c19945681]: Textual amendment: S. 38(b)(c) substituted for s. 38(b) and preceding word (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 56](https://www.legislation.gov.uk/ukpga/2008/17/section/56), [325](https://www.legislation.gov.uk/ukpga/2008/17/section/325), [Sch. 8 para. 36](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/36); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-98475e35de4e25c9339075da5112ee7e]: Textual amendment: S. 38(ba) substituted for word (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 19 para. 22](https://www.legislation.gov.uk/ukpga/2011/20/schedule/19/paragraph/22); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-98475e35de4e25c9339075da5112ee7e]: Textual amendment: S. 38(ba) substituted for word (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 19 para. 22](https://www.legislation.gov.uk/ukpga/2011/20/schedule/19/paragraph/22); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
 [^c13240551]: Textual amendment: Definition in s. 38 substituted (1.10.1996) by [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325), [art. 5(1)](https://www.legislation.gov.uk/uksi/1996/2325/article/5/1), [Sch. 2 para. 16(4)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/16/4)
 
@@ -2471,7 +2471,7 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
 [^c13240611]: Textual amendment: Words in s. 39 substituted (30.9.2003 for E. and 30.3.2004 for W.) by virtue of [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 155(3)](https://www.legislation.gov.uk/ukpga/2002/15/section/155/3), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/i) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/i) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
 
-[^key-54ac9d55b34deccfc9118543c83218b1]: Textual amendment: Words in [s. 39](https://www.legislation.gov.uk/ukpga/1985/70/section/39) inserted (20.3.2019) by [Homes (Fitness for Human Habitation) Act 2018 (c. 34)](https://www.legislation.gov.uk/ukpga/2018/34), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2018/34/section/1/5), [2(2)](https://www.legislation.gov.uk/ukpga/2018/34/section/2/2)
+[^c-54ac9d55b34deccfc9118543c83218b1]: Textual amendment: Words in [s. 39](https://www.legislation.gov.uk/ukpga/1985/70/section/39) inserted (20.3.2019) by [Homes (Fitness for Human Habitation) Act 2018 (c. 34)](https://www.legislation.gov.uk/ukpga/2018/34), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2018/34/section/1/5), [2(2)](https://www.legislation.gov.uk/ukpga/2018/34/section/2/2)
 
 [^c19945961]: Textual amendment: S. 39: table entry for 'qualified accountant' omitted (1.12.2008 for certain purposes and otherwise prosp.) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 303](https://www.legislation.gov.uk/ukpga/2008/17/section/303), [325](https://www.legislation.gov.uk/ukpga/2008/17/section/325), [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2008/17/schedule/12/paragraph/10) and repealed (prosp.) by s. 321(1), {Sch. 16}; [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
@@ -2529,9 +2529,9 @@ S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
 
 [^c13240901]: Textual amendment: Words in Sch. para. 8(1)(2) inserted (28.2.2005 for E. and 31.5.2005 for W.) by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 165(2)](https://www.legislation.gov.uk/ukpga/2002/15/section/165/2), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [S.I. 2004/3056](https://www.legislation.gov.uk/uksi/2004/3056), [art. 3(d)](https://www.legislation.gov.uk/uksi/2004/3056/article/3/d) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2004/3056/article/4) (as amended by [S.I. 2005/193](https://www.legislation.gov.uk/uksi/2005/193), [art. 2](https://www.legislation.gov.uk/uksi/2005/193/article/2))); [S.I. 2005/1353](https://www.legislation.gov.uk/uksi/2005/1353), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/1353/article/2/d) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2005/1353/article/3))
 
-[^key-ba2c6f70c40cc178c805226e2d42e388]: Textual amendment: Words in Sch. para. 8(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-ba2c6f70c40cc178c805226e2d42e388]: Textual amendment: Words in Sch. para. 8(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-fe8debb14550e387b91dca65ca7a571f]: Textual amendment: Words in Sch. para. 8(2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 57](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/57) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-fe8debb14550e387b91dca65ca7a571f]: Textual amendment: Words in Sch. para. 8(2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 57](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/57) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c13240921]: Textual amendment: Words in Sch. para. 8(4) inserted (28.2.2005 for E. and 31.5.2005 for W.) by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 165(3)](https://www.legislation.gov.uk/ukpga/2002/15/section/165/3), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [S.I. 2004/3056](https://www.legislation.gov.uk/uksi/2004/3056), [art. 3(d)](https://www.legislation.gov.uk/uksi/2004/3056/article/3/d) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2004/3056/article/4) (as amended by [S.I. 2005/193](https://www.legislation.gov.uk/uksi/2005/193), [art. 2](https://www.legislation.gov.uk/uksi/2005/193/article/2))); [S.I. 2005/1353](https://www.legislation.gov.uk/uksi/2005/1353), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/1353/article/2/d) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2005/1353/article/3))
 

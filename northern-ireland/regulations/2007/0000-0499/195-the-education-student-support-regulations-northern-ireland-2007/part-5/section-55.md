@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Additional amount of grant for travel – overseas study[^key-0c71fa88f20cf135ebd24f51180398a5]
+## 55. Additional amount of grant for travel – overseas study[^c-0c71fa88f20cf135ebd24f51180398a5]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ qualifies for additional grant under this regulation equal to the amount incurre
 
 ## Annotations
 
-[^key-0c71fa88f20cf135ebd24f51180398a5]: Commencement: [Reg. 55](https://www.legislation.gov.uk/nisr/2007/195/regulation/55) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-0c71fa88f20cf135ebd24f51180398a5]: Commencement: [Reg. 55](https://www.legislation.gov.uk/nisr/2007/195/regulation/55) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

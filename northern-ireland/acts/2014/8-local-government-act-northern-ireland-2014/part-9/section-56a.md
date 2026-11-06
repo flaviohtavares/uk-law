@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56A. Adjudication hearings[^key-0fb9161accd395024f35e869cc2d7652]
+## 56A. Adjudication hearings[^c-0fb9161accd395024f35e869cc2d7652]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ the procedure for an adjudication hearing is to be such as the Commissioner cons
 
 ## Annotations
 
-[^key-0fb9161accd395024f35e869cc2d7652]: Textual amendment: S. 56A inserted (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 7 para. 2](https://www.legislation.gov.uk/nia/2016/4/schedule/7/paragraph/2) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/2/paragraph/9))
+[^c-0fb9161accd395024f35e869cc2d7652]: Textual amendment: S. 56A inserted (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 7 para. 2](https://www.legislation.gov.uk/nia/2016/4/schedule/7/paragraph/2) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/2/paragraph/9))

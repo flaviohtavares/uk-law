@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Payment of tax[^key-68231ceae40e2f6088acc664494e93fe]
+## 42. Payment of tax[^c-68231ceae40e2f6088acc664494e93fe]
 
 *Extent: E+W*
 
 (1) A person who makes a tax return must pay the amount of tax stated in the return as the amount assessed to be chargeable on the person on or before the filing date for the return.
 
-(1A)[^key-663d21aab85ee40cd9a062688534e3e9] But if an amount of tax credit is set off against that amount of tax in accordance with regulations made under section 54, the amount of tax that the person is required to pay by that date is the amount that remains outstanding after the set-off (if any).
+(1A)[^c-663d21aab85ee40cd9a062688534e3e9] But if an amount of tax credit is set off against that amount of tax in accordance with regulations made under section 54, the amount of tax that the person is required to pay by that date is the amount that remains outstanding after the set-off (if any).
 
 (2) Where an amount of tax is assessed to be chargeable on the person as a result of an amendment made to the tax return under section 41 of TCMA (amendment of tax return by taxpayer), the person must pay the amount—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-68231ceae40e2f6088acc664494e93fe]: Commencement: S. 42 in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-68231ceae40e2f6088acc664494e93fe]: Commencement: S. 42 in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
 
-[^key-663d21aab85ee40cd9a062688534e3e9]: Textual amendment: [S. 42(1A)](https://www.legislation.gov.uk/anaw/2017/3/section/42/1A) inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/3)
+[^c-663d21aab85ee40cd9a062688534e3e9]: Textual amendment: [S. 42(1A)](https://www.legislation.gov.uk/anaw/2017/3/section/42/1A) inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/3)

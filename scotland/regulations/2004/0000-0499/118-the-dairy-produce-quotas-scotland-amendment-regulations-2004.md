@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Dairy Produce Quotas (Scotland) Amendment Regulations 2004 (revoked)[^key-423d359dd7bcc40893e95aa407a188dc]
+The Dairy Produce Quotas (Scotland) Amendment Regulations 2004 (revoked)[^c-423d359dd7bcc40893e95aa407a188dc]
 
 Made
 
@@ -45,104 +45,104 @@ Coming into force
 
 1st April 2004
 
-[^key-423d359dd7bcc40893e95aa407a188dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-423d359dd7bcc40893e95aa407a188dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-423d359dd7bcc40893e95aa407a188dc]
+## 1. Citation and commencement[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-423d359dd7bcc40893e95aa407a188dc]
+## 2. Interpretation[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-423d359dd7bcc40893e95aa407a188dc]
+## 3. Amendment of the principal Regulations[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 2[^key-423d359dd7bcc40893e95aa407a188dc]
+## 4. Amendment of regulation 2[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 4[^key-423d359dd7bcc40893e95aa407a188dc]
+## 5. Amendment of regulation 4[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 5[^key-423d359dd7bcc40893e95aa407a188dc]
+## 6. Amendment of regulation 5[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 7[^key-423d359dd7bcc40893e95aa407a188dc]
+## 7. Amendment of regulation 7[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of regulation 8[^key-423d359dd7bcc40893e95aa407a188dc]
+## 8. Amendment of regulation 8[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of regulation 12[^key-423d359dd7bcc40893e95aa407a188dc]
+## 9. Amendment of regulation 12[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of regulation 13[^key-423d359dd7bcc40893e95aa407a188dc]
+## 10. Amendment of regulation 13[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of regulation 14[^key-423d359dd7bcc40893e95aa407a188dc]
+## 11. Amendment of regulation 14[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of regulation 16[^key-423d359dd7bcc40893e95aa407a188dc]
+## 12. Amendment of regulation 16[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment of regulation 18[^key-423d359dd7bcc40893e95aa407a188dc]
+## 13. Amendment of regulation 18[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendment of regulation 20[^key-423d359dd7bcc40893e95aa407a188dc]
+## 14. Amendment of regulation 20[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Amendment of regulation 22[^key-423d359dd7bcc40893e95aa407a188dc]
+## 15. Amendment of regulation 22[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Amendment of regulation 25[^key-423d359dd7bcc40893e95aa407a188dc]
+## 16. Amendment of regulation 25[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Amendment of regulation 27[^key-423d359dd7bcc40893e95aa407a188dc]
+## 17. Amendment of regulation 27[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Amendment of regulation 30[^key-423d359dd7bcc40893e95aa407a188dc]
+## 18. Amendment of regulation 30[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Amendment of regulation 32[^key-423d359dd7bcc40893e95aa407a188dc]
+## 19. Amendment of regulation 32[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Amendment of Schedule 1[^key-423d359dd7bcc40893e95aa407a188dc]
+## 20. Amendment of Schedule 1[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Amendment of Schedule 2[^key-423d359dd7bcc40893e95aa407a188dc]
+## 21. Amendment of Schedule 2[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Amendment of Schedule 3[^key-423d359dd7bcc40893e95aa407a188dc]
+## 22. Amendment of Schedule 3[^c-423d359dd7bcc40893e95aa407a188dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-423d359dd7bcc40893e95aa407a188dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-423d359dd7bcc40893e95aa407a188dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-423d359dd7bcc40893e95aa407a188dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-423d359dd7bcc40893e95aa407a188dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-423d359dd7bcc40893e95aa407a188dc]: Textual amendment: Regulations revoked (31.3.2005) by [The Dairy Produce Quotas (Scotland) Regulations 2005 (S.S.I. 2005/91)](https://www.legislation.gov.uk/ssi/2005/91), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2005/91/regulation/1/2), [41(1)](https://www.legislation.gov.uk/ssi/2005/91/regulation/41/1)
+[^c-423d359dd7bcc40893e95aa407a188dc]: Textual amendment: Regulations revoked (31.3.2005) by [The Dairy Produce Quotas (Scotland) Regulations 2005 (S.S.I. 2005/91)](https://www.legislation.gov.uk/ssi/2005/91), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2005/91/regulation/1/2), [41(1)](https://www.legislation.gov.uk/ssi/2005/91/regulation/41/1)

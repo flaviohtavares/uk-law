@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A person who is guilty of an offence under section 277A,[^key-a6509743631cbcf8696f3aa54a084c75] 278 or 279 is liable—
+(1) A person who is guilty of an offence under section 277A,[^c-a6509743631cbcf8696f3aa54a084c75] 278 or 279 is liable—
 
 - (a) on summary conviction, to—
   - (i) in England and Wales, a fine, or
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6509743631cbcf8696f3aa54a084c75]: Textual amendment: Word in [s. 280(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/280/1) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 34(2)](https://www.legislation.gov.uk/ukpga/2024/3/section/34/2)
+[^c-a6509743631cbcf8696f3aa54a084c75]: Textual amendment: Word in [s. 280(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/280/1) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 34(2)](https://www.legislation.gov.uk/ukpga/2024/3/section/34/2)

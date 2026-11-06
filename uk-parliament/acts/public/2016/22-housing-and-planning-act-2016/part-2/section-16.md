@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Making a banning order[^key-8fd22c183091b3aa53d3074ca397b9b5]
+## 16. Making a banning order[^c-8fd22c183091b3aa53d3074ca397b9b5]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fd22c183091b3aa53d3074ca397b9b5]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2016/22/section/16) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-8fd22c183091b3aa53d3074ca397b9b5]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2016/22/section/16) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)

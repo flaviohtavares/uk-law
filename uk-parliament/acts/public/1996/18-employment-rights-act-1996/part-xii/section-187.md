@@ -28,7 +28,7 @@ summary: ''
 
 (4) The following are relevant officers for the purposes of this section—
 
-- (a) a trustee in bankruptcy or a trustee[^key-b70f1219dbeb02670e25898fd1511857] or interim trustee (within the meaning of the Bankruptcy (Scotland) Act 2016[^key-4695fe0304fc067f72503524872b8586]),
+- (a) a trustee in bankruptcy or a trustee[^c-b70f1219dbeb02670e25898fd1511857] or interim trustee (within the meaning of the Bankruptcy (Scotland) Act 2016[^c-4695fe0304fc067f72503524872b8586]),
 - (b) a liquidator,
 - (c) an administrator,
 - (d) a receiver or manager,
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b70f1219dbeb02670e25898fd1511857]: Textual amendment: Word in s. 187(4)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 16(3)(a)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/16/3/a)
+[^c-b70f1219dbeb02670e25898fd1511857]: Textual amendment: Word in s. 187(4)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 16(3)(a)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/16/3/a)
 
-[^key-4695fe0304fc067f72503524872b8586]: Textual amendment: Word in s. 187(4)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 16(3)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/16/3/b)
+[^c-4695fe0304fc067f72503524872b8586]: Textual amendment: Word in s. 187(4)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 16(3)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/16/3/b)
 
 [^c16334121]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).

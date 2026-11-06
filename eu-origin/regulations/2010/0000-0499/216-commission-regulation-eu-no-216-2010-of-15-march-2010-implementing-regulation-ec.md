@@ -35,84 +35,84 @@ implementing Regulation (EC) No 862/2007 of the European Parliament and of the C
 
 (Text with EEA relevance) (revoked)
 
-[^key-a745c383020de0f91b298243dd3d7b87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a745c383020de0f91b298243dd3d7b87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-a745c383020de0f91b298243dd3d7b87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a745c383020de0f91b298243dd3d7b87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a745c383020de0f91b298243dd3d7b87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a745c383020de0f91b298243dd3d7b87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a745c383020de0f91b298243dd3d7b87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a745c383020de0f91b298243dd3d7b87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — List of categories of reasons for issuing residence permits[^key-a745c383020de0f91b298243dd3d7b87]
+## ANNEX — List of categories of reasons for issuing residence permits[^c-a745c383020de0f91b298243dd3d7b87]
 
-[^key-a745c383020de0f91b298243dd3d7b87]1.
+[^c-a745c383020de0f91b298243dd3d7b87]1.
 
 *Reasons related to family formation and reunification*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a745c383020de0f91b298243dd3d7b87]1.1.
+[^c-a745c383020de0f91b298243dd3d7b87]1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a745c383020de0f91b298243dd3d7b87]1.2.
+[^c-a745c383020de0f91b298243dd3d7b87]1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a745c383020de0f91b298243dd3d7b87]2.
+[^c-a745c383020de0f91b298243dd3d7b87]2.
 
 *Reasons related to education and study*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a745c383020de0f91b298243dd3d7b87]2.1.
+[^c-a745c383020de0f91b298243dd3d7b87]2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a745c383020de0f91b298243dd3d7b87]2.2.
+[^c-a745c383020de0f91b298243dd3d7b87]2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a745c383020de0f91b298243dd3d7b87]3.
+[^c-a745c383020de0f91b298243dd3d7b87]3.
 
 *Reasons related to remunerated activities*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a745c383020de0f91b298243dd3d7b87]3.1.
+[^c-a745c383020de0f91b298243dd3d7b87]3.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a745c383020de0f91b298243dd3d7b87]3.2.
+[^c-a745c383020de0f91b298243dd3d7b87]3.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a745c383020de0f91b298243dd3d7b87]3.3.
+[^c-a745c383020de0f91b298243dd3d7b87]3.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a745c383020de0f91b298243dd3d7b87]3.4.
+[^c-a745c383020de0f91b298243dd3d7b87]3.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a745c383020de0f91b298243dd3d7b87]4.
+[^c-a745c383020de0f91b298243dd3d7b87]4.
 
 *Other reasons*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a745c383020de0f91b298243dd3d7b87]4.1.
+[^c-a745c383020de0f91b298243dd3d7b87]4.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a745c383020de0f91b298243dd3d7b87]4.2.
+[^c-a745c383020de0f91b298243dd3d7b87]4.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a745c383020de0f91b298243dd3d7b87]4.3.
+[^c-a745c383020de0f91b298243dd3d7b87]4.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a745c383020de0f91b298243dd3d7b87]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 167](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/167); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a745c383020de0f91b298243dd3d7b87]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 167](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/167); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -36,7 +36,7 @@ An Act to amend the Licensing Act 2003 with respect to the performance of live m
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Licence review for live music entertainment[^key-b3fdde47ed957b692d6c832f47184bc7]
+## 1. Licence review for live music entertainment[^c-b3fdde47ed957b692d6c832f47184bc7]
 
 (1) In section 177 of the Licensing Act 2003 (dancing and live music in certain small premises)—
 
@@ -83,7 +83,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 >   - (a) the sale by retail of alcohol, or
 >   - (b) the supply of alcohol by or on behalf of a club to, or to the order of, a member of the club.
 
-## 2. Removal of requirement to license the provision of entertainment facilities[^key-0fe158cb6ac511f8b1e73e994cf5f51e]
+## 2. Removal of requirement to license the provision of entertainment facilities[^c-0fe158cb6ac511f8b1e73e994cf5f51e]
 
 (1) Schedule 1 to the Licensing Act 2003 (c. 17) is amended as follows.
 
@@ -135,7 +135,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (15) In paragraph 12 omit “or entertainment facilities”.
 
-## 3. Exemptions for live music entertainment[^key-ab340951f2d38e2fe4c6076370ee8a35]
+## 3. Exemptions for live music entertainment[^c-ab340951f2d38e2fe4c6076370ee8a35]
 
 (1) Schedule 1 to the Licensing Act 2003 (c. 17) is amended as follows.
 
@@ -169,7 +169,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 > - (a) is unamplified; and
 > - (b) takes place between 8am and 11pm on the same day.
 
-## 4. Short title, commencement and extent[^key-4f679e854d5ade90ab5e1838f2a19816]
+## 4. Short title, commencement and extent[^c-4f679e854d5ade90ab5e1838f2a19816]
 
 (1) This Act may be cited as the Live Music Act 2012.
 
@@ -179,10 +179,10 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Annotations
 
-[^key-b3fdde47ed957b692d6c832f47184bc7]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2012/2/section/1) in force at 1.10.2012 by [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-b3fdde47ed957b692d6c832f47184bc7]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2012/2/section/1) in force at 1.10.2012 by [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
-[^key-0fe158cb6ac511f8b1e73e994cf5f51e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2012/2/section/2) in force at 1.10.2012 by [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-0fe158cb6ac511f8b1e73e994cf5f51e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2012/2/section/2) in force at 1.10.2012 by [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
-[^key-ab340951f2d38e2fe4c6076370ee8a35]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2012/2/section/3) in force at 1.10.2012 by [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-ab340951f2d38e2fe4c6076370ee8a35]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2012/2/section/3) in force at 1.10.2012 by [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
-[^key-4f679e854d5ade90ab5e1838f2a19816]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2012/2/section/4) in force at 1.10.2012 by [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-4f679e854d5ade90ab5e1838f2a19816]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2012/2/section/4) in force at 1.10.2012 by [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)

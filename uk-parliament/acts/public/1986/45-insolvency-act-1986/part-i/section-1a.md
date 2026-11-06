@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1A. Moratorium.[^key-4c0bf9fc17b554b3498a72f7d3ad211b][^key-9700d312d985436a858eae9798d49154]
+## 1A. Moratorium.[^c-4c0bf9fc17b554b3498a72f7d3ad211b][^c-9700d312d985436a858eae9798d49154]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4c0bf9fc17b554b3498a72f7d3ad211b]: Textual amendment: S. 1A omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-4c0bf9fc17b554b3498a72f7d3ad211b]: Textual amendment: S. 1A omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-9700d312d985436a858eae9798d49154]: Modification: [Ss. 1-7B](https://www.legislation.gov.uk/ukpga/1986/45/section/1) applied (with modifications) (E.W.) (15.3.2024) by [The Water Industry (Special Administration) Regulations 2024 (S.I. 2024/205)](https://www.legislation.gov.uk/uksi/2024/205), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2024/205/regulation/2/2), [5(1)](https://www.legislation.gov.uk/uksi/2024/205/regulation/5/1), [43-45](https://www.legislation.gov.uk/uksi/2024/205/regulation/43) (with [reg. 64](https://www.legislation.gov.uk/uksi/2024/205/regulation/64))
+[^c-9700d312d985436a858eae9798d49154]: Modification: [Ss. 1-7B](https://www.legislation.gov.uk/ukpga/1986/45/section/1) applied (with modifications) (E.W.) (15.3.2024) by [The Water Industry (Special Administration) Regulations 2024 (S.I. 2024/205)](https://www.legislation.gov.uk/uksi/2024/205), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2024/205/regulation/2/2), [5(1)](https://www.legislation.gov.uk/uksi/2024/205/regulation/5/1), [43-45](https://www.legislation.gov.uk/uksi/2024/205/regulation/43) (with [reg. 64](https://www.legislation.gov.uk/uksi/2024/205/regulation/64))

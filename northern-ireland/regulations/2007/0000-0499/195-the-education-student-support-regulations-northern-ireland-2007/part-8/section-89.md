@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 89. Insolvency[^key-3b024abd6dce602d1c8e22dc23b50a1d]
+## 89. Insolvency[^c-3b024abd6dce602d1c8e22dc23b50a1d]
 
 *Extent: N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3b024abd6dce602d1c8e22dc23b50a1d]: Commencement: [Reg. 89](https://www.legislation.gov.uk/nisr/2007/195/regulation/89) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-3b024abd6dce602d1c8e22dc23b50a1d]: Commencement: [Reg. 89](https://www.legislation.gov.uk/nisr/2007/195/regulation/89) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
 [^f00055]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405); Article 283 was amended by the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)), Article 119 and Schedule 1, paragraph 11, the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)), Article 17 and Schedule 2, paragraph 1, and the Insolvency (Northern Ireland) Order 2005 ([S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455), Articles 15 and 31 and Schedule 9.
 

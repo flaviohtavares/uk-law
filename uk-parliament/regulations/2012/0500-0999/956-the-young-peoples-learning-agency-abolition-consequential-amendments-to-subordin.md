@@ -119,7 +119,7 @@ In regulation 41 (interpretation) of the Housing Renewal Grants Regulations 1996
   - (i) in paragraphs (a) and (b) for “Young People's Learning Agency for England” substitute “ Secretary of State under section 14 of the Education Act 2002 ” in each place where those words occur, and
   - (ii) in paragraph (b)(i) for “bodies” substitute “ persons ”.
 
-## 7. Amendment of the National Minimum Wage Regulations 1999[^key-ab2c13231eae37284d88d2af2230d8a6]
+## 7. Amendment of the National Minimum Wage Regulations 1999[^c-ab2c13231eae37284d88d2af2230d8a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -167,11 +167,11 @@ In regulation 4(1)(f) (notification of an inspection) of the Education (School I
 
 In regulation 2(1) (interpretation) of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 [^c2123262] in paragraph (a) of the definition of “training allowance” omit “the Young People's Learning Agency for England,”.
 
-## 13. Amendment of the Council Tax Benefit Regulations 2006[^key-6768e60cb3c8f95969e024aabf758e95]
+## 13. Amendment of the Council Tax Benefit Regulations 2006[^c-6768e60cb3c8f95969e024aabf758e95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendment of the Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-bb6692bdc5074695562d32d7c550efe9]
+## 14. Amendment of the Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-bb6692bdc5074695562d32d7c550efe9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -192,7 +192,7 @@ In regulation 2(1) (interpretation) of the Housing Benefit (Persons who have att
 
 In regulation 8 (persons to whom individual information supplied may be passed) of the Education (Information About Children in Alternative Provision) (England) Regulations 2007 [^c2123266] omit paragraph (h).
 
-## 17. Amendment of the School Organisation (Establishment and Discontinuance of Schools) (England) Regulations 2007[^key-c3b0b03060543dc47a77c220bb6ab3ad]
+## 17. Amendment of the School Organisation (Establishment and Discontinuance of Schools) (England) Regulations 2007[^c-c3b0b03060543dc47a77c220bb6ab3ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -281,7 +281,7 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^c2123256]: Marginal citation: [S.I. 1996/2890](https://www.legislation.gov.uk/uksi/1996/2890); relevant amending instruments are [S.I. 2001/739](https://www.legislation.gov.uk/uksi/2001/739), 2002/530 and 2010/1941.
 
-[^key-ab2c13231eae37284d88d2af2230d8a6]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2012/956/article/7) revoked (6.4.2015) by [The National Minimum Wage Regulations 2015 (S.I. 2015/621)](https://www.legislation.gov.uk/uksi/2015/621), [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/621/schedule)
+[^c-ab2c13231eae37284d88d2af2230d8a6]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2012/956/article/7) revoked (6.4.2015) by [The National Minimum Wage Regulations 2015 (S.I. 2015/621)](https://www.legislation.gov.uk/uksi/2015/621), [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/621/schedule)
 
 [^M_F_59c078c4-b1d7-4925-e4b4-5dbdcd063698]: Textual amendment: Art. 8 revoked (12.2.14) by S.I. 2014/80, reg. 1, sch
 
@@ -293,15 +293,15 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^c2123262]: Marginal citation: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214); relevant amending instruments are [S.I. 2008/3157](https://www.legislation.gov.uk/uksi/2008/3157), 2009/583 and 2010/1941.
 
-[^key-6768e60cb3c8f95969e024aabf758e95]: Textual amendment: Art. 13 revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
+[^c-6768e60cb3c8f95969e024aabf758e95]: Textual amendment: Art. 13 revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
 
-[^key-bb6692bdc5074695562d32d7c550efe9]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/uksi/2012/956/article/14) revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
+[^c-bb6692bdc5074695562d32d7c550efe9]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/uksi/2012/956/article/14) revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
 
 [^c2123265]: Marginal citation: [S.I. 2007/779](https://www.legislation.gov.uk/uksi/2007/779); amended by [S.I. 2010/1941](https://www.legislation.gov.uk/uksi/2010/1941); there are other amending instruments but none are relevant.
 
 [^c2123266]: Marginal citation: [S.I. 2007/1065](https://www.legislation.gov.uk/uksi/2007/1065); amended by [S.I. 2010/1941](https://www.legislation.gov.uk/uksi/2010/1941); there are other amending instruments but none are relevant.
 
-[^key-c3b0b03060543dc47a77c220bb6ab3ad]: Textual amendment: [Art. 17](https://www.legislation.gov.uk/uksi/2012/956/article/17) revoked (28.1.2014) by [The School Organisation (Establishment and Discontinuance of Schools) Regulations 2013 (S.I. 2013/3109)](https://www.legislation.gov.uk/uksi/2013/3109), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3109/regulation/1), [3(1)(g)](https://www.legislation.gov.uk/uksi/2013/3109/regulation/3/1/g) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2013/3109/regulation/3/2))
+[^c-c3b0b03060543dc47a77c220bb6ab3ad]: Textual amendment: [Art. 17](https://www.legislation.gov.uk/uksi/2012/956/article/17) revoked (28.1.2014) by [The School Organisation (Establishment and Discontinuance of Schools) Regulations 2013 (S.I. 2013/3109)](https://www.legislation.gov.uk/uksi/2013/3109), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3109/regulation/1), [3(1)(g)](https://www.legislation.gov.uk/uksi/2013/3109/regulation/3/1/g) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2013/3109/regulation/3/2))
 
 [^M_F_b240b43f-f240-4735-fcf8-d77df3b9e7f7]: Textual amendment: Art. 18 revoked (28.01.04) by S.I. 2013/3110, reg. 1, 8(1)(e)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 11 — Application of other railway legislation[^key-25a9e9a693d4c690f68f714f11a44bbe]
+## SCHEDULE 11 — Application of other railway legislation[^c-25a9e9a693d4c690f68f714f11a44bbe]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,7 +55,7 @@ sections 5 to 7 and 13 to 19.
 
 ### Railway Companies (Accounts and Returns) Act 1911 (c. 34)
 
-**5.**[^key-2b2f444e95f2f0441d316b3f3a11a5ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2b2f444e95f2f0441d316b3f3a11a5ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### British Transport Commission Act 1949 (c. xxix)
 
@@ -93,6 +93,6 @@ the enactments specified in column (1) of the following table (which create the 
 
 ## Annotations
 
-[^key-25a9e9a693d4c690f68f714f11a44bbe]: Modification: [Sch. 11](https://www.legislation.gov.uk/ukpga/2008/18/schedule/11) applied in part (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 para. 1(c)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/c)
+[^c-25a9e9a693d4c690f68f714f11a44bbe]: Modification: [Sch. 11](https://www.legislation.gov.uk/ukpga/2008/18/schedule/11) applied in part (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 para. 1(c)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/c)
 
-[^key-2b2f444e95f2f0441d316b3f3a11a5ff]: Textual amendment: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2008/18/schedule/11/paragraph/5) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/9) Group 3(2)
+[^c-2b2f444e95f2f0441d316b3f3a11a5ff]: Textual amendment: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2008/18/schedule/11/paragraph/5) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/9) Group 3(2)

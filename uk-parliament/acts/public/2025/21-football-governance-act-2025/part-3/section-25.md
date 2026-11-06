@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Procedure for attaching or varying other discretionary licence conditions[^key-a72a2ec50d5196dbeacbbf619c794955][^key-be6b90822130f6ea2ffef7b615f87438]
+## 25. Procedure for attaching or varying other discretionary licence conditions[^c-a72a2ec50d5196dbeacbbf619c794955][^c-be6b90822130f6ea2ffef7b615f87438]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ and must have regard to any representations which are duly made.
 
 ## Annotations
 
-[^key-a72a2ec50d5196dbeacbbf619c794955]: Commencement: S. 25 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-a72a2ec50d5196dbeacbbf619c794955]: Commencement: S. 25 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-be6b90822130f6ea2ffef7b615f87438]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2025/21/section/25) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(xi)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/xi)
+[^c-be6b90822130f6ea2ffef7b615f87438]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2025/21/section/25) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(xi)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/xi)

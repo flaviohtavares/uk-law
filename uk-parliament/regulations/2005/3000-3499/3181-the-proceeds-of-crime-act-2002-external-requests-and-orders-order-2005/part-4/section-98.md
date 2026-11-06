@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Appeal to Supreme Court about restraint orders[^key-64e0a425ff8b03fd3b93dbcfc537848c][^key-2578c325e40e2105d4f56d8796174c66]
+## 98. Appeal to Supreme Court about restraint orders[^c-64e0a425ff8b03fd3b93dbcfc537848c][^c-2578c325e40e2105d4f56d8796174c66]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-64e0a425ff8b03fd3b93dbcfc537848c]: Commencement: [Art. 98](https://www.legislation.gov.uk/uksi/2005/3181/article/98) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-64e0a425ff8b03fd3b93dbcfc537848c]: Commencement: [Art. 98](https://www.legislation.gov.uk/uksi/2005/3181/article/98) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-2578c325e40e2105d4f56d8796174c66]: Textual amendment: Words in [art. 98](https://www.legislation.gov.uk/uksi/2005/3181/article/98) substituted (6.6.2011) by [The Constitutional Reform Act 2005 (Consequential Amendments) Order 2011 (S.I. 2011/1242)](https://www.legislation.gov.uk/uksi/2011/1242), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1242/article/1), [8(4)](https://www.legislation.gov.uk/uksi/2011/1242/article/8/4)
+[^c-2578c325e40e2105d4f56d8796174c66]: Textual amendment: Words in [art. 98](https://www.legislation.gov.uk/uksi/2005/3181/article/98) substituted (6.6.2011) by [The Constitutional Reform Act 2005 (Consequential Amendments) Order 2011 (S.I. 2011/1242)](https://www.legislation.gov.uk/uksi/2011/1242), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1242/article/1), [8(4)](https://www.legislation.gov.uk/uksi/2011/1242/article/8/4)

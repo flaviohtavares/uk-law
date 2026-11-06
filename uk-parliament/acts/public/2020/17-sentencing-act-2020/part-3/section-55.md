@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Duty to give reasons where compensation order not made[^key-844fe3f201adfde7f64fb9bd4945f16e]
+## 55. Duty to give reasons where compensation order not made[^c-844fe3f201adfde7f64fb9bd4945f16e]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ the court must give reasons if it does not make a compensation order.
 
 ## Annotations
 
-[^key-844fe3f201adfde7f64fb9bd4945f16e]: Commencement: S. 55 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-844fe3f201adfde7f64fb9bd4945f16e]: Commencement: S. 55 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

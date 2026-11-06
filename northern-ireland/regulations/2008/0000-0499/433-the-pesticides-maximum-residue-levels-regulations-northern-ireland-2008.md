@@ -43,15 +43,15 @@ Coming into operation-
 
 The Department of Agriculture and Rural Development is a Department designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to the common agricultural policy of the European Community[^f00002] and in relation to measures in the veterinary and phytosanitary fields for the protection of public health[^f00003].
 
-These Regulations make provision for a purpose mentioned in that section and it appears to the Department that it is expedient for the references to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/european/regulation/2005/0396) of the European Parliament and of the Council on maximum residue levels of pesticides in or on food and feed of plant and animal origin and amending Council Directive [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414)[^f00004] to be construed as references to that instrument as amended from time to time.[^key-8cfa8a415da7066111cb0632a2f12606]
+These Regulations make provision for a purpose mentioned in that section and it appears to the Department that it is expedient for the references to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/european/regulation/2005/0396) of the European Parliament and of the Council on maximum residue levels of pesticides in or on food and feed of plant and animal origin and amending Council Directive [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414)[^f00004] to be construed as references to that instrument as amended from time to time.[^c-8cfa8a415da7066111cb0632a2f12606]
 
-The Department of Agriculture and Rural Development makes the following Regulations in exercise of the powers conferred by section 2(2) of, as read with paragraph 1A of Schedule 2 to, the European Communities Act 1972[^f00005].[^key-8cfa8a415da7066111cb0632a2f12606]
+The Department of Agriculture and Rural Development makes the following Regulations in exercise of the powers conferred by section 2(2) of, as read with paragraph 1A of Schedule 2 to, the European Communities Act 1972[^f00005].[^c-8cfa8a415da7066111cb0632a2f12606]
 
-## 1. Citation and commencement[^key-243051d922bace72963fa0b17f4f217b]
+## 1. Citation and commencement[^c-243051d922bace72963fa0b17f4f217b]
 
 (1) These Regulations may be cited as the Pesticides (Maximum Residue Levels) Regulations (Northern Ireland) 2008 and come into operation on 8th December 2008.
 
-## 2. Interpretation[^key-932aec4b10985df5a1fe9217b17035ab]
+## 2. Interpretation[^c-932aec4b10985df5a1fe9217b17035ab]
 
 (1) In these Regulations—
 
@@ -65,7 +65,7 @@ The Department of Agriculture and Rural Development makes the following Regulati
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00007]applies to these Regulations as it applies to an Act of the Assembly.
 
-## 3. Notices[^key-7d281f29e6821ce0c664be648132f3e3]
+## 3. Notices[^c-7d281f29e6821ce0c664be648132f3e3]
 
 Any notice under these Regulations—
 
@@ -73,15 +73,15 @@ Any notice under these Regulations—
 - (b) may be subject to conditions; and
 - (c) may be amended, suspended or revoked by a notice issued by an inspector.
 
-## 4. Designated national authority[^key-8091deeb00d69f96a026946662999561]
+## 4. Designated national authority[^c-8091deeb00d69f96a026946662999561]
 
 The Department is the designated national authority for the purposes of Article 38 of Regulation 396/2005.
 
-## 5. Functions of the member State[^key-2b2536df60c08082073736142dcbd09a]
+## 5. Functions of the member State[^c-2b2536df60c08082073736142dcbd09a]
 
 The functions of the member State in Regulation 396/2005 are to be performed by the Department.
 
-## 6. Compliance with MRLs[^key-a08c03b8de9b535d0c55745672afd176]
+## 6. Compliance with MRLs[^c-a08c03b8de9b535d0c55745672afd176]
 
 It is an offence for any person to—
 
@@ -90,17 +90,17 @@ It is an offence for any person to—
 
 any product covered by Annex I to Regulation 396/2005 in breach of Article 18(1) of that Regulation as read with Article 20(1) of that Regulation.
 
-## 7. Prohibition on processing and mixing products[^key-c84013215380ef2f9b6c383784658b28]
+## 7. Prohibition on processing and mixing products[^c-c84013215380ef2f9b6c383784658b28]
 
 It is an offence for any person to process or mix any products specified in Article 19 of Regulation 396/2005 in breach of that Article.
 
-## 8. Powers of inspectors[^key-1991484494be6860fc74234244372c9f]
+## 8. Powers of inspectors[^c-1991484494be6860fc74234244372c9f]
 
 (1) The Department may appoint any person to be an inspector for the purposes of these Regulations.
 
 (2) Schedule 1 (powers of inspectors) has effect.
 
-## 9. Obstruction[^key-469e1ef98793e87f4ad117a4a5bb461c]
+## 9. Obstruction[^c-469e1ef98793e87f4ad117a4a5bb461c]
 
 It is an offence—
 
@@ -111,7 +111,7 @@ It is an offence—
   - (i) to give any assistance or information that any person acting in the execution of these Regulations may require; or
   - (ii) to produce any record that any person acting in the execution of these Regulations may require to be produced.
 
-## 10. Offences by bodies corporate[^key-da54a362c342aa3b16454f449b6b21cf]
+## 10. Offences by bodies corporate[^c-da54a362c342aa3b16454f449b6b21cf]
 
 (1) For the purposes of these Regulations section 20(2) of the Interpretation Act (Northern Ireland) 1954 applies with the omission of the words “the liability of whose members is limited”.
 
@@ -131,22 +131,22 @@ the partner as well as the partnership is guilty of the offence and liable to be
 
 the officer or member as well as the association is guilty of the offence and liable to be proceeded against and punished accordingly.
 
-## 11. Offences due to fault of another person[^key-b68cf0d24a1a8ffb00c8b17f69d56007]
+## 11. Offences due to fault of another person[^c-b68cf0d24a1a8ffb00c8b17f69d56007]
 
 Where the commission by any person of an offence under these Regulations is due to the act or default of some other person, that other person is guilty of the offence; and a person may be convicted of the offence by virtue of this regulation whether or not proceedings are taken against the first-mentioned person.
 
-## 12. Penalties[^key-d8716d38c591553c75d45eeebe7f7d6b]
+## 12. Penalties[^c-d8716d38c591553c75d45eeebe7f7d6b]
 
 A person guilty of an offence under these Regulations is liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine.
 
-## 13. Enforcement[^key-b00697fe1956c8a72d41c24c9213cd88]
+## 13. Enforcement[^c-b00697fe1956c8a72d41c24c9213cd88]
 
 These Regulations are enforced by the Department.
 
-## 14. Application to the Crown[^key-191cdfc41977b35ec0eb9410af41d46f]
+## 14. Application to the Crown[^c-191cdfc41977b35ec0eb9410af41d46f]
 
 (1) Subject to the provisions of this regulation, these Regulations bind the Crown.
 
@@ -156,7 +156,7 @@ These Regulations are enforced by the Department.
 
 (4) In this regulation any reference to the Crown includes a reference to the Crown in right of Her Majesty’s Government in Northern Ireland.
 
-## 15. Revocations[^key-d749448d90611fd5c0d2a9926e6a5844]
+## 15. Revocations[^c-d749448d90611fd5c0d2a9926e6a5844]
 
 Schedule 2 (revoked instruments) has effect.
 
@@ -170,7 +170,7 @@ A senior official of the Department of Agriculture and Rural Development
 
 Regulation 8(2)
 
-### 1. Powers of entry[^key-28bc319732aa26e4b009c188cd41dbdb]
+### 1. Powers of entry[^c-28bc319732aa26e4b009c188cd41dbdb]
 
 (1) An inspector may, on producing a duly authenticated authorisation (if so required), enter any premises at any reasonable hour for the purpose of ensuring that the provisions of these Regulations are being, or have been, complied with.
 
@@ -194,7 +194,7 @@ the magistrate may by signed warrant authorise the inspector to enter the premis
 - “premises” includes any place, vehicle, trailer, container, stall, moveable structure, vessel or aircraft;
 - “vessel” means every description of vessel (whether with or without means of propulsion of any kind), and includes anything constructed or used to carry persons, goods or plant or machinery by water, or constructed to be propelled or moved on or in water.
 
-### 2. Powers of an inspector[^key-4062b735ab0edb4fe12b14c862cf1f05]
+### 2. Powers of an inspector[^c-4062b735ab0edb4fe12b14c862cf1f05]
 
 (1) An inspector entering premises under paragraph 1 may—
 
@@ -209,22 +209,22 @@ the magistrate may by signed warrant authorise the inspector to enter the premis
 
 (2) Any person who accompanies an inspector in accordance with this paragraph may perform any of the inspector’s functions but only under the supervision of that inspector.
 
-### 3. Power of an inspector to use reasonable force[^key-4c16d1eb3581978370551b7d349b4586]
+### 3. Power of an inspector to use reasonable force[^c-4c16d1eb3581978370551b7d349b4586]
 
 An inspector may use reasonable force, if necessary, in the performance of functions under these Regulations.
 
-### 4. Seizure or disposal of products[^key-d1112de3a78366ddc620d4e3c46e23af]
+### 4. Seizure or disposal of products[^c-d1112de3a78366ddc620d4e3c46e23af]
 
 If any product to which Regulation 396/2005 applies contains a quantity of pesticide residue greater than that permitted under that Regulation, an inspector may—
 
 - (a) seize or dispose of the consignment containing that product, or any part of it, or require the owner or person appearing to be in charge of it to dispose of it; or
 - (b) direct the owner or any person appearing to be in charge of it to take such remedial action as appears to the inspector to be necessary.
 
-### 5. Information notice[^key-4f40fbb3d8dd5b290605769587e0b499]
+### 5. Information notice[^c-4f40fbb3d8dd5b290605769587e0b499]
 
 An inspector may, by notice served on any person, require that person to provide such information as is specified in the notice in such form and within such period following service of the notice or at such time as is so specified.
 
-### 6. Enforcement and prohibition notices[^key-454a535e4c414052f44a1a579536b924]
+### 6. Enforcement and prohibition notices[^c-454a535e4c414052f44a1a579536b924]
 
 (1) An inspector may serve a notice on any person who contravenes, or who the inspector has reasonable grounds to suspect may contravene, these Regulations—
 
@@ -233,17 +233,17 @@ An inspector may, by notice served on any person, require that person to provide
 
 (2) The notice must give reasons for serving it and, if appropriate, specify what action should be taken and give time limits.
 
-### 7. Compliance with notices[^key-ed722d77c3101648935f708b9f9edd8c]
+### 7. Compliance with notices[^c-ed722d77c3101648935f708b9f9edd8c]
 
 (1) It is an offence for any person on whom a notice is served under these Regulations to fail to comply with the provisions of that notice.
 
 (2) Such a notice must be complied with at the expense of the person on whom it is served and, if it is not complied with, an inspector may arrange for it to be complied with at the expense of that person.
 
-## SCHEDULE 2 — Revoked instruments[^key-f24cb8821e122a79aad4dd6500d796a5]
+## SCHEDULE 2 — Revoked instruments[^c-f24cb8821e122a79aad4dd6500d796a5]
 
 Regulation 15
 
-[^key-f24cb8821e122a79aad4dd6500d796a5]The following Regulations are revoked—
+[^c-f24cb8821e122a79aad4dd6500d796a5]The following Regulations are revoked—
 
 - (a) the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) Regulations (Northern Ireland) 2006[^f00008];
 - (b) the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Amendment) Regulations (Northern Ireland) 2006[^f00009];
@@ -277,59 +277,59 @@ Regulation 12 provides that any person guilty of an offence under these Regulati
 
 [^f00004]: Footnote: OJ No L 70, 16.3.2005, p 1 as amended by OJ No L 29, 2.2.2006, p 3, OJ No L 58, 1.3.2008, p 1, OJ No L 76, 19.3.2008, p 31 and OJ No L 97, 9.4.2008, p 67.
 
-[^key-8cfa8a415da7066111cb0632a2f12606]: Modification: Regulations applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-8cfa8a415da7066111cb0632a2f12606]: Modification: Regulations applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
 [^f00005]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51)
 
-[^key-243051d922bace72963fa0b17f4f217b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/433/regulation/1) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-243051d922bace72963fa0b17f4f217b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/433/regulation/1) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-932aec4b10985df5a1fe9217b17035ab]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/433/regulation/2) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-932aec4b10985df5a1fe9217b17035ab]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/433/regulation/2) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
 [^f00006]: Footnote: OJ No L 97, 9.4.2008, p 67
 
 [^f00007]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-7d281f29e6821ce0c664be648132f3e3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/433/regulation/3) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-7d281f29e6821ce0c664be648132f3e3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/433/regulation/3) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-8091deeb00d69f96a026946662999561]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/433/regulation/4) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-8091deeb00d69f96a026946662999561]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/433/regulation/4) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-2b2536df60c08082073736142dcbd09a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/433/regulation/5) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-2b2536df60c08082073736142dcbd09a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/433/regulation/5) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-a08c03b8de9b535d0c55745672afd176]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/433/regulation/6) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-a08c03b8de9b535d0c55745672afd176]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/433/regulation/6) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-c84013215380ef2f9b6c383784658b28]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/433/regulation/7) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-c84013215380ef2f9b6c383784658b28]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/433/regulation/7) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-1991484494be6860fc74234244372c9f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/433/regulation/8) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-1991484494be6860fc74234244372c9f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/433/regulation/8) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-469e1ef98793e87f4ad117a4a5bb461c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/433/regulation/9) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-469e1ef98793e87f4ad117a4a5bb461c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/433/regulation/9) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-da54a362c342aa3b16454f449b6b21cf]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/433/regulation/10) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-da54a362c342aa3b16454f449b6b21cf]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/433/regulation/10) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-b68cf0d24a1a8ffb00c8b17f69d56007]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2008/433/regulation/11) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-b68cf0d24a1a8ffb00c8b17f69d56007]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2008/433/regulation/11) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-d8716d38c591553c75d45eeebe7f7d6b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2008/433/regulation/12) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-d8716d38c591553c75d45eeebe7f7d6b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2008/433/regulation/12) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-b00697fe1956c8a72d41c24c9213cd88]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2008/433/regulation/13) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-b00697fe1956c8a72d41c24c9213cd88]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2008/433/regulation/13) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-191cdfc41977b35ec0eb9410af41d46f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2008/433/regulation/14) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-191cdfc41977b35ec0eb9410af41d46f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2008/433/regulation/14) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-d749448d90611fd5c0d2a9926e6a5844]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2008/433/regulation/15) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-d749448d90611fd5c0d2a9926e6a5844]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2008/433/regulation/15) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-28bc319732aa26e4b009c188cd41dbdb]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2008/433/schedule/1/paragraph/1) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-28bc319732aa26e4b009c188cd41dbdb]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2008/433/schedule/1/paragraph/1) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-4062b735ab0edb4fe12b14c862cf1f05]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2008/433/schedule/1/paragraph/2) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-4062b735ab0edb4fe12b14c862cf1f05]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2008/433/schedule/1/paragraph/2) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-4c16d1eb3581978370551b7d349b4586]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2008/433/schedule/1/paragraph/3) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-4c16d1eb3581978370551b7d349b4586]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2008/433/schedule/1/paragraph/3) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-d1112de3a78366ddc620d4e3c46e23af]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2008/433/schedule/1/paragraph/4) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-d1112de3a78366ddc620d4e3c46e23af]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2008/433/schedule/1/paragraph/4) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-4f40fbb3d8dd5b290605769587e0b499]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2008/433/schedule/1/paragraph/5) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-4f40fbb3d8dd5b290605769587e0b499]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2008/433/schedule/1/paragraph/5) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-454a535e4c414052f44a1a579536b924]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2008/433/schedule/1/paragraph/6) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-454a535e4c414052f44a1a579536b924]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2008/433/schedule/1/paragraph/6) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-ed722d77c3101648935f708b9f9edd8c]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2008/433/schedule/1/paragraph/7) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-ed722d77c3101648935f708b9f9edd8c]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2008/433/schedule/1/paragraph/7) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
-[^key-f24cb8821e122a79aad4dd6500d796a5]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2008/433/schedule/2) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
+[^c-f24cb8821e122a79aad4dd6500d796a5]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2008/433/schedule/2) in operation at 8.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 2006 No. 220](https://www.legislation.gov.uk/nisr/2006/220)
 

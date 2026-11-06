@@ -24,7 +24,7 @@ Section 51
 
 ### Using someone to mind a weapon
 
-**1.**[^key-5f9d1484088424ce391f936ea155eb86] (1) A person is guilty of an offence if—
+**1.**[^c-5f9d1484088424ce391f936ea155eb86] (1) A person is guilty of an offence if—
 
 - (a) he uses another to look after, hide or transport a dangerous weapon for him; and
 - (b) he does so under arrangements or in circumstances that facilitate, or are intended to facilitate, the weapon's being available to him for an unlawful purpose.
@@ -43,25 +43,25 @@ Section 51
 
 ### Penalties etc. for offence under paragraph 1
 
-**2.**[^key-3a5662ed01d356f6fc49059bef83e7f6] (1) This paragraph applies where a person (“the offender”) is guilty of an offence under paragraph 1.
+**2.**[^c-3a5662ed01d356f6fc49059bef83e7f6] (1) This paragraph applies where a person (“the offender”) is guilty of an offence under paragraph 1.
 
 (2) Where the dangerous weapon in respect of which the offence was committed is a weapon to which section 141 of the Criminal Justice Act 1988 (specified offensive weapons) or Article 54 of the Criminal Justice (Northern Ireland) Order 1996 (SI 1996/3160 (NI 24)) (knives and bladed weapons) applies, the offender shall be liable, on conviction on indictment, to imprisonment for a term not exceeding 4 years or to a fine, or to both.
 
 (3) Where—
 
 - (a) at the time of the offence, the offender was aged 16 or over, and
-- (b) the dangerous weapon in respect of which the offence was committed was a firearm specified in Article 3(1)(a) or 45(1)(a), (aa), (b), (c), (d), (e), (ea) or (fa) or (2)(a)[^key-4a9f42fee30ca6dda0eaa6710899d99b] of the Firearms Order (firearms possession of which attracts a minimum sentence),
+- (b) the dangerous weapon in respect of which the offence was committed was a firearm specified in Article 3(1)(a) or 45(1)(a), (aa), (b), (c), (d), (e), (ea) or (fa) or (2)(a)[^c-4a9f42fee30ca6dda0eaa6710899d99b] of the Firearms Order (firearms possession of which attracts a minimum sentence),
 
 the offender shall be liable, on conviction on indictment, to imprisonment for a term not exceeding 10 years or to a fine, or to both.
 
-(4)[^key-c2dd59382308804bbd2d438952deb1d2] On a conviction where—
+(4)[^c-c2dd59382308804bbd2d438952deb1d2] On a conviction where—
 
 - (a) sub-paragraph (3) applies, and
 - (b) the offender is aged 21 or over at the time of conviction,
 
 the court must impose (with or without a fine) a term of imprisonment of not less than 5 years, unless it is of the opinion that there are exceptional circumstances relating to the offence or to the offender which justify its not doing so.
 
-(5)[^key-c2dd59382308804bbd2d438952deb1d2] On a conviction where—
+(5)[^c-c2dd59382308804bbd2d438952deb1d2] On a conviction where—
 
 - (a) sub-paragraph (3) applies, and
 - (b) the offender is aged under 21 at the time of conviction,
@@ -107,7 +107,7 @@ the question whether sub-paragraph (3) applies or (as the case may be) the quest
 
 ### Minimum sentence for certain firearms offences
 
-**3.**[^key-ddca4f402373d69fd855ea298675b70a] (1) The Firearms Order is amended as follows.
+**3.**[^c-ddca4f402373d69fd855ea298675b70a] (1) The Firearms Order is amended as follows.
 
 (2) In Article 70 (which imposes minimum sentence requirements for certain offences involving the possession of various firearms), in paragraph (1)—
 
@@ -134,7 +134,7 @@ the question whether sub-paragraph (3) applies or (as the case may be) the quest
 
 ### Manufacture, import and sale of realistic imitation firearms
 
-**4.**[^key-7504f846f15b2881d44a5c060f7e4aca] (1) A person is guilty of an offence if—
+**4.**[^c-7504f846f15b2881d44a5c060f7e4aca] (1) A person is guilty of an offence if—
 
 - (a) he manufactures a realistic imitation firearm;
 - (b) he modifies an imitation firearm so that it becomes a realistic imitation firearm;
@@ -143,23 +143,23 @@ the question whether sub-paragraph (3) applies or (as the case may be) the quest
 
 (2) Sub-paragraph (1) has effect subject to the defences in paragraph 5.
 
-(2A)[^key-6bde729b43e159a187b2f4b7f47a7f59] The Department of Justice may by regulations—
+(2A)[^c-6bde729b43e159a187b2f4b7f47a7f59] The Department of Justice may by regulations—
 
 - (a) provide for exceptions and exemptions from the offence under sub-paragraph (1)(a), (b) or (c); and
 - (b) provide for it to be a defence in proceedings for such an offence to show the matters specified or described in the regulations.
 
 (3) The Secretary of State may by regulations—
 
-- (a) provide for exceptions and exemptions from the offence under sub-paragraph (1)(d)[^key-1831d9f9b7082e40a7c92a38fef4ca1e]; and
+- (a) provide for exceptions and exemptions from the offence under sub-paragraph (1)(d)[^c-1831d9f9b7082e40a7c92a38fef4ca1e]; and
 - (b) provide for it to be a defence in proceedings for such an offence to show the matters specified or described in the regulations.
 
-(4) Regulations under sub-paragraph (2A) or (3)[^key-00b6edfdac439e82563fae4eb4c17c1c] may—
+(4) Regulations under sub-paragraph (2A) or (3)[^c-00b6edfdac439e82563fae4eb4c17c1c] may—
 
 - (a) frame any exception, exemption or defence by reference to an approval or consent given in accordance with the regulations;
 - (b) provide for approvals and consents to be given in relation to particular cases or in relation to such descriptions of case as may be specified or described in the regulations; and
-- (c) confer the function of giving approvals or consents on such persons specified or described in the regulations as the Department of Justice or (as the case may be)[^key-abe2f448c951805151bf37f395c9e8fb] the Secretary of State thinks fit.
+- (c) confer the function of giving approvals or consents on such persons specified or described in the regulations as the Department of Justice or (as the case may be)[^c-abe2f448c951805151bf37f395c9e8fb] the Secretary of State thinks fit.
 
-(4A)[^key-ae8c75ab8d5a25c63f04b47bb16b5a4e] The power of the Department of Justice to make regulations under sub-paragraph (2A) shall be exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979.
+(4A)[^c-ae8c75ab8d5a25c63f04b47bb16b5a4e] The power of the Department of Justice to make regulations under sub-paragraph (2A) shall be exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979.
 
 (4B) That power includes power—
 
@@ -185,7 +185,7 @@ the question whether sub-paragraph (3) applies or (as the case may be) the quest
 
 (10) In this paragraph “**realistic imitation firearm**” has the meaning given by paragraph 6.
 
-**5.**[^key-5154c3b3811223740b38e36bb9844ff4] (1) It shall be a defence for a person charged with an offence under paragraph 4 in respect of any conduct to show that the conduct was for the purpose only of making the imitation firearm in question available for one or more of the purposes specified in sub-paragraph (2).
+**5.**[^c-5154c3b3811223740b38e36bb9844ff4] (1) It shall be a defence for a person charged with an offence under paragraph 4 in respect of any conduct to show that the conduct was for the purpose only of making the imitation firearm in question available for one or more of the purposes specified in sub-paragraph (2).
 
 (2) Those purposes are—
 
@@ -193,10 +193,10 @@ the question whether sub-paragraph (3) applies or (as the case may be) the quest
 - (b) the purposes of theatrical performances and of rehearsals for such performances;
 - (c) the production of films (within the meaning of Part 1 of the Copyright, Designs and Patents Act 1988 (c. 48)\_see section 5B of that Act);
 - (d) the production of television programmes (within the meaning of the Communications Act 2003 (c. 21)\_see section 405(1) of that Act);
-- (e) the organisation and holding of historical re-enactments organised and held by persons specified or described for the purposes of this paragraph by regulations made by the appropriate authority[^key-b293a99c7e61a0ac8e08e0d580dc2c38];
+- (e) the organisation and holding of historical re-enactments organised and held by persons specified or described for the purposes of this paragraph by regulations made by the appropriate authority[^c-b293a99c7e61a0ac8e08e0d580dc2c38];
 - (f) the purposes of functions that a person has in his capacity as a person in the service of the Crown.
 
-(2A)[^key-0e17df8ec529eb815512a8aab2868f04] In sub-paragraph (2)(e) “the appropriate authority” means—
+(2A)[^c-0e17df8ec529eb815512a8aab2868f04] In sub-paragraph (2)(e) “the appropriate authority” means—
 
 - (a) in relation to the offence under paragraph 4(1)(a), (b) or (c), the Department of Justice;
 - (b) in relation to the offence under paragraph 4(1)(d), the Secretary of State.
@@ -211,7 +211,7 @@ the question whether sub-paragraph (3) applies or (as the case may be) the quest
 - (a) sufficient evidence of that matter is adduced to raise an issue with respect to it; and
 - (b) the contrary is not proved beyond a reasonable doubt.
 
-(4A)[^key-c49fb0be39c3efa276e7e1c909154d6a] The power of the Department of Justice to make regulations under this paragraph shall be exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979.
+(4A)[^c-c49fb0be39c3efa276e7e1c909154d6a] The power of the Department of Justice to make regulations under this paragraph shall be exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979.
 
 (4B) That power includes power—
 
@@ -236,7 +236,7 @@ the question whether sub-paragraph (3) applies or (as the case may be) the quest
   - (a) has as its purpose, or one of its purposes, the preservation, display and interpretation of material of historical, artistic or scientific interest; and
   - (b) gives the public access to it.
 
-**6.**[^key-8bd95f73feecb9ab1655e5f8b499eceb] (1) In paragraphs 4 and 5 “**realistic imitation firearm**” means an imitation firearm which—
+**6.**[^c-8bd95f73feecb9ab1655e5f8b499eceb] (1) In paragraphs 4 and 5 “**realistic imitation firearm**” means an imitation firearm which—
 
 - (a) has an appearance that is so realistic as to make it indistinguishable, for all practical purposes, from a real firearm; and
 - (b) is neither a de-activated firearm nor itself an antique.
@@ -252,12 +252,12 @@ the question whether sub-paragraph (3) applies or (as the case may be) the quest
 - (a) the matters that must be taken into account include any differences between the size, shape and principal colour of the imitation firearm and the size, shape and colour in which the real firearm is manufactured; and
 - (b) the imitation is to be regarded as distinguishable if its size, shape or principal colour is unrealistic for a real firearm.
 
-(4) The appropriate authority[^key-0730a7b709b4d9bacc5832c0932507dd] may by regulations provide that, for the purposes of sub-paragraph (3)(b)—
+(4) The appropriate authority[^c-0730a7b709b4d9bacc5832c0932507dd] may by regulations provide that, for the purposes of sub-paragraph (3)(b)—
 
 - (a) the size of an imitation firearm is to be regarded as unrealistic for a real firearm only if the imitation firearm has dimensions that are less than the dimensions specified in the regulations; and
 - (b) a colour is to be regarded as unrealistic for a real firearm only if it is a colour specified in the regulations.
 
-(4A)[^key-2a2ca5256851149c4e2b5f886216d5f8] In sub-paragraph (4) “the appropriate authority” means—
+(4A)[^c-2a2ca5256851149c4e2b5f886216d5f8] In sub-paragraph (4) “the appropriate authority” means—
 
 - (a) in the application of this paragraph for the purposes of the offence under paragraph 4(1)(a), (b) or (c), the Department of Justice;
 - (b) in the application of this paragraph for the purposes of the offence under paragraph 4(1)(d) or for the purposes of paragraph 4(7), the Secretary of State.
@@ -298,35 +298,35 @@ the question whether sub-paragraph (3) applies or (as the case may be) the quest
 
 ### Specification for imitation firearms
 
-**7.**[^key-2efdcb8d539feff78c9ef1bb4abd6c64] (A1)[^key-99093c5ec236cbc83b90cc312a594bb5] For the purposes of sub-paragraph (2)(a) to (c), the Department of Justice may by regulations make provision requiring imitation firearms to conform to specifications which are—
+**7.**[^c-2efdcb8d539feff78c9ef1bb4abd6c64] (A1)[^c-99093c5ec236cbc83b90cc312a594bb5] For the purposes of sub-paragraph (2)(a) to (c), the Department of Justice may by regulations make provision requiring imitation firearms to conform to specifications which are—
 
 - (a) set out in the regulations; or
 - (b) approved by such persons and in such manner as may be so set out.
 
-(1) For the purposes of sub-paragraph (2)(d), the[^key-7964f86e0c85f235dd8b1205594fd677] Secretary of State may by regulations make provision requiring imitation firearms to conform to specifications which are—
+(1) For the purposes of sub-paragraph (2)(d), the[^c-7964f86e0c85f235dd8b1205594fd677] Secretary of State may by regulations make provision requiring imitation firearms to conform to specifications which are—
 
 - (a) set out in the regulations; or
 - (b) approved by such persons and in such manner as may be so set out.
 
 (2) A person is guilty of an offence if—
 
-- (a) he manufactures an imitation firearm which does not conform to the specifications required of it by regulations under sub-paragraph (A1)[^key-baad1a4562106f1c745f59f96ec34f90];
+- (a) he manufactures an imitation firearm which does not conform to the specifications required of it by regulations under sub-paragraph (A1)[^c-baad1a4562106f1c745f59f96ec34f90];
 - (b) he modifies an imitation firearm so that it ceases to conform to the specifications so required of it;
 - (c) he modifies a firearm to create an imitation firearm that does not conform to the specifications so required of it; or
-- (d) he brings an imitation firearm which does not conform to the specifications required of it by regulations under sub-paragraph (1)[^key-f47bd37272b00f5378f71f4f4c740320] into Northern Ireland or causes such an imitation firearm to be brought into Northern Ireland.
+- (d) he brings an imitation firearm which does not conform to the specifications required of it by regulations under sub-paragraph (1)[^c-f47bd37272b00f5378f71f4f4c740320] into Northern Ireland or causes such an imitation firearm to be brought into Northern Ireland.
 
 (3) An offence under this paragraph shall be punishable, on summary conviction, with imprisonment for a term not exceeding 6 months or with a fine not exceeding level 5 on the standard scale, or with both.
 
-(4) Regulations under sub-paragraph (A1) or (1)[^key-b4ee8585f28c49ca6a6d83bd8c37e82f] may provide that, in proceedings for an offence under sub-paragraph (2)(a) to (c) or (as the case may be) sub-paragraph (2)(d)[^key-e5db2363fdef424023fd3e5fd2773c3e], it is to be presumed, unless the contrary is proved, that an imitation firearm conforms to the required specification if it, or the description of imitation firearms to which it belongs, has been certified as so conforming by a person who is—
+(4) Regulations under sub-paragraph (A1) or (1)[^c-b4ee8585f28c49ca6a6d83bd8c37e82f] may provide that, in proceedings for an offence under sub-paragraph (2)(a) to (c) or (as the case may be) sub-paragraph (2)(d)[^c-e5db2363fdef424023fd3e5fd2773c3e], it is to be presumed, unless the contrary is proved, that an imitation firearm conforms to the required specification if it, or the description of imitation firearms to which it belongs, has been certified as so conforming by a person who is—
 
 - (a) specified in the regulations; or
 - (b) determined for the purpose in accordance with provisions contained in the regulations.
 
-(5) An imitation firearm brought into Northern Ireland which does not conform to the specifications required of it by regulations under sub-paragraph (1)[^key-7c9f00a3153935efe29266735f7dbe0f] shall be liable to forfeiture under the customs and excise Acts.
+(5) An imitation firearm brought into Northern Ireland which does not conform to the specifications required of it by regulations under sub-paragraph (1)[^c-7c9f00a3153935efe29266735f7dbe0f] shall be liable to forfeiture under the customs and excise Acts.
 
 (6) In sub-paragraph (5) “**the customs and excise Acts**” has the meaning given by section 1 of the Customs and Excise Management Act 1979 (c. 2).
 
-(6A)[^key-71324a2fad3e8902aa8d59e2f69560d2] The power of the Department of Justice to make regulations under this paragraph shall be exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979.
+(6A)[^c-71324a2fad3e8902aa8d59e2f69560d2] The power of the Department of Justice to make regulations under this paragraph shall be exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979.
 
 (6B) That power includes power—
 
@@ -346,7 +346,7 @@ the question whether sub-paragraph (3) applies or (as the case may be) the quest
 
 ### Supplying imitation firearms to minors
 
-**8.**[^key-0393cb871c2cf4820acab15de64707bf] (1) After Article 66 of the Firearms Order insert—
+**8.**[^c-0393cb871c2cf4820acab15de64707bf] (1) After Article 66 of the Firearms Order insert—
 
 > **66A. Supplying imitation firearms to minors**
 >
@@ -369,7 +369,7 @@ the question whether sub-paragraph (3) applies or (as the case may be) the quest
 
 ### Increase of maximum sentence for possessing an imitation firearm
 
-**9.**[^key-796293e3b433f1c3e489143a6afea9bb] (1) In the entry in Schedule 5 to the Firearms Order relating to Article 61(1) of that Order (mode of trial and punishment of possession of firearm or imitation firearm in a public place)—
+**9.**[^c-796293e3b433f1c3e489143a6afea9bb] (1) In the entry in Schedule 5 to the Firearms Order relating to Article 61(1) of that Order (mode of trial and punishment of possession of firearm or imitation firearm in a public place)—
 
 - (a) in paragraph (b) of column 3 (offence to be triable on indictment except in the case of an imitation firearm or air gun), omit the words “ in the case of an imitation firearm or ”; and
 - (b) in column 4, for “10 years or a fine or both” substitute “ If the offence is committed in respect of an imitation firearm, 12 months or a fine, or both; in any other case, 10 years or a fine, or both. ”
@@ -378,13 +378,13 @@ the question whether sub-paragraph (3) applies or (as the case may be) the quest
 
 ### Sale etc. of knives and other weapons
 
-**10.**[^key-39a981fdccd97152c56ec9f5d2c93ca7] In Article 54(1) of the Criminal Justice (Northern Ireland) Order 1996 (SI 1996/3160 (NI 24)) (prohibition on sale of knives etc. to persons under 16) for “16” substitute “ 18 ”.
+**10.**[^c-39a981fdccd97152c56ec9f5d2c93ca7] In Article 54(1) of the Criminal Justice (Northern Ireland) Order 1996 (SI 1996/3160 (NI 24)) (prohibition on sale of knives etc. to persons under 16) for “16” substitute “ 18 ”.
 
-**11.** (1)[^key-5d9290c72450cb71099d00101c1a075e] Section 141 of the Criminal Justice Act 1988 (c. 33) (offensive weapons) is amended as follows.
+**11.** (1)[^c-5d9290c72450cb71099d00101c1a075e] Section 141 of the Criminal Justice Act 1988 (c. 33) (offensive weapons) is amended as follows.
 
-(2)[^key-85fc1d8822ca4ac6d5c3b39f1ca23116] In subsections (5), (8) and (9) of section 141(defences relating to museums and galleries to offence of manufacture, sale etc. of prescribed weapons), for “prove” substitute “ show ”.
+(2)[^c-85fc1d8822ca4ac6d5c3b39f1ca23116] In subsections (5), (8) and (9) of section 141(defences relating to museums and galleries to offence of manufacture, sale etc. of prescribed weapons), for “prove” substitute “ show ”.
 
-(3)[^key-896b71e6b241214645f7ec8d3429cc81][^key-4ac32fe20f0f174d7528a2e7c00d608b] After subsection (11) of that section insert—
+(3)[^c-896b71e6b241214645f7ec8d3429cc81][^c-4ac32fe20f0f174d7528a2e7c00d608b] After subsection (11) of that section insert—
 
 > (11A) It shall be a defence for a person charged in respect of conduct of his relating to a weapon to which this section applies—
 >
@@ -411,11 +411,11 @@ the question whether sub-paragraph (3) applies or (as the case may be) the quest
 >
 > (11E) A statutory instrument containing an order under this section shall not be made unless a draft of the instrument has been laid before Parliament and approved by a resolution of each House.
 
-(4)[^key-85fc1d8822ca4ac6d5c3b39f1ca23116] The defence in section 141(11A) is not available in relation to so much of any charge as relates to conduct taking place before the commencement of this paragraph.
+(4)[^c-85fc1d8822ca4ac6d5c3b39f1ca23116] The defence in section 141(11A) is not available in relation to so much of any charge as relates to conduct taking place before the commencement of this paragraph.
 
 ### Sale etc. of crossbows
 
-**12.**[^key-1ac180010c8363ac8c78656dcbc10846] (1) In the Crossbows (Northern Ireland) Order 1988 (SI 1988/794 (NI 5)), in the provisions mentioned in sub-paragraph (2), for “seventeen”, in each place it occurs, substitute “ eighteen ”.
+**12.**[^c-1ac180010c8363ac8c78656dcbc10846] (1) In the Crossbows (Northern Ireland) Order 1988 (SI 1988/794 (NI 5)), in the provisions mentioned in sub-paragraph (2), for “seventeen”, in each place it occurs, substitute “ eighteen ”.
 
 (2) The provisions are—
 
@@ -425,15 +425,15 @@ the question whether sub-paragraph (3) applies or (as the case may be) the quest
 
 ### Amendment of police power to search schools etc. for weapons
 
-**13.**[^key-7cae26534944f335131b4b71b951dd26] In section 139B of the Criminal Justice Act 1988 (c. 33) (power of entry to search for knives etc. and offensive weapons), in subsection (1) for “believing” substitute “ suspecting ”.
+**13.**[^c-7cae26534944f335131b4b71b951dd26] In section 139B of the Criminal Justice Act 1988 (c. 33) (power of entry to search for knives etc. and offensive weapons), in subsection (1) for “believing” substitute “ suspecting ”.
 
 ### Supplemental
 
-**14.** (1)[^key-6a992d58e702fdef4505d90aecb35970] In this Schedule “**the Firearms Order**” means the Firearms (Northern Ireland) Order 2004 (SI 2004/702 (NI 3)).
+**14.** (1)[^c-6a992d58e702fdef4505d90aecb35970] In this Schedule “**the Firearms Order**” means the Firearms (Northern Ireland) Order 2004 (SI 2004/702 (NI 3)).
 
-(2)[^key-6a992d58e702fdef4505d90aecb35970] Expressions used in this Schedule and in the Firearms Order have the same meanings in this Schedule as in that Order.
+(2)[^c-6a992d58e702fdef4505d90aecb35970] Expressions used in this Schedule and in the Firearms Order have the same meanings in this Schedule as in that Order.
 
-(3)[^key-60ec47784ba27c46ed1da5a4368c7d36][^key-0e97d9b20988780b6658f7d443e29915] The following provisions of the Firearms Order apply as if paragraphs 1, 2 and 4 to 7 of this Schedule were contained in that Order—
+(3)[^c-60ec47784ba27c46ed1da5a4368c7d36][^c-0e97d9b20988780b6658f7d443e29915] The following provisions of the Firearms Order apply as if paragraphs 1, 2 and 4 to 7 of this Schedule were contained in that Order—
 
 - (a) Article 52 (power of search with warrant);
 - (b) Article 69(4) (limitation period for prosecutions);
@@ -442,91 +442,91 @@ the question whether sub-paragraph (3) applies or (as the case may be) the quest
 
 (4) Article 77(3) of the Firearms Order (certain persons deemed to be in armed forces) applies for the purposes of—
 
-- (a)[^key-77d8b604b290d1ed2b32799e2c5feafa] paragraph 5(2)(f),
-- (b)[^key-66d696fccec75ead81be4f8f1cdf9a46][^key-0e97d9b20988780b6658f7d443e29915] any rule of law under which any of the provisions of paragraph 1, 2, 4 or 7 do not bind the Crown,
+- (a)[^c-77d8b604b290d1ed2b32799e2c5feafa] paragraph 5(2)(f),
+- (b)[^c-66d696fccec75ead81be4f8f1cdf9a46][^c-0e97d9b20988780b6658f7d443e29915] any rule of law under which any of the provisions of paragraph 1, 2, 4 or 7 do not bind the Crown,
 
 as it applies for the purposes of Article 77.
 
 ## Annotations
 
-[^key-5f9d1484088424ce391f936ea155eb86]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/1) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(j)(i)](https://www.legislation.gov.uk/uksi/2007/858/article/2/j/i)
+[^c-5f9d1484088424ce391f936ea155eb86]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/1) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(j)(i)](https://www.legislation.gov.uk/uksi/2007/858/article/2/j/i)
 
-[^key-3a5662ed01d356f6fc49059bef83e7f6]: Commencement: Sch. 2 para. 2 in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(j)(i)](https://www.legislation.gov.uk/uksi/2007/858/article/2/j/i)
+[^c-3a5662ed01d356f6fc49059bef83e7f6]: Commencement: Sch. 2 para. 2 in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(j)(i)](https://www.legislation.gov.uk/uksi/2007/858/article/2/j/i)
 
-[^key-4a9f42fee30ca6dda0eaa6710899d99b]: Textual amendment: Words in [Sch. 2 para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/2/3/b) substituted (14.7.2021) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/11) (with [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/13)); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/i)
+[^c-4a9f42fee30ca6dda0eaa6710899d99b]: Textual amendment: Words in [Sch. 2 para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/2/3/b) substituted (14.7.2021) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/11) (with [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/13)); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/i)
 
-[^key-c2dd59382308804bbd2d438952deb1d2]: Modification: Sch. 2 para. 2(4)(5) excluded by SI 1986/595 (N.I.) art. 44(1A)(b) (as inserted (15.5.2008) by [The Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216)](https://www.legislation.gov.uk/nisi/2008/1216), [art. 1(4)](https://www.legislation.gov.uk/nisi/2008/1216/article/1/4), [Sch. 5 para. 5(1)](https://www.legislation.gov.uk/nisi/2008/1216/schedule/5/paragraph/5/1); [S.R. 2008/217](https://www.legislation.gov.uk/nisr/2008/217), [art. 2](https://www.legislation.gov.uk/nisr/2008/217/article/2), [Sch. para. 18(c)](https://www.legislation.gov.uk/nisr/2008/217/schedule/paragraph/18/c) (with [art. 3](https://www.legislation.gov.uk/nisr/2008/217/article/3)); [S.R. 2008/217](https://www.legislation.gov.uk/nisr/2008/217), [art. 2](https://www.legislation.gov.uk/nisr/2008/217/article/2), [Sch. para. 18(c)](https://www.legislation.gov.uk/nisr/2008/217/schedule/paragraph/18/c) (with [art. 3](https://www.legislation.gov.uk/nisr/2008/217/article/3)))
+[^c-c2dd59382308804bbd2d438952deb1d2]: Modification: Sch. 2 para. 2(4)(5) excluded by SI 1986/595 (N.I.) art. 44(1A)(b) (as inserted (15.5.2008) by [The Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216)](https://www.legislation.gov.uk/nisi/2008/1216), [art. 1(4)](https://www.legislation.gov.uk/nisi/2008/1216/article/1/4), [Sch. 5 para. 5(1)](https://www.legislation.gov.uk/nisi/2008/1216/schedule/5/paragraph/5/1); [S.R. 2008/217](https://www.legislation.gov.uk/nisr/2008/217), [art. 2](https://www.legislation.gov.uk/nisr/2008/217/article/2), [Sch. para. 18(c)](https://www.legislation.gov.uk/nisr/2008/217/schedule/paragraph/18/c) (with [art. 3](https://www.legislation.gov.uk/nisr/2008/217/article/3)); [S.R. 2008/217](https://www.legislation.gov.uk/nisr/2008/217), [art. 2](https://www.legislation.gov.uk/nisr/2008/217/article/2), [Sch. para. 18(c)](https://www.legislation.gov.uk/nisr/2008/217/schedule/paragraph/18/c) (with [art. 3](https://www.legislation.gov.uk/nisr/2008/217/article/3)))
 
-[^key-ddca4f402373d69fd855ea298675b70a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/3) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(j)(i)](https://www.legislation.gov.uk/uksi/2007/858/article/2/j/i)
+[^c-ddca4f402373d69fd855ea298675b70a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/3) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(j)(i)](https://www.legislation.gov.uk/uksi/2007/858/article/2/j/i)
 
-[^key-7504f846f15b2881d44a5c060f7e4aca]: Commencement: Sch. 2 para. 4 in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(d)(i)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/d/i)
+[^c-7504f846f15b2881d44a5c060f7e4aca]: Commencement: Sch. 2 para. 4 in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(d)(i)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/d/i)
 
-[^key-6bde729b43e159a187b2f4b7f47a7f59]: Textual amendment: Sch. 2 para. 4(2A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/15/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-6bde729b43e159a187b2f4b7f47a7f59]: Textual amendment: Sch. 2 para. 4(2A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/15/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-1831d9f9b7082e40a7c92a38fef4ca1e]: Textual amendment: Word in Sch. 2 para. 4(3) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 15(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/15/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-1831d9f9b7082e40a7c92a38fef4ca1e]: Textual amendment: Word in Sch. 2 para. 4(3) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 15(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/15/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-00b6edfdac439e82563fae4eb4c17c1c]: Textual amendment: Words in Sch. 2 para. 4(4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 15(4)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/15/4/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-00b6edfdac439e82563fae4eb4c17c1c]: Textual amendment: Words in Sch. 2 para. 4(4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 15(4)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/15/4/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-abe2f448c951805151bf37f395c9e8fb]: Textual amendment: Words in Sch. 2 para. 4(4)(c) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 15(4)(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/15/4/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-abe2f448c951805151bf37f395c9e8fb]: Textual amendment: Words in Sch. 2 para. 4(4)(c) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 15(4)(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/15/4/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-ae8c75ab8d5a25c63f04b47bb16b5a4e]: Textual amendment: Sch. 2 para. 4(4A)-(4C) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 15(5)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/15/5) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-ae8c75ab8d5a25c63f04b47bb16b5a4e]: Textual amendment: Sch. 2 para. 4(4A)-(4C) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 15(5)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/15/5) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-5154c3b3811223740b38e36bb9844ff4]: Commencement: Sch. 2 para. 5 in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(d)(i)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/d/i)
+[^c-5154c3b3811223740b38e36bb9844ff4]: Commencement: Sch. 2 para. 5 in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(d)(i)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/d/i)
 
-[^key-b293a99c7e61a0ac8e08e0d580dc2c38]: Textual amendment: Words in [Sch. 2 para. 5(2)(e)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/5/2/e) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/16/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-b293a99c7e61a0ac8e08e0d580dc2c38]: Textual amendment: Words in [Sch. 2 para. 5(2)(e)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/5/2/e) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/16/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-0e17df8ec529eb815512a8aab2868f04]: Textual amendment: [Sch. 2 para. 5(2A)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/5/2A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 16(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/16/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-0e17df8ec529eb815512a8aab2868f04]: Textual amendment: [Sch. 2 para. 5(2A)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/5/2A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 16(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/16/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-c49fb0be39c3efa276e7e1c909154d6a]: Textual amendment: [Sch. 2 para. 5(4A)-(4C)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/5/4A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 16(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/16/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-c49fb0be39c3efa276e7e1c909154d6a]: Textual amendment: [Sch. 2 para. 5(4A)-(4C)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/5/4A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 16(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/16/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-8bd95f73feecb9ab1655e5f8b499eceb]: Commencement: Sch. 2 para. 6 in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(d)(i)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/d/i)
+[^c-8bd95f73feecb9ab1655e5f8b499eceb]: Commencement: Sch. 2 para. 6 in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(d)(i)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/d/i)
 
-[^key-0730a7b709b4d9bacc5832c0932507dd]: Textual amendment: Words in [Sch. 2 para. 6(4)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/6/4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 17(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/17/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-0730a7b709b4d9bacc5832c0932507dd]: Textual amendment: Words in [Sch. 2 para. 6(4)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/6/4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 17(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/17/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-2a2ca5256851149c4e2b5f886216d5f8]: Textual amendment: [Sch. 2 para. 6(4A)-(4D)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/6/4A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 17(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/17/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-2a2ca5256851149c4e2b5f886216d5f8]: Textual amendment: [Sch. 2 para. 6(4A)-(4D)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/6/4A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 17(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/17/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-2efdcb8d539feff78c9ef1bb4abd6c64]: Commencement: Sch. 2 para. 7 in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(d)(i)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/d/i)
+[^c-2efdcb8d539feff78c9ef1bb4abd6c64]: Commencement: Sch. 2 para. 7 in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(d)(i)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/d/i)
 
-[^key-99093c5ec236cbc83b90cc312a594bb5]: Textual amendment: Sch. 2 para. 7(A1) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 18(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/18/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-99093c5ec236cbc83b90cc312a594bb5]: Textual amendment: Sch. 2 para. 7(A1) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 18(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/18/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-7964f86e0c85f235dd8b1205594fd677]: Textual amendment: Words in Sch. 2 para. 7(1) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 18(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/18/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-7964f86e0c85f235dd8b1205594fd677]: Textual amendment: Words in Sch. 2 para. 7(1) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 18(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/18/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-baad1a4562106f1c745f59f96ec34f90]: Textual amendment: Words in Sch. 2 para. 7(2)(a) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 18(4)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/18/4/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-baad1a4562106f1c745f59f96ec34f90]: Textual amendment: Words in Sch. 2 para. 7(2)(a) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 18(4)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/18/4/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-f47bd37272b00f5378f71f4f4c740320]: Textual amendment: Words in Sch. 2 para. 7(2)(d) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 18(4)(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/18/4/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-f47bd37272b00f5378f71f4f4c740320]: Textual amendment: Words in Sch. 2 para. 7(2)(d) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 18(4)(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/18/4/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-b4ee8585f28c49ca6a6d83bd8c37e82f]: Textual amendment: Words in Sch. 2 para. 7(4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 18(5)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/18/5/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-b4ee8585f28c49ca6a6d83bd8c37e82f]: Textual amendment: Words in Sch. 2 para. 7(4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 18(5)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/18/5/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-e5db2363fdef424023fd3e5fd2773c3e]: Textual amendment: Words in Sch. 2 para. 7(4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 18(5)(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/18/5/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-e5db2363fdef424023fd3e5fd2773c3e]: Textual amendment: Words in Sch. 2 para. 7(4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 18(5)(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/18/5/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-7c9f00a3153935efe29266735f7dbe0f]: Textual amendment: Words in Sch. 2 para. 7(5) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 18(6)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/18/6) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-7c9f00a3153935efe29266735f7dbe0f]: Textual amendment: Words in Sch. 2 para. 7(5) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 18(6)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/18/6) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-71324a2fad3e8902aa8d59e2f69560d2]: Textual amendment: Sch. 2 para. 7(6A)-(6C) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 18(7)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/18/7) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-71324a2fad3e8902aa8d59e2f69560d2]: Textual amendment: Sch. 2 para. 7(6A)-(6C) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 11 para. 18(7)](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/18/7) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-0393cb871c2cf4820acab15de64707bf]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/8) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(d)(i)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/d/i)
+[^c-0393cb871c2cf4820acab15de64707bf]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/8) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(d)(i)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/d/i)
 
-[^key-796293e3b433f1c3e489143a6afea9bb]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/9) in force at 1.10.2007 by [S.I. 2007/2518](https://www.legislation.gov.uk/uksi/2007/2518), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/2518/article/3/b)
+[^c-796293e3b433f1c3e489143a6afea9bb]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/9) in force at 1.10.2007 by [S.I. 2007/2518](https://www.legislation.gov.uk/uksi/2007/2518), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/2518/article/3/b)
 
-[^key-39a981fdccd97152c56ec9f5d2c93ca7]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/10) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(d)(ii)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/d/ii)
+[^c-39a981fdccd97152c56ec9f5d2c93ca7]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/10) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(d)(ii)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/d/ii)
 
-[^key-5d9290c72450cb71099d00101c1a075e]: Commencement: [Sch. 2 para. 11(1)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/11/1) in force at 1.4.2008 by [S.I. 2008/791](https://www.legislation.gov.uk/uksi/2008/791), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2008/791/article/2/c/i)
+[^c-5d9290c72450cb71099d00101c1a075e]: Commencement: [Sch. 2 para. 11(1)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/11/1) in force at 1.4.2008 by [S.I. 2008/791](https://www.legislation.gov.uk/uksi/2008/791), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2008/791/article/2/c/i)
 
-[^key-85fc1d8822ca4ac6d5c3b39f1ca23116]: Commencement: [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/11/2)[(4)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/11/4) in force at 6.4.2008 by [S.I. 2008/791](https://www.legislation.gov.uk/uksi/2008/791), [art. 3(c)](https://www.legislation.gov.uk/uksi/2008/791/article/3/c)
+[^c-85fc1d8822ca4ac6d5c3b39f1ca23116]: Commencement: [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/11/2)[(4)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/11/4) in force at 6.4.2008 by [S.I. 2008/791](https://www.legislation.gov.uk/uksi/2008/791), [art. 3(c)](https://www.legislation.gov.uk/uksi/2008/791/article/3/c)
 
-[^key-896b71e6b241214645f7ec8d3429cc81]: Commencement: [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/11/3) in force at 1.4.2008 for specified purposes by [S.I. 2008/791](https://www.legislation.gov.uk/uksi/2008/791), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2008/791/article/2/c/ii)
+[^c-896b71e6b241214645f7ec8d3429cc81]: Commencement: [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/11/3) in force at 1.4.2008 for specified purposes by [S.I. 2008/791](https://www.legislation.gov.uk/uksi/2008/791), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2008/791/article/2/c/ii)
 
-[^key-4ac32fe20f0f174d7528a2e7c00d608b]: Commencement: [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/11/3) in force at 6.4.2008 in so far as not already in force by [S.I. 2008/791](https://www.legislation.gov.uk/uksi/2008/791), [art. 3(c)](https://www.legislation.gov.uk/uksi/2008/791/article/3/c)
+[^c-4ac32fe20f0f174d7528a2e7c00d608b]: Commencement: [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/11/3) in force at 6.4.2008 in so far as not already in force by [S.I. 2008/791](https://www.legislation.gov.uk/uksi/2008/791), [art. 3(c)](https://www.legislation.gov.uk/uksi/2008/791/article/3/c)
 
-[^key-1ac180010c8363ac8c78656dcbc10846]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/12) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(d)(ii)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/d/ii)
+[^c-1ac180010c8363ac8c78656dcbc10846]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/12) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(d)(ii)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/d/ii)
 
-[^key-7cae26534944f335131b4b71b951dd26]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/13) in force at 31.5.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 3(e)](https://www.legislation.gov.uk/uksi/2007/858/article/3/e)
+[^c-7cae26534944f335131b4b71b951dd26]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/13) in force at 31.5.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 3(e)](https://www.legislation.gov.uk/uksi/2007/858/article/3/e)
 
-[^key-6a992d58e702fdef4505d90aecb35970]: Commencement: [Sch. 2 para. 14(1)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/14/1) [(2)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/14/2) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(j)(ii)](https://www.legislation.gov.uk/uksi/2007/858/article/2/j/ii)
+[^c-6a992d58e702fdef4505d90aecb35970]: Commencement: [Sch. 2 para. 14(1)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/14/1) [(2)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/14/2) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(j)(ii)](https://www.legislation.gov.uk/uksi/2007/858/article/2/j/ii)
 
-[^key-60ec47784ba27c46ed1da5a4368c7d36]: Commencement: [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/14/3) in force for specified purposes at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(j)(ii)](https://www.legislation.gov.uk/uksi/2007/858/article/2/j/ii)
+[^c-60ec47784ba27c46ed1da5a4368c7d36]: Commencement: [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/14/3) in force for specified purposes at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(j)(ii)](https://www.legislation.gov.uk/uksi/2007/858/article/2/j/ii)
 
-[^key-0e97d9b20988780b6658f7d443e29915]: Commencement: [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/14/3) [(4)(b)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/14/4/b) in force in so far as not already in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(d)(ii)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/d/ii)
+[^c-0e97d9b20988780b6658f7d443e29915]: Commencement: [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/14/3) [(4)(b)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/14/4/b) in force in so far as not already in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(d)(ii)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/d/ii)
 
-[^key-77d8b604b290d1ed2b32799e2c5feafa]: Commencement: [Sch. 2 para. 14(4)(a)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/14/4/a) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(d)(ii)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/d/ii)
+[^c-77d8b604b290d1ed2b32799e2c5feafa]: Commencement: [Sch. 2 para. 14(4)(a)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/14/4/a) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(d)(ii)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/d/ii)
 
-[^key-66d696fccec75ead81be4f8f1cdf9a46]: Commencement: [Sch. 2 para. 14(4)(b)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/14/4/b) in force for specified purposes at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(j)(ii)](https://www.legislation.gov.uk/uksi/2007/858/article/2/j/ii)
+[^c-66d696fccec75ead81be4f8f1cdf9a46]: Commencement: [Sch. 2 para. 14(4)(b)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/14/4/b) in force for specified purposes at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(j)(ii)](https://www.legislation.gov.uk/uksi/2007/858/article/2/j/ii)

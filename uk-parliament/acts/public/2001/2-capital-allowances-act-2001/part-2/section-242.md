@@ -36,12 +36,12 @@ E and D are defined in subsections (3) to (6).
 
 (4) If S is required to bring a disposal value into account under this Part because of the relevant transaction, D is that disposal value.
 
-(4A)[^key-4ae09ebd6820d62b4ced86257b1dd4f2] D is nil if—
+(4A)[^c-4ae09ebd6820d62b4ced86257b1dd4f2] D is nil if—
 
 - (a) S is not required to bring a disposal value into account under this Part because of the relevant transaction, and
 - (b) at any time before that transaction S or a linked person became owner of the plant or machinery without incurring either capital expenditure or qualifying revenue expenditure on its provision.
 
-(5) Otherwise,[^key-6e42880dc65a901e6843b437568ef358] D is whichever of the following is the smallest—
+(5) Otherwise,[^c-6e42880dc65a901e6843b437568ef358] D is whichever of the following is the smallest—
 
 - (a) the market value of the plant or machinery;
 - (b) if S incurred capital expenditure on the provision of the plant or machinery, the amount of that expenditure—
@@ -53,13 +53,13 @@ E and D are defined in subsections (3) to (6).
 
 (6) If—
 
-- (a)[^key-18bcb7df5f91cf93ad47ca972e674777] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) subsection (5) applies and the smallest amount under that subsection[^key-73aadd6013c408e10e79e9b052596742] is the market value of the plant or machinery, and
+- (a)[^c-18bcb7df5f91cf93ad47ca972e674777] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) subsection (5) applies and the smallest amount under that subsection[^c-73aadd6013c408e10e79e9b052596742] is the market value of the plant or machinery, and
 - (c) that value is determined inclusive of value added tax,
 
   E is the amount of B’s expenditure under the relevant transaction.
 
-(7)[^key-237225c764ccd23a571fb1fc8c676cb4] Linked person”, in relation to plant or machinery, means a person—
+(7)[^c-237225c764ccd23a571fb1fc8c676cb4] Linked person”, in relation to plant or machinery, means a person—
 
 - (a) who owned the plant or machinery at any time before the relevant transaction, and
 - (b) who was connected with S at any time between—
@@ -73,12 +73,12 @@ E and D are defined in subsections (3) to (6).
 
 ## Annotations
 
-[^key-4ae09ebd6820d62b4ced86257b1dd4f2]: Textual amendment: S. 242(4A) inserted (with effect in accordance with Sch. 10 para. 5(6) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 10 para. 5(2)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/10/paragraph/5/2)
+[^c-4ae09ebd6820d62b4ced86257b1dd4f2]: Textual amendment: S. 242(4A) inserted (with effect in accordance with Sch. 10 para. 5(6) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 10 para. 5(2)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/10/paragraph/5/2)
 
-[^key-6e42880dc65a901e6843b437568ef358]: Textual amendment: Word in s. 242(5) substituted (with effect in accordance with Sch. 10 para. 5(6) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 10 para. 5(3)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/10/paragraph/5/3)
+[^c-6e42880dc65a901e6843b437568ef358]: Textual amendment: Word in s. 242(5) substituted (with effect in accordance with Sch. 10 para. 5(6) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 10 para. 5(3)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/10/paragraph/5/3)
 
-[^key-18bcb7df5f91cf93ad47ca972e674777]: Textual amendment: S. 242(6)(a) omitted (with effect in accordance with Sch. 10 para. 5(6) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 10 para. 5(4)(a)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/10/paragraph/5/4/a)
+[^c-18bcb7df5f91cf93ad47ca972e674777]: Textual amendment: S. 242(6)(a) omitted (with effect in accordance with Sch. 10 para. 5(6) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 10 para. 5(4)(a)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/10/paragraph/5/4/a)
 
-[^key-73aadd6013c408e10e79e9b052596742]: Textual amendment: Words in s. 242(6)(b) substituted (with effect in accordance with Sch. 10 para. 5(6) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 10 para. 5(4)(b)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/10/paragraph/5/4/b)
+[^c-73aadd6013c408e10e79e9b052596742]: Textual amendment: Words in s. 242(6)(b) substituted (with effect in accordance with Sch. 10 para. 5(6) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 10 para. 5(4)(b)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/10/paragraph/5/4/b)
 
-[^key-237225c764ccd23a571fb1fc8c676cb4]: Textual amendment: S. 242(7)(8) inserted (with effect in accordance with Sch. 10 para. 5(6) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 10 para. 5(5)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/10/paragraph/5/5)
+[^c-237225c764ccd23a571fb1fc8c676cb4]: Textual amendment: S. 242(7)(8) inserted (with effect in accordance with Sch. 10 para. 5(6) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 10 para. 5(5)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/10/paragraph/5/5)

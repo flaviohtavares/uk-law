@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Prohibition on certain names[^key-80e1c425a8029ab94c8136c37d38052b]
+## 19. Prohibition on certain names[^c-80e1c425a8029ab94c8136c37d38052b]
 
 *Extent: N.I.*
 
@@ -74,6 +74,6 @@ summary: ''
 
 ## Annotations
 
-[^key-80e1c425a8029ab94c8136c37d38052b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2004/335/regulation/19) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-80e1c425a8029ab94c8136c37d38052b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2004/335/regulation/19) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
 [^f00007]: Footnote: [S.R. 1989 No. 216](https://www.legislation.gov.uk/nisr/1989/216). The Regulations were modified by virtue of section 2(1) of the European Economic Area Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) so that, for any limitation in the Regulations that proceeds by reference to the Communities, there is substituted a corresponding limitation relating to the European Economic Area

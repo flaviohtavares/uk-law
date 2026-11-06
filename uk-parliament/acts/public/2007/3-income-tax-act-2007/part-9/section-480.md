@@ -37,17 +37,17 @@ and it is not excluded by subsection (3).
 
 - (a) before being distributed, it is the income of any person other than the trustees,
 - (b) it is income from property within subsection (4), or
-- (c) it is income from service charges which are paid in respect of dwellings in the United Kingdom and are held on trust.[^key-8bf00a6b7b6e4ca0091ab84e18489799]
+- (c) it is income from service charges which are paid in respect of dwellings in the United Kingdom and are held on trust.[^c-8bf00a6b7b6e4ca0091ab84e18489799]
 
 (4) Property is within this subsection if it—
 
 - (a) is held for the purposes of a superannuation fund to which section 615(3) of ICTA (superannuation funds relating to undertakings outside the UK) applies, but
 - (b) is not held as a member of a property investment LLP.
 
-(5)[^key-01b8b0dd47c0cbdf07d43a8b320c63c4] In subsection (3)(c) “**service charges**” has the meaning given by section 18 of the Landlord and Tenant Act 1985 (but as if that section also applied in relation to dwellings in Scotland and Northern Ireland).
+(5)[^c-01b8b0dd47c0cbdf07d43a8b320c63c4] In subsection (3)(c) “**service charges**” has the meaning given by section 18 of the Landlord and Tenant Act 1985 (but as if that section also applied in relation to dwellings in Scotland and Northern Ireland).
 
 ## Annotations
 
-[^key-8bf00a6b7b6e4ca0091ab84e18489799]: Textual amendment: Words in s. 480(3)(c) substituted (with effect in accordance with s. 65(4) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 65(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/65/2)
+[^c-8bf00a6b7b6e4ca0091ab84e18489799]: Textual amendment: Words in s. 480(3)(c) substituted (with effect in accordance with s. 65(4) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 65(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/65/2)
 
-[^key-01b8b0dd47c0cbdf07d43a8b320c63c4]: Textual amendment: S. 480(5) substituted for s. 480(5)(6) (with effect in accordance with s. 65(4) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 65(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/65/3)
+[^c-01b8b0dd47c0cbdf07d43a8b320c63c4]: Textual amendment: S. 480(5) substituted for s. 480(5)(6) (with effect in accordance with s. 65(4) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 65(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/65/3)

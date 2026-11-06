@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16K. Interpretation and meaning of “relevant time”[^key-47ff53424f30f02d9f57a9718927d131]
+## 16K. Interpretation and meaning of “relevant time”[^c-47ff53424f30f02d9f57a9718927d131]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47ff53424f30f02d9f57a9718927d131]: Textual amendment: S. 16K inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 27(4)](https://www.legislation.gov.uk/asp/2019/11/section/27/4), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-47ff53424f30f02d9f57a9718927d131]: Textual amendment: S. 16K inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 27(4)](https://www.legislation.gov.uk/asp/2019/11/section/27/4), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

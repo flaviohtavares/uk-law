@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.129. Recourse of liquidator to meeting of creditors[^key-a24bad48186a4f81bff2615329be9e45]
+## 4.129. Recourse of liquidator to meeting of creditors[^c-a24bad48186a4f81bff2615329be9e45]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If the liquidator's remuneration has been fixed by the liquidation committee, an
 
 ## Annotations
 
-[^key-a24bad48186a4f81bff2615329be9e45]: Commencement: [Rule 4.129](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.129) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-a24bad48186a4f81bff2615329be9e45]: Commencement: [Rule 4.129](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.129) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

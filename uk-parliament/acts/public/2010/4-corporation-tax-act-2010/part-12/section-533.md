@@ -20,26 +20,26 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A financial statement under section 532(2)(a) or (c) must specify, in relation to [^key-baba7960a5e4924fe0983cb946814a15]... the group—
+(1) A financial statement under section 532(2)(a) or (c) must specify, in relation to [^c-baba7960a5e4924fe0983cb946814a15]... the group—
 
 - (a) profits (calculated in accordance with international accounting standards),
 - (b) expenses (calculated in accordance with international accounting standards),
-- (c) profits before tax excluding gains or losses on property (whether realised or not) calculated in accordance with international accounting standards, [^key-68db6a9c56e767583255fd20878969d9]...
-- (ca)[^key-6b0ad916498f57ce6ab96b11773ae6b1] the items specified in section 531(4)(b) to (d), and
-- (d) assets , including assets within subsection (1ZA),[^key-4019403c0245412b01e7da4ca1c0d0ee] valued—
+- (c) profits before tax excluding gains or losses on property (whether realised or not) calculated in accordance with international accounting standards, [^c-68db6a9c56e767583255fd20878969d9]...
+- (ca)[^c-6b0ad916498f57ce6ab96b11773ae6b1] the items specified in section 531(4)(b) to (d), and
+- (d) assets , including assets within subsection (1ZA),[^c-4019403c0245412b01e7da4ca1c0d0ee] valued—
   - (i) at the beginning of the accounting period,
   - (ii) in accordance with international accounting standards,
   - (iii) using fair value where there is a choice, and
   - (iv) ignoring liabilities secured against or otherwise relating to the assets.
 
-(1ZA)[^key-4c78f2f05ff947edad4d68b3f29d119d] Assets are within this subsection if they are held solely—
+(1ZA)[^c-4c78f2f05ff947edad4d68b3f29d119d] Assets are within this subsection if they are held solely—
 
 - (a) in connection with the items mentioned in section 531(4)(b) and (c), or
 - (b) as a result of compliance with planning obligations entered into as mentioned in section 531(4)(d).
 
-(1A)[^key-a98b5490418e769c12ff2d578abc999e] The profits and gains of the UK property rental business of a non-UK member of the group are to be treated as if they were profits and gains of a UK resident member of the group for the purposes of a financial statement under section 532(2)(a).
+(1A)[^c-a98b5490418e769c12ff2d578abc999e] The profits and gains of the UK property rental business of a non-UK member of the group are to be treated as if they were profits and gains of a UK resident member of the group for the purposes of a financial statement under section 532(2)(a).
 
-(1B)[^key-f73346ed740732624421fb6783e5644a] Subsection (1C) applies where in the accounting period for which statements are prepared under section 532(2) profits of the group’s property rental business are less than 80% of the sum of—
+(1B)[^c-f73346ed740732624421fb6783e5644a] Subsection (1C) applies where in the accounting period for which statements are prepared under section 532(2) profits of the group’s property rental business are less than 80% of the sum of—
 
 - (a) the profits of property rental business of the group, and
 - (b) the profits of residual business of the group.
@@ -89,16 +89,16 @@ is less than 80% of the total value of assets held by the group.
 
 ## Annotations
 
-[^key-baba7960a5e4924fe0983cb946814a15]: Textual amendment: Words in [s. 533(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/533/1) omitted (1.4.2022 in relation to accounting periods (within the meaning of Part 12 of CTA 2010) that begin on or after that date) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 3 paras. 3(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/3/2/a/i), [6(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/6/1)
+[^c-baba7960a5e4924fe0983cb946814a15]: Textual amendment: Words in [s. 533(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/533/1) omitted (1.4.2022 in relation to accounting periods (within the meaning of Part 12 of CTA 2010) that begin on or after that date) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 3 paras. 3(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/3/2/a/i), [6(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/6/1)
 
-[^key-68db6a9c56e767583255fd20878969d9]: Textual amendment: Word in [s. 533(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/533/1) omitted (1.4.2022 in relation to accounting periods (within the meaning of Part 12 of CTA 2010) that begin on or after that date) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 3 paras. 3(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/3/2/a/ii), [6(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/6/1)
+[^c-68db6a9c56e767583255fd20878969d9]: Textual amendment: Word in [s. 533(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/533/1) omitted (1.4.2022 in relation to accounting periods (within the meaning of Part 12 of CTA 2010) that begin on or after that date) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 3 paras. 3(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/3/2/a/ii), [6(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/6/1)
 
-[^key-6b0ad916498f57ce6ab96b11773ae6b1]: Textual amendment: [S. 533(1)(ca)](https://www.legislation.gov.uk/ukpga/2010/4/section/533/1/ca) inserted (1.4.2022 in relation to accounting periods (within the meaning of Part 12 of CTA 2010) that begin on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 3 paras. 3(2)(a)(iii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/3/2/a/iii), [6(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/6/1)
+[^c-6b0ad916498f57ce6ab96b11773ae6b1]: Textual amendment: [S. 533(1)(ca)](https://www.legislation.gov.uk/ukpga/2010/4/section/533/1/ca) inserted (1.4.2022 in relation to accounting periods (within the meaning of Part 12 of CTA 2010) that begin on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 3 paras. 3(2)(a)(iii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/3/2/a/iii), [6(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/6/1)
 
-[^key-4019403c0245412b01e7da4ca1c0d0ee]: Textual amendment: Words in [s. 533(1)(d)](https://www.legislation.gov.uk/ukpga/2010/4/section/533/1/d) inserted (1.4.2022 in relation to accounting periods (within the meaning of Part 12 of CTA 2010) that begin on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 3 paras. 3(2)(a)(iv)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/3/2/a/iv), [6(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/6/1)
+[^c-4019403c0245412b01e7da4ca1c0d0ee]: Textual amendment: Words in [s. 533(1)(d)](https://www.legislation.gov.uk/ukpga/2010/4/section/533/1/d) inserted (1.4.2022 in relation to accounting periods (within the meaning of Part 12 of CTA 2010) that begin on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 3 paras. 3(2)(a)(iv)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/3/2/a/iv), [6(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/6/1)
 
-[^key-4c78f2f05ff947edad4d68b3f29d119d]: Textual amendment: [S. 533(1ZA)](https://www.legislation.gov.uk/ukpga/2010/4/section/533/1ZA) inserted (1.4.2022 in relation to accounting periods (within the meaning of Part 12 of CTA 2010) that begin on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 3 paras. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/3/2/b), [6(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/6/1)
+[^c-4c78f2f05ff947edad4d68b3f29d119d]: Textual amendment: [S. 533(1ZA)](https://www.legislation.gov.uk/ukpga/2010/4/section/533/1ZA) inserted (1.4.2022 in relation to accounting periods (within the meaning of Part 12 of CTA 2010) that begin on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 3 paras. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/3/2/b), [6(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/6/1)
 
-[^key-a98b5490418e769c12ff2d578abc999e]: Textual amendment: S. 533(1A) inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 114](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/114)
+[^c-a98b5490418e769c12ff2d578abc999e]: Textual amendment: S. 533(1A) inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 114](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/114)
 
-[^key-f73346ed740732624421fb6783e5644a]: Textual amendment: [S. 533(1B)-(1I)](https://www.legislation.gov.uk/ukpga/2010/4/section/533/1B) inserted (1.4.2022 in relation to accounting periods (within the meaning of Part 12 of CTA 2010) that begin on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 3 paras. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/3/2/c), [6(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/6/1)
+[^c-f73346ed740732624421fb6783e5644a]: Textual amendment: [S. 533(1B)-(1I)](https://www.legislation.gov.uk/ukpga/2010/4/section/533/1B) inserted (1.4.2022 in relation to accounting periods (within the meaning of Part 12 of CTA 2010) that begin on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 3 paras. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/3/2/c), [6(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/6/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Dealing with applications[^key-cb38490c6f6b91a6b4b8017849f2cb2e]
+## 132. Dealing with applications[^c-cb38490c6f6b91a6b4b8017849f2cb2e]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb38490c6f6b91a6b4b8017849f2cb2e]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2014/6/section/132) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(l)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/l) (with [art. 10](https://www.legislation.gov.uk/uksi/2014/1640/article/10))
+[^c-cb38490c6f6b91a6b4b8017849f2cb2e]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2014/6/section/132) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(l)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/l) (with [art. 10](https://www.legislation.gov.uk/uksi/2014/1640/article/10))

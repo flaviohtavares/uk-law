@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Creditors' meetings generally[^key-88b3c87fe199e56044c48c94201ceb47]
+## 21. Creditors' meetings generally[^c-88b3c87fe199e56044c48c94201ceb47]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88b3c87fe199e56044c48c94201ceb47]: Commencement: Rule 21 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-88b3c87fe199e56044c48c94201ceb47]: Commencement: Rule 21 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

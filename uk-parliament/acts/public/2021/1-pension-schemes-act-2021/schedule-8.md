@@ -26,7 +26,7 @@ Section 117
 
 #### Introductory
 
-**1.**[^key-32987d264e1d48ba0bb8791d3142a27f][^M_I_ca0f4ca9-1ca4-459f-e243-3c8297ac51b3][^key-aa538be99fc805b1feeeed2e5748b3f0] The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)) is amended as follows.
+**1.**[^c-32987d264e1d48ba0bb8791d3142a27f][^M_I_ca0f4ca9-1ca4-459f-e243-3c8297ac51b3][^c-aa538be99fc805b1feeeed2e5748b3f0] The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)) is amended as follows.
 
 #### Grounds for issuing an Article 34 contribution notice
 
@@ -141,7 +141,7 @@ Section 117
 > - (b) “**a warning notice**” means a notice given as mentioned in Article 91(2)(a);
 > - (c) a reference to a party to an act or failure to act includes a reference to a person who knowingly assists in the act or failure.
 
-(3)[^key-69425ce089b4f4b91a689a701aa65403][^M_I_521c0772-622a-49e7-890f-bbfde6a721ea] After Article 34D (inserted by sub-paragraph (2)) insert—
+(3)[^c-69425ce089b4f4b91a689a701aa65403][^M_I_521c0772-622a-49e7-890f-bbfde6a721ea] After Article 34D (inserted by sub-paragraph (2)) insert—
 
 > **34E. Article 34 contribution notice: meaning of “employer resources test”**
 >
@@ -532,7 +532,7 @@ Section 117
 
 #### Duty to give notices and statements to the Regulator in respect of certain events
 
-**8.** (1)[^key-f25812334905b59ae8ccd82b7fc5dc32] After Article 64 insert—
+**8.** (1)[^c-f25812334905b59ae8ccd82b7fc5dc32] After Article 64 insert—
 
 > **Duty to give notices and statements to the Regulator in respect of certain events**
 >
@@ -603,7 +603,7 @@ Section 117
 
 #### Interviews
 
-**9.** (1)[^key-722d2e41cc360680225bcb352d6dad6e][^M_I_ac29ae08-820a-4554-be08-ad3b2b7d637d] After Article 67 insert—
+**9.** (1)[^c-722d2e41cc360680225bcb352d6dad6e][^M_I_ac29ae08-820a-4554-be08-ad3b2b7d637d] After Article 67 insert—
 
 > **Interviews**
 >
@@ -630,18 +630,18 @@ Section 117
 
 #### Inspection of premises
 
-**10.** (1)[^M_I_d1602c08-38e3-4c9e-8d9b-5de4126bdd25][^key-4bd599be30ad4128ecb5a8e06da884f0] Article 68 (inspection of premises) is amended as follows.
+**10.** (1)[^M_I_d1602c08-38e3-4c9e-8d9b-5de4126bdd25][^c-4bd599be30ad4128ecb5a8e06da884f0] Article 68 (inspection of premises) is amended as follows.
 
 (2) In paragraph (2)—
 
-- (a)[^key-889e0ea16146a38013c8cd671736895b] after sub-paragraph (da) insert—
+- (a)[^c-889e0ea16146a38013c8cd671736895b] after sub-paragraph (da) insert—
 
   > - (db) Part 2 of the Pension Schemes Act 2021;
 
   ;
 - (b) in sub-paragraph (e)—
   - (i)[^M_I_b8aa652c-c2b4-4362-defd-bd294559f860] at the beginning insert “ the Pension Schemes Act 2017 and ”;
-  - (ii)[^key-889e0ea16146a38013c8cd671736895b] for “(da)” substitute “ (db) ”.
+  - (ii)[^c-889e0ea16146a38013c8cd671736895b] for “(da)” substitute “ (db) ”.
 
 (3)[^M_I_b8aa652c-c2b4-4362-defd-bd294559f860] After paragraph (2) insert—
 
@@ -696,7 +696,7 @@ Section 117
 
 #### Fixed penalty notices and escalating penalty notices
 
-**11.**[^key-5d8a2d0038da33a52a4f648e5c493c8a][^M_I_96e51409-a14f-4d30-ed3c-38b4c6f21ae8] After Article 72 (penalties relating to Articles 67 to 70) insert—
+**11.**[^c-5d8a2d0038da33a52a4f648e5c493c8a][^M_I_96e51409-a14f-4d30-ed3c-38b4c6f21ae8] After Article 72 (penalties relating to Articles 67 to 70) insert—
 
 > **Fixed penalty notices**
 >
@@ -767,7 +767,7 @@ Section 117
 
 #### Provision of false or misleading information to Regulator
 
-**12.**[^M_I_afd966e5-d233-49e8-d290-d4b08263e723][^key-a1617c848210ecf8ee42f92288fefe97] After Article 75 (offences of providing false or misleading information) insert—
+**12.**[^M_I_afd966e5-d233-49e8-d290-d4b08263e723][^c-a1617c848210ecf8ee42f92288fefe97] After Article 75 (offences of providing false or misleading information) insert—
 
 > **Financial penalty for providing false or misleading information to Regulator**
 >
@@ -901,7 +901,7 @@ Section 117
 
 #### Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))
 
-**16.**[^key-416deb4a568f001a52a0c252aa58a9fd][^M_I_f169e0e6-4c3f-4a4f-b558-abba2e8ebe5a][^key-69235777a49cf80acad37cceef48e08a][^key-401e5aa707a71032f6834393cb3b7ec8] The Pensions (Northern Ireland) Order 2005 is amended as follows.
+**16.**[^c-416deb4a568f001a52a0c252aa58a9fd][^M_I_f169e0e6-4c3f-4a4f-b558-abba2e8ebe5a][^c-69235777a49cf80acad37cceef48e08a][^c-401e5aa707a71032f6834393cb3b7ec8] The Pensions (Northern Ireland) Order 2005 is amended as follows.
 
 **17.**[^M_I_e9d651cc-2cd6-437a-b651-94e6a288572f] In Article 34B (Article 34 contribution notice issued by reference to material detriment test: defence), in paragraph (12), for sub-paragraph (b) substitute—
 
@@ -931,7 +931,7 @@ Section 117
 - (a) after “virtue of”, in the first place it occurs, insert “ Article 72A, 72B or 83A of this Order, ”;
 - (b) for “either of them” substitute “ any of those provisions ”.
 
-**21.**[^M_I_52ddac4e-4912-4bf1-a62d-e4bf2ee7e17c][^key-b4d8a83fdafa899e30d9396af1d602fe] (1) Article 75 (offences of providing false or misleading information) is amended as follows.
+**21.**[^M_I_52ddac4e-4912-4bf1-a62d-e4bf2ee7e17c][^c-b4d8a83fdafa899e30d9396af1d602fe] (1) Article 75 (offences of providing false or misleading information) is amended as follows.
 
 (2) In paragraph (1)(a), after head (iii) insert—
 
@@ -953,7 +953,7 @@ Section 117
 
 **22.** In Article 85 (codes of practice), in paragraph (2)—
 
-- (a)[^key-82c74b19a87fc45457bbca7f01876fd1] in sub-paragraph (aa), after “test” insert “ , the employer insolvency test or the employer resources test ”;
+- (a)[^c-82c74b19a87fc45457bbca7f01876fd1] in sub-paragraph (aa), after “test” insert “ , the employer insolvency test or the employer resources test ”;
 - (b)[^M_I_43b5a831-e686-44c2-c678-ead13d344407] after sub-paragraph (b) insert—
 
   > - (ba) the discharge of the duties imposed by Article 64A (duty to give notices and statements to the Regulator in respect of certain events);
@@ -1017,7 +1017,7 @@ Section 117
 
 **26.** (1)[^M_I_9bdf8120-450d-4a59-fe98-f38789706f2b] Article 288 (Assembly etc. control of orders and regulations) is amended as follows.
 
-(2)[^key-39bdb376084ac7d7422c3f761ac1470e] In paragraph (3) (orders and regulations subject to confirmatory procedure), after sub-paragraph (aa) insert—
+(2)[^c-39bdb376084ac7d7422c3f761ac1470e] In paragraph (3) (orders and regulations subject to confirmatory procedure), after sub-paragraph (aa) insert—
 
 > - (aaa) regulations under Article 34E(2)(a) (Article 34 contribution notice: constitution of resources of employer);
 > - (aab) regulations under Article 34E(2)(b) (Article 34 contribution notice: valuation of resources of employer);
@@ -1035,7 +1035,7 @@ Section 117
 
 .
 
-**27.**[^key-bd01d211d7ce19e90c2961c8485e1fc7] In Schedule 1 (the Pensions Regulator), in Part 1 (delegation), in paragraph 2(2), after paragraph (d) insert—
+**27.**[^c-bd01d211d7ce19e90c2961c8485e1fc7] In Schedule 1 (the Pensions Regulator), in Part 1 (delegation), in paragraph 2(2), after paragraph (d) insert—
 
 > - (da) the power to issue a notice under Article 67A;
 > - (db) the power to issue a fixed penalty notice under Article 72A;
@@ -1044,15 +1044,15 @@ Section 117
 
 .
 
-**28.**[^key-088582108ed3604d3bed6b56c834a415] In Schedule 2 (the reserved regulatory functions), after paragraph 41 insert—
+**28.**[^c-088582108ed3604d3bed6b56c834a415] In Schedule 2 (the reserved regulatory functions), after paragraph 41 insert—
 
 > **41A.** The power to require a person to pay a penalty under Article 83A.
 
 #### Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13 (N.I.))
 
-**29.**[^key-d469f6814201b78f7856d0801053b32b] The Pensions (No. 2) Act (Northern Ireland) 2008 is amended as follows.
+**29.**[^c-d469f6814201b78f7856d0801053b32b] The Pensions (No. 2) Act (Northern Ireland) 2008 is amended as follows.
 
-**30.**[^key-84695d7be0ce0fc23b91030970a8074b] In section 40 (fixed penalty notices), in subsection (1)—
+**30.**[^c-84695d7be0ce0fc23b91030970a8074b] In section 40 (fixed penalty notices), in subsection (1)—
 
 - (a) omit the “or” after paragraph (c);
 - (b) after paragraph (d) insert
@@ -1061,7 +1061,7 @@ Section 117
   >
   > - (e) a notice issued under Article 67A of that Order (interviews), so far as relevant to the exercise of its functions under or by virtue of this Part.
 
-**31.**[^key-1741a0f4bb19c1fc56702db100da113b] In section 41 (escalating penalty notices), in subsection (1)—
+**31.**[^c-1741a0f4bb19c1fc56702db100da113b] In section 41 (escalating penalty notices), in subsection (1)—
 
 - (a) omit the “or” after paragraph (c);
 - (b) after paragraph (d) insert
@@ -1072,15 +1072,15 @@ Section 117
 
 ## Annotations
 
-[^key-32987d264e1d48ba0bb8791d3142a27f]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/1) in force at 1.9.2021 for specified purposes by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/a)
+[^c-32987d264e1d48ba0bb8791d3142a27f]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/1) in force at 1.9.2021 for specified purposes by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/a)
 
 [^M_I_ca0f4ca9-1ca4-459f-e243-3c8297ac51b3]: Commencement: Sch. 8 para. 1 in force at 1.10.2021 for specified purposes by [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(k)(5)(d)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/k/5/d)
 
-[^key-aa538be99fc805b1feeeed2e5748b3f0]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/1) in force at 1.8.2022 for specified purposes by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(d)](https://www.legislation.gov.uk/nisr/2022/197/article/3/d)
+[^c-aa538be99fc805b1feeeed2e5748b3f0]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/1) in force at 1.8.2022 for specified purposes by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(d)](https://www.legislation.gov.uk/nisr/2022/197/article/3/d)
 
 [^M_I_4a638c5a-c5cf-455c-e00c-31a8df243302]: Commencement: Sch. 8 para. 2(1)(2) in force at 1.10.2021 by [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(5)(a)](https://www.legislation.gov.uk/nisr/2021/271/article/2/5/a) (with [art. 3(1)(2)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1/2))
 
-[^key-69425ce089b4f4b91a689a701aa65403]: Commencement: [Sch. 8 para. 2(3)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/2/3) in force at 1.9.2021 for specified purposes by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/c)
+[^c-69425ce089b4f4b91a689a701aa65403]: Commencement: [Sch. 8 para. 2(3)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/2/3) in force at 1.9.2021 for specified purposes by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/c)
 
 [^M_I_521c0772-622a-49e7-890f-bbfde6a721ea]: Commencement: Sch. 8 para. 2(3) in force at 1.10.2021 in so far as not already in force by [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(5)(a)](https://www.legislation.gov.uk/nisr/2021/271/article/2/5/a) (with [art. 3(1)(2)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1/2))
 
@@ -1096,9 +1096,9 @@ Section 117
 
 [^M_I_c279b654-0922-4769-a93e-fad0e7b4fba7]: Commencement: Sch. 8 para. 7 in force at 1.10.2021 by [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(e)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/e) (with [arts. 4](https://www.legislation.gov.uk/nisr/2021/271/article/4), [8](https://www.legislation.gov.uk/nisr/2021/271/article/8))
 
-[^key-f25812334905b59ae8ccd82b7fc5dc32]: Commencement: [Sch. 8 para. 8(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/8/1) in force at 1.9.2021 for specified purposes by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/d)
+[^c-f25812334905b59ae8ccd82b7fc5dc32]: Commencement: [Sch. 8 para. 8(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/8/1) in force at 1.9.2021 for specified purposes by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/d)
 
-[^key-722d2e41cc360680225bcb352d6dad6e]: Commencement: [Sch. 8 para. 9(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/9/1) in force at 1.9.2021 for specified purposes by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/e)
+[^c-722d2e41cc360680225bcb352d6dad6e]: Commencement: [Sch. 8 para. 9(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/9/1) in force at 1.9.2021 for specified purposes by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/e)
 
 [^M_I_ac29ae08-820a-4554-be08-ad3b2b7d637d]: Commencement: Sch. 8 para. 9(1) in force at 1.10.2021 in so far as not already in force by [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(5)(b)](https://www.legislation.gov.uk/nisr/2021/271/article/2/5/b) (with [art. 9](https://www.legislation.gov.uk/nisr/2021/271/article/9))
 
@@ -1106,19 +1106,19 @@ Section 117
 
 [^M_I_d1602c08-38e3-4c9e-8d9b-5de4126bdd25]: Commencement: Sch. 8 para. 10(1) in force at 1.10.2021 for specified purposes by [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(f)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/f)
 
-[^key-4bd599be30ad4128ecb5a8e06da884f0]: Commencement: [Sch. 8 para. 10(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/10/1) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(b)](https://www.legislation.gov.uk/nisr/2022/197/article/3/b)
+[^c-4bd599be30ad4128ecb5a8e06da884f0]: Commencement: [Sch. 8 para. 10(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/10/1) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(b)](https://www.legislation.gov.uk/nisr/2022/197/article/3/b)
 
-[^key-889e0ea16146a38013c8cd671736895b]: Commencement: [Sch. 8 para. 10(2)(a)(b)(ii)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/10/2/a/b/ii) in force at 1.8.2022 by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(b)](https://www.legislation.gov.uk/nisr/2022/197/article/3/b)
+[^c-889e0ea16146a38013c8cd671736895b]: Commencement: [Sch. 8 para. 10(2)(a)(b)(ii)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/10/2/a/b/ii) in force at 1.8.2022 by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(b)](https://www.legislation.gov.uk/nisr/2022/197/article/3/b)
 
 [^M_I_b8aa652c-c2b4-4362-defd-bd294559f860]: Commencement: Sch. 8 para. 10(2)(b)(i)(3)-(7) in force at 1.10.2021 by [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(f)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/f)
 
-[^key-5d8a2d0038da33a52a4f648e5c493c8a]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/11) in force at 1.9.2021 for specified purposes by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/f)
+[^c-5d8a2d0038da33a52a4f648e5c493c8a]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/11) in force at 1.9.2021 for specified purposes by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/f)
 
 [^M_I_96e51409-a14f-4d30-ed3c-38b4c6f21ae8]: Commencement: Sch. 8 para. 11 in force at 1.10.2021 in so far as not already in force by [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(5)(c)](https://www.legislation.gov.uk/nisr/2021/271/article/2/5/c) (with [art. 5](https://www.legislation.gov.uk/nisr/2021/271/article/5))
 
 [^M_I_afd966e5-d233-49e8-d290-d4b08263e723]: Commencement: Sch. 8 para. 12 in force at 1.10.2021 for specified purposes by [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(g)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/g) (with [art. 6](https://www.legislation.gov.uk/nisr/2021/271/article/6))
 
-[^key-a1617c848210ecf8ee42f92288fefe97]: Commencement: [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/12) in force at 1.8.2022 for specified purposes by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(c)](https://www.legislation.gov.uk/nisr/2022/197/article/3/c)
+[^c-a1617c848210ecf8ee42f92288fefe97]: Commencement: [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/12) in force at 1.8.2022 for specified purposes by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(c)](https://www.legislation.gov.uk/nisr/2022/197/article/3/c)
 
 [^M_I_39dc77af-4f56-4ac8-a5cc-89184c564a82]: Commencement: Sch. 8 para. 13 in force at 1.10.2021 by [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(h)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/h) (with [art. 7](https://www.legislation.gov.uk/nisr/2021/271/article/7))
 
@@ -1126,13 +1126,13 @@ Section 117
 
 [^M_I_7447ce22-4ee3-4c21-d5fa-92150cf5a85d]: Commencement: Sch. 8 para. 15 in force at 1.10.2021 by [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(4)(a)](https://www.legislation.gov.uk/nisr/2021/271/article/2/4/a)
 
-[^key-416deb4a568f001a52a0c252aa58a9fd]: Commencement: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/16) in force at 1.9.2021 for specified purposes by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2021/240/article/2/2/a)
+[^c-416deb4a568f001a52a0c252aa58a9fd]: Commencement: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/16) in force at 1.9.2021 for specified purposes by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2021/240/article/2/2/a)
 
 [^M_I_f169e0e6-4c3f-4a4f-b558-abba2e8ebe5a]: Commencement: Sch. 8 para. 16 in force at 1.10.2021 for specified purposes by [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(4)(b)](https://www.legislation.gov.uk/nisr/2021/271/article/2/4/b)
 
-[^key-69235777a49cf80acad37cceef48e08a]: Commencement: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/16) in force at 28.7.2022 for specified purposes by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/197/article/2/a)
+[^c-69235777a49cf80acad37cceef48e08a]: Commencement: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/16) in force at 28.7.2022 for specified purposes by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/197/article/2/a)
 
-[^key-401e5aa707a71032f6834393cb3b7ec8]: Commencement: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/16) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(e)](https://www.legislation.gov.uk/nisr/2022/197/article/3/e)
+[^c-401e5aa707a71032f6834393cb3b7ec8]: Commencement: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/16) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(e)](https://www.legislation.gov.uk/nisr/2022/197/article/3/e)
 
 [^M_I_e9d651cc-2cd6-437a-b651-94e6a288572f]: Commencement: Sch. 8 para. 17 in force at 1.10.2021 by [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(4)(c)](https://www.legislation.gov.uk/nisr/2021/271/article/2/4/c)
 
@@ -1144,9 +1144,9 @@ Section 117
 
 [^M_I_52ddac4e-4912-4bf1-a62d-e4bf2ee7e17c]: Commencement: Sch. 8 para. 21 in force at 1.10.2021 for specified purposes by [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(4)(d)](https://www.legislation.gov.uk/nisr/2021/271/article/2/4/d)
 
-[^key-b4d8a83fdafa899e30d9396af1d602fe]: Commencement: [Sch. 8 para. 21](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/21) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(e)](https://www.legislation.gov.uk/nisr/2022/197/article/3/e)
+[^c-b4d8a83fdafa899e30d9396af1d602fe]: Commencement: [Sch. 8 para. 21](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/21) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(e)](https://www.legislation.gov.uk/nisr/2022/197/article/3/e)
 
-[^key-82c74b19a87fc45457bbca7f01876fd1]: Commencement: [Sch. 8 para. 22(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/22/a) in force at 1.9.2021 by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2021/240/article/2/2/c)
+[^c-82c74b19a87fc45457bbca7f01876fd1]: Commencement: [Sch. 8 para. 22(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/22/a) in force at 1.9.2021 by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2021/240/article/2/2/c)
 
 [^M_I_43b5a831-e686-44c2-c678-ead13d344407]: Commencement: Sch. 8 para. 22(b) in force at 1.10.2021 by [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(4)(e)](https://www.legislation.gov.uk/nisr/2021/271/article/2/4/e)
 
@@ -1158,14 +1158,14 @@ Section 117
 
 [^M_I_9bdf8120-450d-4a59-fe98-f38789706f2b]: Commencement: Sch. 8 para. 26(1)(3) in force at 1.10.2021 by [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(4)(f)](https://www.legislation.gov.uk/nisr/2021/271/article/2/4/f)
 
-[^key-39bdb376084ac7d7422c3f761ac1470e]: Commencement: [Sch. 8 para. 26(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/26/2) in force at 1.9.2021 by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2021/240/article/2/2/d)
+[^c-39bdb376084ac7d7422c3f761ac1470e]: Commencement: [Sch. 8 para. 26(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/26/2) in force at 1.9.2021 by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2021/240/article/2/2/d)
 
-[^key-bd01d211d7ce19e90c2961c8485e1fc7]: Commencement: [Sch. 8 para. 27](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/27) in force at 28.7.2022 by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/197/article/2/b)
+[^c-bd01d211d7ce19e90c2961c8485e1fc7]: Commencement: [Sch. 8 para. 27](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/27) in force at 28.7.2022 by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/197/article/2/b)
 
-[^key-088582108ed3604d3bed6b56c834a415]: Commencement: [Sch. 8 para. 28](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/28) in force at 28.7.2022 by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/197/article/2/b)
+[^c-088582108ed3604d3bed6b56c834a415]: Commencement: [Sch. 8 para. 28](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/28) in force at 28.7.2022 by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/197/article/2/b)
 
-[^key-d469f6814201b78f7856d0801053b32b]: Commencement: [Sch. 8 para. 29](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/29) in force at 28.7.2022 by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/197/article/2/b)
+[^c-d469f6814201b78f7856d0801053b32b]: Commencement: [Sch. 8 para. 29](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/29) in force at 28.7.2022 by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/197/article/2/b)
 
-[^key-84695d7be0ce0fc23b91030970a8074b]: Commencement: [Sch. 8 para. 30](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/30) in force at 28.7.2022 by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/197/article/2/b)
+[^c-84695d7be0ce0fc23b91030970a8074b]: Commencement: [Sch. 8 para. 30](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/30) in force at 28.7.2022 by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/197/article/2/b)
 
-[^key-1741a0f4bb19c1fc56702db100da113b]: Commencement: [Sch. 8 para. 31](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/31) in force at 28.7.2022 by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/197/article/2/b)
+[^c-1741a0f4bb19c1fc56702db100da113b]: Commencement: [Sch. 8 para. 31](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/31) in force at 28.7.2022 by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/197/article/2/b)

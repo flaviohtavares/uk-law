@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Appeals procedure[^key-425b063ab38e73fb7eebc8e3d7065b42]
+## 14. Appeals procedure[^c-425b063ab38e73fb7eebc8e3d7065b42]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-425b063ab38e73fb7eebc8e3d7065b42]: Commencement: Reg. 14 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-425b063ab38e73fb7eebc8e3d7065b42]: Commencement: Reg. 14 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

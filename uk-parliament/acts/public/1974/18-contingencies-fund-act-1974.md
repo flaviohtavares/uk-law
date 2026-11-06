@@ -35,7 +35,7 @@ An Act to make new provision with respect to the maximum capital of the Continge
 
 ## 1. Maximum capital of Contingencies Fund.
 
-(1) The capital of the Contingencies Fund, including the permanent capital of £1½ million, shall not at any time exceed an amount equal to 12 per cent[^key-e09b3a29d14103d44d3d70cd61b5daee] of the authorised supply expenditure for the year ending on the previous 31st March; and accordingly the sums issued out of the Consolidated Fund under section 3(1) of the [^c705163]Miscellaneous Financial Provisions Act 1946 (temporary increase of Contingencies Fund) and remaining unrepaid to the Consolidated Fund at any time shall not exceed a sum which, when added to the said permanent capital, equals the limit then imposed by this section.
+(1) The capital of the Contingencies Fund, including the permanent capital of £1½ million, shall not at any time exceed an amount equal to 12 per cent[^c-e09b3a29d14103d44d3d70cd61b5daee] of the authorised supply expenditure for the year ending on the previous 31st March; and accordingly the sums issued out of the Consolidated Fund under section 3(1) of the [^c705163]Miscellaneous Financial Provisions Act 1946 (temporary increase of Contingencies Fund) and remaining unrepaid to the Consolidated Fund at any time shall not exceed a sum which, when added to the said permanent capital, equals the limit then imposed by this section.
 
 (2) In this section “**authorised supply expenditure**” means, in relation to any year ending on 31st March, the total of the sums which Acts passed before the end of that year have authorised the Treasury to issue out of the Consolidated Fund and apply towards making good the supply granted to Her Majesty for the service of that year.
 
@@ -61,7 +61,7 @@ An Act to make new provision with respect to the maximum capital of the Continge
 
 ## Annotations
 
-[^key-e09b3a29d14103d44d3d70cd61b5daee]: Textual amendment: Words in s. 1(1) substituted (temp.) (15.3.2021 with effect in relation to times after 31.3.2021 but before 1.4.2022) by virtue of [Contingencies Fund Act 2021 (c. 9)](https://www.legislation.gov.uk/ukpga/2021/9), [s. 1](https://www.legislation.gov.uk/ukpga/2021/9/section/1)
+[^c-e09b3a29d14103d44d3d70cd61b5daee]: Textual amendment: Words in s. 1(1) substituted (temp.) (15.3.2021 with effect in relation to times after 31.3.2021 but before 1.4.2022) by virtue of [Contingencies Fund Act 2021 (c. 9)](https://www.legislation.gov.uk/ukpga/2021/9), [s. 1](https://www.legislation.gov.uk/ukpga/2021/9/section/1)
 
 [^c705163]: Marginal citation: [1946 c. 40](https://www.legislation.gov.uk/ukpga/1946/40).
 

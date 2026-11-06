@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Promotion of sustainable development[^key-8be427a969ace220c1d7afcd6e5ec3a1]
+## 16. Promotion of sustainable development[^c-8be427a969ace220c1d7afcd6e5ec3a1]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ For section 79 of the Government of Wales Act 2006 (c.32) (sustainable developme
 
 ## Annotations
 
-[^key-8be427a969ace220c1d7afcd6e5ec3a1]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2015/2/section/16) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-8be427a969ace220c1d7afcd6e5ec3a1]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2015/2/section/16) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

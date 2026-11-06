@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Financial sustainability requirement[^key-b1bcca067994570e47b2d51aed9dc4b0]
+## 12. Financial sustainability requirement[^c-b1bcca067994570e47b2d51aed9dc4b0]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1bcca067994570e47b2d51aed9dc4b0]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2022/255/regulation/12) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-b1bcca067994570e47b2d51aed9dc4b0]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2022/255/regulation/12) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)

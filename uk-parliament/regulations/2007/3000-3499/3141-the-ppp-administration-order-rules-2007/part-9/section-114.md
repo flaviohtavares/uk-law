@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Punishment of offences[^key-64a853a2582a16c1953d4bebb84bacb3]
+## 114. Punishment of offences[^c-64a853a2582a16c1953d4bebb84bacb3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Section 431 (summary proceedings) of the 1986 Act, as it applies to England and 
 
 ## Annotations
 
-[^key-64a853a2582a16c1953d4bebb84bacb3]: Commencement: [Rule 114](https://www.legislation.gov.uk/uksi/2007/3141/rule/114) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-64a853a2582a16c1953d4bebb84bacb3]: Commencement: [Rule 114](https://www.legislation.gov.uk/uksi/2007/3141/rule/114) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

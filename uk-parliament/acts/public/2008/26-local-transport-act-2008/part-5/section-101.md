@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Power to amend or repeal enactments[^c1952790][^key-be6c6ec1ada00b1f720f5c94ba99679c]
+## 101. Power to amend or repeal enactments[^c1952790][^c-be6c6ec1ada00b1f720f5c94ba99679c]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c1952790]: Commencement: S. 101 partly in force; s. 101 in force at Royal Assent for certain purposes see s. 134
 
-[^key-be6c6ec1ada00b1f720f5c94ba99679c]: Commencement: S. 101 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-be6c6ec1ada00b1f720f5c94ba99679c]: Commencement: S. 101 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

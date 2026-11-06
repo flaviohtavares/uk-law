@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Registration of external orders[^key-8ea379ebb9bb57f01d3aac883f09a2d3]
+## 69. Registration of external orders[^c-8ea379ebb9bb57f01d3aac883f09a2d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) register the order;
 - (b) provide for notice of the registration to be given to any person affected by it; and
-- (c) appoint a sheriff clerk for the purposes of the receipt of payment under articles 72(2) ,[^key-d00587f72ab7400d1f572522152025ab] 77(6) and 86D(2) .
+- (c) appoint a sheriff clerk for the purposes of the receipt of payment under articles 72(2) ,[^c-d00587f72ab7400d1f572522152025ab] 77(6) and 86D(2) .
 
 (2) Only an external order registered by the court may be implemented under this Chapter.
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ea379ebb9bb57f01d3aac883f09a2d3]: Commencement: [Art. 69](https://www.legislation.gov.uk/uksi/2005/3181/article/69) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-8ea379ebb9bb57f01d3aac883f09a2d3]: Commencement: [Art. 69](https://www.legislation.gov.uk/uksi/2005/3181/article/69) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-d00587f72ab7400d1f572522152025ab]: Textual amendment: Words in [art. 69(1)(c)](https://www.legislation.gov.uk/uksi/2005/3181/article/69/1/c) substituted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [26](https://www.legislation.gov.uk/uksi/2015/1750/article/26)
+[^c-d00587f72ab7400d1f572522152025ab]: Textual amendment: Words in [art. 69(1)(c)](https://www.legislation.gov.uk/uksi/2005/3181/article/69/1/c) substituted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [26](https://www.legislation.gov.uk/uksi/2015/1750/article/26)

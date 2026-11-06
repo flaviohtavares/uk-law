@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Financial provision[^key-7a929fe73e4f76761c885c6f4f2cb66d]
+## 168. Financial provision[^c-7a929fe73e4f76761c885c6f4f2cb66d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a929fe73e4f76761c885c6f4f2cb66d]: Textual amendment: [Reg. 168](https://www.legislation.gov.uk/uksi/2015/182/regulation/168) inserted (18.3.2022) by [The Judicial Pensions Regulations 2022 (S.I. 2022/319)](https://www.legislation.gov.uk/uksi/2022/319), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/2), [Sch. 3 para. 4(13)](https://www.legislation.gov.uk/uksi/2022/319/schedule/3/paragraph/4/13) (with [reg. 120](https://www.legislation.gov.uk/uksi/2022/319/regulation/120))
+[^c-7a929fe73e4f76761c885c6f4f2cb66d]: Textual amendment: [Reg. 168](https://www.legislation.gov.uk/uksi/2015/182/regulation/168) inserted (18.3.2022) by [The Judicial Pensions Regulations 2022 (S.I. 2022/319)](https://www.legislation.gov.uk/uksi/2022/319), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/2), [Sch. 3 para. 4(13)](https://www.legislation.gov.uk/uksi/2022/319/schedule/3/paragraph/4/13) (with [reg. 120](https://www.legislation.gov.uk/uksi/2022/319/regulation/120))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13.6. Grounds for written motion[^key-56cecff9c631ce4306bb23eb70c56ff5]
+## 13.6. Grounds for written motion[^c-56cecff9c631ce4306bb23eb70c56ff5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A motion in writing must specify the grounds on which it is made.
 
 ## Annotations
 
-[^key-56cecff9c631ce4306bb23eb70c56ff5]: Commencement: Para. 13.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-56cecff9c631ce4306bb23eb70c56ff5]: Commencement: Para. 13.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

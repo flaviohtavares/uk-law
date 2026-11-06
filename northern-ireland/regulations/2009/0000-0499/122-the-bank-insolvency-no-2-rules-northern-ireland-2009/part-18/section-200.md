@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 200. Nomination and appointment of shorthand writers[^key-93cf104a1400ff17764a2693a0787b35]
+## 200. Nomination and appointment of shorthand writers[^c-93cf104a1400ff17764a2693a0787b35]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93cf104a1400ff17764a2693a0787b35]: Commencement: Rule 200 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-93cf104a1400ff17764a2693a0787b35]: Commencement: Rule 200 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

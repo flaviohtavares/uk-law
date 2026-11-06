@@ -24,7 +24,7 @@ summary: ''
 
 - (a) bear a unique code;
 - (b) not be signed by the certifying officer where they are blank or incomplete;
-- (c)[^key-a0a8eb693bf19c6706975cc3f8013f95] be in English and one of the official languages of the country of destination and may also be in Welsh;
+- (c)[^c-a0a8eb693bf19c6706975cc3f8013f95] be in English and one of the official languages of the country of destination and may also be in Welsh;
 - (d) be authentic and accurate;
 - (e) allow for the identification of the person who signed them and the date of issue; and
 - (f) allow the easy verification of the links between the certificate, the issuing authority and the consignment, lot or individual animal or good covered by the certificate.
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0a8eb693bf19c6706975cc3f8013f95]: Textual amendment: [Art. 89(1)(c)](https://www.legislation.gov.uk/eur/2017/625/article/89/1/c) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/17/2) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-a0a8eb693bf19c6706975cc3f8013f95]: Textual amendment: [Art. 89(1)(c)](https://www.legislation.gov.uk/eur/2017/625/article/89/1/c) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/17/2) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

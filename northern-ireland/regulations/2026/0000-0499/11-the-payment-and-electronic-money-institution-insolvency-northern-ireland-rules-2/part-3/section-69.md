@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Formalities of establishment[^key-5e5ab3c5573b038e0c66531e9ec0dd2a]
+## 69. Formalities of establishment[^c-5e5ab3c5573b038e0c66531e9ec0dd2a]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e5ab3c5573b038e0c66531e9ec0dd2a]: Commencement: [Rule 69](https://www.legislation.gov.uk/nisr/2026/11/rule/69) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-5e5ab3c5573b038e0c66531e9ec0dd2a]: Commencement: [Rule 69](https://www.legislation.gov.uk/nisr/2026/11/rule/69) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

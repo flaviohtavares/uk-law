@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 179. Payment of appointed representative where access to evidence restricted[^key-61c0b90696873a4cb4077a7118f53f0c][^key-0f10447673ce8fee9f63565ead6f1aa5]
+## 179. Payment of appointed representative where access to evidence restricted[^c-61c0b90696873a4cb4077a7118f53f0c][^c-0f10447673ce8fee9f63565ead6f1aa5]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-61c0b90696873a4cb4077a7118f53f0c]: Commencement: S. 179 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-61c0b90696873a4cb4077a7118f53f0c]: Commencement: S. 179 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-0f10447673ce8fee9f63565ead6f1aa5]: Commencement: [S. 179](https://www.legislation.gov.uk/asc/2023/3/section/179) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-0f10447673ce8fee9f63565ead6f1aa5]: Commencement: [S. 179](https://www.legislation.gov.uk/asc/2023/3/section/179) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

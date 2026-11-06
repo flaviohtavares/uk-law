@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80. Documents in electronic form[^key-e20d1f4505233940afa2e8542c0ab844][^key-661b1f5b995b464eee2768746bcdc617]
+## 80. Documents in electronic form[^c-e20d1f4505233940afa2e8542c0ab844][^c-661b1f5b995b464eee2768746bcdc617]
 
 *Extent: E+W*
 
@@ -62,6 +62,6 @@ but only if it is transmitted or made available in accordance with subsection (3
 
 ## Annotations
 
-[^key-e20d1f4505233940afa2e8542c0ab844]: Commencement: S. 80 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
+[^c-e20d1f4505233940afa2e8542c0ab844]: Commencement: S. 80 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
 
-[^key-661b1f5b995b464eee2768746bcdc617]: Commencement: S. 80 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)
+[^c-661b1f5b995b464eee2768746bcdc617]: Commencement: S. 80 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)

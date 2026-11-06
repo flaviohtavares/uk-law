@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222. Recovery of costs by GEMA and NIAUR[^key-a3e5e37a43cfecdcbdbb3f1a675539df]
+## 222. Recovery of costs by GEMA and NIAUR[^c-a3e5e37a43cfecdcbdbb3f1a675539df]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3e5e37a43cfecdcbdbb3f1a675539df]: Commencement: S. 222 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-a3e5e37a43cfecdcbdbb3f1a675539df]: Commencement: S. 222 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

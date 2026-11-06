@@ -36,7 +36,7 @@ Section 50.
 
 (2) In section 1 (exploration and exploitation of continental shelf), subsection (3) and, in subsection (8), the words from “and “petroleum”” to the end shall be omitted.
 
-(3) In [^key-4c49b65492f74201fd6273149f8208d2]... section 7 (radioactive substances) for “section 23 of the Oil and Gas (Enterprise) Act 1982” there shall be substituted “ section 11 of the Petroleum Act 1998 ”.
+(3) In [^c-4c49b65492f74201fd6273149f8208d2]... section 7 (radioactive substances) for “section 23 of the Oil and Gas (Enterprise) Act 1982” there shall be substituted “ section 11 of the Petroleum Act 1998 ”.
 
 (4) At the end of section 8 (submarine cables and pipe-lines) there shall be added—
 
@@ -60,7 +60,7 @@ Section 50.
 
 ### The Finance Act 1973 (c. 51)
 
-**5.**[^key-fde630c60c6135aee89799fe2f60af20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-fde630c60c6135aee89799fe2f60af20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Offshore Petroleum Development (Scotland) Act 1975 (c. 8)
 
@@ -93,7 +93,7 @@ Section 50.
 
 ### The Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976 (c. 14)
 
-**9.**[^key-7b92706db4ea8f9033ac860e228dc24f][^key-17d31e7e0bdbc390f90ca15e51d944b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7b92706db4ea8f9033ac860e228dc24f][^c-17d31e7e0bdbc390f90ca15e51d944b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Fair Employment (Northern Ireland) Act 1976 (c. 25)
 
@@ -112,7 +112,7 @@ Section 50.
 
 ### The Energy Act 1976 (c. 76)
 
-**12.**[^key-59eda7ddfcd54ecc8b57ed3a2a0a6a49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-59eda7ddfcd54ecc8b57ed3a2a0a6a49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Sex Discrimination (Northern Ireland) Order 1976 (S.I. 1976/1042 (N.I. 15))
 
@@ -157,7 +157,7 @@ for “section 23 of the Oil and Gas (Enterprise) Act 1982” there shall be sub
 
 ### The Telecommunications Act 1984 (c. 12)
 
-**19.**[^key-062c0ad1c41fb9cf40f295c95ce5956c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-062c0ad1c41fb9cf40f295c95ce5956c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Food and Environment Protection Act 1985 (c. 48)
 
@@ -182,7 +182,7 @@ for “section 23 of the Oil and Gas (Enterprise) Act 1982” there shall be sub
 
 ### The Gas Act 1986 (c. 44)
 
-**22.**[^key-f05e0e8320fd39d8344c3fc32d95713f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-f05e0e8320fd39d8344c3fc32d95713f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Petroleum Act 1987 (c. 12)
 
@@ -197,7 +197,7 @@ for “section 23 of the Oil and Gas (Enterprise) Act 1982” there shall be sub
 
 ### The Income and Corporation Taxes Act 1988 (c. 1)
 
-**25.**[^key-e7bf1bc9edab30139ed26bc6dcadda7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-e7bf1bc9edab30139ed26bc6dcadda7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Petroleum Royalties (Relief) and Continental Shelf Act 1989 (c. 1)
 
@@ -386,23 +386,23 @@ for “section 23 of the Oil and Gas (Enterprise) Act 1982” there shall be sub
 
 ## Annotations
 
-[^key-4c49b65492f74201fd6273149f8208d2]: Textual amendment: Words in [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/2/3) repealed (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by S.I. 2003/3142, art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-4c49b65492f74201fd6273149f8208d2]: Textual amendment: Words in [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/2/3) repealed (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by S.I. 2003/3142, art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-fde630c60c6135aee89799fe2f60af20]: Textual amendment: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/5) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-fde630c60c6135aee89799fe2f60af20]: Textual amendment: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/5) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-7b92706db4ea8f9033ac860e228dc24f]: Textual amendment: Sch. 4 para. 9 repealed (S.) (15.6.2017) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(2)](https://www.legislation.gov.uk/asp/2016/2/section/42/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/7); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-7b92706db4ea8f9033ac860e228dc24f]: Textual amendment: Sch. 4 para. 9 repealed (S.) (15.6.2017) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(2)](https://www.legislation.gov.uk/asp/2016/2/section/42/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/7); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-17d31e7e0bdbc390f90ca15e51d944b6]: Textual amendment: Sch. 4 para. 9 repealed (E.W.N.I.) (15.6.2017) by [The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1142)](https://www.legislation.gov.uk/uksi/2016/1142), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/1/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2016/1142/schedule/paragraph/7) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/7/2)); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2)
+[^c-17d31e7e0bdbc390f90ca15e51d944b6]: Textual amendment: Sch. 4 para. 9 repealed (E.W.N.I.) (15.6.2017) by [The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1142)](https://www.legislation.gov.uk/uksi/2016/1142), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/1/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2016/1142/schedule/paragraph/7) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/7/2)); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2)
 
 [^c12434611]: Textual amendment: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/10) repealed (1.3.1999) by [S.I. 1998/3162 (N.I. 21)](https://www.legislation.gov.uk/nisi/1998/3162) art. 105(4), Sch. 5 (with art. 78); [S.R. 1999/81](https://www.legislation.gov.uk/nisr/1999/81), [art. 3(1)](https://www.legislation.gov.uk/nisr/1999/81/article/3/1)
 
-[^key-59eda7ddfcd54ecc8b57ed3a2a0a6a49]: Textual amendment: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/12) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 17(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/17/c)
+[^c-59eda7ddfcd54ecc8b57ed3a2a0a6a49]: Textual amendment: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/12) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 17(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/17/c)
 
-[^key-062c0ad1c41fb9cf40f295c95ce5956c]: Textual amendment: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/19) repealed (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by S.I. 2003/3142, art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-062c0ad1c41fb9cf40f295c95ce5956c]: Textual amendment: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/19) repealed (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by S.I. 2003/3142, art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-f05e0e8320fd39d8344c3fc32d95713f]: Textual amendment: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/22) repealed (1.3.2005) by [The Competition Act 1998 (Transitional, Consequential and Supplemental Provisions) Order 2000 (S.I. 2000/311)](https://www.legislation.gov.uk/uksi/2000/311), [arts. 1](https://www.legislation.gov.uk/uksi/2000/311/article/1), [34](https://www.legislation.gov.uk/uksi/2000/311/article/34)
+[^c-f05e0e8320fd39d8344c3fc32d95713f]: Textual amendment: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/22) repealed (1.3.2005) by [The Competition Act 1998 (Transitional, Consequential and Supplemental Provisions) Order 2000 (S.I. 2000/311)](https://www.legislation.gov.uk/uksi/2000/311), [arts. 1](https://www.legislation.gov.uk/uksi/2000/311/article/1), [34](https://www.legislation.gov.uk/uksi/2000/311/article/34)
 
-[^key-e7bf1bc9edab30139ed26bc6dcadda7f]: Textual amendment: Sch. 4 para. 25 repealed: (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 6](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/6) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22)) and (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e7bf1bc9edab30139ed26bc6dcadda7f]: Textual amendment: Sch. 4 para. 25 repealed: (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 6](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/6) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22)) and (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c12434631]: Textual amendment: [Sch. 4 para. 27](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/27) repealed (22.3.2001 with effect as mentioned in s. 579(1)) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [s. 580](https://www.legislation.gov.uk/ukpga/2001/2/section/580), [Sch. 4](https://www.legislation.gov.uk/ukpga/2001/2/schedule/4)
 

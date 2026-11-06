@@ -33,8 +33,8 @@ The person who acquires the shares is, in that capacity, called “the recipient
 (2) A business is within this subsection so far as—
 
 - (a) the business is carried on by the employing company, and
-- (b) the employing company is within the charge to corporation tax in relation to the profits of the business or would be but for section 18A[^key-b20b8651726813501fdb82b634622384].
+- (b) the employing company is within the charge to corporation tax in relation to the profits of the business or would be but for section 18A[^c-b20b8651726813501fdb82b634622384].
 
 ## Annotations
 
-[^key-b20b8651726813501fdb82b634622384]: Textual amendment: Words in s. 1007(2)(b) inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 9](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/9), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)
+[^c-b20b8651726813501fdb82b634622384]: Textual amendment: Words in s. 1007(2)(b) inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 9](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/9), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.11.16. Notice by respondent that he does not oppose petition[^key-6c548571ef489b218d49464c554c116e]
+## 3.11.16. Notice by respondent that he does not oppose petition[^c-6c548571ef489b218d49464c554c116e]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c548571ef489b218d49464c554c116e]: Commencement: Rule 3.11.16 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-6c548571ef489b218d49464c554c116e]: Commencement: Rule 3.11.16 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

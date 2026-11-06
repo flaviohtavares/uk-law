@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Concession contracts[^key-2ae625aefa31a0c159b096dc588842ce][^key-71789d94413710fb75653edcc2952366]
+## 8. Concession contracts[^c-2ae625aefa31a0c159b096dc588842ce][^c-71789d94413710fb75653edcc2952366]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2ae625aefa31a0c159b096dc588842ce]: Commencement: S. 8 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-2ae625aefa31a0c159b096dc588842ce]: Commencement: S. 8 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-71789d94413710fb75653edcc2952366]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/54/section/8) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-71789d94413710fb75653edcc2952366]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/54/section/8) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

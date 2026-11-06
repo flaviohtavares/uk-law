@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Application of Regulations to enforcement notices issued by the Welsh Ministers[^key-8c77c628e2d78f99dfbcac12394bc497]
+## 52. Application of Regulations to enforcement notices issued by the Welsh Ministers[^c-8c77c628e2d78f99dfbcac12394bc497]
 
 *Extent: E+W*
 
-These Regulations apply to appeals against enforcement notices issued by the Welsh Ministers under section 182 of the Planning Act and to appeals against listed building enforcement notices issued by the Welsh Ministers under section 134 of the 2023 Act[^key-a8c10f07cf34f0b5503b6c247b1d0b4d], subject to the modifications set out in Schedule 3.
+These Regulations apply to appeals against enforcement notices issued by the Welsh Ministers under section 182 of the Planning Act and to appeals against listed building enforcement notices issued by the Welsh Ministers under section 134 of the 2023 Act[^c-a8c10f07cf34f0b5503b6c247b1d0b4d], subject to the modifications set out in Schedule 3.
 
 ## Annotations
 
-[^key-8c77c628e2d78f99dfbcac12394bc497]: Commencement: [Reg. 52](https://www.legislation.gov.uk/wsi/2017/544/regulation/52) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-8c77c628e2d78f99dfbcac12394bc497]: Commencement: [Reg. 52](https://www.legislation.gov.uk/wsi/2017/544/regulation/52) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
 
-[^key-a8c10f07cf34f0b5503b6c247b1d0b4d]: Textual amendment: Words in [reg. 52](https://www.legislation.gov.uk/wsi/2017/544/regulation/52) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [107](https://www.legislation.gov.uk/wsi/2024/924/regulation/107)
+[^c-a8c10f07cf34f0b5503b6c247b1d0b4d]: Textual amendment: Words in [reg. 52](https://www.legislation.gov.uk/wsi/2017/544/regulation/52) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [107](https://www.legislation.gov.uk/wsi/2024/924/regulation/107)

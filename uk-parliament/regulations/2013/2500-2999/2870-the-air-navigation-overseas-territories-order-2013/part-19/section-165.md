@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Dangerous lights[^key-1012c04918a0cd980ef5e7478455b241]
+## 165. Dangerous lights[^c-1012c04918a0cd980ef5e7478455b241]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1012c04918a0cd980ef5e7478455b241]: Commencement: [Art. 165](https://www.legislation.gov.uk/uksi/2013/2870/article/165) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-1012c04918a0cd980ef5e7478455b241]: Commencement: [Art. 165](https://www.legislation.gov.uk/uksi/2013/2870/article/165) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

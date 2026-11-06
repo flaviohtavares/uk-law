@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Imports[^key-1b1ebc82e455454b9fe7890cf9e39e0e]
+## 25. Imports[^c-1b1ebc82e455454b9fe7890cf9e39e0e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b1ebc82e455454b9fe7890cf9e39e0e]: Textual amendment: Regulations revoked (15.8.2005) by [The Animals and Animal Products (Import and Export) (England) Regulations 2005 (S.I. 2005/2002)](https://www.legislation.gov.uk/uksi/2005/2002), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2002/regulation/1), [35](https://www.legislation.gov.uk/uksi/2005/2002/regulation/35) (with [reg. 2](https://www.legislation.gov.uk/uksi/2005/2002/regulation/2))
+[^c-1b1ebc82e455454b9fe7890cf9e39e0e]: Textual amendment: Regulations revoked (15.8.2005) by [The Animals and Animal Products (Import and Export) (England) Regulations 2005 (S.I. 2005/2002)](https://www.legislation.gov.uk/uksi/2005/2002), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2002/regulation/1), [35](https://www.legislation.gov.uk/uksi/2005/2002/regulation/35) (with [reg. 2](https://www.legislation.gov.uk/uksi/2005/2002/regulation/2))

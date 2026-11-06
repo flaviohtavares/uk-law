@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Notice of appeal[^key-324c235056bafcb5243495e1327e6157]
+## 77. Notice of appeal[^c-324c235056bafcb5243495e1327e6157]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-324c235056bafcb5243495e1327e6157]: Commencement: Reg. 77 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-324c235056bafcb5243495e1327e6157]: Commencement: Reg. 77 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

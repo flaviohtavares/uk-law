@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Power to override easements and other rights[^key-73eefbe61dead669241a68bdec4bf6f2]
+## 25. Power to override easements and other rights[^c-73eefbe61dead669241a68bdec4bf6f2]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ the liability is enforceable against the undertaker.
 
 ## Annotations
 
-[^key-73eefbe61dead669241a68bdec4bf6f2]: Commencement: Art. 25 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-73eefbe61dead669241a68bdec4bf6f2]: Commencement: Art. 25 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

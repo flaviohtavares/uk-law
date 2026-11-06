@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 140. Direction for minimum compensation where building deliberately allowed to fall into disrepair[^key-7a6a9ccf5641a7d939777edbd1e4eb2a][^key-6170cdb61165220d5cc0db6ae7a3d628]
+## 140. Direction for minimum compensation where building deliberately allowed to fall into disrepair[^c-7a6a9ccf5641a7d939777edbd1e4eb2a][^c-6170cdb61165220d5cc0db6ae7a3d628]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7a6a9ccf5641a7d939777edbd1e4eb2a]: Commencement: S. 140 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-7a6a9ccf5641a7d939777edbd1e4eb2a]: Commencement: S. 140 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-6170cdb61165220d5cc0db6ae7a3d628]: Commencement: [S. 140](https://www.legislation.gov.uk/asc/2023/3/section/140) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-6170cdb61165220d5cc0db6ae7a3d628]: Commencement: [S. 140](https://www.legislation.gov.uk/asc/2023/3/section/140) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

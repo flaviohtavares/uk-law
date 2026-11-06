@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Amendment of Conveyancing (Scotland) Act 1924 (c. 27)[^key-38393d37abd6df28619d3958c0e9d722]
+## 27. Amendment of Conveyancing (Scotland) Act 1924 (c. 27)[^c-38393d37abd6df28619d3958c0e9d722]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ In section 46 of the Conveyancing (Scotland) Act 1924—
 
 ## Annotations
 
-[^key-38393d37abd6df28619d3958c0e9d722]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2010/1/section/27) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))
+[^c-38393d37abd6df28619d3958c0e9d722]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2010/1/section/27) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))

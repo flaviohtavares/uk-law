@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Disclosure of information[^key-73d811542b7beb55914f9eec25c00ca5]
+## 43. Disclosure of information[^c-73d811542b7beb55914f9eec25c00ca5]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73d811542b7beb55914f9eec25c00ca5]: Commencement: Reg. 43 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-73d811542b7beb55914f9eec25c00ca5]: Commencement: Reg. 43 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

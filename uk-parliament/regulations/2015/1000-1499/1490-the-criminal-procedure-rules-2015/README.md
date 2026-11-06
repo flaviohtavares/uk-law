@@ -34,7 +34,7 @@ Senior Courts Of England And Wales
 
 Magistrates' Courts, England And Wales
 
-The Criminal Procedure Rules 2015 (revoked)[^key-c3278694665fae2038e68de7a743f0de]
+The Criminal Procedure Rules 2015 (revoked)[^c-c3278694665fae2038e68de7a743f0de]
 
 Made
 
@@ -48,539 +48,539 @@ Coming into force
 
 5th October 2015
 
-[^key-c3278694665fae2038e68de7a743f0de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3278694665fae2038e68de7a743f0de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — THE OVERRIDING OBJECTIVE[^key-c3278694665fae2038e68de7a743f0de]
+### PART 1 — THE OVERRIDING OBJECTIVE[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 1 — The overriding objective](part-1/section-1.md)
 
-### PART 2 — UNDERSTANDING AND APPLYING THE RULES[^key-c3278694665fae2038e68de7a743f0de]
+### PART 2 — UNDERSTANDING AND APPLYING THE RULES[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 2 — When the Rules apply](part-2/section-2.md)
 
-### PART 3 — CASE MANAGEMENT[^key-c3278694665fae2038e68de7a743f0de]
+### PART 3 — CASE MANAGEMENT[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### GENERAL RULES[^key-c3278694665fae2038e68de7a743f0de]
+#### GENERAL RULES[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 3 — When this Part applies](part-3/section-3.md)
 
-#### PREPARATION FOR TRIAL IN THE CROWN COURT[^key-c3278694665fae2038e68de7a743f0de]
+#### PREPARATION FOR TRIAL IN THE CROWN COURT[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-### PART 4 — SERVICE OF DOCUMENTS[^key-c3278694665fae2038e68de7a743f0de]
+### PART 4 — SERVICE OF DOCUMENTS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 4 — When this Part applies](part-4/section-4.md)
 
-### PART 5 — FORMS AND COURT RECORDS[^key-c3278694665fae2038e68de7a743f0de]
+### PART 5 — FORMS AND COURT RECORDS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### FORMS[^key-c3278694665fae2038e68de7a743f0de]
+#### FORMS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 5 — Applications, etc. by forms or electronic means](part-5/section-5.md)
 
-#### COURT RECORDS[^key-c3278694665fae2038e68de7a743f0de]
+#### COURT RECORDS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-### PART 6 — REPORTING, ETC. RESTRICTIONS[^key-c3278694665fae2038e68de7a743f0de]
+### PART 6 — REPORTING, ETC. RESTRICTIONS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### GENERAL RULES[^key-c3278694665fae2038e68de7a743f0de]
+#### GENERAL RULES[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 6 — When this Part applies](part-6/section-6.md)
 
-#### REPORTING AND ACCESS RESTRICTIONS[^key-c3278694665fae2038e68de7a743f0de]
+#### REPORTING AND ACCESS RESTRICTIONS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### SOUND RECORDING AND ELECTRONIC COMMUNICATION[^key-c3278694665fae2038e68de7a743f0de]
+#### SOUND RECORDING AND ELECTRONIC COMMUNICATION[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-### PART 7 — STARTING A PROSECUTION IN A MAGISTRATES' COURT[^key-c3278694665fae2038e68de7a743f0de]
+### PART 7 — STARTING A PROSECUTION IN A MAGISTRATES' COURT[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 7 — When this Part applies](part-7/section-7.md)
 
-### PART 8 — INITIAL DETAILS OF THE PROSECUTION CASE[^key-c3278694665fae2038e68de7a743f0de]
+### PART 8 — INITIAL DETAILS OF THE PROSECUTION CASE[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 8 — When this Part applies](part-8/section-8.md)
 
-### PART 9 — ALLOCATION AND SENDING FOR TRIAL[^key-c3278694665fae2038e68de7a743f0de]
+### PART 9 — ALLOCATION AND SENDING FOR TRIAL[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### GENERAL RULES[^key-c3278694665fae2038e68de7a743f0de]
+#### GENERAL RULES[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 9 — When this Part applies](part-9/section-9.md)
 
-#### SENDING WITHOUT ALLOCATION FOR CROWN COURT TRIAL[^key-c3278694665fae2038e68de7a743f0de]
+#### SENDING WITHOUT ALLOCATION FOR CROWN COURT TRIAL[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### ALLOCATION FOR MAGISTRATES' COURT OR CROWN COURT TRIAL[^key-c3278694665fae2038e68de7a743f0de]
+#### ALLOCATION FOR MAGISTRATES' COURT OR CROWN COURT TRIAL[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### CROWN COURT INITIAL PROCEDURE AFTER SENDING FOR TRIAL[^key-c3278694665fae2038e68de7a743f0de]
+#### CROWN COURT INITIAL PROCEDURE AFTER SENDING FOR TRIAL[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-### PART 10 — THE INDICTMENT[^key-c3278694665fae2038e68de7a743f0de]
+### PART 10 — THE INDICTMENT[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 10 — Service of indictment](part-10/section-10.md)
 
-### PART 11 — DEFERRED PROSECUTION AGREEMENTS[^key-c3278694665fae2038e68de7a743f0de]
+### PART 11 — DEFERRED PROSECUTION AGREEMENTS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 11 — When this Part applies](part-11/section-11.md)
 
-### PART 12 — DISCONTINUING A PROSECUTION[^key-c3278694665fae2038e68de7a743f0de]
+### PART 12 — DISCONTINUING A PROSECUTION[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 12 — When this Part applies](part-12/section-12.md)
 
-### PART 13 — WARRANTS FOR ARREST, DETENTION OR IMPRISONMENT[^key-c3278694665fae2038e68de7a743f0de]
+### PART 13 — WARRANTS FOR ARREST, DETENTION OR IMPRISONMENT[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 13 — When this Part applies](part-13/section-13.md)
 
-### PART 14 — BAIL AND CUSTODY TIME LIMITS[^key-c3278694665fae2038e68de7a743f0de]
+### PART 14 — BAIL AND CUSTODY TIME LIMITS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### GENERAL RULES[^key-c3278694665fae2038e68de7a743f0de]
+#### GENERAL RULES[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 14 — When this Part applies](part-14/section-14.md)
 
-#### BAIL[^key-c3278694665fae2038e68de7a743f0de]
+#### BAIL[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### CUSTODY TIME LIMITS[^key-c3278694665fae2038e68de7a743f0de]
+#### CUSTODY TIME LIMITS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-### PART 15 — DISCLOSURE[^key-c3278694665fae2038e68de7a743f0de]
+### PART 15 — DISCLOSURE[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 15 — When this Part applies](part-15/section-15.md)
 
-### PART 16 — WRITTEN WITNESS STATEMENTS[^key-c3278694665fae2038e68de7a743f0de]
+### PART 16 — WRITTEN WITNESS STATEMENTS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 16 — When this Part applies](part-16/section-16.md)
 
-### PART 17 — WITNESS SUMMONSES, WARRANTS AND ORDERS[^key-c3278694665fae2038e68de7a743f0de]
+### PART 17 — WITNESS SUMMONSES, WARRANTS AND ORDERS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 17 — When this Part applies](part-17/section-17.md)
 
-### PART 18 — MEASURES TO ASSIST A WITNESS OR DEFENDANT TO GIVE EVIDENCE[^key-c3278694665fae2038e68de7a743f0de]
+### PART 18 — MEASURES TO ASSIST A WITNESS OR DEFENDANT TO GIVE EVIDENCE[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### GENERAL RULES[^key-c3278694665fae2038e68de7a743f0de]
+#### GENERAL RULES[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 18 — When this Part applies](part-18/section-18.md)
 
-#### SPECIAL MEASURES DIRECTIONS[^key-c3278694665fae2038e68de7a743f0de]
+#### SPECIAL MEASURES DIRECTIONS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### DEFENDANT'S EVIDENCE DIRECTIONS[^key-c3278694665fae2038e68de7a743f0de]
+#### DEFENDANT'S EVIDENCE DIRECTIONS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### WITNESS ANONYMITY ORDERS[^key-c3278694665fae2038e68de7a743f0de]
+#### WITNESS ANONYMITY ORDERS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### LIVE LINK DIRECTIONS[^key-c3278694665fae2038e68de7a743f0de]
+#### LIVE LINK DIRECTIONS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-### PART 19 — EXPERT EVIDENCE[^key-c3278694665fae2038e68de7a743f0de]
+### PART 19 — EXPERT EVIDENCE[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 19 — When this Part applies](part-19/section-19.md)
 
-### PART 20 — HEARSAY EVIDENCE[^key-c3278694665fae2038e68de7a743f0de]
+### PART 20 — HEARSAY EVIDENCE[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 20 — When this Part applies](part-20/section-20.md)
 
-### PART 21 — EVIDENCE OF BAD CHARACTER[^key-c3278694665fae2038e68de7a743f0de]
+### PART 21 — EVIDENCE OF BAD CHARACTER[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 21 — When this Part applies](part-21/section-21.md)
 
-### PART 22 — EVIDENCE OF A COMPLAINANT'S PREVIOUS SEXUAL BEHAVIOUR[^key-c3278694665fae2038e68de7a743f0de]
+### PART 22 — EVIDENCE OF A COMPLAINANT'S PREVIOUS SEXUAL BEHAVIOUR[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 22 — When this Part applies](part-22/section-22.md)
 
-### PART 23 — RESTRICTION ON CROSS-EXAMINATION BY A DEFENDANT[^key-c3278694665fae2038e68de7a743f0de]
+### PART 23 — RESTRICTION ON CROSS-EXAMINATION BY A DEFENDANT[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### GENERAL RULES[^key-c3278694665fae2038e68de7a743f0de]
+#### GENERAL RULES[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 23 — When this Part applies](part-23/section-23.md)
 
-#### APPLICATION TO PROHIBIT CROSS-EXAMINATION[^key-c3278694665fae2038e68de7a743f0de]
+#### APPLICATION TO PROHIBIT CROSS-EXAMINATION[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-### PART 24 — TRIAL AND SENTENCE IN A MAGISTRATES' COURT[^key-c3278694665fae2038e68de7a743f0de]
+### PART 24 — TRIAL AND SENTENCE IN A MAGISTRATES' COURT[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 24 — When this Part applies](part-24/section-24.md)
 
-### PART 25 — TRIAL AND SENTENCE IN THE CROWN COURT[^key-c3278694665fae2038e68de7a743f0de]
+### PART 25 — TRIAL AND SENTENCE IN THE CROWN COURT[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 25 — When this Part applies](part-25/section-25.md)
 
-### PART 26 — JURORS[^key-c3278694665fae2038e68de7a743f0de]
+### PART 26 — JURORS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 26 — Appeal against officer's refusal to excuse or postpone jury service](part-26/section-26.md)
 
-### PART 27 — RETRIAL AFTER ACQUITTAL[^key-c3278694665fae2038e68de7a743f0de]
+### PART 27 — RETRIAL AFTER ACQUITTAL[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### GENERAL[^key-c3278694665fae2038e68de7a743f0de]
+#### GENERAL[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 27 — When this Part applies](part-27/section-27.md)
 
-#### APPLICATION FOR CERTIFICATE TO ALLOW ORDER FOR RETRIAL[^key-c3278694665fae2038e68de7a743f0de]
+#### APPLICATION FOR CERTIFICATE TO ALLOW ORDER FOR RETRIAL[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### APPLICATION TO COURT OF APPEAL TO QUASH ACQUITTAL AND ORDER RETRIAL[^key-c3278694665fae2038e68de7a743f0de]
+#### APPLICATION TO COURT OF APPEAL TO QUASH ACQUITTAL AND ORDER RETRIAL[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-### PART 28 — SENTENCING PROCEDURES IN SPECIAL CASES[^key-c3278694665fae2038e68de7a743f0de]
+### PART 28 — SENTENCING PROCEDURES IN SPECIAL CASES[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 28 — Reasons for not following usual sentencing requirements](part-28/section-28.md)
 
-### PART 29 — ROAD TRAFFIC PENALTIES[^key-c3278694665fae2038e68de7a743f0de]
+### PART 29 — ROAD TRAFFIC PENALTIES[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 29 — Representations about obligatory disqualification or endorsement](part-29/section-29.md)
 
-### PART 30 — ENFORCEMENT OF FINES AND OTHER ORDERS FOR PAYMENT[^key-c3278694665fae2038e68de7a743f0de]
+### PART 30 — ENFORCEMENT OF FINES AND OTHER ORDERS FOR PAYMENT[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 30 — When this Part applies](part-30/section-30.md)
 
-### PART 31 — BEHAVIOUR ORDERS[^key-c3278694665fae2038e68de7a743f0de]
+### PART 31 — BEHAVIOUR ORDERS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 31 — When this Part applies](part-31/section-31.md)
 
-### PART 32 — BREACH, REVOCATION AND AMENDMENT OF COMMUNITY AND OTHER ORDERS[^key-c3278694665fae2038e68de7a743f0de]
+### PART 32 — BREACH, REVOCATION AND AMENDMENT OF COMMUNITY AND OTHER ORDERS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 32 — When this Part applies](part-32/section-32.md)
 
-### PART 33 — CONFISCATION AND RELATED PROCEEDINGS[^key-c3278694665fae2038e68de7a743f0de]
+### PART 33 — CONFISCATION AND RELATED PROCEEDINGS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### GENERAL RULES[^key-c3278694665fae2038e68de7a743f0de]
+#### GENERAL RULES[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 33 — Interpretation](part-33/section-33.md)
 
-#### CONFISCATION PROCEEDINGS[^key-c3278694665fae2038e68de7a743f0de]
+#### CONFISCATION PROCEEDINGS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### SEIZURE AND DETENTION PROCEEDINGS[^key-c3278694665fae2038e68de7a743f0de]
+#### SEIZURE AND DETENTION PROCEEDINGS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### RESTRAINT AND RECEIVERSHIP PROCEEDINGS: RULES THAT APPLY GENERALLY[^key-c3278694665fae2038e68de7a743f0de]
+#### RESTRAINT AND RECEIVERSHIP PROCEEDINGS: RULES THAT APPLY GENERALLY[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### RESTRAINT PROCEEDINGS[^key-c3278694665fae2038e68de7a743f0de]
+#### RESTRAINT PROCEEDINGS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### RECEIVERSHIP PROCEEDINGS[^key-c3278694665fae2038e68de7a743f0de]
+#### RECEIVERSHIP PROCEEDINGS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### PROCEEDINGS UNDER THE CRIMINAL JUSTICE ACT 1988 AND THE DRUG TRAFFICKING ACT 1994[^key-c3278694665fae2038e68de7a743f0de]
+#### PROCEEDINGS UNDER THE CRIMINAL JUSTICE ACT 1988 AND THE DRUG TRAFFICKING ACT 1994[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### CONTEMPT PROCEEDINGS[^key-c3278694665fae2038e68de7a743f0de]
+#### CONTEMPT PROCEEDINGS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-### PART 34 — APPEAL TO THE CROWN COURT[^key-c3278694665fae2038e68de7a743f0de]
+### PART 34 — APPEAL TO THE CROWN COURT[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 34 — When this Part applies](part-34/section-34.md)
 
-### PART 35 — APPEAL TO THE HIGH COURT BY CASE STATED[^key-c3278694665fae2038e68de7a743f0de]
+### PART 35 — APPEAL TO THE HIGH COURT BY CASE STATED[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 35 — When this Part applies](part-35/section-35.md)
 
-### PART 36 — APPEAL TO THE COURT OF APPEAL: GENERAL RULES[^key-c3278694665fae2038e68de7a743f0de]
+### PART 36 — APPEAL TO THE COURT OF APPEAL: GENERAL RULES[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 36 — When this Part applies](part-36/section-36.md)
 
-### PART 37 — APPEAL TO THE COURT OF APPEAL AGAINST RULING AT PREPARATORY HEARING[^key-c3278694665fae2038e68de7a743f0de]
+### PART 37 — APPEAL TO THE COURT OF APPEAL AGAINST RULING AT PREPARATORY HEARING[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 37 — When this Part applies](part-37/section-37.md)
 
-### PART 38 — APPEAL TO THE COURT OF APPEAL AGAINST RULING ADVERSE TO PROSECUTION[^key-c3278694665fae2038e68de7a743f0de]
+### PART 38 — APPEAL TO THE COURT OF APPEAL AGAINST RULING ADVERSE TO PROSECUTION[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 38 — When this Part applies](part-38/section-38.md)
 
-### PART 39 — APPEAL TO THE COURT OF APPEAL ABOUT CONVICTION OR SENTENCE[^key-c3278694665fae2038e68de7a743f0de]
+### PART 39 — APPEAL TO THE COURT OF APPEAL ABOUT CONVICTION OR SENTENCE[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 39 — When this Part applies](part-39/section-39.md)
 
-### PART 40 — APPEAL TO THE COURT OF APPEAL ABOUT REPORTING OR PUBLIC ACCESS RESTRICTION[^key-c3278694665fae2038e68de7a743f0de]
+### PART 40 — APPEAL TO THE COURT OF APPEAL ABOUT REPORTING OR PUBLIC ACCESS RESTRICTION[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 40 — When this Part applies](part-40/section-40.md)
 
-### PART 41 — REFERENCE TO THE COURT OF APPEAL OF POINT OF LAW OR UNDULY LENIENT SENTENCING[^key-c3278694665fae2038e68de7a743f0de]
+### PART 41 — REFERENCE TO THE COURT OF APPEAL OF POINT OF LAW OR UNDULY LENIENT SENTENCING[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 41 — When this Part applies](part-41/section-41.md)
 
-### PART 42 — APPEAL TO THE COURT OF APPEAL IN CONFISCATION AND RELATED PROCEEDINGS[^key-c3278694665fae2038e68de7a743f0de]
+### PART 42 — APPEAL TO THE COURT OF APPEAL IN CONFISCATION AND RELATED PROCEEDINGS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### GENERAL RULES[^key-c3278694665fae2038e68de7a743f0de]
+#### GENERAL RULES[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 42 — Extension of time](part-42/section-42.md)
 
-#### CONFISCATION: APPEAL BY PROSECUTOR OR BY PERSON WITH INTEREST IN PROPERTY[^key-c3278694665fae2038e68de7a743f0de]
+#### CONFISCATION: APPEAL BY PROSECUTOR OR BY PERSON WITH INTEREST IN PROPERTY[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### APPEAL ABOUT COMPLIANCE, RESTRAINT OR RECEIVERSHIP ORDER[^key-c3278694665fae2038e68de7a743f0de]
+#### APPEAL ABOUT COMPLIANCE, RESTRAINT OR RECEIVERSHIP ORDER[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-### PART 43 — APPEAL OR REFERENCE TO THE SUPREME COURT[^key-c3278694665fae2038e68de7a743f0de]
+### PART 43 — APPEAL OR REFERENCE TO THE SUPREME COURT[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 43 — When this Part applies](part-43/section-43.md)
 
-### PART 44 — REQUEST TO THE EUROPEAN COURT FOR A PRELIMINARY RULING[^key-c3278694665fae2038e68de7a743f0de]
+### PART 44 — REQUEST TO THE EUROPEAN COURT FOR A PRELIMINARY RULING[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 44 — When this Part applies](part-44/section-44.md)
 
-### PART 45 — COSTS[^key-c3278694665fae2038e68de7a743f0de]
+### PART 45 — COSTS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### GENERAL RULES[^key-c3278694665fae2038e68de7a743f0de]
+#### GENERAL RULES[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 45 — When this Part applies](part-45/section-45.md)
 
-#### COSTS OUT OF CENTRAL FUNDS[^key-c3278694665fae2038e68de7a743f0de]
+#### COSTS OUT OF CENTRAL FUNDS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### PAYMENT OF COSTS BY ONE PARTY TO ANOTHER[^key-c3278694665fae2038e68de7a743f0de]
+#### PAYMENT OF COSTS BY ONE PARTY TO ANOTHER[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### OTHER COSTS ORDERS[^key-c3278694665fae2038e68de7a743f0de]
+#### OTHER COSTS ORDERS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### ASSESSMENT OF COSTS[^key-c3278694665fae2038e68de7a743f0de]
+#### ASSESSMENT OF COSTS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-### PART 46 — REPRESENTATIVES[^key-c3278694665fae2038e68de7a743f0de]
+### PART 46 — REPRESENTATIVES[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 46 — Functions of representatives and supporters](part-46/section-46.md)
 
-### PART 47 — INVESTIGATION ORDERS AND WARRANTS[^key-c3278694665fae2038e68de7a743f0de]
+### PART 47 — INVESTIGATION ORDERS AND WARRANTS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### SECTION 1: UNDERSTANDING AND APPLYING THIS PART[^key-c3278694665fae2038e68de7a743f0de]
+#### SECTION 1: UNDERSTANDING AND APPLYING THIS PART[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 47 — When this Part applies](part-47/section-47.md)
 
-#### SECTION 2: GENERAL RULES[^key-c3278694665fae2038e68de7a743f0de]
+#### SECTION 2: GENERAL RULES[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### SECTION 3: ORDERS UNDER THE TERRORISM ACT 2000[^key-c3278694665fae2038e68de7a743f0de]
+#### SECTION 3: ORDERS UNDER THE TERRORISM ACT 2000[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### SECTION 4: ORDERS UNDER THE PROCEEDS OF CRIME ACT 2002 ETC.[^key-c3278694665fae2038e68de7a743f0de]
+#### SECTION 4: ORDERS UNDER THE PROCEEDS OF CRIME ACT 2002 ETC.[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### SECTION 5: ORDERS UNDER THE CORONERS AND JUSTICE ACT 2009[^key-c3278694665fae2038e68de7a743f0de]
+#### SECTION 5: ORDERS UNDER THE CORONERS AND JUSTICE ACT 2009[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### SECTION 6: ORDERS UNDER THE REGULATION OF INVESTIGATORY POWERS ACT 2000[^key-c3278694665fae2038e68de7a743f0de]
+#### SECTION 6: ORDERS UNDER THE REGULATION OF INVESTIGATORY POWERS ACT 2000[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### SECTION 7: SEARCH WARRANTS[^key-c3278694665fae2038e68de7a743f0de]
+#### SECTION 7: SEARCH WARRANTS[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### SECTION 8: ORDERS FOR THE RETENTION OF FINGERPRINTS, ETC.[^key-c3278694665fae2038e68de7a743f0de]
+#### SECTION 8: ORDERS FOR THE RETENTION OF FINGERPRINTS, ETC.[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-### PART 48 — CONTEMPT OF COURT[^key-c3278694665fae2038e68de7a743f0de]
+### PART 48 — CONTEMPT OF COURT[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### GENERAL RULES[^key-c3278694665fae2038e68de7a743f0de]
+#### GENERAL RULES[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 48 — When this Part applies](part-48/section-48.md)
 
-#### CONTEMPT OF COURT BY OBSTRUCTION, DISRUPTION, ETC.[^key-c3278694665fae2038e68de7a743f0de]
+#### CONTEMPT OF COURT BY OBSTRUCTION, DISRUPTION, ETC.[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### CONTEMPT OF COURT BY FAILURE TO COMPLY WITH COURT ORDER, ETC.[^key-c3278694665fae2038e68de7a743f0de]
+#### CONTEMPT OF COURT BY FAILURE TO COMPLY WITH COURT ORDER, ETC.[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-### PART 49 — INTERNATIONAL CO-OPERATION[^key-c3278694665fae2038e68de7a743f0de]
+### PART 49 — INTERNATIONAL CO-OPERATION[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 49 — Notice required to accompany process served outside the United Kingdom and translations](part-49/section-49.md)
 
-### PART 50 — EXTRADITION[^key-c3278694665fae2038e68de7a743f0de]
+### PART 50 — EXTRADITION[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### SECTION 1: GENERAL RULES[^key-c3278694665fae2038e68de7a743f0de]
+#### SECTION 1: GENERAL RULES[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
 - [Section 50 — When this Part applies](part-50/section-50.md)
 
-#### SECTION 2: EXTRADITION PROCEEDINGS IN A MAGISTRATES' COURT[^key-c3278694665fae2038e68de7a743f0de]
+#### SECTION 2: EXTRADITION PROCEEDINGS IN A MAGISTRATES' COURT[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### EXTRADITION UNDER PART 1 OF THE EXTRADITION ACT 2003[^key-c3278694665fae2038e68de7a743f0de]
+#### EXTRADITION UNDER PART 1 OF THE EXTRADITION ACT 2003[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### EXTRADITION UNDER PART 2 OF THE EXTRADITION ACT 2003[^key-c3278694665fae2038e68de7a743f0de]
+#### EXTRADITION UNDER PART 2 OF THE EXTRADITION ACT 2003[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### EVIDENCE AT EXTRADITION HEARING[^key-c3278694665fae2038e68de7a743f0de]
+#### EVIDENCE AT EXTRADITION HEARING[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### DISCHARGE AFTER FAILURE TO COMPLY WITH A TIME LIMIT[^key-c3278694665fae2038e68de7a743f0de]
+#### DISCHARGE AFTER FAILURE TO COMPLY WITH A TIME LIMIT[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
-#### SECTION 3: APPEAL TO THE HIGH COURT[^key-c3278694665fae2038e68de7a743f0de]
+#### SECTION 3: APPEAL TO THE HIGH COURT[^c-c3278694665fae2038e68de7a743f0de]
 
 **No longer in force.**
 
@@ -620,11 +620,11 @@ Coming into force
 
 *\[Note. See also*—
 
-- (a)[^key-c3278694665fae2038e68de7a743f0de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-c3278694665fae2038e68de7a743f0de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-c3278694665fae2038e68de7a743f0de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-c3278694665fae2038e68de7a743f0de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-c3278694665fae2038e68de7a743f0de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c3278694665fae2038e68de7a743f0de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c3278694665fae2038e68de7a743f0de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-c3278694665fae2038e68de7a743f0de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-c3278694665fae2038e68de7a743f0de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-c3278694665fae2038e68de7a743f0de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
@@ -704,8 +704,8 @@ Coming into force
 
 *\[Note. Under Part 1 of the Extradition Act 2003—*
 
-- (a)[^key-c3278694665fae2038e68de7a743f0de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-c3278694665fae2038e68de7a743f0de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c3278694665fae2038e68de7a743f0de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c3278694665fae2038e68de7a743f0de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(see sections 26 and 28 of the Act**).*
 
@@ -715,9 +715,9 @@ Coming into force
 
 *Under Part 2 of the 2003 Act—*
 
-- (a)[^key-c3278694665fae2038e68de7a743f0de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-c3278694665fae2038e68de7a743f0de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-c3278694665fae2038e68de7a743f0de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c3278694665fae2038e68de7a743f0de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c3278694665fae2038e68de7a743f0de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-c3278694665fae2038e68de7a743f0de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(see sections 103, 105, 108 and 110 of the Act**).*
 
@@ -727,7 +727,7 @@ Coming into force
 
 *In each case the appellant needs the High Court's permission to appeal (in the 2003 Act, described as ‘leave to appeal’).\]*
 
-## Glossary[^key-c3278694665fae2038e68de7a743f0de]
+## Glossary[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -739,14 +739,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-c3278694665fae2038e68de7a743f0de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3278694665fae2038e68de7a743f0de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-[^key-c3278694665fae2038e68de7a743f0de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3278694665fae2038e68de7a743f0de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c3278694665fae2038e68de7a743f0de]: Textual amendment: Rules revoked (5.10.2020) by [The Criminal Procedure Rules 2020 (S.I. 2020/759)](https://www.legislation.gov.uk/uksi/2020/759), [preamble](https://www.legislation.gov.uk/uksi/2020/759/introduction)
+[^c-c3278694665fae2038e68de7a743f0de]: Textual amendment: Rules revoked (5.10.2020) by [The Criminal Procedure Rules 2020 (S.I. 2020/759)](https://www.legislation.gov.uk/uksi/2020/759), [preamble](https://www.legislation.gov.uk/uksi/2020/759/introduction)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

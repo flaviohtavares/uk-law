@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69O. The notification condition[^key-228ceee17a63954421c7bcbab46e5182]
+## 69O. The notification condition[^c-228ceee17a63954421c7bcbab46e5182]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 (5) If notice is given under paragraph (2)(b), the terms of the proposed company’s instrument of incorporation must be such that the proposed company, on its incorporation, will be required to meet—
 
 - (a) the property investment business condition (see regulation 69E), and
-- (b) the genuine diversity of ownership condition (see regulation 9A[^key-396f1612d9717cb85e28264631c009d7]).
+- (b) the genuine diversity of ownership condition (see regulation 9A[^c-396f1612d9717cb85e28264631c009d7]).
 
 (6) In this Part—
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)
+[^c-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)
 
-[^key-396f1612d9717cb85e28264631c009d7]: Textual amendment: Word in [reg. 69O(5)(b)](https://www.legislation.gov.uk/uksi/2006/964/regulation/69O/5/b) substituted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [18](https://www.legislation.gov.uk/uksi/2009/2036/regulation/18)
+[^c-396f1612d9717cb85e28264631c009d7]: Textual amendment: Word in [reg. 69O(5)(b)](https://www.legislation.gov.uk/uksi/2006/964/regulation/69O/5/b) substituted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [18](https://www.legislation.gov.uk/uksi/2009/2036/regulation/18)

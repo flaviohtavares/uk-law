@@ -44,13 +44,13 @@ Coming into force
 
 1st June 2015
 
-[^key-415f675a2ad9216dbe331498e07c94ed][^key-7111364f52b7f6ee82839c7ab772932e]The Scottish Ministers make the following Rules in exercise of the powers conferred by section 9 of the Tribunals and Inquiries Act 1992[^f00001] and all other powers enabling them to do so.
+[^c-415f675a2ad9216dbe331498e07c94ed][^c-7111364f52b7f6ee82839c7ab772932e]The Scottish Ministers make the following Rules in exercise of the powers conferred by section 9 of the Tribunals and Inquiries Act 1992[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-bca1e451c47db9272fc6ad56ee36135b]
+## 1. Citation and commencement[^c-bca1e451c47db9272fc6ad56ee36135b]
 
 These Rules may be cited as the Town and Country Planning (Hazardous Substances Inquiry Session Procedure) (Scotland) Rules 2015 and come into force on 1st June 2015.
 
-## 2. Application of Rules[^key-5397931e43608282790eefb5ed87d917]
+## 2. Application of Rules[^c-5397931e43608282790eefb5ed87d917]
 
 (1) Subject to paragraph (2), these Rules apply to a local inquiry to be held for the purpose of—
 
@@ -67,7 +67,7 @@ where notice of appeal is given to the Scottish Ministers on or after 1st June 2
 - (a) a security direction has been given in relation to an application or appeal; or
 - (b) a request for a security direction has been made to the Scottish Ministers or the Secretary of State but no determination as to whether or not to give a direction has been made.
 
-## 3. Interpretation[^key-efb5ef043b615d8655a051add7dca7fb]
+## 3. Interpretation[^c-efb5ef043b615d8655a051add7dca7fb]
 
 In these Rules—
 
@@ -96,9 +96,9 @@ In these Rules—
 - “security direction” means a direction by the Scottish Ministers, or the Secretary of State, under or by virtue of section 265A(3) of the Act (as applied by section 36(1) of the Hazardous Substances Act); and
 - “specified matters” are in relation to a particular inquiry session, those matters which are set out in the procedure notice.
 
-## 4. Notice of inquiry session and specified matters[^key-61483f7145707f6493ca8f6409ec9629]
+## 4. Notice of inquiry session and specified matters[^c-61483f7145707f6493ca8f6409ec9629]
 
-(1) Where an inquiry session is to be held the appointed person is to give written notice to that effect [^key-e937323965cf1f5c2003393b5af1302f]... to—
+(1) Where an inquiry session is to be held the appointed person is to give written notice to that effect [^c-e937323965cf1f5c2003393b5af1302f]... to—
 
 - (a) the appellant;
 - (b) the planning authority;
@@ -111,7 +111,7 @@ In these Rules—
 
 (4) A person given notice under paragraph (1) and who intends to appear at the inquiry session must within 14 days of the date of such notice inform the appointed person in writing of that intention.
 
-## 5. Appearances at inquiry session[^key-579c9500e24fdb80183178a9d0610d06]
+## 5. Appearances at inquiry session[^c-579c9500e24fdb80183178a9d0610d06]
 
 The persons entitled to appear at the inquiry session are—
 
@@ -119,7 +119,7 @@ The persons entitled to appear at the inquiry session are—
 - (b) the planning authority; and
 - (c) any other person who, in response to a procedure notice, has informed the appointed person of their intention to appear at the inquiry session in accordance with rule 4(4).
 
-## 6. Date and notification of inquiry[^key-693627b920b24938ed62ef189c5c5a65]
+## 6. Date and notification of inquiry[^c-693627b920b24938ed62ef189c5c5a65]
 
 (1) The date, time and place for the holding of the inquiry session is to be fixed (and may subsequently be varied) by the appointed person.
 
@@ -134,7 +134,7 @@ The persons entitled to appear at the inquiry session are—
   such notices of the inquiry session as the appointed person may direct; or
 - (b) to serve notice of the inquiry session in such form and on such persons or classes of persons as the appointed person may specify.
 
-## 7. Service of inquiry statements, documents and precognitions[^key-a86259b27b005b5f38b6b72de2cac5de]
+## 7. Service of inquiry statements, documents and precognitions[^c-a86259b27b005b5f38b6b72de2cac5de]
 
 (1) Where required to do so by notice given by the appointed person, a person entitled to appear at the inquiry session must, by such date as is specified in the notice, send to—
 
@@ -160,7 +160,7 @@ The persons entitled to appear at the inquiry session are—
   - (c) a list of witnesses specifying the persons who are to give, or be called to give, evidence at the inquiry session, the matters in respect of which such persons are to give evidence and the relevant qualifications of such persons to do so; and
 - “precognition” means a written statement of the evidence which it is proposed that a witness will give to the inquiry session.
 
-## 8. Procedure at inquiry session[^key-22d99202ebfcff571069ac9cc5fc8192]
+## 8. Procedure at inquiry session[^c-22d99202ebfcff571069ac9cc5fc8192]
 
 (1) Except as otherwise provided in these Rules, the procedure at the inquiry session is to be as the appointed person determines.
 
@@ -187,13 +187,13 @@ which the appointed person considers to be irrelevant or repetitious.
 
 (8) The appointed person may from time to time adjourn the inquiry session and, if the date, time and place of the adjourned inquiry session are announced before the adjournment, no further notice is required, otherwise rule 6 applies as it applies to the variation of the date, time or place at which an inquiry session is to be held.
 
-## 9. Appointment of assessor[^key-38a742de6c0baed1de1a16ad558c753e]
+## 9. Appointment of assessor[^c-38a742de6c0baed1de1a16ad558c753e]
 
 (1) The Scottish Ministers may appoint a person to sit with the appointed person at an inquiry session to advise the appointed person on such matters arising as the Scottish Ministers may specify (“an assessor”) and where they do so they are to notify every person entitled to appear at the inquiry session of the name of the assessor and of the matters on which the assessor is to advise the appointed person.
 
 (2) Where an assessor has been appointed, the assessor may (and if so required by the appointed person, must), after the close of the inquiry session, make a report in writing to the appointed person in respect of the matters on which the assessor was appointed to advise.
 
-## 10. Called-in applications[^key-de94cd3151f85145330b687e5056b9cf]
+## 10. Called-in applications[^c-de94cd3151f85145330b687e5056b9cf]
 
 (1) These Rules apply to an application referred to the Scottish Ministers following a direction under section 18(1) of the Hazardous Substances Act (reference of applications to Scottish Ministers) with the modifications specified in paragraph (2).
 
@@ -202,7 +202,7 @@ which the appointed person considers to be irrelevant or repetitious.
 - (a) the reference in rule 7(2) to the appeal is to be treated as a reference to the application; and
 - (b) references to the appellant are to be treated as references to the applicant.
 
-## 11. Amendment of the Town and Country Planning (Inquiries Procedure) (Scotland) Rules 1997[^key-474fddc058131b5bc320677b6fdf982b]
+## 11. Amendment of the Town and Country Planning (Inquiries Procedure) (Scotland) Rules 1997[^c-474fddc058131b5bc320677b6fdf982b]
 
 (1) The Town and Country Planning (Inquiries Procedure) (Scotland) Rules 1997[^f00005] are amended in accordance with paragraph (2).
 
@@ -220,7 +220,7 @@ which the appointed person considers to be irrelevant or repetitious.
 
   .
 
-## 12. Amendment of the Town and Country Planning Appeals (Determination by Appointed Person) (Inquiries Procedure) (Scotland) Rules 1997[^key-4fee15e9cb0beef60d8a7c1340018f49]
+## 12. Amendment of the Town and Country Planning Appeals (Determination by Appointed Person) (Inquiries Procedure) (Scotland) Rules 1997[^c-4fee15e9cb0beef60d8a7c1340018f49]
 
 (1) — The Town and Country Planning Appeals (Determination by Appointed Person) (Inquiries Procedure) (Scotland) Rules 1997[^f00006] are amended in accordance with paragraph (2).
 
@@ -251,47 +251,47 @@ Edinburgh
 
 Rule 2(2)
 
-### 1. Modification of rules where security direction given[^key-149907deda55b26e65f22840f0c3bee7]
+### 1. Modification of rules where security direction given[^c-149907deda55b26e65f22840f0c3bee7]
 
 Where a security direction has been given or a request for a security direction has been made in relation to an inquiry session these Rules apply in accordance with paragraphs 2 to 10.
 
-**2.**[^key-c58ea61a44be142d02ecb87998df679f] Where the appointed person is notified that a security direction has been given—
+**2.**[^c-c58ea61a44be142d02ecb87998df679f] Where the appointed person is notified that a security direction has been given—
 
 - (a) before the appointed person gives notice that an inquiry session is to be held under rule 4(1), the appointed person must include in that notice a statement that a security direction has been given; and
 - (b) after giving that notice, the appointed person must as soon as practicable after being notified of the making of the direction, give notice of the making of the security direction to any person known at that date to be entitled to appear at the inquiry session.
 
-**3.**[^key-282cb6e34e8e798a1a35fbad4189eb13] While closed evidence is being considered at an inquiry session the persons entitled to appear at the inquiry session are restricted[^key-8924c044288b1dc3e2a67f769d2a20aa] to—
+**3.**[^c-282cb6e34e8e798a1a35fbad4189eb13] While closed evidence is being considered at an inquiry session the persons entitled to appear at the inquiry session are restricted[^c-8924c044288b1dc3e2a67f769d2a20aa] to—
 
 - (a) specified persons; and
 - (b) any appointed representative.
 
-**4.**[^key-57e954079694ee08c7674bc4377fb9e9] Where any rule requires or permits a document (or other materials or evidence) to be sent to any person that provision is to be read as requiring or permitting—
+**4.**[^c-57e954079694ee08c7674bc4377fb9e9] Where any rule requires or permits a document (or other materials or evidence) to be sent to any person that provision is to be read as requiring or permitting—
 
 - (a) the sending of such documents (or other materials or evidence) which contain or make reference to any closed evidence to specified persons or any appointed representative; and
 - (b) the sending of such documents (or other materials or evidence) to any other person only to the extent that they do not contain or make reference to any closed evidence.
 
-**5.**[^key-651e0950889988d6ff631d2f62d144e4] Where any rule requires or permits an inquiry statement (including any amended or additional inquiry statement) to be sent to any person that rule is to be read as requiring, or permitting—
+**5.**[^c-651e0950889988d6ff631d2f62d144e4] Where any rule requires or permits an inquiry statement (including any amended or additional inquiry statement) to be sent to any person that rule is to be read as requiring, or permitting—
 
 - (a) a closed inquiry statement to be sent to specified persons and any appointed representative; and
 - (b) an open inquiry statement to be sent to any other person.
 
-**6.**[^key-8e134248f948837658d6f7692153007a] Where any rule requires or permits a precognition (including any amended or additional precognition) to be sent to any person that rule is to be read as requiring or permitting—
+**6.**[^c-8e134248f948837658d6f7692153007a] Where any rule requires or permits a precognition (including any amended or additional precognition) to be sent to any person that rule is to be read as requiring or permitting—
 
 - (a) a closed precognition to be sent to specified persons and any appointed representative; and
 - (b) an open precognition to any other person.
 
-**7.**[^key-7538342c84ed0ed354686a3482e89d69] Where closed evidence was considered at an inquiry session the assessor, where one has been appointed, if making a report in accordance with rule 9(2) is to set out in a separate part (“the closed part”) of the report any matters which relate to that evidence.
+**7.**[^c-7538342c84ed0ed354686a3482e89d69] Where closed evidence was considered at an inquiry session the assessor, where one has been appointed, if making a report in accordance with rule 9(2) is to set out in a separate part (“the closed part”) of the report any matters which relate to that evidence.
 
-**8.**[^key-32028015907fc42780ac7b4d56b62f1e] Where the appointed person’s reasons for a decision relate to matters in respect of which closed evidence has been given, nothing in these Rules requires notification of those reasons to any person other than a specified person and any appointed representative.
+**8.**[^c-32028015907fc42780ac7b4d56b62f1e] Where the appointed person’s reasons for a decision relate to matters in respect of which closed evidence has been given, nothing in these Rules requires notification of those reasons to any person other than a specified person and any appointed representative.
 
-**9.**[^key-b3635eeb2c86e1dff03b49d7c9e7cda2] Closed evidence must not be published and nothing in these Rules is to be taken to require or permit closed evidence to be disclosed to a person other than—
+**9.**[^c-b3635eeb2c86e1dff03b49d7c9e7cda2] Closed evidence must not be published and nothing in these Rules is to be taken to require or permit closed evidence to be disclosed to a person other than—
 
 - (a) a specified person; and
 - (b) any appointed representative.
 
-**10.**[^key-250d455c4f8ab4b0c169386c42eba1e6] (1) In this Schedule—
+**10.**[^c-250d455c4f8ab4b0c169386c42eba1e6] (1) In this Schedule—
 
-- “appointed representative” means a person (who is also a specified person) appointed[^key-e8c4421fa1f97cc275587d7be2fe630d] to represent the interests of any party to the inquiry, under or by virtue of section 265A(5) of the Act (planning inquiries to be held in public subject to certain exceptions);
+- “appointed representative” means a person (who is also a specified person) appointed[^c-e8c4421fa1f97cc275587d7be2fe630d] to represent the interests of any party to the inquiry, under or by virtue of section 265A(5) of the Act (planning inquiries to be held in public subject to certain exceptions);
 - “closed evidence” means evidence which is subject to a security direction;
 - “closed inquiry statement” means such part (if any) of an inquiry statement as includes or refers to closed evidence;
 - “closed precognition” means such part (if any) of a precognition as includes or refers to closed evidence;
@@ -319,17 +319,17 @@ Rule 10 modifies the application of the Rules as they apply to called-in applica
 
 ## Annotations
 
-[^key-415f675a2ad9216dbe331498e07c94ed]: Modification: Rules applied (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [regs. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [24(6)](https://www.legislation.gov.uk/ssi/2015/181/regulation/24/6), [30(4)](https://www.legislation.gov.uk/ssi/2015/181/regulation/30/4) (with [reg. 66](https://www.legislation.gov.uk/ssi/2015/181/regulation/66))
+[^c-415f675a2ad9216dbe331498e07c94ed]: Modification: Rules applied (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [regs. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [24(6)](https://www.legislation.gov.uk/ssi/2015/181/regulation/24/6), [30(4)](https://www.legislation.gov.uk/ssi/2015/181/regulation/30/4) (with [reg. 66](https://www.legislation.gov.uk/ssi/2015/181/regulation/66))
 
-[^key-7111364f52b7f6ee82839c7ab772932e]: Modification: Rules modified (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [regs. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [29(3)](https://www.legislation.gov.uk/ssi/2015/181/regulation/29/3) (with [reg. 66](https://www.legislation.gov.uk/ssi/2015/181/regulation/66))
+[^c-7111364f52b7f6ee82839c7ab772932e]: Modification: Rules modified (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [regs. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [29(3)](https://www.legislation.gov.uk/ssi/2015/181/regulation/29/3) (with [reg. 66](https://www.legislation.gov.uk/ssi/2015/181/regulation/66))
 
 [^f00001]: Footnote: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53). Section 9 was relevantly amended by [S.I. 2013/2042](https://www.legislation.gov.uk/uksi/2013/2042). The functions of the Lord Advocate were transferred to the Secretary of State by [S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678). The functions of the Secretary of State, in or as regards Scotland, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-bca1e451c47db9272fc6ad56ee36135b]: Commencement: [Rule 1](https://www.legislation.gov.uk/ssi/2015/182/article/1) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-bca1e451c47db9272fc6ad56ee36135b]: Commencement: [Rule 1](https://www.legislation.gov.uk/ssi/2015/182/article/1) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
-[^key-5397931e43608282790eefb5ed87d917]: Commencement: [Rule 2](https://www.legislation.gov.uk/ssi/2015/182/rule/2) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-5397931e43608282790eefb5ed87d917]: Commencement: [Rule 2](https://www.legislation.gov.uk/ssi/2015/182/rule/2) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
-[^key-efb5ef043b615d8655a051add7dca7fb]: Commencement: [Rule 3](https://www.legislation.gov.uk/ssi/2015/182/rule/3) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-efb5ef043b615d8655a051add7dca7fb]: Commencement: [Rule 3](https://www.legislation.gov.uk/ssi/2015/182/rule/3) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
 [^f00002]: Footnote: [S.S.I. 2015/181](https://www.legislation.gov.uk/ssi/2015/181)
 
@@ -337,50 +337,50 @@ Rule 10 modifies the application of the Rules as they apply to called-in applica
 
 [^f00004]: Footnote: [1997 c.10](https://www.legislation.gov.uk/ukpga/1997/10).
 
-[^key-61483f7145707f6493ca8f6409ec9629]: Commencement: [Rule 4](https://www.legislation.gov.uk/ssi/2015/182/rule/4) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-61483f7145707f6493ca8f6409ec9629]: Commencement: [Rule 4](https://www.legislation.gov.uk/ssi/2015/182/rule/4) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
-[^key-e937323965cf1f5c2003393b5af1302f]: Textual amendment: Words in [rule 4(1)](https://www.legislation.gov.uk/ssi/2015/182/rule/4/1) omitted (14.9.2015) by virtue of [The Town and Country Planning (Hazardous Substances Inquiry Session Procedure) (Scotland) Amendment Rules 2015 (S.S.I. 2015/250)](https://www.legislation.gov.uk/ssi/2015/250), [reg. 1](https://www.legislation.gov.uk/ssi/2015/250/regulation/1), [rule 2(2)](https://www.legislation.gov.uk/ssi/2015/250/rule/2/2)
+[^c-e937323965cf1f5c2003393b5af1302f]: Textual amendment: Words in [rule 4(1)](https://www.legislation.gov.uk/ssi/2015/182/rule/4/1) omitted (14.9.2015) by virtue of [The Town and Country Planning (Hazardous Substances Inquiry Session Procedure) (Scotland) Amendment Rules 2015 (S.S.I. 2015/250)](https://www.legislation.gov.uk/ssi/2015/250), [reg. 1](https://www.legislation.gov.uk/ssi/2015/250/regulation/1), [rule 2(2)](https://www.legislation.gov.uk/ssi/2015/250/rule/2/2)
 
-[^key-579c9500e24fdb80183178a9d0610d06]: Commencement: [Rule 5](https://www.legislation.gov.uk/ssi/2015/182/rule/5) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-579c9500e24fdb80183178a9d0610d06]: Commencement: [Rule 5](https://www.legislation.gov.uk/ssi/2015/182/rule/5) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
-[^key-693627b920b24938ed62ef189c5c5a65]: Commencement: [Rule 6](https://www.legislation.gov.uk/ssi/2015/182/rule/6) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-693627b920b24938ed62ef189c5c5a65]: Commencement: [Rule 6](https://www.legislation.gov.uk/ssi/2015/182/rule/6) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
-[^key-a86259b27b005b5f38b6b72de2cac5de]: Commencement: [Rule. 7](https://www.legislation.gov.uk/ssi/2015/182/rule/7) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-a86259b27b005b5f38b6b72de2cac5de]: Commencement: [Rule. 7](https://www.legislation.gov.uk/ssi/2015/182/rule/7) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
-[^key-22d99202ebfcff571069ac9cc5fc8192]: Commencement: [Rule 8](https://www.legislation.gov.uk/ssi/2015/182/rule/8) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-22d99202ebfcff571069ac9cc5fc8192]: Commencement: [Rule 8](https://www.legislation.gov.uk/ssi/2015/182/rule/8) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
-[^key-38a742de6c0baed1de1a16ad558c753e]: Commencement: [Rule 9](https://www.legislation.gov.uk/ssi/2015/182/rule/9) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-38a742de6c0baed1de1a16ad558c753e]: Commencement: [Rule 9](https://www.legislation.gov.uk/ssi/2015/182/rule/9) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
-[^key-de94cd3151f85145330b687e5056b9cf]: Commencement: [Rule 10](https://www.legislation.gov.uk/ssi/2015/182/rule/10) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-de94cd3151f85145330b687e5056b9cf]: Commencement: [Rule 10](https://www.legislation.gov.uk/ssi/2015/182/rule/10) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
-[^key-474fddc058131b5bc320677b6fdf982b]: Commencement: [Rule 11](https://www.legislation.gov.uk/ssi/2015/182/rule/11) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-474fddc058131b5bc320677b6fdf982b]: Commencement: [Rule 11](https://www.legislation.gov.uk/ssi/2015/182/rule/11) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
 [^f00005]: Footnote: [S.I. 1997/796](https://www.legislation.gov.uk/uksi/1997/796) as amended by [S.I. 1998/2311](https://www.legislation.gov.uk/uksi/1998/2311), [S.S.I 2004/332](https://www.legislation.gov.uk/ssi/2004/332), [2009/212](https://www.legislation.gov.uk/ssi/2009/212) and [2011/379](https://www.legislation.gov.uk/ssi/2011/379).
 
-[^key-4fee15e9cb0beef60d8a7c1340018f49]: Commencement: [Rule 12](https://www.legislation.gov.uk/ssi/2015/182/rule/12) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-4fee15e9cb0beef60d8a7c1340018f49]: Commencement: [Rule 12](https://www.legislation.gov.uk/ssi/2015/182/rule/12) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
 [^f00006]: Footnote: [S.I. 1997/750](https://www.legislation.gov.uk/uksi/1997/750) as amended by [S.I. 1998/2312](https://www.legislation.gov.uk/uksi/1998/2312), [S.S.I 2004/332](https://www.legislation.gov.uk/ssi/2004/332), [2009/212](https://www.legislation.gov.uk/ssi/2009/212) and [2011/379](https://www.legislation.gov.uk/ssi/2011/379).
 
-[^key-149907deda55b26e65f22840f0c3bee7]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/1) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-149907deda55b26e65f22840f0c3bee7]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/1) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
-[^key-c58ea61a44be142d02ecb87998df679f]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/2) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-c58ea61a44be142d02ecb87998df679f]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/2) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
-[^key-282cb6e34e8e798a1a35fbad4189eb13]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/3) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-282cb6e34e8e798a1a35fbad4189eb13]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/3) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
-[^key-8924c044288b1dc3e2a67f769d2a20aa]: Textual amendment: Words in [sch. para. 3](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/3) substituted (14.9.2015) by [The Town and Country Planning (Hazardous Substances Inquiry Session Procedure) (Scotland) Amendment Rules 2015 (S.S.I. 2015/250)](https://www.legislation.gov.uk/ssi/2015/250), [reg. 1](https://www.legislation.gov.uk/ssi/2015/250/regulation/1), [rule 2(3)(a)](https://www.legislation.gov.uk/ssi/2015/250/rule/2/3/a)
+[^c-8924c044288b1dc3e2a67f769d2a20aa]: Textual amendment: Words in [sch. para. 3](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/3) substituted (14.9.2015) by [The Town and Country Planning (Hazardous Substances Inquiry Session Procedure) (Scotland) Amendment Rules 2015 (S.S.I. 2015/250)](https://www.legislation.gov.uk/ssi/2015/250), [reg. 1](https://www.legislation.gov.uk/ssi/2015/250/regulation/1), [rule 2(3)(a)](https://www.legislation.gov.uk/ssi/2015/250/rule/2/3/a)
 
-[^key-57e954079694ee08c7674bc4377fb9e9]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/4) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-57e954079694ee08c7674bc4377fb9e9]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/4) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
-[^key-651e0950889988d6ff631d2f62d144e4]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/5) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-651e0950889988d6ff631d2f62d144e4]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/5) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
-[^key-8e134248f948837658d6f7692153007a]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/6) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-8e134248f948837658d6f7692153007a]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/6) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
-[^key-7538342c84ed0ed354686a3482e89d69]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/7) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-7538342c84ed0ed354686a3482e89d69]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/7) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
-[^key-32028015907fc42780ac7b4d56b62f1e]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/8) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-32028015907fc42780ac7b4d56b62f1e]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/8) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
-[^key-b3635eeb2c86e1dff03b49d7c9e7cda2]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/9) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-b3635eeb2c86e1dff03b49d7c9e7cda2]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/9) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
-[^key-250d455c4f8ab4b0c169386c42eba1e6]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/10) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
+[^c-250d455c4f8ab4b0c169386c42eba1e6]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/10) in force at 1.6.2015, see [rule 1](https://www.legislation.gov.uk/ssi/2015/182/rule/1)
 
-[^key-e8c4421fa1f97cc275587d7be2fe630d]: Textual amendment: Word in [sch. para. 10(1)](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/10/1) inserted (14.9.2015) by [The Town and Country Planning (Hazardous Substances Inquiry Session Procedure) (Scotland) Amendment Rules 2015 (S.S.I. 2015/250)](https://www.legislation.gov.uk/ssi/2015/250), [reg. 1](https://www.legislation.gov.uk/ssi/2015/250/regulation/1), [rule 2(3)(b)](https://www.legislation.gov.uk/ssi/2015/250/rule/2/3/b)
+[^c-e8c4421fa1f97cc275587d7be2fe630d]: Textual amendment: Word in [sch. para. 10(1)](https://www.legislation.gov.uk/ssi/2015/182/schedule/paragraph/10/1) inserted (14.9.2015) by [The Town and Country Planning (Hazardous Substances Inquiry Session Procedure) (Scotland) Amendment Rules 2015 (S.S.I. 2015/250)](https://www.legislation.gov.uk/ssi/2015/250), [reg. 1](https://www.legislation.gov.uk/ssi/2015/250/regulation/1), [rule 2(3)(b)](https://www.legislation.gov.uk/ssi/2015/250/rule/2/3/b)

@@ -85,9 +85,9 @@ The Social Security (Claims and Payments) Regulations 1987 [^c1811544]
 
 The Income Support (Transitional) Regulations 1987 [^c1811545]
 
-The Housing Benefit Regulations 2006;[^key-45a08cb4b8161a9441a1bef3014e1ff3]
+The Housing Benefit Regulations 2006;[^c-45a08cb4b8161a9441a1bef3014e1ff3]
 
-The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006;[^key-44e76326373a1d986e6d900c3992ba8b]
+The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006;[^c-44e76326373a1d986e6d900c3992ba8b]
 
 The Family Credit (General) Regulations 1987 [^c1811547]
 
@@ -111,9 +111,9 @@ The Disability Working Allowance (General) Regulations 1991 [^c1811556]
 
 The Education (Mandatory Awards) Regulations 1992 [^c1811557]
 
-The Council Tax Benefit Regulations 2006;[^key-0a395852346d88ba43c850fba6c04f77]
+The Council Tax Benefit Regulations 2006;[^c-0a395852346d88ba43c850fba6c04f77]
 
-The Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-45640af46969e959ddd079c3dcc3836f]
+The Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-45640af46969e959ddd079c3dcc3836f]
 
 The Child Support (Maintenance Assessment and Special Cases) Regulations 1992 [^c1811559]
 
@@ -145,9 +145,9 @@ The Order provides that a payment made to a person in connection with his use of
 
 [^c1811545]: Marginal citation: [S.I. 1987/1969](https://www.legislation.gov.uk/uksi/1987/1969); relevant amending instruments are [S.I. 1988/521](https://www.legislation.gov.uk/uksi/1988/521) and 670, 1989/1626 and 2340, 1990/2324, 1991/387 and 1600 and 1992/1326.
 
-[^key-45a08cb4b8161a9441a1bef3014e1ff3]: Textual amendment: Words in Sch. substituted (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/7/2/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-45a08cb4b8161a9441a1bef3014e1ff3]: Textual amendment: Words in Sch. substituted (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/7/2/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
-[^key-44e76326373a1d986e6d900c3992ba8b]: Textual amendment: Words in Sch. inserted (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/7/2/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-44e76326373a1d986e6d900c3992ba8b]: Textual amendment: Words in Sch. inserted (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/7/2/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1811547]: Marginal citation: [S.I. 1987/1973](https://www.legislation.gov.uk/uksi/1987/1973); relevant amending instruments are [S.I. 1988/660](https://www.legislation.gov.uk/uksi/1988/660), 1438 and 1970, 1991/387 and 1992/573 and 2155.
 
@@ -171,9 +171,9 @@ The Order provides that a payment made to a person in connection with his use of
 
 [^c1811557]: Marginal citation: [S.I. 1992/1270](https://www.legislation.gov.uk/uksi/1992/1270).
 
-[^key-0a395852346d88ba43c850fba6c04f77]: Textual amendment: Words in Sch. substituted (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/7/2/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-0a395852346d88ba43c850fba6c04f77]: Textual amendment: Words in Sch. substituted (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/7/2/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
-[^key-45640af46969e959ddd079c3dcc3836f]: Textual amendment: Words in Sch. inserted (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/7/2/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-45640af46969e959ddd079c3dcc3836f]: Textual amendment: Words in Sch. inserted (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/7/2/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1811559]: Marginal citation: [S.I. 1992/1815](https://www.legislation.gov.uk/uksi/1992/1815); the relevant amending instrument is [S.I. 1993/913](https://www.legislation.gov.uk/uksi/1993/913).
 

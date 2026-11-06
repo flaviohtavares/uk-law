@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Succession where person becomes occupier of part of the relevant land.[^key-64ddcc9a041f7318c71c0ad65ed69b58]
+## 50. Succession where person becomes occupier of part of the relevant land.[^c-64ddcc9a041f7318c71c0ad65ed69b58]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64ddcc9a041f7318c71c0ad65ed69b58]: Textual amendment: S. 50 repealed (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 23(4)](https://www.legislation.gov.uk/ukpga/2003/37/section/23/4)[(5)](https://www.legislation.gov.uk/ukpga/2003/37/section/23/5), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/1); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(m)(s)(ii)](https://www.legislation.gov.uk/uksi/2006/984/article/2/m/s/ii) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/3))
+[^c-64ddcc9a041f7318c71c0ad65ed69b58]: Textual amendment: S. 50 repealed (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 23(4)](https://www.legislation.gov.uk/ukpga/2003/37/section/23/4)[(5)](https://www.legislation.gov.uk/ukpga/2003/37/section/23/5), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/1); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(m)(s)(ii)](https://www.legislation.gov.uk/uksi/2006/984/article/2/m/s/ii) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/3))

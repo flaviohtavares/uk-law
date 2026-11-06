@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Standards of Professional Behaviour[^key-d484dd4e7d46de973f6b9c15de513407]
+## 5. Standards of Professional Behaviour[^c-d484dd4e7d46de973f6b9c15de513407]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Standards of Professional Behaviour established are the standards of profess
 
 ## Annotations
 
-[^key-d484dd4e7d46de973f6b9c15de513407]: Commencement: Reg. 5 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-d484dd4e7d46de973f6b9c15de513407]: Commencement: Reg. 5 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

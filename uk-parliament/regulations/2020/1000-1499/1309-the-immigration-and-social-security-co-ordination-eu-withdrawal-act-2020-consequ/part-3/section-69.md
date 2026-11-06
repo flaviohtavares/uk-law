@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^key-1138ca15b1210a290e1e56724be3b5fb][^M_I_5107cf99-50fa-47ee-aeb5-9d67b456abf9]
+## 69. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^c-1138ca15b1210a290e1e56724be3b5fb][^M_I_5107cf99-50fa-47ee-aeb5-9d67b456abf9]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1138ca15b1210a290e1e56724be3b5fb]: Commencement: Reg. 69 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-1138ca15b1210a290e1e56724be3b5fb]: Commencement: Reg. 69 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_5107cf99-50fa-47ee-aeb5-9d67b456abf9]: Commencement: Reg. 69 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

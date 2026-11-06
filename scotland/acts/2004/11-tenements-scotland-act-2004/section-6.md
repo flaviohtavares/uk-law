@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Application to sheriff for order resolving certain disputes[^key-5da6358bde7b51b5a037a376296ff97f]
+## 6. Application to sheriff for order resolving certain disputes[^c-5da6358bde7b51b5a037a376296ff97f]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ appeal to the Court of Session on a point of law.
 
 ## Annotations
 
-[^key-5da6358bde7b51b5a037a376296ff97f]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2004/11/section/6) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/a)
+[^c-5da6358bde7b51b5a037a376296ff97f]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2004/11/section/6) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/a)

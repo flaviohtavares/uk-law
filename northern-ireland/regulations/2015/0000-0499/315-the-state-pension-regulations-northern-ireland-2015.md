@@ -48,7 +48,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 (1) These Regulations may be cited as the State Pension Regulations (Northern Ireland) 2015 and shall come into operation on 6th April 2016.
 
-(2)[^key-7f49e48ce1de8c108dc5a2386643df39] In these Regulations—
+(2)[^c-7f49e48ce1de8c108dc5a2386643df39] In these Regulations—
 
 - “the 1966 Act” means the National Insurance Act (Northern Ireland) 1966;
 - “the Act” means the Pensions Act (Northern Ireland) 2015;
@@ -57,11 +57,11 @@ The Department for Social Development makes the following Regulations in exercis
 
 (3) For the purposes of the following Regulations, two people are to be treated as if they are not married to each other in relation to times when either of them is married to a third person.
 
-## PART 1A — Full rate of State Pension[^key-0d2b346dc9ed7a36448784bbbd252ed0]
+## PART 1A — Full rate of State Pension[^c-0d2b346dc9ed7a36448784bbbd252ed0]
 
 ### 1A. Full rate of state pension
 
-The full rate of the state pension for the purposes of section 3(1) of the Act (full rate of state pension) is £230.25[^key-6ce81ffa3b62df082ffa1948b89bcc26]
+The full rate of the state pension for the purposes of section 3(1) of the Act (full rate of state pension) is £230.25[^c-6ce81ffa3b62df082ffa1948b89bcc26]
 
 ## PART 2 — Prisoners
 
@@ -157,7 +157,7 @@ may be altered in the circumstances specified in paragraph (2).
   - (iii) in the currency in which that amount was originally paid;
 - (f) where the application is to alter the choice so that it becomes a choice to be paid a lump sum under section 8 of the Act, any amount paid by way of (or on account of) a state pension under section 9 of the Act would be less than the amount which would be paid as a lump sum under section 8 of the Act;
 - (g) no previous alteration has been made under this regulation in respect of the same deferral mentioned in section 8(1)(c) of the Act; and
-- (h) the choice has not been treated as made under regulation 30(5G) or (5H)[^key-3b256d76982154230b67d6caf0d4c158] of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 [^c22624921] (payments on death).
+- (h) the choice has not been treated as made under regulation 30(5G) or (5H)[^c-3b256d76982154230b67d6caf0d4c158] of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 [^c22624921] (payments on death).
 
 (3) Where the circumstance in paragraph (2)(f) applies, any amount paid by way of (or on account of) a state pension under section 9 of the Act in respect of the deferral mentioned in section 8(1)(c) of the Act for which the choice was originally made is to be treated as having been paid on account of the lump sum to be paid under section 8 of the Act.
 
@@ -208,12 +208,12 @@ For the purposes of section 17(4) of the Act (effect of pensioner postponing or 
   - (iv) a widow's pension under section 39 of the Contributions and Benefits Act [^c22624961] (rate of widowed mother's allowance and widow's pension);
   - (v) severe disablement allowance under section 68 of the Contributions and Benefits Act [^c22624971] (entitlement and rate of severe disablement allowance);
   - (vi) a carer's allowance under section 70 of the Contributions and Benefits Act [^c22624981] (carer's allowance);
-  - (via)[^key-3a16ea13f52f61bfc693d0bc1757d1a9] the carer support payment component of carer support given in accordance with[^key-442d95a4a571afe1576954fdaa75316a] the Carer's Assistance (Carer Support Payment) (Scotland) Regulations 2023 (carer support payment);
+  - (via)[^c-3a16ea13f52f61bfc693d0bc1757d1a9] the carer support payment component of carer support given in accordance with[^c-442d95a4a571afe1576954fdaa75316a] the Carer's Assistance (Carer Support Payment) (Scotland) Regulations 2023 (carer support payment);
   - (vii) income support under section 123 of the Contributions and Benefits Act [^c22624991] (income support);
   - (viii) state pension credit under section 1 of the State Pension Credit Act (Northern Ireland) 2002 [^c22625001] (entitlement);
   - (ix) an income-based jobseeker's allowance within the meaning in Article 3(4) of the Jobseekers (Northern Ireland) Order 1995 [^c22625011] (the jobseeker's allowance);
   - (x) an income-related employment and support allowance (which means an income-related allowance under Part 1 of the Welfare Reform Act (Northern Ireland) 2007 [^c22625021] (employment and support allowance);
-- (xi)[^key-0baa3bc5d7247d5628cb61e3b260aa25] universal credit under Part 2 of the Welfare Reform (Northern Ireland) Order 2015 (universal credit).
+- (xi)[^c-0baa3bc5d7247d5628cb61e3b260aa25] universal credit under Part 2 of the Welfare Reform (Northern Ireland) Order 2015 (universal credit).
 - (b) a day on which a person—
   - (i) has received an increase of any of the benefits mentioned in sub-paragraph (a) in respect of the person whose entitlement to a state pension under Part 1 of the Act is deferred; and
   - (ii) is married to, in a civil partnership with or residing with the person whose entitlement to a state pension under Part 1 of the 2015 Act is deferred; or
@@ -225,7 +225,7 @@ For the purposes of section 17(4) of the Act (effect of pensioner postponing or 
 
 (2) The circumstances mentioned in paragraph (1) are where there is a part of a week in the total period during which the person's entitlement to a state pension was deferred, after any days have been discounted under regulation 11.
 
-### 12A. Modification of the amount of an increment for other cases during deferral[^key-0ee45bf731b1cb84b7e8b73710195b03]
+### 12A. Modification of the amount of an increment for other cases during deferral[^c-0ee45bf731b1cb84b7e8b73710195b03]
 
 (1) Subject to regulation 23, this regulation applies in cases where, at any time in the deferral period, the weekly rate of the person’s state pension, had the person’s entitlement not been deferred, would have changed otherwise than because of an up-rating increase (“a non-uprating change”).
 
@@ -334,7 +334,7 @@ For the purposes of section 17(4) of the Act (effect of pensioner postponing or 
 
 .
 
-## PART 6 — Graduated Retirement Benefit[^key-e9a8c92869cd1db2288c5c5fab2f0375]
+## PART 6 — Graduated Retirement Benefit[^c-e9a8c92869cd1db2288c5c5fab2f0375]
 
 ### 15. Survivor’s state pension based on inheritance of graduated retirement benefit
 
@@ -534,7 +534,7 @@ For the purposes of section 17(4) of the Act (effect of pensioner postponing or 
 
 ## PART 7 — Overseas Residents
 
-### 21. Entitlement to state pension for overseas residents[^key-018e3afce1d61aa5288fdd201e56715d][^key-0fa644c10b53a2ae13a9f267af30d3cf][^key-9ff1f90e309b37d6736f191a22dceaee][^key-479c94f09a403289b55facd15d8cb1bf][^key-fb9858d88de944412767ddf1fcf2b6ac][^key-d9cdb59b8813822fb6b6cb7e01bdc58e][^key-5e69a79501c9915ca1555f359e9c2213][^key-512b928d4edca1ae656f81937270b3d8][^key-0bf9e79277cc81dec7a46c7e4fddb3fb][^key-5782c8655b459ff9d4069ce8ae9fe64e][^key-ac0a6d0b31ee450e4ef02be07e9e9dea][^key-e827dcca360b6d49886a061aacc3006a][^key-79fea7016381d226d54bf3647c4ea1d5][^key-ea076aec49639c8b18c7a8ae20b5a01b][^key-9fc2497fac529dcba010434763a3917d][^key-443fea45b97de164d87fd304651587d5][^key-a849af23a3d69380f0bd265e9de1cf16][^key-507e849154ad9161a656b91fe2ee77fd][^key-60003ef21ea0124b0acb0cf78504a145]
+### 21. Entitlement to state pension for overseas residents[^c-018e3afce1d61aa5288fdd201e56715d][^c-0fa644c10b53a2ae13a9f267af30d3cf][^c-9ff1f90e309b37d6736f191a22dceaee][^c-479c94f09a403289b55facd15d8cb1bf][^c-fb9858d88de944412767ddf1fcf2b6ac][^c-d9cdb59b8813822fb6b6cb7e01bdc58e][^c-5e69a79501c9915ca1555f359e9c2213][^c-512b928d4edca1ae656f81937270b3d8][^c-0bf9e79277cc81dec7a46c7e4fddb3fb][^c-5782c8655b459ff9d4069ce8ae9fe64e][^c-ac0a6d0b31ee450e4ef02be07e9e9dea][^c-e827dcca360b6d49886a061aacc3006a][^c-79fea7016381d226d54bf3647c4ea1d5][^c-ea076aec49639c8b18c7a8ae20b5a01b][^c-9fc2497fac529dcba010434763a3917d][^c-443fea45b97de164d87fd304651587d5][^c-a849af23a3d69380f0bd265e9de1cf16][^c-507e849154ad9161a656b91fe2ee77fd][^c-60003ef21ea0124b0acb0cf78504a145]
 
 (1) An overseas resident who is entitled to a state pension under Part 1 of the Act is not entitled to up-rating increases in accordance with this regulation.
 
@@ -589,7 +589,7 @@ For the purposes of section 17(4) of the Act (effect of pensioner postponing or 
 
 (5) Any increase or decrease of the increment as determined in accordance with paragraph (4) is then added to, or subtracted from, the amount of the increment as determined in accordance with paragraph (3).
 
-## PART 8 — National Insurance Credits[^key-0b72324e26628a49430d6f5df9236354]
+## PART 8 — National Insurance Credits[^c-0b72324e26628a49430d6f5df9236354]
 
 ### CHAPTER 1 — General
 
@@ -647,7 +647,7 @@ A person is to be credited with a Class 3 contribution to which the person would
 (4) Paragraph (1) does not apply to—
 
 - (a) a person in respect of a week in which the person is entitled to be credited with earnings under—
-  - (i) regulation 7A (credits for carer’s allowance or carer support payment[^key-4e9ec2e88406103afaa8cf6e6e51a984]);
+  - (i) regulation 7A (credits for carer’s allowance or carer support payment[^c-4e9ec2e88406103afaa8cf6e6e51a984]);
   - (ii) regulation 8A (credits for unemployment);
   - (iii) regulation 8B (credits for incapacity for work or limited capability for work), or
   - (iv) regulation 9E (credits for certain spouses and civil partners of members of Her Majesty’s forces),
@@ -671,7 +671,7 @@ A person is to be credited with a Class 3 contribution to which the person would
 (2) The provisions specified are—
 
 - (a) regulation 7 (credits for approved training);
-- (b) regulation 7A (credits for carer’s allowance or carer support payment[^key-8b80ded29dddb1dcd0dcc454c83e0f75]);
+- (b) regulation 7A (credits for carer’s allowance or carer support payment[^c-8b80ded29dddb1dcd0dcc454c83e0f75]);
 - (c) regulation 7B (credits for disability element of working tax credit);
 - (d) regulation 8A (credits for unemployment);
 - (e) regulation 8B (credits for incapacity for work or limited capability for work);
@@ -685,8 +685,8 @@ A person is to be credited with a Class 3 contribution to which the person would
 (1) Where working tax credit is paid in respect of a person in respect of a week in which the person is—
 
 - (a) an employed earner;
-- (b) a self-employed earner whose profits for the year are below the small profits threshold specified by section 11(4)(b)[^key-dbb17966db7697a71708bfb092dfdfc5] of the Contributions and Benefits Act (liability for Class 2 contributions), who would otherwise [^key-1e6417d82538e4ea7e1b776a67c3dca6]...[^key-1e6417d82538e4ea7e1b776a67c3dca6]...[^key-26271871967c6affd0497fba78e50647] be treated as having actually paid, a Class 2 contribution; or
-- (c) excepted from being treated as having actually paid[^key-e5e529ec874406943378a51858a32f34] a Class 2 contribution by virtue of regulation 43 of the Social Security (Contributions) Regulations 2001,
+- (b) a self-employed earner whose profits for the year are below the small profits threshold specified by section 11(4)(b)[^c-dbb17966db7697a71708bfb092dfdfc5] of the Contributions and Benefits Act (liability for Class 2 contributions), who would otherwise [^c-1e6417d82538e4ea7e1b776a67c3dca6]...[^c-1e6417d82538e4ea7e1b776a67c3dca6]...[^c-26271871967c6affd0497fba78e50647] be treated as having actually paid, a Class 2 contribution; or
+- (c) excepted from being treated as having actually paid[^c-e5e529ec874406943378a51858a32f34] a Class 2 contribution by virtue of regulation 43 of the Social Security (Contributions) Regulations 2001,
 
 the person is to be credited with earnings equal to the lower earnings limit then in force in respect of that week.
 
@@ -705,7 +705,7 @@ the person is to be credited with earnings equal to the lower earnings limit the
   of the 1975 Regulations; or
 - (b) a woman in respect of a week in any part of which an election made by her under regulations under section 19(4) of the Contributions and Benefits Act (general power to regulate liability for contributions) is in force.
 
-(4)[^key-c8e075d3c76acf5ae3099b96cb1a5fee] In this regulation “couple” means—
+(4)[^c-c8e075d3c76acf5ae3099b96cb1a5fee] In this regulation “couple” means—
 
 - (a) two people who are married to, or civil partners of, each other and are neither—
   - (i) separated under a court order, nor
@@ -729,8 +729,8 @@ A person is to be credited with a Class 3 contribution in respect of a week for 
 
 (4) Paragraph (1) applies to a man who is a self-employed earner only if he—
 
-- (a) [^key-01ee3a74ba07e3c2c5a5550534a68873]...[^key-01ee3a74ba07e3c2c5a5550534a68873]...[^key-6e624d4bcb2a4e1e42a3f0b35f5d7a7e] would be treated as having actually paid, a Class 2 contribution but for the fact that his profits for the year are below the small profits threshold specified by section 11(4)(b)[^key-e9e98bc18c0e98a15eb1f038ec3f9a45] of the Contributions and Benefits Act; or
-- (b) is excepted from being treated as having actually paid[^key-10dc4378f14bc02d4958c64fcf7503b0] a Class 2 contribution by virtue of regulation 43 of the Social Security (Contributions) Regulations 2001 in respect of any week in a year to which this regulation applies.
+- (a) [^c-01ee3a74ba07e3c2c5a5550534a68873]...[^c-01ee3a74ba07e3c2c5a5550534a68873]...[^c-6e624d4bcb2a4e1e42a3f0b35f5d7a7e] would be treated as having actually paid, a Class 2 contribution but for the fact that his profits for the year are below the small profits threshold specified by section 11(4)(b)[^c-e9e98bc18c0e98a15eb1f038ec3f9a45] of the Contributions and Benefits Act; or
+- (b) is excepted from being treated as having actually paid[^c-10dc4378f14bc02d4958c64fcf7503b0] a Class 2 contribution by virtue of regulation 43 of the Social Security (Contributions) Regulations 2001 in respect of any week in a year to which this regulation applies.
 
 #### 33. Credits for spouses and civil partners of members of Her Majesty’s forces
 
@@ -746,7 +746,7 @@ A person is to be credited with a Class 3 contribution in respect of a week for 
 (4) Paragraph 1 does not apply to—
 
 - (a) a person in respect of a week in which the person is entitled to be credited with earnings under—
-  - (i) regulation 7A (credits for carer’s allowance or carer support payment[^key-c877e599efccacdfd29daa34d0b70b62]);
+  - (i) regulation 7A (credits for carer’s allowance or carer support payment[^c-c877e599efccacdfd29daa34d0b70b62]);
   - (ii) regulation 8A (credits for unemployment);
   - (iii) regulation 8B (credits for incapacity for work or limited capability for work), or
   - (iv) regulation 9E (credits for certain spouses and civil partners of members of Her Majesty’s forces),
@@ -790,7 +790,7 @@ A person is to be credited with a Class 3 contribution in respect of a week for 
 - (b) was, in relation to that child, a person specified in paragraph (6); and
 - (c) was ordinarily resident in Northern Ireland.
 
-(3)[^key-b931877e5190f964ed219015c7dd7b6d] A is not entitled to be credited with a Class 3 contribution unless—
+(3)[^c-b931877e5190f964ed219015c7dd7b6d] A is not entitled to be credited with a Class 3 contribution unless—
 
 - (a) child benefit was awarded to another person (“B”) in respect of—
   - (i) the child, or each child, for whom A provided care, and
@@ -803,11 +803,11 @@ A person is to be credited with a Class 3 contribution in respect of a week for 
 - (a) those persons shall elect, with the agreement of B, which of them is to be credited with a Class 3 contribution credit (and then only the elected person is to be so credited), or
 - (b) the Department is to exercise its discretion to determine which of those persons is to be credited with that contribution, in default of the agreement referred to in sub-paragraph (a).
 
-(5) An application under paragraph (3)(c),[^key-5b439c100392a470ffd8f6f4268c7e9d] must—
+(5) An application under paragraph (3)(c),[^c-5b439c100392a470ffd8f6f4268c7e9d] must—
 
-- (a) include the name and date of birth of the child , or each child,[^key-1c7ff00366efb894f9597594edbfed2b] cared for;
+- (a) include the name and date of birth of the child , or each child,[^c-1c7ff00366efb894f9597594edbfed2b] cared for;
 - (b) where requested by the Department or the Commissioners for Her Majesty’s Revenue and Customs, include a declaration by B that the conditions in paragraph (2) are satisfied; and
-- (c) specify the relevant week or weeks in which the child , or each child,[^key-d8ebd780b0c33d78234acc56a4fb82b0] was cared for.
+- (c) specify the relevant week or weeks in which the child , or each child,[^c-d8ebd780b0c33d78234acc56a4fb82b0] was cared for.
 
 (6) The person specified in paragraph (2)(b) is—
 
@@ -860,7 +860,7 @@ A person is to be credited with a Class 3 contribution in respect of a week for 
 (4) For the purposes of paragraph 2(a)(i) a “relevant benefit” means—
 
 - (a) attendance allowance in accordance with section 64 of the Contributions and Benefits Act;
-- (aa)[^key-bde95aff264a770a0c21d3c705a1a861] pension age disability payment in accordance with the Disability Assistance for Older People (Scotland) Regulations 2024 in circumstances where the person is resident in Northern Ireland and regulation 45(1) of those Regulations applies;
+- (aa)[^c-bde95aff264a770a0c21d3c705a1a861] pension age disability payment in accordance with the Disability Assistance for Older People (Scotland) Regulations 2024 in circumstances where the person is resident in Northern Ireland and regulation 45(1) of those Regulations applies;
 - (b) the care component of disability living allowance in accordance with section 72 of the Contributions and Benefits Act (the care component), at the middle or highest rate prescribed in accordance with subsection (3) of that section;
 - (c) an increase in the rate of disablement pension in accordance with section 104 of the Contributions and Benefits Act (increase where constant attendance needed);
 - (d) any benefit which is payable as if an injury or disease were one in respect of which a disablement pension would for the time being be payable in respect of an assessment of 100 per cent., by virtue of—
@@ -873,8 +873,8 @@ A person is to be credited with a Class 3 contribution in respect of a week for 
   - (ii) article 8 of the Naval, Military and Air Forces etc (Disablement and Death) Service Pensions Order 2006 (constant attendance allowance);
 - (f) the daily living component of personal independence payment in accordance with Article 83 of the 2015 Order;
 - (g) armed forces independence payment in accordance with the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011.
-- (h)[^key-154b5e8461c451d5950d35f18df69b02] the care component of child disability payment at the middle or highest rate in accordance with regulation 11 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021 in circumstances where the person is resident in Northern Ireland and regulation 36(1) of those Regulations applies;[^key-6e2ce40108f7148e0d017d65d236bdad]
-- (i)[^key-ebdbabbe66c453bde5ce7e3e59580a9a] the daily living component of adult disability payment at the standard or enhanced rate payable in accordance with regulation 5 of the Disability Assistance for Working Age People (Scotland) Regulations 2022, in circumstances where the person is resident in Northern Ireland and regulation 53(1) of those Regulations applies;[^key-04bd72ee240945bb47accad8b61a760c]
+- (h)[^c-154b5e8461c451d5950d35f18df69b02] the care component of child disability payment at the middle or highest rate in accordance with regulation 11 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021 in circumstances where the person is resident in Northern Ireland and regulation 36(1) of those Regulations applies;[^c-6e2ce40108f7148e0d017d65d236bdad]
+- (i)[^c-ebdbabbe66c453bde5ce7e3e59580a9a] the daily living component of adult disability payment at the standard or enhanced rate payable in accordance with regulation 5 of the Disability Assistance for Working Age People (Scotland) Regulations 2022, in circumstances where the person is resident in Northern Ireland and regulation 53(1) of those Regulations applies;[^c-04bd72ee240945bb47accad8b61a760c]
 - (j) the care component of Scottish adult disability living allowance at the highest or middle rate in accordance with regulation 6(4) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025 in circumstances where the person is resident in Northern Ireland and regulation 48(1) of those Regulations applies.
 
 (5) Except in a case to which paragraph (8) applies, a person is not entitled to be credited with a Class 3 contribution under paragraph (2)(a) unless an application to be so credited is received by the Department in accordance with paragraph (6) and regulation 39.
@@ -893,15 +893,15 @@ A person is to be credited with a Class 3 contribution in respect of a week for 
 
 (8) This paragraph applies in the case of a woman in respect of a week in any part of which an election made by her under regulations under section 19(4) of the Contributions and Benefits Act (general power to regulate liability for contributions) is in force.
 
-#### 38. Credits for an additional period in respect of entitlement to carer’s allowance or carer’s support payment and relevant benefits[^key-88c1114a7a0ad36027bf335164ff67b9]
+#### 38. Credits for an additional period in respect of entitlement to carer’s allowance or carer’s support payment and relevant benefits[^c-88c1114a7a0ad36027bf335164ff67b9]
 
 (1) A person is to be credited with a Class 3 contribution for a period of 12 weeks—
 
-- (a) prior to the date on which that person becomes entitled to carer’s allowance by virtue of section 70(1) of the Contributions and Benefits Act (carer’s allowance) or the carer support payment component of carer support given in accordance with the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023[^key-eca0100b4112a088ad1b8f04abe5bf4e] ;
-- (b) subject to paragraph (2), following the end of the week in which that person ceases to be entitled to carer’s allowance by virtue of that subsection; or the carer support payment component of carer support by virtue of those Regulations[^key-c925abe3dd5eb08172bf4645c08c9749]
+- (a) prior to the date on which that person becomes entitled to carer’s allowance by virtue of section 70(1) of the Contributions and Benefits Act (carer’s allowance) or the carer support payment component of carer support given in accordance with the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023[^c-eca0100b4112a088ad1b8f04abe5bf4e] ;
+- (b) subject to paragraph (2), following the end of the week in which that person ceases to be entitled to carer’s allowance by virtue of that subsection; or the carer support payment component of carer support by virtue of those Regulations[^c-c925abe3dd5eb08172bf4645c08c9749]
 - (c) following the end of a week in which regulation 37(2)(a) ceases to be satisfied.
 
-(2) A person is not entitled to be credited with a Class 3 contribution under paragraph (1)(b) in a week in respect of which that person is entitled under regulation 7A (credits for carers allowance) of the 1975 Regulations to be credited with contributions by virtue of being entitled to an allowance under section 70 of the Contributions and Benefits Act or the carer support payment component of carer support given in accordance with the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023[^key-c28dcfc5bda0e91db29742393001d680] .
+(2) A person is not entitled to be credited with a Class 3 contribution under paragraph (1)(b) in a week in respect of which that person is entitled under regulation 7A (credits for carers allowance) of the 1975 Regulations to be credited with contributions by virtue of being entitled to an allowance under section 70 of the Contributions and Benefits Act or the carer support payment component of carer support given in accordance with the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023[^c-c28dcfc5bda0e91db29742393001d680] .
 
 #### 39. Time limit for making an application for a credit under regulation 34(1)(b), 35, 36 or 37
 
@@ -968,11 +968,11 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^c22624881]: Marginal citation: [2015 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2015/5)
 
-[^key-7f49e48ce1de8c108dc5a2386643df39]: Textual amendment: Reg. 1(2) substituted (6.4.2016) by [The State Pension (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/80)](https://www.legislation.gov.uk/nisr/2016/80), [regs. 1](https://www.legislation.gov.uk/nisr/2016/80/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/80/regulation/2/2)
+[^c-7f49e48ce1de8c108dc5a2386643df39]: Textual amendment: Reg. 1(2) substituted (6.4.2016) by [The State Pension (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/80)](https://www.legislation.gov.uk/nisr/2016/80), [regs. 1](https://www.legislation.gov.uk/nisr/2016/80/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/80/regulation/2/2)
 
-[^key-0d2b346dc9ed7a36448784bbbd252ed0]: Textual amendment: Pt. 1A inserted (6.4.2016) by [The State Pension (Amendment No. 2) Regulations (Northern Ireland) 2016 (S.R. 2016/88)](https://www.legislation.gov.uk/nisr/2016/88), [regs. 1](https://www.legislation.gov.uk/nisr/2016/88/regulation/1), [2](https://www.legislation.gov.uk/nisr/2016/88/regulation/2)
+[^c-0d2b346dc9ed7a36448784bbbd252ed0]: Textual amendment: Pt. 1A inserted (6.4.2016) by [The State Pension (Amendment No. 2) Regulations (Northern Ireland) 2016 (S.R. 2016/88)](https://www.legislation.gov.uk/nisr/2016/88), [regs. 1](https://www.legislation.gov.uk/nisr/2016/88/regulation/1), [2](https://www.legislation.gov.uk/nisr/2016/88/regulation/2)
 
-[^key-6ce81ffa3b62df082ffa1948b89bcc26]: Textual amendment: Sum in [Reg. 1A](https://www.legislation.gov.uk/nisr/2015/315/regulation/1A) substituted (coming into force in accordance with of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2025 (S.R. 2025/64)](https://www.legislation.gov.uk/nisr/2025/64), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2025/64/article/1/1/c), [6(2)](https://www.legislation.gov.uk/nisr/2025/64/article/6/2)
+[^c-6ce81ffa3b62df082ffa1948b89bcc26]: Textual amendment: Sum in [Reg. 1A](https://www.legislation.gov.uk/nisr/2015/315/regulation/1A) substituted (coming into force in accordance with of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2025 (S.R. 2025/64)](https://www.legislation.gov.uk/nisr/2025/64), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2025/64/article/1/1/c), [6(2)](https://www.legislation.gov.uk/nisr/2025/64/article/6/2)
 
 [^c22624891]: Marginal citation: [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595); Article 53 was amended by paragraph 27 of Schedule 5 to the Criminal Justice (Children) (Northern Ireland) Order ([S.I. 1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504)) and paragraph 8(1) of Schedule 6 to the [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1 (N.I.))](https://www.legislation.gov.uk/nia/2009/1)
 
@@ -980,7 +980,7 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^c22624911]: Marginal citation: [1968 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1968/29); section 18 was amended by Article 9(1) of the [Treatment of Offenders (Northern Ireland) Order 1989 (S.I. 1989/1344 (N.I. 15))](https://www.legislation.gov.uk/nisi/1989/1344)
 
-[^key-3b256d76982154230b67d6caf0d4c158]: Textual amendment: Words in reg. 6(2)(h) inserted (6.4.2016) by [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2015 (S.R. 2015/411)](https://www.legislation.gov.uk/nisr/2015/411), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b), [28](https://www.legislation.gov.uk/nisr/2015/411/article/28)
+[^c-3b256d76982154230b67d6caf0d4c158]: Textual amendment: Words in reg. 6(2)(h) inserted (6.4.2016) by [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2015 (S.R. 2015/411)](https://www.legislation.gov.uk/nisr/2015/411), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b), [28](https://www.legislation.gov.uk/nisr/2015/411/article/28)
 
 [^c22624921]: Marginal citation: S.R. [1987 No. 465](https://www.legislation.gov.uk/ukcm/1987/465); paragraphs (5A) to (5G) were substituted for paragraphs (5A) to (5F) by regulation 3(b) of S.R. [2005 No. 541](https://www.legislation.gov.uk/ukcm/2005/541)
 
@@ -996,9 +996,9 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^c22624981]: Marginal citation: Section 70 was amended by regulation 2(3)(c) of S.R No [1994 No. 370](https://www.legislation.gov.uk/ukcm/1994/370), [Articles 2(2)](https://www.legislation.gov.uk/ukcm/1994/370/article/2/2) and 3(2) and (3) of S.R. [2002 No. 321](https://www.legislation.gov.uk/ukcm/2002/321), [regulation 2(3)](https://www.legislation.gov.uk/ukcm/2002/321/regulation/2/3) of S.R. [2011 No. 356](https://www.legislation.gov.uk/ukcm/2011/356) and Article 2(2) of [S.I. 2013/3233](https://www.legislation.gov.uk/uksi/2013/3233)
 
-[^key-3a16ea13f52f61bfc693d0bc1757d1a9]: Textual amendment: [Reg. 11(2)(a)](https://www.legislation.gov.uk/nisr/2015/315/regulation/11/2/a)[(via)](https://www.legislation.gov.uk/nisr/2015/315/regulation/11/2/via) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [48](https://www.legislation.gov.uk/uksi/2023/1218/article/48)
+[^c-3a16ea13f52f61bfc693d0bc1757d1a9]: Textual amendment: [Reg. 11(2)(a)](https://www.legislation.gov.uk/nisr/2015/315/regulation/11/2/a)[(via)](https://www.legislation.gov.uk/nisr/2015/315/regulation/11/2/via) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [48](https://www.legislation.gov.uk/uksi/2023/1218/article/48)
 
-[^key-442d95a4a571afe1576954fdaa75316a]: Textual amendment: Words in [reg. 11(2)(a)](https://www.legislation.gov.uk/nisr/2015/315/regulation/11/2/a)[(via)](https://www.legislation.gov.uk/nisr/2015/315/regulation/11/2/via) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [51(2)](https://www.legislation.gov.uk/uksi/2026/246/article/51/2)
+[^c-442d95a4a571afe1576954fdaa75316a]: Textual amendment: Words in [reg. 11(2)(a)](https://www.legislation.gov.uk/nisr/2015/315/regulation/11/2/a)[(via)](https://www.legislation.gov.uk/nisr/2015/315/regulation/11/2/via) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [51(2)](https://www.legislation.gov.uk/uksi/2026/246/article/51/2)
 
 [^c22624991]: Marginal citation: Section 123 was amended by paragraph 13 of Schedule 2 to the [Jobseekers (Northern Ireland) Order 1995 (S.I. 1995/2705 (N.I. 15))](https://www.legislation.gov.uk/nisi/1995/2705), [paragraph 26](https://www.legislation.gov.uk/nisi/1995/2705/paragraph/26) of Schedule 8 to the Welfare Reform and Pensions (Northern Ireland) Order 1999, paragraph 2 of Schedule 2 and Schedule 3 to the [State Pension Credit Act (Northern Ireland) 2002 (c. 14 (N.I.))](https://www.legislation.gov.uk/nia/2002/14), [paragraph 96](https://www.legislation.gov.uk/nia/2002/14/paragraph/96) of Schedule 24 to the Civil Partnership Act 2004, paragraph 3(9) and (10) of Schedule 3 and Schedule 8 to the Welfare Reform Act (Northern Ireland) 2007 and section 3(1) of the [Welfare Reform Act (Northern Ireland) 2010 (c. 13(N.I.))](https://www.legislation.gov.uk/nia/2010/13)
 
@@ -1008,9 +1008,9 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^c22625021]: Marginal citation: [2007 c. 2 (N.I)](https://www.legislation.gov.uk/nia/2007/2)
 
-[^key-0baa3bc5d7247d5628cb61e3b260aa25]: Textual amendment: [Reg. 11(2)(a)(xi)](https://www.legislation.gov.uk/nisr/2015/315/regulation/11/2/a/xi) inserted (29.6.2023) by [The Social Security, Universal Credit and State Pension (Miscellaneous Amendments) Regulations (Northern Ireland) 2023 (S.R. 2023/93)](https://www.legislation.gov.uk/nisr/2023/93), [regs. 1](https://www.legislation.gov.uk/nisr/2023/93/regulation/1), [5(1)](https://www.legislation.gov.uk/nisr/2023/93/regulation/5/1)
+[^c-0baa3bc5d7247d5628cb61e3b260aa25]: Textual amendment: [Reg. 11(2)(a)(xi)](https://www.legislation.gov.uk/nisr/2015/315/regulation/11/2/a/xi) inserted (29.6.2023) by [The Social Security, Universal Credit and State Pension (Miscellaneous Amendments) Regulations (Northern Ireland) 2023 (S.R. 2023/93)](https://www.legislation.gov.uk/nisr/2023/93), [regs. 1](https://www.legislation.gov.uk/nisr/2023/93/regulation/1), [5(1)](https://www.legislation.gov.uk/nisr/2023/93/regulation/5/1)
 
-[^key-0ee45bf731b1cb84b7e8b73710195b03]: Textual amendment: Reg. 12A inserted (6.4.2016) by [The State Pension (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/80)](https://www.legislation.gov.uk/nisr/2016/80), [regs. 1](https://www.legislation.gov.uk/nisr/2016/80/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2016/80/regulation/2/3)
+[^c-0ee45bf731b1cb84b7e8b73710195b03]: Textual amendment: Reg. 12A inserted (6.4.2016) by [The State Pension (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/80)](https://www.legislation.gov.uk/nisr/2016/80), [regs. 1](https://www.legislation.gov.uk/nisr/2016/80/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2016/80/regulation/2/3)
 
 [^c22625031]: Marginal citation: S.R. [2000 No. 362](https://www.legislation.gov.uk/ukcm/2000/362). Regulation 2 and the heading to regulations 2 and 3 were amended by paragraph 7 of Schedule 1 to S.R. [2005 No. 536](https://www.legislation.gov.uk/ukcm/2005/536)
 
@@ -1026,94 +1026,94 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^c22625091]: Marginal citation: Section 44(3) was amended by paragraph 3 of Schedule 15 to Pensions Act (Northern Ireland) 2015
 
-[^key-e9a8c92869cd1db2288c5c5fab2f0375]: Textual amendment: Pts. 6, 7 added (6.4.2016) by [The State Pension (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/80)](https://www.legislation.gov.uk/nisr/2016/80), [regs. 1](https://www.legislation.gov.uk/nisr/2016/80/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2016/80/regulation/2/4)
+[^c-e9a8c92869cd1db2288c5c5fab2f0375]: Textual amendment: Pts. 6, 7 added (6.4.2016) by [The State Pension (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/80)](https://www.legislation.gov.uk/nisr/2016/80), [regs. 1](https://www.legislation.gov.uk/nisr/2016/80/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2016/80/regulation/2/4)
 
-[^key-018e3afce1d61aa5288fdd201e56715d]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (10.4.2017) by [The Social Security Benefits Up-rating Regulations (NorthernIreland) 2017 (S.R. 2017/60)](https://www.legislation.gov.uk/nisr/2017/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/60/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2017/60/regulation/3)
+[^c-018e3afce1d61aa5288fdd201e56715d]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (10.4.2017) by [The Social Security Benefits Up-rating Regulations (NorthernIreland) 2017 (S.R. 2017/60)](https://www.legislation.gov.uk/nisr/2017/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/60/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2017/60/regulation/3)
 
-[^key-0fa644c10b53a2ae13a9f267af30d3cf]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (25.9.2017) by [The Social Security Benefits Up-rating (No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/189)](https://www.legislation.gov.uk/nisr/2017/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/189/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2017/189/regulation/3)
+[^c-0fa644c10b53a2ae13a9f267af30d3cf]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (25.9.2017) by [The Social Security Benefits Up-rating (No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/189)](https://www.legislation.gov.uk/nisr/2017/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/189/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2017/189/regulation/3)
 
-[^key-9ff1f90e309b37d6736f191a22dceaee]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Regulations (NorthernIreland) 2018 (S.R. 2018/57)](https://www.legislation.gov.uk/nisr/2018/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/57/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2018/57/regulation/3)
+[^c-9ff1f90e309b37d6736f191a22dceaee]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Regulations (NorthernIreland) 2018 (S.R. 2018/57)](https://www.legislation.gov.uk/nisr/2018/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/57/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2018/57/regulation/3)
 
-[^key-479c94f09a403289b55facd15d8cb1bf]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (9.4.2018) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2018 (S.R. 2018/60)](https://www.legislation.gov.uk/nisr/2018/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/60/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2018/60/regulation/3)
+[^c-479c94f09a403289b55facd15d8cb1bf]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (9.4.2018) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2018 (S.R. 2018/60)](https://www.legislation.gov.uk/nisr/2018/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/60/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2018/60/regulation/3)
 
-[^key-fb9858d88de944412767ddf1fcf2b6ac]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (29.9.2018) by [The Social Security Benefits Up-rating (No. 2) Regulations (Northern Ireland) 2018 (S.R. 2018/169)](https://www.legislation.gov.uk/nisr/2018/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/169/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2018/169/regulation/3)
+[^c-fb9858d88de944412767ddf1fcf2b6ac]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (29.9.2018) by [The Social Security Benefits Up-rating (No. 2) Regulations (Northern Ireland) 2018 (S.R. 2018/169)](https://www.legislation.gov.uk/nisr/2018/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/169/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2018/169/regulation/3)
 
-[^key-d9cdb59b8813822fb6b6cb7e01bdc58e]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (26.3.2019) by [The Social Security (2018 Benefits Up-rating) Regulations (Northern Ireland) 2019 (S.R. 2019/48)](https://www.legislation.gov.uk/nisr/2019/48), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/48/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2019/48/regulation/3)
+[^c-d9cdb59b8813822fb6b6cb7e01bdc58e]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (26.3.2019) by [The Social Security (2018 Benefits Up-rating) Regulations (Northern Ireland) 2019 (S.R. 2019/48)](https://www.legislation.gov.uk/nisr/2019/48), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/48/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2019/48/regulation/3)
 
-[^key-5e69a79501c9915ca1555f359e9c2213]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (8.4.2019) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2019 (S.R. 2019/59)](https://www.legislation.gov.uk/nisr/2019/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/59/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2019/59/regulation/3)
+[^c-5e69a79501c9915ca1555f359e9c2213]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (8.4.2019) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2019 (S.R. 2019/59)](https://www.legislation.gov.uk/nisr/2019/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/59/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2019/59/regulation/3)
 
-[^key-512b928d4edca1ae656f81937270b3d8]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (27.9.2019) by [The Social Security Benefits Up-rating (No. 2) Regulations (Northern Ireland) 2019 (S.R. 2019/189)](https://www.legislation.gov.uk/nisr/2019/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/189/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2019/189/regulation/3)
+[^c-512b928d4edca1ae656f81937270b3d8]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (27.9.2019) by [The Social Security Benefits Up-rating (No. 2) Regulations (Northern Ireland) 2019 (S.R. 2019/189)](https://www.legislation.gov.uk/nisr/2019/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/189/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2019/189/regulation/3)
 
-[^key-0bf9e79277cc81dec7a46c7e4fddb3fb]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (6.4.2020) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2020 (S.R. 2020/41)](https://www.legislation.gov.uk/nisr/2020/41), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/41/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2020/41/regulation/3)
+[^c-0bf9e79277cc81dec7a46c7e4fddb3fb]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (6.4.2020) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2020 (S.R. 2020/41)](https://www.legislation.gov.uk/nisr/2020/41), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/41/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2020/41/regulation/3)
 
-[^key-5782c8655b459ff9d4069ce8ae9fe64e]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (11.4.2022) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2022 (revoked) 2022 (S.R. 2022/144)](https://www.legislation.gov.uk/nisr/2022/144), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/144/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2022/144/regulation/3)
+[^c-5782c8655b459ff9d4069ce8ae9fe64e]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (11.4.2022) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2022 (revoked) 2022 (S.R. 2022/144)](https://www.legislation.gov.uk/nisr/2022/144), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/144/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2022/144/regulation/3)
 
-[^key-ac0a6d0b31ee450e4ef02be07e9e9dea]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (28.9.2022) by [The Social Security Benefits Up-rating (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/232)](https://www.legislation.gov.uk/nisr/2022/232), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/232/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2022/232/regulation/3)
+[^c-ac0a6d0b31ee450e4ef02be07e9e9dea]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (28.9.2022) by [The Social Security Benefits Up-rating (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/232)](https://www.legislation.gov.uk/nisr/2022/232), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/232/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2022/232/regulation/3)
 
-[^key-e827dcca360b6d49886a061aacc3006a]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (27.3.2023) by [The Social Security (2022 Benefits Up-rating) Regulations (Northern Ireland) 2023 (S.R. 2023/30)](https://www.legislation.gov.uk/nisr/2023/30), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/30/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2023/30/regulation/3)
+[^c-e827dcca360b6d49886a061aacc3006a]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (27.3.2023) by [The Social Security (2022 Benefits Up-rating) Regulations (Northern Ireland) 2023 (S.R. 2023/30)](https://www.legislation.gov.uk/nisr/2023/30), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/30/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2023/30/regulation/3)
 
-[^key-79fea7016381d226d54bf3647c4ea1d5]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (10.4.2023) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2023 (S.R. 2023/45)](https://www.legislation.gov.uk/nisr/2023/45), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/45/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2023/45/regulation/3)
+[^c-79fea7016381d226d54bf3647c4ea1d5]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (10.4.2023) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2023 (S.R. 2023/45)](https://www.legislation.gov.uk/nisr/2023/45), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/45/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2023/45/regulation/3)
 
-[^key-ea076aec49639c8b18c7a8ae20b5a01b]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (26.9.2023) by [The Social Security Benefits Up-rating (No. 3) Regulations (Northern Ireland) 2023 (S.R. 2023/151)](https://www.legislation.gov.uk/nisr/2023/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/151/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2023/151/regulation/3)
+[^c-ea076aec49639c8b18c7a8ae20b5a01b]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (26.9.2023) by [The Social Security Benefits Up-rating (No. 3) Regulations (Northern Ireland) 2023 (S.R. 2023/151)](https://www.legislation.gov.uk/nisr/2023/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/151/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2023/151/regulation/3)
 
-[^key-9fc2497fac529dcba010434763a3917d]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (27.9.2023) by [The Social Security Benefits Up-rating (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/145)](https://www.legislation.gov.uk/nisr/2023/145), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/145/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2023/145/regulation/3)
+[^c-9fc2497fac529dcba010434763a3917d]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (27.9.2023) by [The Social Security Benefits Up-rating (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/145)](https://www.legislation.gov.uk/nisr/2023/145), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/145/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2023/145/regulation/3)
 
-[^key-443fea45b97de164d87fd304651587d5]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (22.3.2024) by [The Social Security (2023 Benefits Up-rating) Regulations (Northern Ireland) 2024 (S.R. 2024/71)](https://www.legislation.gov.uk/nisr/2024/71), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/71/regulation/1), [3](https://www.legislation.gov.uk/nisr/2024/71/regulation/3)
+[^c-443fea45b97de164d87fd304651587d5]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (22.3.2024) by [The Social Security (2023 Benefits Up-rating) Regulations (Northern Ireland) 2024 (S.R. 2024/71)](https://www.legislation.gov.uk/nisr/2024/71), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/71/regulation/1), [3](https://www.legislation.gov.uk/nisr/2024/71/regulation/3)
 
-[^key-a849af23a3d69380f0bd265e9de1cf16]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (8.4.2024) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2024 (S.R. 2024/76)](https://www.legislation.gov.uk/nisr/2024/76), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/76/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2024/76/regulation/3)
+[^c-a849af23a3d69380f0bd265e9de1cf16]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (8.4.2024) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2024 (S.R. 2024/76)](https://www.legislation.gov.uk/nisr/2024/76), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/76/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2024/76/regulation/3)
 
-[^key-507e849154ad9161a656b91fe2ee77fd]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (7.4.2025) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2025 (S.R. 2025/67)](https://www.legislation.gov.uk/nisr/2025/67), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/67/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2025/67/regulation/3)
+[^c-507e849154ad9161a656b91fe2ee77fd]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (7.4.2025) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2025 (S.R. 2025/67)](https://www.legislation.gov.uk/nisr/2025/67), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/67/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2025/67/regulation/3)
 
-[^key-60003ef21ea0124b0acb0cf78504a145]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (6.4.2026) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2026 (S.R. 2026/61)](https://www.legislation.gov.uk/nisr/2026/61), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/61/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2026/61/regulation/3)
+[^c-60003ef21ea0124b0acb0cf78504a145]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/315/regulation/21) applied (6.4.2026) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2026 (S.R. 2026/61)](https://www.legislation.gov.uk/nisr/2026/61), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/61/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2026/61/regulation/3)
 
-[^key-0b72324e26628a49430d6f5df9236354]: Textual amendment: Pt. 8 added (6.4.2016) by [The State Pension (Amendment No. 3) Regulations (Northern Ireland) 2016 (S.R. 2016/100)](https://www.legislation.gov.uk/nisr/2016/100), [regs. 1](https://www.legislation.gov.uk/nisr/2016/100/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/100/regulation/2/2)
+[^c-0b72324e26628a49430d6f5df9236354]: Textual amendment: Pt. 8 added (6.4.2016) by [The State Pension (Amendment No. 3) Regulations (Northern Ireland) 2016 (S.R. 2016/100)](https://www.legislation.gov.uk/nisr/2016/100), [regs. 1](https://www.legislation.gov.uk/nisr/2016/100/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/100/regulation/2/2)
 
-[^key-4e9ec2e88406103afaa8cf6e6e51a984]: Textual amendment: Words in [reg. 28(4)(a)(i)](https://www.legislation.gov.uk/nisr/2015/315/regulation/28/4/a/i) inserted (16.7.2026) by [The Social Security (Scotland) Act 2018 (Disability and Carer Benefits) (Consequential Amendments) Order 2026 (S.I. 2026/679)](https://www.legislation.gov.uk/uksi/2026/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/679/article/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2026/679/article/16/2)
+[^c-4e9ec2e88406103afaa8cf6e6e51a984]: Textual amendment: Words in [reg. 28(4)(a)(i)](https://www.legislation.gov.uk/nisr/2015/315/regulation/28/4/a/i) inserted (16.7.2026) by [The Social Security (Scotland) Act 2018 (Disability and Carer Benefits) (Consequential Amendments) Order 2026 (S.I. 2026/679)](https://www.legislation.gov.uk/uksi/2026/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/679/article/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2026/679/article/16/2)
 
-[^key-8b80ded29dddb1dcd0dcc454c83e0f75]: Textual amendment: Words in [reg. 29(2)(b)](https://www.legislation.gov.uk/nisr/2015/315/regulation/29/2/b) inserted (16.7.2026) by [The Social Security (Scotland) Act 2018 (Disability and Carer Benefits) (Consequential Amendments) Order 2026 (S.I. 2026/679)](https://www.legislation.gov.uk/uksi/2026/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/679/article/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2026/679/article/16/3)
+[^c-8b80ded29dddb1dcd0dcc454c83e0f75]: Textual amendment: Words in [reg. 29(2)(b)](https://www.legislation.gov.uk/nisr/2015/315/regulation/29/2/b) inserted (16.7.2026) by [The Social Security (Scotland) Act 2018 (Disability and Carer Benefits) (Consequential Amendments) Order 2026 (S.I. 2026/679)](https://www.legislation.gov.uk/uksi/2026/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/679/article/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2026/679/article/16/3)
 
-[^key-dbb17966db7697a71708bfb092dfdfc5]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/nisr/2015/315/regulation/30/1/b) substituted (14.12.2022 with effect from 6.4.2022) by [The Social Security (Class 2 National Insurance Contributions Increase of Threshold) Regulations 2022 (S.I. 2022/1329)](https://www.legislation.gov.uk/uksi/2022/1329), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1329/regulation/1), [6(4)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1329/regulation/6/4/a/i)
+[^c-dbb17966db7697a71708bfb092dfdfc5]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/nisr/2015/315/regulation/30/1/b) substituted (14.12.2022 with effect from 6.4.2022) by [The Social Security (Class 2 National Insurance Contributions Increase of Threshold) Regulations 2022 (S.I. 2022/1329)](https://www.legislation.gov.uk/uksi/2022/1329), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1329/regulation/1), [6(4)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1329/regulation/6/4/a/i)
 
-[^key-1e6417d82538e4ea7e1b776a67c3dca6]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/nisr/2015/315/regulation/30/1/b) omitted (6.4.2024) by virtue of [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(23)(a)(i)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/23/a/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
+[^c-1e6417d82538e4ea7e1b776a67c3dca6]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/nisr/2015/315/regulation/30/1/b) omitted (6.4.2024) by virtue of [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(23)(a)(i)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/23/a/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
 
-[^key-26271871967c6affd0497fba78e50647]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/nisr/2015/315/regulation/30/1/b) inserted (14.12.2022 with effect from 6.4.2022) by [The Social Security (Class 2 National Insurance Contributions Increase of Threshold) Regulations 2022 (S.I. 2022/1329)](https://www.legislation.gov.uk/uksi/2022/1329), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1329/regulation/1), [6(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1329/regulation/6/4/a/ii)
+[^c-26271871967c6affd0497fba78e50647]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/nisr/2015/315/regulation/30/1/b) inserted (14.12.2022 with effect from 6.4.2022) by [The Social Security (Class 2 National Insurance Contributions Increase of Threshold) Regulations 2022 (S.I. 2022/1329)](https://www.legislation.gov.uk/uksi/2022/1329), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1329/regulation/1), [6(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1329/regulation/6/4/a/ii)
 
-[^key-e5e529ec874406943378a51858a32f34]: Textual amendment: Words in [reg. 30(1)(c)](https://www.legislation.gov.uk/nisr/2015/315/regulation/30/1/c) substituted (6.4.2024) by [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(23)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/23/a/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
+[^c-e5e529ec874406943378a51858a32f34]: Textual amendment: Words in [reg. 30(1)(c)](https://www.legislation.gov.uk/nisr/2015/315/regulation/30/1/c) substituted (6.4.2024) by [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(23)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/23/a/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
 
-[^key-c8e075d3c76acf5ae3099b96cb1a5fee]: Textual amendment: [Reg. 30(4)](https://www.legislation.gov.uk/nisr/2015/315/regulation/30/4) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [112](https://www.legislation.gov.uk/uksi/2019/1514/regulation/112) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-c8e075d3c76acf5ae3099b96cb1a5fee]: Textual amendment: [Reg. 30(4)](https://www.legislation.gov.uk/nisr/2015/315/regulation/30/4) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [112](https://www.legislation.gov.uk/uksi/2019/1514/regulation/112) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-01ee3a74ba07e3c2c5a5550534a68873]: Textual amendment: Words in [reg. 32(4)(a)](https://www.legislation.gov.uk/nisr/2015/315/regulation/32/4/a) omitted (6.4.2024) by virtue of [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(23)(b)(i)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/23/b/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
+[^c-01ee3a74ba07e3c2c5a5550534a68873]: Textual amendment: Words in [reg. 32(4)(a)](https://www.legislation.gov.uk/nisr/2015/315/regulation/32/4/a) omitted (6.4.2024) by virtue of [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(23)(b)(i)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/23/b/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
 
-[^key-6e624d4bcb2a4e1e42a3f0b35f5d7a7e]: Textual amendment: Words in [reg. 32(4)(a)](https://www.legislation.gov.uk/nisr/2015/315/regulation/32/4/a) inserted (14.12.2022 with effect from 6.4.2022) by [The Social Security (Class 2 National Insurance Contributions Increase of Threshold) Regulations 2022 (S.I. 2022/1329)](https://www.legislation.gov.uk/uksi/2022/1329), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1329/regulation/1), [6(4)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1329/regulation/6/4/b/i)
+[^c-6e624d4bcb2a4e1e42a3f0b35f5d7a7e]: Textual amendment: Words in [reg. 32(4)(a)](https://www.legislation.gov.uk/nisr/2015/315/regulation/32/4/a) inserted (14.12.2022 with effect from 6.4.2022) by [The Social Security (Class 2 National Insurance Contributions Increase of Threshold) Regulations 2022 (S.I. 2022/1329)](https://www.legislation.gov.uk/uksi/2022/1329), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1329/regulation/1), [6(4)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1329/regulation/6/4/b/i)
 
-[^key-e9e98bc18c0e98a15eb1f038ec3f9a45]: Textual amendment: Words in [reg. 32(4)(a)](https://www.legislation.gov.uk/nisr/2015/315/regulation/32/4/a) substituted (14.12.2022 with effect from 6.4.2022) by [The Social Security (Class 2 National Insurance Contributions Increase of Threshold) Regulations 2022 (S.I. 2022/1329)](https://www.legislation.gov.uk/uksi/2022/1329), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1329/regulation/1), [6(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1329/regulation/6/4/b/ii)
+[^c-e9e98bc18c0e98a15eb1f038ec3f9a45]: Textual amendment: Words in [reg. 32(4)(a)](https://www.legislation.gov.uk/nisr/2015/315/regulation/32/4/a) substituted (14.12.2022 with effect from 6.4.2022) by [The Social Security (Class 2 National Insurance Contributions Increase of Threshold) Regulations 2022 (S.I. 2022/1329)](https://www.legislation.gov.uk/uksi/2022/1329), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1329/regulation/1), [6(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1329/regulation/6/4/b/ii)
 
-[^key-10dc4378f14bc02d4958c64fcf7503b0]: Textual amendment: Words in [reg. 32(4)(b)](https://www.legislation.gov.uk/nisr/2015/315/regulation/32/4/b) substituted (6.4.2024) by [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(23)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/23/b/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
+[^c-10dc4378f14bc02d4958c64fcf7503b0]: Textual amendment: Words in [reg. 32(4)(b)](https://www.legislation.gov.uk/nisr/2015/315/regulation/32/4/b) substituted (6.4.2024) by [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(23)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/23/b/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
 
-[^key-c877e599efccacdfd29daa34d0b70b62]: Textual amendment: Words in [reg. 33(4)(a)(i)](https://www.legislation.gov.uk/nisr/2015/315/regulation/33/4/a/i) inserted (16.7.2026) by [The Social Security (Scotland) Act 2018 (Disability and Carer Benefits) (Consequential Amendments) Order 2026 (S.I. 2026/679)](https://www.legislation.gov.uk/uksi/2026/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/679/article/1/1), [16(4)](https://www.legislation.gov.uk/uksi/2026/679/article/16/4)
+[^c-c877e599efccacdfd29daa34d0b70b62]: Textual amendment: Words in [reg. 33(4)(a)(i)](https://www.legislation.gov.uk/nisr/2015/315/regulation/33/4/a/i) inserted (16.7.2026) by [The Social Security (Scotland) Act 2018 (Disability and Carer Benefits) (Consequential Amendments) Order 2026 (S.I. 2026/679)](https://www.legislation.gov.uk/uksi/2026/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/679/article/1/1), [16(4)](https://www.legislation.gov.uk/uksi/2026/679/article/16/4)
 
-[^key-b931877e5190f964ed219015c7dd7b6d]: Textual amendment: [Reg. 35(3)-(4)](https://www.legislation.gov.uk/nisr/2015/315/regulation/35/3) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/218)](https://www.legislation.gov.uk/nisr/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/218/regulation/1/1), [14(a)](https://www.legislation.gov.uk/nisr/2017/218/regulation/14/a)
+[^c-b931877e5190f964ed219015c7dd7b6d]: Textual amendment: [Reg. 35(3)-(4)](https://www.legislation.gov.uk/nisr/2015/315/regulation/35/3) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/218)](https://www.legislation.gov.uk/nisr/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/218/regulation/1/1), [14(a)](https://www.legislation.gov.uk/nisr/2017/218/regulation/14/a)
 
-[^key-5b439c100392a470ffd8f6f4268c7e9d]: Textual amendment: Word in [reg. 35(5)](https://www.legislation.gov.uk/nisr/2015/315/regulation/35/5) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/218)](https://www.legislation.gov.uk/nisr/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/218/regulation/1/1), [14(b)(i)](https://www.legislation.gov.uk/nisr/2017/218/regulation/14/b/i)
+[^c-5b439c100392a470ffd8f6f4268c7e9d]: Textual amendment: Word in [reg. 35(5)](https://www.legislation.gov.uk/nisr/2015/315/regulation/35/5) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/218)](https://www.legislation.gov.uk/nisr/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/218/regulation/1/1), [14(b)(i)](https://www.legislation.gov.uk/nisr/2017/218/regulation/14/b/i)
 
-[^key-1c7ff00366efb894f9597594edbfed2b]: Textual amendment: Words in [reg. 35(5)(a)](https://www.legislation.gov.uk/nisr/2015/315/regulation/35/5/a) inserted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/218)](https://www.legislation.gov.uk/nisr/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/218/regulation/1/1), [14(b)(ii)](https://www.legislation.gov.uk/nisr/2017/218/regulation/14/b/ii)
+[^c-1c7ff00366efb894f9597594edbfed2b]: Textual amendment: Words in [reg. 35(5)(a)](https://www.legislation.gov.uk/nisr/2015/315/regulation/35/5/a) inserted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/218)](https://www.legislation.gov.uk/nisr/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/218/regulation/1/1), [14(b)(ii)](https://www.legislation.gov.uk/nisr/2017/218/regulation/14/b/ii)
 
-[^key-d8ebd780b0c33d78234acc56a4fb82b0]: Textual amendment: Words in [reg. 35(5)(c)](https://www.legislation.gov.uk/nisr/2015/315/regulation/35/5/c) inserted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/218)](https://www.legislation.gov.uk/nisr/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/218/regulation/1/1), [14(b)(ii)](https://www.legislation.gov.uk/nisr/2017/218/regulation/14/b/ii)
+[^c-d8ebd780b0c33d78234acc56a4fb82b0]: Textual amendment: Words in [reg. 35(5)(c)](https://www.legislation.gov.uk/nisr/2015/315/regulation/35/5/c) inserted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/218)](https://www.legislation.gov.uk/nisr/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/218/regulation/1/1), [14(b)(ii)](https://www.legislation.gov.uk/nisr/2017/218/regulation/14/b/ii)
 
-[^key-bde95aff264a770a0c21d3c705a1a861]: Textual amendment: [Reg. 37(4)(aa)](https://www.legislation.gov.uk/nisr/2015/315/regulation/37/4/aa) inserted (16.7.2026) by [The Social Security (Scotland) Act 2018 (Disability and Carer Benefits) (Consequential Amendments) Order 2026 (S.I. 2026/679)](https://www.legislation.gov.uk/uksi/2026/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/679/article/1/1), [16(5)](https://www.legislation.gov.uk/uksi/2026/679/article/16/5)
+[^c-bde95aff264a770a0c21d3c705a1a861]: Textual amendment: [Reg. 37(4)(aa)](https://www.legislation.gov.uk/nisr/2015/315/regulation/37/4/aa) inserted (16.7.2026) by [The Social Security (Scotland) Act 2018 (Disability and Carer Benefits) (Consequential Amendments) Order 2026 (S.I. 2026/679)](https://www.legislation.gov.uk/uksi/2026/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/679/article/1/1), [16(5)](https://www.legislation.gov.uk/uksi/2026/679/article/16/5)
 
-[^key-154b5e8461c451d5950d35f18df69b02]: Textual amendment: [Reg. 37(4)(h)](https://www.legislation.gov.uk/nisr/2015/315/regulation/37/4/h) inserted (17.11.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) (No. 2) Order 2021 (S.I. 2021/1301)](https://www.legislation.gov.uk/uksi/2021/1301), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1301/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2021/1301/article/6/2)
+[^c-154b5e8461c451d5950d35f18df69b02]: Textual amendment: [Reg. 37(4)(h)](https://www.legislation.gov.uk/nisr/2015/315/regulation/37/4/h) inserted (17.11.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) (No. 2) Order 2021 (S.I. 2021/1301)](https://www.legislation.gov.uk/uksi/2021/1301), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1301/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2021/1301/article/6/2)
 
-[^key-6e2ce40108f7148e0d017d65d236bdad]: Textual amendment: Semi-colon substituted for full stop in reg. 37(4)(h) (21.3.2022) by [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [17(2)(a)](https://www.legislation.gov.uk/uksi/2022/332/article/17/2/a)
+[^c-6e2ce40108f7148e0d017d65d236bdad]: Textual amendment: Semi-colon substituted for full stop in reg. 37(4)(h) (21.3.2022) by [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [17(2)(a)](https://www.legislation.gov.uk/uksi/2022/332/article/17/2/a)
 
-[^key-ebdbabbe66c453bde5ce7e3e59580a9a]: Textual amendment: [Reg. 37(4)(i)](https://www.legislation.gov.uk/nisr/2015/315/regulation/37/4/i) inserted (21.3.2022) by [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [17(2)(b)](https://www.legislation.gov.uk/uksi/2022/332/article/17/2/b)
+[^c-ebdbabbe66c453bde5ce7e3e59580a9a]: Textual amendment: [Reg. 37(4)(i)](https://www.legislation.gov.uk/nisr/2015/315/regulation/37/4/i) inserted (21.3.2022) by [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [17(2)(b)](https://www.legislation.gov.uk/uksi/2022/332/article/17/2/b)
 
-[^key-04bd72ee240945bb47accad8b61a760c]: Textual amendment: [Reg. 37(4)(j)](https://www.legislation.gov.uk/nisr/2015/315/regulation/37/4/j) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [31(2)](https://www.legislation.gov.uk/uksi/2025/227/article/31/2)
+[^c-04bd72ee240945bb47accad8b61a760c]: Textual amendment: [Reg. 37(4)(j)](https://www.legislation.gov.uk/nisr/2015/315/regulation/37/4/j) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [31(2)](https://www.legislation.gov.uk/uksi/2025/227/article/31/2)
 
-[^key-88c1114a7a0ad36027bf335164ff67b9]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/nisr/2015/315/regulation/38) heading inserted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [51(3)(a)](https://www.legislation.gov.uk/uksi/2026/246/article/51/3/a)
+[^c-88c1114a7a0ad36027bf335164ff67b9]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/nisr/2015/315/regulation/38) heading inserted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [51(3)(a)](https://www.legislation.gov.uk/uksi/2026/246/article/51/3/a)
 
-[^key-eca0100b4112a088ad1b8f04abe5bf4e]: Textual amendment: Words in [reg. 38(1)(a)](https://www.legislation.gov.uk/nisr/2015/315/regulation/38/1/a) inserted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [51(3)(b)](https://www.legislation.gov.uk/uksi/2026/246/article/51/3/b)
+[^c-eca0100b4112a088ad1b8f04abe5bf4e]: Textual amendment: Words in [reg. 38(1)(a)](https://www.legislation.gov.uk/nisr/2015/315/regulation/38/1/a) inserted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [51(3)(b)](https://www.legislation.gov.uk/uksi/2026/246/article/51/3/b)
 
-[^key-c925abe3dd5eb08172bf4645c08c9749]: Textual amendment: Words in [reg. 38(1)(b)](https://www.legislation.gov.uk/nisr/2015/315/regulation/38/1/b) inserted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [51(3)(c)](https://www.legislation.gov.uk/uksi/2026/246/article/51/3/c)
+[^c-c925abe3dd5eb08172bf4645c08c9749]: Textual amendment: Words in [reg. 38(1)(b)](https://www.legislation.gov.uk/nisr/2015/315/regulation/38/1/b) inserted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [51(3)(c)](https://www.legislation.gov.uk/uksi/2026/246/article/51/3/c)
 
-[^key-c28dcfc5bda0e91db29742393001d680]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/nisr/2015/315/regulation/38/2) inserted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [51(3)(d)](https://www.legislation.gov.uk/uksi/2026/246/article/51/3/d)
+[^c-c28dcfc5bda0e91db29742393001d680]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/nisr/2015/315/regulation/38/2) inserted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [51(3)(d)](https://www.legislation.gov.uk/uksi/2026/246/article/51/3/d)

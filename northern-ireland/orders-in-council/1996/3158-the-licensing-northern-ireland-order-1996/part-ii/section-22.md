@@ -33,11 +33,11 @@ summary: ''
 (6) A court shall refuse an application for the transfer of a licence unless it is satisfied—
 
 - (a) subject to paragraph (7), that the procedure relating to the application set out in Schedule 5 has been complied with; and
-- (b) that the applicant is a fit person to hold a licence; and[^key-dd0bad6fd1d806385039f7e108baf12f]
+- (b) that the applicant is a fit person to hold a licence; and[^c-dd0bad6fd1d806385039f7e108baf12f]
 - (ba) that the applicant is aware of the responsibilities under any code of practice which the Department has approved under Article 76F (and from which it has not withdrawn its approval); and
 - (c) subject to paragraph (8), that—
   - (i) the business carried on in the premises under the licence, and
-  - (ii) in the case of premises of a kind mentioned in Article 5(1)(c) to (m)[^key-7569b96d1edd95f56a3827d8aaf4c811] other than an hotel in respect of which the note and record mentioned in Article 5(5)(a) have been made, the business to which the sale of intoxicating liquor under the licence is ancillary,
+  - (ii) in the case of premises of a kind mentioned in Article 5(1)(c) to (m)[^c-7569b96d1edd95f56a3827d8aaf4c811] other than an hotel in respect of which the note and record mentioned in Article 5(5)(a) have been made, the business to which the sale of intoxicating liquor under the licence is ancillary,
 
   has not been discontinued.
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dd0bad6fd1d806385039f7e108baf12f]: Textual amendment: [Art. 22(6)(ba)](https://www.legislation.gov.uk/nisi/1996/3158/article/22/6/ba) and word inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 25(5)](https://www.legislation.gov.uk/nia/2021/7/section/25/5), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-dd0bad6fd1d806385039f7e108baf12f]: Textual amendment: [Art. 22(6)(ba)](https://www.legislation.gov.uk/nisi/1996/3158/article/22/6/ba) and word inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 25(5)](https://www.legislation.gov.uk/nia/2021/7/section/25/5), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
 
-[^key-7569b96d1edd95f56a3827d8aaf4c811]: Textual amendment: Word in [art. 22(6)(c)(ii)](https://www.legislation.gov.uk/nisi/1996/3158/article/22/6/c/ii) substituted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2021/7/schedule/1/paragraph/6); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-7569b96d1edd95f56a3827d8aaf4c811]: Textual amendment: Word in [art. 22(6)(c)(ii)](https://www.legislation.gov.uk/nisi/1996/3158/article/22/6/c/ii) substituted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2021/7/schedule/1/paragraph/6); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

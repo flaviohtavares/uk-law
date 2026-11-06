@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 2
 
-### 1. Interpretation[^key-396a037a69f36129874a24dec771bd7b]
+### 1. Interpretation[^c-396a037a69f36129874a24dec771bd7b]
 
 In this Schedule—
 
@@ -34,7 +34,7 @@ In this Schedule—
   - (a) are beneath the sea (whether on or in the seabed or in a tunnel); and
   - (b) are used for the conveyance of signals.
 
-### 2. Public electronic communications providers[^key-9517487b086d1909cacbef6725c3fce7]
+### 2. Public electronic communications providers[^c-9517487b086d1909cacbef6725c3fce7]
 
 (1) A qualifying entity which—
 
@@ -68,7 +68,7 @@ In this Schedule—
 - (b) turnover is to be limited to the amounts derived by an entity from the relevant business after deduction of sales rebates, value added tax and other taxes directly related to amounts so derived;
 - (c) where the relevant business of the entity in question is carried on by two or more entities that each prepare accounts the turnover shall be calculated by adding together the turnover of each, except that no account shall be taken of any turnover resulting from the supply of goods or the provision of services between them.
 
-### 3. Associated facilities[^key-fbf87ef7e242b4f2b8d0c4b28879d5f1]
+### 3. Associated facilities[^c-fbf87ef7e242b4f2b8d0c4b28879d5f1]
 
 (1) A qualifying entity carrying on activities which consist of or include the making available of anything that—
 
@@ -90,7 +90,7 @@ In this Schedule—
 - “**qualifying network**” means a public electronic communications network provided by a qualifying entity falling within paragraph 2;
 - “**qualifying service**” means a public electronic communications service provided by a qualifying entity falling within paragraph 2.
 
-### 4. Repair or maintenance of submarine cable systems or cable landing stations[^key-e69d1f3f6ea397dd30920400828f1661]
+### 4. Repair or maintenance of submarine cable systems or cable landing stations[^c-e69d1f3f6ea397dd30920400828f1661]
 
 (1) A qualifying entity carrying on activities which consist of or include the provision of services for the repair or maintenance of—
 
@@ -101,7 +101,7 @@ In this Schedule—
 
 (2) In this paragraph “**interconnect**” is to be read in accordance with section 151(2) of the Communications Act 2003.
 
-### 5. Information systems[^key-9cf069403e2211b9682ebe75e19ecec5]
+### 5. Information systems[^c-9cf069403e2211b9682ebe75e19ecec5]
 
 (1) A qualifying entity carrying on activities that consist of or include supplying to persons in the United Kingdom services which consist of or include one or more of the following—
 
@@ -123,7 +123,7 @@ In this Schedule—
 
 ## Annotations
 
-[^key-396a037a69f36129874a24dec771bd7b]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2021/1264/schedule/5/paragraph/1) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-396a037a69f36129874a24dec771bd7b]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2021/1264/schedule/5/paragraph/1) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
 [^f00019]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Section 32(3) was substituted by [S.I. 2020/1419](https://www.legislation.gov.uk/uksi/2020/1419).
 
@@ -131,14 +131,14 @@ In this Schedule—
 
 [^f00021]: Footnote: There are amendments to section 151(1) not affecting the definition of “public electronic communications service”. The definition of “electronic communications service” in section 32(2) of the Communications Act 2003 was substituted by [S.I. 2020/1419](https://www.legislation.gov.uk/uksi/2020/1419).
 
-[^key-9517487b086d1909cacbef6725c3fce7]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2021/1264/schedule/5/paragraph/2) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-9517487b086d1909cacbef6725c3fce7]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2021/1264/schedule/5/paragraph/2) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
-[^key-fbf87ef7e242b4f2b8d0c4b28879d5f1]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2021/1264/schedule/5/paragraph/3) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-fbf87ef7e242b4f2b8d0c4b28879d5f1]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2021/1264/schedule/5/paragraph/3) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
 [^f00022]: Footnote: Section 32(3) was substituted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-e69d1f3f6ea397dd30920400828f1661]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2021/1264/schedule/5/paragraph/4) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-e69d1f3f6ea397dd30920400828f1661]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2021/1264/schedule/5/paragraph/4) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
-[^key-9cf069403e2211b9682ebe75e19ecec5]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2021/1264/schedule/5/paragraph/5) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-9cf069403e2211b9682ebe75e19ecec5]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2021/1264/schedule/5/paragraph/5) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
 [^f00023]: Footnote: [S.I. 2018/506](https://www.legislation.gov.uk/uksi/2018/506); paragraph 10(5)(a) of Schedule 2 was amended by [S.I. 2020/1245](https://www.legislation.gov.uk/uksi/2020/1245).

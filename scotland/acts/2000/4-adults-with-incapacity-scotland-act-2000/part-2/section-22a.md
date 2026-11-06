@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22A. Revocation of continuing or welfare power of attorney[^key-47d7de51e8e1ce9b89bf8887c241cf55]
+## 22A. Revocation of continuing or welfare power of attorney[^c-47d7de51e8e1ce9b89bf8887c241cf55]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47d7de51e8e1ce9b89bf8887c241cf55]: Textual amendment: S. 22A inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 57(7)](https://www.legislation.gov.uk/asp/2007/10/section/57/7), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-47d7de51e8e1ce9b89bf8887c241cf55]: Textual amendment: S. 22A inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 57(7)](https://www.legislation.gov.uk/asp/2007/10/section/57/7), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)

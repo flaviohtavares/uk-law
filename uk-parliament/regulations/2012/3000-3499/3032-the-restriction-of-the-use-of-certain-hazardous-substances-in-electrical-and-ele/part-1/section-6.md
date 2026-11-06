@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## 6. Exclusion until 22nd July 2019 for EEE outside the scope of the 2008 Regulations[^key-4cf83604684bcc8c414169cc6c7d2d27]
+## 6. Exclusion until 22nd July 2019 for EEE outside the scope of the 2008 Regulations[^c-4cf83604684bcc8c414169cc6c7d2d27]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4cf83604684bcc8c414169cc6c7d2d27]: Textual amendment: Reg. 6 omitted (12.6.2019) by virtue of [The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2019 (S.I. 2019/492)](https://www.legislation.gov.uk/uksi/2019/492), [regs. 1](https://www.legislation.gov.uk/uksi/2019/492/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/492/regulation/5)
+[^c-4cf83604684bcc8c414169cc6c7d2d27]: Textual amendment: Reg. 6 omitted (12.6.2019) by virtue of [The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2019 (S.I. 2019/492)](https://www.legislation.gov.uk/uksi/2019/492), [regs. 1](https://www.legislation.gov.uk/uksi/2019/492/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/492/regulation/5)

@@ -47,7 +47,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 
 ## PART 1 — Introductory
 
-### 1. Title, application, commencement and interpretation[^key-27c90549dc86157d46413e5abfad6964]
+### 1. Title, application, commencement and interpretation[^c-27c90549dc86157d46413e5abfad6964]
 
 (1) The title of these Regulations is the Building (Amendment) (Wales) Regulations 2022.
 
@@ -62,11 +62,11 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 
 ## PART 2 — Amendment of the Building Regulations
 
-### 2. Amendment of the Building Regulations[^key-49bff48b88f8806c98d42226f71a1c32]
+### 2. Amendment of the Building Regulations[^c-49bff48b88f8806c98d42226f71a1c32]
 
 The Building Regulations are amended in accordance with regulations 3 to 17.
 
-### 3. Amendment of regulation 2 of the Building Regulations[^key-abcd76490c03ea0696bd7be026c57fda]
+### 3. Amendment of regulation 2 of the Building Regulations[^c-abcd76490c03ea0696bd7be026c57fda]
 
 In regulation 2(1) (interpretation)—
 
@@ -79,7 +79,7 @@ In regulation 2(1) (interpretation)—
   >
   > - “**system for on-site electricity generation**” means a system that produces electricity and has a direct electrical connection to the building in question.
 
-### 4. Amendment of regulation 4 of the Building Regulations[^key-42b259cb403f91bcc1fa96a14aaf85c2]
+### 4. Amendment of regulation 4 of the Building Regulations[^c-42b259cb403f91bcc1fa96a14aaf85c2]
 
 In regulation 4 (requirements relating to building work), after paragraph (3) insert—
 
@@ -93,7 +93,7 @@ In regulation 4 (requirements relating to building work), after paragraph (3) in
 > - (a) comply with Part F of Schedule 1, or
 > - (b) where the building did not comply with Part F of Schedule 1 before the relevant work was begun, be no more unsatisfactory in relation to it than before the work was begun.
 
-### 5. Amendment of regulation 17 of the Building Regulations[^key-afc82d72637dbb70e38e4db762194008]
+### 5. Amendment of regulation 17 of the Building Regulations[^c-afc82d72637dbb70e38e4db762194008]
 
 In regulation 17(2A) (completion certificates)—
 
@@ -104,7 +104,7 @@ In regulation 17(2A) (completion certificates)—
 
   .
 
-### 6. Amendment of regulation 25C of the Building Regulations[^key-805ca3dc3475247b252484d0f23e576c]
+### 6. Amendment of regulation 25C of the Building Regulations[^c-805ca3dc3475247b252484d0f23e576c]
 
 In regulation 25C (new buildings: minimum energy performance requirements)—
 
@@ -113,7 +113,7 @@ In regulation 25C (new buildings: minimum energy performance requirements)—
   - (ii) omit “consumption”;
 - (b) in paragraph (b), for “new dwellings” substitute “when a dwelling is erected”.
 
-### 7. Insertion of regulation 25D of the Building Regulations[^key-f89d0a8c6d24fe6bdecfd4e11249abd0]
+### 7. Insertion of regulation 25D of the Building Regulations[^c-f89d0a8c6d24fe6bdecfd4e11249abd0]
 
 After regulation 25C (new buildings: minimum energy performance requirements) insert—
 
@@ -121,7 +121,7 @@ After regulation 25C (new buildings: minimum energy performance requirements) in
 >
 > Energy efficiency ratings must be approved by the Welsh Ministers, applying the methodology of calculation and expression of the energy performance of buildings approved pursuant to regulation 24 for new buildings.
 
-### 8. Amendment of regulation 26A of the Building Regulations[^key-aca55dd6ee8e0d0612002bb00785f421]
+### 8. Amendment of regulation 26A of the Building Regulations[^c-aca55dd6ee8e0d0612002bb00785f421]
 
 In regulation 26A (primary energy consumption rates for new buildings)—
 
@@ -129,7 +129,7 @@ In regulation 26A (primary energy consumption rates for new buildings)—
 - (b) omit “(other than a dwelling)”;
 - (c) omit “consumption”.
 
-### 9. Insertion of regulation 26C into the Building Regulations[^key-689b5e5420f421e33f097a7677218a7c]
+### 9. Insertion of regulation 26C into the Building Regulations[^c-689b5e5420f421e33f097a7677218a7c]
 
 After regulation 26B (fabric performance values for new dwellings) insert—
 
@@ -137,7 +137,7 @@ After regulation 26B (fabric performance values for new dwellings) insert—
 >
 > Where a dwelling is erected, it must equal or exceed the energy efficiency rating for the dwelling which has been approved pursuant to regulation 25D applying the methodology of calculation and expression of the energy performance of buildings approved pursuant to regulation 24 for new buildings.
 
-### 10. Amendment of regulation 27A of the Building Regulations[^key-cb8a0315309b47155d0779c01bcdef62]
+### 10. Amendment of regulation 27A of the Building Regulations[^c-cb8a0315309b47155d0779c01bcdef62]
 
 In regulation 27A (primary energy consumption rate calculations)—
 
@@ -145,7 +145,7 @@ In regulation 27A (primary energy consumption rate calculations)—
 - (b) in paragraph (1), omit “(other than a dwelling)”;
 - (c) in paragraphs (2)(a) and (b), (3)(a)(i) and (ii) and (5), omit “consumption”.
 
-### 11. Insertion of regulation 27C into the Building Regulations[^key-b1c055bd6bacbb3088ea75c131f93037]
+### 11. Insertion of regulation 27C into the Building Regulations[^c-b1c055bd6bacbb3088ea75c131f93037]
 
 After regulation 27B (fabric performance values calculations) insert—
 
@@ -168,7 +168,7 @@ After regulation 27B (fabric performance values calculations) insert—
 >
 > (4) A local authority is authorised to accept as evidence that the requirements of regulation 26C have been satisfied, a certificate to that effect by an energy assessor who is accredited to produce energy performance certificates for that category of building.
 
-### 12. Insertion of regulations 40A and 40B into the Building Regulations[^key-e51659f8d0beb580c257e275ab2d2f33]
+### 12. Insertion of regulations 40A and 40B into the Building Regulations[^c-e51659f8d0beb580c257e275ab2d2f33]
 
 After regulation 40 (information about use of fuel and power) insert—
 
@@ -184,7 +184,7 @@ After regulation 40 (information about use of fuel and power) insert—
 >
 > (2) The person carrying out the work must, not later than five days after the work has been completed, give sufficient information to the owner about the provision made in accordance with Part O so that the systems in place further to Part O can be operated in such a manner as to protect against overheating.
 
-### 13. Amendment of regulation 42 of the Building Regulations[^key-1c1530e8a626acce5717bd54f60b0028]
+### 13. Amendment of regulation 42 of the Building Regulations[^c-1c1530e8a626acce5717bd54f60b0028]
 
 In regulation 42 (mechanical ventilation air flow rate testing)—
 
@@ -200,11 +200,11 @@ In regulation 42 (mechanical ventilation air flow rate testing)—
   ;
 - (b) in paragraph (2)(b), for “.” substitute “, other than when Schedules 3 or 4 apply.”
 
-### 14. Amendment of regulation 43 of the Building Regulations[^key-0c05bded6fd255c4f1f3a21abd267b09]
+### 14. Amendment of regulation 43 of the Building Regulations[^c-0c05bded6fd255c4f1f3a21abd267b09]
 
 In regulation 43(4) (pressure testing), for “the Independent Airtightness Testing Scheme Limited” substitute “Elmhurst Energy Systems Limited”.
 
-### 15. Insertion of regulation 44ZA into the Building Regulations[^key-63ec917d49042715d4652affadb02f8c]
+### 15. Insertion of regulation 44ZA into the Building Regulations[^c-63ec917d49042715d4652affadb02f8c]
 
 After regulation 44 (commissioning) insert—
 
@@ -219,7 +219,7 @@ After regulation 44 (commissioning) insert—
 > - (a) not later than the date on which the notice required by regulation 16(4) is required to be given; or
 > - (b) where that regulation does not apply, not more than 30 days after completion of the work.
 
-### 16. Amendment of Schedule 1 to the Building Regulations[^key-fb2d4338e5b8b6f14d35a0c76c05df0a]
+### 16. Amendment of Schedule 1 to the Building Regulations[^c-fb2d4338e5b8b6f14d35a0c76c05df0a]
 
 In Schedule 1 (requirements)—
 
@@ -241,7 +241,7 @@ In Schedule 1 (requirements)—
   > </tbody>
   > </table>
 
-### 17. Amendment of Schedule 3 to the Building Regulations[^key-5dcee62067b905effb67a4c1d611518a]
+### 17. Amendment of Schedule 3 to the Building Regulations[^c-5dcee62067b905effb67a4c1d611518a]
 
 (1) Schedule 3 (self-certification schemes and exemptions from requirement to give building notice or deposit full plans) is amended as follows.
 
@@ -272,26 +272,26 @@ In Schedule 1 (requirements)—
 
 ## PART 3 — Amendment of the Approved Inspectors Regulations
 
-### 18. Amendment of the Approved Inspectors Regulations[^key-d13ae423f19931da90c8a9bec0c573f9]
+### 18. Amendment of the Approved Inspectors Regulations[^c-d13ae423f19931da90c8a9bec0c573f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Amendment of regulation 8 of the Approved Inspectors Regulations[^key-d13ae423f19931da90c8a9bec0c573f9]
+### 19. Amendment of regulation 8 of the Approved Inspectors Regulations[^c-d13ae423f19931da90c8a9bec0c573f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Amendment of regulation 20 of the Approved Inspectors Regulations[^key-d13ae423f19931da90c8a9bec0c573f9]
+### 20. Amendment of regulation 20 of the Approved Inspectors Regulations[^c-d13ae423f19931da90c8a9bec0c573f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Transitional Provision
 
-### 21. Transitional provision[^key-9d0ba3679d682f13e68e242428ffc0af]
+### 21. Transitional provision[^c-9d0ba3679d682f13e68e242428ffc0af]
 
-(1) The amendments made by Parts 2 and 3 of these Regulations (other than regulations 14 and 17)[^key-c155795f9befcfe66f054849741ec9f0] do not apply in a case where—
+(1) The amendments made by Parts 2 and 3 of these Regulations (other than regulations 14 and 17)[^c-c155795f9befcfe66f054849741ec9f0] do not apply in a case where—
 
 - (a) building work on a particular building has been commenced prior to the day these Regulations come into force in accordance with any relevant notification provision, or
-- (b) a relevant notification provision has been complied with in relation to proposed building work on an individual building prior to the day these Regulations come into force[^key-8c7309b495a661d9ea872eb21e1d0284] and the building work has commenced within 12 months beginning with the day these Regulations come into force , or[^key-55d4367f42278ff1f7d0bbcf70b37b2d]
+- (b) a relevant notification provision has been complied with in relation to proposed building work on an individual building prior to the day these Regulations come into force[^c-8c7309b495a661d9ea872eb21e1d0284] and the building work has commenced within 12 months beginning with the day these Regulations come into force , or[^c-55d4367f42278ff1f7d0bbcf70b37b2d]
 - (c) a relevant notification provision has been complied with before 31 July 2014 and building work has commenced before 31 July 2015 in accordance with the relevant notification provision.
 
 (2) In this regulation, “**relevant notification provision**” means regulation 12(2) of the Building Regulations and sections 47(1), 50, 51A(2) and 54 of the Building Act 1984.
@@ -326,50 +326,50 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: Section 14(7) was added by the 2009 Order.
 
-[^key-27c90549dc86157d46413e5abfad6964]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/564/regulation/1) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
+[^c-27c90549dc86157d46413e5abfad6964]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/564/regulation/1) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
 
 [^f00004]: Footnote: [S.I. 2010/2215](https://www.legislation.gov.uk/uksi/2010/2215), amended by [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [2013/747 (W. 89)](https://www.legislation.gov.uk/wsi/2013/747), [2013/1959](https://www.legislation.gov.uk/uksi/2013/1959), [2014/58 (W. 5)](https://www.legislation.gov.uk/wsi/2014/58), [2014/110 (W. 5)](https://www.legislation.gov.uk/wsi/2014/110), [2016/611 (W. 168)](https://www.legislation.gov.uk/wsi/2016/611), [2018/558 (W. 97)](https://www.legislation.gov.uk/wsi/2018/97); there are other amending instruments but none are relevant.
 
 [^f00005]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214), amended by [S.I. 2013/747 (W. 89)](https://www.legislation.gov.uk/wsi/2013/747), [2013/2621 (W. 258)](https://www.legislation.gov.uk/wsi/2013/2621), [2014/110 (W. 10)](https://www.legislation.gov.uk/wsi/2014/110), [2015/1486 (W. 10)](https://www.legislation.gov.uk/wsi/2015/1486), [2016/611 (W. 168)](https://www.legislation.gov.uk/wsi/2016/611), [2018/558 (W. 97)](https://www.legislation.gov.uk/wsi/2018/558); there are other amending instruments but none are relevant.
 
-[^key-49bff48b88f8806c98d42226f71a1c32]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/564/regulation/2) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
+[^c-49bff48b88f8806c98d42226f71a1c32]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/564/regulation/2) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
 
-[^key-abcd76490c03ea0696bd7be026c57fda]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/564/regulation/3) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
+[^c-abcd76490c03ea0696bd7be026c57fda]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/564/regulation/3) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
 
-[^key-42b259cb403f91bcc1fa96a14aaf85c2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/564/regulation/4) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
+[^c-42b259cb403f91bcc1fa96a14aaf85c2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/564/regulation/4) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
 
-[^key-afc82d72637dbb70e38e4db762194008]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/564/regulation/5) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
+[^c-afc82d72637dbb70e38e4db762194008]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/564/regulation/5) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
 
-[^key-805ca3dc3475247b252484d0f23e576c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/564/regulation/6) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
+[^c-805ca3dc3475247b252484d0f23e576c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/564/regulation/6) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
 
-[^key-f89d0a8c6d24fe6bdecfd4e11249abd0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/564/regulation/7) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
+[^c-f89d0a8c6d24fe6bdecfd4e11249abd0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/564/regulation/7) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
 
-[^key-aca55dd6ee8e0d0612002bb00785f421]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/564/regulation/8) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
+[^c-aca55dd6ee8e0d0612002bb00785f421]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/564/regulation/8) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
 
-[^key-689b5e5420f421e33f097a7677218a7c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2022/564/regulation/9) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
+[^c-689b5e5420f421e33f097a7677218a7c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2022/564/regulation/9) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
 
-[^key-cb8a0315309b47155d0779c01bcdef62]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2022/564/regulation/10) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
+[^c-cb8a0315309b47155d0779c01bcdef62]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2022/564/regulation/10) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
 
-[^key-b1c055bd6bacbb3088ea75c131f93037]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2022/564/regulation/11) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
+[^c-b1c055bd6bacbb3088ea75c131f93037]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2022/564/regulation/11) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
 
-[^key-e51659f8d0beb580c257e275ab2d2f33]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2022/564/regulation/12) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
+[^c-e51659f8d0beb580c257e275ab2d2f33]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2022/564/regulation/12) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
 
-[^key-1c1530e8a626acce5717bd54f60b0028]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2022/564/regulation/13) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
+[^c-1c1530e8a626acce5717bd54f60b0028]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2022/564/regulation/13) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
 
-[^key-0c05bded6fd255c4f1f3a21abd267b09]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2022/564/regulation/14) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
+[^c-0c05bded6fd255c4f1f3a21abd267b09]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2022/564/regulation/14) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
 
-[^key-63ec917d49042715d4652affadb02f8c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2022/564/regulation/15) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
+[^c-63ec917d49042715d4652affadb02f8c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2022/564/regulation/15) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
 
-[^key-fb2d4338e5b8b6f14d35a0c76c05df0a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2022/564/regulation/16) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
+[^c-fb2d4338e5b8b6f14d35a0c76c05df0a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2022/564/regulation/16) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
 
-[^key-5dcee62067b905effb67a4c1d611518a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2022/564/regulation/17) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
+[^c-5dcee62067b905effb67a4c1d611518a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2022/564/regulation/17) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
 
-[^key-d13ae423f19931da90c8a9bec0c573f9]: Textual amendment: [Regs. 18-20](https://www.legislation.gov.uk/wsi/2022/564/regulation/18) revoked (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [42(2)(f)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42/2/f)
+[^c-d13ae423f19931da90c8a9bec0c573f9]: Textual amendment: [Regs. 18-20](https://www.legislation.gov.uk/wsi/2022/564/regulation/18) revoked (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [42(2)(f)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42/2/f)
 
-[^key-9d0ba3679d682f13e68e242428ffc0af]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2022/564/regulation/21) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
+[^c-9d0ba3679d682f13e68e242428ffc0af]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2022/564/regulation/21) in force at 23.11.2022, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3)
 
-[^key-c155795f9befcfe66f054849741ec9f0]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/wsi/2022/564/regulation/21/1) inserted (22.11.2022) by [The Building (Amendment) (Wales) (No. 2) Regulations 2022 (S.I. 2022/993)](https://www.legislation.gov.uk/wsi/2022/993), [regs. 1(3)(a)](https://www.legislation.gov.uk/wsi/2022/993/regulation/1/3/a), [3(2)(a)](https://www.legislation.gov.uk/wsi/2022/993/regulation/3/2/a)
+[^c-c155795f9befcfe66f054849741ec9f0]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/wsi/2022/564/regulation/21/1) inserted (22.11.2022) by [The Building (Amendment) (Wales) (No. 2) Regulations 2022 (S.I. 2022/993)](https://www.legislation.gov.uk/wsi/2022/993), [regs. 1(3)(a)](https://www.legislation.gov.uk/wsi/2022/993/regulation/1/3/a), [3(2)(a)](https://www.legislation.gov.uk/wsi/2022/993/regulation/3/2/a)
 
-[^key-8c7309b495a661d9ea872eb21e1d0284]: Textual amendment: Words in [reg. 21(1)(b)](https://www.legislation.gov.uk/wsi/2022/564/regulation/21/1/b) inserted (22.11.2022) by [The Building (Amendment) (Wales) (No. 2) Regulations 2022 (S.I. 2022/993)](https://www.legislation.gov.uk/wsi/2022/993), [regs. 1(3)(a)](https://www.legislation.gov.uk/wsi/2022/993/regulation/1/3/a), [3(2)(b)](https://www.legislation.gov.uk/wsi/2022/993/regulation/3/2/b)
+[^c-8c7309b495a661d9ea872eb21e1d0284]: Textual amendment: Words in [reg. 21(1)(b)](https://www.legislation.gov.uk/wsi/2022/564/regulation/21/1/b) inserted (22.11.2022) by [The Building (Amendment) (Wales) (No. 2) Regulations 2022 (S.I. 2022/993)](https://www.legislation.gov.uk/wsi/2022/993), [regs. 1(3)(a)](https://www.legislation.gov.uk/wsi/2022/993/regulation/1/3/a), [3(2)(b)](https://www.legislation.gov.uk/wsi/2022/993/regulation/3/2/b)
 
-[^key-55d4367f42278ff1f7d0bbcf70b37b2d]: Textual amendment: [Reg. 21(1)(c)](https://www.legislation.gov.uk/wsi/2022/564/regulation/21/1/c) and word inserted (22.11.2022) by [The Building (Amendment) (Wales) (No. 2) Regulations 2022 (S.I. 2022/993)](https://www.legislation.gov.uk/wsi/2022/993), [regs. 1(3)(a)](https://www.legislation.gov.uk/wsi/2022/993/regulation/1/3/a), [3(2)(c)](https://www.legislation.gov.uk/wsi/2022/993/regulation/3/2/c)
+[^c-55d4367f42278ff1f7d0bbcf70b37b2d]: Textual amendment: [Reg. 21(1)(c)](https://www.legislation.gov.uk/wsi/2022/564/regulation/21/1/c) and word inserted (22.11.2022) by [The Building (Amendment) (Wales) (No. 2) Regulations 2022 (S.I. 2022/993)](https://www.legislation.gov.uk/wsi/2022/993), [regs. 1(3)(a)](https://www.legislation.gov.uk/wsi/2022/993/regulation/1/3/a), [3(2)(c)](https://www.legislation.gov.uk/wsi/2022/993/regulation/3/2/c)

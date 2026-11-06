@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Amendment of the National Health Service (General Ophthalmic Services) (Scotland) Regulations 2006[^key-281a143b80142d33c5b4ecd76ac31a2e]
+## 20. Amendment of the National Health Service (General Ophthalmic Services) (Scotland) Regulations 2006[^c-281a143b80142d33c5b4ecd76ac31a2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-281a143b80142d33c5b4ecd76ac31a2e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2023/1071/regulation/20) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-281a143b80142d33c5b4ecd76ac31a2e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2023/1071/regulation/20) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00017]: Footnote: [S.S.I. 2006/135](https://www.legislation.gov.uk/ssi/2006/135), amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235); there are other amending instruments but none is relevant.

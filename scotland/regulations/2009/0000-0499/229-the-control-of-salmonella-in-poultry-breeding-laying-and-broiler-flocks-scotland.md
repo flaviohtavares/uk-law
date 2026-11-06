@@ -63,10 +63,10 @@ In this Order–
 - “**breeding flock**” means a flock kept for the production of eggs intended for incubation;
 - “**broiler flock**” means a flock kept for the production of meat intended for human consumption;
 - “**chick**” means a bird less than 72 hours old that has not been fed;
-- [^key-019193b76dce90ec16fe7864a4f017d7]...
-- [^key-019193b76dce90ec16fe7864a4f017d7]...
-- [^key-019193b76dce90ec16fe7864a4f017d7]...
-- “[^key-2d1810d463ff43a4fd37ec9a929e8820]**Commission Regulation (EU) No 200/2010**” means Commission Regulation (EU) No 200/2010 implementing Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council as regards a Union target for the reduction of the prevalence of *Salmonella* serotypes in adult breeding flocks of *Gallus gallus*, as amended from time to time;
+- [^c-019193b76dce90ec16fe7864a4f017d7]...
+- [^c-019193b76dce90ec16fe7864a4f017d7]...
+- [^c-019193b76dce90ec16fe7864a4f017d7]...
+- “[^c-2d1810d463ff43a4fd37ec9a929e8820]**Commission Regulation (EU) No 200/2010**” means Commission Regulation (EU) No 200/2010 implementing Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council as regards a Union target for the reduction of the prevalence of *Salmonella* serotypes in adult breeding flocks of *Gallus gallus*, as amended from time to time;
 - “**Commission Regulation (EU) No 517/2011**” means Commission Regulation (EU) No 517/2011 implementing Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council as regards a Union target for the reduction of the prevalence of certain *Salmonella* serotypes in laying hens of *Gallus gallus* and amending Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) and Commission Regulation (EU) No. 200/2010, as amended from time to time;
 - “**Commission Regulation (EU) No 200/2012**” means Commission Regulation (EU) No 200/2012 concerning a Union target for the reduction of *Salmonella enteritidis* and *Salmonella typhimurium* in flocks of broilers, as provided for in Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council, as amended from time to time;
 - “**Commission Regulation [(EC) No. 646/2007](https://www.legislation.gov.uk/european/regulation/2007/0646)**” means Commission Regulation [(EC) No. 646/2007](https://www.legislation.gov.uk/european/regulation/2007/0646) implementing Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council as regards a Community target for the reduction of the prevalence of *Salmonella enteritidis* and *Salmonella typhimurium* in broilers and repealing Regulation [(EC) No. 1091/2005](https://www.legislation.gov.uk/european/regulation/2005/1091) [^c19721681], as amended from time to time;
@@ -83,10 +83,10 @@ In this Order–
 The Scottish Ministers are the competent authority for the purposes of–
 
 - (a) Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160);
-- (b) Commission Regulation ([^key-77f572e4f063f910d4b7a88cebe9f00b]EU) No 200/2010;
-- (c) Commission Regulation ([^key-4dea7d7dd5598b0e8d4399535a4b2eff]EU) No 517/2011 ;
+- (b) Commission Regulation ([^c-77f572e4f063f910d4b7a88cebe9f00b]EU) No 200/2010;
+- (c) Commission Regulation ([^c-4dea7d7dd5598b0e8d4399535a4b2eff]EU) No 517/2011 ;
 - (d) Commission Regulation [(EC) No. 1177/2006](https://www.legislation.gov.uk/european/regulation/2006/1177); and
-- (e) Commission Regulation ([^key-07fd19dc9bce13056b4127a239cda9f7]EU) No 200/2012.
+- (e) Commission Regulation ([^c-07fd19dc9bce13056b4127a239cda9f7]EU) No 200/2012.
 
 ## 4. Notification of poultry hatcheries
 
@@ -172,15 +172,15 @@ Where eggs or chicks are moved into or out of a hatchery the occupier must recor
 
 ## 8. Sampling
 
-(1) The occupier must carry out sampling for breeding flocks in accordance with the Annex to Commission Regulation ([^key-ad82bf89225eb1fabe7b876ab118e6ea]EU) No 200/2010.
+(1) The occupier must carry out sampling for breeding flocks in accordance with the Annex to Commission Regulation ([^c-ad82bf89225eb1fabe7b876ab118e6ea]EU) No 200/2010.
 
-(2) The occupier must carry out sampling for laying flocks in accordance with the Annex to Commission Regulation ([^key-d7485b7bce0b059c32bb8c0673508c7c]EU) No 517/2011.
+(2) The occupier must carry out sampling for laying flocks in accordance with the Annex to Commission Regulation ([^c-d7485b7bce0b059c32bb8c0673508c7c]EU) No 517/2011.
 
-(3) The occupier must carry out sampling for broiler flocks in accordance with the Annex to Commission Regulation ([^key-bb319d7429be147b7a7d3c466c438a86]EU) No 200/2012.
+(3) The occupier must carry out sampling for broiler flocks in accordance with the Annex to Commission Regulation ([^c-bb319d7429be147b7a7d3c466c438a86]EU) No 200/2012.
 
 ## 9. Submission of samples to an approved laboratory
 
-(1) The occupier must, on the day a sample is taken in accordance with Commission Regulation ([^key-8f6af3c7dbf7cd35d29c875553e9e37f]EU) No 200/2010, Commission Regulation ([^key-4ccddd63769bc413edf2e45dac8ca7e8]EU) No 517/2011 or Commission Regulation ([^key-73d88478401264b22ec4233737e09c33]EU) No 200/2012, dispatch it by first class post or courier to a laboratory approved by the Scottish Ministers for the purpose of testing for the presence of salmonella.
+(1) The occupier must, on the day a sample is taken in accordance with Commission Regulation ([^c-8f6af3c7dbf7cd35d29c875553e9e37f]EU) No 200/2010, Commission Regulation ([^c-4ccddd63769bc413edf2e45dac8ca7e8]EU) No 517/2011 or Commission Regulation ([^c-73d88478401264b22ec4233737e09c33]EU) No 200/2012, dispatch it by first class post or courier to a laboratory approved by the Scottish Ministers for the purpose of testing for the presence of salmonella.
 
 (2) In relation to each sample the occupier must provide the following information–
 
@@ -205,7 +205,7 @@ Where eggs or chicks are moved into or out of a hatchery the occupier must recor
 
 ## 11. Records of movements
 
-When poultry from a breeding, laying or[^key-232bdfd024972683cf689d7736ecaafd] broiler flock are moved on to or off a holding the occupier must record–
+When poultry from a breeding, laying or[^c-232bdfd024972683cf689d7736ecaafd] broiler flock are moved on to or off a holding the occupier must record–
 
 - (a) the date of the movement;
 - (b) whether the movement was on to or off the holding;
@@ -219,7 +219,7 @@ When poultry from a breeding, laying or[^key-232bdfd024972683cf689d7736ecaafd] b
 
 (1) The person in charge of a laboratory who receives samples must ensure that samples are refrigerated immediately and that the examination begins within 48 hours of receipt.
 
-(2) The samples must be tested in accordance with point 3 of the Annex to Commission Regulation ([^key-5f5020297261668cc4dc4d3b38a65edd]EU) No 200/2012.
+(2) The samples must be tested in accordance with point 3 of the Annex to Commission Regulation ([^c-5f5020297261668cc4dc4d3b38a65edd]EU) No 200/2012.
 
 ## 13. Prohibition on the use of antimicrobials
 
@@ -283,34 +283,34 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c19721641]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68) (“**the 1972 Act**”). Section 2(2) was amended by paragraph 15(3) of Schedule 8 to the 1998 Act, and section 27(1) of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) (“**the 2006 Act**”). Paragraph 1A of Schedule 2 was inserted by section 28 of the 2006 Act. The powers in section 2(2) are exercised as regards articles 2 and 3. The functions conferred upon the Minister of the Crown under section 2(2) of the 1972 Act, so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
 
-[^key-019193b76dce90ec16fe7864a4f017d7]: Textual amendment: Words in art. 2 omitted (24.6.2013) by virtue of [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/2/a)
+[^c-019193b76dce90ec16fe7864a4f017d7]: Textual amendment: Words in art. 2 omitted (24.6.2013) by virtue of [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/2/a)
 
-[^key-2d1810d463ff43a4fd37ec9a929e8820]: Textual amendment: Words in art. 2 inserted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/2/b)
+[^c-2d1810d463ff43a4fd37ec9a929e8820]: Textual amendment: Words in art. 2 inserted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/2/b)
 
 [^c19721681]: Marginal citation: O.J. No. L 151, 13.6.2007, p.21 as amended by Commission Regulation (EC) No. 584/2008 (O.J. No. L 162, 21.6.2008, p.3).
 
 [^c19721691]: Marginal citation: O.J. No. L 325, 12.12.2003, p.1. This Regulation has been amended by the Community instruments referred to in article 3(b) and (c) of this Order, and by Commission Regulation (EC) No. 1237/2007 (O.J. L 280, 24.10.2007, p.5). It is prospectively amended by Commission Regulation (EC) No. 1237/2007.
 
-[^key-77f572e4f063f910d4b7a88cebe9f00b]: Textual amendment: Words in [art. 3(b)](https://www.legislation.gov.uk/ssi/2009/229/article/3/b) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/3)
+[^c-77f572e4f063f910d4b7a88cebe9f00b]: Textual amendment: Words in [art. 3(b)](https://www.legislation.gov.uk/ssi/2009/229/article/3/b) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/3)
 
-[^key-4dea7d7dd5598b0e8d4399535a4b2eff]: Textual amendment: Words in [art. 3(c)](https://www.legislation.gov.uk/ssi/2009/229/article/3/c) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(4)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/4)
+[^c-4dea7d7dd5598b0e8d4399535a4b2eff]: Textual amendment: Words in [art. 3(c)](https://www.legislation.gov.uk/ssi/2009/229/article/3/c) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(4)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/4)
 
-[^key-07fd19dc9bce13056b4127a239cda9f7]: Textual amendment: Words in [art. 3(e)](https://www.legislation.gov.uk/ssi/2009/229/article/3/e) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(5)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/5)
+[^c-07fd19dc9bce13056b4127a239cda9f7]: Textual amendment: Words in [art. 3(e)](https://www.legislation.gov.uk/ssi/2009/229/article/3/e) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(5)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/5)
 
-[^key-ad82bf89225eb1fabe7b876ab118e6ea]: Textual amendment: Words in art. 8(1) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/3)
+[^c-ad82bf89225eb1fabe7b876ab118e6ea]: Textual amendment: Words in art. 8(1) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/3)
 
-[^key-d7485b7bce0b059c32bb8c0673508c7c]: Textual amendment: Words in art. 8(2) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(4)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/4)
+[^c-d7485b7bce0b059c32bb8c0673508c7c]: Textual amendment: Words in art. 8(2) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(4)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/4)
 
-[^key-bb319d7429be147b7a7d3c466c438a86]: Textual amendment: Words in art. 8(3) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(5)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/5)
+[^c-bb319d7429be147b7a7d3c466c438a86]: Textual amendment: Words in art. 8(3) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(5)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/5)
 
-[^key-8f6af3c7dbf7cd35d29c875553e9e37f]: Textual amendment: Words in art. 9(1) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/3)
+[^c-8f6af3c7dbf7cd35d29c875553e9e37f]: Textual amendment: Words in art. 9(1) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/3)
 
-[^key-4ccddd63769bc413edf2e45dac8ca7e8]: Textual amendment: Words in art. 9(1) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(4)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/4)
+[^c-4ccddd63769bc413edf2e45dac8ca7e8]: Textual amendment: Words in art. 9(1) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(4)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/4)
 
-[^key-73d88478401264b22ec4233737e09c33]: Textual amendment: Words in art. 9(1) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(5)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/5)
+[^c-73d88478401264b22ec4233737e09c33]: Textual amendment: Words in art. 9(1) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(5)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/5)
 
-[^key-232bdfd024972683cf689d7736ecaafd]: Textual amendment: Words in [art. 11](https://www.legislation.gov.uk/ssi/2009/229/article/11) inserted (29.5.2025) by [The Disease Control (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/108)](https://www.legislation.gov.uk/ssi/2025/108), [arts. 1](https://www.legislation.gov.uk/ssi/2025/108/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/108/article/3/2)
+[^c-232bdfd024972683cf689d7736ecaafd]: Textual amendment: Words in [art. 11](https://www.legislation.gov.uk/ssi/2009/229/article/11) inserted (29.5.2025) by [The Disease Control (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/108)](https://www.legislation.gov.uk/ssi/2025/108), [arts. 1](https://www.legislation.gov.uk/ssi/2025/108/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/108/article/3/2)
 
-[^key-5f5020297261668cc4dc4d3b38a65edd]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/ssi/2009/229/article/12/2) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(6)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/6)
+[^c-5f5020297261668cc4dc4d3b38a65edd]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/ssi/2009/229/article/12/2) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [5(6)](https://www.legislation.gov.uk/ssi/2013/151/regulation/5/6)
 
 [^c19721701]: Marginal citation: [S.S.I. 2008/266](https://www.legislation.gov.uk/ssi/2008/266).

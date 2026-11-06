@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Extent[^key-01cfcbb65249ec7d35a5a41e19ac0873][^key-f5f5de5a4248b59eb5002a39cccc48c2]
+## 2. Extent[^c-01cfcbb65249ec7d35a5a41e19ac0873][^c-f5f5de5a4248b59eb5002a39cccc48c2]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-01cfcbb65249ec7d35a5a41e19ac0873]: Commencement: Art. 2 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-01cfcbb65249ec7d35a5a41e19ac0873]: Commencement: Art. 2 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-f5f5de5a4248b59eb5002a39cccc48c2]: Commencement: Art. 2 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/b)
+[^c-f5f5de5a4248b59eb5002a39cccc48c2]: Commencement: Art. 2 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/b)

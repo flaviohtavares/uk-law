@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Members' expenses[^key-7d9677bc101d0bb4e92bb1d22b2031c6]
+## 10. Members' expenses[^c-7d9677bc101d0bb4e92bb1d22b2031c6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Regulator may pay to its members such sums as it may determine by way of rei
 
 ## Annotations
 
-[^key-7d9677bc101d0bb4e92bb1d22b2031c6]: Commencement: S. 10 in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-7d9677bc101d0bb4e92bb1d22b2031c6]: Commencement: S. 10 in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

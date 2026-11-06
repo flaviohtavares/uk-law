@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Visitor permits[^key-2df6fef3bbe9c3eae49509fd0dd76000][^key-1cce098e5a605bf3b34535817aca071d]
+## 13. Visitor permits[^c-2df6fef3bbe9c3eae49509fd0dd76000][^c-1cce098e5a605bf3b34535817aca071d]
 
 *Extent: S*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2df6fef3bbe9c3eae49509fd0dd76000]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2015/10/section/13) in force at 1.7.2016 for specified purposes by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))
+[^c-2df6fef3bbe9c3eae49509fd0dd76000]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2015/10/section/13) in force at 1.7.2016 for specified purposes by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))
 
-[^key-1cce098e5a605bf3b34535817aca071d]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2015/10/section/13) in force at 31.12.2016 in so far as not already in force by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-1cce098e5a605bf3b34535817aca071d]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2015/10/section/13) in force at 31.12.2016 in so far as not already in force by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))

@@ -44,7 +44,7 @@ paragraph (2) does not apply during the initial period.
 (5) As regards a further employment in HSC employment—
 
 - (a) paragraph (2) applies from the first tier 1 ill-health pension payment date which falls after the first anniversary of the member's re-entry into HSC employment, whether or not that day is part of a continuous period of further HSC employment beginning with entry into that employment, and
-- (b) the member may not rejoin this Section of[^key-81dd7875b1bbfd43362e32080d694274] the Scheme in respect of that employment or any other HSC employment until after the first anniversary of the member's re-entry into HSC employment, whether or not that or any other HSC employment is an excluded employment.
+- (b) the member may not rejoin this Section of[^c-81dd7875b1bbfd43362e32080d694274] the Scheme in respect of that employment or any other HSC employment until after the first anniversary of the member's re-entry into HSC employment, whether or not that or any other HSC employment is an excluded employment.
 
 (6) For the purposes of this regulation—
 
@@ -85,4 +85,4 @@ may apply to the Department under this paragraph to become entitled to a tier 2 
 
 ## Annotations
 
-[^key-81dd7875b1bbfd43362e32080d694274]: Textual amendment: Words in [reg. 239(5)(b)](https://www.legislation.gov.uk/nisr/2008/256/regulation/239/5/b) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-81dd7875b1bbfd43362e32080d694274]: Textual amendment: Words in [reg. 239(5)(b)](https://www.legislation.gov.uk/nisr/2008/256/regulation/239/5/b) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)

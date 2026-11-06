@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Privileges of the Joint European Torus) Order 1978 (revoked)[^key-38f8efd04dfacf5c711658e65914a1c5]
+The European Communities (Privileges of the Joint European Torus) Order 1978 (revoked)[^c-38f8efd04dfacf5c711658e65914a1c5]
 
 Laid before Parliament in draft
 
@@ -43,36 +43,36 @@ Coming into Operation
 
 26th July 1978
 
-[^key-38f8efd04dfacf5c711658e65914a1c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38f8efd04dfacf5c711658e65914a1c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-38f8efd04dfacf5c711658e65914a1c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-38f8efd04dfacf5c711658e65914a1c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-38f8efd04dfacf5c711658e65914a1c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-38f8efd04dfacf5c711658e65914a1c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-38f8efd04dfacf5c711658e65914a1c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-38f8efd04dfacf5c711658e65914a1c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-38f8efd04dfacf5c711658e65914a1c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38f8efd04dfacf5c711658e65914a1c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-38f8efd04dfacf5c711658e65914a1c5]
+## SCHEDULE[^c-38f8efd04dfacf5c711658e65914a1c5]
 
-**1.**[^key-38f8efd04dfacf5c711658e65914a1c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-38f8efd04dfacf5c711658e65914a1c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-38f8efd04dfacf5c711658e65914a1c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-38f8efd04dfacf5c711658e65914a1c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-38f8efd04dfacf5c711658e65914a1c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-38f8efd04dfacf5c711658e65914a1c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-38f8efd04dfacf5c711658e65914a1c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-38f8efd04dfacf5c711658e65914a1c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-38f8efd04dfacf5c711658e65914a1c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-38f8efd04dfacf5c711658e65914a1c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-38f8efd04dfacf5c711658e65914a1c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38f8efd04dfacf5c711658e65914a1c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-38f8efd04dfacf5c711658e65914a1c5]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1978/1033) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-38f8efd04dfacf5c711658e65914a1c5]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1978/1033) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

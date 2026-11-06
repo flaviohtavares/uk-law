@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Decisions taken by the Authority giving effect to friendly society tribunal determinations[^key-0e51c44676915e7a718ad5614f51bb41]
+## 122. Decisions taken by the Authority giving effect to friendly society tribunal determinations[^c-0e51c44676915e7a718ad5614f51bb41]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e51c44676915e7a718ad5614f51bb41]: Commencement: Art. 122 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-0e51c44676915e7a718ad5614f51bb41]: Commencement: Art. 122 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

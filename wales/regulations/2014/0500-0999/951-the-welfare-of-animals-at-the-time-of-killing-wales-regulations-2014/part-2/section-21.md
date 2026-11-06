@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Refusal to modify a certificate or licence[^key-70af4000d78771d276943b3a89c16259]
+## 21. Refusal to modify a certificate or licence[^c-70af4000d78771d276943b3a89c16259]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70af4000d78771d276943b3a89c16259]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2014/951/regulation/21) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-70af4000d78771d276943b3a89c16259]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2014/951/regulation/21) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

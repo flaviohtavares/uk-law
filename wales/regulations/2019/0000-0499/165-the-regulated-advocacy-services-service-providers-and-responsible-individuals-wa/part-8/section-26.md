@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Compliance with employer's code of practice[^key-415e7215d5abb2b17ac1c2a0075b9b16]
+## 26. Compliance with employer's code of practice[^c-415e7215d5abb2b17ac1c2a0075b9b16]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must adhere to the code of practice on the standards of con
 
 ## Annotations
 
-[^key-415e7215d5abb2b17ac1c2a0075b9b16]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2019/165/regulation/26) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-415e7215d5abb2b17ac1c2a0075b9b16]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2019/165/regulation/26) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

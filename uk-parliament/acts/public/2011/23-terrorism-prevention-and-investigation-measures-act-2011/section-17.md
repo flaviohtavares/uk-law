@@ -32,12 +32,12 @@ summary: ''
 - (a) a decision made by the Secretary of State in exercise or performance of any power or duty under any of sections 2 to 15 or under Schedule 1 or 2;
 - (b) a decision made by the Secretary of State for the purposes of, or in connection with, the exercise or performance of any such power or duty;
 - (c) a decision by a constable to give a direction by virtue of paragraph 4 of Schedule 1 (movement directions measure) or paragraph 10(1)(b) of that Schedule (reporting measure);
-- (ca)[^key-505187f73880a822dfb525fa078339da] a decision by a polygraph operator to give an instruction by virtue of paragraph 10ZA(1)(c) of Schedule 1 (polygraph measure);
-- (cb)[^key-6fba100eb28b2557fad2b2b0c2f368f0] a decision by an authorised person to give a direction by virtue of paragraph 10ZB(1)(b) of Schedule 1 (drug testing measure);
+- (ca)[^c-505187f73880a822dfb525fa078339da] a decision by a polygraph operator to give an instruction by virtue of paragraph 10ZA(1)(c) of Schedule 1 (polygraph measure);
+- (cb)[^c-6fba100eb28b2557fad2b2b0c2f368f0] a decision by an authorised person to give a direction by virtue of paragraph 10ZB(1)(b) of Schedule 1 (drug testing measure);
 - (d) a decision by a person to give a direction by virtue of paragraph 12(2)(d) of Schedule 1 (monitoring measure).
 
 ## Annotations
 
-[^key-505187f73880a822dfb525fa078339da]: Textual amendment: [S. 17(3)(ca)](https://www.legislation.gov.uk/ukpga/2011/23/section/17/3/ca) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/38/2), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
+[^c-505187f73880a822dfb525fa078339da]: Textual amendment: [S. 17(3)(ca)](https://www.legislation.gov.uk/ukpga/2011/23/section/17/3/ca) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/38/2), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
 
-[^key-6fba100eb28b2557fad2b2b0c2f368f0]: Textual amendment: [S. 17(3)(cb)](https://www.legislation.gov.uk/ukpga/2011/23/section/17/3/cb) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/39/2), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
+[^c-6fba100eb28b2557fad2b2b0c2f368f0]: Textual amendment: [S. 17(3)(cb)](https://www.legislation.gov.uk/ukpga/2011/23/section/17/3/cb) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/39/2), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)

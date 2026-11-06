@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Disclosure of information relating to foreign-registered vehicles[^key-27c18966f48344a5a9f0b7226fc341ad]
+## 129. Disclosure of information relating to foreign-registered vehicles[^c-27c18966f48344a5a9f0b7226fc341ad]
 
 *Extent: E+W+S*
 
@@ -74,4 +74,4 @@ After section 49 of the Road Safety Act 2006 (c. 49) (disclosure to foreign auth
 
 ## Annotations
 
-[^key-27c18966f48344a5a9f0b7226fc341ad]: Commencement: S. 129 in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-27c18966f48344a5a9f0b7226fc341ad]: Commencement: S. 129 in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

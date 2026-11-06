@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Repair of landing places, etc.[^key-03947fb78b816b2c354a83384c4f21b9]
+## 20. Repair of landing places, etc.[^c-03947fb78b816b2c354a83384c4f21b9]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ to remedy its condition to the Council’s reasonable satisfaction within a reas
 
 ## Annotations
 
-[^key-03947fb78b816b2c354a83384c4f21b9]: Commencement: Art. 20 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-03947fb78b816b2c354a83384c4f21b9]: Commencement: Art. 20 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

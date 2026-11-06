@@ -24,7 +24,7 @@ summary: ''
 
 (1A)[^c23380171] This Article applies to the following bodies—
 
-- (a)[^key-6c5f8bd445e4bd656236fea902b65dea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-6c5f8bd445e4bd656236fea902b65dea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the Regional Agency;
 - (c) RBSO;
 - (d) HSC trusts; and
@@ -44,4 +44,4 @@ summary: ''
 
 [^c23380171]: Textual amendment: [Art. 53(1A)](https://www.legislation.gov.uk/nisi/1972/1265/article/53/1A) inserted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [s. 34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 3(26)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/3/26); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-6c5f8bd445e4bd656236fea902b65dea]: Textual amendment: [Art. 53(1A)(a)](https://www.legislation.gov.uk/nisi/1972/1265/article/53/1A/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 18](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/18); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-6c5f8bd445e4bd656236fea902b65dea]: Textual amendment: [Art. 53(1A)(a)](https://www.legislation.gov.uk/nisi/1972/1265/article/53/1A/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 18](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/18); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

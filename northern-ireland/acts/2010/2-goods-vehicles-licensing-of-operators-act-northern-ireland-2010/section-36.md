@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Forgery of documents etc[^key-2154e9dac3cd3404d60a52967e8c1278]
+## 36. Forgery of documents etc[^c-2154e9dac3cd3404d60a52967e8c1278]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ is guilty of an offence.
 
 ## Annotations
 
-[^key-2154e9dac3cd3404d60a52967e8c1278]: Commencement: S. 36 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-2154e9dac3cd3404d60a52967e8c1278]: Commencement: S. 36 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

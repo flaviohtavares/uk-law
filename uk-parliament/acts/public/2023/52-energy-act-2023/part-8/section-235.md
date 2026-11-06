@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 235. Penalties[^key-5ea0ae7e0dcc1c4566feea51ca8eb0b1]
+## 235. Penalties[^c-5ea0ae7e0dcc1c4566feea51ca8eb0b1]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ea0ae7e0dcc1c4566feea51ca8eb0b1]: Commencement: S. 235 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-5ea0ae7e0dcc1c4566feea51ca8eb0b1]: Commencement: S. 235 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

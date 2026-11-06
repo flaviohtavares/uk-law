@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Meaning of local authority for the purpose of access rights[^key-6726f3000f6463878c1c064489654d18][^key-8e569298e10cf2e23e55f6869da56f44]
+## 9. Meaning of local authority for the purpose of access rights[^c-6726f3000f6463878c1c064489654d18][^c-8e569298e10cf2e23e55f6869da56f44]
 
 *Extent: S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6726f3000f6463878c1c064489654d18]: Commencement: S. 9 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-6726f3000f6463878c1c064489654d18]: Commencement: S. 9 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-8e569298e10cf2e23e55f6869da56f44]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2026/6/section/9) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/g)
+[^c-8e569298e10cf2e23e55f6869da56f44]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2026/6/section/9) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/g)

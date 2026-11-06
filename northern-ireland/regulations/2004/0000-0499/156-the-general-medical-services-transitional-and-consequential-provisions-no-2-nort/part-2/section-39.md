@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Recovery of overpayments[^key-520ba183a58b8660d7c536a5359710d5]
+## 39. Recovery of overpayments[^c-520ba183a58b8660d7c536a5359710d5]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-520ba183a58b8660d7c536a5359710d5]: Commencement: Art. 39 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-520ba183a58b8660d7c536a5359710d5]: Commencement: Art. 39 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
 [^f00025]: Footnote: Regulation 39(2) was amended by [S.R. 1998 No. 9](https://www.legislation.gov.uk/nisr/1998/9)
 

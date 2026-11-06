@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Public Health Notifiable Diseases Order (Northern Ireland) 2021 (revoked)[^key-5d57818569ba2d320bfa7be9a85fc84a]
+The Public Health Notifiable Diseases Order (Northern Ireland) 2021 (revoked)[^c-5d57818569ba2d320bfa7be9a85fc84a]
 
 Made
 
@@ -42,27 +42,27 @@ Coming into operation
 
 8th July 2021
 
-[^key-5d57818569ba2d320bfa7be9a85fc84a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d57818569ba2d320bfa7be9a85fc84a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-5d57818569ba2d320bfa7be9a85fc84a]
+## 1. Citation, commencement and interpretation[^c-5d57818569ba2d320bfa7be9a85fc84a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to Schedule 1 to the Act[^key-5d57818569ba2d320bfa7be9a85fc84a]
+## 2. Amendment to Schedule 1 to the Act[^c-5d57818569ba2d320bfa7be9a85fc84a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-5d57818569ba2d320bfa7be9a85fc84a]
+## 3. Revocation[^c-5d57818569ba2d320bfa7be9a85fc84a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d57818569ba2d320bfa7be9a85fc84a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d57818569ba2d320bfa7be9a85fc84a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Notifiable Diseases[^key-5d57818569ba2d320bfa7be9a85fc84a]
+## SCHEDULE — Notifiable Diseases[^c-5d57818569ba2d320bfa7be9a85fc84a]
 
 Article 2(2)
 
@@ -74,4 +74,4 @@ Article 2(2)
 
 ## Annotations
 
-[^key-5d57818569ba2d320bfa7be9a85fc84a]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2021/160) revoked (7.6.2022) by [The Public Health (Notifiable Diseases) Order (Northern Ireland) 2022 (S.R. 2022/181)](https://www.legislation.gov.uk/nisr/2022/181), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2022/181/article/1/1), [3](https://www.legislation.gov.uk/nisr/2022/181/article/3)
+[^c-5d57818569ba2d320bfa7be9a85fc84a]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2021/160) revoked (7.6.2022) by [The Public Health (Notifiable Diseases) Order (Northern Ireland) 2022 (S.R. 2022/181)](https://www.legislation.gov.uk/nisr/2022/181), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2022/181/article/1/1), [3](https://www.legislation.gov.uk/nisr/2022/181/article/3)

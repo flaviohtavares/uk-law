@@ -45,7 +45,7 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 ## Part I — General
 
-### 1. Citation, commencement and retrospection[^key-5be3fcfcb7d48641436d59e15c7db87e]
+### 1. Citation, commencement and retrospection[^c-5be3fcfcb7d48641436d59e15c7db87e]
 
 (1) These Regulations may be cited as the Local Government (Discretionary Payments) Regulations (Northern Ireland) 2001 and shall come into operation on 28th August 2001 and except as provided in paragraphs (2) and (3) shall have effect from that date.
 
@@ -53,7 +53,7 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 (3) Regulation 31 shall have effect as from 28th December 1994.
 
-### 2. General interpretation[^key-0205fd7cd0f37e176bb395f6b5ee5663]
+### 2. General interpretation[^c-0205fd7cd0f37e176bb395f6b5ee5663]
 
 (1) In these Regulations—
 
@@ -78,7 +78,7 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 ## Part II — Increase of 1996 Order Redundancy Payments
 
-### 3. Power to increase 1996 Order redundancy payments above 1996 Order weekly pay limit[^key-a8a1c5baebd7d55c32da21281862cc1d]
+### 3. Power to increase 1996 Order redundancy payments above 1996 Order weekly pay limit[^c-a8a1c5baebd7d55c32da21281862cc1d]
 
 (1) Where a LGPS member or an assumed member—
 
@@ -96,7 +96,7 @@ the authority may pay him compensation under this regulation.
 
 ### Interpretation
 
-#### 4. Interpretation of Part III[^key-e31087f80c40f2fc4190137622658a7e]
+#### 4. Interpretation of Part III[^c-e31087f80c40f2fc4190137622658a7e]
 
 (1) In this Part—
 
@@ -137,7 +137,7 @@ the authority may pay him compensation under this regulation.
 
 ### Eligibility to benefit under this Part
 
-#### 5. Persons who are eligible to benefit: LGPS members and non-members with relevant disqualification[^key-625599dfc74335048921d51b1d92fe37]
+#### 5. Persons who are eligible to benefit: LGPS members and non-members with relevant disqualification[^c-625599dfc74335048921d51b1d92fe37]
 
 (1) A LGPS member or an assumed member is eligible to benefit under this Part if—
 
@@ -165,7 +165,7 @@ the authority may pay him compensation under this regulation.
 - (a) under regulations made under section 137 of the Local Government Act (Northern Ireland) 1972[^f00015]; or
 - (b) under any instrument made under any provision to the like effect in any other enactment.
 
-#### 6. Application of Part III to assumed members: “relevant disqualification”, “relevant assumptions” and “special service”[^key-0fbce04411ef61cb509aec4c57842065]
+#### 6. Application of Part III to assumed members: “relevant disqualification”, “relevant assumptions” and “special service”[^c-0fbce04411ef61cb509aec4c57842065]
 
 (1) In this Part, in relation to any person, “relevant disqualification” means an act or omission in consequence of which (either alone or taken together with other such acts or omissions) that person has not become, has ceased to be or has not been treated as being a LGPS member, being one of the following acts or omissions—
 
@@ -197,7 +197,7 @@ the authority may pay him compensation under this regulation.
 
 ### Discretionary awards of lump sum and annual compensation to former employees
 
-#### 7. Power to award credited period for compensation purposes[^key-1dca87b6887cc89783082819debfcd28]
+#### 7. Power to award credited period for compensation purposes[^c-1dca87b6887cc89783082819debfcd28]
 
 (1) An employing authority may, not later than 6 months after the material date, credit a person who is eligible to benefit under this Part with a period (the “credited period”) not exceeding the shortest of—
 
@@ -237,7 +237,7 @@ his pre-material date extra service for the purposes of paragraph (3)(*a*)(i) sh
 
 and in this paragraph “similar instrument” means any instrument made under any provision to the like effect in any other enactment.
 
-#### 8. Lump sum compensation[^key-3d8ab19dac15929f30bf23b789885609]
+#### 8. Lump sum compensation[^c-3d8ab19dac15929f30bf23b789885609]
 
 (1) An eligible person who has been granted a credited period under regulation 7 is entitled to receive compensation in the form of a lump sum in accordance with this regulation.
 
@@ -248,7 +248,7 @@ and in this paragraph “similar instrument” means any instrument made under a
 
 he is entitled to receive lump sum compensation of an amount equal to the amount by which that retirement grant would be increased on the relevant assumptions and in accordance with the those Regulations if the total period of his membership were increased by the credited period.
 
-#### 9. Annual compensation: general provisions[^key-fe7c8e66b180a9f1ee2d4a47bc0ea94d]
+#### 9. Annual compensation: general provisions[^c-fe7c8e66b180a9f1ee2d4a47bc0ea94d]
 
 (1) Subject to the following regulations, an eligible person who has been granted a credited period under regulation 7 is entitled to receive annual compensation in accordance with this regulation.
 
@@ -261,7 +261,7 @@ would be increased on the relevant assumptions and in accordance with those Regu
 
 ### Adjustments to compensation: other receipts
 
-#### 10. Limit on annual compensation where entitlement to occupational pension[^key-9cb9f0863987298b64d3be91874c832f]
+#### 10. Limit on annual compensation where entitlement to occupational pension[^c-9cb9f0863987298b64d3be91874c832f]
 
 (1) Where—
 
@@ -301,7 +301,7 @@ any reference in paragraph (1) to the period in respect of which a person is ent
 - “the basic rate”, in relation to annual compensation, means its basic rate for the purposes of the Pensions (Increase) Act (Northern Ireland) 1971[^f00023];
 - “official increases” means any increases under that Act.
 
-#### 11. Redundancy payments[^key-dc084fb2a058d47398969694c9a63dcf]
+#### 11. Redundancy payments[^c-dc084fb2a058d47398969694c9a63dcf]
 
 (1) Where—
 
@@ -326,7 +326,7 @@ any reference in paragraph (1) to the period in respect of which a person is ent
 
 and in this paragraph “the appropriate percentage” means the percentage specified in the Table in Schedule 2 in relation to a person of the eligible person’s age and sex.
 
-#### 12. Other termination payments[^key-5d4a93f4c1c2c9d7d4fd2e8a2f994e3a]
+#### 12. Other termination payments[^c-5d4a93f4c1c2c9d7d4fd2e8a2f994e3a]
 
 (1) Where an eligible person who has been granted a credited period under regulation 7 receives a termination payment to which this regulation applies—
 
@@ -345,7 +345,7 @@ his annual compensation (after any necessary adjustments under regulations 11, 1
 
 (4) In this regulation “termination payment” means the aggregate amount of any lump sum payments made to the eligible person by his employing authority in consequence of or as compensation for the loss of his former employment (other than lump sum compensation or any payment which is an excepted payment in relation to that employment), being payments made under an enactment or a contract or arrangement with that authority.
 
-#### 13. Periodic payments[^key-4c32333750bed5d47ad6049861ea421a]
+#### 13. Periodic payments[^c-4c32333750bed5d47ad6049861ea421a]
 
 (1) Where periodic payments are received by a person in respect of any period, annual compensation is only payable to him in respect of that period if, and to the extent that, after any adjustments necessary under regulations 11, 12, 14, 15, 17 and 18 have been made, it exceeds the amount of the aggregate of those periodic payments.
 
@@ -353,7 +353,7 @@ his annual compensation (after any necessary adjustments under regulations 11, 1
 
 ### Adjustments to compensation: new employment
 
-#### 14. New employment[^key-785a44ccbb64219cfeec59ee0186356b]
+#### 14. New employment[^c-785a44ccbb64219cfeec59ee0186356b]
 
 (1) Where—
 
@@ -375,7 +375,7 @@ the annual compensation shall be reduced in accordance with regulation 15 for so
 
 this regulation applies as if he had again entered a new employment.
 
-#### 15. Reduction of annual compensation during new employment[^key-47149eba5ce7fbb2ed2533276691b4d3]
+#### 15. Reduction of annual compensation during new employment[^c-47149eba5ce7fbb2ed2533276691b4d3]
 
 (1) If during any period during which a person holds a new employment the aggregate annual rate of—
 
@@ -421,7 +421,7 @@ his annual compensation shall only be reduced in relation to his new employment�
 
 but, in relation to a period of special service, paragraph 5(2)(*b*) of that Schedule shall have effect as if the words “or he made” onwards were omitted.
 
-#### 16. Cessation of new employment[^key-6b102b57344661801e04a40fac2fc599]
+#### 16. Cessation of new employment[^c-6b102b57344661801e04a40fac2fc599]
 
 (1) Where—
 
@@ -462,7 +462,7 @@ his pre-material date extra service shall, for the purposes of paragraph (6)(*a*
 
 (9) In this regulation “pre-material date extra service” has the meaning given in regulation 7(3)(*b*).
 
-#### 17. Reduction of annual compensation on cessation of new employment[^key-43aa783031a868716ff915899a0a69c6]
+#### 17. Reduction of annual compensation on cessation of new employment[^c-43aa783031a868716ff915899a0a69c6]
 
 (1) The abatement in a person’s annual compensation referred to in regulation 16(1) is its reduction by an annual sum equal to the relevant fraction of the amount calculated in accordance with paragraph (5); and the amount of the annual compensation as so reduced is in this regulation referred to as “reduced annual compensation”.
 
@@ -493,7 +493,7 @@ his pre-material date extra service shall, for the purposes of paragraph (6)(*a*
 
 ### Surrenders
 
-#### 18. Allocation of part of annual compensation[^key-7d2992c31f2579080e72246cd89f6851]
+#### 18. Allocation of part of annual compensation[^c-7d2992c31f2579080e72246cd89f6851]
 
 (1) Where an eligible person who has been granted a credited period under regulation 7 has been allowed, in accordance with regulation D14 of the LGPS Regulations, to surrender a part of the retirement pension to which he would otherwise be entitled on ceasing to hold his former employment (“the surrendered part”), he may give notice to his employing authority that he wishes this regulation to apply to him.
 
@@ -528,7 +528,7 @@ his pre-material date extra service shall, for the purposes of paragraph (6)(*a*
 
 ### Awards to surviving spouses
 
-#### 19. Entitlement to surviving spouses' short-term and long-term compensation[^key-80ee8d117e0eb50a53a57c44d8ea5545][^key-bfabce5382bcf40daedfcdb8ab10a8d2]
+#### 19. Entitlement to surviving spouses' short-term and long-term compensation[^c-80ee8d117e0eb50a53a57c44d8ea5545][^c-bfabce5382bcf40daedfcdb8ab10a8d2]
 
 (1) This regulation applies where an eligible person who has been granted a credited period under regulation 7 dies and is survived by a spouse or spouses—
 
@@ -548,7 +548,7 @@ and where surviving spouses are jointly entitled to compensation under this regu
 
 (3) If the marriage with the deceased took place after the material date, a surviving spouse is only entitled to receive surviving spouse’s short-term or long-term compensation calculated as if the amount of the spouse’s compensation was determined by reference only to the period by reference to which surviving spouse’s pension is determined by virtue of regulation F6(2) of the LGPS Regulations (or would be so entitled apart from the matters mentioned in paragraph (1)).
 
-#### 20. Amount of surviving spouse’s short-term and long-term compensation[^key-407d69cc924177ff6d3f73b41480f6bd]
+#### 20. Amount of surviving spouse’s short-term and long-term compensation[^c-407d69cc924177ff6d3f73b41480f6bd]
 
 (1) Surviving spouse’s short-term compensation is payable at an annual rate equal to the rate at which any annual compensation would have been payable to the deceased in accordance with these Regulations immediately before his death if there were disregarded any adjustment in accordance with regulation 12, 13 or 17(3).
 
@@ -567,7 +567,7 @@ and where surviving spouses are jointly entitled to compensation under this regu
 
 ### Awards to surviving children
 
-#### 21. Entitlement to children’s short-term compensation[^key-4ec5098e75cd7751e4c0f404df6f099c]
+#### 21. Entitlement to children’s short-term compensation[^c-4ec5098e75cd7751e4c0f404df6f099c]
 
 (1) This regulation applies where an eligible person who has been granted a credited period under regulation 7 dies and is survived by an eligible child or children—
 
@@ -583,7 +583,7 @@ and where surviving spouses are jointly entitled to compensation under this regu
 
 (3) Children’s short-term compensation is not payable in respect of a period for which surviving spouse’s short-term compensation is payable to the surviving spouse of the deceased.
 
-#### 22. Amount of children’s short-term compensation[^key-9ef1c4dcba22e07ab008d09acc959486]
+#### 22. Amount of children’s short-term compensation[^c-9ef1c4dcba22e07ab008d09acc959486]
 
 (1) Children’s short-term compensation is payable at an annual rate equal to the rate at which any annual compensation would have been payable to the deceased in accordance with these Regulations immediately before his death, disregarding any adjustment in accordance with regulation 12, 13 or 17(3).
 
@@ -591,7 +591,7 @@ and where surviving spouses are jointly entitled to compensation under this regu
 
 (3) In paragraph (2) “periodic payment” means an instalment of an allowance for life or other period (other than annual compensation under these Regulations) granted to or in respect of the child by the deceased’s employing authority, in consequence of or as compensation for the loss of the deceased’s former employment, under an enactment, or a contract or arrangement with that authority (excluding a payment which is an excepted payment in relation to that employment).
 
-#### 23. Entitlement to children’s long-term compensation[^key-27bda567bcea234d62d30e0a81473e37]
+#### 23. Entitlement to children’s long-term compensation[^c-27bda567bcea234d62d30e0a81473e37]
 
 (1) This regulation applies where an eligible person who has been granted a credited period under regulation 7 dies and is survived by an eligible child or children—
 
@@ -605,7 +605,7 @@ and where surviving spouses are jointly entitled to compensation under this regu
 - (a) if a children’s long-term pension under regulation G3, G5 or G6 of the LGPS Regulations is payable following the expiry of the period of 3 months beginning with the date of death, from the day following the expiration of that period; or
 - (b) otherwise, from the day following the expiry of the period of 6 months beginning with the date of death.
 
-#### 24. Amount of children’s long-term compensation[^key-741436010b9d2545e462642c420aaa63]
+#### 24. Amount of children’s long-term compensation[^c-741436010b9d2545e462642c420aaa63]
 
 (1) Children’s long-term compensation is payable at an annual rate equal to the appropriate fraction of the deceased’s annual compensation.
 
@@ -639,7 +639,7 @@ then—
 
 (6) In paragraph (5)(*b*) “the indexed training rate” means the annual rate at which an official pension would for the time being be payable if it had begun on 1st April 1994 and had then been payable at an annual rate of £1,450.
 
-#### 25. Payment of children’s compensation[^key-38832747446c48292aec343645442516]
+#### 25. Payment of children’s compensation[^c-38832747446c48292aec343645442516]
 
 (1) In a case where children’s compensation is payable in respect of children in relation to whom children’s short-term pension or children’s long-term pension is paid under regulation G11 of the LGPS Regulations (discretions as to payment of children’s pensions), children’s compensation—
 
@@ -655,7 +655,7 @@ but otherwise (and on the relevant assumptions) it would be so payable, the empl
 
 ### Miscellaneous and supplemental
 
-#### 26. Notification of compensation[^key-e54eb01aef62f86e06333ce805b6673e]
+#### 26. Notification of compensation[^c-e54eb01aef62f86e06333ce805b6673e]
 
 Before the expiry of the period of one month beginning with the date of—
 
@@ -665,7 +665,7 @@ Before the expiry of the period of one month beginning with the date of—
 
 the employing authority shall give that person, or any other person to whom compensation is payable in accordance with this Part, written notification of the compensation payable or, as the case may be, of the adjustment, giving details of the calculation in question.
 
-#### 27. Information[^key-715e87730ceb9e1fb334f816fba13a54]
+#### 27. Information[^c-715e87730ceb9e1fb334f816fba13a54]
 
 (1) Where a person who has been granted a credited period under regulation 7 enters or ceases to hold a new employment, before the expiry of the period of one month beginning with the date on which he does so he shall give his employing authority written notification of that fact.
 
@@ -674,7 +674,7 @@ the employing authority shall give that person, or any other person to whom comp
 - (a) furnish all such information as the employing authority may at any time reasonably require; and
 - (b) verify that information in such manner, including by the production of documents in his possession or control, as may be reasonably so required.
 
-#### 28. Payment of compensation[^key-6eb7edcd2c397eb6410848c10ca5ad0b]
+#### 28. Payment of compensation[^c-6eb7edcd2c397eb6410848c10ca5ad0b]
 
 (1) Compensation (other than lump sum compensation) which is payable to a person under this Part shall be payable at intervals equivalent to those at which his pension is payable under the LGPS Regulations (or would have been so payable but for a relevant disqualification and on the relevant assumptions or, as the case may be, the transfer of benefits to another pension scheme), or at such other intervals as may be agreed between him and the paying authority.
 
@@ -690,7 +690,7 @@ the employing authority shall give that person, or any other person to whom comp
 
 (4) In this regulation “the paying authority” means the authority which, in accordance with regulation 30, pays the compensation.
 
-#### 29. Interest on sums due under Part III[^key-2ac516340458c1f0bd367ca8ec4fb699]
+#### 29. Interest on sums due under Part III[^c-2ac516340458c1f0bd367ca8ec4fb699]
 
 (1) Where all or part of any sum due under this Part by way of compensation is not paid before the expiry of the relevant period after the date on which it becomes payable, the paying authority shall pay the person to whom the sum is payable interest on the amount remaining unpaid, calculated at one per cent above base rate on a day to day basis from that date to the date of payment, and compounded with three-monthly rests.
 
@@ -699,7 +699,7 @@ the employing authority shall give that person, or any other person to whom comp
 - (a) in the case of compensation payable in the form of a lump sum, one month; and
 - (b) in the case of other compensation, one year.
 
-#### 30. Paying authority[^key-9888b3a6d276146e2f7df063f84f340b]
+#### 30. Paying authority[^c-9888b3a6d276146e2f7df063f84f340b]
 
 (1) Subject to paragraph (2), compensation payable under this Part shall be paid by the employing authority.
 
@@ -711,7 +711,7 @@ the employing authority shall give that person, or any other person to whom comp
 
 ## Part IV — Other compensation for redundancy
 
-### 31. Compensation for redundancy where Part III does not apply[^key-dde3ee895c3c9fa8791bdf14e6767996]
+### 31. Compensation for redundancy where Part III does not apply[^c-dde3ee895c3c9fa8791bdf14e6767996]
 
 (1) This Part applies where any person who is or is eligible to be a LGPS member—
 
@@ -767,7 +767,7 @@ the employing authority shall give that person, or any other person to whom comp
 
 ## Part V — Injury Allowances etc.
 
-### 32. Interpretation of Part V[^key-099aaf51ab4348c7d0ee8d1f3108d0f7]
+### 32. Interpretation of Part V[^c-099aaf51ab4348c7d0ee8d1f3108d0f7]
 
 (1) In this Part relevant employment is employment (otherwise than as a member of the fire brigade as defined in Article 2(2) of the Fire Services (Northern Ireland) Order 1984[^f00024] or as an employee pensionable under the superannuation scheme provided in regulations for the time being in force under Article 11 of the 1972 Order or as an employee of Citybus Limited or Ulsterbus Limited) with a LGPS employer.
 
@@ -784,7 +784,7 @@ the employing authority shall give that person, or any other person to whom comp
 
 he shall be treated as having sustained the injury as a result of a requirement of carrying out his work.
 
-### 33. Loss of employment through permanent incapacity[^key-da903e4cf9a36082854d839469adfe6a]
+### 33. Loss of employment through permanent incapacity[^c-da903e4cf9a36082854d839469adfe6a]
 
 (1) If—
 
@@ -808,7 +808,7 @@ he shall be entitled to an annual allowance not exceeding 85 per cent. of his an
 
 (4) The relevant employer may suspend or discontinue the allowance under this regulation if the person becomes capable of working again.
 
-### 34. Reduction in remuneration[^key-cd8d02e130c6d531b232bf8f1307937c]
+### 34. Reduction in remuneration[^c-cd8d02e130c6d531b232bf8f1307937c]
 
 (1) If—
 
@@ -828,7 +828,7 @@ he shall be entitled to an allowance while the reduction continues.
 - (a) the person’s remuneration in the relevant employment; and
 - (b) the remuneration he would have been paid if he had not sustained the injury or, as the case may be, contracted the disease.
 
-### 35. Allowances for pensioners[^key-27a9bc9df1752876da7f5923bddbec44]
+### 35. Allowances for pensioners[^c-27a9bc9df1752876da7f5923bddbec44]
 
 (1) Where a person ceases to be employed in a relevant employment, if—
 
@@ -840,7 +840,7 @@ the relevant employer may pay him an allowance (but not of an amount in any year
 
 (2) An allowance under this regulation continues for such period as the relevant employer may determine.
 
-### 36. Death benefits[^key-a0bde7cc8fafb524e6da6834b0a9b075]
+### 36. Death benefits[^c-a0bde7cc8fafb524e6da6834b0a9b075]
 
 (1) If—
 
@@ -858,7 +858,7 @@ then—
 
 (3) An allowance paid to a dependant shall continue for such period as the relevant employer may determine.
 
-### 37. Considerations in determining amount of benefits[^key-23a8ff7869b53f91bd9921792b599619]
+### 37. Considerations in determining amount of benefits[^c-23a8ff7869b53f91bd9921792b599619]
 
 (1) In determining the amount of an allowance under regulation 33 or 34 or of an allowance or a lump sum under regulation 36, the relevant employer is to have regard to all the circumstances of the case, including the matters specified in paragraph (2) (except in so far as they are excluded by paragraph (3)).
 
@@ -879,7 +879,7 @@ then—
 
 ### Decisions and Appeals
 
-#### 38. Decisions[^key-a45599d42f67f43d3b5e7ee58e6979e3]
+#### 38. Decisions[^c-a45599d42f67f43d3b5e7ee58e6979e3]
 
 (1) Any question concerning the rights of any person or his eligibility to be considered for any award under Part V shall be decided in the first instance by the relevant LGPS employer, that is to say the LGPS employer which last employed the person in respect of whose employment the question arises; and any question arising under regulation 32(2)(*c*) as to the identity of the employer to which the person would have been transferred shall be determined by the Department.
 
@@ -894,7 +894,7 @@ then—
 - (a) the grounds for the decision; and
 - (b) a conspicuous statement directing the person’s attention to his right under that paragraph to appeal to the county court under regulation 39(1).
 
-#### 39. Appeals[^key-2d78d3cb4a0a74ac7cd19cacec1bf5ef]
+#### 39. Appeals[^c-2d78d3cb4a0a74ac7cd19cacec1bf5ef]
 
 (1) Where the relevant employer has decided or failed to decide any such question as is mentioned in regulation 38(1) that question shall be determined by the county court having jurisdiction in the division in which such person as is mentioned in regulation 38(1) is employed or was last employed or, where such person is employed or was last employed in two or more divisions, in one of those divisions.
 
@@ -902,15 +902,15 @@ then—
 
 ### Supplemental
 
-#### 40. Finance[^key-9ea49861bc98afe3d74fcd8d09ebe0c8]
+#### 40. Finance[^c-9ea49861bc98afe3d74fcd8d09ebe0c8]
 
 The cost of any payment to be made under these Regulations is not to be met out of the fund.
 
-#### 41. Transitional provisions[^key-21b874cdc5da58893cc1d3a6ffa66035]
+#### 41. Transitional provisions[^c-21b874cdc5da58893cc1d3a6ffa66035]
 
 Schedule 3 shall have effect for the purpose of making transitional provisions and savings.
 
-#### 42. Revocations[^key-839f9c2de1de666f1ac1fecc581f65fe]
+#### 42. Revocations[^c-839f9c2de1de666f1ac1fecc581f65fe]
 
 (1) The subordinate legislation specified in Schedule 4 is revoked to the extent specified in the third column (but subject to the savings in Schedule 3).
 
@@ -926,7 +926,7 @@ Minister of the Environment
 
 Regulation 2(1)
 
-### Part I — EMPLOYING AUTHORITIES TO WHICH PARTS II AND III APPLY[^key-786a4dcccc9395c826c324d3cb23f7f5]
+### Part I — EMPLOYING AUTHORITIES TO WHICH PARTS II AND III APPLY[^c-786a4dcccc9395c826c324d3cb23f7f5]
 
 - A district council;
 - Northern Ireland Local Government Officers' Superannuation Committee;
@@ -943,7 +943,7 @@ Regulation 2(1)
 - The governing body of an institution of further education within the meaning of the Further Education (Northern Ireland) Order 1997[^f00028]; and
 - Laganside Corporation.
 
-### Part II — LGPS EMPLOYERS TO WHICH PART V APPLIES[^key-6d1863d06f22e839ebdc4f88f6bb5353]
+### Part II — LGPS EMPLOYERS TO WHICH PART V APPLIES[^c-6d1863d06f22e839ebdc4f88f6bb5353]
 
 - A district council;
 - Northern Ireland Local Government Officers' Superannuation Committee;
@@ -957,7 +957,7 @@ Regulation 2(1)
 - Probation Board for Northern Ireland; and
 - The governing body of an institution of further education within the meaning of the Further Education (Northern Ireland) Order 1997.
 
-## SCHEDULE 2 — Appropriate percentages for adjustment of annual compensation for redundancy payments[^key-d94acd7359bc92c0464edb9ab8eddea5]
+## SCHEDULE 2 — Appropriate percentages for adjustment of annual compensation for redundancy payments[^c-d94acd7359bc92c0464edb9ab8eddea5]
 
 Regulation 11
 
@@ -993,23 +993,23 @@ Regulation 41
 
 ### Part I
 
-**1.**[^key-897bacfa69e49312dc3ae4336ba787f6] Regulation 3 does not apply if the cessation of employment referred to in paragraph (1) of that regulation occurred before 15th May 1986.
+**1.**[^c-897bacfa69e49312dc3ae4336ba787f6] Regulation 3 does not apply if the cessation of employment referred to in paragraph (1) of that regulation occurred before 15th May 1986.
 
 ### Part II
 
-**2.**[^key-82baf61b1bf0fc724ed9b26f207454cb] Nothing in Part III applies to a person who ceased to hold his employment with an employing authority as mentioned in regulation 5(1)(*a*) before 29th March 1976.
+**2.**[^c-82baf61b1bf0fc724ed9b26f207454cb] Nothing in Part III applies to a person who ceased to hold his employment with an employing authority as mentioned in regulation 5(1)(*a*) before 29th March 1976.
 
-**3.**[^key-245720c4eebd0c9d0df2e1b2d0139b13] Where the employment by reference to the cessation of which a period might fall to be credited ceased to be held before 6th April 1988, Part III shall have effect as if the amendments made by the Local Government (Superannuation and Compensation) (Amendment) Regulations (Northern Ireland) 1991[^f00029] had not been made (and, in particular, that Part shall have effect with such modifications as are necessary for the omission of references to assumed members and the expressions defined in regulation 6).
+**3.**[^c-245720c4eebd0c9d0df2e1b2d0139b13] Where the employment by reference to the cessation of which a period might fall to be credited ceased to be held before 6th April 1988, Part III shall have effect as if the amendments made by the Local Government (Superannuation and Compensation) (Amendment) Regulations (Northern Ireland) 1991[^f00029] had not been made (and, in particular, that Part shall have effect with such modifications as are necessary for the omission of references to assumed members and the expressions defined in regulation 6).
 
-**4.**[^key-da1f2655ed64c92d1e0b905938c99b2c] If the material date was before 1st April 1983, regulation 7 shall have effect with the substitution for any reference to the material date of a reference to that date.
+**4.**[^c-da1f2655ed64c92d1e0b905938c99b2c] If the material date was before 1st April 1983, regulation 7 shall have effect with the substitution for any reference to the material date of a reference to that date.
 
-**5.**[^key-d7dd4b202d6624159cd44bbddc916900] Regulations 12 and 13 do not apply to the compensation payable to a person whose material date is before 1st April 1983.
+**5.**[^c-d7dd4b202d6624159cd44bbddc916900] Regulations 12 and 13 do not apply to the compensation payable to a person whose material date is before 1st April 1983.
 
-**6.**[^key-b18c51d263d72192028c21e47ab8f266] In a case where the death occurs on or before 5th April 1988, regulation 19(2) applies with the omission of paragraph (*a*)(i) and the word “otherwise” in paragraph (*a*)(ii).
+**6.**[^c-b18c51d263d72192028c21e47ab8f266] In a case where the death occurs on or before 5th April 1988, regulation 19(2) applies with the omission of paragraph (*a*)(i) and the word “otherwise” in paragraph (*a*)(ii).
 
-**7.**[^key-6c61b49b9c2721271fd3196dc82c8d72] Regulations 20(4), 22(2) and 24(4) do not apply if the material date in relation to the deceased was before 1st April 1983.
+**7.**[^c-6c61b49b9c2721271fd3196dc82c8d72] Regulations 20(4), 22(2) and 24(4) do not apply if the material date in relation to the deceased was before 1st April 1983.
 
-**8.**[^key-8bba55970074f2a805d1ec28348fbf1c] As respects any female employee who—
+**8.**[^c-8bba55970074f2a805d1ec28348fbf1c] As respects any female employee who—
 
 - (a) duly elected under regulation El2(1)(*b*) or(2)(*b*) of the 1992 Regulations (election by wife of dependent and permanently incapacitated husband);
 - (b) duly elected under regulation 11(1) of the 1983 Regulations (similar elections and elections by unmarried women with potentially eligible children); or
@@ -1019,9 +1019,9 @@ these Regulations have effect as if references in them to provisions in Parts D,
 
 ### Part III
 
-**9.**[^key-cf68c69bd3598c563e0a6de0b6bccb83] Regulation 31 does not apply if the cessation of employment referred to in paragraph (1) of that regulation occurred before 28th December 1994.
+**9.**[^c-cf68c69bd3598c563e0a6de0b6bccb83] Regulation 31 does not apply if the cessation of employment referred to in paragraph (1) of that regulation occurred before 28th December 1994.
 
-## SCHEDULE 4 — Subordinate legislation revoked[^key-fddb140155df4e6eebe8400d0a3869e8]
+## SCHEDULE 4 — Subordinate legislation revoked[^c-fddb140155df4e6eebe8400d0a3869e8]
 
 Regulation 42
 
@@ -1062,9 +1062,9 @@ Article 19(3)(*c*) of the Superannuation (Northern Ireland) Order 1972 confers e
 
 [^f00002]: Footnote: [S.R. & O. (N.I.) 1973 No. 504](https://www.legislation.gov.uk/nisro/1973/504) Article 7(1); [S.I. 1976/424 (N.I. 6)](https://www.legislation.gov.uk/nisi/1976/424)
 
-[^key-5be3fcfcb7d48641436d59e15c7db87e]: Commencement: Reg. 1 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-5be3fcfcb7d48641436d59e15c7db87e]: Commencement: Reg. 1 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-0205fd7cd0f37e176bb395f6b5ee5663]: Commencement: Reg. 2 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-0205fd7cd0f37e176bb395f6b5ee5663]: Commencement: Reg. 2 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
 
@@ -1076,9 +1076,9 @@ Article 19(3)(*c*) of the Superannuation (Northern Ireland) Order 1972 confers e
 
 [^f00007]: Footnote: [S.R. 1981 No. 96](https://www.legislation.gov.uk/nisr/1981/96); amended by other instruments listed in Schedule 21 to the Local Government (Superannuation) Regulations (Northern Ireland) 1992 ([S.R. 1992 No. 547](https://www.legislation.gov.uk/nisr/1992/547))
 
-[^key-a8a1c5baebd7d55c32da21281862cc1d]: Commencement: Reg. 3 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-a8a1c5baebd7d55c32da21281862cc1d]: Commencement: Reg. 3 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-e31087f80c40f2fc4190137622658a7e]: Commencement: Reg. 4 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-e31087f80c40f2fc4190137622658a7e]: Commencement: Reg. 4 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. & O. (N.I.) 1965 No. 246](https://www.legislation.gov.uk/nisro/1965/246)
 
@@ -1094,15 +1094,15 @@ Article 19(3)(*c*) of the Superannuation (Northern Ireland) Order 1972 confers e
 
 [^f00014]: Footnote: [1971 c. 35 (N.I.)](https://www.legislation.gov.uk/apni/1971/35)
 
-[^key-625599dfc74335048921d51b1d92fe37]: Commencement: Reg. 5 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-625599dfc74335048921d51b1d92fe37]: Commencement: Reg. 5 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
 [^f00015]: Footnote: [1972 c. 9 (N.I.)](https://www.legislation.gov.uk/apni/1972/9)
 
-[^key-0fbce04411ef61cb509aec4c57842065]: Commencement: Reg. 6 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-0fbce04411ef61cb509aec4c57842065]: Commencement: Reg. 6 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
 [^f00016]: Footnote: [S.R. 1989 No. 345](https://www.legislation.gov.uk/nisr/1989/345) was revoked by [S.R. 1992 No. 547](https://www.legislation.gov.uk/nisr/1992/547)
 
-[^key-1dca87b6887cc89783082819debfcd28]: Commencement: Reg. 7 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-1dca87b6887cc89783082819debfcd28]: Commencement: Reg. 7 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
 [^f00017]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47)
 
@@ -1110,11 +1110,11 @@ Article 19(3)(*c*) of the Superannuation (Northern Ireland) Order 1972 confers e
 
 [^f00019]: Footnote: Article 3 of the 1972 Order was amended by Article 10 of the [Local Government (Miscellaneous Provisions) Order 1990 (S.I. 1990 No. 1509 (N.I. 13)](https://www.legislation.gov.uk/nisi/1990/1509) and by section 184 of and Schedule 7 to the Pension Schemes (Northern Ireland) Act 1993 ([1993 c. 49)](https://www.legislation.gov.uk/ukpga/1993/49)
 
-[^key-3d8ab19dac15929f30bf23b789885609]: Commencement: Reg. 8 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-3d8ab19dac15929f30bf23b789885609]: Commencement: Reg. 8 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-fe7c8e66b180a9f1ee2d4a47bc0ea94d]: Commencement: Reg. 9 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-fe7c8e66b180a9f1ee2d4a47bc0ea94d]: Commencement: Reg. 9 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-9cb9f0863987298b64d3be91874c832f]: Commencement: Reg. 10 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-9cb9f0863987298b64d3be91874c832f]: Commencement: Reg. 10 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
 [^f00020]: Footnote: *See* [S.R. 1999 No. 283 (N.I. 1)](https://www.legislation.gov.uk/nisr/1999/283) Article 3(1) and [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481), Article 8 and Schedule 6 Part II
 
@@ -1124,77 +1124,77 @@ Article 19(3)(*c*) of the Superannuation (Northern Ireland) Order 1972 confers e
 
 [^f00023]: Footnote: [1971 c. 35 (N.I.)](https://www.legislation.gov.uk/apni/1971/35)
 
-[^key-dc084fb2a058d47398969694c9a63dcf]: Commencement: Reg. 11 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-dc084fb2a058d47398969694c9a63dcf]: Commencement: Reg. 11 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-5d4a93f4c1c2c9d7d4fd2e8a2f994e3a]: Commencement: Reg. 12 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-5d4a93f4c1c2c9d7d4fd2e8a2f994e3a]: Commencement: Reg. 12 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-4c32333750bed5d47ad6049861ea421a]: Commencement: Reg. 13 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-4c32333750bed5d47ad6049861ea421a]: Commencement: Reg. 13 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-785a44ccbb64219cfeec59ee0186356b]: Commencement: Reg. 14 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-785a44ccbb64219cfeec59ee0186356b]: Commencement: Reg. 14 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-47149eba5ce7fbb2ed2533276691b4d3]: Commencement: Reg. 15 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-47149eba5ce7fbb2ed2533276691b4d3]: Commencement: Reg. 15 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-6b102b57344661801e04a40fac2fc599]: Commencement: Reg. 16 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-6b102b57344661801e04a40fac2fc599]: Commencement: Reg. 16 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-43aa783031a868716ff915899a0a69c6]: Commencement: Reg. 17 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-43aa783031a868716ff915899a0a69c6]: Commencement: Reg. 17 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-7d2992c31f2579080e72246cd89f6851]: Commencement: Reg. 18 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-7d2992c31f2579080e72246cd89f6851]: Commencement: Reg. 18 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-80ee8d117e0eb50a53a57c44d8ea5545]: Commencement: Reg. 19(1)(2) in operation at 28.8.2001 with effect in accordance with reg. 1(2)
+[^c-80ee8d117e0eb50a53a57c44d8ea5545]: Commencement: Reg. 19(1)(2) in operation at 28.8.2001 with effect in accordance with reg. 1(2)
 
-[^key-bfabce5382bcf40daedfcdb8ab10a8d2]: Commencement: Reg. 19(3) in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-bfabce5382bcf40daedfcdb8ab10a8d2]: Commencement: Reg. 19(3) in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-407d69cc924177ff6d3f73b41480f6bd]: Commencement: Reg. 20 in operation at 28.8.2001 with effect in accordance with reg. 1(2)
+[^c-407d69cc924177ff6d3f73b41480f6bd]: Commencement: Reg. 20 in operation at 28.8.2001 with effect in accordance with reg. 1(2)
 
-[^key-4ec5098e75cd7751e4c0f404df6f099c]: Commencement: Reg. 21 in operation at 28.8.2001 with effect in accordance with reg. 1(2)
+[^c-4ec5098e75cd7751e4c0f404df6f099c]: Commencement: Reg. 21 in operation at 28.8.2001 with effect in accordance with reg. 1(2)
 
-[^key-9ef1c4dcba22e07ab008d09acc959486]: Commencement: Reg. 22 in operation at 28.8.2001 with effect in accordance with reg. 1(2)
+[^c-9ef1c4dcba22e07ab008d09acc959486]: Commencement: Reg. 22 in operation at 28.8.2001 with effect in accordance with reg. 1(2)
 
-[^key-27bda567bcea234d62d30e0a81473e37]: Commencement: Reg. 23 in operation at 28.8.2001 with effect in accordance with reg. 1(2)
+[^c-27bda567bcea234d62d30e0a81473e37]: Commencement: Reg. 23 in operation at 28.8.2001 with effect in accordance with reg. 1(2)
 
-[^key-741436010b9d2545e462642c420aaa63]: Commencement: Reg. 24 in operation at 28.8.2001 with effect in accordance with reg. 1(2)
+[^c-741436010b9d2545e462642c420aaa63]: Commencement: Reg. 24 in operation at 28.8.2001 with effect in accordance with reg. 1(2)
 
-[^key-38832747446c48292aec343645442516]: Commencement: Reg. 25 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-38832747446c48292aec343645442516]: Commencement: Reg. 25 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-e54eb01aef62f86e06333ce805b6673e]: Commencement: Reg. 26 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-e54eb01aef62f86e06333ce805b6673e]: Commencement: Reg. 26 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-715e87730ceb9e1fb334f816fba13a54]: Commencement: Reg. 27 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-715e87730ceb9e1fb334f816fba13a54]: Commencement: Reg. 27 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-6eb7edcd2c397eb6410848c10ca5ad0b]: Commencement: Reg. 28 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-6eb7edcd2c397eb6410848c10ca5ad0b]: Commencement: Reg. 28 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-2ac516340458c1f0bd367ca8ec4fb699]: Commencement: Reg. 29 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-2ac516340458c1f0bd367ca8ec4fb699]: Commencement: Reg. 29 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-9888b3a6d276146e2f7df063f84f340b]: Commencement: Reg. 30 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-9888b3a6d276146e2f7df063f84f340b]: Commencement: Reg. 30 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-dde3ee895c3c9fa8791bdf14e6767996]: Commencement: Reg. 31 in operation at 28.8.2001 with effect in accordance with reg. 1(3)
+[^c-dde3ee895c3c9fa8791bdf14e6767996]: Commencement: Reg. 31 in operation at 28.8.2001 with effect in accordance with reg. 1(3)
 
-[^key-099aaf51ab4348c7d0ee8d1f3108d0f7]: Commencement: Reg. 32 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-099aaf51ab4348c7d0ee8d1f3108d0f7]: Commencement: Reg. 32 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
 [^f00024]: Footnote: [S.I. 1984/1821 (N.I. 11)](https://www.legislation.gov.uk/nisi/1984/1821)
 
-[^key-da903e4cf9a36082854d839469adfe6a]: Commencement: Reg. 33 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-da903e4cf9a36082854d839469adfe6a]: Commencement: Reg. 33 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-cd8d02e130c6d531b232bf8f1307937c]: Commencement: Reg. 34 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-cd8d02e130c6d531b232bf8f1307937c]: Commencement: Reg. 34 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-27a9bc9df1752876da7f5923bddbec44]: Commencement: Reg. 35 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-27a9bc9df1752876da7f5923bddbec44]: Commencement: Reg. 35 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-a0bde7cc8fafb524e6da6834b0a9b075]: Commencement: Reg. 36 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-a0bde7cc8fafb524e6da6834b0a9b075]: Commencement: Reg. 36 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-23a8ff7869b53f91bd9921792b599619]: Commencement: Reg. 37 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-23a8ff7869b53f91bd9921792b599619]: Commencement: Reg. 37 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
 [^f00025]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 102 was repealed by [S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898) Article 13 and Schedule 1 Part 1
 
-[^key-a45599d42f67f43d3b5e7ee58e6979e3]: Commencement: Reg. 38 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-a45599d42f67f43d3b5e7ee58e6979e3]: Commencement: Reg. 38 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-2d78d3cb4a0a74ac7cd19cacec1bf5ef]: Commencement: Reg. 39 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-2d78d3cb4a0a74ac7cd19cacec1bf5ef]: Commencement: Reg. 39 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-9ea49861bc98afe3d74fcd8d09ebe0c8]: Commencement: Reg. 40 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-9ea49861bc98afe3d74fcd8d09ebe0c8]: Commencement: Reg. 40 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-21b874cdc5da58893cc1d3a6ffa66035]: Commencement: Reg. 41 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-21b874cdc5da58893cc1d3a6ffa66035]: Commencement: Reg. 41 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-839f9c2de1de666f1ac1fecc581f65fe]: Commencement: Reg. 42 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-839f9c2de1de666f1ac1fecc581f65fe]: Commencement: Reg. 42 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-786a4dcccc9395c826c324d3cb23f7f5]: Commencement: Sch. 1 Pt. I in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-786a4dcccc9395c826c324d3cb23f7f5]: Commencement: Sch. 1 Pt. I in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
 [^f00026]: Footnote: [S.I. 1986 No. 594 (N.I. 13)](https://www.legislation.gov.uk/nisi/1986/594)
 
@@ -1202,28 +1202,28 @@ Article 19(3)(*c*) of the Superannuation (Northern Ireland) Order 1972 confers e
 
 [^f00028]: Footnote: [S.I. 1997/1772 (N.I. 15)](https://www.legislation.gov.uk/nisi/1997/1772)
 
-[^key-6d1863d06f22e839ebdc4f88f6bb5353]: Commencement: Sch. 1 Pt. II in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-6d1863d06f22e839ebdc4f88f6bb5353]: Commencement: Sch. 1 Pt. II in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-d94acd7359bc92c0464edb9ab8eddea5]: Commencement: Sch. 2 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-d94acd7359bc92c0464edb9ab8eddea5]: Commencement: Sch. 2 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-897bacfa69e49312dc3ae4336ba787f6]: Commencement: Sch. 3 para. 1 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-897bacfa69e49312dc3ae4336ba787f6]: Commencement: Sch. 3 para. 1 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-82baf61b1bf0fc724ed9b26f207454cb]: Commencement: Sch. 3 para. 2 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-82baf61b1bf0fc724ed9b26f207454cb]: Commencement: Sch. 3 para. 2 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-245720c4eebd0c9d0df2e1b2d0139b13]: Commencement: Sch. 3 para. 3 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-245720c4eebd0c9d0df2e1b2d0139b13]: Commencement: Sch. 3 para. 3 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
 [^f00029]: Footnote: [S.R. 1991 No. 19](https://www.legislation.gov.uk/nisr/1991/19)
 
-[^key-da1f2655ed64c92d1e0b905938c99b2c]: Commencement: Sch. 3 para. 4 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-da1f2655ed64c92d1e0b905938c99b2c]: Commencement: Sch. 3 para. 4 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-d7dd4b202d6624159cd44bbddc916900]: Commencement: Sch. 3 para. 5 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-d7dd4b202d6624159cd44bbddc916900]: Commencement: Sch. 3 para. 5 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-b18c51d263d72192028c21e47ab8f266]: Commencement: Sch. 3 para. 6 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-b18c51d263d72192028c21e47ab8f266]: Commencement: Sch. 3 para. 6 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-6c61b49b9c2721271fd3196dc82c8d72]: Commencement: Sch. 3 para. 7 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-6c61b49b9c2721271fd3196dc82c8d72]: Commencement: Sch. 3 para. 7 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-8bba55970074f2a805d1ec28348fbf1c]: Commencement: Sch. 3 para. 8 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-8bba55970074f2a805d1ec28348fbf1c]: Commencement: Sch. 3 para. 8 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-cf68c69bd3598c563e0a6de0b6bccb83]: Commencement: Sch. 3 para. 9 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-cf68c69bd3598c563e0a6de0b6bccb83]: Commencement: Sch. 3 para. 9 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
 
-[^key-fddb140155df4e6eebe8400d0a3869e8]: Commencement: Sch. 4 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)
+[^c-fddb140155df4e6eebe8400d0a3869e8]: Commencement: Sch. 4 in operation at 28.8.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1)

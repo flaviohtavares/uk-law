@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Holders of negotiable instruments[^key-fa0ec3c03fe505624e46377dfc9a4e61]
+## 29. Holders of negotiable instruments[^c-fa0ec3c03fe505624e46377dfc9a4e61]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A creditor shall not vote in respect of a debt on, or secured by, a current bill
 
 ## Annotations
 
-[^key-fa0ec3c03fe505624e46377dfc9a4e61]: Commencement: [Rule 29](https://www.legislation.gov.uk/uksi/2013/3208/rule/29) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-fa0ec3c03fe505624e46377dfc9a4e61]: Commencement: [Rule 29](https://www.legislation.gov.uk/uksi/2013/3208/rule/29) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

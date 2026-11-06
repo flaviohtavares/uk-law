@@ -55,10 +55,10 @@ The Secretary of State for Social Security, in exercise of his powers under sect
 
 In these Regulations—
 
-- “the Act” means the Pension Schemes Act 1993[^key-6334667651f9955902232b0931f3209a]
+- “the Act” means the Pension Schemes Act 1993[^c-6334667651f9955902232b0931f3209a]
 - “**Taxes Act**” means the Income and Corporation Taxes Act 1988 [^c2181162].
 
-## 3. Occupational pension schemes to which section 163 of the Act applies[^key-ef252a3424d3369bede6d6f2a83ed809]
+## 3. Occupational pension schemes to which section 163 of the Act applies[^c-ef252a3424d3369bede6d6f2a83ed809]
 
 (1) An occupational pension scheme is a scheme to which section 163 of the Act (exemption of certain schemes from rule against perpetuities) applies at any time when it satisfies the requirements of any of paragraphs (2) to (6) of this regulation.
 
@@ -85,7 +85,7 @@ A personal pension scheme is a scheme to which section 163 of the Act applies at
 
 ## 5. Schemes that cease to qualify under section 69 of the 1973 Act
 
-An occupational pension scheme that ceases to be contracted-out or to satisfy the requirements of any of paragraphs (2) to (6) of regulation 3, and a personal pension scheme that ceases to be an appropriate scheme or to satisfy the requirements of regulation 4, will nevertheless be treated as continuing to be a scheme to which section 163 of the Act applies[^key-86fcc7a085832bab05a84db7faa969f9] for a further period of 2 years from the cesser, or for such longer period as the Secretary of State considers[^M_F_1b7c62b4-3efd-4119-b44e-eaa74ab7299a] reasonable in the case of the particular scheme.
+An occupational pension scheme that ceases to be contracted-out or to satisfy the requirements of any of paragraphs (2) to (6) of regulation 3, and a personal pension scheme that ceases to be an appropriate scheme or to satisfy the requirements of regulation 4, will nevertheless be treated as continuing to be a scheme to which section 163 of the Act applies[^c-86fcc7a085832bab05a84db7faa969f9] for a further period of 2 years from the cesser, or for such longer period as the Secretary of State considers[^M_F_1b7c62b4-3efd-4119-b44e-eaa74ab7299a] reasonable in the case of the particular scheme.
 
 ## 6. Revocation of the Occupational Pension Schemes (Perpetuities) Regulations 1973
 
@@ -115,15 +115,15 @@ The report of the Occupational Pensions Board on the draft of these Regulations 
 
 [^c2181161]: Marginal citation: See section 68(1) and (2) of the [Social Security Act 1973 (c. 38)](https://www.legislation.gov.uk/ukpga/1973/38).
 
-[^key-6334667651f9955902232b0931f3209a]: Textual amendment: Words in reg. 2 substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 24(2)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/24/2)
+[^c-6334667651f9955902232b0931f3209a]: Textual amendment: Words in reg. 2 substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 24(2)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/24/2)
 
 [^c2181162]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-ef252a3424d3369bede6d6f2a83ed809]: Textual amendment: Reg. 3 substituted (6.4.2006) by [Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2006/744/article/5/2)
+[^c-ef252a3424d3369bede6d6f2a83ed809]: Textual amendment: Reg. 3 substituted (6.4.2006) by [Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2006/744/article/5/2)
 
 [^M_F_edcc9a3b-6c42-4af5-f499-9e8bfcd8064c]: Textual amendment: Reg. 4 substituted (6.4.2006) by S.I. 2006/744, arts. 1, 5(2)
 
-[^key-86fcc7a085832bab05a84db7faa969f9]: Textual amendment: Words in reg. 5 substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 24(4)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/24/4)
+[^c-86fcc7a085832bab05a84db7faa969f9]: Textual amendment: Words in reg. 5 substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 24(4)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/24/4)
 
 [^M_F_1b7c62b4-3efd-4119-b44e-eaa74ab7299a]: Textual amendment: Words in reg. 5 substituted (6.4.1997) by S.I. 1996/2131, reg. 3
 

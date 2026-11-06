@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Community strategies[^key-0829e0807895dc3310689e671fe4bd27]
+## 78. Community strategies[^c-0829e0807895dc3310689e671fe4bd27]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0829e0807895dc3310689e671fe4bd27]: Textual amendment: S. 78 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 100(2)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/100/2/d), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)
+[^c-0829e0807895dc3310689e671fe4bd27]: Textual amendment: S. 78 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 100(2)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/100/2/d), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)

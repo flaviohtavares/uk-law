@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 71. Transitional provisions: general[^key-d380c22faeb41e3d1e38b745e8ef4f13]
+## 71. Transitional provisions: general[^c-d380c22faeb41e3d1e38b745e8ef4f13]
 
 *Extent: E+W+S*
 
@@ -45,7 +45,7 @@ Table 1
 
 ## Annotations
 
-[^key-d380c22faeb41e3d1e38b745e8ef4f13]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/2014/3248/regulation/71) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-d380c22faeb41e3d1e38b745e8ef4f13]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/2014/3248/regulation/71) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
 
 [^f00021]: Footnote: [S.I. 1995/2005](https://www.legislation.gov.uk/uksi/1995/2005). Regulation 4(5) was inserted by [S.I. 1999/3242](https://www.legislation.gov.uk/uksi/1999/3242).
 

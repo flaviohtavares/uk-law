@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Grant or refusal of consent[^key-4d050b5572a0ba5b72884b2e72f314ab][^key-d44c3da8beb4962f1a5879a869d09590]
+## 96. Grant or refusal of consent[^c-4d050b5572a0ba5b72884b2e72f314ab][^c-d44c3da8beb4962f1a5879a869d09590]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4d050b5572a0ba5b72884b2e72f314ab]: Commencement: S. 96 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-4d050b5572a0ba5b72884b2e72f314ab]: Commencement: S. 96 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-d44c3da8beb4962f1a5879a869d09590]: Commencement: [S. 96](https://www.legislation.gov.uk/asc/2023/3/section/96) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-d44c3da8beb4962f1a5879a869d09590]: Commencement: [S. 96](https://www.legislation.gov.uk/asc/2023/3/section/96) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

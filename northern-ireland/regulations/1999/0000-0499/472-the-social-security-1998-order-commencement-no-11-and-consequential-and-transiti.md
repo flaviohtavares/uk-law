@@ -37,13 +37,13 @@ Made
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Article 1(2) and (4) of the Social Security (Northern Ireland) Order 1998[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and interpretation[^key-beaaa5cfaa7ea0a1583d4059272680ab]
+## 1. Citation and interpretation[^c-beaaa5cfaa7ea0a1583d4059272680ab]
 
 (1) This Order may be cited as the Social Security (1998 Order) (Commencement No. 11 and Consequential and Transitional Provisions) Order (Northern Ireland) 1999.
 
 (2) In this Order “the Order” means the Social Security (Northern Ireland) Order 1998.
 
-## 2. Appointed day[^key-1d47ce2cd122f4c2671814831886f7fb]
+## 2. Appointed day[^c-1d47ce2cd122f4c2671814831886f7fb]
 
 (1) Subject to paragraph (2), the day appointed for the coming into operation of—
 
@@ -61,7 +61,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (3) The day appointed for the coming into operation of paragraph 10 of Schedule 1 to the Order (appeal tribunals: supplementary provisions) and Articles 6(3) and 8(7) of the Order in so far as they relate to it is 31st March 2000.
 
-## 3. Commencement[^key-bedb00a5ce3f03cecb584857eb27190a]
+## 3. Commencement[^c-bedb00a5ce3f03cecb584857eb27190a]
 
 This Article and Articles 4 to 23 shall come into operation on 29th November 1999 and shall not have effect in relation to—
 
@@ -71,7 +71,7 @@ This Article and Articles 4 to 23 shall come into operation on 29th November 199
 
 ## Consequential Amendments
 
-### 4. Amendment of the Social Security Benefit (Dependency) Regulations[^key-e19d1a0ba0f85dfdec76d3f6e6dcc0b8]
+### 4. Amendment of the Social Security Benefit (Dependency) Regulations[^c-e19d1a0ba0f85dfdec76d3f6e6dcc0b8]
 
 (1) The Social Security Benefit (Dependency) Regulations (Northern Ireland) 1977[^f00003] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -87,7 +87,7 @@ This Article and Articles 4 to 23 shall come into operation on 29th November 199
 - (b) for “such review” there shall be substituted “such supersession”; and
 - (c) for “the review” there shall be substituted “the supersession”.
 
-### 5. Amendment of the Social Security (General Benefit) Regulations[^key-4ad382cc476ce85c58e241cebaffa727]
+### 5. Amendment of the Social Security (General Benefit) Regulations[^c-4ad382cc476ce85c58e241cebaffa727]
 
 (1) The Social Security (General Benefit) Regulations (Northern Ireland) 1984[^f00005] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -102,14 +102,14 @@ This Article and Articles 4 to 23 shall come into operation on 29th November 199
 - (a) in paragraphs (7) and (8)[^f00007] for “the medical appeal tribunal, the adjudicating medical practitioner or 2 or more adjudicating medical practitioners (as the case may be)” there shall be substituted “the Department or, as the case may be, an appeal tribunal”; and
 - (b) paragraph (9) shall be omitted.
 
-### 6. Amendment of the Social Fund (Maternity and Funeral Expenses) (General) Regulations[^key-83c8d0126de3920808e03695c9825652]
+### 6. Amendment of the Social Fund (Maternity and Funeral Expenses) (General) Regulations[^c-83c8d0126de3920808e03695c9825652]
 
 In regulation 3(4) of the Social Fund (Maternity and Funeral Expenses) (General) Regulations (Northern Ireland) 1987[^f00008] (provision against double payment)—
 
 - (a) in sub-paragraph (*a*) for “reviewed” there shall be substituted “revised”; and
 - (b) in sub-paragraph (*b*) “on that review” shall be omitted.
 
-### 7. Amendment of the Income Support (General) Regulations[^key-42cdfacf16d426318d8090b03efb84a4]
+### 7. Amendment of the Income Support (General) Regulations[^c-42cdfacf16d426318d8090b03efb84a4]
 
 (1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00009] shall be amended in accordance with paragraphs (2) to (12).
 
@@ -180,7 +180,7 @@ In regulation 3(4) of the Social Fund (Maternity and Funeral Expenses) (General)
 - (a) “on review” in each place where it occurs shall be omitted; and
 - (b) in head (*a*) for “that review” there shall be substituted “that determination”.
 
-### 8. Amendment of the Housing Benefit (General) Regulations[^key-324ff1ee3dc51040c3d7f76f1127519b]
+### 8. Amendment of the Housing Benefit (General) Regulations[^c-324ff1ee3dc51040c3d7f76f1127519b]
 
 (1) The Housing Benefit (General) Regulations (Northern Ireland) 1987[^f00014] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -188,7 +188,7 @@ In regulation 3(4) of the Social Fund (Maternity and Funeral Expenses) (General)
 
 (3) In regulation 95(4A)[^f00016] (withholding of benefit) for “an adjudication officer” in both places where it occurs there shall be substituted “the Department”.
 
-### 9. Amendment of the Social Security (Claims and Payments) Regulations[^key-acad27e346aad5468e24575a941e17e4]
+### 9. Amendment of the Social Security (Claims and Payments) Regulations[^c-acad27e346aad5468e24575a941e17e4]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00017] shall be amended in accordance with paragraphs (2) to (14).
 
@@ -281,14 +281,14 @@ In regulation 3(4) of the Social Fund (Maternity and Funeral Expenses) (General)
 
 (14) In Schedule 8B[^f00026] (deductions of mortgage interest from benefit and payment to qualifying lenders), in paragraph 3(1) (specified part of relevant benefit) for “the adjudicating authority in accordance with regulation 34ZA, shall be paid by the Department” there shall be substituted “the Department in accordance with regulation 34ZA, shall be paid”.
 
-### 10. Amendment of the Social Fund (Application for Review) Regulations[^key-87f2df4447f9113685f36d7ba42df59b]
+### 10. Amendment of the Social Fund (Application for Review) Regulations[^c-87f2df4447f9113685f36d7ba42df59b]
 
 In regulation 2 of the Social Fund (Application for Review) Regulations (Northern Ireland) 1988[^f00027] (manner of making application for review or further review and time limits)—
 
 - (a) in paragraph (1) for “a social fund officer” in both places where it occurs there shall be substituted “an appropriate officer”; and
 - (b) in paragraphs (3) and (5) for “the social fund officer” there shall be substituted “the appropriate officer”.
 
-### 11. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^key-0a5ff166cd64543923021b0c9cd736e0]
+### 11. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^c-0a5ff166cd64543923021b0c9cd736e0]
 
 (1) The Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^f00028] shall be amended in accordance with paragraphs (2) to (11).
 
@@ -348,7 +348,7 @@ In regulation 2 of the Social Fund (Application for Review) Regulations (Norther
 
 (11) In regulation 26 (right of the Department to recover direct from the claimant) for “the Department has received a decision of the adjudicating authority under regulation 19 and it is at any time not practicable for it” there shall be substituted “, at any time, it is not practicable for the Department”.
 
-### 12. Amendment of the Employment Protection (Recoupment of Jobseeker’s Allowance and Income Support) Regulations[^key-edc3a691a099a8f52646fa72cb6fe9f5]
+### 12. Amendment of the Employment Protection (Recoupment of Jobseeker’s Allowance and Income Support) Regulations[^c-edc3a691a099a8f52646fa72cb6fe9f5]
 
 (1) The Employment Protection (Recoupment of Jobseeker’s Allowance and Income Support) Regulations (Northern Ireland) 1996[^f00030] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -374,7 +374,7 @@ In regulation 2 of the Social Fund (Application for Review) Regulations (Norther
 
 .
 
-### 13. Amendment of the Social Security (Back to Work Bonus) (No. 2) Regulations[^key-db395c9f0bfe2c6afd01fc6b1420dda7]
+### 13. Amendment of the Social Security (Back to Work Bonus) (No. 2) Regulations[^c-db395c9f0bfe2c6afd01fc6b1420dda7]
 
 (1) The Social Security (Back to Work Bonus) (No. 2) Regulations (Northern Ireland) 1996[^f00031] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -392,7 +392,7 @@ for “adjudication officer” there shall be substituted “Department”.
 
 (5) In regulation 25(1) for “he” there shall be substituted “it”.
 
-### 14. Amendment of the Social Security Benefit (Computation of Earnings) Regulations[^key-7e88d224e41cdde0dee6660a0c2ce90a]
+### 14. Amendment of the Social Security Benefit (Computation of Earnings) Regulations[^c-7e88d224e41cdde0dee6660a0c2ce90a]
 
 (1) The Social Security Benefit (Computation of Earnings) Regulations (Northern Ireland) 1996[^f00032] shall be amended in accordance with paragraphs (2) to (7).
 
@@ -421,7 +421,7 @@ for “adjudication officer” there shall be substituted “Department”.
 
 (7) In regulation 14(2) (deduction of tax and contributions for self-employed earners) for “of the determination of the claim or of any subsequent review” in both places where it occurs there shall be substituted “on which a decision is made by the Department under Chapter II of Part II of the Order or regulations made thereunder”.
 
-### 15. Amendment of the Social Security (Recovery of Benefits) Regulations[^key-abd5a7cf652059eb5009ac7eed850258]
+### 15. Amendment of the Social Security (Recovery of Benefits) Regulations[^c-abd5a7cf652059eb5009ac7eed850258]
 
 In regulation 12 of the Social Security (Recovery of Benefits) Regulations (Northern Ireland) 1997[^f00033] (transitional provisions)—
 
@@ -458,7 +458,7 @@ In regulation 12 of the Social Security (Recovery of Benefits) Regulations (Nort
 
   .
 
-### 16. Amendment of the Social Fund Winter Fuel Payment Regulations[^key-0257d1cc84d0237431f895f49bbe6efe]
+### 16. Amendment of the Social Fund Winter Fuel Payment Regulations[^c-0257d1cc84d0237431f895f49bbe6efe]
 
 (1) The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 1998[^f00036] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -470,7 +470,7 @@ In regulation 12 of the Social Security (Recovery of Benefits) Regulations (Nort
 
 .
 
-### 17. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-945e37a4cbd1f1d0928f64880162f052]
+### 17. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-945e37a4cbd1f1d0928f64880162f052]
 
 In regulation 7 of the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 (date from which a decision superseded under Article 11 takes effect)—
 
@@ -492,11 +492,11 @@ In regulation 7 of the Social Security and Child Support (Decisions and Appeals)
     , and
   - (ii) in sub-paragraph (*c*) head (i) shall be omitted.
 
-### 18. Amendment of the Social Security (1998 Order) (Commencement No. 7 and Savings, Consequential and Transitional Provisions) Order and the Social Security (1998 Order) (Commencement No. 8 and Savings, Consequential and Transitional Provisions) Order[^key-86dcb301fc5b1973f1f94ef451b07c6d]
+### 18. Amendment of the Social Security (1998 Order) (Commencement No. 7 and Savings, Consequential and Transitional Provisions) Order and the Social Security (1998 Order) (Commencement No. 8 and Savings, Consequential and Transitional Provisions) Order[^c-86dcb301fc5b1973f1f94ef451b07c6d]
 
 In Article 4(1) of the Social Security (1998 Order) (Commencement No. 7 and Savings, Consequential and Transitional Provisions) Order (Northern Ireland) 1999[^f00037] and Article 4 of the Social Security (1998 Order) (Commencement No. 8 and Savings, Consequential and Transitional Provisions) Order (Northern Ireland) 1999[^f00038] (savings) for “of the Order” there shall be substituted “and 78(2) of, and Schedule 7 to, the Order”.
 
-### 19. Amendment of the Social Security (1998 Order) (Commencement No. 10 and Savings, Consequential and Transitional Provisions) Order[^key-77df5e381858aaa0da4e3a368f651e4f]
+### 19. Amendment of the Social Security (1998 Order) (Commencement No. 10 and Savings, Consequential and Transitional Provisions) Order[^c-77df5e381858aaa0da4e3a368f651e4f]
 
 (1) The Social Security (1998 Order) (Commencement No. 10 and Savings, Consequential and Transitional Provisions) Order (Northern Ireland) 1999[^f00039] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -506,7 +506,7 @@ In Article 4(1) of the Social Security (1998 Order) (Commencement No. 7 and Savi
 
 ## Transitional Provisions and Revocations
 
-### 20. Transitional provisions in relation to recovery of benefits[^key-1a3436bb4643e061b04957f7cab774f5]
+### 20. Transitional provisions in relation to recovery of benefits[^c-1a3436bb4643e061b04957f7cab774f5]
 
 (1) Notwithstanding regulation 59 of the Decisions and Appeals Regulations, regulation 2 of the Appeals Regulations shall continue to apply until 29th December 2000 in relation to any certificate of recoverable benefits in respect of which a right of appeal arose before 29th November 1999 subject to the modifications specified in paragraph (2).
 
@@ -577,7 +577,7 @@ shall be supplied to each party to the proceedings before that tribunal, if requ
 - “the Decisions and Appeals Regulations” means the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00041];
 - “legally qualified panel member” has the same meaning as in regulation 1(2) of the Decisions and Appeals Regulations.
 
-### 21. Transitional provisions in relation to relevant benefits[^key-966988975543dd7802a4116423433719]
+### 21. Transitional provisions in relation to relevant benefits[^c-966988975543dd7802a4116423433719]
 
 (1) Any decision which fell to be made, but was not made, before 29th November 1999—
 
@@ -704,7 +704,7 @@ shall be supplied to each party to the proceedings before that tribunal, if requ
 - “legally qualified panel member” has the same meaning as in regulation 1(2) of the Decisions and Appeals Regulations;
 - “relevant benefit” means income support, child’s special allowance under section 56 of the Contributions and Benefits Act or, as the case may be, a social fund payment mentioned in section 134(1)(*a*) or (2) of that Act.
 
-### 22. Transitional provisions in relation to the social fund[^key-15d4740ea102fd4ea1b787a08107faa2]
+### 22. Transitional provisions in relation to the social fund[^c-15d4740ea102fd4ea1b787a08107faa2]
 
 (1) An application to—
 
@@ -715,7 +715,7 @@ shall be supplied to each party to the proceedings before that tribunal, if requ
 
 (3) In this Article “appropriate officer” has the same meaning as in Article 36(1) of the Order.
 
-### 23. Revocations[^key-6df7f80e0600e19e019cfe7a14e5f7ca]
+### 23. Revocations[^c-6df7f80e0600e19e019cfe7a14e5f7ca]
 
 The Regulations specified in column (1) of Schedule 2 are revoked to the extent mentioned in column (3) of that Schedule.
 
@@ -725,7 +725,7 @@ John O'Neill
 
 Assistant Secretary
 
-## SCHEDULE 1 — Provisions coming into operation on 29th November 1999[^key-d2254584f91c7864a9b84dcf9a3230b5]
+## SCHEDULE 1 — Provisions coming into operation on 29th November 1999[^c-d2254584f91c7864a9b84dcf9a3230b5]
 
 Article 2(1)(*a*)
 
@@ -799,7 +799,7 @@ Article 2(1)(*a*)
 | paragraph 123 | Appeal to Social Security Commissioner |
 | The following repeals in Schedule 7 and Article 78(2) in so far as it relates to them—<br>- the provisions of the Northern Ireland Assembly Disqualification Act 1975[^f00049]<br>- the Social Security Adjudications (Northern Ireland) Order 1983[^f00050]<br>- the Social Security Administration (Northern Ireland) Act 1992[^f00051]—<br>  - sections 15 to 21<br>  - in section 22, subsection (3)(*c*)<br>  - sections 23 to 49<br>  - sections 51 to 68<br>  - section 110(4)<br>  - in section 165(6), the word “24,”<br>  - in section 167(1), the definitions of “the disablement questions” and “President”<br>  - in Schedule 2, paragraph 1(1), in paragraph 1(2), the words “, the President and the full-time chairmen”, in paragraph 1(4), the words “, the President and a full-time chairman”, paragraph 1(5), paragraphs 2 to 6, paragraph 8 and in paragraph 9(*b*), paragraphs (ii) to (iv)<br>- Schedule 3<br>- In Schedule 4, in Part I, the entry headed “*Adjudication officers*”, in the entry headed “*Adjudicating bodies*”, paragraphs (*b*) to (*d*) and in the entry headed “*The social fund*”, the words “A social fund officer”<br>- the provisions of the Social Security (Consequential Provisions) (Northern Ireland) Act 1992[^f00052]<br>- the provisions of the Judicial Pensions and Retirement Act 1993[^f00053]<br>- the provisions of the Pension Schemes (Northern Ireland) Act 1993[^f00054]<br>- the provision of the Deregulation and Contracting Out Act 1994[^f00055]<br>- the provision of the Social Security (Contributions) (Northern Ireland) Order 1994[^f00056]<br>- the provisions of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994[^f00057]<br>- the provisions of the Jobseekers (Northern Ireland) Order 1995[^f00058]<br>- the provision of the Pensions (Northern Ireland) Order 1995[^f00059]<br>- the provision of the Arbitration Act 1996[^f00060]<br>- the provisions of the Ombudsman (Northern Ireland) Order 1996[^f00061]<br>- the provisions of the Industrial Tribunals (Northern Ireland) Order 1996[^f00062]<br>- the provisions of the Social Security Administration (Fraud) (Northern Ireland) Order 1997[^f00063]<br>- the provisions of the Social Security (Recovery of Benefits) (Northern Ireland) Order 1997[^f00064]<br>- the provisions of the Social Security (Northern Ireland) Order 1998[^f00065] | Repeals |
 
-## SCHEDULE 2 — Revocations[^key-b7a2ed261bd1125b8cb8c83afece133e]
+## SCHEDULE 2 — Revocations[^c-b7a2ed261bd1125b8cb8c83afece133e]
 
 Article 23
 
@@ -964,21 +964,21 @@ The following provisions of the Social Security (Northern Ireland) Order 1998 ha
 
 [^f00001]: Footnote: S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-beaaa5cfaa7ea0a1583d4059272680ab]: Commencement: Art. 1 in operation at made date
+[^c-beaaa5cfaa7ea0a1583d4059272680ab]: Commencement: Art. 1 in operation at made date
 
-[^key-1d47ce2cd122f4c2671814831886f7fb]: Commencement: Art. 2 in operation at made date
+[^c-1d47ce2cd122f4c2671814831886f7fb]: Commencement: Art. 2 in operation at made date
 
 [^f00002]: Footnote: [S.R. 1999 No. 149 (C. 15)](https://www.legislation.gov.uk/nisr/1999/149)
 
-[^key-bedb00a5ce3f03cecb584857eb27190a]: Commencement: Art. 3 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-bedb00a5ce3f03cecb584857eb27190a]: Commencement: Art. 3 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
-[^key-e19d1a0ba0f85dfdec76d3f6e6dcc0b8]: Commencement: Art. 4 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-e19d1a0ba0f85dfdec76d3f6e6dcc0b8]: Commencement: Art. 4 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
 [^f00003]: Footnote: [S.R. 1977 No. 74](https://www.legislation.gov.uk/nisr/1977/74); relevant amending regulations are [S.R. 1983 No. 193](https://www.legislation.gov.uk/nisr/1983/193) and [S.R. 1984 No. 174](https://www.legislation.gov.uk/nisr/1984/174)
 
 [^f00004]: Footnote: The definition of “the determining authority” was substituted by regulation 8 of [S.R. 1984 No. 174](https://www.legislation.gov.uk/nisr/1984/174)
 
-[^key-4ad382cc476ce85c58e241cebaffa727]: Commencement: Art. 5 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-4ad382cc476ce85c58e241cebaffa727]: Commencement: Art. 5 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
 [^f00005]: Footnote: [S.R. 1984 No. 92](https://www.legislation.gov.uk/nisr/1984/92); relevant amending regulations are [S.R. 1984 No. 174](https://www.legislation.gov.uk/nisr/1984/174) and [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6)
 
@@ -986,11 +986,11 @@ The following provisions of the Social Security (Northern Ireland) Order 1998 ha
 
 [^f00007]: Footnote: Paragraphs (7) and (8) were amended and paragraph (9) was added by regulation 26(*c*) of [S.R. 1984 No. 174](https://www.legislation.gov.uk/nisr/1984/174)
 
-[^key-83c8d0126de3920808e03695c9825652]: Commencement: Art. 6 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-83c8d0126de3920808e03695c9825652]: Commencement: Art. 6 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
 [^f00008]: Footnote: [S.R. 1987 No. 150](https://www.legislation.gov.uk/nisr/1987/150); relevant amending regulations are [S.R. 1997 No. 472](https://www.legislation.gov.uk/nisr/1997/472)
 
-[^key-42cdfacf16d426318d8090b03efb84a4]: Commencement: Art. 7 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-42cdfacf16d426318d8090b03efb84a4]: Commencement: Art. 7 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
 [^f00009]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending regulations are [S.R. 1989 Nos. 139](https://www.legislation.gov.uk/nisr/1989/139) and [395](https://www.legislation.gov.uk/nisr/1989/395), [S.R. 1990 No. 137](https://www.legislation.gov.uk/nisr/1990/137), [S.R. 1995 Nos. 301](https://www.legislation.gov.uk/nisr/1995/301) and [367](https://www.legislation.gov.uk/nisr/1995/367), [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93) and [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22)
 
@@ -1002,7 +1002,7 @@ The following provisions of the Social Security (Northern Ireland) Order 1998 ha
 
 [^f00013]: Footnote: Schedule 3B was inserted by paragraph 18 of Schedule 1 to [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139) and paragraph 3(4) was added by regulation 9(*c*)(ii) of [S.R. 1989 No. 395](https://www.legislation.gov.uk/nisr/1989/395)
 
-[^key-324ff1ee3dc51040c3d7f76f1127519b]: Commencement: Art. 8 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-324ff1ee3dc51040c3d7f76f1127519b]: Commencement: Art. 8 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
 [^f00014]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); relevant amending regulations are [S.R. 1995 Nos. 89](https://www.legislation.gov.uk/nisr/1995/89) and [129](https://www.legislation.gov.uk/nisr/1995/129) and [S.R. 1996 No. 334](https://www.legislation.gov.uk/nisr/1996/334)
 
@@ -1010,7 +1010,7 @@ The following provisions of the Social Security (Northern Ireland) Order 1998 ha
 
 [^f00016]: Footnote: Paragraph (4A) was inserted by regulation 9(*a*) of [S.R. 1995 No. 89](https://www.legislation.gov.uk/nisr/1995/89) and amended by regulation 17 of [S.R. 1996 No. 334](https://www.legislation.gov.uk/nisr/1996/334)
 
-[^key-acad27e346aad5468e24575a941e17e4]: Commencement: Art. 9 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-acad27e346aad5468e24575a941e17e4]: Commencement: Art. 9 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
 [^f00017]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending provisions are [S.R. 1988 Nos. 67](https://www.legislation.gov.uk/nisr/1988/67) and [141](https://www.legislation.gov.uk/nisr/1988/141), [S.R. 1989 Nos. 40](https://www.legislation.gov.uk/nisr/1989/40) and [398](https://www.legislation.gov.uk/nisr/1989/398), [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398), [S.R. 1991 No. 488](https://www.legislation.gov.uk/nisr/1991/488), [S.R. 1992 Nos. 83](https://www.legislation.gov.uk/nisr/1992/83) and [271](https://www.legislation.gov.uk/nisr/1992/271), [S.R. 1993 Nos. 146](https://www.legislation.gov.uk/nisr/1993/146), [149](https://www.legislation.gov.uk/nisr/1993/149), [217](https://www.legislation.gov.uk/nisr/1993/217) and [375](https://www.legislation.gov.uk/nisr/1993/375), [S.R. 1996 Nos. 354](https://www.legislation.gov.uk/nisr/1996/354) and [432](https://www.legislation.gov.uk/nisr/1996/432), [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182) and [S.R. 1999 Nos. 246 (C. 20)](https://www.legislation.gov.uk/nisr/1999/246) and [428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428)
 
@@ -1032,29 +1032,29 @@ The following provisions of the Social Security (Northern Ireland) Order 1998 ha
 
 [^f00026]: Footnote: Schedule 8B was inserted by [S.R. 1992 No. 271](https://www.legislation.gov.uk/nisr/1992/271) and paragraph 3(1) was substituted by [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301) and amended by [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354)
 
-[^key-87f2df4447f9113685f36d7ba42df59b]: Commencement: Art. 10 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-87f2df4447f9113685f36d7ba42df59b]: Commencement: Art. 10 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
 [^f00027]: Footnote: [S.R. 1988 No. 20](https://www.legislation.gov.uk/nisr/1988/20), to which there are amendments not relevant to this order
 
-[^key-0a5ff166cd64543923021b0c9cd736e0]: Commencement: Art. 11 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-0a5ff166cd64543923021b0c9cd736e0]: Commencement: Art. 11 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
 [^f00028]: Footnote: [S.R. 1988 No. 142](https://www.legislation.gov.uk/nisr/1988/142); relevant amending regulations are [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6)
 
 [^f00029]: Footnote: The definition of “adjudicating authority” was amended by regulation 14(2)(*a*) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6)
 
-[^key-edc3a691a099a8f52646fa72cb6fe9f5]: Commencement: Art. 12 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-edc3a691a099a8f52646fa72cb6fe9f5]: Commencement: Art. 12 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
 [^f00030]: Footnote: [S.R. 1996 No. 459](https://www.legislation.gov.uk/nisr/1996/459)
 
-[^key-db395c9f0bfe2c6afd01fc6b1420dda7]: Commencement: Art. 13 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-db395c9f0bfe2c6afd01fc6b1420dda7]: Commencement: Art. 13 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
 [^f00031]: Footnote: [S.R. 1996 No. 519](https://www.legislation.gov.uk/nisr/1996/519), to which there are amendments not relevant to this order
 
-[^key-7e88d224e41cdde0dee6660a0c2ce90a]: Commencement: Art. 14 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-7e88d224e41cdde0dee6660a0c2ce90a]: Commencement: Art. 14 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
 [^f00032]: Footnote: [S.R. 1996 No. 520](https://www.legislation.gov.uk/nisr/1996/520), to which there are amendments not relevant to this order
 
-[^key-abd5a7cf652059eb5009ac7eed850258]: Commencement: Art. 15 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-abd5a7cf652059eb5009ac7eed850258]: Commencement: Art. 15 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
 [^f00033]: Footnote: [S.R. 1997 No. 429](https://www.legislation.gov.uk/nisr/1997/429)
 
@@ -1062,29 +1062,29 @@ The following provisions of the Social Security (Northern Ireland) Order 1998 ha
 
 [^f00035]: Footnote: [S.R. 1990 No. 85](https://www.legislation.gov.uk/nisr/1990/85), to which there are amendments not relevant to this order
 
-[^key-0257d1cc84d0237431f895f49bbe6efe]: Commencement: Art. 16 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-0257d1cc84d0237431f895f49bbe6efe]: Commencement: Art. 16 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
 [^f00036]: Footnote: [S.R. 1998 No. 3](https://www.legislation.gov.uk/nisr/1998/3), to which there are amendments not relevant to this order
 
-[^key-945e37a4cbd1f1d0928f64880162f052]: Commencement: Art. 17 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-945e37a4cbd1f1d0928f64880162f052]: Commencement: Art. 17 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
-[^key-86dcb301fc5b1973f1f94ef451b07c6d]: Commencement: Art. 18 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-86dcb301fc5b1973f1f94ef451b07c6d]: Commencement: Art. 18 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
 [^f00037]: Footnote: [S.R. 1999 No. 310 (C. 23)](https://www.legislation.gov.uk/nisr/1999/310)
 
 [^f00038]: Footnote: [S.R. 1999 No. 371 (C. 28)](https://www.legislation.gov.uk/nisr/1999/371)
 
-[^key-77df5e381858aaa0da4e3a368f651e4f]: Commencement: Art. 19 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-77df5e381858aaa0da4e3a368f651e4f]: Commencement: Art. 19 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
 [^f00039]: Footnote: [S.R. 1999 No. 428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428)
 
-[^key-1a3436bb4643e061b04957f7cab774f5]: Commencement: Art. 20 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-1a3436bb4643e061b04957f7cab774f5]: Commencement: Art. 20 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
 [^f00040]: Footnote: [S.R. 1997 No. 430](https://www.legislation.gov.uk/nisr/1997/430)
 
 [^f00041]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162)
 
-[^key-966988975543dd7802a4116423433719]: Commencement: Art. 21 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-966988975543dd7802a4116423433719]: Commencement: Art. 21 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
 [^f00042]: Footnote: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14)
 
@@ -1098,11 +1098,11 @@ The following provisions of the Social Security (Northern Ireland) Order 1998 ha
 
 [^f00047]: Footnote: [S.R. 1995 No. 293](https://www.legislation.gov.uk/nisr/1995/293)
 
-[^key-15d4740ea102fd4ea1b787a08107faa2]: Commencement: Art. 22 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-15d4740ea102fd4ea1b787a08107faa2]: Commencement: Art. 22 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
-[^key-6df7f80e0600e19e019cfe7a14e5f7ca]: Commencement: Art. 23 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-6df7f80e0600e19e019cfe7a14e5f7ca]: Commencement: Art. 23 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
 
-[^key-d2254584f91c7864a9b84dcf9a3230b5]: Commencement: Sch. 1 in operation at made date
+[^c-d2254584f91c7864a9b84dcf9a3230b5]: Commencement: Sch. 1 in operation at made date
 
 [^f00048]: Footnote: Articles 9, 11, 13, 14, 18, 28 and 39 were amended, respectively, by paragraphs 16, 17, 19, 20, 23, 28 and 29 of Schedule 6 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. [1999/671](https://www.legislation.gov.uk/uksi/1999/671))
 
@@ -1140,4 +1140,4 @@ The following provisions of the Social Security (Northern Ireland) Order 1998 ha
 
 [^f00065]: Footnote: S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-b7a2ed261bd1125b8cb8c83afece133e]: Commencement: Sch. 2 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)
+[^c-b7a2ed261bd1125b8cb8c83afece133e]: Commencement: Sch. 2 in operation at 29.11.1999 for specified purposes, see [art. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3)

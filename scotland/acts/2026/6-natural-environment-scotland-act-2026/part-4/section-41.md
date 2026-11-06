@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Building regulations: swift nest box[^key-4149a5641496a55925cc20ac33668a1b]
+## 41. Building regulations: swift nest box[^c-4149a5641496a55925cc20ac33668a1b]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ The Scottish Ministers must, before the expiry of the period of 12 months beginn
 
 ## Annotations
 
-[^key-4149a5641496a55925cc20ac33668a1b]: Commencement: S. 41 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-4149a5641496a55925cc20ac33668a1b]: Commencement: S. 41 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)

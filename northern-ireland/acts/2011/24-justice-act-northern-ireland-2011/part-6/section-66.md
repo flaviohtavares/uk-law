@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 66. Registration certificates[^key-6035ad5f9ecc2e4636bf50f082dc2590]
+## 66. Registration certificates[^c-6035ad5f9ecc2e4636bf50f082dc2590]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6035ad5f9ecc2e4636bf50f082dc2590]: Commencement: [S. 66](https://www.legislation.gov.uk/nia/2011/24/section/66) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)
+[^c-6035ad5f9ecc2e4636bf50f082dc2590]: Commencement: [S. 66](https://www.legislation.gov.uk/nia/2011/24/section/66) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Access to the database[^key-95f93370eb6a7d095d3741fbd56e3349]
+## 86. Access to the database[^c-95f93370eb6a7d095d3741fbd56e3349]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95f93370eb6a7d095d3741fbd56e3349]: Commencement: S. 86 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-95f93370eb6a7d095d3741fbd56e3349]: Commencement: S. 86 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)

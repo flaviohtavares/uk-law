@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200. Anonymity for authorised firearms officers charged with qualifying offences[^key-afe3076f4e3316d1cab991c21228f46f]
+## 200. Anonymity for authorised firearms officers charged with qualifying offences[^c-afe3076f4e3316d1cab991c21228f46f]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afe3076f4e3316d1cab991c21228f46f]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2026/20/section/200) in force at 29.6.2026, see [s. 255(3)(h)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/h)
+[^c-afe3076f4e3316d1cab991c21228f46f]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2026/20/section/200) in force at 29.6.2026, see [s. 255(3)(h)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/h)

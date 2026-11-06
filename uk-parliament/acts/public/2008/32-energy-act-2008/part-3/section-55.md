@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Funded decommissioning programmes: verification of financial matters[^key-37389fc6b9814e3d0cf966900c6abbb8]
+## 55. Funded decommissioning programmes: verification of financial matters[^c-37389fc6b9814e3d0cf966900c6abbb8]
 
 *Extent: E+W+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37389fc6b9814e3d0cf966900c6abbb8]: Commencement: S. 55 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
+[^c-37389fc6b9814e3d0cf966900c6abbb8]: Commencement: S. 55 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)

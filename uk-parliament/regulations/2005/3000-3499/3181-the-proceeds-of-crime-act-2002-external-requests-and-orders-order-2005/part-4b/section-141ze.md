@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141ZE. General exceptions[^key-60d328b1519329044b0e7f9eeb27db3e]
+## 141ZE. General exceptions[^c-60d328b1519329044b0e7f9eeb27db3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,14 +39,14 @@ a prohibition order may not be made in respect of the relevant property.
 
 (4) If—
 
-- (a) a payment is made to a person in pursuance of a compensation order under Article 14 of the Criminal Justice (Northern Ireland) Order 1994[^f00018], section 249 of the Criminal Procedure (Scotland) Act 1995[^f00019], section 130 of the Powers of Criminal Courts (Sentencing) Act 2000[^f00020] or Chapter 2 of Part 7 of the Sentencing Code[^key-fc8675b706cb60b831a927a751b6f1b0] or in pursuance of a service compensation order under the Armed Forces Act 2006[^f00021], and
+- (a) a payment is made to a person in pursuance of a compensation order under Article 14 of the Criminal Justice (Northern Ireland) Order 1994[^f00018], section 249 of the Criminal Procedure (Scotland) Act 1995[^f00019], section 130 of the Powers of Criminal Courts (Sentencing) Act 2000[^f00020] or Chapter 2 of Part 7 of the Sentencing Code[^c-fc8675b706cb60b831a927a751b6f1b0] or in pursuance of a service compensation order under the Armed Forces Act 2006[^f00021], and
 - (b) the sum received is relevant property,
 
 a prohibition order may not be made in respect of the relevant property.
 
 (5) If—
 
-- (a) a payment is made to a person in pursuance of a restitution order under section 27 of the Theft Act (Northern Ireland) 1969[^f00022] or section 148(2) of the Powers of Criminal Courts (Sentencing) Act 2000 or Chapter 3 of Part 7 of the Sentencing Code[^key-bc54f36b8109992fbca9688d2016591b] or a person otherwise obtains any property in pursuance of such an order, and
+- (a) a payment is made to a person in pursuance of a restitution order under section 27 of the Theft Act (Northern Ireland) 1969[^f00022] or section 148(2) of the Powers of Criminal Courts (Sentencing) Act 2000 or Chapter 3 of Part 7 of the Sentencing Code[^c-bc54f36b8109992fbca9688d2016591b] or a person otherwise obtains any property in pursuance of such an order, and
 - (b) the sum received, or the property obtained, is relevant property,
 
 a prohibition order may not be made in respect of the relevant property.
@@ -81,7 +81,7 @@ and, in relation to an order mentioned in paragraph (c), the reference to the am
 
 ## Annotations
 
-[^key-60d328b1519329044b0e7f9eeb27db3e]: Textual amendment: [Pts. 4A](https://www.legislation.gov.uk/uksi/2005/3181/part/4A), [4B](https://www.legislation.gov.uk/uksi/2005/3181/part/4B) inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2604/article/3)
+[^c-60d328b1519329044b0e7f9eeb27db3e]: Textual amendment: [Pts. 4A](https://www.legislation.gov.uk/uksi/2005/3181/part/4A), [4B](https://www.legislation.gov.uk/uksi/2005/3181/part/4B) inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2604/article/3)
 
 [^f00018]: Footnote: [S.I. 1990/2588 (N.I. 17)](https://www.legislation.gov.uk/nisi/1990/2588).
 
@@ -89,12 +89,12 @@ and, in relation to an order mentioned in paragraph (c), the reference to the am
 
 [^f00020]: Footnote: [S.I. 1996/1299 (N.I. 9)](https://www.legislation.gov.uk/nisi/1996/1299).
 
-[^key-fc8675b706cb60b831a927a751b6f1b0]: Textual amendment: Words in [art. 141ZE(4)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/141ZE/4/a) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 340(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/340/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-fc8675b706cb60b831a927a751b6f1b0]: Textual amendment: Words in [art. 141ZE(4)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/141ZE/4/a) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 340(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/340/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^f00021]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
 
 [^f00022]: Footnote: [1986 c. 32](https://www.legislation.gov.uk/ukpga/1986/32).
 
-[^key-bc54f36b8109992fbca9688d2016591b]: Textual amendment: Words in [art. 141ZE(5)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/141ZE/5/a) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 340(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/340/3) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-bc54f36b8109992fbca9688d2016591b]: Textual amendment: Words in [art. 141ZE(5)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/141ZE/5/a) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 340(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/340/3) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^f00023]: Footnote: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33).

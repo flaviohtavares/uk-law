@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^c16918821] If in the case of a pipe-line operated by a person holding a licence under Article 8(1)(a) ( “the operator”) it appears to the Authority[^key-e513df444ecfbe94ffa9d9d1a4814cf3], on the application of a person other than the operator, that the pipe-line can and should be modified—
+(1)[^c16918821] If in the case of a pipe-line operated by a person holding a licence under Article 8(1)(a) ( “the operator”) it appears to the Authority[^c-e513df444ecfbe94ffa9d9d1a4814cf3], on the application of a person other than the operator, that the pipe-line can and should be modified—
 
 - (a) by installing in it a junction through which another pipe-line may be connected to it; or
 - (b) by modifying apparatus and works associated with a high pressure pipe-line so as to increase the capacity of the pipe-line,
@@ -34,7 +34,7 @@ then, subject to paragraph (3), the Authority may, after giving to the operator 
 - (c) specify the arrangements which the Authority considers should be made by the applicant, within a period specified in the directions, for the purpose of securing that those sums will be paid to the[^c16918821] operator if he carries out the modifications;
 - (d) require the[^c16918821] operator, if the applicant makes those arrangements within the period specified under sub-paragraph (c), to carry out the modifications within a period specified in the directions.
 
-(3)[^key-dc5867a121130b72a7975949bd6f0538] Where the Authority proposes to give directions under paragraph (1), it shall be its duty before doing so to give to the applicant particulars of the modifications which it proposes to specify in the directions.
+(3)[^c-dc5867a121130b72a7975949bd6f0538] Where the Authority proposes to give directions under paragraph (1), it shall be its duty before doing so to give to the applicant particulars of the modifications which it proposes to specify in the directions.
 
 (4) The obligation to comply with any directions under paragraph (1) is a duty owed to any person who may be affected by a contravention of them.
 
@@ -42,7 +42,7 @@ then, subject to paragraph (3), the Authority may, after giving to the operator 
 
 (6) In any proceedings brought against any person in pursuance of paragraph (5), it shall be a defence for him to prove that he took all reasonable steps and exercised all due diligence to avoid contravening the directions in question.
 
-(7) Without prejudice to any right which any person may have by virtue of paragraph (5) to bring civil proceedings in respect of any contravention or apprehended contravention of any directions under paragraph (1), compliance with any such directions shall be enforceable by civil proceedings by the Authority[^key-eaf84cc21ccda87f4ae9b470065664d6] for an injunction or for any other appropriate relief.
+(7) Without prejudice to any right which any person may have by virtue of paragraph (5) to bring civil proceedings in respect of any contravention or apprehended contravention of any directions under paragraph (1), compliance with any such directions shall be enforceable by civil proceedings by the Authority[^c-eaf84cc21ccda87f4ae9b470065664d6] for an injunction or for any other appropriate relief.
 
 (8) In this Article “high pressure pipe-line” means any pipe-line which—
 
@@ -53,10 +53,10 @@ then, subject to paragraph (3), the Authority may, after giving to the operator 
 
 [^c16918821]: Textual amendment: prosp. subst. by [2003 NI 6](https://www.legislation.gov.uk/2003/ni6)
 
-[^key-e513df444ecfbe94ffa9d9d1a4814cf3]: Textual amendment: Word in [art. 36(1)](https://www.legislation.gov.uk/nisi/1996/275/article/36/1) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(6)(a)(i)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/6/a/i)
+[^c-e513df444ecfbe94ffa9d9d1a4814cf3]: Textual amendment: Word in [art. 36(1)](https://www.legislation.gov.uk/nisi/1996/275/article/36/1) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(6)(a)(i)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/6/a/i)
 
 [^M_F_a5393c65-bad4-409c-f5b8-1ffec76ddb4d]: Textual amendment: Word in art. 36(2) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(6)(a)(ii)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/6/a/ii)
 
-[^key-dc5867a121130b72a7975949bd6f0538]: Textual amendment: [Art. 36(3)](https://www.legislation.gov.uk/nisi/1996/275/article/36/3) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(6)(b)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/6/b)
+[^c-dc5867a121130b72a7975949bd6f0538]: Textual amendment: [Art. 36(3)](https://www.legislation.gov.uk/nisi/1996/275/article/36/3) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(6)(b)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/6/b)
 
-[^key-eaf84cc21ccda87f4ae9b470065664d6]: Textual amendment: Word in [art. 36(7)](https://www.legislation.gov.uk/nisi/1996/275/article/36/7) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(6)(a)(iii)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/6/a/iii)
+[^c-eaf84cc21ccda87f4ae9b470065664d6]: Textual amendment: Word in [art. 36(7)](https://www.legislation.gov.uk/nisi/1996/275/article/36/7) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(6)(a)(iii)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/6/a/iii)

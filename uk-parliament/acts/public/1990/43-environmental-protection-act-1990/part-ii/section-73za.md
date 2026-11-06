@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73ZA. Use of fixed penalty receipts: England[^key-3c6db2c434199c68cf84e5bb4c754574]
+## 73ZA. Use of fixed penalty receipts: England[^c-3c6db2c434199c68cf84e5bb4c754574]
 
 *Extent: E+W+S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c6db2c434199c68cf84e5bb4c754574]: Textual amendment: [S. 73ZA](https://www.legislation.gov.uk/ukpga/1990/43/section/73ZA) inserted (1.4.2024) by [The Waste Enforcement (Fixed Penalty Receipts) (Amendment) (England and Wales) Regulations 2024 (S.I. 2024/365)](https://www.legislation.gov.uk/uksi/2024/365), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/365/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2024/365/regulation/2/a)
+[^c-3c6db2c434199c68cf84e5bb4c754574]: Textual amendment: [S. 73ZA](https://www.legislation.gov.uk/ukpga/1990/43/section/73ZA) inserted (1.4.2024) by [The Waste Enforcement (Fixed Penalty Receipts) (Amendment) (England and Wales) Regulations 2024 (S.I. 2024/365)](https://www.legislation.gov.uk/uksi/2024/365), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/365/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2024/365/regulation/2/a)

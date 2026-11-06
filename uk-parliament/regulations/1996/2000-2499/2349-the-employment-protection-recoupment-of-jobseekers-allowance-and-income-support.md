@@ -31,7 +31,7 @@ TERMS AND CONDITIONS OF EMPLOYMENT
 
 INDUSTRIAL TRIBUNALS
 
-The Employment Protection (Recoupment of Benefits[^key-4c882bc211345ef1d744c02b33505e67]) Regulations 1996
+The Employment Protection (Recoupment of Benefits[^c-4c882bc211345ef1d744c02b33505e67]) Regulations 1996
 
 Made
 
@@ -51,7 +51,7 @@ The Secretary of State in exercise of the powers conferred on him by section 16 
 
 ### 1. Citation and Commencement
 
-These Regulations may be cited as the Employment Protection (Recoupment of Benefits[^key-e3788412745aa1e4187fd1c521f52dbc]) Regulations 1996 and shall come into force on 7th October 1996.
+These Regulations may be cited as the Employment Protection (Recoupment of Benefits[^c-e3788412745aa1e4187fd1c521f52dbc]) Regulations 1996 and shall come into force on 7th October 1996.
 
 ### 2. Interpretation
 
@@ -67,13 +67,13 @@ These Regulations may be cited as the Employment Protection (Recoupment of Benef
 
 “protective award" has the same meaning as in section 189(3) of the 1992 Act;
 
-“recoupable benefit" means any jobseeker’s allowance, income-related employment and support allowance[^key-12863ce0f6622f36b1cd6ebd7cb2e154], universal credit[^key-2275d6c4031a8ef738083a64d9b380de] or income support as the case may be, which is recoupable under these Regulations;
+“recoupable benefit" means any jobseeker’s allowance, income-related employment and support allowance[^c-12863ce0f6622f36b1cd6ebd7cb2e154], universal credit[^c-2275d6c4031a8ef738083a64d9b380de] or income support as the case may be, which is recoupable under these Regulations;
 
 “recoupment notice" means a notice under these Regulations;
 
 “Secretary of the Tribunals" means the Secretary of the Central Office of the Industrial Tribunals (England and Wales) or, as the case may require, the Secretary of the Central Office of the Industrial Tribunals (Scotland) for the time being;
 
-“universal credit” means universal credit under Part 1 of the Welfare Reform Act 2012;[^key-fdb03ee7b2ba75b0ce80019210804ebb]
+“universal credit” means universal credit under Part 1 of the Welfare Reform Act 2012;[^c-fdb03ee7b2ba75b0ce80019210804ebb]
 
 (2) In the Schedule to these Regulations references to sections are references to sections of the 1996 Act unless otherwise indicated and references in column 3 of the table to the conclusion of the tribunal proceedings are references to the conclusion of the proceedings mentioned in the corresponding entry in column 2.
 
@@ -101,7 +101,7 @@ These Regulations may be cited as the Employment Protection (Recoupment of Benef
 
 Duties of the industrial tribunals and of the Secretary of the Tribunals in respect of monetary awards
 
-(1) Where these Regulations apply, no regard shall be had, in assessing the amount of a monetary award, to the amount of any jobseeker’s allowance, income-related employment and support allowance[^key-fdcc9c36e9192ec71d2f36c5573eefe1], universal credit[^key-8455f5b2ff63db3a1172b396d22dda08] or any income support which may have been paid to or claimed by the employee for a period which coincides with any part of a period to which the prescribed element is attributable.
+(1) Where these Regulations apply, no regard shall be had, in assessing the amount of a monetary award, to the amount of any jobseeker’s allowance, income-related employment and support allowance[^c-fdcc9c36e9192ec71d2f36c5573eefe1], universal credit[^c-8455f5b2ff63db3a1172b396d22dda08] or any income support which may have been paid to or claimed by the employee for a period which coincides with any part of a period to which the prescribed element is attributable.
 
 (2) Where the industrial tribunal in arriving at a monetary award makes a reduction on account of the employee’s contributory fault or on account of any limit imposed by or under the 1992 Act or 1996 Act, a proportionate reduction shall be made in arriving at the amount of the prescribed element.
 
@@ -120,7 +120,7 @@ Duties of the industrial tribunals and of the Secretary of the Tribunals in resp
 
 (7) In addition to containing the particulars required under paragraph (3) above, any such decision as is mentioned in that paragraph shall contain a statement explaining the effect of Regulations 7 and 8 below in relation to the prescribed element.
 
-(8) The requirements of paragraphs (3) to (7) above do not apply where the tribunal is satisfied that in respect of each day falling within the period to which the prescribed element relates the employee has neither received nor claimed jobseeker’s allowance, income-related employment and support allowance[^key-030e3b889035b11a47e1e73b92f433f3], universal credit[^key-b2801d05b17425b6b9f45c9717428809] or income support.
+(8) The requirements of paragraphs (3) to (7) above do not apply where the tribunal is satisfied that in respect of each day falling within the period to which the prescribed element relates the employee has neither received nor claimed jobseeker’s allowance, income-related employment and support allowance[^c-030e3b889035b11a47e1e73b92f433f3], universal credit[^c-b2801d05b17425b6b9f45c9717428809] or income support.
 
 ### 5.
 
@@ -171,20 +171,20 @@ Duties of the employer to give information about protective awards
 
 ### 8. Recoupment of Benefit
 
-(1) Recoupment shall be initiated by the Secretary of State serving on the employer a recoupment notice claiming by way of total or partial recoupment of jobseeker’s allowance, income-related employment and support allowance[^key-87f7cb9d4f4738cc2d782ce7122a58e1], universal credit[^key-3fa017d5b14f13e0ec4e6851e3a9cb6a] or income support the appropriate amount, computed, as the case may require, under paragraph (2) or (3) below.
+(1) Recoupment shall be initiated by the Secretary of State serving on the employer a recoupment notice claiming by way of total or partial recoupment of jobseeker’s allowance, income-related employment and support allowance[^c-87f7cb9d4f4738cc2d782ce7122a58e1], universal credit[^c-3fa017d5b14f13e0ec4e6851e3a9cb6a] or income support the appropriate amount, computed, as the case may require, under paragraph (2) or (3) below.
 
 (2) In the case of monetary awards the appropriate amount shall be whichever is the less of the following two sums—
 
 - (a) the amount of the prescribed element (less any tax or social security contributions which fall to be deducted therefrom by the employer); or
 - (b)
-  - (i)[^key-8430606b00156a628716e7a61f5dc8c3] the amount paid by way of or paid as on account of jobseeker’s allowance, income-related employment and support allowance[^key-c82e2d28b15d1179a1e9be41c645788d] or income support to the employee for any period which coincides with any part of the period to which the prescribed element is attributable.; or[^key-e4cfb01cf0160205b49b89ded2f41422]
+  - (i)[^c-8430606b00156a628716e7a61f5dc8c3] the amount paid by way of or paid as on account of jobseeker’s allowance, income-related employment and support allowance[^c-c82e2d28b15d1179a1e9be41c645788d] or income support to the employee for any period which coincides with any part of the period to which the prescribed element is attributable.; or[^c-e4cfb01cf0160205b49b89ded2f41422]
   - (ii) in the case of an employee entitled to an award of universal credit for any period (“the UC period ”) which coincides with any part of the period to which the prescribed element is attributable, any amount paid by way of or on account of universal credit for the UC period that would not have been paid if the person’s earned income for that period was the same as immediately before the period to which the prescribed element is attributable
 
 (3) In the case of remuneration under a protective award the appropriate amount shall be whichever is the less of the following two sums—
 
 - (a) the amount (less any tax or social security contributions which fall to be deducted therefrom by the employer) accrued due to the employee in respect of so much of the protected period as falls before the date on which the Secretary of State receives from the employer the information required under Regulation 6 above; or
 - (b)
-  - (i)[^key-a7aa3ae3407fe49042617fa0b48482fa] the amount paid by way of or paid as on account of jobseeker’s allowance, income-related employment and support allowance[^key-fc49d2bcd8856d21b303649d644ee15c] or income support to the employee for any period which coincides with any part of the protected period falling before the date described in (a) above.; or[^key-0d7f5ac8a6d95e9f1e3e50b8191c52ae]
+  - (i)[^c-a7aa3ae3407fe49042617fa0b48482fa] the amount paid by way of or paid as on account of jobseeker’s allowance, income-related employment and support allowance[^c-fc49d2bcd8856d21b303649d644ee15c] or income support to the employee for any period which coincides with any part of the protected period falling before the date described in (a) above.; or[^c-0d7f5ac8a6d95e9f1e3e50b8191c52ae]
   - (ii) n the case of an employee entitled to an award of universal credit for any period (“the UC period ”) which coincides with any part of the period to which the prescribed element is attributable, any amount paid by way of or on account of universal credit for the UC period that would not have been paid if the person’s earned income for that period was the same as immediately before the period to which the prescribed element is attributable
 
 (4) A recoupment notice shall be served on the employer by post or otherwise and copies shall likewise be sent to the employee and, if requested, to the Secretary of the Tribunals.
@@ -206,7 +206,7 @@ Duties of the employer to give information about protective awards
 
 (11) The recoupable amount shall be recoverable by the Secretary of State from the employer as a debt.
 
-(12)[^key-874e2484854895391bd27080be996109] For the purposes of paragraphs (2)(b)(ii) and (3)(b)(ii), “earned income” has the meaning given in regulation 52 of the Universal Credit Regulations 2013.
+(12)[^c-874e2484854895391bd27080be996109] For the purposes of paragraphs (2)(b)(ii) and (3)(b)(ii), “earned income” has the meaning given in regulation 52 of the Universal Credit Regulations 2013.
 
 ### 9. Order made in secondary proceedings
 
@@ -226,13 +226,13 @@ it shall be the duty of the industrial tribunal or, as the case may require, the
 
 ### 10. Provisions relating to determination of amount paid by way of or paid as on account of benefit
 
-(1) Without prejudice to the right of the Secretary of State to recover from an employer the recoupable benefit, an employee on whom a copy of a recoupment notice has been served in accordance with Regulation 8 above may, within 21 days of the date on which such notice was served on him or within such further time as the Secretary of State may for special reasons allow, give notice in writing to the Secretary of State that he does not accept that the amount specified in the recoupment notice in respect of jobseeker’s allowance, income-related employment and support allowance[^key-417d6949f6abd6fbcc2a99e8aa4cd7d0], universal credit[^key-43267ddfd2f4da9016cd590a57abd187] or income support is correct.
+(1) Without prejudice to the right of the Secretary of State to recover from an employer the recoupable benefit, an employee on whom a copy of a recoupment notice has been served in accordance with Regulation 8 above may, within 21 days of the date on which such notice was served on him or within such further time as the Secretary of State may for special reasons allow, give notice in writing to the Secretary of State that he does not accept that the amount specified in the recoupment notice in respect of jobseeker’s allowance, income-related employment and support allowance[^c-417d6949f6abd6fbcc2a99e8aa4cd7d0], universal credit[^c-43267ddfd2f4da9016cd590a57abd187] or income support is correct.
 
 (2)[^M_F_1309866a-81fb-4dde-91a9-4eecac7eba04] Where an employee has given notice in writing to the Secretary of State under paragraph (1) above that he does not accept that an amount specified in the recoupment notice is correct, the Secretary of State shall make a decision as to the amount of jobseeker’s allowance, income-related employment and support allowance, universal credit or, as the case may be, income support paid in respect of the period to which the prescribed element is attributable or, as appropriate, in respect of so much of the protected period as falls before the date on which the employer complies with Regulation 6 above.
 
 (2A) The Secretary of State may revise either upon application made for the purpose or on his own initiative a decision under paragraph (2) above.
 
-(2B) The employee shall have a right of appeal to the First-tier Tribunal[^key-5b72103c59056b3d6322eb176b0fd092] against a decision of the Secretary of State whether as originally made under paragraph (2) or as revised under paragraph (2A) above.
+(2B) The employee shall have a right of appeal to the First-tier Tribunal[^c-5b72103c59056b3d6322eb176b0fd092] against a decision of the Secretary of State whether as originally made under paragraph (2) or as revised under paragraph (2A) above.
 
 (2C) The Social Security and Child Support (Decisions and Appeals) Regulations 1999 shall apply for the purposes of paragraphs (2A) and (2B) above as though a decision of the Secretary of State under paragraph (2A) above were made under section 9 of the 1998 Act and any appeal from such a decision were made under section 12 of that Act.
 
@@ -286,7 +286,7 @@ The new Regulations are in part consequential upon the introduction of jobseeker
 
 ## Annotations
 
-[^key-4c882bc211345ef1d744c02b33505e67]: Textual amendment: Words in Regulations title substituted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [50(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/2)
+[^c-4c882bc211345ef1d744c02b33505e67]: Textual amendment: Words in Regulations title substituted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [50(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/2)
 
 [^c1765885]: Marginal citation: [1996 c.17](https://www.legislation.gov.uk/ukpga/1996/17).
 
@@ -294,52 +294,52 @@ The new Regulations are in part consequential upon the introduction of jobseeker
 
 [^c1765887]: Marginal citation: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-e3788412745aa1e4187fd1c521f52dbc]: Textual amendment: Word in [reg. 1](https://www.legislation.gov.uk/uksi/1996/2349/regulation/1) substituted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [50(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/3)
+[^c-e3788412745aa1e4187fd1c521f52dbc]: Textual amendment: Word in [reg. 1](https://www.legislation.gov.uk/uksi/1996/2349/regulation/1) substituted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [50(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/3)
 
 [^c1765888]: Marginal citation: [1992 c.52](https://www.legislation.gov.uk/ukpga/1992/52).
 
 [^c1765889]: Marginal citation: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-12863ce0f6622f36b1cd6ebd7cb2e154]: Textual amendment: Words in reg. 2(1) inserted (1.11.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2010 (S.I. 2010/2429)](https://www.legislation.gov.uk/uksi/2010/2429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/5/a)
+[^c-12863ce0f6622f36b1cd6ebd7cb2e154]: Textual amendment: Words in reg. 2(1) inserted (1.11.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2010 (S.I. 2010/2429)](https://www.legislation.gov.uk/uksi/2010/2429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/5/a)
 
-[^key-2275d6c4031a8ef738083a64d9b380de]: Textual amendment: Words in reg. 2(1) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [50(4)(a)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/4/a)
+[^c-2275d6c4031a8ef738083a64d9b380de]: Textual amendment: Words in reg. 2(1) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [50(4)(a)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/4/a)
 
-[^key-fdb03ee7b2ba75b0ce80019210804ebb]: Textual amendment: Words in reg. 2(1) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [50(4)(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/4/b)
+[^c-fdb03ee7b2ba75b0ce80019210804ebb]: Textual amendment: Words in reg. 2(1) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [50(4)(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/4/b)
 
-[^key-fdcc9c36e9192ec71d2f36c5573eefe1]: Textual amendment: Words in reg. 4(1) inserted (1.11.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2010 (S.I. 2010/2429)](https://www.legislation.gov.uk/uksi/2010/2429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/5/b)
+[^c-fdcc9c36e9192ec71d2f36c5573eefe1]: Textual amendment: Words in reg. 4(1) inserted (1.11.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2010 (S.I. 2010/2429)](https://www.legislation.gov.uk/uksi/2010/2429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/5/b)
 
-[^key-8455f5b2ff63db3a1172b396d22dda08]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1996/2349/regulation/4/1) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [50(5)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/5)
+[^c-8455f5b2ff63db3a1172b396d22dda08]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1996/2349/regulation/4/1) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [50(5)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/5)
 
-[^key-030e3b889035b11a47e1e73b92f433f3]: Textual amendment: Words in reg. 4(8) inserted (1.11.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2010 (S.I. 2010/2429)](https://www.legislation.gov.uk/uksi/2010/2429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/5/b)
+[^c-030e3b889035b11a47e1e73b92f433f3]: Textual amendment: Words in reg. 4(8) inserted (1.11.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2010 (S.I. 2010/2429)](https://www.legislation.gov.uk/uksi/2010/2429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/5/b)
 
-[^key-b2801d05b17425b6b9f45c9717428809]: Textual amendment: Words in [reg. 4(8)](https://www.legislation.gov.uk/uksi/1996/2349/regulation/4/8) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [50(5)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/5)
+[^c-b2801d05b17425b6b9f45c9717428809]: Textual amendment: Words in [reg. 4(8)](https://www.legislation.gov.uk/uksi/1996/2349/regulation/4/8) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [50(5)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/5)
 
-[^key-87f7cb9d4f4738cc2d782ce7122a58e1]: Textual amendment: Words in reg. 8(1) inserted (1.11.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2010 (S.I. 2010/2429)](https://www.legislation.gov.uk/uksi/2010/2429) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/1/2) , [5(c)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/5/c)
+[^c-87f7cb9d4f4738cc2d782ce7122a58e1]: Textual amendment: Words in reg. 8(1) inserted (1.11.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2010 (S.I. 2010/2429)](https://www.legislation.gov.uk/uksi/2010/2429) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/1/2) , [5(c)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/5/c)
 
-[^key-3fa017d5b14f13e0ec4e6851e3a9cb6a]: Textual amendment: Words in reg. 8(1) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2) , [50(6)(a)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/6/a)
+[^c-3fa017d5b14f13e0ec4e6851e3a9cb6a]: Textual amendment: Words in reg. 8(1) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2) , [50(6)(a)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/6/a)
 
-[^key-8430606b00156a628716e7a61f5dc8c3]: Textual amendment: Word in reg. 8(2)(b) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2) , [50(6)(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/6/b)
+[^c-8430606b00156a628716e7a61f5dc8c3]: Textual amendment: Word in reg. 8(2)(b) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2) , [50(6)(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/6/b)
 
-[^key-c82e2d28b15d1179a1e9be41c645788d]: Textual amendment: Words in reg. 8(2)(b) inserted (1.11.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2010 (S.I. 2010/2429)](https://www.legislation.gov.uk/uksi/2010/2429) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/1/2) , [5(c)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/5/c)
+[^c-c82e2d28b15d1179a1e9be41c645788d]: Textual amendment: Words in reg. 8(2)(b) inserted (1.11.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2010 (S.I. 2010/2429)](https://www.legislation.gov.uk/uksi/2010/2429) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/1/2) , [5(c)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/5/c)
 
-[^key-e4cfb01cf0160205b49b89ded2f41422]: Textual amendment: Reg. 8(2)(b)(ii) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2) , [50(6)(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/6/b)
+[^c-e4cfb01cf0160205b49b89ded2f41422]: Textual amendment: Reg. 8(2)(b)(ii) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2) , [50(6)(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/6/b)
 
-[^key-a7aa3ae3407fe49042617fa0b48482fa]: Textual amendment: Word in reg. 8(3)(b) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2) , [50(6)(c)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/6/c)
+[^c-a7aa3ae3407fe49042617fa0b48482fa]: Textual amendment: Word in reg. 8(3)(b) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2) , [50(6)(c)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/6/c)
 
-[^key-fc49d2bcd8856d21b303649d644ee15c]: Textual amendment: Words in reg. 8(3)(b) inserted (1.11.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2010 (S.I. 2010/2429)](https://www.legislation.gov.uk/uksi/2010/2429) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/1/2) , [5(c)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/5/c)
+[^c-fc49d2bcd8856d21b303649d644ee15c]: Textual amendment: Words in reg. 8(3)(b) inserted (1.11.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2010 (S.I. 2010/2429)](https://www.legislation.gov.uk/uksi/2010/2429) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/1/2) , [5(c)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/5/c)
 
-[^key-0d7f5ac8a6d95e9f1e3e50b8191c52ae]: Textual amendment: Reg. 8(3)(b)(ii) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2) , [50(6)(c)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/6/c)
+[^c-0d7f5ac8a6d95e9f1e3e50b8191c52ae]: Textual amendment: Reg. 8(3)(b)(ii) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2) , [50(6)(c)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/6/c)
 
-[^key-874e2484854895391bd27080be996109]: Textual amendment: Reg. 8(12) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2) , [50(6)(d)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/6/d)
+[^c-874e2484854895391bd27080be996109]: Textual amendment: Reg. 8(12) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2) , [50(6)(d)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/6/d)
 
 [^M_F_dd6942c5-5f31-4f49-b755-3e19e78ba166]: Textual amendment: Words omitted from the heading by para. 1 of Sch. 14 to S.S. 1999/3178 as from 29.11.99.
 
-[^key-417d6949f6abd6fbcc2a99e8aa4cd7d0]: Textual amendment: Words in reg. 10(1)(2) inserted (1.11.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2010 (S.I. 2010/2429)](https://www.legislation.gov.uk/uksi/2010/2429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/1/2), [5(d)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/5/d)
+[^c-417d6949f6abd6fbcc2a99e8aa4cd7d0]: Textual amendment: Words in reg. 10(1)(2) inserted (1.11.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2010 (S.I. 2010/2429)](https://www.legislation.gov.uk/uksi/2010/2429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/1/2), [5(d)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/5/d)
 
-[^key-43267ddfd2f4da9016cd590a57abd187]: Textual amendment: Words in reg. 10(1)(2) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [50(7)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/7)
+[^c-43267ddfd2f4da9016cd590a57abd187]: Textual amendment: Words in reg. 10(1)(2) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [50(7)](https://www.legislation.gov.uk/uksi/2013/630/regulation/50/7)
 
 [^M_F_1309866a-81fb-4dde-91a9-4eecac7eba04]: Textual amendment: Regs. 10 (2) (3) substituted (29.11.99) by S.I. 1999/3178 , reg. 2, Sch. 14, para. 2.
 
-[^key-5b72103c59056b3d6322eb176b0fd092]: Textual amendment: Words in reg. 10(2B) substituted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 73](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/73)
+[^c-5b72103c59056b3d6322eb176b0fd092]: Textual amendment: Words in reg. 10(2B) substituted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 73](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/73)
 
 [^c1765890]: Marginal citation: [S.I. 1977/674](https://www.legislation.gov.uk/uksi/1977/674) as amended by [S.I. 1980/1608](https://www.legislation.gov.uk/uksi/1980/1608), 1984/458 and 1988/419.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Failure to provide information under article 86 (information required where suspected failure to comply with this Order)[^key-798e779a24f72cd24566194614d6c8f2]
+## 101. Failure to provide information under article 86 (information required where suspected failure to comply with this Order)[^c-798e779a24f72cd24566194614d6c8f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-798e779a24f72cd24566194614d6c8f2]: Commencement: Art. 101 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-798e779a24f72cd24566194614d6c8f2]: Commencement: Art. 101 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

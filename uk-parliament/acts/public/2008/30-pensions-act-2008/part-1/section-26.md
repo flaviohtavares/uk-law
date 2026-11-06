@@ -43,7 +43,7 @@ summary: ''
 
 (7) The fourth condition is that, in relation to the jobholder, there are direct payment arrangements (within the meaning of section 111A of the Pension Schemes Act 1993 (c. 48)) between the jobholder and the employer.
 
-(7A)[^key-265d34786a367a71043acb18702bde58] The fifth condition is that if the scheme is a group personal pension scheme of a prescribed description it must, unless subsection (7C) applies, hold an approval under section 28B in respect of a main scale default arrangement.
+(7A)[^c-265d34786a367a71043acb18702bde58] The fifth condition is that if the scheme is a group personal pension scheme of a prescribed description it must, unless subsection (7C) applies, hold an approval under section 28B in respect of a main scale default arrangement.
 
 (7B) The sixth condition is that if the scheme is a group personal pension scheme of a prescribed description it must hold an approval under section 28C in respect of the asset allocation requirement. See also section 28G (suspension of asset allocation requirement: savers’ interest test) for provision about circumstances in which the asset allocation requirement is suspended.
 
@@ -65,14 +65,14 @@ summary: ''
 
 (9) A scheme does not fail to satisfy the quality requirement under this section merely because the provider of the scheme may on any occasion refuse to accept a contribution below an amount prescribed for the purposes of this section on the grounds that it is below that amount.
 
-(10)[^key-916511b190d4316208c7074aa1ad9e76] In this section “**main scale default arrangement**” is to be interpreted in accordance with section 28B(13).
+(10)[^c-916511b190d4316208c7074aa1ad9e76] In this section “**main scale default arrangement**” is to be interpreted in accordance with section 28B(13).
 
 ## Annotations
 
 [^c19537481]: Commencement: S. 26 wholly in force at 30.6.2012; s. 26 in force for certain purposes at Royal Assent see s. 149(2)(k); s. 26 in force so far as not already in force at 30.6.2012 by [S.I. 2012/1682](https://www.legislation.gov.uk/uksi/2012/1682), [art. 2(1)(2)(a)](https://www.legislation.gov.uk/uksi/2012/1682/article/2/1/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1682/schedule/1)
 
-[^key-265d34786a367a71043acb18702bde58]: Textual amendment: [S. 26(7A)-(7E)](https://www.legislation.gov.uk/ukpga/2008/30/section/26/7A) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 40(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/40/8), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c)
+[^c-265d34786a367a71043acb18702bde58]: Textual amendment: [S. 26(7A)-(7E)](https://www.legislation.gov.uk/ukpga/2008/30/section/26/7A) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 40(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/40/8), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c)
 
 [^c21677521]: Textual amendment: S. 26(8) omitted (6.4.2012) by virtue of [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) (No. 2) Regulations 2011 (S.I. 2011/1724)](https://www.legislation.gov.uk/uksi/2011/1724), [art. 3](https://www.legislation.gov.uk/uksi/2011/1724/article/3)
 
-[^key-916511b190d4316208c7074aa1ad9e76]: Textual amendment: [S. 26(10)](https://www.legislation.gov.uk/ukpga/2008/30/section/26/10) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 40(9)](https://www.legislation.gov.uk/ukpga/2026/22/section/40/9), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c)
+[^c-916511b190d4316208c7074aa1ad9e76]: Textual amendment: [S. 26(10)](https://www.legislation.gov.uk/ukpga/2008/30/section/26/10) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 40(9)](https://www.legislation.gov.uk/ukpga/2026/22/section/40/9), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c)

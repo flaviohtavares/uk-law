@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 900. Deduction from commercial payments made by individuals[^key-cc537c3f91a77627a702d4263c53de37][^key-e0f2c47deaa367896b6debbbc566f08a][^key-b934a00084e6373b25cffb6e2eee7022]
+## 900. Deduction from commercial payments made by individuals[^c-cc537c3f91a77627a702d4263c53de37][^c-e0f2c47deaa367896b6debbbc566f08a][^c-b934a00084e6373b25cffb6e2eee7022]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,8 +32,8 @@ summary: ''
 
 ## Annotations
 
-[^key-cc537c3f91a77627a702d4263c53de37]: Modification: S. 900 excluded (1.1.2011) by [The London Olympic Games and Paralympic Games Tax Regulations 2010 (S.I. 2010/2913)](https://www.legislation.gov.uk/uksi/2010/2913), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2913/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2010/2913/regulation/3/3) (with [regs. 9](https://www.legislation.gov.uk/uksi/2010/2913/regulation/9), [11](https://www.legislation.gov.uk/uksi/2010/2913/regulation/11))
+[^c-cc537c3f91a77627a702d4263c53de37]: Modification: S. 900 excluded (1.1.2011) by [The London Olympic Games and Paralympic Games Tax Regulations 2010 (S.I. 2010/2913)](https://www.legislation.gov.uk/uksi/2010/2913), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2913/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2010/2913/regulation/3/3) (with [regs. 9](https://www.legislation.gov.uk/uksi/2010/2913/regulation/9), [11](https://www.legislation.gov.uk/uksi/2010/2913/regulation/11))
 
-[^key-e0f2c47deaa367896b6debbbc566f08a]: Modification: Ss. 900, 901 applied by S.I. 2009/3001, reg. 124B(2) (as inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment No. 3) Regulations 2013 (S.I. 2013/1770)](https://www.legislation.gov.uk/uksi/2013/1770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1770/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/1770/regulation/2/3))
+[^c-e0f2c47deaa367896b6debbbc566f08a]: Modification: Ss. 900, 901 applied by S.I. 2009/3001, reg. 124B(2) (as inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment No. 3) Regulations 2013 (S.I. 2013/1770)](https://www.legislation.gov.uk/uksi/2013/1770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1770/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/1770/regulation/2/3))
 
-[^key-b934a00084e6373b25cffb6e2eee7022]: Modification: Ss. 900, 901 applied by S.I. 2006/964, reg. 46B(2) (as inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2013 (S.I. 2013/1772)](https://www.legislation.gov.uk/uksi/2013/1772), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1772/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1772/regulation/2/2))
+[^c-b934a00084e6373b25cffb6e2eee7022]: Modification: Ss. 900, 901 applied by S.I. 2006/964, reg. 46B(2) (as inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2013 (S.I. 2013/1772)](https://www.legislation.gov.uk/uksi/2013/1772), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1772/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1772/regulation/2/2))

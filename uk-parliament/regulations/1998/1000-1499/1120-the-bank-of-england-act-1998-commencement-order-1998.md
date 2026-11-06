@@ -36,9 +36,9 @@ Made
 
 The Treasury, in exercise of the powers conferred on them by section 45 of the Bank of England Act 1998[^f00001], hereby make the following Order:—
 
-**1.**[^key-b15b9bba50dd290bb2562f6c4829e912] This Order may be cited as the Bank of England Act 1998 (Commencement) Order 1998.
+**1.**[^c-b15b9bba50dd290bb2562f6c4829e912] This Order may be cited as the Bank of England Act 1998 (Commencement) Order 1998.
 
-**2.**[^key-dea575ecb15733929bdbab60dca5e0f2] The Bank of England Act 1998 shall come into force on 1st June 1998.
+**2.**[^c-dea575ecb15733929bdbab60dca5e0f2] The Bank of England Act 1998 shall come into force on 1st June 1998.
 
 Jim Dowd
 
@@ -56,6 +56,6 @@ This Order brings into force on 1st June 1998 all the provisions of the Bank of 
 
 [^f00001]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
 
-[^key-b15b9bba50dd290bb2562f6c4829e912]: Commencement: Art. 1 in force at made date
+[^c-b15b9bba50dd290bb2562f6c4829e912]: Commencement: Art. 1 in force at made date
 
-[^key-dea575ecb15733929bdbab60dca5e0f2]: Commencement: Art. 2 in force at made date
+[^c-dea575ecb15733929bdbab60dca5e0f2]: Commencement: Art. 2 in force at made date

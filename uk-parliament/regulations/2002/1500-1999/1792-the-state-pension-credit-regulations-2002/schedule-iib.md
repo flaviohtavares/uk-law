@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (13).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2002/1792
 
-## Schedule IIB — Transitional Protection on Closure of Tax Credits[^key-1c0b1f91481850609cee2c2785a5a845]
+## Schedule IIB — Transitional Protection on Closure of Tax Credits[^c-1c0b1f91481850609cee2c2785a5a845]
 
 regulation 6(6)
 
@@ -124,4 +124,4 @@ but excludes any error of law which is shown to have been such by a subsequent d
 
 ## Annotations
 
-[^key-1c0b1f91481850609cee2c2785a5a845]: Textual amendment: [Sch. 2B](https://www.legislation.gov.uk/uksi/2002/1792/schedule/2B) inserted (8.6.2024) by [The Social Security (State Pension Age Claimants: Closure of Tax Credits) (Amendment) Regulations 2024 (S.I. 2024/611)](https://www.legislation.gov.uk/uksi/2024/611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/611/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2024/611/regulation/4/5)
+[^c-1c0b1f91481850609cee2c2785a5a845]: Textual amendment: [Sch. 2B](https://www.legislation.gov.uk/uksi/2002/1792/schedule/2B) inserted (8.6.2024) by [The Social Security (State Pension Age Claimants: Closure of Tax Credits) (Amendment) Regulations 2024 (S.I. 2024/611)](https://www.legislation.gov.uk/uksi/2024/611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/611/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2024/611/regulation/4/5)

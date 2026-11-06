@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Approval of implementation strategy[^c24481161][^key-0a97dcd6255dcfdfae4a6813adbedc51]
+## 91. Approval of implementation strategy[^c24481161][^c-0a97dcd6255dcfdfae4a6813adbedc51]
 
 *Extent: N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
   - (i) the way in which, the extent to which and the time by which it is proposed to close the scheme;
   - (ii) how the scheme will continue to meet the authorisation criteria;
   - (iii) any revisions that will be needed to the viability report and the continuity strategy (see sections 64 and 68).
-  - (iv)[^key-48ab904013a856ba33e17dc5c3a4f7db] where the scheme is an unconnected multiple employer scheme, any revisions that will be needed to the business plan (see section 65A).
+  - (iv)[^c-48ab904013a856ba33e17dc5c3a4f7db] where the scheme is an unconnected multiple employer scheme, any revisions that will be needed to the business plan (see section 65A).
 
 (6) An implementation strategy must—
 
@@ -55,6 +55,6 @@ summary: ''
 
 [^c24481161]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2021/1/section/91) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-0a97dcd6255dcfdfae4a6813adbedc51]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2021/1/section/91) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-0a97dcd6255dcfdfae4a6813adbedc51]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2021/1/section/91) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
 
-[^key-48ab904013a856ba33e17dc5c3a4f7db]: Textual amendment: [S. 91(5)(d)(iv)](https://www.legislation.gov.uk/ukpga/2021/1/section/91/5/d/iv) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [19](https://www.legislation.gov.uk/nisr/2026/151/regulation/19)
+[^c-48ab904013a856ba33e17dc5c3a4f7db]: Textual amendment: [S. 91(5)(d)(iv)](https://www.legislation.gov.uk/ukpga/2021/1/section/91/5/d/iv) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [19](https://www.legislation.gov.uk/nisr/2026/151/regulation/19)

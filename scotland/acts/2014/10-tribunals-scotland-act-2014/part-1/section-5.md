@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Functions of office[^key-8c7b9f76bedffb5712122bd84998727e]
+## 5. Functions of office[^c-8c7b9f76bedffb5712122bd84998727e]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c7b9f76bedffb5712122bd84998727e]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/10/section/5) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-8c7b9f76bedffb5712122bd84998727e]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/10/section/5) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

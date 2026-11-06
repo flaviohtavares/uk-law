@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Amendment of the Deposits in the Sea (Exemptions) Order (Northern Ireland) 1995[^key-037cf2d735b1cc00888457d8c3a5efa4]
+## 23. Amendment of the Deposits in the Sea (Exemptions) Order (Northern Ireland) 1995[^c-037cf2d735b1cc00888457d8c3a5efa4]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-037cf2d735b1cc00888457d8c3a5efa4]: Textual amendment: Reg. 23 revoked (6.4.2011) by [The Marine Licensing (Exempted Activities) Order (Northern Ireland) 2011 (S.R. 2011/78)](https://www.legislation.gov.uk/nisr/2011/78), [arts. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1), [36(b)](https://www.legislation.gov.uk/nisr/2011/78/article/36/b)
+[^c-037cf2d735b1cc00888457d8c3a5efa4]: Textual amendment: Reg. 23 revoked (6.4.2011) by [The Marine Licensing (Exempted Activities) Order (Northern Ireland) 2011 (S.R. 2011/78)](https://www.legislation.gov.uk/nisr/2011/78), [arts. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1), [36(b)](https://www.legislation.gov.uk/nisr/2011/78/article/36/b)

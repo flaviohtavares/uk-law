@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Restructuring of registered societies[^key-0fbc691ef271d6bc4090fdafb16e54f5][^key-762a0f3167acbc516a8e5d2dd97370dc]
+## 17. Restructuring of registered societies[^c-0fbc691ef271d6bc4090fdafb16e54f5][^c-762a0f3167acbc516a8e5d2dd97370dc]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0fbc691ef271d6bc4090fdafb16e54f5]: Commencement: S. 17 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-0fbc691ef271d6bc4090fdafb16e54f5]: Commencement: S. 17 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-762a0f3167acbc516a8e5d2dd97370dc]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2023/36/section/17) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/j)
+[^c-762a0f3167acbc516a8e5d2dd97370dc]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2023/36/section/17) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/j)

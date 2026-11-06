@@ -94,13 +94,13 @@ Section 67(2).
 
 *Extent: E+W*
 
-**12A.**[^key-9adc92f4254f32e859a2e611d69f6b28] If the local authority is in Wales, it must also publish the notice electronically and keep it published throughout the period mentioned in paragraph 12(b)
+**12A.**[^c-9adc92f4254f32e859a2e611d69f6b28] If the local authority is in Wales, it must also publish the notice electronically and keep it published throughout the period mentioned in paragraph 12(b)
 
 *Extent: E+W*
 
 **12B.** The requirement in paragraph 12A to publish the notice electronically is a requirement to publish the notice on the local authority’s website, if it has one.
 
-**13.** Besides publishing a notice as required by paragraph 12 and (if relevant) paragraph 12A[^key-6c3861fab8e674a292b8a79147c762d9], the local authority who have made an order shall post, and keep posted throughout the period mentioned in that paragraph, copies of the notice in such number of conspicuous places within the area to which the order relates as appear to them necessary for the purpose of bringing the making of the order to the notice of persons affected.
+**13.** Besides publishing a notice as required by paragraph 12 and (if relevant) paragraph 12A[^c-6c3861fab8e674a292b8a79147c762d9], the local authority who have made an order shall post, and keep posted throughout the period mentioned in that paragraph, copies of the notice in such number of conspicuous places within the area to which the order relates as appear to them necessary for the purpose of bringing the making of the order to the notice of persons affected.
 
 **14.** If no objection is duly made to the Secretary of State within the period mentioned in paragraph 12(b), or if every objection so made is withdrawn, the Secretary of State may, if he thinks fit, confirm the order either with or without modifications.
 
@@ -136,8 +136,8 @@ the order shall, unless its coming into operation is again postponed under this 
 
 [^c10492071]: Marginal citation: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65).
 
-[^key-9adc92f4254f32e859a2e611d69f6b28]: Textual amendment: [Sch. 5 paras. 12A](https://www.legislation.gov.uk/ukpga/1993/11/schedule/5/paragraph/12A), [12B](https://www.legislation.gov.uk/ukpga/1993/11/schedule/5/paragraph/12B) inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 22(a)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/22/a); [S.I. 2025/937](https://www.legislation.gov.uk/uksi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/uksi/2025/937/article/2/g)
+[^c-9adc92f4254f32e859a2e611d69f6b28]: Textual amendment: [Sch. 5 paras. 12A](https://www.legislation.gov.uk/ukpga/1993/11/schedule/5/paragraph/12A), [12B](https://www.legislation.gov.uk/ukpga/1993/11/schedule/5/paragraph/12B) inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 22(a)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/22/a); [S.I. 2025/937](https://www.legislation.gov.uk/uksi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/uksi/2025/937/article/2/g)
 
-[^key-6c3861fab8e674a292b8a79147c762d9]: Textual amendment: Words in [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/1993/11/schedule/5/paragraph/13) inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 22(b)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/22/b); [S.I. 2025/937](https://www.legislation.gov.uk/uksi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/uksi/2025/937/article/2/g)
+[^c-6c3861fab8e674a292b8a79147c762d9]: Textual amendment: Words in [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/1993/11/schedule/5/paragraph/13) inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 22(b)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/22/b); [S.I. 2025/937](https://www.legislation.gov.uk/uksi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/uksi/2025/937/article/2/g)
 
 [^c10492081]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).

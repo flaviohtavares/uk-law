@@ -58,11 +58,11 @@ Accordingly the Secretary of State makes the following Regulations.
 
 ### 2. “Service”
 
-(1) In these Regulations “**service**” means any self-employed economic activity normally provided for remuneration (as referred to in Article 57[^key-0d8e511baa97a17952097f91c4fba5e9] of the Treaty).
+(1) In these Regulations “**service**” means any self-employed economic activity normally provided for remuneration (as referred to in Article 57[^c-0d8e511baa97a17952097f91c4fba5e9] of the Treaty).
 
 (2) These Regulations do not apply to—
 
-- (a) financial services, such as banking, credit, insurance and re-insurance, occupational or personal pensions, securities, investment funds, payment and investment advice, including the services listed in Annex I to Directive 2013/36/[^key-17e35d6b3f56c105fa17ca790810116b]EU of the European Parliament and of the Council of 26 June 2013 relating to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive [2002/87/EC](https://www.legislation.gov.uk/european/directive/2002/0087) and repealing Directives [2006/48/EC](https://www.legislation.gov.uk/european/directive/2006/0048) and [2006/49/EC](https://www.legislation.gov.uk/european/directive/2006/0049);
+- (a) financial services, such as banking, credit, insurance and re-insurance, occupational or personal pensions, securities, investment funds, payment and investment advice, including the services listed in Annex I to Directive 2013/36/[^c-17e35d6b3f56c105fa17ca790810116b]EU of the European Parliament and of the Council of 26 June 2013 relating to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive [2002/87/EC](https://www.legislation.gov.uk/european/directive/2002/0087) and repealing Directives [2006/48/EC](https://www.legislation.gov.uk/european/directive/2006/0048) and [2006/49/EC](https://www.legislation.gov.uk/european/directive/2006/0049);
 - (b) electronic communications services and networks, and associated facilities and services, with respect to matters covered by—
 
   Directive [2002/19/EC](https://www.legislation.gov.uk/european/directive/2002/0019) of the European Parliament and of the Council of 7 March 2002 on access to, and interconnection of, electronic communications networks and associated facilities [^c19951531],
@@ -74,16 +74,16 @@ Accordingly the Secretary of State makes the following Regulations.
   Directive [2002/22/EC](https://www.legislation.gov.uk/european/directive/2002/0022) of the European Parliament and of the Council of 7 March 2002 on universal service and users' rights relating to electronic communications networks and services [^c19951561], or
 
   Directive [2002/58/EC](https://www.legislation.gov.uk/european/directive/2002/0058) of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector [^c19951571];
-- (c) services in the field of transport, including port services, falling within the scope of Title[^key-a5e4d33e60f12c769ac9abded29ed6da] VI of the Treaty;
+- (c) services in the field of transport, including port services, falling within the scope of Title[^c-a5e4d33e60f12c769ac9abded29ed6da] VI of the Treaty;
 - (d) services of temporary work agencies (which for the purposes of these Regulations include any employment business as defined by section 13(3) of the Employment Agencies Act 1973 [^c19951581]);
 - (e) healthcare services, whether or not they are provided via healthcare facilities, and regardless of the ways in which they are organised and financed at national level or whether they are public or private;
 - (f) audiovisual services, including cinematographic services, whatever their mode of production, distribution and transmission, and radio broadcasting;
 - (g) gambling activities which involve wagering a stake with pecuniary value in games of chance, including lotteries, gambling in casinos and betting transactions;
-- (h) activities which are connected with the exercise of official authority (as set out in Article 51[^key-e2f433268b3f632490b0dee4fad57c8f] of the Treaty);
+- (h) activities which are connected with the exercise of official authority (as set out in Article 51[^c-e2f433268b3f632490b0dee4fad57c8f] of the Treaty);
 - (i) social services relating to social housing, childcare and support of families and persons permanently or temporarily in need which are provided by the State, by providers mandated by the State or by charities recognised as such by the State;
 - (j) private security services;
 - (k) services provided by notaries or bailiffs, if or to the extent that they are appointed by an official act of government to provide those services.
-- (l)[^key-6f69fd97a7c3854de409c5578f56ea61] services provided by a person holding a licence (“a code manager licence”) under section 7AC of the Gas Act 1986 or section 6(1)(g) of the Electricity Act 1989.
+- (l)[^c-6f69fd97a7c3854de409c5578f56ea61] services provided by a person holding a licence (“a code manager licence”) under section 7AC of the Gas Act 1986 or section 6(1)(g) of the Electricity Act 1989.
 
 ### 3. “Competent authority”
 
@@ -94,28 +94,28 @@ Accordingly the Secretary of State makes the following Regulations.
 - (a) the reference to a body or authority includes a body or authority acting on behalf of the Crown;
 - (b) the reference to supervisory or regulatory functions includes the function of maintaining a register or other record of persons entitled to have access to, or to exercise, a service activity.
 
-(3) Parts 3 and 6[^key-357c8625171a258e775f643561ac48e4] of these Regulations do not apply to competent authorities to the extent that their functions involve the making of subordinate legislation.
+(3) Parts 3 and 6[^c-357c8625171a258e775f643561ac48e4] of these Regulations do not apply to competent authorities to the extent that their functions involve the making of subordinate legislation.
 
 ### 4. Interpretation: general
 
 In these Regulations—
 
 - “**authorisation scheme**” means any arrangement which in effect requires the provider or recipient of a service to obtain the authorisation of, or to notify, a competent authority in order to have access to, or to exercise, a service activity;
-- “[^key-34e202c324af68a44dd68dcfb979c3c4]**complete for the purposes of processing**” means a competent authority has received all the application information and documentation required under the relevant authorisation scheme to enable it to process the application, and references to an “incomplete” application shall be construed accordingly;
+- “[^c-34e202c324af68a44dd68dcfb979c3c4]**complete for the purposes of processing**” means a competent authority has received all the application information and documentation required under the relevant authorisation scheme to enable it to process the application, and references to an “incomplete” application shall be construed accordingly;
 - “**enactment**” includes Acts of the Scottish Parliament, Northern Ireland legislation, Acts and Measures of the National Assembly for Wales and subordinate legislation;
-- “**establishment**”, in relation to the provider of a service, means the actual pursuit of an economic activity, as referred to in Article 49[^key-66fd8b192d242b72cd31d4842c85f19c] of the Treaty, by the provider for an indefinite period and through a stable infrastructure from where the business of providing services is actually carried out (and references to “**established**”, in relation to the provider of a service, are to be construed accordingly);
+- “**establishment**”, in relation to the provider of a service, means the actual pursuit of an economic activity, as referred to in Article 49[^c-66fd8b192d242b72cd31d4842c85f19c] of the Treaty, by the provider for an indefinite period and through a stable infrastructure from where the business of providing services is actually carried out (and references to “**established**”, in relation to the provider of a service, are to be construed accordingly);
 - “notary”—
   - (a) in England and Wales, includes a person who, for the purposes of the Legal Services Act 2007 [^c19951591], is an authorised person in relation to any activity which constitutes a notarial activity (within the meaning of that Act), and
   - (b) in Scotland, means a notary public duly admitted in Scotland;
 - “**professional liability insurance**” means insurance taken out by the provider of a service in respect of potential liabilities to recipients and, where applicable, third parties arising out of the provision of the service;
-- “[^key-918aeb8aef60bbdf10219fd41fb4e4cf]**provider**”, in relation to a service, means a person who provides, or offers to provide, the service in the United Kingdom and “**provision of a service**” shall be construed accordingly;
-- “[^key-e5420de8c0faefe30259986d82d791a5]**recipient**”, in relation to a service, means a person in the United Kingdom who, for professional or non-professional purposes, uses, or wishes to use, the service and “**recipient of a service**” shall be construed accordingly;
+- “[^c-918aeb8aef60bbdf10219fd41fb4e4cf]**provider**”, in relation to a service, means a person who provides, or offers to provide, the service in the United Kingdom and “**provision of a service**” shall be construed accordingly;
+- “[^c-e5420de8c0faefe30259986d82d791a5]**recipient**”, in relation to a service, means a person in the United Kingdom who, for professional or non-professional purposes, uses, or wishes to use, the service and “**recipient of a service**” shall be construed accordingly;
 - “**regulated profession**” means a professional activity or group of activities—
   - (a) access to which, the pursuit of which or one of the modes of pursuit of which is subject (directly or indirectly) by virtue of legislative, regulatory or administrative provisions to the possession of specified qualifications, or
   - (b) the pursuit of which is by persons using a professional title which is limited by legislative, regulatory or administrative provisions to holders of a given professional qualification;
 - “**requirement**” includes any obligation, prohibition, condition or limit;
 - “**service**” has the meaning given by regulation 2;
-- [^key-a4514e73d5a535f1904ad1486d552e5d]...
+- [^c-a4514e73d5a535f1904ad1486d552e5d]...
 - “**subordinate legislation**” means Orders in Council, orders, rules, regulations, schemes, warrants, byelaws and other instruments made or to be made under any Act or under any Act of the Scottish Parliament, Northern Ireland legislation or Act or Measure of the National Assembly for Wales;
 - “**the Treaty**” means the Treaty on the Functioning of the European Union.
 
@@ -127,8 +127,8 @@ In these Regulations—
   - (i) the opening up to competition of services of general economic interest,
   - (ii) the privatisation of public entities providing services, or
   - (iii) the abolition of monopolies;
-- (b) affects the functions of a competent authority in relation to the granting of aids covered by assimilated[^key-764c44ff51e641858997aa077fe36a18][^key-5530013e2b489566cd55deeff0321b6a] law on competition;
-- (c) prevents a competent authority from determining [^key-bbb430dc97bb7c0eb9356d26053b5516]... what it considers to be a service of general economic interest, how services of general economic interest should be organised and financed in compliance with State aid rules in[^key-f05926ab30f55718ce49bf4a092f6c45] assimilated[^key-cab3d7222c66a39032305bca6ad64499] law and what specific obligations those services should be subject to;
+- (b) affects the functions of a competent authority in relation to the granting of aids covered by assimilated[^c-764c44ff51e641858997aa077fe36a18][^c-5530013e2b489566cd55deeff0321b6a] law on competition;
+- (c) prevents a competent authority from determining [^c-bbb430dc97bb7c0eb9356d26053b5516]... what it considers to be a service of general economic interest, how services of general economic interest should be organised and financed in compliance with State aid rules in[^c-f05926ab30f55718ce49bf4a092f6c45] assimilated[^c-cab3d7222c66a39032305bca6ad64499] law and what specific obligations those services should be subject to;
 - (d) affects the functions of a competent authority in relation to—
   - (i) the law relating to employment conditions,
   - (ii) the law relating to working conditions, including health and safety at work and the relationship between employers and workers, or
@@ -137,13 +137,13 @@ In these Regulations—
 
 (2) Nothing in these Regulations applies in respect of the field of taxation.
 
-- (2A)[^key-e5ee2e1d981554790d4560e46e83eeeb] Nothing in these Regulations affects the interpretation, application or operation of any provision made by or under the Immigration Acts.
+- (2A)[^c-e5ee2e1d981554790d4560e46e83eeeb] Nothing in these Regulations affects the interpretation, application or operation of any provision made by or under the Immigration Acts.
 
-(3)[^key-08fa8f00825f23629a0f9f483c943727] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-08fa8f00825f23629a0f9f483c943727] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-08fa8f00825f23629a0f9f483c943727] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-08fa8f00825f23629a0f9f483c943727] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-08fa8f00825f23629a0f9f483c943727] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-08fa8f00825f23629a0f9f483c943727] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 6. Relationship with other requirements
 
@@ -153,11 +153,11 @@ In these Regulations—
 
 (2) Paragraph (1) applies to a requirement imposed by—
 
-- (a) a provision of an enactment other than[^M_F_941bea29-ac36-4d19-da75-f72fdd1f8bf5] assimilated direct[^key-3cd34f6548c2da0806fc65df4037fafe] legislation, where—
+- (a) a provision of an enactment other than[^M_F_941bea29-ac36-4d19-da75-f72fdd1f8bf5] assimilated direct[^c-3cd34f6548c2da0806fc65df4037fafe] legislation, where—
   - (i) the provision relates to specific aspects of access to, or the exercise of, a service activity,
   - (ii)[^M_F_804c50f2-26a4-478d-b26a-f08e46ffe490] immediately before IP completion day, the provision implemented an EU obligation, and
   - (iii) the enactment is passed or made before the day on which these Regulations are made, or
-- (b) a provision of assimilated direct[^key-d42933805549a9cf2db417978037a421][^M_F_5826d7c2-644c-4b28-d6fe-939dc82b622c] legislation, where—
+- (b) a provision of assimilated direct[^c-d42933805549a9cf2db417978037a421][^M_F_5826d7c2-644c-4b28-d6fe-939dc82b622c] legislation, where—
   - (i) the provision relates to specific aspects of access to, or the exercise of, a service activity, and
   - (ii)[^M_F_dea975a4-481f-4e29-8f4d-1e99f460166e] immediately before IP completion day, the provision was contained in an EU instrument that came into force before these Regulations were made.
 
@@ -165,10 +165,10 @@ In these Regulations—
 
 (4) Paragraph (3) applies to a requirement imposed by—
 
-- (a) a provision of an enactment other than[^M_F_3cf4619a-93e9-4039-97a5-f592291e5261] assimilated direct[^key-2b8b9e53270be8fe4824316a52b4511c] legislation, where—
+- (a) a provision of an enactment other than[^M_F_3cf4619a-93e9-4039-97a5-f592291e5261] assimilated direct[^c-2b8b9e53270be8fe4824316a52b4511c] legislation, where—
   - (i) the provision relates to specific aspects of access to, or the exercise of, a service activity, and
   - (ii) the enactment is passed or made before the day on which these Regulations are made, or
-- (b) a provision of assimilated direct[^key-6dfc473031c939c59abea890e23d2897][^M_F_e00132a0-e192-4d75-b1f3-2cbdded57f6b] legislation, where—
+- (b) a provision of assimilated direct[^c-6dfc473031c939c59abea890e23d2897][^M_F_e00132a0-e192-4d75-b1f3-2cbdded57f6b] legislation, where—
   - (i) the provision relates to specific aspects of access to, or the exercise of, a service activity, and
   - (ii)[^M_F_ef9c81c3-e69e-430e-b2e0-b1f8b602ba77] immediately before IP completion day, the provision was contained in an EU instrument that came into force before these Regulations were made.
 
@@ -197,9 +197,9 @@ In these Regulations—
 - (c) the geographic address at which the provider is established and details by which the provider may be contacted rapidly and communicated with directly (including, where the provider may be contacted and communicated with by electronic means, the details of how the provider may be so contacted and communicated with);
 - (d) where the provider is registered in a trade or other similar public register, the name of the register and the provider's registration number or equivalent means of identification in that register;
 - (e) where the activity is subject to an authorisation scheme in the United Kingdom, the particulars of the relevant competent authority or the electronic assistance facility referred to in regulation 38;
-- (f)[^key-749b7b39791284bdf6d7e5e5291458db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g) where the provider exercises an activity which is subject to VAT, the identification number referred to in Article 22(1) of the Sixth Council Directive [77/388/EEC](https://www.legislation.gov.uk/european/directive/1977/0388) of 17 May 1977 on the harmonisation of the laws of the member states relating to turnover taxes – Common system of value added tax: uniform basis of assessment [^c19951621] or the registration number as defined in regulation 2(1) of the Value Added Tax Regulations 1995[^key-4da7b61252f9fa656b123081486fdfd5];
-- (h) where the provider is carrying on a regulated profession, any professional body or similar institution with which the provider is registered, and the professional title[^key-6d738fc1c7c9b1efb26e665f3484c29c];
+- (f)[^c-749b7b39791284bdf6d7e5e5291458db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) where the provider exercises an activity which is subject to VAT, the identification number referred to in Article 22(1) of the Sixth Council Directive [77/388/EEC](https://www.legislation.gov.uk/european/directive/1977/0388) of 17 May 1977 on the harmonisation of the laws of the member states relating to turnover taxes – Common system of value added tax: uniform basis of assessment [^c19951621] or the registration number as defined in regulation 2(1) of the Value Added Tax Regulations 1995[^c-4da7b61252f9fa656b123081486fdfd5];
+- (h) where the provider is carrying on a regulated profession, any professional body or similar institution with which the provider is registered, and the professional title[^c-6d738fc1c7c9b1efb26e665f3484c29c];
 - (i) the general terms and conditions, if any, used by the provider;
 - (j) the existence of contractual terms, if any, used by the provider concerning the competent courts or the law applicable to the contract;
 - (k) the existence of any after-sales guarantee not imposed by law;
@@ -223,7 +223,7 @@ In these Regulations—
 - (a) where the price is not pre-determined by the provider for a given type of service—
   - (i) the price of the service, or
   - (ii) if an exact price cannot be given, the method for calculating the price so that it can be checked by the recipient, or a sufficiently detailed estimate;
-- (b) where the provider is carrying on a regulated profession, a reference to the professional rules applicable [^key-0f6340beec5e7adcfa5561bd186f48f0]... and how to access them;
+- (b) where the provider is carrying on a regulated profession, a reference to the professional rules applicable [^c-0f6340beec5e7adcfa5561bd186f48f0]... and how to access them;
 - (c) information on other activities undertaken by the provider which are directly linked to the service in question and on the measures taken to avoid conflicts of interest;
 - (d) any codes of conduct to which the provider is subject and the address at which these codes may be consulted by electronic means, specifying the language available.
 
@@ -260,7 +260,7 @@ Information which must be made available or supplied by the provider of a servic
 
 ### Introductory
 
-#### 13. Application of this Part[^key-c0e5768ebccd2f795e0b9b5e2c1d19aa]
+#### 13. Application of this Part[^c-c0e5768ebccd2f795e0b9b5e2c1d19aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -272,14 +272,14 @@ Information which must be made available or supplied by the provider of a servic
 
 (2) The conditions are that—
 
-- (a)[^key-9e11b7896760c5ca294ae04a89e26143] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9e11b7896760c5ca294ae04a89e26143] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the need for an authorisation scheme is justified by an overriding reason relating to the public interest, and
 - (c) the objective pursued cannot be attained by means of a less restrictive measure, in particular because inspection after commencement of the service activity would take place too late to be genuinely effective.
 
-(3) This regulation and regulations 15 to 20C[^key-825b129c772f44a9b28e652db3a863d9] do not apply to authorisation schemes to the extent that they are governed, directly or indirectly, by—
+(3) This regulation and regulations 15 to 20C[^c-825b129c772f44a9b28e652db3a863d9] do not apply to authorisation schemes to the extent that they are governed, directly or indirectly, by—
 
-- (a) a provision of an enactment other than[^key-023403dd1e518643d0b8fbc43ffbf36b] assimilated direct[^key-02071827da299552323cc1cc0f4adb63] legislation which, immediately before IP completion day, implemented an EU obligation, where the enactment is passed or made before the day on which these Regulations are made, or
-- (b)[^key-f09592031416219b23bd93188d6bca99] a provision of assimilated direct[^key-958dca7b427ff98c6d25c433549d9430] legislation which, immediately before IP completion day, was contained in an EU instrument that came into force before these Regulations were made.
+- (a) a provision of an enactment other than[^c-023403dd1e518643d0b8fbc43ffbf36b] assimilated direct[^c-02071827da299552323cc1cc0f4adb63] legislation which, immediately before IP completion day, implemented an EU obligation, where the enactment is passed or made before the day on which these Regulations are made, or
+- (b)[^c-f09592031416219b23bd93188d6bca99] a provision of assimilated direct[^c-958dca7b427ff98c6d25c433549d9430] legislation which, immediately before IP completion day, was contained in an EU instrument that came into force before these Regulations were made.
 
 #### 15. Conditions for the granting of authorisation
 
@@ -287,7 +287,7 @@ Information which must be made available or supplied by the provider of a servic
 
 (2) The criteria must be—
 
-- (a)[^key-c79d9c7b21b834e50f824724a68cb330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c79d9c7b21b834e50f824724a68cb330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) justified by an overriding reason relating to the public interest,
 - (c) proportionate to that public interest objective,
 - (d) clear and unambiguous,
@@ -297,12 +297,12 @@ Information which must be made available or supplied by the provider of a servic
 
 (3) The conditions imposed by a competent authority for granting authorisation for a new establishment under an authorisation scheme must not duplicate requirements and controls—
 
-- (a) to which the provider of the service is already subject in the United Kingdom [^key-89e38e1d05934b296bc661d6e1ad1be4]..., and
+- (a) to which the provider of the service is already subject in the United Kingdom [^c-89e38e1d05934b296bc661d6e1ad1be4]..., and
 - (b) that are equivalent or essentially comparable as regards their purpose.
 
 (4) The provider of the service must assist the competent authority by providing any necessary information requested by the competent authority regarding the requirements and controls referred to in paragraph (3); and paragraph (3) does not apply if the provider has not provided that information within a reasonable time of being requested to do so.
 
-(5)[^key-f6cac51da79024ebf64a34398b8685b1] Paragraph (5A) applies in the case of an authorisation granted under an authorisation scheme by a competent authority whose functions relate to the whole of the United Kingdom.
+(5)[^c-f6cac51da79024ebf64a34398b8685b1] Paragraph (5A) applies in the case of an authorisation granted under an authorisation scheme by a competent authority whose functions relate to the whole of the United Kingdom.
 
 (5A) The provider of the service must be able to have access to the service activity, or to exercise that activity, throughout the United Kingdom by virtue of the authorisation.
 
@@ -359,7 +359,7 @@ Information which must be made available or supplied by the provider of a servic
 - (e) the preservation of cultural heritage, and
 - (f) other overriding reasons relating to the public interest,
 
-in conformity with assimilated[^key-35be419620e9614b8fb62506fc0d22ec][^key-fbce1f9e21e9493c31fce21033096bd4] law.
+in conformity with assimilated[^c-35be419620e9614b8fb62506fc0d22ec][^c-fbce1f9e21e9493c31fce21033096bd4] law.
 
 #### 18. Authorisation schemes: general requirements
 
@@ -376,7 +376,7 @@ in conformity with assimilated[^key-35be419620e9614b8fb62506fc0d22ec][^key-fbce1
 
 (3) Authorisation procedures and formalities provided for by a competent authority under an authorisation scheme must be easily accessible.
 
-(4)[^key-9793b562eb3a6dba8e8d263ec4549552] Any charges provided for by a competent authority which applicants may incur under an authorisation scheme must—
+(4)[^c-9793b562eb3a6dba8e8d263ec4549552] Any charges provided for by a competent authority which applicants may incur under an authorisation scheme must—
 
 - (a) be reasonable and proportionate to the costs incurred by the competent authority in carrying out the relevant procedures and formalities under the scheme,
 - (b) not exceed the cost of those procedures and formalities, and
@@ -384,19 +384,19 @@ in conformity with assimilated[^key-35be419620e9614b8fb62506fc0d22ec][^key-fbce1
 
 #### 19. Authorisation procedures: time for dealing with application
 
-(1)[^key-eb8c9477aadd390a914b945012339faa] A competent authority must ensure that the procedures and formalities of an authorisation scheme provide for applications for authorisation to be processed as quickly as possible and, in any event, within a reasonable period from the time an application is complete for the purposes of processing.
+(1)[^c-eb8c9477aadd390a914b945012339faa] A competent authority must ensure that the procedures and formalities of an authorisation scheme provide for applications for authorisation to be processed as quickly as possible and, in any event, within a reasonable period from the time an application is complete for the purposes of processing.
 
 (2) That period must be fixed and made public in advance.
 
 (3) When justified by the complexity of the issue, that period may be extended once, by the competent authority, for a limited time.
 
-(4)[^key-4a8e076eabe82d602d085a53577996f7] The extension and its duration must be notified to the applicant in writing, with reasons, before the original period has expired.
+(4)[^c-4a8e076eabe82d602d085a53577996f7] The extension and its duration must be notified to the applicant in writing, with reasons, before the original period has expired.
 
 (5) In the event of failure to process the application within the period set or extended in accordance with the preceding provisions of this regulation, authorisation is deemed to have been granted by a competent authority, unless different arrangements are in place.
 
 (6) Any different arrangements must be justified by overriding reasons relating to the public interest, including a legitimate interest of third parties.
 
-#### 20. Authorisation procedures: acknowledgment and review of applications[^key-a30382a0c7d1441c31cf2a37d376b192]
+#### 20. Authorisation procedures: acknowledgment and review of applications[^c-a30382a0c7d1441c31cf2a37d376b192]
 
 (1) All applications to a competent authority under an authorisation scheme must be acknowledged in writing as quickly as possible by sending the applicant the relevant acknowledgement or notice under paragraph (3), (4) or (6).
 
@@ -465,10 +465,10 @@ Where a competent authority requires an applicant to undertake an examination fo
 
 (1) A competent authority must not make access to, or the exercise of, a service activity subject to any of the following—
 
-- (a)[^key-f76ddd029acdfc76bdbc88da9be4ca86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-f76ddd029acdfc76bdbc88da9be4ca86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-f76ddd029acdfc76bdbc88da9be4ca86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-f76ddd029acdfc76bdbc88da9be4ca86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-f76ddd029acdfc76bdbc88da9be4ca86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f76ddd029acdfc76bdbc88da9be4ca86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-f76ddd029acdfc76bdbc88da9be4ca86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-f76ddd029acdfc76bdbc88da9be4ca86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) the case-by-case application of an economic test making the granting of authorisation subject to—
   - (i) proof of the existence of an economic need or market demand,
   - (ii) an assessment of the potential or current economic effects of the activity, or
@@ -476,7 +476,7 @@ Where a competent authority requires an applicant to undertake an examination fo
 - (f) the direct or indirect involvement of competing operators, including within consultative bodies—
   - (i) in the granting of authorisations, or
   - (ii) in the adoption of other decisions of the competent authorities;
-- (g)[^key-187848eee02456e052c86594a3ec80ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-187848eee02456e052c86594a3ec80ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) an obligation—
   - (i) to have been pre-registered, for a given period, in registers held in the United Kingdom, or
   - (ii) to have previously exercised the activity for a given period in the United Kingdom.
@@ -488,7 +488,7 @@ Where a competent authority requires an applicant to undertake an examination fo
 - (a) does not prevent professional bodies and associations or other organisations acting as the competent authority, and
 - (b) does not affect the consultation of organisations, such as chambers of commerce or social partners, on matters other than individual applications for authorisation, or a consultation of the public at large.
 
-(4)[^key-ff1b7cb0ce0a5e46a884ac3801b2f359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ff1b7cb0ce0a5e46a884ac3801b2f359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 22. Requirements subject to evaluation
 
@@ -500,8 +500,8 @@ Where a competent authority requires an applicant to undertake an examination fo
 - (b) an obligation on a provider of the service to take a specific legal form;
 - (c) requirements relating to the shareholding of a company;
 - (d) requirements, other than those—
-  - (i) concerning matters covered by assimilated[^key-e1b7d68dd4561d9c9671237405c5dfce][^key-118c059da075134a6eba8928db38c51c] law which, immediately before IP completion day, implemented an obligation under Directive [2005/36/EC](https://www.legislation.gov.uk/eudr/2005/36) of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications [^c19951631], or
-  - (ii) provided for in other assimilated[^key-1fe130dce6a9e339f7b3347644cf9063][^key-967968bd96cbcfc9b71c02a9b77ea7f2] law,
+  - (i) concerning matters covered by assimilated[^c-e1b7d68dd4561d9c9671237405c5dfce][^c-118c059da075134a6eba8928db38c51c] law which, immediately before IP completion day, implemented an obligation under Directive [2005/36/EC](https://www.legislation.gov.uk/eudr/2005/36) of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications [^c19951631], or
+  - (ii) provided for in other assimilated[^c-1fe130dce6a9e339f7b3347644cf9063][^c-967968bd96cbcfc9b71c02a9b77ea7f2] law,
 
   which reserve access to the service activity in question to particular persons providing the service by virtue of the specific nature of the activity;
 - (e) a ban on having more than one establishment in the United Kingdom;
@@ -511,7 +511,7 @@ Where a competent authority requires an applicant to undertake an examination fo
 
 (3) The conditions are—
 
-- (a)[^key-cb2da89811d4e8a95cbad628d17d8318] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-cb2da89811d4e8a95cbad628d17d8318] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) necessity, that is, the requirements must be justified by an overriding reason relating to the public interest;
 - (c) proportionality, that is, the requirements—
   - (i) must be suitable for securing the attainment of the objective pursued, and
@@ -521,7 +521,7 @@ Where a competent authority requires an applicant to undertake an examination fo
 
 (4) The preceding paragraphs of this regulation do not apply in relation to any requirement applying to a person entrusted with the provision of a service of general economic interest where the requirement is proportionate and necessary for the provision of that service by that person.
 
-(5) In paragraph (4) “**service of general economic interest**” means a service which the competent authority determines [^key-34cbd74d6eaf65106fde884462f65257]... to be of general economic interest.
+(5) In paragraph (4) “**service of general economic interest**” means a service which the competent authority determines [^c-34cbd74d6eaf65106fde884462f65257]... to be of general economic interest.
 
 (6) A competent authority must notify the Secretary of State of—
 
@@ -530,43 +530,43 @@ Where a competent authority requires an applicant to undertake an examination fo
 
 (7) The notification must state the reasons why the authority considers that the application of the requirement meets the conditions in paragraph (3).
 
-## PART 4 — DUTIES OF COMPETENT AUTHORITIES IN RELATION TO PROVIDERS OF SERVICES PROVIDED FROM ANOTHER EEA STATE[^key-fc7359b02a172e4eb65a919a10df8e5e]
+## PART 4 — DUTIES OF COMPETENT AUTHORITIES IN RELATION TO PROVIDERS OF SERVICES PROVIDED FROM ANOTHER EEA STATE[^c-fc7359b02a172e4eb65a919a10df8e5e]
 
 **No longer in force.**
 
-### 23. Application of this Part[^key-fc7359b02a172e4eb65a919a10df8e5e]
+### 23. Application of this Part[^c-fc7359b02a172e4eb65a919a10df8e5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Freedom to provide services[^key-fc7359b02a172e4eb65a919a10df8e5e]
+### 24. Freedom to provide services[^c-fc7359b02a172e4eb65a919a10df8e5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Derogations from the freedom to provide services[^key-fc7359b02a172e4eb65a919a10df8e5e]
+### 25. Derogations from the freedom to provide services[^c-fc7359b02a172e4eb65a919a10df8e5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Derogation relating to the safety of a service[^key-fc7359b02a172e4eb65a919a10df8e5e]
+### 26. Derogation relating to the safety of a service[^c-fc7359b02a172e4eb65a919a10df8e5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Procedure relating to derogation under regulation 26[^key-fc7359b02a172e4eb65a919a10df8e5e]
+### 27. Procedure relating to derogation under regulation 26[^c-fc7359b02a172e4eb65a919a10df8e5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Duty to notify Secretary of State of new requirements[^key-fc7359b02a172e4eb65a919a10df8e5e]
+### 28. Duty to notify Secretary of State of new requirements[^c-fc7359b02a172e4eb65a919a10df8e5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — RECIPIENTS OF SERVICES[^key-797599e94ac2db4ad4b5724b121aa183]
+## PART 5 — RECIPIENTS OF SERVICES[^c-797599e94ac2db4ad4b5724b121aa183]
 
 **No longer in force.**
 
-### 29. Restrictions on use of service supplied by provider established in another EEA state[^key-797599e94ac2db4ad4b5724b121aa183]
+### 29. Restrictions on use of service supplied by provider established in another EEA state[^c-797599e94ac2db4ad4b5724b121aa183]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Requirements based on nationality or place of residence[^key-797599e94ac2db4ad4b5724b121aa183]
+### 30. Requirements based on nationality or place of residence[^c-797599e94ac2db4ad4b5724b121aa183]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -583,24 +583,24 @@ Where a competent authority requires an applicant to undertake an examination fo
 
 (3) The competent authority may not require a document to be produced in its original form, or as a certified copy or certified translation, except—
 
-- (a) as provided for in other[^key-284d8ba947a5941d35e5040b83353c2a] assimilated[^key-b738968c2281ef4a7172943e9227ce0d] law, or
+- (a) as provided for in other[^c-284d8ba947a5941d35e5040b83353c2a] assimilated[^c-b738968c2281ef4a7172943e9227ce0d] law, or
 - (b) where such a requirement is justified by an overriding reason relating to the public interest, including public order and security.
 
 (4) This regulation does not prevent a competent authority from requiring a non-certified translation of a document into English.
 
 (5) This regulation does not apply to the documents referred to in—
 
-- (a)[^key-1a8cc28a8fa797027f8ddb08cb909751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-1a8cc28a8fa797027f8ddb08cb909751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-1a8cc28a8fa797027f8ddb08cb909751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-1a8cc28a8fa797027f8ddb08cb909751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-1a8cc28a8fa797027f8ddb08cb909751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-1a8cc28a8fa797027f8ddb08cb909751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-1a8cc28a8fa797027f8ddb08cb909751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-1a8cc28a8fa797027f8ddb08cb909751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-1a8cc28a8fa797027f8ddb08cb909751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-1a8cc28a8fa797027f8ddb08cb909751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) sections 17 and 396 of the Companies Act 2006 [^c19951821];
-- (g)[^key-a2a4f6f112fb3c020414822d8e3b2178] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-63f2c792b1cc639329be015bd0e1b775] regulations 61(1), 61(4) and (5) and 63 of the Public Contracts (Scotland) Regulations 2015;
-- (i)[^key-417104baa327d588a43e14f1b5315d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-a2a4f6f112fb3c020414822d8e3b2178] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-63f2c792b1cc639329be015bd0e1b775] regulations 61(1), 61(4) and (5) and 63 of the Public Contracts (Scotland) Regulations 2015;
+- (i)[^c-417104baa327d588a43e14f1b5315d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) the Overseas Companies Regulations 2009 [^c19951861].
-- (k)[^key-d12678c2a5b7a5d09d18f43f30111496] regulations 38 and 39[^key-d12383d290cf81e612dd0ce41c760bf9] of the European Union (Recognition of Professional Qualifications) Regulations 2015.
+- (k)[^c-d12678c2a5b7a5d09d18f43f30111496] regulations 38 and 39[^c-d12383d290cf81e612dd0ce41c760bf9] of the European Union (Recognition of Professional Qualifications) Regulations 2015.
 
 ### 32. Electronic procedures
 
@@ -616,7 +616,7 @@ Where a competent authority requires an applicant to undertake an examination fo
   - (i) a provider of the service, or
   - (ii) the staff of such a provider.
 
-### 33. Insurance[^key-5641220391da80d2af52bc98c20650a2]
+### 33. Insurance[^c-5641220391da80d2af52bc98c20650a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -633,7 +633,7 @@ in a manner consistent with the specific nature of that profession.
 
 (3) Rules made by a competent authority in relation to commercial communications by providers of a service who are carrying on a regulated profession must be—
 
-- (a)[^key-c89df3df254ee15e9f4c790f41e1c920] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c89df3df254ee15e9f4c790f41e1c920] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) justified by an overriding reason relating to the public interest, and
 - (c) proportionate.
 
@@ -682,7 +682,7 @@ in a manner consistent with the specific nature of that profession.
 
 ### 36. Information to be provided to the Secretary of State
 
-(1)[^key-66582dd4c69c225d4cc83ecc09b5184a] The competent authority for a service activity must provide, or make accessible, the following information in electronic form to the Secretary of State—
+(1)[^c-66582dd4c69c225d4cc83ecc09b5184a] The competent authority for a service activity must provide, or make accessible, the following information in electronic form to the Secretary of State—
 
 - (a) the contact details of the competent authority;
 - (b) in relation to authorisation procedures—
@@ -714,7 +714,7 @@ in a manner consistent with the specific nature of that profession.
 
 ### 37. Information to be provided to providers and recipients on request
 
-(1) The competent authority for a service activity must, on the request of a provider or recipient of the service, provide that person with information on the way in which the requirements referred to in regulation 36(1)(b)(i)[^key-3e71596b61c321ab1f2f7f4ac3a7d1aa] are generally interpreted and applied.
+(1) The competent authority for a service activity must, on the request of a provider or recipient of the service, provide that person with information on the way in which the requirements referred to in regulation 36(1)(b)(i)[^c-3e71596b61c321ab1f2f7f4ac3a7d1aa] are generally interpreted and applied.
 
 (2) The information provided under paragraph (1) must be—
 
@@ -731,7 +731,7 @@ in a manner consistent with the specific nature of that profession.
 
 ### 38. Duty to provide an electronic assistance facility
 
-(1) The Secretary of State, any other Minister of the Crown with responsibility for a government department, or any government department must provide a facility for[^key-bd92c36c4eb659f89ff429b743116a9a]—
+(1) The Secretary of State, any other Minister of the Crown with responsibility for a government department, or any government department must provide a facility for[^c-bd92c36c4eb659f89ff429b743116a9a]—
 
 - (a) the completion by electronic means of procedures and formalities relating to access to, or the exercise of, a service activity, and
 - (b) the provision by electronic means of the information referred to in regulation 36(1) to providers and recipients of services.
@@ -756,31 +756,31 @@ in a manner consistent with the specific nature of that profession.
   - (i) a provider of the service, or
   - (ii) the staff of such a provider.
 
-## PART 9 — ADMINISTRATIVE CO-OPERATION BETWEEN EEA STATES[^key-fbb81800361fe53137d5b769332ebbde]
+## PART 9 — ADMINISTRATIVE CO-OPERATION BETWEEN EEA STATES[^c-fbb81800361fe53137d5b769332ebbde]
 
 **No longer in force.**
 
-### 39. General obligations[^key-fbb81800361fe53137d5b769332ebbde]
+### 39. General obligations[^c-fbb81800361fe53137d5b769332ebbde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 40. Provision of information where provider established in UK[^key-fbb81800361fe53137d5b769332ebbde]
+### 40. Provision of information where provider established in UK[^c-fbb81800361fe53137d5b769332ebbde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 41. Provision of information where services provided in UK[^key-fbb81800361fe53137d5b769332ebbde]
+### 41. Provision of information where services provided in UK[^c-fbb81800361fe53137d5b769332ebbde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 42. Alert mechanism[^key-fbb81800361fe53137d5b769332ebbde]
+### 42. Alert mechanism[^c-fbb81800361fe53137d5b769332ebbde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 43. Information relating to disciplinary action etc taken in relation to providers[^key-fbb81800361fe53137d5b769332ebbde]
+### 43. Information relating to disciplinary action etc taken in relation to providers[^c-fbb81800361fe53137d5b769332ebbde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 44. Mutual assistance in the event of case-by-case derogations[^key-fbb81800361fe53137d5b769332ebbde]
+### 44. Mutual assistance in the event of case-by-case derogations[^c-fbb81800361fe53137d5b769332ebbde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -802,7 +802,7 @@ in a manner consistent with the specific nature of that profession.
 
 (4) In Northern Ireland, a person referred to in paragraph (2) is for the purposes of the Street Trading Act (Northern Ireland) 2001 [^c19951901] to be regarded as carrying on the activity, where it is carried out by means of visits from house to house, under the authority of the certificate.
 
-### 46. Disclosure of information under Employment Agencies Act 1973[^key-a2a8debd5363a0463adf4070065d83f6]
+### 46. Disclosure of information under Employment Agencies Act 1973[^c-a2a8debd5363a0463adf4070065d83f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1008,9 +1008,9 @@ A transposition note and an impact assessment of the effect that this instrument
 
 [^c19951511]: Marginal citation: [S.I. 2009/221](https://www.legislation.gov.uk/uksi/2009/221).
 
-[^key-0d8e511baa97a17952097f91c4fba5e9]: Textual amendment: Words in reg. 2(1) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
+[^c-0d8e511baa97a17952097f91c4fba5e9]: Textual amendment: Words in reg. 2(1) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
 
-[^key-17e35d6b3f56c105fa17ca790810116b]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/2/2/a) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 73](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/73)
+[^c-17e35d6b3f56c105fa17ca790810116b]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/2/2/a) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 73](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/73)
 
 [^c19951531]: Marginal citation: OJ No. L108, 24.4.2002, p.7.
 
@@ -1022,51 +1022,51 @@ A transposition note and an impact assessment of the effect that this instrument
 
 [^c19951571]: Marginal citation: OJ No. L201, 31.7.2002, p.37 as amended by Directive 2006/24/EC (OJ L105, 13.4.2006, p.54).
 
-[^key-a5e4d33e60f12c769ac9abded29ed6da]: Textual amendment: Words in reg. 2(2)(c) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
+[^c-a5e4d33e60f12c769ac9abded29ed6da]: Textual amendment: Words in reg. 2(2)(c) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
 
 [^c19951581]: Marginal citation: [1973 c. 35](https://www.legislation.gov.uk/ukpga/1973/35).
 
-[^key-e2f433268b3f632490b0dee4fad57c8f]: Textual amendment: Words in reg. 2(2)(h) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
+[^c-e2f433268b3f632490b0dee4fad57c8f]: Textual amendment: Words in reg. 2(2)(h) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
 
-[^key-6f69fd97a7c3854de409c5578f56ea61]: Textual amendment: [Reg. 2(2)(l)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/2/2/l) inserted (25.5.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2024/706/regulation/26)
+[^c-6f69fd97a7c3854de409c5578f56ea61]: Textual amendment: [Reg. 2(2)(l)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/2/2/l) inserted (25.5.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2024/706/regulation/26)
 
-[^key-357c8625171a258e775f643561ac48e4]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/3/3) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2018/1329/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-357c8625171a258e775f643561ac48e4]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/3/3) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2018/1329/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-34e202c324af68a44dd68dcfb979c3c4]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2009/2999/regulation/4) inserted (1.10.2026) by [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2026/435/regulation/3/a) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
+[^c-34e202c324af68a44dd68dcfb979c3c4]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2009/2999/regulation/4) inserted (1.10.2026) by [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2026/435/regulation/3/a) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
 
-[^key-66fd8b192d242b72cd31d4842c85f19c]: Textual amendment: Words in reg. 4 substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
+[^c-66fd8b192d242b72cd31d4842c85f19c]: Textual amendment: Words in reg. 4 substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
 
 [^c19951591]: Marginal citation: [2007 c. 29](https://www.legislation.gov.uk/ukpga/2007/29).
 
-[^key-918aeb8aef60bbdf10219fd41fb4e4cf]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2009/2999/regulation/4) substituted (1.10.2026) by [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2026/435/regulation/3/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
+[^c-918aeb8aef60bbdf10219fd41fb4e4cf]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2009/2999/regulation/4) substituted (1.10.2026) by [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2026/435/regulation/3/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
 
-[^key-e5420de8c0faefe30259986d82d791a5]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2009/2999/regulation/4) substituted (1.10.2026) by [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2026/435/regulation/3/c) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
+[^c-e5420de8c0faefe30259986d82d791a5]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2009/2999/regulation/4) substituted (1.10.2026) by [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2026/435/regulation/3/c) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
 
-[^key-a4514e73d5a535f1904ad1486d552e5d]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2009/2999/regulation/4) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2018/1329/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a4514e73d5a535f1904ad1486d552e5d]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2009/2999/regulation/4) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2018/1329/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-764c44ff51e641858997aa077fe36a18]: Textual amendment: Word in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/5/1/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/2/a)
+[^c-764c44ff51e641858997aa077fe36a18]: Textual amendment: Word in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/5/1/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/2/a)
 
-[^key-5530013e2b489566cd55deeff0321b6a]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/5/1/b) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/5/1/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5530013e2b489566cd55deeff0321b6a]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/5/1/b) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/5/1/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bbb430dc97bb7c0eb9356d26053b5516]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/5/1/c) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [5(1)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/5/1/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bbb430dc97bb7c0eb9356d26053b5516]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/5/1/c) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [5(1)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/5/1/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f05926ab30f55718ce49bf4a092f6c45]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/5/1/c) inserted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [5(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/5/1/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f05926ab30f55718ce49bf4a092f6c45]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/5/1/c) inserted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [5(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/5/1/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cab3d7222c66a39032305bca6ad64499]: Textual amendment: Word in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/5/1/c) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/2/a)
+[^c-cab3d7222c66a39032305bca6ad64499]: Textual amendment: Word in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/5/1/c) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/2/a)
 
-[^key-e5ee2e1d981554790d4560e46e83eeeb]: Textual amendment: [Reg. 5(2A)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/5/2A) inserted (31.12.2020) by [Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (c. 20)](https://www.legislation.gov.uk/ukpga/2020/20), [s. 9(1)](https://www.legislation.gov.uk/ukpga/2020/20/section/9/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2020/20/schedule/1/paragraph/3) (with [s. 4(2)](https://www.legislation.gov.uk/ukpga/2020/20/section/4/2)); [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
+[^c-e5ee2e1d981554790d4560e46e83eeeb]: Textual amendment: [Reg. 5(2A)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/5/2A) inserted (31.12.2020) by [Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (c. 20)](https://www.legislation.gov.uk/ukpga/2020/20), [s. 9(1)](https://www.legislation.gov.uk/ukpga/2020/20/section/9/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2020/20/schedule/1/paragraph/3) (with [s. 4(2)](https://www.legislation.gov.uk/ukpga/2020/20/section/4/2)); [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 
-[^key-08fa8f00825f23629a0f9f483c943727]: Textual amendment: [Reg. 5(3)-(5)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/5/3) omitted (1.10.2026) by virtue of [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/435/regulation/4) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
+[^c-08fa8f00825f23629a0f9f483c943727]: Textual amendment: [Reg. 5(3)-(5)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/5/3) omitted (1.10.2026) by virtue of [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/435/regulation/4) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
 
 [^M_F_65a12acb-650e-429f-c194-fd432055e2c0]: Textual amendment: Word in reg. 6(1) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/6/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_941bea29-ac36-4d19-da75-f72fdd1f8bf5]: Textual amendment: Words in reg. 6(2)(a) inserted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3cd34f6548c2da0806fc65df4037fafe]: Textual amendment: Words in [reg. 6(2)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/6/2/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/3/a)
+[^c-3cd34f6548c2da0806fc65df4037fafe]: Textual amendment: Words in [reg. 6(2)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/6/2/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/3/a)
 
 [^M_F_804c50f2-26a4-478d-b26a-f08e46ffe490]: Textual amendment: Reg. 6(2)(a)(ii) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/6/2/b) (as amended by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/3/2/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d42933805549a9cf2db417978037a421]: Textual amendment: Words in [reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/6/2/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/3/a)
+[^c-d42933805549a9cf2db417978037a421]: Textual amendment: Words in [reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/6/2/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/3/a)
 
 [^M_F_5826d7c2-644c-4b28-d6fe-939dc82b622c]: Textual amendment: Words in reg. 6(2)(b) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/6/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
@@ -1076,111 +1076,111 @@ A transposition note and an impact assessment of the effect that this instrument
 
 [^M_F_3cf4619a-93e9-4039-97a5-f592291e5261]: Textual amendment: Words in reg. 6(4)(a) inserted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/6/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2b8b9e53270be8fe4824316a52b4511c]: Textual amendment: Words in [reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/6/4/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/3/b)
+[^c-2b8b9e53270be8fe4824316a52b4511c]: Textual amendment: Words in [reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/6/4/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/3/b)
 
-[^key-6dfc473031c939c59abea890e23d2897]: Textual amendment: Words in [reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/6/4/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/3/b)
+[^c-6dfc473031c939c59abea890e23d2897]: Textual amendment: Words in [reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/6/4/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/3/b)
 
 [^M_F_e00132a0-e192-4d75-b1f3-2cbdded57f6b]: Textual amendment: Words in reg. 6(4)(b) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/6/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_ef9c81c3-e69e-430e-b2e0-b1f8b602ba77]: Textual amendment: Reg. 6(4)(b)(ii) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [6(4)(c)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/6/4/c) (as amended by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/3/2/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-749b7b39791284bdf6d7e5e5291458db]: Textual amendment: [Reg. 8(1)(f)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/8/1/f) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-749b7b39791284bdf6d7e5e5291458db]: Textual amendment: [Reg. 8(1)(f)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/8/1/f) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19951621]: Marginal citation: OJ No. L145, 13.6.1977, p.1, as last amended by Directive 2006/18/EC (OJ No. L51, 22.2.2006, p.12).
 
-[^key-4da7b61252f9fa656b123081486fdfd5]: Textual amendment: Words in [reg. 8(1)(g)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/8/1/g) inserted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4da7b61252f9fa656b123081486fdfd5]: Textual amendment: Words in [reg. 8(1)(g)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/8/1/g) inserted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6d738fc1c7c9b1efb26e665f3484c29c]: Textual amendment: Words in [reg. 8(1)(h)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/8/1/h) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [7(c)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/7/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d738fc1c7c9b1efb26e665f3484c29c]: Textual amendment: Words in [reg. 8(1)(h)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/8/1/h) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [7(c)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/7/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0f6340beec5e7adcfa5561bd186f48f0]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/9/1/b) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2018/1329/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0f6340beec5e7adcfa5561bd186f48f0]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/9/1/b) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2018/1329/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c0e5768ebccd2f795e0b9b5e2c1d19aa]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/2999/regulation/13) omitted (1.10.2026) by virtue of [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/435/regulation/5) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
+[^c-c0e5768ebccd2f795e0b9b5e2c1d19aa]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/2999/regulation/13) omitted (1.10.2026) by virtue of [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/435/regulation/5) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
 
-[^key-9e11b7896760c5ca294ae04a89e26143]: Textual amendment: [Reg. 14(2)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/14/2/a) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [10(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/10/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9e11b7896760c5ca294ae04a89e26143]: Textual amendment: [Reg. 14(2)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/14/2/a) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [10(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/10/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-825b129c772f44a9b28e652db3a863d9]: Textual amendment: Word in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/14/3) substituted (1.10.2026) by [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/435/regulation/6) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
+[^c-825b129c772f44a9b28e652db3a863d9]: Textual amendment: Word in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/14/3) substituted (1.10.2026) by [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/435/regulation/6) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
 
-[^key-023403dd1e518643d0b8fbc43ffbf36b]: Textual amendment: Words in [reg. 14(3)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/14/3/a) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/10/2/a) (as amended by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-023403dd1e518643d0b8fbc43ffbf36b]: Textual amendment: Words in [reg. 14(3)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/14/3/a) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/10/2/a) (as amended by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-02071827da299552323cc1cc0f4adb63]: Textual amendment: Words in [reg. 14(3)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/14/3/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(3)(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/3/c)
+[^c-02071827da299552323cc1cc0f4adb63]: Textual amendment: Words in [reg. 14(3)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/14/3/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(3)(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/3/c)
 
-[^key-f09592031416219b23bd93188d6bca99]: Textual amendment: [Reg. 14(3)(b)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/14/3/b) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/10/2/b) (as amended by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f09592031416219b23bd93188d6bca99]: Textual amendment: [Reg. 14(3)(b)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/14/3/b) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/10/2/b) (as amended by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-958dca7b427ff98c6d25c433549d9430]: Textual amendment: Words in [reg. 14(3)(b)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/14/3/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(3)(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/3/c)
+[^c-958dca7b427ff98c6d25c433549d9430]: Textual amendment: Words in [reg. 14(3)(b)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/14/3/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(3)(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/3/c)
 
-[^key-c79d9c7b21b834e50f824724a68cb330]: Textual amendment: [Reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/15/2/a) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [11(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/11/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c79d9c7b21b834e50f824724a68cb330]: Textual amendment: [Reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/15/2/a) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [11(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/11/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-89e38e1d05934b296bc661d6e1ad1be4]: Textual amendment: Words in [reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/15/3/a) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-89e38e1d05934b296bc661d6e1ad1be4]: Textual amendment: Words in [reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/15/3/a) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f6cac51da79024ebf64a34398b8685b1]: Textual amendment: Reg. 15(5)-(5E) substituted for reg. 15(5)(6) (6.4.2016) by [The Provision of Services (Amendment) Regulations 2014 (S.I. 2014/1937)](https://www.legislation.gov.uk/uksi/2014/1937), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1937/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1937/regulation/2/2)
+[^c-f6cac51da79024ebf64a34398b8685b1]: Textual amendment: Reg. 15(5)-(5E) substituted for reg. 15(5)(6) (6.4.2016) by [The Provision of Services (Amendment) Regulations 2014 (S.I. 2014/1937)](https://www.legislation.gov.uk/uksi/2014/1937), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1937/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1937/regulation/2/2)
 
-[^key-35be419620e9614b8fb62506fc0d22ec]: Textual amendment: Word in [reg. 17(4)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/17/4) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/2/b)
+[^c-35be419620e9614b8fb62506fc0d22ec]: Textual amendment: Word in [reg. 17(4)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/17/4) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/2/b)
 
-[^key-fbce1f9e21e9493c31fce21033096bd4]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/17/4) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2018/1329/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fbce1f9e21e9493c31fce21033096bd4]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/17/4) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2018/1329/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9793b562eb3a6dba8e8d263ec4549552]: Textual amendment: [Reg. 18(4)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/18/4) substituted (1.10.2026) by [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2026/435/regulation/7) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
+[^c-9793b562eb3a6dba8e8d263ec4549552]: Textual amendment: [Reg. 18(4)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/18/4) substituted (1.10.2026) by [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2026/435/regulation/7) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
 
-[^key-eb8c9477aadd390a914b945012339faa]: Textual amendment: [Reg. 19(1)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/19/1) substituted (1.10.2026) by [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2026/435/regulation/8/a) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
+[^c-eb8c9477aadd390a914b945012339faa]: Textual amendment: [Reg. 19(1)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/19/1) substituted (1.10.2026) by [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2026/435/regulation/8/a) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
 
-[^key-4a8e076eabe82d602d085a53577996f7]: Textual amendment: [Reg. 19(4)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/19/4) substituted (1.10.2026) by [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2026/435/regulation/8/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
+[^c-4a8e076eabe82d602d085a53577996f7]: Textual amendment: [Reg. 19(4)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/19/4) substituted (1.10.2026) by [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2026/435/regulation/8/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
 
-[^key-a30382a0c7d1441c31cf2a37d376b192]: Textual amendment: [Regs. 20-20C](https://www.legislation.gov.uk/uksi/2009/2999/regulation/20) substituted for [reg. 20](https://www.legislation.gov.uk/uksi/2009/2999/regulation/20) (1.10.2026) by [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2026/435/regulation/9) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
+[^c-a30382a0c7d1441c31cf2a37d376b192]: Textual amendment: [Regs. 20-20C](https://www.legislation.gov.uk/uksi/2009/2999/regulation/20) substituted for [reg. 20](https://www.legislation.gov.uk/uksi/2009/2999/regulation/20) (1.10.2026) by [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2026/435/regulation/9) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
 
-[^key-f76ddd029acdfc76bdbc88da9be4ca86]: Textual amendment: [Reg. 21(1)(a)-(d)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/21/1/a) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/13/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f76ddd029acdfc76bdbc88da9be4ca86]: Textual amendment: [Reg. 21(1)(a)-(d)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/21/1/a) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/13/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-187848eee02456e052c86594a3ec80ba]: Textual amendment: [Reg. 21(1)(g)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/21/1/g) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/13/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-187848eee02456e052c86594a3ec80ba]: Textual amendment: [Reg. 21(1)(g)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/21/1/g) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/13/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ff1b7cb0ce0a5e46a884ac3801b2f359]: Textual amendment: [Reg. 21(4)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/21/4) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ff1b7cb0ce0a5e46a884ac3801b2f359]: Textual amendment: [Reg. 21(4)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/21/4) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e1b7d68dd4561d9c9671237405c5dfce]: Textual amendment: Word in [reg. 22(2)(d)(i)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/22/2/d/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(2)(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/2/c)
+[^c-e1b7d68dd4561d9c9671237405c5dfce]: Textual amendment: Word in [reg. 22(2)(d)(i)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/22/2/d/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(2)(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/2/c)
 
-[^key-118c059da075134a6eba8928db38c51c]: Textual amendment: Words in [reg. 22(2)(d)(i)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/22/2/i) inserted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [14(1)(a)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/14/1/a) (as amended by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [3(2)(c)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/3/2/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-118c059da075134a6eba8928db38c51c]: Textual amendment: Words in [reg. 22(2)(d)(i)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/22/2/i) inserted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [14(1)(a)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/14/1/a) (as amended by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [3(2)(c)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/3/2/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19951631]: Marginal citation: OJ No. L255, 30.9.2005, p.22.
 
-[^key-1fe130dce6a9e339f7b3347644cf9063]: Textual amendment: Word in [reg. 22(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/22/2/d/ii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(2)(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/2/c)
+[^c-1fe130dce6a9e339f7b3347644cf9063]: Textual amendment: Word in [reg. 22(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/22/2/d/ii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(2)(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/2/c)
 
-[^key-967968bd96cbcfc9b71c02a9b77ea7f2]: Textual amendment: Words in [reg. 22(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/22/2/ii) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [14(1)(b)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/14/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-967968bd96cbcfc9b71c02a9b77ea7f2]: Textual amendment: Words in [reg. 22(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/22/2/ii) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [14(1)(b)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/14/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cb2da89811d4e8a95cbad628d17d8318]: Textual amendment: [Reg. 22(3)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/22/3/a) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/14/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cb2da89811d4e8a95cbad628d17d8318]: Textual amendment: [Reg. 22(3)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/22/3/a) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/14/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-34cbd74d6eaf65106fde884462f65257]: Textual amendment: Words in [reg. 22(5)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/22/5) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/14/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34cbd74d6eaf65106fde884462f65257]: Textual amendment: Words in [reg. 22(5)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/22/5) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/14/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fc7359b02a172e4eb65a919a10df8e5e]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2009/2999/part/4) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2018/1329/regulation/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fc7359b02a172e4eb65a919a10df8e5e]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2009/2999/part/4) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2018/1329/regulation/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-797599e94ac2db4ad4b5724b121aa183]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2009/2999/part/5) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2018/1329/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-797599e94ac2db4ad4b5724b121aa183]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2009/2999/part/5) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2018/1329/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-284d8ba947a5941d35e5040b83353c2a]: Textual amendment: Words in [reg. 31(3)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/31/3/a) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [17(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/17/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-284d8ba947a5941d35e5040b83353c2a]: Textual amendment: Words in [reg. 31(3)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/31/3/a) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [17(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/17/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b738968c2281ef4a7172943e9227ce0d]: Textual amendment: Word in [reg. 31(3)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/31/3/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(2)(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/2/d)
+[^c-b738968c2281ef4a7172943e9227ce0d]: Textual amendment: Word in [reg. 31(3)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/31/3/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 6(2)(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/6/2/d)
 
-[^key-1a8cc28a8fa797027f8ddb08cb909751]: Textual amendment: [Reg. 31(5)(a)-(e)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/31/5/a) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/17/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1a8cc28a8fa797027f8ddb08cb909751]: Textual amendment: [Reg. 31(5)(a)-(e)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/31/5/a) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/17/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19951821]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-a2a4f6f112fb3c020414822d8e3b2178]: Textual amendment: [Reg. 31(5)(g)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/31/5/g) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
+[^c-a2a4f6f112fb3c020414822d8e3b2178]: Textual amendment: [Reg. 31(5)(g)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/31/5/g) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
 
-[^key-63f2c792b1cc639329be015bd0e1b775]: Textual amendment: [Reg. 31(5)(h)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/31/5/h) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [17(3)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/17/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-63f2c792b1cc639329be015bd0e1b775]: Textual amendment: [Reg. 31(5)(h)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/31/5/h) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [17(3)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/17/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-417104baa327d588a43e14f1b5315d87]: Textual amendment: Words in reg. 31(5) omitted (18.1.2016) by [The European Union (Recognition of Professional Qualifications) Regulations 2015 (S.I. 2015/2059)](https://www.legislation.gov.uk/uksi/2015/2059), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2059/regulation/1), [75(2)](https://www.legislation.gov.uk/uksi/2015/2059/regulation/75/2) (with [reg. 78](https://www.legislation.gov.uk/uksi/2015/2059/regulation/78))
+[^c-417104baa327d588a43e14f1b5315d87]: Textual amendment: Words in reg. 31(5) omitted (18.1.2016) by [The European Union (Recognition of Professional Qualifications) Regulations 2015 (S.I. 2015/2059)](https://www.legislation.gov.uk/uksi/2015/2059), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2059/regulation/1), [75(2)](https://www.legislation.gov.uk/uksi/2015/2059/regulation/75/2) (with [reg. 78](https://www.legislation.gov.uk/uksi/2015/2059/regulation/78))
 
 [^c19951861]: Marginal citation: [S.I. 2009/1801](https://www.legislation.gov.uk/uksi/2009/1801).
 
-[^key-d12678c2a5b7a5d09d18f43f30111496]: Textual amendment: [Reg. 31(5)(k)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/31/5/k) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [17(4)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/17/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d12678c2a5b7a5d09d18f43f30111496]: Textual amendment: [Reg. 31(5)(k)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/31/5/k) substituted (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [17(4)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/17/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d12383d290cf81e612dd0ce41c760bf9]: Textual amendment: Words in [reg. 31(5)(k)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/31/5/k) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/9/2)
+[^c-d12383d290cf81e612dd0ce41c760bf9]: Textual amendment: Words in [reg. 31(5)(k)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/31/5/k) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/9/2)
 
-[^key-5641220391da80d2af52bc98c20650a2]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/uksi/2009/2999/regulation/33) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2018/1329/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5641220391da80d2af52bc98c20650a2]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/uksi/2009/2999/regulation/33) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2018/1329/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c89df3df254ee15e9f4c790f41e1c920]: Textual amendment: [Reg. 34(3)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/34/3/a) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2018/1329/regulation/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c89df3df254ee15e9f4c790f41e1c920]: Textual amendment: [Reg. 34(3)(a)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/34/3/a) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2018/1329/regulation/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-66582dd4c69c225d4cc83ecc09b5184a]: Textual amendment: [Reg. 36(1)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/36/1)[(1A)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/36/1A) substituted for [reg. 36(1)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/36/1) (1.10.2026) by [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2026/435/regulation/10) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
+[^c-66582dd4c69c225d4cc83ecc09b5184a]: Textual amendment: [Reg. 36(1)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/36/1)[(1A)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/36/1A) substituted for [reg. 36(1)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/36/1) (1.10.2026) by [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2026/435/regulation/10) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
 
-[^key-3e71596b61c321ab1f2f7f4ac3a7d1aa]: Textual amendment: Word in [reg. 37(1)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/37/1) substituted (1.10.2026) by [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/435/regulation/11) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
+[^c-3e71596b61c321ab1f2f7f4ac3a7d1aa]: Textual amendment: Word in [reg. 37(1)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/37/1) substituted (1.10.2026) by [The Provision of Services (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/435)](https://www.legislation.gov.uk/uksi/2026/435), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/435/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/435/regulation/11) (with [reg. 12](https://www.legislation.gov.uk/uksi/2026/435/regulation/12))
 
-[^key-bd92c36c4eb659f89ff429b743116a9a]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/38/1) substituted (6.4.2016) by [The Provision of Services (Amendment) Regulations 2014 (S.I. 2014/1937)](https://www.legislation.gov.uk/uksi/2014/1937), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1937/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/1937/regulation/2/3)
+[^c-bd92c36c4eb659f89ff429b743116a9a]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/38/1) substituted (6.4.2016) by [The Provision of Services (Amendment) Regulations 2014 (S.I. 2014/1937)](https://www.legislation.gov.uk/uksi/2014/1937), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1937/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/1937/regulation/2/3)
 
-[^key-fbb81800361fe53137d5b769332ebbde]: Textual amendment: [Pt. 9](https://www.legislation.gov.uk/uksi/2009/2999/part/9) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2018/1329/regulation/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fbb81800361fe53137d5b769332ebbde]: Textual amendment: [Pt. 9](https://www.legislation.gov.uk/uksi/2009/2999/part/9) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2018/1329/regulation/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19951881]: Marginal citation: [1871 c. 96](https://www.legislation.gov.uk/ukpga/1871/96).
 
@@ -1188,7 +1188,7 @@ A transposition note and an impact assessment of the effect that this instrument
 
 [^c19951901]: Marginal citation: [2001 c. 8 (N.I.)](https://www.legislation.gov.uk/nia/2001/8).
 
-[^key-a2a8debd5363a0463adf4070065d83f6]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/2009/2999/regulation/46) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2018/1329/regulation/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a2a8debd5363a0463adf4070065d83f6]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/2009/2999/regulation/46) omitted (31.12.2020) by virtue of [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2018/1329/regulation/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19951921]: Marginal citation: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
 

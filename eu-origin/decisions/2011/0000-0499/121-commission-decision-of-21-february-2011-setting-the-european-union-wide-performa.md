@@ -37,30 +37,30 @@ setting the European Union-wide performance targets and alert thresholds for the
 
 (2011/121/EU) (revoked)
 
-[^key-de29cf7e9d7ceb474a6b5c3ce5cd0df2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de29cf7e9d7ceb474a6b5c3ce5cd0df2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. European Union-wide performance targets[^key-de29cf7e9d7ceb474a6b5c3ce5cd0df2]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Alert thresholds[^key-de29cf7e9d7ceb474a6b5c3ce5cd0df2]
+## Article 1. European Union-wide performance targets[^c-de29cf7e9d7ceb474a6b5c3ce5cd0df2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Assumptions[^key-de29cf7e9d7ceb474a6b5c3ce5cd0df2]
+## Article 2. Alert thresholds[^c-de29cf7e9d7ceb474a6b5c3ce5cd0df2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Revision of the European Union-wide targets[^key-de29cf7e9d7ceb474a6b5c3ce5cd0df2]
+## Article 3. Assumptions[^c-de29cf7e9d7ceb474a6b5c3ce5cd0df2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-de29cf7e9d7ceb474a6b5c3ce5cd0df2]
+## Article 4. Revision of the European Union-wide targets[^c-de29cf7e9d7ceb474a6b5c3ce5cd0df2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de29cf7e9d7ceb474a6b5c3ce5cd0df2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 5. Entry into force[^c-de29cf7e9d7ceb474a6b5c3ce5cd0df2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-de29cf7e9d7ceb474a6b5c3ce5cd0df2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-de29cf7e9d7ceb474a6b5c3ce5cd0df2]: Textual amendment: Decision revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [370](https://www.legislation.gov.uk/uksi/2019/459/regulation/370); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-de29cf7e9d7ceb474a6b5c3ce5cd0df2]: Textual amendment: Decision revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [370](https://www.legislation.gov.uk/uksi/2019/459/regulation/370); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

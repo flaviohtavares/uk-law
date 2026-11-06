@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Making youth rehabilitation order where offender subject to other order[^key-e79c262b527f1f61b1f7e93fc83cbd41]
+## 181. Making youth rehabilitation order where offender subject to other order[^c-e79c262b527f1f61b1f7e93fc83cbd41]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ is in force in respect of the offender, unless when it makes the order it revoke
 
 ## Annotations
 
-[^key-e79c262b527f1f61b1f7e93fc83cbd41]: Commencement: S. 181 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e79c262b527f1f61b1f7e93fc83cbd41]: Commencement: S. 181 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -44,7 +44,7 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2) and (3)
 
-The Secretary of State [^c23697891] in exercise of the powers conferred by sections 1(1)(c) and (3)(b), 3(1)(a), (b)(iii), (c)(iii), (d), (e)(iii), (g)(iii) and (2)(c), 4, 5, 6(1)(a), (2) and (7), 9(2)(a), 10(2)(a) and (c), (3) and (4), 11(2) to (9), 15(2)(a) and (b), (3), (4)(b), (5) and (6), 16, 17(2) to (9), 19, 20, 21(1), 54(1) and (2) and 62(4) to (6) of, and paragraphs 2(a)(iii) and (b), 3(a), (b) and (c)(iii), 4(a)(iii), (b), (c) and (d), 5(a)(ii), (b) to (d), 6(a)(ii) and (iii) and (b), 7(b), 11(a)(ii) and (iii), 13(a), (b), (c), (d), (g), (h), (i), (k), (l), (m), (n), (p), (q) and (w), 14(a), (e), (f) and (k), 17 to 23 and 27 of Schedule 1 to, the Sanctions and Anti-Money Laundering Act 2018 [^c23697901], and having decided, upon consideration of the matters set out in section 2(2) of that Act, that it is appropriate to do so, makes the following Regulations:[^key-18cbeae4954497c73aff324f33aefbe6]
+The Secretary of State [^c23697891] in exercise of the powers conferred by sections 1(1)(c) and (3)(b), 3(1)(a), (b)(iii), (c)(iii), (d), (e)(iii), (g)(iii) and (2)(c), 4, 5, 6(1)(a), (2) and (7), 9(2)(a), 10(2)(a) and (c), (3) and (4), 11(2) to (9), 15(2)(a) and (b), (3), (4)(b), (5) and (6), 16, 17(2) to (9), 19, 20, 21(1), 54(1) and (2) and 62(4) to (6) of, and paragraphs 2(a)(iii) and (b), 3(a), (b) and (c)(iii), 4(a)(iii), (b), (c) and (d), 5(a)(ii), (b) to (d), 6(a)(ii) and (iii) and (b), 7(b), 11(a)(ii) and (iii), 13(a), (b), (c), (d), (g), (h), (i), (k), (l), (m), (n), (p), (q) and (w), 14(a), (e), (f) and (k), 17 to 23 and 27 of Schedule 1 to, the Sanctions and Anti-Money Laundering Act 2018 [^c23697901], and having decided, upon consideration of the matters set out in section 2(2) of that Act, that it is appropriate to do so, makes the following Regulations:[^c-18cbeae4954497c73aff324f33aefbe6]
 
 ## Contents
 
@@ -101,7 +101,7 @@ The Secretary of State [^c23697891] in exercise of the powers conferred by secti
 - [Section 22 — Circumventing etc prohibitions](part-3/section-22.md)
 - [Section 23 — Interpretation of Part 3](part-3/section-23.md)
 
-### PART 3A — Director disqualification sanctions[^key-1575cc1fabe2422ec4350f330ec0bf0d]
+### PART 3A — Director disqualification sanctions[^c-1575cc1fabe2422ec4350f330ec0bf0d]
 
 - [Section 23A — Director disqualification sanctions](part-3a/section-23a.md)
 
@@ -172,7 +172,7 @@ The Secretary of State [^c23697891] in exercise of the powers conferred by secti
 - [Section 49A — Trade: end-use control](part-5/section-49a.md)
 - [Section 50 — Defences](part-5/section-50.md)
 
-### PART 6 — Aircraft[^key-c275d6364c8a715ef8427d7e120b0ff2]
+### PART 6 — Aircraft[^c-c275d6364c8a715ef8427d7e120b0ff2]
 
 *Extent: E+W+S+N.I.*
 
@@ -310,8 +310,8 @@ https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attac
 
 [^c23697901]: Marginal citation: [2018 c.13](https://www.legislation.gov.uk/ukpga/2018/13).
 
-[^key-18cbeae4954497c73aff324f33aefbe6]: Modification: Regulations extended (British overseas territories) (with modifications) (31.12.2020 immediately after both [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590) and [S.I. 2020/951](https://www.legislation.gov.uk/uksi/2020/951) have come into force) by [The Syria (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1580)](https://www.legislation.gov.uk/uksi/2020/1580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1580/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/1580/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2020/1580/schedule/1), [2](https://www.legislation.gov.uk/uksi/2020/1580/schedule/2) (as amended (3.10.2024) by [S.I. 2024/986](https://www.legislation.gov.uk/uksi/2024/986), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/986/article/1/1), [3](https://www.legislation.gov.uk/uksi/2024/986/article/3), [4](https://www.legislation.gov.uk/uksi/2024/986/article/4) and (11.12.2025) by [S.I. 2025/1307](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/1307/schedule/14)); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4), [18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
+[^c-18cbeae4954497c73aff324f33aefbe6]: Modification: Regulations extended (British overseas territories) (with modifications) (31.12.2020 immediately after both [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590) and [S.I. 2020/951](https://www.legislation.gov.uk/uksi/2020/951) have come into force) by [The Syria (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1580)](https://www.legislation.gov.uk/uksi/2020/1580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1580/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/1580/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2020/1580/schedule/1), [2](https://www.legislation.gov.uk/uksi/2020/1580/schedule/2) (as amended (3.10.2024) by [S.I. 2024/986](https://www.legislation.gov.uk/uksi/2024/986), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/986/article/1/1), [3](https://www.legislation.gov.uk/uksi/2024/986/article/3), [4](https://www.legislation.gov.uk/uksi/2024/986/article/4) and (11.12.2025) by [S.I. 2025/1307](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/1307/schedule/14)); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4), [18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
 
-[^key-1575cc1fabe2422ec4350f330ec0bf0d]: Textual amendment: Pt. 3A inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2024/643/regulation/7/4)
+[^c-1575cc1fabe2422ec4350f330ec0bf0d]: Textual amendment: Pt. 3A inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2024/643/regulation/7/4)
 
-[^key-c275d6364c8a715ef8427d7e120b0ff2]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2019/792/part/6) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(p)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/p)
+[^c-c275d6364c8a715ef8427d7e120b0ff2]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2019/792/part/6) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(p)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/p)

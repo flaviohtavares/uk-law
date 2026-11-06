@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Visitors[^key-a13528501fd0b84e4736f0ea7fa7d6e5][^key-55b6a0d553abd769c0ddc12789a05a94]
+## 16. Visitors[^c-a13528501fd0b84e4736f0ea7fa7d6e5][^c-55b6a0d553abd769c0ddc12789a05a94]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
 
 but no person may be a visitor if he is employed by the Council.
 
-(6) Visitors shall be selected with due regard to the profession with which the education and training they are to report on is concerned and at least one of the visitors shall be registered in that part of the register which relates to that profession ; but that does not apply to AMHP courses *(Extent: E)* *(affected by repeal, see note)*[^key-57ef935ce37ff77f2d208501006e4bdd][^key-8acd1a2ee72cdb35b59dcfb14f362c0a].
+(6) Visitors shall be selected with due regard to the profession with which the education and training they are to report on is concerned and at least one of the visitors shall be registered in that part of the register which relates to that profession ; but that does not apply to AMHP courses *(Extent: E)* *(affected by repeal, see note)*[^c-57ef935ce37ff77f2d208501006e4bdd][^c-8acd1a2ee72cdb35b59dcfb14f362c0a].
 
 (7) Where a visitor visits any place or institution in the exercise of his functions under this article, he shall report to the Committee—
 
@@ -72,10 +72,10 @@ but no person may be a visitor if he is employed by the Council.
 
 ## Annotations
 
-[^key-a13528501fd0b84e4736f0ea7fa7d6e5]: Commencement: Art. 16 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
+[^c-a13528501fd0b84e4736f0ea7fa7d6e5]: Commencement: Art. 16 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
 
-[^key-55b6a0d553abd769c0ddc12789a05a94]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2002/254/article/16) in force at 9.7.2003 as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))
+[^c-55b6a0d553abd769c0ddc12789a05a94]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2002/254/article/16) in force at 9.7.2003 as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))
 
-[^key-57ef935ce37ff77f2d208501006e4bdd]: Textual amendment: Words in [art. 16(6)](https://www.legislation.gov.uk/uksi/2002/254/article/16/6) omitted (E.) (2.12.2019) by virtue of [The Social Workers Regulations 2018 (S.I. 2018/893)](https://www.legislation.gov.uk/uksi/2018/893), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/893/regulation/1/2), [41(6)](https://www.legislation.gov.uk/uksi/2018/893/regulation/41/6); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-57ef935ce37ff77f2d208501006e4bdd]: Textual amendment: Words in [art. 16(6)](https://www.legislation.gov.uk/uksi/2002/254/article/16/6) omitted (E.) (2.12.2019) by virtue of [The Social Workers Regulations 2018 (S.I. 2018/893)](https://www.legislation.gov.uk/uksi/2018/893), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/893/regulation/1/2), [41(6)](https://www.legislation.gov.uk/uksi/2018/893/regulation/41/6); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-8acd1a2ee72cdb35b59dcfb14f362c0a]: Textual amendment: Words in [art. 16(6)](https://www.legislation.gov.uk/uksi/2002/254/article/16/6) inserted (1.8.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 218(6)](https://www.legislation.gov.uk/ukpga/2012/7/section/218/6), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4) (with [s. 230(6)](https://www.legislation.gov.uk/ukpga/2012/7/section/230/6)); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
+[^c-8acd1a2ee72cdb35b59dcfb14f362c0a]: Textual amendment: Words in [art. 16(6)](https://www.legislation.gov.uk/uksi/2002/254/article/16/6) inserted (1.8.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 218(6)](https://www.legislation.gov.uk/ukpga/2012/7/section/218/6), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4) (with [s. 230(6)](https://www.legislation.gov.uk/ukpga/2012/7/section/230/6)); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)

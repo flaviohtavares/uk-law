@@ -31,13 +31,13 @@ Land Registry Act 1862 (repealed)
 
 1862 c.53
 
-[^key-1199c2d5967cd84ed35750d5db69b260]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1199c2d5967cd84ed35750d5db69b260]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
 - [Section 1 — Extent of Act.](section-1.md)
 
-### Part I — As to the Registration of Real Estates, and the Title thereto[^key-1199c2d5967cd84ed35750d5db69b260]
+### Part I — As to the Registration of Real Estates, and the Title thereto[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
@@ -45,7 +45,7 @@ Land Registry Act 1862 (repealed)
 - [Section 3 — Limits of registry.](part-i/section-3.md)
 - [Section 4 — By whom application for registration to be made.](part-i/section-4.md)
 
-#### Proceedings to obtain Registration of a Title as indefeasible[^key-1199c2d5967cd84ed35750d5db69b260]
+#### Proceedings to obtain Registration of a Title as indefeasible[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
@@ -61,7 +61,7 @@ Land Registry Act 1862 (repealed)
 - [Section 14 — Completion of registration.](part-i/section-14.md)
 - [Section 15 — Books may be inspected.](part-i/section-15.md)
 
-#### As to the Record of Title[^key-1199c2d5967cd84ed35750d5db69b260]
+#### As to the Record of Title[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
@@ -70,7 +70,7 @@ Land Registry Act 1862 (repealed)
 - [Section 18 — Registrar may refer in record of title to deed, &c. for estates of parties.](part-i/section-18.md)
 - [Section 19 — Persons entitled to principal money, &c. not to be entered in record of title unless registrar thinks fit.](part-i/section-19.md)
 
-#### When an indefeasible title shall arise[^key-1199c2d5967cd84ed35750d5db69b260]
+#### When an indefeasible title shall arise[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
@@ -80,19 +80,19 @@ Land Registry Act 1862 (repealed)
 - [Section 23 — Power to registrar to refuse registration.](part-i/section-23.md)
 - [Section 24 — Power to registrar to demand security for costs.](part-i/section-24.md)
 
-#### Proceedings for Registration without an indefeasible Title[^key-1199c2d5967cd84ed35750d5db69b260]
+#### Proceedings for Registration without an indefeasible Title[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
 - [Section 25 — Registration without guarantee of title may be made under certain conditions.](part-i/section-25.md)
 
-#### Registration of Leasehold Estates[^key-1199c2d5967cd84ed35750d5db69b260]
+#### Registration of Leasehold Estates[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
 - [Section 26 — Leasehold estates may be registered in like manner as freehold lands.](part-i/section-26.md)
 
-#### General Provisions as to Title[^key-1199c2d5967cd84ed35750d5db69b260]
+#### General Provisions as to Title[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
@@ -105,7 +105,7 @@ Land Registry Act 1862 (repealed)
 - [Section 33 — Estates registered subject to existing law.](part-i/section-33.md)
 - [Section 34 — Registered proprietor, with consent may close register.](part-i/section-34.md)
 
-#### Caveat against Entry of Land on Register[^key-1199c2d5967cd84ed35750d5db69b260]
+#### Caveat against Entry of Land on Register[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
@@ -116,11 +116,11 @@ Land Registry Act 1862 (repealed)
 - [Section 39 — Compensation, when to be made.](part-i/section-39.md)
 - [Section 40 — Caveat not title of any person.](part-i/section-40.md)
 
-### Part II — Simplification of Title by Judicial Sales[^key-1199c2d5967cd84ed35750d5db69b260]
+### Part II — Simplification of Title by Judicial Sales[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
-#### Sales by Court of Chancery[^key-1199c2d5967cd84ed35750d5db69b260]
+#### Sales by Court of Chancery[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
@@ -147,7 +147,7 @@ Land Registry Act 1862 (repealed)
 - [Section 61 — As to costs and expenses.](part-ii/section-61.md)
 - [Section 62 — As to assignment of duties.](part-ii/section-62.md)
 
-### Part III — As to the Transfer of Registered Land[^key-1199c2d5967cd84ed35750d5db69b260]
+### Part III — As to the Transfer of Registered Land[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
@@ -157,7 +157,7 @@ Land Registry Act 1862 (repealed)
 - [Section 66 — Forms of conveyance in schedule as effectual as other forms.](part-iii/section-66.md)
 - [Section 67 — Forms may be modified or altered.](part-iii/section-67.md)
 
-#### As to Land Certificates[^key-1199c2d5967cd84ed35750d5db69b260]
+#### As to Land Certificates[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
@@ -183,7 +183,7 @@ Land Registry Act 1862 (repealed)
 - [Section 87 — Registrar in certain cases may erase official note.](part-iii/section-87.md)
 - [Section 88 — No dealing with registered land effectual until stamp and ad valorem duties paid.](part-iii/section-88.md)
 
-### Part IV — General Provisions to facilitate Registration[^key-1199c2d5967cd84ed35750d5db69b260]
+### Part IV — General Provisions to facilitate Registration[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
@@ -192,7 +192,7 @@ Land Registry Act 1862 (repealed)
 - [Section 91 — Deeds to be stamped.](part-iv/section-91.md)
 - [Section 92 — Judge may decide questions of priority of incumbrances, &c.](part-iv/section-92.md)
 
-#### As to Restraint of Conveyance[^key-1199c2d5967cd84ed35750d5db69b260]
+#### As to Restraint of Conveyance[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
@@ -200,7 +200,7 @@ Land Registry Act 1862 (repealed)
 - [Section 94 — Registrar to make a note of such restrictions.](part-iv/section-94.md)
 - [Section 95 — Court of Chancery may exercise powers of 13 & 14 Vict. c. 60.](part-iv/section-95.md)
 
-#### Caution[^key-1199c2d5967cd84ed35750d5db69b260]
+#### Caution[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
@@ -210,7 +210,7 @@ Land Registry Act 1862 (repealed)
 - [Section 99 — Cautioner to give security against damage sustained by delay, &c.](part-iv/section-99.md)
 - [Section 100 — Compensation for lodging caution without reasonable cause.](part-iv/section-100.md)
 
-#### Injunction[^key-1199c2d5967cd84ed35750d5db69b260]
+#### Injunction[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
@@ -219,7 +219,7 @@ Land Registry Act 1862 (repealed)
 - [Section 103 — Jurisdiction of Equity courts.](part-iv/section-103.md)
 - [Section 104 — Acts relating to registries in Middlesex and York not to apply, &c.](part-iv/section-104.md)
 
-#### Penalty on Fraud, &c.[^key-1199c2d5967cd84ed35750d5db69b260]
+#### Penalty on Fraud, &c.[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
@@ -228,7 +228,7 @@ Land Registry Act 1862 (repealed)
 - [Section 107 — Answers to bills, questions, &c. not admissible in evidence.](part-iv/section-107.md)
 - [Section 108–113 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iv/section-108-113.md)
 
-#### General Provisions[^key-1199c2d5967cd84ed35750d5db69b260]
+#### General Provisions[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
@@ -246,7 +246,7 @@ Land Registry Act 1862 (repealed)
 - [Section 125 — Registrar may frame general orders.](part-iv/section-125.md)
 - [Section 126 — Such orders to have effect as Act of Parliament.](part-iv/section-126.md)
 
-#### Fees[^key-1199c2d5967cd84ed35750d5db69b260]
+#### Fees[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
@@ -258,26 +258,26 @@ Land Registry Act 1862 (repealed)
 - [Section 132 — Costs may, in certain cases, be raised by mortgage.](part-iv/section-132.md)
 - [Section 133 — Orders to be laid before Parliament.](part-iv/section-133.md)
 
-#### Proceedings in Court of Chancery[^key-1199c2d5967cd84ed35750d5db69b260]
+#### Proceedings in Court of Chancery[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
 - [Section 134 — Applications to Court of Chancery to be by summons.](part-iv/section-134.md)
 - [Section 135 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iv/section-135.md)
 
-#### Forms[^key-1199c2d5967cd84ed35750d5db69b260]
+#### Forms[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
 - [Section 136 — Forms.](part-iv/section-136.md)
 
-#### Inspection of Register[^key-1199c2d5967cd84ed35750d5db69b260]
+#### Inspection of Register[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
 - [Section 137 — Inspection of register.](part-iv/section-137.md)
 
-#### Fraud[^key-1199c2d5967cd84ed35750d5db69b260]
+#### Fraud[^c-1199c2d5967cd84ed35750d5db69b260]
 
 **No longer in force.**
 
@@ -289,4 +289,4 @@ Land Registry Act 1862 (repealed)
 
 ## Annotations
 
-[^key-1199c2d5967cd84ed35750d5db69b260]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/25-26/53) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [ss. 122(1)](https://www.legislation.gov.uk/ukpga/2002/9/section/122/1), [136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-1199c2d5967cd84ed35750d5db69b260]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/25-26/53) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [ss. 122(1)](https://www.legislation.gov.uk/ukpga/2002/9/section/122/1), [136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)

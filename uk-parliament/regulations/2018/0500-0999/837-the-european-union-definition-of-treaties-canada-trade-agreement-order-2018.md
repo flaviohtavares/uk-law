@@ -32,7 +32,7 @@ summary: ''
 
 European Union
 
-The European Union (Definition of Treaties) (Canada Trade Agreement) Order 2018 (revoked)[^key-b76b2bb40377df9db0792df00298fcef]
+The European Union (Definition of Treaties) (Canada Trade Agreement) Order 2018 (revoked)[^c-b76b2bb40377df9db0792df00298fcef]
 
 Made
 
@@ -46,21 +46,21 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-b76b2bb40377df9db0792df00298fcef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b76b2bb40377df9db0792df00298fcef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1.[^key-b76b2bb40377df9db0792df00298fcef]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2.[^key-b76b2bb40377df9db0792df00298fcef]
+## 1.[^c-b76b2bb40377df9db0792df00298fcef]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-b76b2bb40377df9db0792df00298fcef]
+## 2.[^c-b76b2bb40377df9db0792df00298fcef]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3.[^c-b76b2bb40377df9db0792df00298fcef]
 
 **Not yet in force.**
 
@@ -68,12 +68,12 @@ The Queen's Most Excellent Majesty in Council
 
 **May not be in force at this date. Check the source.**
 
-[^key-b76b2bb40377df9db0792df00298fcef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b76b2bb40377df9db0792df00298fcef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b76b2bb40377df9db0792df00298fcef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b76b2bb40377df9db0792df00298fcef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b76b2bb40377df9db0792df00298fcef]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/837) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b76b2bb40377df9db0792df00298fcef]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/837) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Good design[^key-aea17e21b5d438dfc9f9a35d93b65012]
+## 183. Good design[^c-aea17e21b5d438dfc9f9a35d93b65012]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ In section 39 of PCPA 2004 (sustainable development) after subsection (2) insert
 
 ## Annotations
 
-[^key-aea17e21b5d438dfc9f9a35d93b65012]: Commencement: S. 183 in force at 6.4.2009 for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(a)](https://www.legislation.gov.uk/uksi/2009/400/article/5/a)
+[^c-aea17e21b5d438dfc9f9a35d93b65012]: Commencement: S. 183 in force at 6.4.2009 for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(a)](https://www.legislation.gov.uk/uksi/2009/400/article/5/a)

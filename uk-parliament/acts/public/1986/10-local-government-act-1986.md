@@ -43,11 +43,11 @@ An Act to require rating authorities to set a rate on or before 1st April; to pr
 
 ### 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c2579781]
 
-## Part II — Local Authority Publicity[^key-53c457b5eaf1ea12f1ce43f94e07dd51][^key-d3654c0d3d5f202c36b7ab2b9656e143][^key-1038754cc138b4071c9c6b71454b0f6e][^c13731761]
+## Part II — Local Authority Publicity[^c-53c457b5eaf1ea12f1ce43f94e07dd51][^c-d3654c0d3d5f202c36b7ab2b9656e143][^c-1038754cc138b4071c9c6b71454b0f6e][^c13731761]
 
 ### 2. Prohibition of political publicity.
 
-(1) A local authority shall not publish, or arrange for the publication of,[^key-1c73a2715b92ae602f314e89d2aed0a3] any material which, in whole or in part, appears to be designed to affect public support for a political party.
+(1) A local authority shall not publish, or arrange for the publication of,[^c-1c73a2715b92ae602f314e89d2aed0a3] any material which, in whole or in part, appears to be designed to affect public support for a political party.
 
 (2)[^c2579961] In determining whether material falls within the prohibition regard shall be had to the content and style of the material, the time and other circumstances of publication and the likely effect on those to whom it is directed and, in particular, to the following matters—
 
@@ -58,7 +58,7 @@ An Act to require rating authorities to set a rate on or before 1st April; to pr
 
 ### 2A. Prohibition on promoting homosexuality by teaching or by publishing material.[^c13731841]
 
-[^c13731831] [^key-237cc2e4715bdfafe2fdb8aa7acc8a98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c13731831] [^c-237cc2e4715bdfafe2fdb8aa7acc8a98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3. Other restrictions of existing powers.
 
@@ -139,7 +139,7 @@ In computing the period of 40 days no account shall be taken of any time during 
 
 In computing the period of 40 days no account shall be taken of any time during which the Parliament is dissolved or is in recess for more than 4 days.
 
-### 4A (Extent: E+W). Power to direct compliance with code (Extent: E+W)[^key-0aa4b492fd5a3d94e6e7106f146b8399]
+### 4A (Extent: E+W). Power to direct compliance with code (Extent: E+W)[^c-0aa4b492fd5a3d94e6e7106f146b8399]
 
 (1 (Extent: E+W)) The Secretary of State may direct one or more specified local authorities in England to comply with a code issued under section 4 that applies to that authority or those authorities. *(Extent: E+W)*
 
@@ -205,7 +205,7 @@ In computing the period of 40 days no account shall be taken of any time during 
 
 (3) A person having custody of the account who intentionally obstructs a person in the exercise of the rights conferred by subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-(4) The regulation making power conferred by section 32(1)(e) of the Local Audit and Accountability Act 2014[^key-38863281439bde870c196a474149fcc5], section 39(1)(e) of the Public Audit (Wales) Act 2004[^key-fa410143fb4bc23b676539ccb1c7ae73] or section 105(1) (d) of the [^c2580321]Local Government (Scotland) Act 1973 (power to make provision as to exercise of right of inspection and as to informing persons of those rights) applies to the right of inspection conferred by subsection (2).
+(4) The regulation making power conferred by section 32(1)(e) of the Local Audit and Accountability Act 2014[^c-38863281439bde870c196a474149fcc5], section 39(1)(e) of the Public Audit (Wales) Act 2004[^c-fa410143fb4bc23b676539ccb1c7ae73] or section 105(1) (d) of the [^c2580321]Local Government (Scotland) Act 1973 (power to make provision as to exercise of right of inspection and as to informing persons of those rights) applies to the right of inspection conferred by subsection (2).
 
 (5) The Secretary of State may by order provide that subsection (1) does not apply to publicity or expenditure of a prescribed description.
 
@@ -235,22 +235,22 @@ In computing the period of 40 days no account shall be taken of any time during 
 
 (1) References in this Part to local authorities and to publicity, and related expressions, shall be construed in accordance with the following provisions.
 
-(2)[^c2581151][^c2581161][^key-f2fda9221871919c767bd55659046b33] “**Local authority**” means—
+(2)[^c2581151][^c2581161][^c-f2fda9221871919c767bd55659046b33] “**Local authority**” means—
 
 - (a) in England and Wales—
   - a county, district or London borough council,
   - the Common Council of the City of London
   - the Broads Authority (except in section 3),[^c2581171]
-  - a police and crime commissioner,[^key-f0c5e1988bd76faeb5e4cd4fda2ab791]
+  - a police and crime commissioner,[^c-f0c5e1988bd76faeb5e4cd4fda2ab791]
   - the Mayor's Office for Policing and Crime
   - [^c3465911]. . .
   - [^c2581221]...
   - a joint authority established by Part IV of the [^c2581231]Local Government Act 1985,
-  - an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009,[^key-9806bbab44efd2e41e7ef2259823bd7e]
+  - an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009,[^c-9806bbab44efd2e41e7ef2259823bd7e]
   - a combined authority established under section 103 of that Act,
-  - a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023,[^key-4df72303d7b4fe4e37149f03b590bd05]
-  - a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004,[^key-f74fd65d93b7c4c9fff6e480dedbf9f2]
-  - the London Fire Commissioner,[^key-ebd8ae0f973c5c9eeb73c748fc7c4cf4]
+  - a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023,[^c-4df72303d7b4fe4e37149f03b590bd05]
+  - a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004,[^c-f74fd65d93b7c4c9fff6e480dedbf9f2]
+  - the London Fire Commissioner,[^c-ebd8ae0f973c5c9eeb73c748fc7c4cf4]
   - the Council of the Isles of Scilly, or
   - a parish or community council;
 - (b) in Scotland, a council constituted under section 2 of the Local Government[^c2581251] etc. (Scotland) Act 1994;
@@ -275,7 +275,7 @@ and includes any authority, board or committee which discharges functions which 
 
 *Extent: E+W*
 
-### 7. Transfer requires mortgagor’s consent.[^c2581311][^key-c0374d598933cb2f32249dd18eead705][^key-c73daaf56903d616e7744b774f418759]
+### 7. Transfer requires mortgagor’s consent.[^c2581311][^c-c0374d598933cb2f32249dd18eead705][^c-c73daaf56903d616e7744b774f418759]
 
 (1) A local authority shall not dispose of their interest as mortgagee of land without the prior written consent of the mortgagor (or, if there is more than one mortgagor, of all of them) specifying the name of the person to whom the interest is to be transferred.
 
@@ -322,18 +322,18 @@ except, in either case, where the disposal is carried out in pursuance of a cont
 
 (1) In this Part—
 
-- (a)[^c2581801][^c2581811][^key-c149e41f9dafcfc12ed97d5886f9e2aa] “**local authority**” means—
+- (a)[^c2581801][^c2581811][^c-c149e41f9dafcfc12ed97d5886f9e2aa] “**local authority**” means—
   - a county, district or London borough council,
   - the Common Council of the City of London,
-  - a police and crime commissioner,[^key-bb1e4babed01ebdd6c5415f8d872b8b1]
+  - a police and crime commissioner,[^c-bb1e4babed01ebdd6c5415f8d872b8b1]
   - the Mayor's Office for Policing and Crime
   - [^c3465931]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - [^c2581861]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - a joint authority established by Part IV of the [^c2581871]Local Government Act 1985,
-  - a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009,[^key-8a565177a7d0a599412ab204f8c186ba]
-  - a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023,[^key-bfdd9fac752c154b5eacf11ec0ab70fe]
-  - a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004,[^key-813670ee1145d829aa662e7b006b71b6]
-  - the London Fire Commissioner,[^key-5c9c4d933d08624afa810b053a02b293]
+  - a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009,[^c-8a565177a7d0a599412ab204f8c186ba]
+  - a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023,[^c-bfdd9fac752c154b5eacf11ec0ab70fe]
+  - a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004,[^c-813670ee1145d829aa662e7b006b71b6]
+  - the London Fire Commissioner,[^c-5c9c4d933d08624afa810b053a02b293]
   - the Council of the Isles of Scilly, or
   - any other authority prescribed for the purposes of this Part by regulations made by the Secretary of State,
 
@@ -430,7 +430,7 @@ and in subsection (2)(b) after “subject to” insert “subsection (3) below a
 - section 8 comes into force on 1st April 1986;
 - Part IV comes into force on the day this Act is passed.
 
-(3) Part II, other than sections 4A and 4B,[^key-bb70da6844ef76702674e8150abf8607] and this section extend to England and Wales and Scotland; the other provisions of this Act extend to England and Wales only.
+(3) Part II, other than sections 4A and 4B,[^c-bb70da6844ef76702674e8150abf8607] and this section extend to England and Wales and Scotland; the other provisions of this Act extend to England and Wales only.
 
 ## Annotations
 
@@ -438,11 +438,11 @@ and in subsection (2)(b) after “subject to” insert “subsection (3) below a
 
 [^c2579781]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1986/10/section/1) repealed by [Local Government Finance Act 1988 (c. 41, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1988/41), [s. 149](https://www.legislation.gov.uk/ukpga/1988/41/section/149), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1988/41/schedule/13/part/I)
 
-[^key-53c457b5eaf1ea12f1ce43f94e07dd51]: Modification: Pt. II modified (E.W.) (22.7.2004) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1778/article/1), [33](https://www.legislation.gov.uk/uksi/2004/1778/article/33)
+[^c-53c457b5eaf1ea12f1ce43f94e07dd51]: Modification: Pt. II modified (E.W.) (22.7.2004) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1778/article/1), [33](https://www.legislation.gov.uk/uksi/2004/1778/article/33)
 
-[^key-d3654c0d3d5f202c36b7ab2b9656e143]: Modification: Pt. II modified (E.W.) (22.7.2004) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [33](https://www.legislation.gov.uk/uksi/2004/1777/article/33)
+[^c-d3654c0d3d5f202c36b7ab2b9656e143]: Modification: Pt. II modified (E.W.) (22.7.2004) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [33](https://www.legislation.gov.uk/uksi/2004/1777/article/33)
 
-[^key-1038754cc138b4071c9c6b71454b0f6e]: Modification: Pt. II applied (with modifications) (E.W.) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/2), 3
+[^c-1038754cc138b4071c9c6b71454b0f6e]: Modification: Pt. II applied (with modifications) (E.W.) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/2), 3
 
 [^c13731761]: Modification: Pt. II (ss. 2-6) extended (E.W.) (19.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [ss. 65(7)](https://www.legislation.gov.uk/ukpga/1995/25/section/65/7), [125(2)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/2), [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/9) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/7))
 
@@ -450,7 +450,7 @@ and in subsection (2)(b) after “subject to” insert “subsection (3) below a
 
     Pt. II (ss. 2-6) power to apply conferred (1.9.1997) by [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50), [s. 44(1)](https://www.legislation.gov.uk/ukpga/1997/50/section/44/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/1997/50/schedule/4) para. (g)(i); [S.I. 1997/1930](https://www.legislation.gov.uk/uksi/1997/1930), [art. 3(m)](https://www.legislation.gov.uk/uksi/1997/1930/article/3/m)
 
-[^key-1c73a2715b92ae602f314e89d2aed0a3]: Textual amendment: Words in s. 2(1) inserted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 349(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/349/3), [411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-1c73a2715b92ae602f314e89d2aed0a3]: Textual amendment: Words in s. 2(1) inserted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 349(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/349/3), [411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c2579961]: Textual amendment: S. 2(2) substituted by [Local Government Act 1988 (c. 9, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1988/9), [s. 27(1)](https://www.legislation.gov.uk/ukpga/1988/9/section/27/1)
 
@@ -458,7 +458,7 @@ and in subsection (2)(b) after “subject to” insert “subsection (3) below a
 
 [^c13731831]: Textual amendment: S. 2A repealed (S.) (29.3.2001) by [2000 asp 7](https://www.legislation.gov.uk/asp/2000/7), [s. 34](https://www.legislation.gov.uk/asp/2000/7/section/34) (with [s. 31](https://www.legislation.gov.uk/asp/2000/7/section/31)); [S.S.I. 2001/113](https://www.legislation.gov.uk/ssi/2001/113), [art. 2(a)](https://www.legislation.gov.uk/ssi/2001/113/article/2/a)
 
-[^key-237cc2e4715bdfafe2fdb8aa7acc8a98]: Textual amendment: S. 2A repealed (E.W.) (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 122](https://www.legislation.gov.uk/ukpga/2003/26/section/122), [128(2)(d)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/2/d)(f)(i), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1)
+[^c-237cc2e4715bdfafe2fdb8aa7acc8a98]: Textual amendment: S. 2A repealed (E.W.) (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 122](https://www.legislation.gov.uk/ukpga/2003/26/section/122), [128(2)(d)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/2/d)(f)(i), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1)
 
 [^c2580151]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
@@ -472,7 +472,7 @@ and in subsection (2)(b) after “subject to” insert “subsection (3) below a
 
 [^c2580211]: Textual amendment: S. 4(7)(8) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 84](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/84); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2](https://www.legislation.gov.uk/uksi/1998/3178/article/2)
 
-[^key-0aa4b492fd5a3d94e6e7106f146b8399]: Textual amendment: Ss. 4A, 4B inserted (E.W.) (30.3.2014) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 39(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/39/1), [49(2)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/2)
+[^c-0aa4b492fd5a3d94e6e7106f146b8399]: Textual amendment: Ss. 4A, 4B inserted (E.W.) (30.3.2014) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 39(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/39/1), [49(2)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/2)
 
 [^c13571411]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only.
 
@@ -480,9 +480,9 @@ and in subsection (2)(b) after “subject to” insert “subsection (3) below a
 
     S. 5(1) applied (with modifications) (4.6.1996) by [S.I. 1996/1243](https://www.legislation.gov.uk/uksi/1996/1243), [art. 18](https://www.legislation.gov.uk/uksi/1996/1243/article/18), [Sch. 5 Pt. I para. 3](https://www.legislation.gov.uk/uksi/1996/1243/schedule/5/part/I/paragraph/3)
 
-[^key-38863281439bde870c196a474149fcc5]: Textual amendment: Words in s. 5(4) substituted (E.W.) (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 15](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/15); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-38863281439bde870c196a474149fcc5]: Textual amendment: Words in s. 5(4) substituted (E.W.) (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 15](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/15); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
 
-[^key-fa410143fb4bc23b676539ccb1c7ae73]: Textual amendment: Words in s. 5(4) inserted (E.W) (1.4.2005) by [Public Audit (Wales) Act 2004 (c. 23)](https://www.legislation.gov.uk/ukpga/2004/23), [s. 73](https://www.legislation.gov.uk/ukpga/2004/23/section/73), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/6); [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1)
+[^c-fa410143fb4bc23b676539ccb1c7ae73]: Textual amendment: Words in s. 5(4) inserted (E.W) (1.4.2005) by [Public Audit (Wales) Act 2004 (c. 23)](https://www.legislation.gov.uk/ukpga/2004/23), [s. 73](https://www.legislation.gov.uk/ukpga/2004/23/section/73), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/6); [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1)
 
 [^c2580321]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
@@ -498,11 +498,11 @@ and in subsection (2)(b) after “subject to” insert “subsection (3) below a
 
 [^c2581161]: Modification: S. 6(2) amended (E.W.) by [S.I. 1989/1815](https://www.legislation.gov.uk/uksi/1989/1815), [art. 2](https://www.legislation.gov.uk/uksi/1989/1815/article/2), [Sch. 1 para. 6(e)](https://www.legislation.gov.uk/uksi/1989/1815/schedule/1/paragraph/6/e)
 
-[^key-f2fda9221871919c767bd55659046b33]: Modification: [S. 6(2)](https://www.legislation.gov.uk/ukpga/1986/10/section/6/2) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(l)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/l) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
+[^c-f2fda9221871919c767bd55659046b33]: Modification: [S. 6(2)](https://www.legislation.gov.uk/ukpga/1986/10/section/6/2) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(l)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/l) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
 
 [^c2581171]: Textual amendment: Words inserted by [Norfolk and Suffolk Broads Act 1988 (c. 4, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1988/4), [ss. 21](https://www.legislation.gov.uk/ukpga/1988/4/section/21), [23(2)](https://www.legislation.gov.uk/ukpga/1988/4/section/23/2), [27(2)](https://www.legislation.gov.uk/ukpga/1988/4/section/27/2), [Sch. 6 para. 27](https://www.legislation.gov.uk/ukpga/1988/4/schedule/6/paragraph/27)
 
-[^key-f0c5e1988bd76faeb5e4cd4fda2ab791]: Textual amendment: Words in s. 6(2)(a) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 173](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/173); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 50](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/50))
+[^c-f0c5e1988bd76faeb5e4cd4fda2ab791]: Textual amendment: Words in s. 6(2)(a) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 173](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/173); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 50](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/50))
 
 [^c3465911]: Textual amendment: Words in s. 6(2)(a) repealed (1.4.2002) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/2001/16/section/128/1), [137](https://www.legislation.gov.uk/ukpga/2001/16/section/137), [Sch. 6 Pt. 2 para. 41](https://www.legislation.gov.uk/ukpga/2001/16/schedule/6/part/2/paragraph/41), [Sch. 7 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5/1); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3(m)](https://www.legislation.gov.uk/uksi/2002/344/article/3/m)
 
@@ -510,13 +510,13 @@ and in subsection (2)(b) after “subject to” insert “subsection (3) below a
 
 [^c2581231]: Marginal citation: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).
 
-[^key-9806bbab44efd2e41e7ef2259823bd7e]: Textual amendment: Words in s. 6(2)(a) inserted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 71(2)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/71/2); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
+[^c-9806bbab44efd2e41e7ef2259823bd7e]: Textual amendment: Words in s. 6(2)(a) inserted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 71(2)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/71/2); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
 
-[^key-4df72303d7b4fe4e37149f03b590bd05]: Textual amendment: Words in s. 6(2)(a) inserted (E.W.) (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 88](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/88) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-4df72303d7b4fe4e37149f03b590bd05]: Textual amendment: Words in s. 6(2)(a) inserted (E.W.) (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 88](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/88) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-f74fd65d93b7c4c9fff6e480dedbf9f2]: Textual amendment: Words in s. 6(2)(a) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/52); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-f74fd65d93b7c4c9fff6e480dedbf9f2]: Textual amendment: Words in s. 6(2)(a) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/52); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
-[^key-ebd8ae0f973c5c9eeb73c748fc7c4cf4]: Textual amendment: Words in s. 6(2)(a) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 77](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/77); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+[^c-ebd8ae0f973c5c9eeb73c748fc7c4cf4]: Textual amendment: Words in s. 6(2)(a) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 77](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/77); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
 [^c2581251]: Textual amendment: Words in s. 6(2)(b) substituted (S.) (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 145](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/145); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(b)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/b/c)
 
@@ -534,9 +534,9 @@ and in subsection (2)(b) after “subject to” insert “subsection (3) below a
 
 [^c2581311]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/1986/10/section/7) extended (5.7.1994) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [ss. 39](https://www.legislation.gov.uk/ukpga/1994/19/section/39), [66(2)(b)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/2/b), [Sch. 13 para. 20(m)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/13/paragraph/20/m) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2))
 
-[^key-c0374d598933cb2f32249dd18eead705]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/1986/10/section/7) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/11)
+[^c-c0374d598933cb2f32249dd18eead705]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/1986/10/section/7) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/11)
 
-[^key-c73daaf56903d616e7744b774f418759]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/1986/10/section/7) excluded (29.6.2026) by 2011 c. 13, Sch. 10A para. 51 (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
+[^c-c73daaf56903d616e7744b774f418759]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/1986/10/section/7) excluded (29.6.2026) by 2011 c. 13, Sch. 10A para. 51 (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
 
 [^c2581321]: Marginal citation: [1957 c. 56](https://www.legislation.gov.uk/ukpga/1957/56).
 
@@ -554,9 +554,9 @@ and in subsection (2)(b) after “subject to” insert “subsection (3) below a
 
 [^c2581811]: Modification: S. 9(1)(*a*) amended by [S.I. 1989/1815](https://www.legislation.gov.uk/uksi/1989/1815), [art. 2](https://www.legislation.gov.uk/uksi/1989/1815/article/2), [Sch. 1 para. 6(e)](https://www.legislation.gov.uk/uksi/1989/1815/schedule/1/paragraph/6/e)
 
-[^key-c149e41f9dafcfc12ed97d5886f9e2aa]: Modification: [S. 9(1)(a)](https://www.legislation.gov.uk/ukpga/1986/10/section/9/1/a) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(l)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/l) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
+[^c-c149e41f9dafcfc12ed97d5886f9e2aa]: Modification: [S. 9(1)(a)](https://www.legislation.gov.uk/ukpga/1986/10/section/9/1/a) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(l)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/l) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
 
-[^key-bb1e4babed01ebdd6c5415f8d872b8b1]: Textual amendment: Words in s. 9(1)(a) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 174](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/174); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 51](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/51))
+[^c-bb1e4babed01ebdd6c5415f8d872b8b1]: Textual amendment: Words in s. 9(1)(a) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 174](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/174); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 51](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/51))
 
 [^c3465931]: Textual amendment: Words in s. 9(1)(a) repealed (1.4.2002) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/2001/16/section/128/1), [137](https://www.legislation.gov.uk/ukpga/2001/16/section/137), [Sch. 6 Pt. 2 para. 42](https://www.legislation.gov.uk/ukpga/2001/16/schedule/6/part/2/paragraph/42), [Sch. 7 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5/1); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3(m)](https://www.legislation.gov.uk/uksi/2002/344/article/3/m)
 
@@ -564,13 +564,13 @@ and in subsection (2)(b) after “subject to” insert “subsection (3) below a
 
 [^c2581871]: Marginal citation: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).
 
-[^key-8a565177a7d0a599412ab204f8c186ba]: Textual amendment: Words in s. 9(1)(a) inserted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 71(3)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/71/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
+[^c-8a565177a7d0a599412ab204f8c186ba]: Textual amendment: Words in s. 9(1)(a) inserted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 71(3)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/71/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
 
-[^key-bfdd9fac752c154b5eacf11ec0ab70fe]: Textual amendment: Words in s. 9(1)(a) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 89](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/89) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-bfdd9fac752c154b5eacf11ec0ab70fe]: Textual amendment: Words in s. 9(1)(a) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 89](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/89) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-813670ee1145d829aa662e7b006b71b6]: Textual amendment: Words in s. 9(1)(a) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 53](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/53); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-813670ee1145d829aa662e7b006b71b6]: Textual amendment: Words in s. 9(1)(a) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 53](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/53); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
-[^key-5c9c4d933d08624afa810b053a02b293]: Textual amendment: Words in s. 9(1)(a) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 78](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/78); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+[^c-5c9c4d933d08624afa810b053a02b293]: Textual amendment: Words in s. 9(1)(a) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 78](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/78); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
 [^c2581891]: Marginal citation: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).
 
@@ -588,4 +588,4 @@ and in subsection (2)(b) after “subject to” insert “subsection (3) below a
 
 [^c2581971]: Textual amendment: Words repealed by [Local Government Finance Act 1988 (c. 41, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1988/41), [s. 149](https://www.legislation.gov.uk/ukpga/1988/41/section/149), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1988/41/schedule/13/part/I)
 
-[^key-bb70da6844ef76702674e8150abf8607]: Textual amendment: Words in [s. 12(3)](https://www.legislation.gov.uk/ukpga/1986/10/section/12/3) inserted (30.3.2014) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2014/2/section/39/2), [49(2)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/2)
+[^c-bb70da6844ef76702674e8150abf8607]: Textual amendment: Words in [s. 12(3)](https://www.legislation.gov.uk/ukpga/1986/10/section/12/3) inserted (30.3.2014) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2014/2/section/39/2), [49(2)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/2)

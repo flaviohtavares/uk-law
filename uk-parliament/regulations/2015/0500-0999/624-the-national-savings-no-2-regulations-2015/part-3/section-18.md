@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Forfeiture of stock[^key-77bfcc42f2a767bce69272a8f7e3a79e]
+## 18. Forfeiture of stock[^c-77bfcc42f2a767bce69272a8f7e3a79e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77bfcc42f2a767bce69272a8f7e3a79e]: Commencement: Reg. 18 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-77bfcc42f2a767bce69272a8f7e3a79e]: Commencement: Reg. 18 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

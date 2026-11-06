@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Procedure where the amount of a winning bidder’s deposit is greater than or equal to the licence fee[^key-3aacf5d22086c98a9728341f6bc3aef9]
+## 110. Procedure where the amount of a winning bidder’s deposit is greater than or equal to the licence fee[^c-3aacf5d22086c98a9728341f6bc3aef9]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3aacf5d22086c98a9728341f6bc3aef9]: Commencement: Reg. 110 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-3aacf5d22086c98a9728341f6bc3aef9]: Commencement: Reg. 110 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

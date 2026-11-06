@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60E. ...[^key-8048633089623057db63a41a3ea5d203]
+## 60E. ...[^c-8048633089623057db63a41a3ea5d203]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8048633089623057db63a41a3ea5d203]: Textual amendment: Ss. 60D-60J and cross-heading omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 3](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/3)
+[^c-8048633089623057db63a41a3ea5d203]: Textual amendment: Ss. 60D-60J and cross-heading omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 3](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/3)

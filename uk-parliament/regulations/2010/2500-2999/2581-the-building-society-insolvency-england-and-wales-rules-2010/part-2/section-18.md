@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Initial duties of building society liquidation committee[^key-87650380586f2ccdc4b5c42b4493996a]
+## 18. Initial duties of building society liquidation committee[^c-87650380586f2ccdc4b5c42b4493996a]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87650380586f2ccdc4b5c42b4493996a]: Commencement: Rule 18 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-87650380586f2ccdc4b5c42b4493996a]: Commencement: Rule 18 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

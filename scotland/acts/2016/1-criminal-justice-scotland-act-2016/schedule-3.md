@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3 — POLICE NEGOTIATING BOARD FOR SCOTLAND[^key-5592ca6262c588367c2b57c64c4db7ac]
+## SCHEDULE 3 — POLICE NEGOTIATING BOARD FOR SCOTLAND[^c-5592ca6262c588367c2b57c64c4db7ac]
 
 *Extent: S*
 
 (introduced by section 113)
 
-[^key-5592ca6262c588367c2b57c64c4db7ac]
+[^c-5592ca6262c588367c2b57c64c4db7ac]
 
 > **SCHEDULE 2A — POLICE NEGOTIATING BOARD FOR SCOTLAND**
 >
@@ -145,4 +145,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5592ca6262c588367c2b57c64c4db7ac]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2016/1/schedule/3) in force at 9.3.2023 by [S.S.I. 2023/49](https://www.legislation.gov.uk/ssi/2023/49), [art. 2(c)](https://www.legislation.gov.uk/ssi/2023/49/article/2/c)
+[^c-5592ca6262c588367c2b57c64c4db7ac]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2016/1/schedule/3) in force at 9.3.2023 by [S.S.I. 2023/49](https://www.legislation.gov.uk/ssi/2023/49), [art. 2(c)](https://www.legislation.gov.uk/ssi/2023/49/article/2/c)

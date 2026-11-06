@@ -72,7 +72,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (1) In these Regulations—
 
-- “[^key-8c68d34f16edfddf73c0aa29f3d10841]**application for derogation**” means a request for derogation made under Article 4(2) of Regulation 648/2004;
+- “[^c-8c68d34f16edfddf73c0aa29f3d10841]**application for derogation**” means a request for derogation made under Article 4(2) of Regulation 648/2004;
 - “**authorised officer**” means a person appointed under regulation 5;
 - “**Commission Recommendation**” means the Commission Recommendation of 23/XII/2005 on the tiered approach technical guidance document for the purpose of implementing Regulation (EC) No 648/2004 of the European Parliament and the Council [^c2018758];
 - “**contravention**” includes a failure to comply;
@@ -86,8 +86,8 @@ The Secretary of State makes the following Regulations in exercise of the powers
   - (b) any installation on land (including the foreshore and other land intermittently covered by water) and any other installation (whether floating, or resting on the seabed, or its subsoil, or resting on other land covered with water or its subsoil),
   - (c) any tent or moveable structure, and
   - (d) any vehicle, vessel, aircraft or hovercraft;
-- “Regulation 648/2004” means Regulation[^key-6ce465214a1420769f95662c00fcd178] [(EC) No 648/2004](https://www.legislation.gov.uk/european/regulation/2004/0648) of the European Parliament and of the Council on detergents;
-- “Tier 1”, “Tier 2” and “Tier 3”[^key-30015d979908e61dcd7fc9fe2ce4e5ff] have the same meaning as in the Commission Recommendation.
+- “Regulation 648/2004” means Regulation[^c-6ce465214a1420769f95662c00fcd178] [(EC) No 648/2004](https://www.legislation.gov.uk/european/regulation/2004/0648) of the European Parliament and of the Council on detergents;
+- “Tier 1”, “Tier 2” and “Tier 3”[^c-30015d979908e61dcd7fc9fe2ce4e5ff] have the same meaning as in the Commission Recommendation.
 
 (2) In these Regulations, terms used in Regulation 648/2004 have the same meaning as in that Regulation.
 
@@ -103,8 +103,8 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - “**controlled product**” means a detergent or surfactant;
 - “**enforcement authority**” means an enforcement authority specified in regulation 4;
 - “**port health authority**” means—
-  - (a) [^key-455e8506e3dae699e04049389b18f2ac]...
-  - (b) in relation to any port health district constituted by order under section 2(3) of the Public Health (Control of Disease) Act 1984[^key-a994b80248f72dc8bfa8116914d2d45b], the port health authority for that district constituted by order under section 2(4) of that Act;
+  - (a) [^c-455e8506e3dae699e04049389b18f2ac]...
+  - (b) in relation to any port health district constituted by order under section 2(3) of the Public Health (Control of Disease) Act 1984[^c-a994b80248f72dc8bfa8116914d2d45b], the port health authority for that district constituted by order under section 2(4) of that Act;
 - “**premises**” includes any place, structure or means of transport and, in particular, includes—
   - (a) any land,
   - (b) any installation on land (including the foreshore and other land intermittently covered by water) and any other installation (whether floating, or resting on the seabed, or its subsoil, or resting on other land covered with water or its subsoil),
@@ -115,7 +115,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (2) In these Regulations, terms used in Regulation 648/2004 have the same meaning as in that Regulation.
 
-## 3. Competent Authority[^key-f79ba9065767068026490aef2b02365d][^M_E_599345a6-9ad1-4d53-ac15-272fb870f942]
+## 3. Competent Authority[^c-f79ba9065767068026490aef2b02365d][^M_E_599345a6-9ad1-4d53-ac15-272fb870f942]
 
 *Extent: E+W+S*
 
@@ -129,9 +129,9 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 *Extent: E+W+S+N.I.*
 
-(1) The competent authority referred to in Article 8(1) of Regulation 648/2004 , in relation to Northern Ireland, is the Department of Agriculture, Environment and Rural Affairs[^key-b787e02cab863694f0481bd252e52c13].
+(1) The competent authority referred to in Article 8(1) of Regulation 648/2004 , in relation to Northern Ireland, is the Department of Agriculture, Environment and Rural Affairs[^c-b787e02cab863694f0481bd252e52c13].
 
-(2) The Department of Agriculture, Environment and Rural Affairs[^key-942e792e90e705130a9c1222e46b68f7] is responsible for discharging the following functions in Northern Ireland[^key-652e36eb5669fa1d1f1876005c7e5d4f]—
+(2) The Department of Agriculture, Environment and Rural Affairs[^c-942e792e90e705130a9c1222e46b68f7] is responsible for discharging the following functions in Northern Ireland[^c-652e36eb5669fa1d1f1876005c7e5d4f]—
 
 - (a) those assigned to member States by Articles 8 and 15(1) of Regulation 648/2004; and
 - (b) those reserved to member States by the second sub-paragraph of Article 9(3) of that Regulation.
@@ -168,14 +168,14 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 *Extent: E+W+S+N.I.*
 
-(4)[^key-a080892428ada88a388c8f4ffa801d9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a080892428ada88a388c8f4ffa801d9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 (5) In this regulation, the references to the purposes of enforcement and execution do not include either—
 
-- (a) the purposes of the competent authority under Articles 8 and 15(1) of Regulation 648/2004[^key-53750261d2f241107002e79075b76fb8]; or
-- (b) the purposes of discharging the functions specified in Article 9(3) of that Regulation[^key-5a06efa310b2bf3d13879650ae98247d].
+- (a) the purposes of the competent authority under Articles 8 and 15(1) of Regulation 648/2004[^c-53750261d2f241107002e79075b76fb8]; or
+- (b) the purposes of discharging the functions specified in Article 9(3) of that Regulation[^c-5a06efa310b2bf3d13879650ae98247d].
 
 ## 4. Enforcement Authorities[^M_E_aecb229c-3338-4b47-afdc-5e26d1903904]
 
@@ -183,15 +183,15 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-96476dd873bb0951a2c09fa7a7974c07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-96476dd873bb0951a2c09fa7a7974c07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
-(2)[^key-f2c583b9addc636ef77b969a63fb8c9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f2c583b9addc636ef77b969a63fb8c9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
-(3)[^key-87d16a092ecd864e1238134b1bcb5215] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-87d16a092ecd864e1238134b1bcb5215] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
@@ -216,21 +216,21 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 *Extent: N.I.*
 
-(1) The Department of Agriculture, Environment and Rural Affairs[^key-78b6a0ef53d1c54ed0106a08c313e319] or an enforcement authority may appoint a person as an authorised officer for the purposes of these Regulations.
+(1) The Department of Agriculture, Environment and Rural Affairs[^c-78b6a0ef53d1c54ed0106a08c313e319] or an enforcement authority may appoint a person as an authorised officer for the purposes of these Regulations.
 
 (2) A person appointed by an enforcement authority is an authorised officer within the area specified for that enforcement authority in regulation 4.
 
-## 6 (Extent: E+W+S) (affected by repeal, see note). Provision in English of information required by Regulation 648/2004[^key-c46e9015e7765f7d8f2d7062ea20a3cb]
+## 6 (Extent: E+W+S) (affected by repeal, see note). Provision in English of information required by Regulation 648/2004[^c-c46e9015e7765f7d8f2d7062ea20a3cb]
 
-Where Regulation 648/2004 requires the provision of information in relation to a controlled product, such requirement is deemed not to have been met unless the information is provided in the English language. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c46e9015e7765f7d8f2d7062ea20a3cb]
+Where Regulation 648/2004 requires the provision of information in relation to a controlled product, such requirement is deemed not to have been met unless the information is provided in the English language. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c46e9015e7765f7d8f2d7062ea20a3cb]
 
 ## 7. Contravention of Regulation 648/2004[^M_E_cb30126e-b319-4cc3-b5b2-953a59df1bf4]
 
 *Extent: E+W+S*
 
-(1)[^key-a6698c6c5b0045f8c8a255dc49a923f5] Any manufacturer who places on the Great Britain market a controlled product which does not conform with Article 3(1) of Regulation 648/2004 is guilty of an offence.
+(1)[^c-a6698c6c5b0045f8c8a255dc49a923f5] Any manufacturer who places on the Great Britain market a controlled product which does not conform with Article 3(1) of Regulation 648/2004 is guilty of an offence.
 
-(1A)[^key-bc7cafe337e63255a7a7a32067a1c4c2] Any manufacturer who places on the market a consumer laundry detergent or consumer automatic dishwasher detergent[^key-34a1aff434cf71827f7591bed34a5f1c] in contravention of Article 4a of Regulation 648/2004 is guilty of an offence.
+(1A)[^c-bc7cafe337e63255a7a7a32067a1c4c2] Any manufacturer who places on the market a consumer laundry detergent or consumer automatic dishwasher detergent[^c-34a1aff434cf71827f7591bed34a5f1c] in contravention of Article 4a of Regulation 648/2004 is guilty of an offence.
 
 (2) Any manufacturer who—
 
@@ -269,11 +269,11 @@ is guilty of an offence.
 
 *Extent: E+W+S*
 
-(1)[^key-42398aee2e974962ca038b19dcb85ac8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-42398aee2e974962ca038b19dcb85ac8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-4d16aae4200c0a6f202eea37e67240fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4d16aae4200c0a6f202eea37e67240fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) A fee is payable to the Secretary of State[^key-a2657c41feb8a3f166f8c5e8353e7819] for each application for derogation.
+(3) A fee is payable to the Secretary of State[^c-a2657c41feb8a3f166f8c5e8353e7819] for each application for derogation.
 
 (4) The fee for an application described in column 1 of Schedule 1 is that specified in the corresponding entry in column 2 of that Schedule.
 
@@ -289,7 +289,7 @@ is guilty of an offence.
 
 (4) The fee for an application described in column 1 of Schedule 1 is that specified in the corresponding entry in column 2 of that Schedule.
 
-## 9. Prohibition on the sale of certain detergents[^key-faeb0d8e5a4fe9451ae8920df3822091]
+## 9. Prohibition on the sale of certain detergents[^c-faeb0d8e5a4fe9451ae8920df3822091]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -301,7 +301,7 @@ The enforcement authorities specified in the table in Schedule 2 must enforce un
 
 *Extent: E+W+S*
 
-(1) This regulation applies where an authorised officer has come to the opinion on reasonable grounds that there has been a contravention of regulation 7 or a[^key-1fc8c523d2f02bbbea09c94d5435225d] provision of Regulation 648/2004 in relation to a controlled product.
+(1) This regulation applies where an authorised officer has come to the opinion on reasonable grounds that there has been a contravention of regulation 7 or a[^c-1fc8c523d2f02bbbea09c94d5435225d] provision of Regulation 648/2004 in relation to a controlled product.
 
 (2) The authorised officer may serve a notice in writing on one or more of the following persons—
 
@@ -321,7 +321,7 @@ The enforcement authorities specified in the table in Schedule 2 must enforce un
   - (i) remedy the failure to comply, where the failure is capable of being remedied; or
   - (ii) permit the controlled product to be made available to third parties in such a state and manner that there would have been no contravention of these Regulations had it been placed on the market in that state and manner; and
 - (b) may include one or more of the following—
-  - (i) recovery of the controlled product from the market in Great Britain[^key-875665fc14eb9338d31e4cd78d3ca649];
+  - (i) recovery of the controlled product from the market in Great Britain[^c-875665fc14eb9338d31e4cd78d3ca649];
   - (ii) where the controlled product had been imported into Great Britain, exportation of the controlled product from Great Britain;
   - (iii) disposal of the controlled product; and
   - (iv) disposal of anything treated with the controlled product.
@@ -354,7 +354,7 @@ The enforcement authorities specified in the table in Schedule 2 must enforce un
   - (i) remedy the failure to comply, where the failure is capable of being remedied; or
   - (ii) permit the controlled product to be made available to third parties in such a state and manner that there would have been no contravention of these Regulations had it been placed on the market in that state and manner; and
 - (b) may include one or more of the following—
-  - (i) recovery of the controlled product from the market in Northern Ireland[^key-2742a86063ab27af1fee37a0669a7224];
+  - (i) recovery of the controlled product from the market in Northern Ireland[^c-2742a86063ab27af1fee37a0669a7224];
   - (ii) where the controlled product had been imported into Northern Ireland, exportation of the controlled product from Northern Ireland;
   - (iii) disposal of the controlled product; and
   - (iv) disposal of anything treated with the controlled product.
@@ -367,7 +367,7 @@ The enforcement authorities specified in the table in Schedule 2 must enforce un
 
 *Extent: E+W+S*
 
-(1) This regulation applies where an authorised officer has come to the opinion on reasonable grounds that there has been a failure to comply with regulation 7 or a[^key-d7ddba26065f01a0c829dc2b6fa08240] provision of Regulation 648/2004 in relation to a controlled product.
+(1) This regulation applies where an authorised officer has come to the opinion on reasonable grounds that there has been a failure to comply with regulation 7 or a[^c-d7ddba26065f01a0c829dc2b6fa08240] provision of Regulation 648/2004 in relation to a controlled product.
 
 (2) An authorised officer may seize a controlled product and may dispose of it.
 
@@ -407,7 +407,7 @@ The enforcement authorities specified in the table in Schedule 2 must enforce un
 
 *Extent: E+W+S*
 
-An authorised officer may, at all reasonable hours, enter any premises (excluding premises used only as a dwelling) for the purpose of ascertaining whether there is or has been on the premises any contravention, or any evidence of a contravention of regulation 7 or a[^key-8465faf6d83aaafaa0305149b2741bd6] provision of Regulation 648/2004 in relation to a controlled product.
+An authorised officer may, at all reasonable hours, enter any premises (excluding premises used only as a dwelling) for the purpose of ascertaining whether there is or has been on the premises any contravention, or any evidence of a contravention of regulation 7 or a[^c-8465faf6d83aaafaa0305149b2741bd6] provision of Regulation 648/2004 in relation to a controlled product.
 
 ## 13. Power of entry[^M_E_95878474-97ee-4c5f-d0c7-5549a3d87523]
 
@@ -415,38 +415,38 @@ An authorised officer may, at all reasonable hours, enter any premises (excludin
 
 An authorised officer may, at all reasonable hours, enter any premises (excluding premises used only as a dwelling) for the purpose of ascertaining whether there is or has been on the premises any contravention, or any evidence of a contravention of regulations 6 or 7[^V_NI_9dbd74c8-6377-b64e-b781-e79398033194] or of a directly applicable provision of Regulation 648/2004 in relation to a controlled product.
 
-## 14 (Extent: N.I.) (affected by repeal, see note). Issue of warrants authorising entry to premises in England and Wales[^key-71e6be80e0c2646e6a0d7fae24635a77]
+## 14 (Extent: N.I.) (affected by repeal, see note). Issue of warrants authorising entry to premises in England and Wales[^c-71e6be80e0c2646e6a0d7fae24635a77]
 
-(1 (Extent: N.I.) (affected by repeal, see note))[^key-71e6be80e0c2646e6a0d7fae24635a77] If a justice of the peace is satisfied on sworn information in writing that there is a reasonable ground for entry into any premises in England and Wales (excluding premises used only as a dwelling) for any such purpose mentioned in regulation 13 and that either— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-71e6be80e0c2646e6a0d7fae24635a77]
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-71e6be80e0c2646e6a0d7fae24635a77] If a justice of the peace is satisfied on sworn information in writing that there is a reasonable ground for entry into any premises in England and Wales (excluding premises used only as a dwelling) for any such purpose mentioned in regulation 13 and that either— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-71e6be80e0c2646e6a0d7fae24635a77]
 
-- (a (Extent: N.I.) (affected by repeal, see note))[^key-71e6be80e0c2646e6a0d7fae24635a77] admission to the premises has been refused, or a refusal is anticipated, and that notice of the intention to apply for a warrant has been given to the occupier; or *(Extent: N.I.)* *(affected by repeal, see note)*[^key-71e6be80e0c2646e6a0d7fae24635a77]
-- (b (Extent: N.I.) (affected by repeal, see note))[^key-71e6be80e0c2646e6a0d7fae24635a77] an application for admission, or the giving of such notice, would defeat the object of the entry, or that the case is one of urgency, or that the premises are unoccupied or the occupier is temporarily absent, *(Extent: N.I.)* *(affected by repeal, see note)*[^key-71e6be80e0c2646e6a0d7fae24635a77]
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-71e6be80e0c2646e6a0d7fae24635a77] admission to the premises has been refused, or a refusal is anticipated, and that notice of the intention to apply for a warrant has been given to the occupier; or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-71e6be80e0c2646e6a0d7fae24635a77]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-71e6be80e0c2646e6a0d7fae24635a77] an application for admission, or the giving of such notice, would defeat the object of the entry, or that the case is one of urgency, or that the premises are unoccupied or the occupier is temporarily absent, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-71e6be80e0c2646e6a0d7fae24635a77]
 
-the justice of the peace may by warrant authorise an authorised officer to enter the premises in accordance with the warrant, and, if need be, by reasonable force. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-71e6be80e0c2646e6a0d7fae24635a77]
+the justice of the peace may by warrant authorise an authorised officer to enter the premises in accordance with the warrant, and, if need be, by reasonable force. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-71e6be80e0c2646e6a0d7fae24635a77]
 
-(2 (Extent: N.I.) (affected by repeal, see note))[^key-71e6be80e0c2646e6a0d7fae24635a77] Every warrant granted under paragraph (1) continues in force for a period of one month. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-71e6be80e0c2646e6a0d7fae24635a77]
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-71e6be80e0c2646e6a0d7fae24635a77] Every warrant granted under paragraph (1) continues in force for a period of one month. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-71e6be80e0c2646e6a0d7fae24635a77]
 
-## 15 (Extent: N.I.) (affected by repeal, see note). Issue of warrants authorising entry to premises in Scotland[^key-9777789097f59772c18870d391bf1468]
+## 15 (Extent: N.I.) (affected by repeal, see note). Issue of warrants authorising entry to premises in Scotland[^c-9777789097f59772c18870d391bf1468]
 
-(1 (Extent: N.I.) (affected by repeal, see note))[^key-9777789097f59772c18870d391bf1468] If a sheriff, magistrate or justice of the peace is satisfied on sworn evidence that there is reasonable ground for entry into any premises in Scotland (excluding premises used only as a dwelling) for any such purpose mentioned in regulation 13 and that either— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-9777789097f59772c18870d391bf1468]
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-9777789097f59772c18870d391bf1468] If a sheriff, magistrate or justice of the peace is satisfied on sworn evidence that there is reasonable ground for entry into any premises in Scotland (excluding premises used only as a dwelling) for any such purpose mentioned in regulation 13 and that either— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-9777789097f59772c18870d391bf1468]
 
-- (a (Extent: N.I.) (affected by repeal, see note))[^key-9777789097f59772c18870d391bf1468] admission to the premises has been refused, or a refusal is anticipated, and that notice of the intention to apply for a warrant has been given to the occupier; or *(Extent: N.I.)* *(affected by repeal, see note)*[^key-9777789097f59772c18870d391bf1468]
-- (b (Extent: N.I.) (affected by repeal, see note))[^key-9777789097f59772c18870d391bf1468] an application for admission, or the giving of such notice, would defeat the object of the entry, or that the case is one of urgency, or that the premises are unoccupied or the occupier is temporarily absent, *(Extent: N.I.)* *(affected by repeal, see note)*[^key-9777789097f59772c18870d391bf1468]
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-9777789097f59772c18870d391bf1468] admission to the premises has been refused, or a refusal is anticipated, and that notice of the intention to apply for a warrant has been given to the occupier; or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-9777789097f59772c18870d391bf1468]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-9777789097f59772c18870d391bf1468] an application for admission, or the giving of such notice, would defeat the object of the entry, or that the case is one of urgency, or that the premises are unoccupied or the occupier is temporarily absent, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-9777789097f59772c18870d391bf1468]
 
-the sheriff, magistrate or justice of the peace may by warrant authorise an authorised officer to enter the premises in accordance with the warrant and, if need be, by reasonable force. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-9777789097f59772c18870d391bf1468]
+the sheriff, magistrate or justice of the peace may by warrant authorise an authorised officer to enter the premises in accordance with the warrant and, if need be, by reasonable force. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-9777789097f59772c18870d391bf1468]
 
-(2 (Extent: N.I.) (affected by repeal, see note))[^key-9777789097f59772c18870d391bf1468] Every warrant granted under paragraph (1) continues in force for a period of one month. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-9777789097f59772c18870d391bf1468]
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-9777789097f59772c18870d391bf1468] Every warrant granted under paragraph (1) continues in force for a period of one month. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-9777789097f59772c18870d391bf1468]
 
-## 16 (Extent: E+W+S) (affected by repeal, see note). Issue of warrants authorising entry to premises in Northern Ireland[^key-1949d2603a31d8961078028b00ca942e]
+## 16 (Extent: E+W+S) (affected by repeal, see note). Issue of warrants authorising entry to premises in Northern Ireland[^c-1949d2603a31d8961078028b00ca942e]
 
-(1 (Extent: E+W+S) (affected by repeal, see note))[^key-1949d2603a31d8961078028b00ca942e] If a lay magistrate is satisfied on sworn complaint in writing that there is reasonable ground for entry into any premises in Northern Ireland (excluding premises used only as a dwelling) for any such purpose mentioned in regulation 13 and that either— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-1949d2603a31d8961078028b00ca942e]
+(1 (Extent: E+W+S) (affected by repeal, see note))[^c-1949d2603a31d8961078028b00ca942e] If a lay magistrate is satisfied on sworn complaint in writing that there is reasonable ground for entry into any premises in Northern Ireland (excluding premises used only as a dwelling) for any such purpose mentioned in regulation 13 and that either— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-1949d2603a31d8961078028b00ca942e]
 
-- (a (Extent: E+W+S) (affected by repeal, see note))[^key-1949d2603a31d8961078028b00ca942e] admission to the premises has been refused, or a refusal is anticipated, and that notice of the intention to apply for a warrant has been given to the occupier; or *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-1949d2603a31d8961078028b00ca942e]
-- (b (Extent: E+W+S) (affected by repeal, see note))[^key-1949d2603a31d8961078028b00ca942e] an application for admission, or the giving of such notice, would defeat the object of the entry, or that the case is one of urgency, or that the premises are unoccupied or the occupier is temporarily absent, *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-1949d2603a31d8961078028b00ca942e]
+- (a (Extent: E+W+S) (affected by repeal, see note))[^c-1949d2603a31d8961078028b00ca942e] admission to the premises has been refused, or a refusal is anticipated, and that notice of the intention to apply for a warrant has been given to the occupier; or *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-1949d2603a31d8961078028b00ca942e]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^c-1949d2603a31d8961078028b00ca942e] an application for admission, or the giving of such notice, would defeat the object of the entry, or that the case is one of urgency, or that the premises are unoccupied or the occupier is temporarily absent, *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-1949d2603a31d8961078028b00ca942e]
 
-the lay magistrate may by warrant authorise an authorised officer to enter the premises in accordance with the warrant and, if need be, by reasonable force. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-1949d2603a31d8961078028b00ca942e]
+the lay magistrate may by warrant authorise an authorised officer to enter the premises in accordance with the warrant and, if need be, by reasonable force. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-1949d2603a31d8961078028b00ca942e]
 
-(2 (Extent: E+W+S) (affected by repeal, see note))[^key-1949d2603a31d8961078028b00ca942e] Every warrant granted under paragraph (1) continues in force for a period of one month. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-1949d2603a31d8961078028b00ca942e]
+(2 (Extent: E+W+S) (affected by repeal, see note))[^c-1949d2603a31d8961078028b00ca942e] Every warrant granted under paragraph (1) continues in force for a period of one month. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-1949d2603a31d8961078028b00ca942e]
 
 ## 17. Power of entry: supplemental[^M_E_faf901c0-8dd7-4ec3-c36c-354c517cc446]
 
@@ -454,7 +454,7 @@ the lay magistrate may by warrant authorise an authorised officer to enter the p
 
 *Extent: E+W+S+N.I.*
 
-An authorised officer entering any premises in accordance with regulation 13, or under the authority of a warrant issued under regulation 14 or 15[^key-ed3e851780bff73710981b12ca67e7ab] (as the case may be)—
+An authorised officer entering any premises in accordance with regulation 13, or under the authority of a warrant issued under regulation 14 or 15[^c-ed3e851780bff73710981b12ca67e7ab] (as the case may be)—
 
 - (a) must produce evidence of authority if requested to do so;
 - (b) may be accompanied by such other persons as the authorised officer considers necessary; and
@@ -466,7 +466,7 @@ An authorised officer entering any premises in accordance with regulation 13, or
 
 *Extent: E+W+S+N.I.*
 
-An authorised officer entering any premises in accordance with regulation 13, or under the authority of a warrant issued under regulation 16[^key-fa9c879bf1bbf5f96c870e6a399f2f73]—
+An authorised officer entering any premises in accordance with regulation 13, or under the authority of a warrant issued under regulation 16[^c-fa9c879bf1bbf5f96c870e6a399f2f73]—
 
 - (a) must produce evidence of authority if requested to do so;
 - (b) may be accompanied by such other persons as the authorised officer considers necessary; and
@@ -478,7 +478,7 @@ An authorised officer entering any premises in accordance with regulation 13, or
 
 *Extent: E+W+S+N.I.*
 
-(1) An authorised officer entering any premises in accordance with regulation 13, or under the authority of a warrant issued under regulation 14 or 15[^key-5452156fcfd27e545b2ad6cbb300f7ea] (as the case may be) may do one or more of the following things—
+(1) An authorised officer entering any premises in accordance with regulation 13, or under the authority of a warrant issued under regulation 14 or 15[^c-5452156fcfd27e545b2ad6cbb300f7ea] (as the case may be) may do one or more of the following things—
 
 - (a) inspect any substance present on those premises that the authorised officer reasonably suspects to be, or to contain, any controlled product;
 - (b) take samples (and, if necessary, send the samples to an approved laboratory for testing) from any substance present on those premises that the authorised officer reasonably suspects to be, or to contain, any controlled product;
@@ -492,7 +492,7 @@ An authorised officer entering any premises in accordance with regulation 13, or
 
 *Extent: E+W+S+N.I.*
 
-(3)[^key-3b11a0392347f04978ed17f74c003a7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3b11a0392347f04978ed17f74c003a7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 18. Powers of inspection, sampling and seizure[^M_E_1b0a496c-a259-42de-fc64-94b1ede82ba1]
 
@@ -500,7 +500,7 @@ An authorised officer entering any premises in accordance with regulation 13, or
 
 *Extent: E+W+S+N.I.*
 
-(1) An authorised officer entering any premises in accordance with regulation 13, or under the authority of a warrant issued under regulation 16[^key-b0ce380233655dab92935bda1a1b4627] may do one or more of the following things—
+(1) An authorised officer entering any premises in accordance with regulation 13, or under the authority of a warrant issued under regulation 16[^c-b0ce380233655dab92935bda1a1b4627] may do one or more of the following things—
 
 - (a) inspect any substance present on those premises that the authorised officer reasonably suspects to be, or to contain, any controlled product;
 - (b) take samples (and, if necessary, send the samples to an approved laboratory for testing) from any substance present on those premises that the authorised officer reasonably suspects to be, or to contain, any controlled product;
@@ -510,7 +510,7 @@ An authorised officer entering any premises in accordance with regulation 13, or
 
 *Extent: E+W+S+N.I.*
 
-(2)[^key-75fabaf99bccf0704d96dc0dcef16310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-75fabaf99bccf0704d96dc0dcef16310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
@@ -549,9 +549,9 @@ will not be personally liable for that act if it was done in the honest belief t
 
 (2) A person who enters premises with an authorised officer under regulation 17(b) will not be personally liable for any act that was done in the honest belief that a person accompanying an authorised officer under that regulation (“accompanying person”) was required or entitled to so act.
 
-(3) Nothing in paragraph (1) or (2) may be construed as relieving the Department of Agriculture, Environment and Rural Affairs[^key-41846190164708688bc587ba7553fbba] (in the case of an authorised officer appointed by the Department of Agriculture, Environment and Rural Affairs), or the relevant enforcement authority (in the case of an authorised officer appointed by an enforcement authority designated in regulation 4) from any liability in respect of the acts of the authorised officer or accompanying person.
+(3) Nothing in paragraph (1) or (2) may be construed as relieving the Department of Agriculture, Environment and Rural Affairs[^c-41846190164708688bc587ba7553fbba] (in the case of an authorised officer appointed by the Department of Agriculture, Environment and Rural Affairs), or the relevant enforcement authority (in the case of an authorised officer appointed by an enforcement authority designated in regulation 4) from any liability in respect of the acts of the authorised officer or accompanying person.
 
-(4) If the Department of Agriculture, Environment and Rural Affairs[^key-7559f035699161564f4affaf14f25e12] or enforcement authority is satisfied that the authorised officer honestly believed that the act complained of was within the scope of the authorised officer's employment, the Department of Agriculture, Environment and Rural Affairs or enforcement authority may indemnify the authorised officer against the whole or part of any damages that the authorised officer has been ordered to pay, or any costs which may have been incurred, in any action brought against the authorised officer in respect of an act done—
+(4) If the Department of Agriculture, Environment and Rural Affairs[^c-7559f035699161564f4affaf14f25e12] or enforcement authority is satisfied that the authorised officer honestly believed that the act complained of was within the scope of the authorised officer's employment, the Department of Agriculture, Environment and Rural Affairs or enforcement authority may indemnify the authorised officer against the whole or part of any damages that the authorised officer has been ordered to pay, or any costs which may have been incurred, in any action brought against the authorised officer in respect of an act done—
 
 - (a) in the execution or purported execution of these Regulations; and
 - (b) outside the scope of the officer's employment.
@@ -600,9 +600,9 @@ the officer, as well as the body corporate, is guilty of the offence and is liab
 
 - (a) rules of court relating to the service of documents have effect as if the partnership or unincorporated association were a body corporate, and
 - (b) the following provisions apply as they apply in relation to a body corporate—
-  - (i (Extent: N.I.) (affected by repeal, see note))[^key-ac5c77d7dab2f0028855e2bef5d3234d] section 33 of the Criminal Justice Act 1925 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ac5c77d7dab2f0028855e2bef5d3234d] [^c2018765] and Schedule 3 to the Magistrates' Courts Act 1980 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ac5c77d7dab2f0028855e2bef5d3234d] [^c2018766], *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ac5c77d7dab2f0028855e2bef5d3234d]
-  - (ii (Extent: N.I.) (affected by repeal, see note))[^key-466eea439bfc5dfcd512b3b951d36689] sections 70 and 143 of the Criminal Procedure (Scotland) Act 1995 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-466eea439bfc5dfcd512b3b951d36689] [^c2018767], *(Extent: N.I.)* *(affected by repeal, see note)*[^key-466eea439bfc5dfcd512b3b951d36689]
-  - (iii (Extent: E+W+S) (affected by repeal, see note))[^key-ae5595c5baf6494d116530d1778b728a] section 18 of the Criminal Justice Act (Northern Ireland) 1945 F4 and Schedule 4 to the Magistrates' Courts (Northern Ireland) Order 1981. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ae5595c5baf6494d116530d1778b728a]
+  - (i (Extent: N.I.) (affected by repeal, see note))[^c-ac5c77d7dab2f0028855e2bef5d3234d] section 33 of the Criminal Justice Act 1925 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ac5c77d7dab2f0028855e2bef5d3234d] [^c2018765] and Schedule 3 to the Magistrates' Courts Act 1980 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ac5c77d7dab2f0028855e2bef5d3234d] [^c2018766], *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ac5c77d7dab2f0028855e2bef5d3234d]
+  - (ii (Extent: N.I.) (affected by repeal, see note))[^c-466eea439bfc5dfcd512b3b951d36689] sections 70 and 143 of the Criminal Procedure (Scotland) Act 1995 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-466eea439bfc5dfcd512b3b951d36689] [^c2018767], *(Extent: N.I.)* *(affected by repeal, see note)*[^c-466eea439bfc5dfcd512b3b951d36689]
+  - (iii (Extent: E+W+S) (affected by repeal, see note))[^c-ae5595c5baf6494d116530d1778b728a] section 18 of the Criminal Justice Act (Northern Ireland) 1945 F4 and Schedule 4 to the Magistrates' Courts (Northern Ireland) Order 1981. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ae5595c5baf6494d116530d1778b728a]
 
 (3) A fine imposed on a partnership or unincorporated association on its conviction of an offence under these Regulations is to be paid out of the funds of the partnership or association.
 
@@ -649,70 +649,70 @@ the person has served on the prosecutor a notice in writing giving such informat
 
 (2) A person guilty of an offence under regulation 20(1) (obstruction etc) or 21 (unlawful disclosure of information contained in data sheets) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-(3) A person guilty of an offence under regulation 7(1A)[^key-1966b89c559ed4bf41d572cc7bfd6f0c] is liable—
+(3) A person guilty of an offence under regulation 7(1A)[^c-1966b89c559ed4bf41d572cc7bfd6f0c] is liable—
 
 - (a) on summary conviction to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine.
 
-## 27 (Extent: N.I.) (affected by repeal, see note). Appeals against notices etc: England and Wales[^key-36782ff166eefe6dd59266dccff50fb2]
+## 27 (Extent: N.I.) (affected by repeal, see note). Appeals against notices etc: England and Wales[^c-36782ff166eefe6dd59266dccff50fb2]
 
-(1 (Extent: N.I.) (affected by repeal, see note))[^key-36782ff166eefe6dd59266dccff50fb2] This regulation applies in England and Wales only. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-36782ff166eefe6dd59266dccff50fb2]
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-36782ff166eefe6dd59266dccff50fb2] This regulation applies in England and Wales only. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-36782ff166eefe6dd59266dccff50fb2]
 
-(2 (Extent: N.I.) (affected by repeal, see note))[^key-36782ff166eefe6dd59266dccff50fb2] Any person who is aggrieved by a decision of an authorised officer to serve any notice under these Regulations may appeal to a magistrates' court. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-36782ff166eefe6dd59266dccff50fb2]
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-36782ff166eefe6dd59266dccff50fb2] Any person who is aggrieved by a decision of an authorised officer to serve any notice under these Regulations may appeal to a magistrates' court. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-36782ff166eefe6dd59266dccff50fb2]
 
-(3 (Extent: N.I.) (affected by repeal, see note))[^key-36782ff166eefe6dd59266dccff50fb2] The procedure on an appeal to a magistrates' court under paragraph (2) is by way of complaint, and the Magistrates' Court Act 1980 applies to the proceedings. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-36782ff166eefe6dd59266dccff50fb2]
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-36782ff166eefe6dd59266dccff50fb2] The procedure on an appeal to a magistrates' court under paragraph (2) is by way of complaint, and the Magistrates' Court Act 1980 applies to the proceedings. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-36782ff166eefe6dd59266dccff50fb2]
 
-(4 (Extent: N.I.) (affected by repeal, see note))[^key-36782ff166eefe6dd59266dccff50fb2] The period within which an appeal under paragraph (2) may be brought is one month after the date on which the notice was served, and the making of the complaint is deemed for the purposes of this paragraph to be the bringing of the appeal. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-36782ff166eefe6dd59266dccff50fb2]
+(4 (Extent: N.I.) (affected by repeal, see note))[^c-36782ff166eefe6dd59266dccff50fb2] The period within which an appeal under paragraph (2) may be brought is one month after the date on which the notice was served, and the making of the complaint is deemed for the purposes of this paragraph to be the bringing of the appeal. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-36782ff166eefe6dd59266dccff50fb2]
 
-(5 (Extent: N.I.) (affected by repeal, see note))[^key-36782ff166eefe6dd59266dccff50fb2] On an appeal under this regulation, the court may either cancel or affirm the notice and, if the court affirms the notice, it may do so either in its original form or with such modifications as the court may, in the circumstances, think fit. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-36782ff166eefe6dd59266dccff50fb2]
+(5 (Extent: N.I.) (affected by repeal, see note))[^c-36782ff166eefe6dd59266dccff50fb2] On an appeal under this regulation, the court may either cancel or affirm the notice and, if the court affirms the notice, it may do so either in its original form or with such modifications as the court may, in the circumstances, think fit. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-36782ff166eefe6dd59266dccff50fb2]
 
-## 28 (Extent: N.I.) (affected by repeal, see note). Appeal against notices etc: Scotland[^key-ca3028ca071d641b01a2a633d08adfb0]
+## 28 (Extent: N.I.) (affected by repeal, see note). Appeal against notices etc: Scotland[^c-ca3028ca071d641b01a2a633d08adfb0]
 
-(1 (Extent: N.I.) (affected by repeal, see note))[^key-ca3028ca071d641b01a2a633d08adfb0] This regulation applies to Scotland only. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ca3028ca071d641b01a2a633d08adfb0]
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-ca3028ca071d641b01a2a633d08adfb0] This regulation applies to Scotland only. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ca3028ca071d641b01a2a633d08adfb0]
 
-(2 (Extent: N.I.) (affected by repeal, see note))[^key-ca3028ca071d641b01a2a633d08adfb0] Any person who is aggrieved by a decision of an authorised officer to serve any notice under these Regulations may appeal to the sheriff. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ca3028ca071d641b01a2a633d08adfb0]
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-ca3028ca071d641b01a2a633d08adfb0] Any person who is aggrieved by a decision of an authorised officer to serve any notice under these Regulations may appeal to the sheriff. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ca3028ca071d641b01a2a633d08adfb0]
 
-(3 (Extent: N.I.) (affected by repeal, see note))[^key-ca3028ca071d641b01a2a633d08adfb0] The procedure on an appeal to the sheriff under paragraph (2) is by way of summary application. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ca3028ca071d641b01a2a633d08adfb0]
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-ca3028ca071d641b01a2a633d08adfb0] The procedure on an appeal to the sheriff under paragraph (2) is by way of summary application. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ca3028ca071d641b01a2a633d08adfb0]
 
-(4 (Extent: N.I.) (affected by repeal, see note))[^key-ca3028ca071d641b01a2a633d08adfb0] The period within which an appeal under paragraph (2) may be brought is one month after the date on which the notice was served. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ca3028ca071d641b01a2a633d08adfb0]
+(4 (Extent: N.I.) (affected by repeal, see note))[^c-ca3028ca071d641b01a2a633d08adfb0] The period within which an appeal under paragraph (2) may be brought is one month after the date on which the notice was served. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ca3028ca071d641b01a2a633d08adfb0]
 
-(5 (Extent: N.I.) (affected by repeal, see note))[^key-ca3028ca071d641b01a2a633d08adfb0] On an appeal under this regulation, the sheriff may either cancel or affirm the notice and, if the sheriff affirms the notice, it may be either in its original form, or with such modifications as the sheriff may, in the circumstances, think fit. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ca3028ca071d641b01a2a633d08adfb0]
+(5 (Extent: N.I.) (affected by repeal, see note))[^c-ca3028ca071d641b01a2a633d08adfb0] On an appeal under this regulation, the sheriff may either cancel or affirm the notice and, if the sheriff affirms the notice, it may be either in its original form, or with such modifications as the sheriff may, in the circumstances, think fit. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ca3028ca071d641b01a2a633d08adfb0]
 
-## 29 (Extent: E+W+S) (affected by repeal, see note). Appeal against notices etc: Northern Ireland[^key-d51d2aba5445fba108c7768dad723da7]
+## 29 (Extent: E+W+S) (affected by repeal, see note). Appeal against notices etc: Northern Ireland[^c-d51d2aba5445fba108c7768dad723da7]
 
-(1 (Extent: E+W+S) (affected by repeal, see note))[^key-d51d2aba5445fba108c7768dad723da7] This regulation applies to Northern Ireland only. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-d51d2aba5445fba108c7768dad723da7]
+(1 (Extent: E+W+S) (affected by repeal, see note))[^c-d51d2aba5445fba108c7768dad723da7] This regulation applies to Northern Ireland only. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-d51d2aba5445fba108c7768dad723da7]
 
-(2 (Extent: E+W+S) (affected by repeal, see note))[^key-d51d2aba5445fba108c7768dad723da7] Any person who is aggrieved by a decision of an authorised officer to serve any notice under these Regulations may appeal to a court of summary jurisdiction. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-d51d2aba5445fba108c7768dad723da7]
+(2 (Extent: E+W+S) (affected by repeal, see note))[^c-d51d2aba5445fba108c7768dad723da7] Any person who is aggrieved by a decision of an authorised officer to serve any notice under these Regulations may appeal to a court of summary jurisdiction. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-d51d2aba5445fba108c7768dad723da7]
 
-(3 (Extent: E+W+S) (affected by repeal, see note))[^key-d51d2aba5445fba108c7768dad723da7] An appeal to a court of summary jurisdiction under paragraph (2) must be initiated by way of notice under Part VII of the Magistrates' Courts (Northern Ireland) Order 1981 and the provisions of that Part apply accordingly. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-d51d2aba5445fba108c7768dad723da7]
+(3 (Extent: E+W+S) (affected by repeal, see note))[^c-d51d2aba5445fba108c7768dad723da7] An appeal to a court of summary jurisdiction under paragraph (2) must be initiated by way of notice under Part VII of the Magistrates' Courts (Northern Ireland) Order 1981 and the provisions of that Part apply accordingly. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-d51d2aba5445fba108c7768dad723da7]
 
-(4 (Extent: E+W+S) (affected by repeal, see note))[^key-d51d2aba5445fba108c7768dad723da7] The period within which an appeal under paragraph (2) may be brought is one month after the date on which the notice was served. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-d51d2aba5445fba108c7768dad723da7]
+(4 (Extent: E+W+S) (affected by repeal, see note))[^c-d51d2aba5445fba108c7768dad723da7] The period within which an appeal under paragraph (2) may be brought is one month after the date on which the notice was served. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-d51d2aba5445fba108c7768dad723da7]
 
-(5 (Extent: E+W+S) (affected by repeal, see note))[^key-d51d2aba5445fba108c7768dad723da7] On an appeal under this regulation, the court may either cancel or affirm the notice and, if the court affirms the notice, it may do so either in its original form or with such modifications as the court may, in the circumstances, think fit. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-d51d2aba5445fba108c7768dad723da7]
+(5 (Extent: E+W+S) (affected by repeal, see note))[^c-d51d2aba5445fba108c7768dad723da7] On an appeal under this regulation, the court may either cancel or affirm the notice and, if the court affirms the notice, it may do so either in its original form or with such modifications as the court may, in the circumstances, think fit. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-d51d2aba5445fba108c7768dad723da7]
 
 ## 30. Revocation
 
 The Detergents Regulations 2005 [^c2018770] are revoked.
 
-## 31 (Extent: N.I.) (affected by repeal, see note). Review[^key-ea08cafe2d0d0a8f928efe7ed5d3a187][^key-dbfea537d8323aba36aefcaf693700ea]
+## 31 (Extent: N.I.) (affected by repeal, see note). Review[^c-ea08cafe2d0d0a8f928efe7ed5d3a187][^c-dbfea537d8323aba36aefcaf693700ea]
 
-(1 (Extent: N.I.) (affected by repeal, see note))[^key-ea08cafe2d0d0a8f928efe7ed5d3a187] Before the end of each review period, the Secretary of State must— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ea08cafe2d0d0a8f928efe7ed5d3a187]
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-ea08cafe2d0d0a8f928efe7ed5d3a187] Before the end of each review period, the Secretary of State must— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ea08cafe2d0d0a8f928efe7ed5d3a187]
 
-- (a (Extent: N.I.) (affected by repeal, see note))[^key-ea08cafe2d0d0a8f928efe7ed5d3a187] carry out a review of these Regulations as they apply to England; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ea08cafe2d0d0a8f928efe7ed5d3a187]
-- (b (Extent: N.I.) (affected by repeal, see note))[^key-ea08cafe2d0d0a8f928efe7ed5d3a187] set out the conclusions of the review in a report; and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ea08cafe2d0d0a8f928efe7ed5d3a187]
-- (c (Extent: N.I.) (affected by repeal, see note))[^key-ea08cafe2d0d0a8f928efe7ed5d3a187] publish the report. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ea08cafe2d0d0a8f928efe7ed5d3a187]
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-ea08cafe2d0d0a8f928efe7ed5d3a187] carry out a review of these Regulations as they apply to England; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ea08cafe2d0d0a8f928efe7ed5d3a187]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-ea08cafe2d0d0a8f928efe7ed5d3a187] set out the conclusions of the review in a report; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ea08cafe2d0d0a8f928efe7ed5d3a187]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-ea08cafe2d0d0a8f928efe7ed5d3a187] publish the report. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ea08cafe2d0d0a8f928efe7ed5d3a187]
 
-(2 (Extent: N.I.) (affected by repeal, see note))[^key-ea08cafe2d0d0a8f928efe7ed5d3a187] In carrying out the review the Secretary of State must, so far as reasonable, have regard to how Regulation 648/2004 is implemented in other Member States. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ea08cafe2d0d0a8f928efe7ed5d3a187]
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-ea08cafe2d0d0a8f928efe7ed5d3a187] In carrying out the review the Secretary of State must, so far as reasonable, have regard to how Regulation 648/2004 is implemented in other Member States. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ea08cafe2d0d0a8f928efe7ed5d3a187]
 
-(3 (Extent: N.I.) (affected by repeal, see note))[^key-ea08cafe2d0d0a8f928efe7ed5d3a187] The report must in particular— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ea08cafe2d0d0a8f928efe7ed5d3a187]
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-ea08cafe2d0d0a8f928efe7ed5d3a187] The report must in particular— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ea08cafe2d0d0a8f928efe7ed5d3a187]
 
-- (a (Extent: N.I.) (affected by repeal, see note))[^key-ea08cafe2d0d0a8f928efe7ed5d3a187] set out the objectives intended to be achieved by these Regulations; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ea08cafe2d0d0a8f928efe7ed5d3a187]
-- (b (Extent: N.I.) (affected by repeal, see note))[^key-ea08cafe2d0d0a8f928efe7ed5d3a187] assess the extent to which those objectives are achieved; and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ea08cafe2d0d0a8f928efe7ed5d3a187]
-- (c (Extent: N.I.) (affected by repeal, see note))[^key-ea08cafe2d0d0a8f928efe7ed5d3a187] assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved in a less burdensome way. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ea08cafe2d0d0a8f928efe7ed5d3a187]
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-ea08cafe2d0d0a8f928efe7ed5d3a187] set out the objectives intended to be achieved by these Regulations; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ea08cafe2d0d0a8f928efe7ed5d3a187]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-ea08cafe2d0d0a8f928efe7ed5d3a187] assess the extent to which those objectives are achieved; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ea08cafe2d0d0a8f928efe7ed5d3a187]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-ea08cafe2d0d0a8f928efe7ed5d3a187] assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved in a less burdensome way. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ea08cafe2d0d0a8f928efe7ed5d3a187]
 
-(4 (Extent: N.I.) (affected by repeal, see note))[^key-ea08cafe2d0d0a8f928efe7ed5d3a187] In this regulation “review period” means the period of five years beginning with 30th June 2013, and, subject to paragraph (5), each successive period of five years. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ea08cafe2d0d0a8f928efe7ed5d3a187]
+(4 (Extent: N.I.) (affected by repeal, see note))[^c-ea08cafe2d0d0a8f928efe7ed5d3a187] In this regulation “review period” means the period of five years beginning with 30th June 2013, and, subject to paragraph (5), each successive period of five years. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ea08cafe2d0d0a8f928efe7ed5d3a187]
 
-(5 (Extent: N.I.) (affected by repeal, see note))[^key-ea08cafe2d0d0a8f928efe7ed5d3a187] If a report under this regulation is published before the last day of the review period to which it relates, the following review period is to begin with the day on which that report is published. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ea08cafe2d0d0a8f928efe7ed5d3a187]
+(5 (Extent: N.I.) (affected by repeal, see note))[^c-ea08cafe2d0d0a8f928efe7ed5d3a187] If a report under this regulation is published before the last day of the review period to which it relates, the following review period is to begin with the day on which that report is published. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ea08cafe2d0d0a8f928efe7ed5d3a187]
 
 Huw Irranca-Davies
 
@@ -753,7 +753,7 @@ Regulation 10
 </tbody>
 </table>
 
-[^key-0b3c0e3f3324dd54489365819e127069][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^c2018771][^key-ec006d33306306705a1c898eb6f98aff][^key-d808b6370bada931f7f6f268d2bd2d2c][^key-d996c24a17e0fa6024729e5c56a6331b][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-ec006d33306306705a1c898eb6f98aff][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-ec006d33306306705a1c898eb6f98aff][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-ec006d33306306705a1c898eb6f98aff][^key-d5843cbedb8ad4e3b1735ad148690174][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-b5a6027278da30388a37271eb8d1f8a7][^key-ec006d33306306705a1c898eb6f98aff]
+[^c-0b3c0e3f3324dd54489365819e127069][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c2018771][^c-ec006d33306306705a1c898eb6f98aff][^c-d808b6370bada931f7f6f268d2bd2d2c][^c-d996c24a17e0fa6024729e5c56a6331b][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-ec006d33306306705a1c898eb6f98aff][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-ec006d33306306705a1c898eb6f98aff][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-ec006d33306306705a1c898eb6f98aff][^c-d5843cbedb8ad4e3b1735ad148690174][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-b5a6027278da30388a37271eb8d1f8a7][^c-ec006d33306306705a1c898eb6f98aff]
 
 *(This note is not part of the Regulations)*
 
@@ -835,37 +835,37 @@ Impact assessments have been produced for the prohibition on the placing on the 
 
 [^M_E_397bab81-f35b-48dd-d660-d62d48ce554b]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-8c68d34f16edfddf73c0aa29f3d10841]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/2/1) inserted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/2/a)
+[^c-8c68d34f16edfddf73c0aa29f3d10841]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/2/1) inserted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/2/a)
 
 [^c2018758]: Marginal citation: C/2005/5677.23. http://ec.europa.eu/enterprise/sectors/chemicals/files/detergents/c2005\_5677\_en.pdf
 
 [^c2018759]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
-[^key-6ce465214a1420769f95662c00fcd178]: Textual amendment: Words in reg. 2 substituted (30.6.2013) by [The Detergents (Amendment) Regulations 2013 (S.I. 2013/1244)](https://www.legislation.gov.uk/uksi/2013/1244), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/2/2)
+[^c-6ce465214a1420769f95662c00fcd178]: Textual amendment: Words in reg. 2 substituted (30.6.2013) by [The Detergents (Amendment) Regulations 2013 (S.I. 2013/1244)](https://www.legislation.gov.uk/uksi/2013/1244), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/2/2)
 
-[^key-30015d979908e61dcd7fc9fe2ce4e5ff]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/2/1) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/2/b)
+[^c-30015d979908e61dcd7fc9fe2ce4e5ff]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/2/1) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/2/b)
 
 [^M_E_816ff0d4-4b49-4a7a-ba7f-5267248a237f]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^V_NI_f76b32df-40cd-ab98-246b-b54583375cc1]: Textual amendment: C/2005/5677.23. http://ec.europa.eu/enterprise/sectors/chemicals/files/detergents/c2005\_5677\_en.pdf
 
-[^key-455e8506e3dae699e04049389b18f2ac]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/2/1) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/2/a)
+[^c-455e8506e3dae699e04049389b18f2ac]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/2/1) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/2/a)
 
-[^key-a994b80248f72dc8bfa8116914d2d45b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/2/1) substituted (N.I.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/2/b)
+[^c-a994b80248f72dc8bfa8116914d2d45b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/2/1) substituted (N.I.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/2/b)
 
 [^V_NI_789fcc0c-48c8-14f2-53ab-0f108caec853]: Textual amendment: Words in reg. 2 substituted (30.6.2013) by [The Detergents (Amendment) Regulations 2013 (S.I. 2013/1244)](https://www.legislation.gov.uk/uksi/2013/1244), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/2/2)
 
-[^key-f79ba9065767068026490aef2b02365d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/740/regulation/3) omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/3)
+[^c-f79ba9065767068026490aef2b02365d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/740/regulation/3) omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/3)
 
 [^M_E_599345a6-9ad1-4d53-ac15-272fb870f942]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
 [^M_E_5bbc4297-3552-40bb-f32b-c7f21300f82a]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-b787e02cab863694f0481bd252e52c13]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/3/1) substituted (N.I.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(3)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/3/a)
+[^c-b787e02cab863694f0481bd252e52c13]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/3/1) substituted (N.I.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(3)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/3/a)
 
-[^key-942e792e90e705130a9c1222e46b68f7]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/740/regulation/3/2) substituted (N.I.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/3/b/i)
+[^c-942e792e90e705130a9c1222e46b68f7]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/740/regulation/3/2) substituted (N.I.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/3/b/i)
 
-[^key-652e36eb5669fa1d1f1876005c7e5d4f]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/740/regulation/3/2) substituted (N.I.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/3/b/ii)
+[^c-652e36eb5669fa1d1f1876005c7e5d4f]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/740/regulation/3/2) substituted (N.I.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/3/b/ii)
 
 [^M_E_ed7485d4-c000-467a-da1e-adc2b3d52f51]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
@@ -873,35 +873,35 @@ Impact assessments have been produced for the prohibition on the placing on the 
 
 [^c2018762]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-a080892428ada88a388c8f4ffa801d9e]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2010/740/regulation/4/4) omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(4)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/4/a)
+[^c-a080892428ada88a388c8f4ffa801d9e]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2010/740/regulation/4/4) omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(4)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/4/a)
 
-[^key-53750261d2f241107002e79075b76fb8]: Textual amendment: Words in [reg. 4(5)(a)](https://www.legislation.gov.uk/uksi/2010/740/regulation/4/5/a) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/4/b/i)
+[^c-53750261d2f241107002e79075b76fb8]: Textual amendment: Words in [reg. 4(5)(a)](https://www.legislation.gov.uk/uksi/2010/740/regulation/4/5/a) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/4/b/i)
 
-[^key-5a06efa310b2bf3d13879650ae98247d]: Textual amendment: Words in [reg. 4(5)(b)](https://www.legislation.gov.uk/uksi/2010/740/regulation/4/5/b) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/4/b/ii)
+[^c-5a06efa310b2bf3d13879650ae98247d]: Textual amendment: Words in [reg. 4(5)(b)](https://www.legislation.gov.uk/uksi/2010/740/regulation/4/5/b) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/4/b/ii)
 
 [^M_E_aecb229c-3338-4b47-afdc-5e26d1903904]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-96476dd873bb0951a2c09fa7a7974c07]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/4/1) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(4)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/4)
+[^c-96476dd873bb0951a2c09fa7a7974c07]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/4/1) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(4)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/4)
 
-[^key-f2c583b9addc636ef77b969a63fb8c9e]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2010/740/regulation/4/2) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(4)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/4)
+[^c-f2c583b9addc636ef77b969a63fb8c9e]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2010/740/regulation/4/2) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(4)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/4)
 
-[^key-87d16a092ecd864e1238134b1bcb5215]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2010/740/regulation/4/3) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(4)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/4)
+[^c-87d16a092ecd864e1238134b1bcb5215]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2010/740/regulation/4/3) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(4)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/4)
 
 [^M_E_eb1c4bb6-4a93-42ab-f09c-0975c24e3ef3]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
 [^M_E_a08fca8e-f913-45eb-88fd-94a83674695d]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-78b6a0ef53d1c54ed0106a08c313e319]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/5/1) substituted (N.I.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/5)
+[^c-78b6a0ef53d1c54ed0106a08c313e319]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/5/1) substituted (N.I.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/5)
 
-[^key-c46e9015e7765f7d8f2d7062ea20a3cb]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/740/regulation/6) omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(5)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/5)
+[^c-c46e9015e7765f7d8f2d7062ea20a3cb]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/740/regulation/6) omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(5)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/5)
 
 [^M_E_cb30126e-b319-4cc3-b5b2-953a59df1bf4]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-a6698c6c5b0045f8c8a255dc49a923f5]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/7/1) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(6)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/6)
+[^c-a6698c6c5b0045f8c8a255dc49a923f5]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/7/1) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(6)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/6)
 
-[^key-bc7cafe337e63255a7a7a32067a1c4c2]: Textual amendment: Reg. 7(1A) inserted (30.6.2013) by [The Detergents (Amendment) Regulations 2013 (S.I. 2013/1244)](https://www.legislation.gov.uk/uksi/2013/1244), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/2/3)
+[^c-bc7cafe337e63255a7a7a32067a1c4c2]: Textual amendment: Reg. 7(1A) inserted (30.6.2013) by [The Detergents (Amendment) Regulations 2013 (S.I. 2013/1244)](https://www.legislation.gov.uk/uksi/2013/1244), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/2/3)
 
-[^key-34a1aff434cf71827f7591bed34a5f1c]: Textual amendment: Words in [reg. 7(1A)](https://www.legislation.gov.uk/uksi/2010/740/regulation/7/1A) inserted (1.1.2017) by [The Detergents (Amendment) Regulations 2016 (S.I. 2016/1165)](https://www.legislation.gov.uk/uksi/2016/1165), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1165/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/1165/regulation/2/2)
+[^c-34a1aff434cf71827f7591bed34a5f1c]: Textual amendment: Words in [reg. 7(1A)](https://www.legislation.gov.uk/uksi/2010/740/regulation/7/1A) inserted (1.1.2017) by [The Detergents (Amendment) Regulations 2016 (S.I. 2016/1165)](https://www.legislation.gov.uk/uksi/2016/1165), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1165/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/1165/regulation/2/2)
 
 [^M_E_e1089b4e-cd38-4b86-9245-110e906a32e1]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
@@ -911,31 +911,31 @@ Impact assessments have been produced for the prohibition on the placing on the 
 
 [^M_E_4b116108-8b2a-4e34-8a6b-ef0ce6cba07a]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-42398aee2e974962ca038b19dcb85ac8]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/8/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(7)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/7/a)
+[^c-42398aee2e974962ca038b19dcb85ac8]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/8/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(7)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/7/a)
 
-[^key-4d16aae4200c0a6f202eea37e67240fc]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/uksi/2010/740/regulation/8/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(7)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/7/a)
+[^c-4d16aae4200c0a6f202eea37e67240fc]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/uksi/2010/740/regulation/8/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(7)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/7/a)
 
-[^key-a2657c41feb8a3f166f8c5e8353e7819]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2010/740/regulation/8/3) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(7)(b)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/7/b)
+[^c-a2657c41feb8a3f166f8c5e8353e7819]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2010/740/regulation/8/3) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(7)(b)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/7/b)
 
 [^M_E_d6333970-e27d-4086-fe71-ea2d37b1d44f]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-faeb0d8e5a4fe9451ae8920df3822091]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/740/regulation/9) omitted (30.6.2013) by virtue of [The Detergents (Amendment) Regulations 2013 (S.I. 2013/1244)](https://www.legislation.gov.uk/uksi/2013/1244), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/2/4)
+[^c-faeb0d8e5a4fe9451ae8920df3822091]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/740/regulation/9) omitted (30.6.2013) by virtue of [The Detergents (Amendment) Regulations 2013 (S.I. 2013/1244)](https://www.legislation.gov.uk/uksi/2013/1244), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/2/4)
 
 [^M_E_2779b1c7-4869-4fe4-dec3-41e334ae5270]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-1fc8c523d2f02bbbea09c94d5435225d]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/11/1) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(8)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/8/a)
+[^c-1fc8c523d2f02bbbea09c94d5435225d]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/11/1) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(8)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/8/a)
 
-[^key-875665fc14eb9338d31e4cd78d3ca649]: Textual amendment: Words in [reg. 11(4)(b)](https://www.legislation.gov.uk/uksi/2010/740/regulation/11/4/b) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(8)(b)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/8/b)
+[^c-875665fc14eb9338d31e4cd78d3ca649]: Textual amendment: Words in [reg. 11(4)(b)](https://www.legislation.gov.uk/uksi/2010/740/regulation/11/4/b) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(8)(b)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/8/b)
 
 [^M_E_8aac18e4-4414-431d-f8f6-00097ff900dc]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^V_NI_1df16ca4-be4f-ec5f-0d21-43cfac0fe9c6]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/11/1) substituted (30.6.2013) by [The Detergents (Amendment) Regulations 2013 (S.I. 2013/1244)](https://www.legislation.gov.uk/uksi/2013/1244), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/1/b), [2(5)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/2/5)
 
-[^key-2742a86063ab27af1fee37a0669a7224]: Textual amendment: Words in [reg. 11(4)(b)](https://www.legislation.gov.uk/uksi/2010/740/regulation/11/4/b) substituted (N.I.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(6)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/6)
+[^c-2742a86063ab27af1fee37a0669a7224]: Textual amendment: Words in [reg. 11(4)(b)](https://www.legislation.gov.uk/uksi/2010/740/regulation/11/4/b) substituted (N.I.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(6)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/6)
 
 [^M_E_bd76a807-32ce-4ff3-918d-22a41f59e5c5]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-d7ddba26065f01a0c829dc2b6fa08240]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/12/1) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(9)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/9)
+[^c-d7ddba26065f01a0c829dc2b6fa08240]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/12/1) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(9)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/9)
 
 [^M_E_f6ecf44c-fbf9-4b2d-e51b-3b0aadbb1816]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
@@ -943,39 +943,39 @@ Impact assessments have been produced for the prohibition on the placing on the 
 
 [^M_E_079139a7-765a-4e2f-84e3-e32e6d135eb8]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-8465faf6d83aaafaa0305149b2741bd6]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2010/740/regulation/13) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(10)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/10)
+[^c-8465faf6d83aaafaa0305149b2741bd6]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2010/740/regulation/13) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(10)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/10)
 
 [^M_E_95878474-97ee-4c5f-d0c7-5549a3d87523]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^V_NI_9dbd74c8-6377-b64e-b781-e79398033194]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2010/740/regulation/13) substituted (30.6.2013) by [The Detergents (Amendment) Regulations 2013 (S.I. 2013/1244)](https://www.legislation.gov.uk/uksi/2013/1244), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/1/b), [2(6)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/2/6)
 
-[^key-71e6be80e0c2646e6a0d7fae24635a77]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2010/740/regulation/14) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(7)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/7)
+[^c-71e6be80e0c2646e6a0d7fae24635a77]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2010/740/regulation/14) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(7)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/7)
 
-[^key-9777789097f59772c18870d391bf1468]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2010/740/regulation/15) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(7)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/7)
+[^c-9777789097f59772c18870d391bf1468]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2010/740/regulation/15) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(7)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/7)
 
-[^key-1949d2603a31d8961078028b00ca942e]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2010/740/regulation/16) omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(11)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/11)
+[^c-1949d2603a31d8961078028b00ca942e]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2010/740/regulation/16) omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(11)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/11)
 
 [^M_E_faf901c0-8dd7-4ec3-c36c-354c517cc446]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-ed3e851780bff73710981b12ca67e7ab]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2010/740/regulation/17) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(12)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/12)
+[^c-ed3e851780bff73710981b12ca67e7ab]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2010/740/regulation/17) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(12)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/12)
 
 [^M_E_334027f4-7947-4995-9d60-c82805b1a2b2]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-fa9c879bf1bbf5f96c870e6a399f2f73]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2010/740/regulation/17) substituted (N.I.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(8)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/8)
+[^c-fa9c879bf1bbf5f96c870e6a399f2f73]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2010/740/regulation/17) substituted (N.I.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(8)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/8)
 
 [^M_E_1e0d6c15-7376-49df-f6e4-7ab100c92ed1]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-5452156fcfd27e545b2ad6cbb300f7ea]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/18/1) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(13)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/13/a)
+[^c-5452156fcfd27e545b2ad6cbb300f7ea]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/18/1) substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(13)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/13/a)
 
 [^c2018763]: Marginal citation: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 
-[^key-3b11a0392347f04978ed17f74c003a7e]: Textual amendment: [Reg. 18(3)](https://www.legislation.gov.uk/uksi/2010/740/regulation/18/3) omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(13)(b)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/13/b)
+[^c-3b11a0392347f04978ed17f74c003a7e]: Textual amendment: [Reg. 18(3)](https://www.legislation.gov.uk/uksi/2010/740/regulation/18/3) omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(13)(b)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/13/b)
 
 [^M_E_1b0a496c-a259-42de-fc64-94b1ede82ba1]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-b0ce380233655dab92935bda1a1b4627]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/18/1) substituted (N.I.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(9)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/9/a)
+[^c-b0ce380233655dab92935bda1a1b4627]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2010/740/regulation/18/1) substituted (N.I.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(9)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/9/a)
 
-[^key-75fabaf99bccf0704d96dc0dcef16310]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/uksi/2010/740/regulation/18/2) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(9)(b)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/9/b)
+[^c-75fabaf99bccf0704d96dc0dcef16310]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/uksi/2010/740/regulation/18/2) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(9)(b)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/9/b)
 
 [^V_NI_1033646e-fecb-a8a8-c61d-7bb20002b219]: Textual amendment: [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341).
 
@@ -983,46 +983,46 @@ Impact assessments have been produced for the prohibition on the placing on the 
 
 [^M_E_2b5c33dd-1b68-464c-b1a0-ad2eb2297b3b]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-41846190164708688bc587ba7553fbba]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/2010/740/regulation/19/3) substituted (N.I.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(10)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/10)
+[^c-41846190164708688bc587ba7553fbba]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/2010/740/regulation/19/3) substituted (N.I.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(10)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/10)
 
-[^key-7559f035699161564f4affaf14f25e12]: Textual amendment: Words in [reg. 19(4)](https://www.legislation.gov.uk/uksi/2010/740/regulation/19/4) substituted (N.I.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(10)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/10)
+[^c-7559f035699161564f4affaf14f25e12]: Textual amendment: Words in [reg. 19(4)](https://www.legislation.gov.uk/uksi/2010/740/regulation/19/4) substituted (N.I.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(10)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/10)
 
-[^key-ac5c77d7dab2f0028855e2bef5d3234d]: Textual amendment: [Reg. 24(2)(b)(i)](https://www.legislation.gov.uk/uksi/2010/740/regulation/24/2/b/i) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(11)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/11)
+[^c-ac5c77d7dab2f0028855e2bef5d3234d]: Textual amendment: [Reg. 24(2)(b)(i)](https://www.legislation.gov.uk/uksi/2010/740/regulation/24/2/b/i) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(11)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/11)
 
 [^c2018765]: Marginal citation: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86).
 
 [^c2018766]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43). Sections 51 and 52 have been substituted by the [Courts Act 2003 (c.39)](https://www.legislation.gov.uk/ukpga/2003/39), [section 47](https://www.legislation.gov.uk/ukpga/2003/39/section/47).
 
-[^key-466eea439bfc5dfcd512b3b951d36689]: Textual amendment: [Reg. 24(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2010/740/regulation/24/2/b/ii) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(11)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/11)
+[^c-466eea439bfc5dfcd512b3b951d36689]: Textual amendment: [Reg. 24(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2010/740/regulation/24/2/b/ii) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(11)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/11)
 
 [^c2018767]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-ae5595c5baf6494d116530d1778b728a]: Textual amendment: [Reg. 24(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2010/740/regulation/24/2/b/iii) omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(14)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/14)
+[^c-ae5595c5baf6494d116530d1778b728a]: Textual amendment: [Reg. 24(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2010/740/regulation/24/2/b/iii) omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(14)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/14)
 
-[^key-1966b89c559ed4bf41d572cc7bfd6f0c]: Textual amendment: Words in [reg. 26(3)](https://www.legislation.gov.uk/uksi/2010/740/regulation/26/3) substituted (1.1.2017) by [The Detergents (Amendment) Regulations 2016 (S.I. 2016/1165)](https://www.legislation.gov.uk/uksi/2016/1165), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1165/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/1165/regulation/2/3)
+[^c-1966b89c559ed4bf41d572cc7bfd6f0c]: Textual amendment: Words in [reg. 26(3)](https://www.legislation.gov.uk/uksi/2010/740/regulation/26/3) substituted (1.1.2017) by [The Detergents (Amendment) Regulations 2016 (S.I. 2016/1165)](https://www.legislation.gov.uk/uksi/2016/1165), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1165/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/1165/regulation/2/3)
 
-[^key-36782ff166eefe6dd59266dccff50fb2]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2010/740/regulation/27) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(12)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/12)
+[^c-36782ff166eefe6dd59266dccff50fb2]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2010/740/regulation/27) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(12)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/12)
 
-[^key-ca3028ca071d641b01a2a633d08adfb0]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2010/740/regulation/28) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(12)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/12)
+[^c-ca3028ca071d641b01a2a633d08adfb0]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2010/740/regulation/28) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(12)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/12)
 
-[^key-d51d2aba5445fba108c7768dad723da7]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/uksi/2010/740/regulation/29) omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(15)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/15)
+[^c-d51d2aba5445fba108c7768dad723da7]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/uksi/2010/740/regulation/29) omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(15)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/15)
 
 [^c2018770]: Marginal citation: [S.I. 2005/2469](https://www.legislation.gov.uk/uksi/2005/2469).
 
-[^key-ea08cafe2d0d0a8f928efe7ed5d3a187]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/2010/740/regulation/31) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(13)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/13)
+[^c-ea08cafe2d0d0a8f928efe7ed5d3a187]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/2010/740/regulation/31) omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(13)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/13)
 
-[^key-dbfea537d8323aba36aefcaf693700ea]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/2010/740/regulation/31) inserted (30.6.2013) by [The Detergents (Amendment) Regulations 2013 (S.I. 2013/1244)](https://www.legislation.gov.uk/uksi/2013/1244), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2013/1244/regulation/3)
+[^c-dbfea537d8323aba36aefcaf693700ea]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/2010/740/regulation/31) inserted (30.6.2013) by [The Detergents (Amendment) Regulations 2013 (S.I. 2013/1244)](https://www.legislation.gov.uk/uksi/2013/1244), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2013/1244/regulation/3)
 
-[^key-0b3c0e3f3324dd54489365819e127069]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/740/schedule/2) Table omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(16)(b)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/16/b)
+[^c-0b3c0e3f3324dd54489365819e127069]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/740/schedule/2) Table omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(16)(b)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/16/b)
 
-[^key-b5a6027278da30388a37271eb8d1f8a7]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/740/schedule/2) Table omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(14)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/14)
+[^c-b5a6027278da30388a37271eb8d1f8a7]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/740/schedule/2) Table omitted (N.I.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [5(14)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/5/14)
 
 [^c2018771]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-ec006d33306306705a1c898eb6f98aff]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/740/schedule/2) Table omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(16)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/16/a)
+[^c-ec006d33306306705a1c898eb6f98aff]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/740/schedule/2) Table omitted (E.W.S.) (31.12.2020) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(16)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/16/a)
 
-[^key-d808b6370bada931f7f6f268d2bd2d2c]: Textual amendment: Words in Sch. 2 inserted (30.6.2013) by [The Detergents (Amendment) Regulations 2013 (S.I. 2013/1244)](https://www.legislation.gov.uk/uksi/2013/1244), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/1/b), [4](https://www.legislation.gov.uk/uksi/2013/1244/regulation/4)
+[^c-d808b6370bada931f7f6f268d2bd2d2c]: Textual amendment: Words in Sch. 2 inserted (30.6.2013) by [The Detergents (Amendment) Regulations 2013 (S.I. 2013/1244)](https://www.legislation.gov.uk/uksi/2013/1244), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/1244/regulation/1/b), [4](https://www.legislation.gov.uk/uksi/2013/1244/regulation/4)
 
-[^key-d996c24a17e0fa6024729e5c56a6331b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/740/schedule/2) inserted (1.1.2017) by The Detergents (Amendment) Regulations 2016 (S.I. 2016/1165), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1165/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2016/1165/regulation/2/3)
+[^c-d996c24a17e0fa6024729e5c56a6331b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/740/schedule/2) inserted (1.1.2017) by The Detergents (Amendment) Regulations 2016 (S.I. 2016/1165), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1165/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2016/1165/regulation/2/3)
 
-[^key-d5843cbedb8ad4e3b1735ad148690174]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/740/schedule/2) Table substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(16)(c)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/16/c)
+[^c-d5843cbedb8ad4e3b1735ad148690174]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/740/schedule/2) Table substituted (E.W.S.) (31.12.2020) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/3), [4(16)(c)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/4/16/c)

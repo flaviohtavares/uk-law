@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Backing of warrants: safeguards.[^key-673421c46e138b969fc2c34a9fbe9708]
+## 72. Backing of warrants: safeguards.[^c-673421c46e138b969fc2c34a9fbe9708]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-673421c46e138b969fc2c34a9fbe9708]: Textual amendment: S. 72 repealed (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [s. 221](https://www.legislation.gov.uk/ukpga/2003/41/section/221), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/41/schedule/4); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended (11.12.2003) by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), art. 2 and (18.12.2003) by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), art. 2)
+[^c-673421c46e138b969fc2c34a9fbe9708]: Textual amendment: S. 72 repealed (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [s. 221](https://www.legislation.gov.uk/ukpga/2003/41/section/221), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/41/schedule/4); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended (11.12.2003) by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), art. 2 and (18.12.2003) by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Improvement notices[^key-196c7aad020644b2c0c04d5e122d77ea]
+## 10. Improvement notices[^c-196c7aad020644b2c0c04d5e122d77ea]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-196c7aad020644b2c0c04d5e122d77ea]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2011/16/section/10) in operation at 2.4.2012 by [S.R. 2012/154](https://www.legislation.gov.uk/nisr/2012/154), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/154/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/154/schedule/1)
+[^c-196c7aad020644b2c0c04d5e122d77ea]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2011/16/section/10) in operation at 2.4.2012 by [S.R. 2012/154](https://www.legislation.gov.uk/nisr/2012/154), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/154/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/154/schedule/1)

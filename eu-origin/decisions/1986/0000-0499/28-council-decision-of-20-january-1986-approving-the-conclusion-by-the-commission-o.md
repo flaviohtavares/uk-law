@@ -35,14 +35,14 @@ approving the conclusion by the Commission of a Memorandum of Understanding betw
 
 (86/28/Euratom) (revoked)
 
-[^key-413007136c85a0ff112f77a2144a11b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-413007136c85a0ff112f77a2144a11b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Sole Article.**[^key-413007136c85a0ff112f77a2144a11b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Sole Article.**[^c-413007136c85a0ff112f77a2144a11b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-413007136c85a0ff112f77a2144a11b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-413007136c85a0ff112f77a2144a11b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-413007136c85a0ff112f77a2144a11b5]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-413007136c85a0ff112f77a2144a11b5]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

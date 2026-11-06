@@ -23,7 +23,7 @@ summary: ''
 (1) A claimant is to be treated as having limited capability for work-related activity if—
 
 - (a) the claimant is terminally ill;
-- (b)[^key-b296d3b15eaee827b120344954be765f] the claimant is-
+- (b)[^c-b296d3b15eaee827b120344954be765f] the claimant is-
   - (i) receiving treatment for cancer by way of chemotherapy or radiotherapy;
   - (ii) likely to receive such treatment within six months after the date of the determination of capability for work-related activity; or
   - (iii) recovering from such treatment,
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b296d3b15eaee827b120344954be765f]: Textual amendment: Reg. 35(1)(b) substituted (28.1.2013) by [The Employment and Support Allowance (Amendment) Regulations 2012 (S.I. 2012/3096)](https://www.legislation.gov.uk/uksi/2012/3096), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3096/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2012/3096/regulation/4/3)
+[^c-b296d3b15eaee827b120344954be765f]: Textual amendment: Reg. 35(1)(b) substituted (28.1.2013) by [The Employment and Support Allowance (Amendment) Regulations 2012 (S.I. 2012/3096)](https://www.legislation.gov.uk/uksi/2012/3096), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3096/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2012/3096/regulation/4/3)

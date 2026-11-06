@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84B. Power of Licensing Standards Officers to report conduct inconsistent with the licensing objectives[^key-9771aa94029daec10cda74e2a98886ac]
+## 84B. Power of Licensing Standards Officers to report conduct inconsistent with the licensing objectives[^c-9771aa94029daec10cda74e2a98886ac]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9771aa94029daec10cda74e2a98886ac]: Textual amendment: [S. 84B](https://www.legislation.gov.uk/asp/2005/16/section/84B) inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 58](https://www.legislation.gov.uk/asp/2015/10/section/58), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)
+[^c-9771aa94029daec10cda74e2a98886ac]: Textual amendment: [S. 84B](https://www.legislation.gov.uk/asp/2005/16/section/84B) inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 58](https://www.legislation.gov.uk/asp/2015/10/section/58), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)

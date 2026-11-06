@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44ZC. Interpretation of Part 4A[^key-7aac0da14fb1953d3c468abc4b16422d]
+## 44ZC. Interpretation of Part 4A[^c-7aac0da14fb1953d3c468abc4b16422d]
 
 *Extent: E+W+S*
 
@@ -77,4 +77,4 @@ In this Part—
 
 ## Annotations
 
-[^key-7aac0da14fb1953d3c468abc4b16422d]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2002/618/part/4A) inserted (E.W.S.) (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/1368/regulation/4)
+[^c-7aac0da14fb1953d3c468abc4b16422d]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2002/618/part/4A) inserted (E.W.S.) (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/1368/regulation/4)

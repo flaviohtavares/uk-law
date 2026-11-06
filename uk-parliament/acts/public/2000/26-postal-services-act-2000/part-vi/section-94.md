@@ -27,8 +27,8 @@ summary: ''
 (3) The remuneration for any services provided in pursuance of this section shall be determined—
 
 - (a) by agreement between the universal service provider and the owner or operator concerned, or
-- (b) in the absence of agreement, by the First-tier Tribunal[^key-89d16ab449ad3017d247ffac256d0c50] or, where both places between which the ship or aircraft carries on regular communications are in Northern Ireland, by the Department for Regional Development in Northern Ireland.
+- (b) in the absence of agreement, by the First-tier Tribunal[^c-89d16ab449ad3017d247ffac256d0c50] or, where both places between which the ship or aircraft carries on regular communications are in Northern Ireland, by the Department for Regional Development in Northern Ireland.
 
 ## Annotations
 
-[^key-89d16ab449ad3017d247ffac256d0c50]: Textual amendment: Words in s. 94(3)(b) substituted (1.9.2009) by [Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2009/1885/schedule/1/paragraph/25)
+[^c-89d16ab449ad3017d247ffac256d0c50]: Textual amendment: Words in s. 94(3)(b) substituted (1.9.2009) by [Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2009/1885/schedule/1/paragraph/25)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99A. Reproduction of trade marks in dictionaries, encyclopaedias etc.[^key-9d7d33b41ff3ce2a5180556712ea3ece]
+## 99A. Reproduction of trade marks in dictionaries, encyclopaedias etc.[^c-9d7d33b41ff3ce2a5180556712ea3ece]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d7d33b41ff3ce2a5180556712ea3ece]: Textual amendment: [S. 99A](https://www.legislation.gov.uk/ukpga/1994/26/section/99A) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2018/825/regulation/31) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-9d7d33b41ff3ce2a5180556712ea3ece]: Textual amendment: [S. 99A](https://www.legislation.gov.uk/ukpga/1994/26/section/99A) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2018/825/regulation/31) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))

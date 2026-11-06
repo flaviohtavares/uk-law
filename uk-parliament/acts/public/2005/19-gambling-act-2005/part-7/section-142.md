@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Timing[^key-5d662afa8b16556043b12936f6822ac0]
+## 142. Timing[^c-5d662afa8b16556043b12936f6822ac0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d662afa8b16556043b12936f6822ac0]: Textual amendment: [S. 142](https://www.legislation.gov.uk/ukpga/2005/19/section/142) omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 95](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/95) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-5d662afa8b16556043b12936f6822ac0]: Textual amendment: [S. 142](https://www.legislation.gov.uk/ukpga/2005/19/section/142) omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 95](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/95) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))

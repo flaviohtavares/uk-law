@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**261.**[^key-e6a8fcc8b99f0790240a4f47a91b4802] The Children and Young Persons Act 2008 is amended as follows.
+**261.**[^c-e6a8fcc8b99f0790240a4f47a91b4802] The Children and Young Persons Act 2008 is amended as follows.
 
 ## Annotations
 
-[^key-e6a8fcc8b99f0790240a4f47a91b4802]: Commencement: Reg. 261 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-e6a8fcc8b99f0790240a4f47a91b4802]: Commencement: Reg. 261 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

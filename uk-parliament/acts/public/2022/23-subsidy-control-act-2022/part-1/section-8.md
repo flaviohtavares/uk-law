@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Persons under common control[^key-cdde60b831321143fb0edb1d63780ac8]
+## 8. Persons under common control[^c-cdde60b831321143fb0edb1d63780ac8]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ and “**interconnected bodies corporate**” is to be construed accordingly.
 
 ## Annotations
 
-[^key-cdde60b831321143fb0edb1d63780ac8]: Commencement: S. 8 in force at Royal Assent, see [s. 91(1)(a)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/a)
+[^c-cdde60b831321143fb0edb1d63780ac8]: Commencement: S. 8 in force at Royal Assent, see [s. 91(1)(a)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/a)

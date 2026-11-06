@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236C. Consideration of complaint[^key-6b4650436a66d71e80c6cff137211cbf]
+## 236C. Consideration of complaint[^c-6b4650436a66d71e80c6cff137211cbf]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ On a complaint under section 236A it is for the employer to show what was the so
 
 ## Annotations
 
-[^key-6b4650436a66d71e80c6cff137211cbf]: Textual amendment: [S. 236A-236D](https://www.legislation.gov.uk/ukpga/1992/52/section/236A) and cross-heading inserted (6.1.2026 for specified purposes, 18.2.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 76(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/76/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [regs. 2(23)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/23/b), [3(7)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/7)
+[^c-6b4650436a66d71e80c6cff137211cbf]: Textual amendment: [S. 236A-236D](https://www.legislation.gov.uk/ukpga/1992/52/section/236A) and cross-heading inserted (6.1.2026 for specified purposes, 18.2.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 76(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/76/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [regs. 2(23)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/23/b), [3(7)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/7)

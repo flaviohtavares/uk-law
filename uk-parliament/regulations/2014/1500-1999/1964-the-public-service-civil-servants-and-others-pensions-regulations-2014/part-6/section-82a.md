@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82A. Option to partially buy out early payment reduction[^key-aaf59c56acd87a76cdb7e53e7c68ad84]
+## 82A. Option to partially buy out early payment reduction[^c-aaf59c56acd87a76cdb7e53e7c68ad84]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aaf59c56acd87a76cdb7e53e7c68ad84]: Textual amendment: [Reg. 82A](https://www.legislation.gov.uk/uksi/2014/1964/regulation/82A) inserted (with effect from 1.4.2018) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/a), [18](https://www.legislation.gov.uk/uksi/2018/537/regulation/18)
+[^c-aaf59c56acd87a76cdb7e53e7c68ad84]: Textual amendment: [Reg. 82A](https://www.legislation.gov.uk/uksi/2014/1964/regulation/82A) inserted (with effect from 1.4.2018) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/a), [18](https://www.legislation.gov.uk/uksi/2018/537/regulation/18)

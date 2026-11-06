@@ -24,7 +24,7 @@ Articles 9, 10, 33 and 56
 
 ### Apparatus of statutory undertakers, etc., on land acquired
 
-**1.**[^key-34d19ffb3c3e28357d07ceeaef0ce137] (1) Subject to the following provisions of this paragraph, sections 271 to 274 of the 1990 Act (power to extinguish rights of statutory undertakers etc. and power of statutory undertakers, etc. to remove or re-site apparatus) apply in relation to any land acquired under this Order, or which is held by the promoter and is appropriated or used (or about to be used) by it for the purposes of the Order or any connected purpose, and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282, which provide for the payment of compensation) have effect accordingly.
+**1.**[^c-34d19ffb3c3e28357d07ceeaef0ce137] (1) Subject to the following provisions of this paragraph, sections 271 to 274 of the 1990 Act (power to extinguish rights of statutory undertakers etc. and power of statutory undertakers, etc. to remove or re-site apparatus) apply in relation to any land acquired under this Order, or which is held by the promoter and is appropriated or used (or about to be used) by it for the purposes of the Order or any connected purpose, and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282, which provide for the payment of compensation) have effect accordingly.
 
 (2) In the provisions of the 1990 Act, as applied by sub-paragraph (1), references to the appropriate Minister are references to the Secretary of State.
 
@@ -46,7 +46,7 @@ is entitled to recover from the promoter compensation in respect of expenditure 
 
 ### Apparatus of statutory undertakers, etc., in stopped up streets
 
-**2.**[^key-a37c746177f8c5d09e386ba1952b25e5] (1) Where a street is stopped up under article 10 (construction of new and stopping up of existing streets) any statutory utility whose apparatus is under, in, upon, over, along or across the street has the same powers and rights in respect of that apparatus, subject to the provisions of this paragraph, as if this Order had not been made.
+**2.**[^c-a37c746177f8c5d09e386ba1952b25e5] (1) Where a street is stopped up under article 10 (construction of new and stopping up of existing streets) any statutory utility whose apparatus is under, in, upon, over, along or across the street has the same powers and rights in respect of that apparatus, subject to the provisions of this paragraph, as if this Order had not been made.
 
 (2) The promoter must give not less than 28 days’ notice in writing of its intention to stop up any street under article 10 to any statutory utility whose apparatus is under, in, upon, over, along or across that street.
 
@@ -87,7 +87,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ### Railway, navigation and tramway undertakings
 
-**3.**[^key-5df30a2f84a73c9635c5d9b4c9db78bc] (1) Subject to the following provisions of this paragraph, the powers under article 9 (power to execute street works) to break up or open a street are not exercisable where the street, not being a highway maintainable at public expense (within the meaning of the 1980 Act)—
+**3.**[^c-5df30a2f84a73c9635c5d9b4c9db78bc] (1) Subject to the following provisions of this paragraph, the powers under article 9 (power to execute street works) to break up or open a street are not exercisable where the street, not being a highway maintainable at public expense (within the meaning of the 1980 Act)—
 
 - (a) is under the control or management of, or is maintainable by, railway or tramway undertakers or a navigation authority; or
 - (b) forms part of a level crossing belonging to any such undertakers or to such an authority or to any other person,
@@ -102,10 +102,10 @@ except with the consent of the undertakers or authority, as the case may be, of 
 
 ## Annotations
 
-[^key-34d19ffb3c3e28357d07ceeaef0ce137]: Commencement: Sch. 9 para. 1 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-34d19ffb3c3e28357d07ceeaef0ce137]: Commencement: Sch. 9 para. 1 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
 
 [^f00037]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-a37c746177f8c5d09e386ba1952b25e5]: Commencement: Sch. 9 para. 2 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-a37c746177f8c5d09e386ba1952b25e5]: Commencement: Sch. 9 para. 2 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
 
-[^key-5df30a2f84a73c9635c5d9b4c9db78bc]: Commencement: Sch. 9 para. 3 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-5df30a2f84a73c9635c5d9b4c9db78bc]: Commencement: Sch. 9 para. 3 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

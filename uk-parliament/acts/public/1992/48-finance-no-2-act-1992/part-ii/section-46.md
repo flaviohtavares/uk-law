@@ -22,7 +22,7 @@ summary: ''
 
 (1) The [^c13518461]Taxation of Chargeable Gains Act 1992 shall have effect, and be deemed always to have had effect, with the following amendments.
 
-(2)[^key-9a6bf8c846acd6f079913123508eae1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9a6bf8c846acd6f079913123508eae1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 116(11) (qualifying corporate bonds) after “139," there shall be inserted “ 140A, ”.
 
@@ -46,4 +46,4 @@ summary: ''
 
 [^c13518461]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-9a6bf8c846acd6f079913123508eae1e]: Textual amendment: S. 46(2) omitted (21.7.2008) (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 70(a)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/70/a/i)
+[^c-9a6bf8c846acd6f079913123508eae1e]: Textual amendment: S. 46(2) omitted (21.7.2008) (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 70(a)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/70/a/i)

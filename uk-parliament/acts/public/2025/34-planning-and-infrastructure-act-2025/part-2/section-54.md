@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Delegation of planning decisions in England[^key-9a3da0a84d4e1cdce456f763d76ba3a6][^key-4c2f3d733afb586adc5c668dcc27147e]
+## 54. Delegation of planning decisions in England[^c-9a3da0a84d4e1cdce456f763d76ba3a6][^c-4c2f3d733afb586adc5c668dcc27147e]
 
 *Extent: E+W*
 
-(1)[^key-9a3da0a84d4e1cdce456f763d76ba3a6] In the Town and Country Planning Act 1990, after [section 319ZZB](https://www.legislation.gov.uk/ukpga/1990/8/section/319ZZB) (inserted by section 53) insert—
+(1)[^c-9a3da0a84d4e1cdce456f763d76ba3a6] In the Town and Country Planning Act 1990, after [section 319ZZB](https://www.legislation.gov.uk/ukpga/1990/8/section/319ZZB) (inserted by section 53) insert—
 
 > **England: discharge of functions of local planning authority**
 >
@@ -84,7 +84,7 @@ summary: ''
 >
 > (4) In sections 319ZZC to 319ZZE and this section, “**the 1972 Act**” means the [Local Government Act 1972](https://www.legislation.gov.uk/ukpga/1972/70/contents).
 
-(2)[^key-2e4f791e3af4217c40ceff018b3753c5] In [section 316](https://www.legislation.gov.uk/ukpga/1990/8/section/316) of the [Town and Country Planning Act 1990](https://www.legislation.gov.uk/ukpga/1990/8/contents) (land of interested planning authorities and development by them), in [subsection (3)](https://www.legislation.gov.uk/ukpga/1990/8/section/316), in the words after paragraph (b), after “under” insert “sections 319ZZC to 319ZZE or”.
+(2)[^c-2e4f791e3af4217c40ceff018b3753c5] In [section 316](https://www.legislation.gov.uk/ukpga/1990/8/section/316) of the [Town and Country Planning Act 1990](https://www.legislation.gov.uk/ukpga/1990/8/contents) (land of interested planning authorities and development by them), in [subsection (3)](https://www.legislation.gov.uk/ukpga/1990/8/section/316), in the words after paragraph (b), after “under” insert “sections 319ZZC to 319ZZE or”.
 
 (3) In section 333 of the Town and Country Planning Act 1990 (regulations and orders), after subsection (3ZAA), insert—
 
@@ -92,8 +92,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9a3da0a84d4e1cdce456f763d76ba3a6]: Commencement: [S. 54(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/54/1) in force at 18.2.2026, see [s. 118(2)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/c)
+[^c-9a3da0a84d4e1cdce456f763d76ba3a6]: Commencement: [S. 54(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/54/1) in force at 18.2.2026, see [s. 118(2)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/c)
 
-[^key-4c2f3d733afb586adc5c668dcc27147e]: Commencement: [S. 54(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/54/3) in force at Royal Assent
+[^c-4c2f3d733afb586adc5c668dcc27147e]: Commencement: [S. 54(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/54/3) in force at Royal Assent
 
-[^key-2e4f791e3af4217c40ceff018b3753c5]: Commencement: [S. 54(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/54/2) in force at 31.10.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 5](https://www.legislation.gov.uk/uksi/2026/641/regulation/5)
+[^c-2e4f791e3af4217c40ceff018b3753c5]: Commencement: [S. 54(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/54/2) in force at 31.10.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 5](https://www.legislation.gov.uk/uksi/2026/641/regulation/5)

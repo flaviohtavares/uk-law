@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Local authority's general power of competence[^key-34171a5710fdf8ecd82772296936338c]
+## 24. Local authority's general power of competence[^c-34171a5710fdf8ecd82772296936338c]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34171a5710fdf8ecd82772296936338c]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2021/1/section/24) in force at 1.11.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 4(a)](https://www.legislation.gov.uk/wsi/2021/231/article/4/a)
+[^c-34171a5710fdf8ecd82772296936338c]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2021/1/section/24) in force at 1.11.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 4(a)](https://www.legislation.gov.uk/wsi/2021/231/article/4/a)

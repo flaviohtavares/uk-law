@@ -31,10 +31,10 @@ summary: ''
 
 of 17 February 1992 relating to a proceeding pursuant to Article 85 of the EEC Treaty IV/31.370 and 31.446 - (UK Agricultural Tractor Registration Exchange) (Only the English text is authentic) (revoked)
 
-[^key-7ac34efbea9646504f4cb6f80ce36496]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ac34efbea9646504f4cb6f80ce36496]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-7ac34efbea9646504f4cb6f80ce36496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-7ac34efbea9646504f4cb6f80ce36496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7ac34efbea9646504f4cb6f80ce36496]: Textual amendment: Decision revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7ac34efbea9646504f4cb6f80ce36496]: Textual amendment: Decision revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

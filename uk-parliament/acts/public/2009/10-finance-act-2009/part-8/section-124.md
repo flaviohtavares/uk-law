@@ -30,7 +30,7 @@ summary: ''
 
 - (a) a building society incorporated (or deemed to be incorporated) under the Building Societies Act 1986,
 - (b) a friendly society within the meaning of the Friendly Societies Act 1992, or
-- (c)[^key-ae7f88039cc3f9dcfe5da601be80ed94] a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014.
+- (c)[^c-ae7f88039cc3f9dcfe5da601be80ed94] a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014.
 
 (3) Regulations under this section may, in particular, make provision about—
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae7f88039cc3f9dcfe5da601be80ed94]: Textual amendment: [S. 124(2)(c)](https://www.legislation.gov.uk/ukpga/2009/10/section/124/2/c) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 147](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/147) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-ae7f88039cc3f9dcfe5da601be80ed94]: Textual amendment: [S. 124(2)(c)](https://www.legislation.gov.uk/ukpga/2009/10/section/124/2/c) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 147](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/147) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

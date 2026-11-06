@@ -43,8 +43,8 @@ but such consent must not be unreasonably withheld.
 
 (5) The undertaker must compensate the owners and occupiers of the land for any loss or damage arising by reason of the exercise of the authority conferred by this article, such compensation to be determined, in case of dispute, under Part 1 of the 1961 Act.
 
-(6) If either a [^key-08fba3b0cef0acc4f731c2dd04b703f1]... highway authority or a street authority who has received an application for consent under paragraph (4) fails to notify the undertaker of its decision within 42 days of receiving the application submitted with all relevant information the authority is deemed to have granted the consent.
+(6) If either a [^c-08fba3b0cef0acc4f731c2dd04b703f1]... highway authority or a street authority who has received an application for consent under paragraph (4) fails to notify the undertaker of its decision within 42 days of receiving the application submitted with all relevant information the authority is deemed to have granted the consent.
 
 ## Annotations
 
-[^key-08fba3b0cef0acc4f731c2dd04b703f1]: Textual amendment: Word in [art. 22(6)](https://www.legislation.gov.uk/uksi/2020/511/article/22/6) omitted (21.10.2020) by virtue of [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/5)
+[^c-08fba3b0cef0acc4f731c2dd04b703f1]: Textual amendment: Word in [art. 22(6)](https://www.legislation.gov.uk/uksi/2020/511/article/22/6) omitted (21.10.2020) by virtue of [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/5)

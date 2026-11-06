@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Civil enforcement of investigation powers[^c2181321][^key-1343a8c5d647c1b60beb4045fae727e5]
+## 40. Civil enforcement of investigation powers[^c2181321][^c-1343a8c5d647c1b60beb4045fae727e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -93,4 +93,4 @@ summary: ''
 
 [^c2181321]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2013/24/section/40) partly in force; [s. 40](https://www.legislation.gov.uk/ukpga/2013/24/section/40) in force for specified purposes at Royal Assent, see [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-1343a8c5d647c1b60beb4045fae727e5]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2013/24/section/40) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-1343a8c5d647c1b60beb4045fae727e5]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2013/24/section/40) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

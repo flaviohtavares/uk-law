@@ -67,7 +67,7 @@ summary: ''
     > - (b) take temporary possession of land compulsorily under section 18(2) of the Neighbourhood Planning Act 2017.
 
     ” and
-- (b)[^key-d30539bee254f90150cc7ae40d6b972a] in subsection (6) for the words from “acquiring authority” to the end of the subsection substitute
+- (b)[^c-d30539bee254f90150cc7ae40d6b972a] in subsection (6) for the words from “acquiring authority” to the end of the subsection substitute
 
   > —
   >
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d30539bee254f90150cc7ae40d6b972a]: Commencement: S. 26(8)(b) in force at 22.9.2017 by [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/936/regulation/5))
+[^c-d30539bee254f90150cc7ae40d6b972a]: Commencement: S. 26(8)(b) in force at 22.9.2017 by [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/936/regulation/5))

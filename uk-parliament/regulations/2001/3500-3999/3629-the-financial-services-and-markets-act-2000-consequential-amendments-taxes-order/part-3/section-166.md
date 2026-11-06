@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Modifications of section 468 of the Income and Corporation Taxes Act 1988[^key-3e00b04d8bc4d121ee7e0c8d64446d76]
+## 166. Modifications of section 468 of the Income and Corporation Taxes Act 1988[^c-3e00b04d8bc4d121ee7e0c8d64446d76]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e00b04d8bc4d121ee7e0c8d64446d76]: Commencement: Art. 166 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-3e00b04d8bc4d121ee7e0c8d64446d76]: Commencement: Art. 166 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

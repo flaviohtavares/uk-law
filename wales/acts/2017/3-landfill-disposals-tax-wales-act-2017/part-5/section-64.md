@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Penalties for carrying out taxable operations without being registered[^key-088c7ff6a9f06bdb104d31d5b9a818a7]
+## 64. Penalties for carrying out taxable operations without being registered[^c-088c7ff6a9f06bdb104d31d5b9a818a7]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-088c7ff6a9f06bdb104d31d5b9a818a7]: Commencement: [S. 64](https://www.legislation.gov.uk/anaw/2017/3/section/64) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-088c7ff6a9f06bdb104d31d5b9a818a7]: Commencement: [S. 64](https://www.legislation.gov.uk/anaw/2017/3/section/64) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

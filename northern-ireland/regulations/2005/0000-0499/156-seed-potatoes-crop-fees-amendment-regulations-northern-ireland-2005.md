@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-Seed Potatoes (Crop Fees) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-debf2b7c305708aeb756cd4dca39db77]
+Seed Potatoes (Crop Fees) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-debf2b7c305708aeb756cd4dca39db77]
 
 Made
 
@@ -41,52 +41,52 @@ Coming into operation
 
 14th April 2005
 
-[^key-debf2b7c305708aeb756cd4dca39db77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-debf2b7c305708aeb756cd4dca39db77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-debf2b7c305708aeb756cd4dca39db77]
+## 1. Citation and commencement[^c-debf2b7c305708aeb756cd4dca39db77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Seed Potatoes (Crop Fees) Regulations (Northern Ireland) 2004[^key-debf2b7c305708aeb756cd4dca39db77]
+## 2. Amendment to the Seed Potatoes (Crop Fees) Regulations (Northern Ireland) 2004[^c-debf2b7c305708aeb756cd4dca39db77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-debf2b7c305708aeb756cd4dca39db77]
+## 3. Interpretation[^c-debf2b7c305708aeb756cd4dca39db77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Fees[^key-debf2b7c305708aeb756cd4dca39db77]
+## 4. Fees[^c-debf2b7c305708aeb756cd4dca39db77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-debf2b7c305708aeb756cd4dca39db77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-debf2b7c305708aeb756cd4dca39db77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-debf2b7c305708aeb756cd4dca39db77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-debf2b7c305708aeb756cd4dca39db77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-debf2b7c305708aeb756cd4dca39db77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-debf2b7c305708aeb756cd4dca39db77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-debf2b7c305708aeb756cd4dca39db77]
+## SCHEDULE[^c-debf2b7c305708aeb756cd4dca39db77]
 
 Regulation 6
 
-> **SCHEDULE[^key-debf2b7c305708aeb756cd4dca39db77]**
+> **SCHEDULE[^c-debf2b7c305708aeb756cd4dca39db77]**
 >
 > Regulation 2 and Regulation 2A
 >
-> **PART A — fees for the certification of seed potato crops except for pre-basic tissue culture[^key-debf2b7c305708aeb756cd4dca39db77]**
+> **PART A — fees for the certification of seed potato crops except for pre-basic tissue culture[^c-debf2b7c305708aeb756cd4dca39db77]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART B — fees for the certification of pre-basic tissue culture[^key-debf2b7c305708aeb756cd4dca39db77]**
+> **PART B — fees for the certification of pre-basic tissue culture[^c-debf2b7c305708aeb756cd4dca39db77]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-debf2b7c305708aeb756cd4dca39db77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-debf2b7c305708aeb756cd4dca39db77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-debf2b7c305708aeb756cd4dca39db77]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/156) revoked (10.5.2006) by [The Seed Potatoes (Crop Fees) Regulations (Northern Ireland) 2006 (S.R. 2006/186)](https://www.legislation.gov.uk/nisr/2006/186), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/186/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2006/186/regulation/4/b)
+[^c-debf2b7c305708aeb756cd4dca39db77]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/156) revoked (10.5.2006) by [The Seed Potatoes (Crop Fees) Regulations (Northern Ireland) 2006 (S.R. 2006/186)](https://www.legislation.gov.uk/nisr/2006/186), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/186/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2006/186/regulation/4/b)

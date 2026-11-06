@@ -322,7 +322,7 @@ Regulations made by virtue of Article 7, 8(4) or 9(3)(b) must include provision�
 
 - “**student support authority**” means—
   - (a) the Department;
-  - (b) the Education Authority or any[^key-b6ddfbb2df9c4234ec0f70a3f4c807a7] governing body by which any function of the Department is for the time being exercisable to any extent by virtue of Article 4(1) of the 1998 Order;
+  - (b) the Education Authority or any[^c-b6ddfbb2df9c4234ec0f70a3f4c807a7] governing body by which any function of the Department is for the time being exercisable to any extent by virtue of Article 4(1) of the 1998 Order;
   - (c) any person or body acting on behalf of the Department to any extent by virtue of Article 4(3) of the 1998 Order;
 - “**student support scheme**” means the provisions of regulations under Article 3 of the 1998 Order;
 - “**student support information**”, in relation to a student support authority, means any information which the student support authority holds in connection with, or in consequence of, the exercise of any function relating to the operation of the student support scheme.
@@ -375,4 +375,4 @@ This Order makes provision about fees payable by students in higher education an
 
 [^c20065451]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisi/2005/1116/article/9) wholly in operation at 13.2.2006; [art. 9](https://www.legislation.gov.uk/nisi/2005/1116/article/9) in operation for specified purposes at 14.4.2005 see [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/1116/article/1/2) and wholly in operation at 13.2.2006 by [S.R. 2006/30](https://www.legislation.gov.uk/nisr/2006/30), [art. 2](https://www.legislation.gov.uk/nisr/2006/30/article/2)
 
-[^key-b6ddfbb2df9c4234ec0f70a3f4c807a7]: Textual amendment: Words in [art. 13(7)](https://www.legislation.gov.uk/nisi/2005/1116/article/13/7) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 23](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/23) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b6ddfbb2df9c4234ec0f70a3f4c807a7]: Textual amendment: Words in [art. 13(7)](https://www.legislation.gov.uk/nisi/2005/1116/article/13/7) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 23](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/23) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

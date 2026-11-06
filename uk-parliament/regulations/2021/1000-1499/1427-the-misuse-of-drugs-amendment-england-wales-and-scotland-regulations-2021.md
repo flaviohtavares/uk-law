@@ -32,7 +32,7 @@ summary: ''
 
 Dangerous Drugs
 
-The Misuse of Drugs (Amendment) (England, Wales and Scotland) Regulations 2021 (revoked)[^key-ed56945b8e1ba2dfb28983a360f5bd72]
+The Misuse of Drugs (Amendment) (England, Wales and Scotland) Regulations 2021 (revoked)[^c-ed56945b8e1ba2dfb28983a360f5bd72]
 
 Made
 
@@ -46,15 +46,15 @@ Coming into force
 
 15th June 2022
 
-[^key-ed56945b8e1ba2dfb28983a360f5bd72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed56945b8e1ba2dfb28983a360f5bd72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, Commencement and Extent[^key-ed56945b8e1ba2dfb28983a360f5bd72]
+## 1. Citation, Commencement and Extent[^c-ed56945b8e1ba2dfb28983a360f5bd72]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Misuse of Drugs Regulations 2001[^key-ed56945b8e1ba2dfb28983a360f5bd72]
+## 2. Amendment of the Misuse of Drugs Regulations 2001[^c-ed56945b8e1ba2dfb28983a360f5bd72]
 
 **Not yet in force.**
 
@@ -62,10 +62,10 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-ed56945b8e1ba2dfb28983a360f5bd72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed56945b8e1ba2dfb28983a360f5bd72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ed56945b8e1ba2dfb28983a360f5bd72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed56945b8e1ba2dfb28983a360f5bd72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ed56945b8e1ba2dfb28983a360f5bd72]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/1427) revoked (14.6.2022) by [The Misuse of Drugs (Amendment) (Revocation) (England, Wales and Scotland) Regulations 2022 (S.I. 2022/559)](https://www.legislation.gov.uk/uksi/2022/559), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/559/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/559/regulation/2)
+[^c-ed56945b8e1ba2dfb28983a360f5bd72]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/1427) revoked (14.6.2022) by [The Misuse of Drugs (Amendment) (Revocation) (England, Wales and Scotland) Regulations 2022 (S.I. 2022/559)](https://www.legislation.gov.uk/uksi/2022/559), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/559/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/559/regulation/2)

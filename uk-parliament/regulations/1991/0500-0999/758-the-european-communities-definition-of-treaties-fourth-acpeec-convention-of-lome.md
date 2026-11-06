@@ -30,7 +30,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (Fourth ACP–EEC Convention of Lome) Order 1991 (revoked)[^key-3b3e93b8f102aaae7c940c224df397b9]
+The European Communities (Definition of Treaties) (Fourth ACP–EEC Convention of Lome) Order 1991 (revoked)[^c-3b3e93b8f102aaae7c940c224df397b9]
 
 Made
 
@@ -44,26 +44,26 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-3b3e93b8f102aaae7c940c224df397b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b3e93b8f102aaae7c940c224df397b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-3b3e93b8f102aaae7c940c224df397b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3b3e93b8f102aaae7c940c224df397b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3b3e93b8f102aaae7c940c224df397b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3b3e93b8f102aaae7c940c224df397b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3b3e93b8f102aaae7c940c224df397b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b3e93b8f102aaae7c940c224df397b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-3b3e93b8f102aaae7c940c224df397b9]
+## SCHEDULE[^c-3b3e93b8f102aaae7c940c224df397b9]
 
-**1.**[^key-3b3e93b8f102aaae7c940c224df397b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3b3e93b8f102aaae7c940c224df397b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3b3e93b8f102aaae7c940c224df397b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3b3e93b8f102aaae7c940c224df397b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3b3e93b8f102aaae7c940c224df397b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b3e93b8f102aaae7c940c224df397b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3b3e93b8f102aaae7c940c224df397b9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1991/758) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3b3e93b8f102aaae7c940c224df397b9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1991/758) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

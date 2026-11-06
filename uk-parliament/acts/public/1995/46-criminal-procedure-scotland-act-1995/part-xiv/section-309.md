@@ -35,7 +35,7 @@ summary: ''
 - section 244;
 - section 252 for the purposes of the construction mentioned in subsection (1) of that subsection;
 - section 303(4) to (7)[^c20916151].
-- Part 1 of Schedule[^key-aa64a0a43bc7d02020a6202e5631fb4d] 13 (and section 227ZO)
+- Part 1 of Schedule[^c-aa64a0a43bc7d02020a6202e5631fb4d] 13 (and section 227ZO)
 
 (5) The following provisions of this Act and this section extend to Northern Ireland—
 
@@ -44,7 +44,7 @@ summary: ''
 - section 244;
 - section 252 for the purposes of the construction mentioned in subsection (1) of that subsection;
 - section 303(4) to (7)[^c20916171].
-- Part[^key-14d9d207a9d565d5beff99ad07d9adbd] 2 of Schedule 13 (and section 227ZO)
+- Part[^c-14d9d207a9d565d5beff99ad07d9adbd] 2 of Schedule 13 (and section 227ZO)
 
 (6) Section 297(3) and (4) of this Act and this section also extend to the Isle of Man.
 
@@ -52,8 +52,8 @@ summary: ''
 
 [^c20916151]: Textual amendment: Words in s. 309(4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [12](https://www.legislation.gov.uk/uksi/2010/976/article/12), [Sch. 14 para. 32(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/32/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-aa64a0a43bc7d02020a6202e5631fb4d]: Textual amendment: Words in s. 309(4) inserted (16.9.2011) by [The Criminal Justice and Licensing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2011 (S.I. 2011/2298)](https://www.legislation.gov.uk/uksi/2011/2298), [art. 1](https://www.legislation.gov.uk/uksi/2011/2298/article/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2011/2298/schedule/paragraph/8) (with [art. 4(4)](https://www.legislation.gov.uk/uksi/2011/2298/article/4/4))
+[^c-aa64a0a43bc7d02020a6202e5631fb4d]: Textual amendment: Words in s. 309(4) inserted (16.9.2011) by [The Criminal Justice and Licensing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2011 (S.I. 2011/2298)](https://www.legislation.gov.uk/uksi/2011/2298), [art. 1](https://www.legislation.gov.uk/uksi/2011/2298/article/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2011/2298/schedule/paragraph/8) (with [art. 4(4)](https://www.legislation.gov.uk/uksi/2011/2298/article/4/4))
 
 [^c20916171]: Textual amendment: Words in s. 309(5) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [12](https://www.legislation.gov.uk/uksi/2010/976/article/12), [Sch. 14 para. 32(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/32/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-14d9d207a9d565d5beff99ad07d9adbd]: Textual amendment: Words in [s. 309(5)](https://www.legislation.gov.uk/ukpga/1995/46/section/309/5) inserted (16.9.2011) by [The Criminal Justice and Licensing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2011 (S.I. 2011/2298)](https://www.legislation.gov.uk/uksi/2011/2298), [art. 1](https://www.legislation.gov.uk/uksi/2011/2298/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2011/2298/schedule/paragraph/9) (with [art. 4(4)](https://www.legislation.gov.uk/uksi/2011/2298/article/4/4))
+[^c-14d9d207a9d565d5beff99ad07d9adbd]: Textual amendment: Words in [s. 309(5)](https://www.legislation.gov.uk/ukpga/1995/46/section/309/5) inserted (16.9.2011) by [The Criminal Justice and Licensing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2011 (S.I. 2011/2298)](https://www.legislation.gov.uk/uksi/2011/2298), [art. 1](https://www.legislation.gov.uk/uksi/2011/2298/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2011/2298/schedule/paragraph/9) (with [art. 4(4)](https://www.legislation.gov.uk/uksi/2011/2298/article/4/4))

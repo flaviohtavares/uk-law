@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Secretary of State may by regulations modify the following assimilated direct[^key-004b4c5bbbbcb26cf5e7dc43ff3c19eb] legislation for the purpose of securing that it ceases to have effect in relation to England—
+(1) The Secretary of State may by regulations modify the following assimilated direct[^c-004b4c5bbbbcb26cf5e7dc43ff3c19eb] legislation for the purpose of securing that it ceases to have effect in relation to England—
 
 - (a) Articles 32 to 38 of the CMO Regulation, which make provision about aid for fruit and vegetable producer organisations (“producer organisations aid”);
 - (b) so far as relating to producer organisations aid, Commission Delegated [Regulation (EU) 2017/891](https://www.legislation.gov.uk/european/regulation/2017/0891) of 13 March 2017 supplementing the CMO Regulation with regard to the fruit and vegetable, and processed fruit and vegetable, sectors;
@@ -32,4 +32,4 @@ summary: ''
 
 [^c24386091]: Commencement: S. 15 in force at Royal Assent for specified purposes and otherwise at 11.1.2021, see [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1)
 
-[^key-004b4c5bbbbcb26cf5e7dc43ff3c19eb]: Textual amendment: Words in s. 15(1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(c)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/c)
+[^c-004b4c5bbbbcb26cf5e7dc43ff3c19eb]: Textual amendment: Words in s. 15(1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(c)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/c)

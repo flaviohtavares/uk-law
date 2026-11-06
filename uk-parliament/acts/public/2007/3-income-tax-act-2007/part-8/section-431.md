@@ -40,10 +40,10 @@ summary: ''
 
 (6) See subsection (7) of section 535 of ITTOIA 2005 (top slicing relief) for provision about how relief under this Chapter is to be ignored for the purpose of calculating relief under that section.
 
-(7)[^key-74b64f3fe369f78dea16f1489905d356] This Chapter is subject to sections 809ZM and 809ZMB[^key-63fc3ed8f4c9fd7ff0c2260701205efa] (removal of income tax relief in respect of tainted charity donations etc).
+(7)[^c-74b64f3fe369f78dea16f1489905d356] This Chapter is subject to sections 809ZM and 809ZMB[^c-63fc3ed8f4c9fd7ff0c2260701205efa] (removal of income tax relief in respect of tainted charity donations etc).
 
 ## Annotations
 
-[^key-74b64f3fe369f78dea16f1489905d356]: Textual amendment: S. 431(7) inserted (19.7.2011) (with effect in accordance with Sch. 3 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/11)
+[^c-74b64f3fe369f78dea16f1489905d356]: Textual amendment: S. 431(7) inserted (19.7.2011) (with effect in accordance with Sch. 3 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/11)
 
-[^key-63fc3ed8f4c9fd7ff0c2260701205efa]: Textual amendment: Words in s. 431(7) substituted (with effect in accordance with s. 56(8) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 56(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/8), [Sch. 9 para. 23(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/9/paragraph/23/5)
+[^c-63fc3ed8f4c9fd7ff0c2260701205efa]: Textual amendment: Words in s. 431(7) substituted (with effect in accordance with s. 56(8) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 56(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/8), [Sch. 9 para. 23(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/9/paragraph/23/5)

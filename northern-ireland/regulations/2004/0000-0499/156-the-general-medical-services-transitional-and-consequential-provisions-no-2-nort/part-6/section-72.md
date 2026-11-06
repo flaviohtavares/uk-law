@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 72. Out of hours services to patients not registered with general medical services contractors and default contractors[^key-e856e2d49b6eb52ebb761f2d48639e2d]
+## 72. Out of hours services to patients not registered with general medical services contractors and default contractors[^c-e856e2d49b6eb52ebb761f2d48639e2d]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e856e2d49b6eb52ebb761f2d48639e2d]: Commencement: Art. 72 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-e856e2d49b6eb52ebb761f2d48639e2d]: Commencement: Art. 72 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

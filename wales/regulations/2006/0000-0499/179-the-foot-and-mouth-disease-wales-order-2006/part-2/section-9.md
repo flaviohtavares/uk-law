@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A person who has in his or her possession or charge an animal or carcase which is infected or suspected of being infected must immediately notify the Welsh Ministers[^key-c218acfe1e3523901844a15a9f710115].
+(1) A person who has in his or her possession or charge an animal or carcase which is infected or suspected of being infected must immediately notify the Welsh Ministers[^c-c218acfe1e3523901844a15a9f710115].
 
 (2) A person who in the course of his or her occupation discovers that an animal or carcase not in his or her possession or charge is infected or suspected of being infected must immediately notify the Welsh Ministers.
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) Any constable who receives notification of disease under section 15(1) of the Act must immediately inform the Welsh Ministers.
 
-(5)[^key-6d8a03ed5797481551251b0a393d8eee] Where notification is received under this article from a person other than the occupier of the premises where the relevant animal or carcase is located, a veterinary inspector may serve a notice on the occupier informing the occupier that—
+(5)[^c-6d8a03ed5797481551251b0a393d8eee] Where notification is received under this article from a person other than the occupier of the premises where the relevant animal or carcase is located, a veterinary inspector may serve a notice on the occupier informing the occupier that—
 
 - (a) notification has been received under this article; and
 - (b) Schedule 1 applies in relation to the premises.
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c218acfe1e3523901844a15a9f710115]: Textual amendment: Words in [art. 9(1)-(4)](https://www.legislation.gov.uk/wsi/2006/179/article/9/1) substituted (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/wsi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/618/schedule/1)
+[^c-c218acfe1e3523901844a15a9f710115]: Textual amendment: Words in [art. 9(1)-(4)](https://www.legislation.gov.uk/wsi/2006/179/article/9/1) substituted (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/wsi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/618/schedule/1)
 
-[^key-6d8a03ed5797481551251b0a393d8eee]: Textual amendment: [Art. 9(5)](https://www.legislation.gov.uk/wsi/2006/179/article/9/5) substituted (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [7](https://www.legislation.gov.uk/wsi/2010/618/article/7)
+[^c-6d8a03ed5797481551251b0a393d8eee]: Textual amendment: [Art. 9(5)](https://www.legislation.gov.uk/wsi/2006/179/article/9/5) substituted (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [7](https://www.legislation.gov.uk/wsi/2010/618/article/7)
 
 [^c15478801]: Marginal citation: [S.I. 1998/463](https://www.legislation.gov.uk/uksi/1998/463).

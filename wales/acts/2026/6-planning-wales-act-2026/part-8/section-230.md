@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 230. Offence of displaying advertisement in breach of regulations[^key-0aea363424a4e07d27118343e3eb9172]
+## 230. Offence of displaying advertisement in breach of regulations[^c-0aea363424a4e07d27118343e3eb9172]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0aea363424a4e07d27118343e3eb9172]: Commencement: S. 230 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-0aea363424a4e07d27118343e3eb9172]: Commencement: S. 230 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

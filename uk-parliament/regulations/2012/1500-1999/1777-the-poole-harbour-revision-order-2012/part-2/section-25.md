@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Power to remove goods[^key-4d0c2fd236a1bcda9587564a86c0e411]
+## 25. Power to remove goods[^c-4d0c2fd236a1bcda9587564a86c0e411]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d0c2fd236a1bcda9587564a86c0e411]: Commencement: Art. 25 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-4d0c2fd236a1bcda9587564a86c0e411]: Commencement: Art. 25 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

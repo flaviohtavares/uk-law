@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A clerk and a secretary shall be attached to each of the following judges of the Senior Courts[^c20715321], namely the Lord Chief Justice, the Master of the Rolls, the President of the Queen's Bench Division, the President of the Family Division and the[^c20691431] President of the Business and Property Division[^key-a3f252b3eb7eaa5667c22cbaa89eb4b6].
+(1) A clerk and a secretary shall be attached to each of the following judges of the Senior Courts[^c20715321], namely the Lord Chief Justice, the Master of the Rolls, the President of the Queen's Bench Division, the President of the Family Division and the[^c20691431] President of the Business and Property Division[^c-a3f252b3eb7eaa5667c22cbaa89eb4b6].
 
 (2) A clerk shall be attached to each of the following judges of the Senior Courts, namely the Lords Justices of Appeal and the puisne judges of the High Court.
 
@@ -44,6 +44,6 @@ summary: ''
 
 [^c20691431]: Textual amendment: Words in [s. 98(1)](https://www.legislation.gov.uk/ukpga/1981/54/section/98/1) substituted (1.10.2005) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 14(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/14/2); [S.I. 2005/2505](https://www.legislation.gov.uk/uksi/2005/2505), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2505/article/2/c)
 
-[^key-a3f252b3eb7eaa5667c22cbaa89eb4b6]: Textual amendment: Words in [s. 98(1)](https://www.legislation.gov.uk/ukpga/1981/54/section/98/1) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 12(2)(g)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/12/2/g)
+[^c-a3f252b3eb7eaa5667c22cbaa89eb4b6]: Textual amendment: Words in [s. 98(1)](https://www.legislation.gov.uk/ukpga/1981/54/section/98/1) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 12(2)(g)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/12/2/g)
 
 [^c12336021]: Textual amendment: Words substituted by [Courts and Legal Services Act 1990 (c. 41, SIF 37)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 71(2)](https://www.legislation.gov.uk/ukpga/1990/41/section/71/2), [Sch. 10 para. 47](https://www.legislation.gov.uk/ukpga/1990/41/schedule/10/paragraph/47)

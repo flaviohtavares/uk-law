@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Quality of support review[^key-a0476900e63de7adc1b02b58cec0bfc4]
+## 32. Quality of support review[^c-a0476900e63de7adc1b02b58cec0bfc4]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0476900e63de7adc1b02b58cec0bfc4]: Commencement: Reg. 32 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-a0476900e63de7adc1b02b58cec0bfc4]: Commencement: Reg. 32 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

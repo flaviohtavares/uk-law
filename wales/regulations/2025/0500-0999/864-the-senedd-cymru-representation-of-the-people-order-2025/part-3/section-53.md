@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Election agent’s claim[^key-f7954156963e348cf9ce2ca05497c866]
+## 53. Election agent’s claim[^c-f7954156963e348cf9ce2ca05497c866]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ So far as circumstances permit, this Order applies to any claim made by the elec
 
 ## Annotations
 
-[^key-f7954156963e348cf9ce2ca05497c866]: Commencement: Art. 53 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-f7954156963e348cf9ce2ca05497c866]: Commencement: Art. 53 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

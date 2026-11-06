@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Rules[^key-fe12195534a365804e42f1a71472b7e0]
+## 31. Rules[^c-fe12195534a365804e42f1a71472b7e0]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ Rules required by regulation 12 shall include—
 
 ## Annotations
 
-[^key-fe12195534a365804e42f1a71472b7e0]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2016/427/regulation/31) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-fe12195534a365804e42f1a71472b7e0]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2016/427/regulation/31) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

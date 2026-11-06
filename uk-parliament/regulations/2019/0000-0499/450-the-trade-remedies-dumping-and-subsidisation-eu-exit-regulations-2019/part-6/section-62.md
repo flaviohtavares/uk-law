@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Essential facts and disclosure[^key-963d91dba0dde2956a60a31f29bad13e]
+## 62. Essential facts and disclosure[^c-963d91dba0dde2956a60a31f29bad13e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-963d91dba0dde2956a60a31f29bad13e]: Commencement: Reg. 62 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-963d91dba0dde2956a60a31f29bad13e]: Commencement: Reg. 62 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

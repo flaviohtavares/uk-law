@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Obtaining of documents in connection with carrying out orders etc.[^key-cb8089a331d4d11d4ba461d69ea331de][^key-e3e7d7415c2a6a0292f29e54bf7d052a]
+## 56. Obtaining of documents in connection with carrying out orders etc.[^c-cb8089a331d4d11d4ba461d69ea331de][^c-e3e7d7415c2a6a0292f29e54bf7d052a]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ the owner shall, if so required by a person authorised to carry out the directio
 
 ## Annotations
 
-[^key-cb8089a331d4d11d4ba461d69ea331de]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2006/45/section/56) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/h)
+[^c-cb8089a331d4d11d4ba461d69ea331de]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2006/45/section/56) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/h)
 
-[^key-e3e7d7415c2a6a0292f29e54bf7d052a]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2006/45/section/56) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/j)
+[^c-e3e7d7415c2a6a0292f29e54bf7d052a]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2006/45/section/56) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/j)

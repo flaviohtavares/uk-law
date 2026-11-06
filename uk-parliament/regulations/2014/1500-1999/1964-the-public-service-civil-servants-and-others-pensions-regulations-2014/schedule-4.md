@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — The Partnership Death Benefits Arrangements[^key-fbb1052c431925c58fed45eec0dd402e]
+## SCHEDULE 4 — The Partnership Death Benefits Arrangements[^c-fbb1052c431925c58fed45eec0dd402e]
 
 *Extent: E+W+S+N.I.*
 
@@ -153,4 +153,4 @@ A lump sum death benefit is payable if a person to whom this Schedule applies di
 
 ## Annotations
 
-[^key-fbb1052c431925c58fed45eec0dd402e]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/1964/schedule/4) inserted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2015 (S.I. 2015/602)](https://www.legislation.gov.uk/uksi/2015/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/602/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/602/regulation/2/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/602/schedule/2)
+[^c-fbb1052c431925c58fed45eec0dd402e]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/1964/schedule/4) inserted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2015 (S.I. 2015/602)](https://www.legislation.gov.uk/uksi/2015/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/602/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/602/regulation/2/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/602/schedule/2)

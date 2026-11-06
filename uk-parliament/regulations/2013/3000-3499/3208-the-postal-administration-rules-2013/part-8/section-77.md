@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Fixing of remuneration[^key-5a4966bc97ff1b333591f4b5f79910c0]
+## 77. Fixing of remuneration[^c-5a4966bc97ff1b333591f4b5f79910c0]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a4966bc97ff1b333591f4b5f79910c0]: Commencement: [Rule 77](https://www.legislation.gov.uk/uksi/2013/3208/rule/77) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-5a4966bc97ff1b333591f4b5f79910c0]: Commencement: [Rule 77](https://www.legislation.gov.uk/uksi/2013/3208/rule/77) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

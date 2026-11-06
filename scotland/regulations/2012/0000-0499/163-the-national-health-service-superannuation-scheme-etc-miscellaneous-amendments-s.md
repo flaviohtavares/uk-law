@@ -52,7 +52,7 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consu
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and effect[^key-28f18a5133070772915bee04c19c48a8]
+### 1. Citation, commencement and effect[^c-28f18a5133070772915bee04c19c48a8]
 
 (1) These Regulations may be cited as the National Health Service Superannuation Scheme etc. (Miscellaneous Amendments) (Scotland) Regulations 2012.
 
@@ -76,17 +76,17 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consu
 
 ## PART 2 — AMENDMENT OF THE NATIONAL HEALTH SERVICE SUPERANNUATION SCHEME (SCOTLAND) REGULATIONS 2011
 
-**2.**[^key-9772e273deb128cc8d48ee85368b1aa4] The National Health Service Superannuation Scheme (Scotland) Regulations 2011[^f00004] are amended in accordance with this Part.
+**2.**[^c-9772e273deb128cc8d48ee85368b1aa4] The National Health Service Superannuation Scheme (Scotland) Regulations 2011[^f00004] are amended in accordance with this Part.
 
-**3.**[^key-9b6a34fa62fe3479d55276554786bdf4] In regulation D2 (contributions and other payments by employing authorities), after paragraph (5) insert—
+**3.**[^c-9b6a34fa62fe3479d55276554786bdf4] In regulation D2 (contributions and other payments by employing authorities), after paragraph (5) insert—
 
 > (5A) In paragraph (5)(a), the cost of providing the pension excludes any increase in the benefits payable to the member which are attributable to the purchase by the member of additional service or additional pension under Part Q of this Section of the scheme.
 
 .
 
-**4.**[^key-59bab5ab5bdb95e5d55fdf4af82dfa26] In regulation N4 (transfers that are not made under the Public Sector Transfer Arrangements), in paragraph (1) for “N2” substitute “N3”.
+**4.**[^c-59bab5ab5bdb95e5d55fdf4af82dfa26] In regulation N4 (transfers that are not made under the Public Sector Transfer Arrangements), in paragraph (1) for “N2” substitute “N3”.
 
-**5.**[^key-bf27c933fac8b2b82df1b714ab9a19c0] In regulation R7 (former members of health service schemes), in paragraph (1)—
+**5.**[^c-bf27c933fac8b2b82df1b714ab9a19c0] In regulation R7 (former members of health service schemes), in paragraph (1)—
 
 - (a) in sub-paragraph (b), omit from “or a scheme” to the end;
 - (b) after sub-paragraph (b), insert—
@@ -95,7 +95,7 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consu
 
   .
 
-**6.**[^key-e3ca9a44e786550858c80ce9550652f4] In regulation S1 (suspension of pension on return to NHS employment), for paragraph (5) substitute—
+**6.**[^c-e3ca9a44e786550858c80ce9550652f4] In regulation S1 (suspension of pension on return to NHS employment), for paragraph (5) substitute—
 
 > (5) For the purposes of this regulation “NHS employment” includes—
 >
@@ -105,7 +105,7 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consu
 
 .
 
-**7.**[^key-7359007eb57aec67cfe27f301147cbf9] In regulation T3 (deduction of tax: further provisions)—
+**7.**[^c-7359007eb57aec67cfe27f301147cbf9] In regulation T3 (deduction of tax: further provisions)—
 
 - (a) in paragraph (4) after “entitlement to” insert “transitional protection against a lifetime allowance charge,”;
 - (b) after paragraph (5) insert—
@@ -138,7 +138,7 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consu
 
   .
 
-**8.**[^key-5dc4852f21be2f9604d4c865c9a5f542] In regulation T8 (commutation of trivial pensions), for paragraph (3)(b) substitute—
+**8.**[^c-5dc4852f21be2f9604d4c865c9a5f542] In regulation T8 (commutation of trivial pensions), for paragraph (3)(b) substitute—
 
 > - (b) either—
 >   - (i) the lump sum rule and lump sum death benefit rule; or
@@ -146,7 +146,7 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consu
 
 .
 
-**9.**[^key-97f633da568ee9cf32ea7aea9989b32f] In regulation U2 (determination of questions)—
+**9.**[^c-97f633da568ee9cf32ea7aea9989b32f] In regulation U2 (determination of questions)—
 
 - (a) in paragraph (3), after “paragraph (4)” insert “or in making a decision referred to in paragraph (5),”;
 - (b) in paragraph (4)(e), for “and E12” substitute “, E12 and V17”; and
@@ -156,7 +156,7 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consu
 
   .
 
-**10.**[^key-cf2620580f2c149a731d382f465902d8] Schedule 1 (medical and dental practitioners) is amended as follows—
+**10.**[^c-cf2620580f2c149a731d382f465902d8] Schedule 1 (medical and dental practitioners) is amended as follows—
 
 - (a) for paragraph 5(2)(a)(viii) substitute—
 
@@ -172,41 +172,41 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consu
 
 ## PART 3 — AMENDMENT OF THE NATIONAL HEALTH SERVICE PENSION SCHEME (SCOTLAND) REGULATIONS 2008
 
-**11.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.** [^key-2af5937a4c568714bd636c3df20eeda6]
+**12.** [^c-2af5937a4c568714bd636c3df20eeda6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — AMENDMENT OF THE NATIONAL HEALTH SERVICE SUPERANNUATION SCHEME (SCOTLAND) (ADDITIONAL VOLUNTARY CONTRIBUTIONS) REGULATIONS 1998
 
-**26.**[^key-b327aff45ae3ef2324c1e89b514c55aa] In regulation 10 (outward transfers) of the National Health Service Superannuation Scheme (Scotland) (Additional Voluntary Contributions) Regulations 1998[^f00012]—
+**26.**[^c-b327aff45ae3ef2324c1e89b514c55aa] In regulation 10 (outward transfers) of the National Health Service Superannuation Scheme (Scotland) (Additional Voluntary Contributions) Regulations 1998[^f00012]—
 
 - (a) for paragraph (1) substitute—
 
@@ -222,15 +222,15 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consu
 
 ## PART 5 — AMENDMENT OF THE NATIONAL HEALTH SERVICE (SCOTLAND) (INJURY BENEFITS) REGULATIONS 1998
 
-**27.**[^key-e2208a7290c145316a45eb711414549b] The National Health Service (Scotland) (Injury Benefits) Regulations 1998[^f00013] are amended in accordance with this Part.
+**27.**[^c-e2208a7290c145316a45eb711414549b] The National Health Service (Scotland) (Injury Benefits) Regulations 1998[^f00013] are amended in accordance with this Part.
 
-**28.**[^key-a69d272c1a82c11f6d2f450030b3658e] In regulation 2(1) (interpretation), for the definition of “section 17C agreement provider” substitute—
+**28.**[^c-a69d272c1a82c11f6d2f450030b3658e] In regulation 2(1) (interpretation), for the definition of “section 17C agreement provider” substitute—
 
 > - “section 17C agreement provider” has the same meaning as in the 2011 Regulations;
 
 .
 
-**29.**[^key-dab256e403e8ddfd446cd7f31a0711ff] In regulation 4 (scale of benefits)—
+**29.**[^c-dab256e403e8ddfd446cd7f31a0711ff] In regulation 4 (scale of benefits)—
 
 - (a) omit “and” at the end of paragraph (6)(a)(ii); and
 - (b) after paragraph (6)(a)(iii) insert—
@@ -243,7 +243,7 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consu
 
 ## PART 6 — MISCELLANEOUS
 
-### 30. Option to persons detrimentally affected by these Regulations[^key-7dc65953260cef39931424f7971e6593]
+### 30. Option to persons detrimentally affected by these Regulations[^c-7dc65953260cef39931424f7971e6593]
 
 (1) This regulation applies in relation to any benefit which is being paid or may become payable under the regulations amended by these Regulations to or in respect of a person who, having served in an employment or office, service in which qualified the person to participate in the benefits provided under the regulations amended by these Regulations, ceased to serve therein before the provisions of these Regulations, applying to the person, have effect.
 
@@ -326,25 +326,25 @@ Regulation 30 provides that certain persons who may be detrimentally affected by
 
 [^f00002]: Footnote: See the Superannuation Act 1972, section 10(1). This function was transferred to the Treasury by virtue of the Transfer of Functions (Minister for the Civil Service and Treasury) Order 1981 ([S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670)), article 2 and is still exercisable by virtue of [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), article 2 and Schedule 1.
 
-[^key-28f18a5133070772915bee04c19c48a8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2012/163/regulation/1) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+[^c-28f18a5133070772915bee04c19c48a8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2012/163/regulation/1) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
 
 [^f00003]: Footnote: Section 12(1) of the Superannuation Act 1972 provides that regulations may be framed so as to have effect from a date earlier than that of their making.
 
-[^key-9772e273deb128cc8d48ee85368b1aa4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2012/163/regulation/2) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+[^c-9772e273deb128cc8d48ee85368b1aa4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2012/163/regulation/2) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
 
 [^f00004]: Footnote: [S.S.I. 2011/117](https://www.legislation.gov.uk/ssi/2011/117), amended by [S.S.I. 2011/173](https://www.legislation.gov.uk/ssi/2011/173) and [364](https://www.legislation.gov.uk/ssi/2011/364) and [2012/69](https://www.legislation.gov.uk/ssi/2012/69).
 
-[^key-9b6a34fa62fe3479d55276554786bdf4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2012/163/regulation/3) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+[^c-9b6a34fa62fe3479d55276554786bdf4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2012/163/regulation/3) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
 
-[^key-59bab5ab5bdb95e5d55fdf4af82dfa26]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2012/163/regulation/4) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+[^c-59bab5ab5bdb95e5d55fdf4af82dfa26]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2012/163/regulation/4) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
 
-[^key-bf27c933fac8b2b82df1b714ab9a19c0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2012/163/regulation/5) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+[^c-bf27c933fac8b2b82df1b714ab9a19c0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2012/163/regulation/5) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
 
 [^f00005]: Footnote: [1984 c.8](https://www.legislation.gov.uk/ukpga/1984/8) (Tynwald).
 
-[^key-e3ca9a44e786550858c80ce9550652f4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2012/163/regulation/6) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+[^c-e3ca9a44e786550858c80ce9550652f4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2012/163/regulation/6) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
 
-[^key-7359007eb57aec67cfe27f301147cbf9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2012/163/regulation/7) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+[^c-7359007eb57aec67cfe27f301147cbf9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2012/163/regulation/7) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
 
 [^f00006]: Footnote: [2011 c.11](https://www.legislation.gov.uk/ukpga/2011/11).
 
@@ -352,26 +352,26 @@ Regulation 30 provides that certain persons who may be detrimentally affected by
 
 [^f00008]: Footnote: [S.I. 2006/567](https://www.legislation.gov.uk/uksi/2006/567), amended by [S.I. 2006/1961](https://www.legislation.gov.uk/uksi/2006/1961) and [2004](https://www.legislation.gov.uk/uksi/2006/2004), [2008/720](https://www.legislation.gov.uk/uksi/2008/720), [2010/581](https://www.legislation.gov.uk/uksi/2010/581), [2011/301](https://www.legislation.gov.uk/uksi/2011/301) and [1797](https://www.legislation.gov.uk/uksi/2011/1797) and [2012/884](https://www.legislation.gov.uk/uksi/2012/884).
 
-[^key-5dc4852f21be2f9604d4c865c9a5f542]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2012/163/regulation/8) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+[^c-5dc4852f21be2f9604d4c865c9a5f542]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2012/163/regulation/8) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171), amended by [S.I. 2011/1751](https://www.legislation.gov.uk/uksi/2011/1751) and [2012/522](https://www.legislation.gov.uk/uksi/2012/522).
 
-[^key-97f633da568ee9cf32ea7aea9989b32f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2012/163/regulation/9) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+[^c-97f633da568ee9cf32ea7aea9989b32f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2012/163/regulation/9) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
 
-[^key-cf2620580f2c149a731d382f465902d8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2012/163/regulation/10) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+[^c-cf2620580f2c149a731d382f465902d8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2012/163/regulation/10) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
 
-[^key-2af5937a4c568714bd636c3df20eeda6]: Textual amendment: [Regs. 11-25](https://www.legislation.gov.uk/ssi/2012/163/regulation/11) revoked (1.7.2013) by [The National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013 (S.S.I. 2013/174)](https://www.legislation.gov.uk/ssi/2013/174), [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2013/174/regulation/1.A.01/2), [sch.](https://www.legislation.gov.uk/ssi/2013/174/schedule) (with [reg. 5.B.1(2)](https://www.legislation.gov.uk/ssi/2013/174/regulation/5.B.01/2))
+[^c-2af5937a4c568714bd636c3df20eeda6]: Textual amendment: [Regs. 11-25](https://www.legislation.gov.uk/ssi/2012/163/regulation/11) revoked (1.7.2013) by [The National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013 (S.S.I. 2013/174)](https://www.legislation.gov.uk/ssi/2013/174), [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2013/174/regulation/1.A.01/2), [sch.](https://www.legislation.gov.uk/ssi/2013/174/schedule) (with [reg. 5.B.1(2)](https://www.legislation.gov.uk/ssi/2013/174/regulation/5.B.01/2))
 
-[^key-b327aff45ae3ef2324c1e89b514c55aa]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2012/163/regulation/26) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+[^c-b327aff45ae3ef2324c1e89b514c55aa]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2012/163/regulation/26) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 1998/1451](https://www.legislation.gov.uk/uksi/1998/1451); relevant amending instruments are [S.S.I. 2004/62](https://www.legislation.gov.uk/ssi/2004/62) and [2006/307](https://www.legislation.gov.uk/ssi/2006/307).
 
-[^key-e2208a7290c145316a45eb711414549b]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2012/163/regulation/27) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+[^c-e2208a7290c145316a45eb711414549b]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2012/163/regulation/27) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 1998/1594](https://www.legislation.gov.uk/uksi/1998/1594); relevant amending instruments are [S.S.I. 2005/512](https://www.legislation.gov.uk/ssi/2005/512), [2009/19](https://www.legislation.gov.uk/ssi/2009/19) and [2011/364](https://www.legislation.gov.uk/ssi/2011/364).
 
-[^key-a69d272c1a82c11f6d2f450030b3658e]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2012/163/regulation/28) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+[^c-a69d272c1a82c11f6d2f450030b3658e]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2012/163/regulation/28) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
 
-[^key-dab256e403e8ddfd446cd7f31a0711ff]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2012/163/regulation/29) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+[^c-dab256e403e8ddfd446cd7f31a0711ff]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2012/163/regulation/29) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
 
-[^key-7dc65953260cef39931424f7971e6593]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2012/163/regulation/30) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+[^c-7dc65953260cef39931424f7971e6593]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2012/163/regulation/30) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)

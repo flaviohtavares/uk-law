@@ -24,7 +24,7 @@ summary: ''
 
 (introduced by section 104)
 
-### 1. Duty to carry out periodic reviews of minerals permissions[^key-cf8450f4d9e8501339105e4f30d0dda0]
+### 1. Duty to carry out periodic reviews of minerals permissions[^c-cf8450f4d9e8501339105e4f30d0dda0]
 
 (1) A planning authority must cause periodic reviews to be carried out in accordance with this Schedule of the minerals permissions relating to each mining site in its area.
 
@@ -35,7 +35,7 @@ summary: ''
 
 (3) In deciding whether the land to which two or more minerals permissions relate should be treated as a single site, a planning authority must have regard to any relevant guidance issued by the Welsh Ministers.
 
-### 2. First review date[^key-df053f328e1229077bb392f9e3cf9e79]
+### 2. First review date[^c-df053f328e1229077bb392f9e3cf9e79]
 
 (1) This paragraph determines the review date for the first periodic review of the minerals permissions relating to a mining site (subject to the power to postpone the review date under paragraph 6).
 
@@ -74,17 +74,17 @@ TABLE 3
 - (b) in relation to conditions determined on an application under paragraph 9 of Schedule 13 to the Environment Act 1995, by paragraph 1(7) of that Schedule;
 - (c) in relation to conditions determined on an application under paragraph 1(1)(a) or (b) of Schedule 8 to this Act, by paragraph 5(2) of that Schedule.
 
-### 3. Later review dates[^key-64ada4d56921f6f116bc1c224224a05c]
+### 3. Later review dates[^c-64ada4d56921f6f116bc1c224224a05c]
 
 (1) This paragraph determines the review date for the second and subsequent periodic reviews of the minerals permissions relating to a mining site (subject to the power to postpone the review date under paragraph 6).
 
 (2) The review date is the date 15 years after the day the most recent application under paragraph 7 in respect of the site was finally determined (see paragraph 12).
 
-### 4. Application of provisions of this Schedule[^key-6ca92fcd5f519dae428bed3fc26ae201]
+### 4. Application of provisions of this Schedule[^c-6ca92fcd5f519dae428bed3fc26ae201]
 
 The remaining provisions of this Schedule apply for the purposes of each periodic review of the minerals permissions relating to a mining site.
 
-### 5. Notice of periodic review[^key-80f2abc9ba9a8ad3e0037ab5eae4b76d]
+### 5. Notice of periodic review[^c-80f2abc9ba9a8ad3e0037ab5eae4b76d]
 
 (1) At least 12 months before the review date for the mining site, the planning authority must serve notice on each person the authority considers to be an interested person.
 
@@ -111,7 +111,7 @@ The remaining provisions of this Schedule apply for the purposes of each periodi
 
 (7) Where regulations are made under sub-paragraph (6), section 399 does not apply.
 
-### 6. Application to postpone review date[^key-125afc86c26751f5a1d671bb2d5cf8d9]
+### 6. Application to postpone review date[^c-125afc86c26751f5a1d671bb2d5cf8d9]
 
 (1) An interested person who considers that the conditions of the minerals permissions relating to the mining site are satisfactory may apply to the planning authority to postpone the review date.
 
@@ -142,7 +142,7 @@ The remaining provisions of this Schedule apply for the purposes of each periodi
 - (a) allowed the application, and
 - (b) determined that the new review date is the date proposed in the application.
 
-### 7. Application to determine conditions of minerals permission[^key-050d31099e1c901d1a439f493624509b]
+### 7. Application to determine conditions of minerals permission[^c-050d31099e1c901d1a439f493624509b]
 
 (1) An interested person may apply to the planning authority to determine the conditions to which the minerals permissions relating to the mining site are to be subject.
 
@@ -156,7 +156,7 @@ The remaining provisions of this Schedule apply for the purposes of each periodi
 
 (3) Where regulations make provision under section 58 that would apply to an application for a minerals permission, the provision applies to an application under this paragraph with any necessary modifications.
 
-### 8. Termination of permission if no application is made[^key-2f1d0d04b21948e3ce72810e30a62215]
+### 8. Termination of permission if no application is made[^c-2f1d0d04b21948e3ce72810e30a62215]
 
 (1) This paragraph applies if—
 
@@ -165,7 +165,7 @@ The remaining provisions of this Schedule apply for the purposes of each periodi
 
 (2) Each minerals permission that relates to the site and is identified in the notice ceases to have effect, except so far as it imposes a restoration condition or an aftercare condition, at the end of the review date or later agreed date.
 
-### 9. Dealing with an application[^key-6454ee9d3a6cadff02554d9156b43f5a]
+### 9. Dealing with an application[^c-6454ee9d3a6cadff02554d9156b43f5a]
 
 (1) Where a planning authority receives an application under paragraph 7, the authority must—
 
@@ -199,7 +199,7 @@ that it is reasonable for the authority to request.
 
 (9) Regulations may make provision imposing requirements on planning authorities relating to publicity for applications under paragraph 7.
 
-### 10. Reference of applications to the Welsh Ministers[^key-5eda4c55a17fea4e786fdb988e20a8aa]
+### 10. Reference of applications to the Welsh Ministers[^c-5eda4c55a17fea4e786fdb988e20a8aa]
 
 (1) The Welsh Ministers may direct a planning authority to refer an application made to the authority under paragraph 7 to them for determination instead of dealing with the application itself.
 
@@ -218,7 +218,7 @@ that it is reasonable for the authority to request.
 
 (7) The decision of the Welsh Ministers on the application is final.
 
-### 11. Right to appeal against determination of application[^key-4e86135b6ba20871d85ff1da74f8ca9d]
+### 11. Right to appeal against determination of application[^c-4e86135b6ba20871d85ff1da74f8ca9d]
 
 (1) Where on an application under paragraph 7 a planning authority determines conditions that differ in any respect from the conditions proposed in the application, the applicant may appeal to the Welsh Ministers.
 
@@ -247,7 +247,7 @@ and may deal with the application as if it had been made to them in the first in
 
 (8) The decision of the Welsh Ministers on the appeal is final.
 
-### 12. Time when conditions of permission take effect[^key-7664afacdbba9c8000049f3c34a42455]
+### 12. Time when conditions of permission take effect[^c-7664afacdbba9c8000049f3c34a42455]
 
 (1) Where an application has been made under paragraph 7 in respect of a mining site, each of the minerals permissions relating to the site has effect subject to the conditions determined under this Schedule from the time when the application is finally determined.
 
@@ -259,11 +259,11 @@ and may deal with the application as if it had been made to them in the first in
   - (ii) any appeal under paragraph 11, and any proceedings under section 376 for questioning a decision of the Welsh Ministers on the application or on an appeal, have been determined or withdrawn, and
   - (iii) any period for appealing under paragraph 11, or for applying under section 376 for permission to apply for statutory review of a decision of the Welsh Ministers on the application or on an appeal, has ended.
 
-### 13. Applications made electronically[^key-8ca0612bbacfe1567fee14bf5c432551]
+### 13. Applications made electronically[^c-8ca0612bbacfe1567fee14bf5c432551]
 
 Regulations may make provision about the use of electronic communications in connection with applications under paragraph 6 or 7.
 
-### 14. Two or more applications[^key-c9f7e78a505b6766c63776e82f99ad60]
+### 14. Two or more applications[^c-c9f7e78a505b6766c63776e82f99ad60]
 
 (1) This paragraph applies where a planning authority has received an application under paragraph 6 or 7 in respect of a mining site.
 
@@ -278,7 +278,7 @@ Regulations may make provision about the use of electronic communications in con
 - (a) as if they were a single application made to the planning authority on the day it received the later application;
 - (b) as if references to the applicant were references to each of the applicants.
 
-### 15. Interpretation[^key-42cb064bf0e0c95642d57fa1bc78aa04]
+### 15. Interpretation[^c-42cb064bf0e0c95642d57fa1bc78aa04]
 
 In this Schedule—
 
@@ -293,32 +293,32 @@ In this Schedule—
 
 ## Annotations
 
-[^key-cf8450f4d9e8501339105e4f30d0dda0]: Commencement: Sch. 9 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-cf8450f4d9e8501339105e4f30d0dda0]: Commencement: Sch. 9 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-df053f328e1229077bb392f9e3cf9e79]: Commencement: Sch. 9 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-df053f328e1229077bb392f9e3cf9e79]: Commencement: Sch. 9 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-64ada4d56921f6f116bc1c224224a05c]: Commencement: Sch. 9 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-64ada4d56921f6f116bc1c224224a05c]: Commencement: Sch. 9 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-6ca92fcd5f519dae428bed3fc26ae201]: Commencement: Sch. 9 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-6ca92fcd5f519dae428bed3fc26ae201]: Commencement: Sch. 9 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-80f2abc9ba9a8ad3e0037ab5eae4b76d]: Commencement: Sch. 9 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-80f2abc9ba9a8ad3e0037ab5eae4b76d]: Commencement: Sch. 9 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-125afc86c26751f5a1d671bb2d5cf8d9]: Commencement: Sch. 9 para. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-125afc86c26751f5a1d671bb2d5cf8d9]: Commencement: Sch. 9 para. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-050d31099e1c901d1a439f493624509b]: Commencement: Sch. 9 para. 7 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-050d31099e1c901d1a439f493624509b]: Commencement: Sch. 9 para. 7 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-2f1d0d04b21948e3ce72810e30a62215]: Commencement: Sch. 9 para. 8 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-2f1d0d04b21948e3ce72810e30a62215]: Commencement: Sch. 9 para. 8 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-6454ee9d3a6cadff02554d9156b43f5a]: Commencement: Sch. 9 para. 9 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-6454ee9d3a6cadff02554d9156b43f5a]: Commencement: Sch. 9 para. 9 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-5eda4c55a17fea4e786fdb988e20a8aa]: Commencement: Sch. 9 para. 10 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-5eda4c55a17fea4e786fdb988e20a8aa]: Commencement: Sch. 9 para. 10 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-4e86135b6ba20871d85ff1da74f8ca9d]: Commencement: Sch. 9 para. 11 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4e86135b6ba20871d85ff1da74f8ca9d]: Commencement: Sch. 9 para. 11 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-7664afacdbba9c8000049f3c34a42455]: Commencement: Sch. 9 para. 12 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-7664afacdbba9c8000049f3c34a42455]: Commencement: Sch. 9 para. 12 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-8ca0612bbacfe1567fee14bf5c432551]: Commencement: Sch. 9 para. 13 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-8ca0612bbacfe1567fee14bf5c432551]: Commencement: Sch. 9 para. 13 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-c9f7e78a505b6766c63776e82f99ad60]: Commencement: Sch. 9 para. 14 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-c9f7e78a505b6766c63776e82f99ad60]: Commencement: Sch. 9 para. 14 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-42cb064bf0e0c95642d57fa1bc78aa04]: Commencement: Sch. 9 para. 15 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-42cb064bf0e0c95642d57fa1bc78aa04]: Commencement: Sch. 9 para. 15 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

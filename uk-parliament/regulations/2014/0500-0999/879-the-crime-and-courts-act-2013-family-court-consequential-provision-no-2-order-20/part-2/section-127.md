@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**127.**[^key-049b1af64182dc6e629f3088203f2b99] In paragraph 1(3), for “local justice area (or, in Northern Ireland, the same petty sessions district)” substitute “petty sessions district in Northern Ireland”.
+**127.**[^c-049b1af64182dc6e629f3088203f2b99] In paragraph 1(3), for “local justice area (or, in Northern Ireland, the same petty sessions district)” substitute “petty sessions district in Northern Ireland”.
 
 ## Annotations
 
-[^key-049b1af64182dc6e629f3088203f2b99]: Commencement: Art. 127 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-049b1af64182dc6e629f3088203f2b99]: Commencement: Art. 127 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

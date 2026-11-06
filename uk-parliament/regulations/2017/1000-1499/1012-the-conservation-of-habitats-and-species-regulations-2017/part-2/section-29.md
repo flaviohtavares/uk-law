@@ -43,14 +43,14 @@ by notice in writing to the appropriate nature conservation body require it to r
 (6) Where the site concerned hosts a priority natural habitat type or a priority species, the reasons referred to in paragraph (5) must be either—
 
 - (a) reasons relating to human health, public safety or beneficial consequences of primary importance to the environment; or
-- (b) any other reasons which the appropriate authority [^key-d207518b31858000a6c2ee72ec0ca8cb]... considers to be imperative reasons of overriding public interest.
+- (b) any other reasons which the appropriate authority [^c-d207518b31858000a6c2ee72ec0ca8cb]... considers to be imperative reasons of overriding public interest.
 
 (7) Where the appropriate authority directs the appropriate nature conservation body to give consent under paragraph (5), the appropriate authority must secure that such compensatory measures are taken as are necessary to ensure that the overall coherence of Natura 2000 is protected.
 
-(8)[^key-ed3a2dbe79533db43ffec38f7518d59e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-ed3a2dbe79533db43ffec38f7518d59e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d207518b31858000a6c2ee72ec0ca8cb]: Textual amendment: Words in [reg. 29(6)(b)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/29/6/b) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2019/579/regulation/16/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d207518b31858000a6c2ee72ec0ca8cb]: Textual amendment: Words in [reg. 29(6)(b)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/29/6/b) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2019/579/regulation/16/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ed3a2dbe79533db43ffec38f7518d59e]: Textual amendment: [Reg. 29(8)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/29/8) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [16(3)](https://www.legislation.gov.uk/uksi/2019/579/regulation/16/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ed3a2dbe79533db43ffec38f7518d59e]: Textual amendment: [Reg. 29(8)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/29/8) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [16(3)](https://www.legislation.gov.uk/uksi/2019/579/regulation/16/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

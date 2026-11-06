@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Registrar’s power to confirm dissolution of limited partnership[^key-b53631b071319e5296f43bc7958e5ca2]
+## 141. Registrar’s power to confirm dissolution of limited partnership[^c-b53631b071319e5296f43bc7958e5ca2]
 
 *Extent: E+W+S+N.I.*
 
@@ -171,4 +171,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b53631b071319e5296f43bc7958e5ca2]: Commencement: S. 141 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-b53631b071319e5296f43bc7958e5ca2]: Commencement: S. 141 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

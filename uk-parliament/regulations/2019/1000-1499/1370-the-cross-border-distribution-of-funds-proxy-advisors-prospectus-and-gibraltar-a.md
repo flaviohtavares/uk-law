@@ -46,13 +46,13 @@ at 4.00 p.m. on 22nd October 2019
 
 Coming into force in accordance with regulation 1
 
-The Treasury, in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018[^f00001], make the following Regulations.[^key-1f3346f6453aec39f96f69d762245640]
+The Treasury, in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018[^f00001], make the following Regulations.[^c-1f3346f6453aec39f96f69d762245640]
 
-The Treasury are of the opinion that, by reason of urgency, it is necessary to make these Regulations without a draft of the instrument being laid before, and approved by a resolution of, each House of Parliament[^f00002].[^key-1f3346f6453aec39f96f69d762245640]
+The Treasury are of the opinion that, by reason of urgency, it is necessary to make these Regulations without a draft of the instrument being laid before, and approved by a resolution of, each House of Parliament[^f00002].[^c-1f3346f6453aec39f96f69d762245640]
 
 ## PART 1 — General provision
 
-### 1. Citation and commencement[^key-06446270fc5d3e20ad77953e6fd4c0c6]
+### 1. Citation and commencement[^c-06446270fc5d3e20ad77953e6fd4c0c6]
 
 (1) These Regulations may be cited as the Cross-Border Distribution of Funds, Proxy Advisors, Prospectus and Gibraltar (Amendment) (EU Exit) Regulations 2019.
 
@@ -62,11 +62,11 @@ The Treasury are of the opinion that, by reason of urgency, it is necessary to m
 
 ## PART 2 — Amendment of secondary legislation
 
-### 2. Amendment of the Packaged Retail and Insurance-based Investment Products (Amendment) (EU Exit) Regulations 2019[^key-4c271245d25c983964cfbcea9190cf25]
+### 2. Amendment of the Packaged Retail and Insurance-based Investment Products (Amendment) (EU Exit) Regulations 2019[^c-4c271245d25c983964cfbcea9190cf25]
 
 In regulation 12(2)(a) (substitution of Article 32(1)) of the Packaged Retail and Insurance-based Investment Products (Amendment) (EU Exit) Regulations 2019[^f00003], for “31 December 2019” substitute “31 December 2021”.
 
-### 3. Amendment of the Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-89068cd6eecb2b70990311b4f60c230a]
+### 3. Amendment of the Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-89068cd6eecb2b70990311b4f60c230a]
 
 In regulation 11(5) (saving for certain financial services legislation relating to Gibraltar) of the Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019[^f00004], after sub-paragraph (z2)[^f00005] insert—
 
@@ -75,11 +75,11 @@ In regulation 11(5) (saving for certain financial services legislation relating 
 
 .
 
-### 4. Amendment of the Official Listing of Securities, Prospectus and Transparency (Amendment etc.) (EU Exit) Regulations 2019[^key-57a28f01ce45b7dfdc0eeea40fbce4bf]
+### 4. Amendment of the Official Listing of Securities, Prospectus and Transparency (Amendment etc.) (EU Exit) Regulations 2019[^c-57a28f01ce45b7dfdc0eeea40fbce4bf]
 
 In regulation 69 (amendment of European Parliament and Council Regulation (EU) 2017/1129) of the Official Listing of Securities, Prospectus and Transparency (Amendment etc.) (EU Exit) Regulations 2019[^f00006], for the words from “the following provisions are omitted” to the end substitute “, omit Article 3(2).”.
 
-### 5. Amendment of the Proxy Advisors (Shareholders’ Rights) Regulations 2019[^key-98b00758522f2f1b2a6f7a6e1033d83e]
+### 5. Amendment of the Proxy Advisors (Shareholders’ Rights) Regulations 2019[^c-98b00758522f2f1b2a6f7a6e1033d83e]
 
 (1) The Proxy Advisors (Shareholders’ Rights) Regulations 2019[^f00007] are amended as follows.
 
@@ -117,7 +117,7 @@ In regulation 69 (amendment of European Parliament and Council Regulation (EU) 2
 
 ## PART 3 — Amendment or revocation of retained direct EU legislation
 
-### 6. Amendment of Regulation (EU) No 2017/1129[^key-d3f7729d5ec9dfa5b60c0e511f0d0619]
+### 6. Amendment of Regulation (EU) No 2017/1129[^c-d3f7729d5ec9dfa5b60c0e511f0d0619]
 
 (1) Article 1 of Regulation (EU) No 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing [Directive 2003/71/EC](https://www.legislation.gov.uk/european/directive/2003/0071)[^f00011] is amended as follows.
 
@@ -148,7 +148,7 @@ In regulation 69 (amendment of European Parliament and Council Regulation (EU) 2
   - (ii) For “the Solvency Capital Requirement” substitute “the UK law which implemented the Solvency Capital Requirement”, and
   - (iii) For “the group solvency requirement” insert “the UK law which implemented the group solvency requirement”.
 
-### 7. Revocation of Regulation (EU) 2019/1156[^key-b81e29fc25b4892865ec6ca4f5b9fdae]
+### 7. Revocation of Regulation (EU) 2019/1156[^c-b81e29fc25b4892865ec6ca4f5b9fdae]
 
 (1) Regulation (EU) 2019/1156 of the European Parliament and of the Council of 20 June 2019 on facilitating cross-border distribution of collective investment undertakings and amending Regulations (EU) No 345/2013, (EU) No 346/2013 and (EU) No 1286/2014 (“the 2019 Regulation”) is revoked.
 
@@ -190,27 +190,27 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-1f3346f6453aec39f96f69d762245640]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-1f3346f6453aec39f96f69d762245640]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00002]: Footnote: Paragraph 5(2) of Schedule 7 to the European Union (Withdrawal) Act 2018.
 
-[^key-06446270fc5d3e20ad77953e6fd4c0c6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/1370/regulation/1) in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1 Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1370/regulation/1/2)
+[^c-06446270fc5d3e20ad77953e6fd4c0c6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/1370/regulation/1) in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1 Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1370/regulation/1/2)
 
-[^key-4c271245d25c983964cfbcea9190cf25]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/1370/regulation/2) in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1 Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1370/regulation/1/2)
+[^c-4c271245d25c983964cfbcea9190cf25]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/1370/regulation/2) in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1 Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1370/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2019/403](https://www.legislation.gov.uk/uksi/2019/403).
 
-[^key-89068cd6eecb2b70990311b4f60c230a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/1370/regulation/3) in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1 Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1370/regulation/1/2)
+[^c-89068cd6eecb2b70990311b4f60c230a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/1370/regulation/3) in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1 Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1370/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680).
 
 [^f00005]: Footnote: Subparagraph (z2) was inserted by regulation 29 of [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234).
 
-[^key-57a28f01ce45b7dfdc0eeea40fbce4bf]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/1370/regulation/4) in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1 Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1370/regulation/1/2)
+[^c-57a28f01ce45b7dfdc0eeea40fbce4bf]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/1370/regulation/4) in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1 Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1370/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2019/707](https://www.legislation.gov.uk/uksi/2019/707) has been amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234).
 
-[^key-98b00758522f2f1b2a6f7a6e1033d83e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/1370/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1 Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/1370/regulation/1)
+[^c-98b00758522f2f1b2a6f7a6e1033d83e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/1370/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1 Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/1370/regulation/1)
 
 [^f00007]: Footnote: [S.I. 2019/926](https://www.legislation.gov.uk/uksi/2019/926).
 
@@ -220,8 +220,8 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00010]: Footnote: Section 391(8) to (8E) are amended by [S.I. 2014/2879](https://www.legislation.gov.uk/uksi/2014/2879), [2016/680](https://www.legislation.gov.uk/uksi/2016/680), [2016/715](https://www.legislation.gov.uk/uksi/2016/715), [2017/1127](https://www.legislation.gov.uk/uksi/2017/1127) and [2019/632](https://www.legislation.gov.uk/uksi/2019/632).
 
-[^key-d3f7729d5ec9dfa5b60c0e511f0d0619]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/1370/regulation/6) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1 Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1370/regulation/1/3)
+[^c-d3f7729d5ec9dfa5b60c0e511f0d0619]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/1370/regulation/6) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1 Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1370/regulation/1/3)
 
 [^f00011]: Footnote: Relevant amending instruments are [S.I. 2019/707](https://www.legislation.gov.uk/uksi/2019/707) and [2019/1234](https://www.legislation.gov.uk/uksi/2019/1234).
 
-[^key-b81e29fc25b4892865ec6ca4f5b9fdae]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/1370/regulation/7) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1 Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1370/regulation/1/3)
+[^c-b81e29fc25b4892865ec6ca4f5b9fdae]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/1370/regulation/7) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1 Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1370/regulation/1/3)

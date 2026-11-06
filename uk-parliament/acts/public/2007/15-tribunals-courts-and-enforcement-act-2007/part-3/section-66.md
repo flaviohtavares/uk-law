@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Pre-commencement enforcement not affected[^key-b32de75543c354f81bbd5fbad8f37ee9]
+## 66. Pre-commencement enforcement not affected[^c-b32de75543c354f81bbd5fbad8f37ee9]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ this Part does not affect the continuing exercise of the power in relation to th
 
 ## Annotations
 
-[^key-b32de75543c354f81bbd5fbad8f37ee9]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2007/15/section/66) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-b32de75543c354f81bbd5fbad8f37ee9]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2007/15/section/66) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)

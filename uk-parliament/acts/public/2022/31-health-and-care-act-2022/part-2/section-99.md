@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Collection of information about adult social care[^key-950fe08acd61e0526b3eb1017eb3bea5][^key-bf3760308cc4ad460c40ee0ac65e0aca][^key-1f2ce312511e31b0601e050154410553]
+## 99. Collection of information about adult social care[^c-950fe08acd61e0526b3eb1017eb3bea5][^c-bf3760308cc4ad460c40ee0ac65e0aca][^c-1f2ce312511e31b0601e050154410553]
 
 *Extent: E+W*
 
@@ -101,8 +101,8 @@ In Part 9 of the Health and Social Care Act 2012, after section 277 insert—
 
 ## Annotations
 
-[^key-950fe08acd61e0526b3eb1017eb3bea5]: Commencement: S. 99 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-950fe08acd61e0526b3eb1017eb3bea5]: Commencement: S. 99 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-bf3760308cc4ad460c40ee0ac65e0aca]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2022/31/section/99) in force at 31.7.2022 for specified purposes by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 3](https://www.legislation.gov.uk/uksi/2022/734/regulation/3) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-bf3760308cc4ad460c40ee0ac65e0aca]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2022/31/section/99) in force at 31.7.2022 for specified purposes by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 3](https://www.legislation.gov.uk/uksi/2022/734/regulation/3) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-1f2ce312511e31b0601e050154410553]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2022/31/section/99) in force at 1.10.2022 for specified purposes by [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/2/b)
+[^c-1f2ce312511e31b0601e050154410553]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2022/31/section/99) in force at 1.10.2022 for specified purposes by [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/2/b)

@@ -42,16 +42,16 @@ A draft of these Regulations has been approved by a resolution of each House of 
 
 The Treasury make the following Regulations in exercise of the powers conferred on them by sections 262 and 428(3) of that Act:
 
-## 1. Citation and commencement[^key-ff91be3fb5df3d48365f02eb17ab880c]
+## 1. Citation and commencement[^c-ff91be3fb5df3d48365f02eb17ab880c]
 
 These Regulations may be cited as the Open-Ended Investment Companies (Amendment) Regulations 2011 and come into force on the day after the day on which they are made.
 
-## 2. Interpretation[^key-9af8399f0e31d163e5d12e478ae50b4e]
+## 2. Interpretation[^c-9af8399f0e31d163e5d12e478ae50b4e]
 
 In these Regulations—
 
 - “authorised corporate director” is the director referred to in regulation 15(6) of the Principal Regulations;
-- “Authority” has the meaning given in regulation 2(1) of the Principal Regulations;[^key-fd15e742e3a12d072c43f7fa890e0ab4]
+- “Authority” has the meaning given in regulation 2(1) of the Principal Regulations;[^c-fd15e742e3a12d072c43f7fa890e0ab4]
 - “contract of employment” means a contract of service, whether express or implied, and (if it is express) whether oral or in writing;
 - “employee” means an individual who has entered into or works under a contract of employment;
 - “existing umbrella company” means an umbrella company in respect of which an authorisation order has been made prior to the date these Regulations come into force;
@@ -59,7 +59,7 @@ In these Regulations—
 - “micro-business” has the meaning given in regulation 7;
 - “the Principal Regulations” means the Open-Ended Investment Companies Regulations 2001[^f00002].
 
-## 3. Amendment of the Principal Regulations[^key-0d27c996c92a8ebc0833ca92daaa9f41]
+## 3. Amendment of the Principal Regulations[^c-0d27c996c92a8ebc0833ca92daaa9f41]
 
 (1) The Principal Regulations are amended as follows.
 
@@ -133,7 +133,7 @@ In these Regulations—
 
 .
 
-## 4. Transitional provisions[^key-d756070ffc676c498ac6a56aae42cb36][^key-ffbf0e08d7c9ced6897c59ada51dd7b3]
+## 4. Transitional provisions[^c-d756070ffc676c498ac6a56aae42cb36][^c-ffbf0e08d7c9ced6897c59ada51dd7b3]
 
 (1) Save as provided in paragraph (5) and regulation 5, an umbrella company shall not enter into any agreement or contract after the date on which these Regulations come into force which is inconsistent with paragraphs (1) and (2) of regulation 11A of the Principal Regulations, and paragraph (3) of regulation 11A shall apply to any such agreement or contract.
 
@@ -141,7 +141,7 @@ In these Regulations—
 
 (3) Save as provided in regulation 6, the compliance period is the period of 2 years beginning with the date on which these Regulations come into force.
 
-(4) For the purposes of paragraph (3) and save in relation to micro-businesses, upon receipt of a written request by an existing umbrella company made within the compliance period but prior to the expiry of a period of 23 months from the date on which these Regulations come into force, the Authority may, having regard to its operational objectives (within the meaning of section 1B(3) of the Financial Services and Markets Act 2000)[^key-5fdb882088a522e02a36c66556c39f73], extend the compliance period in relation to that umbrella company for a further period not exceeding one year beginning with the date on which the compliance period calculated in accordance with paragraph (3) ends.
+(4) For the purposes of paragraph (3) and save in relation to micro-businesses, upon receipt of a written request by an existing umbrella company made within the compliance period but prior to the expiry of a period of 23 months from the date on which these Regulations come into force, the Authority may, having regard to its operational objectives (within the meaning of section 1B(3) of the Financial Services and Markets Act 2000)[^c-5fdb882088a522e02a36c66556c39f73], extend the compliance period in relation to that umbrella company for a further period not exceeding one year beginning with the date on which the compliance period calculated in accordance with paragraph (3) ends.
 
 (5) Notwithstanding paragraph (1), an existing umbrella company may, during its compliance period, continue to enter into transactions or contracts subject to a master agreement provided that such master agreement was in force prior to the date on which these Regulations come into force.
 
@@ -157,24 +157,24 @@ In these Regulations—
 
 (11) An umbrella company which contravenes any provision of this regulation is to be treated for the purposes of Part 5 of the Principal Regulations as having contravened a provision of those Regulations.
 
-## 5. Further transitional provisions for micro-businesses[^key-6e3b37b974e85ea19e9e2ea822020da0]
+## 5. Further transitional provisions for micro-businesses[^c-6e3b37b974e85ea19e9e2ea822020da0]
 
 Save as provided in regulation 10, regulations 11A and 33C of and paragraph 2(ba) of Schedule 2 to the Principal Regulations shall not apply in relation to a micro-business during the compliance period.
 
-## 6. The compliance period for micro-businesses[^key-a209ca4f314ebc9c59cb01731750c597]
+## 6. The compliance period for micro-businesses[^c-a209ca4f314ebc9c59cb01731750c597]
 
 (1) The compliance period for micro-businesses is the period of 3 years beginning with the date on which these Regulations come into force.
 
 (2) After the end of the compliance period described in paragraph (1) and for the purposes of regulation 4, a micro-business shall be treated as an existing umbrella company in relation to which the compliance period described in regulation 4(3) has ended.
 
-## 7. Definition of a micro-business[^key-c33bfb3f33bfddf10fc04fe3e993cbb0]
+## 7. Definition of a micro-business[^c-c33bfb3f33bfddf10fc04fe3e993cbb0]
 
 A micro-business means—
 
 - (a) an existing umbrella company the authorised corporate director of which has fewer than 10 employees, or which does not have an authorised corporate director, on the date on which these Regulations come into force; or
 - (b) an umbrella company in respect of which an authorisation order is made during the period beginning on the date on which these Regulations come into force and ending three years after that date, the authorised corporate director of which has fewer than 10 employees or which does not have an authorised corporate director on the date on which the authorisation order is made.
 
-## 8. Number of employees of an authorised corporate director[^key-10d7c4add35f2242bb210077c7ffe8dc]
+## 8. Number of employees of an authorised corporate director[^c-10d7c4add35f2242bb210077c7ffe8dc]
 
 For the purposes of these Regulations, the number of employees of an authorised corporate director is calculated as follows—
 
@@ -182,11 +182,11 @@ For the purposes of these Regulations, the number of employees of an authorised 
 
 where TH is the total number of hours per week for which all the employees of the authorised corporate director are contracted to work.
 
-## 9. Employees of an authorised corporate director[^key-6c37bc860e5436a294cfb027e4682dc1]
+## 9. Employees of an authorised corporate director[^c-6c37bc860e5436a294cfb027e4682dc1]
 
 For the purposes of these Regulations, the employees of an authorised corporate director are the persons who are employed for the purposes of the authorised corporate director.
 
-## 10. Voluntary compliance by micro-businesses[^key-1ca010ef184ffed985d8431463786b74][^key-b09817b847075bfb17d755e57703d3b0]
+## 10. Voluntary compliance by micro-businesses[^c-1ca010ef184ffed985d8431463786b74][^c-b09817b847075bfb17d755e57703d3b0]
 
 (1) Nothing in these Regulations shall prevent—
 
@@ -233,36 +233,36 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-ff91be3fb5df3d48365f02eb17ab880c]: Commencement: Reg. 1 in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1)
+[^c-ff91be3fb5df3d48365f02eb17ab880c]: Commencement: Reg. 1 in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1)
 
-[^key-9af8399f0e31d163e5d12e478ae50b4e]: Commencement: Reg. 2 in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1)
+[^c-9af8399f0e31d163e5d12e478ae50b4e]: Commencement: Reg. 2 in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1)
 
-[^key-fd15e742e3a12d072c43f7fa890e0ab4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2011/3049/regulation/2) inserted (19.12.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No.4) Order 2013 (S.I. 2013/2984)](https://www.legislation.gov.uk/uksi/2013/2984), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2984/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/2984/article/2/2)
+[^c-fd15e742e3a12d072c43f7fa890e0ab4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2011/3049/regulation/2) inserted (19.12.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No.4) Order 2013 (S.I. 2013/2984)](https://www.legislation.gov.uk/uksi/2013/2984), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2984/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/2984/article/2/2)
 
 [^f00002]: Footnote: [S.I. 2001/1228](https://www.legislation.gov.uk/uksi/2001/1228), to which there are amendments not relevant to these Regulations.
 
-[^key-0d27c996c92a8ebc0833ca92daaa9f41]: Commencement: Reg. 3 in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1)
+[^c-0d27c996c92a8ebc0833ca92daaa9f41]: Commencement: Reg. 3 in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1)
 
 [^f00003]: Footnote: Regulation 11 was revoked by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22).
 
 [^f00004]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-d756070ffc676c498ac6a56aae42cb36]: Commencement: Reg. 4 in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1)
+[^c-d756070ffc676c498ac6a56aae42cb36]: Commencement: Reg. 4 in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1)
 
-[^key-ffbf0e08d7c9ced6897c59ada51dd7b3]: Modification: [Reg. 4](https://www.legislation.gov.uk/uksi/2011/3049/regulation/4) modified (19.12.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No.4) Order 2013 (S.I. 2013/2984)](https://www.legislation.gov.uk/uksi/2013/2984), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2984/article/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/2984/article/3/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2013/2984/article/3/2/a) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2013/2984/article/3/3))
+[^c-ffbf0e08d7c9ced6897c59ada51dd7b3]: Modification: [Reg. 4](https://www.legislation.gov.uk/uksi/2011/3049/regulation/4) modified (19.12.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No.4) Order 2013 (S.I. 2013/2984)](https://www.legislation.gov.uk/uksi/2013/2984), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2984/article/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/2984/article/3/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2013/2984/article/3/2/a) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2013/2984/article/3/3))
 
-[^key-5fdb882088a522e02a36c66556c39f73]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2011/3049/regulation/4/4) substituted (19.12.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No.4) Order 2013 (S.I. 2013/2984)](https://www.legislation.gov.uk/uksi/2013/2984), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2984/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/2984/article/2/3)
+[^c-5fdb882088a522e02a36c66556c39f73]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2011/3049/regulation/4/4) substituted (19.12.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No.4) Order 2013 (S.I. 2013/2984)](https://www.legislation.gov.uk/uksi/2013/2984), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2984/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/2984/article/2/3)
 
-[^key-6e3b37b974e85ea19e9e2ea822020da0]: Commencement: Reg. 5 in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1)
+[^c-6e3b37b974e85ea19e9e2ea822020da0]: Commencement: Reg. 5 in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1)
 
-[^key-a209ca4f314ebc9c59cb01731750c597]: Commencement: Reg. 6 in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1)
+[^c-a209ca4f314ebc9c59cb01731750c597]: Commencement: Reg. 6 in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1)
 
-[^key-c33bfb3f33bfddf10fc04fe3e993cbb0]: Commencement: Reg. 7 in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1)
+[^c-c33bfb3f33bfddf10fc04fe3e993cbb0]: Commencement: Reg. 7 in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1)
 
-[^key-10d7c4add35f2242bb210077c7ffe8dc]: Commencement: Reg. 8 in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1)
+[^c-10d7c4add35f2242bb210077c7ffe8dc]: Commencement: Reg. 8 in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1)
 
-[^key-6c37bc860e5436a294cfb027e4682dc1]: Commencement: Reg. 9 in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1)
+[^c-6c37bc860e5436a294cfb027e4682dc1]: Commencement: Reg. 9 in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1)
 
-[^key-1ca010ef184ffed985d8431463786b74]: Commencement: Reg. 10 in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1)
+[^c-1ca010ef184ffed985d8431463786b74]: Commencement: Reg. 10 in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1)
 
-[^key-b09817b847075bfb17d755e57703d3b0]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/2011/3049/regulation/10) modified (19.12.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No.4) Order 2013 (S.I. 2013/2984)](https://www.legislation.gov.uk/uksi/2013/2984), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2984/article/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/2984/article/3/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2013/2984/article/3/2/b) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2013/2984/article/3/3))
+[^c-b09817b847075bfb17d755e57703d3b0]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/2011/3049/regulation/10) modified (19.12.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No.4) Order 2013 (S.I. 2013/2984)](https://www.legislation.gov.uk/uksi/2013/2984), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2984/article/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/2984/article/3/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2013/2984/article/3/2/b) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2013/2984/article/3/3))

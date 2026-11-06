@@ -24,11 +24,11 @@ Section 316
 
 ### Part 1 — Dumping and subsidisation remedies
 
-#### 1. Introduction[^M_I_bc2d75bf-f91b-41f4-971a-4badf8afd391][^key-fb6cd85671e0ea5fd66114f64b43e551]
+#### 1. Introduction[^M_I_bc2d75bf-f91b-41f4-971a-4badf8afd391][^c-fb6cd85671e0ea5fd66114f64b43e551]
 
 Schedule 4 to TCTA 2018 (dumping of goods or foreign subsidies causing injury to UK industry) is amended as follows.
 
-#### 2. Notification etc[^M_I_0bc13175-d146-4d6e-c52f-660b3011f98f][^key-df897132555cd29ebb98f852337c473c]
+#### 2. Notification etc[^M_I_0bc13175-d146-4d6e-c52f-660b3011f98f][^c-df897132555cd29ebb98f852337c473c]
 
 (1) In paragraph 9 (initiation of a dumping or subsidisation investigation)—
 
@@ -94,7 +94,7 @@ Schedule 4 to TCTA 2018 (dumping of goods or foreign subsidies causing injury to
 >
 > (7) For the purposes of this paragraph, the relevant period is the period of 21 days beginning with the day on which the TRA notifies the Secretary of State that it proposes to make the determination.
 
-#### 3. Provisional remedies[^M_I_9980fb4c-3887-4f58-fca6-487c1d719dab][^key-43f5dddbc4b158d2a8d098cb09b3cc50]
+#### 3. Provisional remedies[^M_I_9980fb4c-3887-4f58-fca6-487c1d719dab][^c-43f5dddbc4b158d2a8d098cb09b3cc50]
 
 (1) In paragraph 13 (TRA’s duty to recommend requiring guarantees)—
 
@@ -124,7 +124,7 @@ Schedule 4 to TCTA 2018 (dumping of goods or foreign subsidies causing injury to
   ;
 - (c) in sub-paragraph (4), after “rejected” insert “and the Secretary of State does not make a decision under sub-paragraph (3B)“.
 
-#### 4. Definitive remedies[^M_I_21ea6fa3-1322-4e90-9cd6-8d6c44b97926][^key-a72f834bbc579169e15ad72562187218]
+#### 4. Definitive remedies[^M_I_21ea6fa3-1322-4e90-9cd6-8d6c44b97926][^c-a72f834bbc579169e15ad72562187218]
 
 (1) In paragraph 17 (TRA’s duty to recommend an anti-dumping amount or countervailing amount)—
 
@@ -219,7 +219,7 @@ Schedule 4 to TCTA 2018 (dumping of goods or foreign subsidies causing injury to
 > - (c) must lay a statement before the House of Commons setting out the reasons for making the decision, and
 > - (d) is required under section 13 to make provision by public notice to give effect to the decision.
 
-#### 5. Reviews etc[^M_I_3dc979c3-a0bd-4614-d1e6-22a56f03df0a][^key-c5ded84713998d1f1707a83f6ad3aa83]
+#### 5. Reviews etc[^M_I_3dc979c3-a0bd-4614-d1e6-22a56f03df0a][^c-c5ded84713998d1f1707a83f6ad3aa83]
 
 (1) In paragraph 21 (reviews of continuing application of an anti-dumping amount or a countervailing amount)—
 
@@ -289,7 +289,7 @@ Schedule 4 to TCTA 2018 (dumping of goods or foreign subsidies causing injury to
   - (ii) in paragraph (a), for “recommendation and of the acceptance of it” substitute “decision”;
   - (iii) in paragraph (c), for “recommendation” substitute “decision”.
 
-#### 6. Revocation in the public interest[^M_I_bab115b5-14a0-4edd-be3b-9fb0ac789741][^key-a9873fcf7db0ee2bf75f35232a99899e]
+#### 6. Revocation in the public interest[^M_I_bab115b5-14a0-4edd-be3b-9fb0ac789741][^c-a9873fcf7db0ee2bf75f35232a99899e]
 
 After paragraph 22 insert—
 
@@ -306,7 +306,7 @@ After paragraph 22 insert—
 > - (c) must lay a statement before the House of Commons setting out the reasons for making the decision, and
 > - (d) is required under section 13 to make provision by public notice to give effect to the decision.
 
-#### 7. Power to request assistance etc[^M_I_b81096e1-9663-44b2-988d-8b076cdc0e78][^key-962a063737f2c2be34fc0a7128833296]
+#### 7. Power to request assistance etc[^M_I_b81096e1-9663-44b2-988d-8b076cdc0e78][^c-962a063737f2c2be34fc0a7128833296]
 
 After paragraph 22A (as inserted by paragraph 6) insert—
 
@@ -326,11 +326,11 @@ After paragraph 22A (as inserted by paragraph 6) insert—
 
 ### Part 2 — Safeguarding remedies
 
-#### 8. Introduction[^M_I_62fa4f0e-443f-4945-ae2a-700ce5697537][^key-8663e92aa5e3a06dcf4d8ba21b34d1ea]
+#### 8. Introduction[^M_I_62fa4f0e-443f-4945-ae2a-700ce5697537][^c-8663e92aa5e3a06dcf4d8ba21b34d1ea]
 
 Schedule 5 to TCTA 2018 (increase in imports causing serious injury to UK producers) is amended as follows.
 
-#### 9. Notification etc[^M_I_a71ea967-0677-438c-bc76-dd58f38df4fe][^key-10ac865a127d041b50ed41e4253c9403]
+#### 9. Notification etc[^M_I_a71ea967-0677-438c-bc76-dd58f38df4fe][^c-10ac865a127d041b50ed41e4253c9403]
 
 (1) In paragraph 7 (initiation of a safeguarding investigation)—
 
@@ -384,7 +384,7 @@ Schedule 5 to TCTA 2018 (increase in imports causing serious injury to UK produc
 >
 > (7) For the purposes of this paragraph, the relevant period is the period of 21 days beginning with the day on which the TRA notifies the Secretary of State that it proposes to make the determination.
 
-#### 10. Provisional remedies[^M_I_8a659761-42fa-4e63-91fc-e4ba251c6733][^key-245114f05bacd5066661ebc3b50275e8]
+#### 10. Provisional remedies[^M_I_8a659761-42fa-4e63-91fc-e4ba251c6733][^c-245114f05bacd5066661ebc3b50275e8]
 
 (1) In paragraph 11 (TRA’s duty to recommend a provisional safeguarding amount or a provisional tariff rate quota)—
 
@@ -445,7 +445,7 @@ Schedule 5 to TCTA 2018 (increase in imports causing serious injury to UK produc
   ;
 - (c) in sub-paragraph (3), after “rejected” insert “and the Secretary of State does not make a decision under sub-paragraph (2C)”.
 
-#### 11. Definitive remedies[^M_I_f7d0eba2-fac9-4e7c-c7dc-6ec33555acc8][^key-bb475aad1235392a049f758180a9a89c]
+#### 11. Definitive remedies[^M_I_f7d0eba2-fac9-4e7c-c7dc-6ec33555acc8][^c-bb475aad1235392a049f758180a9a89c]
 
 (1) In paragraph 16 (TRA’s duty to recommend a definitive safeguarding amount or tariff rate quota)—
 
@@ -595,7 +595,7 @@ Schedule 5 to TCTA 2018 (increase in imports causing serious injury to UK produc
   > - (a) comply with the request, and
   > - (b) in reassessing its recommendation, have regard to any particular considerations which the Secretary of State may specify in the request.
 
-#### 12. Reviews etc[^M_I_071de261-ea1b-496a-c3f4-df125ed6dc8f][^key-c10eae72a922c8f93dd4c33a46fc7c80]
+#### 12. Reviews etc[^M_I_071de261-ea1b-496a-c3f4-df125ed6dc8f][^c-c10eae72a922c8f93dd4c33a46fc7c80]
 
 (1) In paragraph 21 (reviews)—
 
@@ -652,7 +652,7 @@ Schedule 5 to TCTA 2018 (increase in imports causing serious injury to UK produc
   - (ii) in paragraph (a), for “recommendation and of the acceptance of it” substitute “decision”;
   - (iii) in paragraph (c), for “recommendation” substitute “decision”.
 
-#### 13. Revocation in the public interest[^M_I_44b9b76c-a132-424f-ef7a-cf4350170f1a][^key-fe8a2e57eea7c0390981fe5a8ad74f91]
+#### 13. Revocation in the public interest[^M_I_44b9b76c-a132-424f-ef7a-cf4350170f1a][^c-fe8a2e57eea7c0390981fe5a8ad74f91]
 
 After paragraph 22 insert—
 
@@ -669,7 +669,7 @@ After paragraph 22 insert—
 > - (c) must lay a statement before the House of Commons setting out the reasons for making the decision, and
 > - (d) is required under section 13 to make provision by public notice to give effect to the decision.
 
-#### 14. Power to request assistance etc[^M_I_5434ea66-f319-4d34-9694-9e1874b3ec6d][^key-e5e90220a84f4bcf7965ff3684af2be3]
+#### 14. Power to request assistance etc[^M_I_5434ea66-f319-4d34-9694-9e1874b3ec6d][^c-e5e90220a84f4bcf7965ff3684af2be3]
 
 After paragraph 22A (as inserted by paragraph 13) insert—
 
@@ -689,7 +689,7 @@ After paragraph 22A (as inserted by paragraph 13) insert—
 
 ### Part 3 — Consequential and related provision
 
-**15.**[^M_I_479469fe-1b64-4cc9-996a-60f727c4f951][^key-943507976630cfd29a4e4bc11ee66e98] In section 13 of TCTA 2018 (dumping of goods, foreign subsidies and increases in imports)—
+**15.**[^M_I_479469fe-1b64-4cc9-996a-60f727c4f951][^c-943507976630cfd29a4e4bc11ee66e98] In section 13 of TCTA 2018 (dumping of goods, foreign subsidies and increases in imports)—
 
 - (a) in subsection (2)—
   - (i) for “accepts a recommendation by the TRA” substitute “decides”;
@@ -701,7 +701,7 @@ After paragraph 22A (as inserted by paragraph 13) insert—
   - (i) for “accepts a recommendation by the TRA” substitute “decides”;
   - (ii) for “the recommendation” substitute “the decision”.
 
-**16.**[^M_I_1399f61b-fe08-455e-e1e8-0b56e72a14eb][^key-069bd329b0c37ded9a1dde17bd6b1912] (1) The Treasury or the Secretary of State may by regulations made by statutory instrument make such provision as the Treasury or the Secretary of State, as the case may be, considers appropriate in relation to trade remedies measures transitioned under Part 12 of the Trade Remedies (Dumping and Subsidisation) (EU Exit) Regulations 2019 ([S.I. 2019/450](https://www.legislation.gov.uk/uksi/2019/450)), including provision—
+**16.**[^M_I_1399f61b-fe08-455e-e1e8-0b56e72a14eb][^c-069bd329b0c37ded9a1dde17bd6b1912] (1) The Treasury or the Secretary of State may by regulations made by statutory instrument make such provision as the Treasury or the Secretary of State, as the case may be, considers appropriate in relation to trade remedies measures transitioned under Part 12 of the Trade Remedies (Dumping and Subsidisation) (EU Exit) Regulations 2019 ([S.I. 2019/450](https://www.legislation.gov.uk/uksi/2019/450)), including provision—
 
 - (a) in relation to exemptions that has effect from IP completion day (or any later day);
 - (b) conferring functions (including functions involving the exercise of a discretion) on the Secretary of State or the Trade Remedies Authority.
@@ -710,7 +710,7 @@ After paragraph 22A (as inserted by paragraph 13) insert—
 
 ### Part 4 — Commencement
 
-**17.**[^M_I_b22349cf-ccdd-4eea-aa69-2aa238c93131][^key-38084b5f7de5b7f67cbd0ff350686fb1] (1) Any power to make regulations under or by virtue of this Schedule comes into force on the day on which this Act is passed.
+**17.**[^M_I_b22349cf-ccdd-4eea-aa69-2aa238c93131][^c-38084b5f7de5b7f67cbd0ff350686fb1] (1) Any power to make regulations under or by virtue of this Schedule comes into force on the day on which this Act is passed.
 
 (2) The remaining provisions of this Schedule come into force on such day as the Secretary of State may by regulations appoint.
 
@@ -724,68 +724,68 @@ After paragraph 22A (as inserted by paragraph 13) insert—
 
 [^M_I_bc2d75bf-f91b-41f4-971a-4badf8afd391]: Commencement: Sch. 19 para. 1 not in force at Royal Assent, see [Sch. 19 para. 17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2)
 
-[^key-fb6cd85671e0ea5fd66114f64b43e551]: Commencement: [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/1) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-fb6cd85671e0ea5fd66114f64b43e551]: Commencement: [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/1) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
 [^M_I_0bc13175-d146-4d6e-c52f-660b3011f98f]: Commencement: Sch. 19 para. 2 not in force at Royal Assent, see [Sch. 19 para. 17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2)
 
-[^key-df897132555cd29ebb98f852337c473c]: Commencement: [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-df897132555cd29ebb98f852337c473c]: Commencement: [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/2) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
 [^M_I_9980fb4c-3887-4f58-fca6-487c1d719dab]: Commencement: Sch. 19 para. 3 not in force at Royal Assent, see [Sch. 19 para. 17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2)
 
-[^key-43f5dddbc4b158d2a8d098cb09b3cc50]: Commencement: [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/3) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-43f5dddbc4b158d2a8d098cb09b3cc50]: Commencement: [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/3) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
 [^M_I_21ea6fa3-1322-4e90-9cd6-8d6c44b97926]: Commencement: Sch. 19 para. 4 in force at Royal Assent for specified purposes, see [Sch. 19 para. 17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1)
 
-[^key-a72f834bbc579169e15ad72562187218]: Commencement: [Sch. 19 para. 4](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4) in force at 25.8.2023 in so far as not already in force by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-a72f834bbc579169e15ad72562187218]: Commencement: [Sch. 19 para. 4](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/4) in force at 25.8.2023 in so far as not already in force by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
 [^M_I_3dc979c3-a0bd-4614-d1e6-22a56f03df0a]: Commencement: Sch. 19 para. 5 not in force at Royal Assent, see [Sch. 19 para. 17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2)
 
-[^key-c5ded84713998d1f1707a83f6ad3aa83]: Commencement: [Sch. 19 para. 5](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-c5ded84713998d1f1707a83f6ad3aa83]: Commencement: [Sch. 19 para. 5](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/5) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
 [^M_I_bab115b5-14a0-4edd-be3b-9fb0ac789741]: Commencement: Sch. 19 para. 6 not in force at Royal Assent, see [Sch. 19 para. 17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2)
 
-[^key-a9873fcf7db0ee2bf75f35232a99899e]: Commencement: [Sch. 19 para. 6](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/6) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-a9873fcf7db0ee2bf75f35232a99899e]: Commencement: [Sch. 19 para. 6](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/6) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
 [^M_I_b81096e1-9663-44b2-988d-8b076cdc0e78]: Commencement: Sch. 19 para. 7 not in force at Royal Assent, see [Sch. 19 para. 17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2)
 
-[^key-962a063737f2c2be34fc0a7128833296]: Commencement: [Sch. 19 para. 7](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/7) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-962a063737f2c2be34fc0a7128833296]: Commencement: [Sch. 19 para. 7](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/7) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
 [^M_I_62fa4f0e-443f-4945-ae2a-700ce5697537]: Commencement: Sch. 19 para. 8 not in force at Royal Assent, see [Sch. 19 para. 17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2)
 
-[^key-8663e92aa5e3a06dcf4d8ba21b34d1ea]: Commencement: [Sch. 19 para. 8](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/8) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-8663e92aa5e3a06dcf4d8ba21b34d1ea]: Commencement: [Sch. 19 para. 8](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/8) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
 [^M_I_a71ea967-0677-438c-bc76-dd58f38df4fe]: Commencement: Sch. 19 para. 9 not in force at Royal Assent, see [Sch. 19 para. 17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2)
 
-[^key-10ac865a127d041b50ed41e4253c9403]: Commencement: [Sch. 19 para. 9](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/9) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-10ac865a127d041b50ed41e4253c9403]: Commencement: [Sch. 19 para. 9](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/9) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
 [^M_I_8a659761-42fa-4e63-91fc-e4ba251c6733]: Commencement: Sch. 19 para. 10 not in force at Royal Assent, see [Sch. 19 para. 17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2)
 
-[^key-245114f05bacd5066661ebc3b50275e8]: Commencement: [Sch. 19 para. 10](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/10) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-245114f05bacd5066661ebc3b50275e8]: Commencement: [Sch. 19 para. 10](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/10) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
 [^M_I_f7d0eba2-fac9-4e7c-c7dc-6ec33555acc8]: Commencement: Sch. 19 para. 11 in force at Royal Assent for specified purposes, see [Sch. 19 para. 17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1)
 
-[^key-bb475aad1235392a049f758180a9a89c]: Commencement: [Sch. 19 para. 11](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/11) in force at 25.8.2023 in so far as not already in force by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-bb475aad1235392a049f758180a9a89c]: Commencement: [Sch. 19 para. 11](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/11) in force at 25.8.2023 in so far as not already in force by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
 [^M_I_071de261-ea1b-496a-c3f4-df125ed6dc8f]: Commencement: Sch. 19 para. 12 not in force at Royal Assent, see [Sch. 19 para. 17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2)
 
-[^key-c10eae72a922c8f93dd4c33a46fc7c80]: Commencement: [Sch. 19 para. 12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/12) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-c10eae72a922c8f93dd4c33a46fc7c80]: Commencement: [Sch. 19 para. 12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/12) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
 [^M_I_44b9b76c-a132-424f-ef7a-cf4350170f1a]: Commencement: Sch. 19 para. 13 not in force at Royal Assent, see [Sch. 19 para. 17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2)
 
-[^key-fe8a2e57eea7c0390981fe5a8ad74f91]: Commencement: [Sch. 19 para. 13](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/13) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-fe8a2e57eea7c0390981fe5a8ad74f91]: Commencement: [Sch. 19 para. 13](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/13) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
 [^M_I_5434ea66-f319-4d34-9694-9e1874b3ec6d]: Commencement: Sch. 19 para. 14 not in force at Royal Assent, see [Sch. 19 para. 17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2)
 
-[^key-e5e90220a84f4bcf7965ff3684af2be3]: Commencement: [Sch. 19 para. 14](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/14) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-e5e90220a84f4bcf7965ff3684af2be3]: Commencement: [Sch. 19 para. 14](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/14) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
 [^M_I_479469fe-1b64-4cc9-996a-60f727c4f951]: Commencement: Sch. 19 para. 15 not in force at Royal Assent, see [Sch. 19 para. 17(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/2)
 
-[^key-943507976630cfd29a4e4bc11ee66e98]: Commencement: [Sch. 19 para. 15](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/15) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-943507976630cfd29a4e4bc11ee66e98]: Commencement: [Sch. 19 para. 15](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/15) in force at 25.8.2023 by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
 [^M_I_1399f61b-fe08-455e-e1e8-0b56e72a14eb]: Commencement: Sch. 19 para. 16 in force at Royal Assent for specified purposes, see [Sch. 19 para. 17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1)
 
-[^key-069bd329b0c37ded9a1dde17bd6b1912]: Commencement: [Sch. 19 para. 16](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/16) in force at 25.8.2023 in so far as not already in force by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-069bd329b0c37ded9a1dde17bd6b1912]: Commencement: [Sch. 19 para. 16](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/16) in force at 25.8.2023 in so far as not already in force by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
 
 [^M_I_b22349cf-ccdd-4eea-aa69-2aa238c93131]: Commencement: Sch. 19 para. 17 in force at Royal Assent for specified purposes, see [Sch. 19 para. 17(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17/1)
 
-[^key-38084b5f7de5b7f67cbd0ff350686fb1]: Commencement: [Sch. 19 para. 17](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17) in force at 25.8.2023 in so far as not already in force by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))
+[^c-38084b5f7de5b7f67cbd0ff350686fb1]: Commencement: [Sch. 19 para. 17](https://www.legislation.gov.uk/ukpga/2023/30/schedule/19/paragraph/17) in force at 25.8.2023 in so far as not already in force by [S.I. 2023/918](https://www.legislation.gov.uk/uksi/2023/918), [reg. 2](https://www.legislation.gov.uk/uksi/2023/918/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/918/regulation/3))

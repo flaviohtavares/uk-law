@@ -31,7 +31,7 @@ summary: ''
 
 (4) The address for the document holder provided in Form PRD1 is to be regarded for the purpose of rule 199 as an address for service given under rule 198(2)(h).
 
-(5) The notice must give the document holder a period ending at 12 noon on the twentieth working[^key-e02dd2a4a24fc28903c6b1ad94e60921] day after the issue of the notice, or such other period as the registrar thinks appropriate, to deliver a written response to the registrar by the method and to the address stated in the notice.
+(5) The notice must give the document holder a period ending at 12 noon on the twentieth working[^c-e02dd2a4a24fc28903c6b1ad94e60921] day after the issue of the notice, or such other period as the registrar thinks appropriate, to deliver a written response to the registrar by the method and to the address stated in the notice.
 
 (6) The response must—
 
@@ -54,4 +54,4 @@ and he is not aware of any valid ground entitling the document holder to withhol
 
 ## Annotations
 
-[^key-e02dd2a4a24fc28903c6b1ad94e60921]: Textual amendment: Word in [rule 201(5)](https://www.legislation.gov.uk/uksi/2003/1417/rule/201/5) substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/6)
+[^c-e02dd2a4a24fc28903c6b1ad94e60921]: Textual amendment: Word in [rule 201(5)](https://www.legislation.gov.uk/uksi/2003/1417/rule/201/5) substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/6)

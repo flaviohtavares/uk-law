@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Application of the 1981 Act[^key-c4df71f6de5e9d6fd6d977e61817bf04]
+## 33. Application of the 1981 Act[^c-c4df71f6de5e9d6fd6d977e61817bf04]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 
 (6) In section 5B(1)[^f00082] (extension of time limit during challenge)—
 
-- (a) for “section 23 of the Acquisition of Land Act 1981 (application to High Court in respect of compulsory purchase order) substitute[^key-a1df06e4516c1410b128fb125e2a2cc6] “section 118 (legal challenges relating to applications for orders granting development consent) of the Planning Act 2008”; and
+- (a) for “section 23 of the Acquisition of Land Act 1981 (application to High Court in respect of compulsory purchase order) substitute[^c-a1df06e4516c1410b128fb125e2a2cc6] “section 118 (legal challenges relating to applications for orders granting development consent) of the Planning Act 2008”; and
 - (b) for “the applicable period for the purposes of section 5A” substitute “the period of seven years as set out in article 30 (time limit for exercise of authority to acquire land compulsorily) of the Gatwick Airport (Northern Runway Project) Development Consent Order 2025 ”.
 
 (7) In section 6[^f00083] (notices after execution of declaration) for subsection (1)(b) for “section 15 of, or paragraph 6 of Schedule 1 to, the Acquisition of Land Act 1981” substitute “section 134[^f00084] (notice of authorisation of compulsory acquisition) of the Planning Act 2008”.
@@ -49,7 +49,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c4df71f6de5e9d6fd6d977e61817bf04]: Commencement: Art. 33 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-c4df71f6de5e9d6fd6d977e61817bf04]: Commencement: Art. 33 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
 [^f00080]: Footnote: Section 5 was amended by paragraph 6 of Schedule 15 to the Housing and Planning Act 2016.
 
@@ -57,7 +57,7 @@ summary: ''
 
 [^f00082]: Footnote: Section 5B(1) was inserted by section 202(2) of the Housing and Planning Act 2016 and amended by section 185(3)(b) of the Levelling-up and Regeneration Act 2023.
 
-[^key-a1df06e4516c1410b128fb125e2a2cc6]: Textual amendment: Words in [art. 33(6)(a)](https://www.legislation.gov.uk/uksi/2025/1054/article/33/6/a) substituted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
+[^c-a1df06e4516c1410b128fb125e2a2cc6]: Textual amendment: Words in [art. 33(6)(a)](https://www.legislation.gov.uk/uksi/2025/1054/article/33/6/a) substituted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
 
 [^f00083]: Footnote: Section 6 was amended by paragraph 7 of Schedule 15 to the Housing and Planning Act 2016 and section 4 of, and paragraph 52(2) of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11).
 

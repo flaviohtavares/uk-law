@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 79. Qualifications for election and holding office as member of local authority.[^c15092541][^c15092551][^key-53e5125c94b9d2412d91de7a320d2534][^key-f2cb67322f07530203e2c6eb92d823bc][^M_E_1e1fc94c-04fb-4bd4-de1f-78b87da328ca]
+## 79. Qualifications for election and holding office as member of local authority.[^c15092541][^c15092551][^c-53e5125c94b9d2412d91de7a320d2534][^c-f2cb67322f07530203e2c6eb92d823bc][^M_E_1e1fc94c-04fb-4bd4-de1f-78b87da328ca]
 
 *Extent: E*
 
@@ -93,9 +93,9 @@ summary: ''
 
     S. 79: certain functions transferred (subject to modifications) (10.1.1992) by [S.I. 1991/2913](https://www.legislation.gov.uk/uksi/1991/2913), [arts. 6](https://www.legislation.gov.uk/uksi/1991/2913/article/6), [8](https://www.legislation.gov.uk/uksi/1991/2913/article/8), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2913/schedule/1)
 
-[^key-53e5125c94b9d2412d91de7a320d2534]: Modification: Ss. 79-82 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
+[^c-53e5125c94b9d2412d91de7a320d2534]: Modification: Ss. 79-82 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
 
-[^key-f2cb67322f07530203e2c6eb92d823bc]: Modification: Ss. 79-82 applied (with modifications) (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/558/article/8), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/558/schedule/1)
+[^c-f2cb67322f07530203e2c6eb92d823bc]: Modification: Ss. 79-82 applied (with modifications) (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/558/article/8), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/558/schedule/1)
 
 [^M_E_1e1fc94c-04fb-4bd4-de1f-78b87da328ca]: Extent: This version of this provision applies to England only; a separate version has been created for Wales only
 

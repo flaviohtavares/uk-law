@@ -33,8 +33,8 @@ summary: ''
 - (d) section 37; and
 - (e) in subsection (1) of section 38—
   - (i) paragraphs (a), (c) and (d); and
-  - (ii) paragraph (b) where the first condition referred to in that paragraph is satisfied [^key-ccf7579da873dcd0f67c30b0dacefd5c]....
+  - (ii) paragraph (b) where the first condition referred to in that paragraph is satisfied [^c-ccf7579da873dcd0f67c30b0dacefd5c]....
 
 ## Annotations
 
-[^key-ccf7579da873dcd0f67c30b0dacefd5c]: Textual amendment: Words in [s. 2(2)(e)(ii)](https://www.legislation.gov.uk/asp/2002/13/section/2/2/e/ii) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 89](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/89) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 36](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/36)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-ccf7579da873dcd0f67c30b0dacefd5c]: Textual amendment: Words in [s. 2(2)(e)(ii)](https://www.legislation.gov.uk/asp/2002/13/section/2/2/e/ii) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 89](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/89) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 36](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/36)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

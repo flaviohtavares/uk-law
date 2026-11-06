@@ -30,7 +30,7 @@ summary: ''
 
 Equality
 
-[^key-cc2cfc7792d1dd84747950300dc5a8c5]The Equality Act 2010 (Specific Duties) Regulations 2011 (revoked)
+[^c-cc2cfc7792d1dd84747950300dc5a8c5]The Equality Act 2010 (Specific Duties) Regulations 2011 (revoked)
 
 Made
 
@@ -76,4 +76,4 @@ Coming into force in accordance with Regulation 1(1)
 
 ## Annotations
 
-[^key-cc2cfc7792d1dd84747950300dc5a8c5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/2260) revoked (31.3.2017) by [The Equality Act 2010 (Specific Duties and Public Authorities) Regulations 2017 (S.I. 2017/353)](https://www.legislation.gov.uk/uksi/2017/353), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/353/regulation/1/1), [9(1)](https://www.legislation.gov.uk/uksi/2017/353/regulation/9/1) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2017/353/regulation/2/4)[(5)](https://www.legislation.gov.uk/uksi/2017/353/regulation/2/5), [9(2)](https://www.legislation.gov.uk/uksi/2017/353/regulation/9/2)[(3)](https://www.legislation.gov.uk/uksi/2017/353/regulation/9/3))
+[^c-cc2cfc7792d1dd84747950300dc5a8c5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/2260) revoked (31.3.2017) by [The Equality Act 2010 (Specific Duties and Public Authorities) Regulations 2017 (S.I. 2017/353)](https://www.legislation.gov.uk/uksi/2017/353), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/353/regulation/1/1), [9(1)](https://www.legislation.gov.uk/uksi/2017/353/regulation/9/1) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2017/353/regulation/2/4)[(5)](https://www.legislation.gov.uk/uksi/2017/353/regulation/2/5), [9(2)](https://www.legislation.gov.uk/uksi/2017/353/regulation/9/2)[(3)](https://www.legislation.gov.uk/uksi/2017/353/regulation/9/3))

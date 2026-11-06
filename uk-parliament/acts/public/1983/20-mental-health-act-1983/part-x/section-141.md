@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Members of Parliament suffering from mental illness.[^key-0d85589f28b9289858d472abaefbddfb]
+## 141. Members of Parliament suffering from mental illness.[^c-0d85589f28b9289858d472abaefbddfb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d85589f28b9289858d472abaefbddfb]: Textual amendment: S. 141 repealed (28.4.2013) by [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/1/1), [4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1)
+[^c-0d85589f28b9289858d472abaefbddfb]: Textual amendment: S. 141 repealed (28.4.2013) by [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/1/1), [4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1)

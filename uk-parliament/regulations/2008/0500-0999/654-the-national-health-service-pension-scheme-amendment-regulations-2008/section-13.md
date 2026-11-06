@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Omission of regulation E4[^key-e334eb5201e725e966faca4e338b55eb]
+## 13. Omission of regulation E4[^c-e334eb5201e725e966faca4e338b55eb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Regulation E4 (early retirement pension (employer’s consent)) is omitted.
 
 ## Annotations
 
-[^key-e334eb5201e725e966faca4e338b55eb]: Commencement: Reg. 13 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-e334eb5201e725e966faca4e338b55eb]: Commencement: Reg. 13 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.1.1. Interpretation and application[^key-a0017dee2e5ab7c07125d295cfd274ad]
+## 3.1.1. Interpretation and application[^c-a0017dee2e5ab7c07125d295cfd274ad]
 
 *Extent: S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a0017dee2e5ab7c07125d295cfd274ad]: Commencement: Rule 3.1.1 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-a0017dee2e5ab7c07125d295cfd274ad]: Commencement: Rule 3.1.1 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
 
 [^M_F_5ed88fdc-8c86-43a6-f44d-0927f00582d4]: Textual amendment: Words in rule 3.1.1(1) renumbered as rule 3.1.1(1)(a) (20.11.2000) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (No. 2) (Administration of Justice (Scotland) Act 1972) 2000 (S.S.I. 2000/387)](https://www.legislation.gov.uk/ssi/2000/387), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2000/387/paragraph/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2000/387/paragraph/2/2/a)
 

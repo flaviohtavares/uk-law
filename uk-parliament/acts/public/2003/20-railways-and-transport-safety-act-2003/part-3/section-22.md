@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Deputy Chief Constable[^key-28c3699bb64bab982998371aef00bd45]
+## 22. Deputy Chief Constable[^c-28c3699bb64bab982998371aef00bd45]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28c3699bb64bab982998371aef00bd45]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2003/20/section/22) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(e)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/e)
+[^c-28c3699bb64bab982998371aef00bd45]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2003/20/section/22) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(e)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/e)

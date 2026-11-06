@@ -24,11 +24,11 @@ summary: ''
 
 Section 173
 
-### 1. [Local Government, Planning and Land Act 1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65)[^key-f955bd351f00aa589d3289cfcbf57d6b]
+### 1. [Local Government, Planning and Land Act 1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65)[^c-f955bd351f00aa589d3289cfcbf57d6b]
 
 The Local Government, Planning and Land Act 1980 is amended as follows.
 
-**2.**[^key-dd28d096db3cf48eb856e484c5b2b5d9] (1) Section 134 (urban development areas) is amended as follows.
+**2.**[^c-dd28d096db3cf48eb856e484c5b2b5d9] (1) Section 134 (urban development areas) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -70,7 +70,7 @@ The Local Government, Planning and Land Act 1980 is amended as follows.
 > - (b) the Welsh Ministers in relation to Wales;
 > - (c) the Scottish Ministers in relation to Scotland.
 
-**3.**[^key-5fede5e8b6640cef0f76c297a2bf063d] (1) Section 135 (urban development corporations) is amended as follows.
+**3.**[^c-5fede5e8b6640cef0f76c297a2bf063d] (1) Section 135 (urban development corporations) is amended as follows.
 
 (2) In subsection (2), after “134(1)” insert “or (1B)”.
 
@@ -78,9 +78,9 @@ The Local Government, Planning and Land Act 1980 is amended as follows.
 
 > (7) In this section “**local authority**” has the same meaning as in section 134A (see subsection (10) of that section).
 
-**4.**[^key-ab0d7e69feb78b7495fa1a0ea282b322] In section 140 (consultation with local authorities), in subsection (1), after “corporation” insert “, other than a locally-led urban development corporation,”.
+**4.**[^c-ab0d7e69feb78b7495fa1a0ea282b322] In section 140 (consultation with local authorities), in subsection (1), after “corporation” insert “, other than a locally-led urban development corporation,”.
 
-**5.**[^key-ca7996ef4699758fa5d6091189df166c] (1) Section 171 (interpretation: general) is amended as follows.
+**5.**[^c-ca7996ef4699758fa5d6091189df166c] (1) Section 171 (interpretation: general) is amended as follows.
 
 (2) After the definition of “the 1997 Act” insert—
 
@@ -92,11 +92,11 @@ The Local Government, Planning and Land Act 1980 is amended as follows.
 
 (3) In the definition of “urban development area”, after “(1)” insert “or (1B)”.
 
-### 6. [New Towns Act 1981 (c. 64)](https://www.legislation.gov.uk/ukpga/1981/64)[^key-b1e9c8853004992ed4f02c72853d607d]
+### 6. [New Towns Act 1981 (c. 64)](https://www.legislation.gov.uk/ukpga/1981/64)[^c-b1e9c8853004992ed4f02c72853d607d]
 
 The New Towns Act 1981 is amended as follows.
 
-**7.**[^key-26bee271099c11ba334352f29f1d3b82] (1) Section 1A (local authority to oversee development of new town) is amended as follows.
+**7.**[^c-26bee271099c11ba334352f29f1d3b82] (1) Section 1A (local authority to oversee development of new town) is amended as follows.
 
 (2) For the heading substitute “Oversight of locally-led new town”.
 
@@ -119,11 +119,11 @@ The New Towns Act 1981 is amended as follows.
   - (i) the definition of “local authority”;
   - (ii) paragraph (a) of the definition of “specified”.
 
-**8.**[^key-369d409286069ff1783543249da279f6] In section 2 (reduction of designated areas), after subsection (1) insert—
+**8.**[^c-369d409286069ff1783543249da279f6] In section 2 (reduction of designated areas), after subsection (1) insert—
 
 > (1A) The Secretary of State may not make an order under subsection (1) in relation to the area of a new town designated under section 1ZB except with the consent of the oversight authority.
 
-**9.**[^key-7b3af3a801dc2559e374aa15f35de759] (1) Section 80 (general interpretation provisions) is amended as follows.
+**9.**[^c-7b3af3a801dc2559e374aa15f35de759] (1) Section 80 (general interpretation provisions) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -143,20 +143,20 @@ The New Towns Act 1981 is amended as follows.
 
 ## Annotations
 
-[^key-f955bd351f00aa589d3289cfcbf57d6b]: Commencement: Sch. 16 para. 1 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-f955bd351f00aa589d3289cfcbf57d6b]: Commencement: Sch. 16 para. 1 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-dd28d096db3cf48eb856e484c5b2b5d9]: Commencement: Sch. 16 para. 2 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-dd28d096db3cf48eb856e484c5b2b5d9]: Commencement: Sch. 16 para. 2 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-5fede5e8b6640cef0f76c297a2bf063d]: Commencement: Sch. 16 para. 3 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-5fede5e8b6640cef0f76c297a2bf063d]: Commencement: Sch. 16 para. 3 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-ab0d7e69feb78b7495fa1a0ea282b322]: Commencement: Sch. 16 para. 4 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-ab0d7e69feb78b7495fa1a0ea282b322]: Commencement: Sch. 16 para. 4 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-ca7996ef4699758fa5d6091189df166c]: Commencement: Sch. 16 para. 5 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-ca7996ef4699758fa5d6091189df166c]: Commencement: Sch. 16 para. 5 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-b1e9c8853004992ed4f02c72853d607d]: Commencement: Sch. 16 para. 6 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-b1e9c8853004992ed4f02c72853d607d]: Commencement: Sch. 16 para. 6 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-26bee271099c11ba334352f29f1d3b82]: Commencement: Sch. 16 para. 7 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-26bee271099c11ba334352f29f1d3b82]: Commencement: Sch. 16 para. 7 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-369d409286069ff1783543249da279f6]: Commencement: Sch. 16 para. 8 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-369d409286069ff1783543249da279f6]: Commencement: Sch. 16 para. 8 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-7b3af3a801dc2559e374aa15f35de759]: Commencement: Sch. 16 para. 9 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-7b3af3a801dc2559e374aa15f35de759]: Commencement: Sch. 16 para. 9 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)

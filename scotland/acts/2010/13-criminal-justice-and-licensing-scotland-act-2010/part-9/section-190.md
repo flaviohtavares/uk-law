@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 190. Extended hours applications: notification period[^key-3d950c2dc6f7d1c2f928baf7f5e65fe5]
+## 190. Extended hours applications: notification period[^c-3d950c2dc6f7d1c2f928baf7f5e65fe5]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d950c2dc6f7d1c2f928baf7f5e65fe5]: Commencement: [S. 190](https://www.legislation.gov.uk/asp/2010/13/section/190) in force at 1.10.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-3d950c2dc6f7d1c2f928baf7f5e65fe5]: Commencement: [S. 190](https://www.legislation.gov.uk/asp/2010/13/section/190) in force at 1.10.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

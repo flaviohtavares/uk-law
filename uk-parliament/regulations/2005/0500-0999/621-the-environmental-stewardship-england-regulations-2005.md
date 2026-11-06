@@ -42,7 +42,7 @@ Coming into force
 
 2nd April 2005
 
-The Secretary of State, being a Minister designated [^c1133529] for the purposes of section 2(2) of the European Communities Act 1972 [^c1133530] in relation to the common agricultural policy of the European Community, in exercise of the powers contained in that section in so far as these Regulations could not have been made under the powers hereinafter mentioned, and otherwise in exercise of the powers conferred on her by section 98 of the Environment Act 1995 [^c1133531], with the consent of Treasury and after consulting the Countryside Agency, English Nature and the Historic Buildings and Monuments Commission for England in accordance with section 99 of the Environment Act 1995 [^c1133532], hereby makes the following Regulations:[^key-3673b217a734b8fbf7948bec9aa48de5]
+The Secretary of State, being a Minister designated [^c1133529] for the purposes of section 2(2) of the European Communities Act 1972 [^c1133530] in relation to the common agricultural policy of the European Community, in exercise of the powers contained in that section in so far as these Regulations could not have been made under the powers hereinafter mentioned, and otherwise in exercise of the powers conferred on her by section 98 of the Environment Act 1995 [^c1133531], with the consent of Treasury and after consulting the Countryside Agency, English Nature and the Historic Buildings and Monuments Commission for England in accordance with section 99 of the Environment Act 1995 [^c1133532], hereby makes the following Regulations:[^c-3673b217a734b8fbf7948bec9aa48de5]
 
 ## 1. Citation, commencement and application
 
@@ -56,10 +56,10 @@ In these Regulations—
 - “**agreement year**” means a period of 12 months commencing with the date of, or the anniversary of the date of, the coming into effect of an environmental stewardship agreement;
 - “**beneficiary**” means a person who has entered into an environmental stewardship agreement with the Secretary of State;
 - “**carry out**”, in relation to an obligation under an environmental stewardship agreement or a feasibility study agreement, includes ensuring that the obligation is carried out;
-- “Compendium of[^key-a63f84a4769d32b77ee8b8692752f298] UK Organic Standards” means the Compendium of UK Organic Standards, September 2006[^key-2d214efc20719b23b795e970965b5c06] Edition, published by the Department for Environment, Food and Rural Affairs;
+- “Compendium of[^c-a63f84a4769d32b77ee8b8692752f298] UK Organic Standards” means the Compendium of UK Organic Standards, September 2006[^c-2d214efc20719b23b795e970965b5c06] Edition, published by the Department for Environment, Food and Rural Affairs;
 - “**conventional land**” means agreement land which is not organic land;
 - “**conversion grant**” means a grant for converting land to production in accordance with organic standards;
-- “**Council Regulation**” means Council Regulation [(EEC) No 2092/91](https://www.legislation.gov.uk/european/regulation/1991/2092) on organic production of agricultural products and indications referring thereto on agricultural products and foodstuffs [^c1133534] as last amended by Commission Regulation[^key-4c594516779e203679261e6912079905] [(EC) No. 780/2006](https://www.legislation.gov.uk/european/regulation/2006/0780);
+- “**Council Regulation**” means Council Regulation [(EEC) No 2092/91](https://www.legislation.gov.uk/european/regulation/1991/2092) on organic production of agricultural products and indications referring thereto on agricultural products and foodstuffs [^c1133534] as last amended by Commission Regulation[^c-4c594516779e203679261e6912079905] [(EC) No. 780/2006](https://www.legislation.gov.uk/european/regulation/2006/0780);
 - “**date of application**” means the date on which an application to enter into an environmental stewardship agreement is received by the Secretary of State;
 - “**ELS element**” means obligations relating to ELS options;
 - “**ELS options**” means the options set out in column 1 of Part 2 of Schedule 2 for which a points value per unit is specified in column 2 of that Part of that Schedule;
@@ -109,7 +109,7 @@ In these Regulations—
 (3) The Secretary of State may vary the conditions of an environmental stewardship agreement—
 
 - (a) by agreement with the beneficiary; or
-- (b) by notice served on the beneficiary if the variation is, in the opinion of the Secretary of State, necessary to prevent a breach of a provision of, or made under, assimilated[^key-87454016cec564d1b7119e463458aba8][^key-16d578dc5340aa0c900009ba1f293c9b] law.
+- (b) by notice served on the beneficiary if the variation is, in the opinion of the Secretary of State, necessary to prevent a breach of a provision of, or made under, assimilated[^c-87454016cec564d1b7119e463458aba8][^c-16d578dc5340aa0c900009ba1f293c9b] law.
 
 (4) The amount of the grant shall be calculated in accordance with regulations 6 and 7(4).
 
@@ -303,7 +303,7 @@ In this Schedule—
 - “**in-field pond**” means a pond which is entirely within the field and does not touch the field boundary;
 - “**inputs**” means fertiliser, manures, pesticides and seed;
 - “**intensive grassland**” means grassland which receives more than 100 kilograms per hectare of inorganic nitrogen fertiliser per year;
-- “native breed at risk” means a native breed of livestock, of which the number of breeding females in the United Kingdom is, in the opinion of the Secretary of State, lower than the threshold for it in Annex 1 of Commission Regulation[^key-81c662a0b9a80d5c0033fc2f8d120a09] [(EC) No 817/2004](https://www.legislation.gov.uk/european/regulation/2004/0817) (laying down detailed rules for the application of Council Regulation [(EC) No 1257/1999](https://www.legislation.gov.uk/european/regulation/1999/1257) on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF)), as last amended by Commission Regulation [(EC) No 1360/2005](https://www.legislation.gov.uk/european/regulation/2005/1360);
+- “native breed at risk” means a native breed of livestock, of which the number of breeding females in the United Kingdom is, in the opinion of the Secretary of State, lower than the threshold for it in Annex 1 of Commission Regulation[^c-81c662a0b9a80d5c0033fc2f8d120a09] [(EC) No 817/2004](https://www.legislation.gov.uk/european/regulation/2004/0817) (laying down detailed rules for the application of Council Regulation [(EC) No 1257/1999](https://www.legislation.gov.uk/european/regulation/1999/1257) on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF)), as last amended by Commission Regulation [(EC) No 1360/2005](https://www.legislation.gov.uk/european/regulation/2005/1360);
 - “**organic grassland**” means grassland which is managed organically and which is not rotational land;
 - “**over-wintered stubbles**” means the remains of a cereal, oilseed rape, field bean or linseed crop after harvesting, retained through the winter into the following year;
 - “**permanent grassland**” means land which is used to grow grasses or other herbaceous forage naturally or through cultivation and which has not been subject to cultivation for at least five years;
@@ -349,7 +349,7 @@ In this Schedule—
 | - (b) Reducing cultivation depths on land in or on which archaeological features are located | 60 per hectare | 100 per hectare | £100 per hectare |
 | - (c) Management of scrub on archaeological sites | 120 per hectare | 120 per hectare | £120 per hectare |
 | - (d) Management of grassland in or on which archaeological features are located | 16 per hectare | 16 per hectare | £16 per hectare |
-| - (e)[^key-f4cc1d9b671d206bd13041fb562811a7] Maintenance of traditional farm buildings | 2 per square metre of ground floor area | 2 per square metre of ground floor area | £2 per square metre of ground floor area |
+| - (e)[^c-f4cc1d9b671d206bd13041fb562811a7] Maintenance of traditional farm buildings | 2 per square metre of ground floor area | 2 per square metre of ground floor area | £2 per square metre of ground floor area |
 | **5.** **Buffer strips—** |  |  |  |
 | - (a) Creation (where appropriate) and maintenance of 2 metre buffer strips on cultivated land | 300 per hectare |  | £300 per hectare |
 | - (b) Creation (where appropriate) and maintenance of 2 metre buffer strips on rotational land |  | 400 per hectare | £400 per hectare |
@@ -397,7 +397,7 @@ In this Schedule—
 | - (d) Management of rush pastures | 60 per hectare | 60 per hectare | £60 per hectare |
 | - (e) Establishment (where appropriate) and maintenance of rough grazing on land in parcels of less than 15 hectares | 35 per hectare | 35 per hectare | £35 per hectare |
 | - (f) Establishment (where appropriate) and maintenance of rough grazing on land in parcels of 15 hectares or more | 5 per hectare |  | £5 per hectare |
-| - (g)[^key-a49aec97bdaa6a2c90d0b8ac72ac5ef1] Stocking land with cattle and sheep | 8 per hectare | 8 per hectare | £8 per hectare |
+| - (g)[^c-a49aec97bdaa6a2c90d0b8ac72ac5ef1] Stocking land with cattle and sheep | 8 per hectare | 8 per hectare | £8 per hectare |
 | **11.** **Preparation of land management plans—** |  |  |  |
 | - (a) Soil management | 3 per hectare | 3 per hectare | £3 per hectare |
 | - (b) Nutrient management | 2 per hectare | 2 per hectare | £2 per hectare |
@@ -494,7 +494,7 @@ In this Schedule—
 | - (f) Upgrading and maintenance of bridleways or cycle paths on farm land | £90 per 100 metres |
 | - (g) Permitting and making provision for access to farm land for educational visits | £100 per visit |
 | - (h) Permitting and making provision for public access to farm land – base payment for (a) to (f) above | £350 per environmental stewardship agreement |
-| - (i) Permitting access to farm land for educational visits – base payment for (g) above | £500 per year[^key-fc564e081143107a7d81242580cfe94a] |
+| - (i) Permitting access to farm land for educational visits – base payment for (g) above | £500 per year[^c-fc564e081143107a7d81242580cfe94a] |
 | **10.** **Lowland heathland—** |  |
 | - (a) Maintenance of lowland heathland | £200 per hectare |
 | - (b) Restoration of heathland on neglected sites | £200 per hectare |
@@ -532,7 +532,7 @@ In this Schedule—
 | - (c) Supplement for the management of small fields | £35 per hectare |
 | - (d) Supplement for the management of difficult sites | £50 per hectare |
 | - (e) Supplement for land in respect of which there is more than one rights holder or owner | £10 per hectare |
-| - (f)[^key-c344b918e296f3d3a1c1fc99827f735f] Supplement for cattle grazing for conservation purposes | £35 per hectare |
+| - (f)[^c-c344b918e296f3d3a1c1fc99827f735f] Supplement for cattle grazing for conservation purposes | £35 per hectare |
 | - (g) Supplement for grazing native breeds at risk | £70 per hectare |
 
 ### PART 4 — HLS capital works items
@@ -546,7 +546,7 @@ In this Schedule—
 | - (c) Hedgerow restoration – removal of fence posts and wires | £0.60 per metre |
 | - (d) Hedgerow restoration – preparatory work on hedges more than 1.5 metres wide and 5 metres high | £2.40 per metre |
 | - (e) Hedgerow restoration – additional work which involves use of staking and top binding | £2.40 per metre |
-| [^key-c8acd560e7eb6be6584059e4ddc5f86f]. . . | [^key-c8acd560e7eb6be6584059e4ddc5f86f]. . . |
+| [^c-c8acd560e7eb6be6584059e4ddc5f86f]. . . | [^c-c8acd560e7eb6be6584059e4ddc5f86f]. . . |
 | - (g) Restoration of stone walls | £16 per metre |
 | - (h) Supplement to (g) above where 50% or more of the stone is imported from elsewhere on the holding | £6 per metre |
 | - (i) Supplement to (g) above where 50% or more of the stone is imported from outside the holding | £30 per metre |
@@ -590,7 +590,7 @@ In this Schedule—
 | - (e) Installation of timber sluices | £314 per sluice |
 | - (f) Installation of brick, stone or concrete sluices | £960 per sluice |
 | - (g) Creation of scrapes | £1.40 per square metre of surface area up to 100 square metres, and £0.90 per square metre thereafter |
-| [^key-4e8a45218d842155c2760c8cb37c826d]. . . | [^key-4e8a45218d842155c2760c8cb37c826d]. . . |
+| [^c-4e8a45218d842155c2760c8cb37c826d]. . . | [^c-4e8a45218d842155c2760c8cb37c826d]. . . |
 | **6.** **Ponds—** |  |
 | - (a) Creation of ponds | £3 per square metre of surface area up to 100 square metres, and £1 per square metre thereafter |
 | - (b) Restoration of existing ponds | £2.10 per square metre of surface area up to 100 square metres of surface area, and £0.80 per square metre thereafter |
@@ -636,7 +636,7 @@ In this Schedule—
 | - (l) Installation of benches | £115 per bench |
 | - (m) Payment for professional help in the preparation of notes for schoolteachers in relation to agreement land to which access for educational visits is permitted | £490 per environmental stewardship agreement |
 | **13.** **Other items—** |  |
-| [^key-c0d262c619975e2348909d6a6c9f740d]. . . | [^key-c0d262c619975e2348909d6a6c9f740d]. . . |
+| [^c-c0d262c619975e2348909d6a6c9f740d]. . . | [^c-c0d262c619975e2348909d6a6c9f740d]. . . |
 | - (b) Payment for professional help in the preparation of management plans | £400 per plan |
 
 ### PART 5 — HLS capital works items
@@ -765,42 +765,42 @@ A full regulatory impact assessment has not been produced for these Regulations 
 
 [^c1133532]: Marginal citation: [Section 99](https://www.legislation.gov.uk/uksi/2005/621/section/99) was amended by article 3(d) of the [Development Commission (Transfer of Functions and Miscellaneous Provisions) Order 1999 (S.I. 1999/416)](https://www.legislation.gov.uk/uksi/1999/416) and by section 73(4) of, and Schedule 8 to, the [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37).
 
-[^key-3673b217a734b8fbf7948bec9aa48de5]: Modification: Regulations applied (with modifications) (31.12.2020) by [S.I. 2019/733](https://www.legislation.gov.uk/uksi/2019/733), [reg. 7](https://www.legislation.gov.uk/uksi/2019/733/regulation/7) (as inserted by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [11(4)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/11/4))
+[^c-3673b217a734b8fbf7948bec9aa48de5]: Modification: Regulations applied (with modifications) (31.12.2020) by [S.I. 2019/733](https://www.legislation.gov.uk/uksi/2019/733), [reg. 7](https://www.legislation.gov.uk/uksi/2019/733/regulation/7) (as inserted by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [11(4)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/11/4))
 
-[^key-a63f84a4769d32b77ee8b8692752f298]: Textual amendment: Words in reg. 2(1) substituted (15.8.2005) by [The Environmental Stewardship (England) and Organic Products (Amendment) Regulations 2005 (S.I. 2005/2003)](https://www.legislation.gov.uk/uksi/2005/2003), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2003/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2005/2003/regulation/3)
+[^c-a63f84a4769d32b77ee8b8692752f298]: Textual amendment: Words in reg. 2(1) substituted (15.8.2005) by [The Environmental Stewardship (England) and Organic Products (Amendment) Regulations 2005 (S.I. 2005/2003)](https://www.legislation.gov.uk/uksi/2005/2003), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2003/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2005/2003/regulation/3)
 
-[^key-2d214efc20719b23b795e970965b5c06]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/621/regulation/2) substituted (4.9.2006) by [The Environmental Stewardship (England) and Organic Products (Amendment) Regulations 2006 (S.I. 2006/2075)](https://www.legislation.gov.uk/uksi/2006/2075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2075/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2006/2075/regulation/3/b)
+[^c-2d214efc20719b23b795e970965b5c06]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/621/regulation/2) substituted (4.9.2006) by [The Environmental Stewardship (England) and Organic Products (Amendment) Regulations 2006 (S.I. 2006/2075)](https://www.legislation.gov.uk/uksi/2006/2075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2075/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2006/2075/regulation/3/b)
 
 [^c1133534]: Marginal citation: O.J. L 198, 22.07.1991, p. 124.
 
-[^key-4c594516779e203679261e6912079905]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/621/regulation/2) substituted (4.9.2006) by [The Environmental Stewardship (England) and Organic Products (Amendment) Regulations 2006 (S.I. 2006/2075)](https://www.legislation.gov.uk/uksi/2006/2075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2075/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2006/2075/regulation/3/a)
+[^c-4c594516779e203679261e6912079905]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/621/regulation/2) substituted (4.9.2006) by [The Environmental Stewardship (England) and Organic Products (Amendment) Regulations 2006 (S.I. 2006/2075)](https://www.legislation.gov.uk/uksi/2006/2075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2075/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2006/2075/regulation/3/a)
 
 [^c1133536]: Marginal citation: O.J. L 141, 30.04.2004, p.18.
 
 [^c1133537]: Marginal citation: Regulation 3(1) of the [Organic Products Regulations 2004 (S.I. 2004/1604)](https://www.legislation.gov.uk/uksi/2004/1604) designates the Secretary of State as the competent authority for the purposes of Article 9(4) of the Council Regulation.
 
-[^key-87454016cec564d1b7119e463458aba8]: Textual amendment: Word in [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2005/621/regulation/3/3/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 9](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/9)
+[^c-87454016cec564d1b7119e463458aba8]: Textual amendment: Word in [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2005/621/regulation/3/3/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 9](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/9)
 
-[^key-16d578dc5340aa0c900009ba1f293c9b]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2005/621/regulation/3/3) substituted (31.12.2020) by [The Common Agricultural Policy and Agriculture and Horticulture Development Board (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/733)](https://www.legislation.gov.uk/uksi/2019/733), [regs. 1](https://www.legislation.gov.uk/uksi/2019/733/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/733/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-16d578dc5340aa0c900009ba1f293c9b]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2005/621/regulation/3/3) substituted (31.12.2020) by [The Common Agricultural Policy and Agriculture and Horticulture Development Board (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/733)](https://www.legislation.gov.uk/uksi/2019/733), [regs. 1](https://www.legislation.gov.uk/uksi/2019/733/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/733/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c1133539]: Marginal citation: [S.I. 2000/3044](https://www.legislation.gov.uk/uksi/2000/3044); the relevant amending instrument is [S.I. 2001/431](https://www.legislation.gov.uk/uksi/2001/431).
 
 [^c1133540]: Marginal citation: [S.I. 2003/1235](https://www.legislation.gov.uk/uksi/2003/1235).
 
-[^key-81c662a0b9a80d5c0033fc2f8d120a09]: Textual amendment: Words in Sch. 2 Pt. 1 inserted (30.4.2006) by [The Environmental Stewardship (England) and Countryside Stewardship (Amendment) Regulations 2006 (S.I. 2006/991)](https://www.legislation.gov.uk/uksi/2006/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/991/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2006/991/regulation/2/2)
+[^c-81c662a0b9a80d5c0033fc2f8d120a09]: Textual amendment: Words in Sch. 2 Pt. 1 inserted (30.4.2006) by [The Environmental Stewardship (England) and Countryside Stewardship (Amendment) Regulations 2006 (S.I. 2006/991)](https://www.legislation.gov.uk/uksi/2006/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/991/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2006/991/regulation/2/2)
 
-[^key-f4cc1d9b671d206bd13041fb562811a7]: Textual amendment: Words in Sch. 2 Pt. 2 Table added (30.4.2006) by [The Environmental Stewardship (England) and Countryside Stewardship (Amendment) Regulations 2006 (S.I. 2006/991)](https://www.legislation.gov.uk/uksi/2006/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/991/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2006/991/regulation/2/3/a)
+[^c-f4cc1d9b671d206bd13041fb562811a7]: Textual amendment: Words in Sch. 2 Pt. 2 Table added (30.4.2006) by [The Environmental Stewardship (England) and Countryside Stewardship (Amendment) Regulations 2006 (S.I. 2006/991)](https://www.legislation.gov.uk/uksi/2006/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/991/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2006/991/regulation/2/3/a)
 
-[^key-a49aec97bdaa6a2c90d0b8ac72ac5ef1]: Textual amendment: Words in Sch. 2 Pt. 2 Table added (30.4.2006) by [The Environmental Stewardship (England) and Countryside Stewardship (Amendment) Regulations 2006 (S.I. 2006/991)](https://www.legislation.gov.uk/uksi/2006/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/991/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2006/991/regulation/2/3/b)
+[^c-a49aec97bdaa6a2c90d0b8ac72ac5ef1]: Textual amendment: Words in Sch. 2 Pt. 2 Table added (30.4.2006) by [The Environmental Stewardship (England) and Countryside Stewardship (Amendment) Regulations 2006 (S.I. 2006/991)](https://www.legislation.gov.uk/uksi/2006/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/991/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2006/991/regulation/2/3/b)
 
-[^key-fc564e081143107a7d81242580cfe94a]: Textual amendment: Word in Sch. 2 Pt. 3 Table substituted (30.4.2006) by [The Environmental Stewardship (England) and Countryside Stewardship (Amendment) Regulations 2006 (S.I. 2006/991)](https://www.legislation.gov.uk/uksi/2006/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/991/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2006/991/regulation/2/4/a)
+[^c-fc564e081143107a7d81242580cfe94a]: Textual amendment: Word in Sch. 2 Pt. 3 Table substituted (30.4.2006) by [The Environmental Stewardship (England) and Countryside Stewardship (Amendment) Regulations 2006 (S.I. 2006/991)](https://www.legislation.gov.uk/uksi/2006/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/991/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2006/991/regulation/2/4/a)
 
-[^key-c344b918e296f3d3a1c1fc99827f735f]: Textual amendment: Words in Sch. 2 Pt. 3 Table added (30.4.2006) by [The Environmental Stewardship (England) and Countryside Stewardship (Amendment) Regulations 2006 (S.I. 2006/991)](https://www.legislation.gov.uk/uksi/2006/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/991/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2006/991/regulation/2/4/b)
+[^c-c344b918e296f3d3a1c1fc99827f735f]: Textual amendment: Words in Sch. 2 Pt. 3 Table added (30.4.2006) by [The Environmental Stewardship (England) and Countryside Stewardship (Amendment) Regulations 2006 (S.I. 2006/991)](https://www.legislation.gov.uk/uksi/2006/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/991/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2006/991/regulation/2/4/b)
 
-[^key-c8acd560e7eb6be6584059e4ddc5f86f]: Textual amendment: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2005/621/schedule/2/part/4) entry omitted (30.4.2006) by virtue of [The Environmental Stewardship (England) and Countryside Stewardship (Amendment) Regulations 2006 (S.I. 2006/991)](https://www.legislation.gov.uk/uksi/2006/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/991/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2006/991/regulation/2/5/a)
+[^c-c8acd560e7eb6be6584059e4ddc5f86f]: Textual amendment: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2005/621/schedule/2/part/4) entry omitted (30.4.2006) by virtue of [The Environmental Stewardship (England) and Countryside Stewardship (Amendment) Regulations 2006 (S.I. 2006/991)](https://www.legislation.gov.uk/uksi/2006/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/991/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2006/991/regulation/2/5/a)
 
-[^key-4e8a45218d842155c2760c8cb37c826d]: Textual amendment: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2005/621/schedule/2/part/4) entry omitted (30.4.2006) by virtue of [The Environmental Stewardship (England) and Countryside Stewardship (Amendment) Regulations 2006 (S.I. 2006/991)](https://www.legislation.gov.uk/uksi/2006/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/991/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2006/991/regulation/2/5/b)
+[^c-4e8a45218d842155c2760c8cb37c826d]: Textual amendment: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2005/621/schedule/2/part/4) entry omitted (30.4.2006) by virtue of [The Environmental Stewardship (England) and Countryside Stewardship (Amendment) Regulations 2006 (S.I. 2006/991)](https://www.legislation.gov.uk/uksi/2006/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/991/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2006/991/regulation/2/5/b)
 
-[^key-c0d262c619975e2348909d6a6c9f740d]: Textual amendment: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2005/621/schedule/2/part/4) entry omitted (30.4.2006) by virtue of [The Environmental Stewardship (England) and Countryside Stewardship (Amendment) Regulations 2006 (S.I. 2006/991)](https://www.legislation.gov.uk/uksi/2006/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/991/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2006/991/regulation/2/5/c)
+[^c-c0d262c619975e2348909d6a6c9f740d]: Textual amendment: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2005/621/schedule/2/part/4) entry omitted (30.4.2006) by virtue of [The Environmental Stewardship (England) and Countryside Stewardship (Amendment) Regulations 2006 (S.I. 2006/991)](https://www.legislation.gov.uk/uksi/2006/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/991/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2006/991/regulation/2/5/c)
 
 [^c1133541]: Marginal citation: [Section 2(2)](https://www.legislation.gov.uk/uksi/2005/621/section/2/2) of the European Communities Act 1972 is used for the purposes of making grant for the upkeep of the landscape and environmental features on agricultural land pursuant to Article 22(d) of Council Regulation (EC) No 1257/1999 (O.J. L 198, 22.07.1991, p. 124).

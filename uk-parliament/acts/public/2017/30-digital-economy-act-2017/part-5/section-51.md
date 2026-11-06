@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Information disclosed by the Revenue and Customs[^key-a3d5756f4da5258cdfdb476a7e3cfe4e][^key-0791b2c74b21e81f975a5ff3641a5a57]
+## 51. Information disclosed by the Revenue and Customs[^c-a3d5756f4da5258cdfdb476a7e3cfe4e][^c-0791b2c74b21e81f975a5ff3641a5a57]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a3d5756f4da5258cdfdb476a7e3cfe4e]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2017/30/section/51) in force at 1.5.2018 for E.W.S. by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/p)
+[^c-a3d5756f4da5258cdfdb476a7e3cfe4e]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2017/30/section/51) in force at 1.5.2018 for E.W.S. by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/p)
 
-[^key-0791b2c74b21e81f975a5ff3641a5a57]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2017/30/section/51) in force at 12.2.2026 for N.I. by [S.I. 2026/126](https://www.legislation.gov.uk/uksi/2026/126), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2026/126/regulation/2/k)
+[^c-0791b2c74b21e81f975a5ff3641a5a57]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2017/30/section/51) in force at 12.2.2026 for N.I. by [S.I. 2026/126](https://www.legislation.gov.uk/uksi/2026/126), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2026/126/regulation/2/k)

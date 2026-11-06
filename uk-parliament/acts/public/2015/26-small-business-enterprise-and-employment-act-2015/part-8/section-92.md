@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Duty to deliver confirmation statement instead of annual return[^key-c2c6c190417a2675ebdfcfb8e66a3dcd][^key-1572f0514440953c00a0e95643df3f49]
+## 92. Duty to deliver confirmation statement instead of annual return[^c-c2c6c190417a2675ebdfcfb8e66a3dcd][^c-1572f0514440953c00a0e95643df3f49]
 
 *Extent: E+W+S+N.I.*
 
@@ -261,6 +261,6 @@ For Part 24 of the Companies Act 2006 (annual return) substitute—
 
 ## Annotations
 
-[^key-c2c6c190417a2675ebdfcfb8e66a3dcd]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2015/26/section/92) in force at 1.5.2016 for specified purposes by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 5](https://www.legislation.gov.uk/uksi/2016/321/regulation/5) (with [Sch. para. 5](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/5))
+[^c-c2c6c190417a2675ebdfcfb8e66a3dcd]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2015/26/section/92) in force at 1.5.2016 for specified purposes by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 5](https://www.legislation.gov.uk/uksi/2016/321/regulation/5) (with [Sch. para. 5](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/5))
 
-[^key-1572f0514440953c00a0e95643df3f49]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2015/26/section/92) in force at 30.6.2016 in so far as not already in force by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(a)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/a) (with [Sch. paras. 7-11](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/7))
+[^c-1572f0514440953c00a0e95643df3f49]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2015/26/section/92) in force at 30.6.2016 in so far as not already in force by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(a)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/a) (with [Sch. paras. 7-11](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/7))

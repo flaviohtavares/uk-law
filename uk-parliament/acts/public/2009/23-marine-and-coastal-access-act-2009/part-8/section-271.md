@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271. Retention of property seized under section 268 or 269[^key-8a18984c06c000b1228628051cda0e60]
+## 271. Retention of property seized under section 268 or 269[^c-8a18984c06c000b1228628051cda0e60]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a18984c06c000b1228628051cda0e60]: Commencement: S. 271 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)
+[^c-8a18984c06c000b1228628051cda0e60]: Commencement: S. 271 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)

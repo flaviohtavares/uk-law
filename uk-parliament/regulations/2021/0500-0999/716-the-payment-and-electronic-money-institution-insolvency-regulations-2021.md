@@ -49,25 +49,25 @@ The Treasury have consulted in accordance with section 235(3) of the Banking Act
 
 A draft of these Regulations has been laid before and approved by a resolution of each House of Parliament in accordance with section 235(2) of the Banking Act 2009 as applied and modified by regulation 24A of, and paragraph 4 of Schedule 2ZA to, the EMR 2011 and regulation 23A of, and paragraph 4 of Schedule 3A to, the PSR 2017, and paragraph 1(3) of Schedule 7 to the European Union (Withdrawal) Act 2018.
 
-## 1. Citation[^key-bd9a6d2bb23b3b15b54447d13746dfbb]
+## 1. Citation[^c-bd9a6d2bb23b3b15b54447d13746dfbb]
 
 These Regulations may be cited as the Payment and Electronic Money Institution Insolvency Regulations 2021.
 
-## 2. Commencement[^key-3e7acf0399d05fde2d9986429e90c582]
+## 2. Commencement[^c-3e7acf0399d05fde2d9986429e90c582]
 
 These Regulations come into force on the twenty-first day after the day on which they are made.
 
-## 3. Extent[^key-edc9f3d982bc12587ff728906a70116c]
+## 3. Extent[^c-edc9f3d982bc12587ff728906a70116c]
 
-(1) These Regulations extend to England and Wales , Scotland and Northern Ireland[^key-6541a973e2a0b1a2ff90fc2656f59f5a], subject as follows.
+(1) These Regulations extend to England and Wales , Scotland and Northern Ireland[^c-6541a973e2a0b1a2ff90fc2656f59f5a], subject as follows.
 
-(2)[^key-42231a4e91507f51950705e4c132a9f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-42231a4e91507f51950705e4c132a9f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) A modification made by Schedule 3 has the same extent as the provision modified.
 
 (4) An amendment made by Schedule 4 has the same extent as the provision amended.
 
-## 4. Overview[^key-a3dd64dd3108c55661603a6cc2e0b335]
+## 4. Overview[^c-a3dd64dd3108c55661603a6cc2e0b335]
 
 (1) Regulations 7 to 48 and Schedules 1 to 4 make provision about the insolvency of payment institutions and electronic money institutions (“institutions”).
 
@@ -82,11 +82,11 @@ These Regulations come into force on the twenty-first day after the day on which
 
 (5) Regulation 49 corrects a defect in an instrument relating to the United Kingdom’s withdrawal from the European Union and bank recovery and resolution.
 
-## 5. Application: Scottish ... partnerships[^key-f2ffd4590bd9bf4c2ab5aa4c7d0a462a][^key-42d222a389ae3776c9c971567753be1b]
+## 5. Application: Scottish ... partnerships[^c-f2ffd4590bd9bf4c2ab5aa4c7d0a462a][^c-42d222a389ae3776c9c971567753be1b]
 
-Regulations 7 to 47 do not apply to the insolvency of [^key-ab035d32d2b00ed760cf9b5a0400a5d8]... partnerships formed under the law of Scotland.
+Regulations 7 to 47 do not apply to the insolvency of [^c-ab035d32d2b00ed760cf9b5a0400a5d8]... partnerships formed under the law of Scotland.
 
-## 6. Definitions[^key-27847415f448d5cc5327fb305bf867cd]
+## 6. Definitions[^c-27847415f448d5cc5327fb305bf867cd]
 
 In these Regulations, the words and expressions in the first column of the Table have the meaning indicated in the second column—
 
@@ -95,10 +95,10 @@ In these Regulations, the words and expressions in the first column of the Table
 | BA 2009 | Banking Act 2009[^f00006] |
 | CA 2006 | Companies Act 2006[^f00007] |
 | CDDA 1986 | Company Directors Disqualification Act 1986[^f00008] |
-| CDD(NI)O 2002[^key-5088eb4406dc021d75a9714f67431f4e] | Company Directors Disqualification (Northern Ireland) Order 2002 |
+| CDD(NI)O 2002[^c-5088eb4406dc021d75a9714f67431f4e] | Company Directors Disqualification (Northern Ireland) Order 2002 |
 | FSMA 2000 | has the meaning given in regulation 4(4) |
 | IA 1986 | Insolvency Act 1986[^f00009] |
-| I(NI)O 1989[^key-0516f43156fa52fcc466ce3c5f907c40] | Insolvency (Northern Ireland) Order 1989 |
+| I(NI)O 1989[^c-0516f43156fa52fcc466ce3c5f907c40] | Insolvency (Northern Ireland) Order 1989 |
 | SBEEA 2015 | Small Business, Enterprise and Employment Act 2015[^f00010] |
 | EMR 2011 | Electronic Money Regulations 2011[^f00011] |
 | IBSAR 2011 | Investment Bank Special Administration Regulations 2011[^f00012] |
@@ -110,16 +110,16 @@ In these Regulations, the words and expressions in the first column of the Table
 | asset pool (in the case of payment institutions) | see regulation 23(18) of the PSR 2017 |
 | authorised payment institution | see regulation 2(1) of the PSR 2017 |
 | Authorities | the Bank of England, the Treasury and the FCA |
-| contributory | (a) in England and Wales and Scotland,[^key-397d68ede9a5276621dcf0d8a442befc] has the same meaning as in the IA 1986 (see section 79 of that Act) as applied and modified by these Regulations , and<br>(b) in Northern Ireland, has the same meaning as in the I(NI)O 1989 (see Article 13 of that Order) as applied and modified by these Regulations |
+| contributory | (a) in England and Wales and Scotland,[^c-397d68ede9a5276621dcf0d8a442befc] has the same meaning as in the IA 1986 (see section 79 of that Act) as applied and modified by these Regulations , and<br>(b) in Northern Ireland, has the same meaning as in the I(NI)O 1989 (see Article 13 of that Order) as applied and modified by these Regulations |
 | court | (a) in England and Wales and in Northern Ireland, the High Court, and<br>(b) in Scotland, the Court of Session |
 | electronic money | see regulation 2(1) of the EMR 2011 |
 | electronic money institution | see regulation 2(1) of the EMR 2011 |
-| enactment | includes—<br>(a) an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament,<br>(b) an enactment contained in, or in an instrument made under, a Measure or Act of Senedd Cymru,<br>(ba) an enactment contained in, or in an instrument made under, Northern Ireland legislation, and<br>(c) any assimilated direct[^key-e7358c813744c0bec9bb253d29d89685] legislation |
+| enactment | includes—<br>(a) an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament,<br>(b) an enactment contained in, or in an instrument made under, a Measure or Act of Senedd Cymru,<br>(ba) an enactment contained in, or in an instrument made under, Northern Ireland legislation, and<br>(c) any assimilated direct[^c-e7358c813744c0bec9bb253d29d89685] legislation |
 | fair | has the same meaning as in Part 2 of the BA 2009 (see section 93(8) of that Act) |
 | FCA | Financial Conduct Authority |
 | foreign property | has the same meaning as in the BA 2009 (see section 39(2) of that Act) |
 | holder | electronic money holder |
-| special administration insolvency rules | (a) in relation to special administrations in England and Wales, or Scotland, means rules made under section 411 of the IA 1986,[^key-ad5e75208d5613a2565fde267db530ab]<br>(b) in relation to special administrations in Northern Ireland, means rules made under Article 359 of the I(NI)O 1989,<br>in each case as applied and modified by these Regulations to give effect to these Regulations. |
+| special administration insolvency rules | (a) in relation to special administrations in England and Wales, or Scotland, means rules made under section 411 of the IA 1986,[^c-ad5e75208d5613a2565fde267db530ab]<br>(b) in relation to special administrations in Northern Ireland, means rules made under Article 359 of the I(NI)O 1989,<br>in each case as applied and modified by these Regulations to give effect to these Regulations. |
 | institution | has the meaning given in regulation 4(1) |
 | institution’s own bank accounts | includes any account, other than a relevant funds account, opened by the administrator for the purposes of the special administration |
 | Objective 1 | has the meaning given in regulation in 12(2) |
@@ -155,7 +155,7 @@ In these Regulations, the words and expressions in the first column of the Table
 | voluntarily safeguard (in the case of small electronic money institutions) | voluntarily safeguard pursuant to regulation 20(6) of the EMR 2011 and regulation 23(16) of the PSR 2017 |
 | voluntarily safeguard (in the case of small payment institutions) | voluntarily safeguard pursuant to regulation 23(16) of the PSR 2017 |
 
-## 7. Special administration order[^key-4d451ad33ca0df0960bc48b20fb49589]
+## 7. Special administration order[^c-4d451ad33ca0df0960bc48b20fb49589]
 
 (1) A special administration order is an order appointing a person as the administrator of an institution.
 
@@ -170,15 +170,15 @@ In these Regulations, the words and expressions in the first column of the Table
 - (c) an institution ceases to be in special administration when the appointment of the administrator ceases to have effect in accordance with these Regulations, and
 - (d) an institution does not cease to be in special administration merely because an administrator vacates office (by reason of resignation, death or otherwise) or is removed from office.
 
-## 8. Application for order[^key-7d60432d9e9e8696a62933072c3d4e48]
+## 8. Application for order[^c-7d60432d9e9e8696a62933072c3d4e48]
 
 (1) An application to the court for a special administration order may be made to the court by—
 
 - (a) the institution,
 - (b) the directors of the institution,
 - (c) one or more creditors of the institution,
-- (d) in England and Wales,[^key-ed303bc2da7e23e7c04d745048f76bc1] the designated officer for a magistrates’ court in the exercise of the power conferred by section 87A of the Magistrates’ Courts Act 1980[^f00016],
-- (da)[^key-17b5cdc603919cae5d781fd1154729d8] in Northern Ireland, the chief clerk in the exercise of the power conferred by section 35(4A) of the Criminal Justice Act (Northern Ireland) 1945,
+- (d) in England and Wales,[^c-ed303bc2da7e23e7c04d745048f76bc1] the designated officer for a magistrates’ court in the exercise of the power conferred by section 87A of the Magistrates’ Courts Act 1980[^f00016],
+- (da)[^c-17b5cdc603919cae5d781fd1154729d8] in Northern Ireland, the chief clerk in the exercise of the power conferred by section 35(4A) of the Criminal Justice Act (Northern Ireland) 1945,
 - (db) in Northern Ireland, a clerk of petty sessions in exercise of the power conferred by Article 92A of the Magistrates’ Courts (Northern Ireland) Order 1981,
 - (e) a contributory of the institution, subject to paragraph (7),
 - (f) a combination of persons listed in sub-paragraphs (a) to (e),
@@ -206,7 +206,7 @@ In these Regulations, the words and expressions in the first column of the Table
 - (a) the number of members is reduced below 2, or
 - (b) the shares in respect of which C is a contributory, or some of them, either were originally allotted to C, or have been held by C and registered in C’s name, for at least 6 months during the 18 months before the commencement of the special administration, or have devolved on C through the death of a former holder.
 
-## 9. Grounds for applying[^key-2023a2724dc5400c87611c308d22e2ad]
+## 9. Grounds for applying[^c-2023a2724dc5400c87611c308d22e2ad]
 
 (1) In this regulation—
 
@@ -220,9 +220,9 @@ In these Regulations, the words and expressions in the first column of the Table
 
 (4) The Secretary of State may apply for a special administration order only if it appears to the Secretary of State that Grounds B and C are met.
 
-(5) The sources of information on the basis of which the Secretary of State may reach a decision on Ground C include those listed in section 124A(1) of the IA 1986 or, as the case may be, Article 104A of the I(NI)O 1989[^key-6b8170186b1e6a0d4cf494cb39a75373] (petition for winding up on grounds of public interest).
+(5) The sources of information on the basis of which the Secretary of State may reach a decision on Ground C include those listed in section 124A(1) of the IA 1986 or, as the case may be, Article 104A of the I(NI)O 1989[^c-6b8170186b1e6a0d4cf494cb39a75373] (petition for winding up on grounds of public interest).
 
-## 10. Powers of the court[^key-441705ed78520b9e68e0865c052e2204]
+## 10. Powers of the court[^c-441705ed78520b9e68e0865c052e2204]
 
 (1) On an application for a special administration order the court may—
 
@@ -233,10 +233,10 @@ In these Regulations, the words and expressions in the first column of the Table
 - (e) on the application of the FCA, treat the application as an application by the FCA for Schedule B1 administration in accordance with section 359(1) of the FSMA 2000[^f00018];
 - (f) make any other order which the court thinks appropriate.
 
-(2) The court may make a special administration order if it is satisfied [^key-c105686a8a3843ab673a1094d2c7781f]...—
+(2) The court may make a special administration order if it is satisfied [^c-c105686a8a3843ab673a1094d2c7781f]...—
 
 - (a) on the application of persons listed in regulation 8(1)(a) to (e) or the FCA, that Ground A or Ground B in regulation 9 is satisfied, or
-- (b) on the application of the Secretary of State, [^key-46ba53227e330d58caee99f88994c728]... that Grounds B and C in regulation 9 are satisfied.
+- (b) on the application of the Secretary of State, [^c-46ba53227e330d58caee99f88994c728]... that Grounds B and C in regulation 9 are satisfied.
 
 (3) Where the application for a special administration order is made by members of the institution as contributories on the basis that Ground B in regulation 9 is satisfied, the court must make a special administration order if it is of the opinion that—
 
@@ -247,7 +247,7 @@ In these Regulations, the words and expressions in the first column of the Table
 
 (5) A special administration order takes effect in accordance with its terms.
 
-## 11. Notice to FCA: other proceedings[^key-9518b323ffd4a7dedfc9e654c6cea372]
+## 11. Notice to FCA: other proceedings[^c-9518b323ffd4a7dedfc9e654c6cea372]
 
 (1) An application for a Schedule B1 administration order in respect of an institution may not be determined unless all of Conditions 1 to 4 are satisfied.
 
@@ -282,9 +282,9 @@ In these Regulations, the words and expressions in the first column of the Table
 - (b) whether or not it intends to apply for those (or alternative) proceedings itself, or
 - (c) whether it intends to apply for a special administration order.
 
-(11) Arranging for the giving of the notice in order to satisfy Condition 1 may be treated as a step with a view to minimising the potential loss to the institution’s creditors for the purpose of section 214 of the IA 1986 or, as the case may be, Article 178 of the I(NI)O 1989[^key-a7337d777d3068b5e65d4ef60a0c39c7] as applied and modified by these Regulations.
+(11) Arranging for the giving of the notice in order to satisfy Condition 1 may be treated as a step with a view to minimising the potential loss to the institution’s creditors for the purpose of section 214 of the IA 1986 or, as the case may be, Article 178 of the I(NI)O 1989[^c-a7337d777d3068b5e65d4ef60a0c39c7] as applied and modified by these Regulations.
 
-## 12. Special administration objectives[^key-02d664a0763d0ca82fcb0331ce8d819b]
+## 12. Special administration objectives[^c-02d664a0763d0ca82fcb0331ce8d819b]
 
 (1) The administrator has the following special administration objectives.
 
@@ -319,7 +319,7 @@ subject to paragraph (10).
 
 where the institution had not chosen to voluntarily safeguard the funds when it entered special administration.
 
-## 13. Objective 1: initial reconciliation[^key-55a0b0999dc7674a0206f85a62d2a7f2]
+## 13. Objective 1: initial reconciliation[^c-55a0b0999dc7674a0206f85a62d2a7f2]
 
 (1) The administrator must carry out a reconciliation immediately after appointment, subject as follows.
 
@@ -367,7 +367,7 @@ after the institution’s last reconciliation and before the appointment of the 
 
 (15) This regulation does not apply to post-administration receipts (see regulation 16).
 
-## 14. Objective 1: constitution of asset pool[^key-c53750cc060ce2507c737ab5a236d7be]
+## 14. Objective 1: constitution of asset pool[^c-c53750cc060ce2507c737ab5a236d7be]
 
 (1) The administrator must take the following steps relating to the constitution of an asset pool—
 
@@ -395,7 +395,7 @@ after the institution’s last reconciliation and before the appointment of the 
 
 (7) This regulation does not apply to post-administration receipts (see regulation 16).
 
-## 15. Objective 1: monitoring and maintaining asset pool[^key-f2b9833627d6149aedccfe1fef0c8c6a]
+## 15. Objective 1: monitoring and maintaining asset pool[^c-f2b9833627d6149aedccfe1fef0c8c6a]
 
 (1) The administrator must monitor any funds, liquid assets or insurance policies or guarantees held within an asset pool.
 
@@ -420,7 +420,7 @@ after the institution’s last reconciliation and before the appointment of the 
 
 (6) This regulation does not apply to post-administration receipts (see regulation 16).
 
-## 16. Objective 1: post-administration receipts[^key-3d22576f47d5d63614edd884e8f3dfde]
+## 16. Objective 1: post-administration receipts[^c-3d22576f47d5d63614edd884e8f3dfde]
 
 (1) This regulation applies to relevant funds received by an institution while it is in special administration.
 
@@ -432,7 +432,7 @@ after the institution’s last reconciliation and before the appointment of the 
 
 (5) Regulations 17 to 34 do not apply to relevant funds to which this regulation applies.
 
-## 17. Objective 1: determining claim entitlements[^key-119471045a7f6d1c43486a5305bc4390]
+## 17. Objective 1: determining claim entitlements[^c-119471045a7f6d1c43486a5305bc4390]
 
 (1) The administrator must, in respect of an asset pool, as soon as reasonably practicable after appointment, determine—
 
@@ -452,7 +452,7 @@ after the institution’s last reconciliation and before the appointment of the 
 
 (4) Nothing in this regulation prevents an administrator from subsequently revising any determination under paragraph (1), in pursuit of Objective 1.
 
-## 18. Objective 1: principles of distribution[^key-f956ec06f3b4dcb93464d5b18c92229e]
+## 18. Objective 1: principles of distribution[^c-f956ec06f3b4dcb93464d5b18c92229e]
 
 (1) A user’s or holder’s entitlement to a distribution of relevant funds from an asset pool must be determined by reference to the amount of relevant funds which that person is entitled to claim against the institution (see regulation 17).
 
@@ -466,7 +466,7 @@ after the institution’s last reconciliation and before the appointment of the 
 
 (6) Relevant funds claims do not take priority over any third party’s fees and expenses for operating a relevant funds account in so far as the party has a right of set off or a security right against the funds for the fees or expenses.
 
-## 19. Objective 1: shortfalls in asset pool[^key-3f42ae39066d6f2bc3c85800f3a9230a]
+## 19. Objective 1: shortfalls in asset pool[^c-3f42ae39066d6f2bc3c85800f3a9230a]
 
 (1) This regulation applies if the administrator becomes aware —
 
@@ -483,7 +483,7 @@ after the institution’s last reconciliation and before the appointment of the 
 
 (5) An administrator may not, where an electronic money institution has two asset pools (see regulation 20(6) of the EMR 2011), offset any shortfall in one asset pool against any relevant funds or assets held in the other.
 
-## 20. Objective 1: bar date[^key-24e1a35e1f9f8ead14e4ead3f3c1bace]
+## 20. Objective 1: bar date[^c-24e1a35e1f9f8ead14e4ead3f3c1bace]
 
 (1) The administrator may, if they think it necessary in order to expedite the return of relevant funds from an asset pool, set a bar date for the submission of relevant funds claims.
 
@@ -511,7 +511,7 @@ after the institution’s last reconciliation and before the appointment of the 
 - “late, pre-distribution claim” means a relevant funds claim made after a bar date but before the corresponding distribution under paragraph (4);
 - “late, post-distribution claim” means a relevant funds claim made after a bar date and after the corresponding distribution under paragraph (4).
 
-## 21. Objective 1: hard bar date[^key-b2143fc006990a3742e47a6b4a22ac3f]
+## 21. Objective 1: hard bar date[^c-b2143fc006990a3742e47a6b4a22ac3f]
 
 (1) The administrator may, if they think it necessary in order to further expedite the return of relevant funds from an asset pool after setting a bar date under regulation 20, set a hard bar date for the submission of final relevant funds claims.
 
@@ -546,7 +546,7 @@ and no late claim may be founded on a beneficial interest in property.
     - (ii) those received by an electronic money institution for the execution of payment transactions which are not related to the issuance of electronic money, or
   - (b) regulations 20 to 24 of the EMR 2011, in the case of relevant funds received by an electronic money institution apart from those in paragraph (a)(ii).
 
-## 22. Objective 1: hard bar date: powers of the court[^key-d5ee1c5501d508146b2a80332af70c9c]
+## 22. Objective 1: hard bar date: powers of the court[^c-d5ee1c5501d508146b2a80332af70c9c]
 
 (1) On an application under regulation 21(3) for the approval of the court to set a hard bar date the court may—
 
@@ -559,7 +559,7 @@ and no late claim may be founded on a beneficial interest in property.
 - (a) it is satisfied that the administrator has taken all reasonable measures to identify and contact persons who may be entitled to the return of relevant funds, and
 - (b) it considers that, if a hard bar date is set, there is no reasonable prospect that the administrator will receive claims for the return of relevant funds after that date.
 
-## 23. Objective 1: interest on relevant funds claims[^key-0df666c736da66e7be3743d488b8cbff]
+## 23. Objective 1: interest on relevant funds claims[^c-0df666c736da66e7be3743d488b8cbff]
 
 (1) This regulation applies where—
 
@@ -569,7 +569,7 @@ and no late claim may be founded on a beneficial interest in property.
 
 (2) The user or holder is not entitled to interest on the debt for the period commencing on the date on which the institution entered special administration, except interest on such part of the debt which remains after deduction of the total amount which the user or holder would have received on a relevant funds claim.
 
-## 24. Objectives 1 and 3: transfer arrangements: overview[^key-0d233f81db438260b88a5ba8c850b8d6]
+## 24. Objectives 1 and 3: transfer arrangements: overview[^c-0d233f81db438260b88a5ba8c850b8d6]
 
 (1) This regulation and regulations 25 to 34 make provision for where there is a transfer arrangement.
 
@@ -589,7 +589,7 @@ and no late claim may be founded on a beneficial interest in property.
 - (a) the legal and beneficial interest of the institution in the property, and
 - (b) the powers and obligations of the institution acting as a trustee of the property.
 
-## 25. Objectives 1 and 3: TAs: Conditions 1 to 3[^key-97eaaf5f456433a6a7a14860b9438e4b]
+## 25. Objectives 1 and 3: TAs: Conditions 1 to 3[^c-97eaaf5f456433a6a7a14860b9438e4b]
 
 (1) The administrator may not enter into the TA unless all of Conditions 1 to 3 are met.
 
@@ -617,7 +617,7 @@ and no late claim may be founded on a beneficial interest in property.
 
 (8) Regulation 29(1) to (3) contains a further condition (Condition 4) for PPTAs.
 
-## 26. Objectives 1 and 3: TAs: effect[^key-89c49a1eb6cc2c629baf06a12146c5ca]
+## 26. Objectives 1 and 3: TAs: effect[^c-89c49a1eb6cc2c629baf06a12146c5ca]
 
 (1) The transfer of any of the following under the TA has effect, despite the existence of any matter mentioned in paragraph (2)—
 
@@ -644,7 +644,7 @@ and no late claim may be founded on a beneficial interest in property.
 
 (6) If the TA purports to be one which is not a PPTA despite a possibility that anything purportedly transferred is foreign property (and might not have been effectively transferred), the administrator may assume it is a TA which is not a PPTA and that regulations 29 to 34 do not apply.
 
-## 27. Objectives 1 and 3: TAs: novation of contracts[^key-ac0adafcf0a3eb8cfca240832d3d9f26]
+## 27. Objectives 1 and 3: TAs: novation of contracts[^c-ac0adafcf0a3eb8cfca240832d3d9f26]
 
 (1) The TA has effect so that contracts falling within Types 1 to 4 are to be read, immediately after the transfer, as if they had been made by the transferee rather than the institution.
 
@@ -660,7 +660,7 @@ and no late claim may be founded on a beneficial interest in property.
 - (a) to give effect to the TA, and
 - (b) to ensure that the powers, rights and obligations of the transferee acting as a trustee are exercisable.
 
-## 28. Objectives 1 and 3: TAs: disclosure of information[^key-10c9a68d86d32877bc6e73838b4e50d1]
+## 28. Objectives 1 and 3: TAs: disclosure of information[^c-10c9a68d86d32877bc6e73838b4e50d1]
 
 (1) The administrator may, where necessary for the purposes of a TA, disclose to the transferee all information which is, in the administrator’s view, relevant to the transfer of—
 
@@ -674,7 +674,7 @@ and no late claim may be founded on a beneficial interest in property.
 
 (4) “Data protection legislation” has the same meaning as in the Data Protection Act 2018[^f00020] (see section 3(9) of that Act).
 
-## 29. Objectives 1 and 3: PPTAs: Condition 4 and restrictions[^key-8278e33eacec805ddd30b1ae86916335]
+## 29. Objectives 1 and 3: PPTAs: Condition 4 and restrictions[^c-8278e33eacec805ddd30b1ae86916335]
 
 (1) The administrator may enter a PPTA only if Condition 4 is met (in addition to all of Conditions 1 to 3 in regulation 25).
 
@@ -697,7 +697,7 @@ and no late claim may be founded on a beneficial interest in property.
 - (b) all of the rights or liabilities under the corresponding PS or EMI contracts, and
 - (c) all of the rights and liabilities under other PS or EMI contracts for which no relevant funds are held at the time of transfer.
 
-## 30. Objectives 1 and 3: PPTAs: reverse transfers[^key-ef27c52efadd8f43bce41503e48c708d]
+## 30. Objectives 1 and 3: PPTAs: reverse transfers[^c-ef27c52efadd8f43bce41503e48c708d]
 
 (1) A PPTA must include such provision as the administrator thinks appropriate—
 
@@ -709,7 +709,7 @@ and no late claim may be founded on a beneficial interest in property.
 
 (3) The administrator must take all steps necessary to give effect to the reverse transfer.
 
-## 31. Objectives 1 and 3: PPTAs: set-off and netting[^key-751b1ae520fe10a7006d05f90228700e]
+## 31. Objectives 1 and 3: PPTAs: set-off and netting[^c-751b1ae520fe10a7006d05f90228700e]
 
 (1) A PPTA may not provide for the transfer of some (but not all) of the protected rights and liabilities (“PRL”) between the institution and—
 
@@ -748,7 +748,7 @@ and no late claim may be founded on a beneficial interest in property.
 - “set-off arrangement” means an arrangement under which two or more debts, claims or obligations can be set off against each other;
 - “title transfer financial collateral arrangement” has the same meaning as in the Financial Collateral Arrangements (No 2) Regulations 2003[^f00022] (see regulation 3(1)).
 
-## 32. Objectives 1 and 3: PPTAs: security interests[^key-9a88ac6a244e105f16713767e1446b41]
+## 32. Objectives 1 and 3: PPTAs: security interests[^c-9a88ac6a244e105f16713767e1446b41]
 
 (1) This regulation applies where under any binding arrangement one party owes to the other a liability which is secured against any property or rights.
 
@@ -775,7 +775,7 @@ and no late claim may be founded on a beneficial interest in property.
 
 (7) If a PPTA purports to be in compliance with paragraphs (4) to (6) despite a possibility that any property, right or liability is foreign property (and might not have been effectively transferred), the administrator may assume the property, rights and liabilities may be transferred in accordance with paragraphs (4) to (6).
 
-## 33. Objectives 1 and 3: PPTAs capital markets arrangements[^key-aa82fd23354dbca5942fd0ad99d10c1c]
+## 33. Objectives 1 and 3: PPTAs capital markets arrangements[^c-aa82fd23354dbca5942fd0ad99d10c1c]
 
 (1) A PPTA may not provide for the transfer of some (but not all) of the property, rights and liabilities which are or form part of a capital market arrangement to which the institution is a party (“CMPRL”).
 
@@ -785,10 +785,10 @@ and no late claim may be founded on a beneficial interest in property.
 
 (4) In this regulation—
 
-- “capital market arrangement” has the meaning given by paragraph 1 of Schedule 2A to the IA 1986[^f00023] or, as the case may be, paragraph 1 of Schedule 1A to the I(NI)O 1989[^key-8b8de4bccfb1d52d49f10808e391da39];
+- “capital market arrangement” has the meaning given by paragraph 1 of Schedule 2A to the IA 1986[^f00023] or, as the case may be, paragraph 1 of Schedule 1A to the I(NI)O 1989[^c-8b8de4bccfb1d52d49f10808e391da39];
 - “deposit” has the same meaning as in article 5 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00024], disregarding the exclusions in other articles of that Order.
 
-## 34. Objectives 1 and 3: PPTAs: financial markets[^key-fffa082a03acf11178a5b390f315bfba]
+## 34. Objectives 1 and 3: PPTAs: financial markets[^c-fffa082a03acf11178a5b390f315bfba]
 
 (1) A PPTA may not transfer property, rights and liabilities to the extent that doing so would have the effect of modifying, modifying the operation of, or rendering unenforceable—
 
@@ -803,7 +803,7 @@ and no late claim may be founded on a beneficial interest in property.
 - “default rules” has the same meaning as in the Companies Act 1989[^f00025] (see section 188 of that Act);
 - “market contract” has the same meaning as in the FSMA 2000 (see section 286(4) of that Act).
 
-## 35. Objective 2: engagement: payment systems, market disruption and consumer protection[^key-f440d94db9d7a543945b31b5065fede3]
+## 35. Objective 2: engagement: payment systems, market disruption and consumer protection[^c-f440d94db9d7a543945b31b5065fede3]
 
 (1) The administrator must work with payment system operators—
 
@@ -836,7 +836,7 @@ as a consequence of a special administration order being made in respect of the 
 - (a) which they would be entitled to refuse to provide on grounds of legal professional privilege in proceedings in the High Court or on grounds of confidentiality of communications in the Court of Session, or
 - (b) if such provision by the person holding it would be prohibited by or under any enactment.
 
-## 36. Continuity of supply[^key-9b46f6a38a6701e6ec9ed6c3cbc9bb7e]
+## 36. Continuity of supply[^c-9b46f6a38a6701e6ec9ed6c3cbc9bb7e]
 
 (1) This regulation applies where, before the special administration order is made, the institution had entered into arrangements with a supplier for the provision of a supply to the institution.
 
@@ -871,11 +871,11 @@ as a consequence of a special administration order being made in respect of the 
 
   but does not include any services provided for in the contract between the institution and the supplier beyond the provision of the supply.
 
-## 37. Application of the IA 1986 in England, Wales and Scotland[^key-4363a9140177a748c970598d65303b49][^key-2388c1a41baca025992d0d379ea296dd]
+## 37. Application of the IA 1986 in England, Wales and Scotland[^c-4363a9140177a748c970598d65303b49][^c-2388c1a41baca025992d0d379ea296dd]
 
 (1) The provisions of the IA 1986 mentioned in the first column of the Table apply to special administration as they apply to any other insolvency proceedings, with any modifications shown in the third column.
 
-(1A)[^key-02c4d8122409778e8c47d6e73d61639e] This regulation applies to the special administration of, or in relation to, an institution which is incorporated in, or formed under the law of England and Wales or Scotland.
+(1A)[^c-02c4d8122409778e8c47d6e73d61639e] This regulation applies to the special administration of, or in relation to, an institution which is incorporated in, or formed under the law of England and Wales or Scotland.
 
 (1B) For the purposes of paragraph (1A), an institution whose registered office, or in the case of an institution with no registered office, whose principal place of business, is situated in one part of the United Kingdom is to be treated as incorporated in, or formed under, the law of that part.
 
@@ -1024,9 +1024,9 @@ as a consequence of a special administration order being made in respect of the 
   </tbody>
   </table>
 
-  [^key-b8387e16947ab9c050133b913b1aca59][^key-48a56d614a5422ef6b6704c49c85a395][^key-89765f08a53367ba272d519aecd4c10c]
+  [^c-b8387e16947ab9c050133b913b1aca59][^c-48a56d614a5422ef6b6704c49c85a395][^c-89765f08a53367ba272d519aecd4c10c]
 
-## 37A. Application of the I(NI)O 1989 and related insolvency legislation in Northern Ireland[^key-0806a72f7740b86a03f7c244b93faa7e]
+## 37A. Application of the I(NI)O 1989 and related insolvency legislation in Northern Ireland[^c-0806a72f7740b86a03f7c244b93faa7e]
 
 (1) The provisions of the IA 1986 and the I(NI)O 1989 mentioned in the first column of the Table apply to special administration as they apply to any other insolvency proceedings, with any modifications shown in the third column.
 
@@ -1179,7 +1179,7 @@ as a consequence of a special administration order being made in respect of the 
 
   [^f00014]
 
-## 38. FCA direction[^key-8a3cc45596d68239d803a6cdd07cdc83]
+## 38. FCA direction[^c-8a3cc45596d68239d803a6cdd07cdc83]
 
 (1) The FCA may direct the administrator to prioritise one or more special administration objectives, subject as follows.
 
@@ -1195,23 +1195,23 @@ as a consequence of a special administration order being made in respect of the 
 
 (5) If the FCA thinks that the circumstances that gave rise to the need for it to give a direction have passed, it must withdraw its direction.
 
-(6)[^key-fa2d21eadf8ba6ca66443e4f1d91613f] Where the FCA has given a direction under this regulation and the direction has not been withdrawn, the following provisions do not apply—
+(6)[^c-fa2d21eadf8ba6ca66443e4f1d91613f] Where the FCA has given a direction under this regulation and the direction has not been withdrawn, the following provisions do not apply—
 
 - (a) in England and Wales and Scotland, paragraphs 49(1) to (3), 51, 53, 54 and 55 of Schedule B1 to the IA 1986;
 - (b) in Northern Ireland, paragraphs 50(1) to (3), 52, 54, 55 and 56 of Schedule B1 to the I(NI)O 1989.
 
-## 39. Administrator’s proposals in the event of FCA direction[^key-d3321cca1a480d22e9d30f3160e4cf00]
+## 39. Administrator’s proposals in the event of FCA direction[^c-d3321cca1a480d22e9d30f3160e4cf00]
 
 (1) Where the FCA has given a direction under regulation 38, the administrator must make a statement setting out proposals for achieving the special administration objectives in accordance with the direction.
 
 (2) The statement must deal with any matters set out in special administration insolvency rules and may include—
 
-- (a) a proposal for a voluntary arrangement under Part 1 of the IA 1986 or, as the case may be, Part 2 of the I(NI)O 1989[^key-9a6e7283819a01a081c3d1ddf46aad75], or
+- (a) a proposal for a voluntary arrangement under Part 1 of the IA 1986 or, as the case may be, Part 2 of the I(NI)O 1989[^c-9a6e7283819a01a081c3d1ddf46aad75], or
 - (b) a proposal for a compromise or arrangement to be sanctioned under Part 26 or Part 26A of the CA 2006 (arrangements and reconstructions).
 
 (3) The statement must be agreed with the FCA.
 
-(4) If the administrator is unable to agree the statement with the FCA, the administrator may apply to the court for directions under paragraph 63 of Schedule B1 to the IA 1986 or, as the case may be, paragraph 64 of Schedule B1 to the I(NI)O 1989[^key-abdff1c5a0d0ebb6454a0c794c64f7e0].
+(4) If the administrator is unable to agree the statement with the FCA, the administrator may apply to the court for directions under paragraph 63 of Schedule B1 to the IA 1986 or, as the case may be, paragraph 64 of Schedule B1 to the I(NI)O 1989[^c-abdff1c5a0d0ebb6454a0c794c64f7e0].
 
 (5) Following an application under sub-paragraph (4), the court may—
 
@@ -1228,15 +1228,15 @@ as a consequence of a special administration order being made in respect of the 
 - (a) the statement has been agreed with the FCA; or
 - (b) the court has made an order dispensing with the need for agreement,
 
-paragraph 49(4) to (8) of Schedule B1 to the IA 1986 or, as the case may be, paragraph 50(4) to (8) of Schedule B1 to the I(NI)O 1989[^key-a9814385f9068b16ede55d5adc745511] applies to the statement (though the administrator need not send the FCA a copy of the statement of proposals).
+paragraph 49(4) to (8) of Schedule B1 to the IA 1986 or, as the case may be, paragraph 50(4) to (8) of Schedule B1 to the I(NI)O 1989[^c-a9814385f9068b16ede55d5adc745511] applies to the statement (though the administrator need not send the FCA a copy of the statement of proposals).
 
-(9)[^key-30e91b4ea450ee99eb4fcb46b9b8d2f9] Paragraph (10) applies where, before the FCA gives its direction under regulation 38, a meeting of creditors has approved the statement of proposals in accordance with paragraph 53 of Schedule B1 to the IA 1986 or paragraph 54 of Schedule B1 to the I(NI)O 1989.
+(9)[^c-30e91b4ea450ee99eb4fcb46b9b8d2f9] Paragraph (10) applies where, before the FCA gives its direction under regulation 38, a meeting of creditors has approved the statement of proposals in accordance with paragraph 53 of Schedule B1 to the IA 1986 or paragraph 54 of Schedule B1 to the I(NI)O 1989.
 
 (10) The statement of proposals must be ignored for the purposes of regulation 38, this regulation and paragraph 68 of Schedule B1 to the IA 1986 or (as the case may be) paragraph 69 of Schedule B1 to the I(NI)O 1989.
 
-(11)[^key-8621f157f6e2719c0cf3d0798c7e2c2c] References in this regulation to a numbered paragraph of Schedule B1 to the IA 1986 or to the I(NI)O 1989 are to that paragraph as applied and modified by these Regulations.
+(11)[^c-8621f157f6e2719c0cf3d0798c7e2c2c] References in this regulation to a numbered paragraph of Schedule B1 to the IA 1986 or to the I(NI)O 1989 are to that paragraph as applied and modified by these Regulations.
 
-## 40. Revision of proposals in the event of FCA direction[^key-08c0567e980c3f50df9d3ce3dceb2f51]
+## 40. Revision of proposals in the event of FCA direction[^c-08c0567e980c3f50df9d3ce3dceb2f51]
 
 (1) This regulation applies where—
 
@@ -1264,17 +1264,17 @@ paragraph 49(4) to (8) of Schedule B1 to the IA 1986 or, as the case may be, par
 - (a) the court, and
 - (b) the registrar of companies.
 
-## 41. FCA direction withdrawn[^key-a68dd8d9f8941fd8f9785666d084cd6b]
+## 41. FCA direction withdrawn[^c-a68dd8d9f8941fd8f9785666d084cd6b]
 
 (1) This regulation applies if, after the administrator’s statement of proposals has been agreed with FCA or the court has made an order dispensing with the need for agreement under regulation 39, the direction is then withdrawn.
 
-(2) If the administrator proposes a revision to the statement of proposals and the administrator thinks that the proposed revision is substantial, then paragraphs 54 and 55 of Schedule B1 to the IA 1986 or, as the case may be, paragraphs 55 and 56 of Schedule B1 to the I(NI)O 1989,[^key-54c9b8fcd705a9eb21f9dabf9648df9f] apply (as modified by these Regulations).
+(2) If the administrator proposes a revision to the statement of proposals and the administrator thinks that the proposed revision is substantial, then paragraphs 54 and 55 of Schedule B1 to the IA 1986 or, as the case may be, paragraphs 55 and 56 of Schedule B1 to the I(NI)O 1989,[^c-54c9b8fcd705a9eb21f9dabf9648df9f] apply (as modified by these Regulations).
 
-## 42. Safeguarding failures: costs of the administration[^key-5d88e4517bb47900ff31bccc21a01594]
+## 42. Safeguarding failures: costs of the administration[^c-5d88e4517bb47900ff31bccc21a01594]
 
 (1) Where the administrator considers that failure-related costs have been incurred in consequence of a failure by the institution to safeguard relevant funds (“a default”), the administrator—
 
-- (a) must seek the agreement of the creditors’ committee established under paragraph 57 of Schedule B1 to the IA 1986 or, as the case may be, paragraph 58 of Schedule B1 to the I(NI)O 1989,[^key-e5e59d1384f7bdb66b9ddeb275e03d59] as applied and modified by these Regulations to the amount incurred in consequence of the default, or
+- (a) must seek the agreement of the creditors’ committee established under paragraph 57 of Schedule B1 to the IA 1986 or, as the case may be, paragraph 58 of Schedule B1 to the I(NI)O 1989,[^c-e5e59d1384f7bdb66b9ddeb275e03d59] as applied and modified by these Regulations to the amount incurred in consequence of the default, or
 - (b) if there is no creditors’ committee or the administrator is unable to agree that amount with the creditors’ committee, must apply to the court for an order fixing the amount.
 
 (2) In paragraph (1) “failure” includes where—
@@ -1297,49 +1297,49 @@ held itself out to be one which voluntarily safeguarded relevant funds but faile
 - “failure-related costs” means costs incurred by the administrator in applying the procedure set out in Schedule B1 as applied and modified by these Regulations for ascertaining particulars of the relevant funds held by the institution, and in taking custody and control of and distributing those funds;
 - “failure-related costs amount” means the amount of failure-related costs incurred in consequence of the default as agreed by the creditors’ committee or fixed by the court.
 
-## 43. Successful rescue[^key-a52fb9d09e8a853e1b5e77ac88798617]
+## 43. Successful rescue[^c-a52fb9d09e8a853e1b5e77ac88798617]
 
 (1) This regulation applies if the administrator has—
 
 - (a) in pursuit of Objective 3, pursued the rescue of the institution as a going concern, and
 - (b) thinks that this has been sufficiently achieved.
 
-(2) The administrator must make an application in accordance with paragraph 79 of Schedule B1 to the IA 1986 or, as the case may be, paragraph 80 of Schedule B1 to the I(NI)O 1989,[^key-1a6b28e6fd8cca588ef7d51cd0be1830] as applied and modified by these Regulations.
+(2) The administrator must make an application in accordance with paragraph 79 of Schedule B1 to the IA 1986 or, as the case may be, paragraph 80 of Schedule B1 to the I(NI)O 1989,[^c-1a6b28e6fd8cca588ef7d51cd0be1830] as applied and modified by these Regulations.
 
 (3) An administrator who makes an application referred to in paragraph (2) must send a copy to the FCA.
 
-## 44. Dissolution or voluntary arrangement[^key-d458a7adb7264594f507b9fb77d23e9c]
+## 44. Dissolution or voluntary arrangement[^c-d458a7adb7264594f507b9fb77d23e9c]
 
-(1) This regulation[^key-2fe7c27f317ab92809042f079f0d8480] applies if the administrator—
+(1) This regulation[^c-2fe7c27f317ab92809042f079f0d8480] applies if the administrator—
 
 - (a) believes that Objectives 1 and 2 have been sufficiently achieved, and
 - (b) in pursuit of Objective 3, pursues the winding up of the institution in the best interests of the creditors.
 
 (2) The administrator may—
 
-- (a) give a notice in accordance with paragraph 84 of Schedule B1 to the IA 1986 or, as the case may be, paragraph 85 of Schedule B1 to the I(NI)O 1989[^key-0d98e6d6a13e313c99c77a8cfff34424] as applied and modified by these Regulations; or
-- (b) make a proposal in accordance with Part 1 of the IA 1986 or, as the case may be, Part 2 of the I(NI)O 1989[^key-504edfc925eae6441ee1d82d4f0df7de] (company voluntary arrangement).
+- (a) give a notice in accordance with paragraph 84 of Schedule B1 to the IA 1986 or, as the case may be, paragraph 85 of Schedule B1 to the I(NI)O 1989[^c-0d98e6d6a13e313c99c77a8cfff34424] as applied and modified by these Regulations; or
+- (b) make a proposal in accordance with Part 1 of the IA 1986 or, as the case may be, Part 2 of the I(NI)O 1989[^c-504edfc925eae6441ee1d82d4f0df7de] (company voluntary arrangement).
 
-(3)[^key-d1c524ed05d461a165fbaa90bd749c80] The following provisions apply to a proposal made by an administrator—
+(3)[^c-d1c524ed05d461a165fbaa90bd749c80] The following provisions apply to a proposal made by an administrator—
 
 - (a) Part 1 of the IA 1986, with the modifications set out in paragraphs (4) to (6), (7) and (8), or
 - (b) Part 2 of the I(NI)O 1989, with the modifications set out in paragraphs (6A) to (8).
 
-(4) Section 3 (consideration of proposals) is to be read as if subsection (2) (and not subsection (1))[^key-aa46d8500201a7bc40794e20378cf428] applies.
+(4) Section 3 (consideration of proposals) is to be read as if subsection (2) (and not subsection (1))[^c-aa46d8500201a7bc40794e20378cf428] applies.
 
 (5) Section 5(3) (effect of approval) is to be read as if the action that may be taken by a court includes suspension of the special administration order.
 
 (6) Sections 2 to 6 and 7 have effect without the amendments of those provisions made by paragraphs 2 to 8 of Schedule 9 to the SBEEA 2015 (company voluntary arrangements).
 
-(6A)[^key-ff34d28eec138c0bb350e4ee5d36a851] Article 16 (summoning of meetings) is to be read as if paragraph (2) (and not paragraph (1)) applies.
+(6A)[^c-ff34d28eec138c0bb350e4ee5d36a851] Article 16 (summoning of meetings) is to be read as if paragraph (2) (and not paragraph (1)) applies.
 
 (6B) Article 18(3) (effect of approval) is to be read as if the action which may be taken by the court includes suspension of the special administration order.
 
 (7) On the termination of a company voluntary arrangement the administrator may apply to the court to lift the suspension of the special administration order.
 
-(8) For the purposes of this regulation, references in Part 1 of the IA 1986 and Part 2 of the I(NI)O 1989[^key-ff5ed02feaa55bc3ac437be529f940fc] to administration include special administration.
+(8) For the purposes of this regulation, references in Part 1 of the IA 1986 and Part 2 of the I(NI)O 1989[^c-ff5ed02feaa55bc3ac437be529f940fc] to administration include special administration.
 
-## 45. Special administration order as an alternative order[^key-38e220c12d9afe318e4d5ab59705572f]
+## 45. Special administration order as an alternative order[^c-38e220c12d9afe318e4d5ab59705572f]
 
 (1) On the following the court may instead make a special administration order—
 
@@ -1349,9 +1349,9 @@ held itself out to be one which voluntarily safeguarded relevant funds but faile
 
 (2) But a special administration order may be made under paragraph (1) only on the application of the FCA.
 
-## 46. Disqualification of directors : Great Britain[^key-59f0beb570e0cdce461ce5d7a310f71e][^key-114a4182efb3a6e7917589e60291bee1]
+## 46. Disqualification of directors : Great Britain[^c-59f0beb570e0cdce461ce5d7a310f71e][^c-114a4182efb3a6e7917589e60291bee1]
 
-(1)[^key-ca01aa0eab0440e66612e7d3206a7291] Where a special administration order is made under these Regulations in relation to an institution that is incorporated in, or formed under the law of, England and Wales or Scotland, the CDDA 1986 applies with the following modifications.
+(1)[^c-ca01aa0eab0440e66612e7d3206a7291] Where a special administration order is made under these Regulations in relation to an institution that is incorporated in, or formed under the law of, England and Wales or Scotland, the CDDA 1986 applies with the following modifications.
 
 (1A) For the purposes of paragraph (1), an institution whose registered office, or in the case of an institution with no registered office, whose principal place of business, is situated in England and Wales or Scotland is to be treated as incorporated in, or formed under, the law of England and Wales or Scotland, as the case may be.
 
@@ -1363,7 +1363,7 @@ held itself out to be one which voluntarily safeguarded relevant funds but faile
 - (d) references to becoming insolvent include becoming subject to a special administration order, and
 - (e) references to a liquidator include an administrator.
 
-(3) Section 6 is to be read as if subsection[^key-6eadb5aa069cfbdaa158792798dcfaf6] (2) were omitted.
+(3) Section 6 is to be read as if subsection[^c-6eadb5aa069cfbdaa158792798dcfaf6] (2) were omitted.
 
 (4) Section 7A is to be read as if—
 
@@ -1373,7 +1373,7 @@ held itself out to be one which voluntarily safeguarded relevant funds but faile
 
 (5) This regulation is subject to paragraph 7 of Schedule 2.
 
-## 46A. Disqualification of directors: Northern Ireland[^key-4e75e18dd6ddbfb0d7e961b7ae1a706c]
+## 46A. Disqualification of directors: Northern Ireland[^c-4e75e18dd6ddbfb0d7e961b7ae1a706c]
 
 (1) Where a special administration order is made under these Regulations in relation to an institution that is incorporated in, or formed under the law of, Northern Ireland, the CDD(NI)O 2002 applies with the following modifications.
 
@@ -1397,21 +1397,21 @@ held itself out to be one which voluntarily safeguarded relevant funds but faile
 
 (5) This regulation is subject to paragraphs 3 and 7 of Schedule 2A.
 
-## 47. Further provision on special administration: schedules[^key-11701a3441381bddd9b8a47d4861bacf]
+## 47. Further provision on special administration: schedules[^c-11701a3441381bddd9b8a47d4861bacf]
 
-(1) Schedule 1 makes further provision about how special administration applies to limited liability partnerships formed under the law of England and Wales or the law of Scotland[^key-cccfc280f01184c546993443e31d64b5].
+(1) Schedule 1 makes further provision about how special administration applies to limited liability partnerships formed under the law of England and Wales or the law of Scotland[^c-cccfc280f01184c546993443e31d64b5].
 
-(1A)[^key-eb09c228cbf59abb1b8da0dddae6a12c] Schedule 1A makes further provision about how special administration applies to limited liability partnerships formed under the law of Northern Ireland.
+(1A)[^c-eb09c228cbf59abb1b8da0dddae6a12c] Schedule 1A makes further provision about how special administration applies to limited liability partnerships formed under the law of Northern Ireland.
 
 (2) Schedule 2 makes further provision about how special administration applies to partnerships formed under the law of England and Wales.
 
-(2A)[^key-fc5b90e060ce04c786fd253212c9e372] Schedule 2A makes further provision about how special administration applies to partnerships formed under the law of Northern Ireland.
+(2A)[^c-fc5b90e060ce04c786fd253212c9e372] Schedule 2A makes further provision about how special administration applies to partnerships formed under the law of Northern Ireland.
 
 (3) Schedule 3 makes further provision about how certain other legislation applies to companies in special administration.
 
 (4) Schedule 4 contains consequential amendments.
 
-## 48. FSMA 2000, Pt 24: application to payment and electronic money institution insolvency except special administration[^key-2829f383468565f6746e1551096683d3]
+## 48. FSMA 2000, Pt 24: application to payment and electronic money institution insolvency except special administration[^c-2829f383468565f6746e1551096683d3]
 
 (1) In the PSR 2017, in Schedule 6, for paragraph 9 substitute—
 
@@ -1467,7 +1467,7 @@ held itself out to be one which voluntarily safeguarded relevant funds but faile
 
 .
 
-## 49. Correction of defect in instrument relating to the UK’s withdrawal from the EU and bank recovery and resolution[^key-5a4f10a0f46e220d879846cb6a520fde]
+## 49. Correction of defect in instrument relating to the UK’s withdrawal from the EU and bank recovery and resolution[^c-5a4f10a0f46e220d879846cb6a520fde]
 
 (1) In the Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018[^f00027], in Schedule 1, in paragraph 42, omit sub-paragraph (4).
 
@@ -1481,23 +1481,23 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 17th June 2021
 
-## SCHEDULE 1 — How special administration applies to English/Welsh /Scottish LLPs[^key-6fa2740f73e9205f1c38b9875283d57a]
+## SCHEDULE 1 — How special administration applies to English/Welsh /Scottish LLPs[^c-6fa2740f73e9205f1c38b9875283d57a]
 
 Regulation 47
 
-**1.**[^key-d6f5ada39739bf8b8eee81ab397065ed] This Schedule makes provision about how special administration applies to institutions which are formed as limited liability partnerships under the law of England and Wales or Scotland[^key-1ce5b81a60c4fb80cec0157441d8c6dd].
+**1.**[^c-d6f5ada39739bf8b8eee81ab397065ed] This Schedule makes provision about how special administration applies to institutions which are formed as limited liability partnerships under the law of England and Wales or Scotland[^c-1ce5b81a60c4fb80cec0157441d8c6dd].
 
-**2.**[^key-9ffcc25a499ae673e8661eb9ef084f3b] In this Schedule—
+**2.**[^c-9ffcc25a499ae673e8661eb9ef084f3b] In this Schedule—
 
 - (a) the “**LLPR 2001**” means the Limited Liability Partnerships Regulations 2001;
 - (b) the “**LLP(S)R 2001**” means the Limited Liability Partnerships (Scotland) Regulations 2001.
 
-**3.**[^key-37f6504a6e0588b8c60e46d999045158] The provisions of the IA 1986 mentioned in the first column of the Table apply to institutions which are formed as limited liability partnerships with the further modifications (in addition to any set out in the table in regulation 37) set out in the third column.
+**3.**[^c-37f6504a6e0588b8c60e46d999045158] The provisions of the IA 1986 mentioned in the first column of the Table apply to institutions which are formed as limited liability partnerships with the further modifications (in addition to any set out in the table in regulation 37) set out in the third column.
 
 | Provision | Subject | Modifications |
 | --- | --- | --- |
-| Those mentioned in regulation 5(2) of the LLPR 2001 in relation to limited liability partnerships established under the law of England and Wales[^key-675f9a9a2e72bd05a7a469e81e8d2091] |  | Those set out in regulation 5(2) of the LLPR 2001 in relation to limited liability partnerships established under the law of England and Wales (except regulation 5(2)(f) of those Regulations). |
-| Those mentioned in regulation 4(2) of the LLP(S)R 2001, in relation to limited liability partnerships established under the law of Scotland[^key-723603f5b0a5d1adf4a627bd3ef8cae9] |  | Those set out in regulation 4(2) of the LLP (Scotland) Regulations (except regulation 4(2)(e) of those Regulations). |
+| Those mentioned in regulation 5(2) of the LLPR 2001 in relation to limited liability partnerships established under the law of England and Wales[^c-675f9a9a2e72bd05a7a469e81e8d2091] |  | Those set out in regulation 5(2) of the LLPR 2001 in relation to limited liability partnerships established under the law of England and Wales (except regulation 5(2)(f) of those Regulations). |
+| Those mentioned in regulation 4(2) of the LLP(S)R 2001, in relation to limited liability partnerships established under the law of Scotland[^c-723603f5b0a5d1adf4a627bd3ef8cae9] |  | Those set out in regulation 4(2) of the LLP (Scotland) Regulations (except regulation 4(2)(e) of those Regulations). |
 | Section 74 | Liability as contributories of present and past members | To be read as if it were substituted with— |
 |  |  | > **74.** (1) When a limited liability partnership goes into special administration, every present and past member of the limited liability partnership is liable to contribute to its assets as follows.<br>><br>> (2) Where a member has agreed with the other members or with the limited liability partnership, that that member be liable to contribute to the assets of the limited liability partnership in the event that that body goes into liquidation or special administration, that member is liable, to the extent that they have so agreed, to contribute—<br>><br>> - (a) to its assets to any amount sufficient for payment of its debts and liabilities;<br>> - (b) to the expenses of the special administration;<br>> - (c) for the adjustment of the rights of the contributories among themselves.<br>><br>> (3) A past member shall only be liable under this section if the obligation arising from such agreement in subsection (2) survived them ceasing to be a member of the limited liability partnership. |
 | Sections 76–78 | Contributories | Omitted. |
@@ -1520,9 +1520,9 @@ Regulation 47
 | Schedule B1, paragraph 91 | Replacement | To be read as if sub-paragraph (1)(c) were omitted. |
 | Schedule B1, paragraph 105 | Majority decision of directors | Omitted. |
 
-**4.**[^key-4cc16eb6004225f85ef5656f2026233c] The CDDA 1986 as applied and modified by these Regulations applies to institutions which are formed as limited liability partnerships with the further modifications set out in regulation 4(2) of and Part 2 of Schedule 2 to the LLPR 2001.
+**4.**[^c-4cc16eb6004225f85ef5656f2026233c] The CDDA 1986 as applied and modified by these Regulations applies to institutions which are formed as limited liability partnerships with the further modifications set out in regulation 4(2) of and Part 2 of Schedule 2 to the LLPR 2001.
 
-**5.**[^key-91d7db50cd945242b8b2ac020e23784d] The following legislation applies to institutions which are formed as limited liability partnerships with such modifications as the context requires—
+**5.**[^c-91d7db50cd945242b8b2ac020e23784d] The following legislation applies to institutions which are formed as limited liability partnerships with such modifications as the context requires—
 
 - (a) to give effect to the IA 1986 as applied and modified by these Regulations—
   - (i) the Insolvency Practitioners Regulations 2005[^f00030];
@@ -1535,7 +1535,7 @@ Regulation 47
   - (iii) the Insolvent Companies (Reports on Conduct of Directors) Rules 1996[^f00035];
   - (iv) the Insolvent Companies (Reports on Conduct of Directors) (Scotland) Rules 1996[^f00036].
 
-## SCHEDULE 1A — How special administration applies to Northern Ireland LLPs[^key-82756e2cc58d4c5d95d4294cc0895e32]
+## SCHEDULE 1A — How special administration applies to Northern Ireland LLPs[^c-82756e2cc58d4c5d95d4294cc0895e32]
 
 Regulation 47(1A)
 
@@ -1585,11 +1585,11 @@ Regulation 47(1A)
 
 Regulation 47(2)
 
-**1.**[^key-f62b3004f5f348bd132b749ca3bde0d6] This Schedule makes provision about how special administration applies to institutions which are formed as partnerships under the law of England and Wales.
+**1.**[^c-f62b3004f5f348bd132b749ca3bde0d6] This Schedule makes provision about how special administration applies to institutions which are formed as partnerships under the law of England and Wales.
 
-**2.**[^key-85f4cfd6811ef643ecc81ce6c4870770] In this Schedule, the “IPO 1994” means the Insolvent Partnerships Order 1994[^f00037].
+**2.**[^c-85f4cfd6811ef643ecc81ce6c4870770] In this Schedule, the “IPO 1994” means the Insolvent Partnerships Order 1994[^f00037].
 
-**3.**[^key-d5ccf603e30e76d5b13e175895d48be4] Where an institution is formed as a partnership, then—
+**3.**[^c-d5ccf603e30e76d5b13e175895d48be4] Where an institution is formed as a partnership, then—
 
 - (a) in these Regulations, and
 - (b) in the CDDA 1986 as applied and modified by these Regulations,
@@ -1605,15 +1605,15 @@ Table 1
 | References to shares of a company | To be read as it they were—<br>(a) in relation to a partnership with capital, to rights to share in that capital, and<br>(b) in relation to a partnership without capital, to interests—<br>(i) conferring any right to share in the profits or liability to contribute to the losses of the partnership, or<br>(ii) giving rise to an obligation to contribute to the debts or expenses of the partnership in the event of special administration. |
 | Other references appropriate to companies | To be read as if they were to the corresponding persons, officers, documents or organs (as the case may be) appropriate to a partnership. |
 
-**4.**[^key-995b9d63ae1511ab24fb11ccf53d87b9] Table 2 sets out—
+**4.**[^c-995b9d63ae1511ab24fb11ccf53d87b9] Table 2 sets out—
 
 - (a) in the first column, versions of provisions of the IA 1986 set out in the IPO 1994 (“IPO 1994 versions”),
 - (b) in the second column, the subject of each of those versions, and
 - (c) in the third column, modifications to those versions.
 
-**5.**[^key-b513c00a8e69d9e413552266fc888679] Each IPO 1994 version in the first column of Table 2 applies to an institution which is formed as a partnership with any corresponding modification in the third column.
+**5.**[^c-b513c00a8e69d9e413552266fc888679] Each IPO 1994 version in the first column of Table 2 applies to an institution which is formed as a partnership with any corresponding modification in the third column.
 
-**6.**[^key-8b9043f140c8e14398f4956428daea78] Where there is an entry for an IPO 1994 version in Table 2, that version of the provision of the IA 1986 applies, as modified by Table 2, to an institution which is formed as a partnership, and the entry relating to that provision of the IA 1986 in the table in regulation 37 is to be disregarded.
+**6.**[^c-8b9043f140c8e14398f4956428daea78] Where there is an entry for an IPO 1994 version in Table 2, that version of the provision of the IA 1986 applies, as modified by Table 2, to an institution which is formed as a partnership, and the entry relating to that provision of the IA 1986 in the table in regulation 37 is to be disregarded.
 
 Table 2
 
@@ -1652,9 +1652,9 @@ Table 2
 </tbody>
 </table>
 
-[^f00038][^key-36b7cc939f68bc8eebd403523c844bc0]
+[^f00038][^c-36b7cc939f68bc8eebd403523c844bc0]
 
-**7.**[^key-aa4921fb8e71f4ecd232aafdbd9aebc1] Article 16 of the IPO 1994 applies to an institution which is formed as a partnership—
+**7.**[^c-aa4921fb8e71f4ecd232aafdbd9aebc1] Article 16 of the IPO 1994 applies to an institution which is formed as a partnership—
 
 - (a) reading article 16 as if the reference to being wound up under the IA 1986 were to entering special administration;
 - (b) reading the reference to the provisions of the CDDA 1986 as if it were to—
@@ -1663,14 +1663,14 @@ Table 2
 
 subject to the further general modifications of the provisions mentioned in paragraphs (i) and (ii) in paragraph 8.
 
-**8.**[^key-120e6bd73dba8fcbc3c1493fe8d27109] The general modifications are—
+**8.**[^c-120e6bd73dba8fcbc3c1493fe8d27109] The general modifications are—
 
 - (i) references to a provision of the IA 1986 which is applied and modified by these Regulations are to be read as is they were to the provision as applied and modified by these Regulations;
 - (ii) references to being wound up are to be read as if they were to the partnership being in special administration;
 - (iii) references to office-holder are to be read as if they were to the administrator;
 - (iv) references to an insolvency order are to be read as if they were to a special administration order.
 
-**9.**[^key-684c6893ccb17d35ffd7919425c5dc4f] Article 18 of and Schedule 10 to the IPO 1994 apply to institutions which are formed as partnerships—
+**9.**[^c-684c6893ccb17d35ffd7919425c5dc4f] Article 18 of and Schedule 10 to the IPO 1994 apply to institutions which are formed as partnerships—
 
 - (a) reading article 18 as if—
   - (i) in paragraph (1) from “giving effect” to “this Order” were substituted with “giving effect to the provisions of the IA 1986 and the CDDA 1986 as applied and modified by these Regulations”;
@@ -1691,7 +1691,7 @@ subject to the further general modifications of the provisions mentioned in para
 
   The Insolvency Proceedings (Fees) Order 2004.
 
-## SCHEDULE 2A — How special administration applies to Northern Ireland partnerships[^key-33bf52f0eda763924b258008596225de]
+## SCHEDULE 2A — How special administration applies to Northern Ireland partnerships[^c-33bf52f0eda763924b258008596225de]
 
 Regulation 47(2A)
 
@@ -1794,32 +1794,32 @@ subject to the further general modifications of the provisions mentioned in sub-
 
 Regulation 47(3)
 
-### 1. Introduction[^key-47e131bf807719497f9cc07112146cbf]
+### 1. Introduction[^c-47e131bf807719497f9cc07112146cbf]
 
 This Schedule makes further provision about how certain other legislation applies to companies entering or being in special administration.
 
-### 2. General modifications[^key-b65eef4a7bf5b937e45ccd130e17eb23]
+### 2. General modifications[^c-b65eef4a7bf5b937e45ccd130e17eb23]
 
 The following legislation applies with the modifications in paragraph 3.
 
 - Primary Legislation
 - Taxes Management Act 1970[^f00039]
-- Land Registration Act (Northern Ireland) 1970[^key-6082ab109cf6a6f36b22bf8bd4dd9d18]
+- Land Registration Act (Northern Ireland) 1970[^c-6082ab109cf6a6f36b22bf8bd4dd9d18]
 - Prescription and Limitation (Scotland) Act 1973[^f00040]
-- Judgments Enforcement (Northern Ireland) Order 1981[^key-289fdb668ed5cd123243bf4b066574cd]
+- Judgments Enforcement (Northern Ireland) Order 1981[^c-289fdb668ed5cd123243bf4b066574cd]
 - Companies Act 1985[^f00041]
 - Finance Act 1986[^f00042]
 - Debtors (Scotland) Act 1987[^f00043]
 - Companies Act 1989[^f00044]
-- Companies (No. 2) (Northern Ireland) Order 1990[^key-15a39867cf8b94e9a3d71d010018f433]
+- Companies (No. 2) (Northern Ireland) Order 1990[^c-15a39867cf8b94e9a3d71d010018f433]
 - Taxation of Chargeable Gains Act 1992[^f00045]
 - Pension Schemes Act 1993[^f00046]
-- Pension Schemes (Northern Ireland) Act 1993[^key-04d6539e02c8a7fd948afd9ffe17dd8f]
+- Pension Schemes (Northern Ireland) Act 1993[^c-04d6539e02c8a7fd948afd9ffe17dd8f]
 - Pensions Act 1995[^f00047]
-- Pensions (Northern Ireland) Order 1995[^key-4c1acb458ef3f40ad77b4ca1e7b45d76]
+- Pensions (Northern Ireland) Order 1995[^c-4c1acb458ef3f40ad77b4ca1e7b45d76]
 - Proceeds of Crime (Scotland) Act 1995[^f00048]
 - Employment Rights Act 1996[^f00049]
-- Employment Rights (Northern Ireland) Order 1996[^key-a74381677fa7880e5b7e69dba41e846e]
+- Employment Rights (Northern Ireland) Order 1996[^c-a74381677fa7880e5b7e69dba41e846e]
 - Terrorism Act 2000[^f00050]
 - Finance Act 2000[^f00051]
 - International Criminal Court Act 2001[^f00052]
@@ -1828,7 +1828,7 @@ The following legislation applies with the modifications in paragraph 3.
 - Debt Arrangement and Attachment (Scotland) Act 2002[^f00055]
 - Finance Act 2003[^f00056]
 - Pensions Act 2004[^f00057]
-- Pensions (Northern Ireland) Order 2005[^key-431f90711ec90dfa6593e3a5a4a033f9]
+- Pensions (Northern Ireland) Order 2005[^c-431f90711ec90dfa6593e3a5a4a033f9]
 - Companies Act 2006 (except section 1078 does not apply)[^f00058]
 - Bankruptcy and Diligence (Scotland) Act 2007[^f00059]
 - Finance Act 2008[^f00060]
@@ -1839,86 +1839,86 @@ The following legislation applies with the modifications in paragraph 3.
 
 - Secondary Legislation
 - Statutory Maternity Pay (General) Regulations 1986[^f00065]
-- Statutory Maternity Pay (General) (Northern Ireland) Regulations 1987[^key-26048a799261031c379e3ec0cf0d9295]
+- Statutory Maternity Pay (General) (Northern Ireland) Regulations 1987[^c-26048a799261031c379e3ec0cf0d9295]
 - Insolvent Companies (Disqualification of Unfit Directors) Proceedings Rules 1987[^f00066]
 - Financial Markets and Insolvency Regulations 1991[^f00067]
-- Financial Markets and Insolvency Regulations (Northern Ireland) 1991[^key-6dca14888b7fdc82d2a7735896f0d2b0]
+- Financial Markets and Insolvency Regulations (Northern Ireland) 1991[^c-6dca14888b7fdc82d2a7735896f0d2b0]
 - Land Registration Rules (Northern Ireland) 1994
 - Insolvency Regulations 1994[^f00068]
-- [^key-bd6a47cce0ce11fc4fafe55acf9f66c0]...
-- Insolvency Regulations (Northern Ireland) 1996[^key-6bc423ce6d4af40c6aa6bcb2e2a654bb]
+- [^c-bd6a47cce0ce11fc4fafe55acf9f66c0]...
+- Insolvency Regulations (Northern Ireland) 1996[^c-6bc423ce6d4af40c6aa6bcb2e2a654bb]
 - Insolvent Companies (Reports on Conduct of Directors) Rules 1996[^f00070]
 - Financial Markets and Insolvency Regulations 1996[^f00071]
-- Financial Markets and Insolvency Regulations (Northern Ireland) 1996[^key-83eb5fbc59c2e68ddedef78b797e07d5]
+- Financial Markets and Insolvency Regulations (Northern Ireland) 1996[^c-83eb5fbc59c2e68ddedef78b797e07d5]
 - Individual Savings Account Regulations 1998[^f00072]
 - Corporation Tax (Simplified Arrangements for Group Relief) Regulations 1999[^f00073]
 - Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^f00074]
 - Statutory Paternity Pay and Statutory Adoption Pay (General) Regulations 2002[^f00075]
-- Statutory Paternity Pay and Statutory Adoption Pay (General) Regulations (Northern Ireland) 2002[^key-b4eac3d3103b257fe503cf373bcc5e01]
+- Statutory Paternity Pay and Statutory Adoption Pay (General) Regulations (Northern Ireland) 2002[^c-b4eac3d3103b257fe503cf373bcc5e01]
 - Financial Collateral Arrangements (No 2) Regulations 2003[^f00076]
-- Insolvent Companies (Reports on Conduct of Directors) Rules (Northern Ireland) 2003[^key-e4beadd99efe6df8a86d511c21708d6e]
+- Insolvent Companies (Reports on Conduct of Directors) Rules (Northern Ireland) 2003[^c-e4beadd99efe6df8a86d511c21708d6e]
 - Insolvent Companies (Disqualification of Unfit Directors) Proceedings Rules (Northern Ireland) 2003
 - Insolvency Practitioners Regulations 2005[^f00077]
 - Pension Protection Fund (Entry Rules) Regulations 2005[^f00078]
-- Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005[^key-69b00888abbba768f302eeb60d059cfa]
+- Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005[^c-69b00888abbba768f302eeb60d059cfa]
 - Gender Recognition (Disclosure of Information) (England, Wales and Northern Ireland) (No 2) Order 2005[^f00079]
 - Gender Recognition (Disclosure of Information) (Scotland) Order 2005[^f00080]
 - Financial Assistance Scheme Regulations 2005[^f00081]
-- Insolvency Practitioners Regulations (Northern Ireland) 2006[^key-2555726424877a9fd6171bddc660a56f]
+- Insolvency Practitioners Regulations (Northern Ireland) 2006[^c-2555726424877a9fd6171bddc660a56f]
 - Land Registration (Scotland) Rules 2006[^f00082]
 - Companies (Cross-Border Mergers) Regulations 2007[^f00083]
 - Regulated Covered Bonds Regulations 2008[^f00084]
 - Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015[^f00085]
 - Land Registration (Network Access) Rules 2008[^f00086]
 - Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008[^f00087]
-- [^key-2e1b848ba2afef5afab187de047e4599]...
+- [^c-2e1b848ba2afef5afab187de047e4599]...
 - Companies (Disclosure of Address) Regulations 2009[^f00089]
 - Additional Statutory Paternity Pay (General) Regulations 2010[^f00090]
-- Additional Statutory Paternity Pay (General) Regulations (Northern Ireland) 2010[^key-411524097389ae9959f3738717a2c2a3]
+- Additional Statutory Paternity Pay (General) Regulations (Northern Ireland) 2010[^c-411524097389ae9959f3738717a2c2a3]
 - Registrar of Companies (Fees) Companies, Overseas Companies and Limited Liability Partnerships) Regulations 2012
 - Statutory Parental Bereavement Pay (General) Regulations 2020[^f00091]
-- Statutory Parental Bereavement Pay (General) Regulations (Northern Ireland) 2023[^key-57ef0c1ff84bbe0593630135680adc58]
-- Statutory Neonatal Care Pay (General) Regulations 2025[^key-c2f9e169c045a899799fa0182958f19f]
+- Statutory Parental Bereavement Pay (General) Regulations (Northern Ireland) 2023[^c-57ef0c1ff84bbe0593630135680adc58]
+- Statutory Neonatal Care Pay (General) Regulations 2025[^c-c2f9e169c045a899799fa0182958f19f]
 
-**3.**[^key-3cc9f5d572ded00c45c7d10c5dc25bb0] References to—
+**3.**[^c-3cc9f5d572ded00c45c7d10c5dc25bb0] References to—
 
 - (a) a Schedule B1 administrator are to be read as if they were to an administrator appointed under regulation 7;
 - (b) Schedule B1 administration or insolvent administration are to be read as if they were to special administration;
 - (c) a Schedule B1 administration order are to be read as if they were to a special administration order;
-- (d) insolvency legislation, the general law of insolvency, the enactments relating to insolvency and similar expressions are to be read as if they were to special administration and the provisions of the IA 1986 or the I(NI)O 1989[^key-c305e35e0831fe85fcf62be03460c865] as applied and modified by these Regulations;
+- (d) insolvency legislation, the general law of insolvency, the enactments relating to insolvency and similar expressions are to be read as if they were to special administration and the provisions of the IA 1986 or the I(NI)O 1989[^c-c305e35e0831fe85fcf62be03460c865] as applied and modified by these Regulations;
 - (e) becoming insolvent and an insolvency event occurring are to be read as if they were to being put into special administration;
 - (f) insolvency proceedings or an insolvency procedure are to be read as if they were to special administration;
 - (g) winding up, being wound up, wound up by the court, going into liquidation and compulsory liquidation are to be read as if they were to being put into special administration;
 - (h) a winding-up order are to be read as including a special administration order (and, in this context, references to a liquidator are to be read as if they were to an administrator);
-- (i) a person acting as an insolvency practitioner within the meaning of section 388 of the IA 1986 or Article 3 of the I(NI)O 1989[^key-c1a955ca294a7f4582b40fe700de1b10] are to be read as if they were to a person acting as an administrator under these Regulations;
-- (j) the provisions of the IA 1986 and the I(NI)O 1989[^key-91dada5fe0dc1ee4a2fa4ba7611c2dba] are to be read as if they were to those provisions as applied and modified by these Regulations; and
+- (i) a person acting as an insolvency practitioner within the meaning of section 388 of the IA 1986 or Article 3 of the I(NI)O 1989[^c-c1a955ca294a7f4582b40fe700de1b10] are to be read as if they were to a person acting as an administrator under these Regulations;
+- (j) the provisions of the IA 1986 and the I(NI)O 1989[^c-91dada5fe0dc1ee4a2fa4ba7611c2dba] are to be read as if they were to those provisions as applied and modified by these Regulations; and
 - (k) the provisions of—
-  - (ai)[^key-869698f5fc14905d1d962909e456730f] the Insolvency Rules (Northern Ireland) 1991;
+  - (ai)[^c-869698f5fc14905d1d962909e456730f] the Insolvency Rules (Northern Ireland) 1991;
   - (i) the Insolvency (England and Wales) Rules 2016[^f00092],
   - (ii) the Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018[^f00093], and
   - (iii) the Insolvency (Scotland) (Receivership and Winding up) Rules 2018[^f00094],
 
   are to be read as if they were to the provisions of special administration insolvency rules;
-- (l) insolvency or liquidation within the meaning of section 247 of the IA 1986 or Article 6 of the I(NI)O 1989[^key-ea1b48ab779272b58356dfe568f9391a] are to be read as if they were to special administration;
-- (m) the purposes of the IA 1986 or the I(NI)O 1989[^key-74cd7980bc7402fb88f621afa1bd050c] are to be read as if they were to the purposes of these Regulations.
+- (l) insolvency or liquidation within the meaning of section 247 of the IA 1986 or Article 6 of the I(NI)O 1989[^c-ea1b48ab779272b58356dfe568f9391a] are to be read as if they were to special administration;
+- (m) the purposes of the IA 1986 or the I(NI)O 1989[^c-74cd7980bc7402fb88f621afa1bd050c] are to be read as if they were to the purposes of these Regulations.
 
-### 4. Pensions Act 2004 and the Pensions (Northern Ireland) Order 2005[^key-c8565d1ce6f2100b394be52714e89aaa][^key-085373b2cbef2f691e62e7db1af60b84]
+### 4. Pensions Act 2004 and the Pensions (Northern Ireland) Order 2005[^c-c8565d1ce6f2100b394be52714e89aaa][^c-085373b2cbef2f691e62e7db1af60b84]
 
-(1)[^key-893522ea9f357e78a06b895cf6e99dd0] In the Pensions Act 2004[^f00095], in section 121(3)(d), the reference to entering administration within the meaning of paragraph 1(2)(b) of Schedule B1 to the IA 1986 is to be read as if it were to entering special administration.
+(1)[^c-893522ea9f357e78a06b895cf6e99dd0] In the Pensions Act 2004[^f00095], in section 121(3)(d), the reference to entering administration within the meaning of paragraph 1(2)(b) of Schedule B1 to the IA 1986 is to be read as if it were to entering special administration.
 
-(2)[^key-ed5a6517bda6382ffc11a570e07141d6] In the Pensions (Northern Ireland) Order 2005, in Article 105(3)(d), the reference to entering administration within the meaning of paragraph 2(2)(b) of Schedule B1 to the I(NI)O 1989 is to be read as if it were to entering special administration.
+(2)[^c-ed5a6517bda6382ffc11a570e07141d6] In the Pensions (Northern Ireland) Order 2005, in Article 105(3)(d), the reference to entering administration within the meaning of paragraph 2(2)(b) of Schedule B1 to the I(NI)O 1989 is to be read as if it were to entering special administration.
 
-### 5. CA 2006[^key-5f33ee29b79a942679dde032cab2e149]
+### 5. CA 2006[^c-5f33ee29b79a942679dde032cab2e149]
 
 In the CA 2006—
 
 - (a) in section 461—
   - (i) subsection (4)(c) is to be read as if it included these Regulations in the list of enactments in that subsection;
   - (ii) subsection (4)(g) is to be read as if it included these Regulations in the list of enactments in that subsection;
-- (b) in Part 35, references to the IA 1986 and to the I(NI)O 1989[^key-e73db482711bdf2f84464bcc4af08669] are to be read as if they included that legislation[^key-251021f5721198f901e3135a8a14f113] as applied and modified by these Regulations;
+- (b) in Part 35, references to the IA 1986 and to the I(NI)O 1989[^c-e73db482711bdf2f84464bcc4af08669] are to be read as if they included that legislation[^c-251021f5721198f901e3135a8a14f113] as applied and modified by these Regulations;
 - (c) sections 1139 and 1140 are, where an application is made to the court for—
-  - (i) a special administration order, [^key-968f49a28bf67d19742ae700c0c651e4]...
-  - (ii)[^key-f48e1bc12e1181d0a009a49380468fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) a special administration order, [^c-968f49a28bf67d19742ae700c0c651e4]...
+  - (ii)[^c-f48e1bc12e1181d0a009a49380468fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
   to be read as if they were subject to the provisions for service set out in special administration insolvency rules;
 - (d) in Schedule 2, in Part 2, under heading A—
@@ -1928,7 +1928,7 @@ In the CA 2006—
   - (i) paragraph 30 is to be read as if it included these Regulations in the list of enactments in that paragraph, and
   - (ii) paragraph 52 is to be read so as to include these Regulations in the list of enactments in that paragraph.
 
-### 6. Land Registration Rules[^key-896b43069d45a62a981a7f01bff4b882]
+### 6. Land Registration Rules[^c-896b43069d45a62a981a7f01bff4b882]
 
 The following provisions are to be read as if the reference to administration were to special administration—
 
@@ -1941,7 +1941,7 @@ Regulation 47(4)
 
 ### PART 1 — Primary legislation
 
-#### 1. The Companies Act 1985[^key-b74f677eaea263da0e80aad01d72c5f2]
+#### 1. The Companies Act 1985[^c-b74f677eaea263da0e80aad01d72c5f2]
 
 In the Companies Act 1985[^f00097], in Schedule 15D, after paragraph 9(g) insert—
 
@@ -1949,7 +1949,7 @@ In the Companies Act 1985[^f00097], in Schedule 15D, after paragraph 9(g) insert
 
 [^f00098].
 
-#### 2. The Finance Act 1986[^key-8edb04495c3a4b1c1d7aaee4b760e9cc]
+#### 2. The Finance Act 1986[^c-8edb04495c3a4b1c1d7aaee4b760e9cc]
 
 (1) The Finance Act 1986[^f00099] is amended as follows.
 
@@ -1965,7 +1965,7 @@ In the Companies Act 1985[^f00097], in Schedule 15D, after paragraph 9(g) insert
 
 .
 
-#### 3. The Third Parties (Rights against Insurers) Act 2010[^key-ec2918b913180de5fe55202c3c2eef0b]
+#### 3. The Third Parties (Rights against Insurers) Act 2010[^c-ec2918b913180de5fe55202c3c2eef0b]
 
 In the Third Parties (Rights against Insurers) Act 2010[^f00100], in Schedule A1, in the List of Enactments, under the heading “Financial Services”, at the appropriate place insert—
 
@@ -1975,7 +1975,7 @@ In the Third Parties (Rights against Insurers) Act 2010[^f00100], in Schedule A1
 
 ### PART 2 — Secondary legislation
 
-#### 4. The EMR 2011[^key-18c3d94b207c00506ba434025189870e]
+#### 4. The EMR 2011[^c-18c3d94b207c00506ba434025189870e]
 
 (1) The EMR 2011 are amended as follows.
 
@@ -2004,7 +2004,7 @@ In the Third Parties (Rights against Insurers) Act 2010[^f00100], in Schedule A1
 - (a) in the heading, at the end insert “(except electronic money institution special administration)”;
 - (b) in paragraph (1) after “insolvency event” insert “(except electronic money institution special administration)”.
 
-#### 5. The IBSAR 2011[^key-7e77a1688d5ded78b60154dcc94a146f]
+#### 5. The IBSAR 2011[^c-7e77a1688d5ded78b60154dcc94a146f]
 
 (1) The IBSAR 2011 are amended as follows.
 
@@ -2026,7 +2026,7 @@ In the Third Parties (Rights against Insurers) Act 2010[^f00100], in Schedule A1
 - (a) for “or” substitute a comma;
 - (b) after “administration order” insert “or an order under regulation 8 of the Payment and Electronic Money Institution Insolvency Regulations 2021”.
 
-#### 6. The PSR 2017[^key-58228dd312d6de845b4e9efd0d8feafa]
+#### 6. The PSR 2017[^c-58228dd312d6de845b4e9efd0d8feafa]
 
 (1) Regulation 23 of the PSR 2017 is amended as follows.
 
@@ -2082,27 +2082,27 @@ A de minimis impact assessment of the effect these Regulations will have on busi
 
 [^f00004]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-bd9a6d2bb23b3b15b54447d13746dfbb]: Commencement: Reg. 1 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-bd9a6d2bb23b3b15b54447d13746dfbb]: Commencement: Reg. 1 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-3e7acf0399d05fde2d9986429e90c582]: Commencement: Reg. 2 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-3e7acf0399d05fde2d9986429e90c582]: Commencement: Reg. 2 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-edc9f3d982bc12587ff728906a70116c]: Commencement: Reg. 3 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-edc9f3d982bc12587ff728906a70116c]: Commencement: Reg. 3 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-6541a973e2a0b1a2ff90fc2656f59f5a]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/716/regulation/3/1) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/3/a)
+[^c-6541a973e2a0b1a2ff90fc2656f59f5a]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/716/regulation/3/1) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/3/a)
 
-[^key-42231a4e91507f51950705e4c132a9f3]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2021/716/regulation/3/2) omitted (4.1.2024) by virtue of [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/3/b)
+[^c-42231a4e91507f51950705e4c132a9f3]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2021/716/regulation/3/2) omitted (4.1.2024) by virtue of [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/3/b)
 
-[^key-a3dd64dd3108c55661603a6cc2e0b335]: Commencement: Reg. 4 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-a3dd64dd3108c55661603a6cc2e0b335]: Commencement: Reg. 4 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
 [^f00005]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-f2ffd4590bd9bf4c2ab5aa4c7d0a462a]: Commencement: Reg. 5 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-f2ffd4590bd9bf4c2ab5aa4c7d0a462a]: Commencement: Reg. 5 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-42d222a389ae3776c9c971567753be1b]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) heading omitted (4.1.2024) by virtue of [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4/a)
+[^c-42d222a389ae3776c9c971567753be1b]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) heading omitted (4.1.2024) by virtue of [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4/a)
 
-[^key-ab035d32d2b00ed760cf9b5a0400a5d8]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) omitted (4.1.2024) by virtue of [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4/b)
+[^c-ab035d32d2b00ed760cf9b5a0400a5d8]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) omitted (4.1.2024) by virtue of [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4/b)
 
-[^key-27847415f448d5cc5327fb305bf867cd]: Commencement: Reg. 6 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-27847415f448d5cc5327fb305bf867cd]: Commencement: Reg. 6 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
 [^f00006]: Footnote: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1).
 
@@ -2110,11 +2110,11 @@ A de minimis impact assessment of the effect these Regulations will have on busi
 
 [^f00008]: Footnote: [1986 c. 46](https://www.legislation.gov.uk/ukpga/1986/46).
 
-[^key-5088eb4406dc021d75a9714f67431f4e]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2021/716/regulation/6) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/5/2/a)
+[^c-5088eb4406dc021d75a9714f67431f4e]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2021/716/regulation/6) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/5/2/a)
 
 [^f00009]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-0516f43156fa52fcc466ce3c5f907c40]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2021/716/regulation/6) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/5/2/b)
+[^c-0516f43156fa52fcc466ce3c5f907c40]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2021/716/regulation/6) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/5/2/b)
 
 [^f00010]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
@@ -2124,217 +2124,217 @@ A de minimis impact assessment of the effect these Regulations will have on busi
 
 [^f00013]: Footnote: [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752), amended by [S.I. 2017/1173](https://www.legislation.gov.uk/uksi/2017/1173), [2018/1021](https://www.legislation.gov.uk/uksi/2018/1021). There are other amending instruments but none is relevant.
 
-[^key-397d68ede9a5276621dcf0d8a442befc]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2021/716/regulation/6) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/5/3)
+[^c-397d68ede9a5276621dcf0d8a442befc]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2021/716/regulation/6) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/5/3)
 
-[^key-e7358c813744c0bec9bb253d29d89685]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/uksi/2021/716/regulation/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 35](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/35)
+[^c-e7358c813744c0bec9bb253d29d89685]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/uksi/2021/716/regulation/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 35](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/35)
 
-[^key-ad5e75208d5613a2565fde267db530ab]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2021/716/regulation/6) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/5/3)
+[^c-ad5e75208d5613a2565fde267db530ab]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2021/716/regulation/6) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/5/3)
 
 [^f00014]: Footnote: Section 182 was amended by the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
 
 [^f00015]: Footnote: Section 183(a) was amended by the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
 
-[^key-4d451ad33ca0df0960bc48b20fb49589]: Commencement: Reg. 7 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-4d451ad33ca0df0960bc48b20fb49589]: Commencement: Reg. 7 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-7d60432d9e9e8696a62933072c3d4e48]: Commencement: Reg. 8 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-7d60432d9e9e8696a62933072c3d4e48]: Commencement: Reg. 8 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-ed303bc2da7e23e7c04d745048f76bc1]: Textual amendment: Words in [reg. 8(1)(d)](https://www.legislation.gov.uk/uksi/2021/716/regulation/8/1/d) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/6/a)
+[^c-ed303bc2da7e23e7c04d745048f76bc1]: Textual amendment: Words in [reg. 8(1)(d)](https://www.legislation.gov.uk/uksi/2021/716/regulation/8/1/d) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/6/a)
 
 [^f00016]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-17b5cdc603919cae5d781fd1154729d8]: Textual amendment: [Reg. 8(1)(da)](https://www.legislation.gov.uk/uksi/2021/716/regulation/8/1/da)[(db)](https://www.legislation.gov.uk/uksi/2021/716/regulation/8/1/db) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/6/b)
+[^c-17b5cdc603919cae5d781fd1154729d8]: Textual amendment: [Reg. 8(1)(da)](https://www.legislation.gov.uk/uksi/2021/716/regulation/8/1/da)[(db)](https://www.legislation.gov.uk/uksi/2021/716/regulation/8/1/db) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/6/b)
 
-[^key-2023a2724dc5400c87611c308d22e2ad]: Commencement: Reg. 9 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-2023a2724dc5400c87611c308d22e2ad]: Commencement: Reg. 9 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
 [^f00017]: Footnote: Regulation 24A of and paragraph 1 of Schedule 2ZA to the EMR 2011 apply and modify section 93(4) of the BA 2009 in respect of electronic money institutions. Regulation 23A of and paragraph 1 of Schedule 3A to the PSR 2017 apply and modify section 93(4) of the BA 2009 in respect of payment institutions.
 
-[^key-6b8170186b1e6a0d4cf494cb39a75373]: Textual amendment: Words in [reg. 9(5)](https://www.legislation.gov.uk/uksi/2021/716/regulation/9/5) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/7/1)
+[^c-6b8170186b1e6a0d4cf494cb39a75373]: Textual amendment: Words in [reg. 9(5)](https://www.legislation.gov.uk/uksi/2021/716/regulation/9/5) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/7/1)
 
-[^key-441705ed78520b9e68e0865c052e2204]: Commencement: Reg. 10 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-441705ed78520b9e68e0865c052e2204]: Commencement: Reg. 10 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
 [^f00018]: Footnote: Section 359(1) was amended by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-c105686a8a3843ab673a1094d2c7781f]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2021/716/regulation/10/2) omitted (4.1.2024) by virtue of [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/8/a)
+[^c-c105686a8a3843ab673a1094d2c7781f]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2021/716/regulation/10/2) omitted (4.1.2024) by virtue of [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/8/a)
 
-[^key-46ba53227e330d58caee99f88994c728]: Textual amendment: Words in [reg. 10(2)(b)](https://www.legislation.gov.uk/uksi/2021/716/regulation/10/2/b) omitted (4.1.2024) by virtue of [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/8/b)
+[^c-46ba53227e330d58caee99f88994c728]: Textual amendment: Words in [reg. 10(2)(b)](https://www.legislation.gov.uk/uksi/2021/716/regulation/10/2/b) omitted (4.1.2024) by virtue of [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/8/b)
 
-[^key-9518b323ffd4a7dedfc9e654c6cea372]: Commencement: Reg. 11 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-9518b323ffd4a7dedfc9e654c6cea372]: Commencement: Reg. 11 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-a7337d777d3068b5e65d4ef60a0c39c7]: Textual amendment: Words in [reg. 11(11)](https://www.legislation.gov.uk/uksi/2021/716/regulation/11/11) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1399/regulation/9)
+[^c-a7337d777d3068b5e65d4ef60a0c39c7]: Textual amendment: Words in [reg. 11(11)](https://www.legislation.gov.uk/uksi/2021/716/regulation/11/11) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1399/regulation/9)
 
-[^key-02d664a0763d0ca82fcb0331ce8d819b]: Commencement: Reg. 12 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-02d664a0763d0ca82fcb0331ce8d819b]: Commencement: Reg. 12 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-55a0b0999dc7674a0206f85a62d2a7f2]: Commencement: Reg. 13 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-55a0b0999dc7674a0206f85a62d2a7f2]: Commencement: Reg. 13 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
 [^f00019]: Footnote: Section 232 was amended by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and [S.I. 2011/239](https://www.legislation.gov.uk/uksi/2011/239) and [2017/443](https://www.legislation.gov.uk/uksi/2017/443).
 
-[^key-c53750cc060ce2507c737ab5a236d7be]: Commencement: Reg. 14 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-c53750cc060ce2507c737ab5a236d7be]: Commencement: Reg. 14 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-f2b9833627d6149aedccfe1fef0c8c6a]: Commencement: Reg. 15 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-f2b9833627d6149aedccfe1fef0c8c6a]: Commencement: Reg. 15 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-3d22576f47d5d63614edd884e8f3dfde]: Commencement: Reg. 16 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-3d22576f47d5d63614edd884e8f3dfde]: Commencement: Reg. 16 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-119471045a7f6d1c43486a5305bc4390]: Commencement: Reg. 17 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-119471045a7f6d1c43486a5305bc4390]: Commencement: Reg. 17 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-f956ec06f3b4dcb93464d5b18c92229e]: Commencement: Reg. 18 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-f956ec06f3b4dcb93464d5b18c92229e]: Commencement: Reg. 18 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-3f42ae39066d6f2bc3c85800f3a9230a]: Commencement: Reg. 19 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-3f42ae39066d6f2bc3c85800f3a9230a]: Commencement: Reg. 19 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-24e1a35e1f9f8ead14e4ead3f3c1bace]: Commencement: Reg. 20 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-24e1a35e1f9f8ead14e4ead3f3c1bace]: Commencement: Reg. 20 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-b2143fc006990a3742e47a6b4a22ac3f]: Commencement: Reg. 21 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-b2143fc006990a3742e47a6b4a22ac3f]: Commencement: Reg. 21 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-d5ee1c5501d508146b2a80332af70c9c]: Commencement: Reg. 22 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-d5ee1c5501d508146b2a80332af70c9c]: Commencement: Reg. 22 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-0df666c736da66e7be3743d488b8cbff]: Commencement: Reg. 23 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-0df666c736da66e7be3743d488b8cbff]: Commencement: Reg. 23 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-0d233f81db438260b88a5ba8c850b8d6]: Commencement: Reg. 24 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-0d233f81db438260b88a5ba8c850b8d6]: Commencement: Reg. 24 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-97eaaf5f456433a6a7a14860b9438e4b]: Commencement: Reg. 25 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-97eaaf5f456433a6a7a14860b9438e4b]: Commencement: Reg. 25 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-89c49a1eb6cc2c629baf06a12146c5ca]: Commencement: Reg. 26 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-89c49a1eb6cc2c629baf06a12146c5ca]: Commencement: Reg. 26 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-ac0adafcf0a3eb8cfca240832d3d9f26]: Commencement: Reg. 27 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-ac0adafcf0a3eb8cfca240832d3d9f26]: Commencement: Reg. 27 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-10c9a68d86d32877bc6e73838b4e50d1]: Commencement: Reg. 28 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-10c9a68d86d32877bc6e73838b4e50d1]: Commencement: Reg. 28 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
 [^f00020]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12).
 
-[^key-8278e33eacec805ddd30b1ae86916335]: Commencement: Reg. 29 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-8278e33eacec805ddd30b1ae86916335]: Commencement: Reg. 29 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-ef27c52efadd8f43bce41503e48c708d]: Commencement: Reg. 30 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-ef27c52efadd8f43bce41503e48c708d]: Commencement: Reg. 30 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-751b1ae520fe10a7006d05f90228700e]: Commencement: Reg. 31 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-751b1ae520fe10a7006d05f90228700e]: Commencement: Reg. 31 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
 [^f00021]: Footnote: [S.I. 2009/322](https://www.legislation.gov.uk/uksi/2009/322), amended by [S.I. 2009/1826](https://www.legislation.gov.uk/uksi/2009/1826), [2018/1394](https://www.legislation.gov.uk/uksi/2018/1394). There are other amending instruments by none is relevant.
 
 [^f00022]: Footnote: [S.I. 2003/3226](https://www.legislation.gov.uk/uksi/2003/3226), to which there are amendments not relevant to these Regulations.
 
-[^key-9a88ac6a244e105f16713767e1446b41]: Commencement: Reg. 32 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-9a88ac6a244e105f16713767e1446b41]: Commencement: Reg. 32 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-aa82fd23354dbca5942fd0ad99d10c1c]: Commencement: Reg. 33 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-aa82fd23354dbca5942fd0ad99d10c1c]: Commencement: Reg. 33 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
 [^f00023]: Footnote: Paragraph 1 was amended by [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093).
 
-[^key-8b8de4bccfb1d52d49f10808e391da39]: Textual amendment: Words in [reg. 33(4)](https://www.legislation.gov.uk/uksi/2021/716/regulation/33/4) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2023/1399/regulation/10)
+[^c-8b8de4bccfb1d52d49f10808e391da39]: Textual amendment: Words in [reg. 33(4)](https://www.legislation.gov.uk/uksi/2021/716/regulation/33/4) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2023/1399/regulation/10)
 
 [^f00024]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544), amended by [S.I. 2002/682](https://www.legislation.gov.uk/uksi/2002/682). There are other amending instruments but none is relevant.
 
-[^key-fffa082a03acf11178a5b390f315bfba]: Commencement: Reg. 34 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-fffa082a03acf11178a5b390f315bfba]: Commencement: Reg. 34 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
 [^f00025]: Footnote: [1989 c. 40](https://www.legislation.gov.uk/ukpga/1989/40).
 
-[^key-f440d94db9d7a543945b31b5065fede3]: Commencement: Reg. 35 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-f440d94db9d7a543945b31b5065fede3]: Commencement: Reg. 35 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-9b46f6a38a6701e6ec9ed6c3cbc9bb7e]: Commencement: Reg. 36 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-9b46f6a38a6701e6ec9ed6c3cbc9bb7e]: Commencement: Reg. 36 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
 [^f00026]: Footnote: [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755), to which there are amendments not relevant to these Regulations.
 
-[^key-4363a9140177a748c970598d65303b49]: Commencement: Reg. 37 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-4363a9140177a748c970598d65303b49]: Commencement: Reg. 37 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-2388c1a41baca025992d0d379ea296dd]: Textual amendment: Words in [reg. 37](https://www.legislation.gov.uk/uksi/2021/716/regulation/37) heading inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/11/1)
+[^c-2388c1a41baca025992d0d379ea296dd]: Textual amendment: Words in [reg. 37](https://www.legislation.gov.uk/uksi/2021/716/regulation/37) heading inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/11/1)
 
-[^key-02c4d8122409778e8c47d6e73d61639e]: Textual amendment: [Reg. 37(1A)](https://www.legislation.gov.uk/uksi/2021/716/regulation/37/1A)[(1B)](https://www.legislation.gov.uk/uksi/2021/716/regulation/37/1B) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/11/2/a)
+[^c-02c4d8122409778e8c47d6e73d61639e]: Textual amendment: [Reg. 37(1A)](https://www.legislation.gov.uk/uksi/2021/716/regulation/37/1A)[(1B)](https://www.legislation.gov.uk/uksi/2021/716/regulation/37/1B) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/11/2/a)
 
-[^key-b8387e16947ab9c050133b913b1aca59]: Textual amendment: Words in [reg. 37](https://www.legislation.gov.uk/uksi/2021/716/regulation/37) table substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [11(2)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/11/2/b/i)
+[^c-b8387e16947ab9c050133b913b1aca59]: Textual amendment: Words in [reg. 37](https://www.legislation.gov.uk/uksi/2021/716/regulation/37) table substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [11(2)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/11/2/b/i)
 
-[^key-48a56d614a5422ef6b6704c49c85a395]: Textual amendment: Words in [reg. 37](https://www.legislation.gov.uk/uksi/2021/716/regulation/37) table inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [11(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/11/2/b/ii)
+[^c-48a56d614a5422ef6b6704c49c85a395]: Textual amendment: Words in [reg. 37](https://www.legislation.gov.uk/uksi/2021/716/regulation/37) table inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [11(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/11/2/b/ii)
 
-[^key-89765f08a53367ba272d519aecd4c10c]: Textual amendment: Word in [reg. 37](https://www.legislation.gov.uk/uksi/2021/716/regulation/37) table substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [11(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/11/2/b/iii)
+[^c-89765f08a53367ba272d519aecd4c10c]: Textual amendment: Word in [reg. 37](https://www.legislation.gov.uk/uksi/2021/716/regulation/37) table substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [11(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/11/2/b/iii)
 
-[^key-0806a72f7740b86a03f7c244b93faa7e]: Textual amendment: [Reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12)
+[^c-0806a72f7740b86a03f7c244b93faa7e]: Textual amendment: [Reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12)
 
-[^key-8a3cc45596d68239d803a6cdd07cdc83]: Commencement: Reg. 38 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-8a3cc45596d68239d803a6cdd07cdc83]: Commencement: Reg. 38 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-fa2d21eadf8ba6ca66443e4f1d91613f]: Textual amendment: [Reg. 38(6)](https://www.legislation.gov.uk/uksi/2021/716/regulation/38/6) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2023/1399/regulation/13)
+[^c-fa2d21eadf8ba6ca66443e4f1d91613f]: Textual amendment: [Reg. 38(6)](https://www.legislation.gov.uk/uksi/2021/716/regulation/38/6) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2023/1399/regulation/13)
 
-[^key-d3321cca1a480d22e9d30f3160e4cf00]: Commencement: Reg. 39 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-d3321cca1a480d22e9d30f3160e4cf00]: Commencement: Reg. 39 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-9a6e7283819a01a081c3d1ddf46aad75]: Textual amendment: Words in [reg. 39(2)(a)](https://www.legislation.gov.uk/uksi/2021/716/regulation/39/2/a) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/14/a)
+[^c-9a6e7283819a01a081c3d1ddf46aad75]: Textual amendment: Words in [reg. 39(2)(a)](https://www.legislation.gov.uk/uksi/2021/716/regulation/39/2/a) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/14/a)
 
-[^key-abdff1c5a0d0ebb6454a0c794c64f7e0]: Textual amendment: Words in [reg. 39(4)](https://www.legislation.gov.uk/uksi/2021/716/regulation/39/4) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/14/b)
+[^c-abdff1c5a0d0ebb6454a0c794c64f7e0]: Textual amendment: Words in [reg. 39(4)](https://www.legislation.gov.uk/uksi/2021/716/regulation/39/4) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/14/b)
 
-[^key-a9814385f9068b16ede55d5adc745511]: Textual amendment: Words in [reg. 39(8)](https://www.legislation.gov.uk/uksi/2021/716/regulation/39/8) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [14(c)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/14/c)
+[^c-a9814385f9068b16ede55d5adc745511]: Textual amendment: Words in [reg. 39(8)](https://www.legislation.gov.uk/uksi/2021/716/regulation/39/8) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [14(c)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/14/c)
 
-[^key-30e91b4ea450ee99eb4fcb46b9b8d2f9]: Textual amendment: [Reg. 39(9)](https://www.legislation.gov.uk/uksi/2021/716/regulation/39/9)[(10)](https://www.legislation.gov.uk/uksi/2021/716/regulation/39/10) substituted for [reg. 39(9)](https://www.legislation.gov.uk/uksi/2021/716/regulation/39/9) (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [14(d)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/14/d)
+[^c-30e91b4ea450ee99eb4fcb46b9b8d2f9]: Textual amendment: [Reg. 39(9)](https://www.legislation.gov.uk/uksi/2021/716/regulation/39/9)[(10)](https://www.legislation.gov.uk/uksi/2021/716/regulation/39/10) substituted for [reg. 39(9)](https://www.legislation.gov.uk/uksi/2021/716/regulation/39/9) (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [14(d)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/14/d)
 
-[^key-8621f157f6e2719c0cf3d0798c7e2c2c]: Textual amendment: [Reg. 39(11)](https://www.legislation.gov.uk/uksi/2021/716/regulation/39/11) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [14(e)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/14/e)
+[^c-8621f157f6e2719c0cf3d0798c7e2c2c]: Textual amendment: [Reg. 39(11)](https://www.legislation.gov.uk/uksi/2021/716/regulation/39/11) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [14(e)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/14/e)
 
-[^key-08c0567e980c3f50df9d3ce3dceb2f51]: Commencement: Reg. 40 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-08c0567e980c3f50df9d3ce3dceb2f51]: Commencement: Reg. 40 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-a68dd8d9f8941fd8f9785666d084cd6b]: Commencement: Reg. 41 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-a68dd8d9f8941fd8f9785666d084cd6b]: Commencement: Reg. 41 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-54c9b8fcd705a9eb21f9dabf9648df9f]: Textual amendment: Words in [reg. 41(2)](https://www.legislation.gov.uk/uksi/2021/716/regulation/41/2) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2023/1399/regulation/15)
+[^c-54c9b8fcd705a9eb21f9dabf9648df9f]: Textual amendment: Words in [reg. 41(2)](https://www.legislation.gov.uk/uksi/2021/716/regulation/41/2) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2023/1399/regulation/15)
 
-[^key-5d88e4517bb47900ff31bccc21a01594]: Commencement: Reg. 42 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-5d88e4517bb47900ff31bccc21a01594]: Commencement: Reg. 42 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-e5e59d1384f7bdb66b9ddeb275e03d59]: Textual amendment: Words in reg. 42(1)(a) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2023/1399/regulation/16)
+[^c-e5e59d1384f7bdb66b9ddeb275e03d59]: Textual amendment: Words in reg. 42(1)(a) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2023/1399/regulation/16)
 
-[^key-a52fb9d09e8a853e1b5e77ac88798617]: Commencement: Reg. 43 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-a52fb9d09e8a853e1b5e77ac88798617]: Commencement: Reg. 43 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-1a6b28e6fd8cca588ef7d51cd0be1830]: Textual amendment: Words in [reg. 43(2)](https://www.legislation.gov.uk/uksi/2021/716/regulation/43/2) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2023/1399/regulation/17)
+[^c-1a6b28e6fd8cca588ef7d51cd0be1830]: Textual amendment: Words in [reg. 43(2)](https://www.legislation.gov.uk/uksi/2021/716/regulation/43/2) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2023/1399/regulation/17)
 
-[^key-d458a7adb7264594f507b9fb77d23e9c]: Commencement: Reg. 44 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-d458a7adb7264594f507b9fb77d23e9c]: Commencement: Reg. 44 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-2fe7c27f317ab92809042f079f0d8480]: Textual amendment: Word in [reg. 44(1)](https://www.legislation.gov.uk/uksi/2021/716/regulation/44/1) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [18(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/18/2)
+[^c-2fe7c27f317ab92809042f079f0d8480]: Textual amendment: Word in [reg. 44(1)](https://www.legislation.gov.uk/uksi/2021/716/regulation/44/1) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [18(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/18/2)
 
-[^key-0d98e6d6a13e313c99c77a8cfff34424]: Textual amendment: Words in [reg. 44(2)(a)](https://www.legislation.gov.uk/uksi/2021/716/regulation/44/2/a) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [18(3)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/18/3/a)
+[^c-0d98e6d6a13e313c99c77a8cfff34424]: Textual amendment: Words in [reg. 44(2)(a)](https://www.legislation.gov.uk/uksi/2021/716/regulation/44/2/a) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [18(3)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/18/3/a)
 
-[^key-504edfc925eae6441ee1d82d4f0df7de]: Textual amendment: Words in [reg. 44(2)(b)](https://www.legislation.gov.uk/uksi/2021/716/regulation/44/2/b) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [18(3)(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/18/3/b)
+[^c-504edfc925eae6441ee1d82d4f0df7de]: Textual amendment: Words in [reg. 44(2)(b)](https://www.legislation.gov.uk/uksi/2021/716/regulation/44/2/b) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [18(3)(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/18/3/b)
 
-[^key-d1c524ed05d461a165fbaa90bd749c80]: Textual amendment: [Reg. 44(3)](https://www.legislation.gov.uk/uksi/2021/716/regulation/44/3) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [18(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/18/4)
+[^c-d1c524ed05d461a165fbaa90bd749c80]: Textual amendment: [Reg. 44(3)](https://www.legislation.gov.uk/uksi/2021/716/regulation/44/3) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [18(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/18/4)
 
-[^key-aa46d8500201a7bc40794e20378cf428]: Textual amendment: Words in [reg. 44(4)](https://www.legislation.gov.uk/uksi/2021/716/regulation/44/4) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [18(5)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/18/5)
+[^c-aa46d8500201a7bc40794e20378cf428]: Textual amendment: Words in [reg. 44(4)](https://www.legislation.gov.uk/uksi/2021/716/regulation/44/4) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [18(5)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/18/5)
 
-[^key-ff34d28eec138c0bb350e4ee5d36a851]: Textual amendment: [Reg. 44(6A)](https://www.legislation.gov.uk/uksi/2021/716/regulation/44/6A)[(6B)](https://www.legislation.gov.uk/uksi/2021/716/regulation/44/6B) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [18(6)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/18/6)
+[^c-ff34d28eec138c0bb350e4ee5d36a851]: Textual amendment: [Reg. 44(6A)](https://www.legislation.gov.uk/uksi/2021/716/regulation/44/6A)[(6B)](https://www.legislation.gov.uk/uksi/2021/716/regulation/44/6B) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [18(6)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/18/6)
 
-[^key-ff5ed02feaa55bc3ac437be529f940fc]: Textual amendment: Words in [reg. 44(8)](https://www.legislation.gov.uk/uksi/2021/716/regulation/44/8) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [18(7)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/18/7)
+[^c-ff5ed02feaa55bc3ac437be529f940fc]: Textual amendment: Words in [reg. 44(8)](https://www.legislation.gov.uk/uksi/2021/716/regulation/44/8) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [18(7)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/18/7)
 
-[^key-38e220c12d9afe318e4d5ab59705572f]: Commencement: Reg. 45 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-38e220c12d9afe318e4d5ab59705572f]: Commencement: Reg. 45 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-59f0beb570e0cdce461ce5d7a310f71e]: Commencement: Reg. 46 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-59f0beb570e0cdce461ce5d7a310f71e]: Commencement: Reg. 46 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-114a4182efb3a6e7917589e60291bee1]: Textual amendment: Words in reg. 46 heading inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [19(1)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/19/1/a)
+[^c-114a4182efb3a6e7917589e60291bee1]: Textual amendment: Words in reg. 46 heading inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [19(1)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/19/1/a)
 
-[^key-ca01aa0eab0440e66612e7d3206a7291]: Textual amendment: Reg. 46(1)(1A) substituted for reg. 46(1) (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [19(1)(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/19/1/b)
+[^c-ca01aa0eab0440e66612e7d3206a7291]: Textual amendment: Reg. 46(1)(1A) substituted for reg. 46(1) (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [19(1)(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/19/1/b)
 
-[^key-6eadb5aa069cfbdaa158792798dcfaf6]: Textual amendment: Word in reg. 46(3) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [19(1)(c)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/19/1/c)
+[^c-6eadb5aa069cfbdaa158792798dcfaf6]: Textual amendment: Word in reg. 46(3) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [19(1)(c)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/19/1/c)
 
-[^key-4e75e18dd6ddbfb0d7e961b7ae1a706c]: Textual amendment: [Reg. 46A](https://www.legislation.gov.uk/uksi/2021/716/regulation/46A) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/19/2)
+[^c-4e75e18dd6ddbfb0d7e961b7ae1a706c]: Textual amendment: [Reg. 46A](https://www.legislation.gov.uk/uksi/2021/716/regulation/46A) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/19/2)
 
-[^key-11701a3441381bddd9b8a47d4861bacf]: Commencement: Reg. 47 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-11701a3441381bddd9b8a47d4861bacf]: Commencement: Reg. 47 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-cccfc280f01184c546993443e31d64b5]: Textual amendment: Words in [reg. 47(1)](https://www.legislation.gov.uk/uksi/2021/716/regulation/47/1) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20(1)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20/1/a)
+[^c-cccfc280f01184c546993443e31d64b5]: Textual amendment: Words in [reg. 47(1)](https://www.legislation.gov.uk/uksi/2021/716/regulation/47/1) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20(1)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20/1/a)
 
-[^key-eb09c228cbf59abb1b8da0dddae6a12c]: Textual amendment: [Reg. 47(1A)](https://www.legislation.gov.uk/uksi/2021/716/regulation/47/1A) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20(1)(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20/1/b)
+[^c-eb09c228cbf59abb1b8da0dddae6a12c]: Textual amendment: [Reg. 47(1A)](https://www.legislation.gov.uk/uksi/2021/716/regulation/47/1A) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20(1)(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20/1/b)
 
-[^key-fc5b90e060ce04c786fd253212c9e372]: Textual amendment: [Reg. 47(2A)](https://www.legislation.gov.uk/uksi/2021/716/regulation/47/2A) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20(1)(c)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20/1/c)
+[^c-fc5b90e060ce04c786fd253212c9e372]: Textual amendment: [Reg. 47(2A)](https://www.legislation.gov.uk/uksi/2021/716/regulation/47/2A) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20(1)(c)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20/1/c)
 
-[^key-2829f383468565f6746e1551096683d3]: Commencement: Reg. 48 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-2829f383468565f6746e1551096683d3]: Commencement: Reg. 48 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-5a4f10a0f46e220d879846cb6a520fde]: Commencement: Reg. 49 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-5a4f10a0f46e220d879846cb6a520fde]: Commencement: Reg. 49 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
 [^f00027]: Footnote: [S.I. 2018/1394](https://www.legislation.gov.uk/uksi/2018/1394), amended by [S.I. 2019/710](https://www.legislation.gov.uk/uksi/2019/710) and [S.I. 2020/1350](https://www.legislation.gov.uk/uksi/2020/1350).
 
 [^f00028]: Footnote: [S.I. 2020/1350](https://www.legislation.gov.uk/uksi/2020/1350).
 
-[^key-6fa2740f73e9205f1c38b9875283d57a]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/716/schedule/1) heading inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20/2/a)
+[^c-6fa2740f73e9205f1c38b9875283d57a]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/716/schedule/1) heading inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20/2/a)
 
-[^key-d6f5ada39739bf8b8eee81ab397065ed]: Commencement: Sch. 1 para. 1 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-d6f5ada39739bf8b8eee81ab397065ed]: Commencement: Sch. 1 para. 1 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-1ce5b81a60c4fb80cec0157441d8c6dd]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/1) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20/2/b)
+[^c-1ce5b81a60c4fb80cec0157441d8c6dd]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/1) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20/2/b)
 
-[^key-9ffcc25a499ae673e8661eb9ef084f3b]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/2) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20(2)(c)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20/2/c)
+[^c-9ffcc25a499ae673e8661eb9ef084f3b]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/2) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20(2)(c)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20/2/c)
 
-[^key-37f6504a6e0588b8c60e46d999045158]: Commencement: Sch. 1 para. 3 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-37f6504a6e0588b8c60e46d999045158]: Commencement: Sch. 1 para. 3 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-675f9a9a2e72bd05a7a469e81e8d2091]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/3) Table inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20(2)(d)(i)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20/2/d/i)
+[^c-675f9a9a2e72bd05a7a469e81e8d2091]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/3) Table inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20(2)(d)(i)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20/2/d/i)
 
-[^key-723603f5b0a5d1adf4a627bd3ef8cae9]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/3) Table inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20/2/d/ii)
+[^c-723603f5b0a5d1adf4a627bd3ef8cae9]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/3) Table inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20/2/d/ii)
 
-[^key-4cc16eb6004225f85ef5656f2026233c]: Commencement: Sch. 1 para. 4 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-4cc16eb6004225f85ef5656f2026233c]: Commencement: Sch. 1 para. 4 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-91d7db50cd945242b8b2ac020e23784d]: Commencement: Sch. 1 para. 5 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-91d7db50cd945242b8b2ac020e23784d]: Commencement: Sch. 1 para. 5 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
 [^f00030]: Footnote: [S.I. 2005/524](https://www.legislation.gov.uk/uksi/2005/524).
 
@@ -2350,45 +2350,45 @@ A de minimis impact assessment of the effect these Regulations will have on busi
 
 [^f00036]: Footnote: [S.I. 1996/1910](https://www.legislation.gov.uk/uksi/1996/1910).
 
-[^key-82756e2cc58d4c5d95d4294cc0895e32]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1)
+[^c-82756e2cc58d4c5d95d4294cc0895e32]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1)
 
-[^key-f62b3004f5f348bd132b749ca3bde0d6]: Commencement: Sch. 2 para. 1 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-f62b3004f5f348bd132b749ca3bde0d6]: Commencement: Sch. 2 para. 1 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-85f4cfd6811ef643ecc81ce6c4870770]: Commencement: Sch. 2 para. 2 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-85f4cfd6811ef643ecc81ce6c4870770]: Commencement: Sch. 2 para. 2 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
 [^f00037]: Footnote: [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), amended by [S.I. 2005/1516](https://www.legislation.gov.uk/uksi/2005/1516), [2013/472](https://www.legislation.gov.uk/uksi/2013/472), [2014/3486](https://www.legislation.gov.uk/uksi/2014/3486), [2017/540](https://www.legislation.gov.uk/uksi/2017/540), [2017/1119](https://www.legislation.gov.uk/uksi/2017/1119), [2018/1244](https://www.legislation.gov.uk/uksi/2018/1244). There are other amending instruments but none is relevant.
 
-[^key-d5ccf603e30e76d5b13e175895d48be4]: Commencement: Sch. 2 para. 3 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-d5ccf603e30e76d5b13e175895d48be4]: Commencement: Sch. 2 para. 3 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-995b9d63ae1511ab24fb11ccf53d87b9]: Commencement: Sch. 2 para. 4 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-995b9d63ae1511ab24fb11ccf53d87b9]: Commencement: Sch. 2 para. 4 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-b513c00a8e69d9e413552266fc888679]: Commencement: Sch. 2 para. 5 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-b513c00a8e69d9e413552266fc888679]: Commencement: Sch. 2 para. 5 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-8b9043f140c8e14398f4956428daea78]: Commencement: Sch. 2 para. 6 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-8b9043f140c8e14398f4956428daea78]: Commencement: Sch. 2 para. 6 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
 [^f00038]: Footnote: [S.I. 2017/540](https://www.legislation.gov.uk/uksi/2017/540).
 
-[^key-36b7cc939f68bc8eebd403523c844bc0]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/6) Table 2 substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20/4)
+[^c-36b7cc939f68bc8eebd403523c844bc0]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/6) Table 2 substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20/4)
 
-[^key-aa4921fb8e71f4ecd232aafdbd9aebc1]: Commencement: Sch. 2 para. 7 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-aa4921fb8e71f4ecd232aafdbd9aebc1]: Commencement: Sch. 2 para. 7 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-120e6bd73dba8fcbc3c1493fe8d27109]: Commencement: Sch. 2 para. 8 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-120e6bd73dba8fcbc3c1493fe8d27109]: Commencement: Sch. 2 para. 8 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-684c6893ccb17d35ffd7919425c5dc4f]: Commencement: Sch. 2 para. 9 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-684c6893ccb17d35ffd7919425c5dc4f]: Commencement: Sch. 2 para. 9 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-33bf52f0eda763924b258008596225de]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/2021/716/schedule/2A) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1399/schedule/2)
+[^c-33bf52f0eda763924b258008596225de]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/2021/716/schedule/2A) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1399/schedule/2)
 
-[^key-47e131bf807719497f9cc07112146cbf]: Commencement: Sch. 3 para. 1 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-47e131bf807719497f9cc07112146cbf]: Commencement: Sch. 3 para. 1 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-b65eef4a7bf5b937e45ccd130e17eb23]: Commencement: Sch. 3 para. 2 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-b65eef4a7bf5b937e45ccd130e17eb23]: Commencement: Sch. 3 para. 2 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
 [^f00039]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
-[^key-6082ab109cf6a6f36b22bf8bd4dd9d18]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/a)
+[^c-6082ab109cf6a6f36b22bf8bd4dd9d18]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/a)
 
 [^f00040]: Footnote: [1973 c. 52](https://www.legislation.gov.uk/ukpga/1973/52).
 
-[^key-289fdb668ed5cd123243bf4b066574cd]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/b)
+[^c-289fdb668ed5cd123243bf4b066574cd]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/b)
 
 [^f00041]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
@@ -2398,23 +2398,23 @@ A de minimis impact assessment of the effect these Regulations will have on busi
 
 [^f00044]: Footnote: [1989 c. 40](https://www.legislation.gov.uk/ukpga/1989/40).
 
-[^key-15a39867cf8b94e9a3d71d010018f433]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(c)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/c)
+[^c-15a39867cf8b94e9a3d71d010018f433]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(c)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/c)
 
 [^f00045]: Footnote: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
 [^f00046]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-04d6539e02c8a7fd948afd9ffe17dd8f]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(d)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/d)
+[^c-04d6539e02c8a7fd948afd9ffe17dd8f]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(d)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/d)
 
 [^f00047]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
 
-[^key-4c1acb458ef3f40ad77b4ca1e7b45d76]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(e)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/e)
+[^c-4c1acb458ef3f40ad77b4ca1e7b45d76]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(e)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/e)
 
 [^f00048]: Footnote: [1995 c. 43](https://www.legislation.gov.uk/ukpga/1995/43).
 
 [^f00049]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-a74381677fa7880e5b7e69dba41e846e]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(f)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/f)
+[^c-a74381677fa7880e5b7e69dba41e846e]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(f)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/f)
 
 [^f00050]: Footnote: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11).
 
@@ -2432,7 +2432,7 @@ A de minimis impact assessment of the effect these Regulations will have on busi
 
 [^f00057]: Footnote: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35).
 
-[^key-431f90711ec90dfa6593e3a5a4a033f9]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(g)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/g)
+[^c-431f90711ec90dfa6593e3a5a4a033f9]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(g)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/g)
 
 [^f00058]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
@@ -2450,25 +2450,25 @@ A de minimis impact assessment of the effect these Regulations will have on busi
 
 [^f00065]: Footnote: [S.I. 1986/1960](https://www.legislation.gov.uk/uksi/1986/1960).
 
-[^key-26048a799261031c379e3ec0cf0d9295]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/a)
+[^c-26048a799261031c379e3ec0cf0d9295]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/a)
 
 [^f00066]: Footnote: [S.I. 1987/2023](https://www.legislation.gov.uk/uksi/1987/2023).
 
 [^f00067]: Footnote: [S.I. 1991/880](https://www.legislation.gov.uk/uksi/1991/880).
 
-[^key-6dca14888b7fdc82d2a7735896f0d2b0]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/b)
+[^c-6dca14888b7fdc82d2a7735896f0d2b0]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/b)
 
 [^f00068]: Footnote: [S.I. 1994/2507](https://www.legislation.gov.uk/uksi/1994/2507).
 
-[^key-bd6a47cce0ce11fc4fafe55acf9f66c0]: Textual amendment: Words in Sch. 3 para. 2 omitted (4.1.2024) by virtue of [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(c)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/c)
+[^c-bd6a47cce0ce11fc4fafe55acf9f66c0]: Textual amendment: Words in Sch. 3 para. 2 omitted (4.1.2024) by virtue of [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(c)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/c)
 
-[^key-6bc423ce6d4af40c6aa6bcb2e2a654bb]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(d)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/d)
+[^c-6bc423ce6d4af40c6aa6bcb2e2a654bb]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(d)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/d)
 
 [^f00070]: Footnote: [S.I. 1996/1909](https://www.legislation.gov.uk/uksi/1996/1909).
 
 [^f00071]: Footnote: [S.I. 1996/1469](https://www.legislation.gov.uk/uksi/1996/1469).
 
-[^key-83eb5fbc59c2e68ddedef78b797e07d5]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(e)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/e)
+[^c-83eb5fbc59c2e68ddedef78b797e07d5]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(e)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/e)
 
 [^f00072]: Footnote: [S.I. 1998/1870](https://www.legislation.gov.uk/uksi/1998/1870).
 
@@ -2478,17 +2478,17 @@ A de minimis impact assessment of the effect these Regulations will have on busi
 
 [^f00075]: Footnote: [S.I. 2002/2822](https://www.legislation.gov.uk/uksi/2002/2822).
 
-[^key-b4eac3d3103b257fe503cf373bcc5e01]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(f)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/f)
+[^c-b4eac3d3103b257fe503cf373bcc5e01]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(f)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/f)
 
 [^f00076]: Footnote: [S.I. 2003/3226](https://www.legislation.gov.uk/uksi/2003/3226).
 
-[^key-e4beadd99efe6df8a86d511c21708d6e]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(g)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/g)
+[^c-e4beadd99efe6df8a86d511c21708d6e]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(g)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/g)
 
 [^f00077]: Footnote: [S.I. 2005/524](https://www.legislation.gov.uk/uksi/2005/524).
 
 [^f00078]: Footnote: [S.I. 2005/590](https://www.legislation.gov.uk/uksi/2005/590).
 
-[^key-69b00888abbba768f302eeb60d059cfa]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(h)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/h)
+[^c-69b00888abbba768f302eeb60d059cfa]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(h)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/h)
 
 [^f00079]: Footnote: [S.I. 2005/916](https://www.legislation.gov.uk/uksi/2005/916).
 
@@ -2496,7 +2496,7 @@ A de minimis impact assessment of the effect these Regulations will have on busi
 
 [^f00081]: Footnote: [S.I. 2005/1986](https://www.legislation.gov.uk/uksi/2005/1986).
 
-[^key-2555726424877a9fd6171bddc660a56f]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(i)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/i)
+[^c-2555726424877a9fd6171bddc660a56f]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(i)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/i)
 
 [^f00082]: Footnote: [S.S.I. 2006/485](https://www.legislation.gov.uk/ssi/2006/485).
 
@@ -2510,29 +2510,29 @@ A de minimis impact assessment of the effect these Regulations will have on busi
 
 [^f00087]: Footnote: [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911).
 
-[^key-2e1b848ba2afef5afab187de047e4599]: Textual amendment: Words in Sch. 3 para. 2 omitted (4.1.2024) by virtue of [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(j)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/j)
+[^c-2e1b848ba2afef5afab187de047e4599]: Textual amendment: Words in Sch. 3 para. 2 omitted (4.1.2024) by virtue of [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(j)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/j)
 
 [^f00089]: Footnote: [S.I. 2009/214](https://www.legislation.gov.uk/uksi/2009/214).
 
 [^f00090]: Footnote: [S.I. 2010/1056](https://www.legislation.gov.uk/uksi/2010/1056).
 
-[^key-411524097389ae9959f3738717a2c2a3]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(k)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/k)
+[^c-411524097389ae9959f3738717a2c2a3]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(k)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/k)
 
 [^f00091]: Footnote: [S.I. 2020/233](https://www.legislation.gov.uk/uksi/2020/233).
 
-[^key-57ef0c1ff84bbe0593630135680adc58]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(l)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/l)
+[^c-57ef0c1ff84bbe0593630135680adc58]: Textual amendment: Words in Sch. 3 para. 2 inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(l)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/l)
 
-[^key-c2f9e169c045a899799fa0182958f19f]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2025/201/regulation/28)
+[^c-c2f9e169c045a899799fa0182958f19f]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2025/201/regulation/28)
 
-[^key-3cc9f5d572ded00c45c7d10c5dc25bb0]: Commencement: Sch. 3 para. 3 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-3cc9f5d572ded00c45c7d10c5dc25bb0]: Commencement: Sch. 3 para. 3 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-c305e35e0831fe85fcf62be03460c865]: Textual amendment: Words in Sch. 3 para. 3(d) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(4)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4/a)
+[^c-c305e35e0831fe85fcf62be03460c865]: Textual amendment: Words in Sch. 3 para. 3(d) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(4)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4/a)
 
-[^key-c1a955ca294a7f4582b40fe700de1b10]: Textual amendment: Words in Sch. 3 para. 3(i) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(4)(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4/b)
+[^c-c1a955ca294a7f4582b40fe700de1b10]: Textual amendment: Words in Sch. 3 para. 3(i) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(4)(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4/b)
 
-[^key-91dada5fe0dc1ee4a2fa4ba7611c2dba]: Textual amendment: Words in Sch. 3 para. 3(j) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(4)(c)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4/c)
+[^c-91dada5fe0dc1ee4a2fa4ba7611c2dba]: Textual amendment: Words in Sch. 3 para. 3(j) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(4)(c)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4/c)
 
-[^key-869698f5fc14905d1d962909e456730f]: Textual amendment: Sch. 3 para. 3(k)(ai) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(4)(d)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4/d)
+[^c-869698f5fc14905d1d962909e456730f]: Textual amendment: Sch. 3 para. 3(k)(ai) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(4)(d)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4/d)
 
 [^f00092]: Footnote: [S.I. 2016/1024](https://www.legislation.gov.uk/uksi/2016/1024).
 
@@ -2540,48 +2540,48 @@ A de minimis impact assessment of the effect these Regulations will have on busi
 
 [^f00094]: Footnote: [S.S.I. 2018/347](https://www.legislation.gov.uk/ssi/2018/347).
 
-[^key-ea1b48ab779272b58356dfe568f9391a]: Textual amendment: Words in Sch. 3 para. 3(l) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(4)(e)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4/e)
+[^c-ea1b48ab779272b58356dfe568f9391a]: Textual amendment: Words in Sch. 3 para. 3(l) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(4)(e)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4/e)
 
-[^key-74cd7980bc7402fb88f621afa1bd050c]: Textual amendment: Words in Sch. 3 para. 3(m) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(4)(f)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4/f)
+[^c-74cd7980bc7402fb88f621afa1bd050c]: Textual amendment: Words in Sch. 3 para. 3(m) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(4)(f)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4/f)
 
-[^key-c8565d1ce6f2100b394be52714e89aaa]: Commencement: Sch. 3 para. 4 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-c8565d1ce6f2100b394be52714e89aaa]: Commencement: Sch. 3 para. 4 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-085373b2cbef2f691e62e7db1af60b84]: Textual amendment: Words in Sch. 3 para. 4 heading inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(5)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/5)
+[^c-085373b2cbef2f691e62e7db1af60b84]: Textual amendment: Words in Sch. 3 para. 4 heading inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(5)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/5)
 
-[^key-893522ea9f357e78a06b895cf6e99dd0]: Textual amendment: Sch. 3 para. 4 renumbered as Sch. 3 para. 4(1) (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(6)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/6/a)
+[^c-893522ea9f357e78a06b895cf6e99dd0]: Textual amendment: Sch. 3 para. 4 renumbered as Sch. 3 para. 4(1) (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(6)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/6/a)
 
 [^f00095]: Footnote: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35).
 
-[^key-ed5a6517bda6382ffc11a570e07141d6]: Textual amendment: Sch. 3 para. 4(2) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(6)(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/6/b)
+[^c-ed5a6517bda6382ffc11a570e07141d6]: Textual amendment: Sch. 3 para. 4(2) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(6)(b)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/6/b)
 
-[^key-5f33ee29b79a942679dde032cab2e149]: Commencement: Sch. 3 para. 5 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-5f33ee29b79a942679dde032cab2e149]: Commencement: Sch. 3 para. 5 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-e73db482711bdf2f84464bcc4af08669]: Textual amendment: Words in Sch. 3 para. 5(b) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(7)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/7/a/i)
+[^c-e73db482711bdf2f84464bcc4af08669]: Textual amendment: Words in Sch. 3 para. 5(b) inserted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(7)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/7/a/i)
 
-[^key-251021f5721198f901e3135a8a14f113]: Textual amendment: Words in Sch. 3 para. 5(b) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/7/a/ii)
+[^c-251021f5721198f901e3135a8a14f113]: Textual amendment: Words in Sch. 3 para. 5(b) substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/7/a/ii)
 
-[^key-968f49a28bf67d19742ae700c0c651e4]: Textual amendment: Word in Sch. 3 para. 5(c)(i) omitted (4.1.2024) by virtue of [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(7)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/7/b/i)
+[^c-968f49a28bf67d19742ae700c0c651e4]: Textual amendment: Word in Sch. 3 para. 5(c)(i) omitted (4.1.2024) by virtue of [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(7)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/7/b/i)
 
-[^key-f48e1bc12e1181d0a009a49380468fa9]: Textual amendment: Sch. 3 para. 5(c)(ii) omitted (4.1.2024) by virtue of [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/7/b/ii)
+[^c-f48e1bc12e1181d0a009a49380468fa9]: Textual amendment: Sch. 3 para. 5(c)(ii) omitted (4.1.2024) by virtue of [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/7/b/ii)
 
-[^key-896b43069d45a62a981a7f01bff4b882]: Textual amendment: Sch. 3 para. 6 and cross-heading substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(8)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/8)
+[^c-896b43069d45a62a981a7f01bff4b882]: Textual amendment: Sch. 3 para. 6 and cross-heading substituted (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(8)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/8)
 
-[^key-b74f677eaea263da0e80aad01d72c5f2]: Commencement: Sch. 4 para. 1 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-b74f677eaea263da0e80aad01d72c5f2]: Commencement: Sch. 4 para. 1 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
 [^f00097]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
 [^f00098]: Footnote: [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716).
 
-[^key-8edb04495c3a4b1c1d7aaee4b760e9cc]: Commencement: Sch. 4 para. 2 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-8edb04495c3a4b1c1d7aaee4b760e9cc]: Commencement: Sch. 4 para. 2 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
 [^f00099]: Footnote: [1986 c. 41](https://www.legislation.gov.uk/ukpga/1986/41). In section 80D(9), paragraph (ha) was inserted by [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245). In section 89AB(9), paragraph (ha) was inserted by [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245).
 
-[^key-ec2918b913180de5fe55202c3c2eef0b]: Commencement: Sch. 4 para. 3 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-ec2918b913180de5fe55202c3c2eef0b]: Commencement: Sch. 4 para. 3 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
 [^f00100]: Footnote: [2010 c. 10](https://www.legislation.gov.uk/ukpga/2010/10). Schedule A1 was inserted by [S.I. 2016/570](https://www.legislation.gov.uk/uksi/2016/570).
 
-[^key-18c3d94b207c00506ba434025189870e]: Commencement: Sch. 4 para. 4 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-18c3d94b207c00506ba434025189870e]: Commencement: Sch. 4 para. 4 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-7e77a1688d5ded78b60154dcc94a146f]: Commencement: Sch. 4 para. 5 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-7e77a1688d5ded78b60154dcc94a146f]: Commencement: Sch. 4 para. 5 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
 
-[^key-58228dd312d6de845b4e9efd0d8feafa]: Commencement: Sch. 4 para. 6 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)
+[^c-58228dd312d6de845b4e9efd0d8feafa]: Commencement: Sch. 4 para. 6 in force at 8.7.2021, see [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2)

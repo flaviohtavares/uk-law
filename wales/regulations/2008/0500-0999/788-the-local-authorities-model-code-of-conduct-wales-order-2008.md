@@ -43,15 +43,15 @@ Coming into force
 
 18 April 2008
 
-The Welsh Ministers, in exercise of the powers conferred on the National Assembly for Wales by sections 50(2), 50(3), 50(4), 50(4E), 81(2), 81(3) and 105 of the Local Government Act 2000[^f00001] and now vested[^f00002] in them, having carried out such consultation as is required by virtue of section 50(5) of that Act and being satisfied that the model code of conduct being issued under section 50(2) is consistent with the principles specified in the Conduct of Members (Principles) (Wales) Order 2001[^f00003] made pursuant to section 49(2), make the following Order:[^key-caeb13f9476feba1aabcce0d27c9e27e]
+The Welsh Ministers, in exercise of the powers conferred on the National Assembly for Wales by sections 50(2), 50(3), 50(4), 50(4E), 81(2), 81(3) and 105 of the Local Government Act 2000[^f00001] and now vested[^f00002] in them, having carried out such consultation as is required by virtue of section 50(5) of that Act and being satisfied that the model code of conduct being issued under section 50(2) is consistent with the principles specified in the Conduct of Members (Principles) (Wales) Order 2001[^f00003] made pursuant to section 49(2), make the following Order:[^c-caeb13f9476feba1aabcce0d27c9e27e]
 
-## 1. Title, commencement and application[^key-98be371292178f8e7e78a560f5882030]
+## 1. Title, commencement and application[^c-98be371292178f8e7e78a560f5882030]
 
 (1) The title of this Order is the Local Authorities (Model Code of Conduct) (Wales) Order 2008 and it comes into force on 18 April 2008.
 
 (2) This Order applies to each relevant authority in Wales.
 
-## 2. Interpretation[^key-c4f0db6afe77d08c89072eb224c90ffc]
+## 2. Interpretation[^c-c4f0db6afe77d08c89072eb224c90ffc]
 
 In this Order —
 
@@ -60,13 +60,13 @@ In this Order —
 - “member” (“*aelod*”) has the meaning set out in Part 1 of the model code in the Schedule to this Order; and
 - “relevant authority” (“*awdurdod perthnasol*”) has the meaning set out in Part 1 of the model code in the Schedule to this Order.
 
-## 3. Model Code of Conduct[^key-d64386a9d87fa7b27666deab9aded5aa]
+## 3. Model Code of Conduct[^c-d64386a9d87fa7b27666deab9aded5aa]
 
 (1) A model code as regards the conduct which is expected of members of a relevant authority is set out in the Schedule to this Order.
 
 (2) For the purposes of section 50(4) of the Act, the provisions of the model code are to be regarded as mandatory.
 
-## 4. Provisions to be disapplied[^key-25fe98cc19d5b91fd0f0f915c8655ec7]
+## 4. Provisions to be disapplied[^c-25fe98cc19d5b91fd0f0f915c8655ec7]
 
 (1) Where a relevant authority which is a county, county borough or community council or fire and rescue authority has adopted a code of conduct or such a code applies to it, the following will, where applicable to the relevant authority, be disapplied as respects that authority —
 
@@ -80,7 +80,7 @@ In this Order —
 
 (3) Section 16(1) of the Interpretation Act 1978[^f00007] will apply to a disapplication under paragraph (1) or (2) above as if it were a repeal, by an Act, of an enactment.
 
-## 5. Revocation[^key-8e01fd72146dac1b6389f3fc642c7e23]
+## 5. Revocation[^c-8e01fd72146dac1b6389f3fc642c7e23]
 
 The following orders are revoked:
 
@@ -88,7 +88,7 @@ The following orders are revoked:
 - (b) the Conduct of Members (Model Code of Conduct) (Amendment) (Wales) Order 2004[^f00009]; and
 - (c) the Conduct of Members (Model Code of Conduct) (Wales) (Amendment) (No. 2) Order 2004[^f00010].
 
-## 6. Transitional Provisions and Savings[^key-a9051846282de50586b4ccce063d10da]
+## 6. Transitional Provisions and Savings[^c-a9051846282de50586b4ccce063d10da]
 
 The orders referred to in article 5 continue to have effect for the purposes of and for purposes connected with —
 
@@ -107,7 +107,7 @@ Minister for Social Justice and Local Government, one of the Welsh Ministers
 
 ### PART 1 — INTERPRETATION
 
-**1.**[^key-a6b42164363a2a6ff686c1c23a95bca1] (1) In this code —
+**1.**[^c-a6b42164363a2a6ff686c1c23a95bca1] (1) In this code —
 
 - “co-opted member” (“*aelod cyfetholedig*”), in relation to a relevant authority, means a person who is not a member of the authority but who —
   - (a) is a member of any committee or sub-committee of the authority, or
@@ -122,29 +122,29 @@ Minister for Social Justice and Local Government, one of the Welsh Ministers
 
   and includes circumstances in which a member of an executive or board or an officer acting alone exercises a function of an authority;
 - “member” (“*aelod*”) includes, unless the context requires otherwise, a co-opted member;
-- “[^key-606c67f36e979055ab8b4bf1db4d8ffd]**protected characteristics**” (“***nodweddion gwarchodedig***”) has the meaning given by section 4 of the Equality Act 2010;
-- “register of members’ interests” (“[^key-b48b4afee920feba7d4b9a0ac73a8abc]*cofrestr o fuddiannau’r aelodau*”) means the register established and maintained under section 81 of the Local Government Act 2000;
-- “registered society” means a society, other than a society registered as a credit union, which is—[^key-5131ab771489631cffd25de7946576c6]
+- “[^c-606c67f36e979055ab8b4bf1db4d8ffd]**protected characteristics**” (“***nodweddion gwarchodedig***”) has the meaning given by section 4 of the Equality Act 2010;
+- “register of members’ interests” (“[^c-b48b4afee920feba7d4b9a0ac73a8abc]*cofrestr o fuddiannau’r aelodau*”) means the register established and maintained under section 81 of the Local Government Act 2000;
+- “registered society” means a society, other than a society registered as a credit union, which is—[^c-5131ab771489631cffd25de7946576c6]
   - ((a)) a registered society within the meaning given by section 1(1) of the Co-operative and Community Benefit Societies Act 2014; or
   - ((b)) a society registered or deemed to be registered under the Industrial and Provident Societies Act (Northern Ireland) 1969;
 - “relevant authority” (“*awdurdod perthnasol*”) means—
   - (a) a county council,
   - (b) a county borough council,
   - (c) a community council,
-  - (ca) a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021 (asc 1),[^key-c9e3953d152490dc7326a2c6d4613cd9]
+  - (ca) a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021 (asc 1),[^c-c9e3953d152490dc7326a2c6d4613cd9]
   - (e) a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004[^f00013] or a scheme to which section 4 of that Act applies,
   - (f) a National Park authority established under section 63 of the Environment Act 1995[^f00014];
 - “you” (“*chi*”) means you as a member or co-opted member of a relevant authority; and
 - “your authority” (“*eich awdurdod*”) means the relevant authority of which you are a member or co-opted member.
 
-(2)[^key-64f7654fab32c5240edcb8e86d53fb0b] In relation to a community council—
+(2)[^c-64f7654fab32c5240edcb8e86d53fb0b] In relation to a community council—
 
 - (a) “proper officer” (“*swyddog priodol*”) means an officer of that council within the meaning of section 270(3) of the Local Government Act 1972; and
 - (b) “standards committee” (“*pwyllgor safonau*”) means the standards committee of the county or county borough council which has functions in relation to the community council for which it is responsible under section 56(1) and (2) of the Local Government Act 2000.
 
 ### PART 2 — GENERAL PROVISIONS
 
-**2.**[^key-f7fa7561733555eae0c1b979a0f5b882] (1) Save where paragraph 3(a) applies, you must observe this code of conduct —
+**2.**[^c-f7fa7561733555eae0c1b979a0f5b882] (1) Save where paragraph 3(a) applies, you must observe this code of conduct —
 
 - (a) whenever you conduct the business, or are present at a meeting, of your authority;
 - (b) whenever you act, claim to act or give the impression you are acting in the role of member to which you were elected or appointed;
@@ -153,33 +153,33 @@ Minister for Social Justice and Local Government, one of the Welsh Ministers
 
 (2) You should read this code together with the general principles prescribed under section 49(2) of the Local Government Act 2000 in relation to Wales.
 
-**3.**[^key-f81a2d5af2964bf7ef011d5a4ce9bb24] Where you are elected, appointed or nominated by your authority to serve —
+**3.**[^c-f81a2d5af2964bf7ef011d5a4ce9bb24] Where you are elected, appointed or nominated by your authority to serve —
 
-- (a) on another relevant authority, or any other body, which includes a [^key-7531686bd82489e8c6633101c0d16699]... Local Health Board you must, when acting for that other authority or body, comply with the code of conduct of that other authority or body; or
+- (a) on another relevant authority, or any other body, which includes a [^c-7531686bd82489e8c6633101c0d16699]... Local Health Board you must, when acting for that other authority or body, comply with the code of conduct of that other authority or body; or
 - (b) on any other body which does not have a code relating to the conduct of its members, you must, when acting for that other body, comply with this code of conduct, except and insofar as it conflicts with any other lawful obligations to which that other body may be subject.
 
-**4.**[^key-b7c584a8e0d78b0457bed01665ddf55d] You must —
+**4.**[^c-b7c584a8e0d78b0457bed01665ddf55d] You must —
 
-- (a) carry out your duties and responsibilities with due regard to the principle that there should be equality of opportunity for all people, regardless of their protected characteristics or socio-economic circumstances[^key-cf2e46c68d2610300f887ae791a2cfdf];
+- (a) carry out your duties and responsibilities with due regard to the principle that there should be equality of opportunity for all people, regardless of their protected characteristics or socio-economic circumstances[^c-cf2e46c68d2610300f887ae791a2cfdf];
 - (b) show respect and consideration for others;
 - (c) not use bullying behaviour or harass any person; and
 - (d) not do anything which compromises, or which is likely to compromise, the impartiality of those who work for, or on behalf of, your authority.
 
-**5.**[^key-f07ce7278268e2e2bda20862ff14a973] You must not —
+**5.**[^c-f07ce7278268e2e2bda20862ff14a973] You must not —
 
 - (a) disclose confidential information or information which should reasonably be regarded as being of a confidential nature, without the express consent of a person authorised to give such consent, or unless required by law to do so;
 - (b) prevent any person from gaining access to information to which that person is entitled by law.
 
-**6.**[^key-54ca64eca6275ae34b28a70ce55e0f63] (1) You must —
+**6.**[^c-54ca64eca6275ae34b28a70ce55e0f63] (1) You must —
 
 - (a) not conduct yourself in a manner which could reasonably be regarded as bringing your office or authority into disrepute;
 - (b) report, whether through your authority’s confidential reporting procedure or direct to the proper authority, any conduct by another member or anyone who works for, or on behalf of, your authority which you reasonably believe involves or is likely to involve criminal behaviour (which for the purposes of this paragraph does not include offences or behaviour capable of punishment by way of a fixed penalty);
-- (c) report [^key-226fc9ff7f5ed97b99c86ca53ac4cdd2]... to your authority’s monitoring officer any conduct by another member which you reasonably believe breaches this code of conduct;
+- (c) report [^c-226fc9ff7f5ed97b99c86ca53ac4cdd2]... to your authority’s monitoring officer any conduct by another member which you reasonably believe breaches this code of conduct;
 - (d) not make vexatious, malicious or frivolous complaints against other members or anyone who works for, or on behalf of, your authority.
 
 (2) You must comply with any request of your authority’s monitoring officer, or the Public Services Ombudsman for Wales, in connection with an investigation conducted in accordance with their respective statutory powers.
 
-**7.**[^key-c02c2027750c3eb93593e70af068027c] You must not —
+**7.**[^c-c02c2027750c3eb93593e70af068027c] You must not —
 
 - (a) in your official capacity or otherwise, use or attempt to use your position improperly to confer on or secure for yourself, or any other person, an advantage or create or avoid for yourself, or any other person, a disadvantage;
 - (b) use, or authorise others to use, the resources of your authority —
@@ -190,16 +190,16 @@ Minister for Social Justice and Local Government, one of the Welsh Ministers
   - (v) improperly for political purposes; or
   - (vi) improperly for private purposes.
 
-**8.**[^key-ad93fba690f0531a65a57d58de0714d3] You must —
+**8.**[^c-ad93fba690f0531a65a57d58de0714d3] You must —
 
 - (a) when participating in meetings or reaching decisions regarding the business of your authority, do so on the basis of the merits of the circumstances involved and in the public interest having regard to any relevant advice provided by your authority’s officers, in particular by —
-  - (i) the authority’s head of paid service for authorities other than county councils and county borough councils, and the authority’s chief executive if the authority is a county council or county borough council[^key-3ae977e5e3a396ba56637c4a144c7af5];
+  - (i) the authority’s head of paid service for authorities other than county councils and county borough councils, and the authority’s chief executive if the authority is a county council or county borough council[^c-3ae977e5e3a396ba56637c4a144c7af5];
   - (ii) the authority’s chief finance officer;
   - (iii) the authority’s monitoring officer;
   - (iv) the authority’s chief legal officer (who should be consulted when there is any doubt as to the authority’s power to act, as to whether the action proposed lies within the policy framework agreed by the authority or where the legal consequences of action or failure to act by the authority might have important repercussions);
 - (b) give reasons for all decisions in accordance with any statutory requirements and any reasonable additional requirements imposed by your authority.
 
-**9.**[^key-41d523eb4a8c77a5340248c8f75c2484] You must —
+**9.**[^c-41d523eb4a8c77a5340248c8f75c2484] You must —
 
 - (a) observe the law and your authority’s rules governing the claiming of expenses and allowances in connection with your duties as a member;
 - (b) avoid accepting from anyone gifts, hospitality (other than official hospitality, such as a civic reception or a working lunch duly authorised by your authority), material benefits or services for yourself or any person which might place you, or reasonably appear to place you, under an improper obligation.
@@ -208,7 +208,7 @@ Minister for Social Justice and Local Government, one of the Welsh Ministers
 
 #### Personal Interests
 
-**10.**[^key-5872ace1c03df1eda18bb6dc8e513b76] (1) You must in all matters consider whether you have a personal interest, and whether this code of conduct requires you to disclose that interest.
+**10.**[^c-5872ace1c03df1eda18bb6dc8e513b76] (1) You must in all matters consider whether you have a personal interest, and whether this code of conduct requires you to disclose that interest.
 
 (2) You must regard yourself as having a personal interest in any business of your authority if —
 
@@ -223,14 +223,14 @@ Minister for Social Justice and Local Government, one of the Welsh Ministers
   - (viii) any body to which you have been elected, appointed or nominated by your authority;
   - (ix) any —
     - (aa) public authority or body exercising functions of a public nature;
-    - (bb) company, registered society[^key-c6fb993aaa2ccdb54050820b22904839] , charity, or body directed to charitable purposes;
+    - (bb) company, registered society[^c-c6fb993aaa2ccdb54050820b22904839] , charity, or body directed to charitable purposes;
     - (cc) body whose principal purposes include the influence of public opinion or policy;
     - (dd) trade union or professional association; or
     - (ee) private club, society or association operating within your authority’s area,
 
     in which you have membership or hold a position of general control or management;
   - (x) any land in your authority’s area in which you have a licence (alone or jointly with others) to occupy for 28 days or longer;
-- (b)[^key-d34a50bc05ef0c457469e76cd4fafbf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d34a50bc05ef0c457469e76cd4fafbf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) a decision upon it might reasonably be regarded as affecting —
   - (i) your well-being or financial position, or that of a person with whom you live, or any person with whom you have a close personal association;
   - (ii) any employment or business carried on by persons as described in 10(2)(c)(i);
@@ -245,7 +245,7 @@ Minister for Social Justice and Local Government, one of the Welsh Ministers
 
 #### Disclosure of Personal Interests
 
-**11.**[^key-c4c65c5ba6e41622b9d71be53fe7156c] (1) Where you have a personal interest in any business of your authority and you attend a meeting at which that business is considered, you must disclose orally to that meeting the existence and nature of that interest before or at the commencement of that consideration, or when the interest becomes apparent.
+**11.**[^c-c4c65c5ba6e41622b9d71be53fe7156c] (1) Where you have a personal interest in any business of your authority and you attend a meeting at which that business is considered, you must disclose orally to that meeting the existence and nature of that interest before or at the commencement of that consideration, or when the interest becomes apparent.
 
 (2) Where you have a personal interest in any business of your authority and you make —
 
@@ -254,7 +254,7 @@ Minister for Social Justice and Local Government, one of the Welsh Ministers
 
 (3) Subject to paragraph 14(1)(b) below, where you have a personal interest in any business of your authority and you have made a decision in exercising a function of an executive or board, you must in relation to that business ensure that any written statement of that decision records the existence and nature of your interest.
 
-(4) You must, in respect of a personal interest not previously disclosed, before or immediately after the close of a meeting where the disclosure is made pursuant to sub-paragraph 11(1), give written notification to your authority in accordance with any requirements identified by your authority’s monitoring officer , or in relation to a community council, your authority’s proper officer[^key-47f8cbd23a4deffb114cb33e690e830f] from time to time but, as a minimum containing —
+(4) You must, in respect of a personal interest not previously disclosed, before or immediately after the close of a meeting where the disclosure is made pursuant to sub-paragraph 11(1), give written notification to your authority in accordance with any requirements identified by your authority’s monitoring officer , or in relation to a community council, your authority’s proper officer[^c-47f8cbd23a4deffb114cb33e690e830f] from time to time but, as a minimum containing —
 
 - (a) details of the personal interest;
 - (b) details of the business to which the personal interest relates; and
@@ -268,7 +268,7 @@ Minister for Social Justice and Local Government, one of the Welsh Ministers
 
 #### Prejudicial Interests
 
-**12.**[^key-2e13443a73d076acd6307bf56556733c] (1) Subject to sub-paragraph (2) below, where you have a personal interest in any business of your authority you also have a prejudicial interest in that business if the interest is one which a member of the public with knowledge of the relevant facts would reasonably regard as so significant that it is likely to prejudice your judgement of the public interest.
+**12.**[^c-2e13443a73d076acd6307bf56556733c] (1) Subject to sub-paragraph (2) below, where you have a personal interest in any business of your authority you also have a prejudicial interest in that business if the interest is one which a member of the public with knowledge of the relevant facts would reasonably regard as so significant that it is likely to prejudice your judgement of the public interest.
 
 (2) Subject to sub-paragraph (3), you will not be regarded as having a prejudicial interest in any business where that business—
 
@@ -282,21 +282,21 @@ Minister for Social Justice and Local Government, one of the Welsh Ministers
   - (i) the housing functions of your authority where you hold a tenancy or lease with your authority, provided that you do not have arrears of rent with your authority of more than two months, and provided that those functions do not relate particularly to your tenancy or lease;
   - (ii) the functions of your authority in respect of school meals, transport and travelling expenses, where you are a guardian, parent, grandparent or have parental responsibility (as defined in section 3 of the Children Act 1989) of a child in full time education, unless it relates particularly to the school which that child attends;
   - (iii) the functions of your authority in respect of statutory sick pay under Part XI of the Social Security Contributions and Benefits Act 1992, where you are in receipt of, or are entitled to the receipt of such pay from your authority;
-  - (iv)[^key-5c4d30c224a4e2d76f992b56f3b842b2] the functions of your authority in respect of an allowance or payment made in accordance with the provisions of Part 8 of the Local Government (Wales) Measure 2011, Part 5A of the Democracy and Boundary Commission Cymru etc. Act 2013,[^key-e99c5340113b0ac06c32581ec4e14305] or an allowance or pension provided under section 18 of the Local Government and Housing Act 1989;
+  - (iv)[^c-5c4d30c224a4e2d76f992b56f3b842b2] the functions of your authority in respect of an allowance or payment made in accordance with the provisions of Part 8 of the Local Government (Wales) Measure 2011, Part 5A of the Democracy and Boundary Commission Cymru etc. Act 2013,[^c-e99c5340113b0ac06c32581ec4e14305] or an allowance or pension provided under section 18 of the Local Government and Housing Act 1989;
 - (c) your role as a community councillor in relation to a grant, loan or other form of financial assistance made by your community council to community or voluntary organisations up to a maximum of £500.
 
 (3) The exemptions in subparagraph (2)(a) do not apply where the business relates to the determination of any approval, consent, licence, permission or registration.
 
 #### Overview and Scrutiny Committees
 
-**13.**[^key-cbb0fbcb40d3fd4e88642e3dc6fe8aa7] You also have a prejudicial interest in any business before an overview and scrutiny committee of your authority (or of a sub-committee of such a committee) where—
+**13.**[^c-cbb0fbcb40d3fd4e88642e3dc6fe8aa7] You also have a prejudicial interest in any business before an overview and scrutiny committee of your authority (or of a sub-committee of such a committee) where—
 
 - (a) that business relates to a decision made (whether implemented or not) or action taken by your authority’s executive, board or another of your authority’s committees, sub-committees, joint committees or joint sub-committees; and
 - (b) at the time the decision was made or action was taken, you were a member of the executive, board, committee, sub-committee, joint-committee or joint sub-committee mentioned in sub-paragraph (a) and you were present when that decision was made or action was taken.
 
 #### Participation in Relation to Disclosed Interests
 
-**14.**[^key-6f6c85ad91ef06b37e51654ab5103416] (1) Subject to sub-paragraphs (2), (2A),[^key-5af8c98f8c1d32b8d487c7daacf81860] (3) and (4), where you have a prejudicial interest in any business of your authority you must, unless you have obtained a dispensation from your authority’s standards committee —
+**14.**[^c-6f6c85ad91ef06b37e51654ab5103416] (1) Subject to sub-paragraphs (2), (2A),[^c-5af8c98f8c1d32b8d487c7daacf81860] (3) and (4), where you have a prejudicial interest in any business of your authority you must, unless you have obtained a dispensation from your authority’s standards committee —
 
 - (a) withdraw from the room, chamber or place where a meeting considering the business is being held—
   - (i) where sub-paragraph (2) applies, immediately after the period for making representations, answering questions or giving evidence relating to the business has ended and in any event before further consideration of the business begins, whether or not the public are allowed to remain in attendance for such consideration; or
@@ -327,9 +327,9 @@ Minister for Social Justice and Local Government, one of the Welsh Ministers
 
 ### PART 4 — THE REGISTER OF MEMBERS' INTERESTS
 
-#### Registration of Personal Interests[^key-1c5b917a20c5973825d59d1394daa12e]
+#### Registration of Personal Interests[^c-1c5b917a20c5973825d59d1394daa12e]
 
-**15.**[^key-1e9745267efc12457aeedfc137409aa8] (1) Subject to sub-paragraph (4), you must, within 28 days of—
+**15.**[^c-1e9745267efc12457aeedfc137409aa8] (1) Subject to sub-paragraph (4), you must, within 28 days of—
 
 - (a) your authority’s code of conduct being adopted or the mandatory provisions of this model code being applied to your authority; or
 - (b) your election or appointment to office (if that is later),
@@ -348,15 +348,15 @@ register your personal interests, where they fall within a category mentioned in
 
 #### Sensitive information
 
-**16.**[^key-7b512782184cdb80836f9a092ef79b9d] (1) Where you consider that the information relating to any of your personal interests is sensitive information, and your authority’s monitoring officer agrees, you need not include that information when registering that interest, or, as the case may be, a change to the interest under paragraph 15.
+**16.**[^c-7b512782184cdb80836f9a092ef79b9d] (1) Where you consider that the information relating to any of your personal interests is sensitive information, and your authority’s monitoring officer agrees, you need not include that information when registering that interest, or, as the case may be, a change to the interest under paragraph 15.
 
-(2) You must, within 28 days of becoming aware of any change of circumstances which means that information excluded under sub-paragraph (1) is no longer sensitive information, notify your authority’s monitoring officer , or in relation to a community council, to your authority’s proper officer[^key-13f3d5c4e4caa1fb9a18e32689a42b23] asking that the information be included in your authority’s register of members' interests.
+(2) You must, within 28 days of becoming aware of any change of circumstances which means that information excluded under sub-paragraph (1) is no longer sensitive information, notify your authority’s monitoring officer , or in relation to a community council, to your authority’s proper officer[^c-13f3d5c4e4caa1fb9a18e32689a42b23] asking that the information be included in your authority’s register of members' interests.
 
 (3) In this code, “sensitive information” (“*gwybodaeth sensitif*”) means information whose availability for inspection by the public creates, or is likely to create, a serious risk that you or a person who lives with you may be subjected to violence or intimidation.
 
 #### Registration of Gifts and Hospitality
 
-**17.**[^key-50c9621acd544806e30bf4c8857f4fae] You must, within 28 days of receiving any gift, hospitality, material benefit or advantage above a value specified in a resolution of your authority, provide written notification to your authority’s monitoring officer , or in relation to a community council, to your authority’s proper officer[^key-9d24760915abb460a13346d2babde000] of the existence and nature of that gift, hospitality, material benefit or advantage.
+**17.**[^c-50c9621acd544806e30bf4c8857f4fae] You must, within 28 days of receiving any gift, hospitality, material benefit or advantage above a value specified in a resolution of your authority, provide written notification to your authority’s monitoring officer , or in relation to a community council, to your authority’s proper officer[^c-9d24760915abb460a13346d2babde000] of the existence and nature of that gift, hospitality, material benefit or advantage.
 
 (This note is not part of the Order)
 
@@ -388,15 +388,15 @@ Part 4 of the model code concerns the register of interests, registration of gif
 
 [^f00003]: Footnote: S.I. [2001/2276 (W.166)](https://www.legislation.gov.uk/wsi/2001/2276) as amended by S.I. [2005/2929 (W.214)](https://www.legislation.gov.uk/wsi/2005/2929).
 
-[^key-caeb13f9476feba1aabcce0d27c9e27e]: Modification: [Order](https://www.legislation.gov.uk/wsi/2008/788) applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/3)
+[^c-caeb13f9476feba1aabcce0d27c9e27e]: Modification: [Order](https://www.legislation.gov.uk/wsi/2008/788) applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/3)
 
-[^key-98be371292178f8e7e78a560f5882030]: Commencement: Art. 1 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-98be371292178f8e7e78a560f5882030]: Commencement: Art. 1 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
-[^key-c4f0db6afe77d08c89072eb224c90ffc]: Commencement: Art. 2 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-c4f0db6afe77d08c89072eb224c90ffc]: Commencement: Art. 2 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
-[^key-d64386a9d87fa7b27666deab9aded5aa]: Commencement: Art. 3 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-d64386a9d87fa7b27666deab9aded5aa]: Commencement: Art. 3 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
-[^key-25fe98cc19d5b91fd0f0f915c8655ec7]: Commencement: Art. 4 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-25fe98cc19d5b91fd0f0f915c8655ec7]: Commencement: Art. 4 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
 [^f00004]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
@@ -406,7 +406,7 @@ Part 4 of the model code concerns the register of interests, registration of gif
 
 [^f00007]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-8e01fd72146dac1b6389f3fc642c7e23]: Commencement: Art. 5 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-8e01fd72146dac1b6389f3fc642c7e23]: Commencement: Art. 5 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
 [^f00008]: Footnote: S.I. [2001/2289 (W.177)](https://www.legislation.gov.uk/wsi/2001/2289) as amended by S.I. [2004/163 (W.18)](https://www.legislation.gov.uk/wsi/2004/163); S.I. [2004/1510 (W.159)](https://www.legislation.gov.uk/wsi/2004/1510); S.I. [2005/2929 (W.214)](https://www.legislation.gov.uk/wsi/2005/2929); and S.I. [2006/362 (W.48)](https://www.legislation.gov.uk/wsi/2006/362).
 
@@ -414,84 +414,84 @@ Part 4 of the model code concerns the register of interests, registration of gif
 
 [^f00010]: Footnote: S.I. [2004/1510 (W.159)](https://www.legislation.gov.uk/wsi/2004/1510).
 
-[^key-a9051846282de50586b4ccce063d10da]: Commencement: Art. 6 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-a9051846282de50586b4ccce063d10da]: Commencement: Art. 6 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
 [^f00011]: Footnote: Section 51 of the Local Government Act 2000 is amended by section 35 and paragraphs 1 and 3 of Schedule 4 to the Public Services Ombudsman (Wales) Act 2005 and by section 183 of the Local Government and Public Involvement in Health Act 2007.
 
-[^key-a6b42164363a2a6ff686c1c23a95bca1]: Commencement: Sch. para. 1 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-a6b42164363a2a6ff686c1c23a95bca1]: Commencement: Sch. para. 1 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
 [^f00012]: Footnote: S.I. [1990/1553](https://www.legislation.gov.uk/uksi/1990/1553) as amended by S.I. [1991/1389](https://www.legislation.gov.uk/uksi/1991/1389); S.I. [1993/1339](https://www.legislation.gov.uk/uksi/1993/1339); S.I. [1998/1918](https://www.legislation.gov.uk/uksi/1998/1918); and S.I. [1999/500](https://www.legislation.gov.uk/uksi/1999/500).
 
-[^key-606c67f36e979055ab8b4bf1db4d8ffd]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/1/1) inserted (5.1.2026) by [The Local Government (Standards Committees and Member Conduct) (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1217)](https://www.legislation.gov.uk/wsi/2025/1217), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1217/regulation/1/2), [4(a)](https://www.legislation.gov.uk/wsi/2025/1217/regulation/4/a)
+[^c-606c67f36e979055ab8b4bf1db4d8ffd]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/1/1) inserted (5.1.2026) by [The Local Government (Standards Committees and Member Conduct) (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1217)](https://www.legislation.gov.uk/wsi/2025/1217), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1217/regulation/1/2), [4(a)](https://www.legislation.gov.uk/wsi/2025/1217/regulation/4/a)
 
-[^key-b48b4afee920feba7d4b9a0ac73a8abc]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/1/1) inserted (1.4.2016) by [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2016/84/article/2/2/a), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
+[^c-b48b4afee920feba7d4b9a0ac73a8abc]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/1/1) inserted (1.4.2016) by [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2016/84/article/2/2/a), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
 
-[^key-5131ab771489631cffd25de7946576c6]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/1) inserted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 21(a)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/21/a)
+[^c-5131ab771489631cffd25de7946576c6]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/1) inserted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 21(a)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/21/a)
 
-[^key-c9e3953d152490dc7326a2c6d4613cd9]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2008/788/schedule/part/1) inserted (5.8.2022) by [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2022 (S.I. 2022/806)](https://www.legislation.gov.uk/wsi/2022/806), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/806/article/1/2), [2](https://www.legislation.gov.uk/wsi/2022/806/article/2)
+[^c-c9e3953d152490dc7326a2c6d4613cd9]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2008/788/schedule/part/1) inserted (5.8.2022) by [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2022 (S.I. 2022/806)](https://www.legislation.gov.uk/wsi/2022/806), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/806/article/1/2), [2](https://www.legislation.gov.uk/wsi/2022/806/article/2)
 
 [^f00013]: Footnote: [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21).
 
 [^f00014]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-64f7654fab32c5240edcb8e86d53fb0b]: Textual amendment: [Sch. para. 1(2)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/1/2) substituted (1.4.2016) by [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2016/84/article/2/2/b), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
+[^c-64f7654fab32c5240edcb8e86d53fb0b]: Textual amendment: [Sch. para. 1(2)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/1/2) substituted (1.4.2016) by [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2016/84/article/2/2/b), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
 
-[^key-f7fa7561733555eae0c1b979a0f5b882]: Commencement: Sch. para. 2 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-f7fa7561733555eae0c1b979a0f5b882]: Commencement: Sch. para. 2 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
-[^key-f81a2d5af2964bf7ef011d5a4ce9bb24]: Commencement: Sch. para. 3 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-f81a2d5af2964bf7ef011d5a4ce9bb24]: Commencement: Sch. para. 3 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
-[^key-7531686bd82489e8c6633101c0d16699]: Textual amendment: Words in [Sch. para. 3(a)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/3/a) omitted (1.4.2016) by virtue of [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(3)(a)](https://www.legislation.gov.uk/wsi/2016/84/article/2/3/a), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
+[^c-7531686bd82489e8c6633101c0d16699]: Textual amendment: Words in [Sch. para. 3(a)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/3/a) omitted (1.4.2016) by virtue of [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(3)(a)](https://www.legislation.gov.uk/wsi/2016/84/article/2/3/a), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
 
-[^key-b7c584a8e0d78b0457bed01665ddf55d]: Commencement: Sch. para. 4 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-b7c584a8e0d78b0457bed01665ddf55d]: Commencement: Sch. para. 4 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
-[^key-cf2e46c68d2610300f887ae791a2cfdf]: Textual amendment: Words in [Sch. para. 4(a)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/4/a) substituted (5.1.2026) by [The Local Government (Standards Committees and Member Conduct) (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1217)](https://www.legislation.gov.uk/wsi/2025/1217), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1217/regulation/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2025/1217/regulation/4/b)
+[^c-cf2e46c68d2610300f887ae791a2cfdf]: Textual amendment: Words in [Sch. para. 4(a)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/4/a) substituted (5.1.2026) by [The Local Government (Standards Committees and Member Conduct) (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1217)](https://www.legislation.gov.uk/wsi/2025/1217), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1217/regulation/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2025/1217/regulation/4/b)
 
-[^key-f07ce7278268e2e2bda20862ff14a973]: Commencement: Sch. para. 5 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-f07ce7278268e2e2bda20862ff14a973]: Commencement: Sch. para. 5 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
-[^key-54ca64eca6275ae34b28a70ce55e0f63]: Commencement: Sch. para. 6 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-54ca64eca6275ae34b28a70ce55e0f63]: Commencement: Sch. para. 6 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
-[^key-226fc9ff7f5ed97b99c86ca53ac4cdd2]: Textual amendment: Words in [Sch. para. 6(1)(c)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/6/1/c) omitted (1.4.2016) by virtue of [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(3)(b)](https://www.legislation.gov.uk/wsi/2016/84/article/2/3/b), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
+[^c-226fc9ff7f5ed97b99c86ca53ac4cdd2]: Textual amendment: Words in [Sch. para. 6(1)(c)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/6/1/c) omitted (1.4.2016) by virtue of [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(3)(b)](https://www.legislation.gov.uk/wsi/2016/84/article/2/3/b), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
 
-[^key-c02c2027750c3eb93593e70af068027c]: Commencement: Sch. para. 7 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-c02c2027750c3eb93593e70af068027c]: Commencement: Sch. para. 7 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
-[^key-ad93fba690f0531a65a57d58de0714d3]: Commencement: Sch. para. 8 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-ad93fba690f0531a65a57d58de0714d3]: Commencement: Sch. para. 8 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
-[^key-3ae977e5e3a396ba56637c4a144c7af5]: Textual amendment: Words in [Sch. para. 8(a)(i)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/8/a/i) inserted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2022/355/regulation/5) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-3ae977e5e3a396ba56637c4a144c7af5]: Textual amendment: Words in [Sch. para. 8(a)(i)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/8/a/i) inserted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2022/355/regulation/5) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
-[^key-41d523eb4a8c77a5340248c8f75c2484]: Commencement: Sch. para. 9 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-41d523eb4a8c77a5340248c8f75c2484]: Commencement: Sch. para. 9 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
-[^key-5872ace1c03df1eda18bb6dc8e513b76]: Commencement: Sch. para. 10 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-5872ace1c03df1eda18bb6dc8e513b76]: Commencement: Sch. para. 10 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
-[^key-c6fb993aaa2ccdb54050820b22904839]: Textual amendment: Words in [Sch. paras. 10(2)(a)(ix)(bb)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/10/2/a/ix/bb) substituted (1.8.2014) by [The Co Operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 21(b)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/21/b)
+[^c-c6fb993aaa2ccdb54050820b22904839]: Textual amendment: Words in [Sch. paras. 10(2)(a)(ix)(bb)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/10/2/a/ix/bb) substituted (1.8.2014) by [The Co Operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 21(b)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/21/b)
 
-[^key-d34a50bc05ef0c457469e76cd4fafbf9]: Textual amendment: [Sch. para. 10(2)(b)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/10/2/b) omitted (1.4.2016) by virtue of [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(4)(a)](https://www.legislation.gov.uk/wsi/2016/84/article/2/4/a), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
+[^c-d34a50bc05ef0c457469e76cd4fafbf9]: Textual amendment: [Sch. para. 10(2)(b)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/10/2/b) omitted (1.4.2016) by virtue of [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(4)(a)](https://www.legislation.gov.uk/wsi/2016/84/article/2/4/a), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
 
-[^key-c4c65c5ba6e41622b9d71be53fe7156c]: Commencement: Sch. para. 11 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-c4c65c5ba6e41622b9d71be53fe7156c]: Commencement: Sch. para. 11 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
-[^key-47f8cbd23a4deffb114cb33e690e830f]: Textual amendment: Words in [Sch. para. 11(4)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/11/4) inserted (1.4.2016) by [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(4)(b)](https://www.legislation.gov.uk/wsi/2016/84/article/2/4/b), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
+[^c-47f8cbd23a4deffb114cb33e690e830f]: Textual amendment: Words in [Sch. para. 11(4)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/11/4) inserted (1.4.2016) by [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(4)(b)](https://www.legislation.gov.uk/wsi/2016/84/article/2/4/b), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
 
-[^key-2e13443a73d076acd6307bf56556733c]: Commencement: Sch. para. 12 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-2e13443a73d076acd6307bf56556733c]: Commencement: Sch. para. 12 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
-[^key-5c4d30c224a4e2d76f992b56f3b842b2]: Textual amendment: [Sch. para. 12(2)(b)(iv)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/12/2/b/iv) substituted (1.4.2016) by [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(4)(c)](https://www.legislation.gov.uk/wsi/2016/84/article/2/4/c), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
+[^c-5c4d30c224a4e2d76f992b56f3b842b2]: Textual amendment: [Sch. para. 12(2)(b)(iv)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/12/2/b/iv) substituted (1.4.2016) by [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(4)(c)](https://www.legislation.gov.uk/wsi/2016/84/article/2/4/c), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
 
-[^key-e99c5340113b0ac06c32581ec4e14305]: Textual amendment: Words in [Sch. para. 12(2)(b)(iv)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/12/2/b/iv) inserted (1.4.2026) by [The Elections and Elected Bodies (Wales) Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/286)](https://www.legislation.gov.uk/wsi/2025/286), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/286/regulation/1/3), [6](https://www.legislation.gov.uk/wsi/2025/286/regulation/6)
+[^c-e99c5340113b0ac06c32581ec4e14305]: Textual amendment: Words in [Sch. para. 12(2)(b)(iv)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/12/2/b/iv) inserted (1.4.2026) by [The Elections and Elected Bodies (Wales) Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/286)](https://www.legislation.gov.uk/wsi/2025/286), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/286/regulation/1/3), [6](https://www.legislation.gov.uk/wsi/2025/286/regulation/6)
 
-[^key-cbb0fbcb40d3fd4e88642e3dc6fe8aa7]: Commencement: Sch. para. 13 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-cbb0fbcb40d3fd4e88642e3dc6fe8aa7]: Commencement: Sch. para. 13 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
-[^key-6f6c85ad91ef06b37e51654ab5103416]: Commencement: Sch. para. 14 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-6f6c85ad91ef06b37e51654ab5103416]: Commencement: Sch. para. 14 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
-[^key-5af8c98f8c1d32b8d487c7daacf81860]: Textual amendment: Word in [Sch. para. 14(1)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/14/1) inserted (1.4.2016) by [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(4)(d)(i)](https://www.legislation.gov.uk/wsi/2016/84/article/2/4/d/i), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
+[^c-5af8c98f8c1d32b8d487c7daacf81860]: Textual amendment: Word in [Sch. para. 14(1)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/14/1) inserted (1.4.2016) by [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(4)(d)(i)](https://www.legislation.gov.uk/wsi/2016/84/article/2/4/d/i), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
 
 [^M_F_2c37f766-daab-4b44-fa52-d6d76d0ab494]: Textual amendment: [Sch. para. 14(2A)(2B)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/14/1) inserted (1.4.2016) by [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(4)(d)(ii)](https://www.legislation.gov.uk/wsi/2016/84/article/2/4/d/i), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
 
-[^key-1c5b917a20c5973825d59d1394daa12e]: Textual amendment: [Sch. para. 15](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/15) substituted (1.4.2016) by [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(5)(a)](https://www.legislation.gov.uk/wsi/2016/84/article/2/5/a), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
+[^c-1c5b917a20c5973825d59d1394daa12e]: Textual amendment: [Sch. para. 15](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/15) substituted (1.4.2016) by [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(5)(a)](https://www.legislation.gov.uk/wsi/2016/84/article/2/5/a), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
 
-[^key-1e9745267efc12457aeedfc137409aa8]: Commencement: Sch. para. 15 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-1e9745267efc12457aeedfc137409aa8]: Commencement: Sch. para. 15 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
-[^key-7b512782184cdb80836f9a092ef79b9d]: Commencement: Sch. para. 16 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-7b512782184cdb80836f9a092ef79b9d]: Commencement: Sch. para. 16 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
-[^key-13f3d5c4e4caa1fb9a18e32689a42b23]: Textual amendment: Words in [Sch. para. 16(2)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/16/2) inserted (1.4.2016) by [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(5)(b)](https://www.legislation.gov.uk/wsi/2016/84/article/2/5/b), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
+[^c-13f3d5c4e4caa1fb9a18e32689a42b23]: Textual amendment: Words in [Sch. para. 16(2)](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/16/2) inserted (1.4.2016) by [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(5)(b)](https://www.legislation.gov.uk/wsi/2016/84/article/2/5/b), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
 
-[^key-50c9621acd544806e30bf4c8857f4fae]: Commencement: Sch. para. 17 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
+[^c-50c9621acd544806e30bf4c8857f4fae]: Commencement: Sch. para. 17 in force at 18.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/788/article/1/1)
 
-[^key-9d24760915abb460a13346d2babde000]: Textual amendment: Words in [Sch. para. 17](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/17) inserted (1.4.2016) by [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(5)(c)](https://www.legislation.gov.uk/wsi/2016/84/article/2/5/c), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)
+[^c-9d24760915abb460a13346d2babde000]: Textual amendment: Words in [Sch. para. 17](https://www.legislation.gov.uk/wsi/2008/788/schedule/paragraph/17) inserted (1.4.2016) by [The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 (S.I. 2016/84)](https://www.legislation.gov.uk/wsi/2016/84), [art. 2(5)(c)](https://www.legislation.gov.uk/wsi/2016/84/article/2/5/c), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Contents of overseas elector’s declaration[^key-7a538ca46adea9f98c27072cc500265f]
+## 18. Contents of overseas elector’s declaration[^c-7a538ca46adea9f98c27072cc500265f]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a538ca46adea9f98c27072cc500265f]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2001/497/regulation/18) substituted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/9/2) (with [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/2/c))
+[^c-7a538ca46adea9f98c27072cc500265f]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2001/497/regulation/18) substituted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/9/2) (with [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/2/c))

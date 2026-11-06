@@ -35,7 +35,7 @@ consist of a mixture constituted wholly or mainly of goods of one or more descri
 **2.** (1) This paragraph applies to any goods which, not being aerosol products and not themselves being goods—
 
 - (a) required by or under Part IV of this Act, except this paragraph, to be pre-packed only if the container is marked with an indication of quantity, or
-- (aa)[^key-6ae62570f99914cec3d5695c346afb9a] that are subject to the FIC Regulation, or
+- (aa)[^c-6ae62570f99914cec3d5695c346afb9a] that are subject to the FIC Regulation, or
 - (b) in the case of which when sold pre-packed (whether on any sale or on a sale of any particular description) the quantity of the goods sold expressed in a particular manner is required by or under Part IV of this Act, except this paragraph, to be made known to the buyer at or before a particular time, or
 - (c) expressly exempted by or under Part IV of this Act, except this paragraph, from all such requirements as mentioned in paragraph (a) or (b) above which would otherwise apply to them,
 
@@ -45,12 +45,12 @@ consist of a mixture constituted wholly or mainly of goods of one or more descri
 
 **3.** (1) This paragraph applies to aerosol products containing any goods required by or under Part IV of this Act, except this paragraph, to be pre-packed only if the container is marked with an indication of quantity expressed in a particular manner.
 
-(1A)[^key-023810de0146628d5bd0a8983e06b4a2] This paragraph does not apply to aerosol products containing goods that are subject to the FIC Regulation.
+(1A)[^c-023810de0146628d5bd0a8983e06b4a2] This paragraph does not apply to aerosol products containing goods that are subject to the FIC Regulation.
 
 (2) Subject to paragraph 5 below, any aerosol product to which this paragraph applies shall be pre-packed only if the container is marked with
 
-- (a)[^key-fbc2b8a3a68adbe368e4a9312c29de29] an indication of the total capacity of the container (indicated in such a way as to avoid giving a false impression of the quantity of goods in the container), and
-- (b) an indication of the quantity by net volume[^key-5f06b32c97c3be26fc8e31136bf9357d] of the entire contents of the container.
+- (a)[^c-fbc2b8a3a68adbe368e4a9312c29de29] an indication of the total capacity of the container (indicated in such a way as to avoid giving a false impression of the quantity of goods in the container), and
+- (b) an indication of the quantity by net volume[^c-5f06b32c97c3be26fc8e31136bf9357d] of the entire contents of the container.
 
 **4.** (1) This paragraph applies to any collection of two or more items which, not itself being—
 
@@ -59,7 +59,7 @@ consist of a mixture constituted wholly or mainly of goods of one or more descri
 
 contains one or more articles to which any such requirement applies.
 
-(1A)[^key-2744c7b8ab691067789998afa6098be7] This paragraph does not apply to a collection containing any goods that are subject to the FIC Regulation.
+(1A)[^c-2744c7b8ab691067789998afa6098be7] This paragraph does not apply to a collection containing any goods that are subject to the FIC Regulation.
 
 (2) Any collection to which this paragraph applies shall be pre-packed only if—
 
@@ -68,21 +68,21 @@ contains one or more articles to which any such requirement applies.
 
 being in either case the like indication of the quality of each respectively of those articles as would have been required if that article had itself been pre-packed.
 
-**5.** There shall be exempted from any requirement of paragraph 1, 2 or 3(2)(b)[^key-f9688fc8167ecc1c1691ecad98309eee] above food of any description in a quantity of less than five grams or of less than five millilitres and goods of any other description in a quantity of less than 25 grams[^c13372241] or of less than 25 millilitres[^c13372261].
+**5.** There shall be exempted from any requirement of paragraph 1, 2 or 3(2)(b)[^c-f9688fc8167ecc1c1691ecad98309eee] above food of any description in a quantity of less than five grams or of less than five millilitres and goods of any other description in a quantity of less than 25 grams[^c13372241] or of less than 25 millilitres[^c13372261].
 
 ## Annotations
 
-[^key-6ae62570f99914cec3d5695c346afb9a]: Textual amendment: Sch. 7 para. 2(1)(aa) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/12/a)
+[^c-6ae62570f99914cec3d5695c346afb9a]: Textual amendment: Sch. 7 para. 2(1)(aa) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/12/a)
 
-[^key-023810de0146628d5bd0a8983e06b4a2]: Textual amendment: Sch. 7 para. 3(1A) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/12/b)
+[^c-023810de0146628d5bd0a8983e06b4a2]: Textual amendment: Sch. 7 para. 3(1A) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/12/b)
 
-[^key-fbc2b8a3a68adbe368e4a9312c29de29]: Textual amendment: Words in Sch. 7 para. 3(2) inserted (11.4.2009) by [The Weights and Measures (Specified Quantities) (Pre-packed Products) Regulations 2009 (S.I. 2009/663)](https://www.legislation.gov.uk/uksi/2009/663), [regs. 1](https://www.legislation.gov.uk/uksi/2009/663/regulation/1), [2(5)(a)(i)](https://www.legislation.gov.uk/uksi/2009/663/regulation/2/5/a/i)
+[^c-fbc2b8a3a68adbe368e4a9312c29de29]: Textual amendment: Words in Sch. 7 para. 3(2) inserted (11.4.2009) by [The Weights and Measures (Specified Quantities) (Pre-packed Products) Regulations 2009 (S.I. 2009/663)](https://www.legislation.gov.uk/uksi/2009/663), [regs. 1](https://www.legislation.gov.uk/uksi/2009/663/regulation/1), [2(5)(a)(i)](https://www.legislation.gov.uk/uksi/2009/663/regulation/2/5/a/i)
 
-[^key-5f06b32c97c3be26fc8e31136bf9357d]: Textual amendment: Words in Sch. 7 para. 3(2) substituted (11.4.2009) by [The Weights and Measures (Specified Quantities) (Pre-packed Products) Regulations 2009 (S.I. 2009/663)](https://www.legislation.gov.uk/uksi/2009/663), [regs. 1](https://www.legislation.gov.uk/uksi/2009/663/regulation/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2009/663/regulation/2/5/a/ii)
+[^c-5f06b32c97c3be26fc8e31136bf9357d]: Textual amendment: Words in Sch. 7 para. 3(2) substituted (11.4.2009) by [The Weights and Measures (Specified Quantities) (Pre-packed Products) Regulations 2009 (S.I. 2009/663)](https://www.legislation.gov.uk/uksi/2009/663), [regs. 1](https://www.legislation.gov.uk/uksi/2009/663/regulation/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2009/663/regulation/2/5/a/ii)
 
-[^key-2744c7b8ab691067789998afa6098be7]: Textual amendment: Sch. 7 para. 4(1A) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [12(c)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/12/c)
+[^c-2744c7b8ab691067789998afa6098be7]: Textual amendment: Sch. 7 para. 4(1A) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [12(c)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/12/c)
 
-[^key-f9688fc8167ecc1c1691ecad98309eee]: Textual amendment: Words in Sch. 7 para. 5 substituted (11.4.2009) by [The Weights and Measures (Specified Quantities) (Pre-packed Products) Regulations 2009 (S.I. 2009/663)](https://www.legislation.gov.uk/uksi/2009/663), [regs. 1](https://www.legislation.gov.uk/uksi/2009/663/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2009/663/regulation/2/5/b)
+[^c-f9688fc8167ecc1c1691ecad98309eee]: Textual amendment: Words in Sch. 7 para. 5 substituted (11.4.2009) by [The Weights and Measures (Specified Quantities) (Pre-packed Products) Regulations 2009 (S.I. 2009/663)](https://www.legislation.gov.uk/uksi/2009/663), [regs. 1](https://www.legislation.gov.uk/uksi/2009/663/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2009/663/regulation/2/5/b)
 
 [^c13372241]: Textual amendment: Words in Sch. 7 para. 5 substituted (1.10.1995) by [S.I. 1994/2866](https://www.legislation.gov.uk/uksi/1994/2866), [reg. 3(7)](https://www.legislation.gov.uk/uksi/1994/2866/regulation/3/7)
 

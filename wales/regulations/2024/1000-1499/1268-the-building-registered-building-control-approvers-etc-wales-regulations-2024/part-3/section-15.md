@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Cancellation of initial notice: forms etc.[^key-cb303dedca148e1b3350ee036a30fb45]
+## 15. Cancellation of initial notice: forms etc.[^c-cb303dedca148e1b3350ee036a30fb45]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cb303dedca148e1b3350ee036a30fb45]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2024/1268/regulation/15) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-cb303dedca148e1b3350ee036a30fb45]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2024/1268/regulation/15) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
 
 [^f00042]: Footnote: Section (5A) was inserted into the Building Act 1984 by section 50 of the Building Safety Act 2022.

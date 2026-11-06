@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Rectification: compensation for certain expenses and losses[^key-9f1c9fe2c20ee137d5738e99787f2883]
+## 84. Rectification: compensation for certain expenses and losses[^c-9f1c9fe2c20ee137d5738e99787f2883]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f1c9fe2c20ee137d5738e99787f2883]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2012/5/section/84) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-9f1c9fe2c20ee137d5738e99787f2883]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2012/5/section/84) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

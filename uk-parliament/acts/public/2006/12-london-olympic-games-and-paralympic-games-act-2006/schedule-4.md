@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — London Olympics Association Right[^key-11d92a1f45c47f091266ed4bba831ccb]
+## SCHEDULE 4 — London Olympics Association Right[^c-11d92a1f45c47f091266ed4bba831ccb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,38 +24,38 @@ summary: ''
 
 Section 33
 
-### The right[^key-11d92a1f45c47f091266ed4bba831ccb]
+### The right[^c-11d92a1f45c47f091266ed4bba831ccb]
 
-**1.**[^key-11d92a1f45c47f091266ed4bba831ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-11d92a1f45c47f091266ed4bba831ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Infringement: general[^key-11d92a1f45c47f091266ed4bba831ccb]
+### Infringement: general[^c-11d92a1f45c47f091266ed4bba831ccb]
 
-**2.**[^key-11d92a1f45c47f091266ed4bba831ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-11d92a1f45c47f091266ed4bba831ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Infringement: specific expressions[^key-11d92a1f45c47f091266ed4bba831ccb]
+### Infringement: specific expressions[^c-11d92a1f45c47f091266ed4bba831ccb]
 
-**3.**[^key-11d92a1f45c47f091266ed4bba831ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-11d92a1f45c47f091266ed4bba831ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Authorised use[^key-11d92a1f45c47f091266ed4bba831ccb]
+### Authorised use[^c-11d92a1f45c47f091266ed4bba831ccb]
 
-**4.**[^key-11d92a1f45c47f091266ed4bba831ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-11d92a1f45c47f091266ed4bba831ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-11d92a1f45c47f091266ed4bba831ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-11d92a1f45c47f091266ed4bba831ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Infringement: other exceptions[^key-11d92a1f45c47f091266ed4bba831ccb]
+### Infringement: other exceptions[^c-11d92a1f45c47f091266ed4bba831ccb]
 
-**6.**[^key-11d92a1f45c47f091266ed4bba831ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-11d92a1f45c47f091266ed4bba831ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-11d92a1f45c47f091266ed4bba831ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-11d92a1f45c47f091266ed4bba831ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-11d92a1f45c47f091266ed4bba831ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-11d92a1f45c47f091266ed4bba831ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-11d92a1f45c47f091266ed4bba831ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-11d92a1f45c47f091266ed4bba831ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Application of Olympic Symbol etc. (Protection) Act 1995[^key-11d92a1f45c47f091266ed4bba831ccb]
+### Application of Olympic Symbol etc. (Protection) Act 1995[^c-11d92a1f45c47f091266ed4bba831ccb]
 
-**10.**[^key-11d92a1f45c47f091266ed4bba831ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-11d92a1f45c47f091266ed4bba831ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-11d92a1f45c47f091266ed4bba831ccb]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/12/schedule/4) ceases to have effect (31.12.2012) by virtue of [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(8)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/8)
+[^c-11d92a1f45c47f091266ed4bba831ccb]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/12/schedule/4) ceases to have effect (31.12.2012) by virtue of [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(8)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/8)

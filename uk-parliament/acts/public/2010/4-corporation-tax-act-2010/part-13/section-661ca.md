@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 661CA. The income condition[^key-e17a06abc00c26e8bebe0ed2360191a4]
+## 661CA. The income condition[^c-e17a06abc00c26e8bebe0ed2360191a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ whether or not that trade or activity is carried on wholly or partly in the Unit
 
 ## Annotations
 
-[^key-e17a06abc00c26e8bebe0ed2360191a4]: Textual amendment: [S. 661CA](https://www.legislation.gov.uk/ukpga/2010/4/section/661CA) inserted (1.4.2015) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Community Amateur Sports Clubs Regulations 2015 (S.I. 2015/725)](https://www.legislation.gov.uk/uksi/2015/725), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/725/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2015/725/regulation/4)
+[^c-e17a06abc00c26e8bebe0ed2360191a4]: Textual amendment: [S. 661CA](https://www.legislation.gov.uk/ukpga/2010/4/section/661CA) inserted (1.4.2015) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Community Amateur Sports Clubs Regulations 2015 (S.I. 2015/725)](https://www.legislation.gov.uk/uksi/2015/725), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/725/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2015/725/regulation/4)

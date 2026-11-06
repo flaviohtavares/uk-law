@@ -42,7 +42,7 @@ The Secretary of State, in exercise of the powers conferred by sections 35(2)(a)
 
 A draft of these Regulations has been laid before Parliament and has been approved by a resolution of each House of Parliament in accordance with section 232(7) of that Act.
 
-## 1. Citation, commencement and interpretation[^key-9558ac6949529b4e8bbf06108a87b0f8]
+## 1. Citation, commencement and interpretation[^c-9558ac6949529b4e8bbf06108a87b0f8]
 
 (1) These Regulations may be cited as the Infrastructure Planning (Business or Commercial Projects) Regulations 2013 and come into force on the day after the day on which they are made.
 
@@ -54,7 +54,7 @@ A draft of these Regulations has been laid before Parliament and has been approv
   - (c) the getting, dressing or treatment of minerals;
 - “minerals” has the same meaning as in the Town and Country Planning Act 1990[^f00002] (see section 336(1) of that Act).
 
-## 2. Prescribed projects[^key-ef56d79d6d4cfab7cd75c09bbfaf939b]
+## 2. Prescribed projects[^c-ef56d79d6d4cfab7cd75c09bbfaf939b]
 
 (1) The following description of business or commercial project (or proposed project) is prescribed for the purposes of section 35(2)(a)(ii) of the Planning Act 2008.
 
@@ -81,25 +81,25 @@ Department for Communities and Local Government
 
 Regulation 2(2)
 
-**1.**[^key-c4047e6771ff00dd63a3592d7dcda0c2] Office use.
+**1.**[^c-c4047e6771ff00dd63a3592d7dcda0c2] Office use.
 
-**2.**[^key-b58d91c69b9cca212d8464822d056e8d] Research and development of products or processes.
+**2.**[^c-b58d91c69b9cca212d8464822d056e8d] Research and development of products or processes.
 
-**3.**[^key-6880e1117adcc5b2408ea7e9cb04f2d8] An industrial process or processes.
+**3.**[^c-6880e1117adcc5b2408ea7e9cb04f2d8] An industrial process or processes.
 
-**4.**[^key-cc4cea54931a3d662495d428cd9c015d] Storage or distribution of goods.
+**4.**[^c-cc4cea54931a3d662495d428cd9c015d] Storage or distribution of goods.
 
-**5.**[^key-80912d9144ccad7878b44027f7ce6209] Conferences.
+**5.**[^c-80912d9144ccad7878b44027f7ce6209] Conferences.
 
-**6.**[^key-1991fefea78199477e1eabf43b864914] Exhibitions.
+**6.**[^c-1991fefea78199477e1eabf43b864914] Exhibitions.
 
-**7.**[^key-d5694adc45cebb705eedec496a9c8c99] Sport.
+**7.**[^c-d5694adc45cebb705eedec496a9c8c99] Sport.
 
-**8.**[^key-0afed0020878035715abaa45daa5d913] Leisure.
+**8.**[^c-0afed0020878035715abaa45daa5d913] Leisure.
 
-**9.**[^key-824c5ff7e8066ff8a1d3bc4cc2246179] Tourism.
+**9.**[^c-824c5ff7e8066ff8a1d3bc4cc2246179] Tourism.
 
-**10.**[^key-6f69a022f4bc713a4acd1ff42627f45a] Data centres.
+**10.**[^c-6f69a022f4bc713a4acd1ff42627f45a] Data centres.
 
 EXPLANATORY NOTE
 
@@ -115,28 +115,28 @@ An impact assessment has not been prepared for these regulations as they do not 
 
 [^f00001]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29). Section 35 was substituted by section 26 of the Growth and Infrastructure Act 2013 (c .27). See section 235(1) for the definition of “prescribed”.
 
-[^key-9558ac6949529b4e8bbf06108a87b0f8]: Commencement: Reg. 1 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
+[^c-9558ac6949529b4e8bbf06108a87b0f8]: Commencement: Reg. 1 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
 
 [^f00002]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). The definition of “minerals” in section 336(1) was amended by the Planning and Compensation Act [1991 c. 34](https://www.legislation.gov.uk/ukpga/1991/34), Schedule 1, paragraph 12(c).
 
-[^key-ef56d79d6d4cfab7cd75c09bbfaf939b]: Commencement: Reg. 2 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
+[^c-ef56d79d6d4cfab7cd75c09bbfaf939b]: Commencement: Reg. 2 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
 
-[^key-c4047e6771ff00dd63a3592d7dcda0c2]: Commencement: Sch. para. 1 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
+[^c-c4047e6771ff00dd63a3592d7dcda0c2]: Commencement: Sch. para. 1 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
 
-[^key-b58d91c69b9cca212d8464822d056e8d]: Commencement: Sch. para. 2 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
+[^c-b58d91c69b9cca212d8464822d056e8d]: Commencement: Sch. para. 2 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
 
-[^key-6880e1117adcc5b2408ea7e9cb04f2d8]: Commencement: Sch. para. 3 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
+[^c-6880e1117adcc5b2408ea7e9cb04f2d8]: Commencement: Sch. para. 3 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
 
-[^key-cc4cea54931a3d662495d428cd9c015d]: Commencement: Sch. para. 4 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
+[^c-cc4cea54931a3d662495d428cd9c015d]: Commencement: Sch. para. 4 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
 
-[^key-80912d9144ccad7878b44027f7ce6209]: Commencement: Sch. para. 5 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
+[^c-80912d9144ccad7878b44027f7ce6209]: Commencement: Sch. para. 5 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
 
-[^key-1991fefea78199477e1eabf43b864914]: Commencement: Sch. para. 6 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
+[^c-1991fefea78199477e1eabf43b864914]: Commencement: Sch. para. 6 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
 
-[^key-d5694adc45cebb705eedec496a9c8c99]: Commencement: Sch. para. 7 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
+[^c-d5694adc45cebb705eedec496a9c8c99]: Commencement: Sch. para. 7 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
 
-[^key-0afed0020878035715abaa45daa5d913]: Commencement: Sch. para. 8 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
+[^c-0afed0020878035715abaa45daa5d913]: Commencement: Sch. para. 8 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
 
-[^key-824c5ff7e8066ff8a1d3bc4cc2246179]: Commencement: Sch. para. 9 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
+[^c-824c5ff7e8066ff8a1d3bc4cc2246179]: Commencement: Sch. para. 9 in force at 18.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3221/regulation/1/1)
 
-[^key-6f69a022f4bc713a4acd1ff42627f45a]: Textual amendment: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2013/3221/schedule/paragraph/10) inserted (8.1.2026) by [The Infrastructure Planning (Business or Commercial Projects) (Amendment) Regulations 2026 (S.I. 2026/13)](https://www.legislation.gov.uk/uksi/2026/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/13/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/13/regulation/2)
+[^c-6f69a022f4bc713a4acd1ff42627f45a]: Textual amendment: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2013/3221/schedule/paragraph/10) inserted (8.1.2026) by [The Infrastructure Planning (Business or Commercial Projects) (Amendment) Regulations 2026 (S.I. 2026/13)](https://www.legislation.gov.uk/uksi/2026/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/13/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/13/regulation/2)

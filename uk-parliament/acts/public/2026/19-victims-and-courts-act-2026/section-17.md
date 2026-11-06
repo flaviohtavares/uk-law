@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Extent[^key-313296dfa5366799394d32ecb9c8abb5]
+## 17. Extent[^c-313296dfa5366799394d32ecb9c8abb5]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-313296dfa5366799394d32ecb9c8abb5]: Commencement: S. 17 in force at Royal Assent, see [s. 18(3)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/3)
+[^c-313296dfa5366799394d32ecb9c8abb5]: Commencement: S. 17 in force at Royal Assent, see [s. 18(3)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/3)

@@ -35,32 +35,32 @@ concerning the non-renewal of the approval of the active substance benalaxyl, in
 
 (Text with EEA relevance) (revoked)
 
-[^key-274c0e254012c324609c1af96f790cdf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-274c0e254012c324609c1af96f790cdf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Non-renewal of the approval of the active substance[^key-274c0e254012c324609c1af96f790cdf]
+## Article 1. Non-renewal of the approval of the active substance[^c-274c0e254012c324609c1af96f790cdf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Amendment to Implementing Regulation (EU) No 540/2011[^key-274c0e254012c324609c1af96f790cdf]
+## Article 2. Amendment to Implementing Regulation (EU) No 540/2011[^c-274c0e254012c324609c1af96f790cdf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Transitional measures[^key-274c0e254012c324609c1af96f790cdf]
+## Article 3. Transitional measures[^c-274c0e254012c324609c1af96f790cdf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Grace period[^key-274c0e254012c324609c1af96f790cdf]
+## Article 4. Grace period[^c-274c0e254012c324609c1af96f790cdf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-274c0e254012c324609c1af96f790cdf]
+## Article 5. Entry into force[^c-274c0e254012c324609c1af96f790cdf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-274c0e254012c324609c1af96f790cdf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-274c0e254012c324609c1af96f790cdf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-274c0e254012c324609c1af96f790cdf]: Textual amendment: Regulation revoked (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)
+[^c-274c0e254012c324609c1af96f790cdf]: Textual amendment: Regulation revoked (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)

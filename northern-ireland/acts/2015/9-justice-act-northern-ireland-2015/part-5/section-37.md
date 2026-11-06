@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-3dc35ff64ed7a32fed701cff554ceaf9] The following provisions are repealed—
+(1)[^c-3dc35ff64ed7a32fed701cff554ceaf9] The following provisions are repealed—
 
 - (a) section 101 of the Justice Act (Northern Ireland) 2011 (which, if commenced, would insert section 112(2A) into the Police Act 1997 requiring copies of certain criminal conviction certificates to be given to employers etc.);
 - (b) section 113A(4) of the Police Act 1997 (requirement to send copy of criminal record certificate to registered person); and
 - (c) section 113B(5) and (6) of that Act (requirement to give relevant information, and copy of enhanced criminal record certificate to registered person).
 
-(2)[^key-ee8f2163e4e20ad9060d99ff17cf0b35] After section 120AB of the Police Act 1997 (procedure for certain cancellations or suspensions of registration) insert—
+(2)[^c-ee8f2163e4e20ad9060d99ff17cf0b35] After section 120AB of the Police Act 1997 (procedure for certain cancellations or suspensions of registration) insert—
 
 > **120AC. Registered persons: information on progress of an application**
 >
@@ -80,6 +80,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3dc35ff64ed7a32fed701cff554ceaf9]: Commencement: [S. 37(1)](https://www.legislation.gov.uk/nia/2015/9/section/37/1) in operation at 2.11.2015 by [S.R. 2015/358](https://www.legislation.gov.uk/nisr/2015/358), [art. 2(a)](https://www.legislation.gov.uk/nisr/2015/358/article/2/a)
+[^c-3dc35ff64ed7a32fed701cff554ceaf9]: Commencement: [S. 37(1)](https://www.legislation.gov.uk/nia/2015/9/section/37/1) in operation at 2.11.2015 by [S.R. 2015/358](https://www.legislation.gov.uk/nisr/2015/358), [art. 2(a)](https://www.legislation.gov.uk/nisr/2015/358/article/2/a)
 
-[^key-ee8f2163e4e20ad9060d99ff17cf0b35]: Commencement: [S. 37(2)](https://www.legislation.gov.uk/nia/2015/9/section/37/2) in operation at 2.11.2015 for specified purposes by [S.R. 2015/358](https://www.legislation.gov.uk/nisr/2015/358), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/358/article/2/b)
+[^c-ee8f2163e4e20ad9060d99ff17cf0b35]: Commencement: [S. 37(2)](https://www.legislation.gov.uk/nia/2015/9/section/37/2) in operation at 2.11.2015 for specified purposes by [S.R. 2015/358](https://www.legislation.gov.uk/nisr/2015/358), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/358/article/2/b)

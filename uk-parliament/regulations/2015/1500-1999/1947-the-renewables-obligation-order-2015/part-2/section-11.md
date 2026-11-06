@@ -28,10 +28,10 @@ summary: ''
 
 (4) Where calculation B is not a whole number, it is to be rounded to the nearest whole number (one-half being rounded upwards).
 
-(5) References to calculation B in this Part[^key-d85cc54935a64c110e7ab932e5b540c7] are to be construed accordingly.
+(5) References to calculation B in this Part[^c-d85cc54935a64c110e7ab932e5b540c7] are to be construed accordingly.
 
 (6) In this article “**renewable electricity**” means electricity which is generated from renewable sources and in respect of which UK ROCs may be issued.
 
 ## Annotations
 
-[^key-d85cc54935a64c110e7ab932e5b540c7]: Textual amendment: Words in [art. 11(5)](https://www.legislation.gov.uk/uksi/2015/1947/article/11/5) substituted (15.12.2017) by [The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2017 (S.I. 2017/1289)](https://www.legislation.gov.uk/uksi/2017/1289), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1289/article/1/1), [5](https://www.legislation.gov.uk/uksi/2017/1289/article/5)
+[^c-d85cc54935a64c110e7ab932e5b540c7]: Textual amendment: Words in [art. 11(5)](https://www.legislation.gov.uk/uksi/2015/1947/article/11/5) substituted (15.12.2017) by [The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2017 (S.I. 2017/1289)](https://www.legislation.gov.uk/uksi/2017/1289), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1289/article/1/1), [5](https://www.legislation.gov.uk/uksi/2017/1289/article/5)

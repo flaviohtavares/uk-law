@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Guarantees in respect of payment of compensation[^key-9f9350cb8ad5efc1b1b94ff15b9866fc]
+## 23. Guarantees in respect of payment of compensation[^c-9f9350cb8ad5efc1b1b94ff15b9866fc]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f9350cb8ad5efc1b1b94ff15b9866fc]: Commencement: Art. 23 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-9f9350cb8ad5efc1b1b94ff15b9866fc]: Commencement: Art. 23 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

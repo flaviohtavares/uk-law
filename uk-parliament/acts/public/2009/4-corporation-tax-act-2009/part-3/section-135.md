@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Relief in respect of mineral royalties[^key-585987cf6a8897654af6991c32ad6c30]
+## 135. Relief in respect of mineral royalties[^c-585987cf6a8897654af6991c32ad6c30]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-585987cf6a8897654af6991c32ad6c30]: Textual amendment: S. 135 repealed (with effect in accordance with Sch. 39 para. 44(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 44(1)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/44/1/a)
+[^c-585987cf6a8897654af6991c32ad6c30]: Textual amendment: S. 135 repealed (with effect in accordance with Sch. 39 para. 44(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 44(1)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/44/1/a)

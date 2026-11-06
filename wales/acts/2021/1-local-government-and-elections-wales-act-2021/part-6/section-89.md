@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Duty of principal council to keep its performance under review[^key-594a4692e4fcc2e516b3e86d89c3cf18]
+## 89. Duty of principal council to keep its performance under review[^c-594a4692e4fcc2e516b3e86d89c3cf18]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-594a4692e4fcc2e516b3e86d89c3cf18]: Commencement: S. 89 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(a)](https://www.legislation.gov.uk/uksi/2021/297/article/2/a)
+[^c-594a4692e4fcc2e516b3e86d89c3cf18]: Commencement: S. 89 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(a)](https://www.legislation.gov.uk/uksi/2021/297/article/2/a)

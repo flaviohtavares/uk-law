@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Consultation, publication and objections[^key-f1649c9e99ab59c3b1537a996c931863]
+## 72. Consultation, publication and objections[^c-f1649c9e99ab59c3b1537a996c931863]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1649c9e99ab59c3b1537a996c931863]: Textual amendment: [Ss. 71-76](https://www.legislation.gov.uk/anaw/2013/1/section/71) omitted (5.4.2025) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 29(8)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/29/8) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ll)(iii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ll/iii)
+[^c-f1649c9e99ab59c3b1537a996c931863]: Textual amendment: [Ss. 71-76](https://www.legislation.gov.uk/anaw/2013/1/section/71) omitted (5.4.2025) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 29(8)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/29/8) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ll)(iii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ll/iii)

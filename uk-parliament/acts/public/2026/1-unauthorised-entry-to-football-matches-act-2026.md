@@ -35,7 +35,7 @@ An Act to create an offence of unauthorised entry at football matches for which 
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Offence of unauthorised entry to designated football matches[^key-b4b92a0637e9edc257e762f1aee9c4f1][^key-95f2366a32110e31bcd877b51cea056b]
+## 1. Offence of unauthorised entry to designated football matches[^c-b4b92a0637e9edc257e762f1aee9c4f1][^c-95f2366a32110e31bcd877b51cea056b]
 
 In the [Football (Offences) Act 1991](https://www.legislation.gov.uk/ukpga/1991/19/contents), after [section 1](https://www.legislation.gov.uk/ukpga/1991/19/section/1) (designated football matches) insert—
 
@@ -61,7 +61,7 @@ In the [Football (Offences) Act 1991](https://www.legislation.gov.uk/ukpga/1991/
 > - “**match ticket**” means a ticket or other thing (whether in physical or electronic form) which authorises a person to enter premises for the purpose of attending a designated football match;
 > - “**premises**” includes any place.
 
-## 2. Extent, commencement and short title[^key-bc94c2bfb717ac0a0f003ff24e99eed8][^key-ff5f8fca61fb842a431e8e273e96f3fb]
+## 2. Extent, commencement and short title[^c-bc94c2bfb717ac0a0f003ff24e99eed8][^c-ff5f8fca61fb842a431e8e273e96f3fb]
 
 (1) This Act extends to England and Wales only.
 
@@ -71,10 +71,10 @@ In the [Football (Offences) Act 1991](https://www.legislation.gov.uk/ukpga/1991/
 
 ## Annotations
 
-[^key-b4b92a0637e9edc257e762f1aee9c4f1]: Commencement: S. 1 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2026/1/section/2/2)
+[^c-b4b92a0637e9edc257e762f1aee9c4f1]: Commencement: S. 1 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2026/1/section/2/2)
 
-[^key-95f2366a32110e31bcd877b51cea056b]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2026/1/section/1) in force at 22.3.2026 by [S.I. 2026/288](https://www.legislation.gov.uk/uksi/2026/288), [reg. 2](https://www.legislation.gov.uk/uksi/2026/288/regulation/2)
+[^c-95f2366a32110e31bcd877b51cea056b]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2026/1/section/1) in force at 22.3.2026 by [S.I. 2026/288](https://www.legislation.gov.uk/uksi/2026/288), [reg. 2](https://www.legislation.gov.uk/uksi/2026/288/regulation/2)
 
-[^key-bc94c2bfb717ac0a0f003ff24e99eed8]: Commencement: S. 2 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2026/1/section/2/2)
+[^c-bc94c2bfb717ac0a0f003ff24e99eed8]: Commencement: S. 2 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2026/1/section/2/2)
 
-[^key-ff5f8fca61fb842a431e8e273e96f3fb]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2026/1/section/2) in force at 22.3.2026 by [S.I. 2026/288](https://www.legislation.gov.uk/uksi/2026/288), [reg. 2](https://www.legislation.gov.uk/uksi/2026/288/regulation/2)
+[^c-ff5f8fca61fb842a431e8e273e96f3fb]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2026/1/section/2) in force at 22.3.2026 by [S.I. 2026/288](https://www.legislation.gov.uk/uksi/2026/288), [reg. 2](https://www.legislation.gov.uk/uksi/2026/288/regulation/2)

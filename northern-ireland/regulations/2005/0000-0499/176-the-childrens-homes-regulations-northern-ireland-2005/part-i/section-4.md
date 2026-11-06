@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Statement of purpose and children’s guide[^key-e58fabd4e0289b88da090e9b2e9be8b1]
+## 4. Statement of purpose and children’s guide[^c-e58fabd4e0289b88da090e9b2e9be8b1]
 
 *Extent: N.I.*
 
 (1) The registered person shall compile in relation to the children’s home a written statement which shall consist of a statement as to the matters listed in Schedule 1.
 
-(2) The registered person shall provide a copy of the statement of purpose to the RQIA[^key-4ca5e5950155e725f54604a422e453f9] and shall make a copy of it available upon request for inspection by –
+(2) The registered person shall provide a copy of the statement of purpose to the RQIA[^c-4ca5e5950155e725f54604a422e453f9] and shall make a copy of it available upon request for inspection by –
 
 - (a) any person who works at the children’s home;
 - (b) any child accommodated in the children’s home;
@@ -53,6 +53,6 @@ and in this paragraph references to a child who is accommodated in the children�
 
 ## Annotations
 
-[^key-e58fabd4e0289b88da090e9b2e9be8b1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/176/regulation/4) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-e58fabd4e0289b88da090e9b2e9be8b1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/176/regulation/4) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
 
-[^key-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

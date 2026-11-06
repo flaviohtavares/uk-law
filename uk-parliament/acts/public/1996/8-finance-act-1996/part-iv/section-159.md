@@ -41,18 +41,18 @@ summary: ''
 >
 > falls to be calculated in such a case under subsection (8) or (11) above, it shall be so calculated by reference to the provisions of paragraph 3 or 4 of Schedule 23A that would have applied but for paragraph 5 of that Schedule.
 
-(4)[^key-0c8cca1e6a20cf3816fe16f5d488f8cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0c8cca1e6a20cf3816fe16f5d488f8cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-0c8cca1e6a20cf3816fe16f5d488f8cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0c8cca1e6a20cf3816fe16f5d488f8cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-0c8cca1e6a20cf3816fe16f5d488f8cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-0c8cca1e6a20cf3816fe16f5d488f8cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In sub-paragraph (1) of paragraph 8 of that Schedule (power to modify provisions of Schedule)—
 
-- (a)[^key-f9ba3a0d897f06a9662539bfaf656bdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-f9ba3a0d897f06a9662539bfaf656bdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b)[^c14612611] in the words after paragraph (b), for “paragraph 2, 3 or 4 above” there shall be substituted “ paragraphs 2 to 5 above ”.
 
-(8)[^key-ff30e56b07b4e3b29223aa1f1ee60802] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-ff30e56b07b4e3b29223aa1f1ee60802] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Subsections (2), (4) and (5) above have effect—
 
@@ -65,10 +65,10 @@ summary: ''
 
 [^c14612591]: Textual amendment: S. 159(2)(3) repealed (19.3.1997 with effect as mentioned in Sch. 18 Pt. VI(10), Note 1) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 113](https://www.legislation.gov.uk/ukpga/1997/16/section/113), [Sch. 18 Pt. VI(10)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/18/part/VI/10); [S.I. 1997/991](https://www.legislation.gov.uk/uksi/1997/991), [art. 2](https://www.legislation.gov.uk/uksi/1997/991/article/2)
 
-[^key-0c8cca1e6a20cf3816fe16f5d488f8cf]: Textual amendment: S. 159(4)-(6) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-0c8cca1e6a20cf3816fe16f5d488f8cf]: Textual amendment: S. 159(4)-(6) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-f9ba3a0d897f06a9662539bfaf656bdf]: Textual amendment: S. 159(7)(a) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-f9ba3a0d897f06a9662539bfaf656bdf]: Textual amendment: S. 159(7)(a) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c14612611]: Textual amendment: S. 159(7)(b) and the preceding word “and” repealed (19.3.1997 with effect as mentioned in Sch. 18 Pt. VI(10), Note 1) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 113](https://www.legislation.gov.uk/ukpga/1997/16/section/113), [Sch. 18 Pt. VI(10)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/18/part/VI/10); [S.I. 1997/991](https://www.legislation.gov.uk/uksi/1997/991), [art. 2](https://www.legislation.gov.uk/uksi/1997/991/article/2)
 
-[^key-ff30e56b07b4e3b29223aa1f1ee60802]: Textual amendment: S. 159(8) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-ff30e56b07b4e3b29223aa1f1ee60802]: Textual amendment: S. 159(8) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

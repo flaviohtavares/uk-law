@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Determination of “the age addition”[^key-bcc64305ddcdadb0f01f414944bd1412]
+## 33. Determination of “the age addition”[^c-bcc64305ddcdadb0f01f414944bd1412]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcc64305ddcdadb0f01f414944bd1412]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2014/290/regulation/33) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-bcc64305ddcdadb0f01f414944bd1412]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2014/290/regulation/33) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

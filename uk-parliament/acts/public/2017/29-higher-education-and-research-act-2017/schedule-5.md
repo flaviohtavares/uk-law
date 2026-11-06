@@ -24,7 +24,7 @@ Section 61
 
 ### Power to issue search warrant
 
-**1.**[^key-6c82f485691c192220144f6ba6e19726] (1) A justice of the peace who is satisfied that the requirements in sub-paragraph (3) are met in relation to relevant higher education premises may issue a warrant under this paragraph (a “search warrant”) in respect of the premises.
+**1.**[^c-6c82f485691c192220144f6ba6e19726] (1) A justice of the peace who is satisfied that the requirements in sub-paragraph (3) are met in relation to relevant higher education premises may issue a warrant under this paragraph (a “search warrant”) in respect of the premises.
 
 (2) “**Relevant higher education premises**” means premises in England which—
 
@@ -54,7 +54,7 @@ but does not include premises which are used wholly or mainly as a private dwell
 
 ### Application for search warrant by an authorised person
 
-**2.**[^key-42b0b863377ce22c83b9fd83159ddfce] (1) A search warrant may be issued only on the application of a person authorised in writing by the OfS or the Secretary of State to exercise the powers conferred by a search warrant (an “authorised person”).
+**2.**[^c-42b0b863377ce22c83b9fd83159ddfce] (1) A search warrant may be issued only on the application of a person authorised in writing by the OfS or the Secretary of State to exercise the powers conferred by a search warrant (an “authorised person”).
 
 (2) An application for a search warrant in respect of premises may be made without notice being given to—
 
@@ -67,7 +67,7 @@ but does not include premises which are used wholly or mainly as a private dwell
 
 ### Search warrant
 
-**3.**[^key-144787942afd980b7182288138229708] (1) A search warrant must—
+**3.**[^c-144787942afd980b7182288138229708] (1) A search warrant must—
 
 - (a) specify the name of the authorised person who applied for it,
 - (b) specify the date on which it is issued,
@@ -90,7 +90,7 @@ but does not include premises which are used wholly or mainly as a private dwell
 
 ### Powers conferred by search warrant
 
-**4.**[^key-a9e0e10303ceb67dffe15c8aef4f7e2d] (1) A search warrant authorises an authorised person—
+**4.**[^c-a9e0e10303ceb67dffe15c8aef4f7e2d] (1) A search warrant authorises an authorised person—
 
 - (a) to enter the premises specified in the warrant at a reasonable hour,
 - (b) to search the premises to the extent that is reasonably required for the purpose of determining whether there is, or has been, a breach of a registration condition or funding condition of the relevant supported higher education provider,
@@ -109,7 +109,7 @@ but does not include premises which are used wholly or mainly as a private dwell
 
 ### Entering and searching premises
 
-**5.**[^key-b7ae52a53498d290e94927eb349eb660] (1) Where the occupier of the premises to be entered and searched is present at the time when an authorised person seeks to execute a search warrant, the authorised person must—
+**5.**[^c-b7ae52a53498d290e94927eb349eb660] (1) Where the occupier of the premises to be entered and searched is present at the time when an authorised person seeks to execute a search warrant, the authorised person must—
 
 - (a) identify himself or herself to the occupier,
 - (b) produce to the occupier documentary evidence that he or she is an authorised person,
@@ -127,7 +127,7 @@ but does not include premises which are used wholly or mainly as a private dwell
 
 ### Inspecting, copying, seizing and retaining items
 
-**6.**[^key-b95f32374fde800d38d437601d940e78] (1) The powers conferred by a search warrant to inspect, copy, seize and retain items found on premises include—
+**6.**[^c-b95f32374fde800d38d437601d940e78] (1) The powers conferred by a search warrant to inspect, copy, seize and retain items found on premises include—
 
 - (a) power to require a person on the premises who is holding or accountable for items that are on the premises to produce them,
 - (b) power to require a person on the premises to provide an explanation of an item or state where an item may be found,
@@ -175,7 +175,7 @@ but does not include premises which are used wholly or mainly as a private dwell
 
 ### Offence
 
-**7.**[^key-7e01d1e9884ccaea6af365a2ddd24e25] (1) A person commits an offence if, without reasonable excuse, the person—
+**7.**[^c-7e01d1e9884ccaea6af365a2ddd24e25] (1) A person commits an offence if, without reasonable excuse, the person—
 
 - (a) intentionally obstructs the exercise of a power conferred by a search warrant, or
 - (b) fails to comply with a requirement reasonably imposed in the exercise of a power conferred by a search warrant.
@@ -184,7 +184,7 @@ but does not include premises which are used wholly or mainly as a private dwell
 
 ### Self-incrimination
 
-**8.**[^key-9d90fc5215bc08b91efdad676f066a7a] (1) An explanation or information provided by a person in response to a requirement under paragraph 6(1)(b) or (d) or (2)(b) may be used in evidence against the person, subject to sub-paragraphs (2) to (4).
+**8.**[^c-9d90fc5215bc08b91efdad676f066a7a] (1) An explanation or information provided by a person in response to a requirement under paragraph 6(1)(b) or (d) or (2)(b) may be used in evidence against the person, subject to sub-paragraphs (2) to (4).
 
 (2) In criminal proceedings against the person—
 
@@ -203,7 +203,7 @@ but does not include premises which are used wholly or mainly as a private dwell
 
 ### Interpretation
 
-**9.**[^key-ae693c6473f9b99a3f595f929ccc429e] (1) In this Schedule—
+**9.**[^c-ae693c6473f9b99a3f595f929ccc429e] (1) In this Schedule—
 
 - “**authorised person**” has the meaning given in paragraph 2;
 - “**document**” means anything in which information of any description is recorded;
@@ -223,20 +223,20 @@ but does not include premises which are used wholly or mainly as a private dwell
 
 ## Annotations
 
-[^key-6c82f485691c192220144f6ba6e19726]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/29/schedule/5/paragraph/1) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/r)
+[^c-6c82f485691c192220144f6ba6e19726]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/29/schedule/5/paragraph/1) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/r)
 
-[^key-42b0b863377ce22c83b9fd83159ddfce]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2017/29/schedule/5/paragraph/2) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/r)
+[^c-42b0b863377ce22c83b9fd83159ddfce]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2017/29/schedule/5/paragraph/2) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/r)
 
-[^key-144787942afd980b7182288138229708]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2017/29/schedule/5/paragraph/3) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/r)
+[^c-144787942afd980b7182288138229708]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2017/29/schedule/5/paragraph/3) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/r)
 
-[^key-a9e0e10303ceb67dffe15c8aef4f7e2d]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2017/29/schedule/5/paragraph/4) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/r)
+[^c-a9e0e10303ceb67dffe15c8aef4f7e2d]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2017/29/schedule/5/paragraph/4) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/r)
 
-[^key-b7ae52a53498d290e94927eb349eb660]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2017/29/schedule/5/paragraph/5) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/r)
+[^c-b7ae52a53498d290e94927eb349eb660]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2017/29/schedule/5/paragraph/5) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/r)
 
-[^key-b95f32374fde800d38d437601d940e78]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2017/29/schedule/5/paragraph/6) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/r)
+[^c-b95f32374fde800d38d437601d940e78]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2017/29/schedule/5/paragraph/6) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/r)
 
-[^key-7e01d1e9884ccaea6af365a2ddd24e25]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2017/29/schedule/5/paragraph/7) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/r)
+[^c-7e01d1e9884ccaea6af365a2ddd24e25]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2017/29/schedule/5/paragraph/7) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/r)
 
-[^key-9d90fc5215bc08b91efdad676f066a7a]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2017/29/schedule/5/paragraph/8) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/r)
+[^c-9d90fc5215bc08b91efdad676f066a7a]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2017/29/schedule/5/paragraph/8) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/r)
 
-[^key-ae693c6473f9b99a3f595f929ccc429e]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2017/29/schedule/5/paragraph/9) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/r)
+[^c-ae693c6473f9b99a3f595f929ccc429e]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2017/29/schedule/5/paragraph/9) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/r)

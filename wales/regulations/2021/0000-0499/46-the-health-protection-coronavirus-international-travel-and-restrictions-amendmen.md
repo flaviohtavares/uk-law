@@ -53,7 +53,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 
 ## PART 1 — General
 
-### 1. Title, coming into force and interpretation[^key-00adff9b5f31b8bc35a21366fc7738bb][^key-00adff9b5f31b8bc35a21366fc7738bb]
+### 1. Title, coming into force and interpretation[^c-00adff9b5f31b8bc35a21366fc7738bb][^c-00adff9b5f31b8bc35a21366fc7738bb]
 
 (1) The title of these Regulations is the Health Protection (Coronavirus, International Travel and Restrictions) (Amendment) (No. 2) (Wales) Regulations 2021.
 
@@ -66,41 +66,41 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 - (a) the “International Travel Regulations” means the Health Protection (Coronavirus, International Travel) (Wales) Regulations 2020[^f00002];
 - (b) the “Restrictions Regulations” means the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020[^f00003].
 
-## PART 2 — Amendments to the list of exempt countries and territories in Schedule 3 to the International Travel Regulations[^key-7df4ffbc7e145ff695d3b3b6b86c07b4]
+## PART 2 — Amendments to the list of exempt countries and territories in Schedule 3 to the International Travel Regulations[^c-7df4ffbc7e145ff695d3b3b6b86c07b4]
 
 **No longer in force.**
 
-### 2. Removal of countries and territories from the list of exempt countries and territories[^key-7df4ffbc7e145ff695d3b3b6b86c07b4]
+### 2. Removal of countries and territories from the list of exempt countries and territories[^c-7df4ffbc7e145ff695d3b3b6b86c07b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Transitional provision in connection with regulation 2[^key-7df4ffbc7e145ff695d3b3b6b86c07b4]
+### 3. Transitional provision in connection with regulation 2[^c-7df4ffbc7e145ff695d3b3b6b86c07b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Other amendments to the International Travel Regulations[^key-9803869490cee2f332db7abdc2da1f17]
+## PART 3 — Other amendments to the International Travel Regulations[^c-9803869490cee2f332db7abdc2da1f17]
 
 **No longer in force.**
 
-### 4. Addition of countries to the list of countries and territories subject to additional measures[^key-9803869490cee2f332db7abdc2da1f17]
+### 4. Addition of countries to the list of countries and territories subject to additional measures[^c-9803869490cee2f332db7abdc2da1f17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Transitional provision in connection with regulation 4[^key-9803869490cee2f332db7abdc2da1f17]
+### 5. Transitional provision in connection with regulation 4[^c-9803869490cee2f332db7abdc2da1f17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment of regulation 12E of the International Travel Regulations[^key-9803869490cee2f332db7abdc2da1f17]
+### 6. Amendment of regulation 12E of the International Travel Regulations[^c-9803869490cee2f332db7abdc2da1f17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of Schedule 2 to the International Travel Regulations[^key-9803869490cee2f332db7abdc2da1f17]
+### 7. Amendment of Schedule 2 to the International Travel Regulations[^c-9803869490cee2f332db7abdc2da1f17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Amendments to the Restrictions Regulations
 
-### 8. Amendments to the Restrictions Regulations[^key-8b3ffa01b77e751a2b14b520d5c10a9a][^key-8b3ffa01b77e751a2b14b520d5c10a9a]
+### 8. Amendments to the Restrictions Regulations[^c-8b3ffa01b77e751a2b14b520d5c10a9a][^c-8b3ffa01b77e751a2b14b520d5c10a9a]
 
 (1) The Restrictions Regulations are amended as follows.
 
@@ -249,14 +249,14 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Part 2A was inserted by section 129 of the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14). The function of making regulations under Part 2A is conferred on “the appropriate Minister”. Under section 45T(6) of the 1984 Act the appropriate Minister as respects Wales, is the Welsh Ministers.
 
-[^key-00adff9b5f31b8bc35a21366fc7738bb]: Commencement: Reg. 1 in force at 15.1.2021 at 4.00 a.m., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/46/regulation/1/2)
+[^c-00adff9b5f31b8bc35a21366fc7738bb]: Commencement: Reg. 1 in force at 15.1.2021 at 4.00 a.m., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/46/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2020/574 (W. 132)](https://www.legislation.gov.uk/wsi/2020/574), as amended by [S.I. 2020/595 (W. 136)](https://www.legislation.gov.uk/wsi/2020/595), [S.I. 2020/714 (W. 160)](https://www.legislation.gov.uk/wsi/2020/714), [S.I. 2020/726 (W. 163)](https://www.legislation.gov.uk/wsi/2020/726), [S.I. 2020/804 (W. 177)](https://www.legislation.gov.uk/wsi/2020/804), [S.I. 2020/817 (W. 179)](https://www.legislation.gov.uk/wsi/2020/817), [S.I. 2020/840 (W. 185)](https://www.legislation.gov.uk/wsi/2020/840), [S.I. 2020/868 (W. 190)](https://www.legislation.gov.uk/wsi/2020/868), [S.I. 2020/886 (W. 196)](https://www.legislation.gov.uk/wsi/2020/886), [S.I. 2020/917 (W. 205)](https://www.legislation.gov.uk/wsi/2020/917), [S.I. 2020/942](https://www.legislation.gov.uk/uksi/2020/942), [S.I. 2020/944 (W. 210)](https://www.legislation.gov.uk/wsi/2020/944), [S.I. 2020/962 (W. 216)](https://www.legislation.gov.uk/wsi/2020/962), [S.I. 2020/981 (W. 220)](https://www.legislation.gov.uk/wsi/2020/981), [S.I. 2020/1015 (W. 226)](https://www.legislation.gov.uk/wsi/2020/1015), [S.I. 2020/1042 (W. 231)](https://www.legislation.gov.uk/wsi/2020/1042), [S.I. 2020/1080 (W. 243)](https://www.legislation.gov.uk/wsi/2020/1080), [S.I. 2020/1098 (W. 249)](https://www.legislation.gov.uk/wsi/2020/1098), [S.I. 2020/1133 (W. 258)](https://www.legislation.gov.uk/wsi/2020/1133), [S.I. 2020/1165 (W. 263)](https://www.legislation.gov.uk/wsi/2020/1165), S.I 2020/1191 (W. 269), [S.I. 2020/1223 (W. 277)](https://www.legislation.gov.uk/wsi/2020/1223), [S.I. 2020/1232 (W. 278)](https://www.legislation.gov.uk/wsi/2020/1232), [S.I. 2020/1237 (W. 279)](https://www.legislation.gov.uk/wsi/2020/1237), [S.I. 2020/1288 (W. 286)](https://www.legislation.gov.uk/wsi/2020/1288), [S.I. 2020/1329 (W. 295)](https://www.legislation.gov.uk/wsi/2020/1329), [S.I. 2020/1362 (W. 301)](https://www.legislation.gov.uk/wsi/2020/1362), [S.I. 2020/1477 (W. 316)](https://www.legislation.gov.uk/wsi/2020/1477), [S.I. 2020/1521 (W. 325)](https://www.legislation.gov.uk/wsi/2020/1521), [S.I. 2020/1602 (W. 332)](https://www.legislation.gov.uk/wsi/2020/1602), [S.I. 2020/1645 (W. 345)](https://www.legislation.gov.uk/wsi/2020/1645), [S.I. 2021/20 (W. 7)](https://www.legislation.gov.uk/wsi/2021/20) and [S.I. 2021/24 (W. 8)](https://www.legislation.gov.uk/wsi/2021/24).
 
 [^f00003]: Footnote: [S.I. 2020/1609 (W. 335)](https://www.legislation.gov.uk/wsi/2020/1609) as amended by [S.I. 2020/1610 (W. 336)](https://www.legislation.gov.uk/wsi/2020/1610), [S.I. 2020/1623 (W. 340)](https://www.legislation.gov.uk/wsi/2020/1623), [S.I. 2020/1645 (W. 345)](https://www.legislation.gov.uk/wsi/2020/1645) and [S.I. 2021/20 (W. 7)](https://www.legislation.gov.uk/wsi/2021/20).
 
-[^key-7df4ffbc7e145ff695d3b3b6b86c07b4]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/wsi/2021/46/part/2) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 62](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/62)
+[^c-7df4ffbc7e145ff695d3b3b6b86c07b4]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/wsi/2021/46/part/2) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 62](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/62)
 
-[^key-9803869490cee2f332db7abdc2da1f17]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/wsi/2021/46/part/3) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 62](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/62)
+[^c-9803869490cee2f332db7abdc2da1f17]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/wsi/2021/46/part/3) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 62](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/62)
 
-[^key-8b3ffa01b77e751a2b14b520d5c10a9a]: Commencement: Reg. 8 in force at 15.1.2021 at 4.00 a.m., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/46/regulation/1/2)
+[^c-8b3ffa01b77e751a2b14b520d5c10a9a]: Commencement: Reg. 8 in force at 15.1.2021 at 4.00 a.m., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/46/regulation/1/2)

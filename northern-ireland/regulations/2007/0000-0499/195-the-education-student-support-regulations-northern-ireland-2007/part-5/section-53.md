@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Qualifying conditions for the grant for travel – overseas study[^key-db0271ac59134b5e3b46029c62605317]
+## 53. Qualifying conditions for the grant for travel – overseas study[^c-db0271ac59134b5e3b46029c62605317]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A grant is available to an eligible student who attends an overseas institution 
 
 ## Annotations
 
-[^key-db0271ac59134b5e3b46029c62605317]: Commencement: [Reg. 53](https://www.legislation.gov.uk/nisr/2007/195/regulation/53) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-db0271ac59134b5e3b46029c62605317]: Commencement: [Reg. 53](https://www.legislation.gov.uk/nisr/2007/195/regulation/53) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

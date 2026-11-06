@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Parenting contracts in respect of criminal conduct and anti-social behaviour : youth offending teams[^key-4f8962af7c43d340d973d68356f9ea72][^key-ea68f1d5c3e840991e8f648faf54550f]
+## 25. Parenting contracts in respect of criminal conduct and anti-social behaviour : youth offending teams[^c-4f8962af7c43d340d973d68356f9ea72][^c-ea68f1d5c3e840991e8f648faf54550f]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4f8962af7c43d340d973d68356f9ea72]: Commencement: S. 25 in force at 27.2.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(a)(iii)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/a/iii)
+[^c-4f8962af7c43d340d973d68356f9ea72]: Commencement: S. 25 in force at 27.2.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(a)(iii)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/a/iii)
 
-[^key-ea68f1d5c3e840991e8f648faf54550f]: Textual amendment: Words in s. 25 heading inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 14 para. 53](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/53); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(d)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/d)
+[^c-ea68f1d5c3e840991e8f648faf54550f]: Textual amendment: Words in s. 25 heading inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 14 para. 53](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/53); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(d)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/d)

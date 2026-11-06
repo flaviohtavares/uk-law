@@ -41,7 +41,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W+S*
 
-### 1. Regulations giving effect to Convention.[^c9537671][^key-71e7a176d5dbbd44531e275983b60bac]
+### 1. Regulations giving effect to Convention.[^c9537671][^c-71e7a176d5dbbd44531e275983b60bac]
 
 (1)[^c9537681] Subject to the provisions of this Act, regulations made by the Secretary of State may make provision for giving effect to the Convention on Protection of Children and Co-operation in respect of Intercountry Adoption, concluded at the Hague on 29th May 1993 (“the Convention”).
 
@@ -62,47 +62,47 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: S*
 
-(7)[^key-fd4a9e3f6125d4b3a98f6a4573efac2b] References in this section to enactments include references to Acts of the Scottish Parliament.
+(7)[^c-fd4a9e3f6125d4b3a98f6a4573efac2b] References in this section to enactments include references to Acts of the Scottish Parliament.
 
 ### 2. Central Authorities and accredited bodies.
 
-(1)[^key-2e81c6c9373e9817db80563f2dc8a6e2][^key-8040b3db376c259d1db039a4c85e53a5] The functions under the Convention of the Central Authority are to be discharged—
+(1)[^c-2e81c6c9373e9817db80563f2dc8a6e2][^c-8040b3db376c259d1db039a4c85e53a5] The functions under the Convention of the Central Authority are to be discharged—
 
 - (a) separately in relation to England and Scotland by the Secretary of State; and
 - (b) in relation to Wales by the National Assembly for Wales.
 
-(2)[^key-2e81c6c9373e9817db80563f2dc8a6e2][^key-8040b3db376c259d1db039a4c85e53a5] A communication may be sent to the Central Authority in relation to any part of Great Britain by sending it (for forwarding if necessary) to the Central Authority in relation to England.
+(2)[^c-2e81c6c9373e9817db80563f2dc8a6e2][^c-8040b3db376c259d1db039a4c85e53a5] A communication may be sent to the Central Authority in relation to any part of Great Britain by sending it (for forwarding if necessary) to the Central Authority in relation to England.
 
-(2A)[^key-8040b3db376c259d1db039a4c85e53a5][^key-e8ef35784292f264d9b323bfc30c22e4] A registered adoption society[^key-3907b76154f4f484875bb4f1bdfd38b7] is an accredited body for the purposes of the Convention if, in accordance with the conditions of the registration, the society[^key-1393a957f468086d87f8b29dc24369cd] may provide facilities in respect of Convention adoptions and adoptions effected by Convention adoption orders.
+(2A)[^c-8040b3db376c259d1db039a4c85e53a5][^c-e8ef35784292f264d9b323bfc30c22e4] A registered adoption society[^c-3907b76154f4f484875bb4f1bdfd38b7] is an accredited body for the purposes of the Convention if, in accordance with the conditions of the registration, the society[^c-1393a957f468086d87f8b29dc24369cd] may provide facilities in respect of Convention adoptions and adoptions effected by Convention adoption orders.
 
 *Extent: S*
 
-(2B)[^key-6a51b7f034dbc43a41234bff2093b46c] A registered adoption service is an accredited body for the purposes of the Convention if, in accordance with the conditions of its registration, the service may provide facilities in respect of Convention adoptions and adoptions effected by Convention adoption orders.
+(2B)[^c-6a51b7f034dbc43a41234bff2093b46c] A registered adoption service is an accredited body for the purposes of the Convention if, in accordance with the conditions of its registration, the service may provide facilities in respect of Convention adoptions and adoptions effected by Convention adoption orders.
 
-(3)[^key-8040b3db376c259d1db039a4c85e53a5] An approved adoption society is an accredited body for the purposes of the Convention if the approval extends to the provision of facilities in respect of Convention adoptions and adoptions effected by Convention adoption orders.
+(3)[^c-8040b3db376c259d1db039a4c85e53a5] An approved adoption society is an accredited body for the purposes of the Convention if the approval extends to the provision of facilities in respect of Convention adoptions and adoptions effected by Convention adoption orders.
 
-(4)[^key-2e81c6c9373e9817db80563f2dc8a6e2][^key-8040b3db376c259d1db039a4c85e53a5] The functions under Article 9(a) to (c) of the Convention are to be discharged by local authorities and accredited bodies on behalf of the Central Authority.
+(4)[^c-2e81c6c9373e9817db80563f2dc8a6e2][^c-8040b3db376c259d1db039a4c85e53a5] The functions under Article 9(a) to (c) of the Convention are to be discharged by local authorities and accredited bodies on behalf of the Central Authority.
 
-(5)[^key-1d67e6400f67b18d891819f5841dc849] In this section, “**registered adoption society**” has the same meaning as in section 2 of the Adoption and Children Act 2002 (basic definitions); and expressions used in this section in its application to England and Wales which are also used in that Act have the same meanings as in that Act.
+(5)[^c-1d67e6400f67b18d891819f5841dc849] In this section, “**registered adoption society**” has the same meaning as in section 2 of the Adoption and Children Act 2002 (basic definitions); and expressions used in this section in its application to England and Wales which are also used in that Act have the same meanings as in that Act.
 
-(6)[^key-8040b3db376c259d1db039a4c85e53a5][^key-24145049bc18f814262ce975da58e2c7] In this section in its application to Scotland, “**registered adoption service**” means an adoption service provided as mentioned in section 2(11)(b) of the Regulation of Care (Scotland) Act 2001 (asp 8) and registered under Part 1 of that Act; and “**registration**” shall be construed accordingly.
+(6)[^c-8040b3db376c259d1db039a4c85e53a5][^c-24145049bc18f814262ce975da58e2c7] In this section in its application to Scotland, “**registered adoption service**” means an adoption service provided as mentioned in section 2(11)(b) of the Regulation of Care (Scotland) Act 2001 (asp 8) and registered under Part 1 of that Act; and “**registration**” shall be construed accordingly.
 
 ## Convention adoptions
 
 *Extent: E+W+S*
 
-### 3. Convention adoption orders.[^key-fa6577fd2ef79ce2d6bf0b1727e0903e][^key-ee872b77e3be16d2402abe4b75490da7][^key-c6c4dbc58415c6d173e747d4b8d22658]
+### 3. Convention adoption orders.[^c-fa6577fd2ef79ce2d6bf0b1727e0903e][^c-ee872b77e3be16d2402abe4b75490da7][^c-c6c4dbc58415c6d173e747d4b8d22658]
 
-For section 17 of the 1976 and 1978 Acts there shall be substituted— *(affected by repeal, see note)*[^key-609541963ded1a3a730b9b7048c17beb]
+For section 17 of the 1976 and 1978 Acts there shall be substituted— *(affected by repeal, see note)*[^c-609541963ded1a3a730b9b7048c17beb]
 
-> **17. Convention adoption orders. (affected by repeal, see note)[^key-609541963ded1a3a730b9b7048c17beb]**
+> **17. Convention adoption orders. (affected by repeal, see note)[^c-609541963ded1a3a730b9b7048c17beb]**
 >
-> An adoption order shall be made as a Convention adoption order if— *(affected by repeal, see note)*[^key-609541963ded1a3a730b9b7048c17beb]
+> An adoption order shall be made as a Convention adoption order if— *(affected by repeal, see note)*[^c-609541963ded1a3a730b9b7048c17beb]
 >
-> - (a) the application is for a Convention adoption order; and *(affected by repeal, see note)*[^key-609541963ded1a3a730b9b7048c17beb]
-> - (b) such requirements as may be prescribed by regulations made by the Secretary of State are complied with. *(affected by repeal, see note)*[^key-609541963ded1a3a730b9b7048c17beb]
+> - (a) the application is for a Convention adoption order; and *(affected by repeal, see note)*[^c-609541963ded1a3a730b9b7048c17beb]
+> - (b) such requirements as may be prescribed by regulations made by the Secretary of State are complied with. *(affected by repeal, see note)*[^c-609541963ded1a3a730b9b7048c17beb]
 
-### 4. Effect of Convention adoptions in England and Wales.[^key-2d87d36e5763ea2d9b2eeb6f36ebe0b7]
+### 4. Effect of Convention adoptions in England and Wales.[^c-2d87d36e5763ea2d9b2eeb6f36ebe0b7]
 
 (1) In subsection (1) of section 38 of the 1976 Act (meaning of “adoption” for purposes of provisions relating to status of adopted children), after paragraph (c) there shall be inserted—
 
@@ -131,58 +131,58 @@ For section 17 of the 1976 and 1978 Acts there shall be substituted— *(affecte
 >
 > shall apply in relation to, and to an application for, a direction under subsection (3A) as they apply in relation to, and to an application for, a declaration under Part III of that Act.
 
-### 5. Effect of Convention adoptions in Scotland.[^key-9b8da5a3d8e7426375f2c3b95ec1c82e]
+### 5. Effect of Convention adoptions in Scotland.[^c-9b8da5a3d8e7426375f2c3b95ec1c82e]
 
-(1 (Extent: S) (affected by repeal, see note))[^key-00f36e7a56f4d58462fbea7159ce267c] In subsection (1) of section 38 of the 1978 Act (meaning of “adoption order” for purposes of provisions relating to status of adopted children), after paragraph (c) there shall be inserted— *(Extent: S)* *(affected by repeal, see note)*[^key-00f36e7a56f4d58462fbea7159ce267c]
+(1 (Extent: S) (affected by repeal, see note))[^c-00f36e7a56f4d58462fbea7159ce267c] In subsection (1) of section 38 of the 1978 Act (meaning of “adoption order” for purposes of provisions relating to status of adopted children), after paragraph (c) there shall be inserted— *(Extent: S)* *(affected by repeal, see note)*[^c-00f36e7a56f4d58462fbea7159ce267c]
 
-> - (cc (Extent: S) (affected by repeal, see note))[^key-00f36e7a56f4d58462fbea7159ce267c] a Convention adoption; *(Extent: S)* *(affected by repeal, see note)*[^key-00f36e7a56f4d58462fbea7159ce267c]
+> - (cc (Extent: S) (affected by repeal, see note))[^c-00f36e7a56f4d58462fbea7159ce267c] a Convention adoption; *(Extent: S)* *(affected by repeal, see note)*[^c-00f36e7a56f4d58462fbea7159ce267c]
 
-. *(Extent: S)* *(affected by repeal, see note)*[^key-00f36e7a56f4d58462fbea7159ce267c]
+. *(Extent: S)* *(affected by repeal, see note)*[^c-00f36e7a56f4d58462fbea7159ce267c]
 
-(2 (Extent: S) (affected by repeal, see note))[^key-00f36e7a56f4d58462fbea7159ce267c] In subsection (1) of section 39 of that Act (status conferred by adoption), in sub-paragraph (ii) of each of paragraphs (a), (b) and (c), at the beginning there shall be inserted *(Extent: S)* *(affected by repeal, see note)*[^key-00f36e7a56f4d58462fbea7159ce267c] “ subject to subsection (2A) ” *(Extent: S)* *(affected by repeal, see note)*[^key-00f36e7a56f4d58462fbea7159ce267c]. *(Extent: S)* *(affected by repeal, see note)*[^key-00f36e7a56f4d58462fbea7159ce267c]
+(2 (Extent: S) (affected by repeal, see note))[^c-00f36e7a56f4d58462fbea7159ce267c] In subsection (1) of section 39 of that Act (status conferred by adoption), in sub-paragraph (ii) of each of paragraphs (a), (b) and (c), at the beginning there shall be inserted *(Extent: S)* *(affected by repeal, see note)*[^c-00f36e7a56f4d58462fbea7159ce267c] “ subject to subsection (2A) ” *(Extent: S)* *(affected by repeal, see note)*[^c-00f36e7a56f4d58462fbea7159ce267c]. *(Extent: S)* *(affected by repeal, see note)*[^c-00f36e7a56f4d58462fbea7159ce267c]
 
-(3 (Extent: S) (affected by repeal, see note))[^key-00f36e7a56f4d58462fbea7159ce267c] After subsection (2) of that section there shall be inserted— *(Extent: S)* *(affected by repeal, see note)*[^key-00f36e7a56f4d58462fbea7159ce267c]
+(3 (Extent: S) (affected by repeal, see note))[^c-00f36e7a56f4d58462fbea7159ce267c] After subsection (2) of that section there shall be inserted— *(Extent: S)* *(affected by repeal, see note)*[^c-00f36e7a56f4d58462fbea7159ce267c]
 
-> (2A (Extent: S) (affected by repeal, see note))[^key-00f36e7a56f4d58462fbea7159ce267c] Where, in the case of a child adopted under a Convention adoption, the Court of Session is satisfied, on an application under this subsection— *(Extent: S)* *(affected by repeal, see note)*[^key-00f36e7a56f4d58462fbea7159ce267c]
+> (2A (Extent: S) (affected by repeal, see note))[^c-00f36e7a56f4d58462fbea7159ce267c] Where, in the case of a child adopted under a Convention adoption, the Court of Session is satisfied, on an application under this subsection— *(Extent: S)* *(affected by repeal, see note)*[^c-00f36e7a56f4d58462fbea7159ce267c]
 >
-> - (a (Extent: S) (affected by repeal, see note))[^key-00f36e7a56f4d58462fbea7159ce267c] that under the law of the country in which the adoption was effected the adoption is not a full adoption; *(Extent: S)* *(affected by repeal, see note)*[^key-00f36e7a56f4d58462fbea7159ce267c]
-> - (b (Extent: S) (affected by repeal, see note))[^key-00f36e7a56f4d58462fbea7159ce267c] that the consents referred to in Article 4(c) and (d) of the Convention have not been given for a full adoption, or that the United Kingdom is not the receiving State (within the meaning of Article 2 of the Convention); and *(Extent: S)* *(affected by repeal, see note)*[^key-00f36e7a56f4d58462fbea7159ce267c]
-> - (c (Extent: S) (affected by repeal, see note))[^key-00f36e7a56f4d58462fbea7159ce267c] that it would be more favourable to the child for a direction to be given under this subsection, *(Extent: S)* *(affected by repeal, see note)*[^key-00f36e7a56f4d58462fbea7159ce267c]
+> - (a (Extent: S) (affected by repeal, see note))[^c-00f36e7a56f4d58462fbea7159ce267c] that under the law of the country in which the adoption was effected the adoption is not a full adoption; *(Extent: S)* *(affected by repeal, see note)*[^c-00f36e7a56f4d58462fbea7159ce267c]
+> - (b (Extent: S) (affected by repeal, see note))[^c-00f36e7a56f4d58462fbea7159ce267c] that the consents referred to in Article 4(c) and (d) of the Convention have not been given for a full adoption, or that the United Kingdom is not the receiving State (within the meaning of Article 2 of the Convention); and *(Extent: S)* *(affected by repeal, see note)*[^c-00f36e7a56f4d58462fbea7159ce267c]
+> - (c (Extent: S) (affected by repeal, see note))[^c-00f36e7a56f4d58462fbea7159ce267c] that it would be more favourable to the child for a direction to be given under this subsection, *(Extent: S)* *(affected by repeal, see note)*[^c-00f36e7a56f4d58462fbea7159ce267c]
 >
-> the Court may direct that sub-paragraph (ii) of, as the case may be, paragraph (a), (b) or (c) of subsection (1) shall not apply, or shall not apply to such extent as may be specified in the direction: and in this subsection “ *(Extent: S)* *(affected by repeal, see note)*[^key-00f36e7a56f4d58462fbea7159ce267c]**full adoption *(Extent: S)* *(affected by repeal, see note)*[^key-00f36e7a56f4d58462fbea7159ce267c]**” means an adoption by virtue of which the child falls to be treated in law as if he were not the child of any person other than the adopters or adopter. *(Extent: S)* *(affected by repeal, see note)*[^key-00f36e7a56f4d58462fbea7159ce267c]
+> the Court may direct that sub-paragraph (ii) of, as the case may be, paragraph (a), (b) or (c) of subsection (1) shall not apply, or shall not apply to such extent as may be specified in the direction: and in this subsection “ *(Extent: S)* *(affected by repeal, see note)*[^c-00f36e7a56f4d58462fbea7159ce267c]**full adoption *(Extent: S)* *(affected by repeal, see note)*[^c-00f36e7a56f4d58462fbea7159ce267c]**” means an adoption by virtue of which the child falls to be treated in law as if he were not the child of any person other than the adopters or adopter. *(Extent: S)* *(affected by repeal, see note)*[^c-00f36e7a56f4d58462fbea7159ce267c]
 
-### 6. Annulment of Convention adoptions etc.[^key-98c659175b35129a9b267034ff4a97d3][^key-1d2574bc7a55b597e6818d8bc385bd8b]
+### 6. Annulment of Convention adoptions etc.[^c-98c659175b35129a9b267034ff4a97d3][^c-1d2574bc7a55b597e6818d8bc385bd8b]
 
-(1)[^key-02de4c11972e856d86826b0783690cca] For subsection (1) of section 53 of the 1976 Act (annulment *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca] etc. *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca] of overseas adoptions) there shall be substituted— *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca]
+(1)[^c-02de4c11972e856d86826b0783690cca] For subsection (1) of section 53 of the 1976 Act (annulment *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca] etc. *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca] of overseas adoptions) there shall be substituted— *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca]
 
-> (1) The High Court may, on an application under this subsection, by order annul a Convention adoption or a Convention adoption order on the ground that the adoption or order is contrary to public policy. *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca]
+> (1) The High Court may, on an application under this subsection, by order annul a Convention adoption or a Convention adoption order on the ground that the adoption or order is contrary to public policy. *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca]
 
 ;
 
-and the same amendment shall be made to section 47 of the 1978 Act (corresponding provision for Scotland) except that for “the High Court” there shall substituted *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca] “ the Court of Session ” *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca].
+and the same amendment shall be made to section 47 of the 1978 Act (corresponding provision for Scotland) except that for “the High Court” there shall substituted *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca] “ the Court of Session ” *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca].
 
-(2) In subsection (5) of each of those sections, after “validity of” there shall be inserted *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca] “ a Convention adoption, a Convention adoption order, ” *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca].
+(2) In subsection (5) of each of those sections, after “validity of” there shall be inserted *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca] “ a Convention adoption, a Convention adoption order, ” *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca].
 
-(3) In subsection (4) of section 54 of the 1976 Act (provisions supplementary to sections 52(3) and 53), and in subsection (4) of section 48 of the 1978 Act (provisions supplementary to sections 46(2) and 47), the definitions of “notified provision” and “relevant time” shall cease to have effect. *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca]
+(3) In subsection (4) of section 54 of the 1976 Act (provisions supplementary to sections 52(3) and 53), and in subsection (4) of section 48 of the 1978 Act (provisions supplementary to sections 46(2) and 47), the definitions of “notified provision” and “relevant time” shall cease to have effect. *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca]
 
-(4) For subsection (1) of section 59 of the 1976 Act (effect of determinations and orders made in Scotland and overseas in adoption proceedings) there shall be substituted— *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca]
+(4) For subsection (1) of section 59 of the 1976 Act (effect of determinations and orders made in Scotland and overseas in adoption proceedings) there shall be substituted— *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca]
 
-> (1) Where— *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca]
+> (1) Where— *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca]
 >
-> - (a) an authority of a Convention country (other than the United Kingdom) having power under the law of that country— *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca]
->   - (i) to authorise, or review the authorisation of, a Convention adoption; or *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca]
->   - (ii (affected by repeal, see note))[^key-02de4c11972e856d86826b0783690cca] to give or review a decision revoking or annulling such an adoption or a Convention adoption order; or *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca]
-> - (b) an authority of any of the Channel Islands, the Isle of Man or any colony having power under the law of that territory— *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca]
->   - (i) to authorise, or review the authorisation of, a Convention adoption or an adoption effected in that territory; or *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca]
->   - (ii (affected by repeal, see note))[^key-02de4c11972e856d86826b0783690cca] to give or review a decision revoking or annulling such an adoption or a Convention adoption order, *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca]
+> - (a) an authority of a Convention country (other than the United Kingdom) having power under the law of that country— *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca]
+>   - (i) to authorise, or review the authorisation of, a Convention adoption; or *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca]
+>   - (ii (affected by repeal, see note))[^c-02de4c11972e856d86826b0783690cca] to give or review a decision revoking or annulling such an adoption or a Convention adoption order; or *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca]
+> - (b) an authority of any of the Channel Islands, the Isle of Man or any colony having power under the law of that territory— *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca]
+>   - (i) to authorise, or review the authorisation of, a Convention adoption or an adoption effected in that territory; or *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca]
+>   - (ii (affected by repeal, see note))[^c-02de4c11972e856d86826b0783690cca] to give or review a decision revoking or annulling such an adoption or a Convention adoption order, *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca]
 >
->   makes a determination in the exercise of that power, then, subject to section 53 and any subsequent determination having effect under this subsection, the determination shall have effect in England and Wales for the purpose of effecting, confirming or terminating the adoption in question or confirming its termination as the case may be. *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca]
+>   makes a determination in the exercise of that power, then, subject to section 53 and any subsequent determination having effect under this subsection, the determination shall have effect in England and Wales for the purpose of effecting, confirming or terminating the adoption in question or confirming its termination as the case may be. *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca]
 
 ;
 
-and the same amendment shall be made to section 53 of the 1978 Act (effect of determinations and orders made in England and Wales and overseas in adoption proceedings) except that for “section 53” there shall be substituted *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca] “ section 47 ” *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca] and for “England and Wales” there shall be substituted *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca] “ Scotland ” *(affected by repeal, see note)*[^key-02de4c11972e856d86826b0783690cca].
+and the same amendment shall be made to section 53 of the 1978 Act (effect of determinations and orders made in England and Wales and overseas in adoption proceedings) except that for “section 53” there shall be substituted *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca] “ section 47 ” *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca] and for “England and Wales” there shall be substituted *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca] “ Scotland ” *(affected by repeal, see note)*[^c-02de4c11972e856d86826b0783690cca].
 
-### 7. Acquisition of British citizenship by Convention adoptions.[^key-c7193ca217c6ed7007a670bc6777bfcc]
+### 7. Acquisition of British citizenship by Convention adoptions.[^c-c7193ca217c6ed7007a670bc6777bfcc]
 
 (1) For subsection (5) of section 1 of the [^c9537871]British Nationality Act 1981 (acquisition by birth or adoption) there shall be substituted—
 
@@ -202,17 +202,17 @@ and the same amendment shall be made to section 53 of the 1978 Act (effect of de
 
 (3) At the end of subsection (8) of that section there shall be inserted “ and in this section “Convention adoption” has the same meaning as in the [^c9537881]Adoption Act 1976 and the [^c9537891]Adoption (Scotland) Act 1978 ”.
 
-### 8. Meaning of “Convention adoption” and related expressions in 1976 and 1978 Acts.[^key-d1331f6099cee5fdd9255986e8341919][^key-57384b02a46101cb644d04aedaeab44d][^key-8c96ec0f68822bc6d5b3a1b2b5d03419]
+### 8. Meaning of “Convention adoption” and related expressions in 1976 and 1978 Acts.[^c-d1331f6099cee5fdd9255986e8341919][^c-57384b02a46101cb644d04aedaeab44d][^c-8c96ec0f68822bc6d5b3a1b2b5d03419]
 
-In subsection (1) of section 72 of the 1976 Act and section 65 of the 1978 Act (interpretation), for the definitions of “the Convention”, “Convention adoption order” and “Convention country” there shall be substituted— *(affected by repeal, see note)*[^key-42135837a1a317ec68138cb8b651eb38]
+In subsection (1) of section 72 of the 1976 Act and section 65 of the 1978 Act (interpretation), for the definitions of “the Convention”, “Convention adoption order” and “Convention country” there shall be substituted— *(affected by repeal, see note)*[^c-42135837a1a317ec68138cb8b651eb38]
 
-> “**the Convention *(affected by repeal, see note)*[^key-42135837a1a317ec68138cb8b651eb38]**” means the Convention on Protection of Children and Co-operation in respect of Intercountry Adoption, concluded at the Hague on 29th May 1993; *(affected by repeal, see note)*[^key-42135837a1a317ec68138cb8b651eb38]
+> “**the Convention *(affected by repeal, see note)*[^c-42135837a1a317ec68138cb8b651eb38]**” means the Convention on Protection of Children and Co-operation in respect of Intercountry Adoption, concluded at the Hague on 29th May 1993; *(affected by repeal, see note)*[^c-42135837a1a317ec68138cb8b651eb38]
 >
-> “**Convention adoption *(affected by repeal, see note)*[^key-42135837a1a317ec68138cb8b651eb38]**” means an adoption effected under the law of a Convention country outside the British Islands, and certified in pursuance of Article 23(1) of the Convention; *(affected by repeal, see note)*[^key-42135837a1a317ec68138cb8b651eb38]
+> “**Convention adoption *(affected by repeal, see note)*[^c-42135837a1a317ec68138cb8b651eb38]**” means an adoption effected under the law of a Convention country outside the British Islands, and certified in pursuance of Article 23(1) of the Convention; *(affected by repeal, see note)*[^c-42135837a1a317ec68138cb8b651eb38]
 >
-> “**Convention adoption order *(affected by repeal, see note)*[^key-42135837a1a317ec68138cb8b651eb38]**” means an adoption order made in accordance with section 17; *(affected by repeal, see note)*[^key-42135837a1a317ec68138cb8b651eb38]
+> “**Convention adoption order *(affected by repeal, see note)*[^c-42135837a1a317ec68138cb8b651eb38]**” means an adoption order made in accordance with section 17; *(affected by repeal, see note)*[^c-42135837a1a317ec68138cb8b651eb38]
 >
-> “**Convention country *(affected by repeal, see note)*[^key-42135837a1a317ec68138cb8b651eb38]**” means any country or territory in which the Convention is in force. *(affected by repeal, see note)*[^key-42135837a1a317ec68138cb8b651eb38]
+> “**Convention country *(affected by repeal, see note)*[^c-42135837a1a317ec68138cb8b651eb38]**” means any country or territory in which the Convention is in force. *(affected by repeal, see note)*[^c-42135837a1a317ec68138cb8b651eb38]
 
 ## Intercountry adoptions
 
@@ -220,86 +220,86 @@ In subsection (1) of section 72 of the 1976 Act and section 65 of the 1978 Act (
 
 ### 9. Adoption Service to include intercountry adoptions etc.[^c9537951]
 
-After subsection (3) of section 1 of the 1976 and 1978 Acts (establishment of Adoption Service) there shall be inserted— *(affected by repeal, see note)*[^key-fdb27fd68b9e0238b8bb71767aa540d6]
+After subsection (3) of section 1 of the 1976 and 1978 Acts (establishment of Adoption Service) there shall be inserted— *(affected by repeal, see note)*[^c-fdb27fd68b9e0238b8bb71767aa540d6]
 
-> (3A) In this Part, references to adoption are to the adoption of children, wherever they may be habitually resident, effected under the law of any country or territory, whether within or outside the British Islands. *(affected by repeal, see note)*[^key-fdb27fd68b9e0238b8bb71767aa540d6]
+> (3A) In this Part, references to adoption are to the adoption of children, wherever they may be habitually resident, effected under the law of any country or territory, whether within or outside the British Islands. *(affected by repeal, see note)*[^c-fdb27fd68b9e0238b8bb71767aa540d6]
 
-### 10. Approval of adoption societies to provide intercountry adoption services.[^key-6a08847cf89605858a4050ecace1fc29]
+### 10. Approval of adoption societies to provide intercountry adoption services.[^c-6a08847cf89605858a4050ecace1fc29]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Six months residence required for certain intercountry adoptions.[^key-65832a517872cd382ce67c99ed4822f7]
+### 11. Six months residence required for certain intercountry adoptions.[^c-65832a517872cd382ce67c99ed4822f7]
 
-After subsection (3) of section 13 of the 1976 and 1978 Acts (child to live with adopters before order is made) there shall be inserted— *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+After subsection (3) of section 13 of the 1976 and 1978 Acts (child to live with adopters before order is made) there shall be inserted— *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 
-> (4 (Extent: S) (affected by repeal, see note))[^key-5387cc495f0b1d866f831b31e0d3e3aa] In relation to— *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+> (4 (Extent: S) (affected by repeal, see note))[^c-5387cc495f0b1d866f831b31e0d3e3aa] In relation to— *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 >
-> - (a (Extent: S) (affected by repeal, see note))[^key-5387cc495f0b1d866f831b31e0d3e3aa] an adoption proposed to be effected by a Convention adoption order; or *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
-> - (b (Extent: S) (affected by repeal, see note))[^key-5387cc495f0b1d866f831b31e0d3e3aa] an adoption of a child habitually resident outside the British Islands which is proposed to be effected by an adoption order other than a Convention adoption order, *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+> - (a (Extent: S) (affected by repeal, see note))[^c-5387cc495f0b1d866f831b31e0d3e3aa] an adoption proposed to be effected by a Convention adoption order; or *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
+> - (b (Extent: S) (affected by repeal, see note))[^c-5387cc495f0b1d866f831b31e0d3e3aa] an adoption of a child habitually resident outside the British Islands which is proposed to be effected by an adoption order other than a Convention adoption order, *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 >
-> subsection (1) shall have effect as if the reference to the preceding 13 weeks were a reference to the preceding six months. *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+> subsection (1) shall have effect as if the reference to the preceding 13 weeks were a reference to the preceding six months. *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 
-### 12. Registration of certain intercountry adoptions.[^c9538001][^key-e029c967bccb0dea6802e6b75ab08674][^key-45d521de02a35725b54f4eb30f7ad7c0]
+### 12. Registration of certain intercountry adoptions.[^c9538001][^c-e029c967bccb0dea6802e6b75ab08674][^c-45d521de02a35725b54f4eb30f7ad7c0]
 
-(1 (Extent: S) (affected by repeal, see note))[^key-5387cc495f0b1d866f831b31e0d3e3aa] In subsection (1) of section 50 of the 1976 Act and section 45 of the 1978 Act (Adopted Children Register), for the words from “shall be made” to the end there shall be substituted *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+(1 (Extent: S) (affected by repeal, see note))[^c-5387cc495f0b1d866f831b31e0d3e3aa] In subsection (1) of section 50 of the 1976 Act and section 45 of the 1978 Act (Adopted Children Register), for the words from “shall be made” to the end there shall be substituted *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 
-> such entries as may be— *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+> such entries as may be— *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 >
-> - (a (Extent: S) (affected by repeal, see note))[^key-5387cc495f0b1d866f831b31e0d3e3aa] directed to be made in it by adoption orders, or *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
-> - (b (Extent: S) (affected by repeal, see note))[^key-5387cc495f0b1d866f831b31e0d3e3aa] required to be made under Schedule 1 to this Act, *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+> - (a (Extent: S) (affected by repeal, see note))[^c-5387cc495f0b1d866f831b31e0d3e3aa] directed to be made in it by adoption orders, or *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
+> - (b (Extent: S) (affected by repeal, see note))[^c-5387cc495f0b1d866f831b31e0d3e3aa] required to be made under Schedule 1 to this Act, *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 >
-> and no other entries, shall be made. *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+> and no other entries, shall be made. *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 
-(2 (Extent: S) (affected by repeal, see note))[^key-5387cc495f0b1d866f831b31e0d3e3aa] In paragraph 1 of Schedule 1 to the 1976 and 1978 Acts (registration of adoption orders), sub-paragraph (2) shall cease to have effect. *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+(2 (Extent: S) (affected by repeal, see note))[^c-5387cc495f0b1d866f831b31e0d3e3aa] In paragraph 1 of Schedule 1 to the 1976 and 1978 Acts (registration of adoption orders), sub-paragraph (2) shall cease to have effect. *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 
-(3 (Extent: S) (affected by repeal, see note))[^key-5387cc495f0b1d866f831b31e0d3e3aa] For paragraph 3 of Schedule 1 to the 1976 Act there shall be substituted— *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+(3 (Extent: S) (affected by repeal, see note))[^c-5387cc495f0b1d866f831b31e0d3e3aa] For paragraph 3 of Schedule 1 to the 1976 Act there shall be substituted— *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 
-> **3 (Extent: S) (affected by repeal, see note). Registration of foreign adoptions (Extent: S) (affected by repeal, see note)[^key-5387cc495f0b1d866f831b31e0d3e3aa][^key-5387cc495f0b1d866f831b31e0d3e3aa]**
+> **3 (Extent: S) (affected by repeal, see note). Registration of foreign adoptions (Extent: S) (affected by repeal, see note)[^c-5387cc495f0b1d866f831b31e0d3e3aa][^c-5387cc495f0b1d866f831b31e0d3e3aa]**
 >
-> (1 (Extent: S) (affected by repeal, see note))[^key-5387cc495f0b1d866f831b31e0d3e3aa] If the Registrar General is satisfied, on an application under this paragraph, that he has sufficient particulars relating to a child adopted under a registrable foreign adoption to enable an entry to be made in the Adopted Children Register for the child— *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+> (1 (Extent: S) (affected by repeal, see note))[^c-5387cc495f0b1d866f831b31e0d3e3aa] If the Registrar General is satisfied, on an application under this paragraph, that he has sufficient particulars relating to a child adopted under a registrable foreign adoption to enable an entry to be made in the Adopted Children Register for the child— *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 >
-> - (a (Extent: S) (affected by repeal, see note))[^key-5387cc495f0b1d866f831b31e0d3e3aa] he must make the entry accordingly, and *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
-> - (b (Extent: S) (affected by repeal, see note))[^key-5387cc495f0b1d866f831b31e0d3e3aa] if he is also satisfied that an entry in the Registers of Births relates to the child, he must secure that the entry in those Registers is marked “Adopted” or “Re-adopted”, as the case may be, followed by the name in brackets of the country in which the adoption was effected. *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+> - (a (Extent: S) (affected by repeal, see note))[^c-5387cc495f0b1d866f831b31e0d3e3aa] he must make the entry accordingly, and *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
+> - (b (Extent: S) (affected by repeal, see note))[^c-5387cc495f0b1d866f831b31e0d3e3aa] if he is also satisfied that an entry in the Registers of Births relates to the child, he must secure that the entry in those Registers is marked “Adopted” or “Re-adopted”, as the case may be, followed by the name in brackets of the country in which the adoption was effected. *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 >
-> (2 (Extent: S) (affected by repeal, see note))[^key-5387cc495f0b1d866f831b31e0d3e3aa] An entry made in the Adopted Children Register by virtue of this paragraph must be made in the specified form. *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+> (2 (Extent: S) (affected by repeal, see note))[^c-5387cc495f0b1d866f831b31e0d3e3aa] An entry made in the Adopted Children Register by virtue of this paragraph must be made in the specified form. *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 >
-> (3 (Extent: S) (affected by repeal, see note))[^key-5387cc495f0b1d866f831b31e0d3e3aa] An application under this paragraph must be made, in the specified manner, by a specified person and give the specified particulars. *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+> (3 (Extent: S) (affected by repeal, see note))[^c-5387cc495f0b1d866f831b31e0d3e3aa] An application under this paragraph must be made, in the specified manner, by a specified person and give the specified particulars. *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 >
-> (4 (Extent: S) (affected by repeal, see note))[^key-5387cc495f0b1d866f831b31e0d3e3aa] In this paragraph— *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+> (4 (Extent: S) (affected by repeal, see note))[^c-5387cc495f0b1d866f831b31e0d3e3aa] In this paragraph— *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 >
-> - “ *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]**registrable foreign adoption *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]**” means a Convention or overseas adoption which satisfies specified requirements; *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
-> - “ *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]**specified *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]**” means specified by regulations made by the Registrar General. *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+> - “ *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]**registrable foreign adoption *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]**” means a Convention or overseas adoption which satisfies specified requirements; *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
+> - “ *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]**specified *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]**” means specified by regulations made by the Registrar General. *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 
-; *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+; *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 
-and the same amendment shall be made to Schedule 1 to the 1978 Act (corresponding provision for Scotland) except that for “the Registrar General” (in both places) there shall be substituted *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa] “ the Registrar General for Scotland ” *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa], for “the Registers of Births” there shall be substituted *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa] “ the register of births ” *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa] and for “those Registers” there shall be substituted *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa] “ that register ” *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]. *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+and the same amendment shall be made to Schedule 1 to the 1978 Act (corresponding provision for Scotland) except that for “the Registrar General” (in both places) there shall be substituted *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa] “ the Registrar General for Scotland ” *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa], for “the Registers of Births” there shall be substituted *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa] “ the register of births ” *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa] and for “those Registers” there shall be substituted *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa] “ that register ” *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]. *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 
-(4 (Extent: S) (affected by repeal, see note))[^key-5387cc495f0b1d866f831b31e0d3e3aa] In paragraph 4(5)(a) of Schedule 1 to the 1976 Act and paragraph 4(4)(a) of Schedule 1 to the 1978 Act, after “that” there shall be inserted *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa] “ a Convention adoption, ” *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]. *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+(4 (Extent: S) (affected by repeal, see note))[^c-5387cc495f0b1d866f831b31e0d3e3aa] In paragraph 4(5)(a) of Schedule 1 to the 1976 Act and paragraph 4(4)(a) of Schedule 1 to the 1978 Act, after “that” there shall be inserted *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa] “ a Convention adoption, ” *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]. *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 
 ### 13. Construction of certain references in 1976 and 1978 Acts.[^c9538031]
 
-After subsection (3) of section 72 of the 1976 Act and section 65 of the 1978 Act (interpretation) there shall be inserted— *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+After subsection (3) of section 72 of the 1976 Act and section 65 of the 1978 Act (interpretation) there shall be inserted— *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 
-> (3A (Extent: S) (affected by repeal, see note))[^key-5387cc495f0b1d866f831b31e0d3e3aa] In this Act, in relation to the proposed adoption of a child resident outside the British Islands, references to arrangements for the adoption of a child include references to arrangements for an assessment for the purpose of indicating whether a person is suitable to adopt a child or not. *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+> (3A (Extent: S) (affected by repeal, see note))[^c-5387cc495f0b1d866f831b31e0d3e3aa] In this Act, in relation to the proposed adoption of a child resident outside the British Islands, references to arrangements for the adoption of a child include references to arrangements for an assessment for the purpose of indicating whether a person is suitable to adopt a child or not. *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 >
-> (3B (Extent: S) (affected by repeal, see note))[^key-5387cc495f0b1d866f831b31e0d3e3aa] In this Act, in relation to— *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+> (3B (Extent: S) (affected by repeal, see note))[^c-5387cc495f0b1d866f831b31e0d3e3aa] In this Act, in relation to— *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 >
-> - (a (Extent: S) (affected by repeal, see note))[^key-5387cc495f0b1d866f831b31e0d3e3aa] an adoption proposed to be effected by a Convention adoption order; or *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
-> - (b (Extent: S) (affected by repeal, see note))[^key-5387cc495f0b1d866f831b31e0d3e3aa] an adoption of a child habitually resident outside the British Islands which is proposed to be effected by an adoption order other than a Convention adoption order, *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+> - (a (Extent: S) (affected by repeal, see note))[^c-5387cc495f0b1d866f831b31e0d3e3aa] an adoption proposed to be effected by a Convention adoption order; or *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
+> - (b (Extent: S) (affected by repeal, see note))[^c-5387cc495f0b1d866f831b31e0d3e3aa] an adoption of a child habitually resident outside the British Islands which is proposed to be effected by an adoption order other than a Convention adoption order, *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 >
-> references to a child placed with any persons by an adoption agency include references to a child who, in pursuance of arrangements made by such an agency, has been adopted by or placed with those persons under the law of a country or territory outside the British Islands. *(Extent: S)* *(affected by repeal, see note)*[^key-5387cc495f0b1d866f831b31e0d3e3aa]
+> references to a child placed with any persons by an adoption agency include references to a child who, in pursuance of arrangements made by such an agency, has been adopted by or placed with those persons under the law of a country or territory outside the British Islands. *(Extent: S)* *(affected by repeal, see note)*[^c-5387cc495f0b1d866f831b31e0d3e3aa]
 
 ## Miscellaneous and supplemental
 
-### 14. Restriction on bringing children into the United Kingdom for adoption.[^key-45b5956018c84623668e815a72c897d3]
+### 14. Restriction on bringing children into the United Kingdom for adoption.[^c-45b5956018c84623668e815a72c897d3]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Amendments and repeals.[^key-42c038c11ef4a7087973268972d03501][^key-d453e9fde5900eccb767ccaa4934dd7a][^key-fcb47542106235d1aac15408f5b006e4]
+### 15. Amendments and repeals.[^c-42c038c11ef4a7087973268972d03501][^c-d453e9fde5900eccb767ccaa4934dd7a][^c-fcb47542106235d1aac15408f5b006e4]
 
 *Extent: E+W+S*
 
@@ -311,11 +311,11 @@ After subsection (3) of section 72 of the 1976 Act and section 65 of the 1978 Ac
 
 *Extent: E+W+S*
 
-(1)[^key-f193d1bc99b29b847ffefcffa571a5a8] Any function of the Secretary of State under section 1 or 18(3)[^key-a0359f664300a2c2f523c0901abdef28]... is exercisable only after consultation with the National Assembly for Wales.
+(1)[^c-f193d1bc99b29b847ffefcffa571a5a8] Any function of the Secretary of State under section 1 or 18(3)[^c-a0359f664300a2c2f523c0901abdef28]... is exercisable only after consultation with the National Assembly for Wales.
 
 (2) For the purposes of the [^c9538101]Scotland Act 1998, any provision of this Act which extends to Scotland is to be taken to be a pre-commencement enactment within the meaning of that Act.
 
-### 17. Savings for adoptions etc. under 1965 Convention.[^key-33210aabf495acd6c567cbc1d553a4a0][^key-076798de50c455968d3df0e896fd3581]
+### 17. Savings for adoptions etc. under 1965 Convention.[^c-33210aabf495acd6c567cbc1d553a4a0][^c-076798de50c455968d3df0e896fd3581]
 
 *Extent: E+W+S*
 
@@ -337,7 +337,7 @@ the 1976 and 1978 Acts shall have effect without the amendments made by sections
 
 (1) This Act may be cited as the Adoption (Intercountry Aspects) Act 1999.
 
-(2)[^key-e55f135b0544529960acfc25461a2f04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e55f135b0544529960acfc25461a2f04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c9538161] This Act, except this section, shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint and different days may be appointed for different purposes.
 
@@ -347,37 +347,37 @@ the 1976 and 1978 Acts shall have effect without the amendments made by sections
 
 SCHEDULES
 
-## SCHEDULE 1 — Convention on Protection of Children and Co-operation in respect of Intercountry Adoption[^key-3f2763b70d00a23dfc4ef9363467ff15][^key-e9267c8ce4f73368640c71380a75a076]
+## SCHEDULE 1 — Convention on Protection of Children and Co-operation in respect of Intercountry Adoption[^c-3f2763b70d00a23dfc4ef9363467ff15][^c-e9267c8ce4f73368640c71380a75a076]
 
 *Extent: E+W+S*
 
 Section 1.
 
-[^key-3f2763b70d00a23dfc4ef9363467ff15][^key-e9267c8ce4f73368640c71380a75a076]
+[^c-3f2763b70d00a23dfc4ef9363467ff15][^c-e9267c8ce4f73368640c71380a75a076]
 
 The States signatory to the present Convention.
 
-[^key-3f2763b70d00a23dfc4ef9363467ff15][^key-e9267c8ce4f73368640c71380a75a076]
+[^c-3f2763b70d00a23dfc4ef9363467ff15][^c-e9267c8ce4f73368640c71380a75a076]
 
 Recognizing that the child, for the full and harmonious development of his or her personality, should grow up in a family environment, in an atmosphere of happiness, love and understanding,
 
-[^key-3f2763b70d00a23dfc4ef9363467ff15][^key-e9267c8ce4f73368640c71380a75a076]
+[^c-3f2763b70d00a23dfc4ef9363467ff15][^c-e9267c8ce4f73368640c71380a75a076]
 
 Recalling that each State should take, as a matter of priority, appropriate measures to enable the child to remain in the care of his or her family of origin,
 
-[^key-3f2763b70d00a23dfc4ef9363467ff15][^key-e9267c8ce4f73368640c71380a75a076]
+[^c-3f2763b70d00a23dfc4ef9363467ff15][^c-e9267c8ce4f73368640c71380a75a076]
 
 Recognizing that intercountry adoption may offer the advantage of a permanent family to a child for whom a suitable family cannot be found in his or her State of origin,
 
-[^key-3f2763b70d00a23dfc4ef9363467ff15][^key-e9267c8ce4f73368640c71380a75a076]
+[^c-3f2763b70d00a23dfc4ef9363467ff15][^c-e9267c8ce4f73368640c71380a75a076]
 
 Convinced of the necessity to take measures to ensure that intercountry adoptions are made in the best interests of the child and with respect for his or her fundamental rights, and to prevent the abduction, the sale of, or traffic in children,
 
-[^key-3f2763b70d00a23dfc4ef9363467ff15][^key-e9267c8ce4f73368640c71380a75a076]
+[^c-3f2763b70d00a23dfc4ef9363467ff15][^c-e9267c8ce4f73368640c71380a75a076]
 
 Desiring to establish common provisions to this effect, taking into account the principles set forth in international instruments, in particular the United Nations Convention on the Rights of the Child, of 20 November 1989, and the United Nations Declaration on Social and Legal Principles relating to the Protection and Welfare of Children, with Special Reference to Foster Placement and Adoption Nationally and Internationally (General Assembly Resolution 41/85, of 3 December 1986),
 
-[^key-3f2763b70d00a23dfc4ef9363467ff15][^key-e9267c8ce4f73368640c71380a75a076]
+[^c-3f2763b70d00a23dfc4ef9363467ff15][^c-e9267c8ce4f73368640c71380a75a076]
 
 Have agreed upon the following provisions—
 
@@ -684,7 +684,7 @@ Section 15(1).
 
 *Extent: E+W+S*
 
-**1.**[^key-da0ad2f6b4d034a9b359b3db1d6fa54c] In Schedule 1 to the Local Authority and Social Services Act 1970 (enactments conferring functions assigned to social services committee), at the end there shall be inserted—
+**1.**[^c-da0ad2f6b4d034a9b359b3db1d6fa54c] In Schedule 1 to the Local Authority and Social Services Act 1970 (enactments conferring functions assigned to social services committee), at the end there shall be inserted—
 
 > |  |  |
 > | --- | --- |
@@ -692,16 +692,16 @@ Section 15(1).
 
 ### Immigration Act 1971 (c.77)
 
-**2.**[^key-afa5c5fef52577bc6c4ec401d7f801e3] In subsection (1) of section 33 of the Immigration Act 1971 (interpretation)—
+**2.**[^c-afa5c5fef52577bc6c4ec401d7f801e3] In subsection (1) of section 33 of the Immigration Act 1971 (interpretation)—
 
-- (a)[^key-9925467e672a45a3354a03df0b35a8dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9925467e672a45a3354a03df0b35a8dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the definition of “legally adopted”, after “Islands” there shall be inserted “ , under a Convention adoption ”.
 
 ### Adoption Act 1976 (c.36)
 
 *Extent: E+W+S*
 
-**3.**[^key-a28165b7b66827f2d5fc9a0ee4126fac] (1) In subsection (2) of section 14 of the 1976 Act (adoption by married couple), in paragraph (b), for “section 17 is” there shall be substituted “ the requirements of regulations under section 17 are ”.
+**3.**[^c-a28165b7b66827f2d5fc9a0ee4126fac] (1) In subsection (2) of section 14 of the 1976 Act (adoption by married couple), in paragraph (b), for “section 17 is” there shall be substituted “ the requirements of regulations under section 17 are ”.
 
 (2) In subsection (2) of section 15 of that Act (adoption by one person), in paragraph (b), for “section 17 is” there shall be substituted “ the requirements of regulations under section 17 are ”.
 
@@ -721,17 +721,17 @@ Section 15(1).
 
 *Extent: E+W+S*
 
-**4.**[^key-b68df5deaa44625d73857f4d91ade51a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b68df5deaa44625d73857f4d91ade51a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Family Law Act 1986 (c.55)
 
-**5.**[^key-163d77d7e798fa80d13b5e5a0e04b0fe] In subsection (1) of section 57 of the Family Law Act 1986 (declarations as to adoptions effected overseas), for paragraph (a) there shall be substituted—
+**5.**[^c-163d77d7e798fa80d13b5e5a0e04b0fe] In subsection (1) of section 57 of the Family Law Act 1986 (declarations as to adoptions effected overseas), for paragraph (a) there shall be substituted—
 
 > - (a) a Convention adoption as defined by subsection (1) of section 72 of the [^c9538201]Adoption Act 1976 or an overseas adoption as defined by subsection (2) of that section, or
 
 .
 
-## SCHEDULE 3 — Repeals[^key-d0ef241fccbe1206770c60aeb1797970][^key-6acd1a2cff16221c61457ef0433bc545]
+## SCHEDULE 3 — Repeals[^c-d0ef241fccbe1206770c60aeb1797970][^c-6acd1a2cff16221c61457ef0433bc545]
 
 *Extent: E+W+S*
 
@@ -746,51 +746,51 @@ Section 15(2).
 
 [^c9537671]: Commencement: S. 1 partly in force; s. 1 not in force at Royal Assent, see s. 18(3); s. 1 in force (S.) at 14.1.2003 by [S.S.I. 2002/562](https://www.legislation.gov.uk/ssi/2002/562), [art. 2(a)](https://www.legislation.gov.uk/ssi/2002/562/article/2/a)
 
-[^key-71e7a176d5dbbd44531e275983b60bac]: Commencement: S. 1 in force at 23.1.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2003/189/article/2/1/a)
+[^c-71e7a176d5dbbd44531e275983b60bac]: Commencement: S. 1 in force at 23.1.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2003/189/article/2/1/a)
 
 [^c9537681]: Modification: s. 1(1) applied (*prosp.*) by [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14), [ss. 46(7)(d)](https://www.legislation.gov.uk/ukpga/2000/14/section/46/7/d), [122](https://www.legislation.gov.uk/ukpga/2000/14/section/122)
 
-[^key-fd4a9e3f6125d4b3a98f6a4573efac2b]: Textual amendment: S. 1(7) added (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 2 para. 10](https://www.legislation.gov.uk/asp/2007/4/schedule/2/paragraph/10); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2) and s. 1(7) inserted (E.W.) (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/paragraph/4)
+[^c-fd4a9e3f6125d4b3a98f6a4573efac2b]: Textual amendment: S. 1(7) added (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 2 para. 10](https://www.legislation.gov.uk/asp/2007/4/schedule/2/paragraph/10); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2) and s. 1(7) inserted (E.W.) (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/paragraph/4)
 
-[^key-2e81c6c9373e9817db80563f2dc8a6e2]: Commencement: S. 2(1)(2)(4) in force at 1.6.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/a)
+[^c-2e81c6c9373e9817db80563f2dc8a6e2]: Commencement: S. 2(1)(2)(4) in force at 1.6.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/a)
 
-[^key-8040b3db376c259d1db039a4c85e53a5]: Commencement: S. 2(1)-(4) (6) in force at 1.6.2003 for S. by [S.S.I. 2003/121](https://www.legislation.gov.uk/ssi/2003/121), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/121/article/2/a)
+[^c-8040b3db376c259d1db039a4c85e53a5]: Commencement: S. 2(1)-(4) (6) in force at 1.6.2003 for S. by [S.S.I. 2003/121](https://www.legislation.gov.uk/ssi/2003/121), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/121/article/2/a)
 
-[^key-e8ef35784292f264d9b323bfc30c22e4]: Textual amendment: S. 2(2A) inserted (30.4.2003 for W., 1.6.2003 for E.) by [Care Standards Act 2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14), [s. 122](https://www.legislation.gov.uk/ukpga/2000/14/section/122), [Sch. 4 para. 27(a)](https://www.legislation.gov.uk/ukpga/2000/14/schedule/4/paragraph/27/a); [S.I. 2003/365](https://www.legislation.gov.uk/uksi/2003/365), [art. 3(6)(a)](https://www.legislation.gov.uk/uksi/2003/365/article/3/6/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2003/365/schedule)); [S.I. 2003/501](https://www.legislation.gov.uk/uksi/2003/501), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2003/501/article/2/3/a)
+[^c-e8ef35784292f264d9b323bfc30c22e4]: Textual amendment: S. 2(2A) inserted (30.4.2003 for W., 1.6.2003 for E.) by [Care Standards Act 2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14), [s. 122](https://www.legislation.gov.uk/ukpga/2000/14/section/122), [Sch. 4 para. 27(a)](https://www.legislation.gov.uk/ukpga/2000/14/schedule/4/paragraph/27/a); [S.I. 2003/365](https://www.legislation.gov.uk/uksi/2003/365), [art. 3(6)(a)](https://www.legislation.gov.uk/uksi/2003/365/article/3/6/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2003/365/schedule)); [S.I. 2003/501](https://www.legislation.gov.uk/uksi/2003/501), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2003/501/article/2/3/a)
 
-[^key-3907b76154f4f484875bb4f1bdfd38b7]: Textual amendment: Words in s. 2(2A) substituted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 97(a)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/97/a) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)
+[^c-3907b76154f4f484875bb4f1bdfd38b7]: Textual amendment: Words in s. 2(2A) substituted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 97(a)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/97/a) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)
 
-[^key-1393a957f468086d87f8b29dc24369cd]: Textual amendment: Word in s. 2(2A) substituted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 97(b)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/97/b) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)
+[^c-1393a957f468086d87f8b29dc24369cd]: Textual amendment: Word in s. 2(2A) substituted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 97(b)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/97/b) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)
 
-[^key-6a51b7f034dbc43a41234bff2093b46c]: Textual amendment: S. 2(2B) inserted (S.) (1.4.2004) by [Regulation of Care (Scotland) Act 2001 (asp 8)](https://www.legislation.gov.uk/asp/2001/8), [s. 81(2)](https://www.legislation.gov.uk/asp/2001/8/section/81/2), [sch. 3 para. 22(b)](https://www.legislation.gov.uk/asp/2001/8/schedule/3/paragraph/22/b); [S.S.I. 2004/100](https://www.legislation.gov.uk/ssi/2004/100), [art. 2(e)](https://www.legislation.gov.uk/ssi/2004/100/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/ssi/2004/100/article/3), [4](https://www.legislation.gov.uk/ssi/2004/100/article/4)) (as amended (30.9.2004) by [S.S.I. 2004/377](https://www.legislation.gov.uk/ssi/2004/377), art. 2)
+[^c-6a51b7f034dbc43a41234bff2093b46c]: Textual amendment: S. 2(2B) inserted (S.) (1.4.2004) by [Regulation of Care (Scotland) Act 2001 (asp 8)](https://www.legislation.gov.uk/asp/2001/8), [s. 81(2)](https://www.legislation.gov.uk/asp/2001/8/section/81/2), [sch. 3 para. 22(b)](https://www.legislation.gov.uk/asp/2001/8/schedule/3/paragraph/22/b); [S.S.I. 2004/100](https://www.legislation.gov.uk/ssi/2004/100), [art. 2(e)](https://www.legislation.gov.uk/ssi/2004/100/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/ssi/2004/100/article/3), [4](https://www.legislation.gov.uk/ssi/2004/100/article/4)) (as amended (30.9.2004) by [S.S.I. 2004/377](https://www.legislation.gov.uk/ssi/2004/377), art. 2)
 
-[^key-1d67e6400f67b18d891819f5841dc849]: Textual amendment: S. 2(5) substituted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 98](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/98) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)
+[^c-1d67e6400f67b18d891819f5841dc849]: Textual amendment: S. 2(5) substituted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 98](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/98) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)
 
-[^key-24145049bc18f814262ce975da58e2c7]: Textual amendment: S. 2(6) substituted (S.) (1.4.2004) by [Regulation of Care (Scotland) Act 2001 (asp 8)](https://www.legislation.gov.uk/asp/2001/8), [s. 81(2)](https://www.legislation.gov.uk/asp/2001/8/section/81/2), [sch. 3 para. 22(c)](https://www.legislation.gov.uk/asp/2001/8/schedule/3/paragraph/22/c); [S.S.I. 2004/100](https://www.legislation.gov.uk/ssi/2004/100), [art. 2(e)](https://www.legislation.gov.uk/ssi/2004/100/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/ssi/2004/100/article/3), [4](https://www.legislation.gov.uk/ssi/2004/100/article/4)) (as amended (30.9.2004) by [S.S.I. 2004/377](https://www.legislation.gov.uk/ssi/2004/377), art. 2)
+[^c-24145049bc18f814262ce975da58e2c7]: Textual amendment: S. 2(6) substituted (S.) (1.4.2004) by [Regulation of Care (Scotland) Act 2001 (asp 8)](https://www.legislation.gov.uk/asp/2001/8), [s. 81(2)](https://www.legislation.gov.uk/asp/2001/8/section/81/2), [sch. 3 para. 22(c)](https://www.legislation.gov.uk/asp/2001/8/schedule/3/paragraph/22/c); [S.S.I. 2004/100](https://www.legislation.gov.uk/ssi/2004/100), [art. 2(e)](https://www.legislation.gov.uk/ssi/2004/100/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/ssi/2004/100/article/3), [4](https://www.legislation.gov.uk/ssi/2004/100/article/4)) (as amended (30.9.2004) by [S.S.I. 2004/377](https://www.legislation.gov.uk/ssi/2004/377), art. 2)
 
-[^key-fa6577fd2ef79ce2d6bf0b1727e0903e]: Commencement: S. 3 in force at 23.1.2003 for specified purposes for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2003/189/article/2/1/b)
+[^c-fa6577fd2ef79ce2d6bf0b1727e0903e]: Commencement: S. 3 in force at 23.1.2003 for specified purposes for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2003/189/article/2/1/b)
 
-[^key-ee872b77e3be16d2402abe4b75490da7]: Commencement: S. 3 in force at 1.6.2003 for E.W. in so far as not already in force by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/b)
+[^c-ee872b77e3be16d2402abe4b75490da7]: Commencement: S. 3 in force at 1.6.2003 for E.W. in so far as not already in force by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/b)
 
-[^key-c6c4dbc58415c6d173e747d4b8d22658]: Commencement: S. 3 in force at 1.6.2003 for specified purposes for S. by [S.S.I. 2003/121](https://www.legislation.gov.uk/ssi/2003/121), [art. 2(b)](https://www.legislation.gov.uk/ssi/2003/121/article/2/b)
+[^c-c6c4dbc58415c6d173e747d4b8d22658]: Commencement: S. 3 in force at 1.6.2003 for specified purposes for S. by [S.S.I. 2003/121](https://www.legislation.gov.uk/ssi/2003/121), [art. 2(b)](https://www.legislation.gov.uk/ssi/2003/121/article/2/b)
 
-[^key-609541963ded1a3a730b9b7048c17beb]: Textual amendment: S. 3 ceases to have effect (30.12.2005) by virtue of [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 95](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/95) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o) and s. 3 also repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-609541963ded1a3a730b9b7048c17beb]: Textual amendment: S. 3 ceases to have effect (30.12.2005) by virtue of [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 95](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/95) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o) and s. 3 also repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-2d87d36e5763ea2d9b2eeb6f36ebe0b7]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/1999/18/section/4) in force at 1.6.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/c)
+[^c-2d87d36e5763ea2d9b2eeb6f36ebe0b7]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/1999/18/section/4) in force at 1.6.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/c)
 
 [^c9537851]: Marginal citation: [1986 c. 55](https://www.legislation.gov.uk/ukpga/1986/55).
 
-[^key-9b8da5a3d8e7426375f2c3b95ec1c82e]: Commencement: S. 5 in force at 1.6.2003 for S. by [S.S.I. 2003/121](https://www.legislation.gov.uk/ssi/2003/121), [art. 2(c)](https://www.legislation.gov.uk/ssi/2003/121/article/2/c)
+[^c-9b8da5a3d8e7426375f2c3b95ec1c82e]: Commencement: S. 5 in force at 1.6.2003 for S. by [S.S.I. 2003/121](https://www.legislation.gov.uk/ssi/2003/121), [art. 2(c)](https://www.legislation.gov.uk/ssi/2003/121/article/2/c)
 
-[^key-00f36e7a56f4d58462fbea7159ce267c]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1999/18/section/5) repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-00f36e7a56f4d58462fbea7159ce267c]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1999/18/section/5) repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-98c659175b35129a9b267034ff4a97d3]: Commencement: S. 6 in force at 1.6.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/d)
+[^c-98c659175b35129a9b267034ff4a97d3]: Commencement: S. 6 in force at 1.6.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/d)
 
-[^key-1d2574bc7a55b597e6818d8bc385bd8b]: Commencement: S. 6 in force at 1.6.2003 for specified purposes for S. by [S.S.I. 2003/121](https://www.legislation.gov.uk/ssi/2003/121), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/121/article/2/d)
+[^c-1d2574bc7a55b597e6818d8bc385bd8b]: Commencement: S. 6 in force at 1.6.2003 for specified purposes for S. by [S.S.I. 2003/121](https://www.legislation.gov.uk/ssi/2003/121), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/121/article/2/d)
 
-[^key-02de4c11972e856d86826b0783690cca]: Textual amendment: S. 6 ceases to have effect (30.12.2005) by virtue of [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 95](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/95) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o) and s. 6 also repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-02de4c11972e856d86826b0783690cca]: Textual amendment: S. 6 ceases to have effect (30.12.2005) by virtue of [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 95](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/95) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o) and s. 6 also repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-c7193ca217c6ed7007a670bc6777bfcc]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/1999/18/section/7) in force at 1.6.2003 by [S.I. 2003/362](https://www.legislation.gov.uk/uksi/2003/362), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/362/article/2/a)
+[^c-c7193ca217c6ed7007a670bc6777bfcc]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/1999/18/section/7) in force at 1.6.2003 by [S.I. 2003/362](https://www.legislation.gov.uk/uksi/2003/362), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/362/article/2/a)
 
 [^c9537871]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 
@@ -798,53 +798,53 @@ Section 15(2).
 
 [^c9537891]: Marginal citation: [1978 c. 28](https://www.legislation.gov.uk/ukpga/1978/28).
 
-[^key-d1331f6099cee5fdd9255986e8341919]: Commencement: S. 8 in force at 23.1.2003 for specified purposes for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2003/189/article/2/1/c)
+[^c-d1331f6099cee5fdd9255986e8341919]: Commencement: S. 8 in force at 23.1.2003 for specified purposes for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2003/189/article/2/1/c)
 
-[^key-57384b02a46101cb644d04aedaeab44d]: Commencement: S. 8 in force at 1.6.2003 for E.W. in so far as not already in force by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/e)
+[^c-57384b02a46101cb644d04aedaeab44d]: Commencement: S. 8 in force at 1.6.2003 for E.W. in so far as not already in force by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/e)
 
-[^key-8c96ec0f68822bc6d5b3a1b2b5d03419]: Commencement: S. 8 in force at 1.6.2003 for S. by [S.S.I. 2003/121](https://www.legislation.gov.uk/ssi/2003/121), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/121/article/2/e)
+[^c-8c96ec0f68822bc6d5b3a1b2b5d03419]: Commencement: S. 8 in force at 1.6.2003 for S. by [S.S.I. 2003/121](https://www.legislation.gov.uk/ssi/2003/121), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/121/article/2/e)
 
-[^key-42135837a1a317ec68138cb8b651eb38]: Textual amendment: S. 8 ceases to have effect (30.12.2005) by virtue of [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 95](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/95) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o) and s. 8 also repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-42135837a1a317ec68138cb8b651eb38]: Textual amendment: S. 8 ceases to have effect (30.12.2005) by virtue of [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 95](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/95) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o) and s. 8 also repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
 [^c9537951]: Commencement: S. 9 partly in force; s. 9 not in force at Royal Force; s. 9 in force for certain purposes at 30.4.2001 by [S.I. 2001/1279](https://www.legislation.gov.uk/uksi/2001/1279), [art. 2](https://www.legislation.gov.uk/uksi/2001/1279/article/2); s. 9 in force for certain purposes at 2.7.2001 by [S.S.I. 2001/235](https://www.legislation.gov.uk/ssi/2001/235), [art. 2](https://www.legislation.gov.uk/ssi/2001/235/article/2)
 
-[^key-fdb27fd68b9e0238b8bb71767aa540d6]: Textual amendment: S. 9 ceases to have effect (30.12.2005) by virtue of [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 95](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/95) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o) and s. 9 also repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-fdb27fd68b9e0238b8bb71767aa540d6]: Textual amendment: S. 9 ceases to have effect (30.12.2005) by virtue of [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 95](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/95) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o) and s. 9 also repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-6a08847cf89605858a4050ecace1fc29]: Textual amendment: S. 10 repealed (30.4.2003 for W., 1.6.2003 for E.) by [Care Standards Act 2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14), [s. 122](https://www.legislation.gov.uk/ukpga/2000/14/section/122), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/14/schedule/6); [S.I. 2003/365](https://www.legislation.gov.uk/uksi/2003/365), [art. 3(6)(b)](https://www.legislation.gov.uk/uksi/2003/365/article/3/6/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2003/365/schedule)); [S.I. 2003/501](https://www.legislation.gov.uk/uksi/2003/501), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2003/501/article/2/3/b)
+[^c-6a08847cf89605858a4050ecace1fc29]: Textual amendment: S. 10 repealed (30.4.2003 for W., 1.6.2003 for E.) by [Care Standards Act 2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14), [s. 122](https://www.legislation.gov.uk/ukpga/2000/14/section/122), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/14/schedule/6); [S.I. 2003/365](https://www.legislation.gov.uk/uksi/2003/365), [art. 3(6)(b)](https://www.legislation.gov.uk/uksi/2003/365/article/3/6/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2003/365/schedule)); [S.I. 2003/501](https://www.legislation.gov.uk/uksi/2003/501), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2003/501/article/2/3/b)
 
-[^key-65832a517872cd382ce67c99ed4822f7]: Commencement: S. 11 in force at 1.6.2003 for specified purposes for S. by [S.S.I. 2003/121](https://www.legislation.gov.uk/ssi/2003/121), [art. 2(f)](https://www.legislation.gov.uk/ssi/2003/121/article/2/f)
+[^c-65832a517872cd382ce67c99ed4822f7]: Commencement: S. 11 in force at 1.6.2003 for specified purposes for S. by [S.S.I. 2003/121](https://www.legislation.gov.uk/ssi/2003/121), [art. 2(f)](https://www.legislation.gov.uk/ssi/2003/121/article/2/f)
 
-[^key-5387cc495f0b1d866f831b31e0d3e3aa]: Textual amendment: Ss. 11-13 cease to have effect (30.12.2005) by virtue of [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 95](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/95) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o) and ss. 11-13 also repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-5387cc495f0b1d866f831b31e0d3e3aa]: Textual amendment: Ss. 11-13 cease to have effect (30.12.2005) by virtue of [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 95](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/95) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o) and ss. 11-13 also repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
 [^c9538001]: Commencement: S. 12 partly in force; s. 12 not in force at Royal Assent see s. 18(3); s. 12 in force (S.) for certain purposes at 14.1.2003 by [S.S.I. 2002/562](https://www.legislation.gov.uk/ssi/2002/562), [art. 2(b)](https://www.legislation.gov.uk/ssi/2002/562/article/2/b)
 
-[^key-e029c967bccb0dea6802e6b75ab08674]: Commencement: S. 12 in force at 23.1.2003 for specified purposes for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2003/189/article/2/1/b)
+[^c-e029c967bccb0dea6802e6b75ab08674]: Commencement: S. 12 in force at 23.1.2003 for specified purposes for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2003/189/article/2/1/b)
 
-[^key-45d521de02a35725b54f4eb30f7ad7c0]: Commencement: S. 12 in force at 1.6.2003 for E.W. in so far as not already in force by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/f)
+[^c-45d521de02a35725b54f4eb30f7ad7c0]: Commencement: S. 12 in force at 1.6.2003 for E.W. in so far as not already in force by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/f)
 
 [^c9538031]: Commencement: S. 13 partly in force; s. 13 not in force at Royal assent see s. 18(3); s. 13 in force (E.) at 31.1.2000 in so far as it inserts a new subsection (3A) in s. 72 of [1976 c.36](https://www.legislation.gov.uk/ukpga/1976/36) by [S.I. 2000/52](https://www.legislation.gov.uk/uksi/2000/52), [art.2](https://www.legislation.gov.uk/uksi/2000/52/article/2); s. 13 in force (S.) at 10.11.2000 insofar as it inserts a new subsection 3A in s. 65 of [1978 c. 28](https://www.legislation.gov.uk/ukpga/1978/28) by [S.I. 2000/390](https://www.legislation.gov.uk/uksi/2000/390), [art. 2](https://www.legislation.gov.uk/uksi/2000/390/article/2)
 
-[^key-45b5956018c84623668e815a72c897d3]: Textual amendment: S. 14 repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 100](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/100), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
+[^c-45b5956018c84623668e815a72c897d3]: Textual amendment: S. 14 repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 100](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/100), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
 
-[^key-42c038c11ef4a7087973268972d03501]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/1999/18/section/15) in force at 1.6.2003 for specified purposes for S. by [S.S.I. 2003/121](https://www.legislation.gov.uk/ssi/2003/121), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/121/article/2/g)
+[^c-42c038c11ef4a7087973268972d03501]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/1999/18/section/15) in force at 1.6.2003 for specified purposes for S. by [S.S.I. 2003/121](https://www.legislation.gov.uk/ssi/2003/121), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/121/article/2/g)
 
-[^key-d453e9fde5900eccb767ccaa4934dd7a]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/1999/18/section/15) in force at 1.6.2003 for specified purposes by [S.I. 2003/362](https://www.legislation.gov.uk/uksi/2003/362), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/362/article/2/b)
+[^c-d453e9fde5900eccb767ccaa4934dd7a]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/1999/18/section/15) in force at 1.6.2003 for specified purposes by [S.I. 2003/362](https://www.legislation.gov.uk/uksi/2003/362), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/362/article/2/b)
 
-[^key-fcb47542106235d1aac15408f5b006e4]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/1999/18/section/15) in force at 1.6.2003 for specified purposes for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/h/i)
+[^c-fcb47542106235d1aac15408f5b006e4]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/1999/18/section/15) in force at 1.6.2003 for specified purposes for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/h/i)
 
 [^c9538091]: Commencement: S. 16 partly in force; s. 16 not in force at Royal assent see s. 18(3); s. 16(2) in force at 16.10.2000 by [S.I. 2000/2821](https://www.legislation.gov.uk/uksi/2000/2821), [art. 2](https://www.legislation.gov.uk/uksi/2000/2821/article/2)
 
-[^key-f193d1bc99b29b847ffefcffa571a5a8]: Commencement: S. 16(1) in force at 23.1.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2003/189/article/2/1/a)
+[^c-f193d1bc99b29b847ffefcffa571a5a8]: Commencement: S. 16(1) in force at 23.1.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2003/189/article/2/1/a)
 
-[^key-a0359f664300a2c2f523c0901abdef28]: Textual amendment: Words in[s. 16(1)](https://www.legislation.gov.uk/ukpga/1999/18/section/16/1) repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 101](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/101), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)
+[^c-a0359f664300a2c2f523c0901abdef28]: Textual amendment: Words in[s. 16(1)](https://www.legislation.gov.uk/ukpga/1999/18/section/16/1) repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 101](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/101), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)
 
 [^c9538101]: Marginal citation: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-33210aabf495acd6c567cbc1d553a4a0]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/1999/18/section/17) in force at 1.6.2003 for specified purposes for S. by [S.S.I. 2003/121](https://www.legislation.gov.uk/ssi/2003/121), [art. 2(k)](https://www.legislation.gov.uk/ssi/2003/121/article/2/k)
+[^c-33210aabf495acd6c567cbc1d553a4a0]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/1999/18/section/17) in force at 1.6.2003 for specified purposes for S. by [S.S.I. 2003/121](https://www.legislation.gov.uk/ssi/2003/121), [art. 2(k)](https://www.legislation.gov.uk/ssi/2003/121/article/2/k)
 
-[^key-076798de50c455968d3df0e896fd3581]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/1999/18/section/17) in force at 1.6.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/g)
+[^c-076798de50c455968d3df0e896fd3581]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/1999/18/section/17) in force at 1.6.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/g)
 
-[^key-e55f135b0544529960acfc25461a2f04]: Textual amendment: S. 18(2) repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2) and s. 18(2) repealed (E.W.) (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/part/3)
+[^c-e55f135b0544529960acfc25461a2f04]: Textual amendment: S. 18(2) repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2) and s. 18(2) repealed (E.W.) (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/part/3)
 
 [^c9538161]: Subordinate legislation: S. 18(3): power partly exercised: 31.1.2000 appointed for specified provision by [S.I. 2000/52](https://www.legislation.gov.uk/uksi/2000/52), [art. 2](https://www.legislation.gov.uk/uksi/2000/52/article/2)
 
@@ -854,24 +854,24 @@ Section 15(2).
 
     S. 18(3):power partly exercised: 14.1.2003 appointed (S.) for specified provisions by [S.S.I. 2002/562](https://www.legislation.gov.uk/ssi/2002/562), [art. 2](https://www.legislation.gov.uk/ssi/2002/562/article/2)
 
-[^key-3f2763b70d00a23dfc4ef9363467ff15]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/1999/18/schedule/1) in force at 23.1.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2003/189/article/2/1/a)
+[^c-3f2763b70d00a23dfc4ef9363467ff15]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/1999/18/schedule/1) in force at 23.1.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2003/189/article/2/1/a)
 
-[^key-e9267c8ce4f73368640c71380a75a076]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/1999/18/schedule/1) in force at 1.6.2003 for S. by [S.S.I. 2003/121](https://www.legislation.gov.uk/ssi/2003/121), [art. 2(h)](https://www.legislation.gov.uk/ssi/2003/121/article/2/h)
+[^c-e9267c8ce4f73368640c71380a75a076]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/1999/18/schedule/1) in force at 1.6.2003 for S. by [S.S.I. 2003/121](https://www.legislation.gov.uk/ssi/2003/121), [art. 2(h)](https://www.legislation.gov.uk/ssi/2003/121/article/2/h)
 
-[^key-da0ad2f6b4d034a9b359b3db1d6fa54c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1999/18/schedule/2/paragraph/1) in force at 1.6.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/h)
+[^c-da0ad2f6b4d034a9b359b3db1d6fa54c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1999/18/schedule/2/paragraph/1) in force at 1.6.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/h)
 
-[^key-afa5c5fef52577bc6c4ec401d7f801e3]: Commencement: Sch. 2 para. 2 in force at 1.6.2003 by [S.I. 2003/362](https://www.legislation.gov.uk/uksi/2003/362), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/362/article/2/b)
+[^c-afa5c5fef52577bc6c4ec401d7f801e3]: Commencement: Sch. 2 para. 2 in force at 1.6.2003 by [S.I. 2003/362](https://www.legislation.gov.uk/uksi/2003/362), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/362/article/2/b)
 
-[^key-9925467e672a45a3354a03df0b35a8dd]: Textual amendment: Sch. 2 para. 2(a) repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2) and Sch. 2 para. 2(a) repealed (E.W.NI) (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/part/3)
+[^c-9925467e672a45a3354a03df0b35a8dd]: Textual amendment: Sch. 2 para. 2(a) repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2) and Sch. 2 para. 2(a) repealed (E.W.NI) (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/part/3)
 
-[^key-a28165b7b66827f2d5fc9a0ee4126fac]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1999/18/schedule/2/paragraph/3) in force at 1.6.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/h)
+[^c-a28165b7b66827f2d5fc9a0ee4126fac]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1999/18/schedule/2/paragraph/3) in force at 1.6.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/h)
 
-[^key-b68df5deaa44625d73857f4d91ade51a]: Textual amendment: Sch. 2 para. 4 repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2) and Sch. 2 para. 4 repealed (E.W.) (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/part/3)
+[^c-b68df5deaa44625d73857f4d91ade51a]: Textual amendment: Sch. 2 para. 4 repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2) and Sch. 2 para. 4 repealed (E.W.) (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/part/3)
 
-[^key-163d77d7e798fa80d13b5e5a0e04b0fe]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1999/18/schedule/2/paragraph/5) in force at 1.6.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/h)
+[^c-163d77d7e798fa80d13b5e5a0e04b0fe]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1999/18/schedule/2/paragraph/5) in force at 1.6.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/h)
 
 [^c9538201]: Marginal citation: [1976 c. 36](https://www.legislation.gov.uk/ukpga/1976/36).
 
-[^key-d0ef241fccbe1206770c60aeb1797970]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/18/schedule/3) in force at 1.6.2003 for specified purposes for S. by [S.S.I. 2003/121](https://www.legislation.gov.uk/ssi/2003/121), [art. 2(j)](https://www.legislation.gov.uk/ssi/2003/121/article/2/j)
+[^c-d0ef241fccbe1206770c60aeb1797970]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/18/schedule/3) in force at 1.6.2003 for specified purposes for S. by [S.S.I. 2003/121](https://www.legislation.gov.uk/ssi/2003/121), [art. 2(j)](https://www.legislation.gov.uk/ssi/2003/121/article/2/j)
 
-[^key-6acd1a2cff16221c61457ef0433bc545]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/18/schedule/3) in force at 1.6.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/i)
+[^c-6acd1a2cff16221c61457ef0433bc545]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/18/schedule/3) in force at 1.6.2003 for E.W. by [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/i)

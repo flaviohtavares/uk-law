@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61Z. Wales: requirement to carry out pre-application consultation[^key-9809182a181039f924d086d6603815e3]
+## 61Z. Wales: requirement to carry out pre-application consultation[^c-9809182a181039f924d086d6603815e3]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9809182a181039f924d086d6603815e3]: Textual amendment: S. 61Z and cross-heading inserted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 17(2)](https://www.legislation.gov.uk/anaw/2015/4/section/17/2), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/52/article/2/a) (with [art. 6](https://www.legislation.gov.uk/wsi/2016/52/article/6))
+[^c-9809182a181039f924d086d6603815e3]: Textual amendment: S. 61Z and cross-heading inserted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 17(2)](https://www.legislation.gov.uk/anaw/2015/4/section/17/2), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/52/article/2/a) (with [art. 6](https://www.legislation.gov.uk/wsi/2016/52/article/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Scottish Further and Higher Education Funding Council[^key-efc0f0cebb098b1c553280f0937c6aca]
+## 1. Scottish Further and Higher Education Funding Council[^c-efc0f0cebb098b1c553280f0937c6aca]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efc0f0cebb098b1c553280f0937c6aca]: Commencement: S. 1 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-efc0f0cebb098b1c553280f0937c6aca]: Commencement: S. 1 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)

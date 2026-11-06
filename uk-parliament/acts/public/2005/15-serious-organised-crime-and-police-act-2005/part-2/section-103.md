@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Money laundering: threshold amounts[^key-d1b4b3e1a1df48f33e9c8df1bbabd887]
+## 103. Money laundering: threshold amounts[^c-d1b4b3e1a1df48f33e9c8df1bbabd887]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1b4b3e1a1df48f33e9c8df1bbabd887]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2005/15/section/103) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/c)
+[^c-d1b4b3e1a1df48f33e9c8df1bbabd887]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2005/15/section/103) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/c)

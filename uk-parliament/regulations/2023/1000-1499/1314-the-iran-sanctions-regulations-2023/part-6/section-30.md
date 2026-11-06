@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Making restricted goods and restricted technology available[^key-bf9fc21e09f4e470315222db716f8793]
+## 30. Making restricted goods and restricted technology available[^c-bf9fc21e09f4e470315222db716f8793]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf9fc21e09f4e470315222db716f8793]: Commencement: Reg. 30 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-bf9fc21e09f4e470315222db716f8793]: Commencement: Reg. 30 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

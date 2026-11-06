@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Initial action in respect of allegations[^key-7bbe54d424f7361b76e3b3f132587f10][^key-94d6d1f1a46be457dff0b958163429d7]
+## 52. Initial action in respect of allegations[^c-7bbe54d424f7361b76e3b3f132587f10][^c-94d6d1f1a46be457dff0b958163429d7]
 
 *Extent: E+W+S*
 
@@ -66,8 +66,8 @@ the Registrar must notify the Committee accordingly.
 
 ## Annotations
 
-[^key-7bbe54d424f7361b76e3b3f132587f10]: Commencement: Art. 52 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-7bbe54d424f7361b76e3b3f132587f10]: Commencement: Art. 52 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-94d6d1f1a46be457dff0b958163429d7]: Commencement: [Art. 52](https://www.legislation.gov.uk/uksi/2010/231/article/52) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-94d6d1f1a46be457dff0b958163429d7]: Commencement: [Art. 52](https://www.legislation.gov.uk/uksi/2010/231/article/52) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00049]: Footnote: [S.I.1976/1213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1976/1213).

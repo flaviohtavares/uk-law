@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32.9. Witness summaries[^key-c6271eb0cd1efe7d0226fde7f50d0b42]
+## 32.9. Witness summaries[^c-c6271eb0cd1efe7d0226fde7f50d0b42]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ may apply, without notice, for permission to serve a witness summary instead.
 
 ## Annotations
 
-[^key-c6271eb0cd1efe7d0226fde7f50d0b42]: Commencement: [Rule 32.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.9) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-c6271eb0cd1efe7d0226fde7f50d0b42]: Commencement: [Rule 32.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.9) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

@@ -44,7 +44,7 @@ The Department for the Economy[^f00001], in exercise of the powers conferred on 
 
 The Department has consulted with the Northern Ireland Authority for Utility Regulation in accordance with Article 59(1) of the Energy Order and has given notice in accordance with Article 59(4) of that Order and has considered any representations or objections which are duly made and not withdrawn.
 
-## 1. Citation, commencement and interpretation[^key-9c75738016453a7eb5fc6dc306fe5121]
+## 1. Citation, commencement and interpretation[^c-9c75738016453a7eb5fc6dc306fe5121]
 
 (1) This Order may be cited as the Gas (Designation of Pipe-lines) Order (Northern Ireland) 2022 and shall come into operation on 2nd November 2022.
 
@@ -55,11 +55,11 @@ The Department has consulted with the Northern Ireland Authority for Utility Reg
 - “**the Gas Order**” means the Gas (Northern Ireland) Order 1996[^f00003]; and
 - “**the Insolvency Order**” means the Insolvency (Northern Ireland) Order 1989[^f00004]
 
-## 2. Designated pipe-line[^key-49017c3c516b8c48bb1fca82542d60c8]
+## 2. Designated pipe-line[^c-49017c3c516b8c48bb1fca82542d60c8]
 
 The pipe-line specified in column (1) of the Schedule, being a high pressure pipe-line, is hereby designated as a pipe-line to which Article 60 of the Energy Order applies for the period beginning on and including the date of commencement of this Order and ending on the date specified opposite thereto in column (2) of the Schedule.
 
-## 3. Cessation of designation[^key-68e53d6aba3ee733250ca112ab159a69]
+## 3. Cessation of designation[^c-68e53d6aba3ee733250ca112ab159a69]
 
 (1) This Order shall, subject to paragraph (2), cease to have effect where—
 
@@ -88,7 +88,7 @@ A senior officer of the
 
 Department for the Economy
 
-## SCHEDULE[^key-e48bd0a0c60a1fc799a4dace3b5f24b9]
+## SCHEDULE[^c-e48bd0a0c60a1fc799a4dace3b5f24b9]
 
 | Description of the pipe-line | Date designation ending |
 | --- | --- |
@@ -112,16 +112,16 @@ The pipe-line in the Schedule is designated from the date of coming into operati
 
 [^f00002]: Footnote: [S.I. 2003/419 (N.I. 6)](https://www.legislation.gov.uk/nisi/2003/419)
 
-[^key-9c75738016453a7eb5fc6dc306fe5121]: Commencement: Art. 1 in operation at 2.11.2022, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/248/article/1/1)
+[^c-9c75738016453a7eb5fc6dc306fe5121]: Commencement: Art. 1 in operation at 2.11.2022, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/248/article/1/1)
 
 [^f00003]: Footnote: [S.I. 1996/275 (N.I. 2)](https://www.legislation.gov.uk/nisi/1996/275) as amended by Article 65 of, and paragraph 26 of Schedule 3 to, the Energy Order, together with other amendments which are not relevant
 
 [^f00004]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
-[^key-49017c3c516b8c48bb1fca82542d60c8]: Commencement: Art. 2 in operation at 2.11.2022, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/248/article/1/1)
+[^c-49017c3c516b8c48bb1fca82542d60c8]: Commencement: Art. 2 in operation at 2.11.2022, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/248/article/1/1)
 
-[^key-68e53d6aba3ee733250ca112ab159a69]: Commencement: Art. 3 in operation at 2.11.2022, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/248/article/1/1)
+[^c-68e53d6aba3ee733250ca112ab159a69]: Commencement: Art. 3 in operation at 2.11.2022, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/248/article/1/1)
 
 [^f00005]: Footnote: [2011 c. 6 (N.I.)](https://www.legislation.gov.uk/nia/2011/6)
 
-[^key-e48bd0a0c60a1fc799a4dace3b5f24b9]: Commencement: Sch. in operation at 2.11.2022, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/248/article/1/1)
+[^c-e48bd0a0c60a1fc799a4dace3b5f24b9]: Commencement: Sch. in operation at 2.11.2022, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/248/article/1/1)

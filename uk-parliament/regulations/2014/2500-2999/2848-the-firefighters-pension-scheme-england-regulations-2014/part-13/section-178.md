@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Payment on behalf of members of lifetime allowance charge[^key-43e7f544a9de017b36482734b54bba37]
+## 178. Payment on behalf of members of lifetime allowance charge[^c-43e7f544a9de017b36482734b54bba37]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ when—
 
 ## Annotations
 
-[^key-43e7f544a9de017b36482734b54bba37]: Commencement: [Reg. 178](https://www.legislation.gov.uk/uksi/2014/2848/regulation/178) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-43e7f544a9de017b36482734b54bba37]: Commencement: [Reg. 178](https://www.legislation.gov.uk/uksi/2014/2848/regulation/178) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 205. Fees for Accountant in Bankruptcy[^key-8cfe8bae4b8188b1212db2613ec313fe]
+## 205. Fees for Accountant in Bankruptcy[^c-8cfe8bae4b8188b1212db2613ec313fe]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8cfe8bae4b8188b1212db2613ec313fe]: Commencement: [S. 205](https://www.legislation.gov.uk/asp/2016/21/section/205) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-8cfe8bae4b8188b1212db2613ec313fe]: Commencement: [S. 205](https://www.legislation.gov.uk/asp/2016/21/section/205) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -40,7 +40,7 @@ Coming into operation in accordance with article 1(2) and (3)
 
 The Department of Finance makes the following Order in exercise of the powers conferred by section 9(2) and (3) of the Public Service Pensions Act (Northern Ireland) 2014[^f00001].
 
-## 1. Citation, commencement, and extent[^key-e04cd42bc7e0654f7f77db3aeafafde4]
+## 1. Citation, commencement, and extent[^c-e04cd42bc7e0654f7f77db3aeafafde4]
 
 (1) This Order may be cited as the Public Service Pensions Revaluation Order (Northern Ireland) 2025.
 
@@ -53,7 +53,7 @@ The Department of Finance makes the following Order in exercise of the powers co
   - (ii) The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^f00003].
 - (b) for all other purposes on 1st April 2025.
 
-## 2. Revaluation by reference to change in prices or earnings[^key-11401400cc77904e813b617aae5361af][^key-35bb371992e32493ac8869a15529c210]
+## 2. Revaluation by reference to change in prices or earnings[^c-11401400cc77904e813b617aae5361af][^c-35bb371992e32493ac8869a15529c210]
 
 For the purposes of section 9(2) of the Public Service Pensions Act (Northern Ireland) 2014 (revaluation), in relation to the period beginning with 1st April 2024 and ending with 31st March 2025—
 
@@ -84,12 +84,12 @@ This Order comes into operation on 1st April 2025 but, for the schemes specified
 
 [^f00001]: Footnote: [2014 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2014/2)
 
-[^key-e04cd42bc7e0654f7f77db3aeafafde4]: Commencement: Art. 1 in operation at 1.4.2025, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2025/55/article/1/2)
+[^c-e04cd42bc7e0654f7f77db3aeafafde4]: Commencement: Art. 1 in operation at 1.4.2025, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2025/55/article/1/2)
 
 [^f00002]: Footnote: [S.R. 2014/188](https://www.legislation.gov.uk/nisr/2014/188).
 
 [^f00003]: Footnote: [S.R. 2015/120](https://www.legislation.gov.uk/nisr/2015/120).
 
-[^key-11401400cc77904e813b617aae5361af]: Commencement: Art. 2 in operation at 1.4.2025 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/nisr/2025/55/article/1/3/b)
+[^c-11401400cc77904e813b617aae5361af]: Commencement: Art. 2 in operation at 1.4.2025 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/nisr/2025/55/article/1/3/b)
 
-[^key-35bb371992e32493ac8869a15529c210]: Commencement: Art. 2 in operation at 6.4.2025 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/nisr/2025/55/article/1/3/a)
+[^c-35bb371992e32493ac8869a15529c210]: Commencement: Art. 2 in operation at 6.4.2025 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/nisr/2025/55/article/1/3/a)

@@ -31,7 +31,7 @@ Key to Schedule 3
 | NS | Narrowing of street by setting forward of kerb line |
 | FA | Footpath alterations |
 
-### PART 1 — HIGHWAYS SUBJECT TO ALTERATION OF LAYOUT[^key-66f74afb2af6d2f023ace3ee69b72030]
+### PART 1 — HIGHWAYS SUBJECT TO ALTERATION OF LAYOUT[^c-66f74afb2af6d2f023ace3ee69b72030]
 
 <table>
 <thead>
@@ -45,7 +45,7 @@ Key to Schedule 3
 </tbody>
 </table>
 
-### PART 2 — FOOTPATH SUBJECT TO ALTERATION OF LAYOUT[^key-bdd5f5d13bb31b99c9521f867795c55d]
+### PART 2 — FOOTPATH SUBJECT TO ALTERATION OF LAYOUT[^c-bdd5f5d13bb31b99c9521f867795c55d]
 
 <table>
 <thead>
@@ -59,6 +59,6 @@ Key to Schedule 3
 
 ## Annotations
 
-[^key-66f74afb2af6d2f023ace3ee69b72030]: Commencement: Sch. 3 Pt. 1 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-66f74afb2af6d2f023ace3ee69b72030]: Commencement: Sch. 3 Pt. 1 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
 
-[^key-bdd5f5d13bb31b99c9521f867795c55d]: Commencement: Sch. 3 Pt. 2 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-bdd5f5d13bb31b99c9521f867795c55d]: Commencement: Sch. 3 Pt. 2 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

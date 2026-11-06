@@ -31,7 +31,7 @@ New Towns Act 1981
 
 [^c253110][^c253111][^c253112][^c253113][^c253114][^c253115][^c253116][^c253117][^c253118][^c253119][^c253120][^c253121][^c253122]An Act to consolidate certain enactments relating to new towns and connected matters, being (except for section 43 of the New Towns Act 1965 and sections 126 and 127 of the Local Government, Planning and Land Act 1980 and certain related provisions) enactments which apply only to England and Wales.
 
-\[30th October 1981\][^key-4d8033a8e9fd1820686d245c896f1956][^key-4ae413aad8427fa4ddec61294fbf6b8b]
+\[30th October 1981\][^c-4d8033a8e9fd1820686d245c896f1956][^c-4ae413aad8427fa4ddec61294fbf6b8b]
 
 ## Contents
 
@@ -63,11 +63,11 @@ New Towns Act 1981
 - [Section 8 — Features of special architectural or historic interest.](part-i/section-8.md)
 - [Section 9 — Frontages and abutments.](part-i/section-9.md)
 
-#### Transport functions relating to new towns in England[^key-c0e6aa967e0b30da7c75c288bd37ba09]
+#### Transport functions relating to new towns in England[^c-c0e6aa967e0b30da7c75c288bd37ba09]
 
 - [Section 9A — Exercise of transport functions](part-i/section-9a.md)
 
-#### Transfer schemes: general[^key-c0e6aa967e0b30da7c75c288bd37ba09]
+#### Transfer schemes: general[^c-c0e6aa967e0b30da7c75c288bd37ba09]
 
 - [Section 9B — Transfer schemes under sections 1 and 9A: general provisions](part-i/section-9b.md)
 
@@ -111,11 +111,11 @@ New Towns Act 1981
 - [Section 33 — New town may be united district for Public Health Acts.](part-i/section-33.md)
 - [Section 34 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-i/section-34.md)
 
-### Part II — Transfers from and dissolution of development corporations etc.[^key-3e32a4b32ee31e59c1ce6a3815938f42]
+### Part II — Transfers from and dissolution of development corporations etc.[^c-3e32a4b32ee31e59c1ce6a3815938f42]
 
 *Extent: E+W*
 
-#### Functions of Welsh Ministers in relation to certain transferred property[^key-f0187cd1edc343e1ec56ef20e7bb1211]
+#### Functions of Welsh Ministers in relation to certain transferred property[^c-f0187cd1edc343e1ec56ef20e7bb1211]
 
 *Extent: E+W*
 
@@ -251,15 +251,15 @@ SCHEDULES
 
     Act (except ss. 69(1), 78(3)(a)): transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-4d8033a8e9fd1820686d245c896f1956]: Modification: Act modified (E.) (24.7.2018) by [The New Towns Act 1981 (Local Authority Oversight) Regulations 2018 (S.I. 2018/891)](https://www.legislation.gov.uk/uksi/2018/891), [reg. 6](https://www.legislation.gov.uk/uksi/2018/891/regulation/6), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/891/schedule/1) (as amended (26.3.2026) by [S.I. 2026/170](https://www.legislation.gov.uk/uksi/2026/170), [reg. 23](https://www.legislation.gov.uk/uksi/2026/170/regulation/23))
+[^c-4d8033a8e9fd1820686d245c896f1956]: Modification: Act modified (E.) (24.7.2018) by [The New Towns Act 1981 (Local Authority Oversight) Regulations 2018 (S.I. 2018/891)](https://www.legislation.gov.uk/uksi/2018/891), [reg. 6](https://www.legislation.gov.uk/uksi/2018/891/regulation/6), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/891/schedule/1) (as amended (26.3.2026) by [S.I. 2026/170](https://www.legislation.gov.uk/uksi/2026/170), [reg. 23](https://www.legislation.gov.uk/uksi/2026/170/regulation/23))
 
-[^key-4ae413aad8427fa4ddec61294fbf6b8b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/64): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-4ae413aad8427fa4ddec61294fbf6b8b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/64): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-c0e6aa967e0b30da7c75c288bd37ba09]: Textual amendment: Ss. 9A, 9B and cross-headings inserted (17.6.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 104(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/104/1), [118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/641/regulation/2/b)
+[^c-c0e6aa967e0b30da7c75c288bd37ba09]: Textual amendment: Ss. 9A, 9B and cross-headings inserted (17.6.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 104(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/104/1), [118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/641/regulation/2/b)
 
-[^key-3e32a4b32ee31e59c1ce6a3815938f42]: Textual amendment: Heading to [Pt. II](https://www.legislation.gov.uk/ukpga/1981/64/part/II) substituted (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/2); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-3e32a4b32ee31e59c1ce6a3815938f42]: Textual amendment: Heading to [Pt. II](https://www.legislation.gov.uk/ukpga/1981/64/part/II) substituted (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/2); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-f0187cd1edc343e1ec56ef20e7bb1211]: Textual amendment: S. 35 cross-heading substituted (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/3); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-f0187cd1edc343e1ec56ef20e7bb1211]: Textual amendment: S. 35 cross-heading substituted (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/3); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
 [^c253226]: Textual amendment: Ss. 62A, 62B and cross-heading inserted by [New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4)](https://www.legislation.gov.uk/ukpga/1985/5), [s. 8(1)](https://www.legislation.gov.uk/ukpga/1985/5/section/8/1)
 

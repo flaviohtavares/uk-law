@@ -38,13 +38,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Retention of relevant communications data
 
-### 1. Powers for retention of relevant communications data subject to safeguards[^key-1b6e75a6638d292c39cd37053cb493fe]
+### 1. Powers for retention of relevant communications data subject to safeguards[^c-1b6e75a6638d292c39cd37053cb493fe]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Section 1: supplementary[^key-1b6e75a6638d292c39cd37053cb493fe]
+### 2. Section 1: supplementary[^c-1b6e75a6638d292c39cd37053cb493fe]
 
 **No longer in force.**
 
@@ -52,31 +52,31 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Investigatory powers
 
-### 3. Grounds for issuing warrants and obtaining data[^key-1b6e75a6638d292c39cd37053cb493fe]
+### 3. Grounds for issuing warrants and obtaining data[^c-1b6e75a6638d292c39cd37053cb493fe]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Extra-territoriality in Part 1 of RIPA[^key-1b6e75a6638d292c39cd37053cb493fe]
+### 4. Extra-territoriality in Part 1 of RIPA[^c-1b6e75a6638d292c39cd37053cb493fe]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Meaning of “telecommunications service”[^key-1b6e75a6638d292c39cd37053cb493fe]
+### 5. Meaning of “telecommunications service”[^c-1b6e75a6638d292c39cd37053cb493fe]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Half-yearly reports by the Interception of Communications Commissioner[^key-1b6e75a6638d292c39cd37053cb493fe]
+### 6. Half-yearly reports by the Interception of Communications Commissioner[^c-1b6e75a6638d292c39cd37053cb493fe]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Review of investigatory powers and their regulation[^key-1b6e75a6638d292c39cd37053cb493fe]
+### 7. Review of investigatory powers and their regulation[^c-1b6e75a6638d292c39cd37053cb493fe]
 
 **No longer in force.**
 
@@ -84,12 +84,12 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Final provisions
 
-### 8. Commencement, duration, extent and short title[^key-443fad321d047771bf49b8450b001302]
+### 8. Commencement, duration, extent and short title[^c-443fad321d047771bf49b8450b001302]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1b6e75a6638d292c39cd37053cb493fe]: Textual amendment: Ss. 1-7 repealed (31.12.2016) by [Data Retention and Investigatory Powers Act 2014 (c. 27)](https://www.legislation.gov.uk/ukpga/2014/27), [s. 8(3)](https://www.legislation.gov.uk/ukpga/2014/27/section/8/3)
+[^c-1b6e75a6638d292c39cd37053cb493fe]: Textual amendment: Ss. 1-7 repealed (31.12.2016) by [Data Retention and Investigatory Powers Act 2014 (c. 27)](https://www.legislation.gov.uk/ukpga/2014/27), [s. 8(3)](https://www.legislation.gov.uk/ukpga/2014/27/section/8/3)
 
-[^key-443fad321d047771bf49b8450b001302]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/2014/27/section/8) omitted (27.6.2018) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 34](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/34) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
+[^c-443fad321d047771bf49b8450b001302]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/2014/27/section/8) omitted (27.6.2018) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 34](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/34) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)

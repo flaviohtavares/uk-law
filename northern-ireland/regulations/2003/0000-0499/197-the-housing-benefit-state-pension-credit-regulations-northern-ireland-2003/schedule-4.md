@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## THE SECOND SCHEDULE[^key-89967886e0e3e78a7b9710a00fc7c389]
+## THE SECOND SCHEDULE[^c-89967886e0e3e78a7b9710a00fc7c389]
 
 *Extent: N.I.*
 
@@ -141,7 +141,7 @@ summary: ''
 
 ## Annotations
 
-[^key-89967886e0e3e78a7b9710a00fc7c389]: Commencement: Sch. 4 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-89967886e0e3e78a7b9710a00fc7c389]: Commencement: Sch. 4 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
 
 [^f00111]: Footnote: S.I. [1983/883](https://www.legislation.gov.uk/uksi/1983/883); relevant amending instruments are S.I. [1993/598](https://www.legislation.gov.uk/uksi/1993/598), [1994/1906](https://www.legislation.gov.uk/uksi/1994/1906). The Order needs to be read subject to the provisions of section 168 of the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), the effect of which is to disregard subsequent marriages which have been dissolved or been the subject of a decree of judicial separation, in determining a person’s entitlement to a widow’s pension
 

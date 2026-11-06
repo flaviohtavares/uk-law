@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Application of Rules, construction and interpretation[^key-747396689ea13be031ec4cfe0a3b7905]
+## 3. Application of Rules, construction and interpretation[^c-747396689ea13be031ec4cfe0a3b7905]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 - “the 1986 Rules” means the Insolvency Rules 1986[^f00006] including all amendments to them up to and including those made by the Insolvency (Amendment)(No. 2) Rules 2009[^f00007];
 - “the 2009 Order” means the Building Societies (Insolvency and Special Administration) Order 2009;
 - “the 2010 Rules” mean these Rules;
-- “the appropriate regulator”, in relation to a building society, means—[^key-c10c4f18524e169f1cd8f7cff6f41ef4]
+- “the appropriate regulator”, in relation to a building society, means—[^c-c10c4f18524e169f1cd8f7cff6f41ef4]
   - (a) if the building society is a PRA-authorised person (within the meaning of the Financial Services and Markets Act 2000), the Prudential Regulation Authority and the Financial Conduct Authority (except in rules 20, 74, 95(2) and 180 when it means the Prudential Regulation Authority or the Financial Conduct Authority);
   - (b) in any other case, the Financial Conduct Authority;
 - “the Banking Act” means the Banking Act 2009;
@@ -42,16 +42,16 @@ summary: ''
   but does not include persons liable to contribute by virtue of a declaration by the court under section 213 (fraudulent trading) or 214 (wrongful trading) of the Insolvency Act;
 - “CPR” means the Civil Procedure Rules 1998[^f00008];
 - “**eligible depositor**” means a depositor who is eligible for compensation under the FSCS;
-- [^key-438b328930857e8c0d907645a782ce5e]...
+- [^c-438b328930857e8c0d907645a782ce5e]...
 - “the FSCS” means the Financial Services Compensation Scheme (established under Part 15 of the Financial Services and Markets Act 2000[^f00009]) or, where appropriate, the scheme manager of that scheme;
 - “the Insolvency Act” means the Insolvency Act 1986[^f00010];
 - “**liquidation committee**” means the committee established pursuant to section 100 of the Banking Act;
 - “**Objective 1**” has the same meaning as in Part 2 of the Banking Act (see section 99(2));
 - “**personal service**” has the meaning given in Part 6 of the CPR;
 - “**principal office**” means—
-  - (a) the place which is specified in the building society’s memorandum sent to the Financial Conduct Authority[^key-7ec336bd57ff113364431618919ec9bf] under paragraph 1(1)(c) of Schedule 2 to the Building Societies Act as the address of its principal office; or
+  - (a) the place which is specified in the building society’s memorandum sent to the Financial Conduct Authority[^c-7ec336bd57ff113364431618919ec9bf] under paragraph 1(1)(c) of Schedule 2 to the Building Societies Act as the address of its principal office; or
   - (b) if notice has been given by the building society to the Financial Conduct Authority under paragraph 11(2) of that Schedule (change of principal office), the place specified in that notice or, as the case may be, in the last such notice;
-- “**registered name**” in relation to a building society means the name of the society which is for the time being registered with the Financial Conduct Authority[^key-94b5344293960e12ff76ab35a839ea68]; and
+- “**registered name**” in relation to a building society means the name of the society which is for the time being registered with the Financial Conduct Authority[^c-94b5344293960e12ff76ab35a839ea68]; and
 - “**sealed**” means sealed with the seal of the court under which the application was made.
 
 (3) Other expressions used in these Rules, where used in relation to building societies, have the same meaning as in the Building Societies Act.
@@ -93,7 +93,7 @@ summary: ''
 - (r) the registered office is a reference to the principal office within the meaning of these Rules;
 - (s) the articles is a reference to the rules of the building society;
 - (t) the officers, or a particular officer of a company, is a reference to the officers, or the corresponding officer, of the building society and includes a person holding themself out as such an officer;
-- (u) the registrar of companies or the registrar is a reference to the Financial Conduct Authority[^key-7c8b84c9d0789cf98392bd050687a8a3];
+- (u) the registrar of companies or the registrar is a reference to the Financial Conduct Authority[^c-7c8b84c9d0789cf98392bd050687a8a3];
 - (v) contributory is a reference to a contributory in relation to a building society within the meaning of these Rules.
 
 (7) Expressions used—
@@ -136,7 +136,7 @@ the reference in Rule A shall be treated, for the purpose of these Rules, as bei
 
 ## Annotations
 
-[^key-747396689ea13be031ec4cfe0a3b7905]: Commencement: Rule 3 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-747396689ea13be031ec4cfe0a3b7905]: Commencement: Rule 3 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00004]: Footnote: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1).
 
@@ -146,18 +146,18 @@ the reference in Rule A shall be treated, for the purpose of these Rules, as bei
 
 [^f00007]: Footnote: [S.I. 2009/2472](https://www.legislation.gov.uk/uksi/2009/2472).
 
-[^key-c10c4f18524e169f1cd8f7cff6f41ef4]: Textual amendment: Words in rule 3(2) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 191(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/191/2/a/i)
+[^c-c10c4f18524e169f1cd8f7cff6f41ef4]: Textual amendment: Words in rule 3(2) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 191(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/191/2/a/i)
 
 [^f00008]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132).
 
-[^key-438b328930857e8c0d907645a782ce5e]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2010/2581/article/3/2) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 191(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/191/2/a/ii)
+[^c-438b328930857e8c0d907645a782ce5e]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2010/2581/article/3/2) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 191(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/191/2/a/ii)
 
 [^f00009]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
 [^f00010]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-7ec336bd57ff113364431618919ec9bf]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2010/2581/article/3/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 191(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/191/2/a/iii)
+[^c-7ec336bd57ff113364431618919ec9bf]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2010/2581/article/3/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 191(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/191/2/a/iii)
 
-[^key-94b5344293960e12ff76ab35a839ea68]: Textual amendment: Words in rule 3(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 191(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/191/2/a/iv)
+[^c-94b5344293960e12ff76ab35a839ea68]: Textual amendment: Words in rule 3(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 191(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/191/2/a/iv)
 
-[^key-7c8b84c9d0789cf98392bd050687a8a3]: Textual amendment: Words in rule 3(6)(u) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 191(2)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/191/2/b)
+[^c-7c8b84c9d0789cf98392bd050687a8a3]: Textual amendment: Words in rule 3(6)(u) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 191(2)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/191/2/b)

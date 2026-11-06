@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**60.**[^key-7ea20c8e0aca719ae70f455013874b88] Schedule 2 is amended as follows.
+**60.**[^c-7ea20c8e0aca719ae70f455013874b88] Schedule 2 is amended as follows.
 
 ## Annotations
 
-[^key-7ea20c8e0aca719ae70f455013874b88]: Commencement: Art. 60 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-7ea20c8e0aca719ae70f455013874b88]: Commencement: Art. 60 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

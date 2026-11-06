@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 59. Panel of approved lawyers[^key-2cb9503abe1fa992fd7312b975f906b3]
+## 59. Panel of approved lawyers[^c-2cb9503abe1fa992fd7312b975f906b3]
 
 *Extent: E*
 
@@ -29,4 +29,4 @@ The power to make rules under [section 4](https://www.legislation.gov.uk/ukcm/19
 
 ## Annotations
 
-[^key-2cb9503abe1fa992fd7312b975f906b3]: Commencement: S. 59 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-2cb9503abe1fa992fd7312b975f906b3]: Commencement: S. 59 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

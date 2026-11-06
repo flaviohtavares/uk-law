@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Tampering with nomination papers, ballot papers etc.[^key-98a89975ef027a60608904337d2f966c]
+## 33. Tampering with nomination papers, ballot papers etc.[^c-98a89975ef027a60608904337d2f966c]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98a89975ef027a60608904337d2f966c]: Commencement: Art. 33 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-98a89975ef027a60608904337d2f966c]: Commencement: Art. 33 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.3. Intimation to Principal Reporter[^key-fc9c1a608bf26a2cb6afa15d62579a5f]
+## 2.3. Intimation to Principal Reporter[^c-fc9c1a608bf26a2cb6afa15d62579a5f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc9c1a608bf26a2cb6afa15d62579a5f]: Textual amendment: Rule 2.3 revoked (28.9.2009) by [Act of Sederunt (Sheriff Court Rules Amendment) (Adoption and Children (Scotland) Act 2007) 2009 (S.S.I. 2009/284)](https://www.legislation.gov.uk/ssi/2009/284), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/1/1), [4(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/4/1/a/ii) (with [para. 4(7)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/4/7))
+[^c-fc9c1a608bf26a2cb6afa15d62579a5f]: Textual amendment: Rule 2.3 revoked (28.9.2009) by [Act of Sederunt (Sheriff Court Rules Amendment) (Adoption and Children (Scotland) Act 2007) 2009 (S.S.I. 2009/284)](https://www.legislation.gov.uk/ssi/2009/284), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/1/1), [4(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/4/1/a/ii) (with [para. 4(7)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/4/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Filling a vacancy.[^key-eb65287b088b9ed26b27e269ea5b86f0]
+## 16. Filling a vacancy.[^c-eb65287b088b9ed26b27e269ea5b86f0]
 
 *Extent: E+W+S*
 
@@ -24,9 +24,9 @@ summary: ''
 
 (2) Subject to subsection (9) below, an election shall be held to fill the vacancy.
 
-(3) At the election, each person entitled to vote as an elector at the election shall have one vote which may be given for a candidate to be the Mayor[^key-4f499b08bdf727acfa684c12d55d2612].
+(3) At the election, each person entitled to vote as an elector at the election shall have one vote which may be given for a candidate to be the Mayor[^c-4f499b08bdf727acfa684c12d55d2612].
 
-(4)[^key-7724477cf861c0076a987cc433ffc02b] Section 4(2) (simple majority system) applies in relation to the election as it applies in relation to the election of the Mayor at an ordinary election.
+(4)[^c-7724477cf861c0076a987cc433ffc02b] Section 4(2) (simple majority system) applies in relation to the election as it applies in relation to the election of the Mayor at an ordinary election.
 
 (5) The date of the poll at the election shall be fixed by the Greater London returning officer in accordance with subsection (6) below.
 
@@ -56,10 +56,10 @@ a vacancy shall arise in the Assembly constituency.
 
 ## Annotations
 
-[^key-eb65287b088b9ed26b27e269ea5b86f0]: Modification: S. 16 modified (E.) (7.4.2020) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) Regulations 2020 (S.I. 2020/395)](https://www.legislation.gov.uk/uksi/2020/395), [regs. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1), [9(2)-(4)](https://www.legislation.gov.uk/uksi/2020/395/regulation/9/2)
+[^c-eb65287b088b9ed26b27e269ea5b86f0]: Modification: S. 16 modified (E.) (7.4.2020) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) Regulations 2020 (S.I. 2020/395)](https://www.legislation.gov.uk/uksi/2020/395), [regs. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1), [9(2)-(4)](https://www.legislation.gov.uk/uksi/2020/395/regulation/9/2)
 
-[^key-4f499b08bdf727acfa684c12d55d2612]: Textual amendment: Words in [s. 16(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/16/3) substituted (26.10.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 13(3)(a)](https://www.legislation.gov.uk/ukpga/2022/37/section/13/3/a), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1093](https://www.legislation.gov.uk/uksi/2022/1093), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1093/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1093/regulation/3))
+[^c-4f499b08bdf727acfa684c12d55d2612]: Textual amendment: Words in [s. 16(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/16/3) substituted (26.10.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 13(3)(a)](https://www.legislation.gov.uk/ukpga/2022/37/section/13/3/a), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1093](https://www.legislation.gov.uk/uksi/2022/1093), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1093/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1093/regulation/3))
 
-[^key-7724477cf861c0076a987cc433ffc02b]: Textual amendment: [S. 16(4)](https://www.legislation.gov.uk/ukpga/1999/29/section/16/4) substituted (26.10.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 13(3)(b)](https://www.legislation.gov.uk/ukpga/2022/37/section/13/3/b), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1093](https://www.legislation.gov.uk/uksi/2022/1093), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1093/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1093/regulation/3))
+[^c-7724477cf861c0076a987cc433ffc02b]: Textual amendment: [S. 16(4)](https://www.legislation.gov.uk/ukpga/1999/29/section/16/4) substituted (26.10.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 13(3)(b)](https://www.legislation.gov.uk/ukpga/2022/37/section/13/3/b), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1093](https://www.legislation.gov.uk/uksi/2022/1093), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1093/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1093/regulation/3))
 
 [^c12800041]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).

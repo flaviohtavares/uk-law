@@ -29,7 +29,7 @@ The reduction period for a low-level sanction is the total of—
   - (iv) the day on which the award of an employment and support allowance is terminated,
 
   whichever is soonest; and
-- (b)[^key-500b1599404a4fd6e74d514d91f20607] in the circumstances described in the first column of the following table, the number of days set out in the second column.
+- (b)[^c-500b1599404a4fd6e74d514d91f20607] in the circumstances described in the first column of the following table, the number of days set out in the second column.
 
   |  |  |
   | --- | --- |
@@ -47,4 +47,4 @@ The reduction period for a low-level sanction is the total of—
 
 ## Annotations
 
-[^key-500b1599404a4fd6e74d514d91f20607]: Textual amendment: [Reg. 52(b)](https://www.legislation.gov.uk/uksi/2013/379/regulation/52/b) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseeker’s Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2016/678/regulation/7/4)
+[^c-500b1599404a4fd6e74d514d91f20607]: Textual amendment: [Reg. 52(b)](https://www.legislation.gov.uk/uksi/2013/379/regulation/52/b) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseeker’s Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2016/678/regulation/7/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3A. Modification of Regulations in relation to vehicles for which a Minister’s approval certificate has been issued under the Motor Vehicles (Approval) Regulations 1996[^key-51a43262edd32c5fc9959f97f77668ab]
+## 3A. Modification of Regulations in relation to vehicles for which a Minister’s approval certificate has been issued under the Motor Vehicles (Approval) Regulations 1996[^c-51a43262edd32c5fc9959f97f77668ab]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 2A shall have effect for the purpose of modifying these Regulations in 
 
 ## Annotations
 
-[^key-51a43262edd32c5fc9959f97f77668ab]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/3A) inserted (1.7.1997) by [The Road Vehicles (Construction And Use) (Amendment) (No. 6) Regulations 1996 (S.I. 1996/3017)](https://www.legislation.gov.uk/uksi/1996/3017), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3017/regulation/1), [3](https://www.legislation.gov.uk/uksi/1996/3017/regulation/3)
+[^c-51a43262edd32c5fc9959f97f77668ab]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/3A) inserted (1.7.1997) by [The Road Vehicles (Construction And Use) (Amendment) (No. 6) Regulations 1996 (S.I. 1996/3017)](https://www.legislation.gov.uk/uksi/1996/3017), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3017/regulation/1), [3](https://www.legislation.gov.uk/uksi/1996/3017/regulation/3)

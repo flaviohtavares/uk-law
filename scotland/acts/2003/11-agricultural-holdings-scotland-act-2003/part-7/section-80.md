@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Other provisions as to the resolution of disputes[^key-81ee6a0348b2584ae7ea6b15dbae3948]
+## 80. Other provisions as to the resolution of disputes[^c-81ee6a0348b2584ae7ea6b15dbae3948]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81ee6a0348b2584ae7ea6b15dbae3948]: Commencement: S. 80 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-81ee6a0348b2584ae7ea6b15dbae3948]: Commencement: S. 80 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

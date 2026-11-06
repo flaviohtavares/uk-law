@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 138. Withdrawal of joint contract-holder using contract-holder's break clause[^key-88b6483d23f03a2d4f6f99c3eb017f08]
+## 138. Withdrawal of joint contract-holder using contract-holder's break clause[^c-88b6483d23f03a2d4f6f99c3eb017f08]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88b6483d23f03a2d4f6f99c3eb017f08]: Commencement: [S. 138](https://www.legislation.gov.uk/anaw/2016/1/section/138) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-88b6483d23f03a2d4f6f99c3eb017f08]: Commencement: [S. 138](https://www.legislation.gov.uk/anaw/2016/1/section/138) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Power for administrator to bring claim for fraudulent or wrongful trading[^key-116c6e06508befd87afffe091441ebcc]
+## 2. Power for administrator to bring claim for fraudulent or wrongful trading[^c-116c6e06508befd87afffe091441ebcc]
 
 *Extent: N.I.*
 
@@ -86,4 +86,4 @@ summary: ''
 
 ## Annotations
 
-[^key-116c6e06508befd87afffe091441ebcc]: Commencement: S. 2 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-116c6e06508befd87afffe091441ebcc]: Commencement: S. 2 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

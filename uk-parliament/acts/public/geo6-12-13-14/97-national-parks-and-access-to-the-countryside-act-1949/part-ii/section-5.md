@@ -25,14 +25,14 @@ summary: ''
 - (a) of conserving and enhancing the natural beauty, wildlife and cultural heritage of the areas specified in the next following subsection; and
 - (b) of promoting opportunities for the understanding and enjoyment of the special qualities of those areas by the public.
 
-(2) The said areas are those extensive tracts of country in England [^c641709] . . . as to which it appears to Natural England[^key-e9da216bc70309fc43d2f8bc1f32f2a4] that by reason of—
+(2) The said areas are those extensive tracts of country in England [^c641709] . . . as to which it appears to Natural England[^c-e9da216bc70309fc43d2f8bc1f32f2a4] that by reason of—
 
 - (a) their natural beauty, and
 - (b) the opportunities they afford for open-air recreation, having regard both to their character and to their position in relation to centres of population,
 
 it is especially desirable that the necessary measures shall be taken for the purposes mentioned in the last foregoing subsection.
 
-(3) The said areas, as for the time being designated by order made by Natural England[^key-d680545a64836c54fccfa4977b927850] and submitted to and confirmed by the Minister, shall be as known as, and are hereinafter referred to as, National Parks.
+(3) The said areas, as for the time being designated by order made by Natural England[^c-d680545a64836c54fccfa4977b927850] and submitted to and confirmed by the Minister, shall be as known as, and are hereinafter referred to as, National Parks.
 
 ## Annotations
 
@@ -40,6 +40,6 @@ it is especially desirable that the necessary measures shall be taken for the pu
 
 [^c641709]: Textual amendment: Words in s. 5(2) repealed (1.4.1991) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 130(1)](https://www.legislation.gov.uk/ukpga/1990/43/section/130/1), [Sch. 8 para. 1(5)](https://www.legislation.gov.uk/ukpga/1990/43/schedule/8/paragraph/1/5); [S.I. 1991/685](https://www.legislation.gov.uk/uksi/1991/685), [art. 3](https://www.legislation.gov.uk/uksi/1991/685/article/3)
 
-[^key-e9da216bc70309fc43d2f8bc1f32f2a4]: Textual amendment: Words in [s. 5(2)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/97/section/5/2) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 10(a)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/10/a); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-e9da216bc70309fc43d2f8bc1f32f2a4]: Textual amendment: Words in [s. 5(2)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/97/section/5/2) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 10(a)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/10/a); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-d680545a64836c54fccfa4977b927850]: Textual amendment: Words in [s. 5(3)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/97/section/5/3) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 10(a)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/10/a); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-d680545a64836c54fccfa4977b927850]: Textual amendment: Words in [s. 5(3)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/97/section/5/3) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 10(a)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/10/a); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

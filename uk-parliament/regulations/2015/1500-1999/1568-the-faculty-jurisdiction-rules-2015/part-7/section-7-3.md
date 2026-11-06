@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 7.3. Reasons for grant of faculty or dismissal of petition[^key-991734e255db4212c09c01f46f14e5b8]
+## 7.3. Reasons for grant of faculty or dismissal of petition[^c-991734e255db4212c09c01f46f14e5b8]
 
 *Extent: E*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) Where a faculty is granted in opposed proceedings or where in any proceedings a petition is dismissed (in whole or in part) the chancellor must give a judgment in court or hand down a written judgment which contains the reasons for the grant or dismissal.
 
-(3)[^key-7c2e7aa4c2a458af15f6320b29cc1ecc] Reasons under paragraphs (1) or (2) must identify any relevant guidance issued by the Church Buildings Council under section 55 of the Dioceses, Pastoral and Mission Measure 2007 and state how the chancellor has taken it into account in determining the petition.
+(3)[^c-7c2e7aa4c2a458af15f6320b29cc1ecc] Reasons under paragraphs (1) or (2) must identify any relevant guidance issued by the Church Buildings Council under section 55 of the Dioceses, Pastoral and Mission Measure 2007 and state how the chancellor has taken it into account in determining the petition.
 
 ## Annotations
 
-[^key-991734e255db4212c09c01f46f14e5b8]: Commencement: Rule 7.3 in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-991734e255db4212c09c01f46f14e5b8]: Commencement: Rule 7.3 in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
 
-[^key-7c2e7aa4c2a458af15f6320b29cc1ecc]: Textual amendment: Rule 7.3(3) inserted (1.1.2024) by [The Faculty Jurisdiction (Amendment) Rules 2023 (S.I. 2023/866)](https://www.legislation.gov.uk/uksi/2023/866), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/866/rule/1/2), [3](https://www.legislation.gov.uk/uksi/2023/866/rule/3)
+[^c-7c2e7aa4c2a458af15f6320b29cc1ecc]: Textual amendment: Rule 7.3(3) inserted (1.1.2024) by [The Faculty Jurisdiction (Amendment) Rules 2023 (S.I. 2023/866)](https://www.legislation.gov.uk/uksi/2023/866), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/866/rule/1/2), [3](https://www.legislation.gov.uk/uksi/2023/866/rule/3)

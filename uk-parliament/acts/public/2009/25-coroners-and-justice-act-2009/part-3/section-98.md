@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Eligibility for special measures: age of child witnesses[^key-0c1172e0efacf63c319b7909561d8675]
+## 98. Eligibility for special measures: age of child witnesses[^c-0c1172e0efacf63c319b7909561d8675]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c1172e0efacf63c319b7909561d8675]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2009/25/section/98) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/a)
+[^c-0c1172e0efacf63c319b7909561d8675]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2009/25/section/98) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/a)

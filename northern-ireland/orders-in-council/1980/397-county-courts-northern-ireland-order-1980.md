@@ -49,19 +49,19 @@ County Courts (Northern Ireland) Order 1980
 - [^c20482901]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “[^c20482961]**capital value**” means capital value for the purposes of the Rates (Northern Ireland) Order 1977 and shall be construed in accordance with Article 39 of that Order;
 - “[^c20482981]**capital value list**” has the meaning given by Article 40(1)(b) of the Rates (Northern Ireland) Order 1977;
-- “[^key-a5d4cc71a5539863a3604393bdf38fbc]**chief clerk**” means an officer of the Department designated as such by the Department;
+- “[^c-a5d4cc71a5539863a3604393bdf38fbc]**chief clerk**” means an officer of the Department designated as such by the Department;
 - “costs” includes witnesses' expenses;
-- “court” means a county court held [^key-22f30ee56aab6b18e116df519c9036a7]... under this Order;
+- “court” means a county court held [^c-22f30ee56aab6b18e116df519c9036a7]... under this Order;
 - “decree” includes a dismiss, a decree on a counter-claim and any order, decision or determination made by a county court in any civil proceedings instituted by virtue of any statutory provision, and any judgment registered under the Inferior Courts Judgments Extension Act 1882 [^m00002], and any decree or dismiss which is affirmed, reversed or varied on appeal;
 - “defendant” includes a defendant in a counter-claim;
-- “[^key-a3cb609de40993057dd7d4715809b45f]**the Department**” means the Department of Justice;
-- “[^key-ca38ef99173824cce32ece857b964e76]**division**” means an administrative court division specified under section 2 of the Justice Act (Northern Ireland) 2015 for any purposes of a county court;
+- “[^c-a3cb609de40993057dd7d4715809b45f]**the Department**” means the Department of Justice;
+- “[^c-ca38ef99173824cce32ece857b964e76]**division**” means an administrative court division specified under section 2 of the Justice Act (Northern Ireland) 2015 for any purposes of a county court;
 - “judge” means, subject to paragraph (3)( *d*), a county court judge, that is to say a judge appointed under section 102 of the County Courts Act (Northern Ireland) 1959 [^m00003];
 - “matter” means any proceedings in a county court other than an action;
 - “[^c20483021]**NAV list**” has the meaning given by Article 40(1)(a) of the Rates (Northern Ireland) Order 1977;
 - “[^c20483001]**net annual value**” means net annual value for the purposes of the Rates (Northern Ireland) Order 1977 and shall be construed in accordance with Articles 39 and 39A of that Order;
 - “order” includes any decree or other order whatsoever of a county court;
-- “Office” in relation to any proceedings, means the office of the chief clerk [^key-8c416d522a9bf5d9cc45598304e24d19]...;
+- “Office” in relation to any proceedings, means the office of the chief clerk [^c-8c416d522a9bf5d9cc45598304e24d19]...;
 - “plaintiff” includes every person seeking any relief (otherwise than by way of counter-claim as defendant) by any form of civil proceeding;
 - “prescribed” means prescribed by county court rules or as the context may require by rules of court;
 - “proceedings” includes all actions, matters and proceedings whatsoever (whether civil or criminal);
@@ -83,11 +83,11 @@ County Courts (Northern Ireland) Order 1980
 
 ## PART II — HOLDING OF COUNTY COURTS
 
-### 3. County courts ...[^key-9729165b6d6be6430511185730d539e7]
+### 3. County courts ...[^c-9729165b6d6be6430511185730d539e7]
 
-(1)[^key-36ea658026bae037feb6e65e4dcf15e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-36ea658026bae037feb6e65e4dcf15e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-5e59ae7b76e84e7001d23e9cccc22d16] A court shall be held at such place or places in each division as may be specified in directions given under Article 4.
+(2)[^c-5e59ae7b76e84e7001d23e9cccc22d16] A court shall be held at such place or places in each division as may be specified in directions given under Article 4.
 
 (3) A court held under paragraph (2) shall—
 
@@ -101,7 +101,7 @@ The Lord Chief Justice[^c19956221] may give directions as to—
 - (a) the places at which county courts are to be held;
 - (b) the number of ordinary sittings of county courts which are to be held each year;
 - (c) the ordinary hours of sitting of county courts;
-- (d)[^key-0419bafa747930e28cf240f557b43d32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-0419bafa747930e28cf240f557b43d32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) the cancellation of any sitting of a county court for which provision has been made under this Order where there is no, or insufficient, business to be transacted at that sitting; and
 - (f) such other incidental, consequential, transitional or supplementary matters as appear to the Lord Chief Justice[^c19956241] to be necessary or proper.
 
@@ -113,10 +113,10 @@ Subject to section 13 of the Administration of Justice Act (Northern Ireland) 19
 
 (1) Subject to any provision made by virtue of Article 4, in each year the Lord Chief Justice[^c19956351] shall—
 
-- (a) on or before 1st May, appoint the days for the holding of the ordinary sittings of the county court in each division[^key-f769e1c2a1a92e684bf9dddc595136a3] for the period of twelve months commencing on 1st September next following; and
+- (a) on or before 1st May, appoint the days for the holding of the ordinary sittings of the county court in each division[^c-f769e1c2a1a92e684bf9dddc595136a3] for the period of twelve months commencing on 1st September next following; and
 - (b) on or before 1st July cause notice of the days so appointed to be published.
 
-(2)[^key-940d02fee061ef3a2f076e89a5ec12fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-940d02fee061ef3a2f076e89a5ec12fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 7. Additional and extraordinary sittings
 
@@ -134,25 +134,25 @@ Subject to section 13 of the Administration of Justice Act (Northern Ireland) 19
 
 (4) A judge may adjourn any proceedings for such period as will in his opinion best meet the ends of justice.
 
-(5)[^key-8696f65591b7cf5a54d2f72bbe3e452a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8696f65591b7cf5a54d2f72bbe3e452a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-8696f65591b7cf5a54d2f72bbe3e452a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8696f65591b7cf5a54d2f72bbe3e452a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-8696f65591b7cf5a54d2f72bbe3e452a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-8696f65591b7cf5a54d2f72bbe3e452a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-8696f65591b7cf5a54d2f72bbe3e452a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-8696f65591b7cf5a54d2f72bbe3e452a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 9. Order of hearing
 
 Subject to county court rules, the order in which proceedings are to be heard shall be determined by the judge.
 
-## PART III — ORIGINAL CIVIL JURISDICTION[^key-13e007dc816f6d6100b026842e2477b2]
+## PART III — ORIGINAL CIVIL JURISDICTION[^c-13e007dc816f6d6100b026842e2477b2]
 
 ### General Jurisdiction
 
 #### 10. General civil jurisdiction
 
-(1) Subject to the provisions of this Part, a county court shall have jurisdiction to hear and determine any action in which the amount claimed, or the value of specific chattels claimed, does not exceed £30,000[^key-6258d5335aef82c3db18fc73a30f0628] , including (but without prejudice to the generality of the foregoing provisions of this paragraph) any action in which a balance not exceeding £30,000 is claimed—
+(1) Subject to the provisions of this Part, a county court shall have jurisdiction to hear and determine any action in which the amount claimed, or the value of specific chattels claimed, does not exceed £30,000[^c-6258d5335aef82c3db18fc73a30f0628] , including (but without prejudice to the generality of the foregoing provisions of this paragraph) any action in which a balance not exceeding £30,000 is claimed—
 
 - (a) on foot of an account (including a partnership account);
 - (b) after allowances made for any amount admitted by the plaintiff to be due by him to the defendant (whether by way of set-off or on foot of a counterclaim or otherwise); or
@@ -160,9 +160,9 @@ Subject to county court rules, the order in which proceedings are to be heard sh
 
 (2) A county court shall not have jurisdiction to hear any action claiming damages exceeding £3,000[^c16842131] in respect of libel or slander.
 
-(3)[^key-c1181da96f80afa4d118e8f67d7e7f99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c1181da96f80afa4d118e8f67d7e7f99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-c1181da96f80afa4d118e8f67d7e7f99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-c1181da96f80afa4d118e8f67d7e7f99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) A county court shall not have jurisdiction to hear any Admiralty cause or matter.
 
@@ -311,7 +311,7 @@ Subject to rules made under section 82 of the Judicature (Northern Ireland) Act 
 
 #### 21. Transfer to county court of money recovered in High Court by infants, etc.
 
-(1) Where in any cause or matter in the High Court money is in any manner recovered by or on behalf of, or adjudged or ordered to be paid to or for the benefit of, a person who is an infant or of unsound mind, the High Court may order the money or any part thereof to be paid into or transferred to such[^key-bdbb350bdf8c4bc8d274ec4710ab1ffa] county court as the High Court may order.
+(1) Where in any cause or matter in the High Court money is in any manner recovered by or on behalf of, or adjudged or ordered to be paid to or for the benefit of, a person who is an infant or of unsound mind, the High Court may order the money or any part thereof to be paid into or transferred to such[^c-bdbb350bdf8c4bc8d274ec4710ab1ffa] county court as the High Court may order.
 
 (2) On the making of any such order, the money or the part thereof to which the order relates shall be paid or transferred according to the order, and shall, subject to any special order or direction of the High Court and to rules made under section 82 of the Judicature (Northern Ireland) Act 1978 be invested, applied or otherwise dealt with for the benefit of the person to whom the order relates in such manner as the county court in its discretion thinks fit.
 
@@ -355,7 +355,7 @@ Where in the course of any proceedings in a county court it appears to the judge
 
 (1) Where in the course of any proceedings in a county court it appears to the judge that by reason of any statutory provision the proceedings are not within the jurisdiction of that court and ought to have been commenced in another county court, he may order the proceedings to be transferred to that other court, and such proceedings shall be heard and determined accordingly by that other court.
 
-(2)[^key-790af803d9673292a52aa3ba32d5b1a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-790af803d9673292a52aa3ba32d5b1a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where any proceedings in which the costs are by virtue of any statutory provision in the discretion of the court are transferred from one county court to another, that discretion shall, subject to any order made by the court which ordered the transfer, or to any relevant agreement between the parties, be exercised by the court by which the proceedings are heard and determined.
 
@@ -410,11 +410,11 @@ Subject to Articles 30 to 33, the jurisdiction and powers conferred on a county 
 
 ##### 30. Civil jurisdiction exercisable by circuit registrars
 
-(1) Subject to paragraph (3), any action in which the amount claimed, or the value of specific chattels claimed, does not exceed £10,000[^key-fc8181b513d62b71240db07834485e63] shall, save as otherwise provided by county court rules, be heard and determined by a circuit registrar in accordance with those rules.
+(1) Subject to paragraph (3), any action in which the amount claimed, or the value of specific chattels claimed, does not exceed £10,000[^c-fc8181b513d62b71240db07834485e63] shall, save as otherwise provided by county court rules, be heard and determined by a circuit registrar in accordance with those rules.
 
 (2)[^c16843251] Any order, decision or determination made by a district judge under this Article (other than one made in dealing with a claim by way of arbitration under paragraph (3)) shall be embodied in a decree which for all purposes (including the right of appeal under Part VI) shall have the like effect as a decree pronounced by a county court judge.
 
-(3) Where in any action to which paragraph (1) applies the amount claimed, or the value of specific chattels claimed, does not exceed £5,000[^key-ca7db1ddd1d1fafad99504de74b7a51e] the circuit registrar shall, save as otherwise provided by county court rules, deal with the claim by way of arbitration in accordance with those rules.
+(3) Where in any action to which paragraph (1) applies the amount claimed, or the value of specific chattels claimed, does not exceed £5,000[^c-ca7db1ddd1d1fafad99504de74b7a51e] the circuit registrar shall, save as otherwise provided by county court rules, deal with the claim by way of arbitration in accordance with those rules.
 
 (4) Where in any action to which paragraph (1) applies the claim is dealt with by way of arbitration under paragraph (3)—
 
@@ -487,7 +487,7 @@ and his decision shall be final.
 
 as ought to be granted or given in the like case by the High Court and in as full and ample a manner.
 
-(2) A judge shall have jurisdiction in any proceedings pending in a county court[^key-02ef18739864711c726751f312577ed7] to make any order or to exercise on an ex-parte application any authority or jurisdiction which, if it related to an action or proceeding pending in the High Court, might be made or exercised by a judge of that court in chambers.
+(2) A judge shall have jurisdiction in any proceedings pending in a county court[^c-02ef18739864711c726751f312577ed7] to make any order or to exercise on an ex-parte application any authority or jurisdiction which, if it related to an action or proceeding pending in the High Court, might be made or exercised by a judge of that court in chambers.
 
 (3) In any proceedings in or in relation to which a county court may under any statutory provision exercise the like powers as the High Court, a circuit registrar or his deputy may, subject to county court rules and to any direction of the judge, perform any functions which, if the proceedings had been brought in (or as the case may be had been retained in or removed to) the High Court might have been performed by an officer of the Court of Judicature[^c21348761].
 
@@ -723,7 +723,7 @@ and for the purposes of this paragraph “**deal with**” and “**excepted mat
 - (a) made within a reasonable period after the relevant authority gives notice under paragraph (8);
 - (b) made in accordance with this Article.
 
-##### 47A. Control of county court rules[^key-c75dc778af5038ea66077778fb935f42]
+##### 47A. Control of county court rules[^c-c75dc778af5038ea66077778fb935f42]
 
 (1) County court rules that are required under Article 47 to be submitted to the Lord Chancellor are subject to annulment in pursuance of a resolution of either House of Parliament in the same manner as a statutory instrument and section 5 of the Statutory Instruments Act 1946 applies accordingly.
 
@@ -757,7 +757,7 @@ In any case not expressly provided for by or under this Order the practice and p
 - (c) a solicitor acting generally in the proceedings for a party thereto, or a solicitor employed by one so acting, but not a solicitor retained as an advocate by a solicitor so acting;
 - (d) any other person (including another solicitor) allowed by leave of the court in special circumstances to appear instead or on behalf of any party.
 
-(2) Paragraph (1) shall be construed subject to Article 5 of the European Communities (Services of Lawyers) Order 1978 [^M_F_31eb6d1c-86a4-4d75-e8b6-a84b2568b4a4] , as it has effect by virtue of regulation 5 of the Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020[^key-a763813a23b63999d1c7b49fd3c5561e].
+(2) Paragraph (1) shall be construed subject to Article 5 of the European Communities (Services of Lawyers) Order 1978 [^M_F_31eb6d1c-86a4-4d75-e8b6-a84b2568b4a4] , as it has effect by virtue of regulation 5 of the Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020[^c-a763813a23b63999d1c7b49fd3c5561e].
 
 ##### 51. Powers as respects solicitors
 
@@ -794,7 +794,7 @@ shall be guilty of a contempt of the court.
 
 (7) Subject to the foregoing provisions of this Article, a county court shall in relation to witnesses in any proceedings before it have the like powers as are exercisable by the High Court in any proceedings before that court.
 
-##### 55. Contempt of court[^key-555bbbe2c14acbf50391f137438e1341]
+##### 55. Contempt of court[^c-555bbbe2c14acbf50391f137438e1341]
 
 (1) If any person—
 
@@ -835,7 +835,7 @@ Each chief clerk[^c16843721]. . . shall, in relation to his functions under this
 
 ### Appeals
 
-#### 60. Ordinary appeals from the county court in civil cases[^key-a8f1108d743664fd69526535919338a0][^key-4e012132ed082a9cb34508679d7e02a2][^key-ecf4f2005f3a832ed1a168a10efcc4ed][^key-f4205dcc1963c10cefed4399a15e59a3][^key-d25e42fdb00924240087fc6690d1ea0c][^key-f99e2a0ccdce2393d9a795d57f1b28fd]
+#### 60. Ordinary appeals from the county court in civil cases[^c-a8f1108d743664fd69526535919338a0][^c-4e012132ed082a9cb34508679d7e02a2][^c-ecf4f2005f3a832ed1a168a10efcc4ed][^c-f4205dcc1963c10cefed4399a15e59a3][^c-d25e42fdb00924240087fc6690d1ea0c][^c-f99e2a0ccdce2393d9a795d57f1b28fd]
 
 (1) Any party dissatisfied with any decree of a county court made in the exercise of the jurisdiction conferred by Part III may appeal from that decree to the High Court.
 
@@ -889,7 +889,7 @@ may, subject to the provisions of that Part, appeal from that decision to the Co
 
 (1) Subject to this Article, a person applying to a county court judge to state a case upon a decision made on appeal from a magistrates' court shall, before the case is stated and delivered to him—
 
-- (a) if the judge so directs enter, before a resident magistrate or justice of the peace [^key-8464ac2e30d38f0ebd012bfeb6ea7b34]..., into a recognizance with or without sureties, in such sum as the resident magistrate or justice of the peace considers proper having regard to the means of the applicant, conditioned to prosecute the case stated without delay and to submit to the judgment of the Court of Appeal and pay such costs as may be awarded by that court; and
+- (a) if the judge so directs enter, before a resident magistrate or justice of the peace [^c-8464ac2e30d38f0ebd012bfeb6ea7b34]..., into a recognizance with or without sureties, in such sum as the resident magistrate or justice of the peace considers proper having regard to the means of the applicant, conditioned to prosecute the case stated without delay and to submit to the judgment of the Court of Appeal and pay such costs as may be awarded by that court; and
 - (b) pay—
   - (i) to the chief clerk for and in respect of the case stated;
   - (ii) to the clerk of petty sessions for and in respect of any such recognizance:
@@ -906,7 +906,7 @@ may, subject to the provisions of that Part, appeal from that decision to the Co
 
 (6) An application under paragraph (5) shall be made in like manner as an application for bail by a person who has been committed for trial in custody and on any such application the judge may release the applicant from custody on such conditions and fix the amount of the recognizance at such sum as the judge thinks fit.
 
-(7) Where any of the conditions of a recognizance entered into under this Article have not been complied with, a district judge (magistrates' courts) or lay magistrate[^key-f4ae61a23ba99f78721dee2726aebf9e] , shall certify upon such recognizance in what respect the conditions thereof have not been observed and transmit the same to the chief clerk [^key-3f41c1b829e5b294e33f615dcd5b06a9]..., to be proceeded upon in like manner as other recognizances forfeited at the county court may by law be enforced; and such certificate shall be sufficient prima facie evidence of the said recognizance having been forfeited.
+(7) Where any of the conditions of a recognizance entered into under this Article have not been complied with, a district judge (magistrates' courts) or lay magistrate[^c-f4ae61a23ba99f78721dee2726aebf9e] , shall certify upon such recognizance in what respect the conditions thereof have not been observed and transmit the same to the chief clerk [^c-3f41c1b829e5b294e33f615dcd5b06a9]..., to be proceeded upon in like manner as other recognizances forfeited at the county court may by law be enforced; and such certificate shall be sufficient prima facie evidence of the said recognizance having been forfeited.
 
 #### 64. Powers of appellate court
 
@@ -1000,15 +1000,15 @@ Article 69(1).
 
 [^c20482981]: Textual amendment: Art. 2(2): definition of "capital value list" inserted (1.4.2007) by [Rates (Consequential Provisions) Order (Northern Ireland) 2007 (S.R. 2007/192)](https://www.legislation.gov.uk/nisr/2007/192), [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/192/article/2/1), [Sch. 1 para. 4(a)(ii)](https://www.legislation.gov.uk/nisr/2007/192/schedule/1/paragraph/4/a/ii)
 
-[^key-a5d4cc71a5539863a3604393bdf38fbc]: Textual amendment: Words in art. 2(2) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(1)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/1/a) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-a5d4cc71a5539863a3604393bdf38fbc]: Textual amendment: Words in art. 2(2) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(1)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/1/a) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-22f30ee56aab6b18e116df519c9036a7]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1980/397/article/2/2) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(1)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/1/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-22f30ee56aab6b18e116df519c9036a7]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1980/397/article/2/2) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(1)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/1/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^m00002]: Marginal citation: 1882 c.31
 
-[^key-a3cb609de40993057dd7d4715809b45f]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1980/397/article/2/2) inserted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(1)(c)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/1/c) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-a3cb609de40993057dd7d4715809b45f]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1980/397/article/2/2) inserted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(1)(c)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/1/c) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-ca38ef99173824cce32ece857b964e76]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1980/397/article/2/2) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(1)(d)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/1/d) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-ca38ef99173824cce32ece857b964e76]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1980/397/article/2/2) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(1)(d)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/1/d) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^m00003]: Marginal citation: 1959 c.25
 
@@ -1016,7 +1016,7 @@ Article 69(1).
 
 [^c20483001]: Textual amendment: Art. 2(2): definition of "net annual value" inserted (1.4.2007) by [Rates (Consequential Provisions) Order (Northern Ireland) 2007 (S.R. 2007/192)](https://www.legislation.gov.uk/nisr/2007/192), [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/192/article/2/1), [Sch. 1 para. 4(a)(ii)](https://www.legislation.gov.uk/nisr/2007/192/schedule/1/paragraph/4/a/ii)
 
-[^key-8c416d522a9bf5d9cc45598304e24d19]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1980/397/article/2/2) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(1)(e)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/1/e), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-8c416d522a9bf5d9cc45598304e24d19]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1980/397/article/2/2) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(1)(e)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/1/e), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^m00004]: Marginal citation: 1954 c.33
 
@@ -1026,15 +1026,15 @@ Article 69(1).
 
 [^m00005]: Marginal citation: 1973 c.36
 
-[^key-9729165b6d6be6430511185730d539e7]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/nisi/1980/397/article/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(2)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/2/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-9729165b6d6be6430511185730d539e7]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/nisi/1980/397/article/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(2)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/2/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-36ea658026bae037feb6e65e4dcf15e3]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/nisi/1980/397/article/3/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(2)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/2/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-36ea658026bae037feb6e65e4dcf15e3]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/nisi/1980/397/article/3/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(2)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/2/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-5e59ae7b76e84e7001d23e9cccc22d16]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/nisi/1980/397/article/3/2)[(3)](https://www.legislation.gov.uk/nisi/1980/397/article/3/3) substituted (31.10.2016) for art. 3(2)-(4) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(2)(c)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/2/c) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-5e59ae7b76e84e7001d23e9cccc22d16]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/nisi/1980/397/article/3/2)[(3)](https://www.legislation.gov.uk/nisi/1980/397/article/3/3) substituted (31.10.2016) for art. 3(2)-(4) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(2)(c)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/2/c) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c19956221]: Textual amendment: Words in art. 4 substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 51](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/51); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/a)
 
-[^key-0419bafa747930e28cf240f557b43d32]: Textual amendment: [Art. 4(d)](https://www.legislation.gov.uk/nisi/1980/397/article/4/d) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(3)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/3), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-0419bafa747930e28cf240f557b43d32]: Textual amendment: [Art. 4(d)](https://www.legislation.gov.uk/nisi/1980/397/article/4/d) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(3)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/3), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c19956241]: Textual amendment: Words in art. 4(f) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 51](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/51); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/a)
 
@@ -1044,23 +1044,23 @@ Article 69(1).
 
 [^c19956351]: Textual amendment: Words in art. 6(1) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 53(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/53/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/a)
 
-[^key-f769e1c2a1a92e684bf9dddc595136a3]: Textual amendment: Words in [art. 6(1)(a)](https://www.legislation.gov.uk/nisi/1980/397/article/6/1/a) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(4)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/4/a) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-f769e1c2a1a92e684bf9dddc595136a3]: Textual amendment: Words in [art. 6(1)(a)](https://www.legislation.gov.uk/nisi/1980/397/article/6/1/a) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(4)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/4/a) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-940d02fee061ef3a2f076e89a5ec12fa]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/nisi/1980/397/article/6/2) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(4)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/4/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-940d02fee061ef3a2f076e89a5ec12fa]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/nisi/1980/397/article/6/2) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(4)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/4/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c19956651]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/nisi/1980/397/article/7/1) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/54); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/a)
 
 [^c19956691]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/nisi/1980/397/article/7/2) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/54); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/a)
 
-[^key-8696f65591b7cf5a54d2f72bbe3e452a]: Textual amendment: [Art. 8(5)-(8)](https://www.legislation.gov.uk/nisi/1980/397/article/8/5) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(5)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/5), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-8696f65591b7cf5a54d2f72bbe3e452a]: Textual amendment: [Art. 8(5)-(8)](https://www.legislation.gov.uk/nisi/1980/397/article/8/5) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(5)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/5), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-13e007dc816f6d6100b026842e2477b2]: Modification: [Pt. III](https://www.legislation.gov.uk/nisi/1980/397/part/III) applied by 2003 c. 31, Sch. 2 para. 27(1)(2) (as inserted (17.7.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 73(2)](https://www.legislation.gov.uk/ukpga/2015/9/section/73/2), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(14)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/14)[(15)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/15)); [S.I. 2015/1428](https://www.legislation.gov.uk/uksi/2015/1428), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1428/regulation/2/a))
+[^c-13e007dc816f6d6100b026842e2477b2]: Modification: [Pt. III](https://www.legislation.gov.uk/nisi/1980/397/part/III) applied by 2003 c. 31, Sch. 2 para. 27(1)(2) (as inserted (17.7.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 73(2)](https://www.legislation.gov.uk/ukpga/2015/9/section/73/2), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(14)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/14)[(15)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/15)); [S.I. 2015/1428](https://www.legislation.gov.uk/uksi/2015/1428), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1428/regulation/2/a))
 
-[^key-6258d5335aef82c3db18fc73a30f0628]: Textual amendment: Word in art. 10(1) substituted (25.2.2013) by [The County Courts (Financial Limits) Order (Northern Ireland) 2013 (S.R. 2013/18)](https://www.legislation.gov.uk/nisr/2013/18), [arts. 1](https://www.legislation.gov.uk/nisr/2013/18/article/1), [2(a)](https://www.legislation.gov.uk/nisr/2013/18/article/2/a) (with [art. 5](https://www.legislation.gov.uk/nisr/2013/18/article/5))
+[^c-6258d5335aef82c3db18fc73a30f0628]: Textual amendment: Word in art. 10(1) substituted (25.2.2013) by [The County Courts (Financial Limits) Order (Northern Ireland) 2013 (S.R. 2013/18)](https://www.legislation.gov.uk/nisr/2013/18), [arts. 1](https://www.legislation.gov.uk/nisr/2013/18/article/1), [2(a)](https://www.legislation.gov.uk/nisr/2013/18/article/2/a) (with [art. 5](https://www.legislation.gov.uk/nisr/2013/18/article/5))
 
 [^c16842131]: Textual amendment: SR 1993/282
 
-[^key-c1181da96f80afa4d118e8f67d7e7f99]: Textual amendment: [Art. 10(3)](https://www.legislation.gov.uk/nisi/1980/397/article/10/3)[(3A)](https://www.legislation.gov.uk/nisi/1980/397/article/10/3A) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(6)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/6), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-c1181da96f80afa4d118e8f67d7e7f99]: Textual amendment: [Art. 10(3)](https://www.legislation.gov.uk/nisi/1980/397/article/10/3)[(3A)](https://www.legislation.gov.uk/nisi/1980/397/article/10/3A) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(6)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/6), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c16842261]: Textual amendment: SR 1993/282
 
@@ -1108,7 +1108,7 @@ Article 69(1).
 
 [^m00018]: Marginal citation: 1955 c.24
 
-[^key-bdbb350bdf8c4bc8d274ec4710ab1ffa]: Textual amendment: Word in [art. 21(1)](https://www.legislation.gov.uk/nisi/1980/397/article/21/1) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(7)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/7) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-bdbb350bdf8c4bc8d274ec4710ab1ffa]: Textual amendment: Word in [art. 21(1)](https://www.legislation.gov.uk/nisi/1980/397/article/21/1) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(7)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/7) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c19956741]: Textual amendment: Words in [art. 22(1)](https://www.legislation.gov.uk/nisi/1980/397/article/22/1) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 55](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/55); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/a)
 
@@ -1116,7 +1116,7 @@ Article 69(1).
 
 [^m00019]: Marginal citation: 1958 c.23
 
-[^key-790af803d9673292a52aa3ba32d5b1a6]: Textual amendment: [Art. 25(2)](https://www.legislation.gov.uk/nisi/1980/397/article/25/2) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(8)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/8), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-790af803d9673292a52aa3ba32d5b1a6]: Textual amendment: [Art. 25(2)](https://www.legislation.gov.uk/nisi/1980/397/article/25/2) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(8)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/8), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c16843151]: Textual amendment: [1981 NI 26](https://www.legislation.gov.uk/1981/ni26)
 
@@ -1128,11 +1128,11 @@ Article 69(1).
 
 [^c16843191]: Textual amendment: [1986 NI 4](https://www.legislation.gov.uk/1986/ni4)
 
-[^key-fc8181b513d62b71240db07834485e63]: Textual amendment: Word in [art. 30(1)](https://www.legislation.gov.uk/nisi/1980/397/article/30/1) substituted (25.2.2013) by [The County Courts (Financial Limits) Order (Northern Ireland) 2013 (S.R. 2013/18)](https://www.legislation.gov.uk/nisr/2013/18), [arts. 1](https://www.legislation.gov.uk/nisr/2013/18/article/1), [2(b)](https://www.legislation.gov.uk/nisr/2013/18/article/2/b) (with [art. 5](https://www.legislation.gov.uk/nisr/2013/18/article/5))
+[^c-fc8181b513d62b71240db07834485e63]: Textual amendment: Word in [art. 30(1)](https://www.legislation.gov.uk/nisi/1980/397/article/30/1) substituted (25.2.2013) by [The County Courts (Financial Limits) Order (Northern Ireland) 2013 (S.R. 2013/18)](https://www.legislation.gov.uk/nisr/2013/18), [arts. 1](https://www.legislation.gov.uk/nisr/2013/18/article/1), [2(b)](https://www.legislation.gov.uk/nisr/2013/18/article/2/b) (with [art. 5](https://www.legislation.gov.uk/nisr/2013/18/article/5))
 
 [^c16843251]: Textual amendment: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23)
 
-[^key-ca7db1ddd1d1fafad99504de74b7a51e]: Textual amendment: Sum in [art. 30(3)](https://www.legislation.gov.uk/nisi/1980/397/article/30/3) substituted (3.10.2022) by [The County Courts (Financial Limits) Order (Northern Ireland) 2022 (S.R. 2022/158)](https://www.legislation.gov.uk/nisr/2022/158), [arts. 1](https://www.legislation.gov.uk/nisr/2022/158/article/1), [2](https://www.legislation.gov.uk/nisr/2022/158/article/2)
+[^c-ca7db1ddd1d1fafad99504de74b7a51e]: Textual amendment: Sum in [art. 30(3)](https://www.legislation.gov.uk/nisi/1980/397/article/30/3) substituted (3.10.2022) by [The County Courts (Financial Limits) Order (Northern Ireland) 2022 (S.R. 2022/158)](https://www.legislation.gov.uk/nisr/2022/158), [arts. 1](https://www.legislation.gov.uk/nisr/2022/158/article/1), [2](https://www.legislation.gov.uk/nisr/2022/158/article/2)
 
 [^c16843301]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
@@ -1140,7 +1140,7 @@ Article 69(1).
 
 [^c16843391]: Textual amendment: mod. by [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12)
 
-[^key-02ef18739864711c726751f312577ed7]: Textual amendment: Words in [art. 34(2)](https://www.legislation.gov.uk/nisi/1980/397/article/34/2) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(9)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/9) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-02ef18739864711c726751f312577ed7]: Textual amendment: Words in [art. 34(2)](https://www.legislation.gov.uk/nisi/1980/397/article/34/2) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(9)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/9) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c21348761]: Textual amendment: Words in art. 34(3) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/59/5), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(b)(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/b/d)
 
@@ -1182,13 +1182,13 @@ Article 69(1).
 
 [^c22099661]: Textual amendment: Word in art. 47(8) substituted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2010/976/article/15/5), [Sch. 18 para. 118(d)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/118/d) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-c75dc778af5038ea66077778fb935f42]: Textual amendment: Art. 47A inserted (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [s. 28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4), [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2014/13/schedule/paragraph/3)
+[^c-c75dc778af5038ea66077778fb935f42]: Textual amendment: Art. 47A inserted (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [s. 28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4), [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2014/13/schedule/paragraph/3)
 
 [^c16843581]: Textual amendment: [1982 c. 27](https://www.legislation.gov.uk/ukpga/1982/27)
 
 [^M_F_31eb6d1c-86a4-4d75-e8b6-a84b2568b4a4]: Textual amendment: [S.I. 1978/1910](https://www.legislation.gov.uk/uksi/1978/1910)
 
-[^key-a763813a23b63999d1c7b49fd3c5561e]: Textual amendment: Words in art. 50(2) inserted (31.12.2020) by [The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 (S.I. 2020/1342)](https://www.legislation.gov.uk/uksi/2020/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1342/regulation/1/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/3) (with [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/13))
+[^c-a763813a23b63999d1c7b49fd3c5561e]: Textual amendment: Words in art. 50(2) inserted (31.12.2020) by [The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 (S.I. 2020/1342)](https://www.legislation.gov.uk/uksi/2020/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1342/regulation/1/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/3) (with [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/13))
 
 [^c22099671]: Modification: Art. 53: functions of Treasury or Minister for the Civil Service transferred to Department of Finance and Personnel (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(4)(c)](https://www.legislation.gov.uk/uksi/2010/976/article/15/4/c) (with [arts. 15(6)](https://www.legislation.gov.uk/uksi/2010/976/article/15/6), [28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
@@ -1198,7 +1198,7 @@ Article 69(1).
 
 [^c16843611]: Textual amendment: [1981 NI 26](https://www.legislation.gov.uk/1981/ni26)
 
-[^key-555bbbe2c14acbf50391f137438e1341]: Modification: [Art. 55](https://www.legislation.gov.uk/nisi/1980/397/article/55) applied (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [ss. 53(5)](https://www.legislation.gov.uk/nia/2016/4/section/53/5), [64](https://www.legislation.gov.uk/nia/2016/4/section/64)
+[^c-555bbbe2c14acbf50391f137438e1341]: Modification: [Art. 55](https://www.legislation.gov.uk/nisi/1980/397/article/55) applied (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [ss. 53(5)](https://www.legislation.gov.uk/nia/2016/4/section/53/5), [64](https://www.legislation.gov.uk/nia/2016/4/section/64)
 
 [^c16843631]: Textual amendment: [1981 c. 49](https://www.legislation.gov.uk/ukpga/1981/49)
 
@@ -1214,17 +1214,17 @@ Article 69(1).
 
 [^c19957051]: Textual amendment: Words in [art. 58](https://www.legislation.gov.uk/nisi/1980/397/article/58) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 59](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/59); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/a)
 
-[^key-a8f1108d743664fd69526535919338a0]: Modification: Art. 60 applied (11.1.2015) by [The Civil Jurisdiction and Judgments (Protection Measures) Regulations 2014 (S.I. 2014/3298)](https://www.legislation.gov.uk/uksi/2014/3298), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2014/3298/regulation/1/4), [3(5)](https://www.legislation.gov.uk/uksi/2014/3298/regulation/3/5)
+[^c-a8f1108d743664fd69526535919338a0]: Modification: Art. 60 applied (11.1.2015) by [The Civil Jurisdiction and Judgments (Protection Measures) Regulations 2014 (S.I. 2014/3298)](https://www.legislation.gov.uk/uksi/2014/3298), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2014/3298/regulation/1/4), [3(5)](https://www.legislation.gov.uk/uksi/2014/3298/regulation/3/5)
 
-[^key-4e012132ed082a9cb34508679d7e02a2]: Modification: Art. 60 applied by 2003 c. 31, Sch. 2 para. 27(1)(2) (as inserted (17.7.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 73(2)](https://www.legislation.gov.uk/ukpga/2015/9/section/73/2), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(14)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/14)[(15)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/15)); [S.I. 2015/1428](https://www.legislation.gov.uk/uksi/2015/1428), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1428/regulation/2/a))
+[^c-4e012132ed082a9cb34508679d7e02a2]: Modification: Art. 60 applied by 2003 c. 31, Sch. 2 para. 27(1)(2) (as inserted (17.7.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 73(2)](https://www.legislation.gov.uk/ukpga/2015/9/section/73/2), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(14)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/14)[(15)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/15)); [S.I. 2015/1428](https://www.legislation.gov.uk/uksi/2015/1428), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1428/regulation/2/a))
 
-[^key-ecf4f2005f3a832ed1a168a10efcc4ed]: Modification: Art. 60 applied (4.3.2016) by [The Recall of MPs Act 2015 (Recall Petition) Regulations 2016 (S.I. 2016/295)](https://www.legislation.gov.uk/uksi/2016/295), [regs. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1), [129(4)](https://www.legislation.gov.uk/uksi/2016/295/article/129/4)
+[^c-ecf4f2005f3a832ed1a168a10efcc4ed]: Modification: Art. 60 applied (4.3.2016) by [The Recall of MPs Act 2015 (Recall Petition) Regulations 2016 (S.I. 2016/295)](https://www.legislation.gov.uk/uksi/2016/295), [regs. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1), [129(4)](https://www.legislation.gov.uk/uksi/2016/295/article/129/4)
 
-[^key-f4205dcc1963c10cefed4399a15e59a3]: Modification: Art. 60 applied (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 3 para. 12(7)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/12/7); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-f4205dcc1963c10cefed4399a15e59a3]: Modification: Art. 60 applied (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 3 para. 12(7)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/12/7); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-d25e42fdb00924240087fc6690d1ea0c]: Modification: Art. 60 applied (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 3 para. 11(6)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/11/6); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-d25e42fdb00924240087fc6690d1ea0c]: Modification: Art. 60 applied (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 3 para. 11(6)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/11/6); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-f99e2a0ccdce2393d9a795d57f1b28fd]: Modification: [Art. 60](https://www.legislation.gov.uk/nisi/1980/397/article/60) applied by 2003 c. 21, Sch. 3A para. 98 (as inserted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 1](https://www.legislation.gov.uk/ukpga/2017/30/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2017/30/schedule/2)); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/b))
+[^c-f99e2a0ccdce2393d9a795d57f1b28fd]: Modification: [Art. 60](https://www.legislation.gov.uk/nisi/1980/397/article/60) applied by 2003 c. 21, Sch. 3A para. 98 (as inserted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 1](https://www.legislation.gov.uk/ukpga/2017/30/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2017/30/schedule/2)); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/b))
 
 [^c16843771]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
@@ -1232,15 +1232,15 @@ Article 69(1).
 
 [^c21348721]: Textual amendment: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23)
 
-[^key-8464ac2e30d38f0ebd012bfeb6ea7b34]: Textual amendment: Words in [art. 63(1)(a)](https://www.legislation.gov.uk/nisi/1980/397/article/63/1/a) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(10)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/10/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-8464ac2e30d38f0ebd012bfeb6ea7b34]: Textual amendment: Words in [art. 63(1)(a)](https://www.legislation.gov.uk/nisi/1980/397/article/63/1/a) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(10)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/10/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^m00031]: Marginal citation: 1978 c.23
 
 [^m00032]: Marginal citation: 1958 c.9
 
-[^key-f4ae61a23ba99f78721dee2726aebf9e]: Textual amendment: Words in [art. 63(7)](https://www.legislation.gov.uk/nisi/1980/397/article/63/7) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(10)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/10/b) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-f4ae61a23ba99f78721dee2726aebf9e]: Textual amendment: Words in [art. 63(7)](https://www.legislation.gov.uk/nisi/1980/397/article/63/7) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(10)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/10/b) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-3f41c1b829e5b294e33f615dcd5b06a9]: Textual amendment: Words in [art. 63(7)](https://www.legislation.gov.uk/nisi/1980/397/article/63/7) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(10)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/10/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-3f41c1b829e5b294e33f615dcd5b06a9]: Textual amendment: Words in [art. 63(7)](https://www.legislation.gov.uk/nisi/1980/397/article/63/7) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 80(10)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/80/10/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^m00033]: Marginal citation: 1954 c.33
 

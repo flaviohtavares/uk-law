@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Guidance about assistance for people with educational support needs[^key-336ae553db21ea35db990c2cb50bb552][^key-555dd7b267a7335e115c5651d090e2bf]
+## 15. Guidance about assistance for people with educational support needs[^c-336ae553db21ea35db990c2cb50bb552][^c-555dd7b267a7335e115c5651d090e2bf]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-336ae553db21ea35db990c2cb50bb552]: Commencement: S. 15 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-336ae553db21ea35db990c2cb50bb552]: Commencement: S. 15 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-555dd7b267a7335e115c5651d090e2bf]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2025/11/section/15) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-555dd7b267a7335e115c5651d090e2bf]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2025/11/section/15) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)

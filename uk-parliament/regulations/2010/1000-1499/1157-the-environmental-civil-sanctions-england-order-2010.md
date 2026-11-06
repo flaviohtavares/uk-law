@@ -46,9 +46,9 @@ The Secretary of State makes this Order in exercise of the powers contained in s
 
 The Secretary of State has carried out consultation in accordance with section 60 of that Act.
 
-The Secretary of State is satisfied, in accordance with section 66 of that Act, that the Environment Agency and Natural England (who are the regulators for the purpose of this Order) will act in accordance with the principles referred to in section 5(2) of that Act in exercising a power conferred by this Order.[^key-83b9db1cdf505c5ba6b77ea051415c3a][^key-4797e6943538fe814e72fc65c803e7cc]
+The Secretary of State is satisfied, in accordance with section 66 of that Act, that the Environment Agency and Natural England (who are the regulators for the purpose of this Order) will act in accordance with the principles referred to in section 5(2) of that Act in exercising a power conferred by this Order.[^c-83b9db1cdf505c5ba6b77ea051415c3a][^c-4797e6943538fe814e72fc65c803e7cc]
 
-In accordance with section 61(1) of that Act, a draft of this Order has been laid before, and approved by resolution of, each House of Parliament.[^key-83b9db1cdf505c5ba6b77ea051415c3a][^key-4797e6943538fe814e72fc65c803e7cc]
+In accordance with section 61(1) of that Act, a draft of this Order has been laid before, and approved by resolution of, each House of Parliament.[^c-83b9db1cdf505c5ba6b77ea051415c3a][^c-4797e6943538fe814e72fc65c803e7cc]
 
 ## PART 1 — Introduction
 
@@ -361,9 +361,9 @@ in relation to an offence under a provision specified in Schedule 5 if the table
 - (a) triable summarily only, and
 - (b) punishable on summary conviction by a fine (whether or not it is also punishable by a term of imprisonment),
 
-the amount of the variable monetary penalty may not exceed the maximum amount (if any)[^key-7ba9da4b8b15a2052a194bc192b80489] of that fine.
+the amount of the variable monetary penalty may not exceed the maximum amount (if any)[^c-7ba9da4b8b15a2052a194bc192b80489] of that fine.
 
-(5)[^key-175fee25554f20e67de424159d4333df] In any event, in relation to an offence committed before 1st December 2023, the amount of a variable monetary penalty must not exceed £250,000.
+(5)[^c-175fee25554f20e67de424159d4333df] In any event, in relation to an offence committed before 1st December 2023, the amount of a variable monetary penalty must not exceed £250,000.
 
 (6) Before serving a notice relating to a variable monetary penalty the regulator may require the person to provide such information as is reasonable to establish the amount of any financial benefit arising as a result of the offence.
 
@@ -554,10 +554,10 @@ A stop notice must include information as to—
 
 (1) Where a person on whom a notice is served does not comply with it within the time limit specified in the notice, the person is guilty of an offence and liable—
 
-- (a) on summary conviction, to a fine[^key-89ef7969d4369e32342990a02f2bd251], or imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-55669b4e68ec85f6551bc369c09009c3], or both, or
+- (a) on summary conviction, to a fine[^c-89ef7969d4369e32342990a02f2bd251], or imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-55669b4e68ec85f6551bc369c09009c3], or both, or
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years, or a fine, or both.
 
-(2) In the application of this paragraph in relation to an offence committed before 2nd May 2022[^key-ff7cd58b6b559354e1f0b39c8d24baf4] the reference in sub-paragraph (1)(a) to the general limit in a magistrates’ court[^key-d55787f1a05892dd8b0c5335cb9d7bdb] is to be read as a reference to six months.
+(2) In the application of this paragraph in relation to an offence committed before 2nd May 2022[^c-ff7cd58b6b559354e1f0b39c8d24baf4] the reference in sub-paragraph (1)(a) to the general limit in a magistrates’ court[^c-d55787f1a05892dd8b0c5335cb9d7bdb] is to be read as a reference to six months.
 
 ## SCHEDULE 4 — Enforcement undertakings
 
@@ -805,21 +805,21 @@ A full impact assessment has been prepared and placed in the libraries of both H
 
 [^f00001]: Footnote: [2008 c. 13](https://www.legislation.gov.uk/ukpga/2008/13)
 
-[^key-83b9db1cdf505c5ba6b77ea051415c3a]: Modification: Order applied in part (1.5.2015) by [The Nitrate Pollution Prevention Regulations 2015 (S.I. 2015/668)](https://www.legislation.gov.uk/uksi/2015/668), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/668/regulation/1/2), [42(3)](https://www.legislation.gov.uk/uksi/2015/668/regulation/42/3)
+[^c-83b9db1cdf505c5ba6b77ea051415c3a]: Modification: Order applied in part (1.5.2015) by [The Nitrate Pollution Prevention Regulations 2015 (S.I. 2015/668)](https://www.legislation.gov.uk/uksi/2015/668), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/668/regulation/1/2), [42(3)](https://www.legislation.gov.uk/uksi/2015/668/regulation/42/3)
 
-[^key-4797e6943538fe814e72fc65c803e7cc]: Modification: Order applied (with modifications) (2.4.2018) by [The Reduction and Prevention of Agricultural Diffuse Pollution (England) Regulations 2018 (S.I. 2018/151)](https://www.legislation.gov.uk/uksi/2018/151), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b), [13](https://www.legislation.gov.uk/uksi/2018/151/regulation/13)
+[^c-4797e6943538fe814e72fc65c803e7cc]: Modification: Order applied (with modifications) (2.4.2018) by [The Reduction and Prevention of Agricultural Diffuse Pollution (England) Regulations 2018 (S.I. 2018/151)](https://www.legislation.gov.uk/uksi/2018/151), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2018/151/regulation/1/b), [13](https://www.legislation.gov.uk/uksi/2018/151/regulation/13)
 
-[^key-7ba9da4b8b15a2052a194bc192b80489]: Textual amendment: Words in [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/uksi/2010/1157/schedule/2/paragraph/1/4) inserted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 5 para. 19](https://www.legislation.gov.uk/uksi/2015/664/schedule/5/paragraph/19) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-7ba9da4b8b15a2052a194bc192b80489]: Textual amendment: Words in [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/uksi/2010/1157/schedule/2/paragraph/1/4) inserted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 5 para. 19](https://www.legislation.gov.uk/uksi/2015/664/schedule/5/paragraph/19) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-175fee25554f20e67de424159d4333df]: Textual amendment: [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/uksi/2010/1157/schedule/2/paragraph/1/5) substituted (1.12.2023) by [The Environmental Civil Sanctions (England) (Amendment) Order 2023 (S.I. 2023/1045)](https://www.legislation.gov.uk/uksi/2023/1045), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1045/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/1045/article/2/2)
+[^c-175fee25554f20e67de424159d4333df]: Textual amendment: [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/uksi/2010/1157/schedule/2/paragraph/1/5) substituted (1.12.2023) by [The Environmental Civil Sanctions (England) (Amendment) Order 2023 (S.I. 2023/1045)](https://www.legislation.gov.uk/uksi/2023/1045), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1045/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/1045/article/2/2)
 
-[^key-89ef7969d4369e32342990a02f2bd251]: Textual amendment: Words in [Sch. 3 para. 6(1)(a)](https://www.legislation.gov.uk/uksi/2010/1157/schedule/3/paragraph/6/1/a) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 81](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/81) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-89ef7969d4369e32342990a02f2bd251]: Textual amendment: Words in [Sch. 3 para. 6(1)(a)](https://www.legislation.gov.uk/uksi/2010/1157/schedule/3/paragraph/6/1/a) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 81](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/81) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-55669b4e68ec85f6551bc369c09009c3]: Textual amendment: Words in [Sch. 3 para. 6(1)(a)](https://www.legislation.gov.uk/uksi/2010/1157/schedule/3/paragraph/6/1/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2) table
+[^c-55669b4e68ec85f6551bc369c09009c3]: Textual amendment: Words in [Sch. 3 para. 6(1)(a)](https://www.legislation.gov.uk/uksi/2010/1157/schedule/3/paragraph/6/1/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2) table
 
-[^key-ff7cd58b6b559354e1f0b39c8d24baf4]: Textual amendment: Words in [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2010/1157/schedule/3/paragraph/6/2) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/2)
+[^c-ff7cd58b6b559354e1f0b39c8d24baf4]: Textual amendment: Words in [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2010/1157/schedule/3/paragraph/6/2) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/2)
 
-[^key-d55787f1a05892dd8b0c5335cb9d7bdb]: Textual amendment: Words in [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2010/1157/schedule/3/paragraph/6/2) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2) table
+[^c-d55787f1a05892dd8b0c5335cb9d7bdb]: Textual amendment: Words in [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2010/1157/schedule/3/paragraph/6/2) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2) table
 
 [^f00002]: Footnote: [1932 c.12](https://www.legislation.gov.uk/ukpga/1932/12).
 

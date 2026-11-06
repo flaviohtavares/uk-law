@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 130. Cap on individual claims[^key-9d9656a7c4382c23bfb5c23f922cd3b7]
+## 130. Cap on individual claims[^c-9d9656a7c4382c23bfb5c23f922cd3b7]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ In Schedule 3 to the 1980 Act—
 
 ## Annotations
 
-[^key-9d9656a7c4382c23bfb5c23f922cd3b7]: Commencement: [S. 130](https://www.legislation.gov.uk/asp/2010/16/section/130) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-9d9656a7c4382c23bfb5c23f922cd3b7]: Commencement: [S. 130](https://www.legislation.gov.uk/asp/2010/16/section/130) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

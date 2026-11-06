@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 2 — Offences relevant to public protection decisions[^key-b1b09fd917104483a3b31b7295aa983c][^key-38253d844ced42c1dd78215a56eef785]
+## Schedule 2 — Offences relevant to public protection decisions[^c-b1b09fd917104483a3b31b7295aa983c][^c-38253d844ced42c1dd78215a56eef785]
 
 *Extent: E+W*
 
 Section 59(9)
 
-[^key-38253d844ced42c1dd78215a56eef785]
+[^c-38253d844ced42c1dd78215a56eef785]
 
 Before Schedule 19 to the Criminal Justice Act 2003 insert—
 
@@ -341,6 +341,6 @@ Before Schedule 19 to the Criminal Justice Act 2003 insert—
 
 ## Annotations
 
-[^key-b1b09fd917104483a3b31b7295aa983c]: Commencement: Sch. 2 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-b1b09fd917104483a3b31b7295aa983c]: Commencement: Sch. 2 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-38253d844ced42c1dd78215a56eef785]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2024/21/schedule/2) in force at 3.4.2025 by [S.I. 2025/441](https://www.legislation.gov.uk/uksi/2025/441), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/441/regulation/2/b)
+[^c-38253d844ced42c1dd78215a56eef785]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2024/21/schedule/2) in force at 3.4.2025 by [S.I. 2025/441](https://www.legislation.gov.uk/uksi/2025/441), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/441/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148A. Full PI references: reversion of the matter to CMA[^key-8e794aa0b4f762ffdd41cc1b8a9cd195]
+## 148A. Full PI references: reversion of the matter to CMA[^c-8e794aa0b4f762ffdd41cc1b8a9cd195]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e794aa0b4f762ffdd41cc1b8a9cd195]: Textual amendment: S. 148A inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 10 para. 18](https://www.legislation.gov.uk/ukpga/2013/24/schedule/10/paragraph/18); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-8e794aa0b4f762ffdd41cc1b8a9cd195]: Textual amendment: S. 148A inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 10 para. 18](https://www.legislation.gov.uk/ukpga/2013/24/schedule/10/paragraph/18); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

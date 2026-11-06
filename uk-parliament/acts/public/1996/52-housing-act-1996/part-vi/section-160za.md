@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160ZA. Allocation only to eligible and qualifying persons: England[^key-ebf6166858a589806198eaa03c23d035]
+## 160ZA. Allocation only to eligible and qualifying persons: England[^c-ebf6166858a589806198eaa03c23d035]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) A person subject to immigration control within the meaning of the Asylum and Immigration Act 1996 is ineligible for an allocation of housing accommodation by a local housing authority in England unless he is of a class prescribed by regulations made by the Secretary of State.
 
-(3) No person who is excluded from entitlement to universal credit or[^key-bc545874c37472250d4cd77edf8256b4] housing benefit by section 115 of the Immigration and Asylum Act 1999 (exclusion from benefits) shall be included in any class prescribed under subsection (2).
+(3) No person who is excluded from entitlement to universal credit or[^c-bc545874c37472250d4cd77edf8256b4] housing benefit by section 115 of the Immigration and Asylum Act 1999 (exclusion from benefits) shall be included in any class prescribed under subsection (2).
 
 (4) The Secretary of State may by regulations prescribe other classes of persons from abroad who are ineligible to be allocated housing accommodation by local housing authorities in England.
 
@@ -58,6 +58,6 @@ they shall notify the applicant of their decision and the grounds for it.
 
 ## Annotations
 
-[^key-ebf6166858a589806198eaa03c23d035]: Textual amendment: S. 160ZA inserted (15.1.2012 for specified purposes, 18.6.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), ss. 146(1), 240(2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), art. 4(1)(k) (with arts. 6, 7, 9-11); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), art. 3
+[^c-ebf6166858a589806198eaa03c23d035]: Textual amendment: S. 160ZA inserted (15.1.2012 for specified purposes, 18.6.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), ss. 146(1), 240(2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), art. 4(1)(k) (with arts. 6, 7, 9-11); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), art. 3
 
-[^key-bc545874c37472250d4cd77edf8256b4]: Textual amendment: Words in [s. 160ZA(3)](https://www.legislation.gov.uk/ukpga/1996/52/section/160ZA/3) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/12/3)
+[^c-bc545874c37472250d4cd77edf8256b4]: Textual amendment: Words in [s. 160ZA(3)](https://www.legislation.gov.uk/ukpga/1996/52/section/160ZA/3) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/12/3)

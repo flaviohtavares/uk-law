@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Interpretation[^key-59441d99995cfba36b5d35cfdb59404a][^key-694c24767fab2c62b64e122ac4c9a1f3]
+## 3. Interpretation[^c-59441d99995cfba36b5d35cfdb59404a][^c-694c24767fab2c62b64e122ac4c9a1f3]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
   - (d) Christmas Day;
   - (e) Good Friday;
   - (f) a day that is a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971[^f00005];
-  - (g) a day appointed for public thanksgiving or mourning;[^key-300b0b8bfc0e04633b9cce3cd95708c5]
+  - (g) a day appointed for public thanksgiving or mourning;[^c-300b0b8bfc0e04633b9cce3cd95708c5]
 - “**home address information**” (“***gwybodaeth am gyfeiriad cartref***”) in relation to a person nominated—
   - (a) in Schedule 1, has the meaning given by rule 13(3) of that Schedule, and
   - (b) in Schedule 2, has the meaning given by rule 13(3) of that Schedule;
@@ -46,7 +46,7 @@ summary: ''
 - (c) a mayoral election, that is, an election conducted under the Local Authorities (Mayoral Elections) (England and Wales) Regulations 2007[^f00006];
 - (d) a police and crime commissioner election, that is, an election of a police and crime commissioner in accordance with Chapter 6 of Part 1 of the Police Reform and Social Responsibility Act 2011[^f00007].
 
-(3) In these Rules, unless otherwise indicated, the following words and expressions have the same meaning as in the 1983 Act (see sections 202(1)[^key-cae3743970a0be5508662f794291cf87][^f00008] and 203(1) of that Act)—
+(3) In these Rules, unless otherwise indicated, the following words and expressions have the same meaning as in the 1983 Act (see sections 202(1)[^c-cae3743970a0be5508662f794291cf87][^f00008] and 203(1) of that Act)—
 
 - “**anonymous entry**” (“***cofnod dienw***”);
 - “**disability**” (“***anabledd***”)
@@ -58,28 +58,28 @@ summary: ''
 - “**proxy postal voters list**” (“***rhestr pleidleiswyr post drwy ddirprwy***”);
 - “**proper officer**” (“***swyddog priodol***”);
 - “**record of anonymous entries**” (“***cofnod cofnodion dienw***”);
-- “[^key-264d078c663ab6eb8e575399f804cb97]**simple majority system**” (“***system mwyafrif syml***”);
+- “[^c-264d078c663ab6eb8e575399f804cb97]**simple majority system**” (“***system mwyafrif syml***”);
 - “**single transferable vote system**” (“*system pleidlais sengl drosglwyddadwy”*)
 - “**voter**” (“***pleidleisiwr***”).
 
 ## Annotations
 
-[^key-59441d99995cfba36b5d35cfdb59404a]: Commencement: Rule 3 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-59441d99995cfba36b5d35cfdb59404a]: Commencement: Rule 3 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-694c24767fab2c62b64e122ac4c9a1f3]: Modification: [Rule 3](https://www.legislation.gov.uk/wsi/2021/1459/rule/3) applied (with modifications) (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 3 paras. 22](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/22), [23](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/23) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
+[^c-694c24767fab2c62b64e122ac4c9a1f3]: Modification: [Rule 3](https://www.legislation.gov.uk/wsi/2021/1459/rule/3) applied (with modifications) (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 3 paras. 22](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/22), [23](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/23) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
 
 [^f00004]: Footnote: [S.I. 2004/294](https://www.legislation.gov.uk/uksi/2004/294) as amended by paragraph 17 of Schedule 2 to the Local Government and Elections (Wales) Act 2021 and by [S.I. 2006/3278](https://www.legislation.gov.uk/uksi/2006/3278), [S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917), [S.I. 2014/920](https://www.legislation.gov.uk/uksi/2014/920) and [S.I. 2015/654](https://www.legislation.gov.uk/uksi/2015/654).
 
 [^f00005]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-300b0b8bfc0e04633b9cce3cd95708c5]: Textual amendment: Words in [rule 3(1)](https://www.legislation.gov.uk/wsi/2021/1459/rule/3/1) inserted (10.3.2022) by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/5/2) (with [reg. 12(b)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/b))
+[^c-300b0b8bfc0e04633b9cce3cd95708c5]: Textual amendment: Words in [rule 3(1)](https://www.legislation.gov.uk/wsi/2021/1459/rule/3/1) inserted (10.3.2022) by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/5/2) (with [reg. 12(b)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/b))
 
 [^f00006]: Footnote: [S.I. 2007/1024](https://www.legislation.gov.uk/uksi/2007/1024); relevant amending instruments are [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172), [S.I. 2011/926](https://www.legislation.gov.uk/uksi/2011/926), [S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917), [S.I. 2014/1370](https://www.legislation.gov.uk/uksi/2014/1370) and [S.I. 2018/1310](https://www.legislation.gov.uk/uksi/2018/1310).
 
 [^f00007]: Footnote: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13). Chapter 6 of Part 1 was amended by the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) (Schedule 8, paragraph 184), by the Local Government (Democracy) (Wales) Act 2013 (anaw 4) (Schedule 1, paragraph 5), by the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3) (section 122(1), Schedule 2, paragraph 117 and Schedule 9, paragraph 73) and by the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4) (section 8). It was also amended by [S.I. 2014/268](https://www.legislation.gov.uk/uksi/2014/268), [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), [S.I. 2015/1526](https://www.legislation.gov.uk/uksi/2015/1526), [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), [S.I. 2017/470](https://www.legislation.gov.uk/uksi/2017/470) and [S.I. 2018/1310](https://www.legislation.gov.uk/uksi/2018/1310).
 
-[^key-cae3743970a0be5508662f794291cf87]: Textual amendment: Words in [rule 3(3)](https://www.legislation.gov.uk/wsi/2021/1459/rule/3/3) substituted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [2(a)](https://www.legislation.gov.uk/wsi/2023/1064/rule/2/a)
+[^c-cae3743970a0be5508662f794291cf87]: Textual amendment: Words in [rule 3(3)](https://www.legislation.gov.uk/wsi/2021/1459/rule/3/3) substituted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [2(a)](https://www.legislation.gov.uk/wsi/2023/1064/rule/2/a)
 
 [^f00008]: Footnote: Section 202(1) was amended by the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50) (Schedule 2, paragraph 3), by the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29) (Schedule 3, paragraph 38), by the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2) (Schedule 6, paragraph 9), by the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22) (Schedule 1, paragraphs 13, 76 and 128) and by the Local Government and Elections (Wales) Act 2021 (Schedule 2, paragraph 2(17)). There are other amendments but they are not relevant to these Rules.
 
-[^key-264d078c663ab6eb8e575399f804cb97]: Textual amendment: Words in [rule 3(3)](https://www.legislation.gov.uk/wsi/2021/1459/rule/3/3) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2023/1064/rule/2/b)
+[^c-264d078c663ab6eb8e575399f804cb97]: Textual amendment: Words in [rule 3(3)](https://www.legislation.gov.uk/wsi/2021/1459/rule/3/3) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2023/1064/rule/2/b)

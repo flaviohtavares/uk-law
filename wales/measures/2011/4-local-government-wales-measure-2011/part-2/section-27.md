@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. New adoption absence[^key-ad1d159e3065c20c1afe4721d66aad92]
+## 27. New adoption absence[^c-ad1d159e3065c20c1afe4721d66aad92]
 
 *Extent: E+W*
 
@@ -35,11 +35,11 @@ summary: ''
 - (a) the extent of a member's entitlement to new adoption absence in respect of a child;
 - (b) when new adoption absence may be taken.
 
-(4)[^key-a3387a294caf7c0227e084267cb008c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a3387a294caf7c0227e084267cb008c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Regulations must require new adoption absence to be taken before the end of a prescribed period.
 
-(6)[^key-c6a5584dc2b47b8271c8eb5c5e66d1b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c6a5584dc2b47b8271c8eb5c5e66d1b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Regulations may prescribe circumstances in which a member of a local authority, or the local authority, may—
 
@@ -54,20 +54,20 @@ summary: ''
 - (d) make provision excluding an entitlement to new adoption absence in respect of a child where more than one child is placed for adoption as part of the same arrangement;
 - (e) make provision about how new adoption absence may be taken.
 
-(9)[^key-401d879612d620a074720b4ec5a723d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-401d879612d620a074720b4ec5a723d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-a953ce521091e265ba697ee0beb64d77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-a953ce521091e265ba697ee0beb64d77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) The Welsh Ministers may by regulations provide for this section to apply in relation to cases which involve adoption, but not the placement of a child for adoption under the law of any part of the United Kingdom.
 
 ## Annotations
 
-[^key-ad1d159e3065c20c1afe4721d66aad92]: Commencement: S. 27 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/c)
+[^c-ad1d159e3065c20c1afe4721d66aad92]: Commencement: S. 27 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/c)
 
-[^key-a3387a294caf7c0227e084267cb008c9]: Textual amendment: [S. 27(4)](https://www.legislation.gov.uk/mwa/2011/4/section/27/4) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 61(5)(a)](https://www.legislation.gov.uk/asc/2021/1/section/61/5/a), [175(1)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/d)
+[^c-a3387a294caf7c0227e084267cb008c9]: Textual amendment: [S. 27(4)](https://www.legislation.gov.uk/mwa/2011/4/section/27/4) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 61(5)(a)](https://www.legislation.gov.uk/asc/2021/1/section/61/5/a), [175(1)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/d)
 
-[^key-c6a5584dc2b47b8271c8eb5c5e66d1b1]: Textual amendment: [S. 27(6)](https://www.legislation.gov.uk/mwa/2011/4/section/27/6) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 61(5)(b)](https://www.legislation.gov.uk/asc/2021/1/section/61/5/b), [175(1)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/d)
+[^c-c6a5584dc2b47b8271c8eb5c5e66d1b1]: Textual amendment: [S. 27(6)](https://www.legislation.gov.uk/mwa/2011/4/section/27/6) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 61(5)(b)](https://www.legislation.gov.uk/asc/2021/1/section/61/5/b), [175(1)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/d)
 
-[^key-401d879612d620a074720b4ec5a723d3]: Textual amendment: [S. 27(9)](https://www.legislation.gov.uk/mwa/2011/4/section/27/9) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 61(5)(c)](https://www.legislation.gov.uk/asc/2021/1/section/61/5/c), [175(1)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/d)
+[^c-401d879612d620a074720b4ec5a723d3]: Textual amendment: [S. 27(9)](https://www.legislation.gov.uk/mwa/2011/4/section/27/9) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 61(5)(c)](https://www.legislation.gov.uk/asc/2021/1/section/61/5/c), [175(1)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/d)
 
-[^key-a953ce521091e265ba697ee0beb64d77]: Textual amendment: [S. 27(10)](https://www.legislation.gov.uk/mwa/2011/4/section/27/10) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 61(5)(c)](https://www.legislation.gov.uk/asc/2021/1/section/61/5/c), [175(1)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/d)
+[^c-a953ce521091e265ba697ee0beb64d77]: Textual amendment: [S. 27(10)](https://www.legislation.gov.uk/mwa/2011/4/section/27/10) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 61(5)(c)](https://www.legislation.gov.uk/asc/2021/1/section/61/5/c), [175(1)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/d)

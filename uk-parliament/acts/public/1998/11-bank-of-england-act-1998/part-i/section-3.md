@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Functions to be carried out by non-executive members.[^key-3350d6dbf6195318325a41fa1996ff01]
+## 3. Functions to be carried out by non-executive members.[^c-3350d6dbf6195318325a41fa1996ff01]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3350d6dbf6195318325a41fa1996ff01]: Textual amendment: Ss. 3A-3F substituted for s. 3 (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) , [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/3/2) , [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20) ); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423) , [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3) ,
+[^c-3350d6dbf6195318325a41fa1996ff01]: Textual amendment: Ss. 3A-3F substituted for s. 3 (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) , [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/3/2) , [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20) ); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423) , [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3) ,

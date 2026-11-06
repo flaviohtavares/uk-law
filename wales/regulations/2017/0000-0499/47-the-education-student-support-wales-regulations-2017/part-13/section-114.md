@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Transfer of status[^key-f5b98e419b4d71bfa28647000d1a6c02]
+## 114. Transfer of status[^c-f5b98e419b4d71bfa28647000d1a6c02]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5b98e419b4d71bfa28647000d1a6c02]: Commencement: Reg. 114 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-f5b98e419b4d71bfa28647000d1a6c02]: Commencement: Reg. 114 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

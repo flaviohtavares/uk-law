@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37.5. Respondent’s notice[^key-235cf975ad10054eeffb10211beada6d]
+## 37.5. Respondent’s notice[^c-235cf975ad10054eeffb10211beada6d]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-235cf975ad10054eeffb10211beada6d]: Commencement: [Rule 37.5](https://www.legislation.gov.uk/uksi/2025/909/rule/37.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-235cf975ad10054eeffb10211beada6d]: Commencement: [Rule 37.5](https://www.legislation.gov.uk/uksi/2025/909/rule/37.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

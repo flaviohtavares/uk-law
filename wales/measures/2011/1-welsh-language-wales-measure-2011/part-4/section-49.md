@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Varying compliance notices[^key-65050df3d370a1f26dfbb8c42644e904]
+## 49. Varying compliance notices[^c-65050df3d370a1f26dfbb8c42644e904]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65050df3d370a1f26dfbb8c42644e904]: Commencement: [S. 49](https://www.legislation.gov.uk/mwa/2011/1/section/49) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)
+[^c-65050df3d370a1f26dfbb8c42644e904]: Commencement: [S. 49](https://www.legislation.gov.uk/mwa/2011/1/section/49) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)

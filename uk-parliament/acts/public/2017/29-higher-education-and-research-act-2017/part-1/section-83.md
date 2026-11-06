@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Meaning of “English higher education provider” etc[^key-38126dd1a85d93c56eb7b68284541708]
+## 83. Meaning of “English higher education provider” etc[^c-38126dd1a85d93c56eb7b68284541708]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - “**higher education provider**” means an institution which provides higher education;
 - “**institution**” includes any training provider (whether or not the training provider would otherwise be regarded as an institution);
 - “**higher education**” means education provided by means of a higher education course;
-- “[^key-868d4d886abdb0d6237f17514fc53519]**higher education course** ” means—
+- “[^c-868d4d886abdb0d6237f17514fc53519]**higher education course** ” means—
   - (a) a course of any description mentioned in Schedule 6 to the Education Reform Act 1988, or
   - (b) a module of such a course, where it is undertaken otherwise than as part of that course;
 - “**training provider**” means a person who provides training for members of the school workforce within the meaning of Part 3 of the Education Act 2005 (see section 100 of that Act).
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-38126dd1a85d93c56eb7b68284541708]: Commencement: S. 83 in force at 1.1.2018 by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/2/m)
+[^c-38126dd1a85d93c56eb7b68284541708]: Commencement: S. 83 in force at 1.1.2018 by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/2/m)
 
-[^key-868d4d886abdb0d6237f17514fc53519]: Textual amendment: Words in s. 83(1) substituted (12.5.2026 for specified purposes, 1.9.2026 in so far as not already in force) by [Skills and Post-16 Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/16/3), [36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3); [S.I. 2026/498](https://www.legislation.gov.uk/uksi/2026/498), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/498/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2026/498/regulation/3/2)
+[^c-868d4d886abdb0d6237f17514fc53519]: Textual amendment: Words in s. 83(1) substituted (12.5.2026 for specified purposes, 1.9.2026 in so far as not already in force) by [Skills and Post-16 Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/16/3), [36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3); [S.I. 2026/498](https://www.legislation.gov.uk/uksi/2026/498), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/498/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2026/498/regulation/3/2)

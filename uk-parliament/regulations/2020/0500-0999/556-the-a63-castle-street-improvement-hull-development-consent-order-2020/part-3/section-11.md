@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Classification of roads, etc.[^key-0c633524bbf9a349ca5a21eb4d93c309]
+## 11. Classification of roads, etc.[^c-0c633524bbf9a349ca5a21eb4d93c309]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c633524bbf9a349ca5a21eb4d93c309]: Commencement: Art. 11 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-0c633524bbf9a349ca5a21eb4d93c309]: Commencement: Art. 11 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)

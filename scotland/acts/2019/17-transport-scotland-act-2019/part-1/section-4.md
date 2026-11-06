@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Review of strategy[^key-81cd81df6edc22cfb41a5c4ff23a2850]
+## 4. Review of strategy[^c-81cd81df6edc22cfb41a5c4ff23a2850]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81cd81df6edc22cfb41a5c4ff23a2850]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2019/17/section/4) in force at 15.1.2020 by [S.S.I. 2019/428](https://www.legislation.gov.uk/ssi/2019/428), [reg. 2](https://www.legislation.gov.uk/ssi/2019/428/regulation/2)
+[^c-81cd81df6edc22cfb41a5c4ff23a2850]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2019/17/section/4) in force at 15.1.2020 by [S.S.I. 2019/428](https://www.legislation.gov.uk/ssi/2019/428), [reg. 2](https://www.legislation.gov.uk/ssi/2019/428/regulation/2)

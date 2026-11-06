@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Consequential amendments, revocations and savings[^key-88a5f7efd3ff354f810d7b840472a8e8]
+## 30. Consequential amendments, revocations and savings[^c-88a5f7efd3ff354f810d7b840472a8e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88a5f7efd3ff354f810d7b840472a8e8]: Commencement: Reg. 30 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-88a5f7efd3ff354f810d7b840472a8e8]: Commencement: Reg. 30 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Requirement for certain unregistered overseas entities to provide information[^key-2ff5c961048a95b89f58bae8a3a7a6fa][^key-42de3d231173c20c0a4b943e73a08688][^key-32fb1b3aee9a7cdd8e13a51b44b902d1]
+## 42. Requirement for certain unregistered overseas entities to provide information[^c-2ff5c961048a95b89f58bae8a3a7a6fa][^c-42de3d231173c20c0a4b943e73a08688][^c-32fb1b3aee9a7cdd8e13a51b44b902d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2ff5c961048a95b89f58bae8a3a7a6fa]: Commencement: S. 42 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-2ff5c961048a95b89f58bae8a3a7a6fa]: Commencement: S. 42 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-42de3d231173c20c0a4b943e73a08688]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/10/section/42) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/m)
+[^c-42de3d231173c20c0a4b943e73a08688]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/10/section/42) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/m)
 
-[^key-32fb1b3aee9a7cdd8e13a51b44b902d1]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/10/section/42) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
+[^c-32fb1b3aee9a7cdd8e13a51b44b902d1]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/10/section/42) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)

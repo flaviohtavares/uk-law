@@ -50,7 +50,7 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 2(1) and (2)(b) and 4(2)(c) of the Childcare Act 2016[^f00001].
 
-## 1. Citation, commencement and extent[^key-d8a7f5bde986b12599ff68d43b8fd6b5]
+## 1. Citation, commencement and extent[^c-d8a7f5bde986b12599ff68d43b8fd6b5]
 
 These Regulations—
 
@@ -58,7 +58,7 @@ These Regulations—
 - (b) come into force on 31st December 2025, and
 - (c) extend to England and Wales.
 
-## 2. Amendment of the Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025[^key-b169f44db13dd34f61a3ec3de2c7bd57]
+## 2. Amendment of the Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025[^c-b169f44db13dd34f61a3ec3de2c7bd57]
 
 (1) The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025[^f00002] are amended in accordance with paragraph (2).
 
@@ -92,9 +92,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2016 c. 5](https://www.legislation.gov.uk/ukpga/2016/5).
 
-[^key-d8a7f5bde986b12599ff68d43b8fd6b5]: Commencement: Reg. 1 in force at 31.12.2025, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/1287/regulation/1/b)
+[^c-d8a7f5bde986b12599ff68d43b8fd6b5]: Commencement: Reg. 1 in force at 31.12.2025, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/1287/regulation/1/b)
 
-[^key-b169f44db13dd34f61a3ec3de2c7bd57]: Commencement: Reg. 2 in force at 31.12.2025, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/1287/regulation/1/b)
+[^c-b169f44db13dd34f61a3ec3de2c7bd57]: Commencement: Reg. 2 in force at 31.12.2025, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/1287/regulation/1/b)
 
 [^f00002]: Footnote: [S.I. 2025/1261](https://www.legislation.gov.uk/uksi/2025/1261).
 

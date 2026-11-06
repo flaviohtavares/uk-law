@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Review and cancellation of pensions payable on the ground of permanent disablement[^key-11b2997d8fb7f5a2c98863ee38d71769]
+## 48. Review and cancellation of pensions payable on the ground of permanent disablement[^c-11b2997d8fb7f5a2c98863ee38d71769]
 
 *Extent: N.I.*
 
@@ -108,7 +108,7 @@ is less than his aggregate pension contributions in respect of the relevant peri
 
 is terminated under this regulation he shall retain any lump-sum payment received by way of such pension subject to regulation 25(1)(b), (2) and (3).
 
-(17) In its application to a specified[^key-27b6c8aaaae4e7c7ee5e0eef59397f02] NCA officer [^key-7b71cd92d2e500594d86cb237fbe6b8d]..., this regulation shall apply with the following modifications—
+(17) In its application to a specified[^c-27b6c8aaaae4e7c7ee5e0eef59397f02] NCA officer [^c-7b71cd92d2e500594d86cb237fbe6b8d]..., this regulation shall apply with the following modifications—
 
 - (a) any consideration by the Board under paragraph (1) shall be of whether the disablement of the person concerned has significantly worsened such that he has become permanently disabled for engaging in any regular employment (in the case of a person such as is mentioned in paragraph (1)(a)) or improved such that his disablement for engaging in any regular employment has ceased (in the case of a person such as is mentioned in paragraph (1)(a)(ii);
 - (b) any consideration by the Board under paragraph (1) shall not include any consideration of whether the disability of the person concerned has improved such that he is no longer disabled for the performance of the ordinary duties of a member of the police service; and
@@ -116,10 +116,10 @@ is terminated under this regulation he shall retain any lump-sum payment receive
 
 ## Annotations
 
-[^key-11b2997d8fb7f5a2c98863ee38d71769]: Commencement: Reg. 48 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-11b2997d8fb7f5a2c98863ee38d71769]: Commencement: Reg. 48 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
 
 [^f00022]: Footnote: [1993 c.49](https://www.legislation.gov.uk/ukpga/1993/49)
 
-[^key-27b6c8aaaae4e7c7ee5e0eef59397f02]: Textual amendment: Words in [reg. 48(17)](https://www.legislation.gov.uk/nisr/2009/79/regulation/48/17) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 107(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/107/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2318/article/3))
+[^c-27b6c8aaaae4e7c7ee5e0eef59397f02]: Textual amendment: Words in [reg. 48(17)](https://www.legislation.gov.uk/nisr/2009/79/regulation/48/17) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 107(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/107/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2318/article/3))
 
-[^key-7b71cd92d2e500594d86cb237fbe6b8d]: Textual amendment: Words in [reg. 48(17)](https://www.legislation.gov.uk/nisr/2009/79/regulation/48/17) omitted (7.10.2013) by virtue of [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 107(b)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/107/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2318/article/3))
+[^c-7b71cd92d2e500594d86cb237fbe6b8d]: Textual amendment: Words in [reg. 48(17)](https://www.legislation.gov.uk/nisr/2009/79/regulation/48/17) omitted (7.10.2013) by virtue of [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 107(b)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/107/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2318/article/3))

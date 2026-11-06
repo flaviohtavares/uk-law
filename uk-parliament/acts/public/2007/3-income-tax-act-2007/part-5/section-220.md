@@ -23,7 +23,7 @@ summary: ''
 (1) If the investor's liability to income tax is reduced for any tax year in respect of any issue of shares and—
 
 - (a) the amount of the reduction (“A”), is less than
-- (b) the amount (“B”) which is equal to income tax at the EIS[^key-971c2363164cedae330c13f39c5b1ed8] original rate on the amount on which the investor claims EIS relief in respect of the shares,
+- (b) the amount (“B”) which is equal to income tax at the EIS[^c-971c2363164cedae330c13f39c5b1ed8] original rate on the amount on which the investor claims EIS relief in respect of the shares,
 
 section 213(2) has effect in relation to any value received as if the amount referred to as “**R**” were reduced by multiplying it by the fraction—
 
@@ -35,4 +35,4 @@ section 213(2) has effect in relation to any value received as if the amount ref
 
 ## Annotations
 
-[^key-971c2363164cedae330c13f39c5b1ed8]: Textual amendment: Words in s. 220(1)(b) substituted (13.10.2011) (with effect in accordance with s. 42(7)(8) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 42(3)(d)](https://www.legislation.gov.uk/ukpga/2011/11/section/42/3/d)[(6)](https://www.legislation.gov.uk/ukpga/2011/11/section/42/6); [S.I. 2011/2459](https://www.legislation.gov.uk/uksi/2011/2459), [art. 2](https://www.legislation.gov.uk/uksi/2011/2459/article/2)
+[^c-971c2363164cedae330c13f39c5b1ed8]: Textual amendment: Words in s. 220(1)(b) substituted (13.10.2011) (with effect in accordance with s. 42(7)(8) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 42(3)(d)](https://www.legislation.gov.uk/ukpga/2011/11/section/42/3/d)[(6)](https://www.legislation.gov.uk/ukpga/2011/11/section/42/6); [S.I. 2011/2459](https://www.legislation.gov.uk/uksi/2011/2459), [art. 2](https://www.legislation.gov.uk/uksi/2011/2459/article/2)

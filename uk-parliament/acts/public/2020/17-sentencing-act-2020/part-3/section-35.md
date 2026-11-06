@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Powers to order statement as to offender's financial circumstances[^key-39ee20b82721919af16465423d81c8ce]
+## 35. Powers to order statement as to offender's financial circumstances[^c-39ee20b82721919af16465423d81c8ce]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ the court may make a financial circumstances order with respect to the parent or
 
 ## Annotations
 
-[^key-39ee20b82721919af16465423d81c8ce]: Commencement: S. 35 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-39ee20b82721919af16465423d81c8ce]: Commencement: S. 35 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

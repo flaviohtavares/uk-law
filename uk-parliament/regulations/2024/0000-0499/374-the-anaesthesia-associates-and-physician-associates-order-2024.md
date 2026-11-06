@@ -58,7 +58,7 @@ Accordingly, His Majesty is pleased, by and with the advice of His Privy Council
 
 ## Part 1 — GENERAL
 
-### 1. Citation and commencement[^key-92952937d48f0bf0577d561755088c62]
+### 1. Citation and commencement[^c-92952937d48f0bf0577d561755088c62]
 
 (1) This Order may be cited as the Anaesthesia Associates and Physician Associates Order 2024.
 
@@ -66,7 +66,7 @@ Accordingly, His Majesty is pleased, by and with the advice of His Privy Council
 
 (3) The remaining provisions of this Order come into force on 13th December 2024.
 
-### 2. Interpretation[^key-0a6a2786c65453e31c892aa59b2b19ad]
+### 2. Interpretation[^c-0a6a2786c65453e31c892aa59b2b19ad]
 
 (1) In this Order—
 
@@ -90,7 +90,7 @@ Accordingly, His Majesty is pleased, by and with the advice of His Privy Council
 - “**the Registrar**” means the Registrar appointed under paragraph 1(b)(i) of Schedule 1;
 - “**registration**” means registration in the register and “registered” must be construed accordingly;
 - “**the Regulator**” means the General Medical Council[^f00003].
-- “[^key-56ab1d04664ab8a9e8e22c76904a1925]**specified state qualification**” means a qualification comparable to that as an anaesthesia associate or physician associate, granted in one of the states specified in Schedule 1 to the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023;
+- “[^c-56ab1d04664ab8a9e8e22c76904a1925]**specified state qualification**” means a qualification comparable to that as an anaesthesia associate or physician associate, granted in one of the states specified in Schedule 1 to the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023;
 
 (2) Any reference in this Order to—
 
@@ -101,7 +101,7 @@ Accordingly, His Majesty is pleased, by and with the advice of His Privy Council
 
 ## Part 2 — STANDARDS AND APPROVALS
 
-### 3. Standards[^key-c1013be9d2ad5a73c368bf0a3e598af8]
+### 3. Standards[^c-c1013be9d2ad5a73c368bf0a3e598af8]
 
 (1) The Regulator must determine standards applicable to associates.
 
@@ -121,7 +121,7 @@ Accordingly, His Majesty is pleased, by and with the advice of His Privy Council
 - (a) must keep the standards under review, and
 - (b) may vary or revoke a standard.
 
-### 4. Approval of education, training, etc.[^key-73ebcf917dea6eb274039f86f7ab12cb]
+### 4. Approval of education, training, etc.[^c-73ebcf917dea6eb274039f86f7ab12cb]
 
 (1) For the purposes of enabling a person to attain the standards determined under article 3, the Regulator may—
 
@@ -148,7 +148,7 @@ Accordingly, His Majesty is pleased, by and with the advice of His Privy Council
 
 ## Part 3 — THE REGISTER
 
-### 5. Register[^key-c3050939f6e5d9d81348dbbb9ff266f8]
+### 5. Register[^c-c3050939f6e5d9d81348dbbb9ff266f8]
 
 (1) The Registrar must—
 
@@ -177,7 +177,7 @@ Accordingly, His Majesty is pleased, by and with the advice of His Privy Council
 
 (4) The Registrar may record information in the register other than that mentioned in paragraph (3).
 
-### 6. Registration[^key-87ca8bbd37ae67f95ec773acb7c6a921]
+### 6. Registration[^c-87ca8bbd37ae67f95ec773acb7c6a921]
 
 (1) Except where paragraphs (2) or (3) apply, the Registrar must register a person who applies for registration (“**the applicant**”) if the applicant—
 
@@ -207,15 +207,15 @@ Accordingly, His Majesty is pleased, by and with the advice of His Privy Council
 
   which provides appropriate and adequate cover in respect of the applicant’s practice as an associate.
 
-### 7. Periodic assessment[^key-73239441a54fa22a37b3569a0efebc1c]
+### 7. Periodic assessment[^c-73239441a54fa22a37b3569a0efebc1c]
 
 The Regulator must carry out a periodic assessment as to whether a registrant continues to meet the standards determined under article 3(1).
 
-### 8. Conditions on practice as an associate[^key-12dba80990211321dde1c540a15b6f5e]
+### 8. Conditions on practice as an associate[^c-12dba80990211321dde1c540a15b6f5e]
 
 The Regulator may impose conditions on the practice of such descriptions of associate as may be prescribed in rules under paragraph 2(2)(e) of Schedule 4.
 
-### 9. Removal of an entry[^key-3df61fd6bbb0914c632ecaaeda8de551]
+### 9. Removal of an entry[^c-3df61fd6bbb0914c632ecaaeda8de551]
 
 (1) The Registrar, as soon as reasonably practicable, must remove an entry from the register where—
 
@@ -243,7 +243,7 @@ The Regulator may impose conditions on the practice of such descriptions of asso
 
 ## Part 4 — FITNESS TO PRACTISE
 
-### 10. Steps which may be taken where a question as to fitness to practise arises[^key-17c9470bfe6bae1151d6c793a826ec97]
+### 10. Steps which may be taken where a question as to fitness to practise arises[^c-17c9470bfe6bae1151d6c793a826ec97]
 
 (1) Where the Regulator considers that a question has arisen as to whether an associate’s fitness to practise is impaired, the Regulator must—
 
@@ -294,7 +294,7 @@ The Regulator may impose conditions on the practice of such descriptions of asso
 - (b) suspended, or
 - (c) removed.
 
-### 11. Interim Measures[^key-2e65122f1086b50deb3287a15b1e1153]
+### 11. Interim Measures[^c-2e65122f1086b50deb3287a15b1e1153]
 
 (1) Where a question has arisen in accordance with article 10(1) as to whether an associate’s fitness to practise is impaired, an Interim Measure may be imposed upon that associate by a Panel, pending—
 
@@ -331,7 +331,7 @@ apply to the court for an extension of the period.
 - (a) subject to condition, or
 - (b) suspended.
 
-### 12. Interim Measures - review[^key-c3ce36b9572ce43246cf96e221785546]
+### 12. Interim Measures - review[^c-c3ce36b9572ce43246cf96e221785546]
 
 (1) In respect of an Interim Measure which remains in force in respect of an associate, the Regulator must carry out—
 
@@ -367,7 +367,7 @@ if, in the opinion of the Regulator, an Interim Measure remains necessary for th
 
 the appeal (or the part of the appeal which relates to the revoked or revised part of the decision) will lapse.
 
-### 13. Final Measures[^key-36d13423fc634c71884fc276ae012389]
+### 13. Final Measures[^c-36d13423fc634c71884fc276ae012389]
 
 (1) A case examiner who imposes a Final Measure under article 10(3)(b)(i), or a Panel which imposes a Final Measure under article 10(5)(b)(ii), must specify the period for which the Final Measure is to remain in force.
 
@@ -375,7 +375,7 @@ the appeal (or the part of the appeal which relates to the revoked or revised pa
 
 (3) This article does not apply where the Final Measure imposed is for an associate’s entry to be removed from a part of the register.
 
-### 14. Final Measures - review[^key-1c6730860e50e27c66bf54d55605a6a4]
+### 14. Final Measures - review[^c-1c6730860e50e27c66bf54d55605a6a4]
 
 (1) The Regulator may at any time review a Final Measure which remains in force in respect of an associate where that associate’s entry in the register is subject to a condition or is suspended, including where a question arises as to compliance with a condition on that associate’s registration.
 
@@ -409,7 +409,7 @@ the appeal (or the part of the appeal which relates to the revoked or revised pa
 
 ## Part 5 — REVISIONS AND APPEALS
 
-### 15. Revision of decisions[^key-7260737dc74d63fcb2d3d85f908bde66]
+### 15. Revision of decisions[^c-7260737dc74d63fcb2d3d85f908bde66]
 
 (1) The Regulator may revise such decisions under this Order as are prescribed in rules under paragraph 3 of Schedule 4.
 
@@ -437,7 +437,7 @@ the appeal (or the part of the appeal which relates to the revised part of the d
 - (a) as previously revised under this article, and
 - (b) as amended following an appeal under article 16.
 
-### 16. Appeal to a Panel[^key-61ef3b4830e0614a89143cfe6c145d84]
+### 16. Appeal to a Panel[^c-61ef3b4830e0614a89143cfe6c145d84]
 
 (1) In respect of a provision listed in the first column of the following table, a decision of the decision maker listed in the corresponding entry in the second column may be appealed to a Panel by a person listed in the corresponding entry in the third column.
 
@@ -455,7 +455,7 @@ the appeal (or the part of the appeal which relates to the revised part of the d
 
 (2) A person who wishes to appeal under paragraph (1) must seek permission to do so from the Regulator within 28 days beginning with the date on which the decision was notified to the person listed in the third column of the table.
 
-(2A)[^key-018594873721ad077d3ee418ac1d8ddf] Where an applicant has applied for registration in reliance on a specified state qualification, and the Regulator has failed to notify the applicant of its decision under article 6(1) within four months beginning with the day after the date of receipt of the complete application by the Registrar, the applicant may appeal to a Panel.
+(2A)[^c-018594873721ad077d3ee418ac1d8ddf] Where an applicant has applied for registration in reliance on a specified state qualification, and the Regulator has failed to notify the applicant of its decision under article 6(1) within four months beginning with the day after the date of receipt of the complete application by the Registrar, the applicant may appeal to a Panel.
 
 (2B) A person who wishes to appeal under paragraph (2A) must seek permission to do so from the Regulator within 28 days beginning with the day on which the time period referred to in paragraph (2A) ends.
 
@@ -486,7 +486,7 @@ the appeal (or the part of the appeal which relates to the revised part of the d
 - (a) as previously revised under article 15, and
 - (b) as amended pursuant to article 17(6)(d).
 
-### 17. Appeal to a court[^key-6973a5ca63b2a9fd22551e879ab1a672]
+### 17. Appeal to a court[^c-6973a5ca63b2a9fd22551e879ab1a672]
 
 (1) In respect of a provision listed in the first column of the following table, a decision of the decision maker listed in the corresponding entry in the second column may be appealed to the court by a person listed in the corresponding entry in the third column.
 
@@ -516,7 +516,7 @@ the appeal (or the part of the appeal which relates to the revised part of the d
 - (a) which is shown in the register as the address of the person listed in the third column of the table, or
 - (b) which would have been so shown if the person were registered.
 
-(3A)[^key-e215beac3e38a1563a083b0b600d31d1] Where an applicant has applied for registration in reliance on a specified state qualification, and the Regulator has failed to notify the applicant of its decision under article 6(1) within four months beginning with the day after the date of receipt of the complete application by the Registrar, the applicant may appeal to the relevant court.
+(3A)[^c-e215beac3e38a1563a083b0b600d31d1] Where an applicant has applied for registration in reliance on a specified state qualification, and the Regulator has failed to notify the applicant of its decision under article 6(1) within four months beginning with the day after the date of receipt of the complete application by the Registrar, the applicant may appeal to the relevant court.
 
 (3B) For the purposes of paragraph (3A)—
 
@@ -525,7 +525,7 @@ the appeal (or the part of the appeal which relates to the revised part of the d
   - (i) which is shown in the register as the address of the applicant, or
   - (ii) which would have been so shown if the applicant were registered.
 
-(4) Where an appeal lies against a decision by virtue of article 16(1) or (2A)[^key-e2a1dea81ceab941cd1e5832f92442fd], such an appeal may not be commenced under this article unless—
+(4) Where an appeal lies against a decision by virtue of article 16(1) or (2A)[^c-e2a1dea81ceab941cd1e5832f92442fd], such an appeal may not be commenced under this article unless—
 
 - (a) permission to appeal has been refused under article 16(3)(b), or
 - (b) the Panel has disposed of the appeal in accordance with article 16(5).
@@ -535,9 +535,9 @@ the appeal (or the part of the appeal which relates to the revised part of the d
 - (a) the decision,
 - (b) a revision of the decision under article 15,
 - (c) a refusal of permission to appeal under article 16, or
-- (d) the determination of an appeal [^key-0dba33a2ca730f8f10c0423dbd0c15b7]... under article 16,
+- (d) the determination of an appeal [^c-0dba33a2ca730f8f10c0423dbd0c15b7]... under article 16,
 
-was notified to the person listed in the third column of the table in paragraph (1) or (2) , or where an appeal is made by virtue of paragraph (3A), the applicant[^key-cbdfdc62eda705dfd3c4d31f0b53d52a].
+was notified to the person listed in the third column of the table in paragraph (1) or (2) , or where an appeal is made by virtue of paragraph (3A), the applicant[^c-cbdfdc62eda705dfd3c4d31f0b53d52a].
 
 (6) On an appeal under this article, the court, county court or sheriff may—
 
@@ -560,7 +560,7 @@ was notified to the person listed in the third column of the table in paragraph 
 
 ## Part 6 — MISCELLANEOUS
 
-### 18. Opportunity to make representations[^key-b0cdc57cf4a7828b789854562fbd6a6d]
+### 18. Opportunity to make representations[^c-b0cdc57cf4a7828b789854562fbd6a6d]
 
 (1) Subject to paragraph (2), a decision may not be made under—
 
@@ -571,21 +571,21 @@ was notified to the person listed in the third column of the table in paragraph 
 
 (3) Where practicable, representations made by an associate will be considered prior to a decision being taken under article 11(1) or (2).
 
-### 19. Offences relating to registration etc.[^key-0d942da0259c9a0f90962b52dc13206d][^key-44daabf1435a4b8b27fdd415e31b4dc0]
+### 19. Offences relating to registration etc.[^c-0d942da0259c9a0f90962b52dc13206d][^c-44daabf1435a4b8b27fdd415e31b4dc0]
 
 (1) A person commits an offence who, with intent to deceive—
 
-- (a)[^key-0d942da0259c9a0f90962b52dc13206d] falsely represents anyone, including themselves, to have an approved qualification, or to be registered,
+- (a)[^c-0d942da0259c9a0f90962b52dc13206d] falsely represents anyone, including themselves, to have an approved qualification, or to be registered,
 - (b) uses the title of anaesthesia associate or physician associate without being registered as such,
-- (c)[^key-0d942da0259c9a0f90962b52dc13206d] makes a false representation as to the content of the register, or
-- (d)[^key-0d942da0259c9a0f90962b52dc13206d] procures, or attempts to procure, the inclusion of information in, or exclusion of information from, the register.
+- (c)[^c-0d942da0259c9a0f90962b52dc13206d] makes a false representation as to the content of the register, or
+- (d)[^c-0d942da0259c9a0f90962b52dc13206d] procures, or attempts to procure, the inclusion of information in, or exclusion of information from, the register.
 
-(2)[^key-0d942da0259c9a0f90962b52dc13206d] A person who is guilty of an offence under paragraph (1) is liable—
+(2)[^c-0d942da0259c9a0f90962b52dc13206d] A person who is guilty of an offence under paragraph (1) is liable—
 
 - (a) on summary conviction in England and Wales, to a fine;
 - (b) on summary conviction in Scotland or Northern Ireland, to a fine not exceeding level 5 on the standard scale.
 
-### 20. Schedules 1 and 3 to 5[^key-d8b1982c5a83bf60534b98e331bd3054]
+### 20. Schedules 1 and 3 to 5[^c-d8b1982c5a83bf60534b98e331bd3054]
 
 Schedule 1 and Schedules 3 to 5 have effect.
 
@@ -599,7 +599,7 @@ Schedules
 
 Article 20
 
-### 1. Appointment of Registrar etc.[^key-7310307434a6fe247095fddecd6a6d38]
+### 1. Appointment of Registrar etc.[^c-7310307434a6fe247095fddecd6a6d38]
 
 The Regulator, for the purposes of this Order—
 
@@ -608,7 +608,7 @@ The Regulator, for the purposes of this Order—
   - (i) a Registrar, and
   - (ii) members of a Panel.
 
-### 2. Delegation[^key-07c9a69ba16f7c2d9d0f5fab0ec6b540]
+### 2. Delegation[^c-07c9a69ba16f7c2d9d0f5fab0ec6b540]
 
 (1) Subject to paragraph 8 of Schedule 3 to the Health Act 1999[^f00005], the Regulator may delegate functions under this Order to—
 
@@ -635,7 +635,7 @@ The Regulator, for the purposes of this Order—
 
 (6) The Regulator may discharge a function delegated to it by another person.
 
-### 3. Objective, matters to which the Regulator must have regard and co-operation[^key-968a7bc80999680ef383d6681fff9e10]
+### 3. Objective, matters to which the Regulator must have regard and co-operation[^c-968a7bc80999680ef383d6681fff9e10]
 
 (1) The Regulator, in addition to its objectives and duties set out in section 1(1A) and (1B)(a) of, and paragraph 9A(1)(b) of Schedule 1 to, the Medical Act 1983[^f00006]—
 
@@ -653,7 +653,7 @@ The Regulator, for the purposes of this Order—
 
 (2) In carrying out its duty to co-operate under sub-paragraph (1)(d), the Regulator must have regard to any differing considerations relating to practising as an associate which apply in England, Scotland, Wales or Northern Ireland.
 
-### 4. Default powers of the Privy Council[^key-e45270c59bf957ff1d85c2b7f04346a2]
+### 4. Default powers of the Privy Council[^c-e45270c59bf957ff1d85c2b7f04346a2]
 
 (1) If it appears to the Privy Council that the Regulator has failed to perform any functions under this Order which, in the opinion of the Privy Council, should have been performed, the Privy Council may notify the Regulator of its opinion and require the Regulator to make representations to it.
 
@@ -670,7 +670,7 @@ The Regulator, for the purposes of this Order—
 
 (6) The powers under sub-paragraphs (1) and (2) may be exercised by a person authorised or designated by the Privy Council for that purpose.
 
-### 5. Incidental powers[^key-dff6e9149cb1efc3eea052a43c481ec5]
+### 5. Incidental powers[^c-dff6e9149cb1efc3eea052a43c481ec5]
 
 (1) The Regulator may do anything which appears to it to be incidental or conducive to the purpose of, or in connection with, the performance of its functions other than its functions under the Medical Act 1983[^f00007] including—
 
@@ -682,7 +682,7 @@ The Regulator, for the purposes of this Order—
 
 (3) Arrangements under sub-paragraph (2) may include arrangements with the MPTS.
 
-### 6. Grant-making power[^key-59440539681022d3686ffb69d9523e78]
+### 6. Grant-making power[^c-59440539681022d3686ffb69d9523e78]
 
 (1) The Secretary of State, the Scottish Ministers, the Welsh Ministers and the Department of Health in Northern Ireland may make a grant to the Regulator for the purposes of its functions under this Order.
 
@@ -692,11 +692,11 @@ The Regulator, for the purposes of this Order—
 
 Article 9(1)(c)
 
-### 1. Listed offences[^key-88087bdb0ab4e897c62fcbaee4ab99df]
+### 1. Listed offences[^c-88087bdb0ab4e897c62fcbaee4ab99df]
 
 Murder.
 
-**2.**[^key-f4bc1a7ac0f9de4b2b0699e0dd3ca0b0] An offence under the following provisions of the Sexual Offences Act 2003[^f00008]—
+**2.**[^c-f4bc1a7ac0f9de4b2b0699e0dd3ca0b0] An offence under the following provisions of the Sexual Offences Act 2003[^f00008]—
 
 - (a) section 1 (rape);
 - (b) section 2 (assault by penetration);
@@ -705,9 +705,9 @@ Murder.
 - (e) sections 30 to 33 (offences against persons with a mental disorder impeding choice);
 - (f) sections 47 to 50 (sexual exploitation of children).
 
-**3.**[^key-d7da18aa525f97ca5691ff522bac7bd8] An offence under sections 9 to 12 of the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005[^f00009] (sexual services of children and child pornography).
+**3.**[^c-d7da18aa525f97ca5691ff522bac7bd8] An offence under sections 9 to 12 of the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005[^f00009] (sexual services of children and child pornography).
 
-**4.**[^key-0f17201599755631a68b2efacef2aa66] An offence under the following provisions of the Sexual Offences (Northern Ireland) Order 2008[^f00010]—
+**4.**[^c-0f17201599755631a68b2efacef2aa66] An offence under the following provisions of the Sexual Offences (Northern Ireland) Order 2008[^f00010]—
 
 - (a) article 5 (rape);
 - (b) article 6 (assault by penetration);
@@ -717,7 +717,7 @@ Murder.
 - (f) articles 37 to 40 (abuse of children under 18: payment for sexual services and involvement in indecent images);
 - (g) articles 43 to 46 (offences against persons with a mental disorder impeding choice).
 
-**5.**[^key-da35a26093662cd4e3ebcd82fd15dac6] An offence under the following provisions of the Sexual Offences (Scotland) Act 2009[^f00011]—
+**5.**[^c-da35a26093662cd4e3ebcd82fd15dac6] An offence under the following provisions of the Sexual Offences (Scotland) Act 2009[^f00011]—
 
 - (a) section 1 (rape);
 - (b) section 2 (sexual assault by penetration);
@@ -725,38 +725,38 @@ Murder.
 - (d) sections 18 to 26 (young children);
 - (e) sections 28 to 33 (older children).
 
-**6.**[^key-5e59ec7a2acbb867c2a77f05fe459e40] An offence under the following provisions of the Modern Slavery Act 2015[^f00012]—
+**6.**[^c-5e59ec7a2acbb867c2a77f05fe459e40] An offence under the following provisions of the Modern Slavery Act 2015[^f00012]—
 
 - (a) section 1 (slavery, servitude and forced or compulsory labour);
 - (b) section 2 (human trafficking).
 
-**7.**[^key-072d68c7c6a59ce8a82222dca7ed0da6] An offence under either of the following provisions of the Human Trafficking and Exploitation (Scotland) Act 2015[^f00013]—
+**7.**[^c-072d68c7c6a59ce8a82222dca7ed0da6] An offence under either of the following provisions of the Human Trafficking and Exploitation (Scotland) Act 2015[^f00013]—
 
 - (a) section 1 (offence of human trafficking);
 - (b) section 4 (slavery, servitude and forced or compulsory labour).
 
-**8.**[^key-81dd29a7bd6200f94d95fc14208855e9] An offence under the following provisions of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015[^f00014]—
+**8.**[^c-81dd29a7bd6200f94d95fc14208855e9] An offence under the following provisions of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015[^f00014]—
 
 - (a) section 1 (slavery, servitude and forced or compulsory labour);
 - (b) section 2 (human trafficking).
 
-**9.**[^key-eed85d3c565c748aa66cad0168606021] Extortion (in Scotland).
+**9.**[^c-eed85d3c565c748aa66cad0168606021] Extortion (in Scotland).
 
-**10.**[^key-b7020f9480cd68696971c67b3e36348a] An offence under section 21 of the Theft Act 1968[^f00015] (blackmail).
+**10.**[^c-b7020f9480cd68696971c67b3e36348a] An offence under section 21 of the Theft Act 1968[^f00015] (blackmail).
 
-**11.**[^key-e0c4af778c3ca89c806f4d57217717b5] An offence under section 20 of the Theft Act (Northern Ireland) 1969[^f00016] (blackmail).
+**11.**[^c-e0c4af778c3ca89c806f4d57217717b5] An offence under section 20 of the Theft Act (Northern Ireland) 1969[^f00016] (blackmail).
 
-**12.**[^key-7855d5f54a37aea3fa86b2e4d979ea8f] An offence under section 3 of the Sexual Offences Act 2003 (sexual assault).
+**12.**[^c-7855d5f54a37aea3fa86b2e4d979ea8f] An offence under section 3 of the Sexual Offences Act 2003 (sexual assault).
 
-**13.**[^key-97867ecaeb1d0c3ca6e132b5f0b54380] An offence under article 7 of the Sexual Offences (Northern Ireland) Order 2008 (sexual assault).
+**13.**[^c-97867ecaeb1d0c3ca6e132b5f0b54380] An offence under article 7 of the Sexual Offences (Northern Ireland) Order 2008 (sexual assault).
 
-**14.**[^key-7cacc07764ceb1d992ac0b3dbdb00f47] An offence under section 3 of the Sexual Offences (Scotland) Act 2009 (sexual assault).
+**14.**[^c-7cacc07764ceb1d992ac0b3dbdb00f47] An offence under section 3 of the Sexual Offences (Scotland) Act 2009 (sexual assault).
 
 ## Schedule 3 — EVIDENCE GATHERING, NOTIFICATIONS, PUBLICATION AND DATA
 
 Article 20
 
-### 1. Disclosure of information[^key-7fdec0ae885f21b6c5e9770f98e610c8]
+### 1. Disclosure of information[^c-7fdec0ae885f21b6c5e9770f98e610c8]
 
 (1) Subject to sub-paragraph (2), the Regulator may disclose information about any matter, regardless of when or where it arose, relating to its functions under this Order.
 
@@ -771,7 +771,7 @@ Article 20
 
 (3) For the purposes of sub-paragraph (2)(b), the Regulator need not consider whether it is in the public interest to disclose the information in question in respect of each individual to whom it relates.
 
-### 2. Notifications[^key-faad9dd05991e6f7c55395f489757e1f]
+### 2. Notifications[^c-faad9dd05991e6f7c55395f489757e1f]
 
 (1) The Regulator must notify—
 
@@ -808,7 +808,7 @@ Article 20
 
 (4) The Regulator must notify a person whose entry in the register has been removed under article 9(1)(c) that they may appeal to a court under article 17.
 
-### 3. Power to publish[^key-5931b2a8aaf65c791bd52722c07d56a4]
+### 3. Power to publish[^c-5931b2a8aaf65c791bd52722c07d56a4]
 
 (1) The Regulator may publish—
 
@@ -826,7 +826,7 @@ Article 20
 
 (2) For the purposes of sub-paragraph (1)(a), the Regulator need not consider whether it is in the public interest to publish the information in question in respect of each individual associate to whom it relates.
 
-### 4. Duty to publish registration information and certain decisions[^key-37dfa387956ddff69ca60b3b82a4bb19]
+### 4. Duty to publish registration information and certain decisions[^c-37dfa387956ddff69ca60b3b82a4bb19]
 
 (1) The Registrar must publish, together, in respect of each registered person—
 
@@ -844,7 +844,7 @@ Article 20
 
 until the Regulator is satisfied that such publication no longer serves the purpose of protection of the public.
 
-### 5. Duty to publish other matters[^key-e1c459ceb88e4209c363a1504d276ef2]
+### 5. Duty to publish other matters[^c-e1c459ceb88e4209c363a1504d276ef2]
 
 (1) The Regulator must publish—
 
@@ -856,7 +856,7 @@ until the Regulator is satisfied that such publication no longer serves the purp
 
 (2) The Regulator must keep guidance under sub-paragraph (1)(e) under review.
 
-### 6. Information to be included in a report under section 52A of the Medical Act 1983[^key-5c024a6bee3e5fde5530e6b9e32eb7c8]
+### 6. Information to be included in a report under section 52A of the Medical Act 1983[^c-5c024a6bee3e5fde5530e6b9e32eb7c8]
 
 The Regulator must include in a report under section 52A (annual reports, statistical reports and strategic plans) of the Medical Act 1983[^f00017] produced on or after the date on which this paragraph is commenced a description of—
 
@@ -866,7 +866,7 @@ The Regulator must include in a report under section 52A (annual reports, statis
   - (ii) associates, and
   - (iii) the Regulator.
 
-### 7. Evidence gathering[^key-a525b0dec9e10bc4a2a03bc68ee8823b]
+### 7. Evidence gathering[^c-a525b0dec9e10bc4a2a03bc68ee8823b]
 
 (1) The Regulator must take such steps as it considers necessary for the purpose of assessing whether—
 
@@ -894,7 +894,7 @@ The Regulator must include in a report under section 52A (annual reports, statis
 
 requiring the information to be supplied or the document to be produced.
 
-### 8. Further provision as to disclosure[^key-948c56f3f7f3c20c29876c115c41ddb3]
+### 8. Further provision as to disclosure[^c-948c56f3f7f3c20c29876c115c41ddb3]
 
 (1) Nothing in article 18 or this Schedule requires or permits the making of a disclosure which contravenes the data protection legislation.
 
@@ -904,7 +904,7 @@ requiring the information to be supplied or the document to be produced.
 
 (4) In this paragraph, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018[^f00018] (see section 3(9) of that Act (Terms relating to the processing of personal data)).
 
-### 9. Proceedings before a Panel[^key-7d1d14eca34f38eedf4f2806624db8c6]
+### 9. Proceedings before a Panel[^c-7d1d14eca34f38eedf4f2806624db8c6]
 
 (1) For the purposes of fitness to practise proceedings before a Panel in England and Wales or Northern Ireland, a Panel may—
 
@@ -927,7 +927,7 @@ requiring the information to be supplied or the document to be produced.
 
 Article 20
 
-### 1. Rules as to the register[^key-9246b94f1ad38e1f936af8f4f3a3595a]
+### 1. Rules as to the register[^c-9246b94f1ad38e1f936af8f4f3a3595a]
 
 (1) The Regulator may make rules as to the form and keeping of the register.
 
@@ -935,7 +935,7 @@ Article 20
 
 (3) The Regulator must prescribe in rules which contact details, including addresses, of associates must be recorded in the register under article 5(3)(b).
 
-### 2. Rules prescribing persons etc. for the purposes of articles 6 and 8[^key-60159665e9d903afa0d30c760447a0e9]
+### 2. Rules prescribing persons etc. for the purposes of articles 6 and 8[^c-60159665e9d903afa0d30c760447a0e9]
 
 (1) The Regulator must prescribe in rules a person or Panel for the purposes of—
 
@@ -951,7 +951,7 @@ Article 20
 - (d) a case for the purposes of article 6(3)(b);
 - (e) a description of associate for the purposes of article 8.
 
-### 3. Rules as to revision of decisions[^key-4452d3eede6f253a5b41ffa35be808c2]
+### 3. Rules as to revision of decisions[^c-4452d3eede6f253a5b41ffa35be808c2]
 
 (1) The Regulator must prescribe in rules decisions for the purposes of article 15(1).
 
@@ -959,7 +959,7 @@ Article 20
 
 (3) The representations referred to in sub-paragraph (2) must be in writing unless the Regulator directs otherwise.
 
-### 4. Procedural rules other than for appeals[^key-63b8edbe3c3df32d9694e3ca400454eb]
+### 4. Procedural rules other than for appeals[^c-63b8edbe3c3df32d9694e3ca400454eb]
 
 (1) The Regulator must prescribe in rules the procedure for the purposes of—
 
@@ -972,7 +972,7 @@ Article 20
 - (b) the removal of entries in the register in the circumstances referred to in article 9(1)(a) and (2);
 - (c) an assessment under paragraph 7 of Schedule 3 and, in particular, for an assessment of a person’s physical or mental health.
 
-### 5. Procedural rules for appeals[^key-4f50743b93fec1221e6a0848fa3e4094]
+### 5. Procedural rules for appeals[^c-4f50743b93fec1221e6a0848fa3e4094]
 
 The Regulator must prescribe in rules the procedure for appeals under article 16, which must in particular—
 
@@ -987,7 +987,7 @@ The Regulator must prescribe in rules the procedure for appeals under article 16
   - (ii) make oral representations, and
   - (iii) call witnesses.
 
-### 6. Rules as to Panels[^key-0f00896f591f343c9b1ec3e764ac252a]
+### 6. Rules as to Panels[^c-0f00896f591f343c9b1ec3e764ac252a]
 
 (1) The Regulator must prescribe in rules—
 
@@ -1005,7 +1005,7 @@ The Regulator must prescribe in rules the procedure for appeals under article 16
 - (d) administration of oaths;
 - (e) requiring persons to attend and give evidence or to produce documents.
 
-### 7. Rules as to non-compliance[^key-608eb9733405e520c2c77cd058a80af4]
+### 7. Rules as to non-compliance[^c-608eb9733405e520c2c77cd058a80af4]
 
 (1) The Regulator may prescribe in rules—
 
@@ -1023,7 +1023,7 @@ The Regulator must prescribe in rules the procedure for appeals under article 16
   - (i) the assessment and taxation of costs or, in Scotland, expenses;
   - (ii) the enforcement of an award of costs or, in Scotland, expenses by a Panel in the same manner as if the award had been made by an order of the county court or, in Scotland, by decree of the sheriff.
 
-### 8. Rules as to fees[^key-4d8fa5fcf32f8fd03c5bb5471d6a1b7d]
+### 8. Rules as to fees[^c-4d8fa5fcf32f8fd03c5bb5471d6a1b7d]
 
 (1) The Regulator must make rules as to the setting, charging, collection and recovery of fees in connection with the discharge of a function under this Order, including a function discharged outside the United Kingdom.
 
@@ -1042,7 +1042,7 @@ in such circumstances or cases, and to such extent, as may be prescribed in the 
 
 (6) Any such sum is recoverable in Scotland as a debt and in England, Wales and Northern Ireland summarily as a civil debt.
 
-### 9. Rules as to notifications[^key-832ed74055f8fe6e60c063c57c54aa75]
+### 9. Rules as to notifications[^c-832ed74055f8fe6e60c063c57c54aa75]
 
 (1) The Regulator must make rules as to the notification of the opportunity to make representations under article 18 and as to notification under paragraph 2 of Schedule 3, which include provision as to—
 
@@ -1059,7 +1059,7 @@ in such circumstances or cases, and to such extent, as may be prescribed in the 
 - (c) any consequences of failing to respond to it or to comply with the fitness to practise procedure, and in particular any decisions that may be taken in the absence of the person and any action that may be taken for failure to comply with the fitness to practise procedure, and
 - (d) any right to be represented and to make representations.
 
-### 10. Rules as to Panel appointments[^key-9d770153c74774206bfaa531cf956beb]
+### 10. Rules as to Panel appointments[^c-9d770153c74774206bfaa531cf956beb]
 
 (1) The Regulator must make rules for appointments under paragraph 1(b)(ii) of Schedule 1.
 
@@ -1073,7 +1073,7 @@ in such circumstances or cases, and to such extent, as may be prescribed in the 
 
 (4) The reference in sub-paragraph (2) to an officer of the Regulator is to a person appointed under paragraph 16 of Schedule 1 to the Medical Act 1983[^f00021].
 
-### 11. Rules as to Fitness to Practise[^key-29c2b4181d645a5f40513108ab6061bd]
+### 11. Rules as to Fitness to Practise[^c-29c2b4181d645a5f40513108ab6061bd]
 
 (1) The Regulator must prescribe in rules—
 
@@ -1089,11 +1089,11 @@ in such circumstances or cases, and to such extent, as may be prescribed in the 
 
 (3) In respect of the functions of a case examiner the Regulator may make rules in respect of case management and evidence.
 
-### 12. Rules as to appeals[^key-70869fa8ba0f50c5236b6268910d08eb]
+### 12. Rules as to appeals[^c-70869fa8ba0f50c5236b6268910d08eb]
 
 The Regulator may prescribe in rules persons, other than itself, for the purposes of article 16(4).
 
-### 13. Rules as to when decisions take effect[^key-1fcd9b79aa1df47210d1583d125aaa62]
+### 13. Rules as to when decisions take effect[^c-1fcd9b79aa1df47210d1583d125aaa62]
 
 The Regulator may make rules setting out the date from which—
 
@@ -1103,11 +1103,11 @@ The Regulator may make rules setting out the date from which—
 
 takes effect.
 
-### 14. Rules for the purpose of paragraph 7 of Schedule 3[^key-95d4dda70464bebe11ba2c4df323ebab]
+### 14. Rules for the purpose of paragraph 7 of Schedule 3[^c-95d4dda70464bebe11ba2c4df323ebab]
 
 The Regulator must prescribe in rules persons, information, an interval and a manner for the purpose of paragraph 7(1)(a) and (2) of Schedule 3.
 
-### 15. General provision about rules[^key-773b9b21b3cd19576856be8092f7a6c9]
+### 15. General provision about rules[^c-773b9b21b3cd19576856be8092f7a6c9]
 
 (1) Rules under this Schedule may—
 
@@ -1126,7 +1126,7 @@ The Regulator must prescribe in rules persons, information, an interval and a ma
 
 Article 20
 
-### 1. Medical Act 1983[^key-9dbd48b942e58c3de41c710be4656f4a]
+### 1. Medical Act 1983[^c-9dbd48b942e58c3de41c710be4656f4a]
 
 (1) Schedule 1 to the Medical Act 1983 (the General Medical Council and its Committees, and the Branch Councils) is amended as follows.
 
@@ -1161,11 +1161,11 @@ Article 20
 
 .
 
-### 2. Video Recordings Act 1984[^key-d1b9b90d87c9b9dbbb5ff34c5b6e664a]
+### 2. Video Recordings Act 1984[^c-d1b9b90d87c9b9dbbb5ff34c5b6e664a]
 
 In the Video Recordings Act 1984[^f00024] in section 3(11) (exempted supplies of video recordings), after “the Nursing and Midwifery Order 2001,” insert “the Anaesthesia Associates and Physician Associates Order 2024,”.
 
-### 3. Police Act 1997[^key-f36f29d92b2579e73b51024d7e9b6c9b]
+### 3. Police Act 1997[^c-f36f29d92b2579e73b51024d7e9b6c9b]
 
 In the Police Act 1997[^f00025], in Schedule 8A (offences which must be disclosed unless a sheriff orders otherwise), after paragraph 34F insert—
 
@@ -1173,7 +1173,7 @@ In the Police Act 1997[^f00025], in Schedule 8A (offences which must be disclose
 
 .
 
-### 4. National Health Service Reform and Health Care Professions Act 2002[^key-7646e37f40b1e237ac1bbcfe7ca1cfa8]
+### 4. National Health Service Reform and Health Care Professions Act 2002[^c-7646e37f40b1e237ac1bbcfe7ca1cfa8]
 
 (1) The National Health Service Reform and Health Care Professions Act 2002[^f00026] is amended as follows.
 
@@ -1204,7 +1204,7 @@ In the Police Act 1997[^f00025], in Schedule 8A (offences which must be disclose
 
   .
 
-### 5. Income Tax (Earnings and Pensions) Act 2003[^key-1d38a53125452e07f997e40d5aed64fc]
+### 5. Income Tax (Earnings and Pensions) Act 2003[^c-1d38a53125452e07f997e40d5aed64fc]
 
 In the Income Tax (Earnings and Pensions) Act 2003[^f00027] in section 343(2) (deduction for professional membership fees), in paragraph 1 of the Table (health professionals), at the end insert—
 
@@ -1212,7 +1212,7 @@ In the Income Tax (Earnings and Pensions) Act 2003[^f00027] in section 343(2) (d
 
 .
 
-### 6. Safeguarding Vulnerable Groups Act 2006[^key-56a29301abac6d7c4511cd59137f9916]
+### 6. Safeguarding Vulnerable Groups Act 2006[^c-56a29301abac6d7c4511cd59137f9916]
 
 In the Safeguarding Vulnerable Groups Act 2006[^f00028], in the table in section 41(7) (registers: power to refer), at the end insert—
 
@@ -1222,7 +1222,7 @@ In the Safeguarding Vulnerable Groups Act 2006[^f00028], in the table in section
 
 .
 
-### 7. Data Protection Act 2018[^key-d7b73707db9baf475691289cdebbc47e]
+### 7. Data Protection Act 2018[^c-d7b73707db9baf475691289cdebbc47e]
 
 In the Data Protection Act 2018[^f00029], in section 204(1) (meaning of “**health professional**”), at the end insert—
 
@@ -1230,7 +1230,7 @@ In the Data Protection Act 2018[^f00029], in section 204(1) (meaning of “**hea
 
 .
 
-### 8. Scottish Social Services Council (Appointments, Procedure and Access to the Register) Regulations 2001[^key-9536eb65375eb978faaa2f5b356c255e]
+### 8. Scottish Social Services Council (Appointments, Procedure and Access to the Register) Regulations 2001[^c-9536eb65375eb978faaa2f5b356c255e]
 
 In the Scottish Social Services Council (Appointments, Procedure and Access to the Register) Regulations 2001[^f00030], in regulation 4(5) (disqualification for appointment)—
 
@@ -1243,7 +1243,7 @@ In the Scottish Social Services Council (Appointments, Procedure and Access to t
 
   .
 
-### 9. Northern Ireland Social Care Council (Appointments and Procedure) Regulations (Northern Ireland) 2001[^key-d4d5a778eb2bd830d45fcd87739e0441]
+### 9. Northern Ireland Social Care Council (Appointments and Procedure) Regulations (Northern Ireland) 2001[^c-d4d5a778eb2bd830d45fcd87739e0441]
 
 In the Northern Ireland Social Care Council (Appointments and Procedure) Regulations (Northern Ireland) 2001[^f00031], in regulation 4(7) (disqualification for appointment)—
 
@@ -1256,7 +1256,7 @@ In the Northern Ireland Social Care Council (Appointments and Procedure) Regulat
 
   .
 
-### 10. Northern Ireland Practice and Education Council for Nursing and Midwifery (Appointments and Procedure) Regulations (Northern Ireland) 2002[^key-8db5ce6c03e66f14aaca5a8ccd3ad271]
+### 10. Northern Ireland Practice and Education Council for Nursing and Midwifery (Appointments and Procedure) Regulations (Northern Ireland) 2002[^c-8db5ce6c03e66f14aaca5a8ccd3ad271]
 
 In the Northern Ireland Practice and Education Council for Nursing and Midwifery (Appointments and Procedure) Regulations (Northern Ireland) 2002[^f00032], in regulation 4(8) (disqualification for appointment), at the end of sub-paragraph (g), insert—
 
@@ -1266,7 +1266,7 @@ In the Northern Ireland Practice and Education Council for Nursing and Midwifery
 
 .
 
-### 11. Medicines for Human Use (Clinical Trials) Regulations 2004[^key-730e0c1bc1d54464a88f49ab56a29640]
+### 11. Medicines for Human Use (Clinical Trials) Regulations 2004[^c-730e0c1bc1d54464a88f49ab56a29640]
 
 In the Medicines for Human Use (Clinical Trials) Regulations 2004[^f00033], in regulation 2(1) (interpretation), in the definition of “health care professional”—
 
@@ -1279,7 +1279,7 @@ In the Medicines for Human Use (Clinical Trials) Regulations 2004[^f00033], in r
 
   .
 
-### 12. Northern Ireland Medical and Dental Training Agency (Establishment and Constitution) Order (Northern Ireland) 2004[^key-88d2afb6278a0bb3eac1f8e361c7a818]
+### 12. Northern Ireland Medical and Dental Training Agency (Establishment and Constitution) Order (Northern Ireland) 2004[^c-88d2afb6278a0bb3eac1f8e361c7a818]
 
 In the Northern Ireland Medical and Dental Training Agency (Establishment and Constitution) Order (Northern Ireland) 2004[^f00034], in Article 5(10) (disqualification for appointment), at the end of sub-paragraph (g), insert—
 
@@ -1289,7 +1289,7 @@ In the Northern Ireland Medical and Dental Training Agency (Establishment and Co
 
 .
 
-### 13. Regulation and Improvement Authority (Appointments and Procedure) Regulations (Northern Ireland) 2004[^key-0e51b6dd9eb3951819ce7a0175a6ac41]
+### 13. Regulation and Improvement Authority (Appointments and Procedure) Regulations (Northern Ireland) 2004[^c-0e51b6dd9eb3951819ce7a0175a6ac41]
 
 In the Regulation and Improvement Authority (Appointments and Procedure) Regulations (Northern Ireland) 2004[^f00035], in regulation 4(8) (disqualification for appointment)—
 
@@ -1302,7 +1302,7 @@ In the Regulation and Improvement Authority (Appointments and Procedure) Regulat
 
   .
 
-### 14. National Assembly for Wales (Representation of the People) Order 2007[^key-c48c4675e4e5be3a1bffb3844369dfc5]
+### 14. National Assembly for Wales (Representation of the People) Order 2007[^c-c48c4675e4e5be3a1bffb3844369dfc5]
 
 In the National Assembly for Wales (Representation of the People) Order 2007[^f00036], in paragraph 4(2) (professionals who may attest to disability for the purposes of proxy voting in elections for the National Assembly for Wales) of Schedule 1—
 
@@ -1315,7 +1315,7 @@ In the National Assembly for Wales (Representation of the People) Order 2007[^f0
 
   .
 
-### 15. Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^key-e08da9da6cba389efdf3bceef9b733ea]
+### 15. Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^c-e08da9da6cba389efdf3bceef9b733ea]
 
 In the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00037], in the table in Article 43(7) (registers: power to refer), at the end insert—
 
@@ -1325,7 +1325,7 @@ In the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00037], in
 
 .
 
-### 16. Council for Healthcare Regulatory Excellence (Appointment, Procedure etc.) Regulations 2008[^key-377a5c8c42f1e5942c5b24b659844494]
+### 16. Council for Healthcare Regulatory Excellence (Appointment, Procedure etc.) Regulations 2008[^c-377a5c8c42f1e5942c5b24b659844494]
 
 In the Council for Healthcare Regulatory Excellence (Appointment, Procedure etc.) Regulations 2008[^f00038], in regulation 2(2)(j) (condition of appointment for chair and non-executive members of the Council)—
 
@@ -1338,7 +1338,7 @@ In the Council for Healthcare Regulatory Excellence (Appointment, Procedure etc.
 
   .
 
-### 17. Healthcare Improvement Scotland (Requirements as to Independent Health Care Services) Regulations 2011[^key-24f00d4764696be40fcdfaeaea78720e]
+### 17. Healthcare Improvement Scotland (Requirements as to Independent Health Care Services) Regulations 2011[^c-24f00d4764696be40fcdfaeaea78720e]
 
 In the Healthcare Improvement Scotland (Requirements as to Independent Health Care Services) Regulations 2011[^f00039], in regulation 1(2) (interpretation), in the definition of “health care professional”—
 
@@ -1351,7 +1351,7 @@ In the Healthcare Improvement Scotland (Requirements as to Independent Health Ca
 
   .
 
-### 18. Social Care and Social Work Improvement Scotland (Requirements for Care Services) Regulations 2011[^key-d26fa38de199e1b1502cc955a8ef1fb3]
+### 18. Social Care and Social Work Improvement Scotland (Requirements for Care Services) Regulations 2011[^c-d26fa38de199e1b1502cc955a8ef1fb3]
 
 In the Social Care and Social Work Improvement Scotland (Requirements for Care Services) Regulations 2011[^f00040], in regulation 4(4) (welfare of users)—
 
@@ -1364,7 +1364,7 @@ In the Social Care and Social Work Improvement Scotland (Requirements for Care S
 
   .
 
-### 19. Human Medicines Regulations 2012[^key-b0682b5c6e95ead7fe7c1135908477ba]
+### 19. Human Medicines Regulations 2012[^c-b0682b5c6e95ead7fe7c1135908477ba]
 
 In the Human Medicines Regulations 2012[^f00041], in regulation 8(1) (general interpretation), in the definition of “health care professional”—
 
@@ -1377,7 +1377,7 @@ In the Human Medicines Regulations 2012[^f00041], in regulation 8(1) (general in
 
   .
 
-### 20. Social Security (Personal Independence Payment) Regulations 2013[^key-fbaf44a31aeb875bef2bd7861d524128]
+### 20. Social Security (Personal Independence Payment) Regulations 2013[^c-fbaf44a31aeb875bef2bd7861d524128]
 
 In the Social Security (Personal Independence Payment) Regulations 2013[^f00042], in paragraph 1 of Schedule 1 (personal independence payment assessment)—
 
@@ -1398,7 +1398,7 @@ In the Social Security (Personal Independence Payment) Regulations 2013[^f00042]
 
     .
 
-### 21. Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^key-ed7b2b27542d81d194ec9dfa209b7710]
+### 21. Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^c-ed7b2b27542d81d194ec9dfa209b7710]
 
 In the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^f00043], in—
 
@@ -1420,7 +1420,7 @@ In the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotlan
 
   .
 
-### 22. Public Bodies (Joint Working) (Health Professionals and Social Care Professionals) (Scotland) Regulations 2014[^key-1afb616268c0f5f9a436d5c49795a776]
+### 22. Public Bodies (Joint Working) (Health Professionals and Social Care Professionals) (Scotland) Regulations 2014[^c-1afb616268c0f5f9a436d5c49795a776]
 
 In the Public Bodies (Joint Working) (Health Professionals and Social Care Professionals) (Scotland) Regulations 2014[^f00046], in regulation 2 (prescribed descriptions of health professionals)—
 
@@ -1433,7 +1433,7 @@ In the Public Bodies (Joint Working) (Health Professionals and Social Care Profe
 
   .
 
-### 23. Health and Social Care Act 2008 (Regulated Activities) Regulations 2014[^key-994797795052d07587ac6a7c88e3d898]
+### 23. Health and Social Care Act 2008 (Regulated Activities) Regulations 2014[^c-994797795052d07587ac6a7c88e3d898]
 
 In the Health and Social Care Act 2008 (Regulated Activities) Regulations 2014[^f00047], in paragraph 4(4) of Schedule 1 (regulated activities)—
 
@@ -1478,271 +1478,271 @@ Schedule 1 makes provision as to the Regulator, in particular as to appointments
 
 [^f00001]: Footnote: [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8). Subsections 62(4) and (4A) were substituted by paragraph 11 of Schedule 10 to the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14). Schedule 3 was amended by: paragraph 8(b) of Schedule 4 to the Health Professions Order 2001 ([S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254)); section 26(10) of the National Health Service Reform and Health Care Professions Act [2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17); paragraph 67 of Schedule 11, and Part 4 of Schedule 14, to the Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43); section 33 of, and Schedule 9 to, the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28); paragraphs 4 to 10 of Schedule 8, paragraph 12 of Schedule 10 and Part 2 of Schedule 15, to the Health and Social Care Act 2008; section 211 of, and paragraphs 61 and 72 of Schedule 15 to, the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7); and section 168(4) of the Health and Care Act [2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31).
 
-[^key-92952937d48f0bf0577d561755088c62]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2024/374/article/1) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-92952937d48f0bf0577d561755088c62]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2024/374/article/1) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-0a6a2786c65453e31c892aa59b2b19ad]: Commencement: Art. 2 in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-0a6a2786c65453e31c892aa59b2b19ad]: Commencement: Art. 2 in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00002]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54). Section 1(3)(g) was inserted by article 2(1) of the General Medical Council (Fitness to Practise and Over-arching Objective) and the Professional Standards Authority for Health and Social Care (References to Court) Order 2015 ([S.I. 2015/794](https://www.legislation.gov.uk/uksi/2015/794)).
 
 [^f00003]: Footnote: Section 1(1) of the Medical Act 1983 provides for the continued existence of the General Medical Council.
 
-[^key-56ab1d04664ab8a9e8e22c76904a1925]: Textual amendment: Words in art. 2(1) inserted (19.12.2024) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/3/e), [23(2)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/23/2)
+[^c-56ab1d04664ab8a9e8e22c76904a1925]: Textual amendment: Words in art. 2(1) inserted (19.12.2024) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/3/e), [23(2)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/23/2)
 
 [^f00004]: Footnote: Paragraph 1A was substituted by paragraph 21(2) of Schedule 1 to the Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 ([S.I. 2008/1774](https://www.legislation.gov.uk/uksi/2008/1774)) and amended by paragraph 6 of Schedule 20 to the Health and Social Care Act 2012.
 
-[^key-c1013be9d2ad5a73c368bf0a3e598af8]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2024/374/article/3) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-c1013be9d2ad5a73c368bf0a3e598af8]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2024/374/article/3) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-73ebcf917dea6eb274039f86f7ab12cb]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2024/374/article/4) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-73ebcf917dea6eb274039f86f7ab12cb]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2024/374/article/4) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-c3050939f6e5d9d81348dbbb9ff266f8]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2024/374/article/5) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-c3050939f6e5d9d81348dbbb9ff266f8]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2024/374/article/5) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-87ca8bbd37ae67f95ec773acb7c6a921]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2024/374/article/6) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-87ca8bbd37ae67f95ec773acb7c6a921]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2024/374/article/6) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-73239441a54fa22a37b3569a0efebc1c]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2024/374/article/7) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-73239441a54fa22a37b3569a0efebc1c]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2024/374/article/7) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-12dba80990211321dde1c540a15b6f5e]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2024/374/article/8) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-12dba80990211321dde1c540a15b6f5e]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2024/374/article/8) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-3df61fd6bbb0914c632ecaaeda8de551]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2024/374/article/9) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-3df61fd6bbb0914c632ecaaeda8de551]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2024/374/article/9) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-17c9470bfe6bae1151d6c793a826ec97]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2024/374/article/10) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-17c9470bfe6bae1151d6c793a826ec97]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2024/374/article/10) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-2e65122f1086b50deb3287a15b1e1153]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2024/374/article/11) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-2e65122f1086b50deb3287a15b1e1153]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2024/374/article/11) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-c3ce36b9572ce43246cf96e221785546]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2024/374/article/12) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-c3ce36b9572ce43246cf96e221785546]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2024/374/article/12) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-36d13423fc634c71884fc276ae012389]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2024/374/article/13) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-36d13423fc634c71884fc276ae012389]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2024/374/article/13) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-1c6730860e50e27c66bf54d55605a6a4]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2024/374/article/14) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-1c6730860e50e27c66bf54d55605a6a4]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2024/374/article/14) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-7260737dc74d63fcb2d3d85f908bde66]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2024/374/article/15) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-7260737dc74d63fcb2d3d85f908bde66]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2024/374/article/15) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-61ef3b4830e0614a89143cfe6c145d84]: Commencement: Art. 16 in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-61ef3b4830e0614a89143cfe6c145d84]: Commencement: Art. 16 in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-018594873721ad077d3ee418ac1d8ddf]: Textual amendment: Art. 16(2A)-(2C) inserted (19.12.2024) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/3/e), [23(3)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/23/3)
+[^c-018594873721ad077d3ee418ac1d8ddf]: Textual amendment: Art. 16(2A)-(2C) inserted (19.12.2024) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/3/e), [23(3)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/23/3)
 
-[^key-6973a5ca63b2a9fd22551e879ab1a672]: Commencement: Art. 17 in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-6973a5ca63b2a9fd22551e879ab1a672]: Commencement: Art. 17 in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-e215beac3e38a1563a083b0b600d31d1]: Textual amendment: Art. 17(3A)(3B) inserted (19.12.2024) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/3/e), [23(4)(a)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/23/4/a)
+[^c-e215beac3e38a1563a083b0b600d31d1]: Textual amendment: Art. 17(3A)(3B) inserted (19.12.2024) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/3/e), [23(4)(a)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/23/4/a)
 
-[^key-e2a1dea81ceab941cd1e5832f92442fd]: Textual amendment: Words in art. 17(4) inserted (19.12.2024) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/3/e), [23(4)(b)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/23/4/b)
+[^c-e2a1dea81ceab941cd1e5832f92442fd]: Textual amendment: Words in art. 17(4) inserted (19.12.2024) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/3/e), [23(4)(b)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/23/4/b)
 
-[^key-0dba33a2ca730f8f10c0423dbd0c15b7]: Textual amendment: Words in art. 17(5)(d) omitted (19.12.2024) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/3/e), [23(4)(c)(i)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/23/4/c/i)
+[^c-0dba33a2ca730f8f10c0423dbd0c15b7]: Textual amendment: Words in art. 17(5)(d) omitted (19.12.2024) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/3/e), [23(4)(c)(i)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/23/4/c/i)
 
-[^key-cbdfdc62eda705dfd3c4d31f0b53d52a]: Textual amendment: Words in art. 17(5)(d) inserted (19.12.2024) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/3/e), [23(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/23/4/c/ii)
+[^c-cbdfdc62eda705dfd3c4d31f0b53d52a]: Textual amendment: Words in art. 17(5)(d) inserted (19.12.2024) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/3/e), [23(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/23/4/c/ii)
 
-[^key-b0cdc57cf4a7828b789854562fbd6a6d]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2024/374/article/18) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-b0cdc57cf4a7828b789854562fbd6a6d]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2024/374/article/18) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-0d942da0259c9a0f90962b52dc13206d]: Commencement: [Art. 19(1)(a)](https://www.legislation.gov.uk/uksi/2024/374/article/19/1/a)[(c)](https://www.legislation.gov.uk/uksi/2024/374/article/19/1/c)[(d)](https://www.legislation.gov.uk/uksi/2024/374/article/19/1/d)[(2)](https://www.legislation.gov.uk/uksi/2024/374/article/19/2) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-0d942da0259c9a0f90962b52dc13206d]: Commencement: [Art. 19(1)(a)](https://www.legislation.gov.uk/uksi/2024/374/article/19/1/a)[(c)](https://www.legislation.gov.uk/uksi/2024/374/article/19/1/c)[(d)](https://www.legislation.gov.uk/uksi/2024/374/article/19/1/d)[(2)](https://www.legislation.gov.uk/uksi/2024/374/article/19/2) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-44daabf1435a4b8b27fdd415e31b4dc0]: Commencement: Art. 19(1)(b) in force at 13.12.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/374/article/1/2)
+[^c-44daabf1435a4b8b27fdd415e31b4dc0]: Commencement: Art. 19(1)(b) in force at 13.12.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/374/article/1/2)
 
-[^key-d8b1982c5a83bf60534b98e331bd3054]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2024/374/article/20) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-d8b1982c5a83bf60534b98e331bd3054]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2024/374/article/20) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-7310307434a6fe247095fddecd6a6d38]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2024/374/schedule/1/paragraph/1) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-7310307434a6fe247095fddecd6a6d38]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2024/374/schedule/1/paragraph/1) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-07c9a69ba16f7c2d9d0f5fab0ec6b540]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2024/374/schedule/1/paragraph/2) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-07c9a69ba16f7c2d9d0f5fab0ec6b540]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2024/374/schedule/1/paragraph/2) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00005]: Footnote: [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8).
 
-[^key-968a7bc80999680ef383d6681fff9e10]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/374/schedule/1/paragraph/3) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-968a7bc80999680ef383d6681fff9e10]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/374/schedule/1/paragraph/3) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00006]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54).
 
-[^key-e45270c59bf957ff1d85c2b7f04346a2]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2024/374/schedule/1/paragraph/4) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-e45270c59bf957ff1d85c2b7f04346a2]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2024/374/schedule/1/paragraph/4) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-dff6e9149cb1efc3eea052a43c481ec5]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2024/374/schedule/1/paragraph/5) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-dff6e9149cb1efc3eea052a43c481ec5]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2024/374/schedule/1/paragraph/5) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00007]: Footnote: See paragraph 9 of Schedule 1 to the Medical Act 1983.
 
-[^key-59440539681022d3686ffb69d9523e78]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2024/374/schedule/1/paragraph/6) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-59440539681022d3686ffb69d9523e78]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2024/374/schedule/1/paragraph/6) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-88087bdb0ab4e897c62fcbaee4ab99df]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/1) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-88087bdb0ab4e897c62fcbaee4ab99df]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/1) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-f4bc1a7ac0f9de4b2b0699e0dd3ca0b0]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/2) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-f4bc1a7ac0f9de4b2b0699e0dd3ca0b0]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/2) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00008]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).  Sections 47 to 50 were repealed in relation to Northern Ireland by articles 78(c) and 83 of, and Schedule 3 to, the Sexual Offences (Northern Ireland) Order 2008 ([S.I. 2008/1769](https://www.legislation.gov.uk/uksi/2008/1769)) (N.I. 2).  Section 47(7) was repealed by articles 3 and 8 of the Sexual Offences (Northern Ireland Consequential Amendments) Order 2008 ([S.I. 2008/1779](https://www.legislation.gov.uk/uksi/2008/1779)).  Sections 48 to 50 were amended by section 68(1) and (3) to (5) of the Serious Crime Act [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9).
 
-[^key-d7da18aa525f97ca5691ff522bac7bd8]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/3) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-d7da18aa525f97ca5691ff522bac7bd8]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/3) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00009]: Footnote: [2005 asp 9](https://www.legislation.gov.uk/asp/2005/9); sections 9 to 12 were amended by section 40(2) of the Criminal Justice and Licensing (Scotland) Act [2010 asp 13](https://www.legislation.gov.uk/asp/2010/13).
 
-[^key-0f17201599755631a68b2efacef2aa66]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/4) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-0f17201599755631a68b2efacef2aa66]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/4) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00010]: Footnote: [S.I. 2008/1769 (N.I. 2)](https://www.legislation.gov.uk/nisi/2008/1769).
 
-[^key-da35a26093662cd4e3ebcd82fd15dac6]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/5) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-da35a26093662cd4e3ebcd82fd15dac6]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/5) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00011]: Footnote: [2009 asp 9](https://www.legislation.gov.uk/asp/2009/9); section 26 was amended by section 43(4) of the Criminal Justice and Licensing (Scotland) Act 2010.
 
-[^key-5e59ec7a2acbb867c2a77f05fe459e40]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/6) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-5e59ec7a2acbb867c2a77f05fe459e40]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/6) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00012]: Footnote: [2015 c. 30](https://www.legislation.gov.uk/ukpga/2015/30).
 
-[^key-072d68c7c6a59ce8a82222dca7ed0da6]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/7) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-072d68c7c6a59ce8a82222dca7ed0da6]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/7) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00013]: Footnote: [2015 asp 12](https://www.legislation.gov.uk/asp/2015/12).
 
-[^key-81dd29a7bd6200f94d95fc14208855e9]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/8) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-81dd29a7bd6200f94d95fc14208855e9]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/8) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00014]: Footnote: [2015 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2015/2).
 
-[^key-eed85d3c565c748aa66cad0168606021]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/9) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-eed85d3c565c748aa66cad0168606021]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/9) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-b7020f9480cd68696971c67b3e36348a]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/10) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-b7020f9480cd68696971c67b3e36348a]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/10) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00015]: Footnote: [1968 c. 60](https://www.legislation.gov.uk/ukpga/1968/60); section 21 was extended by section 1(1)(d) of the Nuclear Material (Offences) Act [1983 (c. 18)](https://www.legislation.gov.uk/ukpga/1983/18).
 
-[^key-e0c4af778c3ca89c806f4d57217717b5]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/11) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-e0c4af778c3ca89c806f4d57217717b5]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/11) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00016]: Footnote: [1969 c. 16 (N.I.)](https://www.legislation.gov.uk/apni/1969/16).
 
-[^key-7855d5f54a37aea3fa86b2e4d979ea8f]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/12) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-7855d5f54a37aea3fa86b2e4d979ea8f]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/12) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-97867ecaeb1d0c3ca6e132b5f0b54380]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/13) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-97867ecaeb1d0c3ca6e132b5f0b54380]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/13) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-7cacc07764ceb1d992ac0b3dbdb00f47]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/14) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-7cacc07764ceb1d992ac0b3dbdb00f47]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2024/374/schedule/2/paragraph/14) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-7fdec0ae885f21b6c5e9770f98e610c8]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/1) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-7fdec0ae885f21b6c5e9770f98e610c8]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/1) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-faad9dd05991e6f7c55395f489757e1f]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/2) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-faad9dd05991e6f7c55395f489757e1f]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/2) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-5931b2a8aaf65c791bd52722c07d56a4]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/3) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-5931b2a8aaf65c791bd52722c07d56a4]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/3) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-37dfa387956ddff69ca60b3b82a4bb19]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/4) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-37dfa387956ddff69ca60b3b82a4bb19]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/4) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-e1c459ceb88e4209c363a1504d276ef2]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/5) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-e1c459ceb88e4209c363a1504d276ef2]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/5) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-5c024a6bee3e5fde5530e6b9e32eb7c8]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/6) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-5c024a6bee3e5fde5530e6b9e32eb7c8]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/6) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00017]: Footnote: Section 52A was substituted by paragraph 18 of Schedule 1 to the Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 ([S.I. 2008/1774](https://www.legislation.gov.uk/uksi/2008/1774)).
 
-[^key-a525b0dec9e10bc4a2a03bc68ee8823b]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/7) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-a525b0dec9e10bc4a2a03bc68ee8823b]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/7) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-948c56f3f7f3c20c29876c115c41ddb3]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/8) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-948c56f3f7f3c20c29876c115c41ddb3]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/8) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00018]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12); section 3(9) was amended by paragraph 4(3) of Schedule 2 to the Data Protection, Privacy and Electronic Communications (Amendments etc.) (EU Exit) Regulations 2019 ([S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419)).
 
-[^key-7d1d14eca34f38eedf4f2806624db8c6]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/9) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-7d1d14eca34f38eedf4f2806624db8c6]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/9) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00019]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
 
 [^f00020]: Footnote: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23).
 
-[^key-9246b94f1ad38e1f936af8f4f3a3595a]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/1) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-9246b94f1ad38e1f936af8f4f3a3595a]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/1) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-60159665e9d903afa0d30c760447a0e9]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/2) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-60159665e9d903afa0d30c760447a0e9]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/2) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-4452d3eede6f253a5b41ffa35be808c2]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/3) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-4452d3eede6f253a5b41ffa35be808c2]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/3) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-63b8edbe3c3df32d9694e3ca400454eb]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/4) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-63b8edbe3c3df32d9694e3ca400454eb]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/4) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-4f50743b93fec1221e6a0848fa3e4094]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/5) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-4f50743b93fec1221e6a0848fa3e4094]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/5) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-0f00896f591f343c9b1ec3e764ac252a]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/6) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-0f00896f591f343c9b1ec3e764ac252a]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/6) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-608eb9733405e520c2c77cd058a80af4]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/7) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-608eb9733405e520c2c77cd058a80af4]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/7) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-4d8fa5fcf32f8fd03c5bb5471d6a1b7d]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/8) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-4d8fa5fcf32f8fd03c5bb5471d6a1b7d]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/8) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-832ed74055f8fe6e60c063c57c54aa75]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/9) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-832ed74055f8fe6e60c063c57c54aa75]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/9) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-9d770153c74774206bfaa531cf956beb]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/10) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-9d770153c74774206bfaa531cf956beb]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/10) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00021]: Footnote: Paragraph 16 was amended by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), [2008/1774](https://www.legislation.gov.uk/uksi/2008/1774) and [2015/794](https://www.legislation.gov.uk/uksi/2015/794).
 
-[^key-29c2b4181d645a5f40513108ab6061bd]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/11) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-29c2b4181d645a5f40513108ab6061bd]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/11) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00022]: Footnote: Paragraph 1A was substituted by [S.I. 2008/1774](https://www.legislation.gov.uk/uksi/2008/1774) and amended by paragraph 6(a) of Schedule 20 to the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7).
 
-[^key-70869fa8ba0f50c5236b6268910d08eb]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/12) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-70869fa8ba0f50c5236b6268910d08eb]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/12) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-1fcd9b79aa1df47210d1583d125aaa62]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/13) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-1fcd9b79aa1df47210d1583d125aaa62]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/13) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-95d4dda70464bebe11ba2c4df323ebab]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/14) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-95d4dda70464bebe11ba2c4df323ebab]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/14) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-773b9b21b3cd19576856be8092f7a6c9]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/15) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-773b9b21b3cd19576856be8092f7a6c9]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/2024/374/schedule/4/paragraph/15) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
-[^key-9dbd48b942e58c3de41c710be4656f4a]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/1) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-9dbd48b942e58c3de41c710be4656f4a]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/1) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00023]: Footnote: Paragraph 19G was inserted by article 3(3) of the General Medical Council (Fitness to Practise and Over-arching Objective) and the Professional Standards Authority for Health and Social Care (References to Court) Order 2015 ([S.I. 2015/794](https://www.legislation.gov.uk/uksi/2015/794)).
 
-[^key-d1b9b90d87c9b9dbbb5ff34c5b6e664a]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/2) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-d1b9b90d87c9b9dbbb5ff34c5b6e664a]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/2) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00024]: Footnote: [1984 c. 39](https://www.legislation.gov.uk/ukpga/1984/39); section 3(11) was amended by section 39 of the Chiropractors Act [1994 (c. 17)](https://www.legislation.gov.uk/ukpga/1994/17), paragraph 47(b) of Schedule 5 to the Children and Social Work Act [2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), paragraph 4 of Schedule 4 to the Health Professions Order 2001 ([S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254)) and paragraph 9 of Schedule 5 to the Nursing and Midwifery Order 2001 ([S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253)).
 
-[^key-f36f29d92b2579e73b51024d7e9b6c9b]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/3) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-f36f29d92b2579e73b51024d7e9b6c9b]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/3) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00025]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50); Schedule 8A was inserted by article 3(8) of the Police Act 1997 and the Protection of Vulnerable Groups (Scotland) Act 2007 Remedial (No. 2) Order 2015 ([S.S.I. 2015/423](https://www.legislation.gov.uk/ssi/2015/423)).  Paragraph 34F was inserted, in relation to Scotland, by regulation 2(20) of the Police Act 1997 (Offences in Schedules 8A and 8B) Amendment (Scotland) Regulations 2022 ([S.S.I. 2022/379](https://www.legislation.gov.uk/ssi/2022/379)).
 
-[^key-7646e37f40b1e237ac1bbcfe7ca1cfa8]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/4) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-7646e37f40b1e237ac1bbcfe7ca1cfa8]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/4) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00026]: Footnote: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17); section 26(4) was substituted by section 115 of the Health and Social Care Act 2008 and amended by paragraph 62(b) of Schedule 15 to the Health and Social Care Act 2012.  Section 29(1) was amended by section 118 and Part 2 of Schedule 15 to the Health and Social Care Act 2008, paragraph 73(1) of Schedule 15 to the Health and Social Care Act 2012,  paragraph 13 of Schedule 1 to the Medical Act 1983 (Amendment) Order 2002 ([S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135)), paragraph 1 of the Schedule to the Health Act 1999 (Consequential Amendments) (Nursing and Midwifery) Order 2004 ([S.I. 2004/1771](https://www.legislation.gov.uk/uksi/2004/1771)), paragraph 13 of Schedule 1 to the Opticians Act 1989 (Amendment) Order 2005 ([S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848)), paragraph 4 of Schedule 6 to the Dentists Act 1984 (Amendment) Order 2005 ([S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011)), paragraph 10(4) of Schedule 4 to the Pharmacy Order 2010 ([S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231)),  article 18 of the General Medical Council (Fitness to Practise and Over-arching Objective) and the Professional Standards Authority for Health and Social Care (References to Court) Order 2015 ([S.I. 2015/794](https://www.legislation.gov.uk/uksi/2015/794)).
 
-[^key-1d38a53125452e07f997e40d5aed64fc]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/5) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-1d38a53125452e07f997e40d5aed64fc]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/5) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00027]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). The part of the Table relating to health professionals in section 343(2) was amended by Part 2 of Schedule 15 to the Health and Social Care Act 2008, paragraphs 51 and 56(d) of Schedule 15 to the Health and Social Care Act 2012, paragraph 29 of Schedule 5 to the Children and Social Work Act 2017, paragraph 5 of Schedule 6 to the Dentists Act 1984 (Amendment) Order 2005 ([S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011)), paragraph 9 of Schedule 1 to the Pharmacists and Pharmacy Technicians Order 2007 ([S.I. 2007/289](https://www.legislation.gov.uk/uksi/2007/289)), article 2(2) of the Income Tax (Professional Fees) Order 2008 ([S.I. 2008/836](https://www.legislation.gov.uk/uksi/2008/836)), paragraph 6 of Schedule 5 to the Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 ([S.I. 2009/1182](https://www.legislation.gov.uk/uksi/2009/1182)),  paragraph 11 of Schedule 4 to the Pharmacy Order 2010 ([S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231)).
 
-[^key-56a29301abac6d7c4511cd59137f9916]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/6) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-56a29301abac6d7c4511cd59137f9916]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/6) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00028]: Footnote: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47); section 41(7) was amended by paragraph 27(2) of Schedule 2 to the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), section 213(7)(m) and paragraph 52 of Schedule 15 to the Health and Social Care Act 2012, paragraph 64 of Schedule 9 to the Protection of Freedoms Act [2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), paragraph 54 of Schedule 3 to the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2), paragraphs 34 and 47(l) of Schedule 5 to the Children and Social Work Act 2017 and paragraph 15 of Schedule 4 to the Pharmacy Order 2010 ([S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231)).
 
-[^key-d7b73707db9baf475691289cdebbc47e]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/7) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-d7b73707db9baf475691289cdebbc47e]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/7) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00029]: Footnote: There are amendments to section 204(1) which are not relevant to this Order.
 
-[^key-9536eb65375eb978faaa2f5b356c255e]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/8) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-9536eb65375eb978faaa2f5b356c255e]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/8) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00030]: Footnote: [S.S.I. 2001/303](https://www.legislation.gov.uk/ssi/2001/303), there is an amendment to regulation 4(5) not relevant to this Order.
 
-[^key-d4d5a778eb2bd830d45fcd87739e0441]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/9) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-d4d5a778eb2bd830d45fcd87739e0441]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/9) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00031]: Footnote: [S.R. 2001 No. 313](https://www.legislation.gov.uk/nisr/2001/313); regulation 4(7) was amended by regulation 3(c) of the Northern Ireland Social Care Council (Appointments and Procedure) (Amendment) Regulations 2002 ([S.R. 2002 No. 349](https://www.legislation.gov.uk/nisr/2002/349)).
 
-[^key-8db5ce6c03e66f14aaca5a8ccd3ad271]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/10) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-8db5ce6c03e66f14aaca5a8ccd3ad271]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/10) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00032]: Footnote: [S.R. 2002 No. 386](https://www.legislation.gov.uk/nisr/2002/386).
 
-[^key-730e0c1bc1d54464a88f49ab56a29640]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/11) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-730e0c1bc1d54464a88f49ab56a29640]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/11) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00033]: Footnote: [S.I. 2004/1031](https://www.legislation.gov.uk/uksi/2004/1031), there are amendments to regulation 2(1) not relevant to this Order.
 
-[^key-88d2afb6278a0bb3eac1f8e361c7a818]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/12) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-88d2afb6278a0bb3eac1f8e361c7a818]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/12) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00034]: Footnote: [S.R. 2004 No. 62](https://www.legislation.gov.uk/nisr/2004/62). Article 5(10) was amended by paragraph 7 of Schedule 3 to the Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 ([S.I. 2019/1094](https://www.legislation.gov.uk/uksi/2019/1094)).
 
-[^key-0e51b6dd9eb3951819ce7a0175a6ac41]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/13) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-0e51b6dd9eb3951819ce7a0175a6ac41]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/13) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00035]: Footnote: [S.R. 2004 No. 37](https://www.legislation.gov.uk/nisr/2004/37).
 
-[^key-c48c4675e4e5be3a1bffb3844369dfc5]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/14) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-c48c4675e4e5be3a1bffb3844369dfc5]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/14) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00036]: Footnote: [S.I. 2007/236](https://www.legislation.gov.uk/uksi/2007/236); paragraph 4(2) of Schedule 1 was amended by paragraph 13 of Schedule 1 to the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017 ([S.I. 2017/52](https://www.legislation.gov.uk/uksi/2017/52)) and paragraph 16 of Schedule 3 to the Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 ([S.I. 2019/1094](https://www.legislation.gov.uk/uksi/2019/1094)).  There are other amendments to paragraph 4 not relevant to this Order.
 
-[^key-e08da9da6cba389efdf3bceef9b733ea]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/15) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-e08da9da6cba389efdf3bceef9b733ea]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/15) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00037]: Footnote: [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
 
-[^key-377a5c8c42f1e5942c5b24b659844494]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/16) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-377a5c8c42f1e5942c5b24b659844494]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/16) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00038]: Footnote: [S.I. 2008/2927](https://www.legislation.gov.uk/uksi/2008/2927); regulation 2(2)(j) was amended by paragraph 67 of Schedule 4 to the Pharmacy Order 2010 ([S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231)), paragraph 56 of the Schedule to the Health and Social Care Act 2012 (Consequential Provision—Social Workers) Order 2012 ([S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479)) and paragraph 19 of Schedule 3 to the Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 ([S.I. 2019/1094](https://www.legislation.gov.uk/uksi/2019/1094)).
 
-[^key-24f00d4764696be40fcdfaeaea78720e]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/17) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-24f00d4764696be40fcdfaeaea78720e]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/17) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00039]: Footnote: [S.S.I. 2011/182](https://www.legislation.gov.uk/ssi/2011/182), there are amendments to regulation 1(2) not relevant to this Order.
 
-[^key-d26fa38de199e1b1502cc955a8ef1fb3]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/18) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-d26fa38de199e1b1502cc955a8ef1fb3]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/18) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00040]: Footnote: [S.S.I. 2011/210](https://www.legislation.gov.uk/ssi/2011/210), there is an amendment to regulation 4(4) not relevant to this Order.
 
-[^key-b0682b5c6e95ead7fe7c1135908477ba]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/19) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-b0682b5c6e95ead7fe7c1135908477ba]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/19) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00041]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916); the definition of “health care professional” was amended by paragraph 42(a) of Schedule 2 to the European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 ([S.I. 2019/593](https://www.legislation.gov.uk/uksi/2019/593)) and paragraph 30(b) of Schedule 2 to the Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 ([S.I. 2019/1094](https://www.legislation.gov.uk/uksi/2019/1094)).
 
-[^key-fbaf44a31aeb875bef2bd7861d524128]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/20) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-fbaf44a31aeb875bef2bd7861d524128]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/20) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00042]: Footnote: [S.I. 2013/377](https://www.legislation.gov.uk/uksi/2013/377); the definition of “monitor a health condition” was amended by regulation 2(2)(d) of the Social Security (Personal Independence Payment) (Amendment) Regulations 2017 ([S.I. 2017/194](https://www.legislation.gov.uk/uksi/2017/194)).
 
-[^key-ed7b2b27542d81d194ec9dfa209b7710]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/21) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-ed7b2b27542d81d194ec9dfa209b7710]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/21) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00043]: Footnote: [S.S.I. 2013/50](https://www.legislation.gov.uk/ssi/2013/50).
 
@@ -1750,10 +1750,10 @@ Schedule 1 makes provision as to the Regulator, in particular as to appointments
 
 [^f00045]: Footnote: Schedule A1 was inserted by the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Amendment Order 2015 ([S.S.I. 2015/329](https://www.legislation.gov.uk/ssi/2015/329)).  There are amendments to Schedule A1 not relevant to this Order.
 
-[^key-1afb616268c0f5f9a436d5c49795a776]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/22) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-1afb616268c0f5f9a436d5c49795a776]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/22) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00046]: Footnote: [S.S.I. 2014/307](https://www.legislation.gov.uk/ssi/2014/307).
 
-[^key-994797795052d07587ac6a7c88e3d898]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/23) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
+[^c-994797795052d07587ac6a7c88e3d898]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/23) in force at 13.12.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3)
 
 [^f00047]: Footnote: [S.I. 2014/2936](https://www.legislation.gov.uk/uksi/2014/2936), to which there are amendments not relevant to this Order.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 93. Statistical information[^key-3dc45e56bd1c0500a820a659c56c6305]
+## Article 93. Statistical information[^c-3dc45e56bd1c0500a820a659c56c6305]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3dc45e56bd1c0500a820a659c56c6305]: Textual amendment: [Art. 93](https://www.legislation.gov.uk/eur/2008/889/article/93) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(50)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/50); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3dc45e56bd1c0500a820a659c56c6305]: Textual amendment: [Art. 93](https://www.legislation.gov.uk/eur/2008/889/article/93) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(50)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/50); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

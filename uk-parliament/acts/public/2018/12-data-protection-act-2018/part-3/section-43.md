@@ -22,10 +22,10 @@ summary: ''
 
 (1) This Chapter—
 
-- (a) imposes general duties on the controller to make information available (see sections 44 and 45A[^key-79ecfa480be800660f1c1ae8309a399e]);
-- (b) confers a right of access by the data subject (see sections 45 and 45A[^key-873a9a81f73c6a07542ec3514b86b3e0]);
+- (a) imposes general duties on the controller to make information available (see sections 44 and 45A[^c-79ecfa480be800660f1c1ae8309a399e]);
+- (b) confers a right of access by the data subject (see sections 45 and 45A[^c-873a9a81f73c6a07542ec3514b86b3e0]);
 - (c) confers rights on the data subject with respect to the rectification of personal data and the erasure of personal data or the restriction of its processing (see sections 46 to 48);
-- (d) regulates automated decision-making (see sections 50A to 50D[^key-83e672a87c0d79e60c67f56b75e7939b]);
+- (d) regulates automated decision-making (see sections 50A to 50D[^c-83e672a87c0d79e60c67f56b75e7939b]);
 - (e) makes supplementary provision (see sections 51 to 54).
 
 (2) This Chapter applies only in relation to the processing of personal data for a law enforcement purpose.
@@ -40,8 +40,8 @@ summary: ''
 
 [^M_I_33219849-c838-46d4-a646-d79f1a433a5b]: Commencement: S. 43 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
 
-[^key-79ecfa480be800660f1c1ae8309a399e]: Textual amendment: Words in s. 43(1)(a) substituted (5.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 79(2)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/79/2/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/996/regulation/3))
+[^c-79ecfa480be800660f1c1ae8309a399e]: Textual amendment: Words in s. 43(1)(a) substituted (5.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 79(2)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/79/2/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/996/regulation/3))
 
-[^key-873a9a81f73c6a07542ec3514b86b3e0]: Textual amendment: Words in s. 43(1)(b) substituted (5.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 79(2)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/79/2/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/996/regulation/3))
+[^c-873a9a81f73c6a07542ec3514b86b3e0]: Textual amendment: Words in s. 43(1)(b) substituted (5.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 79(2)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/79/2/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/996/regulation/3))
 
-[^key-83e672a87c0d79e60c67f56b75e7939b]: Textual amendment: Words in s. 43(1)(d) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2025/18/schedule/6/paragraph/12); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z8)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z8) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/82/regulation/5))
+[^c-83e672a87c0d79e60c67f56b75e7939b]: Textual amendment: Words in s. 43(1)(d) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2025/18/schedule/6/paragraph/12); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z8)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z8) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/82/regulation/5))

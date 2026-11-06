@@ -83,15 +83,15 @@ After regulation 5A (duty of relevant person in relation to disinfection) [^c225
 
 .
 
-### 5. Amendment of regulation 21[^key-eeb3054db8583b8186a110eb6e67995a]
+### 5. Amendment of regulation 21[^c-eeb3054db8583b8186a110eb6e67995a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment of regulation 22[^key-eeb3054db8583b8186a110eb6e67995a]
+### 6. Amendment of regulation 22[^c-eeb3054db8583b8186a110eb6e67995a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of regulation 24[^key-eeb3054db8583b8186a110eb6e67995a]
+### 7. Amendment of regulation 24[^c-eeb3054db8583b8186a110eb6e67995a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -144,19 +144,19 @@ In Schedule 1 (prescribed concentrations and values) to the 2006 Regulations—
 
   .
 
-### 9. Amendment of Schedule 2[^key-2595a38bcee5615b9b3afa5117ef1baa]
+### 9. Amendment of Schedule 2[^c-2595a38bcee5615b9b3afa5117ef1baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Insertion of Schedule 2A[^key-2595a38bcee5615b9b3afa5117ef1baa]
+### 10. Insertion of Schedule 2A[^c-2595a38bcee5615b9b3afa5117ef1baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Amendment of Schedule 3[^key-2595a38bcee5615b9b3afa5117ef1baa]
+### 11. Amendment of Schedule 3[^c-2595a38bcee5615b9b3afa5117ef1baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Insertion of Schedule 5A[^key-2595a38bcee5615b9b3afa5117ef1baa]
+### 12. Insertion of Schedule 5A[^c-2595a38bcee5615b9b3afa5117ef1baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -170,11 +170,11 @@ In regulation 2(1) (interpretation) of the 2014 Regulations, after the definitio
 
 .
 
-### 14. Amendment of regulation 6[^key-7c2219d5fafff53aa582d2ba87a8bba4]
+### 14. Amendment of regulation 6[^c-7c2219d5fafff53aa582d2ba87a8bba4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Amendment of regulation 9[^key-aeee43fbcf21000fbb0d2c564209e668]
+### 15. Amendment of regulation 9[^c-aeee43fbcf21000fbb0d2c564209e668]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -204,15 +204,15 @@ In Schedule 1 (prescribed concentrations and values) to the 2014 Regulations—
 
 In Schedule 2 (monitoring) to the 2014 Regulations—
 
-- (a)[^key-35e3f9be691ac25495caed0c1a147050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-35e3f9be691ac25495caed0c1a147050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-35e3f9be691ac25495caed0c1a147050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-35e3f9be691ac25495caed0c1a147050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) after Table 4, in the final paragraph, omit “ “Indicative dose”,”.
 
-### 18. Insertion of Schedule 2A[^key-72508f8006995ce94bfc50d89532e418]
+### 18. Insertion of Schedule 2A[^c-72508f8006995ce94bfc50d89532e418]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Insertion of Schedule 3A[^key-460683d7af5307afbc3430199b779bc3]
+### 19. Insertion of Schedule 3A[^c-460683d7af5307afbc3430199b779bc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -257,19 +257,19 @@ A business and regulatory impact assessment has been prepared for these Regulati
 
 [^c22593851]: Marginal citation: Regulation 5A was inserted by [S.S.I. 2010/95](https://www.legislation.gov.uk/ssi/2010/95).
 
-[^key-eeb3054db8583b8186a110eb6e67995a]: Textual amendment: [Regs. 5-7](https://www.legislation.gov.uk/ssi/2015/346/regulation/5) revoked (27.10.2017) by [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [sch. 10 para. 4(c)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/4/c) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-eeb3054db8583b8186a110eb6e67995a]: Textual amendment: [Regs. 5-7](https://www.legislation.gov.uk/ssi/2015/346/regulation/5) revoked (27.10.2017) by [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [sch. 10 para. 4(c)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/4/c) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-2595a38bcee5615b9b3afa5117ef1baa]: Textual amendment: [Regs. 9-12](https://www.legislation.gov.uk/ssi/2015/346/regulation/9) revoked (27.10.2017) by [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [sch. 10 para. 4(c)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/4/c) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-2595a38bcee5615b9b3afa5117ef1baa]: Textual amendment: [Regs. 9-12](https://www.legislation.gov.uk/ssi/2015/346/regulation/9) revoked (27.10.2017) by [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [sch. 10 para. 4(c)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/4/c) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-7c2219d5fafff53aa582d2ba87a8bba4]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/346/regulation/14) revoked (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2017/281/regulation/12)
+[^c-7c2219d5fafff53aa582d2ba87a8bba4]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/346/regulation/14) revoked (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2017/281/regulation/12)
 
-[^key-aeee43fbcf21000fbb0d2c564209e668]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/ssi/2015/346/regulation/15) revoked (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2017/281/regulation/12)
+[^c-aeee43fbcf21000fbb0d2c564209e668]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/ssi/2015/346/regulation/15) revoked (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2017/281/regulation/12)
 
-[^key-35e3f9be691ac25495caed0c1a147050]: Textual amendment: [Reg. 17(a)(b)](https://www.legislation.gov.uk/ssi/2015/346/regulation/17/a/b) revoked (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2017/281/regulation/12)
+[^c-35e3f9be691ac25495caed0c1a147050]: Textual amendment: [Reg. 17(a)(b)](https://www.legislation.gov.uk/ssi/2015/346/regulation/17/a/b) revoked (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2017/281/regulation/12)
 
-[^key-72508f8006995ce94bfc50d89532e418]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/346/regulation/18) revoked (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2017/281/regulation/12)
+[^c-72508f8006995ce94bfc50d89532e418]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/346/regulation/18) revoked (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2017/281/regulation/12)
 
-[^key-460683d7af5307afbc3430199b779bc3]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/ssi/2015/346/regulation/19) revoked (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2017/281/regulation/12)
+[^c-460683d7af5307afbc3430199b779bc3]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/ssi/2015/346/regulation/19) revoked (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2017/281/regulation/12)
 
 [^c22593901]: Marginal citation: OJ L 296, 7.11.2013, p.12.
 

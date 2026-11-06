@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Upper age limit for jurors[^key-7c1e0a17c1fd99c378a67eb7d49d27c2]
+## 94. Upper age limit for jurors[^c-7c1e0a17c1fd99c378a67eb7d49d27c2]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c1e0a17c1fd99c378a67eb7d49d27c2]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2010/13/section/94) in force at 10.1.2011 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-7c1e0a17c1fd99c378a67eb7d49d27c2]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2010/13/section/94) in force at 10.1.2011 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

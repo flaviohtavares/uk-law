@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — Land of which temporary possession may be taken[^key-8426b6b5ffa7e6afc77437532d9c9eb9]
+## SCHEDULE 6 — Land of which temporary possession may be taken[^c-8426b6b5ffa7e6afc77437532d9c9eb9]
 
 *Extent: E+W*
 
 Article 30
 
-[^key-8426b6b5ffa7e6afc77437532d9c9eb9]
+[^c-8426b6b5ffa7e6afc77437532d9c9eb9]
 
 In the District of Tendring—
 
 | (1) Number of plot shown on land plans (onshore) | (2) Purpose for which temporary possession may be taken | (3) Relevant part of authorised development |
 | --- | --- | --- |
-| 01-001, 01-002 | Temporary use for access to facilitate construction of the authorised development | Work Nos. 2A, 3, 4, 4B, 5, 5A, 6, 6A[^key-592f0bfc6341798c08d42885f22a37ea] and 17 |
+| 01-001, 01-002 | Temporary use for access to facilitate construction of the authorised development | Work Nos. 2A, 3, 4, 4B, 5, 5A, 6, 6A[^c-592f0bfc6341798c08d42885f22a37ea] and 17 |
 | 01-003 | Temporary use as a construction compound (Work No 4B) and construction working area to facilitate construction of the authorised development | Work Nos. 2A, 3, 4, 4B, 5, 5A, 6, 6A and 17 |
 | 01-004, 01-005, 01-006 | Temporary use for access to facilitate construction of the authorised development | Work Nos. 2A, 3, 4, 4B, 5, 5A, 6, 6A and 17 |
 | 03-002 | Temporary use as a construction compound (Work No 6B) and construction working area to facilitate construction of the authorised development | Work Nos. 5, 5A, 6, 6A, 6B, 7, 7A, 7C, 7D, 7E, 8, 8A and 17 |
@@ -74,6 +74,6 @@ In the District of Tendring—
 
 ## Annotations
 
-[^key-8426b6b5ffa7e6afc77437532d9c9eb9]: Commencement: Sch. 6 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-8426b6b5ffa7e6afc77437532d9c9eb9]: Commencement: Sch. 6 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-592f0bfc6341798c08d42885f22a37ea]: Textual amendment: Word in Sch. 6 substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
+[^c-592f0bfc6341798c08d42885f22a37ea]: Textual amendment: Word in Sch. 6 substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)

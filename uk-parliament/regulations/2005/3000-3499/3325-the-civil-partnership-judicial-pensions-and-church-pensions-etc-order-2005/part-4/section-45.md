@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**45.**[^key-e63e7be5ed0013ba9f48f16dc0148406] (1) Schedule 2 (widowers' pensions: transitional provisions) is amended as follows.
+**45.**[^c-e63e7be5ed0013ba9f48f16dc0148406] (1) Schedule 2 (widowers' pensions: transitional provisions) is amended as follows.
 
 (2) That Schedule becomes Part 1 of Schedule 2.
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e63e7be5ed0013ba9f48f16dc0148406]: Commencement: Art. 45 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-e63e7be5ed0013ba9f48f16dc0148406]: Commencement: Art. 45 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Arrest for failure to comply[^key-5c2d294e99beb28db094ff16fa4e3033]
+## 106. Arrest for failure to comply[^c-5c2d294e99beb28db094ff16fa4e3033]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ to be released if the person is liable to be kept in detention in relation to th
 
 ## Annotations
 
-[^key-5c2d294e99beb28db094ff16fa4e3033]: Commencement: S. 106 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-5c2d294e99beb28db094ff16fa4e3033]: Commencement: S. 106 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)

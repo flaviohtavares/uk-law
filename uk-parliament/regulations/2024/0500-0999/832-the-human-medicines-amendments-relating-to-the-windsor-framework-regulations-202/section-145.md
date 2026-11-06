@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Amendment to Schedule 33A[^key-f273a9003642e6c956d3aa8eaa1ba42a]
+## 145. Amendment to Schedule 33A[^c-f273a9003642e6c956d3aa8eaa1ba42a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In Schedule 33A (transitional provision in relation to EU Exit)[^f00152], omit p
 
 ## Annotations
 
-[^key-f273a9003642e6c956d3aa8eaa1ba42a]: Commencement: [Reg. 145](https://www.legislation.gov.uk/uksi/2024/832/regulation/145) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-f273a9003642e6c956d3aa8eaa1ba42a]: Commencement: [Reg. 145](https://www.legislation.gov.uk/uksi/2024/832/regulation/145) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00152]: Footnote: Schedule 33A was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

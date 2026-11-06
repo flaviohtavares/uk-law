@@ -33,7 +33,7 @@ SEA FISHERIES
 
 FISHERY LIMITS
 
-The Fishing Boats (European Economic Community) Designation Order 1976 (revoked)[^key-2b0a4f4c51669ae9335f078e87693bc4]
+The Fishing Boats (European Economic Community) Designation Order 1976 (revoked)[^c-2b0a4f4c51669ae9335f078e87693bc4]
 
 Made
 
@@ -47,38 +47,38 @@ Coming into Operation
 
 1st January 1977
 
-[^key-2b0a4f4c51669ae9335f078e87693bc4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b0a4f4c51669ae9335f078e87693bc4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2b0a4f4c51669ae9335f078e87693bc4]
+## 1. Citation and commencement[^c-2b0a4f4c51669ae9335f078e87693bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-2b0a4f4c51669ae9335f078e87693bc4]
+## 2. Interpretation[^c-2b0a4f4c51669ae9335f078e87693bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Access to British fisheries[^key-2b0a4f4c51669ae9335f078e87693bc4]
+## 3. Access to British fisheries[^c-2b0a4f4c51669ae9335f078e87693bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Previous designation orders to remain unaffected[^key-2b0a4f4c51669ae9335f078e87693bc4]
+## 4. Previous designation orders to remain unaffected[^c-2b0a4f4c51669ae9335f078e87693bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2b0a4f4c51669ae9335f078e87693bc4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b0a4f4c51669ae9335f078e87693bc4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## THE SCHEDULE[^key-2b0a4f4c51669ae9335f078e87693bc4]
+## THE SCHEDULE[^c-2b0a4f4c51669ae9335f078e87693bc4]
 
 Article 4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2b0a4f4c51669ae9335f078e87693bc4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b0a4f4c51669ae9335f078e87693bc4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2b0a4f4c51669ae9335f078e87693bc4]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1976/2216) revoked (9.3.1983) by [The Fishing Boats (European Economic Community) Designation Order 1983 (S.I. 1983/253)](https://www.legislation.gov.uk/uksi/1983/253), [arts. 1](https://www.legislation.gov.uk/uksi/1983/253/article/1), [4](https://www.legislation.gov.uk/uksi/1983/253/article/4)
+[^c-2b0a4f4c51669ae9335f078e87693bc4]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1976/2216) revoked (9.3.1983) by [The Fishing Boats (European Economic Community) Designation Order 1983 (S.I. 1983/253)](https://www.legislation.gov.uk/uksi/1983/253), [arts. 1](https://www.legislation.gov.uk/uksi/1983/253/article/1), [4](https://www.legislation.gov.uk/uksi/1983/253/article/4)

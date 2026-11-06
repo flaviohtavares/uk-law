@@ -305,7 +305,7 @@ We , Your Majesty’s most dutiful and loyal subjects, the Commons of the United
 
 - [Section 114 — Removal of time limit to claim relief under section 106(3) of FA 2013](part-3/section-114.md)
 
-### Part 4 — Vaping products duty[^key-1c9d2debaf52246eac6893aba7fb2ff9]
+### Part 4 — Vaping products duty[^c-1c9d2debaf52246eac6893aba7fb2ff9]
 
 *Extent: E+W+S+N.I.*
 
@@ -817,4 +817,4 @@ Schedules
 
 ## Annotations
 
-[^key-1c9d2debaf52246eac6893aba7fb2ff9]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2026/11/part/4) modified (1.10.2026) by [The Vaping Products (Production, Duty Stamps and Commencement) Regulations 2026 (S.I. 2026/331)](https://www.legislation.gov.uk/uksi/2026/331), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/331/regulation/1/3), [19](https://www.legislation.gov.uk/uksi/2026/331/regulation/19)
+[^c-1c9d2debaf52246eac6893aba7fb2ff9]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2026/11/part/4) modified (1.10.2026) by [The Vaping Products (Production, Duty Stamps and Commencement) Regulations 2026 (S.I. 2026/331)](https://www.legislation.gov.uk/uksi/2026/331), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/331/regulation/1/3), [19](https://www.legislation.gov.uk/uksi/2026/331/regulation/19)

@@ -45,13 +45,13 @@ Coming into operation
 
 The Lord Chancellor, in exercise of the powers conferred on him by Articles 26B, 27D(1)(*b*), (2) and (3) and Article 33(4C) of the Matrimonial Causes (Northern Ireland) Order 1978[^f00001] and Article 25(4) of the Matrimonial and Family Proceedings (Northern Ireland) Order 1989[^f00002], hereby makes the following Regulations:
 
-## 1. Citation, commencement and transitional provisions[^key-0ced61b129229bf164fb25a35ab9fbf8]
+## 1. Citation, commencement and transitional provisions[^c-0ced61b129229bf164fb25a35ab9fbf8]
 
 (1) These Regulations may be cited as the Divorce etc. (Pensions) Regulations (Northern Ireland) 2000 and shall come into operation on 1st December 2000.
 
 (2) These Regulations shall apply to any proceedings for divorce, judicial separation or nullity of marriage commenced on or after 1st December 2000, and any such proceedings commenced before that date shall be treated as if these Regulations had not come into operation.
 
-## 2. Interpretation[^key-609461517c697e34b8c00091c2f89151]
+## 2. Interpretation[^c-609461517c697e34b8c00091c2f89151]
 
 In these Regulations—
 
@@ -60,7 +60,7 @@ In these Regulations—
 - (c) expressions defined in Article 23A[^f00003] and 27D(3) have the meanings assigned by those Articles;
 - (d) a reference to a rule by number alone is a reference to the rule so numbered in the Family Proceedings Rules (Northern Ireland) 1996[^f00004].
 
-## 3. Valuation[^key-c0afc6d59ca6f6f1572e45690b7bcd76]
+## 3. Valuation[^c-c0afc6d59ca6f6f1572e45690b7bcd76]
 
 (1) For the purpose of the court’s functions in connection with the exercise of any of its powers under Part III of the Matrimonial Causes (Northern Ireland) Order 1978, benefits under a pension arrangement shall be calculated and verified in the manner set out in regulation 3 of the Pensions on Divorce etc. (Provision of Information) Regulations (Northern Ireland) 2000[^f00005], and—
 
@@ -72,10 +72,10 @@ In these Regulations—
 
 - (a) the Pensions on Divorce etc. (Provision of Information) Regulations (Northern Ireland) 2000;
 - (b) regulation 5 of, and Schedule 2 to, the Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1997[^f00006] and regulation 11 of, and Schedule 1 to, the Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996[^f00007];
-- (c) sections 89A and 90(1)[^key-0565258bef150dabe50f6696a6453430] of the Pension Schemes (Northern Ireland) Act 1993[^f00008];
-- (d) section 90(2)[^key-4d99b46e44a19eb8b0054ffb8cba5054] of the Pension Schemes (Northern Ireland) Act 1993 or paragraph 2(1) (or, where applicable, 2(2)) of Schedule 2 to the Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1987[^f00009].
+- (c) sections 89A and 90(1)[^c-0565258bef150dabe50f6696a6453430] of the Pension Schemes (Northern Ireland) Act 1993[^f00008];
+- (d) section 90(2)[^c-4d99b46e44a19eb8b0054ffb8cba5054] of the Pension Schemes (Northern Ireland) Act 1993 or paragraph 2(1) (or, where applicable, 2(2)) of Schedule 2 to the Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1987[^f00009].
 
-## 4. Pension attachment: notices[^key-1956e156f80227a8defa950d7a581e97]
+## 4. Pension attachment: notices[^c-1956e156f80227a8defa950d7a581e97]
 
 (1) This regulation applies in the circumstances set out in Article 27D(1)(*a*) (transfers of pension rights).
 
@@ -106,7 +106,7 @@ In these Regulations—
 - (a) within the period provided by section 95 of the Pension Schemes (Northern Ireland) Act 1993[^f00010] for the person responsible for the first arrangement to carry out what the member requires; and
 - (b) before the expiry of 21 days after the person responsible for the first arrangement has made all required payments to the person responsible for the new arrangement.
 
-## 5. Pension attachment: reduction in benefits[^key-134e823abbbbf9c9e7c20d15498965b8]
+## 5. Pension attachment: reduction in benefits[^c-134e823abbbbf9c9e7c20d15498965b8]
 
 (1) This regulation applies where—
 
@@ -122,7 +122,7 @@ In these Regulations—
 
 (3) Where the event mentioned in paragraph (1)(*b*) consists of a transfer of some but not all of the rights of the party with pension rights from the arrangement, the person responsible for the first arrangement shall, within 14 days of the transfer, give notice to the other party of the name and address of the person responsible for any pension arrangement under which the party with pension rights has acquired rights as a result of that event.
 
-## 6. Pension attachment: change of circumstances[^key-842f4944bceb1c67d730a7002160e017]
+## 6. Pension attachment: change of circumstances[^c-842f4944bceb1c67d730a7002160e017]
 
 (1) This regulation applies where—
 
@@ -146,7 +146,7 @@ In these Regulations—
 - (a) its liability to the party with pension rights shall be discharged to the extent of that payment; and
 - (b) the other party shall, within 14 days of the payment being made, make a payment to the party with pension rights to the extent of that payment.
 
-## 7. Pension attachment: transfer of rights[^key-0f7fd57e790f5230d78e6e0e7245fe33][^key-fac0c4173b958c1c86a9ba3d2c674902]
+## 7. Pension attachment: transfer of rights[^c-0f7fd57e790f5230d78e6e0e7245fe33][^c-fac0c4173b958c1c86a9ba3d2c674902]
 
 (1) This regulation applies where—
 
@@ -171,17 +171,17 @@ and the other party shall be deemed to have given notice under regulation 7(2) t
 
 (5) Upon complying with paragraph (4), the person responsible for the first arrangement shall be discharged from any further obligation under regulation 4 or 7(4), whether in relation to the event in question or any further event set out in regulation 6(2) which may be notified to that person by the other party.
 
-## 8. Service[^key-22d047bf0f203f9c542c5ea9c35eeee2][^key-02b8bb05e14b9ffb7fb96d7f0f4794fd]
+## 8. Service[^c-22d047bf0f203f9c542c5ea9c35eeee2][^c-02b8bb05e14b9ffb7fb96d7f0f4794fd]
 
 A notice under regulation 4, 5, 6 or 7 may be sent by fax or by ordinary first class post to the last known address of the intended recipient and shall be deemed to have been received on the seventh day after the day on which it was sent.
 
-## 9. Pension sharing order not to take effect pending appeal[^key-e3fb123d8b645e383b496d4b4891bdfe]
+## 9. Pension sharing order not to take effect pending appeal[^c-e3fb123d8b645e383b496d4b4891bdfe]
 
 (1) No pension sharing order under Article 26A, or variation of a pension sharing order under Article 33[^f00012], shall take effect earlier than 7 days after the end of the period for filing notice of appeal against the order.
 
 (2) The filing of a notice of appeal within the time allowed for doing so prevents the order taking effect before the appeal has been dealt with.
 
-## 10. Revocation[^key-1f6e6276ee864564fc8391ce0e7bdf11]
+## 10. Revocation[^c-1f6e6276ee864564fc8391ce0e7bdf11]
 
 The Divorce etc. (Pensions) Regulations (Northern Ireland) 1996[^f00013] and the Divorce etc. (Pensions) (Amendment) Regulations (Northern Ireland) 1997[^f00014] are hereby revoked.
 
@@ -203,15 +203,15 @@ These Regulations make provision pursuant to orders, including those made after 
 
 [^f00002]: Footnote: S.I. [1989/677 (N.I. 4)](https://www.legislation.gov.uk/nisi/1989/677). Article 25(4) was inserted by Article 20(5) of the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
-[^key-0ced61b129229bf164fb25a35ab9fbf8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/210/regulation/1) in operation at 1.12.2000 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/210/regulation/1/2)
+[^c-0ced61b129229bf164fb25a35ab9fbf8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/210/regulation/1) in operation at 1.12.2000 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/210/regulation/1/2)
 
-[^key-609461517c697e34b8c00091c2f89151]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/210/regulation/2) in operation at 1.12.2000 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/210/regulation/1/2)
+[^c-609461517c697e34b8c00091c2f89151]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/210/regulation/2) in operation at 1.12.2000 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/210/regulation/1/2)
 
 [^f00003]: Footnote: Article 23A was inserted by paragraph 3 of Schedule 3 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
 [^f00004]: Footnote: [S.R. 1996 No. 322](https://www.legislation.gov.uk/nisr/1996/322) to which the most recent relevant amendments were effected by [S.R. 1999 No. 88](https://www.legislation.gov.uk/nisr/1999/88)
 
-[^key-c0afc6d59ca6f6f1572e45690b7bcd76]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/210/regulation/3) in operation at 1.12.2000 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/210/regulation/1/2)
+[^c-c0afc6d59ca6f6f1572e45690b7bcd76]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/210/regulation/3) in operation at 1.12.2000 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/210/regulation/1/2)
 
 [^f00005]: Footnote: [S.R. 2000 No. 142](https://www.legislation.gov.uk/nisr/2000/142)
 
@@ -219,37 +219,37 @@ These Regulations make provision pursuant to orders, including those made after 
 
 [^f00007]: Footnote: [S.R. 1996 No. 619](https://www.legislation.gov.uk/nisr/1996/619)
 
-[^key-0565258bef150dabe50f6696a6453430]: Textual amendment: Words in [reg. 3(2)(c)](https://www.legislation.gov.uk/nisr/2000/210/regulation/3/2/c) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [6(a)](https://www.legislation.gov.uk/nisr/2016/172/regulation/6/a)
+[^c-0565258bef150dabe50f6696a6453430]: Textual amendment: Words in [reg. 3(2)(c)](https://www.legislation.gov.uk/nisr/2000/210/regulation/3/2/c) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [6(a)](https://www.legislation.gov.uk/nisr/2016/172/regulation/6/a)
 
 [^f00008]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 89A was inserted by Article 149 of the Pensions (Northern Ireland) Order 1995 and is amended by paragraph 23 of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999. Section 90 was amended by Article 150 of the Pensions (Northern Ireland) Order 1995 and paragraph 24 of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
-[^key-4d99b46e44a19eb8b0054ffb8cba5054]: Textual amendment: Words in [reg. 3(2)(d)](https://www.legislation.gov.uk/nisr/2000/210/regulation/3/2/d) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [6(b)](https://www.legislation.gov.uk/nisr/2016/172/regulation/6/b)
+[^c-4d99b46e44a19eb8b0054ffb8cba5054]: Textual amendment: Words in [reg. 3(2)(d)](https://www.legislation.gov.uk/nisr/2000/210/regulation/3/2/d) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [6(b)](https://www.legislation.gov.uk/nisr/2016/172/regulation/6/b)
 
 [^f00009]: Footnote: [S.R. 1987 No. 288](https://www.legislation.gov.uk/nisr/1987/288)
 
-[^key-1956e156f80227a8defa950d7a581e97]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/210/regulation/4) in operation at 1.12.2000 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/210/regulation/1/2)
+[^c-1956e156f80227a8defa950d7a581e97]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/210/regulation/4) in operation at 1.12.2000 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/210/regulation/1/2)
 
 [^f00010]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 95 was amended by paragraph 8 of Schedule 4 to the Pensions (Northern Ireland) Order 1995
 
-[^key-134e823abbbbf9c9e7c20d15498965b8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/210/regulation/5) in operation at 1.12.2000 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/210/regulation/1/2)
+[^c-134e823abbbbf9c9e7c20d15498965b8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/210/regulation/5) in operation at 1.12.2000 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/210/regulation/1/2)
 
 [^f00011]: Footnote: Article 21 was substituted by paragraph 2 of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
-[^key-842f4944bceb1c67d730a7002160e017]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/210/regulation/6) in operation at 1.12.2000 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/210/regulation/1/2)
+[^c-842f4944bceb1c67d730a7002160e017]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/210/regulation/6) in operation at 1.12.2000 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/210/regulation/1/2)
 
-[^key-0f7fd57e790f5230d78e6e0e7245fe33]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/210/regulation/7) in operation at 1.12.2000 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/210/regulation/1/2)
+[^c-0f7fd57e790f5230d78e6e0e7245fe33]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/210/regulation/7) in operation at 1.12.2000 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/210/regulation/1/2)
 
-[^key-fac0c4173b958c1c86a9ba3d2c674902]: Modification: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/210/regulation/7) applied (with modifications) (14.8.2006) by [The Divorce etc. (Pension Protection Fund) Regulations (Northern Ireland) 2006 (S.R. 2006/310)](https://www.legislation.gov.uk/nisr/2006/310), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/310/regulation/1/1), [5(a)](https://www.legislation.gov.uk/nisr/2006/310/regulation/5/a)
+[^c-fac0c4173b958c1c86a9ba3d2c674902]: Modification: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/210/regulation/7) applied (with modifications) (14.8.2006) by [The Divorce etc. (Pension Protection Fund) Regulations (Northern Ireland) 2006 (S.R. 2006/310)](https://www.legislation.gov.uk/nisr/2006/310), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/310/regulation/1/1), [5(a)](https://www.legislation.gov.uk/nisr/2006/310/regulation/5/a)
 
-[^key-22d047bf0f203f9c542c5ea9c35eeee2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2000/210/regulation/8) in operation at 1.12.2000 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/210/regulation/1/2)
+[^c-22d047bf0f203f9c542c5ea9c35eeee2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2000/210/regulation/8) in operation at 1.12.2000 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/210/regulation/1/2)
 
-[^key-02b8bb05e14b9ffb7fb96d7f0f4794fd]: Modification: [Reg. 8](https://www.legislation.gov.uk/nisr/2000/210/regulation/8) applied (with modifications) (14.8.2006) by [The Divorce etc. (Pension Protection Fund) Regulations (Northern Ireland) 2006 (S.R. 2006/310)](https://www.legislation.gov.uk/nisr/2006/310), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/310/regulation/1/1), [5(b)](https://www.legislation.gov.uk/nisr/2006/310/regulation/5/b)
+[^c-02b8bb05e14b9ffb7fb96d7f0f4794fd]: Modification: [Reg. 8](https://www.legislation.gov.uk/nisr/2000/210/regulation/8) applied (with modifications) (14.8.2006) by [The Divorce etc. (Pension Protection Fund) Regulations (Northern Ireland) 2006 (S.R. 2006/310)](https://www.legislation.gov.uk/nisr/2006/310), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/310/regulation/1/1), [5(b)](https://www.legislation.gov.uk/nisr/2006/310/regulation/5/b)
 
-[^key-e3fb123d8b645e383b496d4b4891bdfe]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2000/210/regulation/9) in operation at 1.12.2000 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/210/regulation/1/2)
+[^c-e3fb123d8b645e383b496d4b4891bdfe]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2000/210/regulation/9) in operation at 1.12.2000 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/210/regulation/1/2)
 
 [^f00012]: Footnote: Article 26A was inserted by paragraph 5 of Schedule 3 to, and Article 33 was amended by paragraph 8 of Schedule 3 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
-[^key-1f6e6276ee864564fc8391ce0e7bdf11]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2000/210/regulation/10) in operation at 1.12.2000 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/210/regulation/1/2)
+[^c-1f6e6276ee864564fc8391ce0e7bdf11]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2000/210/regulation/10) in operation at 1.12.2000 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/210/regulation/1/2)
 
 [^f00013]: Footnote: [S.R. 1996 No. 296](https://www.legislation.gov.uk/nisr/1996/296)
 

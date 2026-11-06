@@ -27,7 +27,7 @@ They shall also ensure the regular and timely publication of information on the 
 - (a) the type, number and outcome of official controls;
 - (b) the type and number of cases of non-compliance detected;
 - (c) the type and number of cases where measures were taken by the competent authorities in accordance with Article 138; and
-- (d) the type and number of cases where the penalties applicable in relation to breaches of this Regulation[^key-7f9ece94159046dd87cb03fd252c534e] were imposed.
+- (d) the type and number of cases where the penalties applicable in relation to breaches of this Regulation[^c-7f9ece94159046dd87cb03fd252c534e] were imposed.
 
 The information referred to in points (a) to (d) of the second subparagraph of this paragraph may be provided, where appropriate, through the publication of the annual report referred to in Article 113(1).
 
@@ -40,4 +40,4 @@ The information referred to in points (a) to (d) of the second subparagraph of t
 
 ## Annotations
 
-[^key-7f9ece94159046dd87cb03fd252c534e]: Textual amendment: Words in [Art. 11(1)(d)](https://www.legislation.gov.uk/eur/2017/625/article/11/1/d) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/5/3) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-7f9ece94159046dd87cb03fd252c534e]: Textual amendment: Words in [Art. 11(1)(d)](https://www.legislation.gov.uk/eur/2017/625/article/11/1/d) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/5/3) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

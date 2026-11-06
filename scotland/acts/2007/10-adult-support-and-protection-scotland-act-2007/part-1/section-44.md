@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Committee procedure[^key-da60ab0ecad8d6b79557ccdd16b04b3e]
+## 44. Committee procedure[^c-da60ab0ecad8d6b79557ccdd16b04b3e]
 
 *Extent: S*
 
 (1) It is for an Adult Protection Committee to regulate its own procedures.
 
-(2)[^key-c75009a4df416b3cedb3890ca51d5ce0] But those procedures must allow committee meetings to be attended by—
+(2)[^c-c75009a4df416b3cedb3890ca51d5ce0] But those procedures must allow committee meetings to be attended by—
 
 - (a) a representative of—
   - (i) the Mental Welfare Commission for Scotland,
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-da60ab0ecad8d6b79557ccdd16b04b3e]: Commencement: S. 44 in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-da60ab0ecad8d6b79557ccdd16b04b3e]: Commencement: S. 44 in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
 
-[^key-c75009a4df416b3cedb3890ca51d5ce0]: Textual amendment: [S. 44(2)](https://www.legislation.gov.uk/asp/2007/10/section/44/2) substituted (7.1.2026) by [Care Reform (Scotland) Act 2025 (asp 9)](https://www.legislation.gov.uk/asp/2025/9), [ss. 24(3)](https://www.legislation.gov.uk/asp/2025/9/section/24/3), [39(2)](https://www.legislation.gov.uk/asp/2025/9/section/39/2); [S.S.I. 2025/388](https://www.legislation.gov.uk/ssi/2025/388), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/388/schedule/part/1)
+[^c-c75009a4df416b3cedb3890ca51d5ce0]: Textual amendment: [S. 44(2)](https://www.legislation.gov.uk/asp/2007/10/section/44/2) substituted (7.1.2026) by [Care Reform (Scotland) Act 2025 (asp 9)](https://www.legislation.gov.uk/asp/2025/9), [ss. 24(3)](https://www.legislation.gov.uk/asp/2025/9/section/24/3), [39(2)](https://www.legislation.gov.uk/asp/2025/9/section/39/2); [S.S.I. 2025/388](https://www.legislation.gov.uk/ssi/2025/388), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/388/schedule/part/1)

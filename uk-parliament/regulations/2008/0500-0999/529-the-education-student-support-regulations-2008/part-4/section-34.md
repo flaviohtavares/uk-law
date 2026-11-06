@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Miscellaneous[^key-0e131874bd05202880fadef9b7936ed9]
+## 34. Miscellaneous[^c-0e131874bd05202880fadef9b7936ed9]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0e131874bd05202880fadef9b7936ed9]: Commencement: Reg. 34 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-0e131874bd05202880fadef9b7936ed9]: Commencement: Reg. 34 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
 [^f00042]: Footnote: [S.I. 1999/2263](https://www.legislation.gov.uk/uksi/1999/2263), amended by [S.I. 2001/2893](https://www.legislation.gov.uk/uksi/2001/2893).
 

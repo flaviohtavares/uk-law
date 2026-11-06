@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Meaning of “nuclear site” etc. and “person with control”[^key-7f68fc441d99f95da03783b4cdbf4fa7][^key-42994356a220d1681675029a20d9599d]
+## 36. Meaning of “nuclear site” etc. and “person with control”[^c-7f68fc441d99f95da03783b4cdbf4fa7][^c-42994356a220d1681675029a20d9599d]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,6 +74,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7f68fc441d99f95da03783b4cdbf4fa7]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2004/20/section/36) in force at 24.8.2004 for specified purposes by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
+[^c-7f68fc441d99f95da03783b4cdbf4fa7]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2004/20/section/36) in force at 24.8.2004 for specified purposes by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
 
-[^key-42994356a220d1681675029a20d9599d]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2004/20/section/36) in force at 5.10.2004 in so far as not already in force by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-42994356a220d1681675029a20d9599d]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2004/20/section/36) in force at 5.10.2004 in so far as not already in force by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

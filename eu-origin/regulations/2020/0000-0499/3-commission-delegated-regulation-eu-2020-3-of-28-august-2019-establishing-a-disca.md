@@ -33,32 +33,32 @@ of 28 August 2019
 
 establishing a discard plan for Venus shells (*Venus* spp.) in certain Italian territorial waters (revoked)
 
-[^key-88c423371c6e044e93cc2f7140213926]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88c423371c6e044e93cc2f7140213926]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter and scope[^key-88c423371c6e044e93cc2f7140213926]
+## Article 1. Subject matter and scope[^c-88c423371c6e044e93cc2f7140213926]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Survivability exemption for Venus shells (Venus spp.)[^key-88c423371c6e044e93cc2f7140213926]
+## Article 2. Survivability exemption for Venus shells (Venus spp.)[^c-88c423371c6e044e93cc2f7140213926]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Minimum conservation reference size[^key-88c423371c6e044e93cc2f7140213926]
+## Article 3. Minimum conservation reference size[^c-88c423371c6e044e93cc2f7140213926]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. List of vessels[^key-88c423371c6e044e93cc2f7140213926]
+## Article 4. List of vessels[^c-88c423371c6e044e93cc2f7140213926]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-88c423371c6e044e93cc2f7140213926]
+## Article 5. Entry into force[^c-88c423371c6e044e93cc2f7140213926]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88c423371c6e044e93cc2f7140213926]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88c423371c6e044e93cc2f7140213926]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-88c423371c6e044e93cc2f7140213926]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/1)
+[^c-88c423371c6e044e93cc2f7140213926]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/1)

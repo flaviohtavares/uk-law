@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 107AB. Ordinary adoption leave: prospective adopters with whom looked after children are placed[^key-4ecdab1c01a050a6fd69906ab10b8a94][^c21418651][^c22340171]
+## 107AB. Ordinary adoption leave: prospective adopters with whom looked after children are placed[^c-4ecdab1c01a050a6fd69906ab10b8a94][^c21418651][^c22340171]
 
 *Extent: N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4ecdab1c01a050a6fd69906ab10b8a94]: Textual amendment: Art. 107AB inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 8(3)](https://www.legislation.gov.uk/nia/2015/1/section/8/3), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(f)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/f)
+[^c-4ecdab1c01a050a6fd69906ab10b8a94]: Textual amendment: Art. 107AB inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 8(3)](https://www.legislation.gov.uk/nia/2015/1/section/8/3), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(f)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/f)
 
 [^c21418651]: Textual amendment: [2002 NI 2](https://www.legislation.gov.uk/nisi/2002)
 

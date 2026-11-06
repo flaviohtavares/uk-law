@@ -38,13 +38,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Fixed penalty notices
 
-### 1. Powers of enforcement authorities[^key-2ac8545746b5be1406c2b9a09dae868d]
+### 1. Powers of enforcement authorities[^c-2ac8545746b5be1406c2b9a09dae868d]
 
-(1)[^key-94517ade2b6027a8dfd80db6a2a1a020] Where an enforcement authority for a relevant offence is satisfied beyond reasonable doubt that a person has committed the offence in England, the authority may issue a fixed penalty notice under this section to the person.
+(1)[^c-94517ade2b6027a8dfd80db6a2a1a020] Where an enforcement authority for a relevant offence is satisfied beyond reasonable doubt that a person has committed the offence in England, the authority may issue a fixed penalty notice under this section to the person.
 
-(2)[^key-2ac8545746b5be1406c2b9a09dae868d] In this Act “**relevant offence**” means an offence within subsection (3) that is specified by regulations made by the Secretary of State.
+(2)[^c-2ac8545746b5be1406c2b9a09dae868d] In this Act “**relevant offence**” means an offence within subsection (3) that is specified by regulations made by the Secretary of State.
 
-(3)[^key-2ac8545746b5be1406c2b9a09dae868d] The offences within this subsection are—
+(3)[^c-2ac8545746b5be1406c2b9a09dae868d] The offences within this subsection are—
 
 - (a) an offence under regulations made under section 2(2) of the European Communities Act 1972 which the Secretary of State considers relates to animals or animal products;
 - (b) an offence under the Dangerous Wild Animals Act 1976;
@@ -53,27 +53,27 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (e) an offence under the Animal Welfare Act 2006 or under regulations made under section 12 or 13 of that Act;
 - (f) an offence under the Wild Animals in Circuses Act 2019.
 
-(4)[^key-2ac8545746b5be1406c2b9a09dae868d] In this Act an “enforcement authority”, for a relevant offence, is a person who is specified in relation to the offence by regulations made by the Secretary of State (and the regulations may specify more than one person in relation to any relevant offence).
+(4)[^c-2ac8545746b5be1406c2b9a09dae868d] In this Act an “enforcement authority”, for a relevant offence, is a person who is specified in relation to the offence by regulations made by the Secretary of State (and the regulations may specify more than one person in relation to any relevant offence).
 
-(5)[^key-2ac8545746b5be1406c2b9a09dae868d] The persons who may be specified by regulations under subsection (4) are—
+(5)[^c-2ac8545746b5be1406c2b9a09dae868d] The persons who may be specified by regulations under subsection (4) are—
 
 - (a) the Secretary of State,
 - (b) a local authority, or
 - (c) any other person that the Secretary of State considers appropriate.
 
-(6)[^key-94517ade2b6027a8dfd80db6a2a1a020] A fixed penalty notice issued under this section may be withdrawn at any time by the authority that issued it.
+(6)[^c-94517ade2b6027a8dfd80db6a2a1a020] A fixed penalty notice issued under this section may be withdrawn at any time by the authority that issued it.
 
-### 2. Powers of constables[^key-4a2dd3b9c50b5a02240f548357f42cd1]
+### 2. Powers of constables[^c-4a2dd3b9c50b5a02240f548357f42cd1]
 
-(1)[^key-46bd3a3d2d1e3defc149bd367f326f23] Where a constable is satisfied beyond reasonable doubt that a person has committed a specified dangerous dogs offence in England or Wales, the constable may issue a fixed penalty notice under this section to the person.
+(1)[^c-46bd3a3d2d1e3defc149bd367f326f23] Where a constable is satisfied beyond reasonable doubt that a person has committed a specified dangerous dogs offence in England or Wales, the constable may issue a fixed penalty notice under this section to the person.
 
-(2)[^key-4a2dd3b9c50b5a02240f548357f42cd1] In this section “**specified dangerous dogs offence**” means an offence within subsection (3) that is specified by regulations made by the Secretary of State.
+(2)[^c-4a2dd3b9c50b5a02240f548357f42cd1] In this section “**specified dangerous dogs offence**” means an offence within subsection (3) that is specified by regulations made by the Secretary of State.
 
-(3)[^key-4a2dd3b9c50b5a02240f548357f42cd1] The offences within this subsection are offences under sections 1, 3 and 4(8) of the Dangerous Dogs Act 1991.
+(3)[^c-4a2dd3b9c50b5a02240f548357f42cd1] The offences within this subsection are offences under sections 1, 3 and 4(8) of the Dangerous Dogs Act 1991.
 
-(4)[^key-46bd3a3d2d1e3defc149bd367f326f23] A fixed penalty notice issued under this section may be withdrawn at any time by the constable that issued it or another constable in the same police force.
+(4)[^c-46bd3a3d2d1e3defc149bd367f326f23] A fixed penalty notice issued under this section may be withdrawn at any time by the constable that issued it or another constable in the same police force.
 
-### 3. Content and effect of notices[^key-e28ea11ad12f949bc370347eb5ca3f0b][^key-78972585c1172b5f63e0779e3fc681f5]
+### 3. Content and effect of notices[^c-e28ea11ad12f949bc370347eb5ca3f0b][^c-78972585c1172b5f63e0779e3fc681f5]
 
 (1) This section applies to a fixed penalty notice under section 1 or 2.
 
@@ -101,14 +101,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (7) Where proceedings are instituted for the offence after the end of the relevant period, that period is to be disregarded for the purposes of calculating the period mentioned in section 127(1) of the Magistrates’ Court Act 1980.
 
-### 4. Matters to be taken into account[^key-fcf82343aebab62a96bd3e0f41df4661]
+### 4. Matters to be taken into account[^c-fcf82343aebab62a96bd3e0f41df4661]
 
-(1)[^key-e90e5d0789e06966d7463f555fbe5813] An enforcement authority for a relevant offence or a constable must take into account the matters mentioned in subsection (2) in deciding—
+(1)[^c-e90e5d0789e06966d7463f555fbe5813] An enforcement authority for a relevant offence or a constable must take into account the matters mentioned in subsection (2) in deciding—
 
 - (a) whether to issue a fixed penalty notice to a person under section 1 or 2, and
 - (b) the amount to be specified in the notice.
 
-(2)[^key-e90e5d0789e06966d7463f555fbe5813] The matters are—
+(2)[^c-e90e5d0789e06966d7463f555fbe5813] The matters are—
 
 - (a) the seriousness of the conduct to which the proposed notice relates (the “relevant conduct”);
 - (b) the duration of the relevant conduct;
@@ -119,17 +119,17 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (g) whether the person reported the relevant conduct to the enforcement authority or constable;
 - (h) the conduct of the person after the relevant conduct is drawn to their attention by the enforcement authority or constable.
 
-(3)[^key-fcf82343aebab62a96bd3e0f41df4661] The Secretary of State must give guidance about—
+(3)[^c-fcf82343aebab62a96bd3e0f41df4661] The Secretary of State must give guidance about—
 
 - (a) additional matters to be taken into account in deciding whether to issue a fixed penalty notice;
 - (b) additional matters to be taken into account in deciding the amount to be specified in the notice;
 - (c) how the matters mentioned in subsection (2) and any additional matters of the kind mentioned in paragraph (a) or (b) are to be taken into account.
 
-(4)[^key-fcf82343aebab62a96bd3e0f41df4661] The guidance must be laid before Parliament after it is given.
+(4)[^c-fcf82343aebab62a96bd3e0f41df4661] The guidance must be laid before Parliament after it is given.
 
-(5)[^key-e90e5d0789e06966d7463f555fbe5813] An enforcement authority for a relevant offence or constable must have regard to the guidance.
+(5)[^c-e90e5d0789e06966d7463f555fbe5813] An enforcement authority for a relevant offence or constable must have regard to the guidance.
 
-### 5. Use of proceeds[^key-12cceb9bff5275cce37b5be47f4fd2d1][^key-445b8f411d4b4f37d6192071b261dda2]
+### 5. Use of proceeds[^c-12cceb9bff5275cce37b5be47f4fd2d1][^c-445b8f411d4b4f37d6192071b261dda2]
 
 (1) Sums received by enforcement authorities for relevant offences or chief officers of police for police forces pursuant to fixed penalty notices issued under section 1 or 2 must be paid into the Consolidated Fund.
 
@@ -140,7 +140,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## General
 
-### 6. Reports[^key-2d0e6fdedeab4381a1e49d76dbf1a7ac][^key-d6330d2e407d6e12e0d9c27d85db2cb7]
+### 6. Reports[^c-2d0e6fdedeab4381a1e49d76dbf1a7ac][^c-d6330d2e407d6e12e0d9c27d85db2cb7]
 
 (1) As soon as reasonably practicable after the end of each financial year an enforcement authority for one or more relevant offences (other than the Secretary of State) or the chief officer of police for a police force must give to the Secretary of State a report containing the following information in relation to that year—
 
@@ -161,7 +161,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (a) the period beginning with the day on which this section comes into force and ending with the following 31 March, and
 - (b) each successive period of 12 months.
 
-### 7. Regulations[^key-67ec09dde00fc15c2474a0e48f507aa4]
+### 7. Regulations[^c-67ec09dde00fc15c2474a0e48f507aa4]
 
 (1) Regulations under section 1 or 2 may contain transitional provision.
 
@@ -169,7 +169,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (3) A statutory instrument containing regulations under section 1 or 2 is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 8. Interpretation[^key-712d5be438af74e32fba2bf74d5e62d9]
+### 8. Interpretation[^c-712d5be438af74e32fba2bf74d5e62d9]
 
 In this Act—
 
@@ -181,7 +181,7 @@ In this Act—
   - (d) the Council of the Isles of Scilly;
 - “**relevant offence**” has the meaning given by section 1(2).
 
-### 9. Extent, commencement and short title[^key-ccb7a282aefd5f753a44ca9b7a437823]
+### 9. Extent, commencement and short title[^c-ccb7a282aefd5f753a44ca9b7a437823]
 
 (1) This Act extends to England and Wales only.
 
@@ -193,32 +193,32 @@ In this Act—
 
 ## Annotations
 
-[^key-2ac8545746b5be1406c2b9a09dae868d]: Commencement: [S. 1(2)-(5)](https://www.legislation.gov.uk/ukpga/2022/19/section/1/2) in force at 28.6.2022, see [s. 9(2)](https://www.legislation.gov.uk/ukpga/2022/19/section/9/2)
+[^c-2ac8545746b5be1406c2b9a09dae868d]: Commencement: [S. 1(2)-(5)](https://www.legislation.gov.uk/ukpga/2022/19/section/1/2) in force at 28.6.2022, see [s. 9(2)](https://www.legislation.gov.uk/ukpga/2022/19/section/9/2)
 
-[^key-94517ade2b6027a8dfd80db6a2a1a020]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2022/19/section/1/1)[(6)](https://www.legislation.gov.uk/ukpga/2022/19/section/1/6) in force at 1.1.2024 by [S.I. 2023/1262](https://www.legislation.gov.uk/uksi/2023/1262), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1262/regulation/2/a)
+[^c-94517ade2b6027a8dfd80db6a2a1a020]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2022/19/section/1/1)[(6)](https://www.legislation.gov.uk/ukpga/2022/19/section/1/6) in force at 1.1.2024 by [S.I. 2023/1262](https://www.legislation.gov.uk/uksi/2023/1262), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1262/regulation/2/a)
 
-[^key-4a2dd3b9c50b5a02240f548357f42cd1]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/ukpga/2022/19/section/2/2)[(3)](https://www.legislation.gov.uk/ukpga/2022/19/section/2/3) in force at 28.6.2022, see [s. 9(2)](https://www.legislation.gov.uk/ukpga/2022/19/section/9/2)
+[^c-4a2dd3b9c50b5a02240f548357f42cd1]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/ukpga/2022/19/section/2/2)[(3)](https://www.legislation.gov.uk/ukpga/2022/19/section/2/3) in force at 28.6.2022, see [s. 9(2)](https://www.legislation.gov.uk/ukpga/2022/19/section/9/2)
 
-[^key-46bd3a3d2d1e3defc149bd367f326f23]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/ukpga/2022/19/section/2/1)[(4)](https://www.legislation.gov.uk/ukpga/2022/19/section/2/4) in force at 1.1.2024 by [S.I. 2023/1262](https://www.legislation.gov.uk/uksi/2023/1262), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1262/regulation/2/b)
+[^c-46bd3a3d2d1e3defc149bd367f326f23]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/ukpga/2022/19/section/2/1)[(4)](https://www.legislation.gov.uk/ukpga/2022/19/section/2/4) in force at 1.1.2024 by [S.I. 2023/1262](https://www.legislation.gov.uk/uksi/2023/1262), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1262/regulation/2/b)
 
-[^key-e28ea11ad12f949bc370347eb5ca3f0b]: Commencement: S. 3 not in force at Royal Assent, see [s. 9(3)](https://www.legislation.gov.uk/ukpga/2022/19/section/9/3)
+[^c-e28ea11ad12f949bc370347eb5ca3f0b]: Commencement: S. 3 not in force at Royal Assent, see [s. 9(3)](https://www.legislation.gov.uk/ukpga/2022/19/section/9/3)
 
-[^key-78972585c1172b5f63e0779e3fc681f5]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/19/section/3) in force at 1.1.2024 by [S.I. 2023/1262](https://www.legislation.gov.uk/uksi/2023/1262), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1262/regulation/2/c)
+[^c-78972585c1172b5f63e0779e3fc681f5]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/19/section/3) in force at 1.1.2024 by [S.I. 2023/1262](https://www.legislation.gov.uk/uksi/2023/1262), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1262/regulation/2/c)
 
-[^key-fcf82343aebab62a96bd3e0f41df4661]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/ukpga/2022/19/section/4/3)[(4)](https://www.legislation.gov.uk/ukpga/2022/19/section/4/4) in force at 28.6.2022, see [s. 9(2)](https://www.legislation.gov.uk/ukpga/2022/19/section/9/2)
+[^c-fcf82343aebab62a96bd3e0f41df4661]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/ukpga/2022/19/section/4/3)[(4)](https://www.legislation.gov.uk/ukpga/2022/19/section/4/4) in force at 28.6.2022, see [s. 9(2)](https://www.legislation.gov.uk/ukpga/2022/19/section/9/2)
 
-[^key-e90e5d0789e06966d7463f555fbe5813]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/ukpga/2022/19/section/4/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/19/section/4/2)[(5)](https://www.legislation.gov.uk/ukpga/2022/19/section/4/5) in force at 1.1.2024 by [S.I. 2023/1262](https://www.legislation.gov.uk/uksi/2023/1262), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1262/regulation/2/d)
+[^c-e90e5d0789e06966d7463f555fbe5813]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/ukpga/2022/19/section/4/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/19/section/4/2)[(5)](https://www.legislation.gov.uk/ukpga/2022/19/section/4/5) in force at 1.1.2024 by [S.I. 2023/1262](https://www.legislation.gov.uk/uksi/2023/1262), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1262/regulation/2/d)
 
-[^key-12cceb9bff5275cce37b5be47f4fd2d1]: Commencement: S. 5 not in force at Royal Assent, see [s. 9(3)](https://www.legislation.gov.uk/ukpga/2022/19/section/9/3)
+[^c-12cceb9bff5275cce37b5be47f4fd2d1]: Commencement: S. 5 not in force at Royal Assent, see [s. 9(3)](https://www.legislation.gov.uk/ukpga/2022/19/section/9/3)
 
-[^key-445b8f411d4b4f37d6192071b261dda2]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/19/section/5) in force at 1.1.2024 by [S.I. 2023/1262](https://www.legislation.gov.uk/uksi/2023/1262), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1262/regulation/2/e)
+[^c-445b8f411d4b4f37d6192071b261dda2]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/19/section/5) in force at 1.1.2024 by [S.I. 2023/1262](https://www.legislation.gov.uk/uksi/2023/1262), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1262/regulation/2/e)
 
-[^key-2d0e6fdedeab4381a1e49d76dbf1a7ac]: Commencement: S. 6 not in force at Royal Assent, see [s. 9(3)](https://www.legislation.gov.uk/ukpga/2022/19/section/9/3)
+[^c-2d0e6fdedeab4381a1e49d76dbf1a7ac]: Commencement: S. 6 not in force at Royal Assent, see [s. 9(3)](https://www.legislation.gov.uk/ukpga/2022/19/section/9/3)
 
-[^key-d6330d2e407d6e12e0d9c27d85db2cb7]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/19/section/6) in force at 1.1.2024 by [S.I. 2023/1262](https://www.legislation.gov.uk/uksi/2023/1262), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1262/regulation/2/f)
+[^c-d6330d2e407d6e12e0d9c27d85db2cb7]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/19/section/6) in force at 1.1.2024 by [S.I. 2023/1262](https://www.legislation.gov.uk/uksi/2023/1262), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1262/regulation/2/f)
 
-[^key-67ec09dde00fc15c2474a0e48f507aa4]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/19/section/7) in force at 28.6.2022, see [s. 9(2)](https://www.legislation.gov.uk/ukpga/2022/19/section/9/2)
+[^c-67ec09dde00fc15c2474a0e48f507aa4]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/19/section/7) in force at 28.6.2022, see [s. 9(2)](https://www.legislation.gov.uk/ukpga/2022/19/section/9/2)
 
-[^key-712d5be438af74e32fba2bf74d5e62d9]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/19/section/8) in force at 28.6.2022, see [s. 9(2)](https://www.legislation.gov.uk/ukpga/2022/19/section/9/2)
+[^c-712d5be438af74e32fba2bf74d5e62d9]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/19/section/8) in force at 28.6.2022, see [s. 9(2)](https://www.legislation.gov.uk/ukpga/2022/19/section/9/2)
 
-[^key-ccb7a282aefd5f753a44ca9b7a437823]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2022/19/section/9) in force at 28.6.2022, see [s. 9(2)](https://www.legislation.gov.uk/ukpga/2022/19/section/9/2)
+[^c-ccb7a282aefd5f753a44ca9b7a437823]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2022/19/section/9) in force at 28.6.2022, see [s. 9(2)](https://www.legislation.gov.uk/ukpga/2022/19/section/9/2)

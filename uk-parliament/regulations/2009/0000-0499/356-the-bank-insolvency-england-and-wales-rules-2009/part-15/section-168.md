@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 168. Accounting[^key-f5bba2cb8a90c1d07931f832ea58e5c0]
+## 168. Accounting[^c-f5bba2cb8a90c1d07931f832ea58e5c0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.209 of the 1986 Rules.
 
 ## Annotations
 
-[^key-f5bba2cb8a90c1d07931f832ea58e5c0]: Commencement: Rule 168 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-f5bba2cb8a90c1d07931f832ea58e5c0]: Commencement: Rule 168 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

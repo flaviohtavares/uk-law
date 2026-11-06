@@ -26,7 +26,7 @@ summary: ''
 
 *Extent: E+W*
 
-(3)[^key-d04ff1b4c76da9b97a6a7380024b740a] Subsection (4) applies to any statutory instrument containing—
+(3)[^c-d04ff1b4c76da9b97a6a7380024b740a] Subsection (4) applies to any statutory instrument containing—
 
 - (a) an order made under section 42A by a relevant authority in relation to a delegable function, or
 - (b) an order made by any person, by virtue of an order under that section, in the exercise of a delegable function under section 14, 15, 16 or 18.
@@ -36,14 +36,14 @@ summary: ''
 - (a (Extent: E+W)) if the relevant authority in relation to the delegable function is the Secretary of State, is subject to annulment in pursuance of a resolution of either House of Parliament; *(Extent: E+W)*
 - (b (Extent: E+W)) if the relevant authority in relation to the delegable function is the Welsh Ministers, is subject to annulment in pursuance of a resolution of the National Assembly for Wales. *(Extent: E+W)*
 
-(5)[^key-c16c6c165c920cf95a706be33d179927] A power of the Secretary of State or Welsh Ministers to make an order under section 40A is exercisable by statutory instrument.
+(5)[^c-c16c6c165c920cf95a706be33d179927] A power of the Secretary of State or Welsh Ministers to make an order under section 40A is exercisable by statutory instrument.
 
 (6) A statutory instrument containing an order under section 40A—
 
 - (a) if made by the Secretary of State, is subject to annulment in pursuance of a resolution of either House of Parliament,
 - (b) if made by the Welsh Ministers, is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
 
-(7)[^key-ad98f45a10eda8d77f497a149f54d6e5] As to the power to make regulations under paragraph 9A of Schedule 3 (fees for applications)—
+(7)[^c-ad98f45a10eda8d77f497a149f54d6e5] As to the power to make regulations under paragraph 9A of Schedule 3 (fees for applications)—
 
 - (a) where the power is exercised by the Secretary of State—
   - (i) the regulations are to be made by statutory instrument, and
@@ -59,8 +59,8 @@ summary: ''
 
 [^c7741011]: Textual amendment: Words inserted by [Transport Act 1981 (c. 56)](https://www.legislation.gov.uk/ukpga/1981/56), [Sch. 6 para. 5(3)](https://www.legislation.gov.uk/ukpga/1981/56/schedule/6/paragraph/5/3)
 
-[^key-d04ff1b4c76da9b97a6a7380024b740a]: Textual amendment: S. 54(3)(4) inserted (E.W.) (12.11.2009 for specified purposes, 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)[(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d), [Sch. 21 para. 3(2)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/3/2); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)
+[^c-d04ff1b4c76da9b97a6a7380024b740a]: Textual amendment: S. 54(3)(4) inserted (E.W.) (12.11.2009 for specified purposes, 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)[(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d), [Sch. 21 para. 3(2)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/3/2); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)
 
-[^key-c16c6c165c920cf95a706be33d179927]: Textual amendment: S. 54(5)(6) inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2013/23/section/5/2), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3); [S.I. 2013/2006](https://www.legislation.gov.uk/wsi/2013/2006), [art. 2](https://www.legislation.gov.uk/wsi/2013/2006/article/2)
+[^c-c16c6c165c920cf95a706be33d179927]: Textual amendment: S. 54(5)(6) inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2013/23/section/5/2), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3); [S.I. 2013/2006](https://www.legislation.gov.uk/wsi/2013/2006), [art. 2](https://www.legislation.gov.uk/wsi/2013/2006/article/2)
 
-[^key-ad98f45a10eda8d77f497a149f54d6e5]: Textual amendment: [S. 54(7)](https://www.legislation.gov.uk/ukpga/1964/40/section/54/7) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 48(5)](https://www.legislation.gov.uk/ukpga/2025/34/section/48/5), [118(1)(z3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z3) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-ad98f45a10eda8d77f497a149f54d6e5]: Textual amendment: [S. 54(7)](https://www.legislation.gov.uk/ukpga/1964/40/section/54/7) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 48(5)](https://www.legislation.gov.uk/ukpga/2025/34/section/48/5), [118(1)(z3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z3) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

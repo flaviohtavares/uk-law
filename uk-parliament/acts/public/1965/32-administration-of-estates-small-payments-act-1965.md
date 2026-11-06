@@ -141,7 +141,7 @@ Section 1.
 | The Superannuation (Various Services) Act 1938 (1 & 2 Geo. 6. c. 13). | Section 2. |
 | The Greenwich Hospital Act 1942 (5 & 6 Geo. 6. c. 35). | Section 2. |
 | The London and North Eastern Railway Act 1944 (7 & 8 Geo. 6. c. x). | Section 3(12)(b). |
-| [^key-594d0d5c7584e909b35af05b648292f5]... | [^key-594d0d5c7584e909b35af05b648292f5]... |
+| [^c-594d0d5c7584e909b35af05b648292f5]... | [^c-594d0d5c7584e909b35af05b648292f5]... |
 | The Local Government Superannuation Act 1953 (1 & 2 Eliz. 2. c. 25). | Section 25(1). |
 | [^c946061]... | [^c946061]... |
 | The Industrial and Provident Societies Act 1965 (1965 c. 12). | Section 25. |
@@ -235,9 +235,9 @@ In section 99(12) [^c946109]... after the words “without letters of administra
 
 [^c946110]...
 
-### ...[^key-e46fbab7fd53a2b5bb0ae1288c539cb3]
+### ...[^c-e46fbab7fd53a2b5bb0ae1288c539cb3]
 
-[^key-e46fbab7fd53a2b5bb0ae1288c539cb3]...
+[^c-e46fbab7fd53a2b5bb0ae1288c539cb3]...
 
 ## SCHEDULE 4[^c946112][^c946112]
 
@@ -321,7 +321,7 @@ In section 99(12) [^c946109]... after the words “without letters of administra
 
 [^c946057]: Textual amendment: Entry repealed by [Teachers' Superannuation Act 1965 (c. 83)](https://www.legislation.gov.uk/ukpga/1965/83), [Sch. 3 Pt. II](https://www.legislation.gov.uk/ukpga/1965/83/schedule/3/part/II)
 
-[^key-594d0d5c7584e909b35af05b648292f5]: Textual amendment: Entry in Sch. 1 Pt. I repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/11)
+[^c-594d0d5c7584e909b35af05b648292f5]: Textual amendment: Entry in Sch. 1 Pt. I repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/11)
 
 [^c946061]: Textual amendment: Entry repealed by [Building Societies Act 1986 (c. 53, SIF 16)](https://www.legislation.gov.uk/ukpga/1986/53), [s. 120](https://www.legislation.gov.uk/ukpga/1986/53/section/120), [Sch. 19 Pt. I](https://www.legislation.gov.uk/ukpga/1986/53/schedule/19/part/I)
 
@@ -353,6 +353,6 @@ In section 99(12) [^c946109]... after the words “without letters of administra
 
 [^c946110]: Textual amendment: Entry repealed by [Building Societies Act 1986 (c. 53, SIF 16)](https://www.legislation.gov.uk/ukpga/1986/53), [s. 120](https://www.legislation.gov.uk/ukpga/1986/53/section/120), [Sch. 19 Pt. I](https://www.legislation.gov.uk/ukpga/1986/53/schedule/19/part/I)
 
-[^key-e46fbab7fd53a2b5bb0ae1288c539cb3]: Textual amendment: Entry in Sch. 3 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-e46fbab7fd53a2b5bb0ae1288c539cb3]: Textual amendment: Entry in Sch. 3 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c946112]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/1965/32/schedule/4) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)

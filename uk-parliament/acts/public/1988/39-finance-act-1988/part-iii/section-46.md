@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Car parking facilities.[^key-a2ef3f48ba7a29205a161849d0f29be7]
+## 46. Car parking facilities.[^c-a2ef3f48ba7a29205a161849d0f29be7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2ef3f48ba7a29205a161849d0f29be7]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/1988/39/section/46) repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-a2ef3f48ba7a29205a161849d0f29be7]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/1988/39/section/46) repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))

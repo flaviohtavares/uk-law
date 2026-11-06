@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Exemption from the Order[^key-224b8a016a0ae0d9ce4908687ee05b4b]
+## 10. Exemption from the Order[^c-224b8a016a0ae0d9ce4908687ee05b4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Governor (including any person designated by the Governor under article 6) m
 
 ## Annotations
 
-[^key-224b8a016a0ae0d9ce4908687ee05b4b]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2013/2870/article/10) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-224b8a016a0ae0d9ce4908687ee05b4b]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2013/2870/article/10) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Approval of public bodies[^key-4c589ddec58b24f5884c520a21911d10]
+## 24. Approval of public bodies[^c-4c589ddec58b24f5884c520a21911d10]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ the Welsh Ministers may approve that description of body or, as the case may be,
 
 ## Annotations
 
-[^key-4c589ddec58b24f5884c520a21911d10]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2024/1268/regulation/24) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-4c589ddec58b24f5884c520a21911d10]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2024/1268/regulation/24) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

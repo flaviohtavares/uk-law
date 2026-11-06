@@ -48,11 +48,11 @@ The Scottish Ministers, in exercise of the powers conferred by sections 42, 44 a
 
 ## PART 1 — INTRODUCTORY
 
-### 1. Citation and Commencement[^key-814746d27286b1871f872a4c548c82a8]
+### 1. Citation and Commencement[^c-814746d27286b1871f872a4c548c82a8]
 
 (1) These Regulations may be cited as the Croft House Grant (Scotland) Regulations 2006 and shall come into force on 15th May 2006.
 
-### 2. Interpretation[^key-a02b8589090f4c2a485f70e8d99c18da]
+### 2. Interpretation[^c-a02b8589090f4c2a485f70e8d99c18da]
 
 In these Regulations–
 
@@ -70,13 +70,13 @@ In these Regulations–
 
 ## PART 2 — GRANTS IN RESPECT OF OPERATIONS
 
-### 3. Payment of grant[^key-370856c3334ca69eb1423fc145aba511]
+### 3. Payment of grant[^c-370856c3334ca69eb1423fc145aba511]
 
 (1) The Scottish Ministers may make a grant of such amount as they may determine, but subject to the relevant limit specified in regulations 4 and 5, of these Regulations to an applicant for an operation.
 
 (2) The operation must be carried out, in the case of a crofter, on the croft, in the case of a cottar, on the holding occupied by the cottar, and, in the case of an eligible occupier, on the croft or holding or part of a croft, as the case may be, occupied by that eligible occupier.
 
-### 4. Amount of grant[^key-ba414c5f3fceb3b117661f637120210b]
+### 4. Amount of grant[^c-ba414c5f3fceb3b117661f637120210b]
 
 (1) The amount of grant, payable by the Scottish Ministers under regulation 3 for the erection of a dwellinghouse–
 
@@ -84,13 +84,13 @@ In these Regulations–
 - (b) in a standard level priority area shall not exceed £17,000;
 - (c) in a high level priority area shall not exceed £22,000.
 
-**5.**[^key-46410ea575bd1946c0f9ef2fed90a495] The amount of grant payable at the discretion of and by the Scottish Ministers under regulation 3 towards the approved cost of an operation, other than the erection of a dwellinghouse–
+**5.**[^c-46410ea575bd1946c0f9ef2fed90a495] The amount of grant payable at the discretion of and by the Scottish Ministers under regulation 3 towards the approved cost of an operation, other than the erection of a dwellinghouse–
 
 - (a) in a low level priority area, shall not exceed the lesser of 20% of the cost of the operation and £11,500;
 - (b) in a standard level priority area, shall not exceed the lesser of 30% of the cost of the operation and £17,000;
 - (c) in a high level priority area, shall not exceed the lesser of 40% of the cost of the operation and £22,000.
 
-### 6. Application for grant[^key-36480202ea46367f6b3a311948753bcb]
+### 6. Application for grant[^c-36480202ea46367f6b3a311948753bcb]
 
 (1) Any application for grant under these Regulations shall be in such form and shall provide such information as the Scottish Ministers specify, and shall be approved by the Scottish Ministers prior to the commencement of any work on the operation.
 
@@ -106,11 +106,11 @@ In these Regulations–
 
 (7) Where the Scottish Ministers approve the application they shall, at the same time as they give to the applicant notice of their approval, inform the applicant that the proposed work may be carried out subject to such modifications or conditions as the Scottish Ministers may specify.
 
-### 7. Claims for payment of grant[^key-7448913e83f60d161d1c8049d4cb2b52]
+### 7. Claims for payment of grant[^c-7448913e83f60d161d1c8049d4cb2b52]
 
 The applicant shall make a claim for payment of the grant in such form as the Scottish Ministers may specify and shall afford to the Scottish Ministers or their duly authorised officers such facilities as are reasonably required to enable the Scottish Ministers to satisfy themselves that any conditions subject to which approval was given have been complied with.
 
-### 8. Conditions of grant[^key-961fd4349a3de817d69700a2d7c1dccf]
+### 8. Conditions of grant[^c-961fd4349a3de817d69700a2d7c1dccf]
 
 (1) Upon the payment of a grant the Scottish Ministers shall forthwith cause to be recorded in the Register of Sasines or registered in the Land Register of Scotland a notice in the form set out in Schedule 2, or a form to the like effect, specifying the conditions which, by virtue of regulation 9, apply.
 
@@ -122,7 +122,7 @@ The applicant shall make a claim for payment of the grant in such form as the Sc
 
 (5) Where the grant is for part of an operation and the maximum amount of grant has been paid, no further grant will be payable for the same operation.
 
-**9.**[^key-f2215d801e48d8f688ddbc1679b130b8] (1) Where a grant is paid under these Regulations in respect of any operation on a dwellinghouse, that dwellinghouse shall, unless the Scottish Ministers otherwise agree, be–
+**9.**[^c-f2215d801e48d8f688ddbc1679b130b8] (1) Where a grant is paid under these Regulations in respect of any operation on a dwellinghouse, that dwellinghouse shall, unless the Scottish Ministers otherwise agree, be–
 
 - (a) occupied by the applicant or his family;
 - (b) maintained by the applicant, his family or his successors to the satisfaction of the Scottish Ministers; and
@@ -143,7 +143,7 @@ The applicant shall make a claim for payment of the grant in such form as the Sc
 
 ## PART 3 — GENERAL
 
-### 10. Recovery and repayment of grant[^key-0a5d861f66d7e7160bb89ff85c951390]
+### 10. Recovery and repayment of grant[^c-0a5d861f66d7e7160bb89ff85c951390]
 
 (1) Where, after the date upon which any grant, or instalment of grant, has been paid under these Regulations, the Scottish Ministers are satisfied that the applicant has not complied, or is not complying, with a condition attached to the payment of the grant, the Scottish Ministers may give to the applicant notice in writing requiring him or her to make payment of a sum calculated in accordance with the provisions of paragraph (4) and the applicant shall make payment of that sum to the Scottish Ministers within 28 days of receipt of the notice.
 
@@ -164,21 +164,21 @@ The applicant shall make a claim for payment of the grant in such form as the Sc
 
 (7) There shall be deemed to have been a failure to comply with the conditions specified in these Regulations if the applicant is an owner occupier who, without the prior consent of the Scottish Ministers, assigns or disposes of the croft land on which that dwellinghouse is built to a person who is not a member of his family.
 
-### 11. Termination of Conditions[^key-0d30fe9d519a6c26dd525fe683949679]
+### 11. Termination of Conditions[^c-0d30fe9d519a6c26dd525fe683949679]
 
 Where the applicant repays the grant in accordance with regulation 10 these Regulations and the conditions imposed on the applicant shall cease to have effect, Scottish Ministers shall cause to be recorded in the Register of Sasines or registered in the Land Register of Scotland a notice in the form set out in Schedule 3 to these Regulations, or a form to like effect.
 
-### 12. Crofters Commission to be agents[^key-7c1545c5146115cc2c6386baafa1a4e6]
+### 12. Crofters Commission to be agents[^c-7c1545c5146115cc2c6386baafa1a4e6]
 
 (1) The Crofters Commission may act as agents of the Scottish Ministers for the purpose of the administration of any grant made under these Regulations.
 
 (2) In carrying out its function as agent of the Scottish Ministers under these Regulations, the Crofters Commission shall have the powers, rights and duties as are conferred upon it by the Scottish Ministers.
 
-### 13. Revocation[^key-80b0de788f1b559a784394b1427313f2]
+### 13. Revocation[^c-80b0de788f1b559a784394b1427313f2]
 
 The Crofters etc. Building Grants (Scotland) Regulations 1990[^f00002] are hereby revoked, but without prejudice to anything duly done or any right, obligation or liability acquired, accrued or incurred thereunder.
 
-### 14. Transitional Provisions[^key-b1c8759081f00ef693d9a1ecc654003a]
+### 14. Transitional Provisions[^c-b1c8759081f00ef693d9a1ecc654003a]
 
 (1) Notwithstanding the revocation of the Crofters etc. Building Grants (Scotland) Regulations 1990 any application for improvement operations received before 31st December 2004 for payment of grant shall be administered and paid under those Regulations.
 
@@ -200,73 +200,73 @@ Regulation 2
 
 The approved cost of any operation specified in the following list, subject to the discretion of the Scottish Ministers, may be included as eligible expenditure under these Regulations.
 
-**1.**[^key-4ff74297e3966255af5e07b1a2c59b80] Full or partial rebuilding of the existing croft house.
+**1.**[^c-4ff74297e3966255af5e07b1a2c59b80] Full or partial rebuilding of the existing croft house.
 
-**2.**[^key-3e810db1277c4c093a580d17b6f73e86] Provision of kitchen storage.
+**2.**[^c-3e810db1277c4c093a580d17b6f73e86] Provision of kitchen storage.
 
-**3.**[^key-ad5ff3aa2b25bdc5c28730229bb7c3ff] Provision of sink with hot and cold water supplies and drainage.
+**3.**[^c-ad5ff3aa2b25bdc5c28730229bb7c3ff] Provision of sink with hot and cold water supplies and drainage.
 
-**4.**[^key-d71f087e71b26fdafd4ca7c1933f9ae9] Provision of solid, oil or gas fired cooker.
+**4.**[^c-d71f087e71b26fdafd4ca7c1933f9ae9] Provision of solid, oil or gas fired cooker.
 
-**5.**[^key-7bebdf105f1e474deff2519a2f6f8758] Provision of fixed bath or shower, wash hand basin and water closet and drainage.
+**5.**[^c-7bebdf105f1e474deff2519a2f6f8758] Provision of fixed bath or shower, wash hand basin and water closet and drainage.
 
-**6.**[^key-4173972fd339a979daad9cfbdf4cfefd] Renewing of defective floors.
+**6.**[^c-4173972fd339a979daad9cfbdf4cfefd] Renewing of defective floors.
 
-**7.**[^key-8375edd5a2c669926a13be73e44824ee] Provision of electrical wiring or rewiring to lights and socket outlets.
+**7.**[^c-8375edd5a2c669926a13be73e44824ee] Provision of electrical wiring or rewiring to lights and socket outlets.
 
-**8.**[^key-a454ce79615668a43e73ed94be5d30b2] Provision of central heating, including the provision of heating from renewable sources.
+**8.**[^c-a454ce79615668a43e73ed94be5d30b2] Provision of central heating, including the provision of heating from renewable sources.
 
-**9.**[^key-475b3f3ba8db6d5f6ba2cb797d5c0d41] Additional bedrooms where necessary.
+**9.**[^c-475b3f3ba8db6d5f6ba2cb797d5c0d41] Additional bedrooms where necessary.
 
-**10.**[^key-4ea160c13a359a650fcb208e5f46d7d6] Extensions and alterations to provide satisfactory kitchen and living area.
+**10.**[^c-4ea160c13a359a650fcb208e5f46d7d6] Extensions and alterations to provide satisfactory kitchen and living area.
 
-**11.**[^key-ed5c619b999e6c06799fc1c6e8a5ec8d] Extensions and alterations to provide bath/shower rooms.
+**11.**[^c-ed5c619b999e6c06799fc1c6e8a5ec8d] Extensions and alterations to provide bath/shower rooms.
 
-**12.**[^key-9d35ab0b56208842eb03249619e6d325] Construction of a storm porch of up to four square metres.
+**12.**[^c-9d35ab0b56208842eb03249619e6d325] Construction of a storm porch of up to four square metres.
 
-**13.**[^key-a0d09516b06a486f1142ce4b8581a24f] Provision of a fuel store of appropriate size.
+**13.**[^c-a0d09516b06a486f1142ce4b8581a24f] Provision of a fuel store of appropriate size.
 
-**14.**[^key-e89a82ecd87f3d30d3a7bb1aecef4f04] Re roofing which may include a new roof structure.
+**14.**[^c-e89a82ecd87f3d30d3a7bb1aecef4f04] Re roofing which may include a new roof structure.
 
-**15.**[^key-e63d80bc46cd7e04280842579f1fdc50] Renewing rhones and downpipes.
+**15.**[^c-e63d80bc46cd7e04280842579f1fdc50] Renewing rhones and downpipes.
 
-**16.**[^key-b971c07d923f76d06186bb7e20b56d4f] Replacing doors and windows.
+**16.**[^c-b971c07d923f76d06186bb7e20b56d4f] Replacing doors and windows.
 
-**17.**[^key-dec7e203facb00bebdfcf3b9d8867b14] Re pointing or renewing the roughcast to the walls.
+**17.**[^c-dec7e203facb00bebdfcf3b9d8867b14] Re pointing or renewing the roughcast to the walls.
 
-**18.**[^key-2c80c1787455492db2e1a60115781a9f] Roughcasting the walls for the first time.
+**18.**[^c-2c80c1787455492db2e1a60115781a9f] Roughcasting the walls for the first time.
 
-**19.**[^key-efe911cdabdf8829b4bb7c97bfd360bf] Providing a damp-proof course to the walls.
+**19.**[^c-efe911cdabdf8829b4bb7c97bfd360bf] Providing a damp-proof course to the walls.
 
-**20.**[^key-204b631db9e7546c4f7c07269c877039] Providing wall insulation.
+**20.**[^c-204b631db9e7546c4f7c07269c877039] Providing wall insulation.
 
-**21.**[^key-d64083dfc7e4c7cf087992663b393783] Providing roof insulation.
+**21.**[^c-d64083dfc7e4c7cf087992663b393783] Providing roof insulation.
 
-**22.**[^key-37d4be61e410f17bf54aeb5cc9278b3f] Treating woodworm, dry rot or wet rot.
+**22.**[^c-37d4be61e410f17bf54aeb5cc9278b3f] Treating woodworm, dry rot or wet rot.
 
-**23.**[^key-4386171e7ee06f05f87c1fc879ab4afa] Re pointing, roughcasting or rebuilding chimney heads, including lead flashings.
+**23.**[^c-4386171e7ee06f05f87c1fc879ab4afa] Re pointing, roughcasting or rebuilding chimney heads, including lead flashings.
 
-**24.**[^key-be74ffcc15a1c777d86feece65bceacf] Providing foul and rainwater drainage systems.
+**24.**[^c-be74ffcc15a1c777d86feece65bceacf] Providing foul and rainwater drainage systems.
 
-**25.**[^key-5a9bfbc86c8c29670d5190cf08b3cade] Lowering surrounding grounds levels, treating the solum, rising damp and providing under floor ventilation.
+**25.**[^c-5a9bfbc86c8c29670d5190cf08b3cade] Lowering surrounding grounds levels, treating the solum, rising damp and providing under floor ventilation.
 
-**26.**[^key-e8de0a5e9c72a7bdd0f6c010c2fdb65b] Connection to the mains electricity supply.
+**26.**[^c-e8de0a5e9c72a7bdd0f6c010c2fdb65b] Connection to the mains electricity supply.
 
-**27.**[^key-ac03a5a5986789ba5a83ef12656a829c] Wiring for the first time to lights and power points in the dwellinghouse.
+**27.**[^c-ac03a5a5986789ba5a83ef12656a829c] Wiring for the first time to lights and power points in the dwellinghouse.
 
-**28.**[^key-bd746a2241cafd0a985b17e9aea19844] The supply and installation of a new private generator, including energy generated from renewable sources.
+**28.**[^c-bd746a2241cafd0a985b17e9aea19844] The supply and installation of a new private generator, including energy generated from renewable sources.
 
-**29.**[^key-a418ee8ce95859789dc41e18d56d4799] Connection to the mains gas supply.
+**29.**[^c-a418ee8ce95859789dc41e18d56d4799] Connection to the mains gas supply.
 
-**30.**[^key-79fb096afe7dbcaa86260602de8b68c8] Installation of bulk liquefied petroleum gas tanks (sited above ground only) and associated pipe work and fittings.
+**30.**[^c-79fb096afe7dbcaa86260602de8b68c8] Installation of bulk liquefied petroleum gas tanks (sited above ground only) and associated pipe work and fittings.
 
-**31.**[^key-9dd42371f5e046ca6a3636d033038354] All necessary builder, joiner, plaster and other works in connection with the above items.
+**31.**[^c-9dd42371f5e046ca6a3636d033038354] All necessary builder, joiner, plaster and other works in connection with the above items.
 
-**32.**[^key-8331d6a5ccd192533017841f7ca30ad6] Improvement of provision of roads, hard standing, bridges and boat slips.
+**32.**[^c-8331d6a5ccd192533017841f7ca30ad6] Improvement of provision of roads, hard standing, bridges and boat slips.
 
-**33.**[^key-8c224d7faa3ce1a7178bfee4c5fba20a] Improvement of provision of water supplies.
+**33.**[^c-8c224d7faa3ce1a7178bfee4c5fba20a] Improvement of provision of water supplies.
 
-## SCHEDULE 2 — CROFTERS (SCOTLAND) ACT 1993[^key-f133c0ebf96f2faaf5c7fe1828eddf2d]
+## SCHEDULE 2 — CROFTERS (SCOTLAND) ACT 1993[^c-f133c0ebf96f2faaf5c7fe1828eddf2d]
 
 Regulation 8
 
@@ -274,7 +274,7 @@ Notice of Payment of Grant
 
 [image: see source](https://www.legislation.gov.uk/ssi/2006/214/images/ssi_20060214_en_001)
 
-## SCHEDULE 3[^key-2576e7501b38a1d6d21366ac48c8180a]
+## SCHEDULE 3[^c-2576e7501b38a1d6d21366ac48c8180a]
 
 Regulation 11
 
@@ -298,102 +298,102 @@ The Regulations prescribe the conditions to be observed with respect to dwelling
 
 [^f00001]: Footnote: [1993 c. 44](https://www.legislation.gov.uk/ukpga/1993/44). The functions of the Secretary of State transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). The requirement to obtain Treasury consent was removed by section 55 of that Act.
 
-[^key-814746d27286b1871f872a4c548c82a8]: Commencement: Reg. 1 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-814746d27286b1871f872a4c548c82a8]: Commencement: Reg. 1 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-a02b8589090f4c2a485f70e8d99c18da]: Commencement: Reg. 2 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-a02b8589090f4c2a485f70e8d99c18da]: Commencement: Reg. 2 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-370856c3334ca69eb1423fc145aba511]: Commencement: Reg. 3 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-370856c3334ca69eb1423fc145aba511]: Commencement: Reg. 3 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-ba414c5f3fceb3b117661f637120210b]: Commencement: Reg. 4 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-ba414c5f3fceb3b117661f637120210b]: Commencement: Reg. 4 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-46410ea575bd1946c0f9ef2fed90a495]: Commencement: Reg. 5 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-46410ea575bd1946c0f9ef2fed90a495]: Commencement: Reg. 5 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-36480202ea46367f6b3a311948753bcb]: Commencement: Reg. 6 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-36480202ea46367f6b3a311948753bcb]: Commencement: Reg. 6 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-7448913e83f60d161d1c8049d4cb2b52]: Commencement: Reg. 7 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-7448913e83f60d161d1c8049d4cb2b52]: Commencement: Reg. 7 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-961fd4349a3de817d69700a2d7c1dccf]: Commencement: Reg. 8 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-961fd4349a3de817d69700a2d7c1dccf]: Commencement: Reg. 8 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-f2215d801e48d8f688ddbc1679b130b8]: Commencement: Reg. 9 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-f2215d801e48d8f688ddbc1679b130b8]: Commencement: Reg. 9 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-0a5d861f66d7e7160bb89ff85c951390]: Commencement: Reg. 10 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-0a5d861f66d7e7160bb89ff85c951390]: Commencement: Reg. 10 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-0d30fe9d519a6c26dd525fe683949679]: Commencement: Reg. 11 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-0d30fe9d519a6c26dd525fe683949679]: Commencement: Reg. 11 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-7c1545c5146115cc2c6386baafa1a4e6]: Commencement: Reg. 12 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-7c1545c5146115cc2c6386baafa1a4e6]: Commencement: Reg. 12 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-80b0de788f1b559a784394b1427313f2]: Commencement: Reg. 13 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-80b0de788f1b559a784394b1427313f2]: Commencement: Reg. 13 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [1990/944](https://www.legislation.gov.uk/uksi/1990/944).
 
-[^key-b1c8759081f00ef693d9a1ecc654003a]: Commencement: Reg. 14 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-b1c8759081f00ef693d9a1ecc654003a]: Commencement: Reg. 14 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-4ff74297e3966255af5e07b1a2c59b80]: Commencement: Sch. 1 para. 1 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-4ff74297e3966255af5e07b1a2c59b80]: Commencement: Sch. 1 para. 1 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-3e810db1277c4c093a580d17b6f73e86]: Commencement: Sch. 1 para. 2 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-3e810db1277c4c093a580d17b6f73e86]: Commencement: Sch. 1 para. 2 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-ad5ff3aa2b25bdc5c28730229bb7c3ff]: Commencement: Sch. 1 para. 3 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-ad5ff3aa2b25bdc5c28730229bb7c3ff]: Commencement: Sch. 1 para. 3 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-d71f087e71b26fdafd4ca7c1933f9ae9]: Commencement: Sch. 1 para. 4 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-d71f087e71b26fdafd4ca7c1933f9ae9]: Commencement: Sch. 1 para. 4 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-7bebdf105f1e474deff2519a2f6f8758]: Commencement: Sch. 1 para. 5 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-7bebdf105f1e474deff2519a2f6f8758]: Commencement: Sch. 1 para. 5 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-4173972fd339a979daad9cfbdf4cfefd]: Commencement: Sch. 1 para. 6 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-4173972fd339a979daad9cfbdf4cfefd]: Commencement: Sch. 1 para. 6 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-8375edd5a2c669926a13be73e44824ee]: Commencement: Sch. 1 para. 7 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-8375edd5a2c669926a13be73e44824ee]: Commencement: Sch. 1 para. 7 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-a454ce79615668a43e73ed94be5d30b2]: Commencement: Sch. 1 para. 8 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-a454ce79615668a43e73ed94be5d30b2]: Commencement: Sch. 1 para. 8 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-475b3f3ba8db6d5f6ba2cb797d5c0d41]: Commencement: Sch. 1 para. 9 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-475b3f3ba8db6d5f6ba2cb797d5c0d41]: Commencement: Sch. 1 para. 9 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-4ea160c13a359a650fcb208e5f46d7d6]: Commencement: Sch. 1 para. 10 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-4ea160c13a359a650fcb208e5f46d7d6]: Commencement: Sch. 1 para. 10 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-ed5c619b999e6c06799fc1c6e8a5ec8d]: Commencement: Sch. 1 para. 11 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-ed5c619b999e6c06799fc1c6e8a5ec8d]: Commencement: Sch. 1 para. 11 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-9d35ab0b56208842eb03249619e6d325]: Commencement: Sch. 1 para. 12 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-9d35ab0b56208842eb03249619e6d325]: Commencement: Sch. 1 para. 12 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-a0d09516b06a486f1142ce4b8581a24f]: Commencement: Sch. 1 para. 13 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-a0d09516b06a486f1142ce4b8581a24f]: Commencement: Sch. 1 para. 13 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-e89a82ecd87f3d30d3a7bb1aecef4f04]: Commencement: Sch. 1 para. 14 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-e89a82ecd87f3d30d3a7bb1aecef4f04]: Commencement: Sch. 1 para. 14 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-e63d80bc46cd7e04280842579f1fdc50]: Commencement: Sch. 1 para. 15 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-e63d80bc46cd7e04280842579f1fdc50]: Commencement: Sch. 1 para. 15 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-b971c07d923f76d06186bb7e20b56d4f]: Commencement: Sch. 1 para. 16 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-b971c07d923f76d06186bb7e20b56d4f]: Commencement: Sch. 1 para. 16 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-dec7e203facb00bebdfcf3b9d8867b14]: Commencement: Sch. 1 para. 17 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-dec7e203facb00bebdfcf3b9d8867b14]: Commencement: Sch. 1 para. 17 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-2c80c1787455492db2e1a60115781a9f]: Commencement: Sch. 1 para. 18 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-2c80c1787455492db2e1a60115781a9f]: Commencement: Sch. 1 para. 18 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-efe911cdabdf8829b4bb7c97bfd360bf]: Commencement: Sch. 1 para. 19 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-efe911cdabdf8829b4bb7c97bfd360bf]: Commencement: Sch. 1 para. 19 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-204b631db9e7546c4f7c07269c877039]: Commencement: Sch. 1 para. 20 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-204b631db9e7546c4f7c07269c877039]: Commencement: Sch. 1 para. 20 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-d64083dfc7e4c7cf087992663b393783]: Commencement: Sch. 1 para. 21 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-d64083dfc7e4c7cf087992663b393783]: Commencement: Sch. 1 para. 21 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-37d4be61e410f17bf54aeb5cc9278b3f]: Commencement: Sch. 1 para. 22 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-37d4be61e410f17bf54aeb5cc9278b3f]: Commencement: Sch. 1 para. 22 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-4386171e7ee06f05f87c1fc879ab4afa]: Commencement: Sch. 1 para. 23 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-4386171e7ee06f05f87c1fc879ab4afa]: Commencement: Sch. 1 para. 23 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-be74ffcc15a1c777d86feece65bceacf]: Commencement: Sch. 1 para. 24 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-be74ffcc15a1c777d86feece65bceacf]: Commencement: Sch. 1 para. 24 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-5a9bfbc86c8c29670d5190cf08b3cade]: Commencement: Sch. 1 para. 25 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-5a9bfbc86c8c29670d5190cf08b3cade]: Commencement: Sch. 1 para. 25 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-e8de0a5e9c72a7bdd0f6c010c2fdb65b]: Commencement: Sch. 1 para. 26 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-e8de0a5e9c72a7bdd0f6c010c2fdb65b]: Commencement: Sch. 1 para. 26 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-ac03a5a5986789ba5a83ef12656a829c]: Commencement: Sch. 1 para. 27 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-ac03a5a5986789ba5a83ef12656a829c]: Commencement: Sch. 1 para. 27 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-bd746a2241cafd0a985b17e9aea19844]: Commencement: Sch. 1 para. 28 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-bd746a2241cafd0a985b17e9aea19844]: Commencement: Sch. 1 para. 28 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-a418ee8ce95859789dc41e18d56d4799]: Commencement: Sch. 1 para. 29 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-a418ee8ce95859789dc41e18d56d4799]: Commencement: Sch. 1 para. 29 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-79fb096afe7dbcaa86260602de8b68c8]: Commencement: Sch. 1 para. 30 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-79fb096afe7dbcaa86260602de8b68c8]: Commencement: Sch. 1 para. 30 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-9dd42371f5e046ca6a3636d033038354]: Commencement: Sch. 1 para. 31 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-9dd42371f5e046ca6a3636d033038354]: Commencement: Sch. 1 para. 31 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-8331d6a5ccd192533017841f7ca30ad6]: Commencement: Sch. 1 para. 32 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-8331d6a5ccd192533017841f7ca30ad6]: Commencement: Sch. 1 para. 32 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-8c224d7faa3ce1a7178bfee4c5fba20a]: Commencement: Sch. 1 para. 33 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-8c224d7faa3ce1a7178bfee4c5fba20a]: Commencement: Sch. 1 para. 33 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-f133c0ebf96f2faaf5c7fe1828eddf2d]: Commencement: Sch. 2 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-f133c0ebf96f2faaf5c7fe1828eddf2d]: Commencement: Sch. 2 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
 
-[^key-2576e7501b38a1d6d21366ac48c8180a]: Commencement: Sch. 3 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)
+[^c-2576e7501b38a1d6d21366ac48c8180a]: Commencement: Sch. 3 in force at 15.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/214/regulation/1/1)

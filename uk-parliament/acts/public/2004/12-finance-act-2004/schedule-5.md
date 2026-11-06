@@ -41,7 +41,7 @@ Section 30
 
 ### Income and Corporation Taxes Act 1988
 
-**2.**[^key-fd0064afb6e5087179f746045fa70188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fd0064afb6e5087179f746045fa70188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Petroleum extraction activities: ring fence trade: charges on income
 
@@ -49,7 +49,7 @@ Section 30
 
 (2) In subsection (2) (which restricts the loan relationship debits that may be brought into account in a manner resulting in reduction of ring fence profits)—
 
-- (a)[^key-9b6178f349800b8a0a30a970a09a4069] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9b6178f349800b8a0a30a970a09a4069] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) omit paragraph (d) (which imposes a restriction by reference to a reasonable commercial rate of return and is superseded by the application of paragraphs 1A and 1B of Schedule 28AA to the Taxes Act 1988 by virtue of paragraph 11 of that Schedule);
 - (c) omit the third sentence (which defines “**net debit**” for the purposes of paragraph (d)).
 
@@ -63,19 +63,19 @@ Section 30
 
 #### Loan relationships: introductory
 
-**5.**[^key-2a3e8001ed036294ac438608853c3f4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2a3e8001ed036294ac438608853c3f4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Transactions not at arm’s length
 
-**6.**[^key-2a3e8001ed036294ac438608853c3f4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-2a3e8001ed036294ac438608853c3f4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Continuity of treatment: groups etc.
 
-**7.**[^key-2a3e8001ed036294ac438608853c3f4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-2a3e8001ed036294ac438608853c3f4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Amounts imputed under Schedule 28AA to the Taxes Act 1988
 
-**8.**[^key-2a3e8001ed036294ac438608853c3f4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-2a3e8001ed036294ac438608853c3f4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Finance Act 1998
 
@@ -93,32 +93,32 @@ Section 30
 
 #### Introductory: tonnage tax: transactions not at arm’s length
 
-**11.**[^key-27c3cab03f7b575167e8fb0f79b13275] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-27c3cab03f7b575167e8fb0f79b13275] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Transactions between tonnage tax company and another person
 
-**12.**[^key-27c3cab03f7b575167e8fb0f79b13275] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-27c3cab03f7b575167e8fb0f79b13275] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Transactions between tonnage tax trade and other activities of same company
 
-**13.**[^key-27c3cab03f7b575167e8fb0f79b13275] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-27c3cab03f7b575167e8fb0f79b13275] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Finance Act 2002
 
-**14.**[^key-71aacbbc92dc81b4c20a2cdd84b3eb8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-71aacbbc92dc81b4c20a2cdd84b3eb8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-71aacbbc92dc81b4c20a2cdd84b3eb8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-71aacbbc92dc81b4c20a2cdd84b3eb8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-71aacbbc92dc81b4c20a2cdd84b3eb8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-71aacbbc92dc81b4c20a2cdd84b3eb8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fd0064afb6e5087179f746045fa70188]: Textual amendment: Sch. 5 para. 2 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-fd0064afb6e5087179f746045fa70188]: Textual amendment: Sch. 5 para. 2 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-9b6178f349800b8a0a30a970a09a4069]: Textual amendment: [Sch. 5 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/5/paragraph/3/2/a) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-9b6178f349800b8a0a30a970a09a4069]: Textual amendment: [Sch. 5 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/5/paragraph/3/2/a) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-2a3e8001ed036294ac438608853c3f4f]: Textual amendment: Sch. 5 paras. 5-8 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-2a3e8001ed036294ac438608853c3f4f]: Textual amendment: Sch. 5 paras. 5-8 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-27c3cab03f7b575167e8fb0f79b13275]: Textual amendment: [Sch. 5 paras. 11-13](https://www.legislation.gov.uk/ukpga/2004/12/schedule/5/paragraph/11) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-27c3cab03f7b575167e8fb0f79b13275]: Textual amendment: [Sch. 5 paras. 11-13](https://www.legislation.gov.uk/ukpga/2004/12/schedule/5/paragraph/11) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-71aacbbc92dc81b4c20a2cdd84b3eb8d]: Textual amendment: Sch. 5 paras. 14-16 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-71aacbbc92dc81b4c20a2cdd84b3eb8d]: Textual amendment: Sch. 5 paras. 14-16 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

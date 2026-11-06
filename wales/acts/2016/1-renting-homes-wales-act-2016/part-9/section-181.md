@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 181. Serious rent arrears[^key-eb92dda905a95c3b1b8aa4afceda4917][^key-b6d383a30ce08064689ce895046fd098][^key-b6d383a30ce08064689ce895046fd098]
+## 181. Serious rent arrears[^c-eb92dda905a95c3b1b8aa4afceda4917][^c-b6d383a30ce08064689ce895046fd098][^c-b6d383a30ce08064689ce895046fd098]
 
 *Extent: E+W*
 
-(1) If the contract-holder under a periodic standard contract is seriously in arrears with his or her rent[^key-1d79d0b1783da8893965bdf1c1208ef2], the landlord may on that ground make a possession claim.
+(1) If the contract-holder under a periodic standard contract is seriously in arrears with his or her rent[^c-1d79d0b1783da8893965bdf1c1208ef2], the landlord may on that ground make a possession claim.
 
 (2) The contract-holder is seriously in arrears with his or her rent—
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-eb92dda905a95c3b1b8aa4afceda4917]: Commencement: [S. 181](https://www.legislation.gov.uk/anaw/2016/1/section/181) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-eb92dda905a95c3b1b8aa4afceda4917]: Commencement: [S. 181](https://www.legislation.gov.uk/anaw/2016/1/section/181) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-b6d383a30ce08064689ce895046fd098]: Modification: [Pt. 9](https://www.legislation.gov.uk/anaw/2016/1/part/9) excluded (1.12.2022) by 2004 c. 34, s. 33(c) (as inserted by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [28(2)(c)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/28/2/c))
+[^c-b6d383a30ce08064689ce895046fd098]: Modification: [Pt. 9](https://www.legislation.gov.uk/anaw/2016/1/part/9) excluded (1.12.2022) by 2004 c. 34, s. 33(c) (as inserted by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [28(2)(c)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/28/2/c))
 
-[^key-1d79d0b1783da8893965bdf1c1208ef2]: Textual amendment: Words in [s. 181(1)](https://www.legislation.gov.uk/anaw/2016/1/section/181/1) substituted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 6 para. 16](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/16)
+[^c-1d79d0b1783da8893965bdf1c1208ef2]: Textual amendment: Words in [s. 181(1)](https://www.legislation.gov.uk/anaw/2016/1/section/181/1) substituted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 6 para. 16](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/16)

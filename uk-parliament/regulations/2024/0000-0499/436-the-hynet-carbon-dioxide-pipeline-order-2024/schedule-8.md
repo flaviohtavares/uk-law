@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8 — Land in which only new rights etc., may be acquired[^key-b27a78e69abe811414febf01e4b34cfa]
+## SCHEDULE 8 — Land in which only new rights etc., may be acquired[^c-b27a78e69abe811414febf01e4b34cfa]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ Article 26
 
 ## Annotations
 
-[^key-b27a78e69abe811414febf01e4b34cfa]: Commencement: Sch. 8 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-b27a78e69abe811414febf01e4b34cfa]: Commencement: Sch. 8 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)

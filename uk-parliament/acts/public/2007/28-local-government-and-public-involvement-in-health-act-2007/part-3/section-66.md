@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Elected mayors[^key-28d7bd309e22b43ab9ad5313b21d6fd6]
+## 66. Elected mayors[^c-28d7bd309e22b43ab9ad5313b21d6fd6]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28d7bd309e22b43ab9ad5313b21d6fd6]: Commencement: S. 66 in force at 30.12.2007, see s. 245(2)
+[^c-28d7bd309e22b43ab9ad5313b21d6fd6]: Commencement: S. 66 in force at 30.12.2007, see s. 245(2)

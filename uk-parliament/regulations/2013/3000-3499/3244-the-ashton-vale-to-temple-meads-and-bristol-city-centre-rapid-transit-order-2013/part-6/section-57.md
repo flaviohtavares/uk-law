@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Minerals[^key-50823186335144d9a636de4cf060e812]
+## 57. Minerals[^c-50823186335144d9a636de4cf060e812]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Nothing in this Order affects the right of any person entitled to any mine or mi
 
 ## Annotations
 
-[^key-50823186335144d9a636de4cf060e812]: Commencement: Art. 57 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-50823186335144d9a636de4cf060e812]: Commencement: Art. 57 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

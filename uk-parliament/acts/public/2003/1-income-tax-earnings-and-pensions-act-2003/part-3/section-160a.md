@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160A. Benefit of van fuel treated as earnings: optional remuneration arrangements[^key-4c860f273d0505109b24acaa92371c4d]
+## 160A. Benefit of van fuel treated as earnings: optional remuneration arrangements[^c-4c860f273d0505109b24acaa92371c4d]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ In this subsection “earnings” is to be interpreted in accordance with sectio
 
 ## Annotations
 
-[^key-4c860f273d0505109b24acaa92371c4d]: Textual amendment: [S. 160A](https://www.legislation.gov.uk/ukpga/2003/1/section/160A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/40)
+[^c-4c860f273d0505109b24acaa92371c4d]: Textual amendment: [S. 160A](https://www.legislation.gov.uk/ukpga/2003/1/section/160A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/40)

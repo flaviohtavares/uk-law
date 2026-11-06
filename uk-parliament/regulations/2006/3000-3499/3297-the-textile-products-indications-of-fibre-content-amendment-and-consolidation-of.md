@@ -32,7 +32,7 @@ summary: ''
 
 TRADE DESCRIPTIONS
 
-The Textile Products (Indications of Fibre Content) (Amendment and Consolidation of Schedules of Textile Names and Allowances) Regulations 2006 (revoked)[^key-2cc0f4469795463d44133701ee98e46a]
+The Textile Products (Indications of Fibre Content) (Amendment and Consolidation of Schedules of Textile Names and Allowances) Regulations 2006 (revoked)[^c-2cc0f4469795463d44133701ee98e46a]
 
 Made
 
@@ -46,46 +46,46 @@ Coming into force
 
 6th January 2007
 
-[^key-2cc0f4469795463d44133701ee98e46a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2cc0f4469795463d44133701ee98e46a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2cc0f4469795463d44133701ee98e46a]
+## 1. Citation and commencement[^c-2cc0f4469795463d44133701ee98e46a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Textile Products (Indications of Fibre Content) Regulations 1986[^key-2cc0f4469795463d44133701ee98e46a]
+## 2. Amendment of the Textile Products (Indications of Fibre Content) Regulations 1986[^c-2cc0f4469795463d44133701ee98e46a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-2cc0f4469795463d44133701ee98e46a]
+## 3. Revocations[^c-2cc0f4469795463d44133701ee98e46a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2cc0f4469795463d44133701ee98e46a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2cc0f4469795463d44133701ee98e46a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## CHEDULE 1[^key-2cc0f4469795463d44133701ee98e46a]
+## CHEDULE 1[^c-2cc0f4469795463d44133701ee98e46a]
 
 Regulation 2(3)
 
-[^key-2cc0f4469795463d44133701ee98e46a]
+[^c-2cc0f4469795463d44133701ee98e46a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-2cc0f4469795463d44133701ee98e46a]
+## SCHEDULE 2[^c-2cc0f4469795463d44133701ee98e46a]
 
 Regulation 2(4)
 
-[^key-2cc0f4469795463d44133701ee98e46a]
+[^c-2cc0f4469795463d44133701ee98e46a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2cc0f4469795463d44133701ee98e46a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2cc0f4469795463d44133701ee98e46a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2cc0f4469795463d44133701ee98e46a]: Textual amendment: Regulations revoked (2.2.2008) by [The Textile Products (Indications of Fibre Content) (Amendment) Regulations 2008 (S.I. 2008/6)](https://www.legislation.gov.uk/uksi/2008/6), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/6/regulation/1/2)[(2)](https://www.legislation.gov.uk/uksi/2008/6/regulation/1/2)
+[^c-2cc0f4469795463d44133701ee98e46a]: Textual amendment: Regulations revoked (2.2.2008) by [The Textile Products (Indications of Fibre Content) (Amendment) Regulations 2008 (S.I. 2008/6)](https://www.legislation.gov.uk/uksi/2008/6), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/6/regulation/1/2)[(2)](https://www.legislation.gov.uk/uksi/2008/6/regulation/1/2)

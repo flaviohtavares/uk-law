@@ -22,13 +22,13 @@ summary: ''
 
 Section 59
 
-([^key-e026b1f8b8d978e590b74a3271bf14a4]1) Graduated fixed penalties
+([^c-e026b1f8b8d978e590b74a3271bf14a4]1) Graduated fixed penalties
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
 | Domestic Violence, Crime and Victims Act 2004 (c. 28) | Section 16(2). |
 
-([^key-eb035a3a290125e7a4be475b35d7886e]2) Giving of fixed penalty notices by vehicle examiners
+([^c-eb035a3a290125e7a4be475b35d7886e]2) Giving of fixed penalty notices by vehicle examiners
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -39,7 +39,7 @@ Section 59
 | Crime (International Co-operation) Act 2003 (c. 32) | In Schedule 5, paragraphs 47(b), 55(b) and 57(b). |
 | Courts Act 2003 (c. 39) | In Schedule 8, paragraphs 314 and 321. |
 
-([^key-62fdfa3500882f5a8cb7e0c2b760ab0c]3) Endorsement: unlicensed and foreign drivers
+([^c-62fdfa3500882f5a8cb7e0c2b760ab0c]3) Endorsement: unlicensed and foreign drivers
 
 | *Short title or title and reference* | *Extent of repeal or revocation* |
 | --- | --- |
@@ -48,7 +48,7 @@ Section 59
 | The Driving Licences (Community Driving Licence) Regulations 1990 (S.I. 1990/144) | In Schedule 2, paragraphs 6 and 9.<br>In Schedule 3, paragraph 3(2)(b). |
 | Road Traffic Act 1991 (c. 40) | In Schedule 4, paragraph 93. |
 
-([^key-263b6cba90f1096659faaeb0ee3d02fe]4) Endorsement: all drivers
+([^c-263b6cba90f1096659faaeb0ee3d02fe]4) Endorsement: all drivers
 
 | *Short title or title and reference* | *Extent of repeal or revocation* |
 | --- | --- |
@@ -66,7 +66,7 @@ Section 59
 | Criminal Justice Act 2003 (c. 44) | In section 301—<br>- (a) in paragraph (a) of subsection (6), the words “together with its counterpart”,<br>- (b) in paragraph (b) of that subsection, the words “and its counterpart (if any)”, and<br>- (c) in subsection (7), the definition of “counterpart”. |
 | Road Safety Act 2006 (c. 49) | Section 9(2)(a) and (4).<br>Section 14.<br>Section 58(3).<br>In Schedule 1—<br>- (a) paragraph 3(4) to (7),<br>- (b) paragraph 5,<br>- (c) paragraph 6,<br>- (d) paragraph 13(2),<br>- (e) paragraph 15(6),<br>- (f) paragraph 16(6),<br>- (g) paragraph 17,<br>- (h) paragraph 21(2),<br>- (i) in paragraph 25(2)(b), the word “(c),”, and<br>- (j) paragraph 26(2).<br>In Schedule 2—<br>- (a) paragraph 1,<br>- (b) paragraph 8(2), (3) and (5),<br>- (c) paragraph 9,<br>- (d) paragraph 14(3), (4) and (5),<br>- (e) paragraph 15,<br>- (f) paragraph 16,<br>- (g) paragraph 18,<br>- (h) paragraph 24(2) to (4) and (7),<br>- (i) paragraph 25(3),<br>- (j) paragraph 26,<br>- (k) paragraph 29,<br>- (l) paragraph 31, and<br>- (m) paragraph 32. |
 
-([^key-5a23e06942cb163c0458ea89618ea2a0]5) Period of endorsement for failure to allow specimen to be tested
+([^c-5a23e06942cb163c0458ea89618ea2a0]5) Period of endorsement for failure to allow specimen to be tested
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -86,14 +86,14 @@ Section 59
 | Serious Organised Crime and Police Act 2005 (c. 15) | In Schedule 4, paragraph 42. |
 | Fire (Scotland) Act 2005 (asp 5) | In Schedule 3, paragraph 12. |
 
-([^key-ca4e31eef2b9bfb7cd0fc626dfca4605][^key-ca4e31eef2b9bfb7cd0fc626dfca4605]8) Reduced disqualification period for attendance on course
+([^c-ca4e31eef2b9bfb7cd0fc626dfca4605][^c-ca4e31eef2b9bfb7cd0fc626dfca4605]8) Reduced disqualification period for attendance on course
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
 | Road Traffic Act 1991 (c. 40) | Section 30. |
 | Access to Justice Act 1999 (c. 22) | In Schedule 13, paragraphs 145 and 146. |
 
-([^key-a2f2d7afa07b55e9f2c070c1d8a23fb7]9) Driving tests
+([^c-a2f2d7afa07b55e9f2c070c1d8a23fb7]9) Driving tests
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -113,13 +113,13 @@ Section 59
 | --- | --- |
 | Road Traffic Act 1988 (c. 52) | In section 98(1)(c), the words “in the case of a provisional licence”.<br>In section 195(3), the words “is exercised”. |
 
-([^key-ef348edb1a3357151e02b372bae36c8b]12) Fee for renewal of photocard licence and issue of certain alternative licences
+([^c-ef348edb1a3357151e02b372bae36c8b]12) Fee for renewal of photocard licence and issue of certain alternative licences
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
 | Road Traffic Act 1988 (c. 52) | In section 99(7), the words “and any licence granted under this subsection shall be granted free of charge”. |
 
-([^key-fc4f6b4693254c855de5c844b748931d]13) Driver training
+([^c-fc4f6b4693254c855de5c844b748931d]13) Driver training
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -146,7 +146,7 @@ Section 59
 | --- | --- |
 | Vehicles (Crime) Act 2001 (c. 3) | In section 17(1), the words “in England or Wales”. |
 
-([^key-8db291275410a55c82a0d626379ac033]16) Safety arrangements at level crossings
+([^c-8db291275410a55c82a0d626379ac033]16) Safety arrangements at level crossings
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -177,22 +177,22 @@ Section 59
 
 [^c1771491]: Commencement: Sch. 7 partly in force at Royal Assent see s. 61
 
-[^key-e026b1f8b8d978e590b74a3271bf14a4]: Commencement: Sch. 7(1) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/d)
+[^c-e026b1f8b8d978e590b74a3271bf14a4]: Commencement: Sch. 7(1) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/d)
 
-[^key-eb035a3a290125e7a4be475b35d7886e]: Commencement: Sch. 7(2) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(d)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/d)
+[^c-eb035a3a290125e7a4be475b35d7886e]: Commencement: Sch. 7(2) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(d)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/d)
 
-[^key-62fdfa3500882f5a8cb7e0c2b760ab0c]: Commencement: Sch. 7(3) in force at 1.4.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 4(c)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/c)
+[^c-62fdfa3500882f5a8cb7e0c2b760ab0c]: Commencement: Sch. 7(3) in force at 1.4.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 4(c)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/c)
 
-[^key-263b6cba90f1096659faaeb0ee3d02fe]: Commencement: [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4) in force at 8.6.2015 for specified purposes by [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-263b6cba90f1096659faaeb0ee3d02fe]: Commencement: [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4) in force at 8.6.2015 for specified purposes by [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
-[^key-5a23e06942cb163c0458ea89618ea2a0]: Commencement: Sch. 7(5) in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(n)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/n)
+[^c-5a23e06942cb163c0458ea89618ea2a0]: Commencement: Sch. 7(5) in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(n)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/n)
 
-[^key-ca4e31eef2b9bfb7cd0fc626dfca4605]: Commencement: Sch. 7(8) in force at 21.12.2012 for specified purposes by [S.I. 2012/2938](https://www.legislation.gov.uk/uksi/2012/2938), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/2938/article/3))
+[^c-ca4e31eef2b9bfb7cd0fc626dfca4605]: Commencement: Sch. 7(8) in force at 21.12.2012 for specified purposes by [S.I. 2012/2938](https://www.legislation.gov.uk/uksi/2012/2938), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/2938/article/3))
 
-[^key-a2f2d7afa07b55e9f2c070c1d8a23fb7]: Commencement: Sch. 7(9) in force at 27.2.2007 by [S.I. 2007/237](https://www.legislation.gov.uk/uksi/2007/237), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/237/article/2/e)
+[^c-a2f2d7afa07b55e9f2c070c1d8a23fb7]: Commencement: Sch. 7(9) in force at 27.2.2007 by [S.I. 2007/237](https://www.legislation.gov.uk/uksi/2007/237), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/237/article/2/e)
 
-[^key-ef348edb1a3357151e02b372bae36c8b]: Commencement: Sch. 7(12) in force at 27.2.2007 by [S.I. 2007/237](https://www.legislation.gov.uk/uksi/2007/237), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/237/article/2/e)
+[^c-ef348edb1a3357151e02b372bae36c8b]: Commencement: Sch. 7(12) in force at 27.2.2007 by [S.I. 2007/237](https://www.legislation.gov.uk/uksi/2007/237), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/237/article/2/e)
 
-[^key-fc4f6b4693254c855de5c844b748931d]: Commencement: Sch. 7(13) in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(n)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/n)
+[^c-fc4f6b4693254c855de5c844b748931d]: Commencement: Sch. 7(13) in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(n)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/n)
 
-[^key-8db291275410a55c82a0d626379ac033]: Commencement: Sch. 7(16) in force at 27.2.2007 by [S.I. 2007/237](https://www.legislation.gov.uk/uksi/2007/237), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/237/article/2/e)
+[^c-8db291275410a55c82a0d626379ac033]: Commencement: Sch. 7(16) in force at 27.2.2007 by [S.I. 2007/237](https://www.legislation.gov.uk/uksi/2007/237), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/237/article/2/e)

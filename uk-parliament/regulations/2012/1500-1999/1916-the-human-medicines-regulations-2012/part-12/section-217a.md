@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217A. Requirements for prescriptions to be dispensed in an EEA state ...[^key-c5505eae83dca5047138cdabcf287652][^key-136e89f01ba870124d72a02f9cce5c5e]
+## 217A. Requirements for prescriptions to be dispensed in an EEA state ...[^c-c5505eae83dca5047138cdabcf287652][^c-136e89f01ba870124d72a02f9cce5c5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) The information specified in paragraph (3) is to be included in any prescription where—
 
-- (a) P requests a prescription that is to be dispensed in an EEA state [^key-d9aff8ea923c2be1867ed39d56dce4b1]...; and
+- (a) P requests a prescription that is to be dispensed in an EEA state [^c-d9aff8ea923c2be1867ed39d56dce4b1]...; and
 - (b) B determines that such a prescription is appropriate.
 
 (3) The specified information is—
@@ -61,8 +61,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c5505eae83dca5047138cdabcf287652]: Textual amendment: Reg. 217A inserted (E.W.S.) (31.3.2014) by [The Human Medicines (Amendment) Regulations 2014 (S.I. 2014/490)](https://www.legislation.gov.uk/uksi/2014/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/490/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2014/490/regulation/6) and reg. 217A inserted (N.I.) (31.3.2014) by [The Human Medicines (Amendment) Regulations 2014 (S.R. 2014/323)](https://www.legislation.gov.uk/nisr/2014/323), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/323/regulation/1/2), [6](https://www.legislation.gov.uk/nisr/2014/323/regulation/6)
+[^c-c5505eae83dca5047138cdabcf287652]: Textual amendment: Reg. 217A inserted (E.W.S.) (31.3.2014) by [The Human Medicines (Amendment) Regulations 2014 (S.I. 2014/490)](https://www.legislation.gov.uk/uksi/2014/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/490/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2014/490/regulation/6) and reg. 217A inserted (N.I.) (31.3.2014) by [The Human Medicines (Amendment) Regulations 2014 (S.R. 2014/323)](https://www.legislation.gov.uk/nisr/2014/323), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/323/regulation/1/2), [6](https://www.legislation.gov.uk/nisr/2014/323/regulation/6)
 
-[^key-136e89f01ba870124d72a02f9cce5c5e]: Textual amendment: Words in reg. 217A heading omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [183(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/183/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-136e89f01ba870124d72a02f9cce5c5e]: Textual amendment: Words in reg. 217A heading omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [183(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/183/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d9aff8ea923c2be1867ed39d56dce4b1]: Textual amendment: Words in reg. 217A(2)(a) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [183(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/183/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d9aff8ea923c2be1867ed39d56dce4b1]: Textual amendment: Words in reg. 217A(2)(a) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [183(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/183/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

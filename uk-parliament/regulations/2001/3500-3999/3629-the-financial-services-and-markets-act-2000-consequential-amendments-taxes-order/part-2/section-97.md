@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Introduction[^key-56254ea420f434ee6f2851fe002767ac]
+## 97. Introduction[^c-56254ea420f434ee6f2851fe002767ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Amend the Finance Act 1997 in accordance with Articles 98 to 102.
 
 ## Annotations
 
-[^key-56254ea420f434ee6f2851fe002767ac]: Commencement: Art. 97 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-56254ea420f434ee6f2851fe002767ac]: Commencement: Art. 97 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

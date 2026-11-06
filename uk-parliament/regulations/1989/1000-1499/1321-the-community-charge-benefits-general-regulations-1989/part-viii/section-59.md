@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59. Who may claim[^key-3a6a8f9057f3525653908d692213ee3b]
+## 59. Who may claim[^c-3a6a8f9057f3525653908d692213ee3b]
 
 *Extent: E+W+S*
 
@@ -46,7 +46,7 @@ that receiver, curator, other guardian or attorney, as the case may be, may make
 
 ## Annotations
 
-[^key-3a6a8f9057f3525653908d692213ee3b]: Commencement: Reg. 59 in force at 11.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-3a6a8f9057f3525653908d692213ee3b]: Commencement: Reg. 59 in force at 11.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
 
 [^f00061]: Footnote: [1971 c. 27](https://www.legislation.gov.uk/ukpga/1971/27).
 

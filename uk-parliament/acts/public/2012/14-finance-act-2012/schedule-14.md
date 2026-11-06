@@ -453,7 +453,7 @@ any attribution or apportionment is to be done in the way that maximises the rel
 - (a) for “section 32(4)” substitute “ section 32(4) or (4A) ”, and
 - (b) for “section 32A(5)”, in both places it appears, substitute “ section 32A(5) or (5A) ”.
 
-**32A.**[^key-7b866e86d379c6d95df44b466c8c4377] (1) This paragraph applies where a person (“**the donor**”) makes a qualifying gift of an object in circumstances where, had the donor instead sold the object to an individual at market value, a charge to estate duty would have arisen under section 40 of FA 1930 on the proceeds of sale.
+**32A.**[^c-7b866e86d379c6d95df44b466c8c4377] (1) This paragraph applies where a person (“**the donor**”) makes a qualifying gift of an object in circumstances where, had the donor instead sold the object to an individual at market value, a charge to estate duty would have arisen under section 40 of FA 1930 on the proceeds of sale.
 
 (2) At the time when the gift is made, estate duty becomes chargeable under that section as if the gift were such a sale (subject to any limitation imposed by paragraph 33(2)).
 
@@ -508,6 +508,6 @@ any attribution or apportionment is to be done in the way that maximises the rel
 
 ## Annotations
 
-[^key-7b866e86d379c6d95df44b466c8c4377]: Textual amendment: [Sch. 14 para. 32A](https://www.legislation.gov.uk/ukpga/2012/14/schedule/14/paragraph/32A) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 118(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/118/1)
+[^c-7b866e86d379c6d95df44b466c8c4377]: Textual amendment: [Sch. 14 para. 32A](https://www.legislation.gov.uk/ukpga/2012/14/schedule/14/paragraph/32A) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 118(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/118/1)
 
 [^c22717751]: Subordinate legislation: Sch. 14 para. 36(1) power exercised: 1.4.2012 appointed by [S.I. 2013/587](https://www.legislation.gov.uk/uksi/2013/587), [art. 2](https://www.legislation.gov.uk/uksi/2013/587/article/2)

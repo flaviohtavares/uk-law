@@ -43,7 +43,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 The Social Security Advisory Committee has agreed that proposals in respect of regulations 7 and 8 should not be referred to it[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-adefe5769180b98606c927b4d0b39bcd]
+## 1. Citation, commencement and interpretation[^c-adefe5769180b98606c927b4d0b39bcd]
 
 (1) These Regulations may be cited as the Social Security (Claims and Information) Regulations (Northern Ireland) 2007 and shall come into operation on 10th December 2007.
 
@@ -53,8 +53,8 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 - “specified benefit” means one or more of the following benefits—
   - (a) attendance allowance;
-  - (b) bereavement support payment under section 29 of the Pensions Act (Northern Ireland) 2015;[^key-def25a64e7aa4fb2587923d5f8b23e8f]
-  - (c) [^key-def25a64e7aa4fb2587923d5f8b23e8f]...
+  - (b) bereavement support payment under section 29 of the Pensions Act (Northern Ireland) 2015;[^c-def25a64e7aa4fb2587923d5f8b23e8f]
+  - (c) [^c-def25a64e7aa4fb2587923d5f8b23e8f]...
   - (d) carer’s allowance;
   - (e) disability living allowance;
   - (ee) employment and support allowance;[^M_F_1d336f9b-ecc7-4c76-901b-c9c01ac40718]
@@ -68,7 +68,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 - “administering authority” means an authority administering housing benefit and includes persons providing services to an administering authority and persons authorised to exercise any function of an administering authority relating to housing benefit;
 - “the Department” includes persons providing services to the Department.
 
-## 2. Use of social security information: administering authorities[^key-6d90aac17db9f47c7822dbfea900df3c]
+## 2. Use of social security information: administering authorities[^c-6d90aac17db9f47c7822dbfea900df3c]
 
 (1) This regulation applies where social security information[^f00004] held by an administering authority was supplied by the Department to the administering authority and this information—
 
@@ -83,7 +83,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 - (b) the information is supplied within 12 months of its use by the Department but the administering authority has reasonable grounds for believing the information has changed in the period between its use by the Department and its supply to the administering authority; or
 - (c) the date on which the information was used by the Department cannot be determined.
 
-## 3. Use of social security information: Department[^key-1a8d09f12c7dab5d211a6c938918cd64]
+## 3. Use of social security information: Department[^c-1a8d09f12c7dab5d211a6c938918cd64]
 
 (1) This regulation applies where social security information held by the Department was supplied by an administering authority to the Department and this information—
 
@@ -98,7 +98,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 - (b) the information is supplied within 12 months of its use by the administering authority but the Department has reasonable grounds for believing the information has changed in the period between its use by the administering authority and its supply to the Department; or
 - (c) the date on which the information was used by the administering authority cannot be determined.
 
-## 4. Social security information verified by administering authorities[^key-9529c439ffedef33ca46a08ea13cb1fa]
+## 4. Social security information verified by administering authorities[^c-9529c439ffedef33ca46a08ea13cb1fa]
 
 (1) This regulation applies where social security information is verified by an administering authority by virtue of regulations made under section 5A(2)(e) of the Administration Act and forwarded by that administering authority to the Department.
 
@@ -109,14 +109,14 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 - (a) the Department has reasonable grounds for believing the social security information received from the administering authority is inaccurate; or
 - (b) the Department receives the information more than 4 weeks after it was verified by the administering authority.
 
-## 5. Specified benefits for the purpose of section 5B(3) of the Administration Act[^key-07009d5a017323238de71f24e442a513]
+## 5. Specified benefits for the purpose of section 5B(3) of the Administration Act[^c-07009d5a017323238de71f24e442a513]
 
 The benefits specified for the purpose of section 5B(3) of the Administration Act are—
 
 - (a) a “specified benefit” within the meaning given in regulation 1(3); and
 - (b) housing benefit.
 
-## 6. Amendment of the Social Security (Claims and Payments) Regulations[^key-dbe8146583504a6ba06cdb9b28c84435]
+## 6. Amendment of the Social Security (Claims and Payments) Regulations[^c-dbe8146583504a6ba06cdb9b28c84435]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00005] are amended in accordance with paragraphs (2) to (5).
 
@@ -195,7 +195,7 @@ The benefits specified for the purpose of section 5B(3) of the Administration Ac
 
 .
 
-## 7. Amendment of the Housing Benefit Regulations[^key-7b081e184378bf126cca27a9239269b4]
+## 7. Amendment of the Housing Benefit Regulations[^c-7b081e184378bf126cca27a9239269b4]
 
 (1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00011] are amended in accordance with paragraphs (2) and (3).
 
@@ -261,7 +261,7 @@ The benefits specified for the purpose of section 5B(3) of the Administration Ac
 
 (3) In regulations 105, 108(1) and 110 for “Part” substitute “Section”.
 
-## 8. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-8733288c2726158b653becba618102a1]
+## 8. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-8733288c2726158b653becba618102a1]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00012] are amended in accordance with paragraphs (2) and (3).
 
@@ -327,7 +327,7 @@ The benefits specified for the purpose of section 5B(3) of the Administration Ac
 
 (3) In regulations 86, 89(1) and 91 for “Part” substitute “Section”.
 
-## 9. Revocation[^key-3ee3f36bbe405f9abd9d2fea69b57da8]
+## 9. Revocation[^c-3ee3f36bbe405f9abd9d2fea69b57da8]
 
 Regulation 2(3)(b) of the Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2006[^f00013] is revoked.
 
@@ -373,23 +373,23 @@ Sections 5A and 5B of the Administration Act were respectively amended and inser
 
 [^f00003]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-adefe5769180b98606c927b4d0b39bcd]: Commencement: Reg. 1 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
+[^c-adefe5769180b98606c927b4d0b39bcd]: Commencement: Reg. 1 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
 
-[^key-def25a64e7aa4fb2587923d5f8b23e8f]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/3/b) substituted (6.4.2017) by [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2017 (S.R. 2017/66)](https://www.legislation.gov.uk/nisr/2017/66), [art. 24](https://www.legislation.gov.uk/nisr/2017/66/article/24), [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2017/66/regulation/1/2/c) (with [arts. 2](https://www.legislation.gov.uk/nisr/2017/66/article/2), [3](https://www.legislation.gov.uk/nisr/2017/66/article/3))
+[^c-def25a64e7aa4fb2587923d5f8b23e8f]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/3/b) substituted (6.4.2017) by [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2017 (S.R. 2017/66)](https://www.legislation.gov.uk/nisr/2017/66), [art. 24](https://www.legislation.gov.uk/nisr/2017/66/article/24), [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2017/66/regulation/1/2/c) (with [arts. 2](https://www.legislation.gov.uk/nisr/2017/66/article/2), [3](https://www.legislation.gov.uk/nisr/2017/66/article/3))
 
 [^M_F_1d336f9b-ecc7-4c76-901b-c9c01ac40718]: Textual amendment: Words in reg. 1(3) inserted (28.06.2010) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2010 (SR 2010/200)](https://www.legislation.gov.uk/nisr/2010/200/contents), [reg. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1), [reg. 8](https://www.legislation.gov.uk/nisr/2010/200/regulation/8)
 
-[^key-6d90aac17db9f47c7822dbfea900df3c]: Commencement: Reg. 2 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
+[^c-6d90aac17db9f47c7822dbfea900df3c]: Commencement: Reg. 2 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
 
 [^f00004]: Footnote: “Social security information” is defined by section 5B(4) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-1a8d09f12c7dab5d211a6c938918cd64]: Commencement: Reg. 3 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
+[^c-1a8d09f12c7dab5d211a6c938918cd64]: Commencement: Reg. 3 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
 
-[^key-9529c439ffedef33ca46a08ea13cb1fa]: Commencement: Reg. 4 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
+[^c-9529c439ffedef33ca46a08ea13cb1fa]: Commencement: Reg. 4 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
 
-[^key-07009d5a017323238de71f24e442a513]: Commencement: Reg. 5 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
+[^c-07009d5a017323238de71f24e442a513]: Commencement: Reg. 5 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
 
-[^key-dbe8146583504a6ba06cdb9b28c84435]: Commencement: Reg. 6 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
+[^c-dbe8146583504a6ba06cdb9b28c84435]: Commencement: Reg. 6 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 2003 Nos. 191](https://www.legislation.gov.uk/nisr/2003/191) and [317](https://www.legislation.gov.uk/nisr/2003/317), [S.R. 2005 Nos. 46](https://www.legislation.gov.uk/nisr/2005/46) and [299](https://www.legislation.gov.uk/nisr/2005/299) and [S.R. 2006 No. 168](https://www.legislation.gov.uk/nisr/2006/168)
 
@@ -403,14 +403,14 @@ Sections 5A and 5B of the Administration Act were respectively amended and inser
 
 [^f00010]: Footnote: Paragraph (1C) was inserted by regulation 2(7)(a) of [S.R. 2006 No. 168](https://www.legislation.gov.uk/nisr/2006/168)
 
-[^key-7b081e184378bf126cca27a9239269b4]: Commencement: Reg. 7 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
+[^c-7b081e184378bf126cca27a9239269b4]: Commencement: Reg. 7 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405)
 
-[^key-8733288c2726158b653becba618102a1]: Commencement: Reg. 8 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
+[^c-8733288c2726158b653becba618102a1]: Commencement: Reg. 8 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
 
 [^f00012]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406)
 
-[^key-3ee3f36bbe405f9abd9d2fea69b57da8]: Commencement: Reg. 9 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
+[^c-3ee3f36bbe405f9abd9d2fea69b57da8]: Commencement: Reg. 9 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
 
 [^f00013]: Footnote: [S.R. 2006 No. 168](https://www.legislation.gov.uk/nisr/2006/168)

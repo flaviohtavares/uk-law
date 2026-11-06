@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Meaning of exploitation[^key-52aba7979a52ec76d40930a2807198f1]
+## 3. Meaning of exploitation[^c-52aba7979a52ec76d40930a2807198f1]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52aba7979a52ec76d40930a2807198f1]: Commencement: S. 3 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/a)
+[^c-52aba7979a52ec76d40930a2807198f1]: Commencement: S. 3 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/a)

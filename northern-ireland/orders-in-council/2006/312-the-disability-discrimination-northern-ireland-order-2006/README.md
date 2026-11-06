@@ -46,7 +46,7 @@ The Queen's Most Excellent Majesty in Council
 
 Whereas a draft of this Order in Council has been approved by resolution of each House of Parliament:
 
-Now, therefore, Her Majesty, in exercise of the powers conferred by paragraph 1(1) of the Schedule to the Northern Ireland Act 2000 (c. 1) and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:–[^key-543654f1020e28f3a3f30f28eb1667a2]
+Now, therefore, Her Majesty, in exercise of the powers conferred by paragraph 1(1) of the Schedule to the Northern Ireland Act 2000 (c. 1) and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:–[^c-543654f1020e28f3a3f30f28eb1667a2]
 
 ## Contents
 
@@ -105,4 +105,4 @@ This Order amends the Disability Discrimination Act 1995.
 
 ## Annotations
 
-[^key-543654f1020e28f3a3f30f28eb1667a2]: Modification: [Order](https://www.legislation.gov.uk/nisi/2006/312): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-543654f1020e28f3a3f30f28eb1667a2]: Modification: [Order](https://www.legislation.gov.uk/nisi/2006/312): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

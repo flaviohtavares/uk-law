@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Power to construct and maintain works[^key-a02d841c68c9602930d07f9e5ef299dc]
+## 4. Power to construct and maintain works[^c-a02d841c68c9602930d07f9e5ef299dc]
 
 *Extent: E+W+S*
 
@@ -76,7 +76,7 @@ and all other provisions of the 2009 Act that apply for the purposes of the prov
 
 ## Annotations
 
-[^key-a02d841c68c9602930d07f9e5ef299dc]: Commencement: Art. 4 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-a02d841c68c9602930d07f9e5ef299dc]: Commencement: Art. 4 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
 
 [^f00020]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 

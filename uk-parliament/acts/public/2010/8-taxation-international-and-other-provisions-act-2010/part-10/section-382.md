@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 382. The tax-interest expense amounts of a company[^key-02eba6dfa8b994b0d1ad429b2f644a47]
+## 382. The tax-interest expense amounts of a company[^c-02eba6dfa8b994b0d1ad429b2f644a47]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) is (or apart from this Part would be) brought into account for the purposes of corporation tax in a relevant accounting period of the company, and
 - (b) meets condition A, B or C.
 
-(1A)[^key-ec725c1c74027a45c729035cd4951d84] But, in the case of a company which is a charity (as defined in paragraph 1 of Schedule 6 to FA 2010) at the end of the period of account, references in this Part to a “tax-interest expense amount” of the company do not include references to an amount which meets Condition A, B or C.
+(1A)[^c-ec725c1c74027a45c729035cd4951d84] But, in the case of a company which is a charity (as defined in paragraph 1 of Schedule 6 to FA 2010) at the end of the period of account, references in this Part to a “tax-interest expense amount” of the company do not include references to an amount which meets Condition A, B or C.
 
 (2) Condition A is that the amount is a relevant loan relationship debit (see section 383).
 
@@ -65,6 +65,6 @@ so much of the amount as is subsequently deductible is treated, at that time, as
 
 ## Annotations
 
-[^key-02eba6dfa8b994b0d1ad429b2f644a47]: Textual amendment: Pt. 10: the existing Pt. 10 renumbered as Pt. 11 (except for ss. 375, 376 which are repealed), the existing ss. 372-374, 377-382 renumbered as ss. 499-507 and a new Pt. 10 (ss. 372-498) inserted (with effect in accordance with [Sch. 5 para. 25(1)-(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/25/1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/1), [10(1)(2)(a)(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/1/2/a/3) (with [Sch. 5 paras. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/27), [32-34](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/32))
+[^c-02eba6dfa8b994b0d1ad429b2f644a47]: Textual amendment: Pt. 10: the existing Pt. 10 renumbered as Pt. 11 (except for ss. 375, 376 which are repealed), the existing ss. 372-374, 377-382 renumbered as ss. 499-507 and a new Pt. 10 (ss. 372-498) inserted (with effect in accordance with [Sch. 5 para. 25(1)-(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/25/1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/1), [10(1)(2)(a)(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/1/2/a/3) (with [Sch. 5 paras. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/27), [32-34](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/32))
 
-[^key-ec725c1c74027a45c729035cd4951d84]: Textual amendment: [S. 382(1A)](https://www.legislation.gov.uk/ukpga/2010/8/section/382/1A) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/2)
+[^c-ec725c1c74027a45c729035cd4951d84]: Textual amendment: [S. 382(1A)](https://www.legislation.gov.uk/ukpga/2010/8/section/382/1A) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/2)

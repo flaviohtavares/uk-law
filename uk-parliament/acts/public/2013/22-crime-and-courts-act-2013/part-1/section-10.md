@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Operational powers of other NCA officers[^key-dfee2f73bb4c5a60c87e5bdb58628a85]
+## 10. Operational powers of other NCA officers[^c-dfee2f73bb4c5a60c87e5bdb58628a85]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the powers and privileges of a constable;
 - (b) the powers of an officer of Revenue and Customs;
-- (ba)[^key-751960b9e5291eac29a69917ae88abf3] the powers of a general customs official;
+- (ba)[^c-751960b9e5291eac29a69917ae88abf3] the powers of a general customs official;
 - (c) the powers of an immigration officer.
 
 (2) The Director General may not designate an NCA officer under this section as having particular operational powers unless the Director General is satisfied that the officer—
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dfee2f73bb4c5a60c87e5bdb58628a85]: Commencement: S. 10 in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(n)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/n)
+[^c-dfee2f73bb4c5a60c87e5bdb58628a85]: Commencement: S. 10 in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(n)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/n)
 
-[^key-751960b9e5291eac29a69917ae88abf3]: Textual amendment: S. 10(1)(ba) inserted (31.1.2017 for specified purposes, 31.3.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 158(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/158/3), [183(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e)[(6)(c)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/6/c)
+[^c-751960b9e5291eac29a69917ae88abf3]: Textual amendment: S. 10(1)(ba) inserted (31.1.2017 for specified purposes, 31.3.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 158(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/158/3), [183(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e)[(6)(c)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/6/c)

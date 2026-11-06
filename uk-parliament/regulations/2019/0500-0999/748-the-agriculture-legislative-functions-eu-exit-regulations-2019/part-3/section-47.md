@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47.[^key-c9a0c29be4772b15fe623006adf135ce]
+## 47.[^c-c9a0c29be4772b15fe623006adf135ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9a0c29be4772b15fe623006adf135ce]: Textual amendment: Pt. 3 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [10(11)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/10/11)
+[^c-c9a0c29be4772b15fe623006adf135ce]: Textual amendment: Pt. 3 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [10(11)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/10/11)

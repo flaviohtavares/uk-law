@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 243. Length of term of service detention: general provision[^key-ed3a6470bc3a7cc7a1e97498a412aab8][^key-786ac6c72590f4441ad9b4c1c074c014][^key-981d9e36ce95c6f37eb8df8add5d4ab7]
+## 243. Length of term of service detention: general provision[^c-ed3a6470bc3a7cc7a1e97498a412aab8][^c-786ac6c72590f4441ad9b4c1c074c014][^c-981d9e36ce95c6f37eb8df8add5d4ab7]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,8 +28,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ed3a6470bc3a7cc7a1e97498a412aab8]: Commencement: S. 243 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-ed3a6470bc3a7cc7a1e97498a412aab8]: Commencement: S. 243 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-786ac6c72590f4441ad9b4c1c074c014]: Commencement: S. 243 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-786ac6c72590f4441ad9b4c1c074c014]: Commencement: S. 243 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-981d9e36ce95c6f37eb8df8add5d4ab7]: Modification: S. 243 applied (31.10.2009) by [The Armed Forces (Court Martial) Rules 2009 (S.I. 2009/2041)](https://www.legislation.gov.uk/uksi/2009/2041), [art. 1](https://www.legislation.gov.uk/uksi/2009/2041/article/1), [rule 161(9)](https://www.legislation.gov.uk/uksi/2009/2041/rule/161/9)
+[^c-981d9e36ce95c6f37eb8df8add5d4ab7]: Modification: S. 243 applied (31.10.2009) by [The Armed Forces (Court Martial) Rules 2009 (S.I. 2009/2041)](https://www.legislation.gov.uk/uksi/2009/2041), [art. 1](https://www.legislation.gov.uk/uksi/2009/2041/article/1), [rule 161(9)](https://www.legislation.gov.uk/uksi/2009/2041/rule/161/9)

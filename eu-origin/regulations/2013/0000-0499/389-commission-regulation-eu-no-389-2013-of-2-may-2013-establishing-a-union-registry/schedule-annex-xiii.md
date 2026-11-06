@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX XIII[^key-386e32276fff30c2f91a8c6e95689b6c]
+## ANNEX XIII[^c-386e32276fff30c2f91a8c6e95689b6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-386e32276fff30c2f91a8c6e95689b6c]: Textual amendment: Annexes 9-14 omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [10(8)](https://www.legislation.gov.uk/uksi/2021/511/regulation/10/8)
+[^c-386e32276fff30c2f91a8c6e95689b6c]: Textual amendment: Annexes 9-14 omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [10(8)](https://www.legislation.gov.uk/uksi/2021/511/regulation/10/8)

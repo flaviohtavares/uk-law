@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by sections 29(3) and 569(4) of the Education Act 1996[^f00001].
 
-## 1. Citation, commencement and application[^key-68f4968d0bf995c9a2dc6440856e55ad]
+## 1. Citation, commencement and application[^c-68f4968d0bf995c9a2dc6440856e55ad]
 
 (1) These Regulations may be cited as the Information as to Provision of Education (England) Regulations 2016 and come into force on 31st May 2016.
 
 (2) These Regulations apply only in relation to local authorities in England.
 
-## 2. Interpretation[^key-57307fcbd59d5d784376b05bbd4e0dda]
+## 2. Interpretation[^c-57307fcbd59d5d784376b05bbd4e0dda]
 
 In these Regulations—
 
@@ -72,7 +72,7 @@ In these Regulations—
 - “**special educational needs unit**” means a unit in a mainstream school which is recognised by the local authority in whose area the school is located as specially organised for pupils with special educational needs who are to be taught mainly inside that unit;
 - “**special school**” has the meaning given in section 337 of the Education Act 1996.
 
-## 3. Information about school capacity etc. to be provided to the Secretary of State by local authorities[^key-ec651894d3a4cc2dc3d534d5e16524b9]
+## 3. Information about school capacity etc. to be provided to the Secretary of State by local authorities[^c-ec651894d3a4cc2dc3d534d5e16524b9]
 
 (1) A local authority must provide the Secretary of State each collection year with the information specified in Schedule 1 (school capacity etc. information) during the period beginning with the first Monday in June and ending on the last Friday in July.
 
@@ -92,7 +92,7 @@ In these Regulations—
 
 (4) For the purposes of this regulation, a school which provides early years provision is to be treated as if it did not; and the provisions of Schedule 1A are to be interpreted accordingly.
 
-## 4. Reports to be provided to the Secretary of State by local authorities[^key-853bcafb9eee9d02c3ee9171acd3edb3]
+## 4. Reports to be provided to the Secretary of State by local authorities[^c-853bcafb9eee9d02c3ee9171acd3edb3]
 
 (1) A local authority must provide the Secretary of State each year with a report containing the information specified in Schedule 2 in relation to the admission to—
 
@@ -118,7 +118,7 @@ of pupils living in the area of the local authority.
 
 (8) For the purposes of this regulation and Schedule 2, “school” means a community, foundation or voluntary school, or an Academy.
 
-## 5. Determination of capacity of a school etc.[^key-f7c56c82f4c7b45414ed540bfa1ffbca]
+## 5. Determination of capacity of a school etc.[^c-f7c56c82f4c7b45414ed540bfa1ffbca]
 
 For the purposes of Schedule 1, the capacity of each of the following are to be determined in accordance with the method of assessment provided in the guidance “Assessing the capacity of schools - guidance for local authorities and schools”, published by the Secretary of State on 3rd November 2023—
 
@@ -128,7 +128,7 @@ For the purposes of Schedule 1, the capacity of each of the following are to be 
 - (d) a special educational needs unit;
 - (e) resourced provision.
 
-## 6. Revocations[^key-b23a8c099b87ca6f35ee0e9d2ce4f0b4]
+## 6. Revocations[^c-b23a8c099b87ca6f35ee0e9d2ce4f0b4]
 
 The Regulations set out in Schedule 3 are revoked.
 
@@ -140,7 +140,7 @@ Department for Education
 
 3rd May 2016
 
-## SCHEDULE 1 — School capacity etc. information[^key-066a472e00bc87c32be55827913e9560]
+## SCHEDULE 1 — School capacity etc. information[^c-066a472e00bc87c32be55827913e9560]
 
 Regulation 3
 
@@ -267,15 +267,15 @@ Regulation 3A
 
 Regulation 4
 
-**1.**[^key-e7438a8e1f002d1276abdcc88a02d18b] The local authority number for the local authority.
+**1.**[^c-e7438a8e1f002d1276abdcc88a02d18b] The local authority number for the local authority.
 
-**2.**[^key-2dc1d4560782ec8adc42ced79174dfad] The name of the local authority.
+**2.**[^c-2dc1d4560782ec8adc42ced79174dfad] The name of the local authority.
 
-**3.**[^key-b557764d81e9b0e82da4d5b5a65bba9a] The date of the report.
+**3.**[^c-b557764d81e9b0e82da4d5b5a65bba9a] The date of the report.
 
-**4.**[^key-fe2c37e82f2ac223e4c0e68643555e6f] The sum of the admission numbers (which has the meaning given in section 88D(1) of the School Standards and Framework Act 1988 [^f00005]) of all primary schools and secondary schools in the area of the local authority.
+**4.**[^c-fe2c37e82f2ac223e4c0e68643555e6f] The sum of the admission numbers (which has the meaning given in section 88D(1) of the School Standards and Framework Act 1988 [^f00005]) of all primary schools and secondary schools in the area of the local authority.
 
-**5.**[^key-14e35956a08b53d9707eeba0e7182a41] For each child living in the area of the local authority in respect of whom an application or an offer is made, the following information—
+**5.**[^c-14e35956a08b53d9707eeba0e7182a41] For each child living in the area of the local authority in respect of whom an application or an offer is made, the following information—
 
 - (a) surname;
 - (b) first name;
@@ -286,22 +286,22 @@ Regulation 4
 - (g) home address; and
 - (h) the entry year applied for.
 
-**6.**[^key-f8d3f3d5c7f14ae34e8b3e1bc6fe7a6d] In respect of any application made by a home applicant, whether such an application was received via the local authority’s website.
+**6.**[^c-f8d3f3d5c7f14ae34e8b3e1bc6fe7a6d] In respect of any application made by a home applicant, whether such an application was received via the local authority’s website.
 
-**7.**[^key-e55f29834abe0c3b88bef38183046e90] In respect of every preference for a school expressed in the application of a home applicant, the following information—
+**7.**[^c-e55f29834abe0c3b88bef38183046e90] In respect of every preference for a school expressed in the application of a home applicant, the following information—
 
 - (a) its rank in relation to any other preference expressed in the application;
 - (b) the local authority number for the local authority in whose area the school is located;
 - (c) the departmental establishment number for that school.
 
-**8.**[^key-036d45bbfd65e8341ff96368fffd178d] In respect of any offer made in respect of a child living in the area of the local authority, the following information—
+**8.**[^c-036d45bbfd65e8341ff96368fffd178d] In respect of any offer made in respect of a child living in the area of the local authority, the following information—
 
 - (a) whether an application was made;
 - (b) whether the offer corresponds with any preference expressed in the application of the home applicant;
 - (c) the local authority number for the local authority in whose area the school is located;
 - (d) the departmental establishment number for the school for which the offer is made.
 
-**9.**[^key-15e08da28311fbb6a1b06141478b79c5] In this Schedule—
+**9.**[^c-15e08da28311fbb6a1b06141478b79c5] In this Schedule—
 
 - “application” means a preference expressed by a parent in accordance with section 86(1) of the School Standards and Framework Act 1998 [^f00006], or by a parent or a child in accordance with section 86A(1)(c) or (d) of that Act [^f00007];
 - “departmental establishment number” means the identification number allocated to the school by the Department for Education;
@@ -309,7 +309,7 @@ Regulation 4
 - “local authority number” means the identification number allocated to the authority by the Department for Education;
 - “offer” means an offer communicated by a local authority to admit a child in its area to a school[^f00008].
 
-## SCHEDULE 3 — REVOCATIONS[^key-c488a0767ed5a4cde5af244cc9eb8742]
+## SCHEDULE 3 — REVOCATIONS[^c-c488a0767ed5a4cde5af244cc9eb8742]
 
 Regulation 6
 
@@ -346,43 +346,43 @@ An Impact Assessment has not been produced for this instrument as it has no impa
 
 [^f00001]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). Section 29(3) was amended by paragraph 67 of Schedule 30, and Schedule 31, to the School Standards and Framework Act [1998 (c.31)](https://www.legislation.gov.uk/ukpga/1998/31) and [S.I.2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 569(4) was amended by section 8(5) of the Education (Wales) Measure [2009 (c.05)](https://www.legislation.gov.uk/ukpga/2009/5). See section 579(1) for the meanings of “prescribed” and “regulations”.
 
-[^key-68f4968d0bf995c9a2dc6440856e55ad]: Commencement: Reg. 1 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+[^c-68f4968d0bf995c9a2dc6440856e55ad]: Commencement: Reg. 1 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
 
-[^key-57307fcbd59d5d784376b05bbd4e0dda]: Textual amendment: Reg. 2 substituted (30.11.2023) by [The Information as to Provision of Education (England) (Amendment) Regulations 2023 (S.I. 2023/1186)](https://www.legislation.gov.uk/uksi/2023/1186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/2/2)
+[^c-57307fcbd59d5d784376b05bbd4e0dda]: Textual amendment: Reg. 2 substituted (30.11.2023) by [The Information as to Provision of Education (England) (Amendment) Regulations 2023 (S.I. 2023/1186)](https://www.legislation.gov.uk/uksi/2023/1186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/2/2)
 
-[^key-ec651894d3a4cc2dc3d534d5e16524b9]: Textual amendment: [Regs. 3](https://www.legislation.gov.uk/uksi/2016/555/regulation/3), [3A](https://www.legislation.gov.uk/uksi/2016/555/regulation/3A) substituted (30.11.2023) for reg. 3 by The Information as to [Provision of Education (England) (Amendment) Regulations 2023 (S.I. 2023/1186)](https://www.legislation.gov.uk/uksi/2023/1186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/2/3)
+[^c-ec651894d3a4cc2dc3d534d5e16524b9]: Textual amendment: [Regs. 3](https://www.legislation.gov.uk/uksi/2016/555/regulation/3), [3A](https://www.legislation.gov.uk/uksi/2016/555/regulation/3A) substituted (30.11.2023) for reg. 3 by The Information as to [Provision of Education (England) (Amendment) Regulations 2023 (S.I. 2023/1186)](https://www.legislation.gov.uk/uksi/2023/1186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/2/3)
 
-[^key-853bcafb9eee9d02c3ee9171acd3edb3]: Commencement: Reg. 4 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+[^c-853bcafb9eee9d02c3ee9171acd3edb3]: Commencement: Reg. 4 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
 
 [^f00002]: Footnote: Section 88M was inserted by section 151(4) of the Education and Skills Act [2008 (c.25)](https://www.legislation.gov.uk/ukpga/2008/25) and amended by [S.I.2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). The date is prescribed in the School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) Regulations 2012 ([S.I.2012/8](https://www.legislation.gov.uk/uksi/2012/8)).
 
 [^f00003]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-f7c56c82f4c7b45414ed540bfa1ffbca]: Textual amendment: Reg. 5 substituted (30.11.2023) by [The Information as to Provision of Education (England) (Amendment) Regulations 2023 (S.I. 2023/1186)](https://www.legislation.gov.uk/uksi/2023/1186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/2/4)
+[^c-f7c56c82f4c7b45414ed540bfa1ffbca]: Textual amendment: Reg. 5 substituted (30.11.2023) by [The Information as to Provision of Education (England) (Amendment) Regulations 2023 (S.I. 2023/1186)](https://www.legislation.gov.uk/uksi/2023/1186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/2/4)
 
-[^key-b23a8c099b87ca6f35ee0e9d2ce4f0b4]: Commencement: Reg. 6 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+[^c-b23a8c099b87ca6f35ee0e9d2ce4f0b4]: Commencement: Reg. 6 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
 
-[^key-066a472e00bc87c32be55827913e9560]: Textual amendment: Sch. 1, Sch. 1A substituted for Sch. 1 (30.11.2023) by [The Information as to Provision of Education (England) (Amendment) Regulations 2023 (S.I. 2023/1186)](https://www.legislation.gov.uk/uksi/2023/1186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/2/5)
+[^c-066a472e00bc87c32be55827913e9560]: Textual amendment: Sch. 1, Sch. 1A substituted for Sch. 1 (30.11.2023) by [The Information as to Provision of Education (England) (Amendment) Regulations 2023 (S.I. 2023/1186)](https://www.legislation.gov.uk/uksi/2023/1186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/2/5)
 
-[^key-e7438a8e1f002d1276abdcc88a02d18b]: Commencement: Sch. 2 para. 1 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+[^c-e7438a8e1f002d1276abdcc88a02d18b]: Commencement: Sch. 2 para. 1 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
 
-[^key-2dc1d4560782ec8adc42ced79174dfad]: Commencement: Sch. 2 para. 2 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+[^c-2dc1d4560782ec8adc42ced79174dfad]: Commencement: Sch. 2 para. 2 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
 
-[^key-b557764d81e9b0e82da4d5b5a65bba9a]: Commencement: Sch. 2 para. 3 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+[^c-b557764d81e9b0e82da4d5b5a65bba9a]: Commencement: Sch. 2 para. 3 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
 
-[^key-fe2c37e82f2ac223e4c0e68643555e6f]: Commencement: Sch. 2 para. 4 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+[^c-fe2c37e82f2ac223e4c0e68643555e6f]: Commencement: Sch. 2 para. 4 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
 
 [^f00005]: Footnote: Section 88D was inserted by section 151(4) of the Education and Skills Act 2008.
 
-[^key-14e35956a08b53d9707eeba0e7182a41]: Commencement: Sch. 2 para. 5 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+[^c-14e35956a08b53d9707eeba0e7182a41]: Commencement: Sch. 2 para. 5 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
 
-[^key-f8d3f3d5c7f14ae34e8b3e1bc6fe7a6d]: Commencement: Sch. 2 para. 6 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+[^c-f8d3f3d5c7f14ae34e8b3e1bc6fe7a6d]: Commencement: Sch. 2 para. 6 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
 
-[^key-e55f29834abe0c3b88bef38183046e90]: Commencement: Sch. 2 para. 7 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+[^c-e55f29834abe0c3b88bef38183046e90]: Commencement: Sch. 2 para. 7 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
 
-[^key-036d45bbfd65e8341ff96368fffd178d]: Commencement: Sch. 2 para. 8 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+[^c-036d45bbfd65e8341ff96368fffd178d]: Commencement: Sch. 2 para. 8 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
 
-[^key-15e08da28311fbb6a1b06141478b79c5]: Commencement: Sch. 2 para. 9 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+[^c-15e08da28311fbb6a1b06141478b79c5]: Commencement: Sch. 2 para. 9 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
 
 [^f00006]: Footnote: Section 86(1) was amended by [S.I.2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
@@ -390,4 +390,4 @@ An Impact Assessment has not been produced for this instrument as it has no impa
 
 [^f00008]: Footnote: By virtue of the School Admissions (Co-ordination of Admission Arrangements) (England) Regulations 2007 ([S.I.2007/194](https://www.legislation.gov.uk/uksi/2007/194)), every offer to admit a child in their area to a school in their area must be communicated to the child’s parents by the authority (such offer being communicated on behalf of the governing body of the school which is its own admission authority). Also by virtue of those Regulations, an offer to admit a child in their area to a secondary school in the area of another authority may be communicated by the authority.
 
-[^key-c488a0767ed5a4cde5af244cc9eb8742]: Commencement: Sch. 3 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+[^c-c488a0767ed5a4cde5af244cc9eb8742]: Commencement: Sch. 3 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)

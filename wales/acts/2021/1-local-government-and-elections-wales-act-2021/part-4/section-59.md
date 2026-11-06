@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Content of, and duty to have regard to, guidance under section 38 of the 2000 Act[^key-1f9075c202e72fa548e7e02574b6fef5]
+## 59. Content of, and duty to have regard to, guidance under section 38 of the 2000 Act[^c-1f9075c202e72fa548e7e02574b6fef5]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f9075c202e72fa548e7e02574b6fef5]: Commencement: S. 59 in force at 4.3.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/uksi/2021/231), [art. 2(g)](https://www.legislation.gov.uk/uksi/2021/231/article/2/g)
+[^c-1f9075c202e72fa548e7e02574b6fef5]: Commencement: S. 59 in force at 4.3.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/uksi/2021/231), [art. 2(g)](https://www.legislation.gov.uk/uksi/2021/231/article/2/g)

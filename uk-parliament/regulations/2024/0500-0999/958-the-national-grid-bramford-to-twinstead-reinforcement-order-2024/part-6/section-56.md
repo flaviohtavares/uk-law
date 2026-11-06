@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Certification of documents[^key-85d1855ed33ec9ca9fd8728026d7376e]
+## 56. Certification of documents[^c-85d1855ed33ec9ca9fd8728026d7376e]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ the reference in the plan or document concerned must be construed for the purpos
 
 ## Annotations
 
-[^key-85d1855ed33ec9ca9fd8728026d7376e]: Commencement: Art. 56 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-85d1855ed33ec9ca9fd8728026d7376e]: Commencement: Art. 56 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

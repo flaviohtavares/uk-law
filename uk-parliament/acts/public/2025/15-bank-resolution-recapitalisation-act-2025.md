@@ -36,7 +36,7 @@ An Act to make provision about recapitalisation costs in relation to the special
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Recapitalisation payments[^key-32cfe56c2c0cf7f7d84a0557e669e42a][^key-c0cb58f520c71ca6285a7ef04c3e93e5]
+## 1. Recapitalisation payments[^c-32cfe56c2c0cf7f7d84a0557e669e42a][^c-c0cb58f520c71ca6285a7ef04c3e93e5]
 
 In Part 15 of the Financial Services and Markets Act 2000 (the Financial Services Compensation Scheme), after section 214D insert—
 
@@ -66,7 +66,7 @@ In Part 15 of the Financial Services and Markets Act 2000 (the Financial Service
 >
 > (7) In this section and in section 214H, “**financial institution**” means a bank, building society or investment firm (within the meanings of Part 1 of the Banking Act 2009).
 
-## 2. Reporting[^key-a4ef16cae66db8f8c6a49140ce014b00][^key-3cc1b35d43784057778211e603170100]
+## 2. Reporting[^c-a4ef16cae66db8f8c6a49140ce014b00][^c-3cc1b35d43784057778211e603170100]
 
 In Part 15 of the Financial Services and Markets Act 2000, after section 214E (as inserted by section 1 of this Act) insert—
 
@@ -100,7 +100,7 @@ In Part 15 of the Financial Services and Markets Act 2000, after section 214E (a
 >
 > (7) The Chancellor of the Exchequer may omit from the report, and any interim report, any information which the Chancellor of the Exchequer considers it would not be in the public interest to publish.
 
-## 3. Notification to Parliamentary Committees[^key-4c33687bff743f1f4fdf185e6981f7dd][^key-58c383262b0bb47aa3ae2ec03601bad2]
+## 3. Notification to Parliamentary Committees[^c-4c33687bff743f1f4fdf185e6981f7dd][^c-58c383262b0bb47aa3ae2ec03601bad2]
 
 In Part 15 of the Financial Services and Markets Act 2000, after section 214F (as inserted by section 2 of this Act) insert—
 
@@ -123,7 +123,7 @@ In Part 15 of the Financial Services and Markets Act 2000, after section 214F (a
 > - (a) the Speaker of the House of Commons, in relation to committees of the House of Commons, and
 > - (b) the Chairman of Committees of the House of Lords, in relation to committees of the House of Lords.
 
-## 4. Reimbursement in respect of recapitalisation payments[^key-13e46122f406e460a476a4f6c15f01bd][^key-29dc6665bc011710390ec5d91da6dd33]
+## 4. Reimbursement in respect of recapitalisation payments[^c-13e46122f406e460a476a4f6c15f01bd][^c-29dc6665bc011710390ec5d91da6dd33]
 
 In Part 15 of the Financial Services and Markets Act 2000, after section 214G (as inserted by section 3 of this Act) insert—
 
@@ -140,13 +140,13 @@ In Part 15 of the Financial Services and Markets Act 2000, after section 214G (a
 > - (b) where more than one recapitalisation payment is required in relation to a financial institution, references to a recapitalisation payment are to be read as references to the sum of those payments;
 > - (c) the reference to the sale of a financial institution in paragraph (a) is to the sale of all or part of the business of the financial institution as part of, or as a result of, the achievement of a stabilisation option.
 
-## 5. Code of practice[^key-5fa68b45253b4f9ae7128f1b8d7837c7][^key-66ca5e0ed89e12b14b7ab80cc9078695]
+## 5. Code of practice[^c-5fa68b45253b4f9ae7128f1b8d7837c7][^c-66ca5e0ed89e12b14b7ab80cc9078695]
 
 In the Banking Act 2009, in section 5 (code of practice), after subsection (2) insert—
 
 > (2A) The code must include guidance on the contents of a report, and of any interim report, under section 214F of the Financial Services and Markets Act 2000 (recapitalisation payment: report).
 
-## 6. Amendments to the Financial Services and Markets Act 2000[^key-67aed1a15e97c08e416238f3ab336352][^key-1218dbcaf3beaf558326c9bea549c90f]
+## 6. Amendments to the Financial Services and Markets Act 2000[^c-67aed1a15e97c08e416238f3ab336352][^c-1218dbcaf3beaf558326c9bea549c90f]
 
 (1) The Financial Services and Markets Act 2000 is amended as follows.
 
@@ -170,7 +170,7 @@ In the Banking Act 2009, in section 5 (code of practice), after subsection (2) i
 
 (4) In section 223C (payments in error), in subsection (1), after “214B” insert “, 214E”.
 
-## 7. Amendments to the Banking Act 2009[^key-9146339cb5b225d684303ba43b691f8a][^key-d929f03244e20722f2867dbdc89d8bb4]
+## 7. Amendments to the Banking Act 2009[^c-9146339cb5b225d684303ba43b691f8a][^c-d929f03244e20722f2867dbdc89d8bb4]
 
 (1) The Banking Act 2009 is amended as follows.
 
@@ -203,7 +203,7 @@ In the Banking Act 2009, in section 5 (code of practice), after subsection (2) i
 
 > (4) This section does not apply where the Bank of England has required, or decided to require, a recapitalisation payment under section 214E of the Financial Services and Markets Act 2000.
 
-## 8. Extent, commencement and short title[^key-4373babf24f820c51a621daf51517454]
+## 8. Extent, commencement and short title[^c-4373babf24f820c51a621daf51517454]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -215,32 +215,32 @@ In the Banking Act 2009, in section 5 (code of practice), after subsection (2) i
 
 ## Annotations
 
-[^key-32cfe56c2c0cf7f7d84a0557e669e42a]: Commencement: S. 1 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2)
+[^c-32cfe56c2c0cf7f7d84a0557e669e42a]: Commencement: S. 1 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2)
 
-[^key-c0cb58f520c71ca6285a7ef04c3e93e5]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2025/15/section/1) in force at 16.7.2025 by [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/a)
+[^c-c0cb58f520c71ca6285a7ef04c3e93e5]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2025/15/section/1) in force at 16.7.2025 by [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/a)
 
-[^key-a4ef16cae66db8f8c6a49140ce014b00]: Commencement: S. 2 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2)
+[^c-a4ef16cae66db8f8c6a49140ce014b00]: Commencement: S. 2 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2)
 
-[^key-3cc1b35d43784057778211e603170100]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/15/section/2) in force at 16.7.2025 by [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/b)
+[^c-3cc1b35d43784057778211e603170100]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/15/section/2) in force at 16.7.2025 by [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/b)
 
-[^key-4c33687bff743f1f4fdf185e6981f7dd]: Commencement: S. 3 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2)
+[^c-4c33687bff743f1f4fdf185e6981f7dd]: Commencement: S. 3 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2)
 
-[^key-58c383262b0bb47aa3ae2ec03601bad2]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/15/section/3) in force at 16.7.2025 by [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/c)
+[^c-58c383262b0bb47aa3ae2ec03601bad2]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/15/section/3) in force at 16.7.2025 by [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/c)
 
-[^key-13e46122f406e460a476a4f6c15f01bd]: Commencement: S. 4 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2)
+[^c-13e46122f406e460a476a4f6c15f01bd]: Commencement: S. 4 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2)
 
-[^key-29dc6665bc011710390ec5d91da6dd33]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2025/15/section/4) in force at 16.7.2025 by [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/d)
+[^c-29dc6665bc011710390ec5d91da6dd33]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2025/15/section/4) in force at 16.7.2025 by [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/d)
 
-[^key-5fa68b45253b4f9ae7128f1b8d7837c7]: Commencement: S. 5 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2)
+[^c-5fa68b45253b4f9ae7128f1b8d7837c7]: Commencement: S. 5 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2)
 
-[^key-66ca5e0ed89e12b14b7ab80cc9078695]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/15/section/5) in force at 16.7.2025 by [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/e)
+[^c-66ca5e0ed89e12b14b7ab80cc9078695]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/15/section/5) in force at 16.7.2025 by [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/e)
 
-[^key-67aed1a15e97c08e416238f3ab336352]: Commencement: S. 6 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2)
+[^c-67aed1a15e97c08e416238f3ab336352]: Commencement: S. 6 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2)
 
-[^key-1218dbcaf3beaf558326c9bea549c90f]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2025/15/section/6) in force at 16.7.2025 by [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/f)
+[^c-1218dbcaf3beaf558326c9bea549c90f]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2025/15/section/6) in force at 16.7.2025 by [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/f)
 
-[^key-9146339cb5b225d684303ba43b691f8a]: Commencement: S. 7 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2)
+[^c-9146339cb5b225d684303ba43b691f8a]: Commencement: S. 7 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2)
 
-[^key-d929f03244e20722f2867dbdc89d8bb4]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2025/15/section/7) in force at 16.7.2025 by [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/g)
+[^c-d929f03244e20722f2867dbdc89d8bb4]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2025/15/section/7) in force at 16.7.2025 by [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/g)
 
-[^key-4373babf24f820c51a621daf51517454]: Commencement: S. 8 in force at Royal Assent
+[^c-4373babf24f820c51a621daf51517454]: Commencement: S. 8 in force at Royal Assent

@@ -22,11 +22,11 @@ summary: ''
 
 Article 29
 
-### 1. Merchant Shipping (Maintenance of Seaman’s Dependants) Regulations 1972[^key-e9a71c2dcb0fb0904ab2c471041bf3c6]
+### 1. Merchant Shipping (Maintenance of Seaman’s Dependants) Regulations 1972[^c-e9a71c2dcb0fb0904ab2c471041bf3c6]
 
 In the Merchant Shipping (Maintenance of Seamen’s Dependants) Regulations 1972[^f00141], in regulation 4(a) (expenses in respect of which a retention notice may be served), after “spouse” insert “, civil partner”.
 
-### 2. Social Security Benefit (Dependency) Regulations 1977[^key-502ace69afbc17f13451090b718678c2]
+### 2. Social Security Benefit (Dependency) Regulations 1977[^c-502ace69afbc17f13451090b718678c2]
 
 In paragraph 2C of Schedule 2 to the Social Security Benefit (Dependency) Regulations 1977[^f00142] (interpretation), for the definition of “couple” substitute—
 
@@ -36,7 +36,7 @@ In paragraph 2C of Schedule 2 to the Social Security Benefit (Dependency) Regula
 
 .
 
-### 3. Social Security (Graduated Retirement Benefit) (No. 2) Regulations 1978[^key-7ef6cc2695db291fe2184f6ff38bbde3]
+### 3. Social Security (Graduated Retirement Benefit) (No. 2) Regulations 1978[^c-7ef6cc2695db291fe2184f6ff38bbde3]
 
 In regulation 3(2) of the Social Security (Graduated Retirement Benefit) (No. 2) Regulations 1978[^f00143] (continuation in force of sections 36, 37 and 118(1) of the 1965 Act)—
 
@@ -49,7 +49,7 @@ In regulation 3(2) of the Social Security (Graduated Retirement Benefit) (No. 2)
 
   .
 
-### 4. Merchant Shipping (Returns of Births and Deaths) Regulations 1979[^key-fb21fb3ac803216aa84c14a952d39181]
+### 4. Merchant Shipping (Returns of Births and Deaths) Regulations 1979[^c-fb21fb3ac803216aa84c14a952d39181]
 
 In regulation 11 of the Merchant Shipping (Returns of Births and Deaths) Regulations 1979[^f00144] (rules for ascertaining appropriate Registrar General)—
 
@@ -62,7 +62,7 @@ In regulation 11 of the Merchant Shipping (Returns of Births and Deaths) Regulat
 
   .
 
-### 5. Income Support (General) Regulations 1987[^key-81aba149d5e9cb30fc2926a2f97c2f2a]
+### 5. Income Support (General) Regulations 1987[^c-81aba149d5e9cb30fc2926a2f97c2f2a]
 
 In regulation 2(1) of the Income Support (General) Regulations 1987[^f00145] (interpretation), for the definition of “couple” substitute—
 
@@ -72,7 +72,7 @@ In regulation 2(1) of the Income Support (General) Regulations 1987[^f00145] (in
 
 .
 
-### 6. Social Security (Claims and Payments) Regulations 1987[^key-f16998f74ff8a34d627de9da6736cdd6]
+### 6. Social Security (Claims and Payments) Regulations 1987[^c-f16998f74ff8a34d627de9da6736cdd6]
 
 In regulation 2(1) of the Social Security (Claims and Payments) Regulations 1987[^f00146] (interpretation), for the definition of “couple” substitute—
 
@@ -82,11 +82,11 @@ In regulation 2(1) of the Social Security (Claims and Payments) Regulations 1987
 
 .
 
-### 7. Judicial Pensions (Preservation of Benefits) Order 1988[^key-0bec6718d603e59f572b1139c2382c4d]
+### 7. Judicial Pensions (Preservation of Benefits) Order 1988[^c-0bec6718d603e59f572b1139c2382c4d]
 
 In article 9 of the Judicial Pensions (Preservation of Benefits) Order 1988[^f00147] (inalienability), for “widow” substitute “surviving spouse, surviving civil partner”.
 
-### 8. Judicial Pensions (Requisite Benefits) Order 1988[^key-837039515e2dbb237efe93cbdb23ebcc]
+### 8. Judicial Pensions (Requisite Benefits) Order 1988[^c-837039515e2dbb237efe93cbdb23ebcc]
 
 (1) The Judicial Pensions (Requisite Benefits) Order 1988[^f00148] is amended as follows.
 
@@ -141,7 +141,7 @@ In article 9 of the Judicial Pensions (Preservation of Benefits) Order 1988[^f00
 
 .
 
-### 9. Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^key-2b71b5617be2f742ed1602ad99d9c8bc]
+### 9. Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^c-2b71b5617be2f742ed1602ad99d9c8bc]
 
 In regulation 1(2) of the Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^f00149] (interpretation), for the definition of “couple” substitute—
 
@@ -151,7 +151,7 @@ In regulation 1(2) of the Child Support (Maintenance Assessments and Special Cas
 
 .
 
-### 10. Child Support (Collection and Enforcement) Regulations 1992[^key-ef54e7603ea80fafcdd5107d939bf3b0]
+### 10. Child Support (Collection and Enforcement) Regulations 1992[^c-ef54e7603ea80fafcdd5107d939bf3b0]
 
 In regulation 3(9) of the Child Support (Collection and Enforcement) Regulations 1992[^f00150] (methods of payment), for the definition of “couple” substitute—
 
@@ -161,7 +161,7 @@ In regulation 3(9) of the Child Support (Collection and Enforcement) Regulations
 
 .
 
-### 11. Jobseeker’s Allowance Regulations 1996[^key-bd02598f28daace77a88646e5de10ea8]
+### 11. Jobseeker’s Allowance Regulations 1996[^c-bd02598f28daace77a88646e5de10ea8]
 
 In regulation 1(3) of the Jobseeker’s Allowance Regulations 1996[^f00151] (interpretation), for the definition of “couple” substitute—
 
@@ -171,7 +171,7 @@ In regulation 1(3) of the Jobseeker’s Allowance Regulations 1996[^f00151] (int
 
 .
 
-### 12. Occupational Pension Schemes (Contracting-out) Regulations 1996[^key-0407c794028ca3f82854f5aed0f748e6]
+### 12. Occupational Pension Schemes (Contracting-out) Regulations 1996[^c-0407c794028ca3f82854f5aed0f748e6]
 
 (1) The Occupational Pension Schemes (Contracting-out) Regulations 1996[^f00152] are amended as follows.
 
@@ -256,7 +256,7 @@ In regulation 1(3) of the Jobseeker’s Allowance Regulations 1996[^f00151] (int
 
   .
 
-### 13. Contracting-out (Transfer and Transfer Payment) Regulations 1996[^key-0a841b5942ab0723c8a309a8f20d6c4a]
+### 13. Contracting-out (Transfer and Transfer Payment) Regulations 1996[^c-0a841b5942ab0723c8a309a8f20d6c4a]
 
 (1) Schedule 2 to the Contracting-out (Transfer and Transfer Payment) Regulations 1996[^f00159] (modifications of Part 3 of the 1993 Act) is amended as follows.
 
@@ -264,7 +264,7 @@ In regulation 1(3) of the Jobseeker’s Allowance Regulations 1996[^f00151] (int
 
 (3) In paragraph 6, in the substituted definition of “guaranteed minimum pension” for “or widower’s” substitute “, widower’s or surviving same sex spouse’s”.
 
-### 14. Social Security Benefit (Computation of Earnings) Regulations 1996[^key-d8a4323bce9edc6ee65b4b1b63c30a7f]
+### 14. Social Security Benefit (Computation of Earnings) Regulations 1996[^c-d8a4323bce9edc6ee65b4b1b63c30a7f]
 
 In regulation 2(1) of the Social Security Benefit (Computation of Earnings) Regulations 1996[^f00160] (interpretation), for the definition of “couple” substitute—
 
@@ -274,7 +274,7 @@ In regulation 2(1) of the Social Security Benefit (Computation of Earnings) Regu
 
 .
 
-### 15. Social Security (Child Maintenance Bonus) Regulations 1996[^key-dc8f45d43d36c9b90837854f329ffe43]
+### 15. Social Security (Child Maintenance Bonus) Regulations 1996[^c-dc8f45d43d36c9b90837854f329ffe43]
 
 In regulation 1(2) of the Social Security (Child Maintenance Bonus) Regulations 1996[^f00161] (interpretation), for the definition of “couple” substitute—
 
@@ -284,7 +284,7 @@ In regulation 1(2) of the Social Security (Child Maintenance Bonus) Regulations 
 
 .
 
-### 16. Occupational Pension Schemes (Discharge of Liability) Regulations 1997[^key-bee5ace21c89c3d909a9c95ca7df2b6c]
+### 16. Occupational Pension Schemes (Discharge of Liability) Regulations 1997[^c-bee5ace21c89c3d909a9c95ca7df2b6c]
 
 (1) The Occupational Pension Schemes (Discharge of Liability) Regulations 1997[^f00162] are amended as follows.
 
@@ -309,11 +309,11 @@ In regulation 1(2) of the Social Security (Child Maintenance Bonus) Regulations 
 
   .
 
-### 17. Working Time Regulations 1998[^key-42ab0ede0e3312d574655583fcd4c8a0]
+### 17. Working Time Regulations 1998[^c-42ab0ede0e3312d574655583fcd4c8a0]
 
 In Schedule 3 (enforcement) to the Working Time Regulations 1998[^f00163], in paragraph 2(3), for “husband or wife” substitute “spouse or civil partner”.
 
-### 18. Social Security and Child Support (Decisions and Appeals) Regulations 1999[^key-a11568cbf6484bac5bc1e8c8b1d0bc60]
+### 18. Social Security and Child Support (Decisions and Appeals) Regulations 1999[^c-a11568cbf6484bac5bc1e8c8b1d0bc60]
 
 In regulation 1(3) of the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^f00164] (interpretation), for the definition of “couple” substitute—
 
@@ -323,11 +323,11 @@ In regulation 1(3) of the Social Security and Child Support (Decisions and Appea
 
 .
 
-### 19. Social Fund Winter Fuel Payment Regulations 2000[^key-6f411a080a0514f27345a392b65d4971]
+### 19. Social Fund Winter Fuel Payment Regulations 2000[^c-6f411a080a0514f27345a392b65d4971]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Child Support (Maintenance Calculations and Special Cases) Regulations 2001[^key-8571a3f65b403a32df1a3158894626af]
+### 20. Child Support (Maintenance Calculations and Special Cases) Regulations 2001[^c-8571a3f65b403a32df1a3158894626af]
 
 In regulation 1(2) of the Child Support (Maintenance Calculations and Special Cases) Regulations 2000[^f00166] (interpretation), for the definition of “couple” substitute—
 
@@ -337,7 +337,7 @@ In regulation 1(2) of the Child Support (Maintenance Calculations and Special Ca
 
 .
 
-### 21. Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001[^key-1c09ca7a292d66bec94612c804dee2d5]
+### 21. Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001[^c-1c09ca7a292d66bec94612c804dee2d5]
 
 In regulation 1(2) of the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001[^f00167] (interpretation), for the definition of “couple” substitute—
 
@@ -347,7 +347,7 @@ In regulation 1(2) of the Housing Benefit and Council Tax Benefit (Decisions and
 
 .
 
-### 22. Open-Ended Investment Companies Regulations 2001[^key-f16781f4b778ad439ee2a528e54f81bc]
+### 22. Open-Ended Investment Companies Regulations 2001[^c-f16781f4b778ad439ee2a528e54f81bc]
 
 In regulation 13 of the Open-Ended Investment Companies Regulations 2001[^f00168] (particulars of directors), for paragraph (4)(b)(iii) substitute—
 
@@ -355,7 +355,7 @@ In regulation 13 of the Open-Ended Investment Companies Regulations 2001[^f00168
 
 .
 
-### 23. State Pension Credit Regulations 2002[^key-d487b7311ab6d1fd406b13b69a14194b]
+### 23. State Pension Credit Regulations 2002[^c-d487b7311ab6d1fd406b13b69a14194b]
 
 In regulation 1(2) of the State Pension Credit Regulations 2002[^f00169] (interpretation), for the definition of “couple” substitute—
 
@@ -365,7 +365,7 @@ In regulation 1(2) of the State Pension Credit Regulations 2002[^f00169] (interp
 
 .
 
-### 24. Pension Protection Fund (Compensation) Regulations 2005[^key-d01d8ad4ecdf7835a24c4496ef5fddc0]
+### 24. Pension Protection Fund (Compensation) Regulations 2005[^c-d01d8ad4ecdf7835a24c4496ef5fddc0]
 
 In regulation 1(2) of the Pension Protection Fund (Compensation) Regulations 2005[^f00170] (interpretation), for the definition of “relevant partner” substitute—
 
@@ -373,7 +373,7 @@ In regulation 1(2) of the Pension Protection Fund (Compensation) Regulations 200
 
 .
 
-### 25. Financial Assistance Scheme Regulations 2005[^key-e46d6ebd7adf5532673f9ee7539a1f16]
+### 25. Financial Assistance Scheme Regulations 2005[^c-e46d6ebd7adf5532673f9ee7539a1f16]
 
 In regulation 2(1) of the Financial Assistance Scheme Regulations 2005[^f00171] (interpretation), for the definition of “partner” substitute—
 
@@ -381,7 +381,7 @@ In regulation 2(1) of the Financial Assistance Scheme Regulations 2005[^f00171] 
 
 .
 
-### 26. Social Fund Maternity and Funeral Expenses (General) Regulations 2005[^key-b899fd228cd12298da56c578533840f0]
+### 26. Social Fund Maternity and Funeral Expenses (General) Regulations 2005[^c-b899fd228cd12298da56c578533840f0]
 
 In regulation 3(1) of the Social Fund Maternity and Funeral Expenses (General) Regulations 2005[^f00172] (interpretation), for the definition of “couple” substitute—
 
@@ -391,7 +391,7 @@ In regulation 3(1) of the Social Fund Maternity and Funeral Expenses (General) R
 
 .
 
-### 27. Housing Benefit Regulations 2006[^key-698168c55a90f3d40b0d1a5fb52c6b7b]
+### 27. Housing Benefit Regulations 2006[^c-698168c55a90f3d40b0d1a5fb52c6b7b]
 
 In regulation 2(1) of the Housing Benefit Regulations 2006[^f00173] (interpretation), for the definition of “couple” substitute—
 
@@ -401,7 +401,7 @@ In regulation 2(1) of the Housing Benefit Regulations 2006[^f00173] (interpretat
 
 .
 
-### 28. Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-045df0134b576c3a80d8cb41288a4bfa]
+### 28. Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-045df0134b576c3a80d8cb41288a4bfa]
 
 In regulation 2(1) of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00174] (interpretation), for the definition of “couple” substitute—
 
@@ -411,7 +411,7 @@ In regulation 2(1) of the Housing Benefit (Persons who have attained the qualify
 
 .
 
-### 29. Pension Protection Fund (General and Miscellaneous Amendments) Regulations 2006[^key-bae9bdf4c1dff4e5bfaad260c1615bef]
+### 29. Pension Protection Fund (General and Miscellaneous Amendments) Regulations 2006[^c-bae9bdf4c1dff4e5bfaad260c1615bef]
 
 In regulation 1(2) of the Pension Protection Fund (General and Miscellaneous Amendments) Regulations 2006[^f00175] (interpretation), for the definition of “relevant partner” substitute—
 
@@ -419,7 +419,7 @@ In regulation 1(2) of the Pension Protection Fund (General and Miscellaneous Ame
 
 .
 
-### 30. Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 2006[^key-156964f9a2915eecc771d6d27354918d]
+### 30. Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 2006[^c-156964f9a2915eecc771d6d27354918d]
 
 In Part 2 of Schedule 6 to the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006[^f00176] (interpretation)—
 
@@ -428,7 +428,7 @@ In Part 2 of Schedule 6 to the Naval, Military and Air Forces etc. (Disablement 
   - (ii) after “who is not married to,” insert “or in a civil partnership with,”, and
 - (b) in the definition of “dependant living as a civil partner”, after “who has not” insert “married or”.
 
-### 31. Occupational Pension Schemes (Modification of Schemes) Regulations 2006[^key-b114b60e505073c16ec3057020c24353]
+### 31. Occupational Pension Schemes (Modification of Schemes) Regulations 2006[^c-b114b60e505073c16ec3057020c24353]
 
 (1) The Occupational Pension Schemes (Modification of Schemes) Regulations 2006[^f00177] are amended as follows.
 
@@ -462,7 +462,7 @@ In Part 2 of Schedule 6 to the Naval, Military and Air Forces etc. (Disablement 
 
 .
 
-### 32. Employment and Support Allowance Regulations 2008[^key-23a6a8a69948d2e83c02ece9e3167d92]
+### 32. Employment and Support Allowance Regulations 2008[^c-23a6a8a69948d2e83c02ece9e3167d92]
 
 In regulation 2(1) of the Employment and Support Allowance Regulations 2008[^f00178] (interpretation), for the definition of “couple” substitute—
 
@@ -472,7 +472,7 @@ In regulation 2(1) of the Employment and Support Allowance Regulations 2008[^f00
 
 .
 
-### 33. Reserve Forces Non Regular Permanent Staff (Pension and Attributable Benefits Schemes) Regulations 2011[^key-85e426c113773dc03623fd7d1c6b8592]
+### 33. Reserve Forces Non Regular Permanent Staff (Pension and Attributable Benefits Schemes) Regulations 2011[^c-85e426c113773dc03623fd7d1c6b8592]
 
 In Schedule 1 to the Reserve Forces Non Regular Permanent Staff (Pension and Attributable Benefits Schemes) Regulations 2011[^f00179] (non regular permanent staff pension scheme), in paragraph D.8 (suspension and restoration of pensions), for paragraph (4) substitute—
 
@@ -480,7 +480,7 @@ In Schedule 1 to the Reserve Forces Non Regular Permanent Staff (Pension and Att
 
 .
 
-### 34. Employment and Support Allowance Regulations 2013[^key-6a595200f82b087b1e10405dbed85344]
+### 34. Employment and Support Allowance Regulations 2013[^c-6a595200f82b087b1e10405dbed85344]
 
 In regulation 2 of the Employment and Support Allowance Regulations 2013[^f00180] (interpretation), for the definition of “couple” substitute—
 
@@ -490,7 +490,7 @@ In regulation 2 of the Employment and Support Allowance Regulations 2013[^f00180
 
 .
 
-### 35. Pensions Increase (Review) Orders 1991 to 2009 and 2011 to 2013[^key-a649e209c361100e193b91579302bc16]
+### 35. Pensions Increase (Review) Orders 1991 to 2009 and 2011 to 2013[^c-a649e209c361100e193b91579302bc16]
 
 In each of—
 
@@ -525,51 +525,51 @@ for article 6 (reductions in respect of guaranteed minimum pensions) substitute�
 
 ## Annotations
 
-[^key-e9a71c2dcb0fb0904ab2c471041bf3c6]: Commencement: Sch. 6 para. 1 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-e9a71c2dcb0fb0904ab2c471041bf3c6]: Commencement: Sch. 6 para. 1 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00141]: Footnote: [S.I. 1972/1635](https://www.legislation.gov.uk/uksi/1972/1635); regulation 4(a) was substituted by [S.I. 1972/1875](https://www.legislation.gov.uk/uksi/1972/1875) and amended by [S.I. 1988/479](https://www.legislation.gov.uk/uksi/1988/479) and [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-502ace69afbc17f13451090b718678c2]: Commencement: Sch. 6 para. 2 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-502ace69afbc17f13451090b718678c2]: Commencement: Sch. 6 para. 2 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00142]: Footnote: [S.I. 1977/343](https://www.legislation.gov.uk/uksi/1977/343); paragraph 2C was inserted by [S.I. 1984/1699](https://www.legislation.gov.uk/uksi/1984/1699), and the definition of “couple” was inserted by [S.I. 2005/2877](https://www.legislation.gov.uk/uksi/2005/2877) and substituted by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-7ef6cc2695db291fe2184f6ff38bbde3]: Commencement: Sch. 6 para. 3 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-7ef6cc2695db291fe2184f6ff38bbde3]: Commencement: Sch. 6 para. 3 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00143]: Footnote: [S.I. 1978/393](https://www.legislation.gov.uk/uksi/1978/393). Regulation 3(2) was amended by regulation 2(1) and (3) of [S.I. 2005/3078](https://www.legislation.gov.uk/uksi/2005/3078).
 
-[^key-fb21fb3ac803216aa84c14a952d39181]: Commencement: Sch. 6 para. 4 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-fb21fb3ac803216aa84c14a952d39181]: Commencement: Sch. 6 para. 4 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00144]: Footnote: [S.I. 1979/1577](https://www.legislation.gov.uk/uksi/1979/1577); paragraph 2 was inserted by [S.I. 2009/1892](https://www.legislation.gov.uk/uksi/2009/1892) and amended by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-81aba149d5e9cb30fc2926a2f97c2f2a]: Commencement: Sch. 6 para. 5 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-81aba149d5e9cb30fc2926a2f97c2f2a]: Commencement: Sch. 6 para. 5 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00145]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); the definition of “couple” was substituted by [S.I. 2005/2877](https://www.legislation.gov.uk/uksi/2005/2877) and by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-f16998f74ff8a34d627de9da6736cdd6]: Commencement: Sch. 6 para. 6 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-f16998f74ff8a34d627de9da6736cdd6]: Commencement: Sch. 6 para. 6 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00146]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968); the definition of “couple” was inserted by [S.I. 2005/2877](https://www.legislation.gov.uk/uksi/2005/2877) and substituted by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). Regulation 2 has been revoked for certain purposes by [S.I. 2003/492](https://www.legislation.gov.uk/uksi/2003/492). There are other amending instruments but none is relevant.
 
-[^key-0bec6718d603e59f572b1139c2382c4d]: Commencement: Sch. 6 para. 7 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-0bec6718d603e59f572b1139c2382c4d]: Commencement: Sch. 6 para. 7 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00147]: Footnote: [S.I. 1988/1418](https://www.legislation.gov.uk/uksi/1988/1418); article 9 was amended by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-837039515e2dbb237efe93cbdb23ebcc]: Commencement: Sch. 6 para. 8 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-837039515e2dbb237efe93cbdb23ebcc]: Commencement: Sch. 6 para. 8 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00148]: Footnote: [S.I. 1988/1420](https://www.legislation.gov.uk/uksi/1988/1420); article 10 was amended by [S.I. 2005/3325](https://www.legislation.gov.uk/uksi/2005/3325). Article 12 was amended by [S.I. 1995/2647](https://www.legislation.gov.uk/uksi/1995/2647). Articles 4, 7, 9, 10 and 11 to 13 were amended by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-2b71b5617be2f742ed1602ad99d9c8bc]: Commencement: Sch. 6 para. 9 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-2b71b5617be2f742ed1602ad99d9c8bc]: Commencement: Sch. 6 para. 9 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00149]: Footnote: [S.I. 1992/1815](https://www.legislation.gov.uk/uksi/1992/1815); the definition of “couple” was inserted by [S.I. 1993/913](https://www.legislation.gov.uk/uksi/1993/913), and substituted by [S.I. 2005/2877](https://www.legislation.gov.uk/uksi/2005/2877) and by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). These Regulations have been revoked for certain purposes by [S.I. 2001/155](https://www.legislation.gov.uk/uksi/2001/155) and [S.I. 2012/2785](https://www.legislation.gov.uk/uksi/2012/2785) but are subject to saving provisions in [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947). There are other amendments to the Regulations but none is relevant.
 
-[^key-ef54e7603ea80fafcdd5107d939bf3b0]: Commencement: Sch. 6 para. 10 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-ef54e7603ea80fafcdd5107d939bf3b0]: Commencement: Sch. 6 para. 10 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00150]: Footnote: [S.I. 1992/1989](https://www.legislation.gov.uk/uksi/1992/1989); paragraphs (3) to (9) of regulation 3 were inserted by [S.I. 2008/2544](https://www.legislation.gov.uk/uksi/2008/2544) and amended by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-bd02598f28daace77a88646e5de10ea8]: Commencement: Sch. 6 para. 11 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-bd02598f28daace77a88646e5de10ea8]: Commencement: Sch. 6 para. 11 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00151]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207); the definition of “couple” was substituted by [S.I. 2005/2877](https://www.legislation.gov.uk/uksi/2005/2877) and [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-0407c794028ca3f82854f5aed0f748e6]: Commencement: Sch. 6 para. 12 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-0407c794028ca3f82854f5aed0f748e6]: Commencement: Sch. 6 para. 12 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00152]: Footnote: [S.I. 1996/1172](https://www.legislation.gov.uk/uksi/1996/1172).
 
@@ -585,93 +585,93 @@ for article 6 (reductions in respect of guaranteed minimum pensions) substitute�
 
 [^f00158]: Footnote: Regulation 69B was inserted by [S.I. 2009/846](https://www.legislation.gov.uk/uksi/2009/846) and amended by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107).
 
-[^key-0a841b5942ab0723c8a309a8f20d6c4a]: Commencement: Sch. 6 para. 13 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-0a841b5942ab0723c8a309a8f20d6c4a]: Commencement: Sch. 6 para. 13 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00159]: Footnote: [S.I. 1996/1462](https://www.legislation.gov.uk/uksi/1996/1462), Schedule 2 amended by [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786) and [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107); there are other amending instruments but none is relevant.
 
-[^key-d8a4323bce9edc6ee65b4b1b63c30a7f]: Commencement: Sch. 6 para. 14 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-d8a4323bce9edc6ee65b4b1b63c30a7f]: Commencement: Sch. 6 para. 14 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00160]: Footnote: [S.I. 1996/2745](https://www.legislation.gov.uk/uksi/1996/2745); the definition of “couple” was substituted by [S.I. 2005/2919](https://www.legislation.gov.uk/uksi/2005/2919) and [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-dc8f45d43d36c9b90837854f329ffe43]: Commencement: Sch. 6 para. 15 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-dc8f45d43d36c9b90837854f329ffe43]: Commencement: Sch. 6 para. 15 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00161]: Footnote: [S.I. 1996/3195](https://www.legislation.gov.uk/uksi/1996/3195); the definition of “couple” was substituted by [S.I. 2005/2877](https://www.legislation.gov.uk/uksi/2005/2877) and [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-bee5ace21c89c3d909a9c95ca7df2b6c]: Commencement: Sch. 6 para. 16 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-bee5ace21c89c3d909a9c95ca7df2b6c]: Commencement: Sch. 6 para. 16 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00162]: Footnote: [S.I. 1997/784](https://www.legislation.gov.uk/uksi/1997/784); Regulations 1 and 11 were amended by [S.I. 2005/2050](https://www.legislation.gov.uk/uksi/2005/2050) and [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-42ab0ede0e3312d574655583fcd4c8a0]: Commencement: Sch. 6 para. 17 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-42ab0ede0e3312d574655583fcd4c8a0]: Commencement: Sch. 6 para. 17 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00163]: Footnote: [S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833); Schedule 3 was inserted by [S.I. 2003/1684](https://www.legislation.gov.uk/uksi/2003/1684) and amended by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-a11568cbf6484bac5bc1e8c8b1d0bc60]: Commencement: Sch. 6 para. 18 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-a11568cbf6484bac5bc1e8c8b1d0bc60]: Commencement: Sch. 6 para. 18 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00164]: Footnote: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991); the definition of “couple” was inserted by [S.I. 2005/2878](https://www.legislation.gov.uk/uksi/2005/2878) and substituted by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-6f411a080a0514f27345a392b65d4971]: Textual amendment: [Sch. 6 para. 19](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/19) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
+[^c-6f411a080a0514f27345a392b65d4971]: Textual amendment: [Sch. 6 para. 19](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/19) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
 
-[^key-8571a3f65b403a32df1a3158894626af]: Commencement: Sch. 6 para. 20 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-8571a3f65b403a32df1a3158894626af]: Commencement: Sch. 6 para. 20 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00166]: Footnote: [S.I. 2001/155](https://www.legislation.gov.uk/uksi/2001/155); the definition of “couple” was substituted by [S.I. 2005/2877](https://www.legislation.gov.uk/uksi/2005/2877) and by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). These Regulations have been revoked by [S.I. 2012/2785](https://www.legislation.gov.uk/uksi/2012/2785) but are subject to saving provisions in [S.I. 2013/2878](https://www.legislation.gov.uk/uksi/2013/2878). There are other amending instruments but none is relevant.
 
-[^key-1c09ca7a292d66bec94612c804dee2d5]: Commencement: Sch. 6 para. 21 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-1c09ca7a292d66bec94612c804dee2d5]: Commencement: Sch. 6 para. 21 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00167]: Footnote: [S.I. 2001/1002](https://www.legislation.gov.uk/uksi/2001/1002); the definition of “couple” was inserted by [S.I. 2005/2878](https://www.legislation.gov.uk/uksi/2005/2878) and substituted by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-f16781f4b778ad439ee2a528e54f81bc]: Commencement: Sch. 6 para. 22 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-f16781f4b778ad439ee2a528e54f81bc]: Commencement: Sch. 6 para. 22 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00168]: Footnote: [S.I. 2001/1228](https://www.legislation.gov.uk/uksi/2001/1228); regulation 13(4) was amended by [S.I. 2011/1265](https://www.legislation.gov.uk/uksi/2011/1265) and [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-d487b7311ab6d1fd406b13b69a14194b]: Commencement: Sch. 6 para. 23 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-d487b7311ab6d1fd406b13b69a14194b]: Commencement: Sch. 6 para. 23 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00169]: Footnote: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792); the definition of “couple” was inserted by [S.I. 2005/2877](https://www.legislation.gov.uk/uksi/2005/2877) and substituted by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-d01d8ad4ecdf7835a24c4496ef5fddc0]: Commencement: Sch. 6 para. 24 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-d01d8ad4ecdf7835a24c4496ef5fddc0]: Commencement: Sch. 6 para. 24 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00170]: Footnote: [S.I. 2005/670](https://www.legislation.gov.uk/uksi/2005/670); the definition of “relevant partner” was substituted by [S.I. 2006/580](https://www.legislation.gov.uk/uksi/2006/580) and by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-e46d6ebd7adf5532673f9ee7539a1f16]: Commencement: Sch. 6 para. 25 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-e46d6ebd7adf5532673f9ee7539a1f16]: Commencement: Sch. 6 para. 25 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00171]: Footnote: [S.I. 2005/1986](https://www.legislation.gov.uk/uksi/2005/1986); the definition of “partner” was inserted by [S.I. 2009/1851](https://www.legislation.gov.uk/uksi/2009/1851) and substituted by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-b899fd228cd12298da56c578533840f0]: Commencement: Sch. 6 para. 26 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-b899fd228cd12298da56c578533840f0]: Commencement: Sch. 6 para. 26 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00172]: Footnote: [S.I. 2005/3061](https://www.legislation.gov.uk/uksi/2005/3061); the definition of “couple” was substituted by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-698168c55a90f3d40b0d1a5fb52c6b7b]: Commencement: Sch. 6 para. 27 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-698168c55a90f3d40b0d1a5fb52c6b7b]: Commencement: Sch. 6 para. 27 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00173]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213); the definition of “couple” was substituted by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107); There are other amending instruments but none is relevant.
 
-[^key-045df0134b576c3a80d8cb41288a4bfa]: Commencement: Sch. 6 para. 28 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-045df0134b576c3a80d8cb41288a4bfa]: Commencement: Sch. 6 para. 28 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00174]: Footnote: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214); the definition of “couple” was substituted by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107); There are other amending instruments but none is relevant.
 
-[^key-bae9bdf4c1dff4e5bfaad260c1615bef]: Commencement: Sch. 6 para. 29 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-bae9bdf4c1dff4e5bfaad260c1615bef]: Commencement: Sch. 6 para. 29 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00175]: Footnote: [S.I. 2006/580](https://www.legislation.gov.uk/uksi/2006/580); the definition of “relevant partner” was substituted by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-156964f9a2915eecc771d6d27354918d]: Commencement: Sch. 6 para. 30 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-156964f9a2915eecc771d6d27354918d]: Commencement: Sch. 6 para. 30 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00176]: Footnote: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606); the definition of “dependant living as a spouse” was amended by [S.I. 2006/1455](https://www.legislation.gov.uk/uksi/2006/1455) and substituted by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). The definition of “dependant living as a civil partner” was amended by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107).
 
-[^key-b114b60e505073c16ec3057020c24353]: Commencement: Sch. 6 para. 31 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-b114b60e505073c16ec3057020c24353]: Commencement: Sch. 6 para. 31 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00177]: Footnote: [S.I. 2006/759](https://www.legislation.gov.uk/uksi/2006/759); Regulation 3 was amended by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-23a6a8a69948d2e83c02ece9e3167d92]: Commencement: Sch. 6 para. 32 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-23a6a8a69948d2e83c02ece9e3167d92]: Commencement: Sch. 6 para. 32 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00178]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794); the definition of “couple” was substituted by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-85e426c113773dc03623fd7d1c6b8592]: Commencement: Sch. 6 para. 33 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-85e426c113773dc03623fd7d1c6b8592]: Commencement: Sch. 6 para. 33 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00179]: Footnote: These Regulations are not statutory instruments. Copies can be found at http://www.gov.uk/government/publications/reserve-forces-pension-scheme-regulations. Hard copies can be obtained from CDP-Remuneration, Armed Forces Pensions, Level 6 Zone M, Ministry of Defence, Main Building, London SW1A 2HB. Paragraph (4) was amended by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107).
 
-[^key-6a595200f82b087b1e10405dbed85344]: Commencement: Sch. 6 para. 34 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-6a595200f82b087b1e10405dbed85344]: Commencement: Sch. 6 para. 34 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00180]: Footnote: [S.I. 2013/379](https://www.legislation.gov.uk/uksi/2013/379); the definition of “couple” was substituted by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107). There are other amending instruments but none is relevant.
 
-[^key-a649e209c361100e193b91579302bc16]: Commencement: Sch. 6 para. 35 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-a649e209c361100e193b91579302bc16]: Commencement: Sch. 6 para. 35 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00181]: Footnote: [S.I. 1991/684](https://www.legislation.gov.uk/uksi/1991/684); article 6 was substituted by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107).
 

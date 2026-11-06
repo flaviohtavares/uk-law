@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Supply of information by rent officers[^key-3b6a51b7b07557240f44402590dbf26c]
+## 36. Supply of information by rent officers[^c-3b6a51b7b07557240f44402590dbf26c]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ After section 122E of the Administration Act (supply of information between auth
 
 ## Annotations
 
-[^key-3b6a51b7b07557240f44402590dbf26c]: Commencement: S. 36 in force at 27.3.2009 by [S.I. 2009/775](https://www.legislation.gov.uk/uksi/2009/775), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/775/article/2/a)
+[^c-3b6a51b7b07557240f44402590dbf26c]: Commencement: S. 36 in force at 27.3.2009 by [S.I. 2009/775](https://www.legislation.gov.uk/uksi/2009/775), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/775/article/2/a)

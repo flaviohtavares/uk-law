@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Exemption from certain offences in respect of acts done for scientific and other purposes: salmon[^key-55db74affad48a123d46b53e16c4266d]
+## 27. Exemption from certain offences in respect of acts done for scientific and other purposes: salmon[^c-55db74affad48a123d46b53e16c4266d]
 
 *Extent: S*
 
@@ -32,7 +32,7 @@ summary: ''
 
   for the act or omission.
 
-(1A)[^key-3686e657a84c1deb97355ff0b974ab88] In granting permission under subsection (1) above, a district salmon fishery board or (as the case may be) the Scottish Ministers may impose conditions or requirements.
+(1A)[^c-3686e657a84c1deb97355ff0b974ab88] In granting permission under subsection (1) above, a district salmon fishery board or (as the case may be) the Scottish Ministers may impose conditions or requirements.
 
 (1B) A person commits an offence if the person—
 
@@ -45,12 +45,12 @@ summary: ''
 
 (2) Sub-paragraph (i) of subsection (1)(b) above applies if the act or omission referred to in that sub-paragraph takes place in a salmon fishery district for which there is a district salmon fishery board; and is a contravention of section 1, 2, 5(1)(c), 18, 19 or 23 of this Act.
 
-(3) A permission under subsection (1) above shall specify the act or omission permitted, any conditions or requirements imposed under subsection (1A) above[^key-a14c01a0c06e2f14b9ad9a33895b60b8] and the enactment to which the permission relates.
+(3) A permission under subsection (1) above shall specify the act or omission permitted, any conditions or requirements imposed under subsection (1A) above[^c-a14c01a0c06e2f14b9ad9a33895b60b8] and the enactment to which the permission relates.
 
 ## Annotations
 
-[^key-55db74affad48a123d46b53e16c4266d]: Commencement: S. 27 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-55db74affad48a123d46b53e16c4266d]: Commencement: S. 27 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-3686e657a84c1deb97355ff0b974ab88]: Textual amendment: S. 27(1A)-(1D) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 33(2)(a)](https://www.legislation.gov.uk/asp/2013/7/section/33/2/a), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-3686e657a84c1deb97355ff0b974ab88]: Textual amendment: S. 27(1A)-(1D) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 33(2)(a)](https://www.legislation.gov.uk/asp/2013/7/section/33/2/a), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-a14c01a0c06e2f14b9ad9a33895b60b8]: Textual amendment: Words in s. 27(3) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 33(2)(b)](https://www.legislation.gov.uk/asp/2013/7/section/33/2/b), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-a14c01a0c06e2f14b9ad9a33895b60b8]: Textual amendment: Words in s. 27(3) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 33(2)(b)](https://www.legislation.gov.uk/asp/2013/7/section/33/2/b), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Provision against danger to navigation[^key-e1e5f2df65003f81142182589c271bfb]
+## 17. Provision against danger to navigation[^c-e1e5f2df65003f81142182589c271bfb]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1e5f2df65003f81142182589c271bfb]: Commencement: Art. 17 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-e1e5f2df65003f81142182589c271bfb]: Commencement: Art. 17 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

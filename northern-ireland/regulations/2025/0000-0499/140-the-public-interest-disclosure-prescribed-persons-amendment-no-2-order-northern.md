@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for the Economy makes the following Order in exercise of the powers conferred by Article 67F of the Employment Rights (Northern Ireland) Order 1996[^f00001] and now vested in it[^f00002].
 
-## 1. Citation and commencement[^key-66b0ba641bd60b2559407553ffcdd04f]
+## 1. Citation and commencement[^c-66b0ba641bd60b2559407553ffcdd04f]
 
 This Order may be cited as the Public Interest Disclosure (Prescribed Persons) (Amendment No.2) Order (Northern Ireland) 2025 and shall come into operation on 4th September 2025.
 
-## 2. Amendment[^key-b0dd4060cedc69dd9de9677b0d408613]
+## 2. Amendment[^c-b0dd4060cedc69dd9de9677b0d408613]
 
 (1) The Schedule to the Public Interest Disclosure (Prescribed Persons) Order (Northern Ireland) 1999[^f00003] is amended in accordance with paragraphs (2) to (4).
 
@@ -93,9 +93,9 @@ This Order amends the Schedule to the Public Interest Disclosure (Prescribed Per
 
 [^f00002]: Footnote: The functions of the Department of Economic Development under the Employment Rights (Northern Ireland) Order 1996 were transferred to the Department of Higher and Further Education, Training and Employment by Article 4(b) of, and Schedule 2, Part 2 to, the Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999 ([S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)). The Department of Higher and Further Education, Training and Employment was renamed the Department for Employment and Learning by section 1(1) of the [Department for Employment and Learning Act (Northern Ireland) 2001 (c.15 N.I.)](https://www.legislation.gov.uk/nia/2001/15), and following the dissolution of that department by section 1(10) of the [Departments Act (Northern Ireland) 2016 (c.5 N.I.)](https://www.legislation.gov.uk/nia/2016/5), its functions under the Employment Rights (Northern Ireland) Order 1996 were transferred to the Department for the Economy by Article 6(1)(c) of the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76)).
 
-[^key-66b0ba641bd60b2559407553ffcdd04f]: Commencement: Art. 1 in operation at 4.9.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/140/article/1)
+[^c-66b0ba641bd60b2559407553ffcdd04f]: Commencement: Art. 1 in operation at 4.9.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/140/article/1)
 
-[^key-b0dd4060cedc69dd9de9677b0d408613]: Commencement: Art. 2 in operation at 4.9.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/140/article/1)
+[^c-b0dd4060cedc69dd9de9677b0d408613]: Commencement: Art. 2 in operation at 4.9.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/140/article/1)
 
 [^f00003]: Footnote: [S.R. 1999 No. 401](https://www.legislation.gov.uk/nisr/1999/401); amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631), [S.I. 2017/516](https://www.legislation.gov.uk/uksi/2017/516), [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692), [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064), [S.I. 2017/1127](https://www.legislation.gov.uk/uksi/2017/1127), [S.R. 2022 No. 72](https://www.legislation.gov.uk/nisr/2022/72), [S.R. 2022 No. 290](https://www.legislation.gov.uk/nisr/2022/290), [S.I. 2024/107](https://www.legislation.gov.uk/uksi/2024/107), [S.I. 2024/705](https://www.legislation.gov.uk/uksi/2024/705) and [S.R. 2025 No. 13](https://www.legislation.gov.uk/nisr/2025/13).
 

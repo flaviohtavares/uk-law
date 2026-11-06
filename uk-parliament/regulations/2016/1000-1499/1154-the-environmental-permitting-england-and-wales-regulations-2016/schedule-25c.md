@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 25C — Decarbonisation Readiness Requirements for Generators in England[^key-abdfcf57ca0af7cf588f0cd3679d67df]
+## SCHEDULE 25C — Decarbonisation Readiness Requirements for Generators in England[^c-abdfcf57ca0af7cf588f0cd3679d67df]
 
 *Extent: E+W*
 
@@ -169,4 +169,4 @@ For the purposes of this Schedule, a relevant generator meets the HCR conditions
 
 ## Annotations
 
-[^key-abdfcf57ca0af7cf588f0cd3679d67df]: Textual amendment: [Sch. 25C](https://www.legislation.gov.uk/uksi/2016/1154/schedule/25C) inserted (E.) (28.2.2026) by [The Environmental Permitting (Electricity Generating Stations) (Amendment) Regulations 2025 (S.I. 2025/154)](https://www.legislation.gov.uk/uksi/2025/154), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/154/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/154/schedule) (with [reg. 8](https://www.legislation.gov.uk/uksi/2025/154/regulation/8))
+[^c-abdfcf57ca0af7cf588f0cd3679d67df]: Textual amendment: [Sch. 25C](https://www.legislation.gov.uk/uksi/2016/1154/schedule/25C) inserted (E.) (28.2.2026) by [The Environmental Permitting (Electricity Generating Stations) (Amendment) Regulations 2025 (S.I. 2025/154)](https://www.legislation.gov.uk/uksi/2025/154), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/154/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/154/schedule) (with [reg. 8](https://www.legislation.gov.uk/uksi/2025/154/regulation/8))
